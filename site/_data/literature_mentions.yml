@@ -1297,6 +1297,19 @@ person:
     - key: 2-70
       en: Part 2, p. 70
       de: Heft 2, S. 70
+  malachowski:
+  - work: rostworowski1918
+    cite: Rostworowski (1918)
+    pages:
+    - key: '43'
+      en: p. 43
+      de: S. 43
+    - key: '54'
+      en: p. 54
+      de: S. 54
+    - key: '303'
+      en: p. 303
+      de: S. 303
   massenbach:
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
@@ -1583,6 +1596,12 @@ person:
       en: p. 39
       de: S. 39
   niemojewski:
+  - work: rostworowski1918
+    cite: Rostworowski (1918)
+    pages:
+    - key: '303'
+      en: p. 303
+      de: S. 303
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -1695,6 +1714,24 @@ person:
     - key: '221'
       en: p. 221
       de: S. 221
+  - work: rostworowski1918
+    cite: Rostworowski (1918)
+    pages:
+    - key: '44'
+      en: p. 44
+      de: S. 44
+    - key: '54'
+      en: p. 54
+      de: S. 54
+    - key: '55'
+      en: p. 55
+      de: S. 55
+    - key: '303'
+      en: p. 303
+      de: S. 303
+    - key: '322'
+      en: p. 322
+      de: S. 322
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -2005,6 +2042,18 @@ person:
     - key: '87'
       en: p. 87
       de: S. 87
+  - work: rostworowski1918
+    cite: Rostworowski (1918)
+    pages:
+    - key: '43'
+      en: p. 43
+      de: S. 43
+    - key: '54'
+      en: p. 54
+      de: S. 54
+    - key: '303'
+      en: p. 303
+      de: S. 303
   stein:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2587,6 +2636,13 @@ person:
     - key: '59'
       en: p. 59
       de: S. 59
+  wichrowski:
+  - work: rostworowski1918
+    cite: Rostworowski (1918)
+    pages:
+    - key: '303'
+      en: p. 303
+      de: S. 303
   wybicki:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2594,6 +2650,12 @@ person:
     - key: 2-77
       en: Part 2, p. 77
       de: Heft 2, S. 77
+  - work: rostworowski1918
+    cite: Rostworowski (1918)
+    pages:
+    - key: '303'
+      en: p. 303
+      de: S. 303
   - work: pachonski1973
     cite: Pachoński (1973)
     pages:

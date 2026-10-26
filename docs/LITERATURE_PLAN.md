@@ -1165,3 +1165,75 @@ merged into main later.
   summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
   Polom 2024). Committed on the branch, not published; publish at the
   editor's word.
+
+## 29. Rostworowski (1918), the Dziennik of the Governing Commission (2026-10-26)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `rostworowski1918` | Michał Rostworowski (ed.), *Materyały do dziejów Komisyi Rządzącej z r. 1807*, T. 1, *Dziennik czynności Komisyi Rządzącej*, Kraków: nakładem Akademii Umiejętności 1918 | Polish | `[p. N]` | yes: the excerpt, four passages (9 printed pages) |
+
+The editor's word (2026-10-26): the SBC digitisation (publication 94492,
+edition 89178; the PDF in Downloads, not kept in the repository), "I only
+want to add some passages that are relevant to Michalina
+Prusimska/Dąmbska", with the four passages named by their PDF pages. Asked,
+they ruled: **the whole sitting (Sesya) is brought in for clarity and
+context**, and for p. 322, which has no session heading, **the whole
+protocol that contains the passage** (Directorium Nr. 3).
+
+- **The excerpt** (printed pp. 43-44, 54-55, 303-304, 321-323; PDF page =
+  printed page + 22): sitting 51 of 13 February 1807 (the Dąmbska memorial
+  referred to the Director of Justice for general rules on the
+  confiscations), sitting 58 of 18 February (the opinion "a matter of a
+  purely political character", the resolution to petition the Emperor and
+  the order to the Administrative Chambers to watch the estates), sitting
+  210, extraordinary, at Dresden, 21 July (the Emperor's Wybicki decree
+  extended to Dąmbska, General Niemojewski and Wichrowski), and the
+  Directorium Generalne's protocol Nr. 3 of 15 July 1807 (the numbered
+  dispatches of the council left governing in Warsaw, in the first person of
+  the Director of Police Łubieński), which reports her among the very many
+  leaving for Dresden. The parts of the boundary pages outside the units
+  carry "[…]" (the Kneifel convention); no footnote of the print is brought
+  in, all three on the kept pages' feet belonging by their markers to text
+  not brought in.
+- **The reading.** Two witnesses held against each other (the PDF's own
+  text layer, uneven - spaced small caps split into single letters, dotless
+  ż, plain misreads - against a lunaroute OCR pass over each kept page at
+  300 dpi); the settlements and the print's kept slips are listed in the
+  work's `notes.md`, and the six doubtful spots went to the served spot
+  sheet (`scratch/rostworowski1918_sheet.py`, the crops from the PDF's own
+  word positions), which the editor answered the same day: **"300/m"** and
+  **"anzeatycznym"** ruled against the transcript's first takes, X-żę,
+  "Riviera Załuski", "ściągniąnym" and "Kaiena" confirmed, and the stray
+  line of p. 321 left open ("I have no idea", NEEDS_CONFIRMATION). The
+  images could not be read directly in the session (the harness returned
+  them stripped), so the settlements rest on the two witnesses and sense
+  alone - the standing zoom pass of Kraus (2001) was not possible. A word
+  the print divides over a page turn is given whole on the first page (the
+  Kucharski rule).
+- **Kind `collection`**, like the Materialien: an edited primary record, a
+  century after the manuscript - the test of section 2 (a record of the
+  Duchy's government printed for its history, not a document *of* the
+  estate's history) put to the editor with the plan and accepted. Out of
+  copyright (the print of 1918; Rostworowski d. 1940).
+- **The index**: 23 hits in the work, all ruled. New spellings:
+  "Małachowskiego" (the President; p. 44 excepted to "no" - there it is the
+  late Director of the Treasury, Jan Nepomucen, whose accounts the
+  Commission closed on 12 February), "Niemojewskiego" and "Wichrowski" (the
+  edition's precedent men of the decree), "Magnuski" refused (Piotr
+  Magnuski, writer of acts at Kościan, not the Prince's creditor of 1805).
+  A literature-only pattern gives the literature the print's modern
+  genitives of Michalina's married surname ("Dambskiej", "Dąbskiej") and
+  the print's own bracket "Dambski[ej]", which the edition's pattern (built
+  on the documents' -kiey forms) misses; all ruled to her.
+- **Three hand-made links** (`rostworowski1918-february`, `-decree`,
+  `-dresden`): the February record against her file (her letter of 20 July
+  saying she has already twice asked; the draft of 21 July), the decree of
+  21 July against the register's resolution (AGAD 1/174/0/1/6) in wording
+  near the print's ("z Prusińskich Dambskiey" against "z Prusimskich
+  Dambskiej") and her letter of 23 July, and the protocol's Dresden report
+  against her three letters written at Dresden of 20-23 July. Every date
+  and figure read on both sides; the identification rests on the edition's
+  own register, not on Claude's eye alone.
+- The literature has 37 works, 33 with pages in both languages and four
+  summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
+  Polom 2024). **Published 2026-10-26** at the editor's word.

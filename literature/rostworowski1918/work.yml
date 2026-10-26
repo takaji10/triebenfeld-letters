@@ -1,0 +1,83 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md was read in
+# session from the SBC digitisation (publication 94492, edition 89178) with the
+# PDF's own text layer and a lunaroute OCR pass over the 300 dpi page images
+# held against each other; the PDF is not kept in the repository. english.md is
+# Claude's. An excerpt: the four passages that name or bear on Michalina z
+# Prusimskich Dąbska, each brought whole (three sittings of the Dziennik, one
+# protocol of the Directorium), the rest of the boundary pages marked "[…]".
+# The volume is out of copyright (Rostworowski d. 1940; the print of 1918).
+# See notes.md.
+slug: rostworowski1918
+visible: true
+kind: collection
+title: "Materyały do dziejów Komisyi Rządzącej z r. 1807. T. 1, Dziennik czynności Komisyi Rządzącej"
+title_en: "Materials for the History of the Governing Commission of 1807. Vol. 1, The Journal of the Proceedings of the Governing Commission"
+cite: "Rostworowski (1918)"
+author: "Michał Rostworowski"
+# The editor of the printed record; the Literature page shows the name, the account says what his part was.
+author_sort: "Rostworowski, Michał"
+published: "Kraków: nakładem Akademii Umiejętności i Towarzystwa Popierania Wydawnictw Akademii Umiejętności, 1918 (drukarnia Uniwersytetu Jagiellońskiego)"
+year: 1918
+language: pl
+english_by: Claude
+scan: "https://sbc.org.pl/dlibra/publication/94492/edition/89178/materyaly-do-dziejow-komisyi-rzadzacej-z-r-1807-t-1-dziennik-czynnosci-komisyi-rzadzacej-rostworowski-michal-1864-1940"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  The day-by-day journal of the Governing Commission (Komisya Rządząca) of
+  the Duchy of Warsaw, the body that carried the government from January
+  1807 while Napoleon held the country, printed for the first time from the
+  manuscript a century later, edited by Michał Rostworowski and published
+  by the Academy of Learning at Kraków in 1918. Each sitting is recorded:
+  the memorials received and referred, the resolutions taken in actis, the
+  attendance of the President Stanisław Małachowski and the Directors. The
+  later part of the volume adds the protocols of the Directorium Generalne,
+  the council of Directors left to govern in Warsaw while the Commission
+  sat at Dresden in July 1807, written in the first person and numbered as
+  dispatches, mostly in the hand of Antoni Łubieński, the Director of
+  Police. It is an edited primary record, not a study: the editor's notes
+  cite the archive's allegats, and the manuscript's slips stand as printed.
+  Only four passages are brought in, those that name or bear on Michalina z
+  Prusimskich Dąbska, whose petitions for the return of her father's
+  confiscated estates the edition holds: the reference of her memorial to
+  the Director of Justice for general rules on the confiscations (sitting
+  51 of 13 February, pp. 43-44), the Director's opinion that her request is
+  "a matter of a purely political character", which the Commission answered
+  by resolving to petition the Emperor for the repeal of the confiscations
+  and ordering the Administrative Chambers to watch the estates (sitting 58
+  of 18 February, pp. 54-55), the Directorium's protocol of 15 July 1807
+  reporting that she was among the very many leaving for Dresden (No. 3,
+  pp. 321-323), and the extraordinary sitting of 21 July at Dresden, where
+  the Commission, taking example from the Emperor's decree of 5 June
+  restoring Wybicki's estates, extended that decree to her case and to
+  General Niemojewski's and Mr. Wichrowski's (sitting 210, pp. 303-304).
+account_de: >-
+  Das Tag für Tag geführte Protokoll der Regierenden Kommission
+  (Komisya Rządząca) des Herzogtums Warschau, des Gremiums, das ab Januar
+  1807 die Regierung führte, während Napoleon das Land in Händen hielt,
+  ein Jahrhundert später erstmals nach der Handschrift gedruckt, herausgegeben
+  von Michał Rostworowski und 1918 von der Akademie der Wissenschaften in
+  Krakau veröffentlicht. Jede Sitzung ist verzeichnet: die empfangenen und
+  überwiesenen Bittschriften, die in actis gefassten Beschlüsse, die Anwesenheit
+  des Präsidenten Stanisław Małachowski und der Direktoren. Der spätere Teil
+  des Bandes fügt die Protokolle des Directorium Generalne hinzu, des Rates
+  von Direktoren, der in Warschau regierte, während die Kommission im Juli
+  1807 in Dresden saß, in der ersten Person geschrieben und als Depeschen
+  numeriert, meist von Antoni Łubieński, dem Polizeidirektor. Es ist ein
+  herausgegebenes Quellenzeugnis, keine Untersuchung: die Anmerkungen des
+  Herausgebers verweisen auf die Allegate des Archivs, und die Fehler der
+  Handschrift stehen, wie gedruckt. Nur vier Abschnitte sind aufgenommen,
+  die Michalina z Prusimskich Dąbska nennen oder betreffen, deren Bittschriften
+  um die Rückzahlung der konfiszierten Güter ihres Vaters die Edition besitzt:
+  die Überweisung ihres Memorials an den Justizdirektor zwecks allgemeiner
+  Regeln über die Konfiskationen (Sitzung 51 vom 13. Februar, S. 43-44), die
+  Meinung des Direktors, ihr Begehren sei "eine Sache von rein politischem
+  Charakter", worauf die Kommission beschloss, beim Kaiser um Aufhebung der
+  Konfiskationen zu bitten, und die Administrative Kammern zur Aufsicht über
+  die Güter anwies (Sitzung 58 vom 18. Februar, S. 54-55), das Protokoll des
+  Directorium vom 15. Juli 1807, das meldet, daß sie zu den sehr vielen gehörte,
+  die nach Dresden abreisten (Nr. 3, S. 321-323), und die außerordentliche
+  Sitzung vom 21. Juli in Dresden, in der die Kommission, dem Beispiel des
+  kaiserlichen Dekrets vom 5. Juni folgend, das Wybickis Güter zurückgab, das
+  Dekret auf ihren Fall und die des Generals Niemojewski und des Herrn
+  Wichrowski erstreckte (Sitzung 210, S. 303-304).

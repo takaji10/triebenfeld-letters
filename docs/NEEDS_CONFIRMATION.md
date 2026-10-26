@@ -901,6 +901,25 @@ read, translate and summarise.
     holdings carry it, and the place of the sitting (the roczki moved the
     court round the palatinate) is settled by the same reading and fills
     the empty place override.
+  - **Rostworowski (1918)**, the Dziennik of the Governing Commission
+    (added 2026-10-26, branch `rostworowski1918`; `literature/rostworowski1918/notes.md`
+    has the whole record). The editor answered the spot sheet the same day,
+    ruling **300/m** and **anzeatycznym** against the transcript's first
+    takes (the layer's "SOO/m" and "anzeatyeznym"), and confirming
+    X-żę, "Riviera Załuski", "ściągniąnym" and "Kaiena" as transcribed:
+    - **The stray line on p. 321** ("Nominowani zostali do konsystorza
+      Luterskiego w Płocku.") stands between protocol Nr. 2's signature and
+      the Nr. 3 heading; taken for Nr. 2's and left out. Asked on the spot
+      sheet, the editor could not tell ("I have no idea"); the take stands,
+      and if the print meant it inside Nr. 3 the excerpt misses one
+      sentence of it.
+    - **The identifications.** The print's Dąmbska/Dambska of the four
+      passages is the edition's Michalina on the edition's own evidence (the
+      register's resolution of 21 July, AGAD 1/174/0/1/6, repeats the
+      Dziennik's entry nearly word for word). The ruling "Wichrowski: yes"
+      is Claude's (the decree's third man beside the edition's precedent
+      men), as is the reading of "Horodyński" for the layer's
+      "Ilorodyński".
 
 ## Readings, Oe 1 Bü 9454
 

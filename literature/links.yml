@@ -1015,3 +1015,114 @@
     Olęder auf diesen Waldungen „wie durch die ihnen 1746 verliehenen
     Rechte bezeugt“. Kneifel nennt allein den Ehemann, die Dokumente das
     Ehepaar, und die Edition folgt den Dokumenten.
+
+# Rostworowski (1918), the Dziennik of the Governing Commission (2026-10-26).
+# The identification of the print's Dąmbska/Dambska with Michalina z
+# Prusimskich Dąbska rests on the edition's own register (AGAD 1/174/0/1/6),
+# whose resolution of 21 July 1807 repeats the Dziennik's entry nearly word
+# for word; the other readings and identifications are in the work's
+# notes.md. Every date and figure below was read in the book and in the
+# document.
+
+- id: rostworowski1918-february
+  passages:
+    - rostworowski1918/43
+    - rostworowski1918/44
+    - rostworowski1918/54
+    - rostworowski1918/55
+  documents:
+    - agad11740273-2
+    - agad11740273-1
+  en: >-
+    The Dziennik of the Governing Commission records, at the sitting of
+    13 February 1807, that the memorial of Michalina née Prusimska Dąbska
+    was referred for an opinion to the Director of Justice, so that he might
+    propose general rules for the confiscations of the citizens' estates
+    under the past government, and, at the sitting of 18 February, the
+    Director's opinion that her request is "a matter of a purely political
+    character", whence the Commission resolved to petition the Emperor for
+    the repeal of the confiscations and ordered the Administrative Chambers
+    to watch the estates. The edition holds the file's petitions of July but
+    not the February memorial itself: her letter of 20 July 1807 to the
+    Commission at Dresden says she has already twice asked it for the return
+    of the estates confiscated from her father for the Prussian generals,
+    and the draft resolution of 21 July 1807 in the same file is the answer
+    taking shape.
+  de: >-
+    Das Dziennik der Regierungskommission verzeichnet, in der Sitzung vom
+    13. Februar 1807, daß das Memorial von Michalina geb. Prusimska Dąbska
+    zur Ansicht an den Justizdirektor übersandt wurde, damit er allgemeine
+    Regeln für die Konfiskationen der Güter der Bürger unter der früheren
+    Regierung vorschlage, und, in der Sitzung vom 18. Februar, die Meinung
+    des Direktors, ihr Begehren sei "eine Sache von rein politischem
+    Charakter", weswegen die Kommission beschloß, beim Kaiser um Aufhebung
+    der Konfiskationen zu bitten, und die Administrative Kammern zur
+    Aufsicht über die Güter anwies. Die Edition besitzt die Bittschriften
+    der Akte aus Juli, nicht aber das Februar-Memorial selbst: Ihr Brief vom
+    20. Juli 1807 an die Kommission in Dresden sagt, sie habe es schon
+    zweimal um die Rückgabe der ihrem Vater zugunsten der preußischen
+    Generale konfiszierten Güter gebeten, und der Entwurf der Resolution vom
+    21. Juli 1807 in derselben Akte ist die sich abzeichnende Antwort.
+
+- id: rostworowski1918-decree
+  passages:
+    - rostworowski1918/303
+  documents:
+    - agad1174016-2
+    - agad11740273-1
+    - agad11740273-4
+  en: >-
+    The Dziennik's record of the extraordinary sitting of 21 July 1807 at
+    Dresden says the Commission, taking example from the Emperor's decree of
+    5 June given at Finckenstein for Wybicki, extended that decree to the
+    cases of Michalina Dąbska, General Niemojewski and Wichrowski, so that
+    their hereditary estates, confiscated by the past Prussian government,
+    return to their true owners. The register the edition holds carries the
+    resolution itself (21 July, signed by Małachowski and Łuszczewski) in
+    wording near the print's - it writes "z Prusińskich Dambskiey" where the
+    print has "z Prusimskich Dambskiej" - beside the file's draft of the same
+    day; and her letter of 23 July takes the decree of 5 June for the
+    principle and pattern of the Commission's own decree of 21 July and asks
+    that the Administrative Chambers be ordered to carry her, as Wybicki was
+    carried, into the estates.
+  de: >-
+    Das Protokoll der außerordentlichen Sitzung vom 21. Juli 1807 in Dresden
+    im Dziennik sagt, die Kommission habe, dem Beispiel des kaiserlichen
+    Dekrets vom 5. Juni folgend, das in Finckenstein für Wybicki erging, das
+    Dekret auf die Fälle von Michalina Dąbska, General Niemojewski und
+    Wichrowski erstreckt, damit ihre erblichen, vom früheren preußischen
+    Staat konfiszierten Güter an ihre wahren Eigentümer zurückkehren. Das
+    Register der Edition trägt die Resolution selbst (21. Juli, unterschrieben
+    von Małachowski und Łuszczewski) in fast gleichem Wortlaut - es schreibt
+    "z Prusińskich Dambskiey", wo der Druck "z Prusimskich Dambskiej" hat -
+    neben dem Entwurf desselben Tages in der Akte; und ihr Brief vom 23. Juli
+    nimmt das Dekret vom 5. Juni als Grundsatz und Vorbild des Dekrets der
+    Kommission vom 21. Juli und bittet, die Administrative Kammern
+    anzuweisen, sie, wie Wybicki, in die Güter einzuführen.
+
+- id: rostworowski1918-dresden
+  passages:
+    - rostworowski1918/322
+  documents:
+    - agad11740273-2
+    - agad11740273-3
+    - agad11740273-4
+  en: >-
+    The Directorium's protocol Nr. 3 of 15 July 1807, written in the first
+    person by the Director of Police Łubieński, reports that very many were
+    leaving for Dresden - "Dąmbska, Kownacka, Węgrzecki, Bórakowski" among
+    them - and that the Government must be told daily who arrives there.
+    She was in Dresden within the week: the edition holds her letters of
+    20, 21 and 23 July 1807 to the Governing Commission and to the Emperor,
+    all written at Dresden and signed "Michalina z Prusimskich Dambska", the
+    last acknowledging the Commission's decree of 21 July.
+  de: >-
+    Das Protokoll Nr. 3 des Directorium vom 15. Juli 1807, in der ersten
+    Person geschrieben vom Polizeidirektor Łubieński, meldet, sehr viele
+    reisten nach Dresden - "Dąmbska, Kownacka, Węgrzecki, Bórakowski" unter
+    ihnen - und daß der Regierung täglich gemeldet werden müsse, wer dort
+    ankommt. Sie war binnen der Woche in Dresden: Die Edition besitzt ihre
+    Briefe vom 20., 21. und 23. Juli 1807 an die Regierungskommission und an
+    den Kaiser, alle in Dresden geschrieben und unterzeichnet "Michalina z
+    Prusimskich Dambska", der letzte mit der Kenntnis des Dekrets der
+    Kommission vom 21. Juli.
