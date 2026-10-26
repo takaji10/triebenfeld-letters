@@ -2424,3 +2424,34 @@ cloud branches").
   site (a shown page is the editor's authorised text in full; a hidden
   work's own page is still checked strictly). Checker internals - decided
   in session, recorded in the changelog.
+- **Two sessions, one working copy** (2026-10-26): a second session may be
+  working in the same checkout (its work showed up as modified files and a
+  new `units/` folder mid-session). Before `git checkout -b`, run
+  `git status`: a checkout in the shared directory moves the other
+  session's branch under it. Work in a worktree instead
+  (`worktree_create`, then `session_move` onto it) and give the worktree
+  its own branch. **The worktree lacks the gitignored `pages/`**, and a
+  `regenerate --site` run there then rewrites every unit's
+  `page_scan_map.csv` with `gap` rows (the images are what the mapping
+  pairs against; the db is built before the mapping, so the site itself
+  survives). Junction the worktree's `pages/` to the main checkout's
+  (`New-Item -ItemType Junction`) before any build, and put the new
+  holding's staged pages there too. Recovery if it happened anyway:
+  `git checkout -- units/*/page_scan_map.csv` and the other churned
+  generated files, then rebuild.
+- **A table with no column of entry numbers** (2026-10-26, APP 53/21/0/-/
+  Pyzdry Gr.115): `unitlib.table_of` sorted a table by its first column's
+  numbers and crashed (`StopIteration`) on a table that has none - the
+  parish stands in the first cell and the figures follow. It now sorts such
+  a table with every figure row in the body and the rows above the first of
+  them in the head; `render_table` puts the first cell with the name, not
+  the number column, and applies no total styling, judged over the whole
+  table (a closing page of a numbered table has no numbers of its own - the
+  scope was wrong once and the before-and-after check caught it). The
+  check: `pipeline/review/verify_table_of_diff.py`, the pristine and the new code
+  over every existing table, parse and render. And a trap in the checker:
+  `check_unit_text.py`'s `digits()` reads a comma-run of a table row
+  ("…,31,62,124") as one thousands number ("31,62124"), so figures quoted
+  from such a row fail the citation check unless the document's summary
+  carries them with spaces ("31, 62 and 124") - the summaries are part of
+  the checked haystack by design; write the summary before rebuilding.

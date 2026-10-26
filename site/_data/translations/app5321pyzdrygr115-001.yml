@@ -1,0 +1,35 @@
+status: draft
+segments:
+- page: 1
+  en: 'Parish,"Names of towns, villages and demesne farms",Agricultural hearths,gara of rye,gara owcza
+
+    Trąbczyn,Village Trąbczyn,21,22,84
+
+    ,The parsonage,4,8,16
+
+    ,Nowawieś,5,10,20
+
+    ,Osiny,6,12,24
+
+    ,Łazy,5,10,20
+
+    ,The smithy of Maryantów,1,2,4
+
+    ,"The Hollander settlements scattered, the old and the new, with the Huta",31,62,124'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="1" class="no">Parish</th><th rowspan="1" class="name">Names of towns, villages
+    and demesne farms</th><th class="num">Agricultural hearths</th><th class="num">gara of rye</th><th
+    class="num">gara owcza</th></tr></thead>
+
+    <tbody><tr><td class="name">Trąbczyn</td><td class="name">Village Trąbczyn</td><td class="num">21</td><td
+    class="num">22</td><td class="num">84</td></tr><tr><td class="name"></td><td class="name">The parsonage</td><td
+    class="num">4</td><td class="num">8</td><td class="num">16</td></tr><tr><td class="name"></td><td
+    class="name">Nowawieś</td><td class="num">5</td><td class="num">10</td><td class="num">20</td></tr><tr><td
+    class="name"></td><td class="name">Osiny</td><td class="num">6</td><td class="num">12</td><td class="num">24</td></tr><tr><td
+    class="name"></td><td class="name">Łazy</td><td class="num">5</td><td class="num">10</td><td class="num">20</td></tr><tr><td
+    class="name"></td><td class="name">The smithy of Maryantów</td><td class="num">1</td><td class="num">2</td><td
+    class="num">4</td></tr><tr><td class="name"></td><td class="name">The Hollander settlements scattered,
+    the old and the new, with the Huta</td><td class="num">31</td><td class="num">62</td><td class="num">124</td></tr></tbody>
+
+    </table></div>'

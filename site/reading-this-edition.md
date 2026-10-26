@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-eight holdings in six archives and a library:
+The documents come from forty-nine holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -48,7 +48,9 @@ The documents come from forty-eight holdings in six archives and a library:
 - the **State Archive in Poznań**: entries from the court books of Konin and Kalisz on the
   boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (21
   holdings, 92 documents); thirteen pages of the hearth-tax register of the Kalisz
-  voivodeship for 1789; a court record of 1806; copies made about 1930 of papers on the
+  voivodeship for 1789; the head of the table of the parish of Trąbczyn on page 543
+  of the register of the grod court and office of Pyzdry, of 1791 to 1792; a court
+  record of 1806; copies made about 1930 of papers on the
   division of the estates; a printed summons of 1860 in a lawsuit between the owner of
   Trąbczyn and its colonists; ten research sheets in which the historian Albert Breyer
   collected the Polonised German surnames of the gmina Zagórów, with his excerpt of a

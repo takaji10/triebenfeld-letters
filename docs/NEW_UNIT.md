@@ -148,6 +148,16 @@ Oe 1 Bü 9454, document 303, the older one.
   the clean workbook to keep into the unit's folder (`holding.py
   --archive`). `docs/WORKING_NOTES.md`, "Taking back a spreadsheet the
   editor has checked".
+- **A table with no column of entry numbers** (APP 53/21/0/-/Pyzdry
+  Gr.115, 2026-10-26): the parish stands in the first cell, filled once,
+  and the figures follow. `unitlib.table_of` sorts it with the figure rows
+  in the body and the rows above the first of them in the head;
+  `render_table` puts the first cell with the name and applies no total
+  styling. The check that no existing table changes:
+  `pipeline/review/verify_table_of_diff.py`. A trap in the citation check: figures
+  quoted from such a row fail against the comma-run of the corpus line
+  unless the document's summary carries them with spaces (WORKING_NOTES,
+  "A table with no column of entry numbers").
 
 ## 2. Build, and read what it says
 

@@ -6015,7 +6015,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 7,
+  "places_named": 8,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -6539,7 +6539,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 12,
+  "places_named": 13,
   "estates": [
    "trabczyn"
   ],
@@ -32963,6 +32963,47 @@
   "path": "documents/app5314550221-5.json",
   "text_path": "text/app5314550221-5.txt",
   "permalink": "/documents/app5314550221/5/"
+ },
+ {
+  "uid": "app5321pyzdrygr115-1",
+  "unit": "app5321pyzdrygr115",
+  "letter_id": "1",
+  "doc_type": "register",
+  "language": "pl",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "",
+  "date_precision": "unknown",
+  "date_source": "none",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 9,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0543_a",
+    "image": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 7,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "register 1",
+  "path": "documents/app5321pyzdrygr115-1.json",
+  "text_path": "text/app5321pyzdrygr115-1.txt",
+  "permalink": "/documents/app5321pyzdrygr115/1/"
  },
  {
   "uid": "app539680545-1",

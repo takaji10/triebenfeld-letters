@@ -39,7 +39,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus achtundvierzig Beständen in sechs Archiven und einer Bibliothek:
+Die Dokumente stammen aus neunundvierzig Beständen in sechs Archiven und einer Bibliothek:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -50,7 +50,9 @@ Die Dokumente stammen aus achtundvierzig Beständen in sechs Archiven und einer 
 - dem **Staatsarchiv Posen**: Einträgen aus den Gerichtsbüchern von Konin und Kalisch zur
   Grenze zwischen Trąbczyn und Łukom und zu den Prozessen darum, von 1589 bis 1788 (21
   Bestände, 92 Dokumente), dreizehn Seiten des Registers der Rauchfangsteuer der
-  Woiwodschaft Kalisch für 1789, einem Gerichtsprotokoll von 1806, um 1930 angefertigten
+  Woiwodschaft Kalisch für 1789, dem Kopf der Tabelle der Pfarrei Trąbczyn auf der
+  Seite 543 des Registers des Burggerichts und -amts Pyzdry von 1791 bis 1792, einem
+  Gerichtsprotokoll von 1806, um 1930 angefertigten
   Abschriften von Schriftstücken über die Aufteilung der Güter, einer gedruckten
   Vorladung von 1860 in einem Prozess zwischen dem Besitzer von Trąbczyn und dessen
   Kolonisten, zehn Arbeitsblättern, auf denen der Historiker Albert Breyer die

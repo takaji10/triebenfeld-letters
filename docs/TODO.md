@@ -203,9 +203,12 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
       2026-10-06 (each entry a document; mixed spelling accepted and
       labelled; whole pages; the raw-file folders, "Unrelated" and
       "Incorrect Pages" left out; batch order mine).
-- [ ] **You: texts for five folders that have none**: Inscriptiones Pyzdry
-      Gr.75, Relationes Poznań Gr.1181, Relationes Pyzdry Gr.115,
-      Relationes-oblatae Konin Gr.142 and Gr.150.
+- [ ] **You: texts for four folders that have none**: Inscriptiones Pyzdry
+      Gr.75, Relationes Poznań Gr.1181, Relationes-oblatae Konin Gr.142 and
+      Gr.150. (Relationes Pyzdry Gr.115 came in on 2026-10-26: your
+      transcription of the table on page 543, built as app5321pyzdrygr115;
+      the entry's date and the two "gara" headings still open,
+      NEEDS_CONFIRMATION.)
 - [ ] **You: Pyzdry Gr.75**, the one signature on two folders, when you
       come back to it.
 

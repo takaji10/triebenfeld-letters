@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 43
+  docs: 44
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 50
+  docs: 51
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -1138,7 +1138,7 @@
   initial_en: "G"
   sort_de: "grod (burggericht)"
   initial_de: "G"
-  docs: 56
+  docs: 57
 - id: "stawisko"
   kind: "land"
   lang: "pl"
@@ -1708,7 +1708,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 41
+  docs: 42
 - id: "ex-officio"
   kind: "law"
   lang: "la"

@@ -399,10 +399,16 @@ places:
     # (app5371057, 1806). Mariantów in gmina Zagórów, powiat słupecki, the area
     # of the former gmina Trąbczyn. Also the unclear "Marianton" of 9454 letter
     # 136. Added 2026-09-30.
+    # "Maryant[oó][nw]" (2026-10-26): the smithy "Kuznia Maryantów" in the
+    # table of the parish of Trąbczyn (app5321pyzdrygr115) is this place - the
+    # editor's word - and the Prussian table's "Maryantow." (agad1169011745,
+    # row 175) is it too; both were unmatched before. 4 hits in 3 documents,
+    # each line read. The ruling also supports reading the unclear
+    # "Marianton" of 9454 letter 136 as this place.
     display: "Mariantów"
     german: "Marianton"
     kind: village
-    match: 'Mariant[oóe][nw]\w*|Maryant[oó]n\w*'
+    match: 'Mariant[oóe][nw]\w*|Maryant[oó][nw]\w*'
     tier: "Context-inferred"
     variants: ["Marianton", "Marianten", "Mariantow"]   # the last two: the copy of about 1930, APP 53/968/0/-/801
 
@@ -507,8 +513,11 @@ places:
     kind: settlement
     tier: "Book-confirmed"
     # "Olędry nowe i stare" and the table's "Olendry" in the visitation of 1791
-    # (ADWł 85) are the two settlements together.
-    match: 'Staro[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)'
+    # (ADWł 85) are the two settlements together. So is "Hollendry Luzne Stare
+    # i nowe z Hutą" in the table of the parish of Trąbczyn of 1791-1792
+    # (app5321pyzdrygr115): one row naming both, 2026-10-26; 1 hit, that
+    # document only.
+    match: 'Staro[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)|Hollendry(?= Luzne Stare i nowe)'
     distinct_from: [lazy-trabczyn, trabczynskie-nowe-oledry]
     variants:
       - {form: "Trombschino-Hauland", match: false, seen_in: ["Hohenlohe-era estate inventory"]}
@@ -545,7 +554,11 @@ places:
     display: "Trąbczyńskie Nowe Olędry"
     kind: settlement
     tier: "Book-confirmed"
-    match: 'Nowo[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)'
+    # "Hollendry Luzne Stare i nowe z Hutą" in the table of the parish of
+    # Trąbczyn of 1791-1792 (app5321pyzdrygr115) names both settlements in
+    # one row, as the visitation's "Olędry nowe i stare" does (2026-10-26);
+    # 1 hit, that document only.
+    match: 'Nowo[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)|Hollendry(?= Luzne Stare i nowe)'
     distinct_from: [lazy-trabczyn, trabczynskie-stare-oledry]
     variants:
       - {form: "Łazińskie Nowe Olędry", match: false}
@@ -2229,7 +2242,11 @@ places:
   lazy-trabczyn:
     display: "Łazy"
     kind: village
-    match: '(?<=Nowawies, )Lazy|(?<=stare )Łazy|Łazy(?= \| \d)'
+    # "(?<=,)Łazy(?=,)" (2026-10-26): the name cell of a table row, where the
+    # row carries no other context - the hearth-tax register's entry 180
+    # (app53640kalisztab21) and the table of the parish of Trąbczyn
+    # (app5321pyzdrygr115). 2 hits in 2 documents, each line read.
+    match: '(?<=Nowawies, )Lazy|(?<=stare )Łazy|Łazy(?= \| \d)|(?<=,)Łazy(?=,)'
     tier: "Text-confirmed"
     variants: []
     # One of the villages of the 1796 grant (12765, document 4). Matched only
