@@ -1252,13 +1252,22 @@ entries (the editor's word).
       asterisks are genealogical IDs for certain Zelmers/relations and
       are kept (the tables' note column); the Fig. references are
       removed.
-- [ ] Widen the Places page (tier 1 and tier 2, the estates first), so
-      the cemetery pages have somewhere to hang.
+- [x] Widen the Places page (tier 1 and tier 2, the estates first), so
+      the cemetery pages have somewhere to hang. *(done 2026-10-26: the
+      index built — tier 1 the gazetteer's 112 places and the register's
+      area-marked ones, tier 2 the register's remaining 126; the estates'
+      cards unchanged; the checks in verify_site.)*
 - [ ] The gazetteer: split Łazińsk Pierwszy and Drugi out of
       `lazinskie-oledry`, draft Orlina Duża, Stawiszyn and Zbiersk
       Kolonia; your eye on the five texts before they enter.
-- [ ] The section's machinery (the list page, the menu, the i18n, the
-      checks), then the ten cemeteries one at a time.
+      *(drafted 2026-10-26 in `scratch/gazetteer_drafts/` — waiting on
+      you.)*
+- [x] The section's machinery (the list page, the menu, the i18n, the
+      checks), then the ten cemeteries one at a time. *(done 2026-10-26:
+      /cemeteries/ and /de/friedhoefe/, ten pages each, ALL CHECKS
+      PASSED.)*
 - [ ] **You: the visits' exact date** if you want more than "2023" on the
       pages (NEEDS_CONFIRMATION, "The cemeteries"); the numbers and the
       figures are settled.
+- [ ] **You: a look at the section** — the list page, a page or two, the
+      widened Places page — before it goes to `main` at your word.
