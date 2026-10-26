@@ -1226,5 +1226,5 @@ the folder is the title page and is left out (your word).
       holding page, first written as a copy of the English, rewritten in
       German. Lesson in WORKING_NOTES.
 - [ ] A timeline event: none added - the entry names no party; offered.
-- [x] Published at your word (2026-10-26): the branch merged to main and
-      pushed; the local build and verify passed.
+- [x] Published at your word (2026-10-26): main pushed after the local
+      Jekyll build and verify passed; the "Build and deploy" run succeeded.

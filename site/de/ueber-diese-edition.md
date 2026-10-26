@@ -162,11 +162,11 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 905 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 910 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 614 von 619. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 624 von 628. Sie wurden von einem
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.
@@ -197,7 +197,7 @@ Zusammenfassungen entstanden sind.
 
 **Datierung.** Etwa neun von zehn Dokumenten tragen ihr eigenes Datum. Die übrigen hat der
 Herausgeber nach der Handschrift, nach den benachbarten Briefen oder nach einer zweiten
-Abschrift datiert, und jedes Dokument sagt, was für es gilt. Neun bleiben undatiert.
+Abschrift datiert, und jedes Dokument sagt, was für es gilt. Achtzehn bleiben undatiert.
 
 **Personen.** Unter [Personen]({{ '/de/personen/' | relative_url }}) steht jeder, der oft
 genug genannt ist, um ihm zu folgen, mit den Dokumenten, die ihn nennen. Manche
