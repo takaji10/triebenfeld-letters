@@ -1,0 +1,27 @@
+# The headstones of the cemetery at Zbiersk Kolonia, as the survey reads
+# them - nothing tidied (docs/CEMETERIES_PLAN.md, section 2). The first
+# stone names no person: its inscription is the row's note.
+- name: "—"
+  note: '"Ruhestate der Familie Heinrich"'
+- name: "[?]"
+  born: "[?]"
+  died: "19.01.1[906?]"
+- name: "[?]dwill, Paul[?]"
+  born: "[2?].04.1881"
+  died: "1[?].01.190[?]"
+- name: "Gardke, Daniel"
+  born: "05.08.1823"
+  died: "05.11.18[9?]8"
+  note: 'gravestone for "Familje Gardke"'
+- name: "Heinrich, [Marta?]"
+  born: "09.02.1895"
+  died: "15.05.1905"
+- name: "Pudewill, August"
+  born: "[?].07.1854"
+  died: "14.02.1937"
+- name: "Szulc, Gerhardt"
+  born: "23.[?].193[?]"
+  died: "2[5?].[?].[?]"
+- name: "Weis, Gotlib"
+  born: "19.09.1838"
+  died: "26.09.1899"

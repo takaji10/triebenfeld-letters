@@ -1229,7 +1229,55 @@ the folder is the title page and is left out (your word).
 - [x] Published at your word (2026-10-26): main pushed after the local
       Jekyll build and verify passed; the "Build and deploy" run succeeded.
 
-## 36. APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784 (added, translated and published 2026-10-26, branch `app5320pozgr1181`)
+## 55. The cemeteries (planned 2026-10-26, branch `cemeteries`)
+
+The editor's own survey of the ten Evangelical cemeteries of the
+Trąbczyn/Zagórów area and its neighbourhood — condition notes and
+headstone readings — brought in as the new fourth section
+(`cemeteries/`; `docs/CEMETERIES_PLAN.md`). A page per cemetery with the
+headstones as tables, matched to their village place names; no person
+entries (the editor's word).
+
+- [x] The plan written (`docs/CEMETERIES_PLAN.md`) and the survey's copy
+      kept verbatim in `reference/cemeteries/source/`.
+- [x] Your rulings of 2026-10-26 worked in: the Places page widens to a
+      general index of places, tier 1 Trąbczyn/Zagórów and nearby, tier 2
+      everything else (PLACES_PLAN, section 7; the estates' metadata for
+      the letters untouched); Łazińsk Pierwszy and Łazińsk Drugi their
+      own gazetteer entries ("they are separate today"); the second
+      source named (the AGOFF article by Jürgen Frantz, members-only —
+      MISSING_SOURCES); all ten one visit, in 2023; photographs later;
+      the list page's order agreed.
+- [x] Your rulings of the same day, second batch: the numbers in
+      asterisks are genealogical IDs for certain Zelmers/relations and
+      are kept (the tables' note column); the Fig. references are
+      removed.
+- [x] Widen the Places page (tier 1 and tier 2, the estates first), so
+      the cemetery pages have somewhere to hang. *(done 2026-10-26: the
+      index built — tier 1 the gazetteer's 112 places and the register's
+      area-marked ones, tier 2 the register's remaining 126; the estates'
+      cards unchanged; the checks in verify_site.)*
+- [ ] The gazetteer: split Łazińsk Pierwszy and Drugi out of
+      `lazinskie-oledry`, draft Orlina Duża, Stawiszyn and Zbiersk
+      Kolonia; your eye on the five texts before they enter.
+      *(drafted 2026-10-26 in `scratch/gazetteer_drafts/` — waiting on
+      you.)*
+- [x] The section's machinery (the list page, the menu, the i18n, the
+      checks), then the ten cemeteries one at a time. *(done 2026-10-26:
+      /cemeteries/ and /de/friedhoefe/, ten pages each, ALL CHECKS
+      PASSED.)*
+- [ ] **You: the visits' exact date** if you want more than "2023" on the
+      pages (NEEDS_CONFIRMATION, "The cemeteries"); the numbers and the
+      figures are settled.
+- [ ] **You: the five drafted gazetteer entries**
+      (`scratch/gazetteer_drafts/`): Łazińsk Pierwszy and Drugi split from
+      `lazinskie-oledry`, and Orlina Duża, Stawiszyn and Zbiersk Kolonia
+      drafted from the survey. Say yes and they enter the gazetteer and
+      the three linkless cemetery pages get their place links.
+- [x] **Published at your word (2026-10-26)**: the branch merged to main
+      and pushed; the "Build and deploy" run to confirm.
+
+## 37. APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784 (added, translated and published 2026-10-26, branch `app5320pozgr1181`)
 
 One Latin entry, pp. 161-167v of the relationes protocollon: the decree of the
 condescensio held on the Trąbczyn grounds on 29 March 1784, on the ultimate

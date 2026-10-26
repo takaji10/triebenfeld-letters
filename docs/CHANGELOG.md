@@ -2892,6 +2892,49 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-26 — The cemeteries: the section planned and built (branch `cemeteries`)
+
+- **The editor's survey of the Evangelical cemeteries** of the
+  Trąbczyn/Zagórów area and its neighbourhood brought in as a fourth
+  section (`cemeteries/`, plan `docs/CEMETERIES_PLAN.md`): ten cemeteries
+  visited on one visit in 2023 (the editor's word), each with its page in
+  both languages — the survey's account of its condition kept as written,
+  the headstones as a table (Name / Born / Died / Note), the readings kept
+  as the survey has them, nothing tidied, the same table on both pages. No
+  person entries behind the names (the editor's word). The asterisked
+  numbers beside eight readings are genealogical identifiers for certain
+  Zelmers/relations and are kept, in the note column's place and explained
+  in one line under the table (the editor's ruling, the second batch of
+  the day); the survey's figure references ("Fig. 25" and its neighbours)
+  are left off the pages (the editor, the same day). About 200 rows: 5 at
+  Łazińsk Pierwszy, 11 at Huta Łazińska, 81 at Michalinów Trąbczyński
+  (two stones carrying two names, the survey's "&"), 20 at
+  Wrąbczynkowskie Holendry, 62 at Orlina Duża, 10 at Anielewo, 2 at
+  Friedrichsfeld, none read at Michalinów gm. Oleśnica, 3 at Stawiszyn,
+  8 at Zbiersk Kolonia.
+- **The Places page widened** to a general index of places (the editor's
+  ruling; `docs/PLACES_PLAN.md`, section 7): tier 1 the places of the
+  Trąbczyn/Zagórów area — the gazetteer's 112 places and the register's
+  `area: trabczyn-zagorow` ones (the 27 the gazetteer registers, plus
+  Słupca, Konin and Kalisz) — tier 2 the register's remaining 126. The
+  estates in focus stand as the cards above, their metadata untouched; an
+  estate's list item links its card, a place with its own page links it,
+  the rest stand named with their anchors.
+- **The places machinery widened**: `pipeline/places/place_pages.py` takes
+  a gazetteer slug as well as an estate. `pipeline/cemeteries/
+  cemetery_pages.py` is a step of `regenerate.py`, after the place pages;
+  the checks in `verify_site.py` hold the Places page's index and the ten
+  cemetery pages (both languages, the account and every row on the page,
+  the list page's links, the place anchors).
+- **The survey's second source named** (the editor): "Der evangelische
+  Friedhof in Łazińsk Drugi", Arbeitsgemeinschaft Ostdeutscher
+  Familienforscher (Jürgen Frantz, 31 July 2016), members-only — cited
+  behind one reading of Huta Łazińska, not held
+  (`docs/MISSING_SOURCES.md`). The five new gazetteer entries (Łazińsk
+  Pierwszy and Łazińsk Drugi split from `lazinskie-oledry` at the
+  editor's word, and Orlina Duża, Stawiszyn and Zbiersk Kolonia) are
+  drafted in `scratch/gazetteer_drafts/` and wait on the editor's eye.
+
 ## 2026-10-26 - APP 53/21/0/-/Pyzdry Gr.115 added, translated and published (branch app5321pyzdrygr115)
 
 - The holding built: the head of the table of the parish of Trąbczyn on

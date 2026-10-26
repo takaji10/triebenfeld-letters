@@ -213,6 +213,31 @@ repository; they are on the working machine.
     entries the editor chose is not asserted
     (`places/zagorowo/zagorowpl20220614/notes.md`).
 
+- **The cemeteries** (`cemeteries/`, planned 2026-10-26;
+  `docs/CEMETERIES_PLAN.md`). The editor's survey of the ten Evangelical
+  cemeteries of the Trąbczyn/Zagórów area and its neighbourhood, its
+  rulings of 2026-10-26 worked in (the Places page widened to a general
+  index, Łazińsk Pierwszy and Drugi their own entries, the AGOFF source
+  named, one visit in 2023, photographs later, the order agreed; the
+  numbers in asterisks kept as genealogical IDs for certain
+  Zelmers/relations, the figure references removed). On the editor:
+  - **The visits' exact date.** The survey's footnote names 2023; the
+    editor rules all ten one visit. The pages say "visited in 2023"
+    until a date is given.
+  - **The new gazetteer entries' texts**: Łazińsk Pierwszy and Łazińsk
+    Drugi (split from `lazinskie-oledry` at the editor's word — they are
+    separate today) and the three new places Orlina Duża, Stawiszyn and
+    Zbiersk Kolonia, drafted from the survey; the editor's eye before
+    they enter. And what happens to `lazinskie-oledry` itself — kept as
+    the place of the Olędrzy before the split, or retired into the two.
+  - **The AGOFF series.** The Łazińsk Drugi article is cited; the site's
+    cemetery series beside it — "Der evangelische Friedhof in Tarszewo"
+    (Friedrichsfeld) and "Der evangelische Friedhof in Chruściki"
+    (Adelhof), the two places the Friedrichsfeld survey names — is not
+    yet wanted; say whether it is. And whether a members-only page's
+    citation stands alone on the site's pages or carries a note of the
+    restriction.
+
 - **The gazetteer** (`reference/gazetteer/`, imported 2026-10-23 from the
   editor's "Place Names.md"; `docs/GAZETTEER_PLAN.md`). The editor's text
   stands as written until they rule; each point says what the documents

@@ -2560,3 +2560,13 @@ cloud branches").
   from such a row fail the citation check unless the document's summary
   carries them with spaces ("31, 62 and 124") - the summaries are part of
   the checked haystack by design; write the summary before rebuilding.
+- **A generated page loop that reuses the language loop's variables**
+  (2026-10-26, cemetery_pages.py): a per-language cleanup loop
+  (`for lang, (folder, base, other) in BASES.items()`) leaves `lang` and
+  `folder` bound to the LAST language, and a following per-item loop that
+  writes pages with them writes every page into one language's folder -
+  the English folder empty, the German one with all ten, no error raised.
+  Destructure the language inside the item loop, and after writing a
+  section's pages COUNT the files per folder before building - the
+  mismatch showed up only as broken links in the verifier, one step
+  downstream.

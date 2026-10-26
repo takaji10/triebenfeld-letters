@@ -119,6 +119,22 @@ so check them.
 
 ## Where things stand (2026-10-26)
 
+- **The cemeteries** (`cemeteries/`, planned and **built and published
+  2026-10-26**; plan `docs/CEMETERIES_PLAN.md`): the editor's own survey
+  of the ten
+  Evangelical cemeteries of the Trąbczyn/Zagórów area and its
+  neighbourhood, one visit in 2023 — a page per cemetery in both
+  languages (/cemeteries/, /de/friedhoefe/), the survey's account kept as
+  written, the headstones as tables, the readings kept as the survey has
+  them, the asterisked genealogical IDs kept, the Fig. references out, no
+  person entries (the editor's word). With it **the Places page widened**
+  to a general index of places (tier 1 the Trąbczyn/Zagórów area — the
+  gazetteer's places and the register's `area:`-marked ones — tier 2 the
+  rest; PLACES_PLAN, section 7; the estates' cards and the letters'
+  metadata untouched). Waiting on the editor: the five drafted gazetteer
+  entries (Łazińsk Pierwszy and Drugi split, Orlina Duża, Stawiszyn,
+  Zbiersk Kolonia — `scratch/gazetteer_drafts/`), the visits' exact date.
+  Read `cemeteries/<slug>/notes.md` first.
 - **APP 53/21/0/-/Pyzdry Gr.115** (slug `app5321pyzdrygr115`, added
   2026-10-26 on the branch `app5321pyzdrygr115`, **published 2026-10-26**): the head
   of the

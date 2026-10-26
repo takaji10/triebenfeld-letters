@@ -24,6 +24,7 @@ en:
     timeline: Timeline
     people: People
     places: Places
+    cemeteries: Cemeteries
     glossary: Glossary
     sources: Sources
     newspapers: Newspapers
@@ -129,6 +130,18 @@ en:
     concerns that estate, not merely when it names it or was written there: a grant
     of Kamionna made out in Berlin is listed under Kamionna. Each was assigned by
     reading the document.
+  places_t1_h2: Places of the Trąbczyn and Zagórów area
+  places_t1_lede: >-
+    The places near the estate: its villages, hamlets and colonies, the
+    market towns and seats around them, and the places the estate's German
+    settlement knew by their own names. A place with its own page is
+    linked.
+  places_t2_h2: Every other place
+  places_t2_lede: >-
+    The places further afield that the documents name — the seats of the
+    courts and the government, the capitals, and the stations of the
+    correspondence.
+  estates_card_link: its card above
   nav_archival: Archival order
   nav_chrono: Chronological
   view_diplomatic: Transcription
@@ -383,6 +396,24 @@ en:
   np_hint_orig: The item as printed, line by line.
   place_more: More about the place
   place_on_places: The place is one of the estates in focus; its documents are listed under it on the Places page.
+  cem_h1: Cemeteries
+  cem_lede: >-
+    The Evangelical cemeteries of the Trąbczyn and Zagórów area and its
+    neighbourhood, visited and their headstones read in 2023: what remains
+    of each, and the names its stones still carry.
+  cem_graves: Graves
+  cem_visited: Visited
+  cem_place: Place
+  cem_names_h2: The headstones
+  cem_th_name: Name
+  cem_th_born: Born
+  cem_th_died: Died
+  cem_th_note: Note
+  cem_gid_note: >-
+    A number in brackets after a name is the survey's genealogical
+    identifier, kept as it was noted.
+  cem_sources_h2: Sources
+  cem_read: Read about this cemetery
   place_source_link: The page as the Wayback Machine archived it
   place_hint_en: The English translation by Claude; the original decides.
   place_hint_orig: The source as it prints, paragraph for paragraph.
@@ -417,6 +448,7 @@ de:
     timeline: Zeitleiste
     people: Personen
     places: Orte
+    cemeteries: Friedhöfe
     glossary: Glossar
     sources: Quellen
     newspapers: Zeitungen
@@ -523,6 +555,18 @@ de:
     betrifft, nicht schon, wenn es das Gut nennt oder dort geschrieben wurde: eine in
     Berlin ausgefertigte Verleihung von Kamionna steht unter Kamionna. Die Zuordnung
     beruht auf der Lektüre jedes Dokuments.
+  places_t1_h2: Orte der Gegend von Trąbczyn und Zagórów
+  places_t1_lede: >-
+    Die Orte in der Nähe des Guts: seine Dörfer, Weiler und Kolonien, die
+    Marktflecken und Amtssitze um sie herum und die Orte, die die deutsche
+    Siedlung des Guts unter ihren eigenen Namen kannte. Ein Ort mit eigener
+    Seite ist verlinkt.
+  places_t2_h2: Alle übrigen Orte
+  places_t2_lede: >-
+    Die weiter entfernten Orte, die die Dokumente nennen — die Sitze der
+    Gerichte und der Regierung, die Hauptstädte und die Stationen des
+    Briefwechsels.
+  estates_card_link: seine Karte oben
   nav_archival: Archivalische Ordnung
   nav_chrono: Chronologisch
   view_diplomatic: Transkription
@@ -782,6 +826,24 @@ de:
   np_hint_orig: Das Stück, wie es gedruckt ist, Zeile für Zeile.
   place_more: Mehr über den Ort
   place_on_places: Der Ort ist eines der betroffenen Güter; seine Dokumente sind auf der Seite Orte unter ihm aufgeführt.
+  cem_h1: Friedhöfe
+  cem_lede: >-
+    Die evangelischen Friedhöfe der Gegend von Trąbczyn und Zagórów und
+    ihrer Umgebung, besucht und ihre Grabsteine 2023 gelesen: was von jedem
+    übrig ist und welche Namen seine Steine noch tragen.
+  cem_graves: Gräber
+  cem_visited: Besucht
+  cem_place: Ort
+  cem_names_h2: Die Grabsteine
+  cem_th_name: Name
+  cem_th_born: Geboren
+  cem_th_died: Gestorben
+  cem_th_note: Anmerkung
+  cem_gid_note: >-
+    Eine Zahl in Klammern nach einem Namen ist die genealogische Kennnummer
+    der Aufnahme, so wie sie notiert wurde.
+  cem_sources_h2: Quellen
+  cem_read: Mehr über diesen Friedhof
   place_source_link: Die Seite, wie das Wayback Machine sie archiviert hat
   place_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
   place_hint_orig: Die Quelle, wie sie druckt, Absatz für Absatz.

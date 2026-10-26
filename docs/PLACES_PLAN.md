@@ -132,5 +132,40 @@ leak check works); and each language's Places page links the page.
 - **The 1869/1870 of the loss of the town rights** — the source
   contradicts itself (both boxes keep their date as printed); which the
   edition records where is the editor's. NEEDS_CONFIRMATION, "The places".
-- **More sources for the same place**, and more places (a place page
-  hangs on an estate card, so only estates of the edition can have one).
+- **More sources for the same place**, and more places — the widenings
+  now ruled in section 7.
+
+## 7. The widening to a general index (ruled 2026-10-26, not yet built)
+
+The editor's ruling of 2026-10-26: **the Places page transitions from
+"the estates in focus" to a general index of places** — tier 1 the places
+related to Trąbczyn/Zagórów and nearby, tier 2 everything else — because
+eventually each place will have its own page. The cemeteries
+(`docs/CEMETERIES_PLAN.md`) are the first driver: their ten places are
+villages and colonies, no one of them an estate, and the section's pages
+need the widened page to hang on.
+
+What the ruling keeps and what it changes:
+
+- **The estates in focus are not touched.** They serve the Hohenlohe-era
+  letters and stand as the first tier of cards they are; the letters'
+  metadata (the estates each document names, the counts, the Places
+  page's present list) does not change.
+- **Tier 1, tier 2.** The index has two tiers: tier 1 the places of
+  Trąbczyn, Zagórów and their neighbourhood — the ground the edition's
+  documents move in — tier 2 every other place the edition records
+  (Berlin, Posen, Ingelfingen, and the rest of the register's far list).
+  The tiers are the Places page's display order, not a new field of the
+  register's entries; the register's own `tier:` (Book-confirmed,
+  Text-confirmed) is the evidence grade and stays what it is.
+- **Eventually, a page per place.** The widened page is built so that any
+  place of the edition can take a page, the way Zagórów has one; a place
+  gets its page when it has content for one (the cemeteries' ten first).
+  `pipeline/places/place_pages.py` today refuses a slug that is no
+  estate; that check widens to accept any place with a page's own
+  content.
+- **Not yet built.** The widening is recorded here as ruled and comes
+  with the cemeteries' build (CEMETERIES_PLAN, section 4). The shape the
+  widened page takes — the tiers as two lists, the estates' cards first —
+  is Claude's to propose and the editor's eye on the built page, as the
+  sections' machinery has gone so far.
