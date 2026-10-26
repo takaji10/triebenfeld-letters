@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: maly
 heading: Maly
 register: null
@@ -15,7 +12,11 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Settlement that existed west of Anielewo (Ingelfingen). Likely part of Anielewo. Only one map noted this feature (Reymann 1834).
+text_en: 'Settlement that existed west of Anielewo (Ingelfingen). Likely part of Anielewo.
+  Only one map noted this feature (Reymann 1834). Not to be confused with the colony
+  renamed *Mały Las* in 1891 (see Ludwigslust): the SG entry for that renaming belongs
+  to the Ludwigslust colony, while this settlement is recorded separately next to
+  Anielewo.'
 names:
 - form: Maly
   year: null
