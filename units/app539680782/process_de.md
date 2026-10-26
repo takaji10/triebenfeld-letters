@@ -8,7 +8,7 @@ Der Editor lieferte die Transkription, und sie bleibt, wie sie ist: die lautlich
 
 ### Prüfung gegen die Scans
 
-Die Transkription ist die eigene Lesung des Editors und wird nicht nachgelesen. Der Editor entschied die zwei offenen Stellen: Punkt 7 der Bedingungen steht mit seiner Nummer und nichts dahinter, und Punkt 9 beginnt mit der Ordnungszahl "9te.". Der Zeilensatz wurde in der Sitzung gegen die Bilder gelesen, mit einem OCR-Gang und einer zeilenweisen Lesung beider Seiten als Zeugen; die wenigen Stellen, an denen die Teilung nicht sicher ist, liegen auf dem Punktblatt des Editors.
+Die Transkription ist die eigene Lesung des Editors und wird nicht nachgelesen. Der Editor entschied die zwei offenen Stellen: Punkt 7 der Bedingungen steht mit seiner Nummer und nichts dahinter, und Punkt 9 beginnt mit der Ordnungszahl "9te.". Der Zeilensatz wurde in der Sitzung gegen die Bilder gelesen, mit einem OCR-Gang und einer zeilenweisen Lesung beider Seiten als Zeugen, und dann vom Editor auf dem Punktblatt entschieden: Punkt 9 bricht nach "Ostern" und nach "Wirt", Punkt 10 nach "und", der Schlußsatz läuft "Mann fortzusetzen. Die Sontags Schule so wie" auf einer Zeile, die letzte Zeile der Gemeinde bricht vor "wir", und der Fuß der zweiten Seite, den die Sitzung für eine Bleistiftaufschrift gehalten hatte, ist weißes Papier.
 
 ### Teilung und Datierung
 

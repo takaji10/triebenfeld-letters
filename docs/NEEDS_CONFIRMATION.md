@@ -890,16 +890,14 @@ written until there is a witness or a better scan.
 
 - **APP 53/968/0/-/782** (the contract of 1820 with the teacher Samuel
   Adolph, added 2026-10-25; `units/app539680782/notes.md`): the transcription
-  is the editor's own and is not re-read; what waits is the line division and
-  one question of content, all on the spot sheet (`units/app539680782/intake/
-  spot_sheet1.py`, answers to `review/app539680782/lines_answers.json`):
-  whether the opening paragraph's line ends at "mit" or "mit demselben"; the
-  breaks of terms 3, 9 and 10 and of the closing sentence; whether the line
-  "worauf wir uns Eigen-händig Unter-schrieben." stands on one line; and the
-  pencil writing at the foot of the second page - what it says, and whether
-  it is transcribed as a heading line (as 783's folder inscriptions are) or
-  left out. Settled by the editor before the sheet: item 7 stands with its
-  number and nothing after it; item 9 opens "9te.".
+  is the editor's own and is not re-read. The line division was ruled by the
+  editor on the spot sheet (all 7 rows answered 2026-10-25, applied and
+  rebuilt): term 9 breaks after "Ostern" and after "Wirt"; term 10 after
+  "und"; the closing sentence runs "Mann fortzusetzen. Die Sontags Schule so
+  wie" on one line; the board's last line breaks before "wir"; the foot of
+  the second page is blank paper - the session had taken its marks for a
+  pencil inscription, and there is nothing to transcribe. Nothing waits on
+  this holding's readings.
 
 - **APP 53/1455/0/2/21** (the copy-book of the privileges of Ląd, added
   2026-10-21, published the same day; `units/app5314550221/notes.md`): read from the

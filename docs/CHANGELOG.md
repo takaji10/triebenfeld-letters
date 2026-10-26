@@ -2892,6 +2892,24 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-25 - APP 53/968/0/-/782: the line division ruled
+
+- The editor answered all 7 rows of the holding's spot sheet. Corrections
+  applied to the transcription: term 9 breaks after "Ostern" and after
+  "Wirt" (not after "Weinachten" and "einem"); term 10 breaks after "und";
+  the closing sentence's third line runs "Mann fortzusetzen. Die Sontags
+  Schule so wie" (no break after "Sontags"); the board's last line breaks
+  before "wir" ("... zu erfüllen worauf / wir uns Eigen-händig
+  Unter-schrieben.", hyphens as drafted); the foot of the second page,
+  which the session had taken for a pencil inscription, is blank paper.
+  The opening paragraph and term 3 confirmed as drafted. Re-imported,
+  rebuilt, the site verified clean.
+- Trap recorded (WORKING_NOTES): a hand row in `paragraph_decisions.csv`
+  whose context carries a comma must have the field quoted, or
+  `resolve_paragraphs.py` reads the context short of the comma and drops
+  the row as "not found again" - the signature row was lost twice this way
+  before the quoted form held.
+
 ## 2026-10-25 - APP 53/968/0/-/782 added and translated (branch app539680782)
 
 - The holding built: the contract of 14 March 1820 between the village board

@@ -1169,10 +1169,12 @@ the folder is the title page and is left out (your word).
       statements, one corrected in the draft); the holding's page written in
       both languages; the glossary gate passes; the site verifies clean
       (627 documents in 48 holdings).
-- [ ] You: the spot sheet "The contract of 1820 - lines and the foot of the
-      second page" (`python units/app539680782/intake/spot_sheet1.py`, port
-      4107): the line division at six places, and the pencil writing at the
-      foot of page 2 - what it says, and whether it is transcribed.
+- [x] Your answers on the spot sheet (2026-10-25), all 7 rows: term 9 breaks
+      after "Ostern" and after "Wirt"; term 10 after "und"; the closing
+      sentence runs "Mann fortzusetzen. Die Sontags Schule so wie" on one
+      line; the board's last line breaks before "wir" (hyphens as drafted);
+      the foot of page 2 is blank paper - nothing to transcribe there.
+      Applied to the page files and rebuilt; the check clean.
 - [ ] You: "6 gl." at term 9 - gulden, or Groschen as the standing rule
       would rewrite it (NEEDS_CONFIRMATION, "Translations").
 - [ ] You: the identification of "Tropiczyner Holl." with Łazińsk (the

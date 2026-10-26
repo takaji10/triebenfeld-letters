@@ -35,6 +35,33 @@ The editor ruled, before the spot sheet: item 7 of the terms stands with its
 number and nothing after it (the file's "[empty]" mark resolved); item 9
 opens with the ordinal "9te." (the file's "[h/ti?]" resolved as "te").
 
+The line division went to the editor on the spot sheet
+(`intake/spot_sheet1.py`, answers in `review/app539680782/lines_answers.json`,
+2026-10-25), and every row is answered. The editor's rulings:
+
+- the opening paragraph and term 3 divide as the session had drafted them;
+- term 9 breaks after "Ostern" and after "Wirt" (not after "Weinachten" and
+  "einem" as drafted): "9te. Ale hohe Pfest-Tage als Weinachten Ostern /
+  Pfingsten bekommt er von einem jeden Wirt / ein Opfertorium vom Wirthe
+  6 gl.";
+- term 10 breaks after "und": "10. Erhält derselbe einen Neujahrsumgang und /
+  grünen Donnerstag Neujahr 6 gr. pohl. gründon 3 gr. pohl";
+- the closing sentence has no break after "Sontags": its third line runs
+  "Mann fortzusetzen. Die Sontags Schule so wie";
+- the board's last line breaks before "wir": "treulich gegen den Mann zu
+  erfüllen worauf / wir uns Eigen-händig Unter-schrieben.", with "Eigen-
+  händig" and "Unter-schrieben" keeping their hyphens as drafted;
+- the foot of the second page, which the session had taken for a pencil
+  inscription, is blank paper - the editor read the region on the sheet and
+  there is nothing to transcribe.
+
+Applied to the page files and rebuilt; the paragraph decisions carry the
+closing sentence, the board's sentence and the signature block as hand-set
+breaks. A trap worth the record: a hand row whose context contains a comma
+("Johann George Lindner, Schulz.") must carry the field quoted in
+`paragraph_decisions.csv`, or `resolve_paragraphs.py` reads the context short
+of the comma and drops the row as "not found again".
+
 ## Quirks worth knowing
 
 - The ten terms are numbered 1. to 10. in the manuscript; item 9 is the
@@ -45,9 +72,6 @@ opens with the ordinal "9te." (the file's "[h/ti?]" resolved as "te").
 - The signature titles are as written: "Schulz." (the Schulze Johann George
   Lindner), "beisitzer" (Christoph Rimpel), "gerichten" (Samuel Gellert) -
   what office the last names is not clear.
-- The foot of the second page carries writing the transcription does not
-  have; it reads like a pencil inscription (the document's title?). On the
-  spot sheet.
 - "Tropiczyner Holl." (the dateline) and "Borwiezer Holland" (the teacher's
   home) keep the manuscript's spellings; identifications open
   (NEEDS_CONFIRMATION). The canon records "Trąbczyner Holländ" as a variant
@@ -57,16 +81,15 @@ opens with the ordinal "9te." (the file's "[h/ti?]" resolved as "te").
 
 None recorded. The pages are whole; the writing is firm throughout.
 
-## Where the line division is not settled
+## Where the line division stands
 
-The layout was read from the images; at six places the division is the
-session's best reading and waits on the editor's spot sheet
-(`intake/spot_sheet1.py`): the opening paragraph's line before "demselben"
-("mit" or "mit demselben"); term 3's three lines; term 9's three lines;
-term 10's two lines; the closing sentence's four lines; and the line
-"worauf wir uns Eigen-händig Unter-schrieben." as one line. A wrong break
-moves one word between two lines of the page view; the words themselves are
-the editor's throughout.
+The layout was read from the images and then ruled by the editor on the spot
+sheet (see "Transcription" above): every division is now the editor's. The
+session's two false readings are worth the record: the marks at the foot of
+the second page, which the session took for a pencil inscription, are blank
+paper (the editor, on the sheet); and the closing sentence runs
+"Mann fortzusetzen. Die Sontags Schule so wie" on one line, wider than the
+session's draft had it.
 
 ## Translation and summary
 

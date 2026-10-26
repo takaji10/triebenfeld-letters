@@ -8,7 +8,7 @@ The editor supplied the transcription, and it is kept as written: the manuscript
 
 ### Check against the scans
 
-The transcription is the editor's own reading and is not re-read. The editor ruled the two open places: item 7 of the terms stands with its number and nothing after it, and item 9 opens with the ordinal "9te.". The line layout was read in session against the images with an OCR pass and a line-by-line read of both pages as witnesses; the few places where the line division is not certain are on the editor's spot sheet.
+The transcription is the editor's own reading and is not re-read. The editor ruled the two open places: item 7 of the terms stands with its number and nothing after it, and item 9 opens with the ordinal "9te.". The line layout was read in session against the images with an OCR pass and a line-by-line read of both pages as witnesses, and then ruled by the editor on the spot sheet: term 9 breaks after "Ostern" and after "Wirt", term 10 after "und", the closing sentence runs "Mann fortzusetzen. Die Sontags Schule so wie" on one line, the board's last line breaks before "wir", and the foot of the second page, which the session had taken for a pencil inscription, is blank paper.
 
 ### Division and dating
 

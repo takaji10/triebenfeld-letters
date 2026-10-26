@@ -1734,6 +1734,23 @@ cloud branches").
   holding's people are not seeded by a bare catalogue run; the names pass
   and the editor rule who is profiled. Treat the file as write-protected
   until the tool's intended mode is understood.
+- **A hand row in `paragraph_decisions.csv` whose context carries a comma
+  must have the field quoted** (2026-10-25, the contract of 1820). The
+  hand-set rows are found again by exact context match, and the sheet is
+  plain CSV: the unquoted context "Johann George Lindner, Schulz." was read
+  as "Johann George Lindner", the match failed, and the row was dropped
+  with "hand-set row not found again" - twice, before the quoted form
+  (`1,44,break,held,hand,0,0,0,,"Johann George Lindner, Schulz."`) held
+  through a rebuild. Quote any hand row whose context contains a comma.
+- **Stale spot-sheet servers outlive their sessions and hijack their
+  port** (2026-10-25). Earlier sessions left `spot_sheet*.py` servers
+  running on 4103, 4107, 4108 and 4109 (the oldest two days back); Windows
+  lets a new server bind the same port with `allow_reuse_address`, and then
+  the STALE one answers - a new sheet opens as a different holding's page,
+  with no error anywhere. Check what answers before handing a port to the
+  editor (`urllib` the title, or look for `class=row`), and take a port
+  `netstat` shows free. Leave the stale processes alone unless the editor
+  says otherwise: another session's work.
 - **OCR a manuscript for its LINE SCAFFOLD, not its words** (2026-10-25,
   the same contract). Neither Tesseract's German print model nor the
   lunaroute converter can read an 1820 hybrid hand - the lunaroute pass

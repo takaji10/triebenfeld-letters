@@ -117,7 +117,31 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-25)
+## Where things stand (2026-10-26)
+
+- **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
+  2026-10-25 on the branch `app539680782`, **not published**): the contract
+  of 14 March 1820 between the village board of Tropiczyner Holland and the
+  school teacher Samuel Adolph of Borwiezer Holland - the board engages the
+  teacher for the colony's school, ten numbered terms (free dwelling, three
+  Morgen of land tilled by the community, five Viertel of grain and a half
+  of seed, the school money, the confirmed child's present, the burial fees,
+  the feast-day Opfertorium, the New Year's round; item 7 stands with its
+  number and nothing after it), the teacher's obligation and the board's,
+  three signatures. One document on two photographed pages; the folder's
+  title page left out (the editor's word). The editor's own transcription,
+  kept as written; the lines laid out against the images and then ruled by
+  the editor on the spot sheet (all 7 rows answered 2026-10-26: term 9
+  breaks after "Ostern" and "Wirt", term 10 after "und", "Die Sontags
+  Schule so wie" one line, the last line breaks before "wir", the foot of
+  page 2 blank paper). Translated in session, no paid run; summaries
+  claim-checked (18 statements); the glossary gate passes; the site
+  verifies clean. Era `restitution` (proposed, the editor approved the
+  plan). Open: "6 gl." gulden or Groschen; the identifications of
+  "Tropiczyner Holl." and "Borwiezer Holland"; glossary entries for the
+  single-document terms; a timeline event and the era's story (TODO
+  section 36). Read `units/app539680782/notes.md` first. The holding counts
+  1 document and 2 pages; the edition has 627 documents in 48 holdings.
 
 - **APP 53/968/0/-/545** (slug `app539680545`, added and **translated**
   2026-10-25, **published 2026-10-25**): Albert
