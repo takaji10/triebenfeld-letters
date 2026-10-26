@@ -160,7 +160,7 @@ There are 905 marks of doubt in the edition. Each document's page says how many 
 
 ## The English translations
 
-Every document that has text has an English translation: 614 of the 619. They were made by
+Every document that has text has an English translation: 624 of the 628. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.
