@@ -903,24 +903,16 @@ read, translate and summarise.
     the empty place override.
   - **Rostworowski (1918)**, the Dziennik of the Governing Commission
     (added 2026-10-26, branch `rostworowski1918`; `literature/rostworowski1918/notes.md`
-    has the whole record):
-    - **The figure "500/m"** (p. 322, the sum for the army's pay): the
-      digitisation's text layer reads "SOO/m", the OCR pass "300/m"; taken
-      as 500/m and put on the spot sheet — the editor's eye against the scan.
-    - **The word "anzeatyeznym"** (p. 322): no Polish word traced; the
-      passage says they mean to make Dresden "anzeatyczna, free". As
-      printed, flagged on the spot sheet.
-    - **The abbreviations of "Książę"** (p. 322, "X-żę Dyrektor"): the
-      layer's "X-żę" against the OCR's "X-że"; the sense wants the
-      nominative "X-ążę". On the spot sheet.
-    - **"Kaiena"** (p. 323, a bailiff of the Court of Kościan) and the
-      names of the Dresden list (Kownacka, Węgrzecki, Bórakowski, Paschalis,
-      Gliszczyński, Czarnecki, Riviera, Załuski, Wołoski, Nakwaski): left
-      unidentified; "Riviera Załuski" and its comma on the spot sheet.
+    has the whole record). The editor answered the spot sheet the same day,
+    ruling **300/m** and **anzeatycznym** against the transcript's first
+    takes (the layer's "SOO/m" and "anzeatyeznym"), and confirming
+    X-żę, "Riviera Załuski", "ściągniąnym" and "Kaiena" as transcribed:
     - **The stray line on p. 321** ("Nominowani zostali do konsystorza
       Luterskiego w Płocku.") stands between protocol Nr. 2's signature and
-      the Nr. 3 heading; taken for Nr. 2's and left out. If the print meant
-      it inside Nr. 3, the excerpt misses one sentence of it.
+      the Nr. 3 heading; taken for Nr. 2's and left out. Asked on the spot
+      sheet, the editor could not tell ("I have no idea"); the take stands,
+      and if the print meant it inside Nr. 3 the excerpt misses one
+      sentence of it.
     - **The identifications.** The print's Dąmbska/Dambska of the four
       passages is the edition's Michalina on the edition's own evidence (the
       register's resolution of 21 July, AGAD 1/174/0/1/6, repeats the

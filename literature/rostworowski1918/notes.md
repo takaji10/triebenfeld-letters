@@ -33,8 +33,8 @@ has no session heading, the whole protocol that contains the passage (Nr. 3).
   habits, and every settlement is listed below. **The images could not be
   read in the session** (the harness returned them stripped of content), so
   no zoom pass was possible: the settlements rest on the two witnesses and
-  sense alone, and the doubtful spots are on the spot sheet
-  (`review/rostworowski1918/`) for the editor's eye against the scan.
+  sense alone, and the doubtful spots went to the spot sheet
+  (`review/rostworowski1918/`), where the editor has since answered.
 - The print's spaced small caps (names, offices, the key terms) are joined
   into words, as in Kucharski (2017) — the joined word is the one the print
   emphasises; case follows the print's capitals. Where the spaced run crossed
@@ -123,38 +123,43 @@ print's spellings of the name vary and each stands as printed; "Amtmanowicza
 Kossowskiego" (p. 54, read as one man's name; not traced), "X. Dyrektorowi
 Wojny" and "X-cia. Direktora" / "X-żę Dyrektor" (the print's abbreviations
 of "Książę", the Prince Director of War, Józef Poniatowski; "X-żę" is the
-layer's nominative, the OCR's "X-że" differs by one letter — on the spot
-sheet), "Kiissel" = Küssel, Senior of the Merchants' Confraternity (p. 322),
+layer's form, confirmed by the editor on the spot sheet), "Kiissel" = Küssel,
+Senior of the Merchants' Confraternity (p. 322),
 "exystencyi", "Nieukontentowanie", "Rosyanów", "assygnować", "Dąmbrowski"
 (p. 323, the print's spelling), "Kaiena" (p. 323, a name not traced; both
-witnesses agree on the letters — on the spot sheet), "Kramplicza" (p. 323),
+witnesses agree on the letters — confirmed by the editor), "Kramplicza" (p. 323),
 "Karol Au" (p. 323), "Riviera Załuski" (p. 322; read as the man Riviera
-beside Załuski, Wołoski and Nakwaski — the print's comma is after "Riviera
-Załuski" in the layer; on the spot sheet), and "aneatycznym" below.
+beside Załuski, Wołoski and Nakwaski, the print's comma after "Riviera
+Załuski" — confirmed by the editor on the spot sheet), and "anzeatycznym"
+below.
 
-## Open to the editor's eye (the spot sheet)
+## The spot sheet, answered by the editor (2026-10-26)
 
-`review/rostworowski1918/` holds the crops and the two readings for:
+The sheet (`scratch/rostworowski1918_sheet.py`, port 4110; the crops from
+the PDF's own word positions at 600 dpi) was answered; the rulings below
+are in the transcript:
 
-1. **p. 322, the sum**: the layer reads "SOO/m", the OCR "300/m"; taken as
-   **500/m** (the layer's S = 5, its usual misread; the OCR's 3 vs 5 is the
-   kind of slip it makes), but the figure matters — the editor to confirm
-   against the scan.
-2. **p. 322, "anzeatyeznym"** (layer; OCR "anzeatycznym"): no Polish word
-   traced. In context — "they mean to make that city anzeatyczna, free" —
-   some damaged or foreign form; the editor to read the word on the scan.
-   The English carries the form as "anzeatyczna".
-3. **p. 322, "X-żę Dyrektor zapewnił"** (layer) against the OCR's "X-że":
-   the nominative the sense requires is "X-ążę"; the print's abbreviated
-   form to be confirmed.
-4. **p. 323, "Kaiena"**: a name (bailiff of the Court of Kościan) not
-   traced; both witnesses agree on the letters.
-5. **p. 322, "Riviera Załuski"**: whether the print's comma (the layer puts
-   it after "Załuski") makes "Riviera" a man beside the three others, or
-   "Riviera" belongs to "ma jechać Riviera" as read here.
-6. **p. 322, "ściągniąnym"**: the layer's form, kept (the OCR's "ścięgniąnm"
-   agrees in the frame); the print's form of what sense would write
+1. **p. 322, the sum**: the editor read **"300/m"** — the OCR's reading,
+   against the transcript's 500/m (taken from the layer's "SOO/m"). The
+   text now carries 300/m.
+2. **p. 322, the word**: the editor read **"anzeatycznym"** — the OCR's
+   form, against the layer's "anzeatyeznym". Still no Polish word traced;
+   the text now carries anzeatycznym (the English keeps the citation form
+   "anzeatyczna").
+3. **p. 322, "X-żę Dyrektor zapewnił"**: the editor read **"X-żę"**, the
+   layer's form; it stands.
+4. **p. 322, "Riviera Załuski"**: the editor read it **as printed**;
+   "Riviera Załuski" stands, read as the man Riviera beside Załuski,
+   Wołoski and Nakwaski.
+5. **p. 322, "ściągniąnym"**: the editor read **"ściągniąnym"**, the
+   layer's form; it stands, the print's form of what sense would write
    "ściągnionym".
+6. **p. 323, "Kaiena"**: the editor read **"Kaiena"**; it stands.
+7. **p. 321, the stray line** ("Nominowani zostali do konsystorza
+   Luterskiego w Płocku.", between protocol Nr. 2's signature and the
+   "Nr. 3-ci." heading): **the editor could not tell** ("I have no
+   idea"). The transcript's take stands — Nr. 2's matter, left out — and
+   the question stays open in NEEDS_CONFIRMATION.
 
 ## Identifications (Claude's, for the editor to accept or refuse)
 

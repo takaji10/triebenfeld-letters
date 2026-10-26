@@ -3288,10 +3288,17 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **The reading**: two witnesses held against each other (the PDF's own
   text layer against a lunaroute OCR pass over the kept pages at 300 dpi);
   the images could not be read directly in the session, so the settlements
-  rest on the two witnesses and sense, and six doubtful spots wait on the
-  editor's eye (`review/rostworowski1918/spot_sheet.md`, NEEDS_CONFIRMATION
-  "The literature"). No footnote of the print is brought in - the three on
-  the kept pages' feet belong by their markers to text not brought in.
+  rest on the two witnesses and sense, and six doubtful spots went to the
+  served spot sheet (`scratch/rostworowski1918_sheet.py`, port 4110, the
+  crops from the PDF's own word positions). **The editor answered the same
+  day**: "300/m" and "anzeatycznym" ruled against the transcript's first
+  takes (the layer's "SOO/m" and "anzeatyeznym"), X-żę, "Riviera Załuski",
+  "ściągniąnym" and "Kaiena" confirmed as transcribed, and the stray line
+  of p. 321 - "Nominowani zostali do konsystorza Luterskiego w Płocku.",
+  between protocol Nr. 2's signature and the Nr. 3 heading - left open ("I
+  have no idea"; NEEDS_CONFIRMATION). No footnote of the print is brought
+  in - the three on the kept pages' feet belong by their markers to text
+  not brought in.
 - **The index**: 23 hits, all ruled. "Małachowskiego" stands for the
   President with p. 44 excepted to "no" (there it is the late Director of
   the Treasury, Jan Nepomucen, whose accounts the Commission closed on

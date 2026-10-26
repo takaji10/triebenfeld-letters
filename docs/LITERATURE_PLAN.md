@@ -1199,12 +1199,17 @@ protocol that contains the passage** (Directorium Nr. 3).
   text layer, uneven - spaced small caps split into single letters, dotless
   ż, plain misreads - against a lunaroute OCR pass over each kept page at
   300 dpi); the settlements and the print's kept slips are listed in the
-  work's `notes.md`, the six doubtful spots on the spot sheet
-  (`review/rostworowski1918/`). The images could not be read directly in
-  the session (the harness returned them stripped), so the settlements rest
-  on the two witnesses and sense alone - the standing zoom pass of Kraus
-  (2001) was not possible. A word the print divides over a page turn is
-  given whole on the first page (the Kucharski rule).
+  work's `notes.md`, and the six doubtful spots went to the served spot
+  sheet (`scratch/rostworowski1918_sheet.py`, the crops from the PDF's own
+  word positions), which the editor answered the same day: **"300/m"** and
+  **"anzeatycznym"** ruled against the transcript's first takes, X-żę,
+  "Riviera Załuski", "ściągniąnym" and "Kaiena" confirmed, and the stray
+  line of p. 321 left open ("I have no idea", NEEDS_CONFIRMATION). The
+  images could not be read directly in the session (the harness returned
+  them stripped), so the settlements rest on the two witnesses and sense
+  alone - the standing zoom pass of Kraus (2001) was not possible. A word
+  the print divides over a page turn is given whole on the first page (the
+  Kucharski rule).
 - **Kind `collection`**, like the Materialien: an edited primary record, a
   century after the manuscript - the test of section 2 (a record of the
   Duchy's government printed for its history, not a document *of* the

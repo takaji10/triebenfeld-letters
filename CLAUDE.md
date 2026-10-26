@@ -307,9 +307,11 @@ so check them.
   Łubieński's first person). Out of copyright (print 1918; Rostworowski d.
   1940). Read by two witnesses held against each other (the PDF's own text
   layer against the lunaroute OCR of the 300 dpi pages; the images could
-  not be read directly in the session, so six doubtful spots wait on the
-  editor's eye - `review/rostworowski1918/spot_sheet.md`, the figure
-  "500/m" and the untraced word "anzeatyeznym" among them). Index ruled:
+  not be read directly in the session, so the doubtful spots went to the
+  served spot sheet, which you answered the same day - the figure "300/m"
+  and the untraced word "anzeatycznym" ruled against the transcript's first
+  takes, X-żę, "Riviera Załuski", "ściągniąnym" and "Kaiena" confirmed, the
+  stray line of p. 321 left open, NEEDS_CONFIRMATION). Index ruled:
   23 hits; the print's modern genitives of her surname ("Dambskiej",
   "Dąbskiej", the print's own bracket "Dambski[ej]") came in as a
   literature-only pattern; p. 44's "Małachowskiego" excepted to "no" (the
