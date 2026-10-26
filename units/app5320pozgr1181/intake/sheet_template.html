@@ -35,6 +35,8 @@
   .q { font-size:.95rem; margin:10px 0 4px; }
   .ctx { font-size:.78rem; color:#555; font-style:italic; margin:0 0 8px;
          word-break:break-word; }
+  .ctx mark { background:#ffd65a; color:inherit; padding:0 2px;
+              font-style:normal; font-weight:bold; }
   .note { font-size:.78rem; color:#666; margin:8px 0 0; }
   .opts { display:flex; flex-wrap:wrap; gap:8px; margin:8px 0; }
   .opt { flex:1 1 auto; min-width:100px; padding:12px 10px; font-size:.9rem;
@@ -97,7 +99,8 @@ function mark(id) {
   var isFree = val && val !== 'WRONG LINE' &&
     !row.querySelector('.opt[data-v="' + val.replace(/"/g, '\\"') + '"]');
   f.classList.toggle('chosen', isFree);
-  if (isFree) f.value = val;
+  // never rewrite a box the editor is typing in
+  if (document.activeElement !== f) f.value = isFree ? val : '';
 }
 document.querySelectorAll('.opt').forEach(function (b) {
   b.addEventListener('click', function () {
@@ -109,10 +112,11 @@ document.querySelectorAll('.opt').forEach(function (b) {
 document.querySelectorAll('.free').forEach(function (f) {
   f.addEventListener('input', function () {
     var id = f.closest('.row').id;
-    if (f.value.trim()) { saved[id] = f.value.trim(); }
-    else { delete saved[id]; }
+    // the raw value is kept while typing - trimming happens only when the
+    // answers are copied out, so a space survives mid-word
+    if (f.value.trim()) { saved[id] = f.value; f.classList.add('chosen'); }
+    else { delete saved[id]; f.classList.remove('chosen'); }
     localStorage.setItem(K, JSON.stringify(saved));
-    mark(id);
   });
 });
 document.querySelectorAll('.wrongline').forEach(function (b) {
@@ -126,7 +130,8 @@ document.querySelectorAll('.wrongline').forEach(function (b) {
 });
 document.getElementById('copy').addEventListener('click', function () {
   var lines = Object.keys(saved).sort().map(function (k) {
-    return k + ': ' + saved[k];
+    var v = saved[k];
+    return k + ': ' + (typeof v === 'string' ? v.trim() : v);
   });
   document.getElementById('out').value =
     'rel1181 spot sheet answers (' + lines.length + ' of <!--COUNT-->):\n' +

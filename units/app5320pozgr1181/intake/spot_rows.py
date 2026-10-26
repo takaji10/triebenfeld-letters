@@ -335,10 +335,11 @@ ROWS = [
      ['Kotarbski', 'Kołarbski', 'other (write it)'],
      'Read the fourth letter (ł or t).'),
     ('p_alterius', 'Proposals', '0163_a', 1430,
-     '"altenius [post/parte?]" - proposed: "alterius post" (the second '
-     'wadion, made after the sterile death of 1708) - rule',
-     ['alterius post', 'altenius post', 'other (write it)'],
-     '"altenius" is not a Latin word. Read both words.'),
+     '"altenius [post/parte?]" was read as "alterius post" (the second '
+     'wadion, made after the sterile death of 1708) - confirm or revert',
+     ['alterius post stands', 'revert to altenius', 'other (write it)'],
+     '"altenius" is not a Latin word; "alterius" (the wadion of the other '
+     'brother) was applied in session. Read both words.'),
     ('p_actis', 'Proposals', '0167_b', 2050,
      '"coram autis[?] Castrensis" is proposed as "coram actis Castrensis" - '
      'rule',

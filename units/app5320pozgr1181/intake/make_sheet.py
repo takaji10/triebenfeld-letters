@@ -113,7 +113,7 @@ ANCHOR = {
     'p_solutam':       'assurasse summam',
     'p_sororem':       'hanc ultimam fororem',
     'p_kotarbski':     'Kołarbski',
-    'p_alterius':      'altenius',
+    'p_alterius':      'alterius post sterilem',
     'p_actis':         'autis Castrensis',
     'p_autem':         'autoni indictionem',
     'pr_nieszwiez':    'Capitaneo Niszczeviens em',
@@ -248,6 +248,15 @@ def crop_for(row_id, page, y_hint, text):
     if crop.width > 2600:
         crop = crop.resize((2600, int(crop.height * 2600 / crop.width)),
                            Image.LANCZOS)
+    # a soft band across the estimated spot - the crop's centre by
+    # construction, so the editor knows where to start reading
+    from PIL import ImageDraw
+    cy = max(0, min(crop.height - 1, int(y) - top))
+    overlay = Image.new('RGBA', crop.size, (0, 0, 0, 0))
+    d = ImageDraw.Draw(overlay)
+    d.rectangle([0, max(0, cy - 45), crop.width - 1, min(crop.height - 1, cy + 45)],
+                fill=(255, 214, 90, 68))
+    crop = Image.alpha_composite(crop.convert('RGBA'), overlay).convert('RGB')
     path = os.path.join(OUT, 'img', row_id + '.jpg')
     os.makedirs(os.path.dirname(path), exist_ok=True)
     crop.convert('RGB').save(path, quality=85)
@@ -256,7 +265,8 @@ def crop_for(row_id, page, y_hint, text):
 
 
 def context_snippet(page_text, row_id):
-    """A short transcription context around the row's anchor."""
+    """The transcription context around the row's anchor, as HTML with the
+    anchor highlighted (<mark>) - pre-escaped here, inserted raw."""
     anchor = ANCHOR.get(row_id, '')
     if not anchor:
         return ''
@@ -269,9 +279,11 @@ def context_snippet(page_text, row_id):
             if m:
                 break
     if not m:
-        return ''
+        return html.escape('…' + page_text.strip() + '…')
     a, b = max(0, m.start() - 130), min(len(page_text), m.end() + 130)
-    return '…' + page_text[a:b].strip() + '…'
+    return ('…' + html.escape(page_text[a:m.start()])
+            + '<mark>' + html.escape(page_text[m.start():m.end()]) + '</mark>'
+            + html.escape(page_text[m.end():b]) + '…')
 
 
 def main():
@@ -354,7 +366,7 @@ def main():
 <p class="note">{note}</p>
 </div>'''.format(id=html.escape(r['id']), img=img, wrongline=wrongline,
                  q=html.escape(r['question']),
-                 ctx=html.escape(r['context']), opts=opts,
+                 ctx=r['context'], opts=opts,
                  note=html.escape(r['note'])))
     page_html = (tpl.replace('<!--ROWS-->', '\n'.join(body))
                  .replace('<!--COUNT-->', str(len(rows_meta))))
