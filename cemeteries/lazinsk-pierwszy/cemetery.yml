@@ -5,11 +5,10 @@ slug: lazinsk-pierwszy
 order: 1
 title: "Łazińsk Pierwszy Lutheran Cemetery"
 title_de: "Lutherischer Friedhof in Łazińsk Pierwszy"
-# The gazetteer carries the two Łazińsk villages in one entry until the
-# editor's split is in (NEEDS_CONFIRMATION, "The cemeteries"); the anchor
-# is that entry's.
-place: lazinskie-oledry
-place_anchor: lazinskie-oledry
+# The gazetteer carries the village in its own entry (entered 2026-10-26
+# at the editor's word, split out of lazinskie-oledry, which stands as the
+# Olędrzy settlement before the split).
+place: lazinsk-pierwszy
 place_name: "Łazińsk Pierwszy"
 place_name_de: "Łazińsk Pierwszy"
 graves: "7"

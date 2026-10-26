@@ -1,0 +1,31 @@
+# Entered 2026-10-26 at the editor's word, drafted in scratch/gazetteer_drafts/ from the editor's
+# cemetery survey (cemeteries/<slug>/) and the existing entries; the split of the two
+# Lazinsk villages out of lazinskie-oledry at their word of 2026-10-26. Plan:
+# docs/CEMETERIES_PLAN.md; NEEDS_CONFIRMATION, "The cemeteries".
+slug: stawiszyn
+heading: Stawiszyn
+register: null
+status: extant
+kind: town
+kind_text: Town
+location:
+  text: south of Zagórów
+  relation: south-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: >-
+  Town south of Zagórów. Its Evangelical cemetery appears to have continued
+  to be used after World War II, with some recent burials recorded there;
+  the survey of the cemeteries records three Zelmer graves in it.
+names:
+- form: Stawiszyn
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes: []
+review: []

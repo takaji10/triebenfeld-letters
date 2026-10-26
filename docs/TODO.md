@@ -1257,11 +1257,14 @@ entries (the editor's word).
       index built — tier 1 the gazetteer's 112 places and the register's
       area-marked ones, tier 2 the register's remaining 126; the estates'
       cards unchanged; the checks in verify_site.)*
-- [ ] The gazetteer: split Łazińsk Pierwszy and Drugi out of
-      `lazinskie-oledry`, draft Orlina Duża, Stawiszyn and Zbiersk
-      Kolonia; your eye on the five texts before they enter.
-      *(drafted 2026-10-26 in `scratch/gazetteer_drafts/` — waiting on
-      you.)*
+- [x] The gazetteer: Łazińsk Pierwszy and Drugi split out of
+      `lazinskie-oledry`, Orlina Duża, Stawiszyn and Zbiersk Kolonia
+      drafted. **Entered 2026-10-26 at your word** ("Yes to the gazetteer
+      entries"); the gazetteer's checks pass (117 entries), the Places
+      page's tier 1 carries them, the three linkless cemetery pages now
+      link their places, and Łazińsk Pierwszy's page links its own entry.
+      The combined `lazinskie-oledry` stands as the Olęder settlement
+      before the split.
 - [x] The section's machinery (the list page, the menu, the i18n, the
       checks), then the ten cemeteries one at a time. *(done 2026-10-26:
       /cemeteries/ and /de/friedhoefe/, ten pages each, ALL CHECKS

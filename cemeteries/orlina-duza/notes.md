@@ -18,7 +18,7 @@ figure references ("Fig. 33", "Fig. 34", "Fig. 35") are left off the page
 The survey's Retclow line carries one parenthesis too many ("... 11.04.1922)
 "die ehe Frau...")"); the note is kept as the quotation it is.
 
-The place: the gazetteer does not carry Orlina Duża yet; the entry is
-drafted from this survey and waits on the editor's eye
-(NEEDS_CONFIRMATION, "The cemeteries"). The page names the place without a
-link meanwhile.
+The place: the gazetteer's own entry since 2026-10-26 (`orlina-duza`,
+drafted from this survey at the editor's word); the entry's location line
+is left unset — the survey gives the cemetery, not the village's
+situation.

@@ -224,12 +224,6 @@ repository; they are on the working machine.
   - **The visits' exact date.** The survey's footnote names 2023; the
     editor rules all ten one visit. The pages say "visited in 2023"
     until a date is given.
-  - **The new gazetteer entries' texts**: Łazińsk Pierwszy and Łazińsk
-    Drugi (split from `lazinskie-oledry` at the editor's word — they are
-    separate today) and the three new places Orlina Duża, Stawiszyn and
-    Zbiersk Kolonia, drafted from the survey; the editor's eye before
-    they enter. And what happens to `lazinskie-oledry` itself — kept as
-    the place of the Olędrzy before the split, or retired into the two.
   - **The AGOFF series.** The Łazińsk Drugi article is cited; the site's
     cemetery series beside it — "Der evangelische Friedhof in Tarszewo"
     (Friedrichsfeld) and "Der evangelische Friedhof in Chruściki"
@@ -237,6 +231,14 @@ repository; they are on the working machine.
     yet wanted; say whether it is. And whether a members-only page's
     citation stands alone on the site's pages or carries a note of the
     restriction.
+
+  Settled 2026-10-26, the same evening: the five gazetteer entries
+  entered at the editor's word ("Yes to the gazetteer entries") — Łazińsk
+  Pierwszy and Łazińsk Drugi split from `lazinskie-oledry` (which stands
+  as the Olęder settlement before the split), and Orlina Duża, Stawiszyn
+  and Zbiersk Kolonia drafted from the survey; the three cemetery pages'
+  place links now resolve to the Places page's anchors, and Łazińsk
+  Pierwszy's page links its own entry.
 
 - **The gazetteer** (`reference/gazetteer/`, imported 2026-10-23 from the
   editor's "Place Names.md"; `docs/GAZETTEER_PLAN.md`). The editor's text

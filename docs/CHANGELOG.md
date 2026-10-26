@@ -2892,6 +2892,16 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+- **The gazetteer's five new entries entered** at the editor's word
+  ("Yes to the gazetteer entries"), 2026-10-26: Łazińsk Pierwszy and
+  Łazińsk Drugi (split from `lazinskie-oledry` at their ruling of the
+  day, the combined entry standing as the Olęder settlement before the
+  split) and Orlina Duża, Stawiszyn and Zbiersk Kolonia, drafted from the
+  editor's cemetery survey. The gazetteer's checks pass (117 entries);
+  the Places page's tier 1 carries the five; the cemetery pages of Orlina
+  Duża, Stawiszyn and Zbiersk Kolonia now link their places on the
+  Places page's index, and Łazińsk Pierwszy's page links its own entry.
+
 ## 2026-10-26 — The cemeteries: the section planned and built (branch `cemeteries`)
 
 - **The editor's survey of the Evangelical cemeteries** of the

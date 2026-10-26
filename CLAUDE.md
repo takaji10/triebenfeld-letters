@@ -131,9 +131,12 @@ so check them.
   to a general index of places (tier 1 the Trąbczyn/Zagórów area — the
   gazetteer's places and the register's `area:`-marked ones — tier 2 the
   rest; PLACES_PLAN, section 7; the estates' cards and the letters'
-  metadata untouched). Waiting on the editor: the five drafted gazetteer
-  entries (Łazińsk Pierwszy and Drugi split, Orlina Duża, Stawiszyn,
-  Zbiersk Kolonia — `scratch/gazetteer_drafts/`), the visits' exact date.
+  metadata untouched). **The gazetteer's five new entries entered** the
+  same evening at the editor's word (Łazińsk Pierwszy and Drugi split,
+  Orlina Duża, Stawiszyn, Zbiersk Kolonia; the combined
+  `lazinskie-oledry` stands as the Olęder settlement before the split).
+  Waiting on the editor: the visits' exact date, whether the AGOFF series
+  (Tarszewo, Chruściki) is wanted.
   Read `cemeteries/<slug>/notes.md` first.
 - **APP 53/21/0/-/Pyzdry Gr.115** (slug `app5321pyzdrygr115`, added
   2026-10-26 on the branch `app5321pyzdrygr115`, **published 2026-10-26**): the head

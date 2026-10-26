@@ -142,22 +142,13 @@ gets one. Where each place stands today:
 
 **Łazińsk Pierwszy and Łazińsk Drugi get entries of their own** (the
 editor's word, 2026-10-26: "they are separate today"). The gazetteer's
-`lazinskie-oledry` carries both villages in one entry, the split told in
-its text; the split is made: two new entries drafted from the existing
-one (Pierwszy the area of Trąbczyńskie Stare Olędry, Drugi the area of
-Trąbczyńskie Nowe Olędry, the entry's own account), what happens to
-`lazinskie-oledry` itself ruled when the drafts are before the editor —
-the place of the Olędrzy before the split, kept, or retired into the two.
-Their texts are the editor's eye before they enter the gazetteer
-(NEEDS_CONFIRMATION, "The cemeteries").
-
-The gazetteer's three other new places (Orlina Duża, Stawiszyn, Zbiersk
-Kolonia) are drafted from the survey's own account of where each cemetery
-lies and put to the editor — the gazetteer is the editor's own index, and
-an entry enters it at their word. Stawiszyn and Zbiersk Kolonia lie 20 to
-25 kilometres south and southeast, and the survey says itself why Zbiersk
-is in it (Zelmers from the Trąbczyn area moved there); the account of the
-pages says the same.
+`lazinskie-oledry` carried both villages in one entry, the split told in
+its text; the split is made and the two entries **entered 2026-10-26** at
+the editor's word ("Yes to the gazetteer entries"), with Orlina Duża,
+Stawiszyn and Zbiersk Kolonia entered the same day. The combined
+`lazinskie-oledry` stands as the Olęder settlement before the split, its
+historical status unchanged; retiring it into the two was the alternative,
+not taken.
 
 **The two-way link.** The cemetery's page names and links its place;
 the place's page (or card) lists its cemeteries.
@@ -235,17 +226,22 @@ second batch):**
   Zelmers/relations; they are kept and go in the tables' note column.
 - The figure references ("Fig. 25" and its neighbours) are removed.
 
+**Settled the same evening (the editor's word: "Yes to the gazetteer
+entries"):**
+
+- The five entries **entered the gazetteer 2026-10-26**: Łazińsk
+  Pierwszy and Łazińsk Drugi (split from `lazinskie-oledry`, which stands
+  as the Olęder settlement before the split) and Orlina Duża, Stawiszyn
+  and Zbiersk Kolonia (drafted from the survey). The Places page's tier 1
+  carries them; the three cemetery pages that named their places without
+  a link now link the index's anchors, and Łazińsk Pierwszy's page links
+  its own entry.
+
 **Still open (NEEDS_CONFIRMATION, "The cemeteries"):**
 
 1. **The visits' exact date** — the survey's footnote names 2023 only;
    the pages say "visited in 2023" until the editor gives a date.
-2. **The texts of the new gazetteer entries** (Łazińsk Pierwszy, Łazińsk
-   Drugi, Orlina Duża, Stawiszyn, Zbiersk Kolonia) — drafted from the
-   survey and the existing entries, the editor's eye before they enter.
-3. **What happens to `lazinskie-oledry`** once the two villages have
-   their own entries — kept as the place of the Olędrzy before the split,
-   or retired into the two.
-4. **The AGOFF series** — the articles on Tarszewo (Friedrichsfeld) and
+2. **The AGOFF series** — the articles on Tarszewo (Friedrichsfeld) and
    Chruściki (Adelhof) sit beside the Łazińsk Drugi one; whether the
    edition wants them is the editor's. And whether a members-only page's
    citation stands alone on the site's pages or carries a note of the

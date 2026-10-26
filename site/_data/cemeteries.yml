@@ -7,11 +7,11 @@ lazinsk-pierwszy:
   order: 1
   title: Łazińsk Pierwszy Lutheran Cemetery
   title_de: Lutherischer Friedhof in Łazińsk Pierwszy
-  place: lazinskie-oledry
+  place: lazinsk-pierwszy
   place_name: Łazińsk Pierwszy
   place_name_de: Łazińsk Pierwszy
-  place_url_en: /places/#place-lazinskie-oledry
-  place_url_de: /de/orte/#place-lazinskie-oledry
+  place_url_en: /places/#place-lazinsk-pierwszy
+  place_url_de: /de/orte/#place-lazinsk-pierwszy
   graves: '7'
   visited: '2023'
   account_en: The remains of the cemetery in Łazińsk Pierwszy are preserved on a very small corner piece
@@ -125,8 +125,8 @@ orlina-duza:
   place: orlina-duza
   place_name: Orlina Duża
   place_name_de: Orlina Duża
-  place_url_en: ''
-  place_url_de: ''
+  place_url_en: /places/#place-orlina-duza
+  place_url_de: /de/orte/#place-orlina-duza
   graves: 57, plus a handful without identification
   visited: '2023'
   account_en: 'The cemetery at Orlina Duża is the largest of the cemeteries in the area, and also includes
@@ -233,8 +233,8 @@ stawiszyn:
   place: stawiszyn
   place_name: Stawiszyn
   place_name_de: Stawiszyn
-  place_url_en: ''
-  place_url_de: ''
+  place_url_en: /places/#place-stawiszyn
+  place_url_de: /de/orte/#place-stawiszyn
   graves: '3'
   visited: '2023'
   account_en: A complete survey was not made of this cemetery except for the recording of three Zelmer
@@ -253,8 +253,8 @@ zbiersk-kolonia:
   place: zbiersk-kolonia
   place_name: Zbiersk Kolonia
   place_name_de: Zbiersk Kolonia
-  place_url_en: ''
-  place_url_de: ''
+  place_url_en: /places/#place-zbiersk-kolonia
+  place_url_de: /de/orte/#place-zbiersk-kolonia
   graves: approximately 10
   visited: '2023'
   account_en: This cemetery is located on the northern edge of a forest complex that is a few square kilometres
