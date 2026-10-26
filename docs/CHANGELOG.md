@@ -3135,6 +3135,14 @@ lose his estates. The era page writes Konotop, not Kontop.
   main's side, the four authored conflicts hand-merged, the two JSON caches
   by union. Status translated; the spot sheet stays open, its answers to be
   ruled in when they come.
+- Published at the editor's word the same evening: the branch (with the
+  cemeteries work and the gazetteer's five new entries merged in as main
+  moved) fast-forwarded to main and pushed; the "Build and deploy" run
+  40393701490 succeeded and the decree answers on the live site. The
+  cemeteries session's worktree sits on the `cemeteries` branch, not main
+  - a merge run there fast-forwarded that branch by mistake and was reset
+  back; main was moved with `git branch -f` from a fresh fetch (the lesson
+  in WORKING_NOTES, "Two sessions, one working copy").
 ## 2026-10-25 - The word of the Themen block ruled
 
 - The editor ruled the doubtful word of 0030's Themen block "polnische"

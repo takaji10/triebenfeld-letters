@@ -165,7 +165,6 @@ so check them.
   sessions, one working copy"). Open: the Huta (NEEDS_CONFIRMATION). Read
   `units/app5321pyzdrygr115/notes.md` first. The holding counts 1 document
   and 1 page; the edition has 629 documents in 50 holdings.
-=======
 - **APP 53/4/0/-/62** (slug `app534062`, added and **published 2026-10-26**):
   one entry, in Latin, at the foot of
   page 222 of the relation and citation book of the land court at Kalisz
@@ -196,6 +195,26 @@ so check them.
   `units/app534062/notes.md` first. The holding counts 1 document and
   1 page; the edition has 629 documents in 50 holdings.
 
+- **APP 53/20/0/-/Poznań Gr.1181** (slug `app5320pozgr1181`, added,
+  translated and **published 2026-10-26** on the branch
+  `app5320pozgr1181`): one Latin entry, pp. 161-167v of the relationes
+  protocollon of the castellany court of Poznań — the condescensio decree
+  of 29 March 1784, held on the Trąbczyn grounds, on the ultimate
+  limitation of the succession the sterile brothers Antoni and Paweł
+  Prusimski left; the captain Antoni in Kolno Prusimski against the five
+  sisters'-heirs parties, the abbey of Ląd cited over the 3,500 ducats and
+  the silver, the Radoliński claim of 43,000 left undecided, the entry
+  breaking off mid-sentence at the foot of 167v. The editor's own
+  transcription; the morning session's 108 completions withdrawn at the
+  fresh p. 161's word; lineation of 161v-167v optional (by paragraph, as
+  Konin Gr.117); translated, summarised and claim-checked in session, no
+  paid run. Index: twelve people, seven places, two firm map links
+  (Oporowo gmina Krzemieniewo, Jaryszki gmina Kórnik). **Open: the spot
+  sheet's 62 rows** — the answers rule into the text when they come; the
+  doubtful readings stand as written until then. The entry continues on
+  the next leaf, not among the scans. Read
+  `units/app5320pozgr1181/notes.md` first. The holding counts 1 document
+  on 14 pages; the edition has 630 documents in 51 holdings.
 - **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
   2026-10-25 on the branch `app539680782`, **published 2026-10-26**): the
   contract

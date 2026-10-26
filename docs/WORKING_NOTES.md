@@ -2544,6 +2544,17 @@ cloud branches").
   doubt) must be recomputed against the merged state, not either side's -
   the merged truth was 629 documents on 2,089 pages in 50 holdings, 625 of
   629 translated, 19 undated, 910 marks of doubt.
+  **And the worktree you merge in is not necessarily on `main`**
+  (2026-10-26, the same evening): check `git branch --show-current` in the
+  target worktree before merging there. A merge meant for main was run in
+  the cemeteries worktree and fast-forwarded the `cemeteries` branch
+  instead - reset the foreign branch back to its own tip and move `main`
+  with `git branch -f` (branch checked out nowhere) or a fresh `git
+  worktree add` for main. The degradation a merge can carry in also sits
+  deeper than the guard: the merged state's `corpus/units/*/letters.json`
+  had lost the scan fields (built where the staged images were absent) -
+  after a merge, run the build once and commit the repair it makes, not
+  only the `page_scan_map.csv` restore.
 - **A table with no column of entry numbers** (2026-10-26, APP 53/21/0/-/
   Pyzdry Gr.115): `unitlib.table_of` sorted a table by its first column's
   numbers and crashed (`StopIteration`) on a table that has none - the

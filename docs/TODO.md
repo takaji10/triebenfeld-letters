@@ -1315,7 +1315,8 @@ transcription; 108 readings settled in session before the first build
       pushed; the workflow builds and verifies before deploying. The spot
       sheet stays open: the answers, when they come, are ruled into the
       text and the affected pages rebuilt - the doubts stand as written
-      until then.
+      until then. Deploy run 40393701490 succeeded; the document answers
+      on the live site.
 - [ ] **You: the spot sheet**, 62 rows, live at
       https://takaji10.github.io/triebenfeld-spot/sheets/app5320pozgr1181/
       (the same page keeps your answers on the phone until you copy them;
