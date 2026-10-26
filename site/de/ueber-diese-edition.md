@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 628 Dokumente auf 2.088 Seiten aus den Jahren 1173 bis 1936. Die
+Die Edition enthält 629 Dokumente auf 2.089 Seiten aus den Jahren 1173 bis 1936. Die      
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -166,7 +166,7 @@ Die Edition enthält 910 Zweifelszeichen. Die Seite jedes Dokuments nennt deren 
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 624 von 628. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 625 von 629. Sie wurden von einem 
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.
@@ -197,7 +197,7 @@ Zusammenfassungen entstanden sind.
 
 **Datierung.** Etwa neun von zehn Dokumenten tragen ihr eigenes Datum. Die übrigen hat der
 Herausgeber nach der Handschrift, nach den benachbarten Briefen oder nach einer zweiten
-Abschrift datiert, und jedes Dokument sagt, was für es gilt. Achtzehn bleiben undatiert.
+Abschrift datiert, und jedes Dokument sagt, was für es gilt. Neunzehn bleiben undatiert.
 
 **Personen.** Unter [Personen]({{ '/de/personen/' | relative_url }}) steht jeder, der oft
 genug genannt ist, um ihm zu folgen, mit den Dokumenten, die ihn nennen. Manche
