@@ -34,13 +34,11 @@ ROWS = [
      '1784 exactly, and its own narrative says "anno immediate elapso 1783" '
      'for the December terminus - the year 1783 now read on the page). If '
      'the heading carries a year, it says when the relation was registered.'),
-    ('tail_167v', 'Dates', '0167_b', 4300,
-     'The entry breaks off mid-sentence at the foot of 167v ("... Relictam '
-     'viduam"). Does the entry continue on the next leaf?',
-     ['continues on p. 168', 'ends here', 'do not know'],
-     'If it continues, the entry is excerpted here and the site says so; if '
-     'the archive\'s leaf is lost or unread, the transcription ends where it '
-     'ends. The next leaf is not among the scans.'),
+    # tail_167v: settled from the chat, 2026-10-26, and taken off the sheet.
+    # The editor ruled "there is no content past 167v" - the register ends
+    # there; the entry stops mid-sentence because the volume ends, and no
+    # next leaf exists to ask for. (The row asked whether the entry continues
+    # on the next leaf; the ruling answers it.)
     # ------------------------------------------------------------- NAMES ---
     ('termilis', 'Names', '0163_a', 2050,
      'The estate name before "Kanino" - read it ("Termilis"? "Ternilis"?)',
@@ -334,7 +332,7 @@ ROWS = [
      'Read the word: "now however the indiction ... was removed".'),
     # --------------------------------------------------------- PRINCIPLES --
     ('pr_nieszwiez', 'Principles', '0161_a', 1450,
-     'The endings of "Nieszczeviec-" (the captain of Nieśwież, 12 places) '
+     'The endings of "Nieszczeviec-" (the starost of Nieśwież, 12 places) '
      'were PROPOSED to be completed by the grammar of each sentence (dative '
      '-i, accusative -em, genitive -is), the scribe\'s stem kept - not '
      'applied; your fresh transcription keeps the doubts. Rule on the '

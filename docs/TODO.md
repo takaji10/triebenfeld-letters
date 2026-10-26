@@ -1338,9 +1338,19 @@ transcription; 108 readings settled in session before the first build
       pages is OPTIONAL - take it up only if a passage ever needs line-level
       citation. No machine drafts are needed; `intake/lineation_draft/` can
       be ignored or deleted.
+- [x] Your two rulings of the publish evening (2026-10-26, in chat),
+      applied: "it is not captain, it is starost" — the scribe's
+      Capitaneus renders starost throughout the English, the German, the
+      summaries, the pages, the timeline and the story (the transcription
+      keeps the manuscript's form, as in Konin Gr.119); and "there is no
+      content past 167v" — the register ends at the mid-sentence break, no
+      next leaf exists, the "continues on the next leaf" sentences were
+      withdrawn everywhere, and the sheet's tail_167v row came off (the
+      sheet rebuilt and republished, 61 rows).
 - [ ] After the sheet: apply the answers; widen or re-crop the rows answered
       "WRONG LINE"/"NOT SHOWN" and re-publish the sheet if needed; rebuild
       the affected pages.
-- [ ] The entry breaks off mid-sentence at the foot of 167v: whether the
-      archive's next leaf is to come is on the sheet (`tail_167v`); if it is,
-      the entry is excerpted and the site says so.
+- [x] The entry stops mid-sentence at the foot of 167v: **ruled by you
+      (2026-10-26, in chat) — there is no content past 167v**; the register
+      ends there. No next leaf to ask for; the entry stands as the volume's
+      last, and the sheet's tail_167v row came off.

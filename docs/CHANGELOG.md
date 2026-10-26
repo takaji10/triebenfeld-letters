@@ -3143,6 +3143,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   - a merge run there fast-forwarded that branch by mistake and was reset
   back; main was moved with `git branch -f` from a fresh fetch (the lesson
   in WORKING_NOTES, "Two sessions, one working copy").
+- Two rulings of the publish evening applied at once and republished: the
+  scribe's Capitaneus renders starost, not captain (the editor's word; the
+  standing rule of Konin Gr.119), in the English, the German, the
+  summaries, the holding's pages, the timeline and the story - the
+  transcription keeps the manuscript's form; and there is no content past
+  167v (the editor's word) - the register ends at the mid-sentence break,
+  no next leaf exists, every "continues on the next leaf" sentence was
+  withdrawn, and the sheet's tail_167v row came off (the sheet rebuilt and
+  republished, 61 rows).
 ## 2026-10-25 - The word of the Themen block ruled
 
 - The editor ruled the doubtful word of 0030's Themen block "polnische"

@@ -38,6 +38,7 @@
   "app5320pozgr1181-001|1|marker-check|14 in German",
   "app5320pozgr1181-001|2|marker-check|15 in German",
   "app5320pozgr1181-001|3|glossary-mismatch|Gulden",
+  "app5320pozgr1181-001|3|glossary-mismatch|Prusinowa",
   "app5320pozgr1181-001|3|glossary-mismatch|Trąmpczyn",
   "app5320pozgr1181-001|3|marker-check|",
   "app5320pozgr1181-001|3|marker-check|45 in German",
@@ -51,6 +52,7 @@
   "app5320pozgr1181-001|7|marker-check|",
   "app5320pozgr1181-001|7|marker-check|37 in German",
   "app5320pozgr1181-001|7|number-check|17",
+  "app5320pozgr1181-001|7|untranslated-term|Oporowa",
   "app5320pozgr1181-001|8|glossary-mismatch|Martini",
   "app5320pozgr1181-001|8|glossary-mismatch|Transact",
   "app5320pozgr1181-001|8|glossary-mismatch|kondestensja",
@@ -75,5 +77,5 @@
   "oe1bu9454-036|2|rare-pair|Anweisung",
   "oe1bu9454-269a|1|rare-pair|Anweisung"
  ],
- "_note_app5320pozgr1181": "Rows of the Latin holding APP 53/20/0/-/Poznan Gr.1181, cleared 2026-10-26. The checker reads the Latin source as if German: the marker rows count the Latin [?] marks against bracketed notes the English does not carry one-for-one (the English renders the sense and keeps the doubt where it matters); the glossary rows offer termbase renderings of German-corpus words (Gulden, Transact, Martini, Jacobi, kondestensja, Woźny) that do not govern a Latin document, the Trąmpczyn row was satisfied by fixing the English to the Polish name, and the numerals are the Latin source written in words. The ratio row is the Latin terseness. The one forbidden rendering (engrossed, a German-Ausfertigung rule) was fixed in the English (entered at length)."
+ "_note_app5320pozgr1181": "Rows of the Latin holding APP 53/20/0/-/Poznan Gr.1181, cleared 2026-10-26. The checker reads the Latin source as if German: the marker rows count the Latin [?] marks against bracketed notes the English does not carry one-for-one (the English renders the sense and keeps the doubt where it matters); the glossary rows offer termbase renderings of German-corpus words (Gulden, Transact, Martini, Jacobi, kondestensja, Woźny) that do not govern a Latin document, the Trąmpczyn row was satisfied by fixing the English to the Polish name, and the numerals are the Latin source written in words. The ratio row is the Latin terseness. The one forbidden rendering (engrossed, a German-Ausfertigung rule) was fixed in the English (entered at length). Two rows of the 2026-10-26 evening rebuild: the probe caught the English printing the Polish canon (Prusinowo, Oporowo) where the Latin source has the inflected form (Prusinowa, Oporowa) - the edition names places by their Polish name whatever form the source writes; correct, not an interpretation."
 }

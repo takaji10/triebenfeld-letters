@@ -9,7 +9,7 @@ Poznań: the decree of the condescensio held **on the Trąbczyn grounds**
 ("in Fundo Bonorum Villae Trąmpczyn Curiaque ibidem sita") on **Monday after
 Judica Sunday, 29 March 1784**, on the ultimate limitation (ultimariae
 limitatio) of the succession the sterile brothers **Antoni and Paweł
-Prusimski** left. The parties: Antoni in Kolno Prusimski, captain of
+Prusimski** left. The parties: Antoni in Kolno Prusimski, starost of
 Nieśwież, against the heirs of the sisters (the Zakrzewski, Tomicki,
 Taczanowski, Kołaczkowski and Tworowicz parties), with the abbot and convent
 of **Ląd** summoned over the quietation of 3,500 ducats and the silver lodged
@@ -74,14 +74,23 @@ recorded as the answer to "how easy would it be".
     stands as written; the reading is interpretation, not correction.
   - "die decima sexta Mensis Junii" = 16 June 1783 (Trinity Sunday was
     15 June) - the day formula now fits the calendar exactly.
-- **The entry breaks off mid-sentence** at the foot of p. 167v ("... Relictam
-  viduam"). The continuation is on the next leaf, not among the scans
-  (spot sheet, `tail_167v`).
+- **The entry stops mid-sentence** at the foot of p. 167v ("... Relictam
+  viduam"). The editor ruled (2026-10-26, in chat): **there is no content
+  past 167v** — the register ends there; the entry stops because the volume
+  ends, and no next leaf exists to ask for. The spot sheet's `tail_167v`
+  row was settled by this and taken off the sheet.
 - **The register heading "4ta Martii"** carries no year in the transcription.
   The volume is labelled 1786, but the actum is 1784 and the narrative runs
   to "anno immediate elapso 1783"; whether the heading carries a year and
   which is on the spot sheet (`heading_year`). Until it is settled the date
   span of the unit is written 1784-1786.
+- **The office is the starost** (the editor, 2026-10-26, in chat: "it is
+  not captain, it is starost"). The scribe's *Capitaneus* is the Latin of
+  starosta; the English and German render "starost" throughout, as in the
+  editor's other translations (Konin Gr.119). The transcription keeps the
+  manuscript's Capitaneo/Capitanei. The form of the place name
+  ("Nieszczeviec-", rendered Nieśwież here) stays on the sheet
+  (`pr_nieszwiez` covers its endings).
 
 ## The spot sheet
 
@@ -113,7 +122,7 @@ reading they settle.
   indiction) - the gate will list them once the holding is translated.
 - **Timeline**: the 1740 division and the 1784 decree are candidates; both
   are already documented from other holdings - rule after the sheet.
-- **People pages**: Antoni Prusimski's career (captain of Nieśwież, knight
+- **People pages**: Antoni Prusimski's career (starost of Nieśwież, knight
   of St Stanisław) and the family's 1740 division are already in
   `reference/genealogy.yml` from other sources; the entry's own recital of
   the division is a new document-side witness.
@@ -146,7 +155,7 @@ session, no paid run:
   record). **Claim check** in `intake/claim_check.yml`, hand-made under the
   `--verify` rules: 13 statements, all supported after three corrections of
   the draft — the three daughters (not four), the two paternal figures
-  (Paweł's scheda 154,436 gr 24½ at p. 166v and the captain's own 154,936
+  (Paweł's scheda 154,436 gr 24½ at p. 166v and the starost's own 154,936
   gr 24½ at p. 167, each right for its own scheda; the draft had carried
   only 154,936), the Nierzychowska ground (quieted 1740, refused as a load
   borne over, not "not provable as paid"), and the manuscript's own
@@ -193,3 +202,11 @@ session, no paid run:
 - Status `translated`. Publishing (the merge to main and the push) is the
   editor's word given in this sitting; the spot sheet stays open, its
   answers to be ruled in when they come.
+- **Two rulings of the publish evening** (2026-10-26, in chat), applied at
+  once and republished: the scribe's *Capitaneus* renders **starost**, not
+  captain (the standing rule; Konin Gr.119), in the English, the German,
+  the summaries, the holding's pages, the timeline and the story; and
+  **there is no content past 167v** — the register ends at the mid-sentence
+  break, no next leaf exists, and every "continues on the next leaf"
+  sentence was withdrawn. The sheet's `tail_167v` row came off and the
+  sheet was rebuilt and republished (61 rows now).

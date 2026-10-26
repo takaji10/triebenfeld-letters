@@ -6,10 +6,10 @@ there, on the ultimate limitation (ultimariae limitatio) of the succession
 that the sterile brothers Antoni and Paweł Prusimski left. One document on
 fourteen pages of the relationes protocollon of the castellany court of
 Poznań, entered under the register heading "4ta Martii"; the entry breaks
-off mid-sentence at the foot of p. 167v and continues on the next leaf,
-which is not among the scans [[1]].
+off mid-sentence at the foot of p. 167v, and nothing follows it in the
+volume [[1]].
 
-The parties were Antoni in Kolno Prusimski, captain of Nieśwież, knight of
+The parties were Antoni in Kolno Prusimski, starost of Nieśwież, knight of
 the Order of St Stanisław, the nephew and heir of the sterile brothers,
 against the heirs of the sisters' line: the Zakrzewski, Tomicki,
 Taczanowski, Kołaczkowski and Tworowicz parties, the successors of the
@@ -31,7 +31,7 @@ inscriptions of the maternal estates back to 1616. And it decides: the
 clean maternal (Goliński) fortune of 98,379 florins groschen 5 Polish
 divided among six capits, three brothers and three sisters, at 16,396
 florins groschen 15 and 2½ solidi each; the clean paternal fortunes
-adjudged to the captain as his uncles' heir, Paweł's scheda at 154,436
+adjudged to the starost as his uncles' heir, Paweł's scheda at 154,436
 florins groschen 24½ Polish and his own at 154,936 florins groschen 24½,
 each after the maternal portion's deduction; the widow Nierzychowska's
 30,000, though quieted in 1740, and Puchalski's 10,000, presumed pacified,
@@ -48,7 +48,7 @@ of Paweł, and her 40,000 florins Polish inscribed in 1745 on Peczyska and
 Dubno; the condescensio term at Grab of 3 June 1782, taken with Ludwik
 Bogdański, chamberlain territorial of Kalisz, and Teresa née
 Rozdrażewska; and at the naming of Ewa de Maniewska Potocka, widow of
-Joachim Potocki, general lieutenant, the entry breaks off [[1]].
+Joachim Potocki, general lieutenant, the entry stops, mid-sentence [[1]].
 
 The holding belongs with the sibling registers of the same suit,
 [[unit:app53170koningr115]], [[unit:app53170koningr116]],

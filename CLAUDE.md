@@ -201,18 +201,19 @@ so check them.
   protocollon of the castellany court of Poznań — the condescensio decree
   of 29 March 1784, held on the Trąbczyn grounds, on the ultimate
   limitation of the succession the sterile brothers Antoni and Paweł
-  Prusimski left; the captain Antoni in Kolno Prusimski against the five
+  Prusimski left; the starost Antoni in Kolno Prusimski against the five
   sisters'-heirs parties, the abbey of Ląd cited over the 3,500 ducats and
   the silver, the Radoliński claim of 43,000 left undecided, the entry
-  breaking off mid-sentence at the foot of 167v. The editor's own
+  stopping mid-sentence at the foot of 167v, where the register ends (the
+  editor's ruling: no content past 167v). The editor's own
   transcription; the morning session's 108 completions withdrawn at the
   fresh p. 161's word; lineation of 161v-167v optional (by paragraph, as
   Konin Gr.117); translated, summarised and claim-checked in session, no
-  paid run. Index: twelve people, seven places, two firm map links
-  (Oporowo gmina Krzemieniewo, Jaryszki gmina Kórnik). **Open: the spot
-  sheet's 62 rows** — the answers rule into the text when they come; the
-  doubtful readings stand as written until then. The entry continues on
-  the next leaf, not among the scans. Read
+  paid run; the scribe's Capitaneus renders starost at the editor's word
+  (the standing rule). Index: twelve people, seven places, two firm map
+  links (Oporowo gmina Krzemieniewo, Jaryszki gmina Kórnik). **Open: the
+  spot sheet's 61 rows** — the answers rule into the text when they come;
+  the doubtful readings stand as written until then. Read
   `units/app5320pozgr1181/notes.md` first. The holding counts 1 document
   on 14 pages; the edition has 630 documents in 51 holdings.
 - **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**

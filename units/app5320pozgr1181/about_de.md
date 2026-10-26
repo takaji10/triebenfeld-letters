@@ -6,11 +6,10 @@ Gutshaus, über die ultimative Limitation der Erbschaft abhielten, die die
 kinderlos verstorbenen Brüder Antoni und Paweł Prusimski hinterließen. Ein
 Dokument auf vierzehn Seiten des Relationes-Protokolls des
 Kastellangerichts von Posen, eingerückt unter der Registerüberschrift
-"4ta Martii"; der Eintrag bricht am Fuß von Blatt 167v mitten im Satz ab
-und läuft auf dem nächsten Blatt weiter, das unter den Scans nicht ist
-[[1]].
+"4ta Martii"; der Eintrag endet am Fuß von Blatt 167v mitten im Satz, und
+nichts folgt ihm im Band [[1]].
 
-Die Parteien waren Antoni in Kolno Prusimski, Kapitän von Nieśwież, Ritter
+Die Parteien waren Antoni in Kolno Prusimski, Starost von Nieśwież, Ritter
 des St.-Stanislaus-Ordens, der Neffe und Erbe der kinderlosen Brüder,
 gegen die Erben der Linie der Schwestern: die Parteien Zakrzewski,
 Tomicki, Taczanowski, Kołaczkowski und Tworowicz, die Nachfolger der drei
@@ -32,7 +31,7 @@ Kircheneintragungen der mütterlichen Güter zurück bis 1616. Und es
 entscheidet: die reine mütterliche (Goliński-)Vermögensmasse von 98.379
 Florin Groschen 5 polnisch, geteilt unter sechs Kapitalien, drei Brüder
 und drei Schwestern, zu je 16.396 Florin Groschen 15 und 2½ Solidi; die
-reinen väterlichen Vermögensmassen, dem Kapitän als Erben seiner Onkel
+reinen väterlichen Vermögensmassen, dem Starosten als Erben seiner Onkel
 zugesprochen, die Lotschecht Pawełs zu 154.436 Florin Groschen 24½
 polnisch und seine eigene zu 154.936 Florin Groschen 24½, jede nach dem
 Abzug des mütterlichen Anteils; die 30.000 der Witwe Nierzychowska,
@@ -52,7 +51,7 @@ polnisch, 1745 auf Peczyska und Dubno eingetragen; der
 Kondeszensionstermin zu Grab vom 3. Juni 1782, genommen mit Ludwik
 Bogdański, Kämmerer von Kalisz, und Teresa geb. Rozdrażewska; und bei der
 Nennung von Ewa de Maniewska Potocka, Witwe des Joachim Potocki,
-Generalleutnant, bricht der Eintrag ab [[1]].
+Generalleutnant, endet der Eintrag, mitten im Satz [[1]].
 
 Der Bestandsteil gehört zu den Geschwisterregistern desselben
 Rechtsstreits, [[unit:app53170koningr115]], [[unit:app53170koningr116]],

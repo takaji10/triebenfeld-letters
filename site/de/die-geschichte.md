@@ -101,7 +101,7 @@ Radolińskis von 43 000 Florin polnisch auf Trąbczyn, im Verdacht der Fälschun
 ließ das Gericht unentschieden. Am 29. März 1784 saß die Kondeszension auf dem Grund von
 Trąbczyn und sprach ihr Dekret: die mütterliche Masse unter den sechs Kapitalien geteilt,
 die väterliche Substanz dem Neffen der Brüder zugesprochen, Antoni in Kolno Prusimski,
-Kapitän von Nieśwież ([das Dekret]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
+Starost von Nieśwież ([das Dekret]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
 
 ---
 
