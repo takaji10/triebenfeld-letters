@@ -423,6 +423,33 @@ def main():
                         fail(f'place page: /{base}/ does not link {slug}/')
         print(f'  {len(pp_places)} place pages')
 
+    # The Places page's index of places in two tiers (docs/PLACES_PLAN.md,
+    # section 7): every place of the index is named on the Places page in
+    # both languages, under the name that language's page shows, and the
+    # anchor each list item carries is the slug the rest of the edition
+    # links.
+    pi_data = os.path.join(ROOT, 'site', '_data', 'places_index.yml')
+    if os.path.isfile(pi_data):
+        import yaml
+        with io.open(pi_data, encoding='utf-8') as f:
+            pi = yaml.safe_load(f) or {}
+        print('checking the Places page index...')
+        for base, key in (('places', 'name'),
+                          (os.path.join('de', 'orte'), 'name_de')):
+            list_page = os.path.join(SITE, base, 'index.html')
+            if not os.path.isfile(list_page):
+                fail(f'places index: no page {os.path.join(base, "index.html")}')
+                continue
+            with io.open(list_page, encoding='utf-8') as f:
+                lp = html.unescape(f.read())
+            for tier in ('tier1', 'tier2'):
+                for p in (pi.get(tier) or []):
+                    if (p.get(key) or p.get('name')) not in lp:
+                        fail(f'places index: {os.path.join(base, "")} does '
+                             f'not carry {tier} place {p["slug"]}')
+        print(f'  tier1 {len(pi.get("tier1") or [])}, '
+              f'tier2 {len(pi.get("tier2") or [])}')
+
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.
     links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')

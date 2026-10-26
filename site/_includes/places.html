@@ -48,5 +48,44 @@
 {% endfor %}
 </div>
 
+{%- comment -%}
+  The index of places in two tiers (the editor, 2026-10-26;
+  docs/PLACES_PLAN.md, section 7): tier 1 the places of the
+  Trąbczyn/Zagórów area and the seats that serve it, tier 2 every other
+  place of the register. The estates in focus are the cards above; an
+  estate's list item links its card, a place with its own page links the
+  page, and the rest stand named, each with its anchor for a link from
+  elsewhere in the edition.
+{%- endcomment -%}
+<div class="prose">
+  <h2>{{ t.places_t1_h2 }}</h2>
+  <p class="standfirst">{{ t.places_t1_lede }}</p>
+</div>
+{%- if lang == 'de' %}
+{%- assign tier1 = site.data.places_index.tier1 | sort: 'name_de' %}
+{%- else %}
+{%- assign tier1 = site.data.places_index.tier1 | sort: 'name' %}
+{%- endif %}
+<ul class="index-list place-index">
+{%- for p in tier1 %}
+  <li id="place-{{ p.slug }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% if site.data.places_pages[p.slug] %} — <a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{{ t.place_more }}</a>{% elsif p.estate %} — <a href="#estate-{{ p.estate }}">{{ t.estates_card_link }}</a>{% endif %}</li>
+{%- endfor %}
+</ul>
+
+<div class="prose">
+  <h2>{{ t.places_t2_h2 }}</h2>
+  <p class="standfirst">{{ t.places_t2_lede }}</p>
+</div>
+{%- if lang == 'de' %}
+{%- assign tier2 = site.data.places_index.tier2 | sort: 'name_de' %}
+{%- else %}
+{%- assign tier2 = site.data.places_index.tier2 | sort: 'name' %}
+{%- endif %}
+<ul class="index-list place-index">
+{%- for p in tier2 %}
+  <li id="place-{{ p.slug }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% if site.data.places_pages[p.slug] %} — <a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{{ t.place_more }}</a>{% endif %}</li>
+{%- endfor %}
+</ul>
+
 <script src="{{ '/assets/sort-list.js' | relative_url }}"></script>
 {% include doc-list-script.html %}

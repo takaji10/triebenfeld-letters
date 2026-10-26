@@ -28,6 +28,12 @@
 #   open_questions unresolved identity conflicts, flagged rather than resolved
 #   renamed       later official names, shown on the place's card on the Places
 #                 page, each with its source: {name, years, en, de, source, url}
+#   area          `trabczyn-zagorow` marks tier 1 of the Places page's index
+#                 (the places of the Trąbczyn/Zagórów area and the seats that
+#                 serve it; docs/PLACES_PLAN.md, section 7). Display order only:
+#                 it changes no matching and no metadata. Places the gazetteer
+#                 carries (reference/gazetteer/) are tier 1 whether or not they
+#                 are in the register.
 #
 # The canon consumed by unitlib.load_place_canon() - variant (lowercased) ->
 # display - is DERIVED from `variants` here. Adding a variant therefore both
@@ -44,6 +50,7 @@ places:
   trabczyn:
     display: "Trąbczyn"
     kind: village
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -93,6 +100,7 @@ places:
   wrabczyn:
     display: "Wrąbczyn"
     kind: village
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -114,6 +122,7 @@ places:
   wrabczynek:
     display: "Wrąbczynek"
     kind: village
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -130,6 +139,7 @@ places:
   lukom:
     display: "Łukom"
     kind: settlement
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -164,6 +174,7 @@ places:
     # Imielna.
     display: "Imielno"
     kind: village
+    area: trabczyn-zagorow
     medieval:
       - "1243: Chemelino"
     match: '(?:Imieln|Chemelin)\w*'
@@ -214,6 +225,7 @@ places:
     display: "Zagórów"
     german: "Zagorowo"
     kind: town
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -256,6 +268,7 @@ places:
   szetlewek:
     display: "Szetlewek"
     kind: village
+    area: trabczyn-zagorow
     # Szetlowek and Szeltowek are the French report of 1818, Szetlowka (genitive)
     # the Polish judgment of 1827, each beside Trąbczyn (III. HA MdA, III. Nr.
     # 12366, documents 2 and 6). Matched, not made variants: the English keeps
@@ -295,6 +308,7 @@ places:
     # editor's list, 2026-10-16).
     display: "Szetlew"
     kind: village
+    area: trabczyn-zagorow
     # Matched from 2026-10-26: the first text that tells the two apart is the
     # relatio of APP 53/4/0/-/62 ("Ad Bona Villa Szetlewo", the citation
     # served at Szetlew). The form is the Kodeks's own: its editors gloss
@@ -321,6 +335,7 @@ places:
     # 1789 and the Zagórów table of 1791 (2026-10-16).
     display: "Adamierz"
     kind: village
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -334,6 +349,7 @@ places:
     display: "Kopojno"
     german: "Kopoyno"
     kind: village
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -422,6 +438,7 @@ places:
     display: "Mariantów"
     german: "Marianton"
     kind: village
+    area: trabczyn-zagorow
     match: 'Mariant[oóe][nw]\w*|Maryant[oó][nw]\w*'
     tier: "Context-inferred"
     variants: ["Marianton", "Marianten", "Mariantow"]   # the last two: the copy of about 1930, APP 53/968/0/-/801
@@ -483,6 +500,7 @@ places:
   michalinow-olesnicki:
     display: "Michalinów Oleśnicki"
     kind: settlement
+    area: trabczyn-zagorow
     tier: "Book-confirmed"
     variants: []
     distinct_from: [michalinow-oledry, olesnica]
@@ -493,6 +511,7 @@ places:
   michalinow-oledry:
     display: "Michalinów Olędry"
     kind: settlement
+    area: trabczyn-zagorow
     tier: "Book-confirmed"
     variants: []
     distinct_from: [michalinow-olesnicki]
@@ -525,6 +544,7 @@ places:
   trabczynskie-stare-oledry:
     display: "Trąbczyńskie Stare Olędry"
     kind: settlement
+    area: trabczyn-zagorow
     tier: "Book-confirmed"
     # "Olędry nowe i stare" and the table's "Olendry" in the visitation of 1791
     # (ADWł 85) are the two settlements together. So is "Hollendry Luzne Stare
@@ -567,6 +587,7 @@ places:
   trabczynskie-nowe-oledry:
     display: "Trąbczyńskie Nowe Olędry"
     kind: settlement
+    area: trabczyn-zagorow
     tier: "Book-confirmed"
     # "Hollendry Luzne Stare i nowe z Hutą" in the table of the parish of
     # Trąbczyn of 1791-1792 (app5321pyzdrygr115) names both settlements in
@@ -583,6 +604,7 @@ places:
   lukomskie-oledry:
     display: "Łukomskie Olędry"
     kind: settlement
+    area: trabczyn-zagorow
     tier: "Book-confirmed"
     variants: [{form: "Chełmskie Olędry", match: false}]
     open_questions:
@@ -791,6 +813,7 @@ places:
     display: "Pyzdry"
     german: "Peisern"
     kind: town
+    area: trabczyn-zagorow
     match: 'Pyzdry\w*|Pe[iy]sern\w*'
     tier: "Established"
     variants:
@@ -803,6 +826,7 @@ places:
     display: "Kalisz"
     german: "Kalisch"
     kind: city
+    area: trabczyn-zagorow
     match: 'Kalis(?:z|ch)\w*'
     tier: "Established"
     variants:
@@ -817,6 +841,7 @@ places:
   konin:
     display: "Konin"
     kind: town
+    area: trabczyn-zagorow
     match: 'Konin\w*|Konińsk\w*'   # Powiatu Konińskiego (app5371057 doc 2)
     # In the table of villages of 1797 "Kurow Koninsk." is a village's name,
     # not the town.
@@ -1017,6 +1042,7 @@ places:
     # corpus has several men named Ludwig.
     display: "Ludwigslust"
     kind: settlement
+    area: trabczyn-zagorow
     match: 'Ludwigslust\w*'
     tier: "Book-confirmed"
     variants:
@@ -1035,6 +1061,7 @@ places:
     display: "Oleśnica"
     german: "Olesnice"
     kind: village
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -1105,6 +1132,7 @@ places:
   drzewce:
     display: "Drzewce"
     kind: estate
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -1140,6 +1168,7 @@ places:
   gradzyn:
     display: "Grądzyń"
     kind: village
+    area: trabczyn-zagorow
     # "Gradziem", "Gradzien" in the copy-book of the privileges of Ląd (APP
     # 53/1455/0/2/21: the forest bought with three mansi of Łukom, confirmed
     # in 1447 ("Graziem") and resigned in 1461, and
@@ -1174,6 +1203,7 @@ places:
   osiny:
     display: "Osiny"
     kind: village
+    area: trabczyn-zagorow
     match: 'Osin\w*'
     tier: ""
     variants: ["Osziny"]
@@ -1255,6 +1285,7 @@ places:
   skokum:
     display: "Skokum"
     kind: village
+    area: trabczyn-zagorow
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
@@ -1465,6 +1496,7 @@ places:
   augustinow:
     display: "Augustinow"
     kind: settlement
+    area: trabczyn-zagorow
     match: 'Augustinow\w*'
     tier: "Context-inferred"
     variants: []
@@ -1482,6 +1514,7 @@ places:
   slupca:
     display: "Słupca"
     kind: town
+    area: trabczyn-zagorow
     match: 'S[łl]upca'
     tier: "Context-inferred"
     variants: []
@@ -2152,6 +2185,7 @@ places:
   przybyslaw:
     display: "Przybysław"
     kind: village
+    area: trabczyn-zagorow
     match: 'Przyb[iy]s[lł]aw\w*'
     # In the Kodeks Dyplomatyczny Wielkopolski (1414) Przybysław is a man, the church servant
     # of Zagórów.
@@ -2242,6 +2276,7 @@ places:
   nowawies-trabczyn:
     display: "Nowawies"
     kind: village
+    area: trabczyn-zagorow
     # "Nowa Wieś" only where the visitation of 1791 lists the parish (ADWł 85):
     # the name is too common to match anywhere.
     match: 'Nowawie[sś]|Nowa Wie[sś](?= \|| ?\. Wsie)'
@@ -2256,6 +2291,7 @@ places:
   lazy-trabczyn:
     display: "Łazy"
     kind: village
+    area: trabczyn-zagorow
     # "(?<=,)Łazy(?=,)" (2026-10-26): the name cell of a table row, where the
     # row carries no other context - the hearth-tax register's entry 180
     # (app53640kalisztab21) and the table of the parish of Trąbczyn

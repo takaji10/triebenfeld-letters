@@ -29,8 +29,9 @@ required, or the build stops.
 
 The slug of a place's page is the place's slug in reference/places.yml, the
 same slug its card on the Places page carries; the build fails loudly if it
-is no estate of the edition, so a misspelt slug cannot make an orphan page.
-
+is neither an estate of the edition nor a place of the gazetteer, so a
+misspelt slug cannot make an orphan page (docs/PLACES_PLAN.md, section 7:
+the widened index).
 Run as a step of regenerate.py, after build_site_data.py (the estates) and
 beside person_pages.py.
 
@@ -100,6 +101,20 @@ def main():
     estates = {e['slug'] for e in (
         yaml.safe_load(io.open(os.path.join(SITE, '_data', 'estates.yml'),
                                encoding='utf-8')) or [])}
+    # A place page hangs on the Places page (docs/PLACES_PLAN.md, section 7):
+    # on an estate's card, or on the place's item in the page's index of
+    # places — a place the gazetteer carries (reference/gazetteer/), the
+    # editor's own index of the Trąbczyn/Zagórów area. The slug of a place's
+    # page is the gazetteer's slug where the gazetteer has the place, and the
+    # register's slug otherwise.
+    gazetteer = set()
+    _gz = os.path.join(ROOT, 'reference', 'gazetteer')
+    for _fn in os.listdir(_gz):
+        if not _fn.endswith('.yml'):
+            continue
+        with open(os.path.join(_gz, _fn), encoding='utf-8') as _gf:
+            _g = yaml.safe_load(_gf) or {}
+        gazetteer.add(_g.get('slug') or _fn[:-4])
 
     places = []
     for slug in sorted(os.listdir(PLACES)):
@@ -112,10 +127,11 @@ def main():
         if pl.get('slug') != slug:
             raise SystemExit(f'{where}: slug {pl.get("slug")!r} does not '
                              f'match the folder {slug!r}')
-        if slug not in estates:
-            raise SystemExit(f'{where}: {slug} is not an estate of the '
-                             'edition - the page hangs on a card of the '
-                             'Places page (reference/places.yml, '
+        if slug not in estates and slug not in gazetteer:
+            raise SystemExit(f'{where}: {slug} is neither an estate of the '
+                             'edition nor a place of the gazetteer - the '
+                             'page hangs on the Places page '
+                             '(reference/places.yml, reference/gazetteer/, '
                              'site/_data/estates.yml)')
         for field in ('heading', 'heading_de', 'standfirst_en',
                       'standfirst_de', 'intro_en', 'intro_de'):
