@@ -288,6 +288,35 @@ so check them.
   page; waiting on the editor's marks. **To add a map, follow
   `docs/ADDING_A_MAP.md`.**
 
+- **Rostworowski (1918)** (`rostworowski1918`, added 2026-10-26, committed
+  on branch `rostworowski1918`, **not published**): Michał Rostworowski
+  (ed.), *Materyały do dziejów Komisyi Rządzącej z r. 1807*, T. 1,
+  *Dziennik czynności Komisyi Rządzącej* (Kraków 1918), the day-by-day
+  journal of the Commission that carried the government of the Duchy of
+  Warsaw from January 1807, printed from the manuscript a century later -
+  the edition's AGAD restitution file of Michalina Dąbska (1/174/0/2/73,
+  1/174/0/1/6) seen from the government's side. The excerpt (9 printed
+  pages, the editor's word: the whole sitting each time, and for p. 322 the
+  whole protocol that contains the passage): sitting 51 of 13 February 1807
+  (the memorial referred to the Director of Justice), sitting 58 of 18
+  February (the opinion "a matter of a purely political character", the
+  resolution to petition the Emperor), sitting 210 at Dresden of 21 July
+  (the Emperor's Wybicki decree extended to Dąbska, General Niemojewski and
+  Wichrowski), and the Directorium's protocol Nr. 3 of 15 July (her among
+  the very many leaving for Dresden, in the Director of Police
+  Łubieński's first person). Out of copyright (print 1918; Rostworowski d.
+  1940). Read by two witnesses held against each other (the PDF's own text
+  layer against the lunaroute OCR of the 300 dpi pages; the images could
+  not be read directly in the session, so six doubtful spots wait on the
+  editor's eye - `review/rostworowski1918/spot_sheet.md`, the figure
+  "500/m" and the untraced word "anzeatyeznym" among them). Index ruled:
+  23 hits; the print's modern genitives of her surname ("Dambskiej",
+  "Dąbskiej", the print's own bracket "Dambski[ej]") came in as a
+  literature-only pattern; p. 44's "Małachowskiego" excepted to "no" (the
+  late Treasury Director Jan Nepomucen, not the President). Three hand-made
+  links tie the passages to her letters and the register's resolution
+  (AGAD). `docs/LITERATURE_PLAN.md`, section 29. Read
+  `literature/rostworowski1918/notes.md` first.
 - **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **published
   2026-10-23**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*
   (Stuttgart: Franz Steiner 2001), the biography of the mother of
