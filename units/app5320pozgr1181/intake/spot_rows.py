@@ -332,7 +332,7 @@ ROWS = [
      'Read the word: "now however the indiction ... was removed".'),
     # --------------------------------------------------------- PRINCIPLES --
     ('pr_nieszwiez', 'Principles', '0161_a', 1450,
-     'The endings of "Nieszczeviec-" (the starost of Nieśwież, 12 places) '
+     'The endings of "Nieszczeviec-" (the starost of Niszczewice, 12 places) '
      'were PROPOSED to be completed by the grammar of each sentence (dative '
      '-i, accusative -em, genitive -is), the scribe\'s stem kept - not '
      'applied; your fresh transcription keeps the doubts. Rule on the '

@@ -94,7 +94,7 @@ lodged in its treasury; and the Radoliński claim of 43,000 florins Polish on Tr
 disputed on suspicion of forgery, the court left undecided. On 29 March 1784 the
 condescensio sat on the Trąbczyn grounds and gave its decree: the maternal fortune divided
 among the six capits, the paternal substance adjudged to the brothers' nephew, Antoni in
-Kolno Prusimski, starost of Nieśwież ([the decree]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
+Kolno Prusimski, starost of Niszczewice ([the decree]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
 
 ---
 

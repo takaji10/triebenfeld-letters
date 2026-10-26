@@ -26,7 +26,7 @@ not settled here keeps its [?] mark.
 | 0161_a | `Regentem Terrestrem Vielun[em?]` | `Regentem Terrestrem Vielunensem` | accusative with "Regentem" |
 | 0161_b | `quietatnis[?]` | `quietationis` | the formula word; "quietationibus" recurs in the entry |
 | 0161_b | `haeren[dem?] em[?]lcantia` | `haerentis enucliantia` | the same phrase stands unflagged above: "onera super eisdem substantiis haerentis enucliantium" |
-| 0161_b | `Nieszczevicen[em?] existentia` | `Nieszczeviecensis existentia` | genitive with "in archivo Illustrissimi ... Capitanei" (the sheet's principle row covers the Nieśwież endings) |
+| 0161_b | `Nieszczevicen[em?] existentia` | `Nieszczeviecensis existentia` | genitive with "in archivo Illustrissimi ... Capitanei" (the sheet's principle row covers the Niszczewice endings) |
 | 0161_b | `Capitaneo Nieszczeviecen[sem?] ad summarium` | `Capitaneo Nieszczeviecensi ad summarium` | dative with "Capitaneo" (the sheet's principle row) |
 | 0162_a | `milliu[?] sexcentorum` | `millium sexcentorum` | grammar: genitive with "centum septuaginta duorum" |
 | 0162_a | `fp[?] jam vero` | `fp jam vero` | the editor's own abbreviation, as unflagged instances write it |

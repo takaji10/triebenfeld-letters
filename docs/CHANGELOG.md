@@ -3152,6 +3152,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   no next leaf exists, every "continues on the next leaf" sentence was
   withdrawn, and the sheet's tail_167v row came off (the sheet rebuilt and
   republished, 61 rows).
+- The starost's seat settled the same evening, in three steps of the
+  editor's word: not Nieśwież (the session's own misreading, withdrawn);
+  then Nieszczewice by the session's first reading of "Nieszczewic e";
+  finally NISZCZEWICE by the modern spelling - which is the spelling the
+  rest of the edition had carried all along (the register's people entry,
+  fifteen sibling holdings, the era essay). The correction ended where it
+  began: this holding's renderings now say starost of Niszczewice like
+  every other text of the era; the manuscript's Nieszczeviec- stem stands,
+  its endings still on the sheet.
 ## 2026-10-25 - The word of the Themen block ruled
 
 - The editor ruled the doubtful word of 0030's Themen block "polnische"

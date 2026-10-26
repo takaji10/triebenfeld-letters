@@ -9,7 +9,7 @@ Poznań, entered under the register heading "4ta Martii"; the entry breaks
 off mid-sentence at the foot of p. 167v, and nothing follows it in the
 volume [[1]].
 
-The parties were Antoni in Kolno Prusimski, starost of Nieśwież, knight of
+The parties were Antoni in Kolno Prusimski, starost of Niszczewice, knight of
 the Order of St Stanisław, the nephew and heir of the sterile brothers,
 against the heirs of the sisters' line: the Zakrzewski, Tomicki,
 Taczanowski, Kołaczkowski and Tworowicz parties, the successors of the

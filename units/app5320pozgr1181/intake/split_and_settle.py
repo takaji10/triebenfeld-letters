@@ -44,7 +44,7 @@ CH = [
 ('161v', r'quietatnis\[?\]', 'quietationis', 'the formula word; "quietationibus" recurs in the entry'),
 ('161v', r'haeren\[dem?\] em\[?\]lcantia', 'haerentis enucliantia',
  'the same phrase stands unflagged above: "onera super eisdem substantiis haerentis enucliantium"'),
-('161v', r'Nieszczevicen\[em?\] existentia', 'Nieszczeviecensis existentia', 'genitive with "in archivo Illustrissimi ... Capitanei" (the sheet\'s principle row covers the Nieśwież endings)'),
+('161v', r'Nieszczevicen\[em?\] existentia', 'Nieszczeviecensis existentia', 'genitive with "in archivo Illustrissimi ... Capitanei" (the sheet\'s principle row covers the Niszczewice endings)'),
 ('161v', r'Capitaneo Nieszczeviecen\[sem?\] ad summarium', 'Capitaneo Nieszczeviecensi ad summarium', 'dative with "Capitaneo" (the sheet\'s principle row)'),
 # --- page 162 ---
 ('162', r'milliu\[?\] sexcentorum', 'millium sexcentorum', 'grammar: genitive with "centum septuaginta duorum"'),

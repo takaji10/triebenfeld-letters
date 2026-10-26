@@ -10,7 +10,7 @@ Poznań: the decree of the condescensio held **on the Trąbczyn grounds**
 Judica Sunday, 29 March 1784**, on the ultimate limitation (ultimariae
 limitatio) of the succession the sterile brothers **Antoni and Paweł
 Prusimski** left. The parties: Antoni in Kolno Prusimski, starost of
-Nieśwież, against the heirs of the sisters (the Zakrzewski, Tomicki,
+Niszczewice, against the heirs of the sisters (the Zakrzewski, Tomicki,
 Taczanowski, Kołaczkowski and Tworowicz parties), with the abbot and convent
 of **Ląd** summoned over the quietation of 3,500 ducats and the silver lodged
 in the convent's treasury. The decree recites the whole documentary history
@@ -84,13 +84,16 @@ recorded as the answer to "how easy would it be".
   to "anno immediate elapso 1783"; whether the heading carries a year and
   which is on the spot sheet (`heading_year`). Until it is settled the date
   span of the unit is written 1784-1786.
-- **The office is the starost** (the editor, 2026-10-26, in chat: "it is
-  not captain, it is starost"). The scribe's *Capitaneus* is the Latin of
-  starosta; the English and German render "starost" throughout, as in the
+- **The office is the starost, of Niszczewice** (the editor, 2026-10-26,
+  in chat: "it is not captain, it is starost", and, on the place, "It
+  should be Nieszczewic e" corrected to "Niszczewice" - the modern
+  spelling, the one the rest of the edition already carried). The scribe's
+  *Capitaneus Nieszczeviec-* is the Latin of starosta of Niszczewice; the
+  English and German render "starost of Niszczewice" throughout, as in the
   editor's other translations (Konin Gr.119). The transcription keeps the
-  manuscript's Capitaneo/Capitanei. The form of the place name
-  ("Nieszczeviec-", rendered Nieśwież here) stays on the sheet
-  (`pr_nieszwiez` covers its endings).
+  manuscript's Capitaneo/Capitanei and the Nieszczeviec- stem; the endings
+  stay on the sheet (`pr_nieszwiez`). The session's first evening reading
+  ("Nieśwież") was the session's own misreading and is withdrawn.
 
 ## The spot sheet
 
@@ -122,7 +125,7 @@ reading they settle.
   indiction) - the gate will list them once the holding is translated.
 - **Timeline**: the 1740 division and the 1784 decree are candidates; both
   are already documented from other holdings - rule after the sheet.
-- **People pages**: Antoni Prusimski's career (starost of Nieśwież, knight
+- **People pages**: Antoni Prusimski's career (starost of Niszczewice, knight
   of St Stanisław) and the family's 1740 division are already in
   `reference/genealogy.yml` from other sources; the entry's own recital of
   the division is a new document-side witness.

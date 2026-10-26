@@ -9,7 +9,7 @@ Kastellangerichts von Posen, eingerückt unter der Registerüberschrift
 "4ta Martii"; der Eintrag endet am Fuß von Blatt 167v mitten im Satz, und
 nichts folgt ihm im Band [[1]].
 
-Die Parteien waren Antoni in Kolno Prusimski, Starost von Nieśwież, Ritter
+Die Parteien waren Antoni in Kolno Prusimski, Starost von Niszczewice, Ritter
 des St.-Stanislaus-Ordens, der Neffe und Erbe der kinderlosen Brüder,
 gegen die Erben der Linie der Schwestern: die Parteien Zakrzewski,
 Tomicki, Taczanowski, Kołaczkowski und Tworowicz, die Nachfolger der drei
