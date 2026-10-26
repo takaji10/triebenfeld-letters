@@ -156,7 +156,7 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 905 marks of doubt in the edition. Each document's page says how many it has.
+There are 910 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
@@ -190,7 +190,7 @@ document; the page of each holding says how its summaries were made.
 
 **Dates.** About nine documents in ten carry their own date. The others are dated by the
 editor from the manuscript, from the letters on either side, or from a second copy, and
-each document says which. Nine remain undated.
+each document says which. Eighteen remain undated.
 
 **People.** [People]({{ '/people/' | relative_url }}) lists everyone named often enough to
 follow, with the documents that name them. Some identifications rest on context alone; each

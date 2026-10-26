@@ -3063,7 +3063,10 @@ lose his estates. The era page writes Konotop, not Kontop.
   Poznań clause extended and the Latin count corrected to a hundred and
   eight, both languages) and the translation count corrected with them
   (624 of the 628 have English; the sentence still said 614 of the 619,
-  the figures of an earlier state of the edition).
+  the figures of an earlier state of the edition). The guide's other two
+  hand-kept figures corrected against the dataset the same sitting: 910
+  marks of doubt (the page said 905) and eighteen undated documents (it
+  said nine).
 - **Szetlewicz is a surname, not a place name** (the editor, 2026-10-26):
   the session's claim that the name was "formed from the place" is dropped
   from the holding's page and the person entry's comment; the fact stands
