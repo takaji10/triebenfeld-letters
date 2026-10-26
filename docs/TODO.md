@@ -1225,3 +1225,33 @@ the folder is the title page and is left out (your word).
 - [ ] A timeline event: none added - the entry names no party; offered.
 - [x] Published at your word (2026-10-26): main pushed after the local
       Jekyll build and verify passed; the "Build and deploy" run succeeded.
+
+## 55. The cemeteries (planned 2026-10-26, branch `cemeteries`)
+
+The editor's own survey of the ten Evangelical cemeteries of the
+Trąbczyn/Zagórów area and its neighbourhood — condition notes and
+headstone readings — brought in as the new fourth section
+(`cemeteries/`; `docs/CEMETERIES_PLAN.md`). A page per cemetery with the
+headstones as tables, matched to their village place names; no person
+entries (the editor's word).
+
+- [x] The plan written (`docs/CEMETERIES_PLAN.md`) and the survey's copy
+      kept verbatim in `reference/cemeteries/source/`.
+- [x] Your rulings of 2026-10-26 worked in: the Places page widens to a
+      general index of places, tier 1 Trąbczyn/Zagórów and nearby, tier 2
+      everything else (PLACES_PLAN, section 7; the estates' metadata for
+      the letters untouched); Łazińsk Pierwszy and Łazińsk Drugi their
+      own gazetteer entries ("they are separate today"); the second
+      source named (the AGOFF article by Jürgen Frantz, members-only —
+      MISSING_SOURCES); all ten one visit, in 2023; photographs later;
+      the list page's order agreed.
+- [ ] Widen the Places page (tier 1 and tier 2, the estates first), so
+      the cemetery pages have somewhere to hang.
+- [ ] The gazetteer: split Łazińsk Pierwszy and Drugi out of
+      `lazinskie-oledry`, draft Orlina Duża, Stawiszyn and Zbiersk
+      Kolonia; your eye on the five texts before they enter.
+- [ ] The section's machinery (the list page, the menu, the i18n, the
+      checks), then the ten cemeteries one at a time.
+- [ ] **You: the numbers in asterisks and the "Fig." references** of the
+      survey (NEEDS_CONFIRMATION, "The cemeteries"); and the visits'
+      exact date if you want more than "2023" on the pages.

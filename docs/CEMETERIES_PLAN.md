@@ -1,11 +1,14 @@
 # Plan: the cemeteries
 
-Status: **planned, put to the editor 2026-10-26**. The material is the
+Status: **the plan agreed and the editor's rulings of 2026-10-26 worked in;
+the build next** (the order of work, section 4). The material is the
 editor's own survey of the Evangelical (Lutheran) cemeteries of the
 Trąbczyn/Zagórów area and its neighbourhood, visited on the ground, each
 one's condition noted and its headstones read as far as they read
 (`cemeteries.md`, the editor's file, kept verbatim in
-`reference/cemeteries/source/`). Ten cemeteries, about 200 headstones read.
+`reference/cemeteries/source/`). Ten cemeteries, about 200 headstones read,
+all ten one visit, in 2023 (the editor's word; the survey's own footnote
+names the year).
 
 The section is a fourth of its own, like the newspapers (`NEWSPAPERS_PLAN`)
 and the places (`PLACES_PLAN`):
@@ -63,14 +66,24 @@ German made by Claude from it. Field notes speak of "I visited" and "a
 closer inspection revealed"; the page says what a reader needs and the
 editor's wording stands unless they rule otherwise.
 
-**The survey's sources.** The survey carries two footnotes: the
-Evangelical-Augsburg Parish in Konin's information signs of 2018, cited
-after Słowiński and Połom (p. 53 — the edition's `slowinskipolom2024`, on
-the site as a summary), and a second source named "Der evangelische
-Friedhof in Łazińsk Drugi" behind one headstone reading of Huta Łazińska —
-what that source is, and how it is cited, waits on the editor (section 5).
-The citations are given on the cemetery's page, as the place pages give
-theirs.
+**The survey's sources.** The survey carries two footnotes. The first is
+the Evangelical-Augsburg Parish in Konin's information signs of 2018,
+cited after Słowiński and Połom (p. 53 — the edition's
+`slowinskipolom2024`, on the site as a summary). The second stands behind
+one headstone reading of Huta Łazińska and is named by the editor
+(2026-10-26): "**Der evangelische Friedhof in Łazińsk Drugi** [The
+Protestant cemetery in Łazińsk Drugi]", Arbeitsgemeinschaft
+Ostdeutscher Familienforscher, https://agoff.de/?p=83943 — the article is
+by Jürgen Frantz, 31 July 2016, and is reserved to AGOFF's registered
+members (the page says so on its face; the editor believes a password is
+behind it, and the fetch from the session reached the notice and not the
+article). It is in `docs/MISSING_SOURCES.md`: cited, not held. The same
+site carries the series the article belongs to — the headstone database's
+cemetery pages — among them "Der evangelische Friedhof in Tarszewo"
+(Friedrichsfeld) and "Der evangelische Friedhof in Chruściki" (Adelhof),
+the two places the Friedrichsfeld survey names; whether the edition wants
+them is the editor's (NEEDS_CONFIRMATION, "The cemeteries"). The citations
+are given on the cemetery's page, as the place pages give theirs.
 
 ## 2. The headstone tables
 
@@ -115,7 +128,7 @@ gets one. Where each place stands today:
 
 | Cemetery | Place | Where the place is recorded | Page |
 |---|---|---|---|
-| Łazińsk Pierwszy | Łazińsk Pierwszy | gazetteer `lazinskie-oledry` (the entry covers the split into Pierwszy and Drugi) | to make |
+| Łazińsk Pierwszy | Łazińsk Pierwszy | gazetteer: **its own new entry** (the editor, 2026-10-26) | to make |
 | Huta Łazińska | Huta Łazińska | gazetteer `huta-trabczynska` ("Also known as Huta Łazińska") | to make |
 | Michalinów Trąbczyński | Michalinów Trąbczyński | register `michalinow-oledry`, gazetteer | to make |
 | Wrąbczynkowskie Holendry | Wrąbczynkowskie Holendry | gazetteer `wrabczynkowskie-holendry` | to make |
@@ -126,7 +139,18 @@ gets one. Where each place stands today:
 | Stawiszyn | Stawiszyn | **nowhere** — new place | to make |
 | Zbiersk Kolonia | Zbiersk Kolonia | **nowhere** — new place | to make |
 
-The gazetteer's three new places (Orlina Duża, Stawiszyn, Zbiersk
+**Łazińsk Pierwszy and Łazińsk Drugi get entries of their own** (the
+editor's word, 2026-10-26: "they are separate today"). The gazetteer's
+`lazinskie-oledry` carries both villages in one entry, the split told in
+its text; the split is made: two new entries drafted from the existing
+one (Pierwszy the area of Trąbczyńskie Stare Olędry, Drugi the area of
+Trąbczyńskie Nowe Olędry, the entry's own account), what happens to
+`lazinskie-oledry` itself ruled when the drafts are before the editor —
+the place of the Olędrzy before the split, kept, or retired into the two.
+Their texts are the editor's eye before they enter the gazetteer
+(NEEDS_CONFIRMATION, "The cemeteries").
+
+The gazetteer's three other new places (Orlina Duża, Stawiszyn, Zbiersk
 Kolonia) are drafted from the survey's own account of where each cemetery
 lies and put to the editor — the gazetteer is the editor's own index, and
 an entry enters it at their word. Stawiszyn and Zbiersk Kolonia lie 20 to
@@ -137,69 +161,80 @@ pages says the same.
 **The two-way link.** The cemetery's page names and links its place;
 the place's page (or card) lists its cemeteries.
 
-**The places machinery has to widen.** A place page today hangs on an
-estate card only: `pipeline/places/place_pages.py` fails loudly on a slug
-that is no estate of the edition (`site/_data/estates.yml`), and the
-Places page lists the estates in focus. None of the ten places is an
-estate. The change, Claude's to make and the editor's eye on the result:
-the build takes any place that has a page's own content (an estate of the
-register, or a place of the gazetteer), and the Places page gains a
-second list of the places that have pages, beside the estates' cards —
-the "More about the place" link working as it does for Zagórów. The
-alternative — no cards, the village pages reached only from the cemetery
-pages — keeps the Places page as it is and hides the villages from the
-reader who browses it; the recommendation is the second list.
+**The Places page widens.** The editor's ruling of 2026-10-26: the Places
+page transitions from the estates in focus to **a general index of
+places** — tier 1 the places related to Trąbczyn/Zagórów and nearby,
+tier 2 everything else — because eventually each place will have its own
+page. The estates in focus stand for the Hohenlohe-era letters and their
+metadata is not touched. What the widening builds and what it keeps are
+in `docs/PLACES_PLAN.md`, section 7; the cemeteries are its first driver,
+and the widening comes with the cemeteries' build (section 4).
 
 ## 4. What is built, in order
 
-1. **The questions answered** (section 5), the survey's copy into
-   `reference/cemeteries/source/`, the plan agreed.
-2. **The section's machinery**: `pipeline/cemeteries/cemetery_pages.py`,
+1. **The questions answered** (section 5; the editor's rulings of
+   2026-10-26 worked in), the survey's copy into
+   `reference/cemeteries/source/` *(done 2026-10-26)*, the plan agreed.
+2. **The Places page widened** (PLACES_PLAN, section 7): the general
+   index, tier 1 and tier 2, the estates' metadata untouched. It comes
+   first, because the cemetery pages hang on the widened page.
+3. **The places** (section 3): the gazetteer's two Łazińsk entries split
+   and the three new places drafted, all put to the editor; the place
+   pages built; the two-way links.
+4. **The section's machinery**: `pipeline/cemeteries/cemetery_pages.py`,
    the list page, the menu ("Cemeteries", "Friedhöfe", between Places and
    Sources), the i18n, the checks in `verify_site.py` (the newspapers'
    block as the pattern: every cemetery of the data has its page in both
    languages, the table's rows are on it, and the list page links it).
-3. **The places** (section 3): the three new gazetteer entries drafted and
-   put to the editor; the place pages built; the two-way links.
-4. **The cemeteries**, one at a time: `cemetery.yml`, `headstones.yml`,
+5. **The cemeteries**, one at a time: `cemetery.yml`, `headstones.yml`,
    the prose in both languages, `notes.md`. The survey's data is brought
    in by hand (about 200 rows), not by a parser — the file is one page,
    and each row is read as it is entered.
-5. **The index**: none over the headstone tables. The names on stones are
+6. **The index**: none over the headstone tables. The names on stones are
    not prose mentions — the edition's people/places patterns would hit
    surnames and half-read forms with no one to attach them to, and the
    editor has ruled no person entries. The prose of the pages is a
    different question, held with the places' own open one
    (NEEDS_CONFIRMATION, "The places": the index over the sources).
-6. **Rebuild, verify, commit** on the branch `cemeteries`; publish at the
+7. **Rebuild, verify, commit** on the branch `cemeteries`; publish at the
    editor's word, as always.
 
-## 5. What waits on the editor
+## 5. What is settled, and what is still open
+
+**Settled (the editor's rulings of 2026-10-26):**
+
+- The Places page widens to a general index of places, tier 1 and tier 2
+  (PLACES_PLAN, section 7); the estates' metadata is not touched.
+- Łazińsk Pierwszy and Łazińsk Drugi get their own gazetteer entries;
+  they are separate today.
+- The second source is the AGOFF article by Jürgen Frantz (31 July 2016),
+  members-only; cited, not held (MISSING_SOURCES).
+- All ten cemeteries were one visit, in 2023.
+- Photographs of the cemeteries might come later; the pages are built so
+  that a picture can be added (`image:` in cemetery.yml, the newspapers'
+  way) without rebuilding the section.
+- The list page's order: geography, the Trąbczyn area first, the outliers
+  after.
+
+**Still open (NEEDS_CONFIRMATION, "The cemeteries"):**
 
 1. **The numbers in asterisks** — *(267)*, *(316)*, *(604)*, *(166)*,
    *(167)*, *(313)*, *(315)*, *(326)* — beside eight readings. What do
    they refer to, and do they go on the pages, in the tables' note column
-   or nowhere?
+   or nowhere? Kept in the data until the editor rules.
 2. **The figure references** — "(Fig. 25)" and its neighbours beside five
    readings. Are these photographs of the headstones? Do the files exist,
    and are they for the site?
-3. **The second source** behind the Rosalie reading of Huta Łazińska,
-   named "Der evangelische Friedhof in Łazińsk Drugi" — what is it, and
-   how is it cited (a chapter of Słowiński & Połom 2024, or a work of its
-   own)? It is also the only mention in the survey of a Łazińsk Drugi
-   cemetery: is one to be expected, with the Huta Łazińska page waiting
-   for it, or is the survey complete as it stands?
-4. **Łazińsk Pierwszy's place slug.** The gazetteer's `lazinskie-oledry`
-   carries both Łazińsk villages in one entry (the split into Pierwszy
-   and Drugi told in its text); a cemetery page can link that entry, or
-   the gazetteer can gain entries of its own for Łazińsk Pierwszy and
-   Łazińsk Drugi. The editor rules which.
-5. **The visits' dates.** The survey mentions a visit of 2023; the pages
-   say when each cemetery was visited. Are they all of one visit?
-6. **The photographs of the cemeteries themselves** (the signs of 2018,
-   the crosses, the walls) — do any exist, and does the editor want them
-   on the pages?
-7. **The order of the list page** — by geography as proposed, or another.
-8. **The new places** Orlina Duża, Stawiszyn, Zbiersk Kolonia: the
-   gazetteer entries drafted from the survey, the editor's eye before
-   they enter.
+3. **The visits' exact date** — the survey's footnote names 2023 only;
+   the pages say "visited in 2023" until the editor gives a date.
+4. **The texts of the new gazetteer entries** (Łazińsk Pierwszy, Łazińsk
+   Drugi, Orlina Duża, Stawiszyn, Zbiersk Kolonia) — drafted from the
+   survey and the existing entries, the editor's eye before they enter.
+5. **What happens to `lazinskie-oledry`** once the two villages have
+   their own entries — kept as the place of the Olędrzy before the split,
+   or retired into the two.
+6. **The AGOFF series** — the articles on Tarszewo (Friedrichsfeld) and
+   Chruściki (Adelhof) sit beside the Łazińsk Drugi one; whether the
+   edition wants them is the editor's. And whether a members-only page's
+   citation stands alone on the site's pages or carries a note of the
+   restriction.
