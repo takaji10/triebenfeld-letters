@@ -1717,6 +1717,30 @@ cloud branches").
   space the moment it is typed (the editor could not type spaces, 2026-10-26).
   Keep the raw value while typing; trim only when the answers are copied out;
   and let `mark()` write a value only when the box is not focused.
+- **Lineation by machine, measured against the editor's own layout, fails
+  for this hand - and the measurement is the answer** (2026-10-26, Poznań
+  Gr.1181). The editor laid out p. 161 in the manuscript's lines; tested
+  against that ground truth, char-wrap at the mean characters-per-line put
+  only 3 of 8 line ends within +-1 word (drift 2-4 words, growing along the
+  page - the manuscript's own lines run 55-81 chars), and three line
+  detectors (OCR boxes, row-darkness runs, pitch-split bands, autocorrelation
+  pitch) counted 22, 24, 39, 41 and 50 lines against the true 38: the hand's
+  lines touch and the spacing is not uniform. So the corpus takes the
+  editor's layout for p. 161 verbatim, the other pages keep the paragraph
+  layout, and machine drafts sit in `intake/lineation_draft/` as a typing
+  aid only, clearly marked. The general form: when the editor asks "how
+  easy would it be", run the measurement against their sample FIRST and
+  answer with numbers, not with an attempt.
+- **The editor's fresh transcription outruns the session's completions**
+  (2026-10-26, the same holding). The morning session had applied 108
+  grammar-driven completions to the editor's doubtful readings; the
+  editor's own line-by-line re-typing of p. 161 kept the original doubts
+  (and settled five other readings: 1783, videlicet, Mensis, oblatam,
+  camera-/riali). The completions were withdrawn the same day to match
+  their text - the transcription is the editor's, kept as written, and a
+  completion waits on their explicit ruling (the sheet's principle rows).
+  When a fresh editor text arrives, diff it against the working corpus and
+  follow IT, not the session's earlier reasoning.
 - **A bare web fetch of an HTML page invents print slips** (2026-10-22,
   the Luteranie Konin parish page). The text conversion drops `<br/>` and
   `&nbsp;` runs: the page's "proboszczowie parafii<br/>z Grodźca" arrived
