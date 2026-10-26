@@ -1689,10 +1689,12 @@ cloud branches").
   **triebenfeld-spot** (beside this repo; takaji10.github.io/triebenfeld-spot/),
   under `sheets/<slug>/`, and GitHub Pages serves it. The crops are cut
   from scans already public on the edition's own site, so the sheet
-  publishes nothing new in kind. Every row carries a "wrong line" button:
-  the crops are placed by OCR line bands plus a position estimate, and no
-  session has yet been able to check them by eye - the editor's tap on
-  that button is the check.
+  publishes nothing new in kind. Every imaged row carries two escape
+  buttons: "wrong line" (the window landed in the wrong place) and "not
+  shown on crop" (the band marks the spot but the word itself is not
+  there to read; widen or re-crop on request) - the crops are placed by
+  machine and no session has yet been able to check them by eye, so the
+  editor's tap on one of the two is the check.
 - **Crop placement for a sheet: a tall window around a position, not a
   line** (2026-10-26, the editor: "the crops don't generally line up ...
   make them bigger, wider, more zoomed in, taller because you don't know

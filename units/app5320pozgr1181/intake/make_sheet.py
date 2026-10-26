@@ -355,16 +355,24 @@ def main():
         wrongline = ('<button class="wrongline" data-id="%s">'
                      'The picture shows the wrong line (the crop was placed '
                      'by machine and unchecked)</button>' % r['id']) if r['page'] else ''
+        wrongline = ('<button class="wrongline" data-id="%s">'
+                     'The picture shows the wrong line (the crop was placed '
+                     'by machine and unchecked)</button>' % r['id']) if r['page'] else ''
+        notshown = ('<button class="notshown" data-id="%s">'
+                    'Not shown on the crop (the band marks the spot but the '
+                    'word is not there to read)</button>' % r['id']) if r['page'] else ''
         body.append('''<div class="row" id="{id}">
 <h3>{id}</h3>
 {img}
 {wrongline}
+{notshown}
 <p class="q">{q}</p>
 <p class="ctx">{ctx}</p>
 <div class="opts">{opts}</div>
 <input class="free" type="text" placeholder="or write the reading">
 <p class="note">{note}</p>
 </div>'''.format(id=html.escape(r['id']), img=img, wrongline=wrongline,
+                 notshown=notshown,
                  q=html.escape(r['question']),
                  ctx=r['context'], opts=opts,
                  note=html.escape(r['note'])))

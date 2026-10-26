@@ -32,6 +32,10 @@
                border:1px solid #e8cfa0; padding:8px 10px; border-radius:6px;
                width:100%; font-family:inherit; }
   .wrongline.chosen { background:#a05a00; color:#fff; }
+  .notshown { margin:6px 0 0; font-size:.8rem; color:#8a2a2a; background:#f9e8e8;
+              border:1px solid #e0bcbc; padding:8px 10px; border-radius:6px;
+              width:100%; font-family:inherit; }
+  .notshown.chosen { background:#8a2a2a; color:#fff; }
   .q { font-size:.95rem; margin:10px 0 4px; }
   .ctx { font-size:.78rem; color:#555; font-style:italic; margin:0 0 8px;
          word-break:break-word; }
@@ -63,8 +67,9 @@
   <h1>Spot sheet — APP 53/20/0/-/Poznań Gr.1181</h1>
   <p><!--COUNT--> readings for the editor · tap an answer, or write your own ·
      answers stay on this device until you copy them · the crops were placed
-     by machine and are unchecked: tap "wrong line" where a picture misses its
-     line</p>
+     by machine and are unchecked: tap "wrong line" where a picture misses
+     its line, or "not shown on crop" where the word itself is not there
+     to read</p>
 </header>
 <main>
 <!--ROWS-->
@@ -95,8 +100,10 @@ function mark(id) {
   });
   var w = row.querySelector('.wrongline');
   if (w) w.classList.toggle('chosen', val === 'WRONG LINE');
+  var n = row.querySelector('.notshown');
+  if (n) n.classList.toggle('chosen', val === 'NOT SHOWN');
   var f = row.querySelector('.free');
-  var isFree = val && val !== 'WRONG LINE' &&
+  var isFree = val && val !== 'WRONG LINE' && val !== 'NOT SHOWN' &&
     !row.querySelector('.opt[data-v="' + val.replace(/"/g, '\\"') + '"]');
   f.classList.toggle('chosen', isFree);
   // never rewrite a box the editor is typing in
@@ -119,11 +126,11 @@ document.querySelectorAll('.free').forEach(function (f) {
     localStorage.setItem(K, JSON.stringify(saved));
   });
 });
-document.querySelectorAll('.wrongline').forEach(function (b) {
+document.querySelectorAll('.wrongline, .notshown').forEach(function (b) {
   b.addEventListener('click', function () {
     var id = b.dataset.id;
-    if (saved[id] === 'WRONG LINE') { delete saved[id]; }
-    else { saved[id] = 'WRONG LINE'; }
+    if (saved[id] === b.dataset.v) { delete saved[id]; }
+    else { saved[id] = b.dataset.v; }
     localStorage.setItem(K, JSON.stringify(saved));
     mark(id);
   });
