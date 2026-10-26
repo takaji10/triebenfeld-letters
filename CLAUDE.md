@@ -288,8 +288,8 @@ so check them.
   page; waiting on the editor's marks. **To add a map, follow
   `docs/ADDING_A_MAP.md`.**
 
-- **Rostworowski (1918)** (`rostworowski1918`, added 2026-10-26, committed
-  on branch `rostworowski1918`, **not published**): Michał Rostworowski
+- **Rostworowski (1918)** (`rostworowski1918`, added 2026-10-26, branch
+  `rostworowski1918`, **published 2026-10-26**): Michał Rostworowski
   (ed.), *Materyały do dziejów Komisyi Rządzącej z r. 1807*, T. 1,
   *Dziennik czynności Komisyi Rządzącej* (Kraków 1918), the day-by-day
   journal of the Commission that carried the government of the Duchy of

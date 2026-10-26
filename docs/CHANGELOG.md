@@ -3316,4 +3316,5 @@ lose his estates. The era page writes Konotop, not Kontop.
   letter of 23 July; the protocol's Dresden report against her three
   letters written at Dresden of 20-23 July.
 - **The site built and verified**: 314 hand-made links checked on both
-  sides, all documents character-exact.
+  sides, all documents character-exact. **Published 2026-10-26** at the
+  editor's word ("merge into main and publish").

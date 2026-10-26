@@ -1236,5 +1236,4 @@ protocol that contains the passage** (Directorium Nr. 3).
   own register, not on Claude's eye alone.
 - The literature has 37 works, 33 with pages in both languages and four
   summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
-  Polom 2024). Committed on the branch, not published; publish at the
-  editor's word.
+  Polom 2024). **Published 2026-10-26** at the editor's word.
