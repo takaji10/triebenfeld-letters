@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: wlodzimirow
 heading: Włodzimirów
 register: null
@@ -15,7 +12,12 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village south of Michalinów Oleśnicki. Named after Count Włodzimierz Miączyński (1811-1879), owner of the Trąbczyn estate. According to Breyer, Włodzimirów was established on German-owned land.[^96] First mentioned in an 1826 Trąbczyn Catholic parish metrical record.[^97] Appeared as a folwark (Richter 1843); *Kolonia Włodzimirów* (Pełzucki 1901).
+text_en: Village south of Michalinów Oleśnicki. Named after Count Włodzimierz Miączyński
+  (1811-1879), owner of the Trąbczyn estate. According to Breyer, Włodzimirów was
+  established on German-owned land.[^96] First mentioned in an 1826 Trąbczyn Catholic
+  parish metrical record.[^97] Appeared as a folwark (Richter 1843); *Kolonia Włodzimirów*
+  (Pełzucki 1901). The Słownik geograficzny records it as folw. , pow. słupecki, gm,
+  with 1 house and 17 inhabitants at the time of the Słownik.[^98]
 names:
 - form: Włodzimirów
   year: null
@@ -39,11 +41,19 @@ footnotes:
     status: linked
   note: null
 - n: 97
-  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń, Małżeństw, Zgonów 1826*, 2005, #49 Page 23/Image 872'
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń, Małżeństw, Zgonów 1826*, 2005,
+    #49 Page 23/Image 872'
   refs:
   - source: trabczyn-1826
     locator: '#49 Page 23/Image 872'
     link: null
+    status: missing
+  note: null
+- n: 98
+  text: Słownik geograficzny, t. XIII, p. 718, sub 1
+  refs:
+  - source: slownik
+    locator: t. XIII, p. 718, sub 1
     status: missing
   note: null
 review: []

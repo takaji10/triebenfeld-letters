@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: osiny
 heading: Osiny
 register: osiny
@@ -15,7 +12,12 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn Catholic parish metrical records as *Osynÿ*.[^56] Mentioned as a mill in a 1784 court document which challenged the inheritance of the Trąbczyn estate and other assets by Antoni Prusimski (1744-1806).[^57] *Oszin* (von Pfau 1770), *Ossiny* (Perthées 1798).
+text_en: Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn
+  Catholic parish metrical records as *Osynÿ*.[^56] Mentioned as a mill in a 1784
+  court document which challenged the inheritance of the Trąbczyn estate and other
+  assets by Antoni Prusimski (1744-1806).[^57] *Oszin* (von Pfau 1770), *Ossiny* (Perthées
+  1798). Nazwy miejscowe Polski records the name as *Ossyny* by 1475, later as *ński*
+  (1996).[^58]
 names:
 - form: Osiny
   year: null
@@ -25,6 +27,18 @@ names:
   year: 1606
   note: mentioned … as
   footnote: 56
+- form: Ossyny
+  year: 1475
+  note: Recorded as
+  footnote: 58
+- form: Ossini
+  year: 1579
+  note: Recorded as
+  footnote: 58
+- form: Osin
+  year: 1981
+  note: Recorded as
+  footnote: 58
 aliases: []
 maps:
 - map: vonpfau1770
@@ -48,6 +62,13 @@ footnotes:
   - source: konin-gr120
     locator: '164'
     link: null
+    status: missing
+  note: null
+- n: 58
+  text: Nazwy miejscowe Polski, t. 8, p. 179
+  refs:
+  - source: nmpol
+    locator: t. 8, p. 179
     status: missing
   note: null
 review:

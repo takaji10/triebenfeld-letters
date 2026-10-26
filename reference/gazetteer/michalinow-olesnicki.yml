@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: michalinow-olesnicki
 heading: Michalinów Oleśnicki
 register: michalinow-olesnicki
@@ -15,7 +12,12 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village southwest of Trąbczyn. Originally named *Emilienheim* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Michalinów Oleśnicki (as it was part of Oleśnica Gmina) in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Emilienhain* (Reymann 1834).
+text_en: Village southwest of Trąbczyn. Originally named *Emilienheim* and founded
+  as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and
+  Öhringen (1746-1818) who named it after one of his children. Renamed to Michalinów
+  Oleśnicki (as it was part of Oleśnica Gmina) in 1891 as part of efforts by the Polish
+  authorities to remove traces of previous Prussian occupation. *Hol. Emilienhain*
+  (Reymann 1834). The Słownik geograficzny records it as wś, pow. słupecki.[^1]
 names:
 - form: Michalinów Oleśnicki
   year: null
@@ -43,5 +45,12 @@ maps:
 - map: reymann1834
   form: Hol. Emilienhain
   note: null
-footnotes: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XV, p. 471
+  refs:
+  - source: slownik
+    locator: t. XV, p. 471
+    status: missing
+  note: null
 review: []

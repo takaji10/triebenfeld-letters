@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: pyzdry
 heading: Pyzdry
 register: pyzdry
@@ -15,7 +12,13 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established here in 1842.
+text_en: Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the
+  army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch
+  of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established
+  here in 1842. A document of 14 October 1341 (Kodeks, vol. and no. in the footnote)
+  concerns the village.[^1] The Słownik geograficzny records it as osłym brzegu, pow.
+  słupecki, gm, with 232 houses and 3151 inhabitants at the time of the Słownik.[^2]
+  The Słownik geograficzny records it as miasto, pow. słupecki.[^3]
 names:
 - form: Pyzdry
   year: null
@@ -23,5 +26,26 @@ names:
   footnote: null
 aliases: []
 maps: []
-footnotes: []
+footnotes:
+- n: 1
+  text: Kodeks Dyplomatyczny Wielkopolski, vol. 2, no. None
+  refs:
+  - source: kdw
+    locator: vol. 2, no. None
+    status: missing
+  note: null
+- n: 2
+  text: Słownik geograficzny, t. IX, p. 332
+  refs:
+  - source: slownik
+    locator: t. IX, p. 332
+    status: missing
+  note: null
+- n: 3
+  text: Słownik geograficzny, t. XVI, p. 530
+  refs:
+  - source: slownik
+    locator: t. XVI, p. 530
+    status: missing
+  note: null
 review: []

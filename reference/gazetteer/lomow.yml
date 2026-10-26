@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: lomow
 heading: Łomów
 register: null
@@ -15,7 +12,12 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege document where Ląd Abbey received Łomów for *Pustkowie Grądziem*.[^41] *Lomaw* (Łukom 1766); *Lumowo* (von Pfau 1770); *Lumow* (Perthées 1798); with a windmill (Gilly 1802); *Łamowo* (Reymann 1834).
+text_en: Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege document
+  where Ląd Abbey received Łomów for *Pustkowie Grądziem*.[^41] *Lomaw* (Łukom 1766);
+  *Lumowo* (von Pfau 1770); *Lumow* (Perthées 1798); with a windmill (Gilly 1802);
+  *Łamowo* (Reymann 1834). The Słownik geograficzny records it as wś, pow. słupecki,
+  gm.[^42] Nazwy miejscowe Polski records the name as *Lomowo* by 1462, later as *Łomowo
+  wś* (1884).[^43]
 names:
 - form: Łomów
   year: null
@@ -25,6 +27,18 @@ names:
   year: 1461
   note: First mentioned as
   footnote: 41
+- form: Lomowo
+  year: 1462
+  note: Recorded as
+  footnote: 43
+- form: Łamowu
+  year: 1658
+  note: Recorded as
+  footnote: 43
+- form: Łomy
+  year: 1724
+  note: Recorded as
+  footnote: 43
 aliases: []
 maps:
 - map: lukom1766
@@ -51,5 +65,19 @@ footnotes:
     locator: 13-14
     link: /documents/app5314550221/2/#p1
     status: linked
+  note: null
+- n: 42
+  text: Słownik geograficzny, t. V, p. 697
+  refs:
+  - source: slownik
+    locator: t. V, p. 697
+    status: missing
+  note: null
+- n: 43
+  text: Nazwy miejscowe Polski, t. 6, p. 359
+  refs:
+  - source: nmpol
+    locator: t. 6, p. 359
+    status: missing
   note: null
 review: []

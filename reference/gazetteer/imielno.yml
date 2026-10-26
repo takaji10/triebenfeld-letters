@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: imielno
 heading: Imielno
 register: imielno
@@ -15,7 +12,18 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Jemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843).
+text_en: Village north of Łukom. First mentioned as *Chemelino* in a 1243 document
+  where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno
+  to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned
+  several villages, including Imielno. Mentioned in a 1461 privilege document for
+  *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno
+  Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29]
+  either through a change in its legal status or by clearing the land which had been
+  long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta
+  Jemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843).
+  The Słownik geograficzny records it as folw. , pow. słupecki, gm, with 4 houses
+  and 42 inhabitants at the time of the Słownik.[^31] Nazwy miejscowe Polski records
+  the name as *Imielna* by 1859, later as *Imielno* (1877).[^32]
 names:
 - form: Imielno
   year: null
@@ -29,6 +37,10 @@ names:
   year: 1243
   note: First mentioned as
   footnote: 27
+- form: Imielna
+  year: 1859
+  note: Recorded as
+  footnote: 32
 aliases:
 - Imielno Olędry
 maps:
@@ -57,7 +69,8 @@ footnotes:
     status: linked
   note: null
 - n: 29
-  text: Chodyła 70. Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage documents relating to Imielno Olędry.
+  text: Chodyła 70. Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage
+    documents relating to Imielno Olędry.
   refs:
   - source: chodyla2015
     locator: p. 70
@@ -75,6 +88,20 @@ footnotes:
     locator: p. 78
     link: /literature/chodyla2015/#p-78
     status: linked
+  note: null
+- n: 31
+  text: Słownik geograficzny, t. III, p. 276, sub 3
+  refs:
+  - source: slownik
+    locator: t. III, p. 276, sub 3
+    status: missing
+  note: null
+- n: 32
+  text: Nazwy miejscowe Polski, t. 3, p. 530
+  refs:
+  - source: nmpol
+    locator: t. 3, p. 530
+    status: missing
   note: null
 review:
 - 'maps: the italic form of Łukom 1766 follows the map name in its sentence'

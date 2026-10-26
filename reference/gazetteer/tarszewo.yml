@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: tarszewo
 heading: Tarszewo
 register: null
@@ -15,7 +12,12 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village northeast of Kopojno. Originally named *Kolonia Friedrichsfeld* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Tarszewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation.
+text_en: Village northeast of Kopojno. Originally named *Kolonia Friedrichsfeld* and
+  founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen
+  and Öhringen (1746-1818) who named it after one of his children. Renamed to Tarszewo
+  in 1891 as part of efforts by the Polish authorities to remove traces of previous
+  Prussian occupation. The Słownik geograficzny records it as czek kol, pow. żytomierski,
+  gm, with 18 houses and 126 inhabitants at the time of the Słownik.[^1]
 names:
 - form: Tarszewo
   year: null
@@ -36,5 +38,12 @@ names:
 aliases:
 - Friedrichsfeld, Kolonia
 maps: []
-footnotes: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XVI, p. 653
+  refs:
+  - source: slownik
+    locator: t. XVI, p. 653
+    status: missing
+  note: null
 review: []

@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: stanislawow
 heading: Stanisławów
 register: null
@@ -15,12 +12,19 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village west of Szetlewek. Named after Stanisław Miączyński (1780-1845), whose wife Michalina Prusimska (1778-1851) was owner of the Trąbczyn estate. Appeared as a folwark (Wreschen 1901); *Stanisławów* (Messtischblatt 1940).
+text_en: Village west of Szetlewek. Named after Stanisław Miączyński (1780-1845),
+  whose wife Michalina Prusimska (1778-1851) was owner of the Trąbczyn estate. Appeared
+  as a folwark (Wreschen 1901); *Stanisławów* (Messtischblatt 1940). Nazwy miejscowe
+  Polski records *Stanisławowo* (1847).[^1]
 names:
 - form: Stanisławów
   year: null
   note: heading
   footnote: null
+- form: Stanisławowo
+  year: 1847
+  note: Recorded as
+  footnote: 1
 aliases: []
 maps:
 - map: wreschen1901
@@ -29,5 +33,12 @@ maps:
 - map: messtischblatt1940
   form: Stanisławów
   note: null
-footnotes: []
+footnotes:
+- n: 1
+  text: Nazwy miejscowe Polski, t. 15, p. 140
+  refs:
+  - source: nmpol
+    locator: t. 15, p. 140
+    status: missing
+  note: null
 review: []

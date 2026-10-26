@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: drzewce
 heading: Drzewce
 register: drzewce
@@ -15,12 +12,38 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village south of Zagórów. First mentioned in a privilege document from Ląd Abbey in 1362.[^12] Drzewce (*Drzewycz*) was mentioned as an alias of *Nouo Sagorowo* (Pl. *Zagórowo Nowe*) in 1411, when the monastery’s abbott Gerhard exchanged a scullery in Drzewce with a scullery in Kownaty.[^13] Possibly mentioned in a 1418 document concerning the abbey’s trading of Wrąbczyn to Laurencius Yelonouicz in exchange for Drzewce (*Drzewcza*), although the source expressed uncertainty as to which Drzewce was being referenced. The document stated that Drzewce had been purchased by Yelonouicz from the monastery’s previous abbot Heinrich.[^14] Breyer noted that the estate was parceled around 1900 and that German settlers claimed some of the land.[^15] *Drziwza* (von Pfau 1770).
+text_en: Village south of Zagórów. First mentioned in a privilege document from Ląd
+  Abbey in 1362.[^12] Drzewce (*Drzewycz*) was mentioned as an alias of *Nouo Sagorowo*
+  (Pl. *Zagórowo Nowe*) in 1411, when the monastery’s abbott Gerhard exchanged a scullery
+  in Drzewce with a scullery in Kownaty.[^13] Possibly mentioned in a 1418 document
+  concerning the abbey’s trading of Wrąbczyn to Laurencius Yelonouicz in exchange
+  for Drzewce (*Drzewcza*), although the source expressed uncertainty as to which
+  Drzewce was being referenced. The document stated that Drzewce had been purchased
+  by Yelonouicz from the monastery’s previous abbot Heinrich.[^14] Breyer noted that
+  the estate was parceled around 1900 and that German settlers claimed some of the
+  land.[^15] *Drziwza* (von Pfau 1770). Nazwy miejscowe Polski records the name as
+  *Drzevvyc7a* by 1418, later as *VCe* (1881).[^16]
 names:
 - form: Drzewce
   year: null
   note: heading
   footnote: null
+- form: Drzevvyc7a
+  year: 1418
+  note: Recorded as
+  footnote: 16
+- form: Drzewcza
+  year: 1418
+  note: Recorded as
+  footnote: 16
+- form: Drzewcze
+  year: 1445
+  note: Recorded as
+  footnote: 16
+- form: VCe
+  year: 1881
+  note: Recorded as
+  footnote: 16
 aliases: []
 maps:
 - map: vonpfau1770
@@ -58,5 +81,12 @@ footnotes:
     locator: null
     link: /documents/app539680669/2/
     status: linked
+  note: null
+- n: 16
+  text: Nazwy miejscowe Polski, t. 2, p. 444
+  refs:
+  - source: nmpol
+    locator: t. 2, p. 444
+    status: missing
   note: null
 review: []

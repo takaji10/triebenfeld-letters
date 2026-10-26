@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: szetlewek
 heading: Szetlewek
 register: szetlewek
@@ -15,7 +12,16 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village east of Stanisławów. Szetlewek, or *Szetlewo Kątne*[^76] was first pawned (used as a collateral for a loan) to Jan Goliński. Later in 1671, the property was fully sold to Goliński by the heirs of former owner Martin Strzałkowski. It eventually descended by hereditary succession to Krzysztof Prusimski and his wife Teresa Łoś-Golińska, as well as Łoś-Golińska’s mother Konstancja Krusińska and her husband Marcin Katowski.[^77] Mentioned as *Szetlewko* in a 1685 marriage record from Trąbczyn Catholic parish metrical records.[^78] Sebastjan Szetlewicz from Szetlewko was mentioned in Kalisz municipal court records from 1727.[^79] *Szetlewka* (von Pfau 1770); *Szelkowek* (Trąbczyn 1790); *Szedlewek* (Gilly 1802).
+text_en: Village east of Stanisławów. Szetlewek, or *Szetlewo Kątne*[^76] was first
+  pawned (used as a collateral for a loan) to Jan Goliński. Later in 1671, the property
+  was fully sold to Goliński by the heirs of former owner Martin Strzałkowski. It
+  eventually descended by hereditary succession to Krzysztof Prusimski and his wife
+  Teresa Łoś-Golińska, as well as Łoś-Golińska’s mother Konstancja Krusińska and her
+  husband Marcin Katowski.[^77] Mentioned as *Szetlewko* in a 1685 marriage record
+  from Trąbczyn Catholic parish metrical records.[^78] Sebastjan Szetlewicz from Szetlewko
+  was mentioned in Kalisz municipal court records from 1727.[^79] *Szetlewka* (von
+  Pfau 1770); *Szelkowek* (Trąbczyn 1790); *Szedlewek* (Gilly 1802). The Słownik geograficzny
+  records the settlement.[^80]
 names:
 - form: Szetlewek
   year: null
@@ -67,6 +73,13 @@ footnotes:
   - source: kalisz-1727
     locator: p. 222
     link: null
+    status: missing
+  note: null
+- n: 80
+  text: Słownik geograficzny, t. XI, p. 911
+  refs:
+  - source: slownik
+    locator: t. XI, p. 911
     status: missing
   note: null
 review: []

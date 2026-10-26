@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: porabki
 heading: Porąbki
 register: null
@@ -15,7 +12,9 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record from Trąbczyn Catholic parish metrical records.[^60]
+text_en: Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record
+  from Trąbczyn Catholic parish metrical records.[^60] The Słownik geograficzny records
+  the settlement.[^61]
 names:
 - form: Porąbki
   year: null
@@ -25,11 +24,19 @@ aliases: []
 maps: []
 footnotes:
 - n: 60
-  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 241/Image 273'
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764*
+    Page 241/Image 273'
   refs:
   - source: trabczyn-births-1691-1784
     locator: Page 241/Image 273
     link: null
+    status: missing
+  note: null
+- n: 61
+  text: Słownik geograficzny, t. VIII, p. 815, sub 1
+  refs:
+  - source: slownik
+    locator: t. VIII, p. 815, sub 1
     status: missing
   note: null
 review: []

@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: huta-trabczynska
 heading: Huta Trąbczyńska
 register: null
@@ -15,7 +12,15 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Hamlet west of and belonging to Łazińsk Drugi. First mentioned in a 1736 marriage record from Trąbczyn Catholic parish metrical records.[^24] According to a modern-day sign at the Lutheran cemetery, there was a glass factory here in the 18th and 19th centuries. Huta was sometimes referenced as an Olędry in the same metrical records in the early 1820s, and also sometimes as *Stara Huta*. *H.[olendry] Stara Huta* (Richter 1843); *Stara Huta* (Chrzanowski 1858); *Trąbczynska-Huta* (Messtischblatt 1940). Also known as *Huta Łazińska* and *Huta Trąbczyńska*.
+text_en: Hamlet west of and belonging to Łazińsk Drugi. First mentioned in a 1736
+  marriage record from Trąbczyn Catholic parish metrical records.[^24] According to
+  a modern-day sign at the Lutheran cemetery, there was a glass factory here in the
+  18th and 19th centuries. Huta was sometimes referenced as an Olędry in the same
+  metrical records in the early 1820s, and also sometimes as *Stara Huta*. *H.[olendry]
+  Stara Huta* (Richter 1843); *Stara Huta* (Chrzanowski 1858); *Trąbczynska-Huta*
+  (Messtischblatt 1940). Also known as *Huta Łazińska* and *Huta Trąbczyńska*. The
+  Słownik geograficzny records it as kol. , pow. słupecki, gm, with 7 houses and 136
+  inhabitants at the time of the Słownik.[^25]
 names:
 - form: Huta Trąbczyńska
   year: null
@@ -31,7 +36,8 @@ names:
   footnote: null
 - form: Stara Huta Olędry
   year: null
-  note: a name of two places, Huta Trąbczyńska and Huta Łukomska (the editor, 2026-10-23); which one a mention means is read from its source
+  note: a name of two places, Huta Trąbczyńska and Huta Łukomska (the editor, 2026-10-23);
+    which one a mention means is read from its source
   footnote: null
   shared_with: huta-lukomska
   refs:
@@ -74,6 +80,13 @@ footnotes:
   - source: trabczyn-marriages-1597-1775
     locator: Page 101/Image 422
     link: null
+    status: missing
+  note: null
+- n: 25
+  text: Słownik geograficzny, t. XII, p. 449
+  refs:
+  - source: slownik
+    locator: t. XII, p. 449
     status: missing
   note: null
 review: []

@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: smoleniec
 heading: Smoleniec
 register: null
@@ -15,12 +12,22 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798).
+text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where
+  tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe
+  Polski records the name as *Łukomiem a Myszkowem* by 1578, later as *ńca* (1982).[^68]
 names:
 - form: Smoleniec
   year: null
   note: heading
   footnote: null
+- form: Łukomiem a Myszkowem
+  year: 1578
+  note: Recorded as
+  footnote: 68
+- form: ńca
+  year: 1982
+  note: Recorded as
+  footnote: 68
 aliases: []
 maps:
 - map: perthees1798
@@ -34,5 +41,12 @@ footnotes:
     locator: p. 11
     link: /literature/szwiec2009/#p-11
     status: linked
+  note: null
+- n: 68
+  text: Nazwy miejscowe Polski, t. 14, p. 177
+  refs:
+  - source: nmpol
+    locator: t. 14, p. 177
+    status: missing
   note: null
 review: []
