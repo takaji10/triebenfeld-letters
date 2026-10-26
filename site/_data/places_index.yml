@@ -407,6 +407,9 @@ tier2:
 - slug: brieg
   name: Brzeg
   name_de: Brieg
+- slug: brzezno
+  name: Brzezno
+  name_de: Brzezno
 - slug: brzesc
   name: Brześć
   name_de: Brześć
@@ -422,6 +425,9 @@ tier2:
 - slug: charlottenburg
   name: Charlottenburg
   name_de: Charlottenburg
+- slug: chyby
+  name: Chyby
+  name_de: Chyby
 - slug: czestochowa
   name: Częstochowa
   name_de: Czenstochau
@@ -494,6 +500,9 @@ tier2:
 - slug: italien
   name: Italien
   name_de: Italien
+- slug: jaryszki
+  name: Jaryszki
+  name_de: Jaryszki
 - slug: jena
   name: Jena
   name_de: Jena
@@ -605,6 +614,9 @@ tier2:
 - slug: oppeln
   name: Opole
   name_de: Oppeln
+- slug: oporowo
+  name: Oporowo
+  name_de: Oporowo
 - slug: orzeszkowo
   name: Orzeszkowo
   name_de: Orzeszkowo
@@ -638,6 +650,12 @@ tier2:
 - slug: pressburg
   name: Pressburg (Bratislava)
   name_de: Pressburg (Bratislava)
+- slug: prusinowo
+  name: Prusinowo
+  name_de: Prusinowo
+- slug: radolin
+  name: Radolin
+  name_de: Radolin
 - slug: ruschinowitz
   name: Rusinowice
   name_de: Ruschinowitz
@@ -713,6 +731,9 @@ tier2:
 - slug: wieruszow
   name: Wieruszów
   name_de: Wieruszów
+- slug: wierzbno
+  name: Wierzbno
+  name_de: Wierzbno
 - slug: wilhelmsruh
   name: Wilhelmsruh
   name_de: Wilhelmsruh
