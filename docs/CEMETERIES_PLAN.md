@@ -178,18 +178,28 @@ and the widening comes with the cemeteries' build (section 4).
 2. **The Places page widened** (PLACES_PLAN, section 7): the general
    index, tier 1 and tier 2, the estates' metadata untouched. It comes
    first, because the cemetery pages hang on the widened page.
+   *(done 2026-10-26: `site/_data/places_index.yml` written by
+   build_site_data.py — tier 1 the gazetteer's places and the register's
+   `area: trabczyn-zagorow` ones, tier 2 the register's rest; the
+   include's two sections; place_pages.py takes gazetteer slugs; the
+   checks in verify_site.py.)*
 3. **The places** (section 3): the gazetteer's two Łazińsk entries split
    and the three new places drafted, all put to the editor; the place
-   pages built; the two-way links.
+   pages built; the two-way links. *(drafted 2026-10-26 in
+   `scratch/gazetteer_drafts/`, waiting on the editor's eye; the
+   cemetery pages meanwhile link the Places page's anchors, and name the
+   three entryless places without a link.)*
 4. **The section's machinery**: `pipeline/cemeteries/cemetery_pages.py`,
    the list page, the menu ("Cemeteries", "Friedhöfe", between Places and
-   Sources), the i18n, the checks in `verify_site.py` (the newspapers'
+   Glossary), the i18n, the checks in `verify_site.py` (the newspapers'
    block as the pattern: every cemetery of the data has its page in both
    languages, the table's rows are on it, and the list page links it).
+   *(done 2026-10-26.)*
 5. **The cemeteries**, one at a time: `cemetery.yml`, `headstones.yml`,
    the prose in both languages, `notes.md`. The survey's data is brought
    in by hand (about 200 rows), not by a parser — the file is one page,
-   and each row is read as it is entered.
+   and each row is read as it is entered. *(done 2026-10-26: all ten,
+   200 rows.)*
 6. **The index**: none over the headstone tables. The names on stones are
    not prose mentions — the edition's people/places patterns would hit
    surnames and half-read forms with no one to attach them to, and the
@@ -197,7 +207,8 @@ and the widening comes with the cemeteries' build (section 4).
    different question, held with the places' own open one
    (NEEDS_CONFIRMATION, "The places": the index over the sources).
 7. **Rebuild, verify, commit** on the branch `cemeteries`; publish at the
-   editor's word, as always.
+   editor's word, as always. *(built and verified: ALL CHECKS PASSED,
+   629 documents character-exact, 48,713 internal links resolving.)*
 
 ## 5. What is settled, and what is still open
 
