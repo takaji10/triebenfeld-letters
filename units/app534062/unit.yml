@@ -1,0 +1,107 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app534062
+ref: 53/4/0/-/62
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The report of the court messenger Sebastian Szetlewicz of Szetlewek, an
+  entry of the land court at Kalisz of 1727: he carried a citation to the
+  estate of the village of Szetlew, to the residence of the party cited, and
+  on the Thursday next past left it there on the table in the heated room,
+  before a member of the cited party's household.
+title_de: >-
+  Der Bericht des Gerichtsboten Sebastian Szetlewicz von Szetlewek, ein
+  Eintrag des Landgerichts in Kalisz von 1727: er überbrachte eine Ladung zum
+  Gut des Dorfes Szetlew, an die Wohnung des Geladenen, und ließ sie am
+  vorvergangenen Donnerstag dort auf dem Tisch im beheizten Raum zurück, vor
+  einem Angehörigen des Haushalts des Geladenen.
+# The name of the unit in the archive's inventory, as the editor gave it.
+# Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes, citationes [protocollon] 1726-1727
+# The fonds, with the archive's description of it, as the editor gave it
+# (2026-10-26): "Rezygnacje, inskrypcje, relacje, wyroki, oblaty, regestry
+# spraw, plenipotencje, inkwizycje, regestra. W zespole wyodrębniono
+# szczątek: 53/4/1 Księgi wieców kaliskich z lat 1543-1577. About the
+# Creator: Sąd ziemski w Kaliszu był sądem szlacheckim, w którym główną rolę
+# odgrywał starosta (lub jego zastępca) jako namiestnik króla oraz: sędzia,
+# podsędek, wojewoda, podkomorzy i chorąży. Sąd objeżdżał wojewodztwo i
+# odbywał sesje w powiecie; terminy, w których to się odbywało, nazywano
+# roczkami. Kompetencje sądu ziemskiego obejmowały wszystkie sprawy, w
+# których pozwana była szlachta, z wyjątkiem spraw przekazanych innym sądom
+# (np. sejmikowym lub królewskim) oraz sprawy niesporne. W 1792 r. jego
+# kompetencje przejął sąd ziemiański."
+fonds: Księgi sądu ziemskiego w Kaliszu
+date_span: "1727"
+status: transcribed      # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. The editor ruled
+# the assignment fine (2026-10-26).
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# One scan from the archive's online unit (szukajwarchiwach.gov.pl,
+# jednostka 980058): scan 231 of 349, manuscript page 222, the editor's
+# download 53_4_0_-_62_18049603.jpg. intake/build_pages.py copies it into
+# raw_dir/processed/ under its page id, 0222_a.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes, citationes [protocollon] 1726-1727 (53.4.0.-.62) (Kalisz)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_4_0_62
+
+# One file per page, named by page id (0222_a.txt).
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry, in Latin, at the foot of page 222 of the relation and citation
+  book of the land court at Kalisz for 1726 and 1727 (APP 53/4/0/-/62, scan
+  231 of 349 of the archive's online unit). The general royal messenger
+  Sebastian Szetlewicz, of the village of Szetlewko, reports to the court
+  that he had carried a citation to the estate of the village of Szetlew, to
+  the residence of the party cited, and, on the Thursday next past, had laid
+  and left it there on the table in the heated room, before the cited party's
+  "Conte~" (a word not fully read, perhaps a household member). The entry
+  gives neither the case nor the parties, and the report's opening formula
+  does not fully parse as transcribed; the entry ends with the phrase "of
+  which, the present report". The editor added the holding for the
+  messenger's name: it shows a Szetlewicz family living at Szetlewko
+  (Szetlewek) in the 1720s.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  An entry of a Polish land court book of 1726-1727, in abbreviated Latin;
+  the abbreviation marks (~) stand as written. "Ministerialis Regni
+  Generalis" is a general royal messenger of the land courts (woźny), who
+  reports to the court that he served a citation; "in Mensa hypocausti" on
+  the table in the heated room, where a citation was left when the party was
+  not met in person; "Feria Quinta proxima praeterita" the Thursday next
+  past. "Citti~" stands for Citati, of the cited party (the editor's ruling,
+  2026-10-26); "Judicius" is corrected to "Judicio" at the editor's word.
+  "Conte~", "de Juris Firma" and the "eam" of the second line (read with a
+  scribal mark above the final m; the editor guessed "eadem") are not fully
+  read - see units/app534062/notes.md and the unresolved list. "Szetlewo" is
+  Szetlew; "Szetlewko" is Szetlewek (the editor, 2026-10-26).

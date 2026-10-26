@@ -1191,3 +1191,30 @@ the folder is the title page and is left out (your word).
       "Böhm", "Opfertorium", "Viertel", the "Neujahrsumgang") - offered, not
       done (NEEDS_CONFIRMATION, "Glossary").
 - [x] Published at your word (2026-10-26).
+
+## 54. APP 53/4/0/-/62 (added 2026-10-26, branch app534062)
+
+- [x] Built, translated, summarised and claim-checked in session, no paid
+      run; the checks clean. The holding's page written in both languages;
+      the glossary gate passes.
+- [x] The place matching changed so the entry can tell Szetlew and
+      Szetlewek apart (reference/places.yml). The hearth-tax table's
+      "Szetlewo z Częś: Jaroszew:" row moved from Szetlewek to Szetlew, and
+      the Kodeks's own gloss in kdw documents 2 and 4 is newly matched -
+      both following the identification the literature index had already
+      recorded. Put to you for confirmation.
+- [ ] You: check the preceding pages of the volume (the online unit,
+      jednostka 980058, scans before 231) for the heading of the sitting -
+      the entry has only "Feria Quinta proxima praeterita" and is dated
+      1727, year only, on your provisional word. The date then moves to
+      `dates: sitting:` and the place of the sitting fills the empty
+      override (NEEDS_CONFIRMATION, "Waiting on material"). The same
+      reading settles whether the relatio's opening formula stands higher
+      on page 222 or the sentence continues from the entry above, and
+      whether "De quo praesens Relatio" closes this entry or heads the next.
+- [ ] You: the readings left open - "Conte~" (Contubernali is the
+      session's candidate), "de Juris Firma" against Forma, the "eam" with
+      its scribal mark (NEEDS_CONFIRMATION, "Readings, the other
+      holdings", and units/app534062/intake/unresolved.md).
+- [ ] A timeline event: none added - the entry names no party; offered.
+- [ ] Publication: on your word (the branch is not yet merged).

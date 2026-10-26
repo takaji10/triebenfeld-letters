@@ -32033,6 +32033,7 @@
    "app53170koningr118-19",
    "app53170koningr118-25",
    "app53170koningr145-1",
+   "app534062-1",
    "app53640kalisztab21-1",
    "app539680801-2",
    "ihagrrep7cnr3570-1",
@@ -32071,6 +32072,15 @@
    "oe1bu9454-31"
   ],
   "mentions": [
+   {
+    "uid": "app534062-1",
+    "surface": "Szetlewko",
+    "page": 1,
+    "page_id": "0222_a",
+    "scan": "APP_53_4_0_62_0222_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
    {
     "uid": "app53170koningr116-2",
     "surface": "Szetlew",
@@ -32295,15 +32305,6 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0531_a1-L19_02.jpg",
     "line": 100,
     "doc_line": 6
-   },
-   {
-    "uid": "app53640kalisztab21-1",
-    "surface": "Szetlewo",
-    "page": 11,
-    "page_id": "0019_b",
-    "scan": "APP_53_64_0_Kalisz_Tab_21_0019_b-L1_11.jpg",
-    "line": 340,
-    "doc_line": 321
    },
    {
     "uid": "app53640kalisztab21-1",
@@ -52823,6 +52824,64 @@
     "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
     "line": 21622,
     "doc_line": 98
+   }
+  ]
+ },
+ {
+  "entity": "szetlew",
+  "display": "Szetlew",
+  "count": 5,
+  "documents": [
+   "app534062-1",
+   "app53640kalisztab21-1",
+   "kdw-2",
+   "kdw-4"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-2",
+    "surface": "Szetlewo",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "",
+    "line": 15,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Szetlewo",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Szetlewo",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 5
+   },
+   {
+    "uid": "app534062-1",
+    "surface": "Szetlewo",
+    "page": 1,
+    "page_id": "0222_a",
+    "scan": "APP_53_4_0_62_0222_a-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53640kalisztab21-1",
+    "surface": "Szetlewo",
+    "page": 11,
+    "page_id": "0019_b",
+    "scan": "APP_53_64_0_Kalisz_Tab_21_0019_b-L1_11.jpg",
+    "line": 340,
+    "doc_line": 321
    }
   ]
  },

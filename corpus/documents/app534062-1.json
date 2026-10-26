@@ -1,0 +1,112 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "app534062",
+ "uid": "app534062-1",
+ "pad": "app534062-001",
+ "permalink": "/documents/app534062/1/",
+ "doc_type": "report",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1727",
+ "date_precision": "year",
+ "date_source": "supplied",
+ "date_display": "[1727]",
+ "date_inferred_from": "supplied by researcher",
+ "year": 1727,
+ "month": "",
+ "day": "",
+ "place": "",
+ "sender": "",
+ "recipient": "",
+ "line_start": 1,
+ "line_end": 9,
+ "uncertainty_count": 3,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "szetlew",
+  "szetlewek"
+ ],
+ "is_missing": 0,
+ "n_lines": 7,
+ "n_pages": 1,
+ "text": "Ad Judicium praesenti Ministerialis Regni Generalis Sanus Sebastianus Szetlewicz de Villa Szetlewko\nJudicio praesenti Notus Sanus mente Corporeque eam\n(inserat~) Ad Bona Villa Szetlewo Residentiamque Citti~\nFeria Quinta proxima praeterita[?] detulisse[?] eamque ibidem in Mensa Hyp¬\npocausti praesente Conte~ Cittati posuisse et reliquisse de Ju¬\nris [F?]irma De quo praesens Relatio",
+ "text_reading": "Ad Judicium praesenti Ministerialis Regni Generalis Sanus Sebastianus Szetlewicz de Villa Szetlewko Judicio praesenti Notus Sanus mente Corporeque eam (inserat~) Ad Bona Villa Szetlewo Residentiamque Citti~ Feria Quinta proxima praeterita[?] detulisse[?] eamque ibidem in Mensa Hyp pocausti praesente Conte~ Cittati posuisse et reliquisse de Juris [F?]irma De quo praesens Relatio",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0222_a",
+   "line_start": 3,
+   "line_end": 8,
+   "n_lines": 6,
+   "diplomatic": "Ad Judicium praesenti Ministerialis Regni Generalis Sanus Sebastianus Szetlewicz de Villa Szetlewko\nJudicio praesenti Notus Sanus mente Corporeque eam\n(inserat~) Ad Bona Villa Szetlewo Residentiamque Citti~\nFeria Quinta proxima praeterita[?] detulisse[?] eamque ibidem in Mensa Hyp¬\npocausti praesente Conte~ Cittati posuisse et reliquisse de Ju¬\nris [F?]irma De quo praesens Relatio",
+   "transcription": "Ad Judicium praesenti Ministerialis Regni Generalis Sanus Sebastianus Szetlewicz de Villa Szetlewko\nJudicio praesenti Notus Sanus mente Corporeque eam\n(inserat~) Ad Bona Villa Szetlewo Residentiamque Citti~\nFeria Quinta proxima praeterita[?] detulisse[?] eamque ibidem in Mensa Hyp\npocausti praesente Conte~ Cittati posuisse et reliquisse de Ju-\nris [F?]irma De quo praesens Relatio",
+   "reading": "Ad Judicium praesenti Ministerialis Regni Generalis Sanus Sebastianus Szetlewicz de Villa Szetlewko Judicio praesenti Notus Sanus mente Corporeque eam (inserat~) Ad Bona Villa Szetlewo Residentiamque Citti~ Feria Quinta proxima praeterita[?] detulisse[?] eamque ibidem in Mensa Hyp pocausti praesente Conte~ Cittati posuisse et reliquisse de Juris [F?]irma De quo praesens Relatio",
+   "paragraphs": [
+    "Ad Judicium praesenti Ministerialis Regni Generalis Sanus Sebastianus Szetlewicz de Villa Szetlewko Judicio praesenti Notus Sanus mente Corporeque eam (inserat~) Ad Bona Villa Szetlewo Residentiamque Citti~ Feria Quinta proxima praeterita[?] detulisse[?] eamque ibidem in Mensa Hyp pocausti praesente Conte~ Cittati posuisse et reliquisse de Juris [F?]irma De quo praesens Relatio"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_4_0_62_0222_a-L1_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 6
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "szetlewicz",
+   "display": "Sebastian Szetlewicz, court messenger",
+   "kind": "person",
+   "surface": "Szetlewicz",
+   "page": 1,
+   "page_id": "0222_a",
+   "scan": "APP_53_4_0_62_0222_a-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewko",
+   "page": 1,
+   "page_id": "0222_a",
+   "scan": "APP_53_4_0_62_0222_a-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "szetlew",
+   "display": "Szetlew",
+   "kind": "place",
+   "surface": "Szetlewo",
+   "page": 1,
+   "page_id": "0222_a",
+   "scan": "APP_53_4_0_62_0222_a-L1_01.jpg",
+   "line": 5,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "To the present court there came Sebastian Szetlewicz of the village of\nSzetlewko, Royal Court Summoner, General, sound of health, known to the\npresent court, sound in mind and body; [that he had carried[?]] it [the\ncitation; its address follows as an insertion in the record] to the\nestate of the village of Szetlew and to the residence of the cited\nparty, on the Thursday next past[?], and had laid and left it there on\nthe table in the heated room, before the Conte~ [as written] of the\ncited party, de Juris Firma[?] [as written; perhaps Forma]. Of which,\nthe present report."
+  }
+ ],
+ "text_english": "To the present court there came Sebastian Szetlewicz of the village of\nSzetlewko, Royal Court Summoner, General, sound of health, known to the\npresent court, sound in mind and body; [that he had carried[?]] it [the\ncitation; its address follows as an insertion in the record] to the\nestate of the village of Szetlew and to the residence of the cited\nparty, on the Thursday next past[?], and had laid and left it there on\nthe table in the heated room, before the Conte~ [as written] of the\ncited party, de Juris Firma[?] [as written; perhaps Forma]. Of which,\nthe present report.",
+ "summary_en": "The report of the court messenger Sebastian Szetlewicz of Szetlewko (Szetlewek), an entry at the foot of page 222 of the relation and citation book of the land court at Kalisz for 1726-1727, of the sitting of 1727. He reports to the court that he had carried a citation to the estate of the village of Szetlew, to the residence of the party cited, and, on the Thursday next past, had laid and left it there on the table in the heated room, before the cited party's \"Conte~\" [as written; a word not fully read, perhaps a household member]. The entry gives neither the case nor the parties; the report's opening formula does not fully parse as transcribed, and the entry closes with the phrase \"of which, the present report\". The holding was added for the messenger's name - it shows a Szetlewicz family living at Szetlewek in the 1720s, over fifty years before the messenger Mathias Matuszkiewicz \"de villa Szetlewek\" reports in the Konin register.",
+ "summary_de": "Der Bericht des Gerichtsboten Sebastian Szetlewicz von Szetlewko (Szetlewek), ein Eintrag am Fuß von Seite 222 des Relations- und Zitationsbuchs des Landgerichts in Kalisz für 1726-1727, von der Sitzung des Jahres 1727. Er trägt dem Gericht vor, dass er eine Ladung zum Gut des Dorfes Szetlew, an die Wohnung des Geladenen gebracht und am vorvergangenen Donnerstag dort auf dem Tisch im beheizten Raum niedergelegt und zurückgelassen hat, vor dem „Conte~“ [wie geschrieben; ein nicht sicher gelesenes Wort, vielleicht ein Haushaltsangehöriger] des Geladenen. Der Eintrag nennt weder die Sache noch die Parteien; die Eingangsformel des Berichts ergibt sich in der Abschrift nicht ganz, und der Eintrag schließt mit der Wendung „of which, the present report“. Die Holding wurde um des Namens des Boten willen aufgenommen - er zeigt eine Familie Szetlewicz, die in den 1720er Jahren in Szetlewek wohnte, über fünfzig Jahre bevor der Bote Mathias Matuszkiewicz „de villa Szetlewek“ im Koniner Register berichtet.",
+ "reading": {}
+}

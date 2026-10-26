@@ -119,6 +119,34 @@ so check them.
 
 ## Where things stand (2026-10-26)
 
+- **APP 53/4/0/-/62** (slug `app534062`, added 2026-10-26 on the branch
+  `app534062`, not yet published): one entry, in Latin, at the foot of
+  page 222 of the relation and citation book of the land court at Kalisz
+  for 1726-1727 (scan 231 of 349 of the archive's online unit,
+  jednostka 980058) - the report of the general royal messenger
+  Sebastian Szetlewicz of Szetlewko (Szetlewek) that he carried a citation
+  to the estate of Szetlew and left it on the table in the heated room, on
+  the Thursday next past. The editor added it for the name: a Szetlewicz
+  family lived at Szetlewek in the 1720s, and the editor's word was "just
+  look at the bottom of 222 - the point of this entry is to show the name".
+  The transcription is the editor's own, kept as written, with two rulings
+  of the day ("Judicius" → "Judicio"; "Citti~" read as Citati, tilde kept).
+  Dated 1727, year only, supplied from the volume's title, pending the
+  editor's check of the preceding pages for the sitting's heading and place
+  (the court-book `dates: sitting:` path, as app536017). doc_type `report`
+  (the Konin vocabulary), era `prusimski-boundary`. Translated, summarised
+  and claim-checked in session, no paid run; the checks clean. The entry is
+  the first text that tells Szetlew and Szetlewek apart: the place matching
+  changed (szetlewek passes "Szetlew...o" and "Szetlewicz" over; szetlew
+  matched as "Szetlewo"), which moved the hearth-tax table's "Szetlewo z
+  Częś: Jaroszew:" row from Szetlewek to Szetlew and newly matched the
+  Kodeks's own gloss in kdw documents 2 and 4 - put to the editor. Open:
+  the sitting's date and place; "Conte~", "de Juris Firma/Forma", the
+  "eam"/"eamdem" mark; "De quo praesens Relatio"; a timeline event
+  (offered, none added). Read `units/app534062/notes.md` first. The holding
+  counts 1 document and 1 page; the edition has 628 documents in
+  49 holdings.
+
 - **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
   2026-10-25 on the branch `app539680782`, **published 2026-10-26**): the
   contract

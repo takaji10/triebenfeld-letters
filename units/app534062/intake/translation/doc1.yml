@@ -1,0 +1,22 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 3
+  en: |
+    To the present court there came Sebastian Szetlewicz of the village of
+    Szetlewko, Royal Court Summoner, General, sound of health, known to the
+    present court, sound in mind and body; [that he had carried[?]] it [the
+    citation; its address follows as an insertion in the record] to the
+    estate of the village of Szetlew and to the residence of the cited
+    party, on the Thursday next past[?], and had laid and left it there on
+    the table in the heated room, before the Conte~ [as written] of the
+    cited party, de Juris Firma[?] [as written; perhaps Forma]. Of which,
+    the present report.
+numbers: []
+names:
+  - {de: "Sebastianus Szetlewicz", en: "Sebastian Szetlewicz"}
+  - {de: "Szetlewicz", en: "Szetlewicz"}
+  - {de: "Villa Szetlewko", en: "Szetlewko"}
+  - {de: "Villa Szetlewo", en: "Szetlew"}
+  - {de: "Szetlewo", en: "Szetlew"}
+  - {de: "Szetlewko", en: "Szetlewko"}

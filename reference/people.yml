@@ -312,6 +312,16 @@ people:
     variants: []
     identity: "Bartłomiej Szepczyński of Trąbczyn, a sworn court messenger (woźny, Ministerialis Regni Generalis), a commoner ('Providus'). He made the inspection of Trąbczyn for Katarzyna Prusimska in 1754, where the record writes him Szeptycki (APP 53/17/0/-/Konin Gr.136), and reported twice in 1767 for Antoni Prusimski on the embankment at the pond-ground (APP 53/17/0/-/Konin Gr.114). The editor's notes identify him with the messenger Bartłomiej of Trąbczyn in the decree of 1775 and in a document of 1782. Added 2026-10-07."
     merge: false
+  szetlewicz:
+    display: "Sebastian Szetlewicz, court messenger"
+    render: "Szetlewicz"
+    # The family name, from the place: excluded from szetlewek's place pattern
+    # for the same reason (reference/places.yml, 2026-10-26).
+    match: 'Szetlewicz\w*'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Sebastian Szetlewicz of Szetlewko (Szetlewek), a general royal messenger (woźny, Ministerialis Regni Generalis). He reported to the land court at Kalisz that he had carried a citation to the estate of Szetlew and left it on the table in the heated room, in the sitting of 1727 (APP 53/4/0/-/62). The editor added the holding for the name: it shows a Szetlewicz family living at Szetlewek in the 1720s, over fifty years before the messenger Mathias Matuszkiewicz 'de villa Szetlewek' reports in the Konin register (APP 53/17/0/-/Konin Gr.117). Added 2026-10-26."
+    merge: false
   trampczynski:
     display: "Trąmpczyński (Otto-Trąmpczyński)"
     render: "Trąmpczyński"

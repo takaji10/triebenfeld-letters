@@ -863,6 +863,17 @@ read, translate and summarise.
     Stanisław is the decree's late father. Nothing in the edition's texts
     is built on it; the person's page carries it with the work as its
     source.
+  - **The sitting of the relatio of 1727** (APP 53/4/0/-/62, added
+    2026-10-26). The entry at the foot of page 222 has no date of its own -
+    only "Feria Quinta proxima praeterita", the Thursday next past - and is
+    dated 1727, year only, as the editor's provisional assignment from the
+    volume's title. The editor is to check the preceding pages of the
+    volume (the online unit, jednostka 980058, scans before 231) for the
+    heading of the sitting, which gives the date when the court sat; the
+    date then moves to `dates: sitting:` with its basis, as the court-book
+    holdings carry it, and the place of the sitting (the roczki moved the
+    court round the palatinate) is settled by the same reading and fills
+    the empty place override.
 
 ## Readings, Oe 1 Bü 9454
 
@@ -1069,6 +1080,17 @@ written until there is a witness or a better scan.
 - **APP 53/968/0/-/801**: words left as written and text not transcribed, in
   `units/app539680801/intake/unresolved.md`. The note of the court's fees on
   the last page is not transcribed.
+- **APP 53/4/0/-/62** (the relatio of Szetlewicz, 1727, added 2026-10-26):
+  the open readings are in `units/app534062/intake/unresolved.md` - "Conte~"
+  (the person before whom the citation was left; Contubernali, household
+  member, is the session's candidate against the Konin Gr. 117 parallels),
+  "de Juris Firma" against "Forma" (no parallel in the corpus), and the
+  "eam" of line 2 with its scribal mark above the final m (the session reads
+  the citation pronoun; "eadem", the editor's guess, has no grammatical
+  place in the sentence; if the mark completes the word, "eamdem" = eandem
+  is the likeliest form). The verb of reporting is missing from the
+  transcribed block; and whether "De quo praesens Relatio" closes this entry
+  or heads the next is for page 223.
 
 ## Identifications
 

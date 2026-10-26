@@ -83,12 +83,12 @@
   letters: [{id: "2", uid: "kdw-2", url: "/documents/kdw/2/"}, {id: "8", uid: "kdw-8", url: "/documents/kdw/8/"}, {id: "12", uid: "kdw-12", url: "/documents/kdw/12/"}, {id: "18", uid: "kdw-18", url: "/documents/kdw/18/"}, {id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/"}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/"}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/"}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/"}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/"}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/"}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/"}, {id: "146", uid: "oe1bu9454-146", url: "/documents/oe1bu9454/146/"}, {id: "147", uid: "oe1bu9454-147", url: "/documents/oe1bu9454/147/"}, {id: "149", uid: "oe1bu9454-149", url: "/documents/oe1bu9454/149/"}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/"}, {id: "10", uid: "oe1bu14526-10", url: "/documents/oe1bu14526/10/"}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/"}, {id: "190", uid: "oe1bu9454-190", url: "/documents/oe1bu9454/190/"}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/"}, {id: "188", uid: "oe1bu9454-188", url: "/documents/oe1bu9454/188/"}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/"}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/"}, {id: "32", uid: "oe1bu9454-32", url: "/documents/oe1bu9454/32/"}, {id: "213", uid: "oe1bu9454-213", url: "/documents/oe1bu9454/213/"}, {id: "214", uid: "oe1bu9454-214", url: "/documents/oe1bu9454/214/"}, {id: "216", uid: "oe1bu9454-216", url: "/documents/oe1bu9454/216/"}, {id: "218", uid: "oe1bu9454-218", url: "/documents/oe1bu9454/218/"}, {id: "227", uid: "oe1bu9454-227", url: "/documents/oe1bu9454/227/"}, {id: "229", uid: "oe1bu9454-229", url: "/documents/oe1bu9454/229/"}, {id: "72a", uid: "oe1bu9454-72a", url: "/documents/oe1bu9454/72a/"}, {id: "72b", uid: "oe1bu9454-72b", url: "/documents/oe1bu9454/72b/"}, {id: "72f", uid: "oe1bu9454-72f", url: "/documents/oe1bu9454/72f/"}, {id: "232", uid: "oe1bu9454-232", url: "/documents/oe1bu9454/232/"}, {id: "17", uid: "oe1bu9454-17", url: "/documents/oe1bu9454/17/"}, {id: "233", uid: "oe1bu9454-233", url: "/documents/oe1bu9454/233/"}, {id: "18", uid: "oe1bu9454-18", url: "/documents/oe1bu9454/18/"}]
 - slug: "szetlewek"
   name: "Szetlewek"
-  count: 30
+  count: 31
   lat: 52.11667
   lon: 18.0
-  docs: 30
-  span: "1796–1816"
-  letters: [{id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/"}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/"}, {id: "25", uid: "oe1bu14526-25", url: "/documents/oe1bu14526/25/"}, {id: "42", uid: "oe1bu14525-42", url: "/documents/oe1bu14525/42/"}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/"}, {id: "27", uid: "oe1bu14526-27", url: "/documents/oe1bu14526/27/"}, {id: "26", uid: "oe1bu14526-26", url: "/documents/oe1bu14526/26/"}, {id: "2", uid: "oe1bu14525-2", url: "/documents/oe1bu14525/2/"}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/"}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/"}, {id: "23", uid: "oe1bu14525-23", url: "/documents/oe1bu14525/23/"}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/"}, {id: "169", uid: "oe1bu9454-169", url: "/documents/oe1bu9454/169/"}, {id: "156", uid: "oe1bu9454-156", url: "/documents/oe1bu9454/156/"}, {id: "163", uid: "oe1bu9454-163", url: "/documents/oe1bu9454/163/"}, {id: "172", uid: "oe1bu9454-172", url: "/documents/oe1bu9454/172/"}, {id: "168", uid: "oe1bu9454-168", url: "/documents/oe1bu9454/168/"}, {id: "173", uid: "oe1bu9454-173", url: "/documents/oe1bu9454/173/"}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/"}, {id: "192", uid: "oe1bu9454-192", url: "/documents/oe1bu9454/192/"}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/"}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/"}, {id: "210", uid: "oe1bu9454-210", url: "/documents/oe1bu9454/210/"}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/"}, {id: "288", uid: "oe1bu9454-288", url: "/documents/oe1bu9454/288/"}, {id: "19", uid: "iiihamdaiiinr12765-19", url: "/documents/iiihamdaiiinr12765/19/"}, {id: "20", uid: "iiihamdaiiinr12765-20", url: "/documents/iiihamdaiiinr12765/20/"}, {id: "21", uid: "iiihamdaiiinr12765-21", url: "/documents/iiihamdaiiinr12765/21/"}, {id: "23", uid: "iiihamdaiiinr12765-23", url: "/documents/iiihamdaiiinr12765/23/"}]
+  docs: 31
+  span: "1727–1816"
+  letters: [{id: "1", uid: "app534062-1", url: "/documents/app534062/1/"}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/"}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/"}, {id: "25", uid: "oe1bu14526-25", url: "/documents/oe1bu14526/25/"}, {id: "42", uid: "oe1bu14525-42", url: "/documents/oe1bu14525/42/"}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/"}, {id: "27", uid: "oe1bu14526-27", url: "/documents/oe1bu14526/27/"}, {id: "26", uid: "oe1bu14526-26", url: "/documents/oe1bu14526/26/"}, {id: "2", uid: "oe1bu14525-2", url: "/documents/oe1bu14525/2/"}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/"}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/"}, {id: "23", uid: "oe1bu14525-23", url: "/documents/oe1bu14525/23/"}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/"}, {id: "169", uid: "oe1bu9454-169", url: "/documents/oe1bu9454/169/"}, {id: "156", uid: "oe1bu9454-156", url: "/documents/oe1bu9454/156/"}, {id: "163", uid: "oe1bu9454-163", url: "/documents/oe1bu9454/163/"}, {id: "172", uid: "oe1bu9454-172", url: "/documents/oe1bu9454/172/"}, {id: "168", uid: "oe1bu9454-168", url: "/documents/oe1bu9454/168/"}, {id: "173", uid: "oe1bu9454-173", url: "/documents/oe1bu9454/173/"}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/"}, {id: "192", uid: "oe1bu9454-192", url: "/documents/oe1bu9454/192/"}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/"}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/"}, {id: "210", uid: "oe1bu9454-210", url: "/documents/oe1bu9454/210/"}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/"}, {id: "288", uid: "oe1bu9454-288", url: "/documents/oe1bu9454/288/"}, {id: "19", uid: "iiihamdaiiinr12765-19", url: "/documents/iiihamdaiiinr12765/19/"}, {id: "20", uid: "iiihamdaiiinr12765-20", url: "/documents/iiihamdaiiinr12765/20/"}, {id: "21", uid: "iiihamdaiiinr12765-21", url: "/documents/iiihamdaiiinr12765/21/"}, {id: "23", uid: "iiihamdaiiinr12765-23", url: "/documents/iiihamdaiiinr12765/23/"}]
 - slug: "drzewce"
   name: "Drzewce"
   medieval: ["1411: Drzewycz (\"in Nouo Sagorowo, alias Drzewycz\")", "1418: Drzewcza"]
@@ -346,6 +346,13 @@
   docs: 4
   span: "1261–1779"
   letters: [{id: "4", uid: "kdw-4", url: "/documents/kdw/4/"}, {id: "6", uid: "kdw-6", url: "/documents/kdw/6/"}, {id: "11", uid: "app53170koningr117-11", url: "/documents/app53170koningr117/11/"}, {id: "12", uid: "app53170koningr117-12", url: "/documents/app53170koningr117/12/"}]
+- slug: "szetlew"
+  name: "Szetlew"
+  medieval: ["1240: Szetlevo", "1261: Szethowo", "1280: Szechouo"]
+  count: 4
+  docs: 4
+  span: "1240–1727"
+  letters: [{id: "2", uid: "kdw-2", url: "/documents/kdw/2/"}, {id: "4", uid: "kdw-4", url: "/documents/kdw/4/"}, {id: "6", uid: "kdw-6", url: "/documents/kdw/6/"}, {id: "1", uid: "app534062-1", url: "/documents/app534062/1/"}]
 - slug: "lukom"
   name: "Łukom"
   medieval: ["1240: Lukome"]
@@ -404,13 +411,6 @@
   docs: 3
   span: "1797–1802"
   letters: [{id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/"}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/"}, {id: "28", uid: "oe1bu14525-28", url: "/documents/oe1bu14525/28/"}]
-- slug: "szetlew"
-  name: "szetlew"
-  medieval: ["1240: Szetlevo", "1261: Szethowo", "1280: Szechouo"]
-  count: 3
-  docs: 3
-  span: "1240–1280"
-  letters: [{id: "2", uid: "kdw-2", url: "/documents/kdw/2/"}, {id: "4", uid: "kdw-4", url: "/documents/kdw/4/"}, {id: "6", uid: "kdw-6", url: "/documents/kdw/6/"}]
 - slug: "boronow"
   name: "Boronów (Boronow)"
   count: 2

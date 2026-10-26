@@ -2914,6 +2914,18 @@
   bio_de: "Geheimer Finanzrat im südpreußischen Departement in Berlin, der 1798 den Vorschlag bearbeitete, die Güter gegen Krotoszyn zu tauschen."
   span: "1798"
   letters: [{id: "78", uid: "oe1bu9454-78", url: "/documents/oe1bu9454/78/", n: 2}, {id: "79", uid: "oe1bu9454-79", url: "/documents/oe1bu9454/79/", n: 1}, {id: "81", uid: "oe1bu9454-81", url: "/documents/oe1bu9454/81/", n: 3}, {id: "83", uid: "oe1bu9454-83", url: "/documents/oe1bu9454/83/", n: 2}]
+- slug: "szetlewicz"
+  name: "Sebastian Szetlewicz, court messenger"
+  heading: "Sebastian Szetlewicz, court messenger"
+  heading_de: "Sebastian Szetlewicz, court messenger"
+  count: 1
+  docs: 1
+  life: "documented 1727"
+  life_de: "belegt 1727"
+  bio: "Sebastian Szetlewicz of Szetlewko (Szetlewek), a general royal messenger. He reported to the land court at Kalisz in 1727 that he had carried a citation to the estate of Szetlew and left it on the table in the heated room. The entry was brought into the edition for his name, which shows a Szetlewicz family living at Szetlewek in the 1720s."
+  bio_de: "Sebastian Szetlewicz von Szetlewko (Szetlewek), ein allgemeiner königlicher Bote. Er berichtete dem Landgericht in Kalisz 1727, dass er eine Ladung zum Gut Szetlew gebracht und auf dem Tisch im beheizten Raum zurückgelassen habe. Der Eintrag wurde um seines Namens willen in die Edition aufgenommen, denn er zeigt eine Familie Szetlewicz, die in den 1720er Jahren in Szetlewek wohnte."
+  span: "1727"
+  letters: [{id: "1", uid: "app534062-1", url: "/documents/app534062/1/", n: 1}]
 - slug: "seegebarth"
   name: "Seegebarth"
   heading: "Seegebarth"

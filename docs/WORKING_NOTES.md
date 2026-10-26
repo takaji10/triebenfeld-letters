@@ -2133,6 +2133,19 @@ cloud branches").
   which nearly sent a session to "fix" correct files. When a built page
   looks wrong in the console, read it with Python
   (`python -X utf8 -c "..."`) before changing anything.
+- **The translation-review reader had never run with `--unit`** (2026-10-26,
+  app534062). Two defects, both fixed in `pipeline/translate/translation_review.py`:
+  the module referenced `unitlib` without importing it (NameError on the
+  first `--unit` run), and `key()` built the cleared key from the row's
+  `letter` while `check_translations.py` filters on `pad` - so an "OK"
+  ruling was recorded under a key the checker never matches and the row came
+  back at every re-run. The key is now built from the row's `pad` column,
+  with the letter as fallback. Lesson on top of the fix: `check_translations.py`
+  REWRITES the review sheet at every run, so a ruling typed into the csv is
+  wiped by the next check - rule the sheet and run `translation_review.py
+  --apply` in one command, before the next check run. (The pre-existing
+  entries in `reference/translation_rulings.json` are pad-keyed, as the
+  file's own comment says; they predate the bug or were entered by hand.)
 
 ## Desktop and cloud
 

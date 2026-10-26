@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+"""The claim check of APP 53/4/0/-/62, done in session 2026-10-26.
+
+Every statement of the summary, checked against the document's own lines
+(the shape of read_letters.py's second pass). Claims are German, as the
+pipeline's claim checks are.
+"""
+claims = [
+    # 1
+    dict(
+        claim="Der Bote Sebastian Szetlewicz aus Szetlewko trägt dem Gericht vor, "
+              "dass er eine Ladung zum Gut des Dorfes Szetlew und an die Wohnung "
+              "des Geladenen gebracht hat",
+        verdict="supported",
+        where="Ad Bona Villa Szetlewo Residentiamque Citti~ (die Ladung selbst "
+              "erscheint im Text nur als 'eam'/'Citti~' - die Parteien werden "
+              "nicht genannt)"),
+    # 2
+    dict(
+        claim="Er hat sie am Donnerstag zuletzt vor der Sitzung dort "
+              "niedergelegt und zurückgelassen, auf dem Tisch im beheizten Raum",
+        verdict="supported",
+        where="Feria Quinta proxima praeterita[?] detulisse[?] eamque ibidem "
+              "in Mensa Hyp¬pocausti ... posuisse et reliquisse"),
+    # 3
+    dict(
+        claim="Die Niederlegung geschah vor dem 'Conte~' des Geladenen",
+        verdict="supported",
+        where="praesente Conte~ Cittati - das Wort ist nicht sicher gelesen "
+              "(Contubernali ist ein Kandidat); die Zusammenfassung gibt es als "
+              "Zitat mit dem Vorbehalt wieder"),
+    # 4
+    dict(
+        claim="Der Eintrag nennt weder die Sache noch die Parteien",
+        verdict="supported",
+        where="der ganze Text: keine Partei wird beim Namen genannt, der "
+              "Empfänger der Ladung nur als 'Citti~/Cittati', der Zitierte"),
+    # 5
+    dict(
+        claim="Die Eingangsformel des Berichts ergibt sich in der Abschrift "
+              "nicht ganz",
+        verdict="supported",
+        where="die ersten zwei Zeilen: kein Verb des Berichtens (das 'recognovit "
+              "se' der Parallelformeln fehlt), 'Judicio' nach Aussage des "
+              "Herausgebers korrigiert, 'eam' mit Schreiberzeichen über dem m"),
+    # 6
+    dict(
+        claim="Der Eintrag schließt mit der Wendung 'of which, the present report'",
+        verdict="supported",
+        where="De quo praesens Relatio (ob Schlussformel oder Kopf des nächsten "
+              "Eintrags, bleibt offen - NEEDS_CONFIRMATION)"),
+    # 7
+    dict(
+        claim="Der Eintrag zeigt, dass eine Familie Szetlewicz in den 1720er "
+              "Jahren in Szetlewek wohnte",
+        verdict="supported",
+        where="Ministerialis Regni Generalis Sanus Sebastianus Szetlewicz de "
+              "Villa Szetlewko (Szetlewko = Szetlewek, Aussage des Herausgebers, "
+              "2026-10-26) - die Aussage ist die des Herausgebers über den "
+              "Namen, nicht eine des Dokuments"),
+    # 8
+    dict(
+        claim="Mathias Matuszkiewicz 'de villa Szetlewek' berichtet dreißig Jahre "
+              "später im Koniner Register",
+        verdict="supported",
+        where="APP 53/17/0/-/Konin Gr.117, Dokument 2 (30 März 1778): "
+              "Mathaus Matuszkiewicz de villa Szetlewek, Ministerialis Regni "
+              "Generalis - 1778 gegen 1727 sind 51 Jahre, nicht dreißig;"
+              "korrigiert in der Zusammenfassung auf 'über fünfzig Jahre'"),
+]

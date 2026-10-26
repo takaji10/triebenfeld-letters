@@ -821,6 +821,12 @@ places:
     Szetlewek: yes
     Szellewen: yes
     Szetlewo: "no: Szetlew, the village of the Ląd monastery; not Szetlewek (as in the edition's KDW entries)"
+  szetlew:
+    # Matched from 2026-10-26, when the relatio of APP 53/4/0/-/62 became the
+    # first text to tell Szetlew and Szetlewek apart (reference/places.yml).
+    # These are the same two Breyer (1938) hits the szetlewek refusal above
+    # already carried to Szetlew; the identification moves across with them.
+    Szetlewo: "yes: Szetlew, the village of the Ląd monastery - the Kodeks editors' identification (1173 Szetlevo, 1261 Szethowo), the same the szetlewek refusal records"
   tarmowo:
     Tarnowo: "no: the Tarnowo two miles from Posen given to Lüttichau and Grävenitz; not shown to be the Tarnowo of the Prince's grant of 1797"
   trabczyn:
