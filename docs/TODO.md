@@ -1269,5 +1269,10 @@ entries (the editor's word).
 - [ ] **You: the visits' exact date** if you want more than "2023" on the
       pages (NEEDS_CONFIRMATION, "The cemeteries"); the numbers and the
       figures are settled.
-- [ ] **You: a look at the section** — the list page, a page or two, the
-      widened Places page — before it goes to `main` at your word.
+- [ ] **You: the five drafted gazetteer entries**
+      (`scratch/gazetteer_drafts/`): Łazińsk Pierwszy and Drugi split from
+      `lazinskie-oledry`, and Orlina Duża, Stawiszyn and Zbiersk Kolonia
+      drafted from the survey. Say yes and they enter the gazetteer and
+      the three linkless cemetery pages get their place links.
+- [x] **Published at your word (2026-10-26)**: the branch merged to main
+      and pushed; the "Build and deploy" run to confirm.

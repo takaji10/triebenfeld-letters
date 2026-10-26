@@ -1,7 +1,8 @@
 # Plan: the cemeteries
 
-Status: **the plan agreed and the editor's rulings of 2026-10-26 worked in;
-the build next** (the order of work, section 4). The material is the
+Status: **built and published 2026-10-26** (the editor's word "Go ahead
+and merge into main and publish"); the five gazetteer entries drafted and
+waiting, the visits' exact date open. The material is the
 editor's own survey of the Evangelical (Lutheran) cemeteries of the
 Trąbczyn/Zagórów area and its neighbourhood, visited on the ground, each
 one's condition noted and its headstones read as far as they read
