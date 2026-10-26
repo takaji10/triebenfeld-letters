@@ -8,7 +8,7 @@ After 1815 the estate lay in the Kingdom of Poland, under the Russian emperor, a
 
 ### Contents
 
-The contract is dated from the colony itself: "Tropiczyner Holl., 14. März 1820". The village board - the Schulze Johann George Lindner, the Beisitzer Christoph Rimpel and Samuel Gellert - records that Samuel Adolph, a school teacher from Borwiezer Holland, appeared and let it be known that he would take over the school here; the board had put him to the test, and on that ground contracts with him and issues him the appointment [[1]].
+The contract is dated from the colony itself: "Tropiczyner Holl., 14. März 1820". Tropiczyner Holl. is the Olęder colony on the Trąbczyn estate, the Trąbczyńskie Stare Olędry, which this edition follows under its later name Łazińsk (the editor's ruling, recorded in the changelog). The village board - the Schulze Johann George Lindner, the Beisitzer Christoph Rimpel and Samuel Gellert - records that Samuel Adolph, a school teacher from Borwiezer Holland, appeared and let it be known that he would take over the school here; the board had put him to the test, and on that ground contracts with him and issues him the appointment [[1]].
 
 Ten numbered terms follow [[1]]:
 

@@ -2892,6 +2892,23 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-26 - APP 53/968/0/-/782: Tropiczyner Holl. identified; published
+
+- The editor ruled: "Tropiczyner Holl.", the contract's dateline, is the
+  Olędry on Trąbczyn - the Trąbczyńskie Stare Olędry, the edition's
+  canonical settlement (its later name Łazińsk). Recorded in
+  reference/places.yml as a matched variant of trabczynskie-stare-oledry
+  (it hits the one document only, counted before matching); the place of
+  writing override carries the manuscript's form and the build shows the
+  canonical name the pattern resolves to. The holding's page names the
+  identification, both languages.
+- No timeline event (the editor's word): the contract bears on the colony's
+  school, not directly on the owner.
+- Still open: "Borwiezer Holland"; whether the ruling covers the
+  "Trąbczyner Holländ" spelling of oe1bu14526-17; "6 gl."; the glossary
+  terms (NEEDS_CONFIRMATION).
+- Published at the editor's word.
+
 ## 2026-10-25 - APP 53/968/0/-/782: the line division ruled
 
 - The editor answered all 7 rows of the holding's spot sheet. Corrections

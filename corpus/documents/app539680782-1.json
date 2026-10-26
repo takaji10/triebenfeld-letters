@@ -17,7 +17,7 @@
  "year": 1820,
  "month": 3,
  "day": 14,
- "place": "",
+ "place": "Tropiczyner Holl.",
  "sender": "",
  "recipient": "",
  "line_start": 1,
@@ -93,8 +93,19 @@
  ],
  "mentions": [],
  "mentions_english": [],
- "place_canonical": "Unknown",
+ "place_canonical": "Tropiczyner Holl.",
  "place_mentions": [
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Tropiczyner Holl.",
+   "page": 1,
+   "page_id": "0002_a",
+   "scan": "APP_53_968_0_782_0002_a-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
   {
    "entity": "holland",
    "display": "Holland",

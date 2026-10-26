@@ -120,7 +120,8 @@ so check them.
 ## Where things stand (2026-10-26)
 
 - **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
-  2026-10-25 on the branch `app539680782`, **not published**): the contract
+  2026-10-25 on the branch `app539680782`, **published 2026-10-26**): the
+  contract
   of 14 March 1820 between the village board of Tropiczyner Holland and the
   school teacher Samuel Adolph of Borwiezer Holland - the board engages the
   teacher for the colony's school, ten numbered terms (free dwelling, three
@@ -137,9 +138,11 @@ so check them.
   page 2 blank paper). Translated in session, no paid run; summaries
   claim-checked (18 statements); the glossary gate passes; the site
   verifies clean. Era `restitution` (proposed, the editor approved the
-  plan). Open: "6 gl." gulden or Groschen; the identifications of
-  "Tropiczyner Holl." and "Borwiezer Holland"; glossary entries for the
-  single-document terms; a timeline event and the era's story (TODO
+  plan). Ruled 2026-10-26: "Tropiczyner Holl." is the Olędry on Trąbczyn,
+  the Trąbczyńskie Stare Olędry (a matched variant in reference/places.yml;
+  the place of writing shows the canonical name); no timeline event. Open:
+  "6 gl." gulden or Groschen; the identification of "Borwiezer Holland";
+  glossary entries for the single-document terms; the era's story (TODO
   section 36). Read `units/app539680782/notes.md` first. The holding counts
   1 document and 2 pages; the edition has 627 documents in 48 holdings.
 

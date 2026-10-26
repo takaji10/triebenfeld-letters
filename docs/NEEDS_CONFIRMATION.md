@@ -892,12 +892,9 @@ written until there is a witness or a better scan.
   Adolph, added 2026-10-25; `units/app539680782/notes.md`): the transcription
   is the editor's own and is not re-read. The line division was ruled by the
   editor on the spot sheet (all 7 rows answered 2026-10-25, applied and
-  rebuilt): term 9 breaks after "Ostern" and after "Wirt"; term 10 after
-  "und"; the closing sentence runs "Mann fortzusetzen. Die Sontags Schule so
-  wie" on one line; the board's last line breaks before "wir"; the foot of
-  the second page is blank paper - the session had taken its marks for a
-  pencil inscription, and there is nothing to transcribe. Nothing waits on
-  this holding's readings.
+  rebuilt); the foot of the second page is blank paper - the session had
+  taken its marks for a pencil inscription, and there is nothing to
+  transcribe. Nothing waits on this holding's readings.
 
 - **APP 53/1455/0/2/21** (the copy-book of the privileges of Ląd, added
   2026-10-21, published the same day; `units/app5314550221/notes.md`): read from the
@@ -1097,14 +1094,15 @@ People (`reference/people.yml`, `open_questions`):
 
 Places (`reference/places.yml`, `open_questions`):
 
-- "Tropiczyner Holl." (the contract of 1820, APP 53/968/0/-/782): the
-  identification with Łazińsk (Trąbczyńskie Stare Olędry) is not ruled. The
-  canon records "Trąbczyner Holländ" as a variant of Łazińsk (from
-  oe1bu14526-17); this contract spells the colony "Tropiczyner Holl.", and
-  its school is the colony's own. The place of writing is left empty and the
-  name is not matched until the editor rules. Also open, the same document:
-  "Borwiezer Holland", the colony Samuel Adolph came from - Borowiec (named
-  in APP 53/968/0/-/669) is a candidate, nothing more.
+- "Borwiezer Holland", the colony the school teacher Samuel Adolph came
+  from (the contract of 1820, APP 53/968/0/-/782): not identified. Borowiec
+  (named in APP 53/968/0/-/669 as a source of marriage partners for the
+  colonies) is a candidate; nothing more.
+- The same ruling, one spelling over: "Trąbczyner Holländ" (oe1bu14526-17),
+  recorded in the canon as a form seen without asserting the identity, now
+  looks covered by the editor's ruling of 2026-10-26 ("Tropiczyner Holl." =
+  the Olędry on Trąbczyn, the Trąbczyńskie Stare Olędry). To confirm that
+  the ruling covers the 14526 spelling too, or whether it stands alone.
 
 - Harbultowitz, among the estates of the majorat in Oe 1 U 199: not
   identified.

@@ -899,6 +899,12 @@
   docs: 3
   span: "1806–1936"
   letters: [{id: "179", uid: "oe1bu9454-179", url: "/documents/oe1bu9454/179/", n: 1}, {id: "271", uid: "oe1bu9454-271", url: "/documents/oe1bu9454/271/", n: 1}, {id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", n: 1}]
+- slug: "trabczynskie-stare-oledry"
+  name: "Trąbczyńskie Stare Olędry"
+  count: 6
+  docs: 3
+  span: "1791–1860"
+  letters: [{id: "1", uid: "adwl85-1", url: "/documents/adwl85/1/", n: 2}, {id: "1", uid: "app539680782-1", url: "/documents/app539680782/1/", n: 1}, {id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 3}]
 - slug: "ungarn"
   name: "Ungarn"
   count: 3
@@ -1095,12 +1101,6 @@
   docs: 2
   span: "1791–1860"
   letters: [{id: "1", uid: "adwl85-1", url: "/documents/adwl85/1/", n: 2}, {id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 1}]
-- slug: "trabczynskie-stare-oledry"
-  name: "Trąbczyńskie Stare Olędry"
-  count: 5
-  docs: 2
-  span: "1791–1860"
-  letters: [{id: "1", uid: "adwl85-1", url: "/documents/adwl85/1/", n: 2}, {id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 3}]
 - slug: "wieruszow"
   name: "Wieruszów"
   count: 2

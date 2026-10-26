@@ -72,10 +72,14 @@ of the comma and drops the row as "not found again".
 - The signature titles are as written: "Schulz." (the Schulze Johann George
   Lindner), "beisitzer" (Christoph Rimpel), "gerichten" (Samuel Gellert) -
   what office the last names is not clear.
-- "Tropiczyner Holl." (the dateline) and "Borwiezer Holland" (the teacher's
-  home) keep the manuscript's spellings; identifications open
-  (NEEDS_CONFIRMATION). The canon records "Trąbczyner Holländ" as a variant
-  of Łazińsk; the contract's spelling is one more form of it, probably.
+- "Tropiczyner Holl." (the dateline) is the Olęder colony on Trąbczyn, the
+  Trąbczyńskie Stare Olędry - the editor's ruling of 2026-10-26, recorded in
+  reference/places.yml as a matched variant of the settlement. The place of
+  writing carries the manuscript's own form and the build shows the
+  canonical name it resolves to. "Borwiezer Holland" (the teacher's home)
+  keeps the manuscript's spelling; its identification stays open
+  (NEEDS_CONFIRMATION; Borowiec, named in APP 53/968/0/-/669, is a
+  candidate).
 
 ## Damage
 

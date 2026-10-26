@@ -1175,15 +1175,19 @@ the folder is the title page and is left out (your word).
       line; the board's last line breaks before "wir" (hyphens as drafted);
       the foot of page 2 is blank paper - nothing to transcribe there.
       Applied to the page files and rebuilt; the check clean.
+- [x] Your identifications (2026-10-26): "Tropiczyner Holl." is the Olędry
+      on Trąbczyn, the Trąbczyńskie Stare Olędry - recorded in
+      reference/places.yml as a matched variant (it hits this one document);
+      the place of writing carries the manuscript's form and the build shows
+      the canonical name. "Borwiezer Holland" stays open
+      (NEEDS_CONFIRMATION), as does whether the ruling covers 14526's
+      "Trąbczyner Holländ" spelling.
+- [x] No timeline event (your word, 2026-10-26): the contract bears on the
+      colony's school, not directly on the owner. Whether the restitution
+      era's story names the holding is still open.
 - [ ] You: "6 gl." at term 9 - gulden, or Groschen as the standing rule
       would rewrite it (NEEDS_CONFIRMATION, "Translations").
-- [ ] You: the identification of "Tropiczyner Holl." with Łazińsk (the
-      canon's "Trąbczyner Holländ" variant), and of "Borwiezer Holland" with
-      Borowiec (NEEDS_CONFIRMATION, "Identifications").
 - [ ] You: whether the single-document terms get glossary entries ("St.",
       "Böhm", "Opfertorium", "Viertel", the "Neujahrsumgang") - offered, not
       done (NEEDS_CONFIRMATION, "Glossary").
-- [ ] You: whether a timeline event of 1820 is wanted (the school contract
-      bears on the colony, not directly on the owner), and whether the
-      restitution era's story names the holding.
-- [ ] Publish at your word.
+- [x] Published at your word (2026-10-26).

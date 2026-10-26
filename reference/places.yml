@@ -517,6 +517,11 @@ places:
       - {form: "Łaziny",              match: false}
       - {form: "Łazińskie Stare Olędry", match: false}
       - {form: "Staro-Łazińska",      match: true, seen_in: ["app539680783-1"]}
+      # The editor's ruling of 2026-10-26: "Tropiczyner Holl." - the dateline
+      # of the school contract of 1820 (APP 53/968/0/-/782) - is the Olędry
+      # on Trąbczyn, the Trąbczyńskie Stare Olędry. Matched; it hits this one
+      # document only.
+      - {form: "Tropiczyner Holl.", match: true, seen_in: ["app539680782-1"]}
       # The editor's rulings of 2026-10-22: Łazińsk is the colony ("the
       # colony which went by many name variants"), Lazinsk is its German-era
       # name, and Kolonia Łazińskie (Mielewczyk 2017, p. 48) is another

@@ -52356,6 +52356,72 @@
   ]
  },
  {
+  "entity": "trabczynskie-stare-oledry",
+  "display": "Trąbczyńskie Stare Olędry",
+  "count": 6,
+  "documents": [
+   "adwl85-1",
+   "app539680782-1",
+   "app539680783-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Olędry",
+    "page": 2,
+    "page_id": "0024_a",
+    "scan": "ADWl_85_0024_a-L1_02.jpg",
+    "line": 9,
+    "doc_line": 6
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Olendry",
+    "page": 3,
+    "page_id": "0024_b",
+    "scan": "ADWl_85_0024_b-L1_03.jpg",
+    "line": 21,
+    "doc_line": 17
+   },
+   {
+    "uid": "app539680782-1",
+    "surface": "Tropiczyner Holl.",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "APP_53_968_0_782_0002_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Staro-Łazińskiej",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Staro Łazińskiej",
+    "page": 5,
+    "page_id": "0007_a2",
+    "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
+    "line": 56,
+    "doc_line": 44
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Staro Łazińskiej",
+    "page": 5,
+    "page_id": "0007_a2",
+    "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
+    "line": 57,
+    "doc_line": 45
+   }
+  ]
+ },
+ {
   "entity": "neuchatel",
   "display": "Neuchâtel",
   "count": 6,
@@ -52813,62 +52879,6 @@
     "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
     "line": 43,
     "doc_line": 30
-   }
-  ]
- },
- {
-  "entity": "trabczynskie-stare-oledry",
-  "display": "Trąbczyńskie Stare Olędry",
-  "count": 5,
-  "documents": [
-   "adwl85-1",
-   "app539680783-1"
-  ],
-  "mentions": [
-   {
-    "uid": "adwl85-1",
-    "surface": "Olędry",
-    "page": 2,
-    "page_id": "0024_a",
-    "scan": "ADWl_85_0024_a-L1_02.jpg",
-    "line": 9,
-    "doc_line": 6
-   },
-   {
-    "uid": "adwl85-1",
-    "surface": "Olendry",
-    "page": 3,
-    "page_id": "0024_b",
-    "scan": "ADWl_85_0024_b-L1_03.jpg",
-    "line": 21,
-    "doc_line": 17
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Staro-Łazińskiej",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Staro Łazińskiej",
-    "page": 5,
-    "page_id": "0007_a2",
-    "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
-    "line": 56,
-    "doc_line": 44
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Staro Łazińskiej",
-    "page": 5,
-    "page_id": "0007_a2",
-    "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
-    "line": 57,
-    "doc_line": 45
    }
   ]
  },

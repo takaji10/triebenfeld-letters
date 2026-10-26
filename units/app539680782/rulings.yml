@@ -16,13 +16,12 @@
 places:
   overrides:
     # The dateline reads "Tropiczyner Holl., 14. März 1820." - the colony
-    # itself, the school's own village. The canon records "Trąbczyner
-    # Holländ" as a variant of Łazińsk (Trąbczyńskie Stare Olędry), and this
-    # contract's "Tropiczyner Holl." looks like one more spelling of the same
-    # colony; but the identification is not yet ruled (NEEDS_CONFIRMATION),
-    # so the place stays empty rather than asserting it. The name stands in
-    # the transcription either way.
-    "1": ""
+    # itself. The editor ruled (2026-10-26): Tropiczyner Holl. is the Olędry
+    # on Trąbczyn, the Trąbczyńskie Stare Olędry, this entry's canonical
+    # place (reference/places.yml, where the form is now a matched variant).
+    # The override carries the manuscript's own form; the build shows the
+    # canonical name the pattern resolves to.
+    "1": "Tropiczyner Holl."
 
 dates:
   # 14 March 1820, read from the dateline by the editor (the transcription).
