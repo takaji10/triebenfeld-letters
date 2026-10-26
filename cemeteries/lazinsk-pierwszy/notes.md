@@ -11,7 +11,6 @@ number after Eduard Zellmer's name is the survey's genealogical identifier
 (the editor, 2026-10-26: kept); the survey's "(Fig. 25)" reference is left
 off the page (the editor, the same day).
 
-The place: the survey's Łazińsk Pierwszy. The gazetteer carries the two
-Łazińsk villages in one entry (`lazinskie-oledry`) until the editor's split
-into Pierwszy and Drugi is approved; the page links that entry's item on
-the Places page meanwhile.
+The place: the survey's Łazińsk Pierwszy, the gazetteer's own entry since
+2026-10-26 (split out of `lazinskie-oledry` at the editor's word; the
+combined entry stands as the Olędrzy settlement before the split).

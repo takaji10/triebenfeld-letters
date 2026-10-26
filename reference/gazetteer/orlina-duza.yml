@@ -1,0 +1,33 @@
+# Entered 2026-10-26 at the editor's word, drafted in scratch/gazetteer_drafts/ from the editor's
+# cemetery survey (cemeteries/<slug>/) and the existing entries; the split of the two
+# Lazinsk villages out of lazinskie-oledry at their word of 2026-10-26. Plan:
+# docs/CEMETERIES_PLAN.md; NEEDS_CONFIRMATION, "The cemeteries".
+slug: orlina-duza
+heading: Orlina Duża
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: null
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: unknown
+  lat: null
+  lon: null
+text_en: >-
+  Village in the Trąbczyn and Zagórów area. Its Evangelical cemetery is the
+  largest of the cemeteries of the area, surrounded by a low stone wall,
+  with many headstones well preserved and still standing, and a separate
+  section for infants; a carved stone gravestone of the Jursch family names
+  a birth of Gustav Jursch in Pleschen (Pleszew) in 1797.
+names:
+- form: Orlina Duża
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes: []
+review: []

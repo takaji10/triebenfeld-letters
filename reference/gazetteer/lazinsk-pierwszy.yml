@@ -1,0 +1,33 @@
+# Entered 2026-10-26 at the editor's word, drafted in scratch/gazetteer_drafts/ from the editor's
+# cemetery survey (cemeteries/<slug>/) and the existing entries; the split of the two
+# Lazinsk villages out of lazinskie-oledry at their word of 2026-10-26. Plan:
+# docs/CEMETERIES_PLAN.md; NEEDS_CONFIRMATION, "The cemeteries".
+slug: lazinsk-pierwszy
+heading: Łazińsk Pierwszy
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Łazy
+  relation: south-of
+  relative_to: lazy-trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: >-
+  Village south of Łazy, the area of the former Trąbczyńskie Stare Olędry.
+  One of the two villages into which Łazińskie Olędry was separated in the
+  later half of the 20th century, the other being Łazińsk Drugi. Known in
+  German as Lazinsk.
+names:
+- form: Łazińsk Pierwszy
+  year: null
+  note: heading
+  footnote: null
+aliases:
+- Lazinsk
+maps: []
+footnotes: []
+review: []
