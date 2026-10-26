@@ -78,10 +78,17 @@ MERGED = [
     ('pipeline/build/person_pages.py --quiet', 'person pages',
      'site/_people*/ - the page of each person in reference/genealogy.yml'),
     # The places that have their own page (docs/PLACES_PLAN.md). After the
-    # website data too: the page hangs on a card of the Places page, and the
-    # build fails loudly if its slug is no estate.
+    # website data too: the page hangs on the Places page - an estate's card
+    # or the place's item in the page's index of places - and the build fails
+    # loudly if its slug is neither.
     ('pipeline/places/place_pages.py --quiet', 'place pages',
      'site/_places*/ - the page of each place in places/'),
+    # The cemeteries (docs/CEMETERIES_PLAN.md): the editor's survey of the
+    # Evangelical cemeteries of the area, a page per cemetery with the
+    # headstones as tables. After the place pages: a cemetery's place link
+    # prefers the place's own page.
+    ('pipeline/cemeteries/cemetery_pages.py --quiet', 'cemetery pages',
+     'site/_cemeteries*/ - the page of each cemetery in cemeteries/'),
     # Each holding's description cites the documents it rests on; this holds
     # every year and sum in it to those documents.
     ('pipeline/review/check_unit_text.py', "holdings' descriptions",

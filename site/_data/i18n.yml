@@ -24,6 +24,7 @@ en:
     timeline: Timeline
     people: People
     places: Places
+    cemeteries: Cemeteries
     glossary: Glossary
     sources: Sources
     newspapers: Newspapers
@@ -395,6 +396,24 @@ en:
   np_hint_orig: The item as printed, line by line.
   place_more: More about the place
   place_on_places: The place is one of the estates in focus; its documents are listed under it on the Places page.
+  cem_h1: Cemeteries
+  cem_lede: >-
+    The Evangelical cemeteries of the Trąbczyn and Zagórów area and its
+    neighbourhood, visited and their headstones read in 2023: what remains
+    of each, and the names its stones still carry.
+  cem_graves: Graves
+  cem_visited: Visited
+  cem_place: Place
+  cem_names_h2: The headstones
+  cem_th_name: Name
+  cem_th_born: Born
+  cem_th_died: Died
+  cem_th_note: Note
+  cem_gid_note: >-
+    A number in brackets after a name is the survey's genealogical
+    identifier, kept as it was noted.
+  cem_sources_h2: Sources
+  cem_read: Read about this cemetery
   place_source_link: The page as the Wayback Machine archived it
   place_hint_en: The English translation by Claude; the original decides.
   place_hint_orig: The source as it prints, paragraph for paragraph.
@@ -429,6 +448,7 @@ de:
     timeline: Zeitleiste
     people: Personen
     places: Orte
+    cemeteries: Friedhöfe
     glossary: Glossar
     sources: Quellen
     newspapers: Zeitungen
@@ -806,6 +826,24 @@ de:
   np_hint_orig: Das Stück, wie es gedruckt ist, Zeile für Zeile.
   place_more: Mehr über den Ort
   place_on_places: Der Ort ist eines der betroffenen Güter; seine Dokumente sind auf der Seite Orte unter ihm aufgeführt.
+  cem_h1: Friedhöfe
+  cem_lede: >-
+    Die evangelischen Friedhöfe der Gegend von Trąbczyn und Zagórów und
+    ihrer Umgebung, besucht und ihre Grabsteine 2023 gelesen: was von jedem
+    übrig ist und welche Namen seine Steine noch tragen.
+  cem_graves: Gräber
+  cem_visited: Besucht
+  cem_place: Ort
+  cem_names_h2: Die Grabsteine
+  cem_th_name: Name
+  cem_th_born: Geboren
+  cem_th_died: Gestorben
+  cem_th_note: Anmerkung
+  cem_gid_note: >-
+    Eine Zahl in Klammern nach einem Namen ist die genealogische Kennnummer
+    der Aufnahme, so wie sie notiert wurde.
+  cem_sources_h2: Quellen
+  cem_read: Mehr über diesen Friedhof
   place_source_link: Die Seite, wie das Wayback Machine sie archiviert hat
   place_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
   place_hint_orig: Die Quelle, wie sie druckt, Absatz für Absatz.

@@ -1,0 +1,52 @@
+# The cemetery at Łazińsk Pierwszy (docs/CEMETERIES_PLAN.md).
+# The account is the survey's own paragraph, kept as written (the
+# footnote marker for the sign's source moved to the sources list).
+slug: lazinsk-pierwszy
+order: 1
+title: "Łazińsk Pierwszy Lutheran Cemetery"
+title_de: "Lutherischer Friedhof in Łazińsk Pierwszy"
+# The gazetteer carries the two Łazińsk villages in one entry until the
+# editor's split is in (NEEDS_CONFIRMATION, "The cemeteries"); the anchor
+# is that entry's.
+place: lazinskie-oledry
+place_anchor: lazinskie-oledry
+place_name: "Łazińsk Pierwszy"
+place_name_de: "Łazińsk Pierwszy"
+graves: "7"
+visited: "2023"
+account_en: >-
+  The remains of the cemetery in Łazińsk Pierwszy are preserved on a very
+  small corner piece of land, with a thicket of small trees rising from a
+  hill behind the graves. A closer inspection revealed the remains of one
+  grave in the bush, indicating the possibility of more graves deeper in
+  this area. An information sign has been erected by the local
+  Evangelical-Augsburg Parish in Konin in 2018 along with a modern memorial
+  stone and cross placed "in memory of the former German Evangelical fellow
+  citizens" on a cleared corner portion of the cemetery. The same sign
+  indicated that in the 1930s there were over 180 wooden crosses in the
+  cemetery. Today the land is privately owned.
+account_de: >-
+  Die Überreste des Friedhofs in Łazińsk Pierwszy sind auf einem sehr
+  kleinen Eckgrundstück erhalten, hinter den Gräbern wächst aus einem Hügel
+  ein Dickicht junger Bäume empor. Bei näherer Untersuchung zeigten sich im
+  Gebüsch die Überreste eines Grabes, was auf die Möglichkeit weiterer
+  Gräber tiefer in diesem Bereich hinweist. Die örtliche
+  Evangelisch-Augsburgische Pfarrei in Konin hat 2018 eine Informationstafel
+  aufstellen lassen, zusammen mit einem modernen Gedenkstein und Kreuz, gesetzt
+  „zum Gedenken an die ehemaligen deutschen evangelischen Mitbürger“, auf
+  einem geräumten Eckteil des Friedhofs. Dieselbe Tafel gab an, dass es in
+  den 1930er Jahren über 180 Holzkreuze auf dem Friedhof gab. Das Land steht
+  heute in Privatbesitz.
+sources:
+  - slug: slowinskipolom2024
+    label_en: >-
+      The information sign of 2018 and the memorial stone and cross, after
+      Słowiński and Połom (2024), p. 53 — the work stands on the site as a
+      summary of its contents.
+    label_de: >-
+      Die Informationstafel von 2018 und der Gedenkstein und das Kreuz, nach
+      Słowiński und Połom (2024), S. 53 — das Werk steht auf der Website als
+      Zusammenfassung seines Inhalts.
+    url: /literature/slowinskipolom2024/
+    link_en: "the work's page"
+    link_de: "die Seite des Werks"

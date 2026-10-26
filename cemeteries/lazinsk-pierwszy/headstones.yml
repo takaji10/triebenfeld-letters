@@ -1,0 +1,21 @@
+# The headstones of the cemetery at Łazińsk Pierwszy, as the survey reads
+# them - nothing tidied (docs/CEMETERIES_PLAN.md, section 2). A `gid:` is
+# the survey's genealogical identifier (the editor: kept); the survey's
+# figure references are left out.
+- name: "Hohm, August"
+  born: "1835"
+  died: "08.03.1920"
+- name: "Hohm, Christine"
+  born: "1846"
+  died: "04.05.1921"
+- name: "Haupt, August"
+  born: "26.11.1853"
+  died: "05.03.1931"
+- name: "Rosentreter, Gerhart"
+  born: "10.10.1940"
+  died: "05.11.1940"
+- name: "Zellmer, Eduard"
+  gid: "267"
+  born: "27.01.1855"
+  died: "17.06.1915"
+  note: '"Er war Kantor 34 Jahre in Lazinsk"'

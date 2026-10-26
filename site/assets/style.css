@@ -695,3 +695,19 @@ body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display
 .lit-links-docs a, .lit-doclinks-pages a { margin-right: .6rem; white-space: nowrap; }
 .lit-doclinks p { margin: 0 0 .45rem; }
 .lit-doclinks-pages { font-family: var(--sans); font-size: .85rem; }
+
+/* ---------------------------------------------------------- cemeteries */
+/* The headstones table (docs/CEMETERIES_PLAN.md): one row per headstone,
+   the reading kept as the survey has it. */
+.cem-table-wrap { max-width: 62rem; margin: 1.6rem 0 0; }
+.cem-table { border-collapse: collapse; font-size: .95rem; width: 100%; }
+.cem-table th, .cem-table td { text-align: left; vertical-align: top;
+  padding: .35rem .8rem .35rem 0; border-bottom: 1px solid var(--rule); }
+.cem-table th { font-family: var(--sans); font-size: .78rem; font-weight: 600;
+  color: var(--ink-faint); border-bottom: 1px solid var(--rule); }
+.cem-table td:first-child { min-width: 14rem; }
+.cem-fn { font-family: var(--sans); font-size: .8rem; white-space: nowrap; }
+.cem-sources { margin: 1.6rem 0 0; }
+.cem-sources ul { list-style: none; padding: 0; margin: .4rem 0 0;
+  font-size: .9rem; color: var(--ink-soft); }
+.cem-sources li { margin-bottom: .35rem; }

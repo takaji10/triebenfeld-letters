@@ -450,6 +450,59 @@ def main():
         print(f'  tier1 {len(pi.get("tier1") or [])}, '
               f'tier2 {len(pi.get("tier2") or [])}')
 
+    # The cemeteries (docs/CEMETERIES_PLAN.md): every cemetery of the survey
+    # has its page in both languages, carries the account and every headstone
+    # row it reads, the list page links it, and a place resolved to the
+    # Places page's index anchors on that page in both languages.
+    cm_data = os.path.join(ROOT, 'site', '_data', 'cemeteries.yml')
+    if os.path.isfile(cm_data):
+        import yaml
+        with io.open(cm_data, encoding='utf-8') as f:
+            cems = yaml.safe_load(f) or {}
+        print('checking the cemeteries...')
+        cem_root = os.path.join(ROOT, 'cemeteries')
+        for slug, c in cems.items():
+            for base in ('cemeteries', os.path.join('de', 'friedhoefe')):
+                page = os.path.join(SITE, base, slug, 'index.html')
+                if not os.path.isfile(page):
+                    fail(f'cemetery page: no page {base}/{slug}/')
+                    continue
+                with io.open(page, encoding='utf-8') as f:
+                    built = html.unescape(f.read())
+                acct = 'account_de' if base.startswith('de') else 'account_en'
+                if (c.get(acct) or '')[:60] not in built:
+                    fail(f'cemetery page: {base}/{slug}/ does not carry the '
+                         f'account')
+                hs_path = os.path.join(cem_root, slug, 'headstones.yml')
+                if os.path.isfile(hs_path):
+                    with io.open(hs_path, encoding='utf-8') as f:
+                        rows = yaml.safe_load(f) or []
+                    for h in rows:
+                        if h.get('name') and h['name'] not in built:
+                            fail(f'cemetery page: {base}/{slug}/ does not '
+                                 f'carry the headstone {h["name"]}')
+            for base in ('cemeteries', os.path.join('de', 'friedhoefe')):
+                list_page = os.path.join(SITE, base, 'index.html')
+                if os.path.isfile(list_page):
+                    with io.open(list_page, encoding='utf-8') as f:
+                        lp = f.read()
+                    if slug not in lp:
+                        fail(f'cemetery page: /{base}/ does not link {slug}/')
+        # A place named without its own page, linked to the index's anchor,
+        # anchors on the Places page in both languages.
+        for slug, c in cems.items():
+            if c.get('place_url_en') and '#' in (c.get('place_url_en') or ''):
+                anchor = c['place_url_en'].split('#')[1]
+                for base in ('places', os.path.join('de', 'orte')):
+                    list_page = os.path.join(SITE, base, 'index.html')
+                    with io.open(list_page, encoding='utf-8') as f:
+                        lp = f.read()
+                    if f'id="{anchor}"' not in lp:
+                        fail(f'cemetery page: {slug} links #{anchor}, which '
+                             f'/{"de/orte" if base.startswith("de") else "places"}/ '
+                             'does not carry')
+        print(f'  {len(cems)} cemetery pages')
+
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.
     links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')

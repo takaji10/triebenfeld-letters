@@ -1,0 +1,40 @@
+# The cemetery at Huta Łazińska (docs/CEMETERIES_PLAN.md).
+# The account is the survey's own paragraph, kept as written.
+slug: huta-lazinska
+order: 2
+title: "Huta Łazińska Lutheran Cemetery"
+title_de: "Lutherischer Friedhof in Huta Łazińska"
+place: huta-trabczynska
+place_name: "Huta Łazińska"
+place_name_de: "Huta Łazińska"
+graves: "15"
+visited: "2023"
+account_en: >-
+  This cemetery is well maintained and includes a modern fence that has been
+  installed alongside the road. An information sign was erected by the local
+  Evangelical-Augsburg Parish in Konin in 2018 along with a modern memorial
+  stone and cross placed "in memory of the former German Evangelical fellow
+  citizens."
+account_de: >-
+  Dieser Friedhof ist gut in Stand gehalten und hat einen modernen Zaun,
+  der entlang der Straße gesetzt wurde. Die örtliche
+  Evangelisch-Augsburgische Pfarrei in Konin hat 2018 eine Informationstafel
+  aufstellen lassen, zusammen mit einem modernen Gedenkstein und Kreuz,
+  gesetzt „zum Gedenken an die ehemaligen deutschen evangelischen
+  Mitbürger“.
+sources:
+  - slug: agoff83943
+    label_en: >-
+      "Der evangelische Friedhof in Łazińsk Drugi" [The Protestant cemetery
+      in Łazińsk Drugi], Arbeitsgemeinschaft Ostdeutscher Familienforscher
+      (Jürgen Frantz, 31 July 2016) — the article is reserved to the
+      society's registered members.
+    label_de: >-
+      „Der evangelische Friedhof in Łazińsk Drugi" [Der evangelische
+      Friedhof in Łazińsk Drugi], Arbeitsgemeinschaft Ostdeutscher
+      Familienforscher (Jürgen Frantz, 31. Juli 2016) — der Artikel ist den
+      angemeldeten Mitgliedern der Gesellschaft vorbehalten.
+    url: https://agoff.de/?p=83943
+    link_en: "agoff.de"
+    link_de: "agoff.de"
+    external: true
