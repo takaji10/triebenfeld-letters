@@ -2461,6 +2461,18 @@ cloud branches").
   holding's staged pages there too. Recovery if it happened anyway:
   `git checkout -- units/*/page_scan_map.csv` and the other churned
   generated files, then rebuild.
+  **And when the merge comes** (2026-10-26, publishing): remote `main`
+  moves while you work - fetch and merge immediately before pushing, and
+  expect a second merge if the other session pushes in between. Resolve a
+  generated-file conflict by taking either side and rebuilding
+  (`regenerate.py --site` rewrites them all), but anything spliced into
+  those files by hand goes with the side you took: this holding's summary
+  lines vanished with `site/_data/summaries*.yml` taken from the other
+  side, and `holding.py --summaries` had to be run again. The guide's
+  hand-kept figures (documents, pages, translated, undated, marks of
+  doubt) must be recomputed against the merged state, not either side's -
+  the merged truth was 629 documents on 2,089 pages in 50 holdings, 625 of
+  629 translated, 19 undated, 910 marks of doubt.
 - **A table with no column of entry numbers** (2026-10-26, APP 53/21/0/-/
   Pyzdry Gr.115): `unitlib.table_of` sorted a table by its first column's
   numbers and crashed (`StopIteration`) on a table that has none - the
