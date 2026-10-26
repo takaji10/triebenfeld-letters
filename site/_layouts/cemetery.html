@@ -40,7 +40,7 @@ layout: default
   <p class="lit-caveat">{{ t.cem_gid_note }}</p>
   {%- endif %}
 
-  {%- if cem.sources %}
+  {%- if cem.sources and cem.sources != empty %}
   <section class="cem-sources" id="cem-sources">
     <h2>{{ t.cem_sources_h2 }}</h2>
     <ul>

@@ -1275,7 +1275,11 @@ entries (the editor's word).
       drafted from the survey. Say yes and they enter the gazetteer and
       the three linkless cemetery pages get their place links.
 - [x] **Published at your word (2026-10-26)**: the branch merged to main
-      and pushed; the "Build and deploy" run to confirm.
+      and pushed; the "Build and deploy" run succeeded (run 40390595863,
+      2m10s) and the pages answer on the live site. A follow-up fix pushed
+      the same evening: an empty Sources list made the layout print the
+      "Sources"/"Quellen" heading with nothing under it on the seven
+      cemeteries that cite no source of their own.
 
 ## 37. APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784 (added, translated and published 2026-10-26, branch `app5320pozgr1181`)
 
