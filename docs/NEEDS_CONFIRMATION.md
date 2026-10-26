@@ -1182,6 +1182,23 @@ Places (`reference/places.yml`, `open_questions`):
   together.
 - To split when the documents arrive: Łukomskie Olędry (two places under one
   name) and Trombschino-Hauland (now matched to Trąbczyn).
+- **APP 53/21/0/-/Pyzdry Gr.115** (added 2026-10-26; the holding's notes.md
+  carries the details; settled the same day at the editor's word, "use my
+  transcription, which is correct" - the sheet planned for it was never
+  needed):
+  - ~~The middle figure of the table's first row~~ Settled: the village of
+    Trąbczyn reads 21, **22**, 84, and the transcription is the editor's own
+    and correct - the row stands as transcribed. The doubling of the other
+    rows (h, 2h, 4h) is an observation of the table, recorded in the
+    holding's notes; nothing is built on it.
+  - ~~What the two figure columns after the hearths are~~ Settled: "gara
+    zyta" and "gara owcza" stand as written, the English keeps the words.
+  - ~~Whether the page carries a dated sitting heading above the table's
+    entry~~ Settled: no dated heading is carried; the document stays
+    undated (`no_date` in its rulings.yml).
+  - "z Hutą" in the row of the Hollander settlements: whether the Huta is a
+    distinct place of the colonies or the colonies' smith, and so whether a
+    place entry is wanted. No entry until the editor rules.
 
 - **People split into one entry each (2026-10-04).** Michaelis (court fiscal 1798;
   merchant 1809; Christiane Dorothea, née Eichborn), Goldbeck (the Grand Chancellor; the

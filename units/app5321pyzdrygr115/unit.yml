@@ -1,0 +1,106 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app5321pyzdrygr115
+ref: 53/21/0/-/Pyzdry Gr.115
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Page 543 of the Relationes [protocollon] of 1791-1792, the register of the
+  grod court and office of Pyzdry: the parish of Trąbczyn's table of
+  agricultural hearths (dymy rolne) and of two columns of figures its
+  headings call gara, village by village - the village of Trąbczyn, the
+  parsonage, Nowa Wieś, Osiny, Łazy, the smithy of Maryantów, and the
+  scattered Hollander settlements old and new with the Huta.
+title_de: >-
+  Seite 543 des Relationes [protocollon] von 1791-1792, dem Register des
+  Burggerichts und -amts Pyzdry: die Tabelle der Pfarrei Trąbczyn über
+  Rauchfangstände (dymy rolne) und zwei Spalten von Zahlen, die ihre Köpfe
+  gara nennen, Dorf für Dorf - das Dorf Trąbczyn, die Pfarrei, Nowa Wieś,
+  Osiny, Łazy, die Schmiede von Maryantów und die verstreuten
+  Holländersiedlungen alte und neue mit der Huta.
+# The archive's own title of the unit, as the editor gave it. Kept for
+# reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1791-1792
+# The fonds, as for the court books of the Prusimski era (the editor,
+# 2026-10-26), with the archive's context and account of the creator from
+# szukajwarchiwach (jednostka 984641) on the holding's page.
+fonds: Księgi sądu i urzędu grodzkiego w Pyzdrach
+# The span of the holding's title; the one entry transcribed carries no date
+# of its own (see rulings.yml).
+date_span: 1791-1792
+status: translated        # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. 1791-1792 is the
+# last years before the partition, Antoni Prusimski's: the hearth-tax register
+# of 1789 (app53640kalisztab21) and the visitation of 1791 (adwl85) stand in
+# the same era.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# The folder holds two images: 543_trim.jpg, the editor's own trim of page 543
+# of the register, and 542v-543.jpg, the spread. Only 543_trim.jpg is used -
+# the editor's word (2026-10-26): page 543 is the page of the unit in focus.
+# The scans are already single pages, so crop_scans.py is not run;
+# intake/holding.py --crop places the one page (courtbook.cut, the Kalisz
+# Tab.21 way). raw_glob is the stage_pages stem and must stay as it is.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1791-1792 (53.21.0.-.Pyzdry Gr.115)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_21_0_Pyzdry_Gr_115
+
+# One file per page, named by page id (0543_a.txt). Made by intake/holding.py
+# from intake/table.csv, the editor's transcription of the table.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One page of a register of the grod court and office of Pyzdry, on the
+  editor's own trim of the photographed page 543: the head of a table of the
+  parish of Trąbczyn in Polish, the entry of 1791 or 1792. The table has five
+  columns: the parish (Parofie, for Parafie), the names of the towns, villages
+  and demesne farms, the agricultural hearths (dymy rolne), and two columns of
+  dues in sheaves, of rye (gara zyta) and the second left as written (gara
+  owcza). Seven rows stand under the parish of Trąbczyn: the village of
+  Trąbczyn itself, 21 hearths, 22 and 84 sheaves; the parsonage (Plebania), 4,
+  8 and 16; Nowawieś, 5, 10 and 20; Osiny, 6, 12 and 24; Łazy, 5, 10 and 20;
+  Kuznia Maryantów, the smithy, 1, 2 and 4; and Hollendry Luzne Stare i nowe z
+  Hutą, the scattered Hollander settlements old and new with the Huta, 31, 62
+  and 124. In every row but the first the figures double from column to
+  column; in the first the middle figure is read 22 where the doubling would
+  give 42 - kept as written, the transcription the editor's own and correct
+  (the editor, 2026-10-26). The entry stands in the
+  first half of the page; the rest of the page belongs to the entry after and
+  is not transcribed (the editor's word).
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  The document is a table and is transcribed as one: each line of the text is
+  a row, its cells separated by commas. The spelling is the editor's own
+  transcription of the clerk's hand and stays as written, marks of the page
+  only: Parafie in the heading, Wies Trąbczyn, Nowawieś, Hollendry Luzne
+  Stare i nowe z Hutą. "Dymy rolne" is agricultural hearths, the base of the
+  hearth tax. "Gara zyta" and "gara owcza", the two figure columns after the
+  hearths, stand as written - the transcription is the editor's own and
+  correct (the editor, 2026-10-26); the English keeps the words. A row's
+  empty parish cell belongs to the parish named above it. The English renders
+  the common words and leaves the names as written.

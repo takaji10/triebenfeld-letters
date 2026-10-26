@@ -1,0 +1,43 @@
+# Editorial rulings for 53/21/0/-/Pyzdry Gr.115 (APP).
+#
+# One document: the head of a table of the parish of Trąbczyn, on page 543 of
+# the Relationes [protocollon] of 1791-1792. Established 2026-10-26.
+
+places:
+  overrides: {}
+
+dates:
+  # Nothing in the editor's transcription carries a date: the table stands on
+  # page 543 of the register and the reading of the entry's own heading, if
+  # the page carries one, waits on the editor (intake/holding.py, notes.md).
+  # The holding's span, 1791-1792, is the archive's title (unit.yml).
+  read: {}
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: ["1"]
+
+documents:
+  doc_type:
+    "1": register
+
+  language:
+    "1": "pl"
+
+  # Transcribed as a table: each line of the text is a row, its cells
+  # separated by commas. The table has no column of entry numbers; the
+  # parish stands in the first cell (unitlib.table_of, 2026-10-26).
+  tables: ["1"]
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  # Every row is a place of the parish of Trąbczyn.
+  estates:
+    "1": [trabczyn]
+
+damage:
+  letters: []

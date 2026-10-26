@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 628 documents on 2,088 pages, dated from 1173 to 1936. The oldest are
+The edition holds 629 documents on 2,089 pages, dated from 1173 to 1936. The oldest are  
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-nine holdings in six archives and a library:
+The documents come from fifty holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -46,11 +46,13 @@ The documents come from forty-nine holdings in six archives and a library:
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
   administration of its Polish provinces, of the foreign ministry and of the state treasury;
 - the **State Archive in Poznań**: entries from the court books of Konin and Kalisz on the
-  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (22
-  holdings, 93 documents), among them the report of 1727 in which the
+  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (23
+  holdings, 94 documents), among them the report of 1727 in which the
   court messenger Sebastian Szetlewicz of Szetlewek records serving a citation at
   Szetlew; thirteen pages of the hearth-tax register of the Kalisz
-  voivodeship for 1789; a court record of 1806; copies made about 1930 of papers on the
+  voivodeship for 1789; the head of the table of the parish of Trąbczyn on page 543
+  of the register of the grod court and office of Pyzdry, of 1791 to 1792; a court
+  record of 1806; copies made about 1930 of papers on the
   division of the estates; a printed summons of 1860 in a lawsuit between the owner of
   Trąbczyn and its colonists; ten research sheets in which the historian Albert Breyer
   collected the Polonised German surnames of the gmina Zagórów, with his excerpt of a
@@ -160,7 +162,7 @@ There are 910 marks of doubt in the edition. Each document's page says how many 
 
 ## The English translations
 
-Every document that has text has an English translation: 624 of the 628. They were made by
+Every document that has text has an English translation: 625 of the 629. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.
@@ -190,7 +192,7 @@ document; the page of each holding says how its summaries were made.
 
 **Dates.** About nine documents in ten carry their own date. The others are dated by the
 editor from the manuscript, from the letters on either side, or from a second copy, and
-each document says which. Eighteen remain undated.
+each document says which. Nineteen remain undated.
 
 **People.** [People]({{ '/people/' | relative_url }}) lists everyone named often enough to
 follow, with the documents that name them. Some identifications rest on context alone; each

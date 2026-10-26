@@ -2892,6 +2892,63 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-26 - APP 53/21/0/-/Pyzdry Gr.115 added, translated and published (branch app5321pyzdrygr115)
+
+- The holding built: the head of the table of the parish of Trąbczyn on
+  page 543 of the Relationes [protocollon] of 1791-1792, the register of the
+  grod court and office of Pyzdry (fond "Księgi sądu i urzędu grodzkiego w
+  Pyzdrach"), from the editor's own transcription, given as a spreadsheet
+  export and kept as `intake/table.csv` as received. One document, one page
+  (`0543_a`, the editor's own trim of the photographed page), seven rows and
+  a heading row: the village of Trąbczyn, the parsonage, Nowawieś, Osiny,
+  Łazy, "Kuznia Maryantów" and "Hollendry Luzne Stare i nowe z Hutą", each
+  with its hearths (dymy rolne) and the two figures the headings call "gara
+  zyta" and "gara owcza".
+- Only `543_trim.jpg` is used, the editor's word; the spread `542v-543.jpg`
+  stays out, and only the table in the page's first half is transcribed.
+- The one reading changed at the editor's word, given in chat while they
+  were away from the PC: the heading's "Parofie" is "Parafie" (applied by
+  the intake script's `--correct`, logged).
+- The editor's rulings of the day: "Kuznia Maryantów" is the Marianton of
+  the edition - Mariantów, where the Hohenlohe patrimonial court for
+  Trąbczyn sat. `reference/places.yml` (`mariantow`) now also matches
+  "Maryantów", which brings the Prussian table's "Maryantow."
+  (agad1169011745, row 175, unmatched before) in as well; 4 hits in 3
+  documents, each line read. The Trąbczyn figure (22, where the doubling of
+  the other rows gives 42) stands as written, the editor to resolve it.
+- A table with no column of entry numbers: `unitlib.table_of` crashed on
+  one (StopIteration). Extended: where no row has a number in its first
+  cell, the figure rows are the body and the rows above the first of them
+  the head; in `render_table` the first cell belongs with the name and no
+  row takes the total styling, judged over the whole table. Checked the way
+  shared code is checked: the pristine and the new code over every existing
+  table, parse and render page by page, outputs identical
+  (`pipeline/review/verify_table_of_diff.py`, 12 table documents in 5 units). The
+  first cut of the change got the polarity and the scope of the new flag
+  wrong; the before-and-after check caught both.
+- Translated in session (the English table, hand-written, the common words
+  rendered, the names as written); summaries in both languages, written in
+  session. The index extended:
+  "Maryantów" (above), the comma-bounded "Łazy" of the table rows (the
+  hearth-tax register's entry 180 comes in with it), and "Hollendry Luzne
+  Stare i nowe" matched to both Olęder colony entries, as the visitation's
+  "Olędry nowe i stare" already is.
+- The editor's closing word of the day, in chat: "No spot sheet is
+  necessary - use my transcription, which is correct." The figures stand as
+  transcribed (the village's row 21, 22, 84), the "gara" headings stand as
+  written, and no dated heading is carried - the document stays undated.
+  The sheet built for the holding was removed from the branch unused and
+  its server stopped. Open: only whether the Huta of the Hollendry row is a
+  distinct place (NEEDS_CONFIRMATION).
+- The glossary gate passes (0 candidates); the site verifies clean (628
+  documents, text exact, tables checked cell by cell). The edition guide's
+  counts corrected (forty-nine holdings) and the Poznań bullet extended,
+  English and German; the era's blurb names the table. Published at the
+  editor's word, 2026-10-26: merged to main with the Szetlewicz holding
+  built in parallel (the edition 629 documents in 50 holdings) and pushed.
+- Still open (NEEDS_CONFIRMATION): whether the Huta of the Hollendry row is
+  a distinct place.
+
 ## 2026-10-26 - APP 53/968/0/-/782: Tropiczyner Holl. identified; published
 
 - The editor ruled: "Tropiczyner Holl.", the contract's dateline, is the

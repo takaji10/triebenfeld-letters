@@ -119,6 +119,34 @@ so check them.
 
 ## Where things stand (2026-10-26)
 
+- **APP 53/21/0/-/Pyzdry Gr.115** (slug `app5321pyzdrygr115`, added
+  2026-10-26 on the branch `app5321pyzdrygr115`, **published 2026-10-26**): the head
+  of the
+  table of the parish of Trąbczyn on page 543 of the Relationes
+  [protocollon] of 1791-1792, the register of the grod court and office of
+  Pyzdry, fond "Księgi sądu i urzędu grodzkiego w Pyzdrach" - one document
+  on one page, the editor's own trim (`543_trim.jpg`; the spread
+  `542v-543.jpg` left out at their word), built from the editor's CSV
+  (`intake/table.csv`), **which the editor ruled correct and authoritative**
+  ("use my transcription, which is correct"): seven rows of the parish with
+  their hearths (dymy rolne) and two figure columns the headings call "gara
+  zyta" and "gara owcza", all standing as transcribed; no dated heading
+  carried, the document undated. Status `translated`; translated in session
+  by hand (the English table, the summaries); era `prusimski-boundary`.
+  Rulings given in chat while the editor was away from the PC: the heading's
+  "Parofie" is "Parafie"; "Kuznia Maryantów" is the Marianton of the edition
+  (`mariantow` now matches "Maryantów", which brings the Prussian table's
+  "Maryantow." in with it); no spot sheet was needed - the transcription
+  answers the figure (22 as written, the doubling of the other rows an
+  observation only), the gara columns and the sitting heading. The table has
+  no entry-number column: `unitlib.table_of` and
+  `render_table` extended, checked against every existing table
+  (`pipeline/review/verify_table_of_diff.py`). Worked in a worktree - a
+  second session was building in the main checkout (WORKING_NOTES, "Two
+  sessions, one working copy"). Open: the Huta (NEEDS_CONFIRMATION). Read
+  `units/app5321pyzdrygr115/notes.md` first. The holding counts 1 document
+  and 1 page; the edition has 629 documents in 50 holdings.
+=======
 - **APP 53/4/0/-/62** (slug `app534062`, added and **published 2026-10-26**):
   one entry, in Latin, at the foot of
   page 222 of the relation and citation book of the land court at Kalisz
@@ -147,7 +175,7 @@ so check them.
   "de Juris Firma/Forma", the "eam"/"eamdem" mark; "De quo praesens
   Relatio"; a timeline event (offered, none added). Read
   `units/app534062/notes.md` first. The holding counts 1 document and
-  1 page; the edition has 628 documents in 49 holdings.
+  1 page; the edition has 629 documents in 50 holdings.
 
 - **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
   2026-10-25 on the branch `app539680782`, **published 2026-10-26**): the
