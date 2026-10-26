@@ -1,2 +1,4 @@
 ﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
-1,6,run,review,short_line,0.03,10,291,4ta Martii,Actum in Fundo Bonorum Villae Trąmpczyn Curiaque ibidem sitta Feria se
+1,4,break,high,short_line+column,0.12,10,85,4ta Martii,Actum in Fundo Bonorum Villae Trąmpczyn Curiaque ibidem sitta
+1,5,break,high,short_line+column,0.72,61,85,Actum in Fundo Bonorum Villae Trąmpczyn Curiaque ibidem sitt,Feria secunda post Dominicam Judica Quadragesimalim proxi-
+1,7,run,review,short_line,0.65,55,85,ma die scilicet Vigesima Nona Mensis Martii Anno Domini,Millesimo Septingentesimo Octuagesimo Quarto Praesentibus Magnificis e

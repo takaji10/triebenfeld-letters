@@ -1157,18 +1157,28 @@ loads, the sisters' heirs, the abbey of Ląd's quietation. Your own
 transcription; 108 readings settled in session before the first build
 (intake/changes_applied.md, with the witness of each).
 
-- [ ] **You: the spot sheet**, 66 rows, live at
+- [ ] **You: the spot sheet**, 62 rows, live at
       https://takaji10.github.io/triebenfeld-spot/sheets/app5320pozgr1181/
       (the same page keeps your answers on the phone until you copy them;
       paste the block back into the chat). The crops were placed by machine
-      and are unchecked - tap "wrong line" where a picture misses its line.
-      The sheet carries the date questions (the digit of 178[?], the register
-      heading, the 8 October 1782 day), the open names and words, the
-      proposals (sab~bo, diversae, conjuges, sororem, Kotarbski...), and two
-      principle rows ruling on the case completions as a lot.
-- [ ] After the sheet: apply the answers, translate and summarise in session,
-      claim-check, write the holding's page in both languages, rule the index
-      (the new persons and the estates), the glossary and the timeline.
+      and are unchecked - tap "wrong line" where a picture misses its line,
+      or "not shown on crop" where the word is not there to read. Four rows
+      you settled with the fresh p. 161 pass are gone; the two principle
+      rows now ask whether the session's 108 proposed completions (applied,
+      then withdrawn to match your transcription) go back in.
+- [x] Your p. 161 laid out in the manuscript's lines (2026-10-26): carried
+      into the corpus verbatim, with your five fresh readings; the words
+      verified against your original file, nothing lost.
+- [ ] You: the lineation of pp. 161v-167v, when you are at the scans - the
+      session measured itself against your p. 161 and cannot do it
+      unsupervised (boundaries drift 2-4 words; line counts off by up to
+      12). Machine drafts are in `intake/lineation_draft/` as a typing aid,
+      or lay the pages out as you did 161; the corpus takes your layout
+      either way.
+- [ ] After the sheet and the lineation: apply the answers, translate and
+      summarise in session, claim-check, write the holding's page in both
+      languages, rule the index (the new persons and the estates), the
+      glossary and the timeline.
 - [ ] The entry breaks off mid-sentence at the foot of 167v: whether the
       archive's next leaf is to come is on the sheet (`tail_167v`); if it is,
       the entry is excerpted and the site says so.

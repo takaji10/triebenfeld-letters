@@ -5766,7 +5766,7 @@
   "sender": "",
   "recipient": "",
   "n_pages": 14,
-  "n_lines": 33,
+  "n_lines": 66,
   "scans": [
    {
     "page": 1,
@@ -5839,11 +5839,11 @@
     "image": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg"
    }
   ],
-  "uncertainty_count": 247,
+  "uncertainty_count": 356,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 14,
+  "places_named": 13,
   "estates": [],
   "translation_status": "untranslated",
   "has_summary": false,

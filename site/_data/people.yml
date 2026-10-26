@@ -3146,14 +3146,14 @@
   name: "Bartłomiej Szepczyński, court messenger"
   heading: "Szepczyński, Bartłomiej"
   heading_de: "Szepczyński, Bartłomiej"
-  count: 20
-  docs: 17
-  life: "documented 1754-1784"
-  life_de: "belegt 1754-1784"
+  count: 19
+  docs: 16
+  life: "documented 1754-1783"
+  life_de: "belegt 1754-1783"
   bio: "Bartłomiej Szepczyński of Trąbczyn, a sworn court messenger. He inspected the Trąbczyn estate for Katarzyna Prusimska in 1754 and reported twice in 1767, for Antoni Prusimski, on the embankment that flooded the Olęder settlers."
   bio_de: "Bartłomiej Szepczyński von Trąbczyn, vereidigter Gerichtsbote. Er besichtigte 1754 das Gut Trąbczyn für Katarzyna Prusimska und berichtete 1767 zweimal für Antoni Prusimski über den Damm, der die Olęder-Siedler überschwemmte."
-  span: "1754–1784"
-  letters: [{id: "1", uid: "app53170koningr136-1", url: "/documents/app53170koningr136/1/", n: 2}, {id: "1", uid: "app53170koningr114-1", url: "/documents/app53170koningr114/1/", n: 1}, {id: "2", uid: "app53170koningr114-2", url: "/documents/app53170koningr114/2/", n: 1}, {id: "8", uid: "app53170koningr115-8", url: "/documents/app53170koningr115/8/", n: 1}, {id: "8", uid: "app53170koningr116-8", url: "/documents/app53170koningr116/8/", n: 1}, {id: "2", uid: "app53170koningr117-2", url: "/documents/app53170koningr117/2/", n: 2}, {id: "6", uid: "app53170koningr117-6", url: "/documents/app53170koningr117/6/", n: 1}, {id: "8", uid: "app53170koningr117-8", url: "/documents/app53170koningr117/8/", n: 1}, {id: "11", uid: "app53170koningr117-11", url: "/documents/app53170koningr117/11/", n: 1}, {id: "12", uid: "app53170koningr117-12", url: "/documents/app53170koningr117/12/", n: 2}, {id: "23", uid: "app53170koningr118-23", url: "/documents/app53170koningr118/23/", n: 1}, {id: "1", uid: "app53170koningr153-1", url: "/documents/app53170koningr153/1/", n: 1}, {id: "2", uid: "app53170koningr153-2", url: "/documents/app53170koningr153/2/", n: 1}, {id: "26", uid: "app53170koningr118-26", url: "/documents/app53170koningr118/26/", n: 1}, {id: "4", uid: "app53170koningr119-4", url: "/documents/app53170koningr119/4/", n: 1}, {id: "5", uid: "app53170koningr119-5", url: "/documents/app53170koningr119/5/", n: 1}, {id: "1", uid: "app5320pozgr1181-1", url: "/documents/app5320pozgr1181/1/", n: 1}]
+  span: "1754–1783"
+  letters: [{id: "1", uid: "app53170koningr136-1", url: "/documents/app53170koningr136/1/", n: 2}, {id: "1", uid: "app53170koningr114-1", url: "/documents/app53170koningr114/1/", n: 1}, {id: "2", uid: "app53170koningr114-2", url: "/documents/app53170koningr114/2/", n: 1}, {id: "8", uid: "app53170koningr115-8", url: "/documents/app53170koningr115/8/", n: 1}, {id: "8", uid: "app53170koningr116-8", url: "/documents/app53170koningr116/8/", n: 1}, {id: "2", uid: "app53170koningr117-2", url: "/documents/app53170koningr117/2/", n: 2}, {id: "6", uid: "app53170koningr117-6", url: "/documents/app53170koningr117/6/", n: 1}, {id: "8", uid: "app53170koningr117-8", url: "/documents/app53170koningr117/8/", n: 1}, {id: "11", uid: "app53170koningr117-11", url: "/documents/app53170koningr117/11/", n: 1}, {id: "12", uid: "app53170koningr117-12", url: "/documents/app53170koningr117/12/", n: 2}, {id: "23", uid: "app53170koningr118-23", url: "/documents/app53170koningr118/23/", n: 1}, {id: "1", uid: "app53170koningr153-1", url: "/documents/app53170koningr153/1/", n: 1}, {id: "2", uid: "app53170koningr153-2", url: "/documents/app53170koningr153/2/", n: 1}, {id: "26", uid: "app53170koningr118-26", url: "/documents/app53170koningr118/26/", n: 1}, {id: "4", uid: "app53170koningr119-4", url: "/documents/app53170koningr119/4/", n: 1}, {id: "5", uid: "app53170koningr119-5", url: "/documents/app53170koningr119/5/", n: 1}]
 - slug: "janko-syn-szymona"
   name: "Janko, son of Szymon"
   heading: "Szymon, Janko syn"

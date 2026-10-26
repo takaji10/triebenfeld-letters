@@ -765,12 +765,12 @@
   letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 2}, {id: "3", uid: "ihagrrep7cnr1414-3", url: "/documents/ihagrrep7cnr1414/3/", n: 1}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/", n: 3}]
 - slug: "wielun"
   name: "Wieluń"
-  count: 5
+  count: 6
   lat: 51.22045
   lon: 18.5701
   docs: 4
   span: "1782–1805"
-  letters: [{id: "1", uid: "app53170koningr153-1", url: "/documents/app53170koningr153/1/", n: 1}, {id: "1", uid: "app5320pozgr1181-1", url: "/documents/app5320pozgr1181/1/", n: 2}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/", n: 1}, {id: "7", uid: "app539680545-7", url: "/documents/app539680545/7/", n: 1}]
+  letters: [{id: "1", uid: "app53170koningr153-1", url: "/documents/app53170koningr153/1/", n: 1}, {id: "1", uid: "app5320pozgr1181-1", url: "/documents/app5320pozgr1181/1/", n: 3}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/", n: 1}, {id: "7", uid: "app539680545-7", url: "/documents/app539680545/7/", n: 1}]
 - slug: "grueneberg"
   name: "Zielona Góra (Grüneberg)"
   count: 5
@@ -801,14 +801,6 @@
   docs: 3
   span: "1280–1809"
   letters: [{id: "6", uid: "kdw-6", url: "/documents/kdw/6/", n: 2}, {id: "28", uid: "oe1bu14525-28", url: "/documents/oe1bu14525/28/", n: 1}, {id: "56", uid: "oe1bu9454-56", url: "/documents/oe1bu9454/56/", n: 1}]
-- slug: "brzesc-kujawski"
-  name: "Brześć Kujawski"
-  count: 6
-  lat: 52.60528
-  lon: 18.90111
-  docs: 3
-  span: "1776–1784"
-  letters: [{id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 4}, {id: "1", uid: "app53170koningr153-1", url: "/documents/app53170koningr153/1/", n: 1}, {id: "1", uid: "app5320pozgr1181-1", url: "/documents/app5320pozgr1181/1/", n: 1}]
 - slug: "charlottenburg"
   name: "Charlottenburg"
   count: 3
@@ -981,6 +973,14 @@
   docs: 2
   span: "1805–1815"
   letters: [{id: "1", uid: "oe1u199-1", url: "/documents/oe1u199/1/", n: 4}, {id: "264", uid: "oe1bu9454-264", url: "/documents/oe1bu9454/264/", n: 1}]
+- slug: "brzesc-kujawski"
+  name: "Brześć Kujawski"
+  count: 5
+  lat: 52.60528
+  lon: 18.90111
+  docs: 2
+  span: "1776–1782"
+  letters: [{id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 4}, {id: "1", uid: "app53170koningr153-1", url: "/documents/app53170koningr153/1/", n: 1}]
 - slug: "cieszowa"
   name: "Cieszowa (Cieschowa)"
   count: 5

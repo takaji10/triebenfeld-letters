@@ -1,1 +1,19 @@
 ﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,5,6,-,proxi,ma,proxima,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,st Dominicam Judica Quadragesimalim proxi- || ma die scilicet Vigesima Nona Mensis Marti
+1,1,8,9,-,Burgra,bio,Burgrabio,join,high,head is not a word on its own,False,0,0,0,0,1,,nivladislaviensi Thoma Zelisławski Burgra- || bio Castrensis Coninensi Dominico Zboinati
+1,1,10,11,-,Szepczyń,ski,Szepczyński,join,high,head is not a word on its own,False,0,0,0,0,1,,liis nec non Provido Bartholomeo Szepczyń- || ski de Villa Trąmpczyno Ministeriali Regni
+1,1,20,21,-,exau,das,exaudas,join,high,head is not a word on its own,False,0,0,0,55,1,,2 inter partes inferius comparitione exau- || das prolati de sui essentia sui actu primi
+1,1,22,23,-,Men,sis,Mensis,join,high,joined form occurs elsewhere in this corpus,False,21,,0,,5,,initatis proxima seu die decima sexta Men- || sis Junii anno praeterito 1783 per Officia
+1,1,23,24,-,camera,riali,camerariali,split,high,joined form unattested; both halves are real words,False,0,0,0,59350,1,16,Castrensem Gostinense Judicatus et camera- || riali Terrestre Gnesni~ expedito ad acta e
+1,1,24,25,-,obla,tam,oblatam,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,10,,m die 20 mensis et anni eorundem per obla- || tam porrecto circumscripti diem hodiernam 
+1,1,25,26,-,fun,dum,fundum,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,ernam actis praesentis determinati in fun- || dum actu specificatum Condescenderunt ibid
+1,1,26,27,-,juris,dictione,jurisdictione,split,high,joined form unattested; both halves are real words,False,0,0,1,130748,1,0,unt ibidemque fundata sua judiciali juris- || dictione et per acclamationem Ministeriali
+1,1,30,31,-,Bre,stensem,Brestensem,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,cen~ et Ludovico Judic[?]da Terrestri Bre- || stensem Cujaviae Filiis Zakrzewskie actori
+1,1,31,32,-,Pre,decendem,Predecendem,split,high,joined form unattested; both halves are real words,False,0,0,0,24823,1,0,quidem Magnificis Ignatio E[n?]sifero Pre- || decendem et Ludovico Za-
+1,1,32,33,-,Za,krzewskie,Zakrzewskie,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,decendem et Ludovico Za- || krzewskie p~lr jam vero Magnificis Paulo e
+1,1,33,34,-,ger,manis,germanis,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,s Paulo et Josepho Fratribus inter se ger- || manis Tomickie itidem actoribus et cittis~
+1,1,34,35,-,Regen,te,Regente,split,high,joined form unattested; both halves are real words,False,0,444,0,805137,2,124089,m Magnificis Jacobo Parente Josepho Regen- || te Terrestri Vielun[em?][Wieluń?] Raphaele
+1,1,35,36,-,Tworo,wicze,Tworowicze,join,high,head is not a word on its own,False,0,0,0,0,1,, cum olini Magnificum Elisabetha de Tworo- || wicze provercatis Filiis Fratribus inter s
+1,1,36,37,-,Cunegun,da,Cunegunda,join,high,head is not a word on its own,False,0,11,0,0,19,,manis Taczanowskie atque Petro et Cunegun- || da de Kowalskie invicem conjugibus Kołaczk
+1,1,37,38,-,Jose,phum,Josephum,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,, actoribus et cittis~ per Magnificum Jose- || phum Taczanowski Regentem Terrestrem Vielu
+1,1,39,40,-,Ca,pitaneo,Capitaneo,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,i Magnifico Antonio in Kolno Prusimski Ca- || pitaneo Niszczeviens[em?] Insignis S. Stan

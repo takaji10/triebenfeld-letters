@@ -28,42 +28,51 @@ condescensiones of 1775-1782) and the Kalisz Gr.414/425. Its era is
 
 ## The transcription
 
-The editor's own Latin transcription, one Markdown file (14 pages, 161 to
-167v), split into per-page files by `intake/split_and_settle.py` and settled
-in session on 2026-10-26 **before** the first build, so nothing was built
-twice.
+The editor's own Latin transcription. On 2026-10-26 (evening) the editor
+began laying it into the manuscript's lines - p. 161 is done, in their own
+layout, and stands in the corpus as they typed it (`intake/lay_lines.py`
+carries it in verbatim and verifies no word was lost). The fresh pass
+settled five readings, all on p. 161: the December year is **1783**; the
+decree day reads "**videlicet** 8ua Mensis 8bris" (the scribe's 8 stands
+against the 7 the Monday-after-St-Francis formula computes for 1782 -
+recorded as the scribe's slip or his own reckoning); "**Mens(is)**
+Junii" (the old "[??] sui" was one garbled word); "**oblatam**
+porrecto"; "**camera-/riali**" (the break as they typed it; the joined
+form is for the linebreak decisions, not assumed). A full stop after
+"acclamante." is also theirs.
 
-- **108 readings applied** (see `intake/changes_applied.md` for the table with
-  the witness of each). The rules followed are the standing ones: a reading
-  changes only where the grammar admits one reading, a fixed formula of the
-  register, an unflagged form elsewhere in the same entry, or a form attested
-  in the sibling units settles it; the scribe's spellings are kept (dicidenda,
-  oblatuata, octuigentorum, "Paturna", "fp"); his grammar is not tidied.
-- **The scribe's office forms in -ida** are confirmed by the sibling units and
-  kept: "Castellanida" (161), as "Dapiferidae Podlachiae" in Konin Gr.118 and
-  "Thesaurarida" in Gr.117. "Subdapifinda[?]" (161) is proposed as
-  "Subdapiferida" on the spot sheet.
-- **Dates proven in session** (all from the entry's own formulas and the
-  calendar, not from looking at the images - the session could not see them;
-  the letters themselves are confirmed on the spot sheet):
-  - The actum: Monday after Judica Sunday = **29 March 1784** (Judica fell on
-    Sunday 28 March 1784). The year "Octuagesimo Quarto" in the editor's
+The 108 readings the morning session had applied (case completions,
+formulas) were **withdrawn** the same day: the editor's fresh
+transcription keeps the original doubts, and their word is the source of
+truth. They wait in `intake/split_and_settle.py` with the witness of each;
+the spot sheet's two principle rows (pr_nieszwiez, pr_changes) rule
+whether they go back in.
+
+**Lineation of pp. 161v-167v waits on the editor.** The session measured
+itself against the editor's p. 161 ground truth and cannot do it
+unsupervised: char-wrap lands within +-1 word at 3 of 8 boundaries
+(drifting 2-4 words), and three line-detector attempts counted 22, 24,
+39, 41 and 50 lines against the true 38 (the hand's lines touch; the
+spacing is not uniform). Machine drafts, clearly marked, are in
+`intake/lineation_draft/` as a typing aid only; nothing of them is built.
+The other pages stand in the corpus one paragraph per page until the
+editor's layouts arrive.
+
+- **Dates** (from the entry's own formulas, checked against the calendar;
+  the letters confirmed by the editor's fresh pass where they re-read
+  them):
+  - The actum: Monday after Judica Sunday = **29 March 1784** (Judica fell
+    on Sunday 28 March 1784). The year "Octuagesimo Quarto" in the
     transcription is consistent with this and stands unless the sheet says
     otherwise.
-  - The December terminus "anno immediate elapso 178[5?]": the formula
-    "Monday after St Andrew, i.e. 1 December" fits **1783** (30 November 1783
-    was a Sunday) and not 1785 (a Wednesday). The digit itself is still to be
-    read (spot sheet, `dec_year`); if the page says 5, the scribe slipped and
-    the transcription keeps 1785.
-  - "sub~bo post Festum Immaculate Conceptionis" = **Saturday 13 December
-    1783** (the Saturday after 8 December), read "sab~bo" - supported by the
-    same word written "sab~bo"/"sabbo~" twice later in the entry (sheet row
-    `p_sabbo` confirms the letter).
-  - "die decima sexta" of "Feria secunda post Dominicam Sanctae Trinitatis" =
-    **16 June 1783** (Trinity Sunday was 15 June).
-  - The decree of 8 October 1782 ("die 8ua Mensis 8bris") against the
-    Monday-after-St-Francis formula of the same sentence (4 October 1782 was
-    a Friday; the Monday is 7 October) - open on the spot sheet.
+  - The December terminus is **1 December 1783** (the editor's reading;
+    the weekday formula agrees: 30 November 1783 was a Sunday, 1785's was
+    a Wednesday).
+  - "sub~bo post Festum Immaculate Conceptionis" = the Saturday after the
+    feast, 13 December 1783, if sub~bo is sabbato - the editor's spelling
+    stands as written; the reading is interpretation, not correction.
+  - "die decima sexta Mensis Junii" = 16 June 1783 (Trinity Sunday was
+    15 June) - the day formula now fits the calendar exactly.
 - **The entry breaks off mid-sentence** at the foot of p. 167v ("... Relictam
   viduam"). The continuation is on the next leaf, not among the scans
   (spot sheet, `tail_167v`).

@@ -22,32 +22,18 @@ completions, with sample rows.
 
 ROWS = [
     # ------------------------------------------------------------- DATES ---
+    # Settled by the editor's fresh line-by-line pass of p. 161 (2026-10-26):
+    # the December year is 1783; the decree day reads "videlicet 8ua Mensis
+    # 8bris" (the scribe's 8 stands against the computed 7 - recorded in the
+    # notes); "Mens(is)" Junii; "oblatam"; "camera-/riali". The rows for those
+    # readings are gone; the remaining date questions:
     ('heading_year', 'Dates', '0161_a', 130,
      'The register heading "4ta Martii" - does a year follow it on the page?',
      ['no year', '1785', '1786', 'other year (write it)'],
      'The entry records an actum of 29 March 1784 (the weekday formula fits '
      '1784 exactly, and its own narrative says "anno immediate elapso 1783" '
-     'for the December terminus). The volume is the protocollon of 1786. If '
+     'for the December terminus - the year 1783 now read on the page). If '
      'the heading carries a year, it says when the relation was registered.'),
-    ('dec_year', 'Dates', '0161_a', 880,
-     'The year after "anno immediate elapso" - the digit after 178?',
-     ['3', '5', 'other digit (write it)'],
-     'The formula "Monday after St Andrew\'s day, i.e. 1 December" fits 1783 '
-     '(30 Nov 1783 was a Sunday) and not 1785 (a Wednesday); the same '
-     'December dates are "anno immediate elapso 1783" twice in the entry. If '
-     'the page says 5, the scribe slipped and the transcription keeps 1785.'),
-    ('francis_day', 'Dates', '0161_a', 1100,
-     '"Feria secunda post Festum S. Francisci ... die" - the word before the '
-     'day numeral, and the numeral itself',
-     ['in die 7va', 'in die 8va', 'other (write it)'],
-     'St Francis is 4 October; in 1782 that was a Friday, so the Monday '
-     'after is 7 October. The editor read "indl~t 8ua" - read the word and '
-     'the digit.'),
-    ('junii_word', 'Dates', '0161_a', 1210,
-     'The word standing between "sexta" and "sui Junii" - what is it?',
-     ['decima (the day is 16)', 'Mens', 'other (write it)'],
-     'Monday after Trinity Sunday 1783 was 16 June, so the day formula may '
-     'be "sexta decima" - the 16th.'),
     ('tail_167v', 'Dates', '0167_b', 4300,
      'The entry breaks off mid-sentence at the foot of 167v ("... Relictam '
      'viduam"). Does the entry continue on the next leaf?',
@@ -304,67 +290,71 @@ ROWS = [
      '"Dapiferidae" in Konin Gr.118, "Thesaurarida" in Gr.117. Read the '
      'letters after "Subdapifer" and the name before it.'),
     # --------------------------------------------------------- PROPOSALS ---
-    ('p_sabbo', 'Proposals', '0161_a', 935,
-     '"sub~bo" was read as "sab~bo" (sabbato) - confirm or revert',
-     ['sab~bo stands', 'revert to sub~bo'],
-     '13 December 1783 was the Saturday after the Immaculate Conception; '
-     '"sab~bo" and "sabbo~" stand twice later in the entry.'),
+    # Readings proposed in the morning session (intake/split_and_settle.py)
+    # and WITHDRAWN the same day: the editor's fresh transcription keeps the
+    # original doubts, and their word stands until they rule here.
     ('p_diversae', 'Proposals', '0164_b', 700,
-     '"dive[n/r?]ae formae" was read as "diversae formae" - confirm or revert',
-     ['diversae stands', 'revert to divinae', 'revert to divennae'],
+     '"dive[n/r?]ae formae" - proposed: "diversae formae" - rule',
+     ['diversae', 'divinae', 'other (write it)'],
      'The silverware of the late Stephen Paul and Antoni, "of ... form".'),
     ('p_conges', 'Proposals', '0163_b', 2500,
-     '"[?]ges~" was read as "con~ges~" (conjuges) in its three places - '
-     'confirm or revert',
-     ['con~ges~ stands', 'revert'],
-     'Confirmed on the page image at the instance on p. 165 '
-     '("Theresiam de Golinskie con~ges ab una").'),
+     '"[?]ges~" (three places) - proposed: "con~ges~" (conjuges) - rule',
+     ['con~ges~', 'other (write it)'],
+     'The couples of the complanatio lines; the sibling units write '
+     '"conjuges" unflagged.'),
     ('p_solutam', 'Proposals', '0165_b', 850,
-     '"[lu?]atam" is proposed as "solutam" ("as if paid over by Kałowski") - '
+     '"[lu?]atam" - proposed: "solutam" ("as if paid over by Kałowski") - '
      'rule',
      ['solutam', 'l[u]atam', 'other (write it)'],
      'Read the letters before "atam".'),
     ('p_sororem', 'Proposals', '0163_b', 2600,
-     '"fororem[?]" is proposed as "sororem" ("this last sister") - rule',
+     '"fororem[?]" - proposed: "sororem" ("this last sister") - rule',
      ['sororem', 'fororem', 'other (write it)'],
      'Mariana is the third daughter; "soror" fits the sense. Read the first '
      'letter.'),
     ('p_kotarbski', 'Proposals', '0164_a', 2050,
-     '"Kołarbski[?]" is proposed as "Kotarbski" (the family as on p. 165) - '
+     '"Kołarbski[?]" - proposed: "Kotarbski" (the family as on p. 165) - '
      'rule',
      ['Kotarbski', 'Kołarbski', 'other (write it)'],
      'Read the fourth letter (ł or t).'),
     ('p_alterius', 'Proposals', '0163_a', 1430,
-     '"altenius [post/parte?]" was read as "alterius post" (the second '
-     'wadion, made after the sterile death of 1708) - confirm or revert',
-     ['alterius post stands', 'revert to altenius', 'other (write it)'],
-     '"altenius" is not a Latin word; "alterius" (the wadion of the other '
-     'brother) was applied in session. Read both words.'),
+     '"altenius [post/parte?]" - proposed: "alterius post" (the second '
+     'wadion, made after the sterile death of 1708) - rule',
+     ['alterius post', 'altenius post', 'other (write it)'],
+     '"altenius" is not a Latin word. Read both words.'),
     ('p_actis', 'Proposals', '0167_b', 2050,
-     '"coram autis[?] Castrensis" is proposed as "coram actis Castrensis" - '
+     '"coram autis[?] Castrensis" - proposed: "coram actis Castrensis" - '
      'rule',
      ['actis', 'autis', 'other (write it)'],
-     'The formula stands four times in the entry. Read the letters.'),
+     'The formula "coram actis Castrensis" stands four times in the entry. '
+     'Read the letters.'),
     ('p_autem', 'Proposals', '0164_a', 1200,
-     '"jam autoni[?] indictionem" is proposed as "jam autem" - rule',
+     '"jam autoni[?] indictionem" - proposed: "jam autem" - rule',
      ['autem', 'other (write it)'],
      'Read the word: "now however the indiction ... was removed".'),
     # --------------------------------------------------------- PRINCIPLES --
     ('pr_nieszwiez', 'Principles', '0161_a', 1450,
      'The endings of "Nieszczeviec-" (the captain of Nieśwież, 12 places) '
-     'were completed by the grammar of each sentence (dative -i, accusative '
-     '-em, genitive -is), the scribe\'s stem kept. Rule on the principle',
-     ['accept the completions', 'review each on a later sheet', 'revert all'],
+     'were PROPOSED to be completed by the grammar of each sentence (dative '
+     '-i, accusative -em, genitive -is), the scribe\'s stem kept - not '
+     'applied; your fresh transcription keeps the doubts. Rule on the '
+     'principle',
+     ['accept the completions (they go back in)',
+      'leave the doubts as they stand',
+      'review each on a later sheet'],
      'Sample rows: "Capitaneo Niszczeviens[em?]" here; "Capitaneum '
      'Nieszczevice[m?]" on 161v; "in archivo ... Nieszczevicen[em?]" on '
-     '161v. The same rule completed ~60 other flagged case endings (the '
-     'list with its witnesses: intake/changes_applied.md).'),
+     '161v. The same rule would complete ~100 other flagged case endings '
+     '(the list with its witnesses: intake/split_and_settle.py).'),
     ('pr_changes', 'Principles', None, None,
-     'The 100+ settled readings (case endings completed where the grammar '
-     'admits one reading, formulas completed, the scribe\'s spellings kept) '
-     'are in intake/changes_applied.md, table by page with the witness for '
-     'each. Accept the lot?',
-     ['accept', 'I will review the list before it stands', 'revert some (write which)'],
+     'The 108 readings applied in the morning session (case endings '
+     'completed where the grammar admits one reading, formulas completed, '
+     'the scribe\'s spellings kept) were WITHDRAWN when your fresh '
+     'transcription of p. 161 kept the original doubts; they wait in '
+     'intake/split_and_settle.py with the witness for each. Accept the lot '
+     '(re-apply), or leave the text as you transcribed it?',
+     ['re-apply the lot', 'leave withdrawn',
+      'I will review the list before it stands', 'revert some (write which)'],
      'This row needs no scan - it rules on the principle and the record.'),
 ]
 

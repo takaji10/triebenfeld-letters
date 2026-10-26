@@ -1425,9 +1425,9 @@
   "page": 1,
   "page_id": "0161_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-  "line": 5,
-  "doc_line": 2,
-  "context": "Actum in Fundo Bonorum Villae Trąmpczyn Curiaque ibidem sitta Feria secunda post Dominicam Judica Quadragesimalim proxim"
+  "line": 9,
+  "doc_line": 7,
+  "context": "bio Castrensis Coninensi Dominico Zboinatis Subdapifinda[?] Bidgostiensi Ignatio"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -1435,19 +1435,9 @@
   "page": 1,
   "page_id": "0161_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-  "line": 6,
-  "doc_line": 3,
-  "context": "Officia Castrensia Condescensorialia Burgrabiale Syradien[sem?] ac Commissoriale Generale Palatinatum Majoris Poloniae i"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[5?]",
-  "page": 1,
-  "page_id": "0161_a",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-  "line": 6,
-  "doc_line": 3,
-  "context": "Officia Castrensia Condescensorialia Burgrabiale Syradien[sem?] ac Commissoriale Generale Palatinatum Majoris Poloniae i"
+  "line": 12,
+  "doc_line": 10,
+  "context": "Officia Castrensia Condescensorialia Burgrabiale Syradien[sem?] ac Commissoriale Generale Palatinatum"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -1455,19 +1445,19 @@
   "page": 1,
   "page_id": "0161_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-  "line": 6,
-  "doc_line": 3,
-  "context": "Officia Castrensia Condescensorialia Burgrabiale Syradien[sem?] ac Commissoriale Generale Palatinatum Majoris Poloniae i"
+  "line": 26,
+  "doc_line": 24,
+  "context": "dictione et per acclamationem Ministerialis Judicii apparitoni partibus notifica[??]"
  },
  {
   "uid": "app5320pozgr1181-1",
-  "marker": "[??]",
+  "marker": "[us??]",
   "page": 1,
   "page_id": "0161_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-  "line": 6,
-  "doc_line": 3,
-  "context": "Officia Castrensia Condescensorialia Burgrabiale Syradien[sem?] ac Commissoriale Generale Palatinatum Majoris Poloniae i"
+  "line": 27,
+  "doc_line": 25,
+  "context": "easdem partes ad inscribendam comparitionem acclamare demandarunt quib[us??]"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -1475,9 +1465,9 @@
   "page": 1,
   "page_id": "0161_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-  "line": 6,
-  "doc_line": 3,
-  "context": "Officia Castrensia Condescensorialia Burgrabiale Syradien[sem?] ac Commissoriale Generale Palatinatum Majoris Poloniae i"
+  "line": 29,
+  "doc_line": 27,
+  "context": "Judica Castrensen Radziejoviensem Ignatio E[v?sifen Predecen~ et Ludovico Judic[?]da Terrestri Bre-"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -1485,9 +1475,99 @@
   "page": 1,
   "page_id": "0161_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-  "line": 6,
-  "doc_line": 3,
-  "context": "Officia Castrensia Condescensorialia Burgrabiale Syradien[sem?] ac Commissoriale Generale Palatinatum Majoris Poloniae i"
+  "line": 30,
+  "doc_line": 28,
+  "context": "stensem Cujaviae Filiis Zakrzewskie actoribus et littis~ et quidem Magnificis Ignatio E[n?]sifero Pre-"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[em?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 34,
+  "doc_line": 32,
+  "context": "te Terrestri Vielun[em?][Wieluń?] Raphaele Vincentio et Nicolao cum olini Magnificum Elisabetha de Tworo-"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[Wieluń?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 34,
+  "doc_line": 32,
+  "context": "te Terrestri Vielun[em?][Wieluń?] Raphaele Vincentio et Nicolao cum olini Magnificum Elisabetha de Tworo-"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[em?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 37,
+  "doc_line": 35,
+  "context": "phum Taczanowski Regentem Terrestrem Vielun[em?] suo et aliorum nomine personaliter Magnifico Francis[cum?]"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[cum?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 37,
+  "doc_line": 35,
+  "context": "phum Taczanowski Regentem Terrestrem Vielun[em?] suo et aliorum nomine personaliter Magnifico Francis[cum?]"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[em?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 39,
+  "doc_line": 37,
+  "context": "pitaneo Niszczeviens[em?] Insignis S. Stanislai Equite citto~ et actore personaliter Religiosissim[e?]"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[e?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 39,
+  "doc_line": 37,
+  "context": "pitaneo Niszczeviens[em?] Insignis S. Stanislai Equite citto~ et actore personaliter Religiosissim[e?]"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[sis?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 40,
+  "doc_line": 38,
+  "context": "Benedicto Lubstowski Conventus Landensis Sacri Ordinis Cistercien[sis?] Ablate tum Re[ligiosi?]"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[ligiosi?]",
+  "page": 1,
+  "page_id": "0161_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+  "line": 40,
+  "doc_line": 38,
+  "context": "Benedicto Lubstowski Conventus Landensis Sacri Ordinis Cistercien[sis?] Ablate tum Re[ligiosi?]"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 2,
+  "page_id": "0161_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
+  "line": 44,
+  "doc_line": 39,
+  "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -1495,8 +1575,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1505,8 +1585,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1515,8 +1595,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1525,8 +1605,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1535,8 +1615,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1545,8 +1625,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1555,8 +1635,28 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
+  "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[em?]",
+  "page": 2,
+  "page_id": "0161_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
+  "line": 44,
+  "doc_line": 39,
+  "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[sem?]",
+  "page": 2,
+  "page_id": "0161_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1565,8 +1665,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1575,8 +1675,28 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
+  "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 2,
+  "page_id": "0161_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
+  "line": 44,
+  "doc_line": 39,
+  "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[dem?]",
+  "page": 2,
+  "page_id": "0161_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1585,8 +1705,8 @@
   "page": 2,
   "page_id": "0161_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-  "line": 11,
-  "doc_line": 4,
+  "line": 44,
+  "doc_line": 39,
   "context": "Paulo Wybieralski Conventus ejusdem Priore totque Conventu Landensis ad cittis~ per Rlndm[honorific] Tesselinum Malichow"
  },
  {
@@ -1595,8 +1715,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1605,8 +1725,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1615,8 +1735,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1625,8 +1745,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1635,8 +1755,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1645,8 +1765,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1655,8 +1775,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1665,8 +1785,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1675,8 +1795,38 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1685,8 +1835,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1695,8 +1845,18 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[s?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1705,8 +1865,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1715,8 +1875,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1725,8 +1885,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1735,8 +1895,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1745,8 +1905,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1755,8 +1915,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1765,8 +1925,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1775,8 +1935,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1785,8 +1945,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1795,8 +1955,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1805,8 +1965,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1815,8 +1975,68 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[m?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[m?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1825,8 +2045,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1835,8 +2055,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1845,8 +2065,8 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1855,8 +2075,18 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[h/st?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1865,8 +2095,28 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1875,8 +2125,18 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1885,8 +2145,18 @@
   "page": 3,
   "page_id": "0162_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-  "line": 14,
-  "doc_line": 5,
+  "line": 47,
+  "doc_line": 40,
+  "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0162_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+  "line": 47,
+  "doc_line": 40,
   "context": "Praedicen~ unus et actoribus et Illustrissimus Magnificus Prusimski Capitaneum Nieszczeviensi post quae prost[?] Judicio"
  },
  {
@@ -1895,8 +2165,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1905,8 +2175,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1915,8 +2185,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1925,8 +2195,38 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[di?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[s?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[u?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1935,8 +2235,38 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[f?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[s?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1945,8 +2275,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1955,8 +2285,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1965,8 +2295,38 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1975,8 +2335,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1985,8 +2345,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -1995,8 +2355,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -2005,8 +2365,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -2015,8 +2375,8 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -2025,8 +2385,48 @@
   "page": 4,
   "page_id": "0162_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-  "line": 17,
-  "doc_line": 6,
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[ue?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
+  "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 4,
+  "page_id": "0162_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+  "line": 50,
+  "doc_line": 41,
   "context": "Millium quingentorum fp pro materna reputata caput olim Stephani Prusimski Illustrissimi Magnifici Antonii Prusimski Can"
  },
  {
@@ -2035,8 +2435,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2045,8 +2445,18 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
+  "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 5,
+  "page_id": "0163_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2055,8 +2465,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2065,8 +2475,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2075,8 +2485,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2085,8 +2495,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2095,8 +2505,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2105,8 +2515,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2115,8 +2525,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2125,8 +2535,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2135,8 +2545,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2145,8 +2555,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2155,8 +2565,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2165,8 +2575,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2175,8 +2585,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2185,8 +2595,38 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
+  "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[i?]",
+  "page": 5,
+  "page_id": "0163_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+  "line": 53,
+  "doc_line": 42,
+  "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 5,
+  "page_id": "0163_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+  "line": 53,
+  "doc_line": 42,
+  "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[post/parte?]",
+  "page": 5,
+  "page_id": "0163_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2195,8 +2635,8 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2205,8 +2645,38 @@
   "page": 5,
   "page_id": "0163_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-  "line": 20,
-  "doc_line": 7,
+  "line": 53,
+  "doc_line": 42,
+  "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[mis?]",
+  "page": 5,
+  "page_id": "0163_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+  "line": 53,
+  "doc_line": 42,
+  "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 5,
+  "page_id": "0163_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+  "line": 53,
+  "doc_line": 42,
+  "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 5,
+  "page_id": "0163_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+  "line": 53,
+  "doc_line": 42,
   "context": "bonis maternis uti abalienatis neg~ in reliquo alienationi Bonorum Paturnorum per Magnificum Antonium et Paulum Prusimsk"
  },
  {
@@ -2215,8 +2685,8 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2225,98 +2695,8 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
-  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[?]",
-  "page": 6,
-  "page_id": "0163_b",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2325,8 +2705,8 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2335,8 +2715,148 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[n?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2345,8 +2865,8 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2355,8 +2875,28 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2365,8 +2905,8 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2375,8 +2915,18 @@
   "page": 6,
   "page_id": "0163_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
-  "line": 23,
-  "doc_line": 8,
+  "line": 56,
+  "doc_line": 43,
+  "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 6,
+  "page_id": "0163_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
+  "line": 56,
+  "doc_line": 43,
   "context": "Theresia Golinska olim Magnifici Joannis Los Golinski Burgralii Coninen~ cum olim Magnifica Constantia Krusinska procrea"
  },
  {
@@ -2385,9 +2935,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2395,9 +2945,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2405,9 +2955,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2415,9 +2965,29 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[3?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2425,9 +2995,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2435,9 +3005,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2445,9 +3015,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2455,9 +3025,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2465,9 +3035,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2475,9 +3045,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2485,9 +3055,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2495,9 +3065,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2505,9 +3075,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2515,9 +3085,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2525,9 +3095,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2535,9 +3105,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2545,9 +3115,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2555,9 +3125,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2565,9 +3135,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2575,9 +3145,59 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[sch?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2585,9 +3205,19 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2595,9 +3225,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2605,9 +3235,19 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[per/pra?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2615,9 +3255,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2625,9 +3265,9 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2635,9 +3275,49 @@
   "page": 7,
   "page_id": "0164_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
-  "line": 26,
-  "doc_line": 9,
-  "context": "coram actis Castrensis Posnaniensis Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737 levasse in s"
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 7,
+  "page_id": "0164_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
+  "line": 59,
+  "doc_line": 44,
+  "context": "coram actis Castrensis Posnaniensis[?] Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 17[3?]7 levass"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2645,9 +3325,19 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[or?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2655,9 +3345,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2665,9 +3355,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2675,9 +3365,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2685,9 +3375,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2695,9 +3385,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2705,9 +3395,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2715,9 +3405,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2725,9 +3415,39 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[s/f?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[r?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2735,9 +3455,19 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[dem?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2745,9 +3475,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2755,9 +3485,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2765,9 +3495,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2775,9 +3505,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2785,9 +3515,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2795,9 +3525,19 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2805,9 +3545,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2815,9 +3555,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2825,9 +3565,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2835,9 +3575,29 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[sis?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[sis?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2845,9 +3605,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2855,9 +3615,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2865,9 +3625,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2875,9 +3635,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2885,9 +3645,9 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2895,9 +3655,19 @@
   "page": 8,
   "page_id": "0164_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-  "line": 29,
-  "doc_line": 10,
-  "context": "Decem Polonicalium in se assumpisse ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de Pru"
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 8,
+  "page_id": "0164_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
+  "line": 62,
+  "doc_line": 45,
+  "context": "Decem Polonicalium in se assumpisse[?] ad extremum summam Triginta Millium fp post sterilia fata olim Generosae Anna de "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -2905,8 +3675,18 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
+  "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[post?]",
+  "page": 9,
+  "page_id": "0165_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2915,8 +3695,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2925,8 +3705,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2935,8 +3715,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2945,8 +3725,18 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
+  "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[r?]",
+  "page": 9,
+  "page_id": "0165_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2955,8 +3745,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2965,8 +3755,18 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
+  "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 9,
+  "page_id": "0165_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2975,8 +3775,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2985,8 +3785,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -2995,8 +3795,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3005,8 +3805,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3015,8 +3815,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3025,8 +3825,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3035,8 +3835,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3045,8 +3845,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3055,8 +3855,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3065,8 +3865,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3075,8 +3875,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3085,8 +3885,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3095,8 +3895,8 @@
   "page": 9,
   "page_id": "0165_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
-  "line": 32,
-  "doc_line": 11,
+  "line": 65,
+  "doc_line": 46,
   "context": "Novem millia fp adjucicationis praesuperantu[?] autem adjudicatarum Decreto anni 1759 condessen~ summarum restitutionis "
  },
  {
@@ -3105,8 +3905,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3115,8 +3915,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3125,8 +3925,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3135,8 +3935,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3145,8 +3945,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3155,8 +3955,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3165,8 +3965,18 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
+  "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[b/l?]",
+  "page": 10,
+  "page_id": "0165_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3175,8 +3985,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3185,8 +3995,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3195,8 +4005,18 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
+  "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 10,
+  "page_id": "0165_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3205,8 +4025,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3215,8 +4035,18 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
+  "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 10,
+  "page_id": "0165_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3225,8 +4055,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3235,8 +4065,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3245,8 +4075,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3255,8 +4085,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3265,8 +4095,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3275,8 +4105,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3285,8 +4115,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3295,8 +4125,8 @@
   "page": 10,
   "page_id": "0165_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
-  "line": 35,
-  "doc_line": 12,
+  "line": 68,
+  "doc_line": 47,
   "context": "Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis S. Pauli Apostoli anno 1728uo rob"
  },
  {
@@ -3305,8 +4135,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3315,8 +4145,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3325,8 +4155,18 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
+  "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[e?]",
+  "page": 11,
+  "page_id": "0166_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3335,8 +4175,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3345,8 +4185,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3355,8 +4195,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3365,8 +4205,18 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
+  "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[3/E?]",
+  "page": 11,
+  "page_id": "0166_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3375,8 +4225,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3385,8 +4235,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3395,8 +4245,18 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
+  "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[ostri?]",
+  "page": 11,
+  "page_id": "0166_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3405,8 +4265,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3415,8 +4275,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3425,8 +4285,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3435,8 +4295,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3445,8 +4305,18 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
+  "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 11,
+  "page_id": "0166_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3455,8 +4325,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3465,8 +4335,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3475,8 +4345,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3485,8 +4355,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3495,8 +4365,8 @@
   "page": 11,
   "page_id": "0166_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
-  "line": 38,
-  "doc_line": 13,
+  "line": 71,
+  "doc_line": 48,
   "context": "ex bonis uxorcis perceptis compensatam esse arbitradem nihilominus summam mille[?] fp ex onere hoscie[l?]sciano[?] depor"
  },
  {
@@ -3505,8 +4375,8 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3515,8 +4385,8 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3525,8 +4395,28 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
+  "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[a?]",
+  "page": 12,
+  "page_id": "0166_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
+  "line": 74,
+  "doc_line": 49,
+  "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[j/p?]",
+  "page": 12,
+  "page_id": "0166_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3535,8 +4425,8 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3545,8 +4435,8 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3555,8 +4445,8 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3565,8 +4455,8 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3575,8 +4465,18 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
+  "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 12,
+  "page_id": "0166_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3585,8 +4485,18 @@
   "page": 12,
   "page_id": "0166_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
-  "line": 41,
-  "doc_line": 14,
+  "line": 74,
+  "doc_line": 49,
+  "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[is?]",
+  "page": 12,
+  "page_id": "0166_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
+  "line": 74,
+  "doc_line": 49,
   "context": "pacificatam quas in unum juntas Triginta duo millia Decentos quindecem flor~ Polon~ efficien[dem?] ex superiori summa pr"
  },
  {
@@ -3595,8 +4505,8 @@
   "page": 13,
   "page_id": "0167_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
+  "line": 77,
+  "doc_line": 50,
   "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
  },
  {
@@ -3605,18 +4515,8 @@
   "page": 13,
   "page_id": "0167_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
-  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
- },
- {
-  "uid": "app5320pozgr1181-1",
-  "marker": "[dem?]",
-  "page": 13,
-  "page_id": "0167_a",
-  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
+  "line": 77,
+  "doc_line": 50,
   "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
  },
  {
@@ -3625,8 +4525,38 @@
   "page": 13,
   "page_id": "0167_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[dem?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
   "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
  },
  {
@@ -3635,8 +4565,38 @@
   "page": 13,
   "page_id": "0167_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[m?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
   "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
  },
  {
@@ -3645,8 +4605,8 @@
   "page": 13,
   "page_id": "0167_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
+  "line": 77,
+  "doc_line": 50,
   "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
  },
  {
@@ -3655,8 +4615,38 @@
   "page": 13,
   "page_id": "0167_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
   "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
  },
  {
@@ -3665,8 +4655,18 @@
   "page": 13,
   "page_id": "0167_a",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
-  "line": 44,
-  "doc_line": 15,
+  "line": 77,
+  "doc_line": 50,
+  "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[um?]",
+  "page": 13,
+  "page_id": "0167_a",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
+  "line": 77,
+  "doc_line": 50,
   "context": "portionem Maturnam extra hendo[?] residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 "
  },
  {
@@ -3675,9 +4675,29 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[er?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3685,9 +4705,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3695,9 +4715,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3705,9 +4725,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3715,9 +4735,19 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3725,9 +4755,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3735,9 +4765,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3745,9 +4775,19 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3755,9 +4795,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3765,9 +4805,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3775,9 +4815,19 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3785,9 +4835,19 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[nis?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3795,9 +4855,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3805,9 +4865,39 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
+ },
+ {
+  "uid": "app5320pozgr1181-1",
+  "marker": "[?]",
+  "page": 14,
+  "page_id": "0167_b",
+  "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3815,9 +4905,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3825,9 +4915,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3835,9 +4925,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3845,9 +4935,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3855,9 +4945,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3865,9 +4955,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3875,9 +4965,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app5320pozgr1181-1",
@@ -3885,9 +4975,9 @@
   "page": 14,
   "page_id": "0167_b",
   "scan": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
-  "line": 47,
-  "doc_line": 16,
-  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis agi"
+  "line": 80,
+  "doc_line": 51,
+  "context": "Capitaneum Niesczeviensem pro Terminis Condescenionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] "
  },
  {
   "uid": "app53640kalisztab21-1",
