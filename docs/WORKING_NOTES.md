@@ -1693,6 +1693,23 @@ cloud branches").
   the crops are placed by OCR line bands plus a position estimate, and no
   session has yet been able to check them by eye - the editor's tap on
   that button is the check.
+- **Crop placement for a sheet: a tall window around a position, not a
+  line** (2026-10-26, the editor: "the crops don't generally line up ...
+  make them bigger, wider, more zoomed in, taller because you don't know
+  where the line breaks are"). What failed first: the editor's rough y
+  guesses overriding the anchor estimate, and an OCR-box band detector
+  that merged whole paragraphs. What stands: the row's centre is the
+  anchor's character fraction of the page's transcription mapped into the
+  span of inked rows (a darkness profile, not OCR boxes - the text is
+  beyond the engine, the lines are not), and the crop is a fixed
+  +-380 px window (about eleven lines), full page width, near-native
+  resolution. The ink check that can replace an eye: dark-pixel fraction
+  at native resolution (a 200x80 thumbnail washes hairline strokes to
+  gray and reports every crop blank - a false alarm). The trap in the
+  first profile: a leftover loop variable (`h`, the page height) inside a
+  comprehension offset every band by 528 px and pushed every estimate
+  down the page; a variable named in a comprehension is the comprehension's
+  own, and reusing an outer name there is silent corruption.
 - **A bare web fetch of an HTML page invents print slips** (2026-10-22,
   the Luteranie Konin parish page). The text conversion drops `<br/>` and
   `&nbsp;` runs: the page's "proboszczowie parafii<br/>z Grodźca" arrived

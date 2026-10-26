@@ -124,34 +124,56 @@ BAND_CACHE = os.path.join(SCANS, 'line_bands.json')
 
 
 def page_lines(photo):
-    """[(top, bottom)] of the page's ink lines, from the OCR bands (cached)."""
+    """[(top, bottom)] of the page's ink lines, from a row-darkness profile
+    (the text is beyond the OCR engine; the lines are not). Each row's count
+    of dark pixels, smoothed; runs of inked rows become the bands; descender
+    gaps narrower than a quarter of the local line height join two runs of
+    one line. Cached per photograph."""
+    from PIL import Image
     cache = {}
     if os.path.isfile(BAND_CACHE):
         cache = json.load(open(BAND_CACHE, encoding='utf-8'))
     if photo in cache:
         return [tuple(b) for b in cache[photo]]
-    png = os.path.join(SCANS, photo + '_x2.png')
-    if not os.path.isfile(png):
-        from PIL import Image
-        im = Image.open(os.path.join(SCANS, photo + '.jpg'))
-        im.resize((im.width * 2, im.height * 2), Image.LANCZOS).save(png)
-    ws = words(png, lang='eng', psm=6)
-    bands = {}
-    for left, top, w, h, conf, txt in ws:
-        if not txt.strip():
-            continue
-        key = round(top / 40)
-        b = bands.setdefault(key, [top, top + h])
-        b[0] = min(b[0], top)
-        b[1] = max(b[1], top + h)
-    out = []
-    for key in sorted(bands):
-        top, bot = bands[key]
-        top, bot = top // 2, bot // 2
-        if out and top - out[-1][1] < 8:
-            out[-1] = (out[-1][0], max(out[-1][1], bot))
+    im = Image.open(os.path.join(SCANS, photo + '.jpg')).convert('L')
+    w, h = im.size
+    # a middle slice, clear of the page's inner edge damage
+    box = im.crop((int(w * 0.12), 0, int(w * 0.88), h))
+    bw, bh = box.size
+    px = box.load()
+    # dark-pixel count per row, at 1/8 vertical resolution for speed
+    step = 8
+    rows = []
+    for y in range(0, bh, step):
+        n = sum(1 for x in range(0, bw, 6) if px[x, y] < 110)
+        rows.append(n)
+    # smooth over three samples and threshold at a low floor
+    sm = [rows[i] for i in range(len(rows))]
+    for i in range(1, len(rows) - 1):
+        sm[i] = (rows[i - 1] + rows[i] + rows[i + 1]) / 3
+    thresh = 3.0
+    inked = [v > thresh for v in sm]
+    # runs of inked rows -> bands in original coordinates
+    bands = []
+    start = None
+    for i, v in enumerate(inked + [False]):
+        if v and start is None:
+            start = i
+        elif not v and start is not None:
+            bands.append((start * step, i * step))
+            start = None
+    # merge bands separated by less than a quarter of the running median height
+    heights = sorted(b - a for a, b in bands if b - a > 10)
+    med = heights[len(heights) // 2] if heights else 40
+    merged = []
+    for a, b in bands:
+        if merged and a - merged[-1][1] < med / 4:
+            merged[-1] = (merged[-1][0], max(merged[-1][1], b))
         else:
-            out.append((top, bot))
+            merged.append((a, b))
+    # keep bands of plausible line height (ascenders to descenders)
+    out = [(a, b) for a, b in merged
+           if med * 0.25 <= b - a <= med * 3.5]
     cache[photo] = [list(b) for b in out]
     json.dump(cache, open(BAND_CACHE, 'w', encoding='utf-8'))
     return out
@@ -179,36 +201,58 @@ def strip_marks(s):
 
 
 def crop_for(row_id, page, y_hint, text):
-    """The image bytes of the row's crop: the snapped line plus margin."""
+    """The image bytes of the row's crop: a window of about eleven text lines
+    centred on the row's target, full width, at near-native resolution.
+
+    The centre comes from the anchor's character position in the page's
+    transcription mapped into the page's inked span (the transcription runs
+    in reading order, so character fraction approximates position down the
+    page); a Y_OVERRIDE or the editor's y_hint takes precedence. The window
+    is deliberately tall - the line breaks are not known to the machine -
+    and the report printed after the build gives each row's centre.
+    """
     from PIL import Image
     photo = PAGE_FILE[page]
-    key = row_id
-    if key in Y_OVERRIDE:
-        y = Y_OVERRIDE[key][1]
-    elif y_hint:
-        y = y_hint
+    im_src = Image.open(os.path.join(SCANS, photo + '.jpg'))
+    bands = page_lines(photo)
+    first = bands[0][0] if bands else int(im_src.height * 0.08)
+    last = bands[-1][1] if bands else int(im_src.height * 0.92)
+    how = 'fraction'
+    if row_id in Y_OVERRIDE:
+        y = Y_OVERRIDE[row_id][1]
+        how = 'override'
     else:
-        anchor = ANCHOR.get(key, '')
+        anchor = ANCHOR.get(row_id, '')
         pos = text.find(anchor) if anchor else -1
-        if pos < 0:
-            pos = len(text) // 2
-        frac = pos / max(1, len(text))
-        lines = page_lines(photo)
-        y = lines[0][0] + frac * (lines[-1][1] - lines[0][0])
-    lines = page_lines(photo)
-    # snap: the band whose middle is nearest
-    band = min(lines, key=lambda b: abs((b[0] + b[1]) / 2 - y))
-    top = max(0, band[0] - 58)
-    bot = min(Image.open(os.path.join(SCANS, photo + '.jpg')).height,
-              band[1] + 58)
-    im = Image.open(os.path.join(SCANS, photo + '.jpg'))
-    im = im.crop((100, top, im.width - 80, bot))
-    scale = 1400 / im.width
-    im = im.resize((1400, int(im.height * scale)), Image.LANCZOS)
+        if pos < 0 and anchor:
+            for w in anchor.split():
+                probe = re.sub(r'[\[\]~?/\\]', '.', re.escape(w))
+                m = re.search(probe, text)
+                if m:
+                    pos = m.start()
+                    break
+        if pos >= 0:
+            frac = pos / max(1, len(text))
+            y = first + frac * (last - first)
+        elif y_hint:
+            # the editor's rough y was taken against the whole page height
+            y = y_hint * (im_src.height / 4401.0)
+            how = 'y_hint'
+        else:
+            y = (first + last) / 2
+    top = max(0, int(y - 380))
+    bot = min(im_src.height, int(y + 380))
+    top = min(top, max(0, im_src.height - 100))
+    bot = max(bot, min(im_src.height, top + 100))
+    crop = im_src.crop((80, top, im_src.width - 60, bot))
+    if crop.width > 2600:
+        crop = crop.resize((2600, int(crop.height * 2600 / crop.width)),
+                           Image.LANCZOS)
     path = os.path.join(OUT, 'img', row_id + '.jpg')
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    im.convert('RGB').save(path, quality=88)
-    return y, band
+    crop.convert('RGB').save(path, quality=85)
+    return 'centre y=%d (%s), window %d-%d of %d' % (
+        y, how, top, bot, im_src.height)
 
 
 def context_snippet(page_text, row_id):
@@ -244,16 +288,19 @@ def main():
         elif cur and not line.startswith('[DOC'):
             texts[cur] = (texts[cur] + ' ' + line).strip()
     rows_meta = []
+    report = []
     for row_id, section, page, y_hint, question, options, note in ROWS:
         if page:
-            y, band = crop_for(row_id, page, y_hint, texts.get(page, ''))
+            where = crop_for(row_id, page, y_hint, texts.get(page, ''))
+            report.append('%-18s %s  %s' % (row_id, page, where))
         else:
-            y = band = None
+            report.append('%-18s (no page - principle row)' % row_id)
         rows_meta.append({
             'id': row_id, 'section': section, 'page': page,
-            'y': y, 'question': question, 'options': options, 'note': note,
+            'question': question, 'options': options, 'note': note,
             'context': context_snippet(texts.get(page, ''), row_id),
         })
+    print('\n'.join(report))
     print('%d rows; crops in %s' % (len(rows_meta), OUT))
     if check_only:
         # one contact sheet: every crop as a thumbnail, labelled
@@ -273,7 +320,7 @@ def main():
         for i, (rid, page, y, im) in enumerate(thumbs):
             x, yy = (i % cols) * cw, (i // cols) * ch
             sheet.paste(im, (x + 8, yy + 28))
-            d.text((x + 8, yy + 6), '%s  %s y=%d' % (rid, page, y), fill='black')
+            d.text((x + 8, yy + 6), '%s  %s' % (rid, page), fill='black')
         sheet.save(os.path.join(OUT, 'contact_sheet.png'))
         print('contact sheet ->', os.path.join(OUT, 'contact_sheet.png'))
         return
