@@ -56,7 +56,7 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "Oe_1_Bu_14526_0166_a2-L30_01.jpg",
+   "scan": "",
    "doc_line_start": 1,
    "doc_line_end": 36
   },
@@ -80,7 +80,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "Oe_1_Bu_14526_0167_a1-L30_02.jpg",
+   "scan": "",
    "doc_line_start": 37,
    "doc_line_end": 72
   },
@@ -100,7 +100,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "Oe_1_Bu_14526_0167_a2-L31_01.jpg",
+   "scan": "",
    "doc_line_start": 73,
    "doc_line_end": 105
   },
@@ -121,7 +121,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "Oe_1_Bu_14526_0168_a1-L31_02.jpg",
+   "scan": "",
    "doc_line_start": 106,
    "doc_line_end": 127
   },
@@ -143,7 +143,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "Oe_1_Bu_14526_0169_a2-L32_01.jpg",
+   "scan": "",
    "doc_line_start": 128,
    "doc_line_end": 136
   }
@@ -592,7 +592,7 @@
    "surface": "Posen",
    "page": 1,
    "page_id": "0166_a2",
-   "scan": "Oe_1_Bu_14526_0166_a2-L30_01.jpg",
+   "scan": "",
    "line": 8045,
    "doc_line": 14
   },
@@ -603,7 +603,7 @@
    "surface": "Warschau",
    "page": 1,
    "page_id": "0166_a2",
-   "scan": "Oe_1_Bu_14526_0166_a2-L30_01.jpg",
+   "scan": "",
    "line": 8045,
    "doc_line": 14
   },
@@ -614,7 +614,7 @@
    "surface": "Betscher",
    "page": 1,
    "page_id": "0166_a2",
-   "scan": "Oe_1_Bu_14526_0166_a2-L30_01.jpg",
+   "scan": "",
    "line": 8051,
    "doc_line": 20
   },
@@ -625,7 +625,7 @@
    "surface": "Głazewo",
    "page": 1,
    "page_id": "0166_a2",
-   "scan": "Oe_1_Bu_14526_0166_a2-L30_01.jpg",
+   "scan": "",
    "line": 8052,
    "doc_line": 21
   },
@@ -636,7 +636,7 @@
    "surface": "Głazewer",
    "page": 2,
    "page_id": "0167_a1",
-   "scan": "Oe_1_Bu_14526_0167_a1-L30_02.jpg",
+   "scan": "",
    "line": 8075,
    "doc_line": 43
   },
@@ -647,7 +647,7 @@
    "surface": "Betscher",
    "page": 2,
    "page_id": "0167_a1",
-   "scan": "Oe_1_Bu_14526_0167_a1-L30_02.jpg",
+   "scan": "",
    "line": 8080,
    "doc_line": 48
   },
@@ -658,7 +658,7 @@
    "surface": "Dolsk",
    "page": 2,
    "page_id": "0167_a1",
-   "scan": "Oe_1_Bu_14526_0167_a1-L30_02.jpg",
+   "scan": "",
    "line": 8095,
    "doc_line": 63
   },
@@ -669,7 +669,7 @@
    "surface": "Posen",
    "page": 2,
    "page_id": "0167_a1",
-   "scan": "Oe_1_Bu_14526_0167_a1-L30_02.jpg",
+   "scan": "",
    "line": 8096,
    "doc_line": 64
   },
@@ -680,7 +680,7 @@
    "surface": "Posen",
    "page": 2,
    "page_id": "0167_a1",
-   "scan": "Oe_1_Bu_14526_0167_a1-L30_02.jpg",
+   "scan": "",
    "line": 8104,
    "doc_line": 72
   },
@@ -691,7 +691,7 @@
    "surface": "Głazewie",
    "page": 3,
    "page_id": "0167_a2",
-   "scan": "Oe_1_Bu_14526_0167_a2-L31_01.jpg",
+   "scan": "",
    "line": 8119,
    "doc_line": 86
   },
@@ -702,7 +702,7 @@
    "surface": "Głazewskie",
    "page": 3,
    "page_id": "0167_a2",
-   "scan": "Oe_1_Bu_14526_0167_a2-L31_01.jpg",
+   "scan": "",
    "line": 8135,
    "doc_line": 102
   },
@@ -713,7 +713,7 @@
    "surface": "Głazewskiego",
    "page": 3,
    "page_id": "0167_a2",
-   "scan": "Oe_1_Bu_14526_0167_a2-L31_01.jpg",
+   "scan": "",
    "line": 8135,
    "doc_line": 102
   },
@@ -724,7 +724,7 @@
    "surface": "Pszczewskiego",
    "page": 4,
    "page_id": "0168_a1",
-   "scan": "Oe_1_Bu_14526_0168_a1-L31_02.jpg",
+   "scan": "",
    "line": 8141,
    "doc_line": 107
   },
@@ -735,7 +735,7 @@
    "surface": "Dolsku",
    "page": 4,
    "page_id": "0168_a1",
-   "scan": "Oe_1_Bu_14526_0168_a1-L31_02.jpg",
+   "scan": "",
    "line": 8152,
    "doc_line": 118
   },
@@ -746,7 +746,7 @@
    "surface": "Orzeskowo",
    "page": 5,
    "page_id": "0169_a2",
-   "scan": "Oe_1_Bu_14526_0169_a2-L32_01.jpg",
+   "scan": "",
    "line": 8170,
    "doc_line": 135
   }

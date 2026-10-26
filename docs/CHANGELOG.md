@@ -3015,7 +3015,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   entries for the single-document terms; a timeline event and the era's
   story (TODO section 36).
 
-## 2026-10-26 - APP 53/20/0/-/Poznań Gr.1181 added (branch app5320pozgr1181, not published)
+## 2026-10-26 - APP 53/20/0/-/Poznań Gr.1181 added, translated and published (branch app5320pozgr1181)
 
 - The condescensio decree of 29 March 1784 on the ultimate limitation of the
   Prusimski succession, one Latin document on the editor's fourteen page
@@ -3033,6 +3033,55 @@ lose his estates. The era page writes Konotop, not Kontop.
   sheets repository; the crops placed by machine and unchecked - every row
   carries a "wrong line" button). The site builds and verifies clean with
   the unit in place (627 documents in 48 holdings, main untouched).
+- The same day, evening: the editor's fresh line-by-line p. 161 came back
+  keeping the original doubts, and the 108 completions were withdrawn - the
+  editor's word is the source of truth. Five readings settled by that pass
+  stand in the corpus (the December year 1783, "videlicet" before the day
+  numeral of October 1782, "Mens(is) Junii", "oblatam porrecto", the break
+  "camera-/riali", and the full stop after "acclamante."). Lineation of pp.
+  161v-167v ruled optional by the editor (the meaning is readable; citation
+  can zoom): the pages stand by paragraph as Konin Gr.117 does, p. 161 keeps
+  the editor's own lines, and the machine lineation drafts are not built.
+- The editor's word to integrate, merge and publish. Translated in session
+  (no paid run), page by page under the pipeline's own rules, written to the
+  translation cache through translate.py's own save() so the record carries
+  the source hash; summaries in both languages; the claim check made in
+  session under the --verify rules, 13 statements all supported after three
+  corrections of the draft (three daughters, not four; the decree's two
+  paternal figures, 154,436 gr 24 1/2 for Paweł's scheda at p. 166v and
+  154,936 gr 24 1/2 for the captain's own at p. 167, each aright for its own
+  scheda; the Nierzychowska ground, quieted 1740 and refused as a load borne
+  over, not "not provable as paid"). The checker's two real catches fixed
+  (Trąbczyn in the English outside the quoted snippets; "engrossed"
+  rewritten "entered at length"), the Latin-source false positives cleared
+  in reference/translation_rulings.json with the reason recorded.
+- The glossary gate ruled green: Jacobi excluded (the man's name, not the
+  feast), Junii excluded (the month's genitive, plain in English), and the
+  gulden entry's pattern widened to the bare "fl.", which the Latin of the
+  Poznań books defeats the figure-before form with ("sex fl. gn[?] 20").
+  The literature index: one new ruling (Breyer 1938 p. 17, an estate
+  "Brzezno" on the Koło-Konin road, yes) and one stale row cleared (the
+  szetlewek refusal of "Szetlewo", stale since the szetlew split of the
+  relatio holding).
+- The index extended: twelve people (Skarbek, Zelisławski, the five
+  sisters'-heirs parties as family entries, the abbot and prior of Ląd, the
+  Radolińskis, Bienicki, the Goliński family with the ADWl 85 Golinska
+  kept out), seven places (Oporowo with its shares folded in and the map
+  link firm at gmina Krzemieniewo - Oporówko and the hamlet Kałowo-in-
+  Oporowo answer the decree's shares Oporówka and Kałowa, and the 1673 sale
+  before the castellany acts of Wschowa fits the region; Prusinowo,
+  Wierzbno, Brzezno with the manuscript's "Breczno", Chyby, Jaryszki with
+  the map link at gmina Kórnik, Radolin with the family name kept out of
+  the pattern), each with its open questions written where the modern
+  identification is open, and no map link there.
+- The timeline gains the decree of 29 March 1784; the edition guide's
+  hand-kept counts corrected in both languages (630 documents, 2,103 pages,
+  626 translated, 51 holdings, the Poznań archive 24 holdings and 95
+  documents, the decree named). origin/main (the Pyzdry Gr.115 holding and
+  the Szetlewicz relatio) merged into the branch; the derived files took
+  main's side, the four authored conflicts hand-merged, the two JSON caches
+  by union. Status translated; the spot sheet stays open, its answers to be
+  ruled in when they come.
 ## 2026-10-25 - The word of the Themen block ruled
 
 - The editor ruled the doubtful word of 0030's Themen block "polnische"

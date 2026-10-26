@@ -219,6 +219,11 @@
   lon: 11.58794
   query: "Jena, Deutschland"
   found: "Jena, Thuringia, Germany"
+"Jaryszki":
+  lat: 52.3295091
+  lon: 17.0218324
+  query: "Jaryszki, Polska"
+  found: "Jaryszki, gmina Kórnik, Poznań County, Greater Poland Voivodeship, 60-023, Poland"
 "Kalisz (Kalisch)":
   lat: 51.74729
   lon: 18.07953
@@ -444,6 +449,11 @@
   lon: 17.93077
   query: "Osiny, gmina Zagórów, Polska"
   found: "Osiny, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Oporowo":
+  lat: 51.8145953
+  lon: 16.8490595
+  query: "Oporowo, gmina Krzemieniewo, Polska"
+  found: "Oporowo, gmina Krzemieniewo, Leszno County, Greater Poland Voivodeship, 64-120, Poland"
 "Paris":
   lat: 48.8535
   lon: 2.34839

@@ -1079,6 +1079,125 @@ places:
     tier: ""
     variants: ["Biala Brzig"]
 
+  # --- the estates the decree of 1784 recites (APP 53/20/0/-/Poznań Gr.1181)
+  # Added 2026-10-26 with the holding. The decree of 29 March 1784 recites the
+  # Prusimski and Goliński estates in its historical review and in the court's
+  # own determinations; these are the ones its text names that the edition did
+  # not yet carry. The spellings to match are taken from the decree's own
+  # Latin.
+
+  oporowo:
+    display: "Oporowo"
+    kind: estate
+    # The maternal (Goliński) estate: bought from Łukasz Koszutski before the
+    # castellany acts of Wschowa, 1673 (the Wschowa acts fit the Leszno
+    # region); valued at 80,000 florins Polish by the decree of 1784. The
+    # decree names it with its shares (sortes) Oporówka and Kałowa, and the
+    # map answers: Oporówko is the village next to Oporowo and Kałowo a
+    # hamlet of Oporowo, both in gmina Krzemieniewo, powiat leszczyński.
+    # Kałowa is folded into this entry's match as the share's name; it is not
+    # the family name Kałowski, which the final a/s separates.
+    match: 'Oporow\w*|Kałowa\b'
+    tier: "Text-confirmed"
+    variants:
+      - "Oporowa"
+      - "Oporowka"
+    open_questions:
+      - "Whether the decree's Oporowo is the Oporowo of gmina Krzemieniewo
+         rests on the shares Oporówka and Kałowa (both next to it on the map)
+         and on the 1673 sale before the castellany acts of Wschowa; no
+         document of the edition names the estate with a district."
+
+  prusinowo:
+    display: "Prusinowo"
+    kind: estate
+    # The maternal (Goliński) estate, bought by Jan Łoso Golinski from Piotr
+    # Radecki (1674) with parts held by Jan Prusinowski; taxed at 15,000
+    # florins Polish, an arenda of 784 florins Polish a year in 1723 and 1726.
+    # (?:o|a) so that the person Jan Prusinowski (Prusinowski) is not taken
+    # for the place: the place is Prusinowo or its inflected Prusinowa.
+    match: 'Prusinow(?:o|a)\b'
+    tier: "Text-confirmed"
+    variants:
+      - "Prusinowa"
+    open_questions:
+      - "Which Prusinowo. The only Wielkopolskan village of the name on the
+         map is in gmina Kórnik, powiat poznański; the decree puts Prusinowo
+         in the second scheda of 1740 beside Trąbczyn, Osiny, Łazy and
+         Nowawieś. Not settled, so no map link."
+
+  wierzbno:
+    display: "Wierzbno"
+    kind: estate
+    # Ceded in 1676 by the successors of Kazimierz Gaspard Wierzbowski to Jan
+    # Prusimski, son of Krzysztof, recognised for 45,000 florins Polish;
+    # carried in the third scheda of 1740 with Brzezno and the Szetlewko
+    # loads. The transcription writes Wierzbno[?] at first mention (p. 165).
+    match: 'Wierzbno\b'
+    tier: "Text-confirmed"
+    variants: []
+    open_questions:
+      - "Which Wierzbno. The candidate nearest the decree's geography is
+         Wierzbno, gmina Słupca, powiat słupecki; the decree's sentence may
+         group Wierzbno and Brzezno with the palatinate of Poznań instead.
+         Not settled, so no map link."
+
+  brzezno:
+    display: "Brzezno"
+    kind: estate
+    # Ceded with Wierzbno in 1676; the third scheda of 1740; the
+    # Obarzankowski load of 33,000 florins Polish hung on Wierzbno and
+    # Brzezno. The p. 165 line writes the name once as Breczno - folded in,
+    # as the same mention.
+    match: 'Brzezno\b|Breczno\b'
+    tier: "Text-confirmed"
+    variants: []
+    open_questions:
+      - "Which Brzezno. No candidate near the decree's geography on the map;
+         not settled, so no map link."
+
+  chyby:
+    display: "Chyby"
+    kind: estate
+    # An inscribed sum of 8,000 florins Polish sought over the estates Chyby
+    # by the Prusimski brothers younger by birth, its pacification ceded to
+    # Antoni Prusimski (the decree, p. 164v-165); the load counted in his
+    # scheda's reckonings.
+    match: 'Chyby\b'
+    tier: "Text-confirmed"
+    variants: []
+    open_questions:
+      - "Which Chyby. The only Wielkopolskan village of the name on the map
+         is in gmina Tarnowo Podgórne, powiat poznański; not settled, so no
+         map link."
+
+  jaryszki:
+    display: "Jaryszki"
+    kind: estate
+    # Named in the decree among the estates the late Krzysztof Prusimski
+    # held, in the palatinate and district of Poznań (p. 165, 165v); gone
+    # into other hands by 1729 (p. 166).
+    match: 'Jaryszk\w*'
+    tier: "Text-confirmed"
+    variants: []
+
+  radolin:
+    display: "Radolin"
+    kind: estate
+    # The seat of the Radoliński family, holders of the 43,000-florins-Polish
+    # claim on Trąbczyn that the decree of 1784 leaves undecided. The decree
+    # writes the seat de Radolina and the family Radolinski/Radolinskich:
+    # (?:o|a|um) keeps the family name out of the place's mentions - the
+    # family has its own people.yml entry.
+    match: 'Radolin(?:o|a|um)\b'
+    tier: "Text-confirmed"
+    variants: []
+    open_questions:
+      - "Which Radolin. The only village of the name in Wielkopolska on the
+         map is in gmina Trzcianka, powiat czarnkowski, far from Wschowa,
+         where the family's subchamberlains sat. Not settled, so no map
+         link."
+
   # --- the granted estates, 14525 -----------------------------------------
   # Added 2026-09-17. These are the villages and estates the South Prussian
   # grants actually convey, and not one of them was in the authority: they are

@@ -1229,7 +1229,7 @@ the folder is the title page and is left out (your word).
 - [x] Published at your word (2026-10-26): main pushed after the local
       Jekyll build and verify passed; the "Build and deploy" run succeeded.
 
-## 36. APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784 (added 2026-10-26, on the branch `app5320pozgr1181`, not published)
+## 36. APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784 (added, translated and published 2026-10-26, branch `app5320pozgr1181`)
 
 One Latin entry, pp. 161-167v of the relationes protocollon: the decree of the
 condescensio held on the Trąbczyn grounds on 29 March 1784, on the ultimate
@@ -1238,6 +1238,29 @@ loads, the sisters' heirs, the abbey of Ląd's quietation. Your own
 transcription; 108 readings settled in session before the first build
 (intake/changes_applied.md, with the witness of each).
 
+- [x] Integrated at your word (2026-10-26, evening): translated in session
+      (no paid run) page by page under the pipeline's own rules and written
+      to the translation cache through translate.py's own save(); summaries
+      in both languages; the claim check made in session under the --verify
+      rules, 13 statements all supported after three corrections of the
+      draft (three daughters, not four; the decree's two paternal figures,
+      154,436 and 154,936 gr 24 1/2, each aright for its own scheda; the
+      Nierzychowska ground: quieted 1740, refused as a load borne over, not
+      "not provable as paid"). The holding's page written in both
+      languages; the index ruled (twelve people, seven places, two firm map
+      links: Oporowo at gmina Krzemieniewo, Jaryszki at gmina Kórnik); the
+      glossary gate green (Jacobi and Junii excluded with reasons, the
+      gulden entry's pattern widened to the bare "fl."); the literature
+      index ruled (Breyer 1938's Brzezno yes; the stale szetlewek refusal
+      of "Szetlewo" cleared); the timeline gains the decree of 29 March
+      1784; the edition guide's counts corrected in both languages (630
+      documents, 2,103 pages, 626 translated, 51 holdings); origin/main
+      merged into the branch; status translated.
+- [x] Published at your word (2026-10-26): the branch merged into main and
+      pushed; the workflow builds and verifies before deploying. The spot
+      sheet stays open: the answers, when they come, are ruled into the
+      text and the affected pages rebuilt - the doubts stand as written
+      until then.
 - [ ] **You: the spot sheet**, 62 rows, live at
       https://takaji10.github.io/triebenfeld-spot/sheets/app5320pozgr1181/
       (the same page keeps your answers on the phone until you copy them;
@@ -1259,9 +1282,9 @@ transcription; 108 readings settled in session before the first build
       pages is OPTIONAL - take it up only if a passage ever needs line-level
       citation. No machine drafts are needed; `intake/lineation_draft/` can
       be ignored or deleted.
-- [ ] After the sheet: apply the answers, translate and summarise in session,
-      claim-check, write the holding's page in both languages, rule the index
-      (the new persons and the estates), the glossary and the timeline.
+- [ ] After the sheet: apply the answers; widen or re-crop the rows answered
+      "WRONG LINE"/"NOT SHOWN" and re-publish the sheet if needed; rebuild
+      the affected pages.
 - [ ] The entry breaks off mid-sentence at the foot of 167v: whether the
       archive's next leaf is to come is on the sheet (`tail_167v`); if it is,
       the entry is excerpted and the site says so.

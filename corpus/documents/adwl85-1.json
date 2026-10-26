@@ -54,7 +54,7 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "ADWl_85_0023_b-L1_01.jpg",
+   "scan": "",
    "doc_line_start": 1,
    "doc_line_end": 3,
    "by_paragraph": true
@@ -78,7 +78,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "doc_line_start": 4,
    "doc_line_end": 8,
    "by_paragraph": true
@@ -117,7 +117,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "doc_line_start": 9,
    "doc_line_end": 27,
    "by_paragraph": true
@@ -141,7 +141,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "ADWl_85_0025_a-L1_04.jpg",
+   "scan": "",
    "doc_line_start": 28,
    "doc_line_end": 32,
    "by_paragraph": true
@@ -165,7 +165,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "ADWl_85_0025_b-L1_05.jpg",
+   "scan": "",
    "doc_line_start": 33,
    "doc_line_end": 36,
    "by_paragraph": true
@@ -188,7 +188,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "ADWl_85_0028_b-L1_06.jpg",
+   "scan": "",
    "doc_line_start": 37,
    "doc_line_end": 40,
    "by_paragraph": true
@@ -211,7 +211,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "doc_line_start": 41,
    "doc_line_end": 44,
    "by_paragraph": true
@@ -235,7 +235,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "ADWl_85_0029_b-L1_08.jpg",
+   "scan": "",
    "doc_line_start": 45,
    "doc_line_end": 48,
    "by_paragraph": true
@@ -249,7 +249,7 @@
    "surface": "Czartoryskiego",
    "page": 1,
    "page_id": "0023_b",
-   "scan": "ADWl_85_0023_b-L1_01.jpg",
+   "scan": "",
    "line": 4,
    "doc_line": 2
   },
@@ -260,7 +260,7 @@
    "surface": "Kozierowskiego",
    "page": 1,
    "page_id": "0023_b",
-   "scan": "ADWl_85_0023_b-L1_01.jpg",
+   "scan": "",
    "line": 4,
    "doc_line": 2
   },
@@ -271,7 +271,7 @@
    "surface": "Prusimskiego",
    "page": 1,
    "page_id": "0023_b",
-   "scan": "ADWl_85_0023_b-L1_01.jpg",
+   "scan": "",
    "line": 4,
    "doc_line": 2
   },
@@ -282,7 +282,7 @@
    "surface": "Zurkowski",
    "page": 1,
    "page_id": "0023_b",
-   "scan": "ADWl_85_0023_b-L1_01.jpg",
+   "scan": "",
    "line": 4,
    "doc_line": 2
   },
@@ -293,7 +293,7 @@
    "surface": "Prusimskiego",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -304,7 +304,7 @@
    "surface": "Prusimskiey",
    "page": 5,
    "page_id": "0025_b",
-   "scan": "ADWl_85_0025_b-L1_05.jpg",
+   "scan": "",
    "line": 40,
    "doc_line": 34
   },
@@ -315,7 +315,7 @@
    "surface": "Trąmbczyńskich",
    "page": 5,
    "page_id": "0025_b",
-   "scan": "ADWl_85_0025_b-L1_05.jpg",
+   "scan": "",
    "line": 40,
    "doc_line": 34
   },
@@ -326,7 +326,7 @@
    "surface": "Prusimski",
    "page": 5,
    "page_id": "0025_b",
-   "scan": "ADWl_85_0025_b-L1_05.jpg",
+   "scan": "",
    "line": 41,
    "doc_line": 35
   },
@@ -337,7 +337,7 @@
    "surface": "Dorposkiego",
    "page": 6,
    "page_id": "0028_b",
-   "scan": "ADWl_85_0028_b-L1_06.jpg",
+   "scan": "",
    "line": 46,
    "doc_line": 39
   },
@@ -348,7 +348,7 @@
    "surface": "Paprockiego",
    "page": 6,
    "page_id": "0028_b",
-   "scan": "ADWl_85_0028_b-L1_06.jpg",
+   "scan": "",
    "line": 46,
    "doc_line": 39
   },
@@ -359,7 +359,7 @@
    "surface": "Bogusławskiego",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -370,7 +370,7 @@
    "surface": "Golinską",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -381,7 +381,7 @@
    "surface": "Strzałkowskiego",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -392,7 +392,7 @@
    "surface": "Trąbczyński",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -403,7 +403,7 @@
    "surface": "Wardenckiego",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -414,7 +414,7 @@
    "surface": "Trąmbczyński",
    "page": 8,
    "page_id": "0029_b",
-   "scan": "ADWl_85_0029_b-L1_08.jpg",
+   "scan": "",
    "line": 54,
    "doc_line": 45
   }
@@ -429,7 +429,7 @@
    "surface": "Trąbczyn",
    "page": 1,
    "page_id": "0023_b",
-   "scan": "ADWl_85_0023_b-L1_01.jpg",
+   "scan": "",
    "line": 3,
    "doc_line": 1
   },
@@ -440,7 +440,7 @@
    "surface": "Koninie",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 7,
    "doc_line": 4
   },
@@ -451,7 +451,7 @@
    "surface": "Kalisza",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -462,7 +462,7 @@
    "surface": "Koninskim",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -473,7 +473,7 @@
    "surface": "Konina",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -484,7 +484,7 @@
    "surface": "Łazy",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -495,7 +495,7 @@
    "surface": "Maryanton",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -506,7 +506,7 @@
    "surface": "Nowa Wieś",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -517,7 +517,7 @@
    "surface": "Osiny",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -528,7 +528,7 @@
    "surface": "Trąbczynie",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -539,7 +539,7 @@
    "surface": "Trąbczyn",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -550,7 +550,7 @@
    "surface": "Olędry",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -561,7 +561,7 @@
    "surface": "Olędry",
    "page": 2,
    "page_id": "0024_a",
-   "scan": "ADWl_85_0024_a-L1_02.jpg",
+   "scan": "",
    "line": 9,
    "doc_line": 6
   },
@@ -572,7 +572,7 @@
    "surface": "Trambczyn",
    "page": 3,
    "page_id": "0024_b",
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "line": 17,
    "doc_line": 13
   },
@@ -583,7 +583,7 @@
    "surface": "Maryanton",
    "page": 3,
    "page_id": "0024_b",
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "line": 18,
    "doc_line": 14
   },
@@ -594,7 +594,7 @@
    "surface": "Olendry",
    "page": 3,
    "page_id": "0024_b",
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "line": 21,
    "doc_line": 17
   },
@@ -605,7 +605,7 @@
    "surface": "Olendry",
    "page": 3,
    "page_id": "0024_b",
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "line": 21,
    "doc_line": 17
   },
@@ -616,7 +616,7 @@
    "surface": "Łazy",
    "page": 3,
    "page_id": "0024_b",
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "line": 22,
    "doc_line": 18
   },
@@ -627,7 +627,7 @@
    "surface": "Osiny",
    "page": 3,
    "page_id": "0024_b",
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "line": 23,
    "doc_line": 19
   },
@@ -638,7 +638,7 @@
    "surface": "Nowa Wieś",
    "page": 3,
    "page_id": "0024_b",
-   "scan": "ADWl_85_0024_b-L1_03.jpg",
+   "scan": "",
    "line": 24,
    "doc_line": 20
   },
@@ -649,7 +649,7 @@
    "surface": "Kaliszu",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -660,7 +660,7 @@
    "surface": "Kaliszu",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -671,7 +671,7 @@
    "surface": "Koninskiego",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -682,7 +682,7 @@
    "surface": "Trąmbczynie",
    "page": 7,
    "page_id": "0029_a",
-   "scan": "ADWl_85_0029_a-L1_07.jpg",
+   "scan": "",
    "line": 51,
    "doc_line": 43
   },
@@ -693,7 +693,7 @@
    "surface": "Kaliszu",
    "page": 8,
    "page_id": "0029_b",
-   "scan": "ADWl_85_0029_b-L1_08.jpg",
+   "scan": "",
    "line": 54,
    "doc_line": 45
   },
@@ -704,7 +704,7 @@
    "surface": "Trąmbczyna",
    "page": 8,
    "page_id": "0029_b",
-   "scan": "ADWl_85_0029_b-L1_08.jpg",
+   "scan": "",
    "line": 54,
    "doc_line": 45
   }

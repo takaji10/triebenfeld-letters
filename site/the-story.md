@@ -84,6 +84,18 @@ and the visitation of the parish of Trąbczyn in 1790 and 1791, which counts its
 ([the visitation]({{ '/sources/adwl85/' | relative_url }})). A fuller account of these years
 is still to be written.
 
+### The succession of the Prusimski brothers
+
+A second quarrel of the same years ran inside the family. The brothers Antoni and Paweł
+Prusimski died without children, and their whole substance, paternal and maternal, fell to
+be divided as their father Krzysztof's division of 1740 had left it. The sisters' heirs
+sued for their shares; the abbey of Ląd was cited over the jewels and silver of the house
+lodged in its treasury; and the Radoliński claim of 43,000 florins Polish on Trąbczyn,
+disputed on suspicion of forgery, the court left undecided. On 29 March 1784 the
+condescensio sat on the Trąbczyn grounds and gave its decree: the maternal fortune divided
+among the six capits, the paternal substance adjudged to the brothers' nephew, Antoni in
+Kolno Prusimski, captain of Nieśwież ([the decree]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
+
 ---
 
 ## The Hohenlohe-Ingelfingen years

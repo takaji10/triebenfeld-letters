@@ -54,7 +54,7 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
+   "scan": "",
    "doc_line_start": 1,
    "doc_line_end": 15
   },
@@ -78,7 +78,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "doc_line_start": 16,
    "doc_line_end": 31
   },
@@ -100,7 +100,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a2-L20_03.jpg",
+   "scan": "",
    "doc_line_start": 32,
    "doc_line_end": 42
   }
@@ -113,7 +113,7 @@
    "surface": "Brehmer",
    "page": 1,
    "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
+   "scan": "",
    "line": 677,
    "doc_line": 1
   },
@@ -124,7 +124,7 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
+   "scan": "",
    "line": 682,
    "doc_line": 6
   },
@@ -135,7 +135,7 @@
    "surface": "B[alan]",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 698,
    "doc_line": 21
   },
@@ -146,7 +146,7 @@
    "surface": "Schoeler",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 699,
    "doc_line": 22
   },
@@ -157,7 +157,7 @@
    "surface": "Hohenlohe",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 702,
    "doc_line": 25
   },
@@ -168,7 +168,7 @@
    "surface": "B[alan]",
    "page": 3,
    "page_id": "0029_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a2-L20_03.jpg",
+   "scan": "",
    "line": 720,
    "doc_line": 42
   }
@@ -280,7 +280,7 @@
    "surface": "Ingelfingen",
    "page": 1,
    "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
+   "scan": "",
    "line": 683,
    "doc_line": 7
   },
@@ -291,7 +291,7 @@
    "surface": "Szettlewek",
    "page": 1,
    "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
+   "scan": "",
    "line": 684,
    "doc_line": 8
   },
@@ -302,7 +302,7 @@
    "surface": "Szettlewek",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 695,
    "doc_line": 18
   },
@@ -313,7 +313,7 @@
    "surface": "Trąbczyn",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 695,
    "doc_line": 18
   },
@@ -324,7 +324,7 @@
    "surface": "B[erlin]",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 697,
    "doc_line": 20
   },
@@ -335,7 +335,7 @@
    "surface": "Petersburg",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 699,
    "doc_line": 22
   },
@@ -346,7 +346,7 @@
    "surface": "Trąbczyn",
    "page": 2,
    "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+   "scan": "",
    "line": 702,
    "doc_line": 25
   },
@@ -357,7 +357,7 @@
    "surface": "B[erlin]",
    "page": 3,
    "page_id": "0029_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a2-L20_03.jpg",
+   "scan": "",
    "line": 719,
    "doc_line": 41
   }

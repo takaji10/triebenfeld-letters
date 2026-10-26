@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 629 documents on 2,089 pages, dated from 1173 to 1936. The oldest are  
+The edition holds 630 documents on 2,103 pages, dated from 1173 to 1936. The oldest are  
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from fifty holdings in six archives and a library:
+The documents come from fifty-one holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -46,10 +46,11 @@ The documents come from fifty holdings in six archives and a library:
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
   administration of its Polish provinces, of the foreign ministry and of the state treasury;
 - the **State Archive in Poznań**: entries from the court books of Konin and Kalisz on the
-  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (23
-  holdings, 94 documents), among them the report of 1727 in which the
+  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (24
+  holdings, 95 documents), among them the report of 1727 in which the
   court messenger Sebastian Szetlewicz of Szetlewek records serving a citation at
-  Szetlew; thirteen pages of the hearth-tax register of the Kalisz
+  Szetlew, and the decree of the condescensio of 29 March 1784 on the succession of
+  the Prusimski brothers, entered in the register of the castellany court of Poznań; thirteen pages of the hearth-tax register of the Kalisz
   voivodeship for 1789; the head of the table of the parish of Trąbczyn on page 543
   of the register of the grod court and office of Pyzdry, of 1791 to 1792; a court
   record of 1806; copies made about 1930 of papers on the
@@ -162,7 +163,7 @@ There are 910 marks of doubt in the edition. Each document's page says how many 
 
 ## The English translations
 
-Every document that has text has an English translation: 625 of the 629. They were made by
+Every document that has text has an English translation: 626 of the 630. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.

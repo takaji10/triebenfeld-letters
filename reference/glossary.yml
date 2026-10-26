@@ -184,7 +184,12 @@ entries:
   head_en: gulden
   head_de: Gulden
   orig: Gulden, fl.
-  match_de: '\bGulden\b|(?:\d\.? ?)(?P<w>fl)\b'
+  # The optional-figure form and the bare "fl." with its dot take the
+  # florin abbreviation wherever it stands, for the Latin of the Poznań
+  # court books, which writes the figures in words ("sex fl. gn. 20
+  # Polonicalium", Poznań Gr.1181) and so defeats the figure-before-fl
+  # form; "fl." alone always means the florin.
+  match_de: '\bGulden\b|(?:\d\.? ?)?(?P<w>fl)(?:\b|\.(?=\s))'
   match_en: '\bgulden\b'
   short_en: >-
     The florin, written fl. In the letters from the Congress of Vienna, the
@@ -2685,6 +2690,8 @@ entries:
 # Words ruled out, with the reason. glossary_candidates.py does not raise them
 # again.
 excluded:
+  - {word: Junii, reason: "the Latin genitive of the month in the date formulas (die 17 Mensis Junii, Poznań Gr.1181), plain in English as of June; the numbered month forms are the months-by-number entry's answer"}
+  - {word: Jacobi, reason: "in 53/20/0/-/Poznań Gr.1181 the genitive of the man's name (Generosi Jacobi Rzechicki, p. 166), not the feast of St James the termbase offers; the holding has no feast-day Jacobi"}
   - {word: Graf, reason: "plain in English as Count"}
   - {word: Fürst, reason: "plain in English as Prince"}
   - {word: Abschrift, reason: "plain in English as copy"}

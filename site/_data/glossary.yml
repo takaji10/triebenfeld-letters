@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 95
+  docs: 96
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -112,7 +112,7 @@
   initial_en: "D"
   sort_de: "dukaten"
   initial_de: "D"
-  docs: 16
+  docs: 17
 - id: "gulden"
   kind: "money"
   lang: "de"
@@ -131,7 +131,7 @@
   initial_en: "G"
   sort_de: "gulden"
   initial_de: "G"
-  docs: 23
+  docs: 27
 - id: "morgen"
   kind: "money"
   lang: "de"
@@ -511,7 +511,7 @@
   initial_en: "D"
   sort_de: "donation"
   initial_de: "D"
-  docs: 23
+  docs: 24
 - id: "taxe"
   kind: "land"
   lang: "de_la"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 74
+  docs: 75
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -777,7 +777,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 75
+  docs: 76
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -815,7 +815,7 @@
   initial_en: "R"
   sort_de: "resignation"
   initial_de: "R"
-  docs: 14
+  docs: 15
 - id: "vollmacht"
   kind: "law"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 64
+  docs: 65
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1081,7 +1081,7 @@
   initial_en: "W"
   sort_de: "wozny (gerichtsbote)"
   initial_de: "W"
-  docs: 44
+  docs: 45
 - id: "matura"
   kind: "law"
   lang: "de"
@@ -1138,7 +1138,7 @@
   initial_en: "G"
   sort_de: "grod (burggericht)"
   initial_de: "G"
-  docs: 57
+  docs: 58
 - id: "stawisko"
   kind: "land"
   lang: "pl"

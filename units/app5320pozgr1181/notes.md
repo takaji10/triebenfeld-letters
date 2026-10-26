@@ -120,7 +120,76 @@ reading they settle.
 
 ## Open
 
-- The spot sheet (all sections).
+- The spot sheet (all sections). The holding is integrated and translated
+  with the doubts standing as written; when the answers come they are ruled
+  into the text and the affected pages rebuilt.
 - The fond's own name in the archive's inventory (unit.yml `fonds` left
   unwritten until the editor supplies it, as for Konin Gr.117).
-- The English translation (in session, after the sheet's answers).
+
+## The integration (2026-10-26, same day, second sitting)
+
+The editor's word: integrate, commit, merge into main, publish. Done in
+session, no paid run:
+
+- **Translation** in session, page by page, under the pipeline's own rules;
+  written to the translation cache through `translate.py`'s own `save()` by
+  `intake/translation/write_cache.py` (the cache is not in the repository;
+  the script is the record). Published to the site data with
+  `publish_translations.py`. The checker's rows: one real catch (the
+  English had the manuscript's "Trąmpczyn" where the edition prints
+  "Trąbczyn" — fixed outside the [written ...] brackets) and one real
+  forbidden rendering ("engrossed", a German-Ausfertigung rule — rewritten
+  "entered at length"); the rest were Latin-source false positives, cleared
+  in `reference/translation_rulings.json` with the reason recorded there.
+- **Summaries** in both languages, inserted into `site/_data/summaries.yml`
+  and `summaries_de.yml` by `intake/write_summaries.py` (the script is the
+  record). **Claim check** in `intake/claim_check.yml`, hand-made under the
+  `--verify` rules: 13 statements, all supported after three corrections of
+  the draft — the three daughters (not four), the two paternal figures
+  (Paweł's scheda 154,436 gr 24½ at p. 166v and the captain's own 154,936
+  gr 24½ at p. 167, each right for its own scheda; the draft had carried
+  only 154,936), the Nierzychowska ground (quieted 1740, refused as a load
+  borne over, not "not provable as paid"), and the manuscript's own
+  "filiastro[?]" for the bracket. The decree's arithmetic was verified by
+  computing it (98,379 gr 5 = 130,594 gr 5 − 32,215; ÷6 = 16,396 gr 15
+  2½ solidi, the solidus the third of the groschen; 170,833 gr 10 and
+  171,333 gr 10 less 16,396 gr 15 2½ solidi = 154,436 and 154,936 gr 24½);
+  the weekday formulas all fit the years the decree gives them.
+- **Glossary gate**: `Jacobi` excluded (the man's name, not the feast);
+  `Junii` excluded (the month's genitive, plain in English); `fl.` covered
+  by widening the gulden entry's pattern to the bare "fl." (the Latin
+  writes the figures in words — "sex fl. gn[?] 20" — which defeated the
+  figure-before-fl form). The literature index needed one new ruling
+  (Breyer 1938 p. 17, an estate "Brzezno" on the Koło-Konin road, ruled
+  yes) and one stale row cleared (the szetlewek refusal of "Szetlewo",
+  stale since the szetlew split of the relatio holding, merged from main
+  the same day).
+- **People**: twelve entries added (`intake/add_people.py` is the record):
+  Skarbek (castellan of Uniejów — the scribe's "Junivladislaviensi" read
+  by its sense, kept doubtful in the translation), Zelisławski, and the
+  family entries of the five sisters'-heirs parties, the abbot and prior
+  of Ląd, the Radolińskis, Bienicki, and the Goliński family (the ADWl 85
+  "Golinska" excluded from it). Bios appended to `people_bios.yml`.
+- **Places**: seven entries added to `reference/places.yml` — Oporowo
+  (with the shares Oporówka and Kałowa folded into its pattern; map link
+  firm: Oporowo, gmina Krzemieniewo, pow. leszczyński — Oporówko and the
+  hamlet Kałowo-in-Oporowo answer the decree's shares, and the 1673 sale
+  before the castellany acts of Wschowa fits the region), Prusinowo,
+  Wierzbno, Brzezno (the manuscript's "Breczno" folded in), Chyby, Jaryszki
+  (map link: gmina Kórnik), Radolin (pattern keeps the family name out).
+  No map link where the identification is open, and the open questions are
+  written on the entries. The hearth-tax register and the Kalisz table
+  already carry "Radolina" and "Dorf Prusinowa" — their mentions now
+  resolve.
+- **Timeline**: the decree of 29 March 1784 as an estate event, with refs
+  and the German fields.
+- **The site's hand-kept counts** corrected in the edition guide (both
+  languages): 630 documents, 2,103 pages, 626 translated, 51 holdings,
+  24/95 for the Poznań archive, and the decree named there.
+- **Merged origin/main** (the Pyzdry Gr.115 holding and the Szetlewicz
+  relatio) into the branch; derived files took main's side, the four
+  authored conflicts (CHANGELOG, TODO, dwds_cache, translation_rulings)
+  hand-merged, the two JSON caches by union.
+- Status `translated`. Publishing (the merge to main and the push) is the
+  editor's word given in this sitting; the spot sheet stays open, its
+  answers to be ruled in when they come.

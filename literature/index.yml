@@ -697,6 +697,13 @@ places:
     # colony near Łódź, not the edition's Brzyce near Trąbczyn.
     Brzyczka: "no: the colony Brzyczka near Łódź founded by A. Reptowski, canon of the Poznań cathedral (Kneifel 1964, p. 41), not the edition's Brzyce in the Konin district"
   dormowo: {Dormowo: yes}
+  brzezno:
+    # Breyer (1938) p. 17: the hamlets "Briesner Buden" on the road
+    # Koło-Konin arose after 1830 "vom Gute Brzezno aus" - an estate in the
+    # Konin district, the decree of 1784's Brzezno (APP 53/20/0/-/Poznań
+    # Gr.1181 carries it with Wierzbno, ceded 1676, and the Obarzankowski
+    # load of 33,000 florins Polish).
+    Brzezno: yes
   drzewce:
     Drzewce: yes
     Drzewiecki: "no: a surname in the list of the Pyzdry Olęders (Chodyła 2015)"
@@ -820,7 +827,9 @@ places:
   szetlewek:
     Szetlewek: yes
     Szellewen: yes
-    Szetlewo: "no: Szetlew, the village of the Ląd monastery; not Szetlewek (as in the edition's KDW entries)"
+    # The Szetlewo refusal moved to the szetlew entry on 2026-10-26, when the
+    # relatio of APP 53/4/0/-/62 told Szetlew and Szetlewek apart and the
+    # spelling became szetlew's own.
   szetlew:
     # Matched from 2026-10-26, when the relatio of APP 53/4/0/-/62 became the
     # first text to tell Szetlew and Szetlewek apart (reference/places.yml).

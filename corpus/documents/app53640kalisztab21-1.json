@@ -54,7 +54,7 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0001_a-L1_01.jpg",
+   "scan": "",
    "doc_line_start": 1,
    "doc_line_end": 32
   },
@@ -74,7 +74,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0007_a-L1_02.jpg",
+   "scan": "",
    "doc_line_start": 33,
    "doc_line_end": 62
   },
@@ -94,7 +94,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0007_b-L1_03.jpg",
+   "scan": "",
    "doc_line_start": 63,
    "doc_line_end": 92
   },
@@ -114,7 +114,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0008_a-L1_04.jpg",
+   "scan": "",
    "doc_line_start": 93,
    "doc_line_end": 121
   },
@@ -134,7 +134,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0008_b-L1_05.jpg",
+   "scan": "",
    "doc_line_start": 122,
    "doc_line_end": 148
   },
@@ -154,7 +154,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0009_a-L1_06.jpg",
+   "scan": "",
    "doc_line_start": 149,
    "doc_line_end": 178
   },
@@ -174,7 +174,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0009_b-L1_07.jpg",
+   "scan": "",
    "doc_line_start": 179,
    "doc_line_end": 210
   },
@@ -194,7 +194,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0018_a-L1_08.jpg",
+   "scan": "",
    "doc_line_start": 211,
    "doc_line_end": 238
   },
@@ -214,7 +214,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0018_b-L1_09.jpg",
+   "scan": "",
    "doc_line_start": 239,
    "doc_line_end": 267
   },
@@ -234,7 +234,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0019_a-L1_10.jpg",
+   "scan": "",
    "doc_line_start": 268,
    "doc_line_end": 297
   },
@@ -254,7 +254,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0019_b-L1_11.jpg",
+   "scan": "",
    "doc_line_start": 298,
    "doc_line_end": 328
   },
@@ -274,7 +274,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg",
+   "scan": "",
    "doc_line_start": 329,
    "doc_line_end": 359
   },
@@ -294,7 +294,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0020_b-L1_13.jpg",
+   "scan": "",
    "doc_line_start": 360,
    "doc_line_end": 391
   }
@@ -307,7 +307,7 @@
    "surface": "Przespolewski",
    "page": 6,
    "page_id": "0009_a",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0009_a-L1_06.jpg",
+   "scan": "",
    "line": 185,
    "doc_line": 171
   }
@@ -322,7 +322,7 @@
    "surface": "Pyzdry",
    "page": 3,
    "page_id": "0007_b",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0007_b-L1_03.jpg",
+   "scan": "",
    "line": 87,
    "doc_line": 76
   },
@@ -333,7 +333,7 @@
    "surface": "Adamierz",
    "page": 3,
    "page_id": "0007_b",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0007_b-L1_03.jpg",
+   "scan": "",
    "line": 102,
    "doc_line": 91
   },
@@ -344,7 +344,7 @@
    "surface": "Łukom",
    "page": 9,
    "page_id": "0018_b",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0018_b-L1_09.jpg",
+   "scan": "",
    "line": 276,
    "doc_line": 259
   },
@@ -355,9 +355,20 @@
    "surface": "Rzgow",
    "page": 10,
    "page_id": "0019_a",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0019_a-L1_10.jpg",
+   "scan": "",
    "line": 308,
    "doc_line": 290
+  },
+  {
+   "entity": "radolin",
+   "display": "Radolin",
+   "kind": "place",
+   "surface": "Radolina",
+   "page": 11,
+   "page_id": "0019_b",
+   "scan": "",
+   "line": 324,
+   "doc_line": 305
   },
   {
    "entity": "szetlew",
@@ -366,7 +377,7 @@
    "surface": "Szetlewo",
    "page": 11,
    "page_id": "0019_b",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0019_b-L1_11.jpg",
+   "scan": "",
    "line": 340,
    "doc_line": 321
   },
@@ -377,7 +388,7 @@
    "surface": "Szetlewek",
    "page": 11,
    "page_id": "0019_b",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0019_b-L1_11.jpg",
+   "scan": "",
    "line": 344,
    "doc_line": 325
   },
@@ -388,7 +399,7 @@
    "surface": "Trąpczyn",
    "page": 12,
    "page_id": "0020_a",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg",
+   "scan": "",
    "line": 351,
    "doc_line": 331
   },
@@ -399,7 +410,7 @@
    "surface": "Łazy",
    "page": 12,
    "page_id": "0020_a",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg",
+   "scan": "",
    "line": 353,
    "doc_line": 333
   },
@@ -410,7 +421,7 @@
    "surface": "Osiny",
    "page": 12,
    "page_id": "0020_a",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg",
+   "scan": "",
    "line": 354,
    "doc_line": 334
   },
@@ -421,7 +432,7 @@
    "surface": "Trąbczynskie",
    "page": 12,
    "page_id": "0020_a",
-   "scan": "APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg",
+   "scan": "",
    "line": 356,
    "doc_line": 336
   }

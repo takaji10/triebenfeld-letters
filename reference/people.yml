@@ -2106,6 +2106,118 @@ people:
     variants: []
     identity: "Dr. Konstanty (Kwiryn Józef) Lidmanowski (30 March 1865, Słupca - 6 January 1943, Zagórów), physician: settled in Zagórów in 1893 and practised there to his death; founder of the town's volunteer fire brigade (1899), its loan-and-savings society (1901) and its Polish-language school (1906), and keeper of its hospital from 1910 (the Polish Wikipedia's article, with S. Kumosa, Lekarze medycyny i stomatologii pracujący w lecznictwie zagórowskim, Zagórów 1992; the dates rest on the encyclopedia, NEEDS_CONFIRMATION). Zdrowie's table of contents styles him 'Dr. z Zagórowa'. The Newspapers carry two of his articles - on the rural dwellings (Zdrowie 1914) and on the nutrition of the people of the Słupca powiat (Zdrowie 1912) - and the Jutrzenka digest of April 1913 of his article on the folk attire, which names him in the third person; whether that page is signed is open (NEEDS_CONFIRMATION, 'The newspapers'). Added 2026-10-22."
 
+# --- APP 53/20/0/-/Poznań Gr.1181 (added 2026-10-26) ---
+
+skarbek-gora:
+  display: "Eugeniusz de Góra Skarbek, castellan of Uniejów"
+  render: "Eugeniusz Skarbek"
+  match: "Skarbek\\w*"
+  tier: "Text-confirmed"
+  variants: []
+  identity: "Eugeniusz de Góra Skarbek, castellan [written 'Castellanida'] of Uniejów (Junivladislavia), a witness at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181). The castellany of Uniejów sat in the palatinate of Łęczyca; the scribe's 'Junivladislaviensis' is its Latin. Not known further to the edition. Added 2026-10-26."
+  merge: false
+
+zelislawski:
+  display: "Tomasz Zelisławski, burgrave of Konin"
+  render: "Tomasz Zelisławski"
+  match: "Zelisławsk\\w*"
+  tier: "Text-confirmed"
+  variants: []
+  identity: "Tomasz Zelisławski, burgrave of the castellany of Konin, a witness at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181). Not known further to the edition; the diacritic-less 'Zelislawski' of I. HA Rep. 162 Nr. 295 is not matched to him (NEEDS_CONFIRMATION). Added 2026-10-26."
+  merge: false
+
+zakrzewski:
+  display: "Zakrzewski"
+  render: "Zakrzewski"
+  match: "Zakrzewsk\\w*"
+  tier: "Named in the documents (a family entry)"
+  variants: []
+  identity: "The Zakrzewski party of the Prusimski succession suit: the heirs of the sisters' line. Kazimierz Zakrzewski, judge territorial of Brześć in Kujawy, father of Joanna Nepomucena (judge castellany of Radziejów); his sons Ignacy, ensifer [miecznik] of Przedecz, and Ludwik, acted as the first actors of the suit at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181); Ignacy took the parties' oath on the bringing of the documents. Kazimierz Zakrzewski named (without the office) in Konin Gr.115 and Gr.118; Zakrzewskis in the Konin Gr.145 register and the Kalisz table (Tab. 21) and in Oe 1 Bü 9454 are not known to be of this family. Added 2026-10-26."
+  merge: false
+
+tomicki:
+  display: "Tomicki"
+  render: "Tomicki"
+  match: "Tomick\\w*"
+  tier: "Named in the documents (a family entry)"
+  variants: []
+  identity: "The Tomicki party of the Prusimski succession suit, heirs of Mariana de Prusimski Tomicka, the third daughter of Krzysztof Prusimski and Teresa Golińska: Paweł and Józef, brothers german, actors at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181), through the Magnificent Jakub, parent of Józef, regent territorial of Wieluń. Mariana's dowry and the decree of 1738 obtained by the Kowalskis for the sisters' betterment are recited in the decree. Tomickis in Konin Gr.118 and Gr.145 and in AGAD 1/169/0/1/1745 are not known to be of this family. Added 2026-10-26."
+  merge: false
+
+taczanowski:
+  display: "Taczanowski"
+  render: "Taczanowski"
+  match: "Taczanow\\w*"
+  tier: "Named in the documents (a family entry)"
+  variants: []
+  identity: "The Taczanowski party of the Prusimski succession suit: Rafał, Wincenty and Mikołaj, sons of the late Magnificent Elżbieta de Tworowicz, brothers german among the Taczanowskis, actors at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181), acting through the Magnificent Józef Taczanowski, regent territorial of Wieluń. Taczanowskis in Konin Gr.118 (a royal huntsman of the family) are not known to be these. Added 2026-10-26."
+  merge: false
+
+kolaczkowski:
+  display: "Kołaczkowski"
+  render: "Kołaczkowski"
+  match: "Kołaczkow\\w*"
+  tier: "Named in the documents (a family entry)"
+  variants: []
+  identity: "The Kołaczkowski party of the Prusimski succession suit, heirs of Wiktoria de Prusimski, the second daughter of Krzysztof Prusimski and Teresa Golińska: Piotr Kołaczkowski and his wife Kunegunda de Kowalski, actors at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181). Kołaczkowskis in Konin Gr.118 are not known to be these. Added 2026-10-26."
+  merge: false
+
+tworowicz:
+  display: "Tworowicz"
+  render: "Tworowicz"
+  match: "Tworowicz\\w*"
+  tier: "Named in the documents (a family entry)"
+  variants: []
+  identity: "The Tworowicz party of the Prusimski succession suit: Franciszek Tworowicz, actor at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181), of the family of the late Magnificent Elżbieta de Tworowicz, whose sons by Taczanowski acted beside him, and of Michał Tworowicz, the third husband of Wiktoria de Prusimski. Tworowiczes in Konin Gr.118 are not known to be these. Added 2026-10-26."
+  merge: false
+
+lubstowski:
+  display: "Benedykt Lubstowski, abbot of Ląd"
+  render: "Benedykt Lubstowski"
+  match: "Lubstowsk\\w*"
+  tier: "Text-confirmed"
+  variants: []
+  identity: "Benedykt Lubstowski, abbot of the Cistercian abbey of Ląd, cited with his convent at the condescensio of 29 March 1784 on the Trąbczyn grounds over the reproduction of the quietation of the 3,500 Hungarian ducats and the silver of the Prusimski house lodged in the convent's treasury (Poznań Gr.1181); the convent appeared through its procurator. Abbot of Ląd in the Konin Gr.118 and Gr.153 records (named there without this document's spelling being compared). Added 2026-10-26."
+  merge: false
+
+wybieralski:
+  display: "Paweł Wybieralski, prior of Ląd"
+  render: "Paweł Wybieralski"
+  match: "Wybieralsk\\w*"
+  tier: "Text-confirmed"
+  variants: []
+  identity: "Paweł Wybieralski, prior of the Cistercian convent of Ląd, cited with the abbot at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181). A Wybieralski in Konin Gr.153 is not known to be he. Added 2026-10-26."
+  merge: false
+
+radolinski:
+  display: "Radoliński"
+  render: "Radoliński"
+  match: "Radolinsc?\\w*"
+  tier: "Named in the documents (a family entry)"
+  variants: ["Radolinski", "Radolenski", "Radolensian"]
+  identity: "The Radoliński family of Radolin, subchamberlains (podskarbi) territorial of Wschowa, holders of the 43,000-florins-Polish claim on the estates of Trąbczyn that the decree of 1784 leaves undecided: the obligation of 1736 upon the brothers Prusimski (Józef and Stefan Radoliński of the same name), the complanatio of 1744 with Teresa de Suinarska and her sons Mikołaj, Andrzej, Albert and Jan, the manual quietation of 1748 at Krethowo for 22,600 florins Polish, and the dispute whether the ultimate script of the citation is in Andrzej Radoliński's hand (Poznań Gr.1181). The spelling of the family name in this document is 'Radolinsk-'; the diacritic form Radoliński is the standard. Added 2026-10-26."
+  merge: false
+
+bienicki:
+  display: "Andrzej Bienicki, parish priest of Zagórów"
+  render: "Andrzej Bienicki"
+  match: "Bienick\\w*"
+  tier: "Text-confirmed"
+  variants: ["Bienicki", "Bienickij"]
+  identity: "Andrzej Bienicki, Most Honourable Reverend, parish priest of Zagórów: by the inscription of 1647 (Marcin Strzałkowski's 2,000 florins Polish over Szetlewo) and his own separate inscription of 1661 the 2,000 were given to the parish church of Zagórów in perpetuum, as the decree of 1784 recites from the acts of Pyzdry (Poznań Gr.1181). Added 2026-10-26."
+  merge: false
+
+golinski:
+  display: "Goliński"
+  render: "Goliński"
+  match: "Golinsk\\w*"
+  not_in: ["adwl85-1"]
+  tier: "Named in the documents (a family entry)"
+  variants: []
+  identity: "The Goliński family, the maternal line of the Prusimski succession: Jan Łoso Golinski, burgrave of Konin (his purchases of Oporowo, Prusinowo and Szetlewek recited back to 1647), his wife Konstancja Krusińska, their daughter Teresa, wife of Krzysztof Prusimski, whose maternal estate the sisters' claim in the decree of 1784 works out (Poznań Gr.1181); Anna de Bojanowska, the mother of Paweł Golinski, and Apollonia, wife of Zygmunt Obiesierski, of the same house. The 'Golinska' of ADWł 85 is excluded from this entry and remains its own. Added 2026-10-26."
+  distinct_from: ["golinska"]
+  merge: false
+
 # Long-tail names (reference/name_seeds.json) shut out of named documents.
 seed_not_in:
   # Otto of Trąbczyn (otto-z-trabczyna), not the Otto of the correspondence.

@@ -90,6 +90,19 @@ und die Visitation der Pfarrei Trąbczyn 1790 und 1791, die ihre 760 Seelen zäh
 ([die Visitation]({{ '/de/quellen/adwl85/' | relative_url }})). Eine ausführlichere Darstellung
 dieser Jahre ist noch zu schreiben.
 
+### Die Erbschaft der Brüder Prusimski
+
+Ein zweiter Streit derselben Jahre lief in der Familie selbst. Die Brüder Antoni und Paweł
+Prusimski starben ohne Kinder, und ihre ganze Substanz, die väterliche wie die mütterliche,
+fiel der Teilung anheim, wie sie die Teilung ihres Vaters Krzysztof von 1740 gelassen hatte.
+Die Erben der Schwestern klagten um ihre Anteile; die Abtei Ląd wurde wegen der Juwelen und
+des Silbers des Hauses, in ihrem Schatz niedergelegt, zitiert; und die Forderung der
+Radolińskis von 43 000 Florin polnisch auf Trąbczyn, im Verdacht der Fälschung bestritten,
+ließ das Gericht unentschieden. Am 29. März 1784 saß die Kondeszension auf dem Grund von
+Trąbczyn und sprach ihr Dekret: die mütterliche Masse unter den sechs Kapitalien geteilt,
+die väterliche Substanz dem Neffen der Brüder zugesprochen, Antoni in Kolno Prusimski,
+Kapitän von Nieśwież ([das Dekret]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
+
 ---
 
 ## Die Hohenlohe-Ingelfingener Jahre

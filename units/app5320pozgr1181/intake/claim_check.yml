@@ -1,0 +1,79 @@
+# The claim check of the summaries of APP 53/20/0/-/Poznań Gr.1181, made in
+# session on 2026-10-26 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. The
+# document is the editor's own transcription, kept as written; the weekday
+# formulas were computed (the decree's own dates are checked against the
+# calendar, and every one of them fits the year the decree gives it).
+#
+# Result: 13 statements, all supported after two corrected in the draft.
+# 1. The draft said the dowry quietations were of "the four daughters": the
+#    decree names three daughters of Krzysztof Prusimski and Teresa Golinska
+#    (Konstancja, Wiktoria, Mariana), and gives two quietations of 20,000
+#    florins Polish (the first and the second daughter) and a testamentary
+#    dowry for the third. Corrected in the summary and the holding's pages.
+# 2. The draft gave the clean paternal fortune as one figure, 154,936: the
+#    decree works the deduction twice, Paweł's scheda at 154,436 florins
+#    groschen 24 1/2 Polish (p. 166) and the captain's own at 154,936
+#    (p. 167), each after the maternal portion's deduction. Both figures are
+#    in the decree and both are aright for their own scheda (checked:
+#    170,833 gr 10 and 171,333 gr 10 less 16,396 gr 15 2 1/2 solidi). The
+#    summary now carries both. Also the ground of the "nothing for the
+#    female sex" ruling was stated too flatly: the widow Nierzychowska's
+#    30,000 has its quietation of 1740; what the court refuses is to judge
+#    it a load borne over, because no contestation between the surviving
+#    brothers reposes it and the later transactions do not carry it.
+# 3. The draft's bracket said the manuscript writes "filiaster": it writes
+#    "filiastro[?]", the ablative with the doubt mark; the bracket follows
+#    the manuscript.
+#
+# The document's sums are written in Latin words in the transcription, so
+# the figures of the summary were verified by reading the words and doing
+# the decree's own arithmetic: 130,594 gr 5 less 32,215 = 98,379 gr 5, the
+# maternal mass; 98,379 gr 5 divided by 6 = 16,396 gr 15 2 1/2 solidi, the
+# capit (the Polish reckoning this decree uses: 6 capits x 2 1/2 solidi =
+# the 5 groschen of the remainder, so the solidus is the third of the
+# groschen); 254,000 less the scheda's 83,500 of loads plus the 333 gr 10
+# quota = 170,833 gr 10 for Pawel; 201,000 + 8,000 less its loads and the
+# same quota = 171,333 gr 10 for the captain's scheda.
+
+doc1:
+  - statement: The decree of the condescensio was held at the grounds of Trąbczyn, at the manor there, on Monday after Judica Sunday, 29 March 1784.
+    where: 001, p. 161 (0161_a), lines 5-7
+    verdict: supported
+  - statement: It sat on the ultimate limitation, by the castellany offices of Greater Poland, of the succession the sterile brothers Antoni and Paweł Prusimski left.
+    where: 001, p. 161 (0161_a), line 14, "Ultimariae Limitationis per Officia Castrensia ... Majoris Poloniae"; the sterile brothers p. 161v (0161_b), line 44
+    verdict: supported
+  - statement: The parties were Antoni in Kolno Prusimski, captain of Nieśwież, knight of the Order of St Stanisław, against the heirs of the sisters' line, the Zakrzewski, Tomicki, Taczanowski, Kołaczkowski and Tworowicz parties.
+    where: 001, p. 162 (0162_a), line 47, and p. 162v (0162_b), line 50 (the captain "Equitem Ordinis S. Stanislai"), the five parties named with their proctors
+    verdict: supported
+  - statement: The abbot and convent of Ląd were cited over the reproduction of the quietation of 3,500 Hungarian ducats and of the jewels and silver of the Prusimski house lodged in the convent's treasury.
+    where: 001, p. 161v (0161_b), line 44, "pro reproductione quietatnis[?] tam de summa Trium Millium Quingentorum Ducatorum Ungaricalium quam de Argento et Gemmis"
+    verdict: supported
+  - statement: The sworn bringing of the documents the tribunal's decree commanded was completed in December 1783 and the oath taken by Ignacy Zakrzewski.
+    where: 001, p. 161 (0161_a), line 16, the terminus "Prima Mensis Decembris anno immediate elapso 1783" at Konin; the oath p. 161v (0161_b), line 44, "juramenta"
+    verdict: supported
+  - statement: The tribunal's decree is dated 8 October 1782; the scribe writes the 8th, the Monday after St Francis of that year was the 7th.
+    where: 001, p. 161 (0161_a), line 20, "videlicet 8ua Mensis 8bris anno 1782"; computed: 4 October 1782 was a Friday, the Monday after 7 October
+    verdict: supported
+  - statement: The fraternal division of 1740 carried three schedas with their loads, and its recital runs from the wadion of 1700 and the death of Ludwik Prusimski at Kamionna in 1708 to the dowry provisions and quietations of the three daughters.
+    where: 001, p. 163 (0163_a), line 53, "Divisionae Fraturna ... Anno 1740", the wadion "septies cen[?] millium fp" and "Ludovici Prusimski ... in Kamionna die 23 Mensis Julii" of 1708, all one recital; the three daughters and their provisions p. 163v-164v (0163_b-0164_b), lines 56-62
+    verdict: supported
+  - statement: The maternal Goliński estates recited are Oporowo with the shares Oporówka and Kałowo, Prusinowo and Szetlewek, with their arendas and church inscriptions back to 1616.
+    where: 001, p. 163v (0163_b), line 56, "Oporowo et sortium Oporowka atque Kałowa", "Bona vero Prusinowa" and Szetlewo kątne, all one recital; the decree of 1616 p. 166 (0166_a), line 71, "Decreto Tribunalio Regni Petricoviensem anno 1616to"
+    verdict: supported
+  - statement: The clean maternal fortune of 98,379 florins groschen 5 Polish was divided among six capits, three brothers and three sisters, at 16,396 florins groschen 15 and 2 1/2 solidi each.
+    where: 001, p. 166v (0166_b), line 74, "nonaginta octo millium trecentorum septuaginta novem flor~ gross~ quinque"; the division "in tria Fratrum scilicet Stepham Antonii et Pauli totidemque capita sororum videlicet Constantiae Victoriae et Mariannae", each capit at "sexdecem millia Trecentos nonaginta sex fl gr~ 15 solidos duos cum midio"
+    verdict: supported
+  - statement: The clean paternal fortunes were adjudged to the captain as the brother's son [written "filiastro"], Paweł's scheda at 154,436 florins groschen 24 1/2 Polish and his own at 154,936 florins groschen 24 1/2, each after the deduction of the maternal portion.
+    where: 001, p. 166v (0166_b), line 74, "residuam summam centum quinquaginta quatuor millium quadringentorum Triginta sex fl g~ 24 et solidi midii"; p. 167 (0167_a), line 77, "residuam summam centum quinquaginta quatuor millium nongentorum triginta sex fl g~ 24 et solidi midii"; the adjudication "qua filiastro[?] germano ex lige et consuetudine", p. 166v-167, lines 74 and 77
+    verdict: supported
+  - statement: The widow Nierzychowska's 30,000, though quieted in 1740, and Puchalski's 10,000, presumed pacified, were not judged as borne over, so that nothing out of them can come to the female sex.
+    where: 001, p. 167 (0167_a), line 77, the quietation of 1740 before the acts of Poznań, "nulla contest~ao litis[?] inter superstitus fratres" and "non posse pro deportata censci[?]", Puchalski "pacificata esse praesumitur", and "pro re faemelli sexus ex hac summa nihil evenire posse"
+    verdict: supported
+  - statement: The Radoliński successors' claim of 43,000 florins Polish on Trąbczyn stands undecided: its letter of 1736 disputed as not in Andrzej Radoliński's hand, the cause remanded to Gniezno and undecided to this day, the 18,000 enumerated left standing as the original sum with the load removed, pending the final decision in the competent forum.
+    where: 001, p. 167v (0167_b), line 80, the dispute of the hand and the inquisition, "causam hanc ad Judicia Terrestria Gnesnensisa[?] remissam" and "hujusque indecisam causam extare"; p. 167v (0167_b), line 80, "restantem quotam [?]isque ad finalem in foro competenti decisionem non n[u?]merando"
+    verdict: supported
+  - statement: The last page opens the question of what the brothers alienated beyond the division, beginning with Katarzyna née Rozdrażewska, widow of Paweł, her 40,000 florins Polish inscribed in 1745 on Peczyska and Dubno, the condescensio term at Grab of 3 June 1782 with Ludwik Bogdański, chamberlain territorial of Kalisz, and Teresa née Rozdrażewska; and at the naming of Ewa de Maniewska Potocka, widow of Joachim Potocki, the entry breaks off mid-sentence.
+    where: 001, p. 167v (0167_b), line 80, the whole passage; the entry's last words at the foot of the page
+    verdict: supported

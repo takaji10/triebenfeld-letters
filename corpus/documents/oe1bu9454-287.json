@@ -54,7 +54,7 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "Oe_1_Bu_9454_0519_b-L287_01.jpg",
+   "scan": "",
    "doc_line_start": 1,
    "doc_line_end": 29
   },
@@ -74,7 +74,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
+   "scan": "",
    "doc_line_start": 30,
    "doc_line_end": 58
   },
@@ -96,7 +96,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
-   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+   "scan": "",
    "doc_line_start": 59,
    "doc_line_end": 86
   },
@@ -121,7 +121,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "doc_line_start": 87,
    "doc_line_end": 127
   }
@@ -134,7 +134,7 @@
    "surface": "B[arbe]",
    "page": 1,
    "page_id": "0519_b",
-   "scan": "Oe_1_Bu_9454_0519_b-L287_01.jpg",
+   "scan": "",
    "line": 20427,
    "doc_line": 7
   },
@@ -145,7 +145,7 @@
    "surface": "Lombardin",
    "page": 2,
    "page_id": "0520_a1",
-   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
+   "scan": "",
    "line": 20454,
    "doc_line": 33
   },
@@ -156,7 +156,7 @@
    "surface": "Beguelin",
    "page": 2,
    "page_id": "0520_a1",
-   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
+   "scan": "",
    "line": 20455,
    "doc_line": 34
   },
@@ -167,7 +167,7 @@
    "surface": "Hardenberg",
    "page": 3,
    "page_id": "0520_a2",
-   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+   "scan": "",
    "line": 20495,
    "doc_line": 73
   },
@@ -178,7 +178,7 @@
    "surface": "Pourtal",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20532,
    "doc_line": 109
   },
@@ -189,7 +189,7 @@
    "surface": "Radziwiłł",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20535,
    "doc_line": 112
   },
@@ -200,7 +200,7 @@
    "surface": "Zerboni",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20535,
    "doc_line": 112
   },
@@ -211,7 +211,7 @@
    "surface": "Triebenfeld",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20550,
    "doc_line": 127
   }
@@ -755,7 +755,7 @@
    "surface": "Ungarn",
    "page": 1,
    "page_id": "0519_b",
-   "scan": "Oe_1_Bu_9454_0519_b-L287_01.jpg",
+   "scan": "",
    "line": 20424,
    "doc_line": 4
   },
@@ -766,7 +766,7 @@
    "surface": "Italien",
    "page": 2,
    "page_id": "0520_a1",
-   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
+   "scan": "",
    "line": 20469,
    "doc_line": 48
   },
@@ -777,7 +777,7 @@
    "surface": "Italien",
    "page": 2,
    "page_id": "0520_a1",
-   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
+   "scan": "",
    "line": 20474,
    "doc_line": 53
   },
@@ -788,7 +788,7 @@
    "surface": "Bayreuth",
    "page": 2,
    "page_id": "0520_a1",
-   "scan": "Oe_1_Bu_9454_0520_a1-L287_02.jpg",
+   "scan": "",
    "line": 20479,
    "doc_line": 58
   },
@@ -799,7 +799,7 @@
    "surface": "Würtemberg",
    "page": 3,
    "page_id": "0520_a2",
-   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+   "scan": "",
    "line": 20481,
    "doc_line": 59
   },
@@ -810,7 +810,7 @@
    "surface": "Paris",
    "page": 3,
    "page_id": "0520_a2",
-   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+   "scan": "",
    "line": 20483,
    "doc_line": 61
   },
@@ -821,7 +821,7 @@
    "surface": "Würtemberg",
    "page": 3,
    "page_id": "0520_a2",
-   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+   "scan": "",
    "line": 20488,
    "doc_line": 66
   },
@@ -832,7 +832,7 @@
    "surface": "Berlin",
    "page": 3,
    "page_id": "0520_a2",
-   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+   "scan": "",
    "line": 20499,
    "doc_line": 77
   },
@@ -843,7 +843,7 @@
    "surface": "Frankfurt am Mein",
    "page": 3,
    "page_id": "0520_a2",
-   "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+   "scan": "",
    "line": 20499,
    "doc_line": 77
   },
@@ -854,7 +854,7 @@
    "surface": "Frankreichs",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20510,
    "doc_line": 87
   },
@@ -865,7 +865,7 @@
    "surface": "Italien",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20514,
    "doc_line": 91
   },
@@ -876,7 +876,7 @@
    "surface": "Rußland",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20514,
    "doc_line": 91
   },
@@ -887,7 +887,7 @@
    "surface": "Holland",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20517,
    "doc_line": 94
   },
@@ -898,7 +898,7 @@
    "surface": "Wurtemberg",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20517,
    "doc_line": 94
   },
@@ -909,7 +909,7 @@
    "surface": "Mecklenburg",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20518,
    "doc_line": 95
   },
@@ -920,7 +920,7 @@
    "surface": "Sachsen",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20518,
    "doc_line": 95
   },
@@ -931,7 +931,7 @@
    "surface": "Weimar",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20519,
    "doc_line": 96
   },
@@ -942,7 +942,7 @@
    "surface": "Frankreich",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20522,
    "doc_line": 99
   },
@@ -953,7 +953,7 @@
    "surface": "Frankreichen",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20522,
    "doc_line": 99
   },
@@ -964,7 +964,7 @@
    "surface": "Frankreich",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20525,
    "doc_line": 102
   },
@@ -975,7 +975,7 @@
    "surface": "Russland",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20529,
    "doc_line": 106
   },
@@ -986,7 +986,7 @@
    "surface": "Frankreich",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20532,
    "doc_line": 109
   },
@@ -997,7 +997,7 @@
    "surface": "Posen",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20535,
    "doc_line": 112
   },
@@ -1008,7 +1008,7 @@
    "surface": "Wien",
    "page": 4,
    "page_id": "0521_a",
-   "scan": "Oe_1_Bu_9454_0521_a-L287_04.jpg",
+   "scan": "",
    "line": 20547,
    "doc_line": 124
   }

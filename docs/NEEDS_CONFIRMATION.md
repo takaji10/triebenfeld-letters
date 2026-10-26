@@ -1096,6 +1096,9 @@ written until there is a witness or a better scan.
 
 People (`reference/people.yml`, `open_questions`):
 
+- The diacritic-less "Zelislawski" of I. HA Rep. 162 Nr. 295: not matched to
+  Tomasz Zelisławski, burgrave of Konin, of the decree of 1784 (Poznań
+  Gr.1181; recorded on the people entry).
 - Kaleschke / Koleschke, the actuarius of the Stillfried court: neither
   spelling is asserted.
 - Michaelis: the merchant and the Hof Fiscal may be one man or two.
@@ -1116,6 +1119,15 @@ People (`reference/people.yml`, `open_questions`):
 
 Places (`reference/places.yml`, `open_questions`):
 
+- **APP 53/20/0/-/Poznań Gr.1181** (added 2026-10-26): the scribe's
+  "Castellanida Junivladislaviensi" for Eugeniusz de Góra Skarbek — read by
+  its sense as the castellany of Uniejów (Latin Uniejovia), but the form is
+  the scribe's own garble and the office not confirmed; the English keeps
+  the doubt. The new estates' modern identifications (Prusinowo, Wierzbno,
+  Brzezno, Chyby, Radolin) stand open on their `open_questions`; Oporowo
+  (gmina Krzemieniewo) and Jaryszki (gmina Kórnik) carry map links. The
+  decree's doubtful names Termilis[?] and Kanino[?] are not indexed until
+  the sheet settles them.
 - "Borwiezer Holland", the colony the school teacher Samuel Adolph came
   from (the contract of 1820, APP 53/968/0/-/782): not identified. Borowiec
   (named in APP 53/968/0/-/669 as a source of marriage partners for the

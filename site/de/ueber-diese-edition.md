@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 629 Dokumente auf 2.089 Seiten aus den Jahren 1173 bis 1936. Die      
+Die Edition enthält 630 Dokumente auf 2.103 Seiten aus den Jahren 1173 bis 1936. Die      
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -39,7 +39,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus fünfzig Beständen in sechs Archiven und einer Bibliothek:
+Die Dokumente stammen aus einundfünfzig Beständen in sechs Archiven und einer Bibliothek:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -48,9 +48,11 @@ Die Dokumente stammen aus fünfzig Beständen in sechs Archiven und einer Biblio
 - dem **Geheimen Staatsarchiv Preußischer Kulturbesitz** in Berlin: Akten der preußischen
   Verwaltung der polnischen Provinzen, des Außenministeriums und der Staatskasse;
 - dem **Staatsarchiv Posen**: Einträgen aus den Gerichtsbüchern von Konin und Kalisch zur
-  Grenze zwischen Trąbczyn und Łukom und zu den Prozessen darum, von 1589 bis 1788 (23
-  Bestände, 94 Dokumente), darunter der Bericht von 1727, in dem der Gerichtsbote
-  Sebastian Szetlewicz von Szetlewek die Zustellung einer Ladung in Szetlew anzeigt, dreizehn Seiten des Registers der Rauchfangsteuer der
+  Grenze zwischen Trąbczyn und Łukom und zu den Prozessen darum, von 1589 bis 1788 (24
+  Bestände, 95 Dokumente), darunter der Bericht von 1727, in dem der Gerichtsbote
+  Sebastian Szetlewicz von Szetlewek die Zustellung einer Ladung in Szetlew anzeigt, und
+  dem Dekret der Kondeszension vom 29. März 1784 über die Erbschaft der Brüder Prusimski,
+  eingetragen in das Register des Kastellangerichts von Posen; dreizehn Seiten des Registers der Rauchfangsteuer der
   Woiwodschaft Kalisch für 1789, dem Kopf der Tabelle der Pfarrei Trąbczyn auf der
   Seite 543 des Registers des Burggerichts und -amts Pyzdry von 1791 bis 1792, einem
   Gerichtsprotokoll von 1806, um 1930 angefertigten
@@ -166,7 +168,7 @@ Die Edition enthält 910 Zweifelszeichen. Die Seite jedes Dokuments nennt deren 
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 625 von 629. Sie wurden von einem 
+Jedes Dokument mit Text hat eine englische Übersetzung: 626 von 630. Sie wurden von einem 
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.
