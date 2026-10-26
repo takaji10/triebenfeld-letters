@@ -1709,7 +1709,12 @@ cloud branches").
   first profile: a leftover loop variable (`h`, the page height) inside a
   comprehension offset every band by 528 px and pushed every estimate
   down the page; a variable named in a comprehension is the comprehension's
-  own, and reusing an outer name there is silent corruption.
+  own, and reusing an outer name there is silent corruption. A template
+  lesson beside it: **never rewrite a free-text box from its own trimmed
+  value inside the `input` handler** - the trim-and-write-back eats every
+  space the moment it is typed (the editor could not type spaces, 2026-10-26).
+  Keep the raw value while typing; trim only when the answers are copied out;
+  and let `mark()` write a value only when the box is not focused.
 - **A bare web fetch of an HTML page invents print slips** (2026-10-22,
   the Luteranie Konin parish page). The text conversion drops `<br/>` and
   `&nbsp;` runs: the page's "proboszczowie parafii<br/>z Grodźca" arrived
