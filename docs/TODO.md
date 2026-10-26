@@ -1147,3 +1147,28 @@ sheet shown with the holding and without a transcription (your word).
       them. Nothing else is open.
 - [x] Published at your word (2026-10-25): the branch merged to main and
       pushed; the "Build and deploy" run succeeded.
+
+## 36. APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784 (added 2026-10-26, on the branch `app5320pozgr1181`, not published)
+
+One Latin entry, pp. 161-167v of the relationes protocollon: the decree of the
+condescensio held on the Trąbczyn grounds on 29 March 1784, on the ultimate
+limitation of the Prusimski succession - the recital of the 1740 division, the
+loads, the sisters' heirs, the abbey of Ląd's quietation. Your own
+transcription; 108 readings settled in session before the first build
+(intake/changes_applied.md, with the witness of each).
+
+- [ ] **You: the spot sheet**, 66 rows, live at
+      https://takaji10.github.io/triebenfeld-spot/sheets/app5320pozgr1181/
+      (the same page keeps your answers on the phone until you copy them;
+      paste the block back into the chat). The crops were placed by machine
+      and are unchecked - tap "wrong line" where a picture misses its line.
+      The sheet carries the date questions (the digit of 178[?], the register
+      heading, the 8 October 1782 day), the open names and words, the
+      proposals (sab~bo, diversae, conjuges, sororem, Kotarbski...), and two
+      principle rows ruling on the case completions as a lot.
+- [ ] After the sheet: apply the answers, translate and summarise in session,
+      claim-check, write the holding's page in both languages, rule the index
+      (the new persons and the estates), the glossary and the timeline.
+- [ ] The entry breaks off mid-sentence at the foot of 167v: whether the
+      archive's next leaf is to come is on the sheet (`tail_167v`); if it is,
+      the entry is excerpted and the site says so.

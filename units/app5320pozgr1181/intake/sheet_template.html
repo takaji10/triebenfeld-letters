@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spot sheet — APP 53/20/0/-/Poznań Gr.1181</title>
+<style>
+  :root { --ink:#1a1a1a; --accent:#1a5c8a; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:Georgia,serif; color:var(--ink);
+         background:#f4f1ea; }
+  header { background:var(--accent); color:#fff; padding:14px 16px;
+           position:sticky; top:0; z-index:5; }
+  header h1 { font-size:1.05rem; margin:0 0 2px; }
+  header p { margin:0; font-size:.8rem; opacity:.85; }
+  main { padding:12px; max-width:760px; margin:0 auto; }
+  h2 { font-size:1rem; letter-spacing:.06em; text-transform:uppercase;
+       border-bottom:2px solid var(--accent); padding-bottom:4px; margin:28px 0 10px; }
+  .row { background:#fff; border:1px solid #d8d2c4; border-radius:8px;
+         padding:12px; margin:14px 0; }
+  .row h3 { font-family:ui-monospace,monospace; font-size:.8rem; margin:0 0 8px;
+            color:#666; }
+  .row img { width:100%; border:1px solid #ccc; border-radius:4px; }
+  .wrongline { margin:6px 0 0; font-size:.8rem; color:#a05a00; background:#fdf3e4;
+               border:1px solid #e8cfa0; padding:8px 10px; border-radius:6px;
+               width:100%; font-family:inherit; }
+  .wrongline.chosen { background:#a05a00; color:#fff; }
+  .q { font-size:.95rem; margin:10px 0 4px; }
+  .ctx { font-size:.78rem; color:#555; font-style:italic; margin:0 0 8px;
+         word-break:break-word; }
+  .note { font-size:.78rem; color:#666; margin:8px 0 0; }
+  .opts { display:flex; flex-wrap:wrap; gap:8px; margin:8px 0; }
+  .opt { flex:1 1 auto; min-width:100px; padding:12px 10px; font-size:.9rem;
+         font-family:inherit; border:2px solid var(--accent); background:#fff;
+         border-radius:6px; color:var(--accent); }
+  .opt.chosen { background:var(--accent); color:#fff; }
+  .free { width:100%; padding:10px; font-size:.95rem; font-family:inherit;
+          border:1px solid #bbb; border-radius:6px; margin-top:2px; }
+  .free.chosen { border-color:var(--accent); background:#eef4f8; }
+  #bar { position:fixed; bottom:0; left:0; right:0; background:#fff;
+         border-top:1px solid #ccc; padding:10px 12px; display:flex; gap:10px;
+         z-index:6; }
+  #bar button { flex:1; padding:14px; font-size:1rem; font-family:inherit;
+                border:0; border-radius:8px; }
+  #copy { background:var(--accent); color:#fff; }
+  #clear { background:#eee; }
+  #status { font-size:.8rem; align-self:center; color:#555; }
+  textarea { width:100%; height:40vh; font-family:ui-monospace,monospace;
+             font-size:.8rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Spot sheet — APP 53/20/0/-/Poznań Gr.1181</h1>
+  <p><!--COUNT--> readings for the editor · tap an answer, or write your own ·
+     answers stay on this device until you copy them · the crops were placed
+     by machine and are unchecked: tap "wrong line" where a picture misses its
+     line</p>
+</header>
+<main>
+<!--ROWS-->
+</main>
+<div id="bar">
+  <button id="copy">Copy answers</button>
+  <button id="clear">Clear</button>
+  <span id="status"></span>
+</div>
+<div id="modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:9;padding:16px;overflow:auto;">
+  <div style="background:#fff;max-width:700px;margin:20px auto;padding:14px;border-radius:8px;">
+    <p style="margin-top:0">Copy this block back into the chat (or to the desktop):</p>
+    <textarea id="out" readonly></textarea>
+    <p><button id="docopy" style="padding:10px 18px">Copy to clipboard</button>
+       <button id="close" style="padding:10px 18px">Close</button></p>
+  </div>
+</div>
+<script>
+var K = 'rel1181-answers';
+var saved = {};
+try { saved = JSON.parse(localStorage.getItem(K) || '{}'); } catch (e) {}
+function mark(id) {
+  var row = document.getElementById(id);
+  if (!row) return;
+  var val = saved[id] || '';
+  row.querySelectorAll('.opt').forEach(function (b) {
+    b.classList.toggle('chosen', b.dataset.v === val);
+  });
+  var w = row.querySelector('.wrongline');
+  if (w) w.classList.toggle('chosen', val === 'WRONG LINE');
+  var f = row.querySelector('.free');
+  var isFree = val && val !== 'WRONG LINE' &&
+    !row.querySelector('.opt[data-v="' + val.replace(/"/g, '\\"') + '"]');
+  f.classList.toggle('chosen', isFree);
+  if (isFree) f.value = val;
+}
+document.querySelectorAll('.opt').forEach(function (b) {
+  b.addEventListener('click', function () {
+    saved[b.dataset.id] = b.dataset.v;
+    localStorage.setItem(K, JSON.stringify(saved));
+    mark(b.dataset.id);
+  });
+});
+document.querySelectorAll('.free').forEach(function (f) {
+  f.addEventListener('input', function () {
+    var id = f.closest('.row').id;
+    if (f.value.trim()) { saved[id] = f.value.trim(); }
+    else { delete saved[id]; }
+    localStorage.setItem(K, JSON.stringify(saved));
+    mark(id);
+  });
+});
+document.querySelectorAll('.wrongline').forEach(function (b) {
+  b.addEventListener('click', function () {
+    var id = b.dataset.id;
+    if (saved[id] === 'WRONG LINE') { delete saved[id]; }
+    else { saved[id] = 'WRONG LINE'; }
+    localStorage.setItem(K, JSON.stringify(saved));
+    mark(id);
+  });
+});
+document.getElementById('copy').addEventListener('click', function () {
+  var lines = Object.keys(saved).sort().map(function (k) {
+    return k + ': ' + saved[k];
+  });
+  document.getElementById('out').value =
+    'rel1181 spot sheet answers (' + lines.length + ' of <!--COUNT-->):\n' +
+    lines.join('\n');
+  document.getElementById('modal').style.display = 'block';
+  document.getElementById('out').select();
+});
+document.getElementById('docopy').addEventListener('click', function () {
+  navigator.clipboard.writeText(document.getElementById('out').value)
+    .then(function () { close_m('copied'); })
+    .catch(function () { close_m('select and copy by hand'); });
+});
+document.getElementById('close').addEventListener('click', function () { close_m(''); });
+function close_m(msg) {
+  document.getElementById('modal').style.display = 'none';
+  document.getElementById('status').textContent = msg;
+}
+document.getElementById('clear').addEventListener('click', function () {
+  if (!confirm('Clear every answer on this device?')) return;
+  saved = {}; localStorage.removeItem(K);
+  document.querySelectorAll('.row').forEach(function (r) { mark(r.id); });
+});
+document.querySelectorAll('.row').forEach(function (r) { mark(r.id); });
+</script>
+</body>
+</html>

@@ -5751,6 +5751,110 @@
   "permalink": "/documents/app53170koningr119/7/"
  },
  {
+  "uid": "app5320pozgr1181-1",
+  "unit": "app5320pozgr1181",
+  "letter_id": "1",
+  "doc_type": "decree",
+  "language": "de",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1784-03-29",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Trąbczyn",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 14,
+  "n_lines": 33,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0161_a",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0161_b",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0162_a",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0162_b",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0163_a",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0163_b",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0164_a",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0164_b",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg"
+   },
+   {
+    "page": 9,
+    "page_id": "0165_a",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg"
+   },
+   {
+    "page": 10,
+    "page_id": "0165_b",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg"
+   },
+   {
+    "page": 11,
+    "page_id": "0166_a",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg"
+   },
+   {
+    "page": 12,
+    "page_id": "0166_b",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg"
+   },
+   {
+    "page": 13,
+    "page_id": "0167_a",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg"
+   },
+   {
+    "page": 14,
+    "page_id": "0167_b",
+    "image": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg"
+   }
+  ],
+  "uncertainty_count": 247,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 14,
+  "estates": [],
+  "translation_status": "untranslated",
+  "has_summary": false,
+  "has_summary_de": false,
+  "legibility": "",
+  "title": "decree 1",
+  "path": "documents/app5320pozgr1181-1.json",
+  "text_path": "text/app5320pozgr1181-1.txt",
+  "permalink": "/documents/app5320pozgr1181/1/"
+ },
+ {
   "uid": "app53170koningr119-8",
   "unit": "app53170koningr119",
   "letter_id": "8",

@@ -2892,6 +2892,25 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-26 - APP 53/20/0/-/Poznań Gr.1181 added (branch app5320pozgr1181, not published)
+
+- The condescensio decree of 29 March 1784 on the ultimate limitation of the
+  Prusimski succession, one Latin document on the editor's fourteen page
+  photographs (pp. 161-167v of the relationes protocollon), era
+  `prusimski-boundary`. The editor's own transcription, split into pages and
+  settled in session before the first build: 108 readings applied, each with
+  its witness in `units/app5320pozgr1181/intake/changes_applied.md` (case
+  endings where the grammar admits one reading, the register's formulas, and
+  forms attested in the sibling units Konin Gr.115-118 and 153; the scribe's
+  spellings kept). The dating proven by the weekday formulas: the actum
+  Monday after Judica = 29 March 1784; the December terminus 1 December 1783
+  (not 1785); "sab~bo" 13 December 1783. 66 readings stand open on the spot
+  sheet, published for the editor away from the desktop at
+  takaji10.github.io/triebenfeld-spot/sheets/app5320pozgr1181/ (the new
+  sheets repository; the crops placed by machine and unchecked - every row
+  carries a "wrong line" button). The site builds and verifies clean with
+  the unit in place (627 documents in 48 holdings, main untouched).
+
 ## 2026-10-25 - The word of the Themen block ruled
 
 - The editor ruled the doubtful word of 0030's Themen block "polnische"

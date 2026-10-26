@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 94
+  docs: 95
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -682,7 +682,7 @@
   initial_en: "Q"
   sort_de: "quantum, abstandsquantum"
   initial_de: "Q"
-  docs: 15
+  docs: 16
 - id: "inventarium"
   kind: "land"
   lang: "la"
@@ -1024,7 +1024,7 @@
   initial_en: "K"
   sort_de: "komornik (gerichtsbeamter)"
   initial_de: "K"
-  docs: 14
+  docs: 15
 - id: "komornik-lodger"
   kind: "law"
   lang: "pl"
@@ -1081,7 +1081,7 @@
   initial_en: "W"
   sort_de: "wozny (gerichtsbote)"
   initial_de: "W"
-  docs: 43
+  docs: 44
 - id: "matura"
   kind: "law"
   lang: "de"
@@ -1138,7 +1138,7 @@
   initial_en: "G"
   sort_de: "grod (burggericht)"
   initial_de: "G"
-  docs: 56
+  docs: 57
 - id: "stawisko"
   kind: "land"
   lang: "pl"
@@ -1499,7 +1499,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 86
+  docs: 87
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1556,7 +1556,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 63
+  docs: 64
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1936,7 +1936,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 70
+  docs: 71
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -2012,7 +2012,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 71
+  docs: 72
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"
@@ -2069,7 +2069,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 47
+  docs: 48
 - id: "d-j"
   kind: "phrase"
   lang: "de"

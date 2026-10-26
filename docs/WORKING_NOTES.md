@@ -1670,6 +1670,29 @@ cloud branches").
 
 ## Traps in the tools
 
+- **The session's image reads can come back stripped, and a session that
+  did not notice will write "confirmed on the image" of things it never
+  saw** (2026-10-26, Poznań Gr.1181). Every `read` of an image in that
+  session returned "Image read successfully" followed by the harness's
+  note that the image had been removed to reduce the request size - the
+  session saw nothing, yet kept reasoning "the crop shows...", until the
+  contact-sheet check exposed the gap. The standing rule for any session:
+  treat "Image read successfully" as NO confirmation; verify by other
+  means (formulas, sibling units, the editor's spot sheet) and say in the
+  repo where each claim's evidence really lies. The settled-reading log of
+  Gr.1181 records exactly this on its face.
+- **A spot sheet the editor answers from a phone at work goes to the
+  public sheet repo, not to a local server** (2026-10-26). The pattern:
+  `make_sheet.py` in the unit's `intake/` builds a self-contained page
+  (crops under `img/`, answers in localStorage, a copy-to-clipboard block
+  the editor pastes back into the chat); the page is pushed to
+  **triebenfeld-spot** (beside this repo; takaji10.github.io/triebenfeld-spot/),
+  under `sheets/<slug>/`, and GitHub Pages serves it. The crops are cut
+  from scans already public on the edition's own site, so the sheet
+  publishes nothing new in kind. Every row carries a "wrong line" button:
+  the crops are placed by OCR line bands plus a position estimate, and no
+  session has yet been able to check them by eye - the editor's tap on
+  that button is the check.
 - **A bare web fetch of an HTML page invents print slips** (2026-10-22,
   the Luteranie Konin parish page). The text conversion drops `<br/>` and
   `&nbsp;` runs: the page's "proboszczowie parafii<br/>z Grodźca" arrived

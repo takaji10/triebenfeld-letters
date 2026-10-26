@@ -1,0 +1,46 @@
+# Editorial rulings for 53/20/0/-/Poznań Gr.1181 (APP).
+#
+# One document: the condescensio decree of the castellany court held at the
+# Trąbczyn grounds on 29 March 1784, pp. 161-167v of the relationes protocollon
+# labelled 1786, entered under the register heading "4ta Martii". The entry
+# breaks off mid-sentence at the foot of p. 167v and continues on the next
+# leaf, which is not among the editor's scans. Established 2026-10-26.
+
+places:
+  # Place of writing: the sitting was held "in Fundo Bonorum Villae Trąmpczyn
+  # Curiaque ibidem sita" - on the Trąbczyn grounds, at the manor there.
+  overrides:
+    "1": Trąbczyn
+
+dates:
+  # The actum is dated in the entry itself: "Feria secunda post Dominicam
+  # Judica ... die scilicet Vigesima Nona Mensis Martii Anno Domini
+  # Millesimo Septingentesimo Octuagesimo Quarto" - Monday after Judica
+  # Sunday, 29 March. The weekday formula fits 1784 exactly (Judica Sunday
+  # 28 March, Easter 11 April 1784) and the entry's own narrative dates the
+  # December terminus "anno immediate elapso" 1783. The register heading
+  # "4ta Martii" carries no year in the transcription; the year of the
+  # registration stands open on the spot sheet.
+  read:
+    "1": [1784, 3, 29, "day"]     # Feria secunda post Dominicam Judica, die 29 Martii, anno 1784
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # Not a letter and not a messenger's report: the decree itself, engrossed
+  # with its recitals.
+  doc_type:
+    "1": decree
+
+languages:
+  "1": latin
+
+notes:
+  # The transcription is the editor's own, read and settled in session before
+  # the first build; the changes and their witnesses are in
+  # intake/changes_applied.md, and the readings still open stand on the spot
+  # sheet (intake/spot_rows.py). The date of the register heading "4ta
+  # Martii", the digit of "178[5?]", and the continuation of the entry past
+  # p. 167v are on the sheet.

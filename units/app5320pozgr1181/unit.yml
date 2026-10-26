@@ -1,0 +1,102 @@
+﻿# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app5320pozgr1181
+ref: 53/20/0/-/Poznań Gr.1181
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The condescensio decree given at the Trąbczyn grounds, 29 March 1784, on the
+  ultimate limitation of the Prusimski succession: the court's long recital of
+  the 1740 division, the loads on the estates, the claims of the sisters'
+  heirs, and the quietation the abbey of Ląd was to reproduce.
+title_de: >-
+  Das Dekret des Kondescensionsgerichts, gesprochen auf dem Grund der
+  Trąbczyner Güter am 29. März 1784, über die ultimative Limitation der
+  Prusimskischen Erbschaft: der weite Recital des Gerichts über die Teilung
+  von 1740, die Lasten der Güter, die Ansprüche der Erben der Schwestern und
+  die Quittung, die die Abtei Ląd vorzulegen hatte.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1786
+date_span: 1784-1786
+status: transcribed         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Fourteen single pages photographed by the editor, named by the archive's
+# pagination (161.jpg to 167v.jpg); one page per photograph, no spreads.
+# crop_scans.py cuts each into processed/<page>_a.jpg.
+
+# Where the images come from.
+scan_source: The editor's photographs
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1786 (53.20.0.-.Poznań Gr.1181)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_20_0_Poznan_Gr_1181
+
+# One file per page, named by page id. Split from the editor's Markdown
+# transcription by intake/split_and_settle.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompt. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry, in Latin, of the relationes protocollon of the castellany court
+  of Poznań (APP 53/20/0/-/Poznań Gr.1181, pp. 161-167v), registered under the
+  heading "4ta Martii" of the 1786 volume and recording a condescensio held at
+  the Trąbczyn grounds on Monday after Judica Sunday, 29 March 1784. It is the
+  decree of the court of the castellany offices on the ultimate limitation
+  (ultimariae limitatio) of the succession the sterile brothers Antoni and
+  Paweł Prusimski left, between Antoni's heir and nephew Antoni in Kolno
+  Prusimski, captain of Nieśwież, and the heirs of the sisters: the
+  Zakrzewski, Tomicki, Taczanowski, Kołaczkowski and Tworowicz parties, with
+  the abbey of Ląd summoned over the quietation of 3,500 ducats and the silver
+  lodged in its treasury. The entry recites the suit's whole documentary
+  history: the decrees of the Piotrków tribunal of 1782 and 1785, the
+  comportation of the documents of December 1783, the fraternal division of
+  1740 with the three schedas and their sums, the maternal Golinski goods
+  (Oporowo, Prusinowo, Szetlewek) with their contracts and loads from 1616
+  onwards, and the loads on the paternal estates. The entry breaks off
+  mid-sentence at the foot of p. 167v and continues on the next leaf.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  One Latin entry of a court register, in formulaic and heavily abbreviated
+  language, with the scribe's own spellings kept as written (dicidenda,
+  oblatuata, octuigentorum, "Paturna" for Paterna). "Condescensio" is a sitting
+  of the court on the disputed ground; "ultimariae limitatio" the final
+  limitation of an inheritance; "comportatio documentorum" the bringing of
+  documents into court; "quietatio" a discharge or receipt; "complanatio" a
+  matching or equalisation contract; "scheda" the lot drawn in a division;
+  "vadium" the security lodged for a division; "arenda" a leasehold. "fp" is
+  the editor's marking of the manuscript's abbreviation for florins Polish;
+  "fl. g~ 20 Polonicalium" means florins reckoned at 20 groschen Polish. A
+  word cut short with a tilde stands cut short (sub~bo = sabbato, Pos~ =
+  Posnaniae). The office forms in -ida are the scribe's own: Castellanida,
+  Dapiferida (Konin Gr.118 has "Dapiferidae", Gr.117 "Thesaurarida"). "MM"
+  stands for Magnificorum, "~" for a cut-off ending. "Trąmpczyn" is the
+  scribe's form of Trąbczyn, as in the Konin Gr.117 holding.
