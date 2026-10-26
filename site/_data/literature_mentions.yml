@@ -3684,6 +3684,16 @@ place:
     - key: '147'
       en: p. 147
       de: S. 147
+  szetlew:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '9'
+      en: p. 9
+      de: S. 9
+    - key: '10'
+      en: p. 10
+      de: S. 10
   szetlewek:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)

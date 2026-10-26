@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 297,
+  "count": 299,
   "documents": [
    "adwl85-1",
    "agad1169011745-1",
@@ -101,6 +101,7 @@
    "app53170koningr145-1",
    "app53170koningr153-1",
    "app53170koningr153-2",
+   "app5321pyzdrygr115-1",
    "app536017-1",
    "app536036-1",
    "app536036-2",
@@ -117,6 +118,7 @@
    "app539680716-5",
    "app539680716-6",
    "app539680716-7",
+   "app539680782-1",
    "app539680783-1",
    "app539680801-1",
    "app539680801-2",
@@ -984,8 +986,9 @@
  {
   "entity": "szetlewek",
   "display": "Szetlewek",
-  "count": 30,
+  "count": 31,
   "documents": [
+   "app534062-1",
    "ihagrrep7cnr3570-1",
    "iiihamdaiiinr12765-19",
    "iiihamdaiiinr12765-20",
@@ -1677,6 +1680,17 @@
   ]
  },
  {
+  "entity": "szetlew",
+  "display": "Szetlew",
+  "count": 4,
+  "documents": [
+   "app534062-1",
+   "kdw-2",
+   "kdw-4",
+   "kdw-6"
+  ]
+ },
+ {
   "entity": "lukom",
   "display": "Łukom",
   "count": 4,
@@ -1718,16 +1732,6 @@
    "oe1bu14525-16",
    "oe1bu14525-25",
    "oe1bu14526-3"
-  ]
- },
- {
-  "entity": "szetlew",
-  "display": "szetlew",
-  "count": 3,
-  "documents": [
-   "kdw-2",
-   "kdw-4",
-   "kdw-6"
   ]
  },
  {

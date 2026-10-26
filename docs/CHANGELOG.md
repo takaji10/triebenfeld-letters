@@ -2892,6 +2892,129 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-26 - APP 53/21/0/-/Pyzdry Gr.115 added, translated and published (branch app5321pyzdrygr115)
+
+- The holding built: the head of the table of the parish of Trąbczyn on
+  page 543 of the Relationes [protocollon] of 1791-1792, the register of the
+  grod court and office of Pyzdry (fond "Księgi sądu i urzędu grodzkiego w
+  Pyzdrach"), from the editor's own transcription, given as a spreadsheet
+  export and kept as `intake/table.csv` as received. One document, one page
+  (`0543_a`, the editor's own trim of the photographed page), seven rows and
+  a heading row: the village of Trąbczyn, the parsonage, Nowawieś, Osiny,
+  Łazy, "Kuznia Maryantów" and "Hollendry Luzne Stare i nowe z Hutą", each
+  with its hearths (dymy rolne) and the two figures the headings call "gara
+  zyta" and "gara owcza".
+- Only `543_trim.jpg` is used, the editor's word; the spread `542v-543.jpg`
+  stays out, and only the table in the page's first half is transcribed.
+- The one reading changed at the editor's word, given in chat while they
+  were away from the PC: the heading's "Parofie" is "Parafie" (applied by
+  the intake script's `--correct`, logged).
+- The editor's rulings of the day: "Kuznia Maryantów" is the Marianton of
+  the edition - Mariantów, where the Hohenlohe patrimonial court for
+  Trąbczyn sat. `reference/places.yml` (`mariantow`) now also matches
+  "Maryantów", which brings the Prussian table's "Maryantow."
+  (agad1169011745, row 175, unmatched before) in as well; 4 hits in 3
+  documents, each line read. The Trąbczyn figure (22, where the doubling of
+  the other rows gives 42) stands as written, the editor to resolve it.
+- A table with no column of entry numbers: `unitlib.table_of` crashed on
+  one (StopIteration). Extended: where no row has a number in its first
+  cell, the figure rows are the body and the rows above the first of them
+  the head; in `render_table` the first cell belongs with the name and no
+  row takes the total styling, judged over the whole table. Checked the way
+  shared code is checked: the pristine and the new code over every existing
+  table, parse and render page by page, outputs identical
+  (`pipeline/review/verify_table_of_diff.py`, 12 table documents in 5 units). The
+  first cut of the change got the polarity and the scope of the new flag
+  wrong; the before-and-after check caught both.
+- Translated in session (the English table, hand-written, the common words
+  rendered, the names as written); summaries in both languages, written in
+  session. The index extended:
+  "Maryantów" (above), the comma-bounded "Łazy" of the table rows (the
+  hearth-tax register's entry 180 comes in with it), and "Hollendry Luzne
+  Stare i nowe" matched to both Olęder colony entries, as the visitation's
+  "Olędry nowe i stare" already is.
+- The editor's closing word of the day, in chat: "No spot sheet is
+  necessary - use my transcription, which is correct." The figures stand as
+  transcribed (the village's row 21, 22, 84), the "gara" headings stand as
+  written, and no dated heading is carried - the document stays undated.
+  The sheet built for the holding was removed from the branch unused and
+  its server stopped. Open: only whether the Huta of the Hollendry row is a
+  distinct place (NEEDS_CONFIRMATION).
+- The glossary gate passes (0 candidates); the site verifies clean (628
+  documents, text exact, tables checked cell by cell). The edition guide's
+  counts corrected (forty-nine holdings) and the Poznań bullet extended,
+  English and German; the era's blurb names the table. Published at the
+  editor's word, 2026-10-26: merged to main with the Szetlewicz holding
+  built in parallel (the edition 629 documents in 50 holdings) and pushed.
+- Still open (NEEDS_CONFIRMATION): whether the Huta of the Hollendry row is
+  a distinct place.
+
+## 2026-10-26 - APP 53/968/0/-/782: Tropiczyner Holl. identified; published
+
+- The editor ruled: "Tropiczyner Holl.", the contract's dateline, is the
+  Olędry on Trąbczyn - the Trąbczyńskie Stare Olędry, the edition's
+  canonical settlement (its later name Łazińsk). Recorded in
+  reference/places.yml as a matched variant of trabczynskie-stare-oledry
+  (it hits the one document only, counted before matching); the place of
+  writing override carries the manuscript's form and the build shows the
+  canonical name the pattern resolves to. The holding's page names the
+  identification, both languages.
+- No timeline event (the editor's word): the contract bears on the colony's
+  school, not directly on the owner.
+- Still open: "Borwiezer Holland"; whether the ruling covers the
+  "Trąbczyner Holländ" spelling of oe1bu14526-17; "6 gl."; the glossary
+  terms (NEEDS_CONFIRMATION).
+- Published at the editor's word.
+
+## 2026-10-25 - APP 53/968/0/-/782: the line division ruled
+
+- The editor answered all 7 rows of the holding's spot sheet. Corrections
+  applied to the transcription: term 9 breaks after "Ostern" and after
+  "Wirt" (not after "Weinachten" and "einem"); term 10 breaks after "und";
+  the closing sentence's third line runs "Mann fortzusetzen. Die Sontags
+  Schule so wie" (no break after "Sontags"); the board's last line breaks
+  before "wir" ("... zu erfüllen worauf / wir uns Eigen-händig
+  Unter-schrieben.", hyphens as drafted); the foot of the second page,
+  which the session had taken for a pencil inscription, is blank paper.
+  The opening paragraph and term 3 confirmed as drafted. Re-imported,
+  rebuilt, the site verified clean.
+- Trap recorded (WORKING_NOTES): a hand row in `paragraph_decisions.csv`
+  whose context carries a comma must have the field quoted, or
+  `resolve_paragraphs.py` reads the context short of the comma and drops
+  the row as "not found again" - the signature row was lost twice this way
+  before the quoted form held.
+
+## 2026-10-25 - APP 53/968/0/-/782 added and translated (branch app539680782)
+
+- The holding built: the contract of 14 March 1820 between the village board
+  of Tropiczyner Holland and the school teacher Samuel Adolph of Borwiezer
+  Holland, one document on two photographed pages (the folder's title page
+  left out at the editor's word). All scans paired.
+- The editor's own transcription carried in whole, the lines laid out against
+  the two images at the editor's word (their file was paragraph-level); the
+  layout read in session with an OCR pass and a line-by-line read as
+  witnesses; item 7 empty and item 9 opening "9te." ruled by the editor.
+  Six places where the line division is not certain are on the spot sheet
+  (`intake/spot_sheet1.py`).
+- The line-end divisions join as they should: auszunehmen, stelten,
+  Vocation (three decisions, all high confidence).
+- Translated in session at the editor's word (no paid run for two pages;
+  intake/translation/write_cache.py writes the cache), the check clean.
+  Summaries written in both languages in session and claim-checked in
+  session (intake/claim_check.yml): 18 statements, one corrected in the
+  draft (the one-year term belongs to the board's contract).
+- The holding's page written in both languages; the glossary gate passes
+  (the single-document terms offered, not entered); rulings: doc_type
+  contract, the date read from the dateline, place of writing empty (the
+  identification of "Tropiczyner Holl." open), estates trabczyn; era
+  `restitution` (proposed in the plan, the editor approved it).
+- The edition guide's counts corrected (627 documents, 2,087 pages,
+  forty-eight holdings) and the Poznań bullet extended, English and German.
+- Open on the editor: the spot sheet; "6 gl." gulden or Groschen; the
+  identifications of "Tropiczyner Holl." and "Borwiezer Holland"; glossary
+  entries for the single-document terms; a timeline event and the era's
+  story (TODO section 36).
+
 ## 2026-10-26 - APP 53/20/0/-/Poznań Gr.1181 added (branch app5320pozgr1181, not published)
 
 - The condescensio decree of 29 March 1784 on the ultimate limitation of the
@@ -2910,7 +3033,6 @@ lose his estates. The era page writes Konotop, not Kontop.
   sheets repository; the crops placed by machine and unchecked - every row
   carries a "wrong line" button). The site builds and verifies clean with
   the unit in place (627 documents in 48 holdings, main untouched).
-
 ## 2026-10-25 - The word of the Themen block ruled
 
 - The editor ruled the doubtful word of 0030's Themen block "polnische"
@@ -2963,3 +3085,68 @@ lose his estates. The era page writes Konotop, not Kontop.
   texts, Słowiński, the Zagórów place page, the newspaper items, Łukasiewicz,
   Mielewczyk) had already been live since 22 or 23 October, because every push
   of main deploys the site, though the docs still called them not published.
+
+## 2026-10-26 - Published
+
+- The editor said "Publish". Main was pushed after a local Jekyll build and
+  `verify_site.py` passed (628 documents character-exact, 47329 internal
+  links resolve); the "Build and deploy" run succeeded. APP 53/4/0/-/62
+  went live with it.
+
+## 2026-10-26 - APP 53/4/0/-/62 added (branch app534062)
+
+- **The holding**: one entry, in Latin, at the foot of page 222 of the
+  relation and citation book of the land court at Kalisz for 1726-1727
+  (scan 231 of 349 of the archive's online unit, jednostka 980058): the
+  report of the general royal messenger Sebastian Szetlewicz of Szetlewko
+  (Szetlewek) that he carried a citation to the estate of Szetlew and left
+  it on the table in the heated room, on the Thursday next past. The editor
+  added it for the name: a Szetlewicz family lived at Szetlewek in the
+  1720s. The editor's transcription kept as written; two rulings of the day
+  applied ("Judicius" → "Judicio"; "Citti~" read as Citati, the tilde kept).
+  Dated 1727, year only, supplied from the volume's title pending the
+  editor's reading of the sitting's heading on the preceding pages; place of
+  writing left empty for the same reason. doc_type `report` (the Konin
+  vocabulary), language `la`, estates szetlew and szetlewek, era
+  prusimski-boundary. Translated, summarised and claim-checked in session,
+  no paid run; the checks clean after three rows resolved.
+- **Szetlew and Szetlewek told apart for the first time**
+  (`reference/places.yml`): szetlewek's pattern passes "Szetlew...o" and
+  "Szetlewicz" over, and szetlew is matched in the exact form "Szetlewo"
+  (the Kodeks editors' identification). Counted against the committed
+  index: szetlewek keeps its 91 rows but one - the hearth-tax table's row
+  "Szetlewo z Częś: Jaroszew:" (APP 53/64/0/-/Kalisz Tab.21) moves to
+  szetlew, where it belongs - and szetlew gains 4 rows (ours; the table's;
+  and the Kodeks's own gloss "Szetlewo" in the kdw entries of 1173 and 1261,
+  newly matched). The matching ruling added to `literature/index.yml`
+  beside the standing refusal of Breyer 1938's "Szetlewo" for szetlewek.
+  Put to the editor.
+- **A person**: Sebastian Szetlewicz, court messenger (`reference/people.yml`,
+  `reference/people_bios.yml`; no life dates - documented 1727).
+- **The era blurb's count corrected** (`reference/eras.yml`,
+  prusimski-boundary): it said twenty-four holdings, but the era held
+  twenty-two before this one - two fewer than the blurb claimed, with
+  nothing in the docs recording why. It now says twenty-three, with the
+  entry of 1727 named in both languages, and the count is the computed
+  truth (units with the era, 2026-10-26).
+- **Two shared repairs** in `pipeline/translate/translation_review.py`
+  (WORKING_NOTES, "Traps in the tools"): the missing `unitlib` import (the
+  script had never run with `--unit`), and the cleared key built from the
+  row's `letter` where the checker clears by `pad`, so an OK ruling never
+  took. The key now comes from the row's pad column.
+- The edition guide's counts updated (628 documents, 2,088 pages; the
+  Poznań clause extended and the Latin count corrected to a hundred and
+  eight, both languages) and the translation count corrected with them
+  (624 of the 628 have English; the sentence still said 614 of the 619,
+  the figures of an earlier state of the edition). The guide's other two
+  hand-kept figures corrected against the dataset the same sitting: 910
+  marks of doubt (the page said 905) and eighteen undated documents (it
+  said nine).
+- **Szetlewicz is a surname, not a place name** (the editor, 2026-10-26):
+  the session's claim that the name was "formed from the place" is dropped
+  from the holding's page and the person entry's comment; the fact stands
+  (a family of the name at Szetlewek in the 1720s). The place-matching
+  change above was confirmed by the editor the same day. The German holding
+  page (`about_de.md`), first written as a copy of the English, was written
+  again in German before publication.
+

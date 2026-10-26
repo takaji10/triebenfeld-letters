@@ -69,7 +69,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 7,
+  "places_named": 8,
   "estates": [
    "lad",
    "zagorowo",
@@ -158,7 +158,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 8,
+  "places_named": 9,
   "estates": [
    "lad",
    "szetlew",
@@ -1215,6 +1215,48 @@
   "path": "documents/app536036-2.json",
   "text_path": "text/app536036-2.txt",
   "permalink": "/documents/app536036/2/"
+ },
+ {
+  "uid": "app534062-1",
+  "unit": "app534062",
+  "letter_id": "1",
+  "doc_type": "report",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1727",
+  "date_precision": "year",
+  "date_source": "supplied",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 7,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0222_a",
+    "image": "APP_53_4_0_62_0222_a-L1_01.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 2,
+  "estates": [
+   "szetlew",
+   "szetlewek"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 1",
+  "path": "documents/app534062-1.json",
+  "text_path": "text/app534062-1.txt",
+  "permalink": "/documents/app534062/1/"
  },
  {
   "uid": "app536040-1",
@@ -6119,7 +6161,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 7,
+  "places_named": 9,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -6643,7 +6685,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 12,
+  "places_named": 13,
   "estates": [
    "trabczyn"
   ],
@@ -30749,6 +30791,52 @@
   "permalink": "/documents/iiihamdaiiinr12765/27/"
  },
  {
+  "uid": "app539680782-1",
+  "unit": "app539680782",
+  "letter_id": "1",
+  "doc_type": "contract",
+  "language": "de",
+  "era": "restitution",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1820-03-14",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Tropiczyner Holl.",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 44,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0002_a",
+    "image": "APP_53_968_0_782_0002_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0003_a",
+    "image": "APP_53_968_0_782_0003_a-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 2,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "contract 1",
+  "path": "documents/app539680782-1.json",
+  "text_path": "text/app539680782-1.txt",
+  "permalink": "/documents/app539680782/1/"
+ },
+ {
   "uid": "iiihamdaiiinr12765-29",
   "unit": "iiihamdaiiinr12765",
   "letter_id": "29",
@@ -33021,6 +33109,47 @@
   "path": "documents/app5314550221-5.json",
   "text_path": "text/app5314550221-5.txt",
   "permalink": "/documents/app5314550221/5/"
+ },
+ {
+  "uid": "app5321pyzdrygr115-1",
+  "unit": "app5321pyzdrygr115",
+  "letter_id": "1",
+  "doc_type": "register",
+  "language": "pl",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "",
+  "date_precision": "unknown",
+  "date_source": "none",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 9,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0543_a",
+    "image": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 7,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "register 1",
+  "path": "documents/app5321pyzdrygr115-1.json",
+  "text_path": "text/app5321pyzdrygr115-1.txt",
+  "permalink": "/documents/app5321pyzdrygr115/1/"
  },
  {
   "uid": "app539680545-1",

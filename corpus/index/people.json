@@ -73909,6 +73909,25 @@
   ]
  },
  {
+  "entity": "szetlewicz",
+  "display": "Sebastian Szetlewicz, court messenger",
+  "count": 1,
+  "documents": [
+   "app534062-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app534062-1",
+    "surface": "Szetlewicz",
+    "page": 1,
+    "page_id": "0222_a",
+    "scan": "APP_53_4_0_62_0222_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   }
+  ]
+ },
+ {
   "entity": "czartoryski-teodor",
   "display": "Teodor Czartoryski, Bishop of Poznań",
   "count": 1,

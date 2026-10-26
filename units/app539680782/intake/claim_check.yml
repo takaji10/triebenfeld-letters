@@ -1,0 +1,70 @@
+# The claim check of the summary of APP 53/968/0/-/782, made in session on
+# 2026-10-25 under the rules read_letters.py --verify gives its checker: each
+# statement held to the document, as supported, overstated or unsupported, and
+# the summary only weakened or cut. Not the paid run. The document is the
+# editor's own transcription, kept as written; page numbers are the
+# document's.
+#
+# Result: 18 statements, all supported after one corrected in the draft. The
+# draft said the teacher "bound himself for one year": the year belongs to
+# the board's sentence ("den Contract auf 1 Jahr"), and the teacher's
+# obligation carries no term of its own; the summary now attaches the year to
+# the contract the board issues. No statement rests on a passage that carries
+# a doubt mark: the document has none; its garbled stretches are named in the
+# summary where the summary leans on them.
+
+doc1:
+  - statement: The contract is dated "Tropiczyner Holl., 14. März 1820".
+    where: 001, line 1
+    verdict: supported
+  - statement: The teacher is Samuel Adolph from Borwiezer Holland.
+    where: 001, lines 2-3
+    verdict: supported
+  - statement: The board put him to the test ("zur Probe stelten"); the phrase that follows is garbled ("an ihm einen gefallen fragen") and the summary renders it by its evident sense, marked as written.
+    where: 001, lines 7-8
+    verdict: supported
+  - statement: The board contracts with him and issues him the appointment ("Vocation").
+    where: 001, lines 9-11
+    verdict: supported
+  - statement: Term 1 is free dwelling.
+    where: 001, line 12
+    verdict: supported
+  - statement: Term 2 gives the school three Morgen of land and some meadow, which he may use without payment, the land tilled by the community.
+    where: 001, lines 13-16
+    verdict: supported
+  - statement: Term 3 gives five Viertel of grain and a half Viertel of seed from the community, which he must carry at his going.
+    where: 001, lines 17-19
+    verdict: supported
+  - statement: Term 4 sets school money of 3 gr. for a child learning from the a b c to reading.
+    where: 001, lines 20-21
+    verdict: supported
+  - statement: Term 5 sets 6 gr. for writing and reckoning.
+    where: 001, line 22
+    verdict: supported
+  - statement: Term 6 sets a present of 1 St. from every child that is confirmed.
+    where: 001, lines 23-24
+    verdict: supported
+  - statement: Term 7 stands with its number and nothing after it.
+    where: 001, line 25
+    verdict: supported
+  - statement: Term 8 sets burial fees of 7 Böhm 3 gr. for an old corpse and 1 St. for a child.
+    where: 001, lines 26-27
+    verdict: supported
+  - statement: Term 9 gives an Opfertorium from every Wirt, 6 gl., at the high feasts of Christmas, Easter and Whitsun.
+    where: 001, lines 28-30
+    verdict: supported
+  - statement: Term 10 gives a New Year's round, New Year 6 gr. "pohl." and Green Thursday 3 gr. "pohl".
+    where: 001, lines 31-32
+    verdict: supported
+  - statement: The teacher binds himself on this contract to continue his office as an honest man, the Sunday school as well as the children's teaching.
+    where: 001, lines 33-36; 002, lines 1-2
+    verdict: supported
+  - statement: The board issues the contract for one year.
+    where: 002, line 4
+    verdict: supported
+  - statement: The board binds itself to fulfil the appointment faithfully toward the man, and signs with its own hands.
+    where: 002, lines 3-7
+    verdict: supported
+  - statement: The signers are Johann George Lindner (Schulz.), Christoph Rimpel (beisitzer) and Samuel Gellert (gerichten, as written).
+    where: 002, lines 8-10
+    verdict: supported

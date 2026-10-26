@@ -117,7 +117,92 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-25)
+## Where things stand (2026-10-26)
+
+- **APP 53/21/0/-/Pyzdry Gr.115** (slug `app5321pyzdrygr115`, added
+  2026-10-26 on the branch `app5321pyzdrygr115`, **published 2026-10-26**): the head
+  of the
+  table of the parish of Trąbczyn on page 543 of the Relationes
+  [protocollon] of 1791-1792, the register of the grod court and office of
+  Pyzdry, fond "Księgi sądu i urzędu grodzkiego w Pyzdrach" - one document
+  on one page, the editor's own trim (`543_trim.jpg`; the spread
+  `542v-543.jpg` left out at their word), built from the editor's CSV
+  (`intake/table.csv`), **which the editor ruled correct and authoritative**
+  ("use my transcription, which is correct"): seven rows of the parish with
+  their hearths (dymy rolne) and two figure columns the headings call "gara
+  zyta" and "gara owcza", all standing as transcribed; no dated heading
+  carried, the document undated. Status `translated`; translated in session
+  by hand (the English table, the summaries); era `prusimski-boundary`.
+  Rulings given in chat while the editor was away from the PC: the heading's
+  "Parofie" is "Parafie"; "Kuznia Maryantów" is the Marianton of the edition
+  (`mariantow` now matches "Maryantów", which brings the Prussian table's
+  "Maryantow." in with it); no spot sheet was needed - the transcription
+  answers the figure (22 as written, the doubling of the other rows an
+  observation only), the gara columns and the sitting heading. The table has
+  no entry-number column: `unitlib.table_of` and
+  `render_table` extended, checked against every existing table
+  (`pipeline/review/verify_table_of_diff.py`). Worked in a worktree - a
+  second session was building in the main checkout (WORKING_NOTES, "Two
+  sessions, one working copy"). Open: the Huta (NEEDS_CONFIRMATION). Read
+  `units/app5321pyzdrygr115/notes.md` first. The holding counts 1 document
+  and 1 page; the edition has 629 documents in 50 holdings.
+=======
+- **APP 53/4/0/-/62** (slug `app534062`, added and **published 2026-10-26**):
+  one entry, in Latin, at the foot of
+  page 222 of the relation and citation book of the land court at Kalisz
+  for 1726-1727 (scan 231 of 349 of the archive's online unit,
+  jednostka 980058) - the report of the general royal messenger
+  Sebastian Szetlewicz of Szetlewko (Szetlewek) that he carried a citation
+  to the estate of Szetlew and left it on the table in the heated room, on
+  the Thursday next past. The editor added it for the name: a Szetlewicz
+  family lived at Szetlewek in the 1720s, and the editor's word was "just
+  look at the bottom of 222 - the point of this entry is to show the name".
+  The transcription is the editor's own, kept as written, with two rulings
+  of the day ("Judicius" → "Judicio"; "Citti~" read as Citati, tilde kept).
+  Dated 1727, year only, supplied from the volume's title, pending the
+  editor's check of the preceding pages for the sitting's heading and place
+  (the court-book `dates: sitting:` path, as app536017). doc_type `report`
+  (the Konin vocabulary), era `prusimski-boundary`. Translated, summarised
+  and claim-checked in session, no paid run; the checks clean. The entry is
+  the first text that tells Szetlew and Szetlewek apart: the place matching
+  changed (szetlewek passes "Szetlew...o" and "Szetlewicz" over; szetlew
+  matched as "Szetlewo"), which moved the hearth-tax table's "Szetlewo z
+  Częś: Jaroszew:" row from Szetlewek to Szetlew and newly matched the
+  Kodeks's own gloss in kdw documents 2 and 4 - confirmed by the editor,
+  2026-10-26. The editor's correction of the day: **Szetlewicz is a
+  surname, not a place name** - the session's "formed from the place"
+  claim dropped. Open: the sitting's date and place; "Conte~",
+  "de Juris Firma/Forma", the "eam"/"eamdem" mark; "De quo praesens
+  Relatio"; a timeline event (offered, none added). Read
+  `units/app534062/notes.md` first. The holding counts 1 document and
+  1 page; the edition has 629 documents in 50 holdings.
+
+- **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
+  2026-10-25 on the branch `app539680782`, **published 2026-10-26**): the
+  contract
+  of 14 March 1820 between the village board of Tropiczyner Holland and the
+  school teacher Samuel Adolph of Borwiezer Holland - the board engages the
+  teacher for the colony's school, ten numbered terms (free dwelling, three
+  Morgen of land tilled by the community, five Viertel of grain and a half
+  of seed, the school money, the confirmed child's present, the burial fees,
+  the feast-day Opfertorium, the New Year's round; item 7 stands with its
+  number and nothing after it), the teacher's obligation and the board's,
+  three signatures. One document on two photographed pages; the folder's
+  title page left out (the editor's word). The editor's own transcription,
+  kept as written; the lines laid out against the images and then ruled by
+  the editor on the spot sheet (all 7 rows answered 2026-10-26: term 9
+  breaks after "Ostern" and "Wirt", term 10 after "und", "Die Sontags
+  Schule so wie" one line, the last line breaks before "wir", the foot of
+  page 2 blank paper). Translated in session, no paid run; summaries
+  claim-checked (18 statements); the glossary gate passes; the site
+  verifies clean. Era `restitution` (proposed, the editor approved the
+  plan). Ruled 2026-10-26: "Tropiczyner Holl." is the Olędry on Trąbczyn,
+  the Trąbczyńskie Stare Olędry (a matched variant in reference/places.yml;
+  the place of writing shows the canonical name); no timeline event. Open:
+  "6 gl." gulden or Groschen; the identification of "Borwiezer Holland";
+  glossary entries for the single-document terms; the era's story (TODO
+  section 36). Read `units/app539680782/notes.md` first. The holding counts
+  1 document and 2 pages; the edition has 627 documents in 48 holdings.
 
 - **APP 53/968/0/-/545** (slug `app539680545`, added and **translated**
   2026-10-25, **published 2026-10-25**): Albert

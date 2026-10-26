@@ -360,8 +360,8 @@
    "doc_line": 290
   },
   {
-   "entity": "szetlewek",
-   "display": "Szetlewek",
+   "entity": "szetlew",
+   "display": "Szetlew",
    "kind": "place",
    "surface": "Szetlewo",
    "page": 11,
@@ -391,6 +391,17 @@
    "scan": "APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg",
    "line": 351,
    "doc_line": 331
+  },
+  {
+   "entity": "lazy-trabczyn",
+   "display": "Łazy",
+   "kind": "place",
+   "surface": "Łazy",
+   "page": 12,
+   "page_id": "0020_a",
+   "scan": "APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg",
+   "line": 353,
+   "doc_line": 333
   },
   {
    "entity": "osiny",

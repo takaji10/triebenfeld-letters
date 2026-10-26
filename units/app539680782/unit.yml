@@ -1,0 +1,94 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app539680782
+ref: 53/968/0/-/782
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The contract of 14 March 1820 between the village board of Tropiczyner
+  Holland and the school teacher Samuel Adolph: his taking over the village
+  school, the dwelling, land and grain the community gives him, and his fees
+  for teaching the children, for confirmations and for funerals.
+title_de: >-
+  Der Kontrakt vom 14. März 1820 zwischen der Gemeinde von Tropiczyner Holland
+  und dem Schul Lehrer Samuel Adolph: seine Übernahme der Dorfschule, Wohnung,
+  Land und Korn, die ihm die Gemeinde gibt, und seine Gebühren für den
+  Unterricht der Kinder, die Einsegnungen und die Begräbnisse.
+# The archive's title of the unit, as the editor gave it. Kept for reference;
+# nothing displays it.
+archive_title: >-
+  Umowa zawarta między nauczycielem Samuelem Adolphem 1820
+fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
+date_span: 1820
+status: translated         # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. 1820 is Michalina
+# Prusimska's ownership, after the restitution of 1807 (the editor agreed the
+# plan that proposed `restitution`, 2026-10-25).
+era: restitution
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Three images from the archive, Image00001.jpg to Image00003.jpg.
+# Image00001 is the title page of the holding and is left out (the editor,
+# 2026-10-25); Image00002 and Image00003 are the contract's two pages, each
+# photographed whole (no fold). intake/build_pages.py copies them into
+# processed/ as Image0002_a.jpg and Image0003_a.jpg.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Umowa zawarta między nauczycielem Samuelem Adolphem 1820 (53.968.0.-.782)
+  raw_glob: "Image*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_968_0_782
+
+# One file per page, named by page id (0002_a.txt). The transcription is the
+# editor's own reading, kept as written (the editor, 2026-10-25); the lines
+# follow the manuscript's lines.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One photographed document of two pages: the contract of 14 March 1820
+  between the village board of Tropiczyner Holland, the Olęder colony of the
+  Trąbczyn estate, and Samuel Adolph, the school teacher engaged for the
+  village school, written in German. The board - the Schulze Johann George
+  Lindner, the Beisitzer Christoph Rimpel and the Gerichten Samuel Gellert -
+  engages the teacher to take over the village school, having tried him; ten
+  numbered terms follow: free dwelling; three Morgen of land with some meadow,
+  which he may use without payment and which the community tills for him; five
+  Viertel of grain and a half Viertel of seed, which he must carry at his
+  going; school money of 3 gr. for a child learning from the a b c to reading
+  and 6 gr. for writing and reckoning; a present of 1 St. from every child
+  that is confirmed; item 7 stands with its number and nothing after it; fees
+  of 7 Böhm 3 gr. for the burial of an old corpse and 1 St. for a child; at
+  the high feasts of Christmas, Easter and Whitsun an Opfertorium of 6 gl.
+  from every Wirt; and the New Year's rounds, 6 gr. at New Year and 3 gr. on
+  Green Thursday. The teacher binds himself to continue his office, the Sunday
+  school and the children's teaching for one year, and the board binds itself
+  to keep its side of the contract.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A single contract in German, in one hand, with phonetic spellings and slips
+  of the pen (Freihe wohnung, Ale hohe Pfest-Tage, veroblogiert, Begräbniß):
+  give them as written, nothing tidied. The terms are numbered 1. to 10. in
+  the manuscript; item 9 opens with the ordinal 9te.; item 7 carries its
+  number and nothing else (the editor, 2026-10-25). The sums are abbreviated
+  as written: gr., gl., St., Böhm. A word the manuscript divides at a line end
+  keeps its hyphen. The place names keep the manuscript's own forms:
+  Tropiczyner Holl., Borwiezer Holland.

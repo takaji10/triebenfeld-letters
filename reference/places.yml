@@ -260,7 +260,11 @@ places:
     # the Polish judgment of 1827, each beside Trąbczyn (III. HA MdA, III. Nr.
     # 12366, documents 2 and 6). Matched, not made variants: the English keeps
     # the page's spelling, as it does for Kamienno (2026-10-04).
-    match: 'Sz[ei]tt?lew\w*|Szedlew\w*|Szetlow\w*|Szeltow\w*'
+    # The lookaheads (2026-10-26): "Szetlewko" keeps matching (the home village
+    # of the messenger Szetlewicz, APP 53/4/0/-/62); "Szetlewicz" (the family
+    # name) and "Szetlewo" (Szetlew, ruled by the Kodeks editors and in the
+    # hearth-tax table of 1789) must not.
+    match: 'Sz[ei]tt?lew(?!o\b)(?!icz)\w*|Szedlew\w*|Szetlow\w*|Szeltow\w*'
     # In the Kodeks Dyplomatyczny Wielkopolski Szetlewo is Szetlew (the estate szetlew).
     not_in: [kdw-2, kdw-4, kdw-6]
     tier: "Context-inferred"
@@ -284,19 +288,29 @@ places:
          Szetlewek. Not settled, so not matched."
 
   szetlew:
-    # The village south-east of Zagórów, beside Szetlewek. Not matched in the
-    # text: szetlewek's pattern already takes "Szetlew..." spellings, and the
-    # two are not told apart there. An estate of focus of the Kodeks
-    # Dyplomatyczny Wielkopolski entries (the editor's list, 2026-10-16).
+    # The village south-east of Zagórów, beside Szetlewek. Matched only in the
+    # exact form "Szetlewo" (below): until 2026-26 the texts did not tell the
+    # two apart, and szetlewek's pattern took the "Szetlew..." spellings. An
+    # estate of focus of the Kodeks Dyplomatyczny Wielkopolski entries (the
+    # editor's list, 2026-10-16).
     display: "Szetlew"
     kind: village
+    # Matched from 2026-10-26: the first text that tells the two apart is the
+    # relatio of APP 53/4/0/-/62 ("Ad Bona Villa Szetlewo", the citation
+    # served at Szetlew). The form is the Kodeks's own: its editors gloss
+    # "Szetlevo" (1173) as "Szetlewo" and the place as Szetlew, and the
+    # hearth-tax table of 1789 (APP 53/64/0/-/Kalisz Tab.21) has the row
+    # "Szetlewo z Częś: Jaroszew:" - Szetlew with the Jaroszewski share, the
+    # co-heirs the boundary decree of 1775 names. szetlewek's pattern now
+    # passes "Szetlew...o" over.
+    match: 'Szetlewo(?![a-zà-ÿ])'
+    tier: "Book-adjacent (the Kodeks editors' identification)"
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
       - "1240: Szetlevo"
       - "1261: Szethowo"
       - "1280: Szechouo"
-    tier: "Text-confirmed"
     variants: []
     distinct_from: [szetlewek]
 
@@ -399,10 +413,16 @@ places:
     # (app5371057, 1806). Mariantów in gmina Zagórów, powiat słupecki, the area
     # of the former gmina Trąbczyn. Also the unclear "Marianton" of 9454 letter
     # 136. Added 2026-09-30.
+    # "Maryant[oó][nw]" (2026-10-26): the smithy "Kuznia Maryantów" in the
+    # table of the parish of Trąbczyn (app5321pyzdrygr115) is this place - the
+    # editor's word - and the Prussian table's "Maryantow." (agad1169011745,
+    # row 175) is it too; both were unmatched before. 4 hits in 3 documents,
+    # each line read. The ruling also supports reading the unclear
+    # "Marianton" of 9454 letter 136 as this place.
     display: "Mariantów"
     german: "Marianton"
     kind: village
-    match: 'Mariant[oóe][nw]\w*|Maryant[oó]n\w*'
+    match: 'Mariant[oóe][nw]\w*|Maryant[oó][nw]\w*'
     tier: "Context-inferred"
     variants: ["Marianton", "Marianten", "Mariantow"]   # the last two: the copy of about 1930, APP 53/968/0/-/801
 
@@ -507,8 +527,11 @@ places:
     kind: settlement
     tier: "Book-confirmed"
     # "Olędry nowe i stare" and the table's "Olendry" in the visitation of 1791
-    # (ADWł 85) are the two settlements together.
-    match: 'Staro[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)'
+    # (ADWł 85) are the two settlements together. So is "Hollendry Luzne Stare
+    # i nowe z Hutą" in the table of the parish of Trąbczyn of 1791-1792
+    # (app5321pyzdrygr115): one row naming both, 2026-10-26; 1 hit, that
+    # document only.
+    match: 'Staro[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)|Hollendry(?= Luzne Stare i nowe)'
     distinct_from: [lazy-trabczyn, trabczynskie-nowe-oledry]
     variants:
       - {form: "Trombschino-Hauland", match: false, seen_in: ["Hohenlohe-era estate inventory"]}
@@ -517,6 +540,11 @@ places:
       - {form: "Łaziny",              match: false}
       - {form: "Łazińskie Stare Olędry", match: false}
       - {form: "Staro-Łazińska",      match: true, seen_in: ["app539680783-1"]}
+      # The editor's ruling of 2026-10-26: "Tropiczyner Holl." - the dateline
+      # of the school contract of 1820 (APP 53/968/0/-/782) - is the Olędry
+      # on Trąbczyn, the Trąbczyńskie Stare Olędry. Matched; it hits this one
+      # document only.
+      - {form: "Tropiczyner Holl.", match: true, seen_in: ["app539680782-1"]}
       # The editor's rulings of 2026-10-22: Łazińsk is the colony ("the
       # colony which went by many name variants"), Lazinsk is its German-era
       # name, and Kolonia Łazińskie (Mielewczyk 2017, p. 48) is another
@@ -540,7 +568,11 @@ places:
     display: "Trąbczyńskie Nowe Olędry"
     kind: settlement
     tier: "Book-confirmed"
-    match: 'Nowo[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)'
+    # "Hollendry Luzne Stare i nowe z Hutą" in the table of the parish of
+    # Trąbczyn of 1791-1792 (app5321pyzdrygr115) names both settlements in
+    # one row, as the visitation's "Olędry nowe i stare" does (2026-10-26);
+    # 1 hit, that document only.
+    match: 'Nowo[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)|Hollendry(?= Luzne Stare i nowe)'
     distinct_from: [lazy-trabczyn, trabczynskie-stare-oledry]
     variants:
       - {form: "Łazińskie Nowe Olędry", match: false}
@@ -2224,7 +2256,11 @@ places:
   lazy-trabczyn:
     display: "Łazy"
     kind: village
-    match: '(?<=Nowawies, )Lazy|(?<=stare )Łazy|Łazy(?= \| \d)'
+    # "(?<=,)Łazy(?=,)" (2026-10-26): the name cell of a table row, where the
+    # row carries no other context - the hearth-tax register's entry 180
+    # (app53640kalisztab21) and the table of the parish of Trąbczyn
+    # (app5321pyzdrygr115). 2 hits in 2 documents, each line read.
+    match: '(?<=Nowawies, )Lazy|(?<=stare )Łazy|Łazy(?= \| \d)|(?<=,)Łazy(?=,)'
     tier: "Text-confirmed"
     variants: []
     # One of the villages of the 1796 grant (12765, document 4). Matched only

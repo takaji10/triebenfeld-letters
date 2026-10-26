@@ -203,9 +203,12 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
       2026-10-06 (each entry a document; mixed spelling accepted and
       labelled; whole pages; the raw-file folders, "Unrelated" and
       "Incorrect Pages" left out; batch order mine).
-- [ ] **You: texts for five folders that have none**: Inscriptiones Pyzdry
-      Gr.75, Relationes Poznań Gr.1181, Relationes Pyzdry Gr.115,
-      Relationes-oblatae Konin Gr.142 and Gr.150.
+- [ ] **You: texts for four folders that have none**: Inscriptiones Pyzdry
+      Gr.75, Relationes Poznań Gr.1181, Relationes-oblatae Konin Gr.142 and
+      Gr.150. (Relationes Pyzdry Gr.115 came in on 2026-10-26: your
+      transcription of the table on page 543, built as app5321pyzdrygr115;
+      the entry's date and the two "gara" headings still open,
+      NEEDS_CONFIRMATION.)
 - [ ] **You: Pyzdry Gr.75**, the one signature on two folders, when you
       come back to it.
 
@@ -1147,6 +1150,84 @@ sheet shown with the holding and without a transcription (your word).
       them. Nothing else is open.
 - [x] Published at your word (2026-10-25): the branch merged to main and
       pushed; the "Build and deploy" run succeeded.
+
+## 36. APP 53/968/0/-/782: the contract with the teacher Samuel Adolph,
+      1820 (added and translated 2026-10-25)
+
+One photographed document of two pages, from the same fonds as 545: the
+village board's contract with the teacher of the colony's school, dated
+"Tropiczyner Holl., 14. März 1820" - ten numbered terms (dwelling, land and
+grain, school money, the feast-day offering, the New Year's round), the
+teacher's obligation and the board's, three signatures. The first image of
+the folder is the title page and is left out (your word).
+
+- [x] Scaffolded after 545's shape; your transcription carried in whole, the
+      lines laid out against the two images (your word: the file's breaks are
+      paragraph-level); item 7 empty and item 9 opening "9te." ruled by you.
+- [x] Built: one document, the date read from the dateline; era
+      `restitution` (proposed in the plan you approved - say otherwise if
+      you want it elsewhere); estates `trabczyn`.
+- [x] Translated in session at your word (no paid run for two pages),
+      check clean; summaries written and claim-checked in session (18
+      statements, one corrected in the draft); the holding's page written in
+      both languages; the glossary gate passes; the site verifies clean
+      (627 documents in 48 holdings).
+- [x] Your answers on the spot sheet (2026-10-25), all 7 rows: term 9 breaks
+      after "Ostern" and after "Wirt"; term 10 after "und"; the closing
+      sentence runs "Mann fortzusetzen. Die Sontags Schule so wie" on one
+      line; the board's last line breaks before "wir" (hyphens as drafted);
+      the foot of page 2 is blank paper - nothing to transcribe there.
+      Applied to the page files and rebuilt; the check clean.
+- [x] Your identifications (2026-10-26): "Tropiczyner Holl." is the Olędry
+      on Trąbczyn, the Trąbczyńskie Stare Olędry - recorded in
+      reference/places.yml as a matched variant (it hits this one document);
+      the place of writing carries the manuscript's form and the build shows
+      the canonical name. "Borwiezer Holland" stays open
+      (NEEDS_CONFIRMATION), as does whether the ruling covers 14526's
+      "Trąbczyner Holländ" spelling.
+- [x] No timeline event (your word, 2026-10-26): the contract bears on the
+      colony's school, not directly on the owner. Whether the restitution
+      era's story names the holding is still open.
+- [ ] You: "6 gl." at term 9 - gulden, or Groschen as the standing rule
+      would rewrite it (NEEDS_CONFIRMATION, "Translations").
+- [ ] You: whether the single-document terms get glossary entries ("St.",
+      "Böhm", "Opfertorium", "Viertel", the "Neujahrsumgang") - offered, not
+      done (NEEDS_CONFIRMATION, "Glossary").
+- [x] Published at your word (2026-10-26).
+
+## 54. APP 53/4/0/-/62 (added 2026-10-26, branch app534062)
+
+- [x] Built, translated, summarised and claim-checked in session, no paid
+      run; the checks clean. The holding's page written in both languages;
+      the glossary gate passes.
+- [x] The place matching changed so the entry can tell Szetlew and
+      Szetlewek apart (reference/places.yml). The hearth-tax table's
+      "Szetlewo z Częś: Jaroszew:" row moved from Szetlewek to Szetlew, and
+      the Kodeks's own gloss in kdw documents 2 and 4 is newly matched -
+      both following the identification the literature index had already
+      recorded. Confirmed (your word, 2026-10-26: "Everything else is
+      fine").
+- [ ] You: check the preceding pages of the volume (the online unit,
+      jednostka 980058, scans before 231) for the heading of the sitting -
+      the entry has only "Feria Quinta proxima praeterita" and is dated
+      1727, year only, on your provisional word. The date then moves to
+      `dates: sitting:` and the place of the sitting fills the empty
+      override (NEEDS_CONFIRMATION, "Waiting on material"). The same
+      reading settles whether the relatio's opening formula stands higher
+      on page 222 or the sentence continues from the entry above, and
+      whether "De quo praesens Relatio" closes this entry or heads the next.
+- [ ] You: the readings left open - "Conte~" (Contubernali is the
+      session's candidate), "de Juris Firma" against Forma, the "eam" with
+      its scribal mark (NEEDS_CONFIRMATION, "Readings, the other
+      holdings", and units/app534062/intake/unresolved.md).
+- [x] Your correction (2026-10-26): "Szetlewicz is a surname, not a place
+      name" - the session's "formed from the place" claim dropped from
+      the holding's page and the person entry's comment; and the German
+      holding page, first written as a copy of the English, rewritten in
+      German. Lesson in WORKING_NOTES.
+- [ ] A timeline event: none added - the entry names no party; offered.
+- [x] Published at your word (2026-10-26): main pushed after the local
+      Jekyll build and verify passed; the "Build and deploy" run succeeded.
 
 ## 36. APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784 (added 2026-10-26, on the branch `app5320pozgr1181`, not published)
 

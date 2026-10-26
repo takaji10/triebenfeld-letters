@@ -1,0 +1,14 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,12,break,high,rubric+short_line,0.29,11,38,cation aus.,1. Freihe wohnung.
+1,13,break,high,rubric,0.48,18,38,1. Freihe wohnung.,2. Zu dieser Schule sind drey Morgen Land
+1,17,break,high,rubric,0.93,35,38,Land wird von der Gemeine beackert.,3. Bekommt er von der Gemeine fünf Viertel
+1,20,break,high,rubric,0.8,30,38,daß muß er beim Abzuge lasten.,4. Vor Kinder lernen vom a b c bis zum
+1,22,break,high,rubric+short_line,0.29,11,38,Lesen 3 gr.,5. Vor Schreiben und Rechnen 6 gr.
+1,23,break,high,rubric,0.91,34,38,5. Vor Schreiben und Rechnen 6 gr.,6. Von demjenigen Kinder welch eingesegnet
+1,25,break,high,rubric+short_line,0.64,24,38,werden zum Präsent 1 St.,7.
+1,26,break,high,rubric,0.05,2,38,7.,8. Vor Begräbniß einer alten Leiche 7 Böhm 3 gr.
+1,28,break,high,short_line,0.53,20,38,von einen Kind 1 St.,9te. Ale hohe Pfest-Tage als Weinachten Ostern
+1,31,break,high,rubric,0.85,32,38,ein Opfertorium vom Wirthe 6 gl.,10. Erhält derselbe einen Neujahrsumgang und
+1,33,break,held,hand,0,0,0,,Auf diesen Contract veroblogiert sich der Schullehrer
+1,39,break,held,hand,0,0,0,,Auf dieses ertheilen wir demselben
+1,44,break,held,hand,0,0,0,,"Johann George Lindner, Schulz."

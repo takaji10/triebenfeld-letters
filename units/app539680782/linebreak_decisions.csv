@@ -1,0 +1,4 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,6,7,-,auszu,nehmen,auszunehmen,join,high,"joined form attested in DWDS (508,661 hits)",False,0,508661,0,,1,,gestalt verlauten hiesige Schule auszu- || nehmen da wir selbigen zur Probe stel-
+1,1,7,8,-,stel,ten,stelten,join,high,"joined form attested in DWDS (1,079 hits)",False,0,1079,0,,1,,nehmen da wir selbigen zur Probe stel- || ten und an ihm einen gefallen fragen
+1,1,10,11,-,Vo,cation,Vocation,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,demselben und stellen ihm selbige Vo- || cation aus.

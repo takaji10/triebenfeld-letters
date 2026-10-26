@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 626 documents on 2,021 pages, dated from 1173 to 1936. The oldest are
+The edition holds 629 documents on 2,089 pages, dated from 1173 to 1936. The oldest are  
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-seven holdings in six archives and a library:
+The documents come from fifty holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -46,9 +46,13 @@ The documents come from forty-seven holdings in six archives and a library:
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
   administration of its Polish provinces, of the foreign ministry and of the state treasury;
 - the **State Archive in Poznań**: entries from the court books of Konin and Kalisz on the
-  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (21
-  holdings, 92 documents); thirteen pages of the hearth-tax register of the Kalisz
-  voivodeship for 1789; a court record of 1806; copies made about 1930 of papers on the
+  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (23
+  holdings, 94 documents), among them the report of 1727 in which the
+  court messenger Sebastian Szetlewicz of Szetlewek records serving a citation at
+  Szetlew; thirteen pages of the hearth-tax register of the Kalisz
+  voivodeship for 1789; the head of the table of the parish of Trąbczyn on page 543
+  of the register of the grod court and office of Pyzdry, of 1791 to 1792; a court
+  record of 1806; copies made about 1930 of papers on the
   division of the estates; a printed summons of 1860 in a lawsuit between the owner of
   Trąbczyn and its colonists; ten research sheets in which the historian Albert Breyer
   collected the Polonised German surnames of the gmina Zagórów, with his excerpt of a
@@ -56,7 +60,9 @@ The documents come from forty-seven holdings in six archives and a library:
   notebooks of 1936 in which the historian Albert Breyer
   wrote down what the German settlers of Łazińsk and the places around it told him, and a
   third, of 1935 and 1936, into which he copied the Russian tables of 1868 that gave the
-  settlers of Łazińsk, Emilienheim and Orliny their land; and six pages of an
+  settlers of Łazińsk, Emilienheim and Orliny their land; the contract of 14 March 1820
+  between the village board of Tropiczyner Holland and the school teacher Samuel Adolph,
+  on his taking over the colony's school; and six pages of an
   eighteenth-century copy-book of the privileges of the abbey of Ląd, with the king's
   exchange of 1362 that gave the abbey the forest where Drzewce was founded, its purchase
   of land at Łukom in 1461, and a page of the renewal of the mounds between Łukom, Zagórów
@@ -84,7 +90,7 @@ Each holding has a page of its own that describes what it contains and how its t
 prepared.
 
 Most of the documents are in German. Twenty-two are in French, nineteen in Polish and
-a hundred and seven in Latin, the court entries often with passages in the other of the two, and some
+a hundred and eight in Latin, the court entries often with passages in the other of the two, and some
 of the German deeds have passages in Polish and Latin. Each is translated from its own
 language.
 
@@ -152,11 +158,11 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 905 marks of doubt in the edition. Each document's page says how many it has.
+There are 910 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
-Every document that has text has an English translation: 614 of the 619. They were made by
+Every document that has text has an English translation: 625 of the 629. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.
@@ -186,7 +192,7 @@ document; the page of each holding says how its summaries were made.
 
 **Dates.** About nine documents in ten carry their own date. The others are dated by the
 editor from the manuscript, from the letters on either side, or from a second copy, and
-each document says which. Nine remain undated.
+each document says which. Nineteen remain undated.
 
 **People.** [People]({{ '/people/' | relative_url }}) lists everyone named often enough to
 follow, with the documents that name them. Some identifications rest on context alone; each

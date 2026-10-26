@@ -220,6 +220,15 @@ Where the rest is:
   alone. The forbidden-render checker is case-insensitive.
 - **A person entry whose display includes a rank** needs a short `render:`
   ("Holtzendorff"), or the English is given the whole title as the name.
+- **A derivation of a name is a claim like any other** (2026-10-26,
+  app534062). The session wrote of the surname Szetlewicz that "the name is
+  formed from the place, as Szetlewek itself is formed from Szetlew" - and
+  the editor's one correction before publication was that Szetlewicz is a
+  surname, not a place name. An etymological analogy is not settled by the
+  documents or by another name's behaviour; state what they show (a family
+  of that name living at the place) and leave the derivation out unless a
+  source or the editor settles it. The same rule that keeps a plausible
+  word out of a transcription keeps a plausible etymology out of the prose.
 
 ## Adding a holding
 
@@ -1795,6 +1804,44 @@ cloud branches").
   place of Python's `struct`, which `urllib` needs. Keep session scripts
   in their own subfolder; leave the leftover file alone (another session's
   work).
+- **`name_catalogue.py` rewrites `reference/name_seeds.json` wholesale, and
+  a bare run drops curated seeds** (2026-10-25, the contract of 1820). The
+  committed file carried 196 seeds; a bare `--unit <slug>` run re-derived
+  473 from the whole corpus - 28 of them gone, among them Drzewce, Kolno,
+  Betsch and Gneizenau, and junk in their place ("Allodial" a place,
+  "Amerika"). Restored with `git checkout` and the holding needed none of
+  it: the sibling 783 put its 97 colonists into no authority either. A new
+  holding's people are not seeded by a bare catalogue run; the names pass
+  and the editor rule who is profiled. Treat the file as write-protected
+  until the tool's intended mode is understood.
+- **A hand row in `paragraph_decisions.csv` whose context carries a comma
+  must have the field quoted** (2026-10-25, the contract of 1820). The
+  hand-set rows are found again by exact context match, and the sheet is
+  plain CSV: the unquoted context "Johann George Lindner, Schulz." was read
+  as "Johann George Lindner", the match failed, and the row was dropped
+  with "hand-set row not found again" - twice, before the quoted form
+  (`1,44,break,held,hand,0,0,0,,"Johann George Lindner, Schulz."`) held
+  through a rebuild. Quote any hand row whose context contains a comma.
+- **Stale spot-sheet servers outlive their sessions and hijack their
+  port** (2026-10-25). Earlier sessions left `spot_sheet*.py` servers
+  running on 4103, 4107, 4108 and 4109 (the oldest two days back); Windows
+  lets a new server bind the same port with `allow_reuse_address`, and then
+  the STALE one answers - a new sheet opens as a different holding's page,
+  with no error anywhere. Check what answers before handing a port to the
+  editor (`urllib` the title, or look for `class=row`), and take a port
+  `netstat` shows free. Leave the stale processes alone unless the editor
+  says otherwise: another session's work.
+- **OCR a manuscript for its LINE SCAFFOLD, not its words** (2026-10-25,
+  the same contract). Neither Tesseract's German print model nor the
+  lunaroute converter can read an 1820 hybrid hand - the lunaroute pass
+  returned word salad - but the converter reads the page whole and its
+  LINE BREAKS were right where the darkness-run profile and the
+  transcription could check them (the "Vo-/cation" division, the ten
+  numbered terms). The method for laying out a secure transcription by
+  paragraph onto the manuscript's lines: count and place the lines with
+  the darkness runs, scaffold the contents with the OCR pass, map the
+  editor's words onto the scaffold, and leave the few unsettled divisions
+  to a spot sheet.
 - **OCR a page as the agreement of passes, not from one run.** The five
   passes over the clipping (two upscalings ×3/×4, psm 6 and 4, tessdata_best
   beside the standard model, Windows.Media.Ocr as a third witness) agreed on
@@ -2166,6 +2213,19 @@ cloud branches").
   which nearly sent a session to "fix" correct files. When a built page
   looks wrong in the console, read it with Python
   (`python -X utf8 -c "..."`) before changing anything.
+- **The translation-review reader had never run with `--unit`** (2026-10-26,
+  app534062). Two defects, both fixed in `pipeline/translate/translation_review.py`:
+  the module referenced `unitlib` without importing it (NameError on the
+  first `--unit` run), and `key()` built the cleared key from the row's
+  `letter` while `check_translations.py` filters on `pad` - so an "OK"
+  ruling was recorded under a key the checker never matches and the row came
+  back at every re-run. The key is now built from the row's `pad` column,
+  with the letter as fallback. Lesson on top of the fix: `check_translations.py`
+  REWRITES the review sheet at every run, so a ruling typed into the csv is
+  wiped by the next check - rule the sheet and run `translation_review.py
+  --apply` in one command, before the next check run. (The pre-existing
+  entries in `reference/translation_rulings.json` are pad-keyed, as the
+  file's own comment says; they predate the bug or were entered by hand.)
 
 ## Desktop and cloud
 
@@ -2457,3 +2517,46 @@ cloud branches").
   site (a shown page is the editor's authorised text in full; a hidden
   work's own page is still checked strictly). Checker internals - decided
   in session, recorded in the changelog.
+- **Two sessions, one working copy** (2026-10-26): a second session may be
+  working in the same checkout (its work showed up as modified files and a
+  new `units/` folder mid-session). Before `git checkout -b`, run
+  `git status`: a checkout in the shared directory moves the other
+  session's branch under it. Work in a worktree instead
+  (`worktree_create`, then `session_move` onto it) and give the worktree
+  its own branch. **The worktree lacks the gitignored `pages/`**, and a
+  `regenerate --site` run there then rewrites every unit's
+  `page_scan_map.csv` with `gap` rows (the images are what the mapping
+  pairs against; the db is built before the mapping, so the site itself
+  survives). Junction the worktree's `pages/` to the main checkout's
+  (`New-Item -ItemType Junction`) before any build, and put the new
+  holding's staged pages there too. Recovery if it happened anyway:
+  `git checkout -- units/*/page_scan_map.csv` and the other churned
+  generated files, then rebuild.
+  **And when the merge comes** (2026-10-26, publishing): remote `main`
+  moves while you work - fetch and merge immediately before pushing, and
+  expect a second merge if the other session pushes in between. Resolve a
+  generated-file conflict by taking either side and rebuilding
+  (`regenerate.py --site` rewrites them all), but anything spliced into
+  those files by hand goes with the side you took: this holding's summary
+  lines vanished with `site/_data/summaries*.yml` taken from the other
+  side, and `holding.py --summaries` had to be run again. The guide's
+  hand-kept figures (documents, pages, translated, undated, marks of
+  doubt) must be recomputed against the merged state, not either side's -
+  the merged truth was 629 documents on 2,089 pages in 50 holdings, 625 of
+  629 translated, 19 undated, 910 marks of doubt.
+- **A table with no column of entry numbers** (2026-10-26, APP 53/21/0/-/
+  Pyzdry Gr.115): `unitlib.table_of` sorted a table by its first column's
+  numbers and crashed (`StopIteration`) on a table that has none - the
+  parish stands in the first cell and the figures follow. It now sorts such
+  a table with every figure row in the body and the rows above the first of
+  them in the head; `render_table` puts the first cell with the name, not
+  the number column, and applies no total styling, judged over the whole
+  table (a closing page of a numbered table has no numbers of its own - the
+  scope was wrong once and the before-and-after check caught it). The
+  check: `pipeline/review/verify_table_of_diff.py`, the pristine and the new code
+  over every existing table, parse and render. And a trap in the checker:
+  `check_unit_text.py`'s `digits()` reads a comma-run of a table row
+  ("…,31,62,124") as one thousands number ("31,62124"), so figures quoted
+  from such a row fail the citation check unless the document's summary
+  carries them with spaces ("31, 62 and 124") - the summaries are part of
+  the checked haystack by design; write the summary before rebuilding.

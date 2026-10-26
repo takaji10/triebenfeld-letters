@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 626 Dokumente auf 2.021 Seiten aus den Jahren 1173 bis 1936. Die
+Die Edition enthält 629 Dokumente auf 2.089 Seiten aus den Jahren 1173 bis 1936. Die      
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -39,7 +39,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus siebenundvierzig Beständen in sechs Archiven und einer Bibliothek:
+Die Dokumente stammen aus fünfzig Beständen in sechs Archiven und einer Bibliothek:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -48,9 +48,12 @@ Die Dokumente stammen aus siebenundvierzig Beständen in sechs Archiven und eine
 - dem **Geheimen Staatsarchiv Preußischer Kulturbesitz** in Berlin: Akten der preußischen
   Verwaltung der polnischen Provinzen, des Außenministeriums und der Staatskasse;
 - dem **Staatsarchiv Posen**: Einträgen aus den Gerichtsbüchern von Konin und Kalisch zur
-  Grenze zwischen Trąbczyn und Łukom und zu den Prozessen darum, von 1589 bis 1788 (21
-  Bestände, 92 Dokumente), dreizehn Seiten des Registers der Rauchfangsteuer der
-  Woiwodschaft Kalisch für 1789, einem Gerichtsprotokoll von 1806, um 1930 angefertigten
+  Grenze zwischen Trąbczyn und Łukom und zu den Prozessen darum, von 1589 bis 1788 (23
+  Bestände, 94 Dokumente), darunter der Bericht von 1727, in dem der Gerichtsbote
+  Sebastian Szetlewicz von Szetlewek die Zustellung einer Ladung in Szetlew anzeigt, dreizehn Seiten des Registers der Rauchfangsteuer der
+  Woiwodschaft Kalisch für 1789, dem Kopf der Tabelle der Pfarrei Trąbczyn auf der
+  Seite 543 des Registers des Burggerichts und -amts Pyzdry von 1791 bis 1792, einem
+  Gerichtsprotokoll von 1806, um 1930 angefertigten
   Abschriften von Schriftstücken über die Aufteilung der Güter, einer gedruckten
   Vorladung von 1860 in einem Prozess zwischen dem Besitzer von Trąbczyn und dessen
   Kolonisten, zehn Arbeitsblättern, auf denen der Historiker Albert Breyer die
@@ -59,7 +62,9 @@ Die Dokumente stammen aus siebenundvierzig Beständen in sechs Archiven und eine
   Namen geändert wurden; zwei Notizheften von 1936, in die der Historiker Albert Breyer
   aufschrieb, was ihm die deutschen Siedler von Łazińsk und den umliegenden Orten erzählten,
   und einem dritten von 1935 und 1936, in das er die russischen Tabellen von 1868 abschrieb,
-  nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten; und sechs
+  nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten; dem
+  Kontrakt vom 14. März 1820 zwischen der Dorfgemeinde von Tropiczyner Holland und dem
+  Schul Lehrer Samuel Adolph, über seine Übernahme der Schule der Kolonie; und sechs
   Seiten eines Kopialbuchs der Privilegien der Abtei Ląd aus dem 18. Jahrhundert, mit dem
   Tausch des Königs von 1362, der der Abtei den Wald gab, in dem Drzewce gegründet wurde,
   ihrem Kauf von Land in Łukom 1461 und einer Seite der Erneuerung der Grenzhügel zwischen
@@ -85,7 +90,7 @@ Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enth
 sein Text bearbeitet wurde.
 
 Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch, neunzehn polnisch und
-hundertsieben lateinisch, die Gerichtseinträge oft mit Stellen in der jeweils anderen der
+hundertacht lateinisch, die Gerichtseinträge oft mit Stellen in der jeweils anderen der
 beiden Sprachen, und einige deutsche Urkunden enthalten polnische und lateinische Stellen. Jedes ist aus seiner
 eigenen Sprache übersetzt.
 
@@ -157,11 +162,11 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 905 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 910 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 614 von 619. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 625 von 629. Sie wurden von einem 
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.
@@ -192,7 +197,7 @@ Zusammenfassungen entstanden sind.
 
 **Datierung.** Etwa neun von zehn Dokumenten tragen ihr eigenes Datum. Die übrigen hat der
 Herausgeber nach der Handschrift, nach den benachbarten Briefen oder nach einer zweiten
-Abschrift datiert, und jedes Dokument sagt, was für es gilt. Neun bleiben undatiert.
+Abschrift datiert, und jedes Dokument sagt, was für es gilt. Neunzehn bleiben undatiert.
 
 **Personen.** Unter [Personen]({{ '/de/personen/' | relative_url }}) steht jeder, der oft
 genug genannt ist, um ihm zu folgen, mit den Dokumenten, die ihn nennen. Manche

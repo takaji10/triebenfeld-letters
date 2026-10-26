@@ -863,6 +863,17 @@ read, translate and summarise.
     Stanisław is the decree's late father. Nothing in the edition's texts
     is built on it; the person's page carries it with the work as its
     source.
+  - **The sitting of the relatio of 1727** (APP 53/4/0/-/62, added
+    2026-10-26). The entry at the foot of page 222 has no date of its own -
+    only "Feria Quinta proxima praeterita", the Thursday next past - and is
+    dated 1727, year only, as the editor's provisional assignment from the
+    volume's title. The editor is to check the preceding pages of the
+    volume (the online unit, jednostka 980058, scans before 231) for the
+    heading of the sitting, which gives the date when the court sat; the
+    date then moves to `dates: sitting:` with its basis, as the court-book
+    holdings carry it, and the place of the sitting (the roczki moved the
+    court round the palatinate) is settled by the same reading and fills
+    the empty place override.
 
 ## Readings, Oe 1 Bü 9454
 
@@ -887,6 +898,14 @@ written until there is a witness or a better scan.
   phrases that need the page.
 
 ## Readings, the other holdings
+
+- **APP 53/968/0/-/782** (the contract of 1820 with the teacher Samuel
+  Adolph, added 2026-10-25; `units/app539680782/notes.md`): the transcription
+  is the editor's own and is not re-read. The line division was ruled by the
+  editor on the spot sheet (all 7 rows answered 2026-10-25, applied and
+  rebuilt); the foot of the second page is blank paper - the session had
+  taken its marks for a pencil inscription, and there is nothing to
+  transcribe. Nothing waits on this holding's readings.
 
 - **APP 53/1455/0/2/21** (the copy-book of the privileges of Ląd, added
   2026-10-21, published the same day; `units/app5314550221/notes.md`): read from the
@@ -1061,6 +1080,17 @@ written until there is a witness or a better scan.
 - **APP 53/968/0/-/801**: words left as written and text not transcribed, in
   `units/app539680801/intake/unresolved.md`. The note of the court's fees on
   the last page is not transcribed.
+- **APP 53/4/0/-/62** (the relatio of Szetlewicz, 1727, added 2026-10-26):
+  the open readings are in `units/app534062/intake/unresolved.md` - "Conte~"
+  (the person before whom the citation was left; Contubernali, household
+  member, is the session's candidate against the Konin Gr. 117 parallels),
+  "de Juris Firma" against "Forma" (no parallel in the corpus), and the
+  "eam" of line 2 with its scribal mark above the final m (the session reads
+  the citation pronoun; "eadem", the editor's guess, has no grammatical
+  place in the sentence; if the mark completes the word, "eamdem" = eandem
+  is the likeliest form). The verb of reporting is missing from the
+  transcribed block; and whether "De quo praesens Relatio" closes this entry
+  or heads the next is for page 223.
 
 ## Identifications
 
@@ -1086,6 +1116,16 @@ People (`reference/people.yml`, `open_questions`):
 
 Places (`reference/places.yml`, `open_questions`):
 
+- "Borwiezer Holland", the colony the school teacher Samuel Adolph came
+  from (the contract of 1820, APP 53/968/0/-/782): not identified. Borowiec
+  (named in APP 53/968/0/-/669 as a source of marriage partners for the
+  colonies) is a candidate; nothing more.
+- The same ruling, one spelling over: "Trąbczyner Holländ" (oe1bu14526-17),
+  recorded in the canon as a form seen without asserting the identity, now
+  looks covered by the editor's ruling of 2026-10-26 ("Tropiczyner Holl." =
+  the Olędry on Trąbczyn, the Trąbczyńskie Stare Olędry). To confirm that
+  the ruling covers the 14526 spelling too, or whether it stands alone.
+
 - Harbultowitz, among the estates of the majorat in Oe 1 U 199: not
   identified.
 - In Oe 1 Bü 9454: Neustadt (which one is not clear), Wilhelmsruh (a manor by
@@ -1109,6 +1149,23 @@ Places (`reference/places.yml`, `open_questions`):
   together.
 - To split when the documents arrive: Łukomskie Olędry (two places under one
   name) and Trombschino-Hauland (now matched to Trąbczyn).
+- **APP 53/21/0/-/Pyzdry Gr.115** (added 2026-10-26; the holding's notes.md
+  carries the details; settled the same day at the editor's word, "use my
+  transcription, which is correct" - the sheet planned for it was never
+  needed):
+  - ~~The middle figure of the table's first row~~ Settled: the village of
+    Trąbczyn reads 21, **22**, 84, and the transcription is the editor's own
+    and correct - the row stands as transcribed. The doubling of the other
+    rows (h, 2h, 4h) is an observation of the table, recorded in the
+    holding's notes; nothing is built on it.
+  - ~~What the two figure columns after the hearths are~~ Settled: "gara
+    zyta" and "gara owcza" stand as written, the English keeps the words.
+  - ~~Whether the page carries a dated sitting heading above the table's
+    entry~~ Settled: no dated heading is carried; the document stays
+    undated (`no_date` in its rulings.yml).
+  - "z Hutą" in the row of the Hollander settlements: whether the Huta is a
+    distinct place of the colonies or the colonies' smith, and so whether a
+    place entry is wanted. No entry until the editor rules.
 
 - **People split into one entry each (2026-10-04).** Michaelis (court fiscal 1798;
   merchant 1809; Christiane Dorothea, née Eichborn), Goldbeck (the Grand Chancellor; the
@@ -1230,7 +1287,12 @@ The seventeen of Nr. 12367 and the two AGAD holdings were translated in
 session on 2026-10-05; their one review row is deliberate: "7,000 fl." in
 Weigel's reckoning (12367, 7) is rendered Polish florins, not the termbase's
 gulden, since church capital on a Polish estate is reckoned at six to the
-thaler.
+thaler. The contract of 1820 (app539680782-001) was translated in session on
+2026-10-25 at the editor's word, no paid run for a two-page document. Open on
+it: "6 gl." at term 9 - the standing rule of `reference/english_forms.yml`
+rewrites "gl." after a figure to Groschen, from the Hohenlohe letters' usage;
+whether this contract's "6 gl." is gulden is put to the editor, and the rule
+gets a guard if it is.
 
 Fixes to the English that survive a re-publish go in
 `reference/english_forms.yml` (rules) or `reference/english_corrections.yml`
@@ -1291,6 +1353,13 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   entry, Krünitz or Grimm was used and the `source:` says so: vidimirte
   Abschrift, in Ratis, Execution, Notarius, Pro Memoria, L. S. Confirm that
   this is acceptable, or name the work to use.
+- **The single-document terms of the contract of 1820** (app539680782): the
+  glossary gate passes (its words are in fewer than three documents), but a
+  reader stops at several: "St." after a figure (Stüber?), "Böhm" in the
+  burial fee of "7 Böhm 3 gr.", "Opfertorium", the grain measure "Viertel",
+  the "Neujahrsumgang", the village board's "Beisitzer" and "gerichten" (as
+  written; what office the latter names is not clear). Put to the editor on
+  the spot sheet's report: entries, or the words left as written.
 - **The Mencel source** (`reference/sources/patrimonial_courts_mencel.md`):
   which fonds on Szukaj w Archiwach it describes, so the citation can name it;
   and whether "Sądy te narastały nierównomiernie" means the records grew

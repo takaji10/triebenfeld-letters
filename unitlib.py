@@ -404,8 +404,30 @@ def table_of(page_lines):
 
     pages = {pg: list(csv.reader(ls)) for pg, ls in page_lines.items() if ls}
     allrows = [(pg, r) for pg in sorted(pages) for r in pages[pg]]
-    first = next(k for k, (_, r) in enumerate(allrows) if is_entry(r))
-    last = max(k for k, (_, r) in enumerate(allrows) if is_entry(r))
+    entries = [k for k, (_, r) in enumerate(allrows) if is_entry(r)]
+    if not entries:
+        # A table whose rows carry no entry number (APP 53/21/0/-/Pyzdry
+        # Gr.115, 2026-10-26): the parish stands in the first cell, filled on
+        # the first row and left empty under it, and the figures follow. The
+        # rows that carry figures are the body; the rows above the first of
+        # them are the head. No row is a page's total: without a number
+        # column an empty first cell says nothing. A table with neither
+        # numbers nor figures anywhere is not a table.
+        def has_figs(r):
+            return any(c.strip().isdigit() for c in r[1:])
+        first = next((k for k, (_, r) in enumerate(allrows) if has_figs(r)), None)
+        if first is None:
+            raise ValueError('a table with neither entry numbers nor figures')
+        head, foot = [r for _, r in allrows[:first]], []
+        body, head_pages, foot_pages = {}, {}, {}
+        for pg, r in allrows[:first]:
+            head_pages.setdefault(pg, []).append(r)
+        for pg, r in allrows[first:]:
+            body.setdefault(pg, []).append(r)
+        return {'caption': '', 'head': head, 'pages': body, 'foot': foot,
+                'head_pages': head_pages, 'foot_pages': foot_pages}
+    first = entries[0]
+    last = entries[-1]
 
     def is_section(r):
         """A heading inside the table (a district's name over its entries): only the name cell is filled."""
@@ -467,6 +489,15 @@ def render_table(tbl, page_no):
     if not rows and not foot_here and not head_only:
         return ''
     first_page = min(table_page_numbers(tbl))
+    # A table whose rows carry no entry number (APP 53/21/0/-/Pyzdry Gr.115):
+    # the first cell is the parish, a word, not a number; no row is a page's
+    # total, and the first cell belongs with the name. The table is judged
+    # whole, not page by page: a closing page of a numbered table carries no
+    # numbers of its own (the Łazińsk table of apl399806603, caught by the
+    # before-and-after check, 2026-10-26).
+    has_no_col = any(r[0].strip().isdigit()
+                     for r in head + foot
+                     + [r for rs in tbl['pages'].values() for r in rs])
     ncol = max(len(r) for r in head + foot + rows)
 
     def pad(r):
@@ -474,7 +505,9 @@ def render_table(tbl, page_no):
 
     def cells(r, tag):
         r = pad(r)
-        return (f'<{tag} class="no">{html.escape(r[0].strip())}</{tag}>'
+        first = (f'<{tag} class="no">{html.escape(r[0].strip())}</{tag}>' if has_no_col else
+                 f'<{tag} class="name">{html.escape(r[0].strip())}</{tag}>')
+        return (first +
                 f'<{tag} class="name">{html.escape(r[1].strip())}</{tag}>'
                 + ''.join(f'<{tag} class="num">{html.escape(c.strip())}</{tag}>' for c in r[2:]))
 
@@ -537,8 +570,10 @@ def render_table(tbl, page_no):
                        + ('</thead>' if i == n - 1 else ''))
 
     def tr(r):
-        # a row between the entries without a number: a page's own total
-        return f'<tr class="sum">{cells(r, "td")}</tr>' if not pad(r)[0].strip() else f'<tr>{cells(r, "td")}</tr>'
+        # a row between the entries without a number: a page's own total -
+        # only where a number column exists to be empty
+        return (f'<tr class="sum">{cells(r, "td")}</tr>'
+                if has_no_col and not pad(r)[0].strip() else f'<tr>{cells(r, "td")}</tr>')
     if rows:
         out.append('<tbody>' + ''.join(tr(r) for r in rows) + '</tbody>')
     if foot_here:

@@ -1,0 +1,166 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "app5321pyzdrygr115",
+ "uid": "app5321pyzdrygr115-1",
+ "pad": "app5321pyzdrygr115-001",
+ "permalink": "/documents/app5321pyzdrygr115/1/",
+ "doc_type": "register",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "",
+ "date_precision": "unknown",
+ "date_source": "none",
+ "date_display": "",
+ "date_inferred_from": "register/ledger document, no date given in the source",
+ "year": "",
+ "month": "",
+ "day": "",
+ "place": "",
+ "sender": "",
+ "recipient": "",
+ "line_start": 1,
+ "line_end": 11,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "pl",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 9,
+ "n_pages": 1,
+ "text": "Parafie,Nazwiska Miast Wsiów Folwarków,Dymy rolne,gara zyta,gara owcza\nTrąbczyn,Wies Trąbczyn,21,22,84\n,Plebania,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,Kuznia Maryantów,1,2,4\n,Hollendry Luzne Stare i nowe z Hutą,31,62,124",
+ "text_reading": "Parafie,Nazwiska Miast Wsiów Folwarków,Dymy rolne,gara zyta,gara owcza\nTrąbczyn,Wies Trąbczyn,21,22,84\n,Plebania,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,Kuznia Maryantów,1,2,4\n,Hollendry Luzne Stare i nowe z Hutą,31,62,124",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0543_a",
+   "line_start": 3,
+   "line_end": 10,
+   "n_lines": 8,
+   "diplomatic": "Parafie,Nazwiska Miast Wsiów Folwarków,Dymy rolne,gara zyta,gara owcza\nTrąbczyn,Wies Trąbczyn,21,22,84\n,Plebania,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,Kuznia Maryantów,1,2,4\n,Hollendry Luzne Stare i nowe z Hutą,31,62,124",
+   "transcription": "Parafie,Nazwiska Miast Wsiów Folwarków,Dymy rolne,gara zyta,gara owcza\nTrąbczyn,Wies Trąbczyn,21,22,84\n,Plebania,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,Kuznia Maryantów,1,2,4\n,Hollendry Luzne Stare i nowe z Hutą,31,62,124",
+   "reading": "Parafie,Nazwiska Miast Wsiów Folwarków,Dymy rolne,gara zyta,gara owcza\nTrąbczyn,Wies Trąbczyn,21,22,84\n,Plebania,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,Kuznia Maryantów,1,2,4\n,Hollendry Luzne Stare i nowe z Hutą,31,62,124",
+   "paragraphs": [
+    "Parafie,Nazwiska Miast Wsiów Folwarków,Dymy rolne,gara zyta,gara owcza\nTrąbczyn,Wies Trąbczyn,21,22,84\n,Plebania,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,Kuznia Maryantów,1,2,4\n,Hollendry Luzne Stare i nowe z Hutą,31,62,124"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 8
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "nowawies-trabczyn",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface": "Nowawieś",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 6,
+   "doc_line": 4
+  },
+  {
+   "entity": "osiny",
+   "display": "Osiny",
+   "kind": "place",
+   "surface": "Osiny",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 7,
+   "doc_line": 5
+  },
+  {
+   "entity": "lazy-trabczyn",
+   "display": "Łazy",
+   "kind": "place",
+   "surface": "Łazy",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 8,
+   "doc_line": 6
+  },
+  {
+   "entity": "mariantow",
+   "display": "Mariantów (Marianton)",
+   "kind": "place",
+   "surface": "Maryantów",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 9,
+   "doc_line": 7
+  },
+  {
+   "entity": "trabczynskie-nowe-oledry",
+   "display": "Trąbczyńskie Nowe Olędry",
+   "kind": "place",
+   "surface": "Hollendry",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 10,
+   "doc_line": 8
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Hollendry",
+   "page": 1,
+   "page_id": "0543_a",
+   "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
+   "line": 10,
+   "doc_line": 8
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Parish,\"Names of towns, villages and demesne farms\",Agricultural hearths,gara of rye,gara owcza\nTrąbczyn,Village Trąbczyn,21,22,84\n,The parsonage,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,The smithy of Maryantów,1,2,4\n,\"The Hollander settlements scattered, the old and the new, with the Huta\",31,62,124",
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"1\" class=\"no\">Parish</th><th rowspan=\"1\" class=\"name\">Names of towns, villages and demesne farms</th><th class=\"num\">Agricultural hearths</th><th class=\"num\">gara of rye</th><th class=\"num\">gara owcza</th></tr></thead>\n<tbody><tr><td class=\"name\">Trąbczyn</td><td class=\"name\">Village Trąbczyn</td><td class=\"num\">21</td><td class=\"num\">22</td><td class=\"num\">84</td></tr><tr><td class=\"name\"></td><td class=\"name\">The parsonage</td><td class=\"num\">4</td><td class=\"num\">8</td><td class=\"num\">16</td></tr><tr><td class=\"name\"></td><td class=\"name\">Nowawieś</td><td class=\"num\">5</td><td class=\"num\">10</td><td class=\"num\">20</td></tr><tr><td class=\"name\"></td><td class=\"name\">Osiny</td><td class=\"num\">6</td><td class=\"num\">12</td><td class=\"num\">24</td></tr><tr><td class=\"name\"></td><td class=\"name\">Łazy</td><td class=\"num\">5</td><td class=\"num\">10</td><td class=\"num\">20</td></tr><tr><td class=\"name\"></td><td class=\"name\">The smithy of Maryantów</td><td class=\"num\">1</td><td class=\"num\">2</td><td class=\"num\">4</td></tr><tr><td class=\"name\"></td><td class=\"name\">The Hollander settlements scattered, the old and the new, with the Huta</td><td class=\"num\">31</td><td class=\"num\">62</td><td class=\"num\">124</td></tr></tbody>\n</table></div>"
+  }
+ ],
+ "text_english": "Parish,\"Names of towns, villages and demesne farms\",Agricultural hearths,gara of rye,gara owcza\nTrąbczyn,Village Trąbczyn,21,22,84\n,The parsonage,4,8,16\n,Nowawieś,5,10,20\n,Osiny,6,12,24\n,Łazy,5,10,20\n,The smithy of Maryantów,1,2,4\n,\"The Hollander settlements scattered, the old and the new, with the Huta\",31,62,124",
+ "summary_en": "Page 543 of the Relationes [protocollon] of 1791-1792, the register of the grod court and office of Pyzdry: the head of a table of the parish of Trąbczyn, on the editor's own trim of the photographed page, in Polish. The table has five columns: the parish (Parofie, for Parafie), the names of the towns, villages and demesne farms, the agricultural hearths (dymy rolne), and two columns of dues whose headings read gara zyta and gara owcza. Seven rows stand under the parish of Trąbczyn: the village of Trąbczyn itself with 21 hearths, 22 and 84; the parsonage (Plebania) with 4, 8 and 16; Nowawieś with 5, 10 and 20; Osiny with 6, 12 and 24; Łazy with 5, 10 and 20; Kuznia Maryantów, the smithy, with 1, 2 and 4; and Hollendry Luzne Stare i nowe z Hutą, the scattered Hollander settlements old and new with the Huta, with 31, 62 and 124. In every row but the first the figures double from column to column; in the first the middle figure is read 22 where the doubling would give 42 - kept as written. The table carries no date; it stands on page 543 of a register volume whose title names the years 1791 to 1792.",
+ "summary_de": "Seite 543 des Relationes [protocollon] von 1791-1792, des Registers des Burggerichts und -amts Pyzdry: der Kopf einer Tabelle der Pfarrei Trąbczyn, auf des Herausgebers eigenem Zuschnitt der fotografierten Seite, in polnischer Sprache. Die Tabelle hat fünf Spalten: die Pfarrei („Parofie“, für Parafie), die Namen der Städte, Dörfer und Vorwerke, die Rauchfangstände (dymy rolne) und zwei Spalten von Abgaben, die ihre Köpfe „gara zyta“ und „gara owcza“ nennen. Sieben Zeilen stehen unter der Pfarrei Trąbczyn: das Dorf Trąbczyn selbst mit 21 Rauchfangständen, 22 und 84; die Pfarrei (Plebania) mit 4, 8 und 16; Nowawieś mit 5, 10 und 20; Osiny mit 6, 12 und 24; Łazy mit 5, 10 und 20; Kuznia Maryantów, die Schmiede, mit 1, 2 und 4; und Hollendry Luzne Stare i nowe z Hutą, die verstreuten Holländersiedlungen alte und neue mit der Huta, mit 31, 62 und 124. In jeder Zeile außer der ersten verdoppeln sich die Zahlen von Spalte zu Spalte; in der ersten steht in der mittleren Spalte 22, wo die Verdoppelung 42 gäbe - als geschrieben behalten. Die Tabelle trägt kein Datum; sie steht auf der Seite 543 eines Registerbandes, dessen Titel die Jahre 1791 bis 1792 nennt.",
+ "reading": {}
+}
