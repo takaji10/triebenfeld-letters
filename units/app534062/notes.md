@@ -36,9 +36,10 @@ stands, including the doubt marks ("praeterita[?]", "detulisse[?]",
 
 The editor added the holding for the name: "Sebastian Szetlewicz de Villa
 Szetlewko" shows a Szetlewicz family living at Szetlewko (Szetlewek) in the
-1720s. The name is formed from the place, as Szetlewek itself is formed from
-Szetlew. The citation was served at "Villa Szetlewo" - Szetlew, the
-neighbouring village.
+1720s. Szetlewicz is a surname, not a place name (the editor, 2026-10-26) -
+the session's first draft said the name was formed from the place, and the
+editor corrected it. The citation was served at "Villa Szetlewo" - Szetlew,
+the neighbouring village.
 
 ## The places, and the one mention that moved
 

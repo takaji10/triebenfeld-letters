@@ -315,8 +315,8 @@ people:
   szetlewicz:
     display: "Sebastian Szetlewicz, court messenger"
     render: "Szetlewicz"
-    # The family name, from the place: excluded from szetlewek's place pattern
-    # for the same reason (reference/places.yml, 2026-10-26).
+    # A surname, not a place name (the editor, 2026-10-26): excluded from
+    # szetlewek's place pattern for the same reason (reference/places.yml).
     match: 'Szetlewicz\w*'
     tier: "Text-confirmed"
     variants: []

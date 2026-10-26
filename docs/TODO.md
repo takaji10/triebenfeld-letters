@@ -1202,7 +1202,8 @@ the folder is the title page and is left out (your word).
       "Szetlewo z Częś: Jaroszew:" row moved from Szetlewek to Szetlew, and
       the Kodeks's own gloss in kdw documents 2 and 4 is newly matched -
       both following the identification the literature index had already
-      recorded. Put to you for confirmation.
+      recorded. Confirmed (your word, 2026-10-26: "Everything else is
+      fine").
 - [ ] You: check the preceding pages of the volume (the online unit,
       jednostka 980058, scans before 231) for the heading of the sitting -
       the entry has only "Feria Quinta proxima praeterita" and is dated
@@ -1216,5 +1217,11 @@ the folder is the title page and is left out (your word).
       session's candidate), "de Juris Firma" against Forma, the "eam" with
       its scribal mark (NEEDS_CONFIRMATION, "Readings, the other
       holdings", and units/app534062/intake/unresolved.md).
+- [x] Your correction (2026-10-26): "Szetlewicz is a surname, not a place
+      name" - the session's "formed from the place" claim dropped from
+      the holding's page and the person entry's comment; and the German
+      holding page, first written as a copy of the English, rewritten in
+      German. Lesson in WORKING_NOTES.
 - [ ] A timeline event: none added - the entry names no party; offered.
-- [ ] Publication: on your word (the branch is not yet merged).
+- [x] Published at your word (2026-10-26): the branch merged to main and
+      pushed; the local build and verify passed.

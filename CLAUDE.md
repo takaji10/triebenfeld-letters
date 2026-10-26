@@ -119,8 +119,8 @@ so check them.
 
 ## Where things stand (2026-10-26)
 
-- **APP 53/4/0/-/62** (slug `app534062`, added 2026-10-26 on the branch
-  `app534062`, not yet published): one entry, in Latin, at the foot of
+- **APP 53/4/0/-/62** (slug `app534062`, added and **published 2026-10-26**):
+  one entry, in Latin, at the foot of
   page 222 of the relation and citation book of the land court at Kalisz
   for 1726-1727 (scan 231 of 349 of the archive's online unit,
   jednostka 980058) - the report of the general royal messenger
@@ -140,12 +140,14 @@ so check them.
   changed (szetlewek passes "Szetlew...o" and "Szetlewicz" over; szetlew
   matched as "Szetlewo"), which moved the hearth-tax table's "Szetlewo z
   Częś: Jaroszew:" row from Szetlewek to Szetlew and newly matched the
-  Kodeks's own gloss in kdw documents 2 and 4 - put to the editor. Open:
-  the sitting's date and place; "Conte~", "de Juris Firma/Forma", the
-  "eam"/"eamdem" mark; "De quo praesens Relatio"; a timeline event
-  (offered, none added). Read `units/app534062/notes.md` first. The holding
-  counts 1 document and 1 page; the edition has 628 documents in
-  49 holdings.
+  Kodeks's own gloss in kdw documents 2 and 4 - confirmed by the editor,
+  2026-10-26. The editor's correction of the day: **Szetlewicz is a
+  surname, not a place name** - the session's "formed from the place"
+  claim dropped. Open: the sitting's date and place; "Conte~",
+  "de Juris Firma/Forma", the "eam"/"eamdem" mark; "De quo praesens
+  Relatio"; a timeline event (offered, none added). Read
+  `units/app534062/notes.md` first. The holding counts 1 document and
+  1 page; the edition has 628 documents in 49 holdings.
 
 - **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
   2026-10-25 on the branch `app539680782`, **published 2026-10-26**): the

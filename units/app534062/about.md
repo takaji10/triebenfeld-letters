@@ -6,7 +6,7 @@ The general royal messenger Sebastian Szetlewicz, of the village of Szetlewko, r
 
 ### Why it is here
 
-The holding was added for the messenger's name. A Szetlewicz family was living at Szetlewko - Szetlewek - in the 1720s; the name is formed from the place, as Szetlewek itself is formed from Szetlew. Just over fifty years later another messenger of the same village, Mathias Matuszkiewicz "de villa Szetlewek", reports in the Konin register in the boundary quarrel between Trąbczyn and Łukomia [[unit:app53170koningr117]]. <!-- context -->
+The holding was added for the messenger's name. A Szetlewicz family was living at Szetlewko - Szetlewek - in the 1720s; Szetlewicz is a surname, not a place name. Just over fifty years later another messenger of the same village, Mathias Matuszkiewicz "de villa Szetlewek", reports in the Konin register in the boundary quarrel between Trąbczyn and Łukomia [[unit:app53170koningr117]]. <!-- context -->
 
 ### Historical background
 

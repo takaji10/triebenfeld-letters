@@ -220,6 +220,15 @@ Where the rest is:
   alone. The forbidden-render checker is case-insensitive.
 - **A person entry whose display includes a rank** needs a short `render:`
   ("Holtzendorff"), or the English is given the whole title as the name.
+- **A derivation of a name is a claim like any other** (2026-10-26,
+  app534062). The session wrote of the surname Szetlewicz that "the name is
+  formed from the place, as Szetlewek itself is formed from Szetlew" - and
+  the editor's one correction before publication was that Szetlewicz is a
+  surname, not a place name. An etymological analogy is not settled by the
+  documents or by another name's behaviour; state what they show (a family
+  of that name living at the place) and leave the derivation out unless a
+  source or the editor settles it. The same rule that keeps a plausible
+  word out of a transcription keeps a plausible etymology out of the prose.
 
 ## Adding a holding
 

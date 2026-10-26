@@ -3052,6 +3052,14 @@ lose his estates. The era page writes Konotop, not Kontop.
   script had never run with `--unit`), and the cleared key built from the
   row's `letter` where the checker clears by `pad`, so an OK ruling never
   took. The key now comes from the row's pad column.
-- The edition guide's counts not yet updated (pending the editor's word on
-  publication); the era essay does not name the holding yet (offered).
+- The edition guide's counts updated (628 documents, 2,088 pages; the
+  Poznań clause extended and the Latin count corrected to a hundred and
+  eight, both languages).
+- **Szetlewicz is a surname, not a place name** (the editor, 2026-10-26):
+  the session's claim that the name was "formed from the place" is dropped
+  from the holding's page and the person entry's comment; the fact stands
+  (a family of the name at Szetlewek in the 1720s). The place-matching
+  change above was confirmed by the editor the same day. The German holding
+  page (`about_de.md`), first written as a copy of the English, was written
+  again in German before publication.
 

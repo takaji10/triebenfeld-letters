@@ -1,23 +1,23 @@
-One entry at the foot of page 222 of the relation and citation book of the land court at Kalisz for 1726 and 1727: the report of the court messenger Sebastian Szetlewicz of Szetlewko (Szetlewek) that he served a citation at Szetlew, in Latin, one document. <!-- context -->
+Ein Eintrag am Fuß von Seite 222 des Relations- und Zitationsbuchs des Landgerichts in Kalisz für 1726 und 1727, im Archiwum Państwowe w Poznaniu (Staatsarchiv Posen). Es ist der Bericht, auf Latein, eines Gerichtsboten, dass er eine Ladung im Dorf Szetlew zugestellt hat, und es ist ein Dokument. Es ist die früheste Holding dieser Edition aus dem Landgericht in Kalisz. <!-- context -->
 
-### The entry
+### Der Eintrag
 
-The general royal messenger Sebastian Szetlewicz, of the village of Szetlewko, reports to the court that he carried a citation to the estate of the village of Szetlew, to the residence of the party cited, and on the Thursday next past laid and left it there on the table in the heated room, before the cited party's "Conte~" [[1]]. The entry gives neither the case nor the parties.
+Der allgemeine königliche Bote Sebastian Szetlewicz aus dem Dorf Szetlewko trägt dem Gericht vor, dass er eine Ladung zum Gut des Dorfes Szetlew, an die Wohnung des Geladenen gebracht und am vorvergangenen Donnerstag dort auf dem Tisch im beheizten Raum niedergelegt und zurückgelassen hat, vor dem „Conte~" des Geladenen [[1]]. Der Eintrag nennt weder die Sache noch die Parteien: Der Empfänger der Ladung erscheint nur als „der Geladene". Die Eingangsformel des Berichts ergibt sich in der Abschrift nicht ganz - das Verb des Berichtens, das die Parallelformeln führen, steht so nicht auf der Seite -, und der Eintrag schließt mit der Wendung „von diesem, der vorliegende Bericht" [[1]].
 
-### Why it is here
+### Warum er hier ist
 
-The holding was added for the messenger's name. A Szetlewicz family was living at Szetlewko - Szetlewek - in the 1720s; just over fifty years later another messenger of the same village, Mathias Matuszkiewicz "de villa Szetlewek", reports in the Konin register in the boundary quarrel between Trąbczyn and Łukomia [[unit:app53170koningr117]]. <!-- context -->
+Die Holding wurde um des Namens des Boten willen aufgenommen. Eine Familie Szetlewicz wohnte in den 1720er Jahren in Szetlewko - Szetlewek; Szetlewicz ist ein Familienname, kein Ortsname. Etwas über fünfzig Jahre später berichtet ein anderer Bote desselben Dorfes, Mathias Matuszkiewicz „de villa Szetlewek", im Koniner Register im Grenzstreit zwischen Trąbczyn und Łukomia [[unit:app53170koningr117]]. <!-- context -->
 
-### Historical background
+### Historischer Hintergrund
 
-The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Kaliszu", the books of the land court at Kalisz. According to the archive's description, the land court at Kalisz was a court of the nobility. The starost or his deputy, as the king's lieutenant, had the leading part in it, with the judge, the sub-judge, the voivode, the chamberlain and the standard-bearer. The court travelled round the palatinate and held its sittings in the district; the terms at which it sat were called "roczki". It was competent in every suit in which a nobleman was the defendant, except those assigned to other courts and except uncontested business. In 1792 its competence passed to a new land court, the "sąd ziemiański". <!-- context -->
+Der Band gehört zum Archivbestand „Księgi sądu ziemskiego w Kaliszu", den Büchern des Landgerichts in Kalisz. Nach der Bestandsbeschreibung des Archivs war das Landgericht in Kalisz ein Gericht des Adels. Die führende Rolle hatte der Starost oder sein Stellvertreter als Statthalter des Königs, neben ihm der Richter, der Unterrichter, der Woiwode, der Kämmerer und der Fähnrich. Das Gericht bereiste die Woiwodschaft und hielt seine Sitzungen im Kreis; die Termine, an denen es tagte, hießen „roczki". Zuständig war es für alle Sachen, in denen ein Adliger beklagt war, ausgenommen die anderen Gerichten zugewiesenen und die nichtstreitigen Sachen. 1792 ging seine Zuständigkeit auf ein neues Landgericht über, den „sąd ziemiański". <!-- context -->
 
-The messenger (woźny) carried the court's citations; when the person cited was not met, the citation was left at his dwelling and the messenger's sworn report, his relatio, was entered in the court's book. <!-- context -->
+Der Bote (woźny) trug die Ladungen des Gerichts; wurde der Geladene nicht angetroffen, blieb die Ladung an seiner Wohnung liegen - hier auf dem Tisch im beheizten Raum, vor einem Angehörigen des Haushalts - und der vereidigte Bericht des Boten über die Zustellung, seine Relatio, wurde in das Buch des Gerichts eingetragen. Dieselbe Form, in demselben Latein, füllt die Koniner und Kaliszer Register der 1770er Jahre, die diese Edition aus den Jahren des Grenzstreits führt. <!-- context -->
 
-### Form and language
+### Form und Sprache
 
-Six lines at the foot of the page, in heavily abbreviated Latin; the abbreviation marks (~) stand as written, the places not fully read are marked. The entry has no date of its own - only "on the Thursday next past" - and the year 1727 is assigned from the volume's title. <!-- context -->
+Der Eintrag steht in sechs Zeilen am Fuß der Seite, in stark gekürztem Latein; die Kürzungszeichen (~) stehen, wie geschrieben, und die nicht sicher gelesenen Stellen sind im Text markiert. Der Eintrag hat kein eigenes Datum - nur „am vorvergangenen Donnerstag", auf die Sitzung bezogen. Das Jahr 1727 ist aus dem Titel des Bandes zugeordnet; das Datum der Sitzung soll von den vorherigen Seiten des Buches gelesen werden. <!-- context -->
 
-### Related holdings
+### Verwandte Bestände
 
-The messenger reports of the same village in the years of the boundary dispute: [[unit:app53170koningr117]]. The decree of 1775: [[unit:app53170koningr145]]. <!-- context -->
+Der Bote desselben Dorfes in den Jahren des Grenzstreits: [[unit:app53170koningr117]]. Das Gut, an dem die Ladung zugestellt wurde: Szetlew, neben Szetlewek, beide unter den Nachbarn Trąbczyns, die das Grenzdekret von 1775 nennt, [[unit:app53170koningr145]]. <!-- context -->
