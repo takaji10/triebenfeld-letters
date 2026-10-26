@@ -2892,7 +2892,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
-## 2026-10-26 - APP 53/21/0/-/Pyzdry Gr.115 added (branch app5321pyzdrygr115)
+## 2026-10-26 - APP 53/21/0/-/Pyzdry Gr.115 added, translated and published (branch app5321pyzdrygr115)
 
 - The holding built: the head of the table of the parish of Trąbczyn on
   page 543 of the Relationes [protocollon] of 1791-1792, the register of the
@@ -2943,7 +2943,9 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The glossary gate passes (0 candidates); the site verifies clean (628
   documents, text exact, tables checked cell by cell). The edition guide's
   counts corrected (forty-nine holdings) and the Poznań bullet extended,
-  English and German; the era's blurb names the table. Not published.
+  English and German; the era's blurb names the table. Published at the
+  editor's word, 2026-10-26: merged to main with the Szetlewicz holding
+  built in parallel (the edition 629 documents in 50 holdings) and pushed.
 - Still open (NEEDS_CONFIRMATION): whether the Huta of the Hollendry row is
   a distinct place.
 
@@ -3065,3 +3067,56 @@ lose his estates. The era page writes Konotop, not Kontop.
   texts, Słowiński, the Zagórów place page, the newspaper items, Łukasiewicz,
   Mielewczyk) had already been live since 22 or 23 October, because every push
   of main deploys the site, though the docs still called them not published.
+
+## 2026-10-26 - APP 53/4/0/-/62 added (branch app534062)
+
+- **The holding**: one entry, in Latin, at the foot of page 222 of the
+  relation and citation book of the land court at Kalisz for 1726-1727
+  (scan 231 of 349 of the archive's online unit, jednostka 980058): the
+  report of the general royal messenger Sebastian Szetlewicz of Szetlewko
+  (Szetlewek) that he carried a citation to the estate of Szetlew and left
+  it on the table in the heated room, on the Thursday next past. The editor
+  added it for the name: a Szetlewicz family lived at Szetlewek in the
+  1720s. The editor's transcription kept as written; two rulings of the day
+  applied ("Judicius" → "Judicio"; "Citti~" read as Citati, the tilde kept).
+  Dated 1727, year only, supplied from the volume's title pending the
+  editor's reading of the sitting's heading on the preceding pages; place of
+  writing left empty for the same reason. doc_type `report` (the Konin
+  vocabulary), language `la`, estates szetlew and szetlewek, era
+  prusimski-boundary. Translated, summarised and claim-checked in session,
+  no paid run; the checks clean after three rows resolved.
+- **Szetlew and Szetlewek told apart for the first time**
+  (`reference/places.yml`): szetlewek's pattern passes "Szetlew...o" and
+  "Szetlewicz" over, and szetlew is matched in the exact form "Szetlewo"
+  (the Kodeks editors' identification). Counted against the committed
+  index: szetlewek keeps its 91 rows but one - the hearth-tax table's row
+  "Szetlewo z Częś: Jaroszew:" (APP 53/64/0/-/Kalisz Tab.21) moves to
+  szetlew, where it belongs - and szetlew gains 4 rows (ours; the table's;
+  and the Kodeks's own gloss "Szetlewo" in the kdw entries of 1173 and 1261,
+  newly matched). The matching ruling added to `literature/index.yml`
+  beside the standing refusal of Breyer 1938's "Szetlewo" for szetlewek.
+  Put to the editor.
+- **A person**: Sebastian Szetlewicz, court messenger (`reference/people.yml`,
+  `reference/people_bios.yml`; no life dates - documented 1727).
+- **The era blurb's count corrected** (`reference/eras.yml`,
+  prusimski-boundary): it said twenty-four holdings, but the era held
+  twenty-two before this one - two fewer than the blurb claimed, with
+  nothing in the docs recording why. It now says twenty-three, with the
+  entry of 1727 named in both languages, and the count is the computed
+  truth (units with the era, 2026-10-26).
+- **Two shared repairs** in `pipeline/translate/translation_review.py`
+  (WORKING_NOTES, "Traps in the tools"): the missing `unitlib` import (the
+  script had never run with `--unit`), and the cleared key built from the
+  row's `letter` where the checker clears by `pad`, so an OK ruling never
+  took. The key now comes from the row's pad column.
+- The edition guide's counts updated (628 documents, 2,088 pages; the
+  Poznań clause extended and the Latin count corrected to a hundred and
+  eight, both languages).
+- **Szetlewicz is a surname, not a place name** (the editor, 2026-10-26):
+  the session's claim that the name was "formed from the place" is dropped
+  from the holding's page and the person entry's comment; the fact stands
+  (a family of the name at Szetlewek in the 1720s). The place-matching
+  change above was confirmed by the editor the same day. The German holding
+  page (`about_de.md`), first written as a copy of the English, was written
+  again in German before publication.
+

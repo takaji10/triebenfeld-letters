@@ -32,6 +32,8 @@ from collections import defaultdict
 import yaml
 import sys
 
+import unitlib
+
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SHEET = os.path.join(ROOT, 'review', 'translation_review.csv')
@@ -40,8 +42,15 @@ DEST = os.path.join(ROOT, 'site', '_data', 'translations')
 
 
 def key(row):
-    """Stable identity of a raised row, so a cleared one stays cleared."""
-    return f"{row['letter']}|{row['page']}|{row['kind']}|{row['german']}"
+    """Stable identity of a raised row, so a cleared one stays cleared.
+
+    check_translations.py clears on pad|page|kind|german (its rows are keyed
+    by pad, WORKING_NOTES "State files"), so the key here must be too. The
+    sheet carries the pad in its own column; older sheets keyed by letter_id
+    are matched by their pad column all the same.
+    """
+    pad = (row.get('pad') or row['letter']).strip()
+    return f"{pad}|{row['page']}|{row['kind']}|{row['german']}"
 
 
 def load_rulings():

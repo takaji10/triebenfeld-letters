@@ -120,7 +120,7 @@ so check them.
 ## Where things stand (2026-10-26)
 
 - **APP 53/21/0/-/Pyzdry Gr.115** (slug `app5321pyzdrygr115`, added
-  2026-10-26 on the branch `app5321pyzdrygr115`, **not published**): the head
+  2026-10-26 on the branch `app5321pyzdrygr115`, **published 2026-10-26**): the head
   of the
   table of the parish of Trąbczyn on page 543 of the Relationes
   [protocollon] of 1791-1792, the register of the grod court and office of
@@ -131,7 +131,7 @@ so check them.
   ("use my transcription, which is correct"): seven rows of the parish with
   their hearths (dymy rolne) and two figure columns the headings call "gara
   zyta" and "gara owcza", all standing as transcribed; no dated heading
-  carried, the document undated. Status `transcribed`; translated in session
+  carried, the document undated. Status `translated`; translated in session
   by hand (the English table, the summaries); era `prusimski-boundary`.
   Rulings given in chat while the editor was away from the PC: the heading's
   "Parofie" is "Parafie"; "Kuznia Maryantów" is the Marianton of the edition
@@ -145,7 +145,37 @@ so check them.
   second session was building in the main checkout (WORKING_NOTES, "Two
   sessions, one working copy"). Open: the Huta (NEEDS_CONFIRMATION). Read
   `units/app5321pyzdrygr115/notes.md` first. The holding counts 1 document
-  and 1 page; the edition has 628 documents in 49 holdings.
+  and 1 page; the edition has 629 documents in 50 holdings.
+=======
+- **APP 53/4/0/-/62** (slug `app534062`, added and **published 2026-10-26**):
+  one entry, in Latin, at the foot of
+  page 222 of the relation and citation book of the land court at Kalisz
+  for 1726-1727 (scan 231 of 349 of the archive's online unit,
+  jednostka 980058) - the report of the general royal messenger
+  Sebastian Szetlewicz of Szetlewko (Szetlewek) that he carried a citation
+  to the estate of Szetlew and left it on the table in the heated room, on
+  the Thursday next past. The editor added it for the name: a Szetlewicz
+  family lived at Szetlewek in the 1720s, and the editor's word was "just
+  look at the bottom of 222 - the point of this entry is to show the name".
+  The transcription is the editor's own, kept as written, with two rulings
+  of the day ("Judicius" → "Judicio"; "Citti~" read as Citati, tilde kept).
+  Dated 1727, year only, supplied from the volume's title, pending the
+  editor's check of the preceding pages for the sitting's heading and place
+  (the court-book `dates: sitting:` path, as app536017). doc_type `report`
+  (the Konin vocabulary), era `prusimski-boundary`. Translated, summarised
+  and claim-checked in session, no paid run; the checks clean. The entry is
+  the first text that tells Szetlew and Szetlewek apart: the place matching
+  changed (szetlewek passes "Szetlew...o" and "Szetlewicz" over; szetlew
+  matched as "Szetlewo"), which moved the hearth-tax table's "Szetlewo z
+  Częś: Jaroszew:" row from Szetlewek to Szetlew and newly matched the
+  Kodeks's own gloss in kdw documents 2 and 4 - confirmed by the editor,
+  2026-10-26. The editor's correction of the day: **Szetlewicz is a
+  surname, not a place name** - the session's "formed from the place"
+  claim dropped. Open: the sitting's date and place; "Conte~",
+  "de Juris Firma/Forma", the "eam"/"eamdem" mark; "De quo praesens
+  Relatio"; a timeline event (offered, none added). Read
+  `units/app534062/notes.md` first. The holding counts 1 document and
+  1 page; the edition has 629 documents in 50 holdings.
 
 - **APP 53/968/0/-/782** (slug `app539680782`, added and **translated**
   2026-10-25 on the branch `app539680782`, **published 2026-10-26**): the

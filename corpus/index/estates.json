@@ -986,8 +986,9 @@
  {
   "entity": "szetlewek",
   "display": "Szetlewek",
-  "count": 30,
+  "count": 31,
   "documents": [
+   "app534062-1",
    "ihagrrep7cnr3570-1",
    "iiihamdaiiinr12765-19",
    "iiihamdaiiinr12765-20",
@@ -1679,6 +1680,17 @@
   ]
  },
  {
+  "entity": "szetlew",
+  "display": "Szetlew",
+  "count": 4,
+  "documents": [
+   "app534062-1",
+   "kdw-2",
+   "kdw-4",
+   "kdw-6"
+  ]
+ },
+ {
   "entity": "lukom",
   "display": "Łukom",
   "count": 4,
@@ -1720,16 +1732,6 @@
    "oe1bu14525-16",
    "oe1bu14525-25",
    "oe1bu14526-3"
-  ]
- },
- {
-  "entity": "szetlew",
-  "display": "szetlew",
-  "count": 3,
-  "documents": [
-   "kdw-2",
-   "kdw-4",
-   "kdw-6"
   ]
  },
  {

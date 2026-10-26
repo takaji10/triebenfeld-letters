@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 627 documents on 2,087 pages, dated from 1173 to 1936. The oldest are
+The edition holds 628 documents on 2,088 pages, dated from 1173 to 1936. The oldest are
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-nine holdings in six archives and a library:
+The documents come from fifty holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -46,8 +46,10 @@ The documents come from forty-nine holdings in six archives and a library:
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
   administration of its Polish provinces, of the foreign ministry and of the state treasury;
 - the **State Archive in Poznań**: entries from the court books of Konin and Kalisz on the
-  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (21
-  holdings, 92 documents); thirteen pages of the hearth-tax register of the Kalisz
+  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (23
+  holdings, 94 documents), among them the report of 1727 in which the
+  court messenger Sebastian Szetlewicz of Szetlewek records serving a citation at
+  Szetlew; thirteen pages of the hearth-tax register of the Kalisz
   voivodeship for 1789; the head of the table of the parish of Trąbczyn on page 543
   of the register of the grod court and office of Pyzdry, of 1791 to 1792; a court
   record of 1806; copies made about 1930 of papers on the
@@ -88,7 +90,7 @@ Each holding has a page of its own that describes what it contains and how its t
 prepared.
 
 Most of the documents are in German. Twenty-two are in French, nineteen in Polish and
-a hundred and seven in Latin, the court entries often with passages in the other of the two, and some
+a hundred and eight in Latin, the court entries often with passages in the other of the two, and some
 of the German deeds have passages in Polish and Latin. Each is translated from its own
 language.
 

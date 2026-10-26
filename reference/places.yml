@@ -260,7 +260,11 @@ places:
     # the Polish judgment of 1827, each beside Trąbczyn (III. HA MdA, III. Nr.
     # 12366, documents 2 and 6). Matched, not made variants: the English keeps
     # the page's spelling, as it does for Kamienno (2026-10-04).
-    match: 'Sz[ei]tt?lew\w*|Szedlew\w*|Szetlow\w*|Szeltow\w*'
+    # The lookaheads (2026-10-26): "Szetlewko" keeps matching (the home village
+    # of the messenger Szetlewicz, APP 53/4/0/-/62); "Szetlewicz" (the family
+    # name) and "Szetlewo" (Szetlew, ruled by the Kodeks editors and in the
+    # hearth-tax table of 1789) must not.
+    match: 'Sz[ei]tt?lew(?!o\b)(?!icz)\w*|Szedlew\w*|Szetlow\w*|Szeltow\w*'
     # In the Kodeks Dyplomatyczny Wielkopolski Szetlewo is Szetlew (the estate szetlew).
     not_in: [kdw-2, kdw-4, kdw-6]
     tier: "Context-inferred"
@@ -284,19 +288,29 @@ places:
          Szetlewek. Not settled, so not matched."
 
   szetlew:
-    # The village south-east of Zagórów, beside Szetlewek. Not matched in the
-    # text: szetlewek's pattern already takes "Szetlew..." spellings, and the
-    # two are not told apart there. An estate of focus of the Kodeks
-    # Dyplomatyczny Wielkopolski entries (the editor's list, 2026-10-16).
+    # The village south-east of Zagórów, beside Szetlewek. Matched only in the
+    # exact form "Szetlewo" (below): until 2026-26 the texts did not tell the
+    # two apart, and szetlewek's pattern took the "Szetlew..." spellings. An
+    # estate of focus of the Kodeks Dyplomatyczny Wielkopolski entries (the
+    # editor's list, 2026-10-16).
     display: "Szetlew"
     kind: village
+    # Matched from 2026-10-26: the first text that tells the two apart is the
+    # relatio of APP 53/4/0/-/62 ("Ad Bona Villa Szetlewo", the citation
+    # served at Szetlew). The form is the Kodeks's own: its editors gloss
+    # "Szetlevo" (1173) as "Szetlewo" and the place as Szetlew, and the
+    # hearth-tax table of 1789 (APP 53/64/0/-/Kalisz Tab.21) has the row
+    # "Szetlewo z Częś: Jaroszew:" - Szetlew with the Jaroszewski share, the
+    # co-heirs the boundary decree of 1775 names. szetlewek's pattern now
+    # passes "Szetlew...o" over.
+    match: 'Szetlewo(?![a-zà-ÿ])'
+    tier: "Book-adjacent (the Kodeks editors' identification)"
     # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
     # 2026-10-16), shown on the Places page.
     medieval:
       - "1240: Szetlevo"
       - "1261: Szethowo"
       - "1280: Szechouo"
-    tier: "Text-confirmed"
     variants: []
     distinct_from: [szetlewek]
 

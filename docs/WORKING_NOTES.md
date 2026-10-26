@@ -220,6 +220,15 @@ Where the rest is:
   alone. The forbidden-render checker is case-insensitive.
 - **A person entry whose display includes a rank** needs a short `render:`
   ("Holtzendorff"), or the English is given the whole title as the name.
+- **A derivation of a name is a claim like any other** (2026-10-26,
+  app534062). The session wrote of the surname Szetlewicz that "the name is
+  formed from the place, as Szetlewek itself is formed from Szetlew" - and
+  the editor's one correction before publication was that Szetlewicz is a
+  surname, not a place name. An etymological analogy is not settled by the
+  documents or by another name's behaviour; state what they show (a family
+  of that name living at the place) and leave the derivation out unless a
+  source or the editor settles it. The same rule that keeps a plausible
+  word out of a transcription keeps a plausible etymology out of the prose.
 
 ## Adding a holding
 
@@ -2133,6 +2142,19 @@ cloud branches").
   which nearly sent a session to "fix" correct files. When a built page
   looks wrong in the console, read it with Python
   (`python -X utf8 -c "..."`) before changing anything.
+- **The translation-review reader had never run with `--unit`** (2026-10-26,
+  app534062). Two defects, both fixed in `pipeline/translate/translation_review.py`:
+  the module referenced `unitlib` without importing it (NameError on the
+  first `--unit` run), and `key()` built the cleared key from the row's
+  `letter` while `check_translations.py` filters on `pad` - so an "OK"
+  ruling was recorded under a key the checker never matches and the row came
+  back at every re-run. The key is now built from the row's `pad` column,
+  with the letter as fallback. Lesson on top of the fix: `check_translations.py`
+  REWRITES the review sheet at every run, so a ruling typed into the csv is
+  wiped by the next check - rule the sheet and run `translation_review.py
+  --apply` in one command, before the next check run. (The pre-existing
+  entries in `reference/translation_rulings.json` are pad-keyed, as the
+  file's own comment says; they predate the bug or were entered by hand.)
 
 ## Desktop and cloud
 

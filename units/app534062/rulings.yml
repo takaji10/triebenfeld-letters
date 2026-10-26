@@ -1,0 +1,60 @@
+# Editorial rulings for 53/4/0/-/62 (APP).
+#
+# One document: the entry at the foot of page 222 of the relation and
+# citation book of the Kalisz land court for 1726-1727 (the archive's online
+# unit, scan 231 of 349) - a court messenger's report (relatio) that a
+# citation was served at Szetlew. The entry gives neither the case nor the
+# parties. Established 2026-10-26.
+
+places:
+  # Place of writing: the entry carries no heading of a sitting, and the
+  # Kalisz land court travelled the palatinate and held its sessions in the
+  # district (roczki), so the place cannot be read from the excerpt. Left
+  # empty pending the editor's reading of the preceding pages
+  # (NEEDS_CONFIRMATION, "53/4/0/-/62").
+  overrides:
+    "1": ""
+
+dates:
+  read: {}
+  # The entry has no date of its own: only "Feria Quinta proxima praeterita"
+  # (the Thursday next past), relative to the sitting. 1727 is the editor's
+  # provisional assignment (2026-10-26; the volume is titled 1726-1727); the
+  # sitting's date is to be read from the preceding pages, and the ruling
+  # then moves to sitting: below (NEEDS_CONFIRMATION, "53/4/0/-/62").
+  supplied:
+    "1": [1727, null, null, "year"]
+  twin: {}
+  inferred: {}
+
+  # The date of the sitting the entry stands under:
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # Not yet known: the heading of the sitting is not among the scans.
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    # A court messenger's relatio, the vocabulary of the Konin and Kalisz
+    # Gr. holdings (APP 53/17/0/-/Konin Gr.117: "report: a court messenger's
+    # relatio of a citation served, or of something inspected").
+    "1": report
+
+  language:
+    "1": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml:
+  # the citation was served at the estate of Szetlew (the manuscript's
+  # "Villa Szetlewo", the Kodeks's Szetlevo of 1173), and the messenger came
+  # from Szetlewek (the manuscript's "Villa Szetlewko", the editor's
+  # identification, 2026-10-26 - the holding was added for the name, which
+  # shows a Szetlewicz family living at Szetlewek in the 1720s).
+  estates:
+    "1": [szetlew, szetlewek]
+
+damage:
+  letters: []
