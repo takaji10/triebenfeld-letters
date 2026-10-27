@@ -711,3 +711,14 @@ body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display
 .cem-sources ul { list-style: none; padding: 0; margin: .4rem 0 0;
   font-size: .9rem; color: var(--ink-soft); }
 .cem-sources li { margin-bottom: .35rem; }
+
+/* ---- the place pages (docs/PLACES_PLAN.md, section 8) ---- */
+.place-map iframe { width: 100%; height: 340px; border: 1px solid var(--line);
+  border-radius: 4px; background: var(--paper-2); }
+.place-map .refs { margin: .4rem 0 0; }
+.place-index .kind { color: var(--ink-faint); font-family: var(--sans);
+  font-size: .82rem; }
+.place-desc sup a, .gfn a { text-decoration: none; font-size: .75rem; }
+.place-desc .footnotes { margin-top: 1.2rem; border-top: 1px solid var(--line);
+  padding-top: .6rem; font-size: .85rem; color: var(--ink-faint); }
+.place-docs { margin-top: 2rem; }

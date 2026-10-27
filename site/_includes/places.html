@@ -1,74 +1,26 @@
 {% include urls.html %}
 {%- comment -%}
-  The estates in focus only (editor, 2026-10-04): which estate each document
-  concerns. Places of writing and places named in the text are no longer
-  listed here; a document page still shows both.
+  The Places page as a plain index (the editor, 2026-10-27;
+  docs/PLACES_PLAN.md, section 8): no "Estates in Focus" framing, no cards,
+  no sort buttons. Two alphabetical lists - tier 1 the places of the
+  Trąbczyn/Zagórów area together with every name of the editor's original
+  list, tier 2 everything else - each item the place's name and its kind,
+  linking the place's own page. The estates' information stays where it
+  belongs, on the Hohenlohe-era letters' pages.
 {%- endcomment -%}
 <div class="prose">
-  <h1>{{ t.estates_h2 }}</h1>
-  <p class="standfirst">{{ t.estates_lede }}</p>
+  <h1>{{ t.places_index_h1 }}</h1>
+  <p class="standfirst">{{ t.places_index_lede }}</p>
 </div>
 
-<nav class="sortbar" aria-label="Sort estates">
-  <span class="sortbar-label">{{ t.sort }}</span>
-  <button type="button" data-key="count" data-dir="desc" aria-pressed="true">{{ t.sort_most_docs }}</button>
-  <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_docs }}</button>
-  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="false">A-Z</button>
-  <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z-A</button>
-</nav>
-
-{% assign estates = site.data.estates | default: empty | sort: "count" | reverse %}
-<div style="max-width:62rem" data-sortable>
-{% for es in estates %}
-  <div class="person" id="estate-{{ es.slug }}"
-       data-name="{{ es.name | escape }}" data-count="{{ es.count }}">
-    <h2>{{ es.name }}</h2>
-    {%- comment -%} The medieval spellings, beside the German form in the heading (editor, 2026-10-16). {%- endcomment -%}
-    {%- if es.medieval %}
-    <p class="refs forms">{{ t.forms_medieval }} {{ es.medieval | join: '; ' }}</p>
-    {%- endif %}
-    {%- comment -%} Later official names, each with its source (editor, 2026-10-21: Drommin). {%- endcomment -%}
-    {%- for rn in es.renamed %}
-    <p class="refs forms">{{ t.forms_renamed }} <strong>{{ rn.name }}</strong> ({{ rn.years }}), {% if lang == 'de' %}{{ rn.de }}{% else %}{{ rn.en }}{% endif %}. {{ t.forms_source }}: <a href="{{ rn.url }}" rel="noopener">{{ rn.source }}</a>.</p>
-    {%- endfor %}
-    <p class="refs counts">{% if es.docs == 1 %}{{ t.counts_estate_one }}{% else %}{{ t.counts_estate | replace: '%d', es.docs }}{% endif %}{% if es.span %} · {{ es.span }}{% endif %}</p>
-    {%- if es.lat %}
-    <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ es.lat }}&amp;mlon={{ es.lon }}#map=12/{{ es.lat }}/{{ es.lon }}" rel="noopener">{{ t.map_link }}</a></p>
-    {%- endif %}
-    {%- comment -%} A place that has its own page (docs/PLACES_PLAN.md; the editor, 2026-10-22: Zagórów). {%- endcomment -%}
-    {%- if site.data.places_pages[es.slug] %}
-    <p class="refs"><a href="{{ u_places | append: es.slug | append: '/' | relative_url }}">{{ t.place_more }}</a></p>
-    {%- endif %}
-    {% include doc-list.html letters=es.letters docs=es.docs %}
-    {%- assign lit_works = site.data.literature_mentions.place[es.slug] %}
-    {% include lit-mentions.html works=lit_works %}
-    {%- assign np_works = site.data.newspapers_mentions.place[es.slug] %}
-    {% include np-mentions.html works=np_works %}
-  </div>
-{% endfor %}
-</div>
-
-{%- comment -%}
-  The index of places in two tiers (the editor, 2026-10-26;
-  docs/PLACES_PLAN.md, section 7): tier 1 the places of the
-  Trąbczyn/Zagórów area and the seats that serve it, tier 2 every other
-  place of the register. The estates in focus are the cards above; an
-  estate's list item links its card, a place with its own page links the
-  page, and the rest stand named, each with its anchor for a link from
-  elsewhere in the edition.
-{%- endcomment -%}
 <div class="prose">
   <h2>{{ t.places_t1_h2 }}</h2>
   <p class="standfirst">{{ t.places_t1_lede }}</p>
 </div>
-{%- if lang == 'de' %}
-{%- assign tier1 = site.data.places_index.tier1 | sort: 'name_de' %}
-{%- else %}
 {%- assign tier1 = site.data.places_index.tier1 | sort: 'name' %}
-{%- endif %}
 <ul class="index-list place-index">
 {%- for p in tier1 %}
-  <li id="place-{{ p.slug }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% if site.data.places_pages[p.slug] %} — <a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{{ t.place_more }}</a>{% elsif p.estate %} — <a href="#estate-{{ p.estate }}">{{ t.estates_card_link }}</a>{% endif %}</li>
+  <li id="place-{{ p.slug }}">{% if site.data.places_pages[p.slug] %}<a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}</a>{% if p.german and p.german.size > 0 %} ({{ p.german }}){% endif %}{% else %}{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% endif %} <span class="kind">— {% if lang == 'de' %}{{ p.kind_de }}{% else %}{{ p.kind_en }}{% endif %}</span></li>
 {%- endfor %}
 </ul>
 
@@ -76,16 +28,9 @@
   <h2>{{ t.places_t2_h2 }}</h2>
   <p class="standfirst">{{ t.places_t2_lede }}</p>
 </div>
-{%- if lang == 'de' %}
-{%- assign tier2 = site.data.places_index.tier2 | sort: 'name_de' %}
-{%- else %}
 {%- assign tier2 = site.data.places_index.tier2 | sort: 'name' %}
-{%- endif %}
 <ul class="index-list place-index">
 {%- for p in tier2 %}
-  <li id="place-{{ p.slug }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% if site.data.places_pages[p.slug] %} — <a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{{ t.place_more }}</a>{% endif %}</li>
+  <li id="place-{{ p.slug }}">{% if site.data.places_pages[p.slug] %}<a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}</a>{% if p.german and p.german.size > 0 %} ({{ p.german }}){% endif %}{% else %}{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% endif %} <span class="kind">— {% if lang == 'de' %}{{ p.kind_de }}{% else %}{{ p.kind_en }}{% endif %}</span></li>
 {%- endfor %}
 </ul>
-
-<script src="{{ '/assets/sort-list.js' | relative_url }}"></script>
-{% include doc-list-script.html %}

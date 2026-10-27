@@ -187,7 +187,7 @@ layout: default
       <dd class="taglist">
         {% for s in page.estates %}
           {% assign es = site.data.estates | where: "slug", s | first %}
-          {% if es %}<a href="{{ '/places/' | relative_url }}#estate-{{ es.slug }}">{{ es.name }}</a>{% endif %}
+          {% if es %}{% if site.data.places_pages[es.slug] %}<a href="{{ '/places/' | append: es.slug | append: '/' | relative_url }}">{{ es.name }}</a>{% else %}<a href="{{ '/places/' | relative_url }}#place-{{ es.slug }}">{{ es.name }}</a>{% endif %}{% endif %}
         {% endfor %}
       </dd>
       {% endif %}
@@ -197,8 +197,8 @@ layout: default
       <dd class="taglist">
         {% for s in page.places_named %}
           {% assign pl = site.data.places_named | where: "slug", s | first %}
-          {%- comment -%} linked only where the Places page lists it: as an estate {%- endcomment -%}
-          {% if pl %}{% assign pe = site.data.estates | where: "slug", s | first %}{% if pe %}<a href="{{ '/places/' | relative_url }}#estate-{{ pe.slug }}">{{ pl.name }}</a>{% else %}<span>{{ pl.name }}</span>{% endif %}{% endif %}
+          {%- comment -%} Every place has its page (docs/PLACES_PLAN.md, section 8). {%- endcomment -%}
+          {% if pl %}{% if site.data.places_pages[s] %}<a href="{{ '/places/' | append: s | append: '/' | relative_url }}">{{ pl.name }}</a>{% else %}<a href="{{ '/places/' | relative_url }}#place-{{ s }}">{{ pl.name }}</a>{% endif %}{% endif %}
         {% endfor %}
       </dd>
       {% endif %}

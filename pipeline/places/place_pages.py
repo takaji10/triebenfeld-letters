@@ -117,6 +117,19 @@ def main():
         gazetteer.add(_g.get('slug') or _fn[:-4])
 
     places = []
+    named = {}
+    np = os.path.join(SITE, '_data', 'places_named.yml')
+    if os.path.isfile(np):
+        with open(np, encoding='utf-8') as f:
+            for row in (yaml.safe_load(f) or []):
+                named[row['slug']] = row
+    # the stubs' coordinates (reference/place_coords.yml): the places without
+    # a gazetteer entry, geocoded where the identification is sure
+    stub_coords = {}
+    pc = os.path.join(ROOT, 'reference', 'place_coords.yml')
+    if os.path.isfile(pc):
+        with open(pc, encoding='utf-8') as f:
+            stub_coords = yaml.safe_load(f) or {}
     for slug in sorted(os.listdir(PLACES)):
         d = os.path.join(PLACES, slug)
         if not os.path.isdir(d):
@@ -226,21 +239,214 @@ def main():
                         body += [f'<div class="{cls}" lang="{lg}" markdown="1">', '',
                                  render(texts[lg]), '', '</div>']
                 body += ['{% endraw %}', '', '</section>', '']
+            # the documents that name the place (section 8: every page
+            # carries them, the authored pages included)
+            hit = named.get(slug) or {}
+            if hit.get('letters'):
+                body += ['<section class="place-docs">',
+                         '{% raw %}{{ t.places_named_h2 }}{% endraw %}',
+                         '',
+                         '{% include doc-list.html letters=page.hits_docs '
+                         'docs=page.hits_docs_count %}',
+                         '</section>', '']
+                fm = ['---',
+                      'layout: place',
+                      f'place: {yaml_str(slug)}',
+                      f'title: {yaml_str(pl["heading_de"] if lang == "de" else pl["heading"])}',
+                      f'lang: {lang}',
+                      f'permalink: {yaml_str(base + slug + "/")}',
+                      f'alt_url: {yaml_str(other + slug + "/")}',
+                      'excerpt_separator: ""',
+                      f'hits_docs: {yaml_str(hit["letters"])}',
+                      f'hits_docs_count: {hit.get("docs") or 0}',
+                      '---']
+            else:
+                fm = ['---',
+                      'layout: place',
+                      f'place: {yaml_str(slug)}',
+                      f'title: {yaml_str(pl["heading_de"] if lang == "de" else pl["heading"])}',
+                      f'lang: {lang}',
+                      f'permalink: {yaml_str(base + slug + "/")}',
+                      f'alt_url: {yaml_str(other + slug + "/")}',
+                      'excerpt_separator: ""',
+                      '---']
+            with open(os.path.join(SITE, folder, slug + '.md'), 'w',
+                      encoding='utf-8', newline='\n') as f:
+                f.write('\n'.join(fm) + '\n' + '\n'.join(body) + '\n')
+
+    # ---- the pages of every place (docs/PLACES_PLAN.md, section 8) ----
+    # Every place of the index gets its page. An authored place keeps its
+    # sources machinery; every other place's page is generated from the
+    # gazetteer entry (where one stands), the register and the document
+    # mentions - no authored file required.
+    idx = yaml.safe_load(io.open(os.path.join(SITE, '_data', 'places_index.yml'),
+                                 encoding='utf-8'))
+    index_rows = (idx.get('tier1') or []) + (idx.get('tier2') or [])
+    authored = {pl['slug'] for pl in places}
+
+    def gz_of(slug):
+        p = os.path.join(ROOT, 'reference', 'gazetteer', slug + '.yml')
+        if os.path.isfile(p):
+            with open(p, encoding='utf-8') as f:
+                return yaml.safe_load(f) or {}
+        return {}
+
+    STAND_EN = ('The place\'s own page of the edition: its description in the'
+                ' gazetteer, with the sources cited for it, and below, the'
+                ' documents of the edition that name it.')
+    STAND_DE = ('Die eigene Seite des Ortes in der Ausgabe: seine Beschreibung'
+                ' im Gazetteer, mit den für ihn zitierten Quellen, und unten'
+                ' die Dokumente der Ausgabe, die ihn nennen.')
+    INTRO_EN = ('The description gathers the place\'s own text in the edition\'s'
+                ' gazetteer - the editor\'s account where one stands and the'
+                ' sentences made from the corrected citations of the Słownik'
+                ' geograficzny, Nazwy miejscowe Polski and the Kodeks'
+                ' dyplomatyczny Wielkopolski - with the dated forms of its'
+                ' name, the map where the place is identified, and the'
+                ' documents that name it.')
+    INTRO_DE = ('Die Beschreibung versammelt den eigenen Text des Ortes im'
+                ' Gazetteer der Ausgabe - die Schilderung des Editors, wo eine'
+                ' steht, und die Sätze aus den korrigierten Zitaten des'
+                ' Słownik geograficzny, der Nazwy miejscowe Polski und des'
+                ' Kodeks dyplomatyczny Wielkopolski - mit den datierten'
+                ' Namensformen, der Karte, wo der Ort bestimmt ist, und den'
+                ' Dokumenten, die ihn nennen.')
+
+    auto = []
+    for row in index_rows:
+        slug = row['slug']
+        if slug in authored:
+            continue
+        g = gz_of(slug)
+        head = row.get('name') or slug
+        ger = g.get('german') or row.get('german') or ''
+        heading = f'{head} ({ger})' if ger and ger.lower() != head.lower() else head
+        kind_en, kind_de = row.get('kind_en') or 'Place', row.get('kind_de') or 'Ort'
+        loc = g.get('location') or {}
+        hit = named.get(slug) or {}
+        n_docs = hit.get('docs') or 0
+        if loc.get('text'):
+            st = (loc['text'][0].upper() + loc['text'][1:].rstrip('.') + '.')
+        else:
+            st = f'A {kind_en.lower()}.' if not ger else f'A {kind_en.lower()}, once named {ger}.'
+        st_de = (f'Ein {kind_de}.' if ger == ''
+                 else f'Ein {kind_de}, früher {ger} genannt.')
+        auto.append({
+            'slug': slug, 'heading': heading,
+            'heading_de': heading if ger else (row.get('name_de') or head),
+            'standfirst_en': st, 'standfirst_de': st_de,
+            'intro_en': INTRO_EN, 'intro_de': INTRO_DE,
+            'gaz': g, 'kind_en': kind_en, 'kind_de': kind_de,
+            'name_de': row.get('name_de') or head,
+            'docs': n_docs, 'letters': hit.get('letters') or [],
+            'span': hit.get('span') or '',
+            'sources': [],
+        })
+
+    # the document-hit lists, one hash for the pages' include
+    docs_out = {a['slug']: {'docs': a['docs'], 'span': a['span'],
+                            'letters': a['letters']} for a in auto}
+    with open(os.path.join(SITE, '_data', 'places_docs.yml'), 'w',
+              encoding='utf-8', newline='\n') as f:
+        f.write('# Generated by pipeline/places/place_pages.py from '
+                'site/_data/places_named.yml\n'
+                '# - do not hand-edit. slug -> the documents that name the '
+                'place.\n')
+        yaml.safe_dump(docs_out, f, allow_unicode=True,
+                       default_flow_style=False, sort_keys=False, width=100)
+
+    for lang, (folder, base, other) in BASES.items():
+        for a in auto:
+            slug = a['slug']
+            g = a['gaz']
+            body = ['{%- comment -%} Generated by '
+                    'pipeline/places/place_pages.py - do not hand-edit. '
+                    '{%- endcomment -%}',
+                    '{% include urls.html %}',
+                    '',
+                    '<section class="place-gaz">',
+                    '']
+            kind = a['kind_en'] if lang == 'en' else a['kind_de']
+            body += [f'<p class="refs">{kind}</p>', '']
+            loc = g.get('location') or {}
+            if loc.get('text'):
+                body += [f'<p class="refs" lang="en">{loc["text"].rstrip(".")}.</p>', '']
+            # the dated forms, each with its footnote
+            names = [n for n in (g.get('names') or []) if n.get('form')]
+            if names:
+                items = []
+                for n in names:
+                    y = f' {n["year"]}' if n.get('year') else ''
+                    fn = (f'<sup class="gfn"><a href="#fn-{n["footnote"]}">'
+                          f'{n["footnote"]}</a></sup>' if n.get('footnote') else '')
+                    items.append(f'<i>{n["form"]}</i>{y}{fn}')
+                body += ['<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} '
+                         + '; '.join(items) + '</p>', '']
+            # the map
+            lat = lon = None
+            if loc.get('lat') and loc.get('lon'):
+                lat, lon = loc['lat'], loc['lon']
+            elif stub_coords.get(slug):
+                sc = stub_coords[slug]
+                lat, lon = sc['lat'], sc['lon']
+            if lat:
+                d = 0.02
+                body += [
+                    '<div class="place-map">',
+                    f'<iframe src="https://www.openstreetmap.org/export/embed.html?'
+                    f'bbox={lon - d}%2C{lat - d}%2C{lon + d}%2C{lat + d}&amp;'
+                    f'layer=mapnik&amp;marker={lat}%2C{lon}" '
+                    f'title="{a["heading"]}"></iframe>',
+                    f'<p class="refs"><a href="https://www.openstreetmap.org/'
+                    f'?mlat={lat}&amp;mlon={lon}#map=15/{lat}/{lon}" '
+                    'rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>',
+                    '</div>', '']
+            # the description, footnotes resolved by kramdown
+            text_en = (g.get('text_en') or '').strip()
+            fns = g.get('footnotes') or []
+            if text_en or fns:
+                body += ['{% raw %}', '<div class="place-desc" lang="en" markdown="1">', '']
+                if text_en:
+                    body += [text_en, '']
+                for f_ in fns:
+                    body.append(f'[^{f_["n"]}]: {f_["text"]}')
+                    for r_ in (f_.get('refs') or []):
+                        if r_.get('status') == 'linked' and r_.get('link'):
+                            body.append(f'    [The document in the edition.]({r_["link"]})')
+                    body.append('')
+                body += ['</div>', '{% endraw %}', '']
+            body += ['</section>', '']
+            # the documents that name the place
+            if a['letters']:
+                body += ['<section class="place-docs">',
+                         '{% raw %}{{ t.places_named_h2 }}{% endraw %}',
+                         '',
+                         '{% include doc-list.html letters=page.hits_docs '
+                         'docs=page.hits_docs_count %}',
+                         '</section>', '']
             fm = ['---',
                   'layout: place',
                   f'place: {yaml_str(slug)}',
-                  f'title: {yaml_str(pl["heading_de"] if lang == "de" else pl["heading"])}',
+                  f'title: {yaml_str(a["heading_de"] if lang == "de" else a["heading"])}',
                   f'lang: {lang}',
                   f'permalink: {yaml_str(base + slug + "/")}',
                   f'alt_url: {yaml_str(other + slug + "/")}',
                   'excerpt_separator: ""',
+                  f'hits_docs: {yaml_str(a["letters"])}',
+                  f'hits_docs_count: {a["docs"]}',
                   '---', '']
             with open(os.path.join(SITE, folder, slug + '.md'), 'w',
                       encoding='utf-8', newline='\n') as f:
                 f.write('\n'.join(fm) + '\n' + '\n'.join(body) + '\n')
 
-    # The site's copy: the places and their sources, for the layout and the
-    # link from the card on the Places page.
+    # the site's copy: authored places keep their fields; the generated
+    # places carry the heading, the standfirst and the intro the layout shows
+    for a in auto:
+        places.append({k: a[k] for k in (
+            'slug', 'heading', 'heading_de', 'standfirst_en', 'standfirst_de',
+            'intro_en', 'intro_de')} | {'sources': []})
+    places.sort(key=lambda p: p['slug'])
+
     out = {pl['slug']: {k: pl[k] for k in (
         'heading', 'heading_de', 'standfirst_en', 'standfirst_de',
         'intro_en', 'intro_de')} | {'sources': [

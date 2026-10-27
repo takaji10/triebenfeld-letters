@@ -1,3 +1,9 @@
+# The two tiers of the Places page (the editor's ruling of
+# 2026-10-27; docs/PLACES_PLAN.md, section 8): tier 1 the editor's
+# list of 112 (the match run's slugs, gradzen read as gradzyn since
+# the merge) with the register places marked area: trabczyn-zagorow
+# and Lad, the abbey at the area's heart; tier 2 everything else.
+# Consumed by pipeline/build/build_site_data.py. Amend by hand.
 tier1:
 - adamierz
 - anielewo
@@ -39,6 +45,7 @@ tier1:
 - kowaliska
 - krolestwo
 - kuzoi
+- lad
 - laski
 - lazinskie-oledry
 - lazy-trabczyn
@@ -198,7 +205,6 @@ tier2:
 - krolikower-hollaend
 - krotoszyn
 - kuligowo
-- lad
 - ladek
 - langenburg
 - laske

@@ -15,18 +15,20 @@ layout: default
 {%- assign pl = site.data.places_pages[page.place] -%}
 
 <div class="prose person-page place-page">
-  <p class="eyebrow"><a href="{{ u_places | relative_url }}">{{ t.estates_h2 }}</a></p>
-  <h1>{{ pl.heading }}</h1>
+  <p class="eyebrow"><a href="{{ u_places | relative_url }}">{{ t.places_eyebrow }}</a></p>
+  <h1>{% if lang == 'de' %}{{ pl.heading_de }}{% else %}{{ pl.heading }}{% endif %}</h1>
   <p class="standfirst">{% if lang == 'de' %}{{ pl.standfirst_de }}{% else %}{{ pl.standfirst_en }}{% endif %}</p>
-  <p class="refs"><a href="{{ u_places | append: '#' | append: 'estate-' | append: page.place | relative_url }}">{{ t.place_on_places }}</a></p>
+  <p class="refs"><a href="{{ u_places | append: '#' | append: 'place-' | append: page.place | relative_url }}">{{ t.place_on_places }}</a></p>
   <p>{% if lang == 'de' %}{{ pl.intro_de }}{% else %}{{ pl.intro_en }}{% endif %}</p>
 
+  {%- if pl.sources.size > 0 %}
   <div class="viewbar lit-viewbar" role="group" aria-label="{{ t.lit_view_label }}">
     <button type="button" class="vbtn is-on" data-show="en" aria-pressed="true">{{ t.lit_view_en }}</button>
     <button type="button" class="vbtn" data-show="orig" aria-pressed="false">{{ t.lit_original }}</button>
     <span class="viewhint" data-hint="en">{{ t.place_hint_en }}</span>
     <span class="viewhint" data-hint="orig" hidden>{{ t.place_hint_orig }}</span>
   </div>
+  {%- endif %}
 
   {{ content }}
 </div>

@@ -952,16 +952,16 @@ def main():
             f.write(span_line(ids))
             f.write(letters_line(ids))
 
-    # The Places page's index of places in two tiers (the editor's ruling of
-    # 2026-10-26; docs/PLACES_PLAN.md, section 7): tier 1 the places of the
-    # Trąbczyn/Zagórów area — every place the gazetteer carries
-    # (reference/gazetteer/, the editor's own index of that area) and every
-    # register place marked `area: trabczyn-zagorow` — tier 2 every other
-    # place of the register. The estates in focus stand as the cards above
-    # the lists and are not listed again here. Whether a place has its own
-    # page is asked at render time (site.data.places_pages), so this file
-    # needs no rebuild when a page is added; the tiers are display order
-    # only, and change no matching and no metadata.
+    # The Places page's index of places in two tiers (the editor's rulings of
+    # 2026-10-26 and 2026-10-27; docs/PLACES_PLAN.md, sections 7-8): tier 1
+    # the places of the Trąbczyn/Zagórów area together with every name of the
+    # editor's original list (reference/place_tiers.yml, built from the match
+    # run's 112 and the register's area: trabczyn-zagorow places), tier 2
+    # everything else — the Hohenlohe estates elsewhere, the places of
+    # writing, the register's far list. Every place of the index has its own
+    # page (section 8), the estates included; there are no cards.
+    # Each row carries the place's kind in both languages, for the index's
+    # "name — kind" line and the page's standfirst.
     _gz_dir = os.path.join(ROOT, 'reference', 'gazetteer')
     _gaz = {}
     for _fn in sorted(os.listdir(_gz_dir)):
@@ -970,43 +970,99 @@ def main():
         with open(os.path.join(_gz_dir, _fn), encoding='utf-8') as _gf:
             _g = yaml.safe_load(_gf) or {}
         _gaz[_g.get('slug') or _fn[:-4]] = _g
+    _tiers = yaml.safe_load(io.open(os.path.join(ROOT, 'reference',
+                                                 'place_tiers.yml'),
+                                    encoding='utf-8'))
+    _t1_manifest = set(_tiers['tier1'])
+    _t2_manifest = set(_tiers['tier2'])
+    _KIND_EN = {'village': 'Village', 'estate': 'Estate', 'town': 'Town',
+                'settlement': 'Settlement', 'colony': 'Colony',
+                'hamlet': 'Hamlet', 'folwark': 'Folwark',
+                'oleder-settlement': 'Olęder settlement',
+                'isolated-dwellings': 'Isolated dwellings',
+                'forest': 'Forest', 'forest-precinct': 'Forest precinct',
+                'tavern': 'Tavern', 'water-mill': 'Water mill',
+                'mill': 'Mill', 'locale': 'Locale', 'river': 'River',
+                'stream': 'Stream', 'mound': 'Mound', 'mounds': 'Mounds',
+                'field': 'Field', 'windmills': 'Windmills',
+                'unknown': 'Place'}
+    _KIND_DE = {'village': 'Dorf', 'estate': 'Gut', 'town': 'Stadt',
+                'settlement': 'Siedlung', 'colony': 'Kolonie',
+                'hamlet': 'Weiler', 'folwark': 'Vorwerk',
+                'oleder-settlement': 'Haulandsiedlung',
+                'isolated-dwellings': 'Einzelsiedlung',
+                'forest': 'Wald', 'forest-precinct': 'Forstrevier',
+                'tavern': 'Kretscham', 'water-mill': 'Wassermühle',
+                'mill': 'Mühle', 'locale': 'Örtlichkeit', 'river': 'Fluss',
+                'stream': 'Bach', 'mound': 'Hügel', 'mounds': 'Hügel',
+                'field': 'Flur', 'windmills': 'Windmühlen',
+                'unknown': 'Ort'}
+
+    def _kind_pair(_slug):
+        _g = _gaz.get(_slug)
+        _k = (_g.get('kind') if _g else None) or (_place_recs.get(_slug) or {}).get('kind')
+        _k = (_k or 'unknown').lower()
+        return _KIND_EN.get(_k, _k or 'Place'), _KIND_DE.get(_k, _k or 'Ort')
+
+    def _row(_slug, _name):
+        _ken, _kde = _kind_pair(_slug)
+        _g = _gaz.get(_slug)
+        # The index parenthetical and the page-title pair carry only a
+        # colony's renaming German name (the gazetteer's german:, e.g.
+        # Sophienthal -> Olechowo). The register's german: is the place's
+        # own German name (Klein Althammer): it shows as the German index
+        # name, not as a parenthetical.
+        _ggr = (_g or {}).get('german')
+        _rgr = (_place_recs.get(_slug) or {}).get('german')
+        return {'slug': _slug, 'name': _name,
+                'name_de': _rgr or _name,
+                'kind_en': _ken, 'kind_de': _kde,
+                'german': _ggr or ''}
+
     _tier1, _seen = [], set()
-    for _gslug, _g in sorted(_gaz.items(),
-                             key=lambda kv: (kv[1].get('heading') or kv[0])):
+    for _slug in sorted(_t1_manifest):
+        _rslug = (_gaz.get(_slug) or {}).get('register') or _slug
+        _name = ((_gaz.get(_slug) or {}).get('heading')
+                 or (_place_recs.get(_rslug) or {}).get('display') or _rslug)
+        _tier1.append(_row(_rslug, _name))
+        _seen.update((_rslug, _slug))
+    # every gazetteer place belongs to tier 1 as well: the gazetteer is the
+    # editor's own index of the Trąbczyn/Zagórów area (as the section-7 rule
+    # had it), not every one of its slugs is a register place of area
+    # trabczyn-zagorow
+    for _gslug, _g in _gaz.items():
         _rslug = _g.get('register') or _gslug
-        _rec = _place_recs.get(_rslug) or {}
-        _head = _g.get('heading') or _gslug
-        _item = {'slug': _gslug, 'name': _head,
-                 'name_de': _rec.get('german') or _head}
-        # An estate in focus is a card above; the list item links the card.
-        if _rslug in estate_index:
-            _item['estate'] = _rslug
-        _tier1.append(_item)
+        if _rslug in _seen or _gslug in _seen:
+            continue
+        _tier1.append(_row(_gslug, _g.get('heading') or _gslug))
         _seen.update((_rslug, _gslug))
     for _slug, _rec in _place_recs.items():
-        if (_rec.get('area') != 'trabczyn-zagorow' or _slug in _seen
-                or _slug in estate_index):
-            continue
-        _disp = _rec.get('display') or _slug
-        _tier1.append({'slug': _slug, 'name': _disp,
-                       'name_de': _rec.get('german') or _disp})
+        if _rec.get('area') == 'trabczyn-zagorow' and _slug not in _seen:
+            _tier1.append(_row(_slug, _rec.get('display') or _slug))
+            _seen.add(_slug)
     _tier1.sort(key=lambda x: x['name'].lower())
-    _tier2 = [{'slug': _slug,
-               'name': _rec.get('display') or _slug,
-               'name_de': _rec.get('german') or _rec.get('display') or _slug}
-              for _slug, _rec in _place_recs.items()
-              if _rec.get('area') != 'trabczyn-zagorow'
-              and _slug not in estate_index]
+    _tier2 = []
+    for _slug, _rec in _place_recs.items():
+        if _slug in _seen or _slug in _t1_manifest:
+            continue
+        _tier2.append(_row(_slug, _rec.get('display') or _slug))
+        _seen.add(_slug)
+    # an estate of the edition that the register does not carry still gets
+    # its page (section 8: every place of the edition)
+    for _e in estate_index:
+        if _e not in _seen:
+            _tier2.append(_row(_e, (_place_recs.get(_e) or {}).get('display')
+                               or _e.replace('-', ' ').title()))
     _tier2.sort(key=lambda x: x['name'].lower())
     with open(os.path.join(DATA_DIR, 'places_index.yml'), 'w',
               encoding='utf-8', newline='\n') as f:
         f.write('# Generated by build_site_data.py - do not hand-edit.\n')
         f.write('# The Places page index of places in two tiers\n')
-        f.write('# (docs/PLACES_PLAN.md, section 7). Tier 1: the gazetteer\n')
-        f.write('# places and the register places marked area:\n')
-        f.write('# trabczyn-zagorow. Tier 2: every other register place.\n')
-        f.write('# The estates in focus are the cards above and are not\n')
-        f.write('# listed here.\n')
+        f.write('# (docs/PLACES_PLAN.md, sections 7-8, the ruling of\n')
+        f.write("# 2026-10-27). Tier 1: the editor's list of 112 and the\n")
+        f.write('# register places marked area: trabczyn-zagorow.\n')
+        f.write('# Tier 2: everything else. Every place has its own page;\n')
+        f.write('# each row carries its kind in both languages.\n')
         yaml.safe_dump({'tier1': _tier1, 'tier2': _tier2}, f,
                        allow_unicode=True, default_flow_style=False,
                        sort_keys=False, width=100)

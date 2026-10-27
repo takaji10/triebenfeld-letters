@@ -190,9 +190,16 @@ def main():
         for url in re.findall(r'<a\b[^>]*href="(https?://[^"]+)"', content):
             links[url] += 1
     if ext:
+        # The OpenStreetMap embed is the one fetched resource the editor has
+        # ruled onto the place pages (docs/PLACES_PLAN.md, section 8): the
+        # map view of the place. Everything else stays local.
+        ext = Counter({u: n for u, n in ext.items()
+                       if 'openstreetmap.org/export/embed.html' not in u})
+    if ext:
         for url, n in ext.most_common():
             fail(f'external resource fetched ({n}x): {url}')
-    print(f'  {len(ext)} external resources fetched (want 0)')
+    print(f'  {len(ext)} external resources fetched (want 0; '
+          'the OSM map embeds are ruled)')
     print(f'  {len(links)} outbound citation links (fine)')
 
     # ---- URLs a script builds, which the link check cannot see -------------
@@ -397,8 +404,13 @@ def main():
                     continue
                 with io.open(page, encoding='utf-8') as f:
                     built = html.unescape(f.read())
-                if 'class="place-source"' not in built:
-                    fail(f'place page: {base}/{slug}/ shows no source section')
+                # An authored page shows its sources; a generated page
+                # (section 8) shows the gazetteer block instead.
+                if pl.get('sources'):
+                    if 'class="place-source"' not in built:
+                        fail(f'place page: {base}/{slug}/ shows no source section')
+                elif 'class="place-gaz"' not in built:
+                    fail(f'place page: {base}/{slug}/ shows no gazetteer section')
                 for s in pl.get('sources') or []:
                     if not s.get('visible'):
                         continue
@@ -531,6 +543,42 @@ def main():
                             if f'/literature/{w["work"]}/#p-{pg["key"]}"' not in doc_html:
                                 fail(f"literature: {uid}'s page does not link {w['work']}/#p-{pg['key']}")
         print(f'  {n} hand-made links checked on both sides ({len(per_doc)} documents)')
+
+    # ---- the places (docs/PLACES_PLAN.md, section 8) ----------------------
+    # Every place of the index has its page in both languages; no built page
+    # links the old estate anchors; the index itself is intact.
+    import yaml as _yaml
+    idx_path = os.path.join(SITE, '_data', 'places_index.yml')
+    if os.path.isfile(idx_path):
+        with io.open(idx_path, encoding='utf-8') as f:
+            _idx = _yaml.safe_load(f) or {}
+        _rows = (_idx.get('tier1') or []) + (_idx.get('tier2') or [])
+        _n = 0
+        for _r in _rows:
+            for base in ('places', os.path.join('de', 'orte')):
+                p = os.path.join(SITE, base, _r['slug'], 'index.html')
+                if not os.path.isfile(p):
+                    fail(f"places: no page {base}/{_r['slug']}/")
+                    continue
+                _n += 1
+                with io.open(p, encoding='utf-8') as f:
+                    _html = f.read()
+                if '<h1' not in _html:
+                    fail(f"places: {_r['slug']}'s page has no heading")
+        # the estate anchors are gone; their links retargeted to the pages
+        _estate_links = 0
+        for root, dirs, files in os.walk(SITE):
+            for fn in files:
+                if fn.endswith('.html'):
+                    p = os.path.join(root, fn)
+                    with io.open(p, encoding='utf-8', errors='ignore') as f:
+                        if '#estate-' in f.read():
+                            _estate_links += 1
+        if _estate_links:
+            fail(f'places: {_estate_links} built pages still link the old '
+                 '#estate- anchors')
+        print(f'  {_n} place pages checked in both languages, '
+              'no estate anchors left')
 
     # ---- summary ----------------------------------------------------------
     print()

@@ -130,18 +130,24 @@ en:
     concerns that estate, not merely when it names it or was written there: a grant
     of Kamionna made out in Berlin is listed under Kamionna. Each was assigned by
     reading the document.
-  places_t1_h2: Places of the Trąbczyn and Zagórów area
+  places_eyebrow: Places
+  places_index_h1: Places
+  places_index_lede: >-
+    Every place the edition records, each with its own page: the
+    description of the place in the edition's gazetteer, the map where it
+    is identified, and the documents that name it.
+  places_t1_h2: The Trąbczyn and Zagórów area
   places_t1_lede: >-
-    The places near the estate: its villages, hamlets and colonies, the
-    market towns and seats around them, and the places the estate's German
-    settlement knew by their own names. A place with its own page is
-    linked.
+    The places near the estate — its villages, hamlets and colonies, the
+    market towns and seats around them — together with every place name
+    the editor's own list carries. Alphabetical; a place's page is one
+    click away.
   places_t2_h2: Every other place
   places_t2_lede: >-
-    The places further afield that the documents name — the seats of the
-    courts and the government, the capitals, and the stations of the
-    correspondence.
-  estates_card_link: its card above
+    The places further afield that the documents name — the Hohenlohe
+    estates elsewhere, the seats of the courts and the government, the
+    capitals, and the stations of the correspondence. Alphabetical.
+  places_tier_kind: Kind
   nav_archival: Archival order
   nav_chrono: Chronological
   view_diplomatic: Transcription
@@ -395,7 +401,8 @@ en:
   np_hint_en: The English translation by Claude; the original decides.
   np_hint_orig: The item as printed, line by line.
   place_more: More about the place
-  place_on_places: The place is one of the estates in focus; its documents are listed under it on the Places page.
+  place_forms: Dated forms of the name
+  place_on_places: The place in the index of places
   cem_h1: Cemeteries
   cem_lede: >-
     The Evangelical cemeteries of the Trąbczyn and Zagórów area and its
@@ -555,18 +562,24 @@ de:
     betrifft, nicht schon, wenn es das Gut nennt oder dort geschrieben wurde: eine in
     Berlin ausgefertigte Verleihung von Kamionna steht unter Kamionna. Die Zuordnung
     beruht auf der Lektüre jedes Dokuments.
-  places_t1_h2: Orte der Gegend von Trąbczyn und Zagórów
+  places_eyebrow: Orte
+  places_index_h1: Orte
+  places_index_lede: >-
+    Jeder Ort, den die Ausgabe verzeichnet, jeder mit eigener Seite: die
+    Beschreibung des Ortes im Gazetteer der Ausgabe, die Karte, wo er
+    bestimmt ist, und die Dokumente, die ihn nennen.
+  places_t1_h2: Die Gegend von Trąbczyn und Zagórów
   places_t1_lede: >-
-    Die Orte in der Nähe des Guts: seine Dörfer, Weiler und Kolonien, die
-    Marktflecken und Amtssitze um sie herum und die Orte, die die deutsche
-    Siedlung des Guts unter ihren eigenen Namen kannte. Ein Ort mit eigener
-    Seite ist verlinkt.
+    Die Orte in der Nähe des Guts — seine Dörfer, Weiler und Kolonien, die
+    Marktflecken und Amtssitze um sie herum — zusammen mit jedem Ortsnamen
+    der Liste des Editors. Alphabetisch; die Seite des Ortes ist einen
+    Klick entfernt.
   places_t2_h2: Alle übrigen Orte
   places_t2_lede: >-
-    Die weiter entfernten Orte, die die Dokumente nennen — die Sitze der
-    Gerichte und der Regierung, die Hauptstädte und die Stationen des
-    Briefwechsels.
-  estates_card_link: seine Karte oben
+    Die weiter entfernten Orte, die die Dokumente nennen — die Hohenlohe'schen
+    Güter anderswo, die Sitze der Gerichte und der Regierung, die Hauptstädte
+    und die Stationen des Briefwechsels. Alphabetisch.
+  places_tier_kind: Art
   nav_archival: Archivalische Ordnung
   nav_chrono: Chronologisch
   view_diplomatic: Transkription
@@ -825,7 +838,8 @@ de:
   np_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
   np_hint_orig: Das Stück, wie es gedruckt ist, Zeile für Zeile.
   place_more: Mehr über den Ort
-  place_on_places: Der Ort ist eines der betroffenen Güter; seine Dokumente sind auf der Seite Orte unter ihm aufgeführt.
+  place_forms: Datierte Namensformen
+  place_on_places: Der Ort im Verzeichnis der Orte
   cem_h1: Friedhöfe
   cem_lede: >-
     Die evangelischen Friedhöfe der Gegend von Trąbczyn und Zagórów und
