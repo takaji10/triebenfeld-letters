@@ -193,6 +193,7 @@
   letters: [{id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/"}, {id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/"}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/"}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/"}, {id: "41", uid: "oe1bu14525-41", url: "/documents/oe1bu14525/41/"}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/"}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/"}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/"}, {id: "7", uid: "oe1bu14525-7", url: "/documents/oe1bu14525/7/"}, {id: "18", uid: "oe1bu14525-18", url: "/documents/oe1bu14525/18/"}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/"}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/"}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/"}, {id: "1", uid: "oe1u199-1", url: "/documents/oe1u199/1/"}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/"}]
 - slug: "gradzyn"
   name: "Grądzyń"
+  medieval: ["1365: Grzandzen", "1404: Grzęden", "1464: Grandzem"]
   count: 14
   lat: 52.10934
   lon: 17.82053

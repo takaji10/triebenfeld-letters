@@ -269,6 +269,14 @@
   docs: 21
   span: "1799–1820"
   letters: [{id: "96", uid: "oe1bu9454-96", url: "/documents/oe1bu9454/96/", n: 1}, {id: "99", uid: "oe1bu9454-99", url: "/documents/oe1bu9454/99/", n: 1}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 1}, {id: "167", uid: "oe1bu9454-167", url: "/documents/oe1bu9454/167/", n: 1}, {id: "1", uid: "ihagrrep7cnr3705-1", url: "/documents/ihagrrep7cnr3705/1/", n: 1}, {id: "190", uid: "oe1bu9454-190", url: "/documents/oe1bu9454/190/", n: 1}, {id: "185", uid: "oe1bu9454-185", url: "/documents/oe1bu9454/185/", n: 1}, {id: "187", uid: "oe1bu9454-187", url: "/documents/oe1bu9454/187/", n: 1}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "36", uid: "oe1bu9454-36", url: "/documents/oe1bu9454/36/", n: 1}, {id: "38", uid: "oe1bu9454-38", url: "/documents/oe1bu9454/38/", n: 1}, {id: "40", uid: "oe1bu9454-40", url: "/documents/oe1bu9454/40/", n: 3}, {id: "211", uid: "oe1bu9454-211", url: "/documents/oe1bu9454/211/", n: 1}, {id: "224", uid: "oe1bu9454-224", url: "/documents/oe1bu9454/224/", n: 1}, {id: "245", uid: "oe1bu9454-245", url: "/documents/oe1bu9454/245/", n: 1}, {id: "259", uid: "oe1bu9454-259", url: "/documents/oe1bu9454/259/", n: 1}, {id: "272", uid: "oe1bu9454-272", url: "/documents/oe1bu9454/272/", n: 2}, {id: "15", uid: "oe1bu9454-15", url: "/documents/oe1bu9454/15/", n: 1}, {id: "6", uid: "oe1bu9454-6", url: "/documents/oe1bu9454/6/", n: 1}, {id: "292", uid: "oe1bu9454-292", url: "/documents/oe1bu9454/292/", n: 1}, {id: "27", uid: "iiihamdaiiinr12765-27", url: "/documents/iiihamdaiiinr12765/27/", n: 1}]
+- slug: "gradzyn"
+  name: "Grądzyń"
+  count: 47
+  lat: 52.10934
+  lon: 17.82053
+  docs: 20
+  span: "1447–1936"
+  letters: [{id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/", n: 2}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/", n: 2}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/", n: 4}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 16}, {id: "2", uid: "adwl85-2", url: "/documents/adwl85/2/", n: 1}, {id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", n: 2}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", n: 1}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", n: 2}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/", n: 2}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", n: 2}, {id: "21", uid: "oe1bu14525-21", url: "/documents/oe1bu14525/21/", n: 1}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/", n: 1}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", n: 2}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/", n: 1}, {id: "1", uid: "iharep162nr295-1", url: "/documents/iharep162nr295/1/", n: 1}, {id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", n: 1}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/", n: 3}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "32", uid: "oe1bu9454-32", url: "/documents/oe1bu9454/32/", n: 1}, {id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", n: 1}]
 - slug: "lad"
   name: "Ląd"
   count: 33
@@ -305,14 +313,6 @@
   docs: 18
   span: "1805–1815"
   letters: [{id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", n: 1}, {id: "29", uid: "oe1bu9454-29", url: "/documents/oe1bu9454/29/", n: 1}, {id: "55", uid: "oe1bu9454-55", url: "/documents/oe1bu9454/55/", n: 1}, {id: "220", uid: "oe1bu9454-220", url: "/documents/oe1bu9454/220/", n: 1}, {id: "238", uid: "oe1bu9454-238", url: "/documents/oe1bu9454/238/", n: 1}, {id: "245", uid: "oe1bu9454-245", url: "/documents/oe1bu9454/245/", n: 1}, {id: "259", uid: "oe1bu9454-259", url: "/documents/oe1bu9454/259/", n: 1}, {id: "260", uid: "oe1bu9454-260", url: "/documents/oe1bu9454/260/", n: 2}, {id: "263", uid: "oe1bu9454-263", url: "/documents/oe1bu9454/263/", n: 2}, {id: "267", uid: "oe1bu9454-267", url: "/documents/oe1bu9454/267/", n: 2}, {id: "268", uid: "oe1bu9454-268", url: "/documents/oe1bu9454/268/", n: 2}, {id: "273", uid: "oe1bu9454-273", url: "/documents/oe1bu9454/273/", n: 1}, {id: "14", uid: "oe1bu9454-14", url: "/documents/oe1bu9454/14/", n: 1}, {id: "276", uid: "oe1bu9454-276", url: "/documents/oe1bu9454/276/", n: 2}, {id: "278", uid: "oe1bu9454-278", url: "/documents/oe1bu9454/278/", n: 1}, {id: "289", uid: "oe1bu9454-289", url: "/documents/oe1bu9454/289/", n: 1}, {id: "6", uid: "oe1bu9454-6", url: "/documents/oe1bu9454/6/", n: 1}, {id: "303", uid: "oe1bu9454-303", url: "/documents/oe1bu9454/303/", n: 1}]
-- slug: "gradzyn"
-  name: "Grądzyń"
-  count: 42
-  lat: 52.10934
-  lon: 17.82053
-  docs: 18
-  span: "1447–1808"
-  letters: [{id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/", n: 2}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/", n: 2}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/", n: 4}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 13}, {id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", n: 2}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", n: 1}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", n: 2}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/", n: 2}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", n: 2}, {id: "21", uid: "oe1bu14525-21", url: "/documents/oe1bu14525/21/", n: 1}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/", n: 1}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", n: 2}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/", n: 1}, {id: "1", uid: "iharep162nr295-1", url: "/documents/iharep162nr295/1/", n: 1}, {id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", n: 1}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/", n: 3}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "32", uid: "oe1bu9454-32", url: "/documents/oe1bu9454/32/", n: 1}]
 - slug: "pyzdry"
   name: "Pyzdry (Peisern)"
   count: 25
@@ -429,12 +429,6 @@
   docs: 11
   span: "1797–1804"
   letters: [{id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", n: 2}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", n: 2}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", n: 2}, {id: "15", uid: "oe1bu14525-15", url: "/documents/oe1bu14525/15/", n: 1}, {id: "16", uid: "oe1bu14525-16", url: "/documents/oe1bu14525/16/", n: 1}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/", n: 1}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", n: 2}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/", n: 1}, {id: "18", uid: "oe1bu14526-18", url: "/documents/oe1bu14526/18/", n: 3}, {id: "19", uid: "oe1bu14526-19", url: "/documents/oe1bu14526/19/", n: 5}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", n: 1}]
-- slug: "gradzen"
-  name: "Grądzeń"
-  count: 25
-  docs: 10
-  span: "1447–1936"
-  letters: [{id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/", n: 1}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/", n: 2}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/", n: 4}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 12}, {id: "2", uid: "adwl85-2", url: "/documents/adwl85/2/", n: 1}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/", n: 1}, {id: "1", uid: "iharep162nr295-1", url: "/documents/iharep162nr295/1/", n: 1}, {id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", n: 1}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", n: 1}]
 - slug: "glogau"
   name: "Głogów (Glogau)"
   count: 11

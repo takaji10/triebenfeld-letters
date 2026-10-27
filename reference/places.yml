@@ -1001,8 +1001,8 @@ places:
     display: Grądzyń
     kind: village
     area: trabczyn-zagorow
-    match: Gr[ąa]dz[iy][nń]\w*|Gradzie[mn]\b|Graziem\b
-    tier: ''
+    match: Gr[ąa]dz[iy][nń]\w*|Gradzie[mn]\b|Graziem\b|Gr[aą]dz[eień]\w*
+    tier: Source-confirmed
     variants:
     - Grądzin
     - Grądzyn
@@ -1010,6 +1010,12 @@ places:
     - Gradziem
     - Gradzien
     - Graziem
+    - Grądzeń
+    - Grądzień
+    medieval:
+    - '1365: Grzandzen'
+    - '1404: Grzęden'
+    - '1464: Grandzem'
   brzyce:
     display: Brzyce
     kind: village
@@ -1937,19 +1943,6 @@ places:
     match: Wroc[łl]awek\b|Wraclawek\b
     tier: Book-confirmed
     variants: []
-  gradzen:
-    display: Grądzeń
-    kind: village
-    area: trabczyn-zagorow
-    medieval:
-    - '1365: Grzandzen'
-    - '1404: Grzęden'
-    - '1464: Grandzem'
-    match: Gr[aą]dz[eięńe]\w*
-    tier: Source-confirmed
-    variants:
-    - Grądzyn
-    - Grądzeii
   lukomin:
     display: Łukomin
     kind: settlement
