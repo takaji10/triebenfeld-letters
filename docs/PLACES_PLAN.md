@@ -169,3 +169,105 @@ What the ruling keeps and what it changes:
   widened page takes — the tiers as two lists, the estates' cards first —
   is Claude's to propose and the editor's eye on the built page, as the
   sections' machinery has gone so far.
+
+---
+
+## 8. The page per place and the remade Places page (ruled 2026-10-27)
+
+The editor's ruling of 2026-10-27: **every place gets its own page**, and the
+Places page is remade as a plain alphabetical index. The ruling in parts:
+
+1. **A page per place.** Every place of the index (the 257 of
+   `site/_data/places_index.yml`) takes `/places/<slug>/` and
+   `/de/orte/<slug>/`, whether or not a gazetteer entry stands behind it.
+   A page shows, in order:
+   - the heading — **"Polish (German)"** for the Hohenlohe colonies that
+     had a German name originally and later a Polish one
+     ("Olechowo (Sophienthal)"), the plain name otherwise;
+   - the kind of place and, where the gazetteer describes it, its
+     situation (the location line);
+   - the **description**: the gazetteer's `text_en` — the editor's own
+     account where one exists and the citation sentences made from the
+     corrected Słownik / Nazwy / Kodeks citations, with the footnotes
+     resolved (a `linked` ref a link to the document, a `missing` ref
+     the plain citation);
+   - the **dated name-forms** (the gazetteer's `names:`, each with its
+     footnote);
+   - the **OpenStreetMap view** — an embedded map with a marker — for
+     the places that can be identified with confidence; the rest get no
+     map box;
+   - the **document hits** last: the documents of the edition that name
+     the place, by the same list the estates' cards have shown.
+   The one authored place page so far (Zagórów, with its zagorow.pl
+   source shown whole) keeps its shape and gains the gazetteer's
+   description block; the authored sources hang below it.
+2. **The Places page becomes a plain index.** No "Estates in Focus"
+   framing, no cards, no sort buttons. Two alphabetical lists — tier 1
+   the places of the Trąbczyn/Zagórów area together with every name of
+   the editor's original list of 112 (the match run's places), tier 2
+   everything else (the Hohenlohe estates elsewhere, the places of
+   writing, the register's far list) — each item the place's name and
+   its kind, linking its page.
+3. **The estates' information stays in the letters.** Nothing is removed
+   from the Hohenlohe-era letters' pages, where the estate a document
+   concerns is part of understanding it. Only the Places page stops
+   presenting it as a framing.
+4. **The estate anchors move.** Document pages link
+   `/places/#estate-<slug>` today; with the cards gone those links
+   retarget to the place's own page `/places/<slug>/` — the better
+   destination, and no anchor is lost that a reader was relying on.
+
+### How it is built
+
+**Phase 0 — the data (the long pole).**
+- *Coordinates.* The gazetteer's `location:` gains `lat`/`lon` where the
+  place can be identified with confidence: the 42 estates already carry
+  coordinates in `site/_data/estates.yml`; the Zagórów-area places are
+  georeferenced from the edition's own maps (Perthées 1798, Gilly 1802,
+  Richter 1843, the Messtischblatt of 1940) and the Słownik's own
+  distances ("N versts from Słupca"), checked against the modern map.
+  A place that cannot be pinned down gets no map, not a guessed one.
+  The far places (Berlin, Wien, Breslau) are trivially identified and
+  get their coordinates like any other.
+- *German names.* A `german:` field enters the gazetteer entry and the
+  register for the colonies named in German first — the six renamings
+  of 1891 recorded on theSG's t. XV (Sophienthal→Olechowo,
+  Friedrichsfeld→Tarszewo, Ludwigslust→Mały Las, Adolfsberg→Zalesie,
+  Adelhof→Chruściki, Ingelfingen→Anielewo) and any further Hohenlohe
+  colony the review data shows named in German. The heading renders
+  "Polish (German)" from the pair.
+- *The tier-1 manifest.* The editor's 112, as provided, listed
+  explicitly (the match run's slugs, `gradzen` reading as `gradzyn`
+  since the merge of 2026-10-27), united with the places whose `area:`
+  is `trabczyn-zagorow`; stored once, consumed by the site data build.
+
+**Phase 1 — the generator.** `pipeline/places/place_pages.py` widens
+from "the authored places" to "every place of the index": an authored
+`places/<slug>/` keeps its sources machinery; every other place's page
+is generated from the gazetteer entry, the register and the document
+mentions, with no authored file required. The German/Polish heading
+pair, the kinds in both languages, the map embed (the plain
+openstreetmap.org embed, no JavaScript beyond the iframe, a link
+beside it for printing) and the document-hit list come from the site
+data the build already makes. The German pages render the name, the
+kind and the index in German; the description stands in English,
+marked `lang="en"`, until the editor rules on translating 120 texts.
+
+**Phase 2 — the Places page.** `site/_includes/places.html` loses the
+cards, the sort bar and the estates framing; the two tiers render
+alphabetically from `places_index.yml`, each item name + kind + link.
+The letters' and documents' place links retarget from
+`#estate-<slug>` to the pages.
+
+**Phase 3 — the checks and the publish.** `verify_site.py` gains the
+rule the ruling implies: every item of the index has a page in both
+languages, and no built page links a dead `#estate-` anchor. The whole
+chain (build_site_data, place_pages, gazetteer checker) green, then
+publish as always.
+
+**What a page without a gazetteer entry shows.** Some 137 of the
+index's places have no gazetteer entry — mostly far places named in
+the documents (Breslau, Warschau, and the like). Their page is the
+heading, the kind, the map where identification is trivial, and the
+document hits; the gazetteer can be extended to them later, one
+session at a time.
