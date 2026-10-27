@@ -9,9 +9,9 @@ location:
   relation: southwest-of
   relative_to: trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.13334
+  lon: 17.906508
 text_en: Village southwest of Trąbczyn. Originally named *Emilienheim* and founded
   as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and
   Öhringen (1746-1818) who named it after one of his children. Renamed to Michalinów

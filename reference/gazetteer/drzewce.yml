@@ -9,9 +9,9 @@ location:
   relation: south-of
   relative_to: zagorowo
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.14088
+  lon: 17.89138
 text_en: Village south of Zagórów. First mentioned in a privilege document from Ląd
   Abbey in 1362.[^12] Drzewce (*Drzewycz*) was mentioned as an alias of *Nouo Sagorowo*
   (Pl. *Zagórowo Nowe*) in 1411, when the monastery’s abbott Gerhard exchanged a scullery

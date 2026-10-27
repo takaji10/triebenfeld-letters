@@ -9,9 +9,9 @@ location:
   relation: west-of
   relative_to: szetlewek
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.116667
+  lon: 17.983333
 text_en: Village west of Szetlewek. Named after Stanisław Miączyński (1780-1845),
   whose wife Michalina Prusimska (1778-1851) was owner of the Trąbczyn estate. Appeared
   as a folwark (Wreschen 1901); *Stanisławów* (Messtischblatt 1940). Nazwy miejscowe

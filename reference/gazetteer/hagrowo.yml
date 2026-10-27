@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: hagrowo
 heading: Hagrowo
 register: null
@@ -15,7 +12,8 @@ location:
   precision: unknown
   lat: null
   lon: null
-text_en: Unknown place. Mentioned in a population table of Zagórów Catholic parish from 1790-91.[^23]
+text_en: Unknown place. Mentioned in a population table of Zagórów Catholic parish
+  from 1790-91.[^23]
 names:
 - form: Hagrowo
   year: null

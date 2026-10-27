@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: zagorowo
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.16188
+  lon: 17.95828
 text_en: Village east of Zagórów. First mentioned as *Skokome* in a 1240 document
   where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd
   Abbey.[^65] Mentioned in a 1261 document where Prince Bolesław the Pious confirmed

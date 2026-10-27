@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: lukom
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.138934
+  lon: 17.785575
 text_en: Village east of Łukom. According to Chodyła, Myszakówek was established as
   an Olędry[^50] before 1789 (however, it does not appear on Łukom 1766) on the initiative
   of the owner of the Łukom/Łomów estates as part of a village of mixed legal and

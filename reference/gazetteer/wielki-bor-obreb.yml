@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: wielki-bor-obreb
 heading: Wielki-Bór Obręb
 register: null
@@ -15,7 +12,9 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Historical forest precinct which existed southwest of Łazińsk Pierwszy. The precinct included the districts (Pl. *okręg*) of *Studienka,* and *Wypalanki*. Only one map noted this feature (Kozłowski 1861).
+text_en: Historical forest precinct which existed southwest of Łazińsk Pierwszy. The
+  precinct included the districts (Pl. *okręg*) of *Studienka,* and *Wypalanki*. Only
+  one map noted this feature (Kozłowski 1861).
 names:
 - form: Wielki-Bór Obręb
   year: null

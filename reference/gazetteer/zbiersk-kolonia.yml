@@ -1,7 +1,3 @@
-# Entered 2026-10-26 at the editor's word, drafted in scratch/gazetteer_drafts/ from the editor's
-# cemetery survey (cemeteries/<slug>/) and the existing entries; the split of the two
-# Lazinsk villages out of lazinskie-oledry at their word of 2026-10-26. Plan:
-# docs/CEMETERIES_PLAN.md; NEEDS_CONFIRMATION, "The cemeteries".
 slug: zbiersk-kolonia
 heading: Zbiersk Kolonia
 register: null
@@ -13,15 +9,14 @@ location:
   relation: east-of
   relative_to: stawiszyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
-text_en: >-
-  Settlement east of Stawiszyn, on the northern edge of a forest complex a
-  few square kilometres in area. Its Evangelical cemetery is approximately
-  25 kilometres southeast of the Trąbczyn area; it is in the survey of the
-  Evangelical cemeteries because some Zelmers from the Trąbczyn area moved
-  to Zbiersk Kolonia and the nearby settlement of Łyczyn.
+  precision: identified
+  lat: 51.949747
+  lon: 18.16407
+text_en: Settlement east of Stawiszyn, on the northern edge of a forest complex a
+  few square kilometres in area. Its Evangelical cemetery is approximately 25 kilometres
+  southeast of the Trąbczyn area; it is in the survey of the Evangelical cemeteries
+  because some Zelmers from the Trąbczyn area moved to Zbiersk Kolonia and the nearby
+  settlement of Łyczyn.
 names:
 - form: Zbiersk Kolonia
   year: null

@@ -5,17 +5,15 @@ status: extant
 kind: settlement
 kind_text: Settlement
 location:
-  text: a settlement in the Słownik era, in gmina Lipnik, parish of Zagórów, powiat
+  text: a forestry settlement in the Słownik era, gmina and parish of Zagórów, powiat
     słupecki
   relation: null
   relative_to: null
   belongs_to: null
   precision: described
-  lat: null
-  lon: null
 text_en: Forester's settlement in the Zagórów area, one house at the time of the Słownik.
-  The Słownik geograficzny records it as a settlement, in gmina Lipnik, parish of
-  Zagórów, powiat słupecki, with 1 house and 77 inhabitants at the time of the Słownik.[^1]
+  The Słownik geograficzny records it as a forestry settlement, gmina and parish of
+  Zagórów, powiat słupecki, 15 versts from Słupca, with 1 house.[^1]
 names:
 - form: Rogal
   year: null

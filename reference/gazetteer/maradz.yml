@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: maradz
 heading: Maradz
 register: null
@@ -15,7 +12,8 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Forest southwest of Stanisławów. Appeared as a forest (Kozłowski 1861) and as a settlement (Messtischblatt 1940).
+text_en: Forest southwest of Stanisławów. Appeared as a forest (Kozłowski 1861) and
+  as a settlement (Messtischblatt 1940).
 names:
 - form: Maradz
   year: null

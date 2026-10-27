@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: wincentowo
 heading: Wincentowo
 register: null
@@ -12,10 +9,17 @@ location:
   relation: northwest-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
-text_en: Village northwest of Łazy. Previously known as *Siergiejewo*, and listed as part of Osiny and containing five households in the Geographical Dictionary of the Kingdom of Poland in 1889.[^95] The same source also stated that both Siergiejewo and a folwark with the same name were established recently at the time of writing. The name change may have occurred in the early 20th century after the decline of Russian influence on culture and language in Poland. Only one map noted this feature as *Siergiejewo* (Wojskowy Instytut Geograficzny 1933). First appeared as *Wincentowo* on Messtischblatt 1940.
+  precision: identified
+  lat: 52.131111
+  lon: 17.931667
+text_en: Village northwest of Łazy. Previously known as *Siergiejewo*, and listed
+  as part of Osiny and containing five households in the Geographical Dictionary of
+  the Kingdom of Poland in 1889.[^95] The same source also stated that both Siergiejewo
+  and a folwark with the same name were established recently at the time of writing.
+  The name change may have occurred in the early 20th century after the decline of
+  Russian influence on culture and language in Poland. Only one map noted this feature
+  as *Siergiejewo* (Wojskowy Instytut Geograficzny 1933). First appeared as *Wincentowo*
+  on Messtischblatt 1940.
 names:
 - form: Wincentowo
   year: null

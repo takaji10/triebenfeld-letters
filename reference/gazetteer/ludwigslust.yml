@@ -9,9 +9,9 @@ location:
   relation: south-of
   relative_to: olchowo
   belongs_to: olchowo
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.171389
+  lon: 17.951111
 text_en: 'Hamlet south of and belonging to Olchowo. The German colony *Kolonia Ludwigslust*
   was likely integrated into the smaller Mały Las settlement immediately south in
   1891 as part of efforts by the Polish authorities to remove traces of previous Prussian
@@ -48,3 +48,4 @@ footnotes:
   note: null
 review:
 - 'figure: refers to a figure of the editor''s book: Map 26, Tab. 26'
+german: Ludwigslust

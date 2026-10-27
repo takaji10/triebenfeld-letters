@@ -9,9 +9,9 @@ location:
   relation: southeast-of
   relative_to: lomow
   belongs_to: lomow
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.108889
+  lon: 17.868889
 text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp
   crossing existed west from here called *Brod Kaliski* and was shown on a map of
   the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In

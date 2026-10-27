@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: kowaliska
 heading: Kowaliska
 register: null
@@ -13,9 +10,8 @@ location:
   relative_to: null
   belongs_to: null
   precision: unknown
-  lat: null
-  lon: null
-text_en: Location unknown. Listed as an area or subdivision of the Trąbczyn estate by The Geographical Dictionary of the Kingdom of Poland in 1892.[^35]
+text_en: Location unknown. Listed as an area or subdivision of the Trąbczyn estate
+  by The Geographical Dictionary of the Kingdom of Poland in 1892.[^35]
 names:
 - form: Kowaliska
   year: null

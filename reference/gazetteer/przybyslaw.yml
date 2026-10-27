@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: przybyslaw
 heading: Przybysław
 register: przybyslaw
@@ -12,10 +9,12 @@ location:
   relation: south-of
   relative_to: nowawies-trabczyn
   belongs_to: nowawies-trabczyn
-  precision: described
-  lat: null
-  lon: null
-text_en: Hamlet south of and belonging to Nowa Wieś. First mentioned in an 1813 birth record from Trąbczyn Catholic parish metrical records.[^63] Appeared as a folwark on Richter 1843; similarly on Pełzucki 1901.
+  precision: identified
+  lat: 52.131944
+  lon: 17.9425
+text_en: Hamlet south of and belonging to Nowa Wieś. First mentioned in an 1813 birth
+  record from Trąbczyn Catholic parish metrical records.[^63] Appeared as a folwark
+  on Richter 1843; similarly on Pełzucki 1901.
 names:
 - form: Przybysław
   year: null
@@ -31,7 +30,8 @@ maps:
   note: similarly on
 footnotes:
 - n: 63
-  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1813/#39 Page 142/Image 324'
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1813/#39 Page
+    142/Image 324'
   refs:
   - source: trabczyn-births-1808-1825
     locator: 1813/#39 Page 142/Image 324

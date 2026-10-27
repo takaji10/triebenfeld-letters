@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: wygoda
 heading: Wygoda
 register: null
@@ -13,9 +10,8 @@ location:
   relative_to: lukom
   belongs_to: null
   precision: described
-  lat: null
-  lon: null
-text_en: Tavern which existed north of Łukom. Only one map noted this feature (Richter 1843).
+text_en: Tavern which existed north of Łukom. Only one map noted this feature (Richter
+  1843).
 names:
 - form: Wygoda
   year: null

@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: przycierz
 heading: Przycierz
 register: null
@@ -13,9 +10,8 @@ location:
   relative_to: trabczyn
   belongs_to: null
   precision: described
-  lat: null
-  lon: null
-text_en: Folwark which existed east of Trąbczyn. Only one map noted this feature (Kozłowski 1861).
+text_en: Folwark which existed east of Trąbczyn. Only one map noted this feature (Kozłowski
+  1861).
 names:
 - form: Przycierz
   year: null

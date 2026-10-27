@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: garbin
 heading: Garbin
 register: null
@@ -15,7 +12,9 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: West of Stanisławów. Listed as a village in the Geographical Dictionary of the Kingdom of Poland in 1881.[^19] Only one map noted this feature, as a field (Kozłowski 1861).
+text_en: West of Stanisławów. Listed as a village in the Geographical Dictionary of
+  the Kingdom of Poland in 1881.[^19] Only one map noted this feature, as a field
+  (Kozłowski 1861).
 names:
 - form: Garbin
   year: null

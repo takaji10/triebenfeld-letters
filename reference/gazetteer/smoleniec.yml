@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: koszelewska-laka
   belongs_to: koszelewska-laka
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.119624
+  lon: 17.790422
 text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where
   tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe
   Polski records the name as *Łukomiem a Myszkowem* by 1578.[^68]

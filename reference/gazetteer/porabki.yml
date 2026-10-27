@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: lazy-trabczyn
   belongs_to: lazy-trabczyn
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.126214
+  lon: 17.95998
 text_en: Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record
   from Trąbczyn Catholic parish metrical records.[^60] The Słownik geograficzny records
   the settlement.[^61]

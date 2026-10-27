@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: sklanna-huta
 heading: Sklanna Huta
 register: null
@@ -15,7 +12,9 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Settlement which existed west of Łomów, possibly in the same location as Budy. *Huta* was a common Polish name for a place where iron ore was found. Only one map noted this feature (Gilly 1802).
+text_en: Settlement which existed west of Łomów, possibly in the same location as
+  Budy. *Huta* was a common Polish name for a place where iron ore was found. Only
+  one map noted this feature (Gilly 1802).
 names:
 - form: Sklanna Huta
   year: null

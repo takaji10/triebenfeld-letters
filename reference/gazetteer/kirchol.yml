@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: kirchol
 heading: Kirchol
 register: null
@@ -12,10 +9,11 @@ location:
   relation: south-of
   relative_to: kosciolkow
   belongs_to: kosciolkow
-  precision: described
-  lat: null
-  lon: null
-text_en: Isolated dwellings south of and belonging to Kościołków. First appeared on Messtischblatt 1940.
+  precision: identified
+  lat: 52.153654
+  lon: 17.866208
+text_en: Isolated dwellings south of and belonging to Kościołków. First appeared on
+  Messtischblatt 1940.
 names:
 - form: Kirchol
   year: null

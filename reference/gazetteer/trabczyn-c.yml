@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: trabczyn-c
 heading: Trąbczyn C
 register: null
@@ -12,10 +9,12 @@ location:
   relation: null
   relative_to: null
   belongs_to: null
-  precision: unknown
-  lat: null
-  lon: null
-text_en: Settlement with an unknown location. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records from 1919.[^89] Likely created after the parcelling of Trąbczyn estate property in the late 19th century.
+  precision: identified
+  lat: 52.14195
+  lon: 17.953307
+text_en: Settlement with an unknown location. Appeared in Zagórów Evangelical-Augsburg
+  Lutheran parish metrical records from 1919.[^89] Likely created after the parcelling
+  of Trąbczyn estate property in the late 19th century.
 names:
 - form: Trąbczyn C
   year: null

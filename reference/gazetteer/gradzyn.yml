@@ -9,9 +9,9 @@ location:
   relation: south-of
   relative_to: lukom
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.10934
+  lon: 17.82053
 text_en: Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege
   document from Ląd Abbey, which was sold by the German Bochneth family to the monastery
   for the sum of 400 Cologne marks.[^21] *Pustkowie Grądziem* included three farms

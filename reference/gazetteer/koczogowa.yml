@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: koczogowa
 heading: Koczogowa
 register: null
@@ -15,7 +12,10 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Water mill which existed east of Myszaków. Possibly located at Łukom, which was recorded as having a mill (Gilly 1802) and was mentioned in a 1775 court document concerning a property dispute between the Trąbczyn and Łukom estates.[^31] Only one map noted this feature (von Pfau 1770).
+text_en: Water mill which existed east of Myszaków. Possibly located at Łukom, which
+  was recorded as having a mill (Gilly 1802) and was mentioned in a 1775 court document
+  concerning a property dispute between the Trąbczyn and Łukom estates.[^31] Only
+  one map noted this feature (von Pfau 1770).
 names:
 - form: Koczogowa
   year: null

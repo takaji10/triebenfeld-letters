@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: lukom
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.130685
+  lon: 17.862187
 text_en: Village east of Łukom. The name is an adjective for beech trees (*Buk*).
   According to Chodyła, *Bukowo*/*Bukowe* (which may have existed previously as a
   medieval-era village) or *Olędry Łomowskie* was established on the initiative of

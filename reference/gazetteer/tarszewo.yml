@@ -9,9 +9,9 @@ location:
   relation: northeast-of
   relative_to: kopojno
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.177447
+  lon: 18.0195
 text_en: Village northeast of Kopojno. Originally named *Kolonia Friedrichsfeld* and
   founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen
   and Öhringen (1746-1818) who named it after one of his children. Renamed to Tarszewo
@@ -47,3 +47,4 @@ footnotes:
     status: missing
   note: null
 review: []
+german: Friedrichsfeld

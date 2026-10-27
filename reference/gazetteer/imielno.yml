@@ -9,9 +9,9 @@ location:
   relation: north-of
   relative_to: lukom
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.142252
+  lon: 17.855218
 text_en: Village north of Łukom. First mentioned as *Chemelino* in a 1243 document
   where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno
   to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned

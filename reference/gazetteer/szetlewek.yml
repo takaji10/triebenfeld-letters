@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: stanislawow
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.11667
+  lon: 18.0
 text_en: Village east of Stanisławów. Szetlewek, or *Szetlewo Kątne*[^76] was first
   pawned (used as a collateral for a loan) to Jan Goliński. Later in 1671, the property
   was fully sold to Goliński by the heirs of former owner Martin Strzałkowski. It

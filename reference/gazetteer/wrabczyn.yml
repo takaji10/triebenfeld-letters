@@ -9,9 +9,9 @@ location:
   relation: west-of
   relative_to: zagorowo
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.17067
+  lon: 17.85827
 text_en: Village west of Zagórów. First mentioned as *Wronczino* in a 1240 document
   where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd
   Abbey.[^98] Wrąbczyn came under possession of the abbey in 1241, when Prince Casimir

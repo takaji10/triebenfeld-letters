@@ -9,9 +9,9 @@ location:
   relation: northeast-of
   relative_to: zagorowo
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.183333
+  lon: 17.95
 text_en: Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and
   founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen
   and Öhringen (1746-1818) who named it after one of his children. Renamed to Olchowo
@@ -68,3 +68,4 @@ footnotes:
     status: missing
   note: null
 review: []
+german: Sophienthal

@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: wrabczynkowskie-holendry
 heading: Wrąbczynkowskie Holendry
 register: null
@@ -12,10 +9,15 @@ location:
   relation: west-of
   relative_to: wrabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
-text_en: Village west of Wrąbczyn. Established by Szczepan Turna, starost of Pietrzyków in 1781 on overgrown land with the aim of bringing the starosty (an administrative district governed by a royal official called a starosta) and the village of Wrąbczyn into good condition.[^113] In 1886, Wrąbczynkowskie Holendry consisted of 32 households and belonged to the Pietrzyków estate which also included the villages of Pietrzyków and Białobrzeg.[^114] *Holendry Wrąbczyneckie* (Perthées 1798).
+  precision: identified
+  lat: 52.166667
+  lon: 17.8
+text_en: Village west of Wrąbczyn. Established by Szczepan Turna, starost of Pietrzyków
+  in 1781 on overgrown land with the aim of bringing the starosty (an administrative
+  district governed by a royal official called a starosta) and the village of Wrąbczyn
+  into good condition.[^113] In 1886, Wrąbczynkowskie Holendry consisted of 32 households
+  and belonged to the Pietrzyków estate which also included the villages of Pietrzyków
+  and Białobrzeg.[^114] *Holendry Wrąbczyneckie* (Perthées 1798).
 names:
 - form: Wrąbczynkowskie Holendry
   year: null

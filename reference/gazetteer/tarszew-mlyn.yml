@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: tarszew-mlyn
 heading: Tarszew
 register: null
@@ -15,7 +12,11 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Water mill which existed south of Kopojno. First mentioned in a 1742 birth record from Trąbczyn Catholic parish metrical records.[^80] *Kolonia Friedrichsfeld* took the name Tarszewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. First appeared on Trąbczyn 1790; *Tarszew M.* (Gilly 1802); *Osada Tarszew Ml. [Młyn]* (Richter 1843).
+text_en: Water mill which existed south of Kopojno. First mentioned in a 1742 birth
+  record from Trąbczyn Catholic parish metrical records.[^80] *Kolonia Friedrichsfeld*
+  took the name Tarszewo in 1891 as part of efforts by the Polish authorities to remove
+  traces of previous Prussian occupation. First appeared on Trąbczyn 1790; *Tarszew
+  M.* (Gilly 1802); *Osada Tarszew Ml. [Młyn]* (Richter 1843).
 names:
 - form: Tarszew
   year: null
@@ -34,7 +35,8 @@ maps:
   note: null
 footnotes:
 - n: 80
-  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 134/Image 199'
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764*
+    Page 134/Image 199'
   refs:
   - source: trabczyn-births-1691-1784
     locator: Page 134/Image 199

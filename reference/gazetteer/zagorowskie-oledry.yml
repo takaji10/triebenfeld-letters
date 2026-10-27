@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: zagorowskie-oledry
 heading: Zagórowskie Olędry
 register: null
@@ -15,7 +12,10 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Olęder settlement which existed north of Imielno. According to Chodyła, Zagórowskie Olędry was established before 1789 on the initiative of the owner of the Łukom/Łomów estates as part of a village of mixed legal and organisational status that included *Stara Huta* and Myszakówek.[^119] Only one map noted this feature (Gilly 1802).
+text_en: Olęder settlement which existed north of Imielno. According to Chodyła, Zagórowskie
+  Olędry was established before 1789 on the initiative of the owner of the Łukom/Łomów
+  estates as part of a village of mixed legal and organisational status that included
+  *Stara Huta* and Myszakówek.[^119] Only one map noted this feature (Gilly 1802).
 names:
 - form: Zagórowskie Olędry
   year: null

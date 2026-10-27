@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: szetlew
 heading: Szetlew
 register: szetlew
@@ -12,11 +9,22 @@ location:
   relation: southeast-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
-text_en: Village southeast of Łazy. First mentioned as *Szetlevo* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^70] Mentioned in a 1261 document as “*Szethowo cum cocis”* (Latin for “Szetlewo with cooks,” also mentioned as such in 1280[^71]) where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery at Ląd made by Mieszko III and donated additional villages.[^72] In 1589, Nicolaus Otto-Trąmpczyński, the owner of Szetlew, was sued by other members of the Otto-Trąmpczyński family for destroying their nearby mill by diverting its watercourse and blocking the road to the mill.[^73] The most recent version of the mill was built circa 1910-1912 by W. Hauke and ceased operations in 1979.[^74] In 1775, Szetlew and the nearby village of Podbiel were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn
-  estate in the 18th century.[^75] *Szetlewo* (Perthées 1798).
+  precision: identified
+  lat: 52.131595
+  lon: 17.99908
+text_en: Village southeast of Łazy. First mentioned as *Szetlevo* in a 1240 document
+  where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd
+  Abbey.[^70] Mentioned in a 1261 document as “*Szethowo cum cocis”* (Latin for “Szetlewo
+  with cooks,” also mentioned as such in 1280[^71]) where Prince Bolesław the Pious
+  confirmed the earlier 1145 founding privilege for a monastery at Ląd made by Mieszko
+  III and donated additional villages.[^72] In 1589, Nicolaus Otto-Trąmpczyński, the
+  owner of Szetlew, was sued by other members of the Otto-Trąmpczyński family for
+  destroying their nearby mill by diverting its watercourse and blocking the road
+  to the mill.[^73] The most recent version of the mill was built circa 1910-1912
+  by W. Hauke and ceased operations in 1979.[^74] In 1775, Szetlew and the nearby
+  village of Podbiel were mentioned as being owned by Jan Nepomucen Zakrzewski, the
+  son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of
+  the Trąbczyn estate in the 18th century.[^75] *Szetlewo* (Perthées 1798).
 names:
 - form: Szetlew
   year: null
@@ -57,7 +65,8 @@ footnotes:
     status: linked
   note: null
 - n: 73
-  text: Inscriptiones, relationes, decreta [inducta] 1589 (53/6/0/-/17), 22-23v, 28-29, 32v-35v
+  text: Inscriptiones, relationes, decreta [inducta] 1589 (53/6/0/-/17), 22-23v, 28-29,
+    32v-35v
   refs:
   - source: courtbook-1589
     locator: 22-23v, 28-29, 32v-35v
@@ -65,7 +74,8 @@ footnotes:
     status: missing
   note: null
 - n: 74
-  text: Wikimapia, "Młyn w Szetlewku," https://wikimapia.org/22360753/pl/M%C5%82yn-w-Szetlewku, accessed 6 June 2026.
+  text: Wikimapia, "Młyn w Szetlewku," https://wikimapia.org/22360753/pl/M%C5%82yn-w-Szetlewku,
+    accessed 6 June 2026.
   refs:
   - source: wikimapia-szetlewek
     locator: null

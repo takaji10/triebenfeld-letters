@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: trabczyn-f
 heading: Trąbczyn F
 register: null
@@ -12,10 +9,12 @@ location:
   relation: near
   relative_to: trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
-text_en: Locale which bordered the southern part of Trąbczyn. Likely created after the parcelling of Trąbczyn estate property in the late 19th century. Only one map noted this feature (Pełzucki 1901).
+  precision: identified
+  lat: 52.143178
+  lon: 17.958447
+text_en: Locale which bordered the southern part of Trąbczyn. Likely created after
+  the parcelling of Trąbczyn estate property in the late 19th century. Only one map
+  noted this feature (Pełzucki 1901).
 names:
 - form: Trąbczyn F
   year: null

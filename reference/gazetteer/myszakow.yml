@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: myszakowek
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.138392
+  lon: 17.799453
 text_en: Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek
   were simultaneously established before 1789 by the owner of the Łukom estate.[^49]
   *Miszokowo* (von Pfau 1770); with a windmill (Wreschen 1901). The Słownik geograficzny

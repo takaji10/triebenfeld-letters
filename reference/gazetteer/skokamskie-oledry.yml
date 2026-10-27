@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: skokamskie-oledry
 heading: Skokamskie Olędry
 register: null
@@ -15,7 +12,9 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Olęder settlement which existed north of Skokum. First appeared on Reymann 1834. *Skokamskie* *Olędry* did not appear on Richter 1843 and may have been amalgamated into Kolonia Sophienthal or Kolonia Ludwigslust.
+text_en: Olęder settlement which existed north of Skokum. First appeared on Reymann
+  1834. *Skokamskie* *Olędry* did not appear on Richter 1843 and may have been amalgamated
+  into Kolonia Sophienthal or Kolonia Ludwigslust.
 names:
 - form: Skokamskie Olędry
   year: null

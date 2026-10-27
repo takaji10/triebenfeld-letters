@@ -9,9 +9,9 @@ location:
   relation: southwest-of
   relative_to: lukom
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.104109
+  lon: 17.80693
 text_en: Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded
   as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen
   (1746-1818) who named it after his family name. Renamed to Anielewo in 1891 as part
@@ -50,3 +50,4 @@ footnotes:
     status: missing
   note: null
 review: []
+german: Ingelfingen

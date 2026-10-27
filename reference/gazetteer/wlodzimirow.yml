@@ -9,9 +9,9 @@ location:
   relation: south-of
   relative_to: michalinow-olesnicki
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.119722
+  lon: 17.894167
 text_en: Village south of Michalinów Oleśnicki. Named after Count Włodzimierz Miączyński
   (1811-1879), owner of the Trąbczyn estate. According to Breyer, Włodzimirów was
   established on German-owned land.[^96] First mentioned in an 1826 Trąbczyn Catholic

@@ -9,9 +9,9 @@ location:
   relation: west-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.12586
+  lon: 17.93077
 text_en: Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn
   Catholic parish metrical records as *Osynÿ*.[^56] Mentioned as a mill in a 1784
   court document which challenged the inheritance of the Trąbczyn estate and other

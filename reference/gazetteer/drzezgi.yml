@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: drzezgi
 heading: Drzęzgi
 register: null
@@ -15,7 +12,9 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Water mill which existed south of Maryantów. First mentioned in a 1630 marriage record from Trąbczyn Catholic parish metrical records.[^16] Only one map noted this feature (Reymann 1834).
+text_en: Water mill which existed south of Maryantów. First mentioned in a 1630 marriage
+  record from Trąbczyn Catholic parish metrical records.[^16] Only one map noted this
+  feature (Reymann 1834).
 names:
 - form: Drzęzgi
   year: null

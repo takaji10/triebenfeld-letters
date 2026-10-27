@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.135513
+  lon: 17.991958
 text_en: Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew
   were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska
   who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the

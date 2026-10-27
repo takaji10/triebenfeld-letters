@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: pyzdry
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.16899
+  lon: 17.90016
 text_en: Town east of Pyzdry. First mentioned as *Zagorovo* in a 1240 document where
   Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^115]
   Mentioned in a 1261 document where Prince Bolesław the Pious confirmed the earlier

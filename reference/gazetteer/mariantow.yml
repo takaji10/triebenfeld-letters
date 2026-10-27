@@ -9,9 +9,9 @@ location:
   relation: east-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.130278
+  lon: 17.966944
 text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a
   watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski
   records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]

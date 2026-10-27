@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: bieganszczyzna
 heading: Bieganszczyzna, Osada
 register: null
@@ -15,7 +12,9 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Settlement which existed east of Wrąbczynkowskie Holendry. A forestkeeper’s house (Pl. *leśniczówka*) was located nearby in the forest next to the settlement. Only one map noted these features (Richter 1843).
+text_en: Settlement which existed east of Wrąbczynkowskie Holendry. A forestkeeper’s
+  house (Pl. *leśniczówka*) was located nearby in the forest next to the settlement.
+  Only one map noted these features (Richter 1843).
 names:
 - form: Bieganszczyzna, Osada
   year: null

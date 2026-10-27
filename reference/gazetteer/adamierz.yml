@@ -9,9 +9,9 @@ location:
   relation: south-of
   relative_to: wrabczynkowskie-holendry
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.15
+  lon: 17.8
 text_en: Village south of Wrąbczynkowskie Holendry. First mentioned as *Nadamirza*
   in a 1377 document where Palatine Przecław of Kalisz and others protested to Louis
   I of Hungary that Wrąbczynek with the adjoining village of Adamierz belonged to

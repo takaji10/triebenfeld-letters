@@ -9,9 +9,9 @@ location:
   relation: north-of
   relative_to: zagorowo
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.180833
+  lon: 17.899722
 text_en: Isolated dwellings north of Zagórów. *Stary Przewoz Wymysław* (Perthées 1798)
   (may have been an old river crossing point); as a tavern *Wimislaw* (Zagorowo 1799);
   with a tavern and folwark (Gilly 1802). The Słownik geograficzny records it as a

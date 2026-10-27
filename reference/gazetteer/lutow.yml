@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: lutow
 heading: Łutow
 register: null
@@ -15,7 +12,8 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Possibly a site of windmills which existed south of Łukom. Only one map noted this feature (Richter 1843, Fig. 76).
+text_en: Possibly a site of windmills which existed south of Łukom. Only one map noted
+  this feature (Richter 1843, Fig. 76).
 names:
 - form: Łutow
   year: null

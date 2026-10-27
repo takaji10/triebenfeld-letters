@@ -9,9 +9,9 @@ location:
   relation: northwest-of
   relative_to: nowawies-trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.145075
+  lon: 17.927257
 text_en: Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and
   founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen
   and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie
@@ -48,3 +48,4 @@ footnotes:
     status: missing
   note: null
 review: []
+german: Adolfsberg

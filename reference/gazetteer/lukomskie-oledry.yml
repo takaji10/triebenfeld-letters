@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: lukomskie-oledry
 heading: Łukomskie Olędry
 register: lukomskie-oledry
@@ -15,7 +12,10 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Olęder settlement which existed west of Łukom. Not to be confused with the short-lived Lusnie/Łukomskie Olędry which existed on the southwest corner of the Trąbczyn estate from 1771-1775 (see *Lusnie Olędry*). First appeared on Perthées 1798; *Lukomer Holendry* (Gilly 1802).
+text_en: Olęder settlement which existed west of Łukom. Not to be confused with the
+  short-lived Lusnie/Łukomskie Olędry which existed on the southwest corner of the
+  Trąbczyn estate from 1771-1775 (see *Lusnie Olędry*). First appeared on Perthées
+  1798; *Lukomer Holendry* (Gilly 1802).
 names:
 - form: Łukomskie Olędry
   year: null

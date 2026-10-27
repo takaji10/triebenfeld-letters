@@ -9,9 +9,9 @@ location:
   relation: west-of
   relative_to: zagorowo
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.169433
+  lon: 17.687134
 text_en: Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the
   army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch
   of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established

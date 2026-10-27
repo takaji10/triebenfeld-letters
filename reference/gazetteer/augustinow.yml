@@ -9,9 +9,9 @@ location:
   relation: south-of
   relative_to: zagorowo
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.13698
+  lon: 17.87681
 text_en: Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded
   as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen
   (1746-1818) who named it after one of his children. Augustinhof was established
@@ -75,3 +75,4 @@ footnotes:
     status: missing
   note: null
 review: []
+german: Augustinhof

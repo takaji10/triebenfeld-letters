@@ -9,9 +9,9 @@ location:
   relation: south-of
   relative_to: lazinskie-oledry
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: identified
+  lat: 52.083274
+  lon: 17.957606
 text_en: Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an
   Olęder settlement which likely belonged to the Biskupice estate. Notes on the Grodziec
   Catholic parish taken by geographer Karól Perthées mentioned a possible alternative

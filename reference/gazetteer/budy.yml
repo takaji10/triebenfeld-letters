@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: budy
 heading: Budy
 register: null
@@ -13,9 +10,9 @@ location:
   relative_to: gradzyn
   belongs_to: gradzyn
   precision: described
-  lat: null
-  lon: null
-text_en: Hamlet north of and belonging to Grądzeń. *Budy do Huty* (Łukom 1766); *Budy Łukomskie* (Hollring 1804); *Lukamske Budy* (Richter 1843); as part of Huta Łukomska (Słupca 1957).
+text_en: Hamlet north of and belonging to Grądzeń. *Budy do Huty* (Łukom 1766); *Budy
+  Łukomskie* (Hollring 1804); *Lukamske Budy* (Richter 1843); as part of Huta Łukomska
+  (Słupca 1957).
 names:
 - form: Budy
   year: null
