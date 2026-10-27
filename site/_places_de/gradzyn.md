@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/gradzyn/"
 alt_url: "/places/gradzyn/"
 excerpt_separator: ""
-hits_docs: [{"id": "3", "uid": "app5314550221-3", "url": "/documents/app5314550221/3/", "n": 2}, {"id": "2", "uid": "app5314550221-2", "url": "/documents/app5314550221/2/", "n": 2}, {"id": "6", "uid": "app5314550221-6", "url": "/documents/app5314550221/6/", "n": 4}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "n": 16}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "n": 1}, {"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "n": 1}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "n": 2}, {"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "n": 2}, {"id": "151", "uid": "oe1bu9454-151", "url": "/documents/oe1bu9454/151/", "n": 1}, {"id": "1", "uid": "iharep162nr295-1", "url": "/documents/iharep162nr295/1/", "n": 1}, {"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "n": 3}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "n": 1}]
+hits_docs: [{"id": "3", "uid": "app5314550221-3", "url": "/documents/app5314550221/3/", "unit_label": "APP 53/1455/0/2/21", "n": 2}, {"id": "2", "uid": "app5314550221-2", "url": "/documents/app5314550221/2/", "unit_label": "APP 53/1455/0/2/21", "n": 2}, {"id": "6", "uid": "app5314550221-6", "url": "/documents/app5314550221/6/", "unit_label": "APP 53/1455/0/2/21", "n": 4}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "unit_label": "53/17/0/-/Konin Gr.145", "n": 16}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}, {"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "151", "uid": "oe1bu9454-151", "url": "/documents/oe1bu9454/151/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "iharep162nr295-1", "url": "/documents/iharep162nr295/1/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 20
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 20
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Grądzeń</i>; <i>Pustkowie Grądziem</i> 1461<sup class="gfn"><a href="#fn-21">21</a></sup>; <i>Rosaszewska</i><sup class="gfn"><a href="#fn-22">22</a></sup>; <i>Karczemne Gory</i><sup class="gfn"><a href="#fn-22">22</a></sup>; <i>Karczemne Ługi</i><sup class="gfn"><a href="#fn-22">22</a></sup>; <i>Grzandzen</i> 1365<sup class="gfn"><a href="#fn-24">24</a></sup>; <i>Hermenau</i> 1787<sup class="gfn"><a href="#fn-24">24</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.800530000000002%2C52.08934%2C17.84053%2C52.129340000000006&amp;layer=mapnik&amp;marker=52.10934%2C17.82053" title="Grądzeń"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.10934&amp;mlon=17.82053#map=15/52.10934/17.82053" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Grądzeń*; *Pustkowie Grądziem* 1461 [^21]; *Rosaszewska* [^22]; *Karczemne Gory* [^22]; *Karczemne Ługi* [^22]; *Grzandzen* 1365 [^24]; *Hermenau* 1787 [^24].
 
 Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege document from Ląd Abbey, which was sold by the German Bochneth family to the monastery for the sum of 400 Cologne marks.[^21] *Pustkowie Grądziem* included three farms in Łukom, the forests of *Grądziem*, *Chmielniki*, and *Łome* (the latter forest which extended up to the road known as *Rosaszewska* that ran from Łukom and Łomow to the inns known as *Karczemne Gory* and *Karczemne Ługi*), the Pyzdry crag/cliff, and the meadow above Imielno.[^22] *Grązien* (Łukom 1766); *Pustkowie Grądzin* (Perthées 1798); *Grondzyn* (Gilly 1802); *Haulanderei Grądzyn* as part of the Kopojno estate (Hollring 1804); with a customs office as *Grazin* (Richter 1843); *Hol. Grądzeń* (Chrzanowski 1858). The Słownik geograficzny records it as a village, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 10 houses and 80 inhabitants at the time of the Słownik.[^23] Nazwy miejscowe Polski records the name as *Grzandzen* by 1365, later as *Grądzeń* (1827).[^24]
 
@@ -44,10 +35,17 @@ Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege 
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.800530000000002%2C52.08934%2C17.84053%2C52.129340000000006&amp;layer=mapnik&amp;marker=52.10934%2C17.82053" title="Grądzeń" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.10934&amp;mlon=17.82053#map=15/52.10934/17.82053" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

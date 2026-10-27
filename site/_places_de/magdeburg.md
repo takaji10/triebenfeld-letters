@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/magdeburg/"
 alt_url: "/places/magdeburg/"
 excerpt_separator: ""
-hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 1}, {"id": "25", "uid": "oe1bu9454-25", "url": "/documents/oe1bu9454/25/", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "n": 1}]
+hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "25", "uid": "oe1bu9454-25", "url": "/documents/oe1bu9454/25/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.6076%2C52.1005%2C11.647599999999999%2C52.1405&amp;layer=mapnik&amp;marker=52.1205%2C11.6276" title="Magdeburg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1205&amp;mlon=11.6276#map=15/52.1205/11.6276" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.6076%2C52.1005%2C11.647599999999999%2C52.1405&amp;layer=mapnik&amp;marker=52.1205%2C11.6276" title="Magdeburg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1205&amp;mlon=11.6276#map=15/52.1205/11.6276" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

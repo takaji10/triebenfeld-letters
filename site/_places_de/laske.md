@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/laske/"
 alt_url: "/places/laske/"
 excerpt_separator: ""
-hits_docs: [{"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "n": 4}, {"id": "3", "uid": "oe1bu14525-3", "url": "/documents/oe1bu14525/3/", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "n": 2}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "n": 1}]
+hits_docs: [{"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3570", "n": 4}, {"id": "3", "uid": "oe1bu14525-3", "url": "/documents/oe1bu14525/3/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 6
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 6
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

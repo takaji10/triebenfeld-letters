@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">northwest of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trąbczyn Dworski</i>; <i>Trąmbczyn Dwor</i> 1795<sup class="gfn"><a href="#fn-92">92</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.933889%2C52.126943999999995%2C17.973889%2C52.166944&amp;layer=mapnik&amp;marker=52.146944%2C17.953889" title="Trąbczyn Dworski"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.146944&amp;mlon=17.953889#map=15/52.146944/17.953889" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trąbczyn Dworski*; *Trąmbczyn Dwor* 1795 [^92].
 
 Village northwest of Trąbczyn. Originally the location of a manor house. First mentioned in a 1795 birth record from Trąbczyn Catholic parish metrical records as *Trąmbczyn Dwor*.[^92] *[Trąbczyn] Dw. [Dwór]* (Richter 1843).
 
@@ -35,6 +26,13 @@ Village northwest of Trąbczyn. Originally the location of a manor house. First 
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.933889%2C52.126943999999995%2C17.973889%2C52.166944&amp;layer=mapnik&amp;marker=52.146944%2C17.953889" title="Trąbczyn Dworski" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.146944&amp;mlon=17.953889#map=15/52.146944/17.953889" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

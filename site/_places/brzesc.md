@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/brzesc/"
 alt_url: "/de/orte/brzesc/"
 excerpt_separator: ""
-hits_docs: [{"id": "6", "uid": "kdw-6", "url": "/documents/kdw/6/", "n": 2}, {"id": "28", "uid": "oe1bu14525-28", "url": "/documents/oe1bu14525/28/", "n": 1}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "n": 1}]
+hits_docs: [{"id": "6", "uid": "kdw-6", "url": "/documents/kdw/6/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 2}, {"id": "28", "uid": "oe1bu14525-28", "url": "/documents/oe1bu14525/28/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.403507%2C52.539199999999994%2C18.443507%2C52.5792&amp;layer=mapnik&amp;marker=52.5592%2C18.423507" title="Brześć"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5592&amp;mlon=18.423507#map=15/52.5592/18.423507" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.403507%2C52.539199999999994%2C18.443507%2C52.5792&amp;layer=mapnik&amp;marker=52.5592%2C18.423507" title="Brześć" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5592&amp;mlon=18.423507#map=15/52.5592/18.423507" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

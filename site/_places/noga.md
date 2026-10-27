@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Forest</p>
-
-<p class="refs" lang="en">northwest and southeast of Huta.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Noga</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Noga*.
 
 Forest northwest and southeast of Huta. Listed as a forest settlement (Pl. *osada leśna*) with one house and five inhabitants in the Geographical Dictionary of the Kingdom of Poland in 1881.[^52] Only one map noted this feature (Kozłowski 1861).
 

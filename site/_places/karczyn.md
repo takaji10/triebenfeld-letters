@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/karczyn/"
 alt_url: "/de/orte/karczyn/"
 excerpt_separator: ""
-hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "n": 1}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "n": 1}]
+hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

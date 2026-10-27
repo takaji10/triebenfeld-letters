@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/neuchatel/"
 alt_url: "/de/orte/neuchatel/"
 excerpt_separator: ""
-hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 1}, {"id": "264", "uid": "oe1bu9454-264", "url": "/documents/oe1bu9454/264/", "n": 2}, {"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "n": 1}]
+hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "264", "uid": "oe1bu9454-264", "url": "/documents/oe1bu9454/264/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=6.909000000000001%2C46.9719%2C6.949%2C47.011900000000004&amp;layer=mapnik&amp;marker=46.9919%2C6.929" title="Neuchâtel"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=46.9919&amp;mlon=6.929#map=15/46.9919/6.929" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=6.909000000000001%2C46.9719%2C6.949%2C47.011900000000004&amp;layer=mapnik&amp;marker=46.9919%2C6.929" title="Neuchâtel" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=46.9919&amp;mlon=6.929#map=15/46.9919/6.929" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

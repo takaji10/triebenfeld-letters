@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Place</p>
-
-<p class="refs" lang="en">west of Stanisławów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Garbin</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Garbin*.
 
 West of Stanisławów. Listed as a village in the Geographical Dictionary of the Kingdom of Poland in 1881.[^19] Only one map noted this feature, as a field (Kozłowski 1861).
 

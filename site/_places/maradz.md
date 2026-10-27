@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Forest</p>
-
-<p class="refs" lang="en">southwest of Stanisławów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Maradz</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Maradz*.
 
 Forest southwest of Stanisławów. Appeared as a forest (Kozłowski 1861) and as a settlement (Messtischblatt 1940).
 

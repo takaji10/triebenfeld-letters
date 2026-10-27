@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/wierzbno/"
 alt_url: "/places/wierzbno/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "n": 6}]
+hits_docs: [{"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 6}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Gut</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.872426%2C52.250024999999994%2C17.912426%2C52.290025&amp;layer=mapnik&amp;marker=52.270025%2C17.892426" title="Wierzbno"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.270025&amp;mlon=17.892426#map=15/52.270025/17.892426" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.872426%2C52.250024999999994%2C17.912426%2C52.290025&amp;layer=mapnik&amp;marker=52.270025%2C17.892426" title="Wierzbno" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.270025&amp;mlon=17.892426#map=15/52.270025/17.892426" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

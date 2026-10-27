@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/kirchberg/"
 alt_url: "/places/kirchberg/"
 excerpt_separator: ""
-hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "n": 1}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "n": 1}, {"id": "279", "uid": "oe1bu9454-279", "url": "/documents/oe1bu9454/279/", "n": 1}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "n": 1}]
+hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "279", "uid": "oe1bu9454-279", "url": "/documents/oe1bu9454/279/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

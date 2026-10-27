@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/frankfurt-an-der-oder/"
 alt_url: "/de/orte/frankfurt-an-der-oder/"
 excerpt_separator: ""
-hits_docs: [{"id": "122", "uid": "oe1bu9454-122", "url": "/documents/oe1bu9454/122/", "n": 1}, {"id": "129", "uid": "oe1bu9454-129", "url": "/documents/oe1bu9454/129/", "n": 1}, {"id": "131", "uid": "oe1bu9454-131", "url": "/documents/oe1bu9454/131/", "n": 1}, {"id": "132", "uid": "oe1bu9454-132", "url": "/documents/oe1bu9454/132/", "n": 1}, {"id": "133", "uid": "oe1bu9454-133", "url": "/documents/oe1bu9454/133/", "n": 2}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "n": 1}, {"id": "137", "uid": "oe1bu9454-137", "url": "/documents/oe1bu9454/137/", "n": 1}, {"id": "140", "uid": "oe1bu9454-140", "url": "/documents/oe1bu9454/140/", "n": 3}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "n": 4}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "n": 4}, {"id": "5", "uid": "oe1bu14526-5", "url": "/documents/oe1bu14526/5/", "n": 2}, {"id": "4", "uid": "oe1bu14526-4", "url": "/documents/oe1bu14526/4/", "n": 3}, {"id": "23", "uid": "oe1bu14526-23", "url": "/documents/oe1bu14526/23/", "n": 14}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "n": 1}, {"id": "10", "uid": "oe1bu9454-10", "url": "/documents/oe1bu9454/10/", "n": 1}, {"id": "5", "uid": "iiihamdaiiinr12765-5", "url": "/documents/iiihamdaiiinr12765/5/", "n": 1}, {"id": "10", "uid": "iiihamdaiiinr12765-10", "url": "/documents/iiihamdaiiinr12765/10/", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "n": 2}]
+hits_docs: [{"id": "122", "uid": "oe1bu9454-122", "url": "/documents/oe1bu9454/122/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "129", "uid": "oe1bu9454-129", "url": "/documents/oe1bu9454/129/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "131", "uid": "oe1bu9454-131", "url": "/documents/oe1bu9454/131/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "132", "uid": "oe1bu9454-132", "url": "/documents/oe1bu9454/132/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "133", "uid": "oe1bu9454-133", "url": "/documents/oe1bu9454/133/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "137", "uid": "oe1bu9454-137", "url": "/documents/oe1bu9454/137/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "140", "uid": "oe1bu9454-140", "url": "/documents/oe1bu9454/140/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "unit_label": "Oe 1 Bü 14526", "n": 4}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "unit_label": "Oe 1 Bü 14526", "n": 4}, {"id": "5", "uid": "oe1bu14526-5", "url": "/documents/oe1bu14526/5/", "unit_label": "Oe 1 Bü 14526", "n": 2}, {"id": "4", "uid": "oe1bu14526-4", "url": "/documents/oe1bu14526/4/", "unit_label": "Oe 1 Bü 14526", "n": 3}, {"id": "23", "uid": "oe1bu14526-23", "url": "/documents/oe1bu14526/23/", "unit_label": "Oe 1 Bü 14526", "n": 14}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "10", "uid": "oe1bu9454-10", "url": "/documents/oe1bu9454/10/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "5", "uid": "iiihamdaiiinr12765-5", "url": "/documents/iiihamdaiiinr12765/5/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "10", "uid": "iiihamdaiiinr12765-10", "url": "/documents/iiihamdaiiinr12765/10/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}]
 hits_docs_count: 19
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 19
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=14.5306%2C52.3212%2C14.570599999999999%2C52.361200000000004&amp;layer=mapnik&amp;marker=52.3412%2C14.5506" title="Frankfurt an der Oder"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3412&amp;mlon=14.5506#map=15/52.3412/14.5506" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=14.5306%2C52.3212%2C14.570599999999999%2C52.361200000000004&amp;layer=mapnik&amp;marker=52.3412%2C14.5506" title="Frankfurt an der Oder" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3412&amp;mlon=14.5506#map=15/52.3412/14.5506" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

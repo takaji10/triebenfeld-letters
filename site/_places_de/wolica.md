@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/wolica/"
 alt_url: "/places/wolica/"
 excerpt_separator: ""
-hits_docs: [{"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "n": 2}, {"id": "41", "uid": "oe1bu14525-41", "url": "/documents/oe1bu14525/41/", "n": 1}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "n": 2}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "n": 1}]
+hits_docs: [{"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "41", "uid": "oe1bu14525-41", "url": "/documents/oe1bu14525/41/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 7
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 7
 
 <section class="place-gaz">
 
-<p class="refs">Gut</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

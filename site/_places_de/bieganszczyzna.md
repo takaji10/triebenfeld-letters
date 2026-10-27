@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Siedlung</p>
-
-<p class="refs" lang="en">east of Wrąbczynkowskie Holendry.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Bieganszczyzna, Osada</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Bieganszczyzna, Osada*.
 
 Settlement which existed east of Wrąbczynkowskie Holendry. A forestkeeper’s house (Pl. *leśniczówka*) was located nearby in the forest next to the settlement. Only one map noted these features (Richter 1843).
 

@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">east of Myszakówek.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Myszaków</i>; <i>Misszakowo</i> 1413<sup class="gfn"><a href="#fn-51">51</a></sup>; <i>Myszacowo</i> 1429<sup class="gfn"><a href="#fn-51">51</a></sup>; <i>Missakow</i> 1565<sup class="gfn"><a href="#fn-51">51</a></sup>; <i>Myssakow</i> 1579<sup class="gfn"><a href="#fn-51">51</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.779453%2C52.118392%2C17.819453%2C52.158392000000006&amp;layer=mapnik&amp;marker=52.138392%2C17.799453" title="Myszaków"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.138392&amp;mlon=17.799453#map=15/52.138392/17.799453" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Myszaków*; *Misszakowo* 1413 [^51]; *Myszacowo* 1429 [^51]; *Missakow* 1565 [^51]; *Myssakow* 1579 [^51].
 
 Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek were simultaneously established before 1789 by the owner of the Łukom estate.[^49] *Miszokowo* (von Pfau 1770); with a windmill (Wreschen 1901). The Słownik geograficzny records it (with Myszakówek) as a village, folwark and mill in gmina Trąbczyn, parish of Zagórów, powiat słupecki — the two villages together 29 houses and 380 inhabitants, the folwark 3 houses and 39, the mill 1 and 2, at the time of the Słownik.[^50] Nazwy miejscowe Polski records the name as *Misszakowo* by 1413, later as *Myszaków* (1827).[^51]
 
@@ -40,6 +31,13 @@ Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek we
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.779453%2C52.118392%2C17.819453%2C52.158392000000006&amp;layer=mapnik&amp;marker=52.138392%2C17.799453" title="Myszaków" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.138392&amp;mlon=17.799453#map=15/52.138392/17.799453" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

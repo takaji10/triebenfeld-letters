@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Folwark</p>
-
-<p class="refs" lang="en">southwest of Zagórów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Jeziorko</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Jeziorko*.
 
 Folwark which existed southwest of Zagórów. Today part of the southwest outskirts of Zagórów. Only one map noted this feature (Richter 1843).
 

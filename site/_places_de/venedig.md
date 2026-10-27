@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/venedig/"
 alt_url: "/places/venedig/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "ihagrrep7cnr1414-2", "url": "/documents/ihagrrep7cnr1414/2/", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr1414-1", "url": "/documents/ihagrrep7cnr1414/1/", "n": 2}, {"id": "3", "uid": "ihagrrep7cnr1414-3", "url": "/documents/ihagrrep7cnr1414/3/", "n": 1}, {"id": "2", "uid": "iiihamdaiiinr12366-2", "url": "/documents/iiihamdaiiinr12366/2/", "n": 3}]
+hits_docs: [{"id": "2", "uid": "ihagrrep7cnr1414-2", "url": "/documents/ihagrrep7cnr1414/2/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr1414-1", "url": "/documents/ihagrrep7cnr1414/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 2}, {"id": "3", "uid": "ihagrrep7cnr1414-3", "url": "/documents/ihagrrep7cnr1414/3/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "2", "uid": "iiihamdaiiinr12366-2", "url": "/documents/iiihamdaiiinr12366/2/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 3}]
 hits_docs_count: 4
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=12.2955%2C45.4208%2C12.3355%2C45.460800000000006&amp;layer=mapnik&amp;marker=45.4408%2C12.3155" title="Venice"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.4408&amp;mlon=12.3155#map=15/45.4408/12.3155" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=12.2955%2C45.4208%2C12.3355%2C45.460800000000006&amp;layer=mapnik&amp;marker=45.4408%2C12.3155" title="Venice" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.4408&amp;mlon=12.3155#map=15/45.4408/12.3155" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

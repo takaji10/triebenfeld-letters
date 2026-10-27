@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Einzelsiedlung</p>
-
-<p class="refs" lang="en">north of and belonging to Łazińsk Pierwszy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Grabina</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.893056%2C52.091944%2C17.933056%2C52.131944000000004&amp;layer=mapnik&amp;marker=52.111944%2C17.913056" title="Grabina"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.111944&amp;mlon=17.913056#map=15/52.111944/17.913056" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Grabina*.
 
 Isolated dwellings north of and belonging to Łazińsk Pierwszy. The Geographical Dictionary of the Kingdom of Poland in 1892 listed Grabina and Czerwonka as the same place (pl. “*Grabina al[bo] Czerwonka*”),[^20] though the two places are in separate locations on modern-day maps. *Osada Grabina* (Richter 1843).
 
@@ -35,6 +26,13 @@ Isolated dwellings north of and belonging to Łazińsk Pierwszy. The Geographica
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.893056%2C52.091944%2C17.933056%2C52.131944000000004&amp;layer=mapnik&amp;marker=52.111944%2C17.913056" title="Grabina" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.111944&amp;mlon=17.913056#map=15/52.111944/17.913056" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Haulandsiedlung</p>
-
-<p class="refs" lang="en">north of Skokum.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Skokamskie Olędry</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Skokamskie Olędry*.
 
 Olęder settlement which existed north of Skokum. First appeared on Reymann 1834. *Skokamskie* *Olędry* did not appear on Richter 1843 and may have been amalgamated into Kolonia Sophienthal or Kolonia Ludwigslust.
 

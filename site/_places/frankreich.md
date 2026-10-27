@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/frankreich/"
 alt_url: "/de/orte/frankreich/"
 excerpt_separator: ""
-hits_docs: [{"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "n": 1}, {"id": "195", "uid": "oe1bu9454-195", "url": "/documents/oe1bu9454/195/", "n": 1}, {"id": "205", "uid": "oe1bu9454-205", "url": "/documents/oe1bu9454/205/", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "n": 1}, {"id": "242", "uid": "oe1bu9454-242", "url": "/documents/oe1bu9454/242/", "n": 1}, {"id": "248", "uid": "oe1bu9454-248", "url": "/documents/oe1bu9454/248/", "n": 2}, {"id": "262", "uid": "oe1bu9454-262", "url": "/documents/oe1bu9454/262/", "n": 1}, {"id": "267", "uid": "oe1bu9454-267", "url": "/documents/oe1bu9454/267/", "n": 1}, {"id": "2", "uid": "oe1bu9454-2", "url": "/documents/oe1bu9454/2/", "n": 1}, {"id": "10", "uid": "oe1bu9454-10", "url": "/documents/oe1bu9454/10/", "n": 3}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "n": 1}, {"id": "284", "uid": "oe1bu9454-284", "url": "/documents/oe1bu9454/284/", "n": 3}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "n": 5}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "n": 1}]
+hits_docs: [{"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "195", "uid": "oe1bu9454-195", "url": "/documents/oe1bu9454/195/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "205", "uid": "oe1bu9454-205", "url": "/documents/oe1bu9454/205/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "242", "uid": "oe1bu9454-242", "url": "/documents/oe1bu9454/242/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "248", "uid": "oe1bu9454-248", "url": "/documents/oe1bu9454/248/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "262", "uid": "oe1bu9454-262", "url": "/documents/oe1bu9454/262/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "267", "uid": "oe1bu9454-267", "url": "/documents/oe1bu9454/267/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "2", "uid": "oe1bu9454-2", "url": "/documents/oe1bu9454/2/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "10", "uid": "oe1bu9454-10", "url": "/documents/oe1bu9454/10/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "284", "uid": "oe1bu9454-284", "url": "/documents/oe1bu9454/284/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 14
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 14
 
 <section class="place-gaz">
 
-<p class="refs">country</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

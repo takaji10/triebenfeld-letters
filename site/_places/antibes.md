@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/antibes/"
 alt_url: "/de/orte/antibes/"
 excerpt_separator: ""
-hits_docs: [{"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "n": 1}]
+hits_docs: [{"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=7.103800000000001%2C43.5605%2C7.1438%2C43.600500000000004&amp;layer=mapnik&amp;marker=43.5805%2C7.1238" title="Antibes"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=43.5805&amp;mlon=7.1238#map=15/43.5805/7.1238" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=7.103800000000001%2C43.5605%2C7.1438%2C43.600500000000004&amp;layer=mapnik&amp;marker=43.5805%2C7.1238" title="Antibes" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=43.5805&amp;mlon=7.1238#map=15/43.5805/7.1238" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

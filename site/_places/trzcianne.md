@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Field</p>
-
-<p class="refs" lang="en">north of Osiny.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trzcianne</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trzcianne*.
 
 Field which existed north of Osiny. Only one map noted this feature (Kozłowski 1861).
 

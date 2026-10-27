@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Settlement</p>
-
-<p class="refs" lang="en">a forestry settlement in the Słownik era, gmina and parish of Zagórów, powiat słupecki.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Rogal</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Rogal*.
 
 Forester's settlement in the Zagórów area, one house at the time of the Słownik. The Słownik geograficzny records it as a forestry settlement, gmina and parish of Zagórów, powiat słupecki, 15 versts from Słupca, with 1 house.[^1]
 

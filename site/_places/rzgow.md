@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/rzgow/"
 alt_url: "/de/orte/rzgow/"
 excerpt_separator: ""
-hits_docs: [{"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "n": 3}, {"id": "6", "uid": "kdw-6", "url": "/documents/kdw/6/", "n": 4}, {"id": "11", "uid": "app53170koningr117-11", "url": "/documents/app53170koningr117/11/", "n": 2}, {"id": "12", "uid": "app53170koningr117-12", "url": "/documents/app53170koningr117/12/", "n": 1}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "n": 1}, {"id": "23", "uid": "oe1bu14525-23", "url": "/documents/oe1bu14525/23/", "n": 5}]
+hits_docs: [{"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 3}, {"id": "6", "uid": "kdw-6", "url": "/documents/kdw/6/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 4}, {"id": "11", "uid": "app53170koningr117-11", "url": "/documents/app53170koningr117/11/", "unit_label": "53/17/0/-/Konin Gr.117", "n": 2}, {"id": "12", "uid": "app53170koningr117-12", "url": "/documents/app53170koningr117/12/", "unit_label": "53/17/0/-/Konin Gr.117", "n": 1}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "23", "uid": "oe1bu14525-23", "url": "/documents/oe1bu14525/23/", "unit_label": "Oe 1 Bü 14525", "n": 5}]
 hits_docs_count: 7
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 7
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.031179%2C52.133576999999995%2C18.071179%2C52.173577&amp;layer=mapnik&amp;marker=52.153577%2C18.051179" title="Rzgów"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.153577&amp;mlon=18.051179#map=15/52.153577/18.051179" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.031179%2C52.133576999999995%2C18.071179%2C52.173577&amp;layer=mapnik&amp;marker=52.153577%2C18.051179" title="Rzgów" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.153577&amp;mlon=18.051179#map=15/52.153577/18.051179" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

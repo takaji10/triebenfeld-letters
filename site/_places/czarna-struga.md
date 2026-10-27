@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">River</p>
-
-<p class="refs" lang="en">flowing into the Warta River and running approximately from north of Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south to Grodziec.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Czarna Struga</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Czarna Struga*.
 
 River flowing into the Warta River and running approximately from north of Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south to Grodziec. A hammer mill (Ger. *Frischfeuer*) existed along the Czarna Struga river south of Mariantów and was depicted on Gilly 1802.
 

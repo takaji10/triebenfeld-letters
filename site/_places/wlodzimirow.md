@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">south of Michalinów Oleśnicki.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Włodzimirów</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.874167%2C52.099722%2C17.914167%2C52.139722000000006&amp;layer=mapnik&amp;marker=52.119722%2C17.894167" title="Włodzimirów"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119722&amp;mlon=17.894167#map=15/52.119722/17.894167" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Włodzimirów*.
 
 Village south of Michalinów Oleśnicki. Named after Count Włodzimierz Miączyński (1811-1879), owner of the Trąbczyn estate. According to Breyer, Włodzimirów was established on German-owned land.[^96] First mentioned in an 1826 Trąbczyn Catholic parish metrical record.[^97] Appeared as a folwark (Richter 1843); *Kolonia Włodzimirów* (Pełzucki 1901). The Słownik geograficzny records it as a folwark, parish of Trąbczyn, powiat słupecki, with 1 house and 17 inhabitants at the time of the Słownik.[^98]
 
@@ -40,6 +31,13 @@ Village south of Michalinów Oleśnicki. Named after Count Włodzimierz Miączy�
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.874167%2C52.099722%2C17.914167%2C52.139722000000006&amp;layer=mapnik&amp;marker=52.119722%2C17.894167" title="Włodzimirów" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119722&amp;mlon=17.894167#map=15/52.119722/17.894167" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

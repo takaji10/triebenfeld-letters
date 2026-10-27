@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Hamlet</p>
-
-<p class="refs" lang="en">west of and belonging to Michalinów Trąbczyński.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trąbczyn B</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.895557%2C52.096846%2C17.935557%2C52.136846000000006&amp;layer=mapnik&amp;marker=52.116846%2C17.915557" title="Trąbczyn B"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116846&amp;mlon=17.915557#map=15/52.116846/17.915557" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trąbczyn B*.
 
 Hamlet west of and belonging to Michalinów Trąbczyński. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records around 1920.[^88] Likely created after the parcelling of Trąbczyn estate property in the late 19th century.
 
@@ -35,6 +26,13 @@ Hamlet west of and belonging to Michalinów Trąbczyński. Appeared in Zagórów
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.895557%2C52.096846%2C17.935557%2C52.136846000000006&amp;layer=mapnik&amp;marker=52.116846%2C17.915557" title="Trąbczyn B" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116846&amp;mlon=17.915557#map=15/52.116846/17.915557" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

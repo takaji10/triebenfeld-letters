@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
-<p class="refs" lang="en">south of Zagórów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Stawiszyn</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.091541%2C51.898236%2C18.131541%2C51.938236&amp;layer=mapnik&amp;marker=51.918236%2C18.111541" title="Stawiszyn"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.918236&amp;mlon=18.111541#map=15/51.918236/18.111541" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Stawiszyn*.
 
 Town south of Zagórów. Its Evangelical cemetery appears to have continued to be used after World War II, with some recent burials recorded there; the survey of the cemeteries records three Zelmer graves in it.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.091541%2C51.898236%2C18.131541%2C51.938236&amp;layer=mapnik&amp;marker=51.918236%2C18.111541" title="Stawiszyn" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.918236&amp;mlon=18.111541#map=15/51.918236/18.111541" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

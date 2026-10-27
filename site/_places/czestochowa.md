@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/czestochowa/"
 alt_url: "/de/orte/czestochowa/"
 excerpt_separator: ""
-hits_docs: [{"id": "63", "uid": "oe1bu9454-63", "url": "/documents/oe1bu9454/63/", "n": 1}]
+hits_docs: [{"id": "63", "uid": "oe1bu9454-63", "url": "/documents/oe1bu9454/63/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=19.1003%2C50.791799999999995%2C19.1403%2C50.8318&amp;layer=mapnik&amp;marker=50.8118%2C19.1203" title="Częstochowa"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.8118&amp;mlon=19.1203#map=15/50.8118/19.1203" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=19.1003%2C50.791799999999995%2C19.1403%2C50.8318&amp;layer=mapnik&amp;marker=50.8118%2C19.1203" title="Częstochowa" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.8118&amp;mlon=19.1203#map=15/50.8118/19.1203" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

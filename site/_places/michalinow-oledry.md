@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">southwest of Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Michalinów Trąbczyński</i>; <i>Michalinów Olędry</i>; <i>Cholędry Michalinowo</i> 1809<sup class="gfn"><a href="#fn-48">48</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.912797%2C52.099801%2C17.952797%2C52.139801000000006&amp;layer=mapnik&amp;marker=52.119801%2C17.932797" title="Michalinów Trąbczyński"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119801&amp;mlon=17.932797#map=15/52.119801/17.932797" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Michalinów Trąbczyński*; *Michalinów Olędry*; *Cholędry Michalinowo* 1809 [^48].
 
 Village southwest of Łazy. Michalinów Trąbczyński was first mentioned as *Cholędry Michalinowo* in a 1809 birth record from Trąbczyn Catholic parish metrical records.[^48] Possibly named after Michalina Prusimska (1778-1851), who was owner of the Trąbczyn estate in the first half of the 19th century. In the 20th century, Michalinów Olędry became known as Michalinów Trąbczyński. *Michalinowo* (Colberg 1827); *Hol. Michalinowo* (with its location erroneously switched with Łazińskie Olędry on Richter 1843 and Slupetsk 1800); *[Kolonia]* *Michalinow* (Kozłowski 1861); *Michalinów* (Messtischblatt 1940).
 
@@ -35,6 +26,13 @@ Village southwest of Łazy. Michalinów Trąbczyński was first mentioned as *Ch
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.912797%2C52.099801%2C17.952797%2C52.139801000000006&amp;layer=mapnik&amp;marker=52.119801%2C17.932797" title="Michalinów Trąbczyński" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119801&amp;mlon=17.932797#map=15/52.119801/17.932797" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

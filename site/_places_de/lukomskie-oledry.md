@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Haulandsiedlung</p>
-
-<p class="refs" lang="en">west of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Łukomskie Olędry</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Łukomskie Olędry*.
 
 Olęder settlement which existed west of Łukom. Not to be confused with the short-lived Lusnie/Łukomskie Olędry which existed on the southwest corner of the Trąbczyn estate from 1771-1775 (see *Lusnie Olędry*). First appeared on Perthées 1798; *Lukomer Holendry* (Gilly 1802).
 

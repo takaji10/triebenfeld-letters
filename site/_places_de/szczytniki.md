@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/szczytniki/"
 alt_url: "/places/szczytniki/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 6}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 6}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Siedlung</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.312518%2C51.667218%2C18.352518%2C51.707218000000005&amp;layer=mapnik&amp;marker=51.687218%2C18.332518" title="Szczytniki"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.687218&amp;mlon=18.332518#map=15/51.687218/18.332518" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.312518%2C51.667218%2C18.352518%2C51.707218000000005&amp;layer=mapnik&amp;marker=51.687218%2C18.332518" title="Szczytniki" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.687218&amp;mlon=18.332518#map=15/51.687218/18.332518" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

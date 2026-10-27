@@ -15,12 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Place</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Potaszniki</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Potaszniki*.
 
 Location unknown. Mentioned in Trąbczyn Catholic parish metrical records in the latter half of the 18th century. In one case, a record from 1768 referred to this place as “Potaszniki v[el] Huta” in Latin (“Potaszniki or Huta” in English).[^62] Possibly named after a local noble(?) family with the same last name (*Potasznicki*) as seen in metrical records.
 

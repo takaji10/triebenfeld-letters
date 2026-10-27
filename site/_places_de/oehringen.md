@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/oehringen/"
 alt_url: "/places/oehringen/"
 excerpt_separator: ""
-hits_docs: [{"id": "96", "uid": "oe1bu9454-96", "url": "/documents/oe1bu9454/96/", "n": 1}, {"id": "99", "uid": "oe1bu9454-99", "url": "/documents/oe1bu9454/99/", "n": 1}, {"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "n": 1}, {"id": "167", "uid": "oe1bu9454-167", "url": "/documents/oe1bu9454/167/", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3705-1", "url": "/documents/ihagrrep7cnr3705/1/", "n": 1}, {"id": "190", "uid": "oe1bu9454-190", "url": "/documents/oe1bu9454/190/", "n": 1}, {"id": "185", "uid": "oe1bu9454-185", "url": "/documents/oe1bu9454/185/", "n": 1}, {"id": "187", "uid": "oe1bu9454-187", "url": "/documents/oe1bu9454/187/", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "36", "uid": "oe1bu9454-36", "url": "/documents/oe1bu9454/36/", "n": 1}, {"id": "38", "uid": "oe1bu9454-38", "url": "/documents/oe1bu9454/38/", "n": 1}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "n": 3}, {"id": "211", "uid": "oe1bu9454-211", "url": "/documents/oe1bu9454/211/", "n": 1}, {"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "n": 1}, {"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "n": 1}, {"id": "259", "uid": "oe1bu9454-259", "url": "/documents/oe1bu9454/259/", "n": 1}, {"id": "272", "uid": "oe1bu9454-272", "url": "/documents/oe1bu9454/272/", "n": 2}, {"id": "15", "uid": "oe1bu9454-15", "url": "/documents/oe1bu9454/15/", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "n": 1}, {"id": "27", "uid": "iiihamdaiiinr12765-27", "url": "/documents/iiihamdaiiinr12765/27/", "n": 1}]
+hits_docs: [{"id": "96", "uid": "oe1bu9454-96", "url": "/documents/oe1bu9454/96/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "99", "uid": "oe1bu9454-99", "url": "/documents/oe1bu9454/99/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "167", "uid": "oe1bu9454-167", "url": "/documents/oe1bu9454/167/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3705-1", "url": "/documents/ihagrrep7cnr3705/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3705", "n": 1}, {"id": "190", "uid": "oe1bu9454-190", "url": "/documents/oe1bu9454/190/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "185", "uid": "oe1bu9454-185", "url": "/documents/oe1bu9454/185/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "187", "uid": "oe1bu9454-187", "url": "/documents/oe1bu9454/187/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "36", "uid": "oe1bu9454-36", "url": "/documents/oe1bu9454/36/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "38", "uid": "oe1bu9454-38", "url": "/documents/oe1bu9454/38/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "211", "uid": "oe1bu9454-211", "url": "/documents/oe1bu9454/211/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "259", "uid": "oe1bu9454-259", "url": "/documents/oe1bu9454/259/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "272", "uid": "oe1bu9454-272", "url": "/documents/oe1bu9454/272/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "15", "uid": "oe1bu9454-15", "url": "/documents/oe1bu9454/15/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "27", "uid": "iiihamdaiiinr12765-27", "url": "/documents/iiihamdaiiinr12765/27/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 21
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 21
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.486%2C49.1817%2C9.526%2C49.221700000000006&amp;layer=mapnik&amp;marker=49.2017%2C9.506" title="Öhringen"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2017&amp;mlon=9.506#map=15/49.2017/9.506" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.486%2C49.1817%2C9.526%2C49.221700000000006&amp;layer=mapnik&amp;marker=49.2017%2C9.506" title="Öhringen" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2017&amp;mlon=9.506#map=15/49.2017/9.506" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

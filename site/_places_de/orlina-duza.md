@@ -15,22 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Orlina Duża</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.891626%2C52.048854999999996%2C17.931625999999998%2C52.088855&amp;layer=mapnik&amp;marker=52.068855%2C17.911626" title="Orlina Duża"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.068855&amp;mlon=17.911626#map=15/52.068855/17.911626" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Orlina Duża*.
 
 Village in the Trąbczyn and Zagórów area. Its Evangelical cemetery is the largest of the cemeteries of the area, surrounded by a low stone wall, with many headstones well preserved and still standing, and a separate section for infants; a carved stone gravestone of the Jursch family names a birth of Gustav Jursch in Pleschen (Pleszew) in 1797.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.891626%2C52.048854999999996%2C17.931625999999998%2C52.088855&amp;layer=mapnik&amp;marker=52.068855%2C17.911626" title="Orlina Duża" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.068855&amp;mlon=17.911626#map=15/52.068855/17.911626" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

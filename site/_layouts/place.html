@@ -18,8 +18,6 @@ layout: default
   <p class="eyebrow"><a href="{{ u_places | relative_url }}">{{ t.places_eyebrow }}</a></p>
   <h1>{% if lang == 'de' %}{{ pl.heading_de }}{% else %}{{ pl.heading }}{% endif %}</h1>
   <p class="standfirst">{% if lang == 'de' %}{{ pl.standfirst_de }}{% else %}{{ pl.standfirst_en }}{% endif %}</p>
-  <p class="refs"><a href="{{ u_places | append: '#' | append: 'place-' | append: page.place | relative_url }}">{{ t.place_on_places }}</a></p>
-  <p>{% if lang == 'de' %}{{ pl.intro_de }}{% else %}{{ pl.intro_en }}{% endif %}</p>
 
   {%- if pl.sources.size > 0 %}
   <div class="viewbar lit-viewbar" role="group" aria-label="{{ t.lit_view_label }}">
@@ -34,3 +32,4 @@ layout: default
 </div>
 
 <script src="{{ '/assets/literature.js' | relative_url }}"></script>
+{% include doc-list-script.html %}

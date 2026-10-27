@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Siedlung</p>
-
-<p class="refs" lang="en">west of Łomów, possibly in the same location as Budy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Sklanna Huta</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Sklanna Huta*.
 
 Settlement which existed west of Łomów, possibly in the same location as Budy. *Huta* was a common Polish name for a place where iron ore was found. Only one map noted this feature (Gilly 1802).
 

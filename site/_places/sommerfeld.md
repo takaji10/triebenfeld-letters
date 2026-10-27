@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/sommerfeld/"
 alt_url: "/de/orte/sommerfeld/"
 excerpt_separator: ""
-hits_docs: [{"id": "12", "uid": "oe1bu14526-12", "url": "/documents/oe1bu14526/12/", "n": 1}, {"id": "10", "uid": "oe1bu14526-10", "url": "/documents/oe1bu14526/10/", "n": 1}, {"id": "19", "uid": "iiihamdaiiinr12765-19", "url": "/documents/iiihamdaiiinr12765/19/", "n": 1}, {"id": "21", "uid": "iiihamdaiiinr12765-21", "url": "/documents/iiihamdaiiinr12765/21/", "n": 1}, {"id": "23", "uid": "iiihamdaiiinr12765-23", "url": "/documents/iiihamdaiiinr12765/23/", "n": 1}, {"id": "24", "uid": "iiihamdaiiinr12765-24", "url": "/documents/iiihamdaiiinr12765/24/", "n": 1}]
+hits_docs: [{"id": "12", "uid": "oe1bu14526-12", "url": "/documents/oe1bu14526/12/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "10", "uid": "oe1bu14526-10", "url": "/documents/oe1bu14526/10/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "19", "uid": "iiihamdaiiinr12765-19", "url": "/documents/iiihamdaiiinr12765/19/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "21", "uid": "iiihamdaiiinr12765-21", "url": "/documents/iiihamdaiiinr12765/21/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "23", "uid": "iiihamdaiiinr12765-23", "url": "/documents/iiihamdaiiinr12765/23/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "24", "uid": "iiihamdaiiinr12765-24", "url": "/documents/iiihamdaiiinr12765/24/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 6
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 6
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

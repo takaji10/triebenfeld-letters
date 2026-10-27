@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/trabczynskie-nowe-oledry/"
 alt_url: "/places/trabczynskie-nowe-oledry/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "n": 2}, {"id": "1", "uid": "app539680783-1", "url": "/documents/app539680783/1/", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "1", "uid": "app539680783-1", "url": "/documents/app539680783/1/", "unit_label": "APP 53/968/0/-/783", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,14 +15,10 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Haulandsiedlung</p>
-
-<p class="refs" lang="en">north of Czarnybród, located at Łazińsk Drugi.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trąbczyńskie Nowe Olędry</i>; <i>Nowe Olędry</i> 1776<sup class="gfn"><a href="#fn-93">93</a></sup></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trąbczyńskie Nowe Olędry*; *Nowe Olędry* 1776 [^93].
 
 Olęder settlement which existed north of Czarnybród, located at Łazińsk Drugi. Possibly established in 1776 by Antoni Prusimski following the resolution of a dispute with Stanisław Chełmski, the owner of the Łukom estate concerning Trąbczyn’s southern forests. Chełmski lost a court case in 1775 and was forced to return the western portion of the Trąbczyn estate to Prusimski, including twelve Olęders who were living there. First mentioned as *Nowe Olędry* in Trąbczyn Catholic parish metrical records in 1776.[^93] This date coincides with the resolution of the dispute with Chełmski and may indicate that Prusimski proceeded to continue to develop the Trąbczyn estate, having been assured of his continuing ownership. Trąbczyńskie Nowe Olędry was merged with Trąbczyńskie Stare Olędry to create Łazińskie Olędry, which first appeared in Trąbczyn Catholic parish metrical records in 1822. *Neue [Trombczyner Holendry]* (Gilly 1802).
 
@@ -34,7 +30,7 @@ Olęder settlement which existed north of Czarnybród, located at Łazińsk Drug
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

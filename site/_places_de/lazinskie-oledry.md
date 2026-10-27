@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Haulandsiedlung</p>
-
-<p class="refs" lang="en">south of Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Łazińskie Olędry</i>; <i>Łazińsk Drugi</i>; <i>Łazińsk Pierwszy</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Łazińskie Olędry*; *Łazińsk Drugi*; *Łazińsk Pierwszy*.
 
 Olęder settlement which existed south of Łazy. Created after the amalgamation of Trąbczyńskie Stare Olędry and Trąbczyńskie Nowe Olędry. First mentioned in Trąbczyn Catholic parish metrical records in 1822. At some point in the later half of the 20th century, Łazińskie Olędry was separated into the villages of Łazińsk Pierwszy (the area which contained Trąbczyńskie Stare Olędry) and Łazińsk Drugi (the area which contained Trąbczyńskie Nowe Olędry). *Lazinskie Hol.* (Reymann 1834); *Hol. Lazinskie* (location erroneously switched with *Michalinów Olędry*) (Richter 1843); *Łazinskie [Kolonie]* (Kozłowski 1861); *Łazińska Kolonja* (Messtischblatt 1940 and Fig. 75).
 

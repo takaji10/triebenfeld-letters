@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/frankenstein/"
 alt_url: "/places/frankenstein/"
 excerpt_separator: ""
-hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "n": 2}]
+hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.7915%2C50.57%2C16.8315%2C50.61000000000001&amp;layer=mapnik&amp;marker=50.59%2C16.8115" title="Ząbkowice Śląskie"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.59&amp;mlon=16.8115#map=15/50.59/16.8115" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.7915%2C50.57%2C16.8315%2C50.61000000000001&amp;layer=mapnik&amp;marker=50.59%2C16.8115" title="Ząbkowice Śląskie" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.59&amp;mlon=16.8115#map=15/50.59/16.8115" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

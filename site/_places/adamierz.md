@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/adamierz/"
 alt_url: "/de/orte/adamierz/"
 excerpt_separator: ""
-hits_docs: [{"id": "11", "uid": "kdw-11", "url": "/documents/kdw/11/", "n": 2}, {"id": "20", "uid": "kdw-20", "url": "/documents/kdw/20/", "n": 4}, {"id": "21", "uid": "kdw-21", "url": "/documents/kdw/21/", "n": 1}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "n": 1}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "n": 1}]
+hits_docs: [{"id": "11", "uid": "kdw-11", "url": "/documents/kdw/11/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 2}, {"id": "20", "uid": "kdw-20", "url": "/documents/kdw/20/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 4}, {"id": "21", "uid": "kdw-21", "url": "/documents/kdw/21/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">south of Wrąbczynkowskie Holendry.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Adamierz</i>; <i>Nadamirza</i> 1377<sup class="gfn"><a href="#fn-1">1</a></sup>; <i>Nadomirz</i> 1440<sup class="gfn"><a href="#fn-2">2</a></sup>; <i>Yadomierzh’ (Ядомиржъ)</i> 1868-1915; <i>Jadamyerz</i> 1511-23<sup class="gfn"><a href="#fn-3">3</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78%2C52.129999999999995%2C17.82%2C52.17&amp;layer=mapnik&amp;marker=52.15%2C17.8" title="Adamierz"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.15&amp;mlon=17.8#map=15/52.15/17.8" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Adamierz*; *Nadamirza* 1377 [^1]; *Nadomirz* 1440 [^2]; *Yadomierzh’ (Ядомиржъ)* 1868-1915; *Jadamyerz* 1511-23 [^3].
 
 Village south of Wrąbczynkowskie Holendry. First mentioned as *Nadamirza* in a 1377 document where Palatine Przecław of Kalisz and others protested to Louis I of Hungary that Wrąbczynek with the adjoining village of Adamierz belonged to Ląd Abbey.[^1] Mentioned as *Nadomirz* in a 1440 document where Władysław III bequeathed Stanisław the Black 500 grzywny from Adamierz and other villages.[^2] Known in metrical records as *Yadomierzh’ (Ядомиржъ)* during the Russian period (ca. 1868-1915). Nazwy miejscowe Polski traces the name from the medieval *Nedamirz* through *Nadomyrz*, *Niedamierz* and *Jadamyerz* to the modern form.[^3] The Słownik geograficzny records it as a folwark, in gmina Trąbczyn, powiat słupecki, with 1 house and 7 inhabitants at the time of the Słownik.[^4]
 
@@ -45,10 +36,17 @@ Village south of Wrąbczynkowskie Holendry. First mentioned as *Nadamirza* in a 
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78%2C52.129999999999995%2C17.82%2C52.17&amp;layer=mapnik&amp;marker=52.15%2C17.8" title="Adamierz" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.15&amp;mlon=17.8#map=15/52.15/17.8" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

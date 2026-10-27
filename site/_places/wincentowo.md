@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">northwest of Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Wincentowo</i>; <i>Siergiejewo</i>; <i>Siergiejewo</i> 1889<sup class="gfn"><a href="#fn-95">95</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.911667%2C52.111110999999994%2C17.951667%2C52.151111&amp;layer=mapnik&amp;marker=52.131111%2C17.931667" title="Wincentowo"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131111&amp;mlon=17.931667#map=15/52.131111/17.931667" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Wincentowo*; *Siergiejewo*; *Siergiejewo* 1889 [^95].
 
 Village northwest of Łazy. Previously known as *Siergiejewo*, and listed as part of Osiny and containing five households in the Geographical Dictionary of the Kingdom of Poland in 1889.[^95] The same source also stated that both Siergiejewo and a folwark with the same name were established recently at the time of writing. The name change may have occurred in the early 20th century after the decline of Russian influence on culture and language in Poland. Only one map noted this feature as *Siergiejewo* (Wojskowy Instytut Geograficzny 1933). First appeared as *Wincentowo* on Messtischblatt 1940.
 
@@ -35,6 +26,13 @@ Village northwest of Łazy. Previously known as *Siergiejewo*, and listed as par
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.911667%2C52.111110999999994%2C17.951667%2C52.151111&amp;layer=mapnik&amp;marker=52.131111%2C17.931667" title="Wincentowo" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131111&amp;mlon=17.931667#map=15/52.131111/17.931667" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

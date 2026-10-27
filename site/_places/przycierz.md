@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Folwark</p>
-
-<p class="refs" lang="en">east of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Przycierz</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Przycierz*.
 
 Folwark which existed east of Trąbczyn. Only one map noted this feature (Kozłowski 1861).
 

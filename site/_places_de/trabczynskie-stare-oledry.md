@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/trabczynskie-stare-oledry/"
 alt_url: "/places/trabczynskie-stare-oledry/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "n": 2}, {"id": "1", "uid": "app539680782-1", "url": "/documents/app539680782/1/", "n": 1}, {"id": "1", "uid": "app539680783-1", "url": "/documents/app539680783/1/", "n": 3}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "1", "uid": "app539680782-1", "url": "/documents/app539680782/1/", "unit_label": "APP 53/968/0/-/782", "n": 1}, {"id": "1", "uid": "app539680783-1", "url": "/documents/app539680783/1/", "unit_label": "APP 53/968/0/-/783", "n": 3}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,14 +15,10 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">Haulandsiedlung</p>
-
-<p class="refs" lang="en">southwest of Trąbczyn, located at Łazińsk Pierwszy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trąbczyńskie Stare Olędry</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trąbczyńskie Stare Olędry*.
 
 Olęder settlement which existed southwest of Trąbczyn, located at Łazińsk Pierwszy. Established as the first Olęder settlement on the Trąbczyn estate in 1746 by Paweł Prusimski and his wife Katarzyna Rozdrażewska on the forests of Miąsykąt, Dziadulina, and Lusnie in the southwest part of the Trąbczyn estate.[^94] Trąbczyńskie Stare Olędry was merged with Trąbczyńskie Nowe Olędry to create Łazińskie Olędry, which first appeared in Trąbczyn Catholic parish metrical records in 1822. First appeared as an unlabeled *Hollendry* (von Pfau 1770); *Holendry Lusnia Stara* (Trąbczyn 1790); *Holendry Stare Trąbczynskie* (Perthées 1798); *Alte Trombczyner Hol[endry]* (Gilly 1802).
 
@@ -35,7 +31,7 @@ Olęder settlement which existed southwest of Trąbczyn, located at Łazińsk Pi
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

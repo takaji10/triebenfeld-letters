@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Stawisko.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Studzianka</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.84959%2C52.053174%2C17.88959%2C52.093174000000005&amp;layer=mapnik&amp;marker=52.073174%2C17.86959" title="Studzianka"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.073174&amp;mlon=17.86959#map=15/52.073174/17.86959" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Studzianka*.
 
 Village south of Stawisko. Mentioned as the location of the corner mounds between the estates of Trąbczyn, Łukom, and Biskupice in a 1775 border commission report detailing a dispute between the owners of the Trąbczyn and Łukom estates.[^69] *Studzienka* (Łukom 1766).
 
@@ -36,6 +27,13 @@ Village south of Stawisko. Mentioned as the location of the corner mounds betwee
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.84959%2C52.053174%2C17.88959%2C52.093174000000005&amp;layer=mapnik&amp;marker=52.073174%2C17.86959" title="Studzianka" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.073174&amp;mlon=17.86959#map=15/52.073174/17.86959" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

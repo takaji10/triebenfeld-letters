@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/ansbach/"
 alt_url: "/places/ansbach/"
 excerpt_separator: ""
-hits_docs: [{"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "n": 1}]
+hits_docs: [{"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=10.5519%2C49.284699999999994%2C10.591899999999999%2C49.3247&amp;layer=mapnik&amp;marker=49.3047%2C10.5719" title="Ansbach"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.3047&amp;mlon=10.5719#map=15/49.3047/10.5719" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=10.5519%2C49.284699999999994%2C10.591899999999999%2C49.3247&amp;layer=mapnik&amp;marker=49.3047%2C10.5719" title="Ansbach" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.3047&amp;mlon=10.5719#map=15/49.3047/10.5719" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

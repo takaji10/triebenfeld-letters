@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/zielomysl/"
 alt_url: "/places/zielomysl/"
 excerpt_separator: ""
-hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "n": 1}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "n": 1}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "n": 1}, {"id": "179", "uid": "oe1bu9454-179", "url": "/documents/oe1bu9454/179/", "n": 3}]
+hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "179", "uid": "oe1bu9454-179", "url": "/documents/oe1bu9454/179/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}]
 hits_docs_count: 7
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 7
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.754138000000001%2C52.508674%2C15.794138%2C52.548674000000005&amp;layer=mapnik&amp;marker=52.528674%2C15.774138" title="Zielomyśl"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.528674&amp;mlon=15.774138#map=15/52.528674/15.774138" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.754138000000001%2C52.508674%2C15.794138%2C52.548674000000005&amp;layer=mapnik&amp;marker=52.528674%2C15.774138" title="Zielomyśl" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.528674&amp;mlon=15.774138#map=15/52.528674/15.774138" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

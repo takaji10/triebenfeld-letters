@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Huta Łukomska</i>; <i>Stara Huta</i>; <i>Huta</i> 1761<sup class="gfn"><a href="#fn-25">25</a></sup>; <i>Stara Huta</i> 1789<sup class="gfn"><a href="#fn-26">26</a></sup>; <i>Stara Huta Olędry</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.81022%2C52.091637999999996%2C17.85022%2C52.131638&amp;layer=mapnik&amp;marker=52.111638%2C17.83022" title="Huta Łukomska"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.111638&amp;mlon=17.83022#map=15/52.111638/17.83022" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Huta Łukomska*; *Stara Huta*; *Huta* 1761 [^25]; *Stara Huta* 1789 [^26]; *Stara Huta Olędry*.
 
 Village south of Łukom. Mentioned as *Huta* in a 1761 compromise decree from Ląd Abbey concerning the borders between the estates of Łukom and Drzewce.[^25] According to Chodyła, Huta Łukomska (then known as *Stara Huta*) was established as a settlement before 1789 (likely before 1766, as it was included on Łukom 1766) on the initiative of the owner of the Łukom/Łomów estates as part of a village of mixed legal and organisational status that included Myszakówek and *Zagórowskie Olędry*.[^26] Occasionally referenced without the *Łukomska* name, making it difficult to distinguish in metrical records between Huta Trąbczyńska. *Huta* (Łukom 1766); *Stara Huta* (Gilly 1802); *Huta Lakomska* (Richter 1843); *Stara Huta* (Chrzanowski 1858).
 
@@ -39,6 +30,13 @@ Village south of Łukom. Mentioned as *Huta* in a 1761 compromise decree from L�
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.81022%2C52.091637999999996%2C17.85022%2C52.131638&amp;layer=mapnik&amp;marker=52.111638%2C17.83022" title="Huta Łukomska" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.111638&amp;mlon=17.83022#map=15/52.111638/17.83022" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">northwest of Nowa Wieś.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Zalesie</i>; <i>Kolonia Adolfsberg</i>; <i>Kolonia Adolfsberg</i>; <i>Zalesie</i> 1891</p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.907257%2C52.125074999999995%2C17.947257%2C52.165075&amp;layer=mapnik&amp;marker=52.145075%2C17.927257" title="Zalesie (Adolfsberg)"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.145075&amp;mlon=17.927257#map=15/52.145075/17.927257" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Zalesie*; *Kolonia Adolfsberg*; *Kolonia Adolfsberg*; *Zalesie* 1891.
 
 Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica, parish of Sarnowo, powiat słupecki, with 5 houses and 59 inhabitants at the time of the Słownik.[^1]
 
@@ -35,6 +26,13 @@ Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and found
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.907257%2C52.125074999999995%2C17.947257%2C52.165075&amp;layer=mapnik&amp;marker=52.145075%2C17.927257" title="Zalesie (Adolfsberg)" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.145075&amp;mlon=17.927257#map=15/52.145075/17.927257" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

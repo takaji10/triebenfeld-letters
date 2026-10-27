@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/teutschland/"
 alt_url: "/places/teutschland/"
 excerpt_separator: ""
-hits_docs: [{"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "n": 1}, {"id": "286", "uid": "oe1bu9454-286", "url": "/documents/oe1bu9454/286/", "n": 1}, {"id": "16", "uid": "oe1bu9454-16", "url": "/documents/oe1bu9454/16/", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "n": 1}]
+hits_docs: [{"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "286", "uid": "oe1bu9454-286", "url": "/documents/oe1bu9454/286/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "16", "uid": "oe1bu9454-16", "url": "/documents/oe1bu9454/16/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">country</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

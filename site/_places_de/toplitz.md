@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/toplitz/"
 alt_url: "/places/toplitz/"
 excerpt_separator: ""
-hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "n": 1}]
+hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=13.813500000000001%2C50.6209%2C13.8535%2C50.660900000000005&amp;layer=mapnik&amp;marker=50.6409%2C13.8335" title="Teplitz"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.6409&amp;mlon=13.8335#map=15/50.6409/13.8335" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=13.813500000000001%2C50.6209%2C13.8535%2C50.660900000000005&amp;layer=mapnik&amp;marker=50.6409%2C13.8335" title="Teplitz" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.6409&amp;mlon=13.8335#map=15/50.6409/13.8335" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

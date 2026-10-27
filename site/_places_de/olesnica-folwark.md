@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Weiler</p>
-
-<p class="refs" lang="en">southeast of and belonging to Oleśnica.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Oleśnica-Folwark</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.914722%2C52.137499999999996%2C17.954722%2C52.1775&amp;layer=mapnik&amp;marker=52.1575%2C17.934722" title="Oleśnica-Folwark"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1575&amp;mlon=17.934722#map=15/52.1575/17.934722" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Oleśnica-Folwark*.
 
 Hamlet southeast of and belonging to Oleśnica. Likely the site of a previous folwark. Likely appeared in the later half of the 20th century (not present on Słupca 1957).
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.914722%2C52.137499999999996%2C17.954722%2C52.1775&amp;layer=mapnik&amp;marker=52.1575%2C17.934722" title="Oleśnica-Folwark" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1575&amp;mlon=17.934722#map=15/52.1575/17.934722" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

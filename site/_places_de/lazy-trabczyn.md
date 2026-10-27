@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/lazy-trabczyn/"
 alt_url: "/places/lazy-trabczyn/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "n": 1}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "n": 2}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3570", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Łazy</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.927475%2C52.105616%2C17.967475%2C52.145616000000004&amp;layer=mapnik&amp;marker=52.125616%2C17.947475" title="Łazy"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.125616&amp;mlon=17.947475#map=15/52.125616/17.947475" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Łazy*.
 
 Village south of Trąbczyn. According to Breyer, *Łazy* referred to a cleared marshy area (Ger. *Brücher*).[^36] Mentioned at least as early as 1597 in metrical records from Trąbczyn Catholic parish.[^37] In 1791, Łazy was inhabited by 48 people of Catholic faith.[^38] Chodyła claimed that the village of Łazy changed its legal status at some point to an Olędry[^39] on account of a Prussian register of houses and population from 1797 which listed the settlement as “*Łazy Haul[endry]*” with 42 inhabitants.[^40] *Lase* (von Pfau 1770); *Lasy* (Trąbczyn 1790).
 
@@ -48,10 +39,17 @@ Village south of Trąbczyn. According to Breyer, *Łazy* referred to a cleared m
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.927475%2C52.105616%2C17.967475%2C52.145616000000004&amp;layer=mapnik&amp;marker=52.125616%2C17.947475" title="Łazy" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.125616&amp;mlon=17.947475#map=15/52.125616/17.947475" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

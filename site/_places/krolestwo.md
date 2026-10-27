@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Hamlet</p>
-
-<p class="refs" lang="en">south of and belonging to Łomów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Królestwo</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.822778%2C52.095278%2C17.862778%2C52.13527800000001&amp;layer=mapnik&amp;marker=52.115278%2C17.842778" title="Królestwo"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.115278&amp;mlon=17.842778#map=15/52.115278/17.842778" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Królestwo*.
 
 Hamlet south of and belonging to Łomów. Likely appeared in the later half of the 20th century (not present on Słupca 1957).
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.822778%2C52.095278%2C17.862778%2C52.13527800000001&amp;layer=mapnik&amp;marker=52.115278%2C17.842778" title="Królestwo" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.115278&amp;mlon=17.842778#map=15/52.115278/17.842778" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

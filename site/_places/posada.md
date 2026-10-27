@@ -15,12 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Place</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Posada</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Posada*.
 
 Location unknown. Listed as an area or subdivision of the Trąbczyn estate by The Geographical Dictionary of the Kingdom of Poland in 1892.[^61]
 

@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/nowawies-trabczyn/"
 alt_url: "/places/nowawies-trabczyn/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app536017-1", "url": "/documents/app536017/1/", "n": 1}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "n": 1}, {"id": "12", "uid": "app53170koningr116-12", "url": "/documents/app53170koningr116/12/", "n": 1}, {"id": "1", "uid": "app53170koningr117-1", "url": "/documents/app53170koningr117/1/", "n": 1}, {"id": "14", "uid": "app53170koningr118-14", "url": "/documents/app53170koningr118/14/", "n": 1}, {"id": "1", "uid": "app53170koningr119-1", "url": "/documents/app53170koningr119/1/", "n": 2}, {"id": "6", "uid": "app53170koningr119-6", "url": "/documents/app53170koningr119/6/", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "n": 2}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "n": 2}, {"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "n": 3}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "n": 1}, {"id": "3", "uid": "oe1bu14525-3", "url": "/documents/oe1bu14525/3/", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "n": 2}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "n": 1}, {"id": "2", "uid": "app539680801-2", "url": "/documents/app539680801/2/", "n": 1}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "n": 1}, {"id": "7", "uid": "iiihamdaiiinr12367-7", "url": "/documents/iiihamdaiiinr12367/7/", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "app536017-1", "url": "/documents/app536017/1/", "unit_label": "APP 53/6/0/-/17", "n": 1}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "unit_label": "53/17/0/-/Konin Gr.145", "n": 1}, {"id": "12", "uid": "app53170koningr116-12", "url": "/documents/app53170koningr116/12/", "unit_label": "53/17/0/-/Konin Gr.116", "n": 1}, {"id": "1", "uid": "app53170koningr117-1", "url": "/documents/app53170koningr117/1/", "unit_label": "53/17/0/-/Konin Gr.117", "n": 1}, {"id": "14", "uid": "app53170koningr118-14", "url": "/documents/app53170koningr118/14/", "unit_label": "53/17/0/-/Konin Gr.118", "n": 1}, {"id": "1", "uid": "app53170koningr119-1", "url": "/documents/app53170koningr119/1/", "unit_label": "53/17/0/-/Konin Gr.119", "n": 2}, {"id": "6", "uid": "app53170koningr119-6", "url": "/documents/app53170koningr119/6/", "unit_label": "53/17/0/-/Konin Gr.119", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 2}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3570", "n": 3}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "3", "uid": "oe1bu14525-3", "url": "/documents/oe1bu14525/3/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "2", "uid": "app539680801-2", "url": "/documents/app539680801/2/", "unit_label": "APP 53/968/0/-/801", "n": 1}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "7", "uid": "iiihamdaiiinr12367-7", "url": "/documents/iiihamdaiiinr12367/7/", "unit_label": "III. HA MdA, III. Nr. 12367", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 21
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 21
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">west of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Nowa Wieś</i>; <i>Trąbczyn Mały</i>; <i>Trąbczyn Mały</i> 1775<sup class="gfn"><a href="#fn-54">54</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.995281000000002%2C52.282197%2C18.035281%2C52.322197&amp;layer=mapnik&amp;marker=52.302197%2C18.015281" title="Nowa Wieś"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.302197&amp;mlon=18.015281#map=15/52.302197/18.015281" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Nowa Wieś*; *Trąbczyn Mały*; *Trąbczyn Mały* 1775 [^54].
 
 Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical records from Trąbczyn parish.[^53] According to a court document from 1775, Nowa Wieś was also known as *Trąbczyn Mały*.[^54]
 
@@ -39,10 +30,17 @@ Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical recor
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.995281000000002%2C52.282197%2C18.035281%2C52.322197&amp;layer=mapnik&amp;marker=52.302197%2C18.015281" title="Nowa Wieś" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.302197&amp;mlon=18.015281#map=15/52.302197/18.015281" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

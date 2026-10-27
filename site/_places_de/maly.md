@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Siedlung</p>
-
-<p class="refs" lang="en">west of Anielewo (Ingelfingen).</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Maly</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Maly*.
 
 Settlement that existed west of Anielewo (Ingelfingen). Likely part of Anielewo. Only one map noted this feature (Reymann 1834). Not to be confused with the colony renamed *Mały Las* in 1891 (see Ludwigslust): the SG entry for that renaming belongs to the Ludwigslust colony, while this settlement is recorded separately next to Anielewo.
 

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/grenoble/"
 alt_url: "/de/orte/grenoble/"
 excerpt_separator: ""
-hits_docs: [{"id": "279", "uid": "oe1bu9454-279", "url": "/documents/oe1bu9454/279/", "n": 2}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "n": 2}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "n": 1}]
+hits_docs: [{"id": "279", "uid": "oe1bu9454-279", "url": "/documents/oe1bu9454/279/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=5.7045%2C45.168499999999995%2C5.7444999999999995%2C45.2085&amp;layer=mapnik&amp;marker=45.1885%2C5.7245" title="Grenoble"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.1885&amp;mlon=5.7245#map=15/45.1885/5.7245" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=5.7045%2C45.168499999999995%2C5.7444999999999995%2C45.2085&amp;layer=mapnik&amp;marker=45.1885%2C5.7245" title="Grenoble" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.1885&amp;mlon=5.7245#map=15/45.1885/5.7245" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

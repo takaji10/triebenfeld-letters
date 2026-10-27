@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/st-petersburg/"
 alt_url: "/places/st-petersburg/"
 excerpt_separator: ""
-hits_docs: [{"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "n": 1}, {"id": "84", "uid": "oe1bu9454-84", "url": "/documents/oe1bu9454/84/", "n": 1}, {"id": "27", "uid": "oe1bu9454-27", "url": "/documents/oe1bu9454/27/", "n": 1}, {"id": "30", "uid": "oe1bu9454-30", "url": "/documents/oe1bu9454/30/", "n": 1}, {"id": "42", "uid": "oe1bu9454-42", "url": "/documents/oe1bu9454/42/", "n": 1}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "n": 1}, {"id": "193", "uid": "oe1bu9454-193", "url": "/documents/oe1bu9454/193/", "n": 1}, {"id": "206", "uid": "oe1bu9454-206", "url": "/documents/oe1bu9454/206/", "n": 1}, {"id": "249", "uid": "oe1bu9454-249", "url": "/documents/oe1bu9454/249/", "n": 1}, {"id": "300", "uid": "oe1bu9454-300", "url": "/documents/oe1bu9454/300/", "n": 2}, {"id": "15", "uid": "iiihamdaiiinr12765-15", "url": "/documents/iiihamdaiiinr12765/15/", "n": 1}, {"id": "16", "uid": "iiihamdaiiinr12765-16", "url": "/documents/iiihamdaiiinr12765/16/", "n": 2}, {"id": "20", "uid": "iiihamdaiiinr12765-20", "url": "/documents/iiihamdaiiinr12765/20/", "n": 1}, {"id": "22", "uid": "iiihamdaiiinr12765-22", "url": "/documents/iiihamdaiiinr12765/22/", "n": 1}, {"id": "24", "uid": "iiihamdaiiinr12765-24", "url": "/documents/iiihamdaiiinr12765/24/", "n": 1}, {"id": "25", "uid": "iiihamdaiiinr12765-25", "url": "/documents/iiihamdaiiinr12765/25/", "n": 1}, {"id": "3", "uid": "iiihamdaiiinr12366-3", "url": "/documents/iiihamdaiiinr12366/3/", "n": 1}, {"id": "29", "uid": "iiihamdaiiinr12765-29", "url": "/documents/iiihamdaiiinr12765/29/", "n": 1}, {"id": "5", "uid": "iiihamdaiiinr12366-5", "url": "/documents/iiihamdaiiinr12366/5/", "n": 1}]
+hits_docs: [{"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "84", "uid": "oe1bu9454-84", "url": "/documents/oe1bu9454/84/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "27", "uid": "oe1bu9454-27", "url": "/documents/oe1bu9454/27/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "30", "uid": "oe1bu9454-30", "url": "/documents/oe1bu9454/30/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "42", "uid": "oe1bu9454-42", "url": "/documents/oe1bu9454/42/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "193", "uid": "oe1bu9454-193", "url": "/documents/oe1bu9454/193/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "206", "uid": "oe1bu9454-206", "url": "/documents/oe1bu9454/206/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "249", "uid": "oe1bu9454-249", "url": "/documents/oe1bu9454/249/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "300", "uid": "oe1bu9454-300", "url": "/documents/oe1bu9454/300/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "15", "uid": "iiihamdaiiinr12765-15", "url": "/documents/iiihamdaiiinr12765/15/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "16", "uid": "iiihamdaiiinr12765-16", "url": "/documents/iiihamdaiiinr12765/16/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 2}, {"id": "20", "uid": "iiihamdaiiinr12765-20", "url": "/documents/iiihamdaiiinr12765/20/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "22", "uid": "iiihamdaiiinr12765-22", "url": "/documents/iiihamdaiiinr12765/22/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "24", "uid": "iiihamdaiiinr12765-24", "url": "/documents/iiihamdaiiinr12765/24/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "25", "uid": "iiihamdaiiinr12765-25", "url": "/documents/iiihamdaiiinr12765/25/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "3", "uid": "iiihamdaiiinr12366-3", "url": "/documents/iiihamdaiiinr12366/3/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 1}, {"id": "29", "uid": "iiihamdaiiinr12765-29", "url": "/documents/iiihamdaiiinr12765/29/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "5", "uid": "iiihamdaiiinr12366-5", "url": "/documents/iiihamdaiiinr12366/5/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 1}]
 hits_docs_count: 19
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 19
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=30.3409%2C59.9111%2C30.3809%2C59.951100000000004&amp;layer=mapnik&amp;marker=59.9311%2C30.3609" title="St Petersburg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=59.9311&amp;mlon=30.3609#map=15/59.9311/30.3609" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=30.3409%2C59.9111%2C30.3809%2C59.951100000000004&amp;layer=mapnik&amp;marker=59.9311%2C30.3609" title="St Petersburg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=59.9311&amp;mlon=30.3609#map=15/59.9311/30.3609" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

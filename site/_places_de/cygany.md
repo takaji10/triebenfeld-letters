@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Hügel</p>
-
-<p class="refs" lang="en">on the southwest edge of the Trąbczyn estate.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Cygany</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Cygany*.
 
 Eight mounds which existed on the southwest edge of the Trąbczyn estate. The mounds were mentioned in a 1775 court dispute between the owners of the Trąbczyn and Łukom estates as being built illegally and secretly made at night to influence the demarcation of the border between the two estates.[^9] Only one map noted this feature (Królików 1800, see Fig. 56).
 

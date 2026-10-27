@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/wielun/"
 alt_url: "/places/wielun/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app53170koningr153-1", "url": "/documents/app53170koningr153/1/", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "n": 3}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "n": 1}, {"id": "7", "uid": "app539680545-7", "url": "/documents/app539680545/7/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "app53170koningr153-1", "url": "/documents/app53170koningr153/1/", "unit_label": "53/17/0/-/Konin Gr.153", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 3}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "7", "uid": "app539680545-7", "url": "/documents/app539680545/7/", "unit_label": "APP 53/968/0/-/545", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.5546%2C51.199%2C18.5946%2C51.239000000000004&amp;layer=mapnik&amp;marker=51.219%2C18.5746" title="Wieluń"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.219&amp;mlon=18.5746#map=15/51.219/18.5746" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.5546%2C51.199%2C18.5946%2C51.239000000000004&amp;layer=mapnik&amp;marker=51.219%2C18.5746" title="Wieluń" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.219&amp;mlon=18.5746#map=15/51.219/18.5746" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

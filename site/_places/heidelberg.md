@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/heidelberg/"
 alt_url: "/de/orte/heidelberg/"
 excerpt_separator: ""
-hits_docs: [{"id": "36", "uid": "oe1bu9454-36", "url": "/documents/oe1bu9454/36/", "n": 1}]
+hits_docs: [{"id": "36", "uid": "oe1bu9454-36", "url": "/documents/oe1bu9454/36/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=8.446%2C49.467499999999994%2C8.485999999999999%2C49.5075&amp;layer=mapnik&amp;marker=49.4875%2C8.466" title="Heidelberg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.4875&amp;mlon=8.466#map=15/49.4875/8.466" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=8.446%2C49.467499999999994%2C8.485999999999999%2C49.5075&amp;layer=mapnik&amp;marker=49.4875%2C8.466" title="Heidelberg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.4875&amp;mlon=8.466#map=15/49.4875/8.466" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

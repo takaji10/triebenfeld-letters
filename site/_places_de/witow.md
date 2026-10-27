@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/witow/"
 alt_url: "/places/witow/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "oe1bu14526-2", "url": "/documents/oe1bu14526/2/", "n": 3}, {"id": "1", "uid": "app539680801-1", "url": "/documents/app539680801/1/", "n": 1}, {"id": "163", "uid": "oe1bu9454-163", "url": "/documents/oe1bu9454/163/", "n": 1}, {"id": "21", "uid": "oe1bu14526-21", "url": "/documents/oe1bu14526/21/", "n": 4}, {"id": "173", "uid": "oe1bu9454-173", "url": "/documents/oe1bu9454/173/", "n": 2}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "n": 1}, {"id": "1", "uid": "app5371057-1", "url": "/documents/app5371057/1/", "n": 1}, {"id": "6", "uid": "oe1bu14526-6", "url": "/documents/oe1bu14526/6/", "n": 1}, {"id": "31", "uid": "oe1bu9454-31", "url": "/documents/oe1bu9454/31/", "n": 1}, {"id": "64", "uid": "oe1bu9454-64", "url": "/documents/oe1bu9454/64/", "n": 1}, {"id": "22", "uid": "oe1bu9454-22", "url": "/documents/oe1bu9454/22/", "n": 2}, {"id": "23", "uid": "oe1bu9454-23", "url": "/documents/oe1bu9454/23/", "n": 1}, {"id": "215", "uid": "oe1bu9454-215", "url": "/documents/oe1bu9454/215/", "n": 1}, {"id": "19", "uid": "oe1bu9454-19", "url": "/documents/oe1bu9454/19/", "n": 1}, {"id": "1", "uid": "oe1bu14526-1", "url": "/documents/oe1bu14526/1/", "n": 1}]
+hits_docs: [{"id": "2", "uid": "oe1bu14526-2", "url": "/documents/oe1bu14526/2/", "unit_label": "Oe 1 Bü 14526", "n": 3}, {"id": "1", "uid": "app539680801-1", "url": "/documents/app539680801/1/", "unit_label": "APP 53/968/0/-/801", "n": 1}, {"id": "163", "uid": "oe1bu9454-163", "url": "/documents/oe1bu9454/163/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "21", "uid": "oe1bu14526-21", "url": "/documents/oe1bu14526/21/", "unit_label": "Oe 1 Bü 14526", "n": 4}, {"id": "173", "uid": "oe1bu9454-173", "url": "/documents/oe1bu9454/173/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "1", "uid": "app5371057-1", "url": "/documents/app5371057/1/", "unit_label": "APP 53/71/0/-/57", "n": 1}, {"id": "6", "uid": "oe1bu14526-6", "url": "/documents/oe1bu14526/6/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "31", "uid": "oe1bu9454-31", "url": "/documents/oe1bu9454/31/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "64", "uid": "oe1bu9454-64", "url": "/documents/oe1bu9454/64/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "22", "uid": "oe1bu9454-22", "url": "/documents/oe1bu9454/22/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "23", "uid": "oe1bu9454-23", "url": "/documents/oe1bu9454/23/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "215", "uid": "oe1bu9454-215", "url": "/documents/oe1bu9454/215/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "19", "uid": "oe1bu9454-19", "url": "/documents/oe1bu9454/19/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "oe1bu14526-1", "url": "/documents/oe1bu14526/1/", "unit_label": "Oe 1 Bü 14526", "n": 1}]
 hits_docs_count: 15
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 15
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.543029%2C51.69929%2C18.583029%2C51.739290000000004&amp;layer=mapnik&amp;marker=51.71929%2C18.563029" title="Witów"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.71929&amp;mlon=18.563029#map=15/51.71929/18.563029" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.543029%2C51.69929%2C18.583029%2C51.739290000000004&amp;layer=mapnik&amp;marker=51.71929%2C18.563029" title="Witów" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.71929&amp;mlon=18.563029#map=15/51.71929/18.563029" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

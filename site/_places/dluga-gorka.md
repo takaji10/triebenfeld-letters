@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Isolated dwellings</p>
-
-<p class="refs" lang="en">south of and belonging to Wrąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Długa Górka</i>; <i>Siodmagorka</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.8325%2C52.143055999999994%2C17.8725%2C52.183056&amp;layer=mapnik&amp;marker=52.163056%2C17.8525" title="Długa Górka"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.163056&amp;mlon=17.8525#map=15/52.163056/17.8525" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Długa Górka*; *Siodmagorka*.
 
 Isolated dwellings south of and belonging to Wrąbczyn. Possibly appeared as *Siodmagorka* (Gilly 1802); *Osada Dlugagórka* (Richter 1843). Nazwy miejscowe Polski derives the name from the descriptive phrase *długa górka* 'long hill'.[^1]
 
@@ -35,6 +26,13 @@ Isolated dwellings south of and belonging to Wrąbczyn. Possibly appeared as *Si
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.8325%2C52.143055999999994%2C17.8725%2C52.183056&amp;layer=mapnik&amp;marker=52.163056%2C17.8525" title="Długa Górka" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.163056&amp;mlon=17.8525#map=15/52.163056/17.8525" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

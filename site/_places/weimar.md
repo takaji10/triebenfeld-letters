@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/weimar/"
 alt_url: "/de/orte/weimar/"
 excerpt_separator: ""
-hits_docs: [{"id": "171", "uid": "oe1bu9454-171", "url": "/documents/oe1bu9454/171/", "n": 1}, {"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "n": 1}]
+hits_docs: [{"id": "171", "uid": "oe1bu9454-171", "url": "/documents/oe1bu9454/171/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.3085%2C50.9595%2C11.3485%2C50.999500000000005&amp;layer=mapnik&amp;marker=50.9795%2C11.3285" title="Weimar"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9795&amp;mlon=11.3285#map=15/50.9795/11.3285" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.3085%2C50.9595%2C11.3485%2C50.999500000000005&amp;layer=mapnik&amp;marker=50.9795%2C11.3285" title="Weimar" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9795&amp;mlon=11.3285#map=15/50.9795/11.3285" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

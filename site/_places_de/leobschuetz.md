@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/leobschuetz/"
 alt_url: "/places/leobschuetz/"
 excerpt_separator: ""
-hits_docs: [{"id": "195", "uid": "oe1bu9454-195", "url": "/documents/oe1bu9454/195/", "n": 1}]
+hits_docs: [{"id": "195", "uid": "oe1bu9454-195", "url": "/documents/oe1bu9454/195/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.8127%2C50.17959999999999%2C17.8527%2C50.2196&amp;layer=mapnik&amp;marker=50.1996%2C17.8327" title="Głubczyce"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1996&amp;mlon=17.8327#map=15/50.1996/17.8327" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.8127%2C50.17959999999999%2C17.8527%2C50.2196&amp;layer=mapnik&amp;marker=50.1996%2C17.8327" title="Głubczyce" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1996&amp;mlon=17.8327#map=15/50.1996/17.8327" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

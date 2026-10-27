@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/langenburg/"
 alt_url: "/places/langenburg/"
 excerpt_separator: ""
-hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "n": 1}, {"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "n": 1}, {"id": "279", "uid": "oe1bu9454-279", "url": "/documents/oe1bu9454/279/", "n": 1}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "n": 1}]
+hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "279", "uid": "oe1bu9454-279", "url": "/documents/oe1bu9454/279/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.618400000000001%2C49.219699999999996%2C9.6584%2C49.2597&amp;layer=mapnik&amp;marker=49.2397%2C9.6384" title="Langenburg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2397&amp;mlon=9.6384#map=15/49.2397/9.6384" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.618400000000001%2C49.219699999999996%2C9.6584%2C49.2597&amp;layer=mapnik&amp;marker=49.2397%2C9.6384" title="Langenburg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2397&amp;mlon=9.6384#map=15/49.2397/9.6384" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

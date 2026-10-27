@@ -15,7 +15,5 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Settlement</p>
-
 </section>
 

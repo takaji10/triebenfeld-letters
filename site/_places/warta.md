@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">River</p>
-
-<p class="refs" lang="en">running east to west along the northern border of Zagórów Gmina.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Warta River</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Warta River*.
 
 River running east to west along the northern border of Zagórów Gmina.
 

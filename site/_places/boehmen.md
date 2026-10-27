@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/boehmen/"
 alt_url: "/de/orte/boehmen/"
 excerpt_separator: ""
-hits_docs: [{"id": "96", "uid": "oe1bu9454-96", "url": "/documents/oe1bu9454/96/", "n": 1}, {"id": "119", "uid": "oe1bu9454-119", "url": "/documents/oe1bu9454/119/", "n": 1}, {"id": "120", "uid": "oe1bu9454-120", "url": "/documents/oe1bu9454/120/", "n": 1}, {"id": "58", "uid": "oe1bu9454-58", "url": "/documents/oe1bu9454/58/", "n": 1}, {"id": "241", "uid": "oe1bu9454-241", "url": "/documents/oe1bu9454/241/", "n": 1}]
+hits_docs: [{"id": "96", "uid": "oe1bu9454-96", "url": "/documents/oe1bu9454/96/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "119", "uid": "oe1bu9454-119", "url": "/documents/oe1bu9454/119/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "120", "uid": "oe1bu9454-120", "url": "/documents/oe1bu9454/120/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "58", "uid": "oe1bu9454-58", "url": "/documents/oe1bu9454/58/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "241", "uid": "oe1bu9454-241", "url": "/documents/oe1bu9454/241/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">region</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

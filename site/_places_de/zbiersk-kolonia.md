@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Siedlung</p>
-
-<p class="refs" lang="en">east of Stawiszyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Zbiersk Kolonia</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.14407%2C51.929747%2C18.18407%2C51.969747000000005&amp;layer=mapnik&amp;marker=51.949747%2C18.16407" title="Zbiersk Kolonia"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.949747&amp;mlon=18.16407#map=15/51.949747/18.16407" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Zbiersk Kolonia*.
 
 Settlement east of Stawiszyn, on the northern edge of a forest complex a few square kilometres in area. Its Evangelical cemetery is approximately 25 kilometres southeast of the Trąbczyn area; it is in the survey of the Evangelical cemeteries because some Zelmers from the Trąbczyn area moved to Zbiersk Kolonia and the nearby settlement of Łyczyn.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.14407%2C51.929747%2C18.18407%2C51.969747000000005&amp;layer=mapnik&amp;marker=51.949747%2C18.16407" title="Zbiersk Kolonia" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.949747&amp;mlon=18.16407#map=15/51.949747/18.16407" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

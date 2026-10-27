@@ -15,17 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Settlement</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trąbczyn C</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.933307%2C52.12195%2C17.973307%2C52.161950000000004&amp;layer=mapnik&amp;marker=52.14195%2C17.953307" title="Trąbczyn C"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.14195&amp;mlon=17.953307#map=15/52.14195/17.953307" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trąbczyn C*.
 
 Settlement with an unknown location. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records from 1919.[^89] Likely created after the parcelling of Trąbczyn estate property in the late 19th century.
 
@@ -33,6 +26,13 @@ Settlement with an unknown location. Appeared in Zagórów Evangelical-Augsburg 
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.933307%2C52.12195%2C17.973307%2C52.161950000000004&amp;layer=mapnik&amp;marker=52.14195%2C17.953307" title="Trąbczyn C" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.14195&amp;mlon=17.953307#map=15/52.14195/17.953307" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

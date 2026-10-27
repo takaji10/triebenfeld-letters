@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/ruschinowitz/"
 alt_url: "/de/orte/ruschinowitz/"
 excerpt_separator: ""
-hits_docs: [{"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "n": 3}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "n": 1}, {"id": "73", "uid": "oe1bu9454-73", "url": "/documents/oe1bu9454/73/", "n": 1}]
+hits_docs: [{"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "73", "uid": "oe1bu9454-73", "url": "/documents/oe1bu9454/73/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Estate</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.74739%2C50.62594%2C18.78739%2C50.665940000000006&amp;layer=mapnik&amp;marker=50.64594%2C18.76739" title="Rusinowice"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.64594&amp;mlon=18.76739#map=15/50.64594/18.76739" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.74739%2C50.62594%2C18.78739%2C50.665940000000006&amp;layer=mapnik&amp;marker=50.64594%2C18.76739" title="Rusinowice" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.64594&amp;mlon=18.76739#map=15/50.64594/18.76739" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

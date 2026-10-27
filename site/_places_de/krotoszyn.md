@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/krotoszyn/"
 alt_url: "/places/krotoszyn/"
 excerpt_separator: ""
-hits_docs: [{"id": "79", "uid": "oe1bu9454-79", "url": "/documents/oe1bu9454/79/", "n": 1}, {"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "n": 2}, {"id": "84", "uid": "oe1bu9454-84", "url": "/documents/oe1bu9454/84/", "n": 2}, {"id": "85", "uid": "oe1bu9454-85", "url": "/documents/oe1bu9454/85/", "n": 2}, {"id": "86", "uid": "oe1bu9454-86", "url": "/documents/oe1bu9454/86/", "n": 8}, {"id": "87", "uid": "oe1bu9454-87", "url": "/documents/oe1bu9454/87/", "n": 11}, {"id": "88", "uid": "oe1bu9454-88", "url": "/documents/oe1bu9454/88/", "n": 3}, {"id": "89", "uid": "oe1bu9454-89", "url": "/documents/oe1bu9454/89/", "n": 6}, {"id": "94", "uid": "oe1bu9454-94", "url": "/documents/oe1bu9454/94/", "n": 1}, {"id": "97", "uid": "oe1bu9454-97", "url": "/documents/oe1bu9454/97/", "n": 1}, {"id": "96", "uid": "oe1bu9454-96", "url": "/documents/oe1bu9454/96/", "n": 2}, {"id": "99", "uid": "oe1bu9454-99", "url": "/documents/oe1bu9454/99/", "n": 2}, {"id": "102", "uid": "oe1bu9454-102", "url": "/documents/oe1bu9454/102/", "n": 2}, {"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "n": 1}, {"id": "101", "uid": "oe1bu9454-101", "url": "/documents/oe1bu9454/101/", "n": 12}]
+hits_docs: [{"id": "79", "uid": "oe1bu9454-79", "url": "/documents/oe1bu9454/79/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "84", "uid": "oe1bu9454-84", "url": "/documents/oe1bu9454/84/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "85", "uid": "oe1bu9454-85", "url": "/documents/oe1bu9454/85/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "86", "uid": "oe1bu9454-86", "url": "/documents/oe1bu9454/86/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 8}, {"id": "87", "uid": "oe1bu9454-87", "url": "/documents/oe1bu9454/87/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 11}, {"id": "88", "uid": "oe1bu9454-88", "url": "/documents/oe1bu9454/88/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "89", "uid": "oe1bu9454-89", "url": "/documents/oe1bu9454/89/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 6}, {"id": "94", "uid": "oe1bu9454-94", "url": "/documents/oe1bu9454/94/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "97", "uid": "oe1bu9454-97", "url": "/documents/oe1bu9454/97/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "96", "uid": "oe1bu9454-96", "url": "/documents/oe1bu9454/96/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "99", "uid": "oe1bu9454-99", "url": "/documents/oe1bu9454/99/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "102", "uid": "oe1bu9454-102", "url": "/documents/oe1bu9454/102/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "101", "uid": "oe1bu9454-101", "url": "/documents/oe1bu9454/101/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 12}]
 hits_docs_count: 15
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 15
 
 <section class="place-gaz">
 
-<p class="refs">Gut</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.6986%2C51.6808%2C17.738599999999998%2C51.720800000000004&amp;layer=mapnik&amp;marker=51.7008%2C17.7186" title="Krotoszyn"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.7008&amp;mlon=17.7186#map=15/51.7008/17.7186" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.6986%2C51.6808%2C17.738599999999998%2C51.720800000000004&amp;layer=mapnik&amp;marker=51.7008%2C17.7186" title="Krotoszyn" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.7008&amp;mlon=17.7186#map=15/51.7008/17.7186" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Isolated dwellings</p>
-
-<p class="refs" lang="en">southeast of and belonging to Łomów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Stawisko</i>; <i>Stawisku</i> 1834<sup class="gfn"><a href="#fn-70">70</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.848889%2C52.088888999999995%2C17.888889%2C52.128889&amp;layer=mapnik&amp;marker=52.108889%2C17.868889" title="Stawisko"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.108889&amp;mlon=17.868889#map=15/52.108889/17.868889" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Stawisko*; *Stawisku* 1834 [^70].
 
 Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny records it as a village, in gmina Trąbczyn, parish of Zagórów, powiat słupecki, with 6 houses and 381 inhabitants at the time of the Słownik.[^69] Nazwy miejscowe Polski records the name as *Stawisku* by 1834, later as *Stawisko* (1839).[^70]
 
@@ -40,6 +31,13 @@ Isolated dwellings southeast of and belonging to Łomów. A significant swamp cr
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.848889%2C52.088888999999995%2C17.888889%2C52.128889&amp;layer=mapnik&amp;marker=52.108889%2C17.868889" title="Stawisko" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.108889&amp;mlon=17.868889#map=15/52.108889/17.868889" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/naumburg/"
 alt_url: "/de/orte/naumburg/"
 excerpt_separator: ""
-hits_docs: [{"id": "237", "uid": "oe1bu9454-237", "url": "/documents/oe1bu9454/237/", "n": 1}]
+hits_docs: [{"id": "237", "uid": "oe1bu9454-237", "url": "/documents/oe1bu9454/237/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.787700000000001%2C51.136199999999995%2C11.8277%2C51.1762&amp;layer=mapnik&amp;marker=51.1562%2C11.8077" title="Naumburg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.1562&amp;mlon=11.8077#map=15/51.1562/11.8077" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.787700000000001%2C51.136199999999995%2C11.8277%2C51.1762&amp;layer=mapnik&amp;marker=51.1562%2C11.8077" title="Naumburg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.1562&amp;mlon=11.8077#map=15/51.1562/11.8077" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/erfurt/"
 alt_url: "/places/erfurt/"
 excerpt_separator: ""
-hits_docs: [{"id": "171", "uid": "oe1bu9454-171", "url": "/documents/oe1bu9454/171/", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 1}, {"id": "41", "uid": "oe1bu9454-41", "url": "/documents/oe1bu9454/41/", "n": 5}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "n": 1}]
+hits_docs: [{"id": "171", "uid": "oe1bu9454-171", "url": "/documents/oe1bu9454/171/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "41", "uid": "oe1bu9454-41", "url": "/documents/oe1bu9454/41/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.0099%2C50.9648%2C11.0499%2C51.0048&amp;layer=mapnik&amp;marker=50.9848%2C11.0299" title="Erfurt"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9848&amp;mlon=11.0299#map=15/50.9848/11.0299" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.0099%2C50.9648%2C11.0499%2C51.0048&amp;layer=mapnik&amp;marker=50.9848%2C11.0299" title="Erfurt" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9848&amp;mlon=11.0299#map=15/50.9848/11.0299" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

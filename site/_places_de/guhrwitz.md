@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/guhrwitz/"
 alt_url: "/places/guhrwitz/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app539680801-1", "url": "/documents/app539680801/1/", "n": 3}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "n": 1}, {"id": "1", "uid": "app5371057-1", "url": "/documents/app5371057/1/", "n": 2}, {"id": "6", "uid": "oe1bu14526-6", "url": "/documents/oe1bu14526/6/", "n": 2}]
+hits_docs: [{"id": "1", "uid": "app539680801-1", "url": "/documents/app539680801/1/", "unit_label": "APP 53/968/0/-/801", "n": 3}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "1", "uid": "app5371057-1", "url": "/documents/app5371057/1/", "unit_label": "APP 53/71/0/-/57", "n": 2}, {"id": "6", "uid": "oe1bu14526-6", "url": "/documents/oe1bu14526/6/", "unit_label": "Oe 1 Bü 14526", "n": 2}]
 hits_docs_count: 4
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">Gut</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

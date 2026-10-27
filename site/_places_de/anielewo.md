@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">southwest of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Anielewo</i>; <i>Kolonia Ingelfingen</i>; <i>Kolonia Ingelfingen</i>; <i>Anielewo</i> 1891; <i>Ingelfingen</i> 1900<sup class="gfn"><a href="#fn-1">1</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78693%2C52.084109%2C17.82693%2C52.124109000000004&amp;layer=mapnik&amp;marker=52.104109%2C17.80693" title="Anielewo (Ingelfingen)"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.104109&amp;mlon=17.80693#map=15/52.104109/17.80693" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Anielewo*; *Kolonia Ingelfingen*; *Kolonia Ingelfingen*; *Anielewo* 1891; *Ingelfingen* 1900 [^1].
 
 Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after his family name. Renamed to Anielewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. Nazwy miejscowe Polski records *Ingelfingen* (1900).[^1]
 
@@ -35,6 +26,13 @@ Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded 
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78693%2C52.084109%2C17.82693%2C52.124109000000004&amp;layer=mapnik&amp;marker=52.104109%2C17.80693" title="Anielewo (Ingelfingen)" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.104109&amp;mlon=17.80693#map=15/52.104109/17.80693" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/miedzyrzecz/"
 alt_url: "/de/orte/miedzyrzecz/"
 excerpt_separator: ""
-hits_docs: [{"id": "13", "uid": "oe1bu14525-13", "url": "/documents/oe1bu14525/13/", "n": 3}, {"id": "101", "uid": "oe1bu9454-101", "url": "/documents/oe1bu9454/101/", "n": 1}, {"id": "27", "uid": "oe1bu14525-27", "url": "/documents/oe1bu14525/27/", "n": 1}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "n": 2}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "n": 1}, {"id": "23", "uid": "oe1bu14526-23", "url": "/documents/oe1bu14526/23/", "n": 1}, {"id": "254", "uid": "oe1bu9454-254", "url": "/documents/oe1bu9454/254/", "n": 1}, {"id": "265b", "uid": "oe1bu9454-265b", "url": "/documents/oe1bu9454/265b/", "n": 1}, {"id": "6", "uid": "iiihamdaiiinr12765-6", "url": "/documents/iiihamdaiiinr12765/6/", "n": 1}, {"id": "297", "uid": "oe1bu9454-297", "url": "/documents/oe1bu9454/297/", "n": 1}, {"id": "299", "uid": "oe1bu9454-299", "url": "/documents/oe1bu9454/299/", "n": 1}, {"id": "2", "uid": "iiihamdaiiinr12366-2", "url": "/documents/iiihamdaiiinr12366/2/", "n": 1}]
+hits_docs: [{"id": "13", "uid": "oe1bu14525-13", "url": "/documents/oe1bu14525/13/", "unit_label": "Oe 1 Bü 14525", "n": 3}, {"id": "101", "uid": "oe1bu9454-101", "url": "/documents/oe1bu9454/101/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "27", "uid": "oe1bu14525-27", "url": "/documents/oe1bu14525/27/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "unit_label": "Oe 1 Bü 14526", "n": 2}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "23", "uid": "oe1bu14526-23", "url": "/documents/oe1bu14526/23/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "254", "uid": "oe1bu9454-254", "url": "/documents/oe1bu9454/254/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "265b", "uid": "oe1bu9454-265b", "url": "/documents/oe1bu9454/265b/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "iiihamdaiiinr12765-6", "url": "/documents/iiihamdaiiinr12765/6/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "297", "uid": "oe1bu9454-297", "url": "/documents/oe1bu9454/297/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "299", "uid": "oe1bu9454-299", "url": "/documents/oe1bu9454/299/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "2", "uid": "iiihamdaiiinr12366-2", "url": "/documents/iiihamdaiiinr12366/2/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 1}]
 hits_docs_count: 12
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 12
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.5592%2C52.4238%2C15.5992%2C52.463800000000006&amp;layer=mapnik&amp;marker=52.4438%2C15.5792" title="Międzyrzecz"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.4438&amp;mlon=15.5792#map=15/52.4438/15.5792" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.5592%2C52.4238%2C15.5992%2C52.463800000000006&amp;layer=mapnik&amp;marker=52.4438%2C15.5792" title="Międzyrzecz" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.4438&amp;mlon=15.5792#map=15/52.4438/15.5792" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

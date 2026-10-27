@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/dormowo/"
 alt_url: "/places/dormowo/"
 excerpt_separator: ""
-hits_docs: [{"id": "13", "uid": "oe1bu14525-13", "url": "/documents/oe1bu14525/13/", "n": 1}, {"id": "3", "uid": "oe1bu14526-3", "url": "/documents/oe1bu14526/3/", "n": 5}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "n": 1}]
+hits_docs: [{"id": "13", "uid": "oe1bu14525-13", "url": "/documents/oe1bu14525/13/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "3", "uid": "oe1bu14526-3", "url": "/documents/oe1bu14526/3/", "unit_label": "Oe 1 Bü 14526", "n": 5}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.855319%2C52.509181%2C15.895318999999999%2C52.549181000000004&amp;layer=mapnik&amp;marker=52.529181%2C15.875319" title="Dormowo"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.529181&amp;mlon=15.875319#map=15/52.529181/15.875319" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.855319%2C52.509181%2C15.895318999999999%2C52.549181000000004&amp;layer=mapnik&amp;marker=52.529181%2C15.875319" title="Dormowo" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.529181&amp;mlon=15.875319#map=15/52.529181/15.875319" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

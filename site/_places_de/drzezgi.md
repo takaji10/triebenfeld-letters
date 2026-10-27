@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Wassermühle</p>
-
-<p class="refs" lang="en">south of Maryantów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Drzęzgi</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Drzęzgi*.
 
 Water mill which existed south of Maryantów. First mentioned in a 1630 marriage record from Trąbczyn Catholic parish metrical records.[^16] Only one map noted this feature (Reymann 1834).
 

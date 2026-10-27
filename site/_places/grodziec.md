@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/grodziec/"
 alt_url: "/de/orte/grodziec/"
 excerpt_separator: ""
-hits_docs: [{"id": "8", "uid": "app539680716-8", "url": "/documents/app539680716/8/", "n": 2}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "n": 2}, {"id": "2", "uid": "app539680669-2", "url": "/documents/app539680669/2/", "n": 1}]
+hits_docs: [{"id": "8", "uid": "app539680716-8", "url": "/documents/app539680716/8/", "unit_label": "APP 53/968/0/-/716", "n": 2}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 2}, {"id": "2", "uid": "app539680669-2", "url": "/documents/app539680669/2/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.040046%2C52.018449999999994%2C18.080046%2C52.05845&amp;layer=mapnik&amp;marker=52.03845%2C18.060046" title="Grodziec"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.03845&amp;mlon=18.060046#map=15/52.03845/18.060046" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.040046%2C52.018449999999994%2C18.080046%2C52.05845&amp;layer=mapnik&amp;marker=52.03845%2C18.060046" title="Grodziec" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.03845&amp;mlon=18.060046#map=15/52.03845/18.060046" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

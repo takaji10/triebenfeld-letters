@@ -244,7 +244,7 @@ def main():
             hit = named.get(slug) or {}
             if hit.get('letters'):
                 body += ['<section class="place-docs">',
-                         '{% raw %}{{ t.places_named_h2 }}{% endraw %}',
+                         '{{ t.places_docs_h2 }}',
                          '',
                          '{% include doc-list.html letters=page.hits_docs '
                          'docs=page.hits_docs_count %}',
@@ -297,22 +297,10 @@ def main():
     STAND_DE = ('Die eigene Seite des Ortes in der Ausgabe: seine Beschreibung'
                 ' im Gazetteer, mit den für ihn zitierten Quellen, und unten'
                 ' die Dokumente der Ausgabe, die ihn nennen.')
-    INTRO_EN = ('The description gathers the place\'s own text in the edition\'s'
-                ' gazetteer - the editor\'s account where one stands and the'
-                ' sentences made from the corrected citations of the Słownik'
-                ' geograficzny, Nazwy miejscowe Polski and the Kodeks'
-                ' dyplomatyczny Wielkopolski - with the dated forms of its'
-                ' name, the map where the place is identified, and the'
-                ' documents that name it.')
-    INTRO_DE = ('Die Beschreibung versammelt den eigenen Text des Ortes im'
-                ' Gazetteer der Ausgabe - die Schilderung des Editors, wo eine'
-                ' steht, und die Sätze aus den korrigierten Zitaten des'
-                ' Słownik geograficzny, der Nazwy miejscowe Polski und des'
-                ' Kodeks dyplomatyczny Wielkopolski - mit den datierten'
-                ' Namensformen, der Karte, wo der Ort bestimmt ist, und den'
-                ' Dokumenten, die ihn nennen.')
-
     auto = []
+    REL_RX = re.compile(r'^(?:north|south|east|west|north-|south-|east-|west-'
+                        r'|near |between |next |by |along |on the |in the )',
+                        re.I)
     for row in index_rows:
         slug = row['slug']
         if slug in authored:
@@ -325,17 +313,22 @@ def main():
         loc = g.get('location') or {}
         hit = named.get(slug) or {}
         n_docs = hit.get('docs') or 0
-        if loc.get('text'):
-            st = (loc['text'][0].upper() + loc['text'][1:].rstrip('.') + '.')
-        else:
-            st = f'A {kind_en.lower()}.' if not ger else f'A {kind_en.lower()}, once named {ger}.'
-        st_de = (f'Ein {kind_de}.' if ger == ''
-                 else f'Ein {kind_de}, früher {ger} genannt.')
+        # The standfirst is the kind and, where the entry says so in a short
+        # relative clause, the place's situation (the editor, 2026-10-27:
+        # "the line would be the type of place it is, and the approximate
+        # location in relation to another place"). A longer location text
+        # says what the description already says and is not repeated.
+        rel = loc.get('text') or ''
+        rel = rel if (rel and REL_RX.match(rel) and len(rel) <= 70) else ''
+        ger_de = f', früher {ger} genannt' if ger else ''
+        ger_en = f', once named {ger}' if ger else ''
+        st = (f'{kind_en} {rel.rstrip(".")}{ger_en}.'.replace('  ', ' ')
+              if rel else f'{kind_en}{ger_en}.')
+        st_de = f'{kind_de}{ger_de}.'
         auto.append({
             'slug': slug, 'heading': heading,
             'heading_de': heading if ger else (row.get('name_de') or head),
             'standfirst_en': st, 'standfirst_de': st_de,
-            'intro_en': INTRO_EN, 'intro_de': INTRO_DE,
             'gaz': g, 'kind_en': kind_en, 'kind_de': kind_de,
             'name_de': row.get('name_de') or head,
             'docs': n_docs, 'letters': hit.get('letters') or [],
@@ -366,23 +359,36 @@ def main():
                     '',
                     '<section class="place-gaz">',
                     '']
-            kind = a['kind_en'] if lang == 'en' else a['kind_de']
-            body += [f'<p class="refs">{kind}</p>', '']
             loc = g.get('location') or {}
-            if loc.get('text'):
-                body += [f'<p class="refs" lang="en">{loc["text"].rstrip(".")}.</p>', '']
-            # the dated forms, each with its footnote
+            # the dated forms and the description, one markdown block: the
+            # forms' footnote references resolve by the same kramdown
+            # numbering as the description's (the editor, 2026-10-27: the
+            # superscripts lead somewhere and count from one)
             names = [n for n in (g.get('names') or []) if n.get('form')]
-            if names:
-                items = []
-                for n in names:
-                    y = f' {n["year"]}' if n.get('year') else ''
-                    fn = (f'<sup class="gfn"><a href="#fn-{n["footnote"]}">'
-                          f'{n["footnote"]}</a></sup>' if n.get('footnote') else '')
-                    items.append(f'<i>{n["form"]}</i>{y}{fn}')
-                body += ['<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} '
-                         + '; '.join(items) + '</p>', '']
-            # the map
+            text_en = (g.get('text_en') or '').strip()
+            fns = g.get('footnotes') or []
+            if names or text_en or fns:
+                body += ['{% raw %}',
+                         '<div class="place-desc" lang="en" markdown="1">', '']
+                if names:
+                    items = []
+                    for n in names:
+                        y = f' {n["year"]}' if n.get('year') else ''
+                        fn = (f' [^{n["footnote"]}]' if n.get('footnote') else '')
+                        items.append(f'*{n["form"]}*{y}{fn}')
+                    body += ['*Dated forms of the name:* ' + '; '.join(items)
+                             + '.', '']
+                if text_en:
+                    body += [text_en, '']
+                for f_ in fns:
+                    body.append(f'[^{f_["n"]}]: {f_["text"]}')
+                    for r_ in (f_.get('refs') or []):
+                        if r_.get('status') == 'linked' and r_.get('link'):
+                            body.append(f'    [The document in the edition.]({r_["link"]})')
+                    body.append('')
+                body += ['</div>', '{% endraw %}', '']
+            # the map: the iframe is laid out at twice the size shown and
+            # scaled down by the stylesheet, so the tiles render sharp
             lat = lon = None
             if loc.get('lat') and loc.get('lon'):
                 lat, lon = loc['lat'], loc['lon']
@@ -393,33 +399,21 @@ def main():
                 d = 0.02
                 body += [
                     '<div class="place-map">',
+                    '<div class="place-map-frame">',
                     f'<iframe src="https://www.openstreetmap.org/export/embed.html?'
                     f'bbox={lon - d}%2C{lat - d}%2C{lon + d}%2C{lat + d}&amp;'
                     f'layer=mapnik&amp;marker={lat}%2C{lon}" '
-                    f'title="{a["heading"]}"></iframe>',
+                    f'title="{a["heading"]}" loading="lazy"></iframe>',
+                    '</div>',
                     f'<p class="refs"><a href="https://www.openstreetmap.org/'
                     f'?mlat={lat}&amp;mlon={lon}#map=15/{lat}/{lon}" '
-                    'rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>',
+                    'rel="noopener">{{ t.map_link }}</a></p>',
                     '</div>', '']
-            # the description, footnotes resolved by kramdown
-            text_en = (g.get('text_en') or '').strip()
-            fns = g.get('footnotes') or []
-            if text_en or fns:
-                body += ['{% raw %}', '<div class="place-desc" lang="en" markdown="1">', '']
-                if text_en:
-                    body += [text_en, '']
-                for f_ in fns:
-                    body.append(f'[^{f_["n"]}]: {f_["text"]}')
-                    for r_ in (f_.get('refs') or []):
-                        if r_.get('status') == 'linked' and r_.get('link'):
-                            body.append(f'    [The document in the edition.]({r_["link"]})')
-                    body.append('')
-                body += ['</div>', '{% endraw %}', '']
             body += ['</section>', '']
             # the documents that name the place
             if a['letters']:
                 body += ['<section class="place-docs">',
-                         '{% raw %}{{ t.places_named_h2 }}{% endraw %}',
+                         '{{ t.places_docs_h2 }}',
                          '',
                          '{% include doc-list.html letters=page.hits_docs '
                          'docs=page.hits_docs_count %}',
@@ -440,18 +434,20 @@ def main():
                 f.write('\n'.join(fm) + '\n' + '\n'.join(body) + '\n')
 
     # the site's copy: authored places keep their fields; the generated
-    # places carry the heading, the standfirst and the intro the layout shows
+    # places carry the heading and the standfirst the layout shows
     for a in auto:
         places.append({k: a[k] for k in (
             'slug', 'heading', 'heading_de', 'standfirst_en', 'standfirst_de',
-            'intro_en', 'intro_de')} | {'sources': []})
+            'intro_en', 'intro_de') if k in a} | {'sources': []})
     places.sort(key=lambda p: p['slug'])
 
-    out = {pl['slug']: {k: pl[k] for k in (
-        'heading', 'heading_de', 'standfirst_en', 'standfirst_de',
-        'intro_en', 'intro_de')} | {'sources': [
+    out = {}
+    for pl in places:
+        row = {k: pl.get(k, '') for k in (
+            'heading', 'heading_de', 'standfirst_en', 'standfirst_de',
+            'intro_en', 'intro_de')}
+        out[pl['slug']] = row | {'sources': [
             {k: v for k, v in s.items() if k != 'dir'} for s in pl['sources']]}
-           for pl in places}
     with open(os.path.join(SITE, '_data', 'places_pages.yml'), 'w',
               encoding='utf-8', newline='\n') as f:
         f.write('# Generated by pipeline/places/place_pages.py from '

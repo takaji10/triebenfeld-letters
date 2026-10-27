@@ -15,12 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Ort</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Hagrowo</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Hagrowo*.
 
 Unknown place. Mentioned in a population table of Zagórów Catholic parish from 1790-91.[^23]
 

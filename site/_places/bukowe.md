@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">east of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Bukowe</i>; <i>Łomówskie Olędry</i>; <i>Bukowo</i> 1827<sup class="gfn"><a href="#fn-9">9</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.842187%2C52.110685%2C17.882187%2C52.150685&amp;layer=mapnik&amp;marker=52.130685%2C17.862187" title="Bukowe"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.130685&amp;mlon=17.862187#map=15/52.130685/17.862187" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Bukowe*; *Łomówskie Olędry*; *Bukowo* 1827 [^9].
 
 Village east of Łukom. The name is an adjective for beech trees (*Buk*). According to Chodyła, *Bukowo*/*Bukowe* (which may have existed previously as a medieval-era village) or *Olędry Łomowskie* was established on the initiative of the owner of the Łukom/Łomów estates before 1789,[^6] either through a change in its legal status or by clearing land which had been long-since abandoned.[^7] It is illustrated as an Olęder settlement on a sketch of Zagórów parish from circa 1790 by Karól Perthées (Fig. 74).[^8] *Bukower Hol.* (Gilly 1802). Nazwy miejscowe Polski records the name as *Bukowo* by 1827, later as *Bukowe* (1839).[^9]
 
@@ -43,6 +34,13 @@ Village east of Łukom. The name is an adjective for beech trees (*Buk*). Accord
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.842187%2C52.110685%2C17.882187%2C52.150685&amp;layer=mapnik&amp;marker=52.130685%2C17.862187" title="Bukowe" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.130685&amp;mlon=17.862187#map=15/52.130685/17.862187" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

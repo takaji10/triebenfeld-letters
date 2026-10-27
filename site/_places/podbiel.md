@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">east of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Podbiel</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.971958%2C52.115513%2C18.011958%2C52.155513000000006&amp;layer=mapnik&amp;marker=52.135513%2C17.991958" title="Podbiel"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.135513&amp;mlon=17.991958#map=15/52.135513/17.991958" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Podbiel*.
 
 Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the 18th century.[^59] Depicted as a folwark on Wreschen 1901. Nazwy miejscowe Polski traces the name through medieval forms *Polyebyele* (1445), *Podbiele* (1579) and *Podbyelye* (1511-23), from the prepositional phrase *podle bieli* 'by the wet marsh'.[^60]
 
@@ -38,6 +29,13 @@ Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew we
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.971958%2C52.115513%2C18.011958%2C52.155513000000006&amp;layer=mapnik&amp;marker=52.135513%2C17.991958" title="Podbiel" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.135513&amp;mlon=17.991958#map=15/52.135513/17.991958" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/stettin/"
 alt_url: "/de/orte/stettin/"
 excerpt_separator: ""
-hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 1}, {"id": "26", "uid": "oe1bu9454-26", "url": "/documents/oe1bu9454/26/", "n": 1}, {"id": "36", "uid": "oe1bu9454-36", "url": "/documents/oe1bu9454/36/", "n": 1}]
+hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "26", "uid": "oe1bu9454-26", "url": "/documents/oe1bu9454/26/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "36", "uid": "oe1bu9454-36", "url": "/documents/oe1bu9454/36/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=14.5328%2C53.4085%2C14.572799999999999%2C53.4485&amp;layer=mapnik&amp;marker=53.4285%2C14.5528" title="Szczecin"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.4285&amp;mlon=14.5528#map=15/53.4285/14.5528" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=14.5328%2C53.4085%2C14.572799999999999%2C53.4485&amp;layer=mapnik&amp;marker=53.4285%2C14.5528" title="Szczecin" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.4285&amp;mlon=14.5528#map=15/53.4285/14.5528" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

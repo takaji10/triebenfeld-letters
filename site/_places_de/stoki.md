@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/stoki/"
 alt_url: "/places/stoki/"
 excerpt_separator: ""
-hits_docs: [{"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "n": 2}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "n": 2}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "n": 1}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "n": 2}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "n": 1}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "n": 6}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "n": 6}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "n": 2}]
+hits_docs: [{"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "unit_label": "Oe 1 Bü 14526", "n": 6}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "unit_label": "Oe 1 Bü 14526", "n": 6}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 2}]
 hits_docs_count: 11
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 11
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

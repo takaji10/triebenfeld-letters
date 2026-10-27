@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/dolsk/"
 alt_url: "/places/dolsk/"
 excerpt_separator: ""
-hits_docs: [{"id": "30", "uid": "oe1bu14526-30", "url": "/documents/oe1bu14526/30/", "n": 2}]
+hits_docs: [{"id": "30", "uid": "oe1bu14526-30", "url": "/documents/oe1bu14526/30/", "unit_label": "Oe 1 Bü 14526", "n": 2}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.8234%2C51.9764%2C16.8634%2C52.016400000000004&amp;layer=mapnik&amp;marker=51.9964%2C16.8434" title="Dolsk"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.9964&amp;mlon=16.8434#map=15/51.9964/16.8434" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.8234%2C51.9764%2C16.8634%2C52.016400000000004&amp;layer=mapnik&amp;marker=51.9964%2C16.8434" title="Dolsk" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.9964&amp;mlon=16.8434#map=15/51.9964/16.8434" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

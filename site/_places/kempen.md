@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/kempen/"
 alt_url: "/de/orte/kempen/"
 excerpt_separator: ""
-hits_docs: [{"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "n": 1}, {"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "n": 1}, {"id": "298", "uid": "oe1bu9454-298", "url": "/documents/oe1bu9454/298/", "n": 1}]
+hits_docs: [{"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "298", "uid": "oe1bu9454-298", "url": "/documents/oe1bu9454/298/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.9677%2C51.254999999999995%2C18.0077%2C51.295&amp;layer=mapnik&amp;marker=51.275%2C17.9877" title="Kępno"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.275&amp;mlon=17.9877#map=15/51.275/17.9877" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.9677%2C51.254999999999995%2C18.0077%2C51.295&amp;layer=mapnik&amp;marker=51.275%2C17.9877" title="Kępno" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.275&amp;mlon=17.9877#map=15/51.275/17.9877" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

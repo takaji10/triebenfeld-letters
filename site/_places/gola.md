@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/gola/"
 alt_url: "/de/orte/gola/"
 excerpt_separator: ""
-hits_docs: [{"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "n": 1}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "n": 1}]
+hits_docs: [{"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.20067%2C52.144969999999994%2C16.240669999999998%2C52.18497&amp;layer=mapnik&amp;marker=52.16497%2C16.22067" title="Goła Wieś"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.16497&amp;mlon=16.22067#map=15/52.16497/16.22067" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.20067%2C52.144969999999994%2C16.240669999999998%2C52.18497&amp;layer=mapnik&amp;marker=52.16497%2C16.22067" title="Goła Wieś" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.16497&amp;mlon=16.22067#map=15/52.16497/16.22067" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

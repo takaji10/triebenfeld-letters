@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/sokolnik/"
 alt_url: "/de/orte/sokolnik/"
 excerpt_separator: ""
-hits_docs: [{"id": "215", "uid": "oe1bu9454-215", "url": "/documents/oe1bu9454/215/", "n": 1}, {"id": "288", "uid": "oe1bu9454-288", "url": "/documents/oe1bu9454/288/", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "n": 1}, {"id": "8", "uid": "iiihamdaiiinr12765-8", "url": "/documents/iiihamdaiiinr12765/8/", "n": 2}, {"id": "290", "uid": "oe1bu9454-290", "url": "/documents/oe1bu9454/290/", "n": 1}, {"id": "5", "uid": "oe1bu9454-5", "url": "/documents/oe1bu9454/5/", "n": 1}]
+hits_docs: [{"id": "215", "uid": "oe1bu9454-215", "url": "/documents/oe1bu9454/215/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "288", "uid": "oe1bu9454-288", "url": "/documents/oe1bu9454/288/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "8", "uid": "iiihamdaiiinr12765-8", "url": "/documents/iiihamdaiiinr12765/8/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 2}, {"id": "290", "uid": "oe1bu9454-290", "url": "/documents/oe1bu9454/290/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "5", "uid": "oe1bu9454-5", "url": "/documents/oe1bu9454/5/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 6
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 6
 
 <section class="place-gaz">
 
-<p class="refs">Estate</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Haulandsiedlung</p>
-
-<p class="refs" lang="en">in the southwest corner of the Trąbczyn estate in the Lusnie forest from 1771 to 1775.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Lusnie Olędry</i>; <i>Chełmskie Olędry</i>; <i>Lusnie Olędry</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Lusnie Olędry*; *Chełmskie Olędry*; *Lusnie Olędry*.
 
 Olęder settlement which existed in the southwest corner of the Trąbczyn estate in the Lusnie forest from 1771 to 1775. A 1775 border commission report detailed a dispute between the estates of Trąbczyn and Łukom, which involved an inn and twelve Olęder farms that were illegally taken in 1771 by Stanisław Chełmski, owner of the Łukom estate. While the farms had originally been part of Trąbczyńskie Stare Olędry, over the next five years the area became known as *Lusnie Olędry*, *Łukomskie Olędry*, and *Chełmskie Olędry*. In 1775, Chełmski was forced to return the land to Antoni Prusimski, then owner of the Trąbczyn estate. According to the border commission report, Trąbczyńskie Stare Olędry was founded in the forests of *Miąsykąt*, *Dziadulina*, and *Lusnie*.[^44] The location of Lusnie Olędry was not recorded on any known maps, with the exception of a map which was drawn for the 1775 border commission by “Reverend Benedict Woronowski, Doctor of Theology and Philosophy, and current Professor of Philosophy at the Academy of Poznań,”[^45] which has not survived.
 

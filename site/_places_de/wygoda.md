@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Kretscham</p>
-
-<p class="refs" lang="en">north of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Wygoda</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Wygoda*.
 
 Tavern which existed north of Łukom. Only one map noted this feature (Richter 1843).
 

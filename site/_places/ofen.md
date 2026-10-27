@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/ofen/"
 alt_url: "/de/orte/ofen/"
 excerpt_separator: ""
-hits_docs: [{"id": "242", "uid": "oe1bu9454-242", "url": "/documents/oe1bu9454/242/", "n": 1}]
+hits_docs: [{"id": "242", "uid": "oe1bu9454-242", "url": "/documents/oe1bu9454/242/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=19.0262%2C47.4578%2C19.0662%2C47.497800000000005&amp;layer=mapnik&amp;marker=47.4778%2C19.0462" title="Ofen (Buda)"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=47.4778&amp;mlon=19.0462#map=15/47.4778/19.0462" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=19.0262%2C47.4578%2C19.0662%2C47.497800000000005&amp;layer=mapnik&amp;marker=47.4778%2C19.0462" title="Ofen (Buda)" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=47.4778&amp;mlon=19.0462#map=15/47.4778/19.0462" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

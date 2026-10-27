@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Weiler</p>
-
-<p class="refs" lang="en">east of and belonging to Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Porąbki</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.939980000000002%2C52.106213999999994%2C17.97998%2C52.146214&amp;layer=mapnik&amp;marker=52.126214%2C17.95998" title="Porąbki"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.126214&amp;mlon=17.95998#map=15/52.126214/17.95998" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Porąbki*.
 
 Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record from Trąbczyn Catholic parish metrical records.[^60] The Słownik geograficzny records the settlement.[^61]
 
@@ -37,6 +28,13 @@ Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record fr
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.939980000000002%2C52.106213999999994%2C17.97998%2C52.146214&amp;layer=mapnik&amp;marker=52.126214%2C17.95998" title="Porąbki" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.126214&amp;mlon=17.95998#map=15/52.126214/17.95998" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">northwest of Wrąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Wrąbczyn Górski</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.819167%2C52.155556%2C17.859167%2C52.195556&amp;layer=mapnik&amp;marker=52.175556%2C17.839167" title="Wrąbczyn Górski"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.175556&amp;mlon=17.839167#map=15/52.175556/17.839167" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Wrąbczyn Górski*.
 
 Village northwest of Wrąbczyn. First appeared on Słupca 1957.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.819167%2C52.155556%2C17.859167%2C52.195556&amp;layer=mapnik&amp;marker=52.175556%2C17.839167" title="Wrąbczyn Górski" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.175556&amp;mlon=17.839167#map=15/52.175556/17.839167" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

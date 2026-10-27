@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Forest</p>
-
-<p class="refs" lang="en">near Włodzimirów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Ostrowiec</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Ostrowiec*.
 
 Forest near Włodzimirów. Mentioned in a 1775 border commission report which detailed a boundary dispute between the estates of Trąbczyn and Łukom.[^58] Noted as far east as Koszelewska Łąka on Weydner 1804 as “*Gegend der Ostrowiec”* (Area of Ostrowiec), but it is unclear if this was referring to the forest.
 

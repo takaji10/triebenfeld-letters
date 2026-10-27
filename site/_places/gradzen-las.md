@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Hamlet</p>
-
-<p class="refs" lang="en">south of and belonging to Grądzeń.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Grądzeń-Las</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.805556%2C52.083889%2C17.845556%2C52.123889000000005&amp;layer=mapnik&amp;marker=52.103889%2C17.825556" title="Grądzeń-Las"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.103889&amp;mlon=17.825556#map=15/52.103889/17.825556" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Grądzeń-Las*.
 
 Hamlet south of and belonging to Grądzeń. *Las* is “forest” in Polish and likely refers to the name of the forest outside Grądzeń. First appeared on Messtischblatt 1940.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.805556%2C52.083889%2C17.845556%2C52.123889000000005&amp;layer=mapnik&amp;marker=52.103889%2C17.825556" title="Grądzeń-Las" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.103889&amp;mlon=17.825556#map=15/52.103889/17.825556" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

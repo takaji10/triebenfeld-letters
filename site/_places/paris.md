@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/paris/"
 alt_url: "/de/orte/paris/"
 excerpt_separator: ""
-hits_docs: [{"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "n": 1}, {"id": "37", "uid": "oe1bu9454-37", "url": "/documents/oe1bu9454/37/", "n": 1}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "n": 5}, {"id": "66", "uid": "oe1bu9454-66", "url": "/documents/oe1bu9454/66/", "n": 2}, {"id": "21", "uid": "oe1bu9454-21", "url": "/documents/oe1bu9454/21/", "n": 1}, {"id": "195", "uid": "oe1bu9454-195", "url": "/documents/oe1bu9454/195/", "n": 1}, {"id": "205", "uid": "oe1bu9454-205", "url": "/documents/oe1bu9454/205/", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "n": 2}, {"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "n": 1}, {"id": "3", "uid": "iiihamdaiiinr12765-3", "url": "/documents/iiihamdaiiinr12765/3/", "n": 1}, {"id": "1", "uid": "iiihamdaiiinr12765-1", "url": "/documents/iiihamdaiiinr12765/1/", "n": 1}, {"id": "267", "uid": "oe1bu9454-267", "url": "/documents/oe1bu9454/267/", "n": 1}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "n": 1}, {"id": "280", "uid": "oe1bu9454-280", "url": "/documents/oe1bu9454/280/", "n": 3}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "n": 2}, {"id": "284", "uid": "oe1bu9454-284", "url": "/documents/oe1bu9454/284/", "n": 6}, {"id": "286", "uid": "oe1bu9454-286", "url": "/documents/oe1bu9454/286/", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "n": 1}, {"id": "16", "uid": "oe1bu9454-16", "url": "/documents/oe1bu9454/16/", "n": 1}, {"id": "288", "uid": "oe1bu9454-288", "url": "/documents/oe1bu9454/288/", "n": 1}, {"id": "14", "uid": "iiihamdaiiinr12765-14", "url": "/documents/iiihamdaiiinr12765/14/", "n": 2}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "n": 2}, {"id": "296", "uid": "oe1bu9454-296", "url": "/documents/oe1bu9454/296/", "n": 1}, {"id": "297", "uid": "oe1bu9454-297", "url": "/documents/oe1bu9454/297/", "n": 1}]
+hits_docs: [{"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "37", "uid": "oe1bu9454-37", "url": "/documents/oe1bu9454/37/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "66", "uid": "oe1bu9454-66", "url": "/documents/oe1bu9454/66/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "21", "uid": "oe1bu9454-21", "url": "/documents/oe1bu9454/21/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "195", "uid": "oe1bu9454-195", "url": "/documents/oe1bu9454/195/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "205", "uid": "oe1bu9454-205", "url": "/documents/oe1bu9454/205/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "3", "uid": "iiihamdaiiinr12765-3", "url": "/documents/iiihamdaiiinr12765/3/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "1", "uid": "iiihamdaiiinr12765-1", "url": "/documents/iiihamdaiiinr12765/1/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "267", "uid": "oe1bu9454-267", "url": "/documents/oe1bu9454/267/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "280", "uid": "oe1bu9454-280", "url": "/documents/oe1bu9454/280/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "284", "uid": "oe1bu9454-284", "url": "/documents/oe1bu9454/284/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 6}, {"id": "286", "uid": "oe1bu9454-286", "url": "/documents/oe1bu9454/286/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "16", "uid": "oe1bu9454-16", "url": "/documents/oe1bu9454/16/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "288", "uid": "oe1bu9454-288", "url": "/documents/oe1bu9454/288/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "14", "uid": "iiihamdaiiinr12765-14", "url": "/documents/iiihamdaiiinr12765/14/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 2}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "296", "uid": "oe1bu9454-296", "url": "/documents/oe1bu9454/296/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "297", "uid": "oe1bu9454-297", "url": "/documents/oe1bu9454/297/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 24
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 24
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=2.3322%2C48.8366%2C2.3722%2C48.8766&amp;layer=mapnik&amp;marker=48.8566%2C2.3522" title="Paris"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.8566&amp;mlon=2.3522#map=15/48.8566/2.3522" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=2.3322%2C48.8366%2C2.3722%2C48.8766&amp;layer=mapnik&amp;marker=48.8566%2C2.3522" title="Paris" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.8566&amp;mlon=2.3522#map=15/48.8566/2.3522" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

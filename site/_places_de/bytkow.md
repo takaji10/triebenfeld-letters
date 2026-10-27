@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/bytkow/"
 alt_url: "/places/bytkow/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 3}]
+hits_docs: [{"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 3}]
 hits_docs_count: 1
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Gut</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

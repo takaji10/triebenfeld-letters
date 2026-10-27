@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/myslowice/"
 alt_url: "/places/myslowice/"
 excerpt_separator: ""
-hits_docs: [{"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "n": 1}]
+hits_docs: [{"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=19.0177%2C50.137499999999996%2C19.0577%2C50.1775&amp;layer=mapnik&amp;marker=50.1575%2C19.0377" title="Mysłowice"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1575&amp;mlon=19.0377#map=15/50.1575/19.0377" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=19.0177%2C50.137499999999996%2C19.0577%2C50.1775&amp;layer=mapnik&amp;marker=50.1575%2C19.0377" title="Mysłowice" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1575&amp;mlon=19.0377#map=15/50.1575/19.0377" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

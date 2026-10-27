@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/glatz/"
 alt_url: "/de/orte/glatz/"
 excerpt_separator: ""
-hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "n": 2}, {"id": "65", "uid": "oe1bu9454-65", "url": "/documents/oe1bu9454/65/", "n": 1}]
+hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "65", "uid": "oe1bu9454-65", "url": "/documents/oe1bu9454/65/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.6369%2C50.4186%2C16.6769%2C50.458600000000004&amp;layer=mapnik&amp;marker=50.4386%2C16.6569" title="Kłodzko"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.4386&amp;mlon=16.6569#map=15/50.4386/16.6569" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.6369%2C50.4186%2C16.6769%2C50.458600000000004&amp;layer=mapnik&amp;marker=50.4386%2C16.6569" title="Kłodzko" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.4386&amp;mlon=16.6569#map=15/50.4386/16.6569" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

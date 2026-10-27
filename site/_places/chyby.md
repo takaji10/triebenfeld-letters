@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/chyby/"
 alt_url: "/de/orte/chyby/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "n": 2}]
+hits_docs: [{"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 2}]
 hits_docs_count: 1
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Estate</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/osiny/"
 alt_url: "/de/orte/osiny/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app536017-1", "url": "/documents/app536017/1/", "n": 1}, {"id": "1", "uid": "app53170koningr136-1", "url": "/documents/app53170koningr136/1/", "n": 5}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "n": 46}, {"id": "12", "uid": "app53170koningr116-12", "url": "/documents/app53170koningr116/12/", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "n": 2}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "n": 1}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "n": 2}, {"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "n": 2}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "n": 1}, {"id": "15", "uid": "oe1bu14526-15", "url": "/documents/oe1bu14526/15/", "n": 1}, {"id": "6", "uid": "oe1bu14526-6", "url": "/documents/oe1bu14526/6/", "n": 3}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "n": 1}, {"id": "7", "uid": "iiihamdaiiinr12367-7", "url": "/documents/iiihamdaiiinr12367/7/", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "app536017-1", "url": "/documents/app536017/1/", "unit_label": "APP 53/6/0/-/17", "n": 1}, {"id": "1", "uid": "app53170koningr136-1", "url": "/documents/app53170koningr136/1/", "unit_label": "53/17/0/-/Konin Gr.136", "n": 5}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "unit_label": "53/17/0/-/Konin Gr.145", "n": 46}, {"id": "12", "uid": "app53170koningr116-12", "url": "/documents/app53170koningr116/12/", "unit_label": "53/17/0/-/Konin Gr.116", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 2}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "15", "uid": "oe1bu14526-15", "url": "/documents/oe1bu14526/15/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "6", "uid": "oe1bu14526-6", "url": "/documents/oe1bu14526/6/", "unit_label": "Oe 1 Bü 14526", "n": 3}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "7", "uid": "iiihamdaiiinr12367-7", "url": "/documents/iiihamdaiiinr12367/7/", "unit_label": "III. HA MdA, III. Nr. 12367", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 16
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 16
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">west of Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Osiny</i>; <i>Osynÿ</i> 1606<sup class="gfn"><a href="#fn-56">56</a></sup>; <i>Ossyny</i> 1475<sup class="gfn"><a href="#fn-58">58</a></sup>; <i>Ossini</i> 1579<sup class="gfn"><a href="#fn-58">58</a></sup>; <i>Osin</i> 1981<sup class="gfn"><a href="#fn-58">58</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.91077%2C52.10586%2C17.95077%2C52.145860000000006&amp;layer=mapnik&amp;marker=52.12586%2C17.93077" title="Osiny"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.12586&amp;mlon=17.93077#map=15/52.12586/17.93077" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Osiny*; *Osynÿ* 1606 [^56]; *Ossyny* 1475 [^58]; *Ossini* 1579 [^58]; *Osin* 1981 [^58].
 
 Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn Catholic parish metrical records as *Osynÿ*.[^56] Mentioned as a mill in a 1784 court document which challenged the inheritance of the Trąbczyn estate and other assets by Antoni Prusimski (1744-1806).[^57] *Oszin* (von Pfau 1770), *Ossiny* (Perthées 1798). Nazwy miejscowe Polski records the name as *Ossyny* by 1475.[^58]
 
@@ -40,10 +31,17 @@ Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn 
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.91077%2C52.10586%2C17.95077%2C52.145860000000006&amp;layer=mapnik&amp;marker=52.12586%2C17.93077" title="Osiny" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.12586&amp;mlon=17.93077#map=15/52.12586/17.93077" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

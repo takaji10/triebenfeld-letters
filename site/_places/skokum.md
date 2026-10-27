@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/skokum/"
 alt_url: "/de/orte/skokum/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "kdw-2", "url": "/documents/kdw/2/", "n": 1}, {"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "n": 3}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "n": 1}, {"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "n": 2}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "n": 2}, {"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "n": 1}, {"id": "124", "uid": "oe1bu9454-124", "url": "/documents/oe1bu9454/124/", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "n": 2}, {"id": "1", "uid": "iharep162nr295-1", "url": "/documents/iharep162nr295/1/", "n": 1}, {"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "n": 1}, {"id": "191", "uid": "oe1bu9454-191", "url": "/documents/oe1bu9454/191/", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "213", "uid": "oe1bu9454-213", "url": "/documents/oe1bu9454/213/", "n": 1}, {"id": "232", "uid": "oe1bu9454-232", "url": "/documents/oe1bu9454/232/", "n": 1}, {"id": "18", "uid": "oe1bu9454-18", "url": "/documents/oe1bu9454/18/", "n": 1}]
+hits_docs: [{"id": "2", "uid": "kdw-2", "url": "/documents/kdw/2/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 3}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "124", "uid": "oe1bu9454-124", "url": "/documents/oe1bu9454/124/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "1", "uid": "iharep162nr295-1", "url": "/documents/iharep162nr295/1/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "191", "uid": "oe1bu9454-191", "url": "/documents/oe1bu9454/191/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "213", "uid": "oe1bu9454-213", "url": "/documents/oe1bu9454/213/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "232", "uid": "oe1bu9454-232", "url": "/documents/oe1bu9454/232/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "18", "uid": "oe1bu9454-18", "url": "/documents/oe1bu9454/18/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 21
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 21
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">east of Zagórów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Skokum</i>; <i>Skokome</i> 1240<sup class="gfn"><a href="#fn-65">65</a></sup>; <i>Szkokom</i><sup class="gfn"><a href="#fn-67">67</a></sup>; <i>Skokomie</i> 1565<sup class="gfn"><a href="#fn-67">67</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.93828%2C52.14187999999999%2C17.978279999999998%2C52.18188&amp;layer=mapnik&amp;marker=52.16188%2C17.95828" title="Skokum"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.16188&amp;mlon=17.95828#map=15/52.16188/17.95828" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Skokum*; *Skokome* 1240 [^65]; *Szkokom* [^67]; *Skokomie* 1565 [^67].
 
 Village east of Zagórów. First mentioned as *Skokome* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^65] Mentioned in a 1261 document where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery at Ląd made by Mieszko III and donated additional villages including Skokum.[^66] The Słownik geograficzny records it as a peasant village on the Czarna Struga, in gmina Emilienheim, parish of Zagórów, powiat słupecki, 17 versts from Słupca, with 50 houses and 404 inhabitants at the time of the Słownik (21 and 244 in 1827), part of the Kopojno estate; the poll-tax register of the powiat of Koniń for 1579, when it belonged to Ląd Abbey, credits it with 9½ łany, 2 landless zagrodnicy, 2 landless komornicy and 2 craftsmen.[^67]
 
@@ -42,10 +33,17 @@ Village east of Zagórów. First mentioned as *Skokome* in a 1240 document where
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.93828%2C52.14187999999999%2C17.978279999999998%2C52.18188&amp;layer=mapnik&amp;marker=52.16188%2C17.95828" title="Skokum" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.16188&amp;mlon=17.95828#map=15/52.16188/17.95828" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/embden/"
 alt_url: "/de/orte/embden/"
 excerpt_separator: ""
-hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "n": 1}]
+hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=7.1850000000000005%2C53.347199999999994%2C7.225%2C53.3872&amp;layer=mapnik&amp;marker=53.3672%2C7.205" title="Emden"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.3672&amp;mlon=7.205#map=15/53.3672/7.205" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=7.1850000000000005%2C53.347199999999994%2C7.225%2C53.3872&amp;layer=mapnik&amp;marker=53.3672%2C7.205" title="Emden" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.3672&amp;mlon=7.205#map=15/53.3672/7.205" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

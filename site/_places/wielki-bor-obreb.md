@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Forest precinct</p>
-
-<p class="refs" lang="en">southwest of Łazińsk Pierwszy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Wielki-Bór Obręb</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Wielki-Bór Obręb*.
 
 Historical forest precinct which existed southwest of Łazińsk Pierwszy. The precinct included the districts (Pl. *okręg*) of *Studienka,* and *Wypalanki*. Only one map noted this feature (Kozłowski 1861).
 

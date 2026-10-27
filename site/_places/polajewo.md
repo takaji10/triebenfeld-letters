@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/polajewo/"
 alt_url: "/de/orte/polajewo/"
 excerpt_separator: ""
-hits_docs: [{"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "n": 2}, {"id": "84", "uid": "oe1bu9454-84", "url": "/documents/oe1bu9454/84/", "n": 2}, {"id": "93", "uid": "oe1bu9454-93", "url": "/documents/oe1bu9454/93/", "n": 1}, {"id": "85", "uid": "oe1bu9454-85", "url": "/documents/oe1bu9454/85/", "n": 1}, {"id": "86", "uid": "oe1bu9454-86", "url": "/documents/oe1bu9454/86/", "n": 2}, {"id": "87", "uid": "oe1bu9454-87", "url": "/documents/oe1bu9454/87/", "n": 5}, {"id": "88", "uid": "oe1bu9454-88", "url": "/documents/oe1bu9454/88/", "n": 1}, {"id": "89", "uid": "oe1bu9454-89", "url": "/documents/oe1bu9454/89/", "n": 2}, {"id": "94", "uid": "oe1bu9454-94", "url": "/documents/oe1bu9454/94/", "n": 1}, {"id": "101", "uid": "oe1bu9454-101", "url": "/documents/oe1bu9454/101/", "n": 11}]
+hits_docs: [{"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "84", "uid": "oe1bu9454-84", "url": "/documents/oe1bu9454/84/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "93", "uid": "oe1bu9454-93", "url": "/documents/oe1bu9454/93/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "85", "uid": "oe1bu9454-85", "url": "/documents/oe1bu9454/85/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "86", "uid": "oe1bu9454-86", "url": "/documents/oe1bu9454/86/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "87", "uid": "oe1bu9454-87", "url": "/documents/oe1bu9454/87/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "88", "uid": "oe1bu9454-88", "url": "/documents/oe1bu9454/88/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "89", "uid": "oe1bu9454-89", "url": "/documents/oe1bu9454/89/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "94", "uid": "oe1bu9454-94", "url": "/documents/oe1bu9454/94/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "101", "uid": "oe1bu9454-101", "url": "/documents/oe1bu9454/101/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 11}]
 hits_docs_count: 10
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 10
 
 <section class="place-gaz">
 
-<p class="refs">Estate</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

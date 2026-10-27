@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Örtlichkeit</p>
-
-<p class="refs" lang="en">south of Łomów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Dziadolina</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Dziadolina*.
 
 Locale which existed south of Łomów. First mentioned as a forest in a 1775 border commission report which stated that *Trąbczyńskie Stare Olędry* was established on part of the Dziadulina forest on the Trąbczyn estate.[^17] Listed as a settlement (Pl. *osada*) in the Geographical Dictionary of the Kingdom of Poland in 1881[^18] and shown on Trójwiorstówki 1914 as *G[uta?] Diadolina*. *Dziadowy* (Gilly 1802); as a forest called *Dziadulina* (Kozłowski 1861).
 

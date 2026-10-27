@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/gostyszyn/"
 alt_url: "/places/gostyszyn/"
 excerpt_separator: ""
-hits_docs: [{"id": "298", "uid": "oe1bu9454-298", "url": "/documents/oe1bu9454/298/", "n": 2}, {"id": "300", "uid": "oe1bu9454-300", "url": "/documents/oe1bu9454/300/", "n": 1}]
+hits_docs: [{"id": "298", "uid": "oe1bu9454-298", "url": "/documents/oe1bu9454/298/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "300", "uid": "oe1bu9454-300", "url": "/documents/oe1bu9454/300/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

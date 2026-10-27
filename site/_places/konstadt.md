@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/konstadt/"
 alt_url: "/de/orte/konstadt/"
 excerpt_separator: ""
-hits_docs: [{"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "n": 5}, {"id": "221", "uid": "oe1bu9454-221", "url": "/documents/oe1bu9454/221/", "n": 1}]
+hits_docs: [{"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "221", "uid": "oe1bu9454-221", "url": "/documents/oe1bu9454/221/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.0333%2C51.043899999999994%2C18.0733%2C51.0839&amp;layer=mapnik&amp;marker=51.0639%2C18.0533" title="Wołczyn"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.0639&amp;mlon=18.0533#map=15/51.0639/18.0533" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.0333%2C51.043899999999994%2C18.0733%2C51.0839&amp;layer=mapnik&amp;marker=51.0639%2C18.0533" title="Wołczyn" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.0639&amp;mlon=18.0533#map=15/51.0639/18.0533" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

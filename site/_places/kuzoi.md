@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Place</p>
-
-<p class="refs" lang="en">south of Myszaków.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Kuzoi</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Kuzoi*.
 
 Unknown place which existed south of Myszaków. Only one map noted this feature (von Pfau 1770).
 

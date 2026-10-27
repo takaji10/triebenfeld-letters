@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Łazińsk Drugi</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.93%2C52.081388999999994%2C17.97%2C52.121389&amp;layer=mapnik&amp;marker=52.101389%2C17.95" title="Łazińsk Drugi"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.101389&amp;mlon=17.95#map=15/52.101389/17.95" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Łazińsk Drugi*.
 
 Village south of Łazy, the area of the former Trąbczyńskie Nowe Olędry. One of the two villages into which Łazińskie Olędry was separated in the later half of the 20th century, the other being Łazińsk Pierwszy. The AGOFF society's article "Der evangelische Friedhof in Łazińsk Drugi" (Jürgen Frantz, 2016) records the village's Protestant cemetery.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.93%2C52.081388999999994%2C17.97%2C52.121389&amp;layer=mapnik&amp;marker=52.101389%2C17.95" title="Łazińsk Drugi" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.101389&amp;mlon=17.95#map=15/52.101389/17.95" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

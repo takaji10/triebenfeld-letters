@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/welna/"
 alt_url: "/de/orte/welna/"
 excerpt_separator: ""
-hits_docs: [{"id": "174", "uid": "oe1bu9454-174", "url": "/documents/oe1bu9454/174/", "n": 1}]
+hits_docs: [{"id": "174", "uid": "oe1bu9454-174", "url": "/documents/oe1bu9454/174/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">River</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

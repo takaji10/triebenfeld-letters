@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">southwest of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Michalinów Oleśnicki</i>; <i>Kolonia Emilienheim</i>; <i>Kolonia Emilienhain</i>; <i>Emilienheim</i>; <i>Michalinów Oleśnicki</i> 1891</p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.886508%2C52.113339999999994%2C17.926508%2C52.15334&amp;layer=mapnik&amp;marker=52.13334%2C17.906508" title="Michalinów Oleśnicki"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13334&amp;mlon=17.906508#map=15/52.13334/17.906508" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Michalinów Oleśnicki*; *Kolonia Emilienheim*; *Kolonia Emilienhain*; *Emilienheim*; *Michalinów Oleśnicki* 1891.
 
 Village southwest of Trąbczyn. Originally named *Emilienheim* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Michalinów Oleśnicki (as it was part of Oleśnica Gmina) in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Emilienhain* (Reymann 1834). The Słownik geograficzny records it as a village, powiat słupecki.[^1]
 
@@ -35,6 +26,13 @@ Village southwest of Trąbczyn. Originally named *Emilienheim* and founded as a 
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.886508%2C52.113339999999994%2C17.926508%2C52.15334&amp;layer=mapnik&amp;marker=52.13334%2C17.906508" title="Michalinów Oleśnicki" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13334&amp;mlon=17.906508#map=15/52.13334/17.906508" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

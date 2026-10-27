@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Örtlichkeit</p>
-
-<p class="refs" lang="en">northeast of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trąbczyn G</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.938447%2C52.123177999999996%2C17.978447%2C52.163178&amp;layer=mapnik&amp;marker=52.143178%2C17.958447" title="Trąbczyn G"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.143178&amp;mlon=17.958447#map=15/52.143178/17.958447" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trąbczyn G*.
 
 Locale which existed northeast of Trąbczyn. Likely created after the parcelling of Trąbczyn estate property in the late 19th century. Only one map noted this feature (Pełzucki 1901).
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.938447%2C52.123177999999996%2C17.978447%2C52.163178&amp;layer=mapnik&amp;marker=52.143178%2C17.958447" title="Trąbczyn G" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.143178&amp;mlon=17.958447#map=15/52.143178/17.958447" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

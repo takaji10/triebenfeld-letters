@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/oppurg/"
 alt_url: "/de/orte/oppurg/"
 excerpt_separator: ""
-hits_docs: [{"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "n": 1}, {"id": "2", "uid": "oe1bu9454-2", "url": "/documents/oe1bu9454/2/", "n": 1}, {"id": "13", "uid": "oe1bu9454-13", "url": "/documents/oe1bu9454/13/", "n": 1}]
+hits_docs: [{"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "2", "uid": "oe1bu9454-2", "url": "/documents/oe1bu9454/2/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "13", "uid": "oe1bu9454-13", "url": "/documents/oe1bu9454/13/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Estate</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

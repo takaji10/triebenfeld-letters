@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/koenigsberg/"
 alt_url: "/places/koenigsberg/"
 excerpt_separator: ""
-hits_docs: [{"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "n": 1}, {"id": "35", "uid": "oe1bu9454-35", "url": "/documents/oe1bu9454/35/", "n": 2}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "n": 2}, {"id": "41", "uid": "oe1bu9454-41", "url": "/documents/oe1bu9454/41/", "n": 2}, {"id": "42", "uid": "oe1bu9454-42", "url": "/documents/oe1bu9454/42/", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "n": 2}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "n": 2}, {"id": "51", "uid": "oe1bu9454-51", "url": "/documents/oe1bu9454/51/", "n": 1}, {"id": "52", "uid": "oe1bu9454-52", "url": "/documents/oe1bu9454/52/", "n": 1}, {"id": "57", "uid": "oe1bu9454-57", "url": "/documents/oe1bu9454/57/", "n": 3}, {"id": "53", "uid": "oe1bu9454-53", "url": "/documents/oe1bu9454/53/", "n": 1}, {"id": "58", "uid": "oe1bu9454-58", "url": "/documents/oe1bu9454/58/", "n": 1}, {"id": "59", "uid": "oe1bu9454-59", "url": "/documents/oe1bu9454/59/", "n": 5}, {"id": "61", "uid": "oe1bu9454-61", "url": "/documents/oe1bu9454/61/", "n": 1}, {"id": "63", "uid": "oe1bu9454-63", "url": "/documents/oe1bu9454/63/", "n": 1}]
+hits_docs: [{"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "35", "uid": "oe1bu9454-35", "url": "/documents/oe1bu9454/35/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "41", "uid": "oe1bu9454-41", "url": "/documents/oe1bu9454/41/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "42", "uid": "oe1bu9454-42", "url": "/documents/oe1bu9454/42/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "51", "uid": "oe1bu9454-51", "url": "/documents/oe1bu9454/51/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "52", "uid": "oe1bu9454-52", "url": "/documents/oe1bu9454/52/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "57", "uid": "oe1bu9454-57", "url": "/documents/oe1bu9454/57/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "53", "uid": "oe1bu9454-53", "url": "/documents/oe1bu9454/53/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "58", "uid": "oe1bu9454-58", "url": "/documents/oe1bu9454/58/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "59", "uid": "oe1bu9454-59", "url": "/documents/oe1bu9454/59/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "61", "uid": "oe1bu9454-61", "url": "/documents/oe1bu9454/61/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "63", "uid": "oe1bu9454-63", "url": "/documents/oe1bu9454/63/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 16
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 16
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=20.4322%2C54.6904%2C20.4722%2C54.7304&amp;layer=mapnik&amp;marker=54.7104%2C20.4522" title="Königsberg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=54.7104&amp;mlon=20.4522#map=15/54.7104/20.4522" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=20.4322%2C54.6904%2C20.4722%2C54.7304&amp;layer=mapnik&amp;marker=54.7104%2C20.4522" title="Königsberg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=54.7104&amp;mlon=20.4522#map=15/54.7104/20.4522" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

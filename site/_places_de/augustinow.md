@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/augustinow/"
 alt_url: "/places/augustinow/"
 excerpt_separator: ""
-hits_docs: [{"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "n": 2}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "n": 1}, {"id": "47", "uid": "oe1bu9454-47", "url": "/documents/oe1bu9454/47/", "n": 1}]
+hits_docs: [{"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "47", "uid": "oe1bu9454-47", "url": "/documents/oe1bu9454/47/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Zagórów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Augustynów</i>; <i>Kolonia Augustinhof</i>; <i>Kolonia Augustinhof</i>; <i>Augustynów</i> 1891; <i>Augustynowo</i> 1827<sup class="gfn"><a href="#fn-5">5</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.85681%2C52.11698%2C17.89681%2C52.156980000000004&amp;layer=mapnik&amp;marker=52.13698%2C17.87681" title="Augustynów (Augustinhof)"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13698&amp;mlon=17.87681#map=15/52.13698/17.87681" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Augustynów*; *Kolonia Augustinhof*; *Kolonia Augustinhof*; *Augustynów* 1891; *Augustynowo* 1827 [^5].
 
 Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Augustinhof was established on March 21, 1806, when the Trąbczyn Patrimonial Court issued an agreement between Hohenlohe-Ingelfingen and eighteen German colonists to settle on 100 *Hüfen* (766 ha, or 7.7 km²) of woodland on the Drzewce estate.[^3] Renamed to Augustynów in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Augustinow* (Reymann 1834). The Słownik geograficzny records it as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 358 inhabitants at the time of the Słownik.[^4] Nazwy miejscowe Polski records the name as *Augustynowo* by 1827, later as *Augustynów* (1839).[^5]
 
@@ -41,10 +32,17 @@ Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded a
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.85681%2C52.11698%2C17.89681%2C52.156980000000004&amp;layer=mapnik&amp;marker=52.13698%2C17.87681" title="Augustynów (Augustinhof)" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13698&amp;mlon=17.87681#map=15/52.13698/17.87681" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

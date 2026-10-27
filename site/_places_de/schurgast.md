@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/schurgast/"
 alt_url: "/places/schurgast/"
 excerpt_separator: ""
-hits_docs: [{"id": "218", "uid": "oe1bu9454-218", "url": "/documents/oe1bu9454/218/", "n": 5}, {"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "n": 1}, {"id": "221", "uid": "oe1bu9454-221", "url": "/documents/oe1bu9454/221/", "n": 1}]
+hits_docs: [{"id": "218", "uid": "oe1bu9454-218", "url": "/documents/oe1bu9454/218/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "221", "uid": "oe1bu9454-221", "url": "/documents/oe1bu9454/221/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">Gut</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Mound</p>
-
-<p class="refs" lang="en">north of Zagórów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Rydlowa Góra</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.883611000000002%2C52.169722%2C17.923611%2C52.209722000000006&amp;layer=mapnik&amp;marker=52.189722%2C17.903611" title="Rydlowa Góra"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.189722&amp;mlon=17.903611#map=15/52.189722/17.903611" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Rydlowa Góra*.
 
 Earthen mound north of Zagórów. Once a historic settlement built around the 9th/10th century. Appeared on Messtischblatt 1940.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.883611000000002%2C52.169722%2C17.923611%2C52.209722000000006&amp;layer=mapnik&amp;marker=52.189722%2C17.903611" title="Rydlowa Góra" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.189722&amp;mlon=17.903611#map=15/52.189722/17.903611" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

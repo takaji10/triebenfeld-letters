@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/mariantow/"
 alt_url: "/places/mariantow/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "n": 2}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "n": 1}, {"id": "16", "uid": "oe1bu14526-16", "url": "/documents/oe1bu14526/16/", "n": 1}, {"id": "1", "uid": "app539680801-1", "url": "/documents/app539680801/1/", "n": 1}, {"id": "168", "uid": "oe1bu9454-168", "url": "/documents/oe1bu9454/168/", "n": 1}, {"id": "10", "uid": "oe1bu14526-10", "url": "/documents/oe1bu14526/10/", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "n": 1}, {"id": "2", "uid": "app539680801-2", "url": "/documents/app539680801/2/", "n": 1}, {"id": "3", "uid": "app539680801-3", "url": "/documents/app539680801/3/", "n": 1}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "n": 2}, {"id": "1", "uid": "app5371057-1", "url": "/documents/app5371057/1/", "n": 5}, {"id": "179a", "uid": "oe1bu9454-179a", "url": "/documents/oe1bu9454/179a/", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "n": 1}]
+hits_docs: [{"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "16", "uid": "oe1bu14526-16", "url": "/documents/oe1bu14526/16/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "1", "uid": "app539680801-1", "url": "/documents/app539680801/1/", "unit_label": "APP 53/968/0/-/801", "n": 1}, {"id": "168", "uid": "oe1bu9454-168", "url": "/documents/oe1bu9454/168/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "10", "uid": "oe1bu14526-10", "url": "/documents/oe1bu14526/10/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "2", "uid": "app539680801-2", "url": "/documents/app539680801/2/", "unit_label": "APP 53/968/0/-/801", "n": 1}, {"id": "3", "uid": "app539680801-3", "url": "/documents/app539680801/3/", "unit_label": "APP 53/968/0/-/801", "n": 1}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "unit_label": "Oe 1 Bü 14526", "n": 2}, {"id": "1", "uid": "app5371057-1", "url": "/documents/app5371057/1/", "unit_label": "APP 53/71/0/-/57", "n": 5}, {"id": "179a", "uid": "oe1bu9454-179a", "url": "/documents/oe1bu9454/179a/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 15
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 15
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">east of Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Mariantów</i>; <i>Marjantów</i> 1877<sup class="gfn"><a href="#fn-1">1</a></sup>; <i>Marjantów tów</i> 1921<sup class="gfn"><a href="#fn-1">1</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.946944000000002%2C52.110277999999994%2C17.986944%2C52.150278&amp;layer=mapnik&amp;marker=52.130278%2C17.966944" title="Mariantów"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.130278&amp;mlon=17.966944#map=15/52.130278/17.966944" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Mariantów*; *Marjantów* 1877 [^1]; *Marjantów tów* 1921 [^1].
 
 Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]
 
@@ -36,10 +27,17 @@ Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a waterm
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.946944000000002%2C52.110277999999994%2C17.986944%2C52.150278&amp;layer=mapnik&amp;marker=52.130278%2C17.966944" title="Mariantów" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.130278&amp;mlon=17.966944#map=15/52.130278/17.966944" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

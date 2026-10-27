@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/szetlew/"
 alt_url: "/places/szetlew/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "kdw-2", "url": "/documents/kdw/2/", "n": 1}, {"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "n": 2}, {"id": "1", "uid": "app534062-1", "url": "/documents/app534062/1/", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "n": 2}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "n": 1}]
+hits_docs: [{"id": "2", "uid": "kdw-2", "url": "/documents/kdw/2/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 2}, {"id": "1", "uid": "app534062-1", "url": "/documents/app534062/1/", "unit_label": "APP 53/4/0/-/62", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 2}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,19 +15,10 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">southeast of Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Szetlew</i>; <i>Szetlevo</i> 1240<sup class="gfn"><a href="#fn-70">70</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.97908%2C52.111594999999994%2C18.01908%2C52.151595&amp;layer=mapnik&amp;marker=52.131595%2C17.99908" title="Szetlew"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131595&amp;mlon=17.99908#map=15/52.131595/17.99908" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Szetlew*; *Szetlevo* 1240 [^70].
 
 Village southeast of Łazy. First mentioned as *Szetlevo* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^70] Mentioned in a 1261 document as “*Szethowo cum cocis”* (Latin for “Szetlewo with cooks,” also mentioned as such in 1280[^71]) where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery at Ląd made by Mieszko III and donated additional villages.[^72] In 1589, Nicolaus Otto-Trąmpczyński, the owner of Szetlew, was sued by other members of the Otto-Trąmpczyński family for destroying their nearby mill by diverting its watercourse and blocking the road to the mill.[^73] The most recent version of the mill was built circa 1910-1912 by W. Hauke and ceased operations in 1979.[^74] In 1775, Szetlew and the nearby village of Podbiel were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the 18th century.[^75] *Szetlewo* (Perthées 1798).
 
@@ -51,10 +42,17 @@ Village southeast of Łazy. First mentioned as *Szetlevo* in a 1240 document whe
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.97908%2C52.111594999999994%2C18.01908%2C52.151595&amp;layer=mapnik&amp;marker=52.131595%2C17.99908" title="Szetlew" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131595&amp;mlon=17.99908#map=15/52.131595/17.99908" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/frankfurt-am-main/"
 alt_url: "/de/orte/frankfurt-am-main/"
 excerpt_separator: ""
-hits_docs: [{"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "n": 1}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "n": 2}]
+hits_docs: [{"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}]
 hits_docs_count: 4
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=8.6621%2C50.0909%2C8.7021%2C50.130900000000004&amp;layer=mapnik&amp;marker=50.1109%2C8.6821" title="Frankfurt am Main"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1109&amp;mlon=8.6821#map=15/50.1109/8.6821" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=8.6621%2C50.0909%2C8.7021%2C50.130900000000004&amp;layer=mapnik&amp;marker=50.1109%2C8.6821" title="Frankfurt am Main" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1109&amp;mlon=8.6821#map=15/50.1109/8.6821" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

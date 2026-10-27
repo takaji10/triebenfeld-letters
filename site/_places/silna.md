@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/silna/"
 alt_url: "/de/orte/silna/"
 excerpt_separator: ""
-hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "n": 1}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "n": 1}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "n": 1}]
+hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 7
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 7
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.823167%2C52.436153%2C15.863166999999999%2C52.476153000000004&amp;layer=mapnik&amp;marker=52.456153%2C15.843167" title="Silna"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.456153&amp;mlon=15.843167#map=15/52.456153/15.843167" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.823167%2C52.436153%2C15.863166999999999%2C52.476153000000004&amp;layer=mapnik&amp;marker=52.456153%2C15.843167" title="Silna" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.456153&amp;mlon=15.843167#map=15/52.456153/15.843167" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

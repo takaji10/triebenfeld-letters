@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Einzelsiedlung</p>
-
-<p class="refs" lang="en">south of and belonging to Kościołków.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Kirchol</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.846208%2C52.133654%2C17.886208%2C52.173654000000006&amp;layer=mapnik&amp;marker=52.153654%2C17.866208" title="Kirchol"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.153654&amp;mlon=17.866208#map=15/52.153654/17.866208" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Kirchol*.
 
 Isolated dwellings south of and belonging to Kościołków. First appeared on Messtischblatt 1940.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.846208%2C52.133654%2C17.886208%2C52.173654000000006&amp;layer=mapnik&amp;marker=52.153654%2C17.866208" title="Kirchol" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.153654&amp;mlon=17.866208#map=15/52.153654/17.866208" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">east of Kopojno.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Chruściki</i>; <i>Kolonia Adelhof</i>; <i>Kolonia Adelów</i>; <i>Kolonia Adelhof</i>; <i>Chruściki</i> 1891; <i>Crosczino</i> 1386<sup class="gfn"><a href="#fn-2">2</a></sup>; <i>Chrosczyn</i> 1518<sup class="gfn"><a href="#fn-2">2</a></sup>; <i>Adellzof</i> 1802<sup class="gfn"><a href="#fn-2">2</a></sup>; <i>Chruścill</i> 1827<sup class="gfn"><a href="#fn-2">2</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.982985%2C52.143192%2C18.022985%2C52.183192000000005&amp;layer=mapnik&amp;marker=52.163192%2C18.002985" title="Chruściki (Adelhof)"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.163192&amp;mlon=18.002985#map=15/52.163192/18.002985" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Chruściki*; *Kolonia Adelhof*; *Kolonia Adelów*; *Kolonia Adelhof*; *Chruściki* 1891; *Crosczino* 1386 [^2]; *Chrosczyn* 1518 [^2]; *Adellzof* 1802 [^2]; *Chruścill* 1827 [^2].
 
 Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica, powiat słupecki, with 242 inhabitants at the time of the Słownik.[^1] Nazwy miejscowe Polski records the name as *Crosczino* by 1386.[^2]
 
@@ -37,6 +28,13 @@ Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a Ger
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.982985%2C52.143192%2C18.022985%2C52.183192000000005&amp;layer=mapnik&amp;marker=52.163192%2C18.002985" title="Chruściki (Adelhof)" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.163192&amp;mlon=18.002985#map=15/52.163192/18.002985" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

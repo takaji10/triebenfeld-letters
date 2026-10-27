@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Siedlung</p>
-
-<p class="refs" lang="en">north of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Imielanka</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Imielanka*.
 
 Settlement which existed north of Łukom. Only one map noted this feature (Richter 1843). Possibly *Kol. Imielno* (Messtischblatt 1940).
 

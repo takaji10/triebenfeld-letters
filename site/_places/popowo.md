@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/popowo/"
 alt_url: "/de/orte/popowo/"
 excerpt_separator: ""
-hits_docs: [{"id": "13", "uid": "oe1bu14525-13", "url": "/documents/oe1bu14525/13/", "n": 2}]
+hits_docs: [{"id": "13", "uid": "oe1bu14525-13", "url": "/documents/oe1bu14525/13/", "unit_label": "Oe 1 Bü 14525", "n": 2}]
 hits_docs_count: 1
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

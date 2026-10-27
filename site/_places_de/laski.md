@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Vorwerk</p>
-
-<p class="refs" lang="en">west of Trąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Laski</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Laski*.
 
 Folwark which existed west of Trąbczyn. Only one map noted this feature (Kozłowski 1861).
 

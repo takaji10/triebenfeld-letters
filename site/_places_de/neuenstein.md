@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/neuenstein/"
 alt_url: "/places/neuenstein/"
 excerpt_separator: ""
-hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "n": 1}]
+hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.603100000000001%2C49.187799999999996%2C9.6431%2C49.2278&amp;layer=mapnik&amp;marker=49.2078%2C9.6231" title="Neuenstein"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2078&amp;mlon=9.6231#map=15/49.2078/9.6231" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.603100000000001%2C49.187799999999996%2C9.6431%2C49.2278&amp;layer=mapnik&amp;marker=49.2078%2C9.6231" title="Neuenstein" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2078&amp;mlon=9.6231#map=15/49.2078/9.6231" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

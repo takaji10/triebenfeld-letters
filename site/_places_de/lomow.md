@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Łomów</i>; <i>Łomowo</i> 1461<sup class="gfn"><a href="#fn-41">41</a></sup>; <i>Lomowo</i> 1462<sup class="gfn"><a href="#fn-43">43</a></sup>; <i>Łamowu</i> 1658<sup class="gfn"><a href="#fn-43">43</a></sup>; <i>Łomy</i> 1724<sup class="gfn"><a href="#fn-43">43</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.83095%2C52.098009%2C17.87095%2C52.138009000000004&amp;layer=mapnik&amp;marker=52.118009%2C17.85095" title="Łomów"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.118009&amp;mlon=17.85095#map=15/52.118009/17.85095" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Łomów*; *Łomowo* 1461 [^41]; *Lomowo* 1462 [^43]; *Łamowu* 1658 [^43]; *Łomy* 1724 [^43].
 
 Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege document where Ląd Abbey received Łomów for *Pustkowie Grądziem*.[^41] *Lomaw* (Łukom 1766); *Lumowo* (von Pfau 1770); *Lumow* (Perthées 1798); with a windmill (Gilly 1802); *Łamowo* (Reymann 1834). The Słownik geograficzny records it as a village, in gmina Trąbczyn, parish of Zagórów, powiat słupecki.[^42] Nazwy miejscowe Polski records the name as *Lomowo* by 1462, later as *Łomowo wś* (1884).[^43]
 
@@ -40,6 +31,13 @@ Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege docume
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.83095%2C52.098009%2C17.87095%2C52.138009000000004&amp;layer=mapnik&amp;marker=52.118009%2C17.85095" title="Łomów" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.118009&amp;mlon=17.85095#map=15/52.118009/17.85095" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Bach</p>
-
-<p class="refs" lang="en">running between Osiny and Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Bartosz</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Bartosz*.
 
 Stream or canal running between Osiny and Łukom. The same waterway may have been noted in a 1775 court dispute between the owners of the Trąbczyn and Łukom estates, where the flow of water had been blocked by the people of Łukom and had caused flooding on land belonging to Trąbczyn.[^4] Breyer noted a stream running through the Łazińsk settlement which extended to Pyzdry via Łukom and Bukowe, and stated that it was called *Graben* (“stream” in English) by the local people.[^5]
 

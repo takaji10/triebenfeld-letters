@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Hamlet</p>
-
-<p class="refs" lang="en">south of and belonging to Łazy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Czerwonka</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.805563%2C52.21528%2C17.845563%2C52.255280000000006&amp;layer=mapnik&amp;marker=52.23528%2C17.825563" title="Czerwonka"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.23528&amp;mlon=17.825563#map=15/52.23528/17.825563" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Czerwonka*.
 
 Hamlet south of and belonging to Łazy. The Geographical Dictionary of the Kingdom of Poland in 1892 listed Grabina and Czerwonka as the same place (pl. “*Grabina al[bo] Czerwonka*”),[^11] though the two places are in separate locations on modern-day maps. Appeared as a folwark (Kozłowski 1861).
 
@@ -35,6 +26,13 @@ Hamlet south of and belonging to Łazy. The Geographical Dictionary of the Kingd
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.805563%2C52.21528%2C17.845563%2C52.255280000000006&amp;layer=mapnik&amp;marker=52.23528%2C17.825563" title="Czerwonka" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.23528&amp;mlon=17.825563#map=15/52.23528/17.825563" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

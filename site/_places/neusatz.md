@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/neusatz/"
 alt_url: "/de/orte/neusatz/"
 excerpt_separator: ""
-hits_docs: [{"id": "48", "uid": "oe1bu9454-48", "url": "/documents/oe1bu9454/48/", "n": 1}, {"id": "302", "uid": "oe1bu9454-302", "url": "/documents/oe1bu9454/302/", "n": 1}]
+hits_docs: [{"id": "48", "uid": "oe1bu9454-48", "url": "/documents/oe1bu9454/48/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "302", "uid": "oe1bu9454-302", "url": "/documents/oe1bu9454/302/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

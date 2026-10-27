@@ -828,13 +828,39 @@ def main():
     _pmc_by_uid = {r['uid']: r.get('_pmc') or {} for r in recs}
     _plmc_by_uid = {r['uid']: r.get('_plmc') or {} for r in recs}
 
+    # The holding's label for the fallback lists of the doc-list include
+    # (docs/PLACES_PLAN.md, section 8): a unit whose ref is a title (the
+    # Kodeks) labels with the title; an archival holding with its archive's
+    # abbreviation and its reference.
+    def _abbrev(archive):
+        m = re.search(r"\(([A-Za-zĄ-żą-żŁ-ł .-]+)\)", archive or "")
+        return m.group(1).strip() if m else (archive or "").strip()
+
+    _UNIT_LABEL = {}
+    for _u in UNITS:
+        _ref = (_u.get("ref") or "").strip()
+        _ab = _abbrev(_u.get("archive", ""))
+        if re.fullmatch(r"[\d/. -]+", _ref) and _ab:
+            _UNIT_LABEL[_u.slug] = f"{_ab} {_ref}"    # a signature: name the archive
+        elif len(_ref) > 12:
+            _UNIT_LABEL[_u.slug] = _ref               # a title in itself (the Kodeks)
+        else:
+            _UNIT_LABEL[_u.slug] = (_ab + " " + _ref).strip()
+
+    def _unit_label_of(uid):
+        return _UNIT_LABEL.get(uid.rsplit('-', 1)[0], "")
+
     def letters_line(ids, counts=None):
         """The documents of one person or place: number, uid (the key into
         assets/cards.json, for the cards the page draws) and link, and with
-        counts, how many times that document names them."""
+        counts, how many times that document names them. Each row also
+        carries its holding's label (docs/PLACES_PLAN.md, section 8: the
+        fallback list of a place's page states the source, then the
+        entries)."""
         def one(i):
             e = '{id: %s, uid: %s, url: %s' % (yaml_str(label_by_uid[i]), yaml_str(i),
                                               yaml_str(url_by_uid[i]))
+            e += ', unit_label: %s' % yaml_str(_unit_label_of(i))
             return e + (', n: %d}' % counts.get(i, 0) if counts is not None else '}')
         return '  letters: [' + ', '.join(one(i) for i in ids) + ']\n'
 

@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Forstrevier</p>
-
-<p class="refs" lang="en">east of Włodzimirów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Włodzimirow Obręb</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Włodzimirow Obręb*.
 
 Historical forest precinct which existed east of Włodzimirów. The precinct included the districts (*okręg*) of *Grabina* (north of Grabina), *Garbinck* (northwest of Stanisławów), and *Osiny* (southwest of Osiny). Only one map noted this feature (Kozłowski 1861).
 

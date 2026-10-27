@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Tavern</p>
-
-<p class="refs" lang="en">south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn, Biskupice, and Łukom estates.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Biskupice</i>; <i>Byschoffdorf</i> 1310<sup class="gfn"><a href="#fn-1">1</a></sup>; <i>Petrassius Byscupski</i> 1404<sup class="gfn"><a href="#fn-1">1</a></sup>; <i>Byskupycze</i> 1461<sup class="gfn"><a href="#fn-1">1</a></sup>; <i>Biskupicze</i> 1579<sup class="gfn"><a href="#fn-1">1</a></sup></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Biskupice*; *Byschoffdorf* 1310 [^1]; *Petrassius Byscupski* 1404 [^1]; *Byskupycze* 1461 [^1]; *Biskupicze* 1579 [^1].
 
 Tavern which existed south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn, Biskupice, and Łukom estates. Appeared (erroneously?) north of the southern part of Trąbczyńskie Stare Olędry (*Biskupski*, Perthées 1798); *Biskupicer Kr[ug]* (Gilly 1802); labelled as a tavern and field belonging to Biskupice [estate] (Pambo 1803); *Biskupie* (Chrzanowski 1858). Nazwy miejscowe Polski records the name as *Byschoffdorf* by 1310, later as *Biskupice* (1880).[^1]
 

@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Weiler</p>
-
-<p class="refs" lang="en">east of and belonging to Koszelewska Łąka.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Smoleniec</i>; <i>Łukomiem a Myszkowem</i> 1578<sup class="gfn"><a href="#fn-68">68</a></sup>; <i>ńca</i> 1982<sup class="gfn"><a href="#fn-68">68</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.770422%2C52.099624%2C17.810422%2C52.139624000000005&amp;layer=mapnik&amp;marker=52.119624%2C17.790422" title="Smoleniec"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119624&amp;mlon=17.790422#map=15/52.119624/17.790422" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Smoleniec*; *Łukomiem a Myszkowem* 1578 [^68]; *ńca* 1982 [^68].
 
 Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records the name as *Łukomiem a Myszkowem* by 1578.[^68]
 
@@ -38,6 +29,13 @@ Hamlet east of and belonging to Koszelewska Łąka. May have been a place where 
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.770422%2C52.099624%2C17.810422%2C52.139624000000005&amp;layer=mapnik&amp;marker=52.119624%2C17.790422" title="Smoleniec" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119624&amp;mlon=17.790422#map=15/52.119624/17.790422" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

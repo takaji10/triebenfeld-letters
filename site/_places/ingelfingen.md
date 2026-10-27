@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/ingelfingen/"
 alt_url: "/de/orte/ingelfingen/"
 excerpt_separator: ""
-hits_docs: [{"id": "90", "uid": "oe1bu9454-90", "url": "/documents/oe1bu9454/90/", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3705-1", "url": "/documents/ihagrrep7cnr3705/1/", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "n": 1}, {"id": "184", "uid": "oe1bu9454-184", "url": "/documents/oe1bu9454/184/", "n": 2}, {"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "n": 1}]
+hits_docs: [{"id": "90", "uid": "oe1bu9454-90", "url": "/documents/oe1bu9454/90/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3705-1", "url": "/documents/ihagrrep7cnr3705/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3705", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "184", "uid": "oe1bu9454-184", "url": "/documents/oe1bu9454/184/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 6
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 6
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.536%2C49.2752%2C9.575999999999999%2C49.315200000000004&amp;layer=mapnik&amp;marker=49.2952%2C9.556" title="Ingelfingen"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2952&amp;mlon=9.556#map=15/49.2952/9.556" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.536%2C49.2752%2C9.575999999999999%2C49.315200000000004&amp;layer=mapnik&amp;marker=49.2952%2C9.556" title="Ingelfingen" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2952&amp;mlon=9.556#map=15/49.2952/9.556" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -19,7 +19,12 @@
   </nav>
   <ol class="results doclist-cards" hidden></ol>
   <p class="refs reflist doclist-fallback">
-    {% for l in include.letters %}<a href="{{ l.url | relative_url }}" data-uid="{{ l.uid }}"{% if l.n %} data-n="{{ l.n }}"{% endif %}>{{ l.id }}</a>{% endfor %}
+    {%- comment -%} Grouped by holding, each group's label stating the source
+      (docs/PLACES_PLAN.md, section 8): the holding's name, then the entries. {%- endcomment -%}
+    {%- assign groups = include.letters | group_by: "unit_label" %}
+    {%- for g in groups %}
+    <span class="dl-hold">{{ g.name }}</span>{% for l in g.items %} <a href="{{ l.url | relative_url }}" data-uid="{{ l.uid }}"{% if l.n %} data-n="{{ l.n }}"{% endif %}>{{ l.id }}</a>{% endfor %}
+    {%- endfor %}
   </p>
   </div>
 </details>

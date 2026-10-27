@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Windmühlen</p>
-
-<p class="refs" lang="en">south of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Łutow</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Łutow*.
 
 Possibly a site of windmills which existed south of Łukom. Only one map noted this feature (Richter 1843, Fig. 76).
 

@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/havelberg/"
 alt_url: "/places/havelberg/"
 excerpt_separator: ""
-hits_docs: [{"id": "82", "uid": "oe1bu9454-82", "url": "/documents/oe1bu9454/82/", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "n": 1}]
+hits_docs: [{"id": "82", "uid": "oe1bu9454-82", "url": "/documents/oe1bu9454/82/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=12.2062%2C52.807199999999995%2C12.2462%2C52.8472&amp;layer=mapnik&amp;marker=52.8272%2C12.2262" title="Havelberg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.8272&amp;mlon=12.2262#map=15/52.8272/12.2262" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=12.2062%2C52.807199999999995%2C12.2462%2C52.8472&amp;layer=mapnik&amp;marker=52.8272%2C12.2262" title="Havelberg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.8272&amp;mlon=12.2262#map=15/52.8272/12.2262" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

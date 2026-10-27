@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/brieg/"
 alt_url: "/de/orte/brieg/"
 excerpt_separator: ""
-hits_docs: [{"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "n": 1}, {"id": "29", "uid": "oe1bu9454-29", "url": "/documents/oe1bu9454/29/", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "n": 1}, {"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "n": 1}, {"id": "238", "uid": "oe1bu9454-238", "url": "/documents/oe1bu9454/238/", "n": 1}, {"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "n": 1}, {"id": "259", "uid": "oe1bu9454-259", "url": "/documents/oe1bu9454/259/", "n": 1}, {"id": "260", "uid": "oe1bu9454-260", "url": "/documents/oe1bu9454/260/", "n": 2}, {"id": "263", "uid": "oe1bu9454-263", "url": "/documents/oe1bu9454/263/", "n": 2}, {"id": "267", "uid": "oe1bu9454-267", "url": "/documents/oe1bu9454/267/", "n": 2}, {"id": "268", "uid": "oe1bu9454-268", "url": "/documents/oe1bu9454/268/", "n": 2}, {"id": "273", "uid": "oe1bu9454-273", "url": "/documents/oe1bu9454/273/", "n": 1}, {"id": "14", "uid": "oe1bu9454-14", "url": "/documents/oe1bu9454/14/", "n": 1}, {"id": "276", "uid": "oe1bu9454-276", "url": "/documents/oe1bu9454/276/", "n": 2}, {"id": "278", "uid": "oe1bu9454-278", "url": "/documents/oe1bu9454/278/", "n": 1}, {"id": "289", "uid": "oe1bu9454-289", "url": "/documents/oe1bu9454/289/", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "n": 1}]
+hits_docs: [{"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "29", "uid": "oe1bu9454-29", "url": "/documents/oe1bu9454/29/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "238", "uid": "oe1bu9454-238", "url": "/documents/oe1bu9454/238/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "259", "uid": "oe1bu9454-259", "url": "/documents/oe1bu9454/259/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "260", "uid": "oe1bu9454-260", "url": "/documents/oe1bu9454/260/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "263", "uid": "oe1bu9454-263", "url": "/documents/oe1bu9454/263/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "267", "uid": "oe1bu9454-267", "url": "/documents/oe1bu9454/267/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "268", "uid": "oe1bu9454-268", "url": "/documents/oe1bu9454/268/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "273", "uid": "oe1bu9454-273", "url": "/documents/oe1bu9454/273/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "14", "uid": "oe1bu9454-14", "url": "/documents/oe1bu9454/14/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "276", "uid": "oe1bu9454-276", "url": "/documents/oe1bu9454/276/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "278", "uid": "oe1bu9454-278", "url": "/documents/oe1bu9454/278/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "289", "uid": "oe1bu9454-289", "url": "/documents/oe1bu9454/289/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 18
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 18
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.4495%2C50.838499999999996%2C17.4895%2C50.8785&amp;layer=mapnik&amp;marker=50.8585%2C17.4695" title="Brzeg"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.8585&amp;mlon=17.4695#map=15/50.8585/17.4695" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.4495%2C50.838499999999996%2C17.4895%2C50.8785&amp;layer=mapnik&amp;marker=50.8585%2C17.4695" title="Brzeg" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.8585&amp;mlon=17.4695#map=15/50.8585/17.4695" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

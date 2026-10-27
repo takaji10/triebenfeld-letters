@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Haulandsiedlung</p>
-
-<p class="refs" lang="en">southwest of Stanisławów.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Maradz Olędry</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Maradz Olędry*.
 
 Olęder settlement which existed southwest of Stanisławów. First mentioned in a 1808 birth record from Trąbczyn Catholic parish metrical records.[^46]
 

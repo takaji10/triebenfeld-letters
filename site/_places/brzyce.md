@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/brzyce/"
 alt_url: "/de/orte/brzyce/"
 excerpt_separator: ""
-hits_docs: [{"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "n": 4}, {"id": "3", "uid": "oe1bu14525-3", "url": "/documents/oe1bu14525/3/", "n": 2}, {"id": "102", "uid": "oe1bu9454-102", "url": "/documents/oe1bu9454/102/", "n": 1}, {"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "n": 3}, {"id": "106", "uid": "oe1bu9454-106", "url": "/documents/oe1bu9454/106/", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "n": 1}, {"id": "5", "uid": "ihagrrep7cnr3709-5", "url": "/documents/ihagrrep7cnr3709/5/", "n": 1}, {"id": "7", "uid": "ihagrrep7cnr3709-7", "url": "/documents/ihagrrep7cnr3709/7/", "n": 1}, {"id": "8", "uid": "ihagrrep7cnr3709-8", "url": "/documents/ihagrrep7cnr3709/8/", "n": 1}, {"id": "9", "uid": "ihagrrep7cnr3709-9", "url": "/documents/ihagrrep7cnr3709/9/", "n": 1}, {"id": "10", "uid": "ihagrrep7cnr3709-10", "url": "/documents/ihagrrep7cnr3709/10/", "n": 1}, {"id": "13", "uid": "ihagrrep7cnr3709-13", "url": "/documents/ihagrrep7cnr3709/13/", "n": 1}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "n": 2}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "n": 1}, {"id": "164", "uid": "oe1bu9454-164", "url": "/documents/oe1bu9454/164/", "n": 2}, {"id": "21", "uid": "oe1bu9454-21", "url": "/documents/oe1bu9454/21/", "n": 1}, {"id": "215", "uid": "oe1bu9454-215", "url": "/documents/oe1bu9454/215/", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "n": 2}]
+hits_docs: [{"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3570", "n": 4}, {"id": "3", "uid": "oe1bu14525-3", "url": "/documents/oe1bu14525/3/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "102", "uid": "oe1bu9454-102", "url": "/documents/oe1bu9454/102/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "103", "uid": "oe1bu9454-103", "url": "/documents/oe1bu9454/103/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "106", "uid": "oe1bu9454-106", "url": "/documents/oe1bu9454/106/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "5", "uid": "ihagrrep7cnr3709-5", "url": "/documents/ihagrrep7cnr3709/5/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "7", "uid": "ihagrrep7cnr3709-7", "url": "/documents/ihagrrep7cnr3709/7/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "8", "uid": "ihagrrep7cnr3709-8", "url": "/documents/ihagrrep7cnr3709/8/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "9", "uid": "ihagrrep7cnr3709-9", "url": "/documents/ihagrrep7cnr3709/9/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "10", "uid": "ihagrrep7cnr3709-10", "url": "/documents/ihagrrep7cnr3709/10/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "13", "uid": "ihagrrep7cnr3709-13", "url": "/documents/ihagrrep7cnr3709/13/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "164", "uid": "oe1bu9454-164", "url": "/documents/oe1bu9454/164/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "21", "uid": "oe1bu9454-21", "url": "/documents/oe1bu9454/21/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "215", "uid": "oe1bu9454-215", "url": "/documents/oe1bu9454/215/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 2}]
 hits_docs_count: 19
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 19
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Hamlet</p>
-
-<p class="refs" lang="en">east of and belonging to Myszaków.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Małgorzatów</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.7975%2C52.119167%2C17.8375%2C52.159167000000004&amp;layer=mapnik&amp;marker=52.139167%2C17.8175" title="Małgorzatów"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.139167&amp;mlon=17.8175#map=15/52.139167/17.8175" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Małgorzatów*.
 
 Hamlet east of and belonging to Myszaków. First appeared on Richter 1843.
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.7975%2C52.119167%2C17.8375%2C52.159167000000004&amp;layer=mapnik&amp;marker=52.139167%2C17.8175" title="Małgorzatów" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.139167&amp;mlon=17.8175#map=15/52.139167/17.8175" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

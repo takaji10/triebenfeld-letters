@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/potsdam/"
 alt_url: "/de/orte/potsdam/"
 excerpt_separator: ""
-hits_docs: [{"id": "77", "uid": "oe1bu9454-77", "url": "/documents/oe1bu9454/77/", "n": 2}, {"id": "79", "uid": "oe1bu9454-79", "url": "/documents/oe1bu9454/79/", "n": 2}, {"id": "80", "uid": "oe1bu9454-80", "url": "/documents/oe1bu9454/80/", "n": 1}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "n": 1}, {"id": "153", "uid": "oe1bu9454-153", "url": "/documents/oe1bu9454/153/", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "n": 2}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "n": 1}]
+hits_docs: [{"id": "77", "uid": "oe1bu9454-77", "url": "/documents/oe1bu9454/77/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "79", "uid": "oe1bu9454-79", "url": "/documents/oe1bu9454/79/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "80", "uid": "oe1bu9454-80", "url": "/documents/oe1bu9454/80/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "153", "uid": "oe1bu9454-153", "url": "/documents/oe1bu9454/153/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 8
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 8
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=13.044500000000001%2C52.370599999999996%2C13.0845%2C52.4106&amp;layer=mapnik&amp;marker=52.3906%2C13.0645" title="Potsdam"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3906&amp;mlon=13.0645#map=15/52.3906/13.0645" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=13.044500000000001%2C52.370599999999996%2C13.0845%2C52.4106&amp;layer=mapnik&amp;marker=52.3906%2C13.0645" title="Potsdam" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3906&amp;mlon=13.0645#map=15/52.3906/13.0645" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

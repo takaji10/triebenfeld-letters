@@ -15,24 +15,22 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Wrąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Kościołków</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.843937%2C52.139821999999995%2C17.883937%2C52.179822&amp;layer=mapnik&amp;marker=52.159822%2C17.863937" title="Kościołków"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.159822&amp;mlon=17.863937#map=15/52.159822/17.863937" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Kościołków*.
 
 Village south of Wrąbczyn. *Koscialkowo* (Gilly 1802); *Kosciółki* (Reymann 1834); *Kościołków* (Zagórów 1841).
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.843937%2C52.139821999999995%2C17.883937%2C52.179822&amp;layer=mapnik&amp;marker=52.159822%2C17.863937" title="Kościołków" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.159822&amp;mlon=17.863937#map=15/52.159822/17.863937" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

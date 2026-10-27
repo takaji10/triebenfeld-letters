@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Hamlet</p>
-
-<p class="refs" lang="en">north of and belonging to Grądzeń.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Budy</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Budy*.
 
 Hamlet north of and belonging to Grądzeń. *Budy do Huty* (Łukom 1766); *Budy Łukomskie* (Hollring 1804); *Lukamske Budy* (Richter 1843); as part of Huta Łukomska (Słupca 1957).
 

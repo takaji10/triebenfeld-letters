@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Siedlung</p>
-
-<p class="refs" lang="en">a mill settlement in the Słownik era, in gmina Trąbczyn, parish of Zagórów, powiat słupecki.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Łukomin</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Łukomin*.
 
 Mill settlement on the Łukomka, in the Zagórów area; distinct from the village of Łukom. The Słownik geograficzny records it as a mill in gmina Trąbczyn, parish of Zagórów, powiat słupecki, with 6 inhabitants at the time of the Słownik.[^1]
 

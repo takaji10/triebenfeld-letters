@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">west of Wrąbczyn.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Wrąbczynkowskie Holendry</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78%2C52.146666999999994%2C17.82%2C52.186667&amp;layer=mapnik&amp;marker=52.166667%2C17.8" title="Wrąbczynkowskie Holendry"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.166667&amp;mlon=17.8#map=15/52.166667/17.8" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Wrąbczynkowskie Holendry*.
 
 Village west of Wrąbczyn. Established by Szczepan Turna, starost of Pietrzyków in 1781 on overgrown land with the aim of bringing the starosty (an administrative district governed by a royal official called a starosta) and the village of Wrąbczyn into good condition.[^113] In 1886, Wrąbczynkowskie Holendry consisted of 32 households and belonged to the Pietrzyków estate which also included the villages of Pietrzyków and Białobrzeg.[^114] *Holendry Wrąbczyneckie* (Perthées 1798).
 
@@ -38,6 +29,13 @@ Village west of Wrąbczyn. Established by Szczepan Turna, starost of Pietrzyków
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78%2C52.146666999999994%2C17.82%2C52.186667&amp;layer=mapnik&amp;marker=52.166667%2C17.8" title="Wrąbczynkowskie Holendry" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.166667&amp;mlon=17.8#map=15/52.166667/17.8" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

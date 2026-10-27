@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">southwest of Łukom.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Koszelewska Łąka</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.75766%2C52.097334999999994%2C17.79766%2C52.137335&amp;layer=mapnik&amp;marker=52.117335%2C17.77766" title="Koszelewska Łąka"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.117335&amp;mlon=17.77766#map=15/52.117335/17.77766" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Koszelewska Łąka*.
 
 Village southwest of Łukom. Founded between 1794 and 1800 as the last village established in the Zagórów Evangelical-Augsburg parish under Olęder law.[^34] An inn was noted here (Weydner 1804). Remains of a Lutheran cemetery still exist but are poorly preserved. *Kozialewskalonka* (Gilly 1802); *Hol. Koszelewska Ląka* (Richter 1843); *Kozialąka* (Chrzanowski 1858). The Słownik geograficzny records it as a colony, in gmina Trąbczyn, parish of Zagórów, powiat słupecki.[^35]
 
@@ -38,6 +29,13 @@ Village southwest of Łukom. Founded between 1794 and 1800 as the last village e
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.75766%2C52.097334999999994%2C17.79766%2C52.137335&amp;layer=mapnik&amp;marker=52.117335%2C17.77766" title="Koszelewska Łąka" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.117335&amp;mlon=17.77766#map=15/52.117335/17.77766" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

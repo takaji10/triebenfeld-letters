@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/boleslawice/"
 alt_url: "/de/orte/boleslawice/"
 excerpt_separator: ""
-hits_docs: [{"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "n": 1}, {"id": "8", "uid": "iiihamdaiiinr12765-8", "url": "/documents/iiihamdaiiinr12765/8/", "n": 1}]
+hits_docs: [{"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "8", "uid": "iiihamdaiiinr12765-8", "url": "/documents/iiihamdaiiinr12765/8/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

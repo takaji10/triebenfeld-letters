@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/kassel/"
 alt_url: "/places/kassel/"
 excerpt_separator: ""
-hits_docs: [{"id": "53", "uid": "oe1bu9454-53", "url": "/documents/oe1bu9454/53/", "n": 1}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "n": 1}]
+hits_docs: [{"id": "53", "uid": "oe1bu9454-53", "url": "/documents/oe1bu9454/53/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">city</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.4597%2C51.292699999999996%2C9.499699999999999%2C51.3327&amp;layer=mapnik&amp;marker=51.3127%2C9.4797" title="Kassel"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.3127&amp;mlon=9.4797#map=15/51.3127/9.4797" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.4597%2C51.292699999999996%2C9.499699999999999%2C51.3327&amp;layer=mapnik&amp;marker=51.3127%2C9.4797" title="Kassel" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.3127&amp;mlon=9.4797#map=15/51.3127/9.4797" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/ungarn/"
 alt_url: "/places/ungarn/"
 excerpt_separator: ""
-hits_docs: [{"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "n": 1}, {"id": "247", "uid": "oe1bu9454-247", "url": "/documents/oe1bu9454/247/", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "n": 1}]
+hits_docs: [{"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "247", "uid": "oe1bu9454-247", "url": "/documents/oe1bu9454/247/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
-<p class="refs">country</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

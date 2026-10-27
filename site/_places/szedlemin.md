@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/szedlemin/"
 alt_url: "/de/orte/szedlemin/"
 excerpt_separator: ""
-hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "n": 1}]
+hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 2
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

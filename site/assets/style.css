@@ -713,8 +713,14 @@ body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display
 .cem-sources li { margin-bottom: .35rem; }
 
 /* ---- the place pages (docs/PLACES_PLAN.md, section 8) ---- */
-.place-map iframe { width: 100%; height: 340px; border: 1px solid var(--line);
-  border-radius: 4px; background: var(--paper-2); }
+/* The map frame renders the embed at twice the shown size and scales it
+   down, so the tiles stay sharp on a high-resolution display. */
+.place-map-frame { position: relative; height: 340px; overflow: hidden;
+  border: 1px solid var(--line); border-radius: 4px;
+  background: var(--paper-2); }
+.place-map-frame iframe { position: absolute; top: 0; left: 0;
+  width: 200%; height: 680px; border: 0; transform: scale(0.5);
+  transform-origin: 0 0; }
 .place-map .refs { margin: .4rem 0 0; }
 .place-index .kind { color: var(--ink-faint); font-family: var(--sans);
   font-size: .82rem; }

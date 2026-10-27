@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Kretscham</p>
-
-<p class="refs" lang="en">north of Łazińsk Pierwszy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Beźsług</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Beźsług*.
 
 Tavern which existed north of Łazińsk Pierwszy. Possibly depicted as an unlabeled tavern east of Trąbczyńskie Stare Olędry (Gilly 1802); *Beźsług* (Richter 1843).
 

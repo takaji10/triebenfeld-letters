@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/boyadel/"
 alt_url: "/places/boyadel/"
 excerpt_separator: ""
-hits_docs: [{"id": "49", "uid": "oe1bu9454-49", "url": "/documents/oe1bu9454/49/", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "n": 5}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "n": 1}, {"id": "65", "uid": "oe1bu9454-65", "url": "/documents/oe1bu9454/65/", "n": 2}, {"id": "66", "uid": "oe1bu9454-66", "url": "/documents/oe1bu9454/66/", "n": 1}]
+hits_docs: [{"id": "49", "uid": "oe1bu9454-49", "url": "/documents/oe1bu9454/49/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "65", "uid": "oe1bu9454-65", "url": "/documents/oe1bu9454/65/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "66", "uid": "oe1bu9454-66", "url": "/documents/oe1bu9454/66/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 5
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.789514%2C51.932945%2C15.829514%2C51.972945&amp;layer=mapnik&amp;marker=51.952945%2C15.809514" title="Bojadła"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.952945&amp;mlon=15.809514#map=15/51.952945/15.809514" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.789514%2C51.932945%2C15.829514%2C51.972945&amp;layer=mapnik&amp;marker=51.952945%2C15.809514" title="Bojadła" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.952945&amp;mlon=15.809514#map=15/51.952945/15.809514" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

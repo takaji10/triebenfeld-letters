@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Village</p>
-
-<p class="refs" lang="en">west of Szetlewek.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Stanisławów</i>; <i>Stanisławowo</i> 1847<sup class="gfn"><a href="#fn-1">1</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.963333%2C52.096667%2C18.003332999999998%2C52.136667&amp;layer=mapnik&amp;marker=52.116667%2C17.983333" title="Stanisławów"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116667&amp;mlon=17.983333#map=15/52.116667/17.983333" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Stanisławów*; *Stanisławowo* 1847 [^1].
 
 Village west of Szetlewek. Named after Stanisław Miączyński (1780-1845), whose wife Michalina Prusimska (1778-1851) was owner of the Trąbczyn estate. Appeared as a folwark (Wreschen 1901); *Stanisławów* (Messtischblatt 1940). Nazwy miejscowe Polski records *Stanisławowo* (1847).[^1]
 
@@ -35,6 +26,13 @@ Village west of Szetlewek. Named after Stanisław Miączyński (1780-1845), whos
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.963333%2C52.096667%2C18.003332999999998%2C52.136667&amp;layer=mapnik&amp;marker=52.116667%2C17.983333" title="Stanisławów" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116667&amp;mlon=17.983333#map=15/52.116667/17.983333" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/holland/"
 alt_url: "/de/orte/holland/"
 excerpt_separator: ""
-hits_docs: [{"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "n": 1}, {"id": "31", "uid": "oe1bu9454-31", "url": "/documents/oe1bu9454/31/", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "n": 1}, {"id": "37", "uid": "oe1bu9454-37", "url": "/documents/oe1bu9454/37/", "n": 1}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "n": 3}, {"id": "244", "uid": "oe1bu9454-244", "url": "/documents/oe1bu9454/244/", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "n": 1}, {"id": "1", "uid": "app539680782-1", "url": "/documents/app539680782/1/", "n": 1}]
+hits_docs: [{"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "31", "uid": "oe1bu9454-31", "url": "/documents/oe1bu9454/31/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "37", "uid": "oe1bu9454-37", "url": "/documents/oe1bu9454/37/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "40", "uid": "oe1bu9454-40", "url": "/documents/oe1bu9454/40/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "244", "uid": "oe1bu9454-244", "url": "/documents/oe1bu9454/244/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "app539680782-1", "url": "/documents/app539680782/1/", "unit_label": "APP 53/968/0/-/782", "n": 1}]
 hits_docs_count: 8
 ---
 
@@ -15,12 +15,10 @@ hits_docs_count: 8
 
 <section class="place-gaz">
 
-<p class="refs">country</p>
-
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

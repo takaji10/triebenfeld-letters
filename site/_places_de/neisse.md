@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/neisse/"
 alt_url: "/places/neisse/"
 excerpt_separator: ""
-hits_docs: [{"id": "219", "uid": "oe1bu9454-219", "url": "/documents/oe1bu9454/219/", "n": 1}, {"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "n": 2}, {"id": "221", "uid": "oe1bu9454-221", "url": "/documents/oe1bu9454/221/", "n": 1}, {"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "n": 1}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "n": 1}, {"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "n": 2}, {"id": "240", "uid": "oe1bu9454-240", "url": "/documents/oe1bu9454/240/", "n": 2}, {"id": "241", "uid": "oe1bu9454-241", "url": "/documents/oe1bu9454/241/", "n": 2}, {"id": "254", "uid": "oe1bu9454-254", "url": "/documents/oe1bu9454/254/", "n": 2}, {"id": "259", "uid": "oe1bu9454-259", "url": "/documents/oe1bu9454/259/", "n": 2}, {"id": "260", "uid": "oe1bu9454-260", "url": "/documents/oe1bu9454/260/", "n": 1}, {"id": "270", "uid": "oe1bu9454-270", "url": "/documents/oe1bu9454/270/", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "n": 1}]
+hits_docs: [{"id": "219", "uid": "oe1bu9454-219", "url": "/documents/oe1bu9454/219/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "221", "uid": "oe1bu9454-221", "url": "/documents/oe1bu9454/221/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "224", "uid": "oe1bu9454-224", "url": "/documents/oe1bu9454/224/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "240", "uid": "oe1bu9454-240", "url": "/documents/oe1bu9454/240/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "241", "uid": "oe1bu9454-241", "url": "/documents/oe1bu9454/241/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "254", "uid": "oe1bu9454-254", "url": "/documents/oe1bu9454/254/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "259", "uid": "oe1bu9454-259", "url": "/documents/oe1bu9454/259/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "260", "uid": "oe1bu9454-260", "url": "/documents/oe1bu9454/260/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "270", "uid": "oe1bu9454-270", "url": "/documents/oe1bu9454/270/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 13
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 13
 
 <section class="place-gaz">
 
-<p class="refs">Stadt</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.3148%2C50.4539%2C17.3548%2C50.493900000000004&amp;layer=mapnik&amp;marker=50.4739%2C17.3348" title="Nysa"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.4739&amp;mlon=17.3348#map=15/50.4739/17.3348" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.3148%2C50.4539%2C17.3548%2C50.493900000000004&amp;layer=mapnik&amp;marker=50.4739%2C17.3348" title="Nysa" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.4739&amp;mlon=17.3348#map=15/50.4739/17.3348" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

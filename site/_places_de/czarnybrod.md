@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Dorf</p>
-
-<p class="refs" lang="en">south of Łazińsk Drugi in Grodziec Gmina.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Czarnybród</i>; <i>Stary Młyn</i><sup class="gfn"><a href="#fn-10">10</a></sup>; <i>CzanlY Bród</i> 1921<sup class="gfn"><a href="#fn-11">11</a></sup>; <i>Czarnybród Czarnegobrodu</i> 1980<sup class="gfn"><a href="#fn-11">11</a></sup></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.937606%2C52.063274%2C17.977605999999998%2C52.103274000000006&amp;layer=mapnik&amp;marker=52.083274%2C17.957606" title="Czarnybród"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.083274&amp;mlon=17.957606#map=15/52.083274/17.957606" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Czarnybród*; *Stary Młyn* [^10]; *CzanlY Bród* 1921 [^11]; *Czarnybród Czarnegobrodu* 1980 [^11].
 
 Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an Olęder settlement which likely belonged to the Biskupice estate. Notes on the Grodziec Catholic parish taken by geographer Karól Perthées mentioned a possible alternative name of Czarnybród as *Stary Młyn*.[^10] *Czarnybrod Hol.* (Gilly 1802); *Kol. Czarnybrod* (Richter 1843). Nazwy miejscowe Polski records the name as *Czarny Brod* by 1802, later as *Czarnybród Czarnegobrodu* (1980).[^11]
 
@@ -37,6 +28,13 @@ Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an Olę
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.937606%2C52.063274%2C17.977605999999998%2C52.103274000000006&amp;layer=mapnik&amp;marker=52.083274%2C17.957606" title="Czarnybród" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.083274&amp;mlon=17.957606#map=15/52.083274/17.957606" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

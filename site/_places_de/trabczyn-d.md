@@ -15,19 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Weiler</p>
-
-<p class="refs" lang="en">southwest of Łazińsk Pierwszy.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Trąbczyn D</i></p>
-
-<div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.855948%2C52.068253999999996%2C17.895948%2C52.108254&amp;layer=mapnik&amp;marker=52.088254%2C17.875948" title="Trąbczyn D"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.088254&amp;mlon=17.875948#map=15/52.088254/17.875948" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
-</div>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Trąbczyn D*.
 
 Hamlet southwest of Łazińsk Pierwszy. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records around 1920.[^90] Likely created after the parcelling of Trąbczyn estate property in the late 19th century. Breyer noted that Trąbczyn D was forest land that was initially part of the Trąbczyn estate, which was bought by a Jewish person and then sold to Germans 5-6 years before World War I. Breyer cited the *Bocheński, Kinast, Winterfeld, Retzlaff, Schwarz, Lipelt*, and *Schmechel* families living here around 1936.[^91]
 
@@ -38,6 +29,13 @@ Hamlet southwest of Łazińsk Pierwszy. Appeared in Zagórów Evangelical-Augsbu
 
 </div>
 {% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.855948%2C52.068253999999996%2C17.895948%2C52.108254&amp;layer=mapnik&amp;marker=52.088254%2C17.875948" title="Trąbczyn D" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.088254&amp;mlon=17.875948#map=15/52.088254/17.875948" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 </section>
 

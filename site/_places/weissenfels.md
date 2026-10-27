@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/weissenfels/"
 alt_url: "/de/orte/weissenfels/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "oe1bu9454-2", "url": "/documents/oe1bu9454/2/", "n": 1}]
+hits_docs: [{"id": "2", "uid": "oe1bu9454-2", "url": "/documents/oe1bu9454/2/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
 
@@ -15,17 +15,17 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
-<p class="refs">Town</p>
-
 <div class="place-map">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.9496%2C51.1783%2C11.9896%2C51.218300000000006&amp;layer=mapnik&amp;marker=51.1983%2C11.9696" title="Weißenfels"></iframe>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.1983&amp;mlon=11.9696#map=15/51.1983/11.9696" rel="noopener">{% raw %}{{ t.map_link }}{% endraw %}</a></p>
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.9496%2C51.1783%2C11.9896%2C51.218300000000006&amp;layer=mapnik&amp;marker=51.1983%2C11.9696" title="Weißenfels" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.1983&amp;mlon=11.9696#map=15/51.1983/11.9696" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
 <section class="place-docs">
-{% raw %}{{ t.places_named_h2 }}{% endraw %}
+{{ t.places_docs_h2 }}
 
 {% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
 </section>

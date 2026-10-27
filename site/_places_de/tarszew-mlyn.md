@@ -15,14 +15,10 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
-<p class="refs">Wassermühle</p>
-
-<p class="refs" lang="en">south of Kopojno.</p>
-
-<p class="refs forms">{% raw %}{{ t.place_forms }}{% endraw %} <i>Tarszew</i></p>
-
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Tarszew*.
 
 Water mill which existed south of Kopojno. First mentioned in a 1742 birth record from Trąbczyn Catholic parish metrical records.[^80] *Kolonia Friedrichsfeld* took the name Tarszewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. First appeared on Trąbczyn 1790; *Tarszew M.* (Gilly 1802); *Osada Tarszew Ml. [Młyn]* (Richter 1843).
 
