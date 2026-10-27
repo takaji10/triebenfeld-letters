@@ -20,7 +20,7 @@ en:
   skip: Skip to content
   nav:
     story: The story
-    browse: Browse
+    eras: Eras
     timeline: Timeline
     people: People
     places: Places
@@ -317,6 +317,14 @@ en:
   counts_estate_one: "1 document concerns it"
   sort_most_docs: Most documents
   sort_fewest_docs: Fewest documents
+  eras_h1: Eras
+  eras_lede: >-
+    The documents fall into six eras, from the medieval charters to the
+    twentieth century: who held the estate in each, what the papers of the
+    time record, and how one era passed into the next.
+  eras_span: Span
+  eras_held: Who held the estate
+  eras_browse: Read the %d documents of this era
   sources_h1: Sources
   sources_lede: >-
     What the edition is built from: the archive's own files, the press, the
@@ -487,7 +495,7 @@ de:
   skip: Zum Inhalt springen
   nav:
     story: Die Geschichte
-    browse: Briefe
+    eras: Epochen
     timeline: Zeitleiste
     people: Personen
     places: Orte
@@ -786,6 +794,15 @@ de:
   counts_estate_one: "1 Dokument betrifft es"
   sort_most_docs: Meiste Dokumente
   sort_fewest_docs: Wenigste Dokumente
+  eras_h1: Epochen
+  eras_lede: >-
+    Die Dokumente fallen in sechs Epochen, von den mittelalterlichen
+    Urkunden bis zum zwanzigsten Jahrhundert: wer in jeder das Gut hielt,
+    was die Papiere der Zeit bezeugen, und wie eine Epoche in die nächste
+    überging.
+  eras_span: Zeitraum
+  eras_held: Wer das Gut hielt
+  eras_browse: Die %d Dokumente dieser Epoche lesen
   sources_h1: Quellen
   sources_lede: >-
     Woraus diese Edition geschaffen ist: die eigenen Akten des Archivs, die

@@ -3440,3 +3440,17 @@ lose his estates. The era page writes Konotop, not Kontop.
   trailing slash, or Jekyll renders it a flat file the directory URL never
   serves). verify_site.py checks the new paths, the archive list, and the
   overview's four sections.
+- **The Browse tab removed and the Eras page introduced** (the editor's
+  requests of 2026-10-27). The header carries Story, Eras, Timeline,
+  People, Places, Maps, Glossary, Sources, About; the browse page itself
+  remains at /documents/ (and /de/dokumente/), reached from the eras page,
+  the timeline's year links, the home page and the holding pages. **The
+  eras page** (/eras/, German /de/epochen/) shows the six eras that have
+  documents - Trąbczyn in the Middle Ages, the Trąbczyn and Łukom boundary
+  dispute, the Hohenlohe-Ingelfingen years, the Miączyńska restitution,
+  the colonists' land and forest rights, the twentieth century - each in
+  the editor's own words from reference/eras.yml (the label, the span and
+  count of its documents, who held the estate, its description), with a
+  link to the era's documents on the browse page (the browse filter reads
+  ?era= from the address). verify_site.py checks both pages carry every
+  populated era and its link.

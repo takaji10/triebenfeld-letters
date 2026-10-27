@@ -630,6 +630,31 @@ def main():
             if anchor not in ov:
                 fail(f'sources: /{base}/ has no {anchor[3:]} section')
 
+    # The Eras page (2026-10-27): every era that has documents has its
+    # section on /eras/ (and /de/epochen/), carrying its label, its span,
+    # and the link to its documents on the browse page.
+    with io.open(os.path.join(ROOT, 'site', '_data', 'eras.yml'),
+                 encoding='utf-8') as f:
+        eras = yaml.safe_load(f) or []
+    print('checking the eras page...')
+    for base in ('eras', os.path.join('de', 'epochen')):
+        page = os.path.join(SITE, base, 'index.html')
+        if not os.path.isfile(page):
+            fail(f'eras: no page at /{base}/')
+            continue
+        with io.open(page, encoding='utf-8') as f:
+            built = html.unescape(f.read())
+        for e in eras:
+            if not e.get('count'):
+                continue
+            label = e.get('label_de' if base.startswith('de') else 'label_en')
+            if label not in built:
+                fail(f'eras: /{base}/ does not carry the era {e["slug"]}')
+            if f'?era={e["slug"]}' not in built:
+                fail(f'eras: /{base}/ does not link the documents of '
+                     f'{e["slug"]}')
+    print(f'  {sum(1 for e in eras if e.get("count"))} eras on the page')
+
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.
     links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')
