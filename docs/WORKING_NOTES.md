@@ -1679,6 +1679,17 @@ cloud branches").
 
 ## Traps in the tools
 
+- **A redirect stub's permalink keeps its trailing slash** (2026-10-27, the
+  cemeteries' move under Places). A stub written with
+  `permalink: "/cemeteries"` (no slash) renders to `cemeteries.html`, a
+  flat file a request to `/cemeteries/` never reaches - GitHub Pages
+  serves a directory URL only from its `index.html`. With the slash
+  (`"/cemeteries/"`) Jekyll writes `cemeteries/index.html` and the old
+  address keeps working. The rule generalises: every redirect stub's
+  permalink is a full directory URL, slash and all, like the documents'
+  stubs in `site/redirects/`; and after generating redirects, check the
+  built `_site` for the `index.html` at each old address, not just for the
+  stub file.
 - **`git add` on a file that still carries conflict markers commits the
   markers** (2026-10-27, the maps' publish). During a rebase, a generated
   data file (site/_data/places_pages.yml) was staged with `git add` to
