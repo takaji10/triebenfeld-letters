@@ -83,6 +83,11 @@ MERGED = [
     # loudly if its slug is neither.
     ('pipeline/places/place_pages.py --quiet', 'place pages',
      'site/_places*/ - the page of each place in places/'),
+    # The maps in the edition (docs/MAPS_SITE_PLAN.md): the Maps page's
+    # cards, each map's viewer page, and the places' map appearances. After
+    # the place pages, whose layout reads the places' appearances.
+    ('pipeline/maps/map_pages.py --quiet', 'map pages',
+     'site/_maps*/ - the page of each map in the edition'),
     # The cemeteries (docs/CEMETERIES_PLAN.md): the editor's survey of the
     # Evangelical cemeteries of the area, a page per cemetery with the
     # headstones as tables. After the place pages: a cemetery's place link

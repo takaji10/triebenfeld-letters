@@ -2,11 +2,11 @@
 #
 # Keyed by a short slug; `cited_as` is the editor's own short form in the
 # gazetteer ("Gilly 1802"), which the gazetteer's map appearances are parsed
-# from. None of the maps is in the edition yet: each has `in_project: false`
-# until its image is brought in. The editor chooses which maps come in, one
-# at a time (2026-10-23: "I will be selective with them";
-# docs/MAPS_PLAN.md); a map not chosen keeps this short entry for the
-# gazetteer's citations.
+# from. A map is in the edition once its image is brought in
+# (docs/ADDING_A_MAP.md): it has `in_project: true`, its page and its card
+# on the Maps page (docs/MAPS_SITE_PLAN.md). The editor chooses which maps
+# come in, one at a time (2026-10-23: "I will be selective with them");
+# a map not chosen keeps this short entry for the gazetteer's citations.
 #
 #   cited_as    the editor's short form, exactly as in their text
 #   year        the year in the short form (the map's date, as the editor has it)
@@ -51,7 +51,7 @@ maps:
     crop: null          # [left, top, width, height] in original pixels; null for the whole map
     mapwarper: 75552
     tiles: "https://takaji10.github.io/triebenfeld-maps/lukom1766/info.json"
-    in_project: false   # true once its tiles are published and its page built
+    in_project: true    # its tiles published, its viewer page built (2026-10-27, docs/MAPS_SITE_PLAN.md)
   vonpfau1770:
     cited_as: "von Pfau 1770"
     year: 1770

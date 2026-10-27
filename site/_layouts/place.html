@@ -29,6 +29,13 @@ layout: default
   {%- endif %}
 
   {{ content }}
+
+  {%- comment -%}
+    The maps that show the place, after the documents that name it
+    (docs/MAPS_SITE_PLAN.md, section 4): every place page carries them, the
+    authored pages included.
+  {%- endcomment -%}
+  {% include place-maps.html %}
 </div>
 
 <script src="{{ '/assets/literature.js' | relative_url }}"></script>

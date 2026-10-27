@@ -24,6 +24,7 @@ en:
     timeline: Timeline
     people: People
     places: Places
+    maps: Maps
     cemeteries: Cemeteries
     glossary: Glossary
     sources: Sources
@@ -149,6 +150,30 @@ en:
     capitals, and the stations of the correspondence. Alphabetical.
   places_tier_kind: Kind
   places_docs_h2: Documents that name the place
+  maps_eyebrow: Maps
+  maps_h1: Maps
+  maps_lede: >-
+    The old maps of the edition: each brought in at the editor's word,
+    georeferenced, and marked with the places of the gazetteer that it
+    names, each name photographed as the map spells it. Click a map to
+    read it.
+  maps_places_marked: places marked
+  map_view: View the map
+  map_citation_h2: The map
+  map_holder: Holder
+  map_reference: Reference
+  map_maker: Maker
+  map_kind: Kind
+  map_source_link: The map at the archive
+  map_marks_h2: The places marked on it
+  map_fit_label: Georeference
+  map_today: today
+  map_over_osm: The map laid over OpenStreetMap
+  map_north: North up
+  map_asdrawn: As drawn
+  map_inscription: Inscription
+  place_maps_h2: On the maps
+  place_on_maps: on
   nav_archival: Archival order
   nav_chrono: Chronological
   view_diplomatic: Transcription
@@ -456,6 +481,7 @@ de:
     timeline: Zeitleiste
     people: Personen
     places: Orte
+    maps: Karten
     cemeteries: Friedhöfe
     glossary: Glossar
     sources: Quellen
@@ -582,6 +608,30 @@ de:
     und die Stationen des Briefwechsels. Alphabetisch.
   places_tier_kind: Art
   places_docs_h2: Dokumente, die den Ort nennen
+  maps_eyebrow: Karten
+  maps_h1: Karten
+  maps_lede: >-
+    Die alten Karten der Ausgabe: jede auf des Editors Wort aufgenommen,
+    georeferenziert und mit den Orten des Gazetteers bezeichnet, die sie
+    nennt, jeder Name abgebildet, wie die Karte ihn schreibt. Eine Karte
+    anklicken, um sie zu lesen.
+  maps_places_marked: bezeichnete Orte
+  map_view: Karte ansehen
+  map_citation_h2: Die Karte
+  map_holder: Aufbewahrung
+  map_reference: Signatur
+  map_maker: Kartograf
+  map_kind: Art
+  map_source_link: Die Karte im Archiv
+  map_marks_h2: Die darauf bezeichneten Orte
+  map_fit_label: Georeferenz
+  map_today: heute
+  map_over_osm: Die Karte über OpenStreetMap gelegt
+  map_north: Norden oben
+  map_asdrawn: Wie gezeichnet
+  map_inscription: Inschrift
+  place_maps_h2: Auf den Karten
+  place_on_maps: auf
   nav_archival: Archivalische Ordnung
   nav_chrono: Chronologisch
   view_diplomatic: Transkription

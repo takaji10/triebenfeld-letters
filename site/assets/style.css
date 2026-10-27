@@ -728,3 +728,17 @@ body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display
 .place-desc .footnotes { margin-top: 1.2rem; border-top: 1px solid var(--line);
   padding-top: .6rem; font-size: .85rem; color: var(--ink-faint); }
 .place-docs { margin-top: 2rem; }
+/* the maps that show the place (docs/MAPS_SITE_PLAN.md, section 4) */
+.place-maps { margin-top: 2rem; border-top: 1px solid var(--line); padding-top: .6rem; }
+.place-maps h2 { margin: 0 0 .8rem; font-size: 1.1rem; }
+.map-appearance-list { list-style: none; margin: 0; padding: 0; }
+.map-appearance { display: flex; flex-wrap: wrap; gap: .3rem .8rem;
+  align-items: baseline; padding: .5rem 0; border-top: 1px solid var(--line); }
+.map-appearance:first-child { border-top: 0; }
+.map-crop { height: 2.2rem; display: block; border: 1px solid var(--line); }
+.map-appearance-note { font-family: var(--sans); font-size: .8rem;
+  color: var(--ink-soft); }
+.map-ref { font-family: var(--sans); font-size: .8rem; }
+/* the Places index's "on Łukom 1766" (docs/MAPS_SITE_PLAN.md, section 4) */
+.place-index .on-maps { font-family: var(--sans); font-size: .82rem;
+  color: var(--ink-faint); }

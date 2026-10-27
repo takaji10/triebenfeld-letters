@@ -1095,8 +1095,8 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
 
 ## 34. The maps (planned 2026-10-23)
 
-The plan: `docs/MAPS_PLAN.md`. Nothing built. You choose which maps come
-in, one at a time.
+The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
+(built 2026-10-27). You choose which maps come in, one at a time.
 
 - [x] Your decisions (2026-10-23): the tiles in a second repository
       (`triebenfeld-maps`, its own GitHub Pages site); the pilot Łukom
@@ -1118,8 +1118,11 @@ in, one at a time.
       right place, as well as a crude drawing allows. The pilot is done
       but for its pages on the site (with GAZETTEER_PLAN step 3); the next
       map at your choice, by docs/ADDING_A_MAP.md.
-- [ ] The map's viewer page on the site
-      and the crops on the place pages (with GAZETTEER_PLAN step 3).
+- [x] The map's viewer page on the site and the crops on the place pages
+      (2026-10-27, `docs/MAPS_SITE_PLAN.md`): Maps in the main navigation
+      (after Places; German Karten), a card per map in the edition, the
+      viewer with the marks and the map's citation, and the links both ways
+      - the place pages' "On the maps" and the index's "on Łukom 1766".
 - [ ] The interactive map (/map/).
 
 

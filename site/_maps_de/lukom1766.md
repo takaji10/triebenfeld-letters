@@ -1,0 +1,10 @@
+---
+layout: map
+map: lukom1766
+title: "Łukom 1766"
+lang: de
+permalink: "/de/karten/lukom1766/"
+alt_url: "/maps/lukom1766/"
+excerpt_separator: ""
+---
+

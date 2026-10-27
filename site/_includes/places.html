@@ -20,7 +20,7 @@
 {%- assign tier1 = site.data.places_index.tier1 | sort: 'name' %}
 <ul class="index-list place-index">
 {%- for p in tier1 %}
-  <li id="place-{{ p.slug }}">{% if site.data.places_pages[p.slug] %}<a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}</a>{% if p.german and p.german.size > 0 %} ({{ p.german }}){% endif %}{% else %}{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% endif %} <span class="kind">— {% if lang == 'de' %}{{ p.kind_de }}{% else %}{{ p.kind_en }}{% endif %}</span></li>
+  <li id="place-{{ p.slug }}">{% if site.data.places_pages[p.slug] %}<a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}</a>{% if p.german and p.german.size > 0 %} ({{ p.german }}){% endif %}{% else %}{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% endif %} <span class="kind">— {% if lang == 'de' %}{{ p.kind_de }}{% else %}{{ p.kind_en }}{% endif %}</span>{% include place-on-index.html slug=p.slug %}</li>
 {%- endfor %}
 </ul>
 
@@ -31,6 +31,6 @@
 {%- assign tier2 = site.data.places_index.tier2 | sort: 'name' %}
 <ul class="index-list place-index">
 {%- for p in tier2 %}
-  <li id="place-{{ p.slug }}">{% if site.data.places_pages[p.slug] %}<a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}</a>{% if p.german and p.german.size > 0 %} ({{ p.german }}){% endif %}{% else %}{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% endif %} <span class="kind">— {% if lang == 'de' %}{{ p.kind_de }}{% else %}{{ p.kind_en }}{% endif %}</span></li>
+  <li id="place-{{ p.slug }}">{% if site.data.places_pages[p.slug] %}<a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}</a>{% if p.german and p.german.size > 0 %} ({{ p.german }}){% endif %}{% else %}{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% endif %} <span class="kind">— {% if lang == 'de' %}{{ p.kind_de }}{% else %}{{ p.kind_en }}{% endif %}</span>{% include place-on-index.html slug=p.slug %}</li>
 {%- endfor %}
 </ul>

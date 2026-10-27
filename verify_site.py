@@ -515,6 +515,85 @@ def main():
                              'does not carry')
         print(f'  {len(cems)} cemetery pages')
 
+    # The maps in the edition (docs/MAPS_SITE_PLAN.md): every map with
+    # in_project: true has its viewer page in both languages and carries its
+    # tiles' address and its labels; every label's crop is in the site; the
+    # Maps page names every map; and every label a gazetteer entry names
+    # exists on that map, every map a gazetteer entry names in the register.
+    mp_data = os.path.join(ROOT, 'site', '_data', 'maps.yml')
+    if os.path.isfile(mp_data):
+        import yaml
+        with io.open(mp_data, encoding='utf-8') as f:
+            mp_maps = yaml.safe_load(f) or {}
+        with io.open(os.path.join(ROOT, 'reference', 'maps.yml'),
+                     encoding='utf-8') as f:
+            reg_maps = (yaml.safe_load(f) or {}).get('maps') or {}
+        gaz_slugs = set()
+        gz_dir = os.path.join(ROOT, 'reference', 'gazetteer')
+        for fn in os.listdir(gz_dir):
+            if fn.endswith('.yml'):
+                with io.open(os.path.join(gz_dir, fn), encoding='utf-8') as f:
+                    g = yaml.safe_load(f) or {}
+                gaz_slugs.add(g.get('register') or g.get('slug') or fn[:-4])
+        print('checking the map pages...')
+        for slug, m in mp_maps.items():
+            for base in ('maps', os.path.join('de', 'karten')):
+                page = os.path.join(SITE, base, slug, 'index.html')
+                if not os.path.isfile(page):
+                    fail(f'map page: no page {base}/{slug}/')
+                    continue
+                with io.open(page, encoding='utf-8') as f:
+                    built = f.read()
+                if (m.get('tiles') or '') not in built:
+                    fail(f"map page: {base}/{slug}/ does not carry its "
+                         "tiles' address")
+                for l in m.get('labels') or []:
+                    if f'data-label="{l["id"]}"' not in built:
+                        fail(f"map page: {base}/{slug}/ does not carry the "
+                             f"mark {l['id']}")
+            for l in m.get('labels') or []:
+                crop = l.get('crop') or ''
+                fp = os.path.join(ROOT, 'site', *crop.strip('/').split('/'))
+                if not os.path.isfile(fp):
+                    fail(f"map {slug}: the crop of {l['id']} is not there: "
+                         f'{crop}')
+                if l.get('place') and l['place'] not in gaz_slugs:
+                    fail(f"map {slug}: label {l['id']} names {l['place']}, "
+                         'which the gazetteer does not carry')
+            list_page = os.path.join(SITE, 'maps', 'index.html')
+            if os.path.isfile(list_page):
+                with io.open(list_page, encoding='utf-8') as f:
+                    lp = html.unescape(f.read())
+                if (m.get('cited_as') or '') not in lp:
+                    fail(f'maps: /maps/ does not carry {slug}')
+        # the gazetteer's side: every map an entry names is in the register,
+        # and every label it names is on that map
+        gz_dir = os.path.join(ROOT, 'reference', 'gazetteer')
+        for fn in sorted(os.listdir(gz_dir)):
+            if not fn.endswith('.yml'):
+                continue
+            with io.open(os.path.join(gz_dir, fn), encoding='utf-8') as f:
+                g = yaml.safe_load(f) or {}
+            for item in (g.get('maps') or []):
+                mk = item.get('map')
+                if mk not in reg_maps:
+                    fail(f"gazetteer {g.get('slug')}: names the map {mk!r}, "
+                         'which reference/maps.yml does not carry')
+                    continue
+                if item.get('label'):
+                    lp = os.path.join(ROOT, 'maps', mk, 'labels.yml')
+                    ids = set()
+                    if os.path.isfile(lp):
+                        with io.open(lp, encoding='utf-8') as f:
+                            ids = {lb['id'] for lb in
+                                   (yaml.safe_load(f).get('labels') or [])}
+                    if item['label'] not in ids:
+                        fail(f"gazetteer {g.get('slug')}: names the label "
+                             f"{item['label']}, which {mk} does not carry")
+        print(f'  {len(mp_maps)} maps in the edition, '
+              f'{sum(len(m.get("labels") or []) for m in mp_maps.values())} '
+              'labels on them')
+
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.
     links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')

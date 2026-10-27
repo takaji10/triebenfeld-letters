@@ -112,5 +112,15 @@ The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Lomaw*, cor
 
 ## Still to do
 
-- The map's viewer page on the site, and the crops on the place pages, wait
-  for the gazetteer's place pages (GAZETTEER_PLAN, step 3).
+- The map's viewer page on the site, and the crops on the place pages, are
+  **built** (2026-10-27, `docs/MAPS_SITE_PLAN.md`): /maps/lukom1766/ and
+  /de/karten/lukom1766/, the Maps page's card, the place pages' "On the
+  maps", the Places index's "on Łukom 1766". `in_project` turned true.
+  The place pages regenerated (their intro mentions the maps).
+- The map's position (positions.yml) rides the fit's 336 m: the "today"
+  links on the viewer page show it as it stands. The fit tightens when the
+  extant places' coordinates join the control points (ADDING_A_MAP, step 7)
+  - then the pages are built again.
+- The editor's next marks, and the next map at their choice, by
+  `docs/ADDING_A_MAP.md`; each new map gets its card and its page from
+  `pipeline/maps/map_pages.py`.

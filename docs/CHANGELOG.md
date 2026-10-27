@@ -3336,3 +3336,36 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **The site built and verified**: 314 hand-made links checked on both
   sides, all documents character-exact. **Published 2026-10-26** at the
   editor's word ("merge into main and publish").
+
+---
+
+## The maps on the site (2026-10-27, branch `maps-site`)
+
+- **Maps in the main navigation** (the editor's request of 2026-10-27): the
+  Maps page (/maps/, German /de/karten/) after Places in the header; one
+  card per map that is in the edition (`in_project: true` in
+  `reference/maps.yml`), by date. A map the gazetteer cites and the edition
+  does not hold gets no card (the editor chooses the maps one at a time).
+- **The map's viewer page** (/maps/lukom1766/): OpenSeadragon over the
+  IIIF tiles of triebenfeld-maps, the map turned by `view_rotation` (the
+  lettering upright) with a north-up switch, the editor's eleven marks on
+  the map and in a list with the crop of each lettering, the form as the map
+  spells it, what the map shows there, the place's page linked, the
+  inscription's two documents of the Ląd copy-book, the fit's error
+  (±336 m) shown with it, and the Allmaps warp over OpenStreetMap linked.
+  Deep links: /maps/lukom1766/#lukom1766-007 opens the map at the mark.
+- **The links both ways** (the editor's request): every place page gains
+  "On the maps" - the appearances in date order, for a map in the edition
+  the crop and the link to the viewer at the mark, for a map not in the
+  edition the form and the short form as a citation; the Places index
+  carries "on Łukom 1766" after the kind for the places a map in the
+  edition shows. The gazetteer's prose stays as written; the appearance
+  marked `absent: true` (Myszakówek on Łukom 1766) is shown nowhere.
+- **The machinery**: `pipeline/maps/map_pages.py` (a step of
+  regenerate.py, after the place pages) writes site/_data/maps.yml,
+  maps_list.yml, place_maps.yml and the pages site/_maps*/; the place
+  pages' intro sentence mentions the maps; verify_site.py gains the maps'
+  checks (both pages carry the tiles' address and every mark, every crop is
+  in the site, every label a gazetteer entry names exists on its map).
+  Łukom 1766 set `in_project: true` - the register's own rule, its page
+  now built.

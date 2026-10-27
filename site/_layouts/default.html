@@ -45,6 +45,9 @@
     <a data-i18n="nav_places" data-href-en="{{ '/places/' | relative_url }}"
        data-href-de="{{ '/de/orte/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/orte/' | relative_url }}{% else %}{{ '/places/' | relative_url }}{% endif %}">{{ t.nav.places }}</a>
+    <a data-i18n="nav_maps" data-href-en="{{ '/maps/' | relative_url }}"
+       data-href-de="{{ '/de/karten/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/karten/' | relative_url }}{% else %}{{ '/maps/' | relative_url }}{% endif %}">{{ t.nav.maps }}</a>
     <a data-i18n="nav_cemeteries" data-href-en="{{ '/cemeteries/' | relative_url }}"
        data-href-de="{{ '/de/friedhoefe/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/friedhoefe/' | relative_url }}{% else %}{{ '/cemeteries/' | relative_url }}{% endif %}">{{ t.nav.cemeteries }}</a>
