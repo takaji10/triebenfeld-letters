@@ -1679,6 +1679,20 @@ cloud branches").
 
 ## Traps in the tools
 
+- **PowerShell's backtick eats markdown into the bytes it writes** (2026-10-27,
+  the maps' changelog entry). `Add-Content` with a here-string, and every
+  `python -c "..."` inline script passed through the shell's double quotes,
+  runs the string through PowerShell's escape processing first: a backtick
+  before a letter is an escape (`a becomes the BEL character, so the word
+  `absent` was written as BEL+"bsent" and its backticks vanished), and any
+  non-ASCII in the command line risks the console's codepage. What stands:
+  never write repository text through a shell string - write the text with
+  the file tools, or put the script in a real .py file and run it; and
+  after any shell-borne write, check the bytes (CRLF counts, control
+  characters, the Polish letters present) before committing. Related: this
+  shell's *display* of UTF-8 files shows Ł as "�?" and the like - the
+  files are fine; judge them with Python reading `encoding='utf-8'`, not
+  by the console.
 - **The session's image reads can come back stripped, and a session that
   did not notice will write "confirmed on the image" of things it never
   saw** (2026-10-26, Poznań Gr.1181). Every `read` of an image in that
