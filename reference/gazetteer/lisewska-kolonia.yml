@@ -5,16 +5,15 @@ status: extant
 kind: settlement
 kind_text: Settlement
 location:
-  text: 'In the Słownik era: s it as kol. , pow. słupecki, gm'
+  text: a colony in the Słownik era, in gmina Dłusk, parish of Zagórów, powiat słupecki
   relation: null
   relative_to: null
   belongs_to: null
   precision: described
   lat: null
   lon: null
-text_en: 'Small settlement in the Zagórów area; In the Słownik era: s it as kol. ,
-  pow. słupecki, gm. The Słownik geograficzny records it as a colony, in gmina Dłusk,
-  parish of Zagórów, powiat słupecki.[^1]'
+text_en: Colony next to the village of Lisewo, in the Zagórów area. The Słownik geograficzny
+  records it as a colony, in gmina Dłusk, parish of Zagórów, powiat słupecki.[^1]
 names:
 - form: Lisewska Kolonia
   year: null
