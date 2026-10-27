@@ -143,7 +143,6 @@ layout: default
           {% if page.sender %}<span data-en="{{ page.sender | escape }}" data-de="{{ page.sender_de | default: page.sender | escape }}">{% if lang == 'de' and page.sender_de %}{{ page.sender_de }}{% else %}{{ page.sender }}{% endif %}</span>{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
           <br><span class="muted" data-i18n="correspondents_to">{{ t.correspondents_to }}</span>
           {% if page.recipient %}<span data-en="{{ page.recipient | escape }}" data-de="{{ page.recipient_de | default: page.recipient | escape }}">{% if lang == 'de' and page.recipient_de %}{{ page.recipient_de }}{% else %}{{ page.recipient }}{% endif %}</span>{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
-          <br><span class="muted" data-i18n="correspondents_note">{{ t.correspondents_note }}</span>
         </dd>
       {% endif %}
       <dt data-i18n="date">{{ t.date }}</dt>
@@ -226,17 +225,16 @@ layout: default
 
       {% if page.duplicate_of %}
       <dt data-i18n="duplicate">{{ t.duplicate }}</dt>
-      <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>, transcribed twice.</dd>
+      <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>.</dd>
       {% endif %}
       {% if page.parent_letter %}
       <dt data-i18n="part_of">{{ t.part_of }}</dt>
       <dd>
         {% assign parent_page = site.letters | where: "letter_id", page.parent_letter | first %}
         {% if parent_page %}
-          <a href="{{ parent_page.url | relative_url }}">Letter {{ page.parent_letter }}</a>. Several documents were bundled under one archival number.
+          <a href="{{ parent_page.url | relative_url }}">Letter {{ page.parent_letter }}</a>
         {% else %}
-          Archival number {{ page.parent_letter }}. Several documents were bundled
-          under it, and it has no single text of its own.
+          Archival number {{ page.parent_letter }}.
         {% endif %}
         {% assign siblings = site.letters | where: "parent_letter", page.parent_letter | sort: "letter_id" %}
         {% if siblings.size > 1 %}

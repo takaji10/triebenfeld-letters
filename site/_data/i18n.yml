@@ -41,7 +41,7 @@ en:
   browse_title: Browse the documents
   browse_lede: >-
     All %d documents. Search the full German text, or narrow by year, person,
-    place and condition. Everything filters instantly.
+    place and condition.
   f_search: Search the text
   f_search_ph: "e.g. Sequestration, Trąbczyn, 112000"
   f_order: Order
@@ -123,40 +123,26 @@ en:
   rel_entered_in: Entered in
   estates_label: Estates in focus
   estates_h2: Estates in focus
-  estates_lede: >-
-    The estates the documents are about: Prince Friedrich Ludwig of
-    Hohenlohe-Ingelfingen's lands in South Prussia, Silesia and Thuringia, and the
-    other estates the letters deal with, such as Triebenfeld's own at Świniary and
-    those proposed in exchange. A document is listed under an estate when it
-    concerns that estate, not merely when it names it or was written there: a grant
-    of Kamionna made out in Berlin is listed under Kamionna. Each was assigned by
-    reading the document.
   places_eyebrow: Places
   places_index_h1: Places
   places_index_lede: >-
-    Every place the edition records, each with its own page: the
-    description of the place in the edition's gazetteer, the map where it
-    is identified, and the documents that name it.
+    Every place the edition records, each with its own page.
   places_t1_h2: The Trąbczyn and Zagórów area
   places_t1_lede: >-
     The places near the estate — its villages, hamlets and colonies, the
     market towns and seats around them — together with every place name
-    the editor's own list carries. Alphabetical; a place's page is one
-    click away.
+    the editor's own list carries.
   places_t2_h2: Every other place
   places_t2_lede: >-
     The places further afield that the documents name — the Hohenlohe
     estates elsewhere, the seats of the courts and the government, the
-    capitals, and the stations of the correspondence. Alphabetical.
+    capitals, and the stations of the correspondence.
   places_tier_kind: Kind
   places_docs_h2: Documents that name the place
   maps_eyebrow: Maps
   maps_h1: Maps
   maps_lede: >-
-    The old maps of the edition: each brought in at the editor's word,
-    georeferenced, and marked with the places of the gazetteer that it
-    names, each name photographed as the map spells it. Click a map to
-    read it.
+    The old maps of the edition. Click a map to read it.
   maps_places_marked: places marked
   map_view: View the map
   map_citation_h2: The map
@@ -188,8 +174,8 @@ en:
     address, and the events the letters take for granted. In the documents
     these words are faintly underlined; tap one to see what it means.
   gl_draft_note: >-
-    Each entry names the reference work of the period that its definition was
-    checked against, or is still to be checked against.
+    Each entry names the reference work of the period that its definition
+    was checked against.
   gl_search: Search the glossary
   gl_kinds: Kind of word
   gl_kind_all: All
@@ -226,7 +212,6 @@ en:
   about_doc: About this document
   archival_number: Archival number
   correspondents: Correspondents
-  correspondents_note: read from the salutation and signature
   correspondents_to: to
   unattributed: unattributed
   date: Date
@@ -254,10 +239,6 @@ en:
   people_named: People named
   places_named: Places named
   places_named_h2: Places named in the documents
-  places_named_lede: >-
-    Where a document was written and what it names are different questions. A
-    grant of the Kamionna estates issued from Berlin is about Kamionna; its
-    dateline says only Berlin. These are the places the documents name.
   duplicate: Duplicate
   part_of: Part of
   editorial_note: Editorial decisions are set out in
@@ -301,13 +282,11 @@ en:
   home_p3_sum: 1,414,377 Reichsthaler
   people_h1: People in the documents
   people_lede: >-
-    Everyone named often enough to follow from one document to the next: how often the documents name each person, and in which documents. Open a person's list to see those documents, by date or by archival holding. See
+    Everyone named often enough to follow from one document to the next: how often the documents name each person, and in which documents. See
   places_h1: Places of writing
-  places_lede: >-
-    Where each document was written, from its own dateline. Many carry none, and those are grouped under <em>Unknown</em> rather than guessed at.
   timeline_h1: Timeline
   timeline_lede: >-
-    How many documents survive from each year, set against the events of the period. Click a year to read what it holds.
+    How many documents survive from each year, set against the events of the period.
   tl_era_note_medieval: >-
     1173 to 1444. Trąbczyn and its neighbours in the medieval charters of Greater Poland: the Cistercian abbey of Ląd, which came to hold Wrąbczynek, Kopojno, Zagórów and the tithe of Trąbczyn, and the knights and heirs who held Trąbczyn itself.
   tl_era_note_prusimski: >-
@@ -357,10 +336,8 @@ en:
   lit_h1: Literature
   lit_lede: >-
     Books and articles about the estate's history and its setting, each in
-    its original language and in an English translation. They are
-    not part of the edition: they are what contemporaries and historians
-    wrote about the matters the sources record, and each is introduced with
-    what kind of witness it is.
+    its original language and in an English translation: what contemporaries
+    and historians wrote about the matters the sources record.
   lit_caveat: >-
     The English translation was made by Claude, an AI model, and has not
     been checked against the original as a whole. Quote from the original,
@@ -408,8 +385,7 @@ en:
     Items from the press, kept apart from the archival sources and from the
     literature: what the newspapers printed about the places the edition's
     documents come from, transcribed as printed and given with an English
-    translation. They are witnesses of their day, not works about the past,
-    and each is introduced with what kind of item it is.
+    translation. They are witnesses of their day, not works about the past.
   np_caveat: >-
     The English translation was made by Claude, an AI model, and has not
     been checked against the original as a whole. Quote from the original,
@@ -498,7 +474,7 @@ de:
   browse_title: Dokumente durchsuchen
   browse_lede: >-
     Alle %d Dokumente. Durchsuchen Sie den vollständigen deutschen Text oder
-    grenzen Sie nach Jahr, Person, Ort und Zustand ein. Alle Filter wirken sofort.
+    grenzen Sie nach Jahr, Person, Ort und Zustand ein.
   f_search: Text durchsuchen
   f_search_ph: "z. B. Sequestration, Trąbczyn, 112000"
   f_order: Reihenfolge
@@ -580,41 +556,26 @@ de:
   rel_entered_in: Eingetragen in
   estates_label: Betroffene Güter
   estates_h2: Betroffene Güter
-  estates_lede: >-
-    Die Güter, um die es in den Dokumenten geht: die Besitzungen des Fürsten
-    Friedrich Ludwig zu Hohenlohe-Ingelfingen in Südpreußen, Schlesien und
-    Thüringen und die anderen Güter, mit denen die Briefe zu tun haben, etwa
-    Triebenfelds eigenes Gut Świniary (Schweinern) und die zum Tausch
-    vorgeschlagenen. Ein Dokument steht unter einem Gut, wenn es dieses Gut
-    betrifft, nicht schon, wenn es das Gut nennt oder dort geschrieben wurde: eine in
-    Berlin ausgefertigte Verleihung von Kamionna steht unter Kamionna. Die Zuordnung
-    beruht auf der Lektüre jedes Dokuments.
   places_eyebrow: Orte
   places_index_h1: Orte
   places_index_lede: >-
-    Jeder Ort, den die Ausgabe verzeichnet, jeder mit eigener Seite: die
-    Beschreibung des Ortes im Gazetteer der Ausgabe, die Karte, wo er
-    bestimmt ist, und die Dokumente, die ihn nennen.
+    Jeder Ort, den die Ausgabe verzeichnet, jeder mit eigener Seite.
   places_t1_h2: Die Gegend von Trąbczyn und Zagórów
   places_t1_lede: >-
     Die Orte in der Nähe des Guts — seine Dörfer, Weiler und Kolonien, die
     Marktflecken und Amtssitze um sie herum — zusammen mit jedem Ortsnamen
-    der Liste des Editors. Alphabetisch; die Seite des Ortes ist einen
-    Klick entfernt.
+    der Liste des Editors.
   places_t2_h2: Alle übrigen Orte
   places_t2_lede: >-
     Die weiter entfernten Orte, die die Dokumente nennen — die Hohenlohe'schen
     Güter anderswo, die Sitze der Gerichte und der Regierung, die Hauptstädte
-    und die Stationen des Briefwechsels. Alphabetisch.
+    und die Stationen des Briefwechsels.
   places_tier_kind: Art
   places_docs_h2: Dokumente, die den Ort nennen
   maps_eyebrow: Karten
   maps_h1: Karten
   maps_lede: >-
-    Die alten Karten der Ausgabe: jede auf des Editors Wort aufgenommen,
-    georeferenziert und mit den Orten des Gazetteers bezeichnet, die sie
-    nennt, jeder Name abgebildet, wie die Karte ihn schreibt. Eine Karte
-    anklicken, um sie zu lesen.
+    Die alten Karten der Ausgabe. Eine Karte anklicken, um sie zu lesen.
   maps_places_marked: bezeichnete Orte
   map_view: Karte ansehen
   map_citation_h2: Die Karte
@@ -647,7 +608,7 @@ de:
     unterstrichen; ein Tippen zeigt, was sie bedeuten.
   gl_draft_note: >-
     Jeder Eintrag nennt das Nachschlagewerk der Zeit, an dem seine Erklärung
-    geprüft wurde oder noch zu prüfen ist.
+    geprüft wurde.
   gl_search: Im Glossar suchen
   gl_kinds: Art des Wortes
   gl_kind_all: Alle
@@ -684,7 +645,6 @@ de:
   about_doc: Über dieses Dokument
   archival_number: Archivnummer
   correspondents: Korrespondenten
-  correspondents_note: aus Anrede und Unterschrift erschlossen
   correspondents_to: an
   unattributed: nicht zugewiesen
   date: Datum
@@ -712,11 +672,6 @@ de:
   people_named: Genannte Personen
   places_named: Genannte Orte
   places_named_h2: In den Dokumenten genannte Orte
-  places_named_lede: >-
-    Wo ein Dokument geschrieben wurde und welche Orte es nennt, sind zwei
-    verschiedene Fragen. Eine in Berlin ausgefertigte Verleihung der Güter
-    Kamionna handelt von Kamionna; der Ausstellungsort nennt nur Berlin. Dies
-    sind die Orte, die in den Dokumenten genannt werden.
   duplicate: Doppelstück
   part_of: Teil von
   editorial_note: Die editorischen Entscheidungen sind dargelegt in
@@ -762,13 +717,11 @@ de:
   home_p3_sum: 1.414.377 Reichsthalern
   people_h1: Personen in den Dokumenten
   people_lede: >-
-    Alle, die oft genug vorkommen, um sie von einem Dokument zum nächsten zu verfolgen: wie oft die Dokumente jede Person nennen, und in welchen. Die Liste einer Person öffnet diese Dokumente, nach Datum oder nach Archivbestand. Siehe
+    Alle, die oft genug vorkommen, um sie von einem Dokument zum nächsten zu verfolgen: wie oft die Dokumente jede Person nennen, und in welchen. Siehe
   places_h1: Ausstellungsorte
-  places_lede: >-
-    Wo jedes Dokument ausgestellt wurde, nach seiner eigenen Datumszeile. Viele tragen keinen Ort; diese stehen unter <em>Unbekannt</em>, statt erraten zu werden.
   timeline_h1: Zeitleiste
   timeline_lede: >-
-    Wie viele Dokumente aus jedem Jahr überliefert sind, vor dem Hintergrund der Ereignisse der Zeit. Klicken Sie ein Jahr an, um zu lesen, was es enthält.
+    Wie viele Dokumente aus jedem Jahr überliefert sind, vor dem Hintergrund der Ereignisse der Zeit.
   tl_era_note_medieval: >-
     1173 bis 1444. Trąbczyn und seine Nachbarn in den mittelalterlichen Urkunden Großpolens: das Zisterzienserkloster Ląd, das Wrąbczynek, Kopojno, Zagórów und den Zehnten von Trąbczyn erwarb, und die Ritter und Erben, die Trąbczyn selbst besaßen.
   tl_era_note_prusimski: >-
@@ -818,10 +771,9 @@ de:
   lit_h1: Literatur
   lit_lede: >-
     Bücher und Aufsätze zur Geschichte des Gutes und ihrem Umfeld, jeweils
-    in der Originalsprache und in einer englischen Übersetzung. Sie
-    gehören nicht zur Edition: Sie sind, was Zeitgenossen und Historiker
-    über die Dinge schrieben, die die Quellen festhalten, und bei jedem
-    steht, welche Art von Zeugnis es ist.
+    in der Originalsprache und in einer englischen Übersetzung: was
+    Zeitgenossen und Historiker über die Dinge schrieben, die die Quellen
+    festhalten.
   lit_caveat: >-
     Die englische Übersetzung hat Claude, ein KI-Modell, angefertigt; sie
     ist nicht als Ganzes am Original geprüft. Zitieren Sie nach dem Original
@@ -871,8 +823,7 @@ de:
     Literatur: was die Zeitungen über die Orte druckten, aus denen die
     Dokumente der Edition kommen, abgedruckt wie gedruckt und mit einer
     englischen Übersetzung gegeben. Sie sind Zeugen ihrer Zeit, nicht Werke
-    über die Vergangenheit, und jedes ist eingeführt mit dem, was für ein
-    Stück es ist.
+    über die Vergangenheit.
   np_caveat: >-
     Die englische Übersetzung wurde von Claude, einem KI-Modell, gemacht und
     ist nicht als Ganzes gegen das Original geprüft. Zitiere das Original,

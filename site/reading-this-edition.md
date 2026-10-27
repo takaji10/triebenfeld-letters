@@ -34,7 +34,9 @@ ministries. For each document it gives:
 People, places and estates are indexed across all the documents, so that one person can be
 followed from a letter to a contract to a court file. Words of the period that need
 explaining are marked in the text and defined in the
-[Glossary]({{ '/glossary/' | relative_url }}).
+[Glossary]({{ '/glossary/' | relative_url }}). The [Maps]({{ '/maps/' | relative_url }}) hold
+the old maps of the area, georeferenced and marked with the places of the gazetteer that
+each names, every name photographed as the map spells it.
 
 ## Where the documents are held
 
@@ -202,6 +204,10 @@ entry says what it rests on.
 **Places.** A place now in Poland is listed under its Polish name, with the German name in
 parentheses, and has its Polish name in the English translations. The original keeps the
 name its writer used.
+
+**Estates.** A document is listed under an estate when it concerns that estate, not merely
+when it names it or was written there: a grant of Kamionna made out in Berlin is listed
+under Kamionna. Each was assigned by reading the document.
 
 **Money.** Sums are in the Prussian money of the time: 1 Reichsthaler (`Rthl`) is 24
 Groschen (`g`), and 1 Groschen is 12 Pfennig (`d`, for *denarius*). The French documents

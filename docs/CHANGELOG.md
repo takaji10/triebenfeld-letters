@@ -3380,3 +3380,42 @@ lose his estates. The era page writes Konotop, not Kontop.
   reader to its row in the list; a row's crop still takes the map to the
   mark, and the deep links still open the map at the mark. The marks are
   keyboard-reachable (role button, Enter or Space acts).
+
+---
+
+## The process explanations taken off the published pages (2026-10-27, the editor's request)
+
+- **The rule**: a sentence on a published page earns its place if it tells
+  the reader something about the past, is needed to use the interface at
+  that spot, or is a caveat the reader must have. How a page was made or
+  why it is arranged the way it is belongs to About the edition and to the
+  holdings' "How it was prepared" tabs, not to the page itself.
+- **The index pages trimmed** (site/_data/i18n.yml, English and German in
+  parallel): the Places page loses "Alphabetical; a place's page is one
+  click away" and its German twin, and its lede is one line ("Every place
+  the edition records, each with its own page."); the Maps lede loses the
+  georeferencing story and keeps "Click a map to read it."; Browse loses
+  "Everything filters instantly."; People loses "Open a person's list to
+  see those documents, by date or by archival holding."; Timeline loses
+  "Click a year to read what it holds."; the Glossary's note now states
+  only that each entry names the reference work its definition was checked
+  against; Literature and Newspapers lose the "each is introduced with
+  what kind of witness it is" clauses. The AI-translation caveats stand
+  untouched - they are disclosures, not process.
+- **The document pages** (site/_layouts/letter.html): the correspondents'
+  "read from the salutation and signature" is gone from every document's
+  meta; the Duplicate and Part of entries give the reference alone,
+  without "transcribed twice" and "Several documents were bundled under
+  one archival number." The per-document condition notes and the
+  by-paragraph notices stay: they describe the document in hand.
+- **The explanations moved, not lost** (site/reading-this-edition.md): the
+  rule for listing a document under an estate is a new "Estates."
+  paragraph beside "Places." under "Dates, names and money"; a sentence on
+  the maps' georeferencing and photographed names joined "What this
+  edition is".
+- **The dead strings deleted** after a search showed nothing renders
+  them: estates_lede, places_named_lede, places_lede and
+  correspondents_note, both languages.
+- **Verified and published**: the Jekyll build clean; verify_site.py
+  passes - 630 documents character-exact, 67,464 internal links resolve.
+  **Published 2026-10-27** at the editor's word ("publish").
