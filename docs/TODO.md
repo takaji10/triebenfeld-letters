@@ -337,7 +337,10 @@ NEEDS_CONFIRMATION.md.
       (`docs/EDITORS_VOICE.md`, written 2026-10-20 from three samples of
       your writing). Nothing is changed until you say so, and you rule
       first on the three places where your voice and HOUSE_STYLE differ,
-      and on side roads.
+      and on side roads. One pass is already done at your word: the
+      process explanations taken off the published pages (2026-10-27,
+      CHANGELOG) - the index pages' ledes trimmed, the document pages'
+      method notes gone. The voice read proper remains.
 - [ ] **Later, at your word: a framed "side road" on the site**, a brief
       contextual passage set visibly apart from the main text (your wish,
       2026-10-20; EDITORS_VOICE.md, "Side roads on the site"). The site
