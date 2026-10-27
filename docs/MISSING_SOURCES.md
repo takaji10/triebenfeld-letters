@@ -91,6 +91,7 @@ Wanted: the entries cited and not yet in the holding (the volumes are on the edi
 - vol. 3, no. 1490 (1362) - Wrąbczyn
 - vol. 3, no. 1491 (1362) - Wrąbczyn
 - vol. 3, no. 1519 (1362) - Wrąbczyn
+- vol. 2, no. None (1341) - Pyzdry
 
 ### Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775
 
@@ -138,17 +139,74 @@ Wanted: the entries cited (1920 nos. 12-13, 1921 no. 25)
 - 1920/#13 Page 135/Image 311 - Trąbczyn D
 - 1921/#25 Page 220/Image 354 - Trąbczyn C
 
+### Nazwy miejscowe Polski. Historia. Pochodzenie. Zmiany, ed. Kazimierz Rymut et al. (Kraków 1996-2021)
+
+Wanted: the entries cited (vols 1-6 from the clean transcription; 7-18 from RCIN)
+
+- t. 1, p. 248 - Biskupice
+- t. 1, p. 45 - Adamierz
+- t. 1, p. 492 - Bukowe
+- t. 1, p. 67 - Anielewo
+- t. 1, p. 85 - Augustynów
+- t. 2, p. 197 - Czarnybród
+- t. 2, p. 348 - Długa Górka
+- t. 2, p. 444 - Drzewce
+- t. 2, p. 93 - Chruściki
+- t. 3, p. 363 - Grądzeń
+- t. 3, p. 530 - Imielno
+- t. 5, p. 128 - Kopojno
+- t. 6, p. 359 - Łomów
+- t. 6, p. 524 - Mariantów
+- t. 7, p. 310 - Myszaków, Myszakówek
+- t. 8, p. 179 - Osiny
+- t. 8, p. 77 - Olchowo
+- t. 8, p. 84 - Oleśnica
+- t. 9, p. 17 - Podbiel
+- t. 14, p. 177 - Smoleniec
+- t. 15, p. 140 - Stanisławów
+- t. 15, p. 224 - Stawisko
+
 ### Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich (Warsaw 1880-1902)
 
 Wanted: the entries cited (the editor's drive has Trąbczyn and Łukom as text)
 
+- t. XI, p. 8 - Olchowo
+- t. XV, p. 8 - Adamierz
+- t. XIV, p. 16 - Wrąbczyn
+- t. XV, p. 51, sub 2 - Augustynów
 - "Pietrzyków", p. 119 - Wrąbczynkowskie Holendry
+- t. XVI, p. 120 - Kopojno
 - "Noga", p. 172 - Noga
 - "Dziadolina", p. 260 - Dziadolina
+- t. XIV, p. 261 - Zagórów
+- t. III, p. 276, sub 3 - Imielno
+- t. XI, p. 295, sub 2 - Stawisko
+- t. XVI, p. 298 - Mały Las
+- t. V, p. 301 - Lisewska Kolonia
+- t. XV, p. 328 - Chruściki
+- t. IX, p. 332 - Pyzdry
+- t. IV, p. 382 - Kopojno
+- t. XVI, p. 405 - Olchowo
 - "Trąbczyn", pp. 448-449 - Czerwonka, Grabina, Kowaliska, Posada, Trąbczyn
+- t. XII, p. 449 - Huta Trąbczyńska
+- t. XV, p. 471 - Michalinów Oleśnicki
 - "Garbin", p. 484 - Garbin
+- t. IV, p. 484 - Koszelewska Łąka
+- t. XVI, p. 530 - Pyzdry
 - "Siergiejewo", p. 588 - Wincentowo
+- t. XVI, p. 653 - Tarszewo
+- t. IX, p. 658 - Rogal
+- t. X, p. 689 - Skokum
+- t. V, p. 697 - Łomów
+- t. XVI, p. 711, sub 1 - Zalesie
+- t. XIII, p. 718, sub 1 - Włodzimirów
+- t. II, p. 765 - Wymysłów
+- t. II, p. 807 - Grądzeń
+- t. VIII, p. 815, sub 1 - Porąbki
 - "Łukom", p. 818 - Łukom
+- t. V, p. 818 - Łukomin
+- t. VI, p. 838 - Myszaków
+- t. XI, p. 911 - Szetlewek
 
 ## Maps cited
 
@@ -157,7 +215,7 @@ The maps the gazetteer cites and the edition does not hold. They are not all wan
 | Map | Places citing it | Headings |
 |---|---|---|
 | Blaeu 1665 | 1 | Trąbczyn |
-| Łukom 1766 | 10 | Budy, Grądzeń, Huta Łukomska, Imielno, Łomów, Łukom, Myszakówek, Rosciszewo, Stawisko, Studzianka |
+| Łukom 1766 | 11 | Budy, Grądzeń, Huta Łukomska, Imielno, Łomów, Łukom, Myszaków, Myszakówek, Rosciszewo, Stawisko, Studzianka |
 | von Pfau 1770 | 15 | Drzewce, Koczogowa, Kopojno, Kuzoi, Łazy, Łomów, Myszaków, Osiny, Rosciszewo, Sadornicz, Szetlewek, Trąbczyn, Trąbczyńskie Stare Olędry, Wrąbczyn, Wrąbczynek |
 | Trąbczyn 1790 | 4 | Łazy, Szetlewek, Tarszew, Trąbczyńskie Stare Olędry |
 | Perthées 1798 | 13 | Biskupice, Grądzeń, Kopojno, Łomów, Łukomskie Olędry, Myszakówek, Osiny, Smoleniec, Szetlew, Trąbczyn, Trąbczyńskie Stare Olędry, Wrąbczynkowskie Holendry, Wymysłów |

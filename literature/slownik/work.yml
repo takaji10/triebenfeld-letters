@@ -1,0 +1,37 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md holds
+# only the entries the gazetteer cites, each under its heading with volume
+# and page; the works' full texts stay in the private place-name repository.
+# The texts are the corrected citation texts of 2026-10-27 (three-witness
+# OCR against the page scans; born-digital text where the digitisation has
+# one). english.md is a SUMMARY of each entry, not a translation - see
+# notes.md. visible: false - in the edition's corpus, no page on the site
+# (the Słownik is public domain; the entry texts are citation, not reproduction).
+slug: slownik
+visible: false
+kind: reference
+title: "Słownik geograficzny Królestwa Polskiego — cytowane hasła"
+title_en: "Słownik geograficzny Królestwa Polskiego — the entries the gazetteer cites"
+cite: "Słownik geograficzny Królestwa Polskiego"
+author: "Filip Sulimierski, Bronisław Chlebowski, Władysław Walewski (red.)"
+author_sort: "Sulimierski, Filip"
+published: "Warszawa 1880-1902"
+year: 1880
+language: pl
+english_by: Claude
+pages:
+  chapter: '^## '
+account_en: >-
+  The 38 entries of the Słownik geograficzny Królestwa Polskiego that the edition's gazetteer cites, one per
+  heading with its volume and page, in the corrected text of 2026-10-27.
+  Brought in so the citations can be checked against the works' own words
+  without opening the volumes; not a republication of the dictionaries,
+  which stay whole in the private place-name repository. No page on the
+  site: the works are reference, not narrative, and the gazetteer's
+  footnotes stay unresolved until the editor decides otherwise.
+account_de: >-
+  Die 38 Einträge des Słownik geograficzny Królestwa Polskiego-Nachschlagewerks, die das Gazetteer der
+  Ausgabe zitiert, eine je Überschrift mit Band und Seite, im korrigierten
+  Text vom 27.10.2026. Aufgenommen, damit die Zitate gegen den Wortlaut der
+  Werke geprüft werden können, ohne die Bände aufzuschlagen; keine
+  Wiederöffentlichung der Wörterbücher, die als Ganzes im privaten
+  Namensforschungs-Repository bleiben. Keine Seite auf der Website.

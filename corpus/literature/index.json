@@ -18820,6 +18820,359 @@
   ]
  },
  {
+  "slug": "nmpol",
+  "visible": false,
+  "kind": "reference",
+  "title": "Nazwy miejscowe Polski — cytowane hasła",
+  "title_en": "Nazwy miejscowe Polski — the entries the gazetteer cites",
+  "cite": "Nazwy miejscowe Polski",
+  "author": "Kazimierz Rymut (red.) et al.",
+  "author_sort": "Rymut, Kazimierz",
+  "published": "Kraków 1996-2021",
+  "year": 1996,
+  "language": "pl",
+  "english_by": "Claude",
+  "account_en": "The 23 entries of the Nazwy miejscowe Polski that the edition's gazetteer cites, one per heading with its volume and page, in the corrected text of 2026-10-27. Brought in so the citations can be checked against the works' own words without opening the volumes; not a republication of the dictionaries, which stay whole in the private place-name repository. No page on the site: the works are reference, not narrative, and the gazetteer's footnotes stay unresolved until the editor decides otherwise.",
+  "account_de": "Die 23 Einträge des Nazwy miejscowe Polski-Nachschlagewerks, die das Gazetteer der Ausgabe zitiert, eine je Überschrift mit Band und Seite, im korrigierten Text vom 27.10.2026. Aufgenommen, damit die Zitate gegen den Wortlaut der Werke geprüft werden können, ohne die Bände aufzuschlagen; keine Wiederöffentlichung der Wörterbücher, die als Ganzes im privaten Namensforschungs-Repository bleiben. Keine Seite auf der Website.",
+  "passages": [
+   {
+    "key": "front",
+    "part": null,
+    "page": null,
+    "pl": {
+     "line": 1,
+     "chars": 58
+    },
+    "en": {
+     "line": 1,
+     "chars": 63
+    }
+   },
+   {
+    "key": "c01",
+    "part": null,
+    "page": null,
+    "title": "Biskupice [Nazwy miejscowe Polski, t. 1, p. 248]",
+    "pl": {
+     "line": 3,
+     "chars": 424
+    },
+    "en": {
+     "line": 3,
+     "chars": 183
+    }
+   },
+   {
+    "key": "c02",
+    "part": null,
+    "page": null,
+    "title": "Adamierz [Nazwy miejscowe Polski, t. 1, p. 45]",
+    "pl": {
+     "line": 7,
+     "chars": 841
+    },
+    "en": {
+     "line": 7,
+     "chars": 174
+    }
+   },
+   {
+    "key": "c03",
+    "part": null,
+    "page": null,
+    "title": "Bukowe [Nazwy miejscowe Polski, t. 1, p. 492]",
+    "pl": {
+     "line": 11,
+     "chars": 380
+    },
+    "en": {
+     "line": 11,
+     "chars": 170
+    }
+   },
+   {
+    "key": "c04",
+    "part": null,
+    "page": null,
+    "title": "Anielewo [Nazwy miejscowe Polski, t. 1, p. 67]",
+    "pl": {
+     "line": 15,
+     "chars": 435
+    },
+    "en": {
+     "line": 15,
+     "chars": 157
+    }
+   },
+   {
+    "key": "c05",
+    "part": null,
+    "page": null,
+    "title": "Augustynów [Nazwy miejscowe Polski, t. 1, p. 85]",
+    "pl": {
+     "line": 19,
+     "chars": 256
+    },
+    "en": {
+     "line": 19,
+     "chars": 182
+    }
+   },
+   {
+    "key": "c06",
+    "part": null,
+    "page": null,
+    "title": "Smoleniec [Nazwy miejscowe Polski, t. 14, p. 177]",
+    "pl": {
+     "line": 23,
+     "chars": 850
+    },
+    "en": {
+     "line": 23,
+     "chars": 263
+    }
+   },
+   {
+    "key": "c07",
+    "part": null,
+    "page": null,
+    "title": "Stanisławów [Nazwy miejscowe Polski, t. 15, p. 140]",
+    "pl": {
+     "line": 27,
+     "chars": 477
+    },
+    "en": {
+     "line": 27,
+     "chars": 241
+    }
+   },
+   {
+    "key": "c08",
+    "part": null,
+    "page": null,
+    "title": "Stawisko [Nazwy miejscowe Polski, t. 15, p. 224]",
+    "pl": {
+     "line": 31,
+     "chars": 374
+    },
+    "en": {
+     "line": 31,
+     "chars": 177
+    }
+   },
+   {
+    "key": "c09",
+    "part": null,
+    "page": null,
+    "title": "Czarnybród [Nazwy miejscowe Polski, t. 2, p. 197]",
+    "pl": {
+     "line": 35,
+     "chars": 478
+    },
+    "en": {
+     "line": 35,
+     "chars": 198
+    }
+   },
+   {
+    "key": "c10",
+    "part": null,
+    "page": null,
+    "title": "Długa Górka [Nazwy miejscowe Polski, t. 2, p. 348]",
+    "pl": {
+     "line": 39,
+     "chars": 250
+    },
+    "en": {
+     "line": 39,
+     "chars": 120
+    }
+   },
+   {
+    "key": "c11",
+    "part": null,
+    "page": null,
+    "title": "Drzewce [Nazwy miejscowe Polski, t. 2, p. 444]",
+    "pl": {
+     "line": 43,
+     "chars": 860
+    },
+    "en": {
+     "line": 43,
+     "chars": 172
+    }
+   },
+   {
+    "key": "c12",
+    "part": null,
+    "page": null,
+    "title": "Chruściki [Nazwy miejscowe Polski, t. 2, p. 93]",
+    "pl": {
+     "line": 47,
+     "chars": 847
+    },
+    "en": {
+     "line": 47,
+     "chars": 176
+    }
+   },
+   {
+    "key": "c13",
+    "part": null,
+    "page": null,
+    "title": "Grądzeń [Nazwy miejscowe Polski, t. 3, p. 363]",
+    "pl": {
+     "line": 51,
+     "chars": 855
+    },
+    "en": {
+     "line": 51,
+     "chars": 146
+    }
+   },
+   {
+    "key": "c14",
+    "part": null,
+    "page": null,
+    "title": "Imielno [Nazwy miejscowe Polski, t. 3, p. 530]",
+    "pl": {
+     "line": 55,
+     "chars": 552
+    },
+    "en": {
+     "line": 55,
+     "chars": 173
+    }
+   },
+   {
+    "key": "c15",
+    "part": null,
+    "page": null,
+    "title": "Kopojno [Nazwy miejscowe Polski, t. 5, p. 128]",
+    "pl": {
+     "line": 59,
+     "chars": 798
+    },
+    "en": {
+     "line": 59,
+     "chars": 174
+    }
+   },
+   {
+    "key": "c16",
+    "part": null,
+    "page": null,
+    "title": "Łomów [Nazwy miejscowe Polski, t. 6, p. 359]",
+    "pl": {
+     "line": 63,
+     "chars": 682
+    },
+    "en": {
+     "line": 63,
+     "chars": 172
+    }
+   },
+   {
+    "key": "c17",
+    "part": null,
+    "page": null,
+    "title": "Mariantów [Nazwy miejscowe Polski, t. 6, p. 524]",
+    "pl": {
+     "line": 67,
+     "chars": 278
+    },
+    "en": {
+     "line": 67,
+     "chars": 183
+    }
+   },
+   {
+    "key": "c18",
+    "part": null,
+    "page": null,
+    "title": "Myszaków [Nazwy miejscowe Polski, t. 7, p. 310]",
+    "pl": {
+     "line": 71,
+     "chars": 374
+    },
+    "en": {
+     "line": 71,
+     "chars": 161
+    }
+   },
+   {
+    "key": "c19",
+    "part": null,
+    "page": null,
+    "title": "Myszakówek [Nazwy miejscowe Polski, t. 7, p. 310]",
+    "pl": {
+     "line": 75,
+     "chars": 333
+    },
+    "en": {
+     "line": 75,
+     "chars": 220
+    }
+   },
+   {
+    "key": "c20",
+    "part": null,
+    "page": null,
+    "title": "Osiny [Nazwy miejscowe Polski, t. 8, p. 179]",
+    "pl": {
+     "line": 79,
+     "chars": 710
+    },
+    "en": {
+     "line": 79,
+     "chars": 228
+    }
+   },
+   {
+    "key": "c21",
+    "part": null,
+    "page": null,
+    "title": "Olchowo [Nazwy miejscowe Polski, t. 8, p. 77]",
+    "pl": {
+     "line": 83,
+     "chars": 243
+    },
+    "en": {
+     "line": 83,
+     "chars": 184
+    }
+   },
+   {
+    "key": "c22",
+    "part": null,
+    "page": null,
+    "title": "Oleśnica [Nazwy miejscowe Polski, t. 8, p. 84]",
+    "pl": {
+     "line": 87,
+     "chars": 391
+    },
+    "en": {
+     "line": 87,
+     "chars": 161
+    }
+   },
+   {
+    "key": "c23",
+    "part": null,
+    "page": null,
+    "title": "Podbiel [Nazwy miejscowe Polski, t. 9, p. 17]",
+    "pl": {
+     "line": 91,
+     "chars": 865
+    },
+    "en": {
+     "line": 91,
+     "chars": 193
+    }
+   }
+  ]
+ },
+ {
   "slug": "ostensacken2001",
   "visible": true,
   "kind": "history",
@@ -30912,6 +31265,569 @@
     "en": {
      "line": 3886,
      "chars": 609
+    }
+   }
+  ]
+ },
+ {
+  "slug": "slownik",
+  "visible": false,
+  "kind": "reference",
+  "title": "Słownik geograficzny Królestwa Polskiego — cytowane hasła",
+  "title_en": "Słownik geograficzny Królestwa Polskiego — the entries the gazetteer cites",
+  "cite": "Słownik geograficzny Królestwa Polskiego",
+  "author": "Filip Sulimierski, Bronisław Chlebowski, Władysław Walewski (red.)",
+  "author_sort": "Sulimierski, Filip",
+  "published": "Warszawa 1880-1902",
+  "year": 1880,
+  "language": "pl",
+  "english_by": "Claude",
+  "account_en": "The 38 entries of the Słownik geograficzny Królestwa Polskiego that the edition's gazetteer cites, one per heading with its volume and page, in the corrected text of 2026-10-27. Brought in so the citations can be checked against the works' own words without opening the volumes; not a republication of the dictionaries, which stay whole in the private place-name repository. No page on the site: the works are reference, not narrative, and the gazetteer's footnotes stay unresolved until the editor decides otherwise.",
+  "account_de": "Die 38 Einträge des Słownik geograficzny Królestwa Polskiego-Nachschlagewerks, die das Gazetteer der Ausgabe zitiert, eine je Überschrift mit Band und Seite, im korrigierten Text vom 27.10.2026. Aufgenommen, damit die Zitate gegen den Wortlaut der Werke geprüft werden können, ohne die Bände aufzuschlagen; keine Wiederöffentlichung der Wörterbücher, die als Ganzes im privaten Namensforschungs-Repository bleiben. Keine Seite auf der Website.",
+  "passages": [
+   {
+    "key": "front",
+    "part": null,
+    "page": null,
+    "pl": {
+     "line": 1,
+     "chars": 76
+    },
+    "en": {
+     "line": 1,
+     "chars": 81
+    }
+   },
+   {
+    "key": "c01",
+    "part": null,
+    "page": null,
+    "title": "Dziadolina [Słownik geograficzny, t. II, p. 261]",
+    "pl": {
+     "line": 3,
+     "chars": 113
+    },
+    "en": {
+     "line": 3,
+     "chars": 141
+    }
+   },
+   {
+    "key": "c02",
+    "part": null,
+    "page": null,
+    "title": "Garbin [Słownik geograficzny, t. II, p. 487, sub 1]",
+    "pl": {
+     "line": 7,
+     "chars": 227
+    },
+    "en": {
+     "line": 7,
+     "chars": 126
+    }
+   },
+   {
+    "key": "c03",
+    "part": null,
+    "page": null,
+    "title": "Wymysłów [Słownik geograficzny, t. II, p. 765]",
+    "pl": {
+     "line": 11,
+     "chars": 174
+    },
+    "en": {
+     "line": 11,
+     "chars": 121
+    }
+   },
+   {
+    "key": "c04",
+    "part": null,
+    "page": null,
+    "title": "Grabina [Słownik geograficzny, t. II, p. 771, sub 10]",
+    "pl": {
+     "line": 15,
+     "chars": 108
+    },
+    "en": {
+     "line": 15,
+     "chars": 128
+    }
+   },
+   {
+    "key": "c05",
+    "part": null,
+    "page": null,
+    "title": "Grądzeń [Słownik geograficzny, t. II, p. 807]",
+    "pl": {
+     "line": 19,
+     "chars": 902
+    },
+    "en": {
+     "line": 19,
+     "chars": 196
+    }
+   },
+   {
+    "key": "c06",
+    "part": null,
+    "page": null,
+    "title": "Imielno [Słownik geograficzny, t. III, p. 276, sub 3]",
+    "pl": {
+     "line": 23,
+     "chars": 213
+    },
+    "en": {
+     "line": 23,
+     "chars": 200
+    }
+   },
+   {
+    "key": "c07",
+    "part": null,
+    "page": null,
+    "title": "Kopojno [Słownik geograficzny, t. IV, p. 382]",
+    "pl": {
+     "line": 27,
+     "chars": 830
+    },
+    "en": {
+     "line": 27,
+     "chars": 178
+    }
+   },
+   {
+    "key": "c08",
+    "part": null,
+    "page": null,
+    "title": "Koszelewska Łąka [Słownik geograficzny, t. IV, p. 484]",
+    "pl": {
+     "line": 31,
+     "chars": 244
+    },
+    "en": {
+     "line": 31,
+     "chars": 143
+    }
+   },
+   {
+    "key": "c09",
+    "part": null,
+    "page": null,
+    "title": "Pyzdry [Słownik geograficzny, t. IX, p. 332]",
+    "pl": {
+     "line": 35,
+     "chars": 847
+    },
+    "en": {
+     "line": 35,
+     "chars": 181
+    }
+   },
+   {
+    "key": "c10",
+    "part": null,
+    "page": null,
+    "title": "Rogal [Słownik geograficzny, t. IX, p. 658]",
+    "pl": {
+     "line": 39,
+     "chars": 901
+    },
+    "en": {
+     "line": 39,
+     "chars": 213
+    }
+   },
+   {
+    "key": "c11",
+    "part": null,
+    "page": null,
+    "title": "Lisewska Kolonia [Słownik geograficzny, t. V, p. 301]",
+    "pl": {
+     "line": 43,
+     "chars": 955
+    },
+    "en": {
+     "line": 43,
+     "chars": 139
+    }
+   },
+   {
+    "key": "c12",
+    "part": null,
+    "page": null,
+    "title": "Łomów [Słownik geograficzny, t. V, p. 697]",
+    "pl": {
+     "line": 47,
+     "chars": 195
+    },
+    "en": {
+     "line": 47,
+     "chars": 132
+    }
+   },
+   {
+    "key": "c13",
+    "part": null,
+    "page": null,
+    "title": "Łukom [Słownik geograficzny, t. V, p. 817]",
+    "pl": {
+     "line": 51,
+     "chars": 656
+    },
+    "en": {
+     "line": 51,
+     "chars": 191
+    }
+   },
+   {
+    "key": "c14",
+    "part": null,
+    "page": null,
+    "title": "Łukomin [Słownik geograficzny, t. V, p. 818]",
+    "pl": {
+     "line": 55,
+     "chars": 918
+    },
+    "en": {
+     "line": 55,
+     "chars": 212
+    }
+   },
+   {
+    "key": "c15",
+    "part": null,
+    "page": null,
+    "title": "Myszaków [Słownik geograficzny, t. VI, p. 838]",
+    "pl": {
+     "line": 59,
+     "chars": 513
+    },
+    "en": {
+     "line": 59,
+     "chars": 114
+    }
+   },
+   {
+    "key": "c16",
+    "part": null,
+    "page": null,
+    "title": "Noga [Słownik geograficzny, t. VII, p. 172]",
+    "pl": {
+     "line": 63,
+     "chars": 842
+    },
+    "en": {
+     "line": 63,
+     "chars": 176
+    }
+   },
+   {
+    "key": "c17",
+    "part": null,
+    "page": null,
+    "title": "Porąbki [Słownik geograficzny, t. VIII, p. 815, sub 1]",
+    "pl": {
+     "line": 67,
+     "chars": 186
+    },
+    "en": {
+     "line": 67,
+     "chars": 167
+    }
+   },
+   {
+    "key": "c18",
+    "part": null,
+    "page": null,
+    "title": "Skokum [Słownik geograficzny, t. X, p. 689]",
+    "pl": {
+     "line": 71,
+     "chars": 591
+    },
+    "en": {
+     "line": 71,
+     "chars": 218
+    }
+   },
+   {
+    "key": "c19",
+    "part": null,
+    "page": null,
+    "title": "Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]",
+    "pl": {
+     "line": 75,
+     "chars": 245
+    },
+    "en": {
+     "line": 75,
+     "chars": 201
+    }
+   },
+   {
+    "key": "c20",
+    "part": null,
+    "page": null,
+    "title": "Olchowo [Słownik geograficzny, t. XI, p. 8]",
+    "pl": {
+     "line": 79,
+     "chars": 899
+    },
+    "en": {
+     "line": 79,
+     "chars": 194
+    }
+   },
+   {
+    "key": "c21",
+    "part": null,
+    "page": null,
+    "title": "Szetlewek [Słownik geograficzny, t. XI, p. 911]",
+    "pl": {
+     "line": 83,
+     "chars": 396
+    },
+    "en": {
+     "line": 83,
+     "chars": 177
+    }
+   },
+   {
+    "key": "c22",
+    "part": null,
+    "page": null,
+    "title": "Trąbczyn [Słownik geograficzny, t. XII, p. 448]",
+    "pl": {
+     "line": 87,
+     "chars": 521
+    },
+    "en": {
+     "line": 87,
+     "chars": 217
+    }
+   },
+   {
+    "key": "c23",
+    "part": null,
+    "page": null,
+    "title": "Huta Trąbczyńska [Słownik geograficzny, t. XII, p. 449]",
+    "pl": {
+     "line": 91,
+     "chars": 161
+    },
+    "en": {
+     "line": 91,
+     "chars": 210
+    }
+   },
+   {
+    "key": "c24",
+    "part": null,
+    "page": null,
+    "title": "Włodzimirów [Słownik geograficzny, t. XIII, p. 718, sub 1]",
+    "pl": {
+     "line": 95,
+     "chars": 162
+    },
+    "en": {
+     "line": 95,
+     "chars": 189
+    }
+   },
+   {
+    "key": "c25",
+    "part": null,
+    "page": null,
+    "title": "Wrąbczyn [Słownik geograficzny, t. XIV, p. 16]",
+    "pl": {
+     "line": 99,
+     "chars": 616
+    },
+    "en": {
+     "line": 99,
+     "chars": 198
+    }
+   },
+   {
+    "key": "c26",
+    "part": null,
+    "page": null,
+    "title": "Wrąbczynkowskie Holendry [Słownik geograficzny, t. XIV, p. 16]",
+    "pl": {
+     "line": 103,
+     "chars": 227
+    },
+    "en": {
+     "line": 103,
+     "chars": 176
+    }
+   },
+   {
+    "key": "c27",
+    "part": null,
+    "page": null,
+    "title": "Zagórów [Słownik geograficzny, t. XIV, p. 261]",
+    "pl": {
+     "line": 107,
+     "chars": 458
+    },
+    "en": {
+     "line": 107,
+     "chars": 146
+    }
+   },
+   {
+    "key": "c28",
+    "part": null,
+    "page": null,
+    "title": "Chruściki [Słownik geograficzny, t. XV, p. 328]",
+    "pl": {
+     "line": 111,
+     "chars": 379
+    },
+    "en": {
+     "line": 111,
+     "chars": 162
+    }
+   },
+   {
+    "key": "c29",
+    "part": null,
+    "page": null,
+    "title": "Michalinów Oleśnicki [Słownik geograficzny, t. XV, p. 471]",
+    "pl": {
+     "line": 115,
+     "chars": 689
+    },
+    "en": {
+     "line": 115,
+     "chars": 113
+    }
+   },
+   {
+    "key": "c30",
+    "part": null,
+    "page": null,
+    "title": "Augustynów [Słownik geograficzny, t. XV, p. 51, sub 2]",
+    "pl": {
+     "line": 119,
+     "chars": 153
+    },
+    "en": {
+     "line": 119,
+     "chars": 191
+    }
+   },
+   {
+    "key": "c31",
+    "part": null,
+    "page": null,
+    "title": "Adamierz [Słownik geograficzny, t. XV, p. 8]",
+    "pl": {
+     "line": 123,
+     "chars": 415
+    },
+    "en": {
+     "line": 123,
+     "chars": 170
+    }
+   },
+   {
+    "key": "c32",
+    "part": null,
+    "page": null,
+    "title": "Kopojno [Słownik geograficzny, t. XVI, p. 120]",
+    "pl": {
+     "line": 127,
+     "chars": 530
+    },
+    "en": {
+     "line": 127,
+     "chars": 101
+    }
+   },
+   {
+    "key": "c33",
+    "part": null,
+    "page": null,
+    "title": "Łukom [Słownik geograficzny, t. XVI, p. 282]",
+    "pl": {
+     "line": 131,
+     "chars": 182
+    },
+    "en": {
+     "line": 131,
+     "chars": 99
+    }
+   },
+   {
+    "key": "c34",
+    "part": null,
+    "page": null,
+    "title": "ludwigslust [Słownik geograficzny, t. XVI, p. 298]",
+    "pl": {
+     "line": 135,
+     "chars": 126
+    },
+    "en": {
+     "line": 135,
+     "chars": 104
+    }
+   },
+   {
+    "key": "c35",
+    "part": null,
+    "page": null,
+    "title": "Olchowo [Słownik geograficzny, t. XVI, p. 405]",
+    "pl": {
+     "line": 139,
+     "chars": 450
+    },
+    "en": {
+     "line": 139,
+     "chars": 173
+    }
+   },
+   {
+    "key": "c36",
+    "part": null,
+    "page": null,
+    "title": "Pyzdry [Słownik geograficzny, t. XVI, p. 530]",
+    "pl": {
+     "line": 143,
+     "chars": 849
+    },
+    "en": {
+     "line": 143,
+     "chars": 97
+    }
+   },
+   {
+    "key": "c37",
+    "part": null,
+    "page": null,
+    "title": "Tarszewo [Słownik geograficzny, t. XVI, p. 653]",
+    "pl": {
+     "line": 147,
+     "chars": 257
+    },
+    "en": {
+     "line": 147,
+     "chars": 175
+    }
+   },
+   {
+    "key": "c38",
+    "part": null,
+    "page": null,
+    "title": "Zalesie [Słownik geograficzny, t. XVI, p. 711, sub 1]",
+    "pl": {
+     "line": 151,
+     "chars": 223
+    },
+    "en": {
+     "line": 151,
+     "chars": 199
     }
    }
   ]
