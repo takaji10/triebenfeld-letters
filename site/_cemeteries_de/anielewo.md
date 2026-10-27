@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "anielewo"
 title: "Lutherischer Friedhof in Anielewo (Ingelfingen)"
 lang: de
-permalink: "/de/friedhoefe/anielewo/"
-alt_url: "/cemeteries/anielewo/"
+permalink: "/de/orte/friedhoefe/anielewo/"
+alt_url: "/places/cemeteries/anielewo/"
 excerpt_separator: ""
 ---
 

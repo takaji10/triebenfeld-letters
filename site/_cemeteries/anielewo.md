@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "anielewo"
 title: "Anielewo (Ingelfingen)"
 lang: en
-permalink: "/cemeteries/anielewo/"
-alt_url: "/de/friedhoefe/anielewo/"
+permalink: "/places/cemeteries/anielewo/"
+alt_url: "/de/orte/friedhoefe/anielewo/"
 excerpt_separator: ""
 ---
 

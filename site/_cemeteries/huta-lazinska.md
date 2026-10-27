@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "huta-lazinska"
 title: "Huta Łazińska Lutheran Cemetery"
 lang: en
-permalink: "/cemeteries/huta-lazinska/"
-alt_url: "/de/friedhoefe/huta-lazinska/"
+permalink: "/places/cemeteries/huta-lazinska/"
+alt_url: "/de/orte/friedhoefe/huta-lazinska/"
 excerpt_separator: ""
 ---
 

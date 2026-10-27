@@ -1,0 +1,38 @@
+{% include urls.html %}
+
+<div class="prose">
+  <h1>{{ t.sources_arch_h2 }}</h1>
+  <p class="standfirst">{{ t.sources_arch_lede }}</p>
+</div>
+
+{%- comment -%}
+  The archival holdings' full list (moved here from /sources/ when that
+  became the overview of all the edition's sources, 2026-10-27): one card
+  per holding, as it stood. The holding pages themselves remain at
+  /sources/<slug>/ - nothing but this list's own address has changed.
+{%- endcomment -%}
+<div class="sources">
+  {% for u in site.data.units %}
+    <section class="source" id="{{ u.slug }}">
+      {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
+      <h2><a href="{{ u_page | relative_url }}">{{ u.ref }}</a></h2>
+      <p class="source-archive">{{ u.archive }}</p>
+      {%- assign u_title = u.title -%}
+      {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
+      {% if u_title %}<p class="source-title">{{ u_title }}</p>{% endif %}
+
+      <dl class="source-facts">
+        <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
+        <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
+        {% if u.span != "" %}
+          <div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>
+        {% endif %}
+      </dl>
+
+      <p class="source-go">
+        <a href="{{ u_page | relative_url }}">{{ t.sources_read }}</a>
+        &middot; <a href="{{ u_page | relative_url }}#documents">{{ t.sources_browse }}</a>
+      </p>
+    </section>
+  {% endfor %}
+</div>

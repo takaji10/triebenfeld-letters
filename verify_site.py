@@ -474,7 +474,8 @@ def main():
         print('checking the cemeteries...')
         cem_root = os.path.join(ROOT, 'cemeteries')
         for slug, c in cems.items():
-            for base in ('cemeteries', os.path.join('de', 'friedhoefe')):
+            for base in (os.path.join('places', 'cemeteries'),
+                         os.path.join('de', 'orte', 'friedhoefe')):
                 page = os.path.join(SITE, base, slug, 'index.html')
                 if not os.path.isfile(page):
                     fail(f'cemetery page: no page {base}/{slug}/')
@@ -493,13 +494,18 @@ def main():
                         if h.get('name') and h['name'] not in built:
                             fail(f'cemetery page: {base}/{slug}/ does not '
                                  f'carry the headstone {h["name"]}')
-            for base in ('cemeteries', os.path.join('de', 'friedhoefe')):
+            # the cemeteries are a subset of Places (2026-10-27): the Places
+            # page's cemeteries section carries each of them, both languages
+            for base in ('places', os.path.join('de', 'orte')):
                 list_page = os.path.join(SITE, base, 'index.html')
                 if os.path.isfile(list_page):
                     with io.open(list_page, encoding='utf-8') as f:
-                        lp = f.read()
+                        lp = html.unescape(f.read())
                     if slug not in lp:
                         fail(f'cemetery page: /{base}/ does not link {slug}/')
+                    if 'id="cemeteries"' not in lp and 'id="friedhoefe"' not in lp:
+                        fail(f'cemetery page: /{base}/ has no cemeteries '
+                             'section')
         # A place named without its own page, linked to the index's anchor,
         # anchors on the Places page in both languages.
         for slug, c in cems.items():
@@ -593,6 +599,36 @@ def main():
         print(f'  {len(mp_maps)} maps in the edition, '
               f'{sum(len(m.get("labels") or []) for m in mp_maps.values())} '
               'labels on them')
+
+    # The Sources overview (2026-10-27): the archive list lives at
+    # /sources/archive/ (and /de/quellen/archiv/) and carries every holding,
+    # the overview page names the four kinds of source, in both languages.
+    with io.open(os.path.join(ROOT, 'site', '_data', 'units.yml'),
+                 encoding='utf-8') as f:
+        units = yaml.safe_load(f) or []
+    for base in (os.path.join('sources', 'archive'),
+                 os.path.join('de', 'quellen', 'archiv')):
+        page = os.path.join(SITE, base, 'index.html')
+        if not os.path.isfile(page):
+            fail(f'sources: no archive list at {os.path.join(base, "index.html")}')
+            continue
+        with io.open(page, encoding='utf-8') as f:
+            built = html.unescape(f.read())
+        missing = [u['slug'] for u in units if u['slug'] not in built]
+        if missing:
+            fail('sources: the archive list does not carry '
+                 + ', '.join(missing[:4]))
+    for base in ('sources', os.path.join('de', 'quellen')):
+        page = os.path.join(SITE, base, 'index.html')
+        if not os.path.isfile(page):
+            fail(f'sources: no overview page at /{base}/')
+            continue
+        with io.open(page, encoding='utf-8') as f:
+            ov = html.unescape(f.read())
+        for anchor in ('id="archival"', 'id="newspapers"', 'id="literature"',
+                       'id="maps"'):
+            if anchor not in ov:
+                fail(f'sources: /{base}/ has no {anchor[3:]} section')
 
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.

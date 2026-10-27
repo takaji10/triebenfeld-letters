@@ -34,3 +34,9 @@
   <li id="place-{{ p.slug }}">{% if site.data.places_pages[p.slug] %}<a href="{{ u_places | append: p.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}</a>{% if p.german and p.german.size > 0 %} ({{ p.german }}){% endif %}{% else %}{% if lang == 'de' %}{{ p.name_de }}{% else %}{{ p.name }}{% endif %}{% endif %} <span class="kind">— {% if lang == 'de' %}{{ p.kind_de }}{% else %}{{ p.kind_en }}{% endif %}</span>{% include place-on-index.html slug=p.slug %}</li>
 {%- endfor %}
 </ul>
+
+{%- comment -%}
+  The cemeteries, the editor's own survey of 2023, as a subset of Places
+  (the editor, 2026-10-27): a section of its own at the foot of the page.
+{%- endcomment -%}
+{% include cemeteries.html %}

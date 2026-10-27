@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "zbiersk-kolonia"
 title: "Zbiersk Kolonia"
 lang: en
-permalink: "/cemeteries/zbiersk-kolonia/"
-alt_url: "/de/friedhoefe/zbiersk-kolonia/"
+permalink: "/places/cemeteries/zbiersk-kolonia/"
+alt_url: "/de/orte/friedhoefe/zbiersk-kolonia/"
 excerpt_separator: ""
 ---
 

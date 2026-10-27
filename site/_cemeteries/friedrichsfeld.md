@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "friedrichsfeld"
 title: "Friedrichsfeld"
 lang: en
-permalink: "/cemeteries/friedrichsfeld/"
-alt_url: "/de/friedhoefe/friedrichsfeld/"
+permalink: "/places/cemeteries/friedrichsfeld/"
+alt_url: "/de/orte/friedhoefe/friedrichsfeld/"
 excerpt_separator: ""
 ---
 

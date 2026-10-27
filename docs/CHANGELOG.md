@@ -3419,3 +3419,24 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **Verified and published**: the Jekyll build clean; verify_site.py
   passes - 630 documents character-exact, 67,464 internal links resolve.
   **Published 2026-10-27** at the editor's word ("publish").
+- **The navigation cleaned up, the Sources page an overview, the cemeteries
+  a subset of Places** (the editor's requests and rulings of 2026-10-27).
+  The header carries nine entries now - Story, Browse, Timeline, People,
+  Places, Maps, Glossary, Sources, About; Newspapers, Literature and
+  Cemeteries left it, their pages remaining at their addresses. **Sources**
+  (/sources/, /de/quellen/) is an overview of what the edition is built
+  from, four visibly separate sections - Archival material (51 holdings),
+  Newspapers (12 items), Literature (39 works), Maps (1) - each with its
+  own one-line description and the link to browse it; the holdings' full
+  list moved to /sources/archive/ (and /de/quellen/archiv/), the holding
+  pages themselves unchanged at /sources/<slug>/. **The cemeteries** hang
+  under Places: a section at the foot of the Places page (anchor
+  #cemeteries, German #friedhoefe) lists the ten with their grave counts
+  and places, and the pages themselves moved to /places/cemeteries/<slug>/
+  (German /de/orte/friedhoefe/<slug>/) - the old /cemeteries/ and
+  /de/friedhoefe/ addresses redirect page by page
+  (`pipeline/cemeteries/cemetery_redirects.py` into
+  `site/redirects-static/`; a redirect stub's permalink must keep its
+  trailing slash, or Jekyll renders it a flat file the directory URL never
+  serves). verify_site.py checks the new paths, the archive list, and the
+  overview's four sections.

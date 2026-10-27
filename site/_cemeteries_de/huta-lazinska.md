@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "huta-lazinska"
 title: "Lutherischer Friedhof in Huta Łazińska"
 lang: de
-permalink: "/de/friedhoefe/huta-lazinska/"
-alt_url: "/cemeteries/huta-lazinska/"
+permalink: "/de/orte/friedhoefe/huta-lazinska/"
+alt_url: "/places/cemeteries/huta-lazinska/"
 excerpt_separator: ""
 ---
 

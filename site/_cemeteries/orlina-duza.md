@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "orlina-duza"
 title: "Orlina Duża Lutheran Cemetery"
 lang: en
-permalink: "/cemeteries/orlina-duza/"
-alt_url: "/de/friedhoefe/orlina-duza/"
+permalink: "/places/cemeteries/orlina-duza/"
+alt_url: "/de/orte/friedhoefe/orlina-duza/"
 excerpt_separator: ""
 ---
 

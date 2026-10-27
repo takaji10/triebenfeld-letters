@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "stawiszyn"
 title: "Lutherischer Friedhof in Stawiszyn"
 lang: de
-permalink: "/de/friedhoefe/stawiszyn/"
-alt_url: "/cemeteries/stawiszyn/"
+permalink: "/de/orte/friedhoefe/stawiszyn/"
+alt_url: "/places/cemeteries/stawiszyn/"
 excerpt_separator: ""
 ---
 

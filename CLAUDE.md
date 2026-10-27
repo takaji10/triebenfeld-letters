@@ -124,7 +124,9 @@ so check them.
   of the ten
   Evangelical cemeteries of the Trąbczyn/Zagórów area and its
   neighbourhood, one visit in 2023 — a page per cemetery in both
-  languages (/cemeteries/, /de/friedhoefe/), the survey's account kept as
+  languages (/places/cemeteries/, /de/orte/friedhoefe/ — moved under
+  Places 2026-10-27, the old /cemeteries/ addresses redirect), the
+  survey's account kept as
   written, the headstones as tables, the readings kept as the survey has
   them, the asterisked genealogical IDs kept, the Fig. references out, no
   person entries (the editor's word). With it **the Places page widened**

@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "michalinow-olesnicki"
 title: "Lutherischer Friedhof in Michalinów gm. Oleśnica"
 lang: de
-permalink: "/de/friedhoefe/michalinow-olesnicki/"
-alt_url: "/cemeteries/michalinow-olesnicki/"
+permalink: "/de/orte/friedhoefe/michalinow-olesnicki/"
+alt_url: "/places/cemeteries/michalinow-olesnicki/"
 excerpt_separator: ""
 ---
 

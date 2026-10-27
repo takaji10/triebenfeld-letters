@@ -319,7 +319,36 @@ en:
   sort_fewest_docs: Fewest documents
   sources_h1: Sources
   sources_lede: >-
-    The archival files this edition draws on, and what each one holds.
+    What the edition is built from: the archive's own files, the press, the
+    literature, and the old maps — four different kinds of source, each
+    brought in and shown in its own way.
+  sources_kind_count: In the edition
+  sources_kind_holdings: holdings
+  sources_kind_items: items
+  sources_kind_works: works
+  sources_kind_maps: maps
+  sources_arch_h2: Archival material
+  sources_arch_lede: >-
+    The archival files this edition draws on — the letters' own holdings,
+    transcribed from the originals — and what each one holds.
+  sources_arch_go: Browse the holdings
+  sources_np_h2: Newspapers
+  sources_np_lede: >-
+    The press items the edition brings in, from the 1754 funeral report to
+    the 1937 municipal column: what the newspapers wrote about the place
+    and its people.
+  sources_np_go: Read the items
+  sources_lit_h2: Literature
+  sources_lit_lede: >-
+    Books and articles about the estate's history and its setting, each in
+    its original language and in an English translation: what contemporaries
+    and historians wrote about the matters the sources record.
+  sources_lit_go: Read the works
+  sources_maps_h2: Maps
+  sources_maps_lede: >-
+    The old maps the edition brings in, georeferenced and marked with the
+    places of the gazetteer, each name photographed as the map spells it.
+  sources_maps_go: View the maps
   sources_documents: Documents
   sources_pages: Manuscript pages
   sources_span: Span
@@ -410,6 +439,11 @@ en:
     The Evangelical cemeteries of the Trąbczyn and Zagórów area and its
     neighbourhood, visited and their headstones read in 2023: what remains
     of each, and the names its stones still carry.
+  places_cem_h2: Cemeteries
+  places_cem_lede: >-
+    The ten Evangelical cemeteries of the area and its neighbourhood,
+    visited and their headstones read in 2023 — the editor's own survey,
+    shown here with the places they belong to.
   cem_graves: Graves
   cem_visited: Visited
   cem_place: Place
@@ -754,7 +788,39 @@ de:
   sort_fewest_docs: Wenigste Dokumente
   sources_h1: Quellen
   sources_lede: >-
-    Die Archivbestände, auf denen diese Edition beruht, und was jeder enthält.
+    Woraus diese Edition geschaffen ist: die eigenen Akten des Archivs, die
+    Presse, die Literatur und die alten Karten — vier verschiedene Arten
+    Quelle, jede auf ihre Weise aufgenommen und gezeigt.
+  sources_kind_count: In der Ausgabe
+  sources_kind_holdings: Bestände
+  sources_kind_items: Artikel
+  sources_kind_works: Werke
+  sources_kind_maps: Karten
+  sources_arch_h2: Archivalien
+  sources_arch_lede: >-
+    Die Archivbestände, auf denen diese Edition beruht — die eigenen
+    Bestände der Briefe, aus den Originalen abgeschrieben — und was jeder
+    enthält.
+  sources_arch_go: Die Bestände ansehen
+  sources_np_h2: Zeitungen
+  sources_np_lede: >-
+    Die Pressestücke der Ausgabe, vom Partebericht von 1754 bis zur
+    Gemeinderubrik von 1937: was die Zeitungen über den Ort und seine
+    Leute schrieben.
+  sources_np_go: Die Artikel lesen
+  sources_lit_h2: Literatur
+  sources_lit_lede: >-
+    Bücher und Aufsätze zur Geschichte des Guts und seines Umfelds, jedes
+    in seiner Originalsprache und in einer englischen Übersetzung: was
+    Zeitgenossen und Historiker über die Dinge schrieben, die die Quellen
+    bezeugen.
+  sources_lit_go: Die Werke lesen
+  sources_maps_h2: Karten
+  sources_maps_lede: >-
+    Die alten Karten der Ausgabe, georeferenziert und mit den Orten des
+    Gazetteers bezeichnet, jeder Name abgebildet, wie die Karte ihn
+    schreibt.
+  sources_maps_go: Die Karten ansehen
   sources_documents: Dokumente
   sources_pages: Handschriftenseiten
   sources_span: Zeitraum
@@ -848,6 +914,11 @@ de:
     Die evangelischen Friedhöfe der Gegend von Trąbczyn und Zagórów und
     ihrer Umgebung, besucht und ihre Grabsteine 2023 gelesen: was von jedem
     übrig ist und welche Namen seine Steine noch tragen.
+  places_cem_h2: Friedhöfe
+  places_cem_lede: >-
+    Die zehn evangelischen Friedhöfe der Gegend und ihrer Umgebung, besucht
+    und ihre Grabsteine 2023 gelesen — die eigene Aufnahme des Editors,
+    hier mit den Orten gezeigt, zu denen sie gehören.
   cem_graves: Gräber
   cem_visited: Besucht
   cem_place: Ort

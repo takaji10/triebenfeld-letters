@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "zbiersk-kolonia"
 title: "Lutherischer Friedhof in Zbiersk Kolonia"
 lang: de
-permalink: "/de/friedhoefe/zbiersk-kolonia/"
-alt_url: "/cemeteries/zbiersk-kolonia/"
+permalink: "/de/orte/friedhoefe/zbiersk-kolonia/"
+alt_url: "/places/cemeteries/zbiersk-kolonia/"
 excerpt_separator: ""
 ---
 

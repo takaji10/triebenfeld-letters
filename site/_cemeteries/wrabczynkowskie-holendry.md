@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "wrabczynkowskie-holendry"
 title: "Wrąbczynkowskie Holendry Lutheran Cemetery"
 lang: en
-permalink: "/cemeteries/wrabczynkowskie-holendry/"
-alt_url: "/de/friedhoefe/wrabczynkowskie-holendry/"
+permalink: "/places/cemeteries/wrabczynkowskie-holendry/"
+alt_url: "/de/orte/friedhoefe/wrabczynkowskie-holendry/"
 excerpt_separator: ""
 ---
 

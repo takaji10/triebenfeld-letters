@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "michalinow-trabczynski"
 title: "Lutherischer Friedhof in Michalinów Trąbczyński"
 lang: de
-permalink: "/de/friedhoefe/michalinow-trabczynski/"
-alt_url: "/cemeteries/michalinow-trabczynski/"
+permalink: "/de/orte/friedhoefe/michalinow-trabczynski/"
+alt_url: "/places/cemeteries/michalinow-trabczynski/"
 excerpt_separator: ""
 ---
 

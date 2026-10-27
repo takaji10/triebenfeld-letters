@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "stawiszyn"
 title: "Stawiszyn"
 lang: en
-permalink: "/cemeteries/stawiszyn/"
-alt_url: "/de/friedhoefe/stawiszyn/"
+permalink: "/places/cemeteries/stawiszyn/"
+alt_url: "/de/orte/friedhoefe/stawiszyn/"
 excerpt_separator: ""
 ---
 

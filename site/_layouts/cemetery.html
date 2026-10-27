@@ -15,7 +15,7 @@ layout: default
 {%- assign cem = site.data.cemeteries[page.cemetery] -%}
 
 <div class="prose person-page place-page">
-  <p class="eyebrow"><a href="{{ u_cem | relative_url }}">{{ t.nav.cemeteries }}</a></p>
+  <p class="eyebrow"><a href="{{ u_cem_index | relative_url }}">{{ t.nav.cemeteries }}</a></p>
   <h1>{% if lang == 'de' %}{{ cem.title_de }}{% else %}{{ cem.title }}{% endif %}</h1>
 
   <dl class="source-facts">

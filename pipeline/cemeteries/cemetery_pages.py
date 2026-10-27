@@ -13,8 +13,8 @@ Reads  : cemeteries/<slug>/cemetery.yml      the facts, the account, the place,
 Writes : site/_data/cemeteries.yml           the cemeteries, keyed by slug,
                                              for the page layout
         site/_data/cemeteries_list.yml       the list page's order
-        site/_cemeteries/<slug>.md           /cemeteries/<slug>/
-        site/_cemeteries_de/<slug>.md        /de/friedhoefe/<slug>/
+        site/_cemeteries/<slug>.md           /places/cemeteries/<slug>/
+        site/_cemeteries_de/<slug>.md        /de/orte/friedhoefe/<slug>/
 
 The section is the editor's own field record of the ten Evangelical
 cemeteries of the Trąbczyn/Zagórów area and its neighbourhood, visited in
@@ -47,8 +47,12 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CEM = os.path.join(ROOT, 'cemeteries')
 SITE = os.path.join(ROOT, 'site')
-BASES = {'en': ('_cemeteries', '/cemeteries/', '/de/friedhoefe/'),
-         'de': ('_cemeteries_de', '/de/friedhoefe/', '/cemeteries/')}
+# The cemeteries are a subset of Places (the editor, 2026-10-27): their
+# pages hang under the Places section, English /places/cemeteries/, German
+# /de/orte/friedhoefe/. The addresses they were published at (/cemeteries/,
+# /de/friedhoefe/) redirect - the stubs in site/redirects-static/.
+BASES = {'en': ('_cemeteries', '/places/cemeteries/', '/de/orte/friedhoefe/'),
+         'de': ('_cemeteries_de', '/de/orte/friedhoefe/', '/places/cemeteries/')}
 # The Places page's two bases, for the index anchor of a place without a page.
 PLACES_BASES = {'en': '/places/', 'de': '/de/orte/'}
 

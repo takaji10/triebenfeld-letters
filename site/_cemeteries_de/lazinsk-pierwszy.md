@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "lazinsk-pierwszy"
 title: "Lutherischer Friedhof in Łazińsk Pierwszy"
 lang: de
-permalink: "/de/friedhoefe/lazinsk-pierwszy/"
-alt_url: "/cemeteries/lazinsk-pierwszy/"
+permalink: "/de/orte/friedhoefe/lazinsk-pierwszy/"
+alt_url: "/places/cemeteries/lazinsk-pierwszy/"
 excerpt_separator: ""
 ---
 

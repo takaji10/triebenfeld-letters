@@ -5,43 +5,61 @@
   <p class="standfirst">{{ t.sources_lede }}</p>
 </div>
 
-<div class="sources">
-  {% for u in site.data.units %}
-    <section class="source" id="{{ u.slug }}">
-      {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
-      <h2><a href="{{ u_page | relative_url }}">{{ u.ref }}</a></h2>
-      <p class="source-archive">{{ u.archive }}</p>
-      {%- assign u_title = u.title -%}
-      {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
-      {% if u_title %}<p class="source-title">{{ u_title }}</p>{% endif %}
+{%- comment -%}
+  The Sources page as an overview of what the edition is built from (the
+  editor, 2026-10-27: "can sources include literature, maps, newspapers,
+  archival material? ... not just as a big list, but something where you
+  can easily tell when you visit the new page that there are different
+  things here"): four sections, each its own kind of source with its own
+  one-line description, its count, and the link to browse it. The
+  archival holdings' full list lives at /sources/archive/ (the holding
+  pages themselves stay at /sources/<slug>/); the other three kinds keep
+  their own pages (/newspapers/, /literature/, /maps/), reached from here
+  and no longer from the header.
+{%- endcomment -%}
+<div class="sources-overview">
+  <section class="src-kind" id="archival">
+    <h2>{{ t.sources_arch_h2 }}</h2>
+    <p class="src-lede">{{ t.sources_arch_lede }}</p>
+    <dl class="source-facts">
+      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.units | size }} {{ t.sources_kind_holdings }}</dd></div>
+    </dl>
+    <p class="source-go"><a href="{{ u_sources_arch | relative_url }}">{{ t.sources_arch_go }}</a></p>
+  </section>
 
-      <dl class="source-facts">
-        <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
-        <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
-        {% if u.span != "" %}
-          <div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>
-        {% endif %}
-      </dl>
+  <section class="src-kind" id="newspapers">
+    <h2>{{ t.sources_np_h2 }}</h2>
+    <p class="src-lede">{{ t.sources_np_lede }}</p>
+    <dl class="source-facts">
+      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.newspapers | size }} {{ t.sources_kind_items }}</dd></div>
+    </dl>
+    <p class="source-go"><a href="{{ u_np | relative_url }}">{{ t.sources_np_go }}</a></p>
+  </section>
 
-      {%- comment -%}
-        The full description is on the holding's own page, with its documents
-        and an account of how it was prepared.
-      {%- endcomment -%}
-      <p class="source-go">
-        <a href="{{ u_page | relative_url }}">{{ t.sources_read }}</a>
-        &middot; <a href="{{ u_page | relative_url }}#documents">{{ t.sources_browse }}</a>
-      </p>
-    </section>
-  {% endfor %}
+  <section class="src-kind" id="literature">
+    <h2>{{ t.sources_lit_h2 }}</h2>
+    <p class="src-lede">{{ t.sources_lit_lede }}</p>
+    <dl class="source-facts">
+      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.literature | size }} {{ t.sources_kind_works }}</dd></div>
+    </dl>
+    <p class="source-go"><a href="{{ u_lit | relative_url }}">{{ t.sources_lit_go }}</a></p>
+  </section>
+
+  <section class="src-kind" id="maps">
+    <h2>{{ t.sources_maps_h2 }}</h2>
+    <p class="src-lede">{{ t.sources_maps_lede }}</p>
+    <dl class="source-facts">
+      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.maps_list | size }} {{ t.sources_kind_maps }}</dd></div>
+    </dl>
+    <p class="source-go"><a href="{{ u_maps | relative_url }}">{{ t.sources_maps_go }}</a></p>
+  </section>
 </div>
 
 <style>
-.sources { max-width: var(--measure); margin: 2rem 0 3rem; }
-.source { border-top: 1px solid var(--rule); padding: 1.4rem 0; }
-.source h2 { margin: 0; font-size: 1.15rem; }
-.source h2 a { color: inherit; text-decoration: none; }
-.source h2 a:hover { text-decoration: underline; }
-.source-title { margin: .5rem 0 0; color: var(--ink-soft); }
-.source p { margin: .9rem 0 0; }
-.source-go { font-family: var(--sans); font-size: .85rem; }
+.sources-overview { max-width: var(--measure); margin: 2rem 0 3rem; }
+.src-kind { border-top: 2px solid var(--rule); padding: 1.6rem 0 1.8rem; }
+.src-kind h2 { margin: 0; font-size: 1.35rem; }
+.src-kind .src-lede { margin: .5rem 0 0; color: var(--ink-soft); max-width: 38rem; }
+.src-kind .source-facts { margin: .8rem 0 0; }
+.src-kind .source-go { font-family: var(--sans); font-size: .9rem; margin: .8rem 0 0; }
 </style>

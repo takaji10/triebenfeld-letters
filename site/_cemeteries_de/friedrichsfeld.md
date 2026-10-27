@@ -3,8 +3,8 @@ layout: cemetery
 cemetery: "friedrichsfeld"
 title: "Lutherischer Friedhof in Friedrichsfeld"
 lang: de
-permalink: "/de/friedhoefe/friedrichsfeld/"
-alt_url: "/cemeteries/friedrichsfeld/"
+permalink: "/de/orte/friedhoefe/friedrichsfeld/"
+alt_url: "/places/cemeteries/friedrichsfeld/"
 excerpt_separator: ""
 ---
 
