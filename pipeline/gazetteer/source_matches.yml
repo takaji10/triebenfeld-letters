@@ -1,0 +1,2765 @@
+# The match log of the gazetteer against the three Polish reference
+# works (docs/PLACE_NAME_DATABASES_PLAN.md, section 3). Made by
+# pipeline/gazetteer/match_sources.py; the decisions are the editor's,
+# recorded on the review page (review/place_name_sources/match_log.html,
+# not committed) and applied with --apply. Locators and decisions only:
+# the works' texts, two of them in copyright, stay in Igor's
+# repository and in review/.
+places:
+  adamierz:
+    kdw:
+      candidates:
+      - { locator: "vol. 10, no. 1520", decision: "yes", doc: kdw-20, cited_by: [adamierz, wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 10, no. 1532", decision: "yes", doc: kdw-21, cited_by: [adamierz, wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1739", decision: "yes", doc: kdw-11, cited_by: [adamierz, wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 20", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 8", kind: "mention", context: "ok" }
+      - { locator: "t. XV, p. 8", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 45", kind: "mention", context: "ok" }
+  anielewo:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 38", kind: "entry", context: "ok" }
+      - { locator: "t. I, p. 38", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 38", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 499", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 31", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 207", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 67", kind: "entry", context: "ok" }
+      - { locator: "t. 1, p. 67", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 67", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 67", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 67", kind: "mention", context: "ok" }
+  augustinow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VI, p. 553", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 724", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 51", kind: "entry", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 85", kind: "entry", context: "ok" }
+      - { locator: "t. 1, p. 85", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 85", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 85", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 85", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 85", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 85", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 85", kind: "mention", context: "ok" }
+  bartosz:
+    kdw:
+      candidates:
+      - { locator: "vol. 6, no. 237", cited_by: [] }
+      - { locator: "vol. 5, no. 293", cited_by: [] }
+      - { locator: "vol. 5, no. 299", cited_by: [] }
+      - { locator: "vol. 5, no. 726", cited_by: [] }
+      - { locator: "vol. 8, no. 782", cited_by: [] }
+      - { locator: "vol. 8, no. 786", cited_by: [] }
+      - { locator: "vol. 8, no. 789", cited_by: [] }
+      - { locator: "vol. 8, no. 825", cited_by: [] }
+      - { locator: "vol. 8, no. 897", cited_by: [] }
+      - { locator: "vol. 8, no. 920", cited_by: [] }
+      - { locator: "vol. 9, no. 1289", cited_by: [] }
+      - { locator: "vol. 10, no. 1383", cited_by: [] }
+      - { locator: "vol. 10, no. 1385", cited_by: [] }
+      - { locator: "vol. 10, no. 1402", cited_by: [] }
+      - { locator: "vol. 10, no. 1483", cited_by: [] }
+      - { locator: "vol. 10, no. 1541", cited_by: [] }
+      - { locator: "vol. 10, no. 1576", cited_by: [] }
+      - { locator: "vol. 10, no. 1579", cited_by: [] }
+      - { locator: "vol. 11, no. 1782", cited_by: [] }
+      - { locator: "vol. 11, no. 1901", cited_by: [] }
+      - { locator: "vol. 11, no. 1910", cited_by: [] }
+      - { locator: "vol. 11, no. 1915", cited_by: [] }
+      - { locator: "vol. 11, no. 1924", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 3, no. 2053", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 112", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 829", kind: "entry", context: "none" }
+      - { locator: "t. VI, p. 45", kind: "entry", context: "none" }
+      - { locator: "t. VI, p. 50", kind: "entry", context: "none" }
+      - { locator: "t. VI, p. 68", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 72", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 381", kind: "entry", context: "none" }
+      - { locator: "t. VII, p. 381", kind: "entry", context: "none" }
+      - { locator: "t. VII, p. 457", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 287", kind: "entry", context: "none" }
+      - { locator: "t. IX, p. 390", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 480", kind: "entry", context: "none" }
+      - { locator: "t. X, p. 301", kind: "entry", context: "none" }
+      - { locator: "t. X, p. 908", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 474", kind: "entry", context: "none" }
+      - { locator: "t. XII, p. 517", kind: "entry", context: "none" }
+      - { locator: "t. XII, p. 674", kind: "entry", context: "none" }
+      - { locator: "t. XIII, p. 337", kind: "entry", context: "none" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 394", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 26", kind: "entry", context: "none" }
+  bezslug:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  bieganszczyzna:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  biskupice-karczma:
+    kdw:
+      candidates:
+      - { locator: "vol. 6, no. 95", cited_by: [] }
+      - { locator: "vol. 5, no. 138", cited_by: [] }
+      - { locator: "vol. 5, no. 245", cited_by: [] }
+      - { locator: "vol. 5, no. 320", cited_by: [] }
+      - { locator: "vol. 1, no. 601", cited_by: [] }
+      - { locator: "vol. 2, no. 698", cited_by: [] }
+      - { locator: "vol. 5, no. 725", cited_by: [] }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 2, no. 765", cited_by: [] }
+      - { locator: "vol. 8, no. 843", cited_by: [] }
+      - { locator: "vol. 8, no. 931", cited_by: [] }
+      - { locator: "vol. 2, no. 933", cited_by: [] }
+      - { locator: "vol. 2, no. 1005", cited_by: [] }
+      - { locator: "vol. 2, no. 1067", cited_by: [] }
+      - { locator: "vol. 2, no. 1088", cited_by: [] }
+      - { locator: "vol. 9, no. 1236", cited_by: [] }
+      - { locator: "vol. 9, no. 1284", cited_by: [] }
+      - { locator: "vol. 3, no. 1300", cited_by: [] }
+      - { locator: "vol. 3, no. 1301", cited_by: [] }
+      - { locator: "vol. 3, no. 1354", cited_by: [] }
+      - { locator: "vol. 3, no. 1544", cited_by: [] }
+      - { locator: "vol. 3, no. 1548", cited_by: [] }
+      - { locator: "vol. 3, no. 1576", cited_by: [] }
+      - { locator: "vol. 3, no. 1602", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 3, no. 2053", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. VI, p. 768", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 805", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 360", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 247", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 247", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 247", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 248", kind: "entry", context: "none" }
+      - { locator: "t. 1, p. 249", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 249", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 249", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 249", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 249", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 250", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 250", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 250", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 250", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 250", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 251", kind: "entry", context: "none" }
+      - { locator: "t. 1, p. 251", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 251", kind: "entry", context: "unknown" }
+      - { locator: "t. 12, p. 126", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 248", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 248", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 248", kind: "mention", context: "ok" }
+  budy:
+    kdw:
+      candidates:
+      - { locator: "vol. 8, no. 819", cited_by: [] }
+      - { locator: "vol. 10, no. 1539", cited_by: [] }
+      - { locator: "vol. 10, no. 1594", cited_by: [] }
+      - { locator: "vol. 10, no. 1596", cited_by: [] }
+      - { locator: "vol. 3, no. 1742", cited_by: [] }
+      - { locator: "vol. 3, no. 1751", cited_by: [] }
+      - { locator: "vol. 3, no. 1818", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. XV, p. 51", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 261", kind: "entry", context: "ok" }
+      - { locator: "t. I, p. 414", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 579", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 175", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 568", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 620", kind: "mention", context: "ok" }
+      - { locator: "t. VI, p. 534", kind: "mention", context: "ok" }
+      - { locator: "t. IX, p. 538", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 295", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 579", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 579", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 935", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 154", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 467", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 468", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 468", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 468", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 468", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 468", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 470", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 471", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 473", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 473", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 473", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 473", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 474", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 474", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 474", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 474", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 474", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 474", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 474", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 475", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 475", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 475", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 475", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 475", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 475", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 476", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 476", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 476", kind: "entry", context: "none" }
+      - { locator: "t. 1, p. 476", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 476", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 476", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 476", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 477", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 477", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 477", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 477", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 477", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 477", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 477", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 481", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 137", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 353", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 323", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 166", kind: "entry", context: "ok" }
+      - { locator: "t. 6, p. 439", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 280", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 510", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 26", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 179", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 225", kind: "entry", context: "unknown" }
+      - { locator: "t. 17, p. 256", kind: "entry", context: "unknown" }
+      - { locator: "t. 1, p. 161", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 166", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 166", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 166", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 166", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 166", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 166", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+  bukowe:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 167", cited_by: [] }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 3, no. 1924", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. III, p. 792", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 827", kind: "entry", context: "none" }
+      - { locator: "t. XI, p. 443", kind: "entry", context: "none" }
+      - { locator: "t. V, p. 825", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 492", kind: "entry", context: "ok" }
+  chrusciki:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XV, p. 11", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 328", kind: "entry", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 93", kind: "entry", context: "ok" }
+  cygany:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 722", kind: "entry", context: "none" }
+      - { locator: "t. I, p. 724", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 724", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 724", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 724", kind: "entry", context: "unknown" }
+      - { locator: "t. III, p. 718", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 835", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 730", kind: "entry", context: "unknown" }
+      - { locator: "t. VI, p. 327", kind: "entry", context: "none" }
+      - { locator: "t. VIII, p. 832", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 846", kind: "entry", context: "none" }
+      - { locator: "t. XIV, p. 589", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 613", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 704", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 346", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 214", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 163", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 62", kind: "mention", context: "ok" }
+  czarna-struga:
+    kdw:
+      candidates:
+      - { locator: "vol. 6, no. 158", cited_by: [] }
+      - { locator: "vol. 2, no. 960", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 742", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 742", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 469", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 615", kind: "entry", context: "unknown" }
+      - { locator: "t. X, p. 689", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 8", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 639", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 382", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 471", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 182", kind: "entry", context: "unknown" }
+  czarnybrod:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 766", kind: "entry", context: "unknown" }
+      - { locator: "t. XII, p. 647", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 90", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 15, p. 205", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 197", kind: "mention", context: "ok" }
+  czerwonka:
+    kdw:
+      candidates:
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 3, no. 1584", cited_by: [] }
+      - { locator: "vol. 3, no. 1601", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 289", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 819", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 816", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 579", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 819", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 227", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 229", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 229", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 229", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 230", kind: "entry", context: "none" }
+      - { locator: "t. 2, p. 230", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 230", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 230", kind: "entry", context: "unknown" }
+      - { locator: "t. 5, p. 154", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 229", kind: "mention", context: "ok" }
+  dluga-gorka:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 34", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 348", kind: "mention", context: "ok" }
+  drzewce:
+    kdw:
+      candidates:
+      - { locator: "vol. 5, no. 116", cited_by: [] }
+      - { locator: "vol. 5, no. 169", cited_by: [] }
+      - { locator: "vol. 5, no. 280", decision: "yes", doc: kdw-18, cited_by: [drzewce, wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 1084", cited_by: [] }
+      - { locator: "vol. 3, no. 1404", cited_by: [] }
+      - { locator: "vol. 11, no. 1718", cited_by: [] }
+      - { locator: "vol. 11, no. 1848", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 26", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 719", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 825", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 543", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 543", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 615", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 444", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 444", kind: "entry", context: "none" }
+      - { locator: "t. 2, p. 445", kind: "entry", context: "none" }
+      - { locator: "t. 2, p. 445", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 445", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 445", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 444", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 444", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 444", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 444", kind: "mention", context: "ok" }
+  drzezgi:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  dziadolina:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 261", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 372", kind: "entry", context: "none" }
+    nmpol:
+      candidates: []
+  garbin:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 487", kind: "entry", context: "ok" }
+    nmpol:
+      candidates: []
+  glinianki:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 585", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 585", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 585", kind: "entry", context: "unknown" }
+      - { locator: "t. XII, p. 555", kind: "entry", context: "none" }
+      - { locator: "t. XV, p. 503", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates: []
+  grabina:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 304", cited_by: [] }
+      - { locator: "vol. 2, no. 618", cited_by: [] }
+      - { locator: "vol. 2, no. 655", cited_by: [] }
+      - { locator: "vol. 2, no. 656", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 443", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 34", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 773", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 861", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 373", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 761", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 884", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 475", kind: "entry", context: "none" }
+      - { locator: "t. X, p. 414", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 915", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 342", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 342", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 468", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 785", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 322", kind: "entry", context: "none" }
+      - { locator: "t. XIV, p. 325", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 528", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 528", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 272", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 175", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 312", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 111", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 3, p. 328", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 328", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 328", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 328", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 328", kind: "entry", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "entry", context: "ok" }
+      - { locator: "t. 3, p. 329", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 329", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 329", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 329", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 329", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 329", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 330", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 330", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 330", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 330", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 330", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+  gradzen-las:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  gradzyn:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates:
+      - { locator: "t. 3, p. 363", kind: "entry", context: "unknown" }
+  hagrowo:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  huta-lukomska:
+    kdw:
+      candidates:
+      - { locator: "vol. 9, no. 1274", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 697", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 837", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 218", kind: "entry", context: "ok" }
+      - { locator: "t. I, p. 506", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 285", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 771", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 841", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 231", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 231", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 232", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 232", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 881", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 884", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 884", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 666", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 817", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 819", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 819", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 355", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 501", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 506", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 507", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 507", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 508", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 508", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 508", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 509", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 509", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 509", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 509", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 509", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 510", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 510", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 510", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 510", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 510", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 510", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 510", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 511", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 511", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 511", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 511", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 511", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 512", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 512", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 513", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 513", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 513", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 513", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 513", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 513", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 513", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 514", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 514", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 514", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 515", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 515", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 515", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 515", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 515", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 476", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 525", kind: "entry", context: "none" }
+      - { locator: "t. 10, p. 112", kind: "entry", context: "unknown" }
+      - { locator: "t. 13, p. 178", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 38", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 156", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 156", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 157", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 157", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 157", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 157", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 157", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 157", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 157", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 158", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 158", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 158", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 158", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 159", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 159", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 159", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 204", kind: "entry", context: "none" }
+      - { locator: "t. 16, p. 164", kind: "entry", context: "unknown" }
+      - { locator: "t. 17, p. 197", kind: "entry", context: "unknown" }
+      - { locator: "t. 18, p. 23", kind: "entry", context: "none" }
+      - { locator: "t. 3, p. 506", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 506", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 506", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 507", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 507", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 507", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 507", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 511", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 511", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 511", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 511", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 516", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 516", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 516", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 516", kind: "mention", context: "ok" }
+  huta-trabczynska:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XII, p. 449", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  imielanka:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  imielno:
+    kdw:
+      candidates:
+      - { locator: "vol. 5, no. 224", cited_by: [] }
+      - { locator: "vol. 1, no. 238", decision: "yes", doc: kdw-3, cited_by: [imielno], note: "already cited by the entry" }
+      - { locator: "vol. 7, no. 739", cited_by: [] }
+      - { locator: "vol. 10, no. 1396", cited_by: [] }
+      - { locator: "vol. 10, no. 1416", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. III, p. 277", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 633", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 276", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 276", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 817", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 295", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 3, p. 530", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 530", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 530", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 530", kind: "mention", context: "ok" }
+  jeziorko:
+    kdw:
+      candidates:
+      - { locator: "vol. 6, no. 34", cited_by: [] }
+      - { locator: "vol. 5, no. 701", cited_by: [] }
+      - { locator: "vol. 2, no. 1088", cited_by: [] }
+      - { locator: "vol. 2, no. 1191", cited_by: [] }
+      - { locator: "vol. 3, no. 1404", cited_by: [] }
+      - { locator: "vol. 10, no. 1441", cited_by: [] }
+      - { locator: "vol. 3, no. 1751", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 3, no. 2053", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 361", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 170", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 94", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 676", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 354", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 4, p. 187", kind: "entry", context: "none" }
+      - { locator: "t. 4, p. 187", kind: "entry", context: "unknown" }
+      - { locator: "t. 4, p. 187", kind: "entry", context: "unknown" }
+      - { locator: "t. 4, p. 187", kind: "entry", context: "unknown" }
+      - { locator: "t. 4, p. 187", kind: "entry", context: "unknown" }
+      - { locator: "t. 4, p. 188", kind: "entry", context: "unknown" }
+      - { locator: "t. 4, p. 188", kind: "entry", context: "unknown" }
+      - { locator: "t. 4, p. 192", kind: "entry", context: "unknown" }
+      - { locator: "t. 4, p. 192", kind: "entry", context: "unknown" }
+  kirchol:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  koczogowa:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  kopojno-parcele:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  kopojno:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 222", decision: "yes", doc: kdw-2, cited_by: [kopojno, lukom, skokum, szetlew, trabczyn, wrabczyn, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 228", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 393", decision: "yes", doc: kdw-4, cited_by: [olesnica, skokum, szetlew, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 678", decision: "yes", doc: kdw-7, cited_by: [kopojno], note: "already cited by the entry" }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 373", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 382", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 383", kind: "entry", context: "none" }
+      - { locator: "t. X, p. 689", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 120", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 689", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 639", kind: "mention", context: "ok" }
+      - { locator: "t. XIII, p. 103", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 120", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 5, p. 128", kind: "entry", context: "ok" }
+  kosciolkow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 459", kind: "entry", context: "ok" }
+    nmpol:
+      candidates: []
+  koszelewska-laka:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 484", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 631", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 5, p. 182", kind: "entry", context: "unknown" }
+      - { locator: "t. 5, p. 182", kind: "mention", context: "ok" }
+  kowaliska:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  krolestwo:
+    kdw:
+      candidates:
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 12", kind: "entry", context: "none" }
+      - { locator: "t. I, p. 546", kind: "entry", context: "none" }
+      - { locator: "t. I, p. 546", kind: "entry", context: "none" }
+      - { locator: "t. I, p. 576", kind: "entry", context: "none" }
+      - { locator: "t. IV, p. 686", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 435", kind: "entry", context: "none" }
+      - { locator: "t. V, p. 436", kind: "entry", context: "none" }
+      - { locator: "t. VIII, p. 456", kind: "entry", context: "none" }
+      - { locator: "t. VIII, p. 619", kind: "entry", context: "none" }
+      - { locator: "t. IX, p. 288", kind: "entry", context: "none" }
+      - { locator: "t. XIII, p. 918", kind: "entry", context: "none" }
+      - { locator: "t. XIV, p. 149", kind: "entry", context: "none" }
+      - { locator: "t. XIV, p. 163", kind: "entry", context: "none" }
+      - { locator: "t. XIV, p. 598", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates: []
+  kuzoi:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  laski:
+    kdw:
+      candidates:
+      - { locator: "vol. 6, no. 209", cited_by: [] }
+      - { locator: "vol. 7, no. 439", cited_by: [] }
+      - { locator: "vol. 7, no. 443", cited_by: [] }
+      - { locator: "vol. 7, no. 548", cited_by: [] }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 7, no. 757", cited_by: [] }
+      - { locator: "vol. 7, no. 761", cited_by: [] }
+      - { locator: "vol. 8, no. 787", cited_by: [] }
+      - { locator: "vol. 8, no. 805", cited_by: [] }
+      - { locator: "vol. 8, no. 833", cited_by: [] }
+      - { locator: "vol. 8, no. 933", cited_by: [] }
+      - { locator: "vol. 8, no. 940", cited_by: [] }
+      - { locator: "vol. 8, no. 943", cited_by: [] }
+      - { locator: "vol. 8, no. 946", cited_by: [] }
+      - { locator: "vol. 8, no. 975", cited_by: [] }
+      - { locator: "vol. 8, no. 992", cited_by: [] }
+      - { locator: "vol. 8, no. 1065", cited_by: [] }
+      - { locator: "vol. 8, no. 1066", cited_by: [] }
+      - { locator: "vol. 9, no. 1093", cited_by: [] }
+      - { locator: "vol. 9, no. 1133", cited_by: [] }
+      - { locator: "vol. 9, no. 1236", cited_by: [] }
+      - { locator: "vol. 9, no. 1241", cited_by: [] }
+      - { locator: "vol. 9, no. 1292", cited_by: [] }
+      - { locator: "vol. 9, no. 1318", cited_by: [] }
+      - { locator: "vol. 9, no. 1327", cited_by: [] }
+      - { locator: "vol. 9, no. 1335", cited_by: [] }
+      - { locator: "vol. 10, no. 1381", cited_by: [] }
+      - { locator: "vol. 10, no. 1401", cited_by: [] }
+      - { locator: "vol. 10, no. 1421", cited_by: [] }
+      - { locator: "vol. 10, no. 1430", cited_by: [] }
+      - { locator: "vol. 3, no. 1432", cited_by: [] }
+      - { locator: "vol. 10, no. 1476", cited_by: [] }
+      - { locator: "vol. 10, no. 1493", cited_by: [] }
+      - { locator: "vol. 10, no. 1496", cited_by: [] }
+      - { locator: "vol. 10, no. 1528", cited_by: [] }
+      - { locator: "vol. 10, no. 1644", cited_by: [] }
+      - { locator: "vol. 10, no. 1696", cited_by: [] }
+      - { locator: "vol. 11, no. 1726", cited_by: [] }
+      - { locator: "vol. 11, no. 1741", cited_by: [] }
+      - { locator: "vol. 11, no. 1893", cited_by: [] }
+      - { locator: "vol. 11, no. 1904", cited_by: [] }
+      - { locator: "vol. 11, no. 1958", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 266", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 312", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 490", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 508", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 568", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 825", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 309", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 78", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 306", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 852", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 266", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 419", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 419", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 239", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 759", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 851", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 86", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 607", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 855", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 912", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 399", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 863", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 863", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 900", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 179", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 102", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 326", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 568", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 768", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 31", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 97", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 120", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 191", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 393", kind: "entry", context: "ok" }
+      - { locator: "t. I, p. 889", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 664", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 684", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 672", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 672", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 839", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 935", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 935", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 60", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 107", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 264", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 264", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 571", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 697", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 752", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 3, p. 481", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 18", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 19", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 20", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 20", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 20", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 20", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 21", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 21", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 21", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 21", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 21", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 21", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 21", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 282", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 282", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 282", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 282", kind: "entry", context: "unknown" }
+      - { locator: "t. 9, p. 182", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 180", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 180", kind: "entry", context: "unknown" }
+      - { locator: "t. 5, p. 240", kind: "mention", context: "ok" }
+  lazinskie-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 292", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 157", kind: "mention", context: "ok" }
+  lazy-trabczyn:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 736", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 106", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 106", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 413", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 3, p. 159", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 296", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 296", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 296", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 296", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 296", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 296", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 297", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 297", kind: "entry", context: "none" }
+      - { locator: "t. 6, p. 297", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 298", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 298", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 298", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 298", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 299", kind: "entry", context: "none" }
+  lomow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 457", kind: "entry", context: "unknown" }
+      - { locator: "t. II, p. 457", kind: "entry", context: "none" }
+      - { locator: "t. V, p. 697", kind: "entry", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 359", kind: "entry", context: "ok" }
+      - { locator: "t. 6, p. 359", kind: "entry", context: "none" }
+  ludwigslust:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VI, p. 82", kind: "entry", context: "unknown" }
+      - { locator: "t. VI, p. 712", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 414", kind: "entry", context: "unknown" }
+      - { locator: "t. XII, p. 648", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 298", kind: "entry", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 497", kind: "entry", context: "unknown" }
+  lukom:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 222", decision: "yes", doc: kdw-2, cited_by: [kopojno, lukom, skokum, szetlew, trabczyn, wrabczyn, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 11, no. 1958", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. III, p. 231", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 825", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 367", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 479", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 817", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 817", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 819", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 823", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 32", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 345", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 919", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 604", kind: "entry", context: "ok" }
+      - { locator: "t. XVI, p. 282", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 276", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 461", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 479", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 295", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 282", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 282", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 399", kind: "entry", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "entry", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+  lukomskie-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 33", kind: "entry", context: "unknown" }
+  lusnie-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 33", kind: "entry", context: "unknown" }
+  lutow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 490", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates: []
+  malgorzatow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 817", kind: "entry", context: "none" }
+      - { locator: "t. VI, p. 32", kind: "entry", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 487", kind: "entry", context: "unknown" }
+  maly:
+    kdw:
+      candidates:
+      - { locator: "vol. 5, no. 1", cited_by: [] }
+      - { locator: "vol. 6, no. 40", cited_by: [] }
+      - { locator: "vol. 5, no. 147", cited_by: [] }
+      - { locator: "vol. 5, no. 156", cited_by: [] }
+      - { locator: "vol. 5, no. 170", cited_by: [] }
+      - { locator: "vol. 5, no. 218", cited_by: [] }
+      - { locator: "vol. 5, no. 236", cited_by: [] }
+      - { locator: "vol. 6, no. 285", cited_by: [] }
+      - { locator: "vol. 7, no. 404", cited_by: [] }
+      - { locator: "vol. 1, no. 498", cited_by: [] }
+      - { locator: "vol. 1, no. 553", cited_by: [] }
+      - { locator: "vol. 1, no. 563", cited_by: [] }
+      - { locator: "vol. 5, no. 567", cited_by: [] }
+      - { locator: "vol. 1, no. 574", cited_by: [] }
+      - { locator: "vol. 1, no. 616", cited_by: [] }
+      - { locator: "vol. 2, no. 690", cited_by: [] }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 2, no. 914", cited_by: [] }
+      - { locator: "vol. 8, no. 977", cited_by: [] }
+      - { locator: "vol. 9, no. 1133", cited_by: [] }
+      - { locator: "vol. 9, no. 1140", cited_by: [] }
+      - { locator: "vol. 2, no. 1190", cited_by: [] }
+      - { locator: "vol. 2, no. 1290", cited_by: [] }
+      - { locator: "vol. 3, no. 1307", cited_by: [] }
+      - { locator: "vol. 3, no. 1404", cited_by: [] }
+      - { locator: "vol. 10, no. 1454", cited_by: [] }
+      - { locator: "vol. 10, no. 1464", cited_by: [] }
+      - { locator: "vol. 10, no. 1482", cited_by: [] }
+      - { locator: "vol. 10, no. 1685", cited_by: [] }
+      - { locator: "vol. 3, no. 1727", cited_by: [] }
+      - { locator: "vol. 3, no. 1776", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 3, no. 2053", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 309", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 309", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 459", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 275", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 538", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 186", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 324", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 455", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 64", kind: "entry", context: "ok" }
+      - { locator: "t. I, p. 414", kind: "mention", context: "ok" }
+      - { locator: "t. I, p. 630", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 237", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 571", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 452", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 548", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 574", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 574", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 656", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 656", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 656", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 725", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 308", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 321", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 636", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 392", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 497", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 497", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 497", kind: "entry", context: "unknown" }
+      - { locator: "t. 6, p. 497", kind: "entry", context: "unknown" }
+      - { locator: "t. 10, p. 11", kind: "entry", context: "none" }
+      - { locator: "t. 13, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "none" }
+      - { locator: "t. 16, p. 196", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 421", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 444", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 316", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 360", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 348", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 211", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 214", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 214", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 214", kind: "mention", context: "ok" }
+      - { locator: "t. 12, p. 17", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 113", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 144", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 144", kind: "mention", context: "ok" }
+      - { locator: "t. 18, p. 277", kind: "mention", context: "ok" }
+      - { locator: "t. 18, p. 278", kind: "mention", context: "ok" }
+  maradz-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  maradz:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VI, p. 102", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 102", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 505", kind: "entry", context: "none" }
+  mariantow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 524", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 524", kind: "mention", context: "ok" }
+  miasykat:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  michalinow-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  michalinow-olesnicki:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 353", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 353", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 765", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 290", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 451", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 471", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 689", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 8", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 639", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 773", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 51", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 471", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 382", kind: "mention", context: "ok" }
+      - { locator: "t. VII, p. 472", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 597", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 3, p. 15", kind: "entry", context: "unknown" }
+  myszakow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 817", kind: "entry", context: "none" }
+      - { locator: "t. VI, p. 838", kind: "entry", context: "ok" }
+      - { locator: "t. XVI, p. 365", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 7, p. 310", kind: "entry", context: "ok" }
+      - { locator: "t. 7, p. 310", kind: "entry", context: "ok" }
+      - { locator: "t. 7, p. 310", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 310", kind: "mention", context: "ok" }
+  myszakowek:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 817", kind: "mention", context: "ok" }
+      - { locator: "t. VI, p. 838", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 7, p. 310", kind: "mention", context: "ok" }
+  noga:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 267", cited_by: [] }
+      - { locator: "vol. 5, no. 664", cited_by: [] }
+      - { locator: "vol. 11, no. 1994", cited_by: [] }
+      - { locator: "vol. 11, no. 1996", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. VII, p. 172", decision: "yes", kind: "entry", context: "ok", note: "already cited by the entry" }
+      - { locator: "t. XI, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 589", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  nowawies-trabczyn:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 297", cited_by: [] }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 8, no. 837", cited_by: [] }
+      - { locator: "vol. 8, no. 845", cited_by: [] }
+      - { locator: "vol. 8, no. 885", cited_by: [] }
+      - { locator: "vol. 2, no. 921", cited_by: [] }
+      - { locator: "vol. 9, no. 1207", cited_by: [] }
+      - { locator: "vol. 3, no. 1464", decision: "yes", cited_by: [wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1479", cited_by: [] }
+      - { locator: "vol. 3, no. 1773", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 317", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 308", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 422", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 374", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 417", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 661", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 661", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 671", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 671", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 863", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 270", kind: "entry", context: "unknown" }
+      - { locator: "t. 2, p. 329", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 14", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 41", kind: "entry", context: "unknown" }
+      - { locator: "t. 3, p. 424", kind: "entry", context: "none" }
+      - { locator: "t. 4, p. 76", kind: "entry", context: "none" }
+      - { locator: "t. 5, p. 438", kind: "entry", context: "none" }
+      - { locator: "t. 5, p. 438", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 338", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 479", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 480", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 480", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 480", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 480", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 481", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 481", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 481", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 481", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 481", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 481", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 482", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 482", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 482", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 483", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 484", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 484", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 484", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 484", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 484", kind: "entry", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 485", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 485", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 485", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 486", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 486", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 487", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 487", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 488", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 488", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 488", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 488", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 488", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 488", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 489", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 489", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 489", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 489", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 489", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 490", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 490", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 490", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 490", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 491", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 492", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 492", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 492", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 492", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 492", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 493", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 493", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 493", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 493", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 494", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 495", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 497", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 497", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 497", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 497", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 498", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 498", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 498", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 498", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 499", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 499", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 499", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 499", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 499", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 499", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 500", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 500", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 500", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 500", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 500", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 500", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 500", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 501", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 502", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 503", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 503", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 503", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 503", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 503", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 503", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 504", kind: "entry", context: "unknown" }
+      - { locator: "t. 7, p. 504", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 517", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+  olchowo:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VII, p. 447", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 454", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 405", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 8, p. 77", kind: "mention", context: "ok" }
+  olesnica-folwark:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  olesnica:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 294", cited_by: [] }
+      - { locator: "vol. 1, no. 393", decision: "yes", doc: kdw-4, cited_by: [olesnica, skokum, szetlew, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 8, no. 964", cited_by: [] }
+      - { locator: "vol. 2, no. 1099", cited_by: [] }
+      - { locator: "vol. 2, no. 1190", cited_by: [] }
+      - { locator: "vol. 11, no. 1745", cited_by: [] }
+      - { locator: "vol. 11, no. 1746", cited_by: [] }
+      - { locator: "vol. 11, no. 1747", cited_by: [] }
+      - { locator: "vol. 11, no. 1748", cited_by: [] }
+      - { locator: "vol. 3, no. 1911", cited_by: [] }
+      - { locator: "vol. 3, no. 1913", cited_by: [] }
+      - { locator: "vol. 3, no. 1988", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 3, no. 2053", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 386", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 386", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 472", kind: "mention", context: "ok" }
+      - { locator: "t. XIII, p. 110", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 3, p. 118", kind: "entry", context: "none" }
+      - { locator: "t. 2, p. 147", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 84", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 84", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 84", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 84", kind: "mention", context: "ok" }
+  osiny:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 357", kind: "entry", context: "unknown" }
+      - { locator: "t. III, p. 730", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 472", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 822", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 617", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 638", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 639", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 639", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 639", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 640", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 640", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 478", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 191", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 722", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 8, p. 177", kind: "entry", context: "unknown" }
+      - { locator: "t. 8, p. 178", kind: "entry", context: "unknown" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 179", kind: "mention", context: "ok" }
+  ostrowiec:
+    kdw:
+      candidates:
+      - { locator: "vol. 11, no. 1965", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. VII, p. 719", kind: "entry", context: "ok" }
+      - { locator: "t. XVI, p. 423", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 76", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 423", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 7, p. 407", kind: "entry", context: "none" }
+      - { locator: "t. 8, p. 210", kind: "entry", context: "unknown" }
+      - { locator: "t. 8, p. 210", kind: "entry", context: "none" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+      - { locator: "t. 8, p. 209", kind: "mention", context: "ok" }
+  podbiel:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VII, p. 169", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 360", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 360", kind: "entry", context: "unknown" }
+      - { locator: "t. XII, p. 815", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 9, p. 17", kind: "mention", context: "ok" }
+  porabki:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 624", kind: "entry", context: "unknown" }
+      - { locator: "t. VI, p. 314", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 813", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 815", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 815", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 815", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 815", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 815", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 385", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 410", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 378", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  posada:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 334", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 578", kind: "entry", context: "none" }
+      - { locator: "t. II, p. 20", kind: "entry", context: "unknown" }
+      - { locator: "t. III, p. 419", kind: "entry", context: "none" }
+      - { locator: "t. III, p. 487", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 388", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 605", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 227", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 721", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 111", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 574", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 838", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 838", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 838", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 839", kind: "entry", context: "none" }
+      - { locator: "t. VIII, p. 839", kind: "entry", context: "unknown" }
+      - { locator: "t. X, p. 29", kind: "entry", context: "unknown" }
+      - { locator: "t. X, p. 67", kind: "entry", context: "unknown" }
+      - { locator: "t. X, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. X, p. 911", kind: "entry", context: "unknown" }
+      - { locator: "t. XII, p. 483", kind: "entry", context: "none" }
+      - { locator: "t. XIII, p. 862", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 423", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 486", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 605", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 838", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 89", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+      - { locator: "t. 9, p. 191", kind: "mention", context: "ok" }
+  potaszniki:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VIII, p. 861", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 861", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates: []
+  przybyslaw:
+    kdw:
+      candidates:
+      - { locator: "vol. 6, no. 15", cited_by: [] }
+      - { locator: "vol. 6, no. 18", cited_by: [] }
+      - { locator: "vol. 6, no. 49", cited_by: [] }
+      - { locator: "vol. 6, no. 231", cited_by: [] }
+      - { locator: "vol. 6, no. 252", cited_by: [] }
+      - { locator: "vol. 6, no. 327", cited_by: [] }
+      - { locator: "vol. 1, no. 442", cited_by: [] }
+      - { locator: "vol. 7, no. 471", cited_by: [] }
+      - { locator: "vol. 7, no. 549", cited_by: [] }
+      - { locator: "vol. 7, no. 680", cited_by: [] }
+      - { locator: "vol. 9, no. 1176", cited_by: [] }
+      - { locator: "vol. 9, no. 1347", cited_by: [] }
+      - { locator: "vol. 10, no. 1557", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 3, no. 2053", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. IX, p. 201", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 201", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 244", kind: "entry", context: "none" }
+      - { locator: "t. IX, p. 942", kind: "entry", context: "none" }
+      - { locator: "t. X, p. 586", kind: "entry", context: "none" }
+      - { locator: "t. XI, p. 314", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 799", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 792", kind: "entry", context: "none" }
+      - { locator: "t. XVI, p. 549", kind: "entry", context: "none" }
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  przycierz:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  pyzdry:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 3", cited_by: [] }
+      - { locator: "vol. 6, no. 32", cited_by: [] }
+      - { locator: "vol. 5, no. 50", cited_by: [] }
+      - { locator: "vol. 6, no. 53", cited_by: [] }
+      - { locator: "vol. 6, no. 56", cited_by: [] }
+      - { locator: "vol. 6, no. 58", cited_by: [] }
+      - { locator: "vol. 6, no. 65", cited_by: [] }
+      - { locator: "vol. 6, no. 84", cited_by: [] }
+      - { locator: "vol. 6, no. 87", cited_by: [] }
+      - { locator: "vol. 6, no. 91", cited_by: [] }
+      - { locator: "vol. 6, no. 105", cited_by: [] }
+      - { locator: "vol. 5, no. 107", cited_by: [] }
+      - { locator: "vol. 6, no. 147", cited_by: [] }
+      - { locator: "vol. 6, no. 157", cited_by: [] }
+      - { locator: "vol. 6, no. 173", cited_by: [] }
+      - { locator: "vol. 6, no. 174", cited_by: [] }
+      - { locator: "vol. 6, no. 192", cited_by: [] }
+      - { locator: "vol. 6, no. 195", cited_by: [] }
+      - { locator: "vol. 6, no. 207", cited_by: [] }
+      - { locator: "vol. 6, no. 221", cited_by: [] }
+      - { locator: "vol. 5, no. 276", cited_by: [] }
+      - { locator: "vol. 6, no. 294", cited_by: [] }
+      - { locator: "vol. 6, no. 298", cited_by: [] }
+      - { locator: "vol. 6, no. 315", cited_by: [] }
+      - { locator: "vol. 6, no. 316", cited_by: [] }
+      - { locator: "vol. 6, no. 328", cited_by: [] }
+      - { locator: "vol. 6, no. 343", cited_by: [] }
+      - { locator: "vol. 1, no. 363", cited_by: [] }
+      - { locator: "vol. 6, no. 364", cited_by: [] }
+      - { locator: "vol. 7, no. 401", cited_by: [] }
+      - { locator: "vol. 1, no. 404", cited_by: [] }
+      - { locator: "vol. 7, no. 407", cited_by: [] }
+      - { locator: "vol. 7, no. 416", cited_by: [] }
+      - { locator: "vol. 5, no. 418", cited_by: [] }
+      - { locator: "vol. 7, no. 469", cited_by: [] }
+      - { locator: "vol. 5, no. 494", cited_by: [] }
+      - { locator: "vol. 1, no. 498", cited_by: [] }
+      - { locator: "vol. 5, no. 499", cited_by: [] }
+      - { locator: "vol. 5, no. 521", cited_by: [] }
+      - { locator: "vol. 7, no. 523", cited_by: [] }
+      - { locator: "vol. 5, no. 531", cited_by: [] }
+      - { locator: "vol. 5, no. 545", cited_by: [] }
+      - { locator: "vol. 1, no. 568", cited_by: [] }
+      - { locator: "vol. 1, no. 570", cited_by: [] }
+      - { locator: "vol. 7, no. 575", cited_by: [] }
+      - { locator: "vol. 5, no. 589", cited_by: [] }
+      - { locator: "vol. 7, no. 600", cited_by: [] }
+      - { locator: "vol. 7, no. 613", cited_by: [] }
+      - { locator: "vol. 5, no. 627", cited_by: [] }
+      - { locator: "vol. 2, no. 672", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 7, no. 693", cited_by: [] }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 7, no. 740", cited_by: [] }
+      - { locator: "vol. 2, no. 744", cited_by: [] }
+      - { locator: "vol. 2, no. 753", cited_by: [] }
+      - { locator: "vol. 2, no. 777", cited_by: [] }
+      - { locator: "vol. 8, no. 782", cited_by: [] }
+      - { locator: "vol. 2, no. 795", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 8, no. 798", cited_by: [] }
+      - { locator: "vol. 8, no. 806", cited_by: [] }
+      - { locator: "vol. 2, no. 820", cited_by: [] }
+      - { locator: "vol. 2, no. 821", cited_by: [] }
+      - { locator: "vol. 8, no. 837", cited_by: [] }
+      - { locator: "vol. 2, no. 839", cited_by: [] }
+      - { locator: "vol. 2, no. 850", cited_by: [] }
+      - { locator: "vol. 2, no. 858", cited_by: [] }
+      - { locator: "vol. 2, no. 877", cited_by: [] }
+      - { locator: "vol. 2, no. 885", cited_by: [] }
+      - { locator: "vol. 8, no. 888", cited_by: [] }
+      - { locator: "vol. 2, no. 900", cited_by: [] }
+      - { locator: "vol. 2, no. 901", cited_by: [] }
+      - { locator: "vol. 2, no. 904", cited_by: [] }
+      - { locator: "vol. 2, no. 909", cited_by: [] }
+      - { locator: "vol. 2, no. 933", cited_by: [] }
+      - { locator: "vol. 8, no. 935", cited_by: [] }
+      - { locator: "vol. 2, no. 956", cited_by: [] }
+      - { locator: "vol. 2, no. 957", cited_by: [] }
+      - { locator: "vol. 8, no. 961", cited_by: [] }
+      - { locator: "vol. 8, no. 965", cited_by: [] }
+      - { locator: "vol. 2, no. 971", cited_by: [] }
+      - { locator: "vol. 8, no. 981", cited_by: [] }
+      - { locator: "vol. 2, no. 988", cited_by: [] }
+      - { locator: "vol. 8, no. 989", cited_by: [] }
+      - { locator: "vol. 2, no. 993", cited_by: [] }
+      - { locator: "vol. 2, no. 1000", cited_by: [] }
+      - { locator: "vol. 8, no. 1004", cited_by: [] }
+      - { locator: "vol. 8, no. 1012", cited_by: [] }
+      - { locator: "vol. 8, no. 1013", cited_by: [] }
+      - { locator: "vol. 2, no. 1033", cited_by: [] }
+      - { locator: "vol. 2, no. 1035", cited_by: [] }
+      - { locator: "vol. 8, no. 1037", cited_by: [] }
+      - { locator: "vol. 2, no. 1044", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 1046", cited_by: [] }
+      - { locator: "vol. 2, no. 1053", cited_by: [] }
+      - { locator: "vol. 8, no. 1054", cited_by: [] }
+      - { locator: "vol. 2, no. 1072", cited_by: [] }
+      - { locator: "vol. 9, no. 1117", cited_by: [] }
+      - { locator: "vol. 9, no. 1125", cited_by: [] }
+      - { locator: "vol. 2, no. 1171", cited_by: [] }
+      - { locator: "vol. 9, no. 1182", cited_by: [] }
+      - { locator: "vol. 2, no. 1198", cited_by: [] }
+      - { locator: "vol. 9, no. 1200", cited_by: [] }
+      - { locator: "vol. 2, no. 1204", cited_by: [] }
+      - { locator: "vol. 2, no. 1250", cited_by: [] }
+      - { locator: "vol. 9, no. 1292", cited_by: [] }
+      - { locator: "vol. 3, no. 1309", cited_by: [] }
+      - { locator: "vol. 9, no. 1315", cited_by: [] }
+      - { locator: "vol. 3, no. 1319", cited_by: [] }
+      - { locator: "vol. 3, no. 1321", cited_by: [] }
+      - { locator: "vol. 3, no. 1341", cited_by: [] }
+      - { locator: "vol. 9, no. 1352", cited_by: [] }
+      - { locator: "vol. 9, no. 1364", cited_by: [] }
+      - { locator: "vol. 9, no. 1369", cited_by: [] }
+      - { locator: "vol. 9, no. 1374", cited_by: [] }
+      - { locator: "vol. 3, no. 1379", cited_by: [] }
+      - { locator: "vol. 10, no. 1383", cited_by: [] }
+      - { locator: "vol. 10, no. 1385", cited_by: [] }
+      - { locator: "vol. 3, no. 1436", cited_by: [] }
+      - { locator: "vol. 10, no. 1442", cited_by: [] }
+      - { locator: "vol. 3, no. 1464", decision: "yes", cited_by: [wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1474", cited_by: [] }
+      - { locator: "vol. 10, no. 1520", decision: "yes", doc: kdw-20, cited_by: [adamierz, wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 10, no. 1527", cited_by: [] }
+      - { locator: "vol. 10, no. 1572", cited_by: [] }
+      - { locator: "vol. 10, no. 1579", cited_by: [] }
+      - { locator: "vol. 11, no. 1708", cited_by: [] }
+      - { locator: "vol. 3, no. 1709", cited_by: [] }
+      - { locator: "vol. 3, no. 1730", cited_by: [] }
+      - { locator: "vol. 3, no. 1739", decision: "yes", doc: kdw-11, cited_by: [adamierz, wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 11, no. 1790", cited_by: [] }
+      - { locator: "vol. 3, no. 1807", cited_by: [] }
+      - { locator: "vol. 11, no. 1813", cited_by: [] }
+      - { locator: "vol. 11, no. 1841", cited_by: [] }
+      - { locator: "vol. 11, no. 1845", cited_by: [] }
+      - { locator: "vol. 11, no. 1847", cited_by: [] }
+      - { locator: "vol. 11, no. 1914", cited_by: [] }
+      - { locator: "vol. 3, no. 1916", cited_by: [] }
+      - { locator: "vol. 11, no. 1986", cited_by: [] }
+      - { locator: "vol. 3, no. 1992", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 3, no. 2053", cited_by: [] }
+      - { locator: "vol. 4, no. 2064", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. II, p. 40", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 703", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 815", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 100", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 152", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 567", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 934", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 934", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 437", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 186", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 332", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 332", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 332", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 886", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 143", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 92", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 112", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 205", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 909", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 929", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 110", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 552", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 773", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 98", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 382", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 412", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 751", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 892", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 132", kind: "entry", context: "ok" }
+      - { locator: "t. XVI, p. 530", kind: "entry", context: "ok" }
+      - { locator: "t. XVI, p. 531", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 817", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 677", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 933", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 933", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 943", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 950", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 950", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 950", kind: "mention", context: "ok" }
+      - { locator: "t. IX, p. 332", kind: "mention", context: "ok" }
+      - { locator: "t. IX, p. 332", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 575", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 854", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 854", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 115", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 161", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 161", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 193", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 132", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 243", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 356", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 435", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 132", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 242", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 242", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 302", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 360", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 438", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 529", kind: "mention", context: "ok" }
+  rosciszewo:
+    kdw:
+      candidates:
+      - { locator: "vol. 2, no. 986", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 66", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 282", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 322", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 729", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 314", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 463", kind: "entry", context: "unknown" }
+      - { locator: "t. IV, p. 521", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 275", kind: "entry", context: "unknown" }
+      - { locator: "t. VI, p. 860", kind: "entry", context: "unknown" }
+      - { locator: "t. VII, p. 701", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 42", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 594", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 749", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 750", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 750", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 750", kind: "entry", context: "unknown" }
+      - { locator: "t. IX, p. 750", kind: "entry", context: "unknown" }
+      - { locator: "t. X, p. 151", kind: "entry", context: "none" }
+      - { locator: "t. X, p. 936", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 371", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 371", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 371", kind: "entry", context: "none" }
+      - { locator: "t. XI, p. 371", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 371", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 59", kind: "entry", context: "none" }
+      - { locator: "t. XIV, p. 383", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 383", kind: "entry", context: "unknown" }
+      - { locator: "t. I, p. 322", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 6, p. 399", kind: "mention", context: "ok" }
+  rydlowa-gora:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  ryjew:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  sadornicz:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  sklanna-huta:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  skokamskie-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  skokum:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 222", decision: "yes", doc: kdw-2, cited_by: [kopojno, lukom, skokum, szetlew, trabczyn, wrabczyn, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 393", decision: "yes", doc: kdw-4, cited_by: [olesnica, skokum, szetlew, zagorowo], note: "already cited by the entry" }
+    sgkp:
+      candidates:
+      - { locator: "t. X, p. 689", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 589", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 14, p. 40", kind: "mention", context: "ok" }
+  smoleniec:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. V, p. 817", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 14, p. 177", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 177", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 177", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 177", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 177", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 177", kind: "mention", context: "ok" }
+      - { locator: "t. 14, p. 177", kind: "mention", context: "ok" }
+  stanislawow:
+    kdw:
+      candidates:
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. XI, p. 156", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 341", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 131", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 15, p. 135", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 136", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 137", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 138", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 138", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 138", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 138", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 139", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "ok" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 141", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 142", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 143", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 144", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 145", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 146", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 146", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 140", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 140", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 140", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 140", kind: "mention", context: "ok" }
+  stawisko:
+    kdw:
+      candidates:
+      - { locator: "vol. 3, no. 1727", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 46", kind: "entry", context: "none" }
+      - { locator: "t. IV, p. 886", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 442", kind: "entry", context: "unknown" }
+      - { locator: "t. VI, p. 670", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 569", kind: "entry", context: "unknown" }
+      - { locator: "t. VIII, p. 944", kind: "entry", context: "none" }
+      - { locator: "t. VIII, p. 953", kind: "entry", context: "none" }
+      - { locator: "t. XI, p. 294", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 294", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 299", kind: "entry", context: "unknown" }
+      - { locator: "t. V, p. 817", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 15, p. 224", kind: "entry", context: "none" }
+      - { locator: "t. 15, p. 224", kind: "entry", context: "unknown" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "mention", context: "ok" }
+  studzianka:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. III, p. 721", kind: "entry", context: "none" }
+      - { locator: "t. X, p. 809", kind: "entry", context: "none" }
+      - { locator: "t. XI, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 496", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 497", kind: "entry", context: "unknown" }
+      - { locator: "t. XI, p. 504", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 129", kind: "entry", context: "none" }
+      - { locator: "t. XIII, p. 618", kind: "entry", context: "unknown" }
+      - { locator: "t. XIV, p. 747", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 279", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 627", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 642", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 16, p. 165", kind: "mention", context: "ok" }
+  szetlew:
+    kdw:
+      candidates:
+      - { locator: "vol. 6, no. 27", decision: "yes", doc: kdw-6, cited_by: [szetlew], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 222", decision: "yes", doc: kdw-2, cited_by: [kopojno, lukom, skokum, szetlew, trabczyn, wrabczyn, zagorowo], note: "already cited by the entry" }
+    sgkp:
+      candidates:
+      - { locator: "t. XI, p. 911", kind: "entry", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 17, p. 140", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+  szetlewek:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XI, p. 911", kind: "entry", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 141", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+      - { locator: "t. 17, p. 142", kind: "mention", context: "ok" }
+  tarczewo:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates:
+      - { locator: "t. 4, p. 93", kind: "entry", context: "none" }
+  tarszew-mlyn:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XII, p. 214", kind: "entry", context: "ok" }
+    nmpol:
+      candidates: []
+  tarszewo:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XVI, p. 653", kind: "entry", context: "ok" }
+    nmpol:
+      candidates: []
+  trabczyn-b:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  trabczyn-c:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  trabczyn-d:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  trabczyn-dworski:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  trabczyn-f:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  trabczyn-g:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  trabczyn:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 222", decision: "yes", doc: kdw-2, cited_by: [kopojno, lukom, skokum, szetlew, trabczyn, wrabczyn, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 460", decision: "yes", doc: kdw-5, cited_by: [trabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 535", decision: "yes", cited_by: [trabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 8, no. 837", cited_by: [] }
+      - { locator: "vol. 2, no. 1252", decision: "yes", doc: kdw-9, cited_by: [trabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 1253", decision: "yes", doc: kdw-10, cited_by: [trabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 10, no. 1440", cited_by: [] }
+      - { locator: "vol. 11, no. 2000", doc: kdw-19, cited_by: [] }
+      - { locator: "vol. 11, no. 2001", cited_by: [] }
+      - { locator: "vol. 3, no. 2014", decision: "yes", doc: kdw-13, cited_by: [trabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 471", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 261", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 487", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 771", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 231", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 276", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 484", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 620", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 624", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 697", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 817", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 818", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 153", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 153", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 295", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 838", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 172", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 200", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 639", kind: "entry", context: "ok" }
+      - { locator: "t. VIII, p. 815", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 201", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 591", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 900", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 190", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 504", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 911", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 448", decision: "yes", kind: "entry", context: "ok", note: "already cited by the entry" }
+      - { locator: "t. XII, p. 448", decision: "yes", kind: "entry", context: "ok", note: "already cited by the entry" }
+      - { locator: "t. XII, p. 449", decision: "yes", kind: "entry", context: "ok", note: "already cited by the entry" }
+      - { locator: "t. XII, p. 449", decision: "yes", kind: "entry", context: "ok", note: "already cited by the entry" }
+      - { locator: "t. XII, p. 623", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 340", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 718", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 8", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 448", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 597", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 7, p. 484", kind: "mention", context: "ok" }
+  trabczynskie-nowe-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VII, p. 231", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  trabczynskie-stare-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  trzcianne:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XVI, p. 307", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 315", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 665", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 104", kind: "entry", context: "unknown" }
+      - { locator: "t. 5, p. 135", kind: "entry", context: "unknown" }
+      - { locator: "t. 18, p. 278", kind: "mention", context: "ok" }
+  warta:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  wielki-bor-obreb:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  wincentowo:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. VII, p. 278", kind: "entry", context: "unknown" }
+      - { locator: "t. X, p. 591", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 281", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 422", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 543", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 544", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 544", kind: "entry", context: "unknown" }
+      - { locator: "t. XV, p. 28", kind: "entry", context: "ok" }
+      - { locator: "t. XVI, p. 456", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 690", kind: "entry", context: "unknown" }
+      - { locator: "t. XVI, p. 690", kind: "entry", context: "unknown" }
+    nmpol:
+      candidates: []
+  wlodzimirow-obreb:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  wlodzimirow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XIII, p. 718", kind: "entry", context: "unknown" }
+      - { locator: "t. XIII, p. 718", kind: "entry", context: "ok" }
+    nmpol:
+      candidates: []
+  wrabczyn-gorski:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  wrabczyn:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 222", decision: "yes", doc: kdw-2, cited_by: [kopojno, lukom, skokum, szetlew, trabczyn, wrabczyn, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 228", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 6, no. 283", decision: "yes", doc: kdw-12, cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 672", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 685", decision: "yes", doc: kdw-8, cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 2, no. 795", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 1044", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 2, no. 1194", cited_by: [] }
+      - { locator: "vol. 3, no. 1363", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1478", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1490", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1491", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1519", decision: "yes", cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1722", cited_by: [] }
+      - { locator: "vol. 3, no. 1723", cited_by: [] }
+      - { locator: "vol. 3, no. 1739", decision: "yes", doc: kdw-11, cited_by: [adamierz, wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1871", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 451", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 660", kind: "mention", context: "ok" }
+      - { locator: "t. XIII, p. 103", kind: "mention", context: "ok" }
+      - { locator: "t. XIII, p. 110", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 137", kind: "mention", context: "ok" }
+      - { locator: "t. XVI, p. 530", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  wrabczynek:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 20", decision: "yes", doc: kdw-1, cited_by: [wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 192", cited_by: [] }
+      - { locator: "vol. 6, no. 283", decision: "yes", doc: kdw-12, cited_by: [wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1464", decision: "yes", cited_by: [wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 10, no. 1520", decision: "yes", doc: kdw-20, cited_by: [adamierz, wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 10, no. 1532", decision: "yes", doc: kdw-21, cited_by: [adamierz, wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 3, no. 1739", decision: "yes", doc: kdw-11, cited_by: [adamierz, wrabczyn], note: "already cited by the entry" }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+      - { locator: "vol. 4, no. 2073", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. VIII, p. 660", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  wrabczynkowskie-holendry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+    nmpol:
+      candidates: []
+  wygoda:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. IV, p. 377", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 261", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 651", kind: "mention", context: "ok" }
+      - { locator: "t. II, p. 751", kind: "mention", context: "ok" }
+      - { locator: "t. V, p. 207", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 208", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 1, p. 522", kind: "entry", context: "unknown" }
+  wymyslow:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates:
+      - { locator: "t. IX, p. 239", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 851", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 765", kind: "mention", context: "ok" }
+      - { locator: "t. VII, p. 805", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 97", kind: "mention", context: "ok" }
+    nmpol:
+      candidates: []
+  zagorowo:
+    kdw:
+      candidates:
+      - { locator: "vol. 5, no. 117", decision: "yes", doc: kdw-14, cited_by: [zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 5, no. 191", decision: "yes", doc: kdw-15, cited_by: [drzewce], note: "already cited by the entry" }
+      - { locator: "vol. 1, no. 222", decision: "yes", doc: kdw-2, cited_by: [kopojno, lukom, skokum, szetlew, trabczyn, wrabczyn, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 5, no. 330", cited_by: [] }
+      - { locator: "vol. 1, no. 393", decision: "yes", doc: kdw-4, cited_by: [olesnica, skokum, szetlew, zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 7, no. 632", cited_by: [] }
+      - { locator: "vol. 7, no. 733", decision: "yes", doc: kdw-16, cited_by: [zagorowo], note: "already cited by the entry" }
+      - { locator: "vol. 5, no. 738", cited_by: [] }
+      - { locator: "vol. 10, no. 1520", decision: "yes", doc: kdw-20, cited_by: [adamierz, wrabczynek], note: "already cited by the entry" }
+      - { locator: "vol. 10, no. 1696", cited_by: [] }
+      - { locator: "vol. 11, no. 1958", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. I, p. 471", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 34", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 182", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 261", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 353", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 609", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 807", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 100", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 276", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 276", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 290", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 435", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 451", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 382", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 459", kind: "entry", context: "ok" }
+      - { locator: "t. IV, p. 484", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 301", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 471", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 697", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 817", kind: "entry", context: "ok" }
+      - { locator: "t. V, p. 818", kind: "entry", context: "ok" }
+      - { locator: "t. VI, p. 838", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 386", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 472", kind: "entry", context: "ok" }
+      - { locator: "t. VII, p. 472", kind: "entry", context: "ok" }
+      - { locator: "t. IX, p. 658", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 689", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 689", kind: "entry", context: "ok" }
+      - { locator: "t. X, p. 900", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 8", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 295", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 504", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 639", kind: "entry", context: "ok" }
+      - { locator: "t. XI, p. 682", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 214", kind: "entry", context: "ok" }
+      - { locator: "t. XII, p. 623", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 110", kind: "entry", context: "ok" }
+      - { locator: "t. XIII, p. 773", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 98", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 261", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 261", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 262", kind: "entry", context: "ok" }
+      - { locator: "t. XIV, p. 277", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 51", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 125", kind: "entry", context: "ok" }
+      - { locator: "t. III, p. 36", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 275", kind: "mention", context: "ok" }
+      - { locator: "t. III, p. 674", kind: "mention", context: "ok" }
+      - { locator: "t. IV, p. 459", kind: "mention", context: "ok" }
+      - { locator: "t. VIII, p. 728", kind: "mention", context: "ok" }
+      - { locator: "t. IX, p. 235", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. X, p. 856", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 580", kind: "mention", context: "ok" }
+      - { locator: "t. XIII, p. 103", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 16", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 261", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 2, p. 348", kind: "entry", context: "ok" }
+      - { locator: "t. 15, p. 224", kind: "entry", context: "ok" }
+      - { locator: "t. 1, p. 45", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 67", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 85", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 468", kind: "mention", context: "ok" }
+      - { locator: "t. 1, p. 492", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 93", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 442", kind: "mention", context: "ok" }
+      - { locator: "t. 2, p. 444", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 328", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 363", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 511", kind: "mention", context: "ok" }
+      - { locator: "t. 3, p. 530", kind: "mention", context: "ok" }
+      - { locator: "t. 5, p. 128", kind: "mention", context: "ok" }
+      - { locator: "t. 5, p. 182", kind: "mention", context: "ok" }
+      - { locator: "t. 6, p. 359", kind: "mention", context: "ok" }
+  zagorowskie-oledry:
+    kdw:
+      candidates: []
+    sgkp:
+      candidates: []
+    nmpol:
+      candidates: []
+  zalesie:
+    kdw:
+      candidates:
+      - { locator: "vol. 2, no. 638", cited_by: [] }
+      - { locator: "vol. 8, no. 784", cited_by: [] }
+      - { locator: "vol. 2, no. 930", cited_by: [] }
+      - { locator: "vol. 10, no. 1531", cited_by: [] }
+      - { locator: "vol. 11, no. 2023", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. XIII, p. 459", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 418", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 418", kind: "entry", context: "ok" }
+      - { locator: "t. XV, p. 418", kind: "entry", context: "ok" }
+      - { locator: "t. XVI, p. 711", kind: "entry", context: "ok" }
+      - { locator: "t. II, p. 285", kind: "mention", context: "ok" }
+      - { locator: "t. VII, p. 722", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 669", kind: "mention", context: "ok" }
+      - { locator: "t. XI, p. 669", kind: "mention", context: "ok" }
+      - { locator: "t. XII, p. 591", kind: "mention", context: "ok" }
+      - { locator: "t. XIII, p. 773", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 261", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 261", kind: "mention", context: "ok" }
+      - { locator: "t. XV, p. 418", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 5, p. 342", kind: "entry", context: "none" }
+      - { locator: "t. 4, p. 494", kind: "mention", context: "ok" }
+  zwierzyniec:
+    kdw:
+      candidates:
+      - { locator: "vol. 1, no. 81", cited_by: [] }
+    sgkp:
+      candidates:
+      - { locator: "t. XIV, p. 382", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 382", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 684", kind: "mention", context: "ok" }
+      - { locator: "t. XIV, p. 684", kind: "mention", context: "ok" }
+    nmpol:
+      candidates:
+      - { locator: "t. 18, p. 284", kind: "entry", context: "none" }
+      - { locator: "t. 7, p. 24", kind: "mention", context: "ok" }

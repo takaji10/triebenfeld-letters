@@ -72,6 +72,9 @@ tier1:
 - slug: grabina
   name: Grabina
   name_de: Grabina
+- slug: gradzen
+  name: Grądzeń
+  name_de: Grądzeń
 - slug: gradzyn
   name: Grądzeń
   name_de: Grądzeń
@@ -135,6 +138,9 @@ tier1:
 - slug: laski
   name: Laski
   name_de: Laski
+- slug: lisewska-kolonia
+  name: Lisewska Kolonia
+  name_de: Lisewska Kolonia
 - slug: lusnie-oledry
   name: Lusnie Olędry
   name_de: Lusnie Olędry
@@ -218,6 +224,9 @@ tier1:
 - slug: pyzdry
   name: Pyzdry
   name_de: Peisern
+- slug: rogal
+  name: Rogal
+  name_de: Rogal
 - slug: rosciszewo
   name: Rosciszewo
   name_de: Rosciszewo
@@ -376,6 +385,9 @@ tier1:
   name: Łukom
   name_de: Łukom
   estate: lukom
+- slug: lukomin
+  name: Łukomin
+  name_de: Łukomin
 - slug: lukomskie-oledry
   name: Łukomskie Olędry
   name_de: Łukomskie Olędry

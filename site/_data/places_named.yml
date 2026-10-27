@@ -429,6 +429,12 @@
   docs: 11
   span: "1797–1804"
   letters: [{id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", n: 2}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", n: 2}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", n: 2}, {id: "15", uid: "oe1bu14525-15", url: "/documents/oe1bu14525/15/", n: 1}, {id: "16", uid: "oe1bu14525-16", url: "/documents/oe1bu14525/16/", n: 1}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/", n: 1}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", n: 2}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/", n: 1}, {id: "18", uid: "oe1bu14526-18", url: "/documents/oe1bu14526/18/", n: 3}, {id: "19", uid: "oe1bu14526-19", url: "/documents/oe1bu14526/19/", n: 5}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", n: 1}]
+- slug: "gradzen"
+  name: "Grądzeń"
+  count: 25
+  docs: 10
+  span: "1447–1936"
+  letters: [{id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/", n: 1}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/", n: 2}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/", n: 4}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 12}, {id: "2", uid: "adwl85-2", url: "/documents/adwl85/2/", n: 1}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/", n: 1}, {id: "1", uid: "iharep162nr295-1", url: "/documents/iharep162nr295/1/", n: 1}, {id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", n: 1}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", n: 1}]
 - slug: "glogau"
   name: "Głogów (Glogau)"
   count: 11
