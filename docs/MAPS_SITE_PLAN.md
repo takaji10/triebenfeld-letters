@@ -75,7 +75,13 @@ section's URL is.
 ## 3. The map's page: the viewer and the details
 
 Layout `map.html` (like `place.html`: one layout, both languages, the texts
-from the data). On it:
+from the data). **Two columns** (the editor, 2026-10-27: "make the map
+viewer much larger. Maybe a two column view where a narrow left column
+contains the details, and the right column is the map"): the details in the
+narrow left column, the map large in the right column — near the full
+height of the window, and kept in place while the left column scrolls
+(sticky; on a narrow screen the map comes first and the columns stack).
+On it:
 
 - **The viewer**: OpenSeadragon over the map's IIIF level-0 tiles
   (`tiles:` in the register), full width. The page's script:
@@ -86,11 +92,15 @@ from the data). On it:
     of the original, MAPS_PLAN section 2; the build writes them adjusted for
     the map's `crop`, which for Łukom 1766 is none), so the marks survive a
     new crop or a better scan;
-  - a mark and a row of the list point at each other; the address
+  - a mark and a row of the list point at each other: **hovering a mark
+    names the place** (a floating label — the form as the map spells it,
+    with the place's name where they differ), and **clicking a mark takes
+    the reader to its row in the list** (the editor, 2026-10-27); a row's
+    crop takes the map to the mark; the address
     `/maps/lukom1766/#lukom1766-007` opens the viewer at that mark
     (MAPS_PLAN, section 7);
   - a mark is a link to the place's page.
-- **The details**, beside or below the viewer:
+- **The details**, in the left column:
   - **The map itself**: title (Polish and English), maker, year, kind, scale
     if the register has it, holder and reference ("AGAD 1/407/0/-/283, sheet
     29"), and the link to the holding (`url:`) — the citation of the map,

@@ -3369,3 +3369,14 @@ lose his estates. The era page writes Konotop, not Kontop.
   in the site, every label a gazetteer entry names exists on its map).
   Łukom 1766 set `in_project: true` - the register's own rule, its page
   now built.
+- **The map's page made two-column** (the editor's request of 2026-10-27:
+  "make the map viewer much larger ... a narrow left column contains the
+  details, and the right column is the map"): the citation and the places
+  marked in the narrow left column, the map near the window's full height
+  in the right column, where it stays while the list scrolls (on a narrow
+  screen the map comes first and the columns stack). A mark now names its
+  place on hover - a floating label with the form as the map spells it and
+  the place's name where they differ - and clicking a mark takes the
+  reader to its row in the list; a row's crop still takes the map to the
+  mark, and the deep links still open the map at the mark. The marks are
+  keyboard-reachable (role button, Enter or Space acts).
