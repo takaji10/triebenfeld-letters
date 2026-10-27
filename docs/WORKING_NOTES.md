@@ -1679,6 +1679,21 @@ cloud branches").
 
 ## Traps in the tools
 
+- **`git add` on a file that still carries conflict markers commits the
+  markers** (2026-10-27, the maps' publish). During a rebase, a generated
+  data file (site/_data/places_pages.yml) was staged with `git add` to
+  "mark it resolved" before the markers were resolved - 302 pairs of
+  `<<<<<<<`/`>>>>>>>` went into the commit and were caught only by the
+  byte check before the push. The standing rule: `git add` marks a
+  conflict resolved, it does not resolve it; before staging a conflicted
+  file, its markers are resolved or its content is taken from one side
+  whole (`git checkout <side> -- <file>`), and after any conflict
+  resolution `git grep -l '<<<<<<<' -- '*.yml' '*.py' '*.md'` must come
+  back empty before the commit. A second trap the same hour: a regex
+  resolving conflict markers whose tail was greedy (`>>>>>>>.*\n` with
+  re.S) swallowed the following hunk whole - anchor the marker tail to
+  one line (`>>>>>>>[^\r\n]*\n`), and make the script assert the number
+  of hunks it resolved before it writes.
 - **PowerShell's backtick eats markdown into the bytes it writes** (2026-10-27,
   the maps' changelog entry). `Add-Content` with a here-string, and every
   `python -c "..."` inline script passed through the shell's double quotes,
