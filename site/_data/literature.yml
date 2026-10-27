@@ -538,6 +538,24 @@
     und die Fehler der Handschrift stehen, wie gedruckt. Nur vier Abschnitte sind aufgenommen, die Michalina z Prusimskich Dąbska nennen oder betreffen, deren Bittschriften um die Rückzahlung der konfiszierten Güter ihres Vaters die Edition besitzt: die Überweisung ihres Memorials an den Justizdirektor zwecks allgemeiner Regeln über die Konfiskationen (Sitzung 51 vom 13. Februar, S. 43-44), die Meinung des Direktors, ihr Begehren sei "eine Sache von rein politischem Charakter", worauf die Kommission beschloss, beim Kaiser um Aufhebung der Konfiskationen zu bitten, und die Administrative Kammern zur Aufsicht über die Güter anwies (Sitzung 58 vom 18. Februar, S. 54-55), das Protokoll des Directorium vom 15. Juli 1807, das meldet, daß sie zu den sehr vielen gehörte, die nach Dresden abreisten (Nr. 3, S. 321-323), und die außerordentliche Sitzung vom 21. Juli in Dresden, in der die Kommission, dem Beispiel des kaiserlichen Dekrets vom 5. Juni folgend, das Wybickis Güter zurückgab, das Dekret
     auf ihren Fall und die des Generals Niemojewski und des Herrn Wichrowski erstreckte (Sitzung 210, S. 303-304).'
   pages: 9
+- slug: nmpol
+  kind: reference
+  title: Nazwy miejscowe Polski — cytowane hasła
+  title_en: Nazwy miejscowe Polski — the entries the gazetteer cites
+  cite: Nazwy miejscowe Polski
+  author: Kazimierz Rymut (red.) et al.
+  author_sort: Rymut, Kazimierz
+  published: Kraków 1996-2021
+  year: 1996
+  language: pl
+  english_by: Claude
+  scan: ''
+  note_en: ''
+  note_de: ''
+  account_en: 'The 23 entries of the Nazwy miejscowe Polski that the edition''s gazetteer cites, one per heading with its volume and page, in the corrected text of 2026-10-27. Brought in so the citations can be checked against the works'' own words without opening the volumes; not a republication of the dictionaries, which stay whole in the private place-name repository. No page on the site: the works are reference, not narrative, and the gazetteer''s footnotes stay unresolved until the editor decides otherwise.'
+  account_de: Die 23 Einträge des Nazwy miejscowe Polski-Nachschlagewerks, die das Gazetteer der Ausgabe zitiert, eine je Überschrift mit Band und Seite, im korrigierten Text vom 27.10.2026. Aufgenommen, damit die Zitate gegen den Wortlaut der Werke geprüft werden können, ohne die Bände aufzuschlagen; keine Wiederöffentlichung der Wörterbücher, die als Ganzes im privaten Namensforschungs-Repository bleiben. Keine Seite auf der Website.
+  pages: 0
+  summary_only: true
 - slug: seidel2018
   kind: biography
   title: Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen. Stadterneuerer, dynamischer preußischer General, verlassener Ehemann, Schuldenmacher
@@ -594,6 +612,24 @@
     them Erich Kuhn''s, the Łazińsk- born elder of the Detmold congregation), and testimonies - German-language sources printed anew: the German-era note on Łazińsk (Der Heimatbote 1981), a parish history, a settlement-history chronology of the Zagórów-Trąbczyn region, the German place names, the protocol of the Łazińsk cantors'' council of 1928, the list of the inhabitants of Michalinów Trąbczyński, Łazińsk and Huta Trąbczyńska, and the forged "Reichsstelle für Familienzuwachs" document of 1943. A witness of the edition''s whole ground: Łazińsk, the Trąbczyn estate''s Olęder colonies, the Zagórów parish and its cantorates.'
   account_de: 'Der Sammelband über die Protestanten des Zagórów Landes - "das gebrochene Glied" der drei Gemeinden der Stadt -, vom Stadtamt Zagórów 2024 herausgegeben, herausgegeben von Mirosław Słowiński (dem Verfasser von Zagórów. Album miasta, 2007, und von Przeżyć tę jedną zimę, 2023) und Katarzyna Połom, auf die Anregung des Kulturhauses der Stadt (sein Direktor Łukasz Parus) und der evangelisch-augsburgischen Gemeinde in Konin (ihr Pastor Waldemar Wunsz), mit Dr Zbigniew Chodyła als wissenschaftlichem Berater. Drei Teile: Studien (darunter Grzonkowskis Geschichte der Protestanten des Zagórów Landes von der Reformation bis zur Gegenwart, Kowalskis Untersuchung der Holländeransiedlung und der preussischen Kolonisation 1746-1806, Połoms Darstellung der Kantoren und Kantorateien, Kruczkowskis Familiengeschichten und Słowińskis Studie der in der Wand des Łazińsker Kantorenhauses gefundenen Briefe - die Studie, aus der Przeżyć tę jedną zimę, 2023, wurde), Erinnerungen (darunter die des
     in Łazińsk geborenen Detmolder Ältesten Erich Kuhn) und Zeugnisse - deutschsprachige Quellen im Neudruck: die Note der deutschen Zeit über Łazińsk (Der Heimatbote 1981), eine Kirchengeschichte, eine Besiedlungsgeschichte der Region Zagórów-Trąbczyn, die deutschen Ortsnamen, das Protokoll des Łazińsker Kantorenrats von 1928, die Einwohnerliste von Michalinów Trąbczyński, Łazińsk und Huta Trąbczyńska und das Fälschungsdokument "Reichsstelle für Familienzuwachs" von 1943. Ein Zeuge des ganzen Grundes der Ausgabe: Łazińsk, die Holländersiedlungen des Gutes Trąbczyn, die Kirchengemeinde Zagórów und ihre Kantoreien.'
+  pages: 0
+  summary_only: true
+- slug: slownik
+  kind: reference
+  title: Słownik geograficzny Królestwa Polskiego — cytowane hasła
+  title_en: Słownik geograficzny Królestwa Polskiego — the entries the gazetteer cites
+  cite: Słownik geograficzny Królestwa Polskiego
+  author: Filip Sulimierski, Bronisław Chlebowski, Władysław Walewski (red.)
+  author_sort: Sulimierski, Filip
+  published: Warszawa 1880-1902
+  year: 1880
+  language: pl
+  english_by: Claude
+  scan: ''
+  note_en: ''
+  note_de: ''
+  account_en: 'The 38 entries of the Słownik geograficzny Królestwa Polskiego that the edition''s gazetteer cites, one per heading with its volume and page, in the corrected text of 2026-10-27. Brought in so the citations can be checked against the works'' own words without opening the volumes; not a republication of the dictionaries, which stay whole in the private place-name repository. No page on the site: the works are reference, not narrative, and the gazetteer''s footnotes stay unresolved until the editor decides otherwise.'
+  account_de: Die 38 Einträge des Słownik geograficzny Królestwa Polskiego-Nachschlagewerks, die das Gazetteer der Ausgabe zitiert, eine je Überschrift mit Band und Seite, im korrigierten Text vom 27.10.2026. Aufgenommen, damit die Zitate gegen den Wortlaut der Werke geprüft werden können, ohne die Bände aufzuschlagen; keine Wiederöffentlichung der Wörterbücher, die als Ganzes im privaten Namensforschungs-Repository bleiben. Keine Seite auf der Website.
   pages: 0
   summary_only: true
 - slug: szwiec2009

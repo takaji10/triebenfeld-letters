@@ -1,0 +1,15 @@
+---
+work: "slownik"
+title: "Słownik geograficzny Królestwa Polskiego"
+lang: de
+permalink: "/de/literatur/slownik/"
+alt_url: "/literature/slownik/"
+excerpt_separator: ""
+---
+{% raw %}
+<div class="lit-summary" markdown="1">
+
+Kein ganz gelesenes Werk, sondern eine Zitatdatei: die 38 Einträge des Słownik geograficzny Królestwa Polskiego, die das Gazetteer der Ausgabe zitiert, einer je Überschrift mit Band und Seite, in der korrigierten Transkription vom 27.10.2026. Jeder Eintrag trägt den Wortlaut des Wörterbuchs - Stand, Verwaltungssitz, Entfernung vom Marktstädtchen, Häuser und Einwohner, die datierten Namensformen und wo geboten die etymologische Notiz. Das begleitende english.md fasst jeden Eintrag zusammen, es übersetzt ihn nicht. Die Wörterbücher selbst werden hier nicht wiederveröffentlicht; ihre Texte bleiben im privaten namenkundlichen Repository.
+
+</div>
+{% endraw %}
