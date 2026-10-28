@@ -11,4 +11,4 @@ Celmer's asterisked number (313) is the survey's genealogical identifier
 off the page (the editor, the same day).
 
 The place: the gazetteer's `wrabczynkowskie-holendry` (the colony Szczepan
-Turna established in 1781).
+Turno established in 1781).

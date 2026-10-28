@@ -20,7 +20,7 @@ hits_docs_count: 0
 
 *Dated forms of the name:* *Wrąbczynkowskie Holendry*.
 
-Village west of Wrąbczyn. Established by Szczepan Turna, starost of Pietrzyków in 1781 on overgrown land with the aim of bringing the starosty (an administrative district governed by a royal official called a starosta) and the village of Wrąbczyn into good condition.[^113] In 1886, Wrąbczynkowskie Holendry consisted of 32 households and belonged to the Pietrzyków estate which also included the villages of Pietrzyków and Białobrzeg.[^114] *Holendry Wrąbczyneckie* (Perthées 1798).
+Village west of Wrąbczyn. Established by Szczepan Turno, starost of Pietrzyków in 1781 on overgrown land with the aim of bringing the starosty (an administrative district governed by a royal official called a starosta) and the village of Wrąbczyn into good condition.[^113] In 1886, Wrąbczynkowskie Holendry consisted of 32 households and belonged to the Pietrzyków estate which also included the villages of Pietrzyków and Białobrzeg.[^114] *Holendry Wrąbczyneckie* (Perthées 1798).
 
 [^113]: Ibid
     [The document in the edition.](/literature/chodyla2015/#p-49)

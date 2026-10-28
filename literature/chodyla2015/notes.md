@@ -214,7 +214,8 @@ taken.
 The name of the starost of Pietrzyków: the book's p. 49 has only the
 genitive "Szczepana Turny", from which the gazetteer's "Szczepan Turna"
 was read back; the nominative is Turno (p. 52, "Stefana/Szczepana Turno";
-his mother "Turnowa").
+his mother "Turnowa"). The editor ruled Turno (2026-10-28), and the two
+gazetteer entries were corrected.
 
 ## Open
 

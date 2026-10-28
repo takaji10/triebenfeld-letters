@@ -1366,9 +1366,9 @@ transcription; 108 readings settled in session before the first build
 - [ ] **Chodyła's facts for the place pages** (`docs/CHODYLA_ADDITIONS.md`,
       revised at your word the same day): the primary source first, nothing
       on Trąbczyn's Olęder colonies, A-D, F, G not used. Waiting on your
-      yes to the list as it stands, and on E (Szczepan **Turno**, not Turna,
-      in `wrabczynek` and `wrabczynkowskie-holendry`: the book's "Turny" on
-      p. 49 is the genitive of Turno). Then the entries are written, with
+      yes to the list as it stands. (E is done: "Turno it is", the editor,
+      2026-10-28; both entries corrected and published.) Then the entries
+      are written, with
       the German, and the sources Chodyła cites that the edition lacks go
       onto `docs/MISSING_SOURCES.md` (Pyzdry Gr.110, Pyzdry Gr.115 leaf
       543v, APP SAB 732, AGAD ASK XLVI 116, the Zbiersk charter).

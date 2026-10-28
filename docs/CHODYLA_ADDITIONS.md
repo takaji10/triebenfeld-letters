@@ -21,7 +21,7 @@ edition's `chodyla2015`, read whole for the places of the gazetteer
   withdrawn.
 - **A general observation on Miąsykąt's location** is welcome (no. 6).
 - Of the seven points put to the editor, **A, B, C, D, F and G are not
-  used**. E is answered below.
+  used**. E is answered below, and the editor ruled it: Turno.
 - **The documents' own figures** for the places (met in this reading) are
   to be looked into later: `docs/TODO.md`, section 56.
 
@@ -226,5 +226,5 @@ wspomnianego Szczepana Turno", "olędrzy tegoż p. Turny". His mother's
 married name, *Turnowa*, is formed from Turno, as *Fredrowa* from Fredro.
 
 No document in the edition names him, so the book is the only witness
-here. The proposal: "Szczepan Turno" in both entries, with the editor's
-"Turna" recorded in their notes as the genitive read back.
+here. **Ruled by the editor (2026-10-28): "Turno it is."** Both entries now
+read "Szczepan Turno"; the change is recorded in GAZETTEER_PLAN, section 3.

@@ -99,6 +99,16 @@ editor's file is content for the site, not only a style sample, so its facts
 are checked like any other source's (the rule of WORKING_NOTES on style
 samples does not apply to it).
 
+**Changed at the editor's word** (the only changes to the text; the source
+file in `reference/gazetteer/source/` stays as it was):
+
+- 2026-10-28, `wrabczynek` and `wrabczynkowskie-holendry`: "Szczepan Turna"
+  is now "Szczepan Turno". The cited Chodyła p. 49 gives the name only in
+  the genitive, "Szczepana Turny", and Turna was that genitive read back; the
+  same book's p. 52 has the nominative Turno (`docs/CHODYLA_ADDITIONS.md`,
+  "E answered"; WORKING_NOTES, "Polish surnames in -o read back from the
+  genitive").
+
 ## 4. The sources and the missing list
 
 `reference/gazetteer_sources.yml` holds every work the footnotes cite. Each

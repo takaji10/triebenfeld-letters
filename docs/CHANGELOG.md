@@ -3536,3 +3536,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   APP 53/968/0/-/669 doc. 1. Verified: the Jekyll build and
   `pipeline/verify_site.py` clean (630 documents character-exact, 63,056
   internal links).
+
+## 2026-10-28 - Szczepan Turno; Chodyła's facts proposed
+
+- The gazetteer's Wrąbczynek and Wrąbczynkowskie Holendry name the
+  starost of Pietrzyków **Szczepan Turno**, not Turna (the editor: "Turno
+  it is"). Chodyła p. 49, which both cite, has only the genitive
+  "Szczepana Turny"; p. 52 has the nominative. Recorded in GAZETTEER_PLAN,
+  section 3, and WORKING_NOTES.
+- `docs/CHODYLA_ADDITIONS.md`: Chodyła's facts for the place pages,
+  traced to the primary sources he cites (HOUSE_STYLE, "The documents
+  first", point 7). Not on the site yet; waiting on the editor (TODO,
+  section 56).
