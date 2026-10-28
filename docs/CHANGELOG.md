@@ -3454,3 +3454,47 @@ lose his estates. The era page writes Konotop, not Kontop.
   link to the era's documents on the browse page (the browse filter reads
   ?era= from the address). verify_site.py checks both pages carry every
   populated era and its link.
+
+## 2026-10-28 - The standfirsts removed - the site stops narrating itself
+
+- **The style ruled off** (the editor, 2026-10-28): text that describes
+  what a page contains instead of presenting it - self-narration to the
+  reader, restatement of what the heading and list already show,
+  explanation of the obvious, and the decorated voice - removed outright.
+  In `site/_data/i18n.yml`, both languages, deleted:
+  `places_index_lede`, `places_t2_lede`, `gl_lede` and `gl_draft_note`,
+  `maps_lede`, `people_lede`, `timeline_lede`, `eras_lede`,
+  `sources_lede` and the four `sources_*_lede`, `lit_lede`, `np_lede`,
+  `cem_lede`, `places_cem_lede`, and the home cards'
+  `card_browse_p`, `card_timeline_p`, `card_people_p`, `card_about_p`
+  (21 keys a side). The `<p class="standfirst">` and
+  `<p class="src-lede">` elements deleted from the includes with them -
+  places, cemeteries, glossary, people, maps, timeline, eras,
+  sources-archive, literature, newspapers, sources, and the home cards
+  (which keep their titles alone) - and the dead `.gl-note` and
+  `.src-lede` CSS rules.
+- **Kept where explanation carries what the page cannot show**: the
+  Browse line (the full-text search runs over the German, not the
+  English) and the Places tier-1 line, reworded so the site names no one
+  - "Every place of the neighbourhood, whether or not it is named in the
+  documents." German: "Jeder Ort der Gegend, ob in den Dokumenten genannt
+  oder nicht." The 2026-10-27 rulings that kept the glossary's tap hint
+  and the Glossary note and the Sources one-line descriptions are
+  superseded; gone today with the family. The story prose (`home_lede`,
+  `home_p1-p3`), the era notes, the view-mode hints, the AI-translation
+  caveats and `cem_gid_note` stay - content or disclosure, not
+  narration. Descriptions of the material itself (a holding's archive
+  description, the Story standfirst, rights, About) are content and
+  untouched.
+- **The standing rule for site text** (recorded in
+  `docs/STANDFIRSTS_PLAN.md`): the site speaks only to its reader about
+  the materials; it does not mention the person who made them. Two
+  violations found and left for the editor's ruling:
+  `np_caveat_editor` ("The English translation is the editor's own." and
+  its German twin), and the ten cemetery pages' notes, which open "From
+  the editor's survey of the Evangelical cemeteries".
+- **Built and verified**: `build_site_data.py`, the Jekyll build and
+  `verify_site.py` all clean - 630 documents verified
+  character-for-character, 63,056 internal links resolve, tier1 124,
+  tier2 179; no deleted string renders anywhere in the built site, and
+  the two kept lines render in both languages.

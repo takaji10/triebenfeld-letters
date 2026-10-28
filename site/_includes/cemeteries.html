@@ -11,7 +11,6 @@
 {%- endcomment -%}
 <section class="place-cems" id="{% if lang == 'de' %}friedhoefe{% else %}cemeteries{% endif %}">
   <h2>{{ t.places_cem_h2 }}</h2>
-  <p class="standfirst">{{ t.places_cem_lede }}</p>
   <ul class="index-list place-index">
   {%- for c in site.data.cemeteries_list %}
     <li><a href="{{ u_cem | append: c.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ c.title_de }}{% else %}{{ c.title }}{% endif %}</a> <span class="kind">— {{ c.graves }} {% if lang == 'de' %}Grabsteine{% else %}headstones{% endif %}, {% if lang == 'de' %}{{ c.place_name_de }}{% else %}{{ c.place_name }}{% endif %}</span></li>

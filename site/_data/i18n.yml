@@ -125,24 +125,15 @@ en:
   estates_h2: Estates in focus
   places_eyebrow: Places
   places_index_h1: Places
-  places_index_lede: >-
-    Every place the edition records, each with its own page.
   places_t1_h2: The Trąbczyn and Zagórów area
   places_t1_lede: >-
-    The places near the estate — its villages, hamlets and colonies, the
-    market towns and seats around them — together with every place name
-    the editor's own list carries.
+    Every place of the neighbourhood, whether or not it is named
+    in the documents.
   places_t2_h2: Every other place
-  places_t2_lede: >-
-    The places further afield that the documents name — the Hohenlohe
-    estates elsewhere, the seats of the courts and the government, the
-    capitals, and the stations of the correspondence.
   places_tier_kind: Kind
   places_docs_h2: Documents that name the place
   maps_eyebrow: Maps
   maps_h1: Maps
-  maps_lede: >-
-    The old maps of the edition. Click a map to read it.
   maps_places_marked: places marked
   map_view: View the map
   map_citation_h2: The map
@@ -168,14 +159,6 @@ en:
   hide_scans: hide scans
   gl_toggle: glossary terms
   gl_h1: Glossary
-  gl_lede: >-
-    Words in the documents that a reader today cannot be expected to know:
-    money and measures, the law of land and estates, offices and forms of
-    address, and the events the letters take for granted. In the documents
-    these words are faintly underlined; tap one to see what it means.
-  gl_draft_note: >-
-    Each entry names the reference work of the period that its definition
-    was checked against.
   gl_search: Search the glossary
   gl_kinds: Kind of word
   gl_kind_all: All
@@ -257,15 +240,7 @@ en:
   fig_span: span
   fig_people: people identified
   fig_places: places of writing
-  card_browse_p: >-
-    All %d documents, searchable in full and filterable by year, person, place and condition.
-  card_timeline_p: >-
-    How many documents survive from each year, and what was happening around them.
-  card_people_p: >-
-    Who appears in these documents, how firmly each is identified, and where to find them.
   card_about: About this edition
-  card_about_p: >-
-    What the edition contains, where the documents are held, and how far the text can be relied on.
   home_h2: About this project
   home_p1: >-
     Poland was partitioned out of existence between 1772 and 1795. Trąbczyn ended
@@ -281,12 +256,8 @@ en:
     Prussia lost the war of 1806 and the estate went with it. The letters run on for nine more years, through an arrest, thirty-one lawsuits at once and a winter at the Congress of Vienna, and end with a liquidation register listing debts of Hohenlohe-Ingelfingen of
   home_p3_sum: 1,414,377 Reichsthaler
   people_h1: People in the documents
-  people_lede: >-
-    Everyone named often enough to follow from one document to the next: how often the documents name each person, and in which documents. See
   places_h1: Places of writing
   timeline_h1: Timeline
-  timeline_lede: >-
-    How many documents survive from each year, set against the events of the period.
   tl_era_note_medieval: >-
     1173 to 1444. Trąbczyn and its neighbours in the medieval charters of Greater Poland: the Cistercian abbey of Ląd, which came to hold Wrąbczynek, Kopojno, Zagórów and the tithe of Trąbczyn, and the knights and heirs who held Trąbczyn itself.
   tl_era_note_prusimski: >-
@@ -318,44 +289,22 @@ en:
   sort_most_docs: Most documents
   sort_fewest_docs: Fewest documents
   eras_h1: Eras
-  eras_lede: >-
-    The documents fall into six eras, from the medieval charters to the
-    twentieth century: who held the estate in each, what the papers of the
-    time record, and how one era passed into the next.
   eras_span: Span
   eras_held: Who held the estate
   eras_browse: Read the %d documents of this era
   sources_h1: Sources
-  sources_lede: >-
-    What the edition is built from: the archive's own files, the press, the
-    literature, and the old maps — four different kinds of source, each
-    brought in and shown in its own way.
   sources_kind_count: In the edition
   sources_kind_holdings: holdings
   sources_kind_items: items
   sources_kind_works: works
   sources_kind_maps: maps
   sources_arch_h2: Archival material
-  sources_arch_lede: >-
-    The archival files this edition draws on — the letters' own holdings,
-    transcribed from the originals — and what each one holds.
   sources_arch_go: Browse the holdings
   sources_np_h2: Newspapers
-  sources_np_lede: >-
-    The press items the edition brings in, from the 1754 funeral report to
-    the 1937 municipal column: what the newspapers wrote about the place
-    and its people.
   sources_np_go: Read the items
   sources_lit_h2: Literature
-  sources_lit_lede: >-
-    Books and articles about the estate's history and its setting, each in
-    its original language and in an English translation: what contemporaries
-    and historians wrote about the matters the sources record.
   sources_lit_go: Read the works
   sources_maps_h2: Maps
-  sources_maps_lede: >-
-    The old maps the edition brings in, georeferenced and marked with the
-    places of the gazetteer, each name photographed as the map spells it.
   sources_maps_go: View the maps
   sources_documents: Documents
   sources_pages: Manuscript pages
@@ -371,10 +320,6 @@ en:
   unit_no_about: A description of this holding has not been written yet.
   unit_no_process: An account of how this holding was prepared has not been written yet.
   lit_h1: Literature
-  lit_lede: >-
-    Books and articles about the estate's history and its setting, each in
-    its original language and in an English translation: what contemporaries
-    and historians wrote about the matters the sources record.
   lit_caveat: >-
     The English translation was made by Claude, an AI model, and has not
     been checked against the original as a whole. Quote from the original,
@@ -418,11 +363,6 @@ en:
   lit_sub_head: Attached to the work above
   lit_parent: Attached to
   np_h1: Newspapers
-  np_lede: >-
-    Items from the press, kept apart from the archival sources and from the
-    literature: what the newspapers printed about the places the edition's
-    documents come from, transcribed as printed and given with an English
-    translation. They are witnesses of their day, not works about the past.
   np_caveat: >-
     The English translation was made by Claude, an AI model, and has not
     been checked against the original as a whole. Quote from the original,
@@ -443,15 +383,7 @@ en:
   place_forms: Dated forms of the name
   place_on_places: The place in the index of places
   cem_h1: Cemeteries
-  cem_lede: >-
-    The Evangelical cemeteries of the Trąbczyn and Zagórów area and its
-    neighbourhood, visited and their headstones read in 2023: what remains
-    of each, and the names its stones still carry.
   places_cem_h2: Cemeteries
-  places_cem_lede: >-
-    The ten Evangelical cemeteries of the area and its neighbourhood,
-    visited and their headstones read in 2023 — the editor's own survey,
-    shown here with the places they belong to.
   cem_graves: Graves
   cem_visited: Visited
   cem_place: Place
@@ -600,24 +532,15 @@ de:
   estates_h2: Betroffene Güter
   places_eyebrow: Orte
   places_index_h1: Orte
-  places_index_lede: >-
-    Jeder Ort, den die Ausgabe verzeichnet, jeder mit eigener Seite.
   places_t1_h2: Die Gegend von Trąbczyn und Zagórów
   places_t1_lede: >-
-    Die Orte in der Nähe des Guts — seine Dörfer, Weiler und Kolonien, die
-    Marktflecken und Amtssitze um sie herum — zusammen mit jedem Ortsnamen
-    der Liste des Editors.
+    Jeder Ort der Gegend, ob in den Dokumenten
+    genannt oder nicht.
   places_t2_h2: Alle übrigen Orte
-  places_t2_lede: >-
-    Die weiter entfernten Orte, die die Dokumente nennen — die Hohenlohe'schen
-    Güter anderswo, die Sitze der Gerichte und der Regierung, die Hauptstädte
-    und die Stationen des Briefwechsels.
   places_tier_kind: Art
   places_docs_h2: Dokumente, die den Ort nennen
   maps_eyebrow: Karten
   maps_h1: Karten
-  maps_lede: >-
-    Die alten Karten der Ausgabe. Eine Karte anklicken, um sie zu lesen.
   maps_places_marked: bezeichnete Orte
   map_view: Karte ansehen
   map_citation_h2: Die Karte
@@ -643,14 +566,6 @@ de:
   hide_scans: Digitalisate ausblenden
   gl_toggle: Glossarbegriffe
   gl_h1: Glossar
-  gl_lede: >-
-    Wörter in den Dokumenten, die heutige Leser nicht kennen müssen: Geld und
-    Maße, das Recht von Grund und Gut, Ämter und Anreden und die Ereignisse,
-    die die Briefe voraussetzen. In den Dokumenten sind diese Wörter dezent
-    unterstrichen; ein Tippen zeigt, was sie bedeuten.
-  gl_draft_note: >-
-    Jeder Eintrag nennt das Nachschlagewerk der Zeit, an dem seine Erklärung
-    geprüft wurde.
   gl_search: Im Glossar suchen
   gl_kinds: Art des Wortes
   gl_kind_all: Alle
@@ -731,16 +646,7 @@ de:
   fig_span: Zeitraum
   fig_people: Personen bestimmt
   fig_places: Ausstellungsorte
-  card_browse_p: >-
-    Alle %d Dokumente, im Volltext durchsuchbar und filterbar nach Jahr, Person,
-    Ort und Zustand.
-  card_timeline_p: >-
-    Wie viele Dokumente aus jedem Jahr überliefert sind und was sich um sie herum zutrug.
-  card_people_p: >-
-    Wer in den Dokumenten vorkommt, wie sicher die Identifizierung jeweils ist und wo die Belege stehen.
   card_about: Über die Edition
-  card_about_p: >-
-    Was die Edition enthält, wo die Dokumente liegen und wie weit man sich auf den Text verlassen kann.
   home_h2: Über dieses Projekt
   home_p1: >-
     Polen wurde zwischen 1772 und 1795 aufgeteilt und hörte auf zu bestehen.
@@ -758,12 +664,8 @@ de:
     noch neun Jahre weiter, durch eine Verhaftung, einunddreißig Prozesse zugleich und einen Winter auf dem Wiener Kongress, und enden mit einem Liquidationsregister über Schulden Hohenlohe-Ingelfingens von
   home_p3_sum: 1.414.377 Reichsthalern
   people_h1: Personen in den Dokumenten
-  people_lede: >-
-    Alle, die oft genug vorkommen, um sie von einem Dokument zum nächsten zu verfolgen: wie oft die Dokumente jede Person nennen, und in welchen. Siehe
   places_h1: Ausstellungsorte
   timeline_h1: Zeitleiste
-  timeline_lede: >-
-    Wie viele Dokumente aus jedem Jahr überliefert sind, vor dem Hintergrund der Ereignisse der Zeit.
   tl_era_note_medieval: >-
     1173 bis 1444. Trąbczyn und seine Nachbarn in den mittelalterlichen Urkunden Großpolens: das Zisterzienserkloster Ląd, das Wrąbczynek, Kopojno, Zagórów und den Zehnten von Trąbczyn erwarb, und die Ritter und Erben, die Trąbczyn selbst besaßen.
   tl_era_note_prusimski: >-
@@ -795,48 +697,22 @@ de:
   sort_most_docs: Meiste Dokumente
   sort_fewest_docs: Wenigste Dokumente
   eras_h1: Epochen
-  eras_lede: >-
-    Die Dokumente fallen in sechs Epochen, von den mittelalterlichen
-    Urkunden bis zum zwanzigsten Jahrhundert: wer in jeder das Gut hielt,
-    was die Papiere der Zeit bezeugen, und wie eine Epoche in die nächste
-    überging.
   eras_span: Zeitraum
   eras_held: Wer das Gut hielt
   eras_browse: Die %d Dokumente dieser Epoche lesen
   sources_h1: Quellen
-  sources_lede: >-
-    Woraus diese Edition geschaffen ist: die eigenen Akten des Archivs, die
-    Presse, die Literatur und die alten Karten — vier verschiedene Arten
-    Quelle, jede auf ihre Weise aufgenommen und gezeigt.
   sources_kind_count: In der Ausgabe
   sources_kind_holdings: Bestände
   sources_kind_items: Artikel
   sources_kind_works: Werke
   sources_kind_maps: Karten
   sources_arch_h2: Archivalien
-  sources_arch_lede: >-
-    Die Archivbestände, auf denen diese Edition beruht — die eigenen
-    Bestände der Briefe, aus den Originalen abgeschrieben — und was jeder
-    enthält.
   sources_arch_go: Die Bestände ansehen
   sources_np_h2: Zeitungen
-  sources_np_lede: >-
-    Die Pressestücke der Ausgabe, vom Partebericht von 1754 bis zur
-    Gemeinderubrik von 1937: was die Zeitungen über den Ort und seine
-    Leute schrieben.
   sources_np_go: Die Artikel lesen
   sources_lit_h2: Literatur
-  sources_lit_lede: >-
-    Bücher und Aufsätze zur Geschichte des Guts und seines Umfelds, jedes
-    in seiner Originalsprache und in einer englischen Übersetzung: was
-    Zeitgenossen und Historiker über die Dinge schrieben, die die Quellen
-    bezeugen.
   sources_lit_go: Die Werke lesen
   sources_maps_h2: Karten
-  sources_maps_lede: >-
-    Die alten Karten der Ausgabe, georeferenziert und mit den Orten des
-    Gazetteers bezeichnet, jeder Name abgebildet, wie die Karte ihn
-    schreibt.
   sources_maps_go: Die Karten ansehen
   sources_documents: Dokumente
   sources_pages: Handschriftenseiten
@@ -852,11 +728,6 @@ de:
   unit_no_about: Eine Beschreibung dieses Bestandes ist noch nicht geschrieben.
   unit_no_process: Ein Bericht über die Bearbeitung dieses Bestandes ist noch nicht geschrieben.
   lit_h1: Literatur
-  lit_lede: >-
-    Bücher und Aufsätze zur Geschichte des Gutes und ihrem Umfeld, jeweils
-    in der Originalsprache und in einer englischen Übersetzung: was
-    Zeitgenossen und Historiker über die Dinge schrieben, die die Quellen
-    festhalten.
   lit_caveat: >-
     Die englische Übersetzung hat Claude, ein KI-Modell, angefertigt; sie
     ist nicht als Ganzes am Original geprüft. Zitieren Sie nach dem Original
@@ -901,12 +772,6 @@ de:
   lit_sub_head: Zum obigen Werk gehörig
   lit_parent: Gehört zu
   np_h1: Zeitungen
-  np_lede: >-
-    Stücke aus der Presse, getrennt gehalten von den Archivalien und von der
-    Literatur: was die Zeitungen über die Orte druckten, aus denen die
-    Dokumente der Edition kommen, abgedruckt wie gedruckt und mit einer
-    englischen Übersetzung gegeben. Sie sind Zeugen ihrer Zeit, nicht Werke
-    über die Vergangenheit.
   np_caveat: >-
     Die englische Übersetzung wurde von Claude, einem KI-Modell, gemacht und
     ist nicht als Ganzes gegen das Original geprüft. Zitiere das Original,
@@ -927,15 +792,7 @@ de:
   place_forms: Datierte Namensformen
   place_on_places: Der Ort im Verzeichnis der Orte
   cem_h1: Friedhöfe
-  cem_lede: >-
-    Die evangelischen Friedhöfe der Gegend von Trąbczyn und Zagórów und
-    ihrer Umgebung, besucht und ihre Grabsteine 2023 gelesen: was von jedem
-    übrig ist und welche Namen seine Steine noch tragen.
   places_cem_h2: Friedhöfe
-  places_cem_lede: >-
-    Die zehn evangelischen Friedhöfe der Gegend und ihrer Umgebung, besucht
-    und ihre Grabsteine 2023 gelesen — die eigene Aufnahme des Editors,
-    hier mit den Orten gezeigt, zu denen sie gehören.
   cem_graves: Gräber
   cem_visited: Besucht
   cem_place: Ort

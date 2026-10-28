@@ -594,7 +594,6 @@ img.scan {
 .credits .credit-line { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); }
 
 /* ---- the glossary page (_includes/glossary.html) ---- */
-.gl-note { font-family: var(--sans); font-size: .82rem; color: var(--ink-faint); }
 .gl-tools { max-width: var(--measure); margin: 1.4rem 0 .6rem; }
 .gl-tools input[type="search"] {
   width: 100%; font: inherit; font-size: 1rem; padding: .55rem .7rem;

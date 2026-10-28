@@ -2,7 +2,6 @@
 
 <div class="prose">
   <h1>{{ t.sources_h1 }}</h1>
-  <p class="standfirst">{{ t.sources_lede }}</p>
 </div>
 
 {%- comment -%}
@@ -20,7 +19,6 @@
 <div class="sources-overview">
   <section class="src-kind" id="archival">
     <h2>{{ t.sources_arch_h2 }}</h2>
-    <p class="src-lede">{{ t.sources_arch_lede }}</p>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.units | size }} {{ t.sources_kind_holdings }}</dd></div>
     </dl>
@@ -29,7 +27,6 @@
 
   <section class="src-kind" id="newspapers">
     <h2>{{ t.sources_np_h2 }}</h2>
-    <p class="src-lede">{{ t.sources_np_lede }}</p>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.newspapers | size }} {{ t.sources_kind_items }}</dd></div>
     </dl>
@@ -38,7 +35,6 @@
 
   <section class="src-kind" id="literature">
     <h2>{{ t.sources_lit_h2 }}</h2>
-    <p class="src-lede">{{ t.sources_lit_lede }}</p>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.literature | size }} {{ t.sources_kind_works }}</dd></div>
     </dl>
@@ -47,7 +43,6 @@
 
   <section class="src-kind" id="maps">
     <h2>{{ t.sources_maps_h2 }}</h2>
-    <p class="src-lede">{{ t.sources_maps_lede }}</p>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.maps_list | size }} {{ t.sources_kind_maps }}</dd></div>
     </dl>
@@ -59,7 +54,6 @@
 .sources-overview { max-width: var(--measure); margin: 2rem 0 3rem; }
 .src-kind { border-top: 2px solid var(--rule); padding: 1.6rem 0 1.8rem; }
 .src-kind h2 { margin: 0; font-size: 1.35rem; }
-.src-kind .src-lede { margin: .5rem 0 0; color: var(--ink-soft); max-width: 38rem; }
 .src-kind .source-facts { margin: .8rem 0 0; }
 .src-kind .source-go { font-family: var(--sans); font-size: .9rem; margin: .8rem 0 0; }
 </style>
