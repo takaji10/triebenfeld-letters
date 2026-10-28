@@ -59,15 +59,14 @@ About-the-edition link; the footer links About twice already),
 `card_people_p`, `card_about_p` - 21 keys a side. Dead CSS deleted:
 `.gl-note` (assets/style.css), `.src-lede` (sources.html's inline style).
 
-## Left open for the editor's ruling
+## Settled (the editor, 2026-10-28)
 
-- `np_caveat_editor` - "The English translation is the editor's own." -
-  the last on-page string naming the editor in `i18n.yml` (also its
-  German twin). It is a disclosure of translation provenance; today's
-  work stopped short of it.
-- The ten cemetery pages' notes open "From the editor's survey of the
-  Evangelical cemeteries" (`cemeteries/*/notes.md`) - content files,
-  untouched today, named here because they speak the same way.
+- `np_caveat_editor` now reads "The English translation is the one
+  supplied with the transcription." (German: "Die englische Übersetzung
+  ist die mit der Transkription gelieferte."); the key name stays.
+- The ten cemetery pages' notes now open "From the survey of the
+  Evangelical cemeteries" (`cemeteries/*/notes.md`); the rendered pages
+  never carried the phrase.
 
 ## Worked
 

@@ -1,6 +1,6 @@
 # Łazińsk Pierwszy Lutheran Cemetery
 
-From the editor's survey of the Evangelical cemeteries of the
+From the survey of the Evangelical cemeteries of the
 Trąbczyn/Zagórów area (`reference/cemeteries/source/cemeteries.md`), one
 visit in 2023 (the editor's word). The account is the survey's own
 paragraph, kept as written; its footnote marker for the sign's source moved
