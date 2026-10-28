@@ -3498,3 +3498,19 @@ lose his estates. The era page writes Konotop, not Kontop.
   character-for-character, 63,056 internal links resolve, tier1 124,
   tier2 179; no deleted string renders anywhere in the built site, and
   the two kept lines render in both languages.
+
+## 2026-10-28 - The voice's two rules recorded (docs only)
+
+- The standfirst ruling and the no-maker ruling worked into
+  `docs/HOUSE_STYLE.md`, the file that governs the site's prose: "No
+  self-narrating standfirsts" - the four marks of the self-narrating
+  text (self-reference; redundancy with the list beneath; explaining the
+  obvious; the designed literary voice of dash-appended appositions and
+  rhetorical triads), the struck-out examples quoted as NO, the kept
+  examples as YES, and the exception, explanation that carries what the
+  page cannot show (how the site is used, where its material comes
+  from); and "The maker is not named" - the site speaks only to its
+  reader about the materials and no page text names the person who made
+  them, provenance telling what was done. Both sections cite the
+  rulings of 2026-10-28 and `docs/STANDFIRSTS_PLAN.md`. Nothing on the
+  site changed today.

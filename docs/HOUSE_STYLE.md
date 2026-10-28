@@ -320,6 +320,82 @@ the edition"). The project's record goes in `docs/` and the notes. A
 reading of the site's existing pages for method talk is offered to the
 editor (`docs/TODO.md`), not yet done.
 
+## No self-narrating standfirsts
+
+The editor, 2026-10-28: the pages do not describe themselves. A section
+opens with its heading and then its content - no prose between them that
+says what the page contains, however true. The reference the editor gave
+for the wanted style (a Sway page) renders headings, lists and images,
+and nothing speaking between them.
+
+A self-narrating standfirst is the site talking to itself. Its four
+marks, each from an example the editor struck out:
+
+1. **Self-reference.** The text talks about the page, not the world:
+   "Every place the edition records, each with its own page."
+2. **Redundancy.** It restates what the heading and the list beneath
+   already demonstrate: "how often the documents name each person, and
+   in which documents."
+3. **Explaining the obvious.** It narrates structure or interaction:
+   "each with its own page", "tap one to see what it means."
+4. **A designed literary voice.** Dash-appended appositions and
+   rhetorical triads: "its villages, hamlets and colonies, the market
+   towns and seats around them."
+
+```
+NO   Everyone named often enough to follow from one document to the next:
+     how often the documents name each person, and in which documents.
+NO   Words in the documents that a reader today cannot be expected to
+     know: money and measures, the law of land and estates, offices and
+     forms of address, and the events the letters take for granted. In
+     the documents these words are faintly underlined; tap one to see
+     what it means.
+NO   The ten Evangelical cemeteries of the area and its neighbourhood,
+     visited and their headstones read in 2023 — the editor's own
+     survey, shown here with the places they belong to.
+```
+
+It is "No signposting" and "No method talk" carried to the page openers
+and the interface strings - the subject of the sentence is the page and
+what it gathers, not a person, place, event or document. A standfirst
+stands only where it carries what the page cannot show: how the site is
+used, or where its material comes from.
+
+```
+YES  All %d documents. Search the full German text, or narrow by year,
+     person, place and condition.     (the search runs on the German)
+YES  Every place of the neighbourhood, whether or not it is named in the
+     documents.    (the tier carries names no document explains)
+```
+
+Descriptions of the material itself - a holding's archive description,
+the story's opening, an era's note - are content, not narration, and do
+not fall under this rule. A translation's or an origin's caveat is a
+disclosure and stands too.
+
+The removal made under this rule (the whole family, both languages),
+with what stood and what went, is recorded in
+`docs/STANDFIRSTS_PLAN.md`. The German texts obey the same rule as the
+English: a ruling on one is a ruling on both.
+
+## The maker is not named
+
+The editor, 2026-10-28: "Don't mention anything about an 'editor' - this
+is you talking about me, which is not what should appear on the site.
+The site is for other people to experience the materials." The site
+speaks only to its reader about the materials. No page text, label or
+note names the person who made them: provenance says what was done
+("visited and their headstones read in 2023"), and where a maker must be
+named for the reader's sake, the work is named and its limits stated,
+not the person by it.
+
+Found standing under the rule, left for the editor's ruling:
+`np_caveat_editor` ("The English translation is the editor's own.", with
+its German twin), and the cemetery pages' "From the editor's survey of
+the Evangelical cemeteries" openings (`cemeteries/*/notes.md`). The
+ruling that stood them (2026-10-28) is in the changelog;
+`docs/STANDFIRSTS_PLAN.md` lists them.
+
 ## English
 
 Everything into English unless there truly is no equivalent. A *Kriegs- und
