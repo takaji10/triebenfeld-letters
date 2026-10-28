@@ -2621,3 +2621,32 @@ cloud branches").
   section's pages COUNT the files per folder before building - the
   mismatch showed up only as broken links in the verifier, one step
   downstream.
+
+## The layout (2026-10-28)
+
+- **All code lives under `pipeline/`.** `unitlib.py`, `numerals.py`,
+  `new_unit.py`, `regenerate.py` and `verify_site.py` moved there on
+  2026-10-28 (run them as `python pipeline/regenerate.py --site`,
+  `python pipeline/verify_site.py`). Every script that imports `unitlib` or
+  `numerals` puts both the repository root and `<root>/pipeline` on
+  `sys.path`; a new script copies the pair of lines from a neighbour. The
+  moved files compute their root with two `dirname` calls.
+- **The generated dataset is `dataset/`** (it was `corpus/`). A holding's own
+  transcription is still `units/<slug>/corpus.txt`, and the `corpus` key in
+  `unit.yml` and `merge_corpus.py` keep their names.
+- **Finished working files go to `docs/archive/`** (the Prusimski-era
+  questions and spot sheet, the early context brief), not into `docs/`'s
+  top level or the repository root.
+- Older notes and `docs/CHANGELOG.md` cite the old paths (`corpus/`,
+  `python regenerate.py`) and were left as written; read them with the
+  renaming in mind.
+- The move changed no output: `pipeline/regenerate.py --site` before and
+  after gave byte-identical `site/_site` and the same changed tracked files.
+  Note that a run on the committed tree is not clean: it rewrites
+  `dataset/documents/{adwl85-2,app53170koningr145-1,app539680669-1}.json`,
+  `dataset/index/{documents,place_mentions}.json` and the line-break, scan
+  map and paragraph CSVs of `app5320pozgr1181` and `app5321pyzdrygr115`
+  (the committed generated files are a little stale), and the literature
+  index step stops on three unruled pairs (`gradzyn` "Grądzeń",
+  `lisewska-kolonia` "Lissewo", `rogal` "Rogaler") - `git checkout -- .`
+  undoes the rewrites; the three rulings are for the editor.
