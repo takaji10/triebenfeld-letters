@@ -85,7 +85,7 @@ Where the rest is:
   sheet "Before publishing" was made so: `python pipeline/review/queries.py
   --unit app536046 --sheet before_publishing.csv`, with the built site
   served on port 4000 (`python -m http.server 4000` in `site/_site`); a
-  copy of its rows is `docs/PRUSIMSKI_before_publishing.csv`, and the
+  copy of its rows is `docs/archive/PRUSIMSKI_before_publishing.csv`, and the
   answers are read with `--read`. The first option of each row is what
   is already built.
 - **A list of rows to rule on is not a deliverable.** Given 173 paragraph
@@ -374,7 +374,7 @@ Where the rest is:
 - **A run without stops** (the editor, 2026-10-07): for the Prusimski-era
   court books every unit is processed in turn, and questions, fold
   adjustments and the editor's review of readings wait for the end. A
-  question is written into `docs/PRUSIMSKI_QUESTIONS.md` with the default
+  question is written into `docs/archive/PRUSIMSKI_QUESTIONS.md` with the default
   taken, and the holding is built on that default. Do not stop to ask.
 - **A rough register (Konin Gr.115).** Entries are a few lines among many,
   and a sitting's date line may be pages earlier. Before anything else,

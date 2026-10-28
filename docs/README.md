@@ -46,6 +46,10 @@ project.
 | [name_decisions.md](name_decisions.md) | Which spelling was chosen for which name, with the reasoning. |
 | [narrative_overview.md](narrative_overview.md) | A first-pass chapter skeleton of the correspondence. Its own header calls the connective narrative a draft to verify, not settled fact. |
 
+`archive/` holds finished working files kept for the record (the Prusimski-era
+questions and the spot sheet of 2026-10-07 with its answers, the early website
+context brief); none of them describes the current state of the project.
+
 Elsewhere: `reference/` holds the authorities the pipeline reads (people,
 places, the termbase); `units/<slug>/` holds each holding's transcription and
 its editorial rulings. Both are tracked and both are authored by hand.

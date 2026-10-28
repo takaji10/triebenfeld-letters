@@ -436,7 +436,7 @@ read, translate and summarise.
 
 - **The Prusimski-era court books** (2026-10-07): twenty holdings beside
   Konin Gr.145 were published at the editor's word on 2026-10-07. What was open about them is
-  in `docs/PRUSIMSKI_QUESTIONS.md`, each question with the default taken.
+  in `docs/archive/PRUSIMSKI_QUESTIONS.md`, each question with the default taken.
   The editor reviewed the folds and the page of changes on 2026-10-07 and
   answered the main questions; all of it is carried out (the full check of
   Konin Gr.117, Gr.118, Gr.153 and Gr.119; Górski; entry no. 17 of

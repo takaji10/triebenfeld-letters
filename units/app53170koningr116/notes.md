@@ -54,4 +54,4 @@ editor's file.
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 9 scan(s), 8 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The questions in `docs/PRUSIMSKI_QUESTIONS.md`.
+- The questions in `docs/archive/PRUSIMSKI_QUESTIONS.md`.

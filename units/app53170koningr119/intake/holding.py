@@ -29,7 +29,7 @@ first proposals for the editor.
 
 Not used: seven scans with entries the editor did not transcribe (144, 320,
 321, 348, 349, 680, 681); what is on them is listed in
-docs/PRUSIMSKI_QUESTIONS.md. The line under "[140]" in the editor's file is
+docs/archive/PRUSIMSKI_QUESTIONS.md. The line under "[140]" in the editor's file is
 their own note on scan 144, not text.
 
 The check (2026-10-07). Read against the scans, enlarged: every heading and

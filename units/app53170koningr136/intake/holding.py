@@ -26,7 +26,7 @@ scans have a numbered description of the village houses, one by one: the
 rest of leaf 121 verso, all of leaf 122 and the top of leaf 122 verso. It is
 in neither the editor's transcription nor their English. The holding is built
 from what is transcribed; the question is held for the editor
-(docs/PRUSIMSKI_QUESTIONS.md).
+(docs/archive/PRUSIMSKI_QUESTIONS.md).
 
 The check (2026-10-07). Read against the scans, enlarged: the heading on leaf
 121; the count of people on leaf 122 verso; all of leaf 123. Not compared:

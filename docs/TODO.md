@@ -248,7 +248,7 @@ Your review, in this order:
 - [x] Entry no. 43 of 53/6/0/-/47: taken out at your word (2026-10-07);
       its text is kept in `units/app536047/intake/entry_43.md`.
 - [x] **The questions that mattered most**: answered on 2026-10-07 and
-      carried out (`docs/PRUSIMSKI_QUESTIONS.md`, "The editor's answers").
+      carried out (`docs/archive/PRUSIMSKI_QUESTIONS.md`, "The editor's answers").
       The full check of the four holdings is done; Górski, the uncle,
       "jurato" and "condescensio" are settled. The smaller questions in
       that file stand on their defaults. What the list was:
@@ -263,7 +263,7 @@ Your review, in this order:
         the middle of Konin Gr.136);
       - dates inferred where the heading of a sitting was not photographed.
 - [x] **The sheet "Before publishing"** (14 rows): you answered it on
-      2026-10-07 and the answers are applied (`docs/PRUSIMSKI_QUESTIONS.md`
+      2026-10-07 and the answers are applied (`docs/archive/PRUSIMSKI_QUESTIONS.md`
       lists them).
 - [x] **Published at your word on 2026-10-07**: the twenty-one Prusimski-era
       holdings are on the live site.

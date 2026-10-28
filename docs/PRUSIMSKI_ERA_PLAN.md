@@ -199,7 +199,7 @@ holding is built. **This is the main thing to confirm.**
 **All five batches are built** (2026-10-07), in one run without stops, as the
 editor asked: twenty-one holdings, 92 documents. Nothing is published. The
 editor reviews the folds, the page of changes and
-`docs/PRUSIMSKI_QUESTIONS.md` and then says when to publish. Pyzdry Gr.75 is
+`docs/archive/PRUSIMSKI_QUESTIONS.md` and then says when to publish. Pyzdry Gr.75 is
 deferred.
 
 **What the run changed in the method** (details in

@@ -25,7 +25,7 @@ Status `translated`. Built and verified locally, **not published**.
   (March 1783), 6 (May 1783), 7 (October 1783).
 - **Seven scans not used** (144, 320, 321, 348, 349, 680, 681): entries
   the editor photographed and did not transcribe, several of them on
-  Prusimski; listed in `docs/PRUSIMSKI_QUESTIONS.md`.
+  Prusimski; listed in `docs/archive/PRUSIMSKI_QUESTIONS.md`.
 - **"Captain of Niszczewice"** in the editor's English here for
   "Capitaneus"; the other holdings have "Starost". Left; in the questions
   file.

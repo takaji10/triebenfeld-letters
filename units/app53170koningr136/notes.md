@@ -14,7 +14,7 @@ Everything about how it was made is in the docstring of `intake/holding.py`
   the villages (rest of leaf 121 verso, all of leaf 122, top of leaf 122
   verso) is in neither the editor's transcription nor their English. Built
   without it at the editor's instruction to hold questions for the end
-  (`docs/PRUSIMSKI_QUESTIONS.md`); `about.md` and `process.md` say so, and
+  (`docs/archive/PRUSIMSKI_QUESTIONS.md`); `about.md` and `process.md` say so, and
   the English has a line in square brackets at the place. Leaf 122 recto
   (`0122_a2`) is cut and set apart.
 - **Not compared with the scans**: the manor buildings on leaf 121 and the

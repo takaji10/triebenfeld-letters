@@ -1100,7 +1100,7 @@ so check them.
 - **The Prusimski-era run (editor, 2026-10-07): process every unit without
   stopping; all questions, fold adjustments and reviews of readings are held
   for one review at the end.** Each question goes into
-  `docs/PRUSIMSKI_QUESTIONS.md` with the default that was taken, and the
+  `docs/archive/PRUSIMSKI_QUESTIONS.md` with the default that was taken, and the
   holding is built on the default. Nothing is published before the review.
   (The review was held on 2026-10-07 and the holdings published that day.)
 - **The run is finished and published: every court-book folder with a text
@@ -1122,7 +1122,7 @@ so check them.
 - **The editor's review is done but for the word to publish** (2026-10-07).
   They placed the folds of all twenty holdings (each holding's
   `intake/folds.json`), read the page of changes and answered the main
-  questions (`docs/PRUSIMSKI_QUESTIONS.md`, "The editor's answers"). Carried
+  questions (`docs/archive/PRUSIMSKI_QUESTIONS.md`, "The editor's answers"). Carried
   out the same day: **the full check of Konin Gr.117, Gr.118, Gr.153 and
   Gr.119** (every page read; the record is each holding's
   `intake/full_check.json`, applied once by `holding.py --full`; no document
@@ -1132,8 +1132,8 @@ so check them.
   again at the editor's word, as not relevant; its text is kept in that
   holding's `intake/entry_43.md`. Do not build it again.) **Published at the
   editor's word on 2026-10-07**, after they answered the spot sheet "Before
-  publishing" (`docs/PRUSIMSKI_QUESTIONS.md` lists the answers; the rows are
-  `docs/PRUSIMSKI_before_publishing.csv`). Nothing waits on the editor for
+  publishing" (`docs/archive/PRUSIMSKI_QUESTIONS.md` lists the answers; the rows are
+  `docs/archive/PRUSIMSKI_before_publishing.csv`). Nothing waits on the editor for
   these holdings. **The account of the
   era waits** until they have supplied the missing transcriptions. The
   backlog (headings of sittings, the middle of Konin Gr.136, three entries

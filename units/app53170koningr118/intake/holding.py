@@ -57,7 +57,7 @@ What read_source does to the editor's file beyond cutting it:
 - the entry under "[173]" is left out: it has a heading of its own and
   concerns a decree between Rafał Gurowski and the townsmen of Brdów, not
   Trąbczyn. The editor's English had run it on from the unfinished note on
-  leaf 172 verso (docs/PRUSIMSKI_QUESTIONS.md);
+  leaf 172 verso (docs/archive/PRUSIMSKI_QUESTIONS.md);
 - the line under "[496]" is the editor's own note ("same as 495v"), not
   text. Leaf 496 begins another entry; the citation ends on leaf 495 verso;
 - the entry the editor put under "[523]" is on leaf 523 verso (scan 529,

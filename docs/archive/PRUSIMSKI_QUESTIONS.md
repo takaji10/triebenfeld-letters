@@ -75,8 +75,8 @@ text of entry no. 43 is kept as a record in the holding
 (`intake/entry_43.md`).
 
 **The spot sheet "Before publishing"** (fourteen rows, answered by the
-editor the same day; the rows are `docs/PRUSIMSKI_before_publishing.csv`,
-the answers `docs/PRUSIMSKI_before_publishing_answers.json`):
+editor the same day; the rows are `docs/archive/PRUSIMSKI_before_publishing.csv`,
+the answers `docs/archive/PRUSIMSKI_before_publishing_answers.json`):
 
 - 53/6/0/-/46, entry no. 17: "Laetare" stands; the town is "Vitkovien~" (the
   editor asked whether other mentions of Tracholz name it: none does; the
