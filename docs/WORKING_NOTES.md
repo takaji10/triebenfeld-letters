@@ -2641,12 +2641,16 @@ cloud branches").
   `python regenerate.py`) and were left as written; read them with the
   renaming in mind.
 - The move changed no output: `pipeline/regenerate.py --site` before and
-  after gave byte-identical `site/_site` and the same changed tracked files.
-  Note that a run on the committed tree is not clean: it rewrites
-  `dataset/documents/{adwl85-2,app53170koningr145-1,app539680669-1}.json`,
-  `dataset/index/{documents,place_mentions}.json` and the line-break, scan
-  map and paragraph CSVs of `app5320pozgr1181` and `app5321pyzdrygr115`
-  (the committed generated files are a little stale), and the literature
-  index step stops on three unruled pairs (`gradzyn` "Grądzeń",
-  `lisewska-kolonia` "Lissewo", `rogal` "Rogaler") - `git checkout -- .`
-  undoes the rewrites; the three rulings are for the editor.
+  after gave byte-identical `site/_site`.
+- **A full rebuild blanks a holding's scan map where its raw scans are not
+  in `pages/`** (found 2026-10-28): `match_scans.py` rewrote
+  `units/app5320pozgr1181/page_scan_map.csv` with every image empty
+  ("gap, check"), Gr.1181's scans being in another checkout. The verifier
+  does not catch it. After a full run, look at `git diff units/*/page_scan_map.csv`
+  and restore any map that lost its images (`git checkout -- <file>`), then
+  run the merged steps again (`regenerate.MERGED`) and the site build.
+- The committed `dataset/` had gone stale after the register's Grądzyń
+  pattern was widened (the gazetteer's sources commit) and was rebuilt on
+  2026-10-28; the literature index's three unruled pairs were ruled by the
+  editor the same day (Grądzeń the modern name of Grądzyń; Kolonia Lisewo,
+  not the village of Lisewo; "Rogaler" the Rogall hymn-book).

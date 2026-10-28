@@ -40838,6 +40838,467 @@
   ]
  },
  {
+  "entity": "gradzyn",
+  "display": "Grądzyń",
+  "count": 48,
+  "documents": [
+   "adwl85-2",
+   "app5314550221-2",
+   "app5314550221-3",
+   "app5314550221-6",
+   "app53170koningr145-1",
+   "app539680669-1",
+   "iharep162nr295-1",
+   "iharep162nr295-3",
+   "oe1bu14525-10",
+   "oe1bu14525-17",
+   "oe1bu14525-21",
+   "oe1bu14525-22",
+   "oe1bu14525-5",
+   "oe1bu14525-8",
+   "oe1bu14525-9",
+   "oe1bu9454-136",
+   "oe1bu9454-151",
+   "oe1bu9454-177",
+   "oe1bu9454-24",
+   "oe1bu9454-32"
+  ],
+  "mentions": [
+   {
+    "uid": "app5314550221-3",
+    "surface": "Gradziem",
+    "page": 1,
+    "page_id": "0014_a",
+    "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
+    "line": 15,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5314550221-3",
+    "surface": "Graziem",
+    "page": 2,
+    "page_id": "0015_a",
+    "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+    "line": 19,
+    "doc_line": 4
+   },
+   {
+    "uid": "app5314550221-2",
+    "surface": "Gradziem",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",
+    "line": 7,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5314550221-2",
+    "surface": "Gradziem",
+    "page": 2,
+    "page_id": "0014_a",
+    "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
+    "line": 11,
+    "doc_line": 4
+   },
+   {
+    "uid": "app5314550221-6",
+    "surface": "Gradzien",
+    "page": 1,
+    "page_id": "0066_a",
+    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
+    "line": 34,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5314550221-6",
+    "surface": "Gradzien",
+    "page": 1,
+    "page_id": "0066_a",
+    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
+    "line": 34,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5314550221-6",
+    "surface": "Gradzien",
+    "page": 1,
+    "page_id": "0066_a",
+    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
+    "line": 34,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5314550221-6",
+    "surface": "Gradzien",
+    "page": 1,
+    "page_id": "0066_a",
+    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
+    "line": 34,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzimia",
+    "page": 34,
+    "page_id": "0671_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0671_a2-L1_34.jpg",
+    "line": 108,
+    "doc_line": 73
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzimia",
+    "page": 34,
+    "page_id": "0671_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0671_a2-L1_34.jpg",
+    "line": 108,
+    "doc_line": 73
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzimia",
+    "page": 34,
+    "page_id": "0671_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0671_a2-L1_34.jpg",
+    "line": 108,
+    "doc_line": 73
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyniowi",
+    "page": 34,
+    "page_id": "0671_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0671_a2-L1_34.jpg",
+    "line": 108,
+    "doc_line": 73
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyńską",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzynien",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyniem",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyń",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyniem",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 112,
+    "doc_line": 76
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyniem",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 112,
+    "doc_line": 76
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzynia",
+    "page": 77,
+    "page_id": "0693_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
+    "line": 237,
+    "doc_line": 159
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzynia",
+    "page": 77,
+    "page_id": "0693_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
+    "line": 237,
+    "doc_line": 159
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyńskiego",
+    "page": 77,
+    "page_id": "0693_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
+    "line": 237,
+    "doc_line": 159
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyński",
+    "page": 77,
+    "page_id": "0693_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
+    "line": 237,
+    "doc_line": 159
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzyniowi",
+    "page": 77,
+    "page_id": "0693_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
+    "line": 238,
+    "doc_line": 160
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Grądzynia",
+    "page": 91,
+    "page_id": "0700_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0700_a1-L1_91.jpg",
+    "line": 299,
+    "doc_line": 207
+   },
+   {
+    "uid": "adwl85-2",
+    "surface": "Grądzień",
+    "page": 1,
+    "page_id": "0034_c",
+    "scan": "ADWl_85_0034_c-L2_01.jpg",
+    "line": 74,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu14525-10",
+    "surface": "Grądzyń",
+    "page": 1,
+    "page_id": "0028_a2",
+    "scan": "Oe_1_Bu_14525_0028_a2-L10_01.jpg",
+    "line": 1102,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu14525-10",
+    "surface": "Grądzyń",
+    "page": 3,
+    "page_id": "0029_a2",
+    "scan": "Oe_1_Bu_14525_0029_a2-L10_03.jpg",
+    "line": 1155,
+    "doc_line": 69
+   },
+   {
+    "uid": "oe1bu14525-8",
+    "surface": "Grąndzyń",
+    "page": 1,
+    "page_id": "0024_a2",
+    "scan": "Oe_1_Bu_14525_0024_a2-L8_01.jpg",
+    "line": 912,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu14525-8",
+    "surface": "Grądzyń",
+    "page": 3,
+    "page_id": "0025_a2",
+    "scan": "Oe_1_Bu_14525_0025_a2-L8_03.jpg",
+    "line": 971,
+    "doc_line": 77
+   },
+   {
+    "uid": "oe1bu14525-9",
+    "surface": "Grądzyń",
+    "page": 1,
+    "page_id": "0026_a2",
+    "scan": "Oe_1_Bu_14525_0026_a2-L9_01.jpg",
+    "line": 1009,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu14525-9",
+    "surface": "Grądzyń",
+    "page": 3,
+    "page_id": "0027_a2",
+    "scan": "Oe_1_Bu_14525_0027_a2-L9_03.jpg",
+    "line": 1072,
+    "doc_line": 85
+   },
+   {
+    "uid": "oe1bu14525-17",
+    "surface": "Grądzyń",
+    "page": 2,
+    "page_id": "0066_a1",
+    "scan": "Oe_1_Bu_14525_0066_a1-L17_02.jpg",
+    "line": 2009,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu14525-17",
+    "surface": "Grądzyń",
+    "page": 8,
+    "page_id": "0069_a1",
+    "scan": "Oe_1_Bu_14525_0069_a1-L17_08.jpg",
+    "line": 2132,
+    "doc_line": 154
+   },
+   {
+    "uid": "oe1bu14525-5",
+    "surface": "Grądzyń",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "Oe_1_Bu_14525_0014_a2-L5_01.jpg",
+    "line": 488,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu14525-5",
+    "surface": "Grądzyń",
+    "page": 3,
+    "page_id": "0015_a2",
+    "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
+    "line": 543,
+    "doc_line": 73
+   },
+   {
+    "uid": "oe1bu14525-21",
+    "surface": "Grądzyń",
+    "page": 4,
+    "page_id": "0083_a1",
+    "scan": "Oe_1_Bu_14525_0083_a1-L21_04.jpg",
+    "line": 2520,
+    "doc_line": 83
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Grądzyń",
+    "page": 6,
+    "page_id": "0265_a1",
+    "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+    "line": 9953,
+    "doc_line": 109
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Grądzyń",
+    "page": 2,
+    "page_id": "0086_a1",
+    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
+    "line": 2707,
+    "doc_line": 59
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Grądzyń",
+    "page": 7,
+    "page_id": "0088_a2",
+    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
+    "line": 2847,
+    "doc_line": 194
+   },
+   {
+    "uid": "oe1bu9454-151",
+    "surface": "Grądzyner",
+    "page": 1,
+    "page_id": "0290_b",
+    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
+    "line": 10890,
+    "doc_line": 17
+   },
+   {
+    "uid": "iharep162nr295-1",
+    "surface": "Grądzyn",
+    "page": 2,
+    "page_id": "0003_a",
+    "scan": "I_HA_Rep_162_Nr_295_0003_a-L1_02.jpg",
+    "line": 52,
+    "doc_line": 35
+   },
+   {
+    "uid": "iharep162nr295-3",
+    "surface": "Grądzyn",
+    "page": 4,
+    "page_id": "0011_a",
+    "scan": "I_HA_Rep_162_Nr_295_0011_a-L3_04.jpg",
+    "line": 263,
+    "doc_line": 75
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Grądzyń",
+    "page": 3,
+    "page_id": "0331_a2",
+    "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
+    "line": 12544,
+    "doc_line": 53
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Grądzyń",
+    "page": 4,
+    "page_id": "0332_a2",
+    "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+    "line": 12559,
+    "doc_line": 67
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Grądzyń",
+    "page": 4,
+    "page_id": "0332_a2",
+    "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
+    "line": 12587,
+    "doc_line": 95
+   },
+   {
+    "uid": "oe1bu9454-24",
+    "surface": "Grądzin",
+    "page": 2,
+    "page_id": "0041_a2",
+    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+    "line": 1613,
+    "doc_line": 42
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Grądzyń",
+    "page": 1,
+    "page_id": "0057_b",
+    "scan": "Oe_1_Bu_9454_0057_b-L32_01.jpg",
+    "line": 2208,
+    "doc_line": 16
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Grądzeń",
+    "page": 8,
+    "page_id": "0005_a1",
+    "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
+    "line": 104,
+    "doc_line": 95
+   }
+  ]
+ },
+ {
   "entity": "russland",
   "display": "Russland",
   "count": 45,
@@ -41283,420 +41744,6 @@
     "scan": "APP_53_968_0_669_5204_a2-L2_24.jpg",
     "line": 877,
     "doc_line": 310
-   }
-  ]
- },
- {
-  "entity": "gradzyn",
-  "display": "Grądzyń",
-  "count": 43,
-  "documents": [
-   "app5314550221-2",
-   "app5314550221-3",
-   "app5314550221-6",
-   "app53170koningr145-1",
-   "iharep162nr295-1",
-   "iharep162nr295-3",
-   "oe1bu14525-10",
-   "oe1bu14525-17",
-   "oe1bu14525-21",
-   "oe1bu14525-22",
-   "oe1bu14525-5",
-   "oe1bu14525-8",
-   "oe1bu14525-9",
-   "oe1bu9454-136",
-   "oe1bu9454-151",
-   "oe1bu9454-177",
-   "oe1bu9454-24",
-   "oe1bu9454-32"
-  ],
-  "mentions": [
-   {
-    "uid": "app5314550221-3",
-    "surface": "Gradziem",
-    "page": 1,
-    "page_id": "0014_a",
-    "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
-    "line": 15,
-    "doc_line": 1
-   },
-   {
-    "uid": "app5314550221-3",
-    "surface": "Graziem",
-    "page": 2,
-    "page_id": "0015_a",
-    "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
-    "line": 19,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-2",
-    "surface": "Gradziem",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",
-    "line": 7,
-    "doc_line": 1
-   },
-   {
-    "uid": "app5314550221-2",
-    "surface": "Gradziem",
-    "page": 2,
-    "page_id": "0014_a",
-    "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
-    "line": 11,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-6",
-    "surface": "Gradzien",
-    "page": 1,
-    "page_id": "0066_a",
-    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
-    "line": 34,
-    "doc_line": 1
-   },
-   {
-    "uid": "app5314550221-6",
-    "surface": "Gradzien",
-    "page": 1,
-    "page_id": "0066_a",
-    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
-    "line": 34,
-    "doc_line": 1
-   },
-   {
-    "uid": "app5314550221-6",
-    "surface": "Gradzien",
-    "page": 1,
-    "page_id": "0066_a",
-    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
-    "line": 34,
-    "doc_line": 1
-   },
-   {
-    "uid": "app5314550221-6",
-    "surface": "Gradzien",
-    "page": 1,
-    "page_id": "0066_a",
-    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
-    "line": 34,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyniowi",
-    "page": 34,
-    "page_id": "0671_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0671_a2-L1_34.jpg",
-    "line": 108,
-    "doc_line": 73
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyńską",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzynien",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyniem",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyń",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyniem",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 112,
-    "doc_line": 76
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyniem",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 112,
-    "doc_line": 76
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzynia",
-    "page": 77,
-    "page_id": "0693_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
-    "line": 237,
-    "doc_line": 159
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzynia",
-    "page": 77,
-    "page_id": "0693_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
-    "line": 237,
-    "doc_line": 159
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyńskiego",
-    "page": 77,
-    "page_id": "0693_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
-    "line": 237,
-    "doc_line": 159
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyński",
-    "page": 77,
-    "page_id": "0693_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
-    "line": 237,
-    "doc_line": 159
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzyniowi",
-    "page": 77,
-    "page_id": "0693_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
-    "line": 238,
-    "doc_line": 160
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Grądzynia",
-    "page": 91,
-    "page_id": "0700_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0700_a1-L1_91.jpg",
-    "line": 299,
-    "doc_line": 207
-   },
-   {
-    "uid": "oe1bu14525-10",
-    "surface": "Grądzyń",
-    "page": 1,
-    "page_id": "0028_a2",
-    "scan": "Oe_1_Bu_14525_0028_a2-L10_01.jpg",
-    "line": 1102,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu14525-10",
-    "surface": "Grądzyń",
-    "page": 3,
-    "page_id": "0029_a2",
-    "scan": "Oe_1_Bu_14525_0029_a2-L10_03.jpg",
-    "line": 1155,
-    "doc_line": 69
-   },
-   {
-    "uid": "oe1bu14525-8",
-    "surface": "Grąndzyń",
-    "page": 1,
-    "page_id": "0024_a2",
-    "scan": "Oe_1_Bu_14525_0024_a2-L8_01.jpg",
-    "line": 912,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu14525-8",
-    "surface": "Grądzyń",
-    "page": 3,
-    "page_id": "0025_a2",
-    "scan": "Oe_1_Bu_14525_0025_a2-L8_03.jpg",
-    "line": 971,
-    "doc_line": 77
-   },
-   {
-    "uid": "oe1bu14525-9",
-    "surface": "Grądzyń",
-    "page": 1,
-    "page_id": "0026_a2",
-    "scan": "Oe_1_Bu_14525_0026_a2-L9_01.jpg",
-    "line": 1009,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu14525-9",
-    "surface": "Grądzyń",
-    "page": 3,
-    "page_id": "0027_a2",
-    "scan": "Oe_1_Bu_14525_0027_a2-L9_03.jpg",
-    "line": 1072,
-    "doc_line": 85
-   },
-   {
-    "uid": "oe1bu14525-17",
-    "surface": "Grądzyń",
-    "page": 2,
-    "page_id": "0066_a1",
-    "scan": "Oe_1_Bu_14525_0066_a1-L17_02.jpg",
-    "line": 2009,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu14525-17",
-    "surface": "Grądzyń",
-    "page": 8,
-    "page_id": "0069_a1",
-    "scan": "Oe_1_Bu_14525_0069_a1-L17_08.jpg",
-    "line": 2132,
-    "doc_line": 154
-   },
-   {
-    "uid": "oe1bu14525-5",
-    "surface": "Grądzyń",
-    "page": 1,
-    "page_id": "0014_a2",
-    "scan": "Oe_1_Bu_14525_0014_a2-L5_01.jpg",
-    "line": 488,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu14525-5",
-    "surface": "Grądzyń",
-    "page": 3,
-    "page_id": "0015_a2",
-    "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
-    "line": 543,
-    "doc_line": 73
-   },
-   {
-    "uid": "oe1bu14525-21",
-    "surface": "Grądzyń",
-    "page": 4,
-    "page_id": "0083_a1",
-    "scan": "Oe_1_Bu_14525_0083_a1-L21_04.jpg",
-    "line": 2520,
-    "doc_line": 83
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Grądzyń",
-    "page": 6,
-    "page_id": "0265_a1",
-    "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
-    "line": 9953,
-    "doc_line": 109
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Grądzyń",
-    "page": 2,
-    "page_id": "0086_a1",
-    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
-    "line": 2707,
-    "doc_line": 59
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Grądzyń",
-    "page": 7,
-    "page_id": "0088_a2",
-    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
-    "line": 2847,
-    "doc_line": 194
-   },
-   {
-    "uid": "oe1bu9454-151",
-    "surface": "Grądzyner",
-    "page": 1,
-    "page_id": "0290_b",
-    "scan": "Oe_1_Bu_9454_0290_b-L151_01.jpg",
-    "line": 10890,
-    "doc_line": 17
-   },
-   {
-    "uid": "iharep162nr295-1",
-    "surface": "Grądzyn",
-    "page": 2,
-    "page_id": "0003_a",
-    "scan": "I_HA_Rep_162_Nr_295_0003_a-L1_02.jpg",
-    "line": 52,
-    "doc_line": 35
-   },
-   {
-    "uid": "iharep162nr295-3",
-    "surface": "Grądzyn",
-    "page": 4,
-    "page_id": "0011_a",
-    "scan": "I_HA_Rep_162_Nr_295_0011_a-L3_04.jpg",
-    "line": 263,
-    "doc_line": 75
-   },
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Grądzyń",
-    "page": 3,
-    "page_id": "0331_a2",
-    "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
-    "line": 12544,
-    "doc_line": 53
-   },
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Grądzyń",
-    "page": 4,
-    "page_id": "0332_a2",
-    "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
-    "line": 12559,
-    "doc_line": 67
-   },
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Grądzyń",
-    "page": 4,
-    "page_id": "0332_a2",
-    "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
-    "line": 12587,
-    "doc_line": 95
-   },
-   {
-    "uid": "oe1bu9454-24",
-    "surface": "Grądzin",
-    "page": 2,
-    "page_id": "0041_a2",
-    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-    "line": 1613,
-    "doc_line": 42
-   },
-   {
-    "uid": "oe1bu9454-32",
-    "surface": "Grądzyń",
-    "page": 1,
-    "page_id": "0057_b",
-    "scan": "Oe_1_Bu_9454_0057_b-L32_01.jpg",
-    "line": 2208,
-    "doc_line": 16
    }
   ]
  },

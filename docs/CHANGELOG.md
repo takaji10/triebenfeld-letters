@@ -3514,3 +3514,25 @@ lose his estates. The era page writes Konotop, not Kontop.
   them, provenance telling what was done. Both sections cite the
   rulings of 2026-10-28 and `docs/STANDFIRSTS_PLAN.md`. Nothing on the
   site changed today.
+
+## 2026-10-28 - The layout tidied; three literature-index rulings
+
+- All code under `pipeline/` (`unitlib`, `numerals`, `new_unit`,
+  `regenerate`, `verify_site` moved from the root; the pages workflow runs
+  `python pipeline/verify_site.py`); the generated dataset renamed
+  `corpus/` to `dataset/` (a holding's `units/<slug>/corpus.txt` keeps its
+  name); finished working files in `docs/archive/`; stray files removed and
+  the unreferenced `scratch/` files moved out of the project. The site's
+  output unchanged (byte-identical build). WORKING_NOTES, "The layout".
+- The editor's rulings on the literature index: Grądzeń is the modern name
+  of Grądzyń (`gradzyn` "Grądzeń" stands: Chodyła 2015, Nazwy miejscowe
+  Polski); the project's place is Kolonia Lisewo, not the village of
+  Lisewo - the register's pattern for `lisewska-kolonia` no longer matches
+  the bare "Lissewo" (Kneifel's and Breyer's filial Lissewo-Pyzdry is the
+  village), and Chodyła's "Kolonia Lisewo" stands; Breyer's "Rogaler
+  (Königsberger) Gesangbuch" is the Rogall hymn-book, not the place Rogal.
+- `dataset/` rebuilt: the register's widened Grądzyń pattern now marks
+  "Grądzień" and "Grądzimia" in ADWł 85 doc. 2, Konin Gr.145 and
+  APP 53/968/0/-/669 doc. 1. Verified: the Jekyll build and
+  `pipeline/verify_site.py` clean (630 documents character-exact, 63,056
+  internal links).

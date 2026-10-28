@@ -1964,7 +1964,9 @@ places:
     kind: settlement
     area: trabczyn-zagorow
     medieval: []
-    match: Lisewska Kolonia\w*|Lissewo\w*
+    # Kolonia Lisewo, not the village of Lisewo beside it (the editor,
+    # 2026-10-28): the bare Lissewo is the village and is not matched.
+    match: Lisewska Kolonia\w*|Kolonia Lis+ewo\w*
     tier: Source-confirmed
     variants:
     - Kolonia Lissewo

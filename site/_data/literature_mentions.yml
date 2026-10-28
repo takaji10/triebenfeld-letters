@@ -2898,6 +2898,25 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  gradzyn:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '258'
+      en: p. 258
+      de: S. 258
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '47'
+      en: p. 47
+      de: S. 47
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '146'
+      en: p. 146
+      de: S. 146
   imielno:
   - work: boniecki1900
     cite: Boniecki (1900)

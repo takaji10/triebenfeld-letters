@@ -742,6 +742,18 @@ places:
     Drzewce: yes
     Drzewiecki: "no: a surname in the list of the Pyzdry Olęders (Chodyła 2015)"
   glazewo: {Gloszewo: yes}
+  lisewska-kolonia:
+    # Chodyła (2015) p. 319 [the passage]: "wieś zwana dziś Kolonia Lisewo",
+    # founded with German Lutheran settlers in the South Prussian years, not
+    # an Olęder settlement - the colony itself. The bare "Lissewo" of Kneifel
+    # and Breyer is the village beside it and is no longer matched (the
+    # editor, 2026-10-28).
+    Kolonia Lisewo: yes
+  gradzyn:
+    # Grądzeń is the modern name of the place, Grądzyń a variant (the
+    # editor, 2026-10-28): Chodyła (2015), the list of the Olęder
+    # settlements; Nazwy miejscowe Polski, the name's history.
+    Grądzeń: yes
   heilbronn: {Heilbronn: yes}
   grodziec:
     # Added as a place 2026-10-21 (editor). Every hit read: the village near
@@ -752,6 +764,11 @@ places:
     Grodziec: yes
     Grodźca: yes
     Grodźcu: yes
+  rogal:
+    # Breyer (1935, "Mutterland") pp. 85 and 97: "des Thorner und Rogaler
+    # (Königsberger) Gesangbuches" - the Königsberg hymn-book named after
+    # the pietist Georg Friedrich Rogall, not the place.
+    Rogaler: "no: the Rogall hymn-book of Königsberg, not the place"
   rzgow:
     # Added as a place 2026-10-21 (editor). Every hit read: the village of the
     # Ląd privilege of 1261 ("Rzgowo cum sanctuariis", Breyer 1938), the

@@ -3721,6 +3721,16 @@
  },
  {
   "kind": "place",
+  "entity": "gradzyn",
+  "display": "Grądzyń",
+  "surface": "Grądzeń",
+  "work": "breyer1938",
+  "passage": "47",
+  "line": 12,
+  "context": "| 9 | Oleśnica | Olchowo | Taszewo | Grądzeń Las | Chruściki | Drzewce | 12 | 888 |"
+ },
+ {
+  "kind": "place",
   "entity": "olesnica",
   "display": "Oleśnica (Olesnice)",
   "surface": "Oleśnica",
@@ -3728,6 +3738,16 @@
   "passage": "47",
   "line": 12,
   "context": "| 9 | Oleśnica | Olchowo | Taszewo | Grądzeń Las | Chruściki | Drzewce | 12 | 888 |"
+ },
+ {
+  "kind": "place",
+  "entity": "gradzyn",
+  "display": "Grądzyń",
+  "surface": "Grądzeń",
+  "work": "breyer1938",
+  "passage": "47",
+  "line": 13,
+  "context": "|  |  | Emilienheim (Michalinow) |  | Mały Las | Grądzeń | Kopojno |  |  |"
  },
  {
   "kind": "place",
@@ -5368,6 +5388,16 @@
   "passage": "32",
   "line": 13,
   "context": "[^44]: Por. przyp. 35; APP. Tab. 21. Kalisz (Tabela podymnego z woj. kaliskiego z raty świętojańskiej 1789 r.), k. 20: 3 dymy.; Pyzdry. Gr. 115 (Tabela zsypki zbożowej z dymów samorolnych powiatów woj. kaliskiego z 1791 r.), k. 543: „Łazy” – 5 dymów (k. 543); AGAD. General Directorium Südpreussen I/1745(Tab. domów i ludności), s. 401: „ Łazy H.” – 5 domów."
+ },
+ {
+  "kind": "place",
+  "entity": "lisewska-kolonia",
+  "display": "Lisewska Kolonia",
+  "surface": "Kolonia Lisewo",
+  "work": "chodyla2015",
+  "passage": "33",
+  "line": 1,
+  "context": "na północny zachód od Lisewa, nowej osady Lisewskie Ol., zwanej też Olsz lub Olszowiec. Informacja z dwóch lustracji starostwa pyzdrskiego – z 1765 r. o okupnej wsi Lisewo na czynszach oraz z 1789 r. o gospodarzach-rolnikach i czynszownikach-chałupnikach w Lisewie i o czterech *pustkowianach kontraktowych* przy wsi Lisewo[^46], nawet przy braku wyraźnego określenia mieszkańców tej drugiej osady jako olędrów, nie podważa tezy o jej olęderskim charakterze prawnym. Pewne wątpliwości pod tym względem może budzić tylko pozostawanie jej mieszkańców na indywidualnych kontraktach (umowach). Wydaje się jednak, że było ono przejściowe i doczekali się oni zbiorowego (choć nieznanego nam) przywileju lokacyjnego, skoro i w późniejszych źródłach w nazwie tej wsi stosowano konsekwentnie dodatek Olędry. W aktach metrykalnych parafii Szymanowice spotyka się w latach 1775-1780 zapisy dotyczące mieszkańców „Lisewskich Olędrów *alias* [inaczej] Olszowiec”, etnicznie i wyznaniowo chyba mieszanych[^47] Osada ta występuje też jako *Holendry Lisewskie* na mapie K. Perthèesa. Nie była natomiast osadą olęderską (przynajmniej staropolską) wieś zwana dziś Kolonia Lisewo. Została ona założona z udziałem osadników niemieckich i luterańskich w ramach tzw. kolonizacji fryderycjańskiej w okresie tzw. Prus Południowych, w ich departamencie poznańskim, w państwowej domenie Pyzdry, jako kolonia przy folwarku Lisewo, która w 1804 r. liczyła 20 rodzin, 99 osób, z obszarem 23 łanów i 13 mórg[^48]."
  },
  {
   "kind": "place",
@@ -8484,6 +8514,26 @@
   "entity": "drzewce",
   "display": "Drzewce",
   "surface": "Drzewce",
+  "work": "chodyla2015",
+  "passage": "146",
+  "line": 5,
+  "context": "Doceniając wkład osadnictwa olęderskiego w rozwój sieci osadniczej oraz w rozwój społeczny i gospodarczy obszaru, należy je widzieć w kontekście całego osadnictwa wiejskiego, nie tylko jemu współczesnego, ale wcześniejszego i późniejszego. W latach 1794/1796-1863, w strukturze osadniczej obszaru Puszczy Pyzdrskiej zaszły bowiem kolejne zmiany. W tym okresie założono co najmniej 28 osad . Z nich do lat 40-tych XIX w. powstało co najmniej 17 osad olęderskich, a do początku lat 60-tych 11 innych osad czynszowych, a wśród nich takie, jak: Święcia, Olchowo, Emilienheim czyli Oleśnica, Michalinów, Tarszewo, Grądzeń Las, Mały Las, Chruściki, Grądzeń, Drzewce, Kopojno, Oleśnica Kolonia, Oleśnica Wielka, Zarzew w ówczesnych gminach Dąbroszyn, Oleśnica i Dłusk. Część z nich założono w okresie Prus Południowych na miejscu wsi dawnych, opustoszałych lub"
+ },
+ {
+  "kind": "place",
+  "entity": "gradzyn",
+  "display": "Grądzyń",
+  "surface": "Grądzeń",
+  "work": "chodyla2015",
+  "passage": "146",
+  "line": 5,
+  "context": "Doceniając wkład osadnictwa olęderskiego w rozwój sieci osadniczej oraz w rozwój społeczny i gospodarczy obszaru, należy je widzieć w kontekście całego osadnictwa wiejskiego, nie tylko jemu współczesnego, ale wcześniejszego i późniejszego. W latach 1794/1796-1863, w strukturze osadniczej obszaru Puszczy Pyzdrskiej zaszły bowiem kolejne zmiany. W tym okresie założono co najmniej 28 osad . Z nich do lat 40-tych XIX w. powstało co najmniej 17 osad olęderskich, a do początku lat 60-tych 11 innych osad czynszowych, a wśród nich takie, jak: Święcia, Olchowo, Emilienheim czyli Oleśnica, Michalinów, Tarszewo, Grądzeń Las, Mały Las, Chruściki, Grądzeń, Drzewce, Kopojno, Oleśnica Kolonia, Oleśnica Wielka, Zarzew w ówczesnych gminach Dąbroszyn, Oleśnica i Dłusk. Część z nich założono w okresie Prus Południowych na miejscu wsi dawnych, opustoszałych lub"
+ },
+ {
+  "kind": "place",
+  "entity": "gradzyn",
+  "display": "Grądzyń",
+  "surface": "Grądzeń",
   "work": "chodyla2015",
   "passage": "146",
   "line": 5,
@@ -33924,6 +33974,26 @@
   "entity": "drzewce",
   "display": "Drzewce",
   "surface": "Drzewce",
+  "work": "kneifel1937",
+  "passage": "258",
+  "line": 32,
+  "context": "Gmina Oleśnica, Kreis Konin: Oleśnica, Chruściki, Drzewce, Mały Las, Olchowo, Kopojno, Tarszewo, Skokum, Świątniki, Wrąbczyn, Michalinów, Augustynów, Anielewo, Grądzeń, Grądzeń Las;"
+ },
+ {
+  "kind": "place",
+  "entity": "gradzyn",
+  "display": "Grądzyń",
+  "surface": "Grądzeń",
+  "work": "kneifel1937",
+  "passage": "258",
+  "line": 32,
+  "context": "Gmina Oleśnica, Kreis Konin: Oleśnica, Chruściki, Drzewce, Mały Las, Olchowo, Kopojno, Tarszewo, Skokum, Świątniki, Wrąbczyn, Michalinów, Augustynów, Anielewo, Grądzeń, Grądzeń Las;"
+ },
+ {
+  "kind": "place",
+  "entity": "gradzyn",
+  "display": "Grądzyń",
+  "surface": "Grądzeń",
   "work": "kneifel1937",
   "passage": "258",
   "line": 32,
