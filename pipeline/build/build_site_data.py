@@ -22,6 +22,7 @@ import os as _os, sys as _sys
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import io, sys, os, json, re, csv, html, shutil, unicodedata
 from collections import Counter, defaultdict
@@ -44,7 +45,7 @@ def footnote_html(slug, lid, text):
     units/<slug>/footnotes.yml (the Kodeks Dyplomatyczny Wielkopolski, 2026-10-16)
     says where the markers stand: a piece of text with the marker in braces
     ("Mezeconis{1},"), and the beginning of each note line ("{1}Mieszko"). The
-    text itself is never changed; verify_site.py reads through this markup.
+    text itself is never changed; pipeline/verify_site.py reads through this markup.
     """
     if slug not in _FOOTNOTES:
         import yaml

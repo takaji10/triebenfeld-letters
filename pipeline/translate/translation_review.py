@@ -25,6 +25,7 @@ import os as _os, sys as _sys
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import io, os, re, sys, csv, json, shutil, argparse
 from collections import defaultdict

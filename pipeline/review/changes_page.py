@@ -33,6 +33,7 @@ import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, ROOT)
+sys.path.insert(0, os.path.join(ROOT, 'pipeline'))
 import unitlib  # noqa: E402
 
 LABEL = {'significant': 'Significant', 'fact': 'A fact', 'wording': 'Wording only'}

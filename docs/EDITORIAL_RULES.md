@@ -119,7 +119,7 @@ than where it sits.
   themselves use where they group ("36,000 rtt"). The transcription keeps the
   page's figures. Four-digit numbers are grouped only before a currency or
   measure or where they cannot be a year; years and archive numbers
-  (Nr. 12765) are not. `numerals.py`, applied by corpus_pages.py and
+  (Nr. 12765) are not. `pipeline/numerals.py`, applied by corpus_pages.py and
   english_forms.py.
 - **Catchwords** (editor, 2026-10-03): the word a scribe wrote at the foot of
   a page to announce the next stays in the transcription, because it is on the
@@ -207,7 +207,7 @@ than where it sits.
 - **Names are standardised in the English, never in the transcription.** These
   are two different questions and the distinction has to stay sharp:
     * the **transcription** is diplomatic. `pages[].diplomatic` reproduces the
-      page, and `build_site_data.verify()` and `verify_site.py` both assert a
+      page, and `build_site_data.verify()` and `pipeline/verify_site.py` both assert a
       character-exact round trip, so an accident here fails the build loudly;
     * the **English**, the display name and the entity index all use the
       canonical form, from `reference/people.yml` and `reference/places.yml`.

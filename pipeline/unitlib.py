@@ -34,7 +34,7 @@ import yaml
 # module reads with the limit raised.
 csv.field_size_limit(2 ** 31 - 1)
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 UNITS_DIR = os.path.join(ROOT, 'units')
 
 # The URL space documents live in. Was '/letters/' while the edition held
@@ -113,7 +113,7 @@ class Unit(dict):
     def permalink(self, letter_id):
         # The single generator. Everything downstream bakes this in -
         # letters.json, letters.csv, corpus/index/, the corpus text headers -
-        # so changing it needs a full regenerate.py, not --unit.
+        # so changing it needs a full pipeline/regenerate.py, not --unit.
         return f'{DOC_URL_PREFIX}/{self.slug}/{letter_id}/'
 
 
@@ -614,7 +614,7 @@ def require_fresh_corpus(*extra):
     """Refuse to spend money on German that is no longer the transcription.
 
     The transcription is authored in units/<slug>/corpus.txt; everything that
-    costs money reads corpus/letters.json, which regenerate.py derives from it.
+    costs money reads corpus/letters.json, which pipeline/regenerate.py derives from it.
     Apply a correction and translate without rebuilding in between and the model
     is handed the superseded text, pays for it, and caches the result as though
     it were finished work. That happened: letter 73 was translated twice from a
@@ -626,7 +626,7 @@ def require_fresh_corpus(*extra):
     """
     generated = os.path.join(ROOT, 'corpus', 'letters.json')
     if not os.path.isfile(generated):
-        sys.exit('corpus/letters.json is missing. Run: python regenerate.py')
+        sys.exit('corpus/letters.json is missing. Run: python pipeline/regenerate.py')
     built = os.path.getmtime(generated)
     sources = [os.path.join(u.dir, 'corpus.txt') for u in load_units()]
     sources += [os.path.join(u.dir, 'rulings.yml') for u in load_units()]
@@ -638,7 +638,7 @@ def require_fresh_corpus(*extra):
         sys.exit('corpus/letters.json is older than what it is built from:\n'
                  + '\n'.join('  ' + p for p in newer)
                  + '\nTranslating now would pay for superseded text.'
-                   '\nRun: python regenerate.py')
+                   '\nRun: python pipeline/regenerate.py')
 
 
 def load_documents(root=None):

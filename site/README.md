@@ -21,7 +21,7 @@ bundle install          # first time only
 bundle exec jekyll serve
 
 # 3. from the project root: verify the built site
-python3 ../verify_site.py
+python3 ../pipeline/verify_site.py
 ```
 
 `build_site_data.py` asserts that every generated page reproduces its corpus text

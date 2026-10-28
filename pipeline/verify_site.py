@@ -13,11 +13,12 @@ Run after `jekyll build`. Exits non-zero on any failure.
 """
 import io, sys, os, re, json, html, collections
 from collections import Counter
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, 'site', '_site')
 
 

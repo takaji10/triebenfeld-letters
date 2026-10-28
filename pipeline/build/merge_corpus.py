@@ -22,6 +22,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'pipeline'))
 import schema
 import unitlib
 
@@ -97,7 +98,7 @@ def main():
                         f'{u.slug}/{name} does not match the current schema.',
                         f'  missing:    {missing or "none"}',
                         f'  unexpected: {extra or "none"}',
-                        'A schema change needs a full `python regenerate.py`, not',
+                        'A schema change needs a full `python pipeline/regenerate.py`, not',
                         '--unit: the other holdings still carry the old columns.']))
                 header = header or h
                 rows.extend(rd)

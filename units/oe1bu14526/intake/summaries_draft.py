@@ -33,6 +33,7 @@ REF = 'Oe 1 Bü 14526'
 STAMP = 'in-session, 2026-10-08; claim-checked'
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 sys.path.insert(0, ROOT)
+sys.path.insert(0, os.path.join(ROOT, 'pipeline'))
 from numerals import group_digits  # noqa: E402  the English groups thousands, as english_forms.py does
 
 S = {

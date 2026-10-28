@@ -45,7 +45,7 @@ site/             the Jekyll site
 
 ```bash
 # 1. scaffold. PDFs must be exported to JPGs into the scans folder first.
-python new_unit.py oe1bu14525 --ref "Oe 1 Bü 14525" \
+python pipeline/new_unit.py oe1bu14525 --ref "Oe 1 Bü 14525" \
     --scans "C:/Users/Tersnaus/Downloads/Oe 1_Bue 14525"
 #    then fill in the TODOs in units/oe1bu14525/unit.yml
 
@@ -74,7 +74,7 @@ python pipeline/intake/apply_trims.py --unit oe1bu14525 \
 # 4. transcribe offline, save to units/oe1bu14525/corpus.txt
 
 # 5. build. Repeat after every edit to corpus.txt or rulings.yml.
-python regenerate.py --unit oe1bu14525
+python pipeline/regenerate.py --unit oe1bu14525
 
 # 6. work through review/oe1bu14525/*.csv, record what you settle in
 #    units/oe1bu14525/rulings.yml, and re-run step 5 until it is clean
@@ -89,7 +89,7 @@ python pipeline/translate/summarise.py --unit oe1bu14525 --build
 python pipeline/translate/summarise.py --unit oe1bu14525 --build --lang de
 
 # 8. build and verify the whole site
-python regenerate.py --site
+python pipeline/regenerate.py --site
 ```
 
 Set `status:` in `unit.yml` as you go: `draft` → `transcribed` → `translated` →
@@ -99,19 +99,19 @@ early as you like.
 ## Rebuilding
 
 ```bash
-python regenerate.py           # every transcribed unit, then merge
-python regenerate.py --site    # also build and verify the website
+python pipeline/regenerate.py           # every transcribed unit, then merge
+python pipeline/regenerate.py --site    # also build and verify the website
 cd site && bundle exec jekyll serve
 ```
 
-`regenerate.py` runs the per-unit steps in dependency order, merges the units, then
+`pipeline/regenerate.py` runs the per-unit steps in dependency order, merges the units, then
 builds the site once. Editing a `corpus.txt` shifts its line numbers, which invalidates
 that unit's line-break decisions, which changes the page structure, which changes the
 scan mapping, so the order is not optional.
 
 ## Verification
 
-`verify_site.py` checks the built HTML against `corpus/letters.json` and fails if a
+`pipeline/verify_site.py` checks the built HTML against `corpus/letters.json` and fails if a
 document is missing, if any transcription differs by one character, if an internal link
 does not resolve, or if a page fetches anything external. It runs on every deploy and a
 failure blocks publication.

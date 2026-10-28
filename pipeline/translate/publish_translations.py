@@ -8,7 +8,7 @@
 Writes site/_data/translations/<pad>.yml, which is the one place the site reads
 translations from and the one place build_site_data.py promises never to touch
 (build_site_data.py:12-13). Nothing here goes near letters.json, letters.csv,
-pages.csv, site/_letters/ or the corpus, so no verification in regenerate.py can
+pages.csv, site/_letters/ or the corpus, so no verification in pipeline/regenerate.py can
 be disturbed by anything this script does.
 
 Two safeguards worth knowing about:
@@ -29,6 +29,7 @@ import os as _os, sys as _sys
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import unitlib
 import english_forms

@@ -37,6 +37,7 @@ import os as _os, sys as _sys
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import io, sys, os, re, csv, difflib, argparse
 
@@ -323,7 +324,7 @@ def main():
                     f'- was: `{before}`\n- now: `{after}`\n'
                     f'- why: {r["why"]}\n\n')
     print(f'\nwrote {corpus_path}\nwrote {log}')
-    print('now re-run regenerate.py: line numbers have not moved, but the pages, '
+    print('now re-run pipeline/regenerate.py: line numbers have not moved, but the pages, '
           'the reading copy and the site all derive from this file')
 
 

@@ -14,6 +14,7 @@ Mechanical replacements only; see the file's header for what may go there.
 import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import os, re, sys, argparse, collections
 import yaml
@@ -63,7 +64,7 @@ def apply(text, counts=None, pad=None):
         if n and counts is not None:
             counts[r['id']] += n
         text = new
-    # Sums grouped by thousands (editor, 2026-10-03; numerals.py).
+    # Sums grouped by thousands (editor, 2026-10-03; pipeline/numerals.py).
     new = group_digits(text, pad)
     if new != text and counts is not None:
         counts['digit-groups'] += 1

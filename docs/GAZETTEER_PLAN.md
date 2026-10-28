@@ -221,7 +221,7 @@ description (title, maker, scale, holder, reference) goes into
    literature and newspapers that mention the place (from the indexes that
    exist); the A–Z list of every name on the Places page; Zagórów's page
    with its entry above its sources. The new places go into the register
-   (display and variants; no matching yet). Checks in `verify_site.py`.
+   (display and variants; no matching yet). Checks in `pipeline/verify_site.py`.
 4. **The dataset**: the downloads and the search page.
 5. **The maps** (`docs/MAPS_PLAN.md`): the labelling page, a pilot map,
    then the maps the editor chooses.

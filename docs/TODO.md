@@ -742,7 +742,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] The new Newspapers section ("Zeitungen") built on the site: the list
       page at /newspapers/, the item's page with the transcription line by
       line as printed and the English beside it, the menu entry between
-      Sources and Literature, the checks in verify_site.py
+      Sources and Literature, the checks in pipeline/verify_site.py
       (`docs/NEWSPAPERS_PLAN.md`).
 - [x] Your rulings of 2026-10-22 worked in: the clipping's source (the blog
       Zagórów w historii, its post of 2 October 2024); the rights approved;
@@ -801,7 +801,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] Zagórów is the first place: /places/zagorowo/ and
       /de/orte/zagorowo/ (`pipeline/places/place_pages.py`, layout
       `place`, the card link on both Places pages, the checks in
-      verify_site.py), bilingual like the person pages.
+      pipeline/verify_site.py), bilingual like the person pages.
 - [x] Its first source: zagorow.pl's "Miasto i gmina Zagórów" (the
       Wayback Machine's capture of 14 June 2022,
       `places/zagorowo/zagorowpl20220614/`), the text as printed, nothing
@@ -941,7 +941,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       Bartenstein ruled no), one hand-made link (p. 42, the prince's
       sale of the lordships "weit unter Wert", against the royal consent
       of 28 January 1806 to the parcelling of "Zagurowo und Trompczyn"),
-      verify_site.py ALL CHECKS PASSED.
+      pipeline/verify_site.py ALL CHECKS PASSED.
 - [x] **You:** a look at the work's page, the excerpt and the ruling
       questions in the notes (the codicil's "60/m tausendstel" above
       all), then publication at your word. **Merged to main at your
@@ -1078,7 +1078,7 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
       appearances against the text, the review notes cleared).
 - [ ] Step 3: the pages (a page per place in English and German, the A–Z
       list on the Places page, Zagórów's entry above its sources, the new
-      places into the register, the checks in verify_site.py).
+      places into the register, the checks in pipeline/verify_site.py).
 - [ ] Step 4: the dataset (JSON, CSV, the search page).
 - [ ] Step 5: the labelling page for the maps, and the first map, at your
       choice of map.

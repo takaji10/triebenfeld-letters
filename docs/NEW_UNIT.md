@@ -13,7 +13,7 @@ flag was forgotten is worse than one that stops.
 ## Before anything
 
 ```
-python new_unit.py --ref "Oe 1 Bü 14526"
+python pipeline/new_unit.py --ref "Oe 1 Bü 14526"
 ```
 
 Writes `units/<slug>/` with `unit.yml`, an empty `corpus.txt`, `rulings.yml` and
@@ -38,7 +38,7 @@ and the three fields the machine cannot infer:
   documents a statement rests on as `[[41]]` or `[[41, 44]]`; name another
   holding as `[[unit:<slug>]]`; end a paragraph that states nothing from a
   document with `<!-- context -->`. `check_unit_text.py` (run by
-  `regenerate.py`) fails on a year or a sum the cited documents do not have.
+  `pipeline/regenerate.py`) fails on a year or a sum the cited documents do not have.
   `about_de.md` and `process_de.md` are used on the German page where they
   exist; until then it shows the English and says so. A relation note or a
   date basis written in `rulings.yml` is English; its German goes in
@@ -162,7 +162,7 @@ Oe 1 Bü 9454, document 303, the older one.
 ## 2. Build, and read what it says
 
 ```
-python regenerate.py --unit <slug>
+python pipeline/regenerate.py --unit <slug>
 ```
 
 Runs the self-check, then line-break decisions, the database, and the scan
@@ -199,7 +199,7 @@ handed to the model verbatim in the prompt.
 
 Editing `rulings.yml` makes `corpus/letters.json` stale, and
 `require_fresh_corpus()` will stop the next paid step until you rebuild. Run
-`regenerate.py --unit <slug>` after this section, not after discovering it.
+`pipeline/regenerate.py --unit <slug>` after this section, not after discovering it.
 
 **Correspondents** come from `derive_correspondents.py`. Run it once, then settle
 the letters with only a sender or only a recipient from context (signature,
@@ -347,7 +347,7 @@ because the thing they guard against happened:
   `rulings.yml` is newer than the `corpus/letters.json` built from it. The tools
   read the generated file; corrections are made in the authored one. Letter 73
   was translated twice from a reading the editor had already overturned, and
-  nothing objected either time. **Always `regenerate.py` between applying
+  nothing objected either time. **Always `pipeline/regenerate.py` between applying
   corrections and translating.**
 - Each cached translation carries a `source_hash` of the exact German it was made
   from. See step 5.
@@ -380,7 +380,7 @@ So: rule on the sheets (`docs/EDITORIAL_RULES.md`), apply them —
 ```
 python pipeline/review/apply_transcription_fixes.py --unit <slug> --apply
 python pipeline/review/section_numbering.py         --unit <slug> --apply
-python regenerate.py --unit <slug>
+python pipeline/regenerate.py --unit <slug>
 ```
 
 — and only then re-translate the documents whose German actually changed. **Do
@@ -425,10 +425,10 @@ already passed every other check.
 python pipeline/translate/publish_translations.py --unit <slug> --tag <tag>
 python pipeline/build/relabel_scans.py            --unit <slug> --apply
 python pipeline/build/make_scan_derivatives.py
-python regenerate.py --unit <slug>                # twice - see below
+python pipeline/regenerate.py --unit <slug>                # twice - see below
 python pipeline/translate/summarise.py --unit <slug> --batch     # then --collect
 python pipeline/translate/summarise.py --unit <slug> --lang de --batch
-python regenerate.py --site
+python pipeline/regenerate.py --site
 ```
 
 Summaries are written from the English, so they follow it: if the translation
@@ -447,7 +447,7 @@ good text with the worse generation.
 
 ### The images are a separate publication, and they are not automatic
 
-`regenerate.py` never renames a scan and never makes a web copy. Both are
+`pipeline/regenerate.py` never renames a scan and never makes a web copy. Both are
 deliberate acts, and a holding that skips them reaches the site with every image
 link broken.
 
@@ -462,14 +462,14 @@ link broken.
 - **Then rebuild twice.** `PER_UNIT` runs `build_db.py` *before* `match_scans.py`,
   so `build_db` writes each page's `scan` field from the mapping as it stood at
   the start of the run. After a relabel the first rebuild therefore bakes in the
-  old filenames and `verify_site.py` fails on every image — 165 broken links on
+  old filenames and `pipeline/verify_site.py` fails on every image — 165 broken links on
   14525. The second pass reads the mapping the first pass rewrote and comes out
   clean. This is worth knowing rather than fixing blind: the order is load
   bearing elsewhere.
 
 ## 7. Verify
 
-`verify_site.py` runs inside `regenerate.py --site` and fails on a one-character
+`pipeline/verify_site.py` runs inside `pipeline/regenerate.py --site` and fails on a one-character
 difference, a missing document, a dead internal link, or any external fetch.
 
 Check by hand, once, that the new holding did not disturb the old one: rebuild
@@ -491,7 +491,7 @@ together (the editor reads no German; the German is written here, free).
 | The one sentence on the Sources page | `title`, `title_de` in `unit.yml` | |
 | People page: who each person is, and when they lived | `reference/people_bios.yml` | One entry per new person. Dates only for an identified historical figure, checked against a reference work; everyone else shows "documented <years>", which the build works out. |
 | Places page: the map link | `reference/places_osm.yml` | Keyed by the printed name. Only where the identification is firm. |
-| Glossary: the definitions in the documents and on the glossary page | `reference/glossary.yml` | Run `python pipeline/review/glossary_candidates.py --unit <slug>`: it lists the holding's words that may qualify and that no entry covers or `excluded:` rules out. Rule on each: an entry in English and German (each with `check_against`; Gloger's *Encyklopedia staropolska* for Polish terms), or a line under `excluded:` with the reason. Then rebuild and read the holding's rows in `review/glossary_matches.csv` for false hits, including those of existing entries. The sheet's `abbrev` and `latin` rows are the ones the termbase never offers. Once the holding is `translated`, `regenerate.py` runs `glossary_candidates.py --check` and stops on any qualifying word left unruled. See `docs/GLOSSARY_PLAN.md`. |
+| Glossary: the definitions in the documents and on the glossary page | `reference/glossary.yml` | Run `python pipeline/review/glossary_candidates.py --unit <slug>`: it lists the holding's words that may qualify and that no entry covers or `excluded:` rules out. Rule on each: an entry in English and German (each with `check_against`; Gloger's *Encyklopedia staropolska* for Polish terms), or a line under `excluded:` with the reason. Then rebuild and read the holding's rows in `review/glossary_matches.csv` for false hits, including those of existing entries. The sheet's `abbrev` and `latin` rows are the ones the termbase never offers. Once the holding is `translated`, `pipeline/regenerate.py` runs `glossary_candidates.py --check` and stops on any qualifying word left unruled. See `docs/GLOSSARY_PLAN.md`. |
 | German for a date note or a relation note | `reference/site_notes_de.yml` | Keyed by the English note exactly as it stands in `rulings.yml`. A note with no entry shows in English on the German view. |
 | Timeline | `site/_data/timeline.yml` | Add the events the holding documents that bear on the estate's owner, with `refs:` to the documents and the `_de` fields. The page runs from 1589 to 1832: every year from 1794 is a row, and a year before 1794 is a row only if it has documents or an event. Extend the range in `site/_includes/timeline.html` if a holding runs past it. |
 | The era essay and the edition guide | `site/hohenlohe.md`, `site/reading-this-edition.md` and their `site/de/` counterparts | For the era essay, follow `docs/HOHENLOHE_ERA_PLAN.md`: assign the holding to a section, add its links, and rewrite a section only where the holding changes what it says, in both languages. The edition guide names holdings and gives counts by hand; nothing checks it against the data, or the German against the English. |

@@ -26,7 +26,7 @@ files which you can use." Asked, they ruled (2026-10-22):
   Maior* only), so it is kept like Seidel (2018) and Słowiński (2023): in
   the repository for questions, the site showing only the detailed summary
   (`summary_en`, `summary_de` in `work.yml`), none of the text;
-  `verify_site.py` checks that.
+  `pipeline/verify_site.py` checks that.
 - **no pictures**: 119 of them, the editor's word, as for Słowiński 2023
   and Mielewczyk 2017; the .md names them in lines pointing at an images
   folder beside it ("Zerwane ogniwo - images", not kept in the

@@ -141,7 +141,7 @@ matters for context. So:
   is listed, with a note that it is under copyright, and has a page that
   holds only a detailed summary of its contents, written by Claude from a
   reading of the whole work (`summary_en`, `summary_de` in its `work.yml`).
-  None of its text is on the site: `verify_site.py` looks for stretches of
+  None of its text is on the site: `pipeline/verify_site.py` looks for stretches of
   it in every built file. Its passages still stay out of the index's "In
   the literature" lists and the search.
 
@@ -192,7 +192,7 @@ matters for context. So:
 
 ## 7. How the site pages are made (2026-10-19)
 
-- `pipeline/literature/literature_site.py` (a step of regenerate.py, after
+- `pipeline/literature/literature_site.py` (a step of pipeline/regenerate.py, after
   build_literature.py) reads `corpus/literature/` and writes
   `site/_data/literature.yml` (the list page) and one page per visible work
   in each language: `site/_literature/<slug>.md` (/literature/<slug>/) and
@@ -212,7 +212,7 @@ matters for context. So:
   links to their notes, headings sit two levels down, a "|" outside a table
   and a name printed as asterisks ("v. ****d") are escaped, and a line
   break inside a paragraph is kept. The script's docstring says why.
-- `verify_site.py` checks that each visible work has its two pages and that
+- `pipeline/verify_site.py` checks that each visible work has its two pages and that
   neither the slug nor the title of a hidden work appears anywhere in the
   built site. The timeline's citations "Seidel 2018, ch. ..." are allowed:
   they cite the book and give none of its text.
@@ -220,7 +220,7 @@ matters for context. So:
 ## 8. How the index is made (2026-10-19)
 
 - `pipeline/literature/literature_index.py --check` (a step of
-  regenerate.py, after literature_site.py) runs the edition's own patterns
+  pipeline/regenerate.py, after literature_site.py) runs the edition's own patterns
   for people and places (`pipeline/build/entities.py`) over the originals
   of the visible works. The English is not searched (the original decides,
   and every hit would count twice), and neither is Seidel.
@@ -274,7 +274,7 @@ matters for context. So:
   each document ("Oe 1 Bü 9454, document 85 (4 December 1798)"); it writes
   `site/_data/literature_links.yml`, from which a document's page has an
   entry "In the literature" in the box "About this document": the sentence
-  and the pages by work, in the reader's language. `verify_site.py` checks
+  and the pages by work, in the reader's language. `pipeline/verify_site.py` checks
   both sides of every link.
 - **The first four links, the black register** (26 passages, 10
   documents):
@@ -701,7 +701,7 @@ database that follow:
   for the person - here the biography, the parents, the ancestor tree, the
   marriage and the children and grandchildren - and those are shown on the
   site **in full detail**, not summarised. What the editor has not named
-  stays out of `original.md`, so the build, the index and `verify_site.py`
+  stays out of `original.md`, so the build, the index and `pipeline/verify_site.py`
   need no change for it. The script's rules are its docstring; two headings
   are the script's, not the page's (# Przodkowie, # Wnuki).
 - **The database's estimated dates are never taken into the edition's
@@ -976,7 +976,7 @@ copyright (living authors; the 2024 volume published by the Municipal
 Office in Zagórów, sold by the town's library): at the editor's word both
 are kept like Seidel (2018) - in the repository for questions, the site
 showing the detailed summary in both languages and none of the text,
-`visible: false`, verify_site.py checking that no stretch of their text
+`visible: false`, pipeline/verify_site.py checking that no stretch of their text
 appears anywhere.
 
 - **The 2023 volume** (`slowinski2023`) had been read in the earlier

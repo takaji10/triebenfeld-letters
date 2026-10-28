@@ -8,7 +8,7 @@
 # 2026-10-21 (the editor: "For each literary source that you don't publish on
 # the site, include an entry with a detailed summary of its contents") it is
 # listed, and its page holds only the summary below (summary_en, summary_de),
-# none of the text; verify_site.py checks that. Do not change this without
+# none of the text; pipeline/verify_site.py checks that. Do not change this without
 # the editor's word.
 slug: seidel2018
 visible: false
@@ -45,7 +45,7 @@ account_de: >-
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-21), written by Claude from a reading of the whole book (the English,
 # checked against the German where it matters). In its own words: no
-# stretch of the book is quoted, and verify_site.py checks that none appears.
+# stretch of the book is quoted, and pipeline/verify_site.py checks that none appears.
 summary_en: |
   A biography of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen (1746-1818), called "FL" throughout, by Hans-Joachim Seidel, who grew up in Ingelfingen. It is drawn above all from the letters and papers in the Hohenlohe Central Archive at Neuenstein, many of them quoted at length, from Adolf Fischer's history of the House of Hohenlohe (1871) and from Gerlinde Kraus's study of the Upper Silesian estates (2001). Twenty-three chapters, with "excursuses" on the background, eight appendices and a list of sources; the notes (pp. 257-266) are not transcribed in the edition's copy.
 

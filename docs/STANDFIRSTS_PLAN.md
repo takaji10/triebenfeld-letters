@@ -71,7 +71,7 @@ About-the-edition link; the footer links About twice already),
 ## Worked
 
 `build_site_data.py` (630 documents, archival lines exact), the Jekyll
-build, and `verify_site.py` (63,056 internal links, no external
+build, and `pipeline/verify_site.py` (63,056 internal links, no external
 dependencies) all clean. In the built site, no deleted string appears
 anywhere; the two kept lines render in both languages; the `.standfirst`
 class remains only on texts about the material itself.

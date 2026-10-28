@@ -221,7 +221,7 @@ unknown, get no coordinates (GAZETTEER_PLAN, section 5).
 - **The data**: the labels and coordinates go into the gazetteer's downloads
   (JSON, CSV, and GeoJSON in the Linked Places format; GAZETTEER_PLAN,
   section 7).
-- `verify_site.py`: every label's place exists, every crop exists, every
+- `pipeline/verify_site.py`: every label's place exists, every crop exists, every
   map page loads its tiles' info.json, every map named in an entry exists.
 
 ## 8. The steps

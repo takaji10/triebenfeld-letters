@@ -35,6 +35,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'pipeline'))
 import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -132,7 +133,7 @@ def main():
                     f"- was: `{SEP.join(old)}`\n- now: `{SEP.join(new)}`\n- why: {r['why']}\n")
     print(f'\nwrote {unit.corpus_path}')
     print(f'logged {log}')
-    print(f'next: python regenerate.py --unit {unit.slug}')
+    print(f'next: python pipeline/regenerate.py --unit {unit.slug}')
 
 
 if __name__ == '__main__':

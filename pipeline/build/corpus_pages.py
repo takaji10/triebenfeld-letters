@@ -31,6 +31,7 @@ import os as _os, sys as _sys
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import os, re, csv
 import sys
@@ -389,7 +390,7 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
         flags = []
         paragraphs = page_reading(page, letter_id, decisions, is_register, paras,
                                   sideways, flags)
-        # Sums grouped by thousands in the reading text only (numerals.py); the
+        # Sums grouped by thousands in the reading text only (pipeline/numerals.py); the
         # diplomatic text and the transcription keep the page's figures.
         paragraphs = [group_digits(p, slug) for p in paragraphs]
         # A paragraph runs on across a page break unless the first line of this

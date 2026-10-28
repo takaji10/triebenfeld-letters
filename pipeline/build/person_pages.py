@@ -31,7 +31,7 @@ the edition. A slip fails the build loudly:
   - every "work/passage" names a passage of a work shown on the site;
   - every uid names a document of the edition.
 
-Run as a step of regenerate.py, after literature_index.py, because the page
+Run as a step of pipeline/regenerate.py, after literature_index.py, because the page
 carries the "In the literature" list the index writes.
 
 Usage: python pipeline/build/person_pages.py [--quiet]

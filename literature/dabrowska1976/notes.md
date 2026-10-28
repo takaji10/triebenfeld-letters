@@ -20,7 +20,7 @@ holder." Claude asked how to keep it; the editor ruled (2026-10-21): "Add
 as you did with Seidel": in the public repository, with `visible: false`.
 The site lists the work and its page holds only the detailed summary in
 `work.yml` (the editor, the same day: a summary for every work not
-published), none of the text; `verify_site.py` checks that.
+published), none of the text; `pipeline/verify_site.py` checks that.
 
 ## The text
 

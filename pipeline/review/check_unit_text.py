@@ -19,13 +19,14 @@ long one is exactly where a figure gets carried over wrongly. So:
         authorities: usually an ordinary word, sometimes a name got wrong
 
 A citation covers the sentences since the citation before it in the same
-paragraph. Failures stop regenerate.py; notes are for whoever wrote the text.
+paragraph. Failures stop pipeline/regenerate.py; notes are for whoever wrote the text.
 
     python pipeline/review/check_unit_text.py [--unit <slug>]
 """
 import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 _sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__))), 'build'))
 

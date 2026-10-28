@@ -19,7 +19,7 @@ a passage or a document that does not exist, or to a work not shown.
 A work with `visible: false` (Seidel, Pinkas Hakehillot: under copyright,
 docs/LITERATURE_PLAN.md section 4) has none of its text on the site. It is
 listed, and its page holds only the detailed summary of its contents from its
-work.yml (`summary_en`, `summary_de`; the editor, 2026-10-21). verify_site.py
+work.yml (`summary_en`, `summary_de`; the editor, 2026-10-21). pipeline/verify_site.py
 holds the built site to that.
 
 A work with `parent:` (Janocki 1779, attached to Paciorkowski 1776: the

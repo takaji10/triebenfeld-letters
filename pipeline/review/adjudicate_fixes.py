@@ -35,6 +35,7 @@ measured on known answers before being turned loose on unknown ones.
 import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import io, sys, os, re, csv, json, time, argparse
 from collections import defaultdict, Counter

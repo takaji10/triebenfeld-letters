@@ -10,7 +10,7 @@ inside the front cover, 3 = 0002_a2 ...).
 
 The editor read the English against the scans and sent these corrections.
 Years shown as "1,907" were a fault of the edition's thousands grouping,
-which took only 1500-1899 for years (numerals.py, now 1500-1999); nothing in
+which took only 1500-1899 for years (pipeline/numerals.py, now 1500-1999); nothing in
 the text was changed for them.
 
 Page 35 (inside the back cover): the editor's own reading, with gaps, was

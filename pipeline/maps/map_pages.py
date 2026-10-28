@@ -29,7 +29,7 @@ pipeline/maps/import_labels.py fills; an appearance with absent: true is a
 record of a check (the place judged not to be on the map), not an
 appearance, and is shown nowhere.
 
-Run as a step of regenerate.py, after the place pages (the place pages'
+Run as a step of pipeline/regenerate.py, after the place pages (the place pages'
 layout reads place_maps.yml, which this writes).
 
 Usage: python pipeline/maps/map_pages.py [--quiet]

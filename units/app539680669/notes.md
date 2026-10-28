@@ -164,7 +164,7 @@ separated from the table of land classes. The sayings on pp. 24 and 27 keep
 their German in the English. **Page 35** was the editor's reading, completed
 from the scan: "weil", "ihn" "herausgerettet", "i. d. [Hölle?]", "[von?]",
 "Pfaffen". Years shown "1,907" were the edition's thousands grouping, now
-taking 1500 to 1999 as years (`numerals.py`).
+taking 1500 to 1999 as years (`pipeline/numerals.py`).
 
 ## The English and the summary
 

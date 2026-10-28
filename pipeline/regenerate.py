@@ -2,9 +2,9 @@
 """
 Rebuild everything from the transcriptions, in dependency order.
 
-    python regenerate.py                     every transcribed unit
-    python regenerate.py --unit oe1bu9454    one unit, then re-merge
-    python regenerate.py --site              also build and verify the website
+    python pipeline/regenerate.py                     every transcribed unit
+    python pipeline/regenerate.py --unit oe1bu9454    one unit, then re-merge
+    python pipeline/regenerate.py --site              also build and verify the website
 
 Editing a unit's corpus.txt shifts its line numbers, which invalidates that
 unit's line-break decisions (they are keyed by line number), which changes the
@@ -23,7 +23,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # run once per unit, in this order
 PER_UNIT = [
@@ -189,7 +189,7 @@ def main():
             print((p.stdout or '') + (p.stderr or ''))
             sys.exit(p.returncode)
         print('    jekyll build ok')
-        run('verify_site.py', 'website verification',
+        run('pipeline/verify_site.py', 'website verification',
             'text fidelity and link integrity')
 
     print('\nAll done.')

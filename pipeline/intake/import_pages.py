@@ -46,6 +46,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'pipeline'))
 import unitlib
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -211,7 +212,7 @@ def main():
     with open(out, 'w', encoding='utf-8', newline='\n') as f:
         f.write(text)
     print(f'\nwrote {out}')
-    print(f'next: python regenerate.py --unit {unit.slug}')
+    print(f'next: python pipeline/regenerate.py --unit {unit.slug}')
 
 
 if __name__ == '__main__':

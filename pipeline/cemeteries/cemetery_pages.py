@@ -34,7 +34,7 @@ item on the Places page's index (/places/#place-<slug>), otherwise no link
 at all - a place the gazetteer does not carry yet (Orlina Duża, Stawiszyn,
 Zbiersk Kolonia) is named without a link until its entry is in.
 
-Run as a step of regenerate.py, after place_pages.py (the place pages decide
+Run as a step of pipeline/regenerate.py, after place_pages.py (the place pages decide
 the first kind of link).
 
 Usage: python pipeline/cemeteries/cemetery_pages.py [--quiet]

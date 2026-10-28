@@ -1,7 +1,7 @@
 # One archival unit. Everything the pipeline needs to know about where this
 # material came from and how its files are named.
 #
-# Copy this shape for a new unit, or run: python new_unit.py <slug> --ref "..."
+# Copy this shape for a new unit, or run: python pipeline/new_unit.py <slug> --ref "..."
 
 slug: oe1bu9454
 ref: Oe 1 Bü 9454

@@ -20,6 +20,7 @@ import os as _os, sys as _sys
 # run directly from two levels down; make the project root importable
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 import unitlib
 
 # The scans live outside the project. Which unit to work on comes from

@@ -14,7 +14,7 @@ and writes, all generated:
                                  false hits before publishing
 
 The German in the built pages is not touched: the page's script wraps the words
-when it opens, so verify_site.py's character-exact check is unaffected.
+when it opens, so pipeline/verify_site.py's character-exact check is unaffected.
 
 Rules (docs/GLOSSARY_PLAN.md): the first hit of an entry on a manuscript page
 is marked, once per view; not a word split across lines, nor one under a [?]

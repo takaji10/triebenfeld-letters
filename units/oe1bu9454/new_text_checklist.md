@@ -108,9 +108,9 @@ reason) into the sheet `apply_transcription_fixes.py --apply` applies and logs.
 
 ## 7. Rebuild and verify
 
-- Run `python regenerate.py`. If it prints `!!`, read the log: the pipeline
+- Run `python pipeline/regenerate.py`. If it prints `!!`, read the log: the pipeline
   self-check stops the build.
-- About 30 s later, run `python verify_site.py`: ALL CHECKS PASSED.
+- About 30 s later, run `python pipeline/verify_site.py`: ALL CHECKS PASSED.
 - If a new line fell into a dateline, check that the letter's date, place and
   sender are unchanged in `corpus/letters.json`.
 

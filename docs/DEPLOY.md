@@ -18,9 +18,9 @@ serve it, so it carries the whole chain:
 | `reference/` | glossary, name rulings, place canon, shared across units |
 | `corpus/` | the merged, generated database |
 | `site/` | the Jekyll site and the scan derivatives |
-| `regenerate.py`, `verify_site.py`, `unitlib.py`, `new_unit.py` | entry points |
+| `pipeline/regenerate.py`, `pipeline/verify_site.py`, `pipeline/unitlib.py`, `pipeline/new_unit.py` | entry points |
 
-`corpus/letters.json` and `verify_site.py` are what make the deploy gate
+`corpus/letters.json` and `pipeline/verify_site.py` are what make the deploy gate
 possible: the workflow uses them to prove the published text is
 character-identical to the transcription.
 
@@ -44,7 +44,7 @@ where.
 Pages builder only reads a Jekyll site from the repository root or `/docs`, and
 this one lives in `site/`, so the build is explicit.
 
-The workflow runs `verify_site.py` against the built HTML **before** deploying, so
+The workflow runs `pipeline/verify_site.py` against the built HTML **before** deploying, so
 a build whose diplomatic text has drifted from the corpus, or whose links no
 longer resolve, fails instead of publishing.
 

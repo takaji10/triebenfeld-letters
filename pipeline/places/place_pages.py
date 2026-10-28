@@ -32,7 +32,7 @@ same slug its card on the Places page carries; the build fails loudly if it
 is neither an estate of the edition nor a place of the gazetteer, so a
 misspelt slug cannot make an orphan page (docs/PLACES_PLAN.md, section 7:
 the widened index).
-Run as a step of regenerate.py, after build_site_data.py (the estates) and
+Run as a step of pipeline/regenerate.py, after build_site_data.py (the estates) and
 beside person_pages.py.
 
 Usage: python pipeline/places/place_pages.py [--quiet]

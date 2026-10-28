@@ -10,7 +10,7 @@ underneath it:
     rows.extend(rd)
 
 which is correct exactly as long as no two units ever disagree. Adding a field
-and rebuilding one unit - `python regenerate.py --unit oe1bu9454` - leaves the
+and rebuilding one unit - `python pipeline/regenerate.py --unit oe1bu9454` - leaves the
 other unit's letters.csv on disk with the old columns, and the merge then writes
 one holding's `text` under another holding's `is_missing`. No error, no warning,
 and the damage is only visible if you happen to read the merged file.

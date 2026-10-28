@@ -17,7 +17,7 @@
 # Maior only). The editor ruled (2026-10-22) that it is kept like Seidel
 # (2018) and Słowiński (2023): in the repository for questions, the site
 # showing only the detailed summary below (summary_en, summary_de), none of
-# the text; verify_site.py checks that. Do not change this without the
+# the text; pipeline/verify_site.py checks that. Do not change this without the
 # editor's word.
 slug: slowinskipolom2024
 visible: false
@@ -85,7 +85,7 @@ account_de: >-
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-22), written by Claude from a reading of the whole book (the
 # English, checked against the Polish where it matters). In its own words:
-# no stretch of the book is quoted, and verify_site.py checks that none
+# no stretch of the book is quoted, and pipeline/verify_site.py checks that none
 # appears. The editor's balance rule for this book: the Zagórów / Trąbczyn /
 # Łazińsk ground and its people in detail; what lies off it named briefly,
 # by its chapter, without calling out its people (the word recorded in the

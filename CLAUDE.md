@@ -82,14 +82,14 @@ so check them.
 3. Rebuild and verify: `python3 pipeline/build/build_site_data.py`,
    `cd site && bundle exec jekyll build` (gems: `bundle config set --local
    path vendor/bundle && bundle install` first in a fresh container),
-   `python3 verify_site.py`. Commit, and update `docs/NEEDS_CONFIRMATION.md`
+   `python3 pipeline/verify_site.py`. Commit, and update `docs/NEEDS_CONFIRMATION.md`
    (Glossary section) and the changelog.
 
 ## How this project is worked
 
 - **Branch and publishing.** Develop on the session's branch. The live site
   (https://takaji10.github.io/triebenfeld-letters/) is built from `main` by
-  `.github/workflows/pages.yml`, which runs `verify_site.py` as a gate. To
+  `.github/workflows/pages.yml`, which runs `pipeline/verify_site.py` as a gate. To
   publish, fast-forward `main` to the branch and push, then confirm the
   "Build and deploy" run succeeded. Publish only when the editor says so.
 - **Line endings.** Every text file is LF, on the desktop and in the cloud
@@ -99,7 +99,7 @@ so check them.
 - **Not in the repository:** `review/` (generated sheets), `cache/` (model
   output, on the editor's machine), raw scans. There is no Anthropic API key
   here: paid runs (translate.py, summarise.py, read_letters.py) happen on the
-  editor's machine. `regenerate.py` cannot run end to end in the cloud (its
+  editor's machine. `pipeline/regenerate.py` cannot run end to end in the cloud (its
   early steps fetch from DWDS and write into `review/`); run the later steps
   directly.
 - **Fixing the English** without re-translating: rules go in
@@ -111,7 +111,7 @@ so check them.
 - **The glossary** (`reference/glossary.yml`, plan in `docs/GLOSSARY_PLAN.md`):
   English and German written separately; read every new pattern against its
   matches in `review/glossary_matches.csv` before publishing.
-  `glossary_candidates.py --check` is a gate in regenerate.py: a translated
+  `glossary_candidates.py --check` is a gate in pipeline/regenerate.py: a translated
   holding's qualifying words must each be an entry or ruled out under
   `excluded:` with a reason.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
@@ -344,7 +344,7 @@ so check them.
   slips („Zransact", the "(1792-1822)" of Hardenberg, "Vollblütigkeit",
   the codicil's "60/m tausendstel") written out in the notes. The book is
   in copyright: with the summary-only rule named, you ruled "Full text, at
-  my word" - the third full-text exception. Index ruled; verify_site.py's
+  my word" - the third full-text exception. Index ruled; pipeline/verify_site.py's
   leak check skips shown works' own pages (the shared letter of 1811 with
   the hidden Seidel). `docs/LITERATURE_PLAN.md`, section 27. Read
   `literature/ostensacken2001/notes.md` first. Published 2026-10-23.
@@ -392,7 +392,7 @@ so check them.
   editor's checked Polish and English Markdown exports, both under
   copyright and kept like Seidel (2018) - in the repository for questions,
   the site showing only the detailed summary, `visible: false`,
-  verify_site.py checking no stretch of the text appears. The 2024 intake
+  pipeline/verify_site.py checking no stretch of the text appears. The 2024 intake
   (`pipeline/literature/slowinskipolom_md.py`) returns on the export's
   repeated page marks round the picture plates; 0 PDF pages differ. The
   2023 folder committed now; its English is the editor's own files (the
@@ -409,7 +409,7 @@ so check them.
   place"). Built like the newspapers' machinery
   (`pipeline/places/place_pages.py`, collections `places`/`places_de`,
   layout `place`, one viewbar for the whole page, the card link, the checks
-  in verify_site.py), bilingual like the person pages; a place page hangs
+  in pipeline/verify_site.py), bilingual like the person pages; a place page hangs
   on an estate card and the build fails loudly if its slug is no estate.
   The first place is Zagórów (/places/zagorowo/, /de/orte/zagorowo/); its
   first source `zagorowpl20220614` is the town's own presentation on
@@ -488,7 +488,7 @@ so check them.
   fact, the documents, the literature), built by
   `pipeline/build/person_pages.py` after the website data and the index,
   layout `person`, both languages, linked from the People page; checked by
-  verify_site.py. The pilot: /people/prusimski/
+  pipeline/verify_site.py. The pilot: /people/prusimski/
   (/de/personen/prusimski/), with the life-line 1744-ca 1806 (accepted;
   the "ca" open, NEEDS_CONFIRMATION). Read
   `literature/minakowska2026prusimski/notes.md` first. The database's
@@ -698,7 +698,7 @@ so check them.
   `visible: false` is listed on the Literature page and its page holds only
   `summary_en`/`summary_de` from its `work.yml`, written by Claude from a
   reading of the whole work; `literature_site.py` stops on one without
-  them, and `verify_site.py` checks that no stretch of its text is on the
+  them, and `pipeline/verify_site.py` checks that no stretch of its text is on the
   site. Two such works: **Seidel (2018)** and **Pinkas Hakehillot (1976)**
   (`dabrowska1976`, added 2026-10-21: JewishGen's English of the entries
   Zagórów, Pyzdry and Konin, kept as Seidel at the editor's word).
@@ -793,10 +793,10 @@ so check them.
   six books about the sources, original and English (Claude's), in
   `literature/`, cut page by page into `corpus/literature/` by
   `pipeline/literature/build_literature.py`, and shown at /literature/ by
-  `pipeline/literature/literature_site.py` (both steps of regenerate.py).
+  `pipeline/literature/literature_site.py` (both steps of pipeline/regenerate.py).
   Plan, layout and next steps: `docs/LITERATURE_PLAN.md`; each work's
   `notes.md` first. Seidel (2018) stays off the site (`visible: false`,
-  editor; verify_site.py checks it). The index of people and estates over
+  editor; pipeline/verify_site.py checks it). The index of people and estates over
   the passages is built (plan, section 8): every hit read and ruled in
   `literature/index.yml`, an "In the literature" list on /people/ and
   /places/; the editor accepted Claude's five identifications. The first

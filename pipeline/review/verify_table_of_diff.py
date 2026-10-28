@@ -23,12 +23,13 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))))
 sys.path.insert(0, ROOT)
+sys.path.insert(0, os.path.join(ROOT, 'pipeline'))
 import unitlib as NEW            # the worktree's changed version
 import yaml
 
 # the pristine version, from HEAD, under another name
 pristine_src = subprocess.run(
-    ['git', '-C', ROOT, 'show', 'HEAD:unitlib.py'],
+    ['git', '-C', ROOT, 'show', 'HEAD:pipeline/unitlib.py'],
     capture_output=True, text=True, encoding='utf-8', check=True).stdout
 p = os.path.join(os.environ.get('TEMP', os.path.join(ROOT, 'scratch')),
                  'unitlib_pristine_tableof.py')

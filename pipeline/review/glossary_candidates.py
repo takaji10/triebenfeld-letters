@@ -30,7 +30,7 @@ A candidate already covered by reference/glossary.yml (an entry, or a ruling
 under `excluded:`) is marked so; with --unit only the uncovered ones are
 listed, which is the new holding's work.
 
---check is the gate regenerate.py runs (docs/GLOSSARY_PLAN.md, section 5). It
+--check is the gate pipeline/regenerate.py runs (docs/GLOSSARY_PLAN.md, section 5). It
 takes the holdings whose unit.yml status is translated or published, and fails
 if any word they contain from the termbase, abbreviation or Latin probes, in
 3 documents or more, is neither an entry nor ruled out. The rarity probe and
@@ -41,6 +41,7 @@ held to it until it is translated.
 import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import os, re, sys, csv, json, argparse, collections
 import yaml

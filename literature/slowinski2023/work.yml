@@ -16,7 +16,7 @@
 # it, no open-access copy found). The editor ruled (2026-10-22) that it is
 # kept like Seidel (2018): in the repository for questions, the site showing
 # only the detailed summary below (summary_en, summary_de), none of the text;
-# verify_site.py checks that. Do not change this without the editor's word.
+# pipeline/verify_site.py checks that. Do not change this without the editor's word.
 slug: slowinski2023
 visible: false
 kind: book
@@ -81,7 +81,7 @@ account_de: >-
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-22), written by Claude from a reading of the whole book (the
 # English, checked against the Polish where it matters). In its own words: no
-# stretch of the book is quoted, and verify_site.py checks that none appears.
+# stretch of the book is quoted, and pipeline/verify_site.py checks that none appears.
 summary_en: |
   A book of 96 PDF pages (printed pp. 7-101 and unnumbered leaves) by Mirosław Słowiński, Konin 2023, with the epigraph "Manuscripts do not burn" - Woland's word from Bulgakov's Master and Margarita. It edits a wall cache of letters found in the former cantor's house at Łazińsk and discusses them from the position of a regional historian; Scripture epigraphs from the Warsaw Bible of 1975 head each group of the letters (Psalm 25:4, 146:2, 18:36, 17:5, 71:1 among them). Twenty-five photographs of German soldiers under Petsamo/Pieczenga, from public-domain veteran archives of the Alpine countries, stand between the pages; their authors could not be traced.
 

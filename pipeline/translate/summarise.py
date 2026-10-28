@@ -14,13 +14,14 @@ transcription would be, and it costs a fraction as much.
 
 Summaries are a finding aid, not part of the edition's text. They live in
 site/_data/summaries.yml, which nothing else generates, and they never touch
-the corpus, letters.json, or anything regenerate.py rebuilds.
+the corpus, letters.json, or anything pipeline/regenerate.py rebuilds.
 """
 import os as _os, sys as _sys
 # pipeline scripts are run directly from two levels down; make the project
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import unitlib
 import io, os, re, sys, json, time, argparse

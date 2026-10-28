@@ -24,7 +24,7 @@ could not parse instead of inventing sense, and its guesses at what the German
 the site displays. check_translations.py then verifies mechanically that every
 numeral, every settled name and every mark of doubt survived the crossing.
 
-Nothing here writes to the corpus, letters.json, or anything regenerate.py
+Nothing here writes to the corpus, letters.json, or anything pipeline/regenerate.py
 rebuilds. Output goes to translation-raw/, and only publish_translations.py
 moves it into site/_data/translations/.
 """
@@ -33,6 +33,7 @@ import os as _os, sys as _sys
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import io, os, re, sys, csv, json, time, argparse
 

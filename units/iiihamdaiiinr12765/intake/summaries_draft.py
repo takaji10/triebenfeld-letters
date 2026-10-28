@@ -23,6 +23,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 UNIT_DIR = os.path.dirname(HERE)
 ROOT = os.path.dirname(os.path.dirname(UNIT_DIR))
 sys.path.insert(0, ROOT)
+sys.path.insert(0, os.path.join(ROOT, 'pipeline'))
 sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'review'))
 
 S = {

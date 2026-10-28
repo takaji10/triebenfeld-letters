@@ -2,7 +2,7 @@
 """
 Scaffold a new archival unit.
 
-    python new_unit.py oe1bu14525 --ref "Oe 1 Bü 14525" \
+    python pipeline/new_unit.py oe1bu14525 --ref "Oe 1 Bü 14525" \
         --scans "C:/Users/Tersnaus/Downloads/Oe 1_Bue 14525"
 
 Creates units/<slug>/ with unit.yml, an empty corpus.txt, an empty rulings.yml
@@ -11,7 +11,7 @@ picks the unit up on the next run.
 
 With --ref alone the slug is derived from it, so this also works:
 
-    python new_unit.py --ref "Oe 1 U 199" --scans ".../Oe 1_U 199"
+    python pipeline/new_unit.py --ref "Oe 1 U 199" --scans ".../Oe 1_U 199"
 """
 import argparse
 import io
@@ -206,7 +206,7 @@ def main():
     print(f'    2. python pipeline/intake/crop_scans.py --unit {slug}')
     print(f'    3. python pipeline/intake/split_spreads.py --unit {slug} --auto')
     print(f'    4. transcribe, and save to units/{slug}/corpus.txt')
-    print(f'    5. python regenerate.py --unit {slug}')
+    print(f'    5. python pipeline/regenerate.py --unit {slug}')
 
 
 if __name__ == '__main__':

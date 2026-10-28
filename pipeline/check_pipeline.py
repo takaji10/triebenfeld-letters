@@ -89,7 +89,7 @@ def code_lines(path):
     return out
 
 
-# A field new_unit.py scaffolds and the editor is meant to replace. The first
+# A field pipeline/new_unit.py scaffolds and the editor is meant to replace. The first
 # two are read by translate.py's unit_preamble() and open the prompt for both
 # the translator and the summariser, so a placeholder left in one is not a
 # cosmetic lapse: it is paid for, once per document, and leaves no mark on the
@@ -103,7 +103,7 @@ def scaffolded_fields(root):
     """(slug, field) for every unit.yml still holding a placeholder.
 
     Only for holdings with a transcription. A unit whose corpus.txt is empty is
-    scaffolding and is meant to read TODO - new_unit.py just wrote it - so
+    scaffolding and is meant to read TODO - pipeline/new_unit.py just wrote it - so
     failing the build there would make the tool that creates a holding unusable.
     """
     import yaml

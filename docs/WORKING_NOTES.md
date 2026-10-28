@@ -103,7 +103,7 @@ Where the rest is:
   summarise.py, read_letters.py, a batch) without the editor's agreement to
   that run. Approval of one pass is not approval of the next, even when the
   next is the obvious continuation. Say what a run would cost and wait. Free
-  checks (check_translations.py, regenerate.py, any `--dry-run`) need no
+  checks (check_translations.py, pipeline/regenerate.py, any `--dry-run`) need no
   permission and should not be held up for it.
 - **Work in the session before paying.** Since 2026-10-04 holdings have been
   translated, summarised and claim-checked in the session, not by a paid run
@@ -577,7 +577,7 @@ Where the rest is:
   it is made line by line from the corpus text (which carries every earlier
   ruling), the new transcription and the new scan, the scan deciding. Then,
   in this order: the images (archive folder, `pages/`, the two scan maps),
-  `regenerate.py --unit`, a diff of the letter's front matter against HEAD
+  `pipeline/regenerate.py --unit`, a diff of the letter's front matter against HEAD
   (date, place, sender must not move), the English (`doc<N>.yml`,
   `write_cache.py`, publish with the holding's tag, diff: only those
   letters), the summaries, the `rough` list, the count of marks of doubt.
@@ -905,7 +905,7 @@ Where the rest is:
   is one heading row, not a title. Before that, the title of the Łazińsk
   table and its totals page were missing from the table view, and the
   English publish stopped (`KeyError`). The other tables render byte for
-  byte as before: compare `render_table` against `git show HEAD:unitlib.py`
+  byte as before: compare `render_table` against `git show HEAD:pipeline/unitlib.py`
   for every table page after any change to it.
 - **An English table cell with a figure inside words** ("To the landowner
   4420 roubles 53 kopecks") must be quoted in the CSV: the house forms make
@@ -980,7 +980,7 @@ Where the rest is:
   then stopped on a pattern in the English, and could not be run again. And
   quote a word, not a phrase: the texts in `text85.py` are Python strings
   wrapped across lines, so a phrase may span a line break and match nothing.
-- **Run `check_translations.py` after `regenerate.py`, not before.** Run on
+- **Run `check_translations.py` after `pipeline/regenerate.py`, not before.** Run on
   the old `corpus/letters.json`, it reported five false marker-count rows
   for marks the editor had just settled.
 - **A note without a button can carry the answer** ("Maybe Ułazwany, if
@@ -1040,13 +1040,13 @@ Where the rest is:
   footnotes.yml` records each mark as a piece of text with the mark in
   braces (`"Mezeconis{1},"`) and each note line by its start (`"{1}Mieszko"`);
   `build_site_data.footnote_html()` raises them on the site, and both
-  verifications (build_site_data's and `verify_site.py`, `FN_MARKUP`) strip
+  verifications (build_site_data's and `pipeline/verify_site.py`, `FN_MARKUP`) strip
   that markup before comparing the text. A mark with no note, or a note
   with no mark, goes under `unmatched:` with the reason. The holding's
   `intake/check_footnotes.py` checks every mark and note is found once.
 - **The figures of a medieval holding are years** (2026-10-16). The
   reading text and the English group four-digit numbers by thousands
-  unless they can be a year, which `numerals.py` took to mean 1500 to 1999:
+  unless they can be a year, which `pipeline/numerals.py` took to mean 1500 to 1999:
   the Kodeks's 1411 became "1,411". A holding whose documents are older is
   named in `numerals.YEARS_FROM` (`kdw: 1100`), and the slug or document id
   is passed down (`build_pages(slug=)`, `english_forms.apply(pad=)`).
@@ -1107,10 +1107,10 @@ Where the rest is:
   Osiny and Łazy). The place index matches the name only where it is certain
   (`reference/places.yml`, `nowawies-trabczyn`). The same care for any
   common name (Łazy, Osiny, Wola).
-- **A new holding needs `regenerate.py --unit <slug>` twice after
+- **A new holding needs `pipeline/regenerate.py --unit <slug>` twice after
   `relabel_scans.py --apply`**: its database step runs before the scan step
   refreshes `page_scan_map.csv`, so the first run keeps the unlabelled image
-  names and `verify_site.py` fails on broken `/assets/scans/` links. Make
+  names and `pipeline/verify_site.py` fails on broken `/assets/scans/` links. Make
   `review/<slug>/` before the first run (the line-break report fails
   without it).
 
@@ -1150,7 +1150,7 @@ Where the rest is:
   your step needs (`cache/translation-raw/<slug>-*.json`), and remove the
   checkout when done. Rebuilding in the shared folder would put the other
   session's half-built holding into your generated files. **`pages/` is not
-  in the repository**: a fresh checkout has none, and `regenerate.py --site`
+  in the repository**: a fresh checkout has none, and `pipeline/regenerate.py --site`
   then rewrites every holding's `page_scan_map.csv` with empty images
   ("gap"). Copy the whole of `pages/` in, or run only `--unit <slug>` and
   the later site steps there, and look at `git show --stat` before pushing
@@ -1177,9 +1177,9 @@ Where the rest is:
 - **Another session may be building a holding in the same folder** (an
   untracked `units/agad118501169/` on 2026-10-21). Commit only your own
   holding's paths, never with `git add -A`. Its half-done work can stop
-  `regenerate.py --site` (a literature index with hits not yet ruled, a
+  `pipeline/regenerate.py --site` (a literature index with hits not yet ruled, a
   file locked while it rebuilds): run `build_site_data.py`, the Jekyll
-  build and `verify_site.py` directly, and leave the generated files that
+  build and `pipeline/verify_site.py` directly, and leave the generated files that
   carry its work (`git diff | grep` its slug) unstaged.
 
 ## Merging a cloud branch on the desktop
@@ -1203,7 +1203,7 @@ cloud branches").
   files as well, and leaves the committed files unchanged (check with
   `git status`). Corrections to the English made there are in
   `reference/english_corrections.yml` and survive a republish.
-- **Then rebuild each holding the branch touched** (`regenerate.py --unit
+- **Then rebuild each holding the branch touched** (`pipeline/regenerate.py --unit
   <slug>`), the site once, and read `git status` for files of any other
   holding.
 - `relabel_scans.py` reports three labels to update in Oe 1 Bü 14526
@@ -1222,7 +1222,7 @@ cloud branches").
   in a heredoc'd Python patch lost a backslash, and "\1" became a control
   character in reference/maps.yml. Paths in data files use forward
   slashes, which Python and PyYAML read on Windows.
-- **`regenerate.py` has no `--help`**: it ignores unknown arguments and
+- **`pipeline/regenerate.py` has no `--help`**: it ignores unknown arguments and
   rebuilds every holding (it was started that way by mistake on
   2026-10-16 and stopped; nothing tracked changed). Read its docstring
   instead (`--unit <slug>`, `--site`).
@@ -1440,7 +1440,7 @@ cloud branches").
 - **Two Liquid traps of the newspapers pages** (2026-10-22). Liquid counts
   the empty string as true: `{% if w.image %}` rendered the figure for an
   item whose `image:` is empty, with the file name empty after it, and
-  verify_site.py caught the broken link — the comparison is explicit now
+  pipeline/verify_site.py caught the broken link — the comparison is explicit now
   (`{% if w.image and w.image != '' %}`, `_layouts/newspaper.html`). And
   Liquid cannot build a bracket key by concatenation:
   `t['lit_lang_' + w.language]` is nil, which left the Language fact of
@@ -2063,7 +2063,7 @@ cloud branches").
 - **A new estate in focus needs the literature index run twice**
   (2026-10-21). `literature_index.py` lists the literature only for the
   places in `site/_data/estates.yml`, which `build_site_data.py` writes
-  after it (the order in regenerate.py too). After tagging a new estate,
+  after it (the order in pipeline/regenerate.py too). After tagging a new estate,
   run `literature_index.py` again once the site data is built, then
   Jekyll: otherwise its card on the Places page has no literature (Rzgów).
 - **Look at the branch before committing** (2026-10-21). The checkout was
@@ -2090,7 +2090,7 @@ cloud branches").
   page holds only `summary_en`/`summary_de` from its `work.yml`. Write the
   summary from a reading of the whole work, in your own words, chapter by
   chapter for a book, with a last section on where the edition's documents
-  say otherwise; never quote stretches of the text (`verify_site.py` looks
+  say otherwise; never quote stretches of the text (`pipeline/verify_site.py` looks
   for them on the whole site). A long German summary goes into a file
   written with the Write tool and is appended from there: a heredoc breaks
   on an apostrophe ("Kraus' Untersuchung").
@@ -2109,7 +2109,7 @@ cloud branches").
   Latin term needing an entry (partium, quibus, Judicium) and stopped the
   build at the third such holding. It now skips documents whose language
   is `la`. A Latin phrase inside a German or Polish document still counts.
-- **`new_unit.py` makes `units/<digits>/`.** Rename it to `app<digits>`
+- **`pipeline/new_unit.py` makes `units/<digits>/`.** Rename it to `app<digits>`
   before writing anything into the new name, or two folders exist.
 
 - **A Python script typed into the shell loses its backslashes**, even
@@ -2118,14 +2118,14 @@ cloud branches").
   tool and run that. (Happened three times on 2026-10-06.)
 
 - **One very long document** (31,000 words) broke the merge: Python's CSV
-  reader refuses a field over 131,072 characters. `unitlib.py` now raises
+  reader refuses a field over 131,072 characters. `pipeline/unitlib.py` now raises
   the limit for every script that imports it; a script that reads
   `letters.csv` without importing `unitlib` must raise it itself.
 - **A new holding's folder is named `app<digits>` for Poznań** like the
-  others; `new_unit.py` does not add the prefix. Rename the folder and set
+  others; `pipeline/new_unit.py` does not add the prefix. Rename the folder and set
   `slug` before anything is built. `review/<slug>/` must exist before the
-  first `regenerate.py --unit`.
-- **`python regenerate.py --help` prints no help.** It runs the whole pipeline
+  first `pipeline/regenerate.py --unit`.
+- **`python pipeline/regenerate.py --help` prints no help.** It runs the whole pipeline
   for every holding. `--site` also rebuilds every holding first. Use
   `--unit <slug>` for one, then `--site` once at the end.
 - **After any full rebuild read `git status`** for files of holdings that were
@@ -2152,7 +2152,7 @@ cloud branches").
     `git blame` skips it.
   - Before it went to `main`, everything was rebuilt on the branch (every
     holding's `build_db.py`, the merge and site steps, Jekyll,
-    `verify_site.py`) and the 9135 generated files were hashed before and
+    `pipeline/verify_site.py`) and the 9135 generated files were hashed before and
     after with CR LF counted as LF: none differed.
   - `build_db.py` and `merge_corpus.py` now write LF (`newline='\n'` for
     text and JSON, `lineterminator='\n'` for `csv`). **A new script that
@@ -2273,7 +2273,7 @@ cloud branches").
 |---|---|---|
 | Raw scans, `review/`, `cache/` | present | absent |
 | Paid runs | possible, at the editor's word | not possible (no key) |
-| `regenerate.py` end to end | yes | no: run the later steps directly (`CLAUDE.md`) |
+| `pipeline/regenerate.py` end to end | yes | no: run the later steps directly (`CLAUDE.md`) |
 | Claude's memory folder | yes | no: this file is the copy |
 
 - Start every session with `git fetch` and `git status -sb`: the other kind of
@@ -2359,7 +2359,7 @@ cloud branches").
   Check that the target line is not on the bottom edge, not only that it is
   in the picture.
 - **Years after 1899 were grouped as sums** ("1,907") until 2026-10-14:
-  `numerals.py` took only 1500-1899 as years, and the edition had reached
+  `pipeline/numerals.py` took only 1500-1899 as years, and the edition had reached
   the twentieth century. When an era or a holding extends the edition's
   range of dates, check the numerals rule.
 - **`english_forms.py --apply` runs on every English summary**, and a place
@@ -2401,7 +2401,7 @@ cloud branches").
   generated page dirs are collections: `_literature*`, `_newspapers*`,
   now `_people*`.
 - **`person_pages.py` runs after build_site_data** (2026-10-22), in
-  regenerate.py's MERGED order, because it reads the generated
+  pipeline/regenerate.py's MERGED order, because it reads the generated
   `site/_data/people.yml` and the index's `literature_mentions.yml` and
   writes the genealogy the layout renders. Editing `reference/genealogy.yml`
   alone is not enough: run the script (or regenerate) before building the
@@ -2576,7 +2576,7 @@ cloud branches").
   moves while you work - fetch and merge immediately before pushing, and
   expect a second merge if the other session pushes in between. Resolve a
   generated-file conflict by taking either side and rebuilding
-  (`regenerate.py --site` rewrites them all), but anything spliced into
+  (`pipeline/regenerate.py --site` rewrites them all), but anything spliced into
   those files by hand goes with the side you took: this holding's summary
   lines vanished with `site/_data/summaries*.yml` taken from the other
   side, and `holding.py --summaries` had to be run again. The guide's

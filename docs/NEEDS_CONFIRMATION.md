@@ -1423,7 +1423,7 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   and whether "Sądy te narastały nierównomiernie" means the records grew
   unevenly, as translated.
 - **Candidates.** Every word the gate covers is ruled (2026-10-02): 108
-  entries, 98 ruled out with reasons, and `regenerate.py` now fails if a
+  entries, 98 ruled out with reasons, and `pipeline/regenerate.py` now fails if a
   translated holding brings an unruled one. What the gate leaves out, the
   rarity probe's words and the timeline's events, can still be read in
   `review/glossary_candidates.csv` for anything worth an entry.

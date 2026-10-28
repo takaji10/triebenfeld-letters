@@ -40,11 +40,11 @@ in stays in `docs/ADDING_A_MAP.md`.
   the labelling page): the viewer takes its copy from there, no outside
   dependency.
 - **Nothing of the maps is on the site yet**: no nav entry, no `u_maps` in
-  `site/_includes/urls.html`, no map checks in `verify_site.py`.
+  `site/_includes/urls.html`, no map checks in `pipeline/verify_site.py`.
 - **The workflow builds Jekyll only** (`.github/workflows/pages.yml`): the
   Python build steps are not run there, so every generated file the site
   reads is committed — `site/_data/*.yml` and the generated pages are, and
-  the maps' will be too. `verify_site.py` makes no external requests, so its
+  the maps' will be too. `pipeline/verify_site.py` makes no external requests, so its
   checks read the repository, not the tiles' host.
 
 ## 2. The pages
@@ -179,7 +179,7 @@ With it:
   stands — the register's own rule;
 - the generated files committed, as the place pages' are.
 
-## 6. The checks (`verify_site.py`)
+## 6. The checks (`pipeline/verify_site.py`)
 
 - every in-project map's page exists in both languages and names its tiles
   URL, which matches the register's `tiles:` (a path check on the string,
@@ -206,8 +206,8 @@ With it:
    markers in `places.html`.
 6. `lukom1766` to `in_project: true`; the map's `notes.md` updated; the
    changelog.
-7. The checks of section 6 into `verify_site.py`; a local Jekyll build;
-   `verify_site.py` clean; `/maps/`, `/maps/lukom1766/`, a place page and
+7. The checks of section 6 into `pipeline/verify_site.py`; a local Jekyll build;
+   `pipeline/verify_site.py` clean; `/maps/`, `/maps/lukom1766/`, a place page and
    the index looked at.
 8. Commit on `maps-site`. **Publishing stays the editor's word** (CLAUDE.md,
    "Branch and publishing"): fast-forward `main`, push, confirm the

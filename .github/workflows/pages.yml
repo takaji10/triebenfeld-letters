@@ -2,7 +2,7 @@
 #
 # The site source lives in site/, not the repository root, which GitHub's
 # built-in Pages builder does not support - hence an explicit workflow. It also
-# buys us the thing that matters most here: verify_site.py runs against the
+# buys us the thing that matters most here: pipeline/verify_site.py runs against the
 # built HTML and blocks the deploy if the diplomatic text has drifted from the
 # corpus by even one character.
 #
@@ -53,7 +53,7 @@ jobs:
 
       # Character-exact text, resolving links, no external requests.
       #
-      # verify_site.py was stdlib-only and this step installed nothing. It now
+      # pipeline/verify_site.py was stdlib-only and this step installed nothing. It now
       # reads the units through unitlib, which parses unit.yml, so PyYAML is a
       # real dependency of the gate. The first push after that change failed
       # here - which is the gate working: an unverifiable build does not
@@ -64,7 +64,7 @@ jobs:
       - name: Verify built site
         env:
           SITE_BASEURL: ${{ steps.pages.outputs.base_path }}
-        run: python verify_site.py
+        run: python pipeline/verify_site.py
 
       - uses: actions/upload-pages-artifact@v3
         with:

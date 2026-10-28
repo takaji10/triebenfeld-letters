@@ -19,6 +19,7 @@ import os as _os, sys as _sys
 # root importable so `import unitlib` and the sibling modules resolve
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))), 'pipeline'))
 
 import io, sys, os, re, csv, json, unicodedata, shutil
 from collections import defaultdict
@@ -221,7 +222,7 @@ def read_sheet(apply_it):
     shutil.copy2(CORPUS, bak)
     open(CORPUS, 'w', encoding='utf-8', newline='\n').write('\n'.join(lines))
     print(f'\napplied {changed} substitution(s)\nbackup at {bak}')
-    print('now run:  python regenerate.py')
+    print('now run:  python pipeline/regenerate.py')
 
 
 if __name__ == '__main__':

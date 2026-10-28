@@ -3,7 +3,7 @@
 Status: **first batch built** (2026-10-02): 61 entries, all drafts to be
 checked against the works named; the in-text definitions, on by default; the
 glossary page; the candidate script and the row in `NEW_UNIT.md` §8; and
-the gate (§5), `glossary_candidates.py --check`, which regenerate.py runs.
+the gate (§5), `glossary_candidates.py --check`, which pipeline/regenerate.py runs.
 108 entries and 98 rulings as of the same day. Decided: on by default; people and places left out; a first
 batch of the most frequent terms across all kinds. When the work is done, the standing parts of this plan move into
 `DATA_MODEL.md`, `NEW_UNIT.md` and `HOUSE_STYLE.md`, and this file becomes a
@@ -118,7 +118,7 @@ its sense: `not_in` lists the documents an entry skips, `only_in` the only
 documents it marks (2026-10-21: komornik the court officer, everywhere but
 the six documents of komornik the lodger).
 
-The German in the built HTML stays exactly as it is, so `verify_site.py`'s
+The German in the built HTML stays exactly as it is, so `pipeline/verify_site.py`'s
 character-exact check is untouched.
 
 **What is marked:**
@@ -260,7 +260,7 @@ name as its `source`.
 
 ### The gate (2026-10-02)
 
-`glossary_candidates.py --check`, run by regenerate.py after the holdings'
+`glossary_candidates.py --check`, run by pipeline/regenerate.py after the holdings'
 descriptions are checked. It takes the holdings whose status is translated or
 published and fails the build if a word they contain, from the termbase or
 the abbreviation or Latin probe and in 3 documents or more, is neither an

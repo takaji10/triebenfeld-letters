@@ -49,7 +49,7 @@ account_de: >-
   Edition den Dokumenten.
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-21), written by Claude from the three entries, in its own words;
-# verify_site.py checks that no stretch of the text appears on the site.
+# pipeline/verify_site.py checks that no stretch of the text appears on the site.
 summary_en: |
   Three entries of *Pinkas Hakehillot Polin*, Yad Vashem's encyclopedia of the Jewish communities of Poland (vol. I, Łódź and its region, 1976), in the English translations Morris Gradel made for JewishGen. Each opens with a table of the general and the Jewish population and closes with the Holocaust.
 

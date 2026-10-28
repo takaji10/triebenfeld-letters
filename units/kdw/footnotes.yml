@@ -7,7 +7,7 @@
 # marker ("1Mieszko III ...", "atak Kop. ..."). Nothing in the text changes:
 # this file says where the markers are, and build_site_data.py raises them
 # (<sup class="fn">) and sets the note lines apart (<span class="fn-note">).
-# verify_site.py reads through that markup when it checks the text.
+# pipeline/verify_site.py reads through that markup when it checks the text.
 #
 # Per document number:
 #   markers  a piece of the text with the marker in braces, unique in the

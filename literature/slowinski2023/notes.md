@@ -24,7 +24,7 @@ C:\Users\Tersnaus\Downloads\Przeżyć tę jedną zimę. There are English/Polish
   is kept like Seidel (2018), Frost (2007) and Pinkas Hakehillot (1976): in
   the repository for questions, the site showing only the detailed summary
   (`summary_en`, `summary_de` in `work.yml`), none of the text;
-  `verify_site.py` checks that.
+  `pipeline/verify_site.py` checks that.
 - **the English is Claude's**, written page by page from the Polish. The
   editor's English .md is read as a witness and not used (the standing rule
   that an English in the editor's files is a machine's unless they say
