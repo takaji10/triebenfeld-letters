@@ -3,7 +3,7 @@
 # Read by pipeline/literature/literature_index.py, which finds every person
 # and place of the edition (reference/people.yml, reference/places.yml) in
 # the originals of the works shown on the site, and writes the hits that
-# stand to corpus/literature/mentions.json and site/_data/literature_mentions.yml
+# stand to dataset/literature/mentions.json and site/_data/literature_mentions.yml
 # (the "In the literature" list of a person, or of an estate on the Places
 # page). Every hit was read in review/literature/mentions.md (made by
 # `literature_index.py --sheet`) before it was ruled here (Claude, 2026-10-19).

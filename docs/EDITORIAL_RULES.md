@@ -216,7 +216,7 @@ than where it sits.
       It is not asked to decide which is which.
   The German spelling survives in three places canonicalisation cannot touch:
   the transcription itself, `names[].de` in the translation, and `mentions[]`
-  in `corpus/index/people.json`. So standardising the English costs no
+  in `dataset/index/people.json`. So standardising the English costs no
   evidence.
 - The place canon is applied to `r['place']`, which is *derived* from the
   dateline. It is never applied to `pages[].diplomatic`.

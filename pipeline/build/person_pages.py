@@ -66,9 +66,9 @@ def main():
     genealogy = load(os.path.join(ROOT, 'reference', 'genealogy.yml')).get('people') or {}
     people = {p['slug']: p for p in load(os.path.join(DATA_DIR, 'people.yml'))}
     i18n = load(os.path.join(SITE, '_data', 'i18n.yml'))
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8') as f:
         letters = {r['uid']: r for r in json.load(f)}
-    with open(os.path.join(ROOT, 'corpus', 'literature', 'index.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'dataset', 'literature', 'index.json'), encoding='utf-8') as f:
         lit = {w['slug']: w for w in json.load(f) if w.get('visible')}
     refs = {}
 

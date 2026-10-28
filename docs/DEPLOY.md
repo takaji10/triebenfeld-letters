@@ -16,11 +16,11 @@ serve it, so it carries the whole chain:
 | `units/<slug>/` | each holding's transcription, rulings and provenance |
 | `pipeline/` | intake, build, translation and review scripts |
 | `reference/` | glossary, name rulings, place canon, shared across units |
-| `corpus/` | the merged, generated database |
+| `dataset/` | the merged, generated database |
 | `site/` | the Jekyll site and the scan derivatives |
 | `pipeline/regenerate.py`, `pipeline/verify_site.py`, `pipeline/unitlib.py`, `pipeline/new_unit.py` | entry points |
 
-`corpus/letters.json` and `pipeline/verify_site.py` are what make the deploy gate
+`dataset/letters.json` and `pipeline/verify_site.py` are what make the deploy gate
 possible: the workflow uses them to prove the published text is
 character-identical to the transcription.
 

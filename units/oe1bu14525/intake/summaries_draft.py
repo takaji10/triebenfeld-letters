@@ -6,7 +6,7 @@
 The first summaries of this holding (2026-09) were written by summarise.py from
 the English translation, and the German ones beside them were never checked
 against the documents. On 2026-10-08 every document was read whole in its
-German text (corpus/text/, the corrected corpus) and summarised afresh in
+German text (dataset/text/, the corrected corpus) and summarised afresh in
 German; the English is a translation of the German. Each statement was then
 held to its document in session (claim_check.yml beside this file), as for the
 other holdings. Not a paid run: there is no reading.json and no list of

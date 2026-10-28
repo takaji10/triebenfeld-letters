@@ -1,6 +1,6 @@
 # The dataset
 
-What is in `corpus/`, what each field means, and how to scope a question against
+What is in `dataset/`, what each field means, and how to scope a question against
 it without loading the whole edition.
 
 This edition is not only correspondence. It holds **441 documents** from nine
@@ -14,7 +14,7 @@ rebuild reproduces it exactly. Nothing here is hand-edited.
 ## Where to start
 
 ```
-corpus/index/documents.json     the manifest - one compact row per document
+dataset/index/documents.json     the manifest - one compact row per document
 ```
 
 Read this first. It carries only the fields worth narrowing on, so you reach a
@@ -23,8 +23,8 @@ working set before opening a single document. 441 rows, a few hundred KB.
 Each row points at the two places the full text lives:
 
 ```
-corpus/documents/<uid>.json     the document, whole
-corpus/text/<uid>.txt           the same text, plain, for grepping
+dataset/documents/<uid>.json     the document, whole
+dataset/text/<uid>.txt           the same text, plain, for grepping
 ```
 
 Grep the `text/` files, not the JSON: a hit in JSON is unreadable and cannot be
@@ -248,7 +248,7 @@ units/<slug>/paragraph_decisions.csv    where the paragraphs fall
 
 Both are re-derived on each run, and a decision changed by hand is carried over.
 
-**Generated** - everything under `corpus/` and `site/`. Do not edit.
+**Generated** - everything under `dataset/` and `site/`. Do not edit.
 
 The one thing under `site/` that a rebuild does *not* reproduce is the English:
 
@@ -307,7 +307,7 @@ claim can be cited to a manuscript page rather than to a document.
   German is the record; the English is a finding aid to it.
 - Summaries are written from the English, not from the German, so an error in a
   translation propagates into its summary.
-- `corpus/letters.json` is the older single-array form of the same content. It
+- `dataset/letters.json` is the older single-array form of the same content. It
   is still what the website and `pipeline/verify_site.py` read. Prefer the per-document
   files and the indexes.
 

@@ -244,7 +244,7 @@ class Corpus:
 
 
 def load_meta(unit):
-    rows = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))
+    rows = json.load(open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8'))
     # pipeline-check: scoped to one unit; the corpus.txt [DOC n] number is the key
     return {str(r['letter_id']): r for r in rows if r.get('unit') == unit.slug}
 
@@ -672,7 +672,7 @@ def check_summary(rd, letter, text, known):
 def run_check(unit, corpus, meta):
     vocab = vocabulary(); forms = authority_forms()
     rough = unitlib.load_rulings(unit)['ROUGH_LETTERS']
-    docs = os.path.join(ROOT, 'corpus', 'documents')
+    docs = os.path.join(ROOT, 'dataset', 'documents')
     rep = ['# Reading check', '']
     kept, dropped, manual = [], [], []
     summaries = {}

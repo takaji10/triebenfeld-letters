@@ -446,7 +446,7 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
     # 19117-19150" and meant nothing to anyone. The absolute numbers stay, and
     # stay authoritative - the `@<line> old -> new` fixes in
     # transcription_decisions.csv, the `line` on every mention in
-    # corpus/index/people.json, and the scan pairing are all keyed to them, and
+    # dataset/index/people.json, and the scan pairing are all keyed to them, and
     # a document's first line moves whenever a document before it gains or
     # loses one. So this is derived and additional, never a replacement, and it
     # stays out of the published page entirely.

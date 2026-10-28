@@ -8,8 +8,8 @@ Reads   reference/gazetteer/source/place_names_2026-10-23.md, a copy of the
         editor's "Place Names.md" (112 entries and 21 cross-references, with
         footnotes), and, to resolve the footnotes, reference/gazetteer_sources.yml,
         reference/maps.yml, units/kdw/intake/holding.py (which Kodeks number is
-        which document), corpus/letters.json (document addresses and pages) and
-        corpus/literature/ (which pages of a work exist).
+        which document), dataset/letters.json (document addresses and pages) and
+        dataset/literature/ (which pages of a work exist).
 Writes  reference/gazetteer/<slug>.yml for each of the 112 entries: the editor's
         text kept as written (only the export's escapes undone), and a first
         pass at the kind, location, names, map appearances and footnotes. Every
@@ -151,7 +151,7 @@ def load_data():
         sources = yaml.safe_load(f)['sources']
     with open(os.path.join(ROOT, 'reference', 'maps.yml'), encoding='utf-8') as f:
         maps = yaml.safe_load(f)['maps']
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8') as f:
         letters = json.load(f)
     docs = {d['uid']: (d['permalink'], [p['page_id'] for p in d['pages']]) for d in letters}
     kdw = {}
@@ -168,7 +168,7 @@ class Resolver:
         self.sources, self.docs, self.kdw = sources, docs, kdw
 
     def lit_link(self, work, page):
-        if glob.glob(os.path.join(ROOT, 'corpus', 'literature', work, '%s.*.txt' % page)):
+        if glob.glob(os.path.join(ROOT, 'dataset', 'literature', work, '%s.*.txt' % page)):
             return '/literature/%s/#p-%s' % (work, page)
         return None
 
@@ -218,7 +218,7 @@ class Resolver:
             locator = 'p. %s' % loc
             link = self.lit_link(src['work'], loc)
             if link is None and review is not None:
-                review.append('link: page %s of %s is not in corpus/literature' % (loc, src['work']))
+                review.append('link: page %s of %s is not in dataset/literature' % (loc, src['work']))
         elif rt == 'work':
             link = '/literature/%s/' % src['work']
             locator = ('p. %s' % loc) if loc else None

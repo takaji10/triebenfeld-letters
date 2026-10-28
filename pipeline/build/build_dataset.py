@@ -2,26 +2,26 @@
 """
 The queryable dataset: per-document files and standing indexes.
 
-corpus/letters.json is a single array of every document in the project. To ask
+dataset/letters.json is a single array of every document in the project. To ask
 what one holding says about Trąbczyn between 1804 and 1806 you have to load all
 of it and rebuild the joins by hand. This writes the same content in a shape you
 can scope a question against before opening anything:
 
-    corpus/index/documents.json     the manifest - one compact row per document
-    corpus/index/people.json        entity -> every mention, with its location
-    corpus/index/places.json        place  -> the documents written there
-    corpus/index/place_mentions.json place -> every document that NAMES it
-    corpus/index/estates.json       estate -> the documents ABOUT it
-    corpus/index/dates.json         year and month -> uids
-    corpus/index/relations.json     document -> document, with the kind of link
-    corpus/index/uncertainties.json every surviving marker, with its context
-    corpus/documents/<uid>.json     one document, whole
-    corpus/text/<uid>.txt           the same as plain text, for grepping
+    dataset/index/documents.json     the manifest - one compact row per document
+    dataset/index/people.json        entity -> every mention, with its location
+    dataset/index/places.json        place  -> the documents written there
+    dataset/index/place_mentions.json place -> every document that NAMES it
+    dataset/index/estates.json       estate -> the documents ABOUT it
+    dataset/index/dates.json         year and month -> uids
+    dataset/index/relations.json     document -> document, with the kind of link
+    dataset/index/uncertainties.json every surviving marker, with its context
+    dataset/documents/<uid>.json     one document, whole
+    dataset/text/<uid>.txt           the same as plain text, for grepping
 
 index/documents.json is the entry point: it carries only the fields worth
 narrowing on, so an agent reaches a working set without opening a document file.
 
-Nothing here is authored. Every value comes from corpus/letters.json, which is
+Nothing here is authored. Every value comes from dataset/letters.json, which is
 itself derived from the units' corpus.txt, so a rebuild reproduces the lot.
 letters.json is left in place: the site and the verifier still read it.
 """
@@ -91,7 +91,7 @@ def load_readings():
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-CORPUS = os.path.join(ROOT, 'corpus')
+CORPUS = os.path.join(ROOT, 'dataset')
 INDEX = os.path.join(CORPUS, 'index')
 DOCS = os.path.join(CORPUS, 'documents')
 TEXT = os.path.join(CORPUS, 'text')

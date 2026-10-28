@@ -80,7 +80,7 @@ NAME_SLOT = re.compile(
 
 
 def main():
-    recs = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))
+    recs = json.load(open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8'))
     scans = {}
     mp = os.path.join(UNIT.dir, 'page_scan_map.csv')
     if os.path.isfile(mp):

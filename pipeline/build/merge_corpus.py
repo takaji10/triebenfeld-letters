@@ -2,14 +2,14 @@
 """
 Merge every unit's build into one corpus.
 
-build_db.py runs per unit and writes corpus/units/<slug>/. This combines those
+build_db.py runs per unit and writes dataset/units/<slug>/. This combines those
 into the files the website and the review tools read:
 
-    corpus/letters.json      every document, chronological then by unit
-    corpus/letters.csv
-    corpus/pages.csv
-    corpus/reading.txt
-    corpus/chronological.txt
+    dataset/letters.json      every document, chronological then by unit
+    dataset/letters.csv
+    dataset/pages.csv
+    dataset/reading.txt
+    dataset/chronological.txt
 
 Units whose corpus.txt is still empty are skipped and reported, so a unit can
 be scaffolded long before it is transcribed without breaking a build.
@@ -29,7 +29,7 @@ import unitlib
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-CORPUS = os.path.join(ROOT, 'corpus')
+CORPUS = os.path.join(ROOT, 'dataset')
 UNITS_OUT = os.path.join(CORPUS, 'units')
 
 

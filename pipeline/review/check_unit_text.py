@@ -3,7 +3,7 @@
 Hold each holding's description to the documents it cites.
 
 Reads  : units/<slug>/about.md, process.md (and their _de counterparts)
-         corpus/documents/ via unitlib.load_documents()
+         dataset/documents/ via unitlib.load_documents()
 Writes : review/<slug>/unit_text_check.md
 
 A description is written by hand from the summaries and the reading, and a

@@ -112,7 +112,7 @@ class Unit(dict):
 
     def permalink(self, letter_id):
         # The single generator. Everything downstream bakes this in -
-        # letters.json, letters.csv, corpus/index/, the corpus text headers -
+        # letters.json, letters.csv, dataset/index/, the corpus text headers -
         # so changing it needs a full pipeline/regenerate.py, not --unit.
         return f'{DOC_URL_PREFIX}/{self.slug}/{letter_id}/'
 
@@ -614,7 +614,7 @@ def require_fresh_corpus(*extra):
     """Refuse to spend money on German that is no longer the transcription.
 
     The transcription is authored in units/<slug>/corpus.txt; everything that
-    costs money reads corpus/letters.json, which pipeline/regenerate.py derives from it.
+    costs money reads dataset/letters.json, which pipeline/regenerate.py derives from it.
     Apply a correction and translate without rebuilding in between and the model
     is handed the superseded text, pays for it, and caches the result as though
     it were finished work. That happened: letter 73 was translated twice from a
@@ -624,9 +624,9 @@ def require_fresh_corpus(*extra):
     that matter: rebuilding when nothing changed is free, and the failure this
     guards against costs a batch.
     """
-    generated = os.path.join(ROOT, 'corpus', 'letters.json')
+    generated = os.path.join(ROOT, 'dataset', 'letters.json')
     if not os.path.isfile(generated):
-        sys.exit('corpus/letters.json is missing. Run: python pipeline/regenerate.py')
+        sys.exit('dataset/letters.json is missing. Run: python pipeline/regenerate.py')
     built = os.path.getmtime(generated)
     sources = [os.path.join(u.dir, 'corpus.txt') for u in load_units()]
     sources += [os.path.join(u.dir, 'rulings.yml') for u in load_units()]
@@ -635,7 +635,7 @@ def require_fresh_corpus(*extra):
                    for p in sources
                    if os.path.isfile(p) and os.path.getmtime(p) > built)
     if newer:
-        sys.exit('corpus/letters.json is older than what it is built from:\n'
+        sys.exit('dataset/letters.json is older than what it is built from:\n'
                  + '\n'.join('  ' + p for p in newer)
                  + '\nTranslating now would pay for superseded text.'
                    '\nRun: python pipeline/regenerate.py')
@@ -644,23 +644,23 @@ def require_fresh_corpus(*extra):
 def load_documents(root=None):
     """Every document, read from the per-document files.
 
-    corpus/documents/<uid>.json is the primary form: one file per document, so
+    dataset/documents/<uid>.json is the primary form: one file per document, so
     a reader can take the few it needs. This assembles the whole set for the
     callers that genuinely want it - the site builder and the verifier, both of
     which walk every document once.
 
-    corpus/letters.json holds the same content as a single array. It is an
+    dataset/letters.json holds the same content as a single array. It is an
     intermediate - build_dataset.py reads it and writes the per-document files -
     and it is kept because tools outside this pipeline read it. Neither form is
     canonical: units/<slug>/corpus.txt is, and both are rebuilt from it.
     """
     root = root or ROOT
-    index = os.path.join(root, 'corpus', 'index', 'documents.json')
-    docs_dir = os.path.join(root, 'corpus', 'documents')
+    index = os.path.join(root, 'dataset', 'index', 'documents.json')
+    docs_dir = os.path.join(root, 'dataset', 'documents')
     if not os.path.isfile(index):
         # The dataset has not been built yet in this run; fall back so a
         # half-built tree still works rather than failing obscurely.
-        legacy = os.path.join(root, 'corpus', 'letters.json')
+        legacy = os.path.join(root, 'dataset', 'letters.json')
         with open(legacy, encoding='utf-8') as f:
             return json.load(f)
     with open(index, encoding='utf-8') as f:
@@ -689,7 +689,7 @@ def records_by_pad(root=None, unit=None):
         rec = recs.get(os.path.splitext(filename)[0])
     """
     root = root or ROOT
-    with open(os.path.join(root, 'corpus', 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(root, 'dataset', 'letters.json'), encoding='utf-8') as f:
         recs = json.load(f)
     return {r['pad']: r for r in recs
             if unit is None or r.get('unit') == unit}

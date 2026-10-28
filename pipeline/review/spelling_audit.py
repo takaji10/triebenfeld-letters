@@ -86,7 +86,7 @@ def one_edit_kind(a, b):
 
 
 def main():
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8') as f:
         recs = json.load(f)
 
     # Count words from the transcription layer - the line-break work is already

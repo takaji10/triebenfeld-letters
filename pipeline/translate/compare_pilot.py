@@ -72,7 +72,7 @@ def has(text, probe):
 
 
 def load_a():
-    recs = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))
+    recs = json.load(open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8'))
     return {(str(r['letter_id']), str(p['page'])): p['diplomatic']
             for r in recs for p in r['pages']}
 

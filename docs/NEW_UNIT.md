@@ -66,7 +66,7 @@ On 9454 the swap silently cost 214 letters their sender and recipient, 44 dates
 and 77 places, and nothing failed: the site built and verified clean.
 
 - **Before importing,** move the old unit into `Trash/<slug>_old/` whole: corpus,
-  rulings, correspondents, decisions, and its built `corpus/documents`.
+  rulings, correspondents, decisions, and its built `dataset/documents`.
 - **After the first build,** compare the old and new outputs letter by letter:
   - date;
   - place of writing;
@@ -197,7 +197,7 @@ holding already established rather than inventing terms — nothing validates th
 field, so a typo silently becomes a generic "Document" label on the site and is
 handed to the model verbatim in the prompt.
 
-Editing `rulings.yml` makes `corpus/letters.json` stale, and
+Editing `rulings.yml` makes `dataset/letters.json` stale, and
 `require_fresh_corpus()` will stop the next paid step until you rebuild. Run
 `pipeline/regenerate.py --unit <slug>` after this section, not after discovering it.
 
@@ -344,7 +344,7 @@ tool call is never cached as though it were a finished translation.
 because the thing they guard against happened:
 
 - `unitlib.require_fresh_corpus()` refuses to run when a `corpus.txt` or a
-  `rulings.yml` is newer than the `corpus/letters.json` built from it. The tools
+  `rulings.yml` is newer than the `dataset/letters.json` built from it. The tools
   read the generated file; corrections are made in the authored one. Letter 73
   was translated twice from a reading the editor had already overturned, and
   nothing objected either time. **Always `pipeline/regenerate.py` between applying

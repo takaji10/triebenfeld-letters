@@ -92,7 +92,7 @@ def main():
     if a.check:
         live = {u.slug for u in unitlib.load_units()
                 if (u.get('status') or '') in ('translated', 'published')}
-    docs = [r for r in load('corpus/letters.json')
+    docs = [r for r in load('dataset/letters.json')
             if (not a.unit or r['unit'] == a.unit) and (live is None or r['unit'] in live)]
     # A document wholly in Latin (the Poznań court books, 2026-10-07) is
     # translated whole: its Latin words are its language, not Latin phrases

@@ -9,7 +9,7 @@ since. This module loads them and does two jobs:
         checks every file: footnote markers and footnote items agree, every
         source key exists in reference/gazetteer_sources.yml, every link
         resolves inside the edition (documents and their pages in
-        corpus/letters.json, literature pages in corpus/literature/, the
+        dataset/letters.json, literature pages in dataset/literature/, the
         glossary), every map key is in reference/maps.yml, every register
         slug is in reference/places.yml, every place named in a location
         exists. Exits 1 on any failure; prints counts.
@@ -60,7 +60,7 @@ def check():
     reg = _yaml('reference', 'places.yml')['places']
     glossary = _yaml('reference', 'glossary.yml')
     gl_ids = {e['id'] for e in (glossary['entries'] if isinstance(glossary, dict) and 'entries' in glossary else glossary)}
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8') as f:
         docs = {d['permalink']: len(d['pages']) for d in json.load(f)}
     errors = []
     slugs = set()
@@ -81,8 +81,8 @@ def check():
             return
         m = re.match(r'^/literature/([^/]+)/#p-(\w+)$', link)
         if m:
-            if not glob.glob(os.path.join(ROOT, 'corpus', 'literature', m.group(1), m.group(2) + '.*.txt')):
-                err(slug, 'link %s: no such page in corpus/literature' % link)
+            if not glob.glob(os.path.join(ROOT, 'dataset', 'literature', m.group(1), m.group(2) + '.*.txt')):
+                err(slug, 'link %s: no such page in dataset/literature' % link)
             return
         m = re.match(r'^/literature/([^/]+)/$', link)
         if m:

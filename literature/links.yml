@@ -10,8 +10,8 @@
 #
 # Each link:
 #   id         a short name, never shown
-#   passages   <work>/<passage key>, as in corpus/literature/index.json
-#   documents  the documents' uids, as in corpus/letters.json
+#   passages   <work>/<passage key>, as in dataset/literature/index.json
+#   documents  the documents' uids, as in dataset/letters.json
 #   en, de     one sentence (or two) saying why they belong together. It is
 #              read on both sides, under the passage and beside the document,
 #              so it names the book, the document and what each says. Every

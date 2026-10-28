@@ -1,7 +1,7 @@
 # Plan: the literature
 
 Status: **agreed with the editor 2026-10-19; texts brought in and cut into
-passages (`corpus/literature/`); the site pages, the index and the first
+passages (`dataset/literature/`); the site pages, the index and the first
 links built and published (2026-10-19). The second set of six works
 (section 10) built, indexed, linked and published the same day.** When the work is done, the standing parts move into
 `DATA_MODEL.md`, `NEW_UNIT.md` and `HOUSE_STYLE.md`, and this file becomes a
@@ -99,7 +99,7 @@ literature/<slug>/
   original.md     the editor's file, unchanged (git may change its line
   english.md      endings, nothing else)
   notes.md        how it came in, the alignment, the spot check of the English
-corpus/literature/
+dataset/literature/
   index.json      every work (bibliography, account, visible) and its
                   passages (key, part, page, line and length per language)
   <slug>/<key>.<lang>.txt   one passage in one language (la, de or en)
@@ -116,7 +116,7 @@ part (`3-133`). A notes section gathered at the end (the Materialien's
 "Anmerkungen") is the passage `notes`. A work with no page marks (Guradze,
 for now) is cut by chapter. The script checks that each file is put back
 together exactly from its passages. Each passage file opens with comment lines naming the
-work, the page and the citation form, like `corpus/text/`, so a search hit can
+work, the page and the citation form, like `dataset/text/`, so a search hit can
 be cited from the file it was found in.
 
 ## 4. Seidel (2018): in the repository, not on the site
@@ -132,7 +132,7 @@ matters for context. So:
 - `work.yml` has `visible: false`. The site build skips such a work entirely:
   no page, no passage, no hit in the search index, no "In the literature"
   line on a person's page, nothing under `site/`.
-- Its passages are written to `corpus/literature/` like the others, for
+- Its passages are written to `dataset/literature/` like the others, for
   questions.
 - A later choice the editor may make: list it on the Literature page by its
   bibliographic details alone. **Made 2026-10-21, and more**: "For each
@@ -193,7 +193,7 @@ matters for context. So:
 ## 7. How the site pages are made (2026-10-19)
 
 - `pipeline/literature/literature_site.py` (a step of pipeline/regenerate.py, after
-  build_literature.py) reads `corpus/literature/` and writes
+  build_literature.py) reads `dataset/literature/` and writes
   `site/_data/literature.yml` (the list page) and one page per visible work
   in each language: `site/_literature/<slug>.md` (/literature/<slug>/) and
   `site/_literature_de/<slug>.md` (/de/literatur/<slug>/). All three are
@@ -255,7 +255,7 @@ matters for context. So:
   (`site/_includes/lit-mentions.html`, from
   `site/_data/literature_mentions.yml`). 35 people and 11 estates have one.
   Places that are not estates have no list (the Places page shows the
-  estates only); their hits stay in `corpus/literature/mentions.json` for
+  estates only); their hits stay in `dataset/literature/mentions.json` for
   questions.
 
 ## 9. How the hand-made links are made (2026-10-19)

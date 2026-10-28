@@ -47,7 +47,7 @@ import sys
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 UNIT = unitlib.one_unit(unitlib.unit_arg())
-LETTERS = os.path.join(ROOT, 'corpus', 'letters.json')
+LETTERS = os.path.join(ROOT, 'dataset', 'letters.json')
 GLOSSARY = os.path.join(ROOT, 'reference', 'translation_glossary.yml')
 CORRESPONDENTS = os.path.join(UNIT.dir, 'correspondents.json')
 # The whole-document reading (read_letters.py), where the unit has one: what

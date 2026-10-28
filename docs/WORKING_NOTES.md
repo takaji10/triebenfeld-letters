@@ -859,7 +859,7 @@ Where the rest is:
   After re-making a letter's text, update its reading record: claim lines below an inserted
   line move, and settled doubtful words come off (`recrop_300.py`, `reading_record`).
 - **The edition's "marks of doubt" count includes "[...]"** (lost text):
-  `corpus/index/uncertainties.json` is the number the essays give. Recount
+  `dataset/index/uncertainties.json` is the number the essays give. Recount
   from it, not with a regex for "[word?]" alone.
 - **Checking the pictures of a spot sheet is a second reading.** On
   53/968/0/-/716 it showed a word read without doubt that looks otherwise
@@ -981,7 +981,7 @@ Where the rest is:
   quote a word, not a phrase: the texts in `text85.py` are Python strings
   wrapped across lines, so a phrase may span a line break and match nothing.
 - **Run `check_translations.py` after `pipeline/regenerate.py`, not before.** Run on
-  the old `corpus/letters.json`, it reported five false marker-count rows
+  the old `dataset/letters.json`, it reported five false marker-count rows
   for marks the editor had just settled.
 - **A note without a button can carry the answer** ("Maybe Ułazwany, if
   that's a word?"). Read it against the hand: this scribe's ł is a t with a
@@ -1027,7 +1027,7 @@ Where the rest is:
   holding to the build, and an empty one would show on the Sources page.
   Likewise an era with no documents: keep its entry as a script until then.
 - **Try a new kind of holding end to end with one sample document**, then
-  take it out: `git checkout` the generated files (corpus/, site/_data/
+  take it out: `git checkout` the generated files (dataset/, site/_data/
   except i18n.yml, site/assets/), delete the sample's generated files, and
   rebuild to see that nothing generated differs from HEAD.
 - **The Wielkopolska Digital Library** serves a volume's electronic text at
@@ -1468,7 +1468,7 @@ cloud branches").
   boundary decree of 1775 (Konin Gr.145, p. 76: "the rights granted them in
   1746") and the summons of 1860 (53/968/0/-/783, which names the grantors)
   both cite the privilege (found 2026-10-20; the editor: Gr.145 is the
-  primary source for it). A search of `corpus/documents/*.json` for the year or the
+  primary source for it). A search of `dataset/documents/*.json` for the year or the
   name takes a second. The rule this broke is the editor's of 2026-10-20,
   HOUSE_STYLE, "The documents first".
 - **`english_forms.py --apply` rewrites every page and every summary**,
@@ -1650,7 +1650,7 @@ cloud branches").
   Then `write_cache.py <N>`, `check_translations.py`,
   `publish_translations.py`.
 - **Summaries written again for a holding already published** (Oe 1 Bü 14525
-  and 14526, 2026-10-08). Read each document whole in `corpus/text/<pad>.txt`
+  and 14526, 2026-10-08). Read each document whole in `dataset/text/<pad>.txt`
   (the German part, above `--- SUMMARY`), write the German, translate it, then
   hold every statement to a quoted line in `intake/claim_check.yml`. Two free
   checks catch most slips before the file is closed: every quoted fragment
@@ -1985,7 +1985,7 @@ cloud branches").
   out with lookarounds, and a `\b` after `\w*` keeps the regex from
   backtracking into a shorter match that slips past the lookahead
   ("Stawisk" out of "Stawisku zwanym").
-- **`build_literature.py` empties `corpus/literature/`, and
+- **`build_literature.py` empties `dataset/literature/`, and
   `literature_index.py` writes `mentions.json` back into it** (2026-10-21).
   Run the literature's steps in order, build, index, site, before
   committing; `git add -u` after the build alone recorded `mentions.json`
@@ -2179,7 +2179,7 @@ cloud branches").
   `https://api.github.com/repos/takaji10/triebenfeld-letters/actions/runs?per_page=1`
   with `curl`.
 - **Marks of doubt** are counted by hand in the edition guide. Recount from
-  `corpus/index/uncertainties.json` after any change to a marker.
+  `dataset/index/uncertainties.json` after any change to a marker.
 - **A local build after pulling a cloud session's work** can rewrite
   `page_scan_map.csv` from the local image names. Regenerate the holding, run
   `pipeline/build/relabel_scans.py --unit <slug> --apply` while it reports
@@ -2319,7 +2319,7 @@ cloud branches").
 - **The name list made from the corpus matched half a word broken at a line
   end** ("Emilien¬" as Emilie). Its pattern now refuses a following "¬".
   After adding a holding, read the people and places the index finds in it
-  (`corpus/documents/<uid>.json`, `mentions` and `place_mentions`) and shut
+  (`dataset/documents/<uid>.json`, `mentions` and `place_mentions`) and shut
   out the false ones with `not_in`.
 - **A picture for a spot-sheet row** worked out from a line's place among
   the page's lines misses on a page written only at the top. Space the
@@ -2418,7 +2418,7 @@ cloud branches").
 - **Concurrent sessions share the working tree** (2026-10-22, seen twice in
   one day). While this session worked, another committed its Mielewczyk
   work onto main and a third created its Łukasiewicz (1997) in the same
-  folders mid-run; the shared generated files (`corpus/literature/
+  folders mid-run; the shared generated files (`dataset/literature/
   index.json`, `site/_data/literature*.yml`) pick up whatever is in
   `literature/` when the scripts run. Commit only the files the session
   made or alone modified, leave the shared generated files uncommitted,
@@ -2516,7 +2516,7 @@ cloud branches").
   `literature/` with directory junctions minus the named works and runs
   the build's own `main()` against the shadow: nothing of the skipped work
   is read or built, and the next full run picks it up. The build also
-  rmtree's `corpus/literature/` - running the full script with a
+  rmtree's `dataset/literature/` - running the full script with a
   concurrent session's untracked passages present would delete them; the
   shadow avoids that too. Where only the shared `index.json` is impure (a
   concurrent build added an entry whose sources are uncommitted), filtering
@@ -2591,7 +2591,7 @@ cloud branches").
   instead - reset the foreign branch back to its own tip and move `main`
   with `git branch -f` (branch checked out nowhere) or a fresh `git
   worktree add` for main. The degradation a merge can carry in also sits
-  deeper than the guard: the merged state's `corpus/units/*/letters.json`
+  deeper than the guard: the merged state's `dataset/units/*/letters.json`
   had lost the scan fields (built where the staged images were absent) -
   after a merge, run the build once and commit the repair it makes, not
   only the `page_scan_map.csv` restore.

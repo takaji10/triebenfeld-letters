@@ -96,7 +96,7 @@ def known_names():
     #    estate list name_catalogue uses. These are settled geography, not
     #    questions - Kontop, Blizanow, Betsche and the rest were still being
     #    asked about because they appear in neither whos_who nor the rulings.
-    p = os.path.join(ROOT, 'corpus', 'letters.json')
+    p = os.path.join(ROOT, 'dataset', 'letters.json')
     if os.path.isfile(p):
         for r in json.load(open(p, encoding='utf-8')):
             for tok in re.findall(r'[^\W\d_]{3,}', r.get('place') or ''):
@@ -121,7 +121,7 @@ def known_names():
 
 
 def gather():
-    recs = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))
+    recs = json.load(open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8'))
     seeds = {}
     sp = os.path.join(ROOT, 'reference', 'name_seeds.json')
     if os.path.isfile(sp):

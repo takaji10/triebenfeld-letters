@@ -24,7 +24,7 @@ pipeline/
   translate/      translate, check, publish, summarise
   review/         name and spelling review sheets
 reference/        shared by every unit: glossary, name rulings, place canon
-corpus/           generated, merged across units
+dataset/         generated, merged across units
 review/<slug>/    generated review sheets
 cache/            model output. Expensive; never deleted casually
 docs/             data model, editorial rules, deploy notes; see docs/README.md
@@ -111,7 +111,7 @@ scan mapping, so the order is not optional.
 
 ## Verification
 
-`pipeline/verify_site.py` checks the built HTML against `corpus/letters.json` and fails if a
+`pipeline/verify_site.py` checks the built HTML against `dataset/letters.json` and fails if a
 document is missing, if any transcription differs by one character, if an internal link
 does not resolve, or if a page fetches anything external. It runs on every deploy and a
 failure blocks publication.
@@ -134,7 +134,7 @@ in `unit.yml` generates stubs at the old addresses.
 ## Licence
 
 - **The edition's text** — transcriptions, reading texts, translations, summaries,
-  notes, indexes and the data in `corpus/`, `units/` and `reference/` — is under
+  notes, indexes and the data in `dataset/`, `units/` and `reference/` — is under
   [CC BY 4.0](LICENSE-TEXT).
 - **The code** — `pipeline/`, the scripts at the root, and the site's templates,
   scripts and styles — is under the [MIT licence](LICENSE).

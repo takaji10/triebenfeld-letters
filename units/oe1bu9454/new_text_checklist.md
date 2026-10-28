@@ -112,7 +112,7 @@ reason) into the sheet `apply_transcription_fixes.py --apply` applies and logs.
   self-check stops the build.
 - About 30 s later, run `python pipeline/verify_site.py`: ALL CHECKS PASSED.
 - If a new line fell into a dateline, check that the letter's date, place and
-  sender are unchanged in `corpus/letters.json`.
+  sender are unchanged in `dataset/letters.json`.
 
 ## 8. Reading record and summary
 

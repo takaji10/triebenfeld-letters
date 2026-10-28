@@ -25,7 +25,7 @@
 # speak, the work's citation beside every fact, the estimates nowhere.
 #
 # pipeline/build/person_pages.py validates this file against the generated
-# data (site/_data/people.yml, corpus/literature/index.json) and writes
+# data (site/_data/people.yml, dataset/literature/index.json) and writes
 # site/_data/genealogy.yml from it, which the person page renders. A block
 # for a shown person makes that person a page, in both languages, and the
 # entry on /people/ links to it; a standalone block makes the page alone.

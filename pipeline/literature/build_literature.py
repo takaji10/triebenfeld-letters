@@ -3,8 +3,8 @@
 Cut the literature into passages and pair the two languages.
 
 Reads  : literature/<slug>/work.yml, original.md, english.md
-Writes : corpus/literature/index.json            every work and its passages
-         corpus/literature/<slug>/<key>.<lang>.txt  one passage, one language
+Writes : dataset/literature/index.json            every work and its passages
+         dataset/literature/<slug>/<key>.<lang>.txt  one passage, one language
          (lang is the work's language, "la", "de", "fr" or "pl", or "en")
 
 A work printed in English (`language: en`, Mączak 1968) has no english.md:
@@ -43,7 +43,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 LIT = os.path.join(ROOT, 'literature')
-OUT = os.path.join(ROOT, 'corpus', 'literature')
+OUT = os.path.join(ROOT, 'dataset', 'literature')
 LANGS = (('original', None), ('english', 'en'))
 
 

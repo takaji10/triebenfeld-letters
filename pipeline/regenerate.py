@@ -37,7 +37,7 @@ PER_UNIT = [
     ('pipeline/build/resolve_paragraphs.py', 'paragraph decisions',
      'units/<slug>/paragraph_decisions.csv - re-derived, rulings carried over'),
     ('pipeline/build/build_db.py', 'database, pages and reading copy',
-     'corpus/units/<slug>/ - letters, pages, reading and chronological text'),
+     'dataset/units/<slug>/ - letters, pages, reading and chronological text'),
     ('pipeline/build/match_scans.py', 'scan mapping and reviewer',
      'page_scan_map.csv / scan_inventory.md / scan_review.html'),
 ]
@@ -45,15 +45,15 @@ PER_UNIT = [
 # then once for the whole corpus
 MERGED = [
     ('pipeline/build/merge_corpus.py', 'merge units',
-     'corpus/letters.json and friends, every unit together'),
+     'dataset/letters.json and friends, every unit together'),
     # The dataset is built first: it writes the per-document files, and the
     # website and the verifier both read those rather than the merged array.
     ('pipeline/build/build_dataset.py', 'queryable dataset',
-     'corpus/index/ and corpus/documents/ - what a research agent reads'),
+     'dataset/index/ and dataset/documents/ - what a research agent reads'),
     # The literature (docs/LITERATURE_PLAN.md): books about the sources, kept
     # apart from them, cut into pages in both languages for questions.
     ('pipeline/literature/build_literature.py --quiet', 'literature',
-     'corpus/literature/ - each work page by page, original and English'),
+     'dataset/literature/ - each work page by page, original and English'),
     ('pipeline/literature/literature_site.py', 'literature pages',
      'site/_literature*/ - the visible works, original and English side by side'),
     # Who and which estates the books name, for the "In the literature" lists

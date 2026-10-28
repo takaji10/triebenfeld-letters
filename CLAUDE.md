@@ -791,7 +791,7 @@ so check them.
   editor's word; a second set of six works added and published the same
   day):
   six books about the sources, original and English (Claude's), in
-  `literature/`, cut page by page into `corpus/literature/` by
+  `literature/`, cut page by page into `dataset/literature/` by
   `pipeline/literature/build_literature.py`, and shown at /literature/ by
   `pipeline/literature/literature_site.py` (both steps of pipeline/regenerate.py).
   Plan, layout and next steps: `docs/LITERATURE_PLAN.md`; each work's

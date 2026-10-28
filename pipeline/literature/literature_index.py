@@ -2,10 +2,10 @@
 """
 Who and which places the literature names, for questions and for the site.
 
-Reads  : corpus/literature/ (build_literature.py), the edition's authorities
+Reads  : dataset/literature/ (build_literature.py), the edition's authorities
          through pipeline/build/entities.py (reference/people.yml,
          name_seeds.json, places.yml), and literature/index.yml, the rulings
-Writes : corpus/literature/mentions.json   every hit that was ruled right
+Writes : dataset/literature/mentions.json   every hit that was ruled right
          site/_data/literature_mentions.yml for the "In the literature" list
                                             of a person (/people/) or an
                                             estate (/places/)
@@ -49,7 +49,7 @@ import literature_site              # noqa: E402  (the page labels)
 # wrapper made before it would be dropped and close the stream.
 sys.stdout.reconfigure(encoding='utf-8')
 
-CORPUS = os.path.join(ROOT, 'corpus', 'literature')
+CORPUS = os.path.join(ROOT, 'dataset', 'literature')
 RULINGS = os.path.join(ROOT, 'literature', 'index.yml')
 SHEET = os.path.join(ROOT, 'review', 'literature', 'mentions.md')
 

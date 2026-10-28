@@ -59,7 +59,7 @@ SOURCE_FIELDS = ('slug', 'ref', 'title', 'title_en', 'cite', 'site',
 
 def body_of(path):
     """The file's text: leading comment lines and the blank line after them
-    are the file's own header, as in corpus/literature/."""
+    are the file's own header, as in dataset/literature/."""
     with open(path, encoding='utf-8') as f:
         lines = f.read().split('\n')
     i = 0

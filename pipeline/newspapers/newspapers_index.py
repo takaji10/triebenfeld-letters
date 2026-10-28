@@ -6,7 +6,7 @@ Reads  : newspapers/<slug>/original.md (the items shown on the site), the
          edition's authorities through pipeline/build/entities.py
          (reference/people.yml, name_seeds.json, places.yml), and
          newspapers/index.yml, the rulings
-Writes : corpus/newspapers/mentions.json   every hit that was ruled right
+Writes : dataset/newspapers/mentions.json   every hit that was ruled right
          site/_data/newspapers_mentions.yml for the "In the newspapers" list
                                             of a person (/people/) or an
                                             estate (/places/)
@@ -46,7 +46,7 @@ import literature_index             # noqa: E402  (the ruling mechanics)
 sys.stdout.reconfigure(encoding='utf-8')
 
 NEWS = os.path.join(ROOT, 'newspapers')
-OUT = os.path.join(ROOT, 'corpus', 'newspapers')
+OUT = os.path.join(ROOT, 'dataset', 'newspapers')
 RULINGS = os.path.join(ROOT, 'newspapers', 'index.yml')
 SHEET = os.path.join(ROOT, 'review', 'newspapers', 'mentions.md')
 

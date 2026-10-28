@@ -59,7 +59,7 @@ def is_word_token(t):
 
 
 def load_witness_a():
-    recs = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8'))
+    recs = json.load(open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8'))
     out = {}
     for r in recs:
         for p in r['pages']:

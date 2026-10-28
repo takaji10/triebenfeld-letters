@@ -45,7 +45,7 @@ FLAGS = re.UNICODE
 
 def corpus_lines():
     """(pad, page, text) for every line of German in the project."""
-    recs = json.load(open(os.path.join(ROOT, 'corpus', 'letters.json'),
+    recs = json.load(open(os.path.join(ROOT, 'dataset', 'letters.json'),
                           encoding='utf-8'))
     out = []
     for r in recs:

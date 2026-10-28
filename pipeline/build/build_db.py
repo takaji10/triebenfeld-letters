@@ -21,8 +21,8 @@ import sys
 OUT = ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 UNIT = unitlib.one_unit(unitlib.unit_arg())
 # Each unit builds into its own directory; merge_corpus.py combines them into
-# the corpus/ files the website and the review tools read.
-UNIT_OUT = os.path.join(ROOT, 'corpus', 'units', UNIT.slug)
+# the dataset/ files the website and the review tools read.
+UNIT_OUT = os.path.join(ROOT, 'dataset', 'units', UNIT.slug)
 UNIT_REVIEW = os.path.join(ROOT, 'review', UNIT.slug)
 os.makedirs(UNIT_OUT, exist_ok=True)
 os.makedirs(UNIT_REVIEW, exist_ok=True)

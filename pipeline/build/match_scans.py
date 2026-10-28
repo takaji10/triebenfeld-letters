@@ -231,7 +231,7 @@ def align(letters, caps):
 
 
 def main():
-    with open(os.path.join(ROOT, 'corpus', 'units', UNIT.slug, 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'dataset', 'units', UNIT.slug, 'letters.json'), encoding='utf-8') as f:
         recs = json.load(f)
     recs.sort(key=lambda r: letter_key(r['letter_id']))
     for r in recs:

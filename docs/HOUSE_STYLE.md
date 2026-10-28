@@ -78,7 +78,7 @@ line or account, the story, the timeline, a link's sentence, a holding's
 notes, NEEDS_CONFIRMATION.
 
 1. **Look in the edition's documents first.** Search the corpus
-   (`corpus/documents/`, the transcription and the English) for the name,
+   (`dataset/documents/`, the transcription and the English) for the name,
    the year, the place, before taking anything from a book, the editor's
    notes from outside the edition, a reference work or a web page. A
    document often cites an older one the edition does not hold: the

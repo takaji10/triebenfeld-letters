@@ -232,8 +232,8 @@ def main():
     # no stretch of its text, original or English, is found in any built file.
     # Its title and its citations ("Seidel 2018, ch. ...") are allowed.
     print('checking the literature...')
-    lit_index = os.path.join(ROOT, 'corpus', 'literature', 'index.json')
-    lit_dir = os.path.join(ROOT, 'corpus', 'literature')
+    lit_index = os.path.join(ROOT, 'dataset', 'literature', 'index.json')
+    lit_dir = os.path.join(ROOT, 'dataset', 'literature')
     works = []
     if os.path.isfile(lit_index):
         with io.open(lit_index, encoding='utf-8') as f:
@@ -663,7 +663,7 @@ def main():
         import yaml
         with io.open(links_data, encoding='utf-8') as f:
             per_doc = yaml.safe_load(f) or {}
-        with io.open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+        with io.open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8') as f:
             permalink = {r['uid']: r['permalink'] for r in json.load(f)}
         n = 0
         for uid, lns in per_doc.items():

@@ -2,7 +2,7 @@
 """
 Generate the Jekyll site data from the canonical corpus database.
 
-Reads  : corpus/documents/ via unitlib.load_documents() (themselves derived
+Reads  : dataset/documents/ via unitlib.load_documents() (themselves derived
          from the canonical .txt)
 Writes : site/_letters/*.html          one page per record
          site/_data/*.yml              people, places, stats
@@ -652,7 +652,7 @@ def main():
                 body.append(_table)
             else:
                 # Numbered from 1 in each document, contiguously. The unit-absolute
-                # line is internal and is not published; corpus/index/ carries the
+                # line is internal and is not published; dataset/index/ carries the
                 # mapping for anyone who needs to resolve a citation.
                 # Text written sideways on the page gets a list of its own under
                 # a label, so it does not read as if it ran on in order. The

@@ -577,7 +577,7 @@ kept apart from the archival documents: `docs/LITERATURE_PLAN.md`. Each
 work's `literature/<slug>/notes.md` says what is known about its text.
 
 - [x] Six works brought in, each cut into pages in both languages and
-      checked to give back the whole file (`corpus/literature/`, made by
+      checked to give back the whole file (`dataset/literature/`, made by
       `pipeline/literature/build_literature.py`); Seidel kept off the site
       (editor).
 - [x] The site: a "Literature" menu entry, a list page and a page per work

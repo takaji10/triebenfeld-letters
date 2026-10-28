@@ -41,7 +41,7 @@ newspapers/<slug>/
                source (`scan:`) where there is one
   original.md  the transcription, line by line as printed, "¬" at a word
                broken at the line's end (the Kuryer Polski convention); the
-               file opens with comment lines, as corpus/literature/ does
+               file opens with comment lines, as dataset/literature/ does
   english.md   the English, made in a session, not checked whole
   notes.md     how it came in, how it was read, every ruling of the editor,
                what was left out, what it bears on, the rights
@@ -130,7 +130,7 @@ visible items — the literature's index machinery
 The rulings are in `newspapers/index.yml`, one per name and spelling
 (`--sheet` writes every hit in context to review/newspapers/mentions.md;
 `--check` fails on a hit with no ruling, so a new item cannot bring unread
-hits to the site). Kept hits go to `corpus/newspapers/mentions.json` (for
+hits to the site). Kept hits go to `dataset/newspapers/mentions.json` (for
 questions) and `site/_data/newspapers_mentions.yml` — the box "In the
 newspapers" on a person's entry on /people/ and an estate's on /places/,
 beside the literature's, closed by default.

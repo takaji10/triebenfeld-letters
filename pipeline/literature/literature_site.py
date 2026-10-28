@@ -2,9 +2,9 @@
 """
 The literature on the website: a list of the works and a page for each.
 
-Reads  : corpus/literature/index.json and the passage files beside it
+Reads  : dataset/literature/index.json and the passage files beside it
          (made by build_literature.py), site/_data/i18n.yml (the labels),
-         literature/links.yml (the hand-made links), corpus/letters.json and
+         literature/links.yml (the hand-made links), dataset/letters.json and
          units/<slug>/unit.yml (the linked documents)
 Writes : site/_data/literature.yml         the visible works, for the list page
          site/_data/literature_links.yml   the links, by document (letter.html)
@@ -63,7 +63,7 @@ import yaml
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-CORPUS = os.path.join(ROOT, 'corpus', 'literature')
+CORPUS = os.path.join(ROOT, 'dataset', 'literature')
 SITE = os.path.join(ROOT, 'site')
 BASES = {'en': ('_literature', '/literature/', '/de/literatur/'),
          'de': ('_literature_de', '/de/literatur/', '/literature/')}
@@ -205,14 +205,14 @@ def load_links(works):
     """literature/links.yml, checked against the passages and the documents.
 
     Returns the links, each with `docs` (the documents' records from
-    corpus/letters.json, with their holding's `ref`). Stops on a passage or a
+    dataset/letters.json, with their holding's `ref`). Stops on a passage or a
     document that does not exist, and on a passage of a work not shown."""
     path = os.path.join(ROOT, 'literature', 'links.yml')
     if not os.path.isfile(path):
         return []
     with open(path, encoding='utf-8') as f:
         links = yaml.safe_load(f) or []
-    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8') as f:
         letters = {r['uid']: r for r in json.load(f)}
     by_slug = {w['slug']: w for w in works}
     refs, errors = {}, []
