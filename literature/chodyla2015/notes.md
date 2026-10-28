@@ -196,6 +196,26 @@ the hearth tax of 1789 (Kalisz Tab.21). Where the book and the document
 differ, the sentence says so and that the edition follows the document (the
 editor's rule of 2026-10-21).
 
+## For the place pages (2026-10-28)
+
+The book was read whole for the gazetteer's places; the proposals are in
+`docs/CHODYLA_ADDITIONS.md`. The editor's rulings of the day: **nothing of
+this book's on Trąbczyn's Olęder colonies** goes into the place pages ("my
+information is better, and the primary sources speak for themselves");
+**for any fact from this book, the primary source it cites is consulted
+first, taken before it and cited wherever possible** (HOUSE_STYLE, "The
+documents first", point 7). Read so, the book's 1791 population figures
+come from the visitation the edition holds (ADWł 85, docs 1 and 2), and two
+differ from it: the Trąbczyn Olędry (the book 265, 76 Catholics; the
+visitation 275, 86) and Wrąbczynek (the book 111, and in note 218 223, which
+is the visitation's Wrąbczyn Wielki; the visitation 117). The visitation is
+taken.
+
+The name of the starost of Pietrzyków: the book's p. 49 has only the
+genitive "Szczepana Turny", from which the gazetteer's "Szczepan Turna"
+was read back; the nominative is Turno (p. 52, "Stefana/Szczepana Turno";
+his mother "Turnowa").
+
 ## Open
 
 - Published at the editor's word, 2026-10-21.

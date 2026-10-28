@@ -115,6 +115,16 @@ notes, NEEDS_CONFIRMATION.
 6. **A fact the editor gives** (a date of death, an identification) stands
    as their ruling. Where a document says otherwise, it is put to them the
    same way.
+7. **A book's fact goes back to the source the book cites** (the editor,
+   2026-10-28, on Chodyła): "For any facts coming from Chodyła, consult the
+   primary source first, which should be taken before Chodyła. Cite the
+   primary source wherever possible." Before a book's fact is proposed,
+   follow its footnote: where the edition holds the document it names, read
+   the document, take the fact from it and cite it, not the book; where the
+   edition does not, cite the book and name the source it cites beside it,
+   so that it can be brought in (`docs/MISSING_SOURCES.md`). Footnotes
+   often cite a document the edition holds on a leaf it does not (Pyzdry
+   Gr.115 has leaf 543, not 543v): check the leaf, not only the volume.
 
 Examples, both of 2026-10-19 and 10-20: Żychliński (1891) has Maryanna
 Dąmbska die on 2 September 1797, but the Prussian resident's dispatch from

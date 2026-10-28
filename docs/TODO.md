@@ -1360,3 +1360,30 @@ transcription; 108 readings settled in session before the first build
       (2026-10-26, in chat) — there is no content past 167v**; the register
       ends there. No next leaf to ask for; the entry stands as the volume's
       last, and the sheet's tail_167v row came off.
+
+## 56. The place pages: Chodyła and the documents' own figures (added 2026-10-28)
+
+- [ ] **Chodyła's facts for the place pages** (`docs/CHODYLA_ADDITIONS.md`,
+      revised at your word the same day): the primary source first, nothing
+      on Trąbczyn's Olęder colonies, A-D, F, G not used. Waiting on your
+      yes to the list as it stands, and on E (Szczepan **Turno**, not Turna,
+      in `wrabczynek` and `wrabczynkowskie-holendry`: the book's "Turny" on
+      p. 49 is the genitive of Turno). Then the entries are written, with
+      the German, and the sources Chodyła cites that the edition lacks go
+      onto `docs/MISSING_SOURCES.md` (Pyzdry Gr.110, Pyzdry Gr.115 leaf
+      543v, APP SAB 732, AGAD ASK XLVI 116, the Zbiersk charter).
+- [ ] **The documents' own figures for the places** (your word: "we'll
+      need to look into that at a later point"): the visitation of 1791
+      gives the people of every place of the parishes of Trąbczyn (ADWł 85,
+      doc. 1: Osiny 71, Nowa Wieś 65, Mariantów 40, Porąbki 17, ...) and
+      Zagórów (doc. 2: 24 places, Łukom 201, Łomów 150, Myszaków 82, Grądzeń
+      48, Kopojno 232, Drzewce 116, Oleśnica 201, Wrąbczyn 223, ...; at
+      Myszakówek "a woman aged 110"); the Prussian register of about 1797
+      (AGAD 1/169/0/1/1745) gives houses and people for its entries 140-303;
+      the hearth-tax register of 1789 (Kalisz Tab.21) its sums. A sentence
+      for each place, citing the document alone, as the gazetteer's
+      enhancement pass (GAZETTEER_PLAN, section 8, step 7).
+- [ ] Wąsicki (1953) p. 165, which Chodyła cites for Kolonia Lisewo in 1804
+      (20 families, 99 people): the edition's p. 165 does not name Lisewo.
+      Find where Wąsicki says it before the Lisewska Kolonia sentence goes in.
+

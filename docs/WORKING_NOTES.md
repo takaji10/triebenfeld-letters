@@ -2654,3 +2654,14 @@ cloud branches").
   2026-10-28; the literature index's three unruled pairs were ruled by the
   editor the same day (Grądzeń the modern name of Grądzyń; Kolonia Lisewo,
   not the village of Lisewo; "Rogaler" the Rogall hymn-book).
+
+## Polish surnames in -o read back from the genitive (2026-10-28)
+
+A Polish masculine surname ending in *-o* declines like a feminine noun in
+*-a*: Fredro, Fredry; Kościuszko, Kościuszki; **Turno, Turny**. A book that
+names a man only in the genitive ("pełnomocnika Szczepana Turny") gives a
+false nominative if read back as a noun in *-a*: the gazetteer's "Szczepan
+Turna" came so from Chodyła p. 49, where p. 52 has "Szczepana Turno" and his
+mother "Turnowa". Before writing a surname from a Polish oblique case, find
+it in the nominative, or in the undeclined form, in the same source.
+
