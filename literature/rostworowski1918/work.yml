@@ -24,78 +24,37 @@ scan: "https://sbc.org.pl/dlibra/publication/94492/edition/89178/materyaly-do-dz
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  The day-by-day journal of the Governing Commission (Komisya Rządząca) of
-  the Duchy of Warsaw, the body that carried the government from January
-  1807 while Napoleon held the country, printed for the first time from the
-  manuscript a century later, edited by Michał Rostworowski and published
-  by the Academy of Learning at Kraków in 1918. Each sitting is recorded:
-  the memorials received and referred, the resolutions taken in actis, the
-  attendance of the President Stanisław Małachowski and the Directors. The
-  later part of the volume adds the protocols of the Directorium Generalne,
-  the council of Directors left to govern in Warsaw while the Commission
-  sat at Dresden in July 1807, written in the first person and numbered as
-  dispatches, mostly in the hand of Antoni Łubieński, the Director of
-  Police. It is an edited primary record, not a study: the editor's notes
-  cite the archive's allegats, and the manuscript's slips stand as printed.
-  Only four passages are brought in, those that name or bear on Michalina z
-  Prusimskich Dąbska, whose petitions for the return of her father's
-  confiscated estates are among the documents: the reference of her memorial to
-  the Director of Justice for general rules on the confiscations (sitting
-  51 of 13 February, pp. 43-44), the Director's opinion that her request is
-  "a matter of a purely political character", which the Commission answered
-  by resolving to petition the Emperor for the repeal of the confiscations
-  and ordering the Administrative Chambers to watch the estates (sitting 58
-  of 18 February, pp. 54-55), the Directorium's protocol of 15 July 1807
-  reporting that she was among the very many leaving for Dresden (No. 3,
-  pp. 321-323), and the extraordinary sitting of 21 July at Dresden, where
-  the Commission, taking example from the Emperor's decree of 5 June
-  restoring Wybicki's estates, extended that decree to her case and to
-  General Niemojewski's and Mr. Wichrowski's (sitting 210, pp. 303-304).
+  The day-by-day journal of the Governing Commission of the Duchy of Warsaw,
+  the body that carried the government from January 1807 while Napoleon held
+  the country, printed for the first time from the manuscript in 1918 by
+  Michał Rostworowski for the Academy of Learning at Kraków. Each sitting is
+  recorded with the memorials received and referred, the resolutions taken and
+  the attendance of the President, Stanisław Małachowski, and the Directors.
+  The later part of the volume adds the protocols of the Directorium
+  Generalne, the council of Directors left in Warsaw while the Commission sat
+  at Dresden in July 1807. Four passages are given, those on the memorial and
+  petitions of Michalina Dąbska, née Prusimska, for the return of her father's
+  confiscated estates, from 13 February to the sitting at Dresden of 21 July
+  1807.
 account_de: >-
-  Das Tag für Tag geführte Protokoll der Regierenden Kommission
-  (Komisya Rządząca) des Herzogtums Warschau, des Gremiums, das ab Januar
-  1807 die Regierung führte, während Napoleon das Land in Händen hielt,
-  ein Jahrhundert später erstmals nach der Handschrift gedruckt, herausgegeben
-  von Michał Rostworowski und 1918 von der Akademie der Wissenschaften in
-  Krakau veröffentlicht. Jede Sitzung ist verzeichnet: die empfangenen und
-  überwiesenen Bittschriften, die in actis gefassten Beschlüsse, die Anwesenheit
-  des Präsidenten Stanisław Małachowski und der Direktoren. Der spätere Teil
-  des Bandes fügt die Protokolle des Directorium Generalne hinzu, des Rates
-  von Direktoren, der in Warschau regierte, während die Kommission im Juli
-  1807 in Dresden saß, in der ersten Person geschrieben und als Depeschen
-  numeriert, meist von Antoni Łubieński, dem Polizeidirektor. Es ist ein
-  herausgegebenes Quellenzeugnis, keine Untersuchung: die Anmerkungen des
-  Herausgebers verweisen auf die Allegate des Archivs, und die Fehler der
-  Handschrift stehen, wie gedruckt. Nur vier Abschnitte sind aufgenommen,
-  die Michalina z Prusimskich Dąbska nennen oder betreffen, deren Bittschriften
-  um die Rückzahlung der konfiszierten Güter ihres Vaters sich unter den Dokumenten befinden:
-  die Überweisung ihres Memorials an den Justizdirektor zwecks allgemeiner
-  Regeln über die Konfiskationen (Sitzung 51 vom 13. Februar, S. 43-44), die
-  Meinung des Direktors, ihr Begehren sei "eine Sache von rein politischem
-  Charakter", worauf die Kommission beschloss, beim Kaiser um Aufhebung der
-  Konfiskationen zu bitten, und die Administrative Kammern zur Aufsicht über
-  die Güter anwies (Sitzung 58 vom 18. Februar, S. 54-55), das Protokoll des
-  Directorium vom 15. Juli 1807, das meldet, daß sie zu den sehr vielen gehörte,
-  die nach Dresden abreisten (Nr. 3, S. 321-323), und die außerordentliche
-  Sitzung vom 21. Juli in Dresden, in der die Kommission, dem Beispiel des
-  kaiserlichen Dekrets vom 5. Juni folgend, das Wybickis Güter zurückgab, das
-  Dekret auf ihren Fall und die des Generals Niemojewski und des Herrn
-  Wichrowski erstreckte (Sitzung 210, S. 303-304).
+  Das Tagebuch der Regierungskommission des Herzogtums Warschau, der Behörde,
+  die ab Januar 1807 die Regierung führte, während Napoleon das Land hielt,
+  1918 von Michał Rostworowski für die Akademie der Wissenschaften in Krakau
+  erstmals aus der Handschrift gedruckt. Jede Sitzung ist verzeichnet mit den
+  eingegangenen und überwiesenen Memorialen, den gefassten Beschlüssen und der
+  Anwesenheit des Präsidenten Stanisław Małachowski und der Direktoren. Der
+  spätere Teil des Bandes fügt die Protokolle des Directorium Generalne hinzu,
+  des Rates der Direktoren, der in Warschau blieb, während die Kommission im
+  Juli 1807 in Dresden tagte. Wiedergegeben sind vier Stellen, die über das
+  Memorial und die Bittschriften der Michalina Dąbska, geb. Prusimska, um die
+  Rückgabe der eingezogenen Güter ihres Vaters, vom 13. Februar bis zur
+  Sitzung in Dresden am 21. Juli 1807.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  The journal of the Governing Commission of the Duchy of Warsaw of 1807,
-  printed for the first time in Rostworowski's edition of 1918, brought in
-  only where it touches the petition of Michalina Dąbska née Prusimska for the
-  return of her father's confiscated estates – from the reference of her
-  memorial to the Director of Justice to the sitting of 21 July at Dresden
-  that took her case up by the example of the Emperor's decree restoring
-  Wybicki's estates.
+  The journal of the Governing Commission of the Duchy of Warsaw of 1807, with
+  the four sittings on Michalina Dąbska's petitions for her father's estates.
 brief_de: >-
-  Das Protokoll der Regierenden Kommission des Herzogtums Warschau von 1807,
-  in Rostworowskis Ausgabe von 1918 erstmals gedruckt, aufgenommen nur dort,
-  wo es die Petition der Michalina Dąbska geb. Prusimska um die Rückgabe der
-  konfiszierten Güter ihres Vaters berührt – von der Überweisung ihres
-  Memorials an den Justizdirektor bis zu der Sitzung vom 21. Juli in Dresden,
-  die nach dem Beispiel des kaiserlichen Dekrets, das Wybickis Güter
-  zurückgab, ihren Fall aufnahm.
+  Das Tagebuch der Regierungskommission des Herzogtums Warschau von 1807, mit
+  den vier Sitzungen über Michalina Dąbskas Bittschriften um die Güter ihres
+  Vaters.

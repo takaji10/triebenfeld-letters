@@ -26,3 +26,10 @@ thing to know in reading it: **"heir" renders the Latin *heres*, which in
 Polish law means the owner of a hereditary estate (dziedzic), not an heir**;
 a "collateral heir" (*collateralis*) is the owner of the adjoining estate
 summoned as a third party, as the English glossary at the end explains.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It does not name Trąbczyn, but it is the procedure of the boundary decrees
+> of 1775 and 1782 between Trąbczyn and its neighbours.

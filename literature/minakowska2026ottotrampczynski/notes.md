@@ -132,3 +132,13 @@ genealogy block); whether it is to have one is the editor's.
 None written yet. The obvious one, when the editor wants it: the work's
 descent section against the decree of 1644 (APP 53/6/0/-/36) - the same
 family, the database's page giving the brothers' father's father.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The second Wojciech's marriage to Marianna née Zawadzka carries the line of
+> the Trąmpczyńskis that the documents of the seventeenth century name (the
+> brothers Marcin, Wojciech, Władysław and Andrzej, sons of the late
+> Stanisław, condemned in 1644 at the suit of Jerzy Chełmski). The whole page
+> is kept in the work's folder as full.md.

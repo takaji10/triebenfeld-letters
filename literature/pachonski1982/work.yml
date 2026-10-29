@@ -18,44 +18,32 @@ english_by: Claude
 pages:
   mark: '^\\\[(?P<page>\d+)\\\]\s*$'
 account_en: >-
-  The entry in the Polish Biographical Dictionary on Antoni Prusimski (1744 to
-  about 1806), the owner of Trąbczyn whose estates Prussia confiscated after
-  the rising of 1794, by Jan Pachoński, a historian of the Polish Legions. It gives his family (son of Stefan, owner
-  of Kamionna, Kolno and Trąbczyn), his seats in the Sejm, the commissions the
-  Sejm of 1773-1775 named to settle disputes over estates, Trąbczyn among
-  them, his part in
-  the Kuyavian rising of 1794, the confiscation of his estates by Prussia, his
-  exile in Venice, Paris, England and Dresden, his return in 1803 and his
-  daughter Michalina, wife first of Józef Dąmbski and from 1809 of Stanisław
-  Miączyński. It is a scholar's summary from the archives and literature it
-  lists at the end; most of it is about his politics in exile, and its few
-  words on the estates are to be held against the documents.
+  Jan Pachoński's entry in the Polski Słownik Biograficzny on Antoni Prusimski
+  (1744 to about 1806), son of Stefan, owner of Kamionna, Kolno and Trąbczyn.
+  It follows his seats in the Sejm, the commissions the Sejm of 1773-1775
+  named to settle disputes over estates, Trąbczyn among them, his part in the
+  Kuyavian rising of 1794, the confiscation of his estates by Prussia, his
+  exile in Venice, Paris, England and Dresden, and his return in 1803. It
+  closes with his daughter Michalina, wife first of Józef Dąmbski and from
+  1809 of Stanisław Miączyński. The entry lists its archives and literature at
+  the end.
 account_de: >-
-  Der Artikel des Polnischen Biographischen Wörterbuchs über Antoni Prusimski
-  (1744 bis um 1806), den Herrn von Trąbczyn, dessen Güter Preußen nach dem
-  Aufstand von 1794 einzog, von Jan
-  Pachoński, einem Historiker der Polnischen Legionen. Er nennt seine Familie
-  (Sohn Stefans, des Besitzers von Kamionna, Kolno und Trąbczyn), seine Sitze
-  im Sejm, die Kommissionen, die der Sejm von 1773-1775 für Streitigkeiten
-  um Güter einsetzte, darunter Trąbczyn, seinen Anteil am kujawischen Aufstand von
-  1794, die Einziehung seiner Güter durch Preußen, sein Exil in Venedig,
-  Paris, England und Dresden, seine Rückkehr 1803 und seine Tochter Michalina,
-  in erster Ehe Frau Józef Dąmbskis, ab 1809 Stanisław Miączyńskis. Es ist
-  die Zusammenfassung eines Gelehrten aus den Archiven und der Literatur, die
-  er am Ende nennt; das meiste betrifft seine Politik im Exil, und seine
-  wenigen Worte über die Güter sind an den Dokumenten zu prüfen.
+  Jan Pachońskis Eintrag im Polski Słownik Biograficzny über Antoni Prusimski
+  (1744 bis um 1806), den Sohn Stefans, Besitzer von Kamionna, Kolno und
+  Trąbczyn. Er verfolgt seine Sitze im Sejm, die Kommissionen, die der Sejm
+  von 1773-1775 zur Schlichtung von Güterstreitigkeiten einsetzte, darunter
+  für Trąbczyn, seine Teilnahme am kujawischen Aufstand von 1794, die
+  Einziehung seiner Güter durch Preußen, sein Exil in Venedig, Paris, England
+  und Dresden und seine Rückkehr 1803. Er schließt mit seiner Tochter
+  Michalina, zuerst Frau des Józef Dąmbski und seit 1809 des Stanisław
+  Miączyński. Der Eintrag nennt am Ende seine Archive und Literatur.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  The Polish Biographical Dictionary's entry on Antoni Prusimski (1744 to
-  about 1806), the owner of Trąbczyn: his family, his seats in the Sejm, the
-  commissions of 1773-1775, his part in the Kuyavian rising of 1794, the
-  confiscation of his estates by Prussia and the exile to his return of 1803,
-  and his daughter Michalina, who carried Trąbczyn to the Miączyńskis.
+  The Polski Słownik Biograficzny's entry on Antoni Prusimski (1744 to about
+  1806), owner of Trąbczyn, from the Sejm and the rising of 1794 to his exile
+  and his return in 1803.
 brief_de: >-
-  Der Artikel des Polnischen Biographischen Wörterbuchs über Antoni Prusimski
-  (1744 bis etwa 1806), den Besitzer von Trąbczyn: seine Familie, seine Sitze
-  im Sejm, die Kommissionen von 1773-1775, sein Anteil am kujawischen Aufstand
-  von 1794, die Einziehung seiner Güter durch Preußen und das Exil bis zu
-  seiner Rückkehr von 1803, und seine Tochter Michalina, die Trąbczyn zu den
-  Miączyńskis brachte.
+  Der Eintrag des Polski Słownik Biograficzny über Antoni Prusimski (1744 bis
+  um 1806), Besitzer von Trąbczyn, vom Sejm und dem Aufstand von 1794 bis zu
+  seinem Exil und seiner Rückkehr 1803.

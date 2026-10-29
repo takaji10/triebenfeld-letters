@@ -63,3 +63,12 @@ the Warta river" (p. 93); Table 1 gives "Cuyavia and east Great Poland" 11 to
 farming of the Dutch colonists" of Royal Prussia (p. 95), whose name the
 Olęders carried. "Nowa Wieś" is a common place name (the editor): no link is
 made to a Nowa Wieś unless the text means the Trąbczyn estate's.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Background to the farming of the estates and their Olęder settlers (the
+> editor): it names neither Trąbczyn nor the Olęders, but speaks of grain from
+> Great Poland sent "a little along the Warta river" and of the farming of the
+> Dutch colonists in Royal Prussia.

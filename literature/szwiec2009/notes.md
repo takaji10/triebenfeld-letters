@@ -63,3 +63,12 @@ means the Trąbczyn estate's; this catalogue names none.
 ## Open
 
 - The editor's view of how useful it is, and the word to publish.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> A survey of buildings standing in 2009; its pages on the history of
+> settlement quote Zbigniew Chodyła. Its captions do not name the villages.
+> The project was "The Pyzdry Forest: the Olęders and their iron houses"; the
+> author is of the Studio of Detail Design.

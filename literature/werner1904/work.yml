@@ -19,65 +19,35 @@ scan: "https://www.wbc.poznan.pl/dlibra/publication/34695/edition/51858/content"
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  A parish history of the evangelical parishes of the Prussian province of
-  Posen, compiled by Albert Werner, formerly pastor at Tremessen, revised by
-  Johannes Steffani, deacon at St. Peter's church in Posen, and published by
-  the Royal Consistory of the province of Posen (Lissa: Friedrich Ebbecke,
-  1904). The parishes are taken entry by entry, numbered, each with the story
-  of its founding, its church buildings and its pastors. Only entry 201, the
-  parish of Wreschen (Września), is brought in, whole (printed pp. 422-424).
-  It bears on the area at one point: the Wreschen parish
-  originally served the German Hauländer country around the towns of Peisern
-  (Pyzdry) and Zagorowo (Zagórów), and "a district rich in German Hauland
-  lands" went from it in 1817, when those places came to Russia – the
-  Olęder/Hauländer country the documents are set in. The entry also
-  records the parish's founding: the leave of the lord Matthias Lodzia
-  Poniński of 1758 to hold religious meetings and found a school, its renewal
-  in 1760 by the Crown Treasurer Prince Adam Poniński, who furthered an
-  evangelical local congregation to raise the town by German settlers, his
-  privilege of 1 May 1778 giving the orangery house in the castle garden for
-  a church, two buildings for the parson and the canton, and one Culm Hufe of
-  land for the parsonage, and the Consistory in Lissa approving the parish in
-  1779; the rebuilding of the church of 1822, the help of the Gustav Adolf
-  Verein, the new church of 1895, the filial Wilhelmsau of 1892 with its
-  Bethaus of the Royal Settlement Commission, and the list of the ten pastors
-  of 1779-1904.
+  Albert Werner's history of the evangelical parishes of the Prussian province
+  of Posen, revised by Johannes Steffani and published by the Royal Consistory
+  at Lissa in 1904, which takes the parishes one by one with their founding,
+  churches and pastors. Only entry 201, the parish of Wreschen (Września), is
+  given, whole. The parish first served the German Hauländer country around
+  Peisern (Pyzdry) and Zagorowo (Zagórów), and lost "a district rich in German
+  Hauland lands" in 1817, when those places came to Russia. The entry also
+  tells of the parish's founding under the Poniński lords from 1758, the
+  church in the orangery house given in 1778, the new church of 1895, and its
+  ten pastors from 1779 to 1904.
 account_de: >-
-  Eine Geschichte der evangelischen Parochien der preußischen Provinz Posen,
-  verfaßt von Albert Werner, früher Pastor in Tremessen, überarbeitet von
-  Johannes Steffani, Diakonus an der St. Petrikirche in Posen, herausgegeben
-  von dem Königlichen Consistorium der Provinz Posen (Lissa: Friedrich
-  Ebbecke, 1904). Die Parochien werden Eintrag für Eintrag, numeriert,
-  behandelt, jede mit der Geschichte ihrer Gründung, ihrer Kirchbauten und
-  ihrer Pastoren. Nur Eintrag 201, die Parochie Wreschen (Września), ist
-  aufgenommen, und zwar als Ganzes (gedruckt S. 422-424). Sie berührt das Gebiet an einem Punkt: Die Parochie Wreschen diente ursprünglich
-  dem deutschen Hauländer Land um die Städte Peisern (Pyzdry) und Zagorowo
-  (Zagórów), und "eine an deutschen Hauländereien reiche Gegend" ging 1817 für
-  sie verloren, als jene Ortschaften an Rußland kamen – das Olęder-/Hauländer
-  Land, in dem die Dokumente stehen. Die Eintrag hält auch die
-  Gründung der Parochie fest: die Erlaubnis des Gutsherrn Matthias Lodzia
-  Poniński von 1758, religiöse Zusammenkünfte zu halten und eine Schule zu
-  gründen, ihre Erneuerung 1760 durch den Kronschätzmeister Fürst Adam
-  Poniński, der auch die Bildung einer evangelischen Ortsgemeinde beförderte,
-  um die Stadt durch deutsche Ansiedler zu heben, sein Privilegium vom 1. Mai
-  1778, das das Orangeriehaus im Schloßgarten zur Kirche, zwei Gebäude zur
-  Pfarrer- und Kantorwohnung und eine culm. Hufe Acker zum Pfarrlande gab, und
-  das Konsistorium in Lissa, das 1779 die Bildung einer besonderen Pfarre
-  genehmigte; der Umbau der Kirche von 1822, die Beihilfe des Gustav-Adolf-
-  Vereins, die neue Kirche von 1895, das 1892 ins Leben getretene Filial
-  Wilhelmsau mit seinem Bethaus der Königlichen Ansiedlungskommission und das
-  Verzeichnis der zehn Pastoren von 1779 bis 1904.
+  Albert Werners Geschichte der evangelischen Parochien der preußischen
+  Provinz Posen, bearbeitet von Johannes Steffani und 1904 vom Königlichen
+  Konsistorium in Lissa herausgegeben, die die Parochien eine nach der anderen
+  mit Gründung, Kirchen und Pastoren behandelt. Wiedergegeben ist nur der
+  Eintrag 201, die Parochie Wreschen (Września), ganz. Die Parochie versorgte
+  zuerst das deutsche Hauländerland um Peisern (Pyzdry) und Zagorowo (Zagórów)
+  und verlor 1817, als diese Orte an Russland kamen, „eine an deutschen
+  Hauländereien reiche Gegend“. Der Eintrag erzählt auch von der Gründung der
+  Parochie unter den Herren Poniński seit 1758, der 1778 geschenkten Kirche im
+  Orangeriehaus, der neuen Kirche von 1895 und ihren zehn Pastoren von 1779
+  bis 1904.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  The parish history of the evangelical parishes of the Prussian province of
-  Posen, compiled by Werner and published by the Royal Consistory in 1904,
-  brought in for the parish of Wreschen alone: it was the church of the German
-  Hauländer country round Pyzdry and Zagórów, and lost that district in 1817,
-  when the places came to Russia.
+  Werner's history of the evangelical parishes of Posen, of which the entry on
+  Wreschen is given: the parish of the Hauländer country round Pyzdry and
+  Zagórów until 1817.
 brief_de: >-
-  Die Parochiengeschichte der evangelischen Parochien der preußischen Provinz
-  Posen, verfasst von Werner und herausgegeben vom Königlichen Konsistorium
-  1904, aufgenommen mit der Parochie Wreschen allein: sie war die Kirche des
-  deutschen Hauländerlands um Pyzdry und Zagórów, und verlor jene Gegend 1817,
-  als die Ortschaften an Russland kamen.
+  Werners Geschichte der evangelischen Parochien Posens, wiedergegeben der
+  Eintrag über Wreschen: die Parochie des Hauländerlandes um Pyzdry und
+  Zagórów bis 1817.

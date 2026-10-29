@@ -162,3 +162,9 @@ book's italics. Place names are in today's Polish form.
 Not written: p. 222, Władysław, to the liquidation tables of 1868 and after
 (`apl399806603`). The plan said the tables name the estate's owner; read
 again, they do not, so there is nothing in them for the sentence to rest on.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The ownership line of the later eras in a secondary witness.

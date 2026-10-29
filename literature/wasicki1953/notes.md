@@ -97,3 +97,11 @@ conscription); *sołtys* sołtys (village headman); *podymne* hearth tax.
   wanted for questions.
 - Copyright: the article (1953) is presumably still protected; the Licences
   page says the modern works on the Literature page are outside CC BY.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Its "bourgeois historians" and citations of Marx are the language of 1953;
+> its own sources are the Prussian administration's. The villages named:
+> Ludwigslust, Emilienheim, Święcia, the Wrąbczyn colony and others.

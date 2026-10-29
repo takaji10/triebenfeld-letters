@@ -140,3 +140,15 @@ church province, not the Polish parafie of the civil division).
 Printed 1904; author and reviser long dead. Out of copyright, hence
 `visible: true`. Digitisation and rights at the WBC: Biblioteka Uniwersytecka
 w Poznaniu.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It bears on the area at one point, the Hauländer country the documents are
+> set in. Werner was formerly pastor at Tremessen; Steffani deacon at St.
+> Peter's in Posen. The founding in detail: the leave of Matthias Lodzia
+> Poniński of 1758, its renewal in 1760 by the Crown Treasurer Prince Adam
+> Poniński, his privilege of 1 May 1778, the Consistory's approval of 1779,
+> the rebuilding of 1822, the Gustav Adolf Verein, the filial Wilhelmsau of
+> 1892.

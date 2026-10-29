@@ -32,67 +32,37 @@ english_by: "the editor's files"
 pages:
   mark: '^<!-- s\. (?P<page>\S+)( \[PDF \d+\])? -->$'
 account_en: >-
-  A small regional book by Mirosław Słowiński (the author of Zagórów. Album
-  miasta, 2007, and co-editor of Dwa życia jak dwa psalmy, 2012, and of
-  Zerwane ogniwo. Ewangelicy na ziemi zagórowskiej, 2024), published by the
-  press of the Zofia Urbanowska Public Library at Konin
-  with the Stowarzyszenie Współpraca Polska-Wschód, and read in manuscript by
-  Professor Artur Kijas at the author's request. It edits and discusses a
-  hoard of letters found in 1995 walled up in the former cantor's house at
-  Łazińsk: the correspondence of Bruno Edwin Mielke, a Wehrmacht private from
-  Łazińsk who served on the Arctic front (the Eismeerfront at Petsamo/
-  Pieczenga) from 1942 to 1944, and of his family at home, written from
-  14 February 1940 to 14 May 1944. The letters are given translated into
-  Polish (by a team of six, Jacek Kin foremost; the originals are kept in the
-  archive of the MGOK at Zagórów), the commentary is the author's, an
-  introduction sets the letters in the history of the German settlement
-  around Zagórów, and an appendix reprints a German-era note on Łazińsk (Der
-  Heimatbote 1981), a contemporary note, the list of the hoard's contents and
-  the list of the cantor's library. A witness of the twentieth century, the
-  era of the Ostdeutscher Beobachter's feature on Łazińsk of 19 July 1942 and
-  of Breyer's Łazińsk notebook of 1936 (APP 53/968/0/-/669): its cantor
-  Gustav Adolf Mielke – the teacher and farmer Mielke of the 1942 article,
-  "since 1925" in Breyer's notebook – is the one man (the editor's ruling of
-  2026-10-22).
+  Mirosław Słowiński, the author of Zagórów. Album miasta (2007), edits and
+  discusses a hoard of letters found in 1995 walled up in the former cantor's
+  house at Łazińsk, in a book published at Konin in 2023. They are the letters
+  of Bruno Edwin Mielke, a Wehrmacht private from Łazińsk who served on the
+  Arctic front at Petsamo from 1942 to 1944, and of his family at home,
+  written from February 1940 to May 1944. The letters are given in Polish
+  translation, with the author's commentary, an introduction on the German
+  settlement around Zagórów, and an appendix with a German-era note on Łazińsk
+  and the lists of the hoard and of the cantor's library. The book is under
+  copyright, and a detailed summary stands in its place.
 account_de: >-
-  Ein kleines regionales Buch von Mirosław Słowiński (dem Verfasser von
-  Zagórów. Album miasta, 2007, und Mitherausgeber von Dwa życia jak dwa
-  psalmy, 2012, und Zerwane ogniwo. Ewangelicy na ziemi zagórowskiej, 2024),
-  im Verlag der Zofia-Urbanowska-Stadtbibliothek zu Konin mit dem
-  Stowarzyszenie Współpraca Polska-Wschód erschienen, vom Professor Artur
-  Kijas auf des Verfassers Bitte in der Reinschrift gelesen. Es ediert und
-  erörtert einen 1995 in der ehemaligen Kantorenwohnung von Łazińsk
-  eingemauerten Bestand von Briefen: die Korrespondenz des Bruno Edwin
-  Mielke, eines einfachen Soldaten der Wehrmacht aus Łazińsk, der von 1942
-  bis 1944 an der Eismeerfront bei Petsamo/Pieczenga diente, und seiner
-  Familie in der Heimat, geschrieben vom 14. Februar 1940 bis zum 14. Mai
-  1944. Die Briefe sind ins Polnische übersetzt gegeben (von einem Team von
-  sechs, an der Spitze Jacek Kin; die Originale liegen im Archiv des MGOK in
-  Zagórów), der Kommentar ist des Verfassers, eine Einleitung ordnet die
-  Briefe in die Geschichte der deutschen Besiedlung um Zagórów ein, und ein
-  Anhang druckt eine Notiz der deutschen Zeit über Łazińsk nach (Der
-  Heimatbote 1981), eine heutige Notiz, das Verzeichnis des Bestands und das
-  Verzeichnis der Kantorbücherei. Ein Zeuge des zwanzigsten Jahrhunderts, der
-  Zeit des Features des Ostdeutschen Beobachters über Łazińsk vom 19. Juli
-  1942 und des Łazińsker Notizbuchs Breyers von 1936 (APP 53/968/0/-/669):
-  sein Kantor Gustav Adolf Mielke – der Lehrer und Bauer Mielke des Artikels
-  von 1942, "seit 1925" im Notizbuch Breyers – ist derselbe Mann
-  (Herausgeberentscheidung vom 22.10.2026).
+  Mirosław Słowiński, der Verfasser von Zagórów. Album miasta (2007), gibt
+  einen 1995 im ehemaligen Kantorhaus von Łazińsk eingemauert gefundenen
+  Briefschatz heraus und bespricht ihn, in einem 2023 in Konin erschienenen
+  Buch. Es sind die Briefe des Bruno Edwin Mielke, eines Wehrmachtsoldaten aus
+  Łazińsk, der von 1942 bis 1944 an der Eismeerfront bei Petsamo diente, und
+  seiner Familie daheim, geschrieben vom Februar 1940 bis zum Mai 1944. Die
+  Briefe stehen in polnischer Übersetzung, mit dem Kommentar des Verfassers,
+  einer Einleitung über die deutsche Besiedlung um Zagórów und einem Anhang
+  mit einer Notiz der deutschen Zeit über Łazińsk und den Verzeichnissen des
+  Fundes und der Bibliothek des Kantors. Das Buch ist urheberrechtlich
+  geschützt; an seiner Stelle steht eine ausführliche Zusammenfassung.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  A small regional book of 2023 that edits and discusses the letters found in
-  1995 walled into the former cantor's house at Łazińsk: a Wehrmacht private
-  from Łazińsk who served on the Arctic front from 1942, and his family at
-  home, to 1944 – a witness of the cantor of the Ostdeutscher Beobachter's
-  feature of 1942 and of Breyer's notebook of 1936.
+  Słowiński's edition of the letters found in 1995 in the wall of the cantor's
+  house at Łazińsk, written by a Wehrmacht soldier and his family, 1940 to
+  1944.
 brief_de: >-
-  Ein kleines regionales Buch von 2023, das die 1995 in der Wand des
-  ehemaligen Kantorenhauses von Łazińsk eingemauert gefundenen Briefe ediert
-  und erörtert: ein einfacher Soldat der Wehrmacht aus Łazińsk, der von 1942
-  an der Eismeerfront diente, und seine Familie in der Heimat, bis 1944 – ein
-  Zeuge des Kantors, der im Aufsatz des Ostdeutschen Beobachters von 1942 und
-  in Breyers Notizbuch von 1936 steht.
+  Słowińskis Ausgabe der 1995 in der Wand des Kantorhauses von Łazińsk
+  gefundenen Briefe eines Wehrmachtsoldaten und seiner Familie, 1940 bis 1944.
 
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-22), written by Claude from a reading of the whole book (the

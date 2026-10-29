@@ -201,3 +201,13 @@ division of 1740 and of 1784 against Konin Gr.118 document 23 (the citation
 of 1782 naming the brothers), the decree of 1775 (Konin Gr.145) and the
 inspection of 1754 (Konin Gr.136); the marriage section against the PSB
 (pachonski1982, p. 584).
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The page's own Uwagi section lists Boniecki, the PSB, the Czartoryski
+> database, Konarski, Łuszczyński, Żychliński's rocznik 13 and the Teki
+> Dworzaczka; the whole page is kept in the work's folder as full.md. The tags
+> in brackets ("[str]", "[bku]") are the site's marks of the province of an
+> office.

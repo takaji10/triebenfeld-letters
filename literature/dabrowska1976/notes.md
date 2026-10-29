@@ -70,3 +70,10 @@ rules on neither:
 - the entries date the murder at Kazimierz Biskupi to October 1941; the
   Encyclopedia to late September 1941 (p. 121), and its Grodziec entry to
   "probably between September 24 and October 3" (p. 58).
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Zagórów, Pyzdry and Konin are the three towns nearest the estates. The
+> Encyclopedia of Camps and Ghettos (2012) cites them.

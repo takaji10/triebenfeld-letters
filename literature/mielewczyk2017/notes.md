@@ -231,3 +231,11 @@ link's sentence could read.
   editor ruled the article visible whole, and this note records the ruling,
   but the Licences page does not name the article (it is not an open
   licence); if the editor wants it named there, that is still to do.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It rests on the standard economic histories and on the author's own studies
+> of the Szreniawa collection; it says nothing of the Trąbczyn map's
+> particulars beyond its scale and shelfmark.

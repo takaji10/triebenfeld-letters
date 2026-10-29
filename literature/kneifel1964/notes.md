@@ -156,3 +156,16 @@ with his wife Katarzyna as the grantors of the Hollanders' privilege of
 rights granted in 1746). Read in both before it was written; where Kneifel
 names the husband alone, the documents name the couple, and the edition
 follows the documents.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Only the pages that bear on the area are brought in: besides the founding of
+> Łazińsk, the German schools of the Kalisch land (Władysławów-Rosterschütz
+> 1740, Łazińsk, Orlina), the Grodziec parish contract of 1796, the parishes
+> of the diocese of Kalisch (Zagórów with the filial Lisewo-Pyzdry, Konin with
+> the filial Masłaki), the Zagórów church of 1878-1896 and its pastors to
+> 1945, the brethren's circles in Łazińsk, and the statistics of 1938. A self-
+> published work of a German-Lutheran standpoint; the Warsaw consistorial
+> archive, its chief source, had burned in 1939.

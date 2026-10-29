@@ -61,3 +61,10 @@ on. The Hohenlohe essay names it.
 Prusimski is found by the edition's pattern (`reference/people.yml`,
 "(?<=Antoni )Prusiński(?= de Nieszczewice)"); the other hits are ruled in
 `literature/index.yml`.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The owner of Trąbczyn at Venice at the end of 1794, two years before the
+> papers show him there. It says no more of Prusimski than that note.

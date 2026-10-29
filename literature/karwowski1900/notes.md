@@ -103,3 +103,9 @@ letters spell "Weigel"), Sobolewski.
 Karwowski died in 1917; the work is of 1900. Out of copyright, hence
 `visible: true`. Digitisation and rights at the WBC: Biblioteka
 Uniwersytecka w Poznaniu.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Only p. 87 is brought in, the two paragraphs the editor named.

@@ -162,3 +162,11 @@ first").
 - The Licences page (site/rights.md, site/de/rechte.md) now names the
   article's CC BY 4.0 as the literature's one open-access exception.
 - The Brześć ruling is Claude's identification (NEEDS_CONFIRMATION).
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It names no court book of its own; it is an orientation over the whole
+> period and the kinds of court that the books (the land and municipal books
+> of Konin and Kalisz) belong to.

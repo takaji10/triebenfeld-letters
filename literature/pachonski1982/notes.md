@@ -95,3 +95,10 @@ All four from p. 583:
 - `pachonski1982-restitution`: the efforts after 1806 to have the estates
   given back, to the AGAD holdings `agad11740273` and `agad1174016` (July
   1807).
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Most of it is about his politics in exile, and its few words on the estates
+> are to be held against the documents.

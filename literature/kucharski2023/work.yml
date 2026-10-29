@@ -23,54 +23,30 @@ scan: "https://ojs.academicon.pl/ci/article/view/5671/5951"
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  A general survey of the noble judiciary of the Polish Commonwealth from the
-  15th century to the end of the state's independence, by Robert Kucharski, a
-  public prosecutor in Częstochowa who has published a series of historical
-  studies of the Polish courts in Consilium Iuridicum. It describes the land
-  courts, the municipal (castle) courts and the podkomorski courts, the short
-  lived court of the oprawca and the wiec and sejm courts; the judicial
-  offices, the judge, the lay assessors, the court scribe and the court
-  chancellery with its books, the usher, the instygator and the advocates; and
-  then the process itself, its three stages, the means of proof, the
-  judge's reprimand and the appeal, the punishments, the tower, the banishment
-  and the executions, with the stories the court chronicles tell. It closes
-  with the crisis of the land courts in the 17th and 18th centuries and the
-  Four-Year Sejm's abolition of the estate courts. It rests on the standard
-  literature (Kutrzeba, Bardach-Leśnodorski-Pietrzak, Naworski, Pawlikowski,
-  Balzer) and names no court book of its own; it is an orientation over the
-  whole period and the kinds of court that the books (the land and
-  municipal books of Konin and Kalisz) belong to.
+  Robert Kucharski, a public prosecutor in Częstochowa who writes on the
+  history of the Polish courts, surveys the noble judiciary of the
+  Commonwealth from the 15th century to the end of its independence. He
+  describes the land, municipal and podkomorski courts, the judicial offices
+  from the judge to the court scribe and the chancellery with its books, and
+  the process itself, its stages, proofs, appeals and punishments. He closes
+  with the crisis of the land courts in the 17th and 18th centuries and their
+  abolition by the Four-Year Sejm. The survey rests on the standard
+  literature.
 account_de: >-
-  Ein allgemeiner Überblick über die Adelsjustiz der polnischen Adelsrepublik
-  vom 15. Jahrhundert bis zum Ende der Eigenstaatlichkeit, von Robert
-  Kucharski, einem Staatsanwalt in Tschenstochau, der in Consilium Iuridicum
-  eine Reihe historischer Studien über die polnischen Gerichte veröffentlicht
-  hat. Er beschreibt die Landgerichte, die Grod- (Burg-)Gerichte und die
-  Podkomorzy-Gerichte, das kurzlebige Gericht des Oprawca sowie die Wiec- und
-  Sejmgerichte; die Gerichtsämter, den Richter, die Beisitzer, den
-  Gerichtsschreiber und die Gerichtskanzlei mit ihren Büchern, den Woźny, den
-  Instygator und die Advokaten; und dann den Prozess selbst, seine drei
-  Stadien, die Beweismittel, die Nagana des Richters und die Appellation, die
-  Strafen, den Turm, die Verbannung und die Vollstreckungen, mit den
-  Geschichten, die die Gerichtschroniken erzählen. Er schließt mit der Krise
-  der Landgerichte im 17. und 18. Jahrhundert und der Aufhebung der
-  Ständegerichte durch den Vierjährigen Sejm. Er stützt sich auf die
-  Standardliteratur (Kutrzeba, Bardach-Leśnodorski-Pietrzak, Naworski,
-  Pawlikowski, Balzer) und nennt kein eigenes Gerichtsbuch; er ist eine
-  Orientierung über den ganzen Zeitraum und die Gerichtsarten, zu denen die
-  Bücher (die Land- und Grodbücher von Konin und Kalisch) gehören.
+  Robert Kucharski, Staatsanwalt in Częstochowa, der über die Geschichte der
+  polnischen Gerichte schreibt, gibt einen Überblick über die adlige
+  Gerichtsbarkeit der Adelsrepublik vom 15. Jahrhundert bis zum Ende ihrer
+  Unabhängigkeit. Er beschreibt die Land-, Grod- und Unterkämmerergerichte,
+  die Gerichtsämter vom Richter bis zum Gerichtsschreiber und die Kanzlei mit
+  ihren Büchern und das Verfahren selbst mit seinen Stufen, Beweisen,
+  Berufungen und Strafen. Er schließt mit der Krise der Landgerichte im 17.
+  und 18. Jahrhundert und ihrer Abschaffung durch den Vierjährigen Sejm. Der
+  Überblick stützt sich auf die Standardliteratur.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Robert Kucharski's general survey of the noble judiciary of the Commonwealth
-  from the 15th century to the state's end – the land, municipal and
-  podkomorski courts, the judicial offices and their books, the course of the
-  process, and the crisis that ended in the abolition of the estate courts –
-  an orientation to the kinds of court the books belong to.
+  Kucharski's survey of the noble courts of the Commonwealth from the 15th
+  century to their abolition by the Four-Year Sejm.
 brief_de: >-
-  Robert Kucharskis allgemeiner Überblick über die Adelsjustiz der
-  Adelsrepublik vom 15. Jahrhundert bis zu ihrem Ende – die Land-, Grod- und
-  Podkomorzy-Gerichte, die Gerichtsämter und ihre Bücher, der Gang des
-  Prozesses und die Krise, die in der Aufhebung der Ständegerichte endete –
-  eine Orientierung zu den Gerichtsarten, zu denen die Bücher
-  gehören.
+  Kucharskis Überblick über die adligen Gerichte der Adelsrepublik vom 15.
+  Jahrhundert bis zu ihrer Abschaffung durch den Vierjährigen Sejm.

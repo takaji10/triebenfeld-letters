@@ -26,62 +26,31 @@ pages:
   # no page marks in the database's page: cut at each heading
   chapter: '^# '
 account_en: >-
-  The page of Wojciech Otto-Trąmpczyński (born probably in 1560 by the
-  database's own estimate, died unknown) in Maria Jadwiga Minakowska's
-  online database Wielka genealogia Minakowskiej (sejm-wielki.pl), person
-  sw.35437, the database's edition of 22 October 2026. A short page: no
-  biography, no parents, no ancestor tree, no siblings – what the sections
-  brought in give is his marriage about 1590 (the database's estimate, not
-  evidence) to Anna Cerekwicka, their son Stanisław, and the
-  grandchildren and great-grandchildren through Stanisław – among them the
-  second Wojciech, whose marriage to Marianna née Zawadzka carries the
-  line of the Trąmpczyńskis that the documents of the seventeenth
-  century name (the brothers Marcin, Wojciech, Władysław and Andrzej, sons
-  of the late Stanisław, condemned in 1644 at the suit of Jerzy
-  Chełmski). The database's person number sw.35437 is of its "sw." branch,
-  the numbers of the Teki Dworzaczka regests: this person comes into the
-  database from a regest of the Pyzdry court books (the page's Uwagi carry
-  it), and the regest of 1614 it names is the record behind the marriage
-  of his son Stanisław to Anna Słonecka – her dowry of 7,000 zł promised
-  on half the estates. The database is compiled from the printed armorials
-  and the regests; the whole page, its Uwagi included, is kept in the
-  work's folder as the knowledgebase (full.md) though it is not shown
-  here. Its estimated dates, marked with a question mark ("?1570-"), are
-  the database's own guesses and are not evidence.
+  The page of Wojciech Otto-Trąmpczyński in Maria Jadwiga Minakowska's online
+  genealogy Wielka genealogia Minakowskiej (sejm-wielki.pl), person sw.35437,
+  as saved on 22 October 2026. It is a short page, entered from a regest of
+  the Pyzdry court books in the Teki Dworzaczka, with no biography, parents or
+  ancestors. It gives his marriage, about 1590, to Anna Cerekwicka; their son
+  Stanisław, whose marriage to Anna Słonecka in 1614 promised her a dowry of
+  7,000 zł on half the estates; and the descendants through Stanisław, among
+  them the second Wojciech and his wife Marianna née Zawadzka. Dates marked
+  "?" are the database's estimates.
 account_de: >-
-  Die Seite von Wojciech Otto-Trąmpczyński (nach der eigenen Schätzung der
-  Datenbank vielleicht 1560 geboren, Todesjahr unbekannt) in Maria Jadwiga
-  Minakowskas Online-Datenbank Wielka genealogia Minakowskiej
-  (sejm-wielki.pl), Person sw.35437, Ausgabe der Datenbank vom 22.10.2026.
-  Eine kurze Seite: keine Biographie, keine Eltern, kein Vorfahrenbaum,
-  keine Geschwister – was die aufgenommenen Abschnitte geben, ist seine Ehe
-  um 1590 (Schätzung der Datenbank, kein Beleg) mit Anna Cerekwicka, ihr
-  Sohn Stanisław, und die Enkel und Urenkel durch Stanisław – unter ihnen
-  der zweite Wojciech, dessen Ehe mit Marianna geb. Zawadzka die Linie der
-  Trąmpczyńskis trägt, die die Dokumente des 17. Jahrhunderts
-  nennen (die Brüder Marcin, Wojciech, Władysław und Andrzej, Söhne des
-  verstorbenen Stanisław, 1644 auf Klage des Jerzy Chełmski in Abwesenheit
-  verurteilt). Die Personennummer der Datenbank, sw.35437, gehört zur
-  "sw."-Zweige ihrer Nummern, den Nummern der Regeste der Teki Dworzaczka:
-  diese Person kommt aus einem Regest der Pyzdryer Gerichtsbücher in die
-  Datenbank (der Uwagi-Abschnitt der Seite trägt es), und das Regest von
-  1614, das sie nennt, ist die Aufzeichnung hinter der Ehe seines Sohnes
-  Stanisław mit Anna Słonecka – ihre Mitgift von 7.000 zł, auf die Hälfte
-  der Güter versprochen. Die Datenbank ist aus den gedruckten Wappenbüchern
-  und den Regesten gearbeitet; die ganze Seite, die Uwagi eingeschlossen,
-  liegt als Wissensspeicher (full.md) im Ordner des Werks, wird hier aber
-  nicht gezeigt. Ihre geschätzten Daten, mit einem Fragezeichen bezeichnet
-  ("?1570-"), sind Schätzungen der Datenbank und sind kein Beleg.
+  Die Seite des Wojciech Otto-Trąmpczyński in Maria Jadwiga Minakowskas
+  Online-Genealogie Wielka genealogia Minakowskiej (sejm-wielki.pl), Person
+  sw.35437, gespeichert am 22. Oktober 2026. Es ist eine kurze Seite, aus
+  einem Regest der Pyzdrer Gerichtsbücher in den Teki Dworzaczka aufgenommen,
+  ohne Lebenslauf, Eltern oder Vorfahren. Sie gibt seine Ehe, um 1590, mit
+  Anna Cerekwicka; ihren Sohn Stanisław, dessen Ehe mit Anna Słonecka 1614 ihr
+  eine Mitgift von 7.000 zł auf der Hälfte der Güter versprach; und die
+  Nachkommen über Stanisław, darunter den zweiten Wojciech und seine Frau
+  Marianna geb. Zawadzka. Mit „?“ bezeichnete Daten sind Schätzungen der
+  Datenbank.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  The short page of Wojciech Otto-Trąmpczyński in Minakowska's online
-  genealogy – no biography, no parents, no ancestor tree – entered from a
-  regest of the Pyzdry court books, the marriage of the second Wojciech to
-  Marianna Zawadzka carrying the line of the Trąmpczyńskis that the documents of the seventeenth century name.
+  Minakowska's short genealogy page of Wojciech Otto-Trąmpczyński, of the
+  sixteenth century, and his descendants.
 brief_de: >-
-  Die kurze Seite des Wojciech Otto-Trąmpczyński in Minakowskas
-  Online-Genealogie – keine Biographie, keine Eltern, kein Vorfahrenbaum – aus
-  einem Regest der Pyzdryer Gerichtsbücher in die Datenbank gekommen, die Ehe
-  des zweiten Wojciech mit Marianna Zawadzka trägt die Linie der
-  Trąmpczyńskis, die die Dokumente des 17. Jahrhunderts nennen.
+  Minakowskas kurze Genealogieseite des Wojciech Otto-Trąmpczyński aus dem 16.
+  Jahrhundert und seiner Nachkommen.

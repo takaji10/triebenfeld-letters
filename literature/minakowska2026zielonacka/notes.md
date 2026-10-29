@@ -145,3 +145,15 @@ None written yet. The obvious one, when the editor wants it: the work's
 marriage passage against the decree of 1728 (APP 53/6/0/-/40) and Boniecki
 c04 - the same family, the database's page adding what the decree does not
 say.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Józef is the heir of Łukomia and Łomowo whom the decree of 1728 names with
+> his brother Franciszek; Heliodor and Stanisław are the Chełmski brothers of
+> the boundary decree of 1775; Józefa and Nepomucena married the Bieńkowski
+> brothers. Boniecki's article (t. II, s. 364) is Boniecki (1900) on the
+> Literature page. The whole page is kept in the work's folder as full.md. The
+> tags in brackets ("[poz]", "[san]") are the site's marks of the province of
+> an office.

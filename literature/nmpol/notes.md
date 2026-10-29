@@ -27,3 +27,14 @@ translations.
 
 `visible: false`, like seidel2018 and dabrowska1976: in the corpus,
 searchable when questions are put to the edition, no page on the site.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> In the corrected text of 2026-10-27. Brought in so the citations can be
+> checked against the works' own words without opening the volumes; not a
+> republication of the dictionaries, which stay whole in the private place-
+> name repository. No page of text on the site: the works are reference, not
+> narrative, and the gazetteer's footnotes stay unresolved until the editor
+> decides otherwise.

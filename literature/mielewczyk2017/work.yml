@@ -25,62 +25,37 @@ scan: "http://www.maphist.waw.pl/wp-content/uploads/2020/05/ZDK_21_041-057.pdf"
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  A survey by Wojciech Mielewczyk, a curator of the National Museum of
-  Agriculture and Agricultural-Food Industry in Szreniawa, of the changes in
-  the rural space of the Polish lands from the mid-19th century to the mid-20th,
-  shown on the large-scale village maps of the museum's Scientific Archive:
-  the enfranchisement and separation of the lands in the Prussian partition
-  (1823-1865) and the parcellation-and-settlement action of the Prussian
-  Settlement Commission from 1886 against the Polish counter-action, the
-  melioration under the water companies' law of 1879; in the Russian partition
-  the ukase of 2 March 1864 without the merging of the plots, the consolidation
-  from below and from 1911 the governmental one; the parcellation of the great
-  estates and the colonies founded on them; the clearing of the forests; and
-  in the Second Republic the land reform, the consolidation act of 1923 and its
-  working. Fourteen of the maps are shown in fragments: among them the map of
-  the estates of Trąbczyn of 1861 (fig. 4) with the field of the enfranchised
-  peasants marked, and the colonies of Kolonia Łazińskie and Kolonia Huta
-  founded on the parcellated Trąbczyn estate (p. 48). It rests on the standard
-  economic histories and on the author's own studies of the Szreniawa
-  collection; it says nothing of the Trąbczyn map's particulars beyond its
-  scale and shelfmark. The English title, summary and key words of p. 57 are
-  the author's own, printed as they stand.
+  Wojciech Mielewczyk, a curator of the National Museum of Agriculture at
+  Szreniawa, traces the changes in the Polish countryside from the
+  mid-nineteenth century to the mid-twentieth on the large-scale village maps
+  of the museum's archive. He follows the enfranchisement and separation of
+  land in the Prussian partition and the Settlement Commission's parcellation
+  from 1886, the ukase of 1864 and the consolidation of plots in the Russian
+  partition, the parcellation of the great estates and the colonies founded on
+  them, and the land reform of the Second Republic. Fourteen maps are shown in
+  fragments, among them the map of the Trąbczyn estates of 1861 (fig. 4) with
+  the field of the enfranchised peasants, and page 48 names Kolonia Łazińskie
+  and Kolonia Huta on the parcelled estate. The English title and summary on
+  page 57 are the author's.
 account_de: >-
-  Ein Überblick von Wojciec Mielewczyk, einem Kurator des Nationalmuseums für
-  Landwirtschaft und Agrar-Nahrungs-Industrie in Szreniawa, über die
-  Veränderungen des ländlichen Raums der polnischen Länder von der Mitte des
-  19. bis zur Mitte des 20. Jahrhunderts, gezeigt an den großmaßstäblichen
-  Dorfkarten des Wissenschaftlichen Archivs des Museums: die Erb- und
-  Regulierungsreformen in der preußischen Teilung (1823-1865) und die
-  Parzellierungs- und Siedlungsaktion der Preußischen Ansiedlungskommission
-  ab 1886 gegen die polnische Gegenaktion, die Melioration unter dem Gesetz
-  über Wassergenossenschaften von 1879; in der russischen Teilung das Ukas vom
-  2. März 1864 ohne die Vereinigung der Parzellen, die Zusammenlegung von
-  unten und ab 1911 die staatliche; die Parzellierung der Großgüter und die
-  auf ihnen gegründeten Kolonien; die Rodungen; und in der Zweiten Republik
-  die Landreform, das Zusammenlegungsgesetz von 1923 und seine Wirkung.
-  Vierzehn der Karten sind in Ausschnitten gezeigt: unter ihnen die Karte der
-  Güter von Trąbczyn von 1861 (Abb. 4) mit dem Feld der begüterten Bauern, und
-  die Kolonien Kolonia Łazińskie und Kolonia Huta auf dem parzellierten Gut
-  Trąbczyn (S. 48). Er stützt sich auf die Standardliteratur der
-  Wirtschaftsgeschichte und auf des Verfassers eigene Studien der Sammlung von
-  Szreniawa; zu den Einzelheiten der Trąbczyner Karte sagt er nichts über Maßstab
-  und Signatur hinaus. Der englische Titel, die Zusammenfassung und die
-  Schlüsselwörter von S. 57 sind des Verfassers eigene, unverändert gedruckt.
+  Wojciech Mielewczyk, Kurator am Nationalmuseum für Landwirtschaft in
+  Szreniawa, verfolgt die Veränderungen des polnischen Dorfes von der Mitte
+  des 19. bis zur Mitte des 20. Jahrhunderts auf den großmaßstäblichen
+  Dorfkarten des Museumsarchivs. Er behandelt die Regulierung und Separation
+  in der preußischen Teilung und die Parzellierung der Ansiedlungskommission
+  seit 1886, den Ukas von 1864 und die Zusammenlegung der Parzellen in der
+  russischen Teilung, die Parzellierung der Großgüter und die auf ihnen
+  gegründeten Kolonien und die Landreform der Zweiten Republik. Vierzehn
+  Karten sind in Ausschnitten gezeigt, darunter die Karte der Güter von
+  Trąbczyn von 1861 (Abb. 4) mit dem Feld der regulierten Bauern, und Seite 48
+  nennt Kolonia Łazińskie und Kolonia Huta auf dem parzellierten Gut. Der
+  englische Titel und die Zusammenfassung auf Seite 57 sind die des
+  Verfassers.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  A curator of the National Museum of Agriculture at Szreniawa surveys, on the
-  museum's large-scale village maps, the changes of rural space in the Polish
-  lands from the mid-nineteenth century to the mid-twentieth – enfranchisement
-  and separation, parcellation, consolidation, clearing. The map of the
-  estates of Trąbczyn of 1861 and the colonies founded on the parcellated
-  estate are among the fourteen fragments shown.
+  Mielewczyk on the changing Polish countryside from 1850 to 1950, shown on
+  village maps, the Trąbczyn estates of 1861 among them.
 brief_de: >-
-  Ein Kurator des Landwirtschaftsmuseums von Szreniawa überblickt an den
-  großmaßstäblichen Dorfkarten des Museums die Veränderungen des ländlichen
-  Raums der polnischen Länder von der Mitte des 19. bis zur Mitte des 20.
-  Jahrhunderts – die Erb- und Regulierungsreformen, Parzellierung,
-  Zusammenlegung, Rodungen. Die Karte der Güter von Trąbczyn von 1861 und die
-  auf dem parzellierten Gut gegründeten Kolonien gehören zu den vierzehn
-  gezeigten Ausschnitten.
+  Mielewczyk über den Wandel des polnischen Dorfes von 1850 bis 1950, gezeigt
+  an Dorfkarten, darunter die der Güter von Trąbczyn von 1861.

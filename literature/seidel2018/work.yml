@@ -25,31 +25,30 @@ english_by: Claude
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  A modern biography of the Prince of Hohenlohe-Ingelfingen, written from the
-  papers in the Hohenlohe Central Archive at Neuenstein, the archive of Triebenfeld's letters. It covers his rebuilding of Ingelfingen,
+  Hans-Joachim Seidel's modern biography of Friedrich Ludwig, Prince of
+  Hohenlohe-Ingelfingen, written from the papers in the
+  Hohenlohe-Zentralarchiv Neuenstein. It covers his rebuilding of Ingelfingen,
   his Prussian career, his marriage and his debts, and the South Prussian
   estates and Triebenfeld's part in them; its appendix 6 transcribes the
-  letter of 7 March 1809 that stands as letters 48 and 302 of
-  Oe 1 Bü 9454.
+  letter of 7 March 1809 that stands as letters 48 and 302 of Oe 1 Bü 9454.
+  The book is under copyright, and a detailed summary stands in its place.
 account_de: >-
-  Eine moderne Biographie des Fürsten zu Hohenlohe-Ingelfingen, geschrieben
-  aus den Akten des Hohenlohe-Zentralarchivs Neuenstein, des Archivs der Briefe Triebenfelds. Sie behandelt seine Erneuerung Ingelfingens,
-  seine preußische Laufbahn, seine Ehe und seine Schulden sowie die
-  südpreußischen Güter und Triebenfelds Rolle darin; ihr Anhang 6 gibt den
-  Brief vom 7. März 1809 wieder, der als Briefe 48 und 302
-  von Oe 1 Bü 9454 steht.
+  Hans-Joachim Seidels moderne Biographie Friedrich Ludwigs, Fürst zu
+  Hohenlohe-Ingelfingen, geschrieben aus den Akten des
+  Hohenlohe-Zentralarchivs Neuenstein. Sie behandelt den Wiederaufbau von
+  Ingelfingen, die preußische Laufbahn, die Ehe und die Schulden, die
+  südpreußischen Güter und Triebenfelds Rolle darin; ihre Anlage 6 gibt den
+  Brief vom 7. März 1809 wieder, der als Briefe 48 und 302 von Oe 1 Bü 9454
+  steht. Das Buch ist urheberrechtlich geschützt; an seiner Stelle steht eine
+  ausführliche Zusammenfassung.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  A modern biography of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen –
-  the rebuilding of Ingelfingen, the Prussian career, the marriage, the debts,
-  the South Prussian estates and Triebenfeld's part in them – written from the
-  papers of the very archive the letters come from.
+  Seidel's biography of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen,
+  with the South Prussian estates and Triebenfeld's part in them.
 brief_de: >-
-  Eine moderne Biographie von Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen
-  – der Wiederaufbau von Ingelfingen, die preußische Laufbahn, die Ehe, die
-  Schulden, die südpreußischen Güter und Triebenfelds Rolle darin –
-  geschrieben aus den Akten genau des Archivs, aus dem die Briefe kommen; wo beide abweichen, gelten die Dokumente.
+  Seidels Biographie Friedrich Ludwigs, Fürst zu Hohenlohe-Ingelfingen, mit
+  den südpreußischen Gütern und Triebenfelds Rolle darin.
 
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-21), written by Claude from a reading of the whole book (the English,

@@ -216,3 +216,15 @@ backdrop of the edition's own documents (the Hohenlohe letters in Oe 1 Bü
 9454 and the estate papers). Hand-made links: written in `literature/
 links.yml` (the p. 42 passage against the sale documents; the chapter against
 the letters). See the index rulings in `literature/index.yml`.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Its bearing: p. 42, the sale of Zagórów and Trąbczyn, which the documents of
+> the later years witness. Anlage 9, which prints between the two appendices
+> brought in, is not brought in, nor the first lines of Anlage 11 (marked with
+> [.]) – the editor's word of 2026-10-22. The book is in copyright; shown
+> whole on the site at the editor's word, an exception to the summary-only
+> rule for works under copyright. Published as Beiträge zur
+> Unternehmensgeschichte vol. 10 (Franz Steiner Verlag).

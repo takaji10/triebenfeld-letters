@@ -112,3 +112,11 @@ the Polish works).
 - The editor's look at the transcription (the PDF is theirs; the doubtful
   readings above are the ones to settle) and the word to publish.
 - The "SVB" of the title page's volume line (above), if it matters.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It names Trąbczyn nowhere. It bears on the standing of the handbook used for
+> the boundary procedure of 1775 and 1782, and on the 1776 title page, which
+> calls the book Paciorkowski's own, enlarged by the author.

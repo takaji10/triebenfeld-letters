@@ -122,3 +122,16 @@ quotations in the notes keep their German.
   works on the Literature page are outside CC BY.
 - "Kuchary" (Tabela 1 n. 4, Tabela 4 n. 6): the estate of the Kalisz
   department — not the edition's; no identification attempted.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It cites works that also stand on the Literature page (Wąsicki, the
+> Materialien, the Neue Feuerbrände, Grünhagen, Philippson) and bears directly
+> on the black-register passages and the Prince's gift. The register is
+> printed in the Materialien (1861, pp. 140-171) and was first published by
+> Zerboni (1801) and Cölln (1807); the manuscript is GStAPK, I HA Rep. 7c
+> Südpreußen Nr 14. The register's owners sold to Poles despite the rescripts
+> forbidding it; the affairs of Held, Zerboni, Cölln and the arrests of
+> 1796-1797 followed.

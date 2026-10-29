@@ -25,54 +25,34 @@ pages:
   chapter: '^# '
 account_en: >-
   The page of Antoni Michał Kazimierz Ostroróg-Prusimski (1744 to about 1806),
-  Starost of Niszczewice, in Maria Jadwiga Minakowska's online database Wielka
-  genealogia Minakowskiej (sejm-wielki.pl), person 4.285.619, the database's
-  edition of 22 October 2026. What the sections brought in give: his
-  biographical line (born 4 March 1744 at Bieganowo, died about 1806, the
-  Polski Słownik Biograficzny entry named beneath it), his parents Stefan
-  Prusimski and Wiktoria née Malczewska, the ancestor tree back to his
-  great-grandparents, his marriage about 1770 to Marianna née Dąmbska
-  (daughter of the castellan of Kowal Józef Wojciech Dąmbski and Barbara née
-  Komorowska), their daughter Michalina with her two husbands, and the
-  grandchildren through her. The database is compiled from the printed
-  armorials and biographies (its page's own Uwagi section lists Boniecki, the
-  PSB, the Czartoryski database, Konarski, Łuszczyński, Żychliński's rocznik
-  13 and the Teki Dworzaczka), and the whole page, its Uwagi included, is kept
-  in the work's folder as the knowledgebase (full.md) though it is not shown
-  here. Its estimated dates, marked with a question mark ("?1710-"), are the
-  database's own guesses and are not evidence. A person with the mark "bohater PSB" has an entry in the
-  Polski Słownik Biograficzny; the tags in brackets ("[str]", "[bku]") are the
-  site's marks of the province of an office and are left as printed.
+  Starost of Niszczewice, in Maria Jadwiga Minakowska's online genealogy
+  Wielka genealogia Minakowskiej (sejm-wielki.pl), person 4.285.619, as saved
+  on 22 October 2026. Born on 4 March 1744 at Bieganowo, he was the son of
+  Stefan Prusimski and Wiktoria née Malczewska. The page gives his ancestors
+  back to his great-grandparents; his marriage about 1770 to Marianna Dąmbska,
+  daughter of Józef Wojciech Dąmbski, castellan of Kowal, and Barbara née
+  Komorowska; and their daughter Michalina with her two husbands and her
+  children. The database is compiled from the printed armorials and
+  biographies; dates marked "?" are its estimates, and "bohater PSB" marks a
+  person with an entry in the Polski Słownik Biograficzny.
 account_de: >-
-  Die Seite von Antoni Michał Kazimierz Ostroróg-Prusimski (1744 bis etwa
-  1806), Starost von Niszczewice, in Maria Jadwiga Minakowskas Online-Datenbank
-  Wielka genealogia Minakowskiej (sejm-wielki.pl), Person 4.285.619, Ausgabe
-  der Datenbank vom 22.10.2026. Was die aufgenommenen Abschnitte geben: seine
-  biografische Zeile (geboren 4. März 1744 in Bieganowo, gestorben etwa 1806,
-  der PSB-Eintrag darunter genannt), seine Eltern Stefan Prusimski und
-  Wiktoria geb. Malczewska, den Vorfahrenbaum bis zu den Urgroßeltern, seine
-  Ehe um 1770 mit Marianna geb. Dąmbska (Tochter des Kastellans von Kowal,
-  Józef Wojciech Dąmbski, und der Barbara geb. Komorowska), ihre Tochter
-  Michalina mit ihren beiden Männern und die Enkel durch sie. Die Datenbank
-  ist aus den gedruckten Wappenbüchern und Biographien gearbeitet (der
-  Uwagi-Abschnitt der Seite nennt Boniecki, den PSB, die Czartoryski-Datenbank,
-  Konarski, Łuszczyński, Żychlińkins Rocznik 13 und die Teki Dworzaczka), und
-  die ganze Seite, die Uwagi eingeschlossen, liegt als Wissensspeicher (full.md)
-  im Ordner des Werks, wird hier aber nicht gezeigt. Ihre geschätzten Daten,
-  mit einem Fragezeichen bezeichnet ("?1710-"), sind Schätzungen der Datenbank
-  und sind kein Beleg. Eine Person
-  mit der Marke "bohater PSB" hat einen Eintrag im Polski Słownik
-  Biograficzny; die Marken in Klammern ("[str]", "[bku]") sind die
-  Wojewodschaftszeichen der Seite für ein Amt und bleiben gedruckt.
+  Die Seite des Antoni Michał Kazimierz Ostroróg-Prusimski (1744 bis um 1806),
+  Starost von Niszczewice, in Maria Jadwiga Minakowskas Online-Genealogie
+  Wielka genealogia Minakowskiej (sejm-wielki.pl), Person 4.285.619,
+  gespeichert am 22. Oktober 2026. Am 4. März 1744 in Bieganowo geboren, war
+  er der Sohn von Stefan Prusimski und Wiktoria geb. Malczewska. Die Seite
+  gibt seine Vorfahren bis zu den Urgroßeltern; seine Ehe um 1770 mit Marianna
+  Dąmbska, der Tochter des Kastellans von Kowal Józef Wojciech Dąmbski und der
+  Barbara geb. Komorowska; und ihre Tochter Michalina mit ihren zwei Männern
+  und Kindern. Die Datenbank ist aus den gedruckten Wappenbüchern und
+  Biographien gearbeitet; mit „?“ bezeichnete Daten sind ihre Schätzungen, und
+  „bohater PSB“ bezeichnet eine Person mit einem Eintrag im Polski Słownik
+  Biograficzny.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  The page of Antoni Ostroróg-Prusimski (1744 to about 1806), Starost of
-  Niszczewice and owner of Trąbczyn, in Minakowska's online genealogy: his
-  line, his parents, and his marriage to Marianna Dąmbska, whose daughter
-  Michalina carried Trąbczyn through her two marriages to the Miączyńskis.
+  Minakowska's genealogy page of Antoni Ostroróg-Prusimski (1744 to about
+  1806), Starost of Niszczewice and owner of Trąbczyn.
 brief_de: >-
-  Die Seite des Antoni Ostroróg-Prusimski (1744 bis etwa 1806), Starosten von
-  Niszczewice und Besitzers von Trąbczyn, in Minakowskas Online-Genealogie:
-  seine Linie, seine Eltern, und seine Ehe mit Marianna Dąmbska, deren Tochter
-  Michalina Trąbczyn durch ihre beiden Ehen zu den Miączyńskis brachte.
+  Minakowskas Genealogieseite des Antoni Ostroróg-Prusimski (1744 bis um
+  1806), Starost von Niszczewice und Besitzer von Trąbczyn.

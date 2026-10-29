@@ -21,58 +21,41 @@ scan: "https://www.wbc.poznan.pl/dlibra/docmetadata?id=118639"
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  A history of the convent of the Cistercian nuns at Ołobok, in Great Poland,
-  by the Poznań historian Stanisław Karwowski: its foundation towards the end
-  of the twelfth century and its endowments (the article runs pp. 1-114, with
-  its own table of contents), the privileges and donations from the twelfth
-  century on, the lawsuits over its bounds and its dues, the nuns and the
-  convent's inner government, its fortunes from the third partition to the
-  winding-up of the house, and its buildings and churches. Only p. 87 is
-  brought in, the two paragraphs the editor named, on the loss of the money
-  the nuns had lent: the town of Zagórów and its estates, which the previous
-  owner, Prince Hohenlohe-Ingelfingen, had burdened with debts of 2,000,000
-  Polish gulden, bought in 1812 by Ignacy Trzciński with the debts resting on
-  them, lost at auction on 1 September 1827 for 1,000,000 Polish gulden to
-  Karol Bogumił Weygel, a banker of Wrocław, who saved 56,879 of the 120,000
-  Polish gulden he had mortgaged on the estates and went down with the rest,
-  and after him all the other mortgage creditors; and the 40,000 Polish
-  gulden of the Cistercian Nuns lost with the interest owing from 1806, of
-  which minister Sobolewski informed the Prussian government from Warsaw on
-  23 October 1828.
+  Stanisław Karwowski, the Poznań historian, on the convent of the Cistercian
+  nuns at Ołobok in Great Poland, from its foundation towards the end of the
+  twelfth century to the winding-up of the house: its endowments and
+  privileges, its lawsuits over bounds and dues, the nuns and their
+  government, and its buildings and churches. Only page 87 is given, on money
+  the nuns had lent and lost. Prince Hohenlohe-Ingelfingen had burdened the
+  town of Zagórów and its estates with debts of 2,000,000 Polish gulden, and
+  Ignacy Trzciński bought them with those debts in 1812. On 1 September 1827
+  they went at auction for 1,000,000 Polish gulden to Karol Bogumił Weygel, a
+  banker of Wrocław, who saved 56,879 of the 120,000 he had lent on them and
+  lost the rest, as did all the other mortgage creditors. The nuns' 40,000
+  Polish gulden were lost with the interest owing since 1806, as Minister
+  Sobolewski told the Prussian government from Warsaw on 23 October 1828.
 account_de: >-
-  Eine Geschichte des Klosters der Zisterzienserinnen in Ołobok in
-  Großpolen von dem Posener Historiker Stanisław Karwowski: seine Gründung
-  gegen Ende des 12. Jahrhunderts und seine Ausstattung (der Aufsatz zählt
-  114 Seiten mit eigenem Inhaltsverzeichnis), die Privilegien und
-  Schenkungen vom 12. Jahrhundert an, die Prozesse um seine Grenzen und
-  Abgaben, die Nonnen und die innere Verfassung des Klosters, seine
-  Schicksale von der Dritten Teilung bis zur Aufhebung des Hauses und seine
-  Gebäude und Kirchen. Nur S. 87 ist aufgenommen, die zwei vom Herausgeber
-  genannten Absätze über den Verlust des geliehenen Geldes der Nonnen: die
-  Stadt Zagórów mit ihren Gütern, die der frühere Besitzer, Fürst
-  Hohenlohe-Ingelfingen, mit Schulden von 2.000.000 polnischen Gulden
-  belastet hatte und die 1812 Ignacy Trzciński mit diesen Schulden kaufte,
-  am 1. September 1827 bei öffentlicher Versteigerung für 1.000.000
-  polnische Gulden an Karol Bogumił Weygel, einen Bankier in Breslau,
-  verloren ging, der von den 120.000 polnischen Gulden, die er auf ihnen
-  hypothekarisch hatte, nur 56.879 rettete und mit dem Rest unterging, und
-  nach ihm alle übrigen Hypothekengläubiger; und die 40.000 polnischen
-  Gulden der Zisterzienserinnen, verloren samt den seit 1806 rückständigen
-  Zinsen, wovon Minister Sobolewski die preußische Regierung am 23. Oktober
-  1828 aus Warschau benachrichtigte.
+  Stanisław Karwowski, der Posener Historiker, über das Kloster der
+  Zisterzienserinnen in Ołobok in Großpolen, von seiner Gründung gegen Ende
+  des zwölften Jahrhunderts bis zur Auflösung des Hauses: seine Ausstattung
+  und Privilegien, seine Prozesse um Grenzen und Abgaben, die Nonnen und ihre
+  Leitung, seine Bauten und Kirchen. Wiedergegeben ist nur Seite 87, über
+  Geld, das die Nonnen verliehen und verloren hatten. Fürst
+  Hohenlohe-Ingelfingen hatte die Stadt Zagórów und ihre Güter mit 2.000.000
+  polnischen Gulden Schulden belastet, und Ignacy Trzciński kaufte sie 1812
+  mit diesen Schulden. Am 1. September 1827 gingen sie in der Versteigerung
+  für 1.000.000 polnische Gulden an Karol Bogumił Weygel, einen Breslauer
+  Bankier, der von den 120.000, die er darauf geliehen hatte, 56.879 rettete
+  und den Rest verlor, wie alle übrigen Hypothekengläubiger. Die 40.000
+  polnischen Gulden der Nonnen gingen mit den seit 1806 geschuldeten Zinsen
+  verloren, wie Minister Sobolewski am 23. Oktober 1828 aus Warschau der
+  preußischen Regierung mitteilte.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  A history of the Cistercian nuns' convent at Ołobok by the Poznań historian
-  Karwowski, brought in for page 87 alone: on the money the nuns had lent,
-  lost when the town of Zagórów and its estates – bought in 1812 with
-  Hohenlohe's debts resting on them – went under the auction hammer in 1827,
-  taking the nuns' 40,000 Polish gulden, interest owing since 1806, down with
-  them.
+  Karwowski's history of the Cistercian nuns of Ołobok, of which page 87 is
+  given: the nuns' loan, lost when the Zagórów estates were auctioned in 1827.
 brief_de: >-
-  Eine Geschichte des Klosters der Zisterzienserinnen in Ołobok von dem
-  Posener Historiker Karwowski, aufgenommen mit Seite 87 allein: über das
-  geliehene Geld, das die Nonnen verloren, als die Stadt Zagórów mit ihren
-  Gütern – 1812 mit den Schulden Hohenlohes darauf gekauft – 1827 bei der
-  Versteigerung unter den Hammer kam und dabei die 40.000 polnischen Gulden
-  der Nonnen samt den seit 1806 rückständigen Zinsen mitnahm.
+  Karwowskis Geschichte der Zisterzienserinnen von Ołobok, wiedergegeben Seite
+  87: das Darlehen der Nonnen, verloren, als die Güter von Zagórów 1827
+  versteigert wurden.

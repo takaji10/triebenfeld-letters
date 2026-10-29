@@ -28,3 +28,10 @@ letter of 7 March 1809 from Kontopp, which stands in the edition as letters
 
 The opening of chapter 13 (on the gifted estates of South Prussia) read
 against the German (2026-10-19): faithful.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The Hohenlohe-Zentralarchiv Neuenstein is the archive of Triebenfeld's
+> letters.

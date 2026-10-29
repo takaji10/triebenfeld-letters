@@ -24,39 +24,33 @@ pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
   Three entries of Yad Vashem's encyclopedia of the Jewish communities of
-  Poland, in English translations made for JewishGen: Zagórów, Pyzdry and
-  Konin, the three towns nearest the estates. Each gives the Jewish
-  population from the late eighteenth century to 1939, the community's
-  history, trades and institutions, the years between the wars and the
-  Holocaust, when the Jews of the district were driven in 1940 into the
-  ghettos of Zagórów, Grodziec and Rzgów and murdered in the forests near
-  Kazimierz Biskupi in 1941. The Encyclopedia of Camps and Ghettos (2012)
-  cites them. Under copyright: the site gives a detailed summary.
+  Poland, Pinkas Hakehillot, in the English translations made for JewishGen:
+  Zagórów, Pyzdry and Konin. Each gives the Jewish population from the late
+  eighteenth century to 1939, the community's history, trades and
+  institutions, the years between the wars, and the Holocaust, when the Jews
+  of the district were driven in 1940 into the ghettos of Zagórów, Grodziec
+  and Rzgów and murdered in the forests near Kazimierz Biskupi in 1941. The
+  work is under copyright, and a detailed summary stands in its place.
 account_de: >-
   Drei Artikel aus Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens,
-  in für JewishGen gemachten englischen Übersetzungen: Zagórów, Pyzdry und
-  Konin, die drei den Gütern nächsten Städte. Jeder gibt die
-  jüdische Bevölkerung vom späten 18. Jahrhundert bis 1939, die Geschichte,
-  Gewerbe und Einrichtungen der Gemeinde, die Zwischenkriegszeit und den
+  Pinkas Hakehillot, in den für JewishGen angefertigten englischen
+  Übersetzungen: Zagórów, Pyzdry und Konin. Jeder gibt die jüdische
+  Bevölkerung vom späten 18. Jahrhundert bis 1939, die Geschichte der
+  Gemeinde, ihre Gewerbe und Einrichtungen, die Zwischenkriegszeit und den
   Holocaust, als die Juden des Kreises 1940 in die Ghettos von Zagórów,
-  Grodziec und Rzgów getrieben und 1941 in den Wäldern bei Kazimierz
-  Biskupi ermordet wurden. Die Enzyklopädie der Lager und Ghettos (2012)
-  führt sie an. Urheberrechtlich geschützt: Die Seite gibt eine
-  ausführliche Zusammenfassung.
+  Grodziec und Rzgów getrieben und 1941 in den Wäldern bei Kazimierz Biskupi
+  ermordet wurden. Das Werk ist urheberrechtlich geschützt; an seiner Stelle
+  steht eine ausführliche Zusammenfassung.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
   Three entries of Yad Vashem's encyclopedia of the Jewish communities of
-  Poland, in translations made for JewishGen: those on Zagórów, Pyzdry and
-  Konin, the three towns nearest the estates, from the late
-  eighteenth century to the ghettos of 1940 and the murders of 1941. The work
-  is under copyright; the site gives a summary only.
+  Poland, on Zagórów, Pyzdry and Konin, from the late eighteenth century to
+  the ghettos of 1940 and the murders of 1941.
 brief_de: >-
-  Drei Artikel aus Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens, in
-  für JewishGen gemachten Übersetzungen: diejenigen zu Zagórów, Pyzdry und
-  Konin, den drei den Gütern nächsten Städten, vom späten 18.
-  Jahrhundert bis zu den Ghettos von 1940 und den Ermordungen von 1941. Das
-  Werk steht unter dem Urheberrecht; die Site gibt nur eine Zusammenfassung.
+  Drei Artikel aus Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens,
+  über Zagórów, Pyzdry und Konin, vom späten 18. Jahrhundert bis zu den
+  Ghettos von 1940 und den Morden von 1941.
 
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-21), written by Claude from the three entries, in its own words;

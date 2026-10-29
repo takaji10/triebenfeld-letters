@@ -232,3 +232,17 @@ only, so a link's passage box could not be shown anyway.
   own account of the letters' cache, and the year mentions here were
   corrected to 2024 (the title page's year, against the 2023 the notes
   printed).
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Published by the press of the Zofia Urbanowska Public Library at Konin with
+> the Stowarzyszenie Współpraca Polska-Wschód, and read in manuscript by
+> Professor Artur Kijas; the translation by a team of six, Jacek Kin foremost;
+> the originals in the archive of the MGOK at Zagórów. A witness of the
+> twentieth century, the era of the Ostdeutscher Beobachter's feature on
+> Łazińsk of 19 July 1942 and of Breyer's Łazińsk notebook of 1936 (APP
+> 53/968/0/-/669): its cantor Gustav Adolf Mielke – the teacher and farmer
+> Mielke of the 1942 article, "since 1925" in Breyer's notebook – is the one
+> man (the editor's ruling of 2026-10-22).

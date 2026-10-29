@@ -20,56 +20,33 @@ english_by: Claude
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  Parish monographs of the evangelical-Augsburg (Lutheran) diocese of Kalisch
-  by the pastor Eduard Kneifel, published 1937 as the first volume of his
-  "Forschungen zur Geschichte der evangelisch-augsburgischen Kirche in Polen"
-  and written while he was a pastor in Łódź. The book treats one parish after
-  another in a fixed scheme – the place's history, the parish's founding and
-  its buildings, its pastors and cantors, its church councils, schools and
-  cantorates, societies, converts, the economic facts, a table of the yearly
-  figures, and the list of affiliated localities – drawing on the parish
-  archives, the church papers of the time and the author's own knowledge of
-  many of the people. It is the fullest single record of the German-evangelical
-  settlement of central Poland before its destruction. Only the parts that
-  bear on the area are brought in: the introductory chapter on
-  the diocese (with the school statistics and the succession of
-  superintendents), and the monographs of Kalisch (the diocese's mother
-  parish), Grodziec (which administered Zagórów 1843-1856 and again
-  1878-1892), Konin with its filial Maślaki, and Zagórów – the area's parish, with the Łazińsk cantorate founded in 1746, the Trąbczyn
-  villages, and the long quarrel with the cantorates that produced the filial
-  of Lissewo-Pyzdry, treated in the book in its own sub-entry.
+  Parish monographs of the Evangelical-Augsburg (Lutheran) diocese of Kalisch
+  by the pastor Eduard Kneifel, written while he was a pastor in Łódź and
+  published in 1937 as the first volume of his Forschungen zur Geschichte der
+  evangelisch-augsburgischen Kirche in Polen. Each parish is treated in the
+  same order: its history, founding and buildings, pastors and cantors, church
+  councils, schools and cantorates, and a table of its yearly figures, drawn
+  from the parish archives, the church papers and the author's own knowledge.
+  Given here are the introductory chapter on the diocese and the monographs of
+  Kalisch, Grodziec, Konin with its filial Maślaki, and Zagórów, with the
+  Łazińsk cantorate founded in 1746 and the Trąbczyn villages.
 account_de: >-
   Pfarrmonographien der evangelisch-augsburgischen (lutherischen) Diözese
-  Kalisch von dem Pastor Eduard Kneifel, erschienen 1937 als erster Band
-  seiner "Forschungen zur Geschichte der evangelisch-augsburgischen Kirche
-  in Polen" und geschrieben, während er Pastor in Łódź war. Das Buch behandelt
-  Gemeinde für Gemeinde nach einem festen Schema – die Geschichte des Ortes,
-  die Gründung der Parochie und ihre Baulichkeiten, ihre Pastoren und
-  Kantoren, ihre Kirchenkollegien, Schulen und Kantorate, Vereine,
-  Konvertiten, die wirtschaftlichen Angaben, eine Tabelle der jährlichen
-  Zahlen und die Liste der eingepfarrten Ortschaften – aus den Pfarrarchiven,
-  den Kirchenblättern der Zeit und der eigenen Kenntnis des Verfassers von
-  manchen der Genannten. Es ist die ausführlichste einzelne Aufzeichnung der
-  deutsch-evangelischen Siedlung Mittelpolens vor ihrer Zerstörung. Nur die
-  Teile, die das Gebiet berühren, sind aufgenommen: das einleitende
-  Kapitel über die Diözese (mit der Schulstatistik und der Folge der
-  Superintendenten) und die Monographien von Kalisch (der Mutterparochie der
-  Diözese), Grodziec (das Zagórów 1843-1856 und wieder 1878-1892 verwaltete),
-  Konin mit seinem Filial Maślaki und Zagórów – die Parochie des Gebiets, mit dem 1746 gegründeten Kantorat Łazińsk, den Trąbczyner Dörfern
-  und dem langen Streit mit den Kantoraten, aus dem das Filial
-  Lissewo-Pyzdry hervorging, das das Buch in seinem eigenen Abschnitt
-  behandelt.
+  Kalisch von dem Pastor Eduard Kneifel, geschrieben während seiner Zeit als
+  Pastor in Lodz und 1937 als erster Band seiner Forschungen zur Geschichte
+  der evangelisch-augsburgischen Kirche in Polen erschienen. Jede Gemeinde
+  wird in derselben Ordnung behandelt: ihre Geschichte, Gründung und Bauten,
+  Pastoren und Kantoren, Kirchenräte, Schulen und Kantorate und eine Tabelle
+  ihrer Jahreszahlen, aus den Pfarrarchiven, den Kirchenblättern und der
+  eigenen Kenntnis des Verfassers. Wiedergegeben sind das einleitende Kapitel
+  über die Diözese und die Monographien von Kalisch, Grodziec, Konin mit dem
+  Filial Maślaki und Zagórów, mit dem 1746 gegründeten Kantorat Łazińsk und
+  den Trąbczyner Dörfern.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Pastor Eduard Kneifel's parish monographs of the Lutheran diocese of
-  Kalisch, published 1937 and the fullest single record of the
-  German-evangelical settlement of central Poland before its destruction;
-  brought in for the diocese chapter and the parishes of the area
-  – Kalisch, Grodziec, Konin, and Zagórów with the Łazińsk cantonate of 1746.
+  Kneifel's parish monographs of 1937 of the Lutheran diocese of Kalisch, with
+  the parishes of Kalisch, Grodziec, Konin and Zagórów.
 brief_de: >-
-  Pastor Eduard Kneifels Pfarrmonographien der lutherischen Diözese Kalisch,
-  erschienen 1937 und die ausführlichste einzelne Aufzeichnung der
-  deutsch-evangelischen Siedlung Mittelpolens vor ihrer Zerstörung;
-  aufgenommen mit dem Diözesankapitel und den Parochien des Gebiets
-  – Kalisch, Grodziec, Konin und Zagórów mit dem Kantorat Łazińsk von 1746.
+  Kneifels Pfarrmonographien von 1937 der lutherischen Diözese Kalisch, mit
+  den Gemeinden Kalisch, Grodziec, Konin und Zagórów.

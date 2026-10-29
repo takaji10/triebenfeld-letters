@@ -38,3 +38,9 @@ not his number. Not looked into further.
 ## Spot check of the English
 
 Page 163 read against the German (2026-10-19): faithful, nothing left out.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The extracts are useful, the judgements are the compiler's.

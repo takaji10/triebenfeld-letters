@@ -155,3 +155,13 @@ plate the line "Nach … jähriger Wirksamkeit" is damaged in the print (29?
 - Chapter I (printed 7-16): the framework — the diocese's parish and
   filial list as of 1936, the school statistics, the Kirchenkreis
   Bojanowo/Kalisch history with the two Konsistorialrat portraits.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It is the fullest single record of the German-evangelical settlement of
+> central Poland before its destruction. Only the parts that bear on the area
+> are brought in. Grodziec administered Zagórów 1843-1856 and again 1878-1892;
+> the long quarrel with the cantorates produced the filial of Lissewo-Pyzdry,
+> treated in the book in its own sub-entry.

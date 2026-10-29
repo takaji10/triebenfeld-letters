@@ -34,69 +34,40 @@ english_by: "the editor's files"
 pages:
   mark: '^<!-- s\. (?P<page>\S+)( \[PDF \d+\])? -->$'
 account_en: >-
-  The collective volume on the Protestants of the Zagórów land – "the broken
-  link" of the town's three communities – issued by the Municipal Office in
-  Zagórów in 2024 and edited by Mirosław Słowiński (the author of Zagórów.
-  Album miasta, 2007, and of Przeżyć tę jedną zimę, 2023) with Katarzyna
-  Połom, on the initiative of the town's House of Culture (its director
-  Łukasz Parus) and the Evangelical-Augsburg parish in Konin (its pastor
-  Waldemar Wunsz), with Dr Zbigniew Chodyła as scientific consultant. Three
-  parts: studies (among them Grzonkowski's history of the Protestants of the
-  Zagórów land from the Reformation to the present, Kowalski's study of the
-  Hauländer settlement and the Prussian colonization of 1746-1806, Połom's
-  account of the cantors and kantorate schools, Kruczkowski's family
-  histories, and Słowiński's study of the letters found in the wall of the
-  Łazińsk cantor's house – the study that grew into Przeżyć tę jedną zimę,
-  2023), memoirs and recollections (among them Erich Kuhn's, the Łazińsk-
-  born elder of the Detmold congregation), and testimonies – German-language
-  sources printed anew: the German-era note on Łazińsk (Der Heimatbote
-  1981), a parish history, a settlement-history chronology of the
-  Zagórów-Trąbczyn region, the German place names, the protocol of the
-  Łazińsk cantors' council of 1928, the list of the inhabitants of
-  Michalinów Trąbczyński, Łazińsk and Huta Trąbczyńska, and the forged
-  "Reichsstelle für Familienzuwachs" document of 1943. A witness of the whole area: Łazińsk, the Trąbczyn estate's Olęder colonies,
-  the Zagórów parish and its cantorates.
+  A collective volume on the Protestants of the Zagórów land, "the broken
+  link" of the town's three communities, issued by the Municipal Office in
+  Zagórów in 2024 and edited by Mirosław Słowiński and Katarzyna Połom, with
+  Zbigniew Chodyła as scientific consultant. Its studies include a history of
+  the Protestants of the Zagórów land from the Reformation to the present, a
+  study of the Hauländer settlement and the Prussian colonisation of
+  1746-1806, an account of the cantors and cantorate schools, and Słowiński's
+  first study of the letters found in the wall of the Łazińsk cantor's house.
+  Memoirs follow, and German-era sources printed anew, among them a parish
+  history, the German place names and the list of the inhabitants of
+  Michalinów Trąbczyński, Łazińsk and Huta Trąbczyńska. The volume is under
+  copyright, and a detailed summary stands in its place.
 account_de: >-
-  Der Sammelband über die Protestanten des Zagórów Landes – "das gebrochene
-  Glied" der drei Gemeinden der Stadt -, vom Stadtamt Zagórów 2024
-  herausgegeben, herausgegeben von Mirosław Słowiński (dem Verfasser von
-  Zagórów. Album miasta, 2007, und von Przeżyć tę jedną zimę, 2023) und
-  Katarzyna Połom, auf die Anregung des Kulturhauses der Stadt (sein
-  Direktor Łukasz Parus) und der evangelisch-augsburgischen Gemeinde in
-  Konin (ihr Pastor Waldemar Wunsz), mit Dr Zbigniew Chodyła als
-  wissenschaftlichem Berater. Drei Teile: Studien (darunter Grzonkowskis
-  Geschichte der Protestanten des Zagórów Landes von der Reformation bis
-  zur Gegenwart, Kowalskis Untersuchung der Holländeransiedlung und der
-  preussischen Kolonisation 1746-1806, Połoms Darstellung der Kantoren und
-  Kantorateien, Kruczkowskis Familiengeschichten und Słowińskis Studie der
-  in der Wand des Łazińsker Kantorenhauses gefundenen Briefe – die Studie,
-  aus der Przeżyć tę jedną zimę, 2023, wurde), Erinnerungen (darunter die
-  des in Łazińsk geborenen Detmolder Ältesten Erich Kuhn) und Zeugnisse –
-  deutschsprachige Quellen im Neudruck: die Note der deutschen Zeit über
-  Łazińsk (Der Heimatbote 1981), eine Kirchengeschichte, eine
-  Besiedlungsgeschichte der Region Zagórów-Trąbczyn, die deutschen
-  Ortsnamen, das Protokoll des Łazińsker Kantorenrats von 1928, die
-  Einwohnerliste von Michalinów Trąbczyński, Łazińsk und Huta Trąbczyńska
-  und das Fälschungsdokument "Reichsstelle für Familienzuwachs" von 1943.
-  Ein Zeuge des ganzen Gebiets: Łazińsk, die
-  Holländersiedlungen des Gutes Trąbczyn, die Kirchengemeinde Zagórów und
-  ihre Kantoreien.
+  Ein Sammelband über die Protestanten des Zagórower Landes, „das zerrissene
+  Glied“ der drei Gemeinschaften der Stadt, 2024 vom Stadtamt Zagórów
+  herausgegeben, bearbeitet von Mirosław Słowiński und Katarzyna Połom, mit
+  Zbigniew Chodyła als wissenschaftlichem Berater. Seine Studien umfassen eine
+  Geschichte der Protestanten des Zagórower Landes von der Reformation bis
+  heute, eine Studie über die Hauländersiedlung und die preußische
+  Kolonisation von 1746-1806, eine Darstellung der Kantoren und
+  Kantoratsschulen und Słowińskis erste Studie über die in der Wand des
+  Kantorhauses von Łazińsk gefundenen Briefe. Es folgen Erinnerungen und neu
+  gedruckte Quellen der deutschen Zeit, darunter eine Gemeindegeschichte, die
+  deutschen Ortsnamen und die Liste der Einwohner von Michalinów Trąbczyński,
+  Łazińsk und Huta Trąbczyńska. Der Band ist urheberrechtlich geschützt; an
+  seiner Stelle steht eine ausführliche Zusammenfassung.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  The collective volume on the Protestants of the Zagórów land, issued by the
-  town in 2024 – studies, memoirs and German-era sources printed anew, among
-  them Kowalski's study of the Hauländer settlement and the Prussian
-  colonisation of 1746-1806, Połom on the cantors and cantorate schools, and
-  Słowiński's study of the letters found in the wall of the Łazińsk cantor's
-  house.
+  The collective volume of 2024 on the Protestants of the Zagórów land:
+  studies, memoirs and German-era sources printed anew.
 brief_de: >-
-  Der Sammelband des Stadtamts Zagórów über die Protestanten des Zagórów
-  Landes – Studien, Erinnerungen und im Neudruck deutschsprachige Quellen der
-  deutschen Zeit, darunter Kowalskis Untersuchung der Hauländeransiedlung und
-  der preußischen Kolonisation von 1746-1806, Połom über die Kantoren und
-  Kantoratsschulen, und Słowińskis Studie der in der Wand des Łazińsker
-  Kantorenhauses gefundenen Briefe.
+  Der Sammelband von 2024 über die Protestanten des Zagórower Landes: Studien,
+  Erinnerungen und neu gedruckte Quellen der deutschen Zeit.
 
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-22), written by Claude from a reading of the whole book (the

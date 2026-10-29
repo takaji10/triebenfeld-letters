@@ -256,3 +256,18 @@ against the Zagórów place page and ADWł 85.
   working files of the English translation of this book (30 files) - left
   untracked, not needed now that the assembled English .md stands in the
   editor's Downloads folder.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> On the initiative of the town's House of Culture (its director Łukasz Parus)
+> and the Evangelical-Augsburg parish in Konin (its pastor Waldemar Wunsz).
+> The studies are Grzonkowski's, Kowalski's, Połom's, Kruczkowski's family
+> histories and Słowiński's (which grew into Przeżyć tę jedną zimę, 2023); the
+> memoirs include Erich Kuhn's, the Łazińsk-born elder of the Detmold
+> congregation; the sources include the Heimatbote note (1981), a settlement-
+> history chronology, the protocol of the Łazińsk cantors' council of 1928 and
+> the forged "Reichsstelle für Familienzuwachs" document of 1943. A witness of
+> the whole area: Łazińsk, the Trąbczyn estate's Olęder colonies, the Zagórów
+> parish and its cantorates.

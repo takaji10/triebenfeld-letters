@@ -166,3 +166,16 @@ None written yet. The obvious one, when the editor wants it: the marriage
 line's act of 1810 against the letters of 1815 (9454, letters 265b, 270)
 - the same fact, the act four years earlier than the letters' first
 naming.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Włodzimierz is the heir of Trąbczyn whom the summons of 1859-1860 names. The
+> page's marriage date rests on the marriage act it cites (Warsaw ASC Cyrkuł
+> IV, act 67 of 1810, indexed on geneteka). Its Uwagi section lists Boniecki
+> (t. IV s. 157, the Dąmbscy article), Sęczys's legitymacja record, the
+> Nekrolog of the Kurier Warszawski 111/1845, the PSB t. 20 s. 562, the
+> Czartoryski database, Dworzaczek, Łuszczyński and the Nekrologia
+> Minakowskiej; the whole page is kept in the work's folder as full.md. The
+> title "hr." carries the site's mark [tytuł] nadany, a title granted.

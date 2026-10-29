@@ -198,3 +198,19 @@ is the answer the petitions asked for — the hand-made links tie them to
 `agad1174016-2` and `agad11740273-1`…`-4`. The Directorium protocol shows
 her herself in movement to Dresden a week before the decree, in the police
 director's own hand.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Her petitions for the return of her father's confiscated estates are among
+> the documents (AGAD). The four passages: the reference of her memorial to
+> the Director of Justice (sitting 51 of 13 February, pp. 43-44); the
+> Director's opinion that her request is "a matter of a purely political
+> character" (sitting 58 of 18 February, pp. 54-55); the Directorium's
+> protocol of 15 July 1807 reporting her among those leaving for Dresden (No.
+> 3, pp. 321-323); and the sitting of 21 July at Dresden extending the
+> Emperor's decree restoring Wybicki's estates to her case and to General
+> Niemojewski's and Mr. Wichrowski's (sitting 210, pp. 303-304). The protocols
+> are mostly in the hand of Antoni Łubieński, Director of Police. It is an
+> edited primary record, not a study.
