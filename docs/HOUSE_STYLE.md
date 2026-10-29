@@ -392,6 +392,11 @@ numbers, a page with no image has no image pane. What stays is a disclosure
 that is short ("English translation by Claude, an AI model, not checked
 against the original as a whole.", "Not yet translated.").
 
+**No relevance talk** (the editor, 2026-10-29): a page does not explain why
+a work or an item is on the site, or that it does not name Trąbczyn. That
+reasoning is the project's and stands in the work's or item's `notes.md`,
+"Why it is here". EDITORS_VOICE, "The editor's rulings on the pilot".
+
 **The site does not call itself "the edition"** (the editor, 2026-10-29): a
 reader does not need to know that the site is an edition, and "the edition holds
 her letters", "the edition follows the documents" and "in the edition" are the

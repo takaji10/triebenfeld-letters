@@ -20,41 +20,28 @@ pages:
   # no page marks yet: cut at each chapter heading
   chapter: '^# '
 account_en: >-
-  A study, in six chapters, of the Prussian laws on the peasants of the
-  lands that became the province of Posen: what the peasants owed and held
-  in the last years of Polish rule, the legislation for the Netze district
-  from 1772 and for South Prussia from 1793 to 1806, the peasants' dues and
-  services in both, and the years of the Duchy of Warsaw, 1807 to 1815.
-  Guradze says in his preface that he wrote from the general files of the
-  administration and a selection of the particular ones, tracing how the
-  laws came to be made, and that his judgement differs markedly from that
-  of Professor Knapp of Strasbourg and his students. It is the background
-  to the tenures of the Olęder settlers and the hereditary leases of 1805
-  and 1806 on the Trąbczyn estate, which it does not name.
+  A study in six chapters of the Prussian laws on the peasants of the lands
+  that became the province of Posen: what the peasants owed and held in the
+  last years of Polish rule, the legislation for the Netze district from 1772
+  and for South Prussia from 1793 to 1806, and the years of the Duchy of
+  Warsaw, 1807 to 1815. Guradze wrote from the general files of the
+  administration and a selection of the particular ones, and says in his
+  preface that his judgement differs markedly from that of Professor Knapp of
+  Strasbourg and his students.
 account_de: >-
-  Eine Untersuchung in sechs Kapiteln über die preußische Gesetzgebung für
-  die Bauern der Gebiete, die zur Provinz Posen wurden: was die Bauern in
-  der letzten Zeit der polnischen Herrschaft schuldeten und besaßen, die
-  Gesetzgebung für den Netzedistrikt seit 1772 und für Südpreußen von 1793
-  bis 1806, die Abgaben und Dienste der Bauern in beiden und die Zeit des
-  Herzogtums Warschau 1807 bis 1815. Guradze sagt im Vorwort, er habe aus
-  den Generalakten der Verwaltung und einer Auswahl der Spezialakten
-  geschrieben, der Entstehung der Gesetze nachgehend, und sein Urteil weiche
-  wesentlich von dem Professor Knapps in Straßburg und seiner Schüler ab.
-  Sie ist der Hintergrund zu den Besitzrechten der Hauländer und zu den
-  Erbpachtverträgen von 1805 und 1806 auf dem Gut Trąbczyn, das sie nicht
-  nennt.
+  Eine Studie in sechs Kapiteln über die preußischen Gesetze für die Bauern
+  der Lande, aus denen die Provinz Posen wurde: was die Bauern in den letzten
+  Jahren der polnischen Herrschaft schuldeten und besaßen, die Gesetzgebung
+  für den Netzedistrikt seit 1772 und für Südpreußen von 1793 bis 1806 und die
+  Jahre des Herzogtums Warschau, 1807 bis 1815. Guradze schrieb aus den
+  Generalakten der Verwaltung und einer Auswahl der Spezialakten und sagt in
+  seinem Vorwort, sein Urteil weiche merklich von dem des Professors Knapp in
+  Straßburg und seiner Schüler ab.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  A study of the Prussian state's laws on the peasants of the lands that
-  became the province of Posen, from 1772 to 1815 — the Netze district, South
-  Prussia, the Duchy of Warsaw years — the background to the Olęder tenures
-  and the hereditary leases of 1805 and 1806 on the Trąbczyn estate, which it
-  never names.
+  Guradze's study of the Prussian laws on the peasants of the province of
+  Posen, from 1772 to 1815.
 brief_de: >-
-  Eine Untersuchung der preußischen Gesetzgebung für die Bauern der Gebiete,
-  die zur Provinz Posen wurden, von 1772 bis 1815 — Netzedistrikt, Südpreußen,
-  die Jahre des Herzogtums Warschau — der Hintergrund zu den Besitzrechten der
-  Hauländer und zu den Erbpachtverträgen von 1805 und 1806 auf dem Gut
-  Trąbczyn, das sie nie nennt.
+  Guradzes Studie über die preußischen Gesetze für die Bauern der Provinz
+  Posen, von 1772 bis 1815.

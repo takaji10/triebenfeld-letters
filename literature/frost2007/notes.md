@@ -109,3 +109,14 @@ pattern under "o**f** Augustus"), not Fürst August; and Repnin, the Russian
 ambassador of p. 299, is ruled to the letters' Prince Repnin (83, 84,
 1798): the same man, the editor confirms (2026-10-21: "I'm sure Repnin is
 the same as the one in the project").
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Background to the noble society that owned and ruled the estates: it names
+> neither Trąbczyn nor the Olęders, but draws its evidence heavily from Great
+> Poland, among other things from the study of the Kalisz district land market
+> (Pośpiech) showing the middle nobility buying out portions and holding its
+> own between 1580 and 1655, and from the 775 new settlements raised in Great
+> Poland between 1721 and 1793.

@@ -83,3 +83,13 @@ Not written:
 - p. 35 (Sophiental, Friedrichsfeld, Ludwigslust, Ingelfingen, Adelhof) to
   APP 53/968/0/-/801, document 3: the lease of 1806 names none of these
   settlements, only the forest of Drzewce and the takers' home villages.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Breyer (1889-1939) is the man whose notebooks of 1936 are among the holdings
+> (APP 53/968/0/-/669 and -/716); this is his shorter, earlier account. Its
+> facts are to be held against the documents. The rest of the survey (the
+> Vistula lowland, Dobrzyń, Kuyavia, Gostynin, Łódź, the Swabians near Warsaw)
+> is not taken in.

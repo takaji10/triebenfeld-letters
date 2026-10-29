@@ -1428,6 +1428,18 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   rarity probe's words and the timeline's events, can still be read in
   `review/glossary_candidates.csv` for anything worth an entry.
 
+## Slips found in the voice review
+
+Found while reading the site's own prose (docs/VOICE_REVIEW_PLAN.md); each
+waits on the editor's word before it is changed (EDITORS_VOICE, "The editor's
+rulings on the pilot").
+
+- **AGAD 1/185/0/1/169, "About", Historical background** (`units/agad118501169/about.md`):
+  "The Kingdom of Poland, set up by Congress Poland in 1815" - Congress Poland
+  is the Kingdom itself; proposed "set up by the Congress of Vienna in 1815".
+  The German (`about_de.md`, "1815 aus dem Herzogtum Warschau gebildet") does
+  not have the slip.
+
 ## Before the site is shared widely
 
 - **Scan rights.** Confirm with each archive (HZAN Neuenstein, GStA PK,

@@ -225,3 +225,12 @@ gazetteer entries were corrected.
   imprint forbids copying (unlike Seidel's).
 - The differences above are in NEEDS_CONFIRMATION, settled by the rule of
   2026-10-21: the documents are taken.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It traces Łazy, the Trąbczyńskie Nowe Olędry and the later colonies of the
+> estate; the boundary decree recorded in 1776 (Konin Gr. 145) is its source
+> for 1746. Published by the local tourist organisation with two forewords,
+> for a regional readership.

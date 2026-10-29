@@ -1,4 +1,4 @@
-# APP 53/20/0/-/Poznań Gr.1181 — wie dieser Bestandteil vorbereitet wurde
+# APP 53/20/0/-/Poznań Gr.1181 – wie dieser Bestandteil vorbereitet wurde
 
 Die Scans sind die eigenen Photographien des Herausgebers von den vierzehn
 Seiten (Blatt 161 bis 167v nach der Zählung des Archivs), ein Blatt je

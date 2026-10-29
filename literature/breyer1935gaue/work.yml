@@ -20,49 +20,32 @@ scan: "http://www.UpstreamVistula.org"
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  Two chapters of Albert Breyer's survey of the German settlements of
-  central Poland, those on the Konin and Kalisz country; the rest of the
-  survey (the Vistula lowland, Dobrzyń, Kuyavia, Gostynin, Łódź, the Swabians
-  near Warsaw) is not taken in. Chapter V is on the Warthe marshes between
-  Koło, Konin and Uniejów; chapter VI on the sandy, wooded country south of
-  Zagórów and Konin and north of Kalisz. Each gives the landscape, the
-  villages, their founding, where the settlers came from, their schools and
-  their churches. Page 41 names the first contract of the estate's Olęder
-  colonies: in 1746 Paul Prusiński, owner of Trąbczyn, let the woods south of
-  the estate to "honest Hollanders", and Łazińsk Holland arose. Breyer
-  (1889-1939) is the man whose notebooks of 1936 are among the holdings
-  (APP 53/968/0/-/669 and -/716); this is his shorter, earlier account,
-  written for German readers in Poland and in Germany in 1935, and its
-  language is that of its cause. Its facts are to be held against the
-  documents.
+  Two chapters of Albert Breyer's survey of the German settlements of central
+  Poland, published in 1935. Chapter V is on the Warthe marshes between Koło,
+  Konin and Uniejów, chapter VI on the sandy, wooded country south of Zagórów
+  and Konin and north of Kalisz. Each describes the landscape and the
+  villages, their founding, where the settlers came from, and their schools
+  and churches. Page 41 tells how Paul Prusiński, owner of Trąbczyn, let the
+  woods south of the estate to "honest Hollanders" in 1746, and how Łazińsk
+  Holland arose. Breyer wrote for German readers in Poland and in Germany, in
+  the language of the minority's cause.
 account_de: >-
   Zwei Kapitel aus Albert Breyers Überblick über die deutschen Siedlungen
-  Mittelpolens, die über das Koniner und das Kalischer Land; der übrige
-  Überblick (Weichselniederung, Dobriner Land, Kujawien, Gostynin, Lodz, die
-  Schwabensiedlungen bei Warschau) ist nicht aufgenommen. Kapitel V handelt
-  vom Warthebruch zwischen Koło, Konin und Uniejów, Kapitel VI von dem
-  sandigen, waldigen Land südlich von Zagórów und Konin und nördlich von
-  Kalisch. Jedes gibt die Landschaft, die Dörfer, ihre Gründung, die Herkunft
-  der Siedler, ihre Schulen und Kirchen. Seite 41 nennt den ersten Vertrag
-  der Hauländerkolonien des Gutes: 1746 überließ Paul Prusiński, Besitzer
-  von Trąbczyn, die Wälder südlich des Gutes „ehrbaren Holländern“, und es
-  entstand Łazińsk Holland. Breyer (1889-1939) ist der Mann, dessen
-  Notizbücher von 1936 zu den Beständen gehören (APP 53/968/0/-/669 und
-  -/716); dies ist sein kürzerer, früherer Bericht, 1935 für deutsche Leser
-  in Polen und im Reich geschrieben, und seine Sprache ist die seiner Sache.
-  Seine Angaben sind an den Dokumenten zu prüfen.
+  Mittelpolens, erschienen 1935. Kapitel V gilt dem Warthebruch zwischen Koło,
+  Konin und Uniejów, Kapitel VI dem sandigen Waldland südlich von Zagórów und
+  Konin und nördlich von Kalisch. Beide schildern die Landschaft und die
+  Dörfer, ihre Gründung, die Herkunft der Siedler und ihre Schulen und
+  Kirchen. Seite 41 erzählt, wie Paul Prusiński, der Besitzer von Trąbczyn,
+  1746 die Wälder südlich des Gutes an „ehrliche Holländer“ vergab und Łazińsk
+  Hauland entstand. Breyer schrieb für deutsche Leser in Polen und im Reich,
+  in der Sprache der Sache der Minderheit.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Two chapters of Albert Breyer's survey of the German settlements of central
-  Poland, for the Konin and the Kalisz country: each with the landscape, the
-  villages and their founding, and the page that names the first contract of
-  the estate's Olęder colonies, of 1746 — Paul Prusiński, the owner of
-  Trąbczyn, letting the woods south of the estate to "honest Hollanders".
+  Two chapters of Breyer's survey of 1935 of the German settlements of central
+  Poland, on the Konin and Kalisz country, with the founding of Łazińsk
+  Holland on the Trąbczyn estate in 1746.
 brief_de: >-
-  Zwei Kapitel aus Albert Breyers Überblick über die deutschen Siedlungen
-  Mittelpolens, für das Koniner und das Kalischer Land: jedes mit der
-  Landschaft, den Dörfern und ihrer Gründung, und die Seite, die den ersten
-  Vertrag der Hauländerkolonien des Gutes von 1746 nennt — Paul Prusiński, der
-  Besitzer von Trąbczyn, der die Wälder südlich des Gutes „ehrbaren
-  Holländern" überlässt.
+  Zwei Kapitel aus Breyers Überblick von 1935 über die deutschen Siedlungen
+  Mittelpolens, über das Koniner und Kalischer Land, mit der Gründung von
+  Łazińsk Hauland auf dem Gut Trąbczyn 1746.

@@ -128,3 +128,13 @@ Still to be considered: p. 38 (Ludwigslust, 1816), p. 39 (Święcia, 1818),
 pp. 42 and 43 (Schwenz), pp. 46 and 47 (the villages of the estate in 1921)
 to the Łazińsk holdings. Each needs its figures read in the documents
 first.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Albert Breyer (1889-1939) is the man whose notebooks of 1936 are among the
+> holdings (APP 53/968/0/-/669 and -/716). Its facts are to be held against
+> the documents, and its judgements are Breyer's; it praises German settlers
+> and laments "de-Germanisation". Pages 38 and 39, 42 and 43, and 46 and 47
+> follow the same villages to 1928.

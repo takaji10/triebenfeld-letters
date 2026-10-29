@@ -29,3 +29,10 @@ The black register itself is in part 2 from page 65; Triebenfeld's entry
 
 Part 3, page 134 read against the German (2026-10-19): faithful. "S. 83"
 is rendered "P. 83".
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> What the journal says of either side is a party's word. The Materialien say
+> Cölln printed the register under the mask of a third person.

@@ -4,7 +4,7 @@ The archive's folder holds three images. The first is the title page of the hold
 
 ### Transcription
 
-The editor supplied the transcription, and it is kept as written: the manuscript's phonetic spellings ("Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß") and its slips stand. The editor's file carried it by paragraph; the lines here follow the manuscript's own lines, laid out in session against the two images - a matter of layout only, no reading changed. A word the manuscript divides at a line end keeps its hyphen ("auszu-/nehmen", "stel-/ten", "Vo-/cation"). The export's escaping backslashes were stripped as a file artifact.
+The editor supplied the transcription, and it is kept as written: the manuscript's phonetic spellings ("Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß") and its slips stand. The editor's file carried it by paragraph; the lines here follow the manuscript's own lines, laid out in session against the two images – a matter of layout only, no reading changed. A word the manuscript divides at a line end keeps its hyphen ("auszu-/nehmen", "stel-/ten", "Vo-/cation"). The export's escaping backslashes were stripped as a file artifact.
 
 ### Check against the scans
 
@@ -16,8 +16,8 @@ The holding is one document of two pages. It is dated from its own dateline: 14 
 
 ### Translation
 
-No paid run was spent on a single two-page document (the editor's word). The English was written in session under the rules translate.py gives its translator - the termbase, the canonical names, the numbers rule - and written into the translation cache by the holding's script, so the checks and the publish read it exactly as a paid run's. The garbled stretches are kept or bracketed, never guessed. The money and measure abbreviations follow the standing forms; whether "6 gl." is gulden in this document is put to the editor.
+No paid run was spent on a single two-page document (the editor's word). The English was written in session under the rules translate.py gives its translator – the termbase, the canonical names, the numbers rule – and written into the translation cache by the holding's script, so the checks and the publish read it exactly as a paid run's. The garbled stretches are kept or bracketed, never guessed. The money and measure abbreviations follow the standing forms; whether "6 gl." is gulden in this document is put to the editor.
 
 ### Summary
 
-The summary was written in English and German in session. Its 18 statements were then checked against the document, as the claim check does: all supported, after one corrected in the draft - the one-year term belongs to the contract the board issues, not to the teacher's obligation.
+The summary was written in English and German in session. Its 18 statements were then checked against the document, as the claim check does: all supported, after one corrected in the draft – the one-year term belongs to the contract the board issues, not to the teacher's obligation.

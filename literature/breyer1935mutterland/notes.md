@@ -70,3 +70,12 @@ p. 8 (Zagórów, Grodziec) to APP 53/968/0/-/669, document 2, if the editor
 wants the church books named beside Breyer's notebook; asked in
 `docs/NEEDS_CONFIRMATION.md`. Nothing in this lecture names Trąbczyn,
 Łazińsk or the families of the estate, so no other link is planned.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Zagórów is the town of the estate, and Grodziec the place named in the title
+> of Breyer's notebook of July 1936. Breyer (1889-1939) is the man whose
+> notebooks of 1936 are among the holdings (APP 53/968/0/-/669 and -/716). Its
+> counts are his own and are to be held against the church books.

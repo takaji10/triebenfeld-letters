@@ -35,7 +35,7 @@ alte und neue mit der Huta, 31, 62 und 124 [[1]].
 
 In jeder Zeile außer der ersten verdoppeln sich die Zahlen von Spalte zu
 Spalte; die Zeile des Dorfes selbst, 21, 22 und 84, ist die eine, deren
-mittlere Zahl der Verdoppelung nicht folgt, und sie steht als geschrieben -
+mittlere Zahl der Verdoppelung nicht folgt, und sie steht als geschrieben –
 die Übertragung ist die des Herausgebers und richtig [[1]]. <!-- context -->
 
 Der Eintrag steht in der ersten Hälfte der Seite; der Rest der Seite gehört
@@ -46,7 +46,7 @@ Datum; der Titel des Bandes nennt die Jahre 1791 und 1792. <!-- context -->
 
 Die Zeilen sind die Dörfer der Pfarrei Trąbczyn. Die Schmiede „Kuznia
 Maryantów“ der Tabelle ist das Marianton, Mariantów, wo das
-hohenlohesche Patrimonialgericht für Trąbczyn saß („Actum Marianton“) - die
+hohenlohesche Patrimonialgericht für Trąbczyn saß („Actum Marianton“) – die
 Bestimmung des Herausgebers [[1]]. Die eine Zeile „Hollendry Luzne Stare i
 nowe z Hutą“ nennt beide Olęder-Kolonien des Gutes zusammen, die alte und
 die neue [[1]].

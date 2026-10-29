@@ -376,3 +376,30 @@ the court's finding, a deportation is stated as what happened. Hedging is
 light and honest ("perhaps", "likely"), metaphor is sparse and familiar (a
 spark, a red thread, a lens), an aside is set off by a spaced en dash,
 and every statement can be traced to the document it rests on.
+
+## The editor's rulings on the pilot (2026-10-29)
+
+The voice review (`docs/VOICE_REVIEW_PLAN.md`) showed the editor seven texts
+before and after (`review/voice/pilot.html`). Their rulings:
+
+- **The length is right.** Even sentences near the samples' 29 words, each
+  step of a list in its own sentence, in the work's or the case's own order.
+- **No relevance talk on a reader's page.** Why a work, an item or a passage
+  is in the edition - "The article names neither Trąbczyn nor the Olęders",
+  "Background to the noble society that owned the estates", "Its bearing
+  on ...", "Only the pages that bear on the area are brought in" - is the
+  project's reasoning. It goes into the work's `notes.md` (a section "Why it
+  is here"), not onto the page. The page says what the work is and what it
+  contains.
+- **The literature's accounts are to be short.** A few sentences for each
+  work: who wrote it and in what role, what and when, what it covers, and
+  which part is given where it is not given whole. Not a table of contents.
+- **Summaries keep the light touch** of the pilot: an overlong sentence is
+  split; a long sentence that reads in one breath stays.
+- **Dashes:** every hyphen or em dash that stands for a dash in the site's
+  own prose becomes the spaced en dash ( – ), mechanically (the ruling of
+  2026-10-20). A quotation and a work's title keep theirs.
+- **Slips are listed for the editor, never fixed silently.** "It's great that
+  you find them." Each slip found goes to `docs/NEEDS_CONFIRMATION.md`
+  ("Slips found in the voice review") with the proposed correction, and is
+  changed only on the editor's word.

@@ -4,42 +4,42 @@ One scan, the editor's download from the archive's online presentation of the un
 
 ### Transcription
 
-The editor supplied the transcription, and it is kept as written: the abbreviation marks (~) stand, and the places the editor read with doubt keep their marks ("praeterita[?]", "detulisse[?]", "[F?]irma"). The lines follow the manuscript's own lines. A word the manuscript divides at a line end is written with the line-end mark, ¬ - the editor's draft had a hyphen there ("Hyp-", "Ju-"); a matter of convention only, no reading changed.
+The editor supplied the transcription, and it is kept as written: the abbreviation marks (~) stand, and the places the editor read with doubt keep their marks ("praeterita[?]", "detulisse[?]", "[F?]irma"). The lines follow the manuscript's own lines. A word the manuscript divides at a line end is written with the line-end mark, ¬ – the editor's draft had a hyphen there ("Hyp-", "Ju-"); a matter of convention only, no reading changed.
 
 Two rulings were made in session, 2026-10-26:
 
-- "Judicius" (line 2) is corrected to "Judicio" at the editor's word - it is not a Latin word, and "known to the present court" is the sentence's one grammatical reading.
-- "Citti~" (line 3) is read as Citati, "of the cited party" (the editor's word); the abbreviation mark stands in the transcription, and the reading is recorded in the unit's translation note.
+- "Judicius" (line 2) is corrected to "Judicio" at the editor's word – it is not a Latin word, and "known to the present court" is the sentence's one grammatical reading.
+– "Citti~" (line 3) is read as Citati, "of the cited party" (the editor's word); the abbreviation mark stands in the transcription, and the reading is recorded in the unit's translation note.
 
 ### The readings that are not settled
 
 The editor looked at the doubtful places on the scan at the pixel level; the download is 1340 pixels wide, so the letterforms do not settle beyond what the editor saw. The open readings, recorded in NEEDS_CONFIRMATION and in `review/app534062/unresolved.md`:
 
-- "Conte~" (line 5), the person before whom the citation was left. The session's candidate is Contubernali, "household member" - the parallel formulas of Konin Gr. 117 fill this slot with a household person ("praesente Economo", "praesente virgine") - but the editor is not sure, and the word stands as written.
-- "de Juris [F?]irma" (lines 5-6): no parallel anywhere in the corpus; the editor notes that Forma is as plausible as Firma. It stays as read.
-- "eam" (line 2), written with a scribal mark above the final m; the editor guessed "eadem". The session's reading is "eam", the citation, for two reasons: it is the pronoun the sentence needs before the insertion's address ("[that he had carried] it to the estate of Szetlew") and it is picked up again by "eamque ibidem ... posuisse"; and "eadem", a nominative, has no grammatical place in the sentence. If the mark completes the word, "eamdem" (= eandem, the accusative) is the form the period writes. The word stands as read.
-- "(inserat~)" (line 3, between the lines): the editor confirms the word is "inserat" with a scribal abbreviation - an insertion mark in the record, before the citation's address.
-- The verb of reporting is missing: the parallel formulas read "recognovit se ... detulisse", and the transcription has no "recognovit". Whether the formula's opening stands higher on the page, or the sentence continues from the entry above, is for the editor's reading of the page.
+- "Conte~" (line 5), the person before whom the citation was left. The session's candidate is Contubernali, "household member" – the parallel formulas of Konin Gr. 117 fill this slot with a household person ("praesente Economo", "praesente virgine") – but the editor is not sure, and the word stands as written.
+– "de Juris [F?]irma" (lines 5-6): no parallel anywhere in the corpus; the editor notes that Forma is as plausible as Firma. It stays as read.
+– "eam" (line 2), written with a scribal mark above the final m; the editor guessed "eadem". The session's reading is "eam", the citation, for two reasons: it is the pronoun the sentence needs before the insertion's address ("[that he had carried] it to the estate of Szetlew") and it is picked up again by "eamque ibidem ... posuisse"; and "eadem", a nominative, has no grammatical place in the sentence. If the mark completes the word, "eamdem" (= eandem, the accusative) is the form the period writes. The word stands as read.
+– "(inserat~)" (line 3, between the lines): the editor confirms the word is "inserat" with a scribal abbreviation – an insertion mark in the record, before the citation's address.
+– The verb of reporting is missing: the parallel formulas read "recognovit se ... detulisse", and the transcription has no "recognovit". Whether the formula's opening stands higher on the page, or the sentence continues from the entry above, is for the editor's reading of the page.
 
 ### Division and dating
 
 The holding is one document on one page: the entry the editor chose, at the foot of page 222. The rest of the page above it belongs to the entry before, and is not transcribed.
 
-The entry has no date of its own - only "Feria Quinta proxima praeterita", the Thursday next past, relative to the sitting. It is dated 1727, year only, as the editor's provisional assignment (2026-10-26) from the volume's title, 1726-1727. The date of the sitting is to be read from the preceding pages of the book, and the ruling then moves to `dates: sitting:` as the court-book holdings do; the same reading will settle the place of the sitting, which is also left open (NEEDS_CONFIRMATION, "53/4/0/-/62").
+The entry has no date of its own – only "Feria Quinta proxima praeterita", the Thursday next past, relative to the sitting. It is dated 1727, year only, as the editor's provisional assignment (2026-10-26) from the volume's title, 1726-1727. The date of the sitting is to be read from the preceding pages of the book, and the ruling then moves to `dates: sitting:` as the court-book holdings do; the same reading will settle the place of the sitting, which is also left open (NEEDS_CONFIRMATION, "53/4/0/-/62").
 
 ### Translation
 
-No paid run was spent on a single-page document (the editor's word, as for app539680782). The English was written in session under the rules translate.py gives its translator - the termbase, the canonical names - and written into the translation cache by the holding's script, so the checks and the publish read it exactly as a paid run's. The formulas follow the Konin holdings' established English ("Royal Court Summoner, General, sound of health" for "Ministerialis Regni Generalis ... Sanus"; "on the table in the heated room ... he laid and left it"). The doubtful words are carried one for one, bracketed, never guessed. The mechanical checks raised three rows on the first draft; two were resolved by the revision (the markers carried, the established rendering used), and the third, the length ratio, was ruled OK - a forty-word Latin entry against the full formulas. The check that reads the rulings back had never been run with `--unit`; it crashed for lack of an import, and the mismatch it then showed against the cleared keys (letter instead of pad) was fixed (WORKING_NOTES, "The translation-review reader").
+No paid run was spent on a single-page document (the editor's word, as for app539680782). The English was written in session under the rules translate.py gives its translator – the termbase, the canonical names – and written into the translation cache by the holding's script, so the checks and the publish read it exactly as a paid run's. The formulas follow the Konin holdings' established English ("Royal Court Summoner, General, sound of health" for "Ministerialis Regni Generalis ... Sanus"; "on the table in the heated room ... he laid and left it"). The doubtful words are carried one for one, bracketed, never guessed. The mechanical checks raised three rows on the first draft; two were resolved by the revision (the markers carried, the established rendering used), and the third, the length ratio, was ruled OK – a forty-word Latin entry against the full formulas. The check that reads the rulings back had never been run with `--unit`; it crashed for lack of an import, and the mismatch it then showed against the cleared keys (letter instead of pad) was fixed (WORKING_NOTES, "The translation-review reader").
 
 ### Summary
 
-The summary was written in English and German in session. Its 8 statements were then checked against the document, as the claim check does: all supported, after one corrected in the draft - the messenger Matuszkiewicz reports fifty-one years later (1778), not thirty, as the session's first draft had it.
+The summary was written in English and German in session. Its 8 statements were then checked against the document, as the claim check does: all supported, after one corrected in the draft – the messenger Matuszkiewicz reports fifty-one years later (1778), not thirty, as the session's first draft had it.
 
 ### What the holding owes the site
 
 - `about.md`/`process.md` and their German, written in session.
-- `rulings.yml`: doc_type report (the Konin vocabulary), language la, the date supplied as 1727 pending the sitting's heading, place of writing left empty, estates szetlew and szetlewek.
-- A person entry: Sebastian Szetlewicz, court messenger (`reference/people.yml`, `reference/people_bios.yml`, no life dates - documented 1727).
-- Places: "Szetlewko" matched to Szetlewek, "Szetlewo" matched to Szetlew (reference/places.yml, 2026-10-26) - the first text that tells the two apart. The change moved one earlier mention (the hearth-tax table's row "Szetlewo z Częś: Jaroszew:", APP 53/64/0/-/Kalisz Tab.21, from Szetlewek to Szetlew, the Kodeks editors' identification) and matched two not matched before (the Kodeks's own gloss "Szetlewo" in the 1173 and 1261 entries, kdw documents 2 and 4). Both moves are recorded in `literature/index.yml` and here, and were confirmed by the editor (2026-10-26).
-- The glossary gate passes; no candidate words.
-- Timeline: no event added - the entry names no party and bears on no owner directly; offered to the editor.
+– `rulings.yml`: doc_type report (the Konin vocabulary), language la, the date supplied as 1727 pending the sitting's heading, place of writing left empty, estates szetlew and szetlewek.
+– A person entry: Sebastian Szetlewicz, court messenger (`reference/people.yml`, `reference/people_bios.yml`, no life dates – documented 1727).
+– Places: "Szetlewko" matched to Szetlewek, "Szetlewo" matched to Szetlew (reference/places.yml, 2026-10-26) – the first text that tells the two apart. The change moved one earlier mention (the hearth-tax table's row "Szetlewo z Częś: Jaroszew:", APP 53/64/0/-/Kalisz Tab.21, from Szetlewek to Szetlew, the Kodeks editors' identification) and matched two not matched before (the Kodeks's own gloss "Szetlewo" in the 1173 and 1261 entries, kdw documents 2 and 4). Both moves are recorded in `literature/index.yml` and here, and were confirmed by the editor (2026-10-26).
+– The glossary gate passes; no candidate words.
+– Timeline: no event added – the entry names no party and bears on no owner directly; offered to the editor.

@@ -1,4 +1,4 @@
-# APP 53/20/0/-/Poznań Gr.1181 — how this holding was prepared
+# APP 53/20/0/-/Poznań Gr.1181 – how this holding was prepared
 
 The scans are the editor's own photographs of the fourteen pages (161 to
 167v in the archive's pagination), one page per photograph, taken from the

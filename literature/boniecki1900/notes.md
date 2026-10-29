@@ -110,3 +110,9 @@ rule.
 Four hand-made links (`literature/links.yml`, `boniecki1900-*`): Jerzy to
 1644, Franciszek and Józef to 1728, Heliodor and Stanisław to 1775, the
 estates and the title to 1778 and 1763.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Boniecki says himself that the pedigree breaks off just before this branch.

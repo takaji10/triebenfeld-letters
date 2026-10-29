@@ -34,4 +34,4 @@ every table already built, and the two outputs agree exactly
 
 The figures of six of the seven rows double from column to column; the
 village's own row does not follow the doubling in its middle figure and
-stands as written - the transcription is the editor's own and correct.
+stands as written – the transcription is the editor's own and correct.

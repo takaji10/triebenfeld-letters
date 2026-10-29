@@ -18,3 +18,10 @@ passage, `front`, in each language.
 Page 12 read against the German (2026-10-19): faithful, nothing left out.
 The Materialien (p. 163) quotes this book as the "schwarze Buch", page 11
 ff, for Triebenfeld's background.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It is an accusation, written to bring the ministers down; what it says of
+> Triebenfeld is Held's charge, to be held against the documents.

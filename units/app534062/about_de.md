@@ -2,7 +2,7 @@ Ein Eintrag am Fuß von Seite 222 des Relations- und Zitationsbuchs des Landgeri
 
 ### Der Eintrag
 
-Der allgemeine königliche Bote Sebastian Szetlewicz aus dem Dorf Szetlewko trägt dem Gericht vor, dass er eine Ladung zum Gut des Dorfes Szetlew, an die Wohnung des Geladenen gebracht und am vorvergangenen Donnerstag dort auf dem Tisch im beheizten Raum niedergelegt und zurückgelassen hat, vor dem „Conte~" des Geladenen [[1]]. Der Eintrag nennt weder die Sache noch die Parteien: Der Empfänger der Ladung erscheint nur als „der Geladene". Die Eingangsformel des Berichts ergibt sich in der Abschrift nicht ganz - das Verb des Berichtens, das die Parallelformeln führen, steht so nicht auf der Seite -, und der Eintrag schließt mit der Wendung „von diesem, der vorliegende Bericht" [[1]].
+Der allgemeine königliche Bote Sebastian Szetlewicz aus dem Dorf Szetlewko trägt dem Gericht vor, dass er eine Ladung zum Gut des Dorfes Szetlew, an die Wohnung des Geladenen gebracht und am vorvergangenen Donnerstag dort auf dem Tisch im beheizten Raum niedergelegt und zurückgelassen hat, vor dem „Conte~" des Geladenen [[1]]. Der Eintrag nennt weder die Sache noch die Parteien: Der Empfänger der Ladung erscheint nur als „der Geladene". Die Eingangsformel des Berichts ergibt sich in der Abschrift nicht ganz – das Verb des Berichtens, das die Parallelformeln führen, steht so nicht auf der Seite -, und der Eintrag schließt mit der Wendung „von diesem, der vorliegende Bericht" [[1]].
 
 ### Warum er hier ist
 

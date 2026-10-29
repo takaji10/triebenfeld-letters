@@ -33,3 +33,11 @@ substance but weaker than the German: "die größten Vortheile" (the greatest
 advantages) is "benefited significantly", "die ersten gewaltigen Schritte"
 (the first mighty steps) "the first significant steps". A passage an answer
 rests on is to be read in the German.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It is the background to the tenures of the Olęder settlers and the
+> hereditary leases of 1805 and 1806 on the Trąbczyn estate, which it does not
+> name.

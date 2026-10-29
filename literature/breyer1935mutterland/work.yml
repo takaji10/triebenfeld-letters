@@ -19,47 +19,33 @@ scan: "http://www.UpstreamVistula.org"
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  A lecture by Albert Breyer on where the Germans of central Poland came
-  from, drawn from the places of origin written in the Lutheran church books:
-  the farmers of the Vistula lowland, of Dobrzyń, of Kuyavia, of the Kalisz
-  country and of the Łódź area; the townsmen and cloth-makers; the pastors and
-  teachers. Page 8 counts the places of origin in the church books of
-  Zagórów (1843 to 1847), Grodziec, Stawiszyn, Turek and Władysławów:
-  Zagórów is the town of the estate, and Grodziec the place named in the
-  title of Breyer's notebook of July 1936. Page 9 puts the Germans of the
-  Kalisz country at 54 in a hundred Silesian. Breyer (1889-1939) is the man whose notebooks of
-  1936 are among the holdings (APP 53/968/0/-/669 and -/716). He wrote
-  it for the German minority in Poland in 1935 to show that its people came
-  from the neighbouring Prussian provinces; its closing words speak of the
-  strengths and weaknesses of German "stocks" (Stämme). Its counts are his
-  own and are to be held against the church books.
+  A lecture of 1935 by Albert Breyer on where the Germans of central Poland
+  came from, read from the places of origin in the Lutheran church books: the
+  farmers of the Vistula lowland, Dobrzyń, Kuyavia, the Kalisz country and the
+  Łódź area, the townsmen and cloth-makers, the pastors and teachers. Page 8
+  counts the places of origin in the church books of Zagórów (1843 to 1847),
+  Grodziec, Stawiszyn, Turek and Władysławów; page 9 puts the Germans of the
+  Kalisz country at 54 in a hundred Silesian. Breyer wrote it for the German
+  minority in Poland, to show that its people came from the neighbouring
+  Prussian provinces, and closes on the strengths and weaknesses of German
+  "stocks" (Stämme).
 account_de: >-
-  Ein Vortrag Albert Breyers über die Herkunft der Deutschen Mittelpolens,
-  nach den in den evangelischen Kirchenbüchern eingetragenen Herkunftsorten:
-  die Bauern der Weichselniederung, des Dobriner Landes, Kujawiens, des
-  Kalischer Landes und des Lodzer Gebiets; die Städter und Tuchmacher; die
-  Pastoren und Lehrer. Seite 8 zählt die Herkunftsorte in den Kirchenbüchern
-  von Zagórów (1843 bis 1847), Grodziec, Stawiszyn, Turek und Władysławów:
-  Zagórów ist die Stadt des Gutes, Grodziec der Ort im Titel von Breyers
-  Notizbuch vom Juli 1936. Seite 9 gibt die Deutschen des Kalischer Landes
-  zu 54 vom Hundert als schlesisch an. Breyer (1889-1939) ist der Mann,
-  dessen Notizbücher von 1936 zu den Beständen gehören (APP
-  53/968/0/-/669 und -/716). Er schrieb ihn 1935 für die deutsche Minderheit
-  in Polen, um zu zeigen, dass ihre Leute aus den benachbarten preußischen
-  Provinzen kamen; seine Schlussworte sprechen von den Stärken und Schwächen
-  der deutschen „Stämme“. Seine Zählungen sind die seinen und an den
-  Kirchenbüchern zu prüfen.
+  Ein Vortrag Albert Breyers von 1935 über die Herkunft der Deutschen
+  Mittelpolens, gelesen aus den Herkunftsorten in den lutherischen
+  Kirchenbüchern: die Bauern der Weichselniederung, des Dobriner Landes,
+  Kujawiens, des Kalischer Landes und der Lodzer Gegend, die Bürger und
+  Tuchmacher, die Pastoren und Lehrer. Seite 8 zählt die Herkunftsorte in den
+  Kirchenbüchern von Zagórów (1843 bis 1847), Grodziec, Stawiszyn, Turek und
+  Władysławów aus; Seite 9 nennt die Deutschen des Kalischer Landes zu 54 von
+  hundert schlesisch. Breyer schrieb ihn für die deutsche Minderheit in Polen,
+  um zu zeigen, dass ihre Leute aus den benachbarten preußischen Provinzen
+  kamen, und schließt mit Stärken und Schwächen der deutschen „Stämme“.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
   Breyer's lecture of 1935 on where the Germans of central Poland came from,
-  read from the places of origin recorded in the Lutheran church books of,
-  among others, Zagórów and Grodziec, and arguing from them that most came out
-  of the neighbouring Prussian provinces; its counts are his own, to be held
-  against the church books.
+  read from the Lutheran church books of Zagórów, Grodziec and other parishes.
 brief_de: >-
   Breyers Vortrag von 1935 über die Herkunft der Deutschen Mittelpolens,
-  gelesen aus den Herkunftsorten, die die evangelischen Kirchenbücher von
-  Zagórów und Grodziec unter anderen verzeichnen, und aus ihnen schließend,
-  dass das meiste aus den benachbarten preußischen Provinzen gekommen ist;
-  seine Zählungen sind die seinen und an den Kirchenbüchern zu prüfen.
+  gelesen aus den lutherischen Kirchenbüchern von Zagórów, Grodziec und
+  anderen Gemeinden.

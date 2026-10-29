@@ -33,57 +33,34 @@ english_by: ""
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  An article by Robert I. Frost, the British historian of Poland (University
-  of Aberdeen), on the nobility of the Polish-Lithuanian Commonwealth from
-  the Union of Lublin (1569) to the third partition (1795): how the szlachta
-  won and kept its privileges and its grip on the state (the Sejm, the free
-  election, the liberum veto, the tribunals); how large it was, perhaps
-  6-7.5 per cent of the population and most of it poor, and how easily
-  commoners slipped into it; the economy of the great latifundia, built on
-  royal leases and serf labour; the hierarchy of offices that ranked the
-  estate; the rise, fall and endless competition of the magnate families,
-  which it argues (against the older "magnate oligarchy") never made a
-  stable élite; and the redefinition of nobility by property in the reforms
-  of Stanisław August, which ended in the Constitution of 3 May 1791 and the
-  collapse of the Commonwealth. Background to the noble society that owned
-  and ruled the estates: it names neither Trąbczyn nor the
-  Olęders, but draws its evidence heavily from Great Poland, among other
-  things from the study of the Kalisz district land market (Pośpiech)
-  showing the middle nobility buying out portions and holding its own
-  between 1580 and 1655, and from the 775 new settlements raised in Great
-  Poland between 1721 and 1793.
+  Robert I. Frost, a British historian of Poland at the University of
+  Aberdeen, on the nobility of the Polish-Lithuanian Commonwealth from the
+  Union of Lublin in 1569 to the third partition in 1795. He shows how the
+  szlachta, perhaps 6 to 7.5 per cent of the population and most of it poor,
+  won its privileges and kept its hold on the state, and how the great
+  latifundia rested on royal leases and serf labour. Against the older view of
+  a "magnate oligarchy", he argues that the magnate families never formed a
+  stable élite, and he ends with the redefinition of nobility by property
+  under Stanisław August. Much of his evidence comes from Great Poland, among
+  it the land market of the Kalisz district between 1580 and 1655.
 account_de: >-
-  Ein Artikel von Robert I. Frost, dem britischen Historiker Polens
-  (University of Aberdeen), über den Adel der Adelsrepublik Polen-Litauen
-  von der Union von Lublin (1569) bis zur dritten Teilung (1795): wie die
-  szlachta ihre Privilegien gewann und behielt und den Staat fest im Griff
-  hatte (Sejm, freie Wahl, liberum veto, Tribunale); wie groß sie war, wohl
-  6-7,5 Prozent der Bevölkerung und meistens arm, und wie leicht Unfreie in
-  sie hineinschlüpften; die Wirtschaft der großen Latifundien aus
-  königlichem Pachtland und Frondienst; die Hierarchie der Ämter, die den
-  Stand ordnete; Aufstieg, Fall und endloser Wettstreit der
-  Magnatenfamilien, aus denen (gegen die ältere These der
-  „Magnatenoligarchie“) nie eine beständige Spitze wurde; und die
-  Neubestimmung des Adels durch Eigentum in den Reformen Stanisław Augusts,
-  die in der Verfassung vom 3. Mai 1791 und im Zusammenbruch der Republik
-  endeten. Hintergrund der Adelsgesellschaft, die die Güter
-  besaß und regierte: Sie nennt weder Trąbczyn noch die Olęder, stützt sich
-  aber schwer auf Großpolen, unter anderem auf die Untersuchung des
-  Landmarkts im Kreis Kalisch (Pośpiech), die zeigt, wie der mittlere Adel
-  zwischen 1580 und 1655 Anteile aufkaufte und sich hielt, und auf die 775
-  neuen Siedlungen, die zwischen 1721 und 1793 in Großpolen entstanden.
+  Robert I. Frost, britischer Historiker Polens an der Universität Aberdeen,
+  über den Adel der Adelsrepublik Polen-Litauen von der Union von Lublin 1569
+  bis zur dritten Teilung 1795. Er zeigt, wie die szlachta, vielleicht 6 bis
+  7,5 Prozent der Bevölkerung und meist arm, ihre Privilegien gewann und den
+  Staat im Griff behielt, und wie die großen Latifundien auf königlichem
+  Pachtland und Frondienst ruhten. Gegen die ältere These einer
+  „Magnatenoligarchie“ zeigt er, dass die Magnatenfamilien nie eine beständige
+  Spitze bildeten, und er schließt mit der Neubestimmung des Adels durch
+  Eigentum unter Stanisław August. Viele seiner Belege stammen aus Großpolen,
+  darunter der Landmarkt des Kreises Kalisch zwischen 1580 und 1655.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Robert Frost's article on the nobility of the Polish-Lithuanian Commonwealth
-  from 1569 to 1795 — how the szlachta won and kept its privileges, the
-  magnate families' rise and fall, the redefinition of nobility by property in
-  the reforms of Stanisław August — written from, among others, Great Poland's
-  evidence: background to the noble society that owned and ruled the estates.
+  Frost's survey of the nobility of the Polish-Lithuanian Commonwealth, 1569
+  to 1795: its privileges, its magnates and its redefinition by property under
+  Stanisław August.
 brief_de: >-
-  Robert Frosts Artikel über den Adel der Adelsrepublik Polen-Litauen von 1569
-  bis 1795 — wie die szlachta ihre Privilegien gewann und behielt, Aufstieg
-  und Fall der Magnatenfamilien, die Neubestimmung des Adels durch Eigentum in
-  den Reformen Stanisław Augusts — gearbeitet unter anderem aus großpolnischem
-  Zeugnis: Hintergrund der Adelsgesellschaft, die die Güter besaß
-  und regierte.
+  Frosts Überblick über den Adel der Adelsrepublik Polen-Litauen, 1569 bis
+  1795: seine Privilegien, seine Magnaten und seine Neubestimmung durch
+  Eigentum unter Stanisław August.
