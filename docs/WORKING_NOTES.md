@@ -2728,3 +2728,15 @@ it in the nominative, or in the undeclined form, in the same source.
   all"); since then the spaced en dash is the rule (HOUSE_STYLE, "Typography").
   It now fails only an em dash or a hyphen standing for a dash. When a style
   rule changes, look for a check that still enforces the old one.
+- **Changing a summary: `pipeline/review/set_summaries.py`.** It rewrites the
+  site's copies, the holding's `summaries_de.yml` and the cache
+  (`cache/summaries-raw[-de]`, on the desktop), then `build_dataset.py` and
+  `build_site_data.py` carry it on. The drafting scripts
+  (`intake/summaries_draft.py`) are changed only where the old text stands as
+  one string; where they split it over several strings they keep the older
+  wording, as the record of how the summary was first written, and the
+  script says "draft not found".
+- **A sub-agent stopped by the usage limit keeps its work.** Two Sonnet
+  sub-agents stopped mid-task on the five-hour limit (2026-10-29); after the
+  reset a SendMessage to each ("continue from where you stopped; do not
+  split anything twice") finished the job without starting over.

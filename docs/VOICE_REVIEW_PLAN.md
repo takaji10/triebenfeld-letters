@@ -65,8 +65,17 @@ session.
      talk taken out (NEEDS_CONFIRMATION, "the documents first", a dated
      ruling, the citation files' method): done 2026-10-29; their long
      sentences (about 200, mostly in Słowiński 2023 and 2024) still to split;
-   - still to do: those long sentences, the document summaries (with their
-     dashes), the people, genealogy and glossary (light).
+   - those long sentences: 148 of 154 split by a Sonnet sub-agent, 6 left
+     (a quotation fills them); the diff read word by word here: done
+     2026-10-30;
+   - the document summaries, light touch: 74 summaries (98 texts), the
+     sentences of more than 60 words split and the 84 dashes made en dashes,
+     drafted by a Sonnet sub-agent into `review/voice/summaries_batch.yml`,
+     read word by word here (two lists put back whole), carried into every
+     copy by `pipeline/review/set_summaries.py`: done 2026-10-30;
+   - still to do: the people, genealogy and glossary (light), and the
+     repository talk still on the "How it was prepared" tabs (file paths,
+     NEEDS_CONFIRMATION, dated rulings), which waits on the editor's word.
    The order planned: holdings, literature, newspapers and links, people,
    glossary, then the summaries in batches of about fifty. Each batch is
    rebuilt and verified; a changed summary is claim-checked again and carried
