@@ -6,7 +6,7 @@ After the Russian ukase of 1864 on the peasants of the Kingdom of Poland, the la
 
 ### Contents
 
-The loose sheet is a Polish list, made out at Kopojno on 3/15 December 1858 by the wójt (village head) of the commune of Kopojno, of the hearth tax and barracks money that 29 householders of the colony of Emilienheim were to pay in two instalments, in March and September; most of them owe 1 złoty 50 groszy, and the whole comes to 40 złoty 50 groszy [[1]].
+The loose sheet is a Polish list, made out at Kopojno on 3/15 December 1858 by the wójt (village head) of the commune of Kopojno. It sets out the hearth tax and barracks money that 29 householders of the colony of Emilienheim were to pay in two instalments, in March and September. Most of them owe 1 złoty 50 groszy, and the whole comes to 40 złoty 50 groszy [[1]].
 
 Breyer copied three liquidation tables. That of Emilienheim, "now Mikhalenov", dated 28 March 1868, lists 35 holdings, 319 Morgen 250 rods in all, with 4,420 roubles 53 kopecks due to the landowner [[2]]; his notes add the survey of 1870 and the renaming of the village in 1892 after its local name, Michalinów [[3]]. That of the colony of Łazińsk, in the commune of Trąbczyn, dated at Słupca on 29 June 1868, is the longest: 91 holdings, the school farmstead, the cemetery, the common land and the roads, 1,691 Morgen 219 rods in all, and a liquidation sum of 10,055 roubles 70 kopecks for the former owner. Beside many holdings Breyer wrote in pencil who held them in 1875 [[4]]. The third is that of Orliny, of the landowner Count Albert Taczanowski: 57 holdings, 850 Morgen 272 rods, and 6,049 roubles 89 kopecks to be paid [[11]].
 
@@ -14,7 +14,7 @@ He copied the servitudes too. The Łazińsk Hollanders may graze their cattle in
 
 His figures for Łazińsk follow the farmers and their land from 1840 to 1935: 87 farmers on 1,368 Morgen in 1840, 91 on 1,691 in 1868, 112 on 2,044 in 1906, and 146 on 1,996 in 1935 [[7]]. For Orlin he lists the farmers of the Hauland of Biskupice with their Morgen [[9]], and the land of the village by classes in July 1936 [[10]].
 
-His notes of July 1935 [[8]] and July 1936 [[10]] are on Huta Trąbczyńska, Orlin, Józefów and the villages around them: the number of farmers and of cattle, the first farmers of Józefów, houses, hymn books, dress, speech (Low German among the old people, Kashubian in Orlin in earlier days), customs, thieving and poverty, marriages, the Pentecostalists and Baptists who had come to Orlin, the young people going to the Poznań region, and relations with the Poles, who "all speak good German".
+His notes of July 1935 [[8]] and July 1936 [[10]] are on Huta Trąbczyńska, Orlin, Józefów and the villages around them: the number of farmers and of cattle, the first farmers of Józefów, houses, hymn books, dress, speech (Low German among the old people, Kashubian in Orlin in earlier days), customs, thieving and poverty. They also cover marriages, the Pentecostalists and Baptists who had come to Orlin, the young people going to the Poznań region, and relations with the Poles, who "all speak good German".
 
 ### Form and language
 

@@ -55,9 +55,18 @@ session.
      2026-10-29, median sentence 29 words from 50;
    - the newspapers' accounts and cards, all 12 items: done 2026-10-29, 24
      words from 53;
-   - still to do: the hand-made links' sentences, the holdings' pages, the
-     detailed summaries of the five works shown by summary, the document
-     summaries (with their dashes), the people, genealogy and glossary (light).
+   - the hand-made links: fifteen of 32 rewritten (the rest read well), 34
+     words from 39: done 2026-10-29;
+   - the holdings' pages: the 85 sentences of more than 60 words split by a
+     Sonnet sub-agent (`review/voice/holdings_long.yml`, its report
+     `holdings_long_report.md`), the diff read word by word in the main
+     session; 81 split, 4 lists left whole: done 2026-10-29, 23 words;
+   - the detailed summaries of the works shown by summary: the repository
+     talk taken out (NEEDS_CONFIRMATION, "the documents first", a dated
+     ruling, the citation files' method): done 2026-10-29; their long
+     sentences (about 200, mostly in Słowiński 2023 and 2024) still to split;
+   - still to do: those long sentences, the document summaries (with their
+     dashes), the people, genealogy and glossary (light).
    The order planned: holdings, literature, newspapers and links, people,
    glossary, then the summaries in batches of about fifty. Each batch is
    rebuilt and verified; a changed summary is claim-checked again and carried

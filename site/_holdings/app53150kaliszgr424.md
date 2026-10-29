@@ -21,7 +21,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 ### Contents
 
-**The question.** On Saturday 23 November 1776 Antoni Leszczyc Mierzewski came before the municipal court office at Kalisz and asked whether the boundary decree between the estates of the villages of Łukom, Trąbczyn and others had been brought in to its records for entry: the decree given by the commissioners whom the Estates of the Commonwealth had appointed on the part of Antoni Prusimski of Kolno, Starost of Niszczewice, heir of Trąbczyn <span class="cite">[<a href="{{ '/documents/app53150kaliszgr424/1/' | relative_url }}">1</a>]</span>.
+**The question.** On Saturday 23 November 1776 Antoni Leszczyc Mierzewski came before the municipal court office at Kalisz and asked whether the boundary decree between the estates of the villages of Łukom, Trąbczyn and others had been brought in to its records for entry. It was the decree given by the commissioners whom the Estates of the Commonwealth had appointed on the part of Antoni Prusimski of Kolno, Starost of Niszczewice, heir of Trąbczyn <span class="cite">[<a href="{{ '/documents/app53150kaliszgr424/1/' | relative_url }}">1</a>]</span>.
 
 **The search and the answer.** The office went to its books of reports, in which papers brought in are received, and looked through them from the sitting of Thursday 17 October 1776 to that day. It answered that no boundary decree between those estates, given by the commissioners appointed on Prusimski's part and brought onto the ground of the estates, stood in its records, and it certified this. Mierzewski signed the entry <span class="cite">[<a href="{{ '/documents/app53150kaliszgr424/1/' | relative_url }}">1</a>]</span>.
 

@@ -2723,3 +2723,8 @@ it in the nominative, or in the undeclined form, in the same source.
   The rewriting of accounts, cards and link sentences stayed in the main
   session (the batches in `review/voice/`, applied by
   `pipeline/review/set_work_texts.py` and `set_link_texts.py`).
+- **`check_unit_text.py` kept the old dash rule.** It failed every English
+  holding page with an en dash, the rule of before 2026-10-20 ("no dashes at
+  all"); since then the spaced en dash is the rule (HOUSE_STYLE, "Typography").
+  It now fails only an em dash or a hyphen standing for a dash. When a style
+  rule changes, look for a check that still enforces the old one.

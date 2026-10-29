@@ -8,8 +8,8 @@ Der Herausgeber lieferte die Transkription, und sie bleibt wie geschrieben: Die 
 
 Zwei Entscheidungen fielen in der Sitzung, 2026-10-26:
 
-- „Judicius" (Zeile 2) wird auf Wort des Herausgebers zu „Judicio" gebessert - es ist kein lateinisches Wort, und „dem vorliegenden Gericht bekannt" ist die einzige grammatische Lesung des Satzes.
-– „Citti~" (Zeile 3) wird als Citati gelesen, „des Geladenen" (Wort des Herausgebers); das Abkürzungszeichen steht in der Transkription, und die Lesung steht in der Anmerkung der Einheit.
+- „Judicius" (Zeile 2) wird auf Wort des Herausgebers zu „Judicio" gebessert . Es ist kein lateinisches Wort, und „dem vorliegenden Gericht bekannt" ist die einzige grammatische Lesung des Satzes.
+– „Citti~" (Zeile 3) wird als Citati gelesen, „des Geladenen" (Wort des Herausgebers). Das Abkürzungszeichen steht in der Transkription, und die Lesung steht in der Anmerkung der Einheit.
 
 ### Die Lesungen, die nicht feststehen
 

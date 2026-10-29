@@ -92,8 +92,11 @@ def check(unit, recs, authority):
             head = ' '.join(para.split())[:60]
             if para.startswith('#'):
                 continue
-            if english and re.search(r'[–—]', para):
-                fails.append(f'{name}: a dash in "{head}..."')
+            # The dash rule since 2026-10-20 (HOUSE_STYLE, "Typography"): the
+            # spaced en dash sets off an aside; an em dash, or a hyphen standing
+            # for a dash, is the slip. (Until then no dash at all was allowed.)
+            if english and re.search(r'—|(?<=\S) - (?=\S)', re.sub(r'`[^`]*`|"[^"]*"|“[^”]*”', '', para)):
+                fails.append(f'{name}: an em dash or a hyphen for a dash in "{head}..."')
             ids = [i.strip() for m in CITE.finditer(para) for i in m.group(1).split(',')]
             for i in ids:
                 if i not in by_id:

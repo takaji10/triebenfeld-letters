@@ -12,7 +12,7 @@ Each letter, draft or note is one document, thirty in all. A reply drafted on an
 
 ### Corrections
 
-An AI model (Claude) went through the transcription and proposed corrections. A word was changed only where something other than the model's sense of the sentence supported the change: a second copy of the same text elsewhere in the file, a fixed formula of the chancery, or a misspelling one letter away from the only word that fits. 193 words were corrected this way, and each change is logged with its reason. The editor checked a random twenty against the scans and found all twenty right, then ruled on the doubtful ones by looking at the page. A passage too garbled to settle was left as it stands. Nine drafts are still rough and are marked as such.
+An AI model (Claude) went through the transcription and proposed corrections. A word was changed only where something other than the model's sense of the sentence supported the change. These were a second copy of the same text elsewhere in the file, a fixed formula of the chancery, or a misspelling one letter away from the only word that fits. 193 words were corrected this way. Each change is logged with its reason. The editor checked a random twenty against the scans and found all twenty right, then ruled on the doubtful ones by looking at the page. A passage too garbled to settle was left as it stands. Nine drafts are still rough and are marked as such.
 
 ### Paraphs
 

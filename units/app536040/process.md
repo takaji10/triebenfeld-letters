@@ -8,7 +8,7 @@ The editor transcribed the heading of the sitting and the entry and supplied the
 
 ### Check against the scans
 
-An AI model (Claude) read all five pages word for word against the scans and corrected 29 readings. Ten of the eleven doubts are settled; one stays. Most corrections are small. Those that change the sense: the sons are cited "with their parents, the servants and subjects with their lords", a set phrase, where the first reading had a decree; the shingles burned were "a hundred sixties", six thousand; the hay was taken "in no small number of cartloads", and its loss caused "the loss of livestock"; and the court, "deciding" the plaintiffs' cause, finds one thing, that a commissioner must go onto the ground. Each change is logged with its reason.
+An AI model (Claude) read all five pages word for word against the scans and corrected 29 readings. Ten of the eleven doubts are settled; one stays. Most corrections are small. Those that change the sense: the sons are cited "with their parents, the servants and subjects with their lords", a set phrase, where the first reading had a decree. The shingles burned were "a hundred sixties", six thousand; the hay was taken "in no small number of cartloads", and its loss caused "the loss of livestock". The court, "deciding" the plaintiffs' cause, finds one thing, that a commissioner must go onto the ground. Each change is logged with its reason.
 
 ### Division and dating
 

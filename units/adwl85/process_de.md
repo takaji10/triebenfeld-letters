@@ -4,7 +4,7 @@ Der Herausgeber fotografierte fünfzig Seiten des Bandes, jede eine einzelne Sei
 
 ### Transkription
 
-Der Herausgeber transkribierte die Teile der neun Seiten, die Trąbczyn betreffen, und die Tabelle von Zagórów. Diese Transkription ließ einige Abschnitte derselben Seiten aus (die Seelen der Pfarrei und den Auszug aus den Kirchenbüchern von 1790, die zweite Hälfte von Blatt 25 und 25 Rückseite und Teile von Blatt 28 Rückseite bis 29 Rückseite); auf Wunsch des Herausgebers wurden sie von einem KI-Modell (Claude) nach den Scans transkribiert, und dann wurde jede Seite Wort für Wort mit den Scans verglichen, zusammen mit dem Text des Herausgebers. Die so geprüften Wörter und Zahlen und die ergänzten Abschnitte sind für den Herausgeber gesondert aufgeführt.
+Der Herausgeber transkribierte die Teile der neun Seiten, die Trąbczyn betreffen, und die Tabelle von Zagórów. Diese Transkription ließ einige Abschnitte derselben Seiten aus (die Seelen der Pfarrei und den Auszug aus den Kirchenbüchern von 1790, die zweite Hälfte von Blatt 25 und 25 Rückseite und Teile von Blatt 28 Rückseite bis 29 Rückseite). Auf Wunsch des Herausgebers wurden sie von einem KI-Modell (Claude) nach den Scans transkribiert. Dann wurde jede Seite Wort für Wort mit den Scans verglichen, zusammen mit dem Text des Herausgebers. Die so geprüften Wörter und Zahlen und die ergänzten Abschnitte sind für den Herausgeber gesondert aufgeführt.
 
 Zwei Abschnitte dieser Seiten sind nicht transkribiert, weil sie zu anderen Teilen der Visitation gehören: der Kopf von Blatt 23 Rückseite, das Ende des Berichts über die Pfarrei vor Trąbczyn, und auf Blatt 34a die Beschreibung der Kirche von Zagórów unter der Tabelle.
 

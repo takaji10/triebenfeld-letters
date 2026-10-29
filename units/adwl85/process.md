@@ -4,7 +4,7 @@ The editor photographed fifty pages of the volume, each a single page, named by 
 
 ### Transcription
 
-The editor transcribed the parts of the nine pages that concern Trąbczyn and the Zagórów table. That transcription left out some passages of the same pages (the souls of the parish and the register extract of 1790, the second half of leaves 25 and 25 verso, and parts of leaves 28 verso to 29 verso); at the editor's request these were transcribed from the scans by an AI model (Claude), and every page was then read against the scans, the editor's text with it, word by word. The words and figures checked in this way and the passages added are listed for the editor separately.
+The editor transcribed the parts of the nine pages that concern Trąbczyn and the Zagórów table. That transcription left out some passages of the same pages (the souls of the parish and the register extract of 1790, the second half of leaves 25 and 25 verso, and parts of leaves 28 verso to 29 verso). At the editor's request these were transcribed from the scans by an AI model (Claude). Every page was then read against the scans, the editor's text with it, word by word. The words and figures checked in this way and the passages added are listed for the editor separately.
 
 Two passages on these pages are not transcribed, because they belong to other parts of the visitation: the top of leaf 23 verso, the end of the record of the parish before Trąbczyn; and on leaf 34a the description of the church of Zagórów under the table.
 

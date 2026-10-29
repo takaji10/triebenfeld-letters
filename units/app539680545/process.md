@@ -4,7 +4,7 @@ The archive's eleven images show the folder that holds the sheets and the ten sh
 
 ### Transcription
 
-The five list sheets were read by an AI model in enlarged bands of the images, every doubtful reading marked, and the readings then put to the editor on one sheet with a picture of each region beside its draft: thirty rows of the sheet were answered, and the editor's readings replaced most of the doubtful ones (the heading, "Nachtigall - Słowiński", the seventeen translation pairs, the whole end of the fifty-three list). Two rows were left unanswered and are recorded in the holding's notes. The three prose sheets are the editor's own transcription, kept as typed, with Breyer's spellings and slips untouched; the words the pencil defeated are recorded in the holding's list of unresolved readings. The tenth sheet is shown with the holding and has no transcription.
+The five list sheets were read by an AI model in enlarged bands of the images, every doubtful reading marked. The readings were then put to the editor on one sheet with a picture of each region beside its draft. Thirty rows of the sheet were answered, and the editor's readings replaced most of the doubtful ones (the heading, "Nachtigall - Słowiński", the seventeen translation pairs, the whole end of the fifty-three list). Two rows were left unanswered and are recorded in the holding's notes. The three prose sheets are the editor's own transcription, kept as typed, with Breyer's spellings and slips untouched; the words the pencil defeated are recorded in the holding's list of unresolved readings. The tenth sheet is shown with the holding and has no transcription.
 
 ### Division and dating
 

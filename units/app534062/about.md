@@ -2,7 +2,7 @@ One entry at the foot of page 222 of the relation and citation book of the land 
 
 ### The entry
 
-The general royal messenger Sebastian Szetlewicz, of the village of Szetlewko, reports to the court that he had carried a citation to the estate of the village of Szetlew and to the residence of the party cited, and, on the Thursday next past, had laid and left it there on the table in the heated room, before the cited party's "Conte~" [[1]]. The entry gives neither the case nor the parties: the person served appears only as "the cited one". The report's opening formula does not fully parse as transcribed – the verb of reporting that the parallel formulas carry is not on the page as read – and the entry closes with the phrase "of which, the present report" [[1]].
+The general royal messenger Sebastian Szetlewicz, of the village of Szetlewko, reports to the court that he had carried a citation to the estate of the village of Szetlew and to the residence of the party cited. He adds that on the Thursday next past he had laid and left it there on the table in the heated room, before the cited party's "Conte~" [[1]]. The entry gives neither the case nor the parties: the person served appears only as "the cited one". The report's opening formula does not fully parse as transcribed – the verb of reporting that the parallel formulas carry is not on the page as read – and the entry closes with the phrase "of which, the present report" [[1]].
 
 ### Why it is here
 

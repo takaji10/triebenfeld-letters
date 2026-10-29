@@ -8,7 +8,7 @@ Der Herausgeber hat die Überschrift der Sitzung und den Eintrag transkribiert u
 
 ### Prüfung an den Aufnahmen
 
-Ein KI-Modell (Claude) las alle fünf Seiten Wort für Wort neben den Aufnahmen und korrigierte 29 Lesungen. Zehn der elf Zweifel sind geklärt; einer bleibt. Die meisten Korrekturen sind klein. Den Sinn ändern diese: Die Söhne sind „mit ihren Eltern, die Dienstleute und Untertanen mit ihren Herren“ geladen, eine feste Formel, wo die erste Lesung ein Dekret hatte; die verbrannten Schindeln waren „hundert Schock“, sechstausend; das Heu wurde „in nicht geringer Zahl von Fuhren“ weggenommen, und sein Verlust verursachte „den Verlust von Vieh“; und das Gericht befindet, indem es über die Klage „entscheidet“, nur eines: dass ein Kommissar auf den Grund gehen muss. Jede Änderung ist mit ihrem Grund verzeichnet.
+Ein KI-Modell (Claude) las alle fünf Seiten Wort für Wort neben den Aufnahmen und korrigierte 29 Lesungen. Zehn der elf Zweifel sind geklärt; einer bleibt. Die meisten Korrekturen sind klein. Den Sinn ändern diese: Die Söhne sind „mit ihren Eltern, die Dienstleute und Untertanen mit ihren Herren“ geladen, eine feste Formel, wo die erste Lesung ein Dekret hatte. Die verbrannten Schindeln waren „hundert Schock“, sechstausend; das Heu wurde „in nicht geringer Zahl von Fuhren“ weggenommen, und sein Verlust verursachte „den Verlust von Vieh“. Das Gericht befindet, indem es über die Klage „entscheidet“, nur eines: dass ein Kommissar auf den Grund gehen muss. Jede Änderung ist mit ihrem Grund verzeichnet.
 
 ### Abgrenzung und Datierung
 

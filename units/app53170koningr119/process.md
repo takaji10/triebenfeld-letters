@@ -10,7 +10,7 @@ The editor transcribed eight entries and supplied them by paragraph, with the La
 
 An AI model (Claude) read every entry against the scans, word for word, and corrected 56 readings: 48 in a first pass, which left one entry and the first half of another unread, and 8 when those were read at the editor's word.
 
-Those that change the sense: in the search of September 1784 a line had been passed over, and the office certifies that the report of citation does "not exist"; in Chełmski's second citation a phrase was restored, that Łomowo "belongs to the plaintiff's principal estate of Łukom"; the acts are charged as done at "your" order, Prusimski's, not his steward's; the citation asks that "the production of the men be ordered and an inquiry held", where two words had been left unread; in his protest Prusimski offers "to clear himself", not to make amends; and in the report of May 1783 a line had been passed over, which says that the citation was left at the farm at Nowa Wieś. Each change is logged with its reason.
+Those that change the sense: in the search of September 1784 a line had been passed over, and the office certifies that the report of citation does "not exist". In Chełmski's second citation a phrase was restored, that Łomowo "belongs to the plaintiff's principal estate of Łukom"; the acts are charged as done at "your" order, Prusimski's, not his steward's. The citation asks that "the production of the men be ordered and an inquiry held", where two words had been left unread. In his protest Prusimski offers "to clear himself", not to make amends. In the report of May 1783 a line had been passed over, which says that the citation was left at the farm at Nowa Wieś. Each change is logged with its reason.
 
 ### Division and dating
 

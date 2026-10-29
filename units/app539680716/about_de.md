@@ -14,7 +14,7 @@ Auch die Servitute schrieb er ab. Die Łazińsker Holländer dürfen ihr Vieh im
 
 Seine Zahlen zu Łazińsk verfolgen die Wirte und ihr Land von 1840 bis 1935: 87 Wirte auf 1368 Morgen 1840, 91 auf 1691 Morgen 1868, 112 auf 2044 Morgen 1906 und 146 auf 1996 Morgen 1935 [[7]]. Für Orlin verzeichnet er die Wirte des Haulands Biskupice mit ihren Morgen [[9]] und das Land des Dorfes nach Klassen im Juli 1936 [[10]].
 
-Seine Notizen vom Juli 1935 [[8]] und Juli 1936 [[10]] gelten Huta Trąbczyńska, Orlin, Józefów und den Dörfern um sie: der Zahl der Wirte und des Viehs, den ersten Wirten von Józefów, Häusern, Gesangbüchern, Tracht, Sprache (Plattdeutsch bei den Alten, Kaschubisch früher in Orlin), Bräuchen, Diebstahl und Armut, Heiraten, den Pfingstlern und Baptisten, die nach Orlin gekommen waren, dem Zug der Jugend ins Posensche und dem Verhältnis zu den Polen, die „alle gut deutsch“ sprechen.
+Seine Notizen vom Juli 1935 [[8]] und Juli 1936 [[10]] gelten Huta Trąbczyńska, Orlin, Józefów und den Dörfern um sie: der Zahl der Wirte und des Viehs, den ersten Wirten von Józefów, Häusern, Gesangbüchern, Tracht, Sprache (Plattdeutsch bei den Alten, Kaschubisch früher in Orlin), Bräuchen, Diebstahl und Armut. Sie gelten auch Heiraten, den Pfingstlern und Baptisten, die nach Orlin gekommen waren, dem Zug der Jugend ins Posensche und dem Verhältnis zu den Polen, die „alle gut deutsch“ sprechen.
 
 ### Form und Sprache
 
