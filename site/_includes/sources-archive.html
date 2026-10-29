@@ -7,31 +7,38 @@
 {%- comment -%}
   The archival holdings' full list (moved here from /sources/ when that
   became the overview of all the edition's sources, 2026-10-27): one card
-  per holding, as it stood. The holding pages themselves remain at
-  /sources/<slug>/ - nothing but this list's own address has changed.
+  per holding. The card is one link (2026-10-29): the holding's title is
+  stretched over it, and where make_thumbs.py has put the holding's first
+  page here the page stands beside the title. The holding pages themselves
+  remain at /sources/<slug>/ - nothing but this list's own address has
+  changed.
 {%- endcomment -%}
 <div class="sources">
   {% for u in site.data.units %}
-    <section class="source" id="{{ u.slug }}">
+    <section class="source{% unless u.thumb %} notumb{% endunless %}" id="{{ u.slug }}">
       {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
-      <h2><a href="{{ u_page | relative_url }}">{{ u.ref }}</a></h2>
-      <p class="source-archive">{{ u.archive }}</p>
-      {%- assign u_title = u.title -%}
-      {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
-      {% if u_title %}<p class="source-title">{{ u_title }}</p>{% endif %}
+      {% if u.thumb %}
+      <figure class="source-thumb"><img src="{{ u.thumb | relative_url }}" alt="{{ t.alt_holding | replace: '%s', u.ref }}" loading="lazy"></figure>
+      {% endif %}
+      <div class="source-body">
+        <h2><a class="source-link" href="{{ u_page | relative_url }}">{{ u.ref }}</a></h2>
+        <p class="source-archive">{{ u.archive }}</p>
+        {%- assign u_title = u.title -%}
+        {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
+        {% if u_title %}<p class="source-title">{{ u_title }}</p>{% endif %}
 
-      <dl class="source-facts">
-        <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
-        <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
-        {% if u.span != "" %}
-          <div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>
-        {% endif %}
-      </dl>
-
-      <p class="source-go">
-        <a href="{{ u_page | relative_url }}">{{ t.sources_read }}</a>
-        &middot; <a href="{{ u_page | relative_url }}#documents">{{ t.sources_browse }}</a>
-      </p>
+        <dl class="source-facts">
+          <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
+          <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
+          {% if u.span != "" %}
+            <div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>
+          {% endif %}
+        </dl>
+      </div>
     </section>
   {% endfor %}
 </div>
+
+<style>
+.source-title { margin: .5rem 0 0; color: var(--ink-soft); }
+</style>

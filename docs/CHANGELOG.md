@@ -3548,3 +3548,33 @@ lose his estates. The era page writes Konotop, not Kontop.
   traced to the primary sources he cites (HOUSE_STYLE, "The documents
   first", point 7). Not on the site yet; waiting on the editor (TODO,
   section 56).
+
+## 2026-10-29 - The materials' lists as cards with a first page
+
+- The four lists under Sources (archival material, newspapers, literature,
+  maps) show each item as a card in the look of the home page's cards: the
+  item's first page as a thumbnail on the left (400 px wide, in
+  `site/assets/thumbs/`, made by the new `pipeline/build/make_thumbs.py`:
+  50 holdings, 7 press items, 5 works, the Łukom map), the whole card one
+  link (the title stretched over it; the Janocki sub-item under Paciorkowski
+  keeps its own). An item with no image yet (the printed Kodeks, five press
+  items, 33 works) is a card without a thumb. The "Read ..." / "View the map"
+  lines are gone, as are the "Read about this holding / Browse its documents"
+  links on the archival list and the translation caveat that stood above the
+  literature list (the caveat stays on a work's own page).
+- The newspapers' and the literature's summaries on the lists are shortened
+  to a brief of one or two sentences, newly written in both languages
+  (`brief_en`/`brief_de` in each `item.yml` / `work.yml`, 12 + 39); the full
+  account stays on the item's own page. A card falls back to the account if
+  a brief is missing. The map's thumb is the whole-map level of its tiles
+  (322 px, the only whole-map level the tile service serves).
+- The generators write `thumb:` and the briefs into the site's data only
+  where the file or text is here; `make_thumbs.py` runs in `regenerate.py`
+  between the literature build and the literature pages. Six unused strings
+  (`sources_read`, `sources_browse`, `np_read`, `lit_read`,
+  `lit_read_summary`, `map_view`) replaced by four alt-text strings
+  (`alt_holding`, `alt_clipping`, `alt_litpage`, `alt_map`), both languages.
+  The shared card rules moved into `style.css` from the four includes.
+- Verified: Jekyll build and `pipeline/verify_site.py` clean (630 documents
+  character-exact, 62,874 internal links, no hidden-work text leaked by a
+  brief). Not published.

@@ -134,6 +134,33 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
                    text-transform: uppercase; color: var(--ink-faint); }
 .source-facts dd { margin: .1rem 0 0; font-size: 1.05rem; }
 
+/* The materials' lists (holdings, newspapers, literature, maps): one card
+   per item (2026-10-29), in the look of the home page's .card - the card
+   clickable as a whole through its title link, the item's first page as
+   its thumb where the file is here (a card without one is .notumb). */
+.sources { max-width: var(--measure); margin: 2rem 0 3rem; display: grid; gap: 1rem; }
+.source {
+  position: relative;
+  display: grid; grid-template-columns: 8.5rem 1fr; gap: .1rem 1.1rem;
+  border: 1px solid var(--rule); border-radius: 3px; background: var(--paper-2);
+  padding: 1.1rem 1.2rem;
+}
+.source:hover { border-color: var(--accent); }
+.source.notumb { grid-template-columns: 1fr; }
+.source-thumb { grid-column: 1; margin: .1rem 0 0; }
+.source-thumb img { display: block; width: 100%; height: auto;
+                    border: 1px solid var(--rule); }
+.source-body { grid-column: 2; }
+.source.notumb .source-body { grid-column: 1; }
+.source h2 { margin: 0; font-size: 1.15rem; }
+.source h2 a { color: inherit; }
+.source p { margin: .9rem 0 0; }
+/* The card's clickable whole: the title link stretched over it. Inner
+   links (the literature's sub-item) stand above the overlay. */
+.source-link { color: inherit; }
+.source-link:hover { text-decoration: underline; }
+.source-link::after { content: ""; position: absolute; inset: 0; }
+
 .unit-head { max-width: var(--measure); }
 .unit-head .eyebrow a { color: inherit; }
 .unit-head .standfirst { margin: .7rem 0 0; }

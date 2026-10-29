@@ -95,10 +95,20 @@ def main():
 
     listing = []
     for it in sorted(items, key=lambda x: (x['year'], x['slug'])):
+        # The thumb is written only when the file is here (make_thumbs.py),
+        # so a card shows no image the site does not carry; the briefs are
+        # the card's own short rendering of the account (the long account
+        # stays on the item's page).
+        thumb = None
+        if os.path.isfile(os.path.join(SITE, 'assets', 'thumbs', f'np-{it["slug"]}.jpg')):
+            thumb = f'/assets/thumbs/np-{it["slug"]}.jpg'
         row = {k: it.get(k, '') for k in (
             'slug', 'newspaper', 'title', 'title_en', 'cite', 'ref',
             'published', 'year', 'language', 'english_by', 'source',
             'image', 'translation', 'account_en', 'account_de')}
+        row |= {'brief_en': it.get('brief_en') or None,
+                'brief_de': it.get('brief_de') or None,
+                'thumb': thumb}
         listing.append(row | {'summary_only': not it.get('visible', True)})
         if it.get('visible', True):
             texts = {'en': body_of(os.path.join(NEWS, it['slug'], 'english.md')),

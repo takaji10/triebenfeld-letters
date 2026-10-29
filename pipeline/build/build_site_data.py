@@ -810,6 +810,23 @@ def main():
                 span = '-'.join(dict.fromkeys([yrs[0], yrs[-1]])) if yrs else ''
             span = span.replace('-', '\u2013')
             f.write(f'  span: {yaml_str(span)}\n')
+            # The list's card picture: the holding's first page - the first
+            # document of the archival order, its lowest numbered page with a
+            # scan - reduced to a thumb by make_thumbs.py. Written only when
+            # the file is there, so the card shows no image the site does
+            # not carry.
+            first_rec = next((r for r in archival if r['unit'] == u.slug), None)
+            first_scan = ''
+            if first_rec is not None:
+                scanned = sorted(p['page'] for p in (first_rec.get('pages') or [])
+                                 if p.get('scan')
+                                 and scans.get((u.slug, first_rec['letter_id'], p['page'])))
+                if scanned:
+                    first_scan = scans[(u.slug, first_rec['letter_id'], scanned[0])]
+            thumb = None
+            if first_scan and os.path.isfile(os.path.join(SITE, 'assets', 'scans', first_scan)):
+                thumb = f'/assets/thumbs/holding-{u.slug}.jpg'
+            f.write(f'  thumb: {yaml_opt(thumb)}\n')
 
     # A page for each holding: its description, its documents, how it was
     # prepared. The texts are hand-written and live with the holding.

@@ -198,13 +198,22 @@ def main():
                 'nothing to open')
 
     # The Maps page's cards, by date (docs/MAPS_SITE_PLAN.md, section 2).
-    out_list = [{
-        'slug': m['slug'], 'cited_as': m['cited_as'], 'year': m['year'],
-        'kind_en': m['kind_en'], 'kind_de': m['kind_de'],
-        'maker': m['maker'], 'holder': m['holder'],
-        'reference': m['reference'], 'n_places': m['n_places'],
-    } for m in sorted(out_maps.values(), key=lambda x: (x['year'] or 0,
-                                                        x['slug']))]
+    # The card's picture: the map's whole face, fetched by make_thumbs.py
+    # from the tiles' lowest whole-map level; written only when the file is
+    # here, so the card shows no image the site does not carry.
+    out_list = []
+    for m in sorted(out_maps.values(), key=lambda x: (x['year'] or 0, x['slug'])):
+        thumb = (f'/assets/thumbs/map-{m["slug"]}.jpg'
+                 if os.path.isfile(os.path.join(SITE, 'assets', 'thumbs',
+                                                f'map-{m["slug"]}.jpg'))
+                 else None)
+        out_list.append({
+            'slug': m['slug'], 'cited_as': m['cited_as'], 'year': m['year'],
+            'kind_en': m['kind_en'], 'kind_de': m['kind_de'],
+            'maker': m['maker'], 'holder': m['holder'],
+            'reference': m['reference'], 'n_places': m['n_places'],
+            'thumb': thumb,
+        })
 
     # The place side (docs/MAPS_SITE_PLAN.md, section 4): per place, the
     # maps that show it, the appearances in date order, absent items

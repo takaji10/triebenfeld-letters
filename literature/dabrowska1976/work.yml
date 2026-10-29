@@ -47,6 +47,21 @@ account_de: >-
   ausführliche Zusammenfassung. Wo die Artikel von den Dokumenten der
   Edition abweichen (das Jahr, in dem Zagórów Stadt wurde), folgt die
   Edition den Dokumenten.
+
+# The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
+brief_en: >-
+  Three entries of Yad Vashem's encyclopedia of the Jewish communities of
+  Poland, in translations made for JewishGen: those on Zagórów, Pyzdry and
+  Konin, the three towns nearest the edition's estates, from the late
+  eighteenth century to the ghettos of 1940 and the murders of 1941. The work
+  is under copyright; the site gives a summary only.
+brief_de: >-
+  Drei Artikel aus Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens, in
+  für JewishGen gemachten Übersetzungen: diejenigen zu Zagórów, Pyzdry und
+  Konin, den drei den Gütern der Edition nächsten Städten, vom späten 18.
+  Jahrhundert bis zu den Ghettos von 1940 und den Ermordungen von 1941. Das
+  Werk steht unter dem Urheberrecht; die Site gibt nur eine Zusammenfassung.
+
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-21), written by Claude from the three entries, in its own words;
 # pipeline/verify_site.py checks that no stretch of the text appears on the site.

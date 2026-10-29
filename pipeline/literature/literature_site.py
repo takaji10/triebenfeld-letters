@@ -182,6 +182,21 @@ def yaml_str(v):
     return json.dumps(v, ensure_ascii=False)
 
 
+def card_extra(w):
+    """The card's additions to the list row: the work's brief (written into
+    its work.yml, the long account staying on the work's page) and the thumb
+    of its first imaged page - written only when make_thumbs.py has put the
+    file here, so the card shows no image the site does not carry. Null for
+    absent: Liquid reads "" as true."""
+    thumb = (f'/assets/thumbs/lit-{w["slug"]}.jpg'
+             if os.path.isfile(os.path.join(SITE, 'assets', 'thumbs',
+                                            f'lit-{w["slug"]}.jpg'))
+             else None)
+    return {'brief_en': w.get('brief_en') or None,
+            'brief_de': w.get('brief_de') or None,
+            'thumb': thumb}
+
+
 MONTHS = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
           7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November',
           12: 'December'}
@@ -318,7 +333,8 @@ def main():
             'note_en', 'note_de', 'account_en', 'account_de')}
         if not listing_row['parent']:       # Liquid reads "" as true
             del listing_row['parent']
-        listing.append(listing_row | {'pages': sum(1 for p in ps if p['page'])})
+        listing.append(listing_row | card_extra(w)
+                       | {'pages': sum(1 for p in ps if p['page'])})
         for lang, (folder, base, other) in BASES.items():
             s = strings[lang]
             body = ['{% raw %}', '<nav class="lit-jump" aria-label="' + s['lit_pages'] + '">']
@@ -376,7 +392,8 @@ def main():
             'note_en', 'note_de', 'account_en', 'account_de')}
         if not listing_row['parent']:       # Liquid reads "" as true
             del listing_row['parent']
-        listing.append(listing_row | {'pages': 0, 'summary_only': True})
+        listing.append(listing_row | card_extra(w)
+                       | {'pages': 0, 'summary_only': True})
         for lang, (folder, base, other) in BASES.items():
             body = ['{% raw %}', '<div class="lit-summary" markdown="1">', '',
                     w['summary_' + lang].strip(), '', '</div>', '{% endraw %}']

@@ -54,6 +54,12 @@ MERGED = [
     # apart from them, cut into pages in both languages for questions.
     ('pipeline/literature/build_literature.py --quiet', 'literature',
      'dataset/literature/ - each work page by page, original and English'),
+    # The four lists' card pictures (holdings, newspapers, literature, maps),
+    # reduced copies of the pages and maps the lists point at. Before the
+    # *_site steps, which write `thumb:` into the data only when the file
+    # is here.
+    ('pipeline/build/make_thumbs.py', 'card thumbnails',
+     'site/assets/thumbs/ - the materials lists\' cards\' first-page pictures'),
     ('pipeline/literature/literature_site.py', 'literature pages',
      'site/_literature*/ - the visible works, original and English side by side'),
     # Who and which estates the books name, for the "In the literature" lists
@@ -119,7 +125,7 @@ KEEP = ('documents/', 'text/', 'people ', 'places ', 'dates ', 'relations ',
         'archival lines exact', 'VERIFIED', 'MISMATCH', 'WARNING',
         'labels to update', 'nothing to do', 'merged:', 'skipped ', 'documents',
         'FAIL', 'ALL CHECKS', 'words to look at', 'internal links', 'external resources',
-        'glossary candidates', "  '")
+        'glossary candidates', "  '", 'thumbs ')
 
 
 def run(script, label, detail, unit=None):

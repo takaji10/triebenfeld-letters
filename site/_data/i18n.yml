@@ -135,7 +135,7 @@ en:
   maps_eyebrow: Maps
   maps_h1: Maps
   maps_places_marked: places marked
-  map_view: View the map
+  alt_map: Map %s
   map_citation_h2: The map
   map_holder: Holder
   map_reference: Reference
@@ -309,8 +309,7 @@ en:
   sources_documents: Documents
   sources_pages: Manuscript pages
   sources_span: Span
-  sources_browse: Browse its documents
-  sources_read: Read about this holding
+  alt_holding: First page of the holding %s
   badge_supplied: "[supplied]"
   badge_inferred: "[inferred]"
   map_link: Map (OpenStreetMap)
@@ -324,8 +323,7 @@ en:
     The English translation was made by Claude, an AI model, and has not
     been checked against the original as a whole. Quote from the original,
     and read any passage you rely on there.
-  lit_read: Read the work
-  lit_read_summary: Read the summary
+  alt_litpage: Page from %s
   lit_summary_only: >-
     Under copyright, so not shown here in full: the edition keeps the text
     for its own questions and gives a detailed summary of its contents.
@@ -370,7 +368,7 @@ en:
   np_caveat_list: >-
     Each item is transcribed as printed and given with an English translation
     made by Claude; the original decides.
-  np_read: Read the item
+  alt_clipping: Clipping of %s
   np_newspaper: Newspaper
   np_published: Published
   np_source: Source of the scan
@@ -542,7 +540,7 @@ de:
   maps_eyebrow: Karten
   maps_h1: Karten
   maps_places_marked: bezeichnete Orte
-  map_view: Karte ansehen
+  alt_map: Karte %s
   map_citation_h2: Die Karte
   map_holder: Aufbewahrung
   map_reference: Signatur
@@ -717,8 +715,7 @@ de:
   sources_documents: Dokumente
   sources_pages: Handschriftenseiten
   sources_span: Zeitraum
-  sources_browse: Dokumente durchsuchen
-  sources_read: Mehr über diesen Bestand
+  alt_holding: Erste Seite des Bestands %s
   badge_supplied: "[ergänzt]"
   badge_inferred: "[erschlossen]"
   map_link: Karte (OpenStreetMap)
@@ -732,8 +729,7 @@ de:
     Die englische Übersetzung hat Claude, ein KI-Modell, angefertigt; sie
     ist nicht als Ganzes am Original geprüft. Zitieren Sie nach dem Original
     und lesen Sie dort jede Stelle nach, auf die Sie sich stützen.
-  lit_read: Das Werk lesen
-  lit_read_summary: Die Zusammenfassung lesen
+  alt_litpage: Seite aus %s
   lit_summary_only: >-
     Urheberrechtlich geschützt und darum hier nicht vollständig gezeigt: Die
     Edition hält den Text für ihre eigenen Fragen und gibt eine ausführliche
@@ -779,7 +775,7 @@ de:
   np_caveat_list: >-
     Jedes Stück ist abgedruckt wie gedruckt und mit einer englischen
     Übersetzung von Claude gegeben; maßgeblich ist das Original.
-  np_read: Das Stück lesen
+  alt_clipping: Ausschnitt aus %s
   np_newspaper: Zeitung
   np_published: Erschienen
   np_source: Herkunft des Abdrucks

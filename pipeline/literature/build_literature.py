@@ -237,7 +237,7 @@ def main():
             'slug', 'visible', 'kind', 'parent', 'title', 'title_en', 'cite', 'author',
             'author_sort', 'published', 'year', 'language', 'english_by', 'scan',
             'figures', 'note_en', 'note_de', 'account_en', 'account_de',
-            'summary_en', 'summary_de')
+            'brief_en', 'brief_de', 'summary_en', 'summary_de')
             if work.get(k) is not None}
             | {'passages': passages})
         n = len(passages)

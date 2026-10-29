@@ -5,9 +5,9 @@
   the gazetteer cites and the edition does not hold gets no card - the
   editor chooses which maps come in, one at a time (docs/MAPS_PLAN.md); it
   stays a citation on the place pages and a line of docs/MISSING_SOURCES.md.
-  Each card: the editor's short form as its title, the maker and the kind,
-  the holder and the reference, the count of the places marked on it, and
-  the link to the map's viewer page.
+  Each card one link (2026-10-29): the map's whole face, where make_thumbs.py
+  has put it, then the editor's short form stretched over the card, and the
+  facts under it.
 {%- endcomment -%}
 <div class="prose">
   <h1>{{ t.maps_h1 }}</h1>
@@ -16,26 +16,21 @@
 <div class="sources">
   {% for m in site.data.maps_list %}
     {%- capture m_page -%}{{ u_maps }}{{ m.slug }}/{%- endcapture -%}
-    <section class="source" id="{{ m.slug }}">
-      <h2 class="lit-author"><a href="{{ m_page | relative_url }}">{{ m.cited_as }}</a></h2>
-      <dl class="source-facts">
-        {%- if m.maker %}<div><dt>{{ t.map_maker }}</dt><dd>{{ m.maker }}</dd></div>{% endif -%}
-        <div><dt>{{ t.map_kind }}</dt><dd>{% if lang == 'de' %}{{ m.kind_de }}{% else %}{{ m.kind_en }}{% endif %}</dd></div>
-        {%- if m.holder %}
-        <div><dt>{{ t.map_holder }}</dt><dd>{{ m.holder }}{% if m.reference %}, {{ m.reference }}{% endif %}</dd></div>
-        {%- endif -%}
-        <div><dt>{{ t.maps_places_marked }}</dt><dd>{{ m.n_places }}</dd></div>
-      </dl>
-      <p class="source-go"><a href="{{ m_page | relative_url }}">{{ t.map_view }}</a></p>
+    <section class="source{% unless m.thumb %} notumb{% endunless %}" id="{{ m.slug }}">
+      {% if m.thumb %}
+      <figure class="source-thumb"><img src="{{ m.thumb | relative_url }}" alt="{{ t.alt_map | replace: '%s', m.cited_as }}" loading="lazy"></figure>
+      {% endif %}
+      <div class="source-body">
+        <h2 class="lit-author"><a class="source-link" href="{{ m_page | relative_url }}">{{ m.cited_as }}</a></h2>
+        <dl class="source-facts">
+          {%- if m.maker %}<div><dt>{{ t.map_maker }}</dt><dd>{{ m.maker }}</dd></div>{% endif -%}
+          <div><dt>{{ t.map_kind }}</dt><dd>{% if lang == 'de' %}{{ m.kind_de }}{% else %}{{ m.kind_en }}{% endif %}</dd></div>
+          {%- if m.holder %}
+          <div><dt>{{ t.map_holder }}</dt><dd>{{ m.holder }}{% if m.reference %}, {{ m.reference }}{% endif %}</dd></div>
+          {%- endif -%}
+          <div><dt>{{ t.maps_places_marked }}</dt><dd>{{ m.n_places }}</dd></div>
+        </dl>
+      </div>
     </section>
   {% endfor %}
 </div>
-
-<style>
-.sources { max-width: var(--measure); margin: 2rem 0 3rem; }
-.source { border-top: 1px solid var(--rule); padding: 1.4rem 0; }
-.source h2 { margin: 0; font-size: 1.15rem; }
-.source h2 a { color: inherit; }
-.source p { margin: .9rem 0 0; }
-.source-go { font-family: var(--sans); font-size: .85rem; }
-</style>
