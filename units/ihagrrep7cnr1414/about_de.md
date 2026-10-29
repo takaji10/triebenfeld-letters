@@ -16,7 +16,7 @@ Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die 
 
 ### Form und Sprache
 
-Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. Auf dem Auszug und auf Schrötters Schreiben vermerkte das Departement den Tag des Eingangs, die Journalnummer und was zu geschehen hatte; auf den Seiten dieser Edition stehen diese Vermerke unter einer eigenen Überschrift nach dem Text, auf den sie geschrieben wurden. Die Verfügung vom 8. Januar 1797 steht auf einem eigenen Zettel. <!-- context -->
+Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. Auf dem Auszug und auf Schrötters Schreiben vermerkte das Departement den Tag des Eingangs, die Journalnummer und was zu geschehen hatte; auf den Seiten der Sammlung stehen diese Vermerke unter einer eigenen Überschrift nach dem Text, auf den sie geschrieben wurden. Die Verfügung vom 8. Januar 1797 steht auf einem eigenen Zettel. <!-- context -->
 
 ### Verwandte Bestände
 

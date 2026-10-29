@@ -55,7 +55,7 @@ its own; the volume's title names the years 1791 and 1792. <!-- context -->
 ### The places of the table
 
 The rows are the villages of the parish of Trąbczyn. The smithy "Kuznia
-Maryantów" of the table is the Marianton of the edition, Mariantów, where
+Maryantów" of the table is the Marianton, Mariantów, where
 the Hohenlohe patrimonial court for Trąbczyn sat ("Actum Marianton") - the
 editor's identification <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. The one row "Hollendry Luzne Stare i nowe z
 Hutą" names both Olęder colonies of the estate together, the old and the new
@@ -98,11 +98,11 @@ it, diacritics included only where they gave them.
 
 The table has no column of entry numbers: the parish stands in the first
 cell, filled on the village's own row and empty under it, and the figures
-follow. The edition's table machinery sorted a table by the numbers of its
+follow. The table machinery sorted a table by the numbers of its
 first column and stopped on a table that has none. It was extended, and the
 extension was checked the way shared code is checked here: the version
 before the change, taken from the repository, and the new one were run over
-every table the edition already carries, and the two outputs agree exactly
+every table already built, and the two outputs agree exactly
 (`pipeline/review/verify_table_of_diff.py`; 12 table documents in 5 units).
 
 The figures of six of the seven rows double from column to column; the

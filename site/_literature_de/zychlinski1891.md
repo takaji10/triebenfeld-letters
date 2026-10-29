@@ -144,8 +144,8 @@ The couple lived very happily, now on the Trąbczyn estates in the Kalisz countr
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In der Edition</p>
-<p>Żychliński (1891) sagt, Michalina geborene Prusimska, die Witwe des Grafen Józef Dąmbski, habe im August 1809 den Grafen Stanisław Miączyński geheiratet und ihm die Güter von Trąbczyn zugebracht. In den Briefen an und von dem Fürsten Hohenlohe aus den Jahren 1814 und 1815 ist sie "die Moscinska geborene Prusimska", die die ihr 1807 zurückgegebenen Güter besitzt und beim russischen Generalgouverneur Lanskoy in hoher Gunst steht; ein Brief vom 2. Februar 1815 sagt, "Moscinski, Ehemann der geborenen Prusimska; und Graf Lanskoy, sind Busenfreunde". Die Edition hält Moscinski für die Form, in der die Briefe Miączyński schreiben. Die Briefe nennen kein Datum der Heirat.</p>
+<p class="lit-links-head">In den Dokumenten</p>
+<p>Żychliński (1891) sagt, Michalina geborene Prusimska, die Witwe des Grafen Józef Dąmbski, habe im August 1809 den Grafen Stanisław Miączyński geheiratet und ihm die Güter von Trąbczyn zugebracht. In den Briefen an und von dem Fürsten Hohenlohe aus den Jahren 1814 und 1815 ist sie "die Moscinska geborene Prusimska", die die ihr 1807 zurückgegebenen Güter besitzt und beim russischen Generalgouverneur Lanskoy in hoher Gunst steht; ein Brief vom 2. Februar 1815 sagt, "Moscinski, Ehemann der geborenen Prusimska; und Graf Lanskoy, sind Busenfreunde". Moscinski ist die Form, in der die Briefe Miączyński schreiben. Die Briefe nennen kein Datum der Heirat.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/242/' | relative_url }}">Oe 1 Bü 9454, Dokument 242 (12. Oktober 1814)</a><a href="{{ '/documents/oe1bu9454/266/' | relative_url }}">Oe 1 Bü 9454, Dokument 266 (10. Januar 1815)</a><a href="{{ '/documents/oe1bu9454/265b/' | relative_url }}">Oe 1 Bü 9454, Dokument 265b (15. Januar 1815)</a><a href="{{ '/documents/oe1bu9454/1/' | relative_url }}">Oe 1 Bü 9454, Dokument 1 (29. Januar 1815)</a><a href="{{ '/documents/oe1bu9454/270/' | relative_url }}">Oe 1 Bü 9454, Dokument 270 (2. Februar 1815)</a></p>
 <p>Żychliński (1891) sagt in einer Fußnote, Maryanna geborene Dąmbska, Antoni Prusimskis Frau, sei am 2. September 1797 in Padua im Alter von 38 Jahren gestorben und in der Kirche des heiligen Antonius dort begraben worden. Der preußische Resident in Venedig, Graf Cattaneo, berichtete am 14. Dezember 1796, Prusimski sei in zerrütteter Gesundheit zu ihm gekommen, vom Tod seiner Frau fast bis zur Stumpfheit betroffen. Sprechen beide vom selben Tod, so fiel er vor den Dezember 1796, und Żychlińskis Jahr 1797 kann nicht stimmen.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr1414/2/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, Dokument 2 (14. Dezember 1796)</a></p>
@@ -193,8 +193,8 @@ Countess **Marya** Józefa Felicya, born 8 February 1888 at Włocławek.
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In der Edition</p>
-<p>Żychliński (1891) sagt, Graf Włodzimierz Miączyński, Offizier von 1831, habe das Gut Trąbczyn besessen, das er nach seiner Rückkehr aus dem Exil von seinem Bruder Mieczysław kaufte, und sei im Dezember 1879 unverheiratet in Trąbczyn gestorben. Die gedruckte Ladung der Edition vom 19. Oktober 1860 ergeht auf Verlangen "Włodzimierza Hrabiego Miączyńskiego, dziedzica dóbr Trąbczyna" (des Grafen Włodzimierz Miączyński, Erbherrn der Güter Trąbczyn), in seiner Widerklage gegen die Kolonisten von Trąbczyn.</p>
+<p class="lit-links-head">In den Dokumenten</p>
+<p>Żychliński (1891) sagt, Graf Włodzimierz Miączyński, Offizier von 1831, habe das Gut Trąbczyn besessen, das er nach seiner Rückkehr aus dem Exil von seinem Bruder Mieczysław kaufte, und sei im Dezember 1879 unverheiratet in Trąbczyn gestorben. Die gedruckte Ladung vom 19. Oktober 1860 ergeht auf Verlangen "Włodzimierza Hrabiego Miączyńskiego, dziedzica dóbr Trąbczyna" (des Grafen Włodzimierz Miączyński, Erbherrn der Güter Trąbczyn), in seiner Widerklage gegen die Kolonisten von Trąbczyn.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a></p>
 </aside>{% raw %}
 </section>

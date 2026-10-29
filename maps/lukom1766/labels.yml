@@ -122,8 +122,8 @@ labels:
   shows: village
   note: null
 - id: lukom1766-025
-  place: gradzyn
-  new_place: null
+  place: null
+  new_place: Tres mansi Conventûs Landensis
   form: Tres mansi Conventûs Landensis
   point: null
   trace:
@@ -136,3 +136,14 @@ labels:
   height: 100
   shows: field
   note: the three mansi of the abbey of Ląd; marked by Claude from the editor's word, 2026-10-23
+  # The inscription is its own mark, not Grądzeń (editor, 2026-10-29); it stood in
+  # the gazetteer's Grądzeń entry with these two documents of the Ląd copy-book.
+  refs:
+  - source: lad-copybook
+    locator: 14-15
+    link: /documents/app5314550221/3/#p1
+    quote: the king's confirmation of 1447 of the purchase of three mansi of Łukom
+  - source: lad-copybook
+    locator: 13-14
+    link: /documents/app5314550221/2/#p1
+    quote: the privilege of 1461, "Privilegium Gradziem"

@@ -23,7 +23,7 @@ hits_docs_count: 55
 Village southwest of Zagórów. First mentioned as *Lukome* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^42] Łukom was also an estate owned by the Ścibor-Chełmski family roughly from the 15th to 19th centuries. In 1884 it was 204 *włóka* (5,850 morgen or 33 km²) in size and included the settlements of Łukom, Łukomska Huta, Bukowe, Imielno, Małgorzatów, Myszaków, and Adamierz.[^43] *Lukom* (Łukom 1766); with a chapel and water mill (Gilly 1802); with a tavern (Reymann 1834); with a manor house (Richter 1843). Also see *Koczogowa*.
 
 [^42]: Zakrzewski, vol. 1, No. 222
-    [The document in the edition.](/documents/kdw/2/)
+    [The document.](/documents/kdw/2/)
 
 [^43]: “Łukom” 818
 

@@ -1,6 +1,6 @@
 ### Scans
 
-The archive photographed fourteen images from the volume: the cover, twelve single pages and one opening of two facing pages. The opening has writing on both sides and was cut at its fold into two pages. The edition has 15 pages and the cover.
+The archive photographed fourteen images from the volume: the cover, twelve single pages and one opening of two facing pages. The opening has writing on both sides and was cut at its fold into two pages. It has 15 pages and the cover.
 
 ### Transcription
 
@@ -24,7 +24,7 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. Each letter was translated from its own language: the French letters from the French, the two Polish letters from the Polish, and Weigel's reckoning from the German, with its sums in thalers and groschen as he gives them. The dateline "Tuesday" of Mohrenheim's second note had been attached to the following letter by mistake; it was put back at the foot of the note, where it is written, before the translation. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. Each letter was translated from its own language: the French letters from the French, the two Polish letters from the Polish, and Weigel's reckoning from the German, with its sums in thalers and groschen as he gives them. The dateline "Tuesday" of Mohrenheim's second note had been attached to the following letter by mistake; it was put back at the foot of the note, where it is written, before the translation. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
 
 ### Still to do
 

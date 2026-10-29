@@ -23,16 +23,16 @@ hits_docs_count: 5
 Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Jemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843). The Słownik geograficzny records it as a folwark, in gmina Trąbczyn, parish of Zagórów, powiat słupecki, with 4 houses and 42 inhabitants at the time of the Słownik.[^31] Nazwy miejscowe Polski records the name as *Imielna* by 1859, later as *Imielno* (1877).[^32]
 
 [^27]: Zakrzewski, vol. 1, No. 238
-    [The document in the edition.](/documents/kdw/3/)
+    [The document.](/documents/kdw/3/)
 
 [^28]: Klasztor cystersów w Lądzie 13-14
-    [The document in the edition.](/documents/app5314550221/2/#p1)
+    [The document.](/documents/app5314550221/2/#p1)
 
 [^29]: Chodyła 70. Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage documents relating to Imielno Olędry.
-    [The document in the edition.](/literature/chodyla2015/#p-70)
+    [The document.](/literature/chodyla2015/#p-70)
 
 [^30]: Ibid 78
-    [The document in the edition.](/literature/chodyla2015/#p-78)
+    [The document.](/literature/chodyla2015/#p-78)
 
 [^31]: Słownik geograficzny, t. III, p. 276, sub 3
 

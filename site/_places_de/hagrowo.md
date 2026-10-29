@@ -23,7 +23,7 @@ hits_docs_count: 0
 Unknown place. Mentioned in a population table of Zagórów Catholic parish from 1790-91.[^23]
 
 [^23]: Archiwum Arcybiskupów Gnieźnieńskich 34a
-    [The document in the edition.](/documents/adwl85/2/#p1)
+    [The document.](/documents/adwl85/2/#p1)
 
 </div>
 {% endraw %}

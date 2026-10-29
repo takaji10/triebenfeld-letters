@@ -21,10 +21,15 @@ title_de: >-
 archive_title: >-
   Die neuesten topografischen Nachrichten von Südpreussen
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Die neuesten topografischen Nachrichten von Südpreussen"
+card_title: "The latest topographical reports from South Prussia"
+card_title_de: "Die neuesten topografischen Nachrichten von Südpreussen"
+original_title: "The latest topographical reports from South Prussia"
 fonds: Generalne Dyrektorium. Departament Prus Południowych
 # The pages carry no date; 1797 is the archive's date for the volume, as the
 # editor gave it (2026-10-12).
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [registers-tables]
 date_span: "1797"
 status: translated        # draft | transcribed | translated | published
 published_tag: ""

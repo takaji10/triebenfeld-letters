@@ -25,7 +25,7 @@ Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical recor
 [^53]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334
 
 [^54]: “Trąbczynkiem małym, czyli nowa Wsią nazwaną” (“Relationes-oblatae [protocollon],” 1776, 656)
-    [The document in the edition.](/documents/app53170koningr145/1/#p4)
+    [The document.](/documents/app53170koningr145/1/#p4)
 
 </div>
 {% endraw %}

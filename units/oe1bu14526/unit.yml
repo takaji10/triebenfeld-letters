@@ -3,7 +3,7 @@
 
 slug: oe1bu14526
 ref: Oe 1 Bü 14526
-archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+archive: Hohenlohe-Zentralarchiv Neuenstein (HZAN)
 # What the holding is about, in one sentence, English and German: the line
 # under the reference on the Sources page, and the opening of the
 # translator's and summariser's prompts (editor, 2026-10-01).
@@ -26,7 +26,9 @@ archive_title: >-
   over the South Prussian estates donated to Friedrich Ludwig, Prince of
   Hohenlohe-Ingelfingen
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Originals and certified copies of the deeds of sale and hereditary lease over the South Prussian estates donated to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen"
+card_title: "Further sale of parts of the South Prussian estates given to him by the Prussian Kings Friedrich Wilhelm II and Friedrich Wilhelm III, by Prince Ludwig Friedrich of Hohenlohe-Ingelfingen"
+card_title_de: "Weiterveräußerung von Teilen der ihm von den preußischen Königen Friedrich Wilhelm II. und Friedrich Wilhelm III. geschenkten südpreußischen Güter durch den Fürsten Ludwig Friedrich von Hohenlohe-Ingelfingen"
+original_title: "Weiterveräußerung von Teilen der ihm von den preußischen Königen Friedrich Wilhelm II. und Friedrich Wilhelm III. geschenkten südpreußischen Güter durch den Fürsten Ludwig Friedrich von Hohenlohe-Ingelfingen"
 # The datelines run 1798-10-01 to 1806-07-18. The volume reaches further at both
 # ends without saying so in a dateline: the Posen chapter privilege reproduces a
 # 1766 grant, and two hereditary-lease contracts carry engrossments issued by
@@ -34,6 +36,9 @@ card_title: "Originals and certified copies of the deeds of sale and hereditary 
 # seized. Neither is a date this field can hold, and the era's span is computed
 # from the datelines anyway - so this records what the documents are dated, and
 # the reach is described below.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [deeds-contracts]
 date_span: 1798-1806
 status: translated         # draft | transcribed | translated | published
 

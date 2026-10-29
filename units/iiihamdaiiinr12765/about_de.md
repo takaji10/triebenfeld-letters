@@ -34,7 +34,7 @@ Dieselbe russische Note lehnt ein Gesuch ab, das mit Trąbczyn nichts zu tun hat
 
 ### Form und Sprache
 
-Zwölf Dokumente sind Entwürfe ausgehender Schreiben mit den Paraphen der Beamten, die sie genehmigten [[2, 5, 7, 9, 10, 16, 17, 21, 22, 24, 26, 29]]. Drei Entwürfe stehen auf dem eingegangenen Schreiben, das sie beantworten [[2, 9, 10]]. Eine Antwort an Hohenlohe-Ingelfingen liegt als kassierter Entwurf und als nicht abgesandte Reinschrift vor [[11, 12]]. Die Paraphen stammen von Hardenberg, dem Staatsrat Stägemann und den Beamten Hoffmann und Balan; die Edition löst sie in eckigen Klammern auf [[5, 22, 29]]. Die Dokumente sind deutsch, fünf sind französisch [[6, 7, 13, 27, 28]]. Die Entwürfe sind in einer flüchtigen Kanzleischrift geschrieben, und mehrere sind unvollkommen transkribiert; das ist auf der Seite des betreffenden Dokuments vermerkt. <!-- context -->
+Zwölf Dokumente sind Entwürfe ausgehender Schreiben mit den Paraphen der Beamten, die sie genehmigten [[2, 5, 7, 9, 10, 16, 17, 21, 22, 24, 26, 29]]. Drei Entwürfe stehen auf dem eingegangenen Schreiben, das sie beantworten [[2, 9, 10]]. Eine Antwort an Hohenlohe-Ingelfingen liegt als kassierter Entwurf und als nicht abgesandte Reinschrift vor [[11, 12]]. Die Paraphen stammen von Hardenberg, dem Staatsrat Stägemann und den Beamten Hoffmann und Balan; sie sind in eckigen Klammern aufgelöst [[5, 22, 29]]. Die Dokumente sind deutsch, fünf sind französisch [[6, 7, 13, 27, 28]]. Die Entwürfe sind in einer flüchtigen Kanzleischrift geschrieben, und mehrere sind unvollkommen transkribiert; das ist auf der Seite des betreffenden Dokuments vermerkt. <!-- context -->
 
 ### Verwandte Bestände
 

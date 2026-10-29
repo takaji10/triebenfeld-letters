@@ -20,7 +20,7 @@ Die Briefwechsel des Bevollmächtigten des Fürsten enthalten die andere Seite d
 
 ### Form und Sprache
 
-Der Bericht ist französisch, die Arbeitssprache der zentralen Stellen des Königreichs, in der Verwaltungsprosa der Zeit: lange Sätze, mit 1° bis 4° und 1° bis 5° gezählte Gründe, mit a° bis c° bezeichnete Argumente, beantwortet als ad a., ad b., ad c. Der Kopf auf der ersten Seite ist in der Handschrift stark korrigiert. Eine Partie auf S. 160, ein erster Entwurf der Gründe, ist durchgestrichen; diese Edition verzeichnet durchgestrichenen Text nicht. Eine Partie auf S. 159 über die Klage Hohenlohe-Ingelfingens von 1808, die das Archivtranskript überspringt, ist hier aus dem Scan ergänzt. <!-- context -->
+Der Bericht ist französisch, die Arbeitssprache der zentralen Stellen des Königreichs, in der Verwaltungsprosa der Zeit: lange Sätze, mit 1° bis 4° und 1° bis 5° gezählte Gründe, mit a° bis c° bezeichnete Argumente, beantwortet als ad a., ad b., ad c. Der Kopf auf der ersten Seite ist in der Handschrift stark korrigiert. Eine Partie auf S. 160, ein erster Entwurf der Gründe, ist durchgestrichen; durchgestrichener Text wird nicht verzeichnet. Eine Partie auf S. 159 über die Klage Hohenlohe-Ingelfingens von 1808, die das Archivtranskript überspringt, ist hier aus dem Scan ergänzt. <!-- context -->
 
 ### Verwandte Bestände
 

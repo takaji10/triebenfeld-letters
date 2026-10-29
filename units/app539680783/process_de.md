@@ -4,7 +4,7 @@ Die Aufnahmen des Archivs zeigen den Umschlag, die erste Seite und zwei Doppelse
 
 ### Transkription
 
-Der Herausgeber stellte eine Transkription des polnischen Textes nach Absätzen bereit. Das „é“ des Drucks ist als „e“ wiedergegeben. Wörter, die der Gerichtsbote mit der Feder strich, sind weggelassen, wie überall in dieser Edition.
+Der Herausgeber stellte eine Transkription des polnischen Textes nach Absätzen bereit. Das „é“ des Drucks ist als „e“ wiedergegeben. Wörter, die der Gerichtsbote mit der Feder strich, sind weggelassen.
 
 ### Prüfung an den Scans
 

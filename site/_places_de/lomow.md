@@ -23,7 +23,7 @@ hits_docs_count: 0
 Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege document where Ląd Abbey received Łomów for *Pustkowie Grądziem*.[^41] *Lomaw* (Łukom 1766); *Lumowo* (von Pfau 1770); *Lumow* (Perthées 1798); with a windmill (Gilly 1802); *Łamowo* (Reymann 1834). The Słownik geograficzny records it as a village, in gmina Trąbczyn, parish of Zagórów, powiat słupecki.[^42] Nazwy miejscowe Polski records the name as *Lomowo* by 1462, later as *Łomowo wś* (1884).[^43]
 
 [^41]: Klasztor cystersów w Lądzie 13-14
-    [The document in the edition.](/documents/app5314550221/2/#p1)
+    [The document.](/documents/app5314550221/2/#p1)
 
 [^42]: Słownik geograficzny, t. V, p. 697
 

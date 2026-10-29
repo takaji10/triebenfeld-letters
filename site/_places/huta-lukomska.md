@@ -23,10 +23,10 @@ hits_docs_count: 0
 Village south of Łukom. Mentioned as *Huta* in a 1761 compromise decree from Ląd Abbey concerning the borders between the estates of Łukom and Drzewce.[^25] According to Chodyła, Huta Łukomska (then known as *Stara Huta*) was established as a settlement before 1789 (likely before 1766, as it was included on Łukom 1766) on the initiative of the owner of the Łukom/Łomów estates as part of a village of mixed legal and organisational status that included Myszakówek and *Zagórowskie Olędry*.[^26] Occasionally referenced without the *Łukomska* name, making it difficult to distinguish in metrical records between Huta Trąbczyńska. *Huta* (Łukom 1766); *Stara Huta* (Gilly 1802); *Huta Lakomska* (Richter 1843); *Stara Huta* (Chrzanowski 1858).
 
 [^25]: Klasztor cystersów w Lądzie 66
-    [The document in the edition.](/documents/app5314550221/6/#p1)
+    [The document.](/documents/app5314550221/6/#p1)
 
 [^26]: Chodyła 70
-    [The document in the edition.](/literature/chodyla2015/#p-70)
+    [The document.](/literature/chodyla2015/#p-70)
 
 </div>
 {% endraw %}

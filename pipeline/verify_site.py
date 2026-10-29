@@ -615,10 +615,21 @@ def main():
             continue
         with io.open(page, encoding='utf-8') as f:
             built = html.unescape(f.read())
-        missing = [u['slug'] for u in units if u['slug'] not in built]
+        # a holding listed with the literature (unit.yml listed_in) is on the
+        # Literature list instead, and not on this one
+        missing = [u['slug'] for u in units
+                   if u.get('listed_in') != 'literature' and u['slug'] not in built]
         if missing:
             fail('sources: the archive list does not carry '
                  + ', '.join(missing[:4]))
+    for base, lbase in (('literature', 'literature'), (os.path.join('de', 'literatur'), 'literatur')):
+        page = os.path.join(SITE, base, 'index.html')
+        if os.path.isfile(page):
+            with io.open(page, encoding='utf-8') as f:
+                lp = html.unescape(f.read())
+            for u in units:
+                if u.get('listed_in') == 'literature' and f'id="{u["slug"]}"' not in lp:
+                    fail(f'sources: /{base}/ does not carry the holding {u["slug"]}')
     for base in ('sources', os.path.join('de', 'quellen')):
         page = os.path.join(SITE, base, 'index.html')
         if not os.path.isfile(page):

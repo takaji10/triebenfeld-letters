@@ -20,8 +20,8 @@ On the fifth page the court messenger, Michał Piechowski, certifies that he han
 
 Four pages are printed, on paper with a revenue stamp of 7½ kopecks at the head. One summons was printed for all the defendants, and the court messenger completed each copy by hand: the line in which he names himself, the name of the person served, the place and day, and his signature. On this copy he also corrected the printed list in pen. He struck out one name and wrote another in the margin, changed a letter in several names, and signed under the print beside a note of costs. The language is the legal Polish of the Kingdom of Poland, with German surnames in Polish spelling. <!-- context -->
 
-The family that this edition follows as Zelmer appears in the list as "Celmer": Henryk, August and Michał, and Anna Elżbieta, widow of Daniel, for her five children [[1]].
+The family given as Zelmer appears in the list as "Celmer": Henryk, August and Michał, and Anna Elżbieta, widow of Daniel, for her five children [[1]].
 
 ### Related holdings
 
-The resolution of 1807 that returned the estate: [[unit:agad1174016]] and [[unit:agad11740273]]. Weigel's claim and the judgments on it: [[unit:iiihamdaiiinr12366]], [[unit:iiihamdaiiinr12367]]. Hohenlohe-Ingelfingen's dealings with settlers in 1805 and 1806, from the same papers of Albert Breyer: [[unit:app539680801]]. The contract of 18 May 1805 itself, the contract of 1828 and the privilege of 1746 are not in the edition. <!-- context -->
+The resolution of 1807 that returned the estate: [[unit:agad1174016]] and [[unit:agad11740273]]. Weigel's claim and the judgments on it: [[unit:iiihamdaiiinr12366]], [[unit:iiihamdaiiinr12367]]. Hohenlohe-Ingelfingen's dealings with settlers in 1805 and 1806, from the same papers of Albert Breyer: [[unit:app539680801]]. The contract of 18 May 1805 itself, the contract of 1828 and the privilege of 1746 are not included. <!-- context -->

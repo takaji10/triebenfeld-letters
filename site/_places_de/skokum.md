@@ -23,10 +23,10 @@ hits_docs_count: 21
 Village east of Zagórów. First mentioned as *Skokome* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^65] Mentioned in a 1261 document where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery at Ląd made by Mieszko III and donated additional villages including Skokum.[^66] The Słownik geograficzny records it as a peasant village on the Czarna Struga, in gmina Emilienheim, parish of Zagórów, powiat słupecki, 17 versts from Słupca, with 50 houses and 404 inhabitants at the time of the Słownik (21 and 244 in 1827), part of the Kopojno estate; the poll-tax register of the powiat of Koniń for 1579, when it belonged to Ląd Abbey, credits it with 9½ łany, 2 landless zagrodnicy, 2 landless komornicy and 2 craftsmen.[^67]
 
 [^65]: Zakrzewski, vol. 1, No. 222
-    [The document in the edition.](/documents/kdw/2/)
+    [The document.](/documents/kdw/2/)
 
 [^66]: Ibid No. 393
-    [The document in the edition.](/documents/kdw/4/)
+    [The document.](/documents/kdw/4/)
 
 [^67]: Słownik geograficzny, t. X, p. 689
 

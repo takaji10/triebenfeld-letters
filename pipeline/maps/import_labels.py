@@ -21,7 +21,7 @@ from common import (GAZETTEER_DIR, ROOT, Flow, die, dump_yaml, header_of, load_g
 
 SHOWS = {"village", "oleder-settlement", "folwark", "tavern", "water-mill", "windmill", "forest",
          "field", "water", "road", "church", "other", "unsure"}
-FIELDS = ["id", "place", "new_place", "form", "point", "trace", "height", "shows", "note"]
+FIELDS = ["id", "place", "new_place", "form", "point", "trace", "height", "shows", "note", "refs"]
 MAX_W, MAX_H = 600, 200
 WHITE = [255, 255, 255]
 

@@ -1308,7 +1308,7 @@ entries:
     oder eine Grenze und berichtete darüber in die Bücher des Gerichts.
     Erst sein Bericht über die Zustellung machte eine Ladung gültig. Das
     Amt bestand in den Gerichten des Königreichs Polen im neunzehnten
-    Jahrhundert fort. Die deutschen Texte dieser Edition nennen ihn
+    Jahrhundert fort. Die deutschen Texte der Sammlung nennen ihn
     Gerichtsbote.
   check_against: Gloger, Encyklopedia staropolska (woźny)
   checked: false
@@ -1374,7 +1374,7 @@ entries:
   # Added at the editor's word, 2026-10-21, from the entry in Arct's
   # dictionary they named. The Polish forms and the Latin adjective only:
   # "Grodziec" and "Grodzisko" are places and must not match.
-  # The edition's English says "municipal court" for it, in the
+  # The English says "municipal court" for it, in the
   # translations and in its own prose alike (reference/translation_glossary.yml:
   # never "castle court"; editor, 2026-10-21). The German summaries say
   # "Burggericht" (match_de is also run over them). Checked 2026-10-21: no
@@ -1388,8 +1388,7 @@ entries:
     castrense: it judged nobles for the gravest crimes, and later also
     suits over land and money. Beside the court was its office, where
     deeds, bonds and other acts not in dispute were entered in its books,
-    which then counted as proof. The court books of Konin and Kalisz in
-    this edition are its books. The edition's English calls it the
+    which then counted as proof. The court books of Konin and Kalisz are its books. The English calls it the
     municipal court: the court of the gród, not of a town.
   short_de: >-
     Eine Burg und das Gericht, das dort gehalten wurde. In der alten
@@ -1399,7 +1398,7 @@ entries:
     Geld. Neben dem Gericht stand seine Kanzlei, in deren Bücher Urkunden,
     Schuldverschreibungen und andere unstrittige Akte eingetragen wurden,
     die damit als Beweis galten. Die Gerichtsbücher von Konin und Kalisz
-    in dieser Edition sind seine Bücher. Das Englische dieser Edition nennt
+    in der Sammlung sind seine Bücher. Das Englische der Sammlung nennt
     es "municipal court"; gemeint ist das Gericht des Gród, nicht das einer
     Stadt.
   source: "Arct, Słownik ilustrowany języka polskiego (1916), vol. 1, p. 405, s.v. Gród (https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_ilustrowany_j%C4%99zyka_polskiego/Gr%C3%B3d); the State Archive in Poznań's description of the fonds Księgi sądu i urzędu grodzkiego w Koninie (docs/PRUSIMSKI_ERA_PLAN.md)"
@@ -1427,20 +1426,20 @@ entries:
   match_en: '(?<!called )\bstawisk\w*\b(?!\s+known)'
   short_en: >-
     A Polish word for a large, boggy pond, or for ground taken up by a pond
-    or left where one had been. In this edition it is the boggy ground on
+    or left where one had been. Here it is the boggy ground on
     the boundary between Trąbczyn and Łukom, overgrown with trees, which
     the owners of the two estates disputed from 1728: who owned it, and
     the dams whose water flooded it. Some acts use the word as that
     ground's name, Stawisko. The translations keep it in Polish.
   short_de: >-
     Ein polnisches Wort für einen großen, sumpfigen Teich oder für Grund,
-    den ein Teich einnimmt oder den er hinterlassen hat. In dieser Edition
+    den ein Teich einnimmt oder den er hinterlassen hat. In der Sammlung
     ist es der sumpfige, mit Bäumen bewachsene Grund an der Grenze zwischen
     Trąbczyn und Łukom, um den die Besitzer der beiden Güter seit 1728
     stritten: um das Eigentum und um die Dämme, deren Wasser ihn
     überflutete. Manche Akten gebrauchen das Wort als Namen dieses Grundes,
     Stawisko. Die Übersetzungen lassen es polnisch stehen.
-  source: "Arct, Słownik ilustrowany języka polskiego (1916), vol. 2, p. 784, s.v. Stawisko (https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_ilustrowany_j%C4%99zyka_polskiego/Stawisko); for the ground, the edition's documents: Konin Gr.145, Gr.114 and Gr.153"
+  source: "Arct, Słownik ilustrowany języka polskiego (1916), vol. 2, p. 784, s.v. Stawisko (https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_ilustrowany_j%C4%99zyka_polskiego/Stawisko); for the ground, the documents: Konin Gr.145, Gr.114 and Gr.153"
   check_against: Arct, Słownik ilustrowany języka polskiego
   checked: true
 
@@ -1484,7 +1483,7 @@ entries:
     (narożne) standen, wo Grenzen zusammentrafen, Wandhügel (ścienne) an
     einer Seite der Linie; im Sumpf schlug man Pfähle ein. Die Linie von
     1782 zwischen Trąbczyn und Łukom hat einundvierzig Wandhügel (Gr.153).
-  source: "Gloger, Encyklopedia staropolska, s.v. Kopce graniczne (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Kopce_graniczne); for the mounds of Trąbczyn, the edition's documents: Konin Gr.145 and Gr.153"
+  source: "Gloger, Encyklopedia staropolska, s.v. Kopce graniczne (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Kopce_graniczne); for the mounds of Trąbczyn, the documents: Konin Gr.145 and Gr.153"
   check_against: Gloger, Encyklopedia staropolska (kopce graniczne)
   checked: true
 

@@ -12,7 +12,7 @@ Each of the three papers is one document, by the editor's decision: the power of
 
 ### Corrections
 
-An AI model (Claude) compared the whole transcription with the scans and corrected it where the page is plain. 84 passages were changed, each logged with its reason. Most are typing slips and single misread letters. For two of the three papers another copy of the same text is in the edition, and each was used as a second witness: the power of attorney in [[unit:app5371057]] and the Chamber's consent in [[unit:oe1bu14526]]. Four changes go beyond a letter or two. A line and a half of the consent that the transcription had skipped was added. The share of one lessee, Michael Just, was corrected from 10 Hufen to 5, as the page has it; with 10 the shares would not add up to the 100 Hufen the contract names. One lessee's name was corrected from Siemert and Liemert to Liewert. The three crosses with which eleven lessees signed were added before their names as "xxx". The copyist's own spellings were kept.
+An AI model (Claude) compared the whole transcription with the scans and corrected it where the page is plain. 84 passages were changed, each logged with its reason. Most are typing slips and single misread letters. For two of the three papers another copy of the same text is here, and each was used as a second witness: the power of attorney in [[unit:app5371057]] and the Chamber's consent in [[unit:oe1bu14526]]. Four changes go beyond a letter or two. A line and a half of the consent that the transcription had skipped was added. The share of one lessee, Michael Just, was corrected from 10 Hufen to 5, as the page has it; with 10 the shares would not add up to the 100 Hufen the contract names. One lessee's name was corrected from Siemert and Liemert to Liewert. The three crosses with which eleven lessees signed were added before their names as "xxx". The copyist's own spellings were kept.
 
 ### Summaries
 
@@ -20,7 +20,7 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The published English of the other copies of the power of attorney and of the consent, and of a lease from the same court, was read beside them, so that the same German formula has the same English. Where this copy differs from the others in a word, the English follows this copy and a note records the difference. The same automatic check as elsewhere then confirmed that every figure survives into the English.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The published English of the other copies of the power of attorney and of the consent, and of a lease from the same court, was read beside them, so that the same German formula has the same English. Where this copy differs from the others in a word, the English follows this copy and a note records the difference. The same automatic check as elsewhere then confirmed that every figure survives into the English.
 
 ### Still to do
 

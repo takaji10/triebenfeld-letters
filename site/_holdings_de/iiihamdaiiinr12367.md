@@ -39,7 +39,7 @@ Der erste Band derselben Akte, 1818 bis 1827, mit der Forderung der Miączyńska
 
 ### Aufnahmen
 
-Das Archiv hat aus dem Band vierzehn Aufnahmen gemacht: den Umschlag, zwölf einzelne Seiten und eine Doppelseite. Die Doppelseite ist auf beiden Seiten beschrieben und wurde am Falz in zwei Seiten geteilt. Die Edition hat 15 Seiten und den Umschlag.
+Das Archiv hat aus dem Band vierzehn Aufnahmen gemacht: den Umschlag, zwölf einzelne Seiten und eine Doppelseite. Die Doppelseite ist auf beiden Seiten beschrieben und wurde am Falz in zwei Seiten geteilt. Es hat 15 Seiten und den Umschlag.
 
 ### Transkription
 
@@ -63,7 +63,7 @@ Die Zusammenfassungen wurden auf Deutsch geschrieben, nachdem jedes Dokument mit
 
 ### Übersetzung
 
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Jedes Schreiben wurde aus seiner eigenen Sprache übersetzt: die französischen aus dem Französischen, die beiden polnischen aus dem Polnischen und Weigels Rechnung aus dem Deutschen, mit ihren Summen in Talern und Groschen, wie er sie angibt. Die Datierung „Dienstag“ von Mohrenheims zweitem Billett war versehentlich dem folgenden Schreiben zugeordnet; sie wurde vor der Übersetzung an den Fuß des Billetts zurückgestellt, wo sie geschrieben steht. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Jedes Schreiben wurde aus seiner eigenen Sprache übersetzt: die französischen aus dem Französischen, die beiden polnischen aus dem Polnischen und Weigels Rechnung aus dem Deutschen, mit ihren Summen in Talern und Groschen, wie er sie angibt. Die Datierung „Dienstag“ von Mohrenheims zweitem Billett war versehentlich dem folgenden Schreiben zugeordnet; sie wurde vor der Übersetzung an den Fuß des Billetts zurückgestellt, wo sie geschrieben steht. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
 
 ### Noch offen
 

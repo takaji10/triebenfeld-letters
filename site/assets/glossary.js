@@ -12,11 +12,10 @@
    so the browser fetches it once. The box speaks the interface language,
    whatever the language of the text it was opened from.
 
-   A switch beside "hide scans" turns the marks off; the choice is remembered
-   in this browser (tf-glossary), like the other view preferences. */
+   The marks are always on; the switch that turned them off was taken away
+   on 2026-10-29. */
 (function () {
   'use strict';
-  var KEY = 'tf-glossary';
   var me = document.currentScript;
   var holder = document.getElementById('glossary-hits');
   var toggle = document.getElementById('glossary-toggle');
@@ -201,15 +200,6 @@
     });
     if (!on) close(false);
   }
-  var saved = null;
-  try { saved = localStorage.getItem(KEY); } catch (e) { saved = null; }
-  var on = saved !== '0';               // on unless the reader turned it off
-  if (toggle) {
-    toggle.checked = on;
-    toggle.addEventListener('change', function () {
-      apply(toggle.checked);
-      try { localStorage.setItem(KEY, toggle.checked ? '1' : '0'); } catch (e) {}
-    });
-  }
-  apply(on);
+  // Always on (editor, 2026-10-29): the switch is gone from the page.
+  apply(true);
 })();

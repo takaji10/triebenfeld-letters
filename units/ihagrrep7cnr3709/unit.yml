@@ -26,8 +26,16 @@ archive_title: >-
   Fürsten von Hohenlohe Ingelfingen - the ministry file on Michalina
   Prusimska's complaints in her case against the Prince, 1800-1802
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Acta betr. die Beschwerden der Michalina von Prusimska in Sachen wider den Fürsten von Hohenlohe Ingelfingen"
+# The archive's catalogue title (editor, 2026-10-29), in full:
+# Beschwerde der Michalina v. Prusinska gegen den Fürsten v. Hohenlohe-Ingelfingen
+# The card shortens it with [...]; the English site shows a translation.
+card_title: "Complaint of Michalina von Prusinska against Prince von Hohenlohe-Ingelfingen"
+card_title_de: "Beschwerde der Michalina v. Prusinska gegen den Fürsten v. Hohenlohe-Ingelfingen"
+original_title: "Beschwerde der Michalina v. Prusinska gegen den Fürsten v. Hohenlohe-Ingelfingen"
 # The cover gives the span: "den 18ten Juny 1800" to "den 29 Januar 1802".
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [government-files]
 date_span: 1800-1802
 status: translated               # draft | transcribed | translated | published
 

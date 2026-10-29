@@ -36,7 +36,7 @@ excerpt_separator: ""
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Żychliński (1885) gives the Trąbczyn branch of the Prusimskis: Krzysztof, lord of Kolno, Kamionna and Trąbczyn, and his wife Teresa Golińska; their son Stefan and his wife Wiktorya Malczewska; and Stefan's only son Antoni, Starost of Nieszczewice. The court books agree: the boundary decree entered in 1776 calls the late Krzysztof Prusimski, heir of Trąbczyn, the Starost's grandfather, and Antoni's summons of 1782 names him son of Stefan and Wiktoria Malczewska and grandson of Krzysztof and Teresa Golińska. The summons names Krzysztof's other sons Jan, Bogumił, Antoni and Paweł, where Żychliński has Jan Paweł, Teofil and Antoni (Bogumił is the Polish form of Teofil); a suit of 1728 already names Krzysztof with his son Antoni. The inspection of Trąbczyn of July 1754 was made for Katarzyna born Rozdrażewska, widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn; Żychliński's Paweł Apollo, chamberlain and husband of Katarzyna Rozdrażewska, stands a generation higher, as Krzysztof's brother.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app53170koningr118/23/' | relative_url }}">53/17/0/-/Konin Gr.118, document 23 (21 September 1782)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a></p>
 </aside>{% raw %}
@@ -67,7 +67,7 @@ and lastly Wiktorya, married to Michał **Tworowicz**. Of Krzysztof's sons, **Ja
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Żychliński (1885) gives the Trąbczyn branch of the Prusimskis: Krzysztof, lord of Kolno, Kamionna and Trąbczyn, and his wife Teresa Golińska; their son Stefan and his wife Wiktorya Malczewska; and Stefan's only son Antoni, Starost of Nieszczewice. The court books agree: the boundary decree entered in 1776 calls the late Krzysztof Prusimski, heir of Trąbczyn, the Starost's grandfather, and Antoni's summons of 1782 names him son of Stefan and Wiktoria Malczewska and grandson of Krzysztof and Teresa Golińska. The summons names Krzysztof's other sons Jan, Bogumił, Antoni and Paweł, where Żychliński has Jan Paweł, Teofil and Antoni (Bogumił is the Polish form of Teofil); a suit of 1728 already names Krzysztof with his son Antoni. The inspection of Trąbczyn of July 1754 was made for Katarzyna born Rozdrażewska, widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn; Żychliński's Paweł Apollo, chamberlain and husband of Katarzyna Rozdrażewska, stands a generation higher, as Krzysztof's brother.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app53170koningr118/23/' | relative_url }}">53/17/0/-/Konin Gr.118, document 23 (21 September 1782)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a></p>
 </aside>{% raw %}

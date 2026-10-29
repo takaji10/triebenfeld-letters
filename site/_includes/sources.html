@@ -16,11 +16,13 @@
   their own pages (/newspapers/, /literature/, /maps/), reached from here
   and no longer from the header.
 {%- endcomment -%}
+{%- assign lit_held = site.data.units | where: "listed_in", "literature" -%}
+{%- assign lit_held_size = lit_held | size -%}
 <div class="sources-overview">
   <section class="src-kind" id="archival">
     <h2>{{ t.sources_arch_h2 }}</h2>
     <dl class="source-facts">
-      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.units | size }} {{ t.sources_kind_holdings }}</dd></div>
+      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.units | where_exp: "x", "x.listed_in != 'literature'" | size }} {{ t.sources_kind_holdings }}</dd></div>
     </dl>
     <p class="source-go"><a href="{{ u_sources_arch | relative_url }}">{{ t.sources_arch_go }}</a></p>
   </section>
@@ -36,7 +38,7 @@
   <section class="src-kind" id="literature">
     <h2>{{ t.sources_lit_h2 }}</h2>
     <dl class="source-facts">
-      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.literature | size }} {{ t.sources_kind_works }}</dd></div>
+      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.literature | size | plus: lit_held_size }} {{ t.sources_kind_works }}</dd></div>
     </dl>
     <p class="source-go"><a href="{{ u_lit | relative_url }}">{{ t.sources_lit_go }}</a></p>
   </section>

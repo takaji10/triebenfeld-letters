@@ -23,7 +23,7 @@ hits_docs_count: 0
 Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records the name as *Łukomiem a Myszkowem* by 1578.[^68]
 
 [^67]: Szwiec 11
-    [The document in the edition.](/literature/szwiec2009/#p-11)
+    [The document.](/literature/szwiec2009/#p-11)
 
 [^68]: Nazwy miejscowe Polski, t. 14, p. 177
 

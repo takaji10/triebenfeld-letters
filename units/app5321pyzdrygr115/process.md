@@ -25,11 +25,11 @@ it, diacritics included only where they gave them.
 
 The table has no column of entry numbers: the parish stands in the first
 cell, filled on the village's own row and empty under it, and the figures
-follow. The edition's table machinery sorted a table by the numbers of its
+follow. The table machinery sorted a table by the numbers of its
 first column and stopped on a table that has none. It was extended, and the
 extension was checked the way shared code is checked here: the version
 before the change, taken from the repository, and the new one were run over
-every table the edition already carries, and the two outputs agree exactly
+every table already built, and the two outputs agree exactly
 (`pipeline/review/verify_table_of_diff.py`; 12 table documents in 5 units).
 
 The figures of six of the seven rows double from column to column; the

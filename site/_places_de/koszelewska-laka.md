@@ -23,7 +23,7 @@ hits_docs_count: 0
 Village southwest of Łukom. Founded between 1794 and 1800 as the last village established in the Zagórów Evangelical-Augsburg parish under Olęder law.[^34] An inn was noted here (Weydner 1804). Remains of a Lutheran cemetery still exist but are poorly preserved. *Kozialewskalonka* (Gilly 1802); *Hol. Koszelewska Ląka* (Richter 1843); *Kozialąka* (Chrzanowski 1858). The Słownik geograficzny records it as a colony, in gmina Trąbczyn, parish of Zagórów, powiat słupecki.[^35]
 
 [^34]: Słowiński and Połom 62
-    [The document in the edition.](/literature/slowinskipolom2024/)
+    [The document.](/literature/slowinskipolom2024/)
 
 [^35]: Słownik geograficzny, t. IV, p. 484
 

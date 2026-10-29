@@ -26,43 +26,38 @@ pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
   A modern biography of the Prince of Hohenlohe-Ingelfingen, written from the
-  papers in the Hohenlohe Central Archive at Neuenstein, the archive of the
-  correspondence in this edition. It covers his rebuilding of Ingelfingen,
+  papers in the Hohenlohe Central Archive at Neuenstein, the archive of Triebenfeld's letters. It covers his rebuilding of Ingelfingen,
   his Prussian career, his marriage and his debts, and the South Prussian
   estates and Triebenfeld's part in them; its appendix 6 transcribes the
-  letter of 7 March 1809 that stands in the edition as letters 48 and 302 of
-  Oe 1 Bü 9454. The edition's documents are the authority where the two
+  letter of 7 March 1809 that stands as letters 48 and 302 of
+  Oe 1 Bü 9454. The documents are the authority where the two
   differ (editor, 2026-10-03: primary sources before Seidel).
 account_de: >-
   Eine moderne Biographie des Fürsten zu Hohenlohe-Ingelfingen, geschrieben
-  aus den Akten des Hohenlohe-Zentralarchivs Neuenstein, des Archivs der
-  Korrespondenz dieser Edition. Sie behandelt seine Erneuerung Ingelfingens,
+  aus den Akten des Hohenlohe-Zentralarchivs Neuenstein, des Archivs der Briefe Triebenfelds. Sie behandelt seine Erneuerung Ingelfingens,
   seine preußische Laufbahn, seine Ehe und seine Schulden sowie die
   südpreußischen Güter und Triebenfelds Rolle darin; ihr Anhang 6 gibt den
-  Brief vom 7. März 1809 wieder, der in der Edition als Briefe 48 und 302
-  von Oe 1 Bü 9454 steht. Wo beide abweichen, gelten die Dokumente der
-  Edition (Herausgeber, 2026-10-03: Primärquellen vor Seidel).
+  Brief vom 7. März 1809 wieder, der als Briefe 48 und 302
+  von Oe 1 Bü 9454 steht. Wo beide abweichen, gelten die Dokumente (Herausgeber, 2026-10-03: Primärquellen vor Seidel).
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
   A modern biography of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen —
   the rebuilding of Ingelfingen, the Prussian career, the marriage, the debts,
   the South Prussian estates and Triebenfeld's part in them — written from the
-  papers of the very archive this edition's letters come from; where the two
-  differ, the edition's documents are the authority.
+  papers of the very archive the letters come from.
 brief_de: >-
   Eine moderne Biographie von Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen
   — der Wiederaufbau von Ingelfingen, die preußische Laufbahn, die Ehe, die
   Schulden, die südpreußischen Güter und Triebenfelds Rolle darin —
-  geschrieben aus den Akten genau des Archivs, aus dem die Briefe dieser
-  Edition kommen; wo beide abweichen, gelten die Dokumente der Edition.
+  geschrieben aus den Akten genau des Archivs, aus dem die Briefe kommen; wo beide abweichen, gelten die Dokumente.
 
 # The detailed summary shown on the site in place of the text (the editor,
 # 2026-10-21), written by Claude from a reading of the whole book (the English,
 # checked against the German where it matters). In its own words: no
 # stretch of the book is quoted, and pipeline/verify_site.py checks that none appears.
 summary_en: |
-  A biography of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen (1746-1818), called "FL" throughout, by Hans-Joachim Seidel, who grew up in Ingelfingen. It is drawn above all from the letters and papers in the Hohenlohe Central Archive at Neuenstein, many of them quoted at length, from Adolf Fischer's history of the House of Hohenlohe (1871) and from Gerlinde Kraus's study of the Upper Silesian estates (2001). Twenty-three chapters, with "excursuses" on the background, eight appendices and a list of sources; the notes (pp. 257-266) are not transcribed in the edition's copy.
+  A biography of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen (1746-1818), called "FL" throughout, by Hans-Joachim Seidel, who grew up in Ingelfingen. It is drawn above all from the letters and papers in the Hohenlohe Central Archive at Neuenstein, many of them quoted at length, from Adolf Fischer's history of the House of Hohenlohe (1871) and from Gerlinde Kraus's study of the Upper Silesian estates (2001). Twenty-three chapters, with "excursuses" on the background, eight appendices and a list of sources; the notes (pp. 257-266) are not transcribed in the copy.
 
   ### Ingelfingen and the family (chapters 1-2)
 
@@ -102,13 +97,11 @@ summary_en: |
 
   ### The appendices
 
-  A table of FL's military career; a map of Upper Silesia and of Poland after the third partition; a list of his estates with their German names; Triebenfeld's statement of the debts (366,000) and a list of 1817 (among the creditors Oppenheimer and Glenck); a transcription of Triebenfeld's letter of 7 March 1809 from Kontopp, thirteen powers of attorney given for the South Prussian estates through the justice burgomaster of Zagórów (Seidel reads "Habich"; the edition's Hawich), against the sequestrator, the banker Oppenheimer, a lessee and the colonists, which stands in the edition as letters 48 and 302 of Oe 1 Bü 9454; extracts from the proceedings of 1811, in which the Invalids' Fund, having lent Triebenfeld 50,000 thalers in 1805 on the security of FL's bond of 1 June 1804 for 250,000 on the Zagórów estates, seeks to attach a legacy of 80,000 rumoured to have come to FL from Princess Sacken; and a list of the wages owed to FL's servants in 1817.
+  A table of FL's military career; a map of Upper Silesia and of Poland after the third partition; a list of his estates with their German names; Triebenfeld's statement of the debts (366,000) and a list of 1817 (among the creditors Oppenheimer and Glenck); a transcription of Triebenfeld's letter of 7 March 1809 from Kontopp, thirteen powers of attorney given for the South Prussian estates through the justice burgomaster of Zagórów (Seidel reads "Habich"; Hawich), against the sequestrator, the banker Oppenheimer, a lessee and the colonists, which stands as letters 48 and 302 of Oe 1 Bü 9454; extracts from the proceedings of 1811, in which the Invalids' Fund, having lent Triebenfeld 50,000 thalers in 1805 on the security of FL's bond of 1 June 1804 for 250,000 on the Zagórów estates, seeks to attach a legacy of 80,000 rumoured to have come to FL from Princess Sacken; and a list of the wages owed to FL's servants in 1817.
 
-  ### Where the edition's documents say otherwise
-
-  The edition follows its documents. Trąbczyn, with Szetlewek, Nowa Wieś, Łazy and Osiny, came to FL by the King's deed of gift of 9 August 1796 as estates fallen to the crown, that is Prusimski's confiscated estates (Oe 1 Bü 14525, doc. 1), not as crown or starost land; Zagórów came by a deed of grant of 19 June 1797 (I. HA Rep. 162 Nr. 295, doc. 3), not in 1796. The edition's copy of the colonists' lease lacks its beginning and is dated by its engrossing, 21 March 1806 (APP 53/968/0/-/801, doc. 3), so the 18 May 1805 can be neither confirmed nor ruled out; the chamber's consent of 28 January 1806 (doc. 2) and Triebenfeld's bond of 28 January 1805 for the 50,000 thalers (Rep. 162 Nr. 295, doc. 1) agree.
+  ### Where the documents say otherwise Trąbczyn, with Szetlewek, Nowa Wieś, Łazy and Osiny, came to FL by the King's deed of gift of 9 August 1796 as estates fallen to the crown, that is Prusimski's confiscated estates (Oe 1 Bü 14525, doc. 1), not as crown or starost land; Zagórów came by a deed of grant of 19 June 1797 (I. HA Rep. 162 Nr. 295, doc. 3), not in 1796. The copy of the colonists' lease lacks its beginning and is dated by its engrossing, 21 March 1806 (APP 53/968/0/-/801, doc. 3), so the 18 May 1805 can be neither confirmed nor ruled out; the chamber's consent of 28 January 1806 (doc. 2) and Triebenfeld's bond of 28 January 1805 for the 50,000 thalers (Rep. 162 Nr. 295, doc. 1) agree.
 summary_de: |
-  Eine Biographie Friedrich Ludwigs, Fürst zu Hohenlohe-Ingelfingen (1746-1818), im Buch durchgehend „FL“, von Hans-Joachim Seidel, der in Ingelfingen aufwuchs. Sie schöpft vor allem aus den Briefen und Akten des Hohenlohe-Zentralarchivs Neuenstein, die oft ausführlich angeführt werden, aus Adolf Fischers Geschichte des Hauses Hohenlohe (1871) und aus der Untersuchung der oberschlesischen Güter von Gerlinde Kraus (2001). Dreiundzwanzig Kapitel mit „Exkursen“ zum Hintergrund, acht Anhänge und ein Quellenverzeichnis; die Anmerkungen (S. 257-266) sind in der Abschrift der Edition nicht übertragen.
+  Eine Biographie Friedrich Ludwigs, Fürst zu Hohenlohe-Ingelfingen (1746-1818), im Buch durchgehend „FL“, von Hans-Joachim Seidel, der in Ingelfingen aufwuchs. Sie schöpft vor allem aus den Briefen und Akten des Hohenlohe-Zentralarchivs Neuenstein, die oft ausführlich angeführt werden, aus Adolf Fischers Geschichte des Hauses Hohenlohe (1871) und aus der Untersuchung der oberschlesischen Güter von Gerlinde Kraus (2001). Dreiundzwanzig Kapitel mit „Exkursen“ zum Hintergrund, acht Anhänge und ein Quellenverzeichnis; die Anmerkungen (S. 257-266) sind in der Abschrift nicht übertragen.
 
   ### Ingelfingen und die Familie (Kapitel 1-2)
 
@@ -148,8 +141,6 @@ summary_de: |
 
   ### Die Anhänge
 
-  Eine Tafel von FLs militärischer Laufbahn; eine Karte Oberschlesiens und Polens nach der dritten Teilung; ein Verzeichnis seiner Güter mit ihren deutschen Namen; Triebenfelds Aufstellung der Schulden (366.000) und eine Liste von 1817 (unter den Gläubigern Oppenheimer und Glenck); eine Übertragung von Triebenfelds Brief vom 7. März 1809 aus Kontopp, dreizehn Vollmachten für die südpreußischen Güter über den Justizbürgermeister von Zagórów (bei Seidel „Habich“, in der Edition Hawich), gegen den Sequester, den Bankier Oppenheimer, einen Pächter und die Kolonisten, der in der Edition als Briefe 48 und 302 von Oe 1 Bü 9454 steht; Auszüge aus dem Verfahren von 1811, in dem die Invalidenkasse, die Triebenfeld 1805 50.000 Taler auf FLs Schuldschein vom 1. Juni 1804 über 250.000 auf die Güter von Zagórów geliehen hatte, ein Vermächtnis von 80.000 mit Arrest belegen will, das FL angeblich von Fürstin Sacken zugefallen war; und eine Liste der 1817 geschuldeten Löhne von FLs Dienerschaft.
+  Eine Tafel von FLs militärischer Laufbahn; eine Karte Oberschlesiens und Polens nach der dritten Teilung; ein Verzeichnis seiner Güter mit ihren deutschen Namen; Triebenfelds Aufstellung der Schulden (366.000) und eine Liste von 1817 (unter den Gläubigern Oppenheimer und Glenck); eine Übertragung von Triebenfelds Brief vom 7. März 1809 aus Kontopp, dreizehn Vollmachten für die südpreußischen Güter über den Justizbürgermeister von Zagórów (bei Seidel „Habich“, Hawich), gegen den Sequester, den Bankier Oppenheimer, einen Pächter und die Kolonisten, der als Briefe 48 und 302 von Oe 1 Bü 9454 steht; Auszüge aus dem Verfahren von 1811, in dem die Invalidenkasse, die Triebenfeld 1805 50.000 Taler auf FLs Schuldschein vom 1. Juni 1804 über 250.000 auf die Güter von Zagórów geliehen hatte, ein Vermächtnis von 80.000 mit Arrest belegen will, das FL angeblich von Fürstin Sacken zugefallen war; und eine Liste der 1817 geschuldeten Löhne von FLs Dienerschaft.
 
-  ### Wo die Dokumente der Edition anderes sagen
-
-  Die Edition folgt ihren Dokumenten. Trąbczyn kam mit Szetlewek, Nowa Wieś, Łazy und Osiny durch die königliche Schenkungsurkunde vom 9. August 1796 an FL, als der Krone heimgefallene, also Prusimskis eingezogene Güter (Oe 1 Bü 14525, Dok. 1), nicht als Kron- oder Starosteigut; Zagórów kam durch eine Verleihungsurkunde vom 19. Juni 1797 (I. HA Rep. 162 Nr. 295, Dok. 3), nicht 1796. Der Abschrift des Kolonistenvertrags in der Edition fehlt der Anfang; sie ist nach ihrer Ausfertigung datiert, 21. März 1806 (APP 53/968/0/-/801, Dok. 3), sodass der 18. Mai 1805 weder bestätigt noch ausgeschlossen werden kann; die Zustimmung der Kammer vom 28. Januar 1806 (Dok. 2) und Triebenfelds Schuldschein vom 28. Januar 1805 über die 50.000 Taler (Rep. 162 Nr. 295, Dok. 1) stimmen überein.
+  ### Wo die Dokumente anderes sagen Trąbczyn kam mit Szetlewek, Nowa Wieś, Łazy und Osiny durch die königliche Schenkungsurkunde vom 9. August 1796 an FL, als der Krone heimgefallene, also Prusimskis eingezogene Güter (Oe 1 Bü 14525, Dok. 1), nicht als Kron- oder Starosteigut; Zagórów kam durch eine Verleihungsurkunde vom 19. Juni 1797 (I. HA Rep. 162 Nr. 295, Dok. 3), nicht 1796. Der Abschrift des Kolonistenvertrags fehlt der Anfang; sie ist nach ihrer Ausfertigung datiert, 21. März 1806 (APP 53/968/0/-/801, Dok. 3), sodass der 18. Mai 1805 weder bestätigt noch ausgeschlossen werden kann; die Zustimmung der Kammer vom 28. Januar 1806 (Dok. 2) und Triebenfelds Schuldschein vom 28. Januar 1805 über die 50.000 Taler (Rep. 162 Nr. 295, Dok. 1) stimmen überein.

@@ -372,8 +372,8 @@ in order to preserve them "zum Flor beiderseitiger künftiger Descendenz" [for t
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
-<p>Kraus (2001), p. 42, records that the prince, to come by "ready means" ("baare Mittel"), sold on again far below their worth the lordships Betsche, Zogorowo, Trobczyn, Botkowo and Winiec he had acquired - the book's spellings of the edition's Zagórów and Trąbczyn among them. The royal consent of 28 January 1806 (APP 53/968/0/-/801, document 2) shows the parcelling of the "Herrschaften Zagurowo und Trompczyn" the prince undertook in the same years, while the book describes his finances as collapsing; the document does not say what the parcelling sold for, the book does not date the sales.</p>
+<p class="lit-links-head">In the documents</p>
+<p>Kraus (2001), p. 42, records that the prince, to come by "ready means" ("baare Mittel"), sold on again far below their worth the lordships Betsche, Zogorowo, Trobczyn, Botkowo and Winiec he had acquired - the book's spellings of Zagórów and Trąbczyn among them. The royal consent of 28 January 1806 (APP 53/968/0/-/801, document 2) shows the parcelling of the "Herrschaften Zagurowo und Trompczyn" the prince undertook in the same years, while the book describes his finances as collapsing; the document does not say what the parcelling sold for, the book does not date the sales.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app539680801/2/' | relative_url }}">53/968/0/-/801, document 2 (28 January 1806)</a></p>
 </aside>{% raw %}
 </section>

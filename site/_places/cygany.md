@@ -23,7 +23,7 @@ hits_docs_count: 0
 Eight mounds which existed on the southwest edge of the Trąbczyn estate. The mounds were mentioned in a 1775 court dispute between the owners of the Trąbczyn and Łukom estates as being built illegally and secretly made at night to influence the demarcation of the border between the two estates.[^9] Only one map noted this feature (Królików 1800, see Fig. 56).
 
 [^9]: “Relationes-oblatae [protocollon],” 1776, 693
-    [The document in the edition.](/documents/app53170koningr145/1/#p78)
+    [The document.](/documents/app53170koningr145/1/#p78)
 
 </div>
 {% endraw %}

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Über diese Edition
-standfirst: Was die Edition enthält, wo die Dokumente liegen, wie der Text entstanden ist und wie weit man sich auf ihn verlassen kann.
-permalink: /de/ueber-diese-edition/
+title: Über
+standfirst: Wo die Dokumente liegen, wie der Text entstanden ist und wie weit man sich auf ihn verlassen kann.
+permalink: /de/ueber/
 lang: de
-alt_url: /reading-this-edition/
+alt_url: /about/
 ---
 
-## Was diese Edition ist
+## Die Dokumente
 
 *Traces in the Sand* veröffentlicht die Schriftstücke, die über eine Gruppe von Gütern um
 Trąbczyn und Zagórów erhalten sind, in dem Teil Polens, den Preußen 1793 an sich nahm. 1796
@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 630 Dokumente auf 2.103 Seiten aus den Jahren 1173 bis 1936. Die      
+Es sind 630 Dokumente auf 2.103 Seiten aus den Jahren 1173 bis 1936. Die      
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -41,7 +41,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 Die Dokumente stammen aus einundfünfzig Beständen in sechs Archiven und einer Bibliothek:
 
-- dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
+- dem **Hohenlohe-Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
   Verleihungs- und Besitzurkunden und Pachtverträgen; und einer königlichen Urkunde von
   1805;
@@ -101,8 +101,7 @@ eigenen Sprache übersetzt.
 Die Originale sind Handschriften, die meisten in *Kurrent*, der deutschen Schreibschrift
 der Zeit, die schwer zu lesen und leicht falsch zu lesen ist.
 
-Der Herausgeber ist Amateurpaläograph. Wegen der Zahl der Seiten wurde die Arbeit für
-diese Edition mit Unterstützung von KI geleistet, in drei Schritten:
+Der Herausgeber ist Amateurpaläograph. Wegen der Zahl der Seiten wurde die Arbeit mit Unterstützung von KI geleistet, in drei Schritten:
 
 1. Ein KI-System zur Handschriftenerkennung erstellte die erste Transkription. Der
    Herausgeber korrigierte Namen und Anordnung von Hand.
@@ -160,11 +159,11 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `[?]` | Ein Wort oder ein Teil davon war nicht zu lesen. Unmittelbar nach einem Wort bezeichnet es dieses Wort als zweifelhaft. |
 | `[word?]` | Eine mit Zweifel angebotene Lesung. Wo nur die ersten Buchstaben gelesen sind: `[Rev…?]`. |
 | `[...]` | Eine Lücke: Die Seite ist beschädigt, oder der Text bricht ab. |
-| `G[oldbeck]` | Buchstaben in eckigen Klammern innerhalb eines Wortes sind von der Edition ergänzt: eine aufgelöste Abkürzung oder eine Unterschrift, die nur aus einer Initiale besteht. |
+| `G[oldbeck]` | Buchstaben in eckigen Klammern innerhalb eines Wortes sind vom Herausgeber ergänzt: eine aufgelöste Abkürzung oder eine Unterschrift, die nur aus einer Initiale besteht. |
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 910 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Es gibt 910 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
@@ -223,7 +222,7 @@ Wo eine Archivnummer mehrere Dokumente umfasst, sind sie als 72a, 72b und so wei
 gezählt. Einige Dokumente sind in zwei Abschriften überliefert. Beide stehen hier, weil
 jede zeigt, wo die andere falsch abgeschrieben oder verlesen ist.
 
-Die Edition ist nach den Besitzern der Güter gegliedert. Fast alle bisher veröffentlichten
+Die Dokumente sind nach den Besitzern der Güter gegliedert. Fast alle bisher veröffentlichten
 Dokumente gehören in die Jahre Hohenlohe-Ingelfingens und ihre Nachgeschichte. Eines gehört
 zum älteren Grenzstreit zwischen Trąbczyn und dem Nachbargut Łukom, und weitere folgen. Die
 Jahre nach der Rückgabe der Güter an die Familie Prusimski 1807 stehen noch aus.
@@ -238,4 +237,4 @@ Jahre nach der Rückgabe der Güter an die Familie Prusimski 1807 stehen noch au
 ## Zitieren und Weiterverwenden
 
 [Lizenzen, Nachweise und Datenschutz]({{ '/de/rechte/' | relative_url }}) sagt, wer die
-Edition betreibt, wie ein Dokument zu zitieren ist und was weiterverwendet werden darf.
+Seite betreibt, wie ein Dokument zu zitieren ist und was weiterverwendet werden darf.

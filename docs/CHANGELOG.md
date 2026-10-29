@@ -3602,3 +3602,257 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Verified: Jekyll build and `pipeline/verify_site.py` clean (630 documents
   character-exact, 62,874 internal links, no hidden-work text leaked by a
   brief). Not published.
+
+## 2026-10-29 - Catalogue titles for eight Prussian files
+
+- The editor's updated archive titles for eight Berlin units (GStA PK: III. HA
+  MdA, III. Nr. 12765, 12366, 12367; I. HA GR, Rep. 7 C, Nr. 3709, 3705, 3570,
+  1414; I. HA Rep. 162, Nr. 295) now head their cards on the Sources list.
+  `card_title_de` is the archive's German, shortened with "[...]" where it runs
+  long (the creditors of Nr. 12366 and 12367, the villages and further gifts of
+  Nr. 3570, the present owner of Nr. 295); `card_title` is Claude's English
+  translation, shown on the English site. The full catalogue title stands as a
+  comment above `card_title` in each `unit.yml`; `archive_title` is unchanged.
+- Verified: build_site_data, Jekyll build and `pipeline/verify_site.py` clean.
+  Not committed, not published.
+
+## 2026-10-29 - Translated titles and the original beneath them, on every holding
+
+- The editor's titles for APP 53/71/0/-/57 (Erbet's hereditary lease) and AGAD
+  1/185/0/1/169 (the jurisdictional dispute, Polish) entered; APŁ 39/98/0/-/6603's
+  Russian title translated into English and German (the edition's "Łazińsk" and
+  "Trąbczyn" for the Russian forms).
+- Every holding now has an English and a German title (`card_title`,
+  `card_title_de`); the 20 Polish, Latin, Russian and German-only ones were
+  translated. Under it, in italics, the archive's own title: shortened with
+  [...] on the card (`original_title_card`), whole on the holding's page
+  (`original_title`), which now also shows the translated title in full
+  (`full_title`, `full_title_de`). Not shown where the two are the same (a German
+  title on the German site); the three Hohenlohe-archive units
+  (Oe 1 Bü 9454, 14525, 14526) have no original title on record. Court
+  books show their title without the court as the original ("Relationes
+  [protocollon] ..."). `new_unit.py` template, `build_site_data.py` and the card
+  and page templates carry the new keys.
+- Open: the translation of "Magd." in the Erbet title is left as the archive's
+  abbreviation; the Polish and Latin titles' English were not asked for before
+  (the card used the original) and are Claude's.
+- Verified: Jekyll build and `pipeline/verify_site.py` clean. Not committed, not
+  published.
+
+## 2026-10-29 - Hohenlohe titles; the archive's name
+
+- Oe 1 Bü 9454, 14525 and 14526 now carry the archive's own German titles
+  (editor) as `original_title` and as `card_title_de`; the English titles are
+  Claude's translations of them (they replace the descriptive glosses).
+- The archive is named **Hohenlohe-Zentralarchiv Neuenstein** (editor), not
+  "Hohenloher Zentralarchiv": the four Oe units' `archive:`, the `new_unit.py`
+  default, `reference/repositories.yml` (both languages), README, both
+  "reading this edition" pages and the units' notes. Quotations (Seidel's
+  text, old changelog entries) keep the form they were written in.
+- Verified: build and `pipeline/verify_site.py` clean. Not committed, not
+  published.
+
+## 2026-10-29 - Types of archival material; Oe 1 U 199's title
+
+- Each holding is classified as a whole by the form of its records
+  (`types:` in `unit.yml`, one or two slugs, the dominant first), from the
+  eight kinds in `reference/unit_types.yml` (English and German): court
+  records, government and administrative files, correspondence, deeds,
+  contracts and grants, registers, tables and surveys, church records,
+  charters and privileges, researchers' papers. 50 holdings classified (the
+  23 court books and the two Konin land-court units court records; 18 with
+  two types, e.g. Nr. 3570 deeds + government file, APP 53/71/0/-/57 deed +
+  court record, Nr. 12366/12367 and 1414 government file + correspondence).
+  Shown as labels on the card and the holding's page, and as a Type filter
+  beside the Archive filter on the archival list (`cardsort.js`). The Kodeks
+  stays untyped: it is to move to the literature (editor), where there is
+  no such type. `build_site_data.py` stops on an unknown type and skips a
+  TODO; `new_unit.py` carries `types: [TODO]`.
+- Oe 1 U 199 carries the archive's full German title (editor) with a shortened
+  card form, and English translations of both.
+- Verified: build and `pipeline/verify_site.py` clean. Not committed, not
+  published.
+
+## 2026-10-29 - The Kodeks listed with the literature
+
+- The Kodeks Dyplomatyczny Wielkopolski is listed on the Literature page, not
+  the archival list (editor: a printed edition, not an archive's records), with
+  its structure unchanged: still the holding `kdw` with its 21 documents, its
+  address /sources/kdw/, the document browse, the era and the links. `listed_in:
+  literature` in `units/kdw/unit.yml`; the archival list, its archive filter and
+  the overview's holding count (now 50) leave it out; the Literature list
+  carries a card of the same shape (documents, span, the one-sentence title);
+  the overview counts it with the works (40); the holding's page links back to
+  the Literature list. `verify_site.py` checks the card is on the Literature
+  list and not required on the archival one.
+- Verified: build and `pipeline/verify_site.py` clean. Not committed, not
+  published.
+
+## 2026-10-29 - The map pages simplified
+
+- A map's page (`site/_layouts/map.html`): the "Georeference ±m" row is gone
+  (the fit stays in the data; the overlay and the OpenStreetMap links depend on
+  it, readers do not need its error figure); the archive's link is the map's
+  reference number in the Holder row, no separate "The map at the archive" line;
+  "The places marked on it" is an "Index" ("Register"), an A-Z list of place
+  (linked to its page), kind, name as the map spells it (a click takes the map
+  to the mark) and an OpenStreetMap link, with no crops of the lettering and no
+  count line; the overlay link reads "View map overlay on OpenStreetMap"
+  ("Kartenüberlagerung auf OpenStreetMap ansehen").
+- The viewer opens the map as drawn. The button (now the site's `vbtn`, so it
+  reads in dark mode) says "North up" and turns the map by `view_rotation`,
+  then "As drawn"; it is hidden for a map with no rotation. The "+ / −" hint,
+  which did nothing, is removed.
+- Verified: build and `pipeline/verify_site.py` clean. Not committed, not
+  published.
+
+## 2026-10-29 - The map index as a numbered list
+
+- The index of a map's places is an ordered list with no rules between the
+  rows. Each place: its name (the one prominent link, to the place's page), a
+  muted line under it (kind, the name as the map spells it, any note), then
+  two small chip buttons, "Show on map" (takes the viewer to the mark) and
+  "OpenStreetMap"; a document the place is tied to stands as a muted line
+  with an arrow. New string `map_locate`, both languages. Not committed, not
+  published.
+- The map index tightened (same day): one line per place, "Place, kind, name on
+  the map" in one size (the name in bold and linked, the map's form in italics,
+  no quotes or dots; the editor's note on a mark kept as a tooltip), with short
+  chips at the line's end: "Locate", "OSM" and, where a document is tied to the
+  place, "Document" (the quote as its tooltip). Strings `map_locate`,
+  `map_document`, `map_today` shortened in both languages.
+- The inscription "Tres mansi Conventûs Landensis" of Łukom 1766 is its own mark,
+  not Grądzeń (editor, 2026-10-29): `maps/lukom1766/labels.yml` has `place: null`
+  and `new_place` with its own name; the index shows it by that name, unlinked,
+  kind "field". Its two references (the king's confirmation of 1447 and the
+  privilege of 1461, the Ląd copy-book) are kept, now on the label (`refs:`,
+  which `map_pages.py` reads when no gazetteer item carries them) and shown as its
+  "Document" chips; the item is out of the gazetteer's Grądzeń entry, so
+  Grądzeń's page no longer lists the inscription among its appearances.
+- A mark's references stand as a short line under its entry again, introduced by
+  "Documents on this inscription:" ("Dokumente zu dieser Inschrift:"), not as
+  buttons (the "Tres mansi" inscription: the king's confirmation of 1447 of the
+  purchase of three mansi of Łukom; the privilege of 1461). The overlay link
+  moved from the side column to the lower right under the map, level with the
+  "North up" button. Not committed, not published.
+- The marks on the map are centred by OpenSeadragon (`Placement.CENTER`, not
+  turned with the map, border-box sizing) instead of a negative margin, which
+  drifted off the point at some zoom levels as drawn. The references' lead-in
+  now reads "Related:" ("Verwandt:"). Not committed, not published.
+- "Locate" centres the mark whatever the view: the viewer zooms without a
+  reference point and then pans (zooming about the point left the pan to be
+  overridden by the zoom's anchor once the map had been zoomed or dragged). Not
+  committed, not published.
+
+## 2026-10-29 - The document page: the particulars in the header
+
+- A document's page (`site/_layouts/letter.html`): the "About this document"
+  block no longer stands after the text, to the right of the page views; its
+  items (date and how it was dated, holding, extent, people, estates, places,
+  the literature, relations to other documents, condition) are in the header
+  under the summary, in columns, the long lists across the whole width. The
+  correspondents and place rows, which the header already shows, are not said
+  twice. The page is one column. The summary runs to 64rem, no longer 62ch.
+- The translation tab no longer says "The English translation, page by page."
+  (the string removed); only "Not yet translated" remains.
+- The date badges read "[date inferred]" and "[date supplied]" ("[Datum
+  erschlossen]", "[Datum ergänzt]"); the second changed to match the first.
+- Verified: build and `pipeline/verify_site.py` clean. Not committed, not
+  published.
+
+## 2026-10-29 - The document page, lighter before the content
+
+Worked from the editor's reading of /documents/app5314550221/3/: too much before
+the text. The page now runs: a navigation line (the holding's reference, the
+archival and the chronological browsers, the archive's name no longer repeated);
+"Document 3 · Confirmation"; the date with its badge; one line of facts (the
+place of writing only where known - no more "Unknown" -, the printed edition's
+citation, the number of manuscript pages where there are page images); the
+relations; the summary clamped to four lines with a "Read more" button
+(`letter.js`; the two summaries differ in length, so the check reruns on a
+language change); the people and places named as small tags (the estates in focus
+and the other places merged, each once, the first twelve shown, the rest behind
+"+N"; people with a dashed outline); then a folded "About this document" (the
+holding and archive, how the date was reached where it is not the document's own,
+the literature that cites it, a duplicate or parent). Left off the page, kept in
+the data: the archival number (it is the document's number), the extent and
+condition lines ("5 uncertain readings" and the like), the "date source" line
+where the date is the document's own.
+- The glossary switch is removed; the marks are always on (`glossary.js`
+  ignores the old stored choice).
+- A page's "lines a-b" only where the text is matched line by line to the
+  manuscript (not for paragraph transcriptions, not for tables, which keep
+  their entry range); the note "Transcribed by paragraph..." is said once, above
+  the first page, not on every page; a scan's caption is "Open full size", not
+  its file name. Strings `summary_more`, `summary_less`, `open_full`, both
+  languages.
+- Verified: build and `pipeline/verify_site.py` clean. Not committed, not
+  published.
+- The navigation line slimmed (same day): "‹ 53/1455/0/2/21" (the holding) on the
+  left, the arrows to the neighbouring documents on the right, with no "Holding"
+  and "Archival order" labels; a second pair, "By date" ("Nach Datum"), only
+  where the date order differs from the holding's. The page count left the line
+  of facts; it is under "About this document" ("Extent"), for documents with
+  page images. Not committed, not published.
+- The first pair of arrows is labelled "Archival order" again, and a thin
+  vertical rule stands between it and the "By date" pair. Not committed, not
+  published.
+
+## 2026-10-29 - Helper text off the pages; the texts one width
+
+- Removed (both languages): the hints under a document's tabs ("One line per
+  manuscript line, with broken words hyphenated and stray break marks removed.
+  Editorial decisions are set out in About the edition.", "The same text with lines
+  flowed together into continuous prose."), the note on every page of a paragraph
+  transcription ("Transcribed by paragraph, not line by line..." and its printed
+  edition twin), the "From the electronic text of a printed edition: there is no
+  page image." and "No scan matched to this page." notices, the "as printed" hints
+  of the literature, newspaper and place pages, and the newspapers list's caveat.
+  Shortened: "Not yet translated." (the tab's note), the translation hints
+  ("English translation by Claude."), the translation caveat of the literature and
+  newspaper pages, the copyright note ("Under copyright: a summary of the contents
+  stands in place of the text."), the cemeteries' identifier note. Rule recorded
+  in HOUSE_STYLE.
+- A paragraph transcription (`by_paragraph`) is set without line numbers
+  (`<ol class="dip" data-para="1">`); a page with no image has no image pane and
+  the text takes the width (`.pane-pair.no-scan`); a document with no scans at all
+  has no "Hide scans" box.
+- The transcription, the reading and the English stand in one width (the
+  measure; the transcription's line numbers outside it).
+- Verified: build_site_data, Jekyll build and `pipeline/verify_site.py` clean.
+  Not committed, not published.
+
+## 2026-10-29 - The site no longer calls itself "the edition"
+
+Scan of the built site: about 1,000 mentions on 294 pages beside the nav and
+footer on every page. Changed, in both languages:
+- The About page is "About" ("Über") in the nav, the footer and the home card;
+  its address is /about/ and /de/ueber/ (the old addresses redirect); its
+  headings and sentences no longer say "the edition" (The documents; Citing and
+  reusing). The footer reads "630 documents from the Trąbczyn estate, transcribed
+  from the originals in archives at ...". The overview's count label is "Size";
+  the list label "In the edition" is "In the documents" ("In den Dokumenten").
+  The rights page says "the site".
+- The prose, 440 sentences from 170 source files (holdings' about/process
+  texts, the hand-made links' sentences, the literature and newspaper accounts,
+  the people and genealogy notes, the glossary, the timeline, the Hohenlohe page,
+  three summaries): the sentences that said only what the site holds or follows
+  ("The edition follows the documents", "Where it differs from the edition's
+  documents, the notes say so", "The edition has 870 pages" -> "It has 870
+  pages") are cut or turned to "it"; "the edition's X" is "the X"; "not in the
+  edition" is "not included"; facts kept ("The edition has the decree of ...:
+  appointed by ..." -> "The decree of ...: appointed by ..."). Two raw
+  repository slugs shown to readers (`boniecki1900`) became "Boniecki (1900)".
+  The place pages' footnote link is "The document."; a person source "editor"
+  shows as "the editor". The pipeline scripts carry the same changes
+  (place_pages.py, person_pages.py), and the dataset's date-basis strings were
+  changed in place (the same rules).
+- Kept: "edition" meaning a real edition (the printed Kodeks, a source edition, "the
+  second edition of 1776", URLs of the digital libraries).
+- Rule written into HOUSE_STYLE. Verified: build, `pipeline/verify_site.py`,
+  `check_unit_text.py` and the literature index check clean. Not committed, not
+  published.
+- Not changed, to ask the editor: displayed notes that mention the repository
+  itself (NEEDS_CONFIRMATION, `reference/places.yml`, "the editor's ruling") on
+  some holding and literature pages, which read as method talk; the
+  `cache/summaries-raw*` copies of three summaries (on the editor's machine).

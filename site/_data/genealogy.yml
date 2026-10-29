@@ -61,8 +61,8 @@ people:
     children:
     - name: Michalina Zofia
       dates: 1778–1851
-      note: the edition's Michalina z Prusimskich Dąbska, later Miączyńska, the only child; married first
-        Józef Dąmbski, then, from about 1814, Stanisław Miączyński
+      note: Michalina z Prusimskich Dąbska, later Miączyńska, the only child; married first Józef Dąmbski,
+        then, from about 1814, Stanisław Miączyński
       link: prusimska
       source: minakowska2026prusimski/c03; pachonski1982/584
       children:
@@ -84,9 +84,9 @@ people:
         link: miaczynski-wlodzimierz
         note_source: editor
         note_sources_en:
-        - text: the edition
+        - text: the editor
         note_sources_de:
-        - text: die Edition
+        - text: der Herausgeber
       - name: Mieczysław Miączyński
         dates: 1818–1887
         note: married Maria née Słubicka (1828–1865)
@@ -167,20 +167,20 @@ people:
     heading_de: Helena Zielonacka
     bio: 'Helena Zielonacka, daughter of Andrzej Zielonacki and Joanna née Wierusz-Kowalska, and the wife
       of Józef Ścibor-Chełmski of Chełm and Wola, arms Ostoja, heir of Łukomia and Łomowo - the Józef
-      whom the edition''s decree of 1728 names with his brother Franciszek, and whom Boniecki''s article
-      records as her husband. Through her the database''s page carries the Chełmski line: the canon Heliodor
-      and Stanisław, Treasurer of Wschowa, the brothers of the boundary decree of 1775, and Tomasz''s
-      line to the Stanisław of 1795-1867 and the Stanisław Józef of 1807-1877. The database gives her
-      no certain dates - "born possibly in 1700" is its estimate, and none is shown here; the record of
-      1727 has her already married.'
+      whom the decree of 1728 names with his brother Franciszek, and whom Boniecki''s article records
+      as her husband. Through her the database''s page carries the Chełmski line: the canon Heliodor and
+      Stanisław, Treasurer of Wschowa, the brothers of the boundary decree of 1775, and Tomasz''s line
+      to the Stanisław of 1795-1867 and the Stanisław Józef of 1807-1877. The database gives her no certain
+      dates - "born possibly in 1700" is its estimate, and none is shown here; the record of 1727 has
+      her already married.'
     bio_de: 'Helena Zielonacka, Tochter des Andrzej Zielonacki und der Joanna geb. Wierusz-Kowalska, und
       die Frau des Józef Ścibor-Chełmski von Chełm und Wola, Wappen Ostoja, Erbe von Łukomia und Łomowo
-      - der Józef, den das Dekret der Edition von 1728 neben seinem Bruder Franciszek nennt, und den Bonieckis
-      Artikel als ihren Mann verzeichnet. Durch sie trägt die Seite der Datenbank die Linie der Chełmski:
-      den Domherrn Heliodor und Stanisław, Schatzmeister von Wschowa, die Brüder des Grenzdrechts von
-      1775, und die Linie des Tomasz zu dem Stanisław von 1795-1867 und dem Stanisław Józef von 1807-1877.
-      Die Datenbank gibt ihr keine sicheren Daten - "vielleicht 1700 geboren" ist ihre Schätzung, und
-      keines wird hier gezeigt; die Aufzeichnung von 1727 hat sie bereits verheiratet.'
+      - der Józef, den das Dekret von 1728 neben seinem Bruder Franciszek nennt, und den Bonieckis Artikel
+      als ihren Mann verzeichnet. Durch sie trägt die Seite der Datenbank die Linie der Chełmski: den
+      Domherrn Heliodor und Stanisław, Schatzmeister von Wschowa, die Brüder des Grenzdrechts von 1775,
+      und die Linie des Tomasz zu dem Stanisław von 1795-1867 und dem Stanisław Józef von 1807-1877. Die
+      Datenbank gibt ihr keine sicheren Daten - "vielleicht 1700 geboren" ist ihre Schätzung, und keines
+      wird hier gezeigt; die Aufzeichnung von 1727 hat sie bereits verheiratet.'
     parents:
     - name: Andrzej Zielonacki
       source: minakowska2026zielonacka/c01
@@ -257,7 +257,7 @@ people:
         url: /de/literatur/minakowska2026zielonacka/#p-c02
     - name: Heliodor
       note: canon of Poznań by 1765 (the page and Boniecki); the boundary decree of 1775 calls him canon
-        of Chełmno - the offices may be of different years, and the edition follows the decree for 1775
+        of Chełmno - the offices may be of different years, and the decree is taken for 1775
       source: minakowska2026zielonacka/c02
       note_source: app53170koningr145-1
       sources_en:
@@ -276,8 +276,8 @@ people:
         url: /documents/app53170koningr145/1/
     - name: Stanisław
       note: 'Treasurer of Wschowa: the page and Boniecki give the title under 1779, a document of April
-        1778 already gives it, and the edition follows the document; at law with Katarzyna Prusimska in
-        1761-1763, and from 1766 heir of Łukomia, Łomowo, Imielno and Bukowo'
+        1778 already gives it; at law with Katarzyna Prusimska in 1761-1763, and from 1766 heir of Łukomia,
+        Łomowo, Imielno and Bukowo'
       source: minakowska2026zielonacka/c02
       note_source: app53170koningr117-4; app536045-1
       sources_en:
@@ -346,21 +346,21 @@ people:
           the great-grandchildren
         url: /de/literatur/minakowska2026zielonacka/#p-c02
     notes: 'The page''s Notes name two sources: Boniecki''s Herbarz polski (t. II, s. 364, the article
-      Chełmscy h. Ostoja, where her marriage to Józef is recorded - the edition holds the branch that
-      concerns it as `boniecki1900`), and a regest of the Konin municipal court''s record of 1727 (Teki
-      Dworzaczka, nr 13049, Nr. 76): Józef, "heir of the estates of Łukom and Łomowo", having received
-      3,000 złp from Kazimierz Zielonacki for Helena, daughter of the late Andr Zielonacki by Joanna Kowalska,
-      now his wife, his ward as well, recorded the sum on his own estates against her portion from her
-      father''s (fol. 196 verso). The whole page, these included, is kept in the work''s folder; none
-      of it is shown here.'
+      Chełmscy h. Ostoja, where her marriage to Józef is recorded - the branch that concerns it is in
+      Boniecki (1900)), and a regest of the Konin municipal court''s record of 1727 (Teki Dworzaczka,
+      nr 13049, Nr. 76): Józef, "heir of the estates of Łukom and Łomowo", having received 3,000 złp from
+      Kazimierz Zielonacki for Helena, daughter of the late Andr Zielonacki by Joanna Kowalska, now his
+      wife, his ward as well, recorded the sum on his own estates against her portion from her father''s
+      (fol. 196 verso). The whole page, these included, is kept in the work''s folder; none of it is shown
+      here.'
     notes_de: 'Die Notes der Seite nennen zwei Quellen: Bonieckis Herbarz polski (T. II, S. 364, den Artikel
-      Chełmscy h. Ostoja, wo ihre Ehe mit Józef steht - die Edition hält den Zweig, den sie betrifft,
-      als `boniecki1900`), und ein Regest der Aufzeichnung des Stadtrechts von Konin von 1727 (Teki Dworzaczka,
-      nr 13049, Nr. 76): Józef, "Erbherr der Güter Łukom und Łomowo", der 3.000 złp von Kazimierz Zielonacki
-      für Helena empfangen hatte, die Tochter des verstorbenen Andrzej Zielonacki und der Joanna Kowalska,
-      jetzt seine Frau, zugleich seine Mündel, trug die Summe auf seinen eigenen Gütern gegen ihre Portion
-      aus den Gütern ihres Vaters ein (fol. 196 verso). Die ganze Seite, diese eingeschlossen, liegt im
-      Ordner des Werks; nichts davon wird hier gezeigt.'
+      Chełmscy h. Ostoja, wo ihre Ehe mit Józef steht - den Zweig, den sie betrifft, gibt Boniecki (1900)),
+      und ein Regest der Aufzeichnung des Stadtrechts von Konin von 1727 (Teki Dworzaczka, nr 13049, Nr.
+      76): Józef, "Erbherr der Güter Łukom und Łomowo", der 3.000 złp von Kazimierz Zielonacki für Helena
+      empfangen hatte, die Tochter des verstorbenen Andrzej Zielonacki und der Joanna Kowalska, jetzt
+      seine Frau, zugleich seine Mündel, trug die Summe auf seinen eigenen Gütern gegen ihre Portion aus
+      den Gütern ihres Vaters ein (fol. 196 verso). Die ganze Seite, diese eingeschlossen, liegt im Ordner
+      des Werks; nichts davon wird hier gezeigt.'
     literature_passages:
     - boniecki1900/c04
     - minakowska2026zielonacka/c02
@@ -421,10 +421,10 @@ people:
     marriages:
     - name: Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz
       dates: 1778–1851
-      note: 'the edition''s Michalina z Prusimskich Dąbska, later Miączyńska, only daughter of the Starost
-        Antoni Prusimski; married in Warsaw on 17 August 1810 - the page''s date rests on the marriage
-        act it cites (Warsaw ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka), while the edition''s
-        entry says about 1814, inferred from the letters of 1815 that already name him her husband: NEEDS_CONFIRMATION'
+      note: 'Michalina z Prusimskich Dąbska, later Miączyńska, only daughter of the Starost Antoni Prusimski;
+        married in Warsaw on 17 August 1810 - the page''s date rests on the marriage act it cites (Warsaw
+        ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka), while the entry says about 1814, inferred
+        from the letters of 1815 that already name him her husband: NEEDS_CONFIRMATION'
       link: prusimska
       source: minakowska2026miaczynski/c03
       note_source: minakowska2026miaczynski
@@ -476,19 +476,19 @@ people:
     - name: Włodzimierz Miączyński
       dates: 1811–1879
       source: minakowska2026miaczynski/c04
-      note: the edition's entry; heir of the Trąbczyn estate, living there in 1860; died 20 December 1879
+      note: the entry; heir of the Trąbczyn estate, living there in 1860; died 20 December 1879
       link: miaczynski-wlodzimierz
       note_source: editor
       sources_en:
       - text: Minakowska (2026, Stanisław Adam Miączyński), Wnuki
         url: /literature/minakowska2026miaczynski/#p-c04
       note_sources_en:
-      - text: the edition
+      - text: the editor
       sources_de:
       - text: Minakowska (2026, Stanisław Adam Miączyński), Wnuki
         url: /de/literatur/minakowska2026miaczynski/#p-c04
       note_sources_de:
-      - text: die Edition
+      - text: der Herausgeber
     - name: Mieczysław Miączyński
       dates: 1818–1887
       source: minakowska2026miaczynski/c04
@@ -593,7 +593,7 @@ people:
       dates - "born probably in 1560" is its estimate, and none is shown here - and no parents; what carries
       his line is the marriage of about 1590 (again its estimate) to Anna Cerekwicka, their son Stanisław,
       and the grandchildren through him, among them the second Wojciech, whose marriage to Marianna née
-      Zawadzka carries the line to the brothers of the decree of 1644 that the edition's documents name.
+      Zawadzka carries the line to the brothers of the decree of 1644 that the documents name.
     bio_de: Wojciech Otto-Trąmpczyński, aus der Familie, der Trąbczyn vor den Prusimskis gehörte und die
       sich nach dem Gut nannte, mit dem Beinamen Otto - dem "Otha" der Aufzeichnung von 1614, in der sein
       Sohn Stanisław die Hälfte der Güter für die Mitgift der Braut Anna Słonecka verpfändet. Die Datenbank
@@ -601,7 +601,7 @@ people:
       gezeigt - und keine Eltern; was seine Linie trägt, ist die Ehe um 1590 (wieder ihre Schätzung) mit
       Anna Cerekwicka, ihr Sohn Stanisław, und die Enkel durch ihn, unter ihnen der zweite Wojciech, dessen
       Ehe mit Marianna geb. Zawadzka die Linie zu den Brüdern des Dekrets von 1644 trägt, die die Dokumente
-      der Edition nennen.
+      nennen.
     marriages:
     - name: Anna Cerekwicka
       note: the database's marriage year (about 1590) is its estimate and is not shown; her dates are

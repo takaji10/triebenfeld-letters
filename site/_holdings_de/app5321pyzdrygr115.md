@@ -56,7 +56,7 @@ Datum; der Titel des Bandes nennt die Jahre 1791 und 1792. <!-- context -->
 ### Die Orte der Tabelle
 
 Die Zeilen sind die Dörfer der Pfarrei Trąbczyn. Die Schmiede „Kuznia
-Maryantów“ der Tabelle ist das Marianton der Edition, Mariantów, wo das
+Maryantów“ der Tabelle ist das Marianton, Mariantów, wo das
 hohenlohesche Patrimonialgericht für Trąbczyn saß („Actum Marianton“) - die
 Bestimmung des Herausgebers <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. Die eine Zeile „Hollendry Luzne Stare i
 nowe z Hutą“ nennt beide Olęder-Kolonien des Gutes zusammen, die alte und
@@ -101,12 +101,12 @@ Herausgeber es tippte, die diakritischen Zeichen nur, wo er sie gab.
 
 Die Tabelle hat keine Spalte der Eintragsnummern: die Pfarrei steht in der
 ersten Zelle, gefüllt in der Zeile des Dorfes selbst und leer unter ihr, und
-die Zahlen folgen. Die Tabellen-Maschinerie der Edition sortierte eine
+die Zahlen folgen. Die Tabellen-Maschinerie sortierte eine
 Tabelle nach den Nummern ihrer ersten Spalte und blieb bei einer Tabelle
 ohne solche stehen. Sie wurde erweitert, und die Erweiterung wurde geprüft,
 wie geprüft wird, wenn gemeinsam genutzter Code geändert wird: die Version
 vor der Änderung, aus dem Repository genommen, und die neue wurden über
-jede Tabelle geführt, die die Edition schon trägt, und die beiden Ausgaben
+jede Tabelle geführt, die schon gebaut ist, und die beiden Ausgaben
 stimmen genau überein (`pipeline/review/verify_table_of_diff.py`; 12
 Tabellendokumente in 5 Einheiten).
 

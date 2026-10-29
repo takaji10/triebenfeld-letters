@@ -30,12 +30,12 @@ en:
     sources: Sources
     newspapers: Newspapers
     literature: Literature
-    about: About the edition
+    about: About
   foot: >-
-    A digital edition of %d documents from the Trąbczyn estate, transcribed from the
-    originals in archives at Neuenstein, Berlin, Poznań and Warsaw. See
-  foot_link: About the edition
-  foot_tail: for editorial method and known limitations.
+    %d documents from the Trąbczyn estate, transcribed from the originals in
+    archives at Neuenstein, Berlin, Poznań and Warsaw.
+  foot_link: About
+  foot_tail: ""
   foot_rights: Licences, credits and privacy
 
   browse_title: Browse the documents
@@ -142,10 +142,12 @@ en:
   map_maker: Maker
   map_kind: Kind
   map_source_link: The map at the archive
-  map_marks_h2: The places marked on it
+  map_marks_h2: Index
   map_fit_label: Georeference
-  map_today: today
-  map_over_osm: The map laid over OpenStreetMap
+  map_today: OSM
+  map_locate: Locate
+  map_refs: "Related:"
+  map_over_osm: View map overlay on OpenStreetMap
   map_north: North up
   map_asdrawn: As drawn
   map_inscription: Inscription
@@ -183,16 +185,12 @@ en:
   gl_lang_pl: Polish
   gl_lang_de_la: German, from Latin
   gl_lang_de_fr: German, from French
-  hint_diplomatic: >-
-    One line per manuscript line, with broken words hyphenated and stray break
-    marks removed.
-  hint_reading: The same text with lines flowed together into continuous prose.
-  hint_translation_none: >-
-    Not yet translated. Translations are added page by page; the German is
-    complete and searchable meanwhile.
-  hint_translation_status: >-
-    The English translation, page by page.
+  hint_translation_none: "Not yet translated."
   about_doc: About this document
+  summary_more: Read more
+  nav_by_date: By date
+  summary_less: Show less
+  open_full: Open full size
   archival_number: Archival number
   correspondents: Correspondents
   correspondents_to: to
@@ -204,9 +202,6 @@ en:
   sideways: Written sideways on the page
   office_note: Written by the receiving office
   margin_note: Written in the margin
-  by_paragraph: "Transcribed by paragraph, not line by line: each numbered entry is a paragraph of the manuscript."
-  by_paragraph_printed: "The whole entry of the printed edition, one paragraph to each numbered line."
-  noscan_printed: "From the electronic text of a printed edition: there is no page image."
   forms_medieval: "Medieval:"
   forms_renamed: "Renamed:"
   forms_source: "Source"
@@ -224,7 +219,6 @@ en:
   places_named_h2: Places named in the documents
   duplicate: Duplicate
   part_of: Part of
-  editorial_note: Editorial decisions are set out in
   summary_label: Summary
 
   # page prose
@@ -240,7 +234,7 @@ en:
   fig_span: span
   fig_people: people identified
   fig_places: places of writing
-  card_about: About this edition
+  card_about: About
   home_h2: About this project
   home_p1: >-
     Poland was partitioned out of existence between 1772 and 1795. Trąbczyn ended
@@ -293,7 +287,7 @@ en:
   eras_held: Who held the estate
   eras_browse: Read the %d documents of this era
   sources_h1: Sources
-  sources_kind_count: In the edition
+  sources_kind_count: Size
   sources_kind_holdings: holdings
   sources_kind_items: items
   sources_kind_works: works
@@ -315,9 +309,11 @@ en:
   tools_date: Date
   tools_archive: Archive
   tools_all_archives: All archives
+  tools_type: Type
+  tools_all_types: All types
   tools_shown: Showing %s of %s
-  badge_supplied: "[supplied]"
-  badge_inferred: "[inferred]"
+  badge_supplied: "[date supplied]"
+  badge_inferred: "[date inferred]"
   map_link: Map (OpenStreetMap)
   unit_tab_about: About this holding
   unit_tab_documents: Documents
@@ -325,14 +321,9 @@ en:
   unit_no_about: A description of this holding has not been written yet.
   unit_no_process: An account of how this holding was prepared has not been written yet.
   lit_h1: Literature
-  lit_caveat: >-
-    The English translation was made by Claude, an AI model, and has not
-    been checked against the original as a whole. Quote from the original,
-    and read any passage you rely on there.
+  lit_caveat: "English translation by Claude, an AI model, not checked against the original as a whole."
   alt_litpage: Page from %s
-  lit_summary_only: >-
-    Under copyright, so not shown here in full: the edition keeps the text
-    for its own questions and gives a detailed summary of its contents.
+  lit_summary_only: "Under copyright: a summary of the contents stands in place of the text."
   lit_summary_h: Summary of the contents
   lit_author: Author
   lit_published: Published
@@ -356,24 +347,17 @@ en:
   lit_english: English
   lit_view_label: Text shown
   lit_view_en: English
-  lit_hint_orig: The work as printed, page by page.
-  lit_hint_en: The English translation by Claude, page by page; the original decides.
+  lit_hint_en: "English translation by Claude."
   lit_missing: "This page is not marked in the %s: its text stands under the page before."
   lit_mentions: "In the literature: %d passages"
   lit_mentions_one: "In the literature: one passage"
-  lit_in_edition: In the edition
+  lit_in_edition: In the documents
   lit_in_literature: In the literature
   lit_doc: "%s, document %s"
   lit_sub_head: Attached to the work above
   lit_parent: Attached to
   np_h1: Newspapers
-  np_caveat: >-
-    The English translation was made by Claude, an AI model, and has not
-    been checked against the original as a whole. Quote from the original,
-    and read any passage you rely on there.
-  np_caveat_list: >-
-    Each item is transcribed as printed and given with an English translation
-    made by Claude; the original decides.
+  np_caveat: "English translation by Claude, an AI model, not checked against the original as a whole."
   alt_clipping: Clipping of %s
   np_newspaper: Newspaper
   np_published: Published
@@ -381,8 +365,7 @@ en:
   np_caveat_editor: The English translation is the one supplied with the transcription.
   np_mentions: "In the newspapers: %d passages"
   np_mentions_one: "In the newspapers: one passage"
-  np_hint_en: The English translation by Claude; the original decides.
-  np_hint_orig: The item as printed, line by line.
+  np_hint_en: "English translation by Claude."
   place_more: More about the place
   place_forms: Dated forms of the name
   place_on_places: The place in the index of places
@@ -396,14 +379,11 @@ en:
   cem_th_born: Born
   cem_th_died: Died
   cem_th_note: Note
-  cem_gid_note: >-
-    A number in brackets after a name is the survey's genealogical
-    identifier, kept as it was noted.
+  cem_gid_note: "Numbers in brackets are the survey's genealogical identifiers."
   cem_sources_h2: Sources
   cem_read: Read about this cemetery
   place_source_link: The page as the Wayback Machine archived it
-  place_hint_en: The English translation by Claude; the original decides.
-  place_hint_orig: The source as it prints, paragraph for paragraph.
+  place_hint_en: "English translation by Claude."
   f_unit: Holding
   f_era: Era
   f_anyera: All eras
@@ -441,12 +421,12 @@ de:
     sources: Quellen
     newspapers: Zeitungen
     literature: Literatur
-    about: Über die Edition
+    about: Über
   foot: >-
-    Eine digitale Edition von %d Dokumenten zum Gut Trąbczyn, transkribiert nach den
-    Originalen in Archiven in Neuenstein, Berlin, Posen und Warschau. Siehe
-  foot_link: Über die Edition
-  foot_tail: für die Editionsgrundsätze und die bekannten Grenzen.
+    %d Dokumente zum Gut Trąbczyn, transkribiert nach den Originalen in Archiven in
+    Neuenstein, Berlin, Posen und Warschau.
+  foot_link: Über
+  foot_tail: ""
   foot_rights: Lizenzen, Nachweise und Datenschutz
 
   browse_title: Dokumente durchsuchen
@@ -553,10 +533,12 @@ de:
   map_maker: Kartograf
   map_kind: Art
   map_source_link: Die Karte im Archiv
-  map_marks_h2: Die darauf bezeichneten Orte
+  map_marks_h2: Register
   map_fit_label: Georeferenz
-  map_today: heute
-  map_over_osm: Die Karte über OpenStreetMap gelegt
+  map_today: OSM
+  map_locate: Zeigen
+  map_refs: "Verwandt:"
+  map_over_osm: Kartenüberlagerung auf OpenStreetMap ansehen
   map_north: Norden oben
   map_asdrawn: Wie gezeichnet
   map_inscription: Inschrift
@@ -594,16 +576,12 @@ de:
   gl_lang_pl: Polnisch
   gl_lang_de_la: Deutsch, aus dem Lateinischen
   gl_lang_de_fr: Deutsch, aus dem Französischen
-  hint_diplomatic: >-
-    Eine Zeile je Handschriftenzeile, getrennte Wörter mit Bindestrich, irrtümliche
-    Trennzeichen entfernt.
-  hint_reading: Derselbe Text, die Zeilen zu fortlaufender Prosa zusammengeführt.
-  hint_translation_none: >-
-    Noch nicht übersetzt. Die Übersetzungen werden Seite für Seite ergänzt; der
-    deutsche Text ist unterdessen vollständig und durchsuchbar.
-  hint_translation_status: >-
-    Die englische Übersetzung, Seite für Seite.
+  hint_translation_none: "Noch nicht übersetzt."
   about_doc: Über dieses Dokument
+  summary_more: Weiterlesen
+  nav_by_date: Nach Datum
+  summary_less: Weniger anzeigen
+  open_full: In voller Größe öffnen
   archival_number: Archivnummer
   correspondents: Korrespondenten
   correspondents_to: an
@@ -615,9 +593,6 @@ de:
   sideways: Quer auf die Seite geschrieben
   office_note: Vermerk der empfangenden Behörde
   margin_note: Am Rand geschrieben
-  by_paragraph: "Absatzweise transkribiert, nicht Zeile für Zeile: jeder nummerierte Eintrag ist ein Absatz der Handschrift."
-  by_paragraph_printed: "Der ganze Eintrag der gedruckten Edition, ein Absatz je nummerierter Zeile."
-  noscan_printed: "Aus dem elektronischen Text einer gedruckten Edition: es gibt kein Seitenbild."
   forms_medieval: "Mittelalterlich:"
   forms_renamed: "Umbenannt:"
   forms_source: "Quelle"
@@ -635,7 +610,6 @@ de:
   places_named_h2: In den Dokumenten genannte Orte
   duplicate: Doppelstück
   part_of: Teil von
-  editorial_note: Die editorischen Entscheidungen sind dargelegt in
   summary_label: Regest
   # page prose
   home_lede: >-
@@ -650,7 +624,7 @@ de:
   fig_span: Zeitraum
   fig_people: Personen bestimmt
   fig_places: Ausstellungsorte
-  card_about: Über die Edition
+  card_about: Über
   home_h2: Über dieses Projekt
   home_p1: >-
     Polen wurde zwischen 1772 und 1795 aufgeteilt und hörte auf zu bestehen.
@@ -727,9 +701,11 @@ de:
   tools_date: Datum
   tools_archive: Archiv
   tools_all_archives: Alle Archive
+  tools_type: Art
+  tools_all_types: Alle Arten
   tools_shown: "%s von %s angezeigt"
-  badge_supplied: "[ergänzt]"
-  badge_inferred: "[erschlossen]"
+  badge_supplied: "[Datum ergänzt]"
+  badge_inferred: "[Datum erschlossen]"
   map_link: Karte (OpenStreetMap)
   unit_tab_about: Über diesen Bestand
   unit_tab_documents: Dokumente
@@ -737,15 +713,9 @@ de:
   unit_no_about: Eine Beschreibung dieses Bestandes ist noch nicht geschrieben.
   unit_no_process: Ein Bericht über die Bearbeitung dieses Bestandes ist noch nicht geschrieben.
   lit_h1: Literatur
-  lit_caveat: >-
-    Die englische Übersetzung hat Claude, ein KI-Modell, angefertigt; sie
-    ist nicht als Ganzes am Original geprüft. Zitieren Sie nach dem Original
-    und lesen Sie dort jede Stelle nach, auf die Sie sich stützen.
+  lit_caveat: "Englische Übersetzung von Claude, einem KI-Modell, nicht als Ganzes mit dem Original verglichen."
   alt_litpage: Seite aus %s
-  lit_summary_only: >-
-    Urheberrechtlich geschützt und darum hier nicht vollständig gezeigt: Die
-    Edition hält den Text für ihre eigenen Fragen und gibt eine ausführliche
-    Zusammenfassung seines Inhalts.
+  lit_summary_only: "Urheberrechtlich geschützt: anstelle des Textes steht eine Inhaltsübersicht."
   lit_summary_h: Zusammenfassung des Inhalts
   lit_author: Verfasser
   lit_published: Erschienen
@@ -769,24 +739,17 @@ de:
   lit_english: Englischen
   lit_view_label: Angezeigter Text
   lit_view_en: Englisch
-  lit_hint_orig: Das Werk, wie es gedruckt ist, Seite für Seite.
-  lit_hint_en: Die englische Übersetzung von Claude, Seite für Seite; maßgeblich ist das Original.
+  lit_hint_en: "Englische Übersetzung von Claude."
   lit_missing: "Diese Seite ist im %s nicht bezeichnet: Ihr Text steht unter der vorigen Seite."
   lit_mentions: "In der Literatur: %d Stellen"
   lit_mentions_one: "In der Literatur: eine Stelle"
-  lit_in_edition: In der Edition
+  lit_in_edition: In den Dokumenten
   lit_in_literature: In der Literatur
   lit_doc: "%s, Dokument %s"
   lit_sub_head: Zum obigen Werk gehörig
   lit_parent: Gehört zu
   np_h1: Zeitungen
-  np_caveat: >-
-    Die englische Übersetzung wurde von Claude, einem KI-Modell, gemacht und
-    ist nicht als Ganzes gegen das Original geprüft. Zitiere das Original,
-    und lies jede Stelle, auf die du dich stützt, dort nach.
-  np_caveat_list: >-
-    Jedes Stück ist abgedruckt wie gedruckt und mit einer englischen
-    Übersetzung von Claude gegeben; maßgeblich ist das Original.
+  np_caveat: "Englische Übersetzung von Claude, einem KI-Modell, nicht als Ganzes mit dem Original verglichen."
   alt_clipping: Ausschnitt aus %s
   np_newspaper: Zeitung
   np_published: Erschienen
@@ -794,8 +757,7 @@ de:
   np_caveat_editor: Die englische Übersetzung ist die mit der Transkription gelieferte.
   np_mentions: "In den Zeitungen: %d Stellen"
   np_mentions_one: "In den Zeitungen: eine Stelle"
-  np_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
-  np_hint_orig: Das Stück, wie es gedruckt ist, Zeile für Zeile.
+  np_hint_en: "Englische Übersetzung von Claude."
   place_more: Mehr über den Ort
   place_forms: Datierte Namensformen
   place_on_places: Der Ort im Verzeichnis der Orte
@@ -809,14 +771,11 @@ de:
   cem_th_born: Geboren
   cem_th_died: Gestorben
   cem_th_note: Anmerkung
-  cem_gid_note: >-
-    Eine Zahl in Klammern nach einem Namen ist die genealogische Kennnummer
-    der Aufnahme, so wie sie notiert wurde.
+  cem_gid_note: "Zahlen in Klammern sind die genealogischen Kennungen der Erhebung."
   cem_sources_h2: Quellen
   cem_read: Mehr über diesen Friedhof
   place_source_link: Die Seite, wie das Wayback Machine sie archiviert hat
-  place_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
-  place_hint_orig: Die Quelle, wie sie druckt, Absatz für Absatz.
+  place_hint_en: "Englische Übersetzung von Claude."
   f_unit: Bestand
   f_era: Epoche
   f_anyera: Alle Epochen

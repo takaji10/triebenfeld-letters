@@ -4,7 +4,7 @@
 
 ## Provenance
 
-Hohenloher Zentralarchiv Neuenstein. 549 archival scans, each a two-up photograph of
+Hohenlohe-Zentralarchiv Neuenstein. 549 archival scans, each a two-up photograph of
 one or two document sides. Cropped to 872 single pages by `crop_scans.py`, with the
 bifolium cases split again by `split_spreads.py`.
 

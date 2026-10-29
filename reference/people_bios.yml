@@ -4,7 +4,7 @@
 #
 #   life     birth and death years where known. "c." marks an estimate, and
 #            "d. 1816" a death known without a birth. A person with no `life`
-#            is shown with the years in which this edition's documents name
+#            is shown with the years in which the documents name
 #            them ("documented 1804-1812"), which the build works out.
 #   bio      English. What the documents show the person doing; for a figure
 #            known to history, who they were. Nothing here goes beyond the
@@ -18,8 +18,8 @@
 
 triebenfeld:
   life: "b. c. 1760 (estimated), d. 1816"
-  bio: Peter Friedrich August von Triebenfeld, Prussian Councillor of War and Forests, managed the South Prussian estates of Hohenlohe-Ingelfingen and held his general power of attorney from 1805. He wrote most of the letters in this edition and stood surety for several of the debts he negotiated. His last letter is dated 31 January 1816, and a note of 13 April 1816 calls him deceased; his year of birth is not recorded and is estimated from his adult children.
-  bio_de: Peter Friedrich August von Triebenfeld, preußischer Kriegs- und Forstrat, verwaltete die südpreußischen Güter Hohenlohe-Ingelfingens und besaß seit 1805 dessen Generalvollmacht. Er schrieb die meisten Briefe dieser Edition und verbürgte sich für mehrere der Schulden, die er aushandelte. Sein letzter Brief ist vom 31. Januar 1816, und ein Vermerk vom 13. April 1816 nennt ihn verstorben; sein Geburtsjahr ist nicht überliefert und nach seinen erwachsenen Kindern geschätzt.
+  bio: Peter Friedrich August von Triebenfeld, Prussian Councillor of War and Forests, managed the South Prussian estates of Hohenlohe-Ingelfingen and held his general power of attorney from 1805. He wrote most of the letters and stood surety for several of the debts he negotiated. His last letter is dated 31 January 1816, and a note of 13 April 1816 calls him deceased; his year of birth is not recorded and is estimated from his adult children.
+  bio_de: Peter Friedrich August von Triebenfeld, preußischer Kriegs- und Forstrat, verwaltete die südpreußischen Güter Hohenlohe-Ingelfingens und besaß seit 1805 dessen Generalvollmacht. Er schrieb die meisten Briefe der Sammlung und verbürgte sich für mehrere der Schulden, die er aushandelte. Sein letzter Brief ist vom 31. Januar 1816, und ein Vermerk vom 13. April 1816 nennt ihn verstorben; sein Geburtsjahr ist nicht überliefert und nach seinen erwachsenen Kindern geschätzt.
 hohenlohe:
   life: "1746-1818"
   bio: Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, Prussian general and governor of Wrocław. The Prussian crown granted him estates in South Prussia in 1796 and 1797. He commanded at Jena in 1806, surrendered at Prenzlau and held no further command; he died at Sławięcice in Upper Silesia.
@@ -89,8 +89,8 @@ szepczynski:
   bio: Bartłomiej Szepczyński of Trąbczyn, a sworn court messenger. He inspected the Trąbczyn estate for Katarzyna Prusimska in 1754 and reported twice in 1767, for Antoni Prusimski, on the embankment that flooded the Olęder settlers.
   bio_de: Bartłomiej Szepczyński von Trąbczyn, vereidigter Gerichtsbote. Er besichtigte 1754 das Gut Trąbczyn für Katarzyna Prusimska und berichtete 1767 zweimal für Antoni Prusimski über den Damm, der die Olęder-Siedler überschwemmte.
 szetlewicz:
-  bio: Sebastian Szetlewicz of Szetlewko (Szetlewek), a general royal messenger. He reported to the land court at Kalisz in 1727 that he had carried a citation to the estate of Szetlew and left it on the table in the heated room. The entry was brought into the edition for his name, which shows a Szetlewicz family living at Szetlewek in the 1720s.
-  bio_de: Sebastian Szetlewicz von Szetlewko (Szetlewek), ein allgemeiner königlicher Bote. Er berichtete dem Landgericht in Kalisz 1727, dass er eine Ladung zum Gut Szetlew gebracht und auf dem Tisch im beheizten Raum zurückgelassen habe. Der Eintrag wurde um seines Namens willen in die Edition aufgenommen, denn er zeigt eine Familie Szetlewicz, die in den 1720er Jahren in Szetlewek wohnte.
+  bio: Sebastian Szetlewicz of Szetlewko (Szetlewek), a general royal messenger. He reported to the land court at Kalisz in 1727 that he had carried a citation to the estate of Szetlew and left it on the table in the heated room. The entry stands for his name, which shows a Szetlewicz family living at Szetlewek in the 1720s.
+  bio_de: Sebastian Szetlewicz von Szetlewko (Szetlewek), ein allgemeiner königlicher Bote. Er berichtete dem Landgericht in Kalisz 1727, dass er eine Ladung zum Gut Szetlew gebracht und auf dem Tisch im beheizten Raum zurückgelassen habe. Der Eintrag steht um seines Namens willen, denn er zeigt eine Familie Szetlewicz, die in den 1720er Jahren in Szetlewek wohnte.
 trampczynski:
   bio: The family that held Trąbczyn in the sixteenth and seventeenth centuries and took its name from it, with the by-name Otto. In 1589 Albertus Trąmpczyński sued his neighbour Thomas Łukomski over a pond that flooded his woods. In 1644 four brothers of the family and their widowed mother were condemned by default at the suit of their neighbour Jerzy Chełmski of Łukom.
   bio_de: Die Familie, der Trąbczyn im 16. und 17. Jahrhundert gehörte und die sich nach dem Gut nannte, mit dem Beinamen Otto. 1589 verklagte Albertus Trąmpczyński seinen Nachbarn Thomas Łukomski wegen eines Teichs, der seine Wälder überschwemmte. 1644 wurden vier Brüder der Familie und ihre verwitwete Mutter auf Klage ihres Nachbarn Jerzy Chełmski von Łukom in Abwesenheit verurteilt.
@@ -493,8 +493,8 @@ otto:
   bio: A valuer whose estimates the letters cite, among them one that put Trąbczyn at no more than 160,000 Rthl. Triebenfeld rejected it.
   bio_de: Ein Taxator, dessen Anschläge die Briefe anführen, darunter einer, der Trąbczyn auf höchstens 160.000 Rthl ansetzte. Triebenfeld verwarf ihn.
 rhode:
-  bio: Named in four letters between 1805 and 1810. The edition has not established who he was.
-  bio_de: Zwischen 1805 und 1810 in vier Briefen genannt. Wer er war, hat die Edition nicht ermittelt.
+  bio: Named in four letters between 1805 and 1810. Who he was is not established.
+  bio_de: Zwischen 1805 und 1810 in vier Briefen genannt. Wer er war, ist nicht ermittelt.
 struensee:
   life: "1735-1804"
   bio: Carl August von Struensee, Prussian minister of finance. In 1798 he had to lay the papers on the proposed exchange before the King.
@@ -594,8 +594,8 @@ chmara:
   bio: Jan Chmara, one of the two representatives of the townspeople and villages of Pszczew in the purchase of the lordship in 1804.
   bio_de: Jan Chmara, einer der beiden Vertreter der Bürger und Dörfer von Pszczew (Betsche) beim Kauf der Herrschaft 1804.
 falkenhausen:
-  bio: Named in 1809 as sent by Archduke Ferdinand, and again in 1815. The edition has not established who he was.
-  bio_de: 1809 als Abgesandter des Erzherzogs Ferdinand genannt, und erneut 1815. Wer er war, hat die Edition nicht ermittelt.
+  bio: Named in 1809 as sent by Archduke Ferdinand, and again in 1815. Who he was is not established.
+  bio_de: 1809 als Abgesandter des Erzherzogs Ferdinand genannt, und erneut 1815. Wer er war, ist nicht ermittelt.
 feller:
   bio: Named in the Pszczew contract of 1804.
   bio_de: Im Vertrag über Pszczew (Betsche) von 1804 genannt.
@@ -671,11 +671,11 @@ bulow:
   bio: Ludwig Friedrich Viktor Hans von Bülow, Prussian minister of finance from 1813. In December 1814 an order went to him and to Kircheisen to set up an inquiry into Cosmar.
   bio_de: Ludwig Friedrich Viktor Hans von Bülow, preußischer Finanzminister seit 1813. Im Dezember 1814 erging an ihn und an Kircheisen der Befehl, eine Untersuchung gegen Cosmar einzusetzen.
 goerne:
-  bio: Named in two letters of 1798 and 1800. The edition has not established who he was.
-  bio_de: In zwei Briefen von 1798 und 1800 genannt. Wer er war, hat die Edition nicht ermittelt.
+  bio: Named in two letters of 1798 and 1800. Who he was is not established.
+  bio_de: In zwei Briefen von 1798 und 1800 genannt. Wer er war, ist nicht ermittelt.
 kurnatowski:
-  bio: Named in two letters of 1815 and 1816. The edition has not established who he was.
-  bio_de: In zwei Briefen von 1815 und 1816 genannt. Wer er war, hat die Edition nicht ermittelt.
+  bio: Named in two letters of 1815 and 1816. Who he was is not established.
+  bio_de: In zwei Briefen von 1815 und 1816 genannt. Wer er war, ist nicht ermittelt.
 smidkowski:
   bio: A lessee on the Trąbczyn estates who offered in 1810 to pay several thousand Rthl at once in order to stay.
   bio_de: Ein Pächter auf den Trąbczyner Gütern, der 1810 anbot, sogleich mehrere tausend Rthl zu zahlen, um bleiben zu können.
@@ -933,8 +933,8 @@ luszczewski:
   bio: Jan Paweł Łuszczewski, secretary general of the Governing Commission in 1807 and afterwards minister of the interior of the Duchy of Warsaw. His name stands with the president's under the commission's order of 12 July and resolution of 21 July 1807.
   bio_de: Jan Paweł Łuszczewski, 1807 Generalsekretär der Regierungskommission und danach Innenminister des Herzogtums Warschau. Sein Name steht mit dem des Präsidenten unter der Anordnung der Kommission vom 12. Juli und dem Beschluss vom 21. Juli 1807.
 bischoffwerder:
-  bio: A Prussian general whom Michalina Dąbska named in July 1807, beside Hohenlohe-Ingelfingen and Sanitz, among those who had been given her father's confiscated estates. He is probably Johann Rudolf von Bischoffwerder, the favourite of King Friedrich Wilhelm II. No other document in the edition names him among the recipients.
-  bio_de: Ein preußischer General, den Michalina Dąbska im Juli 1807 neben Hohenlohe-Ingelfingen und Sanitz unter denen nannte, die die konfiszierten Güter ihres Vaters erhalten hatten. Wahrscheinlich Johann Rudolf von Bischoffwerder, der Günstling König Friedrich Wilhelms II. Kein anderes Dokument der Edition nennt ihn unter den Beschenkten.
+  bio: A Prussian general whom Michalina Dąbska named in July 1807, beside Hohenlohe-Ingelfingen and Sanitz, among those who had been given her father's confiscated estates. He is probably Johann Rudolf von Bischoffwerder, the favourite of King Friedrich Wilhelm II. No other document names him among the recipients.
+  bio_de: Ein preußischer General, den Michalina Dąbska im Juli 1807 neben Hohenlohe-Ingelfingen und Sanitz unter denen nannte, die die konfiszierten Güter ihres Vaters erhalten hatten. Wahrscheinlich Johann Rudolf von Bischoffwerder, der Günstling König Friedrich Wilhelms II. Kein anderes Dokument nennt ihn unter den Beschenkten.
 zurkowski:
   bio: Parish priest of Trąbczyn at the visitation of 1790 and 1791. Born in the diocese of Poznań in 1740 and ordained priest in 1767, he was instituted to Trąbczyn in 1785 on the presentation of Antoni Prusimski, the estate's heir and patron.
   bio_de: Pfarrer von Trąbczyn bei der Visitation von 1790 und 1791. 1740 in der Diözese Posen geboren und 1767 zum Priester geweiht, wurde er 1785 auf die Präsentation Antoni Prusimskis, des Erbherrn und Patrons des Gutes, in Trąbczyn eingesetzt.
@@ -960,8 +960,8 @@ boguslawski:
   bio: A benefactor of the church of Trąbczyn, by whom 250 złoty were placed for Masses there, as the visitation of 1791 records.
   bio_de: Ein Wohltäter der Kirche von Trąbczyn, durch den 250 Gulden für Messen angelegt wurden, wie die Visitation von 1791 festhält.
 golinska:
-  bio: A benefactress of the church of Trąbczyn, who recorded 2,000 złoty on the estate of Przespolew for 104 Masses a year, as the visitation of 1791 records. The edition knows two other women of the name from the Prusimski court books and has not shown her to be either.
-  bio_de: Eine Wohltäterin der Kirche von Trąbczyn, die 2.000 Gulden auf dem Gut Przespolew für jährlich 104 Messen verschrieb, wie die Visitation von 1791 festhält. Die Edition kennt zwei andere Frauen dieses Namens aus den Gerichtsbüchern der Prusimski-Zeit und hat sie mit keiner von ihnen gleichgesetzt.
+  bio: A benefactress of the church of Trąbczyn, who recorded 2,000 złoty on the estate of Przespolew for 104 Masses a year, as the visitation of 1791 records. Two other women of the name are known from the Prusimski court books; she is not shown to be either.
+  bio_de: Eine Wohltäterin der Kirche von Trąbczyn, die 2.000 Gulden auf dem Gut Przespolew für jährlich 104 Messen verschrieb, wie die Visitation von 1791 festhält. Zwei andere Frauen dieses Namens sind aus den Gerichtsbüchern der Prusimski-Zeit bekannt; sie ist mit keiner von ihnen gleichgesetzt.
 glowiecki:
   bio: Cistercian abbot of Ląd on the Warta. He was invited to sing the High Mass at the funeral of Paweł Prusimski at Trąbczyn in December 1754, but an unexpected frost kept him from crossing the river.
   bio_de: Zisterzienserabt von Ląd an der Warthe. Er war eingeladen, beim Begräbnis Paweł Prusimskis in Trąbczyn im Dezember 1754 das Hochamt zu singen, doch ein unerwarteter Frost hinderte ihn, den Fluss zu überqueren.

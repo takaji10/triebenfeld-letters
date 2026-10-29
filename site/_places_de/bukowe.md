@@ -23,10 +23,10 @@ hits_docs_count: 0
 Village east of Łukom. The name is an adjective for beech trees (*Buk*). According to Chodyła, *Bukowo*/*Bukowe* (which may have existed previously as a medieval-era village) or *Olędry Łomowskie* was established on the initiative of the owner of the Łukom/Łomów estates before 1789,[^6] either through a change in its legal status or by clearing land which had been long-since abandoned.[^7] It is illustrated as an Olęder settlement on a sketch of Zagórów parish from circa 1790 by Karól Perthées (Fig. 74).[^8] *Bukower Hol.* (Gilly 1802). Nazwy miejscowe Polski records the name as *Bukowo* by 1827, later as *Bukowe* (1839).[^9]
 
 [^6]: Chodyła 70
-    [The document in the edition.](/literature/chodyla2015/#p-70)
+    [The document.](/literature/chodyla2015/#p-70)
 
 [^7]: Ibid 78
-    [The document in the edition.](/literature/chodyla2015/#p-78)
+    [The document.](/literature/chodyla2015/#p-78)
 
 [^8]: Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w roku 1796," 125 (Image 251)
 

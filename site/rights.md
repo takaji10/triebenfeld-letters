@@ -20,21 +20,21 @@ The transcriptions, reading texts, English translations, summaries, notes and
 indexes are published under the
 [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You may copy, adapt and republish them, for any purpose, provided you credit
-this edition, link to the licence and say whether you changed anything. A
+the site, link to the licence and say whether you changed anything. A
 credit might read:
 
 > *Traces in the Sand: the Trąbczyn Archive*, ed. {{ r.holder }}, Oe 1 Bü 9454,
 > letter 48, [the web address of the page], CC BY 4.0.
 
 The documents are more than two hundred years old, and their own words belong
-to no one. The licence covers what this edition adds: the reading of the
+to no one. The licence covers what this site adds: the reading of the
 manuscripts, the translation and the commentary.
 
 **The literature is the exception.** The modern works on the
 [Literature]({{ '/literature/' | relative_url }}) page, among them Pachoński's
 article of 1973, Mączak's of 1968 and Szwiec's catalogue of 2009, are the
 copyright of their authors, photographers and publishers, whom each work's page
-names. Their texts and pictures, and the edition's English translations of
+names. Their texts and pictures, and the English translations of
 them, are **not** covered by the CC BY licence. They are reproduced for
 research; anyone who wants to reuse them should ask the publisher. If a
 publisher asks for a work to be taken down, that will be done. One stands
@@ -43,7 +43,7 @@ open access under its own licence: Kucharski's article of 2023
 the citation its page gives.
 
 The English translations were made by an AI model
-([About the edition]({{ '/reading-this-edition/' | relative_url }})).
+([About]({{ '/about/' | relative_url }})).
 Quote the original language for anything that matters.
 
 The software that builds the site, in the
@@ -75,7 +75,7 @@ available under the Open Database Licence.
 the United States. When you open a page, your browser sends GitHub your IP
 address and technical details such as your browser and the page you asked for.
 GitHub uses them to deliver the page and to protect its service, and may keep
-them in its server logs for a short time. The edition itself receives none of
+them in its server logs for a short time. The site itself receives none of
 this and keeps no logs. The legal basis is the legitimate interest in running a
 website (Art. 6(1)(f) GDPR). GitHub takes part in the EU–US Data Privacy
 Framework; its own terms are in the
@@ -100,7 +100,7 @@ Data protection law protects the living, so it does not cover them.
 
 **Your rights.** Under the GDPR you may ask what data about you is held, and
 have it corrected, deleted or restricted; you may object to its use and ask for
-a copy to take elsewhere. Since the edition itself holds no data about its
+a copy to take elsewhere. Since the site itself holds no data about its
 visitors, a request about server logs goes to GitHub. You may also complain to
 the data protection authority in your country.
 

@@ -23,21 +23,21 @@ hits_docs_count: 5
 Village southeast of Łazy. First mentioned as *Szetlevo* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^70] Mentioned in a 1261 document as “*Szethowo cum cocis”* (Latin for “Szetlewo with cooks,” also mentioned as such in 1280[^71]) where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery at Ląd made by Mieszko III and donated additional villages.[^72] In 1589, Nicolaus Otto-Trąmpczyński, the owner of Szetlew, was sued by other members of the Otto-Trąmpczyński family for destroying their nearby mill by diverting its watercourse and blocking the road to the mill.[^73] The most recent version of the mill was built circa 1910-1912 by W. Hauke and ceased operations in 1979.[^74] In 1775, Szetlew and the nearby village of Podbiel were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the 18th century.[^75] *Szetlewo* (Perthées 1798).
 
 [^70]: Zakrzewski, vol. 1, No. 222
-    [The document in the edition.](/documents/kdw/2/)
+    [The document.](/documents/kdw/2/)
 
 [^71]: Gąsiorowski and Kowalewicz, vol. 6, No. 27
-    [The document in the edition.](/documents/kdw/6/)
+    [The document.](/documents/kdw/6/)
 
 [^72]: Zakrzewski, vol. 1, No. 393
-    [The document in the edition.](/documents/kdw/4/)
+    [The document.](/documents/kdw/4/)
 
 [^73]: Inscriptiones, relationes, decreta [inducta] 1589 (53/6/0/-/17), 22-23v, 28-29, 32v-35v
 
 [^74]: Wikimapia, "Młyn w Szetlewku," https://wikimapia.org/22360753/pl/M%C5%82yn-w-Szetlewku, accessed 6 June 2026.
-    [The document in the edition.](https://wikimapia.org/22360753/pl/M%C5%82yn-w-Szetlewku)
+    [The document.](https://wikimapia.org/22360753/pl/M%C5%82yn-w-Szetlewku)
 
 [^75]: “Relationes-oblatae [protocollon],” 1776, 659
-    [The document in the edition.](/documents/app53170koningr145/1/#p10)
+    [The document.](/documents/app53170koningr145/1/#p10)
 
 </div>
 {% endraw %}

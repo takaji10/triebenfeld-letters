@@ -4,7 +4,7 @@
 # The texts are the corrected citation texts of 2026-10-27 (three-witness
 # OCR against the page scans; born-digital text where the digitisation has
 # one). english.md is a SUMMARY of each entry, not a translation - see
-# notes.md. visible: false - in the edition's corpus, no page on the site
+# notes.md. visible: false - in the corpus, no page on the site
 # (Nazwy is in copyright: cited entries only, invisible, per the seidel2018 precedent and the editor's instruction of 2026-10-27).
 slug: nmpol
 visible: false
@@ -22,7 +22,7 @@ pages:
   chapter: '^## '
 summary_en: >-
   Not a work read whole but a citation file: the 23 entries of the Nazwy miejscowe Polski
-  that the edition's gazetteer cites, one per heading with its volume and
+  that the gazetteer cites, one per heading with its volume and
   page, in the corrected transcription of 2026-10-27. Each entry carries the
   dictionary's own wording - the settlement's status, its administrative
   seat, its distance from the market town, its houses and inhabitants, the
@@ -41,7 +41,7 @@ summary_de: >-
   Wörterbücher selbst werden hier nicht wiederveröffentlicht; ihre Texte
   bleiben im privaten namenkundlichen Repository.
 account_en: >-
-  The 23 entries of the Nazwy miejscowe Polski that the edition's gazetteer cites, one per
+  The 23 entries of the Nazwy miejscowe Polski that the gazetteer cites, one per
   heading with its volume and page, in the corrected text of 2026-10-27.
   Brought in so the citations can be checked against the works' own words
   without opening the volumes; not a republication of the dictionaries,
@@ -58,14 +58,12 @@ account_de: >-
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  The entries of the dictionary Nazwy miejscowe Polski that the edition's
-  gazetteer cites, one per heading with its volume and page: kept so the
+  The entries of the dictionary Nazwy miejscowe Polski that the gazetteer cites, one per heading with its volume and page: kept so the
   citations can be checked against the works' own words without opening the
   volumes. The dictionaries stay whole in the private place-name repository;
   the work has no page on the site.
 brief_de: >-
-  Die Einträge des Wörterbuchs Nazwy miejscowe Polski, die das Gazetteer der
-  Edition zitiert, je Überschrift mit Band und Seite: aufgenommen, um die
+  Die Einträge des Wörterbuchs Nazwy miejscowe Polski, die das Gazetteer zitiert, je Überschrift mit Band und Seite: aufgenommen, um die
   Zitate gegen den Wortlaut der Werke prüfen zu können, ohne die Bände
   aufzuschlagen. Die Wörterbücher bleiben als Ganzes im privaten
   Ortsnamensarchiv; das Werk hat keine Seite auf der Site.

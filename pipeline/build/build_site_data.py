@@ -615,33 +615,33 @@ def main():
                         f'data-page="{p["page"]}" '
                         f'data-lines="{p["doc_line_start"]}-{p["doc_line_end"]}">')
             if len(pages) > 1:
+                # A line range only where the text is matched line by line to the
+                # manuscript; a paragraph transcription has no such lines, so a
+                # range there ("lines 4-4") says nothing (editor, 2026-10-29).
                 _where = (f'entries {_entries[0]}-{_entries[-1]}' if _entries else
+                          '' if p.get('by_paragraph') else
                           f'lines {p["doc_line_start"]}-{p["doc_line_end"]}')
                 body.append(
                     f'<div class="page-rule"><span class="page-no">Page {p["page"]}</span>'
-                    f'<span class="page-lines">{_where}</span></div>')
+                    + (f'<span class="page-lines">{_where}</span>' if _where else '')
+                    + '</div>')
             # Two panes: the manuscript image on the left, its own text on the
             # right, so a page and its scan always sit together.
             img = scans.get((r['unit'], lid, p['page']), '')
-            body.append('<div class="pane-pair">')
-            body.append('<div class="pane-scan">')
+            body.append('<div class="pane-pair' + ('' if img else ' no-scan') + '">')
             if img:
+                body.append('<div class="pane-scan">')
                 body.append(
                     f'<a class="scan-link" href="{{{{ \'/assets/scans/{img}\' | relative_url }}}}" '
                     f'target="_blank" rel="noopener">'
                     f'<img class="scan" loading="lazy" '
                     f'src="{{{{ \'/assets/scans/{img}\' | relative_url }}}}" '
                     f'alt="Manuscript page {p["page"]} of letter {lid}">'
-                    f'<span class="scan-cap">{html.escape(img)} '
-                    f', open full size</span></a>')
-            elif citation_of(r['unit'], lid):
-                # An entry of a printed edition read from its electronic text has no
-                # page image at all (the Kodeks Dyplomatyczny Wielkopolski).
-                body.append('<p class="muted noscan" data-i18n="noscan_printed">From the electronic text '
-                            'of a printed edition: there is no page image.</p>')
-            else:
-                body.append('<p class="muted noscan">No scan matched to this page.</p>')
-            body.append('</div>')
+                    f'<span class="scan-cap" data-i18n="open_full">Open full size</span></a>')
+                body.append('</div>')
+            # A page with no image (an entry of a printed edition, a page not yet
+            # matched) has no scan pane and says nothing about it: the text takes
+            # the width.
 
             body.append('<div class="pane-text">')
             # view 1 - the transcription: manuscript line breaks kept, line-end
@@ -663,14 +663,9 @@ def main():
                 side = set(p.get('sideways_lines') or [])
                 office = set(p.get('office_lines') or [])
                 margin = set(p.get('margin_lines') or [])
-                if p.get('by_paragraph') and citation_of(r['unit'], lid):
-                    body.append('<div class="sideways-note" data-i18n="by_paragraph_printed">'
-                                'The whole entry of the printed edition, one paragraph to '
-                                'each numbered line.</div>')
-                elif p.get('by_paragraph'):
-                    body.append('<div class="sideways-note" data-i18n="by_paragraph">'
-                                'Transcribed by paragraph, not line by line: each '
-                                'numbered entry is a paragraph of the manuscript.</div>')
+                # A paragraph transcription has no manuscript lines to number:
+                # its list is set without numbers (editor, 2026-10-29).
+                _para = ' data-para="1"' if p.get('by_paragraph') else ''
                 _lines = p.get('transcription', p['diplomatic']).split('\n')
                 _run = None
                 for k, ln in enumerate(_lines):
@@ -682,7 +677,7 @@ def main():
                         _run = _kind
                         if _run:
                             body.append(SET_APART_OPEN[_run])
-                        body.append('<ol class="dip" start="' + str(p['doc_line_start'] + k) + '">')
+                        body.append('<ol class="dip"' + _para + ' start="' + str(p['doc_line_start'] + k) + '">')
                     body.append('<li>' + footnote_html(r['unit'], lid, ln) + '</li>')
                 body.append('</ol>' + ('</div>' if _run else ''))
             body.append('</div>')
@@ -773,6 +768,14 @@ def main():
     # ---------- data files ----------
     # One row per archival unit, so the reader can see where a document came
     # from and the browse page can filter by holding.
+    import yaml as _yaml
+    with open(os.path.join(ROOT, 'reference', 'unit_types.yml'), encoding='utf-8') as _f:
+        _ut = _yaml.safe_load(_f)['types']
+    UNIT_TYPES = {x['slug'] for x in _ut}
+    with open(os.path.join(DATA_DIR, 'unit_types.yml'), 'w', encoding='utf-8', newline='\n') as f:
+        f.write('# Generated by build_site_data.py from reference/unit_types.yml - do not hand-edit.\n')
+        for x in _ut:
+            f.write(f'- slug: {x["slug"]}\n  en: {yaml_str(x["en"])}\n  de: {yaml_str(x["de"])}\n')
     with open(os.path.join(DATA_DIR, 'units.yml'), 'w', encoding='utf-8', newline='\n') as f:
         f.write('# Generated by build_site_data.py - do not hand-edit.\n')
         for u in UNITS:
@@ -795,9 +798,23 @@ def main():
             # card_title_de where the German differs): the archive's own title,
             # a court book's with the court first. Null where absent (or still
             # a TODO), so the card falls back to the reference.
-            for key in ('card_title', 'card_title_de'):
+            # full_title(_de): the whole translated title for the holding's own page
+            # (the card's is shortened with [...]); original_title: the archive's
+            # title in its own language, original_title_card the shortened form.
+            for key in ('card_title', 'card_title_de', 'full_title', 'full_title_de',
+                        'original_title', 'original_title_card'):
                 val = str(u.get(key) or '').strip()
                 f.write(f'  {key}: {yaml_opt(None if not val or val.upper().startswith("TODO") else val)}\n')
+            # The kinds of material (reference/unit_types.yml), one or two slugs.
+            tys = u.get('types') or []
+            if isinstance(tys, str):
+                tys = [tys]
+            tys = [x for x in tys if str(x).upper() != 'TODO']
+            for ty in tys:
+                if ty not in UNIT_TYPES:
+                    raise SystemExit(f'{u.slug}: unknown type {ty!r} (reference/unit_types.yml)')
+            f.write(f'  listed_in: {yaml_opt(u.get("listed_in") or None)}\n')
+            f.write(f'  types: [{", ".join(tys)}]\n')
             f.write(f'  description_de: {yaml_str((u.get("description_de") or "").strip())}\n')
             f.write(f'  repository: {yaml_str(u.get("repository") or "")}\n')
             f.write(f'  era: {yaml_str(u.get("era") or "")}\n')

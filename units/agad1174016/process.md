@@ -1,10 +1,10 @@
 ### Scans
 
-The editor supplied three images from the volume. Each shows two facing pages, of which one is wanted; that page was cut out of the image and the other left aside. The edition has three pages: those numbered 47, 48 and 331 in pencil at the top corner.
+The editor supplied three images from the volume. Each shows two facing pages, of which one is wanted; that page was cut out of the image and the other left aside. It has three pages: those numbered 47, 48 and 331 in pencil at the top corner.
 
 ### Transcription
 
-The editor transcribed the two entries that concern the estates, paragraph by paragraph and not line by line. The other entries on pages 47 and 48 are not transcribed, so those two page images show more text than the edition gives. The order of 12 July begins in the lower half of page 47 and ends in the upper half of page 48.
+The editor transcribed the two entries that concern the estates, paragraph by paragraph and not line by line. The other entries on pages 47 and 48 are not transcribed, so those two page images show more text than is transcribed. The order of 12 July begins in the lower half of page 47 and ends in the upper half of page 48.
 
 ### Division into documents
 
@@ -20,4 +20,4 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. Both entries were translated from the Polish, with the forms of address given in English (the Most Illustrious, the Honourable, Mrs). The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. Both entries were translated from the Polish, with the forms of address given in English (the Most Illustrious, the Honourable, Mrs). The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.

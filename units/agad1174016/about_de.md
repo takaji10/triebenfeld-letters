@@ -14,7 +14,7 @@ Unter jedem Eintrag stehen die Namen des Präsidenten Stanisław Małachowski un
 
 ### Form und Sprache
 
-Das Register ist eine Reinschrift von Schreiberhand. Die Namen unter den Einträgen hat der Schreiber nach dem Wort „podpisano“ (unterzeichnet) geschrieben, mit den Buchstaben „LS“ für die Stelle des Siegels; beides ist nicht transkribiert. Auf den Seiten 47 und 48 stehen noch drei weitere Einträge, die nicht zu dieser Edition gehören. Der Entwurf der Kommission für den Beschluss vom 21. Juli, mit den daran vorgenommenen Verbesserungen, liegt in ihren Akten: [[unit:agad11740273]]. <!-- context -->
+Das Register ist eine Reinschrift von Schreiberhand. Die Namen unter den Einträgen hat der Schreiber nach dem Wort „podpisano“ (unterzeichnet) geschrieben, mit den Buchstaben „LS“ für die Stelle des Siegels; beides ist nicht transkribiert. Auf den Seiten 47 und 48 stehen noch drei weitere Einträge, die nicht dazugehören. Der Entwurf der Kommission für den Beschluss vom 21. Juli, mit den daran vorgenommenen Verbesserungen, liegt in ihren Akten: [[unit:agad11740273]]. <!-- context -->
 
 ### Verwandte Bestände
 

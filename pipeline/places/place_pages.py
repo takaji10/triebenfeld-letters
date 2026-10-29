@@ -291,12 +291,12 @@ def main():
                 return yaml.safe_load(f) or {}
         return {}
 
-    STAND_EN = ('The place\'s own page of the edition: its description in the'
+    STAND_EN = ('The place\'s own page: its description in the'
                 ' gazetteer, with the sources cited for it, and below, the'
-                ' documents of the edition that name it.')
-    STAND_DE = ('Die eigene Seite des Ortes in der Ausgabe: seine Beschreibung'
+                ' documents that name it.')
+    STAND_DE = ('Die eigene Seite des Ortes: seine Beschreibung'
                 ' im Gazetteer, mit den für ihn zitierten Quellen, und unten'
-                ' die Dokumente der Ausgabe, die ihn nennen.')
+                ' die Dokumente, die ihn nennen.')
     auto = []
     REL_RX = re.compile(r'^(?:north|south|east|west|north-|south-|east-|west-'
                         r'|near |between |next |by |along |on the |in the )',
@@ -384,7 +384,7 @@ def main():
                     body.append(f'[^{f_["n"]}]: {f_["text"]}')
                     for r_ in (f_.get('refs') or []):
                         if r_.get('status') == 'linked' and r_.get('link'):
-                            body.append(f'    [The document in the edition.]({r_["link"]})')
+                            body.append(f'    [The document.]({r_["link"]})')
                     body.append('')
                 body += ['</div>', '{% endraw %}', '']
             # the map: the iframe is laid out at twice the size shown and

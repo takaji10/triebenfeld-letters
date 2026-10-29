@@ -23,7 +23,7 @@ hits_docs_count: 0
 Folwark which existed south of Łomów in the forest on the Łukom estate. Likely named after the Rościszewski family. Around 1740, Jakub Rościszewski married Helena Zielonacka who was the owner of the Łukom estate after the death of her spouse Józef Ścibor-Chełmski.[^64] *Rosciszew* (Łukom 1766); *Rostrziczewo* (von Pfau 1770); as part of the Łukom estate (Królików 1800); *Vorwerk Rosciszew* (Pambo 1803); *Roscisewo* (Richter 1843).
 
 [^64]: Minakowska, “Helena Zielonacka”
-    [The document in the edition.](/literature/minakowska2026zielonacka/)
+    [The document.](/literature/minakowska2026zielonacka/)
 
 </div>
 {% endraw %}

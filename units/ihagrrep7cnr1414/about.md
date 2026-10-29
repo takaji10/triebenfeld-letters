@@ -16,7 +16,7 @@ The papers do not say what Prusimski wanted the certificate for, or what was don
 
 ### Form and language
 
-The first page is the department's own draft, with its registry marks and two ministers' signatures. The extract is a clean copy made in the department. Schrötter's letter is the original he sent. On the extract and on Schrötter's letter the department noted the day of receipt, the journal number and what was to be done; on the pages of this edition these notes stand under a label after the text they were written on. The direction of 8 January 1797 is written on a slip of its own. <!-- context -->
+The first page is the department's own draft, with its registry marks and two ministers' signatures. The extract is a clean copy made in the department. Schrötter's letter is the original he sent. On the extract and on Schrötter's letter the department noted the day of receipt, the journal number and what was to be done; on the pages here these notes stand under a label after the text they were written on. The direction of 8 January 1797 is written on a slip of its own. <!-- context -->
 
 ### Related holdings
 

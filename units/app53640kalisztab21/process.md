@@ -18,4 +18,4 @@ The thirteen pages are one document. It is dated by its printed title, the insta
 
 ### Summary and translation
 
-The summary was written in German from the table and translated into English; each of its 14 statements was then checked against the table, and all held. The English version of the table translates the title, the heading and the common words (village, small town, demesne farm, mill, part of) and leaves the names as the clerk wrote them, except that Trąbczyn and Nowawies take the spelling this edition uses everywhere.
+The summary was written in German from the table and translated into English; each of its 14 statements was then checked against the table, and all held. The English version of the table translates the title, the heading and the common words (village, small town, demesne farm, mill, part of) and leaves the names as the clerk wrote them, except that Trąbczyn and Nowawies take the spelling used everywhere.

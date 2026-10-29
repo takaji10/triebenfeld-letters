@@ -14,7 +14,7 @@ Under each entry stand the names of the president, Stanisław Małachowski, and 
 
 ### Form and language
 
-The register is a fair copy in a clerk's hand. The names under the entries are written by the clerk after the word "podpisano" (signed), with the letters "LS" for the place of the seal; neither is transcribed. Pages 47 and 48 also hold three other entries, which are not part of this edition. The commission's draft of the resolution of 21 July, with the corrections made to it, is in its files: [[unit:agad11740273]]. <!-- context -->
+The register is a fair copy in a clerk's hand. The names under the entries are written by the clerk after the word "podpisano" (signed), with the letters "LS" for the place of the seal; neither is transcribed. Pages 47 and 48 also hold three other entries, which are not included. The commission's draft of the resolution of 21 July, with the corrections made to it, is in its files: [[unit:agad11740273]]. <!-- context -->
 
 ### Related holdings
 

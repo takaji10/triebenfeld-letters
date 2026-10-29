@@ -1,6 +1,6 @@
 ### Scans
 
-The archive supplied 62 images, each showing two facing pages of the bound volume. Each was cut at the fold into two pages. Two halves are not used: the left half of the first image, which is the end of another entry, and one blank page. The edition has 122 pages, beginning with the entry's title page.
+The archive supplied 62 images, each showing two facing pages of the bound volume. Each was cut at the fold into two pages. Two halves are not used: the left half of the first image, which is the end of another entry, and one blank page. It has 122 pages, beginning with the entry's title page.
 
 ### Transcription
 
@@ -8,7 +8,7 @@ The editor transcribed the entry and supplied the text in one file, with each pa
 
 ### Check against the scans
 
-The editor had worked the text over before it came into the edition. An AI model (Claude) first read four pages word for word against the scans, and the signatures on the last page. It corrected 23 readings, added one line of the title page, and found six words that had been left out between two words with the same ending.
+The editor had worked the text over before it was brought in. An AI model (Claude) first read four pages word for word against the scans, and the signatures on the last page. It corrected 23 readings, added one line of the title page, and found six words that had been left out between two words with the same ending.
 
 The editor then asked for the whole text to be checked for words left out. All 122 pages were read against the scans, and 233 passages were corrected. In 26 of them the transcription lacked words that stand on the scan, from a single word to about sixty; nearly all had been skipped between two occurrences of the same word. The other 207 are misread words that change the meaning. Slips of spelling that change nothing were not collected, because the text is in modern spelling. Each change is logged with its reason.
 
@@ -22,7 +22,7 @@ The whole entry is one document. It is dated 23 September 1776, the day the decr
 
 ### Translation
 
-The English is the editor's own translation, made before the entry came into the edition, and was not made again. Its section headings and its twenty translator's notes are the editor's; the headings stand in square brackets and each note follows the paragraph it belongs to. The translation ends each page at the end of a sentence, so the English of a page can begin or end a few lines away from the Polish. In two places, where it was most of a page away, the break was moved. In most places where the transcription had slipped, the English already had the right sense. It was changed in 37 places to follow the corrections to the Polish, most of them to add the words that had been missing. One paragraph of about a hundred words at the head of leaf 680, which the translation lacked, was translated from the Polish by Claude in the editor's terms. In one sentence the English was changed without any change to the Polish: Chełmski is to enter the tower at Konin twelve weeks from the decree and sit there two weeks; the translation had read a sitting of twelve weeks. An automatic check compared the marks of doubt and the terms of the two texts.
+The English is the editor's own translation, made before it was brought in, and was not made again. Its section headings and its twenty translator's notes are the editor's; the headings stand in square brackets and each note follows the paragraph it belongs to. The translation ends each page at the end of a sentence, so the English of a page can begin or end a few lines away from the Polish. In two places, where it was most of a page away, the break was moved. In most places where the transcription had slipped, the English already had the right sense. It was changed in 37 places to follow the corrections to the Polish, most of them to add the words that had been missing. One paragraph of about a hundred words at the head of leaf 680, which the translation lacked, was translated from the Polish by Claude in the editor's terms. In one sentence the English was changed without any change to the Polish: Chełmski is to enter the tower at Konin twelve weeks from the decree and sit there two weeks; the translation had read a sitting of twelve weeks. An automatic check compared the marks of doubt and the terms of the two texts.
 
 ### Summary
 

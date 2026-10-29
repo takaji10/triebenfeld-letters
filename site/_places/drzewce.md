@@ -23,16 +23,16 @@ hits_docs_count: 45
 Village south of Zagórów. First mentioned in a privilege document from Ląd Abbey in 1362.[^12] Drzewce (*Drzewycz*) was mentioned as an alias of *Nouo Sagorowo* (Pl. *Zagórowo Nowe*) in 1411, when the monastery’s abbott Gerhard exchanged a scullery in Drzewce with a scullery in Kownaty.[^13] Possibly mentioned in a 1418 document concerning the abbey’s trading of Wrąbczyn to Laurencius Yelonouicz in exchange for Drzewce (*Drzewcza*), although the source expressed uncertainty as to which Drzewce was being referenced. The document stated that Drzewce had been purchased by Yelonouicz from the monastery’s previous abbot Heinrich.[^14] Breyer noted that the estate was parceled around 1900 and that German settlers claimed some of the land.[^15] *Drziwza* (von Pfau 1770). Nazwy miejscowe Polski records the name as *Drzevvyc7a* by 1418.[^16]
 
 [^12]: Klasztor cystersów w Lądzie 25-26
-    [The document in the edition.](/documents/app5314550221/4/#p1)
+    [The document.](/documents/app5314550221/4/#p1)
 
 [^13]: Piekosiński No. 191
-    [The document in the edition.](/documents/kdw/15/)
+    [The document.](/documents/kdw/15/)
 
 [^14]: Ibid No. 280
-    [The document in the edition.](/documents/kdw/18/)
+    [The document.](/documents/kdw/18/)
 
 [^15]: Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]"
-    [The document in the edition.](/documents/app539680669/2/)
+    [The document.](/documents/app539680669/2/)
 
 [^16]: Nazwy miejscowe Polski, t. 2, p. 444
 

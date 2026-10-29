@@ -606,7 +606,7 @@ The technical side of the giveaway of estates was in the hands of councillor Pet
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Łukasiewicz (1997) tells the story of the giveaway's technical manager: councillor Triebenfeld bought his estate in 1797 for 50,000 Thaler, sold it in 1801 for 450,000 to the Prince of Hessen-Darmstadt, and the Prince sold it on the same year for 750,000 to the Saxon master of the hunt Schürding (Dorow's printing of Triebenfeld's memorial); his Tabela 4 gives the official price 51,000 and the sale 400,000-750,000 (1801). Triebenfeld's letters to the Prince of Hohenlohe give the same valuation, over 700,000 (April 1799), and the same resale, 750,000 (February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800).</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
 </aside>{% raw %}
@@ -1173,7 +1173,7 @@ Tabela 1. PRUSSIAN DONATIONS — THE VALUE OF THE ESTATES<sup class="lit-fn"><a 
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Łukasiewicz's Tabela 1 sets out the register's row for the Prince of Hohenlohe: officially 89,250 Thaler, "true value" 800,000, and the register's own note that the gift was made "for 50,000 of income yearly". The letters bear the same figures out and go past them: the King's refusal of December 1798 on Voss's report (estates valued at a yield of 8,650 a year now bring 40,500), the Prince's answer (his estates yield 41,500, Krotoszyn's rent is 30,100) and his later petition.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
 </aside>{% raw %}
@@ -1732,7 +1732,7 @@ Notes to Tabela 4:
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Łukasiewicz (1997) tells the story of the giveaway's technical manager: councillor Triebenfeld bought his estate in 1797 for 50,000 Thaler, sold it in 1801 for 450,000 to the Prince of Hessen-Darmstadt, and the Prince sold it on the same year for 750,000 to the Saxon master of the hunt Schürding (Dorow's printing of Triebenfeld's memorial); his Tabela 4 gives the official price 51,000 and the sale 400,000-750,000 (1801). Triebenfeld's letters to the Prince of Hohenlohe give the same valuation, over 700,000 (April 1799), and the same resale, 750,000 (February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800).</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
 </aside>{% raw %}

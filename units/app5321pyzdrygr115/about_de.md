@@ -45,7 +45,7 @@ Datum; der Titel des Bandes nennt die Jahre 1791 und 1792. <!-- context -->
 ### Die Orte der Tabelle
 
 Die Zeilen sind die Dörfer der Pfarrei Trąbczyn. Die Schmiede „Kuznia
-Maryantów“ der Tabelle ist das Marianton der Edition, Mariantów, wo das
+Maryantów“ der Tabelle ist das Marianton, Mariantów, wo das
 hohenlohesche Patrimonialgericht für Trąbczyn saß („Actum Marianton“) - die
 Bestimmung des Herausgebers [[1]]. Die eine Zeile „Hollendry Luzne Stare i
 nowe z Hutą“ nennt beide Olęder-Kolonien des Gutes zusammen, die alte und

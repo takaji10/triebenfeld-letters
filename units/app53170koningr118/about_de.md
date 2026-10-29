@@ -2,7 +2,7 @@ Neunundzwanzig Einträge auf siebenunddreißig Seiten des Registers des Burggeri
 
 ### Historischer Hintergrund
 
-Seit 1775 standen zwei Grenzdekrete gegeneinander: das der Reichstagskommission, für Prusimski, und das der von Chełmski beigezogenen Kommissare, für Chełmski: [[unit:app53170koningr145]], [[unit:app53170koningr116]]. 1778 protestierte noch jede Seite gegen das Dekret der anderen: [[unit:app53170koningr117]]. Die Einträge hier zeigen, wie es ausging. Das Krontribunal in Petrikau entschied die Sache „nach der Karte“, befand über die beiden Dekrete und schickte einen Amtsträger, der entlang einer in diese Karte eingezeichneten Linie die Grenzhügel errichten sollte. Das Tribunalsdekret selbst ist nicht in der Edition. <!-- context -->
+Seit 1775 standen zwei Grenzdekrete gegeneinander: das der Reichstagskommission, für Prusimski, und das der von Chełmski beigezogenen Kommissare, für Chełmski: [[unit:app53170koningr145]], [[unit:app53170koningr116]]. 1778 protestierte noch jede Seite gegen das Dekret der anderen: [[unit:app53170koningr117]]. Die Einträge hier zeigen, wie es ausging. Das Krontribunal in Petrikau entschied die Sache „nach der Karte“, befand über die beiden Dekrete und schickte einen Amtsträger, der entlang einer in diese Karte eingezeichneten Linie die Grenzhügel errichten sollte. Das Tribunalsdekret selbst ist nicht aufgenommen. <!-- context -->
 
 Die meisten Einträge eines solchen Registers sind einzeilige Vermerke, dass ein Schriftstück vorgelegt wurde und bei den vorgelegten Papieren liegt; hier sind es sechzehn der neunundzwanzig. Die Schriftstücke selbst wurden gesondert verwahrt und stehen nicht im Buch. <!-- context -->
 
@@ -22,9 +22,9 @@ Die meisten Einträge eines solchen Registers sind einzeilige Vermerke, dass ein
 
 ### Form und Sprache
 
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Das Latein ist stark abgekürzt; die langen Einträge wurden ein zweites Mal Wort für Wort neben den Aufnahmen gelesen, und einige wenige Wörter darin bleiben als zweifelhaft gekennzeichnet. Fünfzehn Einträge haben keine datierte Sitzungsüberschrift über sich und sind nach den Überschriften davor und danach datiert, einige nur auf das Jahr; jeder sagt das. Eine Überschrift nennt einen Wochentag und einen Monatstag, die nicht übereinstimmen; hier gilt der Wochentag. Ein Vermerk ist unvollendet, und ein Eintrag ist eine Überschrift, unter der nichts geschrieben wurde. Ein Vermerk, den der Herausgeber fotografiert, aber nicht transkribiert hatte, wurde für die Edition transkribiert. <!-- context -->
+Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Das Latein ist stark abgekürzt; die langen Einträge wurden ein zweites Mal Wort für Wort neben den Aufnahmen gelesen, und einige wenige Wörter darin bleiben als zweifelhaft gekennzeichnet. Fünfzehn Einträge haben keine datierte Sitzungsüberschrift über sich und sind nach den Überschriften davor und danach datiert, einige nur auf das Jahr; jeder sagt das. Eine Überschrift nennt einen Wochentag und einen Monatstag, die nicht übereinstimmen; hier gilt der Wochentag. Ein Vermerk ist unvollendet, und ein Eintrag ist eine Überschrift, unter der nichts geschrieben wurde. Ein Vermerk, den der Herausgeber fotografiert, aber nicht transkribiert hatte, wurde transkribiert. <!-- context -->
 
-Antoni Prusimski erscheint hier als „Ostroróg Prusimski“ und als Ritter des St.-Stanislaus-Ordens. Die Ladung vom September 1782 ist das einzige Dokument der Edition, das seine Eltern und Großeltern nennt. <!-- context -->
+Antoni Prusimski erscheint hier als „Ostroróg Prusimski“ und als Ritter des St.-Stanislaus-Ordens. Die Ladung vom September 1782 ist das einzige Dokument, das seine Eltern und Großeltern nennt. <!-- context -->
 
 ### Verwandte Bestände
 

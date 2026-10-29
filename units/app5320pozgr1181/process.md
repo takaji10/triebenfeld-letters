@@ -7,7 +7,7 @@ transcription is the editor's own, made from the photographs: a Latin text
 of one continuous entry, typed page by page and, for p. 161, laid out in
 the manuscript's own lines.
 
-The editor's text was carried into the edition as written. The session that
+The editor's text was carried over as written. The session that
 brought the holding in first applied 108 small completions of its own (the
 doubtful case endings, completed by grammar); when the editor's fresh
 line-by-line typing of p. 161 arrived the same day keeping the original

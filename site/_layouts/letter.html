@@ -12,29 +12,35 @@ layout: default
 
 <article class="letter">
 
-  <nav class="letter-nav" aria-label="Letter navigation">
-    {%- comment -%} The holding the navigation moves through (editor, 2026-10-03): previous and next stay inside it. {%- endcomment %}
+  <nav class="letter-nav" aria-label="Document navigation">
+    {%- comment -%}
+      One slim line (editor, 2026-10-29): the holding's reference on the left,
+      the neighbouring documents on the right. The arrows follow the holding's
+      order; a second pair, "by date", only where the date order is not the same.
+    {%- endcomment %}
     {%- assign nu = site.data.units | where: "slug", page.unit | first %}
     {%- if nu %}
-    <p class="nav-holding">
-      <span class="nav-label" data-i18n="f_unit">{{ t.f_unit }}</span>
-      <a data-i18n-href-unit="1"
-         data-href-en="{{ '/sources/' | append: page.unit | append: '/' | relative_url }}"
-         data-href-de="{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}"
-         href="{% if lang == 'de' %}{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}{% else %}{{ '/sources/' | append: page.unit | append: '/' | relative_url }}{% endif %}">{{ nu.ref }}</a>
-      <span class="nav-archive">{{ nu.archive }}</span>
-    </p>
+    <a class="nav-holding" data-i18n-href-unit="1"
+       data-href-en="{{ '/sources/' | append: page.unit | append: '/' | relative_url }}"
+       data-href-de="{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}{% else %}{{ '/sources/' | append: page.unit | append: '/' | relative_url }}{% endif %}">&lsaquo; {{ nu.ref }}</a>
     {%- endif %}
-    <div class="nav-group">
-      <span class="nav-label" data-i18n="nav_archival">{{ t.nav_archival }}</span>
-      {% if page.prev_archival %}<a href="{{ page.prev_archival_url | relative_url }}">&larr; {{ page.prev_archival }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
-      {% if page.next_archival %}<a href="{{ page.next_archival_url | relative_url }}">{{ page.next_archival }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
-    </div>
-    <div class="nav-group">
-      <span class="nav-label" data-i18n="nav_chrono">{{ t.nav_chrono }}</span>
-      {% if page.prev_chrono %}<a href="{{ page.prev_chrono_url | relative_url }}">&larr; {{ page.prev_chrono }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
-      {% if page.next_chrono %}<a href="{{ page.next_chrono_url | relative_url }}">{{ page.next_chrono }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
-    </div>
+    <span class="nav-steps">
+      {%- if page.prev_archival or page.next_archival %}
+      <span class="nav-group">
+        <span class="nav-label" data-i18n="nav_archival">{{ t.nav_archival }}</span>
+        {% if page.prev_archival %}<a href="{{ page.prev_archival_url | relative_url }}">&larr; {{ page.prev_archival }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
+        {% if page.next_archival %}<a href="{{ page.next_archival_url | relative_url }}">{{ page.next_archival }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
+      </span>
+      {%- endif %}
+      {%- if page.prev_chrono != page.prev_archival or page.next_chrono != page.next_archival %}
+      <span class="nav-group">
+        <span class="nav-label" data-i18n="nav_by_date">{{ t.nav_by_date }}</span>
+        {% if page.prev_chrono %}<a href="{{ page.prev_chrono_url | relative_url }}">&larr; {{ page.prev_chrono }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
+        {% if page.next_chrono %}<a href="{{ page.next_chrono_url | relative_url }}">{{ page.next_chrono }} &rarr;</a>{% else %}<span class="disabled">&rarr;</span>{% endif %}
+      </span>
+      {%- endif %}
+    </span>
   </nav>
 
   <header class="letter-head">
@@ -63,9 +69,20 @@ layout: default
       {%- comment -%} Only a date the document does not state: supplied by research, or inferred from its neighbours. A date read from a dateline or signature is the document's own. {%- endcomment %}
       {% if page.date_iso %}{% if page.date_source == 'supplied' or page.date_source == 'inferred' %}{% assign bk = 'badge_' | append: page.date_source %}<span class="badge supplied" data-i18n="{{ bk }}" data-title-en="{{ page.date_source_label | escape }}" data-title-de="{{ page.date_source_label_de | escape }}" title="{{ page.date_source_label }}">{{ t[bk] }}</span>{% endif %}{% endif %}
     </h1>
-    {% if page.place %}<p class="place"><span data-en="{{ page.place | escape }}" data-de="{{ page.place_de | default: page.place | escape }}">{% if lang == 'de' and page.place_de %}{{ page.place_de }}{% else %}{{ page.place }}{% endif %}</span></p>{% endif %}
-    {%- comment -%} Where the document stands in a printed edition (volume, number, page), from rulings.yml `documents: citation:`. {%- endcomment %}
-    {% if page.citation %}<p class="place citation">{% if page.citation_url %}<a href="{{ page.citation_url }}" rel="noopener">{% endif %}<span data-en="{{ page.citation | escape }}" data-de="{{ page.citation_de | escape }}">{% if lang == 'de' %}{{ page.citation_de }}{% else %}{{ page.citation }}{% endif %}</span>{% if page.citation_url %}</a>{% endif %}</p>{% endif %}
+    {%- comment -%}
+      One line of facts under the date (2026-10-29): the place of writing, only
+      where it is known (not "Unknown"); where the document stands in a printed
+      edition (volume, number), from rulings.yml `documents: citation:`; and the
+      number of manuscript pages, only where there are page images.
+    {%- endcomment %}
+    {%- assign place_known = false -%}
+    {%- if page.place and page.place != 'Unknown' and page.place != 'Unbekannt' -%}{%- assign place_known = true -%}{%- endif -%}
+    {%- if place_known or page.citation %}
+    <p class="letter-facts">
+      {%- if place_known %}<span class="place"><span data-en="{{ page.place | escape }}" data-de="{{ page.place_de | default: page.place | escape }}">{% if lang == 'de' and page.place_de %}{{ page.place_de }}{% else %}{{ page.place }}{% endif %}</span></span>{% endif -%}
+      {%- if page.citation %}<span class="citation">{% if page.citation_url %}<a href="{{ page.citation_url }}" rel="noopener">{% endif %}<span data-en="{{ page.citation | escape }}" data-de="{{ page.citation_de | escape }}">{% if lang == 'de' %}{{ page.citation_de }}{% else %}{{ page.citation }}{% endif %}</span>{% if page.citation_url %}</a>{% endif %}</span>{% endif -%}
+    </p>
+    {%- endif %}
     {%- if page.relations %}
     <ul class="relations">
       {%- for rel in page.relations %}
@@ -91,115 +108,93 @@ layout: default
     {% endcomment %}
     {% assign summary = site.data.summaries[page.pad] %}
     {% assign summary_de = site.data.summaries_de[page.pad] %}
+    {%- if summary or summary_de %}
+    <div class="summary-block">
     {% if summary %}
       <p class="letter-summary" data-summary="en">{{ summary }}</p>
     {% endif %}
     {% if summary_de %}
       <p class="letter-summary" data-summary="de" hidden>{{ summary_de }}</p>
     {% endif %}
-  </header>
-
-  {% if page.is_missing %}
-    <p class="notice" data-i18n="missing_notice">{{ t.missing_notice }}</p>
-  {% endif %}
-
-  <div class="letter-body">
-
-    {% assign tr = site.data.translations[page.pad] %}
-
-    <div class="viewbar" role="group" aria-label="Text view">
-      <button type="button" class="vbtn is-on" data-show="diplomatic" data-i18n="view_diplomatic">{{ t.view_diplomatic }}</button>
-      <button type="button" class="vbtn" data-show="reading" data-i18n="view_reading">{{ t.view_reading }}</button>
-      <button type="button" class="vbtn" data-show="translation" data-i18n="view_translation">{{ t.view_translation }}</button>
-      <label class="chk"><input type="checkbox" id="hidescans"> <span data-i18n="hide_scans">{{ t.hide_scans }}</span></label>
-      <label class="chk"><input type="checkbox" id="glossary-toggle" checked> <span data-i18n="gl_toggle">{{ t.gl_toggle }}</span></label>
-      <span class="viewhint" data-hint="diplomatic"><span data-i18n="hint_diplomatic">{{ t.hint_diplomatic }}</span> <span data-i18n="editorial_note">{{ t.editorial_note }}</span> <a data-i18n="nav_about" data-href-en="{{ '/reading-this-edition/' | relative_url }}" data-href-de="{{ '/de/ueber-diese-edition/' | relative_url }}" href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>.</span>
-      <span class="viewhint" data-hint="reading" hidden><span data-i18n="hint_reading">{{ t.hint_reading }}</span></span>
-      <span class="viewhint" data-hint="translation" hidden>
-        {% if tr and tr.status and tr.status != 'untranslated' %}<span data-i18n="hint_translation_status">{{ t.hint_translation_status }}</span>
-        {% else %}<span data-i18n="hint_translation_none">{{ t.hint_translation_none }}</span>{% endif %}
-      </span>
+      <button type="button" class="summary-more" hidden aria-expanded="false"><span class="sm-more" data-i18n="summary_more">{{ t.summary_more }}</span><span class="sm-less" data-i18n="summary_less" hidden>{{ t.summary_less }}</span></button>
     </div>
+    {%- endif %}
 
-    {{ content }}
+    {%- comment -%}
+      The people and places the document names, as small tags under the
+      summary (editor, 2026-10-29): the estates in focus and the other places
+      named are one list to a reader, each place once; the first twelve show,
+      the rest are behind a "+N" fold.
+    {%- endcomment %}
+    {%- assign tag_html = '' -%}
+    {%- assign seen_places = '' -%}
+    {%- for s in page.estates -%}
+      {%- assign es = site.data.estates | where: "slug", s | first -%}
+      {%- if es -%}
+        {%- assign seen_places = seen_places | append: '|' | append: es.slug | append: '|' -%}
+        {%- capture one -%}<li><a href="{% if site.data.places_pages[es.slug] %}{{ '/places/' | append: es.slug | append: '/' | relative_url }}{% else %}{{ '/places/' | relative_url }}#place-{{ es.slug }}{% endif %}">{{ es.name }}</a></li>{%- endcapture -%}
+        {%- assign tag_html = tag_html | append: one | append: '~~~' -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- for s in page.places_named -%}
+      {%- assign probe = '|' | append: s | append: '|' -%}
+      {%- assign pl = site.data.places_named | where: "slug", s | first -%}
+      {%- if pl -%}{%- unless seen_places contains probe -%}
+        {%- capture one -%}<li><a href="{% if site.data.places_pages[s] %}{{ '/places/' | append: s | append: '/' | relative_url }}{% else %}{{ '/places/' | relative_url }}#place-{{ s }}{% endif %}">{{ pl.name }}</a></li>{%- endcapture -%}
+        {%- assign tag_html = tag_html | append: one | append: '~~~' -%}
+      {%- endunless -%}{%- endif -%}
+    {%- endfor -%}
+    {%- for pslug in page.people -%}
+      {%- assign person = site.data.people | where: "slug", pslug | first -%}
+      {%- if person -%}
+        {%- capture one -%}<li class="tag-person"><a href="{{ '/people/' | relative_url }}#{{ person.slug }}">{{ person.name }}</a></li>{%- endcapture -%}
+        {%- assign tag_html = tag_html | append: one | append: '~~~' -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign tag_list = tag_html | split: '~~~' -%}
+    {%- if tag_list.size > 0 %}
+    <ul class="letter-tags">
+      {%- for one in tag_list limit: 12 %}{{ one }}{% endfor %}
+      {%- if tag_list.size > 12 %}
+      <li class="tags-more"><details><summary>+{{ tag_list.size | minus: 12 }}</summary><ul>
+        {%- for one in tag_list offset: 12 %}{{ one }}{% endfor %}
+      </ul></details></li>
+      {%- endif %}
+    </ul>
+    {%- endif %}
 
-  </div>
-
-  {% if tr and tr.segments %}
-  <script type="application/json" id="translation-data">{{ tr.segments | jsonify }}</script>
-  {% endif %}
-  {% assign gh = site.data.glossary_hits[page.pad] %}
-  {% if gh %}
-  <script type="application/json" id="glossary-hits">{{ gh | jsonify }}</script>
-  {% endif %}
-
-  <aside class="meta">
-    <h2 data-i18n="about_doc">{{ t.about_doc }}</h2>
+    {%- comment -%}
+      About this document (folded, 2026-10-29): where it is held, how it was
+      dated when the date is not its own, the literature that cites it, its
+      duplicate or its parent. The number of the document is in the heading
+      above; the count of uncertain readings and the like stay in the data.
+    {%- endcomment %}
+    {% assign u = site.data.units | where: "slug", page.unit | first %}
+    {% assign dated_by_us = false %}
+    {% if page.date_source == 'supplied' or page.date_source == 'inferred' %}{% assign dated_by_us = true %}{% endif %}
+    <details class="meta">
+    <summary data-i18n="about_doc">{{ t.about_doc }}</summary>
     <dl>
-      <dt data-i18n="archival_number">{{ t.archival_number }}</dt><dd>{{ lid }}</dd>
-      {% if page.sender or page.recipient %}
-        <dt data-i18n="correspondents">{{ t.correspondents }}</dt>
-        <dd>
-          {% if page.sender %}<span data-en="{{ page.sender | escape }}" data-de="{{ page.sender_de | default: page.sender | escape }}">{% if lang == 'de' and page.sender_de %}{{ page.sender_de }}{% else %}{{ page.sender }}{% endif %}</span>{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
-          <br><span class="muted" data-i18n="correspondents_to">{{ t.correspondents_to }}</span>
-          {% if page.recipient %}<span data-en="{{ page.recipient | escape }}" data-de="{{ page.recipient_de | default: page.recipient | escape }}">{% if lang == 'de' and page.recipient_de %}{{ page.recipient_de }}{% else %}{{ page.recipient }}{% endif %}</span>{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
-        </dd>
-      {% endif %}
-      <dt data-i18n="date">{{ t.date }}</dt>
-      <dd>
-        <span data-en="{{ page.date_label | escape }}" data-de="{{ page.date_label_de | escape }}">{{ page.date_label }}</span><br>
-        <span class="muted" data-en="{{ page.date_source_label | escape }}" data-de="{{ page.date_source_label_de | escape }}">{{ page.date_source_label }}</span>
-        {% if page.date_basis and page.date_basis != '' %}<br><span class="muted" data-en="{{ page.date_basis | escape }}" data-de="{{ page.date_basis_de | escape }}">{{ page.date_basis }}</span>{% endif %}
-      </dd>
-      {% if page.place %}<dt data-i18n="place">{{ t.place }}</dt><dd><span data-en="{{ page.place | escape }}" data-de="{{ page.place_de | default: page.place | escape }}">{% if lang == 'de' and page.place_de %}{{ page.place_de }}{% else %}{{ page.place }}{% endif %}</span></dd>{% endif %}
-      {% assign u = site.data.units | where: "slug", page.unit | first %}
       {% if u %}
-      <dt data-i18n="f_unit">{{ t.f_unit }}</dt>
+      <div class="m-item"><dt data-i18n="f_unit">{{ t.f_unit }}</dt>
       <dd>
         <a data-i18n-href-unit="1"
            data-href-en="{{ '/sources/' | append: page.unit | append: '/' | relative_url }}"
            data-href-de="{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}"
            href="{% if lang == 'de' %}{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}{% else %}{{ '/sources/' | append: page.unit | append: '/' | relative_url }}{% endif %}">{{ u.ref }}</a>
         <br><span class="muted">{{ u.archive }}</span>
-      </dd>
+      </dd></div>
       {% endif %}
-      {%- comment -%} The number of manuscript pages only (editor, 2026-10-03): the line count says nothing a reader needs. {%- endcomment %}
-      {% if page.n_pages > 0 %}
-      <dt data-i18n="extent">{{ t.extent }}</dt>
+      {% if page.n_pages > 0 and page.citation == nil %}
+      <div class="m-item"><dt data-i18n="extent">{{ t.extent }}</dt>
+      <dd>{{ page.n_pages }} {% if page.n_pages == 1 %}<span data-i18n="manuscript_page">{{ t.manuscript_page }}</span>{% else %}<span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}</dd></div>
+      {% endif %}
+      {% if dated_by_us or page.date_basis != '' and page.date_basis %}
+      <div class="m-item"><dt data-i18n="date">{{ t.date }}</dt>
       <dd>
-        {{ page.n_pages }} {% if page.n_pages == 1 %}<span data-i18n="manuscript_page">{{ t.manuscript_page }}</span>{% else %}<span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}
-      </dd>
-      {% endif %}
-
-      {% if page.people.size > 0 %}
-      <dt data-i18n="people_named">{{ t.people_named }}</dt>
-      <dd class="taglist">
-        {% for p in page.people %}
-          {% assign person = site.data.people | where: "slug", p | first %}
-          {% if person %}<a href="{{ '/people/' | relative_url }}#{{ person.slug }}">{{ person.name }}</a>{% endif %}
-        {% endfor %}
-      </dd>
-      {% endif %}
-
-      {% if page.estates.size > 0 %}
-      <dt data-i18n="estates_label">{{ t.estates_label }}</dt>
-      <dd class="taglist">
-        {% for s in page.estates %}
-          {% assign es = site.data.estates | where: "slug", s | first %}
-          {% if es %}{% if site.data.places_pages[es.slug] %}<a href="{{ '/places/' | append: es.slug | append: '/' | relative_url }}">{{ es.name }}</a>{% else %}<a href="{{ '/places/' | relative_url }}#place-{{ es.slug }}">{{ es.name }}</a>{% endif %}{% endif %}
-        {% endfor %}
-      </dd>
-      {% endif %}
-
-      {% if page.places_named.size > 0 %}
-      <dt data-i18n="places_named">{{ t.places_named }}</dt>
-      <dd class="taglist">
-        {% for s in page.places_named %}
-          {% assign pl = site.data.places_named | where: "slug", s | first %}
-          {%- comment -%} Every place has its page (docs/PLACES_PLAN.md, section 8). {%- endcomment -%}
-          {% if pl %}{% if site.data.places_pages[s] %}<a href="{{ '/places/' | append: s | append: '/' | relative_url }}">{{ pl.name }}</a>{% else %}<a href="{{ '/places/' | relative_url }}#place-{{ s }}">{{ pl.name }}</a>{% endif %}{% endif %}
-        {% endfor %}
-      </dd>
+        <span data-en="{{ page.date_source_label | escape }}" data-de="{{ page.date_source_label_de | escape }}">{{ page.date_source_label }}</span>
+        {% if page.date_basis and page.date_basis != '' %}<br><span class="muted" data-en="{{ page.date_basis | escape }}" data-de="{{ page.date_basis_de | escape }}">{{ page.date_basis }}</span>{% endif %}
+      </dd></div>
       {% endif %}
 
       {%- comment -%} Passages of the literature tied to this document by hand
@@ -208,7 +203,7 @@ layout: default
         the passages by work. {%- endcomment %}
       {% assign lit_links = site.data.literature_links[page.uid] %}
       {% if lit_links %}
-      <dt data-i18n="lit_in_literature">{{ t.lit_in_literature }}</dt>
+      <div class="m-item"><dt data-i18n="lit_in_literature">{{ t.lit_in_literature }}</dt>
       <dd class="lit-doclinks">
         {% for ln in lit_links %}
         <p><span data-en="{{ ln.en | escape }}" data-de="{{ ln.de | escape }}">{% if lang == 'de' %}{{ ln.de }}{% else %}{{ ln.en }}{% endif %}</span></p>
@@ -220,15 +215,15 @@ layout: default
         </p>
         {% endfor %}
         {% endfor %}
-      </dd>
+      </dd></div>
       {% endif %}
 
       {% if page.duplicate_of %}
-      <dt data-i18n="duplicate">{{ t.duplicate }}</dt>
-      <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>.</dd>
+      <div class="m-item"><dt data-i18n="duplicate">{{ t.duplicate }}</dt>
+      <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>.</dd></div>
       {% endif %}
       {% if page.parent_letter %}
-      <dt data-i18n="part_of">{{ t.part_of }}</dt>
+      <div class="m-item"><dt data-i18n="part_of">{{ t.part_of }}</dt>
       <dd>
         {% assign parent_page = site.letters | where: "letter_id", page.parent_letter | first %}
         {% if parent_page %}
@@ -244,19 +239,42 @@ layout: default
           {% endfor %}
           </span>
         {% endif %}
-      </dd>
-      {% endif %}
-
-      {% if page.uncertainty_count > 0 or page.has_damage or page.rough_transcription %}
-      <dt>Condition</dt>
-      <dd>
-        {% if page.rough_transcription %}<strong>Rough transcription.</strong> Much of this letter is still a machine reading that could not be corrected; check the scan before relying on a word.<br>{% endif %}
-        {% if page.uncertainty_count > 0 %}{{ page.uncertainty_count }} uncertain reading{% if page.uncertainty_count != 1 %}s{% endif %} marked in the text.<br>{% endif %}
-        {% if page.has_damage %}Contains a damaged passage where text is missing.{% endif %}
-      </dd>
+      </dd></div>
       {% endif %}
     </dl>
-  </aside>
+    </details>
+  </header>
+
+  {% if page.is_missing %}
+    <p class="notice" data-i18n="missing_notice">{{ t.missing_notice }}</p>
+  {% endif %}
+
+  <div class="letter-body">
+
+    {% assign tr = site.data.translations[page.pad] %}
+
+    <div class="viewbar" role="group" aria-label="Text view">
+      <button type="button" class="vbtn is-on" data-show="diplomatic" data-i18n="view_diplomatic">{{ t.view_diplomatic }}</button>
+      <button type="button" class="vbtn" data-show="reading" data-i18n="view_reading">{{ t.view_reading }}</button>
+      <button type="button" class="vbtn" data-show="translation" data-i18n="view_translation">{{ t.view_translation }}</button>
+      <label class="chk"><input type="checkbox" id="hidescans"> <span data-i18n="hide_scans">{{ t.hide_scans }}</span></label>
+      <span class="viewhint" data-hint="translation" hidden>
+        {% unless tr and tr.status and tr.status != 'untranslated' %}<span data-i18n="hint_translation_none">{{ t.hint_translation_none }}</span>{% endunless %}
+      </span>
+    </div>
+
+    {{ content }}
+
+  </div>
+
+  {% if tr and tr.segments %}
+  <script type="application/json" id="translation-data">{{ tr.segments | jsonify }}</script>
+  {% endif %}
+  {% assign gh = site.data.glossary_hits[page.pad] %}
+  {% if gh %}
+  <script type="application/json" id="glossary-hits">{{ gh | jsonify }}</script>
+  {% endif %}
+
 
 
   {% comment %} Both dictionaries, flattened, for assets/i18n.js. {% endcomment %}

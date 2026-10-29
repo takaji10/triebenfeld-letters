@@ -20,7 +20,7 @@ The correspondence of the Prince's agent holds the other side of the same story:
 
 ### Form and language
 
-The report is in French, the working language of the Kingdom's central bodies, in the administrative prose of the period: long sentences, grounds numbered 1° to 4° and 1° to 5°, arguments lettered a° to c° and answered ad a., ad b., ad c. The heading on the first page is heavily corrected in the manuscript. A passage on p. 160, a first draft of the grounds, is struck out with a line through it; this edition does not record crossed-out text. A passage on p. 159, on the Hohenlohe action of 1808, which the archive's transcript skips, is restored from the scan. <!-- context -->
+The report is in French, the working language of the Kingdom's central bodies, in the administrative prose of the period: long sentences, grounds numbered 1° to 4° and 1° to 5°, arguments lettered a° to c° and answered ad a., ad b., ad c. The heading on the first page is heavily corrected in the manuscript. A passage on p. 160, a first draft of the grounds, is struck out with a line through it; crossed-out text is not recorded. A passage on p. 159, on the Hohenlohe action of 1808, which the archive's transcript skips, is restored from the scan. <!-- context -->
 
 ### Related holdings
 

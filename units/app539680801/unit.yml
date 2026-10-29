@@ -29,9 +29,14 @@ archive_title: >-
   Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, Wittow i Trąpczyn
   z lat 1805-1806
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, Wittow i Trąpczyn z lat 1805-1806"
+card_title: "Copies of documents on the parcelling of the estates of Zagórowo, Wittow and Trąpczyn from the years 1805-1806"
+card_title_de: "Abschriften von Dokumenten zur Parzellierung der Güter Zagórowo, Wittow und Trąpczyn aus den Jahren 1805-1806"
+original_title: "Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, Wittow i Trąpczyn z lat 1805-1806"
 # The papers copied are dated 19 February 1805 to 21 March 1806. The copy
 # itself the archive dates "[1930?]".
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [deeds-contracts]
 date_span: 1805-1806
 status: translated         # draft | transcribed | translated | published
 # Translated in session on 2026-10-05 into the untagged cache

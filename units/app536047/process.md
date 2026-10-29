@@ -1,6 +1,6 @@
 ### Scans
 
-The folder has three frames of a microfilm of this book, each showing two facing pages. Two carry the entry. They were cut at the fold, and three of their four halves are shown, in the order in which the entry is read. The third frame has a later entry between other parties, which is not part of the edition.
+The folder has three frames of a microfilm of this book, each showing two facing pages. Two carry the entry. They were cut at the fold, and three of their four halves are shown, in the order in which the entry is read. The third frame has a later entry between other parties, which is not included.
 
 ### Transcription
 

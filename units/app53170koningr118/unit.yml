@@ -29,8 +29,12 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Konin Municipal Court: Relationes [protocollon] 1780-1782"
 card_title_de: "Burggericht Konin: Relationes [protocollon] 1780-1782"
+original_title: "Relationes [protocollon] 1780-1782"
 # The fonds, as for Konin Gr.145 (the editor, 2026-10-06).
 fonds: Księgi sądu i urzędu grodzkiego w Koninie
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [court-records]
 date_span: 1780-1782
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

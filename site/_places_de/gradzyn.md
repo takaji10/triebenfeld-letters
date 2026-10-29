@@ -23,10 +23,10 @@ hits_docs_count: 20
 Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege document from Ląd Abbey, which was sold by the German Bochneth family to the monastery for the sum of 400 Cologne marks.[^21] *Pustkowie Grądziem* included three farms in Łukom, the forests of *Grądziem*, *Chmielniki*, and *Łome* (the latter forest which extended up to the road known as *Rosaszewska* that ran from Łukom and Łomow to the inns known as *Karczemne Gory* and *Karczemne Ługi*), the Pyzdry crag/cliff, and the meadow above Imielno.[^22] *Grązien* (Łukom 1766); *Pustkowie Grądzin* (Perthées 1798); *Grondzyn* (Gilly 1802); *Haulanderei Grądzyn* as part of the Kopojno estate (Hollring 1804); with a customs office as *Grazin* (Richter 1843); *Hol. Grądzeń* (Chrzanowski 1858). The Słownik geograficzny records it as a village, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 10 houses and 80 inhabitants at the time of the Słownik.[^23] Nazwy miejscowe Polski records the name as *Grzandzen* by 1365, later as *Grądzeń* (1827).[^24]
 
 [^21]: Klasztor cystersów w Lądzie 13-14
-    [The document in the edition.](/documents/app5314550221/2/#p1)
+    [The document.](/documents/app5314550221/2/#p1)
 
 [^22]: Ibid
-    [The document in the edition.](/documents/app5314550221/2/#p1)
+    [The document.](/documents/app5314550221/2/#p1)
 
 [^23]: Słownik geograficzny, t. II, p. 807
 

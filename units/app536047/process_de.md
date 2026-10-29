@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Der Ordner enthält drei Bilder eines Mikrofilms dieses Buchs, jedes mit zwei gegenüberliegenden Seiten. Zwei tragen den Eintrag. Sie wurden am Falz geschnitten, und drei ihrer vier Hälften sind wiedergegeben, in der Reihenfolge, in der der Eintrag zu lesen ist. Das dritte Bild hat einen späteren Eintrag zwischen anderen Parteien, der nicht Teil der Edition ist.
+Der Ordner enthält drei Bilder eines Mikrofilms dieses Buchs, jedes mit zwei gegenüberliegenden Seiten. Zwei tragen den Eintrag. Sie wurden am Falz geschnitten, und drei ihrer vier Hälften sind wiedergegeben, in der Reihenfolge, in der der Eintrag zu lesen ist. Das dritte Bild hat einen späteren Eintrag zwischen anderen Parteien, der nicht dazugehört.
 
 ### Transkription
 

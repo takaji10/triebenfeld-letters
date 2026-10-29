@@ -4,12 +4,12 @@ The archive's export holds 22 photographs. Twenty-one show an opening of the bou
 
 ### Transcription
 
-The archive supplied its own transcript of the report, in French, page by page, and this edition takes its text from that transcript. Every page of it was read against the scan before anything was built. Two departures from the transcript, both on the editor's ruling: the passage on p. 159 on the Hohenlohe action of 1808, which the transcript skips, is restored from the scan; and the passages crossed out on p. 160 are not recorded, so the text runs from the end of p. 159 (the Tribunal, having taken into consideration:) straight into the numbered grounds. The corrected heading of p. 157 is kept
+The archive supplied its own transcript of the report, in French, page by page, and the text is taken from that transcript. Every page of it was read against the scan before anything was built. Two departures from the transcript, both on the editor's ruling: the passage on p. 159 on the Hohenlohe action of 1808, which the transcript skips, is restored from the scan; and the passages crossed out on p. 160 are not recorded, so the text runs from the end of p. 159 (the Tribunal, having taken into consideration:) straight into the numbered grounds. The corrected heading of p. 157 is kept
 as the transcript reads it, slips and all. <!-- context -->
 
 ### The English
 
-The English is the archive's own translation, imported page for page, and read against the French. It is accurate; where the source's own grammar or spelling slips, the translation renders the sense and the transcription keeps the slip. The one passage the transcript skips is translated here for the edition. The archive translator's notes and glossary are not carried over. <!-- context -->
+The English is the archive's own translation, imported page for page, and read against the French. It is accurate; where the source's own grammar or spelling slips, the translation renders the sense and the transcription keeps the slip. The one passage the transcript skips is translated here. The archive translator's notes and glossary are not carried over. <!-- context -->
 
 ### Date
 

@@ -29,11 +29,21 @@ archive_title: >-
   Jurisdictional dispute in the case of Michalina Miączyńska against Karol
   Weigel (1830-1834)
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Jurisdictional dispute in the case of Michalina Miączyńska against Karol Weigel (1830-1834)"
+# The archive's catalogue title (editor, 2026-10-29), in full:
+# Spór jurysdykcyjny w sprawie [hr.] Michaliny Miączyńskiej [właścicielki dóbr Trąbczyn z przyległościami, hipotekowanych na rzecz bankiera Karola Weigla] przeciwko [temuż] Karolowi Weigel, teraz skarbowi [o ekstabulację sumy lokowanej na tych dobrach]
+card_title: "Jurisdictional dispute in the case of [Countess] Michalina Miączyńska [...] against [the same] Karol Weigel, now the Treasury [for the extabulation of the sum placed on these estates]"
+card_title_de: "Zuständigkeitsstreit in der Sache der [Gräfin] Michalina Miączyńska [...] gegen [denselben] Karol Weigel, jetzt den Fiskus [wegen Löschung der auf diesen Gütern eingetragenen Summe]"
+full_title: "Jurisdictional dispute in the case of [Countess] Michalina Miączyńska [owner of the Trąbczyn estates with appurtenances, mortgaged in favour of the banker Karol Weigel] against [the same] Karol Weigel, now the Treasury [for the extabulation of the sum placed on these estates]"
+full_title_de: "Zuständigkeitsstreit in der Sache der [Gräfin] Michalina Miączyńska [Besitzerin der Güter Trąbczyn mit Zubehör, hypothekarisch zugunsten des Bankiers Karol Weigel belastet] gegen [denselben] Karol Weigel, jetzt den Fiskus [wegen Löschung der auf diesen Gütern eingetragenen Summe]"
+original_title: "Spór jurysdykcyjny w sprawie [hr.] Michaliny Miączyńskiej [właścicielki dóbr Trąbczyn z przyległościami, hipotekowanych na rzecz bankiera Karola Weigla] przeciwko [temuż] Karolowi Weigel, teraz skarbowi [o ekstabulację sumy lokowanej na tych dobrach]"
+original_title_card: "Spór jurysdykcyjny w sprawie [hr.] Michaliny Miączyńskiej [...] przeciwko [temuż] Karolowi Weigel, teraz skarbowi [o ekstabulację sumy lokowanej na tych dobrach]"
 fonds: II Rada Stanu Królestwa Polskiego
 # The unit's one document, the report, is dated 28 October 1834 (its final
 # page); the events it retraces run 1800-1834 and the archive's export title
 # says 1830-1834. The pages carry no other date.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [court-records, government-files]
 date_span: "1834"
 status: translated       # draft | transcribed | translated | published
 published_tag: "" # untagged: cache/translation-raw

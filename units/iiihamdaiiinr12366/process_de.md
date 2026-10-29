@@ -1,6 +1,6 @@
 ### Scans
 
-Das Archiv hat die Akte in 25 Aufnahmen fotografiert: den Umschlag, neun einzelne Blätter und fünfzehn Doppelseiten. Jede Doppelseite ist auf beiden Seiten beschrieben und wurde am Falz in zwei Seiten geteilt, an einer Linie, die der Herausgeber gesetzt oder gebilligt hat. Eine Doppelseite wurde zweimal aufgenommen, weil ein in den Falz eingebundener Papierstreifen in der einen Aufnahme einen Teil der linken, in der anderen einen Teil der rechten Seite verdeckt; die linke Seite stammt aus der ersten, die rechte aus der zweiten Aufnahme. Die Edition hat 37 Seiten und den Umschlag.
+Das Archiv hat die Akte in 25 Aufnahmen fotografiert: den Umschlag, neun einzelne Blätter und fünfzehn Doppelseiten. Jede Doppelseite ist auf beiden Seiten beschrieben und wurde am Falz in zwei Seiten geteilt, an einer Linie, die der Herausgeber gesetzt oder gebilligt hat. Eine Doppelseite wurde zweimal aufgenommen, weil ein in den Falz eingebundener Papierstreifen in der einen Aufnahme einen Teil der linken, in der anderen einen Teil der rechten Seite verdeckt; die linke Seite stammt aus der ersten, die rechte aus der zweiten Aufnahme. Es hat 37 Seiten und den Umschlag.
 
 ### Transkription
 
@@ -16,7 +16,7 @@ Ein KI-Modell (Claude) hat die gesamte Transkription mit den Scans verglichen un
 
 ### Randnotizen
 
-Die Bleistiftnotizen am Rand des Warschauer Berichts hat zuerst der Herausgeber gelesen, der auch die Stelle angab, neben der jede steht. Das Modell hat sie an vergrößerten Ausschnitten des Scans erneut gelesen und mehrere Wörter geändert. Jede Notiz steht am Fuß ihrer Seite unter der Bezeichnung „Vermerk der empfangenden Behörde“; die französischen Wörter in eckigen Klammern davor sind die Stelle, auf die sie sich bezieht, und stammen von der Edition. Die zweifelhaften Wörter hat der Herausgeber anschließend am Scan entschieden.
+Die Bleistiftnotizen am Rand des Warschauer Berichts hat zuerst der Herausgeber gelesen, der auch die Stelle angab, neben der jede steht. Das Modell hat sie an vergrößerten Ausschnitten des Scans erneut gelesen und mehrere Wörter geändert. Jede Notiz steht am Fuß ihrer Seite unter der Bezeichnung „Vermerk der empfangenden Behörde“; die französischen Wörter in eckigen Klammern davor sind die Stelle, auf die sie sich bezieht, und stammen vom Herausgeber. Die zweifelhaften Wörter hat der Herausgeber anschließend am Scan entschieden.
 
 ### Zusammenfassungen
 
@@ -24,4 +24,4 @@ Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments am 
 
 ### Übersetzung
 
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Die fünf französischen Dokumente wurden aus dem Französischen übersetzt, das Urteil aus dem Polnischen; ein französischer Brief und das polnische Urteil wurden zuerst als Probe übersetzt, weil Dokumente in diesen Sprachen für die Edition neu sind. Die deutschen Bleistiftnotizen wurden an ihrer Stelle übersetzt, unter derselben Bezeichnung wie in der Transkription. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist. Wo der Text Wörter doppelt hat, wie das polnische Urteil zweimal, wiederholt das Englische sie ebenfalls.
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Die fünf französischen Dokumente wurden aus dem Französischen übersetzt, das Urteil aus dem Polnischen; ein französischer Brief und das polnische Urteil wurden zuerst als Probe übersetzt, weil Dokumente in diesen Sprachen neu waren. Die deutschen Bleistiftnotizen wurden an ihrer Stelle übersetzt, unter derselben Bezeichnung wie in der Transkription. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist. Wo der Text Wörter doppelt hat, wie das polnische Urteil zweimal, wiederholt das Englische sie ebenfalls.

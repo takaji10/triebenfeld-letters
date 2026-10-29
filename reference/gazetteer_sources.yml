@@ -19,13 +19,13 @@
 #                 work        always the work's page (a work shown by summary)
 #                 glossary    always the glossary entry named in `glossary`
 #                 url         always the address in `url`
-#                 none        not in the edition: the footnote stays a citation
+#                 none        not included: the footnote stays a citation
 #   in_project  what of it the edition holds, in a few words
 #   wanted      for a work not (or not wholly) in the edition: what the
 #               gazetteer needs of it. docs/MISSING_SOURCES.md is made from
 #               this and the footnotes that cite it.
 #
-# Where the editor's citation and the edition's record of the same source
+# Where the editor's citation and the record of the same source
 # differ (the archive's name, a date), the key carries `differs:` and
 # docs/NEEDS_CONFIRMATION.md ("The gazetteer") asks.
 
@@ -220,7 +220,7 @@ sources:
       between Trąbczyn and Szetlewo (two of these entries are on the editor's
       scans and not transcribed: docs/TODO.md, section 7)
 
-  # --- not in the edition ----------------------------------------------------
+  # --- not included ----------------------------------------------------
 
   kalisz-1727:
     cite: "Relationes, citationes [protocollon] 1726-1727 (Kalisz municipal court)"

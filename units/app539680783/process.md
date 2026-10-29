@@ -4,7 +4,7 @@ The archive's images show the cover, the first page, and two openings of two pag
 
 ### Transcription
 
-The editor supplied a transcription of the Polish by paragraph. The print's "é" is given as "e". Words that the court messenger struck out in pen are left out, as everywhere in this edition.
+The editor supplied a transcription of the Polish by paragraph. The print's "é" is given as "e". Words that the court messenger struck out in pen are left out.
 
 ### Check against the scans
 

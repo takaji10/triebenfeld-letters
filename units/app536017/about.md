@@ -1,4 +1,4 @@
-One entry on two pages of a book of the land court at Konin for the year 1589, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the court's order for an inspection on the ground in a suit over a pond at Łukom that flooded the woods of Trąbczyn. It is in Latin, with one sentence in Polish, and is one document. It is the earliest document in this edition. <!-- context -->
+One entry on two pages of a book of the land court at Konin for the year 1589, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the court's order for an inspection on the ground in a suit over a pond at Łukom that flooded the woods of Trąbczyn. It is in Latin, with one sentence in Polish, and is one document. It is the earliest document in the collection. <!-- context -->
 
 ### Historical background
 

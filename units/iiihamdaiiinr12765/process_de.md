@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Das Archiv hat die Akte in 46 Aufnahmen fotografiert, jeweils zwei gegenüberliegende Seiten. Neun leere Doppelseiten wurden weggelassen. Jede andere Doppelseite wurde im Falz geteilt, und nur eine beschriebene Seite wurde zu einer Seite der Edition: 48 Seiten und ein Umschlag. Der Herausgeber hat jede Falzlinie gesetzt.
+Das Archiv hat die Akte in 46 Aufnahmen fotografiert, jeweils zwei gegenüberliegende Seiten. Neun leere Doppelseiten wurden weggelassen. Jede andere Doppelseite wurde im Falz geteilt, und nur eine beschriebene Seite wurde zu einer Seite: 48 Seiten und ein Umschlag. Der Herausgeber hat jede Falzlinie gesetzt.
 
 ### Transkription
 

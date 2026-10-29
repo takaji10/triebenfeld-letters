@@ -5,7 +5,7 @@
 
 slug: oe1bu9454
 ref: Oe 1 Bü 9454
-archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+archive: Hohenlohe-Zentralarchiv Neuenstein (HZAN)
 # What the holding is about, in one sentence, English and German: the line
 # under the reference on the Sources page, and the opening of the
 # translator's and summariser's prompts (editor, 2026-10-01).
@@ -30,7 +30,12 @@ archive_title: >-
   Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with the
   Councillor of War and Forests von Triebenfeld
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with the Councillor of War and Forests von Triebenfeld"
+card_title: "Correspondence of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen with the Prussian Councillor of War and Forests von Triebenfeld"
+card_title_de: "Korrespondenz des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen mit dem preußischen Kriegs- und Forstrat von Triebenfeld"
+original_title: "Korrespondenz des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen mit dem preußischen Kriegs- und Forstrat von Triebenfeld"
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [correspondence]
 date_span: 1798-1816
 status: translated         # draft | transcribed | translated | published
 

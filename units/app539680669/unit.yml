@@ -24,10 +24,15 @@ title_de: >-
 archive_title: >-
   Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska]
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska]"
+card_title: "Grodziec [Notes on Grodziec, Józefów Zament, Łazińsk]"
+card_title_de: "Grodziec [Notizen zu Grodziec, Józefów Zament, Łazińsk]"
+original_title: "Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska]"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 # The cover is dated "Juli 1936"; one page of the photograph log at the back
 # is headed "Juli 1935" (notes.md).
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [researchers-papers]
 date_span: "1936"
 status: translated         # draft | transcribed | translated | published
 # The English was written in session on 2026-10-14 into the untagged cache.
@@ -93,8 +98,7 @@ translation_note: >-
   Field notes in German, in pencil, written fast and much shortened ("d."
   der/die/das, "i." in, "u." und, "Gem." Gemeinde, "Holl." Holland or
   Hauland, "Morg." Morgen, "Bl." Blende, "Gf." Gelbfilter). They are not
-  sentences: give them as notes. "Holland" and "Hauland" are the edition's
-  Hollander or Olęder settlements; "Kaveln", "Baustücke", "Viermorgen" are
+  sentences: give them as notes. "Holland" and "Hauland" are Hollander or Olęder settlements; "Kaveln", "Baustücke", "Viermorgen" are
   kinds of plot; "Bruch" is marsh land and "Brücher" its people; "Restgut"
   is what was left of the manor after parcelling; "Servitut" a right of
   pasture or wood; "Rejent" a notary. Quoted words are local speech or

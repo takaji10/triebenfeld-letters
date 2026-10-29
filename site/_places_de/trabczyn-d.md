@@ -25,7 +25,7 @@ Hamlet southwest of Łazińsk Pierwszy. Appeared in Zagórów Evangelical-Augsbu
 [^90]: Ibid 1920/#13 Page 135/Image 311
 
 [^91]: Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]"
-    [The document in the edition.](/documents/app539680669/2/)
+    [The document.](/documents/app539680669/2/)
 
 </div>
 {% endraw %}

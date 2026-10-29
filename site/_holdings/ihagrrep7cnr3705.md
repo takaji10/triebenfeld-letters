@@ -31,7 +31,7 @@ Letters of Triebenfeld to Hohenlohe-Ingelfingen from the same years: <a href="{{
 
 ### Scans
 
-The archive photographed the file as eighteen images: a title page and seventeen openings of two facing pages. The openings were not cut, because the transcription treats each opening as one piece. A page of the edition is therefore one opening.
+The archive photographed the file as eighteen images: a title page and seventeen openings of two facing pages. The openings were not cut, because the transcription treats each opening as one piece. A page here is therefore one opening.
 
 ### Transcription
 

@@ -8,7 +8,7 @@ After 1815 the estate lay in the Kingdom of Poland, under the Russian emperor, a
 
 ### Contents
 
-The contract is dated from the colony itself: "Tropiczyner Holl., 14. März 1820". Tropiczyner Holl. is the Olęder colony on the Trąbczyn estate, the Trąbczyńskie Stare Olędry, which this edition follows under its later name Łazińsk (the editor's ruling, recorded in the changelog). The village board - the Schulze Johann George Lindner, the Beisitzer Christoph Rimpel and Samuel Gellert - records that Samuel Adolph, a school teacher from Borwiezer Holland, appeared and let it be known that he would take over the school here; the board had put him to the test, and on that ground contracts with him and issues him the appointment [[1]].
+The contract is dated from the colony itself: "Tropiczyner Holl., 14. März 1820". Tropiczyner Holl. is the Olęder colony on the Trąbczyn estate, the Trąbczyńskie Stare Olędry, which stands under its later name Łazińsk. The village board - the Schulze Johann George Lindner, the Beisitzer Christoph Rimpel and Samuel Gellert - records that Samuel Adolph, a school teacher from Borwiezer Holland, appeared and let it be known that he would take over the school here; the board had put him to the test, and on that ground contracts with him and issues him the appointment [[1]].
 
 Ten numbered terms follow [[1]]:
 
@@ -27,7 +27,7 @@ On this contract the teacher binds himself to continue his office as an honest m
 
 ### Form and language
 
-The contract is in German, in one hand, written fast and with phonetic spellings that this edition keeps as written: "Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß". The terms are numbered 1. to 10., item 9 with the ordinal "9te."; item 7 carries its number and nothing else. A word divided at a line end keeps the manuscript's hyphen. "pohl." after a sum marks Polish money [[1]].
+The contract is in German, in one hand, written fast and with phonetic spellings that are kept as written: "Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß". The terms are numbered 1. to 10., item 9 with the ordinal "9te."; item 7 carries its number and nothing else. A word divided at a line end keeps the manuscript's hyphen. "pohl." after a sum marks Polish money [[1]].
 
 ### Related holdings
 

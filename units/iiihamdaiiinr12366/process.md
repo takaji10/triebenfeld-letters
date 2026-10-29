@@ -1,6 +1,6 @@
 ### Scans
 
-The archive photographed the file as 25 images: the cover, nine single leaves and fifteen openings of two facing pages. Every opening has writing on both sides and was cut at its fold into two pages, at a line the editor placed or approved. One opening was photographed twice, because a slip of paper bound into the fold hides part of the left page in one image and part of the right page in the other; the left page is taken from the first image and the right page from the second. The edition has 37 pages and the cover.
+The archive photographed the file as 25 images: the cover, nine single leaves and fifteen openings of two facing pages. Every opening has writing on both sides and was cut at its fold into two pages, at a line the editor placed or approved. One opening was photographed twice, because a slip of paper bound into the fold hides part of the left page in one image and part of the right page in the other; the left page is taken from the first image and the right page from the second. It has 37 pages and the cover.
 
 ### Transcription
 
@@ -16,7 +16,7 @@ An AI model (Claude) compared the whole transcription with the scans and correct
 
 ### Notes in the margin
 
-The pencil notes in the margins of the Warsaw report were first read by the editor, who also named the passage each stands beside. The model read them again on enlarged images of the scan and changed several words. Each note stands at the foot of its page under the label "Written by the receiving office"; the French words in square brackets before it are the passage it refers to and were added by the edition. The editor then settled the doubtful words on the scan.
+The pencil notes in the margins of the Warsaw report were first read by the editor, who also named the passage each stands beside. The model read them again on enlarged images of the scan and changed several words. Each note stands at the foot of its page under the label "Written by the receiving office"; the French words in square brackets before it are the passage it refers to and were added by the editor. The editor then settled the doubtful words on the scan.
 
 ### Summaries
 
@@ -24,4 +24,4 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The five French documents were translated from the French and the judgment from the Polish; one French letter and the Polish judgment were done first as a trial, since documents in these languages are new to the edition. The pencil notes in German were translated where they stand, under the same label as in the transcription. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English. Where the text repeats words, as the Polish judgment does twice, the English repeats them too.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The five French documents were translated from the French and the judgment from the Polish; one French letter and the Polish judgment were done first as a trial, since documents in these languages were new. The pencil notes in German were translated where they stand, under the same label as in the transcription. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English. Where the text repeats words, as the Polish judgment does twice, the English repeats them too.

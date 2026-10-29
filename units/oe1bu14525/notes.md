@@ -10,7 +10,7 @@ record carries are those of the attestation, not of the grant it copies.
 
 ## Provenance
 
-Hohenloher Zentralarchiv Neuenstein (HZAN). 128 captures were cropped into 209
+Hohenlohe-Zentralarchiv Neuenstein (HZAN). 128 captures were cropped into 209
 single-page images. 165 of those carry transcribed text and are paired one to
 one with a page of the corpus; `match_scans.py` sets the other 44 aside as front
 matter, blanks, or leaves past the last transcribed page. No image is used

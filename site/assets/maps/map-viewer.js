@@ -1,10 +1,10 @@
 /*
 The viewer of a map in the edition (docs/MAPS_SITE_PLAN.md, section 3):
 OpenSeadragon over the map's IIIF tiles in the second repository, the map
-turned by the register's view_rotation so the lettering reads upright, the
+shown as drawn (the button turns it by the register's view_rotation, north up), the
 editor's marks drawn at their points. A mark names its place on hover,
 and clicking it takes the reader to its row in the list below the details;
-a row's crop takes the map to the mark; the address #<label-id> opens the
+a row's name on the map takes the map to the mark; the address #<label-id> opens the
 map at that mark. The marks are in the pixels of the tiles' image (the
 original's, adjusted for the map's crop by the build), so a new crop or a
 better scan does not move them.
@@ -69,7 +69,6 @@ better scan does not move them.
   // ---- the marks ---------------------------------------------------------
   var marks = {};
   viewer.addHandler('open', function () {
-    if (ROT) viewer.viewport.setRotation(ROT, true);
     (M.labels || []).forEach(function (l) {
       if (!l.point) return;
       var lid = l.id;
@@ -84,7 +83,16 @@ better scan does not move them.
       d.setAttribute('data-label', lid);
       var p = viewer.viewport.imageToViewportCoordinates(
         new OpenSeadragon.Point(l.point[0], l.point[1]));
-      viewer.addOverlay({ element: d, location: p });
+      // Centred on its point by the viewer itself (the mark has a fixed size, so
+      // OpenSeadragon's centring holds at every zoom and turn); a margin hack
+      // drifted off the point as the map was zoomed. Never turned with the map:
+      // a circle stays a circle.
+      viewer.addOverlay({
+        element: d,
+        location: p,
+        placement: OpenSeadragon.Placement.CENTER,
+        rotationMode: OpenSeadragon.OverlayRotationMode.NO_ROTATION
+      });
       var activate = function () {
         highlight(lid);
         goToRow(lid);
@@ -136,8 +144,13 @@ better scan does not move them.
     // about 0.4 image pixels per screen pixel: a name's lettering readable
     var z = Math.min(viewer.viewport.imageToViewportZoom(0.4),
                      viewer.viewport.getMaxZoom());
-    viewer.viewport.zoomTo(z, p);
+    // zoom with no reference point, then pan: zooming about the point first
+    // (zoomTo(z, p)) left the pan target to be overridden by the zoom's own
+    // anchor, so the mark ended up off centre once the map had been zoomed
+    // or dragged
+    viewer.viewport.zoomTo(z);
     viewer.viewport.panTo(p);
+    viewer.viewport.applyConstraints();
     highlight(id);
   }
 
@@ -160,14 +173,17 @@ better scan does not move them.
     });
   });
 
-  // ---- as drawn / north up ----------------------------------------------
+  // ---- as drawn (the default) / north up ----------------------------------
+  // The button names what a click does: "North up" while the map is as drawn,
+  // "As drawn" once turned. A map with no view_rotation needs no button.
   var rotbtn = document.getElementById('map-rot');
   if (rotbtn) {
+    if (!ROT) rotbtn.hidden = true;
     rotbtn.addEventListener('click', function () {
-      var north = viewer.viewport.getRotation() !== 0;
-      viewer.viewport.setRotation(north ? 0 : ROT, true);
-      rotbtn.textContent = north ? rotbtn.getAttribute('data-drawn')
-                                 : rotbtn.getAttribute('data-north');
+      var turned = viewer.viewport.getRotation() !== 0;
+      viewer.viewport.setRotation(turned ? 0 : ROT, true);
+      rotbtn.textContent = turned ? rotbtn.getAttribute('data-north')
+                                  : rotbtn.getAttribute('data-drawn');
     });
   }
 })();

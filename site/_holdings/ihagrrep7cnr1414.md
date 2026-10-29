@@ -27,7 +27,7 @@ The papers do not say what Prusimski wanted the certificate for, or what was don
 
 ### Form and language
 
-The first page is the department's own draft, with its registry marks and two ministers' signatures. The extract is a clean copy made in the department. Schrötter's letter is the original he sent. On the extract and on Schrötter's letter the department noted the day of receipt, the journal number and what was to be done; on the pages of this edition these notes stand under a label after the text they were written on. The direction of 8 January 1797 is written on a slip of its own. <!-- context -->
+The first page is the department's own draft, with its registry marks and two ministers' signatures. The extract is a clean copy made in the department. Schrötter's letter is the original he sent. On the extract and on Schrötter's letter the department noted the day of receipt, the journal number and what was to be done; on the pages here these notes stand under a label after the text they were written on. The direction of 8 January 1797 is written on a slip of its own. <!-- context -->
 
 ### Related holdings
 
@@ -59,7 +59,7 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The extract was translated from the French. The registry marks are given in English; two abbreviations that the page does not expand are left as they stand. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The extract was translated from the French. The registry marks are given in English; two abbreviations that the page does not expand are left as they stand. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
 
 ### Still to do
 

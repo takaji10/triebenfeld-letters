@@ -4,7 +4,7 @@ Ein Scan, der Download des Herausgebers aus der Online-Präsentation der Einheit
 
 ### Transkription
 
-Der Herausgeber lieferte die Transkription, und sie bleibt wie geschrieben: Die Abkürzungszeichen (~) stehen, und die Stellen, die der Herausgeber mit Zweifel las, behalten ihre Zeichen („praeterita[?]", „detulisse[?]", „[F?]irma"). Die Zeilen folgen den eigenen Zeilen der Handschrift. Ein am Zeilenende geteiltes Wort steht mit dem Laufenden-Ende-Zeichen der Edition, ¬ - der Entwurf des Herausgebers hatte dort einen Bindestrich („Hyp-", „Ju-"); eine Sache der Konvention, keine Lesung geändert.
+Der Herausgeber lieferte die Transkription, und sie bleibt wie geschrieben: Die Abkürzungszeichen (~) stehen, und die Stellen, die der Herausgeber mit Zweifel las, behalten ihre Zeichen („praeterita[?]", „detulisse[?]", „[F?]irma"). Die Zeilen folgen den eigenen Zeilen der Handschrift. Ein am Zeilenende geteiltes Wort steht mit dem Laufenden-Ende-Zeichen, ¬ - der Entwurf des Herausgebers hatte dort einen Bindestrich („Hyp-", „Ju-"); eine Sache der Konvention, keine Lesung geändert.
 
 Zwei Entscheidungen fielen in der Sitzung, 2026-10-26:
 
@@ -40,6 +40,6 @@ Die Zusammenfassung wurde in Englisch und Deutsch in der Sitzung geschrieben. Ih
 - `about.md`/`process.md` und ihr Deutsches, in der Sitzung geschrieben.
 - `rulings.yml`: doc_type report (der Koniner Wortschatz), Sprache la, das Datum vorläufig als 1727 geliefert, Ort des Schreibens leer, Güter szetlew und szetlewek.
 - Ein Personen-Eintrag: Sebastian Szetlewicz, Gerichtsbote (`reference/people.yml`, `reference/people_bios.yml`, keine Lebensdaten).
-- Orte: „Szetlewko" zu Szetlewek, „Szetlewo" zu Szetlew zugeordnet (reference/places.yml, 2026-10-26) - der erste Text der Edition, der die beiden auseinanderhält. Die Änderung verschob eine in der Edition stehende Erwähnung (die Zeile „Szetlewo z Częś: Jaroszew:" der Rauchfangstabelle von 1789, von Szetlewek zu Szetlew) und zählte zwei neue (die eigenen Anmerkungen des Kodeks in den Einträgen von 1173 und 1261). Beides steht in `literature/index.yml` und hier und wurde vom Herausgeber bestätigt (2026-10-26).
+- Orte: „Szetlewko" zu Szetlewek, „Szetlewo" zu Szetlew zugeordnet (reference/places.yml, 2026-10-26) - der erste Text, der die beiden auseinanderhält. Die Änderung verschob eine frühere Erwähnung (die Zeile „Szetlewo z Częś: Jaroszew:" der Rauchfangstabelle von 1789, von Szetlewek zu Szetlew) und zählte zwei neue (die eigenen Anmerkungen des Kodeks in den Einträgen von 1173 und 1261). Beides steht in `literature/index.yml` und hier und wurde vom Herausgeber bestätigt (2026-10-26).
 - Die Glossar-Schwelle geht durch; keine Kandidatenwörter.
 - Zeitleiste: kein Ereignis ergänzt - der Eintrag nennt keine Partei; dem Herausgeber vorgetragen.

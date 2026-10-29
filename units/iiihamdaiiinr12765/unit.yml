@@ -27,9 +27,17 @@ archive_title: >-
   Güter Trąbczyn im Kalischer Departement - the foreign ministry's file on the
   Prince's claim for compensation for Trąbczyn
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Acta betr: Ein Entschädigungs Gesuch des Fürsten zu Hohenlohe wegen der Güter Trąbczyn im Kalischer Departement"
+# The archive's catalogue title (editor, 2026-10-29), in full:
+# Ansprüche des Friedrich Ludwig Fürst zu Hohenlohe
+# The card shortens it with [...]; the English site shows a translation.
+card_title: "Claims of Friedrich Ludwig, Prince of Hohenlohe"
+card_title_de: "Ansprüche des Friedrich Ludwig Fürst zu Hohenlohe"
+original_title: "Ansprüche des Friedrich Ludwig Fürst zu Hohenlohe"
 # The first piece is of 25 October 1814 (enclosing a copy of 14 May 1814), the
 # last of 19 May 1820, docketed 30 May.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [government-files]
 date_span: 1814-1820
 status: translated             # draft | transcribed | translated | published
 

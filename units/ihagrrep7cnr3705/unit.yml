@@ -28,7 +28,15 @@ archive_title: >-
   Olesnica: Triebenfeld's petition to the King for the sequestration of the
   Olesnica estate, 1805
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Acta wegen des von dem Fürsten zu Hohenlohe-Oehringen verErbpachteten Guts Olesnica"
+# The archive's catalogue title (editor, 2026-10-29), in full:
+# Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenlohe-Oehringen
+# The card shortens it with [...]; the English site shows a translation.
+card_title: "Hereditary lease of the estate of Oleszinia by the Princes of Hohenlohe-Oehringen"
+card_title_de: "Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenlohe-Oehringen"
+original_title: "Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenlohe-Oehringen"
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [government-files, deeds-contracts]
 date_span: 1805
 status: translated         # draft | transcribed | translated | published
 

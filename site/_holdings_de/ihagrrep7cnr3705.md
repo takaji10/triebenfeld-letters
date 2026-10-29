@@ -31,7 +31,7 @@ Briefe Triebenfelds an Hohenlohe-Ingelfingen aus denselben Jahren: <a href="{{ '
 
 ### Aufnahmen
 
-Das Archiv hat die Akte in achtzehn Aufnahmen fotografiert: ein Titelblatt und siebzehn Doppelseiten. Die Doppelseiten wurden nicht geteilt, weil die Transkription jede als ein Stück behandelt. Eine Seite der Edition ist daher eine Doppelseite.
+Das Archiv hat die Akte in achtzehn Aufnahmen fotografiert: ein Titelblatt und siebzehn Doppelseiten. Die Doppelseiten wurden nicht geteilt, weil die Transkription jede als ein Stück behandelt. Eine Seite ist daher eine Doppelseite.
 
 ### Transkription
 

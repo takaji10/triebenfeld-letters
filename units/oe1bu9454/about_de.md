@@ -72,7 +72,7 @@ Ein Dokument ist kein Brief: ein Auszug aus den Liquidationsprotokollen über di
 
 ### Form und Sprache
 
-Die Dokumente sind deutsch, mit Ausnahme eines französischen und eines polnischen Briefes. Der Bestand behält die Zählung des Archivs, die nicht chronologisch ist: Die Nummern 1 bis 74 enthalten Briefe von 1806 bis 1815 ohne Ordnung, und die Nummern 75 bis 301 laufen von 1798 an. Mehrere Nummern enthalten einen Brief mit Beilagen, die die Edition als eigene Dokumente unter derselben Nummer mit einem Buchstaben führt. Vier Nummern fehlen im Bestand. Drei Dokumente liegen in zwei Abschriften vor. Das Gläubigerverzeichnis ist als Tabelle wiedergegeben. <!-- context -->
+Die Dokumente sind deutsch, mit Ausnahme eines französischen und eines polnischen Briefes. Der Bestand behält die Zählung des Archivs, die nicht chronologisch ist: Die Nummern 1 bis 74 enthalten Briefe von 1806 bis 1815 ohne Ordnung, und die Nummern 75 bis 301 laufen von 1798 an. Mehrere Nummern enthalten einen Brief mit Beilagen, die als eigene Dokumente unter derselben Nummer mit einem Buchstaben geführt werden. Vier Nummern fehlen im Bestand. Drei Dokumente liegen in zwei Abschriften vor. Das Gläubigerverzeichnis ist als Tabelle wiedergegeben. <!-- context -->
 
 Triebenfeld schrieb in Eile und oft krank. Dreizehn Briefe sind unvollkommen transkribiert und als solche gekennzeichnet; unsichere Lesungen sind im Text markiert. Viele Briefe sind undatiert oder nur mit Tag und Monat datiert; das angegebene Datum ist dann das des Herausgebers, und seine Grundlage steht auf der Seite des Dokuments. <!-- context -->
 

@@ -1,4 +1,4 @@
-Ein Eintrag auf zwei Seiten eines Buchs des Landgerichts in Konin für das Jahr 1589, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Er ist die Anordnung des Gerichts, eine Besichtigung im Gelände vorzunehmen, in einem Rechtsstreit um einen Teich bei Łukom, der die Wälder von Trąbczyn überschwemmte. Er ist lateinisch, mit einem polnischen Satz, und bildet ein einziges Dokument. Er ist das früheste Dokument dieser Edition. <!-- context -->
+Ein Eintrag auf zwei Seiten eines Buchs des Landgerichts in Konin für das Jahr 1589, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Er ist die Anordnung des Gerichts, eine Besichtigung im Gelände vorzunehmen, in einem Rechtsstreit um einen Teich bei Łukom, der die Wälder von Trąbczyn überschwemmte. Er ist lateinisch, mit einem polnischen Satz, und bildet ein einziges Dokument. Er ist das früheste Dokument der Sammlung. <!-- context -->
 
 ### Historischer Hintergrund
 

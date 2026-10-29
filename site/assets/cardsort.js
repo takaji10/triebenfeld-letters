@@ -1,5 +1,5 @@
 /* The materials' lists: sort the cards A-Z (the default) or by date, and on
-   the archival list filter them by archive (2026-10-29).
+   the archival list filter them by archive and by type of material (2026-10-29).
 
    Each card (.sources > .source) carries data-az (what it sorts under),
    data-date (a year, or empty) and, on the archival list, data-archive. A-Z
@@ -37,6 +37,7 @@
       az: norm(el.getAttribute('data-az')),
       date: isNaN(y) ? Infinity : y,
       archive: el.getAttribute('data-archive') || '',
+      types: (el.getAttribute('data-types') || '').split(' '),
       id: el.id
     };
   });
@@ -50,6 +51,7 @@
 
   var btns = tools.querySelectorAll('[data-sort]');
   var select = tools.querySelector('select[data-filter="archive"]');
+  var typeSelect = tools.querySelector('select[data-filter="type"]');
   var count = tools.querySelector('.tools-count');
   var mode = 'az';
 
@@ -63,9 +65,11 @@
   function render() {
     items.sort(mode === 'az' ? byAz : byDate);
     var archive = select ? select.value : '';
+    var type = typeSelect ? typeSelect.value : '';
     var shown = 0;
     items.forEach(function (it) {
-      var show = !archive || it.archive === archive;
+      var show = (!archive || it.archive === archive) &&
+        (!type || it.types.indexOf(type) !== -1);
       it.el.hidden = !show;
       if (show) shown++;
       list.appendChild(it.el);
@@ -88,6 +92,7 @@
     });
   });
   if (select) select.addEventListener('change', render);
+  if (typeSelect) typeSelect.addEventListener('change', render);
 
   render();
   tools.hidden = false;

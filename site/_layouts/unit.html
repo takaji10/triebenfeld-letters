@@ -15,12 +15,21 @@ layout: default
 {%- assign parts = content | split: '<!--prepared-->' -%}
 {%- assign u_title = u.title -%}
 {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
+{%- assign u_full = u.full_title | default: u.card_title -%}
+{%- if lang == "de" -%}{%- assign u_full = u.full_title_de | default: u.card_title_de | default: u_full -%}{%- endif -%}
 
 <div class="unit">
   <header class="unit-head">
+    {%- if u.listed_in == "literature" -%}
+    <p class="eyebrow"><a href="{{ u_lit | relative_url }}">{{ t.lit_h1 }}</a></p>
+    {%- else -%}
     <p class="eyebrow"><a href="{{ u_sources | relative_url }}">{{ t.sources_h1 }}</a></p>
+    {%- endif -%}
     <h1>{{ u.ref }}</h1>
+    {% if u_full %}<p class="unit-title">{{ u_full }}</p>{% endif %}
+    {% if u.original_title and u.original_title != u_full %}<p class="unit-original"><em>{{ u.original_title }}</em></p>{% endif %}
     <p class="source-archive">{{ u.archive }}</p>
+    {% include unit-types.html types=u.types %}
     {% if u_title %}<p class="standfirst">{{ u_title }}</p>{% endif %}
     <dl class="source-facts">
       <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>

@@ -84,7 +84,7 @@ def main():
         out = []
         for part in [x.strip() for x in str(src).split(';') if x.strip()]:
             if part == 'editor':
-                out.append({'text': 'the edition' if lang == 'en' else 'die Edition'})
+                out.append({'text': 'the editor' if lang == 'en' else 'der Herausgeber'})
                 continue
             if '/' in part:
                 work, _, key = part.partition('/')

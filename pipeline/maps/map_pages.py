@@ -167,7 +167,8 @@ def main():
                 'crop': f'/assets/maps/crops/{key}/{lid}.jpg',
                 'lat': pp.get('lat'),
                 'lon': pp.get('lon'),
-                'refs': refs_of.get(lid) or [],
+                'refs': refs_of.get(lid) or lb.get('refs') or [],
+                'sort_name': (headings.get(place) if place else None) or lb.get('form'),
             })
         kind = (m.get('kind') or 'unknown').lower()
         out_maps[key] = {

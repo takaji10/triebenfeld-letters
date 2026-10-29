@@ -23,7 +23,7 @@ hits_docs_count: 4
 Olęder settlement which existed southwest of Trąbczyn, located at Łazińsk Pierwszy. Established as the first Olęder settlement on the Trąbczyn estate in 1746 by Paweł Prusimski and his wife Katarzyna Rozdrażewska on the forests of Miąsykąt, Dziadulina, and Lusnie in the southwest part of the Trąbczyn estate.[^94] Trąbczyńskie Stare Olędry was merged with Trąbczyńskie Nowe Olędry to create Łazińskie Olędry, which first appeared in Trąbczyn Catholic parish metrical records in 1822. First appeared as an unlabeled *Hollendry* (von Pfau 1770); *Holendry Lusnia Stara* (Trąbczyn 1790); *Holendry Stare Trąbczynskie* (Perthées 1798); *Alte Trombczyner Hol[endry]* (Gilly 1802).
 
 [^94]: “Relationes-oblatae [protocollon],” 1776, 692
-    [The document in the edition.](/documents/app53170koningr145/1/#p76)
+    [The document.](/documents/app53170koningr145/1/#p76)
 
 </div>
 {% endraw %}

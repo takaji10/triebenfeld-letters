@@ -30,10 +30,21 @@ archive_title: >-
   Entschädigungsgesuchs der Frau v. Miączyńska geb. v. Prusimska, und die
   Forderung des p Weigel an dieselbe, imgleichen: der Gebrüder von Lichnowski
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Acta des Ministeriums der auswärtigen Angelegenheiten, betr.: Des Entschädigungsgesuchs der Frau v. Miączyńska geb. v. Prusimska, und die Forderung des p Weigel an dieselbe, imgleichen: der Gebrüder von Lichnowski"
+# The archive's catalogue title (editor, 2026-10-29), in full:
+# Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger Handlungshaus Carl Gottlieb Weigel & Söhne in Breslau (Prov. Schlesien) und der Brüder Lichnowsky in Brieg (Prov. Schlesien) an die Gräfin Michalina von Miaczynska, Bd. 1
+# The card shortens it with [...]; the English site shows a translation.
+card_title: "Suit of Countess Michalina von Miaczynska, née von Prusimska, widowed von Dabska, for the cancellation of the mortgage debts on her paternal estate Trapczyn (Poland). Claims of the creditors [...], Vol. 1"
+card_title_de: "Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger [...], Bd. 1"
+full_title: "Suit of Countess Michalina von Miaczynska, née von Prusimska, widowed von Dabska, for the cancellation of the mortgage debts on her paternal estate Trapczyn (Poland). Claims of the creditors, the trading house Carl Gottlieb Weigel & Sons in Breslau (Province of Silesia) and the Lichnowsky brothers in Brieg (Province of Silesia), against Countess Michalina von Miaczynska, Vol. 1"
+full_title_de: "Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger Handlungshaus Carl Gottlieb Weigel & Söhne in Breslau (Prov. Schlesien) und der Brüder Lichnowsky in Brieg (Prov. Schlesien) an die Gräfin Michalina von Miaczynska, Bd. 1"
+original_title: "Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger Handlungshaus Carl Gottlieb Weigel & Söhne in Breslau (Prov. Schlesien) und der Brüder Lichnowsky in Brieg (Prov. Schlesien) an die Gräfin Michalina von Miaczynska, Bd. 1"
+original_title_card: "Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger [...], Bd. 1"
 # The earliest piece is the copy of 29 April 1818, the latest the judgment of
 # 30 July 1827. The cover gives "Vol. I, vom 15. Dez. 1818 bis Novbr 1827".
 # The scan folder's name carries "1834-1836", which no piece here bears.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [government-files, correspondence]
 date_span: 1818-1827
 status: translated         # draft | transcribed | translated | published
 # Translated in session on 2026-10-04 into the untagged cache

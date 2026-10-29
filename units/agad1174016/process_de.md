@@ -1,10 +1,10 @@
 ### Aufnahmen
 
-Der Herausgeber hat drei Aufnahmen aus dem Band geliefert. Jede zeigt zwei gegenüberliegende Seiten, von denen eine gebraucht wird; diese Seite wurde aus der Aufnahme ausgeschnitten, die andere beiseitegelassen. Die Edition hat drei Seiten: die oben in der Ecke mit Bleistift als 47, 48 und 331 gezählten.
+Der Herausgeber hat drei Aufnahmen aus dem Band geliefert. Jede zeigt zwei gegenüberliegende Seiten, von denen eine gebraucht wird; diese Seite wurde aus der Aufnahme ausgeschnitten, die andere beiseitegelassen. Es hat drei Seiten: die oben in der Ecke mit Bleistift als 47, 48 und 331 gezählten.
 
 ### Transkription
 
-Der Herausgeber hat die beiden Einträge transkribiert, die die Güter betreffen, absatzweise und nicht zeilenweise. Die übrigen Einträge auf den Seiten 47 und 48 sind nicht transkribiert; diese beiden Seitenbilder zeigen daher mehr Text, als die Edition wiedergibt. Die Anordnung vom 12. Juli beginnt in der unteren Hälfte von Seite 47 und endet in der oberen Hälfte von Seite 48.
+Der Herausgeber hat die beiden Einträge transkribiert, die die Güter betreffen, absatzweise und nicht zeilenweise. Die übrigen Einträge auf den Seiten 47 und 48 sind nicht transkribiert; diese beiden Seitenbilder zeigen daher mehr Text, als transkribiert ist. Die Anordnung vom 12. Juli beginnt in der unteren Hälfte von Seite 47 und endet in der oberen Hälfte von Seite 48.
 
 ### Einteilung in Dokumente
 
@@ -20,4 +20,4 @@ Die Zusammenfassungen wurden auf Deutsch geschrieben, nachdem jedes Dokument mit
 
 ### Übersetzung
 
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Beide Einträge wurden aus dem Polnischen übersetzt, die Anredeformen englisch wiedergegeben (the Most Illustrious, the Honourable, Mrs). Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Beide Einträge wurden aus dem Polnischen übersetzt, die Anredeformen englisch wiedergegeben (the Most Illustrious, the Honourable, Mrs). Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.

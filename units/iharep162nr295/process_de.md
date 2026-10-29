@@ -1,6 +1,6 @@
 ### Fotografien und Seitenbilder
 
-Der Herausgeber hat den Umschlag und elf Seiten 2023 im Archiv fotografiert. Jede Seite wurde zweimal aufgenommen, einmal über der oberen und einmal über der unteren Hälfte, sodass sich die beiden Aufnahmen überlappen und dieselben Zeilen in beiden stehen. Für die Edition wurden die beiden Aufnahmen jeder Seite zu einem Bild der ganzen Seite zusammengefügt. Die Naht verläuft durch den Zwischenraum zwischen zwei Zeilen: Darüber ist das Bild die obere Aufnahme, darunter die untere, an die obere angepasst. Keine Zeile ist verdoppelt oder ausgelassen. Auf vier Seiten berührt die Naht an wenigen Stellen die Unterlänge eines Buchstabens. Jedes Bild ist am Falz beschnitten, sodass die gegenüberliegende Seite nicht zu sehen ist.
+Der Herausgeber hat den Umschlag und elf Seiten 2023 im Archiv fotografiert. Jede Seite wurde zweimal aufgenommen, einmal über der oberen und einmal über der unteren Hälfte, sodass sich die beiden Aufnahmen überlappen und dieselben Zeilen in beiden stehen. Die beiden Aufnahmen jeder Seite zu einem Bild der ganzen Seite zusammengefügt. Die Naht verläuft durch den Zwischenraum zwischen zwei Zeilen: Darüber ist das Bild die obere Aufnahme, darunter die untere, an die obere angepasst. Keine Zeile ist verdoppelt oder ausgelassen. Auf vier Seiten berührt die Naht an wenigen Stellen die Unterlänge eines Buchstabens. Jedes Bild ist am Falz beschnitten, sodass die gegenüberliegende Seite nicht zu sehen ist.
 
 ### Transkription
 
@@ -20,7 +20,7 @@ Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments an 
 
 ### Übersetzung
 
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Das Latein des Hypothekenwesens bleibt stehen, außer den beiden Ausdrücken für die General- und die Spezialhypothek, die englisch wiedergegeben sind. Die abgekürzten Posten der Gebührenvermerke der Gerichte bleiben, wie sie stehen. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl im Englischen erhalten ist.
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Das Latein des Hypothekenwesens bleibt stehen, außer den beiden Ausdrücken für die General- und die Spezialhypothek, die englisch wiedergegeben sind. Die abgekürzten Posten der Gebührenvermerke der Gerichte bleiben, wie sie stehen. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl im Englischen erhalten ist.
 
 ### Noch zu tun
 

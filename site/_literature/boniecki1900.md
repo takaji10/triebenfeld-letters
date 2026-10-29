@@ -42,7 +42,7 @@ excerpt_separator: ""
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Boniecki (1900) finds in "an old pedigree" that Jerzy Chełmski, who signed the election of 1648 with the province of Kalisz, was the father of Krzysztof Ścibor and Andrzej Ścibor, who held Łukomia between them about 1700, and then doubts it. In the land court's judgment of 1644 a Jerzy Chełmski sues the Trąmpczyński brothers of Trąbczyn for cutting boundary marks into his own wood by the village of Łukom. That a Jerzy Chełmski held Łukom in 1644 fits the old pedigree; the judgment does not say whose father he was.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app536036/1/' | relative_url }}">53/6/0/-/36, document 1 (1644)</a></p>
 </aside>{% raw %}
@@ -65,7 +65,7 @@ excerpt_separator: ""
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Boniecki (1900) finds in "an old pedigree" that Jerzy Chełmski, who signed the election of 1648 with the province of Kalisz, was the father of Krzysztof Ścibor and Andrzej Ścibor, who held Łukomia between them about 1700, and then doubts it. In the land court's judgment of 1644 a Jerzy Chełmski sues the Trąmpczyński brothers of Trąbczyn for cutting boundary marks into his own wood by the village of Łukom. That a Jerzy Chełmski held Łukom in 1644 fits the old pedigree; the judgment does not say whose father he was.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app536036/1/' | relative_url }}">53/6/0/-/36, document 1 (1644)</a></p>
 </aside>{% raw %}
@@ -96,8 +96,8 @@ In 1766 Ignacy sold his share of the family estates of Łukomia, Łomów, Mielno
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
-<p>Boniecki (1900) says that in 1766 Ignacy Chełmski sold his share of the family estates of Łukomia, Łomów, Mielno and Bukowe to his cousin Stanisław, and calls Stanisław Treasurer of Wschowa in 1779. In a protest entered at Konin in April 1778 (Konin Gr.117) Stanisław Ścibor Chełmski is already Treasurer of Wschowa and heir of "Łukomia, Łomów, Imielno and Bukowo": the same four estates, Mielno being the edition's Imielno. The edition follows the document for the title, a year earlier than Boniecki's. In 1763, before the purchase, the land court's decree (APP 53/6/0/-/45) has him at law with Katarzyna Prusimska while the boundary between Trąbczyn and Łukom was before the Crown Tribunal.</p>
+<p class="lit-links-head">In the documents</p>
+<p>Boniecki (1900) says that in 1766 Ignacy Chełmski sold his share of the family estates of Łukomia, Łomów, Mielno and Bukowe to his cousin Stanisław, and calls Stanisław Treasurer of Wschowa in 1779. In a protest entered at Konin in April 1778 (Konin Gr.117) Stanisław Ścibor Chełmski is already Treasurer of Wschowa and heir of "Łukomia, Łomów, Imielno and Bukowo": the same four estates, Mielno being Imielno. The document has the title a year earlier than Boniecki's. In 1763, before the purchase, the land court's decree (APP 53/6/0/-/45) has him at law with Katarzyna Prusimska while the boundary between Trąbczyn and Łukom was before the Crown Tribunal.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, document 4 (April 1778)</a><a href="{{ '/documents/app536045/1/' | relative_url }}">53/6/0/-/45, document 1 (1763)</a></p>
 </aside>{% raw %}
 </section>
@@ -119,7 +119,7 @@ In 1766 Ignacy sold his share of the family estates of Łukomia, Łomów, Mielno
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
+<p class="lit-links-head">In the documents</p>
 <p>Boniecki (1900) names Franciszek, who left no issue, and Józef as the sons of Andrzej Ścibor Chełmski, who held Łukomia alone in 1703, and knows them from a judgment of the Crown Tribunal of 1748 in the suit over Łukomia. In the land court's decree of 1728 the brothers Franciszek and Józef Ścibor Chełmski, heirs of Łukom and Łomowo, sue Krzysztof Prusimski of Trąbczyn, his son Antoni and their people, Józef acting in his own and his brother's name.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a></p>
 </aside>{% raw %}
@@ -142,8 +142,8 @@ Józef had a daughter Katarzyna and sons, Heliodor and Stanisław, as an agreeme
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
-<p>Boniecki (1900) gives Józef Chełmski's sons as Heliodor and Stanisław, and has Heliodor parish priest of Jaksice in 1757 and canon of Poznań in 1765. The boundary decree of 1775 (Konin Gr.145) records the citations served on "the Reverend Heliodor, Canon of Chełmno, and Stanisław, brothers by birth of the Chełmski family, heirs of the estates of Łukomia". The edition follows the decree: in 1775 Heliodor was a canon of Chełmno. Boniecki's offices are of earlier years, and the two need not contradict each other.</p>
+<p class="lit-links-head">In the documents</p>
+<p>Boniecki (1900) gives Józef Chełmski's sons as Heliodor and Stanisław, and has Heliodor parish priest of Jaksice in 1757 and canon of Poznań in 1765. The boundary decree of 1775 (Konin Gr.145) records the citations served on "the Reverend Heliodor, Canon of Chełmno, and Stanisław, brothers by birth of the Chełmski family, heirs of the estates of Łukomia". In 1775 Heliodor was a canon of Chełmno, as the decree has it. Boniecki's offices are of earlier years, and the two need not contradict each other.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a></p>
 </aside>{% raw %}
 </section>
@@ -165,8 +165,8 @@ Stanisław, Treasurer of Wschowa in 1779, who bought Łukomia from Ignacy Chełm
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
-<p>Boniecki (1900) says that in 1766 Ignacy Chełmski sold his share of the family estates of Łukomia, Łomów, Mielno and Bukowe to his cousin Stanisław, and calls Stanisław Treasurer of Wschowa in 1779. In a protest entered at Konin in April 1778 (Konin Gr.117) Stanisław Ścibor Chełmski is already Treasurer of Wschowa and heir of "Łukomia, Łomów, Imielno and Bukowo": the same four estates, Mielno being the edition's Imielno. The edition follows the document for the title, a year earlier than Boniecki's. In 1763, before the purchase, the land court's decree (APP 53/6/0/-/45) has him at law with Katarzyna Prusimska while the boundary between Trąbczyn and Łukom was before the Crown Tribunal.</p>
+<p class="lit-links-head">In the documents</p>
+<p>Boniecki (1900) says that in 1766 Ignacy Chełmski sold his share of the family estates of Łukomia, Łomów, Mielno and Bukowe to his cousin Stanisław, and calls Stanisław Treasurer of Wschowa in 1779. In a protest entered at Konin in April 1778 (Konin Gr.117) Stanisław Ścibor Chełmski is already Treasurer of Wschowa and heir of "Łukomia, Łomów, Imielno and Bukowo": the same four estates, Mielno being Imielno. The document has the title a year earlier than Boniecki's. In 1763, before the purchase, the land court's decree (APP 53/6/0/-/45) has him at law with Katarzyna Prusimska while the boundary between Trąbczyn and Łukom was before the Crown Tribunal.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, document 4 (April 1778)</a><a href="{{ '/documents/app536045/1/' | relative_url }}">53/6/0/-/45, document 1 (1763)</a></p>
 </aside>{% raw %}
 </section>

@@ -23,10 +23,10 @@ hits_docs_count: 0
 Village east of Łukom. According to Chodyła, Myszakówek was established as an Olędry[^50] before 1789 (however, it does not appear on Łukom 1766) on the initiative of the owner of the Łukom/Łomów estates as part of a village of mixed legal and organisational status that included *Stara Huta* and *Zagórowskie Olędry*.[^51] First appeared on Perthées 1798; as *Myszakowko* (Gilly 1802). Nazwy miejscowe Polski records *Myszakówek* (1859).[^52]
 
 [^50]: Ibid 78
-    [The document in the edition.](/literature/chodyla2015/#p-78)
+    [The document.](/literature/chodyla2015/#p-78)
 
 [^51]: Ibid 70
-    [The document in the edition.](/literature/chodyla2015/#p-70)
+    [The document.](/literature/chodyla2015/#p-70)
 
 [^52]: Nazwy miejscowe Polski, t. 7, p. 310
 

@@ -23,10 +23,15 @@ title_de: >-
 archive_title: >-
   Podymne z woj. kaliskiego [protocollon]
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Podymne z woj. kaliskiego [protocollon] 1789"
+card_title: "Hearth tax of the Kalisz voivodeship [protocollon] 1789"
+card_title_de: "Rauchfangsteuer (Podymne) der Woiwodschaft Kalisch [protocollon] 1789"
+original_title: "Podymne z woj. kaliskiego [protocollon] 1789"
 fonds: Zbiór tabel podatkowych i lustracji
 # The title of the register: "w Racie Swięto-Jańskiey Roku 1789", the
 # instalment due at St John's (24 June) 1789.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [registers-tables]
 date_span: "1789"
 status: translated        # draft | transcribed | translated | published
 published_tag: ""

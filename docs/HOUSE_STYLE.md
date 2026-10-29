@@ -383,6 +383,26 @@ the story's opening, an era's note - are content, not narration, and do
 not fall under this rule. A translation's or an origin's caveat is a
 disclosure and stands too.
 
+The same holds for the helper text of a document's page (the editor,
+2026-10-29): no sentence under the tabs saying what a view is ("One line per
+manuscript line, with broken words hyphenated..."), no note that a page is
+transcribed by paragraph, no "no page image" notice, no filename under a scan.
+A page's layout shows it: a paragraph transcription is set without line
+numbers, a page with no image has no image pane. What stays is a disclosure
+that is short ("English translation by Claude, an AI model, not checked
+against the original as a whole.", "Not yet translated.").
+
+**The site does not call itself "the edition"** (the editor, 2026-10-29): a
+reader does not need to know that the site is an edition, and "the edition holds
+her letters", "the edition follows the documents" and "in the edition" are the
+site explaining itself. Where such a sentence only says what the site holds or
+how it decides, it is cut; where it carries a fact, the fact stays and the
+phrase goes ("The edition has the decree of the commission" becomes "The decree
+of the commission"). The About page is "About", the footer says what the site
+holds, the list label is "In the documents". "Edition" stays only where a real
+published edition is meant: the printed Kodeks, a source edition, a book's
+second edition. The word may stand in comments and notes, not on a page.
+
 The removal made under this rule (the whole family, both languages),
 with what stood and what went, is recorded in
 `docs/STANDFIRSTS_PLAN.md`. The German texts obey the same rule as the

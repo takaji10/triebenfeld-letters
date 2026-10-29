@@ -1,6 +1,6 @@
 ### Scans
 
-Der Herausgeber fotografierte fünfzig Seiten des Bandes, jede eine einzelne Seite, nach Blatt benannt. In der Edition stehen nur die neun Seiten, die die Transkription des Herausgebers umfasst: Blatt 23 Rückseite, 24, 24 Rückseite, 25, 25 Rückseite, 28 Rückseite, 29 und 29 Rückseite sowie Blatt 34a. Blatt 34a ist ein nach Blatt 34 eingefügtes Blatt.
+Der Herausgeber fotografierte fünfzig Seiten des Bandes, jede eine einzelne Seite, nach Blatt benannt. Aufgenommen sind nur die neun Seiten, die die Transkription des Herausgebers umfasst: Blatt 23 Rückseite, 24, 24 Rückseite, 25, 25 Rückseite, 28 Rückseite, 29 und 29 Rückseite sowie Blatt 34a. Blatt 34a ist ein nach Blatt 34 eingefügtes Blatt.
 
 ### Transkription
 
@@ -20,4 +20,4 @@ Die Seiten bilden zwei Dokumente: den Bericht über die Pfarrei Trąbczyn und di
 
 ### Zusammenfassung und Übersetzung
 
-Die Zusammenfassungen wurden auf Deutsch aus dem Polnischen geschrieben und ins Englische übersetzt; jede ihrer 34 Aussagen wurde dann am Text geprüft. Die englische Übersetzung entstand in derselben Sitzung aus dem geprüften Polnisch. Sie gibt die Ortsnamen in den Formen, die diese Edition verwendet (Trąbczyn, Mariantów, Nowawies, Zagórów, Oleśnica, Skokum, Kopojno), und lässt die übrigen, wie sie geschrieben sind; lateinische Buchtitel bleiben lateinisch.
+Die Zusammenfassungen wurden auf Deutsch aus dem Polnischen geschrieben und ins Englische übersetzt; jede ihrer 34 Aussagen wurde dann am Text geprüft. Die englische Übersetzung entstand in derselben Sitzung aus dem geprüften Polnisch. Sie gibt die Ortsnamen in den hier verwendeten Formen (Trąbczyn, Mariantów, Nowawies, Zagórów, Oleśnica, Skokum, Kopojno), und lässt die übrigen, wie sie geschrieben sind; lateinische Buchtitel bleiben lateinisch.

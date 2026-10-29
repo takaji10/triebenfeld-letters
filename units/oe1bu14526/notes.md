@@ -5,7 +5,7 @@ Cropped, split, staged and transcribed. 288 page images, 288 transcriptions,
 
 ## Provenance
 
-Hohenloher Zentralarchiv Neuenstein. 172 archival scans, 675 MB, about 3400x2750 each.
+Hohenlohe-Zentralarchiv Neuenstein. 172 archival scans, 675 MB, about 3400x2750 each.
 Unlike Oe 1 Bü 9454, this is a bound volume photographed open: almost every scan is one
 opening, two written leaves either side of the fold.
 

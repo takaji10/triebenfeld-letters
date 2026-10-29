@@ -21,6 +21,15 @@
       {%- endfor %}
     </select>
   </label>
+  <label class="tools-filter">
+    <span class="tools-label">{{ t.tools_type }}</span>
+    <select data-filter="type">
+      <option value="">{{ t.tools_all_types }}</option>
+      {%- for ty in site.data.unit_types %}
+      <option value="{{ ty.slug }}">{% if lang == "de" %}{{ ty.de }}{% else %}{{ ty.en }}{% endif %}</option>
+      {%- endfor %}
+    </select>
+  </label>
   <span class="tools-count" aria-live="polite" data-template="{{ t.tools_shown | escape }}"></span>
   {%- endif %}
 </div>

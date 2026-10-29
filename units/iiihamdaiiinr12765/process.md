@@ -1,6 +1,6 @@
 ### Scans
 
-The archive photographed the file as 46 openings, two facing pages at a time. Nine blank openings were left out. Every other opening was cut at its fold, and only a side with writing on it became a page of the edition: 48 pages and a cover. The editor placed each fold line.
+The archive photographed the file as 46 openings, two facing pages at a time. Nine blank openings were left out. Every other opening was cut at its fold, and only a side with writing on it became a page: 48 pages and a cover. The editor placed each fold line.
 
 ### Transcription
 

@@ -23,7 +23,7 @@ hits_docs_count: 0
 Olęder settlement which existed north of Imielno. According to Chodyła, Zagórowskie Olędry was established before 1789 on the initiative of the owner of the Łukom/Łomów estates as part of a village of mixed legal and organisational status that included *Stara Huta* and Myszakówek.[^119] Only one map noted this feature (Gilly 1802).
 
 [^119]: Chodyła 70
-    [The document in the edition.](/literature/chodyla2015/#p-70)
+    [The document.](/literature/chodyla2015/#p-70)
 
 </div>
 {% endraw %}

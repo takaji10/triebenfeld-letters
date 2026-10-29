@@ -1,6 +1,6 @@
 ### Scans
 
-The editor supplied five images from the file. Each shows two facing pages, of which one belongs to this matter; that page was cut out of the image and the other left aside. The edition has five pages. The pieces are numbered here by the image they are on. The leaves themselves carry pencil numbers (5, 7 and 8 for the first three pieces), which the editor's transcription uses.
+The editor supplied five images from the file. Each shows two facing pages, of which one belongs to this matter; that page was cut out of the image and the other left aside. It has five pages. The pieces are numbered here by the image they are on. The leaves themselves carry pencil numbers (5, 7 and 8 for the first three pieces), which the editor's transcription uses.
 
 ### Transcription
 
@@ -12,7 +12,7 @@ Each petition and the draft resolution is one document, four in all, in the orde
 
 ### What the commission's office wrote
 
-On each petition the commission's office noted the day it was presented. These notes are written at the head of the leaf. In the edition they stand at the foot of the page under the label "Written by the receiving office", so that the petition reads first.
+On each petition the commission's office noted the day it was presented. These notes are written at the head of the leaf. They stand at the foot of the page under the label "Written by the receiving office", so that the petition reads first.
 
 ### Corrections
 
@@ -24,7 +24,7 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The three Polish documents were translated from the Polish and the petition to the Emperor from the French. The forms of address are given in English (the Most Illustrious, Mr, Mrs); the word in the closing formula of the petition of 23 July that is not a Polish word as it stands is left in Polish. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The three Polish documents were translated from the Polish and the petition to the Emperor from the French. The forms of address are given in English (the Most Illustrious, Mr, Mrs); the word in the closing formula of the petition of 23 July that is not a Polish word as it stands is left in Polish. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
 
 ### Still to do
 

@@ -1,7 +1,7 @@
 # Traces in the Sand — the Trąbczyn Archive
 
 A digital edition of the documents of the Trąbczyn estate in central Poland, built from
-archival holdings at the Hohenloher Zentralarchiv Neuenstein. The archive is organised by
+archival holdings at the Hohenlohe-Zentralarchiv Neuenstein. The archive is organised by
 era; the Hohenlohe-Ingelfingen era (1796-1816) is the first to be published, and holds
 both the correspondence of Peter Friedrich von Triebenfeld with Friedrich Ludwig, Prince of
 Hohenlohe-Ingelfingen, and the deeds by which the estate was let out and sold. Each document is shown four ways: the page scan, a
@@ -148,4 +148,4 @@ The holder's name and the contact address are kept in `site/_data/rights.yml`;
 `LICENSE` carries the name too.
 
 Deployment: [docs/DEPLOY.md](docs/DEPLOY.md). Editorial method:
-[the About page](https://takaji10.github.io/triebenfeld-letters/reading-this-edition/).
+[the About page](https://takaji10.github.io/triebenfeld-letters/about/).

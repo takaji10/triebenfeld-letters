@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft die Urkunden vom 9. August 1796, mit denen Friedrich Wilhelm II., König von Preußen, konfiszierte und erledigte Güter in Südpreußen an Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), einen preußischen General, und an sechs Offiziere verlieh. Die Edition behandelt die Akte als ein Dokument von 22 Seiten, von denen zwölf nicht transkribiert sind. <!-- context -->
+Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft die Urkunden vom 9. August 1796, mit denen Friedrich Wilhelm II., König von Preußen, konfiszierte und erledigte Güter in Südpreußen an Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), einen preußischen General, und an sechs Offiziere verlieh. Die Akte ist ein Dokument von 22 Seiten, von denen zwölf nicht transkribiert sind. <!-- context -->
 
 ### Historischer Hintergrund
 

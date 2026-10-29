@@ -23,10 +23,15 @@ title_de: >-
 archive_title: >-
   Akta wizytacji dekanatu konińskiego 1790-1791
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Akta wizytacji dekanatu konińskiego 1790-1791"
+card_title: "Records of the visitation of the Konin deanery 1790-1791"
+card_title_de: "Akten der Visitation des Dekanats Konin 1790-1791"
+original_title: "Akta wizytacji dekanatu konińskiego 1790-1791"
 # The tables are dated 1791 and the register extract 1790; the priest was
 # approved for confession at the deanery retreat held "w Rku ninieyszym",
 # on 15 October.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [church-records]
 date_span: "1790-1791"
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -41,7 +46,7 @@ repository: adwl-wloclawek
 
 # Nine photographs, each one page, named by leaf (Wizytacja_0385_k_23v.jpg,
 # ..._k_25_v.jpg, ..._k_34a.jpg). Only the pages the editor's transcript
-# covers are in the edition (the editor, 2026-10-15); the folder holds 50.
+# covers are (the editor, 2026-10-15); the folder holds 50.
 # intake/holding.py --crop copies them into raw_dir/processed/ under their page
 # ids: 0023_b (leaf 23 verso), 0024_a, 0024_b, 0025_a, 0025_b, 0028_b,
 # 0029_a, 0029_b, and 0034_c for leaf 34a (34 recto and verso being _a and _b).
@@ -83,7 +88,7 @@ description: >-
   right of patronage; its altars; its registers from 1597 and its books; its
   foundations and decrees from 1636 to 1697; and the beginning of the
   account of the parsonage. Leaves 26 to 28 recto, and what follows leaf 29
-  verso, are not in the edition. Document 2 is the table of the souls of the
+  verso, are not included. Document 2 is the table of the souls of the
   parish of Zagórów in 1791, village by village (leaf 34a).
 
 # Passed to the translator with every document of this holding. Facts about the

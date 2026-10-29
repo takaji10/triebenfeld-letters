@@ -606,7 +606,7 @@ The technical side of the giveaway of estates was in the hands of councillor Pet
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In der Edition</p>
+<p class="lit-links-head">In den Dokumenten</p>
 <p>Łukasiewicz (1997) erzählt die Geschichte des technischen Leiters der Schenkaktion: Rat Triebenfeld kaufte sein Gut 1797 für 50.000 Taler, verkaufte es 1801 für 450.000 an den Prinzen von Hessen-Darmstadt, und dieser verkaufte es im selben Jahr für 750.000 an den sächsischen Jägermeister Schürding (Dorows Druck von Triebenfelds Denkschrift); seine Tabelle 4 nennt den amtlichen Preis 51.000 und den Verkauf 400.000-750.000 (1801). Triebenfelds Briefe an den Fürsten Hohenlohe nennen dieselbe Taxe, über 700.000 (April 1799), und denselben Weiterverkauf, 750.000 (Februar 1801), aber als seinen eigenen Preis an den Prinzen George 280.000, nicht 400.000 (Juli 1800).</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
 </aside>{% raw %}
@@ -1173,7 +1173,7 @@ Tabela 1. PRUSSIAN DONATIONS — THE VALUE OF THE ESTATES<sup class="lit-fn"><a 
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In der Edition</p>
+<p class="lit-links-head">In den Dokumenten</p>
 <p>Łukasiewiczs Tabelle 1 gibt die Zeile des Registers für den Fürsten Hohenlohe wieder: amtlich 89.250 Taler, „wahrer Wert“ 800.000, und die eigene Notiz des Registers, die Schenkung sei „für 50.000 Taler jährlichen Ertrag“ gemacht worden. Die Briefe bestätigen dieselben Zahlen und gehen darüber hinaus: die Ablehnung des Königs vom Dezember 1798 auf den Bericht von Voss (die auf 8.650 Taler Jahresertrag veranschlagten Güter bringen jetzt 40.500), die Antwort des Fürsten (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und seine spätere Eingabe.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, Dokument 86 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, Dokument 87 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, Dokument 97 (Januar 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, Dokument 101 (Mai 1800)</a></p>
 </aside>{% raw %}
@@ -1732,7 +1732,7 @@ Notes to Tabela 4:
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In der Edition</p>
+<p class="lit-links-head">In den Dokumenten</p>
 <p>Łukasiewicz (1997) erzählt die Geschichte des technischen Leiters der Schenkaktion: Rat Triebenfeld kaufte sein Gut 1797 für 50.000 Taler, verkaufte es 1801 für 450.000 an den Prinzen von Hessen-Darmstadt, und dieser verkaufte es im selben Jahr für 750.000 an den sächsischen Jägermeister Schürding (Dorows Druck von Triebenfelds Denkschrift); seine Tabelle 4 nennt den amtlichen Preis 51.000 und den Verkauf 400.000-750.000 (1801). Triebenfelds Briefe an den Fürsten Hohenlohe nennen dieselbe Taxe, über 700.000 (April 1799), und denselben Weiterverkauf, 750.000 (Februar 1801), aber als seinen eigenen Preis an den Prinzen George 280.000, nicht 400.000 (Juli 1800).</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
 </aside>{% raw %}

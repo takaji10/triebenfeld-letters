@@ -2,7 +2,7 @@ Two original acts of late 1782 on twenty-six pages, sewn into a book of the muni
 
 ### Historical background
 
-The commission of 1775 had ended in two decrees: one by the parliament's commissioners, for Antoni Prusimski of Trąbczyn, and one by commissioners whom Stanisław Ścibor Chełmski of Łukomia had brought, for Chełmski: [[unit:app53170koningr145]], [[unit:app53170koningr116]]. A law of 1776 sent causes left in that state to the Crown Tribunal. The Tribunal's first decree in this cause is not in the edition; what it decided is told in the decree copied here. An attempt to carry it out in May and June 1782 failed, as the Konin register shows from the protests of both sides: [[unit:app53170koningr118]]. <!-- context -->
+The commission of 1775 had ended in two decrees: one by the parliament's commissioners, for Antoni Prusimski of Trąbczyn, and one by commissioners whom Stanisław Ścibor Chełmski of Łukomia had brought, for Chełmski: [[unit:app53170koningr145]], [[unit:app53170koningr116]]. A law of 1776 sent causes left in that state to the Crown Tribunal. The Tribunal's first decree in this cause is not included; what it decided is told in the decree copied here. An attempt to carry it out in May and June 1782 failed, as the Konin register shows from the protests of both sides: [[unit:app53170koningr118]]. <!-- context -->
 
 Three kinds of boundary mound are named. The "corner" mounds stand where the lands of Trąbczyn, Łukom and the abbey of Ląd's village of Drzewce meet. The mounds the Latin calls "aciales" stand at the other end of the line, where Trąbczyn and Łukom meet Biskupice. "Wall" mounds mark the line between the two points. <!-- context -->
 

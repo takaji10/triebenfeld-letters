@@ -20,7 +20,7 @@
 # is one whose subject is in none of the documents: it carries its own
 # heading and biography, its page has no list of documents, and the
 # literature it belongs to is named by hand (`literature_passages:`), the
-# index matching only the edition's own persons. The editor's rule of
+# index matching only persons. The editor's rule of
 # 2026-10-22 still governs every fact: the documents first where they
 # speak, the work's citation beside every fact, the estimates nowhere.
 #
@@ -33,7 +33,7 @@
 people:
   prusimski:
     # Antoni Prusimski, Starost of Niszczewice. His dates are the PSB
-    # entry's (the edition's copy, p. 582), which the database's page
+    # entry's (the copy, p. 582), which the database's page
     # follows; the "ca 1806" stays open to qualification from the documents
     # (the editor, 2026-10-22).
     life: "1744–ca 1806"
@@ -61,12 +61,12 @@ people:
     children:
       - name: Michalina Zofia
         dates: "1778–1851"
-        note: "the edition's Michalina z Prusimskich Dąbska, later Miączyńska, the only child; married first Józef Dąmbski, then, from about 1814, Stanisław Miączyński"
+        note: "Michalina z Prusimskich Dąbska, later Miączyńska, the only child; married first Józef Dąmbski, then, from about 1814, Stanisław Miączyński"
         link: prusimska
         source: "minakowska2026prusimski/c03; pachonski1982/584"
         children:
           # The database's page gives these with their own marriages and
-          # children; Włodzimierz is the edition's heir of Trąbczyn, the
+          # children; Włodzimierz is the heir of Trąbczyn, the
           # others are no persons of the edition.
           source: "minakowska2026prusimski/c04"
           entries:
@@ -129,7 +129,7 @@ people:
     # the edition: she is named in none of its documents, and the Chełmski
     # family is a family entry (chemski). Her page stands on this block
     # alone; the literature she belongs to is named by hand, because the
-    # index matches only the edition's own persons. Her value to the
+    # index matches only persons. Her value to the
     # edition is the Chełmski line she carries: her husband is the Józef of
     # the decree of 1728, her sons the Heliodor and the Stanisław of the
     # boundary decree of 1775.
@@ -139,8 +139,7 @@ people:
     bio: >-
       Helena Zielonacka, daughter of Andrzej Zielonacki and Joanna née
       Wierusz-Kowalska, and the wife of Józef Ścibor-Chełmski of Chełm and
-      Wola, arms Ostoja, heir of Łukomia and Łomowo - the Józef whom the
-      edition's decree of 1728 names with his brother Franciszek, and whom
+      Wola, arms Ostoja, heir of Łukomia and Łomowo - the Józef whom the decree of 1728 names with his brother Franciszek, and whom
       Boniecki's article records as her husband. Through her the database's
       page carries the Chełmski line: the canon Heliodor and Stanisław,
       Treasurer of Wschowa, the brothers of the boundary decree of 1775,
@@ -152,7 +151,7 @@ people:
       Helena Zielonacka, Tochter des Andrzej Zielonacki und der Joanna geb.
       Wierusz-Kowalska, und die Frau des Józef Ścibor-Chełmski von Chełm und
       Wola, Wappen Ostoja, Erbe von Łukomia und Łomowo - der Józef, den das
-      Dekret der Edition von 1728 neben seinem Bruder Franciszek nennt, und
+      Dekret von 1728 neben seinem Bruder Franciszek nennt, und
       den Bonieckis Artikel als ihren Mann verzeichnet. Durch sie trägt die
       Seite der Datenbank die Linie der Chełmski: den Domherrn Heliodor und
       Stanisław, Schatzmeister von Wschowa, die Brüder des Grenzdrechts von
@@ -179,11 +178,11 @@ people:
       - name: Katarzyna Ścibor-Chełmska
         source: "minakowska2026zielonacka/c02"
       - name: Heliodor
-        note: "canon of Poznań by 1765 (the page and Boniecki); the boundary decree of 1775 calls him canon of Chełmno - the offices may be of different years, and the edition follows the decree for 1775"
+        note: "canon of Poznań by 1765 (the page and Boniecki); the boundary decree of 1775 calls him canon of Chełmno - the offices may be of different years, and the decree is taken for 1775"
         source: "minakowska2026zielonacka/c02"
         note_source: "app53170koningr145-1"
       - name: Stanisław
-        note: "Treasurer of Wschowa: the page and Boniecki give the title under 1779, a document of April 1778 already gives it, and the edition follows the document; at law with Katarzyna Prusimska in 1761-1763, and from 1766 heir of Łukomia, Łomowo, Imielno and Bukowo"
+        note: "Treasurer of Wschowa: the page and Boniecki give the title under 1779, a document of April 1778 already gives it; at law with Katarzyna Prusimska in 1761-1763, and from 1766 heir of Łukomia, Łomowo, Imielno and Bukowo"
         source: "minakowska2026zielonacka/c02"
         note_source: "app53170koningr117-4; app536045-1"
       - name: Józefa
@@ -201,8 +200,7 @@ people:
     notes: >-
       The page's Notes name two sources: Boniecki's Herbarz polski (t. II,
       s. 364, the article Chełmscy h. Ostoja, where her marriage to Józef is
-      recorded - the edition holds the branch that concerns it as
-      `boniecki1900`), and a regest of the Konin municipal court's record of
+      recorded - the branch that concerns it is in Boniecki (1900)), and a regest of the Konin municipal court's record of
       1727 (Teki Dworzaczka, nr 13049, Nr. 76): Józef, "heir of the estates
       of Łukom and Łomowo", having received 3,000 złp from Kazimierz
       Zielonacki for Helena, daughter of the late Andr Zielonacki by Joanna
@@ -213,8 +211,7 @@ people:
     notes_de: >-
       Die Notes der Seite nennen zwei Quellen: Bonieckis Herbarz polski
       (T. II, S. 364, den Artikel Chełmscy h. Ostoja, wo ihre Ehe mit Józef
-      steht - die Edition hält den Zweig, den sie betrifft, als
-      `boniecki1900`), und ein Regest der Aufzeichnung des Stadtrechts von
+      steht - den Zweig, den sie betrifft, gibt Boniecki (1900)), und ein Regest der Aufzeichnung des Stadtrechts von
       Konin von 1727 (Teki Dworzaczka, nr 13049, Nr. 76): Józef, "Erbherr
       der Güter Łukom und Łomowo", der 3.000 złp von Kazimierz Zielonacki
       für Helena empfangen hatte, die Tochter des verstorbenen Andrzej
@@ -228,7 +225,7 @@ people:
       - "minakowska2026zielonacka/c02"
 
   miaczynski:
-    # Stanisław Adam Miączyński, the edition's Stanisław Miączyński. The
+    # Stanisław Adam Miączyński, Stanisław Miączyński. The
     # letters know him only as Michalina's husband (Moscinski, Moszynski,
     # "M. de Mięczynsky"); this page of the database names him fully and
     # gives him his stated dates, his parents and ancestry, the marriage
@@ -252,7 +249,7 @@ people:
     marriages:
       - name: "Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz"
         dates: "1778–1851"
-        note: "the edition's Michalina z Prusimskich Dąbska, later Miączyńska, only daughter of the Starost Antoni Prusimski; married in Warsaw on 17 August 1810 - the page's date rests on the marriage act it cites (Warsaw ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka), while the edition's entry says about 1814, inferred from the letters of 1815 that already name him her husband: NEEDS_CONFIRMATION"
+        note: "Michalina z Prusimskich Dąbska, later Miączyńska, only daughter of the Starost Antoni Prusimski; married in Warsaw on 17 August 1810 - the page's date rests on the marriage act it cites (Warsaw ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka), while the entry says about 1814, inferred from the letters of 1815 that already name him her husband: NEEDS_CONFIRMATION"
         link: prusimska
         source: "minakowska2026miaczynski/c03"
         note_source: "minakowska2026miaczynski"
@@ -285,7 +282,7 @@ people:
       - name: "Włodzimierz Miączyński"
         dates: "1811–1879"
         source: "minakowska2026miaczynski/c04"
-        note: "the edition's entry; heir of the Trąbczyn estate, living there in 1860; died 20 December 1879"
+        note: "the entry; heir of the Trąbczyn estate, living there in 1860; died 20 December 1879"
         link: miaczynski-wlodzimierz
         note_source: "editor"
       - name: "Mieczysław Miączyński"
@@ -372,7 +369,7 @@ people:
     # people.yml entry), and this block's page must not collide with it.
     # The edition's Trąmpczyński family, which held Trąbczyn before the
     # Prusimskis and took its name from it, with the by-name Otto. Not a
-    # person of the edition's documents: the family is a family entry, and
+    # person of the documents: the family is a family entry, and
     # this page is the sixteenth-century Wojciech whose by-name and whose
     # son's record (the regest of 1614) are the database's source for the
     # line. The page's subject is in none of the documents, so the block
@@ -394,8 +391,7 @@ people:
       marriage of about 1590 (again its estimate) to Anna Cerekwicka, their
       son Stanisław, and the grandchildren through him, among them the
       second Wojciech, whose marriage to Marianna née Zawadzka carries the
-      line to the brothers of the decree of 1644 that the edition's
-      documents name.
+      line to the brothers of the decree of 1644 that the documents name.
     bio_de: >-
       Wojciech Otto-Trąmpczyński, aus der Familie, der Trąbczyn vor den
       Prusimskis gehörte und die sich nach dem Gut nannte, mit dem Beinamen
@@ -407,7 +403,7 @@ people:
       1590 (wieder ihre Schätzung) mit Anna Cerekwicka, ihr Sohn Stanisław,
       und die Enkel durch ihn, unter ihnen der zweite Wojciech, dessen Ehe
       mit Marianna geb. Zawadzka die Linie zu den Brüdern des Dekrets von
-      1644 trägt, die die Dokumente der Edition nennen.
+      1644 trägt, die die Dokumente nennen.
     marriages:
       - name: "Anna Cerekwicka"
         note: "the database's marriage year (about 1590) is its estimate and is not shown; her dates are the database's estimate (?1570-) and none is shown"

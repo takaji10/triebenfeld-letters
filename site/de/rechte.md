@@ -21,14 +21,14 @@ Die Transkriptionen, Lesefassungen, englischen Übersetzungen, Zusammenfassungen
 Anmerkungen und Register stehen unter der
 [Creative-Commons-Lizenz Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de).
 Sie dürfen sie für jeden Zweck kopieren, bearbeiten und neu veröffentlichen,
-sofern Sie diese Edition nennen, auf die Lizenz verweisen und angeben, ob Sie
+sofern Sie die Seite nennen, auf die Lizenz verweisen und angeben, ob Sie
 etwas verändert haben. Eine Quellenangabe könnte lauten:
 
 > *Spuren im Sand*, hg. von {{ r.holder }}, Oe 1 Bü 9454,
 > Brief 48, [Webadresse der Seite], CC BY 4.0.
 
 Die Dokumente sind über zweihundert Jahre alt, ihr Wortlaut gehört niemandem.
-Die Lizenz gilt für das, was diese Edition hinzufügt: die Lesung der
+Die Lizenz gilt für das, was diese Seite hinzufügt: die Lesung der
 Handschriften, die Übersetzung und den Kommentar.
 
 **Ausgenommen ist die Literatur.** Die modernen Werke auf der Seite
@@ -36,7 +36,7 @@ Handschriften, die Übersetzung und den Kommentar.
 Aufsatz von 1973, Mączaks von 1968 und Szwiecs Katalog von 2009, sind
 urheberrechtlich geschützt; die Rechte liegen bei ihren Verfassern, Fotografen
 und Verlagen, die die Seite jedes Werks nennt. Ihre Texte und Bilder und die
-englischen Übersetzungen der Edition fallen **nicht** unter die Lizenz CC BY.
+englischen Übersetzungen fallen **nicht** unter die Lizenz CC BY.
 Sie werden zu Forschungszwecken wiedergegeben; wer sie weiterverwenden möchte,
 wendet sich an den Verlag. Verlangt ein Verlag die Entfernung eines Werks, so
 geschieht das. Ein Werk steht unter seiner eigenen offenen Lizenz: Kucharskis
@@ -44,7 +44,7 @@ Aufsatz von 2023 (Consilium Iuridicum) steht unter CC BY 4.0 und darf unter
 dieser Lizenz weiterverwendet werden, mit der Angabe, die seine Seite nennt.
 
 Die englischen Übersetzungen wurden von einem KI-Modell angefertigt
-([Über die Edition]({{ '/de/ueber-diese-edition/' | relative_url }})). Zitieren
+([Über]({{ '/de/ueber/' | relative_url }})). Zitieren
 Sie für alles, worauf es ankommt, den Text in der Originalsprache.
 
 Die Software, die die Website erzeugt, liegt im
@@ -79,7 +79,7 @@ GitHub, Inc., USA. Wenn Sie eine Seite aufrufen, übermittelt Ihr Browser GitHub
 Ihre IP-Adresse und technische Angaben wie den Browser und die angeforderte
 Seite. GitHub verwendet sie, um die Seite auszuliefern und den Dienst zu
 schützen, und kann sie für kurze Zeit in seinen Server-Logs speichern. Die
-Edition selbst erhält davon nichts und führt keine Logs. Rechtsgrundlage ist
+Seite selbst erhält davon nichts und führt keine Logs. Rechtsgrundlage ist
 das berechtigte Interesse am Betrieb einer Website (Art. 6 Abs. 1 lit. f DSGVO).
 GitHub nimmt am EU-US-Datenschutzrahmen (Data Privacy Framework) teil; seine
 eigenen Bedingungen stehen im
@@ -107,7 +107,7 @@ lange verstorben. Das Datenschutzrecht schützt Lebende und gilt für sie nicht.
 **Ihre Rechte.** Nach der DSGVO können Sie Auskunft über die zu Ihnen
 gespeicherten Daten verlangen und deren Berichtigung, Löschung oder
 Einschränkung; Sie können der Verarbeitung widersprechen und eine Kopie zur
-Mitnahme verlangen. Da die Edition selbst keine Daten über ihre Besucher hat,
+Mitnahme verlangen. Da die Seite selbst keine Daten über ihre Besucher hat,
 richten sich Anfragen zu Server-Logs an GitHub. Sie können sich außerdem bei der
 Datenschutzaufsichtsbehörde Ihres Landes beschweren.
 

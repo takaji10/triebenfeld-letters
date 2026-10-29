@@ -54,6 +54,34 @@
     </section>
     {%- endunless -%}
   {% endfor %}
+  {%- comment -%}
+    Holdings listed with the literature (unit.yml listed_in: literature; the
+    Kodeks Dyplomatyczny Wielkopolski, 2026-10-29): a card of the same shape,
+    linking to the holding's own page, which keeps its documents.
+  {%- endcomment -%}
+  {%- assign lit_units = site.data.units | where: "listed_in", "literature" -%}
+  {% for u in lit_units %}
+    {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
+    {%- capture u_alt -%}{{ t.alt_holding | replace: '%s', u.ref }}{%- endcapture -%}
+    {%- assign u_card = u.card_title | default: u.ref -%}
+    {%- assign u_brief = u.title -%}
+    {%- if lang == "de" -%}
+      {%- if u.card_title_de -%}{%- assign u_card = u.card_title_de -%}{%- endif -%}
+      {%- if u.title_de != "" -%}{%- assign u_brief = u.title_de -%}{%- endif -%}
+    {%- endif -%}
+    <section class="source" id="{{ u.slug }}" data-az="{{ u.ref | escape }}" data-date="{{ u.span | slice: 0, 4 }}">
+      {% include source-thumb.html thumb=u.thumb alt=u_alt %}
+      <div class="source-body">
+        <h2 class="lit-author">{{ u.ref }}</h2>
+        <p class="lit-title"><a class="source-link" href="{{ u_page | relative_url }}">{{ u_card }}</a></p>
+        <dl class="source-facts">
+          <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
+          {% if u.span != "" %}<div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>{% endif %}
+        </dl>
+        <p>{{ u_brief }}</p>
+      </div>
+    </section>
+  {% endfor %}
 </div>
 
 <style>

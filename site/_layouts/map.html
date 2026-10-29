@@ -4,15 +4,16 @@ layout: default
 {%- comment -%}
   The page of a map in the edition (docs/MAPS_SITE_PLAN.md, section 3): a
   two-column view - the details in the narrow left column (the map's
-  citation, then the places marked on it, each with the crop of its
-  lettering, the form as the map spells it, and the link to the place's
-  page), the map itself large in the right column, where it stays while the
+  citation, then an A-Z index of the places on it - the place (linked to its
+  page), its kind, the name as the map spells it (a click takes the map to
+  the mark) and a link to OpenStreetMap; no crops of the lettering since
+  2026-10-29), the map itself large in the right column, where it stays while the
   left column scrolls. The viewer is OpenSeadragon (a copy in the project,
   assets/maps/openseadragon.min.js) over the map's IIIF tiles in the second
   repository; the marks are in the pixels of the tiles' image, the page
-  turns the map by the register's view_rotation so the lettering reads
-  upright. Hovering a mark names the place; clicking a mark takes the
-  reader to its row in the list; a row's crop takes the map to the mark;
+  shows the map as drawn, with a button that turns it by the register's
+  view_rotation, north up. Hovering a mark names the place; clicking a mark takes the
+  reader to its row in the list; a row's name on the map takes the map to the mark;
   the address #<label-id> opens the map at that mark.
 {%- endcomment -%}
 {% include urls.html %}
@@ -29,52 +30,44 @@ layout: default
     <dl class="source-facts map-facts">
       <div><dt>{{ t.map_kind }}</dt><dd>{% if lang == 'de' %}{{ m.kind_de }}{% else %}{{ m.kind_en }}{% endif %}{% if m.year %}, {{ m.year }}{% endif %}</dd></div>
       {%- if m.maker %}<div><dt>{{ t.map_maker }}</dt><dd>{{ m.maker }}</dd></div>{% endif -%}
-      {%- if m.holder %}<div><dt>{{ t.map_holder }}</dt><dd>{{ m.holder }}{% if m.reference %}, {{ m.reference }}{% endif %}</dd></div>{% endif -%}
-      {%- if m.rms_m %}<div><dt>{{ t.map_fit_label }}</dt><dd>±{{ m.rms_m }} m</dd></div>{% endif -%}
+      {%- if m.holder %}<div><dt>{{ t.map_holder }}</dt><dd>{{ m.holder }}{% if m.reference %}, {% if m.url %}<a href="{{ m.url }}" rel="noopener">{{ m.reference }}</a>{% else %}{{ m.reference }}{% endif %}{% endif %}</dd></div>{% endif -%}
     </dl>
-    {%- if m.url %}
-    <p class="refs"><a href="{{ m.url }}" rel="noopener">{{ t.map_source_link }}</a></p>
-    {%- endif %}
 
     <section class="map-marks">
       <h2>{{ t.map_marks_h2 }}</h2>
-      <p class="standfirst">{{ m.n_places }} {{ t.maps_places_marked }}.</p>
-      <ul class="map-mark-list">
-      {%- for l in m.labels %}
+      {%- assign m_labels = m.labels | sort_natural: "sort_name" %}
+      <ol class="map-mark-list">
+      {%- for l in m_labels %}
         <li id="mark-{{ l.id }}" data-label="{{ l.id }}">
-          <a class="map-crop-link" href="#{{ l.id }}" data-label="{{ l.id }}">
-            <img class="map-crop" src="{{ l.crop | relative_url }}" loading="lazy"
-                 alt="{{ l.form }} ({{ m.cited_as }})"></a>
-          <span class="map-form">&bdquo;{{ l.form }}&ldquo;</span>
-          {%- if l.place %}
-          <span class="map-shows">{% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en }}{% endif %}</span>
-          <a class="map-place" href="{{ u_places | append: l.place | append: '/' | relative_url }}">{{ l.place_name }}</a>
-          {%- else %}
-          <span class="map-shows">{{ t.map_inscription }}</span>
+          <span class="map-text">
+            {%- if l.place %}<a class="map-place" href="{{ u_places | append: l.place | append: '/' | relative_url }}">{{ l.place_name }}</a>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}, {% else %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</span>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}{% endif -%}
+            {%- if l.place %}<em class="map-form"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</em>{% endif -%}
+          </span>
+          <span class="map-chips">
+            <a class="map-chip" href="#{{ l.id }}" data-label="{{ l.id }}">{{ t.map_locate }}</a>
+            {%- if l.lat and l.lon %}
+            <a class="map-chip" href="https://www.openstreetmap.org/?mlat={{ l.lat }}&amp;mlon={{ l.lon }}#map=17/{{ l.lat }}/{{ l.lon }}" rel="noopener" title="OpenStreetMap">{{ t.map_today }}</a>
+            {%- endif %}
+          </span>
+          {%- if l.refs.size > 0 %}
+          <span class="map-refs">{{ t.map_refs }}
+            {%- for r in l.refs %} <a href="{{ r.link | relative_url }}">{{ r.quote }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span>
           {%- endif %}
-          {%- if l.note %}<span class="map-note">({{ l.note }})</span>{% endif -%}
-          {%- if l.lat and l.lon %}
-          <a class="map-today" href="https://www.openstreetmap.org/?mlat={{ l.lat }}&amp;mlon={{ l.lon }}#map=17/{{ l.lat }}/{{ l.lon }}" rel="noopener">({{ t.map_today }})</a>
-          {%- endif -%}
-          {%- for r in l.refs %}
-          <a class="map-ref" href="{{ r.link | relative_url }}">{{ r.quote }}</a>
-          {%- endfor %}
         </li>
       {%- endfor %}
-      </ul>
+      </ol>
     </section>
 
-    {%- if m.warp %}
-    <p class="refs"><a href="{{ m.warp }}" rel="noopener">{{ t.map_over_osm }}</a></p>
-    {%- endif %}
   </div>
 
   <div class="map-stage">
     <div id="map-viewer" class="map-viewer" style="aspect-ratio: {{ m.width }} / {{ m.height }};"></div>
     <div class="map-tools">
-      <button type="button" class="map-rotbtn" id="map-rot"
-              data-north="{{ t.map_north }}" data-drawn="{{ t.map_asdrawn }}">{{ t.map_asdrawn }}</button>
-      <span class="map-hint">+ / −</span>
+      <button type="button" class="vbtn map-rotbtn" id="map-rot"
+              data-north="{{ t.map_north }}" data-drawn="{{ t.map_asdrawn }}">{{ t.map_north }}</button>
+      {%- if m.warp %}
+      <a class="map-overlay-link" href="{{ m.warp }}" rel="noopener">{{ t.map_over_osm }}</a>
+      {%- endif %}
     </div>
     <p class="map-status" id="map-status" hidden></p>
   </div>
@@ -89,25 +82,25 @@ layout: default
 .map-stage { position: sticky; top: 1rem; }
 .map-viewer { width: 100%; height: min(84vh, 58rem); background: #f4f1ea; border: 1px solid var(--rule); touch-action: none; }
 .map-tools { display: flex; gap: .8rem; align-items: center; margin-top: .4rem; }
-.map-rotbtn { font-family: var(--sans); font-size: .8rem; padding: .2rem .6rem; border: 1px solid var(--rule); background: none; cursor: pointer; }
-.map-hint { font-family: var(--sans); font-size: .75rem; opacity: .6; }
+.map-rotbtn[hidden] { display: none; }
+.map-overlay-link { margin-left: auto; font-family: var(--sans); font-size: .85rem; }
 .map-status { font-family: var(--sans); font-size: .85rem; color: #b33; }
 .map-marks { margin: 1.6rem 0 1.6rem; }
 .map-marks h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
-.map-mark-list { list-style: none; margin: .8rem 0 0; padding: 0; }
-.map-mark-list li { display: flex; flex-wrap: wrap; gap: .3rem .8rem; align-items: baseline; border-top: 1px solid var(--rule); padding: .6rem 0; }
+.map-mark-list { margin: .8rem 0 0; padding: 0 0 0 1.7rem; font-size: .92rem; }
+.map-mark-list li { display: list-item; padding: .3rem 0 .3rem .2rem; }
+.map-mark-list li::marker { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
 .map-mark-list li.is-on { background: rgba(180, 60, 50, .08); }
-.map-crop { height: 2.4rem; display: block; border: 1px solid var(--rule); }
-.map-crop-link { align-self: center; }
-.map-form { font-style: italic; }
-.map-shows, .map-note { font-family: var(--sans); font-size: .8rem; opacity: .75; }
-.map-today, .map-ref { font-family: var(--sans); font-size: .8rem; }
 .map-place { font-weight: 600; }
+.map-refs { display: block; font-family: var(--sans); font-size: .8rem; color: var(--ink-soft); margin-top: .15rem; }
+.map-chips { display: inline-flex; flex-wrap: wrap; gap: .3rem; margin-left: .3rem; vertical-align: baseline; }
+.map-chip { font-family: var(--sans); font-size: .68rem; line-height: 1.45; padding: 0 .5rem; border: 1px solid var(--rule); border-radius: 1rem; color: var(--ink-soft); text-decoration: none; white-space: nowrap; }
+.map-chip:hover, .map-chip:focus-visible { border-color: var(--accent); color: var(--accent); }
 /* the marks on the map itself: a circle, its name in a floating label on
    hover (the label is the page's, not the viewer's - the viewer clips its
    children), a click goes to the row in the list
    (docs/MAPS_SITE_PLAN.md, section 3) */
-.map-mark { width: 16px; height: 16px; margin: -8px 0 0 -8px; border: 2px solid #b33; border-radius: 50%; background: rgba(255, 255, 255, .55); cursor: pointer; }
+.map-mark { box-sizing: border-box; width: 16px; height: 16px; margin: 0; border: 2px solid #b33; border-radius: 50%; background: rgba(255, 255, 255, .55); cursor: pointer; }
 .map-mark.is-on, .map-mark:hover { background: #b33; }
 .map-mark:focus-visible { outline: 2px solid #b33; outline-offset: 2px; }
 .map-tip { position: fixed; transform: translateX(-50%); background: rgba(40, 36, 30, .92); color: #fff; font-family: var(--sans); font-size: .78rem; line-height: 1.25; padding: .25rem .55rem; border-radius: 3px; white-space: nowrap; pointer-events: none; z-index: 60; box-shadow: 0 1px 4px rgba(0, 0, 0, .35); }

@@ -4,11 +4,11 @@ Der Export des Archivs enthält 22 Photographien. Einundzwanzig zeigen eine Öff
 
 ### Transkription
 
-Das Archiv lieferte seine eigene Abschrift des Berichts, in französischer Sprache, Seite für Seite; der Text dieser Edition nimmt sie zum Ausgang. Jede Seite davon wurde gegen den Scan gelesen, bevor etwas aufgebaut wurde. Zwei Abweichungen von der Abschrift, beide auf Anordnung des Herausgebers: die Partie auf S. 159 über die Klage Hohenlohe-Ingelfingens von 1808, die die Abschrift überspringt, ist aus dem Scan ergänzt; und die auf S. 160 durchgestrichenen Partien werden nicht verzeichnet, so daß der Text vom Ende von S. 159 (das Tribunal, nachdem es erwogen hatte:) geradewegs in die gezählten Gründe übergeht. Der korrigierte Kopf von S. 157 steht, wie die Abschrift ihn liest, mit seinen Fehlern. <!-- context -->
+Das Archiv lieferte seine eigene Abschrift des Berichts, in französischer Sprache, Seite für Seite; der Text geht von ihr aus. Jede Seite davon wurde gegen den Scan gelesen, bevor etwas aufgebaut wurde. Zwei Abweichungen von der Abschrift, beide auf Anordnung des Herausgebers: die Partie auf S. 159 über die Klage Hohenlohe-Ingelfingens von 1808, die die Abschrift überspringt, ist aus dem Scan ergänzt; und die auf S. 160 durchgestrichenen Partien werden nicht verzeichnet, so daß der Text vom Ende von S. 159 (das Tribunal, nachdem es erwogen hatte:) geradewegs in die gezählten Gründe übergeht. Der korrigierte Kopf von S. 157 steht, wie die Abschrift ihn liest, mit seinen Fehlern. <!-- context -->
 
 ### Das Englische
 
-Das Englische ist die eigene Übersetzung des Archivs, Seite für Seite übernommen und gegen das Französische gelesen. Sie ist zutreffend; wo die Vorlage selbst in Grammatik oder Schreibung strauchelt, gibt die Übersetzung den Sinn wieder und die Transkription behält den Fehler. Die eine Partie, die die Abschrift überspringt, ist für diese Edition übersetzt. Die Anmerkungen und das Glossar des Archivübersetzers werden nicht übernommen. <!-- context -->
+Das Englische ist die eigene Übersetzung des Archivs, Seite für Seite übernommen und gegen das Französische gelesen. Sie ist zutreffend; wo die Vorlage selbst in Grammatik oder Schreibung strauchelt, gibt die Übersetzung den Sinn wieder und die Transkription behält den Fehler. Die eine Partie, die die Abschrift überspringt, ist hier übersetzt. Die Anmerkungen und das Glossar des Archivübersetzers werden nicht übernommen. <!-- context -->
 
 ### Datum
 

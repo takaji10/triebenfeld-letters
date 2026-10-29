@@ -23,10 +23,10 @@ hits_docs_count: 0
 Stream or canal running between Osiny and Łukom. The same waterway may have been noted in a 1775 court dispute between the owners of the Trąbczyn and Łukom estates, where the flow of water had been blocked by the people of Łukom and had caused flooding on land belonging to Trąbczyn.[^4] Breyer noted a stream running through the Łazińsk settlement which extended to Pyzdry via Łukom and Bukowe, and stated that it was called *Graben* (“stream” in English) by the local people.[^5]
 
 [^4]: “Relationes-oblatae [protocollon],” 1776, 668v-669
-    [The document in the edition.](/documents/app53170koningr145/1/#p29)
+    [The document.](/documents/app53170koningr145/1/#p29)
 
 [^5]: Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]"
-    [The document in the edition.](/documents/app539680669/2/)
+    [The document.](/documents/app539680669/2/)
 
 </div>
 {% endraw %}

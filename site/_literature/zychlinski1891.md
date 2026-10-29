@@ -144,8 +144,8 @@ The couple lived very happily, now on the Trąbczyn estates in the Kalisz countr
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
-<p>Żychliński (1891) says that Michalina, born Prusimska, the widow of Count Józef Dąmbski, married Count Stanisław Miączyński in August 1809 and brought him the Trąbczyn estates. In the letters to and from the Prince of Hohenlohe of 1814 and 1815 she is "the Moscinska born Prusimska", who holds the estates given back to her in 1807 and stands high in favour with the Russian governor general Lanskoy; a letter of 2 February 1815 says that "Moscinski, husband of the born Prusimska" and Lanskoy are bosom friends. The edition takes Moscinski for the letters' form of Miączyński. The letters give no date for the marriage.</p>
+<p class="lit-links-head">In the documents</p>
+<p>Żychliński (1891) says that Michalina, born Prusimska, the widow of Count Józef Dąmbski, married Count Stanisław Miączyński in August 1809 and brought him the Trąbczyn estates. In the letters to and from the Prince of Hohenlohe of 1814 and 1815 she is "the Moscinska born Prusimska", who holds the estates given back to her in 1807 and stands high in favour with the Russian governor general Lanskoy; a letter of 2 February 1815 says that "Moscinski, husband of the born Prusimska" and Lanskoy are bosom friends. Moscinski is the letters' form of Miączyński. The letters give no date for the marriage.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/242/' | relative_url }}">Oe 1 Bü 9454, document 242 (12 October 1814)</a><a href="{{ '/documents/oe1bu9454/266/' | relative_url }}">Oe 1 Bü 9454, document 266 (10 January 1815)</a><a href="{{ '/documents/oe1bu9454/265b/' | relative_url }}">Oe 1 Bü 9454, document 265b (15 January 1815)</a><a href="{{ '/documents/oe1bu9454/1/' | relative_url }}">Oe 1 Bü 9454, document 1 (29 January 1815)</a><a href="{{ '/documents/oe1bu9454/270/' | relative_url }}">Oe 1 Bü 9454, document 270 (2 February 1815)</a></p>
 <p>Żychliński (1891) says in a footnote that Maryanna born Dąmbska, Antoni Prusimski's wife, died at Padua on 2 September 1797, aged 38, and was buried in the church of St Anthony there. The Prussian resident at Venice, Count Cattaneo, reported on 14 December 1796 that Prusimski had come to him in ruined health and dulled almost to stupor by the death of his wife. If both speak of the same death, it came before December 1796, and Żychliński's year 1797 cannot stand.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr1414/2/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, document 2 (14 December 1796)</a></p>
@@ -193,8 +193,8 @@ Countess **Marya** Józefa Felicya, born 8 February 1888 at Włocławek.
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
-<p>Żychliński (1891) says that Count Włodzimierz Miączyński, an officer of 1831, held the Trąbczyn estate, which he bought from his brother Mieczysław after his return from exile, and that he died at Trąbczyn, unmarried, in December 1879. The edition's printed summons of 19 October 1860 is issued at the demand of "Włodzimierz Count Miączyński, heir of the Trąbczyn estates, living in the village of Trąbczyn", in his counterclaim against the colonists of Trąbczyn.</p>
+<p class="lit-links-head">In the documents</p>
+<p>Żychliński (1891) says that Count Włodzimierz Miączyński, an officer of 1831, held the Trąbczyn estate, which he bought from his brother Mieczysław after his return from exile, and that he died at Trąbczyn, unmarried, in December 1879. The printed summons of 19 October 1860 is issued at the demand of "Włodzimierz Count Miączyński, heir of the Trąbczyn estates, living in the village of Trąbczyn", in his counterclaim against the colonists of Trąbczyn.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
 </aside>{% raw %}
 </section>

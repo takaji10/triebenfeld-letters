@@ -4,7 +4,7 @@ The archive supplied one image, which shows two facing pages of the bound volume
 
 ### Transcription
 
-The editor transcribed the entry and supplied it by paragraph, not line by line, with the clerk's abbreviations filled out. The editor also transcribed the heading of the court's sitting from leaf 638. That leaf is not among the images, so the heading is quoted in the description of this holding and is not a page of the edition.
+The editor transcribed the entry and supplied it by paragraph, not line by line, with the clerk's abbreviations filled out. The editor also transcribed the heading of the court's sitting from leaf 638. That leaf is not among the images, so the heading is quoted in the description of this holding and is not included.
 
 ### Check against the scan
 

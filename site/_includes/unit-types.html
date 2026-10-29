@@ -1,0 +1,12 @@
+{%- comment -%}
+  The kinds of material of a holding (unit.yml types:, named in
+  reference/unit_types.yml), as a line of labels. include.types: the slugs.
+{%- endcomment -%}
+{%- if include.types and include.types.size > 0 -%}
+<p class="source-types">
+  {%- for ty in include.types -%}
+    {%- assign ty_row = site.data.unit_types | where: "slug", ty | first -%}
+    <span class="type-tag">{% if lang == "de" %}{{ ty_row.de }}{% else %}{{ ty_row.en }}{% endif %}</span>
+  {%- endfor -%}
+</p>
+{%- endif -%}

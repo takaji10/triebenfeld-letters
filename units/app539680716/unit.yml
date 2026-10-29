@@ -22,8 +22,13 @@ title_de: >-
 archive_title: >-
   Łazińsk [pow. słupecki, woj. poznańskie - notatki, statystyka] 1937
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Łazińsk [pow. słupecki, woj. poznańskie - notatki, statystyka] 1937"
+card_title: "Łazińsk [Słupca district, Poznań voivodeship – notes, statistics] 1937"
+card_title_de: "Łazińsk [Kreis Słupca, Woiwodschaft Posen – Notizen, Statistik] 1937"
+original_title: "Łazińsk [pow. słupecki, woj. poznańskie - notatki, statystyka] 1937"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolno pow. kolski, badacz - regionalista)
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [researchers-papers]
 date_span: "1858-1936"
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

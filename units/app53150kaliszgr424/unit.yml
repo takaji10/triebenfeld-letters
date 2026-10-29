@@ -23,6 +23,7 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Kalisz Municipal Court: Relationes [protocollon] 1776"
 card_title_de: "Burggericht Kalisz: Relationes [protocollon] 1776"
+original_title: "Relationes [protocollon] 1776"
 # The fonds, with the archive's description of it, from the editor (2026-10-07):
 # 53/15, "Księgi sądu i urzędu grodzkiego w Kaliszu". Contents, as the
 # archive lists them: "Rezygnacje, inskrypcje, relacje, wyroki, oblaty,
@@ -30,6 +31,9 @@ card_title_de: "Burggericht Kalisz: Relationes [protocollon] 1776"
 # magdeburskiego, plenipotencje". The description of the court is given in
 # about.md under "Historical background".
 fonds: Księgi sądu i urzędu grodzkiego w Kaliszu
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [court-records]
 date_span: 1776
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

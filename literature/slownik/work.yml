@@ -4,7 +4,7 @@
 # The texts are the corrected citation texts of 2026-10-27 (three-witness
 # OCR against the page scans; born-digital text where the digitisation has
 # one). english.md is a SUMMARY of each entry, not a translation - see
-# notes.md. visible: false - in the edition's corpus, no page on the site
+# notes.md. visible: false - in the corpus, no page on the site
 # (the Słownik is public domain; the entry texts are citation, not reproduction).
 slug: slownik
 visible: false
@@ -22,7 +22,7 @@ pages:
   chapter: '^## '
 summary_en: >-
   Not a work read whole but a citation file: the 38 entries of the Słownik geograficzny Królestwa Polskiego
-  that the edition's gazetteer cites, one per heading with its volume and
+  that the gazetteer cites, one per heading with its volume and
   page, in the corrected transcription of 2026-10-27. Each entry carries the
   dictionary's own wording - the settlement's status, its administrative
   seat, its distance from the market town, its houses and inhabitants, the
@@ -41,7 +41,7 @@ summary_de: >-
   Wörterbücher selbst werden hier nicht wiederveröffentlicht; ihre Texte
   bleiben im privaten namenkundlichen Repository.
 account_en: >-
-  The 38 entries of the Słownik geograficzny Królestwa Polskiego that the edition's gazetteer cites, one per
+  The 38 entries of the Słownik geograficzny Królestwa Polskiego that the gazetteer cites, one per
   heading with its volume and page, in the corrected text of 2026-10-27.
   Brought in so the citations can be checked against the works' own words
   without opening the volumes; not a republication of the dictionaries,

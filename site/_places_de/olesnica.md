@@ -23,7 +23,7 @@ hits_docs_count: 61
 Village east of Zagórów. First mentioned as *Oleszyno* in a 1261 document where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery in Ląd made by Mieszko III and donated additional villages including Oleśnica.[^55] First appeared with a windmill (Gilly 1802); with a manor house (Richter 1843); renamed to *Erlenbruch* during Nazi Germany occupation (Hohensalza 1942). Nazwy miejscowe Polski records the name as *Oliesznycza* by 1507, later as *Oleśnica* (1827).[^56]
 
 [^55]: Zakrzewski, vol. 1, No. 393
-    [The document in the edition.](/documents/kdw/4/)
+    [The document.](/documents/kdw/4/)
 
 [^56]: Nazwy miejscowe Polski, t. 8, p. 84
 

@@ -108,8 +108,8 @@ Ahead of them went the reputation of exemplary settlement technicians, who devel
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the edition</p>
-<p>Kneifel (1964) says that in 1746 Paul von Kolno-Prusinski, lord of "Trombezyn" (Trąbczyn), assigned German peasants woodland and waste to clear, and that on it they created the colony of Lazinsk (Łazińsk), the edition's Trąbczyńskie Stare Olędry. The edition's documents carry the same grant: the summons of 1860 names "Paweł z Kolna Prusiński" with his wife Katarzyna as the grantors who gave the Hollanders on the lands of the Trąbczyn estate their privilege in 1746, and the boundary decree of 1775 attests the settlement of the olędry on those woodlands "as attested by the rights granted them in 1746". Kneifel names the husband alone; the documents the couple, and the edition follows the documents.</p>
+<p class="lit-links-head">In the documents</p>
+<p>Kneifel (1964) says that in 1746 Paul von Kolno-Prusinski, lord of "Trombezyn" (Trąbczyn), assigned German peasants woodland and waste to clear, and that on it they created the colony of Lazinsk (Łazińsk), Trąbczyńskie Stare Olędry. The documents carry the same grant: the summons of 1860 names "Paweł z Kolna Prusiński" with his wife Katarzyna as the grantors who gave the Hollanders on the lands of the Trąbczyn estate their privilege in 1746, and the boundary decree of 1775 attests the settlement of the olędry on those woodlands "as attested by the rights granted them in 1746". Kneifel names the husband alone; the documents the couple.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a></p>
 </aside>{% raw %}
 </section>

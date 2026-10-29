@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Das Archiv lieferte 62 Aufnahmen, die jeweils zwei gegenüberliegende Seiten des gebundenen Bandes zeigen. Jede wurde am Falz in zwei Seiten geschnitten. Zwei Hälften werden nicht verwendet: die linke Hälfte der ersten Aufnahme, die das Ende eines anderen Eintrags ist, und eine leere Seite. Die Edition hat 122 Seiten, beginnend mit dem Titelblatt des Eintrags.
+Das Archiv lieferte 62 Aufnahmen, die jeweils zwei gegenüberliegende Seiten des gebundenen Bandes zeigen. Jede wurde am Falz in zwei Seiten geschnitten. Zwei Hälften werden nicht verwendet: die linke Hälfte der ersten Aufnahme, die das Ende eines anderen Eintrags ist, und eine leere Seite. Es hat 122 Seiten, beginnend mit dem Titelblatt des Eintrags.
 
 ### Transkription
 
@@ -8,7 +8,7 @@ Der Herausgeber hat den Eintrag transkribiert und den Text in einer Datei gelief
 
 ### Prüfung an den Aufnahmen
 
-Der Herausgeber hatte den Text durchgearbeitet, bevor er in die Edition kam. Ein KI-Modell (Claude) las zunächst vier Seiten Wort für Wort neben den Aufnahmen, dazu die Unterschriften auf der letzten Seite. Es korrigierte 23 Lesungen, ergänzte eine Zeile des Titelblatts und fand sechs Wörter, die zwischen zwei Wörtern mit gleicher Endung ausgelassen waren.
+Der Herausgeber hatte den Text durchgearbeitet, bevor er aufgenommen wurde. Ein KI-Modell (Claude) las zunächst vier Seiten Wort für Wort neben den Aufnahmen, dazu die Unterschriften auf der letzten Seite. Es korrigierte 23 Lesungen, ergänzte eine Zeile des Titelblatts und fand sechs Wörter, die zwischen zwei Wörtern mit gleicher Endung ausgelassen waren.
 
 Der Herausgeber bat danach darum, den ganzen Text auf ausgelassene Wörter zu prüfen. Alle 122 Seiten wurden neben den Aufnahmen gelesen, und 233 Stellen wurden korrigiert. An 26 davon fehlten der Transkription Wörter, die auf der Aufnahme stehen, von einem einzelnen Wort bis zu etwa sechzig; fast alle waren zwischen zwei Vorkommen desselben Wortes übersprungen worden. Die übrigen 207 sind verlesene Wörter, die den Sinn ändern. Schreibversehen, die nichts ändern, wurden nicht gesammelt, weil der Text in heutiger Rechtschreibung steht. Jede Änderung ist mit ihrem Grund verzeichnet.
 
@@ -22,7 +22,7 @@ Der ganze Eintrag ist ein Dokument. Er ist auf den 23. September 1776 datiert, d
 
 ### Übersetzung
 
-Das Englische ist die eigene Übersetzung des Herausgebers, angefertigt, bevor der Eintrag in die Edition kam, und wurde nicht neu gemacht. Ihre Abschnittsüberschriften und ihre zwanzig Anmerkungen des Übersetzers stammen vom Herausgeber; die Überschriften stehen in eckigen Klammern, und jede Anmerkung folgt dem Absatz, zu dem sie gehört. Die Übersetzung beendet jede Seite am Ende eines Satzes, so dass das Englische einer Seite einige Zeilen vor oder nach dem Polnischen beginnen oder enden kann. An zwei Stellen, wo der Abstand fast eine Seite betrug, wurde der Umbruch verschoben. An den meisten Stellen, an denen die Transkription fehlging, hatte das Englische bereits den richtigen Sinn. Es wurde an 37 Stellen geändert, um den Korrekturen am Polnischen zu folgen, meist um die fehlenden Wörter zu ergänzen. Ein Absatz von etwa hundert Wörtern am Anfang von Blatt 680, der in der Übersetzung fehlte, wurde von Claude aus dem Polnischen übersetzt, in den Begriffen des Herausgebers. In einem Satz wurde das Englische geändert, ohne dass sich das Polnische änderte: Chełmski soll zwölf Wochen nach dem Dekret den Turm in Konin beziehen und dort zwei Wochen sitzen; die Übersetzung hatte eine Haft von zwölf Wochen gelesen. Eine automatische Prüfung verglich die Zweifelszeichen und die Fachbegriffe beider Texte.
+Das Englische ist die eigene Übersetzung des Herausgebers, angefertigt, bevor er aufgenommen wurde, und wurde nicht neu gemacht. Ihre Abschnittsüberschriften und ihre zwanzig Anmerkungen des Übersetzers stammen vom Herausgeber; die Überschriften stehen in eckigen Klammern, und jede Anmerkung folgt dem Absatz, zu dem sie gehört. Die Übersetzung beendet jede Seite am Ende eines Satzes, so dass das Englische einer Seite einige Zeilen vor oder nach dem Polnischen beginnen oder enden kann. An zwei Stellen, wo der Abstand fast eine Seite betrug, wurde der Umbruch verschoben. An den meisten Stellen, an denen die Transkription fehlging, hatte das Englische bereits den richtigen Sinn. Es wurde an 37 Stellen geändert, um den Korrekturen am Polnischen zu folgen, meist um die fehlenden Wörter zu ergänzen. Ein Absatz von etwa hundert Wörtern am Anfang von Blatt 680, der in der Übersetzung fehlte, wurde von Claude aus dem Polnischen übersetzt, in den Begriffen des Herausgebers. In einem Satz wurde das Englische geändert, ohne dass sich das Polnische änderte: Chełmski soll zwölf Wochen nach dem Dekret den Turm in Konin beziehen und dort zwei Wochen sitzen; die Übersetzung hatte eine Haft von zwölf Wochen gelesen. Eine automatische Prüfung verglich die Zweifelszeichen und die Fachbegriffe beider Texte.
 
 ### Zusammenfassung
 

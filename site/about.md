@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About this edition
-standfirst: What the edition contains, where the documents are held, how the text was made and how far it can be relied on.
-permalink: /reading-this-edition/
+title: About
+standfirst: Where the documents are held, how the text was made and how far it can be relied on.
+permalink: /about/
 lang: en
-alt_url: /de/ueber-diese-edition/
+alt_url: /de/ueber/
 ---
 
-## What this edition is
+## The documents
 
 *Traces in the Sand* publishes the papers that survive on a group of estates around
 Trąbczyn and Zagórów, in the part of Poland that Prussia annexed in 1793. In 1796 the King
@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 630 documents on 2,103 pages, dated from 1173 to 1936. The oldest are  
+There are 630 documents on 2,103 pages, dated from 1173 to 1936. The oldest are  
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -42,7 +42,7 @@ each names, every name photographed as the map spells it.
 
 The documents come from fifty-one holdings in six archives and a library:
 
-- the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
+- the **Hohenlohe-Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
   grants, title deeds and leases; and a royal charter of 1805;
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
@@ -102,8 +102,7 @@ language.
 The originals are handwritten, most of them in *Kurrent*, the German cursive of the period,
 which is hard to read and easy to misread.
 
-The editor is an amateur palaeographer. Because of the number of pages, the work for this
-edition was done with the support of AI, in three steps:
+The editor is an amateur palaeographer. Because of the number of pages, the work was done with the support of AI, in three steps:
 
 1. An AI system for reading handwriting produced the first transcription. The editor
    corrected names and layout by hand.
@@ -157,11 +156,11 @@ sideways in a margin.
 | `[?]` | A word, or part of one, could not be read. Straight after a word, it marks that word as doubtful. |
 | `[word?]` | A reading offered with doubt. Where only the first letters are read: `[Rev…?]`. |
 | `[...]` | A gap: the page is damaged, or the text breaks off. |
-| `G[oldbeck]` | Letters in square brackets inside a word are supplied by the edition: an abbreviation written out, or a signature that consists of an initial. |
+| `G[oldbeck]` | Letters in square brackets inside a word are supplied by the editor: an abbreviation written out, or a signature that consists of an initial. |
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 910 marks of doubt in the edition. Each document's page says how many it has.
+There are 910 marks of doubt. Each document's page says how many it has.
 
 ## The English translations
 
@@ -223,7 +222,7 @@ Where one archive number covers several documents, they are numbered 72a, 72b an
 few documents survive in two copies. Both are given, because each copy shows where the
 other was miscopied or misread.
 
-The edition is arranged by the owners of the estates. Nearly all the documents published so
+The documents are arranged by the owners of the estates. Nearly all the documents published so
 far belong to the years of Hohenlohe-Ingelfingen and their aftermath. One belongs to the
 earlier boundary dispute between Trąbczyn and its neighbour Łukom, and more are to follow.
 The years after the estates were returned to the Prusimski family in 1807 are still to come.
@@ -235,7 +234,7 @@ The years after the estates were returned to the Prusimski family in 1807 are st
   Their pages say so.
 - Further files on the estates in the archives at Berlin are still to be added.
 
-## Citing and reusing the edition
+## Citing and reusing
 
-[Licences, credits and privacy]({{ '/rights/' | relative_url }}) says who runs the edition,
+[Licences, credits and privacy]({{ '/rights/' | relative_url }}) says who runs the site,
 how to cite a document, and what may be reused.

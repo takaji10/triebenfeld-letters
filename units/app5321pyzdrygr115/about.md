@@ -44,7 +44,7 @@ its own; the volume's title names the years 1791 and 1792. <!-- context -->
 ### The places of the table
 
 The rows are the villages of the parish of Trąbczyn. The smithy "Kuznia
-Maryantów" of the table is the Marianton of the edition, Mariantów, where
+Maryantów" of the table is the Marianton, Mariantów, where
 the Hohenlohe patrimonial court for Trąbczyn sat ("Actum Marianton") - the
 editor's identification [[1]]. The one row "Hollendry Luzne Stare i nowe z
 Hutą" names both Olęder colonies of the estate together, the old and the new

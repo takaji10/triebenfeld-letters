@@ -1,0 +1,32 @@
+# The kinds of archival material a holding can be (editor, 2026-10-29). A
+# holding is classified as a whole, not document by document, with one type or,
+# where it is really two things, two (`types:` in its unit.yml, the dominant
+# one first). Classified by the form of the record, not by its subject. Shown
+# as a label on the holding's card and page and as a filter on the archival
+# list. Add a type here when a holding needs one that is not listed.
+
+types:
+  - slug: court-records
+    en: Court records
+    de: Gerichtsakten
+  - slug: government-files
+    en: Government and administrative files
+    de: Regierungs- und Verwaltungsakten
+  - slug: correspondence
+    en: Correspondence
+    de: Korrespondenz
+  - slug: deeds-contracts
+    en: Deeds, contracts and grants
+    de: Verträge, Verschreibungen und Schenkungen
+  - slug: registers-tables
+    en: Registers, tables and surveys
+    de: Register, Tabellen und Erhebungen
+  - slug: church-records
+    en: Church records
+    de: Kirchenakten
+  - slug: charters-privileges
+    en: Charters and privileges
+    de: Urkunden und Privilegien
+  - slug: researchers-papers
+    en: Researchers' papers
+    de: Forschernachlässe

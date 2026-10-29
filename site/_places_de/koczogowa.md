@@ -23,7 +23,7 @@ hits_docs_count: 0
 Water mill which existed east of Myszaków. Possibly located at Łukom, which was recorded as having a mill (Gilly 1802) and was mentioned in a 1775 court document concerning a property dispute between the Trąbczyn and Łukom estates.[^31] Only one map noted this feature (von Pfau 1770).
 
 [^31]: “Relationes-oblatae [protocollon],” 1776, 668v
-    [The document in the edition.](/documents/app53170koningr145/1/#p29)
+    [The document.](/documents/app53170koningr145/1/#p29)
 
 </div>
 {% endraw %}

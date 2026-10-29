@@ -27,8 +27,13 @@ title_de: >-
 archive_title: >-
   Akta Komisji Rządzącej pod bytność jej w Dreźnie
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Akta Komisji Rządzącej pod bytność jej w Dreźnie"
+card_title: "Records of the Governing Commission during its stay in Dresden"
+card_title_de: "Akten der Regierungskommission aus der Zeit ihres Aufenthalts in Dresden"
+original_title: "Akta Komisji Rządzącej pod bytność jej w Dreźnie"
 # The four pieces are dated 20 to 23 July 1807.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [government-files]
 date_span: "1807"
 status: translated        # draft | transcribed | translated | published
 # Translated in session on 2026-10-05 into the untagged cache

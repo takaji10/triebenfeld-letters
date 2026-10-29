@@ -20,8 +20,8 @@ Auf der fünften Seite bescheinigt der Gerichtsbote Michał Piechowski, dass er 
 
 Vier Seiten sind gedruckt, auf Papier mit einem Stempel zu 7½ Kopeken am Kopf. Eine Vorladung wurde für alle Beklagten gedruckt, und der Gerichtsbote vervollständigte jedes Exemplar von Hand: die Zeile, in der er sich selbst nennt, den Namen der Person, der er zustellte, Ort und Tag und seine Unterschrift. Auf diesem Exemplar berichtigte er auch die gedruckte Liste mit der Feder. Er strich einen Namen und schrieb einen anderen an den Rand, änderte in mehreren Namen einen Buchstaben und unterschrieb unter dem Druck neben einem Kostenvermerk. Die Sprache ist das juristische Polnisch des Königreichs Polen, mit deutschen Familiennamen in polnischer Schreibung. <!-- context -->
 
-Die Familie, die diese Edition als Zelmer führt, steht in der Liste als „Celmer“: Henryk, August und Michał sowie Anna Elżbieta, Witwe des Daniel, für ihre fünf Kinder [[1]].
+Die Familie, die als Zelmer geführt wird, steht in der Liste als „Celmer“: Henryk, August und Michał sowie Anna Elżbieta, Witwe des Daniel, für ihre fünf Kinder [[1]].
 
 ### Verwandte Bestände
 
-Der Beschluss von 1807, der das Gut zurückgab: [[unit:agad1174016]] und [[unit:agad11740273]]. Weigels Forderung und die Urteile darüber: [[unit:iiihamdaiiinr12366]], [[unit:iiihamdaiiinr12367]]. Hohenlohe-Ingelfingens Geschäfte mit Siedlern 1805 und 1806, aus demselben Nachlass Albert Breyers: [[unit:app539680801]]. Der Vertrag vom 18. Mai 1805 selbst, der Vertrag von 1828 und das Privileg von 1746 sind nicht in der Edition. <!-- context -->
+Der Beschluss von 1807, der das Gut zurückgab: [[unit:agad1174016]] und [[unit:agad11740273]]. Weigels Forderung und die Urteile darüber: [[unit:iiihamdaiiinr12366]], [[unit:iiihamdaiiinr12367]]. Hohenlohe-Ingelfingens Geschäfte mit Siedlern 1805 und 1806, aus demselben Nachlass Albert Breyers: [[unit:app539680801]]. Der Vertrag vom 18. Mai 1805 selbst, der Vertrag von 1828 und das Privileg von 1746 sind nicht aufgenommen. <!-- context -->

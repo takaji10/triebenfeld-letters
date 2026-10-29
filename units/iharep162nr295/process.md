@@ -1,6 +1,6 @@
 ### Photographs and page images
 
-The editor photographed the cover and eleven pages at the archive in 2023. Each page was photographed twice, once over its top half and once over its bottom half, so that the two photographs overlap and the same lines of writing stand in both. For the edition the two photographs of each page were joined into one image of the whole page. The join runs through the gap between two lines of writing: above it the image is the top photograph, below it the bottom photograph, fitted to the top one. No line is doubled or left out. On four pages the join touches the tail of a letter in a few places. Each image is cut at the fold, so the page opposite is not shown.
+The editor photographed the cover and eleven pages at the archive in 2023. Each page was photographed twice, once over its top half and once over its bottom half, so that the two photographs overlap and the same lines of writing stand in both. The two photographs of each page were joined into one image of the whole page. The join runs through the gap between two lines of writing: above it the image is the top photograph, below it the bottom photograph, fitted to the top one. No line is doubled or left out. On four pages the join touches the tail of a letter in a few places. Each image is cut at the fold, so the page opposite is not shown.
 
 ### Transcription
 
@@ -20,7 +20,7 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The Latin of the registry is kept, except the two terms for a general and a special mortgage, which are given in English. The abbreviated heads of the courts' fee notes are left as they stand. The same automatic check as elsewhere then confirmed that every figure survives into the English.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The Latin of the registry is kept, except the two terms for a general and a special mortgage, which are given in English. The abbreviated heads of the courts' fee notes are left as they stand. The same automatic check as elsewhere then confirmed that every figure survives into the English.
 
 ### Still to do
 

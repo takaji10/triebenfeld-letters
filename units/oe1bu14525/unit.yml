@@ -3,7 +3,7 @@
 
 slug: oe1bu14525
 ref: Oe 1 Bü 14525
-archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+archive: Hohenlohe-Zentralarchiv Neuenstein (HZAN)
 # What the holding is about, in one sentence, English and German: the line
 # under the reference on the Sources page, and the opening of the
 # translator's and summariser's prompts (editor, 2026-10-01).
@@ -26,7 +26,12 @@ archive_title: >-
   of Hohenlohe-Ingelfingen, with the certified copies, mortgage certificates,
   valuations and official correspondence that carry them into effect.
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "The royal grants of the South Prussian estates to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, with the certified copies, mortgage certificates, valuations and official correspondence that carry them into effect"
+card_title: "Gift of extensive lordships and estates in the new province of South Prussia by the Kings Friedrich Wilhelm II and Friedrich Wilhelm III of Prussia to Prince Ludwig Friedrich of Hohenlohe-Ingelfingen"
+card_title_de: "Schenkung umfangreicher Herrschaften und Güter in der neuen Provinz Südpreußen durch die Könige Friedrich Wilhelm II. und Friedrich Wilhelm III. von Preußen an Fürst Ludwig Friedrich von Hohenlohe-Ingelfingen"
+original_title: "Schenkung umfangreicher Herrschaften und Güter in der neuen Provinz Südpreußen durch die Könige Friedrich Wilhelm II. und Friedrich Wilhelm III. von Preußen an Fürst Ludwig Friedrich von Hohenlohe-Ingelfingen"
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [deeds-contracts, government-files]
 date_span: 1794-1804
 status: translated         # draft | transcribed | translated | published
 

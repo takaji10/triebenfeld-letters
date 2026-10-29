@@ -31,7 +31,7 @@ dates:
   # [year, month, day, precision, basis]; the basis is shown to the reader.
   inferred:
     "3": [1447, 8, 8, "day", "The dating clause, on p. 15: \"Actum Gnesnae feria tertia ante festum S. Laurentii Martyris Anno Domini\", the year written over; read as 1447, as a later hand wrote it in pencil in the margin. The witnesses, Bishop Andrzej, Łukasz of Górka, voivode of Poznań, and the chancellor Jan of Koniecpol, held their offices in 1447. St Lawrence, 10 August 1447, was a Thursday."]
-    "6": [1761, 4, 10, "day", "The page names \"the Friday next after the same Sunday Misericordia\"; the heading of the entry, on p. 63 (not in the edition), gives the year 1761 and its entry at Kalisz castle on the Monday after Cantate 1761. Misericordia Sunday 1761 was 5 April."]
+    "6": [1761, 4, 10, "day", "The page names \"the Friday next after the same Sunday Misericordia\"; the heading of the entry, on p. 63 (not included), gives the year 1761 and its entry at Kalisz castle on the Monday after Cantate 1761. Misericordia Sunday 1761 was 5 April."]
   sitting: {}
   # The beginning of no. 26 stops before its date (p. 27 is not photographed).
   no_date: ["5"]

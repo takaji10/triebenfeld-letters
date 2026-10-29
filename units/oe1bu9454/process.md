@@ -1,6 +1,6 @@
 ### Scans
 
-The archive supplied 549 images, each showing one or two sides of a letter. They were cropped to single pages, and a folded sheet photographed open was cut at the fold. The edition has 870 pages. Each page was matched to its place in the transcription, and the matches were checked by hand.
+The archive supplied 549 images, each showing one or two sides of a letter. They were cropped to single pages, and a folded sheet photographed open was cut at the fold. It has 870 pages. Each page was matched to its place in the transcription, and the matches were checked by hand.
 
 ### Transcription
 

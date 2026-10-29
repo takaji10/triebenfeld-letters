@@ -38,6 +38,7 @@ lukom1766:
     lat: 52.116904
     lon: 17.81634
     refs: []
+    sort_name: Budy
   - id: lukom1766-007
     place: gradzyn
     place_name: Grądzeń
@@ -53,6 +54,7 @@ lukom1766:
     lat: 52.104655
     lon: 17.811872
     refs: []
+    sort_name: Grądzeń
   - id: lukom1766-009
     place: huta-lukomska
     place_name: Huta Łukomska
@@ -68,6 +70,7 @@ lukom1766:
     lat: 52.118077
     lon: 17.826596
     refs: []
+    sort_name: Huta Łukomska
   - id: lukom1766-011
     place: imielno
     place_name: Imielno
@@ -83,6 +86,7 @@ lukom1766:
     lat: 52.135052
     lon: 17.870105
     refs: []
+    sort_name: Imielno
   - id: lukom1766-013
     place: lomow
     place_name: Łomów
@@ -98,6 +102,7 @@ lukom1766:
     lat: 52.118603
     lon: 17.856516
     refs: []
+    sort_name: Łomów
   - id: lukom1766-015
     place: lukom
     place_name: Łukom
@@ -113,6 +118,7 @@ lukom1766:
     lat: 52.131689
     lon: 17.845394
     refs: []
+    sort_name: Łukom
   - id: lukom1766-017
     place: rosciszewo
     place_name: Rosciszewo
@@ -128,6 +134,7 @@ lukom1766:
     lat: 52.081143
     lon: 17.840149
     refs: []
+    sort_name: Rosciszewo
   - id: lukom1766-019
     place: stawisko
     place_name: Stawisko
@@ -143,6 +150,7 @@ lukom1766:
     lat: 52.113524
     lon: 17.867474
     refs: []
+    sort_name: Stawisko
   - id: lukom1766-021
     place: studzianka
     place_name: Studzianka
@@ -158,6 +166,7 @@ lukom1766:
     lat: 52.082118
     lon: 17.864099
     refs: []
+    sort_name: Studzianka
   - id: lukom1766-023
     place: myszakow
     place_name: Myszaków
@@ -173,9 +182,10 @@ lukom1766:
     lat: 52.143695
     lon: 17.806749
     refs: []
+    sort_name: Myszaków
   - id: lukom1766-025
-    place: gradzyn
-    place_name: Grądzeń
+    place: null
+    place_name: null
     form: Tres mansi Conventûs Landensis
     shows: field
     shows_en: Field
@@ -191,9 +201,9 @@ lukom1766:
     - source: lad-copybook
       locator: 14-15
       link: /documents/app5314550221/3/#p1
-      quote: the king's confirmation of 1447 of the purchase of three mansi of Łukom with the forest of
-        Grądzyń
+      quote: the king's confirmation of 1447 of the purchase of three mansi of Łukom
     - source: lad-copybook
       locator: 13-14
       link: /documents/app5314550221/2/#p1
       quote: the privilege of 1461, "Privilegium Gradziem"
+    sort_name: Tres mansi Conventûs Landensis

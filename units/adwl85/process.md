@@ -1,6 +1,6 @@
 ### Scans
 
-The editor photographed fifty pages of the volume, each a single page, named by leaf. Only the nine pages their transcription covers are in the edition: leaves 23 verso, 24, 24 verso, 25, 25 verso, 28 verso, 29 and 29 verso, and leaf 34a. Leaf 34a is a leaf added after leaf 34.
+The editor photographed fifty pages of the volume, each a single page, named by leaf. Only the nine pages their transcription covers are included: leaves 23 verso, 24, 24 verso, 25, 25 verso, 28 verso, 29 and 29 verso, and leaf 34a. Leaf 34a is a leaf added after leaf 34.
 
 ### Transcription
 
@@ -20,4 +20,4 @@ The pages are two documents: the record of the parish of Trąbczyn, and the tabl
 
 ### Summary and translation
 
-The summaries were written in German from the Polish and translated into English; each of their 34 statements was then checked against the text. The English translation was made in the same session from the Polish as checked. It gives the names of the places in the forms this edition uses (Trąbczyn, Mariantów, Nowawies, Zagórów, Oleśnica, Skokum, Kopojno) and leaves the others as written; Latin titles of books stay in Latin.
+The summaries were written in German from the Polish and translated into English; each of their 34 statements was then checked against the text. The English translation was made in the same session from the Polish as checked. It gives the names of the places in the forms used here (Trąbczyn, Mariantów, Nowawies, Zagórów, Oleśnica, Skokum, Kopojno) and leaves the others as written; Latin titles of books stay in Latin.

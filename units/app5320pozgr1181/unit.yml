@@ -25,6 +25,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Poznań Municipal Court: Relationes [protocollon] 1786"
 card_title_de: "Burggericht Poznań: Relationes [protocollon] 1786"
+original_title: "Relationes [protocollon] 1786"
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [court-records]
 date_span: 1784-1786
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

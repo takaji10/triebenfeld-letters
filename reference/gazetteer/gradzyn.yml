@@ -60,21 +60,6 @@ maps:
   form: Grązien
   note: null
   label: lukom1766-007
-- map: lukom1766
-  form: Tres mansi Conventûs Landensis
-  note: the inscription "three mansi of the Convent of Ląd" on the abbey's land of
-    Pustkowie Grądziem, beside Dezerta Jemielno (the editor, 2026-10-23)
-  label: lukom1766-025
-  refs:
-  - source: lad-copybook
-    locator: 14-15
-    link: /documents/app5314550221/3/#p1
-    quote: the king's confirmation of 1447 of the purchase of three mansi of Łukom
-      with the forest of Grądzyń
-  - source: lad-copybook
-    locator: 13-14
-    link: /documents/app5314550221/2/#p1
-    quote: the privilege of 1461, "Privilegium Gradziem"
 - map: perthees1798
   form: Pustkowie Grądzin
   note: null

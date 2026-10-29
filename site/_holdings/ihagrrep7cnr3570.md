@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-A file of the Prussian central administration for South Prussia, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. It concerns the charters of 9 August 1796 by which Friedrich Wilhelm II, King of Prussia, granted confiscated and vacant estates in South Prussia to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, and to six officers. The edition treats the file as one document of 22 pages, of which twelve are not transcribed. <!-- context -->
+A file of the Prussian central administration for South Prussia, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. It concerns the charters of 9 August 1796 by which Friedrich Wilhelm II, King of Prussia, granted confiscated and vacant estates in South Prussia to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, and to six officers. The file is one document of 22 pages, of which twelve are not transcribed. <!-- context -->
 
 ### Historical background
 

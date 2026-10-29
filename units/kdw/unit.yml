@@ -24,7 +24,15 @@ title_de: >-
 archive_title: >-
   Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae)
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae)"
+card_title: "Diplomatic Code of Greater Poland"
+card_title_de: "Diplomatischer Kodex Großpolens"
+original_title: "Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae)"
+# Listed with the literature, not the archival holdings (editor, 2026-10-29):
+# a printed edition, not an archive's records. Only where it is listed
+# changes: it stays a holding with its 21 documents, its address under
+# /sources/kdw/, the document browse and the era (site/_includes/literature.html
+# shows its card, sources-archive.html leaves it out).
+listed_in: literature
 date_span: "1173-1440"      # the documents' dates (the Kodeks itself runs from 984 to 1444)
 status: translated        # draft | transcribed | translated | published
 published_tag: ""

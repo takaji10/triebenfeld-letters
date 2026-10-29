@@ -2665,3 +2665,37 @@ Turna" came so from Chodyła p. 49, where p. 52 has "Szczepana Turno" and his
 mother "Turnowa". Before writing a surname from a Polish oblique case, find
 it in the nominative, or in the undeclined form, in the same source.
 
+
+## Rewording the site's own prose (2026-10-29)
+
+- **What may be touched.** The editor, 2026-10-29: a pass over the site's
+  own prose never touches the transcriptions, the reading copies or the
+  translations - nor a translator's note inside a translation (`english.md`
+  of a work: the "edition" pass changed Janocki's "[T.N.]" lines and they were
+  put back). The timeline and the static pages wait for a rewrite of their
+  own. No paid run. The review plan is `docs/VOICE_REVIEW_PLAN.md`.
+- **Find the text on the built site, then its source.** Scanning the source
+  files for a phrase misses text kept in attributes (`data-en`, the date
+  basis) and finds internal notes no reader sees; scanning `site/_site` with
+  tags stripped misses attributes too. Scan the raw HTML, then locate each hit's
+  source by a 50-character fragment, whitespace normalised (folded YAML wraps
+  sentences across lines).
+- **A summary or a date basis lives in more places than its source.** The
+  date basis of a document is in `rulings.yml` and, keyed by the English, in
+  `reference/site_notes_de.yml`; the built copies are in `dataset/`
+  (documents, `letters.csv`/`.json`, the unit's copies), which only
+  `build_db.py` rewrites. Rather than a full rebuild (it blanks the scan map of
+  a holding whose scans are not here), apply the same edit to the `dataset/`
+  copies.
+- **`build_literature.py` empties `dataset/literature/`**, and
+  `mentions.json` comes back only from `literature_index.py --check`. Run the
+  two together, as `regenerate.py` does, or the dataset loses 4.5 MB.
+- **Rule-based rewording needs reading after.** Regex rules over prose
+  ("The edition has ..." -> "It has ...") also caught "The edition has these
+  pages" and wrote "It has these pages". Every sentence such a pass changes is
+  read before it is published.
+- **Traps met:** Python's `re` refuses a variable-width look-behind (`(?<=[.:;]\s+)`);
+  a replacement written as `'\1'` through a Bash heredoc reached the file as
+  the control character U+0001, which YAML then refused - write such scripts
+  with the Write tool and use `chr(92)` or raw strings (the 2026-10-13 shell
+  traps, again).

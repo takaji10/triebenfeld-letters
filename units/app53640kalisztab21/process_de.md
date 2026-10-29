@@ -18,4 +18,4 @@ Die dreizehn Seiten sind ein Dokument. Es ist nach seinem gedruckten Titel datie
 
 ### Zusammenfassung und Übersetzung
 
-Die Zusammenfassung wurde auf Deutsch aus der Tabelle geschrieben und ins Englische übersetzt; jede ihrer 14 Aussagen wurde dann an der Tabelle geprüft, und alle hielten stand. Die englische Fassung der Tabelle übersetzt den Titel, den Kopf und die häufigen Wörter (Dorf, Städtchen, Vorwerk, Mühle, Anteil) und lässt die Namen so, wie der Schreiber sie schrieb; nur Trąbczyn und Nowawies erhalten die Schreibung, die diese Edition überall verwendet.
+Die Zusammenfassung wurde auf Deutsch aus der Tabelle geschrieben und ins Englische übersetzt; jede ihrer 14 Aussagen wurde dann an der Tabelle geprüft, und alle hielten stand. Die englische Fassung der Tabelle übersetzt den Titel, den Kopf und die häufigen Wörter (Dorf, Städtchen, Vorwerk, Mühle, Anteil) und lässt die Namen so, wie der Schreiber sie schrieb; nur Trąbczyn und Nowawies erhalten die überall verwendete Schreibung.

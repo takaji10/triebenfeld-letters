@@ -9,6 +9,35 @@
 (function () {
   'use strict';
   var VIEW_KEY = 'tf-view';
+  // The summary: clamped to a few lines, with a button for the rest. The button
+  // stays hidden when the visible summary fits, and the check runs again when the
+  // language changes (the two summaries differ in length).
+  (function () {
+    var btn = document.querySelector('.summary-more');
+    var sums = document.querySelectorAll('.letter-summary');
+    if (!btn || !sums.length) return;
+    var open = false;
+    function fit() {
+      var cur = document.querySelector('.letter-summary:not([hidden])');
+      sums.forEach(function (s) { s.classList.toggle('is-clamped', !open); });
+      btn.hidden = true;
+      if (!cur) return;
+      if (open) { btn.hidden = false; return; }
+      btn.hidden = cur.scrollHeight <= cur.clientHeight + 2;
+    }
+    function label() {
+      btn.querySelector('.sm-more').hidden = open;
+      btn.querySelector('.sm-less').hidden = !open;
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    btn.addEventListener('click', function () { open = !open; label(); fit(); });
+    document.addEventListener('click', function (ev) {
+      if (ev.target.closest('#langswitch')) setTimeout(function () { label(); fit(); }, 50);
+    });
+    window.addEventListener('load', fit);
+    fit();
+  })();
+
   var SCAN_KEY = 'tf-hidescans';
   var VIEWS = ['diplomatic', 'reading', 'translation'];
 
@@ -119,6 +148,7 @@
 
   // ---- hiding the scans gives the text the full width ---------------------
   var box = document.getElementById('hidescans');
+  if (box && !document.querySelector('.pane-scan')) box.closest('label').hidden = true;
   if (box) {
     function applyScans(hide) {
       document.body.classList.toggle('no-scans', hide);

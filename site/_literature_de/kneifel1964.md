@@ -108,8 +108,8 @@ Ahead of them went the reputation of exemplary settlement technicians, who devel
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In der Edition</p>
-<p>Kneifel (1964) sagt, Paul von Kolno-Prusinski, Gutsherr von „Trombezyn“ (Trąbczyn), habe 1746 deutschen Bauern Waldungen und Ödland zur Urbarmachung zugewiesen, und sie hätten auf ihnen die Kolonie Lazinsk (Łazińsk) geschaffen, die Trąbczyńskie Stare Olędry der Edition. Die Dokumente der Edition tragen dieselbe Zuweisung: Die Vorladung von 1860 nennt „Paweł z Kolna Prusiński“ mit seiner Frau Katarzyna als die Verleihenden, die den Holländern auf den Gütern Trąbczyńskich 1746 ihr Privileg gaben, und das Grenzdekret von 1775 bezeugt die Ansiedlung der Olęder auf diesen Waldungen „wie durch die ihnen 1746 verliehenen Rechte bezeugt“. Kneifel nennt allein den Ehemann, die Dokumente das Ehepaar, und die Edition folgt den Dokumenten.</p>
+<p class="lit-links-head">In den Dokumenten</p>
+<p>Kneifel (1964) sagt, Paul von Kolno-Prusinski, Gutsherr von „Trombezyn“ (Trąbczyn), habe 1746 deutschen Bauern Waldungen und Ödland zur Urbarmachung zugewiesen, und sie hätten auf ihnen die Kolonie Lazinsk (Łazińsk) geschaffen, die Trąbczyńskie Stare Olędry. Die Dokumente tragen dieselbe Zuweisung: Die Vorladung von 1860 nennt „Paweł z Kolna Prusiński“ mit seiner Frau Katarzyna als die Verleihenden, die den Holländern auf den Gütern Trąbczyńskich 1746 ihr Privileg gaben, und das Grenzdekret von 1775 bezeugt die Ansiedlung der Olęder auf diesen Waldungen „wie durch die ihnen 1746 verliehenen Rechte bezeugt“. Kneifel nennt allein den Ehemann, die Dokumente das Ehepaar.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a></p>
 </aside>{% raw %}
 </section>

@@ -2081,7 +2081,7 @@ people:
     display: "Gustav Adolf Mielke"
     render: "Mielke"
     match: 'Mielke'
-    # The only Mielke the edition's documents name: the bare surname stands
+    # The only Mielke the documents name: the bare surname stands
     # just in Breyer's notebook and the 1942 item. The filter holds the
     # pattern to those two witnesses, so the Mielkes of Słowiński 2023 (the
     # soldier Bruno Edwin, his father Samuel Julius) can never be taken for

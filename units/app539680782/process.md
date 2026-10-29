@@ -16,7 +16,7 @@ The holding is one document of two pages. It is dated from its own dateline: 14 
 
 ### Translation
 
-No paid run was spent on a single two-page document (the editor's word). The English was written in session under the rules translate.py gives its translator - the termbase, the canonical names, the numbers rule - and written into the translation cache by the holding's script, so the checks and the publish read it exactly as a paid run's. The garbled stretches are kept or bracketed, never guessed. The money and measure abbreviations follow the edition's standing forms; whether "6 gl." is gulden in this document is put to the editor.
+No paid run was spent on a single two-page document (the editor's word). The English was written in session under the rules translate.py gives its translator - the termbase, the canonical names, the numbers rule - and written into the translation cache by the holding's script, so the checks and the publish read it exactly as a paid run's. The garbled stretches are kept or bracketed, never guessed. The money and measure abbreviations follow the standing forms; whether "6 gl." is gulden in this document is put to the editor.
 
 ### Summary
 

@@ -30,10 +30,18 @@ archive_title: >-
   dobrach Trąbczyn osiadłych z Włodzimierzem Mieczyńskim, właścicielem tegoż
   Trąbczyna, pow słupski]
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "[Pozew dla Karoliny Fridenberg stawienia się przed Trybunałem Cywilnym w Kaliszu w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej w dobrach Trąbczyn osiadłych z Włodzimierzem Mieczyńskim, właścicielem tegoż Trąbczyna, pow słupski]"
+card_title: "[Summons for Karolina Fridenberg [...] in the dispute of the colonists of the Staro-Łozińska and Nowo-Łozińska colonies [...] with Włodzimierz Mieczyński, owner of Trąbczyn [...]]"
+card_title_de: "[Ladung der Karolina Fridenberg [...] im Streit der Kolonisten der Kolonien Staro-Łozińska und Nowo-Łozińska [...] mit Włodzimierz Mieczyński, dem Besitzer von Trąbczyn [...]]"
+full_title: "[Summons for Karolina Fridenberg to appear before the Civil Tribunal in Kalisz in the dispute of the colonists of the Staro-Łozińska and Nowo-Łozińska colonies settled in the Trąbczyn estate with Włodzimierz Mieczyński, owner of the same Trąbczyn, Słupca district]"
+full_title_de: "[Ladung der Karolina Fridenberg zum Erscheinen vor dem Zivilgericht in Kalisch im Streit der in den Gütern Trąbczyn angesiedelten Kolonisten der Kolonien Staro-Łozińska und Nowo-Łozińska mit Włodzimierz Mieczyński, dem Besitzer desselben Trąbczyn, Kreis Słupca]"
+original_title: "[Pozew dla Karoliny Fridenberg stawienia się przed Trybunałem Cywilnym w Kaliszu w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej w dobrach Trąbczyn osiadłych z Włodzimierzem Mieczyńskim, właścicielem tegoż Trąbczyna, pow słupski]"
+original_title_card: "[Pozew dla Karoliny Fridenberg [...] w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej [...] z Włodzimierzem Mieczyńskim, właścicielem tegoż Trąbczyna, pow słupski]"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 # The summons was served on 7/19 October 1860 (the two calendars of the
 # Kingdom of Poland).
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [court-records]
 date_span: "1860"
 status: translated         # draft | transcribed | translated | published
 # The English was written in session on 2026-10-13 into the untagged cache

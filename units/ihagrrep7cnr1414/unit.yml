@@ -27,9 +27,17 @@ title_de: >-
 archive_title: >-
   Aufenthalt des Anton v. Prusimski in Venedig
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Aufenthalt des Anton v. Prusimski in Venedig"
+# The archive's catalogue title (editor, 2026-10-29), in full:
+# Aufenthalt des Anton v. Prusimski in Venedig
+# The card shortens it with [...]; the English site shows a translation.
+card_title: "Stay of Anton von Prusimski in Venice"
+card_title_de: "Aufenthalt des Anton v. Prusimski in Venedig"
+original_title: "Aufenthalt des Anton v. Prusimski in Venedig"
 # The dispatch is of 14 December 1796, the last mark on the file of 16 March
 # 1797. The archive dates the file 1797.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [government-files, correspondence]
 date_span: 1796-1797
 status: translated         # draft | transcribed | translated | published
 # Translated in session on 2026-10-05 into the untagged cache

@@ -1,4 +1,4 @@
-A court file kept in the Archiwum Państwowe w Poznaniu (State Archive in Poznań). It concerns a hereditary lease of land in the Trąbczyn forest, granted in 1806 by Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818) through his agent to the settler Christoph Erbet. The edition treats the file as one document of 21 pages, dated 1806 to 1811. <!-- context -->
+A court file kept in the Archiwum Państwowe w Poznaniu (State Archive in Poznań). It concerns a hereditary lease of land in the Trąbczyn forest, granted in 1806 by Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818) through his agent to the settler Christoph Erbet. The file is one document of 21 pages, dated 1806 to 1811. <!-- context -->
 
 ### Historical background
 

@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Twenty-one entries of the Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae), the edition of the medieval documents of Greater Poland, from eight of its volumes, published at Poznań from 1877 to 1999. Each entry is one document here, given whole: the Kodeks's number, the editors' heading, their summary and list of sources, the text of the medieval document and their notes. The entries were chosen by the editor of this edition for what they say of Trąbczyn and its neighbours; they run from 1173 to 1440, and are in order of date. The text is the electronic text of each volume in the [Wielkopolska Digital Library](https://www.wbc.poznan.pl/), from the copies of the Kórnik Library of the Polish Academy of Sciences; each document's page names its volume and number, linked to the volume. <!-- context -->
+Twenty-one entries of the Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae), the edition of the medieval documents of Greater Poland, from eight of its volumes, published at Poznań from 1877 to 1999. Each entry is one document here, given whole: the Kodeks's number, the editors' heading, their summary and list of sources, the text of the medieval document and their notes. The entries were chosen by the editor for what they say of Trąbczyn and its neighbours; they run from 1173 to 1440, and are in order of date. The text is the electronic text of each volume in the [Wielkopolska Digital Library](https://www.wbc.poznan.pl/), from the copies of the Kórnik Library of the Polish Academy of Sciences; each document's page names its volume and number, linked to the volume. <!-- context -->
 
 ### Historical background
 
@@ -23,7 +23,7 @@ The Cistercian abbey of Ląd, on the Warta between Konin and Pyzdry, was the gre
 
 **Other hands.** Wisław son of Gerlach gives up Wrąbczyn in an exchange confirmed in 1292 <span class="cite">[<a href="{{ '/documents/kdw/8/' | relative_url }}">8</a>]</span>. In 1440 King Władysław III charges sums for Stanisław Czarny on Wrąbczynek, Adamierz and Borzykowo, which the editors call royal villages near Pyzdry <span class="cite">[<a href="{{ '/documents/kdw/20/' | relative_url }}">20</a>, <a href="{{ '/documents/kdw/21/' | relative_url }}">21</a>]</span>. Among the villages of the hospital of Gniezno, given to the canons of Miechów in 1243, is "Chemelino", which the editors identify as Imielno, the neighbour of Łukom <span class="cite">[<a href="{{ '/documents/kdw/3/' | relative_url }}">3</a>]</span>.
 
-The editors' notes are of their time and are kept as they are. Their note to the exchange of 1418 puts Wronczyn in the district of Poznań and could not say which Drzewce is meant, but the document places Great Wrąbczyn beside Zagórów, and the edition tags it so <span class="cite">[<a href="{{ '/documents/kdw/18/' | relative_url }}">18</a>]</span>. <!-- context -->
+The editors' notes are of their time and are kept as they are. Their note to the exchange of 1418 puts Wronczyn in the district of Poznań and could not say which Drzewce is meant, but the document places Great Wrąbczyn beside Zagórów, and it is tagged so <span class="cite">[<a href="{{ '/documents/kdw/18/' | relative_url }}">18</a>]</span>. <!-- context -->
 
 ### Form and language
 

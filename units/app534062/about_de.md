@@ -1,4 +1,4 @@
-Ein Eintrag am Fuß von Seite 222 des Relations- und Zitationsbuchs des Landgerichts in Kalisz für 1726 und 1727, im Archiwum Państwowe w Poznaniu (Staatsarchiv Posen). Es ist der Bericht, auf Latein, eines Gerichtsboten, dass er eine Ladung im Dorf Szetlew zugestellt hat, und es ist ein Dokument. Es ist die früheste Holding dieser Edition aus dem Landgericht in Kalisz. <!-- context -->
+Ein Eintrag am Fuß von Seite 222 des Relations- und Zitationsbuchs des Landgerichts in Kalisz für 1726 und 1727, im Archiwum Państwowe w Poznaniu (Staatsarchiv Posen). Es ist der Bericht, auf Latein, eines Gerichtsboten, dass er eine Ladung im Dorf Szetlew zugestellt hat, und es ist ein Dokument. Es ist die früheste Holding der Sammlung aus dem Landgericht in Kalisz. <!-- context -->
 
 ### Der Eintrag
 
@@ -12,7 +12,7 @@ Die Holding wurde um des Namens des Boten willen aufgenommen. Eine Familie Szetl
 
 Der Band gehört zum Archivbestand „Księgi sądu ziemskiego w Kaliszu", den Büchern des Landgerichts in Kalisz. Nach der Bestandsbeschreibung des Archivs war das Landgericht in Kalisz ein Gericht des Adels. Die führende Rolle hatte der Starost oder sein Stellvertreter als Statthalter des Königs, neben ihm der Richter, der Unterrichter, der Woiwode, der Kämmerer und der Fähnrich. Das Gericht bereiste die Woiwodschaft und hielt seine Sitzungen im Kreis; die Termine, an denen es tagte, hießen „roczki". Zuständig war es für alle Sachen, in denen ein Adliger beklagt war, ausgenommen die anderen Gerichten zugewiesenen und die nichtstreitigen Sachen. 1792 ging seine Zuständigkeit auf ein neues Landgericht über, den „sąd ziemiański". <!-- context -->
 
-Der Bote (woźny) trug die Ladungen des Gerichts; wurde der Geladene nicht angetroffen, blieb die Ladung an seiner Wohnung liegen - hier auf dem Tisch im beheizten Raum, vor einem Angehörigen des Haushalts - und der vereidigte Bericht des Boten über die Zustellung, seine Relatio, wurde in das Buch des Gerichts eingetragen. Dieselbe Form, in demselben Latein, füllt die Koniner und Kaliszer Register der 1770er Jahre, die diese Edition aus den Jahren des Grenzstreits führt. <!-- context -->
+Der Bote (woźny) trug die Ladungen des Gerichts; wurde der Geladene nicht angetroffen, blieb die Ladung an seiner Wohnung liegen - hier auf dem Tisch im beheizten Raum, vor einem Angehörigen des Haushalts - und der vereidigte Bericht des Boten über die Zustellung, seine Relatio, wurde in das Buch des Gerichts eingetragen. Dieselbe Form, in demselben Latein, füllt die Koniner und Kaliszer Register der 1770er Jahre, aus den Jahren des Grenzstreits. <!-- context -->
 
 ### Form und Sprache
 

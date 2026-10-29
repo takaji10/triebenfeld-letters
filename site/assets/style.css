@@ -178,6 +178,8 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
                        border: 1px solid var(--rule); border-radius: 2px;
                        background: var(--paper); color: var(--ink); max-width: 100%; }
 .tools-count { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
+.source-types { margin: .35rem 0 0; display: flex; flex-wrap: wrap; gap: .3rem .4rem; }
+.type-tag { font-family: var(--sans); font-size: .75rem; color: var(--ink-soft); border: 1px solid currentColor; border-radius: .8rem; padding: .05rem .6rem; }
 .source-tools + .sources { margin-top: 1rem; }
 @media (max-width: 40rem) {
   .source { grid-template-columns: 4.5rem 1fr; gap: .1rem 1rem; padding: 1rem; }
@@ -186,6 +188,8 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 .unit-head { max-width: var(--measure); }
 .unit-head .eyebrow a { color: inherit; }
 .unit-head .standfirst { margin: .7rem 0 0; }
+.unit-head .unit-title { margin: .5rem 0 0; font-size: 1.15rem; max-width: var(--measure); }
+.unit-head .unit-original { margin: .2rem 0 0; color: var(--ink-soft); max-width: var(--measure); }
 .unit-tabs { margin: 1.8rem 0 1.4rem; padding-bottom: .9rem; border-bottom: 1px solid var(--rule); }
 .unit-tabs .vbtn { text-decoration: none; font-size: .85rem; padding: .4rem 1rem; }
 .unit-panel { margin-top: 2rem; }
@@ -266,12 +270,6 @@ mark { background: var(--mark); color: inherit; padding: 0 .1em; }
   display: grid; gap: 2rem 2.5rem; max-width: 96rem;
   grid-template-columns: minmax(0, 1fr);
 }
-@media (min-width: 64rem) {
-  .letter { grid-template-columns: minmax(0, 1fr) 15rem; }
-  .letter-nav, .letter-head { grid-column: 1 / -1; }
-  .meta { grid-column: 2; grid-row: 3; }
-  .letter-body { grid-column: 1; grid-row: 3; }
-}
 
 /* Two panes: the manuscript on the left, its text on the right. They stack on
    narrow screens, and the image sticks while you scroll its page's text. */
@@ -288,18 +286,20 @@ body.no-scans .pane-pair { grid-template-columns: minmax(0, 1fr); }
 }
 
 .letter-nav {
-  display: flex; flex-wrap: wrap; gap: .6rem 2rem;
+  display: flex; flex-wrap: wrap; gap: .6rem 2rem; justify-content: space-between; align-items: baseline;
   font-family: var(--sans); font-size: .8rem;
   padding-bottom: .9rem; border-bottom: 1px solid var(--rule);
 }
 .nav-group { display: flex; gap: .7rem; align-items: baseline; }
 .nav-label { color: var(--ink-faint); text-transform: uppercase; letter-spacing: .05em; font-size: .7rem; }
 .nav-group .disabled { color: var(--rule); }
-.nav-holding { flex-basis: 100%; margin: 0; display: flex; flex-wrap: wrap; gap: .3rem .7rem; align-items: baseline; }
-.nav-holding .nav-archive { color: var(--ink-faint); }
+.nav-group + .nav-group { border-left: 1px solid var(--rule); padding-left: 1.6rem; }
+.nav-steps { display: flex; flex-wrap: wrap; gap: .4rem 1.6rem; align-items: baseline; }
 
 .letter-head h1 { display: flex; flex-wrap: wrap; gap: .6rem; align-items: baseline; }
 .letter-head .place { margin: 0; color: var(--ink-soft); font-style: italic; }
+.letter-facts { margin: 0; display: flex; flex-wrap: wrap; gap: .1rem 1.4rem; font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); }
+.letter-facts .place { font-style: normal; }
 .letter-head .correspondents {
   margin: .35rem 0 0; font-family: var(--sans); font-size: .8rem; color: var(--ink-faint);
 }
@@ -316,7 +316,7 @@ body.no-scans .pane-pair { grid-template-columns: minmax(0, 1fr); }
 .letter-head .letter-summary {
   margin: .9rem 0 0;
   font-family: var(--sans); font-size: .92rem; line-height: 1.6; color: var(--ink-soft);
-  max-width: 62ch;
+  max-width: 64rem;
 }
 .badge {
   font-family: var(--sans); font-size: .68rem; font-weight: 600; letter-spacing: .05em;
@@ -428,8 +428,17 @@ ol.dip li::marker {
 /* Line numbers are reference furniture - keep them out of copied text. */
 @media print { ol.dip { list-style: none; padding-left: 0; } }
 
+/* The three texts stand in the same width (2026-10-29): the transcription, the
+   reading and the English. The transcription's lines carry their numbers in the
+   left margin, outside the measure; a table is as wide as it needs. */
 .text-view[data-view="reading"] p,
 .text-view[data-view="translation"] p { max-width: var(--measure); }
+.text-view[data-view="diplomatic"] ol.dip { max-width: calc(var(--measure) + 3.2rem); }
+.text-view[data-view="diplomatic"] ol.dip[data-para] { max-width: var(--measure); }
+ol.dip[data-para] { list-style: none; padding-left: 0; }
+ol.dip[data-para] li { padding-left: 0; }
+ol.dip[data-para] li + li { margin-top: .7em; }
+.pane-pair.no-scan { grid-template-columns: minmax(0, 1fr); }
 
 /* Paragraphs in the reading view. The reading text never crosses a page break,
    so a paragraph that began on the previous page starts again here; .runs-on
@@ -491,7 +500,6 @@ img.scan {
 .scan-cap {
   display: block; margin-top: .35rem;
   font-family: var(--sans); font-size: .72rem; color: var(--ink-faint);
-  word-break: break-all;
 }
 .scan-link:hover .scan-cap { color: var(--accent); }
 
@@ -500,14 +508,46 @@ img.scan {
 .translation p { max-width: var(--measure); }
 .status-draft { color: var(--warn); border-color: var(--warn); }
 
-.meta { font-family: var(--sans); font-size: .82rem; }
-.meta h2 {
-  font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
-  color: var(--ink-faint); margin: 0 0 .7rem; padding-bottom: .4rem;
-  border-bottom: 1px solid var(--rule);
+/* The summary, clamped to a few lines until the reader asks for the rest
+   (letter.js adds the button; without the script it stands in full). */
+.summary-block { max-width: 64rem; }
+.letter-summary.is-clamped {
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4; overflow: hidden;
 }
-.meta dl { margin: 0; }
-.meta dt { font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-faint); margin-top: .85rem; }
+.letter-summary[hidden] { display: none; }
+.summary-more {
+  margin: .25rem 0 0; padding: 0; border: 0; background: none; cursor: pointer;
+  font-family: var(--sans); font-size: .8rem; color: var(--accent);
+}
+.summary-more:hover { text-decoration: underline; }
+
+/* The people and places a document names: small tags under the summary. */
+.letter-tags { list-style: none; margin: .9rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem; max-width: 64rem; }
+.letter-tags li { margin: 0; }
+.letter-tags a {
+  display: inline-block; font-family: var(--sans); font-size: .75rem; line-height: 1.5;
+  padding: 0 .65rem; border: 1px solid var(--rule); border-radius: 1rem;
+  color: var(--ink-soft); text-decoration: none;
+}
+.letter-tags a:hover, .letter-tags a:focus-visible { border-color: var(--accent); color: var(--accent); }
+.letter-tags .tag-person a { border-style: dashed; }
+.tags-more summary { cursor: pointer; font-family: var(--sans); font-size: .75rem; color: var(--accent); list-style: none; padding: 0 .4rem; }
+.tags-more summary::-webkit-details-marker { display: none; }
+.tags-more ul { list-style: none; margin: .35rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem; }
+
+.meta { font-family: var(--sans); font-size: .82rem; margin-top: 1rem; }
+.meta > summary {
+  cursor: pointer; width: max-content; font-size: .72rem; text-transform: uppercase;
+  letter-spacing: .08em; color: var(--ink-faint);
+}
+.meta > summary:hover { color: var(--accent); }
+.meta[open] > summary { margin-bottom: .8rem; }
+.meta dl { padding-top: .2rem; }
+/* the document's particulars, in the header (2026-10-29): items side by side,
+   the long lists (people, places, the literature) across the whole width */
+.meta dl { margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); gap: .9rem 2rem; }
+.meta .m-item:has(.taglist), .meta .m-item:has(.lit-doclinks) { grid-column: 1 / -1; }
+.meta dt { font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-faint); }
 .meta dd { margin: .15rem 0 0; color: var(--ink-soft); }
 .meta .taglist { display: flex; flex-wrap: wrap; gap: .3rem .6rem; }
 

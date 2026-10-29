@@ -30,7 +30,9 @@ title_de: >-
 archive_title: >-
   Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
-card_title: "Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum"
+card_title: "Series of privileges of the monastery of Ląd, transcribed from the book of privileges"
+card_title_de: "Reihe der Privilegien des Klosters Ląd, abgeschrieben aus dem Privilegienbuch"
+original_title: "Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum"
 # The fond, and the archive's description of it, as the editor gave them
 # (2026-10-21): "Zespół zawiera m.in.: dokumenty majątkowe, fundacyjne,
 # opackie, przywileje, preliminarz budżetowy, zestawienie dóbr klasztoru,
@@ -42,6 +44,9 @@ fonds: Klasztor cystersów w Lądzie
 # The copies were made in the eighteenth century (the latest entry on these
 # pages is of 1761; another is noted as entered in the books of Konin in
 # 1740). The documents copied run from 1362 to 1761.
+# What kind of material the holding is (editor, 2026-10-29): one or two of the
+# slugs in reference/unit_types.yml, the dominant one first.
+types: [charters-privileges]
 date_span: "1362-1761"
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

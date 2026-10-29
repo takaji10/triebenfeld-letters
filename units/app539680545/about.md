@@ -16,7 +16,7 @@ The three prose sheets are essays in Breyer's hand. The first [[6]] is about the
 
 ### Form and language
 
-Pencil on loose sheets, landscape. The lists are bare columns of names; the prose is written fast, with Breyer's own spellings and slips kept in this edition as written (Schultypußes, kulturtellen), and his Polish spellings vary from list to list (Bartmański and Barmański, Szulborski and Schulborski). No sheet is dated; the years they name - 1741, 1843, 1855 - are the dates of the material, not of the sheets. From the schools essay and from Breyer's work at Sompolno, which lies in the same country, the sheets are of the 1930s. <!-- context -->
+Pencil on loose sheets, landscape. The lists are bare columns of names; the prose is written fast, with Breyer's own spellings and slips kept as written (Schultypußes, kulturtellen), and his Polish spellings vary from list to list (Bartmański and Barmański, Szulborski and Schulborski). No sheet is dated; the years they name - 1741, 1843, 1855 - are the dates of the material, not of the sheets. From the schools essay and from Breyer's work at Sompolno, which lies in the same country, the sheets are of the 1930s. <!-- context -->
 
 ### Related holdings
 

@@ -372,8 +372,8 @@ in order to preserve them "zum Flor beiderseitiger künftiger Descendenz" [for t
 
 </div>
 {% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In der Edition</p>
-<p>Kraus (2001) hält auf S. 42 fest, daß der Fürst, um an "baare Mittel" zu gelangen, die Herrschaften Betsche, Zogorowo, Trobczyn, Botkowo und Winiec "weit unter Wert" wieder verkaufte - die Schreibweisen des Buches für das Zagórów und Trąbczyn der Edition darunter. Die königliche Genehmigung vom 28. Januar 1806 (APP 53/968/0/-/801, Dokument 2) zeigt die Parzellierung der "Herrschaften Zagurowo und Trompczyn", die der Fürst in denselben Jahren unternahm, während das Buch seine Finanzen als zusammenbrechend beschreibt; das Dokument sagt nicht, was die Parzellierung einbrachte, das Buch datiert die Verkäufe nicht.</p>
+<p class="lit-links-head">In den Dokumenten</p>
+<p>Kraus (2001) hält auf S. 42 fest, daß der Fürst, um an "baare Mittel" zu gelangen, die Herrschaften Betsche, Zogorowo, Trobczyn, Botkowo und Winiec "weit unter Wert" wieder verkaufte - die Schreibweisen des Buches für das Zagórów und Trąbczyn darunter. Die königliche Genehmigung vom 28. Januar 1806 (APP 53/968/0/-/801, Dokument 2) zeigt die Parzellierung der "Herrschaften Zagurowo und Trompczyn", die der Fürst in denselben Jahren unternahm, während das Buch seine Finanzen als zusammenbrechend beschreibt; das Dokument sagt nicht, was die Parzellierung einbrachte, das Buch datiert die Verkäufe nicht.</p>
 <p class="lit-links-docs"><a href="{{ '/documents/app539680801/2/' | relative_url }}">53/968/0/-/801, Dokument 2 (28. Januar 1806)</a></p>
 </aside>{% raw %}
 </section>

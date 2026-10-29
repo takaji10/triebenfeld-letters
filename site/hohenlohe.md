@@ -78,7 +78,7 @@ the market town of Kolno in the district of Poznań, the villages of Trąbczyn, 
 Łazy, Old and New Laski and Osiny with the Trąbczyn Hauland near Konin, and Brzyce in
 Kuyavia. Hoym, reporting the King's decision, put their yearly income at 4,000 Thaler
 ([letter of 30 July 1796]({{ '/documents/oe1bu14525/39/' | relative_url }})). The charter
-itself survives in this edition in three certified copies
+itself survives in three certified copies
 ([one of them]({{ '/documents/oe1bu14525/1/' | relative_url }})).
 
 A second charter, of 19 June 1797, added sixteen villages that had belonged to the church,
@@ -513,7 +513,7 @@ principle, and handed in a draft decree to that effect
 ([report]({{ '/documents/agad118501169/1/' | relative_url }})). The report also gives the fullest
 account of the judicial course of the mortgage claim, from the loan of 1800 to the definitive
 sentence of 15 and 17 July 1826. What the Council of State decided on it, and whether Weigel
-was ever paid, the edition does not show.
+was ever paid, the documents do not show.
 
 The judgment of 1826 was still being used a generation later, and against the settlers. In
 1859 the colonists of Trąbczyn sued its owner, Count Włodzimierz Miączyński. He answered in
@@ -524,7 +524,7 @@ forest. Miączyński asked the Civil Tribunal at Kalisz to hold that this contra
 him, on the principle of 1826: what Hohenlohe-Ingelfingen had undertaken fell with his title
 when the estate was returned in 1807
 ([summons]({{ '/documents/app539680783/1/' | relative_url }})). What the court decided is not
-in the edition.
+recorded.
 
 ## The people you will keep meeting
 

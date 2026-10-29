@@ -63,12 +63,18 @@ title: >-
   TODO: one sentence on what this holding is about.
 title_de: >-
   TODO: derselbe Satz auf Deutsch.
-# The card's title on the Sources list: the archive's own title, as in the
-# folder name of the scans. For a court book the court's name goes first
-# ("Konin Municipal Court: Relationes [protocollon] 1768-1774"; municipal court
-# / Burggericht for a gród, land court / Landgericht for a ziemski court).
-# card_title_de only where the German differs.
+# The holding's titles (editor, 2026-10-29). original_title: the archive's own
+# title, in its own language, whole (a court book without the court). The card
+# and the holding's page show a translation with the original in italics under
+# it: card_title / card_title_de, English and German, shortened with [...] if
+# long; full_title / full_title_de where the page's is the whole title;
+# original_title_card the shortened original, where the card's differs.
+original_title: TODO
+# The kind of material: one or two slugs of reference/unit_types.yml, the dominant
+# one first.
+types: [TODO]
 card_title: TODO
+card_title_de: TODO
 date_span: TODO
 status: draft              # draft | transcribed | translated | published
 
@@ -166,7 +172,7 @@ def main():
     ap.add_argument('slug', nargs='?', help='short id, e.g. oe1bu14525; derived from --ref if omitted')
     ap.add_argument('--ref', required=True, help='archival reference, e.g. "Oe 1 Bü 14525"')
     ap.add_argument('--scans', default='', help='directory holding the raw scans')
-    ap.add_argument('--archive', default='Hohenloher Zentralarchiv Neuenstein (HZAN)')
+    ap.add_argument('--archive', default='Hohenlohe-Zentralarchiv Neuenstein (HZAN)')
     a = ap.parse_args()
 
     slug = a.slug or unitlib.slugify(a.ref)

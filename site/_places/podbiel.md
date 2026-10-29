@@ -23,7 +23,7 @@ hits_docs_count: 0
 Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the 18th century.[^59] Depicted as a folwark on Wreschen 1901. Nazwy miejscowe Polski traces the name through medieval forms *Polyebyele* (1445), *Podbiele* (1579) and *Podbyelye* (1511-23), from the prepositional phrase *podle bieli* 'by the wet marsh'.[^60]
 
 [^59]: Ibid 659
-    [The document in the edition.](/documents/app53170koningr145/1/#p10)
+    [The document.](/documents/app53170koningr145/1/#p10)
 
 [^60]: Nazwy miejscowe Polski, t. 9, p. 17
 

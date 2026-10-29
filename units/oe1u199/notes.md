@@ -6,7 +6,7 @@ Hohenlohe-Ingelfingen, reciting the certified extract of his will.
 
 ## Provenance
 
-Hohenloher Zentralarchiv Neuenstein (HZAN), Oe 1 U 199. Ten PDFs, one per
+Hohenlohe-Zentralarchiv Neuenstein (HZAN), Oe 1 U 199. Ten PDFs, one per
 capture (0002-0011), exported and cropped before this unit was set up; the
 fifteen text pages (0003_b to 0010_b) were taken from raw_dir/processed/.
 Left out: 0002, the front cover in red leather, photographed with the hanging

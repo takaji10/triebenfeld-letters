@@ -83,7 +83,7 @@ den Marktflecken Kolno im Kreis Poznań, die Dörfer Trąbczyn, Szetlewek, Nowaw
 und Neu-Laski und Osiny samt dem Trąbczyner Hauland bei Konin, und Brzyce in Kujawien. Hoym,
 der die Entscheidung des Königs mitteilte, schätzte ihren jährlichen Ertrag auf 4.000 Taler
 ([Brief vom 30. Juli 1796]({{ '/documents/oe1bu14525/39/' | relative_url }})). Die Urkunde
-selbst liegt in dieser Edition in drei beglaubigten Abschriften vor
+selbst liegt in drei beglaubigten Abschriften vor
 ([eine davon]({{ '/documents/oe1bu14525/1/' | relative_url }})).
 
 Eine zweite Urkunde vom 19. Juni 1797 fügte sechzehn Dörfer hinzu, die der Kirche gehört
@@ -530,7 +530,7 @@ Rechtssatz beruhend abzuweisen, und reichte einen entsprechenden Gesetzentwurf e
 ([Bericht]({{ '/documents/agad118501169/1/' | relative_url }})). Der Bericht gibt auch den
 vollständigsten Gang der Hypotheksache vor den Gerichten, vom Darlehen von 1800 bis zum
 endgültigen Urteil vom 15. und 17. Juli 1826. Was der Staatsrat darauf entschied, und ob Weigel
-je bezahlt wurde, zeigt die Edition nicht.
+je bezahlt wurde, zeigen die Dokumente nicht.
 
 Das Urteil von 1826 wurde noch eine Generation später herangezogen, nun gegen die Siedler.
 1859 verklagten die Kolonisten von Trąbczyn den Besitzer des Gutes, Graf Włodzimierz
@@ -542,7 +542,7 @@ Feststellung, dass dieser Vertrag ihn nicht binde, nach dem Grundsatz von 1826: 
 Hohenlohe-Ingelfingen eingegangen war, sei mit seinem Titel gefallen, als das Gut 1807
 zurückgegeben wurde
 ([Vorladung]({{ '/documents/app539680783/1/' | relative_url }})). Wie das Gericht entschied,
-ist in der Edition nicht überliefert.
+ist nicht überliefert.
 
 ## Die Personen, denen Sie immer wieder begegnen
 

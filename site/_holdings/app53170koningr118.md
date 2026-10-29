@@ -13,7 +13,7 @@ Twenty-nine entries on thirty-seven pages of the register of the municipal court
 
 ### Historical background
 
-Since 1775 two boundary decrees had stood against each other: that of the parliament's commission, for Prusimski, and that of the commissioners Chełmski had brought, for Chełmski: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>, <a href="{{ '/sources/app53170koningr116/' | relative_url }}">53/17/0/-/Konin Gr.116</a>. In 1778 each side was still protesting against the other's: <a href="{{ '/sources/app53170koningr117/' | relative_url }}">53/17/0/-/Konin Gr.117</a>. The entries here show how it ended. The Crown Tribunal at Piotrków decided the cause "from the map" and ruled on the two decrees, and sent an officer to raise the boundary mounds along a line it had drawn on that map. The Tribunal's decree itself is not in the edition. <!-- context -->
+Since 1775 two boundary decrees had stood against each other: that of the parliament's commission, for Prusimski, and that of the commissioners Chełmski had brought, for Chełmski: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>, <a href="{{ '/sources/app53170koningr116/' | relative_url }}">53/17/0/-/Konin Gr.116</a>. In 1778 each side was still protesting against the other's: <a href="{{ '/sources/app53170koningr117/' | relative_url }}">53/17/0/-/Konin Gr.117</a>. The entries here show how it ended. The Crown Tribunal at Piotrków decided the cause "from the map" and ruled on the two decrees, and sent an officer to raise the boundary mounds along a line it had drawn on that map. The Tribunal's decree itself is not included. <!-- context -->
 
 Most entries of a register like this one are one-line notes that a paper was brought in and lies among the papers produced; here sixteen of the twenty-nine are. The papers themselves were kept apart and are not in the book. <!-- context -->
 
@@ -33,9 +33,9 @@ Most entries of a register like this one are one-line notes that a paper was bro
 
 ### Form and language
 
-Each entry stands among others on its page; the pages are shown whole and the other entries are not transcribed. The Latin is heavily abbreviated; the long entries were read against the scans a second time, word for word, and a few words in them remain marked as doubtful. Fifteen entries have no dated heading of a sitting above them and are dated from the headings before and after, some only to the year; each says so. One heading gives a weekday and a day of the month that do not agree, and the weekday is followed. One note is unfinished, and one entry is a heading with nothing written under it. One note, which the editor had photographed but not transcribed, was transcribed for the edition. <!-- context -->
+Each entry stands among others on its page; the pages are shown whole and the other entries are not transcribed. The Latin is heavily abbreviated; the long entries were read against the scans a second time, word for word, and a few words in them remain marked as doubtful. Fifteen entries have no dated heading of a sitting above them and are dated from the headings before and after, some only to the year; each says so. One heading gives a weekday and a day of the month that do not agree, and the weekday is followed. One note is unfinished, and one entry is a heading with nothing written under it. One note, which the editor had photographed but not transcribed, was transcribed. <!-- context -->
 
-Antoni Prusimski appears here as "Ostroróg Prusimski" and as knight of the Order of St Stanislaus. The citation of September 1782 is the only document in the edition that names his parents and grandparents. <!-- context -->
+Antoni Prusimski appears here as "Ostroróg Prusimski" and as knight of the Order of St Stanislaus. The citation of September 1782 is the only document that names his parents and grandparents. <!-- context -->
 
 ### Related holdings
 
