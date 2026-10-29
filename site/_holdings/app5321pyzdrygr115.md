@@ -45,7 +45,7 @@ the Huta, 31, 62 and 124 <span class="cite">[<a href="{{ '/documents/app5321pyzd
 
 In every row but the first the figures double from column to column; the
 village's own row, 21, 22 and 84, is the one whose middle figure does not
-follow the doubling, and it stands as written - the transcription is the
+follow the doubling, and it stands as written – the transcription is the
 editor's own and correct <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. <!-- context -->
 
 The entry stands in the first half of the page; the rest of the page belongs
@@ -56,7 +56,7 @@ its own; the volume's title names the years 1791 and 1792. <!-- context -->
 
 The rows are the villages of the parish of Trąbczyn. The smithy "Kuznia
 Maryantów" of the table is the Marianton, Mariantów, where
-the Hohenlohe patrimonial court for Trąbczyn sat ("Actum Marianton") - the
+the Hohenlohe patrimonial court for Trąbczyn sat ("Actum Marianton") – the
 editor's identification <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. The one row "Hollendry Luzne Stare i nowe z
 Hutą" names both Olęder colonies of the estate together, the old and the new
 <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>.
@@ -107,4 +107,4 @@ every table already built, and the two outputs agree exactly
 
 The figures of six of the seven rows double from column to column; the
 village's own row does not follow the doubling in its middle figure and
-stands as written - the transcription is the editor's own and correct.
+stands as written – the transcription is the editor's own and correct.
