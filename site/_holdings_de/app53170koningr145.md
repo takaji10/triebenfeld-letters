@@ -45,7 +45,7 @@ Zwanzig Jahre nach diesem Dekret konfiszierte Preußen Prusimskis Güter und ver
 
 ### Aufnahmen
 
-Das Archiv lieferte 62 Aufnahmen, die jeweils zwei gegenüberliegende Seiten des gebundenen Bandes zeigen. Jede wurde am Falz in zwei Seiten geschnitten. Zwei Hälften werden nicht verwendet: die linke Hälfte der ersten Aufnahme, die das Ende eines anderen Eintrags ist, und eine leere Seite. Es hat 122 Seiten, beginnend mit dem Titelblatt des Eintrags.
+Das Archiv lieferte 62 Aufnahmen, die jeweils zwei gegenüberliegende Seiten des gebundenen Bandes zeigen. Jede wurde am Falz in zwei Seiten geschnitten. Zwei Hälften werden nicht verwendet: die linke Hälfte der ersten Aufnahme, die das Ende eines anderen Eintrags ist, und eine leere Seite. Der Bestand hat 122 Seiten, beginnend mit dem Titelblatt des Eintrags.
 
 ### Transkription
 

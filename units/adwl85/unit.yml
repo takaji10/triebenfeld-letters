@@ -46,7 +46,7 @@ repository: adwl-wloclawek
 
 # Nine photographs, each one page, named by leaf (Wizytacja_0385_k_23v.jpg,
 # ..._k_25_v.jpg, ..._k_34a.jpg). Only the pages the editor's transcript
-# covers are (the editor, 2026-10-15); the folder holds 50.
+# covers are included (the editor, 2026-10-15); the folder holds 50.
 # intake/holding.py --crop copies them into raw_dir/processed/ under their page
 # ids: 0023_b (leaf 23 verso), 0024_a, 0024_b, 0025_a, 0025_b, 0028_b,
 # 0029_a, 0029_b, and 0034_c for leaf 34a (34 recto and verso being _a and _b).

@@ -1,6 +1,6 @@
 ### Scans
 
-The archive supplied 62 images, each showing two facing pages of the bound volume. Each was cut at the fold into two pages. Two halves are not used: the left half of the first image, which is the end of another entry, and one blank page. It has 122 pages, beginning with the entry's title page.
+The archive supplied 62 images, each showing two facing pages of the bound volume. Each was cut at the fold into two pages. Two halves are not used: the left half of the first image, which is the end of another entry, and one blank page. The holding has 122 pages, beginning with the entry's title page.
 
 ### Transcription
 

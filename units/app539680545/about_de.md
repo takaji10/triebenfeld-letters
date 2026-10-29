@@ -16,7 +16,7 @@ Die drei Prosablätter sind Aufzeichnungen in Breyers Hand. Das erste [[6]] hand
 
 ### Form und Sprache
 
-Bleistift auf losen Blättern, querformatig. Die Listen sind nackte Namensspalten; die Prosa ist schnell geschrieben, mit Breyers eigenen Schreibungen und Fehlern, die diese Ausgabe als geschrieben festhält (Schultypußes, kulturtellen), und seine polnischen Schreibungen wechseln von Liste zu Liste (Bartmański und Barmański, Szulborski und Schulborski). Kein Blatt ist datiert; die genannten Jahre - 1741, 1843, 1855 - sind Daten des Materials, nicht der Blätter. Aus dem Schulaufsatz und aus Breyers Wirken in Sompolno, das im selben Lande liegt, stammen die Blätter aus den dreiiger Jahren. <!-- context -->
+Bleistift auf losen Blättern, querformatig. Die Listen sind nackte Namensspalten; die Prosa ist schnell geschrieben, mit Breyers eigenen Schreibungen und Fehlern, die wie geschrieben festgehalten sind (Schultypußes, kulturtellen), und seine polnischen Schreibungen wechseln von Liste zu Liste (Bartmański und Barmański, Szulborski und Schulborski). Kein Blatt ist datiert; die genannten Jahre - 1741, 1843, 1855 - sind Daten des Materials, nicht der Blätter. Aus dem Schulaufsatz und aus Breyers Wirken in Sompolno, das im selben Lande liegt, stammen die Blätter aus den dreiiger Jahren. <!-- context -->
 
 ### Verwandte Bestände
 

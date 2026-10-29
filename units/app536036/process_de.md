@@ -4,7 +4,7 @@ Das Archiv lieferte eine Aufnahme, die zwei gegenüberliegende Seiten des gebund
 
 ### Transkription
 
-Der Herausgeber hat die beiden Einträge transkribiert und absatzweise geliefert, nicht Zeile für Zeile, mit vielen Zweifelszeichen: Die Hand ist klein und kürzt fast jedes Wort ab. Er hat auch die Überschrift der Gerichtssitzung von Blatt 612 transkribiert. Dieses Blatt ist nicht unter den Aufnahmen; die Überschrift wird deshalb in der Beschreibung dieses Bestands zitiert und ist keine Seite.
+Der Herausgeber hat die beiden Einträge transkribiert und absatzweise geliefert, nicht Zeile für Zeile, mit vielen Zweifelszeichen: Die Hand ist klein und kürzt fast jedes Wort ab. Er hat auch die Überschrift der Gerichtssitzung von Blatt 612 transkribiert. Dieses Blatt ist nicht unter den Aufnahmen; die Überschrift wird deshalb in der Beschreibung dieses Bestands zitiert und ist nicht aufgenommen.
 
 ### Prüfung an der Aufnahme
 

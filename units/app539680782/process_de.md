@@ -16,7 +16,7 @@ Der Bestand ist ein Dokument von zwei Seiten. Es ist datiert nach seiner eigenen
 
 ### Übersetzung
 
-Für ein Dokument von zwei Seiten wurde kein bezahlter Gang ausgegeben (das Wort des Editors). Das Englische wurde in der Sitzung nach den Regeln geschrieben, die translate.py seinem Übersetzer gibt - Termbase, kanonische Namen, Zahlenregel - und durch das Skript des Bestands in den Übersetzungscache geschrieben, damit Prüfung und Veröffentlichung es genau wie das eines bezahlten Gangs lesen. Die stockenden Stellen bleiben oder stehen in Klammern, nie erraten. Die Abkürzungen von Geld und Maß folgen den festen Formen der Ausgabe; ob "6 gl." in diesem Dokument Gulden sind, ist dem Editor vorgelegt.
+Für ein Dokument von zwei Seiten wurde kein bezahlter Gang ausgegeben (das Wort des Editors). Das Englische wurde in der Sitzung nach den Regeln geschrieben, die translate.py seinem Übersetzer gibt - Termbase, kanonische Namen, Zahlenregel - und durch das Skript des Bestands in den Übersetzungscache geschrieben, damit Prüfung und Veröffentlichung es genau wie das eines bezahlten Gangs lesen. Die stockenden Stellen bleiben oder stehen in Klammern, nie erraten. Die Abkürzungen von Geld und Maß folgen den festen Formen; ob "6 gl." in diesem Dokument Gulden sind, ist dem Editor vorgelegt.
 
 ### Zusammenfassung
 

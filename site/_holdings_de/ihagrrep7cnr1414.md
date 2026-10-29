@@ -27,7 +27,7 @@ Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die 
 
 ### Form und Sprache
 
-Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. Auf dem Auszug und auf Schrötters Schreiben vermerkte das Departement den Tag des Eingangs, die Journalnummer und was zu geschehen hatte; auf den Seiten der Sammlung stehen diese Vermerke unter einer eigenen Überschrift nach dem Text, auf den sie geschrieben wurden. Die Verfügung vom 8. Januar 1797 steht auf einem eigenen Zettel. <!-- context -->
+Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. Auf dem Auszug und auf Schrötters Schreiben vermerkte das Departement den Tag des Eingangs, die Journalnummer und was zu geschehen hatte; auf den Seiten hier stehen diese Vermerke unter einer eigenen Überschrift nach dem Text, auf den sie geschrieben wurden. Die Verfügung vom 8. Januar 1797 steht auf einem eigenen Zettel. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -59,7 +59,7 @@ Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments am 
 
 ### Übersetzung
 
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Der Auszug wurde aus dem Französischen übersetzt. Die Kanzleivermerke sind englisch wiedergegeben; zwei Abkürzungen, die die Seite nicht auflöst, bleiben stehen. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo es welche gibt, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Der Auszug wurde aus dem Französischen übersetzt. Die Kanzleivermerke sind englisch wiedergegeben; zwei Abkürzungen, die die Seite nicht auflöst, bleiben stehen. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
 
 ### Noch zu tun
 

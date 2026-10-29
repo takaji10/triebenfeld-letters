@@ -22,7 +22,7 @@ Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments am 
 
 ### Übersetzung
 
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Der Auszug wurde aus dem Französischen übersetzt. Die Kanzleivermerke sind englisch wiedergegeben; zwei Abkürzungen, die die Seite nicht auflöst, bleiben stehen. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo es welche gibt, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Der Auszug wurde aus dem Französischen übersetzt. Die Kanzleivermerke sind englisch wiedergegeben; zwei Abkürzungen, die die Seite nicht auflöst, bleiben stehen. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
 
 ### Noch zu tun
 

@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Der Herausgeber hat drei Aufnahmen aus dem Band geliefert. Jede zeigt zwei gegenüberliegende Seiten, von denen eine gebraucht wird; diese Seite wurde aus der Aufnahme ausgeschnitten, die andere beiseitegelassen. Es hat drei Seiten: die oben in der Ecke mit Bleistift als 47, 48 und 331 gezählten.
+Der Herausgeber hat drei Aufnahmen aus dem Band geliefert. Jede zeigt zwei gegenüberliegende Seiten, von denen eine gebraucht wird; diese Seite wurde aus der Aufnahme ausgeschnitten, die andere beiseitegelassen. Der Bestand hat drei Seiten: die oben in der Ecke mit Bleistift als 47, 48 und 331 gezählten.
 
 ### Transkription
 
@@ -20,4 +20,4 @@ Die Zusammenfassungen wurden auf Deutsch geschrieben, nachdem jedes Dokument mit
 
 ### Übersetzung
 
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Beide Einträge wurden aus dem Polnischen übersetzt, die Anredeformen englisch wiedergegeben (the Most Illustrious, the Honourable, Mrs). Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo es welche gibt, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Beide Einträge wurden aus dem Polnischen übersetzt, die Anredeformen englisch wiedergegeben (the Most Illustrious, the Honourable, Mrs). Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.

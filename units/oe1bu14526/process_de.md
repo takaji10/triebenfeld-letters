@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Der Band wurde aufgeschlagen fotografiert, in 172 Aufnahmen, die meisten davon zwei gegenüberliegende Seiten. Jede Doppelseite wurde im Falz geteilt. Die ersten automatischen Schnitte lagen oft falsch, weil der Falz in einem gebundenen Band ein dunkler Schatten ist und keine Lücke zwischen zwei Blättern. Der Herausgeber prüfte danach jeden Falz und versetzte 43 davon. Die meisten Seiten wurden außerdem an einem Rand beschnitten, um einen Streifen des darunterliegenden Blattes zu entfernen. Leere Seiten wurden weggelassen. Es hat 287 Textseiten und das Titelblatt.
+Der Band wurde aufgeschlagen fotografiert, in 172 Aufnahmen, die meisten davon zwei gegenüberliegende Seiten. Jede Doppelseite wurde im Falz geteilt. Die ersten automatischen Schnitte lagen oft falsch, weil der Falz in einem gebundenen Band ein dunkler Schatten ist und keine Lücke zwischen zwei Blättern. Der Herausgeber prüfte danach jeden Falz und versetzte 43 davon. Die meisten Seiten wurden außerdem an einem Rand beschnitten, um einen Streifen des darunterliegenden Blattes zu entfernen. Leere Seiten wurden weggelassen. Der Bestand hat 287 Textseiten und das Titelblatt.
 
 ### Transkription
 

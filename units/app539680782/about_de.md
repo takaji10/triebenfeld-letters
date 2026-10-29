@@ -8,7 +8,7 @@ Nach 1815 lag das Gut im Königreich Polen unter dem russischen Kaiser und gehö
 
 ### Inhalt
 
-Der Kontrakt ist von der Kolonie selbst datiert: "Tropiczyner Holl., 14. März 1820". Tropiczyner Holl. ist die Olęder-Kolonie auf dem Gut Trąbczyn, die Trąbczyńskie Stare Olędry, die unter ihrem späteren Namen Łazińsk geführt wird (die Entscheidung des Editors, im Protokoll verzeichnet). Die Dorfgemeinde - der Schulze Johann George Lindner, der Beisitzer Christoph Rimpel und Samuel Gellert - hält fest, daß der Schul Lehrer Samuel Adolph aus Borwiezer Holland erschien und sich verlauten ließ, die hiesige Schule auszunehmen; die Gemeinde hatte ihn zur Probe gestellt, und auf diese Gründe hin kontraktiert sie sich mit ihm und stellt ihm die Vocation aus [[1]].
+Der Kontrakt ist von der Kolonie selbst datiert: "Tropiczyner Holl., 14. März 1820". Tropiczyner Holl. ist die Olęder-Kolonie auf dem Gut Trąbczyn, die Trąbczyńskie Stare Olędry, die unter ihrem späteren Namen Łazińsk geführt wird. Die Dorfgemeinde - der Schulze Johann George Lindner, der Beisitzer Christoph Rimpel und Samuel Gellert - hält fest, daß der Schul Lehrer Samuel Adolph aus Borwiezer Holland erschien und sich verlauten ließ, die hiesige Schule auszunehmen; die Gemeinde hatte ihn zur Probe gestellt, und auf diese Gründe hin kontraktiert sie sich mit ihm und stellt ihm die Vocation aus [[1]].
 
 Es folgen zehn nummerierte Punkte [[1]]:
 
@@ -27,7 +27,7 @@ Auf diesen Kontrakt verobligiert sich der Schul Lehrer, sein Amt als ein rechtsc
 
 ### Form und Sprache
 
-Der Kontrakt ist deutsch, in einer Hand, schnell geschrieben und mit lautlichen Schreibungen, die diese Ausgabe unangetastet läßt: "Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß". Die Punkte sind 1. bis 10. nummeriert, Punkt 9 mit der Ordnungszahl "9te."; Punkt 7 trägt seine Nummer und nichts sonst. Ein am Zeilenende geteiltes Wort behält den Bindestrich des Manuskripts. "pohl." nach einer Summe bezeichnet polnisches Geld [[1]].
+Der Kontrakt ist deutsch, in einer Hand, schnell geschrieben und mit lautlichen Schreibungen, die unangetastet bleiben: "Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß". Die Punkte sind 1. bis 10. nummeriert, Punkt 9 mit der Ordnungszahl "9te."; Punkt 7 trägt seine Nummer und nichts sonst. Ein am Zeilenende geteiltes Wort behält den Bindestrich des Manuskripts. "pohl." nach einer Summe bezeichnet polnisches Geld [[1]].
 
 ### Verwandte Bestände
 

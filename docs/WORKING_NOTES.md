@@ -2693,7 +2693,17 @@ it in the nominative, or in the undeclined form, in the same source.
 - **Rule-based rewording needs reading after.** Regex rules over prose
   ("The edition has ..." -> "It has ...") also caught "The edition has these
   pages" and wrote "It has these pages". Every sentence such a pass changes is
-  read before it is published.
+  read before it is published. The reading of the 444 changed sentences
+  (2026-10-29) found about 40 to put right by hand: German sentences that lost
+  their verb, "the ground" left where "the edition's ground" stood (now "the
+  area", "das Gebiet"), a dangling "it", "der Sammlung" where nothing was
+  needed. Extract the pairs from the commit's diff (old sentence against its
+  closest new one) and read them all.
+- **German has two words for it.** The German texts call the site both
+  "Edition" and "Ausgabe" ("der Grund der Ausgabe", "die Literatur der
+  Ausgabe"); a search for one misses the other. "Ausgabe" also means an
+  issue of a paper and a database's version ("Ausgabe der Datenbank vom
+  22.10.2026") and, as "Ausgaben", expenses: those stay.
 - **Traps met:** Python's `re` refuses a variable-width look-behind (`(?<=[.:;]\s+)`);
   a replacement written as `'\1'` through a Bash heredoc reached the file as
   the control character U+0001, which YAML then refused - write such scripts

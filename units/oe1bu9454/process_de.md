@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Das Archiv lieferte 549 Aufnahmen, jede mit einer oder zwei Seiten eines Briefes. Sie wurden auf Einzelseiten beschnitten, und ein aufgeschlagen fotografierter Bogen wurde im Falz geteilt. Es hat 870 Seiten. Jede Seite wurde ihrer Stelle in der Transkription zugeordnet, und die Zuordnungen wurden von Hand geprüft.
+Das Archiv lieferte 549 Aufnahmen, jede mit einer oder zwei Seiten eines Briefes. Sie wurden auf Einzelseiten beschnitten, und ein aufgeschlagen fotografierter Bogen wurde im Falz geteilt. Der Bestand hat 870 Seiten. Jede Seite wurde ihrer Stelle in der Transkription zugeordnet, und die Zuordnungen wurden von Hand geprüft.
 
 ### Transkription
 

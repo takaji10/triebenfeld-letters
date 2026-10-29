@@ -20,7 +20,7 @@ The summaries were written in German from a reading of each document against its
 
 ### Translation
 
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The Latin of the registry is kept, except the two terms for a general and a special mortgage, which are given in English. The abbreviated heads of the courts' fee notes are left as they stand. The same automatic check as elsewhere then confirmed that every figure survives into the English.
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in their settled forms where these exist and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The Latin of the registry is kept, except the two terms for a general and a special mortgage, which are given in English. The abbreviated heads of the courts' fee notes are left as they stand. The same automatic check as elsewhere then confirmed that every figure survives into the English.
 
 ### Still to do
 
