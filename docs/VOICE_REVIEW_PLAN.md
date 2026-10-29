@@ -37,6 +37,11 @@ session.
    the spaced en dash; Canadian spelling; repository talk on a reader's page
    (NEEDS_CONFIRMATION, file paths, "the editor's ruling", dated rulings);
    signposting and self-narration (HOUSE_STYLE). A report per file.
+   Done 2026-10-29: `pipeline/review/voice_scan.py` writes
+   `review/voice/report.md` and `counts.csv`. Median sentence (EN): literature
+   50 words, newspapers 53, links 39, holdings 25, summaries 23, people and
+   glossary 17; 752 dashes not in the spaced en dash; repository talk on
+   reader pages mostly in the literature (NEEDS_CONFIRMATION, dated rulings).
 4. **Pilot:** one holding page, ten summaries, two literature accounts, a
    handful of bios and glossary entries, before and after on one page for the
    editor; their rulings go into EDITORS_VOICE.
