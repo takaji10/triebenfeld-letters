@@ -2709,3 +2709,17 @@ it in the nominative, or in the undeclined form, in the same source.
   the control character U+0001, which YAML then refused - write such scripts
   with the Write tool and use `chr(92)` or raw strings (the 2026-10-13 shell
   traps, again).
+- **Count sentences by paragraph.** A scanner that collapses a Markdown page
+  into one string runs a bold run-in heading ("**The bond, 1805.**") and the
+  paragraph's first sentence into the sentence before: the holdings' pages
+  showed 111 "long" sentences that way, 66 once `voice_scan.py` split at
+  paragraphs and headings first.
+- **What went to a Sonnet sub-agent, and how.** Splitting the holdings'
+  sentences of more than 60 words (85 of them, listed in
+  `review/voice/holdings_long.yml`) is mechanical: the sub-agent got the list,
+  hard rules (no fact, name, number or quotation changed; markup, footnote
+  marks and links kept; only the listed sentences; no commit) and a report to
+  write. Its diff is read in the main session before anything is committed.
+  The rewriting of accounts, cards and link sentences stayed in the main
+  session (the batches in `review/voice/`, applied by
+  `pipeline/review/set_work_texts.py` and `set_link_texts.py`).

@@ -95,8 +95,14 @@ def texts():
 def sentences(t):
     t = re.sub(r'\[\^?[\w-]+\]|\[\[[^\]]*\]\]|\(\{\{[^)]*\}\}\)|`[^`]*`(?=\))', '', t)  # footnote marks, links
     t = re.sub(r'^#+ .*$|^\s*[-*] ', ' ', t, flags=re.M)
-    t = re.sub(r'\s+', ' ', t).strip()
-    return [s for s in re.split(r'(?<=[.!?])\s+(?=[A-ZÄÖÜŁŚŻ„"(])', t) if s.strip()]
+    # a paragraph, and a bold run-in heading ("**The bond, 1805.**"), each
+    # end a sentence: the heading is not part of the sentence before it
+    t = re.sub(r'\*\*[^*\n]+\*\*', '\n\n', t)
+    out = []
+    for para in re.split(r'\n\s*\n', t):
+        para = re.sub(r'\s+', ' ', para).strip()
+        out += [s for s in re.split(r'(?<=[.!?])\s+(?=[A-ZÄÖÜŁŚŻ„"(])', para) if s.strip()]
+    return out
 
 
 AMERICAN = r'\b(color(s|ed|ing|ful)?|honor(s|ed|able)?|favor(s|ed|ite|able)?|center(s|ed)?|theater|labor(s|ed|er|ers)?|neighbor(s|ing|hood)?|traveled|traveling|defense|offense|catalog(s)?|gray)\b'
