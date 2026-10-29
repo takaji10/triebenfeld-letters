@@ -1,0 +1,14 @@
+{%- comment -%}
+  The thumb of a card in the materials' lists (2026-10-29): the item's first
+  page where make_thumbs.py has put one here (include.thumb, with the alt text
+  include.alt), otherwise a placeholder - a blank page, so the cards' text
+  stands in one column whether or not there is a picture. The placeholder is
+  decoration only and carries no alt text.
+{%- endcomment -%}
+{%- if include.thumb -%}
+<figure class="source-thumb"><img src="{{ include.thumb | relative_url }}" alt="{{ include.alt }}" loading="lazy"></figure>
+{%- else -%}
+<figure class="source-thumb source-thumb-empty" aria-hidden="true">
+  <svg viewBox="0 0 24 32" focusable="false"><path d="M3 1.5h12.5L21 7v23.5H3z M15.5 1.5V7H21 M7 13h10 M7 17h10 M7 21h10 M7 25h6" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/></svg>
+</figure>
+{%- endif -%}

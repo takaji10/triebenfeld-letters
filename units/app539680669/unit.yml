@@ -20,9 +20,11 @@ title_de: >-
   Gutshofs, Schulen und Lehrer, Auswanderung, Flurnamen, Sprache, Häuser und
   Gräber.
 # The archive's title of the whole unit, as the editor gave it. Kept for
-# reference; nothing displays it. The holding is two notebooks of the unit.
+# reference; the card's title (card_title, below) is made from it. The holding is two notebooks of the unit.
 archive_title: >-
   Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska]
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska]"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 # The cover is dated "Juli 1936"; one page of the photograph log at the back
 # is headed "Juli 1935" (notes.md).

@@ -23,6 +23,8 @@ title_de: >-
   Herausgeber.
 archive_title: >-
   Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae)
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae)"
 date_span: "1173-1440"      # the documents' dates (the Kodeks itself runs from 984 to 1444)
 status: translated        # draft | transcribed | translated | published
 published_tag: ""

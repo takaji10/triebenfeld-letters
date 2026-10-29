@@ -791,6 +791,13 @@ def main():
             # nothing to mark it, which reads as a translation that happens to
             # be in the wrong language rather than one not yet made.
             f.write(f'  title_de: {yaml_str((u.get("title_de") or "").strip())}\n')
+            # The card's title on the Sources list (unit.yml card_title, and
+            # card_title_de where the German differs): the archive's own title,
+            # a court book's with the court first. Null where absent (or still
+            # a TODO), so the card falls back to the reference.
+            for key in ('card_title', 'card_title_de'):
+                val = str(u.get(key) or '').strip()
+                f.write(f'  {key}: {yaml_opt(None if not val or val.upper().startswith("TODO") else val)}\n')
             f.write(f'  description_de: {yaml_str((u.get("description_de") or "").strip())}\n')
             f.write(f'  repository: {yaml_str(u.get("repository") or "")}\n')
             f.write(f'  era: {yaml_str(u.get("era") or "")}\n')

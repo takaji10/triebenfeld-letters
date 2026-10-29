@@ -63,6 +63,12 @@ title: >-
   TODO: one sentence on what this holding is about.
 title_de: >-
   TODO: derselbe Satz auf Deutsch.
+# The card's title on the Sources list: the archive's own title, as in the
+# folder name of the scans. For a court book the court's name goes first
+# ("Konin Municipal Court: Relationes [protocollon] 1768-1774"; municipal court
+# / Burggericht for a gród, land court / Landgericht for a ziemski court).
+# card_title_de only where the German differs.
+card_title: TODO
 date_span: TODO
 status: draft              # draft | transcribed | translated | published
 

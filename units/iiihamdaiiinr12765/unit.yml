@@ -21,11 +21,13 @@ title_de: >-
   genommen wurden; Russland, das die Gegend seit 1815 beherrschte, lehnte 1816
   und 1820 ab.
 # The heading this field carried before: the archive's or the file's own
-# title with an English gloss. Kept for reference; nothing displays it.
+# title with an English gloss. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Acta betr: Ein Entschädigungs Gesuch des Fürsten zu Hohenlohe wegen der
   Güter Trąbczyn im Kalischer Departement - the foreign ministry's file on the
   Prince's claim for compensation for Trąbczyn
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Acta betr: Ein Entschädigungs Gesuch des Fürsten zu Hohenlohe wegen der Güter Trąbczyn im Kalischer Departement"
 # The first piece is of 25 October 1814 (enclosing a copy of 14 May 1814), the
 # last of 19 May 1820, docketed 30 May.
 date_span: 1814-1820

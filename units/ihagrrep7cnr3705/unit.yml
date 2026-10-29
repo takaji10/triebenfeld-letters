@@ -22,11 +22,13 @@ title_de: >-
   Polen, sei unter Sequestration zu stellen, nachdem die drei Bürger, die es
   in Erbpacht hatten, nicht mehr zahlten.
 # The heading this field carried before: the archive's or the file's own
-# title with an English gloss. Kept for reference; nothing displays it.
+# title with an English gloss. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Acta wegen des von dem Fürsten zu Hohenlohe-Oehringen verErbpachteten Guts
   Olesnica: Triebenfeld's petition to the King for the sequestration of the
   Olesnica estate, 1805
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Acta wegen des von dem Fürsten zu Hohenlohe-Oehringen verErbpachteten Guts Olesnica"
 date_span: 1805
 status: translated         # draft | transcribed | translated | published
 

@@ -24,10 +24,12 @@ title_de: >-
   Parzellierung und der Vertrag, mit dem achtzehn Siedler hundert Hufen des
   Waldes von Drzewce in Erbpacht nahmen.
 # The archivist's title on the cover, in square brackets there. Kept for
-# reference; nothing displays it.
+# reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, Wittow i Trąpczyn
   z lat 1805-1806
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, Wittow i Trąpczyn z lat 1805-1806"
 # The papers copied are dated 19 February 1805 to 21 March 1806. The copy
 # itself the archive dates "[1930?]".
 date_span: 1805-1806

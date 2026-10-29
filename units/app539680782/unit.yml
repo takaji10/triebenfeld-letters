@@ -18,9 +18,11 @@ title_de: >-
   Land und Korn, die ihm die Gemeinde gibt, und seine Gebühren für den
   Unterricht der Kinder, die Einsegnungen und die Begräbnisse.
 # The archive's title of the unit, as the editor gave it. Kept for reference;
-# nothing displays it.
+# the card's title (card_title, below) is made from it.
 archive_title: >-
   Umowa zawarta między nauczycielem Samuelem Adolphem 1820
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Umowa zawarta między nauczycielem Samuelem Adolphem 1820"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 date_span: 1820
 status: translated         # draft | transcribed | translated | published

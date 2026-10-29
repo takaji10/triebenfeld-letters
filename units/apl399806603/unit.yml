@@ -22,6 +22,8 @@ title_de: >-
 # The archive's title of the unit, as the folder gives it.
 archive_title: >-
   Ликвидационная табель селения Лазинская Слупецкий уездъ гмина Тромбчинъ
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Ликвидационная табель селения Лазинская Слупецкий уездъ гмина Тромбчинъ"
 fonds: Urząd Gubernialny Kaliski do Spraw Włościańskich (39/98)
 date_span: "1868-1901"
 status: translated         # draft | transcribed | translated | published

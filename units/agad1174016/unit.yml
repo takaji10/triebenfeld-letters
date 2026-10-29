@@ -23,9 +23,11 @@ title_de: >-
   21. Juli 1807, der das Dekret auf Michalina Dąbska, geborene Prusimska,
   ausdehnt und ihr damit die Güter zurückgibt, darunter Trąbczyn, die Preußen
   dem Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen geschenkt hatte.
-# The archive's own title of the volume. Kept for reference; nothing displays it.
+# The archive's own title of the volume. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Zbiór wyroków, uchwał, zaleceń i wszelkich rezolucji Komisji Rządzącej
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Zbiór wyroków, uchwał, zaleceń i wszelkich rezolucji Komisji Rządzącej"
 # The two entries are of 12 and 21 July 1807.
 date_span: "1807"
 status: translated        # draft | transcribed | translated | published

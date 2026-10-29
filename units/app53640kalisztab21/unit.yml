@@ -19,9 +19,11 @@ title_de: >-
   darunter Trąbczyn, seine Olęder-Siedlung, Łazy, Osiny, Nowa Wieś und
   Łukom.
 # The archive's own title of the volume, as the editor gave it. Kept for
-# reference; nothing displays it.
+# reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Podymne z woj. kaliskiego [protocollon]
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Podymne z woj. kaliskiego [protocollon] 1789"
 fonds: Zbiór tabel podatkowych i lustracji
 # The title of the register: "w Racie Swięto-Jańskiey Roku 1789", the
 # instalment due at St John's (24 June) 1789.

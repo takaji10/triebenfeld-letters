@@ -29,9 +29,12 @@ title_de: >-
   September 1776 in die Gerichtsakten von Brześć Kujawski eingetragen und in
   das Gerichtsbuch von Konin abgeschrieben wurde.
 # The name of the volume in the archive's inventory, as the editor's folder
-# and files give it. Kept for reference; nothing displays it.
+# and files give it. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Relationes-oblatae [protocollon] 1776
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Konin Municipal Court: Relationes-oblatae [protocollon] 1776"
+card_title_de: "Burggericht Konin: Relationes-oblatae [protocollon] 1776"
 # The fonds, from the archive's page for the unit (the editor, 2026-10-06):
 # 53/17, "Księgi sądu i urzędu grodzkiego w Koninie". Its background, as the
 # archive gives it, is in about.md under "Historical background".

@@ -23,12 +23,14 @@ title_de: >-
   ihr Holzsammeln in seinem Wald auf sieben, höchstens vierzehn Stellen
   beschränken zu lassen.
 # The archivist's title on the cover, in square brackets there, as the editor
-# gave it. Kept for reference; nothing displays it.
+# gave it. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   [Pozew dla Karoliny Fridenberg stawienia się przed Trybunałem Cywilnym w
   Kaliszu w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej w
   dobrach Trąbczyn osiadłych z Włodzimierzem Mieczyńskim, właścicielem tegoż
   Trąbczyna, pow słupski]
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "[Pozew dla Karoliny Fridenberg stawienia się przed Trybunałem Cywilnym w Kaliszu w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej w dobrach Trąbczyn osiadłych z Włodzimierzem Mieczyńskim, właścicielem tegoż Trąbczyna, pow słupski]"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 # The summons was served on 7/19 October 1860 (the two calendars of the
 # Kingdom of Poland).

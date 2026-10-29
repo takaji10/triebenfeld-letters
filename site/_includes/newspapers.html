@@ -15,14 +15,14 @@
   with a note, and its page holds only a summary of its contents, as a work
   of the literature kept off the site does.
 {%- endcomment -%}
+{% include sources-tools.html %}
 <div class="sources">
   {% for w in site.data.newspapers %}
     {%- capture w_page -%}{{ u_np }}{{ w.slug }}/{%- endcapture -%}
     {%- assign w_lang = 'lit_lang_' | append: w.language -%}
-    <section class="source{% unless w.thumb %} notumb{% endunless %}" id="{{ w.slug }}">
-      {% if w.thumb %}
-      <figure class="source-thumb"><img src="{{ w.thumb | relative_url }}" alt="{{ t.alt_clipping | replace: '%s', w.newspaper }}" loading="lazy"></figure>
-      {% endif %}
+    {%- capture w_alt -%}{{ t.alt_clipping | replace: '%s', w.newspaper }}{%- endcapture -%}
+    <section class="source" id="{{ w.slug }}" data-az="{{ w.newspaper | escape }}" data-date="{{ w.year }}">
+      {% include source-thumb.html thumb=w.thumb alt=w_alt %}
       <div class="source-body">
         <h2 class="lit-author">{{ w.newspaper }}</h2>
         <p class="lit-title"><a class="source-link" href="{{ w_page | relative_url }}">{{ w.ref }}</a></p>

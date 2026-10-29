@@ -14,15 +14,15 @@
   work's page). A work under copyright (summary_only) is listed with a note,
   and its page holds only a summary of its contents (the editor, 2026-10-21).
 {%- endcomment -%}
+{% include sources-tools.html %}
 <div class="sources">
   {% for w in site.data.literature %}
     {%- unless w.parent -%}
     {%- capture w_page -%}{{ u_lit }}{{ w.slug }}/{%- endcapture -%}
     {%- assign lang_key = 'lit_lang_' | append: w.language -%}
-    <section class="source{% unless w.thumb %} notumb{% endunless %}" id="{{ w.slug }}">
-      {% if w.thumb %}
-      <figure class="source-thumb"><img src="{{ w.thumb | relative_url }}" alt="{{ t.alt_litpage | replace: '%s', w.cite }}" loading="lazy"></figure>
-      {% endif %}
+    {%- capture w_alt -%}{{ t.alt_litpage | replace: '%s', w.cite }}{%- endcapture -%}
+    <section class="source" id="{{ w.slug }}" data-az="{% if w.author_sort != "" %}{{ w.author_sort | escape }}{% else %}{{ w.title | escape }}{% endif %}" data-date="{{ w.year }}">
+      {% include source-thumb.html thumb=w.thumb alt=w_alt %}
       <div class="source-body">
         <h2 class="lit-author">{% if w.author_sort != "" %}{{ w.author_sort }}{% else %}{{ t.lit_anonymous }}{% endif %}</h2>
         <p class="lit-title"><a class="source-link" href="{{ w_page | relative_url }}">{{ w.title }}</a></p>

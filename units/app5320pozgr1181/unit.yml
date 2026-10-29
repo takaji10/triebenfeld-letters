@@ -19,9 +19,12 @@ title_de: >-
   von 1740, die Lasten der Güter, die Ansprüche der Erben der Schwestern und
   die Quittung, die die Abtei Ląd vorzulegen hatte.
 # The name of the volume in the archive's inventory, as the editor's folder
-# gives it. Kept for reference; nothing displays it.
+# gives it. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Relationes [protocollon] 1786
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Poznań Municipal Court: Relationes [protocollon] 1786"
+card_title_de: "Burggericht Poznań: Relationes [protocollon] 1786"
 date_span: 1784-1786
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

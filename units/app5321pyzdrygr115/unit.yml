@@ -22,9 +22,12 @@ title_de: >-
   Osiny, Łazy, die Schmiede von Maryantów und die verstreuten
   Holländersiedlungen alte und neue mit der Huta.
 # The archive's own title of the unit, as the editor gave it. Kept for
-# reference; nothing displays it.
+# reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Relationes [protocollon] 1791-1792
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Pyzdry Municipal Court: Relationes [protocollon] 1791-1792"
+card_title_de: "Burggericht Pyzdry: Relationes [protocollon] 1791-1792"
 # The fonds, as for the court books of the Prusimski era (the editor,
 # 2026-10-26), with the archive's context and account of the creator from
 # szukajwarchiwach (jednostka 984641) on the holding's page.

@@ -23,9 +23,11 @@ title_de: >-
   und nicht reisen könne, und das Departement gibt den Bericht an die Minister
   für die neuen polnischen Provinzen und an den Großkanzler weiter.
 # The archive's title of the file, from its finding aid. Kept for reference;
-# nothing displays it.
+# the card's title (card_title, below) is made from it.
 archive_title: >-
   Aufenthalt des Anton v. Prusimski in Venedig
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Aufenthalt des Anton v. Prusimski in Venedig"
 # The dispatch is of 14 December 1796, the last mark on the file of 16 March
 # 1797. The archive dates the file 1797.
 date_span: 1796-1797

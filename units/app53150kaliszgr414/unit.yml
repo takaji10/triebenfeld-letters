@@ -19,9 +19,12 @@ title_de: >-
   Stanisław Ścibor Chełmski von Łukomia übergab, gestützt auf Urteile gegen
   Antoni Prusimski; die Kommission von 1775 hob sie später auf.
 # The name of the volume in the archive's inventory, as the editor's folder
-# gives it. Kept for reference; nothing displays it.
+# gives it. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Relationes [protocollon] 1771
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Kalisz Municipal Court: Relationes [protocollon] 1771"
+card_title_de: "Burggericht Kalisz: Relationes [protocollon] 1771"
 # The fonds, with the archive's description of it, from the editor (2026-10-07):
 # 53/15, "Księgi sądu i urzędu grodzkiego w Kaliszu". Contents, as the
 # archive lists them: "Rezygnacje, inskrypcje, relacje, wyroki, oblaty,

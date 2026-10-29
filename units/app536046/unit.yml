@@ -20,9 +20,12 @@ title_de: >-
   einzutragen; das andere verweist Chełmskis Klage aus der vom Kaufmann
   Tracholz gekauften Forderung auf einen Ortstermin auf dem Grund von Trąbczyn.
 # The name of the volume in the archive's inventory, as the editor's folder
-# gives it. Kept for reference; nothing displays it.
+# gives it. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Decreta [protocollon] 1773-1777
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Konin Land Court: Decreta [protocollon] 1773-1777"
+card_title_de: "Landgericht Konin: Decreta [protocollon] 1773-1777"
 # The fonds, with the archive's description of it, from the editor (2026-10-07):
 # 53/6, "Księgi sądu ziemskiego w Koninie". Contents, as the archive lists
 # them: "Rezygnacje, inskrypcje, relacje, wyroki, oblaty, regestry spraw,

@@ -20,11 +20,13 @@ title_de: >-
   Testament über seine Güter in Schlesien und in Südpreußen, dem preußischen
   Anteil am geteilten Polen, stiftete, samt der Erbfolge.
 # The heading this field carried before: the archive's or the file's own
-# title with an English gloss. Kept for reference; nothing displays it.
+# title with an English gloss. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Landesherrliche Confirmation: Friedrich Wilhelm III confirms the family
   majorat and fideicommiss founded by Friedrich Ludwig, Prince of
   Hohenlohe-Ingelfingen, over his Silesian and South Prussian estates
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Landesherrliche Confirmation"
 # The confirmation is dated Berlin, 19 December 1805; the extract of the
 # Prince's will that it recites is of 7 October 1805.
 date_span: 1805

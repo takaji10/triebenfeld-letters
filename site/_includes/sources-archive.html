@@ -7,22 +7,27 @@
 {%- comment -%}
   The archival holdings' full list (moved here from /sources/ when that
   became the overview of all the edition's sources, 2026-10-27): one card
-  per holding. The card is one link (2026-10-29): the holding's title is
-  stretched over it, and where make_thumbs.py has put the holding's first
-  page here the page stands beside the title. The holding pages themselves
+  per holding. The card is one link (2026-10-29): the holding's title (the
+  archive's own, card_title in its unit.yml; the court first for a court
+  book) is stretched over it, with the reference and the archive under it,
+  and where make_thumbs.py has put the holding's first page here the page
+  stands beside the title. A holding with no card_title shows its reference. The holding pages themselves
   remain at /sources/<slug>/ - nothing but this list's own address has
   changed.
 {%- endcomment -%}
+{%- assign u_archives = site.data.units | map: "archive" | uniq | sort_natural -%}
+{% include sources-tools.html archives=u_archives %}
 <div class="sources">
   {% for u in site.data.units %}
-    <section class="source{% unless u.thumb %} notumb{% endunless %}" id="{{ u.slug }}">
+    {%- assign u_card = u.card_title | default: u.ref -%}
+    {%- if lang == "de" and u.card_title_de -%}{%- assign u_card = u.card_title_de -%}{%- endif -%}
+    <section class="source" id="{{ u.slug }}" data-az="{{ u_card | escape }}" data-date="{{ u.span | slice: 0, 4 }}" data-archive="{{ u.archive | escape }}">
       {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
-      {% if u.thumb %}
-      <figure class="source-thumb"><img src="{{ u.thumb | relative_url }}" alt="{{ t.alt_holding | replace: '%s', u.ref }}" loading="lazy"></figure>
-      {% endif %}
+      {%- capture u_alt -%}{{ t.alt_holding | replace: '%s', u.ref }}{%- endcapture -%}
+      {% include source-thumb.html thumb=u.thumb alt=u_alt %}
       <div class="source-body">
-        <h2><a class="source-link" href="{{ u_page | relative_url }}">{{ u.ref }}</a></h2>
-        <p class="source-archive">{{ u.archive }}</p>
+        <h2><a class="source-link" href="{{ u_page | relative_url }}">{{ u_card }}</a></h2>
+        <p class="source-archive">{{ u.ref }} &middot; {{ u.archive }}</p>
         {%- assign u_title = u.title -%}
         {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
         {% if u_title %}<p class="source-title">{{ u_title }}</p>{% endif %}

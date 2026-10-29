@@ -20,11 +20,13 @@ title_de: >-
   den dazu abgelegten Vollmachten, königlichen Bestätigungen und
   Beglaubigungen.
 # The heading this field carried before: the archive's or the file's own
-# title with an English gloss. Kept for reference; nothing displays it.
+# title with an English gloss. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Originals and certified copies of the deeds of sale and hereditary lease
   over the South Prussian estates donated to Friedrich Ludwig, Prince of
   Hohenlohe-Ingelfingen
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Originals and certified copies of the deeds of sale and hereditary lease over the South Prussian estates donated to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen"
 # The datelines run 1798-10-01 to 1806-07-18. The volume reaches further at both
 # ends without saying so in a dateline: the Posen chapter privilege reproduces a
 # 1766 grant, and two hereditary-lease contracts carry engrossments issued by

@@ -1,0 +1,27 @@
+{%- comment -%}
+  The sort bar of a materials list (2026-10-29): A-Z (the default) and by date,
+  the oldest first; the archival list adds a filter by archive
+  (include.archives, the archives' names). assets/cardsort.js reads each
+  card's data-az, data-date and data-archive. The bar is hidden until the
+  script has run: without it the list stays in the order it was built in.
+{%- endcomment -%}
+<div class="source-tools" hidden>
+  <div class="viewbar" role="group" aria-label="{{ t.tools_sort }}">
+    <span class="tools-label">{{ t.tools_sort }}</span>
+    <button type="button" class="vbtn is-on" data-sort="az" aria-pressed="true">{{ t.tools_az }}</button>
+    <button type="button" class="vbtn" data-sort="date" aria-pressed="false">{{ t.tools_date }}</button>
+  </div>
+  {%- if include.archives %}
+  <label class="tools-filter">
+    <span class="tools-label">{{ t.tools_archive }}</span>
+    <select data-filter="archive">
+      <option value="">{{ t.tools_all_archives }}</option>
+      {%- for a in include.archives %}
+      <option value="{{ a | escape }}">{{ a | escape }}</option>
+      {%- endfor %}
+    </select>
+  </label>
+  <span class="tools-count" aria-live="polite" data-template="{{ t.tools_shown | escape }}"></span>
+  {%- endif %}
+</div>
+<script src="{{ '/assets/cardsort.js' | relative_url }}" defer></script>

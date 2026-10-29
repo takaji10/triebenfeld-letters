@@ -25,10 +25,12 @@ title_de: >-
 # Forests" (Kriegs- und Forstrath) is his title as the deeds give it, confirmed
 # by the editor on 2026-10-02; an earlier note here called it a misreading, and
 # that was wrong.
-# It was this holding's `title` until 2026-10-01; nothing displays it now.
+# It was this holding's `title` until 2026-10-01; the card's title is made from it now.
 archive_title: >-
   Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with the
   Councillor of War and Forests von Triebenfeld
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with the Councillor of War and Forests von Triebenfeld"
 date_span: 1798-1816
 status: translated         # draft | transcribed | translated | published
 

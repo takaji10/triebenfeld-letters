@@ -19,9 +19,11 @@ title_de: >-
   Druck von 1741 und seine Aufzeichnungen, wie und warum die Namen
   geändert wurden.
 # The archive's title of the unit, as the editor gave it. Kept for reference;
-# nothing displays it.
+# the card's title (card_title, below) is made from it.
 archive_title: >-
   Polonisierta Namen [gmina Zagórów - nazwiska mieszkańców]
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Polonisierta Namen [gmina Zagórów - nazwiska mieszkańców]"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 # No sheet in the holding carries a date (the years 1741, 1843 and 1855 in
 # the lists are the dates of the material they name, not of the sheets).

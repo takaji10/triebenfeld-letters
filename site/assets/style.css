@@ -137,29 +137,51 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 /* The materials' lists (holdings, newspapers, literature, maps): one card
    per item (2026-10-29), in the look of the home page's .card - the card
    clickable as a whole through its title link, the item's first page as
-   its thumb where the file is here (a card without one is .notumb). */
-.sources { max-width: var(--measure); margin: 2rem 0 3rem; display: grid; gap: 1rem; }
+   its thumb where the file is here (a blank-page placeholder where not). */
+.sources { max-width: 90rem; margin: 2rem 0 3rem; display: grid; gap: 1.2rem; }
 .source {
   position: relative;
-  display: grid; grid-template-columns: 8.5rem 1fr; gap: .1rem 1.1rem;
+  display: grid; grid-template-columns: 7rem 1fr; gap: .1rem 1.4rem;
   border: 1px solid var(--rule); border-radius: 3px; background: var(--paper-2);
-  padding: 1.1rem 1.2rem;
+  padding: 1.4rem 1.6rem;
 }
 .source:hover { border-color: var(--accent); }
-.source.notumb { grid-template-columns: 1fr; }
 .source-thumb { grid-column: 1; margin: .1rem 0 0; }
 .source-thumb img { display: block; width: 100%; height: auto;
                     border: 1px solid var(--rule); }
+/* An item with no picture yet: a blank page in the thumb's place. */
+.source-thumb-empty { aspect-ratio: 3 / 4; display: grid; place-items: center;
+                      border: 1px dashed var(--rule); color: var(--ink-faint);
+                      background: var(--paper); }
+.source-thumb-empty svg { width: 42%; height: auto; }
 .source-body { grid-column: 2; }
-.source.notumb .source-body { grid-column: 1; }
 .source h2 { margin: 0; font-size: 1.15rem; }
 .source h2 a { color: inherit; }
-.source p { margin: .9rem 0 0; }
+.source p { margin: .9rem 0 0; max-width: 56rem; }
 /* The card's clickable whole: the title link stretched over it. Inner
    links (the literature's sub-item) stand above the overlay. */
 .source-link { color: inherit; }
 .source-link:hover { text-decoration: underline; }
 .source-link::after { content: ""; position: absolute; inset: 0; }
+.source[hidden] { display: none; }
+
+/* Sort and filter bar above a list (cardsort.js shows it; without the
+   script it stays hidden and the list keeps the order it was built in). */
+.source-tools { max-width: 90rem; display: flex; flex-wrap: wrap; gap: .7rem 1.8rem;
+                align-items: center; margin: 1.6rem 0 0; }
+.source-tools[hidden] { display: none; }
+.source-tools .viewbar { margin: 0; }
+.tools-label { font-family: var(--sans); font-size: .72rem; letter-spacing: .06em;
+               text-transform: uppercase; color: var(--ink-faint); }
+.tools-filter { display: flex; align-items: center; gap: .5rem; }
+.tools-filter select { font-family: var(--sans); font-size: .82rem; padding: .3rem .5rem;
+                       border: 1px solid var(--rule); border-radius: 2px;
+                       background: var(--paper); color: var(--ink); max-width: 100%; }
+.tools-count { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
+.source-tools + .sources { margin-top: 1rem; }
+@media (max-width: 40rem) {
+  .source { grid-template-columns: 4.5rem 1fr; gap: .1rem 1rem; padding: 1rem; }
+}
 
 .unit-head { max-width: var(--measure); }
 .unit-head .eyebrow a { color: inherit; }

@@ -26,9 +26,11 @@ title_de: >-
   von Drzewce und eine Seite der Erneuerung der Grenzhügel zwischen Łukom,
   Zagórów und Drzewce 1761.
 # The archive's own title of the unit, as the editor gave it. Kept for
-# reference; nothing displays it.
+# reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum"
 # The fond, and the archive's description of it, as the editor gave them
 # (2026-10-21): "Zespół zawiera m.in.: dokumenty majątkowe, fundacyjne,
 # opackie, przywileje, preliminarz budżetowy, zestawienie dóbr klasztoru,

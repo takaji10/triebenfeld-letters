@@ -20,9 +20,12 @@ title_de: >-
   vorvergangenen Donnerstag dort auf dem Tisch im beheizten Raum zurück, vor
   einem Angehörigen des Haushalts des Geladenen.
 # The name of the unit in the archive's inventory, as the editor gave it.
-# Kept for reference; nothing displays it.
+# Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Relationes, citationes [protocollon] 1726-1727
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Kalisz Land Court: Relationes, citationes [protocollon] 1726-1727"
+card_title_de: "Landgericht Kalisz: Relationes, citationes [protocollon] 1726-1727"
 # The fonds, with the archive's description of it, as the editor gave it
 # (2026-10-26): "Rezygnacje, inskrypcje, relacje, wyroki, oblaty, regestry
 # spraw, plenipotencje, inkwizycje, regestra. W zespole wyodrębniono

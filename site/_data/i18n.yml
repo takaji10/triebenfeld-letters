@@ -310,6 +310,12 @@ en:
   sources_pages: Manuscript pages
   sources_span: Span
   alt_holding: First page of the holding %s
+  tools_sort: Sort
+  tools_az: A–Z
+  tools_date: Date
+  tools_archive: Archive
+  tools_all_archives: All archives
+  tools_shown: Showing %s of %s
   badge_supplied: "[supplied]"
   badge_inferred: "[inferred]"
   map_link: Map (OpenStreetMap)
@@ -716,6 +722,12 @@ de:
   sources_pages: Handschriftenseiten
   sources_span: Zeitraum
   alt_holding: Erste Seite des Bestands %s
+  tools_sort: Sortieren
+  tools_az: A–Z
+  tools_date: Datum
+  tools_archive: Archiv
+  tools_all_archives: Alle Archive
+  tools_shown: "%s von %s angezeigt"
   badge_supplied: "[ergänzt]"
   badge_inferred: "[erschlossen]"
   map_link: Karte (OpenStreetMap)

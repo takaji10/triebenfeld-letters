@@ -21,11 +21,13 @@ title_de: >-
   Hohenlohe-Ingelfingen, einem preußischen General, und sechs weiteren
   Offizieren schenkte.
 # The heading this field carried before: the archive's or the file's own
-# title with an English gloss. Kept for reference; nothing displays it.
+# title with an English gloss. Kept for reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Acta: die Schenkungs-Urkunden über die dem Fürsten von Hohenlohe-Ingelfingen
   zum erblichen Besitz verliehenen Güter - the ministry file on the donation
   charters of August 1796 for the Prince and six officers
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Acta: die Schenkungs-Urkunden über die dem Fürsten von Hohenlohe-Ingelfingen zum erblichen Besitz verliehenen Güter"
 # The charters and their covering papers are of July and August 1796; the
 # registry notes at the front are of 1826.
 date_span: 1796

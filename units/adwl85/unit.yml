@@ -19,9 +19,11 @@ title_de: >-
   gezählten Seelen, ihren Büchern und Stiftungen, unter Antoni Prusimski als
   Erbherrn und Patron, und die Tabelle der Seelen der Nachbarpfarrei Zagórów.
 # The archive's own title of the volume, as the editor gave it. Kept for
-# reference; nothing displays it.
+# reference; the card's title (card_title, below) is made from it.
 archive_title: >-
   Akta wizytacji dekanatu konińskiego 1790-1791
+# The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
+card_title: "Akta wizytacji dekanatu konińskiego 1790-1791"
 # The tables are dated 1791 and the register extract 1790; the priest was
 # approved for confession at the deanery retreat held "w Rku ninieyszym",
 # on 15 October.

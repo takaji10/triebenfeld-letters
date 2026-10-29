@@ -13,13 +13,13 @@
   <h1>{{ t.maps_h1 }}</h1>
 </div>
 
+{% include sources-tools.html %}
 <div class="sources">
   {% for m in site.data.maps_list %}
     {%- capture m_page -%}{{ u_maps }}{{ m.slug }}/{%- endcapture -%}
-    <section class="source{% unless m.thumb %} notumb{% endunless %}" id="{{ m.slug }}">
-      {% if m.thumb %}
-      <figure class="source-thumb"><img src="{{ m.thumb | relative_url }}" alt="{{ t.alt_map | replace: '%s', m.cited_as }}" loading="lazy"></figure>
-      {% endif %}
+    {%- capture m_alt -%}{{ t.alt_map | replace: '%s', m.cited_as }}{%- endcapture -%}
+    <section class="source" id="{{ m.slug }}" data-az="{{ m.cited_as | escape }}" data-date="{{ m.year }}">
+      {% include source-thumb.html thumb=m.thumb alt=m_alt %}
       <div class="source-body">
         <h2 class="lit-author"><a class="source-link" href="{{ m_page | relative_url }}">{{ m.cited_as }}</a></h2>
         <dl class="source-facts">

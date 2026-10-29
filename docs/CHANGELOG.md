@@ -3558,7 +3558,31 @@ lose his estates. The era page writes Konotop, not Kontop.
   50 holdings, 7 press items, 5 works, the Łukom map), the whole card one
   link (the title stretched over it; the Janocki sub-item under Paciorkowski
   keeps its own). An item with no image yet (the printed Kodeks, five press
-  items, 33 works) is a card without a thumb. The "Read ..." / "View the map"
+  items, 33 works) shows a blank-page placeholder in the thumb's place
+  (`site/_includes/source-thumb.html`), so every card has the same layout.
+  The cards run to 90rem wide, the thumb column 7rem.
+- Each list has a sort bar (`site/assets/cardsort.js`, shared bar
+  `site/_includes/sources-tools.html`): A-Z, the default on every list, and
+  by date, the oldest first, undated last. A-Z reads as the literature list
+  always did (brackets, accents and the stroke of Ł ignored; numbers as
+  numbers). The archival list also has a dropdown to filter by archive, with
+  a "showing N of 51" count. The bar is hidden without the script (the list
+  then keeps the order it was built in) and for a list of fewer than two
+  cards (the maps, for now). Six `tools_*` strings, both languages.
+- A holding's card on the archival list is titled with the holding's own
+  title, no longer its reference: `card_title` in each `unit.yml` (and
+  `card_title_de` where the German differs), made from `archive_title`, the
+  editor's titles from the scans' folder names, 51 units. A court book has
+  the court first ("Konin Municipal Court: Relationes [protocollon]
+  1768-1774"; German "Burggericht Konin: ..."), 23 books: municipal court /
+  Burggericht for the grod courts of Kalisz, Konin, Poznań and Pyzdry, land
+  court / Landgericht for the ziemski courts of Konin and Kalisz. The
+  reference stands under the title, before the archive's name. Where
+  `archive_title` carried a gloss of ours after the archive's own words (six
+  Berlin and Poznań files) the card takes the archive's words; the old
+  "nothing displays it" comments updated. New units get `card_title: TODO`
+  from `new_unit.py`; a TODO or an empty value falls back to the reference.
+  Sorting A-Z on this list now sorts on these titles. The "Read ..." / "View the map"
   lines are gone, as are the "Read about this holding / Browse its documents"
   links on the archival list and the translation caveat that stood above the
   literature list (the caveat stays on a work's own page).
