@@ -140,3 +140,12 @@ page, the literature's rule). The editor's word (2026-10-22): **shown
 whole** — the rights are approved by them; no rights entry was added
 anywhere. The photographs stay off the site (above), as does the
 photographs line.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The page is the congregation speaking of itself on its own site. Further
+> entries: the filial of Grodziec; the plot of 1857; the service of 1954 by
+> the Rev. Karol Świtalski; the home consecrated by Bishop Michał Warczyński;
+> the electronic clock and bells of 2008.

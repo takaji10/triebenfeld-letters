@@ -97,3 +97,13 @@ publication). Either way the piece is in the public domain. Shown whole
 - The March Zdrowie article under it: not in the edition; brought in only
   at the editor's word.
 - Publishing at the editor's word, as always.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The file gives no signature: whether the Jutrzenka page is signed by him or
+> carries an anonymous digest cannot be settled from the file, and the
+> digitisation was not reachable from the working session – open
+> (NEEDS_CONFIRMATION, "The newspapers"). The people of the countryside are
+> the same people the documents move among.

@@ -141,3 +141,14 @@ to the editor with the choice the section keeps ready (shown whole, or kept
 off the site with a summary page, the literature's rule). The editor's word
 (2026-10-22): **"Show it whole"** — the rights are approved by them; no
 rights entry was added anywhere. The photograph stays off the site (above).
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The history paragraph names among the heirs who took part in the wars of
+> national liberation Antoni Prusimski, Stanisław Count Miączyński, Aleksander
+> and Włodzimierz Miączyński; Janek's grant was from Duke Bolesław the Pious;
+> the Trąbczyński family bore the Dryja arms, to the end of the seventeenth
+> century. Honoured posthumously: Krystyna Reszkiewicz; the exhibition "775
+> lat Trąbczyna"; the band Skaner.

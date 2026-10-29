@@ -65,3 +65,12 @@ Trąbczyn made for Katarzyna in July 1754 (Konin Gr.136) already calls
 Paweł not long dead; the visitation of 1791 (ADWł 85) says she enlarged
 the parish church. The timeline's event of 1754 rests on this item, as do
 the story's words on the funeral.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> Paweł Prusimski held Trąbczyn before his nephew Antoni. Each issue gathers
+> short reports from the towns of the Commonwealth and abroad. Printed Polish
+> of 1754 in roman type, with italic for the dateline and for Latin words, the
+> long s (ſ) and accented á; only this report of the page is transcribed.

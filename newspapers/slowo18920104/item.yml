@@ -64,59 +64,34 @@ english_by: Claude, 2026-10-22
 # reached the paper. Its facts are the kind a notary's deed would confirm;
 # what makes it worth having here is that one of the two estates named is # Trąbczyn.
 account_en: >-
-  A sale notice in the "Kronika ekonomiczna" of the Warsaw daily Słowo, no. 2
-  of 4 January 1892 (the paper's eleventh year), page 3: two lines gathering
-  the sales of landed estates the paper had been told of. The Tomisławice
+  A notice in the "Kronika ekonomiczna" of the Warsaw daily Słowo, no. 2 of 4
+  January 1892, page 3, gathering two sales of landed estates. The Tomisławice
   estate in the Turek powiat, of 17 włókas, was bought from Mr Repphan by Mr
-  Lutostański for 31,000 rs. – the ruble in silver (rubli srebrnych), the
-  Russian Empire's money in the Kingdom of Poland; the włóka is the old
-  Polish field measure. Then Trąbczyn: "Majątek Trąbczyn, w
-  pow. słupeckim, 150 włók, nabyła od hr. Miączyńskiego hr. Władysławowa
-  Wielopolska za 225,000 rs." – the Trąbczyn estate in the Słupca powiat,
-  150 włókas, bought from Count Miączyński by Countess Władysławowa
-  Wielopolska for 225,000 rs. The count selling is the Miączyński the era's
-  ownership line puts between Włodzimierz's death in 1879 and the Wielopolska
-  ownership "by 1892": his nephew Władysław Miączyński. The buyer the press
-  names by her husband's name – "Władysławowa Wielopolska", the wife of a
-  Władysław Wielopolski – where the era's ownership line has "Countess Maria
-  Wielopolska"; the two belong together if Maria is the wife the married form
-  points to, and the question is open (NEEDS_CONFIRMATION, "The newspapers").
-  Only this notice is transcribed, at the editor's word; the crop carries
-  with it the column's opening note above the notice, on the spiritus trade
-  in Warsaw, which is not part of the item.
+  Lutostański for 31,000 silver rubles. "Majątek Trąbczyn, w pow. słupeckim,
+  150 włók, nabyła od hr. Miączyńskiego hr. Władysławowa Wielopolska za
+  225,000 rs.": the Trąbczyn estate in the Słupca powiat, of 150 włókas, was
+  bought from Count Miączyński by Countess Władysławowa Wielopolska, the wife
+  of a Władysław Wielopolski, for 225,000 silver rubles. The włóka is the old
+  Polish field measure.
 account_de: >-
-  Eine Verkaufsnotiz in der „Kronika ekonomiczna“ der Warschauer Tageszeitung
-  Słowo, Nr. 2 vom 4. Januar 1892 (das elfte Jahr der Zeitung), Seite 3: zwei
-  Zeilen, die die Verkäufe von Grundbesitz zusammenstellen, von denen die
-  Zeitung Kenntnis erhalten hat. Das Gut Tomisławice im Powiat Turek, 17
-  Włókas, kaufte von Herrn Repphan Herr Lutostański für 31.000 Rs. – den
-  Rubel in Silber (rubli srebrnych), das Geld des Russischen Reiches im
-  Königreich Polen; die Włóka ist das alte polnische Feldmaß. Dann Trąbczyn: „Majątek Trąbczyn, w pow. słupeckim, 150 włók, nabyła
-  od hr. Miączyńskiego hr. Władysławowa Wielopolska za 225,000 rs.“ – das
-  Gut Trąbczyn im Powiat Słupca, 150 Włókas, gekauft von Graf Miączyński
-  durch Gräfin Władysławowa Wielopolska für 225.000 Rs. Der verkaufende Graf
-  ist der Miączyński, den die Besitzzeile der Epoche zwischen Włodzimierzs
-  Tod 1879 und dem Wielopolska-Besitz „bis 1892“ setzt: sein Neffe Władysław
-  Miączyński. Die Käuferin nennt die Presse nach dem Namen ihres Mannes –
-  „Władysławowa Wielopolska“, die Frau eines Władysław Wielopolski —, wo die
-  Besitzzeile der Epoche „Gräfin Maria Wielopolska“ hat; die beiden gehören
-  zusammen, wenn Maria die Frau ist, auf die die verheiratete Form weist, und
-  die Frage ist offen (NEEDS_CONFIRMATION, „The newspapers“). Nur diese
-  Notiz ist transkribiert, auf des Editors Wort; der Ausschnitt zeigt über
-  ihr auch die einleitende Notiz der Kolumne über den Spiritushandel in
-  Warschau, die nicht zum Artikel gehört.
+  Eine Notiz in der „Kronika ekonomiczna“ der Warschauer Tageszeitung Słowo,
+  Nr. 2 vom 4. Januar 1892, Seite 3, die zwei Verkäufe von Landgütern
+  zusammenfasst. Das Gut Tomisławice im Powiat Turek, 17 Włókas groß, kaufte
+  Herr Lutostański von Herrn Repphan für 31.000 Silberrubel. „Majątek
+  Trąbczyn, w pow. słupeckim, 150 włók, nabyła od hr. Miączyńskiego hr.
+  Władysławowa Wielopolska za 225,000 rs.“: Das Gut Trąbczyn im Powiat Słupca,
+  150 Włókas groß, kaufte Gräfin Władysławowa Wielopolska, die Frau eines
+  Władysław Wielopolski, vom Grafen Miączyński für 225.000 Silberrubel. Die
+  Włóka ist das alte polnische Feldmaß.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Two sale notices in the economic chronicle of the Warsaw daily Słowo of 4
-  January 1892 – Tomisławice in the Turek powiat, and Trąbczyn: the estate of 150 włókas in the Słupca powiat, bought from Count
-  Miączyński by Countess Władysławowa Wielopolska for 225,000 rubles, the
-  press witness of its passing out of the Miączyński family's hands.
+  A notice in the Warsaw daily Słowo of 4 January 1892: Trąbczyn sold by Count
+  Miączyński to Countess Władysławowa Wielopolska for 225,000 rubles.
 brief_de: >-
-  Zwei Verkaufsnotizen in der ökonomischen Kronika der Warschauer Tageszeitung
-  Słowo vom 4. Januar 1892 – Tomisławice im Powiat Turek, und Trąbczyn, 150 Włókas im Powiat Słupca, gekauft vom Grafen
-  Miączyński durch die Gräfin Władysławowa Wielopolska für 225.000 Rubel: das
-  Pressezeugnis dafür, dass es aus der Hand der Familie Miączyński ging.
+  Eine Notiz der Warschauer Tageszeitung Słowo vom 4. Januar 1892: Trąbczyn
+  vom Grafen Miączyński an Gräfin Władysławowa Wielopolska für 225.000 Rubel
+  verkauft.
 
 # A detailed summary of the contents, written from a reading of the whole
 # item (kept even though the item is shown whole: the summaries are what a

@@ -110,3 +110,13 @@ lapsed at the end of 2013. The text is in the public domain. Shown whole
   and the literature it names, not on a register the edition holds
   (NEEDS_CONFIRMATION, "The newspapers": Dr. Lidmanowski's dates).
 - Publishing at the editor's word, as always.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The article does not name the district surveyed; the 1912 study took the
+> Słupca powiat, Trąbczyn's own, and the two are one work of observation, made
+> in the area. What it records is what the documents do not say. Signed in the
+> issue's table of contents "Lidmanowski K. Dr. z Zagórowa". The steps are of
+> three-fifths of a metre.

@@ -45,7 +45,20 @@ session.
 4. **Pilot:** one holding page, ten summaries, two literature accounts, a
    handful of bios and glossary entries, before and after on one page for the
    editor; their rulings go into EDITORS_VOICE.
-5. **Rollout by kind:** holdings, literature, newspapers and links, people,
+   Done 2026-10-29: the pilot (`review/voice/pilot.html`) and the editor's
+   rulings (EDITORS_VOICE, "The editor's rulings on the pilot").
+5. **Rollout by kind:** progress -
+   - dashes, mechanically (`pipeline/review/dash_fix.py`), all but the
+     summaries: done 2026-10-29;
+   - the literature's accounts and cards, all 39 works
+     (`pipeline/review/set_work_texts.py`, batches in `review/voice/`): done
+     2026-10-29, median sentence 29 words from 50;
+   - the newspapers' accounts and cards, all 12 items: done 2026-10-29, 24
+     words from 53;
+   - still to do: the hand-made links' sentences, the holdings' pages, the
+     detailed summaries of the five works shown by summary, the document
+     summaries (with their dashes), the people, genealogy and glossary (light).
+   The order planned: holdings, literature, newspapers and links, people,
    glossary, then the summaries in batches of about fifty. Each batch is
    rebuilt and verified; a changed summary is claim-checked again and carried
    into every place it is kept (WORKING_NOTES, "Where one summary is kept").

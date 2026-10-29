@@ -122,3 +122,11 @@ years from first publication, so it ended in 2004. Shown whole on the site
 clipping ("Assume the rights are approved"), the source known. The item's
 English is Claude's (the standing caveat on the page), made in the session
 that read the clipping.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The completive z- of "Zhitleryzowani" is the print's own, the word set
+> solid. The print's "Emilienhain" stands against the documents' "Emilienheim"
+> (NEEDS_CONFIRMATION).

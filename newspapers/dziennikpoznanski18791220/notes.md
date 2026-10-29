@@ -116,3 +116,13 @@ OCR.
   "The newspapers").
 - "Pawłowa" — the nephew's seat: a place of the register or not.
 - Publishing at the editor's word, as always.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It names the heir whose succession the wlodzimierz era's ownership line
+> records. Its date of death, the 18th of December, sides with Żychliński
+> (1891, p. 222) against the records, which put the Count's death on the 20th
+> – the question already open (NEEDS_CONFIRMATION, "The literature" and "The
+> newspapers": the documents first). The body travelled by rail.

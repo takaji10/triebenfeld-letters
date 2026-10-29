@@ -8,7 +8,8 @@ old account that said why the work is on the site - the editor's ruling of
 appended to notes.md under "## Why it is here", with the date; the old
 account itself stays in git.
 
-Usage: python pipeline/review/set_work_texts.py <batch.yml> [--dry]
+Usage: python pipeline/review/set_work_texts.py <batch.yml> [--dry] [--newspapers]
+(--newspapers: the slugs are items of newspapers/, item.yml)
 """
 import os, re, sys, textwrap
 import yaml
@@ -37,7 +38,8 @@ def main():
     batch = yaml.safe_load(open(sys.argv[1], encoding='utf-8'))
     dry = '--dry' in sys.argv
     for slug, v in batch.items():
-        p = os.path.join(ROOT, 'literature', slug, 'work.yml')
+        section, fname = ('newspapers', 'item.yml') if '--newspapers' in sys.argv else ('literature', 'work.yml')
+        p = os.path.join(ROOT, section, slug, fname)
         t = open(p, encoding='utf-8', newline='').read()
         for k in KEYS:
             if v.get(k):
@@ -46,7 +48,7 @@ def main():
         if not dry:
             open(p, 'w', encoding='utf-8', newline='').write(t)
         if v.get('why'):
-            n = os.path.join(ROOT, 'literature', slug, 'notes.md')
+            n = os.path.join(ROOT, section, slug, 'notes.md')
             add = ('\n## Why it is here\n\n'
                    'Kept from the work\'s account, which said it on the page until the '
                    'voice review of 2026-10-29 (the editor: the reasoning for why a work '

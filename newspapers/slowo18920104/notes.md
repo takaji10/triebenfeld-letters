@@ -90,3 +90,15 @@ is needed"; Tesseract may be used.
   "Countess Maria Wielopolska" of the era's ownership line name one woman
   (NEEDS_CONFIRMATION, "The newspapers").
 - Publishing at the editor's word, as always.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The count selling is the Miączyński the era's ownership line puts between
+> Włodzimierz's death in 1879 and the Wielopolska ownership "by 1892": his
+> nephew Władysław. The ownership line has "Countess Maria Wielopolska"; the
+> two belong together if Maria is the wife the married form points to – open
+> (NEEDS_CONFIRMATION, "The newspapers"). Only this notice is transcribed, at
+> the editor's word; the crop carries the column's opening note on the
+> spiritus trade, which is not part of the item.

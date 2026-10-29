@@ -172,3 +172,21 @@ directly, with the German term (70 years past an author's death) and the
 WBC record's copyright notice named. The editor's word (2026-10-22): "Show
 it, no need to flag the rights." The item is shown whole; no rights entry
 was added anywhere.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> From 1 November 1939 to 1945 the party's organ in Posen ("Verkündungsblatt
+> des Reichsstatthalters"), the successor of the Posener Tageblatt, printed by
+> the NS-Gauverlag; kept as a witness of what was printed about the area in
+> 1942. Both names are the editor's rulings of 2026-10-22: Drommin is the
+> wartime name of the rural commune of Trąbczyn; Lazinsk is the German-era
+> name of Łazińsk, the colony the register records as Trąbczyńskie Stare
+> Olędry (also Łazińsk, Łaziny, Staro-Łazińska, Kolonia Łazińskie). Breyer's
+> notebook of 1936 distinguishes Alt and Nowo Łazinsk. The date 1718 stands
+> against the records (see the summary). The grave tablets are found "long
+> forgotten in the great German Reich". Mielke is the teacher of Breyer's
+> notebook of July 1936 ("Lehrer i. Łazinsk: Mielke seit 1925", APP
+> 53/968/0/-/669); the two are witnesses to the same place and man six years
+> apart.

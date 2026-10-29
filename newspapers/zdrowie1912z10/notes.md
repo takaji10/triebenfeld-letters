@@ -105,3 +105,11 @@ lapsed at the end of 2013. The text is in the public domain. Shown whole
   and the literature it names (NEEDS_CONFIRMATION, shared with the 1914
   item).
 - Publishing at the editor's word, as always.
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> It is the area named by its own observer, and a witness of the diet of the
+> very people the court books, registers and tables name. His study of rural
+> dwellings of 1914 stands beside it in the Newspapers.

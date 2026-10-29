@@ -133,3 +133,10 @@ approved by the editor** (2026-10-22: "Assume the rights are approved").
 The item is shown whole, the clipping carried on its page. The Licences
 page names open licences only and was not touched (the Mielewczyk
 precedent).
+
+## Why it is here
+
+Kept from the work's account, which said it on the page until the voice review of 2026-10-29 (the editor: the reasoning for why a work is relevant is for the notes, not the reader):
+
+> The report tells the event with a "yesterday" of its own dispatch, the issue
+> of 6 May carrying it nine days on.
