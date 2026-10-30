@@ -31,8 +31,11 @@ powiecie konińskim").
   under their five grouping headers, with water and "drogi i place pod
   zabudowaniami" standing outside the groups as on the sheet; the Polish as
   written, read by Claude from the scan, and an English column, to be
-  checked by the editor. The colours are the scan's (fill, pencil line
-  and every block's coloured edge strip sampled; in the render the edge
+  checked by the editor. The colours: nine `fill`s are the editor's
+  codes, given 2026-10-30 (manorial, church, peasant, colonists',
+  coniferous, deciduous, copses, dry meadows, roads and plots under
+  buildings), the rest the scan's (fill, pencil line and every block's
+  coloured edge strip sampled; in the render the edge
   strip is used for water's frame alone — at the editor's word it is the
   one block with a thicker border, a thinner darker line on its weaker
   sides). The three patterned blocks (orchard's plain dots, the wet

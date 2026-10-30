@@ -537,28 +537,28 @@ kozlowski1861:
         en: Manorial
         de: Vorwerksland
         swatch:
-          fill: '#decdb2'
+          fill: '#ddcab0'
           edge: '#cd968c'
           line: '#857565'
       - pl: Kościelne
         en: Church
         de: Kirchenland
         swatch:
-          fill: '#d2ccb1'
+          fill: '#c9c4ac'
           edge: '#b0afa6'
           line: '#837c6b'
       - pl: Włościańskie
         en: Peasant
         de: Bauernland
         swatch:
-          fill: '#d9cca1'
+          fill: '#dacea2'
           edge: '#d1bf71'
           line: '#a39a78'
       - pl: Kolonialne
         en: Colonists'
         de: Kolonistenland
         swatch:
-          fill: '#dccba3'
+          fill: '#dcc9a0'
           edge: '#c7a073'
           line: '#8b7b66'
     - group:
@@ -603,21 +603,21 @@ kozlowski1861:
         en: Coniferous
         de: Nadelholz
         swatch:
-          fill: '#afa793'
+          fill: '#b6ad98'
           edge: '#948c7a'
           line: '#71695a'
       - pl: liściowe
         en: Deciduous
         de: Laubholz
         swatch:
-          fill: '#b1ae9b'
+          fill: '#a7aa9b'
           edge: '#9c9e90'
           line: '#8b897a'
       - pl: zagaje
         en: Copses
         de: Gehölze
         swatch:
-          fill: '#cbc1a7'
+          fill: '#c3b9a0'
           edge: '#b1a792'
           line: '#a09780'
     - group:
@@ -629,7 +629,7 @@ kozlowski1861:
         en: Dry
         de: trocken
         swatch:
-          fill: '#d1cdb5'
+          fill: '#c9c9b1'
           edge: '#bcc29e'
           line: '#838871'
       - pl: mokre
@@ -647,7 +647,7 @@ kozlowski1861:
         en: Roads and plots under buildings
         de: Wege und Plätze unter Gebäuden
         swatch:
-          fill: '#cfba90'
+          fill: '#cebb93'
           edge: '#cebb91'
           line: '#ac9a7e'
     - group:

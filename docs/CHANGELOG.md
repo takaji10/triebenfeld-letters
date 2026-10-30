@@ -3950,5 +3950,10 @@ footer on every page. Changed, in both languages:
   block the same thin outline — water's frame alone built up (the thick
   blue band top and left, a thinner darker line on the other two) — the
   squares a little larger, and the caption under the table taken off (no
-  explainer text). Verified:
+  explainer text). The editor's colour codes followed (same day): nine of
+  the fills given outright — Manorial ddcab0, Church c9c4ac, Peasant
+  dacea2, Colonists' dcc9a0, Coniferous b6ad98, Deciduous a7aa9b, Copses
+  c3b9a0, dry Meadows c9c9b1, Roads and plots under buildings cebb93 —
+  set as given, the table's other colours still the scan's samples; the
+  wet blocks' blue dashes laid further apart so none touch. Verified:
   build, `verify_site.py`; rendered in the headless browser.
