@@ -40,7 +40,7 @@ rows:
     en: Water
     de: Gewässer
   items:
-  - swatch: {fill: '#adb7af', edge: '#7b8b97', line: '#6a6b63', pattern: wash, inner: '#c6c8b6'}
+  - swatch: {fill: '#adb7af', edge: '#7b8b97', line: '#6a6b63', line2: '#66757e', pattern: wash, inner: '#c6c8b6'}
 - group:
     pl: Ogrody
     en: Gardens

@@ -72,7 +72,7 @@ layout: default
           {%- if row.group and solo %}
           {%- assign it = row.items[0] %}
           <tr class="legend-group legend-solo">
-            <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}"></span></td>
+            <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}{% if it.swatch.line2 %};--line2:{{ it.swatch.line2 }}{% endif %}"></span></td>
             <th scope="row" colspan="2"><span lang="pl" class="legend-pl">{{ row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th>
           </tr>
           {%- elsif row.group %}
@@ -83,7 +83,7 @@ layout: default
           {%- unless solo %}
           {%- for it in row.items %}
           <tr>
-            <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}"></span></td>
+            <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}{% if it.swatch.line2 %};--line2:{{ it.swatch.line2 }}{% endif %}"></span></td>
             <td lang="pl" class="legend-pl">{{ it.pl }}</td>
             <td>{% if lang == 'de' %}{{ it.de }}{% else %}{{ it.en }}{% endif %}</td>
           </tr>
@@ -145,9 +145,9 @@ layout: default
 .legend-group .legend-pl { font-weight: 400; }
 .map-legend-note { font-family: var(--sans); font-size: .78rem; color: var(--ink-soft); margin: .5rem 0 0; }
 .sw { display: block; box-sizing: border-box; width: 3.2rem; height: 1.5rem; background-color: var(--fill); border: 1px solid var(--line); border-top: 4px solid var(--edge); border-left: 4px solid var(--edge); }
-.sw-wash { background-image: linear-gradient(var(--inner), var(--inner)); background-repeat: no-repeat; background-position: 100% 100%; background-size: 70% 60%; }
-.sw-dots { background-image: radial-gradient(circle, var(--ink) 0 1.5px, transparent 2px); background-size: 20% 33%; }
-.sw-wet { background-image: linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)); background-repeat: no-repeat; background-size: 30% 2px, 22% 2px, 16% 2px, 28% 2px, 12% 2px; background-position: 14% 22%, 56% 20%, 18% 52%, 60% 56%, 34% 84%; }
+.sw-wash { border-color: var(--edge) var(--line2) var(--line2) var(--edge); border-width: 4px 2px 2px 4px; background-image: linear-gradient(var(--inner), var(--inner)); background-repeat: no-repeat; background-position: 100% 100%; background-size: 70% 60%; }
+.sw-dots { background-image: radial-gradient(circle, var(--ink) 0 2px, transparent 2.5px); background-size: 18% 34%; }
+.sw-wet { background-image: linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)); background-repeat: no-repeat; background-size: 26% 2px, 18% 2px, 12% 2px, 8.5% 2px, 26% 2px, 14% 2px, 20% 2px, 9.5% 2px, 22% 2px, 30% 2px; background-position: 10% 24%, 34% 22%, 52% 26%, 66% 18%, 16% 58%, 30% 52%, 42% 60%, 56% 55%, 22% 88%, 58% 82%; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .map-place { font-weight: 600; }
 .map-refs { display: block; font-family: var(--sans); font-size: .8rem; color: var(--ink-soft); margin-top: .15rem; }

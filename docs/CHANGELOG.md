@@ -3944,5 +3944,9 @@ footer on every page. Changed, in both languages:
   legend.yml`, built into the page's data by `map_pages.py`, rendered in
   `_layouts/map.html` under the mark index; new i18n keys, a caption
   recorded in both languages. A map needs nothing: the section shows only
-  where `legend.yml` exists (Łukom 1766 has none on its sheet). Verified:
+  where `legend.yml` exists (Łukom 1766 has none on its sheet). Brought
+  closer to the sheet as the editor noted the patterns (same day): water's
+  frame all round (thick blue top and left, a thinner darker blue on the
+  other two), the orchard's dots larger, ten irregular dashes for the wet
+  blocks. Verified:
   build, `verify_site.py`; rendered in the headless browser.
