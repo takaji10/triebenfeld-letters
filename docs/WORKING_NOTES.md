@@ -2812,3 +2812,12 @@ The editor's ruling of the day, in three parts; the work is in the branch
   headline as printed, or a few words), the facts are one line, the
   description is the brief, and what a page says about itself is one caveat
   at most. `pipeline/review/set_np_titles.py` set the new titles once.
+
+- **Page titles (2026-10-30, the editor).** The tab title of a page is a
+  short form of its name, never a slug ("Echotureckie1931018") and never a
+  paragraph. A newspaper item's page had no `title:` and the layout fell back
+  to the slug; a holding's tab used its whole translated title (up to 660
+  characters). Now the newspaper pages carry `title_en` / `title_de`, and a
+  holding with a long `card_title` has `short_title` / `short_title_de`
+  (`set_short_titles.py` set 24 once). After a build, list every page's
+  `<title>`: no slug-like one, none over 70 characters.

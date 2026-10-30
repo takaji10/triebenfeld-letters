@@ -30,6 +30,10 @@ and the three fields the machine cannot infer:
   Sources page. Not the file's own heading with a gloss ("Acta betr: ... - the
   ministry's file on ..."): the editor found that unhelpful (2026-10-01). The
   archive's own title can be kept as `archive_title`, which nothing displays.
+- **`short_title`** and **`short_title_de`** — a short form of the translated
+  name (about 55 characters at most), for the browser tab and search results,
+  where `card_title` is long. The page's heading keeps the whole name.
+  Without it the tab uses `card_title`; never the reference.
 - **`languages`** — the languages of the documents, the main one first, as slugs
   of `reference/languages.yml` (`[la, pl]`). Shown in the holding's header.
   Not described in the text.
