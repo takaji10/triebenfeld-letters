@@ -177,6 +177,7 @@ def main():
             'title': m.get('title'),
             'title_en': m.get('title_en'),
             'maker': m.get('maker'),
+            'scale': m.get('scale'),
             'year': m.get('year'),
             'kind': kind,
             'kind_en': KIND_EN.get(kind, kind),

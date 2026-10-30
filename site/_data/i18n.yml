@@ -140,6 +140,7 @@ en:
   map_holder: Holder
   map_reference: Reference
   map_maker: Maker
+  map_scale: Scale
   map_kind: Kind
   map_source_link: The map at the archive
   map_marks_h2: Index
@@ -528,6 +529,7 @@ de:
   map_holder: Aufbewahrung
   map_reference: Signatur
   map_maker: Kartograf
+  map_scale: Maßstab
   map_kind: Art
   map_source_link: Die Karte im Archiv
   map_marks_h2: Register

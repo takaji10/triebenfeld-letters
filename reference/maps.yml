@@ -123,7 +123,8 @@ maps:
     maker: "Seweryn Kozłowski"
     holder: "Archiwum Państwowe w Poznaniu (APP)"
     reference: "1/402/0/-/536-23"
-    url: null           # the archive's link for the unit: not yet given
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24675961"
+    scale: "1:20 000"   # the scale bar on the sheet (Podziałka Nowo Polska), confirmed by the editor 2026-10-30
     # The editor's copy is the archive's JPG, the very image georeferenced on
     # MapWarper (70818, "Trąbczyn Estate, 1861"; same 15757 x 12140).
     orientation: north-up

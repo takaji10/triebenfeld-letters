@@ -30,6 +30,7 @@ layout: default
     <dl class="source-facts map-facts">
       <div><dt>{{ t.map_kind }}</dt><dd>{% if lang == 'de' %}{{ m.kind_de }}{% else %}{{ m.kind_en }}{% endif %}{% if m.year %}, {{ m.year }}{% endif %}</dd></div>
       {%- if m.maker %}<div><dt>{{ t.map_maker }}</dt><dd>{{ m.maker }}</dd></div>{% endif -%}
+      {%- if m.scale %}<div><dt>{{ t.map_scale }}</dt><dd>{{ m.scale }}</dd></div>{% endif -%}
       {%- if m.holder %}<div><dt>{{ t.map_holder }}</dt><dd>{{ m.holder }}{% if m.reference %}, {% if m.url %}<a href="{{ m.url }}" rel="noopener">{{ m.reference }}</a>{% else %}{{ m.reference }}{% endif %}{% endif %}</dd></div>{% endif -%}
     </dl>
 

@@ -36,7 +36,9 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
 `<map>` is the map's key in `reference/maps.yml` (`lukom1766`).
 
 1. **The register.** Fill the map's entry in `reference/maps.yml`: title
-   (and title_en), maker, holder, reference, url; `original` (the file on
+   (and title_en), maker, **scale** (as printed, "1:20 000", from the scale
+   bar or the editor; left out when not known, never guessed), holder,
+   reference, url; `original` (the file on
    J:, **forward slashes**), `width` and `height`; `crop` (null for the
    whole map, else `[left, top, width, height]` round the gazetteer's area in
    the original's pixels); `orientation` and `view_rotation` (the turn that
