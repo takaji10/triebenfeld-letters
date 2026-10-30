@@ -1,0 +1,20 @@
+# The languages a holding's documents are written in (editor, 2026-10-30):
+# `languages:` in a unit.yml lists one or more of these slugs, the language
+# most of the text is in first. Shown in the holding's header.
+
+languages:
+  - slug: pl
+    en: Polish
+    de: Polnisch
+  - slug: la
+    en: Latin
+    de: Latein
+  - slug: de
+    en: German
+    de: Deutsch
+  - slug: fr
+    en: French
+    de: Französisch
+  - slug: ru
+    en: Russian
+    de: Russisch

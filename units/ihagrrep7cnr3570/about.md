@@ -10,9 +10,7 @@ The file contains, in order: a letter of Hoym of 30 July 1796 asking that the ch
 
 Hoym's report proposes for Hohenlohe-Ingelfingen the estates confiscated from Anton von Prusimski: Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny, the Trąbczyn Hauland and Brzyce [[1]]. The six officers who received other estates are von Sanitz, Blücher, von Dolffs, von Pontanus, von Holtzendorff and von Larisch [[1]].
 
-### Form and language
-
-The papers are drafts and copies in German. Registry notes at the front of the file record that it was called up in 1826 in connection with a claim by von Sanitz for his lost estates. Twelve pages, apparently the charters for the six officers, have not been transcribed and are shown as scans only. The draft charter and one of Hoym's letters are partly garbled in the transcription. <!-- context -->
+The papers are drafts and copies in German. Registry notes at the front of the file record that it was called up in 1826 in connection with a claim by von Sanitz for his lost estates. Twelve pages, apparently the charters for the six officers, have not been transcribed and are shown as scans only. <!-- context -->
 
 ### Related holdings
 

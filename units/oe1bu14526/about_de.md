@@ -28,9 +28,7 @@ Die Erbpachtverträge haben gemeinsame Bedingungen: Einstandsgeld und jährliche
 
 Glenck verkaufte das Vorwerk Szetlewek an den Müller Samuel Lucke für 12.333 Rthl, von denen 8.333 Rthl an den Pfandinhaber des Gutes, von Radzinski, gingen [[25]]. Drei weitere Dokumente betreffen eine frühere Vereinbarung vom 20. November 1798 über die Besiedlung des Gutes, ihre Aufhebung und den Streit mit dem Pfandinhaber [[26, 27, 28]].
 
-### Form und Sprache
-
-Die Dokumente sind deutsch. Polnische Stellen kommen vor, wo ein Vertrag in dieser Sprache verlesen oder aufgenommen wurde, und ein Dokument hat ein lateinisches und polnisches Original. Vollmachten, königliche Bestätigungen und notarielle Beglaubigungen liegen bei den Verträgen, zu denen sie gehören, und sind Teil desselben Dokuments. Das längste umfasst 28 Seiten. Die Dokumente behalten die Zählung des Archivs, die nicht ihren Daten folgt. <!-- context -->
+Vollmachten, königliche Bestätigungen und notarielle Beglaubigungen liegen bei den Verträgen, zu denen sie gehören, und sind Teil desselben Dokuments. Die Dokumente behalten die Zählung des Archivs, die nicht ihren Daten folgt. <!-- context -->
 
 ### Verwandte Bestände
 

@@ -18,10 +18,6 @@ Die letzten Seiten sind ein Verzeichnis seiner Aufnahmen: Gegenstand, Blende, Fi
 
 Das zweite Heft [[2]] geht über manches davon noch einmal und fügt mehr hinzu. Vor etwa 65 Jahren seien im März sehr viele aus Łazińsk nach Russland gegangen, einen Monat zu Fuß; manche kamen kurz vor dem Krieg aus Wolhynien zurück. Włodzimierów sei vor 25 Jahren vom Gut Trąbczyn parzelliert worden, dessen Besitzer ein Graf Miączyński war, fast alles an Deutsche, und das Restgut von etwa 60 Morgen ging an Jesse, der aus Białobłoty kam. Waldland des Gutes, von einem Juden gekauft und fünf oder sechs Jahre vor dem Krieg an Deutsche weiterverkauft, wurde die Neusiedlung „Trompczyn D.“ [[2]]. Unter dem Stichwort „Kolonisationskommission“ notiert Breyer, viele seien weggezogen und hätten gutes, drainiertes Land bekommen, und in Ostfelde bei Września seien die Deutschen aus Łazińsk von den Polen für ein paar Groschen vertrieben worden [[2]]. Breyer notiert auch die Sprache von Obory und das Kaschubische einer früheren Generation, die Servitute der Dörfer, die Lehrer und Küster von 1895 bis 1928 und auf der letzten Seite die Jahre 1744, 1782 und 1790 bei Züllichau, Alt-Kazimierka und Józefów, dieses „vom Gute Chocz“, dessen Besitzer Lipski hieß [[2]].
 
-### Form und Sprache
-
-Bleistiftnotizen in deutscher Sprache, in lateinischer Schrift, Flurnamen und einige Notizen in deutscher Kurrentschrift; sie sind kurz, stark abgekürzt und geben die Worte der Siedler wieder. Breyer trennt seine Notizen durch einen kurzen Strich mit einem kleinen Kreis und zeichnete die Formen von Häusern, Scheunen und Grabbrettern. Der Bleistift ist blass, auf den lila Innenseiten der Umschläge sehr blass, so dass viele Wörter nur mit Zweifel gelesen sind. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Vorladung von 1860 gegen die Kolonisten der beiden Łazińska-Kolonien, aus demselben Nachlass Albert Breyers: [[unit:app539680783]]. Breyers Abschriften zur Parzellierung von Zagórów und Trąbczyn 1806: [[unit:app539680801]]. <!-- context -->

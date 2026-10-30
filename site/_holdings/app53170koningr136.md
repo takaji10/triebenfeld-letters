@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr136"
-title: "53/17/0/-/Konin Gr.136"
+title: "Konin Municipal Court: Relationes-oblatae [protocollon] 1754"
 lang: en
 permalink: "/sources/app53170koningr136/"
 alt_url: "/de/quellen/app53170koningr136/"
@@ -27,9 +27,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The record.** On Friday 12 July 1754 the court messenger Bartłomiej Szeptycki of Trąbczyn came before the municipal court office at Konin and declared that on the Tuesday before, at the request of Katarzyna Prusimska, he had gone with the two noblemen to Trąbczyn. From there he had gone to the villages of Osiny, Łazy, Nowa Wieś, the Olęder settlement and the glassworks, and then to the woods. He declared that he had seen everything as it is written down. The record names her as the widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates <span class="cite">[<a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">1</a>]</span>.
 
-### Form and language
-
-The entry fills leaves 121 to 123. **Its middle is not transcribed**: after the malthouse, a third of the way down leaf 121 verso, the scans have a numbered description of the village houses, one by one, which runs over the whole of leaf 122 to the top of leaf 122 verso. That part is in neither the transcription nor the translation, and leaf 122 is not shown. The text takes up again at "Wieś Nowa". The Polish is the building language of the time and is given as the editor transcribed it. The Latin record at the end is abbreviated; the transcription fills the abbreviations out. <!-- context -->
+**Its middle is not transcribed**: after the malthouse, a third of the way down leaf 121 verso, the scans have a numbered description of the village houses, one by one, which runs over the whole of leaf 122 to the top of leaf 122 verso. That part is in neither the transcription nor the translation, and leaf 122 is not shown. The text takes up again at "Wieś Nowa". <!-- context -->
 
 ### Related holdings
 
@@ -37,26 +35,12 @@ The same widow's suit over potash, 1763: <a href="{{ '/sources/app536045/' | rel
 
 <!--prepared-->
 
-### Scans
-
-The archive supplied three images: one single page and two images of two facing pages each, which were cut at the fold. One of the five pages, leaf 122 recto, carries none of the transcribed text and is not shown.
-
 ### Transcription
 
-The editor transcribed the entry and supplied it by paragraph, not line by line. The transcription leaves out the description of the village houses in the middle of the entry: the rest of leaf 121 verso after the malthouse, all of leaf 122, and the top of leaf 122 verso.
+The transcription is the editor's own.
 
-### Check against the scans
+Claude then compared the heading, the count of people and leaf 123 with the scans and corrected the transcription where the page is plain. The description of the manor buildings (about 540 words) was not compared.
 
-An AI model (Claude) read against the scans the heading, the count of people on leaf 122 verso and the whole of leaf 123, and corrected sixteen readings. The description of the manor buildings on leaf 121 and at the top of leaf 121 verso, about 540 words, was not compared. Corrections that change the sense: an unknown word, "zelaga", is "żelaza", ironware; two figures in the count are 8, not 6; the woods reach "above Szetlewek", the neighbouring estate; and the gap left before the messenger's name holds his office. Each change is logged with its reason.
+### Translation and summaries
 
-### Division and dating
-
-The entry is one document. It is dated 12 July 1754, the day the report was entered at Konin; the inspection itself was made on 9 July.
-
-### Translation
-
-The English is the editor's own translation and was not made again. It was changed in six places where the text had been corrected. The editor's notes on terms are kept as translator's notes; three that commented on readings since corrected are left out. A line in square brackets marks the place of the part that is not transcribed.
-
-### Summary
-
-The summary was written in German from the Polish and Latin and translated into English. Each of its ten statements was then checked against the document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

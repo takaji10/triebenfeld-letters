@@ -12,10 +12,6 @@ Preußen konfiszierte 1796 die Güter des Starosten Antoni Prusimski und gab Tr�
 
 Unter jedem Eintrag stehen die Namen des Präsidenten Stanisław Małachowski und des Generalsekretärs Jan Łuszczewski [[1, 2]].
 
-### Form und Sprache
-
-Das Register ist eine Reinschrift von Schreiberhand. Die Namen unter den Einträgen hat der Schreiber nach dem Wort „podpisano“ (unterzeichnet) geschrieben, mit den Buchstaben „LS“ für die Stelle des Siegels; beides ist nicht transkribiert. Auf den Seiten 47 und 48 stehen noch drei weitere Einträge, die nicht dazugehören. Der Entwurf der Kommission für den Beschluss vom 21. Juli, mit den daran vorgenommenen Verbesserungen, liegt in ihren Akten: [[unit:agad11740273]]. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Bittschriften der Michalina Dąbska vom Juli 1807 und der Beschlussentwurf der Kommission: [[unit:agad11740273]]. Die Schenkung der Güter an Hohenlohe-Ingelfingen 1796: [[unit:oe1bu14525]] und [[unit:ihagrrep7cnr3570]]. Die Briefe seines Bevollmächtigten Triebenfeld, die den Verlust der Güter 1807 melden: [[unit:oe1bu9454]]. Der spätere Streit darüber, ob die Rückgabe von 1807 die Schulden aufhob, die er auf Trąbczyn aufgenommen hatte, in dem die Fälle Wybickis, Niemojewskis und Wichrowskis wieder angeführt werden: [[unit:iiihamdaiiinr12366]] und [[unit:iiihamdaiiinr12367]]. <!-- context -->

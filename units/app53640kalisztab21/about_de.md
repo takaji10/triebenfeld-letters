@@ -18,9 +18,7 @@ Trąbczyn ist Eintrag 178 dieses Kreises, geschrieben „Trąpczyn“, mit 80 er
 
 Summen haben die Seiten nicht. Den Steuersatz zeigen die Beträge dennoch: In den Kreisen Pyzdry und Kalisch ist die Summe jedes Dorfes ein Vielfaches von 3 Złoty 15 Groschen, auf den Blättern 18 bis 20 ein Vielfaches von 2 Złoty 15 Groschen; nur Städte und zwei weitere Zeilen weichen davon ab. <!-- context -->
 
-### Form und Sprache
-
-Jede Seite ist ein gedrucktes Formular mit vier linierten Spalten, von einer Hand in polnischer Sprache ausgefüllt. Ein Dorf, das mehreren Besitzern gehörte, ist für jeden Anteil einmal eingetragen, unter dem Namen des Besitzers („z Części Zakrzewskiego“, aus dem Anteil Zakrzewskis). Ein dünner Federstrich läuft auf jeder Seite am Rand der Spalten herab, und auf Blatt 20 verso ist neben vier Einträgen ein Kreuz gezogen; es sind wohl die Zeichen dessen, der das Register prüfte. Der Umschlag trägt ein Schild, „Podymne z Wojewodz: Kalisk: Raty Sto Jańsk: 1789“. <!-- context -->
+Ein Dorf, das mehreren Besitzern gehörte, ist für jeden Anteil einmal eingetragen, unter dem Namen des Besitzers („z Części Zakrzewskiego“, aus dem Anteil Zakrzewskis). <!-- context -->
 
 ### Verwandte Bestände
 

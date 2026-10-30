@@ -16,9 +16,7 @@ Trąbczyn lay in the Kingdom of Poland, of which the Russian Emperor was king. H
 
 The scans end with that letter. They do not show whether Weigel was paid. <!-- context -->
 
-### Form and language
-
-The letters to Schmidt are the originals he received, with the letterhead of the Kingdom's foreign affairs or the signature and address of the sender; Engel's letter is a copy. The three pieces exchanged between Lubecki and Weigel are copies. Beside each of Lubecki's Polish letters stands a German translation of the time, written in a second column; it is not transcribed here. <!-- context -->
+**Originals and copies.** The letters to Schmidt are the originals he received, with the letterhead of the Kingdom's foreign affairs or the signature and address of the sender; Engel's letter is a copy. The three pieces exchanged between Lubecki and Weigel are copies. Beside each of Lubecki's Polish letters stands a German translation of the time, written in a second column; it is not transcribed here. <!-- context -->
 
 ### Related holdings
 

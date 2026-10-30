@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr116"
-title: "53/17/0/-/Konin Gr.116"
+title: "Konin Municipal Court: Relationes [protocollon] 1775-1777"
 lang: en
 permalink: "/sources/app53170koningr116/"
 alt_url: "/de/quellen/app53170koningr116/"
@@ -29,9 +29,7 @@ The decree pronounced in default of Prusimski, for which his own men searched in
 
 The land court's decree of October 1777 cites a search that Chełmski made himself at the municipal court of Konin in October of that year. The last entry here answers to it and is dated from it: <a href="{{ '/sources/app536046/' | relative_url }}">53/6/0/-/46</a>. That decree ordered Prusimski to bring the commission's decree to Konin, where its text now stands. <!-- context -->
 
-### Form and language
-
-Each entry is a few lines among many others on its page; the pages are shown whole and the other entries are not transcribed. The Latin is heavily abbreviated and the transcription writes it out. The signatures are autograph and in Polish, except Rajewicz's; in three of them a word is not read and is marked. The clerk's Latin calls Kwilecki and Umiński "dapifer", pantler; they sign as "cześnik", cup-bearer, which is also what the commission's decree calls them. Five of the twelve entries have no dated heading of a sitting on a photographed page; they are dated from the headings before and after them or, for the last, from the land court's decree, and each says so. <!-- context -->
+**Notes on the entries.** The signatures are autograph and in Polish, except Rajewicz's; in three of them a word is not read and is marked. The clerk's Latin calls Kwilecki and Umiński "dapifer", pantler; they sign as "cześnik", cup-bearer, which is also what the commission's decree calls them. Five of the twelve entries have no dated heading of a sitting on a photographed page; they are dated from the headings before and after them or, for the last, from the land court's decree, and each says so. <!-- context -->
 
 ### Related holdings
 
@@ -39,26 +37,10 @@ The commission's decree: <a href="{{ '/sources/app53170koningr145/' | relative_u
 
 <!--prepared-->
 
-### Scans
-
-The folder has nine photographs of this book, each showing two facing pages. Each was cut at the fold. Thirteen of the eighteen halves carry an entry that is transcribed and are shown whole; five are left out. The photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
-
 ### Transcription
 
-The editor transcribed the entries that concern the boundary commission and supplied them by paragraph, with the Latin written out.
+The transcription is the editor's own. The Latin abbreviations are written out. Claude then compared the whole transcription with the scans and corrected it where the page is plain.
 
-### Check against the scans
+### Translation and summaries
 
-The entries are short, and an AI model (Claude) read all of them against the scans and corrected 18 readings. Those that change the sense: Dąmbski is the "palatine", the voivode himself, and the heading of the commissioners' protest does not name a president; the Starost of Inowrocław is Brzeziński; and the four headings that ended in an unread word end in "Manifestatur" or "Remanifestatur", protests and counter-protests. The signatures under seven entries, and the word "Vacuum" with the signature under it in two more, were added. Each change is logged with its reason.
-
-### Division and dating
-
-Each entry is a document; the three notes of the sitting of 16 August 1775 are one. Three documents are a heading under which nothing was written. Three entries are dated by the line "Actum in Conin" directly above them, and three by the heading of their sitting elsewhere on the leaf. Six have no dated heading on a photographed page: four are dated to the month from the headings before and after them, one to the year from its place in the book, and the last to October 1777 from the land court's decree that cites it. Each says so.
-
-### Translation
-
-The English is the editor's own translation and was not made again. It was changed in thirteen places where the text had been corrected, and the signatures were added to it.
-
-### Summaries
-
-The summaries were written in German from the Latin and translated into English. Each of their 37 statements was then checked against its document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

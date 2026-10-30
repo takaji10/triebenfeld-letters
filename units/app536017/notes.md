@@ -97,3 +97,41 @@ against Tomasz.** Hence the date: Monday before St Vitus 1589 = 12 June
   `intake/folds.json` and the pages cut again from it.)
 - The editor's word on the three entries not transcribed.
 - The editor's look at the reading and the English.
+
+## Form and language (taken off the public page, 2026-10-30)
+
+The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
+
+The entry begins halfway down leaf 27 under a heading in large letters, "Łukomski Visionem expediet", and ends in ten lines at the top of leaf 27 verso. The Latin is abbreviated in nearly every word; the transcription fills the abbreviations out, and marks the five places where a word is not fully read. 
+
+Three more entries on the same leaves concern the same people and are not transcribed. The next, on leaves 27 verso and 28, is the same plaintiff's suit against Stanislaus Łukomski in nearly the same words. Two more, on leaves 28 to 29, are suits of Nicolaus and Joannes Trąmpczyński against Albertus. 
+
+The entry has no date of its own. The heading of the sitting stands on leaf 2, which the editor transcribed but which is not among the scans: "Actum in terminis terrestribus particularibus Coninensibus feria se[x?]ta ante festum Sancti Viti Martyris proxima Anno Domini 1589 in Conin celebratis". That is, it was done at the particular land court terms of Konin, held at Konin on a weekday before the feast of Saint Vitus the Martyr (15 June) 1589. The editor read the weekday with a doubt. The decree of 1775 gives the day of these decrees as the Monday before Saint Vitus, which in 1589 was 12 June, and the document is dated from that.
+
+## How it was prepared (the public text before 2026-10-30)
+
+The editor ruled the tab too detailed: it now tells only what an AI decided that affected the text (`prepared:` in unit.yml). The full account, kept here:
+
+### Scans
+
+The archive supplied three images, each showing two facing pages of the bound volume. The entry given here stands on the right page of the first image and the left page of the second; those two were cut at the fold and are kept whole. The other pages carry none of the transcribed text and are not shown.
+
+### Transcription
+
+The editor transcribed the entry and supplied it by paragraph. The hand of 1589 abbreviates nearly every word, and the first reading left most words of the court's order in doubt, with 109 marks of doubt in all. The editor's file also had the end of the entry in two readings, an entry from leaf 22 marked as not relevant, and the heading of the sitting from leaf 2. Leaves 2 and 22 are not among the images. The heading is quoted in the description of this holding; the entry from leaf 22 and the second reading are left out.
+
+### Reading again from the scans
+
+At the editor's request an AI model (Claude) read the entry again from the scans, to put it right where that could be done with confidence. It could, because the three entries that follow on the same pages are orders of the same kind in the same set words, and the next one is the same suit against another defendant nearly word for word. Each phrase was read in all the places it occurs. The whole text was replaced by this reading; the editor's first reading is kept beside it in the log. Five places stay marked as not fully read: the tense of the verb in the heading, one word after "under the penalties", and three words whose endings the clerk did not write.
+
+### Division and dating
+
+The entry is one document. It has no date of its own, and the editor's reading of the weekday in the heading of the sitting is in doubt. The boundary decree of 1775 cites this order with its day, the Monday before Saint Vitus 1589, which was 12 June. The document is dated from that.
+
+### Translation
+
+The editor's English had been made from the first reading and marked 33 places as unresolved. It was revised throughout by Claude to follow the new reading, keeping the editor's terms. The largest change: the court does not set "a mutual term"; it adds one of its messengers, chosen and paid by the defendant, to see where and on whose ground the wrong was done. The editor's notes, each on a word that was then unread, are not used.
+
+### Summary
+
+The summary was written in German from the Latin as read again and translated into English. Each of its nine statements was then checked against the document. All held.

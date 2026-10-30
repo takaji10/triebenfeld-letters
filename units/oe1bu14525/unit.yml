@@ -32,6 +32,8 @@ original_title: "Schenkung umfangreicher Herrschaften und Güter in der neuen Pr
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [deeds-contracts, government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de, pl]
 date_span: 1794-1804
 status: translated         # draft | transcribed | translated | published
 
@@ -128,3 +130,15 @@ translation_note: >-
   Document 21 is partly Polish: an official extract from the Kalisz mortgage
   register of the Duchy of Warsaw, with a Polish heading and dateline wrapped
   around German entries.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-ai-supplied
+  - en: Claude went through the transcription in three passes, correcting misreadings and restoring the order of lines in places, and brought personal names and the King's titles to one spelling, on the editor's instruction. Place names stand in the German form the documents use; the lists and the English give the Polish name.
+    de: Claude ging die Transkription in drei Durchgängen durch, korrigierte Fehllesungen, stellte an einigen Stellen die Zeilenfolge wieder her und brachte auf Anweisung des Herausgebers Personennamen und Titel des Königs auf eine einheitliche Schreibung. Ortsnamen stehen in der deutschen Form der Dokumente; die Verzeichnisse und das Englische geben den polnischen Namen.
+  - en: Catchwords at the foot of pages, which repeat the first word of the next page, were removed from the transcription at the editor's instruction.
+    de: Kustoden am Fuß der Seiten, die das erste Wort der nächsten Seite wiederholen, wurden auf Anweisung des Herausgebers aus der Transkription entfernt.
+  translation:
+  - l-claude
+  - s-claude

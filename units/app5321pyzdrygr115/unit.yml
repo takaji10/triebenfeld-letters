@@ -38,6 +38,8 @@ fonds: Księgi sądu i urzędu grodzkiego w Pyzdrach
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl]
 date_span: 1791-1792
 status: translated        # draft | transcribed | translated | published
 published_tag: ""
@@ -111,3 +113,11 @@ translation_note: >-
   correct (the editor, 2026-10-26); the English keeps the words. A row's
   empty parish cell belongs to the parish named above it. The English renders
   the common words and leaves the names as written.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  translation:
+  - l-claude
+  - s-claude

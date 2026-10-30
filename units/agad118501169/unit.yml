@@ -44,6 +44,8 @@ fonds: II Rada Stanu Królestwa Polskiego
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records, government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [fr]
 date_span: "1834"
 status: translated       # draft | transcribed | translated | published
 published_tag: "" # untagged: cache/translation-raw
@@ -133,3 +135,13 @@ translation_note: >-
   garbles included ("par a Tribunal Suprème", "en vertu daquelle"); the
   report's own slips of grammar stand too. Nothing in the wording was
   normalised.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - en: The text is the archive's own transcript of the report, read against the scans.
+    de: Der Text ist die eigene Transkription des Berichts durch das Archiv, an den Scans nachgelesen.
+  translation:
+  - en: The English is the archive's own translation, read against the French.
+    de: Die englische Fassung ist die eigene Übersetzung des Archivs, am Französischen nachgelesen.
+  - s-claude

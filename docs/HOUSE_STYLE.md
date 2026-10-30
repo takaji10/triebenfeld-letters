@@ -157,12 +157,12 @@ instead quietly go stale.
 ## A holding's own page
 
 Each holding has a page with a full description (`units/<slug>/about.md`) and
-an account of how it was prepared (`process.md`). Both are read by someone
+a short account of how it was prepared (the `prepared:` block of its unit.yml,
+from the sentences of `reference/prepared.yml`). Both are read by someone
 meeting the holding for the first time (editor, 2026-10-01):
 
 - The description reads like an archive's own description of a holding
-  (creator and dates, historical background, contents, form and language,
-  related holdings): impersonal, matter of fact, academic. No narrative
+  (creator and dates, historical background, contents, related holdings): impersonal, matter of fact, academic. No narrative
   devices and no verdicts ("Every attempt failed", "it was damning").
   Headings name the section plainly ("Contents"), not the story ("Three
   attempts"). The editor ruled this on 2026-10-01 after a first, storytelling
@@ -174,7 +174,7 @@ meeting the holding for the first time (editor, 2026-10-01):
 - Length follows the holding. A single deed takes a few paragraphs; several
   hundred letters take several thousand words, under headings.
 - Each statement cites the documents it rests on, and says what is not known.
-- Method belongs in `process.md` and in **About the edition**, not in the
+- Method belongs in the "How it was prepared" tab and in **About the edition**, not in the
   description. It is told plainly and briefly: what was done, who decided,
   what is still uncertain. No tool names, no costs.
   The editor, 2026-10-30, of the "How it was prepared" tabs: method stays
@@ -185,6 +185,32 @@ meeting the holding for the first time (editor, 2026-10-01):
   2026"); call the model Claude, not "the session"; an open question is "still
   open", not "put to the editor"; a translation made in session is "written
   in a working session under the same rules as the other holdings".
+
+**What the tab tells (the editor, 2026-10-30).** The point of "How it was
+prepared" is to tell the reader about the AI decisions that affected the text,
+as an editor would explain their handling of it, not every detail of the work.
+It answers four questions: who made the transcription; how much was checked,
+and by whom; what Claude changed or supplied that the source does not contain
+(corrections and their rule, standardised names, a passage transcribed or
+translated that the editor's text lacked); who translated, and how the
+summaries were checked. Everything that matters only to the editor stays in the
+holding's `notes.md`: the handling of the images (counts, cropping, folds,
+watermarks), counts of corrections and marks of doubt, the editor's spot
+sheets and checks of samples, decisions that were reversed ("an earlier reading
+was dropped"), additions from the scan, open points and "still to do", and
+whatever the page already shows (that each letter is one document, the label
+on an office note, that a text is set by paragraph). The tab is written from
+`prepared:` in unit.yml so that it stays short and the German is written from
+the same keys.
+
+**No physical description for its own sake (the editor, 2026-10-30).** A
+holding's description has no "Form and language" section: the hand, the ruling,
+the leaf numbers, the film frames and the abbreviations are not told, and the
+languages are one line in the header. What changes how a document is read is
+kept, under "Contents": the basis of a date, a part that is not transcribed,
+which sheet is the original and which the copy, a spelling the copyist kept.
+The same test applies to every page: say what the reader needs to understand
+the source, not what it looks like.
 
 ## The era essay
 

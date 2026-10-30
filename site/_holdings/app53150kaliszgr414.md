@@ -1,6 +1,6 @@
 ---
 unit: "app53150kaliszgr414"
-title: "53/15/0/-/Kalisz Gr.414"
+title: "Kalisz Municipal Court: Relationes [protocollon] 1771"
 lang: en
 permalink: "/sources/app53150kaliszgr414/"
 alt_url: "/de/quellen/app53150kaliszgr414/"
@@ -29,36 +29,16 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The entry.** On the Saturday before Saint Martin 1771 Antoni Serlatkowski brought the act to the municipal court office at Kalisz to be entered, and the original was sewn into the book <span class="cite">[<a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">1</a>]</span>.
 
-### Form and language
-
-Leaf 402 is the original itself, a smaller sheet than the book, written on both sides and signed; leaf 403 has the office's record at the top. The other half of the first scan belongs to another document. The Latin is written out from its abbreviations; the Polish stands in the clerk's spelling. A reference number that the editor had put after one settler's name is not part of the text and is taken out. <!-- context -->
-
 ### Related holdings
 
 The reports of 1767 on the embankment that flooded these settlers: <a href="{{ '/sources/app53170koningr114/' | relative_url }}">53/17/0/-/Konin Gr.114</a>. The decree of 1775 that set this delivery aside: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. <!-- context -->
 
 <!--prepared-->
 
-### Scans
-
-The archive supplied two images, each showing two facing pages. Both were cut at the fold. Three of the four pages belong to the document; the fourth carries another text and is not shown.
-
 ### Transcription
 
-The editor transcribed the document and supplied it by paragraph, with the abbreviations of the Latin written out.
+The transcription is the editor's own. The Latin abbreviations are written out. Claude then compared the transcription with the scans, except the middle of the recital of the Tribunal's decrees (about 200 words), and corrected it where the page is plain.
 
-### Check against the scans
+### Translation and summaries
 
-An AI model (Claude) read against the scans the opening, the whole of the delivery in Polish with the settlers' names and the closing, and the record of entry, and corrected six readings. The middle of the recital of the Tribunal's decrees, about 200 words, was not compared. One correction changes the sense: the delivery was completed "no one contesting it", where the first reading had it formally challenged. A reference number of the editor's that stood after one name was taken out. Each change is logged with its reason.
-
-### Division and dating
-
-The original and the record of its entry are one document, dated 4 November 1771, the day of the delivery; it was brought to Kalisz on 9 November.
-
-### Translation
-
-The English is the editor's own translation and was not made again. It was changed in three places where the text had been corrected. The editor's notes are kept as translator's notes; four that commented on readings since corrected are left out.
-
-### Summary
-
-The summary was written in German from the Latin and Polish and translated into English. Each of its eight statements was then checked against the document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

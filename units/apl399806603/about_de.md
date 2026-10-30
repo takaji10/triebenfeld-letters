@@ -12,10 +12,6 @@ Die Abschrift, in Kalisch am 10. September 1869 zur Aufbewahrung in der Gouverne
 
 Im März 1884 setzte eine Eintragung in die Abschrift, nach einem Beschluss der Gouvernementsbehörde vom 25. Februar 1882, das Brennholz jedes Hofes aus dem Wald auf jährlich 104 Tuchladungen fest, gleich 10½ zweispännigen Fuhren, und erlaubte den Höfen, dort 408 Stück Hornvieh zu weiden [[3]]. Durch einen freiwilligen Vertrag vom 14. Juni 1892, festgehalten in einer Eintragung vom 12. Oktober 1894, gaben die Bauern ihre Weide- und Holzrechte im Wald an die Besitzerin von Trąbczyn, Gräfin Maria Wielopolska, auf und erhielten 393 Morgen 154 Ruten herrschaftliches Land [[4]]. Eine Vermessung von 1896, festgehalten in einer Eintragung vom 29. November 1897, ergab für den ganzen Anteil 1068 Desjatinen 1272 Saschen [[5]], und ein Verzeichnis nennt danach das Land jedes Hofes, unter Gebäuden und Gärten, Acker, Wiese, Weide und Unland [[6]].
 
-### Form und Sprache
-
-Russisch, in der Rechtschreibung vor 1918. Die Tabelle ist ein gedrucktes, von Hand ausgefülltes Formular mit Spalten für das Land jedes Hofes und für die Abgaben; die Abschrift ist eine andere Hand auf demselben Formular; die Eintragungen von 1894 und 1897 sind beglaubigte Abschriften auf eigenen Blättern. Die Tabellen sind als Tabellen wiedergegeben. Wo die Schrift über eine Doppelseite läuft, sind beide Seiten als eine gezeigt. <!-- context -->
-
 ### Verwandte Bestände
 
 Albert Breyers Notizheft mit seinen Abschriften dieser Tabelle und der Servitute sowie der Tabellen von Emilienheim und Orliny: [[unit:app539680716]]. Die Vorladung von 1860 im Streit der Kolonisten um den Wald: [[unit:app539680783]]. Breyers Notizhefte von 1936 über Łazińsk: [[unit:app539680669]]. <!-- context -->

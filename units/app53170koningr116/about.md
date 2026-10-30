@@ -18,9 +18,7 @@ The decree pronounced in default of Prusimski, for which his own men searched in
 
 The land court's decree of October 1777 cites a search that Chełmski made himself at the municipal court of Konin in October of that year. The last entry here answers to it and is dated from it: [[unit:app536046]]. That decree ordered Prusimski to bring the commission's decree to Konin, where its text now stands. <!-- context -->
 
-### Form and language
-
-Each entry is a few lines among many others on its page; the pages are shown whole and the other entries are not transcribed. The Latin is heavily abbreviated and the transcription writes it out. The signatures are autograph and in Polish, except Rajewicz's; in three of them a word is not read and is marked. The clerk's Latin calls Kwilecki and Umiński "dapifer", pantler; they sign as "cześnik", cup-bearer, which is also what the commission's decree calls them. Five of the twelve entries have no dated heading of a sitting on a photographed page; they are dated from the headings before and after them or, for the last, from the land court's decree, and each says so. <!-- context -->
+**Notes on the entries.** The signatures are autograph and in Polish, except Rajewicz's; in three of them a word is not read and is marked. The clerk's Latin calls Kwilecki and Umiński "dapifer", pantler; they sign as "cześnik", cup-bearer, which is also what the commission's decree calls them. Five of the twelve entries have no dated heading of a sitting on a photographed page; they are dated from the headings before and after them or, for the last, from the land court's decree, and each says so. <!-- context -->
 
 ### Related holdings
 

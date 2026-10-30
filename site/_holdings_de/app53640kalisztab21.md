@@ -1,6 +1,6 @@
 ---
 unit: "app53640kalisztab21"
-title: "53/64/0/-/Kalisz Tab.21"
+title: "Rauchfangsteuer (Podymne) der Woiwodschaft Kalisch [protocollon] 1789"
 lang: de
 permalink: "/de/quellen/app53640kalisztab21/"
 alt_url: "/sources/app53640kalisztab21/"
@@ -29,9 +29,7 @@ Trąbczyn ist Eintrag 178 dieses Kreises, geschrieben „Trąpczyn“, mit 80 er
 
 Summen haben die Seiten nicht. Den Steuersatz zeigen die Beträge dennoch: In den Kreisen Pyzdry und Kalisch ist die Summe jedes Dorfes ein Vielfaches von 3 Złoty 15 Groschen, auf den Blättern 18 bis 20 ein Vielfaches von 2 Złoty 15 Groschen; nur Städte und zwei weitere Zeilen weichen davon ab. <!-- context -->
 
-### Form und Sprache
-
-Jede Seite ist ein gedrucktes Formular mit vier linierten Spalten, von einer Hand in polnischer Sprache ausgefüllt. Ein Dorf, das mehreren Besitzern gehörte, ist für jeden Anteil einmal eingetragen, unter dem Namen des Besitzers („z Części Zakrzewskiego“, aus dem Anteil Zakrzewskis). Ein dünner Federstrich läuft auf jeder Seite am Rand der Spalten herab, und auf Blatt 20 verso ist neben vier Einträgen ein Kreuz gezogen; es sind wohl die Zeichen dessen, der das Register prüfte. Der Umschlag trägt ein Schild, „Podymne z Wojewodz: Kalisk: Raty Sto Jańsk: 1789“. <!-- context -->
+Ein Dorf, das mehreren Besitzern gehörte, ist für jeden Anteil einmal eingetragen, unter dem Namen des Besitzers („z Części Zakrzewskiego“, aus dem Anteil Zakrzewskis). <!-- context -->
 
 ### Verwandte Bestände
 
@@ -39,24 +37,10 @@ Die preußische Dörfertabelle von etwa 1797: <a href="{{ '/de/quellen/agad11690
 
 <!--prepared-->
 
-### Scans
-
-Der Herausgeber stellte vierzehn Aufnahmen bereit: den Umschlag und dreizehn Seiten, jede eine einzelne Seite. Eine Aufnahme war nach der Rückseite von Blatt 17 benannt; die Nummern der Quittungen zeigen, dass sie die Rückseite von Blatt 9 ist, und dort ist sie eingeordnet.
-
 ### Transkription
 
-Eine frühere Transkription gab es nicht. Ein KI-Modell (Claude) las das Register Zeile für Zeile von den Scans, jede Seite in vergrößerten Streifen und jeden unklaren Namen noch einmal in größerem Maßstab. Der Herausgeber prüfte diese Lesung danach Zeile für Zeile an den Scans, auf einem Blatt, das jede Zeile der Tabelle neben einem Bild derselben Stelle der Seite zeigt; 69 Namen wurden berichtigt, keine Zahl wurde geändert. Das Register wird als Tabelle wiedergegeben: eine Zeile für jede Zeile der Seite, in den Spalten der Seite. Der gedruckte Titel und der Kopf des Formulars stehen einmal, über der ersten Seite.
+Es gab keine Transkription. Claude, ein KI-Modell, las den Text von den Scans. Der Herausgeber prüfte die Lesung anschließend Zeile für Zeile an den Scans.
 
-Die Namen sind geschrieben wie auf der Seite, mit den Zeichen, die der Schreiber auf die Buchstaben setzte, und ohne weitere; ein Wort, das er kürzte, behält seinen Doppelpunkt. 13 Namen, die nicht sicher zu lesen waren, sind mit „[?]“ gekennzeichnet.
+### Übersetzung und Zusammenfassungen
 
-### Prüfung der Zahlen
-
-Die Seiten haben keine Summen, die Zahlen lassen sich also nicht nachrechnen. Die Steuer selbst gibt eine Prüfung: Ein Dorf zahlte für jede Feuerstelle einen festen Betrag, seine Summe ist also ein Vielfaches dieses Satzes. In den Kreisen Pyzdry und Kalisch ist die Summe jedes Dorfes ein Vielfaches von 3 Złoty 15 Groschen, auf den Blättern 18 bis 20 ein Vielfaches von 2 Złoty 15 Groschen. Zwölf Zeilen passen nicht: Zehn sind Städte, die beiden anderen wurden erneut angesehen und stehen wie gelesen. Der Herausgeber bestätigte alle zwölf Zahlen an den Scans.
-
-### Gliederung und Datierung
-
-Die dreizehn Seiten sind ein Dokument. Es ist nach seinem gedruckten Titel datiert, der Johannisrate 1789. Der dritte Kreis, auf den Blättern 18 bis 20, heißt hier wegen seiner Orte Kreis Konin; seine Überschrift steht auf keiner der Seiten.
-
-### Zusammenfassung und Übersetzung
-
-Die Zusammenfassung wurde auf Deutsch aus der Tabelle geschrieben und ins Englische übersetzt; jede ihrer 14 Aussagen wurde dann an der Tabelle geprüft, und alle hielten stand. Die englische Fassung der Tabelle übersetzt den Titel, den Kopf und die häufigen Wörter (Dorf, Städtchen, Vorwerk, Mühle, Anteil) und lässt die Namen so, wie der Schreiber sie schrieb; nur Trąbczyn und Nowawies erhalten die überall verwendete Schreibung.
+Claude übersetzte die Dokumente ins Englische. Die englische Fassung der Tabelle übersetzt den Titel, die Überschrift und die gewöhnlichen Wörter (Dorf, Städtchen, Vorwerk, Mühle, Teil von) und lässt die Namen, wie der Schreiber sie schrieb. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

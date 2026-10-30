@@ -10,10 +10,6 @@ Das Protokoll des Gerichts vom 31. März 1806 legt den Vertrag dar. Triebenfeld 
 
 Dem Vertrag liegen die Generalvollmacht für Triebenfeld vom 19. Februar 1805 in beglaubigter Abschrift und die Ausfertigung des Vertrags mit den Begleitschreiben an beide Parteien bei [[1]]. Ein polnisches Schreiben von 1811 hält fest, dass ein Beamter, Hawich, die Akte dem Friedensgericht des Kreises Konin übergab und darum bat, von Erbet Kosten von 9 Rthl 18 dgl einzuziehen [[1]].
 
-### Form und Sprache
-
-Die Akte ist deutsch, mit Ausnahme des Schreibens und der Kostenrechnung von 1811, die polnisch sind. Eine Aufnahme der Zählung des Archivs fehlt; der Text läuft ohne Lücke weiter. <!-- context -->
-
 ### Verwandte Bestände
 
 Weitere Erbpachtverträge, in denselben Wochen vor demselben Gericht geschlossen, in den bei Hohenlohe-Ingelfingen aufbewahrten Abschriften: [[unit:oe1bu14526]]. Briefe Triebenfelds an Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. Eine Erbpacht von Wald in Drzewce, zehn Tage zuvor von demselben Gericht ausgefertigt, mit einer weiteren Abschrift der Vollmacht und dem Konsens der Kammer zur Parzellierung, in Abschriften von etwa 1930: [[unit:app539680801]]. <!-- context -->

@@ -1,6 +1,6 @@
 ---
 unit: "app53640kalisztab21"
-title: "53/64/0/-/Kalisz Tab.21"
+title: "Hearth tax of the Kalisz voivodeship [protocollon] 1789"
 lang: en
 permalink: "/sources/app53640kalisztab21/"
 alt_url: "/de/quellen/app53640kalisztab21/"
@@ -29,9 +29,7 @@ Trąbczyn is entry 178 of that district, written "Trąpczyn", with 80 złoty col
 
 The pages have no totals. The sums show the rate of the tax all the same: in the Pyzdry and Kalisz districts every village's sum is a multiple of 3 złoty 15 groszy, and on leaves 18 to 20 a multiple of 2 złoty 15 groszy; only towns, and two other lines, depart from it. <!-- context -->
 
-### Form and language
-
-Each page is a printed form with four ruled columns, filled in by one hand in Polish. A village that belonged to several owners is entered once for each part, under the owner's name ("z Części Zakrzewskiego", from Zakrzewski's part). A light pen stroke runs down the edge of the columns on every page, and on leaf 20 verso a cross is drawn beside four entries; they look like the marks of someone checking the register. The cover has a label, "Podymne z Wojewodz: Kalisk: Raty Sto Jańsk: 1789". <!-- context -->
+A village that belonged to several owners is entered once for each part, under the owner's name ("z Części Zakrzewskiego", from Zakrzewski's part). <!-- context -->
 
 ### Related holdings
 
@@ -39,24 +37,10 @@ The Prussian table of villages of about 1797: <a href="{{ '/sources/agad11690117
 
 <!--prepared-->
 
-### Scans
-
-The editor supplied fourteen images: the cover and thirteen pages, each a single page. One image was named for the back of leaf 17; the receipt numbers show that it is the back of leaf 9, and it is placed there.
-
 ### Transcription
 
-There was no earlier transcription. An AI model (Claude) read the register from the scans, line by line, each page in enlarged strips and every unclear name again at a larger size. The editor then checked that reading against the scans, line by line, on a sheet that shows each line of the table beside a picture of the same part of the page; 69 names were corrected, and no figure changed. The register is given as a table: one row for each line of the page, in the page's own columns. The printed title and the heading of the form are given once, above the first page.
+No transcription existed. Claude, an AI model, read the text from the scans. The editor then checked the reading against the scans, line by line.
 
-Names are spelt as on the page, with the marks the clerk set on the letters and no others; a word he shortened keeps his colon. 13 names that could not be read with certainty are marked "[?]".
+### Translation and summaries
 
-### Checking the figures
-
-The pages have no totals, so the figures cannot be added up. The tax itself gives a check: a village paid a fixed sum for each hearth, so its sum is a multiple of that rate. In the Pyzdry and Kalisz districts every village's sum is a multiple of 3 złoty 15 groszy, and on leaves 18 to 20 a multiple of 2 złoty 15 groszy. Twelve lines do not fit: ten are towns, and the other two were looked at again and stand as read. The editor confirmed all twelve figures against the scans.
-
-### Division and dating
-
-The thirteen pages are one document. It is dated by its printed title, the instalment due at St John's 1789. The third district, on leaves 18 to 20, is called the Konin district here because of its places; its heading is on none of the pages.
-
-### Summary and translation
-
-The summary was written in German from the table and translated into English; each of its 14 statements was then checked against the table, and all held. The English version of the table translates the title, the heading and the common words (village, small town, demesne farm, mill, part of) and leaves the names as the clerk wrote them, except that Trąbczyn and Nowawies take the spelling used everywhere.
+Claude translated the documents into English. The English version of the table translates the title, the heading and the common words (village, small town, demesne farm, mill, part of) and leaves the names as the clerk wrote them. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

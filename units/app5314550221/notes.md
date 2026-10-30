@@ -124,3 +124,29 @@ business (WORKING_NOTES).
 ## Damage
 
 None recorded. The paper is whole on the five pages.
+
+## Form and language (taken off the public page, 2026-10-30)
+
+The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
+
+Latin, copied in the eighteenth century in one clear hand, with the copyist's spelling and abbreviations; Polish words stand in it as the originals had them ("kopce", "niwa", "sep", "naraz", "powos"). Each privilege has a heading in larger letters and its number beside it; the copyist marks the start of each with an "x" in the margin and ends each page with a catchword. Later hands have written page numbers in pencil and red crayon at the top of the pages, and the years of the privileges in pencil in the margin.
+
+## How it was prepared (the public text before 2026-10-30)
+
+The editor ruled the tab too detailed: it now tells only what an AI decided that affected the text (`prepared:` in unit.yml). The full account, kept here:
+
+### Images
+
+The editor photographed the volume in the archive, the cover and its pages, one page to a photograph, with a camera that saved raw files. They chose six pages: 13, 14, 25, 26 and 66, and then 15, by the archive's pagination in pencil at the top outer corner of each page. Which photograph is which page was read off those numbers. Each page was taken from the full-size picture inside the raw file, turned upright and cut to the page. Pages 13 and 25 begin with the end of a privilege copied on the page before; at the editor's word the picture and the text begin below it, at the heading of the first privilege that starts on the page. Page 15 was added to finish the king's confirmation of 1447, which begins at the foot of page 14; it is cut below its end, above the next entry. Page 66 lies wholly inside a long entry and is given whole.
+
+### Transcription
+
+There was no earlier transcription. An AI model (Claude) read the pages from the photographs, enlarged, in the working session. The text keeps the copyist's spelling, writes out his common abbreviations, as is done with Latin, and leaves names and adjectives he cuts short with a stop as he wrote them. Words he struck out are not transcribed. The note in the margin of page 14 is transcribed and set apart. Page numbers, the years written later in pencil in the margins, and the copyist's marks are not transcribed. Twenty-two words and names are read with doubt and marked so.
+
+### Dating
+
+Each document is a copy and takes the date of what it copies. Documents 1, 2 and 4 are dated by their own dating clauses, given by feasts, and the day of the month is counted from them. Document 3 is dated the same way, but the copyist wrote its year over: it is read as 1447, which a later hand wrote in the margin and the offices of its witnesses bear out. Document 5 is a beginning that stops before its date, and is left undated. Document 6 names only "the Friday after Misericordia Sunday"; the year, 1761, is in the heading of the entry on page 63, which is not included.
+
+### Summary and translation
+
+The summaries were written in German from the Latin and translated into English; each of their 80 statements was then checked against the text, and nothing in them rests on a word read with doubt. The English translation was made in the same session. Christian names are given in their Polish form; surnames and the names of places not identified stand as written.

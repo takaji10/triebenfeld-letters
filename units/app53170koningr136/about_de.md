@@ -16,9 +16,7 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Koninie“ 
 
 **Der Vermerk.** Am Freitag, dem 12. Juli 1754, erschien der Gerichtsbote Bartłomiej Szeptycki von Trąbczyn vor dem Burgamt in Konin und erklärte, er sei am Dienstag zuvor auf Verlangen der Katarzyna Prusimska mit den beiden Adligen nach Trąbczyn gegangen, dann in die Dörfer Osiny, Łazy, Nowa Wieś, die Olęder-Siedlung und die Glashütte und dann in die Wälder, und habe alles so gesehen, wie es niedergeschrieben ist. Der Vermerk nennt sie die Witwe des kurz zuvor verstorbenen Paweł Prusimski, königlichen Kämmerers und Erbherrn von Trąbczyn, mit Leibgedinge und lebenslangem Nutzungsrecht an allen seinen Gütern [[1]].
 
-### Form und Sprache
-
-Der Eintrag füllt die Blätter 121 bis 123. **Sein mittlerer Teil ist nicht transkribiert**: Nach der Mälzerei, im oberen Drittel von Blatt 121 verso, haben die Aufnahmen eine nummerierte Beschreibung der Dorfhäuser, eines nach dem anderen, die über das ganze Blatt 122 bis oben auf Blatt 122 verso läuft. Dieser Teil steht weder in der Transkription noch in der Übersetzung, und Blatt 122 wird nicht gezeigt. Der Text setzt bei „Wieś Nowa“ wieder ein. Das Polnische ist die Bausprache der Zeit und steht so, wie der Herausgeber es transkribiert hat. Der lateinische Vermerk am Ende ist abgekürzt; die Transkription löst die Abkürzungen auf. <!-- context -->
+**Sein mittlerer Teil ist nicht transkribiert**: Nach der Mälzerei, im oberen Drittel von Blatt 121 verso, haben die Aufnahmen eine nummerierte Beschreibung der Dorfhäuser, eines nach dem anderen, die über das ganze Blatt 122 bis oben auf Blatt 122 verso läuft. Dieser Teil steht weder in der Transkription noch in der Übersetzung, und Blatt 122 wird nicht gezeigt. Der Text setzt bei „Wieś Nowa“ wieder ein. <!-- context -->
 
 ### Verwandte Bestände
 

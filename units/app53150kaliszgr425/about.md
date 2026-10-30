@@ -16,10 +16,6 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The entry.** On Monday 30 September 1776 Antoni Czyżewski brought the act to the municipal court office at Kalisz to be entered, and the original was sewn into the book [[1]].
 
-### Form and language
-
-Leaf 497 is the original, a smaller sheet than the book, written on both sides, signed and sealed; leaf 498 has the office's Latin record. The Polish is in the spelling of the writer. One word at the end of a line runs into the fold of the book and its ending is supplied in square brackets. The back of the sheet has a docket, and the next leaf a register note, which are not transcribed. <!-- context -->
-
 ### Related holdings
 
 The decree of the commission: [[unit:app53170koningr145]]. A search of the Kalisz records for that decree two months later: [[unit:app53150kaliszgr424]]. <!-- context -->

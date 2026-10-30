@@ -16,9 +16,7 @@ Seine Zahlen zu Łazińsk verfolgen die Wirte und ihr Land von 1840 bis 1935: 87
 
 Seine Notizen vom Juli 1935 [[8]] und Juli 1936 [[10]] gelten Huta Trąbczyńska, Orlin, Józefów und den Dörfern um sie: der Zahl der Wirte und des Viehs, den ersten Wirten von Józefów, Häusern, Gesangbüchern, Tracht, Sprache (Plattdeutsch bei den Alten, Kaschubisch früher in Orlin), Bräuchen, Diebstahl und Armut. Sie gelten auch Heiraten, den Pfingstlern und Baptisten, die nach Orlin gekommen waren, dem Zug der Jugend ins Posensche und dem Verhältnis zu den Polen, die „alle gut deutsch“ sprechen.
 
-### Form und Sprache
-
-Die Tabellen und die Servitute sind russisch abgeschrieben, in der Rechtschreibung vor 1918; Breyers Notizen sind deutsch, in lateinischer Schrift und zum Teil in Kurrent, kurz und stark abgekürzt; das Blatt von 1858 ist polnisch. In den Tabellen bedeutet eine Zahl wie „17-71“ 17 Morgen 71 Ruten, auf dem Blatt von 1858 „1-50“ 1 Złoty 50 Groschen. Breyer trennt seine Notizen durch einen kurzen Strich mit einem kleinen Kreis. Die Tabellen sind als Tabellen wiedergegeben, die Nummer des Eintrags zuerst und der Name an zweiter Stelle. <!-- context -->
+In den Tabellen bedeutet eine Zahl wie „17-71“ 17 Morgen 71 Ruten, auf dem Blatt von 1858 „1-50“ 1 Złoty 50 Groschen. <!-- context -->
 
 ### Verwandte Bestände
 

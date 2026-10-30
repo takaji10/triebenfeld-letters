@@ -3,12 +3,15 @@
 A page for each holding, in both languages.
 
 Reads  : units/<slug>/about.md      the description of the holding
-         units/<slug>/process.md    how the holding was prepared
-         (and about_de.md / process_de.md where they exist)
+         units/<slug>/unit.yml      `prepared:`, what the "How it was prepared"
+                                    tab says (reference/prepared.yml)
+         (and about_de.md where it exists)
 Writes : site/_holdings/<slug>.md      /sources/<slug>/
          site/_holdings_de/<slug>.md   /de/quellen/<slug>/
 
-The two texts are written by hand and kept with the holding. A document is
+The description is written by hand and kept with the holding; the
+"How it was prepared" tab is written from `prepared:` in its unit.yml, in
+both languages, from the sentences in reference/prepared.yml. A document is
 cited in them as [[41]] or [[41, 44]]; the citation becomes a link to that
 document of the same holding, and check_unit_text.py holds each sentence to the
 documents it cites. Everything under site/_holdings* is generated output.
@@ -41,6 +44,32 @@ def read_text(unit_dir, name, lang):
     return '', lang
 
 
+def prepared_text(u, lib, lang):
+    """The "How it was prepared" tab of a holding, from its `prepared:` block.
+    An item is a key of reference/prepared.yml or a hand-written {en, de}; the
+    items of a list run on in one paragraph, a long hand-written one starts a
+    new paragraph. Empty when the holding has no block."""
+    prep = u.get('prepared') or {}
+    out = []
+    for key in ('transcription', 'translation'):
+        items = prep.get(key) or []
+        if not items:
+            continue
+        paras, cur = [], []
+        for it in items:
+            if isinstance(it, str):
+                text = lib['sentences'][it][lang]
+            else:
+                text = it[lang]
+                if cur and len(text) > 200:
+                    paras.append(' '.join(cur))
+                    cur = []
+            cur.append(' '.join(text.split()))
+        paras.append(' '.join(cur))
+        out.append('### ' + lib['headings'][key][lang] + '\n\n' + '\n\n'.join(paras))
+    return '\n\n'.join(out)
+
+
 def link_holdings(text, units, base):
     """[[unit:<slug>]] becomes that holding's reference, linked to its page."""
     refs = {u.slug: u['ref'] for u in units}
@@ -66,7 +95,22 @@ def link_citations(text, url_by_id):
     return CITE.sub(one, text)
 
 
+def page_title(u, lang):
+    """The holding's name in the browser tab: its translated title, not the
+    reference (editor, 2026-10-30); the reference stands in the header beside
+    the archive."""
+    if lang == 'de':
+        t = u.get('full_title_de') or u.get('card_title_de')
+    else:
+        t = None
+    t = t or u.get('full_title') or u.get('card_title') or u['ref']
+    return str(t).strip()
+
+
 def write(units, recs, site_dir, root, yaml_str):
+    import yaml
+    with open(os.path.join(root, 'reference', 'prepared.yml'), encoding='utf-8') as f:
+        lib = yaml.safe_load(f)
     by_unit = {}
     for r in recs:
         by_unit.setdefault(r['unit'], {})[r['letter_id']] = r['permalink']
@@ -82,13 +126,13 @@ def write(units, recs, site_dir, root, yaml_str):
                 continue
             unit_dir = os.path.join(root, 'units', u.slug)
             about, about_lang = read_text(unit_dir, 'about', lang)
-            process, process_lang = read_text(unit_dir, 'process', lang)
+            process, process_lang = prepared_text(u, lib, lang), lang
             about = link_holdings(about, units, base)
             process = link_holdings(process, units, base)
             urls = by_unit[u.slug]
             fm = ['---',
                   f'unit: {yaml_str(u.slug)}',
-                  f'title: {yaml_str(u["ref"])}',
+                  f'title: {yaml_str(page_title(u, lang))}',
                   f'lang: {lang}',
                   f'permalink: {yaml_str(base + u.slug + "/")}',
                   f'alt_url: {yaml_str(other + u.slug + "/")}',

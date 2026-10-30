@@ -1,6 +1,6 @@
 ---
 unit: "app53150kaliszgr425"
-title: "53/15/0/-/Kalisz Gr.425"
+title: "Burggericht Kalisz: Relationes [protocollon] 1776"
 lang: de
 permalink: "/de/quellen/app53150kaliszgr425/"
 alt_url: "/sources/app53150kaliszgr425/"
@@ -27,36 +27,18 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ 
 
 **Die Eintragung.** Am Montag, dem 30. September 1776, brachte Antoni Czyżewski den Akt zur Eintragung in das Burgamt Kalisz, und das Original wurde in das Buch eingenäht <span class="cite">[<a href="{{ '/documents/app53150kaliszgr425/1/' | relative_url }}">1</a>]</span>.
 
-### Form und Sprache
-
-Blatt 497 ist das Original, ein kleineres Blatt als das Buch, beidseitig beschrieben, unterzeichnet und gesiegelt; Blatt 498 trägt den lateinischen Vermerk des Amts. Das Polnische steht in der Schreibweise des Schreibers. Ein Wort am Zeilenende läuft in den Falz des Buchs, und seine Endung ist in eckigen Klammern ergänzt. Die Rückseite des Blattes trägt einen Rückvermerk und das nächste Blatt einen Registervermerk; beide sind nicht transkribiert. <!-- context -->
-
 ### Verwandte Bestände
 
 Das Dekret der Kommission: <a href="{{ '/de/quellen/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. Eine Nachsuche nach diesem Dekret in den Kalischer Akten zwei Monate später: <a href="{{ '/de/quellen/app53150kaliszgr424/' | relative_url }}">53/15/0/-/Kalisz Gr.424</a>. <!-- context -->
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält drei Fotografien des Buchs, jede mit zwei gegenüberliegenden Seiten. Zwei wurden am Falz geschnitten, und drei ihrer vier Seiten gehören zum Dokument. Die dritte Fotografie trägt nichts, was transkribiert ist, und wird nicht verwendet. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat das Dokument transkribiert und absatzweise geliefert.
+Die Transkription stammt vom Herausgeber.
 
-### Prüfung an den Aufnahmen
+Claude verglich anschließend die Schlusszeile, die Unterschriften und den lateinischen Vermerk mit den Scans, nicht aber den Hauptteil der Vertagung (etwa 170 Wörter klares Polnisch), und korrigierte die Transkription, wo die Seite eindeutig ist.
 
-Ein KI-Modell (Claude) las die Schlusszeile und die fünf Unterschriften sowie den ganzen lateinischen Vermerk neben den Aufnahmen und korrigierte sechs Lesungen. Der Hauptteil der Vertagung, etwa 170 Wörter in klarem Polnisch, wurde nicht verglichen. Zwei Korrekturen sind von Belang: Zwei Kommissare führen den Wappennamen Leszczyc, den die erste Lesung zu Leszczyński ergänzt hatte; und der Akt ist „in unseren Wohnsitzen“ datiert, wo die erste Lesung das Wort für einen ungelesenen Ortsnamen hielt. Jede Änderung ist mit ihrem Grund verzeichnet.
+### Übersetzung und Zusammenfassungen
 
-### Abgrenzung und Datierung
-
-Das Original und der Vermerk über seine Eintragung sind ein Dokument, datiert auf den 28. September 1776, den Tag des Akts; es wurde am 30. September nach Kalisz gebracht.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an fünf Stellen geändert, an denen der Text korrigiert worden war.
-
-### Zusammenfassung
-
-Die Zusammenfassung wurde auf Deutsch nach dem Polnischen und Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer sechs Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

@@ -20,9 +20,7 @@ Seit 1815 gehörte der Kreis Konin zum Königreich Polen, das der russische Kais
 
 Eine russische Antwort auf Schölers Note enthält die Akte nicht, ebenso wenig die Denkschrift, die der Antwort von 1819 nach deren eigener Angabe beilag [[3]].
 
-### Form und Sprache
-
-Drei der sechs Dokumente sind Abschriften: der Warschauer Bericht, Tarczewskis Brief und Schölers Note. Die Note des Alopeus ist das Original, die Antwort darauf der Entwurf des Ministeriums. Das polnische Urteil ist ein Auszug, den das Gericht unter seinem Siegel ausgestellt hat. <!-- context -->
+**Originale und Abschriften.** Drei der sechs Dokumente sind Abschriften: der Warschauer Bericht, Tarczewskis Brief und Schölers Note. Die Note des Alopeus ist das Original, die Antwort darauf der Entwurf des Ministeriums. Das polnische Urteil ist ein Auszug, den das Gericht unter seinem Siegel ausgestellt hat. <!-- context -->
 
 ### Verwandte Bestände
 

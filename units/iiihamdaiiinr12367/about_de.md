@@ -16,9 +16,7 @@ Trąbczyn lag im Königreich Polen, dessen König der russische Kaiser war. Sein
 
 Mit diesem Schreiben enden die Aufnahmen. Sie zeigen nicht, ob Weigel bezahlt wurde. <!-- context -->
 
-### Form und Sprache
-
-Die Schreiben an Schmidt sind die Ausfertigungen, die er erhielt, mit dem Briefkopf der auswärtigen Angelegenheiten des Königreichs oder mit Unterschrift und Adresse des Absenders; Engels Schreiben ist eine Abschrift. Die drei zwischen Lubecki und Weigel gewechselten Stücke sind Abschriften. Neben jedem der polnischen Schreiben Lubeckis steht in einer zweiten Spalte eine deutsche Übersetzung der Zeit; sie ist hier nicht transkribiert. <!-- context -->
+**Originale und Abschriften.** Die Schreiben an Schmidt sind die Ausfertigungen, die er erhielt, mit dem Briefkopf der auswärtigen Angelegenheiten des Königreichs oder mit Unterschrift und Adresse des Absenders; Engels Schreiben ist eine Abschrift. Die drei zwischen Lubecki und Weigel gewechselten Stücke sind Abschriften. Neben jedem der polnischen Schreiben Lubeckis steht in einer zweiten Spalte eine deutsche Übersetzung der Zeit; sie ist hier nicht transkribiert. <!-- context -->
 
 ### Verwandte Bestände
 

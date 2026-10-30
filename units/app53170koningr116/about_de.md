@@ -18,9 +18,7 @@ Das Versäumnisdekret gegen Prusimski, nach dem seine eigenen Leute im Februar 1
 
 Das Dekret des Landgerichts vom Oktober 1777 führt eine Nachsuche an, die Chełmski selbst im Oktober jenes Jahres beim Burggericht Konin vornahm. Der letzte Eintrag hier entspricht ihr und ist danach datiert: [[unit:app536046]]. Jenes Dekret verpflichtete Prusimski, das Dekret der Kommission nach Konin zu bringen, wo sein Text heute steht. <!-- context -->
 
-### Form und Sprache
-
-Jeder Eintrag besteht aus wenigen Zeilen zwischen vielen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Das Latein ist stark abgekürzt, die Transkription schreibt es aus. Die Unterschriften sind eigenhändig und polnisch, außer der von Rajewicz; in dreien ist ein Wort nicht gelesen und gekennzeichnet. Das Latein des Schreibers nennt Kwilecki und Umiński „dapifer“, Truchsess; sie unterschreiben als „cześnik“, Mundschenk, wie sie auch das Dekret der Kommission nennt. Fünf der zwölf Einträge haben auf keiner fotografierten Seite eine datierte Sitzungsüberschrift; sie sind nach den Überschriften davor und danach datiert oder, beim letzten, nach dem Dekret des Landgerichts, und jeder sagt das. <!-- context -->
+**Anmerkungen zu den Einträgen.** Die Unterschriften sind eigenhändig und polnisch, außer der von Rajewicz; in dreien ist ein Wort nicht gelesen und gekennzeichnet. Das Latein des Schreibers nennt Kwilecki und Umiński „dapifer“, Truchsess; sie unterschreiben als „cześnik“, Mundschenk, wie sie auch das Dekret der Kommission nennt. Fünf der zwölf Einträge haben auf keiner fotografierten Seite eine datierte Sitzungsüberschrift; sie sind nach den Überschriften davor und danach datiert oder, beim letzten, nach dem Dekret des Landgerichts, und jeder sagt das. <!-- context -->
 
 ### Verwandte Bestände
 

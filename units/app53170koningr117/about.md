@@ -18,9 +18,7 @@ The suit, as these entries tell it: Tracholz had a claim from a contract for oak
 
 The commissioners' decree that Chełmski praises in his two protests is the "unilateral act" against which five of the parliament's commissioners protested in 1775, and for which Prusimski's men searched at Konin in 1776: [[unit:app53170koningr116]]. <!-- context -->
 
-### Form and language
-
-Each entry stands among others on its page; the pages are shown whole and the other entries are not transcribed. Seven of the thirteen are long entries in a formulaic Latin in which most words are abbreviated. They were read against the scans a second time, word for word; some words in them remain marked as doubtful. Two reports give what the messenger saw in Polish. Antoni Prusimski here calls Paweł Prusimski his "patruus", his father's brother; no other holding says how the two were related. Chełmski's first protest has no heading on the photographed page. The note of the decree of remission points to a text "opposite, under the sign #", which is not on the photographed pages. Six entries have no dated heading of a sitting above them; three are dated by the heading elsewhere on the opening, three from the headings before and after, and each says so. <!-- context -->
+**Notes on the entries.** Two reports give what the messenger saw in Polish. Antoni Prusimski here calls Paweł Prusimski his "patruus", his father's brother; no other holding says how the two were related. Chełmski's first protest has no heading on the photographed page. The note of the decree of remission points to a text "opposite, under the sign #", which is not on the photographed pages. Six entries have no dated heading of a sitting above them; three are dated by the heading elsewhere on the opening, three from the headings before and after, and each says so. <!-- context -->
 
 ### Related holdings
 

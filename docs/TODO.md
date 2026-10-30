@@ -1387,3 +1387,21 @@ transcription; 108 readings settled in session before the first build
       (20 families, 99 people): the edition's p. 165 does not name Lisewo.
       Find where Wąsicki says it before the Lisewska Kolonia sentence goes in.
 
+
+## 57. The holding pages: what is left (2026-10-30, branch `unit-pages-tightening`)
+
+- [x] Header with the translated title and the reference beside the archive;
+      the languages as one line; "Form and language" removed (48 holdings);
+      "How it was prepared" rewritten from `prepared:` (51 holdings).
+- [ ] You: read three or four of the new tabs (for example -/9454, Kalisz
+      Tab.21, Konin Gr.145) and say if they tell too little or too much.
+- [ ] You: the long titles. `card_title` is the heading; where the whole
+      translated title is longer (`full_title`), it stands under it. Say if a
+      shortened title with "[...]" should be written out for the heading.
+- [ ] Offered, not done: a read of the other pages for description that
+      exists for its own sake (the literature, newspapers and places each
+      give an account, a brief and a summary that say the same thing; the
+      era essays and the glossary were not read). Needs a paid run if given to
+      sub-agents: your word first.
+- [ ] Publish when you say so (fast-forward `main`, check the "Build and
+      deploy" run).

@@ -14,9 +14,7 @@ The Cistercian abbey of Ląd, on the Warta between Konin and Pyzdry, was the gre
 
 The editors' notes are of their time and are kept as they are. Their note to the exchange of 1418 puts Wronczyn in the district of Poznań and could not say which Drzewce is meant, but the document places Great Wrąbczyn beside Zagórów, and it is tagged so [[18]]. <!-- context -->
 
-### Form and language
-
-The documents are in Latin. The editors' apparatus is in Latin and Polish in volumes 1 to 5 and in Polish in 6 to 11. Their footnote marks, figures and letters, stand in the electronic text on the line with the words; the site raises them and sets the notes apart, without changing the text. Vertical strokes in some texts are the editors' marks of the line ends of the original, as words broken across them show ("signifi|camus"). <!-- context -->
+The editors' apparatus is in Latin and Polish in volumes 1 to 5 and in Polish in 6 to 11. Vertical strokes in some texts are the editors' marks of the line ends of the original, as words broken across them show ("signifi|camus"). <!-- context -->
 
 ### Estates and people
 

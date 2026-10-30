@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr120"
-title: "53/17/0/-/Konin Gr.120"
+title: "Konin Municipal Court: Relationes [protocollon] 1785-1786"
 lang: en
 permalink: "/sources/app53170koningr120/"
 alt_url: "/de/quellen/app53170koningr120/"
@@ -23,9 +23,7 @@ A person who had been beaten could come to the municipal court office and have h
 
 **Chełmski's citation of October 1786.** A court messenger reported that he had served on Prusimski a citation before the Crown Tribunal, dated at Piotrków on 2 October 1786. Chełmski asks that Prusimski be bound under oath to produce the contract made with Tracholz for the sale of an oak wood, which had stayed with him. He asks that he be punished for having had the cause sent from the court of the sitting on the ground to the full land court and on to the Tribunal. He asks, too, that the land court's decrees fixing the sitting on the ground be carried out <span class="cite">[<a href="{{ '/documents/app53170koningr120/2/' | relative_url }}">2</a>]</span>.
 
-### Form and language
-
-Each entry stands among others on its page; the pages are shown whole and the other entries are not transcribed. Near the head of the second entry the clerk began another text and struck six lines through; they are not transcribed. The second entry has no dated heading on the photographed pages and is dated from the citation it reports. <!-- context -->
+**Dating.** The second entry has no dated heading on the photographed pages and is dated from the citation it reports. <!-- context -->
 
 ### Related holdings
 
@@ -33,26 +31,10 @@ The suit on the Tracholz debt: <a href="{{ '/sources/app53170koningr117/' | rela
 
 <!--prepared-->
 
-### Scans
-
-The folder has two photographs of this book, each showing two facing pages. Each was cut at the fold; three of the four halves carry a transcribed entry and are shown whole. The photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
-
 ### Transcription
 
-The editor transcribed the two entries and supplied them by paragraph, with the Latin written out. Six lines that the clerk struck out are not transcribed.
+The transcription is the editor's own. The Latin abbreviations are written out. Claude then compared the whole transcription with the scans and corrected it where the page is plain.
 
-### Check against the scans
+### Translation and summaries
 
-An AI model (Claude) read both entries whole against the scans and corrected 16 readings. Those that change the sense: Kinos "showed the bruises written below"; the wood sold to Tracholz is an "oak" wood, where a letter had been left unread and the English had pine; what Prusimski is to produce is a "document"; and four words that had been passed over near the end are restored. Each change is logged with its reason.
-
-### Division and dating
-
-Each entry is a document. The first is dated by the line "Actum in Conin" above it. The second has no heading on the photographed pages; the citation it reports is of 2 October 1786 and was served "on the second day of the month" of the entry, so the entry is of November or December 1786, and the document says so.
-
-### Translation
-
-The English is the editor's own translation and was not made again. It was changed in seven places where the text had been corrected.
-
-### Summaries
-
-The summaries were written in German from the Latin and translated into English. Each of their 7 statements was then checked against its document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

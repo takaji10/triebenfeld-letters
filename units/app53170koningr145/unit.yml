@@ -45,6 +45,8 @@ fonds: Księgi sądu i urzędu grodzkiego w Koninie
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl, la]
 date_span: 1775-1776
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -131,3 +133,17 @@ translation_note: >-
   "kondescensja" the court's going out onto the ground. "Urodzony"
   (well-born) is the style of a nobleman. Words in square brackets are the
   editor's additions; a word followed by [?] is one they were unsure of.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: The Polish is given in modern spelling (i for the clerk's y, small letters for capitals, modern endings) and the Latin as written, with its abbreviations filled out.
+    de: Das Polnische steht in moderner Schreibung (i für das y des Schreibers, Kleinbuchstaben für Großbuchstaben, moderne Endungen), das Latein wie geschrieben, mit aufgelösten Abkürzungen.
+  - en: Claude then compared all 122 pages with the scans and corrected the transcription, mostly misread words and words skipped between two occurrences of the same word.
+    de: Claude verglich anschließend alle 122 Seiten mit den Scans und korrigierte die Transkription, meist falsch gelesene Wörter und Wörter, die zwischen zwei gleichen Wörtern übersprungen worden waren.
+  translation:
+  - l-editor-revised
+  - en: Claude translated one paragraph of about a hundred words at the head of leaf 680 that the translation lacked.
+    de: Claude übersetzte einen Absatz von etwa hundert Wörtern am Anfang von Blatt 680, der in der Übersetzung fehlte.
+  - s-claude

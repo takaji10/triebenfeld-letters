@@ -36,6 +36,8 @@ original_title: "Beschwerde der Michalina v. Prusinska gegen den Fürsten v. Hoh
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de, fr]
 date_span: 1800-1802
 status: translated               # draft | transcribed | translated | published
 
@@ -120,3 +122,15 @@ translation_note: >-
   the writer's German. Document 15 is in French, in the petitioner's own
   spelling. Text that the receiving office wrote on an incoming letter stands
   at the end of that page and is not part of the letter.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - en: The editor transcribed the file with a handwriting recognition model and read the French petition a second time. The transcription was then corrected where something proves the reading, such as the same sentence in the decree and in the drafts written from it, a fixed formula or a form that is no word. The signatures of the councillors at Poznań were read against the list of that court in the Prussian state handbook for 1800 and 1801.
+    de: Der Herausgeber transkribierte die Akte mit einem Handschriftenerkennungsmodell und las die französische Bittschrift ein zweites Mal. Die Transkription wurde danach korrigiert, wo etwas die Lesung beweist, etwa derselbe Satz im Urteil und in den daraus geschriebenen Entwürfen, eine feste Formel oder eine Form, die kein Wort ist. Die Unterschriften der Räte in Posen wurden mit dem Verzeichnis dieses Gerichts im preußischen Staatshandbuch für 1800 und 1801 gelesen.
+  - en: The initials on the papers issued in the Grand Chancellor's name are one hand throughout and are given as "G[oldbeck]".
+    de: Die Paraphen auf den im Namen des Großkanzlers ausgefertigten Papieren stammen durchgehend von einer Hand und sind als „G[oldbeck]“ gegeben.
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude

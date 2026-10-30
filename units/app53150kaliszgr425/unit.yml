@@ -37,6 +37,8 @@ fonds: Księgi sądu i urzędu grodzkiego w Kaliszu
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl, la]
 date_span: 1776
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -109,3 +111,13 @@ translation_note: >-
   graniczny" a boundary surveyor; "podsędek" a deputy judge of a land court.
   "Leszczyc" is the name of a coat of arms, borne before the surname.
   Trąmpczyn and Trąpczyn are Trąbczyn.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: Claude then compared the closing line, the signatures and the Latin record with the scans, but not the body of the adjournment (about 170 words of clear Polish), and corrected the transcription where the page is plain.
+    de: Claude verglich anschließend die Schlusszeile, die Unterschriften und den lateinischen Vermerk mit den Scans, nicht aber den Hauptteil der Vertagung (etwa 170 Wörter klares Polnisch), und korrigierte die Transkription, wo die Seite eindeutig ist.
+  translation:
+  - l-editor-revised
+  - s-claude

@@ -1,0 +1,83 @@
+# "How it was prepared" (editor, 2026-10-30). The tab tells the reader what an
+# AI decided that affected the text: who made the transcription, what was
+# checked and by whom, what was changed, who translated, how the summaries
+# were checked. Not the handling of the images, counts of corrections, the
+# editor's spot sheets, reversed decisions or open points: those stay in the
+# holding's notes.md.
+#
+# A holding's `prepared:` in its unit.yml has two lists, `transcription` and
+# `translation`. An item is one of the keys below, or a hand-written
+# {en: ..., de: ...} for a fact that belongs to one holding only. Items of a
+# list run on in one paragraph; "\n\n" inside a hand-written item starts a new
+# one. build/unit_pages.py writes the tab from them, in both languages.
+
+headings:
+  transcription:
+    en: Transcription
+    de: Transkription
+  translation:
+    en: Translation and summaries
+    de: Übersetzung und Zusammenfassungen
+
+sentences:
+  # Who made the transcription
+  t-editor:
+    en: The transcription is the editor's own.
+    de: Die Transkription stammt vom Herausgeber.
+  t-claude-scans:
+    en: No transcription existed. Claude, an AI model, read the text from the scans.
+    de: Es gab keine Transkription. Claude, ein KI-Modell, las den Text von den Scans.
+  t-ai-supplied:
+    en: The text was transcribed from the scans by an AI system and supplied by the editor.
+    de: Der Text wurde von einem KI-System nach den Scans transkribiert und vom Herausgeber geliefert.
+  t-latin-expanded:
+    en: The Latin abbreviations are written out.
+    de: Die lateinischen Abkürzungen sind aufgelöst.
+
+  # What was checked, and by whom
+  c-claude-full:
+    en: Claude then compared the whole transcription with the scans and corrected it where the page is plain.
+    de: Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
+  c-claude-witness:
+    en: >-
+      Claude proposed corrections to the transcription. A word was changed
+      only where an independent witness supported the change, such as a
+      second copy of the text, the same word written clearly elsewhere or a
+      fixed formula. Words that remain doubtful were left as transcribed.
+    de: >-
+      Claude schlug Korrekturen an der Transkription vor. Ein Wort wurde nur
+      geändert, wenn ein unabhängiger Beleg die Änderung stützte, etwa eine
+      zweite Abschrift des Textes, dasselbe Wort an anderer Stelle deutlich
+      geschrieben oder eine feste Formel. Zweifelhafte Wörter blieben wie
+      transkribiert.
+  c-editor-full:
+    en: The editor then checked the reading against the scans, line by line.
+    de: Der Herausgeber prüfte die Lesung anschließend Zeile für Zeile an den Scans.
+  c-editor-uncertain:
+    en: The editor then read the most uncertain readings against the scans; the rest has not been checked.
+    de: Der Herausgeber las anschließend die unsichersten Lesungen an den Scans nach; der Rest ist nicht geprüft.
+
+  # Who translated
+  l-claude:
+    en: Claude translated the documents into English.
+    de: Claude übersetzte die Dokumente ins Englische.
+  l-auto-check:
+    en: An automatic check confirms that every figure, name and mark of doubt survives into the English.
+    de: Eine automatische Prüfung bestätigt, dass jede Zahl, jeder Name und jede Zweifelsmarkierung ins Englische übernommen wurde.
+  l-editor:
+    en: The English is the editor's own translation.
+    de: Die englische Übersetzung stammt vom Herausgeber.
+  l-editor-revised:
+    en: The English is the editor's own translation; Claude changed it where the corrected text required it.
+    de: Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte.
+
+  # The summaries
+  s-claude:
+    en: >-
+      Claude wrote the summaries, and a separate pass checked every statement
+      against the document; a statement the document does not support was cut
+      or weakened.
+    de: >-
+      Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang
+      prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht
+      stützt, wurde gestrichen oder abgeschwächt.

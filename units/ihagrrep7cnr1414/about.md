@@ -14,9 +14,7 @@ Antoni Prusimski, Starost of Niszczewice, owned the Trąbczyn and Kamionna estat
 
 The papers do not say what Prusimski wanted the certificate for, or what was done with the news. A later document does. The statement of his daughter's claim that the Russian envoy handed to the Prussian government in 1818 says that the Prussian authorities had summoned Prusimski in October 1795 and February 1796 to justify his leaving the country. It says that the summonses reached him at Venice only months later, and that he sent a certificate, legalised by the Prussian legation councillor at Venice, Count "Cathane", and asked for more time to answer. He died before he obtained it ([[unit:iiihamdaiiinr12366]], document 2). That statement calls it a certificate of his wife's illness and death; the resident's dispatch speaks of Prusimski's own condition. <!-- context -->
 
-### Form and language
-
-The first page is the department's own draft, with its registry marks and two ministers' signatures. The extract is a clean copy made in the department. Schrötter's letter is the original he sent. On the extract and on Schrötter's letter the department noted the day of receipt, the journal number and what was to be done; on the pages here these notes stand under a label after the text they were written on. The direction of 8 January 1797 is written on a slip of its own. <!-- context -->
+**The papers.** The first page is the department's own draft, with its registry marks and two ministers' signatures. The extract is a clean copy made in the department. Schrötter's letter is the original he sent. <!-- context -->
 
 ### Related holdings
 

@@ -20,9 +20,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The inn wrecked, January 1773.** In March 1773 Chełmski entered a protest over his own signature: Prusimski, knowing that the settlers of Lusnia were adjudged to Chełmski, had let his steward Lipiński and his chamber servant Marzęcki ride upon the inn and the settlers [[9]]. Bikierski reported the damage: stove, three windows and four doors, newly put in by Chełmski, hacked out, the chimney ruined, the vessels smashed, in the night of 29 January [[10]].
 
-### Form and language
-
-Each entry is a few lines among many others on its page; the pages are shown whole and the other entries are not transcribed. The Latin is heavily abbreviated and the transcription writes it out. Two of the notes of 1768 are transcribed only as far as they could be read, and "…" marks what is left out. Chełmski's signature stands under his protest, and twice more at the foot of the page with the entries of 20 December 1771. Three entries stand under a sitting whose dated heading is on a page that was not photographed; they are dated to the month from the headings before and after them. <!-- context -->
+**Notes on the entries.** Two of the notes of 1768 are transcribed only as far as they could be read, and "…" marks what is left out. Chełmski's signature stands under his protest, and twice more at the foot of the page with the entries of 20 December 1771. Three entries stand under a sitting whose dated heading is on a page that was not photographed; they are dated to the month from the headings before and after them. <!-- context -->
 
 ### Related holdings
 

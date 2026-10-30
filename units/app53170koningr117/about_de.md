@@ -18,9 +18,7 @@ Der Streit, wie ihn diese Einträge erzählen: Tracholz hatte eine Forderung aus
 
 Das Dekret der Kommissare, das Chełmski in seinen beiden Protesten rühmt, ist die „einseitige Handlung“, gegen die 1775 fünf Kommissare des Reichstags protestierten und nach der Prusimskis Leute 1776 in Konin suchten: [[unit:app53170koningr116]]. <!-- context -->
 
-### Form und Sprache
-
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Sieben der dreizehn sind lange Einträge in formelhaftem Latein, in dem die meisten Wörter abgekürzt sind. Sie wurden ein zweites Mal Wort für Wort neben den Aufnahmen gelesen; einige Wörter darin bleiben als zweifelhaft gekennzeichnet. Zwei Berichte geben auf Polnisch wieder, was der Bote sah. Antoni Prusimski nennt Paweł Prusimski hier seinen „patruus“, den Bruder seines Vaters; kein anderer Bestand sagt, wie die beiden verwandt waren. Chełmskis erster Protest hat auf der fotografierten Seite keine Überschrift. Der Vermerk über das Verweisungsdekret verweist auf einen Text „gegenüber, unter dem Zeichen #“, der nicht auf den fotografierten Seiten steht. Sechs Einträge haben keine datierte Sitzungsüberschrift über sich; drei sind nach der Überschrift an anderer Stelle der Doppelseite datiert, drei nach den Überschriften davor und danach, und jeder sagt das. <!-- context -->
+**Anmerkungen zu den Einträgen.** Zwei Berichte geben auf Polnisch wieder, was der Bote sah. Antoni Prusimski nennt Paweł Prusimski hier seinen „patruus“, den Bruder seines Vaters; kein anderer Bestand sagt, wie die beiden verwandt waren. Chełmskis erster Protest hat auf der fotografierten Seite keine Überschrift. Der Vermerk über das Verweisungsdekret verweist auf einen Text „gegenüber, unter dem Zeichen #“, der nicht auf den fotografierten Seiten steht. Sechs Einträge haben keine datierte Sitzungsüberschrift über sich; drei sind nach der Überschrift an anderer Stelle der Doppelseite datiert, drei nach den Überschriften davor und danach, und jeder sagt das. <!-- context -->
 
 ### Verwandte Bestände
 

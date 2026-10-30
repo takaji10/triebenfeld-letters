@@ -16,9 +16,7 @@ His figures for Łazińsk follow the farmers and their land from 1840 to 1935: 8
 
 His notes of July 1935 [[8]] and July 1936 [[10]] are on Huta Trąbczyńska, Orlin, Józefów and the villages around them: the number of farmers and of cattle, the first farmers of Józefów, houses, hymn books, dress, speech (Low German among the old people, Kashubian in Orlin in earlier days), customs, thieving and poverty. They also cover marriages, the Pentecostalists and Baptists who had come to Orlin, the young people going to the Poznań region, and relations with the Poles, who "all speak good German".
 
-### Form and language
-
-The tables and the servitudes are copied in Russian, in the spelling of before 1918; Breyer's notes are in German, in Latin script and some in Kurrent, short and much abbreviated; the sheet of 1858 is in Polish. In the tables a figure such as "17-71" is 17 Morgen 71 rods, and on the sheet of 1858 "1-50" is 1 złoty 50 groszy. Breyer separates his notes with a short line and a small circle. The tables are given as tables, the entry's number first and the name second. <!-- context -->
+In the tables a figure such as "17-71" is 17 Morgen 71 rods, and on the sheet of 1858 "1-50" is 1 złoty 50 groszy. <!-- context -->
 
 ### Related holdings
 

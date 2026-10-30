@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3570"
-title: "I. HA GR, Rep. 7 C, Nr. 3570"
+title: "Die Schenkungsurkunde über die dem Fürsten v. Hohenlohe-Ingelfingen zum erblichen Besitz verliehenen Güter der Stadt Kamiono und des Marktfleckens Kulm sowie der Dörfer Prabizyn, Szettlewel, Nowawies, Lazy, Alt und Neu Laske, Oszny, Hauland, Trabczinski und Brzyce Weitere Schenkungen: der Obrist Sanitz erhält die Güter Pawlow, Dzwonow und Burenbusch; der Generalmajor v. Blücher erhält die Güter Duninow; der Generalleutnant v. Dolffs das Gut Strzelec; der Major v. Pontanus erhält die Güter Dziejorzow, Borschkowo und Jambie; der Leutnant v. Holtzendorff erhält die Güter Gluskow, Malavies und Grochalle; der Generalmajor v. Larisch erhält das Gut Lekarziewice"
 lang: de
 permalink: "/de/quellen/ihagrrep7cnr3570/"
 alt_url: "/sources/ihagrrep7cnr3570/"
@@ -21,9 +21,7 @@ Die Akte enthält der Reihe nach: ein Schreiben Hoyms vom 30. Juli 1796 mit der 
 
 Hoyms Bericht schlägt für Hohenlohe-Ingelfingen die Güter vor, die Anton von Prusimski konfisziert worden waren: Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Łazy, Alt und Neu Laski, Osiny, das Trąbczyner Hauland und Brzyce <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>. Die sechs Offiziere, die andere Güter erhielten, sind von Sanitz, Blücher, von Dolffs, von Pontanus, von Holtzendorff und von Larisch <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>.
 
-### Form und Sprache
-
-Die Schriftstücke sind Entwürfe und Abschriften in deutscher Sprache. Registraturvermerke am Anfang der Akte halten fest, dass sie 1826 im Zusammenhang mit einem Anspruch von Sanitz' wegen seiner verlorenen Güter herangezogen wurde. Zwölf Seiten, offenbar die Urkunden für die sechs Offiziere, sind nicht transkribiert und nur als Aufnahmen wiedergegeben. Der Urkundenentwurf und eines der Schreiben Hoyms sind in der Transkription teilweise verderbt. <!-- context -->
+Die Schriftstücke sind Entwürfe und Abschriften in deutscher Sprache. Registraturvermerke am Anfang der Akte halten fest, dass sie 1826 im Zusammenhang mit einem Anspruch von Sanitz' wegen seiner verlorenen Güter herangezogen wurde. Zwölf Seiten, offenbar die Urkunden für die sechs Offiziere, sind nicht transkribiert und nur als Aufnahmen wiedergegeben. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -31,22 +29,10 @@ Die Hohenlohe-Ingelfingen ausgestellte Urkunde mit ihren beglaubigten Abschrifte
 
 <!--prepared-->
 
-### Aufnahmen
-
-Das Archiv hat die Akte in 28 Aufnahmen fotografiert, die meisten davon Doppelseiten. Vier Aufnahmen leerer oder nicht zugehöriger Seiten wurden auf Weisung des Herausgebers weggelassen. Dreizehn Doppelseiten mit leerer linker Seite wurden im Falz auf die beschriebene Seite beschnitten. Eine Doppelseite, die auf beiden Seiten beschrieben ist, blieb ganz und zählt als eine Seite.
-
 ### Transkription
 
-Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme. Zwölf Seiten blieben nach Entscheidung des Herausgebers untranskribiert, weil sie ein Urkundenformular für die sechs anderen Empfänger wiederholen. Jede dieser Seiten trägt neben ihrer Aufnahme den Vermerk „(not transcribed)“.
+Der Text wurde von einem KI-System nach den Scans transkribiert und vom Herausgeber geliefert. Claude schlug Korrekturen an der Transkription vor. Ein Wort wurde nur geändert, wenn ein unabhängiger Beleg die Änderung stützte, etwa eine zweite Abschrift des Textes, dasselbe Wort an anderer Stelle deutlich geschrieben oder eine feste Formel. Zweifelhafte Wörter blieben wie transkribiert. Zwölf Seiten, die dieselbe Urkundenform für die übrigen sechs Empfänger wiederholen, blieben auf Wunsch des Herausgebers untranskribiert.
 
-### Gliederung in Dokumente
+### Übersetzung und Zusammenfassungen
 
-Der Herausgeber behandelt die ganze Akte als ein Dokument, datiert nach der Urkunde vom 9. August 1796. Die Registraturvermerke und der Titel am Anfang stehen davor.
-
-### Korrekturen
-
-Ein KI-Modell (Claude) schlug Korrekturen der Transkription vor. Ein Wort wurde nur geändert, wo ein unabhängiger Beleg die Änderung stützte: dasselbe Wort oder derselbe Name deutlich geschrieben an anderer Stelle der Akte oder die feststehende Schreibung eines Ortes. Jede Änderung ist mit ihrem Grund verzeichnet. Wörter, die zweifelhaft bleiben, stehen wie transkribiert.
-
-### Zusammenfassung und Übersetzung
-
-Das Modell las das Dokument ganz und schrieb eine deutsche Zusammenfassung. Ein zweiter, getrennter Durchlauf des Modells prüfte die Zusammenfassung am Text und fand keine Aussage, die der Text nicht trägt. Die englische Zusammenfassung ist eine Übersetzung der geprüften deutschen. Das Modell übersetzte auch die transkribierten Seiten. Acht Korrekturen, die es bei der Übersetzung vorschlug, beruhten allein auf dem Sinn und wurden nicht übernommen; das Englische kennzeichnet diese Wörter als unsicher.
+Claude übersetzte die Dokumente ins Englische. Korrekturen, die Claude während der Übersetzung vorschlug und die sich nur auf den Sinn stützten, wurden nicht übernommen; das Englische kennzeichnet diese Wörter als unsicher. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

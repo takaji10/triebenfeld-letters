@@ -10,9 +10,7 @@ Die Akte enthält der Reihe nach: ein Schreiben Hoyms vom 30. Juli 1796 mit der 
 
 Hoyms Bericht schlägt für Hohenlohe-Ingelfingen die Güter vor, die Anton von Prusimski konfisziert worden waren: Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Łazy, Alt und Neu Laski, Osiny, das Trąbczyner Hauland und Brzyce [[1]]. Die sechs Offiziere, die andere Güter erhielten, sind von Sanitz, Blücher, von Dolffs, von Pontanus, von Holtzendorff und von Larisch [[1]].
 
-### Form und Sprache
-
-Die Schriftstücke sind Entwürfe und Abschriften in deutscher Sprache. Registraturvermerke am Anfang der Akte halten fest, dass sie 1826 im Zusammenhang mit einem Anspruch von Sanitz' wegen seiner verlorenen Güter herangezogen wurde. Zwölf Seiten, offenbar die Urkunden für die sechs Offiziere, sind nicht transkribiert und nur als Aufnahmen wiedergegeben. Der Urkundenentwurf und eines der Schreiben Hoyms sind in der Transkription teilweise verderbt. <!-- context -->
+Die Schriftstücke sind Entwürfe und Abschriften in deutscher Sprache. Registraturvermerke am Anfang der Akte halten fest, dass sie 1826 im Zusammenhang mit einem Anspruch von Sanitz' wegen seiner verlorenen Güter herangezogen wurde. Zwölf Seiten, offenbar die Urkunden für die sechs Offiziere, sind nicht transkribiert und nur als Aufnahmen wiedergegeben. <!-- context -->
 
 ### Verwandte Bestände
 

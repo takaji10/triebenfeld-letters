@@ -36,6 +36,8 @@ original_title: "Korrespondenz des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelf
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [correspondence]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de, fr, pl]
 date_span: 1798-1816
 status: translated         # draft | transcribed | translated | published
 
@@ -102,3 +104,17 @@ description: >-
 # with two witnesses. A property of this holding, so it lives with it.
 translation_pilot: ["48", "302", "136", "291", "17", "72e", "283", "290",
                     "297", "3", "215", "247"]
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - en: Claude transcribed the letters from the German cursive handwriting; the present transcription is a second machine reading, made in September 2026, in which the editor corrected names and layout by hand. The machine's typical errors are a single misread letter and, more seriously, a real word put in place of the right one without a mark of doubt. The editor transcribed seventeen passages written sideways in the margins that the machine had missed.
+    de: Claude transkribierte die Briefe nach der deutschen Kurrentschrift; die vorliegende Transkription ist eine zweite maschinelle Lesung vom September 2026, in der der Herausgeber Namen und Layout von Hand korrigierte. Die typischen Fehler der Maschine sind ein einzelner falsch gelesener Buchstabe und, schwerwiegender, ein echtes Wort anstelle des richtigen ohne Zweifelsmarkierung. Siebzehn quer an den Rand geschriebene Stellen, die die Maschine übersehen hatte, transkribierte der Herausgeber.
+  - en: 'Claude proposed corrections in several passes, with the editor setting the rule: a word is changed only where an independent witness supports the change and the new word is close in its letters to the old one. Accepted witnesses were a second copy of the same letter, the same word written correctly elsewhere in the letter, a word or name attested many times in the file, and fixed formulas of address and closing. Names, figures, abbreviations and passages in French, Polish or Latin were not changed on Claude''s judgement. The editor checked samples of each batch against the scans.'
+    de: 'Claude schlug in mehreren Durchgängen Korrekturen vor, wobei der Herausgeber die Regel setzte: Ein Wort wird nur geändert, wenn ein unabhängiger Beleg die Änderung stützt und das neue Wort dem alten in den Buchstaben nahe ist. Als Belege galten eine zweite Abschrift desselben Briefes, dasselbe Wort an anderer Stelle des Briefes richtig geschrieben, ein in der Akte vielfach belegtes Wort oder ein Name und feste Anrede- und Schlussformeln. Namen, Zahlen, Abkürzungen und Stellen auf Französisch, Polnisch oder Latein änderte Claude nicht nach eigenem Urteil. Der Herausgeber prüfte Stichproben jedes Durchgangs an den Scans.'
+  - en: Personal names and titles were brought to one spelling on the editor's ruling. Where a letter gives no date, sender or recipient, the editor or Claude supplied it from the content, and the page of the document states the basis. Thirteen letters are largely uncorrected and marked as rough.
+    de: Personennamen und Titel wurden auf Entscheidung des Herausgebers auf eine Schreibung gebracht. Wo ein Brief kein Datum, keinen Absender oder Empfänger nennt, ergänzte ihn der Herausgeber oder Claude aus dem Inhalt, und die Seite des Dokuments nennt die Grundlage. Dreizehn Briefe sind weitgehend unkorrigiert und als grob gekennzeichnet.
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude

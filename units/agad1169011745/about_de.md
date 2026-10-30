@@ -16,9 +16,7 @@ Preußen bildete die Provinz Südpreußen aus den polnischen Gebieten, die es in
 
 **Trąbczyn und die Orte in seiner Nähe.** Trąbczyn, geschrieben „Trąpczyn“, ist Eintrag 291: 32 Häuser, 1 Kirche und 165 Einwohner, 51 männlich und 114 weiblich [[1]]. Sein Hauland ist Eintrag 292 und größer als das Dorf: 34 Häuser und 271 Einwohner [[1]]. Zwei kleine Orte tragen den Namen des Gutes in gekürzter Form: ein Nowa wieś mit 5 Häusern und 49 Einwohnern (Eintrag 194) und ein Stara Huta mit 2 Häusern und 9 Einwohnern (Eintrag 283) [[1]]. Szetlew hat 11 Häuser und 84 Einwohner; Szetlewek hat 20 Häuser und 140 Einwohner, darunter 4 Juden [[1]]. Łukom, der Nachbar, mit dem Trąbczyn zwei Jahrhunderte um seine Grenze stritt, hat 28 Häuser und 149 Einwohner, sein Hauland 8 Häuser und 40 Einwohner [[1]].
 
-### Form und Sprache
-
-Der Kopf der Tabelle ist gedruckt, in deutscher Sprache. Er steht auf einem höheren Blatt, das hinter den beschriebenen Blättern liegt und über jedem von ihnen sichtbar ist, so dass ein Kopf für alle Seiten dient. Die Einträge stammen von der Hand eines Schreibers. Er schrieb die Art der Orte in deutscher Schrift und die Namen in lateinischer Schrift. Die Namen sind polnisch, in seiner Schreibung, und einige sind gekürzt („Kurow Grab:“, „dito Szyman.“). In jeder Zeile ergeben Männer und Frauen die angegebene Summe, und die Zeilen jeder Seite ergeben deren Seitensumme. <!-- context -->
+**Summen.** In jeder Zeile ergeben Männer und Frauen die angegebene Summe, und die Zeilen jeder Seite ergeben deren Seitensumme. <!-- context -->
 
 ### Verwandte Bestände
 

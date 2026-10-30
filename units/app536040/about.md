@@ -20,10 +20,6 @@ The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Koninie", 
 
 **The decree.** Józef Chełmski appeared in person for himself and his brother; the Prusimskis and the others appeared through Konstanty Marszyński. Because the question of the ground belongs before its own court, the land court finds that a sworn commissioner of the provinces of Poznań and Kalisz must go onto the ground, with two friends named by each side. The parties have agreed on Wojciech Biskupski. They are to bring him and the friends, at their common cost, to the ground from which the dispute arose, on the Monday after Misericordia Sunday. The commissioner and the friends are to examine sworn witnesses of great age who know the matter, on the ownership of the disputed ground and on the violence and damage, and to decide all the claims. An appeal to the land court lies only from their final sentence. Each party is to pay a penalty of fourteen Polish marks, half to the other side and half to the court. A party that does not comply is banished from the Kingdom, the banishment to be proclaimed by a court messenger and carried out by the starost's municipal court [[1]].
 
-### Form and language
-
-The heading of the sitting stands at the top of leaf 368. The entry begins a quarter of the way down leaf 372, under its own heading, fills leaves 372 verso and 373, and ends in nine lines on leaf 373 verso. Other entries stand on the first, second and last of these pages and are not transcribed. The Latin is abbreviated in the manner of the court books; the transcription fills the abbreviations out. A clause left out by the clerk and added at the foot of leaf 372 with a mark is given where the mark places it. <!-- context -->
-
 ### Related holdings
 
 Earlier suits between the two estates before the same court: [[unit:app536017]] and [[unit:app536036]]. A later one, over potash: [[unit:app536045]]. The decree of 1775 that ended the dispute and cites this one: [[unit:app53170koningr145]]. <!-- context -->

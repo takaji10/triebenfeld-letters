@@ -18,10 +18,6 @@ The correspondence of the Prince's agent holds the other side of the same story:
 
 **The conclusion.** The Commission of Instruction advises that the Council of State set the demand aside as based on no legal principle, and hands in a draft decree drawn to its conclusions [[1]]. <!-- context -->
 
-### Form and language
-
-The report is in French, the working language of the Kingdom's central bodies, in the administrative prose of the period: long sentences, grounds numbered 1° to 4° and 1° to 5°, arguments lettered a° to c° and answered ad a., ad b., ad c. The heading on the first page is heavily corrected in the manuscript. A passage on p. 160, a first draft of the grounds, is struck out with a line through it; crossed-out text is not recorded. A passage on p. 159, on the Hohenlohe action of 1808, which the archive's transcript skips, is restored from the scan. <!-- context -->
-
 ### Related holdings
 
 The grant of Trąbczyn to Hohenlohe-Ingelfingen in 1796: [[unit:oe1bu14525]] and [[unit:ihagrrep7cnr3570]]. The estate as the Prussian administration found it, in the table of about 1797: [[unit:agad1169011745]]. The letters of the Prince's agent, with Weigel's compensation claim and Prussia's protests: [[unit:oe1bu9454]]. The parcelling of Zagórów and Trąbczyn among settlers in 1805 and 1806: [[unit:app539680801]]. <!-- context -->

@@ -1,6 +1,6 @@
 ---
 unit: "kdw"
-title: "Kodeks Dyplomatyczny Wielkopolski"
+title: "Diplomatic Code of Greater Poland"
 lang: en
 permalink: "/sources/kdw/"
 alt_url: "/de/quellen/kdw/"
@@ -25,9 +25,7 @@ The Cistercian abbey of Ląd, on the Warta between Konin and Pyzdry, was the gre
 
 The editors' notes are of their time and are kept as they are. Their note to the exchange of 1418 puts Wronczyn in the district of Poznań and could not say which Drzewce is meant, but the document places Great Wrąbczyn beside Zagórów, and it is tagged so <span class="cite">[<a href="{{ '/documents/kdw/18/' | relative_url }}">18</a>]</span>. <!-- context -->
 
-### Form and language
-
-The documents are in Latin. The editors' apparatus is in Latin and Polish in volumes 1 to 5 and in Polish in 6 to 11. Their footnote marks, figures and letters, stand in the electronic text on the line with the words; the site raises them and sets the notes apart, without changing the text. Vertical strokes in some texts are the editors' marks of the line ends of the original, as words broken across them show ("signifi|camus"). <!-- context -->
+The editors' apparatus is in Latin and Polish in volumes 1 to 5 and in Polish in 6 to 11. Vertical strokes in some texts are the editors' marks of the line ends of the original, as words broken across them show ("signifi|camus"). <!-- context -->
 
 ### Estates and people
 
@@ -39,22 +37,10 @@ The convent of Ląd as owner of Drzewce, a neighbour of Trąbczyn, in the bounda
 
 <!--prepared-->
 
-### Text
+### Transcription
 
-There are no page images: the Wielkopolska Digital Library holds the Kodeks as a proofed electronic text, one file to a volume, without the printed pages. The editor chose the entries and supplied them in one file, copied from those texts, and that file is the transcription: every line of an entry is a line of the document, from the Kodeks's number to the last note. Nothing in it is corrected (the editor: the text "should be taken as secure"). Each document is one page.
+There are no page images. The text is copied from the electronic text of the Wielkopolska Digital Library, which the editor takes to be secure, and nothing in it is corrected.
 
-### Footnotes
+### Translation and summaries
 
-In the electronic text the editors' footnote marks stand on the line, glued to their words ("Mezeconis1", "quatuordecimoa"), and the notes follow the text. Each mark and each note was located by hand and recorded beside the text; the site raises the marks and sets the notes apart. Two have no partner: a note of the entry of 1414 that the file runs into the line of another, and a note of the first entry of 1440 whose mark is not in the text.
-
-### Dating and places
-
-Each document is dated and placed by the editors' heading, which reads its dateline. The document of Archbishop Fulko has no place, and the editors mark its year, 1240, "sic". Where a copy's year is at odds with the rest of its date, the editors' year is taken: 1415 for the copy that has 1414, 1434 for the one that has 1435, as their notes explain.
-
-### Estates and people
-
-Each document is tagged by hand with the estates of the editor's list of seventeen that it names, read with the editors' identifications. People are entered in the index only where they are of Trąbczyn (the editor): the knights and heirs of Trąbczyn of 1276 to 1434, and the parish priest of 1399. Many people of other places are left unnamed in the index.
-
-### Summary and translation
-
-The summaries were written in German from the Latin and the editors' apparatus of each whole entry, and put into English; each of their 107 statements was then checked against the entry. The English translation of each entry, the editors' parts as well as the document, was made in the same session; places are given in their modern Polish forms where the editors identify them, the medieval spellings standing in the Latin. The medieval spellings of each estate are listed with their years on the page of places.
+Claude translated each entry into English, the editors' parts as well as the document. Places are given in their modern Polish forms where the editors identify them, and the medieval spellings stand in the Latin. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

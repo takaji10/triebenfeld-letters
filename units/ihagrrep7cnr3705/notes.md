@@ -67,3 +67,29 @@ None recorded.
   sense or grammar and stay as written.
 - English summary translated by hand from the checked German one. Published
   from v2.
+
+## Form and language (taken off the public page, 2026-10-30)
+
+The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
+
+A fair copy in German. The letters A to H in its margin refer to enclosures, which are not in the file. The file contains no reply to the petition.
+
+## How it was prepared (the public text before 2026-10-30)
+
+The editor ruled the tab too detailed: it now tells only what an AI decided that affected the text (`prepared:` in unit.yml). The full account, kept here:
+
+### Scans
+
+The archive photographed the file as eighteen images: a title page and seventeen openings of two facing pages. The openings were not cut, because the transcription treats each opening as one piece. A page here is therefore one opening.
+
+### Transcription
+
+The German text was transcribed by an AI system and supplied by the editor, one file for each scan.
+
+### Corrections
+
+An AI model (Claude) proposed corrections to the transcription. A word was changed only where an independent witness supported the change, such as the same word spelled out elsewhere in the petition or a fixed formula. Each change is logged with its reason. One of them is the closing formula, which was restored from the form Triebenfeld uses in his other letters; the English was edited to match. Words that remain doubtful were left as transcribed.
+
+### Summary and translation
+
+The model read the document whole and wrote a German summary. A second, separate run of the model checked the summary against the text. It removed the lessees' first names, which are known from another holding and not from this petition. The English summary is a translation of the checked German one. The model also translated the document. Three corrections it proposed during translation rested on sense alone and were not applied.

@@ -8,10 +8,6 @@ Hohenlohe-Ingelfingen besaß Güter und Hüttenwerke in Schlesien und, durch kö
 
 Die Urkunde beginnt mit dem vollen Titel des Königs und gibt einen Auszug des Testaments wieder, den ein Gericht in Wrocław (Breslau) beglaubigt hatte [[1]]. Der Auszug bestimmt zum Majorat die Häuser Hohenlohe-Ingelfingens in Wrocław und den Park in Szczytniki; das Gut Bytków; die Herrschaft Koszęcin mit Boronów, Olszyna, Harbultowitz und Cieszowa; sowie die südpreußischen Herrschaften Zagórów, Trąbczyn, Pszczew, Wieniec und Bątkowo [[1]]. Eine weitere Bestimmung regelt die Erbfolge für den Fall, dass der Mannesstamm erlischt: Die dritte Tochter, Auguste, erhält die südpreußischen Güter, Adelheid die schlesischen Hüttenwerke und Emilie Koszęcin [[1]]. Die Urkunde schließt mit der Bestätigung, den Vorbehalten des Königs und einem Befehl an die Behörden [[1]].
 
-### Form und Sprache
-
-Eine Ausfertigung in rotem Leder, mit dem königlichen Siegel in einer silbernen Kapsel. Einband, Siegel und ein leeres Blatt sind nicht wiedergegeben. Der Text ist deutsch. Der Titel des Königs in den ersten Zeilen ist in der Transkription teilweise verderbt; der übrige Text ist zuverlässig. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Verleihung der südpreußischen Güter von 1796: [[unit:oe1bu14525]] und [[unit:ihagrrep7cnr3570]]. Ihr späterer Verkauf und ihre Verpachtung: [[unit:oe1bu14526]]. <!-- context -->

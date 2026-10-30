@@ -12,10 +12,6 @@ Prussia confiscated the estates of the Starost Antoni Prusimski in 1796 and gave
 
 Under each entry stand the names of the president, Stanisław Małachowski, and the secretary general, Jan Łuszczewski [[1, 2]].
 
-### Form and language
-
-The register is a fair copy in a clerk's hand. The names under the entries are written by the clerk after the word "podpisano" (signed), with the letters "LS" for the place of the seal; neither is transcribed. Pages 47 and 48 also hold three other entries, which are not included. The commission's draft of the resolution of 21 July, with the corrections made to it, is in its files: [[unit:agad11740273]]. <!-- context -->
-
 ### Related holdings
 
 The petitions of Michalina Dąbska of July 1807 and the commission's draft resolution: [[unit:agad11740273]]. The grant of the estates to Hohenlohe-Ingelfingen in 1796: [[unit:oe1bu14525]] and [[unit:ihagrrep7cnr3570]]. The letters of his agent Triebenfeld, which report the loss of the estates in 1807: [[unit:oe1bu9454]]. The later argument over whether the return of 1807 cancelled the debts he had raised on Trąbczyn, in which the cases of Wybicki, Niemojewski and Wichrowski are cited again: [[unit:iiihamdaiiinr12366]] and [[unit:iiihamdaiiinr12367]]. <!-- context -->

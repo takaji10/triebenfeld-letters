@@ -39,6 +39,8 @@ original_title: "Weiterveräußerung von Teilen der ihm von den preußischen Kö
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [deeds-contracts]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de, pl, la]
 date_span: 1798-1806
 status: translated         # draft | transcribed | translated | published
 
@@ -142,3 +144,13 @@ translation_note: >-
   from the chapter archive. The Latin transumption clause and the Polish body
   are both source text, not corrupt German, and the document is dated by the
   1799 extraction rather than by the 1766 privilege it reproduces.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-ai-supplied
+  - en: The transcription's typical errors are a single wrong letter and, more seriously, a real word put in place of the right one without a mark of doubt. Claude settled most of the words marked as doubtful and corrected others it found wrong, usually from the same word written clearly elsewhere in the contract, a second copy of the contract or the standard wording of these contracts.
+    de: Die typischen Fehler der Transkription sind ein einzelner falscher Buchstabe und, schwerwiegender, ein echtes Wort anstelle des richtigen ohne Zweifelsmarkierung. Claude entschied die meisten der als zweifelhaft markierten Wörter und korrigierte weitere, die es für falsch hielt, meist nach demselben Wort an anderer Stelle des Vertrags deutlich geschrieben, nach einer zweiten Abschrift des Vertrags oder nach dem üblichen Wortlaut dieser Verträge.
+  translation:
+  - l-claude
+  - s-claude

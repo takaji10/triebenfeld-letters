@@ -28,9 +28,7 @@ Der Schriftwechsel über die Eintragung richtet sich überwiegend an Glenck, den
 
 Der Band enthält eine Taxe von Kamionna und Kolno, eine Taxe ihres Forstes und eine gerichtliche Taxe von Szetlewek, die einen Bruttowert von 34.803 Rthl angibt [[13, 14, 23]]. Ein weiteres Dokument ist ein beschädigter Vermerk, von dem wenig zu lesen ist [[24]].
 
-### Form und Sprache
-
-Die Dokumente sind deutsch; der Hypothekenbuchauszug für Zagórów ist zum Teil polnisch. Da die meisten Dokumente beglaubigte Abschriften sind, sind Datum und Ort eines Dokuments oft die der Beglaubigung und nicht die der abgeschriebenen Urkunde. Mehrere Urkunden erscheinen mehrfach, als eigene Abschriften mit eigener Beglaubigung. Die beiden Taxen von Kamionna und Kolno sind Tabellen und werden zeilenweise wiedergegeben. Die Dokumente behalten die Zählung des Archivs, die nicht ihren Daten folgt. <!-- context -->
+Da die meisten Dokumente beglaubigte Abschriften sind, sind Datum und Ort eines Dokuments oft die der Beglaubigung und nicht die der abgeschriebenen Urkunde. Mehrere Urkunden erscheinen mehrfach, als eigene Abschriften mit eigener Beglaubigung. Die Dokumente behalten die Zählung des Archivs, die nicht ihren Daten folgt. <!-- context -->
 
 ### Verwandte Bestände
 

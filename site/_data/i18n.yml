@@ -303,6 +303,7 @@ en:
   sources_documents: Documents
   sources_pages: Manuscript pages
   sources_span: Span
+  sources_languages: Languages
   alt_holding: First page of the holding %s
   tools_sort: Sort
   tools_az: A–Z
@@ -695,6 +696,7 @@ de:
   sources_documents: Dokumente
   sources_pages: Handschriftenseiten
   sources_span: Zeitraum
+  sources_languages: Sprachen
   alt_holding: Erste Seite des Bestands %s
   tools_sort: Sortieren
   tools_az: A–Z

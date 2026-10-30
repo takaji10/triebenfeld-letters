@@ -1,6 +1,6 @@
 ---
 unit: "iiihamdaiiinr12765"
-title: "III. HA MdA, III Nr. 12765"
+title: "Ansprüche des Friedrich Ludwig Fürst zu Hohenlohe"
 lang: de
 permalink: "/de/quellen/iiihamdaiiinr12765/"
 alt_url: "/sources/iiihamdaiiinr12765/"
@@ -43,9 +43,7 @@ Nach dem Tod Hohenlohe-Ingelfingens ließen seine Erben ihren Anspruch durch Her
 
 Dieselbe russische Note lehnt ein Gesuch ab, das mit Trąbczyn nichts zu tun hat. Graf Ernst Bethusy, Grundbesitzer in Schlesien und im Königreich Polen, hatte um freien Verkehr zwischen seinen Besitzungen nach Artikel 18 des Wiener Vertrags gebeten. Die polnische Regierung vertrat die Auffassung, der Artikel gelte nur für Besitzungen, die von der neuen Grenze durchschnitten werden <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/27/' | relative_url }}">27</a>, <a href="{{ '/documents/iiihamdaiiinr12765/28/' | relative_url }}">28</a>]</span>. Beide preußischen Ministerien hielten das Gesuch für unzulässig <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/29/' | relative_url }}">29</a>, <a href="{{ '/documents/iiihamdaiiinr12765/30/' | relative_url }}">30</a>]</span>.
 
-### Form und Sprache
-
-Zwölf Dokumente sind Entwürfe ausgehender Schreiben mit den Paraphen der Beamten, die sie genehmigten <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/2/' | relative_url }}">2</a>, <a href="{{ '/documents/iiihamdaiiinr12765/5/' | relative_url }}">5</a>, <a href="{{ '/documents/iiihamdaiiinr12765/7/' | relative_url }}">7</a>, <a href="{{ '/documents/iiihamdaiiinr12765/9/' | relative_url }}">9</a>, <a href="{{ '/documents/iiihamdaiiinr12765/10/' | relative_url }}">10</a>, <a href="{{ '/documents/iiihamdaiiinr12765/16/' | relative_url }}">16</a>, <a href="{{ '/documents/iiihamdaiiinr12765/17/' | relative_url }}">17</a>, <a href="{{ '/documents/iiihamdaiiinr12765/21/' | relative_url }}">21</a>, <a href="{{ '/documents/iiihamdaiiinr12765/22/' | relative_url }}">22</a>, <a href="{{ '/documents/iiihamdaiiinr12765/24/' | relative_url }}">24</a>, <a href="{{ '/documents/iiihamdaiiinr12765/26/' | relative_url }}">26</a>, <a href="{{ '/documents/iiihamdaiiinr12765/29/' | relative_url }}">29</a>]</span>. Drei Entwürfe stehen auf dem eingegangenen Schreiben, das sie beantworten <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/2/' | relative_url }}">2</a>, <a href="{{ '/documents/iiihamdaiiinr12765/9/' | relative_url }}">9</a>, <a href="{{ '/documents/iiihamdaiiinr12765/10/' | relative_url }}">10</a>]</span>. Eine Antwort an Hohenlohe-Ingelfingen liegt als kassierter Entwurf und als nicht abgesandte Reinschrift vor <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/11/' | relative_url }}">11</a>, <a href="{{ '/documents/iiihamdaiiinr12765/12/' | relative_url }}">12</a>]</span>. Die Paraphen stammen von Hardenberg, dem Staatsrat Stägemann und den Beamten Hoffmann und Balan; sie sind in eckigen Klammern aufgelöst <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/5/' | relative_url }}">5</a>, <a href="{{ '/documents/iiihamdaiiinr12765/22/' | relative_url }}">22</a>, <a href="{{ '/documents/iiihamdaiiinr12765/29/' | relative_url }}">29</a>]</span>. Die Dokumente sind deutsch, fünf sind französisch <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/6/' | relative_url }}">6</a>, <a href="{{ '/documents/iiihamdaiiinr12765/7/' | relative_url }}">7</a>, <a href="{{ '/documents/iiihamdaiiinr12765/13/' | relative_url }}">13</a>, <a href="{{ '/documents/iiihamdaiiinr12765/27/' | relative_url }}">27</a>, <a href="{{ '/documents/iiihamdaiiinr12765/28/' | relative_url }}">28</a>]</span>. Die Entwürfe sind in einer flüchtigen Kanzleischrift geschrieben, und mehrere sind unvollkommen transkribiert; das ist auf der Seite des betreffenden Dokuments vermerkt. <!-- context -->
+Zwölf Dokumente sind Entwürfe ausgehender Schreiben mit den Paraphen der Beamten, die sie genehmigten <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/2/' | relative_url }}">2</a>, <a href="{{ '/documents/iiihamdaiiinr12765/5/' | relative_url }}">5</a>, <a href="{{ '/documents/iiihamdaiiinr12765/7/' | relative_url }}">7</a>, <a href="{{ '/documents/iiihamdaiiinr12765/9/' | relative_url }}">9</a>, <a href="{{ '/documents/iiihamdaiiinr12765/10/' | relative_url }}">10</a>, <a href="{{ '/documents/iiihamdaiiinr12765/16/' | relative_url }}">16</a>, <a href="{{ '/documents/iiihamdaiiinr12765/17/' | relative_url }}">17</a>, <a href="{{ '/documents/iiihamdaiiinr12765/21/' | relative_url }}">21</a>, <a href="{{ '/documents/iiihamdaiiinr12765/22/' | relative_url }}">22</a>, <a href="{{ '/documents/iiihamdaiiinr12765/24/' | relative_url }}">24</a>, <a href="{{ '/documents/iiihamdaiiinr12765/26/' | relative_url }}">26</a>, <a href="{{ '/documents/iiihamdaiiinr12765/29/' | relative_url }}">29</a>]</span>. Drei Entwürfe stehen auf dem eingegangenen Schreiben, das sie beantworten <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/2/' | relative_url }}">2</a>, <a href="{{ '/documents/iiihamdaiiinr12765/9/' | relative_url }}">9</a>, <a href="{{ '/documents/iiihamdaiiinr12765/10/' | relative_url }}">10</a>]</span>. Eine Antwort an Hohenlohe-Ingelfingen liegt als kassierter Entwurf und als nicht abgesandte Reinschrift vor <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/11/' | relative_url }}">11</a>, <a href="{{ '/documents/iiihamdaiiinr12765/12/' | relative_url }}">12</a>]</span>. Die Paraphen stammen von Hardenberg, dem Staatsrat Stägemann und den Beamten Hoffmann und Balan; sie sind in eckigen Klammern aufgelöst <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/5/' | relative_url }}">5</a>, <a href="{{ '/documents/iiihamdaiiinr12765/22/' | relative_url }}">22</a>, <a href="{{ '/documents/iiihamdaiiinr12765/29/' | relative_url }}">29</a>]</span>.
 
 ### Verwandte Bestände
 
@@ -53,38 +51,12 @@ Briefe Triebenfelds an Hohenlohe-Ingelfingen, darunter die 1814 und 1815 aus Wie
 
 <!--prepared-->
 
-### Aufnahmen
-
-Das Archiv hat die Akte in 46 Aufnahmen fotografiert, jeweils zwei gegenüberliegende Seiten. Neun leere Doppelseiten wurden weggelassen. Jede andere Doppelseite wurde im Falz geteilt, und nur eine beschriebene Seite wurde zu einer Seite: 48 Seiten und ein Umschlag. Der Herausgeber hat jede Falzlinie gesetzt.
-
 ### Transkription
 
-Der deutsche und französische Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme.
+Der Text wurde von einem KI-System nach den Scans transkribiert und vom Herausgeber geliefert. Claude schlug Korrekturen an der Transkription vor. Ein Wort wurde nur geändert, wenn ein unabhängiger Beleg die Änderung stützte, etwa eine zweite Abschrift des Textes, dasselbe Wort an anderer Stelle deutlich geschrieben oder eine feste Formel. Zweifelhafte Wörter blieben wie transkribiert. Der Herausgeber prüfte zwanzig zufällig gewählte Änderungen an den Scans und fand alle zwanzig richtig.
 
-### Gliederung in Dokumente
+Claude schnitt alle Paraphen aus den Scans aus und legte sie nebeneinander. Sie ordnen sich zu vier Händen, die der Herausgeber als Hardenberg, Stägemann, Hoffmann und Balan bestätigte; die Namen sind in eckigen Klammern aufgelöst.
 
-Jeder Brief, jeder Entwurf und jeder Vermerk ist ein Dokument, insgesamt dreißig. Eine Antwort, die auf einem eingegangenen Schreiben entworfen wurde, zählt als eigenes Dokument. Kürzere Vermerke der empfangenden Behörde, etwa an wen das Schreiben ging oder was zu antworten sei, bleiben bei diesem Schreiben und stehen an dessen Ende unter der Bezeichnung „Vermerk der empfangenden Behörde“. Die Daten sind der Datumszeile jedes Dokuments entnommen.
+### Übersetzung und Zusammenfassungen
 
-### Korrekturen
-
-Ein KI-Modell (Claude) ging die Transkription durch und schlug Korrekturen vor. Ein Wort wurde nur geändert, wo etwas anderes als das Satzverständnis des Modells die Änderung stützte: eine zweite Abschrift desselben Textes an anderer Stelle der Akte, eine feste Kanzleiformel oder eine Verschreibung, die nur einen Buchstaben vom einzig passenden Wort entfernt ist. 193 Wörter wurden so berichtigt, und jede Änderung ist mit ihrem Grund verzeichnet. Der Herausgeber prüfte zwanzig zufällig gewählte an den Aufnahmen und fand alle zwanzig richtig; die zweifelhaften entschied er anschließend an der Seite. Eine Stelle, die zu verderbt ist, um sie zu klären, blieb stehen. Neun Entwürfe sind noch roh und als solche gekennzeichnet.
-
-### Paraphen
-
-Beamte paraphierten Entwürfe, statt sie zu unterschreiben, und die Transkription las diese Zeichen schlecht. Jedes wurde aus den Aufnahmen ausgeschnitten und nebeneinandergelegt. Sie ordnen sich vier Händen zu, die der Herausgeber als Hardenberg, Stägemann, Hoffmann und Balan bestätigte; die Namen sind in eckigen Klammern ergänzt. Eine frühere Lesung eines Zeichens als „Hoym“ wurde aufgegeben: Ein Minister dieses Namens war 1807 gestorben.
-
-### Ergänzung nach der Aufnahme
-
-Im Brief Hohenlohe-Ingelfingens an Stein hatte die Transkription einen Satzteil ausgelassen, der die Summe nennt, die er zur Entschuldung der Güter zahlte. Er wurde auf Wunsch des Herausgebers an der Aufnahme gelesen und ergänzt, und die Rechnung des Briefes selbst bestätigt die Zahl <span class="cite">[<a href="{{ '/documents/iiihamdaiiinr12765/6/' | relative_url }}">6</a>]</span>.
-
-### Lektüre und Zusammenfassungen
-
-Das Modell las jedes Dokument ganz und hielt fest, wer an wen schreibt, was gesagt wird, wie lesbar es ist und welche Wörter es bezweifelt. Aus dieser Lektüre entstanden deutsche Zusammenfassungen. Ein zweiter, getrennter Durchlauf des Modells prüfte sie und durfte eine Aussage, die der Text nicht trägt, nur streichen oder abschwächen. Er änderte acht Zusammenfassungen. Die englischen Zusammenfassungen sind Übersetzungen der geprüften deutschen.
-
-### Übersetzung
-
-Das Modell übersetzte jedes Dokument mit seinen Lektürenotizen und den zweifelhaften Wörtern vor Augen. Eine automatische Prüfung stellt danach fest, dass jede Zahl, jeder Name und jedes Zweifelszeichen des deutschen Textes im englischen erhalten ist. Einige Titel und Namen wurden anschließend im Englischen von Hand berichtigt. Eine Übersetzung kann nur so gut sein wie die Transkription, auf der sie beruht: Wo ein Entwurf schlecht gelesen ist, ist auch sein Englisch unsicher.
-
-### Offene Punkte
-
-Einige Wörter sind ungelesen und für den Herausgeber verzeichnet. Einzelne Satzteile und Kanzleivermerke, die auf den Aufnahmen stehen, in der Transkription aber fehlen, sind nicht ergänzt. Themen sind diesen Dokumenten noch nicht zugewiesen.
+Claude übersetzte die Dokumente ins Englische. Eine automatische Prüfung bestätigt, dass jede Zahl, jeder Name und jede Zweifelsmarkierung ins Englische übernommen wurde. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

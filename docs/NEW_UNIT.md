@@ -30,17 +30,29 @@ and the three fields the machine cannot infer:
   Sources page. Not the file's own heading with a gloss ("Acta betr: ... - the
   ministry's file on ..."): the editor found that unhelpful (2026-10-01). The
   archive's own title can be kept as `archive_title`, which nothing displays.
-- **`about.md`** and **`process.md`**, beside `unit.yml` — the two texts of the
-  holding's own page (`/sources/<slug>/`): a full description, and a short
-  account of how the holding was prepared. Write them last, once the documents
-  are read and summarised. Length follows the holding: a few paragraphs for a
+- **`languages`** — the languages of the documents, the main one first, as slugs
+  of `reference/languages.yml` (`[la, pl]`). Shown in the holding's header.
+  Not described in the text.
+- **`prepared`** — what the "How it was prepared" tab says: two lists,
+  `transcription` and `translation`, of keys of `reference/prepared.yml` and,
+  where one holding needs it, a hand-written `{en: ..., de: ...}`. The tab
+  tells the reader what an AI decided that affected the text: who made the
+  transcription, what was checked and by whom, what was changed, who
+  translated, how the summaries were checked. Not the handling of the images,
+  counts of corrections, spot sheets, reversed decisions or open points: those
+  go in `notes.md`. There is no `process.md`; the German is written from the
+  same keys.
+- **`about.md`**, beside `unit.yml` — the holding's own page
+  (`/sources/<slug>/`): a full description, with no "form and language" section
+  (the languages are in the header; what changes how a document is read, such
+  as the basis of a date, goes under "Contents"). Write it last, once the
+  documents are read and summarised. Length follows the holding: a few paragraphs for a
   single deed, several thousand words for a long correspondence. Cite the
   documents a statement rests on as `[[41]]` or `[[41, 44]]`; name another
   holding as `[[unit:<slug>]]`; end a paragraph that states nothing from a
   document with `<!-- context -->`. `check_unit_text.py` (run by
   `pipeline/regenerate.py`) fails on a year or a sum the cited documents do not have.
-  `about_de.md` and `process_de.md` are used on the German page where they
-  exist; until then it shows the English and says so. A relation note or a
+  `about_de.md` is used on the German page where it exists; until then it shows the English and says so. A relation note or a
   date basis written in `rulings.yml` is English; its German goes in
   `reference/site_notes_de.yml`, keyed by the English text. Rules for the prose are
   in `HOUSE_STYLE.md`.
@@ -487,7 +499,7 @@ together (the editor reads no German; the German is written here, free).
 
 | What the reader sees | File | Note |
 |---|---|---|
-| The holding's page: description and how it was prepared | `units/<slug>/about.md`, `process.md`, and `about_de.md`, `process_de.md` | Finding-aid form, see `HOUSE_STYLE.md`. `check_unit_text.py` holds figures to the cited documents. |
+| The holding's page: description and how it was prepared | `units/<slug>/about.md` and `about_de.md`; `prepared:` in `unit.yml` | Finding-aid form, see `HOUSE_STYLE.md`. `check_unit_text.py` holds figures to the cited documents. |
 | The one sentence on the Sources page | `title`, `title_de` in `unit.yml` | |
 | People page: who each person is, and when they lived | `reference/people_bios.yml` | One entry per new person. Dates only for an identified historical figure, checked against a reference work; everyone else shows "documented <years>", which the build works out. |
 | Places page: the map link | `reference/places_osm.yml` | Keyed by the printed name. Only where the identification is firm. |

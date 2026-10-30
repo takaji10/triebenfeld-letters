@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr1414"
-title: "I. HA GR, Rep. 7 C, Nr. 1414"
+title: "Aufenthalt des Anton v. Prusimski in Venedig"
 lang: de
 permalink: "/de/quellen/ihagrrep7cnr1414/"
 alt_url: "/sources/ihagrrep7cnr1414/"
@@ -25,9 +25,7 @@ Antoni Prusimski, Starost von Niszczewice, besaß die Güter Trąbczyn und Kamio
 
 Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die Schriftstücke nicht. Ein späteres Dokument sagt es. Die Darstellung der Forderung seiner Tochter, die der russische Gesandte 1818 der preußischen Regierung übergab, berichtet, die preußischen Behörden hätten Prusimski im Oktober 1795 und im Februar 1796 aufgefordert, seine Ausreise zu rechtfertigen. Die Aufforderungen hätten ihn in Venedig erst Monate später erreicht, und er habe ein Attest übersandt, beglaubigt vom preußischen Legationsrat in Venedig, Graf „Cathane“, und um Verlängerung der Frist gebeten. Er starb, bevor er sie erhielt (<a href="{{ '/de/quellen/iiihamdaiiinr12366/' | relative_url }}">III. HA MdA, III. Nr. 12366</a>, Dokument 2). Jene Darstellung nennt es ein Attest über Krankheit und Tod seiner Frau; die Depesche des Residenten spricht von Prusimskis eigenem Zustand. <!-- context -->
 
-### Form und Sprache
-
-Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. Auf dem Auszug und auf Schrötters Schreiben vermerkte das Departement den Tag des Eingangs, die Journalnummer und was zu geschehen hatte; auf den Seiten hier stehen diese Vermerke unter einer eigenen Überschrift nach dem Text, auf den sie geschrieben wurden. Die Verfügung vom 8. Januar 1797 steht auf einem eigenen Zettel. <!-- context -->
+**Die Schriftstücke.** Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -35,32 +33,10 @@ Die Verleihung der Güter Prusimskis an Hohenlohe-Ingelfingen 1796: <a href="{{ 
 
 <!--prepared-->
 
-### Scans
-
-Das Archiv lieferte sieben Aufnahmen. Der Herausgeber wählte vier aus: Die übrigen zeigen den modernen Umschlag und leere Blätter. Eine Aufnahme ist eine einzelne Seite und wird ganz gezeigt. Drei sind aufgeschlagene Doppelseiten, deren linke Seite leer ist; jede wurde auf die beschriebene Seite beschnitten, eine davon auf den Zettel, der die Schrift trägt.
-
 ### Transkription
 
-Der Herausgeber hat die vier Seiten zeilenweise transkribiert, eine Datei je Aufnahme. Ein am Zeilenende getrenntes Wort ist bezeichnet und erscheint im Lesetext zusammengefügt.
+Die Transkription stammt vom Herausgeber. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Einteilung in Dokumente
+### Übersetzung und Zusammenfassungen
 
-Jedes Schreiben ist ein Dokument, insgesamt drei, gezählt in der Reihenfolge, in der die Seiten in der Akte liegen; das ist nicht die Reihenfolge ihrer Daten. Der Zettel mit der Verfügung des Rats vom 8. Januar 1797 wird zu dem Auszug gezählt, auf den er sich bezieht, und steht in diesem Dokument voran, wie er in der Akte liegt.
-
-Was das Departement auf ein eingegangenes Schriftstück schrieb (den Tag des Eingangs, die Journalnummer, die Zuweisung an einen Beamten, die Anweisung, es abzulegen), steht nach dem Text der Seite unter einer eigenen Überschrift. Das Konzept ist das eigene Papier des Departements, und seine Vermerke bleiben, wo sie stehen.
-
-### Korrekturen
-
-Ein KI-Modell (Claude) hat die ganze Transkription mit den Scans verglichen und dort berichtigt, wo der Scan eindeutig ist. 20 Stellen wurden geändert, jede mit ihrer Begründung verzeichnet. Die Hälfte sind Tippfehler und einzelne Buchstaben. Ein Wort, das die Transkription im französischen Auszug ausgelassen hatte („affatigué“), wurde ergänzt. Die übrigen betreffen die flüchtigen Kanzleihände und die Unterschriften. Der Rat, der die Verfügungen unterzeichnet, ist Raumer: Sein Name steht in lateinischer Schrift ausgeschrieben am Kopf des Auszugs, und die Transkription hatte seine drei Unterschriften als Rammer, Maunes und Maurer gelesen. Die Zeile, die eine größere Hand dem Konzept hinzufügte, nennt den Großkanzler von Goldbeck als dritten Empfänger. Von den Unterschriften der beiden Minister unter dem Konzept lautet die zweite Haugwitz; die erste ist wahrscheinlich Alvensleben und steht mit einem Zweifelszeichen.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments am Scan geschrieben und ins Englische übersetzt. Danach wurde jede ihrer Aussagen am Dokument geprüft, nach denselben Regeln wie die gesonderte Prüfung, die die Zusammenfassungen anderer Bestände erhalten haben: Eine Zusammenfassung darf nur sagen, was das Dokument sagt. Von 19 Aussagen sagten zwei mehr als der Text und wurden abgeschwächt.
-
-### Übersetzung
-
-Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen, wo es welche gibt, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Der Auszug wurde aus dem Französischen übersetzt. Die Kanzleivermerke sind englisch wiedergegeben; zwei Abkürzungen, die die Seite nicht auflöst, bleiben stehen. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
-
-### Noch zu tun
-
-Von der ersten Unterschrift unter dem Konzept ist nur die Initiale A gelesen; der Rest des Namens, Alvensleben, ist in eckigen Klammern ergänzt, weil er 1797 der einzige Minister des Departements war, dessen Name mit diesem Buchstaben beginnt. Zwei kurze Vermerke am Kopf und am Fuß des Konzepts sind nicht transkribiert.
+Claude übersetzte die Dokumente ins Englische. Eine automatische Prüfung bestätigt, dass jede Zahl, jeder Name und jede Zweifelsmarkierung ins Englische übernommen wurde. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

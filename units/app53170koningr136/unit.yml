@@ -34,6 +34,8 @@ fonds: Księgi sądu i urzędu grodzkiego w Koninie
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl, la]
 date_span: 1754
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -101,3 +103,13 @@ translation_note: >-
   Olęder law, "huba" their plot; "wybirki" what is left after the best trees
   are taken; "Huta" the glassworks; "Ministerialis Regni Generalis" the
   court messenger (woźny). Trąmpczyn is Trąbczyn.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: Claude then compared the heading, the count of people and leaf 123 with the scans and corrected the transcription where the page is plain. The description of the manor buildings (about 540 words) was not compared.
+    de: Claude verglich anschließend die Überschrift, die Zählung der Personen und Blatt 123 mit den Scans und korrigierte die Transkription, wo die Seite eindeutig ist. Die Beschreibung der Herrenhausgebäude (etwa 540 Wörter) wurde nicht verglichen.
+  translation:
+  - l-editor-revised
+  - s-claude

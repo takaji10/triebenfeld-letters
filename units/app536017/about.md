@@ -16,13 +16,9 @@ The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Koninie", 
 
 **The order.** The court has heard both sides. At the defendant's request it orders a judicial inspection, and it adds one of the land court's messengers, whom the defendant is to choose, to see in what place and on whose ground the wrong was done, and whether it was done. The defendant is to hire the messenger at his own cost and to have the inspection carried out within six weeks of the decree at the place in dispute. Both parties are bound to attend. Whether the inspection has taken place or not, both have a final term at the next land court terms at Konin, to hear its outcome before the court from the messenger and to proceed in the suit [[1]].
 
-### Form and language
+**Neighbouring entries.** Three more entries on the same leaves concern the same people and are not transcribed. The next, on leaves 27 verso and 28, is the same plaintiff's suit against Stanislaus Łukomski in nearly the same words. Two more, on leaves 28 to 29, are suits of Nicolaus and Joannes Trąmpczyński against Albertus. <!-- context -->
 
-The entry begins halfway down leaf 27 under a heading in large letters, "Łukomski Visionem expediet", and ends in ten lines at the top of leaf 27 verso. The Latin is abbreviated in nearly every word; the transcription fills the abbreviations out, and marks the five places where a word is not fully read. <!-- context -->
-
-Three more entries on the same leaves concern the same people and are not transcribed. The next, on leaves 27 verso and 28, is the same plaintiff's suit against Stanislaus Łukomski in nearly the same words. Two more, on leaves 28 to 29, are suits of Nicolaus and Joannes Trąmpczyński against Albertus. <!-- context -->
-
-The entry has no date of its own. The heading of the sitting stands on leaf 2, which the editor transcribed but which is not among the scans: "Actum in terminis terrestribus particularibus Coninensibus feria se[x?]ta ante festum Sancti Viti Martyris proxima Anno Domini 1589 in Conin celebratis". That is, it was done at the particular land court terms of Konin, held at Konin on a weekday before the feast of Saint Vitus the Martyr (15 June) 1589. The editor read the weekday with a doubt. The decree of 1775 gives the day of these decrees as the Monday before Saint Vitus, which in 1589 was 12 June, and the document is dated from that. <!-- context -->
+**Dating.** The entry has no date of its own. The heading of the sitting stands on leaf 2, which the editor transcribed but which is not among the scans: "Actum in terminis terrestribus particularibus Coninensibus feria se[x?]ta ante festum Sancti Viti Martyris proxima Anno Domini 1589 in Conin celebratis". That is, it was done at the particular land court terms of Konin, held at Konin on a weekday before the feast of Saint Vitus the Martyr (15 June) 1589. The editor read the weekday with a doubt. The decree of 1775 gives the day of these decrees as the Monday before Saint Vitus, which in 1589 was 12 June, and the document is dated from that. <!-- context -->
 
 ### Related holdings
 

@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr116"
-title: "53/17/0/-/Konin Gr.116"
+title: "Burggericht Konin: Relationes [protocollon] 1775-1777"
 lang: de
 permalink: "/de/quellen/app53170koningr116/"
 alt_url: "/sources/app53170koningr116/"
@@ -29,9 +29,7 @@ Das Versäumnisdekret gegen Prusimski, nach dem seine eigenen Leute im Februar 1
 
 Das Dekret des Landgerichts vom Oktober 1777 führt eine Nachsuche an, die Chełmski selbst im Oktober jenes Jahres beim Burggericht Konin vornahm. Der letzte Eintrag hier entspricht ihr und ist danach datiert: <a href="{{ '/de/quellen/app536046/' | relative_url }}">53/6/0/-/46</a>. Jenes Dekret verpflichtete Prusimski, das Dekret der Kommission nach Konin zu bringen, wo sein Text heute steht. <!-- context -->
 
-### Form und Sprache
-
-Jeder Eintrag besteht aus wenigen Zeilen zwischen vielen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Das Latein ist stark abgekürzt, die Transkription schreibt es aus. Die Unterschriften sind eigenhändig und polnisch, außer der von Rajewicz; in dreien ist ein Wort nicht gelesen und gekennzeichnet. Das Latein des Schreibers nennt Kwilecki und Umiński „dapifer“, Truchsess; sie unterschreiben als „cześnik“, Mundschenk, wie sie auch das Dekret der Kommission nennt. Fünf der zwölf Einträge haben auf keiner fotografierten Seite eine datierte Sitzungsüberschrift; sie sind nach den Überschriften davor und danach datiert oder, beim letzten, nach dem Dekret des Landgerichts, und jeder sagt das. <!-- context -->
+**Anmerkungen zu den Einträgen.** Die Unterschriften sind eigenhändig und polnisch, außer der von Rajewicz; in dreien ist ein Wort nicht gelesen und gekennzeichnet. Das Latein des Schreibers nennt Kwilecki und Umiński „dapifer“, Truchsess; sie unterschreiben als „cześnik“, Mundschenk, wie sie auch das Dekret der Kommission nennt. Fünf der zwölf Einträge haben auf keiner fotografierten Seite eine datierte Sitzungsüberschrift; sie sind nach den Überschriften davor und danach datiert oder, beim letzten, nach dem Dekret des Landgerichts, und jeder sagt das. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -39,26 +37,10 @@ Das Dekret der Kommission: <a href="{{ '/de/quellen/app53170koningr145/' | relat
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält neun Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten. Dreizehn der achtzehn Hälften tragen einen transkribierten Eintrag und sind ganz wiedergegeben; fünf bleiben weg. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat die Einträge transkribiert, die die Grenzkommission betreffen, und sie absatzweise geliefert, mit ausgeschriebenem Latein.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Die Einträge sind kurz, und ein KI-Modell (Claude) las sie alle neben den Aufnahmen und korrigierte 18 Lesungen. Den Sinn ändern: Dąmbski ist der „Palatin“, der Woiwode selbst, und die Überschrift des Protests der Kommissare nennt keinen Präses; der Starost von Inowrocław heißt Brzeziński; und die vier Überschriften, die auf ein ungelesenes Wort endeten, enden auf „Manifestatur“ oder „Remanifestatur“, Proteste und Gegenproteste. Die Unterschriften unter sieben Einträgen und das Wort „Vacuum“ mit der Unterschrift darunter bei zwei weiteren wurden ergänzt. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Jeder Eintrag ist ein Dokument; die drei Vermerke der Sitzung vom 16. August 1775 bilden eines. Drei Dokumente sind eine Überschrift, unter der nichts geschrieben wurde. Drei Einträge sind nach der Zeile „Actum in Conin“ unmittelbar über ihnen datiert, drei nach der Überschrift ihrer Sitzung an anderer Stelle des Blattes. Sechs haben auf keiner fotografierten Seite eine datierte Überschrift: Vier sind nach den Überschriften davor und danach auf den Monat datiert, einer nach seiner Stelle im Buch auf das Jahr und der letzte nach dem Dekret des Landgerichts, das ihn anführt, auf den Oktober 1777. Jeder sagt das.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an dreizehn Stellen geändert, an denen der Text korrigiert worden war, und die Unterschriften wurden ergänzt.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach dem Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer 37 Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

@@ -16,9 +16,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The record.** On Friday 12 July 1754 the court messenger Bartłomiej Szeptycki of Trąbczyn came before the municipal court office at Konin and declared that on the Tuesday before, at the request of Katarzyna Prusimska, he had gone with the two noblemen to Trąbczyn. From there he had gone to the villages of Osiny, Łazy, Nowa Wieś, the Olęder settlement and the glassworks, and then to the woods. He declared that he had seen everything as it is written down. The record names her as the widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates [[1]].
 
-### Form and language
-
-The entry fills leaves 121 to 123. **Its middle is not transcribed**: after the malthouse, a third of the way down leaf 121 verso, the scans have a numbered description of the village houses, one by one, which runs over the whole of leaf 122 to the top of leaf 122 verso. That part is in neither the transcription nor the translation, and leaf 122 is not shown. The text takes up again at "Wieś Nowa". The Polish is the building language of the time and is given as the editor transcribed it. The Latin record at the end is abbreviated; the transcription fills the abbreviations out. <!-- context -->
+**Its middle is not transcribed**: after the malthouse, a third of the way down leaf 121 verso, the scans have a numbered description of the village houses, one by one, which runs over the whole of leaf 122 to the top of leaf 122 verso. That part is in neither the transcription nor the translation, and leaf 122 is not shown. The text takes up again at "Wieś Nowa". <!-- context -->
 
 ### Related holdings
 

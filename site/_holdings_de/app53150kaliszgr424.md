@@ -1,6 +1,6 @@
 ---
 unit: "app53150kaliszgr424"
-title: "53/15/0/-/Kalisz Gr.424"
+title: "Burggericht Kalisz: Relationes [protocollon] 1776"
 lang: de
 permalink: "/de/quellen/app53150kaliszgr424/"
 alt_url: "/sources/app53150kaliszgr424/"
@@ -25,36 +25,16 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ 
 
 **Die Nachsuche und die Antwort.** Das Amt ging an seine Berichtsbücher, in die Vorlagen aufgenommen werden, und sah sie von der Sitzung am Donnerstag, dem 17. Oktober 1776, bis zu jenem Tag durch. Es antwortete, in seinen Akten stehe kein Grenzdekret zwischen diesen Gütern, das die aufseiten Prusimskis bestellten und auf den Grund der Güter geführten Kommissare erlassen hätten, und bescheinigte das. Mierzewski unterschrieb den Eintrag <span class="cite">[<a href="{{ '/documents/app53150kaliszgr424/1/' | relative_url }}">1</a>]</span>.
 
-### Form und Sprache
-
-Die Datumszeile der Sitzung steht in der Mitte von Blatt 322 verso und der Eintrag in der Mitte von Blatt 323; beide Seiten sind voll von anderen Einträgen, die nicht transkribiert sind. Das Latein ist abgekürzt, und die Transkription schreibt es aus. <!-- context -->
-
 ### Verwandte Bestände
 
 Das gesuchte Dekret: <a href="{{ '/de/quellen/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. Die Vertagung vom 28. September 1776: <a href="{{ '/de/quellen/app53150kaliszgr425/' | relative_url }}">53/15/0/-/Kalisz Gr.425</a>. <!-- context -->
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält eine Fotografie des Buchs mit zwei gegenüberliegenden Seiten. Sie wurde am Falz in zwei Seiten geschnitten. Beide sind ganz wiedergegeben, obwohl der Eintrag und seine Datumszeile nur einen kleinen Teil davon ausmachen. Die Fotografie stammt von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat die Datumszeile und den Eintrag transkribiert und absatzweise geliefert, mit ausgeschriebenem Latein.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an der Aufnahme
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) las den Eintrag und seine Datumszeile neben der Aufnahme und korrigierte vier Lesungen. Zwei ändern den Sinn. Der Antragsteller „fragte, ob“ das Dekret vorgelegt worden sei; nach der ersten Lesung verlangte er das Dekret. Und die Kommissare heißen „erlaucht und hochwohlgeboren“, mit denselben Worten wie wenige Zeilen zuvor; die erste Lesung hatte aus ihnen Mundschenken gemacht. Die Unterschrift des Antragstellers unter dem Eintrag wurde ergänzt. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Der Eintrag ist ein Dokument, mit der Datumszeile seiner Sitzung als erster Seite: 23. November 1776.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an vier Stellen geändert, an denen der Text korrigiert worden war. Der Zusatz des Herausgebers, in wessen Namen der Antragsteller fragte, ist in eckigen Klammern beibehalten.
-
-### Zusammenfassung
-
-Die Zusammenfassung wurde auf Deutsch nach dem Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer vier Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

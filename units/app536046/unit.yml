@@ -36,6 +36,8 @@ fonds: Księgi sądu ziemskiego w Koninie
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [la]
 date_span: 1777
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -104,3 +106,14 @@ translation_note: >-
   to be entered; "actus campestris" an act done on the ground; "in proprio
   palatinatu" in the province where the land lies; "banitio" outlawry. Brest
   in Kuyavia is Brześć Kujawski; Costen is Kościan.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: Claude then read the whole of the first entry against the film, enlarged, and corrected it where the film is plain; the film shows the words but not every ending. Entry no. 17, which the editor had read only once, was transcribed again by Claude from the film, with the editor's reading beside it, and the editor settled two of its words against the page.
+    de: Claude las anschließend den ganzen ersten Eintrag vergrößert am Film nach und korrigierte ihn, wo der Film eindeutig ist; der Film zeigt die Wörter, aber nicht jede Endung. Eintrag Nr. 17, den der Herausgeber erst einmal gelesen hatte, transkribierte Claude am Film noch einmal, mit der Lesung des Herausgebers daneben; der Herausgeber entschied zwei Wörter an der Seite.
+  translation:
+  - en: The editor's English had been made from the first reading; Claude revised it to follow the corrected reading and translated entry no. 17 in the editor's terms.
+    de: Das Englisch des Herausgebers war nach der ersten Lesung entstanden; Claude überarbeitete es nach der korrigierten Lesung und übersetzte Eintrag Nr. 17 in den Begriffen des Herausgebers.
+  - s-claude

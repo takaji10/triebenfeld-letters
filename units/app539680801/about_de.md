@@ -16,9 +16,7 @@ Die vier Freijahre sollen zu Weihnachten „dieses Jahres“ beginnen und zu Wei
 
 Vier Jahre vor Weihnachten 1808 liegt Weihnachten 1804. Der Vertrag scheint also 1804 aufgenommen und erst im März 1806 ausgefertigt worden zu sein, nachdem die Kammer ihren Konsens erteilt hatte. Eine andere Erbpacht in den Exemplaren des Fürsten wurde am 20. Dezember 1804 aufgenommen und im Mai 1806 ausgefertigt; derselbe Beamte und dasselbe Gericht bezeugen sie. <!-- context -->
 
-### Form und Sprache
-
-Deutsch, in der Rechtssprache der Zeit, mit den lateinischen Ausdrücken der Gerichte. Der Abschreiber schreibt das Deutsche in Kurrent, Namen und Fremdwörter in lateinischer Schrift, zählt die Seiten von 1 bis 16 und schreibt mehrere Orte auf seine Weise (Zagurowo, Trompczyn, Lond). Die Liste der Anteile der Erbpächter hat er mit Verbesserungen abgeschrieben: Zwei Namen sind zwischen den Zeilen nachgetragen, und die Zählung ist geändert. Ein Vermerk über die Gerichtsgebühren neben den letzten Zeilen ist nicht transkribiert. <!-- context -->
+**Die Abschrift.** Der Abschreiber schreibt mehrere Orte auf seine Weise (Zagurowo, Trompczyn, Lond). Die Liste der Anteile der Erbpächter hat er mit Verbesserungen abgeschrieben: Zwei Namen sind zwischen den Zeilen nachgetragen, und die Zählung ist geändert. <!-- context -->
 
 ### Verwandte Bestände
 

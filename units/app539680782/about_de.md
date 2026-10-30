@@ -25,9 +25,7 @@ Es folgen zehn nummerierte Punkte [[1]]:
 
 Auf diesen Kontrakt verobligiert sich der Schul Lehrer, sein Amt als ein rechtschaffener Mann fortzusetzen, die Sonntags Schule so wie auch Kinder Lehre. Die Gemeinde stellt den Kontrakt auf ein Jahr und verobligiert sich, ihre Seite treulich zu erfüllen. Die drei unterschreiben: Johann George Lindner als Schulze, Christoph Rimpel als Beisitzer, Samuel Gellert "gerichten" [[1]].
 
-### Form und Sprache
-
-Der Kontrakt ist deutsch, in einer Hand, schnell geschrieben und mit lautlichen Schreibungen, die unangetastet bleiben: "Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß". Die Punkte sind 1. bis 10. nummeriert, Punkt 9 mit der Ordnungszahl "9te."; Punkt 7 trägt seine Nummer und nichts sonst. Ein am Zeilenende geteiltes Wort behält den Bindestrich des Manuskripts. "pohl." nach einer Summe bezeichnet polnisches Geld [[1]].
+"pohl." nach einer Summe bezeichnet polnisches Geld [[1]].
 
 ### Verwandte Bestände
 

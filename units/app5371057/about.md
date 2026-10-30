@@ -10,10 +10,6 @@ The record of the court, dated 31 March 1806, sets out the contract. Triebenfeld
 
 Filed with the contract are the general power of attorney given to Triebenfeld on 19 February 1805, in a certified copy, and the issued contract with its covering notes to both parties [[1]]. A letter of 1811, in Polish, records that an official, Hawich, handed the file to the peace court of the Konin district and asked that costs of 9 Rthl 18 dgl be recovered from Erbet [[1]].
 
-### Form and language
-
-The file is in German, except the letter and bill of costs of 1811, which are in Polish. One image in the archive's sequence is absent; the text continues without a gap. <!-- context -->
-
 ### Related holdings
 
 Further hereditary leases made before the same court in the same weeks, in the copies kept by Hohenlohe-Ingelfingen: [[unit:oe1bu14526]]. Letters of Triebenfeld to Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. A lease of forest at Drzewce engrossed by the same court ten days earlier, with another copy of the power of attorney and with the Chamber's consent to the parcelling, in copies made about 1930: [[unit:app539680801]]. <!-- context -->

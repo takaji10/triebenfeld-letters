@@ -119,6 +119,18 @@ so check them.
 
 ## Where things stand (2026-10-26)
 
+- **The holding pages tightened** (branch `unit-pages-tightening`,
+  2026-10-30, **not published**): the page heading is the translated title,
+  the reference sits beside the archive name, the languages are one line of
+  the header (`languages:` in unit.yml); "Form and language" is gone from 48
+  holdings (the sentences that change how a document is read moved to
+  "Contents"); "How it was prepared" tells only the AI's part, written from
+  `prepared:` in unit.yml (`reference/prepared.yml`; no more `process.md`);
+  the old texts are in each `notes.md`. "Paraph" reads "initials" in English.
+  Read WORKING_NOTES, "The holding pages: header, languages, ..." first. Open:
+  the editor's look at the new tabs; the offered read of other pages for
+  description for its own sake (TODO, section 57).
+
 - **The cemeteries** (`cemeteries/`, planned and **built and published
   2026-10-26**; plan `docs/CEMETERIES_PLAN.md`): the editor's own survey
   of the ten

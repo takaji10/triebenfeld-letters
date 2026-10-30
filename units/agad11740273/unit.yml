@@ -34,6 +34,8 @@ original_title: "Akta Komisji Rządzącej pod bytność jej w Dreźnie"
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl, fr]
 date_span: "1807"
 status: translated        # draft | transcribed | translated | published
 # Translated in session on 2026-10-05 into the untagged cache
@@ -117,3 +119,15 @@ translation_note: >-
   foot of a petition is the commission's note of the day it was presented,
   and "St[anisław] Mał[achowski]" the paraph of its president. A word followed
   by [?] is one the transcriber was unsure of.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - c-claude-full
+  - en: Spelling and abbreviations are given as the page has them; words the writers struck out are not transcribed.
+    de: Schreibung und Abkürzungen stehen so, wie die Seite sie hat; von den Schreibern gestrichene Wörter sind nicht transkribiert.
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude

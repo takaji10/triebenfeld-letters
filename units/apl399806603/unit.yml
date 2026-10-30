@@ -30,6 +30,8 @@ fonds: Urząd Gubernialny Kaliski do Spraw Włościańskich (39/98)
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [registers-tables]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [ru]
 date_span: "1868-1901"
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -80,3 +82,14 @@ translation_note: >-
   desiatina). Names are transliterated letter by letter in the English. A
   word followed by [?] or written [word?] is read with doubt; [?] alone is a
   word not read.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-claude-scans
+  - c-editor-uncertain
+  translation:
+  - l-claude
+  - en: In the tables only the names and the words are translated, and every figure stands in the same cell as in the original. Russian names are transliterated letter by letter.
+    de: In den Tabellen sind nur die Namen und die Wörter übersetzt, und jede Zahl steht in derselben Zelle wie im Original. Russische Namen sind Buchstabe für Buchstabe transliteriert.
+  - s-claude

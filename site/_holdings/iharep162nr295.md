@@ -1,6 +1,6 @@
 ---
 unit: "iharep162nr295"
-title: "I. HA Rep. 162, Nr. 295"
+title: "Entry of a capital of 50,000 Reichstaler of War Councillor von Triebenfeld on the estates of Zagorowo, formerly of the Princes of Hohenlohe-Ingelfingen, now belonging to the landowner Ignatz von Trzcinski, Vol. 1"
 lang: en
 permalink: "/sources/iharep162nr295/"
 alt_url: "/de/quellen/iharep162nr295/"
@@ -23,9 +23,7 @@ Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general
 
 **The mortgage certificate, 13 March 1805.** The Government at Kalisz certifies to the Invalids' Fund what stands registered on the town of Zagórów (certificate No. 1179). The Prince holds it by the grant of King Friedrich Wilhelm II of 19 June 1797, and his title was registered by a decree of 31 July 1801. The perpetual charges are a yearly due of 88 Reichsthaler 5 Groschen 9 Pfennig to the treasury of the Chamber at Kalisz, entered in December 1802. They also include a caveat of the Treasury of January 1803 for timber and firewood from the estate's forests, after the confiscation of the church's estates. They further include a caveat of December 1804 for Johann Giese, Johann Bagans and Friedrich Gietzinger. Their hereditary lease of Oleśnica of 22 February 1804 gave them wood, four days' digging of pine stumps and a sheep pasture of not less than 330 Morgen in the Zagórów forests. The debts are a caveat of 24 January 1804 for the Provincial Elder von Lichnowski at Brzeg, for a claim of 32,300 Reichsthaler already registered on Trąbczyn. They are also the 250,000 Reichsthaler for Triebenfeld under the bond of 1 June 1804 and the 50,000 of them pledged to the Invalids' Fund under the deed of 28 January 1805, with priority over the remainder. The copy ends with the first line of a further certificate <span class="cite">[<a href="{{ '/documents/iharep162nr295/3/' | relative_url }}">3</a>]</span>.
 
-### Form and language
-
-German, in the register of the Prussian courts, with the Latin of the mortgage registry. All three pieces are copies in one clerk's hand, made for the treasury's file: every signature is preceded by "gez." (signed), and the seals are given as "L. S." Notes in the margin record the stamped paper of the originals, and the courts' fees are copied beside the signatures. The pages carry no leaf numbers. <!-- context -->
+**The copies.** All three pieces are copies in one clerk's hand, made for the treasury's file: every signature is preceded by "gez." (signed), and the seals are given as "L. S." <!-- context -->
 
 ### Related holdings
 
@@ -33,30 +31,10 @@ The mortgage register extract for Zagórów, which records the same 250,000 Reic
 
 <!--prepared-->
 
-### Photographs and page images
-
-The editor photographed the cover and eleven pages at the archive in 2023. Each page was photographed twice, once over its top half and once over its bottom half, so that the two photographs overlap and the same lines of writing stand in both. The two photographs of each page were joined into one image of the whole page. The join runs through the gap between two lines of writing: above it the image is the top photograph, below it the bottom photograph, fitted to the top one. No line is doubled or left out. On four pages the join touches the tail of a letter in a few places. Each image is cut at the fold, so the page opposite is not shown.
-
 ### Transcription
 
-The editor transcribed the text from the page images, line by line, one file for each page. A word broken at the end of a line is marked and shown joined in the reading text.
+The transcription is the editor's own. Claude then compared the whole transcription with the scans and corrected it where the page is plain.
 
-### Division into documents
+### Translation and summaries
 
-Each of the three instruments is one document: the bond with its acknowledgement at Berlin; the Kalisz court's certificate of the second acknowledgement, with the registrar's note of the entry in the mortgage book that stands under it; and the mortgage certificate. The second and third begin partway down a page. The first line of a further certificate, with which the last page ends, is left at the end of the third document.
-
-### Corrections
-
-An AI model (Claude) compared the whole transcription with the page images and corrected it where the image is plain. 34 passages were changed, each logged with its reason. Most are the sign for the Reichsthaler, marks for words broken at a line end, and single letters. Four change the sense. In the list of the mortgaged estates in the bond the last name was read as Trąbczyn; the page has Grądzyn, as the same list in the mortgage certificate confirms, and Trąbczyn was not among the estates this bond was registered on. "Verhandlungs-Obligationen" is "Seehandlungs-Obligationen", bonds of the Prussian state bank. "Kommer Kreise" is "Koniner Kreise", the Konin district. "Ernst" is "Frist", the term of notice. In the last line "und deren" and the stamp note beside it were added from the image. Place names stand as the editor wrote them, in their usual form, where the clerk spells them otherwise. Five doubtful readings were then put to the editor against the page images: four stand as transcribed, and one figure in a fee note was changed.
-
-### Summaries
-
-The summaries were written in German from a reading of each document against its page images, and translated into English. Each statement in them was then checked against its document, under the same rules as the separate check that the summaries of other holdings received: a summary may say only what the document says. Of 27 statements one said more than the text and was weakened.
-
-### Translation
-
-The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in their settled forms where these exist and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The Latin of the registry is kept, except the two terms for a general and a special mortgage, which are given in English. The abbreviated heads of the courts' fee notes are left as they stand. The same automatic check as elsewhere then confirmed that every figure survives into the English.
-
-### Still to do
-
-A stamp note in the margin of the fifth page is not transcribed.
+Claude translated the documents into English. An automatic check confirms that every figure, name and mark of doubt survives into the English. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

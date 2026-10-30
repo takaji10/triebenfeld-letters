@@ -3875,3 +3875,24 @@ footer on every page. Changed, in both languages:
   HOUSE_STYLE records the ruling. The scan's `method-repo` flags: 55 to 0.
   Verified: build, `pipeline/verify_site.py`, `check_unit_text.py`. Not
   published.
+
+## 2026-10-30: the holding pages tightened (branch `unit-pages-tightening`, not published)
+
+- The holding page's heading is now the translated title of the archival
+  unit; the original title stands under it and the reference number beside the
+  archive's name. The browser tab names the holding by its title. The
+  languages of the documents are one line of the facts (new `languages:` in
+  all 51 unit.yml, `reference/languages.yml`).
+- "Form and language" removed from 48 holdings, English and German. What
+  changes how a document is read (the basis of a date, a part not
+  transcribed, original and copy, a kept spelling) moved to the end of
+  "Contents"; the old text is in each `notes.md`. The words of the fixes made
+  in the process: "Paraphs" heading in -/12765's `about` replaced; "paraph"
+  reads "initials" in English where a reader meets it (-/12765, the
+  summaries of AGAD 1/174/0/2/73, I. HA GR 7 C 3709's tab).
+- "How it was prepared" rewritten for all 51 holdings: only the AI decisions
+  that affected the text, written from `prepared:` in unit.yml and
+  `reference/prepared.yml` (no more `process.md` / `process_de.md`, whose text
+  moved to the notes). The tabs average about a seventh of their old length.
+- Verified: `build_site_data.py`, Jekyll build, `verify_site.py` (all checks
+  passed), `check_unit_text.py` (0 failures).

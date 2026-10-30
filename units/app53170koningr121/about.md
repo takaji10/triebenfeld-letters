@@ -10,9 +10,7 @@ Things taken from a trespasser were shown to the municipal court office, describ
 
 Ludwik Żurawski, in Prusimski's service, presents a cart with unshod front wheels and iron-shod rear wheels, two oxen, one pale and one mottled, a brindled cow and a chestnut mare, the oxen and cow in yokes and the mare in traces. They belong to Marcin Gryndel, a peasant of Łomowo, an estate of Chełmski's that belongs to Łukom. Gryndel had driven into the pine wood of Trąbczyn and was carting home a felled tree fit for building when the Trąbczyn forest keeper stopped him. The team was driven to Konin and stood before the chancery. Żurawski leaves it there to be given back to Gryndel, who asks for it at once; the receipt was entered the same day [[1]].
 
-### Form and language
-
-The entry stands among others on its pages; the pages are shown whole and the other entries are not transcribed. The clerk describes the cart and the animals in Latin and repeats each description in Polish after "als" or "alias", so that they could be identified. <!-- context -->
+The clerk describes the cart and the animals in Latin and repeats each description in Polish after "als" or "alias", so that they could be identified. <!-- context -->
 
 ### Related holdings
 

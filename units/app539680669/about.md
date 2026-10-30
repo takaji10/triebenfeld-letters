@@ -18,10 +18,6 @@ The last pages are a log of his photographs: subject, aperture, filter, exposure
 
 The second notebook [[2]] goes over some of the same ground and adds more. Very many people from Łazińsk had gone to Russia some 65 years before, in March, a month's walk; some came back from Volhynia shortly before the war. Włodzimierów had been parcelled out 25 years before from the Trąbczyn estate, whose owner was a Count Miączyński, almost all of it to Germans, and the remaining manor of some 60 Morgen went to Jesse, who came from Białobłoty. Forest land of the estate, bought by a Jew and sold on to Germans five or six years before the war, became the new settlement "Trompczyn D." [[2]]. Under the heading "Colonisation Commission" Breyer notes that many moved away and got good, drained land, and that at Ostfelde near Września the Germans from Łazińsk were driven off by the Poles for a few groszy [[2]]. Breyer also notes the speech of Obory and the Kashubian of an earlier generation, the servitudes of the villages, the teachers and sextons from 1895 to 1928, and on the last page the years 1744, 1782 and 1790 against Züllichau, Old Kazimierka and Józefów, the last "from the Chocz estate", whose owner was Lipski [[2]].
 
-### Form and language
-
-Pencil notes in German, in Latin script, with field names and a few notes in German Kurrent; they are short and much abbreviated, and quote the settlers' own words. Breyer separates his notes with a short line and a small circle, and drew the shapes of houses, barns and grave boards. The pencil is faint, and very faint on the lilac inside covers, so many words are read with doubt. <!-- context -->
-
 ### Related holdings
 
 The summons of 1860 against the colonists of the two Łazińska colonies, from the same papers of Albert Breyer: [[unit:app539680783]]. Breyer's copies on the parcelling of Zagórów and Trąbczyn in 1806: [[unit:app539680801]]. <!-- context -->

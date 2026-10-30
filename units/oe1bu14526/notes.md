@@ -235,3 +235,33 @@ left as found because neither the text nor the editor could settle them -
 The transcriptions show the German name the letters use wherever a place has one - Zagorowo, Kaemen, Peisern, Kalisch, Wittow, Betsche, Breslau - including Germanised spellings of Polish names (Kopoyno, Stalluhn, Lowin, Schartzig, Kulligowo, Swiegaszin). Places with no German form (Trąbczyn, Swięcia, Drzewce) keep their Polish spelling, and pure diacritic fixes of a Polish spelling stand (Głażewo, Stołuń, Wieluń, Przybysław). Frankfurth is the edition's spelling of Frankfurt an der Oder. The Polish names are recorded, not printed in the text: `reference/places.yml` gives each place now in Poland its Polish `display` and a `german:` field, and the site names it "Polish (German)" wherever places are listed - Zagórów (Zagorowo), Kamionna (Kaemen), Wrocław (Breslau), Poznań (Posen), Koszęcin (Koschentin). This replaces the brief "Polish everywhere" ruling of the same day: its 309 changes were reversed, and 14525's estate-spelling pass of 2026-09-15 was reversed for German forms. Bornstädt is the established form of that name; Schulze (Geheimer Finanzrat), Schulz of Strelitz and Wilhelm Daniel Schulz are separate index entries.
 - In Polish documents and Polish passages (9454 letter 72e; the Polish extract in 14525 letter 21; the Polish original in 14526 letter 30 and the Polish statements in letter 9) place names stay in Polish as written: Dobr Zagorowa, w Kaliszu, Maiętnosći Zagurowskiey (editor 2026-09-28).
 - **English translations use Polish place names (editor 2026-09-28).** The published translations and summaries were changed from the German place names to the Polish (Breslau → Wrocław, Posen → Poznań, Betsche → Pszczew, Kaemen → Kamionna; Warsaw kept as the English name); the German column of each segment's name list keeps the German. Future translation runs take the Polish name from places.yml through the glossary.
+
+## Form and language (taken off the public page, 2026-10-30)
+
+The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
+
+The documents are in German. Passages in Polish occur where a contract was read out or recorded in that language, and one document has a Latin and Polish original. Powers of attorney, royal confirmations and notarial certifications are filed with the contracts they belong to and form part of the same document. The largest runs to 28 pages. The documents keep the archive's numbering, which does not follow their dates.
+
+## How it was prepared (the public text before 2026-10-30)
+
+The editor ruled the tab too detailed: it now tells only what an AI decided that affected the text (`prepared:` in unit.yml). The full account, kept here:
+
+### Scans
+
+The volume was photographed open, in 172 images, most of them two facing pages. Each opening was cut at the fold. The first automatic cuts were often misplaced, because in a bound volume the fold is a dark shadow and not a gap between two sheets. Every fold was then checked by the editor, who moved 43 of them. Most pages were also trimmed at one edge to remove a strip of the leaf lying underneath. Blank pages were left out. The holding has 287 pages of text and the title page.
+
+### Transcription
+
+The German text was transcribed by an AI system and supplied by the editor, one file for each page. Its typical errors are a single wrong letter and, more seriously, a real word substituted for the right one without any mark of doubt.
+
+### Division into documents
+
+Each document is a contract together with its enclosures: powers of attorney, confirmations and certifications. The enclosures were at first treated as separate documents and then merged back, because an enclosure often begins partway down a page and a page can belong to only one document.
+
+### Corrections
+
+An AI model (Claude) read all the pages. It worked through every word the transcription had marked as doubtful and settled most of them. It also searched for errors the transcription had not marked, and 152 such words were corrected. Each change was made within its own line and is logged with its basis: usually the same word written clearly elsewhere in the contract, a second copy of the same contract in the volume, or the standard wording of these contracts. A few were read from the scan. Four readings and the cut-off margin of one page remain unsettled.
+
+### Summaries and translation
+
+The model translated each document into English. The summaries were first written from those translations. In October 2026 they were written again, in German, from a reading of each document in its German text, and each of their 182 statements was then checked against the document. All held as finally worded; where a statement rested on a word not read with certainty, it was cut or left general. The English summaries are translations of the German.

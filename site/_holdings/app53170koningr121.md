@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr121"
-title: "53/17/0/-/Konin Gr.121"
+title: "Konin Municipal Court: Relationes [protocollon] 1787-1788"
 lang: en
 permalink: "/sources/app53170koningr121/"
 alt_url: "/de/quellen/app53170koningr121/"
@@ -21,9 +21,7 @@ Things taken from a trespasser were shown to the municipal court office, describ
 
 Ludwik Żurawski, in Prusimski's service, presents a cart with unshod front wheels and iron-shod rear wheels, two oxen, one pale and one mottled, a brindled cow and a chestnut mare, the oxen and cow in yokes and the mare in traces. They belong to Marcin Gryndel, a peasant of Łomowo, an estate of Chełmski's that belongs to Łukom. Gryndel had driven into the pine wood of Trąbczyn and was carting home a felled tree fit for building when the Trąbczyn forest keeper stopped him. The team was driven to Konin and stood before the chancery. Żurawski leaves it there to be given back to Gryndel, who asks for it at once; the receipt was entered the same day <span class="cite">[<a href="{{ '/documents/app53170koningr121/1/' | relative_url }}">1</a>]</span>.
 
-### Form and language
-
-The entry stands among others on its pages; the pages are shown whole and the other entries are not transcribed. The clerk describes the cart and the animals in Latin and repeats each description in Polish after "als" or "alias", so that they could be identified. <!-- context -->
+The clerk describes the cart and the animals in Latin and repeats each description in Polish after "als" or "alias", so that they could be identified. <!-- context -->
 
 ### Related holdings
 
@@ -31,26 +29,10 @@ The boundary as marked in 1782: <a href="{{ '/sources/app53170koningr153/' | rel
 
 <!--prepared-->
 
-### Scans
-
-The folder has two photographs of this book, each showing two facing pages. Each was cut at the fold; the two halves that carry the entry are shown whole. The photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
-
 ### Transcription
 
-The editor transcribed the entry and supplied it by paragraph, with the Latin written out.
+The transcription is the editor's own. The Latin abbreviations are written out. Claude then compared the whole transcription with the scans and corrected it where the page is plain.
 
-### Check against the scans
+### Translation and summaries
 
-An AI model (Claude) read the entry whole against the scans and corrected eight readings. What Żurawski presents is a "cart", where the transcription had a participle; the cow's coat is "mottled", a word left unread; and the entry ends "he left them and leaves them by these presents", after a receipt that "sets it out more fully". Each change is logged with its reason.
-
-### Division and dating
-
-The entry is one document, dated by the line "Actum in Conin" above it: 9 June 1788.
-
-### Translation
-
-The English is the editor's own translation and was not made again. It was changed in four places where the text had been corrected.
-
-### Summary
-
-The summary was written in German from the Latin and Polish and translated into English. Each of its 4 statements was then checked against the document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

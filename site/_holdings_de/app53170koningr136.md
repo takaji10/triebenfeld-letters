@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr136"
-title: "53/17/0/-/Konin Gr.136"
+title: "Burggericht Konin: Relationes-oblatae [protocollon] 1754"
 lang: de
 permalink: "/de/quellen/app53170koningr136/"
 alt_url: "/sources/app53170koningr136/"
@@ -27,9 +27,7 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Koninie“ 
 
 **Der Vermerk.** Am Freitag, dem 12. Juli 1754, erschien der Gerichtsbote Bartłomiej Szeptycki von Trąbczyn vor dem Burgamt in Konin und erklärte, er sei am Dienstag zuvor auf Verlangen der Katarzyna Prusimska mit den beiden Adligen nach Trąbczyn gegangen, dann in die Dörfer Osiny, Łazy, Nowa Wieś, die Olęder-Siedlung und die Glashütte und dann in die Wälder, und habe alles so gesehen, wie es niedergeschrieben ist. Der Vermerk nennt sie die Witwe des kurz zuvor verstorbenen Paweł Prusimski, königlichen Kämmerers und Erbherrn von Trąbczyn, mit Leibgedinge und lebenslangem Nutzungsrecht an allen seinen Gütern <span class="cite">[<a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">1</a>]</span>.
 
-### Form und Sprache
-
-Der Eintrag füllt die Blätter 121 bis 123. **Sein mittlerer Teil ist nicht transkribiert**: Nach der Mälzerei, im oberen Drittel von Blatt 121 verso, haben die Aufnahmen eine nummerierte Beschreibung der Dorfhäuser, eines nach dem anderen, die über das ganze Blatt 122 bis oben auf Blatt 122 verso läuft. Dieser Teil steht weder in der Transkription noch in der Übersetzung, und Blatt 122 wird nicht gezeigt. Der Text setzt bei „Wieś Nowa“ wieder ein. Das Polnische ist die Bausprache der Zeit und steht so, wie der Herausgeber es transkribiert hat. Der lateinische Vermerk am Ende ist abgekürzt; die Transkription löst die Abkürzungen auf. <!-- context -->
+**Sein mittlerer Teil ist nicht transkribiert**: Nach der Mälzerei, im oberen Drittel von Blatt 121 verso, haben die Aufnahmen eine nummerierte Beschreibung der Dorfhäuser, eines nach dem anderen, die über das ganze Blatt 122 bis oben auf Blatt 122 verso läuft. Dieser Teil steht weder in der Transkription noch in der Übersetzung, und Blatt 122 wird nicht gezeigt. Der Text setzt bei „Wieś Nowa“ wieder ein. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -37,26 +35,12 @@ Der Prozess derselben Witwe um Pottasche, 1763: <a href="{{ '/de/quellen/app5360
 
 <!--prepared-->
 
-### Aufnahmen
-
-Das Archiv lieferte drei Aufnahmen: eine Einzelseite und zwei Aufnahmen von je zwei gegenüberliegenden Seiten, die am Falz geschnitten wurden. Eine der fünf Seiten, Blatt 122 recto, trägt nichts vom transkribierten Text und wird nicht gezeigt.
-
 ### Transkription
 
-Der Herausgeber hat den Eintrag transkribiert und absatzweise geliefert, nicht Zeile für Zeile. Die Transkription lässt die Beschreibung der Dorfhäuser in der Mitte des Eintrags aus: den Rest von Blatt 121 verso nach der Mälzerei, das ganze Blatt 122 und den oberen Teil von Blatt 122 verso.
+Die Transkription stammt vom Herausgeber.
 
-### Prüfung an den Aufnahmen
+Claude verglich anschließend die Überschrift, die Zählung der Personen und Blatt 123 mit den Scans und korrigierte die Transkription, wo die Seite eindeutig ist. Die Beschreibung der Herrenhausgebäude (etwa 540 Wörter) wurde nicht verglichen.
 
-Ein KI-Modell (Claude) las die Überschrift, die Zählung der Leute auf Blatt 122 verso und das ganze Blatt 123 neben den Aufnahmen und korrigierte sechzehn Lesungen. Die Beschreibung der Gutsgebäude auf Blatt 121 und oben auf Blatt 121 verso, etwa 540 Wörter, wurde nicht verglichen. Den Sinn ändern diese Korrekturen: Ein unbekanntes Wort, „zelaga“, lautet „żelaza“, Eisenzeug; zwei Zahlen der Zählung lauten 8, nicht 6; die Wälder reichen „oberhalb von Szetlewek“, dem Nachbargut; und die Lücke vor dem Namen des Boten enthält sein Amt. Jede Änderung ist mit ihrem Grund verzeichnet.
+### Übersetzung und Zusammenfassungen
 
-### Abgrenzung und Datierung
-
-Der Eintrag ist ein Dokument. Er ist auf den 12. Juli 1754 datiert, den Tag, an dem der Bericht in Konin eingetragen wurde; die Besichtigung selbst fand am 9. Juli statt.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an sechs Stellen geändert, an denen der Text korrigiert worden war. Die Anmerkungen des Herausgebers zu Begriffen sind als Anmerkungen des Übersetzers beibehalten; drei, die inzwischen korrigierte Lesungen betrafen, sind weggelassen. Eine Zeile in eckigen Klammern bezeichnet die Stelle des nicht transkribierten Teils.
-
-### Zusammenfassung
-
-Die Zusammenfassung wurde auf Deutsch nach dem Polnischen und Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer zehn Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

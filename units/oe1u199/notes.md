@@ -61,3 +61,29 @@ None recorded.
 - The King's title (2026-09-30): the five words the 1797 witness could not
   settle were read by the editor on the scan: Hildesheim, Eichsfeld,
   Quedlinburg, Elten, and [W?]erden (first letter unsure).
+
+## Form and language (taken off the public page, 2026-10-30)
+
+The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
+
+A fair copy bound in red leather, with the royal seal attached in a silver box. The binding, the seal and one blank leaf are not reproduced. The text is in German. The King's title in the opening lines is partly garbled in the transcription; the remainder is sound.
+
+## How it was prepared (the public text before 2026-10-30)
+
+The editor ruled the tab too detailed: it now tells only what an AI decided that affected the text (`prepared:` in unit.yml). The full account, kept here:
+
+### Scans
+
+The archive supplied ten images. The fifteen pages of text were cropped from them. The front and back covers and one blank leaf were left out.
+
+### Transcription
+
+The German text was transcribed by an AI system and supplied by the editor, one file for each page.
+
+### Corrections
+
+An AI model (Claude) proposed corrections to the transcription. A word was changed only where an independent witness supported the change. Here the witnesses were the King's title as it stands in the grants of [[unit:oe1bu14525]], the charter's own spelling of a name elsewhere in its text, and fixed legal formulas. Each change is logged with its reason. The editor read five words of the King's title on the scan, which no witness could settle. Words that remain doubtful were left as transcribed.
+
+### Summary and translation
+
+The model read the document whole and wrote a German summary. A second, separate run of the model checked the summary against the text and found no statement the text does not support. The English summary is a translation of the checked German one. The model also translated the document. It proposed five further corrections to the German during translation; none had a witness and none was applied.

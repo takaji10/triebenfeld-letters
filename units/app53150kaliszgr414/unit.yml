@@ -36,6 +36,8 @@ fonds: Księgi sądu i urzędu grodzkiego w Kaliszu
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [la, pl]
 date_span: 1771
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -100,3 +102,14 @@ translation_note: >-
   judgment by default and the outlawry that followed; "condescensio" the
   court's going onto the ground; "jurevincens" the party that has won at
   law; "olędrzy", "Holendi" settlers under Olęder law. Trąpczyn is Trąbczyn.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - t-latin-expanded
+  - en: Claude then compared the transcription with the scans, except the middle of the recital of the Tribunal's decrees (about 200 words), and corrected it where the page is plain.
+    de: Claude verglich die Transkription anschließend mit den Scans, außer der Mitte der Wiedergabe der Tribunalsdekrete (etwa 200 Wörter), und korrigierte sie, wo die Seite eindeutig ist.
+  translation:
+  - l-editor-revised
+  - s-claude

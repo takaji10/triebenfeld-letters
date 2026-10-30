@@ -8,8 +8,6 @@ Hohenlohe-Ingelfingen besaß die Herrschaften Trąbczyn und Zagórów in Südpre
 
 Die Bittschrift ist im Namen Hohenlohe-Ingelfingens abgefasst und von Triebenfeld als dessen Generalbevollmächtigtem unterzeichnet [[1]]. Sie bittet den König, der Regierung in Kalisz zu befehlen, Oleśnica unter Sequestration zu stellen, das heißt unter gerichtliche Verwaltung [[1]]. Nach der Bittschrift war das Gut an Giese, Bagans und Gietzinger gegen 20.000 Rthl Einstandsgeld verpachtet worden. Die Pächter zahlten 10.000 Rthl, die von ihren Unterpächtern stammten, und haben seither weder Pacht noch Abgaben gezahlt und Teile des Gutes verkauft, während die Kammer den Vertrag nicht bestätigte [[1]]. Die Regierung in Kalisz hatte die Sequestration in Bescheiden vom 13. und 20. August abgelehnt. Die Bittschrift bestreitet beide aus dem Allgemeinen Landrecht, bittet, die Akten einzufordern, und bietet Sicherheit an [[1]].
 
-### Form und Sprache
-
 Eine Reinschrift in deutscher Sprache. Die Buchstaben A bis H am Rand verweisen auf Beilagen, die der Akte nicht beiliegen. Die Akte enthält keine Antwort auf die Bittschrift. <!-- context -->
 
 ### Verwandte Bestände

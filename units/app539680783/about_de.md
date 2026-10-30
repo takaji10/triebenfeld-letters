@@ -16,9 +16,7 @@ Die Begründung gibt die Geschichte so wieder, wie Miączyńskis Anwälte sie sa
 
 Auf der fünften Seite bescheinigt der Gerichtsbote Michał Piechowski, dass er dieses Exemplar am 7./19. Oktober 1860 Karolina Fridenberg in der Kolonie Staro-Łazińska ausgehändigt hat. Die Liste der Geladenen nennt als Nummer 34 eine „Karolina Friedenberg, Witwe“ [[1]].
 
-### Form und Sprache
-
-Vier Seiten sind gedruckt, auf Papier mit einem Stempel zu 7½ Kopeken am Kopf. Eine Vorladung wurde für alle Beklagten gedruckt, und der Gerichtsbote vervollständigte jedes Exemplar von Hand: die Zeile, in der er sich selbst nennt, den Namen der Person, der er zustellte, Ort und Tag und seine Unterschrift. Auf diesem Exemplar berichtigte er auch die gedruckte Liste mit der Feder. Er strich einen Namen und schrieb einen anderen an den Rand, änderte in mehreren Namen einen Buchstaben und unterschrieb unter dem Druck neben einem Kostenvermerk. Die Sprache ist das juristische Polnisch des Königreichs Polen, mit deutschen Familiennamen in polnischer Schreibung. <!-- context -->
+Eine Vorladung wurde für alle Beklagten gedruckt, und der Gerichtsbote vervollständigte jedes Exemplar von Hand: die Zeile, in der er sich selbst nennt, den Namen der Person, der er zustellte, Ort und Tag und seine Unterschrift. Auf diesem Exemplar berichtigte er auch die gedruckte Liste mit der Feder. Er strich einen Namen und schrieb einen anderen an den Rand, änderte in mehreren Namen einen Buchstaben und unterschrieb unter dem Druck neben einem Kostenvermerk. <!-- context -->
 
 Die Familie, die als Zelmer geführt wird, steht in der Liste als „Celmer“: Henryk, August und Michał sowie Anna Elżbieta, Witwe des Daniel, für ihre fünf Kinder [[1]].
 

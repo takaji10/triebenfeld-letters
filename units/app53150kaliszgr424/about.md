@@ -14,10 +14,6 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The search and the answer.** The office went to its books of reports, in which papers brought in are received, and looked through them from the sitting of Thursday 17 October 1776 to that day. It answered that no boundary decree between those estates, given by the commissioners appointed on Prusimski's part and brought onto the ground of the estates, stood in its records, and it certified this. Mierzewski signed the entry [[1]].
 
-### Form and language
-
-The date line of the sitting stands halfway down leaf 322 verso and the entry in the middle of leaf 323; both pages are full of other entries, which are not transcribed. The Latin is abbreviated and the transcription writes it out. <!-- context -->
-
 ### Related holdings
 
 The decree that was looked for: [[unit:app53170koningr145]]. The adjournment of 28 September 1776: [[unit:app53150kaliszgr425]]. <!-- context -->

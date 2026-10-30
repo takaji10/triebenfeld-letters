@@ -18,11 +18,7 @@ The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Koninie", 
 
 **The decree.** The acts were done on Chełmski's ground. The inquiry does not show whether Prusimski knew of them or ordered them, and only the coachman Józef and the under-coachman Walenty are accused; neither is at Trąbczyn any longer. Prusimski says he cannot produce them and offers an oath. The court orders him to swear within six weeks before the municipal court office at Konin that the arrest Chełmski had obtained did not reach them, and that he has no means of producing them, on pain of banishment. The records of the inquiry stay in the chancery [[1]].
 
-### Form and language
-
-The entry is no. 26 of its sitting. It fills leaf 239 verso and leaf 240; for want of room the clerk wrote its end on an earlier leaf, 236 verso, under entry no. 22, and marked both places. The first page is in a hurried hand that abbreviates heavily; from the findings on, a second and clearer hand writes. The images are frames of a black and white microfilm. <!-- context -->
-
-The entry has no date of its own. The heading of the sitting, which the editor transcribed from a page that is not among the images, reads: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districualibus Feria Secunda post Festum Sanctae Haedvigis Viduae Electae videlicet Die vigesima mensis Octobris Anno Domini Millesimo Septingentesimo Octuagesimo Tertia in Conin Celebratis". The entry stands twenty-six leaves after that heading. <!-- context -->
+**Dating.** The entry has no date of its own. The heading of the sitting, which the editor transcribed from a page that is not among the images, reads: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districualibus Feria Secunda post Festum Sanctae Haedvigis Viduae Electae videlicet Die vigesima mensis Octobris Anno Domini Millesimo Septingentesimo Octuagesimo Tertia in Conin Celebratis". The entry stands twenty-six leaves after that heading. <!-- context -->
 
 ### Related holdings
 

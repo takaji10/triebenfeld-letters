@@ -18,11 +18,7 @@ Der Band gehört zum Bestand „Księgi sądu ziemskiego w Koninie“ des Archiv
 
 **Das Dekret.** Die Taten geschahen auf Chełmskis Grund. Die Untersuchung zeigt nicht, ob Prusimski davon wusste oder sie befahl, und beschuldigt sind nur der Kutscher Józef und der Unterkutscher Walenty; keiner von beiden ist mehr in Trąbczyn. Prusimski erklärt, er könne sie nicht stellen, und bietet einen Eid an. Das Gericht legt ihm auf, binnen sechs Wochen vor dem Burgamt Konin zu beschwören, dass der Arrest, den Chełmski erwirkt hatte, sie nicht erreicht hat und er keine Möglichkeit hat, sie zu stellen, bei Strafe der Verbannung. Die Protokolle der Untersuchung bleiben in der Kanzlei [[1]].
 
-### Form und Sprache
-
-Der Eintrag ist Nr. 26 seiner Sitzung. Er füllt Blatt 239 verso und Blatt 240; aus Platzmangel schrieb der Schreiber sein Ende auf ein früheres Blatt, 236 verso, unter den Eintrag Nr. 22, und kennzeichnete beide Stellen. Die erste Seite ist in einer eiligen, stark abkürzenden Hand geschrieben; von den Feststellungen an schreibt eine zweite, klarere Hand. Die Aufnahmen sind Bilder eines Schwarzweiß-Mikrofilms. <!-- context -->
-
-Der Eintrag trägt kein eigenes Datum. Die Überschrift der Sitzung, die der Herausgeber von einer Seite transkribiert hat, die nicht unter den Aufnahmen ist, lautet: „Actum in Judiciis Terrestribus Palatinatus Calissiensis Districualibus Feria Secunda post Festum Sanctae Haedvigis Viduae Electae videlicet Die vigesima mensis Octobris Anno Domini Millesimo Septingentesimo Octuagesimo Tertia in Conin Celebratis“. Der Eintrag steht sechsundzwanzig Blatt nach dieser Überschrift. <!-- context -->
+**Datierung.** Der Eintrag trägt kein eigenes Datum. Die Überschrift der Sitzung, die der Herausgeber von einer Seite transkribiert hat, die nicht unter den Aufnahmen ist, lautet: „Actum in Judiciis Terrestribus Palatinatus Calissiensis Districualibus Feria Secunda post Festum Sanctae Haedvigis Viduae Electae videlicet Die vigesima mensis Octobris Anno Domini Millesimo Septingentesimo Octuagesimo Tertia in Conin Celebratis“. Der Eintrag steht sechsundzwanzig Blatt nach dieser Überschrift. <!-- context -->
 
 ### Verwandte Bestände
 

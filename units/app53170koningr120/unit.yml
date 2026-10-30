@@ -30,6 +30,8 @@ fonds: Księgi sądu i urzędu grodzkiego w Koninie
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [la]
 date_span: 1785-1786
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -94,3 +96,13 @@ translation_note: >-
   messenger's report that he has served a citation; "condescensio" a sitting
   of a court on the ground in dispute; "comportatio" the production of a
   document.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - t-latin-expanded
+  - c-claude-full
+  translation:
+  - l-editor-revised
+  - s-claude

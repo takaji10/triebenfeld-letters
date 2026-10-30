@@ -18,11 +18,7 @@ The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Koninie", 
 
 **The decree.** The court does not decide the claim. The suit over the boundary between Trąbczyn and Łukom is pending before the Crown Tribunal between the same parties, and only the fixing of that boundary will show on whose ground the potash was made. The court therefore suspends the matter until the boundary is decided, and orders the testimony to be handed to the parties from its chancery in a closed roll [[1]].
 
-### Form and language
-
-The entry begins halfway down leaf 653 verso and fills leaf 654 recto. The upper half of the first page is the end of the entry before it, on another matter, and is not transcribed. The Latin is heavily abbreviated; the transcription fills the abbreviations out. Words the clerk struck out are not given. <!-- context -->
-
-The entry has no date of its own. The heading of the sitting stands on leaf 638, which the editor transcribed but which is not among the scans: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Festum Sanctissimae et Individuae Trinitatis proxima Anno Domini Millesimo Septingentesimo Sexagesimo Tertio in Conin in propria Cadentia Celebratis". That is: done in the district land court of the province of Kalisz, held at Konin in its own term, on the Monday after Trinity Sunday 1763, which was 30 May. The year of the document is taken from this heading. <!-- context -->
+**Dating.** The entry has no date of its own. The heading of the sitting stands on leaf 638, which the editor transcribed but which is not among the scans: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Festum Sanctissimae et Individuae Trinitatis proxima Anno Domini Millesimo Septingentesimo Sexagesimo Tertio in Conin in propria Cadentia Celebratis". That is: done in the district land court of the province of Kalisz, held at Konin in its own term, on the Monday after Trinity Sunday 1763, which was 30 May. The year of the document is taken from this heading. <!-- context -->
 
 ### Related holdings
 

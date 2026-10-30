@@ -1,6 +1,6 @@
 ---
 unit: "kdw"
-title: "Kodeks Dyplomatyczny Wielkopolski"
+title: "Diplomatischer Kodex Großpolens"
 lang: de
 permalink: "/de/quellen/kdw/"
 alt_url: "/sources/kdw/"
@@ -25,9 +25,7 @@ Das Zisterzienserkloster Ląd an der Warthe zwischen Konin und Pyzdry war im Mit
 
 Die Anmerkungen der Herausgeber sind aus ihrer Zeit und bleiben, wie sie sind. Ihre Anmerkung zum Tausch von 1418 setzt Wronczyn in den Kreis Posen und weiß nicht, welches Drzewce gemeint ist; die Urkunde aber legt Groß-Wrąbczyn neben Zagórów, und so ist sie hier zugeordnet <span class="cite">[<a href="{{ '/documents/kdw/18/' | relative_url }}">18</a>]</span>. <!-- context -->
 
-### Form und Sprache
-
-Die Urkunden sind lateinisch. Der Apparat der Herausgeber ist in den Bänden 1 bis 5 lateinisch und polnisch, in 6 bis 11 polnisch. Ihre Anmerkungszeichen, Ziffern und Buchstaben, stehen im elektronischen Text auf der Zeile bei den Wörtern; die Website stellt sie hoch und setzt die Anmerkungen ab, ohne den Text zu ändern. Senkrechte Striche in manchen Texten sind die Zeichen der Herausgeber für die Zeilenenden des Originals, wie darüber getrennte Wörter zeigen („signifi|camus“). <!-- context -->
+Der Apparat der Herausgeber ist in den Bänden 1 bis 5 lateinisch und polnisch, in 6 bis 11 polnisch. Senkrechte Striche in manchen Texten sind die Zeichen der Herausgeber für die Zeilenenden des Originals, wie darüber getrennte Wörter zeigen („signifi|camus“). <!-- context -->
 
 ### Güter und Personen
 
@@ -39,22 +37,10 @@ Das Kloster Ląd als Besitzer von Drzewce, einem Nachbarn Trąbczyns, im Grenzde
 
 <!--prepared-->
 
-### Text
+### Transkription
 
-Es gibt keine Seitenbilder: die Großpolnische Digitale Bibliothek hat den Kodeks als korrigierten elektronischen Text, eine Datei je Band, ohne die gedruckten Seiten. Der Herausgeber hat die Einträge ausgewählt und in einer Datei geliefert, aus diesen Texten kopiert, und diese Datei ist die Transkription: jede Zeile eines Eintrags ist eine Zeile des Dokuments, von der Nummer im Kodeks bis zur letzten Anmerkung. Nichts daran ist verbessert (der Herausgeber: der Text sei „als gesichert zu nehmen“). Jedes Dokument ist eine Seite.
+Es gibt keine Seitenbilder. Der Text ist aus dem elektronischen Text der Wielkopolska Digital Library kopiert, den der Herausgeber für gesichert hält, und nichts darin ist korrigiert.
 
-### Anmerkungen
+### Übersetzung und Zusammenfassungen
 
-Im elektronischen Text stehen die Anmerkungszeichen der Herausgeber auf der Zeile, an ihre Wörter angehängt („Mezeconis1“, „quatuordecimoa“), und die Anmerkungen folgen dem Text. Jedes Zeichen und jede Anmerkung wurde von Hand gesucht und neben dem Text festgehalten; die Website stellt die Zeichen hoch und setzt die Anmerkungen ab. Zwei haben kein Gegenstück: eine Anmerkung des Eintrags von 1414, die in der Datei in die Zeile einer anderen läuft, und eine Anmerkung des ersten Eintrags von 1440, deren Zeichen im Text fehlt.
-
-### Datierung und Orte
-
-Jedes Dokument ist nach der Überschrift der Herausgeber datiert und verortet, die seine Datumszeile liest. Die Urkunde Erzbischof Fulkos hat keinen Ort, und die Herausgeber versehen ihr Jahr, 1240, mit „sic“. Wo das Jahr einer Abschrift dem übrigen Datum widerspricht, gilt das Jahr der Herausgeber: 1415 für die Abschrift mit 1414, 1434 für die mit 1435, wie ihre Anmerkungen erklären.
-
-### Güter und Personen
-
-Jedes Dokument ist von Hand den Gütern aus der Liste der siebzehn zugeordnet, die es nennt, gelesen mit den Bestimmungen der Herausgeber. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber): die Ritter und Erben von Trąbczyn von 1276 bis 1434 und der Pfarrer von 1399. Viele Personen anderer Orte bleiben im Register ungenannt.
-
-### Zusammenfassung und Übersetzung
-
-Die Zusammenfassungen wurden auf Deutsch aus dem Latein und dem Apparat der Herausgeber jedes ganzen Eintrags geschrieben und ins Englische übertragen; jede ihrer 107 Aussagen wurde danach am Eintrag geprüft. Die englische Übersetzung jedes Eintrags, der Teile der Herausgeber wie der Urkunde, entstand in derselben Sitzung; Orte stehen in ihrer heutigen polnischen Form, wo die Herausgeber sie bestimmen, die mittelalterlichen Schreibungen im Latein. Die mittelalterlichen Schreibungen jedes Guts stehen mit ihren Jahren auf der Seite der Orte.
+Claude übersetzte jeden Eintrag ins Englische, die Teile der Herausgeber ebenso wie die Urkunde. Orte stehen in ihren heutigen polnischen Formen, wo die Herausgeber sie bestimmen, und die mittelalterlichen Schreibungen stehen im Latein. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

@@ -32,9 +32,7 @@ Nach dem Tod Hohenlohe-Ingelfingens ließen seine Erben ihren Anspruch durch Her
 
 Dieselbe russische Note lehnt ein Gesuch ab, das mit Trąbczyn nichts zu tun hat. Graf Ernst Bethusy, Grundbesitzer in Schlesien und im Königreich Polen, hatte um freien Verkehr zwischen seinen Besitzungen nach Artikel 18 des Wiener Vertrags gebeten. Die polnische Regierung vertrat die Auffassung, der Artikel gelte nur für Besitzungen, die von der neuen Grenze durchschnitten werden [[27, 28]]. Beide preußischen Ministerien hielten das Gesuch für unzulässig [[29, 30]].
 
-### Form und Sprache
-
-Zwölf Dokumente sind Entwürfe ausgehender Schreiben mit den Paraphen der Beamten, die sie genehmigten [[2, 5, 7, 9, 10, 16, 17, 21, 22, 24, 26, 29]]. Drei Entwürfe stehen auf dem eingegangenen Schreiben, das sie beantworten [[2, 9, 10]]. Eine Antwort an Hohenlohe-Ingelfingen liegt als kassierter Entwurf und als nicht abgesandte Reinschrift vor [[11, 12]]. Die Paraphen stammen von Hardenberg, dem Staatsrat Stägemann und den Beamten Hoffmann und Balan; sie sind in eckigen Klammern aufgelöst [[5, 22, 29]]. Die Dokumente sind deutsch, fünf sind französisch [[6, 7, 13, 27, 28]]. Die Entwürfe sind in einer flüchtigen Kanzleischrift geschrieben, und mehrere sind unvollkommen transkribiert; das ist auf der Seite des betreffenden Dokuments vermerkt. <!-- context -->
+Zwölf Dokumente sind Entwürfe ausgehender Schreiben mit den Paraphen der Beamten, die sie genehmigten [[2, 5, 7, 9, 10, 16, 17, 21, 22, 24, 26, 29]]. Drei Entwürfe stehen auf dem eingegangenen Schreiben, das sie beantworten [[2, 9, 10]]. Eine Antwort an Hohenlohe-Ingelfingen liegt als kassierter Entwurf und als nicht abgesandte Reinschrift vor [[11, 12]]. Die Paraphen stammen von Hardenberg, dem Staatsrat Stägemann und den Beamten Hoffmann und Balan; sie sind in eckigen Klammern aufgelöst [[5, 22, 29]].
 
 ### Verwandte Bestände
 

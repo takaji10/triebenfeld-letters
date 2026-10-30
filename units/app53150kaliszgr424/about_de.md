@@ -14,10 +14,6 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ 
 
 **Die Nachsuche und die Antwort.** Das Amt ging an seine Berichtsbücher, in die Vorlagen aufgenommen werden, und sah sie von der Sitzung am Donnerstag, dem 17. Oktober 1776, bis zu jenem Tag durch. Es antwortete, in seinen Akten stehe kein Grenzdekret zwischen diesen Gütern, das die aufseiten Prusimskis bestellten und auf den Grund der Güter geführten Kommissare erlassen hätten, und bescheinigte das. Mierzewski unterschrieb den Eintrag [[1]].
 
-### Form und Sprache
-
-Die Datumszeile der Sitzung steht in der Mitte von Blatt 322 verso und der Eintrag in der Mitte von Blatt 323; beide Seiten sind voll von anderen Einträgen, die nicht transkribiert sind. Das Latein ist abgekürzt, und die Transkription schreibt es aus. <!-- context -->
-
 ### Verwandte Bestände
 
 Das gesuchte Dekret: [[unit:app53170koningr145]]. Die Vertagung vom 28. September 1776: [[unit:app53150kaliszgr425]]. <!-- context -->

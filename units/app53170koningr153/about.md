@@ -22,9 +22,7 @@ The Tribunal now rules that the line stands as drawn. A sworn surveyor, it says,
 
 The Konin register for the same weeks has one-line notes of both acts being brought in, and a report and a protest of 7 December on 221 pines that Chełmski's people cut on the Trąbczyn side of the new line on 28 November, the day the court opened: [[unit:app53170koningr118]]. <!-- context -->
 
-### Form and language
-
-Both acts are originals on stamped paper, signed by the officers who made them, and were bound into the court's book instead of being copied into it. The Latin is formulaic and abbreviated. The Tribunal's decree is one long period in indirect speech, in which each party's case is set out before the court's findings. A blank page between the two acts is not shown. <!-- context -->
+**The acts.** Both acts are originals on stamped paper, signed by the officers who made them, and were bound into the court's book instead of being copied into it. <!-- context -->
 
 ### Related holdings
 

@@ -20,10 +20,6 @@ Die Rechte und Urkunden der Kirche reichen von 1636 bis 1697: Geldsummen für Me
 
 **Dokument 2, die Pfarrei Zagórów.** Die Tabelle der Seelen der Nachbarpfarrei Zagórów im Jahr 1791, in derselben Form: vierundzwanzig Orte, von der Stadt Zagórów bis zur Hauländersiedlung Holendry Wrąbczyn, darunter Łukom, Drzewce, Oleśnica, Kopojno und Skokum. Dissidenten leben nur in vier der Orte. Die Summen des Schreibers sind 1028, 1030, 270 und 246 Katholiken und 57, 55, 27 und 27 Dissidenten, 2734 im Ganzen; sie stimmen mit seinen eigenen Zahlen nicht ganz überein: die Spalte der Frauen ergibt zehn mehr als ihre Summe, und die Gesamtsumme ist um sechs kleiner als seine Spaltensummen zusammen. Eine Notiz am Rand verzeichnet in Myszakowko eine Frau von 110 Jahren [[2]].
 
-### Form und Sprache
-
-Polnisch, in einer klaren Hand, in der Rechtschreibung der Zeit (iest, ktorey, Dyecezyi), mit den üblichen Abkürzungen der Titel (JWo, JMść, X.) und einigen lateinischen Wendungen. Die zwei Tabellen von Trąbczyn und die Tabelle von Zagórów sind mit Linien gezogen; die Spaltenköpfe stehen senkrecht und sind in den schmalen Spalten abgekürzt. Die Blattzahlen stehen oben rechts. <!-- context -->
-
 ### Verwandte Bestände
 
 Das Register der Rauchfangsteuer von 1789, das Trąbczyn, seine Olęder, Łazy, Osiny, Nowa Wieś und Łukom verzeichnet: [[unit:app53640kalisztab21]]. Die preußische Tabelle der Dörfer um Konin von etwa 1797, die Häuser und Einwohner vieler derselben Orte zählt: [[unit:agad1169011745]]. Die Besichtigung von Trąbczyn für Katarzyna Prusimska 1754: [[unit:app53170koningr136]]. Die zwei Olęder-Kolonien von Trąbczyn unter ihren späteren Namen: [[unit:app539680783]]. <!-- context -->

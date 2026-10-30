@@ -16,11 +16,7 @@ Der Band gehört zum Bestand „Księgi sądu ziemskiego w Koninie“ des Archiv
 
 **Das Holz.** Der zweite Eintrag ist ein gleiches Urteil gegen dieselben Beklagten. Ihnen wird vorgeworfen, sie hätten vor kurzem in den Wäldern von Łukom etwa hundert zum Bauen taugliche Bäume, vor allem Kiefern, und etwa dreihundert Fuhren Brennholz gefällt und nach Belieben verwendet. Der Schaden wird auf dreihundert polnische Mark angesetzt. Für alles Übrige verweist der Eintrag auf den vorangehenden [[2]].
 
-### Form und Sprache
-
-Der erste Eintrag beginnt im oberen Drittel von Blatt 641 verso unter seiner Überschrift und endet mit einer Zeile oben auf Blatt 642 recto. Der zweite folgt dort in acht Zeilen. Der Rest beider Seiten gehört zu anderen Einträgen, die nicht transkribiert sind. Das Latein ist stark abgekürzt; eckige Klammern in der Transkription zeigen ergänzte Buchstaben. <!-- context -->
-
-Die Einträge tragen kein eigenes Datum. Die Überschrift der Sitzung steht auf Blatt 612, das der Herausgeber transkribiert hat, das aber nicht unter den Aufnahmen ist: „Actum in Terminis Terrestribus Particularibus Coninensibus feria Secunda post Octavas Festi Sacratissimi Corporis Christi proxima Anno Domini Millesimo Sexcentesimo Quadragesimo Quarta in Conin Celebratis“. Das heißt: geschehen in den besonderen Landgerichtsterminen von Konin, gehalten in Konin, am Montag nach der Oktav von Fronleichnam 1644, dem 6. Juni. Das Jahr der Dokumente ist dieser Überschrift entnommen. <!-- context -->
+**Datierung.** Die Einträge tragen kein eigenes Datum. Die Überschrift der Sitzung steht auf Blatt 612, das der Herausgeber transkribiert hat, das aber nicht unter den Aufnahmen ist: „Actum in Terminis Terrestribus Particularibus Coninensibus feria Secunda post Octavas Festi Sacratissimi Corporis Christi proxima Anno Domini Millesimo Sexcentesimo Quadragesimo Quarta in Conin Celebratis“. Das heißt: geschehen in den besonderen Landgerichtsterminen von Konin, gehalten in Konin, am Montag nach der Oktav von Fronleichnam 1644, dem 6. Juni. Das Jahr der Dokumente ist dieser Überschrift entnommen. <!-- context -->
 
 ### Verwandte Bestände
 

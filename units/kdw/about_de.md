@@ -14,9 +14,7 @@ Das Zisterzienserkloster Ląd an der Warthe zwischen Konin und Pyzdry war im Mit
 
 Die Anmerkungen der Herausgeber sind aus ihrer Zeit und bleiben, wie sie sind. Ihre Anmerkung zum Tausch von 1418 setzt Wronczyn in den Kreis Posen und weiß nicht, welches Drzewce gemeint ist; die Urkunde aber legt Groß-Wrąbczyn neben Zagórów, und so ist sie hier zugeordnet [[18]]. <!-- context -->
 
-### Form und Sprache
-
-Die Urkunden sind lateinisch. Der Apparat der Herausgeber ist in den Bänden 1 bis 5 lateinisch und polnisch, in 6 bis 11 polnisch. Ihre Anmerkungszeichen, Ziffern und Buchstaben, stehen im elektronischen Text auf der Zeile bei den Wörtern; die Website stellt sie hoch und setzt die Anmerkungen ab, ohne den Text zu ändern. Senkrechte Striche in manchen Texten sind die Zeichen der Herausgeber für die Zeilenenden des Originals, wie darüber getrennte Wörter zeigen („signifi|camus“). <!-- context -->
+Der Apparat der Herausgeber ist in den Bänden 1 bis 5 lateinisch und polnisch, in 6 bis 11 polnisch. Senkrechte Striche in manchen Texten sind die Zeichen der Herausgeber für die Zeilenenden des Originals, wie darüber getrennte Wörter zeigen („signifi|camus“). <!-- context -->
 
 ### Güter und Personen
 

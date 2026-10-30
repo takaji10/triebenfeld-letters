@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr115"
-title: "53/17/0/-/Konin Gr.115"
+title: "Burggericht Konin: Relationes [protocollon] 1768-1774"
 lang: de
 permalink: "/de/quellen/app53170koningr115/"
 alt_url: "/sources/app53170koningr115/"
@@ -31,9 +31,7 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Koninie“ 
 
 **Das Wirtshaus verwüstet, Januar 1773.** Im März 1773 legte Chełmski mit eigener Unterschrift Protest ein: Prusimski habe, obwohl er wisse, dass die Siedler von Lusnia Chełmski zuerkannt seien, seinen Verwalter Lipiński und seinen Kammerdiener Marzęcki das Wirtshaus und die Siedler überfallen lassen <span class="cite">[<a href="{{ '/documents/app53170koningr115/9/' | relative_url }}">9</a>]</span>. Bikierski meldete den Schaden: Ofen, drei Fenster und vier Türen, von Chełmski neu eingesetzt, herausgehauen, der Schornstein zerstört, das Geschirr zerschlagen, in der Nacht des 29. Januar <span class="cite">[<a href="{{ '/documents/app53170koningr115/10/' | relative_url }}">10</a>]</span>.
 
-### Form und Sprache
-
-Jeder Eintrag besteht aus wenigen Zeilen zwischen vielen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge sind nicht transkribiert. Das Latein ist stark abgekürzt, und die Transkription schreibt es aus. Zwei der Vermerke von 1768 sind nur so weit transkribiert, wie sie gelesen werden konnten; „…“ bezeichnet das Ausgelassene. Chełmskis Unterschrift steht unter seinem Protest und noch zweimal am Fuß der Seite mit den Einträgen vom 20. Dezember 1771. Drei Einträge stehen unter einer Sitzung, deren datierte Überschrift auf einer nicht aufgenommenen Seite steht; sie sind nach den Überschriften davor und danach auf den Monat datiert. <!-- context -->
+**Anmerkungen zu den Einträgen.** Zwei der Vermerke von 1768 sind nur so weit transkribiert, wie sie gelesen werden konnten; „…“ bezeichnet das Ausgelassene. Chełmskis Unterschrift steht unter seinem Protest und noch zweimal am Fuß der Seite mit den Einträgen vom 20. Drei Einträge stehen unter einer Sitzung, deren datierte Überschrift auf einer nicht aufgenommenen Seite steht; sie sind nach den Überschriften davor und danach auf den Monat datiert. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -41,26 +39,12 @@ Die Besitzeinweisung von 1771: <a href="{{ '/de/quellen/app53150kaliszgr414/' | 
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält sechzehn Aufnahmen dieses Buchs, jede mit zwei gegenüberliegenden Seiten: elf vom Archiv und fünf Fotografien. Neun tragen einen transkribierten Eintrag. Jede von ihnen wurde am Falz geschnitten, und die Hälfte mit dem Eintrag wird gezeigt. Sieben Aufnahmen und ein Unterordner mit Seiten, die der Herausgeber als nicht zugehörig ausgesondert hat, werden nicht verwendet. Die fünf Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat die Einträge transkribiert, die Trąbczyn und Łukom betreffen, und sie absatzweise geliefert, mit ausgeschriebenem Latein. Zwei der Vermerke von 1768 waren nur mit ihren Überschriften gegeben.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst.
 
-### Prüfung an den Aufnahmen
+Claude verglich die Transkription anschließend mit den Scans: alle Überschriften und Datumszeilen, drei der längeren Einträge ganz, die zweite Hälfte von drei weiteren und die Vermerke von 1768. Wo die Seite eindeutig ist, korrigierte Claude die Transkription. Zwei Vermerke von 1768, die der Herausgeber nur mit ihren Überschriften gegeben hatte, wurden an den Scans so weit gelesen, wie es mit Sicherheit möglich war.
 
-Ein KI-Modell (Claude) las jede Überschrift und Datumszeile, drei der längeren Einträge ganz und die zweite Hälfte von drei weiteren sowie die Vermerke von 1768 neben den Aufnahmen und korrigierte 24 Lesungen. Den Sinn ändern diese: Die Waffen wurden „in besonderem Auftrag“ Chełmskis vorgelegt. Der Wald ist „von den Siedlern bebaut“; der Dammbruch wird „den Untertanen von Trąbczyn“ zur Last gelegt; die Teile des ausgeräumten Wirtshauses schaffte eine Schar fort, die „zum Tumult gerüstet“ war; „Leute“, nicht ein einzelner Mann, aus Podbiele schlugen die Erlen. Im Protest ist Chełmski „Erbherr“ von Łukom, und der Besitz ist „ihm, dem Protestierenden“ zuerkannt. Die beiden nur mit Überschrift gegebenen Vermerke wurden an den Aufnahmen gelesen, so weit das mit Sicherheit möglich war. Chełmskis Unterschrift unter seinem Protest wurde ergänzt. Jede Änderung ist mit ihrem Grund verzeichnet.
+### Übersetzung und Zusammenfassungen
 
-### Abgrenzung und Datierung
-
-Jeder Eintrag ist ein Dokument; zwei Vermerke derselben Sitzung auf einer Seite sind ein Dokument. Sechs Dokumente sind durch die Zeile „Actum in Conin“ über ihnen auf ihrer eigenen Seite datiert. Drei stehen unter einer Sitzung, deren Überschrift auf einer Seite steht, die nicht unter den Aufnahmen ist; sie sind nach den datierten Überschriften davor und danach im Buch auf den Monat datiert, und jedes sagt das.
-
-### Übersetzung
-
-Das Englische von sieben Dokumenten ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an neun Stellen geändert, an denen der Text korrigiert worden war oder an denen das lateinische Wort für eine Hütte als Habe verstanden worden war. Die drei frühen Vermerke hatten kein Englisch; Claude hat sie in den Begriffen des Herausgebers übersetzt.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach dem Lateinischen und Polnischen geschrieben und ins Englische übersetzt. Jede ihrer 31 Aussagen wurde danach an ihrem Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Für die drei frühen Vermerke gab es kein Englisch; Claude übersetzte sie in den Begriffen des Herausgebers. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

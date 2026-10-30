@@ -10,9 +10,7 @@ Was einem Eindringling abgenommen wurde, zeigte man dem Burgamt, es wurde im Reg
 
 Ludwik Żurawski, im Dienst Prusimskis, führt einen Wagen mit unbeschlagenen Vorder- und beschlagenen Hinterrädern vor, zwei Ochsen, einen fahlen und einen scheckigen, eine gestreifte Kuh und eine kastanienbraune Stute, Ochsen und Kuh im Joch, die Stute in Strängen. Sie gehören Marcin Gryndel, einem Bauern aus Łomowo, einem Gut Chełmskis, das zu Łukom gehört. Gryndel war in den Kiefernwald von Trąbczyn gefahren und fuhr einen gefällten, zum Bauen tauglichen Baum nach Hause, als der Trąbczyner Waldhüter ihn anhielt. Das Gespann wurde nach Konin getrieben und stand vor der Kanzlei. Żurawski überlässt es dort zur Herausgabe an Gryndel, der es sofort verlangt; die Quittung wurde am selben Tag eingetragen [[1]].
 
-### Form und Sprache
-
-Der Eintrag steht zwischen anderen auf seinen Seiten; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Der Schreiber beschreibt Wagen und Tiere lateinisch und wiederholt jede Beschreibung polnisch nach „als“ oder „alias“, damit sie wiederzuerkennen waren. <!-- context -->
+Der Schreiber beschreibt Wagen und Tiere lateinisch und wiederholt jede Beschreibung polnisch nach „als“ oder „alias“, damit sie wiederzuerkennen waren. <!-- context -->
 
 ### Verwandte Bestände
 

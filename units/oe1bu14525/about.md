@@ -28,9 +28,7 @@ The correspondence on registration is addressed mainly to Glenck, building and e
 
 The volume contains a valuation of Kamionna and Kolno, a valuation of their forest, and a judicial valuation of Szetlewek, which gives a gross value of 34,803 Rthl [[13, 14, 23]]. One further document is a damaged note of which little can be read [[24]].
 
-### Form and language
-
-The documents are in German; the register extract for Zagórów is partly in Polish. Because most documents are certified copies, the date and place given for a document are often those of its certification and not of the instrument copied. Several charters appear more than once, as separate copies with their own certifications. The two valuations of Kamionna and Kolno are tables and are shown one entry to a line. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
+Because most documents are certified copies, the date and place given for a document are often those of its certification and not of the instrument copied. Several charters appear more than once, as separate copies with their own certifications. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
 
 ### Related holdings
 

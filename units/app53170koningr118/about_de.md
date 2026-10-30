@@ -20,9 +20,7 @@ Die meisten Einträge eines solchen Registers sind einzeilige Vermerke, dass ein
 
 **Weitere Ladungen und ein Protest.** Vermerke halten einen Protest Prusimskis gegen Chełmski fest [[3]], zwei Ladungen Prusimskis durch Chełmski [[5]] [[7]] und eine durch den früheren und den jetzigen Besitzer von Biskupice [[6]].
 
-### Form und Sprache
-
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Das Latein ist stark abgekürzt; die langen Einträge wurden ein zweites Mal Wort für Wort neben den Aufnahmen gelesen, und einige wenige Wörter darin bleiben als zweifelhaft gekennzeichnet. Fünfzehn Einträge haben keine datierte Sitzungsüberschrift über sich und sind nach den Überschriften davor und danach datiert, einige nur auf das Jahr; jeder sagt das. Eine Überschrift nennt einen Wochentag und einen Monatstag, die nicht übereinstimmen; hier gilt der Wochentag. Ein Vermerk ist unvollendet, und ein Eintrag ist eine Überschrift, unter der nichts geschrieben wurde. Ein Vermerk, den der Herausgeber fotografiert, aber nicht transkribiert hatte, wurde transkribiert. <!-- context -->
+**Anmerkungen zu den Einträgen.** Fünfzehn Einträge haben keine datierte Sitzungsüberschrift über sich und sind nach den Überschriften davor und danach datiert, einige nur auf das Jahr; jeder sagt das. Eine Überschrift nennt einen Wochentag und einen Monatstag, die nicht übereinstimmen; hier gilt der Wochentag. Ein Vermerk ist unvollendet, und ein Eintrag ist eine Überschrift, unter der nichts geschrieben wurde. <!-- context -->
 
 Antoni Prusimski erscheint hier als „Ostroróg Prusimski“ und als Ritter des St.-Stanislaus-Ordens. Die Ladung vom September 1782 ist das einzige Dokument, das seine Eltern und Großeltern nennt. <!-- context -->
 

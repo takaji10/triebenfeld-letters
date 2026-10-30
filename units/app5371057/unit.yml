@@ -41,6 +41,8 @@ original_title_card: "Erbpachts-Contracts zwischen dem Fürsten zu Hohenlohe Ing
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [deeds-contracts, court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de, pl]
 date_span: 1806-1811
 status: translated         # draft | transcribed | translated | published
 
@@ -114,3 +116,14 @@ translation_note: >-
   Trąbczyn, Drzewce, Konin, Kalisch and Marianton (Mariantów, where the court
   sat) are place names; Erbet (also Erbert) is the lessee's surname. A Hufe
   Magdeburgisch is a measure of land (thirty Morgen), not a person or place.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-ai-supplied
+  - c-claude-witness
+  translation:
+  - l-claude
+  - en: The English marks two garbled passages as uncertain.
+    de: Die englische Fassung kennzeichnet zwei verderbte Stellen als unsicher.
+  - s-claude

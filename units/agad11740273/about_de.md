@@ -16,9 +16,7 @@ Auch Józef Wybicki, ein Mitglied der Kommission, hatte Güter an Preußen verlo
 
 Die Anordnung, die darauf folgte, ist unter den hier veröffentlichten Stücken nicht. Trąbczyn wurde im Oktober 1807 dem Bevollmächtigten der Dąbska übergeben: [[unit:oe1bu9454]]. <!-- context -->
 
-### Form und Sprache
-
-Die drei Bittschriften sind die Originale, jede unterschrieben „Michalina z Prusimskich Dambska“ oder, auf Französisch, „Micheline Dambska née Prusimska“. Die Kanzlei der Kommission vermerkte auf jeder den Tag der Vorlage; diese Vermerke stehen hier am Fuß der Seite, obwohl sie am Kopf geschrieben sind. Die Bittschrift an den Kaiser ist auf der Rückseite an Małachowski adressiert. Der Beschluss ist der eigene, verbesserte Entwurf der Kommission. Der äußere Rand dieses Blattes ist eingerissen; zwei dort verlorene Wörter sind in eckigen Klammern ergänzt. <!-- context -->
+**Die Dokumente.** Die drei Bittschriften sind die Originale, jede unterschrieben „Michalina z Prusimskich Dambska“ oder, auf Französisch, „Micheline Dambska née Prusimska“. Der Beschluss ist der eigene, verbesserte Entwurf der Kommission. <!-- context -->
 
 ### Verwandte Bestände
 

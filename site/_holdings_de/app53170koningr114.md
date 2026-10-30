@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr114"
-title: "53/17/0/-/Konin Gr.114"
+title: "Burggericht Konin: Relationes [protocollon] 1765-1767"
 lang: de
 permalink: "/de/quellen/app53170koningr114/"
 alt_url: "/sources/app53170koningr114/"
@@ -23,36 +23,16 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Koninie“ 
 
 **August 1767.** Am 6. August berichtete er erneut. Am Freitag nach St. Jakob hatte er mit den Adligen Józef Gołembiewski und Rudkowski den Damm im Wald auf dem Teichgrund gesehen, an der Grenze der Łukomer Fluren, aber auf Trąbczyner Grund aufgeschüttet. Das im Teich gestaute Wasser trat auf die Äcker und Wiesen der Trąbczyner Olęder über, so dass die Wiesen von vier von ihnen unter Wasser standen und nicht gemäht werden konnten. Er und die Adligen erklärten, der Damm sei einige Jahre zuvor von den Erbherren von Łukomia aufgeschüttet und jetzt ausgebessert worden <span class="cite">[<a href="{{ '/documents/app53170koningr114/2/' | relative_url }}">2</a>]</span>.
 
-### Form und Sprache
-
-Das Buch ist ein Register flüchtiger Einträge, viele auf einer Seite. Der erste Bericht steht am Fuß von Blatt 297 und oben auf Blatt 297 verso, der zweite am Fuß von Blatt 334 und oben auf Blatt 334 verso. Die übrigen Einträge auf diesen Seiten sind nicht transkribiert. Der Rahmen jedes Berichts ist abgekürztes Latein, das die Transkription ausschreibt; was der Bote sah, steht polnisch da, in der Schreibweise des Schreibers. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Besichtigung desselben Gutes 1754: <a href="{{ '/de/quellen/app53170koningr136/' | relative_url }}">53/17/0/-/Konin Gr.136</a>. Das Dekret von 1775, das über den Teichgrund und die Überschwemmung entschied: <a href="{{ '/de/quellen/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. <!-- context -->
 
 <!--prepared-->
 
-### Aufnahmen
-
-Das Archiv lieferte vierzehn Aufnahmen dieses Buchs: zwei Einzelseiten und zwölf Aufnahmen von je zwei gegenüberliegenden Seiten. Die beiden Einträge stehen auf vier Seiten; die zwei, die aus Doppelaufnahmen stammen, wurden am Falz geschnitten. Zehn Aufnahmen tragen nichts, was transkribiert ist, und werden nicht verwendet.
-
 ### Transkription
 
-Der Herausgeber hat die beiden Einträge transkribiert und absatzweise geliefert, mit aufgelösten Abkürzungen des Lateins.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) las beide Einträge Wort für Wort neben den Aufnahmen. Die Transkription war genau: Drei Lesungen wurden korrigiert, von denen keine ändert, was die Berichte als geschehen angeben. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Jeder Eintrag ist ein Dokument. Jeder ist durch seine eigene Eingangszeile nach dem Kirchenkalender datiert: Mittwoch nach Ostern 1767, der 22. April, und das Fest der Verklärung, der 6. August 1767.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an fünf Stellen geändert: Drei folgen den korrigierten Lesungen, und zwei stellen klar, dass der Bote und nicht Prusimski auf das Gut ging. Eine zweite englische Fassung des zweiten Eintrags in den Dateien des Herausgebers, mit Anmerkungen, ist eine Dublette und wird nicht verwendet.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach dem Lateinischen und Polnischen geschrieben und ins Englische übersetzt. Jede ihrer neun Aussagen wurde danach an ihrem Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

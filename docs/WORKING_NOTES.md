@@ -2752,3 +2752,49 @@ it in the nominative, or in the undeclined form, in the same source.
   Markdown ran them into the line above. `check_unit_text.py` now fails a
   line that starts with an en or em dash and a space. A dash pass must leave
   a line-initial "- " alone.
+
+## The holding pages: header, languages, "How it was prepared" (2026-10-30)
+
+The editor's ruling of the day, in three parts; the work is in the branch
+`unit-pages-tightening`.
+
+- **The header.** The page's heading is the holding's translated title
+  (`card_title`, the German `card_title_de`); the original title stands under
+  it, and the reference number stands beside the archive's name
+  (`53/4/0/-/62 · Archiwum Państwowe w Poznaniu`). The browser tab names the
+  holding by its title too (`unit_pages.page_title`). The languages of the
+  documents are one line of the facts under it (`languages:` in unit.yml,
+  `reference/languages.yml`).
+- **No "Form and language".** The editor: the physical descriptions (hand,
+  ruling, leaf numbers, film frames, abbreviations) are useless; what changes
+  how a document is read is not. So the section is gone from 48 holdings in
+  both languages; the sentences that matter (the basis of a date, a part not
+  transcribed, which sheet is the original, a spelling kept) were moved to the
+  end of "Contents", and the whole old text is in each holding's `notes.md`
+  (`drop_form_and_language.py` did it once). The same test applies to any new
+  page: say what the reader needs to understand the source, not what it looks
+  like.
+- **"How it was prepared" tells the AI's part only.** It is written from
+  `prepared:` in unit.yml (`reference/prepared.yml` has the sentences, in both
+  languages), so it stays short and the German is not written holding by
+  holding. HOUSE_STYLE, "A holding's own page", has the four questions and the
+  list of what stays in the notes. The old accounts are in each `notes.md`
+  under "How it was prepared (the public text before 2026-10-30)"; there is no
+  `process.md` any more. A new holding fills `prepared:` when the work is done.
+- **Traps.** A heredoc to `python -` in this shell can turn `\n` into a real
+  newline inside a string, which breaks the script with a SyntaxError that
+  points at a string; write such a script with the Write tool, or use Edit.
+  A sentence splitter that breaks at "L. S." cuts a quoted abbreviation in
+  half: check the kept text of a split by printing it before applying.
+  `[[unit:...]]` is a link, not a citation: a paragraph with only that still
+  needs `<!-- context -->`.
+- **"Paraph" is a real word and not a typo** (a short mark an official puts
+  after or instead of a signature), but it reads like "paragraph" to a
+  newcomer. Reader-facing English says "initials"; the German keeps "Paraphe",
+  the term of the German finding aids; `docs/GOVERNMENT_FILES.md` and the
+  notes keep "paraph" as the working term.
+- **Not done, offered:** a read of the other pages for descriptions that exist
+  for their own sake (the literature's, newspapers' and places' account /
+  brief / summary say the same thing three times; "Scans"-style handling
+  sentences were the same problem in the process tabs). A pattern scan found
+  nothing like it in the people's bios, the cemeteries or the place pages.

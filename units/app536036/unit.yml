@@ -38,6 +38,8 @@ fonds: Księgi sądu ziemskiego w Koninie
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [la]
 date_span: 1644
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -114,3 +116,14 @@ translation_note: >-
   advitalis" a widow holding her dower and a life interest; "borra" pine
   woodland; "fundo intacto" a reckoning of harm that leaves the land itself
   aside. Trampczyno is Trąbczyn.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: Claude then read both entries against the scan word for word and corrected them, settling nearly every doubt from the other entries on the same pages, which are judgments of the same kind in the same words.
+    de: Claude las anschließend beide Einträge Wort für Wort am Scan nach und korrigierte sie; fast jeden Zweifel entschied es aus den anderen Einträgen auf denselben Seiten, die Urteile derselben Art in denselben Worten sind.
+  translation:
+  - en: The editor's English had been made from the first reading; Claude revised it wherever the corrected Latin required it, which is in most sentences.
+    de: Das Englisch des Herausgebers war nach der ersten Lesung entstanden; Claude überarbeitete es überall, wo das korrigierte Latein es verlangte, also in den meisten Sätzen.
+  - s-claude

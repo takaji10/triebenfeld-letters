@@ -25,9 +25,7 @@ Ten numbered terms follow [[1]]:
 
 On this contract the teacher binds himself to continue his office as an honest man, the Sunday school as well as the children's teaching. The board issues the contract for one year and binds itself to keep its side faithfully. The three sign: Johann George Lindner as Schulze, Christoph Rimpel as Beisitzer, Samuel Gellert "gerichten" [[1]].
 
-### Form and language
-
-The contract is in German, in one hand, written fast and with phonetic spellings that are kept as written: "Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß". The terms are numbered 1. to 10., item 9 with the ordinal "9te."; item 7 carries its number and nothing else. A word divided at a line end keeps the manuscript's hyphen. "pohl." after a sum marks Polish money [[1]].
+"pohl." after a sum marks Polish money [[1]].
 
 ### Related holdings
 

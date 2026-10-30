@@ -1,6 +1,6 @@
 ---
 unit: "adwl85"
-title: "85"
+title: "Akten der Visitation des Dekanats Konin 1790-1791"
 lang: de
 permalink: "/de/quellen/adwl85/"
 alt_url: "/sources/adwl85/"
@@ -31,36 +31,18 @@ Die Rechte und Urkunden der Kirche reichen von 1636 bis 1697: Geldsummen für Me
 
 **Dokument 2, die Pfarrei Zagórów.** Die Tabelle der Seelen der Nachbarpfarrei Zagórów im Jahr 1791, in derselben Form: vierundzwanzig Orte, von der Stadt Zagórów bis zur Hauländersiedlung Holendry Wrąbczyn, darunter Łukom, Drzewce, Oleśnica, Kopojno und Skokum. Dissidenten leben nur in vier der Orte. Die Summen des Schreibers sind 1028, 1030, 270 und 246 Katholiken und 57, 55, 27 und 27 Dissidenten, 2734 im Ganzen; sie stimmen mit seinen eigenen Zahlen nicht ganz überein: die Spalte der Frauen ergibt zehn mehr als ihre Summe, und die Gesamtsumme ist um sechs kleiner als seine Spaltensummen zusammen. Eine Notiz am Rand verzeichnet in Myszakowko eine Frau von 110 Jahren <span class="cite">[<a href="{{ '/documents/adwl85/2/' | relative_url }}">2</a>]</span>.
 
-### Form und Sprache
-
-Polnisch, in einer klaren Hand, in der Rechtschreibung der Zeit (iest, ktorey, Dyecezyi), mit den üblichen Abkürzungen der Titel (JWo, JMść, X.) und einigen lateinischen Wendungen. Die zwei Tabellen von Trąbczyn und die Tabelle von Zagórów sind mit Linien gezogen; die Spaltenköpfe stehen senkrecht und sind in den schmalen Spalten abgekürzt. Die Blattzahlen stehen oben rechts. <!-- context -->
-
 ### Verwandte Bestände
 
 Das Register der Rauchfangsteuer von 1789, das Trąbczyn, seine Olęder, Łazy, Osiny, Nowa Wieś und Łukom verzeichnet: <a href="{{ '/de/quellen/app53640kalisztab21/' | relative_url }}">53/64/0/-/Kalisz Tab.21</a>. Die preußische Tabelle der Dörfer um Konin von etwa 1797, die Häuser und Einwohner vieler derselben Orte zählt: <a href="{{ '/de/quellen/agad1169011745/' | relative_url }}">1/169/0/1/1745</a>. Die Besichtigung von Trąbczyn für Katarzyna Prusimska 1754: <a href="{{ '/de/quellen/app53170koningr136/' | relative_url }}">53/17/0/-/Konin Gr.136</a>. Die zwei Olęder-Kolonien von Trąbczyn unter ihren späteren Namen: <a href="{{ '/de/quellen/app539680783/' | relative_url }}">53/968/0/-/783</a>. <!-- context -->
 
 <!--prepared-->
 
-### Scans
-
-Der Herausgeber fotografierte fünfzig Seiten des Bandes, jede eine einzelne Seite, nach Blatt benannt. Aufgenommen sind nur die neun Seiten, die die Transkription des Herausgebers umfasst: Blatt 23 Rückseite, 24, 24 Rückseite, 25, 25 Rückseite, 28 Rückseite, 29 und 29 Rückseite sowie Blatt 34a. Blatt 34a ist ein nach Blatt 34 eingefügtes Blatt.
-
 ### Transkription
 
-Der Herausgeber transkribierte die Teile der neun Seiten, die Trąbczyn betreffen, und die Tabelle von Zagórów. Diese Transkription ließ einige Abschnitte derselben Seiten aus (die Seelen der Pfarrei und den Auszug aus den Kirchenbüchern von 1790, die zweite Hälfte von Blatt 25 und 25 Rückseite und Teile von Blatt 28 Rückseite bis 29 Rückseite). Auf Wunsch des Herausgebers wurden sie von einem KI-Modell (Claude) nach den Scans transkribiert. Dann wurde jede Seite Wort für Wort mit den Scans verglichen, zusammen mit dem Text des Herausgebers. Die so geprüften Wörter und Zahlen und die ergänzten Abschnitte sind für den Herausgeber gesondert aufgeführt.
+Die Transkription stammt vom Herausgeber.
 
-Zwei Abschnitte dieser Seiten sind nicht transkribiert, weil sie zu anderen Teilen der Visitation gehören: der Kopf von Blatt 23 Rückseite, das Ende des Berichts über die Pfarrei vor Trąbczyn, und auf Blatt 34a die Beschreibung der Kirche von Zagórów unter der Tabelle.
+Auf Wunsch des Herausgebers transkribierte Claude die Stellen derselben Seiten, die die Transkription des Herausgebers ausgelassen hatte, nach den Scans und las dann jede Seite samt dem Text des Herausgebers Wort für Wort an den Scans nach.
 
-Der Text behält die Schreibung der Seite (iest, ktorey, Dyecezyi) und die Abkürzungen des Schreibers, wie er sie schrieb (JWo, JMści, X., Rku); ein Doppelpunkt kennzeichnet ein Wort, das er abkürzte. Jede Zeile der Transkription ist ein Absatz der Seite. Das Wort, das der Schreiber am Fuß einer Seite als Ankündigung der nächsten schrieb, steht auf einer eigenen Zeile und wird im Lesetext nicht wiederholt. Die Tabellen sind Zeile für Zeile wiedergegeben, die Zellen durch einen senkrechten Strich ( | ) getrennt; die Spaltenköpfe, die der Schreiber in den schmalen Spalten abkürzte, stehen so weit, wie er sie schrieb. Ein unsicher gelesenes Wort ist mit „[?]“ gekennzeichnet. Der Herausgeber hat alle zwölf solchen Wörter an den Scans geprüft und neun davon geklärt; drei bleiben.
+### Übersetzung und Zusammenfassungen
 
-### Prüfung der Zahlen
-
-Die Tabelle der Seelen von Trąbczyn prüft sich selbst: jede Spalte ergibt die Summe des Schreibers, und die Summen seine 760, die Zahl, die der Text über der Tabelle nennt. Die Tabelle von Zagórów nicht: die Spalte der Frauen ergibt zehn mehr als die Summe des Schreibers, und seine Gesamtsumme ist um sechs kleiner als seine Spaltensummen zusammen. Die Zahlen stehen, wie der Schreiber sie schrieb. Eine Ziffer bei den Knaben der Stadt Zagórów sieht aus wie die 6 des Schreibers, doch die Spalte ergibt seine Summe nur mit 5, und der Herausgeber las 58.
-
-### Gliederung und Datierung
-
-Die Seiten bilden zwei Dokumente: den Bericht über die Pfarrei Trąbczyn und die Tabelle der Pfarrei Zagórów. Beide sind auf 1791 datiert, das Jahr der Tabellen; der Bericht über Trąbczyn nennt 1790 das vergangene Jahr.
-
-### Zusammenfassung und Übersetzung
-
-Die Zusammenfassungen wurden auf Deutsch aus dem Polnischen geschrieben und ins Englische übersetzt; jede ihrer 34 Aussagen wurde dann am Text geprüft. Die englische Übersetzung entstand in derselben Sitzung aus dem geprüften Polnisch. Sie gibt die Ortsnamen in den hier verwendeten Formen (Trąbczyn, Mariantów, Nowawies, Zagórów, Oleśnica, Skokum, Kopojno), und lässt die übrigen, wie sie geschrieben sind; lateinische Buchtitel bleiben lateinisch.
+Claude übersetzte die Dokumente ins Englische. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

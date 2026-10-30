@@ -18,11 +18,7 @@ Der Band gehört zum Bestand „Księgi sądu ziemskiego w Koninie“ des Archiv
 
 **Das Dekret.** Das Gericht entscheidet den Anspruch nicht. Der Streit um die Grenze zwischen Trąbczyn und Łukom ist zwischen denselben Parteien vor dem Krontribunal anhängig, und erst die Festlegung dieser Grenze wird zeigen, auf wessen Grund die Pottasche hergestellt wurde. Das Gericht setzt die Sache deshalb aus, bis über die Grenze entschieden ist, und ordnet an, den Parteien die Aussagen aus seiner Kanzlei in verschlossener Rolle herauszugeben [[1]].
 
-### Form und Sprache
-
-Der Eintrag beginnt in der Mitte von Blatt 653 verso und füllt Blatt 654 recto. Die obere Hälfte der ersten Seite ist das Ende des vorangehenden Eintrags in einer anderen Sache und ist nicht transkribiert. Das Latein ist stark abgekürzt; die Transkription löst die Abkürzungen auf. Vom Schreiber gestrichene Wörter sind nicht wiedergegeben. <!-- context -->
-
-Der Eintrag trägt kein eigenes Datum. Die Überschrift der Sitzung steht auf Blatt 638, das der Herausgeber transkribiert hat, das aber nicht unter den Aufnahmen ist: „Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Festum Sanctissimae et Individuae Trinitatis proxima Anno Domini Millesimo Septingentesimo Sexagesimo Tertio in Conin in propria Cadentia Celebratis“. Das heißt: geschehen im Bezirkslandgericht der Woiwodschaft Kalisz, gehalten in Konin zu seinem eigenen Termin, am Montag nach Trinitatis 1763, dem 30. Mai. Das Jahr des Dokuments ist dieser Überschrift entnommen. <!-- context -->
+**Datierung.** Der Eintrag trägt kein eigenes Datum. Die Überschrift der Sitzung steht auf Blatt 638, das der Herausgeber transkribiert hat, das aber nicht unter den Aufnahmen ist: „Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Festum Sanctissimae et Individuae Trinitatis proxima Anno Domini Millesimo Septingentesimo Sexagesimo Tertio in Conin in propria Cadentia Celebratis“. Das heißt: geschehen im Bezirkslandgericht der Woiwodschaft Kalisz, gehalten in Konin zu seinem eigenen Termin, am Montag nach Trinitatis 1763, dem 30. Mai. Das Jahr des Dokuments ist dieser Überschrift entnommen. <!-- context -->
 
 ### Verwandte Bestände
 

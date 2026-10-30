@@ -12,10 +12,6 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **August 1767.** On 6 August he reported again. On the Friday after Saint James, with the noblemen Józef Gołembiewski and Rudkowski, he had seen the embankment in the wood on the pond-ground, by the boundary of the Łukom lands but raised on Trąbczyn ground. The water dammed in the pond spilled onto the fields and meadows of the Trąbczyn Olęder settlers, so that the meadows of four of them lay under water and could not be mown. He and the noblemen declared that the embankment had been raised some years before by the heirs of Łukomia and had now been repaired [[2]].
 
-### Form and language
-
-The book is a register of rough entries, many to a page. The first report stands at the foot of leaf 297 and the top of leaf 297 verso, the second at the foot of leaf 334 and the top of leaf 334 verso. The other entries on those pages are not transcribed. The frame of each report is abbreviated Latin, which the transcription writes out; what the messenger saw is in Polish, in the spelling of the clerk. <!-- context -->
-
 ### Related holdings
 
 The inspection of the same estate in 1754: [[unit:app53170koningr136]]. The decree of 1775, which ruled on the pond-ground and the flooding: [[unit:app53170koningr145]]. <!-- context -->

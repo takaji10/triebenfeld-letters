@@ -20,9 +20,7 @@ From 1815 the district of Konin belonged to the Kingdom of Poland, which the Rus
 
 The file does not contain a Russian answer to Schöler's note, nor the memorandum that the reply of 1819 says was enclosed with it [[3]].
 
-### Form and language
-
-Three of the six documents are copies: the Warsaw report, Tarczewski's letter and Schöler's note. The note of Alopeus is the original, and the reply to it is the ministry's own draft, written by a German official in French. The Polish judgment is an extract issued by the court under its seal. <!-- context -->
+**Originals and copies.** Three of the six documents are copies: the Warsaw report, Tarczewski's letter and Schöler's note. The note of Alopeus is the original, and the reply to it is the ministry's own draft, written by a German official in French. The Polish judgment is an extract issued by the court under its seal. <!-- context -->
 
 ### Related holdings
 

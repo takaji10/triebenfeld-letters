@@ -32,6 +32,8 @@ original_title: "Akta wizytacji dekanatu konińskiego 1790-1791"
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [church-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl, la]
 date_span: "1790-1791"
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -106,3 +108,13 @@ translation_note: >-
   "staje" (stay) a furlong; "laska" a rod. "Trambczyn", "Trąmbczyn" are
   Trąbczyn. The tables are given row by row, cells parted by " | ". A word
   followed by [?] is read with doubt.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: At the editor's request Claude transcribed from the scans the passages of the same pages that the editor's transcription had left out, and then read every page, the editor's text with it, against the scans word by word.
+    de: Auf Wunsch des Herausgebers transkribierte Claude die Stellen derselben Seiten, die die Transkription des Herausgebers ausgelassen hatte, nach den Scans und las dann jede Seite samt dem Text des Herausgebers Wort für Wort an den Scans nach.
+  translation:
+  - l-claude
+  - s-claude

@@ -38,6 +38,8 @@ original_title: "Ansprüche des Friedrich Ludwig Fürst zu Hohenlohe"
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de, fr]
 date_span: 1814-1820
 status: translated             # draft | transcribed | translated | published
 
@@ -112,3 +114,17 @@ translation_note: >-
   report. The French pages are transcribed by paragraph, not line by line. Text
   that the receiving office wrote on an incoming letter stands at the end of
   that page and is not part of the letter.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-ai-supplied
+  - c-claude-witness
+  - en: The editor checked a random twenty of the changes against the scans and found all twenty right.
+    de: Der Herausgeber prüfte zwanzig zufällig gewählte Änderungen an den Scans und fand alle zwanzig richtig.
+  - en: Claude cropped every set of initials from the scans and laid them side by side. They sort into four hands, which the editor confirmed as Hardenberg, Stägemann, Hoffmann and Balan; the names are filled out in square brackets.
+    de: Claude schnitt alle Paraphen aus den Scans aus und legte sie nebeneinander. Sie ordnen sich zu vier Händen, die der Herausgeber als Hardenberg, Stägemann, Hoffmann und Balan bestätigte; die Namen sind in eckigen Klammern aufgelöst.
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude

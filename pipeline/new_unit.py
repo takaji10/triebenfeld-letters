@@ -73,6 +73,8 @@ original_title: TODO
 # The kind of material: one or two slugs of reference/unit_types.yml, the dominant
 # one first.
 types: [TODO]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [TODO]
 card_title: TODO
 card_title_de: TODO
 date_span: TODO
@@ -94,9 +96,18 @@ corpus: corpus.txt
 
 # What the holding is, in a paragraph: the opening of the translator's and the
 # summariser's prompts. The reader sees the holding's own page instead, written
-# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+# in about.md beside this file, and the "How it was prepared" tab is written from
+# `prepared:` below (docs/NEW_UNIT.md).
 description: >-
   TODO: a paragraph on what this holding is.
+
+# What the "How it was prepared" tab says: only what an AI decided that affected
+# the text (reference/prepared.yml, docs/HOUSE_STYLE.md "A holding's own page").
+# Each list holds keys of reference/prepared.yml and, where this holding needs
+# it, a hand-written {{en: ..., de: ...}}. Fill in when the work is done.
+prepared:
+  transcription: []
+  translation: []
 '''
 
 RULINGS_YML = '''# Editorial rulings for {ref}.

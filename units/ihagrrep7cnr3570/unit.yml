@@ -41,6 +41,8 @@ original_title_card: "Die Schenkungsurkunde über die dem Fürsten v. Hohenlohe-
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [deeds-contracts, government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de]
 date_span: 1796
 status: translated         # draft | transcribed | translated | published
 
@@ -119,3 +121,16 @@ translation_note: >-
   are estates granted by royal favour; Insurgenten-Güter estates confiscated
   from the insurgents of 1794. Pages marked "(not transcribed)" are placeholders for pages whose text
   has not been transcribed; render them as such and add nothing.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-ai-supplied
+  - c-claude-witness
+  - en: Twelve pages repeating one form of charter for the other six recipients were left untranscribed at the editor's choice.
+    de: Zwölf Seiten, die dieselbe Urkundenform für die übrigen sechs Empfänger wiederholen, blieben auf Wunsch des Herausgebers untranskribiert.
+  translation:
+  - l-claude
+  - en: Corrections that Claude proposed during translation and that rested on sense alone were not applied, and the English marks those words as uncertain.
+    de: Korrekturen, die Claude während der Übersetzung vorschlug und die sich nur auf den Sinn stützten, wurden nicht übernommen; das Englische kennzeichnet diese Wörter als unsicher.
+  - s-claude

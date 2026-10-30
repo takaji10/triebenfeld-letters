@@ -16,9 +16,7 @@ The four free years are said to begin at Christmas "of this year" and to end at 
 
 Four years before Christmas 1808 is Christmas 1804. The contract therefore appears to have been recorded in 1804 and engrossed only in March 1806, after the Chamber had given its consent. Another lease in the Prince's own copies was recorded on 20 December 1804 and engrossed in May 1806, with the same official and the same court attesting it. <!-- context -->
 
-### Form and language
-
-German, in the legal register of the time, with the Latin terms of the courts. The copyist writes the German in Kurrent script and names and foreign words in Latin script, numbers the pages 1 to 16, and spells several places in his own way (Zagurowo, Trompczyn, Lond). He copied the list of the lessees' shares with corrections: two names are written in between the lines and the numbering is altered. A note of the court's fees beside the last lines is not transcribed. <!-- context -->
+**The copy.** The copyist spells several places in his own way (Zagurowo, Trompczyn, Lond). He copied the list of the lessees' shares with corrections: two names are written in between the lines and the numbering is altered. <!-- context -->
 
 ### Related holdings
 

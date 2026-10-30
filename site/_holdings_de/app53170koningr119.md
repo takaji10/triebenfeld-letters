@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr119"
-title: "53/17/0/-/Konin Gr.119"
+title: "Burggericht Konin: Relationes [protocollon] 1783-1784"
 lang: de
 permalink: "/de/quellen/app53170koningr119/"
 alt_url: "/sources/app53170koningr119/"
@@ -27,9 +27,7 @@ Die meisten Einträge sind Berichte von Gerichtsboten: Der Bote kam zum Amt und 
 
 **Eine Nachsuche 1784.** Am 15. September 1784 fragte Maszewski, nun als Kommissar der Trąbczyner Güter bezeichnet, ob der Bericht über eine Ladung Chełmskis vor das Krontribunal, die eine Woche zuvor nach Trąbczyn gebracht worden war, erklärt worden sei; das Amt bescheinigte, dass das nicht geschehen war <span class="cite">[<a href="{{ '/documents/app53170koningr119/8/' | relative_url }}">8</a>]</span>.
 
-### Form und Sprache
-
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Das Latein ist formelhaft und stark abgekürzt. Vier Einträge haben keine datierte Sitzungsüberschrift über sich: Einer ist nach der Überschrift weiter oben auf seiner Seite datiert, drei auf den Monat nach der Ladung, über die sie berichten, nach den Überschriften davor und danach oder nach dem Dekret des Landgerichts; jeder sagt das. Sieben weitere Fotografien zeigen Einträge, die nicht transkribiert sind. <!-- context -->
+**Datierung.** Vier Einträge haben keine datierte Sitzungsüberschrift über sich: Einer ist nach der Überschrift weiter oben auf seiner Seite datiert, drei auf den Monat nach der Ladung, über die sie berichten, nach den Überschriften davor und danach oder nach dem Dekret des Landgerichts; jeder sagt das. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -37,28 +35,10 @@ Die 1782 bezeichnete Grenze: <a href="{{ '/de/quellen/app53170koningr153/' | rel
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält vierzehn Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Sieben tragen einen transkribierten Eintrag; jede von ihnen wurde am Falz geschnitten, und acht Hälften sind ganz wiedergegeben. Sieben Fotografien zeigen Einträge, die der Herausgeber nicht transkribiert hat, und werden nicht verwendet. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat acht Einträge transkribiert und absatzweise geliefert, mit ausgeschriebenem Latein.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) las jeden Eintrag Wort für Wort neben den Aufnahmen und korrigierte 56 Lesungen: 48 in einem ersten Durchgang, der einen Eintrag und die erste Hälfte eines weiteren ungelesen ließ, und 8, als diese auf Wunsch des Herausgebers gelesen wurden.
-
-Den Sinn ändern: In der Nachsuche vom September 1784 war eine Zeile übergangen worden, und das Amt bescheinigt, dass der Bericht über die Ladung „nicht vorliegt“. In Chełmskis zweiter Ladung wurde eine Wendung wiederhergestellt, dass Łomowo „zum Hauptgut Łukom des Klägers gehört“; die Taten werden als auf „deinen“ Befehl geschehen vorgeworfen, den Prusimskis, nicht den seines Verwalters. Die Ladung verlangt, „die Stellung der Leute anzuordnen und eine Untersuchung zu führen“, wo zwei Wörter ungelesen geblieben waren. In seinem Protest bietet Prusimski an, „sich zu reinigen“, nicht Wiedergutmachung zu leisten. Im Bericht vom Mai 1783 war eine Zeile übergangen worden, die sagt, dass die Ladung im Vorwerk von Nowa Wieś hinterlegt wurde. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Jeder Eintrag ist ein Dokument. Drei sind nach der Zeile „Actum in Conin“ unmittelbar über ihnen datiert, einer nach der Überschrift weiter oben auf seiner Seite. Vier haben auf keiner fotografierten Seite eine datierte Überschrift: Zwei sind nach der Ladung, über die sie berichten, und nach der nächsten Überschrift auf den März 1783 datiert, einer nach der Überschrift drei Blatt davor auf den Mai 1783 und Prusimskis Protest nach dem Dekret des Landgerichts, das ihn anführt, auf den Oktober 1783. Jeder sagt das.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an vierzehn Stellen geändert, an denen der Text korrigiert worden war, und „Captain“ für „Capitaneus“ wurde auf Wunsch des Herausgebers durchgehend zu „Starost“, wie in seinen übrigen Übersetzungen.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach dem Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer 27 Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

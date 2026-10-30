@@ -12,9 +12,7 @@ A person who had been beaten could come to the municipal court office and have h
 
 **Chełmski's citation of October 1786.** A court messenger reported that he had served on Prusimski a citation before the Crown Tribunal, dated at Piotrków on 2 October 1786. Chełmski asks that Prusimski be bound under oath to produce the contract made with Tracholz for the sale of an oak wood, which had stayed with him. He asks that he be punished for having had the cause sent from the court of the sitting on the ground to the full land court and on to the Tribunal. He asks, too, that the land court's decrees fixing the sitting on the ground be carried out [[2]].
 
-### Form and language
-
-Each entry stands among others on its page; the pages are shown whole and the other entries are not transcribed. Near the head of the second entry the clerk began another text and struck six lines through; they are not transcribed. The second entry has no dated heading on the photographed pages and is dated from the citation it reports. <!-- context -->
+**Dating.** The second entry has no dated heading on the photographed pages and is dated from the citation it reports. <!-- context -->
 
 ### Related holdings
 

@@ -16,9 +16,7 @@ In 1796 the King gave the confiscated estate of Trąbczyn to Prince Friedrich Lu
 
 **Trąbczyn and the places near it.** Trąbczyn, written "Trąpczyn", is entry 291: 32 houses, 1 church and 165 inhabitants, 51 male and 114 female [[1]]. Its Hollander settlement is entry 292, larger than the village: 34 houses and 271 inhabitants [[1]]. Two small places carry the estate's name in shortened form: a Nowa wieś with 5 houses and 49 inhabitants (entry 194) and a Stara Huta with 2 houses and 9 inhabitants (entry 283) [[1]]. Szetlew has 11 houses and 84 inhabitants; Szetlewek has 20 houses and 140 inhabitants, 4 of them Jews [[1]]. Łukom, the neighbour with which Trąbczyn disputed its boundary for two centuries, has 28 houses and 149 inhabitants, and its Hollander settlement 8 houses and 40 inhabitants [[1]].
 
-### Form and language
-
-The heading of the table is printed, in German. It stands on a taller leaf that lies behind the written leaves and shows above each of them, so that one heading serves every page. The entries are in one clerk's hand. He wrote the kinds of place in German script and the names in Latin script. The names are Polish, in his spelling, and a number of them are shortened ("Kurow Grab:", "dito Szyman."). In every line the men and women add up to the sum given, and the lines of each page add up to its total. <!-- context -->
+**Sums.** In every line the men and women add up to the sum given, and the lines of each page add up to its total. <!-- context -->
 
 ### Related holdings
 

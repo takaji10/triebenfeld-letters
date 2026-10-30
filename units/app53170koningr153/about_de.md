@@ -22,9 +22,7 @@ Das Tribunal entscheidet nun, dass die Linie so bleibt, wie sie gezogen ist. Ein
 
 Das Koniner Register hat für dieselben Wochen einzeilige Vermerke über die Vorlage beider Urkunden sowie einen Bericht und einen Protest vom 7. Dezember über 221 Kiefern, die Chełmskis Leute am 28. November, dem Tag der Eröffnung des Gerichts, auf der Trąbczyner Seite der neuen Linie fällten: [[unit:app53170koningr118]]. <!-- context -->
 
-### Form und Sprache
-
-Beide Urkunden sind Originale auf Stempelpapier, unterschrieben von den Amtsträgern, die sie ausstellten, und wurden in das Buch des Gerichts eingebunden, statt darin abgeschrieben zu werden. Das Latein ist formelhaft und abgekürzt. Das Dekret des Tribunals ist eine einzige lange Periode in indirekter Rede, in der zuerst das Vorbringen jeder Partei und dann die Feststellungen des Gerichts stehen. Eine leere Seite zwischen den beiden Urkunden ist nicht wiedergegeben. <!-- context -->
+**Die Akte.** Beide Urkunden sind Originale auf Stempelpapier, unterschrieben von den Amtsträgern, die sie ausstellten, und wurden in das Buch des Gerichts eingebunden, statt darin abgeschrieben zu werden. <!-- context -->
 
 ### Verwandte Bestände
 

@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr118"
-title: "53/17/0/-/Konin Gr.118"
+title: "Burggericht Konin: Relationes [protocollon] 1780-1782"
 lang: de
 permalink: "/de/quellen/app53170koningr118/"
 alt_url: "/sources/app53170koningr118/"
@@ -31,9 +31,7 @@ Die meisten Einträge eines solchen Registers sind einzeilige Vermerke, dass ein
 
 **Weitere Ladungen und ein Protest.** Vermerke halten einen Protest Prusimskis gegen Chełmski fest <span class="cite">[<a href="{{ '/documents/app53170koningr118/3/' | relative_url }}">3</a>]</span>, zwei Ladungen Prusimskis durch Chełmski <span class="cite">[<a href="{{ '/documents/app53170koningr118/5/' | relative_url }}">5</a>]</span> <span class="cite">[<a href="{{ '/documents/app53170koningr118/7/' | relative_url }}">7</a>]</span> und eine durch den früheren und den jetzigen Besitzer von Biskupice <span class="cite">[<a href="{{ '/documents/app53170koningr118/6/' | relative_url }}">6</a>]</span>.
 
-### Form und Sprache
-
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Das Latein ist stark abgekürzt; die langen Einträge wurden ein zweites Mal Wort für Wort neben den Aufnahmen gelesen, und einige wenige Wörter darin bleiben als zweifelhaft gekennzeichnet. Fünfzehn Einträge haben keine datierte Sitzungsüberschrift über sich und sind nach den Überschriften davor und danach datiert, einige nur auf das Jahr; jeder sagt das. Eine Überschrift nennt einen Wochentag und einen Monatstag, die nicht übereinstimmen; hier gilt der Wochentag. Ein Vermerk ist unvollendet, und ein Eintrag ist eine Überschrift, unter der nichts geschrieben wurde. Ein Vermerk, den der Herausgeber fotografiert, aber nicht transkribiert hatte, wurde transkribiert. <!-- context -->
+**Anmerkungen zu den Einträgen.** Fünfzehn Einträge haben keine datierte Sitzungsüberschrift über sich und sind nach den Überschriften davor und danach datiert, einige nur auf das Jahr; jeder sagt das. Eine Überschrift nennt einen Wochentag und einen Monatstag, die nicht übereinstimmen; hier gilt der Wochentag. Ein Vermerk ist unvollendet, und ein Eintrag ist eine Überschrift, unter der nichts geschrieben wurde. <!-- context -->
 
 Antoni Prusimski erscheint hier als „Ostroróg Prusimski“ und als Ritter des St.-Stanislaus-Ordens. Die Ladung vom September 1782 ist das einzige Dokument, das seine Eltern und Großeltern nennt. <!-- context -->
 
@@ -43,30 +41,10 @@ Das Dekret der Kommission von 1775: <a href="{{ '/de/quellen/app53170koningr145/
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält zweiunddreißig Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten. Siebenunddreißig der vierundsechzig Hälften tragen einen transkribierten Eintrag und sind ganz wiedergegeben; siebenundzwanzig bleiben weg. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat die Einträge transkribiert, die Trąbczyn betreffen, und sie absatzweise geliefert, mit ausgeschriebenem Latein. Ein Vermerk auf einer fotografierten Seite fehlte im Text des Herausgebers; ein KI-Modell (Claude) hat ihn nach der Aufnahme transkribiert, vier Zeilen in klarer Schrift. Ein Eintrag im Text des Herausgebers, ein Vermerk über ein Dekret für die Stadt Brdów, betrifft Trąbczyn nicht und bleibt weg.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Ein Vermerk auf einer fotografierten Seite, der im Text des Herausgebers fehlte, wurde von Claude nach dem Scan transkribiert. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) las den Bestand in zwei Durchgängen neben den Aufnahmen und korrigierte 175 Lesungen. Der erste Durchgang war ein leichter: jede Überschrift und Datumszeile, die zwanzig kurzen Einträge Wort für Wort, Anfang und Schluss der längeren und die Unterschriften, 42 Lesungen. Auf Wunsch des Herausgebers wurden danach die längeren Einträge durchgelesen, acht Dokumente auf sechzehn Seiten, und 133 weitere Lesungen wurden korrigiert. Neunzehn Wörter bleiben als zweifelhaft gekennzeichnet: Sie wurden angesehen und ließen sich nicht sicher lesen.
-
-Den Sinn ändern: Der erste Vermerk ist ein Bericht „an das Tribunal“, und sein Kläger Zielonacki ist „Richter“, nicht das Gericht. Gałecki und Skórzewski sind „der frühere und der jetzige“ Erbherr von Biskupice; eine Ladung gilt der „Kondeszension“, dem Ortstermin, in Grab. Der Abt heißt Ludwik Benedykt Lubstowski; die Zeugen eines Vermerks vom August 1782 sind Reczkowski, Świętosław Bogusławski und der Gerichtsbote Matuszkiewicz; und das Grenzdekret vom Dezember 1782 ist „ergangen“, nicht „im Protokoll“ eingetragen. Unter sechs Einträgen wurden Unterschriften ergänzt.
-
-Der zweite Durchgang fand fünf Stellen, an denen die Transkription eine Zeile oder einige Wörter übergangen hatte, und stellte sie wieder her. Im Protest für Prusimski gegen das Landgericht drei Zeilen: Das Gericht lehnte den Aufschub ab, weil die Sache, wie es sagte, in das Register von Großpolen gehöre, während das Tribunal damals das von Płock verhandelte; es „schnitt den Aufschub ab und befahl, die Sache einzuführen“. In Górskis Protest die Worte, Chełmski habe „unter Missachtung der Autorität des Tribunals“ gehandelt. Weitere Korrekturen, die den Sinn ändern: In der Ladung zum Ortstermin in Grab ist Teresa Bogdańska die Nachfolgerin ihrer beiden verstorbenen Schwestern, und die vier Arbeitsleute, die gestellt werden sollen, sind Prusimskis eigene Untertanen. Chełmski wirft Górski vor, das Dekret „ausgelegt“ zu haben, und sagt, dessen Linie lasse sich nicht ausführen, ohne den einen ihm zugesprochenen Siedler abzuschneiden. Die im November 1782 gefällten Kiefern wurden „auf“ Chełmskis Güter abgefahren. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Jeder Eintrag ist ein Dokument. Zehn sind nach der Zeile „Actum in Conin“ unmittelbar über ihnen datiert, drei nach der Überschrift ihrer Sitzung an anderer Stelle der Doppelseite. Fünfzehn haben auf keiner fotografierten Seite eine datierte Überschrift: Sechs davon ließen sich nach den Überschriften davor und danach auf den Monat datieren, neun nur auf das Jahr. Eine Überschrift nennt den Samstag vor Michaelis und den 29., der ein Sonntag war; sie ist auf den Samstag, den 28., datiert. Jeder sagt das.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an neunundvierzig Stellen geändert, an denen der Text korrigiert worden war; sechs Zeilen, die aus einem Chatfenster in die Datei geraten waren, wurden entfernt; und der neu transkribierte Vermerk wurde in den Begriffen des Herausgebers übersetzt.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach dem Lateinischen und Polnischen geschrieben und ins Englische übersetzt. Jede ihrer 69 Aussagen wurde danach am Dokument geprüft und stützt sich auf Wörter, die nicht als zweifelhaft gekennzeichnet sind. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

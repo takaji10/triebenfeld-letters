@@ -14,9 +14,7 @@ Antoni Prusimski, Starost von Niszczewice, besaß die Güter Trąbczyn und Kamio
 
 Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die Schriftstücke nicht. Ein späteres Dokument sagt es. Die Darstellung der Forderung seiner Tochter, die der russische Gesandte 1818 der preußischen Regierung übergab, berichtet, die preußischen Behörden hätten Prusimski im Oktober 1795 und im Februar 1796 aufgefordert, seine Ausreise zu rechtfertigen. Die Aufforderungen hätten ihn in Venedig erst Monate später erreicht, und er habe ein Attest übersandt, beglaubigt vom preußischen Legationsrat in Venedig, Graf „Cathane“, und um Verlängerung der Frist gebeten. Er starb, bevor er sie erhielt ([[unit:iiihamdaiiinr12366]], Dokument 2). Jene Darstellung nennt es ein Attest über Krankheit und Tod seiner Frau; die Depesche des Residenten spricht von Prusimskis eigenem Zustand. <!-- context -->
 
-### Form und Sprache
-
-Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. Auf dem Auszug und auf Schrötters Schreiben vermerkte das Departement den Tag des Eingangs, die Journalnummer und was zu geschehen hatte; auf den Seiten hier stehen diese Vermerke unter einer eigenen Überschrift nach dem Text, auf den sie geschrieben wurden. Die Verfügung vom 8. Januar 1797 steht auf einem eigenen Zettel. <!-- context -->
+**Die Schriftstücke.** Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleivermerken und den Unterschriften zweier Minister. Der Auszug ist eine im Departement angefertigte Reinschrift. Schrötters Schreiben ist die von ihm abgesandte Ausfertigung. <!-- context -->
 
 ### Verwandte Bestände
 

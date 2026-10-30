@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr117"
-title: "53/17/0/-/Konin Gr.117"
+title: "Burggericht Konin: Relationes [protocollon] 1778-1779"
 lang: de
 permalink: "/de/quellen/app53170koningr117/"
 alt_url: "/sources/app53170koningr117/"
@@ -29,9 +29,7 @@ Der Streit, wie ihn diese Einträge erzählen: Tracholz hatte eine Forderung aus
 
 Das Dekret der Kommissare, das Chełmski in seinen beiden Protesten rühmt, ist die „einseitige Handlung“, gegen die 1775 fünf Kommissare des Reichstags protestierten und nach der Prusimskis Leute 1776 in Konin suchten: <a href="{{ '/de/quellen/app53170koningr116/' | relative_url }}">53/17/0/-/Konin Gr.116</a>. <!-- context -->
 
-### Form und Sprache
-
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Sieben der dreizehn sind lange Einträge in formelhaftem Latein, in dem die meisten Wörter abgekürzt sind. Sie wurden ein zweites Mal Wort für Wort neben den Aufnahmen gelesen; einige Wörter darin bleiben als zweifelhaft gekennzeichnet. Zwei Berichte geben auf Polnisch wieder, was der Bote sah. Antoni Prusimski nennt Paweł Prusimski hier seinen „patruus“, den Bruder seines Vaters; kein anderer Bestand sagt, wie die beiden verwandt waren. Chełmskis erster Protest hat auf der fotografierten Seite keine Überschrift. Der Vermerk über das Verweisungsdekret verweist auf einen Text „gegenüber, unter dem Zeichen #“, der nicht auf den fotografierten Seiten steht. Sechs Einträge haben keine datierte Sitzungsüberschrift über sich; drei sind nach der Überschrift an anderer Stelle der Doppelseite datiert, drei nach den Überschriften davor und danach, und jeder sagt das. <!-- context -->
+**Anmerkungen zu den Einträgen.** Zwei Berichte geben auf Polnisch wieder, was der Bote sah. Antoni Prusimski nennt Paweł Prusimski hier seinen „patruus“, den Bruder seines Vaters; kein anderer Bestand sagt, wie die beiden verwandt waren. Chełmskis erster Protest hat auf der fotografierten Seite keine Überschrift. Der Vermerk über das Verweisungsdekret verweist auf einen Text „gegenüber, unter dem Zeichen #“, der nicht auf den fotografierten Seiten steht. Sechs Einträge haben keine datierte Sitzungsüberschrift über sich; drei sind nach der Überschrift an anderer Stelle der Doppelseite datiert, drei nach den Überschriften davor und danach, und jeder sagt das. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -39,30 +37,10 @@ Das Dekret der Kommission: <a href="{{ '/de/quellen/app53170koningr145/' | relat
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält fünfzehn Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten. Achtzehn der dreißig Hälften tragen einen transkribierten Eintrag und sind ganz wiedergegeben; zwölf bleiben weg. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat die Einträge transkribiert, die Trąbczyn betreffen, und sie absatzweise geliefert, mit ausgeschriebenem Latein. Die langen Einträge sind eine erste Lesung und kennzeichnen mehr als zweihundert Wörter als zweifelhaft.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) las den Bestand in zwei Durchgängen neben den Aufnahmen und korrigierte 209 Lesungen. Der erste Durchgang war ein leichter: jede Überschrift und Datumszeile, die Namen der Richter und fünf der achtzehn Seiten Wort für Wort (der Bericht vom 7. März 1778, der Bericht über die Grenzkiefer, der Bericht vom Januar 1779 und Nosalskis Protest), 50 Lesungen. Auf Wunsch des Herausgebers wurde danach das lange Latein der sieben übrigen Einträge durchgelesen, elf Seiten, und 159 weitere Lesungen wurden korrigiert. Etwa 45 Wörter bleiben als zweifelhaft gekennzeichnet: Sie wurden angesehen und ließen sich nicht sicher lesen.
-
-Den Sinn ändern: Prusimski wird geladen, seine Untertanen zum Ortstermin zu „stellen“, nicht sie festzuhalten. Die Richter heißen Walknowski und Mikorski, und in der ersten Ladung vor das Tribunal ist eine Zeile wiederhergestellt, die die Transkription übergangen hatte. Der Grenzhügel, nicht ein zweites Gut, trägt den über der Zeile geschriebenen Namen; die Leute von Rzgów wurden gefasst, „als sie flohen“, mit den Kiefern. Nosalskis Leute fuhren Bäume „auf Schlitten“, und er will Prusimskis zwei Männer „vom Zeugnis ausschließen“ lassen. Ein Wort wurde durchgehend korrigiert, sechzehnmal: „Patrui“, des Onkels, für „Patrii“ oder „Patris“, des Vaters. Es wurde auf einer Seite angesehen, wo es „Patruj“ geschrieben ist, und an den übrigen Stellen aus diesem Grund korrigiert. Chełmskis Unterschrift unter seinen beiden Protesten wurde ergänzt.
-
-Der zweite Durchgang fand drei Stellen, an denen die Transkription eine Zeile oder einen Teil davon übergangen hatte, und stellte sie wieder her: zwei in Prusimskis Protest vom 15. April 1778, eine in der Ladung, die ihm am 25. April zugestellt wurde. Er fand ein durchgehend falsch gelesenes Zeichen: Das „p“ des Schreibers mit einem Strich ist „per“, durch, wo die Transkription „pro“, für, hatte; die Forderung wurde also „durch“ Chełmski erworben, und das Dekret von 1775 erging „durch“ seine Kommissare. Und er fand ein falsch gelesenes Wort in Chełmskis beiden Protesten: „jurto“ ist „juramento“, der Eid, den er 1775 am letzten Grenzhügel leistete, wo die Transkription „Jurisdiktion“ hatte. Weitere Korrekturen, die den Sinn ändern: Chełmski sagt, Prusimski habe die Handlung seiner eigenen Kommissare als „ungültig“ behandelt (die Übersetzung hatte „unverletzlich“). Einem von Prusimskis Mitschwörern „fehlt der volle Verstand“; der Landrichter, gebeten, die Sache an das Tribunal zu verweisen, verwies sie „an sich selbst und das ganze Gericht“ zurück. Die fraglichen Summen hatte Tracholz bei Prusimskis Onkel geliehen, nicht umgekehrt. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Jeder Eintrag ist ein Dokument. Der Vermerk über Prusimskis ersten Protest und der Text auf dem gegenüberliegenden Blatt, auf den er verweist, bilden eines. Vier Dokumente sind nach der Zeile „Actum in Conin“ unmittelbar über ihnen datiert, drei nach der Überschrift ihrer Sitzung an anderer Stelle der Doppelseite. Sechs haben auf keiner fotografierten Seite eine datierte Überschrift: Vier sind nach den Überschriften davor und danach auf den Monat datiert, zwei auf das Jahr. Jeder sagt das.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an 62 Stellen geändert, an denen der Text korrigiert worden war, und „father“ wurde an fünfzehn Stellen zu „uncle“.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach dem Lateinischen und Polnischen geschrieben und ins Englische übersetzt. Jede ihrer 54 Aussagen wurde danach am Dokument geprüft und stützt sich auf Wörter, die nicht als zweifelhaft gekennzeichnet sind. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

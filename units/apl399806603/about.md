@@ -12,10 +12,6 @@ The copy, made at Kalisz on 10 September 1869 to be kept at the governorate gove
 
 In March 1884 an inscription in the copy, under a resolution of the governorate board of 25 February 1882, fixed the fuel each farmstead might take from the forest at 104 cloth-loads a year, equal to 10½ two-horse carts, and allowed the farmsteads to graze 408 head of horned cattle there [[3]]. By a voluntary transaction of 14 June 1892, recorded in an inscription of 12 October 1894, the peasants gave up their rights of pasture and wood-gathering in the forest to the owner of Trąbczyn, Countess Maria Wielopolska, and received 393 Morgen 154 rods of manor land [[4]]. A survey of 1896, recorded in an inscription of 29 November 1897, put the whole allotment at 1,068 desiatins 1,272 sazhens [[5]], and a statement gives each farmstead's land after it, under buildings and gardens, arable, meadow, pasture and unusable [[6]].
 
-### Form and language
-
-Russian, in the spelling of before 1918. The table is a printed form filled in by hand, with columns for the land of each farmstead and for the dues; the copy is another hand on the same form; the inscriptions of 1894 and 1897 are certified copies on separate sheets. The tables are given as tables. Where the writing runs across an opening, the two pages are shown as one. <!-- context -->
-
 ### Related holdings
 
 Albert Breyer's notebook with his copies of this table and of the servitudes, and of the tables of Emilienheim and Orliny: [[unit:app539680716]]. The summons of 1860 in the colonists' dispute over the forest: [[unit:app539680783]]. Breyer's notebooks of 1936 on Łazińsk: [[unit:app539680669]]. <!-- context -->

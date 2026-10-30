@@ -18,10 +18,6 @@ Die Briefwechsel des Bevollmächtigten des Fürsten enthalten die andere Seite d
 
 **Das Ergebnis.** Die Instruktionskommission rät, der Staatsrat solle das Begehren als auf keinem Rechtssatz beruhend abweisen, und reicht einen entsprechenden Gesetzentwurf ein [[1]]. <!-- context -->
 
-### Form und Sprache
-
-Der Bericht ist französisch, die Arbeitssprache der zentralen Stellen des Königreichs, in der Verwaltungsprosa der Zeit: lange Sätze, mit 1° bis 4° und 1° bis 5° gezählte Gründe, mit a° bis c° bezeichnete Argumente, beantwortet als ad a., ad b., ad c. Der Kopf auf der ersten Seite ist in der Handschrift stark korrigiert. Eine Partie auf S. 160, ein erster Entwurf der Gründe, ist durchgestrichen; durchgestrichener Text wird nicht verzeichnet. Eine Partie auf S. 159 über die Klage Hohenlohe-Ingelfingens von 1808, die das Archivtranskript überspringt, ist hier aus dem Scan ergänzt. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Schenkung von Trąbczyn an Hohenlohe-Ingelfingen 1796: [[unit:oe1bu14525]] und [[unit:ihagrrep7cnr3570]]. Das Gut, wie die preußische Verwaltung es um 1797 vorfand, in der Tabelle: [[unit:agad1169011745]]. Die Briefe des Bevollmächtigten des Fürsten, mit Weigels Entschädigungsforderung und den Protesten Preußens: [[unit:oe1bu9454]]. Die Aufteilung von Zagórów und Trąbczyn unter Siedler 1805 und 1806: [[unit:app539680801]]. <!-- context -->

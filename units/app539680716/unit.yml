@@ -29,6 +29,8 @@ fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w S
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [researchers-papers]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [ru, de, pl]
 date_span: "1858-1936"
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -82,3 +84,15 @@ translation_note: >-
   Hollander (Olęder) settlement; "Wirte" farmers; "Servitut" a right of
   pasture or wood. A word followed by [?] or written [word?] is read with
   doubt; [?] alone is a word not read.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-claude-scans
+  - en: The editor checked the doubtful readings that a name, a place, a heading or the sense of a note rests on against the photographs, and a comparison with the original table of 1868 corrected figures and names misread in Breyer's copy of it. Where Breyer spells a name differently from the original table, the name is given as the original writes it, at the editor's word.
+    de: Der Herausgeber prüfte die zweifelhaften Lesungen, auf denen ein Name, ein Ort, eine Überschrift oder der Sinn einer Notiz beruht, an den Aufnahmen, und der Vergleich mit der Originaltabelle von 1868 korrigierte Zahlen und Namen, die in Breyers Abschrift falsch gelesen worden waren. Wo Breyer einen Namen anders schreibt als die Originaltabelle, steht der Name so, wie ihn das Original schreibt, auf Wunsch des Herausgebers.
+  translation:
+  - l-claude
+  - en: In the tables only the names and the words are translated, and every figure stands in the same cell as in the original. Russian names are transliterated letter by letter.
+    de: In den Tabellen sind nur die Namen und die Wörter übersetzt, und jede Zahl steht in derselben Zelle wie im Original. Russische Namen sind Buchstabe für Buchstabe transliteriert.
+  - s-claude

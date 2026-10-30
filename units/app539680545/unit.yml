@@ -32,6 +32,8 @@ fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w S
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [researchers-papers]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de, pl]
 date_span: ""
 status: translated         # draft | transcribed | translated | published
 
@@ -113,3 +115,14 @@ translation_note: >-
   him the word is marked or left as it stands. The excerpt of 1741 quotes a
   printed title; its names are those of eight boys of a Breslau school, a
   Polish name against a German one.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - en: The five list sheets were read by Claude from enlarged bands of the images. The editor settled the doubtful readings, and their readings replaced most of them. The three prose sheets are the editor's own transcription, kept as typed.
+    de: Die fünf Listenblätter las Claude an vergrößerten Streifen der Aufnahmen. Der Herausgeber entschied die zweifelhaften Lesungen, und seine Lesungen ersetzten die meisten davon. Die drei Prosablätter sind die eigene Transkription des Herausgebers, so belassen, wie sie getippt war.
+  translation:
+  - l-claude
+  - en: In the lists every name stays as written and only the headings and the common words are translated.
+    de: In den Listen bleibt jeder Name wie geschrieben, und nur die Überschriften und die gewöhnlichen Wörter sind übersetzt.
+  - s-claude

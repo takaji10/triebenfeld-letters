@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr145"
-title: "53/17/0/-/Konin Gr.145"
+title: "Burggericht Konin: Relationes-oblatae [protocollon] 1776"
 lang: de
 permalink: "/de/quellen/app53170koningr145/"
 alt_url: "/sources/app53170koningr145/"
@@ -33,42 +33,16 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Koninie“ 
 
 **Bußen und Vertagung.** Das Gericht stellte aus den beeideten Aussagen fest, dass Stanisław Chełmski, nachdem Prusimski seine eigenen Leute in das Wirtshaus an der Landstraße gesetzt hatte, selbst mit mehreren Dutzend Bewaffneten davor ritt und durch das Fenster schießen ließ; einem Adligen namens Krzeczkowski wurde die Ferse abgeschossen, und das Wirtshaus wurde angezündet. Dafür und für seine Übergriffe auf Trąbczyner Grund wurde Chełmski zu zwei Wochen Haft im Turm der Burg Konin und zu Bußen an Prusimski verurteilt, darunter dreihundert Grzywnen, die Rechnungseinheit für Bußen, wegen unerlaubten Gebrauchs von Schusswaffen. Er hatte außerdem 8.000 polnische Gulden für gefälltes Holz und überschwemmten Grund zu zahlen, dazu die Bußen dafür, dass er 1760 ein früheres Gericht im Gelände verlassen hatte. Der Rest der Grenze gegen Biskupice und die Frage der Kosten wurden auf den 21. Mai 1776 vertagt. Das Gericht übergab Prusimski die vier Zeugenverhöre und eine vom Vorsitzenden unterzeichnete Karte der Grenze. Sechs Kommissare unterzeichneten das Dekret, und mit ihnen Wojciech Czarnecki, der Grenzvermesser von Kalisz, der die Hügel aufwarf <span class="cite">[<a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">1</a>]</span>.
 
-### Form und Sprache
-
-Der Eintrag füllt die Blätter 654 bis 715 des Bandes. Seine Eingangs- und Schlussvermerke und der Vermerk des Warschauer Gerichts, der den Reichstagsbeschluss einleitet, sind lateinisch; das Übrige ist polnisch mit lateinischen Rechtsformeln. Das Polnische steht hier in heutiger Rechtschreibung und absatzweise, so wie der Herausgeber es transkribiert hat, nicht in der Schreibweise des Schreibers. Die englische Übersetzung stammt vom Herausgeber. Ihre Abschnittsüberschriften in eckigen Klammern und die Anmerkungen des Übersetzers sind Zusätze des Herausgebers und gehören nicht zum Eintrag. <!-- context -->
-
 ### Verwandte Bestände
 
 Zwanzig Jahre nach diesem Dekret konfiszierte Preußen Prusimskis Güter und verlieh sie dem Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen: <a href="{{ '/de/quellen/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> und <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Prusimski 1796 im Exil in Venedig: <a href="{{ '/de/quellen/ihagrrep7cnr1414/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414</a>. Die Rückgabe der Güter an seine Tochter 1807: <a href="{{ '/de/quellen/agad11740273/' | relative_url }}">1/174/0/2/73</a> und <a href="{{ '/de/quellen/agad1174016/' | relative_url }}">1/174/0/1/6</a>. <!-- context -->
 
 <!--prepared-->
 
-### Aufnahmen
-
-Das Archiv lieferte 62 Aufnahmen, die jeweils zwei gegenüberliegende Seiten des gebundenen Bandes zeigen. Jede wurde am Falz in zwei Seiten geschnitten. Zwei Hälften werden nicht verwendet: die linke Hälfte der ersten Aufnahme, die das Ende eines anderen Eintrags ist, und eine leere Seite. Der Bestand hat 122 Seiten, beginnend mit dem Titelblatt des Eintrags.
-
 ### Transkription
 
-Der Herausgeber hat den Eintrag transkribiert und den Text in einer Datei geliefert, in der jede Seite mit der Nummer ihres Blattes bezeichnet ist. Der Text ist absatzweise wiedergegeben, nicht Zeile für Zeile. Er gibt das Polnische in heutiger Rechtschreibung: i, wo der Schreiber y schrieb, Kleinbuchstaben, wo er Großbuchstaben setzte, heutige Endungen. Das Lateinische steht, wie es geschrieben ist, mit aufgelösten Abkürzungen. Eine Fußnote des Herausgebers, die englische Wiedergabe einer lateinischen Stelle, ist nicht in den Text übernommen.
+Die Transkription stammt vom Herausgeber. Das Polnische steht in moderner Schreibung (i für das y des Schreibers, Kleinbuchstaben für Großbuchstaben, moderne Endungen), das Latein wie geschrieben, mit aufgelösten Abkürzungen. Claude verglich anschließend alle 122 Seiten mit den Scans und korrigierte die Transkription, meist falsch gelesene Wörter und Wörter, die zwischen zwei gleichen Wörtern übersprungen worden waren.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Der Herausgeber hatte den Text durchgearbeitet, bevor er aufgenommen wurde. Ein KI-Modell (Claude) las zunächst vier Seiten Wort für Wort neben den Aufnahmen, dazu die Unterschriften auf der letzten Seite. Es korrigierte 23 Lesungen, ergänzte eine Zeile des Titelblatts und fand sechs Wörter, die zwischen zwei Wörtern mit gleicher Endung ausgelassen waren.
-
-Der Herausgeber bat danach darum, den ganzen Text auf ausgelassene Wörter zu prüfen. Alle 122 Seiten wurden neben den Aufnahmen gelesen, und 233 Stellen wurden korrigiert. An 26 davon fehlten der Transkription Wörter, die auf der Aufnahme stehen, von einem einzelnen Wort bis zu etwa sechzig; fast alle waren zwischen zwei Vorkommen desselben Wortes übersprungen worden. Die übrigen 207 sind verlesene Wörter, die den Sinn ändern. Schreibversehen, die nichts ändern, wurden nicht gesammelt, weil der Text in heutiger Rechtschreibung steht. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-Sieben der Korrekturen betreffen, was das Gericht feststellte oder anordnete. Die größte stellt etwa sechzig Wörter auf Blatt 709 verso wieder her: die Feststellung des Gerichts, dass Chełmski mit mehreren Dutzend Bewaffneten vor das Wirtshaus ritt, in das Haus schießen ließ und dass es angezündet wurde. Die anderen ergänzen oder berichtigen eine Tatsache, etwa einen Namen, einen Ort oder eine Entfernung, oder stellen Rechtsformeln wieder her.
-
-Im ganzen Text wurden außerdem 93 Wörter ohne die Aufnahmen korrigiert: Wörter, denen ein Akzentzeichen fehlt oder die ein falsches tragen und die so kein polnisches Wort sind, während die Transkription selbst die richtige Form viele Male schreibt.
-
-### Abgrenzung und Datierung
-
-Der ganze Eintrag ist ein Dokument. Er ist auf den 23. September 1776 datiert, den Tag, an dem das Dekret in die Gerichtsakten von Brześć Kujawski eingetragen wurde; die Kommission selbst trat am 13. September 1775 zusammen.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers, angefertigt, bevor er aufgenommen wurde, und wurde nicht neu gemacht. Ihre Abschnittsüberschriften und ihre zwanzig Anmerkungen des Übersetzers stammen vom Herausgeber; die Überschriften stehen in eckigen Klammern, und jede Anmerkung folgt dem Absatz, zu dem sie gehört. Die Übersetzung beendet jede Seite am Ende eines Satzes, so dass das Englische einer Seite einige Zeilen vor oder nach dem Polnischen beginnen oder enden kann. An zwei Stellen, wo der Abstand fast eine Seite betrug, wurde der Umbruch verschoben. An den meisten Stellen, an denen die Transkription fehlging, hatte das Englische bereits den richtigen Sinn. Es wurde an 37 Stellen geändert, um den Korrekturen am Polnischen zu folgen, meist um die fehlenden Wörter zu ergänzen. Ein Absatz von etwa hundert Wörtern am Anfang von Blatt 680, der in der Übersetzung fehlte, wurde von Claude aus dem Polnischen übersetzt, in den Begriffen des Herausgebers. In einem Satz wurde das Englische geändert, ohne dass sich das Polnische änderte: Chełmski soll zwölf Wochen nach dem Dekret den Turm in Konin beziehen und dort zwei Wochen sitzen; die Übersetzung hatte eine Haft von zwölf Wochen gelesen. Eine automatische Prüfung verglich die Zweifelszeichen und die Fachbegriffe beider Texte.
-
-### Zusammenfassung
-
-Die Zusammenfassung wurde auf Deutsch nach der englischen Übersetzung und der Gliederung des Herausgebers geschrieben und ins Englische übersetzt. Nach der Prüfung an den Aufnahmen wurde ihr Satz über Chełmskis Strafe neu gefasst, so dass er den Überfall auf das Wirtshaus aufnimmt. Jede ihrer achtzehn Aussagen wurde am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude übersetzte einen Absatz von etwa hundert Wörtern am Anfang von Blatt 680, der in der Übersetzung fehlte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

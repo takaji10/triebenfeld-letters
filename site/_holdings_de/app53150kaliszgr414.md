@@ -1,6 +1,6 @@
 ---
 unit: "app53150kaliszgr414"
-title: "53/15/0/-/Kalisz Gr.414"
+title: "Burggericht Kalisz: Relationes [protocollon] 1771"
 lang: de
 permalink: "/de/quellen/app53150kaliszgr414/"
 alt_url: "/sources/app53150kaliszgr414/"
@@ -29,36 +29,16 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ 
 
 **Die Eintragung.** Am Samstag vor St. Martin 1771 brachte Antoni Serlatkowski den Akt zur Eintragung in das Burgamt Kalisz, und das Original wurde in das Buch eingenäht <span class="cite">[<a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">1</a>]</span>.
 
-### Form und Sprache
-
-Blatt 402 ist das Original selbst, ein kleineres Blatt als das Buch, beidseitig beschrieben und unterzeichnet; Blatt 403 trägt oben den Vermerk des Amts. Die andere Hälfte der ersten Aufnahme gehört zu einem anderen Dokument. Das Latein ist aus seinen Abkürzungen ausgeschrieben; das Polnische steht in der Schreibweise des Schreibers. Eine Verweisnummer, die der Herausgeber hinter den Namen eines Siedlers gesetzt hatte, gehört nicht zum Text und ist entfernt. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Berichte von 1767 über den Damm, der diese Siedler überschwemmte: <a href="{{ '/de/quellen/app53170koningr114/' | relative_url }}">53/17/0/-/Konin Gr.114</a>. Das Dekret von 1775, das diese Besitzeinweisung aufhob: <a href="{{ '/de/quellen/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. <!-- context -->
 
 <!--prepared-->
 
-### Aufnahmen
-
-Das Archiv lieferte zwei Aufnahmen von je zwei gegenüberliegenden Seiten. Beide wurden am Falz geschnitten. Drei der vier Seiten gehören zum Dokument; die vierte trägt einen anderen Text und wird nicht gezeigt.
-
 ### Transkription
 
-Der Herausgeber hat das Dokument transkribiert und absatzweise geliefert, mit aufgelösten Abkürzungen des Lateins.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Claude verglich die Transkription anschließend mit den Scans, außer der Mitte der Wiedergabe der Tribunalsdekrete (etwa 200 Wörter), und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) las den Eingang, die ganze polnische Übergabe mit den Namen der Siedler und dem Schluss sowie den Eintragungsvermerk neben den Aufnahmen und korrigierte sechs Lesungen. Die Mitte der Aufzählung der Tribunaldekrete, etwa 200 Wörter, wurde nicht verglichen. Eine Korrektur ändert den Sinn: Die Übergabe wurde vollzogen, „ohne dass jemand widersprach“, wo die erste Lesung einen förmlichen Einspruch hatte. Eine Verweisnummer des Herausgebers hinter einem Namen wurde entfernt. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Das Original und der Vermerk über seine Eintragung sind ein Dokument, datiert auf den 4. November 1771, den Tag der Übergabe; es wurde am 9. November nach Kalisz gebracht.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an drei Stellen geändert, an denen der Text korrigiert worden war. Die Anmerkungen des Herausgebers sind als Anmerkungen des Übersetzers beibehalten; vier, die inzwischen korrigierte Lesungen betrafen, sind weggelassen.
-
-### Zusammenfassung
-
-Die Zusammenfassung wurde auf Deutsch nach dem Lateinischen und Polnischen geschrieben und ins Englische übersetzt. Jede ihrer acht Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

@@ -96,3 +96,33 @@ None recorded.
 - English summary: translated from the checked German summary by hand, not
   summarised afresh from the English (docs/NEW_UNIT.md 6).
 - Published from v2 (`published_tag` in unit.yml).
+
+## Form and language (taken off the public page, 2026-10-30)
+
+The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
+
+The file is in German, except the letter and bill of costs of 1811, which are in Polish. One image in the archive's sequence is absent; the text continues without a gap.
+
+## How it was prepared (the public text before 2026-10-30)
+
+The editor ruled the tab too detailed: it now tells only what an AI decided that affected the text (`prepared:` in unit.yml). The full account, kept here:
+
+### Scans
+
+The archive supplied 22 images, one page each. They are used as supplied, without cropping. The first is the file's title page.
+
+### Transcription
+
+The German and Polish text was transcribed by an AI system and supplied by the editor, one file for each page.
+
+### Division into documents
+
+The editor treats the whole file as one document, dated by the contract of 31 March 1806. Its parts are the court record, the letter of 1811, the powers of attorney and the issued contract, in the order in which they are bound.
+
+### Corrections
+
+An AI model (Claude) proposed corrections to the transcription. A word was changed only where an independent witness supported the change. Most witnesses here are the lease contracts in [[unit:oe1bu14526]], which were made before the same court in the same weeks and use the same formulas. Each change is logged with its reason. The contract's paragraph numbers were wrong at two points; the editor read the scan and the numbering was restored. Words that remain doubtful were left as transcribed.
+
+### Summary and translation
+
+The model read the document whole and wrote a German summary. A second, separate run of the model checked the summary against the text and shortened it. The English summary is a translation of the checked German one. The model also translated the document. Two corrections it proposed during translation had a witness in the file and were applied, and the document was then translated again from the corrected text. The English marks two garbled passages as uncertain.

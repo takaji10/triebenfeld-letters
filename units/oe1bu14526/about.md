@@ -28,9 +28,7 @@ The hereditary leases share a set of terms: entry money and an annual rent, the 
 
 Glenck sold the farm of Szetlewek to the miller Samuel Lucke for 12,333 Rthl, of which 8,333 Rthl went to the holder of a pledge on the estate, von Radzinski [[25]]. Three further documents concern an earlier agreement of 20 November 1798 for settling the estate, its cancellation, and the dispute with the pledge holder [[26, 27, 28]].
 
-### Form and language
-
-The documents are in German. Passages in Polish occur where a contract was read out or recorded in that language, and one document has a Latin and Polish original. Powers of attorney, royal confirmations and notarial certifications are filed with the contracts they belong to and form part of the same document. The largest runs to 28 pages. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
+Powers of attorney, royal confirmations and notarial certifications are filed with the contracts they belong to and form part of the same document. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
 
 ### Related holdings
 

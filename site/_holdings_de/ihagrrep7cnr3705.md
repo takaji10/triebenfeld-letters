@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3705"
-title: "I. HA GR, Rep. 7 C, Nr. 3705"
+title: "Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenlohe-Oehringen"
 lang: de
 permalink: "/de/quellen/ihagrrep7cnr3705/"
 alt_url: "/sources/ihagrrep7cnr3705/"
@@ -19,8 +19,6 @@ Hohenlohe-Ingelfingen besaß die Herrschaften Trąbczyn und Zagórów in Südpre
 
 Die Bittschrift ist im Namen Hohenlohe-Ingelfingens abgefasst und von Triebenfeld als dessen Generalbevollmächtigtem unterzeichnet <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. Sie bittet den König, der Regierung in Kalisz zu befehlen, Oleśnica unter Sequestration zu stellen, das heißt unter gerichtliche Verwaltung <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. Nach der Bittschrift war das Gut an Giese, Bagans und Gietzinger gegen 20.000 Rthl Einstandsgeld verpachtet worden. Die Pächter zahlten 10.000 Rthl, die von ihren Unterpächtern stammten, und haben seither weder Pacht noch Abgaben gezahlt und Teile des Gutes verkauft, während die Kammer den Vertrag nicht bestätigte <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. Die Regierung in Kalisz hatte die Sequestration in Bescheiden vom 13. und 20. August abgelehnt. Die Bittschrift bestreitet beide aus dem Allgemeinen Landrecht, bittet, die Akten einzufordern, und bietet Sicherheit an <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>.
 
-### Form und Sprache
-
 Eine Reinschrift in deutscher Sprache. Die Buchstaben A bis H am Rand verweisen auf Beilagen, die der Akte nicht beiliegen. Die Akte enthält keine Antwort auf die Bittschrift. <!-- context -->
 
 ### Verwandte Bestände
@@ -29,18 +27,10 @@ Briefe Triebenfelds an Hohenlohe-Ingelfingen aus denselben Jahren: <a href="{{ '
 
 <!--prepared-->
 
-### Aufnahmen
-
-Das Archiv hat die Akte in achtzehn Aufnahmen fotografiert: ein Titelblatt und siebzehn Doppelseiten. Die Doppelseiten wurden nicht geteilt, weil die Transkription jede als ein Stück behandelt. Eine Seite ist daher eine Doppelseite.
-
 ### Transkription
 
-Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme.
+Der Text wurde von einem KI-System nach den Scans transkribiert und vom Herausgeber geliefert. Claude schlug Korrekturen an der Transkription vor. Ein Wort wurde nur geändert, wenn ein unabhängiger Beleg die Änderung stützte, etwa eine zweite Abschrift des Textes, dasselbe Wort an anderer Stelle deutlich geschrieben oder eine feste Formel. Zweifelhafte Wörter blieben wie transkribiert.
 
-### Korrekturen
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) schlug Korrekturen der Transkription vor. Ein Wort wurde nur geändert, wo ein unabhängiger Beleg die Änderung stützte, etwa dasselbe Wort an anderer Stelle der Bittschrift ausgeschrieben oder eine feste Formel. Jede Änderung ist mit ihrem Grund verzeichnet. Eine davon betrifft die Schlussformel, die nach der Form wiederhergestellt wurde, die Triebenfeld in seinen anderen Briefen gebraucht; das Englische wurde entsprechend angepasst. Wörter, die zweifelhaft bleiben, stehen wie transkribiert.
-
-### Zusammenfassung und Übersetzung
-
-Das Modell las das Dokument ganz und schrieb eine deutsche Zusammenfassung. Ein zweiter, getrennter Durchlauf des Modells prüfte die Zusammenfassung am Text. Er strich die Vornamen der Pächter, die aus einem anderen Bestand bekannt sind und nicht aus dieser Bittschrift. Die englische Zusammenfassung ist eine Übersetzung der geprüften deutschen. Das Modell übersetzte auch das Dokument. Drei Korrekturen, die es bei der Übersetzung vorschlug, beruhten allein auf dem Sinn und wurden nicht übernommen.
+Claude übersetzte die Dokumente ins Englische. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

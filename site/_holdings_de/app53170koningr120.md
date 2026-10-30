@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr120"
-title: "53/17/0/-/Konin Gr.120"
+title: "Burggericht Konin: Relationes [protocollon] 1785-1786"
 lang: de
 permalink: "/de/quellen/app53170koningr120/"
 alt_url: "/sources/app53170koningr120/"
@@ -23,9 +23,7 @@ Wer geschlagen worden war, konnte zum Burgamt kommen und seine Verletzungen besi
 
 **Chełmskis Ladung vom Oktober 1786.** Ein Gerichtsbote meldete, er habe Prusimski eine Ladung vor das Krontribunal zugestellt, ausgestellt in Petrikau am 2. Oktober 1786. Chełmski verlangt, dass Prusimski unter Eid angehalten wird, den mit Tracholz geschlossenen Vertrag über den Verkauf eines Eichenwaldes vorzulegen, der bei ihm verblieben sei; dass er bestraft wird, weil er die Sache vom Gericht des Ortstermins an das volle Landgericht und weiter an das Tribunal hat verweisen lassen; und dass die Dekrete des Landgerichts, die den Ortstermin ansetzen, vollzogen werden <span class="cite">[<a href="{{ '/documents/app53170koningr120/2/' | relative_url }}">2</a>]</span>.
 
-### Form und Sprache
-
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Am Anfang des zweiten Eintrags begann der Schreiber einen anderen Text und strich sechs Zeilen durch; sie sind nicht transkribiert. Der zweite Eintrag hat auf den fotografierten Seiten keine datierte Überschrift und ist nach der Ladung datiert, über die er berichtet. <!-- context -->
+**Datierung.** Der zweite Eintrag hat auf den fotografierten Seiten keine datierte Überschrift und ist nach der Ladung datiert, über die er berichtet. <!-- context -->
 
 ### Verwandte Bestände
 
@@ -33,26 +31,10 @@ Der Prozess um die Forderung Tracholz: <a href="{{ '/de/quellen/app53170koningr1
 
 <!--prepared-->
 
-### Aufnahmen
-
-Der Ordner enthält zwei Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten; drei der vier Hälften tragen einen transkribierten Eintrag und sind ganz wiedergegeben. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
-
 ### Transkription
 
-Der Herausgeber hat die beiden Einträge transkribiert und absatzweise geliefert, mit ausgeschriebenem Latein. Sechs Zeilen, die der Schreiber durchgestrichen hat, sind nicht transkribiert.
+Die Transkription stammt vom Herausgeber. Die lateinischen Abkürzungen sind aufgelöst. Claude verglich anschließend die gesamte Transkription mit den Scans und korrigierte sie, wo die Seite eindeutig ist.
 
-### Prüfung an den Aufnahmen
+### Übersetzung und Zusammenfassungen
 
-Ein KI-Modell (Claude) las beide Einträge ganz neben den Aufnahmen und korrigierte 16 Lesungen. Den Sinn ändern: Kinos „zeigte die unten beschriebenen Prellungen“; der an Tracholz verkaufte Wald ist ein „Eichenwald“, wo ein Buchstabe ungelesen geblieben war und das Englische Kiefern hatte; was Prusimski vorlegen soll, ist eine „Urkunde“; und vier Wörter, die gegen Ende übergangen worden waren, sind wiederhergestellt. Jede Änderung ist mit ihrem Grund verzeichnet.
-
-### Abgrenzung und Datierung
-
-Jeder Eintrag ist ein Dokument. Der erste ist nach der Zeile „Actum in Conin“ über ihm datiert. Der zweite hat auf den fotografierten Seiten keine Überschrift; die Ladung, über die er berichtet, ist vom 2. Oktober 1786 und wurde „am zweiten Tag des Monats“ des Eintrags zugestellt, der Eintrag stammt also aus dem November oder Dezember 1786, und das Dokument sagt das.
-
-### Übersetzung
-
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an sieben Stellen geändert, an denen der Text korrigiert worden war.
-
-### Zusammenfassungen
-
-Die Zusammenfassungen wurden auf Deutsch nach dem Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer 7 Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die englische Übersetzung stammt vom Herausgeber; Claude änderte sie dort, wo der korrigierte Text es verlangte. Claude schrieb die Zusammenfassungen, und ein getrennter Durchgang prüfte jede Aussage am Dokument; eine Aussage, die das Dokument nicht stützt, wurde gestrichen oder abgeschwächt.

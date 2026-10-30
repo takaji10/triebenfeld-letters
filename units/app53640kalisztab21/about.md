@@ -18,9 +18,7 @@ Trąbczyn is entry 178 of that district, written "Trąpczyn", with 80 złoty col
 
 The pages have no totals. The sums show the rate of the tax all the same: in the Pyzdry and Kalisz districts every village's sum is a multiple of 3 złoty 15 groszy, and on leaves 18 to 20 a multiple of 2 złoty 15 groszy; only towns, and two other lines, depart from it. <!-- context -->
 
-### Form and language
-
-Each page is a printed form with four ruled columns, filled in by one hand in Polish. A village that belonged to several owners is entered once for each part, under the owner's name ("z Części Zakrzewskiego", from Zakrzewski's part). A light pen stroke runs down the edge of the columns on every page, and on leaf 20 verso a cross is drawn beside four entries; they look like the marks of someone checking the register. The cover has a label, "Podymne z Wojewodz: Kalisk: Raty Sto Jańsk: 1789". <!-- context -->
+A village that belonged to several owners is entered once for each part, under the owner's name ("z Części Zakrzewskiego", from Zakrzewski's part). <!-- context -->
 
 ### Related holdings
 

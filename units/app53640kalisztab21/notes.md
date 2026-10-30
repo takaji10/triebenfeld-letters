@@ -235,3 +235,35 @@ tables come out as before.
 2. Published at the editor's word, 2026-10-14.
 3. Not done: modern names for the places; anything in the account of the
    Prusimski years, which waits for the editor's transcriptions.
+
+## Form and language (taken off the public page, 2026-10-30)
+
+The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
+
+Each page is a printed form with four ruled columns, filled in by one hand in Polish. A village that belonged to several owners is entered once for each part, under the owner's name ("z Części Zakrzewskiego", from Zakrzewski's part). A light pen stroke runs down the edge of the columns on every page, and on leaf 20 verso a cross is drawn beside four entries; they look like the marks of someone checking the register. The cover has a label, "Podymne z Wojewodz: Kalisk: Raty Sto Jańsk: 1789".
+
+## How it was prepared (the public text before 2026-10-30)
+
+The editor ruled the tab too detailed: it now tells only what an AI decided that affected the text (`prepared:` in unit.yml). The full account, kept here:
+
+### Scans
+
+The editor supplied fourteen images: the cover and thirteen pages, each a single page. One image was named for the back of leaf 17; the receipt numbers show that it is the back of leaf 9, and it is placed there.
+
+### Transcription
+
+There was no earlier transcription. An AI model (Claude) read the register from the scans, line by line, each page in enlarged strips and every unclear name again at a larger size. The editor then checked that reading against the scans, line by line, on a sheet that shows each line of the table beside a picture of the same part of the page; 69 names were corrected, and no figure changed. The register is given as a table: one row for each line of the page, in the page's own columns. The printed title and the heading of the form are given once, above the first page.
+
+Names are spelt as on the page, with the marks the clerk set on the letters and no others; a word he shortened keeps his colon. 13 names that could not be read with certainty are marked "[?]".
+
+### Checking the figures
+
+The pages have no totals, so the figures cannot be added up. The tax itself gives a check: a village paid a fixed sum for each hearth, so its sum is a multiple of that rate. In the Pyzdry and Kalisz districts every village's sum is a multiple of 3 złoty 15 groszy, and on leaves 18 to 20 a multiple of 2 złoty 15 groszy. Twelve lines do not fit: ten are towns, and the other two were looked at again and stand as read. The editor confirmed all twelve figures against the scans.
+
+### Division and dating
+
+The thirteen pages are one document. It is dated by its printed title, the instalment due at St John's 1789. The third district, on leaves 18 to 20, is called the Konin district here because of its places; its heading is on none of the pages.
+
+### Summary and translation
+
+The summary was written in German from the table and translated into English; each of its 14 statements was then checked against the table, and all held. The English version of the table translates the title, the heading and the common words (village, small town, demesne farm, mill, part of) and leaves the names as the clerk wrote them, except that Trąbczyn and Nowawies take the spelling used everywhere.

@@ -16,10 +16,6 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ 
 
 **Die Eintragung.** Am Montag, dem 30. September 1776, brachte Antoni Czyżewski den Akt zur Eintragung in das Burgamt Kalisz, und das Original wurde in das Buch eingenäht [[1]].
 
-### Form und Sprache
-
-Blatt 497 ist das Original, ein kleineres Blatt als das Buch, beidseitig beschrieben, unterzeichnet und gesiegelt; Blatt 498 trägt den lateinischen Vermerk des Amts. Das Polnische steht in der Schreibweise des Schreibers. Ein Wort am Zeilenende läuft in den Falz des Buchs, und seine Endung ist in eckigen Klammern ergänzt. Die Rückseite des Blattes trägt einen Rückvermerk und das nächste Blatt einen Registervermerk; beide sind nicht transkribiert. <!-- context -->
-
 ### Verwandte Bestände
 
 Das Dekret der Kommission: [[unit:app53170koningr145]]. Eine Nachsuche nach diesem Dekret in den Kalischer Akten zwei Monate später: [[unit:app53150kaliszgr424]]. <!-- context -->

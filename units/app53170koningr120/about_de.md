@@ -12,9 +12,7 @@ Wer geschlagen worden war, konnte zum Burgamt kommen und seine Verletzungen besi
 
 **Chełmskis Ladung vom Oktober 1786.** Ein Gerichtsbote meldete, er habe Prusimski eine Ladung vor das Krontribunal zugestellt, ausgestellt in Petrikau am 2. Oktober 1786. Chełmski verlangt, dass Prusimski unter Eid angehalten wird, den mit Tracholz geschlossenen Vertrag über den Verkauf eines Eichenwaldes vorzulegen, der bei ihm verblieben sei; dass er bestraft wird, weil er die Sache vom Gericht des Ortstermins an das volle Landgericht und weiter an das Tribunal hat verweisen lassen; und dass die Dekrete des Landgerichts, die den Ortstermin ansetzen, vollzogen werden [[2]].
 
-### Form und Sprache
-
-Jeder Eintrag steht zwischen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge nicht transkribiert. Am Anfang des zweiten Eintrags begann der Schreiber einen anderen Text und strich sechs Zeilen durch; sie sind nicht transkribiert. Der zweite Eintrag hat auf den fotografierten Seiten keine datierte Überschrift und ist nach der Ladung datiert, über die er berichtet. <!-- context -->
+**Datierung.** Der zweite Eintrag hat auf den fotografierten Seiten keine datierte Überschrift und ist nach der Ladung datiert, über die er berichtet. <!-- context -->
 
 ### Verwandte Bestände
 

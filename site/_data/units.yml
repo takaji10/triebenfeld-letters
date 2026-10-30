@@ -13,6 +13,7 @@
   original_title_card: null
   listed_in: null
   types: [church-records]
+  languages: [pl, la]
   description_de: ""
   repository: "adwl-wloclawek"
   era: "prusimski-boundary"
@@ -36,6 +37,7 @@
   original_title_card: null
   listed_in: null
   types: [registers-tables]
+  languages: [de, pl]
   description_de: ""
   repository: "agad-warszawa"
   era: "hohenlohe"
@@ -59,6 +61,7 @@
   original_title_card: null
   listed_in: null
   types: [government-files]
+  languages: [pl]
   description_de: ""
   repository: "agad-warszawa"
   era: "hohenlohe"
@@ -82,6 +85,7 @@
   original_title_card: null
   listed_in: null
   types: [government-files]
+  languages: [pl, fr]
   description_de: ""
   repository: "agad-warszawa"
   era: "hohenlohe"
@@ -105,6 +109,7 @@
   original_title_card: "Spór jurysdykcyjny w sprawie [hr.] Michaliny Miączyńskiej [...] przeciwko [temuż] Karolowi Weigel, teraz skarbowi [o ekstabulację sumy lokowanej na tych dobrach]"
   listed_in: null
   types: [court-records, government-files]
+  languages: [fr]
   description_de: ""
   repository: "agad-warszawa"
   era: "restitution"
@@ -128,6 +133,7 @@
   original_title_card: null
   listed_in: null
   types: [registers-tables]
+  languages: [ru]
   description_de: ""
   repository: "apl-lodz"
   era: "wlodzimierz"
@@ -151,6 +157,7 @@
   original_title_card: null
   listed_in: null
   types: [charters-privileges]
+  languages: [la, pl]
   description_de: ""
   repository: "app-poznan"
   era: "medieval"
@@ -174,6 +181,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la, pl]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -197,6 +205,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -220,6 +229,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [pl, la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -243,6 +253,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la, pl]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -266,6 +277,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -289,6 +301,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la, pl]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -312,6 +325,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la, pl]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -335,6 +349,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -358,6 +373,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -381,6 +397,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -404,6 +421,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la, pl]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -427,6 +445,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [pl, la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -450,6 +469,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [pl, la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -473,6 +493,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -496,6 +517,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -519,6 +541,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [pl]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -542,6 +565,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -565,6 +589,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -588,6 +613,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -611,6 +637,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -634,6 +661,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -657,6 +685,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -680,6 +709,7 @@
   original_title_card: null
   listed_in: null
   types: [court-records]
+  languages: [la]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -703,6 +733,7 @@
   original_title_card: null
   listed_in: null
   types: [registers-tables]
+  languages: [pl]
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -726,6 +757,7 @@
   original_title_card: "Erbpachts-Contracts zwischen dem Fürsten zu Hohenlohe Ingelfingen und dem Christoph Erbet über eine Hufe Magd. Trąbczyner Walde"
   listed_in: null
   types: [deeds-contracts, court-records]
+  languages: [de, pl]
   description_de: ""
   repository: "app-poznan"
   era: "hohenlohe"
@@ -749,6 +781,7 @@
   original_title_card: null
   listed_in: null
   types: [researchers-papers]
+  languages: [de, pl]
   description_de: ""
   repository: "app-poznan"
   era: "twentieth-century"
@@ -772,6 +805,7 @@
   original_title_card: null
   listed_in: null
   types: [researchers-papers]
+  languages: [de]
   description_de: ""
   repository: "app-poznan"
   era: "twentieth-century"
@@ -795,6 +829,7 @@
   original_title_card: null
   listed_in: null
   types: [researchers-papers]
+  languages: [ru, de, pl]
   description_de: ""
   repository: "app-poznan"
   era: "twentieth-century"
@@ -818,6 +853,7 @@
   original_title_card: null
   listed_in: null
   types: [deeds-contracts]
+  languages: [de]
   description_de: ""
   repository: "app-poznan"
   era: "restitution"
@@ -841,6 +877,7 @@
   original_title_card: "[Pozew dla Karoliny Fridenberg [...] w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej [...] z Włodzimierzem Mieczyńskim, właścicielem tegoż Trąbczyna, pow słupski]"
   listed_in: null
   types: [court-records]
+  languages: [pl]
   description_de: ""
   repository: "app-poznan"
   era: "wlodzimierz"
@@ -864,6 +901,7 @@
   original_title_card: null
   listed_in: null
   types: [deeds-contracts]
+  languages: [de]
   description_de: ""
   repository: "app-poznan"
   era: "hohenlohe"
@@ -887,6 +925,7 @@
   original_title_card: null
   listed_in: null
   types: [government-files, correspondence]
+  languages: [fr, de]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -910,6 +949,7 @@
   original_title_card: "Die Schenkungsurkunde über die dem Fürsten v. Hohenlohe-Ingelfingen zum erblichen Besitz verliehenen Güter der Stadt Kamiono und des Marktfleckens Kulm sowie der Dörfer Prabizyn, Szettlewel [...] Trabczinski und Brzyce. Weitere Schenkungen: [...]"
   listed_in: null
   types: [deeds-contracts, government-files]
+  languages: [de]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -933,6 +973,7 @@
   original_title_card: null
   listed_in: null
   types: [government-files, deeds-contracts]
+  languages: [de]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -956,6 +997,7 @@
   original_title_card: null
   listed_in: null
   types: [government-files]
+  languages: [de, fr]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -979,6 +1021,7 @@
   original_title_card: "Kapitaleintragung von 50 000 Reichstalern des Kriegsrates von Triebenfeld auf die vormals fürstlich Hohenlohe-Ingelfingeschen [...] Güter Zagorowo, Bd. 1"
   listed_in: null
   types: [deeds-contracts, government-files]
+  languages: [de]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1002,6 +1045,7 @@
   original_title_card: "Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger [...], Bd. 1"
   listed_in: null
   types: [government-files, correspondence]
+  languages: [fr, pl]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1025,6 +1069,7 @@
   original_title_card: "Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger [...], Bd. 2"
   listed_in: null
   types: [government-files, correspondence]
+  languages: [fr, pl, de]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1048,6 +1093,7 @@
   original_title_card: null
   listed_in: null
   types: [government-files]
+  languages: [de, fr]
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1071,6 +1117,7 @@
   original_title_card: null
   listed_in: "literature"
   types: []
+  languages: [la]
   description_de: ""
   repository: "bkpan-kornik"
   era: "medieval"
@@ -1094,6 +1141,7 @@
   original_title_card: null
   listed_in: null
   types: [deeds-contracts, government-files]
+  languages: [de, pl]
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"
@@ -1117,6 +1165,7 @@
   original_title_card: null
   listed_in: null
   types: [deeds-contracts]
+  languages: [de, pl, la]
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"
@@ -1140,6 +1189,7 @@
   original_title_card: null
   listed_in: null
   types: [correspondence]
+  languages: [de, fr, pl]
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"
@@ -1163,6 +1213,7 @@
   original_title_card: "König Friedrich Wilhelm von Preußen bestätigt dem Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen [...] das in seinem Testament vom 7. Oktober 1805 gestiftete Familienmajorat und Fideikommiss [...]"
   listed_in: null
   types: [charters-privileges]
+  languages: [de]
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"

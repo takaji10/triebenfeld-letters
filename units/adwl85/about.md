@@ -20,10 +20,6 @@ The rights and documents of the church run from 1636 to 1697: sums of money secu
 
 **Document 2, the parish of Zagórów.** The table of the souls of the neighbouring parish of Zagórów in 1791, in the same form: twenty-four places, from the town of Zagórów to the Hollander settlement of Holendry Wrąbczyn, among them Łukom, Drzewce, Oleśnica, Kopojno and Skokum. Dissidents live in four of the places only. The clerk's totals are 1028, 1030, 270 and 246 Catholics and 57, 55, 27 and 27 dissidents, 2734 in all; they do not quite agree with his own figures, since the women's column adds up to ten more than its total, and the grand total is six short of his column totals. A note in the margin records a woman of 110 at Myszakowko [[2]].
 
-### Form and language
-
-Polish, in one clear hand, in the spelling of its time (iest, ktorey, Dyecezyi), with the usual abbreviations of titles (JWo, JMść, X.) and a few Latin phrases. The two tables of Trąbczyn and the table of Zagórów are drawn with ruled lines; the column headings stand upright and are cut short in the narrow columns. Leaf numbers are written in the top right corners. <!-- context -->
-
 ### Related holdings
 
 The hearth-tax register of 1789, which enters Trąbczyn, its Olęder settlers, Łazy, Osiny, Nowa Wieś and Łukom: [[unit:app53640kalisztab21]]. The Prussian table of the villages around Konin of about 1797, which counts the houses and inhabitants of many of the same places: [[unit:agad1169011745]]. The inspection of Trąbczyn made for Katarzyna Prusimska in 1754: [[unit:app53170koningr136]]. The two Olęder colonies of Trąbczyn under their later names: [[unit:app539680783]]. <!-- context -->

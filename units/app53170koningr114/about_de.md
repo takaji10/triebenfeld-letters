@@ -12,10 +12,6 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Koninie“ 
 
 **August 1767.** Am 6. August berichtete er erneut. Am Freitag nach St. Jakob hatte er mit den Adligen Józef Gołembiewski und Rudkowski den Damm im Wald auf dem Teichgrund gesehen, an der Grenze der Łukomer Fluren, aber auf Trąbczyner Grund aufgeschüttet. Das im Teich gestaute Wasser trat auf die Äcker und Wiesen der Trąbczyner Olęder über, so dass die Wiesen von vier von ihnen unter Wasser standen und nicht gemäht werden konnten. Er und die Adligen erklärten, der Damm sei einige Jahre zuvor von den Erbherren von Łukomia aufgeschüttet und jetzt ausgebessert worden [[2]].
 
-### Form und Sprache
-
-Das Buch ist ein Register flüchtiger Einträge, viele auf einer Seite. Der erste Bericht steht am Fuß von Blatt 297 und oben auf Blatt 297 verso, der zweite am Fuß von Blatt 334 und oben auf Blatt 334 verso. Die übrigen Einträge auf diesen Seiten sind nicht transkribiert. Der Rahmen jedes Berichts ist abgekürztes Latein, das die Transkription ausschreibt; was der Bote sah, steht polnisch da, in der Schreibweise des Schreibers. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Besichtigung desselben Gutes 1754: [[unit:app53170koningr136]]. Das Dekret von 1775, das über den Teichgrund und die Überschwemmung entschied: [[unit:app53170koningr145]]. <!-- context -->

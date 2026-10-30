@@ -16,9 +16,7 @@ The grounds give the history as Miączyński's lawyers saw it. A privilege of 17
 
 On the fifth page the court messenger, Michał Piechowski, certifies that he handed this copy to Karolina Fridenberg in the Staro-Łazińska colony on 7/19 October 1860. The list of the summoned has a "Karolina Friedenberg, widow" as its number 34 [[1]].
 
-### Form and language
-
-Four pages are printed, on paper with a revenue stamp of 7½ kopecks at the head. One summons was printed for all the defendants, and the court messenger completed each copy by hand: the line in which he names himself, the name of the person served, the place and day, and his signature. On this copy he also corrected the printed list in pen. He struck out one name and wrote another in the margin, changed a letter in several names, and signed under the print beside a note of costs. The language is the legal Polish of the Kingdom of Poland, with German surnames in Polish spelling. <!-- context -->
+One summons was printed for all the defendants, and the court messenger completed each copy by hand: the line in which he names himself, the name of the person served, the place and day, and his signature. On this copy he also corrected the printed list in pen. He struck out one name and wrote another in the margin, changed a letter in several names, and signed under the print beside a note of costs. <!-- context -->
 
 The family given as Zelmer appears in the list as "Celmer": Henryk, August and Michał, and Anna Elżbieta, widow of Daniel, for her five children [[1]].
 

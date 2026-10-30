@@ -36,6 +36,8 @@ fonds: Księgi sądu ziemskiego w Koninie
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [la]
 date_span: 1589
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -105,3 +107,14 @@ translation_note: >-
   "terminus peremptorius" a final term; "borra" pine forest. Trąmpczino is
   Trąbczyn; Osziny is Osiny. "motibus[?]" and the words ending in "~" are
   not fully read.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: The editor's first reading left most words of the court's order in doubt. At the editor's request Claude read the entry again from the scans, reading each phrase in all the places it occurs in the neighbouring entries, which are orders of the same kind in the same set words. Its reading replaced the editor's text; five places remain marked as not fully read.
+    de: Die erste Lesung des Herausgebers ließ die meisten Wörter der gerichtlichen Anordnung im Zweifel. Auf Wunsch des Herausgebers las Claude den Eintrag noch einmal an den Scans und las jede Wendung an allen Stellen, an denen sie in den benachbarten Einträgen vorkommt; diese sind Anordnungen derselben Art in denselben festen Worten. Seine Lesung ersetzte den Text des Herausgebers; fünf Stellen bleiben als nicht vollständig gelesen gekennzeichnet.
+  translation:
+  - en: The editor's English had been made from the first reading; Claude revised it throughout to follow the new reading, keeping the editor's terms.
+    de: Das Englisch des Herausgebers war nach der ersten Lesung entstanden; Claude überarbeitete es durchgehend nach der neuen Lesung und behielt die Begriffe des Herausgebers bei.
+  - s-claude

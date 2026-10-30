@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr114"
-title: "53/17/0/-/Konin Gr.114"
+title: "Konin Municipal Court: Relationes [protocollon] 1765-1767"
 lang: en
 permalink: "/sources/app53170koningr114/"
 alt_url: "/de/quellen/app53170koningr114/"
@@ -23,36 +23,16 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **August 1767.** On 6 August he reported again. On the Friday after Saint James, with the noblemen Józef Gołembiewski and Rudkowski, he had seen the embankment in the wood on the pond-ground, by the boundary of the Łukom lands but raised on Trąbczyn ground. The water dammed in the pond spilled onto the fields and meadows of the Trąbczyn Olęder settlers, so that the meadows of four of them lay under water and could not be mown. He and the noblemen declared that the embankment had been raised some years before by the heirs of Łukomia and had now been repaired <span class="cite">[<a href="{{ '/documents/app53170koningr114/2/' | relative_url }}">2</a>]</span>.
 
-### Form and language
-
-The book is a register of rough entries, many to a page. The first report stands at the foot of leaf 297 and the top of leaf 297 verso, the second at the foot of leaf 334 and the top of leaf 334 verso. The other entries on those pages are not transcribed. The frame of each report is abbreviated Latin, which the transcription writes out; what the messenger saw is in Polish, in the spelling of the clerk. <!-- context -->
-
 ### Related holdings
 
 The inspection of the same estate in 1754: <a href="{{ '/sources/app53170koningr136/' | relative_url }}">53/17/0/-/Konin Gr.136</a>. The decree of 1775, which ruled on the pond-ground and the flooding: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. <!-- context -->
 
 <!--prepared-->
 
-### Scans
-
-The archive supplied fourteen images of this book: two single pages and twelve images of two facing pages each. The two entries stand on four pages; the two that come from double images were cut at the fold. Ten images carry nothing that is transcribed and are not used.
-
 ### Transcription
 
-The editor transcribed the two entries and supplied them by paragraph, with the abbreviations of the Latin written out.
+The transcription is the editor's own. The Latin abbreviations are written out. Claude then compared the whole transcription with the scans and corrected it where the page is plain.
 
-### Check against the scans
+### Translation and summaries
 
-An AI model (Claude) read both entries word for word against the scans. The transcription was close: three readings were corrected, none of which changes what the reports say happened. Each change is logged with its reason.
-
-### Division and dating
-
-Each entry is a document. Each is dated by its own opening line, by the church calendar: the Wednesday after Easter 1767, which was 22 April, and the feast of the Transfiguration, 6 August 1767.
-
-### Translation
-
-The English is the editor's own translation and was not made again. It was changed in five places: three follow the corrected readings, and two make plain that it was the messenger, not Prusimski, who went onto the estate. A second English version of the second entry in the editor's files, with notes, is a duplicate and is not used.
-
-### Summaries
-
-The summaries were written in German from the Latin and Polish and translated into English. Each of their nine statements was then checked against its document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

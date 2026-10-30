@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr153"
-title: "53/17/0/-/Konin Gr.153"
+title: "Konin Municipal Court: Relationes-oblatae [protocollon] 1782"
 lang: en
 permalink: "/sources/app53170koningr153/"
 alt_url: "/de/quellen/app53170koningr153/"
@@ -33,9 +33,7 @@ The Tribunal now rules that the line stands as drawn. A sworn surveyor, it says,
 
 The Konin register for the same weeks has one-line notes of both acts being brought in, and a report and a protest of 7 December on 221 pines that Chełmski's people cut on the Trąbczyn side of the new line on 28 November, the day the court opened: <a href="{{ '/sources/app53170koningr118/' | relative_url }}">53/17/0/-/Konin Gr.118</a>. <!-- context -->
 
-### Form and language
-
-Both acts are originals on stamped paper, signed by the officers who made them, and were bound into the court's book instead of being copied into it. The Latin is formulaic and abbreviated. The Tribunal's decree is one long period in indirect speech, in which each party's case is set out before the court's findings. A blank page between the two acts is not shown. <!-- context -->
+**The acts.** Both acts are originals on stamped paper, signed by the officers who made them, and were bound into the court's book instead of being copied into it. <!-- context -->
 
 ### Related holdings
 
@@ -43,32 +41,10 @@ The commission's decree of 1775: <a href="{{ '/sources/app53170koningr145/' | re
 
 <!--prepared-->
 
-### Scans
-
-The folder has fourteen images from the archive: one single page and thirteen openings of two facing pages. Each opening was cut at the fold. Twenty-six pages are shown whole; one blank page is left out.
-
 ### Transcription
 
-The editor transcribed both acts and supplied them by paragraph, with the Latin written out.
+The transcription is the editor's own. The Latin abbreviations are written out. Claude then compared the whole transcription with the scans and corrected it where the page is plain.
 
-### Check against the scans
+### Translation and summaries
 
-An AI model (Claude) read every page word for word against the scans, in two passes, and corrected 173 readings. The first pass was a light one: eight of the twenty-six pages and parts of seven more, 67 readings. At the editor's word the rest was then read through, and 106 more readings were corrected, most of them in the Tribunal's decree.
-
-Five abbreviations had been written out wrongly throughout. The surveyor and the court messenger are "sworn" ("jurato"), where the transcription had "jurisdiction". The sittings on the ground are "condescensio", where it had "conditio", a condition. The officers of Inowrocław and Dobrzyń, and their two field offices, are those of boundary chamberlains ("Camerarium", "camerarialia"), where it had "commissioner" and "commissarial". The clerk's sign for "-us" after a "b" had been written out as "-busque" in about twenty places. And the boundary chamberlain of Inowrocław is "Gorski", not "Gerski"; the transcription keeps the name as the clerk wrote it, and the English gives it its Polish form, Górski. A word the editor had marked as unread, for what is done with the mounds, is "sipatio", their raising.
-
-Other corrections that change the sense: what Chełmski had objected against Prusimski from the sitting at Grab was a "condemnation", not a field inspection. Chełmski alone appeared in person before the Tribunal; the court messenger proclaimed the chamberlain's court "by his voice"; the Marshal of the Tribunal is "castellan" of Gniezno. In the act for Martin Hunt Prusimski "was present in person", Hunt was delivered "into actual possession", and "obedience" to Prusimski was laid on him.
-
-The second pass changed the sense in four places of the Tribunal's decree. Orłowski is sentenced to pay Prusimski; the transcription had the name in a case that made Prusimski the one who pays. Words had been passed over in the ruling on Martin Hunt: he "cannot belong to Chełmski; yet Chełmski has possessed him until now". At the head of the decree the statements about the burnt holding and the map are Prusimski's pleading, not findings of the court. And Górski is to enter the tower on the Monday after Invocavit Sunday. Each change is logged with its reason.
-
-### Division and dating
-
-The chamberlain's decree, with the Tribunal's decree inside it and the note of its entry at Konin, is one document, dated by its opening line to 28 November 1782; it sat until 3 December. The delivery of Martin Hunt is an act of another officer and is a document of its own, of the same day.
-
-### Translation
-
-The English is the editor's own translation and was not made again. It was changed in 59 places where the text had been corrected, and the words corrected throughout were changed with it. Thirteen of the editor's forty-two notes are kept, in square brackets; twenty-nine that discuss readings now corrected are left out.
-
-### Summaries
-
-The summaries were written in German from the Latin and translated into English. Each of their 22 statements was then checked against its document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

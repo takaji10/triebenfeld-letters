@@ -42,6 +42,8 @@ fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w S
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl]
 date_span: "1860"
 status: translated         # draft | transcribed | translated | published
 # The English was written in session on 2026-10-13 into the untagged cache
@@ -135,3 +137,14 @@ translation_note: >-
   Bogumił Runge, a man. A name in the margin of page 1 replaces a printed
   name the summoner struck out. A word followed by [?] or written [word?] is
   one read with doubt.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - en: Claude then compared all five pages with the scans and corrected the transcription, adding the court messenger's handwritten lines. The editor read his pen alterations on the scan.
+    de: Claude verglich anschließend alle fünf Seiten mit den Scans und korrigierte die Transkription; dabei ergänzte es die handschriftlichen Zeilen des Gerichtsboten. Der Herausgeber las seine Federkorrekturen am Scan.
+  translation:
+  - en: The editor's file had a machine translation, which was wrong in many places, some of them of substance. Claude wrote the English again from the corrected Polish, keeping the editor's wording where it was right.
+    de: Die Datei des Herausgebers enthielt eine maschinelle Übersetzung, die an vielen Stellen falsch war, teils im Sachlichen. Claude schrieb das Englische nach dem korrigierten Polnisch neu und behielt die Formulierungen des Herausgebers, wo sie richtig waren.
+  - s-claude

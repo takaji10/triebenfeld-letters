@@ -18,10 +18,6 @@ The abbey was the neighbour of Trąbczyn. Its villages and woods ran from Zagór
 
 **No. 46, page 66: the mounds between Łukom, Zagórów and Drzewce.** The entry begins on page 63: by its heading, a piece of ground of the estate of Łukom by the boundary of Drzewce was ceded to the convent of Ląd and marked out by the decree of a compromissory court, which was entered at Kalisz castle. Page 66 counts the eighth to the nineteenth mound, with their distances in rods, along the roads from Huta to Grądzyń, Rosiszewo and Lomowo, from Łukom to Lomowo and from Tomice to Zagórów and Łukom. Two hills that the convent claimed as old mounds were opened and found empty. The next day, the Friday after Misericordia Sunday, the court renewed the mounds between the estate of Łukom, the town of Zagórów and Drzewce, before the burgomaster, the wójt, the notary and others, whose names run on to the next page [[6]].
 
-### Form and language
-
-Latin, copied in the eighteenth century in one clear hand, with the copyist's spelling and abbreviations; Polish words stand in it as the originals had them ("kopce", "niwa", "sep", "naraz", "powos"). Each privilege has a heading in larger letters and its number beside it; the copyist marks the start of each with an "x" in the margin and ends each page with a catchword. Later hands have written page numbers in pencil and red crayon at the top of the pages, and the years of the privileges in pencil in the margin. <!-- context -->
-
 ### Related holdings
 
 The abbey's earlier charters, among them Drzewce as "Nowe Zagórowo" in 1411 and the exchange of the farm in Great Wronczyn for the farm in Drzewce in 1418: [[unit:kdw]]. The decree of 1775 that fixed the boundary between Trąbczyn and Łukom: [[unit:app53170koningr145]]. The table of the souls of the parish of Zagórów in 1791, with Łukom, Drzewce, Łomow and Imielno: [[unit:adwl85]]. <!-- context -->

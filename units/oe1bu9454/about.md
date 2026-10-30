@@ -70,11 +70,9 @@ The last letters are written from Poznań and Blizanów between November 1815 an
 
 One document is not a letter: an extract from the record of claims against Hohenlohe-Ingelfingen, listing 142 claims [[303]].
 
-### Form and language
+The file keeps the archive's numbering, which is not chronological: numbers 1 to 74 hold letters of 1806 to 1815 in no order, and numbers 75 to 301 run from 1798. Several numbers hold a letter with its enclosures, which are recorded as separate documents under the same number with a letter added. Four numbers are absent from the file. Three documents are present in two copies. <!-- context -->
 
-The documents are in German, except one letter in French and one in Polish. The file keeps the archive's numbering, which is not chronological: numbers 1 to 74 hold letters of 1806 to 1815 in no order, and numbers 75 to 301 run from 1798. Several numbers hold a letter with its enclosures, which are recorded as separate documents under the same number with a letter added. Four numbers are absent from the file. Three documents are present in two copies. The register of creditors is shown as a table. <!-- context -->
-
-Triebenfeld wrote in haste and often when ill. Thirteen letters are transcribed imperfectly and are marked as such; uncertain readings are marked in the text. Many letters are undated or dated only by day and month, and the date given is then the editor's, with its basis stated on the page of the document. <!-- context -->
+Triebenfeld wrote in haste and often when ill. <!-- context -->
 
 ### Related holdings
 

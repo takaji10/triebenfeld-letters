@@ -38,6 +38,8 @@ original_title: "Aufenthalt des Anton v. Prusimski in Venedig"
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [government-files, correspondence]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [fr, de]
 date_span: 1796-1797
 status: translated         # draft | transcribed | translated | published
 # Translated in session on 2026-10-05 into the untagged cache
@@ -126,3 +128,13 @@ translation_note: >-
   the partitions of Poland. The French keeps the writer's spelling (Polonois,
   étoit, crû, affatigué). A word followed by [?] is one the transcriber was
   unsure of.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - c-claude-full
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude

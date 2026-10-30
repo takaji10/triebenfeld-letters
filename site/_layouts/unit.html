@@ -15,8 +15,12 @@ layout: default
 {%- assign parts = content | split: '<!--prepared-->' -%}
 {%- assign u_title = u.title -%}
 {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
-{%- assign u_full = u.full_title | default: u.card_title -%}
-{%- if lang == "de" -%}{%- assign u_full = u.full_title_de | default: u.card_title_de | default: u_full -%}{%- endif -%}
+{%- assign u_card = u.card_title | default: u.ref -%}
+{%- assign u_full = u.full_title -%}
+{%- if lang == "de" -%}
+  {%- assign u_card = u.card_title_de | default: u_card -%}
+  {%- assign u_full = u.full_title_de | default: u_full -%}
+{%- endif -%}
 
 <div class="unit">
   <header class="unit-head">
@@ -25,10 +29,10 @@ layout: default
     {%- else -%}
     <p class="eyebrow"><a href="{{ u_sources | relative_url }}">{{ t.sources_h1 }}</a></p>
     {%- endif -%}
-    <h1>{{ u.ref }}</h1>
-    {% if u_full %}<p class="unit-title">{{ u_full }}</p>{% endif %}
-    {% if u.original_title and u.original_title != u_full %}<p class="unit-original"><em>{{ u.original_title }}</em></p>{% endif %}
-    <p class="source-archive">{{ u.archive }}</p>
+    <h1>{{ u_card }}</h1>
+    {% if u_full and u_full != u_card %}<p class="unit-title">{{ u_full }}</p>{% endif %}
+    {% if u.original_title and u.original_title != u_card and u.original_title != u_full %}<p class="unit-original"><em>{{ u.original_title }}</em></p>{% endif %}
+    <p class="source-archive">{{ u.ref }} &middot; {{ u.archive }}</p>
     {% include unit-types.html types=u.types %}
     {% if u_title %}<p class="standfirst">{{ u_title }}</p>{% endif %}
     <dl class="source-facts">
@@ -36,6 +40,14 @@ layout: default
       <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
       {% if u.span != "" %}
         <div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>
+      {% endif %}
+      {% if u.languages.size > 0 %}
+        <div><dt>{{ t.sources_languages }}</dt><dd>
+          {%- for lg in u.languages -%}
+            {%- assign lg_row = site.data.languages | where: "slug", lg | first -%}
+            {% if lang == "de" %}{{ lg_row.de }}{% else %}{{ lg_row.en }}{% endif %}{% unless forloop.last %}, {% endunless %}
+          {%- endfor -%}
+        </dd></div>
       {% endif %}
     </dl>
   </header>

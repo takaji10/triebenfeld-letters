@@ -18,10 +18,6 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ 
 
 **Die Eintragung.** Am Samstag vor St. Martin 1771 brachte Antoni Serlatkowski den Akt zur Eintragung in das Burgamt Kalisz, und das Original wurde in das Buch eingenäht [[1]].
 
-### Form und Sprache
-
-Blatt 402 ist das Original selbst, ein kleineres Blatt als das Buch, beidseitig beschrieben und unterzeichnet; Blatt 403 trägt oben den Vermerk des Amts. Die andere Hälfte der ersten Aufnahme gehört zu einem anderen Dokument. Das Latein ist aus seinen Abkürzungen ausgeschrieben; das Polnische steht in der Schreibweise des Schreibers. Eine Verweisnummer, die der Herausgeber hinter den Namen eines Siedlers gesetzt hatte, gehört nicht zum Text und ist entfernt. <!-- context -->
-
 ### Verwandte Bestände
 
 Die Berichte von 1767 über den Damm, der diese Siedler überschwemmte: [[unit:app53170koningr114]]. Das Dekret von 1775, das diese Besitzeinweisung aufhob: [[unit:app53170koningr145]]. <!-- context -->

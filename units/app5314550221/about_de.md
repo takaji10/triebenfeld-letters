@@ -18,10 +18,6 @@ Die Abtei war die Nachbarin von Trąbczyn. Ihre Dörfer und Wälder reichten von
 
 **Nr. 46, Seite 66: die Grenzhügel zwischen Łukom, Zagórów und Drzewce.** Der Eintrag beginnt auf Seite 63: Nach seiner Überschrift wurde ein Stück Grund des Guts Łukom am Rand von Drzewce dem Konvent von Ląd durch das Dekret eines Schiedsgerichts abgetreten und abgegrenzt, das in der Burg Kalisch eingetragen wurde. Seite 66 zählt den achten bis neunzehnten Hügel mit ihren Abständen in Ruten auf, an den Wegen von Huta nach Grądzyń, Rosiszewo und Lomowo, von Łukom nach Lomowo und von Tomice nach Zagórów und Łukom. Zwei Hügel, die der Konvent als alte Grenzhügel beanspruchte, wurden geöffnet und leer gefunden. Am nächsten Tag, dem Freitag nach dem Sonntag Misericordia, erneuerte das Gericht die Hügel zwischen dem Gut Łukom, der Stadt Zagórów und Drzewce, vor dem Bürgermeister, dem Vogt, dem Schreiber und anderen, deren Namen auf der nächsten Seite weitergehen [[6]].
 
-### Form und Sprache
-
-Latein, im 18. Jahrhundert in einer klaren Hand abgeschrieben, mit der Schreibung und den Abkürzungen des Abschreibers; polnische Wörter stehen darin, wie die Vorlagen sie hatten („kopce“, „niwa“, „sep“, „naraz“, „powos“). Jedes Privileg hat eine Überschrift in größerer Schrift und seine Nummer daneben; der Abschreiber bezeichnet den Anfang eines jeden mit einem „x“ am Rand und schließt jede Seite mit einem Kustoden. Spätere Hände haben oben auf die Seiten Seitenzahlen in Bleistift und Rotstift geschrieben und die Jahre der Privilegien in Bleistift an den Rand. <!-- context -->
-
 ### Verwandte Bestände
 
 Die früheren Urkunden der Abtei, darunter Drzewce als „Nowe Zagórowo“ 1411 und der Tausch des Vorwerks in Groß-Wronczyn gegen das Vorwerk in Drzewce 1418: [[unit:kdw]]. Das Dekret von 1775, das die Grenze zwischen Trąbczyn und Łukom festlegte: [[unit:app53170koningr145]]. Die Tabelle der Seelen der Pfarrei Zagórów von 1791, mit Łukom, Drzewce, Łomow und Imielno: [[unit:adwl85]]. <!-- context -->

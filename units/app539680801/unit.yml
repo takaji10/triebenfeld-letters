@@ -37,6 +37,8 @@ original_title: "Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, W
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [deeds-contracts]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de]
 date_span: 1805-1806
 status: translated         # draft | transcribed | translated | published
 # Translated in session on 2026-10-05 into the untagged cache
@@ -135,3 +137,12 @@ translation_note: >-
   clerk wrote beside the crosses, and a dash repeats it. "(—)" before a name
   marks a signature in the copy. A word followed by [?] is one the
   transcriber was unsure of.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - c-claude-full
+  translation:
+  - l-claude
+  - s-claude

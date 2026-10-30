@@ -32,9 +32,7 @@ After the death of Hohenlohe-Ingelfingen his heirs had their claim recommended t
 
 The same Russian note refuses an unrelated request. Count Ernst Bethusy, a landowner in Silesia and in the Kingdom of Poland, had asked for free movement between his properties under article 18 of the Treaty of Vienna. The Polish government held that the article applied only to properties divided by the new border [[27, 28]]. Both Prussian ministries considered the request inadmissible [[29, 30]].
 
-### Form and language
-
-Twelve documents are drafts of outgoing letters, bearing the paraphs of the officials who approved them [[2, 5, 7, 9, 10, 16, 17, 21, 22, 24, 26, 29]]. Three drafts are written on the incoming letter to which they reply [[2, 9, 10]]. One reply to Hohenlohe-Ingelfingen exists as a cancelled draft and its fair copy, which was not sent [[11, 12]]. The paraphs are those of Hardenberg, the Councillor of State Stägemann, and the officials Hoffmann and Balan; they are expanded in square brackets [[5, 22, 29]]. The documents are in German, except five in French [[6, 7, 13, 27, 28]]. The drafts are written in a cursive chancery hand, and several are transcribed imperfectly; this is noted on the page of each document concerned. <!-- context -->
+Twelve documents are drafts of outgoing letters, bearing the initials of the officials who approved them [[2, 5, 7, 9, 10, 16, 17, 21, 22, 24, 26, 29]]. Three drafts are written on the incoming letter to which they reply [[2, 9, 10]]. One reply to Hohenlohe-Ingelfingen exists as a cancelled draft and its fair copy, which was not sent [[11, 12]]. The initials are those of Hardenberg, the Councillor of State Stägemann, and the officials Hoffmann and Balan; they are expanded in square brackets [[5, 22, 29]].
 
 ### Related holdings
 

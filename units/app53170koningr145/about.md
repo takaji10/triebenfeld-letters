@@ -22,10 +22,6 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **Penalties and adjournment.** The court found from the sworn testimony that, after Prusimski had put his own people into the inn on the highway, Stanisław Chełmski rode on it in person with several dozen armed men and had shots fired through its window; a nobleman named Krzeczkowski had his heel shot off, and the inn was set on fire. For this and for his encroachments on Trąbczyn ground Chełmski was sentenced to two weeks in the tower of the castle at Konin and to penalties payable to Prusimski, among them three hundred grzywnas, the unit in which fines were reckoned, for the unlawful use of firearms. He was also to pay 8,000 Polish złoty for timber felled and ground flooded, and the penalties due for having walked out of an earlier court on the ground in 1760. The rest of the boundary with Biskupice, and the question of costs, were adjourned to 21 May 1776. The court handed Prusimski the four sets of sworn testimony and a map of the boundary signed by the president. Six commissioners signed the decree, and with them Wojciech Czarnecki, the boundary surveyor of Kalisz who raised the mounds [[1]].
 
-### Form and language
-
-The entry fills leaves 654 to 715 of the volume. Its opening and closing records, and the record of the Warsaw court that introduces the act of parliament, are in Latin; the rest is Polish with Latin legal phrases. The Polish is given here in modern spelling and by paragraph, as the editor transcribed it, and not in the spelling of the clerk. The English translation is the editor's own. Its section headings, in square brackets, and its translator's notes are the editor's additions and are not part of the record. <!-- context -->
-
 ### Related holdings
 
 Twenty years after this decree Prussia confiscated Prusimski's estates and granted them to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen: [[unit:ihagrrep7cnr3570]] and [[unit:oe1bu14525]]. Prusimski in exile at Venice in 1796: [[unit:ihagrrep7cnr1414]]. The return of the estates to his daughter in 1807: [[unit:agad11740273]] and [[unit:agad1174016]]. <!-- context -->

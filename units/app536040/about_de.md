@@ -20,10 +20,6 @@ Der Band gehört zum Bestand „Księgi sądu ziemskiego w Koninie“ des Archiv
 
 **Das Dekret.** Józef Chełmski erschien persönlich für sich und seinen Bruder; die Prusimski und die übrigen erschienen durch Konstanty Marszyński. Weil die Frage des Grundes vor ihr eigenes Gericht gehört, befindet das Landgericht, dass ein vereidigter Kommissar der Woiwodschaften Posen und Kalisz auf den Grund gehen muss, mit je zwei Freunden, die jede Seite benennt. Die Parteien haben sich auf Wojciech Biskupski geeinigt. Sie sollen ihn und die Freunde auf gemeinsame Kosten am Montag nach dem Sonntag Misericordia auf den Grund bringen, aus dem der Streit entstanden ist. Der Kommissar und die Freunde sollen beeidete Zeugen hohen Alters, die die Sache kennen, über das Eigentum am strittigen Grund und über Gewalt und Schaden vernehmen und alle Ansprüche entscheiden. Berufung an das Landgericht ist nur gegen ihr Endurteil zulässig. Jede Partei hat eine Buße von vierzehn polnischen Mark zu zahlen, halb an die Gegenseite, halb an das Gericht. Eine Partei, die dem Dekret nicht nachkommt, wird aus dem Königreich verbannt; die Verbannung wird von einem Gerichtsboten ausgerufen und vom Burggericht des Starosten vollstreckt [[1]].
 
-### Form und Sprache
-
-Die Überschrift der Sitzung steht oben auf Blatt 368. Der Eintrag beginnt im oberen Viertel von Blatt 372 unter seiner eigenen Überschrift, füllt Blatt 372 verso und 373 und endet in neun Zeilen auf Blatt 373 verso. Auf der ersten, zweiten und letzten dieser Seiten stehen andere Einträge, die nicht transkribiert sind. Das Latein ist nach Art der Gerichtsbücher abgekürzt; die Transkription löst die Abkürzungen auf. Ein Satzteil, den der Schreiber ausgelassen und am Fuß von Blatt 372 mit einem Zeichen nachgetragen hat, steht dort, wohin das Zeichen ihn verweist. <!-- context -->
-
 ### Verwandte Bestände
 
 Frühere Prozesse zwischen den beiden Gütern vor demselben Gericht: [[unit:app536017]] und [[unit:app536036]]. Ein späterer, um Pottasche: [[unit:app536045]]. Das Dekret von 1775, das den Streit beendete und dieses anführt: [[unit:app53170koningr145]]. <!-- context -->

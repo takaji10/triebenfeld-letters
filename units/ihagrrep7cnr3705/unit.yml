@@ -37,6 +37,8 @@ original_title: "Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenloh
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [government-files, deeds-contracts]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de]
 date_span: 1805
 status: translated         # draft | transcribed | translated | published
 
@@ -110,3 +112,12 @@ translation_note: >-
   this file. Giese, Bagans and Gietzinger are the three lessees; Winitzki,
   Chwalowski and Cabanis sworn surveyors; Mondro a Criminal Councillor who
   acted for the Prince. Olesnize is Olesnica.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-ai-supplied
+  - c-claude-witness
+  translation:
+  - l-claude
+  - s-claude

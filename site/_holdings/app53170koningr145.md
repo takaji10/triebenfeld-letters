@@ -1,6 +1,6 @@
 ---
 unit: "app53170koningr145"
-title: "53/17/0/-/Konin Gr.145"
+title: "Konin Municipal Court: Relationes-oblatae [protocollon] 1776"
 lang: en
 permalink: "/sources/app53170koningr145/"
 alt_url: "/de/quellen/app53170koningr145/"
@@ -33,42 +33,16 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **Penalties and adjournment.** The court found from the sworn testimony that, after Prusimski had put his own people into the inn on the highway, Stanisław Chełmski rode on it in person with several dozen armed men and had shots fired through its window; a nobleman named Krzeczkowski had his heel shot off, and the inn was set on fire. For this and for his encroachments on Trąbczyn ground Chełmski was sentenced to two weeks in the tower of the castle at Konin and to penalties payable to Prusimski, among them three hundred grzywnas, the unit in which fines were reckoned, for the unlawful use of firearms. He was also to pay 8,000 Polish złoty for timber felled and ground flooded, and the penalties due for having walked out of an earlier court on the ground in 1760. The rest of the boundary with Biskupice, and the question of costs, were adjourned to 21 May 1776. The court handed Prusimski the four sets of sworn testimony and a map of the boundary signed by the president. Six commissioners signed the decree, and with them Wojciech Czarnecki, the boundary surveyor of Kalisz who raised the mounds <span class="cite">[<a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">1</a>]</span>.
 
-### Form and language
-
-The entry fills leaves 654 to 715 of the volume. Its opening and closing records, and the record of the Warsaw court that introduces the act of parliament, are in Latin; the rest is Polish with Latin legal phrases. The Polish is given here in modern spelling and by paragraph, as the editor transcribed it, and not in the spelling of the clerk. The English translation is the editor's own. Its section headings, in square brackets, and its translator's notes are the editor's additions and are not part of the record. <!-- context -->
-
 ### Related holdings
 
 Twenty years after this decree Prussia confiscated Prusimski's estates and granted them to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen: <a href="{{ '/sources/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> and <a href="{{ '/sources/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Prusimski in exile at Venice in 1796: <a href="{{ '/sources/ihagrrep7cnr1414/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414</a>. The return of the estates to his daughter in 1807: <a href="{{ '/sources/agad11740273/' | relative_url }}">1/174/0/2/73</a> and <a href="{{ '/sources/agad1174016/' | relative_url }}">1/174/0/1/6</a>. <!-- context -->
 
 <!--prepared-->
 
-### Scans
-
-The archive supplied 62 images, each showing two facing pages of the bound volume. Each was cut at the fold into two pages. Two halves are not used: the left half of the first image, which is the end of another entry, and one blank page. The holding has 122 pages, beginning with the entry's title page.
-
 ### Transcription
 
-The editor transcribed the entry and supplied the text in one file, with each page marked by the number of its leaf. The text is by paragraph, not line by line. It gives the Polish in modern spelling: i where the clerk wrote y, small letters where he wrote capitals, modern endings. The Latin is given as written, with its abbreviations filled out. One footnote of the editor's, an English rendering of a Latin passage, is left out of the text.
+The transcription is the editor's own. The Polish is given in modern spelling (i for the clerk's y, small letters for capitals, modern endings) and the Latin as written, with its abbreviations filled out. Claude then compared all 122 pages with the scans and corrected the transcription, mostly misread words and words skipped between two occurrences of the same word.
 
-### Check against the scans
+### Translation and summaries
 
-The editor had worked the text over before it was brought in. An AI model (Claude) first read four pages word for word against the scans, and the signatures on the last page. It corrected 23 readings, added one line of the title page, and found six words that had been left out between two words with the same ending.
-
-The editor then asked for the whole text to be checked for words left out. All 122 pages were read against the scans, and 233 passages were corrected. In 26 of them the transcription lacked words that stand on the scan, from a single word to about sixty; nearly all had been skipped between two occurrences of the same word. The other 207 are misread words that change the meaning. Slips of spelling that change nothing were not collected, because the text is in modern spelling. Each change is logged with its reason.
-
-Seven of the corrections bear on what the court found or ordered. The largest restores about sixty words on leaf 709 verso: the court's finding that Chełmski rode on the inn with several dozen armed men, had shots fired into it, and that it was set on fire. The others add or correct a fact, such as a name, a place or a distance, or restore legal wording.
-
-Through the whole text 93 words were also corrected without the scans: words that lack an accent, or carry a wrong one, and are no Polish word as they stand, where the transcription itself writes the right form many times.
-
-### Division and dating
-
-The whole entry is one document. It is dated 23 September 1776, the day the decree was entered in the court records at Brześć Kujawski; the commission itself opened on 13 September 1775.
-
-### Translation
-
-The English is the editor's own translation, made before it was brought in, and was not made again. Its section headings and its twenty translator's notes are the editor's; the headings stand in square brackets and each note follows the paragraph it belongs to. The translation ends each page at the end of a sentence, so the English of a page can begin or end a few lines away from the Polish. In two places, where it was most of a page away, the break was moved. In most places where the transcription had slipped, the English already had the right sense. It was changed in 37 places to follow the corrections to the Polish, most of them to add the words that had been missing. One paragraph of about a hundred words at the head of leaf 680, which the translation lacked, was translated from the Polish by Claude in the editor's terms. In one sentence the English was changed without any change to the Polish: Chełmski is to enter the tower at Konin twelve weeks from the decree and sit there two weeks; the translation had read a sitting of twelve weeks. An automatic check compared the marks of doubt and the terms of the two texts.
-
-### Summary
-
-The summary was written in German from the English translation and the editor's outline of the entry, and translated into English. After the check against the scans, its sentence on Chełmski's sentence was rewritten to take in the raid on the inn. Each of its eighteen statements was checked against the document. All held.
+The English is the editor's own translation; Claude changed it where the corrected text required it. Claude translated one paragraph of about a hundred words at the head of leaf 680 that the translation lacked. Claude wrote the summaries, and a separate pass checked every statement against the document; a statement the document does not support was cut or weakened.

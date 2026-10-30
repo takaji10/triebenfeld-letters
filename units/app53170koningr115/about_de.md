@@ -20,9 +20,7 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Koninie“ 
 
 **Das Wirtshaus verwüstet, Januar 1773.** Im März 1773 legte Chełmski mit eigener Unterschrift Protest ein: Prusimski habe, obwohl er wisse, dass die Siedler von Lusnia Chełmski zuerkannt seien, seinen Verwalter Lipiński und seinen Kammerdiener Marzęcki das Wirtshaus und die Siedler überfallen lassen [[9]]. Bikierski meldete den Schaden: Ofen, drei Fenster und vier Türen, von Chełmski neu eingesetzt, herausgehauen, der Schornstein zerstört, das Geschirr zerschlagen, in der Nacht des 29. Januar [[10]].
 
-### Form und Sprache
-
-Jeder Eintrag besteht aus wenigen Zeilen zwischen vielen anderen auf seiner Seite; die Seiten sind ganz wiedergegeben, die übrigen Einträge sind nicht transkribiert. Das Latein ist stark abgekürzt, und die Transkription schreibt es aus. Zwei der Vermerke von 1768 sind nur so weit transkribiert, wie sie gelesen werden konnten; „…“ bezeichnet das Ausgelassene. Chełmskis Unterschrift steht unter seinem Protest und noch zweimal am Fuß der Seite mit den Einträgen vom 20. Dezember 1771. Drei Einträge stehen unter einer Sitzung, deren datierte Überschrift auf einer nicht aufgenommenen Seite steht; sie sind nach den Überschriften davor und danach auf den Monat datiert. <!-- context -->
+**Anmerkungen zu den Einträgen.** Zwei der Vermerke von 1768 sind nur so weit transkribiert, wie sie gelesen werden konnten; „…“ bezeichnet das Ausgelassene. Chełmskis Unterschrift steht unter seinem Protest und noch zweimal am Fuß der Seite mit den Einträgen vom 20. Drei Einträge stehen unter einer Sitzung, deren datierte Überschrift auf einer nicht aufgenommenen Seite steht; sie sind nach den Überschriften davor und danach auf den Monat datiert. <!-- context -->
 
 ### Verwandte Bestände
 

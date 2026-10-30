@@ -16,11 +16,7 @@ The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Koninie", 
 
 **The timber.** The second entry is a like judgment against the same defendants. They are charged with having lately felled about a hundred trees fit for building, chiefly pines, and about three hundred cartloads of firewood in the woods of Łukom, and with having used them as they pleased. The harm is reckoned at three hundred Polish marks. For everything else the entry refers to the one before it [[2]].
 
-### Form and language
-
-The first entry begins a third of the way down leaf 641 verso, under its heading, and ends with one line at the top of leaf 642 recto. The second follows it there in eight lines. The rest of both pages belongs to other entries, which are not transcribed. The Latin is heavily abbreviated; square brackets in the transcription show letters that were supplied. <!-- context -->
-
-The entries have no date of their own. The heading of the sitting stands on leaf 612, which the editor transcribed but which is not among the scans: "Actum in Terminis Terrestribus Particularibus Coninensibus feria Secunda post Octavas Festi Sacratissimi Corporis Christi proxima Anno Domini Millesimo Sexcentesimo Quadragesimo Quarta in Conin Celebratis". That is: done at the particular land court terms of Konin, held at Konin, on the Monday after the octave of Corpus Christi 1644, which was 6 June. The year of the documents is taken from this heading. <!-- context -->
+**Dating.** The entries have no date of their own. The heading of the sitting stands on leaf 612, which the editor transcribed but which is not among the scans: "Actum in Terminis Terrestribus Particularibus Coninensibus feria Secunda post Octavas Festi Sacratissimi Corporis Christi proxima Anno Domini Millesimo Sexcentesimo Quadragesimo Quarta in Conin Celebratis". That is: done at the particular land court terms of Konin, held at Konin, on the Monday after the octave of Corpus Christi 1644, which was 6 June. The year of the documents is taken from this heading. <!-- context -->
 
 ### Related holdings
 

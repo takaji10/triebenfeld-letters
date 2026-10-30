@@ -35,6 +35,8 @@ fonds: Księgi sądu i urzędu grodzkiego w Koninie
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.
 types: [court-records]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [la]
 date_span: 1780-1782
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -106,3 +108,15 @@ translation_note: >-
   he has served a citation; "condescensio" a sitting of a court or officer
   on the ground in dispute; "manifestatio" a protest; "oblata" a paper
   brought in to be entered; "Hollandri" are the Olęder settlers.
+
+# What the "How it was prepared" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-editor
+  - t-latin-expanded
+  - en: One note on a photographed page that the editor's text lacked was transcribed from the scan by Claude.
+    de: Ein Vermerk auf einer fotografierten Seite, der im Text des Herausgebers fehlte, wurde von Claude nach dem Scan transkribiert.
+  - c-claude-full
+  translation:
+  - l-editor-revised
+  - s-claude

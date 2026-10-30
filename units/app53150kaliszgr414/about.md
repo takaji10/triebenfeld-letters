@@ -18,10 +18,6 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The entry.** On the Saturday before Saint Martin 1771 Antoni Serlatkowski brought the act to the municipal court office at Kalisz to be entered, and the original was sewn into the book [[1]].
 
-### Form and language
-
-Leaf 402 is the original itself, a smaller sheet than the book, written on both sides and signed; leaf 403 has the office's record at the top. The other half of the first scan belongs to another document. The Latin is written out from its abbreviations; the Polish stands in the clerk's spelling. A reference number that the editor had put after one settler's name is not part of the text and is taken out. <!-- context -->
-
 ### Related holdings
 
 The reports of 1767 on the embankment that flooded these settlers: [[unit:app53170koningr114]]. The decree of 1775 that set this delivery aside: [[unit:app53170koningr145]]. <!-- context -->
