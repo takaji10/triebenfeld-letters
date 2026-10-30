@@ -2798,3 +2798,8 @@ The editor's ruling of the day, in three parts; the work is in the branch
   brief / summary say the same thing three times; "Scans"-style handling
   sentences were the same problem in the process tabs). A pattern scan found
   nothing like it in the people's bios, the cemeteries or the place pages.
+- **The tab labels (2026-10-30, the editor).** "About this holding" is now
+  "About" (German "Beschreibung") and "How it was prepared" is "Method"
+  (German "Methode"): `unit_tab_about` and `unit_tab_prepared` in
+  `site/_data/i18n.yml`. The docs call the tab "Method"; older entries in the
+  changelog keep the old name.

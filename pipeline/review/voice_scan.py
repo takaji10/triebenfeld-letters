@@ -1,7 +1,7 @@
 """The mechanical part of the voice review (docs/VOICE_REVIEW_PLAN.md, step 3).
 
 Reads the site's own prose in scope - the document summaries, the holdings'
-"About" and "How it was prepared", the literature's accounts, briefs and
+"About" and "Method", the literature's accounts, briefs and
 summaries, the newspapers' accounts and briefs, the hand-made links'
 sentences, the people's bios, the genealogy's notes and the glossary's
 definitions - in English and German, and counts what can be counted against
@@ -23,7 +23,7 @@ docs/EDITORS_VOICE.md ("The brief") and docs/HOUSE_STYLE.md:
 
 Nothing is changed. Writes review/voice/report.md (a section per file, worst
 first) and review/voice/counts.csv, and prints the totals. The holdings'
-"How it was prepared" is the one place method may be told (HOUSE_STYLE, "No
+"Method" is the one place method may be told (HOUSE_STYLE, "No
 method talk"), so its repo and meta flags are reported apart.
 
 Usage: python pipeline/review/voice_scan.py

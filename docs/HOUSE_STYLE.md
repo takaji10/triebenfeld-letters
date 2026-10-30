@@ -18,7 +18,7 @@ on this project is not error but jargon and process where the reader needs plain
 sense: how the pipeline works, what a holding is called internally, which file a
 figure came from, why two copies let one settle the other. All of that is real
 and none of it belongs in a sentence a reader meets on the way to a document.
-Method goes in **About the edition** and on a holding's "How it was prepared"
+Method goes in **About the edition** and on a holding's "Method"
 tab, and only as much of it as a reader needs to judge the text (see "About the
 edition" below).
 
@@ -174,10 +174,10 @@ meeting the holding for the first time (editor, 2026-10-01):
 - Length follows the holding. A single deed takes a few paragraphs; several
   hundred letters take several thousand words, under headings.
 - Each statement cites the documents it rests on, and says what is not known.
-- Method belongs in the "How it was prepared" tab and in **About the edition**, not in the
+- Method belongs in the "Method" tab and in **About the edition**, not in the
   description. It is told plainly and briefly: what was done, who decided,
   what is still uncertain. No tool names, no costs.
-  The editor, 2026-10-30, of the "How it was prepared" tabs: method stays
+  The editor, 2026-10-30, of the "Method" tabs: method stays
   there, but no file names or paths, no script names or flags, no page ids
   (`0543_a`), no NEEDS_CONFIRMATION, no "spot sheet" or its address, and no
   dated citations of a ruling ("(the editor, 2026-10-14)"). Say who decided
@@ -246,7 +246,7 @@ where to find how to cite.
 It leaves out everything that is the project's own record: counts of line-break
 marks and how each was decided, the reference data and thresholds used, file
 names and paths, image sizes, what fails the build, the per-holding figures, and
-single unresolved readings. Those belong on the holding's "How it was prepared"
+single unresolved readings. Those belong on the holding's "Method"
 tab, in the holding's notes, or in `docs/`.
 
 ```
@@ -359,7 +359,7 @@ NO   Where a source and the documents differ, the documents stand.
 ```
 
 Method has two places, and only there is it told: the About page and a
-holding's "How it was prepared" (above, "A holding's own page" and "About
+holding's "Method" (above, "A holding's own page" and "About
 the edition"). The project's record goes in `docs/` and the notes. A
 reading of the site's existing pages for method talk is offered to the
 editor (`docs/TODO.md`), not yet done.

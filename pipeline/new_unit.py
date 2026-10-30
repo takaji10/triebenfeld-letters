@@ -96,12 +96,12 @@ corpus: corpus.txt
 
 # What the holding is, in a paragraph: the opening of the translator's and the
 # summariser's prompts. The reader sees the holding's own page instead, written
-# in about.md beside this file, and the "How it was prepared" tab is written from
+# in about.md beside this file, and the "Method" tab is written from
 # `prepared:` below (docs/NEW_UNIT.md).
 description: >-
   TODO: a paragraph on what this holding is.
 
-# What the "How it was prepared" tab says: only what an AI decided that affected
+# What the "Method" tab says: only what an AI decided that affected
 # the text (reference/prepared.yml, docs/HOUSE_STYLE.md "A holding's own page").
 # Each list holds keys of reference/prepared.yml and, where this holding needs
 # it, a hand-written {{en: ..., de: ...}}. Fill in when the work is done.

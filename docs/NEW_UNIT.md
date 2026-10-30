@@ -33,7 +33,7 @@ and the three fields the machine cannot infer:
 - **`languages`** — the languages of the documents, the main one first, as slugs
   of `reference/languages.yml` (`[la, pl]`). Shown in the holding's header.
   Not described in the text.
-- **`prepared`** — what the "How it was prepared" tab says: two lists,
+- **`prepared`** — what the "Method" tab says: two lists,
   `transcription` and `translation`, of keys of `reference/prepared.yml` and,
   where one holding needs it, a hand-written `{en: ..., de: ...}`. The tab
   tells the reader what an AI decided that affected the text: who made the

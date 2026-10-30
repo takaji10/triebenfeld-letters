@@ -316,9 +316,9 @@ en:
   badge_supplied: "[date supplied]"
   badge_inferred: "[date inferred]"
   map_link: Map (OpenStreetMap)
-  unit_tab_about: About this holding
+  unit_tab_about: About
   unit_tab_documents: Documents
-  unit_tab_prepared: How it was prepared
+  unit_tab_prepared: Method
   unit_no_about: A description of this holding has not been written yet.
   unit_no_process: An account of how this holding was prepared has not been written yet.
   lit_h1: Literature
@@ -709,9 +709,9 @@ de:
   badge_supplied: "[Datum ergänzt]"
   badge_inferred: "[Datum erschlossen]"
   map_link: Karte (OpenStreetMap)
-  unit_tab_about: Über diesen Bestand
+  unit_tab_about: Beschreibung
   unit_tab_documents: Dokumente
-  unit_tab_prepared: Wie er bearbeitet wurde
+  unit_tab_prepared: Methode
   unit_no_about: Eine Beschreibung dieses Bestandes ist noch nicht geschrieben.
   unit_no_process: Ein Bericht über die Bearbeitung dieses Bestandes ist noch nicht geschrieben.
   lit_h1: Literatur

@@ -3,14 +3,14 @@
 A page for each holding, in both languages.
 
 Reads  : units/<slug>/about.md      the description of the holding
-         units/<slug>/unit.yml      `prepared:`, what the "How it was prepared"
+         units/<slug>/unit.yml      `prepared:`, what the "Method"
                                     tab says (reference/prepared.yml)
          (and about_de.md where it exists)
 Writes : site/_holdings/<slug>.md      /sources/<slug>/
          site/_holdings_de/<slug>.md   /de/quellen/<slug>/
 
 The description is written by hand and kept with the holding; the
-"How it was prepared" tab is written from `prepared:` in its unit.yml, in
+"Method" tab is written from `prepared:` in its unit.yml, in
 both languages, from the sentences in reference/prepared.yml. A document is
 cited in them as [[41]] or [[41, 44]]; the citation becomes a link to that
 document of the same holding, and check_unit_text.py holds each sentence to the
@@ -45,7 +45,7 @@ def read_text(unit_dir, name, lang):
 
 
 def prepared_text(u, lib, lang):
-    """The "How it was prepared" tab of a holding, from its `prepared:` block.
+    """The "Method" tab of a holding, from its `prepared:` block.
     An item is a key of reference/prepared.yml or a hand-written {en, de}; the
     items of a list run on in one paragraph, a long hand-written one starts a
     new paragraph. Empty when the holding has no block."""
