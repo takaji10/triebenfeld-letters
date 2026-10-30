@@ -3925,3 +3925,10 @@ footer on every page. Changed, in both languages:
   "Maßstab"), put in as it is known (the editor's word); ADDING_A_MAP says so.
 - Tiles' first Pages deployment failed (GitHub 500) and was rebuilt by an
   empty commit; a stale local server held port 8765.
+- **Rulings of the editor, same day**: the six okręg labels are parts of
+  their obręb (appearances of Włodzimirów Obręb and Wielki-Bór Obręb, not
+  new places; one note's "Okręg" was a slip for Obręb); the placing on the
+  map is accurate, so Czerwonka (the mark's position, precision `from_map`)
+  and Nowa Wieś (the village's position in `places_osm.yml`) lose their wrong
+  coordinates. The labels were imported again from a corrected copy of the
+  saved file. Place pages, map pages, build and `verify_site.py` pass.
