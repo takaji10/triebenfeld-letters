@@ -3957,3 +3957,8 @@ footer on every page. Changed, in both languages:
   set as given, the table's other colours still the scan's samples; the
   wet blocks' blue dashes laid further apart so none touch. Verified:
   build, `verify_site.py`; rendered in the headless browser.
+- **Published at the editor's word the same day** ("Push and publish"):
+  main pushed (2e1213b28..9d73c2131, ten commits, back to the map's
+  register entry) and the "Build and deploy" run 41101782292 succeeded on
+  it — Kozłowski's map, its legend, the corrected places and all of
+  today's other rulings went live.
