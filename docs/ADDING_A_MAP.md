@@ -108,6 +108,18 @@ session (WORKING_NOTES, "Working with the editor").
 - **Importing again is safe**: the import reuses the gazetteer item already
   linked to a label and unlinks the labels deleted since. Run it on each
   new save.
+- **The port and the host.** Another server may already hold 8765 (a
+  stale one from an earlier session did, and answered Firefox on IPv4 with a
+  reset; 8766 is `review_server.py`). Check with `Get-NetTCPConnection
+  -LocalPort <port> -State Listen` and serve with `--bind 127.0.0.1` on a free
+  port (8777 worked). The page keeps its work in the browser per port.
+- **Pages can fail.** The tiles' first deployment failed with a GitHub 500
+  and a re-run stayed queued; an empty commit to triebenfeld-maps started a
+  new build. Until `.../<map>/info.json` loads, the labelling page has no
+  map.
+- **The saved file.** Look in Downloads for `labels_<map>_<date>.json`
+  after the editor says they saved; one searched before the save finished
+  found nothing.
 - **The uploaded file, not the scan.** MapWarper's points are in the pixels
   of the image uploaded there; any other copy (another size, another turn)
   puts every point in the wrong place. Compare the sizes first.
