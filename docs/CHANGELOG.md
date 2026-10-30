@@ -3942,11 +3942,13 @@ footer on every page. Changed, in both languages:
   blocks are drawn with CSS: dots (orchard), blue dashes (wet meadows and
   pastures), the graded pale inset (water). Data `maps/kozlowski1861/
   legend.yml`, built into the page's data by `map_pages.py`, rendered in
-  `_layouts/map.html` under the mark index; new i18n keys, a caption
-  recorded in both languages. A map needs nothing: the section shows only
-  where `legend.yml` exists (Łukom 1766 has none on its sheet). Brought
-  closer to the sheet as the editor noted the patterns (same day): water's
-  frame all round (thick blue top and left, a thinner darker blue on the
-  other two), the orchard's dots larger, ten irregular dashes for the wet
-  blocks. Verified:
+  `_layouts/map.html` under the mark index; new i18n keys. A map needs
+  nothing: the section shows only where `legend.yml` exists (Łukom 1766
+  has none on its sheet). The editor's looks on the day set the blocks to
+  the sheet: ten irregular dashes for the wet blocks; then, on the
+  editor's word, the orchard as plain dots (no berries, no stems), every
+  block the same thin outline — water's frame alone built up (the thick
+  blue band top and left, a thinner darker line on the other two) — the
+  squares a little larger, and the caption under the table taken off (no
+  explainer text). Verified:
   build, `verify_site.py`; rendered in the headless browser.

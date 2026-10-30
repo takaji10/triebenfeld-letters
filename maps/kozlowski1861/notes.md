@@ -31,11 +31,16 @@ powiecie konińskim").
   under their five grouping headers, with water and "drogi i place pod
   zabudowaniami" standing outside the groups as on the sheet; the Polish as
   written, read by Claude from the scan, and an English column, to be
-  checked by the editor. The colours are the scan's (fill, edge strip,
-  pencil line, sampled); the three patterned blocks (orchard dots, the wet
-  meadows' and pastures' blue dashes, water's graded pale inset) are drawn
-  with the page's CSS. Łukom 1766 has no legend on its sheet: the section
-  shows only where a map has `legend.yml`.
+  checked by the editor. The colours are the scan's (fill, pencil line
+  and every block's coloured edge strip sampled; in the render the edge
+  strip is used for water's frame alone — at the editor's word it is the
+  one block with a thicker border, a thinner darker line on its weaker
+  sides). The three patterned blocks (orchard's plain dots, the wet
+  meadows' and pastures' blue dashes, water's graded pale inset) are
+  drawn with the page's CSS; the squares render 3.9 × 1.8 rem, and there
+  is no caption under the table (no explainer text on the site). Łukom
+  1766 has no legend on its sheet: the section shows only where a map
+  has `legend.yml`.
 
 ## The georeference
 

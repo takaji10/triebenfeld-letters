@@ -92,7 +92,6 @@ layout: default
         {%- endfor %}
         </tbody>
       </table>
-      <p class="map-legend-note">{{ t.map_legend_note }}</p>
     </section>
     {%- endif %}
 
@@ -129,8 +128,10 @@ layout: default
 .map-mark-list li { display: list-item; padding: .3rem 0 .3rem .2rem; }
 .map-mark-list li::marker { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
 .map-mark-list li.is-on { background: rgba(180, 60, 50, .08); }
-/* the map's own legend, redrawn: each block is the colour sampled from the
-   scan, with the stronger strip the draughtsman laid along its top and left */
+/* the map's own legend, redrawn: on the sheet every block carries the same
+   thin outline and the water block alone a stronger wash frame, so the border
+   thickness is uniform and only water's is built up (its `edge` colour, a
+   thinner darker line on the remaining sides) */
 .map-legend { margin: 1.6rem 0 1.6rem; }
 .map-legend h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
 .map-legend-title { margin: 0 0 .5rem; font-size: .92rem; }
@@ -143,8 +144,7 @@ layout: default
 .legend-gap td { padding: .5rem 0 0; border-bottom: 1px solid var(--rule); }
 .legend-pl { font-style: italic; }
 .legend-group .legend-pl { font-weight: 400; }
-.map-legend-note { font-family: var(--sans); font-size: .78rem; color: var(--ink-soft); margin: .5rem 0 0; }
-.sw { display: block; box-sizing: border-box; width: 3.2rem; height: 1.5rem; background-color: var(--fill); border: 1px solid var(--line); border-top: 4px solid var(--edge); border-left: 4px solid var(--edge); }
+.sw { display: block; box-sizing: border-box; width: 3.9rem; height: 1.8rem; background-color: var(--fill); border: 1px solid var(--line); }
 .sw-wash { border-color: var(--edge) var(--line2) var(--line2) var(--edge); border-width: 4px 2px 2px 4px; background-image: linear-gradient(var(--inner), var(--inner)); background-repeat: no-repeat; background-position: 100% 100%; background-size: 70% 60%; }
 .sw-dots { background-image: radial-gradient(circle, var(--ink) 0 2px, transparent 2.5px); background-size: 18% 34%; }
 .sw-wet { background-image: linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)); background-repeat: no-repeat; background-size: 26% 2px, 18% 2px, 12% 2px, 8.5% 2px, 26% 2px, 14% 2px, 20% 2px, 9.5% 2px, 22% 2px, 30% 2px; background-position: 10% 24%, 34% 22%, 52% 26%, 66% 18%, 16% 58%, 30% 52%, 42% 60%, 56% 55%, 22% 88%, 58% 82%; }

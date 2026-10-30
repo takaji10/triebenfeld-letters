@@ -2,12 +2,15 @@
 # sheet (read from the scan, 2026-10-30; Claude's reading and translation, to be
 # checked by the editor). Colours are sampled from the scan (the sheet as
 # scanned, on yellowed paper): `fill` the block's wash, `edge` the stronger
-# strip along its top and left, `line` the pencil outline. `pattern` is what the
-# block adds to the wash: dots (orchard), wet (blue dashes: marsh), wash (water's
-# graded blue). A group is a heading on the sheet over its blocks. Water is a
-# heading over one block (written in the headings' hand, no label of its own: an
-# item with only a swatch); roads and plots under buildings is a labelled block
-# under no heading (`group: null`).
+# strip along its top and left as drawn there, `line` the pencil outline. The
+# digital table draws one outline thickness on every block and builds the frame
+# up on water alone (the sheet's only visibly stronger block), so `edge` is used
+# there; it stays as the record of what was sampled. `pattern` is what the block
+# adds to the wash: dots (orchard), wet (blue dashes: marsh), wash (water's
+# graded pale wash inside the frame). A group is a heading on the sheet over its
+# blocks. Water is a heading over one block (written in the headings' hand, no
+# label of its own: an item with only a swatch); roads and plots under buildings
+# is a labelled block under no heading (`group: null`).
 # Rendered on the map page by pipeline/maps/map_pages.py.
 title:
   pl: Wyjaśnienie Kolorów
