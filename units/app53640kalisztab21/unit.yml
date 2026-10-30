@@ -25,6 +25,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Hearth tax of the Kalisz voivodeship [protocollon] 1789"
 card_title_de: "Rauchfangsteuer (Podymne) der Woiwodschaft Kalisch [protocollon] 1789"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Hearth tax of the Kalisz voivodeship 1789"
+short_title_de: "Rauchfangsteuer der Woiwodschaft Kalisch 1789"
 original_title: "Podymne z woj. kaliskiego [protocollon] 1789"
 fonds: Zbiór tabel podatkowych i lustracji
 # The title of the register: "w Racie Swięto-Jańskiey Roku 1789", the

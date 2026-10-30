@@ -1,6 +1,6 @@
 ---
 unit: "app53640kalisztab21"
-title: "Rauchfangsteuer (Podymne) der Woiwodschaft Kalisch [protocollon] 1789"
+title: "Rauchfangsteuer der Woiwodschaft Kalisch 1789"
 lang: de
 permalink: "/de/quellen/app53640kalisztab21/"
 alt_url: "/sources/app53640kalisztab21/"

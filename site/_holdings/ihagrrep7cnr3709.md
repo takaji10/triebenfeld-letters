@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3709"
-title: "Complaint of Michalina von Prusinska against Prince von Hohenlohe-Ingelfingen"
+title: "Complaint of Michalina von Prusinska"
 lang: en
 permalink: "/sources/ihagrrep7cnr3709/"
 alt_url: "/de/quellen/ihagrrep7cnr3709/"

@@ -1,6 +1,6 @@
 ---
 unit: "iharep162nr295"
-title: "Kapitaleintragung von 50 000 Reichstalern des Kriegsrates von Triebenfeld auf die vormals fürstlich Hohenlohe-Ingelfingeschen, jetzt dem Gutsbesitzer Ignatz von Trzcinski gehörigen Güter Zagorowo, Bd. 1"
+title: "Triebenfelds Kapital von 50 000 Reichstalern, Bd. 1"
 lang: de
 permalink: "/de/quellen/iharep162nr295/"
 alt_url: "/sources/iharep162nr295/"

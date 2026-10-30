@@ -33,6 +33,10 @@ archive_title: >-
 # Spór jurysdykcyjny w sprawie [hr.] Michaliny Miączyńskiej [właścicielki dóbr Trąbczyn z przyległościami, hipotekowanych na rzecz bankiera Karola Weigla] przeciwko [temuż] Karolowi Weigel, teraz skarbowi [o ekstabulację sumy lokowanej na tych dobrach]
 card_title: "Jurisdictional dispute in the case of [Countess] Michalina Miączyńska [...] against [the same] Karol Weigel, now the Treasury [for the extabulation of the sum placed on these estates]"
 card_title_de: "Zuständigkeitsstreit in der Sache der [Gräfin] Michalina Miączyńska [...] gegen [denselben] Karol Weigel, jetzt den Fiskus [wegen Löschung der auf diesen Gütern eingetragenen Summe]"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Jurisdictional dispute: Miączyńska v. Weigel"
+short_title_de: "Zuständigkeitsstreit: Miączyńska gegen Weigel"
 full_title: "Jurisdictional dispute in the case of [Countess] Michalina Miączyńska [owner of the Trąbczyn estates with appurtenances, mortgaged in favour of the banker Karol Weigel] against [the same] Karol Weigel, now the Treasury [for the extabulation of the sum placed on these estates]"
 full_title_de: "Zuständigkeitsstreit in der Sache der [Gräfin] Michalina Miączyńska [Besitzerin der Güter Trąbczyn mit Zubehör, hypothekarisch zugunsten des Bankiers Karol Weigel belastet] gegen [denselben] Karol Weigel, jetzt den Fiskus [wegen Löschung der auf diesen Gütern eingetragenen Summe]"
 original_title: "Spór jurysdykcyjny w sprawie [hr.] Michaliny Miączyńskiej [właścicielki dóbr Trąbczyn z przyległościami, hipotekowanych na rzecz bankiera Karola Weigla] przeciwko [temuż] Karolowi Weigel, teraz skarbowi [o ekstabulację sumy lokowanej na tych dobrach]"

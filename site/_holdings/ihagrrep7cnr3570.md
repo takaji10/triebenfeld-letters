@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3570"
-title: "The deed of gift for the estates granted to Prince von Hohenlohe-Ingelfingen in hereditary possession: the town of Kamiono, the market town of Kulm and the villages of Prabizyn, Szettlewel, Nowawies, Lazy, Alt and Neu Laske, Oszny, Hauland, Trabczinski and Brzyce. Further gifts: Colonel Sanitz receives the estates of Pawlow, Dzwonow and Burenbusch; Major General von Blücher the estates of Duninow; Lieutenant General von Dolffs the estate of Strzelec; Major von Pontanus the estates of Dziejorzow, Borschkowo and Jambie; Lieutenant von Holtzendorff the estates of Gluskow, Malavies and Grochalle; Major General von Larisch the estate of Lekarziewice"
+title: "Deed of gift to Prince Hohenlohe-Ingelfingen"
 lang: en
 permalink: "/sources/ihagrrep7cnr3570/"
 alt_url: "/de/quellen/ihagrrep7cnr3570/"

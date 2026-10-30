@@ -1,6 +1,6 @@
 ---
 unit: "iiihamdaiiinr12367"
-title: "Suit of Countess Michalina von Miaczynska, née von Prusimska, widowed von Dabska, for the cancellation of the mortgage debts on her paternal estate Trapczyn (Poland). Claims of the creditors, the trading house Carl Gottlieb Weigel & Sons in Breslau (Province of Silesia) and the Lichnowsky brothers in Brieg (Province of Silesia), against Countess Michalina von Miaczynska, Vol. 2"
+title: "Suit of Michalina von Miaczynska, Vol. 2"
 lang: en
 permalink: "/sources/iiihamdaiiinr12367/"
 alt_url: "/de/quellen/iiihamdaiiinr12367/"

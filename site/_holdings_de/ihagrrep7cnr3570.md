@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3570"
-title: "Die Schenkungsurkunde über die dem Fürsten v. Hohenlohe-Ingelfingen zum erblichen Besitz verliehenen Güter der Stadt Kamiono und des Marktfleckens Kulm sowie der Dörfer Prabizyn, Szettlewel, Nowawies, Lazy, Alt und Neu Laske, Oszny, Hauland, Trabczinski und Brzyce Weitere Schenkungen: der Obrist Sanitz erhält die Güter Pawlow, Dzwonow und Burenbusch; der Generalmajor v. Blücher erhält die Güter Duninow; der Generalleutnant v. Dolffs das Gut Strzelec; der Major v. Pontanus erhält die Güter Dziejorzow, Borschkowo und Jambie; der Leutnant v. Holtzendorff erhält die Güter Gluskow, Malavies und Grochalle; der Generalmajor v. Larisch erhält das Gut Lekarziewice"
+title: "Schenkungsurkunde für Fürst Hohenlohe-Ingelfingen"
 lang: de
 permalink: "/de/quellen/ihagrrep7cnr3570/"
 alt_url: "/sources/ihagrrep7cnr3570/"

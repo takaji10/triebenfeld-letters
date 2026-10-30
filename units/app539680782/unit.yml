@@ -24,6 +24,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Agreement concluded between the teacher Samuel Adolph 1820"
 card_title_de: "Vertrag, abgeschlossen zwischen dem Lehrer Samuel Adolph 1820"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Agreement with the teacher Samuel Adolph 1820"
+short_title_de: "Vertrag mit dem Lehrer Samuel Adolph 1820"
 original_title: "Umowa zawarta między nauczycielem Samuelem Adolphem 1820"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 # What kind of material the holding is (editor, 2026-10-29): one or two of the

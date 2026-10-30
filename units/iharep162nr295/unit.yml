@@ -36,6 +36,10 @@ archive_title: >-
 # The card shortens it with [...]; the English site shows a translation.
 card_title: "Entry of a capital of 50,000 Reichstaler of War Councillor von Triebenfeld on the estates of Zagorowo, formerly of the Princes of Hohenlohe-Ingelfingen [...], Vol. 1"
 card_title_de: "Kapitaleintragung von 50 000 Reichstalern des Kriegsrates von Triebenfeld auf die vormals fürstlich Hohenlohe-Ingelfingeschen [...] Güter Zagorowo, Bd. 1"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Triebenfeld's capital of 50,000 Reichstaler, Vol. 1"
+short_title_de: "Triebenfelds Kapital von 50 000 Reichstalern, Bd. 1"
 full_title: "Entry of a capital of 50,000 Reichstaler of War Councillor von Triebenfeld on the estates of Zagorowo, formerly of the Princes of Hohenlohe-Ingelfingen, now belonging to the landowner Ignatz von Trzcinski, Vol. 1"
 full_title_de: "Kapitaleintragung von 50 000 Reichstalern des Kriegsrates von Triebenfeld auf die vormals fürstlich Hohenlohe-Ingelfingeschen, jetzt dem Gutsbesitzer Ignatz von Trzcinski gehörigen Güter Zagorowo, Bd. 1"
 original_title: "Kapitaleintragung von 50 000 Reichstalern des Kriegsrates von Triebenfeld auf die vormals fürstlich Hohenlohe-Ingelfingeschen, jetzt dem Gutsbesitzer Ignatz von Trzcinski gehörigen Güter Zagorowo, Bd. 1"

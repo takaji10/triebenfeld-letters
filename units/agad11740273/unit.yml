@@ -29,6 +29,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Records of the Governing Commission during its stay in Dresden"
 card_title_de: "Akten der Regierungskommission aus der Zeit ihres Aufenthalts in Dresden"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Governing Commission: records from Dresden"
+short_title_de: "Regierungskommission: Akten aus Dresden"
 original_title: "Akta Komisji Rządzącej pod bytność jej w Dreźnie"
 # The four pieces are dated 20 to 23 July 1807.
 # What kind of material the holding is (editor, 2026-10-29): one or two of the

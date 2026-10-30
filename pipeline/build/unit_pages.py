@@ -96,14 +96,14 @@ def link_citations(text, url_by_id):
 
 
 def page_title(u, lang):
-    """The holding's name in the browser tab: its translated title, not the
-    reference (editor, 2026-10-30); the reference stands in the header beside
+    """The holding's name in the browser tab: a short form of its translated
+    name (`short_title`, else the card title), never the reference or the whole
+    long title (editor, 2026-10-30); the reference stands in the header beside
     the archive."""
+    t = None
     if lang == 'de':
-        t = u.get('full_title_de') or u.get('card_title_de')
-    else:
-        t = None
-    t = t or u.get('full_title') or u.get('card_title') or u['ref']
+        t = u.get('short_title_de') or u.get('card_title_de')
+    t = t or u.get('short_title') or u.get('card_title') or u['ref']
     return str(t).strip()
 
 

@@ -32,6 +32,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Series of privileges of the monastery of Ląd, transcribed from the book of privileges"
 card_title_de: "Reihe der Privilegien des Klosters Ląd, abgeschrieben aus dem Privilegienbuch"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Privileges of the monastery of Ląd"
+short_title_de: "Privilegien des Klosters Ląd"
 original_title: "Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum"
 # The fond, and the archive's description of it, as the editor gave them
 # (2026-10-21): "Zespół zawiera m.in.: dokumenty majątkowe, fundacyjne,

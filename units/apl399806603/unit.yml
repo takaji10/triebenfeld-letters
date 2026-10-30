@@ -25,6 +25,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Liquidation table of the settlement of Łazińsk, Słupca district, Trąbczyn commune"
 card_title_de: "Liquidationstabelle der Ortschaft Łazińsk, Kreis Słupca, Gmina Trąbczyn"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Liquidation table of Łazińsk"
+short_title_de: "Liquidationstabelle von Łazińsk"
 original_title: "Ликвидационная табель селения Лазинская Слупецкий уездъ гмина Тромбчинъ"
 fonds: Urząd Gubernialny Kaliski do Spraw Włościańskich (39/98)
 # What kind of material the holding is (editor, 2026-10-29): one or two of the

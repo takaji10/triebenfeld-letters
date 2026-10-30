@@ -28,6 +28,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Gift of extensive lordships and estates in the new province of South Prussia by the Kings Friedrich Wilhelm II and Friedrich Wilhelm III of Prussia to Prince Ludwig Friedrich of Hohenlohe-Ingelfingen"
 card_title_de: "Schenkung umfangreicher Herrschaften und Güter in der neuen Provinz Südpreußen durch die Könige Friedrich Wilhelm II. und Friedrich Wilhelm III. von Preußen an Fürst Ludwig Friedrich von Hohenlohe-Ingelfingen"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Gift of South Prussian estates to Hohenlohe-Ingelfingen"
+short_title_de: "Schenkung südpreußischer Güter an Hohenlohe-Ingelfingen"
 original_title: "Schenkung umfangreicher Herrschaften und Güter in der neuen Provinz Südpreußen durch die Könige Friedrich Wilhelm II. und Friedrich Wilhelm III. von Preußen an Fürst Ludwig Friedrich von Hohenlohe-Ingelfingen"
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.

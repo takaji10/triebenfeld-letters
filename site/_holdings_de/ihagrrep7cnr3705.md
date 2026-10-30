@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3705"
-title: "Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenlohe-Oehringen"
+title: "Vererbpachtung des Gutes Oleszinia"
 lang: de
 permalink: "/de/quellen/ihagrrep7cnr3705/"
 alt_url: "/sources/ihagrrep7cnr3705/"

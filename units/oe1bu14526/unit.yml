@@ -28,6 +28,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Further sale of parts of the South Prussian estates given to him by the Prussian Kings Friedrich Wilhelm II and Friedrich Wilhelm III, by Prince Ludwig Friedrich of Hohenlohe-Ingelfingen"
 card_title_de: "Weiterveräußerung von Teilen der ihm von den preußischen Königen Friedrich Wilhelm II. und Friedrich Wilhelm III. geschenkten südpreußischen Güter durch den Fürsten Ludwig Friedrich von Hohenlohe-Ingelfingen"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Sale of South Prussian estates by Hohenlohe-Ingelfingen"
+short_title_de: "Verkauf südpreußischer Güter durch Hohenlohe-Ingelfingen"
 original_title: "Weiterveräußerung von Teilen der ihm von den preußischen Königen Friedrich Wilhelm II. und Friedrich Wilhelm III. geschenkten südpreußischen Güter durch den Fürsten Ludwig Friedrich von Hohenlohe-Ingelfingen"
 # The datelines run 1798-10-01 to 1806-07-18. The volume reaches further at both
 # ends without saying so in a dateline: the Posen chapter privilege reproduces a

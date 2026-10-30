@@ -29,6 +29,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Collection of the judgments, decisions, recommendations and all resolutions of the Governing Commission"
 card_title_de: "Sammlung der Urteile, Beschlüsse, Empfehlungen und aller Resolutionen der Regierungskommission"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Governing Commission: register of resolutions"
+short_title_de: "Regierungskommission: Register der Beschlüsse"
 original_title: "Zbiór wyroków, uchwał, zaleceń i wszelkich rezolucji Komisji Rządzącej"
 # The two entries are of 12 and 21 July 1807.
 # What kind of material the holding is (editor, 2026-10-29): one or two of the

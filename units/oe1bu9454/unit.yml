@@ -32,6 +32,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Correspondence of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen with the Prussian Councillor of War and Forests von Triebenfeld"
 card_title_de: "Korrespondenz des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen mit dem preußischen Kriegs- und Forstrat von Triebenfeld"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Correspondence of Hohenlohe-Ingelfingen and Triebenfeld"
+short_title_de: "Korrespondenz Hohenlohe-Ingelfingens mit Triebenfeld"
 original_title: "Korrespondenz des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen mit dem preußischen Kriegs- und Forstrat von Triebenfeld"
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.

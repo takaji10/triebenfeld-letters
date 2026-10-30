@@ -31,6 +31,10 @@ archive_title: >-
 # The card shortens it with [...]; the English site shows a translation.
 card_title: "Complaint of Michalina von Prusinska against Prince von Hohenlohe-Ingelfingen"
 card_title_de: "Beschwerde der Michalina v. Prusinska gegen den Fürsten v. Hohenlohe-Ingelfingen"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Complaint of Michalina von Prusinska"
+short_title_de: "Beschwerde der Michalina v. Prusinska"
 original_title: "Beschwerde der Michalina v. Prusinska gegen den Fürsten v. Hohenlohe-Ingelfingen"
 # The cover gives the span: "den 18ten Juny 1800" to "den 29 Januar 1802".
 # What kind of material the holding is (editor, 2026-10-29): one or two of the

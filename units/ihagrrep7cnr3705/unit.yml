@@ -33,6 +33,10 @@ archive_title: >-
 # The card shortens it with [...]; the English site shows a translation.
 card_title: "Hereditary lease of the estate of Oleszinia by the Princes of Hohenlohe-Oehringen"
 card_title_de: "Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenlohe-Oehringen"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Hereditary lease of Oleszinia"
+short_title_de: "Vererbpachtung des Gutes Oleszinia"
 original_title: "Vererbpachtung des Gutes Oleszinia von den Fürsten zu Hohenlohe-Oehringen"
 # What kind of material the holding is (editor, 2026-10-29): one or two of the
 # slugs in reference/unit_types.yml, the dominant one first.

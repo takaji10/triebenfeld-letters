@@ -25,6 +25,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Polonised names [Zagórów commune – surnames of the inhabitants]"
 card_title_de: "Polonisierte Namen [Gmina Zagórów – Familiennamen der Einwohner]"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Polonised names, Zagórów commune"
+short_title_de: "Polonisierte Namen, Gmina Zagórów"
 original_title: "Polonisierta Namen [gmina Zagórów - nazwiska mieszkańców]"
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
 # No sheet in the holding carries a date (the years 1741, 1843 and 1855 in

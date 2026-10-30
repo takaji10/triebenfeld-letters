@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3705"
-title: "Hereditary lease of the estate of Oleszinia by the Princes of Hohenlohe-Oehringen"
+title: "Hereditary lease of Oleszinia"
 lang: en
 permalink: "/sources/ihagrrep7cnr3705/"
 alt_url: "/de/quellen/ihagrrep7cnr3705/"

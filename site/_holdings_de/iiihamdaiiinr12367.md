@@ -1,6 +1,6 @@
 ---
 unit: "iiihamdaiiinr12367"
-title: "Klage der Gräfin Michalina von Miaczynska, geb. von Prusimska, verwitwete von Dabska auf Löschung der Hypothekenschulden auf ihrem väterlichen Gut Trapczyn (Polen). Forderungen der Gläubiger Handlungshaus Carl Gottlieb Weigel & Söhne in Breslau (Prov. Schlesien) und der Brüder Lichnowsky in Brieg (Prov. Schlesien) an die Gräfin Michalina von Miaczynska, Bd. 2"
+title: "Klage der Michalina von Miaczynska, Bd. 2"
 lang: de
 permalink: "/de/quellen/iiihamdaiiinr12367/"
 alt_url: "/sources/iiihamdaiiinr12367/"

@@ -1,6 +1,6 @@
 ---
 unit: "iharep162nr295"
-title: "Entry of a capital of 50,000 Reichstaler of War Councillor von Triebenfeld on the estates of Zagorowo, formerly of the Princes of Hohenlohe-Ingelfingen, now belonging to the landowner Ignatz von Trzcinski, Vol. 1"
+title: "Triebenfeld's capital of 50,000 Reichstaler, Vol. 1"
 lang: en
 permalink: "/sources/iharep162nr295/"
 alt_url: "/de/quellen/iharep162nr295/"

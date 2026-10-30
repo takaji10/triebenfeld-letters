@@ -1,6 +1,6 @@
 ---
 unit: "app53640kalisztab21"
-title: "Hearth tax of the Kalisz voivodeship [protocollon] 1789"
+title: "Hearth tax of the Kalisz voivodeship 1789"
 lang: en
 permalink: "/sources/app53640kalisztab21/"
 alt_url: "/de/quellen/app53640kalisztab21/"

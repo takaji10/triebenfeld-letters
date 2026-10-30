@@ -31,6 +31,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Copies of documents on the parcelling of the estates of Zagórowo, Wittow and Trąpczyn from the years 1805-1806"
 card_title_de: "Abschriften von Dokumenten zur Parzellierung der Güter Zagórowo, Wittow und Trąpczyn aus den Jahren 1805-1806"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Copies on the parcelling of Zagórów and Trąbczyn"
+short_title_de: "Abschriften zur Parzellierung von Zagórów und Trąbczyn"
 original_title: "Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, Wittow i Trąpczyn z lat 1805-1806"
 # The papers copied are dated 19 February 1805 to 21 March 1806. The copy
 # itself the archive dates "[1930?]".

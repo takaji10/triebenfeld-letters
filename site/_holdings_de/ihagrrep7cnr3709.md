@@ -1,6 +1,6 @@
 ---
 unit: "ihagrrep7cnr3709"
-title: "Beschwerde der Michalina v. Prusinska gegen den Fürsten v. Hohenlohe-Ingelfingen"
+title: "Beschwerde der Michalina v. Prusinska"
 lang: de
 permalink: "/de/quellen/ihagrrep7cnr3709/"
 alt_url: "/sources/ihagrrep7cnr3709/"

@@ -26,6 +26,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "Kalisz Land Court: Relationes, citationes [protocollon] 1726-1727"
 card_title_de: "Landgericht Kalisz: Relationes, citationes [protocollon] 1726-1727"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Kalisz Land Court: Relationes 1726-1727"
+short_title_de: "Landgericht Kalisz: Relationes 1726-1727"
 original_title: "Relationes, citationes [protocollon] 1726-1727"
 # The fonds, with the archive's description of it, as the editor gave it
 # (2026-10-26): "Rezygnacje, inskrypcje, relacje, wyroki, oblaty, regestry

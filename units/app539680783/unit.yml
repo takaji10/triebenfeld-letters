@@ -32,6 +32,10 @@ archive_title: >-
 # The card's title on the Sources list (2026-10-29), made from archive_title; refine it here.
 card_title: "[Summons for Karolina Fridenberg [...] in the dispute of the colonists of the Staro-Łozińska and Nowo-Łozińska colonies [...] with Włodzimierz Mieczyński, owner of Trąbczyn [...]]"
 card_title_de: "[Ladung der Karolina Fridenberg [...] im Streit der Kolonisten der Kolonien Staro-Łozińska und Nowo-Łozińska [...] mit Włodzimierz Mieczyński, dem Besitzer von Trąbczyn [...]]"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Summons of Karolina Fridenberg 1860"
+short_title_de: "Ladung der Karolina Fridenberg 1860"
 full_title: "[Summons for Karolina Fridenberg to appear before the Civil Tribunal in Kalisz in the dispute of the colonists of the Staro-Łozińska and Nowo-Łozińska colonies settled in the Trąbczyn estate with Włodzimierz Mieczyński, owner of the same Trąbczyn, Słupca district]"
 full_title_de: "[Ladung der Karolina Fridenberg zum Erscheinen vor dem Zivilgericht in Kalisch im Streit der in den Gütern Trąbczyn angesiedelten Kolonisten der Kolonien Staro-Łozińska und Nowo-Łozińska mit Włodzimierz Mieczyński, dem Besitzer desselben Trąbczyn, Kreis Słupca]"
 original_title: "[Pozew dla Karoliny Fridenberg stawienia się przed Trybunałem Cywilnym w Kaliszu w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej w dobrach Trąbczyn osiadłych z Włodzimierzem Mieczyńskim, właścicielem tegoż Trąbczyna, pow słupski]"
