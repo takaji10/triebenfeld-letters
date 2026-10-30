@@ -12,16 +12,7 @@ location:
   precision: identified
   lat: 52.11667
   lon: 18.0
-text_en: Village east of Stanisławów. Szetlewek, or *Szetlewo Kątne*[^76] was first
-  pawned (used as a collateral for a loan) to Jan Goliński. Later in 1671, the property
-  was fully sold to Goliński by the heirs of former owner Martin Strzałkowski. It
-  eventually descended by hereditary succession to Krzysztof Prusimski and his wife
-  Teresa Łoś-Golińska, as well as Łoś-Golińska’s mother Konstancja Krusińska and her
-  husband Marcin Katowski.[^77] Mentioned as *Szetlewko* in a 1685 marriage record
-  from Trąbczyn Catholic parish metrical records.[^78] Sebastjan Szetlewicz from Szetlewko
-  was mentioned in Kalisz municipal court records from 1727.[^79] *Szetlewka* (von
-  Pfau 1770); *Szelkowek* (Trąbczyn 1790); *Szedlewek* (Gilly 1802). The Słownik geograficzny
-  records the settlement.[^80]
+text_en: Village east of Stanisławów. Szetlewek, or *Szetlewo Kątne*[^76] was first pawned (used as a collateral for a loan) to Jan Goliński. Later in 1671, the property was fully sold to Goliński by the heirs of former owner Martin Strzałkowski. It eventually descended by hereditary succession to Krzysztof Prusimski and his wife Teresa Łoś-Golińska, as well as Łoś-Golińska’s mother Konstancja Krusińska and her husband Marcin Katowski.[^77] Mentioned as *Szetlewko* in a 1685 marriage record from Trąbczyn Catholic parish metrical records.[^78] Sebastjan Szetlewicz from Szetlewko was mentioned in Kalisz municipal court records from 1727.[^79] *Szetlewka* (von Pfau 1770); *Szelkowek* (Trąbczyn 1790); *Szedlewek* (Gilly 1802). The Słownik geograficzny records the settlement.[^80]
 names:
 - form: Szetlewek
   year: null
@@ -42,6 +33,10 @@ maps:
 - map: gilly1802
   form: Szedlewek
   note: null
+- map: kozlowski1861
+  form: Szetlewek
+  note: null
+  label: kozlowski1861-030
 footnotes:
 - n: 76
   text: “Relationes [protocollon],” 1786, 163v

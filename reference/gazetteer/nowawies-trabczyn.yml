@@ -12,9 +12,7 @@ location:
   precision: identified
   lat: 52.302197
   lon: 18.015281
-text_en: Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical
-  records from Trąbczyn parish.[^53] According to a court document from 1775, Nowa
-  Wieś was also known as *Trąbczyn Mały*.[^54]
+text_en: Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical records from Trąbczyn parish.[^53] According to a court document from 1775, Nowa Wieś was also known as *Trąbczyn Mały*.[^54]
 names:
 - form: Nowa Wieś
   year: null
@@ -30,7 +28,11 @@ names:
   footnote: 54
 aliases:
 - Trąbczyn Mały
-maps: []
+maps:
+- map: kozlowski1861
+  form: Nowa Wieś
+  note: null
+  label: kozlowski1861-037
 footnotes:
 - n: 53
   text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334'
@@ -41,8 +43,7 @@ footnotes:
     status: missing
   note: null
 - n: 54
-  text: “Trąbczynkiem małym, czyli nowa Wsią nazwaną” (“Relationes-oblatae [protocollon],”
-    1776, 656)
+  text: “Trąbczynkiem małym, czyli nowa Wsią nazwaną” (“Relationes-oblatae [protocollon],” 1776, 656)
   refs:
   - source: konin-gr145
     locator: '656'

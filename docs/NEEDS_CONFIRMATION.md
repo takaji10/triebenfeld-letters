@@ -323,6 +323,31 @@ repository; they are on the working machine.
     74, 75, 76 and 78, and "Map 26, Tab. 26"), which seem to be the figures of the
     editor's book. On the site they point nowhere: keep, drop, or replace
     with the map once it is in?
+  - **Kozłowski 1861, marked 2026-10-30** (`maps/kozlowski1861/notes.md`;
+    31 labels). Points for the editor:
+    - *The six* **okręg** *labels* (Osiny, Grabina, Garbinck, Studzienka,
+      Wypalanki, Noga) are marked as new places, each "part of" the
+      Włodzimirów or Wielki-Bór precinct. The entries of the two precincts
+      already name Osiny, Grabina, Garbinck, Studzienka and Wypalanki as
+      their districts in the text. Entries of their own, or appearances
+      under the precincts? *Noga Okręg* has the note "Part of Wielki-Bór
+      **Okręg**": a slip for Obręb?
+    - *Czerwonka* and *Nowa Wieś* (Trąbczyn): the marks land 15.9 and 18.5
+      km from the entries' coordinates, while the other ten identified
+      places land within 40 to 480 m. Both marks sit among the estate's
+      other names on the plan, so the entries' coordinates are what need
+      checking (for Nowa Wieś, perhaps another village of the name; the
+      Czerwonka entry itself says the Grabina/Czerwonka places differ on
+      modern maps).
+    - *Grabina* (label 067) is "erroneously placed southwest of the actual
+      location" in the editor's note; kept as `unsure`.
+    - *The gazetteer's map forms* for the ten entries that had none
+      (Czerwonka, Garbin, Laski, Maradz, Noga, Przycierz, Trzcianne, Wielki-Bór
+      Obręb, Włodzimirów Obręb, Zwierzyniec) are left empty; the labels
+      carry the forms as typed.
+    - *Not in the gazetteer yet:* the map's other names (Michalinów and
+      Łazińskie are marked; the many field names and the farm numbers are
+      not).
 
 
 

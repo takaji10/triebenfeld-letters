@@ -12,15 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Olęder settlement which existed south of Łazy. Created after the amalgamation
-  of Trąbczyńskie Stare Olędry and Trąbczyńskie Nowe Olędry. First mentioned in Trąbczyn
-  Catholic parish metrical records in 1822. At some point in the later half of the
-  20th century, Łazińskie Olędry was separated into the villages of Łazińsk Pierwszy
-  (the area which contained Trąbczyńskie Stare Olędry) and Łazińsk Drugi (the area
-  which contained Trąbczyńskie Nowe Olędry). *Lazinskie Hol.* (Reymann 1834); *Hol.
-  Lazinskie* (location erroneously switched with *Michalinów Olędry*) (Richter 1843);
-  *Łazinskie [Kolonie]* (Kozłowski 1861); *Łazińska Kolonja* (Messtischblatt 1940
-  and Fig. 75).
+text_en: Olęder settlement which existed south of Łazy. Created after the amalgamation of Trąbczyńskie Stare Olędry and Trąbczyńskie Nowe Olędry. First mentioned in Trąbczyn Catholic parish metrical records in 1822. At some point in the later half of the 20th century, Łazińskie Olędry was separated into the villages of Łazińsk Pierwszy (the area which contained Trąbczyńskie Stare Olędry) and Łazińsk Drugi (the area which contained Trąbczyńskie Nowe Olędry). *Lazinskie Hol.* (Reymann 1834); *Hol. Lazinskie* (location erroneously switched with *Michalinów Olędry*) (Richter 1843); *Łazinskie [Kolonie]* (Kozłowski 1861); *Łazińska Kolonja* (Messtischblatt 1940 and Fig. 75).
 names:
 - form: Łazińskie Olędry
   year: null
@@ -47,11 +39,11 @@ maps:
 - map: kozlowski1861
   form: Łazinskie [Kolonie]
   note: null
+  label: kozlowski1861-011
 - map: messtischblatt1940
   form: Łazińska Kolonja
   note: null
 footnotes: []
 review:
-- 'maps: more than one italic form in the clause of Richter 1843 (Hol. Lazinskie;
-  Michalinów Olędry)'
+- 'maps: more than one italic form in the clause of Richter 1843 (Hol. Lazinskie; Michalinów Olędry)'
 - 'figure: refers to a figure of the editor''s book: Fig. 75'

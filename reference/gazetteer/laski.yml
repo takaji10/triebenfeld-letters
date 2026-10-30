@@ -10,8 +10,7 @@ location:
   relative_to: trabczyn
   belongs_to: null
   precision: described
-text_en: Folwark which existed west of Trąbczyn. Only one map noted this feature (Kozłowski
-  1861).
+text_en: Folwark which existed west of Trąbczyn. Only one map noted this feature (Kozłowski 1861).
 names:
 - form: Laski
   year: null
@@ -22,5 +21,6 @@ maps:
 - map: kozlowski1861
   form: null
   note: Only one map noted this feature
+  label: kozlowski1861-009
 footnotes: []
 review: []

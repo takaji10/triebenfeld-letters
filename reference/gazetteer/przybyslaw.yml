@@ -12,9 +12,7 @@ location:
   precision: identified
   lat: 52.131944
   lon: 17.9425
-text_en: Hamlet south of and belonging to Nowa Wieś. First mentioned in an 1813 birth
-  record from Trąbczyn Catholic parish metrical records.[^63] Appeared as a folwark
-  on Richter 1843; similarly on Pełzucki 1901.
+text_en: Hamlet south of and belonging to Nowa Wieś. First mentioned in an 1813 birth record from Trąbczyn Catholic parish metrical records.[^63] Appeared as a folwark on Richter 1843; similarly on Pełzucki 1901.
 names:
 - form: Przybysław
   year: null
@@ -28,10 +26,13 @@ maps:
 - map: pelzucki1901
   form: null
   note: similarly on
+- map: kozlowski1861
+  form: Przybysław
+  note: null
+  label: kozlowski1861-041
 footnotes:
 - n: 63
-  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1813/#39 Page
-    142/Image 324'
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1813/#39 Page 142/Image 324'
   refs:
   - source: trabczyn-births-1808-1825
     locator: 1813/#39 Page 142/Image 324

@@ -12,9 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Historical forest precinct which existed southwest of Łazińsk Pierwszy. The
-  precinct included the districts (Pl. *okręg*) of *Studienka,* and *Wypalanki*. Only
-  one map noted this feature (Kozłowski 1861).
+text_en: Historical forest precinct which existed southwest of Łazińsk Pierwszy. The precinct included the districts (Pl. *okręg*) of *Studienka,* and *Wypalanki*. Only one map noted this feature (Kozłowski 1861).
 names:
 - form: Wielki-Bór Obręb
   year: null
@@ -25,5 +23,6 @@ maps:
 - map: kozlowski1861
   form: null
   note: Only one map noted this feature
+  label: kozlowski1861-023
 footnotes: []
 review: []

@@ -3906,3 +3906,22 @@ footer on every page. Changed, in both languages:
   text, English or original by the buttons; no account, no "Published" line, no
   folded details; the translation's caveat shows with the English text. The
   list page's cards match the Sources cards. Verified: build, `verify_site.py`.
+
+## 2026-10-30: Kozłowski 1861, the second map (not published)
+
+- **Brought in at the editor's word** by `docs/ADDING_A_MAP.md`: the plan of
+  the Trąbczyn estate drawn in 1861 by Seweryn Kozłowski, APP
+  1/402/0/-/536-23, north-up, scale 1:20 000. The original is the archive's
+  JPG (15,757 x 12,140), the image the editor georeferenced on MapWarper
+  (70818). Tiles in triebenfeld-maps/kozlowski1861 (1,003 files, 43 MB); four
+  control points, fit RMS 5.8 m.
+- **31 labels** imported from `labels_kozlowski1861_20261030-1620.json`: 25
+  linked to gazetteer places (12 new map appearances added), six forest
+  districts (okręg) marked as new places, to be ruled (NEEDS_CONFIRMATION).
+  Two entries' coordinates (Czerwonka, Nowa Wieś) are 16 and 18 km from their
+  marks. `in_project: true`; card, thumbnail and page in both languages;
+  Jekyll build and `verify_site.py` pass.
+- **Scales**: maps now carry a `scale` (register, map page, "Scale" /
+  "Maßstab"), put in as it is known (the editor's word); ADDING_A_MAP says so.
+- Tiles' first Pages deployment failed (GitHub 500) and was rebuilt by an
+  empty commit; a stale local server held port 8765.

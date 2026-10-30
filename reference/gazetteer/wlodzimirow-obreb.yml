@@ -12,10 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Historical forest precinct which existed east of Włodzimirów. The precinct
-  included the districts (*okręg*) of *Grabina* (north of Grabina), *Garbinck* (northwest
-  of Stanisławów), and *Osiny* (southwest of Osiny). Only one map noted this feature
-  (Kozłowski 1861).
+text_en: Historical forest precinct which existed east of Włodzimirów. The precinct included the districts (*okręg*) of *Grabina* (north of Grabina), *Garbinck* (northwest of Stanisławów), and *Osiny* (southwest of Osiny). Only one map noted this feature (Kozłowski 1861).
 names:
 - form: Włodzimirow Obręb
   year: null
@@ -26,5 +23,6 @@ maps:
 - map: kozlowski1861
   form: null
   note: Only one map noted this feature
+  label: kozlowski1861-025
 footnotes: []
 review: []

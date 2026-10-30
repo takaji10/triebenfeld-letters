@@ -12,12 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Locale which existed south of Łomów. First mentioned as a forest in a 1775
-  border commission report which stated that *Trąbczyńskie Stare Olędry* was established
-  on part of the Dziadulina forest on the Trąbczyn estate.[^17] Listed as a settlement
-  (Pl. *osada*) in the Geographical Dictionary of the Kingdom of Poland in 1881[^18]
-  and shown on Trójwiorstówki 1914 as *G[uta?] Diadolina*. *Dziadowy* (Gilly 1802);
-  as a forest called *Dziadulina* (Kozłowski 1861).
+text_en: Locale which existed south of Łomów. First mentioned as a forest in a 1775 border commission report which stated that *Trąbczyńskie Stare Olędry* was established on part of the Dziadulina forest on the Trąbczyn estate.[^17] Listed as a settlement (Pl. *osada*) in the Geographical Dictionary of the Kingdom of Poland in 1881[^18] and shown on Trójwiorstówki 1914 as *G[uta?] Diadolina*. *Dziadowy* (Gilly 1802); as a forest called *Dziadulina* (Kozłowski 1861).
 names:
 - form: Dziadolina
   year: null
@@ -27,14 +22,14 @@ aliases: []
 maps:
 - map: trojwiorstowki1914
   form: osada
-  note: Listed as a settlement (Pl. ) in the Geographical Dictionary of the Kingdom
-    of Poland in 1881 and shown on
+  note: Listed as a settlement (Pl. ) in the Geographical Dictionary of the Kingdom of Poland in 1881 and shown on
 - map: gilly1802
   form: Dziadowy
   note: null
 - map: kozlowski1861
   form: Dziadulina
   note: as a forest called
+  label: kozlowski1861-005
 footnotes:
 - n: 17
   text: “Relationes-oblatae [protocollon],” 1776, 692

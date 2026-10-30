@@ -12,13 +12,7 @@ location:
   precision: identified
   lat: 52.125616
   lon: 17.947475
-text_en: Village south of Trąbczyn. According to Breyer, *Łazy* referred to a cleared
-  marshy area (Ger. *Brücher*).[^36] Mentioned at least as early as 1597 in metrical
-  records from Trąbczyn Catholic parish.[^37] In 1791, Łazy was inhabited by 48 people
-  of Catholic faith.[^38] Chodyła claimed that the village of Łazy changed its legal
-  status at some point to an Olędry[^39] on account of a Prussian register of houses
-  and population from 1797 which listed the settlement as “*Łazy Haul[endry]*” with
-  42 inhabitants.[^40] *Lase* (von Pfau 1770); *Lasy* (Trąbczyn 1790).
+text_en: Village south of Trąbczyn. According to Breyer, *Łazy* referred to a cleared marshy area (Ger. *Brücher*).[^36] Mentioned at least as early as 1597 in metrical records from Trąbczyn Catholic parish.[^37] In 1791, Łazy was inhabited by 48 people of Catholic faith.[^38] Chodyła claimed that the village of Łazy changed its legal status at some point to an Olędry[^39] on account of a Prussian register of houses and population from 1797 which listed the settlement as “*Łazy Haul[endry]*” with 42 inhabitants.[^40] *Lase* (von Pfau 1770); *Lasy* (Trąbczyn 1790).
 names:
 - form: Łazy
   year: null
@@ -32,6 +26,10 @@ maps:
 - map: trabczyn1790
   form: Lasy
   note: null
+- map: kozlowski1861
+  form: Łazy
+  note: null
+  label: kozlowski1861-043
 footnotes:
 - n: 36
   text: Breyer, "Deutsche Gaue in Mittelpolen," 39

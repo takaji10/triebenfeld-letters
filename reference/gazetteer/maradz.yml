@@ -12,8 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Forest southwest of Stanisławów. Appeared as a forest (Kozłowski 1861) and
-  as a settlement (Messtischblatt 1940).
+text_en: Forest southwest of Stanisławów. Appeared as a forest (Kozłowski 1861) and as a settlement (Messtischblatt 1940).
 names:
 - form: Maradz
   year: null
@@ -24,6 +23,7 @@ maps:
 - map: kozlowski1861
   form: null
   note: Appeared as a forest
+  label: kozlowski1861-013
 - map: messtischblatt1940
   form: null
   note: Appeared as a forest (Kozłowski 1861) and as a settlement

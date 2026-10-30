@@ -191,13 +191,16 @@ czerwonka:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Appeared as a folwark
-    label: null
-    crop: null
+    label: kozlowski1861-003
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-003.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-003
 dluga-gorka:
   appearances:
   - map: gilly1802
@@ -257,11 +260,11 @@ dziadolina:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: Dziadulina
     note: as a forest called
-    label: null
-    crop: null
+    label: kozlowski1861-005
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-005.jpg
     refs: []
   - map: trojwiorstowki1914
     cited_as: Trójwiorstówki 1914
@@ -273,19 +276,25 @@ dziadolina:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-005
 garbin:
   appearances:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature, as a field
-    label: null
-    crop: null
+    label: kozlowski1861-007
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-007.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-007
 glinianki:
   appearances:
   - map: pelzucki1896
@@ -309,7 +318,19 @@ grabina:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Grabina
+    note: null
+    label: kozlowski1861-067
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-067.jpg
+    refs: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-067
 gradzen-las:
   appearances:
   - map: messtischblatt1940
@@ -444,6 +465,15 @@ huta-trabczynska:
     label: null
     crop: null
     refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Huta
+    note: null
+    label: kozlowski1861-053
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-053.jpg
+    refs: []
   - map: messtischblatt1940
     cited_as: Messtischblatt 1940
     year: 1940
@@ -453,7 +483,10 @@ huta-trabczynska:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-053
 imielanka:
   appearances:
   - map: richter1843
@@ -702,13 +735,16 @@ laski:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: kozlowski1861-009
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-009.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-009
 lazinskie-oledry:
   appearances:
   - map: reymann1834
@@ -732,11 +768,11 @@ lazinskie-oledry:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: Łazinskie [Kolonie]
     note: null
-    label: null
-    crop: null
+    label: kozlowski1861-011
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-011.jpg
     refs: []
   - map: messtischblatt1940
     cited_as: Messtischblatt 1940
@@ -747,7 +783,10 @@ lazinskie-oledry:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-011
 lazy-trabczyn:
   appearances:
   - map: vonpfau1770
@@ -768,7 +807,19 @@ lazy-trabczyn:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Łazy
+    note: null
+    label: kozlowski1861-043
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-043.jpg
+    refs: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-043
 lomow:
   appearances:
   - map: lukom1766
@@ -936,11 +987,11 @@ maradz:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Appeared as a forest
-    label: null
-    crop: null
+    label: kozlowski1861-013
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-013.jpg
     refs: []
   - map: messtischblatt1940
     cited_as: Messtischblatt 1940
@@ -951,7 +1002,10 @@ maradz:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-013
 mariantow:
   appearances:
   - map: gilly1802
@@ -963,7 +1017,19 @@ mariantow:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Maryantów
+    note: null
+    label: kozlowski1861-065
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-065.jpg
+    refs: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-065
 michalinow-oledry:
   appearances:
   - map: slupetsk1800
@@ -996,11 +1062,11 @@ michalinow-oledry:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: '[Kolonia]'
     note: null
-    label: null
-    crop: null
+    label: kozlowski1861-015
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-015.jpg
     refs: []
   - map: messtischblatt1940
     cited_as: Messtischblatt 1940
@@ -1011,7 +1077,10 @@ michalinow-oledry:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-015
 michalinow-olesnicki:
   appearances:
   - map: reymann1834
@@ -1083,13 +1152,31 @@ noga:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: kozlowski1861-017
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-017.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-017
+nowawies-trabczyn:
+  appearances:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Nowa Wieś
+    note: null
+    label: kozlowski1861-037
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-037.jpg
+    refs: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-037
 olchowo:
   appearances:
   - map: reymann1834
@@ -1164,7 +1251,19 @@ osiny:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Osiny
+    note: null
+    label: kozlowski1861-039
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-039.jpg
+    refs: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-039
 ostrowiec:
   appearances:
   - map: weydner1804
@@ -1189,6 +1288,21 @@ podbiel:
     crop: null
     refs: []
   maps_on_site: []
+porabki:
+  appearances:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Porąbki
+    note: null
+    label: kozlowski1861-034
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-034.jpg
+    refs: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-034
 przybyslaw:
   appearances:
   - map: richter1843
@@ -1200,6 +1314,15 @@ przybyslaw:
     label: null
     crop: null
     refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Przybysław
+    note: null
+    label: kozlowski1861-041
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-041.jpg
+    refs: []
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
@@ -1209,19 +1332,25 @@ przybyslaw:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-041
 przycierz:
   appearances:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: kozlowski1861-019
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-019.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-019
 rosciszewo:
   appearances:
   - map: lukom1766
@@ -1356,6 +1485,15 @@ smoleniec:
   maps_on_site: []
 stanislawow:
   appearances:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Stanisławów
+    note: null
+    label: kozlowski1861-032
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-032.jpg
+    refs: []
   - map: wreschen1901
     cited_as: Wreschen 1901
     year: 1901
@@ -1374,7 +1512,10 @@ stanislawow:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-032
 stawisko:
   appearances:
   - map: lukom1766
@@ -1465,7 +1606,19 @@ szetlewek:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Szetlewek
+    note: null
+    label: kozlowski1861-030
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-030.jpg
+    refs: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-030
 tarczewo:
   appearances:
   - map: reymann1834
@@ -1546,6 +1699,15 @@ trabczyn:
     label: null
     crop: null
     refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Trąbczyn
+    note: null
+    label: kozlowski1861-045
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-045.jpg
+    refs: []
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
@@ -1564,7 +1726,10 @@ trabczyn:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-045
 trabczyn-dworski:
   appearances:
   - map: richter1843
@@ -1657,25 +1822,31 @@ trzcianne:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: kozlowski1861-021
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-021.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-021
 wielki-bor-obreb:
   appearances:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: kozlowski1861-023
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-023.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-023
 wincentowo:
   appearances:
   - map: wig1933
@@ -1708,6 +1879,15 @@ wlodzimirow:
     label: null
     crop: null
     refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Włodzimirów
+    note: null
+    label: kozlowski1861-059
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-059.jpg
+    refs: []
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
@@ -1717,19 +1897,25 @@ wlodzimirow:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-059
 wlodzimirow-obreb:
   appearances:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: kozlowski1861-025
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-025.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-025
 wrabczyn:
   appearances:
   - map: vonpfau1770
@@ -1903,10 +2089,13 @@ zwierzyniec:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: kozlowski1861-027
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-027.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    label: kozlowski1861-027

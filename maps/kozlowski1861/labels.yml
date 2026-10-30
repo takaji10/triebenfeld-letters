@@ -1,0 +1,382 @@
+# The editor's marks on the map kozlowski1861, from the labelling page, imported from
+# labels_kozlowski1861_20261030-1620.json on 2026-10-30 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: kozlowski1861
+width: 15757
+height: 12140
+saved: '2026-10-30T15:20:09.106Z'
+labels:
+- id: kozlowski1861-003
+  place: czerwonka
+  new_place: null
+  form: Czerwonka
+  point: [8464, 6263]
+  trace:
+  - [8137, 6307]
+  - [8433, 6306]
+  - [8433, 6307]
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+- id: kozlowski1861-005
+  place: dziadolina
+  new_place: null
+  form: Dziadulina
+  point: [1993, 7747]
+  trace:
+  - [1827, 7761]
+  - [2197, 7764]
+  height: 80
+  shows: forest
+  note: null
+  refs: null
+- id: kozlowski1861-007
+  place: garbin
+  new_place: null
+  form: Garbin
+  point: [8764, 6431]
+  trace:
+  - [8667, 6461]
+  - [8884, 6456]
+  height: 80
+  shows: field
+  note: null
+  refs: null
+- id: kozlowski1861-009
+  place: laski
+  new_place: null
+  form: Laski
+  point: [7761, 3080]
+  trace:
+  - [7686, 3104]
+  - [7859, 3095]
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+- id: kozlowski1861-011
+  place: lazinskie-oledry
+  new_place: null
+  form: Łazinskie [Kolonie]
+  point: [3879, 7848]
+  trace:
+  - [3598, 7450]
+  - [4265, 7447]
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+- id: kozlowski1861-013
+  place: maradz
+  new_place: null
+  form: Maradz
+  point: [9202, 7359]
+  trace:
+  - [8987, 7419]
+  - [9438, 7411]
+  height: 120
+  shows: forest
+  note: null
+  refs: null
+- id: kozlowski1861-015
+  place: michalinow-oledry
+  new_place: null
+  form: '[Kolonia]'
+  point: [6908, 6809]
+  trace:
+  - [6624, 6249]
+  - [7383, 6246]
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+- id: kozlowski1861-017
+  place: noga
+  new_place: null
+  form: Noga
+  point: [5517, 7433]
+  trace:
+  - [5351, 7494]
+  - [5575, 7494]
+  height: 140
+  shows: forest
+  note: null
+  refs: null
+- id: kozlowski1861-019
+  place: przycierz
+  new_place: null
+  form: Przycierz
+  point: [9921, 2589]
+  trace:
+  - [9774, 2542]
+  - [10100, 2539]
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+- id: kozlowski1861-021
+  place: trzcianne
+  new_place: null
+  form: Trzcianne
+  point: [5489, 4353]
+  trace:
+  - [5368, 4393]
+  - [5666, 4384]
+  height: 80
+  shows: field
+  note: null
+  refs: null
+- id: kozlowski1861-023
+  place: wielki-bor-obreb
+  new_place: null
+  form: Wielki-Bór Obręb
+  point: [2774, 9833]
+  trace:
+  - [2491, 9576]
+  - [3499, 9572]
+  height: 120
+  shows: forest
+  note: null
+  refs: null
+- id: kozlowski1861-025
+  place: wlodzimirow-obreb
+  new_place: null
+  form: Włodzimirow Obręb
+  point: [4741, 5289]
+  trace:
+  - [4317, 4936]
+  - [5320, 4930]
+  height: 80
+  shows: forest
+  note: null
+  refs: null
+- id: kozlowski1861-027
+  place: zwierzyniec
+  new_place: null
+  form: Zwierzyniec
+  point: [11408, 5547]
+  trace:
+  - [11227, 5476]
+  - [11556, 5477]
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+- id: kozlowski1861-030
+  place: szetlewek
+  new_place: null
+  form: Szetlewek
+  point: [11601, 5957]
+  trace:
+  - [11674, 5938]
+  - [12109, 5920]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+- id: kozlowski1861-032
+  place: stanislawow
+  new_place: null
+  form: Stanisławów
+  point: [10308, 6476]
+  trace:
+  - [10510, 6568]
+  - [10956, 6554]
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+- id: kozlowski1861-034
+  place: porabki
+  new_place: null
+  form: Porąbki
+  point: [8205, 5081]
+  trace:
+  - [8245, 5071]
+  - [8455, 5066]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+- id: kozlowski1861-037
+  place: nowawies-trabczyn
+  new_place: null
+  form: Nowa Wieś
+  point: [6420, 2822]
+  trace:
+  - [6479, 2761]
+  - [6859, 2752]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+- id: kozlowski1861-039
+  place: osiny
+  new_place: null
+  form: Osiny
+  point: [5992, 5026]
+  trace:
+  - [5758, 4887]
+  - [5974, 4887]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+- id: kozlowski1861-041
+  place: przybyslaw
+  new_place: null
+  form: Przybysław
+  point: [7012, 4417]
+  trace:
+  - [7173, 4465]
+  - [7554, 4461]
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+- id: kozlowski1861-043
+  place: lazy-trabczyn
+  new_place: null
+  form: Łazy
+  point: [7623, 5114]
+  trace:
+  - [7685, 5039]
+  - [7872, 5035]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+- id: kozlowski1861-045
+  place: trabczyn
+  new_place: null
+  form: Trąbczyn
+  point: [8588, 2998]
+  trace:
+  - [8185, 3339]
+  - [8635, 3339]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+- id: kozlowski1861-049
+  place: null
+  new_place: Osiny Okręg
+  form: Osiny Okręg
+  point: [5076, 6029]
+  trace:
+  - [4978, 5858]
+  - [5499, 5858]
+  height: 120
+  shows: forest
+  note: Part of Włodzimirów Obręb.
+  refs: null
+- id: kozlowski1861-051
+  place: null
+  new_place: Grabina Okręg
+  form: Grabina Okręg
+  point: [4232, 5354]
+  trace:
+  - [3988, 5254]
+  - [4463, 5259]
+  height: 80
+  shows: forest
+  note: Part of Włodzimirów Obręb.
+  refs: null
+- id: kozlowski1861-053
+  place: huta-trabczynska
+  new_place: null
+  form: Huta
+  point: [6536, 7888]
+  trace:
+  - [6202, 8121]
+  - [6517, 8121]
+  height: 120
+  shows: oleder-settlement
+  note: null
+  refs: null
+- id: kozlowski1861-055
+  place: null
+  new_place: Studzienka Okręg
+  form: Studzienka Okręg
+  point: [1930, 9881]
+  trace:
+  - [1645, 9711]
+  - [2355, 9703]
+  height: 80
+  shows: forest
+  note: Part of Wielki-Bór Obręb.
+  refs: null
+- id: kozlowski1861-057
+  place: null
+  new_place: Wypalanki Okręg
+  form: Wypalanki Okręg
+  point: [3566, 10046]
+  trace:
+  - [3417, 9711]
+  - [4116, 9695]
+  height: 100
+  shows: forest
+  note: Part of Wielki-Bór Obręb.
+  refs: null
+- id: kozlowski1861-059
+  place: wlodzimirow
+  new_place: null
+  form: Włodzimirów
+  point: [3820, 5660]
+  trace:
+  - [3317, 5729]
+  - [3767, 5723]
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+- id: kozlowski1861-061
+  place: null
+  new_place: Noga Okręg
+  form: Noga Okręg
+  point: [7133, 9445]
+  trace:
+  - [6828, 9391]
+  - [7299, 9378]
+  height: 120
+  shows: forest
+  note: Part of Wielki-Bór Okręg.
+  refs: null
+- id: kozlowski1861-063
+  place: null
+  new_place: Garbinck Okręg
+  form: Garbinck Okręg
+  point: [9441, 5926]
+  trace:
+  - [9168, 6030]
+  - [9889, 6026]
+  height: 120
+  shows: forest
+  note: Part of Włodzimirów Obręb.
+  refs: null
+- id: kozlowski1861-065
+  place: mariantow
+  new_place: null
+  form: Maryantów
+  point: [9419, 4479]
+  trace:
+  - [9655, 4357]
+  - [10078, 4355]
+  height: 100
+  shows: village
+  note: null
+  refs: null
+- id: kozlowski1861-067
+  place: grabina
+  new_place: null
+  form: Grabina
+  point: [4742, 6846]
+  trace:
+  - [4808, 6885]
+  - [5063, 6882]
+  height: 80
+  shows: unsure
+  note: Erroneously placed southwest of the actual location.
+  refs: null

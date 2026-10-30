@@ -12,14 +12,7 @@ location:
   precision: identified
   lat: 52.119801
   lon: 17.932797
-text_en: Village southwest of Łazy. Michalinów Trąbczyński was first mentioned as
-  *Cholędry Michalinowo* in a 1809 birth record from Trąbczyn Catholic parish metrical
-  records.[^48] Possibly named after Michalina Prusimska (1778-1851), who was owner
-  of the Trąbczyn estate in the first half of the 19th century. In the 20th century,
-  Michalinów Olędry became known as Michalinów Trąbczyński. *Michalinowo* (Colberg
-  1827); *Hol. Michalinowo* (with its location erroneously switched with Łazińskie
-  Olędry on Richter 1843 and Slupetsk 1800); *[Kolonia]* *Michalinow* (Kozłowski 1861);
-  *Michalinów* (Messtischblatt 1940).
+text_en: Village southwest of Łazy. Michalinów Trąbczyński was first mentioned as *Cholędry Michalinowo* in a 1809 birth record from Trąbczyn Catholic parish metrical records.[^48] Possibly named after Michalina Prusimska (1778-1851), who was owner of the Trąbczyn estate in the first half of the 19th century. In the 20th century, Michalinów Olędry became known as Michalinów Trąbczyński. *Michalinowo* (Colberg 1827); *Hol. Michalinowo* (with its location erroneously switched with Łazińskie Olędry on Richter 1843 and Slupetsk 1800); *[Kolonia]* *Michalinow* (Kozłowski 1861); *Michalinów* (Messtischblatt 1940).
 names:
 - form: Michalinów Trąbczyński
   year: null
@@ -44,18 +37,17 @@ maps:
   note: with its location erroneously switched with Łazińskie Olędry on
 - map: slupetsk1800
   form: Hol. Michalinowo
-  note: with its location erroneously switched with Łazińskie Olędry on Richter 1843
-    and
+  note: with its location erroneously switched with Łazińskie Olędry on Richter 1843 and
 - map: kozlowski1861
   form: '[Kolonia]'
   note: null
+  label: kozlowski1861-015
 - map: messtischblatt1940
   form: Michalinów
   note: null
 footnotes:
 - n: 48
-  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, Page 45/Image
-    264'
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, Page 45/Image 264'
   refs:
   - source: trabczyn-births-1808-1825
     locator: Page 45/Image 264

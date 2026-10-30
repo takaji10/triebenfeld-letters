@@ -12,9 +12,7 @@ location:
   precision: identified
   lat: 52.130278
   lon: 17.966944
-text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a
-  watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski
-  records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]
+text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]
 names:
 - form: Mariantów
   year: null
@@ -32,8 +30,11 @@ aliases: []
 maps:
 - map: gilly1802
   form: Eisenhammer
-  note: A wrought iron workshop (Ger. ) and a watermill were located in the same vicinity
-    on
+  note: A wrought iron workshop (Ger. ) and a watermill were located in the same vicinity on
+- map: kozlowski1861
+  form: Maryantów
+  note: null
+  label: kozlowski1861-065
 footnotes:
 - n: 1
   text: Nazwy miejscowe Polski, t. 6, p. 524

@@ -10,8 +10,7 @@ location:
   relative_to: osiny
   belongs_to: null
   precision: described
-text_en: Field which existed north of Osiny. Only one map noted this feature (Kozłowski
-  1861).
+text_en: Field which existed north of Osiny. Only one map noted this feature (Kozłowski 1861).
 names:
 - form: Trzcianne
   year: null
@@ -22,5 +21,6 @@ maps:
 - map: kozlowski1861
   form: null
   note: Only one map noted this feature
+  label: kozlowski1861-021
 footnotes: []
 review: []

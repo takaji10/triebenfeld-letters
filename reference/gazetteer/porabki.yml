@@ -12,20 +12,21 @@ location:
   precision: identified
   lat: 52.126214
   lon: 17.95998
-text_en: Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record
-  from Trąbczyn Catholic parish metrical records.[^60] The Słownik geograficzny records
-  the settlement.[^61]
+text_en: Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record from Trąbczyn Catholic parish metrical records.[^60] The Słownik geograficzny records the settlement.[^61]
 names:
 - form: Porąbki
   year: null
   note: heading
   footnote: null
 aliases: []
-maps: []
+maps:
+- map: kozlowski1861
+  form: Porąbki
+  note: null
+  label: kozlowski1861-034
 footnotes:
 - n: 60
-  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764*
-    Page 241/Image 273'
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 241/Image 273'
   refs:
   - source: trabczyn-births-1691-1784
     locator: Page 241/Image 273

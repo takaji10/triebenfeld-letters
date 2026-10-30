@@ -135,7 +135,7 @@ maps:
     crop: null          # [left, top, width, height] in original pixels; null for the whole map
     mapwarper: 70818
     tiles: "https://takaji10.github.io/triebenfeld-maps/kozlowski1861/info.json"
-    in_project: false   # true once its tiles are published
+    in_project: true    # tiles published, marks imported (2026-10-30)
   pelzucki1896:
     cited_as: "Pełzucki 1896"
     year: 1896

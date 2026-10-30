@@ -10,8 +10,7 @@ location:
   relative_to: szetlewek
   belongs_to: null
   precision: described
-text_en: Folwark which existed east of Szetlewek. Only one map noted this feature
-  (Kozłowski 1861).
+text_en: Folwark which existed east of Szetlewek. Only one map noted this feature (Kozłowski 1861).
 names:
 - form: Zwierzyniec
   year: null
@@ -22,5 +21,6 @@ maps:
 - map: kozlowski1861
   form: null
   note: Only one map noted this feature
+  label: kozlowski1861-027
 footnotes: []
 review: []
