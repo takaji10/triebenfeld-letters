@@ -1,0 +1,54 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml. Rows with `from: mapwarper` are replaced on every fetch;
+# any other rows are kept. `fit:` is written by pipeline/maps/georef.py.
+map: kozlowski1861
+mapwarper: 70818
+fetched: '2026-10-30'
+mapwarper_title: Trąbczyn Estate, 1861
+source_uri: ''
+bbox: 17.8536851,52.0716982,18.0478591,52.1643937
+width: 15757
+height: 12140
+gcps:
+- id: mw653246
+  x: 8786.27
+  y: 2991.62
+  lon: 17.9617452614
+  lat: 52.1413637396
+  error_mapwarper: 8.3
+  from: mapwarper
+- id: mw653247
+  x: 11556.47
+  y: 5897.49
+  lon: 17.9959058754
+  lat: 52.1195045826
+  error_mapwarper: 0.5
+  from: mapwarper
+- id: mw653248
+  x: 1123.83
+  y: 10637.32
+  lon: 17.8681683533
+  lat: 52.0831125519
+  error_mapwarper: 2.9
+  from: mapwarper
+- id: mw653249
+  x: 6573.79
+  y: 4929.43
+  lon: 17.9346549504
+  lat: 52.1267175117
+  error_mapwarper: 10.6
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 4
+  rms_m: 5.77
+  inverse_rms_px: 6.9
+  residuals_m:
+    mw653246: 6.91
+    mw653247: 0.42
+    mw653248: 2.42
+    mw653249: 8.91

@@ -116,7 +116,25 @@ maps:
   kozlowski1861:
     cited_as: "Kozłowski 1861"
     year: 1861
-    in_project: false
+    kind: estate
+    # Brought in at the editor's word (2026-10-30); docs/ADDING_A_MAP.md.
+    title: "Plan zbiorowy dóbr Trąbczyna z przyległosciami dziedzicznych Jaśnie Wielmożnego Włodzimierza Hrabi Miączyńskiego w Gubernii Warszawskiej Powiecie Konińskim położonych Powierzył r 1861 i zrysował Seweryn Kozłowski Geometra Klassy I"
+    title_en: "Collective plan of the Trąbczyn estate in the Konin poviat (1861)"
+    maker: "Seweryn Kozłowski"
+    holder: "Archiwum Państwowe w Poznaniu (APP)"
+    reference: "1/402/0/-/536-23"
+    url: null           # the archive's link for the unit: not yet given
+    # The editor's copy is the archive's JPG, the very image georeferenced on
+    # MapWarper (70818, "Trąbczyn Estate, 1861"; same 15757 x 12140).
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Collective plan of the Trąbczyn estate in the Konin poviat (1861) (1.402.0.-.536 - 23)/1_402_0_0_536-23_0001.jpg'
+    width: 15757
+    height: 12140
+    crop: null          # [left, top, width, height] in original pixels; null for the whole map
+    mapwarper: 70818
+    tiles: "https://takaji10.github.io/triebenfeld-maps/kozlowski1861/info.json"
+    in_project: false   # true once its tiles are published
   pelzucki1896:
     cited_as: "Pełzucki 1896"
     year: 1896
