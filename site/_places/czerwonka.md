@@ -29,9 +29,9 @@ Hamlet south of and belonging to Łazy. The Geographical Dictionary of the Kingd
 
 <div class="place-map">
 <div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.805563%2C52.21528%2C17.845563%2C52.255280000000006&amp;layer=mapnik&amp;marker=52.23528%2C17.825563" title="Czerwonka" loading="lazy"></iframe>
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.937974%2C52.096602999999995%2C17.977974%2C52.136603&amp;layer=mapnik&amp;marker=52.116603%2C17.957974" title="Czerwonka" loading="lazy"></iframe>
 </div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.23528&amp;mlon=17.825563#map=15/52.23528/17.825563" rel="noopener">{{ t.map_link }}</a></p>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116603&amp;mlon=17.957974#map=15/52.116603/17.957974" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

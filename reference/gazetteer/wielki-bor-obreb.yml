@@ -24,5 +24,17 @@ maps:
   form: null
   note: Only one map noted this feature
   label: kozlowski1861-023
+- map: kozlowski1861
+  form: Studzienka Okręg
+  note: A district (okręg) of the precinct
+  label: kozlowski1861-055
+- map: kozlowski1861
+  form: Wypalanki Okręg
+  note: A district (okręg) of the precinct
+  label: kozlowski1861-057
+- map: kozlowski1861
+  form: Noga Okręg
+  note: A district (okręg) of the precinct
+  label: kozlowski1861-061
 footnotes: []
 review: []

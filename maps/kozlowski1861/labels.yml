@@ -1,5 +1,5 @@
 # The editor's marks on the map kozlowski1861, from the labelling page, imported from
-# labels_kozlowski1861_20261030-1620.json on 2026-10-30 by pipeline/maps/import_labels.py.
+# labels_kozlowski1861_20261030-1620-okreg.json on 2026-10-30 by pipeline/maps/import_labels.py.
 # The saved file is the editor's and wins; marks are in the pixels of the
 # original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
 map: kozlowski1861
@@ -261,8 +261,8 @@ labels:
   note: null
   refs: null
 - id: kozlowski1861-049
-  place: null
-  new_place: Osiny Okręg
+  place: wlodzimirow-obreb
+  new_place: null
   form: Osiny Okręg
   point: [5076, 6029]
   trace:
@@ -273,8 +273,8 @@ labels:
   note: Part of Włodzimirów Obręb.
   refs: null
 - id: kozlowski1861-051
-  place: null
-  new_place: Grabina Okręg
+  place: wlodzimirow-obreb
+  new_place: null
   form: Grabina Okręg
   point: [4232, 5354]
   trace:
@@ -297,8 +297,8 @@ labels:
   note: null
   refs: null
 - id: kozlowski1861-055
-  place: null
-  new_place: Studzienka Okręg
+  place: wielki-bor-obreb
+  new_place: null
   form: Studzienka Okręg
   point: [1930, 9881]
   trace:
@@ -309,8 +309,8 @@ labels:
   note: Part of Wielki-Bór Obręb.
   refs: null
 - id: kozlowski1861-057
-  place: null
-  new_place: Wypalanki Okręg
+  place: wielki-bor-obreb
+  new_place: null
   form: Wypalanki Okręg
   point: [3566, 10046]
   trace:
@@ -333,8 +333,8 @@ labels:
   note: null
   refs: null
 - id: kozlowski1861-061
-  place: null
-  new_place: Noga Okręg
+  place: wielki-bor-obreb
+  new_place: null
   form: Noga Okręg
   point: [7133, 9445]
   trace:
@@ -342,11 +342,11 @@ labels:
   - [7299, 9378]
   height: 120
   shows: forest
-  note: Part of Wielki-Bór Okręg.
+  note: Part of Wielki-Bór Obręb.
   refs: null
 - id: kozlowski1861-063
-  place: null
-  new_place: Garbinck Okręg
+  place: wlodzimirow-obreb
+  new_place: null
   form: Garbinck Okręg
   point: [9441, 5926]
   trace:

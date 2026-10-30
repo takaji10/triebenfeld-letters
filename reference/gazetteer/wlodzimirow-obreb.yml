@@ -24,5 +24,17 @@ maps:
   form: null
   note: Only one map noted this feature
   label: kozlowski1861-025
+- map: kozlowski1861
+  form: Osiny Okręg
+  note: A district (okręg) of the precinct
+  label: kozlowski1861-049
+- map: kozlowski1861
+  form: Grabina Okręg
+  note: A district (okręg) of the precinct
+  label: kozlowski1861-051
+- map: kozlowski1861
+  form: Garbinck Okręg
+  note: A district (okręg) of the precinct
+  label: kozlowski1861-063
 footnotes: []
 review: []

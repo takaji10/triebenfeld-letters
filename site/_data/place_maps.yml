@@ -1843,6 +1843,33 @@ wielki-bor-obreb:
     label: kozlowski1861-023
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-023.jpg
     refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Studzienka Okręg
+    note: A district (okręg) of the precinct
+    label: kozlowski1861-055
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-055.jpg
+    refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Wypalanki Okręg
+    note: A district (okręg) of the precinct
+    label: kozlowski1861-057
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-057.jpg
+    refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Noga Okręg
+    note: A district (okręg) of the precinct
+    label: kozlowski1861-061
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-061.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
@@ -1911,6 +1938,33 @@ wlodzimirow-obreb:
     note: Only one map noted this feature
     label: kozlowski1861-025
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-025.jpg
+    refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Osiny Okręg
+    note: A district (okręg) of the precinct
+    label: kozlowski1861-049
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-049.jpg
+    refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Grabina Okręg
+    note: A district (okręg) of the precinct
+    label: kozlowski1861-051
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-051.jpg
+    refs: []
+  - map: kozlowski1861
+    cited_as: Kozłowski 1861
+    year: 1861
+    in_project: true
+    form: Garbinck Okręg
+    note: A district (okręg) of the precinct
+    label: kozlowski1861-063
+    crop: /assets/maps/crops/kozlowski1861/kozlowski1861-063.jpg
     refs: []
   maps_on_site:
   - map: kozlowski1861

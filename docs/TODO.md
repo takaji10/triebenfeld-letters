@@ -1130,9 +1130,10 @@ The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
       Trąbczyn estate, APP 1/402/0/-/536-23, scale 1:20 000): tiles
       published, four MapWarper points (fit RMS 5.8 m), your 31 labels
       imported, card and page on the site (`maps/kozlowski1861/notes.md`).
-- [ ] **You:** the points on Kozłowski 1861 in NEEDS_CONFIRMATION, "The
-      gazetteer" (the six okręg labels, the coordinates of Czerwonka and
-      Nowa Wieś).
+- [x] The okręg labels are parts of their obręb, and the coordinates of
+      Czerwonka and Nowa Wieś corrected to the map (your word, 2026-10-30).
+- [ ] **You:** the one point left on Kozłowski 1861 in NEEDS_CONFIRMATION,
+      "The gazetteer" (Noga among Wielki-Bór Obręb's districts).
 - [ ] Map scales: put `scale:` in the register for every map as it comes in
       (your word, 2026-10-30); Łukom 1766 has none recorded.
 - [ ] The interactive map (/map/).

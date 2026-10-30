@@ -363,8 +363,8 @@ kozlowski1861:
     refs: []
     sort_name: Trąbczyn
   - id: kozlowski1861-049
-    place: null
-    place_name: null
+    place: wlodzimirow-obreb
+    place_name: Włodzimirow Obręb
     form: Osiny Okręg
     shows: forest
     shows_en: Forest
@@ -377,10 +377,10 @@ kozlowski1861:
     lat: 52.11824
     lon: 17.916374
     refs: []
-    sort_name: Osiny Okręg
+    sort_name: Włodzimirow Obręb
   - id: kozlowski1861-051
-    place: null
-    place_name: null
+    place: wlodzimirow-obreb
+    place_name: Włodzimirow Obręb
     form: Grabina Okręg
     shows: forest
     shows_en: Forest
@@ -393,7 +393,7 @@ kozlowski1861:
     lat: 52.123325
     lon: 17.905971
     refs: []
-    sort_name: Grabina Okręg
+    sort_name: Włodzimirow Obręb
   - id: kozlowski1861-053
     place: huta-trabczynska
     place_name: Huta Trąbczyńska
@@ -411,8 +411,8 @@ kozlowski1861:
     refs: []
     sort_name: Huta Trąbczyńska
   - id: kozlowski1861-055
-    place: null
-    place_name: null
+    place: wielki-bor-obreb
+    place_name: Wielki-Bór Obręb
     form: Studzienka Okręg
     shows: forest
     shows_en: Forest
@@ -425,10 +425,10 @@ kozlowski1861:
     lat: 52.088902
     lon: 17.878006
     refs: []
-    sort_name: Studzienka Okręg
+    sort_name: Wielki-Bór Obręb
   - id: kozlowski1861-057
-    place: null
-    place_name: null
+    place: wielki-bor-obreb
+    place_name: Wielki-Bór Obręb
     form: Wypalanki Okręg
     shows: forest
     shows_en: Forest
@@ -441,7 +441,7 @@ kozlowski1861:
     lat: 52.087717
     lon: 17.898097
     refs: []
-    sort_name: Wypalanki Okręg
+    sort_name: Wielki-Bór Obręb
   - id: kozlowski1861-059
     place: wlodzimirow
     place_name: Włodzimirów
@@ -459,13 +459,13 @@ kozlowski1861:
     refs: []
     sort_name: Włodzimirów
   - id: kozlowski1861-061
-    place: null
-    place_name: null
+    place: wielki-bor-obreb
+    place_name: Wielki-Bór Obręb
     form: Noga Okręg
     shows: forest
     shows_en: Forest
     shows_de: Wald
-    note: Part of Wielki-Bór Okręg.
+    note: Part of Wielki-Bór Obręb.
     point:
     - 7133
     - 9445
@@ -473,10 +473,10 @@ kozlowski1861:
     lat: 52.09242
     lon: 17.94184
     refs: []
-    sort_name: Noga Okręg
+    sort_name: Wielki-Bór Obręb
   - id: kozlowski1861-063
-    place: null
-    place_name: null
+    place: wlodzimirow-obreb
+    place_name: Włodzimirow Obręb
     form: Garbinck Okręg
     shows: forest
     shows_en: Forest
@@ -489,7 +489,7 @@ kozlowski1861:
     lat: 52.119199
     lon: 17.969944
     refs: []
-    sort_name: Garbinck Okręg
+    sort_name: Włodzimirow Obręb
   - id: kozlowski1861-065
     place: mariantow
     place_name: Mariantów

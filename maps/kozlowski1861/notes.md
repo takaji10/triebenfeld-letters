@@ -64,8 +64,22 @@ appearances are parsed from the short form).
   pages' "On the maps". Archive link:
   https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24675961.
 
+## Rulings (2026-10-30, the editor)
+
+- **The okręg are part of the obręb**: the six labels are appearances of
+  Włodzimirów Obręb (Osiny, Grabina, Garbinck) and Wielki-Bór Obręb
+  (Studzienka, Wypalanki, Noga), not places of their own. The saved file
+  was copied with that change, `labels_kozlowski1861_20261030-1620-okreg.json`
+  (the editor's file kept), and imported again; the gazetteer items carry
+  the note "A district (okręg) of the precinct". *Noga Okręg*'s note read
+  "Wielki-Bór Okręg", a slip for Obręb (corrected).
+- **The marks' placing is accurate**: the entries' coordinates for Czerwonka
+  and Nowa Wieś (16 and 18 km off) were wrong. Czerwonka now has the mark's
+  position (52.116603, 17.957974; precision `from_map`); Nowa Wieś the
+  position of the village in `reference/places_osm.yml` (52.14177, 17.93662;
+  a third of a kilometre from the mark).
+
 ## Still to do
 
-- The editor's rulings on the okręg labels and the two coordinates.
 - The ten empty map forms in the gazetteer entries (the labels carry them).
 - Not pushed: the site is published only at the editor's word.
