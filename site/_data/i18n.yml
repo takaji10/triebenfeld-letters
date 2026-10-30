@@ -360,13 +360,9 @@ en:
   np_h1: Newspapers
   np_caveat: "English translation by Claude, an AI model, not checked against the original as a whole."
   alt_clipping: Clipping of %s
-  np_newspaper: Newspaper
-  np_published: Published
-  np_source: Source of the scan
   np_caveat_editor: The English translation is the one supplied with the transcription.
   np_mentions: "In the newspapers: %d passages"
   np_mentions_one: "In the newspapers: one passage"
-  np_hint_en: "English translation by Claude."
   place_more: More about the place
   place_forms: Dated forms of the name
   place_on_places: The place in the index of places
@@ -753,13 +749,9 @@ de:
   np_h1: Zeitungen
   np_caveat: "Englische Übersetzung von Claude, einem KI-Modell, nicht als Ganzes mit dem Original verglichen."
   alt_clipping: Ausschnitt aus %s
-  np_newspaper: Zeitung
-  np_published: Erschienen
-  np_source: Herkunft des Abdrucks
   np_caveat_editor: Die englische Übersetzung ist die mit der Transkription gelieferte.
   np_mentions: "In den Zeitungen: %d Stellen"
   np_mentions_one: "In den Zeitungen: eine Stelle"
-  np_hint_en: "Englische Übersetzung von Claude."
   place_more: Mehr über den Ort
   place_forms: Datierte Namensformen
   place_on_places: Der Ort im Verzeichnis der Orte

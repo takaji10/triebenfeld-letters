@@ -13,16 +13,21 @@ newspaper: Słowo
 published: >-
   Słowo, R. XI, nr 2, Warsaw, 4 January 1892, p. 3 ("Sprzedaże dóbr",
   the paper's "Kronika ekonomiczna")
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "Sprzedaże dóbr"
+title_en: "Sales of estates"
+title_de: "Güterverkäufe"
+issue_en: "R. XI, nr 2 · 4 January 1892 · p. 3"
+issue_de: "Jg. XI, Nr. 2 · 4. Januar 1892 · S. 3"
+long_title: >-
   A sale notice under the rubric "Sprzedaże dóbr" in the "Kronika
   ekonomiczna" of the Warsaw daily Słowo of 4 January 1892: the Tomisławice
   estate in the Turek powiat, 17 włókas, bought from Mr Repphan by Mr
   Lutostański for 31,000 rubles, and the Trąbczyn estate in the Słupca
   powiat, 150 włókas, bought from Count Miączyński by Countess
   Władysławowa Wielopolska for 225,000 rubles — the press witness of the transfer of the Trąbczyn estate out of the Miączyński family's hands.
-title_en: >-
-  "Sprzedaże dóbr" ("Sales of estates"): two estate sales, of Tomisławice
-  and of Trąbczyn, announced in the Warsaw daily Słowo of 4 January 1892
 cite: Słowo (1892)
 author: ""
 year: 1892

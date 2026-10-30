@@ -1,5 +1,6 @@
 ---
 item: "zdrowie1914z6"
+title: "Wie wohnt unser Volk?"
 lang: de
 permalink: "/de/zeitungen/zdrowie1914z6/"
 alt_url: "/newspapers/zdrowie1914z6/"

@@ -11,7 +11,15 @@ ref: >-
 newspaper: TwojaSłupca
 published: >-
   TwojaSłupca (twojaslupca.pl), Słupca, 6 July 2015
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "Trąbczyn świętował 775 lat"
+title_en: "Trąbczyn celebrated 775 years"
+title_de: "Trąbczyn feierte 775 Jahre"
+issue_en: "twojaslupca.pl · 6 July 2015"
+issue_de: "twojaslupca.pl · 6. Juli 2015"
+long_title: >-
   "Trąbczyn świętował 775 lat": the village's 775th-anniversary jubilee,
   held the day before, in the Słupca news portal TwojaSłupca — the first
   mention of the village in the document of 1240, its heirs from Janek son
@@ -20,9 +28,6 @@ title: >-
   unveiling of a memorial tablet and obelisk, the honours "Zasłużony dla
   wsi Trąbczyn" for some fifty villagers, and the opening of the
   exhibition "775 lat Trąbczyna"
-title_en: >-
-  "Trąbczyn celebrated 775 years": the village's 775th-anniversary jubilee,
-  held the day before, in the Słupca news portal TwojaSłupca
 cite: TwojaSłupca (2015)
 author: ""
 year: 2015

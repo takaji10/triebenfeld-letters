@@ -1,5 +1,6 @@
 ---
 item: "twojaslupca20150706"
+title: "Trąbczyn celebrated 775 years"
 lang: en
 permalink: "/newspapers/twojaslupca20150706/"
 alt_url: "/de/zeitungen/twojaslupca20150706/"

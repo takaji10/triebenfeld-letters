@@ -1,5 +1,6 @@
 ---
 item: "jutrzenka1913z8"
+title: "Wie sich unser Volk kleidet"
 lang: de
 permalink: "/de/zeitungen/jutrzenka1913z8/"
 alt_url: "/newspapers/jutrzenka1913z8/"

@@ -1,5 +1,6 @@
 ---
 item: "zdrowie1914z6"
+title: "How does our people live?"
 lang: en
 permalink: "/newspapers/zdrowie1914z6/"
 alt_url: "/de/zeitungen/zdrowie1914z6/"

@@ -103,7 +103,8 @@ def main():
         if os.path.isfile(os.path.join(SITE, 'assets', 'thumbs', f'np-{it["slug"]}.jpg')):
             thumb = f'/assets/thumbs/np-{it["slug"]}.jpg'
         row = {k: it.get(k, '') for k in (
-            'slug', 'newspaper', 'title', 'title_en', 'cite', 'ref',
+            'slug', 'newspaper', 'title', 'title_en', 'title_de', 'issue_en', 'issue_de',
+            'cite', 'ref',
             'published', 'year', 'language', 'english_by', 'source',
             'image', 'translation', 'account_en', 'account_de')}
         row |= {'brief_en': it.get('brief_en') or None,
@@ -133,6 +134,7 @@ def main():
             body.append('{% endraw %}')
             fm = ['---',
                   f'item: {yaml_str(it["slug"])}',
+                  f'title: {yaml_str(it["title_de"] if lang == "de" else it["title_en"])}',
                   f'lang: {lang}',
                   f'permalink: {yaml_str(base + it["slug"] + "/")}',
                   f'alt_url: {yaml_str(other + it["slug"] + "/")}',

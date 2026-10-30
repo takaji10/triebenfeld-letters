@@ -1,5 +1,6 @@
 ---
 item: "luteraniezagorow"
+title: "Zagórów, Filial der Evangelisch-Augsburgischen Pfarrei in Konin"
 lang: de
 permalink: "/de/zeitungen/luteraniezagorow/"
 alt_url: "/newspapers/luteraniezagorow/"

@@ -20,12 +20,11 @@
     {%- capture w_page -%}{{ u_np }}{{ w.slug }}/{%- endcapture -%}
     {%- assign w_lang = 'lit_lang_' | append: w.language -%}
     {%- capture w_alt -%}{{ t.alt_clipping | replace: '%s', w.newspaper }}{%- endcapture -%}
-    <section class="source" id="{{ w.slug }}" data-az="{{ w.newspaper | escape }}" data-date="{{ w.year }}">
+    <section class="source" id="{{ w.slug }}" data-az="{% if lang == 'de' %}{{ w.title_de | escape }}{% else %}{{ w.title_en | escape }}{% endif %}" data-date="{{ w.year }}">
       {% include source-thumb.html thumb=w.thumb alt=w_alt %}
       <div class="source-body">
-        <h2 class="lit-author">{{ w.newspaper }}</h2>
-        <p class="lit-title"><a class="source-link" href="{{ w_page | relative_url }}">{{ w.ref }}</a></p>
-        {% if lang == 'en' and w.title_en != "" %}<p class="lit-title-en"><em>{{ w.title_en }}</em></p>{% endif %}
+        <h2><a class="source-link" href="{{ w_page | relative_url }}">{% if lang == 'de' %}{{ w.title_de }}{% else %}{{ w.title_en }}{% endif %}</a></h2>
+        <p class="source-archive">{{ w.newspaper }} &middot; {% if lang == 'de' %}{{ w.issue_de }}{% else %}{{ w.issue_en }}{% endif %}</p>
         <dl class="source-facts">
           <div><dt>{{ t.lit_language }}</dt><dd>{{ t[w_lang] }}</dd></div>
         </dl>
@@ -35,8 +34,3 @@
     </section>
   {% endfor %}
 </div>
-
-<style>
-.source .lit-title { margin: .4rem 0 0; font-size: 1.05rem; }
-.source .lit-title-en { margin: .2rem 0 0; color: var(--ink-soft); }
-</style>

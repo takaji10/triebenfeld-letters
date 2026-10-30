@@ -14,17 +14,21 @@ newspaper: Echo Tureckie
 published: >-
   Echo Tureckie, R. 8, nr 18, nr 379, 6 May 1931, the Turek weekly's Zagórów
   edition ("Zajście w Zagórowie")
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "Zajście w Zagórowie"
+title_en: "A disturbance in Zagórów"
+title_de: "Ein Vorfall in Zagórów"
+issue_en: "R. 8, nr 18 (nr 379) · 6 May 1931"
+issue_de: "Jg. 8, Nr. 18 (Nr. 379) · 6. Mai 1931"
+long_title: >-
   "Zajście w Zagórowie": the report of the clash at the recruiting commission
   in the Zagórów edition of the Turek weekly Echo Tureckie of 6 May 1931 — the
   crowd of workers gathered for the seasonal work for Germany stoning the
   commission's premises when the season's quota ran out, the starosta of
   Słupca arriving with reinforcements of police, the second storming of the
   premises, and the dispersal of the crowd with a dozen or more arrests.
-title_en: >-
-  "A disturbance in Zagórów": the report of the clash at the recruiting
-  commission in the Zagórów edition of the Turek weekly Echo Tureckie of
-  6 May 1931
 cite: Echo Tureckie (1931)
 author: ""
 year: 1931

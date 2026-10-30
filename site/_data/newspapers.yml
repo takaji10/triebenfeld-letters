@@ -3,8 +3,11 @@
 # listed with summary_only: true and holds only its summary.
 - slug: kuryerpolski1754075
   newspaper: Kuryer Polski
-  title: 'A report from Kalisz in the Warsaw newspaper Kuryer Polski of 25 December 1754 on the funeral of Paweł Prusimski, the King''s chamberlain, at Trąbczyn on 5 December: the clergy present, the sermon and the funeral oration of his nephew Antoni Prusimski, and the exequies his widow Katarzyna had said in three monasteries nearby.'
-  title_en: ''
+  title: ''
+  title_en: Report on the funeral of Paweł Prusimski
+  title_de: Bericht über das Begräbnis des Paweł Prusimski
+  issue_en: nr 75 · 25 December 1754
+  issue_de: Nr. 75 · 25. Dezember 1754
   cite: Kuryer Polski (1754)
   ref: Kuryer Polski, nr 75 (25 December 1754)
   published: Kuryer Polski, nr 75, Warsaw, 25 December 1754; the report dated from Kalisz, 5 December 1754
@@ -22,8 +25,11 @@
   summary_only: false
 - slug: dziennikpoznanski18791220
   newspaper: Dziennik Poznański
-  title: 'The death notice of Count Włodzimierz Miączyński, proprietor of the Trąbczyn estates in the Kingdom of Poland, in the Poznań daily Dziennik Poznański of 20 December 1879: dead at Trąbczyn on the 18th of December of the current year after long sufferings, fortified with the holy sacraments; the dispatch of the body to take place on Monday the 22nd of the month, the funeral the next day; signed by the grieving nephew Władysław hr. Miączyński of Pawłowa — the press witness of the Count''s death, the event the wlodzimierz era opens with.'
-  title_en: The death notice of Count Włodzimierz Miączyński, proprietor of Trąbczyn, in the Poznań daily Dziennik Poznański of 20 December 1879
+  title: ''
+  title_en: Death notice of Count Włodzimierz Miączyński
+  title_de: Todesanzeige des Grafen Włodzimierz Miączyński
+  issue_en: R. 21, nr 292 · 20 December 1879 · p. 4
+  issue_de: Jg. 21, Nr. 292 · 20. Dezember 1879 · S. 4
   cite: Dziennik Poznański (1879)
   ref: Dziennik Poznański, R. 21, nr 292 (20 grudnia 1879), p. 4
   published: Dziennik Poznański, R. 21, nr 292, Poznań, 20 December 1879, p. 4 (a death notice)
@@ -41,8 +47,11 @@
   summary_only: false
 - slug: slowo18920104
   newspaper: Słowo
-  title: 'A sale notice under the rubric "Sprzedaże dóbr" in the "Kronika ekonomiczna" of the Warsaw daily Słowo of 4 January 1892: the Tomisławice estate in the Turek powiat, 17 włókas, bought from Mr Repphan by Mr Lutostański for 31,000 rubles, and the Trąbczyn estate in the Słupca powiat, 150 włókas, bought from Count Miączyński by Countess Władysławowa Wielopolska for 225,000 rubles — the press witness of the transfer of the Trąbczyn estate out of the Miączyński family''s hands.'
-  title_en: '"Sprzedaże dóbr" ("Sales of estates"): two estate sales, of Tomisławice and of Trąbczyn, announced in the Warsaw daily Słowo of 4 January 1892'
+  title: Sprzedaże dóbr
+  title_en: Sales of estates
+  title_de: Güterverkäufe
+  issue_en: R. XI, nr 2 · 4 January 1892 · p. 3
+  issue_de: Jg. XI, Nr. 2 · 4. Januar 1892 · S. 3
   cite: Słowo (1892)
   ref: Słowo, R. XI, nr 2 (4 stycznia 1892), p. 3
   published: Słowo, R. XI, nr 2, Warsaw, 4 January 1892, p. 3 ("Sprzedaże dóbr", the paper's "Kronika ekonomiczna")
@@ -60,8 +69,11 @@
   summary_only: false
 - slug: zdrowie1912z10
   newspaper: Zdrowie
-  title: '"W sprawie odżywiania się ludu" ("On the nutrition of the people"): Dr. Konstanty Lidmanowski of Zagórów''s study of what the rural people of the Słupca powiat eat — the district of Trąbczyn, taken as a strip of like conditions along the whole Prussian border, the people divided by wealth and each day''s food reckoned in "heat units" against the 3,500 a working body needs: 5,374 for the farmer of more than fifteen morgens, 3,192 for the smallholder and the manor servant, and some 2,000 for the day-labourer who summers in Prussia — in the Warsaw Hygiene Society''s journal of 1912'
-  title_en: '"On the nutrition of the people": Dr. Lidmanowski''s study of the food of the rural Słupca powiat, in the hygiene journal Zdrowie of 1912'
+  title: W sprawie odżywiania się ludu
+  title_en: On the nutrition of the people
+  title_de: Zur Ernährung des Volkes
+  issue_en: R. XXVIII, z. 10 · 1912 · pp. 720-725
+  issue_de: Jg. XXVIII, H. 10 · 1912 · S. 720-725
   cite: Zdrowie (1912)
   ref: Zdrowie, R. XXVIII, z. 10 (1912), s. 720-725
   published: 'Zdrowie: Organ Warszaw. Towarzystwa Hygienicznego: poświęcony hygienie publicznej i prywatnej, R. XXVIII, z. 10, Warsaw, 1912, pp. 720-725 ("W sprawie odżywiania się ludu")'
@@ -79,8 +91,11 @@
   summary_only: false
 - slug: jutrzenka1913z8
   newspaper: Jutrzenka
-  title: '"Jak się ubiera nasz lud." ("How our people dress"): the folk attire of the Kingdom''s countryside and its hygiene — the linen shirt and the sheepskin coat that costs some fifteen rubles and grows colder each year, the leather belt that cuts into the flesh, the foot-wraps and the clogs, the tight town shoes of the women, the "American''s" starched collar and celluloid tie, the newborn swaddled so it cannot sleep — carried in the Łódź educational fortnightly from Dr. Lidmanowski''s article in the March issue of the hygiene journal Zdrowie; whether the Jutrzenka page itself is signed is open (NEEDS_CONFIRMATION)'
-  title_en: '"How our people dress": the folk attire and its hygiene, carried in the Łódź fortnightly Jutrzenka of April 1913 from Dr. Lidmanowski''s article in the March Zdrowie'
+  title: Jak się ubiera nasz lud.
+  title_en: How our people dress
+  title_de: Wie sich unser Volk kleidet
+  issue_en: R. 3, nr 8 · 24 April 1913 · pp. 7-10
+  issue_de: Jg. 3, Nr. 8 · 24. April 1913 · S. 7-10
   cite: Jutrzenka (1913)
   ref: Jutrzenka, R. 3, nr 8 (24 kwietnia 1913), s. 7-10
   published: 'Jutrzenka: dwutygodnik ogólno-kształcący, ilustrowany, R. 3, nr 8, Łódź, 24 April 1913, pp. 7-10 ("Jak się ubiera nasz lud.")'
@@ -98,8 +113,11 @@
   summary_only: false
 - slug: zdrowie1914z6
   newspaper: Zdrowie
-  title: '"Jak mieszka lud nasz?" ("How does our people live?"): the survey of the dwellings of the Polish countryside that Dr. Konstanty Lidmanowski, the physician of Zagórów, published in the Warsaw Hygiene Society''s journal — 1,200 farmhouses, 80 manor servants'' quarters and 140 seasonal labourers'' lodgings examined over many years, 91 of every 100 farmers'' dwellings one single room serving as kitchen, living room and bedroom, damp walls and the manure pile by the well, and the verdict that ignorance, dear brick and the lack of cheap credit keep the peasant living as he lives'
-  title_en: '"How does our people live?": Dr. Konstanty Lidmanowski''s survey of rural housing in the hygiene journal Zdrowie of 1914'
+  title: Jak mieszka lud nasz?
+  title_en: How does our people live?
+  title_de: Wie wohnt unser Volk?
+  issue_en: R. XXX, z. 6 · 1914 · pp. 432-440
+  issue_de: Jg. XXX, H. 6 · 1914 · S. 432-440
   cite: Zdrowie (1914)
   ref: Zdrowie, R. XXX, z. 6 (1914), s. 432-440
   published: 'Zdrowie: organ Warsz. Towarzystwa Hygienicznego, poświęcony hygienie publicznej i prywatnej, R. XXX, z. 6, Warsaw, 1914, pp. 432-440 ("Jak mieszka lud nasz?")'
@@ -117,8 +135,11 @@
   summary_only: false
 - slug: echotureckie1931018
   newspaper: Echo Tureckie
-  title: '"Zajście w Zagórowie": the report of the clash at the recruiting commission in the Zagórów edition of the Turek weekly Echo Tureckie of 6 May 1931 — the crowd of workers gathered for the seasonal work for Germany stoning the commission''s premises when the season''s quota ran out, the starosta of Słupca arriving with reinforcements of police, the second storming of the premises, and the dispersal of the crowd with a dozen or more arrests.'
-  title_en: '"A disturbance in Zagórów": the report of the clash at the recruiting commission in the Zagórów edition of the Turek weekly Echo Tureckie of 6 May 1931'
+  title: Zajście w Zagórowie
+  title_en: A disturbance in Zagórów
+  title_de: Ein Vorfall in Zagórów
+  issue_en: R. 8, nr 18 (nr 379) · 6 May 1931
+  issue_de: Jg. 8, Nr. 18 (Nr. 379) · 6. Mai 1931
   cite: Echo Tureckie (1931)
   ref: Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379
   published: Echo Tureckie, R. 8, nr 18, nr 379, 6 May 1931, the Turek weekly's Zagórów edition ("Zajście w Zagórowie")
@@ -136,8 +157,11 @@
   summary_only: false
 - slug: kurjerpoznanski19330712
   newspaper: Kurjer Poznański
-  title: '"Zhitleryzowani koloniści" (Hitlerized colonists): a note in the Poznań daily Kurjer Poznański of 12 July 1933 on the German colonists of the rural communes of Oleśnica, Trąbczyn and Szymanowice around Zagórów — since Hitler''s taking power in Germany speaking German at the commune office and answering German at school, and the evangelical teacher dismissed after not one of the colonists'' children came to school on the school inspector''s visit.'
-  title_en: 'Hitlerized colonists: a note in the Poznań daily Kurjer Poznański of 12 July 1933 on the German colonists around Zagórów, who since Hitler''s rise speak German at the commune office and at school, and the evangelical teacher dismissed after the colonists'' children stayed away from school on the inspector''s visit.'
+  title: (Zhitleryzowani koloniści)
+  title_en: Hitlerized colonists
+  title_de: Hitlerisierte Kolonisten
+  issue_en: 12 July 1933
+  issue_de: 12. Juli 1933
   cite: Kurjer Poznański (1933)
   ref: Kurjer Poznański (12 lipca 1933)
   published: Kurjer Poznański, Poznań, 12 July 1933
@@ -155,8 +179,11 @@
   summary_only: false
 - slug: dziennikpoznanski19370807
   newspaper: Dziennik Poznański
-  title: '"Z Zagórowa": three municipal notes from Zagórów in the Poznań daily Dziennik Poznański of 7 August 1937 — the recruitment of some sixty unemployed of the town for seasonal farm work in Germany, the moving of the old people''s home from its rented rooms in the town to a property of the heirs of Ignacy Ciszewski at Oleśnica on the road to Konin, under the deputy mayor Franciszek Łukaszewski, and the paving of the town''s streets with trees to be planted along them.'
-  title_en: '"From Zagórów": three municipal notes from Zagórów in the Poznań daily Dziennik Poznański of 7 August 1937'
+  title: Z Zagórowa
+  title_en: From Zagórów
+  title_de: Aus Zagórów
+  issue_en: R. 79, nr 180 · 7 August 1937
+  issue_de: Jg. 79, Nr. 180 · 7. August 1937
   cite: Dziennik Poznański (1937)
   ref: Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937)
   published: Dziennik Poznański, R. 79, nr 180, Poznań, 7 August 1937 ("Z Zagórowa")
@@ -174,8 +201,11 @@
   summary_only: false
 - slug: ostdeutscherbeobachter19420197
   newspaper: Ostdeutscher Beobachter
-  title: '"225 Jahre alte deutsche Siedlung im Wartheland": a feature on the German settlement of Lazinsk (Łazińsk) in the NSDAP daily Ostdeutscher Beobachter of 19 July 1942 — the settlement in the Amtsbezirk Drommin, the wartime name of the rural commune of Trąbczyn, its cemetery of 1727 and its cantor school, and the teacher and farmer Mielke''s new German school of 1933'
-  title_en: 'A 225-year-old German settlement in the Wartheland: a feature on Lazinsk (Łazińsk) in the NSDAP daily Ostdeutscher Beobachter of 19 July 1942'
+  title: 225 Jahre alte deutsche Siedlung im Wartheland
+  title_en: A 225-year-old German settlement in the Wartheland
+  title_de: 225 Jahre alte deutsche Siedlung im Wartheland
+  issue_en: Jg. 4, Nr. 197 · 19 July 1942
+  issue_de: Jg. 4, Nr. 197 · 19. Juli 1942
   cite: Ostdeutscher Beobachter (1942)
   ref: 'Ostdeutscher Beobachter: Organ der Nationalsozialistischen Deutschen Arbeiterpartei: Verkündungsblatt des Reichsstatthalters im Reichsgau Wartheland und seiner Behörden, Jg. 4, Nr. 197 (19. Juli 1942)'
   published: Ostdeutscher Beobachter, Jg. 4, Nr. 197, Posen, NS-Gauverlag, 19 July 1942
@@ -193,8 +223,11 @@
   summary_only: false
 - slug: luteraniezagorow
   newspaper: Luteranie Konin
-  title: 'The chronicle of the Zagórów filial on the Konin parish''s website: the more important events in the life of the parish of Zagórów, from the Reformation conducted by the monks of Ląd in the sixteenth century, through the evangelicals'' arrival from Silesia, Pomerania and Prussia (1720-1817), the filial of the parish of Grodziec and the parish erected on 24 December 1856, the church bought for, founded and consecrated between 1857 and 1882, the cantor''s house of 1913 and the rectory of 1938, the first service after the Second World War (18 July 1954) and the Evangelical Senior Citizens'' Home of 1995, to the electronic clock and bells of 2008 and the closing of the Senior Citizens'' Home in 2009'
-  title_en: 'The chronicle of the Zagórów filial on the Konin parish''s website: the more important events in the life of the parish, from the Reformation of the sixteenth century to the closing of the Evangelical Senior Citizens'' Home in 2009'
+  title: Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie
+  title_en: Zagórów, the filial of the Evangelical-Augsburg Parish in Konin
+  title_de: Zagórów, Filial der Evangelisch-Augsburgischen Pfarrei in Konin
+  issue_en: luteranie.konin.pl · undated
+  issue_de: luteranie.konin.pl · ohne Datum
   cite: Luteranie Konin, bd. (the site © 2011)
   ref: 'Luteranie Konin (luteranie.konin.pl), bd. [bez daty]: "Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie"'
   published: Luteranie Konin (luteranie.konin.pl), the website of the Parafia Ewangelicko-Augsburska w Koninie; the page undated, the site's footer reading "Projekt i wykonanie © Walrom 2011"
@@ -212,8 +245,11 @@
   summary_only: false
 - slug: twojaslupca20150706
   newspaper: TwojaSłupca
-  title: '"Trąbczyn świętował 775 lat": the village''s 775th-anniversary jubilee, held the day before, in the Słupca news portal TwojaSłupca — the first mention of the village in the document of 1240, its heirs from Janek son of Szymon through the counts Mikołaj, Jan and Przedpełk and the Trąbczyńskis to Antoni Prusimski and the Miączyńskis, the Mass and the unveiling of a memorial tablet and obelisk, the honours "Zasłużony dla wsi Trąbczyn" for some fifty villagers, and the opening of the exhibition "775 lat Trąbczyna"'
-  title_en: '"Trąbczyn celebrated 775 years": the village''s 775th-anniversary jubilee, held the day before, in the Słupca news portal TwojaSłupca'
+  title: Trąbczyn świętował 775 lat
+  title_en: Trąbczyn celebrated 775 years
+  title_de: Trąbczyn feierte 775 Jahre
+  issue_en: twojaslupca.pl · 6 July 2015
+  issue_de: twojaslupca.pl · 6. Juli 2015
   cite: TwojaSłupca (2015)
   ref: 'TwojaSłupca, 6 lipca 2015: "Trąbczyn świętował 775 lat"'
   published: TwojaSłupca (twojaslupca.pl), Słupca, 6 July 2015

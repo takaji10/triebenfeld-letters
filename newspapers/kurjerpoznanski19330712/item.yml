@@ -11,7 +11,15 @@ ref: >-
 newspaper: Kurjer Poznański
 published: >-
   Kurjer Poznański, Poznań, 12 July 1933
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "(Zhitleryzowani koloniści)"
+title_en: "Hitlerized colonists"
+title_de: "Hitlerisierte Kolonisten"
+issue_en: "12 July 1933"
+issue_de: "12. Juli 1933"
+long_title: >-
   "Zhitleryzowani koloniści" (Hitlerized colonists): a note in the Poznań
   daily Kurjer Poznański of 12 July 1933 on the German colonists of the
   rural communes of Oleśnica, Trąbczyn and Szymanowice around Zagórów —
@@ -19,12 +27,6 @@ title: >-
   office and answering German at school, and the evangelical teacher
   dismissed after not one of the colonists' children came to school on the
   school inspector's visit.
-title_en: >-
-  Hitlerized colonists: a note in the Poznań daily Kurjer Poznański of
-  12 July 1933 on the German colonists around Zagórów, who since Hitler's
-  rise speak German at the commune office and at school, and the
-  evangelical teacher dismissed after the colonists' children stayed away
-  from school on the inspector's visit.
 cite: Kurjer Poznański (1933)
 author: ""
 year: 1933

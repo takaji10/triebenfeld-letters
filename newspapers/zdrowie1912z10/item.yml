@@ -13,7 +13,15 @@ published: >-
   Zdrowie: Organ Warszaw. Towarzystwa Hygienicznego: poświęcony hygienie
   publicznej i prywatnej, R. XXVIII, z. 10, Warsaw, 1912, pp. 720-725 ("W
   sprawie odżywiania się ludu")
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "W sprawie odżywiania się ludu"
+title_en: "On the nutrition of the people"
+title_de: "Zur Ernährung des Volkes"
+issue_en: "R. XXVIII, z. 10 · 1912 · pp. 720-725"
+issue_de: "Jg. XXVIII, H. 10 · 1912 · S. 720-725"
+long_title: >-
   "W sprawie odżywiania się ludu" ("On the nutrition of the people"): Dr.
   Konstanty Lidmanowski of Zagórów's study of what the rural people of
   the Słupca powiat eat — the district of Trąbczyn,
@@ -23,9 +31,6 @@ title: >-
   more than fifteen morgens, 3,192 for the smallholder and the manor
   servant, and some 2,000 for the day-labourer who summers in Prussia —
   in the Warsaw Hygiene Society's journal of 1912
-title_en: >-
-  "On the nutrition of the people": Dr. Lidmanowski's study of the food of
-  the rural Słupca powiat, in the hygiene journal Zdrowie of 1912
 cite: Zdrowie (1912)
 author: Dr. Konstanty Lidmanowski
 year: 1912

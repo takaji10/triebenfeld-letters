@@ -1,5 +1,6 @@
 ---
 item: "ostdeutscherbeobachter19420197"
+title: "A 225-year-old German settlement in the Wartheland"
 lang: en
 permalink: "/newspapers/ostdeutscherbeobachter19420197/"
 alt_url: "/de/zeitungen/ostdeutscherbeobachter19420197/"

@@ -15,7 +15,15 @@ published: >-
   Luteranie Konin (luteranie.konin.pl), the website of the Parafia
   Ewangelicko-Augsburska w Koninie; the page undated, the site's footer
   reading "Projekt i wykonanie © Walrom 2011"
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie"
+title_en: "Zagórów, the filial of the Evangelical-Augsburg Parish in Konin"
+title_de: "Zagórów, Filial der Evangelisch-Augsburgischen Pfarrei in Konin"
+issue_en: "luteranie.konin.pl · undated"
+issue_de: "luteranie.konin.pl · ohne Datum"
+long_title: >-
   The chronicle of the Zagórów filial on the Konin parish's website:
   the more important events in the life of the parish of Zagórów, from the
   Reformation conducted by the monks of Ląd in the sixteenth century,
@@ -26,11 +34,6 @@ title: >-
   1938, the first service after the Second World War (18 July 1954) and
   the Evangelical Senior Citizens' Home of 1995, to the electronic clock
   and bells of 2008 and the closing of the Senior Citizens' Home in 2009
-title_en: >-
-  The chronicle of the Zagórów filial on the Konin parish's website:
-  the more important events in the life of the parish, from the
-  Reformation of the sixteenth century to the closing of the Evangelical
-  Senior Citizens' Home in 2009
 cite: Luteranie Konin, bd. (the site © 2011)
 author: ""
 # The only year on the page is the site footer's "© Walrom 2011". It is

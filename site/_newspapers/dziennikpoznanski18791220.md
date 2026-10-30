@@ -1,5 +1,6 @@
 ---
 item: "dziennikpoznanski18791220"
+title: "Death notice of Count Włodzimierz Miączyński"
 lang: en
 permalink: "/newspapers/dziennikpoznanski18791220/"
 alt_url: "/de/zeitungen/dziennikpoznanski18791220/"

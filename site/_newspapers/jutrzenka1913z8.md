@@ -1,5 +1,6 @@
 ---
 item: "jutrzenka1913z8"
+title: "How our people dress"
 lang: en
 permalink: "/newspapers/jutrzenka1913z8/"
 alt_url: "/de/zeitungen/jutrzenka1913z8/"

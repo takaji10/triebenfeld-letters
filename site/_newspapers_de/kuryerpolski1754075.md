@@ -1,5 +1,6 @@
 ---
 item: "kuryerpolski1754075"
+title: "Bericht über das Begräbnis des Paweł Prusimski"
 lang: de
 permalink: "/de/zeitungen/kuryerpolski1754075/"
 alt_url: "/newspapers/kuryerpolski1754075/"

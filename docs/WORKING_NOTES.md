@@ -2803,3 +2803,12 @@ The editor's ruling of the day, in three parts; the work is in the branch
   (German "Methode"): `unit_tab_about` and `unit_tab_prepared` in
   `site/_data/i18n.yml`. The docs call the tab "Method"; older entries in the
   changelog keep the old name.
+
+- **The newspaper pages (2026-10-30, the editor).** They were laid out
+  differently from every other source: a title that was a paragraph, an
+  account, a caveat and a hint above the text, and a clipping at full width.
+  The page is now built like a document page (NEWSPAPERS_PLAN, last section).
+  The rule that came out of it, for any new page: **the title is a title** (the
+  headline as printed, or a few words), the facts are one line, the
+  description is the brief, and what a page says about itself is one caveat
+  at most. `pipeline/review/set_np_titles.py` set the new titles once.

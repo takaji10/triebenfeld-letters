@@ -3896,3 +3896,13 @@ footer on every page. Changed, in both languages:
   moved to the notes). The tabs average about a seventh of their old length.
 - Verified: `build_site_data.py`, Jekyll build, `verify_site.py` (all checks
   passed), `check_unit_text.py` (0 failures).
+
+## 2026-10-30: the newspaper pages laid out like documents (branch `newspapers-layout`, not published)
+
+- Each of the 12 items has a real title (`title` as printed, `title_en`,
+  `title_de`) and an issue line (`issue_en`, `issue_de`); the old long title is
+  `long_title`. The page: nav line, newspaper over the title, one line of
+  facts, the brief as the summary, the clipping (22 rem, sticky) beside the
+  text, English or original by the buttons; no account, no "Published" line, no
+  folded details; the translation's caveat shows with the English text. The
+  list page's cards match the Sources cards. Verified: build, `verify_site.py`.

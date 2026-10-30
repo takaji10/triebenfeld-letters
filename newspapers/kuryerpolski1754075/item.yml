@@ -11,7 +11,15 @@ newspaper: Kuryer Polski
 published: >-
   Kuryer Polski, nr 75, Warsaw, 25 December 1754; the report dated from
   Kalisz, 5 December 1754
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: ""
+title_en: "Report on the funeral of Paweł Prusimski"
+title_de: "Bericht über das Begräbnis des Paweł Prusimski"
+issue_en: "nr 75 · 25 December 1754"
+issue_de: "Nr. 75 · 25. Dezember 1754"
+long_title: >-
   A report from Kalisz in the Warsaw newspaper Kuryer Polski of 25 December
   1754 on the funeral of Paweł Prusimski, the King's chamberlain, at
   Trąbczyn on 5 December: the clergy present, the sermon and the funeral

@@ -13,7 +13,15 @@ newspaper: Dziennik Poznański
 published: >-
   Dziennik Poznański, R. 21, nr 292, Poznań, 20 December 1879, p. 4 (a death
   notice)
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: ""
+title_en: "Death notice of Count Włodzimierz Miączyński"
+title_de: "Todesanzeige des Grafen Włodzimierz Miączyński"
+issue_en: "R. 21, nr 292 · 20 December 1879 · p. 4"
+issue_de: "Jg. 21, Nr. 292 · 20. Dezember 1879 · S. 4"
+long_title: >-
   The death notice of Count Włodzimierz Miączyński, proprietor of the
   Trąbczyn estates in the Kingdom of Poland, in the Poznań daily Dziennik
   Poznański of 20 December 1879: dead at Trąbczyn on the 18th of December
@@ -22,9 +30,6 @@ title: >-
   the month, the funeral the next day; signed by the grieving nephew
   Władysław hr. Miączyński of Pawłowa — the press witness of the Count's
   death, the event the wlodzimierz era opens with.
-title_en: >-
-  The death notice of Count Włodzimierz Miączyński, proprietor of Trąbczyn,
-  in the Poznań daily Dziennik Poznański of 20 December 1879
 cite: Dziennik Poznański (1879)
 author: ""
 year: 1879

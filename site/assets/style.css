@@ -267,6 +267,12 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 mark { background: var(--mark); color: inherit; padding: 0 .1em; }
 .empty { color: var(--ink-faint); font-family: var(--sans); }
 
+/* An item of the press (_layouts/newspaper.html) is laid out like a document:
+   the headline as printed, where it differs from the title, under the title;
+   a clipping beside its text, or the text alone. */
+.np-printed { margin: .2rem 0 0; color: var(--ink-soft); }
+.np-solo { max-width: var(--measure); }
+
 /* ---------------------------------------------------------- letter */
 
 .letter {

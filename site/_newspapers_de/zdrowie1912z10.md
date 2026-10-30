@@ -1,5 +1,6 @@
 ---
 item: "zdrowie1912z10"
+title: "Zur Ernährung des Volkes"
 lang: de
 permalink: "/de/zeitungen/zdrowie1912z10/"
 alt_url: "/newspapers/zdrowie1912z10/"

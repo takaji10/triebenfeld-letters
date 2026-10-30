@@ -1,5 +1,6 @@
 ---
 item: "ostdeutscherbeobachter19420197"
+title: "225 Jahre alte deutsche Siedlung im Wartheland"
 lang: de
 permalink: "/de/zeitungen/ostdeutscherbeobachter19420197/"
 alt_url: "/newspapers/ostdeutscherbeobachter19420197/"

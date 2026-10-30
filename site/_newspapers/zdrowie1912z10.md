@@ -1,5 +1,6 @@
 ---
 item: "zdrowie1912z10"
+title: "On the nutrition of the people"
 lang: en
 permalink: "/newspapers/zdrowie1912z10/"
 alt_url: "/de/zeitungen/zdrowie1912z10/"

@@ -1,5 +1,6 @@
 ---
 item: "dziennikpoznanski18791220"
+title: "Todesanzeige des Grafen Włodzimierz Miączyński"
 lang: de
 permalink: "/de/zeitungen/dziennikpoznanski18791220/"
 alt_url: "/newspapers/dziennikpoznanski18791220/"

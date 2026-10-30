@@ -14,7 +14,15 @@ newspaper: Jutrzenka
 published: >-
   Jutrzenka: dwutygodnik ogólno-kształcący, ilustrowany, R. 3, nr 8, Łódź,
   24 April 1913, pp. 7-10 ("Jak się ubiera nasz lud.")
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "Jak się ubiera nasz lud."
+title_en: "How our people dress"
+title_de: "Wie sich unser Volk kleidet"
+issue_en: "R. 3, nr 8 · 24 April 1913 · pp. 7-10"
+issue_de: "Jg. 3, Nr. 8 · 24. April 1913 · S. 7-10"
+long_title: >-
   "Jak się ubiera nasz lud." ("How our people dress"): the folk attire of
   the Kingdom's countryside and its hygiene — the linen shirt and the
   sheepskin coat that costs some fifteen rubles and grows colder each
@@ -24,10 +32,6 @@ title: >-
   carried in the Łódź educational fortnightly from Dr. Lidmanowski's
   article in the March issue of the hygiene journal Zdrowie; whether the
   Jutrzenka page itself is signed is open (NEEDS_CONFIRMATION)
-title_en: >-
-  "How our people dress": the folk attire and its hygiene, carried in the
-  Łódź fortnightly Jutrzenka of April 1913 from Dr. Lidmanowski's article
-  in the March Zdrowie
 cite: Jutrzenka (1913)
 author: ""
 year: 1913

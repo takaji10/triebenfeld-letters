@@ -1,5 +1,6 @@
 ---
 item: "echotureckie1931018"
+title: "A disturbance in Zagórów"
 lang: en
 permalink: "/newspapers/echotureckie1931018/"
 alt_url: "/de/zeitungen/echotureckie1931018/"

@@ -14,7 +14,15 @@ published: >-
   Zdrowie: organ Warsz. Towarzystwa Hygienicznego, poświęcony hygienie
   publicznej i prywatnej, R. XXX, z. 6, Warsaw, 1914, pp. 432-440 ("Jak
   mieszka lud nasz?")
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "Jak mieszka lud nasz?"
+title_en: "How does our people live?"
+title_de: "Wie wohnt unser Volk?"
+issue_en: "R. XXX, z. 6 · 1914 · pp. 432-440"
+issue_de: "Jg. XXX, H. 6 · 1914 · S. 432-440"
+long_title: >-
   "Jak mieszka lud nasz?" ("How does our people live?"): the survey of the
   dwellings of the Polish countryside that Dr. Konstanty Lidmanowski, the
   physician of Zagórów, published in the Warsaw Hygiene Society's journal —
@@ -23,9 +31,6 @@ title: >-
   single room serving as kitchen, living room and bedroom, damp walls and
   the manure pile by the well, and the verdict that ignorance, dear brick
   and the lack of cheap credit keep the peasant living as he lives
-title_en: >-
-  "How does our people live?": Dr. Konstanty Lidmanowski's survey of rural
-  housing in the hygiene journal Zdrowie of 1914
 cite: Zdrowie (1914)
 author: Dr. Konstanty Lidmanowski
 year: 1914

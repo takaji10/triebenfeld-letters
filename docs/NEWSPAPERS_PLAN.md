@@ -35,7 +35,7 @@ page (section 5), and the Ostdeutscher Beobachter's feature on Łazińsk of
 ```
 newspapers/<slug>/
   item.yml     bibliography: the newspaper, the issue, the date, the language,
-               the item's title and title_en, kind, era, visibility, rights,
+               the item's title (the headline as printed, empty where it has none), title_en and title_de (the title in each language of the site), issue_en and issue_de (volume, number, date and page), kind, era, visibility, rights,
                the account of what the item is (EN and DE), a detailed summary
                of the contents (EN and DE), who made the English, the scan's
                source (`scan:`) where there is one
@@ -394,3 +394,19 @@ standing "no" ruling).
      `literature/index.yml`. The bare Polish "Łazińsk"/"Łaziny" stay
      unmatched (NEEDS_CONFIRMATION).
 
+
+## 2026-10-30: the item page laid out like a document
+
+The editor: the newspaper pages were messy, the clipping was huge, some titles
+were far longer than the newspaper's own and Claude's explainer text stood on
+the page. An item's page is now laid out like a page of an archival document
+(`site/_layouts/newspaper.html`): a slim line back to the list, the newspaper
+over the title, the issue, the language and the source as one line of facts,
+the brief as the summary, then the text beside the clipping in the same
+two-pane layout, English or original by the buttons. The long account, the
+"Published" line and the folded details are gone from the page (they stay in
+item.yml); the title is the headline as printed or a short title, never a
+sentence (the old long one is `long_title`, shown nowhere); the only note on
+the page is the translation's caveat, shown with the English text. The list
+page's cards are laid out like the Sources cards (title, newspaper and issue,
+brief).

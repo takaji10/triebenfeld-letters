@@ -1,5 +1,6 @@
 ---
 item: "dziennikpoznanski19370807"
+title: "Aus Zagórów"
 lang: de
 permalink: "/de/zeitungen/dziennikpoznanski19370807/"
 alt_url: "/newspapers/dziennikpoznanski19370807/"

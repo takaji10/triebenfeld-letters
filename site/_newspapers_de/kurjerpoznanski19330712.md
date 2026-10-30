@@ -1,5 +1,6 @@
 ---
 item: "kurjerpoznanski19330712"
+title: "Hitlerisierte Kolonisten"
 lang: de
 permalink: "/de/zeitungen/kurjerpoznanski19330712/"
 alt_url: "/newspapers/kurjerpoznanski19330712/"

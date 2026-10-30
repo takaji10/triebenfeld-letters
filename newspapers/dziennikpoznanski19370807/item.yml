@@ -10,7 +10,15 @@ ref: >-
 newspaper: Dziennik Poznański
 published: >-
   Dziennik Poznański, R. 79, nr 180, Poznań, 7 August 1937 ("Z Zagórowa")
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "Z Zagórowa"
+title_en: "From Zagórów"
+title_de: "Aus Zagórów"
+issue_en: "R. 79, nr 180 · 7 August 1937"
+issue_de: "Jg. 79, Nr. 180 · 7. August 1937"
+long_title: >-
   "Z Zagórowa": three municipal notes from Zagórów in the Poznań daily
   Dziennik Poznański of 7 August 1937 — the recruitment of some sixty
   unemployed of the town for seasonal farm work in Germany, the moving of
@@ -18,9 +26,6 @@ title: >-
   the heirs of Ignacy Ciszewski at Oleśnica on the road to Konin, under the
   deputy mayor Franciszek Łukaszewski, and the paving of the town's streets
   with trees to be planted along them.
-title_en: >-
-  "From Zagórów": three municipal notes from Zagórów in the Poznań daily
-  Dziennik Poznański of 7 August 1937
 cite: Dziennik Poznański (1937)
 author: ""
 year: 1937

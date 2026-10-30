@@ -1,5 +1,6 @@
 ---
 item: "dziennikpoznanski19370807"
+title: "From Zagórów"
 lang: en
 permalink: "/newspapers/dziennikpoznanski19370807/"
 alt_url: "/de/zeitungen/dziennikpoznanski19370807/"

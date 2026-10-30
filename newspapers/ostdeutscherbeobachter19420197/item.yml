@@ -13,15 +13,20 @@ ref: >-
 newspaper: Ostdeutscher Beobachter
 published: >-
   Ostdeutscher Beobachter, Jg. 4, Nr. 197, Posen, NS-Gauverlag, 19 July 1942
-title: >-
+# The title of the item (editor, 2026-10-30): the headline as the paper prints it
+# (empty where it has none), then the title in each language of the site. The
+# long description that stood here is kept as long_title and shown nowhere.
+title: "225 Jahre alte deutsche Siedlung im Wartheland"
+title_en: "A 225-year-old German settlement in the Wartheland"
+title_de: "225 Jahre alte deutsche Siedlung im Wartheland"
+issue_en: "Jg. 4, Nr. 197 · 19 July 1942"
+issue_de: "Jg. 4, Nr. 197 · 19. Juli 1942"
+long_title: >-
   "225 Jahre alte deutsche Siedlung im Wartheland": a feature on the German
   settlement of Lazinsk (Łazińsk) in the NSDAP daily Ostdeutscher Beobachter
   of 19 July 1942 — the settlement in the Amtsbezirk Drommin, the wartime
   name of the rural commune of Trąbczyn, its cemetery of 1727 and its cantor
   school, and the teacher and farmer Mielke's new German school of 1933
-title_en: >-
-  A 225-year-old German settlement in the Wartheland: a feature on Lazinsk
-  (Łazińsk) in the NSDAP daily Ostdeutscher Beobachter of 19 July 1942
 cite: Ostdeutscher Beobachter (1942)
 author: ""
 year: 1942
