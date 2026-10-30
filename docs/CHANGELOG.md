@@ -3932,3 +3932,17 @@ footer on every page. Changed, in both languages:
   and Nowa Wieś (the village's position in `places_osm.yml`) lose their wrong
   coordinates. The labels were imported again from a corrected copy of the
   saved file. Place pages, map pages, build and `verify_site.py` pass.
+- **The legend**, at the editor's request: the sheet's *Wyjaśnienie Kolorów*
+  (lower right) recreated digitally on the map page, a table of the
+  fifteen blocks with their grouping headers (Grunta orne, Ogrody, Lasy,
+  Łąki, Pastwiska, and water), Polish and English (German has its own
+  column values). Claude read the Polish from the scan; the values are to
+  be checked by the editor. The colours are sampled from the scan (fill,
+  the stronger edge strip, the pencil line), and the three patterned
+  blocks are drawn with CSS: dots (orchard), blue dashes (wet meadows and
+  pastures), the graded pale inset (water). Data `maps/kozlowski1861/
+  legend.yml`, built into the page's data by `map_pages.py`, rendered in
+  `_layouts/map.html` under the mark index; new i18n keys, a caption
+  recorded in both languages. A map needs nothing: the section shows only
+  where `legend.yml` exists (Łukom 1766 has none on its sheet). Verified:
+  build, `verify_site.py`; rendered in the headless browser.

@@ -59,6 +59,43 @@ layout: default
       </ol>
     </section>
 
+    {%- if m.legend %}
+    <section class="map-legend">
+      <h2>{{ t.map_legend_h2 }}</h2>
+      <p class="map-legend-title"><span lang="pl">{{ m.legend.title.pl }}</span> - {% if lang == 'de' %}{{ m.legend.title.de }}{% else %}{{ m.legend.title.en }}{% endif %}</p>
+      <table class="legend-table">
+        <thead><tr><th scope="col"><span class="visually-hidden">{{ t.map_legend_h2 }}</span></th><th scope="col">{{ t.map_legend_pl }}</th><th scope="col">{{ t.map_legend_tr }}</th></tr></thead>
+        <tbody>
+        {%- for row in m.legend.rows %}
+          {%- assign solo = false -%}
+          {%- if row.group and row.items.size == 1 and row.items[0].pl == nil %}{% assign solo = true %}{% endif -%}
+          {%- if row.group and solo %}
+          {%- assign it = row.items[0] %}
+          <tr class="legend-group legend-solo">
+            <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}"></span></td>
+            <th scope="row" colspan="2"><span lang="pl" class="legend-pl">{{ row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th>
+          </tr>
+          {%- elsif row.group %}
+          <tr class="legend-group"><th scope="colgroup" colspan="3"><span lang="pl" class="legend-pl">{{ row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th></tr>
+          {%- else %}
+          <tr class="legend-gap"><td colspan="3"></td></tr>
+          {%- endif %}
+          {%- unless solo %}
+          {%- for it in row.items %}
+          <tr>
+            <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}"></span></td>
+            <td lang="pl" class="legend-pl">{{ it.pl }}</td>
+            <td>{% if lang == 'de' %}{{ it.de }}{% else %}{{ it.en }}{% endif %}</td>
+          </tr>
+          {%- endfor %}
+          {%- endunless %}
+        {%- endfor %}
+        </tbody>
+      </table>
+      <p class="map-legend-note">{{ t.map_legend_note }}</p>
+    </section>
+    {%- endif %}
+
   </div>
 
   <div class="map-stage">
@@ -92,6 +129,26 @@ layout: default
 .map-mark-list li { display: list-item; padding: .3rem 0 .3rem .2rem; }
 .map-mark-list li::marker { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
 .map-mark-list li.is-on { background: rgba(180, 60, 50, .08); }
+/* the map's own legend, redrawn: each block is the colour sampled from the
+   scan, with the stronger strip the draughtsman laid along its top and left */
+.map-legend { margin: 1.6rem 0 1.6rem; }
+.map-legend h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
+.map-legend-title { margin: 0 0 .5rem; font-size: .92rem; }
+.legend-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+.legend-table th, .legend-table td { padding: .28rem .4rem; text-align: left; vertical-align: middle; }
+.legend-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--ink-faint); border-bottom: 1px solid var(--rule); }
+.legend-table thead th:first-child { width: 3.8rem; }
+.legend-group th { padding-top: .8rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
+.legend-solo td, .legend-solo th { padding-top: .8rem; border-bottom: 1px solid var(--rule); }
+.legend-gap td { padding: .5rem 0 0; border-bottom: 1px solid var(--rule); }
+.legend-pl { font-style: italic; }
+.legend-group .legend-pl { font-weight: 400; }
+.map-legend-note { font-family: var(--sans); font-size: .78rem; color: var(--ink-soft); margin: .5rem 0 0; }
+.sw { display: block; box-sizing: border-box; width: 3.2rem; height: 1.5rem; background-color: var(--fill); border: 1px solid var(--line); border-top: 4px solid var(--edge); border-left: 4px solid var(--edge); }
+.sw-wash { background-image: linear-gradient(var(--inner), var(--inner)); background-repeat: no-repeat; background-position: 100% 100%; background-size: 70% 60%; }
+.sw-dots { background-image: radial-gradient(circle, var(--ink) 0 1.5px, transparent 2px); background-size: 20% 33%; }
+.sw-wet { background-image: linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)); background-repeat: no-repeat; background-size: 30% 2px, 22% 2px, 16% 2px, 28% 2px, 12% 2px; background-position: 14% 22%, 56% 20%, 18% 52%, 60% 56%, 34% 84%; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .map-place { font-weight: 600; }
 .map-refs { display: block; font-family: var(--sans); font-size: .8rem; color: var(--ink-soft); margin-top: .15rem; }
 .map-chips { display: inline-flex; flex-wrap: wrap; gap: .3rem; margin-left: .3rem; vertical-align: baseline; }

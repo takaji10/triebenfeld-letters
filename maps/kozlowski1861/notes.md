@@ -26,6 +26,16 @@ powiecie konińskim").
   title cartouche, a compass rose, the legend *Wyjaśnienie Kolorów*
   and a scale bar (*Podziałka Nowo Polska*), **1:20 000** (confirmed by the
   editor, 2026-10-30; the register's `scale`).
+- **The legend is in the edition** (`legend.yml`, built onto the map page by
+  `map_pages.py`, 2026-10-30, at the editor's request): the fifteen blocks
+  under their five grouping headers, with water and "drogi i place pod
+  zabudowaniami" standing outside the groups as on the sheet; the Polish as
+  written, read by Claude from the scan, and an English column, to be
+  checked by the editor. The colours are the scan's (fill, edge strip,
+  pencil line, sampled); the three patterned blocks (orchard dots, the wet
+  meadows' and pastures' blue dashes, water's graded pale inset) are drawn
+  with the page's CSS. Łukom 1766 has no legend on its sheet: the section
+  shows only where a map has `legend.yml`.
 
 ## The georeference
 

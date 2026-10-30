@@ -1,0 +1,105 @@
+# The legend of Kozłowski 1861, "Wyjaśnienie Kolorów", at the lower right of the
+# sheet (read from the scan, 2026-10-30; Claude's reading and translation, to be
+# checked by the editor). Colours are sampled from the scan (the sheet as
+# scanned, on yellowed paper): `fill` the block's wash, `edge` the stronger
+# strip along its top and left, `line` the pencil outline. `pattern` is what the
+# block adds to the wash: dots (orchard), wet (blue dashes: marsh), wash (water's
+# graded blue). A group is a heading on the sheet over its blocks. Water is a
+# heading over one block (written in the headings' hand, no label of its own: an
+# item with only a swatch); roads and plots under buildings is a labelled block
+# under no heading (`group: null`).
+# Rendered on the map page by pipeline/maps/map_pages.py.
+title:
+  pl: Wyjaśnienie Kolorów
+  en: Explanation of the colours
+  de: Erklärung der Farben
+rows:
+- group:
+    pl: Grunta orne
+    en: Arable land
+    de: Ackerland
+  items:
+  - pl: Folwarczne
+    en: Manorial
+    de: Vorwerksland
+    swatch: {fill: '#decdb2', edge: '#cd968c', line: '#857565'}
+  - pl: Kościelne
+    en: Church
+    de: Kirchenland
+    swatch: {fill: '#d2ccb1', edge: '#b0afa6', line: '#837c6b'}
+  - pl: Włościańskie
+    en: Peasant
+    de: Bauernland
+    swatch: {fill: '#d9cca1', edge: '#d1bf71', line: '#a39a78'}
+  - pl: Kolonialne
+    en: Colonists'
+    de: Kolonistenland
+    swatch: {fill: '#dccba3', edge: '#c7a073', line: '#8b7b66'}
+- group:
+    pl: Wody
+    en: Water
+    de: Gewässer
+  items:
+  - swatch: {fill: '#adb7af', edge: '#7b8b97', line: '#6a6b63', pattern: wash, inner: '#c6c8b6'}
+- group:
+    pl: Ogrody
+    en: Gardens
+    de: Gärten
+  items:
+  - pl: warzywne
+    en: Vegetable
+    de: Gemüsegärten
+    swatch: {fill: '#8b9b92', edge: '#6e7e7c', line: '#585a51'}
+  - pl: owocowe
+    en: Orchard
+    de: Obstgärten
+    swatch: {fill: '#92a196', edge: '#7d8f86', line: '#636459', pattern: dots, ink: '#454d47'}
+- group:
+    pl: Lasy
+    en: Forests
+    de: Wälder
+  items:
+  - pl: iglaste
+    en: Coniferous
+    de: Nadelholz
+    swatch: {fill: '#afa793', edge: '#948c7a', line: '#71695a'}
+  - pl: liściowe
+    en: Deciduous
+    de: Laubholz
+    swatch: {fill: '#b1ae9b', edge: '#9c9e90', line: '#8b897a'}
+  - pl: zagaje
+    en: Copses
+    de: Gehölze
+    swatch: {fill: '#cbc1a7', edge: '#b1a792', line: '#a09780'}
+- group:
+    pl: Łąki
+    en: Meadows
+    de: Wiesen
+  items:
+  - pl: suche
+    en: Dry
+    de: trocken
+    swatch: {fill: '#d1cdb5', edge: '#bcc29e', line: '#838871'}
+  - pl: mokre
+    en: Wet
+    de: nass
+    swatch: {fill: '#d0cdb3', edge: '#b1ba93', line: '#8a8873', pattern: wet, ink: '#8499ae'}
+- group: null
+  items:
+  - pl: drogi i place pod zabudowaniami
+    en: Roads and plots under buildings
+    de: Wege und Plätze unter Gebäuden
+    swatch: {fill: '#cfba90', edge: '#cebb91', line: '#ac9a7e'}
+- group:
+    pl: Pastwiska
+    en: Pastures
+    de: Weiden
+  items:
+  - pl: suche
+    en: Dry
+    de: trocken
+    swatch: {fill: '#d0ccac', edge: '#acb29b', line: '#9a947e'}
+  - pl: mokre
+    en: Wet
+    de: nass
+    swatch: {fill: '#cfcbad', edge: '#b4b9a2', line: '#979783', pattern: wet, ink: '#8499ae'}

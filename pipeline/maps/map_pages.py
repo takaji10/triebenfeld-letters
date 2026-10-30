@@ -6,6 +6,7 @@ The maps that are in the edition get their pages on the website
 Reads  : reference/maps.yml                 the register of maps
          maps/<key>/labels.yml              the editor's marks on the map
          maps/<key>/positions.yml           the fit's ground position of each mark
+         maps/<key>/legend.yml              the map's own legend, where it has one
          reference/gazetteer/*.yml          the places and their map appearances
 Writes : site/_data/maps.yml                per in-project map: its page's data
          site/_data/maps_list.yml           the Maps page's cards
@@ -195,6 +196,9 @@ def main():
             'n_places': len({l['place'] for l in labels if l['place']}),
             'labels': labels,
         }
+        legend_p = os.path.join(MAPS_DIR, key, 'legend.yml')
+        if os.path.isfile(legend_p):
+            out_maps[key]['legend'] = read_yaml(legend_p)
         if not m.get('tiles'):
             die(f'{where}: no `tiles` in reference/maps.yml - the page has '
                 'nothing to open')
