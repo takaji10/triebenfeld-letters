@@ -3856,3 +3856,22 @@ footer on every page. Changed, in both languages:
   itself (NEEDS_CONFIRMATION, `reference/places.yml`, "the editor's ruling") on
   some holding and literature pages, which read as method talk; the
   `cache/summaries-raw*` copies of three summaries (on the editor's machine).
+
+## 2026-10-30 - "How it was prepared" without the repository
+
+- At the editor's word, the method tabs of five holdings rewritten in both
+  languages: 53/4/0/-/62, Pyzdry Gr.115, Poznań Gr.1181, -/782, and one
+  dated ruling in -/716. Out: file names and paths, script names and flags,
+  page ids, NEEDS_CONFIRMATION, the spot sheet's address, dated citations of
+  rulings, the cost sentences and a tooling story (a check that crashed).
+  Kept: what was done, who decided, what is still open. The model is named
+  Claude where "the session" stood. Gr.1181 lost its own heading (no other
+  tab has one); 53/4/0/-/62's last section is now "Index".
+- Two slips in the tabs put right: Pyzdry Gr.115 said "nine corpus lines"
+  for a table of a heading row and seven rows (eight lines, as the
+  transcription has them); 53/4/0/-/62's list items began with "– " and ran
+  together on the page.
+- `check_unit_text.py` fails a line begun with an en or em dash and a space.
+  HOUSE_STYLE records the ruling. The scan's `method-repo` flags: 55 to 0.
+  Verified: build, `pipeline/verify_site.py`, `check_unit_text.py`. Not
+  published.

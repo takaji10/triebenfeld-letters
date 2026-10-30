@@ -14,7 +14,11 @@ long one is exactly where a figure gets carried over wrongly. So:
         text, its English, its summaries, its reading notes or its date)
   FAIL  a paragraph of about.md that cites nothing and is not marked as
         context (<!-- context -->)
-  FAIL  an em or en dash in English prose (docs/HOUSE_STYLE.md)
+  FAIL  an em dash, or a hyphen standing for a dash, in English prose
+        (docs/HOUSE_STYLE.md, "Typography")
+  FAIL  a line begun with an en or em dash and a space, in either language:
+        Markdown does not take it as a list item, so it runs into the line
+        above (seen in 53/4/0/-/62, 2026-10-30)
   note  a capitalised word found neither in the cited documents nor in the
         authorities: usually an ordinary word, sometimes a name got wrong
 
@@ -97,6 +101,8 @@ def check(unit, recs, authority):
             # for a dash, is the slip. (Until then no dash at all was allowed.)
             if english and re.search(r'—|(?<=\S) - (?=\S)', re.sub(r'`[^`]*`|"[^"]*"|“[^”]*”', '', para)):
                 fails.append(f'{name}: an em dash or a hyphen for a dash in "{head}..."')
+            if re.search(r'(?m)^[–—] ', para):
+                fails.append(f'{name}: a list item begun with a dash, not "- " ("{head}...")')
             ids = [i.strip() for m in CITE.finditer(para) for i in m.group(1).split(',')]
             for i in ids:
                 if i not in by_id:

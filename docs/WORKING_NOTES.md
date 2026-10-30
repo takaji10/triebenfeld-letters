@@ -2740,3 +2740,15 @@ it in the nominative, or in the undeclined form, in the same source.
   sub-agents stopped mid-task on the five-hour limit (2026-10-29); after the
   reset a SendMessage to each ("continue from where you stopped; do not
   split anything twice") finished the job without starting over.
+- **"How it was prepared" without the repository (2026-10-30).** The
+  editor agreed: method stays on the tab, file and script names,
+  NEEDS_CONFIRMATION, the spot sheet and dated rulings go (HOUSE_STYLE, "A
+  holding's own page"). Five holdings carried them, all added 2026-10-25/26
+  (53/4/0/-/62, Pyzdry Gr.115, Poznań Gr.1181, -/782, a date in -/716): the
+  tab was written from the session's own notes. Write it for the reader, and
+  check it with `voice_scan.py` (the `method-repo` flag) before committing.
+- **A list item begun with "– " is no list item.** 53/4/0/-/62's tab had
+  ten items (four in the German) written "– " instead of "- ", since the day it was added;
+  Markdown ran them into the line above. `check_unit_text.py` now fails a
+  line that starts with an en or em dash and a space. A dash pass must leave
+  a line-initial "- " alone.

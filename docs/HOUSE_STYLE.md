@@ -177,6 +177,14 @@ meeting the holding for the first time (editor, 2026-10-01):
 - Method belongs in `process.md` and in **About the edition**, not in the
   description. It is told plainly and briefly: what was done, who decided,
   what is still uncertain. No tool names, no costs.
+  The editor, 2026-10-30, of the "How it was prepared" tabs: method stays
+  there, but no file names or paths, no script names or flags, no page ids
+  (`0543_a`), no NEEDS_CONFIRMATION, no "spot sheet" or its address, and no
+  dated citations of a ruling ("(the editor, 2026-10-14)"). Say who decided
+  in the sentence ("at the editor's word", "the editor ruled on 26 October
+  2026"); call the model Claude, not "the session"; an open question is "still
+  open", not "put to the editor"; a translation made in session is "written
+  in a working session under the same rules as the other holdings".
 
 ## The era essay
 
