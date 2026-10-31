@@ -3988,3 +3988,25 @@ footer on every page. Changed, in both languages:
   (build 2m23s with verify_site inside, deploy 29s). The home page, the
   People page and the family's card answer on the live site, Cyrillic
   name and all.
+
+## 2026-10-31: Muszyńska-Zygmańska (1947) added to the literature (repository, summary only)
+
+- The Polish transcription and the corrected AI English of *Wielkopolska w
+  powstaniu kościuszkowskim* (Poznań 1947) are in `literature/muszynska1947/`,
+  cut into **150 passages**: the front, the five chapters (pp. 7-154) and the
+  notes. The bibliography, index and errata are apparatus and are not cut into
+  passages (the work's `notes.md`).
+- The English was audited whole before it came in: all **411 body paragraphs**
+  and **521 notes** read against the Polish, **87 findings** (3 S1, 23 S2,
+  61 S3; 68 fixed, 15 source notes, 3 author queries, 1 rejected). This is
+  stronger than the literature's usual spot check.
+- Kept **`visible: false`**: the book is of 1947 and its rights are not
+  established here. The site shows only the detailed summary (`summary_en`,
+  `summary_de`); the passages stay in `dataset/literature/` for questions.
+  **The editor's word is needed to publish it**; making it visible would also
+  require ruling the literature index's hits on its Polish text.
+- `pipeline/literature/build_literature.py --quiet` gives 150 passages with
+  no page missing from either language; `literature_site.py` writes the
+  summary page; `jekyll build` and `verify_site.py` pass (630 documents,
+  61,223 internal links). `docs/LITERATURE_PLAN.md` section 30 and
+  `docs/NEEDS_CONFIRMATION.md` record it.

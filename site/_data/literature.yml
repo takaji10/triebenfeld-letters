@@ -504,6 +504,27 @@
   brief_de: Minakowskas Genealogieseite der Helena Zielonacka, Frau des Józef Ścibor-Chełmski von Łukomia und Mutter der Brüder Chełmski.
   thumb: null
   pages: 0
+- slug: muszynska1947
+  kind: book
+  title: Wielkopolska w powstaniu kościuszkowskim
+  title_en: Greater Poland in the Kościuszko Insurrection
+  cite: Muszyńska-Zygmańska (1947)
+  author: Janina Muszyńska-Zygmańska
+  author_sort: Muszyńska-Zygmańska, Janina
+  published: Nakładem Głównego Komitetu Kościuszkowskiego w Krakowie, Poznań 1947
+  year: 1947
+  language: pl
+  english_by: Claude (machine translation, checked and corrected in a bilingual QA pass, 2026)
+  scan: ''
+  note_en: ''
+  note_de: ''
+  account_en: Janina Muszyńska-Zygmańska's 1947 monograph on Greater Poland (Wielkopolska) in the Kościuszko Insurrection. It follows the province from the Second Partition and the first years of Prussian rule, through the outbreak of 1794 and the reasons Greater Poland joined it late, the local armed movement and Dąbrowski's expedition, to the fall of the insurrection, the last efforts of the Greater Poles and the Prussian trials, sequestrations and reforms that followed. It rests on the South Prussian administrative files in the State Archive in Poznań, the press, memoirs and the printed sources, and states its judgements plainly. A work of its time, written in Poznań in 1947.
+  account_de: Janina Muszyńska-Zygmańskas Monographie von 1947 über Großpolen (Wielkopolska) im Kościuszko-Aufstand. Sie verfolgt die Provinz von der Zweiten Teilung und den ersten Jahren der preußischen Herrschaft über den Ausbruch von 1794 und die Gründe, warum sich Großpolen ihm erst später anschloss, die örtliche bewaffnete Bewegung und Dąbrowskis Expedition bis zum Zusammenbruch des Aufstands, den letzten Anstrengungen der Großpolen und den preußischen Prozessen, Sequestrationen und Reformen danach. Sie stützt sich auf die Akten der südpreußischen Verwaltung im Staatsarchiv Posen, auf Presse, Memoiren und gedruckte Quellen, und sagt ihre Urteile deutlich. Ein Werk seiner Zeit, 1947 in Posen geschrieben.
+  brief_en: 'Muszyńska-Zygmańska on Greater Poland in the 1794 Kościuszko Insurrection: the Prussian takeover, the rising, Dąbrowski''s expedition and the reprisals.'
+  brief_de: 'Muszyńska-Zygmańska über Großpolen im Kościuszko-Aufstand von 1794: die preußische Übernahme, der Aufstand, Dąbrowskis Expedition und die Repressalien.'
+  thumb: null
+  pages: 0
+  summary_only: true
 - slug: pachonski1973
   kind: article
   title: Les Polonais dans la République de Venise (1794-1797)

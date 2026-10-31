@@ -1,0 +1,277 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is the
+# Polish text of the book, front matter through the notes, without the
+# bibliography, index and errata (the apparatus is not cut into passages; see
+# notes.md). english.md is the corrected English translation. The book is under
+# copyright (1947; the author's death is not established here), so it is kept
+# off the site (visible: false) with the detailed summary below, like Seidel
+# (2018) and Slowinski (2023); the passages stay in dataset/literature for
+# questions. Do not change this without the editor's word.
+slug: muszynska1947
+visible: false
+kind: book
+title: "Wielkopolska w powstaniu kościuszkowskim"
+title_en: "Greater Poland in the Kościuszko Insurrection"
+cite: "Muszyńska-Zygmańska (1947)"
+author: "Janina Muszyńska-Zygmańska"
+author_sort: "Muszyńska-Zygmańska, Janina"
+published: "Nakładem Głównego Komitetu Kościuszkowskiego w Krakowie, Poznań 1947"
+year: 1947
+language: pl
+english_by: "Claude (machine translation, checked and corrected in a bilingual QA pass, 2026)"
+pages:
+  mark: '^\[(?P<page>\d+)\] <!-- p\.\d+ -->\s*$'
+notes:
+  original: '^## Przypisy$'
+  english: '^## Notes$'
+account_en: >-
+  Janina Muszyńska-Zygmańska's 1947 monograph on Greater Poland
+  (Wielkopolska) in the Kościuszko Insurrection. It follows the province from
+  the Second Partition and the first years of Prussian rule, through the
+  outbreak of 1794 and the reasons Greater Poland joined it late, the local
+  armed movement and Dąbrowski's expedition, to the fall of the insurrection,
+  the last efforts of the Greater Poles and the Prussian trials, sequestrations
+  and reforms that followed. It rests on the South Prussian administrative
+  files in the State Archive in Poznań, the press, memoirs and the printed
+  sources, and states its judgements plainly. A work of its time, written in
+  Poznań in 1947.
+account_de: >-
+  Janina Muszyńska-Zygmańskas Monographie von 1947 über Großpolen
+  (Wielkopolska) im Kościuszko-Aufstand. Sie verfolgt die Provinz von der
+  Zweiten Teilung und den ersten Jahren der preußischen Herrschaft über den
+  Ausbruch von 1794 und die Gründe, warum sich Großpolen ihm erst später
+  anschloss, die örtliche bewaffnete Bewegung und Dąbrowskis Expedition bis zum
+  Zusammenbruch des Aufstands, den letzten Anstrengungen der Großpolen und den
+  preußischen Prozessen, Sequestrationen und Reformen danach. Sie stützt sich
+  auf die Akten der südpreußischen Verwaltung im Staatsarchiv Posen, auf Presse,
+  Memoiren und gedruckte Quellen, und sagt ihre Urteile deutlich. Ein Werk
+  seiner Zeit, 1947 in Posen geschrieben.
+
+# The card's own short rendering of the account (the list pages, 2026-10-29).
+brief_en: >-
+  Muszyńska-Zygmańska on Greater Poland in the 1794 Kościuszko Insurrection:
+  the Prussian takeover, the rising, Dąbrowski's expedition and the reprisals.
+brief_de: >-
+  Muszyńska-Zygmańska über Großpolen im Kościuszko-Aufstand von 1794: die
+  preußische Übernahme, der Aufstand, Dąbrowskis Expedition und die Repressalien.
+
+# The detailed summary shown on the site in place of the text (visible: false).
+summary_en: |
+  Janina Muszyńska-Zygmańska's book is a full account of Greater Poland
+  (Wielkopolska) under Prussian rule and in the Kościuszko Insurrection of
+  1794, written in Poznań in 1947 from the South Prussian administrative files,
+  the contemporary press, memoirs and the printed sources. It is a work of its
+  time: the judgements are stated plainly, and the author writes as a Polish
+  historian of the province's Polish past.
+
+  **The Second Partition and Prussian rule.** The book opens in 1792, with
+  Prussia and Austria failing against revolutionary France and Frederick
+  William II demanding compensation in Polish lands. It follows the diplomacy
+  of Mainz and Merle, the Prusso-Russian convention of 23 January 1793, the
+  Prussian declaration of 6 January, and Möllendorff's six columns entering
+  Greater Poland on 24 January. The Targowica Confederation protested in vain;
+  the weak Greater Poland division under Byszewski withdrew behind the Pilica
+  and the Bzura after small clashes at Sieraków, Kargowa and Gniezno. The
+  occupation was complete with the fall of Częstochowa on 5 March; the
+  notification patent of 25 March, the formal takeover in April and the homage
+  of 7 May at Poznań followed. The new province of South Prussia was organised
+  in two departments, Poznań and Piotrków, with Prussian chambers, courts,
+  schools, Landräte and tax inspectors; Poles were removed from office, noble
+  and clerical land tenure was reduced, and the edict of 24 July 1793 confined
+  landed property to the nobility. The king's autumn tour found the population
+  cool, and the chapter closes by asking why the Poznań burghers, so active in
+  the movement for the Constitution of 3 May, offered no resistance in 1793.
+
+  **The outbreak of the Insurrection.** The second chapter follows the
+  conspiracy from spring 1793 in the army, among the Warsaw "Jacobins" and in
+  the emigration. The moderates wanted preparation, the radicals immediate
+  action; Kościuszko, the expected leader, repeatedly told the delegates to
+  wait, because the army was weak, the peasants were not mobilised and French
+  help was uncertain. In March 1794 the Russian-ordered reduction of the army
+  and the arrests in Warsaw forced events: Madaliński's Greater Poland brigade
+  marched out on 12 March, Kościuszko proclaimed the Insurrection at Kraków on
+  24 March and won at Racławice on 4 April, and Warsaw rose on 17-18 April.
+  The author explains why Greater Poland held back: Prussian troops were
+  scattered through the country, and Kościuszko's policy toward Prussia was
+  conciliatory. He avoided a war on two fronts, negotiated through Zakrzewski
+  with the Prussian envoy Buchholtz, and did not use the Greater Poland
+  delegates. Only after the defeat at Szczekociny on 6 June did he turn openly
+  against Prussia.
+
+  **The rising and Dąbrowski's expedition.** The third and longest chapter
+  begins after Szczekociny. Zajączek is defeated at Chełm, Kraków capitulates,
+  the attempts to break the Prussian cordon on the Narew fail, and the
+  Prusso-Russian army besieges Warsaw from 13 July to 6 September. In
+  mid-August Bielamowski rides out through the Kampinos forest to the Bzura,
+  Gąbin and Włocławek, raids Prussian treasuries and shows how thin the
+  garrisons are. Greater Poland rises in the second half of August: Mniewski at
+  Brześć Kujawski and Włocławek, the assembly at Kościan and the act at Rąbiń,
+  Lipski's Gniezno group, and risings in the Sieradz, Wieluń, Ostrzeszów,
+  Kalisz, Notec and Dobrzyń lands. Prussia has about 8,000 troops in South
+  Prussia and answers with columns under Manstein, Dossow, Bonin, Elsner,
+  Schwerin and Székely; the insurgent moves are patchy, with the surprise at
+  Morkowo, the failure at Jutrosin and the sack of Sieradz. The risings tie
+  down Prussian troops and help persuade Frederick William II to lift the siege
+  of Warsaw. On 9 September Kościuszko sends Dąbrowski with a small regular
+  corps and Wybicki as plenipotentiary; Dąbrowski crosses the Bzura at
+  Kamionna, marches by Gąbin and Koło to Słupca, merges the Greater Poland
+  levies, enters Gniezno on 25 September, beats off Székely's night attack at
+  Łabiszyn and storms Bydgoszcz on 2 October, where Székely is mortally
+  wounded. His detachments reach Świecie, Nakło and Chełmża; the march on Toruń
+  is called off when Ledivary's relief column arrives; news of Maciejowice
+  forces the retreat toward Warsaw. The chapter also follows the parallel
+  partisan war, Schwerin's plundering march to Poznań and the Prussian panic
+  there. Its judgement is that the rising was a real strategic diversion that
+  saved Warsaw, that Dąbrowski's expedition was skilful and disciplined in the
+  Frederician manner, and that the local partisan movement was courageous but
+  short-lived and badly led.
+
+  **The fall.** The fourth chapter turns to the war elsewhere: the collapse of
+  the Lithuanian forces, Suvorov's destruction of Sierakowski's division,
+  Fersen's crossing of the Vistula, and Kościuszko's defeat, wounding and
+  capture at Maciejowice on 10 October. Wawrzecki becomes Commander; the
+  Supreme National Council issues proclamations to keep up morale. Dąbrowski
+  learns of the disaster, leaves Bydgoszcz with prisoners and a large baggage
+  train, withdraws by Gniewkowo, Włocławek and Gąbin, and crosses the Bzura at
+  Mistrzewice unopposed on 23 October; he digs in at Brochów and goes to Warsaw.
+  The author praises the expedition for diverting Prussian forces, damaging
+  Prussia's position in the partition talks and exposing the incompetence of
+  the Prussian commanders. Warsaw's last councils reject Dąbrowski's plan to
+  move the government and army into Greater Poland; Suvorov storms Praga on
+  4 November and Warsaw capitulates on 6 November. The army dissolves after
+  Radoszyce, and Wawrzecki and others are taken by the Russians on
+  18 November. Insurgent bands in Kujawy, Sieradz, Wieluń, Gniezno and
+  Grodzisk keep fighting into December. The closing assessment is that nobles
+  and clergy drove the rising and the peasants held back, and that weak
+  organisation, discord among leaders and the failure to concentrate forces
+  undid it; the Greater Poles are credited with a real diversion behind the
+  Prussian lines.
+
+  **After the fall.** The last chapter opens with the diplomatic collapse:
+  France refuses the loan, the Committee of Public Safety distrusts a "noble"
+  rising, and the late French, Turkish, Swedish and Austrian hopes come to
+  nothing. It traces the final partition negotiations of 1794-95, the
+  Austro-Russian convention of 3 January 1795, the Peace of Basel, the
+  Prusso-Russian treaty of 24 October 1795 and the new Prussian provinces of
+  South Prussia, New East Prussia and New Silesia. It then follows the
+  prosecution of the insurgents: the special commissions, the patents and
+  amnesty offers, Hoym's plan, arrests, sequestrations, fines (with a list of
+  the largest payments) and confiscations, and the dismissal of officials. No
+  death sentence was passed. The Prussian regime is described in its courts,
+  language, Landrecht, control of the clergy, nobility (incolat), towns, Jews,
+  censorship, taxation, domain management, colonisation and grants to Germans,
+  and schooling. The book ends with a patriotic coda on the survival of the
+  Polish spirit, 1848 and the Nazi occupation.
+summary_de: |
+  Janina Muszyńska-Zygmańskas Buch ist eine vollständige Darstellung
+  Großpolens (Wielkopolska) unter preußischer Herrschaft und im
+  Kościuszko-Aufstand von 1794, 1947 in Posen aus den Akten der südpreußischen
+  Verwaltung, der zeitgenössischen Presse, Memoiren und gedruckten Quellen
+  geschrieben. Es ist ein Werk seiner Zeit: Die Urteile werden deutlich
+  ausgesprochen, und die Verfasserin schreibt als polnische Historikerin der
+  polnischen Vergangenheit der Provinz.
+
+  **Die Zweite Teilung und die preußische Herrschaft.** Das Buch beginnt 1792,
+  als Preußen und Österreich gegen das revolutionäre Frankreich scheitern und
+  Friedrich Wilhelm II. Entschädigung in polnischen Ländern verlangt. Es folgt
+  der Diplomatie von Mainz und Merle, der preußisch-russischen Konvention vom
+  23. Januar 1793, der preußischen Erklärung vom 6. Januar und Möllendorffs
+  sechs Kolonnen, die am 24. Januar in Großpolen einrücken. Die Konföderation
+  von Targowica protestiert vergeblich; die schwache großpolnische Division
+  unter Byszewski zieht sich nach kleinen Gefechten bei Sieraków, Kargowa und
+  Gniezno hinter Pilica und Bzura zurück. Die Besetzung ist mit dem Fall
+  Tschenstochaus am 5. März abgeschlossen; das Notifikationspatent vom
+  25. März, die förmliche Übernahme im April und die Huldigung vom 7. Mai in
+  Posen folgen. Die neue Provinz Südpreußen wird in zwei Departements, Posen
+  und Petrikau, mit preußischen Kammern, Gerichten, Schulen, Landräten und
+  Steuerräten organisiert; Polen werden aus den Ämtern entfernt, der adlige und
+  geistliche Landbesitz wird beschnitten, und das Edikt vom 24. Juli 1793
+  beschränkt das Grundeigentum auf den Adel. Die Herbstreise des Königs findet
+  eine kühle Bevölkerung, und das Kapitel schließt mit der Frage, warum die
+  Posener Bürger, so aktiv in der Bewegung für die Verfassung vom 3. Mai, 1793
+  keinen Widerstand leisteten.
+
+  **Der Ausbruch des Aufstands.** Das zweite Kapitel verfolgt die Verschwörung
+  seit dem Frühjahr 1793 in der Armee, unter den Warschauer "Jakobinern" und in
+  der Emigration. Die Gemäßigten wollten Vorbereitung, die Radikalen sofortiges
+  Handeln; Kościuszko, der erwartete Führer, riet den Delegationen wiederholt
+  zu warten, weil die Armee schwach, die Bauern nicht mobilisiert und
+  französische Hilfe unsicher waren. Im März 1794 erzwingen die von Russland
+  befohlene Verkleinerung der Armee und die Verhaftungen in Warschau die
+  Ereignisse: Madalińskis großpolnische Brigade rückt am 12. März aus,
+  Kościuszko proklamiert den Aufstand am 24. März in Krakau und siegt am
+  4. April bei Racławice, Warschau erhebt sich am 17./18. April. Die
+  Verfasserin erklärt, warum Großpolen zurückhielt: Die preußischen Truppen
+  waren im Land verstreut, und Kościuszkos Politik gegenüber Preußen war
+  versöhnlich. Er vermied einen Krieg an zwei Fronten, verhandelte über
+  Zakrzewski mit dem preußischen Gesandten Buchholtz und nutzte die
+  großpolnischen Delegierten nicht. Erst nach der Niederlage bei Szczekociny
+  am 6. Juni wandte er sich offen gegen Preußen.
+
+  **Der Aufstand und Dąbrowskis Expedition.** Das dritte und längste Kapitel
+  beginnt nach Szczekociny. Zajączek wird bei Chełm geschlagen, Krakau
+  kapituliert, die Versuche, den preußischen Kordon an der Narew zu
+  durchbrechen, scheitern, und das preußisch-russische Heer belagert Warschau
+  vom 13. Juli bis 6. September. Mitte August reitet Bielamowski durch den
+  Wald von Kampinos an Bzura, Gąbin und Włocławek, überfällt preußische Kassen
+  und zeigt, wie dünn die Garnisonen sind. Großpolen erhebt sich in der zweiten
+  Augusthälfte: Mniewski in Brześć Kujawski und Włocławek, die Versammlung in
+  Kościan und die Akte von Rąbiń, Lipskis Gnesener Gruppe und Aufstände in den
+  Ländern Sieradz, Wieluń, Ostrzeszów, Kalisz, Netze und Dobrzyń. Preußen hat
+  etwa 8.000 Mann in Südpreußen und antwortet mit Kolonnen unter Manstein,
+  Dossow, Bonin, Elsner, Schwerin und Székely; die Bewegungen der Aufständischen
+  sind uneinheitlich, mit dem Überfall bei Morkowo, dem Scheitern bei Jutrosin
+  und der Plünderung von Sieradz. Die Aufstände binden preußische Truppen und
+  tragen dazu bei, Friedrich Wilhelm II. zur Aufhebung der Belagerung Warschaus
+  zu bewegen. Am 9. September schickt Kościuszko Dąbrowski mit einem kleinen
+  regulären Korps und Wybicki als Bevollmächtigten; Dąbrowski überschreitet die
+  Bzura bei Kamionna, marschiert über Gąbin und Koło nach Słupca, vereinigt die
+  großpolnischen Aufgebote, zieht am 25. September in Gniezno ein, schlägt
+  Székelys Nachtangriff bei Łabiszyn zurück und erstürmt am 2. Oktober
+  Bydgoszcz, wo Székely tödlich verwundet wird. Seine Abteilungen erreichen
+  Świecie, Nakło und Chełmża; der Marsch auf Toruń wird abgebrochen, als
+  Ledivarys Entsatzkolonne eintrifft; die Nachricht von Maciejowice erzwingt
+  den Rückzug nach Warschau. Das Kapitel verfolgt auch den parallelen
+  Partisanenkrieg, Schwerins plündernden Marsch nach Posen und die preußische
+  Panik dort. Sein Urteil: Der Aufstand war eine wirkliche strategische
+  Ablenkung, die Warschau rettete; Dąbrowskis Expedition war geschickt und
+  diszipliniert im friderizianischen Sinne; die örtliche Partisanenbewegung war
+  mutig, aber kurzlebig und schlecht geführt.
+
+  **Der Untergang.** Das vierte Kapitel wendet sich dem Krieg anderswo zu: dem
+  Zusammenbruch der litauischen Kräfte, Suworows Vernichtung von Sierakowskis
+  Division, Fersens Übergang über die Weichsel und Kościuszkos Niederlage,
+  Verwundung und Gefangennahme bei Maciejowice am 10. Oktober. Wawrzecki wird
+  Oberbefehlshaber; der Oberste Nationalrat erlässt Proklamationen, um die
+  Stimmung zu heben. Dąbrowski erfährt von der Katastrophe, verlässt Bydgoszcz
+  mit Gefangenen und einem großen Tross, zieht sich über Gniewkowo, Włocławek
+  und Gąbin zurück und überschreitet am 23. Oktober ungehindert die Bzura bei
+  Mistrzewice; er verschanzt sich bei Brochów und geht nach Warschau. Die
+  Verfasserin lobt die Expedition, weil sie preußische Kräfte band, Preußens
+  Position in den Teilungsverhandlungen schädigte und die Unfähigkeit der
+  preußischen Befehlshaber zeigte. Die letzten Räte Warschaus lehnen Dąbrowskis
+  Plan ab, Regierung und Heer nach Großpolen zu verlegen; Suworow erstürmt
+  Praga am 4. November, Warschau kapituliert am 6. November. Das Heer löst sich
+  nach Radoszyce auf, Wawrzecki und andere werden am 18. November von den
+  Russen gefangen. Aufständische Gruppen in Kujawien, Sieradz, Wieluń, Gniezno
+  und Grodzisk kämpfen bis in den Dezember. Das Schlussurteil: Adel und
+  Geistlichkeit trieben den Aufstand, die Bauern hielten sich zurück; schwache
+  Organisation, Zwietracht der Führer und die fehlende Konzentration der Kräfte
+  machten ihn zunichte; den Großpolen bleibt eine wirkliche Ablenkung hinter
+  den preußischen Linien.
+
+  **Nach dem Untergang.** Das letzte Kapitel beginnt mit dem diplomatischen
+  Zusammenbruch: Frankreich verweigert das Darlehen, der Wohlfahrtsausschuss
+  misstraut einem "adligen" Aufstand, und die späten französischen, türkischen,
+  schwedischen und österreichischen Hoffnungen zerrinnen. Es verfolgt die
+  letzten Teilungsverhandlungen von 1794/95, die österreichisch-russische
+  Konvention vom 3. Januar 1795, den Frieden von Basel, den preußisch-russischen
+  Vertrag vom 24. Oktober 1795 und die neuen preußischen Provinzen Südpreußen,
+  Neuostpreußen und Neuschlesien. Dann folgt die Verfolgung der Aufständischen:
+  die Sonderkommissionen, die Patente und Amnestieangebote, Hoyms Plan,
+  Verhaftungen, Sequestrationen, Geldstrafen (mit einer Liste der größten
+  Zahlungen) und Konfiskationen sowie die Entlassung von Beamten. Kein
+  Todesurteil wurde gefällt. Das preußische Regime wird in Gerichten, Sprache,
+  Landrecht, Kontrolle des Klerus, Adel (Inkolat), Städten, Juden, Zensur,
+  Steuern, Domänenverwaltung, Kolonisation und Landschenkungen an Deutsche und
+  Schulen beschrieben. Das Buch endet mit einer patriotischen Coda über das
+  Fortleben des polnischen Geistes, 1848 und die Nazi-Besatzung.
