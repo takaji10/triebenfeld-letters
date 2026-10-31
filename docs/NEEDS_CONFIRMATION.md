@@ -949,11 +949,12 @@ read, translate and summarise.
     transcribed with its [?]s.
   - **The mosaic fit.** The MapWarper points were made on sheet 4456-4.jpg
     and are moved into the mosaic 4456_full.jpg by an approximate fit
-    (`mapwarper_fit`, found by patch correlation): at the sheet edges,
-    where the sheets overlap, the mosaic's assembly may shift content by a
-    few pixels. The fit's report stands in `maps/pelzucki1896/georef.yml`
-    once georef.py runs; a control point that lands badly is a question
-    here, not a correction.
+    (`mapwarper_fit` [1.0025, 7033, 6910], found by patch correlation,
+    corners within ±35 px): at the sheet edges, where the sheets overlap,
+    the mosaic's assembly may shift content by a few pixels. The fit of the
+    transformed points is good (RMS 2.71 m), which bears the
+    transformation out; a control point that lands badly in the editor's
+    look at the warp is a question here, not a correction.
   - **Glinianki on this plan?** The gazetteer's Glinianki
     (`reference/gazetteer/glinianki.yml`, "isolated dwellings northwest of
     Grabina", coordinates 52.144 N, 17.768 E) lies some 12 km west of the

@@ -81,9 +81,14 @@ section (docs/MAPS_SITE_PLAN.md, section 3).
 The editor's MapWarper points (map **104898**, "Łazińskie Holendry ca.
 1896") were made on the **single sheet `4456-4.jpg`** (7454 × 7392), not on
 the mosaic: `mapwarper_image` names the sheet and `mapwarper_fit`
-[scale, tx, ty] in `reference/maps.yml` moves the fetched points into the
-mosaic's pixels (pipeline/maps/mapwarper.py). The fit itself was found by
-patch correlation in `scratch/map4456/` — see "The mosaic fit" below.
+**[1.0025, 7033, 6910]** in `reference/maps.yml` moves the fetched points
+into the mosaic's pixels (pipeline/maps/mapwarper.py). The fit was found by
+patch correlation in `scratch/map4456/` — see "The mosaic fit" below. The
+check that the transformation is right is the ground itself: the four
+transformed points fit at **RMS 2.71 m** (residuals 1.0–3.7 m; Kozłowski
+1861 fits at 5.8 m, Łukom 1766 at 336 m). Tiles published
+(triebenfeld-maps/pelzucki1896, 1,624 files, 60 MB), the Allmaps warp live
+at warp.html?map=pelzucki1896.
 
 ## The labelling page's new conveniences (the editor's word, 2026-10-31)
 
@@ -110,9 +115,23 @@ patch correlation in `scratch/map4456/` — see "The mosaic fit" below.
 
 ## The mosaic fit (scratch/map4456/, not committed)
 
-The sheets sit in the mosaic at scale 1.00, matched by zero-normalized patch
-correlation (validate the matcher on a self-match first: the first three
-takes of the fit script had the numerator's mean-subtraction and the local
-sums' conjugate wrong, and every "match" was noise). Sheet 1 locks at score
-0.986; the per-sheet (scale, tx, ty) written into `mapwarper_fit` is sheet
-4's, which is the one the MapWarper points need.
+The five sheets sit in the mosaic at a common scale, matched by
+zero-normalized patch correlation (the matcher proved on a self-match
+first: the first three takes of the fit had the numerator's
+mean-subtraction and the local sums' conjugate wrong, and every "match"
+was noise — WORKING_NOTES, "Correlation matchers"). Sheets 1, 2 and 5
+locked at scale 1.000 (scores 0.97–0.997), sheet 3 at 1.015 and sheet 4 at
+**1.0025** (nine patches, corners within ±35 px ≈ ±14 m on the ground).
+The layout is the 3×2 grid the thumb suggests — top row sheets 1, 2 (and
+an empty third cell), bottom row 5, 4, 3 — with ~400–500 px overlaps at
+the sheet edges. Sheet 4's `[scale, tx, ty]` = [1.0025, 7033, 6910] is
+what `mapwarper_fit` carries.
+
+## Where it stands (2026-10-31)
+
+Steps 1–5 of docs/ADDING_A_MAP.md done: register, tiles, control points
+(fetched, transformed, fitted at RMS 2.71 m), tiles published, the
+labelling page built and served at http://localhost:8778/pelzucki1896/
+(a stale server holds 8765; 8778 is this session's). Waiting on the
+editor's marks; then the import, the fit again with the marks, the page
+(`in_project: true` then), the build and the checks.

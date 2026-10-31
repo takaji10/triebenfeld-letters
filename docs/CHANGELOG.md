@@ -4022,10 +4022,15 @@ footer on every page. Changed, in both languages:
   `map_pages.py` carries `texts` and `title_de`; the German
   standfirst uses the German title where the register has one. A map
   needs nothing: the section shows only where `texts.yml` exists.
-- **Tiles cut** into triebenfeld-maps/pelzucki1896 (1,624 files, 60 MB);
-  the register's short entry merged into the full one (the duplicate-key
-  trap struck once: the scripts read the shadowing short entry and the
-  tiles step stopped until merged).
+- **Tiles cut and published** into triebenfeld-maps/pelzucki1896 (1,624
+  files, 60 MB); the register's short entry merged into the full one (the
+  duplicate-key trap struck once: the scripts read the shadowing short
+  entry and the tiles step stopped until merged). The control points
+  fetched from MapWarper 104898 and transformed by the fit; the fit of the
+  four transformed points **RMS 2.71 m** (residuals 1.0–3.7 m), the
+  annotation live, warp.html?map=pelzucki1896 up. The labelling page
+  served at http://localhost:8778/pelzucki1896/ (a stale server of an
+  earlier session holds 8765); the editor's marks are the next step.
 
 ## 2026-10-31: "always tag a Zelmer/Celmer/Zellmer" recorded as standing (branch `mentions-robustness`, not published)
 

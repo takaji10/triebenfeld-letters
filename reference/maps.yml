@@ -171,7 +171,7 @@ maps:
     crop: null          # [left, top, width, height] in original pixels; null for the whole map
     mapwarper: 104898
     mapwarper_image: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Łazińskie Holendry (Muzeum Narodowe Rolnictwa w Szreniawie)/AN-4456/4456-4.jpg'
-    mapwarper_fit: [1.0, 0, 0]   # [scale, tx, ty]: sheet-4 pixels -> the mosaic's; written from the fit (scratch/map4456/)
+    mapwarper_fit: [1.0025, 7033, 6910]   # [scale, tx, ty]: sheet-4 px -> the mosaic's; scratch/map4456/fit_4456_4_global.py + fit_4456_4_fine.py, 2026-10-31 (nine patches, corners within ±35 px)
     tiles: "https://takaji10.github.io/triebenfeld-maps/pelzucki1896/info.json"
     in_project: false   # tiles and page to come (docs/ADDING_A_MAP.md)
   pelzucki1901:

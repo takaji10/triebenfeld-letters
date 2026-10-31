@@ -1136,8 +1136,10 @@ The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
       "The gazetteer" (Noga among Wielki-Bór Obręb's districts).
 - [ ] Map scales: put `scale:` in the register for every map as it comes in
       (your word, 2026-10-30); Łukom 1766 has none recorded.
-- [ ] Pełzucki 1896: the mosaic is tiled; your marks on the labelling page,
-      then the georef, the import and the page (maps/pelzucki1896/notes.md).
+- [ ] Pełzucki 1896: your marks on the labelling page
+      (http://localhost:8778/pelzucki1896/ — tiles and the warp are live,
+      the fit RMS 2.7 m), then the import, the georef again with the
+      marks, the page and the checks (maps/pelzucki1896/notes.md).
 - [ ] The interactive map (/map/).
 
 
