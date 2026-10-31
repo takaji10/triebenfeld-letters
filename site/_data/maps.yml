@@ -1313,6 +1313,89 @@ pelzucki1896:
     to: null
     n: null
     skipped: false
+  legend:
+    lang: ru
+    title:
+      orig: Объясненіе знаковъ
+      en: Explanation of the signs
+      de: Erklärung der Zeichen
+    rows:
+    - group: null
+      items:
+      - orig: Строенія
+        en: Buildings
+        de: Gebäude
+        swatch:
+          fill: '#946837'
+          edge: '#7e582f'
+          line: '#5c4022'
+          pattern: building
+          ink: '#5f4a33'
+      - orig: Огороды
+        en: Gardens
+        de: Gemüsegärten
+        swatch:
+          fill: '#747969'
+          edge: '#636759'
+          line: '#484b41'
+      - orig: Пашня
+        en: Arable land
+        de: Ackerland
+        swatch:
+          fill: '#c59e74'
+          edge: '#a78663'
+          line: '#7a6248'
+      - orig: Луга
+        en: Meadows
+        de: Wiesen
+        swatch:
+          fill: '#ac9e85'
+          edge: '#928671'
+          line: '#6b6252'
+      - orig: Пастбища
+        en: Pastures
+        de: Weiden
+        swatch:
+          fill: '#ae9e81'
+          edge: '#94866e'
+          line: '#6c6250'
+      - orig: Лѣсная поросль [?]
+        en: Forest brush [?]
+        de: Waldgebüsch [?]
+        swatch:
+          fill: '#ab9175'
+          edge: '#917b63'
+          line: '#6a5a49'
+      - orig: Лѣсъ
+        en: Forest
+        de: Wald
+        swatch:
+          fill: '#816c57'
+          edge: '#6e5c4a'
+          line: '#504336'
+      - orig: Сѣчина [?]
+        en: Cleared woodland [?]
+        de: Kahlschlag [?]
+        swatch:
+          fill: '#aa9e83'
+          edge: '#90866f'
+          line: '#696251'
+          pattern: wet
+          ink: '#a9c3d2'
+      - orig: Неудобія
+        en: Unusable land
+        de: Ödland
+        swatch:
+          fill: '#c0976d'
+          edge: '#a3805d'
+          line: '#775e44'
+      - orig: Вода
+        en: Water
+        de: Wasser
+        swatch:
+          fill: '#b0978a'
+          edge: '#968075'
+          line: '#6d5e56'
   texts:
   - id: cartouche
     names:

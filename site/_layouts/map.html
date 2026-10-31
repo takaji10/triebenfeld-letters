@@ -94,29 +94,32 @@ layout: default
     {%- if m.legend %}
     <section class="map-legend">
       <h2>{{ t.map_legend_h2 }}</h2>
-      <p class="map-legend-title"><span lang="pl">{{ m.legend.title.pl }}</span> - {% if lang == 'de' %}{{ m.legend.title.de }}{% else %}{{ m.legend.title.en }}{% endif %}</p>
+      <p class="map-legend-title"><span lang="{{ m.legend.lang | default: 'pl' }}">{{ m.legend.title.orig | default: m.legend.title.pl }}</span> - {% if lang == 'de' %}{{ m.legend.title.de }}{% else %}{{ m.legend.title.en }}{% endif %}</p>
       <table class="legend-table">
         <thead><tr><th scope="col"><span class="visually-hidden">{{ t.map_legend_h2 }}</span></th><th scope="col">{{ t.map_legend_pl }}</th><th scope="col">{{ t.map_legend_tr }}</th></tr></thead>
         <tbody>
+        {%- assign prev_grouped = false -%}
         {%- for row in m.legend.rows %}
           {%- assign solo = false -%}
-          {%- if row.group and row.items.size == 1 and row.items[0].pl == nil %}{% assign solo = true %}{% endif -%}
+          {%- if row.group and row.items.size == 1 and row.items[0].pl == nil and row.items[0].orig == nil %}{% assign solo = true %}{% endif -%}
           {%- if row.group and solo %}
           {%- assign it = row.items[0] %}
           <tr class="legend-group legend-solo">
             <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}{% if it.swatch.line2 %};--line2:{{ it.swatch.line2 }}{% endif %}"></span></td>
-            <th scope="row" colspan="2"><span lang="pl" class="legend-pl">{{ row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th>
+            <th scope="row" colspan="2"><span lang="{{ m.legend.lang | default: 'pl' }}" class="legend-pl">{{ row.group.orig | default: row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th>
           </tr>
           {%- elsif row.group %}
-          <tr class="legend-group"><th scope="colgroup" colspan="3"><span lang="pl" class="legend-pl">{{ row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th></tr>
-          {%- else %}
+          <tr class="legend-group"><th scope="colgroup" colspan="3"><span lang="{{ m.legend.lang | default: 'pl' }}" class="legend-pl">{{ row.group.orig | default: row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th></tr>
+          {%- elsif prev_grouped %}
           <tr class="legend-gap"><td colspan="3"></td></tr>
           {%- endif %}
+          {%- assign prev_grouped = false -%}
+          {%- if row.group %}{% assign prev_grouped = true %}{% endif -%}
           {%- unless solo %}
           {%- for it in row.items %}
           <tr>
             <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}{% if it.swatch.line2 %};--line2:{{ it.swatch.line2 }}{% endif %}"></span></td>
-            <td lang="pl" class="legend-pl">{{ it.pl }}</td>
+            <td lang="{{ m.legend.lang | default: 'pl' }}" class="legend-pl">{{ it.orig | default: it.pl }}</td>
             <td>{% if lang == 'de' %}{{ it.de }}{% else %}{{ it.en }}{% endif %}</td>
           </tr>
           {%- endfor %}
@@ -279,6 +282,8 @@ layout: default
 .sw-wash { border-color: var(--edge) var(--line2) var(--line2) var(--edge); border-width: 4px 2px 2px 4px; background-image: linear-gradient(var(--inner), var(--inner)); background-repeat: no-repeat; background-position: 100% 100%; background-size: 70% 60%; }
 .sw-dots { background-image: radial-gradient(circle, var(--ink) 0 2px, transparent 2.5px); background-size: 18% 34%; }
 .sw-wet { background-image: linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)); background-repeat: no-repeat; background-size: 26% 2px, 18% 2px, 12% 2px, 8.5% 2px, 26% 2px, 14% 2px, 20% 2px, 9.5% 2px, 22% 2px, 30% 2px; background-position: 7% 24%, 45% 22%, 70% 26%, 92% 18%, 4% 58%, 39% 52%, 67% 60%, 87% 55%, 11% 88%, 71% 82%; }
+/* the key's building sign: a small dark footprint on the block */
+.sw-building { background-image: linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)), linear-gradient(var(--ink), var(--ink)); background-repeat: no-repeat; background-size: 4px 16px, 22px 4px, 4px 16px, 22px 4px; background-position: 24% 50%, 24% 12%, 76% 50%, 24% 84%; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .map-place { font-weight: 600; }
 .map-refs { display: block; font-family: var(--sans); font-size: .8rem; color: var(--ink-soft); margin-top: .15rem; }
