@@ -955,17 +955,19 @@ read, translate and summarise.
     transformed points is good (RMS 2.71 m), which bears the
     transformation out; a control point that lands badly in the editor's
     look at the warp is a question here, not a correction.
-  - **Glinianki on this plan?** The gazetteer's Glinianki
-    (`reference/gazetteer/glinianki.yml`, "isolated dwellings northwest of
-    Grabina", coordinates 52.144 N, 17.768 E) lies some 12 km west of the
-    plan's own ground extent (the MapWarper bbox 17.895–17.939 E,
-    52.085–52.112 N): a village plan at 1:4200 does not reach there. Either
-    the entry's coordinates belong to another Glinianki and the plan's
-    Glinianki (clay pits are named Glinianki in the plural everywhere) is a
-    different, unnamed-in-the-index place by Łazińskie Holendry, or the
-    citation points at the wrong sheet. The mark on the labelling page (or
-    its absence) settles which; the entry's location is not touched until
-    the editor rules.
+  - **Glinianki on this plan — partly settled by the editor's mark
+    (2026-10-31).** The editor marked **Glinianki** on the mosaic
+    (label `pelzucki1896-002`, the plan's lettering reads Glinianki), at
+    the fit's position 52.1169 N, 17.9055 E — on the mosaic's northern
+    sheets, far from the plan's own village. The gazetteer entry's
+    coordinates (52.1439 N, 17.7682 E, "isolated dwellings northwest of
+    Grabina") sit some 13 km northwest of the mark: still two different
+    places, or the entry's coordinates wrong. **For the editor**: which
+    Glinianki the entry describes — the one on this plan, or the one the
+    coordinates name? (The first take of this note reasoned from the
+    MapWarper bbox alone; that bbox is sheet 4's warped extent only, not
+    the mosaic's, and the mark falls outside it on other sheets — the
+    mosaic, not the sheet, is the extent to reason from.)
 
 ## Readings, Oe 1 Bü 9454
 

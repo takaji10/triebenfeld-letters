@@ -266,6 +266,15 @@ dziadolina:
     label: kozlowski1861-005
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-005.jpg
     refs: []
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    year: 1896
+    in_project: true
+    form: Dziadolina
+    note: null
+    label: pelzucki1896-004
+    crop: /assets/maps/crops/pelzucki1896/pelzucki1896-004.jpg
+    refs: []
   - map: trojwiorstowki1914
     cited_as: Trójwiorstówki 1914
     year: 1914
@@ -280,6 +289,9 @@ dziadolina:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-005
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    label: pelzucki1896-004
 garbin:
   appearances:
   - map: kozlowski1861
@@ -300,13 +312,16 @@ glinianki:
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     year: 1896
-    in_project: false
-    form: null
+    in_project: true
+    form: Glinianki
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: pelzucki1896-002
+    crop: /assets/maps/crops/pelzucki1896/pelzucki1896-002.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    label: pelzucki1896-002
 grabina:
   appearances:
   - map: richter1843
@@ -327,10 +342,22 @@ grabina:
     label: kozlowski1861-067
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-067.jpg
     refs: []
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    year: 1896
+    in_project: true
+    form: Grabina
+    note: null
+    label: pelzucki1896-014
+    crop: /assets/maps/crops/pelzucki1896/pelzucki1896-014.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-067
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    label: pelzucki1896-014
 gradzen-las:
   appearances:
   - map: messtischblatt1940
@@ -1158,10 +1185,22 @@ noga:
     label: kozlowski1861-017
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-017.jpg
     refs: []
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    year: 1896
+    in_project: true
+    form: Noga
+    note: null
+    label: pelzucki1896-012
+    crop: /assets/maps/crops/pelzucki1896/pelzucki1896-012.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-017
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    label: pelzucki1896-012
 nowawies-trabczyn:
   appearances:
   - map: kozlowski1861
@@ -1561,10 +1600,22 @@ studzianka:
     label: lukom1766-021
     crop: /assets/maps/crops/lukom1766/lukom1766-021.jpg
     refs: []
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    year: 1896
+    in_project: true
+    form: Studzianka
+    note: null
+    label: pelzucki1896-006
+    crop: /assets/maps/crops/pelzucki1896/pelzucki1896-006.jpg
+    refs: []
   maps_on_site:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-021
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    label: pelzucki1896-006
 szetlew:
   appearances:
   - map: perthees1798
@@ -1777,7 +1828,19 @@ trabczynskie-nowe-oledry:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    year: 1896
+    in_project: true
+    form: Новые Голендры
+    note: null
+    label: pelzucki1896-010
+    crop: /assets/maps/crops/pelzucki1896/pelzucki1896-010.jpg
+    refs: []
+  maps_on_site:
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    label: pelzucki1896-010
 trabczynskie-stare-oledry:
   appearances:
   - map: vonpfau1770
