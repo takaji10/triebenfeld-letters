@@ -71,6 +71,20 @@ def load_map(key, check_file=True):
         die(f"map '{key}' is not in reference/maps.yml (known: {', '.join(maps)})")
     m = dict(maps[key])
     m["key"] = key
+    # A map whose MapWarper points live in another image than the original
+    # (the mosaic of Pełzucki 1896, georeferenced on its sheet 4): the size
+    # checked against MapWarper's is that image's, named `mapwarper_image`
+    # with the mapping `mapwarper_fit: [scale, tx, ty]` into the original's
+    # pixels.
+    if m.get("mapwarper_image"):
+        if not Path(m["mapwarper_image"]).is_file():
+            die(f"the mapwarper_image of '{key}' is not there: {m['mapwarper_image']}")
+        w, h = image_size(m["mapwarper_image"])
+        m["mapwarper_width"], m["mapwarper_height"] = w, h
+        if not m.get("mapwarper_fit"):
+            die(f"map '{key}' has a mapwarper_image but no mapwarper_fit in maps.yml")
+    else:
+        m["mapwarper_width"], m["mapwarper_height"] = m.get("width"), m.get("height")
     if check_file:
         orig = m.get("original")
         if not orig:

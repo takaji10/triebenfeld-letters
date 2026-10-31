@@ -76,7 +76,8 @@ def build_data(key):
         for a in g.get("aliases") or []:
             if a and a not in forms:
                 forms.append(a)
-        places.append({"slug": slug, "heading": heading, "forms": forms})
+        places.append({"slug": slug, "heading": heading, "forms": forms,
+                       "kind": g.get("kind")})
         for it in g.get("maps") or []:
             # absent: true records that the entry says the place is NOT on
             # this map (Myszakówek on Łukom 1766): nothing to find.
@@ -150,6 +151,8 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
 #work .step{font-weight:600;margin-bottom:4px}
 .shows button{display:inline-block}
 .small{font-size:12px;color:#666}
+#add{margin:8px 0 2px}
+#add #b-new{margin:0}
 </style></head><body>
 <div id="panel">
   <h1>Label the map: <span id="mtitle"></span></h1>
@@ -161,16 +164,15 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
     <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
-    <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. Choosing saves the label and moves to the next place.</p>
+    <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. Choosing saves the label and moves to the next place. When the place is one the gazetteer knows, this step is filled in for you from its entry (a village for a village, water for a stream) and the label is saved at once; change it afterwards with <b>Change what it shows</b>.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
     <p>Your work is kept in this browser as you go. Press <b>Save</b> to download a file to bring into the edition.</p>
   </details>
   <div id="status"></div>
   <div id="counter"></div>
+  <div id="add"><button id="b-new">+ New label</button><div id="work" style="display:none"></div></div>
   <h2>To find</h2><ul class="items" id="find"></ul>
   <h2>Other labels</h2><ul class="items" id="other"></ul>
-  <button id="b-new">+ New label</button>
-  <div id="work" style="display:none"></div>
   <datalist id="placelist"></datalist>
 </div>
 <div id="viewer"></div>
@@ -184,6 +186,13 @@ var SHOWS = [["1","village","Village"],["2","oleder-settlement","Olęder settlem
   ["4","tavern","Tavern"],["5","water-mill","Water mill"],["6","windmill","Windmill"],["7","forest","Forest"],
   ["8","field","Field or meadow"],["9","water","Water"],["0","road","Road or crossing"],["-","church","Church"],
   ["=","other","Other"],["u","unsure","Unsure"]];
+// The gazetteer's kind of a place, filled in as the label's type when the
+// place is known (the editor's word, 2026-10-31: choosing the name fills in
+// the type). Kinds the gazetteer holds that no button covers stay "unsure".
+var KIND2SHOWS = {village:"village", hamlet:"village", settlement:"village", town:"village",
+  "isolated-dwellings":"village", "oleder-settlement":"oleder-settlement", folwark:"folwark",
+  tavern:"tavern", "water-mill":"water-mill", windmills:"windmill", forest:"forest",
+  "forest-precinct":"forest", river:"water", stream:"water", field:"field"};
 var LSKEY = "maplabels:" + KEY;
 
 var labels = [];      // saved labels
@@ -196,6 +205,7 @@ var tmpBreaks = [];   // indices into tmp where a new line starts (key L)
 var pendingBreak = false; // L pressed: the next click starts a new line
 var placeMap = {};    // datalist string -> slug
 var headingOf = {};
+var kindOf = {};      // slug -> the gazetteer's kind
 
 function $(id){return document.getElementById(id);}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
@@ -367,7 +377,7 @@ function stepText(){
   var who=cur?("<b>"+esc(cur.form||curHeading()||"new label")+"</b>: "):"";
   if(!cur) return "Choose a place from the list, or press + New label.";
   if(step==="point") return who+"Step 1 of 3. Click the place's symbol (<kbd>N</kbd> if there is none).";
-  if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips.";
+  if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips."+(cur.autoShows?" The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>).":"");
   if(step==="shows") return who+"Step 3 of 3. What does the map show here? Press a key or a button.";
   return who+"Saved. Use the buttons below to change it.";
 }
@@ -376,6 +386,13 @@ function traceInfo(){
   return " ("+tmp.length+" points, line "+Math.max(1,n)+(pendingBreak?": click its start":"")+")";
 }
 function curHeading(){ return cur&&cur.place?headingOf[cur.place]:null; }
+function autoShowsFor(slug){
+  // The type of place from the gazetteer's kind (the editor's word, 2026-10-31).
+  // A type the editor chose by hand is never overwritten.
+  if(!cur||!slug||cur.showsTouched) return;
+  var s=KIND2SHOWS[kindOf[slug]];
+  if(s){ cur.shows=s; cur.autoShows=true; }
+}
 
 // ---------- panel ----------
 function render(){
@@ -422,7 +439,7 @@ function renderWork(){
   }
   h+='<label class="f">Note (optional)</label><input id="f-note" value="'+esc(cur.note||"")+'">';
   if(!isDraft && step===null){
-    h+='<div class="small">Shows: <b>'+esc(cur.shows)+'</b>; height '+cur.height+'</div>';
+    h+='<div class="small">Shows: <b>'+esc(cur.shows)+'</b>'+(cur.place&&KIND2SHOWS[kindOf[cur.place]]===cur.shows?' <span class="small">(from the gazetteer)</span>':'')+'; height '+cur.height+'</div>';
     h+='<div><button data-act="goto">Go to</button><button data-act="redopoint">Redo point</button><button data-act="redotrace">Redo trace</button><button data-act="redoshows">Change what it shows</button><button data-act="delete" class="danger">Delete label</button></div>';
   } else if(isDraft){
     h+='<div><button data-act="cancel">Cancel this label</button></div>';
@@ -436,7 +453,8 @@ function renderWork(){
       cur._placeText=fp.value;
       var slug=placeMap[fp.value]||null; cur.place=slug;
       $("f-placeinfo").innerHTML=slug?"Place chosen: <b>"+esc(headingOf[slug])+"</b>":"No gazetteer place chosen.";
-      if(slug){ var ff=$("f-form"); var m=/^(.*) → /.exec(fp.value); var v=m?m[1]:headingOf[slug]; if(!ff.value||ff.dataset.auto){ff.value=v;ff.dataset.auto="1";cur.form=v;} }
+      if(!slug && cur.autoShows){ cur.shows="unsure"; cur.autoShows=false; }
+      if(slug){ var ff=$("f-form"); var m=/^(.*) → /.exec(fp.value); var v=m?m[1]:headingOf[slug]; if(!ff.value||ff.dataset.auto){ff.value=v;ff.dataset.auto="1";cur.form=v;} autoShowsFor(slug); }
     };
   }
   var nn=$("f-newplace"); if(nn) nn.oninput=function(){cur.new_place=nn.value||null;};
@@ -459,6 +477,7 @@ function newDraft(base){
 function startItem(i){
   var it=DATA.find[i];
   newDraft({place:it.place,form:it.form||it.heading,fromItem:i});
+  autoShowsFor(it.place);
   render();
 }
 function startNew(){
@@ -483,7 +502,7 @@ function finishDraft(){
 }
 function chooseShows(code){
   if(!cur||step!=="shows") return;
-  cur.shows=code;
+  cur.shows=code; cur.showsTouched=true; cur.autoShows=false;
   if(isDraft){ finishDraft(); }
   else { step=null; persist(); render(); }
 }
@@ -498,12 +517,12 @@ function endTrace(){
   var br=tmpBreaks.filter(function(i){return i>0&&i<tmp.length;});
   if(br.length) cur.breaks=br; else delete cur.breaks;
   resetTmp();
-  if(isDraft){ step="shows"; } else { step=null; persist(); }
+  if(isDraft){ if(cur.autoShows){ finishDraft(); return; } step="shows"; } else { step=null; persist(); }
   render();
 }
 function skipTrace(){
   cur.trace=null; delete cur.breaks; resetTmp();
-  if(isDraft){ step="shows"; } else { step=null; persist(); }
+  if(isDraft){ if(cur.autoShows){ finishDraft(); return; } step="shows"; } else { step=null; persist(); }
   render();
 }
 function cancelStep(){
@@ -667,6 +686,7 @@ function afterLoad(){
   var dl=$("placelist");
   DATA.places.forEach(function(p){
     headingOf[p.slug]=p.heading;
+    kindOf[p.slug]=p.kind;
     var add=function(s){ if(!(s in placeMap)){placeMap[s]=p.slug; var o=document.createElement("option"); o.value=s; dl.appendChild(o);} };
     add(p.heading);
     p.forms.forEach(function(f){ if(f!==p.heading) add(f+" → "+p.heading); });

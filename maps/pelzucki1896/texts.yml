@@ -1,0 +1,215 @@
+# The texts on the sheet of the map pelzucki1896, for its page on the site:
+# the title block (cartouche), the certification texts and the explication
+# (the land-area table). The Russian is the transcription kept as transcribed
+# (the editor's AN-4456 folder, files legend_transcription.md,
+# written_text_transcription.md, eksplikatsia_transcription.md; pre-reform
+# orthography, [?] an uncertain reading, [signature] a handwritten signature
+# not read); the English is that folder's own translation; the German is
+# Claude's, made against the English. Read by pipeline/maps/map_pages.py;
+# docs/MAPS_SITE_PLAN.md, section 3.
+map: pelzucki1896
+blocks:
+  - id: cartouche
+    names:
+      en: The title block (cartouche)
+      de: Der Titelblock (Kartusche)
+    margin:
+      en: 'Top left, in a different hand and blue pencil: "Копія" (copy), with the number 3.'
+      de: 'Oben links, anderer Hand und in blauem Bleistift: „Копія“ (Kopie), mit der Zahl 3.'
+    groups:
+      - lines:
+          - ПЛАНЪ
+          - земель поступившихъ въ собственность крестьянъ
+          - селенія
+          - ЛАЗИНСКІЕ ГОЛЕНДРЫ
+          - Калишской Губерніи Слупецкаго Уѣзда
+          - Гмины Тромчинъ
+          - Составленъ въ 1896 году Штатнымъ Землемѣромъ 2го класса Г. А. Пелзуцкимъ [?]
+          - на пяти листахъ
+          - По указанію магнитной стрѣлки, которая имѣла отклоненіе отъ истиннаго меридіана на западъ на 7 град. 30 минутъ
+          - Планъ сей составленъ [?] на основаніи произведеннаго измѣренія въ натурѣ въ 1896 году состоящей [?] при Калишскомъ Губернскомъ Присутствіи.
+          - Штатный Землемѣръ (подписалъ) Пелзуцкій [?]
+          - Коммисаръ по крестьянскимъ дѣламъ Слупецкаго Уѣзда (подписалъ) А. Жемчужинъ [?]
+        translation:
+          en:
+            - PLAN
+            - of the lands that passed into the ownership of the peasants of the village
+            - ŁAZIŃSKIE HOLENDRY
+            - Kalisz Governorate, Słupca uezd
+            - Gmina Tromczyn
+            - Drawn up in 1896 by the Staff Land Surveyor of the 2nd class G. A. Pelzutskiy [?]
+            - on five sheets.
+            - By the indication of the magnetic needle, which had a deviation from the true meridian to the west of 7 degrees 30 minutes.
+            - This plan was drawn up [?] on the basis of the field survey carried out in 1896 [...] attached to the Kalisz Governorate Board.
+            - Staff Land Surveyor (signed) Pelzutskiy [?]
+            - Commissioner for Peasant Affairs of the Słupca uezd (signed) A. Zhemchuzhin [?]
+          de:
+            - PLAN
+            - der Ländereien, die in das Eigentum der Bauern des Dorfes übergegangen sind
+            - ŁAZIŃSKIE HOLENDRY
+            - Gouvernement Kalisch, Ujezd Słupca
+            - Gemeinde Tromczyn
+            - Aufgenommen im Jahre 1896 durch den etatmäßigen Landvermesser zweiter Klasse G. A. Pelzutskij [?]
+            - auf fünf Blättern.
+            - Nach Angabe der Magnetnadel, die vom wahren Meridian um 7 Grad 30 Minuten nach Westen abwich.
+            - Dieser Plan ist [?] auf Grund der im Jahre 1896 vorgenommenen örtlichen Vermessung angefertigt worden, [...] beim Kalischer Gouvernements-Präsenium.
+            - Etatmäßiger Landvermesser (unterzeichnet) Pelzutskij [?]
+            - Kommissar für Bauernangelegenheiten des Ujezd Słupca (unterzeichnet) A. Shemtschuschin [?]
+  - id: certification
+    names:
+      en: The certification texts
+      de: Die Beglaubigungstexte
+    groups:
+      - lines:
+          - Планъ сей по освидѣтельствованіи найденъ составленнымъ правильно.
+          - Межевой Ревизоръ (подписалъ) Л. Шиманскій
+          - Непремѣнный Членъ Калишскаго Губернскаго по крестьянскимъ дѣламъ Присутствія (подписалъ) Н. Базинъ
+          - За Предсѣдателя, состоящаго при Земскомъ Отдѣлѣ Министерства Внутреннихъ Дѣлъ Присутствія по крестьянскимъ дѣламъ Губерній Царства Польскаго, (подписалъ) Сарѣсковъ [?]
+          - Межевой Техникъ (подписалъ) Городецкій
+        translation:
+          en:
+            - This plan, having been examined, has been found to be correctly drawn up.
+            - Land Survey Inspector (signed) L. Shimanskiy
+            - Permanent Member of the Kalisz Governorate Board for Peasant Affairs (signed) N. Bazin
+            - For the Chairman of the Board for Peasant Affairs of the Governorates of the Kingdom of Poland, attached to the Zemsky Department of the Ministry of Internal Affairs, (signed) Saresk[o]v [?]
+            - Land Survey Technician (signed) Gorodetskiy
+          de:
+            - Dieser Plan ist nach stattgehabter Prüfung als richtig angefertigt befunden worden.
+            - Vermessungsrevisor (unterzeichnet) L. Schimanski
+            - Ständiges Mitglied des Kalischer Gouvernementsausschusses für Bauernangelegenheiten (unterzeichnet) N. Basin
+            - Für den Vorsitzenden des bei dem Zemskij-Departement des Ministeriums des Innern bestehenden Präseniums für Bauernangelegenheiten der Gouvernemente des Königreichs Polen (unterzeichnet) Sareskov [?]
+            - Vermessungstechniker (unterzeichnet) Gorodezki
+      - lines:
+          - Вѣрность настоящей копіи съ подлиннымъ планомъ удостовѣряется моею подписью.
+          - гор. Калишъ, 27 [?] Марта 1898 года.
+          - Межевой Ревизоръ [signature]
+          - Непремѣнный Членъ Калишскаго Губернскаго по крестьянскимъ дѣламъ Присутствія [signature]
+        translation:
+          en:
+            - The accuracy of this copy with the original plan is certified by my signature.
+            - City of Kalisz, 27 [?] March 1898.
+            - Land Survey Inspector [signature]
+            - Permanent Member of the Kalisz Governorate Board for Peasant Affairs [signature]
+          de:
+            - Die Richtigkeit der vorliegenden Kopie gegenüber dem Originalplan wird durch meine Unterschrift beglaubigt.
+            - Stadt Kalisch, 27. [?] März 1898.
+            - Vermessungsrevisor [Unterschrift]
+            - Ständiges Mitglied des Kalischer Gouvernementsausschusses für Bauernangelegenheiten [Unterschrift]
+      - lines:
+          - Сія копія выдается изъ Калишскаго Губернскаго по крестьянскимъ дѣламъ Присутствія, на основаніи 1465 ст. Постановленія Учредительнаго Комитета, крестьянамъ селенія Лазинскіе Голендры, гмины Тромчинъ, Слупецкаго уѣзда, Калишской Губерніи, въ семъ подписью съ приложеніемъ казенной печати удостовѣряется.
+          - г. Калишъ, 19 Іюля 1900 года.
+          - Непремѣнный Членъ Калишскаго Губернскаго по крестьянскимъ дѣламъ Присутствія [signature]
+        translation:
+          en:
+            - This copy is issued by the Kalisz Governorate Board for Peasant Affairs, on the basis of Article 1465 of the Decree of the Establishment Committee, to the peasants of the village of Łazińskie Holendry, gmina Tromczyn, Słupca uezd, Kalisz Governorate, and is certified herein by signature with the affixing of the official seal.
+            - City of Kalisz, 19 July 1900.
+            - Permanent Member of the Kalisz Governorate Board for Peasant Affairs [signature]
+          de:
+            - Diese Kopie wird aus dem Kalischer Gouvernementsausschuss für Bauernangelegenheiten auf Grund des Artikels 1465 der Verordnung des Errichtungskomitees den Bauern des Dorfes Łazińskie Holendry, Gemeinde Tromczyn, Ujezd Słupca, Gouvernement Kalisch, ausgehändigt und hierdurch durch Unterschrift mit Beidrückung des Amtssiegels beglaubigt.
+            - Stadt Kalisch, 19. Juli 1900.
+            - Ständiges Mitglied des Kalischer Gouvernementsausschusses für Bauernangelegenheiten [Unterschrift]
+      - lines:
+          - Масштабъ русской мѣры 1:4200
+          - Межевой Ревизоръ [signature]
+        translation:
+          en:
+            - Scale in Russian measure 1:4200.
+            - Land Survey Inspector [signature]
+          de:
+            - Maßstab in russischem Maß 1:4200.
+            - Vermessungsrevisor [Unterschrift]
+  - id: adjoining-lands
+    names:
+      en: Description of adjoining lands
+      de: Beschreibung der angrenzenden Ländereien
+    boundary: true
+    heading_ru: Описаніе смежныхъ земель
+    head:
+      en: [No., From, To, Description, Place]
+      de: [Nr., Von, Bis, Beschreibung, Ort]
+    rows:
+      - section: {ru: Участка № 1-го, en: "Section No. 1", de: "Abschnitt Nr. 1"}
+      - group: {ru: Калишской губерніи Слупецкаго уѣзда, en: "Kalisz Governorate, Słupca uezd", de: "Gouvernement Kalisch, Ujezd Słupca"}
+      - {n: "1", from: А, to: Б, ru: Земли фольварка Владиміровъ частнаго имѣнія Тромбчинъ, en: Lands of the manor farm Włodzimirów of the private estate of Trąbczyn, de: Ländereien des Vorwerks Włodzimirów des Privatgutes Trąbczyn, place: Włodzimirów (Владиміровъ); Trąbczyn (Тромбчинъ)}
+      - {n: "2", from: Б, to: В, ru: Земли крестьянъ селенія Осины, en: Lands of the peasants of the village of Osiny, de: Ländereien der Bauern des Dorfes Osiny, place: Osiny (Осины)}
+      - {n: "3", from: В, to: Г, ru: Земли фольв. Владиміровъ частнаго имѣнія Тромбчинъ, en: Lands of the manor farm Włodzimirów of the private estate of Trąbczyn, de: Ländereien des Vorwerks Włodzimirów des Privatgutes Trąbczyn, place: Włodzimirów (Владиміровъ); Trąbczyn (Тромбчинъ)}
+      - {n: "4", from: Г, to: Д, ru: Лѣсъ частнаго имѣнія Тромбчинъ, en: Forest of the private estate of Trąbczyn, de: Wald des Privatgutes Trąbczyn, place: Trąbczyn (Тромбчинъ)}
+      - {n: "5", from: Д, to: Е, ru: Коренная усадьба имѣнія Тромбчинъ, en: Principal homestead of the estate of Trąbczyn, de: Haupthof des Gutes Trąbczyn, place: Trąbczyn (Тромбчинъ)}
+      - {n: "6", from: Е, to: Ж, ru: Лѣсъ частнаго имѣнія Тромбчинъ, en: Forest of the private estate of Trąbczyn, de: Wald des Privatgutes Trąbczyn, place: Trąbczyn (Тромбчинъ)}
+      - {n: "7", from: Ж, to: З, ru: Земли крестьянъ селенія Михалиново, en: Lands of the peasants of the village of Michalinów, de: Ländereien der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
+      - {n: "8", from: З, to: И, ru: Земли крестьянъ селенія Хута, en: Lands of the peasants of the village of Huta, de: Ländereien der Bauern des Dorfes Huta, place: Huta (Хута)}
+      - {n: "9", from: И, to: І, ru: Земли крестьянъ селенія Михалиново, en: Lands of the peasants of the village of Michalinów, de: Ländereien der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
+      - {n: "10", from: І, to: К, ru: Вырубленный лѣсъ Марадзъ частнаго имѣнія Тромбчинъ, en: Felled forest Maradz of the private estate of Trąbczyn, de: Kahlschlagwald Maradz des Privatgutes Trąbczyn, place: Maradz (Марадзъ); Trąbczyn (Тромбчинъ)}
+      - group: {ru: Калишской губерніи Конинскаго уѣзда, en: "Kalisz Governorate, Konin uezd", de: "Gouvernement Kalisch, Ujezd Konin"}
+      - {n: "11", from: К, to: Л, ru: Земли частнаго имѣнія Бискупице, en: Lands of the private estate of Biskupice, de: Ländereien des Privatgutes Biskupice, place: Biskupice (Бискупице)}
+      - {n: "12", from: Л, to: М, ru: Земли крестьянъ селенія Чарноброд, en: Lands of the peasants of the village of Czarnybród, de: Ländereien der Bauern des Dorfes Czarnybród, place: Czarnybród (Чарноброд)}
+      - {n: "13", from: М, to: Н, ru: Земли частнаго имѣнія Бискупице, en: Lands of the private estate of Biskupice, de: Ländereien des Privatgutes Biskupice, place: Biskupice (Бискупице)}
+      - group: {ru: Калишской губерніи Слупецкаго уѣзда, en: "Kalisz Governorate, Słupca uezd", de: "Gouvernement Kalisch, Ujezd Słupca"}
+      - {n: "14", from: Н, to: О, ru: Вырубленный лѣсъ Выпалѣнки частнаго имѣнія Тромбчинъ, en: Felled forest Wypalanki of the private estate of Trąbczyn, de: Kahlschlagwald Wypalanki des Privatgutes Trąbczyn, place: Wypalanki (Выпалѣнки); Trąbczyn (Тромбчинъ)}
+      - {n: "15", from: О, to: П, ru: Лѣсъ имѣнія Лукомъ, en: Forest of the estate of Łukom, de: Wald des Gutes Łukom, place: Łukom (Лукомъ)}
+      - {n: "16", from: П, to: 'Р [?]', ru: Земли крестьянъ селенія Стависко, en: Lands of the peasants of the village of Stawisko, de: Ländereien der Bauern des Dorfes Stawisko, place: Stawisko (Стависко)}
+      - {n: "17", from: Р, to: С, ru: Участокъ земли имѣнія Тромбчинъ, en: A parcel of land of the estate of Trąbczyn, de: Ein Grundstück des Gutes Trąbczyn, place: Trąbczyn (Тромбчинъ)}
+      - {n: "18", from: С, to: Т, ru: Дополнительный надѣлъ крестьянъ сел. Михалиново, en: Additional allotment of the peasants of the village of Michalinów, de: Zusätzlicher Anteil der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
+      - section: {ru: Участка № 2, en: "Section No. 2", de: "Abschnitt Nr. 2"}
+      - {n: "19", from: Т, to: У, ru: Земли крестьянъ селенія Михалиново, en: Lands of the peasants of the village of Michalinów, de: Ländereien der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
+      - {n: "20", from: У, to: Т, ru: Земли крестьянъ селенія Хута, en: Lands of the peasants of the village of Huta, de: Ländereien der Bauern des Dorfes Huta, place: Huta (Хута)}
+    note:
+      en: >-
+        The stamped capitals (А–У) are the boundary points of the plan, two
+        columns of them at the left of the list; each row runs from one point
+        to the next around the perimeter, and the original writes «отъ» (from)
+        as a ditto mark at the head of each line. Row 16's right-hand letter
+        reads А in the stamp, out of sequence and probably a mis-stamp for Р;
+        rows 19 and 20 close the loop (Т→У, У→Т). The spellings are the
+        Russian renderings of the Polish names (Тромбчинъ = Trąbczyn, the
+        nasal ą written ом); the Polish forms are confirmed by the editor.
+        Фольварокъ is a manor farm (folwark), коренная усадьба the principal
+        homestead, вырубленный лѣсъ felled forest, дополнительный надѣлъ the
+        additional allotment (as in the explication).
+      de: >-
+        Die gestempelten Großbuchstaben (А–У) sind die Grenzpunkte des Plans,
+        in zwei Spalten links neben der Liste; jede Zeile läuft von einem
+        Punkt zum nächsten entlang der Grenze, und die Vorlage schreibt
+        «отъ» (von) als Wiederholungszeichen am Kopf jeder Zeile. Der rechte
+        Buchstabe der Zeile 16 liest sich im Stempel als А, außer der Reihe
+        und wohl ein Versehen für Р; die Zeilen 19 und 20 schließen den
+        Kreis (Т→У, У→Т). Die Schreibungen sind die russischen Wiedergaben
+        der polnischen Namen (Тромбчинъ = Trąbczyn, das nasalę als ом
+        geschrieben); die polnischen Formen hat der Herausgeber bestätigt.
+        Фольварокъ ist ein Vorwerk (folwark), коренная усадьба der Haupthof,
+        вырубленный лѣсъ Kahlschlagwald, дополнительный надѣлъ der
+        zusätzliche Anteil (wie in der Explication).
+  - id: explication
+    names:
+      en: The explication (the land-area table)
+      de: Die Explication (das Flächenverzeichnis)
+    heading_ru: Экспликація
+    head:
+      ru: [Категорія, Дес., Саж.]
+      en: [Category, Des., Saz.]
+      de: [Kategorie, Дес., Саж.]
+    rows:
+      - group: {ru: Основнаго надѣла, en: Of the basic allotment, de: Vom Hauptanteil}
+      - {ru: Удобной земли, en: Arable (usable) land, de: Kulturfähiges Land, des: "842", saz: "219"}
+      - {ru: Неудобной, en: Unusable land, de: Unfähiges Land, des: "28", saz: "1235"}
+      - sum: {ru: Итого, en: Subtotal, de: Zusammen, des: "870", saz: "1454"}
+      - group: {ru: Дополнительнаго надѣла, en: Of the additional allotment, de: Vom zusätzlichen Anteil}
+      - {ru: Удобной земли, en: Arable (usable) land, de: Kulturfähiges Land, des: "192", saz: "1883"}
+      - {ru: Неудобной, en: Unusable land, de: Unfähiges Land, des: "5", saz: "335"}
+      - sum: {ru: Итого, en: Subtotal, de: Zusammen, des: "197", saz: "2218"}
+      - total: {ru: Всего, en: Total, de: Insgesamt, des: "1068", saz: "1272"}
+    note:
+      en: >-
+        Дес. (десятинъ) is desyatinas, Саж. (квадратныхъ саженъ) square
+        sazhens: one desyatina is 2400 square sazhens, about 1.09 hectares,
+        and one square sazhen about 4.55 m². The figures sum correctly
+        (870 + 197 = 1067 desyatinas and 1454 + 2218 = 3672 sazhens = 1
+        desyatina 1272 sazhens), which supports the readings of the digits.
+        The dashes after Итого and Всего in the original are filler strokes.
+      de: >-
+        Дес. (десятинъ) heißt Desjatinen, Саж. (квадратныхъ саженъ)
+        Quadratsaschen: eine Desjatina zählt 2400 Quadratsaschen, rund 1,09
+        Hektar, eine Quadratsasche rund 4,55 m². Die Zahlen gehen richtig auf
+        (870 + 197 = 1067 Desjatinen und 1454 + 2218 = 3672 Saschen = 1
+        Desjatina 1272 Saschen), was die Ziffernlesungen stützt. Die Striche
+        hinter Итого und Всего in der Vorlage sind Füllstriche.

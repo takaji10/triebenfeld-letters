@@ -155,6 +155,11 @@ en:
   map_north: North up
   map_asdrawn: As drawn
   map_inscription: Inscription
+  map_texts_h2: Texts on the sheet
+  map_text_orig: Russian text
+  map_text_tr: English translation
+  map_text_margin: On the sheet
+  map_text_note: Note
   place_maps_h2: On the maps
   place_on_maps: on
   nav_archival: Archival order
@@ -547,6 +552,11 @@ de:
   map_north: Norden oben
   map_asdrawn: Wie gezeichnet
   map_inscription: Inschrift
+  map_texts_h2: Texte auf dem Blatt
+  map_text_orig: Russischer Text
+  map_text_tr: Deutsche Übersetzung
+  map_text_margin: Auf dem Blatt
+  map_text_note: Anmerkung
   place_maps_h2: Auf den Karten
   place_on_maps: auf
   nav_archival: Archivalische Ordnung

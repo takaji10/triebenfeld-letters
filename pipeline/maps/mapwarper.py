@@ -1,6 +1,14 @@
 """Fetch a map's control points from MapWarper into maps/<key>/georef.yml.
 
     python pipeline/maps/mapwarper.py <key>
+
+The points are in the pixels of the image uploaded to MapWarper, which is the
+map's `original` in reference/maps.yml. A map whose `original` is not the
+georeferenced image (the five-sheet mosaic of Pełzucki 1896, georeferenced on
+its sheet 4) names it in `mapwarper_image` and gives the mapping from that
+image's pixels into the original's as `mapwarper_fit: [scale, tx, ty]` - the
+fetched points are scaled and shifted before they are written, and the fit is
+recorded in the file.
 """
 import json
 import sys
@@ -17,8 +25,10 @@ HEADER = """\
 # the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
 # from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
 # those of the file uploaded there, which is the map's `original` in
-# reference/maps.yml. Rows with `from: mapwarper` are replaced on every fetch;
-# any other rows are kept. `fit:` is written by pipeline/maps/georef.py.
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
 """
 
 
@@ -38,12 +48,19 @@ def main():
     if not n:
         die(f"'{key}' has no `mapwarper` number in maps.yml")
     info = get(f"{API}{n}")["data"]["attributes"]
-    if (info["width"], info["height"]) != (m["width"], m["height"]):
+    # The points are in the pixels of the image uploaded to MapWarper: the
+    # map's `original`, or the file named by `mapwarper_image`.
+    image = m.get("mapwarper_image") or m.get("original")
+    if (info["width"], info["height"]) != (m["mapwarper_width"], m["mapwarper_height"]):
         die(f"MapWarper's image is {info['width']} x {info['height']}, maps.yml says "
-            f"{m['width']} x {m['height']}")
+            f"{m['mapwarper_width']} x {m['mapwarper_height']}")
     gcps = get(f"{API}{n}/gcps")["data"]
-    new = [{"id": "mw" + g["id"], "x": round(float(g["attributes"]["x"]), 2),
-            "y": round(float(g["attributes"]["y"]), 2),
+    fit = m.get("mapwarper_fit") or [1.0, 0, 0]
+    s, tx, ty = float(fit[0]), float(fit[1]), float(fit[2])
+    if image == m.get("original") and (s, tx, ty) != (1.0, 0, 0):
+        die(f"'{key}': a mapwarper_fit without a mapwarper_image makes no sense")
+    new = [{"id": "mw" + g["id"], "x": round(s * float(g["attributes"]["x"]) + tx, 2),
+            "y": round(s * float(g["attributes"]["y"]) + ty, 2),
             "lon": float(g["attributes"]["lon"]), "lat": float(g["attributes"]["lat"]),
             "error_mapwarper": round(float(g["attributes"]["error"]), 1),
             "from": "mapwarper"} for g in gcps]
@@ -53,12 +70,18 @@ def main():
     kept = [g for g in (old or {}).get("gcps", []) if g.get("from") != "mapwarper"]
     data = {"map": key, "mapwarper": n, "fetched": date.today().isoformat(),
             "mapwarper_title": info["title"], "source_uri": info.get("source_uri"),
-            "bbox": info["bbox"], "width": info["width"], "height": info["height"],
+            "bbox": info["bbox"],
+            "mapwarper_image": image if image != m.get("original") else None,
+            "mapwarper_fit": fit if image != m.get("original") else None,
+            "width": m["width"], "height": m["height"],
             "gcps": new + kept}
     if old and old.get("fit"):
         data["fit"] = old["fit"]
     dump_yaml(path, data, HEADER)
-    print(f"{len(new)} control points from MapWarper ({len(kept)} others kept) -> {path}")
+    where = ("" if image == m.get("original")
+             else f" (from {Path(image).name}, fit scale {s} offset ({tx:.0f}, {ty:.0f}))")
+    print(f"{len(new)} control points from MapWarper{where} "
+          f"({len(kept)} others kept) -> {path}")
 
 
 main()

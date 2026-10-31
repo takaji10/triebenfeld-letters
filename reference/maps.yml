@@ -139,7 +139,41 @@ maps:
   pelzucki1896:
     cited_as: "Pełzucki 1896"
     year: 1896
-    in_project: false
+    kind: estate
+    # Brought in at the editor's word (2026-10-31); docs/ADDING_A_MAP.md. The
+    # plan of the peasant lands of Łazińskie Holendry, drawn in 1896 by the
+    # staff land surveyor G. A. Pełzucki (Пелзуцкій; the surname's reading
+    # is uncertain, NEEDS_CONFIRMATION); the sheet the museum holds is the
+    # certified copy - examined and passed, the copy certified 1898, issued
+    # with the seal of the Kalisz Governorate Peasant Affairs Board on 19
+    # July 1900. Five sheets, assembled by the editor into one mosaic (the
+    # sheets overlap at their edges); the mosaic is the map of record (the
+    # editor's word, 2026-10-31).
+    # The editor's MapWarper georeferencing (104898, "Łazińskie Holendry
+    # ca. 1896") was made on the single sheet 4456-4.jpg (7454 x 7392): its
+    # control points are in that sheet's pixels, and `mapwarper_image` and
+    # `mapwarper_fit` carry them into the mosaic's.
+    # The title, maker and scale are the sheet's own (the title block's
+    # «Масштабъ русской мѣры 1:4200»; maps/pelzucki1896/notes.md and the
+    # transcriptions in the editor's AN-4456 folder).
+    title: "Планъ земель поступившихъ въ собственность крестьянъ селенія Лазинскіе Голендры Калишской Губерніи Слупецкаго Уѣзда Гмины Тромчинъ"
+    title_en: "Plan of the lands that passed into the ownership of the peasants of the village Łazińskie Holendry, Kalisz Governorate, Słupca uezd, gmina Tromczyn"
+    title_de: "Plan der Ländereien, die in das Eigentum der Bauern des Dorfes Łazińskie Holendry übergegangen sind, Gouvernement Kalisch, Ujezd Słupca, Gemeinde Tromczyn"
+    maker: "Г. А. Пелзуцкій (G. A. Pełzucki)"
+    holder: "Muzeum Narodowe Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie"
+    reference: "AN-4456"
+    scale: "1:4200"    # the title block's «Масштабъ русской мѣры 1:4200», the certified copy's own line
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Łazińskie Holendry (Muzeum Narodowe Rolnictwa w Szreniawie)/AN-4456/4456_full.jpg'
+    width: 21715
+    height: 14206
+    crop: null          # [left, top, width, height] in original pixels; null for the whole map
+    mapwarper: 104898
+    mapwarper_image: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Łazińskie Holendry (Muzeum Narodowe Rolnictwa w Szreniawie)/AN-4456/4456-4.jpg'
+    mapwarper_fit: [1.0, 0, 0]   # [scale, tx, ty]: sheet-4 pixels -> the mosaic's; written from the fit (scratch/map4456/)
+    tiles: "https://takaji10.github.io/triebenfeld-maps/pelzucki1896/info.json"
+    in_project: false   # tiles and page to come (docs/ADDING_A_MAP.md)
   pelzucki1901:
     cited_as: "Pełzucki 1901"
     year: 1901

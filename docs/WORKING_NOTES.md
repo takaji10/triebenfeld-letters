@@ -1679,6 +1679,23 @@ cloud branches").
 
 ## Traps in the tools
 
+- **Correlation matchers: prove them on a self-match first** (2026-10-31,
+  the mosaic fit of Pełzucki 1896, scratch/map4456/). Finding one image
+  inside another by FFT patch correlation ran three takes before it worked,
+  and every take "found" confident matches that were noise: (1) the
+  denominator normalised by the window's standard deviation without
+  subtracting the window's own mean gave scores ~0.007 everywhere (the
+  peak still sits right, the score is meaningless — never threshold on
+  such scores); (2) the local sums `sum(I)` and `sum(I²)` were taken as a
+  plain convolution (`fs*f1`) where a correlation (`fs*conj(f1)`) was
+  wanted, so the normalisation was computed at the wrong offset; (3)
+  numpy's `rfft2(s=...)` pads to `s` but `irfft2(s=...)` interprets `s`
+  as the *output* length, so mixing them broadcasts garbage — plain
+  `fft2`/`ifft2` with one shared padded size `s=(H+h-1, W+w-1)` avoids the
+  whole class. The rule: before believing any "match", run the matcher on
+  a patch cut from the search image itself; it must return ~1.0 at the
+  patch's own position. A score below ~0.9 on a self-match means the
+  formula is wrong, not that the images do not match.
 - **A redirect stub's permalink keeps its trailing slash** (2026-10-27, the
   cemeteries' move under Places). A stub written with
   `permalink: "/cemeteries"` (no slash) renders to `cemeteries.html`, a

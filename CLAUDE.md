@@ -298,10 +298,10 @@ so check them.
   MapWarper (the `.kml` beside each image on J: names its number); the
   tiles are in a second repository, **triebenfeld-maps** (beside this one
   on the desktop; takaji10.github.io/triebenfeld-maps/), since this one is
-  854 MB. **The pilot, Łukom 1766, is built** (2026-10-23; only this map,
-  the editor's word): tiles, the editor's MapWarper points, the labelling
-  page; waiting on the editor's marks. **To add a map, follow
-  `docs/ADDING_A_MAP.md`.**
+  854 MB. **Built: Łukom 1766 (the pilot), Kozłowski 1861 and Pełzucki
+  1896** (the plan of the Łazińskie Holendry peasant lands, Szreniawa
+  AN-4456; in progress 2026-10-31, branch `pelzucki1896`). **To add a map,
+  follow `docs/ADDING_A_MAP.md`.**
 
 - **Rostworowski (1918)** (`rostworowski1918`, added 2026-10-26, branch
   `rostworowski1918`, **published 2026-10-26**): Michał Rostworowski

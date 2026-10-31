@@ -3963,6 +3963,70 @@ footer on every page. Changed, in both languages:
   it — Kozłowski's map, its legend, the corrected places and all of
   today's other rulings went live.
 
+## 2026-10-31: Pełzucki 1896, the third map, and the labelling page's two conveniences (branch `pelzucki1896`, not published)
+
+- **Named by the editor** ("I want to add a new map to the project"):
+  the Szreniawa museum's unit AN-4456, file `4456_full.jpg` — the plan of
+  the lands that passed into the ownership of the peasants of Łazińskie
+  Holendry, gmina Tromczyn (Trąbczyn), Słupca uezd, Kalisz Governorate:
+  the map the gazetteer cites as **Pełzucki 1896** (`glinianki.yml`). The
+  unit holds the five sheets of the plan and the editor's mosaic of them;
+  asked which image is the map of record, the editor named **the mosaic**
+  (`4456_full.jpg`, 21,715 × 14,206) — against ADDING_A_MAP's rule that
+  the original is the file whose size equals MapWarper's, which the
+  procedure now records as the editor's to overrule.
+- **Identified from the sheet itself.** The editor's transcriptions in the
+  unit (legend, certification texts, explication) give the title
+  (ПЛАНЪ земель поступившихъ въ собственность крестьянъ селенія
+  ЛАЗИНСКІЕ ГОЛЕНДРЫ...), the surveyor (Г. А. Пелзуцкій, 1896, staff land
+  surveyor of the 2nd class — the surname's reading uncertain,
+  NEEDS_CONFIRMATION), the scale (**1:4200 in Russian measure**), the
+  certified copy's dates (copy certified at Kalisz 27 March 1898, issued
+  with the seal 19 July 1900) and the five sheets («на пяти листахъ»).
+  The register's entry is filled from them; the English title is the
+  folder's own translation, the German Claude's.
+- **The MapWarper points were made on sheet 4456-4.jpg** (map 104898,
+  "Łazińskie Holendry ca. 1896", 7454 × 7392), not on the mosaic: the
+  register now carries `mapwarper_image` and `mapwarper_fit:
+  [scale, tx, ty]` and `pipeline/maps/mapwarper.py` transforms every
+  fetched point into the mosaic's pixels. The fit is found by patch
+  correlation in `scratch/map4456/` (not committed); the matcher's three
+  wrong takes before it worked are recorded as a lesson (WORKING_NOTES,
+  "Correlation matchers: prove them on a self-match first").
+- **The labelling page's two conveniences** (the editor's word: "instead
+  of filling everything in manually, I want to be able to choose the
+  label name, and then you fill in the type of place"; "add the place
+  name add section to the top of the column"):
+  - choosing a gazetteer place fills the label's type (`shows`) from the
+    place's `kind` (a village for a village, water for a stream —
+    KIND2SHOWS in `label_page.py`), and a label whose type came that way
+    saves at the end of its trace, the "what does the map show" step only
+    when the kind maps to no button; a type the editor chose by hand is
+    never overwritten;
+  - "+ New label" and its form moved to the top of the panel, above the
+    To find list. The saved format and the import are unchanged.
+- **The texts on the sheet** (the editor's word: "make sure the
+  information can be viewed in English, Russian, and German"): the title
+  block, the certification texts, the description of adjoining lands
+  (Описаніе смежныхъ земель — the boundary walk in 20 stretches keyed by
+  stamped letters А–У, two sections, the uezd groups; added the same day
+  at the editor's word from `legend_2_transcription.md` /
+  `legend_2_translation_en.md`) and the explication (the land-area
+  table, basic allotment 870 des. 1454 sq. sazh., additional 197 des.
+  2218 sq. sazh., total 1068 des. 1272 sq. sazh.; the arithmetic checked)
+  are carried in `maps/pelzucki1896/texts.yml` and shown on the map's
+  page — the Russian transcription as transcribed, the page's translation
+  beside it line by line, the two tables as tables with the original's
+  column heads where it has them; the notes explain desyatinas, square
+  sazhens and the stamped boundary letters. New i18n keys;
+  `map_pages.py` carries `texts` and `title_de`; the German
+  standfirst uses the German title where the register has one. A map
+  needs nothing: the section shows only where `texts.yml` exists.
+- **Tiles cut** into triebenfeld-maps/pelzucki1896 (1,624 files, 60 MB);
+  the register's short entry merged into the full one (the duplicate-key
+  trap struck once: the scripts read the shadowing short entry and the
+  tiles step stopped until merged).
+
 ## 2026-10-31: "always tag a Zelmer/Celmer/Zellmer" recorded as standing (branch `mentions-robustness`, not published)
 
 - The editor's rule went into the ledger (`EDITORIAL_RULES.md`, "Rulings the

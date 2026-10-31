@@ -177,6 +177,7 @@ def main():
             'cited_as': m.get('cited_as') or key,
             'title': m.get('title'),
             'title_en': m.get('title_en'),
+            'title_de': m.get('title_de'),
             'maker': m.get('maker'),
             'scale': m.get('scale'),
             'year': m.get('year'),
@@ -199,6 +200,9 @@ def main():
         legend_p = os.path.join(MAPS_DIR, key, 'legend.yml')
         if os.path.isfile(legend_p):
             out_maps[key]['legend'] = read_yaml(legend_p)
+        texts_p = os.path.join(MAPS_DIR, key, 'texts.yml')
+        if os.path.isfile(texts_p):
+            out_maps[key]['texts'] = read_yaml(texts_p).get('blocks') or []
         if not m.get('tiles'):
             die(f'{where}: no `tiles` in reference/maps.yml - the page has '
                 'nothing to open')

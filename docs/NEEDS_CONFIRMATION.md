@@ -933,6 +933,39 @@ read, translate and summarise.
       men), as is the reading of "Horodyński" for the layer's
       "Ilorodyński".
 
+  **Pełzucki 1896** (`pelzucki1896`, added 2026-10-31;
+  `maps/pelzucki1896/notes.md` has the record). The readings come from the
+  editor's own transcriptions in the AN-4456 folder; these are the ones
+  marked uncertain there, and the editor is to rule:
+  - **The surveyor's surname** (Пелзуцкій / Пелзуцкімъ, twice in the title
+    block, initials Г. А. fairly clear): the register's Polish form
+    **Pełzucki** stands behind the gazetteer's short form, but the cursive is
+    not certain. Ruled wrong, the register's maker and the short form change.
+  - **The commissioner's surname** (А. Жемчужинъ or Жемчугинъ): left as
+    Жемчужинъ in the transcription shown on the map's page.
+  - **The day "27"** of the 1898 certification (the month and year clear).
+  - **The clause "Планъ сей составленъ [?] ... состоящей [?] при Калишскомъ
+    Губернскомъ Присутствіи"** (the title block): partly elided; shown as
+    transcribed with its [?]s.
+  - **The mosaic fit.** The MapWarper points were made on sheet 4456-4.jpg
+    and are moved into the mosaic 4456_full.jpg by an approximate fit
+    (`mapwarper_fit`, found by patch correlation): at the sheet edges,
+    where the sheets overlap, the mosaic's assembly may shift content by a
+    few pixels. The fit's report stands in `maps/pelzucki1896/georef.yml`
+    once georef.py runs; a control point that lands badly is a question
+    here, not a correction.
+  - **Glinianki on this plan?** The gazetteer's Glinianki
+    (`reference/gazetteer/glinianki.yml`, "isolated dwellings northwest of
+    Grabina", coordinates 52.144 N, 17.768 E) lies some 12 km west of the
+    plan's own ground extent (the MapWarper bbox 17.895–17.939 E,
+    52.085–52.112 N): a village plan at 1:4200 does not reach there. Either
+    the entry's coordinates belong to another Glinianki and the plan's
+    Glinianki (clay pits are named Glinianki in the plural everywhere) is a
+    different, unnamed-in-the-index place by Łazińskie Holendry, or the
+    citation points at the wrong sheet. The mark on the labelling page (or
+    its absence) settles which; the entry's location is not touched until
+    the editor rules.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as

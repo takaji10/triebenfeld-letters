@@ -22,7 +22,7 @@ layout: default
 <div class="prose person-page place-page">
   <p class="eyebrow"><a href="{{ u_maps | relative_url }}">{{ t.maps_eyebrow }}</a></p>
   <h1>{{ m.cited_as }}</h1>
-  <p class="standfirst">{% if lang == 'de' %}{{ m.title }}{% else %}{{ m.title_en | default: m.title }} — {{ m.title }}{% endif %}</p>
+  <p class="standfirst">{% if lang == 'de' %}{{ m.title_de | default: m.title }} — {{ m.title }}{% else %}{{ m.title_en | default: m.title_de | default: m.title }} — {{ m.title }}{% endif %}</p>
 </div>
 
 <div class="map-columns">
@@ -110,6 +110,99 @@ layout: default
   </div>
 </div>
 
+{%- comment -%}
+  The texts on the sheet, where the map has them carried (maps/<map>/texts.yml):
+  the title block, the certification texts, the explication. The Russian is
+  the transcription, kept as transcribed, with the page's translation under it
+  - the English page reads the English, the German the German (both
+  translations travel in the data). The explication is the table it is, with
+  the original's column heads kept beside the page's.
+{%- endcomment -%}
+{%- if m.texts %}
+<section class="map-texts">
+  <h2>{{ t.map_texts_h2 }}</h2>
+  {%- for b in m.texts %}
+  <div class="map-text-block" id="text-{{ b.id }}">
+    <h3>{{ b.names[lang] | default: b.names.en }}</h3>
+    {%- if b.margin %}
+    <p class="map-text-margin"><span class="map-text-label">{{ t.map_text_margin }}:</span> {{ b.margin[lang] | default: b.margin.en }}</p>
+    {%- endif %}
+    {%- for g in b.groups %}
+    <div class="map-text-pair">
+      <div class="map-text-ru" lang="ru">
+        {%- for line in g.lines %}<p>{{ line }}</p>{% endfor -%}
+      </div>
+      {%- assign tr = g.translation[lang] | default: g.translation.en %}
+      <div class="map-text-tr">
+        {%- for line in tr %}<p>{{ line }}</p>{% endfor -%}
+      </div>
+    </div>
+    {%- endfor %}
+    {%- if b.heading_ru %}
+    <p class="map-text-heading" lang="ru">{{ b.heading_ru }}</p>
+    {%- assign tr = b.head[lang] | default: b.head.en %}
+    {%- if b.boundary %}
+    <table class="map-text-table map-text-boundary">
+      <thead><tr>
+        <th scope="col">{{ tr[0] }}</th>
+        <th scope="col">{{ tr[1] }}</th>
+        <th scope="col">{{ tr[2] }}</th>
+        <th scope="col">{{ tr[3] }}</th>
+        <th scope="col">{{ tr[4] }}</th>
+      </tr></thead>
+      <tbody>
+      {%- for row in b.rows %}
+        {%- if row.section %}
+        <tr class="text-section"><th scope="colgroup" colspan="5"><span lang="ru">{{ row.section.ru }}</span> - {{ row.section[lang] | default: row.section.en }}</th></tr>
+        {%- elsif row.group %}
+        <tr class="text-group"><th scope="colgroup" colspan="5"><span lang="ru">{{ row.group.ru }}</span> - {{ row.group[lang] | default: row.group.en }}</th></tr>
+        {%- else %}
+        <tr>
+          <td class="num">{{ row.n }}</td>
+          <td><span lang="ru">{{ row.from }}</span></td>
+          <td><span lang="ru">{{ row.to }}</span></td>
+          <td><span lang="ru">{{ row.ru }}</span><span class="text-tr-line">{{ row[lang] | default: row.en }}</span></td>
+          <td class="map-text-place">{{ row.place }}</td>
+        </tr>
+        {%- endif %}
+      {%- endfor %}
+      </tbody>
+    </table>
+    {%- else %}
+    <table class="map-text-table">
+      <thead><tr>
+        <th scope="col"><span lang="ru">{{ b.head.ru[0] }}</span> / {{ tr[0] }}</th>
+        <th scope="col"><span lang="ru">{{ b.head.ru[1] }}</span> / {{ tr[1] }}</th>
+        <th scope="col"><span lang="ru">{{ b.head.ru[2] }}</span> / {{ tr[2] }}</th>
+      </tr></thead>
+      <tbody>
+      {%- for row in b.rows %}
+        {%- if row.group %}
+        <tr class="text-group"><th scope="colgroup" colspan="3"><span lang="ru">{{ row.group.ru }}</span> - {{ row.group[lang] | default: row.group.en }}</th></tr>
+        {%- else %}
+        {%- assign name = row.sum | default: row.total | default: row %}
+        {%- assign cls = '' %}
+        {%- if row.sum %}{% assign cls = 'text-sum' %}{% endif -%}
+        {%- if row.total %}{% assign cls = 'text-total' %}{% endif -%}
+        <tr{% if cls %} class="{{ cls }}"{% endif %}>
+          <td><span lang="ru">{{ name.ru }}</span> - {{ name[lang] | default: name.en }}</td>
+          <td class="num">{{ name.des }}</td>
+          <td class="num">{{ name.saz }}</td>
+        </tr>
+        {%- endif %}
+      {%- endfor %}
+      </tbody>
+    </table>
+    {%- endif %}
+    {%- if b.note %}
+    <p class="map-text-note">{{ b.note[lang] | default: b.note.en }}</p>
+    {%- endif %}
+    {%- endif %}
+  </div>
+  {%- endfor %}
+</section>
+{%- endif %}
+
 <script id="map-data" type="application/json">{{ m | jsonify }}</script>
 <script src="{{ '/assets/maps/openseadragon.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/maps/map-viewer.js' | relative_url }}"></script>
@@ -162,6 +255,35 @@ layout: default
 .map-mark.is-on, .map-mark:hover { background: #b33; }
 .map-mark:focus-visible { outline: 2px solid #b33; outline-offset: 2px; }
 .map-tip { position: fixed; transform: translateX(-50%); background: rgba(40, 36, 30, .92); color: #fff; font-family: var(--sans); font-size: .78rem; line-height: 1.25; padding: .25rem .55rem; border-radius: 3px; white-space: nowrap; pointer-events: none; z-index: 60; box-shadow: 0 1px 4px rgba(0, 0, 0, .35); }
+/* the texts on the sheet (the title block, the certification texts, the
+   explication): the Russian transcription and the page's translation side by
+   side, the translation under it on a narrow screen */
+.map-texts { margin: 2.4rem 0 0; max-width: 60rem; }
+.map-texts h2 { margin: 0 0 .6rem; font-size: 1.1rem; }
+.map-text-block { margin: 0 0 2rem; }
+.map-text-block h3 { margin: 0 0 .5rem; font-size: 1rem; }
+.map-text-margin { font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); margin: 0 0 .5rem; }
+.map-text-label, .map-text-ru h4, .map-text-tr h4 { font-family: var(--sans); font-size: .72rem; font-weight: 400; letter-spacing: .04em; text-transform: uppercase; color: var(--ink-faint); }
+.map-text-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; margin: 0 0 .8rem; }
+.map-text-pair p { margin: 0 0 .45rem; }
+.map-text-table { width: 100%; max-width: 34rem; border-collapse: collapse; font-size: .9rem; margin: .6rem 0 .5rem; }
+.map-text-table th, .map-text-table td { padding: .28rem .4rem; text-align: left; vertical-align: middle; }
+.map-text-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--ink-faint); border-bottom: 1px solid var(--rule); }
+.map-text-table .text-group th { padding-top: .8rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
+.map-text-table .num { font-variant-numeric: tabular-nums; text-align: right; }
+.map-text-table .text-sum td, .map-text-table .text-total td { font-weight: 600; border-top: 1px solid var(--rule); }
+.map-text-note { font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); margin: .4rem 0 0; }
+.map-text-heading { font-size: 1rem; margin: 0 0 .4rem; }
+.map-text-boundary { font-size: .86rem; }
+.map-text-boundary td, .map-text-boundary th { vertical-align: top; }
+.map-text-boundary .num { padding-right: .6rem; }
+.map-text-boundary td:nth-child(4) { min-width: 16rem; }
+.text-tr-line { display: block; font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); }
+.text-section th { padding-top: .9rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
+.map-text-place { font-family: var(--sans); font-size: .82rem; }
+@media (max-width: 48rem) {
+  .map-text-pair { grid-template-columns: 1fr; }
+}
 @media (max-width: 64rem) {
   .map-columns { grid-template-columns: 1fr; }
   .map-stage { position: static; order: -1; }
