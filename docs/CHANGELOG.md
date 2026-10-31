@@ -3982,3 +3982,9 @@ footer on every page. Changed, in both languages:
   translations, so their English pages print the Zelmers with no
   `mentions_english` link. A translation pass would add them; it costs
   money, and waits for the editor's word (TODO 58).
+- **Published at the editor's word** ("Push and merge into main"): main
+  fast-forwarded and pushed (703b04f50..587412691, both of today's
+  commits) and the "Build and deploy" run 41187101304 succeeded on it
+  (build 2m23s with verify_site inside, deploy 29s). The home page, the
+  People page and the family's card answer on the live site, Cyrillic
+  name and all.

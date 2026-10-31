@@ -1418,6 +1418,10 @@ transcription; 108 readings settled in session before the first build
 
 ## 58. The mentions' robustness work (2026-10-31, branch `mentions-robustness`)
 
+- [x] Published at your word on 2026-10-31 (main at `587412691`; the
+      "Build and deploy" run 41187101304 succeeded and the pages answer
+      on the live site).
+
 - [x] Sheet and CSV for the documents that carry no tagged people
       (`pipeline/review/zero_mentions.py`, refreshed by every
       `pipeline/regenerate.py`; rulings in
