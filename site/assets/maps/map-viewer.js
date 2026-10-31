@@ -73,10 +73,11 @@ better scan does not move them.
       if (!l.point) return;
       var lid = l.id;
       var d = document.createElement('div');
-      d.className = 'map-mark';
+      d.className = 'map-mark' + (l.role === 'letter' ? ' map-mark-letter' : '');
       d.setAttribute('role', 'button');
       d.setAttribute('tabindex', '0');
       var tip = l.form || '';
+      if (l.role === 'letter' && l.letter && l.letter !== l.form) tip = l.letter;
       if (l.place_name && l.place_name !== l.form) tip += ' — ' + l.place_name;
       d.setAttribute('data-tip', tip);
       d.setAttribute('aria-label', tip);
@@ -118,6 +119,55 @@ better scan does not move them.
     say('The map tiles did not load (' + (e.message || 'error') + ').');
   });
 
+  // ---- the boundary walk, drawn on the map --------------------------------
+  // The stretches of the boundary (labels with a role and a trace) as
+  // polylines over the map, on a canvas above the viewer's own, redrawn on
+  // every view change (the labelling page's overlay pattern).
+  var bcanvas = document.createElement('canvas');
+  bcanvas.className = 'map-boundary-canvas';
+  viewerEl.appendChild(bcanvas);
+  var bctx = bcanvas.getContext('2d');
+  var bStretches = (M.labels || []).filter(function (l) {
+    return l.role === 'boundary' && l.trace && l.trace.length > 1;
+  });
+  function sizeBCanvas() {
+    var r = viewerEl.getBoundingClientRect(), dpr = window.devicePixelRatio || 1;
+    bcanvas.style.width = r.width + 'px';
+    bcanvas.style.height = r.height + 'px';
+    bcanvas.width = Math.round(r.width * dpr);
+    bcanvas.height = Math.round(r.height * dpr);
+    bctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+  function drawBoundary() {
+    if (!bcanvas.width) return;
+    var r = viewerEl.getBoundingClientRect();
+    bctx.clearRect(0, 0, r.width, r.height);
+    if (!viewer.world || !viewer.world.getItemCount()) return;
+    bStretches.forEach(function (l) {
+      var pts = l.trace.map(function (p) {
+        var q = viewer.viewport.imageToViewerElementCoordinates(
+          new OpenSeadragon.Point(p[0], p[1]));
+        return [q.x, q.y];
+      });
+      bctx.beginPath();
+      pts.forEach(function (p, i) { i ? bctx.lineTo(p[0], p[1]) : bctx.moveTo(p[0], p[1]); });
+      bctx.strokeStyle = 'rgba(179, 51, 51, .8)';
+      bctx.lineWidth = 2;
+      bctx.setLineDash([7, 5]);
+      bctx.lineJoin = 'round';
+      bctx.lineCap = 'round';
+      bctx.stroke();
+      bctx.setLineDash([]);
+      // the from-letter's square at the start
+      bctx.fillStyle = '#b33';
+      bctx.fillRect(pts[0][0] - 4, pts[0][1] - 4, 8, 8);
+    });
+  }
+  ['animation', 'update-viewport', 'resize', 'rotate', 'open'].forEach(function (ev) {
+    viewer.addHandler(ev, function () { sizeBCanvas(); drawBoundary(); });
+  });
+  window.addEventListener('resize', function () { sizeBCanvas(); drawBoundary(); });
+
   function highlight(id) {
     Object.keys(marks).forEach(function (k) {
       marks[k].classList.toggle('is-on', k === id);
@@ -138,7 +188,20 @@ better scan does not move them.
 
   function focusLabel(id) {
     var l = byId[id];
-    if (!l || !l.point) return;
+    if (!l || (!l.point && !(l.trace && l.trace.length))) return;
+    if (l.trace && l.trace.length) {
+      // a boundary stretch: the map fits the whole line
+      var x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
+      l.trace.forEach(function (p) {
+        x0 = Math.min(x0, p[0]); y0 = Math.min(y0, p[1]);
+        x1 = Math.max(x1, p[0]); y1 = Math.max(y1, p[1]);
+      });
+      var pad = Math.max(120, Math.max(x1 - x0, y1 - y0) * 0.08);
+      viewer.viewport.fitBounds(viewer.viewport.imageToViewportRectangle(
+        x0 - pad, y0 - pad, (x1 - x0) + 2 * pad, (y1 - y0) + 2 * pad));
+      highlight(id);
+      return;
+    }
     var p = viewer.viewport.imageToViewportCoordinates(
       new OpenSeadragon.Point(l.point[0], l.point[1]));
     // about 0.4 image pixels per screen pixel: a name's lettering readable
@@ -162,7 +225,7 @@ better scan does not move them.
 
   // A row's crop (the [data-label] links of the list) takes the map to its
   // mark; the row's other links (the place's page) navigate as usual.
-  document.querySelectorAll('.map-mark-list a[data-label]').forEach(function (el) {
+  document.querySelectorAll('.map-mark-list a[data-label], .map-boundary-letters a[data-label], .map-boundary-list a[data-label]').forEach(function (el) {
     el.addEventListener('click', function (ev) {
       var lid = el.getAttribute('data-label');
       if (byId[lid] && byId[lid].point) {

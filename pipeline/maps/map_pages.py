@@ -155,21 +155,28 @@ def main():
                 die(f'{where}: label {lid} names {place}, which the '
                     'gazetteer does not carry')
             pp = pos.get(lid) or {}
+            role = lb.get('role') or 'place'
             labels.append({
                 'id': lid,
+                'role': role,
                 'place': place,
                 'place_name': headings.get(place) if place else None,
                 'form': lb.get('form'),
                 'shows': lb.get('shows'),
-                'shows_en': SHOWS_EN.get(lb.get('shows'), lb.get('shows')),
-                'shows_de': SHOWS_DE.get(lb.get('shows'), lb.get('shows')),
+                'shows_en': SHOWS_EN.get(lb.get('shows'), lb.get('shows')) if role == 'place' else None,
+                'shows_de': SHOWS_DE.get(lb.get('shows'), lb.get('shows')) if role == 'place' else None,
                 'note': lb.get('note'),
                 'point': label_point(lb, crop),
-                'crop': f'/assets/maps/crops/{key}/{lid}.jpg',
+                'crop': f'/assets/maps/crops/{key}/{lid}.jpg' if role != 'boundary' else None,
                 'lat': pp.get('lat'),
                 'lon': pp.get('lon'),
                 'refs': refs_of.get(lid) or lb.get('refs') or [],
                 'sort_name': (headings.get(place) if place else None) or lb.get('form'),
+                'letter': lb.get('letter'),
+                'from': lb.get('from'),
+                'to': lb.get('to'),
+                'n': lb.get('n'),
+                'skipped': bool(lb.get('skipped')),
             })
         kind = (m.get('kind') or 'unknown').lower()
         out_maps[key] = {

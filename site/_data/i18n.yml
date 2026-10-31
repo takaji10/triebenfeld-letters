@@ -160,6 +160,8 @@ en:
   map_text_tr: English translation
   map_text_margin: On the sheet
   map_text_note: Note
+  map_boundary_h2: The boundary walk
+  map_boundary_skipped: skipped (drawn in the sub-map)
   place_maps_h2: On the maps
   place_on_maps: on
   nav_archival: Archival order
@@ -557,6 +559,8 @@ de:
   map_text_tr: Deutsche Übersetzung
   map_text_margin: Auf dem Blatt
   map_text_note: Anmerkung
+  map_boundary_h2: Der Grenzverlauf
+  map_boundary_skipped: übersprungen (in der Nebenkarte gezeichnet)
   place_maps_h2: Auf den Karten
   place_on_maps: auf
   nav_archival: Archivalische Ordnung

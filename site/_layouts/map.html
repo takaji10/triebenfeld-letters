@@ -36,7 +36,7 @@ layout: default
 
     <section class="map-marks">
       <h2>{{ t.map_marks_h2 }}</h2>
-      {%- assign m_labels = m.labels | sort_natural: "sort_name" %}
+      {%- assign m_labels = m.labels | where: "role", "place" | sort_natural: "sort_name" %}
       <ol class="map-mark-list">
       {%- for l in m_labels %}
         <li id="mark-{{ l.id }}" data-label="{{ l.id }}">
@@ -58,6 +58,38 @@ layout: default
       {%- endfor %}
       </ol>
     </section>
+
+    {%- comment -%}
+      The boundary walk (where the map has one): the stamped letters of the
+      adjoining-lands list marked on the sheet, and the stretches of the
+      boundary, drawn (the polyline is on the map) or skipped (a stretch that
+      lives in the sub-map). The rows join the texts' adjoining-lands block by
+      the row number; the descriptions themselves stay in the Texts section.
+    {%- endcomment -%}
+    {%- assign n_letters = m.labels | where: "role", "letter" | size %}
+    {%- assign n_bounds = m.labels | where: "role", "boundary" | size %}
+    {%- if n_letters > 0 or n_bounds > 0 %}
+    <section class="map-boundary">
+      <h2>{{ t.map_boundary_h2 }}</h2>
+      {%- if n_letters > 0 %}
+      <p class="map-boundary-letters">
+        {%- for l in m.labels %}{% if l.role == 'letter' %}
+        <a class="map-chip" href="#{{ l.id }}" data-label="{{ l.id }}" title="{{ l.note | escape }}"><span lang="ru">{{ l.letter }}</span></a>
+        {%- endif %}{% endfor %}
+      </p>
+      {%- endif %}
+      {%- if n_bounds > 0 %}
+      <ol class="map-mark-list map-boundary-list">
+        {%- for l in m.labels %}{% if l.role == 'boundary' %}
+        <li id="mark-{{ l.id }}" data-label="{{ l.id }}">
+          <span class="map-text"><span lang="ru">{{ l.from }} — {{ l.to }}</span>{% if l.skipped %} <em class="map-boundary-skipped">{{ t.map_boundary_skipped }}</em>{% endif %}{% if l.note %} <span class="map-boundary-note">{{ l.note }}</span>{% endif %}</span>
+          <span class="map-chips"><a class="map-chip" href="#{{ l.id }}" data-label="{{ l.id }}">{{ t.map_locate }}</a></span>
+        </li>
+        {%- endif %}{% endfor %}
+      </ol>
+      {%- endif %}
+    </section>
+    {%- endif %}
 
     {%- if m.legend %}
     <section class="map-legend">
@@ -221,6 +253,12 @@ layout: default
 .map-mark-list li { display: list-item; padding: .3rem 0 .3rem .2rem; }
 .map-mark-list li::marker { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
 .map-mark-list li.is-on { background: rgba(180, 60, 50, .08); }
+/* the boundary walk: the stamped letters as chips, the stretches as rows */
+.map-boundary { margin: 1.6rem 0 1.6rem; }
+.map-boundary h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
+.map-boundary-letters { margin: .4rem 0; display: flex; flex-wrap: wrap; gap: .3rem; }
+.map-boundary-skipped { font-family: var(--sans); font-size: .8rem; color: var(--ink-soft); }
+.map-boundary-note { font-family: var(--sans); font-size: .8rem; color: var(--ink-soft); }
 /* the map's own legend, redrawn: on the sheet every block carries the same
    thin outline and the water block alone a stronger wash frame, so the border
    thickness is uniform and only water's is built up (its `edge` colour, a
@@ -254,6 +292,13 @@ layout: default
 .map-mark { box-sizing: border-box; width: 16px; height: 16px; margin: 0; border: 2px solid #b33; border-radius: 50%; background: rgba(255, 255, 255, .55); cursor: pointer; }
 .map-mark.is-on, .map-mark:hover { background: #b33; }
 .map-mark:focus-visible { outline: 2px solid #b33; outline-offset: 2px; }
+/* the stamped letters of the boundary walk: squares, in a second colour */
+.map-mark-letter { border-radius: 0; border-color: #33628f; background: rgba(255, 255, 255, .75); }
+.map-mark-letter.is-on, .map-mark-letter:hover { background: #33628f; }
+.map-mark-letter:focus-visible { outline-color: #33628f; }
+/* the boundary walk's polylines over the map */
+.map-viewer { position: relative; }
+.map-boundary-canvas { position: absolute; inset: 0; pointer-events: none; z-index: 5; }
 .map-tip { position: fixed; transform: translateX(-50%); background: rgba(40, 36, 30, .92); color: #fff; font-family: var(--sans); font-size: .78rem; line-height: 1.25; padding: .25rem .55rem; border-radius: 3px; white-space: nowrap; pointer-events: none; z-index: 60; box-shadow: 0 1px 4px rgba(0, 0, 0, .35); }
 /* the texts on the sheet (the title block, the certification texts, the
    explication): the Russian transcription and the page's translation side by

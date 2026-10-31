@@ -28,6 +28,7 @@ kozlowski1861:
   n_places: 25
   labels:
   - id: kozlowski1861-003
+    role: place
     place: czerwonka
     place_name: Czerwonka
     form: Czerwonka
@@ -43,7 +44,13 @@ kozlowski1861:
     lon: 17.957974
     refs: []
     sort_name: Czerwonka
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-005
+    role: place
     place: dziadolina
     place_name: Dziadolina
     form: Dziadulina
@@ -59,7 +66,13 @@ kozlowski1861:
     lon: 17.878643
     refs: []
     sort_name: Dziadolina
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-007
+    role: place
     place: garbin
     place_name: Garbin
     form: Garbin
@@ -75,7 +88,13 @@ kozlowski1861:
     lon: 17.961667
     refs: []
     sort_name: Garbin
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-009
+    role: place
     place: laski
     place_name: Laski
     form: Laski
@@ -91,7 +110,13 @@ kozlowski1861:
     lon: 17.949141
     refs: []
     sort_name: Laski
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-011
+    role: place
     place: lazinskie-oledry
     place_name: Łazińskie Olędry
     form: Łazinskie [Kolonie]
@@ -107,7 +132,13 @@ kozlowski1861:
     lon: 17.901798
     refs: []
     sort_name: Łazińskie Olędry
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-013
+    role: place
     place: maradz
     place_name: Maradz
     form: Maradz
@@ -123,7 +154,13 @@ kozlowski1861:
     lon: 17.967102
     refs: []
     sort_name: Maradz
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-015
+    role: place
     place: michalinow-oledry
     place_name: Michalinów Trąbczyński
     form: '[Kolonia]'
@@ -139,7 +176,13 @@ kozlowski1861:
     lon: 17.93891
     refs: []
     sort_name: Michalinów Trąbczyński
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-017
+    role: place
     place: noga
     place_name: Noga
     form: Noga
@@ -155,7 +198,13 @@ kozlowski1861:
     lon: 17.921877
     refs: []
     sort_name: Noga
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-019
+    role: place
     place: przycierz
     place_name: Przycierz
     form: Przycierz
@@ -171,7 +220,13 @@ kozlowski1861:
     lon: 17.975622
     refs: []
     sort_name: Przycierz
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-021
+    role: place
     place: trzcianne
     place_name: Trzcianne
     form: Trzcianne
@@ -187,7 +242,13 @@ kozlowski1861:
     lon: 17.921336
     refs: []
     sort_name: Trzcianne
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-023
+    role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
     form: Wielki-Bór Obręb
@@ -203,7 +264,13 @@ kozlowski1861:
     lon: 17.888362
     refs: []
     sort_name: Wielki-Bór Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-025
+    role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
     form: Włodzimirow Obręb
@@ -219,7 +286,13 @@ kozlowski1861:
     lon: 17.912215
     refs: []
     sort_name: Włodzimirow Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-027
+    role: place
     place: zwierzyniec
     place_name: Zwierzyniec
     form: Zwierzyniec
@@ -235,7 +308,13 @@ kozlowski1861:
     lon: 17.994063
     refs: []
     sort_name: Zwierzyniec
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-030
+    role: place
     place: szetlewek
     place_name: Szetlewek
     form: Szetlewek
@@ -251,7 +330,13 @@ kozlowski1861:
     lon: 17.996458
     refs: []
     sort_name: Szetlewek
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-032
+    role: place
     place: stanislawow
     place_name: Stanisławów
     form: Stanisławów
@@ -267,7 +352,13 @@ kozlowski1861:
     lon: 17.980621
     refs: []
     sort_name: Stanisławów
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-034
+    role: place
     place: porabki
     place_name: Porąbki
     form: Porąbki
@@ -283,7 +374,13 @@ kozlowski1861:
     lon: 17.954719
     refs: []
     sort_name: Porąbki
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-037
+    role: place
     place: nowawies-trabczyn
     place_name: Nowa Wieś
     form: Nowa Wieś
@@ -299,7 +396,13 @@ kozlowski1861:
     lon: 17.932665
     refs: []
     sort_name: Nowa Wieś
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-039
+    role: place
     place: osiny
     place_name: Osiny
     form: Osiny
@@ -315,7 +418,13 @@ kozlowski1861:
     lon: 17.927553
     refs: []
     sort_name: Osiny
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-041
+    role: place
     place: przybyslaw
     place_name: Przybysław
     form: Przybysław
@@ -331,7 +440,13 @@ kozlowski1861:
     lon: 17.940034
     refs: []
     sort_name: Przybysław
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-043
+    role: place
     place: lazy-trabczyn
     place_name: Łazy
     form: Łazy
@@ -347,7 +462,13 @@ kozlowski1861:
     lon: 17.947578
     refs: []
     sort_name: Łazy
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-045
+    role: place
     place: trabczyn
     place_name: Trąbczyn
     form: Trąbczyn
@@ -363,7 +484,13 @@ kozlowski1861:
     lon: 17.959287
     refs: []
     sort_name: Trąbczyn
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-049
+    role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
     form: Osiny Okręg
@@ -379,7 +506,13 @@ kozlowski1861:
     lon: 17.916374
     refs: []
     sort_name: Włodzimirow Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-051
+    role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
     form: Grabina Okręg
@@ -395,7 +528,13 @@ kozlowski1861:
     lon: 17.905971
     refs: []
     sort_name: Włodzimirow Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-053
+    role: place
     place: huta-trabczynska
     place_name: Huta Trąbczyńska
     form: Huta
@@ -411,7 +550,13 @@ kozlowski1861:
     lon: 17.934413
     refs: []
     sort_name: Huta Trąbczyńska
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-055
+    role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
     form: Studzienka Okręg
@@ -427,7 +572,13 @@ kozlowski1861:
     lon: 17.878006
     refs: []
     sort_name: Wielki-Bór Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-057
+    role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
     form: Wypalanki Okręg
@@ -443,7 +594,13 @@ kozlowski1861:
     lon: 17.898097
     refs: []
     sort_name: Wielki-Bór Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-059
+    role: place
     place: wlodzimirow
     place_name: Włodzimirów
     form: Włodzimirów
@@ -459,7 +616,13 @@ kozlowski1861:
     lon: 17.900934
     refs: []
     sort_name: Włodzimirów
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-061
+    role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
     form: Noga Okręg
@@ -475,7 +638,13 @@ kozlowski1861:
     lon: 17.94184
     refs: []
     sort_name: Wielki-Bór Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-063
+    role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
     form: Garbinck Okręg
@@ -491,7 +660,13 @@ kozlowski1861:
     lon: 17.969944
     refs: []
     sort_name: Włodzimirow Obręb
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-065
+    role: place
     place: mariantow
     place_name: Mariantów
     form: Maryantów
@@ -507,7 +682,13 @@ kozlowski1861:
     lon: 17.969581
     refs: []
     sort_name: Mariantów
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: kozlowski1861-067
+    role: place
     place: grabina
     place_name: Grabina
     form: Grabina
@@ -523,6 +704,11 @@ kozlowski1861:
     lon: 17.912327
     refs: []
     sort_name: Grabina
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   legend:
     title:
       pl: Wyjaśnienie Kolorów
@@ -697,6 +883,7 @@ lukom1766:
   n_places: 10
   labels:
   - id: lukom1766-005
+    role: place
     place: budy
     place_name: Budy
     form: Budy do Huty
@@ -712,7 +899,13 @@ lukom1766:
     lon: 17.81634
     refs: []
     sort_name: Budy
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-007
+    role: place
     place: gradzyn
     place_name: Grądzeń
     form: Grązien
@@ -728,7 +921,13 @@ lukom1766:
     lon: 17.811872
     refs: []
     sort_name: Grądzeń
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-009
+    role: place
     place: huta-lukomska
     place_name: Huta Łukomska
     form: Huta
@@ -744,7 +943,13 @@ lukom1766:
     lon: 17.826596
     refs: []
     sort_name: Huta Łukomska
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-011
+    role: place
     place: imielno
     place_name: Imielno
     form: Dezerta Jemielno
@@ -760,7 +965,13 @@ lukom1766:
     lon: 17.870105
     refs: []
     sort_name: Imielno
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-013
+    role: place
     place: lomow
     place_name: Łomów
     form: Lomaw
@@ -776,7 +987,13 @@ lukom1766:
     lon: 17.856516
     refs: []
     sort_name: Łomów
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-015
+    role: place
     place: lukom
     place_name: Łukom
     form: Lukom
@@ -792,7 +1009,13 @@ lukom1766:
     lon: 17.845394
     refs: []
     sort_name: Łukom
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-017
+    role: place
     place: rosciszewo
     place_name: Rosciszewo
     form: Rosciszew
@@ -808,7 +1031,13 @@ lukom1766:
     lon: 17.840149
     refs: []
     sort_name: Rosciszewo
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-019
+    role: place
     place: stawisko
     place_name: Stawisko
     form: Brod Kaliski
@@ -824,7 +1053,13 @@ lukom1766:
     lon: 17.867474
     refs: []
     sort_name: Stawisko
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-021
+    role: place
     place: studzianka
     place_name: Studzianka
     form: Studzienka
@@ -840,7 +1075,13 @@ lukom1766:
     lon: 17.864099
     refs: []
     sort_name: Studzianka
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-023
+    role: place
     place: myszakow
     place_name: Myszaków
     form: Myszaków
@@ -856,7 +1097,13 @@ lukom1766:
     lon: 17.806749
     refs: []
     sort_name: Myszaków
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: lukom1766-025
+    role: place
     place: null
     place_name: null
     form: Tres mansi Conventûs Landensis
@@ -880,6 +1127,11 @@ lukom1766:
       link: /documents/app5314550221/2/#p1
       quote: the privilege of 1461, "Privilegium Gradziem"
     sort_name: Tres mansi Conventûs Landensis
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
 pelzucki1896:
   slug: pelzucki1896
   cited_as: Pełzucki 1896
@@ -908,6 +1160,7 @@ pelzucki1896:
   n_places: 6
   labels:
   - id: pelzucki1896-002
+    role: place
     place: glinianki
     place_name: Glinianki
     form: Glinianki
@@ -923,7 +1176,13 @@ pelzucki1896:
     lon: 17.905495
     refs: []
     sort_name: Glinianki
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: pelzucki1896-004
+    role: place
     place: dziadolina
     place_name: Dziadolina
     form: Dziadolina
@@ -939,7 +1198,13 @@ pelzucki1896:
     lon: 17.878442
     refs: []
     sort_name: Dziadolina
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: pelzucki1896-006
+    role: place
     place: studzianka
     place_name: Studzianka
     form: Studzianka
@@ -955,7 +1220,13 @@ pelzucki1896:
     lon: 17.879664
     refs: []
     sort_name: Studzianka
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: pelzucki1896-008
+    role: place
     place: null
     place_name: null
     form: Выпалѣнки
@@ -971,7 +1242,13 @@ pelzucki1896:
     lon: 17.914753
     refs: []
     sort_name: Выпалѣнки
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: pelzucki1896-010
+    role: place
     place: trabczynskie-nowe-oledry
     place_name: Trąbczyńskie Nowe Olędry
     form: Новые Голендры
@@ -987,7 +1264,13 @@ pelzucki1896:
     lon: 17.952906
     refs: []
     sort_name: Trąbczyńskie Nowe Olędry
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: pelzucki1896-012
+    role: place
     place: noga
     place_name: Noga
     form: Noga
@@ -1003,7 +1286,13 @@ pelzucki1896:
     lon: 17.92544
     refs: []
     sort_name: Noga
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   - id: pelzucki1896-014
+    role: place
     place: grabina
     place_name: Grabina
     form: Grabina
@@ -1019,6 +1308,11 @@ pelzucki1896:
     lon: 17.913046
     refs: []
     sort_name: Grabina
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
   texts:
   - id: cartouche
     names:
