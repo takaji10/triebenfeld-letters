@@ -2753,6 +2753,49 @@ it in the nominative, or in the undeclined form, in the same source.
   line that starts with an en or em dash and a space. A dash pass must leave
   a line-initial "- " alone.
 
+## The mentions' robustness pass (2026-10-31)
+
+The editor asked whether the tagging of people still finds the connections
+it was built for. It does where it was built to, and its limits turned out
+to be places where nothing forced a look:
+
+- **Zero-mention documents were invisible.** 60 of 630 documents carry no
+  tagged person; 30 of them are 15 lines or more, and two of those are the
+  correspondence's own (`oe1bu14526-30`, 137 lines; the 1820 contract
+  `app539680782-1`, whose Samuel Adolph is in the text and tagged nowhere:
+  people.yml had only `prinz-adolph`, whose pattern demands a title). The
+  blank is not an error anywhere - nothing fails - which is why it never
+  surfaced. `pipeline/review/zero_mentions.py` now ships the sheet on every
+  rebuild, with heuristic lead tokens (post von/zu/honorific, -schen forms,
+  minus stopwords and authorities) to say which blanks are real blanks.
+  Rulings go to `reference/zero_mention_rulings.json`, which the sheet
+  reads back. It does NOT gate: an honest empty record passes.
+- **The other datasets' slugs had no check.** literature/newspapers hits
+  are ruled per (name, spelling), but nothing held a ruled row's slug to
+  the people/places authorities: a mis-spelt slug would silently name
+  someone the edition publishes nothing about.
+  `pipeline/review/check_mentions_join.py` is that check and is a gate in
+  `pipeline/regenerate.py`, placed after the two index steps. Valid person
+  slugs are people.yml ∪ the corpus index ∪ genealogy.yml (Hans von Held
+  proves curated-without-corpus is a real case; Głowecki and Lidmanowski
+  prove press-only people are); valid place slugs are places.yml ∪ the
+  gazetteer (Lisewska Kolonia proves gazetteer-only is real).
+- **The gazetteer checker is a gate now.** It passed on the day it was
+  wired (120 entries, 173 footnotes, 79 links resolved).
+- **`docs/DATA_MODEL.md` had drifted far.** It still said 441 documents,
+  claimed places merely named were unindexed while `place_mentions.json`
+  had existed for weeks, and offered `August` as a defect the data no
+  longer had. A standing reference that describes last season misroutes
+  every session that trusts it; it now matches the build and got the new
+  fields' rows (`era`, `estates`, `repository`, `scans`, `places_named`,
+  `rough_transcription`, `mentions_english`, `is_missing`, `seq_archival`).
+- **Python's `re` has no branch reset.** A `(?|...)` alternation of
+  same-numbered groups fails to compile; give every branch its own group
+  and read `m.group(m.lastindex)`.
+- **The dataset manifest's `text_path` is dataset-relative** (`text/uid.txt`,
+  not `dataset/text/uid.txt`). A visitor script that joins it to the
+  project root reads nothing and reports empty.
+
 ## The holding pages: header, languages, "How it was prepared" (2026-10-30)
 
 The editor's ruling of the day, in three parts; the work is in the branch

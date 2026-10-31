@@ -3,11 +3,13 @@
 What is in `dataset/`, what each field means, and how to scope a question against
 it without loading the whole edition.
 
-This edition is not only correspondence. It holds **441 documents** from nine
-archival holdings in three archives: files of letters, volumes of title deeds,
-ministry files, a court file and single charters. Everything
-below is generated from the units' `corpus.txt` and their `rulings.yml`; a
-rebuild reproduces it exactly. Nothing here is hand-edited.
+This edition is not only correspondence. It holds **630 documents** from 51
+holdings in six repositories: files of letters, volumes of title deeds,
+ministry files, court books and single instruments, and one source that is a
+print (the Kodeks Dyplomatyczny Wielkopolski). Everything below is generated
+from the units' `corpus.txt` and their `rulings.yml`; a rebuild reproduces it
+exactly. Nothing here is hand-edited. The `repository` field of the manifest
+names which.
 
 ---
 
@@ -18,7 +20,8 @@ dataset/index/documents.json     the manifest - one compact row per document
 ```
 
 Read this first. It carries only the fields worth narrowing on, so you reach a
-working set before opening a single document. 441 rows, a few hundred KB.
+working set before opening a single document. 630 rows, about half a
+megabyte.
 
 Each row points at the two places the full text lives:
 
@@ -62,7 +65,7 @@ One row per document.
 |---|---|
 | `uid`, `unit`, `letter_id`, `permalink` | identifiers, above |
 | `doc_type` | what kind of instrument - see below |
-| `language` | `de` unless the document is not in German |
+| `language` | the document's language, `de` where German alone; a mixed document as a comma list (`la,pl`), as the document's ruling records it |
 | `date_iso` | `YYYY-MM-DD`, or `` if undated. Truncated where imprecise |
 | `date_precision` | how much of the date is known - see below |
 | `date_source` | **where the date came from - see below** |
@@ -76,6 +79,12 @@ One row per document.
 | `legibility` | from the whole-letter reading: sound / partly garbled / largely garbled |
 | `has_damage` | text is missing or illegible |
 | `mentions` | how many distinct people are named |
+| `places_named` | how many distinct places are named, from `place_mentions.json` |
+| `era` | which of the site's eras the document sits in (`hohenlohe`, `medieval`, `prusimski-boundary`, `restitution`, `twentieth-century`, `wlodzimierz`); blank where none is assigned |
+| `estates` | the estates the document is filed under, as slugs |
+| `repository` | which repository holds the holding (`hzan-neuenstein`, `app-poznan`, `gstapk-berlin`, `bkpan-kornik`, `agad-warszawa`, `apl-lodz`, `adwl-wloclawek`) |
+| `scans` | one entry per page carrying its `page_id` and scan file, where paired |
+| `rough_transcription` | true where the transcription is still a machine's reading, not settled against the manuscript |
 | `title` | a human label, e.g. `contract 18` |
 | `path`, `text_path` | where the full document and its plain text are |
 
@@ -86,13 +95,13 @@ the same fact as one a researcher assigned, and the dataset must not blur them.
 
 | value | meaning | count |
 |---|---|---|
-| `signature` | parsed from the document's own dateline by the build | 328 |
-| `dateline` | read off the dateline by the editor, recorded because the parser could not reach it - the deeds are formulaic, Latinate and often corrupt | 57 |
-| `supplied` | **assigned by a researcher**, not present in the document | 25 |
-| `inferred` | reasoned from neighbouring documents; `date_inferred_from` gives the basis, and it is shown to the reader | 9 |
-| `sitting` | an entry of a court book, which has no date of its own: **taken from the heading of the court's sitting** it stands under, often on another leaf (`dates: sitting:` in `rulings.yml`, with a basis that is shown to the reader). Read from the book, so shown without brackets. Added 2026-10-06 for the Poznań court books | 1 |
+| `signature` | parsed from the document's own dateline by the build | 327 |
+| `dateline` | read off the dateline by the editor, recorded because the parser could not reach it - the deeds are formulaic, Latinate and often corrupt | 180 |
+| `supplied` | **assigned by a researcher**, not present in the document | 28 |
+| `inferred` | reasoned from neighbouring documents; `date_inferred_from` gives the basis, and it is shown to the reader | 57 |
+| `sitting` | an entry of a court book, which has no date of its own: **taken from the heading of the court's sitting** it stands under, often on another leaf (`dates: sitting:` in `rulings.yml`, with a basis that is shown to the reader). Read from the book, so shown without brackets. Added 2026-10-06 for the Poznań court books | 18 |
 | `twin` | taken from the document's own duplicate | 1 |
-| `none` | undated, and left so | 7 |
+| `none` | undated, and left so | 19 |
 
 `signature` and `dateline` are both *read from the document*. Only `supplied`
 and `inferred` are editorial acts.
@@ -101,7 +110,7 @@ and `inferred` are editorial acts.
 
 | value | meaning | count |
 |---|---|---|
-| `draft` | machine-translated, mechanically checked, published; **not yet read against the manuscript by a human** | 421 |
+| `draft` | machine-translated, mechanically checked, published; **not yet read against the manuscript by a human** | 626 |
 | `reviewed` | every row raised against it in `review/<slug>/translation_review.csv` has been ruled on | 0 |
 | `untranslated` | no English, because there is no text to translate: four numbers missing from the archive (9454: 121, 181, 225, 293) | 4 |
 
@@ -117,17 +126,21 @@ reasoned rather than read; check `date_source` alongside it.
 
 ### `doc_type`
 
-14 kinds in use:
+26 kinds in use:
 
 | | | | |
 |---|---|---|---|
-| `letter` 342 | `contract` 17 | `donation` 15 | `royal_rescript` 14 |
-| `draft` 13 | `certified_copy` 9 | `note` 5 | `confirmation` 4 |
-| `register` 3 | `privilege` 1 | `protocol` 1 | `punctation` 1 |
-| `lease` 1 | `document` 1 | | |
+| `letter` 367 | `note` 49 | `report` 29 | `draft` 22 |
+| `donation` 21 | `contract` 21 | `register` 19 | `decree` 17 |
+| `protest` 17 | `royal_rescript` 16 | `certified_copy` 14 | `confirmation` 9 |
+| `certification` 8 | `privilege` 5 | `attestation` 3 | `power_of_attorney` 2 |
+| `delivery` 2 | `notarial_attestation` 1 | `visitation` 1 | `protocol` 1 |
+| `cession` 1 | `punctation` 1 | `lease` 1 | `royal_consent` 1 |
+| `memorandum` 1 | `summons` 1 | | |
 
-`letter` and `register` come from the correspondence; the rest from the deeds.
-It is an open list, set per document in the unit's `rulings.yml`.
+`letter`, `draft` and `note` come from the correspondence; the rest from the
+deeds, the court books and the added single instruments. It is an open list,
+set per document in the unit's `rulings.yml`.
 
 A document is one **package**: an instrument together with the enclosures filed
 with it. Document 23 is a royal confirmation reciting eleven enclosed
@@ -148,9 +161,15 @@ Everything in the manifest row, plus:
 | `text_reading` | the same, flowed into readable prose |
 | `pages` | one entry per manuscript page - below |
 | `mentions` | every person named, with location - below |
+| `place_mentions` | every place *named* in the text, in the shape `mentions` has, `kind: 'place'` |
+| `mentions_english` | the names the **English** names, tied to the same entity slugs as the German (`surface_de` / `surface_en`, since the forms differ: Wien -> Vienna). Without it a reader of the English cannot be shown who a passage is about, and grepping the English is no substitute |
+| `place_canonical` | the place of writing, canonical form |
 | `relations` | typed links to other documents - below |
 | `sender`, `recipient` | derived from salutation and signature, where confident |
 | `parent_letter`, `duplicate_of` | document-level links |
+| `seq_archival` | the document's order within its holding, which sorts the holding's list when the numbers themselves do not |
+| `is_missing` | true for a placeholder carrying a number the archive lost (its text is `(missing)`) |
+| `date_inferred_from` | for a `date_source: inferred` date, what the reasoning leans on |
 | `line_start`, `line_end` | the document's range in the unit's `corpus.txt` |
 | `text_english` | the whole English translation, flowed. Empty where `untranslated` |
 | `translation` | the same English, one segment per manuscript page: `{page, en}` |
@@ -186,10 +205,13 @@ that `reading` alters no letter of it.
 
 | field | meaning |
 |---|---|
-| `entity` | slug in `reference/people.yml` |
+| `entity` | slug in `reference/people.yml` - or of the long tail, a slug minted from the name itself |
 | `display` | the edition's name for that person |
+| `kind` | `person`; the same matcher runs for places, whose rows say `place` |
 | `surface` | **what the page actually says** - the spelling found |
+| `scan` | the page's image file, so a citation resolves to the manuscript without another lookup |
 | `page`, `page_id`, `line` | where. `line` is absolute in `corpus.txt` |
+| `doc_line` | the same point as the published page numbers it - numbered from 1 within the document, which is what the site shows |
 
 `surface` vs `display` is deliberate: one man is written `Glenk`, `Glenck` and
 `Glencke`, and the dataset records both what was written and who it was.
@@ -202,16 +224,25 @@ that `reading` alters no letter of it.
 |---|---|
 | `index/people.json` | `entity` → `count`, `documents[]`, and every `mention` with its location |
 | `index/places.json` | `place` → `documents[]`. Place of *writing*, not places named |
+| `index/place_mentions.json` | `entity` → `count`, `documents[]`, and every `mention` with its location: the places **named** in a document. A different question from `places.json`, and now a different answer |
 | `index/dates.json` | `year` → `documents[]` |
 | `index/relations.json` | `{from, kind, to, note}` - see below |
 | `index/uncertainties.json` | every surviving marker: `{uid, marker, page, page_id, line, context}` |
 
+The other datasets carry their own mention lists, only on the site as ruled:
+`dataset/literature/mentions.json` (each row `{entity, kind, display, surface, work, passage, line, context}`) and
+`dataset/newspapers/mentions.json` (the same shape, the item in place of the work). Every hit was read and ruled in
+`literature/index.yml` or `newspapers/index.yml` before it went live, and
+`pipeline/review/check_mentions_join.py` holds their slugs to the same
+authorities the corpus indexes from.
+
 ### `relations.json`
 
-Typed links between documents, asserted on something a document *says* - not on
-two documents being about the same estate. Kinds in use: `duplicate_of`,
-`translates`, `certifies`, `transmits`, `confirms`, `refuses`, `supersedes`.
-Each carries a `note` giving the evidence.
+Typed links between documents, asserted on something a document *says* - not
+on two documents being about the same estate. Kinds in use: `answers`,
+`certifies`, `confirms`, `copies`, `duplicate_of`, `entered_in`, `refuses`,
+`registers`, `supersedes`, `supplements`, `transmits`. Each carries a `note`
+giving the evidence.
 
 ### `uncertainties.json`
 
@@ -267,13 +298,20 @@ read into the dataset by `build_dataset.py` rather than regenerated by it.
 ## Worked examples
 
 **Everything mentioning Trąbczyn between 1804 and 1806.**
-`places.json` gives the documents *written* there; grepping `text/` finds those
-that *name* it. Filter either set on `date_iso` from the manifest. The two
-questions are different and the dataset keeps them apart.
+`place_mentions.json` gives the documents that *name* it, with the spelling
+each hit found and the line it sits on; `places.json` gives those *written*
+there. Filter either set on `date_iso` from the manifest. The two questions
+are different and the dataset keeps them apart.
+
+**Every person everywhere, including the press and the books.**
+`people.json` is the corpus; `dataset/literature/mentions.json` and
+`dataset/newspapers/mentions.json` are the ruled hit lists of the other
+sections, keyed by the same slugs, so "what do we hold on this person" is
+three conjunctive lookups rather than a read of every text.
 
 **Every document whose date a researcher assigned.**
 Filter the manifest on `date_source == 'supplied'`. Not `!= 'signature'`: that
-also catches the 30 read off a dateline by the editor, which are read, not
+also catches the 180 read off a dateline by the editor, which are read, not
 assigned.
 
 **What is linked to document 18, and how.**
@@ -292,16 +330,26 @@ claim can be cited to a manuscript page rather than to a document.
 
 ## Known limits
 
-- `place` is the place of **writing**. A place merely named in the text is not
-  indexed; grep `text/` for those.
+- `place` is the place of **writing**. The places *named* have their own index
+  (`place_mentions.json`), run against the same authority - so a name no
+  pattern covers appears in neither index, and `grep text/` remains the
+  catch-all for it.
 - The people authority was built from the correspondence first. The deeds
-  volume's cast has been adjudicated in, but the long tail in
-  `reference/name_seeds.json` is statistical and still carries errors - `August`
-  is indexed as a person and is Triebenfeld's own middle name.
-- `language` is recorded only where a document is not in German. It names the
-  document's main language: several German deeds carry passages of Polish, and a
-  few of Latin, without being recorded as anything but German.
-- Every translation is `draft`. The mechanical checks in
+  and court-book volumes' casts have been ruled in as they were read, and
+  the long tail in `reference/name_seeds.json` is statistical: it carries
+  errors that must be ruled out one by one (the review sheets do). What is
+  not settled anywhere is the non-German naming: a medieval Latin charter or
+  a Russian-file record can name its actors in forms no pattern reaches, and
+  a German document whose names were never ruled comes out of the build with
+  tags for no one. `pipeline/review/zero_mentions.py` (run by
+  `regenerate.py`) lists those documents of any size, each with its leads,
+  for the editor to rule - "truly names no one", or author the entry.
+- `language` names the document's main language, `de` where German alone;
+  mixed documents carry a comma list (`la,pl`) as their ruling records it.
+  Several German deeds still carry passages of Polish or Latin inside a
+  German record without the field saying more than that.
+- Every translation is `draft` (626 of 630; four are missing from the
+  archive outright). The mechanical checks in
   `review/<slug>/translation_review.csv` have been run but the rows have not
   been ruled on, so the English carries whatever the model got wrong. The
   German is the record; the English is a finding aid to it.

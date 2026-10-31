@@ -435,8 +435,26 @@ assert, and reports the document and the sentence. Run it after any ruling on a
 name, and again before publishing. It found eight documents in a corpus that had
 already passed every other check.
 
-## 6. Publish, summarise, build
+### The documents that name no one the build can see
 
+```
+python pipeline/review/zero_mentions.py            # whole corpus; --unit <slug> for one
+python pipeline/regenerate.py                      # refreshes the sheet for you
+```
+
+Nothing here gates the build: a document that genuinely names no one is a fine
+thing to be. What gates nothing is the reverse - a document *does* name people
+and no pattern reaches them, whereupon every later connection silently loses
+them. The sheet gathers the documents with no tagged person, with the evidence
+for calling each either way (date, place, correspondents, lead tokens the cues
+found in name position and no authority covers). Work it like the other
+sheets: rule each blank in `reference/zero_mention_rulings.json` as
+`"<uid>": "why"`, or author the missing person in `reference/people.yml`
+(`only_in`/`not_in` keep a shared surname out of the documents that name
+someone else). The Latin and Slavonic material is where the blanks
+concentrate; expect to read the page before ruling.
+
+## 6. Publish, summarise, build
 ```
 python pipeline/translate/publish_translations.py --unit <slug> --tag <tag>
 python pipeline/build/relabel_scans.py            --unit <slug> --apply

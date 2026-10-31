@@ -76,6 +76,17 @@ MERGED = [
     # newspapers/index.yml (a new item).
     ('pipeline/newspapers/newspapers_index.py --check', 'newspapers index',
      'site/_data/newspapers_mentions.yml - the items naming a person or estate'),
+    # The gazetteer (reference/gazetteer/): its checker holds every footnote
+    # marker, source key and link to what the edition holds
+    # (docs/GAZETTEER_PLAN.md).
+    ('pipeline/gazetteer/gazetteer.py --check', 'gazetteer checker',
+     'every footnote and link resolved to the edition'),
+    # The slugs the two ruled indexes name must be people or places of the
+    # edition: a mis-spelt slug would make every connection it carries
+    # vanish without a trace, undetected (there is no page to fail on).
+    ('pipeline/review/check_mentions_join.py', 'mention joining',
+     'the literature\'s and the newspapers\' mention slugs join to the '
+     'edition'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
     # The people who have their own page (docs/LITERATURE_PLAN.md, section
@@ -109,6 +120,13 @@ MERGED = [
     # A new holding brings new words; this is where that is noticed.
     ('pipeline/review/glossary_candidates.py --check', 'glossary candidates',
      'every qualifying word in a translated holding ruled on (reference/glossary.yml)'),
+    # The documents that carry no tagged people, as a report the editor
+    # works through in the weeks after a holding lands (Latin and Slavonic
+    # naming in particular). Not a gate: an empty record is a fine thing to
+    # be; what the report prevents is BLANKS nobody ever looked at.
+    ('pipeline/review/zero_mentions.py --quiet', 'zero-mention report',
+     'review/zero_mentions.md - the documents that name a person of no '
+     'record'),
 ]
 
 # after the mapping is rebuilt: the label in each scan filename is derived from
@@ -125,7 +143,7 @@ KEEP = ('documents/', 'text/', 'people ', 'places ', 'dates ', 'relations ',
         'archival lines exact', 'VERIFIED', 'MISMATCH', 'WARNING',
         'labels to update', 'nothing to do', 'merged:', 'skipped ', 'documents',
         'FAIL', 'ALL CHECKS', 'words to look at', 'internal links', 'external resources',
-        'glossary candidates', "  '", 'thumbs ')
+        'glossary candidates', "  '", 'thumbs ', 'mention joins', 'zero mentions')
 
 
 def run(script, label, detail, unit=None):

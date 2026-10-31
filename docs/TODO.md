@@ -1415,3 +1415,25 @@ transcription; 108 readings settled in session before the first build
       sub-agents: your word first.
 - [ ] Publish when you say so (fast-forward `main`, check the "Build and
       deploy" run).
+
+## 58. The mentions' robustness work (2026-10-31, branch `mentions-robustness`)
+
+- [x] Sheet and CSV for the documents that carry no tagged people
+      (`pipeline/review/zero_mentions.py`, refreshed by every
+      `pipeline/regenerate.py`; rulings in
+      `reference/zero_mention_rulings.json`).
+- [x] The mention slugs of the literature and the newspapers are held to
+      the people and places authorities at every rebuild
+      (`pipeline/review/check_mentions_join.py`, a gate in
+      `pipeline/regenerate.py`). The gazetteer's checker became a gate of
+      the same rebuild.
+- [x] `docs/DATA_MODEL.md` reset to the build's present state (630
+      documents, 51 holdings, six repositories; `place_mentions.json`
+      documented; the relations' kinds; counts throughout).
+- [ ] **You: work through `review/zero_mentions.md`** - 30 documents
+      unruled. Rule each ("truly names no one", or what was done) into
+      `reference/zero_mention_rulings.json`. The two the correspondence
+      itself should not leave blank are `oe1bu14526-30` (137 lines, 1799)
+      and the 1820 school contract `app539680782-1` (its Samuel Adolph is
+      named in the text and tagged nowhere). The Latin charters expect a
+      reading of the page before ruling.
