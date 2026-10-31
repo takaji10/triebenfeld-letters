@@ -1520,3 +1520,13 @@ rulings on the pilot").
   new order and layout (the editor's) is applied to all fourteen works, and
   the anonymous Materialien is listed under its title as "Anonymous". Each
   work's `notes.md` says the rest.
+
+- **Muszyńska-Zygmańska (1947)** (`literature/muszynska1947/`, added
+  2026-10-31): the Polish transcription and the corrected AI English of
+  *Wielkopolska w powstaniu kościuszkowskim*, in the repository and cut into
+  150 passages (front, pp. 7-154, notes). Kept `visible: false` because the
+  book is of 1947 and its rights are not established here; the site shows only
+  the detailed summary. **For the editor:** whether to publish it. Making it
+  visible also means reading and ruling every literature-index hit on its
+  Polish text, which has not been done. The bibliography, index and errata
+  are apparatus and are not cut into passages (see the work's `notes.md`).

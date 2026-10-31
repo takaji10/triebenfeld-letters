@@ -1237,3 +1237,40 @@ protocol that contains the passage** (Directorium Nr. 3).
 - The literature has 37 works, 33 with pages in both languages and four
   summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
   Polom 2024). **Published 2026-10-26** at the editor's word.
+
+## 30. Muszyńska-Zygmańska (1947) (2026-10-31)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `muszynska1947` | Janina Muszyńska-Zygmańska, *Wielkopolska w powstaniu kościuszkowskim*, Nakładem Głównego Komitetu Kościuszkowskiego w Krakowie, Poznań 1947 | Polish | `[7] <!-- p.7 -->` | summary only |
+
+The editor supplied the Polish transcription and an AI-made English
+translation, and asked for the book to be added after a bilingual QA pass. The
+QA read all 411 body paragraphs and all 521 notes against the Polish and
+recorded 87 findings (3 S1, 23 S2, 61 S3; 68 fixed, 15 source notes, 3 author
+queries, 1 rejected). This is stronger than the literature's usual spot check:
+`english.md` is the corrected text, not the first draft.
+
+- **The text:** front matter, the five chapters (pp. 7–154) and the notes.
+  The bibliography (pp. 178–181), index (pp. 182–188) and errata (p. 189) are
+  apparatus and are not cut into passages, as Frost's endnotes are kept but his
+  volume's apparatus is not. The notes are one passage (`## Przypisy` /
+  `## Notes`); the transcription gives their pages 155–177 no page marks, so a
+  note is cited by number. **150 passages:** the front, pp. 7–154, and the
+  notes; every numbered page is present in both languages.
+- **The English:** Claude's, corrected in the QA pass. The translation
+  package's termbase and decisions govern (Greater Poland, voivodeship,
+  district, Commission of Order, Regierung, Landrat); the English keeps the
+  author's long sentences and her plain judgements.
+- **Visibility:** `visible: false` — the book is of 1947 and its rights are not
+  established here. It is in the repository and in `dataset/literature/` for
+  questions; the site shows only the detailed summary (`summary_en`,
+  `summary_de`). **The editor's word is needed to publish it**; making it
+  visible would also require ruling the literature index's hits on its Polish
+  text, which has not been done.
+- **No hand-made links:** the book names none of the edition's people, estates
+  or holdings; it is the setting of the South Prussian files, not a source
+  about Trąbczyn.
+- The literature now has 40 works, 33 with pages in both languages and seven
+  summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski & Polom
+  2024, nmpol, slownik, Muszyńska-Zygmańska 1947).
