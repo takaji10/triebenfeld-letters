@@ -64,8 +64,9 @@ under (the English page the English, the German page the German):
   again. The neighbours: the manor farm Włodzimirów and the forests,
   homestead and parcels of the Trąbczyn estate, the peasants of Osiny,
   Michalinów and Huta, the felled forests Maradz and Wypalanki, the forest
-  of Łukom, Stawisko. Row 16's right-hand stamp reads А out of sequence
-  (probably a mis-stamp for Р); rows 19 and 20 close the loop;
+  of Łukom, Stawisko. Rows 1–15 run one letter to the next; rows 16–18 are
+  П–А, Р–Р and С–С (the editor's ruling of the stamps); rows 19 and 20
+  close the loop;
 - the **explication** (Экспликація), the land-area table: the basic allotment
   870 desyatinas 1454 square sazhens (842+28), the additional allotment 197
   desyatinas 2218 square sazhens (192+5), the total 1068 desyatinas 1272

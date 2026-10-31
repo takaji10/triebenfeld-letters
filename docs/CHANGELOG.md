@@ -4011,7 +4011,10 @@ footer on every page. Changed, in both languages:
   (Описаніе смежныхъ земель — the boundary walk in 20 stretches keyed by
   stamped letters А–У, two sections, the uezd groups; added the same day
   at the editor's word from `legend_2_transcription.md` /
-  `legend_2_translation_en.md`) and the explication (the land-area
+  `legend_2_translation_en.md` — the letter markers of rows 16–18 corrected
+  to the editor's revised transcription the same afternoon (П–А, Р–Р, С–С;
+  the first take's "Р [?]" mis-stamp guess withdrawn) — and the
+  explication (the land-area
   table, basic allotment 870 des. 1454 sq. sazh., additional 197 des.
   2218 sq. sazh., total 1068 des. 1272 sq. sazh.; the arithmetic checked)
   are carried in `maps/pelzucki1896/texts.yml` and shown on the map's

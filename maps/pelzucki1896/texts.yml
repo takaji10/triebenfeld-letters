@@ -147,9 +147,9 @@ blocks:
       - group: {ru: Калишской губерніи Слупецкаго уѣзда, en: "Kalisz Governorate, Słupca uezd", de: "Gouvernement Kalisch, Ujezd Słupca"}
       - {n: "14", from: Н, to: О, ru: Вырубленный лѣсъ Выпалѣнки частнаго имѣнія Тромбчинъ, en: Felled forest Wypalanki of the private estate of Trąbczyn, de: Kahlschlagwald Wypalanki des Privatgutes Trąbczyn, place: Wypalanki (Выпалѣнки); Trąbczyn (Тромбчинъ)}
       - {n: "15", from: О, to: П, ru: Лѣсъ имѣнія Лукомъ, en: Forest of the estate of Łukom, de: Wald des Gutes Łukom, place: Łukom (Лукомъ)}
-      - {n: "16", from: П, to: 'Р [?]', ru: Земли крестьянъ селенія Стависко, en: Lands of the peasants of the village of Stawisko, de: Ländereien der Bauern des Dorfes Stawisko, place: Stawisko (Стависко)}
-      - {n: "17", from: Р, to: С, ru: Участокъ земли имѣнія Тромбчинъ, en: A parcel of land of the estate of Trąbczyn, de: Ein Grundstück des Gutes Trąbczyn, place: Trąbczyn (Тромбчинъ)}
-      - {n: "18", from: С, to: Т, ru: Дополнительный надѣлъ крестьянъ сел. Михалиново, en: Additional allotment of the peasants of the village of Michalinów, de: Zusätzlicher Anteil der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
+      - {n: "16", from: П, to: А, ru: Земли крестьянъ селенія Стависко, en: Lands of the peasants of the village of Stawisko, de: Ländereien der Bauern des Dorfes Stawisko, place: Stawisko (Стависко)}
+      - {n: "17", from: Р, to: Р, ru: Участокъ земли имѣнія Тромбчинъ, en: A parcel of land of the estate of Trąbczyn, de: Ein Grundstück des Gutes Trąbczyn, place: Trąbczyn (Тромбчинъ)}
+      - {n: "18", from: С, to: С, ru: Дополнительный надѣлъ крестьянъ сел. Михалиново, en: Additional allotment of the peasants of the village of Michalinów, de: Zusätzlicher Anteil der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
       - section: {ru: Участка № 2, en: "Section No. 2", de: "Abschnitt Nr. 2"}
       - {n: "19", from: Т, to: У, ru: Земли крестьянъ селенія Михалиново, en: Lands of the peasants of the village of Michalinów, de: Ländereien der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
       - {n: "20", from: У, to: Т, ru: Земли крестьянъ селенія Хута, en: Lands of the peasants of the village of Huta, de: Ländereien der Bauern des Dorfes Huta, place: Huta (Хута)}
@@ -158,27 +158,31 @@ blocks:
         The stamped capitals (А–У) are the boundary points of the plan, two
         columns of them at the left of the list; each row runs from one point
         to the next around the perimeter, and the original writes «отъ» (from)
-        as a ditto mark at the head of each line. Row 16's right-hand letter
-        reads А in the stamp, out of sequence and probably a mis-stamp for Р;
-        rows 19 and 20 close the loop (Т→У, У→Т). The spellings are the
-        Russian renderings of the Polish names (Тромбчинъ = Trąbczyn, the
-        nasal ą written ом); the Polish forms are confirmed by the editor.
-        Фольварокъ is a manor farm (folwark), коренная усадьба the principal
-        homestead, вырубленный лѣсъ felled forest, дополнительный надѣлъ the
-        additional allotment (as in the explication).
+        as a ditto mark at the head of each line. Rows 1 to 15 run from one
+        letter to the next (А–Б, Б–В … О–П); rows 16 to 18 are П–А, Р–Р and
+        С–С (the editor's ruling), where the second letter repeats the first
+        or breaks the sequence; rows 19 and 20 close the loop (Т→У, У→Т).
+        The spellings are the Russian renderings of the Polish names
+        (Тромбчинъ = Trąbczyn, the nasal ą written ом); the Polish forms are
+        confirmed by the editor. Фольварокъ is a manor farm (folwark),
+        коренная усадьба the principal homestead, вырубленный лѣсъ felled
+        forest, дополнительный надѣлъ the additional allotment (as in the
+        explication).
       de: >-
         Die gestempelten Großbuchstaben (А–У) sind die Grenzpunkte des Plans,
         in zwei Spalten links neben der Liste; jede Zeile läuft von einem
         Punkt zum nächsten entlang der Grenze, und die Vorlage schreibt
-        «отъ» (von) als Wiederholungszeichen am Kopf jeder Zeile. Der rechte
-        Buchstabe der Zeile 16 liest sich im Stempel als А, außer der Reihe
-        und wohl ein Versehen für Р; die Zeilen 19 und 20 schließen den
-        Kreis (Т→У, У→Т). Die Schreibungen sind die russischen Wiedergaben
-        der polnischen Namen (Тромбчинъ = Trąbczyn, das nasalę als ом
-        geschrieben); die polnischen Formen hat der Herausgeber bestätigt.
-        Фольварокъ ist ein Vorwerk (folwark), коренная усадьба der Haupthof,
-        вырубленный лѣсъ Kahlschlagwald, дополнительный надѣлъ der
-        zusätzliche Anteil (wie in der Explication).
+        «отъ» (von) als Wiederholungszeichen am Kopf jeder Zeile. Die Zeilen
+        1 bis 15 laufen von einem Buchstaben zum nächsten (А–Б, Б–В … О–П);
+        die Zeilen 16 bis 18 sind П–А, Р–Р und С–С (Festlegung des
+        Herausgebers), wo der zweite Buchstabe den ersten wiederholt oder
+        die Reihe bricht; die Zeilen 19 und 20 schließen den Kreis (Т→У,
+        У→Т). Die Schreibungen sind die russischen Wiedergaben der polnischen
+        Namen (Тромбчинъ = Trąbczyn, das nasalę als om geschrieben); die
+        polnischen Formen hat der Herausgeber bestätigt. Фольварокъ ist ein
+        Vorwerk (folwark), коренная усадьба der Haupthof, вырубленный лѣсъ
+        Kahlschlagwald, дополнительный надѣлъ der zusätzliche Anteil (wie in
+        der Explication).
   - id: explication
     names:
       en: The explication (the land-area table)
