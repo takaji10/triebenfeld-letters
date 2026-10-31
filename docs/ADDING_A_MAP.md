@@ -30,7 +30,12 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    the second line's start). **Save** gives a file
    (`labels_<map>_<date>.json`) in the Downloads folder; tell Claude its name.
    Work is kept in the browser between sittings, and a saved file can be
-   loaded again to go on.
+   loaded again to go on. **Where the map's texts carry the
+   adjoining-lands list, the page also has the boundary walk**: mark the
+   stamped letters of the list, then walk its stretches — each traced
+   from its first letter to its last, or skipped (<kbd>S</kbd>; a stretch
+   drawn in a sub-map is skipped, recorded as skipped with its
+   description).
 4. **Rules** on what Claude asks afterwards: a form typed differently from
    the gazetteer's, a new place, a control point that does not fit.
 

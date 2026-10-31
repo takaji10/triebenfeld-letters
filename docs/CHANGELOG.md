@@ -4037,6 +4037,59 @@ footer on every page. Changed, in both languages:
   annotation live, warp.html?map=pelzucki1896 up. The labelling page
   served at http://localhost:8778/pelzucki1896/ (a stale server of an
   earlier session holds 8765); the editor's marks are the next step.
+- **The editor's seven marks imported** the same evening
+  (`labels_pelzucki1896_20261031-2053.json`): Glinianki, Dziadolina,
+  Studzianka, Trąbczyńskie Nowe Olędry (as **Новые Голендры**), Noga,
+  Grabina — and one **new place, Wypalanki** (Выпалѣнки, the felled forest
+  of boundary-list row 14; entry to be drafted at the editor's word). New
+  map appearances added for Dziadolina, Studzianka, Noga and Grabina;
+  positions written (RMS 2.71 m — for the marks on the mosaic's northern
+  sheets an extrapolation from sheet 4's points: tens of metres, not 2.7).
+  **Glinianki**: the mark lands at 52.117 N, 17.905 E, some 13 km from the
+  entry's coordinates (52.144, 17.768) — the entry's coordinates belong to
+  another Glinianki or are wrong (NEEDS_CONFIRMATION; the entry's `maps:`
+  item's form, empty until now, set to Glinianki as typed). A correction
+  of the session's own note: the "ground extent" first reasoned from was
+  sheet 4's warped bbox only; the mosaic reaches further.
+- **The boundary walk on the labelling page** (the editor's idea: "I can
+  mark the places where the letters occur, and also draw the polylines
+  between the letters. But give me the option to skip pairs; it looks
+  like T-Y occur in a different location (they're drawn in a sub-map)"):
+  where the map's texts carry the adjoining-lands list, the page grows a
+  **Boundary walk** section — **Mark the letters** steps the stamped
+  capitals А–У in list order (edit the letter in the box for a stamp the
+  sequence doesn't name; <kbd>S</kbd> leaves one unmarked), **Walk the
+  boundary** steps the twenty stretches of the list, each traced from its
+  first letter to its last, or skipped (<kbd>S</kbd> or the button) — a
+  skipped stretch is recorded as skipped, with its description, which is
+  the shape of the sub-map's Т–У. The import takes the new kinds: a letter
+  (a point, cropped like a name), a stretch (a trace, no crop — a line is
+  not lettering — and no gazetteer linking); `labels.yml` carries
+  `role: letter` / `role: boundary` with the letter or the from/to/n and
+  `skipped:`. On the map page the letters show as a chip row and the
+  stretches as a list under "The boundary walk" (German Der Grenzverlauf;
+  skipped marked "drawn in the sub-map"), the viewer draws the stretches
+  as dashed lines over the map with the from-letter's square at the start,
+  and clicking a row or chip takes the map there (a stretch's Locate fits
+  the whole line). The point of the walk: the 1896 perimeter of the
+  peasants' allotment as a drawable thing for the interactive map, and the
+  check of the list's rows 16–18 against the stamps.
+- **The key (Объясненіе знаковъ) on the map page** (the editor's word:
+  "Make a legend on the map page similar to the Kozłowski 1861 map"): the
+  ten blocks with the editor's own colour codes — Buildings 946837,
+  Gardens 747969, Arable land c59e74, Meadows ac9e85, Pastures ae9e81,
+  Forest brush ab9175, Forest 816c57, Cleared woodland aa9e83 (the light
+  blue streaks drawn, the wet pattern with a lighter ink), Unusable land
+  c0976d, Water b0978a — the labels from the editor's transcription
+  (`map_colours_transcription.md`; rows 5 and 6b keep their [?]), the
+  English the folder's translation, the German Claude's. The key's
+  original text is **Russian**, so the legend data now carries `lang:` and
+  `orig:` (the layout falls back to Kozłowski's `pl` fields); the gap row
+  between legend groups is emitted only after a group (a flat legend gets
+  no stray rules). The buildings block carries the key's own sign (a small
+  dark footprint, new CSS pattern). The outline colours are the fills
+  darkened (0.85/0.62), the streak ink chosen light blue (#a9c3d2) —
+  Claude's, to be checked by the editor like the rest of the legend.
 
 ## 2026-10-31: "always tag a Zelmer/Celmer/Zellmer" recorded as standing (branch `mentions-robustness`, not published)
 

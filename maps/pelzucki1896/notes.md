@@ -106,6 +106,32 @@ at warp.html?map=pelzucki1896.
 - **The place-name section moved to the top**: "+ New label" and its form
   stand above the To find list (the form's position in the panel follows the
   list).
+- **The boundary walk** (the editor's idea, 2026-10-31): "Mark the
+  letters" steps the stamped capitals А–У of the adjoining-lands list —
+  click each stamp on the map (edit the letter in the box for a stamp the
+  sequence doesn't name; <kbd>S</kbd> leaves one unmarked) — and "Walk the
+  boundary" steps the twenty stretches, each traced from its first letter
+  to its last, or **skipped** (<kbd>S</kbd>): the shape for the Т–У pair,
+  which is drawn in the sub-map. The import takes the new kinds (`role:
+  letter` / `role: boundary`; a letter cropped like a name, a stretch not
+  cropped and not linked to the gazetteer); on the map page the letters
+  show as chips, the stretches as a list, and the viewer draws the drawn
+  stretches as dashed lines over the map. The point: the 1896 perimeter of
+  the peasants' allotment as a drawable thing for the interactive map, and
+  the check of the list's rows 16–18 (П–А, Р–Р, С–С) against the stamps.
+
+## The key on the map page
+
+The plan's own key, «Объясненіе знаковъ», is on the page as a legend like
+Kozłowski 1861's (`legend.yml`, built by map_pages.py): ten blocks with the
+editor's colour codes of 2026-10-31, the labels from the unit's
+`map_colours_transcription.md` (rows 5 and 6b keep their [?]), the English
+the folder's translation, the German Claude's. The original text is
+Russian — the legend data carries `lang: ru` and `orig:` fields (the
+layout falls back to Kozłowski's `pl`), the buildings block carries the
+key's own building sign, and the cleared woodland's light blue streaks are
+drawn. The outline colours are the fills darkened, the streak ink chosen
+light blue: Claude's, to be checked by the editor like the rest.
 
 ## Open (NEEDS_CONFIRMATION carries the list)
 
