@@ -3999,10 +3999,13 @@ footer on every page. Changed, in both languages:
   name add section to the top of the column"):
   - choosing a gazetteer place fills the label's type (`shows`) from the
     place's `kind` (a village for a village, water for a stream —
-    KIND2SHOWS in `label_page.py`), and a label whose type came that way
-    saves at the end of its trace, the "what does the map show" step only
-    when the kind maps to no button; a type the editor chose by hand is
-    never overwritten;
+    KIND2SHOWS in `label_page.py`); the last step keeps only the form:
+    the type shown as filled in, the form field focused, **Enter saves**
+    (a type key overrides). The editor's correction the same day: the
+    first take saved the label the instant the trace ended, which took
+    the moment for typing the form as written on the map away — "I need
+    to be able to still add 'Form as written on the map'". The type
+    choice is what is saved, not the pause;
   - "+ New label" and its form moved to the top of the panel, above the
     To find list. The saved format and the import are unchanged.
 - **The texts on the sheet** (the editor's word: "make sure the

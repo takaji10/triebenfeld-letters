@@ -148,7 +148,11 @@ session (WORKING_NOTES, "Working with the editor").
   stands as transcribed (Pełzucki 1896, the pattern).
 - **The labelling page's type from the gazetteer** (the editor's word,
   2026-10-31): choosing a place fills the label's type from the place's
-  `kind` and saves the label at the end of the trace, the third step only
-  when the kind maps to no button; the place-name form stands at the top of
+  `kind`, and the last step keeps only the form — the type is shown as
+  filled in, the form field focused; **Enter saves**, a type key overrides
+  the gazetteer's answer. The form as written on the map is typed at this
+  pause (the editor's word, when the first take saved the label at once
+  and took the typing moment away: "I need to be able to still add 'Form
+  as written on the map'"). The place-name form stands at the top of
   the panel. No editor action needed; the import and the saved format are
   unchanged.

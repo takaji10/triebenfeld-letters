@@ -164,7 +164,7 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
     <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
-    <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. Choosing saves the label and moves to the next place. When the place is one the gazetteer knows, this step is filled in for you from its entry (a village for a village, water for a stream) and the label is saved at once; change it afterwards with <b>Change what it shows</b>.</p>
+    <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. When the place is one the gazetteer knows, the type is filled in for you from its entry (a village for a village, water for a stream); the page still pauses with the <b>form as written on the map</b> open and focused — type what the map's lettering says if it differs from the place's name, then <kbd>Enter</kbd> saves and moves to the next place. A type key overrides what the gazetteer filled in.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
     <p>Your work is kept in this browser as you go. Press <b>Save</b> to download a file to bring into the edition.</p>
   </details>
@@ -378,7 +378,9 @@ function stepText(){
   if(!cur) return "Choose a place from the list, or press + New label.";
   if(step==="point") return who+"Step 1 of 3. Click the place's symbol (<kbd>N</kbd> if there is none).";
   if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips."+(cur.autoShows?" The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>).":"");
-  if(step==="shows") return who+"Step 3 of 3. What does the map show here? Press a key or a button.";
+  if(step==="shows") return who+(cur.autoShows
+    ? "Step 3 of 3. The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>). Type the form as written on the map if it differs, then press <kbd>Enter</kbd> (or press a type key to override what the gazetteer says)."
+    : "Step 3 of 3. What does the map show here? Press a key or a button.");
   return who+"Saved. Use the buttons below to change it.";
 }
 function traceInfo(){
@@ -433,9 +435,14 @@ function renderWork(){
   }
   h+='<label class="f">Form as written on the map</label><input id="f-form" value="'+esc(cur.form)+'">';
   if(step==="shows"){
-    h+='<div class="step">What does the map show here?</div><div class="shows">';
-    SHOWS.forEach(function(s){ h+='<button data-shows="'+s[1]+'" class="'+(cur.shows===s[1]&&!isDraft?"on":"")+'">'+s[0].toUpperCase()+' '+esc(s[2])+'</button>'; });
-    h+='</div>';
+    if(cur.autoShows){
+      h+='<div class="step">The type of place: <b>'+esc(cur.shows)+'</b> <span class="small">(from the gazetteer; a type key overrides)</span></div>';
+      h+='<div class="shows"><button data-act="saveauto">Save (Enter)</button></div>';
+    } else {
+      h+='<div class="step">What does the map show here?</div><div class="shows">';
+      SHOWS.forEach(function(s){ h+='<button data-shows="'+s[1]+'" class="'+(cur.shows===s[1]&&!isDraft?"on":"")+'">'+s[0].toUpperCase()+' '+esc(s[2])+'</button>'; });
+      h+='</div>';
+    }
   }
   h+='<label class="f">Note (optional)</label><input id="f-note" value="'+esc(cur.note||"")+'">';
   if(!isDraft && step===null){
@@ -517,13 +524,15 @@ function endTrace(){
   var br=tmpBreaks.filter(function(i){return i>0&&i<tmp.length;});
   if(br.length) cur.breaks=br; else delete cur.breaks;
   resetTmp();
-  if(isDraft){ if(cur.autoShows){ finishDraft(); return; } step="shows"; } else { step=null; persist(); }
+  if(isDraft){ step="shows"; } else { step=null; persist(); }
   render();
+  if(isDraft && cur && cur.autoShows){ var ff=$("f-form"); if(ff){ ff.focus(); } }
 }
 function skipTrace(){
   cur.trace=null; delete cur.breaks; resetTmp();
-  if(isDraft){ if(cur.autoShows){ finishDraft(); return; } step="shows"; } else { step=null; persist(); }
+  if(isDraft){ step="shows"; } else { step=null; persist(); }
   render();
+  if(isDraft && cur && cur.autoShows){ var ff=$("f-form"); if(ff){ ff.focus(); } }
 }
 function cancelStep(){
   if(!cur) return;
@@ -533,6 +542,7 @@ function cancelStep(){
 }
 function act(a){
   if(a==="cancel") cancelStep();
+  else if(a==="saveauto"){ if(cur&&cur.autoShows) finishDraft(); }
   else if(a==="goto") goTo(cur);
   else if(a==="redopoint"){step="point";render();}
   else if(a==="redotrace"){step="trace";resetTmp();render();}
@@ -604,7 +614,11 @@ viewer.addHandler("canvas-double-click",function(e){
 
 document.addEventListener("keydown",function(e){
   var t=e.target, tag=t&&t.tagName;
-  if(tag==="INPUT"||tag==="TEXTAREA"||tag==="SELECT") return;
+  if(tag==="INPUT"||tag==="TEXTAREA"||tag==="SELECT"){
+    // Enter in the form field saves the label whose type the gazetteer filled in
+    if(e.key==="Enter" && cur && step==="shows" && cur.autoShows && t.id==="f-form"){}
+    else return;
+  }
   if(e.ctrlKey||e.metaKey||e.altKey) return;
   var k=e.key, lk=k.length===1?k.toLowerCase():k;
   if(k===","){rotateBy(-90);return;}
@@ -634,6 +648,7 @@ document.addEventListener("keydown",function(e){
     if(lk==="s"){skipTrace();return;}
   }
   if(step==="shows"){
+    if(k==="Enter" && cur.autoShows){ e.preventDefault(); finishDraft(); return; }
     for(var i=0;i<SHOWS.length;i++) if(SHOWS[i][0]===lk){chooseShows(SHOWS[i][1]);return;}
   }
 });

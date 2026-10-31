@@ -1679,6 +1679,17 @@ cloud branches").
 
 ## Traps in the tools
 
+- **Automating a step of the labelling page must not take the editor's
+  typing moment with it** (2026-10-31, the type filled from the
+  gazetteer). The first take saved the label the instant the trace ended
+  when the type came from the gazetteer — one step fewer, as asked — but
+  the "form as written on the map" was typed at the pause before saving,
+  and the pause was gone: "I need to be able to still add 'Form as
+  written on the map'". The settled shape: the last step remains, but
+  with the type shown as filled in and the form field focused — Enter
+  saves, a type key overrides. The rule: when a step's *decision* is
+  automated, keep the step's *fields*; a form the editor types is never
+  skipped past, only prefilled.
 - **Correlation matchers: prove them on a self-match first** (2026-10-31,
   the mosaic fit of Pełzucki 1896, scratch/map4456/). Finding one image
   inside another by FFT patch correlation ran three takes before it worked,

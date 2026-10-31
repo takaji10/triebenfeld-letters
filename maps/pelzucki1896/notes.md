@@ -96,10 +96,13 @@ at warp.html?map=pelzucki1896.
 - **The type of place fills itself in**: choosing a gazetteer place for a
   label sets the label's `shows` from the place's `kind` in the gazetteer
   (a village for a village, water for a stream; the mapping is KIND2SHOWS in
-  pipeline/maps/label_page.py), and the label saves at the end of the trace
-  without the third step. A type the editor chose by hand is never
-  overwritten; kinds the gazetteer holds that no button covers (mounds,
-  locale, unknown…) leave the step as it was.
+  pipeline/maps/label_page.py). The last step keeps only the form: the
+  type shown as filled in, the **form field focused** — type the form as
+  written on the map, press **Enter**, and the label saves and moves to
+  the next place (a type key overrides the gazetteer's answer). A type the
+  editor chose by hand is never overwritten; kinds the gazetteer holds
+  that no button covers (mounds, locale, unknown…) keep the full step with
+  its buttons.
 - **The place-name section moved to the top**: "+ New label" and its form
   stand above the To find list (the form's position in the panel follows the
   list).
