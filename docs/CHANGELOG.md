@@ -3962,3 +3962,23 @@ footer on every page. Changed, in both languages:
   register entry) and the "Build and deploy" run 41101782292 succeeded on
   it — Kozłowski's map, its legend, the corrected places and all of
   today's other rulings went live.
+
+## 2026-10-31: "always tag a Zelmer/Celmer/Zellmer" recorded as standing (branch `mentions-robustness`, not published)
+
+- The editor's rule went into the ledger (`EDITORIAL_RULES.md`, "Rulings the
+  editor has given, standing until withdrawn") and into the identity of the
+  family's entry in `reference/people.yml`. The machinery had honoured it
+  since the rulings of 2026-09-11 and 2026-10-15: the entry's `match` covers
+  Celmer, Cellmer, Zelmer, Zellmer and the Russian tables' Цельмеръ, with
+  inflections, and a curated entry outranks the seed tail everywhere. The
+  coverage test found nothing untagged: 28 mention rows over seven documents
+  - the liquidation tables of APŁ 39/98/0/-/6603 and Breyer's copy of them,
+  document 4 of the 53/968/0/-/716 holding; the delivery protocol of the
+  Kalisz Gr.414 holding of 1771; the printed summons of the 53/968/0/-/783
+  holding of 1860; Breyer's first notebook, the 53/968/0/-/669 holding.
+- Found proving the rule: the five older units whose originals name the
+  family (`app53150kaliszgr414`, `app539680783`, `app539680669`,
+  `apl399806603`, `app539680716`) produced no `names` marks in their
+  translations, so their English pages print the Zelmers with no
+  `mentions_english` link. A translation pass would add them; it costs
+  money, and waits for the editor's word (TODO 58).

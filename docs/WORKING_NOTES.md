@@ -2795,6 +2795,45 @@ to be places where nothing forced a look:
 - **The dataset manifest's `text_path` is dataset-relative** (`text/uid.txt`,
   not `dataset/text/uid.txt`). A visitor script that joins it to the
   project root reads nothing and reports empty.
+- **"Always tag a Zelmer/Celmer/Zellmer" was already in force; the work is
+  proving it and writing it into the ledger.** All of the family's forms sit
+  in one curated entry (`zelmer`): `match: (?:[CZ]ell?mer|Цельмер)\w*`
+  catches Celmer, Cellmer, Zelmer, Zellmer and the Russian tables' Цельмеръ
+  with their inflections, wherever the document is from, and the seed tail
+  is skipped wherever a curated pattern matches. A coverage test over
+  `dataset/text/` found every strong form and every Cyrillic run inside a
+  tagged document - 28 mention rows over 7 documents, none untagged - and
+  found no new spelling the entry does not name. A variant `match` already
+  finds is dropped by `_pattern_for`, so the four `variants:` lines are
+  documentation, not machinery. The standing rule is recorded in
+  EDITORIAL_RULES.md and at the entry. The proving found the gap that is
+  real: `mentions_english` comes only from the translation's own `names`
+  marks, and the five older units that name the family have none - their
+  English pages say the Zelmers with no link (TODO 58; a translation pass,
+  the editor's word, money).
+- **The full `regenerate.py` has been locked since something drifted.** Its
+  first step is the code-hygiene gate `pipeline/check_pipeline.py`, which
+  exits 1 on five files that carry a holding's facts in code - `new_unit.py`
+  (the `--archive` default), `review/drop_form_and_language.py`,
+  `review/set_np_titles.py`, `review/set_short_titles.py`,
+  `review/write_prepared.py` (per-unit literals, exactly what the rule
+  against naming a holding in code governs) - with 23 problems and three
+  files already `# pipeline-check-file:`-waived. Nothing downstream ran, so
+  no rebuild could start: the checks the two previous commits wired in were
+  each run alone and never met the lock. Proven pre-existing by rerunning
+  the gate on a stashed-clean tree, exit 1 both ways. The checker's own
+  principle is the right one: "silence with a reason attached is a
+  decision; silence without one is a bug waiting to be rediscovered."
+  TODO 58 carries the choice: waive each file, or refactor the literals
+  into `units/<slug>/`. Today's affected steps were run directly, in the
+  merged order `regenerate.py` itself defines, skipping none of the checks
+  that gate them.
+- **Two stdout wrappers close each other.** A visitor script that wraps
+  `sys.stdout` with `io.TextIOWrapper(...)` and then imports a pipeline
+  module that does the same loses its wrapper mid-run ("I/O operation on
+  closed file"): when the first wrapper is collected, closing it closes the
+  buffer both were built on. Import the pipeline module first and let it
+  own the wrapper, or rewrap nothing.
 
 ## The holding pages: header, languages, "How it was prepared" (2026-10-30)
 

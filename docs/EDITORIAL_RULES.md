@@ -239,3 +239,11 @@ than where it sits.
   A date enters the edition's prose only where a source the edition can
   cite states it. Where that source writes "ca", the date keeps its "ca",
   and NEEDS_CONFIRMATION keeps it open to qualification from the documents.
+- **Always tag a Zelmer/Celmer/Zellmer** (editor, 2026-10-31). The family the
+  book follows is tagged wherever the name appears, in whatever spelling or
+  script the page has - `Celmer`, `Cellmer`, `Zelmer`, `Zellmer`, the Russian
+  tables' `Цельмеръ` - and its inflected forms, in every holding.
+  `reference/people.yml` carries the one entry all of this is built on
+  (`zelmer`, whose `match` already grades the road); a new unit needs no
+  further ruling for the name, and a wanted mention of a Zelmer that a build
+  does not fetch is a defect in the entry, not in the document.
