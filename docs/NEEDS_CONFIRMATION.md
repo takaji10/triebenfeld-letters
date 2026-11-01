@@ -977,6 +977,42 @@ read, translate and summarise.
       men), as is the reading of "Horodyński" for the layer's
       "Ilorodyński".
 
+  **Pełzucki 1896** (`pelzucki1896`, added 2026-10-31;
+  `maps/pelzucki1896/notes.md` has the record). The readings come from the
+  editor's own transcriptions in the AN-4456 folder; these are the ones
+  marked uncertain there, and the editor is to rule:
+  - **The surveyor's surname** (Пелзуцкій / Пелзуцкімъ, twice in the title
+    block, initials Г. А. fairly clear): the register's Polish form
+    **Pełzucki** stands behind the gazetteer's short form, but the cursive is
+    not certain. Ruled wrong, the register's maker and the short form change.
+  - **The commissioner's surname** (А. Жемчужинъ or Жемчугинъ): left as
+    Жемчужинъ in the transcription shown on the map's page.
+  - **The day "27"** of the 1898 certification (the month and year clear).
+  - **The clause "Планъ сей составленъ [?] ... состоящей [?] при Калишскомъ
+    Губернскомъ Присутствіи"** (the title block): partly elided; shown as
+    transcribed with its [?]s.
+  - **The mosaic fit.** The MapWarper points were made on sheet 4456-4.jpg
+    and are moved into the mosaic 4456_full.jpg by an approximate fit
+    (`mapwarper_fit` [1.0025, 7033, 6910], found by patch correlation,
+    corners within ±35 px): at the sheet edges, where the sheets overlap,
+    the mosaic's assembly may shift content by a few pixels. The fit of the
+    transformed points is good (RMS 2.71 m), which bears the
+    transformation out; a control point that lands badly in the editor's
+    look at the warp is a question here, not a correction.
+  - **Glinianki on this plan — partly settled by the editor's mark
+    (2026-10-31).** The editor marked **Glinianki** on the mosaic
+    (label `pelzucki1896-002`, the plan's lettering reads Glinianki), at
+    the fit's position 52.1169 N, 17.9055 E — on the mosaic's northern
+    sheets, far from the plan's own village. The gazetteer entry's
+    coordinates (52.1439 N, 17.7682 E, "isolated dwellings northwest of
+    Grabina") sit some 13 km northwest of the mark: still two different
+    places, or the entry's coordinates wrong. **For the editor**: which
+    Glinianki the entry describes — the one on this plan, or the one the
+    coordinates name? (The first take of this note reasoned from the
+    MapWarper bbox alone; that bbox is sheet 4's warped extent only, not
+    the mosaic's, and the mark falls outside it on other sheets — the
+    mosaic, not the sheet, is the extent to reason from.)
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as

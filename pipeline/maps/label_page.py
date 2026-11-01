@@ -76,7 +76,8 @@ def build_data(key):
         for a in g.get("aliases") or []:
             if a and a not in forms:
                 forms.append(a)
-        places.append({"slug": slug, "heading": heading, "forms": forms})
+        places.append({"slug": slug, "heading": heading, "forms": forms,
+                       "kind": g.get("kind")})
         for it in g.get("maps") or []:
             # absent: true records that the entry says the place is NOT on
             # this map (Myszakówek on Łukom 1766): nothing to find.
@@ -90,7 +91,30 @@ def build_data(key):
         if isinstance(d, dict):
             d = d.get("labels")
         labels = d or []
-    return {"map": mapinfo, "find": find, "places": places, "labels": labels}
+    # The boundary walk (the stamped letters of the adjoining-lands list),
+    # where the map's texts carry one: the pairs in list order with their
+    # descriptions, the letters in first-occurrence order. The page's
+    # "Boundary walk" buttons are shown only where this exists.
+    boundary = None
+    tp = ROOT / "maps" / key / "texts.yml"
+    if tp.exists():
+        t = load_yaml(tp) or {}
+        for b in t.get("blocks") or []:
+            if b.get("id") != "adjoining-lands" or not b.get("rows"):
+                continue
+            pairs, letters = [], []
+            for r in b["rows"]:
+                if r.get("section") or r.get("group") or not r.get("n"):
+                    continue
+                pairs.append({"n": str(r["n"]), "from": r.get("from"),
+                              "to": r.get("to"),
+                              "desc": r.get("en") or r.get("ru") or ""})
+                for L in (r.get("from"), r.get("to")):
+                    if L and L not in letters:
+                        letters.append(L)
+            boundary = {"letters": letters, "pairs": pairs}
+    return {"map": mapinfo, "find": find, "places": places, "labels": labels,
+            "boundary": boundary}
 
 
 def main():
@@ -150,6 +174,11 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
 #work .step{font-weight:600;margin-bottom:4px}
 .shows button{display:inline-block}
 .small{font-size:12px;color:#666}
+#add{margin:8px 0 2px}
+#add #b-new{margin:0}
+#bwrap{margin-top:10px}
+#bwrap ul.items{margin:2px 0 6px}
+#bwrap .t{font-weight:600}
 </style></head><body>
 <div id="panel">
   <h1>Label the map: <span id="mtitle"></span></h1>
@@ -161,17 +190,24 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
     <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
-    <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. Choosing saves the label and moves to the next place.</p>
+    <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. When the place is one the gazetteer knows, the type is filled in for you from its entry (a village for a village, water for a stream); the page still pauses with the <b>form as written on the map</b> open and focused — type what the map's lettering says if it differs from the place's name, then <kbd>Enter</kbd> saves and moves to the next place. A type key overrides what the gazetteer filled in.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
+    <p><b>The boundary walk</b> (where the map's texts carry the adjoining-lands list): <b>Mark the letters</b> — the letter to mark is shown in the box; click its stamp on the map, repeat (edit the letter in the box for a stamp the sequence doesn't name, <kbd>S</kbd> to leave one unmarked). <b>Walk the boundary</b> — each stretch of the list in order: trace the line from its first letter to its last (click the start, each bend, double-click the end), or <kbd>S</kbd> skips the stretch (a stretch drawn in the sub-map: skip it). Click a stretch in the list to draw it again.</p>
     <p>Your work is kept in this browser as you go. Press <b>Save</b> to download a file to bring into the edition.</p>
   </details>
   <div id="status"></div>
   <div id="counter"></div>
+  <div id="add"><button id="b-new">+ New label</button><div id="work" style="display:none"></div></div>
   <h2>To find</h2><ul class="items" id="find"></ul>
   <h2>Other labels</h2><ul class="items" id="other"></ul>
-  <button id="b-new">+ New label</button>
-  <div id="work" style="display:none"></div>
+  <div id="bwrap" style="display:none">
+    <h2>Boundary walk</h2>
+    <div><button id="b-letters">Mark the letters</button><button id="b-walk">Walk the boundary</button></div>
+    <ul class="items" id="bletters"></ul>
+    <ul class="items" id="bpairs"></ul>
+  </div>
   <datalist id="placelist"></datalist>
+  <datalist id="letterlist"></datalist>
 </div>
 <div id="viewer"></div>
 <canvas id="overlay"></canvas>
@@ -184,6 +220,13 @@ var SHOWS = [["1","village","Village"],["2","oleder-settlement","Olęder settlem
   ["4","tavern","Tavern"],["5","water-mill","Water mill"],["6","windmill","Windmill"],["7","forest","Forest"],
   ["8","field","Field or meadow"],["9","water","Water"],["0","road","Road or crossing"],["-","church","Church"],
   ["=","other","Other"],["u","unsure","Unsure"]];
+// The gazetteer's kind of a place, filled in as the label's type when the
+// place is known (the editor's word, 2026-10-31: choosing the name fills in
+// the type). Kinds the gazetteer holds that no button covers stay "unsure".
+var KIND2SHOWS = {village:"village", hamlet:"village", settlement:"village", town:"village",
+  "isolated-dwellings":"village", "oleder-settlement":"oleder-settlement", folwark:"folwark",
+  tavern:"tavern", "water-mill":"water-mill", windmills:"windmill", forest:"forest",
+  "forest-precinct":"forest", river:"water", stream:"water", field:"field"};
 var LSKEY = "maplabels:" + KEY;
 
 var labels = [];      // saved labels
@@ -196,6 +239,11 @@ var tmpBreaks = [];   // indices into tmp where a new line starts (key L)
 var pendingBreak = false; // L pressed: the next click starts a new line
 var placeMap = {};    // datalist string -> slug
 var headingOf = {};
+var kindOf = {};      // slug -> the gazetteer's kind
+var BOUNDARY = DATA.boundary || null;   // {letters, pairs} when the map's texts carry the adjoining-lands list
+var walkIndex = -1;   // the pair being walked (index into BOUNDARY.pairs; -1 = not walking)
+
+function roleOf(l){ return l.role || "place"; }
 
 function $(id){return document.getElementById(id);}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
@@ -224,11 +272,20 @@ function splitLines(trace,breaks){
 
 // ---------- storage ----------
 function normLabel(l){
-  var o={id:l.id, place:l.place||null, new_place:l.new_place||null, form:l.form||"",
+  var role=l.role||"place";
+  var o={id:l.id, role:role, place:l.place||null, new_place:l.new_place||null, form:l.form||"",
     point:l.point?[rnd(l.point[0]),rnd(l.point[1])]:null,
     trace:(l.trace&&l.trace.length)?l.trace.map(function(p){return [rnd(p[0]),rnd(p[1])];}):null};
   if(o.trace&&l.breaks&&l.breaks.length) o.breaks=l.breaks.map(rnd);
-  o.height=rnd(l.height||80); o.shows=l.shows||"unsure"; o.note=l.note||null;
+  if(role==="letter"){ o.letter=l.letter||null; o.shows=null; o.height=null; }
+  else if(role==="boundary"){
+    o.from=l.from||null; o.to=l.to||null; o.n=(l.n!=null)?String(l.n):null;
+    if(l.skipped) o.skipped=true;
+    o.shows=null; o.height=null;
+  } else {
+    o.height=rnd(l.height||80); o.shows=l.shows||"unsure";
+  }
+  o.note=l.note||null;
   return o;
 }
 function payload(){
@@ -255,7 +312,7 @@ function assign(){
     if(l) used[l.id]=true;
     items.push({item:it,index:i,label:l});
   });
-  var other=labels.filter(function(l){return !used[l.id];});
+  var other=labels.filter(function(l){return !used[l.id]&&roleOf(l)==="place";});
   return {items:items,other:other};
 }
 function nextFree(){
@@ -312,10 +369,11 @@ function linesOf(l){ return (l===cur && step==="trace") ? splitLines(tmp,tmpBrea
 
 function drawLabel(l,selected){
   var tr=traceOf(l);
+  var isB=roleOf(l)==="boundary";
   var col=selected?"192,57,43":"220,60,50";
   if(tr&&tr.length){
     ctx.lineJoin="round"; ctx.lineCap="round";
-    var lines=linesOf(l), prevEnd=null;
+    var lines=isB?[tr]:linesOf(l), prevEnd=null;
     lines.forEach(function(ln){
       var pts=ln.map(i2s);
       if(prevEnd){ // the jump to the next line: a thin dotted grey line only
@@ -323,7 +381,7 @@ function drawLabel(l,selected){
         ctx.beginPath(); ctx.moveTo(prevEnd[0],prevEnd[1]); ctx.lineTo(pts[0][0],pts[0][1]); ctx.stroke(); ctx.restore();
       }
       var H=l.height||80, up=upOf(ln);
-      if(ln.length>=2){ // the band: H above the baseline, DESC*H below, SIDE*H beyond each end; offset in image pixels
+      if(ln.length>=2 && !isB){ // the band: H above the baseline, DESC*H below, SIDE*H beyond each end; offset in image pixels
         var rd=[-up[1],up[0]]; // reading direction, from the first point towards the last
         var SIDE=0.4*H, bp=ln.map(function(p){return [p[0],p[1]];});
         bp[0]=[bp[0][0]-SIDE*rd[0],bp[0][1]-SIDE*rd[1]];
@@ -335,7 +393,10 @@ function drawLabel(l,selected){
         ctx.closePath(); ctx.fillStyle="rgba("+col+","+(selected?0.30:0.16)+")"; ctx.fill();
       }
       ctx.beginPath(); pts.forEach(function(p,i){i?ctx.lineTo(p[0],p[1]):ctx.moveTo(p[0],p[1]);});
-      ctx.strokeStyle=selected?"rgb(255,40,20)":"rgb(220,50,40)"; ctx.lineWidth=2; ctx.stroke();
+      ctx.strokeStyle=selected?"rgb(255,40,20)":"rgb(220,50,40)"; ctx.lineWidth=2;
+      if(isB){ ctx.save(); ctx.setLineDash([8,5]); ctx.lineWidth=3; }
+      ctx.stroke();
+      if(isB) ctx.restore();
       if(selected){ ctx.fillStyle="#fff"; pts.forEach(function(p){ctx.beginPath();ctx.arc(p[0],p[1],3,0,7);ctx.fill();ctx.strokeStyle="#c0392b";ctx.lineWidth=1;ctx.stroke();}); }
       prevEnd=pts[pts.length-1];
     });
@@ -366,9 +427,20 @@ function setStatus(t,bad){ var s=$("status"); s.innerHTML=t; s.style.background=
 function stepText(){
   var who=cur?("<b>"+esc(cur.form||curHeading()||"new label")+"</b>: "):"";
   if(!cur) return "Choose a place from the list, or press + New label.";
+  if(cur.role==="letter"){
+    if(step==="point") return who+"Click the stamp <b>"+esc(cur.letter)+"</b> on the map (<kbd>S</kbd> leaves it unmarked).";
+    return who+"Saved. Use the buttons below to change it.";
+  }
+  if(cur.role==="boundary"){
+    if(step==="trace") return who+"Trace the boundary line from <b>"+esc(cur.from)+"</b> to <b>"+esc(cur.to)+"</b>: click its start, each bend, double-click its end (or Enter). <kbd>S</kbd> skips this stretch (it stays on the record as skipped)."+traceInfo();
+    if(step==="point") return who+"Click where the stretch begins (<kbd>S</kbd> skips).";
+    return who+"Saved. Use the buttons below to change it.";
+  }
   if(step==="point") return who+"Step 1 of 3. Click the place's symbol (<kbd>N</kbd> if there is none).";
-  if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips.";
-  if(step==="shows") return who+"Step 3 of 3. What does the map show here? Press a key or a button.";
+  if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips."+(cur.autoShows?" The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>).":"");
+  if(step==="shows") return who+(cur.autoShows
+    ? "Step 3 of 3. The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>). Type the form as written on the map if it differs, then press <kbd>Enter</kbd> (or press a type key to override what the gazetteer says)."
+    : "Step 3 of 3. What does the map show here? Press a key or a button.");
   return who+"Saved. Use the buttons below to change it.";
 }
 function traceInfo(){
@@ -376,6 +448,13 @@ function traceInfo(){
   return " ("+tmp.length+" points, line "+Math.max(1,n)+(pendingBreak?": click its start":"")+")";
 }
 function curHeading(){ return cur&&cur.place?headingOf[cur.place]:null; }
+function autoShowsFor(slug){
+  // The type of place from the gazetteer's kind (the editor's word, 2026-10-31).
+  // A type the editor chose by hand is never overwritten.
+  if(!cur||!slug||cur.showsTouched) return;
+  var s=KIND2SHOWS[kindOf[slug]];
+  if(s){ cur.shows=s; cur.autoShows=true; }
+}
 
 // ---------- panel ----------
 function render(){
@@ -398,45 +477,97 @@ function render(){
     li.onclick=function(){selectLabel(l);};
     o.appendChild(li);
   });
+  renderBoundary();
   setStatus(stepText());
   renderWork();
   draw();
+}
+function renderBoundary(){
+  var bw=$("bwrap");
+  if(!BOUNDARY){ bw.style.display="none"; return; }
+  bw.style.display="block";
+  var bl=$("bletters"); bl.innerHTML="";
+  var lets=labels.filter(function(l){return roleOf(l)==="letter";});
+  if(!lets.length) bl.innerHTML='<li class="h" style="cursor:default">no letters marked yet</li>';
+  lets.forEach(function(l){
+    var li=document.createElement("li"); li.className="done"+(cur===l?" sel":"");
+    li.innerHTML='<div class="t">'+esc(l.letter)+'</div><div class="h">stamp marked</div>';
+    li.onclick=function(){selectLabel(l);};
+    bl.appendChild(li);
+  });
+  var bp=$("bpairs"); bp.innerHTML="";
+  BOUNDARY.pairs.forEach(function(p,i){
+    var ex=labels.filter(function(l){return roleOf(l)==="boundary"&&l.n===p.n;})[0];
+    var li=document.createElement("li"); li.className=ex?"done":"";
+    var st=ex?(ex.skipped?"skipped":"drawn"):"not drawn";
+    li.innerHTML='<div class="t">'+esc(p.from)+' → '+esc(p.to)+'</div><div class="h">row '+esc(p.n)+': '+esc(p.desc)+' — '+st+'</div>';
+    li.onclick=function(){ redoPair(i); };
+    bp.appendChild(li);
+  });
 }
 function renderWork(){
   var w=$("work");
   if(!cur){w.style.display="none";return;}
   w.style.display="block";
   var h='';
-  if(isDraft && !cur.fromItem && cur.fromItem!==0){
+  var role=roleOf(cur);
+  if(role==="letter"){
+    h+='<label class="f">The stamp being marked (edit if need be)</label><input id="f-letter" list="letterlist" value="'+esc(cur.letter||"")+'" autocomplete="off">';
+    h+='<div class="small">Click the stamp on the map. <kbd>S</kbd> leaves it unmarked.</div>';
+  } else if(role==="boundary"){
+    h+='<div class="step">Stretch <b>'+esc(cur.from)+' → '+esc(cur.to)+'</b>'+(cur.n?' (row '+esc(cur.n)+')':'')+'</div>';
+    h+='<div class="small">'+esc(pairDesc(cur.n))+'</div>';
+  } else if(isDraft && !cur.fromItem && cur.fromItem!==0){
     h+='<label class="f">Place (type to search the gazetteer)</label><input id="f-place" list="placelist" value="'+esc(cur._placeText||"")+'" autocomplete="off">';
     h+='<div class="small" id="f-placeinfo">'+(cur.place?"Place chosen: <b>"+esc(headingOf[cur.place])+"</b>":"No gazetteer place chosen.")+'</div>';
     h+='<label class="f">New place (only if no place above fits)</label><input id="f-newplace" value="'+esc(cur.new_place||"")+'">';
   } else {
     h+='<div class="small">Place: <b>'+esc(cur.place?headingOf[cur.place]:(cur.new_place||"none"))+'</b></div>';
   }
-  h+='<label class="f">Form as written on the map</label><input id="f-form" value="'+esc(cur.form)+'">';
-  if(step==="shows"){
-    h+='<div class="step">What does the map show here?</div><div class="shows">';
-    SHOWS.forEach(function(s){ h+='<button data-shows="'+s[1]+'" class="'+(cur.shows===s[1]&&!isDraft?"on":"")+'">'+s[0].toUpperCase()+' '+esc(s[2])+'</button>'; });
-    h+='</div>';
+  if(role==="place"){
+    h+='<label class="f">Form as written on the map</label><input id="f-form" value="'+esc(cur.form)+'">';
+    if(step==="shows"){
+      if(cur.autoShows){
+        h+='<div class="step">The type of place: <b>'+esc(cur.shows)+'</b> <span class="small">(from the gazetteer; a type key overrides)</span></div>';
+        h+='<div class="shows"><button data-act="saveauto">Save (Enter)</button></div>';
+      } else {
+        h+='<div class="step">What does the map show here?</div><div class="shows">';
+        SHOWS.forEach(function(s){ h+='<button data-shows="'+s[1]+'" class="'+(cur.shows===s[1]&&!isDraft?"on":"")+'">'+s[0].toUpperCase()+' '+esc(s[2])+'</button>'; });
+        h+='</div>';
+      }
+    }
   }
   h+='<label class="f">Note (optional)</label><input id="f-note" value="'+esc(cur.note||"")+'">';
   if(!isDraft && step===null){
-    h+='<div class="small">Shows: <b>'+esc(cur.shows)+'</b>; height '+cur.height+'</div>';
-    h+='<div><button data-act="goto">Go to</button><button data-act="redopoint">Redo point</button><button data-act="redotrace">Redo trace</button><button data-act="redoshows">Change what it shows</button><button data-act="delete" class="danger">Delete label</button></div>';
+    if(role==="letter"){
+      h+='<div><button data-act="goto">Go to</button><button data-act="redopoint">Redo point</button><button data-act="delete" class="danger">Delete label</button></div>';
+    } else if(role==="boundary"){
+      h+='<div class="small">'+(cur.skipped?'<b>Skipped</b>'+(cur.trace?'':' — no line drawn'):'Line drawn'+(cur.trace?' ('+cur.trace.length+' points)':''))+'</div>';
+      h+='<div><button data-act="goto">Go to</button><button data-act="redotrace">'+(cur.skipped?'Draw the line':'Redo the line')+'</button><button data-act="delete" class="danger">Delete label</button></div>';
+    } else {
+      h+='<div class="small">Shows: <b>'+esc(cur.shows)+'</b>'+(cur.place&&KIND2SHOWS[kindOf[cur.place]]===cur.shows?' <span class="small">(from the gazetteer)</span>':'')+'; height '+cur.height+'</div>';
+      h+='<div><button data-act="goto">Go to</button><button data-act="redopoint">Redo point</button><button data-act="redotrace">Redo trace</button><button data-act="redoshows">Change what it shows</button><button data-act="delete" class="danger">Delete label</button></div>';
+    }
   } else if(isDraft){
-    h+='<div><button data-act="cancel">Cancel this label</button></div>';
+    if(role==="boundary" && step==="trace"){
+      h+='<div><button data-act="skippair">Skip this pair (S)</button><button data-act="cancel">Cancel</button></div>';
+    } else {
+      h+='<div><button data-act="cancel">Cancel this label</button></div>';
+    }
   } else {
     h+='<div><button data-act="cancel">Cancel</button></div>';
   }
   w.innerHTML=h;
+  var fl=$("f-letter");
+  if(fl) fl.oninput=function(){ cur.letter=fl.value||null; cur.form=fl.value||""; };
   var fp=$("f-place");
   if(fp){
     fp.oninput=function(){
       cur._placeText=fp.value;
       var slug=placeMap[fp.value]||null; cur.place=slug;
       $("f-placeinfo").innerHTML=slug?"Place chosen: <b>"+esc(headingOf[slug])+"</b>":"No gazetteer place chosen.";
-      if(slug){ var ff=$("f-form"); var m=/^(.*) → /.exec(fp.value); var v=m?m[1]:headingOf[slug]; if(!ff.value||ff.dataset.auto){ff.value=v;ff.dataset.auto="1";cur.form=v;} }
+      if(!slug && cur.autoShows){ cur.shows="unsure"; cur.autoShows=false; }
+      if(slug){ var ff=$("f-form"); var m=/^(.*) → /.exec(fp.value); var v=m?m[1]:headingOf[slug]; if(!ff.value||ff.dataset.auto){ff.value=v;ff.dataset.auto="1";cur.form=v;} autoShowsFor(slug); }
     };
   }
   var nn=$("f-newplace"); if(nn) nn.oninput=function(){cur.new_place=nn.value||null;};
@@ -454,11 +585,14 @@ function renderWork(){
 // ---------- the work ----------
 function newDraft(base){
   cur=Object.assign({id:nextFree(),place:null,new_place:null,form:"",point:null,trace:null,height:80,shows:"unsure",note:null},base||{});
-  isDraft=true; step="point"; resetTmp();
+  isDraft=true;
+  step=(cur.role==="boundary")?"trace":"point";
+  resetTmp();
 }
 function startItem(i){
   var it=DATA.find[i];
   newDraft({place:it.place,form:it.form||it.heading,fromItem:i});
+  autoShowsFor(it.place);
   render();
 }
 function startNew(){
@@ -474,22 +608,98 @@ function nextUndone(){
 }
 function finishDraft(){
   cur.id=nextFree();
-  if(!cur.form) cur.form=cur.place?headingOf[cur.place]:(cur.new_place||"");
+  if(cur.role==="letter"){ cur.form=cur.letter||""; }
+  else if(cur.role==="boundary"){ cur.form=cur.form||(cur.from&&cur.to?cur.from+"–"+cur.to:""); }
+  else if(!cur.form){ cur.form=cur.place?headingOf[cur.place]:(cur.new_place||""); }
   delete cur.fromItem; delete cur._placeText;
+  var wasRole=cur.role||"place";
+  var wasWalk=walkIndex;
   var l=normLabel(cur); labels.push(l); persist();
-  cur=null; isDraft=false; step=null;
-  var n=nextUndone();
-  if(n>=0) startItem(n); else { render(); setStatus("Every place on the list has a label. Press Save to download the file.");}
+  cur=null; isDraft=false; step=null; walkIndex=-1;
+  if(wasRole==="boundary"){
+    if(wasWalk>=0) advanceWalk();
+    else render();
+    return;
+  }
+  if(wasRole==="place"){
+    var n=nextUndone();
+    if(n>=0) startItem(n); else { render(); setStatus("Every place on the list has a label. Press Save to download the file.");}
+  } else { render(); }
+}
+// ---------- the boundary walk ----------
+function pairDesc(n){
+  if(!BOUNDARY) return "";
+  var p=BOUNDARY.pairs.filter(function(x){return x.n===String(n);})[0];
+  return p?(p.desc||""):"";
+}
+function firstUndonePair(){
+  if(!BOUNDARY) return -1;
+  for(var i=0;i<BOUNDARY.pairs.length;i++){
+    var p=BOUNDARY.pairs[i];
+    var ex=labels.filter(function(l){return roleOf(l)==="boundary"&&l.n===p.n;})[0];
+    if(!ex) return i;
+  }
+  return -1;
+}
+function guardDraft(){
+  if(!(cur&&isDraft)) return true;
+  return confirm("Discard the label being made?");
+}
+function startLetters(){
+  if(!BOUNDARY||!guardDraft()) return;
+  newDraft({role:"letter",letter:nextLetter(),form:""});
+  render();
+}
+function nextLetter(){
+  var marked={};
+  labels.forEach(function(l){ if(roleOf(l)==="letter"&&l.letter) marked[l.letter]=1; });
+  for(var i=0;i<BOUNDARY.letters.length;i++) if(!marked[BOUNDARY.letters[i]]) return BOUNDARY.letters[i];
+  return BOUNDARY.letters[0];
+}
+function beginPair(i){
+  walkIndex=i;
+  var p=BOUNDARY.pairs[i];
+  newDraft({role:"boundary",from:p.from,to:p.to,n:p.n,form:p.from+"–"+p.to});
+  render();
+}
+function startWalk(){
+  if(!BOUNDARY||!guardDraft()) return;
+  var i=firstUndonePair();
+  if(i<0){ setStatus("Every stretch of the boundary is drawn or skipped. Press Save to download the file."); render(); return; }
+  beginPair(i);
+}
+function skipPair(){
+  if(!cur||roleOf(cur)!=="boundary") return;
+  var p=BOUNDARY.pairs[walkIndex>=0?walkIndex:BOUNDARY.pairs.length-1];
+  var lb=normLabel({id:cur.id||nextFree(),role:"boundary",from:cur.from,to:cur.to,n:cur.n,
+    form:cur.from+"–"+cur.to,skipped:true,trace:null,point:null,note:cur.note||null});
+  labels.push(lb); persist();
+  cur=null; isDraft=false; step=null; resetTmp();
+  advanceWalk();
+}
+function advanceWalk(){
+  var i=firstUndonePair();
+  if(i<0){ walkIndex=-1; render(); setStatus("The boundary walk is done. Press Save to download the file."); return; }
+  beginPair(i);
+}
+function redoPair(i){
+  if(!BOUNDARY||!guardDraft()) return;
+  var p=BOUNDARY.pairs[i];
+  labels=labels.filter(function(l){return !(roleOf(l)==="boundary"&&l.n===p.n);});
+  beginPair(i);
 }
 function chooseShows(code){
   if(!cur||step!=="shows") return;
-  cur.shows=code;
+  cur.shows=code; cur.showsTouched=true; cur.autoShows=false;
   if(isDraft){ finishDraft(); }
   else { step=null; persist(); render(); }
 }
 function setPoint(p){
   cur.point=p;
-  if(isDraft){ step="trace"; resetTmp(); } else { step=null; persist(); }
+  if(isDraft){
+    if(cur.role==="letter"){ finishDraft(); return; }
+    step="trace"; resetTmp();
+  } else { step=null; persist(); }
   render();
 }
 function endTrace(){
@@ -497,14 +707,20 @@ function endTrace(){
   cur.trace=tmp.map(function(p){return [p[0],p[1]];});
   var br=tmpBreaks.filter(function(i){return i>0&&i<tmp.length;});
   if(br.length) cur.breaks=br; else delete cur.breaks;
+  delete cur.skipped;
   resetTmp();
-  if(isDraft){ step="shows"; } else { step=null; persist(); }
+  if(isDraft){
+    if(cur.role==="boundary"){ finishDraft(); return; }
+    step="shows";
+  } else { step=null; persist(); }
   render();
+  if(isDraft && cur && cur.autoShows){ var ff=$("f-form"); if(ff){ ff.focus(); } }
 }
 function skipTrace(){
   cur.trace=null; delete cur.breaks; resetTmp();
   if(isDraft){ step="shows"; } else { step=null; persist(); }
   render();
+  if(isDraft && cur && cur.autoShows){ var ff=$("f-form"); if(ff){ ff.focus(); } }
 }
 function cancelStep(){
   if(!cur) return;
@@ -514,6 +730,8 @@ function cancelStep(){
 }
 function act(a){
   if(a==="cancel") cancelStep();
+  else if(a==="saveauto"){ if(cur&&cur.autoShows) finishDraft(); }
+  else if(a==="skippair") skipPair();
   else if(a==="goto") goTo(cur);
   else if(a==="redopoint"){step="point";render();}
   else if(a==="redotrace"){step="trace";resetTmp();render();}
@@ -585,7 +803,11 @@ viewer.addHandler("canvas-double-click",function(e){
 
 document.addEventListener("keydown",function(e){
   var t=e.target, tag=t&&t.tagName;
-  if(tag==="INPUT"||tag==="TEXTAREA"||tag==="SELECT") return;
+  if(tag==="INPUT"||tag==="TEXTAREA"||tag==="SELECT"){
+    // Enter in the form field saves the label whose type the gazetteer filled in
+    if(e.key==="Enter" && cur && step==="shows" && cur.autoShows && t.id==="f-form"){}
+    else return;
+  }
   if(e.ctrlKey||e.metaKey||e.altKey) return;
   var k=e.key, lk=k.length===1?k.toLowerCase():k;
   if(k===","){rotateBy(-90);return;}
@@ -596,7 +818,8 @@ document.addEventListener("keydown",function(e){
     cur.height=Math.max(10,(cur.height||80)+(k==="]"?20:-20));
     if(!isDraft)persist(); setStatus(stepText()); draw(); return;
   }
-  if(step==="point"&&lk==="n"){setPoint(null);return;}
+  if(step==="point"&&lk==="n"&&cur.role!=="letter"){setPoint(null);return;}
+  if(step==="point"&&cur.role==="letter"&&lk==="s"){cancelStep();return;}
   if(step==="trace"){
     if(k==="Enter"){e.preventDefault();endTrace();return;}
     if(k==="Backspace"){
@@ -608,13 +831,14 @@ document.addEventListener("keydown",function(e){
       }
       draw(); setStatus(stepText()+traceInfo()); return;
     }
-    if(lk==="l"){
+    if(lk==="l"&&cur.role!=="boundary"){
       if(tmp.length){ pendingBreak=true; setStatus(stepText()+traceInfo()); }
       return;
     }
-    if(lk==="s"){skipTrace();return;}
+    if(lk==="s"){ if(cur.role==="boundary"){ skipPair(); } else { skipTrace(); } return; }
   }
   if(step==="shows"){
+    if(k==="Enter" && cur.autoShows){ e.preventDefault(); finishDraft(); return; }
     for(var i=0;i<SHOWS.length;i++) if(SHOWS[i][0]===lk){chooseShows(SHOWS[i][1]);return;}
   }
 });
@@ -624,6 +848,8 @@ function rotateBy(d){ viewer.viewport.setRotation(viewer.viewport.getRotation()+
 document.addEventListener("click",function(e){ if(e.target.tagName==="BUTTON") e.target.blur(); });
 $("b-turn").onclick=function(){rotateBy(180);};
 $("b-new").onclick=startNew;
+$("b-letters").onclick=startLetters;
+$("b-walk").onclick=startWalk;
 function stamp(){
   var d=new Date(),p=function(n){return (n<10?"0":"")+n;};
   return d.getFullYear()+p(d.getMonth()+1)+p(d.getDate())+"-"+p(d.getHours())+p(d.getMinutes());
@@ -667,10 +893,15 @@ function afterLoad(){
   var dl=$("placelist");
   DATA.places.forEach(function(p){
     headingOf[p.slug]=p.heading;
+    kindOf[p.slug]=p.kind;
     var add=function(s){ if(!(s in placeMap)){placeMap[s]=p.slug; var o=document.createElement("option"); o.value=s; dl.appendChild(o);} };
     add(p.heading);
     p.forms.forEach(function(f){ if(f!==p.heading) add(f+" → "+p.heading); });
   });
+  if(BOUNDARY){
+    var ll=$("letterlist");
+    BOUNDARY.letters.forEach(function(L){ var o=document.createElement("option"); o.value=L; ll.appendChild(o); });
+  }
   loadInitial();
   sizeCanvas();
   afterLoad();

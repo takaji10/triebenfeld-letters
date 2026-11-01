@@ -1,0 +1,61 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: pelzucki1896
+mapwarper: 104898
+fetched: '2026-10-31'
+mapwarper_title: Łazińskie Holendry ca. 1896
+source_uri: ''
+bbox: 17.8947514,52.084742,17.9391463,52.1117291
+mapwarper_image: J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Łazińskie Holendry (Muzeum Narodowe Rolnictwa w Szreniawie)/AN-4456/4456-4.jpg
+mapwarper_fit:
+- 1.0025
+- 7033
+- 6910
+width: 21715
+height: 14206
+gcps:
+- id: mw925967
+  x: 12202.01
+  y: 9079.88
+  lon: 17.9232689731
+  lat: 52.1038033698
+  error_mapwarper: 10.4
+  from: mapwarper
+- id: mw925968
+  x: 11335.14
+  y: 13414.24
+  lon: 17.9219546907
+  lat: 52.0895139542
+  error_mapwarper: 2.9
+  from: mapwarper
+- id: mw925969
+  x: 8175.65
+  y: 9294.48
+  lon: 17.9024443023
+  lat: 52.1013419357
+  error_mapwarper: 2.8
+  from: mapwarper
+- id: mw925971
+  x: 11348.26
+  y: 7886.49
+  lon: 17.9180118435
+  lat: 52.1072003871
+  error_mapwarper: 10.2
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 4
+  rms_m: 2.71
+  inverse_rms_px: 7.6
+  residuals_m:
+    mw925967: 3.72
+    mw925968: 1.06
+    mw925969: 1.01
+    mw925971: 3.67

@@ -12,10 +12,7 @@ location:
   precision: identified
   lat: 52.073174
   lon: 17.86959
-text_en: Village south of Stawisko. Mentioned as the location of the corner mounds
-  between the estates of Trąbczyn, Łukom, and Biskupice in a 1775 border commission
-  report detailing a dispute between the owners of the Trąbczyn and Łukom estates.[^69]
-  *Studzienka* (Łukom 1766).
+text_en: Village south of Stawisko. Mentioned as the location of the corner mounds between the estates of Trąbczyn, Łukom, and Biskupice in a 1775 border commission report detailing a dispute between the owners of the Trąbczyn and Łukom estates.[^69] *Studzienka* (Łukom 1766).
 names:
 - form: Studzianka
   year: null
@@ -27,6 +24,10 @@ maps:
   form: Studzienka
   note: null
   label: lukom1766-021
+- map: pelzucki1896
+  form: Studzianka
+  note: null
+  label: pelzucki1896-006
 footnotes:
 - n: 69
   text: “Relationes-oblatae [protocollon],” 1776, 693

@@ -1,0 +1,93 @@
+# The editor's marks on the map pelzucki1896, from the labelling page, imported from
+# labels_pelzucki1896_20261031-2053.json on 2026-10-31 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: pelzucki1896
+width: 21715
+height: 14206
+saved: '2026-10-31T19:53:27.838Z'
+labels:
+- id: pelzucki1896-002
+  place: glinianki
+  new_place: null
+  form: Glinianki
+  point: [9416, 4596]
+  trace:
+  - [9373, 4492]
+  - [9842, 4486]
+  height: 120
+  shows: village
+  note: null
+  refs: null
+- id: pelzucki1896-004
+  place: dziadolina
+  new_place: null
+  form: Dziadolina
+  point: [3791, 7739]
+  trace:
+  - [3548, 7670]
+  - [4085, 7674]
+  height: 120
+  shows: forest
+  note: null
+  refs: null
+- id: pelzucki1896-006
+  place: studzianka
+  new_place: null
+  form: Studzianka
+  point: [3704, 10034]
+  trace:
+  - [3360, 9999]
+  - [4024, 9999]
+  height: 120
+  shows: village
+  note: null
+  refs: null
+- id: pelzucki1896-008
+  place: null
+  new_place: Wypalanki
+  form: Выпалѣнки
+  point: [9934, 13576]
+  trace:
+  - [9603, 13548]
+  - [10338, 13548]
+  height: 120
+  shows: forest
+  note: null
+  refs: null
+- id: pelzucki1896-010
+  place: trabczynskie-nowe-oledry
+  new_place: null
+  form: Новые Голендры
+  point: [17580, 11195]
+  trace:
+  - [17208, 11125]
+  - [18087, 11116]
+  height: 140
+  shows: oleder-settlement
+  note: null
+  refs: null
+- id: pelzucki1896-012
+  place: noga
+  new_place: null
+  form: Noga
+  point: [12508, 9820]
+  trace:
+  - [12272, 9930]
+  - [12604, 9927]
+  height: 100
+  shows: forest
+  note: null
+  refs: null
+- id: pelzucki1896-014
+  place: grabina
+  new_place: null
+  form: Grabina
+  point: [10619, 6343]
+  trace:
+  - [10290, 6213]
+  - [10724, 6207]
+  height: 120
+  shows: village
+  note: null
+  refs: null

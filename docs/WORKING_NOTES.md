@@ -1679,6 +1679,34 @@ cloud branches").
 
 ## Traps in the tools
 
+- **Automating a step of the labelling page must not take the editor's
+  typing moment with it** (2026-10-31, the type filled from the
+  gazetteer). The first take saved the label the instant the trace ended
+  when the type came from the gazetteer — one step fewer, as asked — but
+  the "form as written on the map" was typed at the pause before saving,
+  and the pause was gone: "I need to be able to still add 'Form as
+  written on the map'". The settled shape: the last step remains, but
+  with the type shown as filled in and the form field focused — Enter
+  saves, a type key overrides. The rule: when a step's *decision* is
+  automated, keep the step's *fields*; a form the editor types is never
+  skipped past, only prefilled.
+- **Correlation matchers: prove them on a self-match first** (2026-10-31,
+  the mosaic fit of Pełzucki 1896, scratch/map4456/). Finding one image
+  inside another by FFT patch correlation ran three takes before it worked,
+  and every take "found" confident matches that were noise: (1) the
+  denominator normalised by the window's standard deviation without
+  subtracting the window's own mean gave scores ~0.007 everywhere (the
+  peak still sits right, the score is meaningless — never threshold on
+  such scores); (2) the local sums `sum(I)` and `sum(I²)` were taken as a
+  plain convolution (`fs*f1`) where a correlation (`fs*conj(f1)`) was
+  wanted, so the normalisation was computed at the wrong offset; (3)
+  numpy's `rfft2(s=...)` pads to `s` but `irfft2(s=...)` interprets `s`
+  as the *output* length, so mixing them broadcasts garbage — plain
+  `fft2`/`ifft2` with one shared padded size `s=(H+h-1, W+w-1)` avoids the
+  whole class. The rule: before believing any "match", run the matcher on
+  a patch cut from the search image itself; it must return ~1.0 at the
+  patch's own position. A score below ~0.9 on a self-match means the
+  formula is wrong, not that the images do not match.
 - **A redirect stub's permalink keeps its trailing slash** (2026-10-27, the
   cemeteries' move under Places). A stub written with
   `permalink: "/cemeteries"` (no slash) renders to `cemeteries.html`, a
@@ -3014,6 +3042,19 @@ a gutter column from 64rem with a toggle in the viewbar. Lessons:
   the end); the repo's files are LF (`newline='\n'` everywhere). Appending
   to a text file here goes through Python, and afterwards check
   `data.count(b'\r\n') == 0`.
+- **A session branch cut from an in-progress branch carries that branch's
+  unpublished work.** `related-callouts` was cut from `pelzucki1896`, so
+  "merge into main and push" would have published the Pełzucki map work
+  too (marked in progress, a second session still working on it). Before
+  publishing: `git log --oneline main..branch` and read what is actually
+  in the delta, not what the session worked on. If the delta carries
+  another piece of work, cherry-pick the session's own commits onto main
+  in a worktree (this working copy stays where it is, the other session's
+  uncommitted files untouched), verify the build on the cherry-picked main
+  before pushing, and say in the paperwork that the publish was by
+  cherry-pick — a later whole-branch merge is then a content-noop for
+  these files. The editor decides what goes live (asked, 2026-11-01: only
+  the session's own commits).
 - **The verify gate's link count fell with the rework** (326 pairs before,
   302 after): the count is the number of (document, link, passage) pairs
   actually rendered, and the per-passage document subsets mean fewer pairs,

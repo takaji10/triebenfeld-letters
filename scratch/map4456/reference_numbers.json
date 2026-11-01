@@ -1,0 +1,3105 @@
+{
+ "statement": {
+  "1": {
+   "name": "Konchinskii Iakov",
+   "buildings": {
+    "des": 0,
+    "saz": 162
+   },
+   "arable": {
+    "des": 6,
+    "saz": 703
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 904
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 279
+   },
+   "total": {
+    "des": 10,
+    "saz": 2048
+   }
+  },
+  "2": {
+   "name": "Gebel Martin",
+   "buildings": {
+    "des": 0,
+    "saz": 558
+   },
+   "arable": {
+    "des": 7,
+    "saz": 984
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 910
+   },
+   "pasture": {
+    "des": 6,
+    "saz": 216
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 574
+   },
+   "total": {
+    "des": 16,
+    "saz": 844
+   }
+  },
+  "3": {
+   "name": "Merts Karl",
+   "buildings": {
+    "des": 1,
+    "saz": 232
+   },
+   "arable": {
+    "des": 14,
+    "saz": 51
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 474
+   },
+   "pasture": {
+    "des": 9,
+    "saz": 166
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1079
+   },
+   "total": {
+    "des": 27,
+    "saz": 2002
+   }
+  },
+  "4": {
+   "name": "Kholm Daniil",
+   "buildings": {
+    "des": 0,
+    "saz": 1588
+   },
+   "arable": {
+    "des": 13,
+    "saz": 1261
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 1888
+   },
+   "pasture": {
+    "des": 6,
+    "saz": 449
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 770
+   },
+   "total": {
+    "des": 22,
+    "saz": 1156
+   }
+  },
+  "5": {
+   "name": "Merts Gotlib",
+   "buildings": {
+    "des": 0,
+    "saz": 542
+   },
+   "arable": {
+    "des": 3,
+    "saz": 81
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1498
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 386
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 280
+   },
+   "total": {
+    "des": 6,
+    "saz": 187
+   }
+  },
+  "6": {
+   "name": "Girsh Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 414
+   },
+   "arable": {
+    "des": 6,
+    "saz": 183
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 100
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 710
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 301
+   },
+   "total": {
+    "des": 11,
+    "saz": 1708
+   }
+  },
+  "7": {
+   "name": "Kinast Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 459
+   },
+   "arable": {
+    "des": 4,
+    "saz": 1916
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 1613
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 778
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 315
+   },
+   "total": {
+    "des": 10,
+    "saz": 281
+   }
+  },
+  "8": {
+   "name": "Strzhizhikovskii Frants",
+   "buildings": {
+    "des": 0,
+    "saz": 170
+   },
+   "arable": {
+    "des": 2,
+    "saz": 14
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 538
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 274
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 89
+   },
+   "total": {
+    "des": 7,
+    "saz": 1085
+   }
+  },
+  "9": {
+   "name": "Sanikovskii Martin",
+   "buildings": {
+    "des": 0,
+    "saz": 144
+   },
+   "arable": {
+    "des": 5,
+    "saz": 2284
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1954
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1918
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 128
+   },
+   "total": {
+    "des": 11,
+    "saz": 1628
+   }
+  },
+  "10": {
+   "name": "Marek Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 686
+   },
+   "arable": {
+    "des": 9,
+    "saz": 1005
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 28
+   },
+   "pasture": {
+    "des": 6,
+    "saz": 444
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 797
+   },
+   "total": {
+    "des": 19,
+    "saz": 560
+   }
+  },
+  "11": {
+   "name": "Grunvald Kristof",
+   "buildings": {
+    "des": 0,
+    "saz": 864
+   },
+   "arable": {
+    "des": 8,
+    "saz": 1663
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1120
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 248
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 454
+   },
+   "total": {
+    "des": 14,
+    "saz": 1949
+   }
+  },
+  "12": {
+   "name": "[uncertain: Slivinskii] Gotlib",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 2,
+    "saz": 628
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 1255
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 26
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 419
+   },
+   "total": {
+    "des": 8,
+    "saz": 2328
+   }
+  },
+  "13": {
+   "name": "Shteinbord Iulian",
+   "buildings": {
+    "des": 0,
+    "saz": 594
+   },
+   "arable": {
+    "des": 5,
+    "saz": 2144
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 2104
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 2058
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 393
+   },
+   "total": {
+    "des": 11,
+    "saz": 103
+   }
+  },
+  "14": {
+   "name": "Kholm Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 360
+   },
+   "arable": {
+    "des": 4,
+    "saz": 1305
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 1478
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 1199
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 653
+   },
+   "total": {
+    "des": 11,
+    "saz": 195
+   }
+  },
+  "15": {
+   "name": "Falk Avgust",
+   "buildings": {
+    "des": 0,
+    "saz": 297
+   },
+   "arable": {
+    "des": 2,
+    "saz": 960
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 31
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 26
+   },
+   "total": {
+    "des": 4,
+    "saz": 1314
+   }
+  },
+  "16": {
+   "name": "Merts Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 1134
+   },
+   "arable": {
+    "des": 8,
+    "saz": 1799
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 1936
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 447
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 457
+   },
+   "total": {
+    "des": 15,
+    "saz": 973
+   }
+  },
+  "17": {
+   "name": "Merts Martin",
+   "buildings": {
+    "des": 0,
+    "saz": 360
+   },
+   "arable": {
+    "des": 3,
+    "saz": 873
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 237
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1735
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 302
+   },
+   "total": {
+    "des": 6,
+    "saz": 1107
+   }
+  },
+  "18": {
+   "name": "Sanikovskii Osip",
+   "buildings": {
+    "des": 0,
+    "saz": 594
+   },
+   "arable": {
+    "des": 7,
+    "saz": 872
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 2168
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 1918
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 551
+   },
+   "total": {
+    "des": 15,
+    "saz": 1303
+   }
+  },
+  "19": {
+   "name": "Stirtsenbeker Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 276
+   },
+   "arable": {
+    "des": 5,
+    "saz": 993
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 556
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 599
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1514
+   },
+   "total": {
+    "des": 9,
+    "saz": 1538
+   }
+  },
+  "20": {
+   "name": "Sanikovskii Ian",
+   "buildings": {
+    "des": 0,
+    "saz": 324
+   },
+   "arable": {
+    "des": 8,
+    "saz": 975
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 354
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1601
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 748
+   },
+   "total": {
+    "des": 14,
+    "saz": 1602
+   }
+  },
+  "21": {
+   "name": "heirs of Goske Karla",
+   "buildings": {
+    "des": 0,
+    "saz": 1032
+   },
+   "arable": {
+    "des": 8,
+    "saz": 1596
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 384
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1121
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 219
+   },
+   "total": {
+    "des": 14,
+    "saz": 1952
+   }
+  },
+  "22": {
+   "name": "Bludzinskii Ivan",
+   "buildings": {
+    "des": 0,
+    "saz": 324
+   },
+   "arable": {
+    "des": 4,
+    "saz": 208
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 120
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 2026
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 368
+   },
+   "total": {
+    "des": 7,
+    "saz": 646
+   }
+  },
+  "23": {
+   "name": "Shmigelskii Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 1493
+   },
+   "arable": {
+    "des": 17,
+    "saz": 1435
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 1610
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1849
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1687
+   },
+   "total": {
+    "des": 27,
+    "saz": 874
+   }
+  },
+  "24": {
+   "name": "heirs of Rogatskago Petra",
+   "buildings": {
+    "des": 0,
+    "saz": 281
+   },
+   "arable": {
+    "des": 9,
+    "saz": 114
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 1123
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 800
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 974
+   },
+   "total": {
+    "des": 17,
+    "saz": 892
+   }
+  },
+  "25": {
+   "name": "[uncertain: Promins] Shchepan",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 5,
+    "saz": 1509
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 149
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 397
+   },
+   "total": {
+    "des": 8,
+    "saz": 2055
+   }
+  },
+  "26": {
+   "name": "Runga Voitsekh",
+   "buildings": {
+    "des": 0,
+    "saz": 1223
+   },
+   "arable": {
+    "des": 12,
+    "saz": 1674
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 893
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 429
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 982
+   },
+   "total": {
+    "des": 21,
+    "saz": 401
+   }
+  },
+  "27": {
+   "name": "heirs of Runga Gotfrida",
+   "buildings": {
+    "des": 0,
+    "saz": 234
+   },
+   "arable": {
+    "des": 6,
+    "saz": 1972
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 756
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 839
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 358
+   },
+   "total": {
+    "des": 11,
+    "saz": 1759
+   }
+  },
+  "28": {
+   "name": "Falkenberg Martin",
+   "buildings": {
+    "des": 0,
+    "saz": 882
+   },
+   "arable": {
+    "des": 15,
+    "saz": 559
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 2322
+   },
+   "pasture": {
+    "des": 6,
+    "saz": 187
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 622
+   },
+   "total": {
+    "des": 22,
+    "saz": 2172
+   }
+  },
+  "29": {
+   "name": "Goska Osip",
+   "buildings": {
+    "des": 0,
+    "saz": 618
+   },
+   "arable": {
+    "des": 6,
+    "saz": 120
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1457
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1393
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 212
+   },
+   "total": {
+    "des": 11,
+    "saz": 1400
+   }
+  },
+  "30": {
+   "name": "Shults Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 605
+   },
+   "arable": {
+    "des": 3,
+    "saz": 677
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 690
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 362
+   },
+   "total": {
+    "des": 5,
+    "saz": 2334
+   }
+  },
+  "31": {
+   "name": "Knafkus Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 162
+   },
+   "arable": {
+    "des": 0,
+    "saz": 1368
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2280
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 83
+   },
+   "total": {
+    "des": 2,
+    "saz": 1493
+   }
+  },
+  "32": {
+   "name": "heirs of Rungi Voitsekha",
+   "buildings": {
+    "des": 0,
+    "saz": 72
+   },
+   "arable": {
+    "des": 1,
+    "saz": 1969
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1962
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 1812
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 233
+   },
+   "total": {
+    "des": 4,
+    "saz": 1248
+   }
+  },
+  "33": {
+   "name": "heirs of Rungi Gotfrida",
+   "buildings": {
+    "des": 0,
+    "saz": 522
+   },
+   "arable": {
+    "des": 9,
+    "saz": 910
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 953
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 2039
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 942
+   },
+   "total": {
+    "des": 15,
+    "saz": 566
+   }
+  },
+  "34": {
+   "name": "Runge Martin",
+   "buildings": {
+    "des": 0,
+    "saz": 128
+   },
+   "arable": {
+    "des": 0,
+    "saz": 2132
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 647
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 107
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 107
+   },
+   "total": {
+    "des": 3,
+    "saz": 721
+   }
+  },
+  "35": {
+   "name": "Kitke Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 235
+   },
+   "arable": {
+    "des": 2,
+    "saz": 1454
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1473
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 98
+   },
+   "total": {
+    "des": 5,
+    "saz": 860
+   }
+  },
+  "36": {
+   "name": "Fridenberg Kristof",
+   "buildings": {
+    "des": 0,
+    "saz": 429
+   },
+   "arable": {
+    "des": 6,
+    "saz": 1383
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1446
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 255
+   },
+   "total": {
+    "des": 11,
+    "saz": 1113
+   }
+  },
+  "37": {
+   "name": "Tselmer Gotfrid",
+   "buildings": {
+    "des": 0,
+    "saz": 624
+   },
+   "arable": {
+    "des": 9,
+    "saz": 1474
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 2120
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 1344
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 395
+   },
+   "total": {
+    "des": 15,
+    "saz": 1157
+   }
+  },
+  "38": {
+   "name": "Malinovskii Petr",
+   "buildings": {
+    "des": 0,
+    "saz": 288
+   },
+   "arable": {
+    "des": 2,
+    "saz": 312
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1460
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 412
+   },
+   "total": {
+    "des": 5,
+    "saz": 78
+   }
+  },
+  "39": {
+   "name": "Khaupt Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 288
+   },
+   "arable": {
+    "des": 5,
+    "saz": 948
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1285
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1535
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 582
+   },
+   "total": {
+    "des": 8,
+    "saz": 2238
+   }
+  },
+  "40": {
+   "name": "Shvebs Karl Veniiamin",
+   "buildings": {
+    "des": 0,
+    "saz": 144
+   },
+   "arable": {
+    "des": 1,
+    "saz": 191
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 902
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 1776
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 163
+   },
+   "total": {
+    "des": 4,
+    "saz": 776
+   }
+  },
+  "41": {
+   "name": "Shtirtsenbeker Karl",
+   "buildings": {
+    "des": 0,
+    "saz": 108
+   },
+   "arable": {
+    "des": 3,
+    "saz": 1191
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 820
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 166
+   },
+   "total": {
+    "des": 5,
+    "saz": 2285
+   }
+  },
+  "42": {
+   "name": "heirs of Betke Kristiiana",
+   "buildings": {
+    "des": 0,
+    "saz": 234
+   },
+   "arable": {
+    "des": 4,
+    "saz": 399
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2258
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 192
+   },
+   "total": {
+    "des": 6,
+    "saz": 683
+   }
+  },
+  "43": {
+   "name": "Kinast Mateush",
+   "buildings": {
+    "des": 0,
+    "saz": 50
+   },
+   "arable": {
+    "des": 1,
+    "saz": 1894
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2021
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 96
+   },
+   "total": {
+    "des": 3,
+    "saz": 1661
+   }
+  },
+  "44": {
+   "name": "Rash Friderik",
+   "buildings": {
+    "des": 0,
+    "saz": 1377
+   },
+   "arable": {
+    "des": 18,
+    "saz": 2217
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 681
+   },
+   "pasture": {
+    "des": 6,
+    "saz": 410
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 781
+   },
+   "total": {
+    "des": 28,
+    "saz": 666
+   }
+  },
+  "45": {
+   "name": "Bandzert Emanuil",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 0,
+    "saz": 665
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 216
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2313
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 226
+   },
+   "total": {
+    "des": 4,
+    "saz": 1020
+   }
+  },
+  "46": {
+   "name": "Kun Gotfrid",
+   "buildings": {
+    "des": 0,
+    "saz": 1242
+   },
+   "arable": {
+    "des": 10,
+    "saz": 2068
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 1634
+   },
+   "pasture": {
+    "des": 7,
+    "saz": 1591
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 474
+   },
+   "total": {
+    "des": 20,
+    "saz": 2209
+   }
+  },
+  "47": {
+   "name": "Zeer Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 1026
+   },
+   "arable": {
+    "des": 14,
+    "saz": 2254
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 720
+   },
+   "pasture": {
+    "des": 10,
+    "saz": 1580
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1142
+   },
+   "total": {
+    "des": 26,
+    "saz": 1922
+   }
+  },
+  "48": {
+   "name": "Bandzert Morits",
+   "buildings": {
+    "des": 0,
+    "saz": 540
+   },
+   "arable": {
+    "des": 8,
+    "saz": 1496
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 710
+   },
+   "pasture": {
+    "des": 7,
+    "saz": 1444
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 775
+   },
+   "total": {
+    "des": 20,
+    "saz": 165
+   }
+  },
+  "49": {
+   "name": "Merts Avgust",
+   "buildings": {
+    "des": 0,
+    "saz": 636
+   },
+   "arable": {
+    "des": 11,
+    "saz": 662
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 359
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 937
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 715
+   },
+   "total": {
+    "des": 18,
+    "saz": 909
+   }
+  },
+  "50": {
+   "name": "Tselmer Genrikh",
+   "buildings": {
+    "des": 0,
+    "saz": 1029
+   },
+   "arable": {
+    "des": 12,
+    "saz": 1199
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 2164
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 2110
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1114
+   },
+   "total": {
+    "des": 20,
+    "saz": 416
+   }
+  },
+  "51": {
+   "name": "Gebel Karl",
+   "buildings": {
+    "des": 0,
+    "saz": 360
+   },
+   "arable": {
+    "des": 5,
+    "saz": 592
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 846
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 1766
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 403
+   },
+   "total": {
+    "des": 9,
+    "saz": 1567
+   }
+  },
+  "52": {
+   "name": "Shmigelskii Samuil",
+   "buildings": {
+    "des": 0,
+    "saz": 802
+   },
+   "arable": {
+    "des": 4,
+    "saz": 1918
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1898
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 979
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 328
+   },
+   "total": {
+    "des": 9,
+    "saz": 1125
+   }
+  },
+  "53": {
+   "name": "heirs of Tselmera Daniila",
+   "buildings": {
+    "des": 0,
+    "saz": 497
+   },
+   "arable": {
+    "des": 4,
+    "saz": 634
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 418
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 339
+   },
+   "total": {
+    "des": 8,
+    "saz": 1888
+   }
+  },
+  "54": {
+   "name": "Bitner Andrei",
+   "buildings": {
+    "des": 0,
+    "saz": 342
+   },
+   "arable": {
+    "des": 11,
+    "saz": 58
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 1517
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1958
+   },
+   "total": {
+    "des": 17,
+    "saz": 1475
+   }
+  },
+  "55": {
+   "name": "Rytamer Anton",
+   "buildings": {
+    "des": 0,
+    "saz": 368
+   },
+   "arable": {
+    "des": 5,
+    "saz": 1456
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 2232
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 456
+   },
+   "total": {
+    "des": 8,
+    "saz": 2112
+   }
+  },
+  "56": {
+   "name": "Przhistanskii Anton",
+   "buildings": {
+    "des": 0,
+    "saz": 144
+   },
+   "arable": {
+    "des": 1,
+    "saz": 1935
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1658
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 371
+   },
+   "total": {
+    "des": 4,
+    "saz": 1708
+   }
+  },
+  "57": {
+   "name": "Bartel Karl Liudvik",
+   "buildings": {
+    "des": 0,
+    "saz": 216
+   },
+   "arable": {
+    "des": 2,
+    "saz": 254
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 672
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 419
+   },
+   "total": {
+    "des": 5,
+    "saz": 1561
+   }
+  },
+  "58": {
+   "name": "Goske Voitsekh",
+   "buildings": {
+    "des": 0,
+    "saz": 486
+   },
+   "arable": {
+    "des": 5,
+    "saz": 1361
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1890
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 987
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 382
+   },
+   "total": {
+    "des": 10,
+    "saz": 306
+   }
+  },
+  "59": {
+   "name": "Gints Liudvik",
+   "buildings": {
+    "des": 0,
+    "saz": 486
+   },
+   "arable": {
+    "des": 4,
+    "saz": 829
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 1888
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 428
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 625
+   },
+   "total": {
+    "des": 11,
+    "saz": 1856
+   }
+  },
+  "60": {
+   "name": "Shtark Daniil",
+   "buildings": {
+    "des": 0,
+    "saz": 264
+   },
+   "arable": {
+    "des": 2,
+    "saz": 686
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 972
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1110
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 362
+   },
+   "total": {
+    "des": 6,
+    "saz": 994
+   }
+  },
+  "61": {
+   "name": "Kinast Voitsekh",
+   "buildings": {
+    "des": 0,
+    "saz": 540
+   },
+   "arable": {
+    "des": 17,
+    "saz": 522
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 516
+   },
+   "pasture": {
+    "des": 7,
+    "saz": 432
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 817
+   },
+   "total": {
+    "des": 28,
+    "saz": 427
+   }
+  },
+  "62": {
+   "name": "Kusman Gotlib",
+   "buildings": {
+    "des": 0,
+    "saz": 120
+   },
+   "arable": {
+    "des": 0,
+    "saz": 2030
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2399
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 86
+   },
+   "total": {
+    "des": 2,
+    "saz": 2235
+   }
+  },
+  "63": {
+   "name": "heirs of Kinasta Voitsekha",
+   "buildings": {
+    "des": 0,
+    "saz": 240
+   },
+   "arable": {
+    "des": 6,
+    "saz": 2192
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 576
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1261
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 823
+   },
+   "total": {
+    "des": 13,
+    "saz": 292
+   }
+  },
+  "64": {
+   "name": "Gerke Gotfrid",
+   "buildings": {
+    "des": 0,
+    "saz": 154
+   },
+   "arable": {
+    "des": 2,
+    "saz": 1739
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 902
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 266
+   },
+   "total": {
+    "des": 5,
+    "saz": 661
+   }
+  },
+  "65": {
+   "name": "Tselmer Mikhail",
+   "buildings": {
+    "des": 0,
+    "saz": 264
+   },
+   "arable": {
+    "des": 13,
+    "saz": 146
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 948
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 1509
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 945
+   },
+   "total": {
+    "des": 20,
+    "saz": 1412
+   }
+  },
+  "66": {
+   "name": "Shtark Avgust",
+   "buildings": {
+    "des": 0,
+    "saz": 300
+   },
+   "arable": {
+    "des": 6,
+    "saz": 661
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 564
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 2169
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 673
+   },
+   "total": {
+    "des": 12,
+    "saz": 1967
+   }
+  },
+  "67": {
+   "name": "Tselmer Avgust",
+   "buildings": {
+    "des": 0,
+    "saz": 636
+   },
+   "arable": {
+    "des": 5,
+    "saz": 2216
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 1636
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 781
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1059
+   },
+   "total": {
+    "des": 13,
+    "saz": 1528
+   }
+  },
+  "68": {
+   "name": "Lipelt Martin",
+   "buildings": {
+    "des": 0,
+    "saz": 144
+   },
+   "arable": {
+    "des": 3,
+    "saz": 1272
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 1712
+   },
+   "pasture": {
+    "des": 4,
+    "saz": 87
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 766
+   },
+   "total": {
+    "des": 9,
+    "saz": 1581
+   }
+  },
+  "69": {
+   "name": "Gotter Avgust",
+   "buildings": {
+    "des": 0,
+    "saz": 240
+   },
+   "arable": {
+    "des": 5,
+    "saz": 1840
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 1484
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 30
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 777
+   },
+   "total": {
+    "des": 11,
+    "saz": 1971
+   }
+  },
+  "70": {
+   "name": "Morits Gotfrid",
+   "buildings": {
+    "des": 0,
+    "saz": 1416
+   },
+   "arable": {
+    "des": 17,
+    "saz": 498
+   },
+   "meadow": {
+    "des": 6,
+    "saz": 780
+   },
+   "pasture": {
+    "des": 5,
+    "saz": 1259
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 2285
+   },
+   "total": {
+    "des": 30,
+    "saz": 1438
+   }
+  },
+  "71": {
+   "name": "Obst Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 2,
+    "saz": 1521
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 135
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 664
+   },
+   "total": {
+    "des": 4,
+    "saz": 2320
+   }
+  },
+  "72": {
+   "name": "Reikh Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 216
+   },
+   "arable": {
+    "des": 8,
+    "saz": 1239
+   },
+   "meadow": {
+    "des": 3,
+    "saz": 726
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 2030
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1544
+   },
+   "total": {
+    "des": 16,
+    "saz": 955
+   }
+  },
+  "73": {
+   "name": "Shvebs Ivan",
+   "buildings": {
+    "des": 0,
+    "saz": 648
+   },
+   "arable": {
+    "des": 4,
+    "saz": 1679
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 672
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 864
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 567
+   },
+   "total": {
+    "des": 8,
+    "saz": 2030
+   }
+  },
+  "74": {
+   "name": "Khaupt Gotlib",
+   "buildings": {
+    "des": 0,
+    "saz": 204
+   },
+   "arable": {
+    "des": 3,
+    "saz": 616
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1566
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 545
+   },
+   "total": {
+    "des": 6,
+    "saz": 531
+   }
+  },
+  "75": {
+   "name": "Khaupt Gotfrid",
+   "buildings": {
+    "des": 0,
+    "saz": 576
+   },
+   "arable": {
+    "des": 8,
+    "saz": 740
+   },
+   "meadow": {
+    "des": 2,
+    "saz": 352
+   },
+   "pasture": {
+    "des": 7,
+    "saz": 341
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 470
+   },
+   "total": {
+    "des": 18,
+    "saz": 79
+   }
+  },
+  "76": {
+   "name": "Khaupt Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 480
+   },
+   "arable": {
+    "des": 5,
+    "saz": 324
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 24
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 432
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 455
+   },
+   "total": {
+    "des": 8,
+    "saz": 1715
+   }
+  },
+  "77": {
+   "name": "Gebel Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 300
+   },
+   "arable": {
+    "des": 5,
+    "saz": 1444
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1232
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 88
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 418
+   },
+   "total": {
+    "des": 8,
+    "saz": 1082
+   }
+  },
+  "78": {
+   "name": "Zelchak Foma",
+   "buildings": {
+    "des": 0,
+    "saz": 240
+   },
+   "arable": {
+    "des": 2,
+    "saz": 1602
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 888
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 392
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 175
+   },
+   "total": {
+    "des": 5,
+    "saz": 897
+   }
+  },
+  "79": {
+   "name": "Shchepinskii Petr",
+   "buildings": {
+    "des": 0,
+    "saz": 289
+   },
+   "arable": {
+    "des": 2,
+    "saz": 936
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1462
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 184
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 140
+   },
+   "total": {
+    "des": 5,
+    "saz": 611
+   }
+  },
+  "80": {
+   "name": "Fogel Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 1,
+    "saz": 217
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 720
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 176
+   },
+   "total": {
+    "des": 3,
+    "saz": 1113
+   }
+  },
+  "81": {
+   "name": "Sheinfish Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 486
+   },
+   "arable": {
+    "des": 15,
+    "saz": 722
+   },
+   "meadow": {
+    "des": 4,
+    "saz": 996
+   },
+   "pasture": {
+    "des": 9,
+    "saz": 1633
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1422
+   },
+   "total": {
+    "des": 30,
+    "saz": 459
+   }
+  },
+  "82": {
+   "name": "Rogatskii Stanislav",
+   "buildings": {
+    "des": 0,
+    "saz": 288
+   },
+   "arable": {
+    "des": 6,
+    "saz": 446
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 1153
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 532
+   },
+   "total": {
+    "des": 10,
+    "saz": 19
+   }
+  },
+  "83": {
+   "name": "Fetter Ivan",
+   "buildings": {
+    "des": 0,
+    "saz": 144
+   },
+   "arable": {
+    "des": 0,
+    "saz": 2076
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 1109
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 165
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 56
+   },
+   "total": {
+    "des": 3,
+    "saz": 1150
+   }
+  },
+  "84": {
+   "name": "heirs of Shtirtsenbekera",
+   "buildings": {
+    "des": 0,
+    "saz": 208
+   },
+   "arable": {
+    "des": 1,
+    "saz": 2108
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 1680
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 88
+   },
+   "total": {
+    "des": 4,
+    "saz": 1684
+   }
+  },
+  "85": {
+   "name": "Kinast Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 0,
+    "saz": 1648
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 814
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 82
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 42
+   },
+   "total": {
+    "des": 3,
+    "saz": 186
+   }
+  },
+  "86": {
+   "name": "Khaupt Gotfrid",
+   "buildings": {
+    "des": 0,
+    "saz": 90
+   },
+   "arable": {
+    "des": 1,
+    "saz": 2071
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 486
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 341
+   },
+   "total": {
+    "des": 4,
+    "saz": 588
+   }
+  },
+  "87": {
+   "name": "Khaupt Vilgelm",
+   "buildings": {
+    "des": 0,
+    "saz": 321
+   },
+   "arable": {
+    "des": 3,
+    "saz": 2021
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 3,
+    "saz": 1980
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 408
+   },
+   "total": {
+    "des": 7,
+    "saz": 2330
+   }
+  },
+  "88": {
+   "name": "German Voitsekh",
+   "buildings": {
+    "des": 0,
+    "saz": 184
+   },
+   "arable": {
+    "des": 0,
+    "saz": 1990
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2371
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 74
+   },
+   "total": {
+    "des": 2,
+    "saz": 2219
+   }
+  },
+  "89": {
+   "name": "heirs of Tarnovskago Mikhaila",
+   "buildings": {
+    "des": 0,
+    "saz": 202
+   },
+   "arable": {
+    "des": 0,
+    "saz": 1836
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2097
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 39
+   },
+   "total": {
+    "des": 2,
+    "saz": 1774
+   }
+  },
+  "90": {
+   "name": "Rogovich Martin",
+   "buildings": {
+    "des": 0,
+    "saz": 107
+   },
+   "arable": {
+    "des": 0,
+    "saz": 481
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 179
+   },
+   "pasture": {
+    "des": 1,
+    "saz": 2342
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 40
+   },
+   "total": {
+    "des": 2,
+    "saz": 749
+   }
+  },
+  "91": {
+   "name": "Marylskii Ivan",
+   "buildings": {
+    "des": 0,
+    "saz": 189
+   },
+   "arable": {
+    "des": 1,
+    "saz": 1390
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 2383
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 148
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 293
+   },
+   "total": {
+    "des": 4,
+    "saz": 2003
+   }
+  },
+  "92": {
+   "name": "Village school",
+   "buildings": {
+    "des": 0,
+    "saz": 326
+   },
+   "arable": {
+    "des": 7,
+    "saz": 2014
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 1630
+   },
+   "pasture": {
+    "des": 0,
+    "saz": 0
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 649
+   },
+   "total": {
+    "des": 9,
+    "saz": 2219
+   }
+  },
+  "93": {
+   "name": "Common cemetery",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 0,
+    "saz": 0
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 0,
+    "saz": 0
+   },
+   "unusable": {
+    "des": 1,
+    "saz": 1320
+   },
+   "total": {
+    "des": 1,
+    "saz": 1320
+   }
+  },
+  "94": {
+   "name": "Plot of common land",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 0,
+    "saz": 0
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 0,
+    "saz": 0
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 1881
+   },
+   "total": {
+    "des": 0,
+    "saz": 1881
+   }
+  },
+  "95": {
+   "name": "The village headman's plot",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 0,
+    "saz": 0
+   },
+   "meadow": {
+    "des": 1,
+    "saz": 612
+   },
+   "pasture": {
+    "des": 0,
+    "saz": 0
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 0
+   },
+   "total": {
+    "des": 1,
+    "saz": 612
+   }
+  },
+  "96": {
+   "name": "Reikh Kristiian",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 0,
+    "saz": 557
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 539
+   },
+   "pasture": {
+    "des": 2,
+    "saz": 110
+   },
+   "unusable": {
+    "des": 0,
+    "saz": 113
+   },
+   "total": {
+    "des": 2,
+    "saz": 1319
+   }
+  },
+  "_extra": {
+   "name": "Unusable land, besides the rows",
+   "buildings": {
+    "des": 0,
+    "saz": 0
+   },
+   "arable": {
+    "des": 0,
+    "saz": 0
+   },
+   "meadow": {
+    "des": 0,
+    "saz": 0
+   },
+   "pasture": {
+    "des": 0,
+    "saz": 0
+   },
+   "unusable": {
+    "des": 12,
+    "saz": 741
+   },
+   "total": {
+    "des": 12,
+    "saz": 741
+   }
+  }
+ },
+ "dues1868": {
+  "1": {
+   "name": "Konchinskii Iakov",
+   "roubles": 17,
+   "kop": "84"
+  },
+  "2": {
+   "name": "Gebel Martin",
+   "roubles": 29,
+   "kop": "262"
+  },
+  "3": {
+   "name": "Merts Karl",
+   "roubles": 48,
+   "kop": "56"
+  },
+  "4": {
+   "name": "Kholm Daniel",
+   "roubles": 40,
+   "kop": "161"
+  },
+  "5": {
+   "name": "Merts Gotlib",
+   "roubles": 7,
+   "kop": "289"
+  },
+  "6": {
+   "name": "Girsh Kristiian",
+   "roubles": 17,
+   "kop": "233"
+  },
+  "7": {
+   "name": "Kinast Vilgelm",
+   "roubles": 15,
+   "kop": "112"
+  },
+  "8": {
+   "name": "Strzhizhikovskii Frants",
+   "roubles": 11,
+   "kop": "148"
+  },
+  "9": {
+   "name": "Sanikovskii Martsin — 18 282",
+   "roubles": 19,
+   "kop": "22"
+  },
+  "10": {
+   "name": "Marek Vilgelm — 22 277",
+   "roubles": 32,
+   "kop": "179"
+  },
+  "11": {
+   "name": "Grunvald Kristof",
+   "roubles": 22,
+   "kop": "273"
+  },
+  "12": {
+   "name": "Slivinskii Gotlib",
+   "roubles": 14,
+   "kop": "122"
+  },
+  "13": {
+   "name": "Shteinbord Iulian",
+   "roubles": 17,
+   "kop": "75"
+  },
+  "14": {
+   "name": "Kholm Vilgelm",
+   "roubles": 13,
+   "kop": "280"
+  },
+  "15": {
+   "name": "Falk Avgust",
+   "roubles": 5,
+   "kop": "15"
+  },
+  "16": {
+   "name": "Merts Kristiian",
+   "roubles": 23,
+   "kop": "125"
+  },
+  "17": {
+   "name": "Merts Martsin",
+   "roubles": 8,
+   "kop": "293"
+  },
+  "18": {
+   "name": "Sanikovskii Osip",
+   "roubles": 27,
+   "kop": "244"
+  },
+  "19": {
+   "name": "[uncertain: Sturtsenbekher] Kristiian",
+   "roubles": 15,
+   "kop": "24"
+  },
+  "20": {
+   "name": "Sanikovskii Ivan",
+   "roubles": 24,
+   "kop": "187"
+  },
+  "21": {
+   "name": "heirs of Goske Karla",
+   "roubles": 25,
+   "kop": "129"
+  },
+  "22": {
+   "name": "Bludzinskii Ivan",
+   "roubles": 9,
+   "kop": "294"
+  },
+  "23": {
+   "name": "Shmigelskii Vilgelm",
+   "roubles": 49,
+   "kop": "70"
+  },
+  "24": {
+   "name": "heirs of Rogatskago Petra",
+   "roubles": 30,
+   "kop": "235"
+  },
+  "25": {
+   "name": "Promist Shchepan",
+   "roubles": 13,
+   "kop": "87"
+  },
+  "26": {
+   "name": "Runga Voitsekh",
+   "roubles": 36,
+   "kop": "222"
+  },
+  "27": {
+   "name": "heirs of Runga Gotfrida",
+   "roubles": 18,
+   "kop": "65"
+  },
+  "28": {
+   "name": "Falkenberg Martsin",
+   "roubles": 41,
+   "kop": "94"
+  },
+  "29": {
+   "name": "Goska Osip",
+   "roubles": 15,
+   "kop": "188"
+  },
+  "30": {
+   "name": "Shults Kristiian",
+   "roubles": 7,
+   "kop": "196"
+  },
+  "31": {
+   "name": "Knafkus Vilgelm",
+   "roubles": 1,
+   "kop": "196"
+  },
+  "32": {
+   "name": "heirs of Runge Voitsekha",
+   "roubles": 5,
+   "kop": "135"
+  },
+  "33": {
+   "name": "heirs of Runge Gotfrida",
+   "roubles": 26,
+   "kop": "45"
+  },
+  "34": {
+   "name": "Runge Martin",
+   "roubles": 2,
+   "kop": "115"
+  },
+  "35": {
+   "name": "Kitke Kristiian",
+   "roubles": 6,
+   "kop": "46"
+  },
+  "36": {
+   "name": "Fridenberg Kristof",
+   "roubles": 19,
+   "kop": "220"
+  },
+  "37": {
+   "name": "Tselmer Gotfrid",
+   "roubles": 26,
+   "kop": "14"
+  },
+  "38": {
+   "name": "Malinovskii Petr",
+   "roubles": 5,
+   "kop": "277"
+  },
+  "39": {
+   "name": "Khaupt Frants Kristiian",
+   "roubles": 13,
+   "kop": "174"
+  },
+  "40": {
+   "name": "Shvebs Karl Veniiamin",
+   "roubles": 4,
+   "kop": "168"
+  },
+  "41": {
+   "name": "Shtirtsenbekher Karl",
+   "roubles": 8,
+   "kop": "45"
+  },
+  "42": {
+   "name": "heirs of Betke Kristiiana",
+   "roubles": 8,
+   "kop": "192"
+  },
+  "43": {
+   "name": "Kinast Mateush",
+   "roubles": 3,
+   "kop": "248"
+  },
+  "44": {
+   "name": "Rash Friderik Ivan",
+   "roubles": 53,
+   "kop": "196"
+  },
+  "46": {
+   "name": "Kun Gotfrid",
+   "roubles": 38,
+   "kop": "66"
+  },
+  "45": {
+   "name": "Bandzert Emanuil",
+   "roubles": 4,
+   "kop": "48"
+  },
+  "47": {
+   "name": "Zeer Kristiian",
+   "roubles": 42,
+   "kop": "99"
+  },
+  "48": {
+   "name": "Bandzert Morits",
+   "roubles": 36,
+   "kop": "135"
+  },
+  "49": {
+   "name": "Merts Avgust",
+   "roubles": 33,
+   "kop": "93"
+  },
+  "50": {
+   "name": "Tselmer Genrikh",
+   "roubles": 35,
+   "kop": "42"
+  },
+  "51": {
+   "name": "Gebel Karl",
+   "roubles": 14,
+   "kop": "105"
+  },
+  "52": {
+   "name": "Shmigelskii Samuil",
+   "roubles": 14,
+   "kop": "13"
+  },
+  "53": {
+   "name": "heirs of Tselmera Daniila",
+   "roubles": 12,
+   "kop": "60"
+  },
+  "54": {
+   "name": "Bitner Andrei",
+   "roubles": 30,
+   "kop": "115"
+  },
+  "55": {
+   "name": "Rytamer Anton",
+   "roubles": 13,
+   "kop": "142"
+  },
+  "56": {
+   "name": "Przhistanskii Anton",
+   "roubles": 5,
+   "kop": "59"
+  },
+  "57": {
+   "name": "Bartel Karl Liudvik",
+   "roubles": 6,
+   "kop": "68"
+  },
+  "58": {
+   "name": "Goske Voitsekh",
+   "roubles": 16,
+   "kop": "147"
+  },
+  "59": {
+   "name": "Gints Liudvik",
+   "roubles": 16,
+   "kop": "287"
+  },
+  "60": {
+   "name": "Shtark Daniil",
+   "roubles": 8,
+   "kop": "157"
+  },
+  "61": {
+   "name": "Kinast Voitsekh",
+   "roubles": 52,
+   "kop": "94"
+  },
+  "62": {
+   "name": "Kusman Gotlib",
+   "roubles": 2,
+   "kop": "66"
+  },
+  "63": {
+   "name": "heirs of Kinasta Voitsekha",
+   "roubles": 15,
+   "kop": "192"
+  },
+  "64": {
+   "name": "Gerke Gotfrid",
+   "roubles": 5,
+   "kop": "277"
+  },
+  "65": {
+   "name": "Tselmer Mikhail",
+   "roubles": 36,
+   "kop": "254"
+  },
+  "66": {
+   "name": "Shtark Avgust",
+   "roubles": 18,
+   "kop": "241"
+  },
+  "67": {
+   "name": "Tselmer Avgust",
+   "roubles": 22,
+   "kop": "227"
+  },
+  "68": {
+   "name": "Lipelt Martsin",
+   "roubles": 14,
+   "kop": "121"
+  },
+  "69": {
+   "name": "Gotter Avgust",
+   "roubles": 19,
+   "kop": "64"
+  },
+  "70": {
+   "name": "Morits Gotfrid",
+   "roubles": 54,
+   "kop": "292"
+  },
+  "71": {
+   "name": "Obst Vilgelm",
+   "roubles": 5,
+   "kop": "272"
+  },
+  "72": {
+   "name": "Reikh Kristiian",
+   "roubles": 28,
+   "kop": "297"
+  },
+  "73": {
+   "name": "Shvebs Ivan",
+   "roubles": 12,
+   "kop": "221"
+  },
+  "74": {
+   "name": "Khaupt Gotlib",
+   "roubles": 8,
+   "kop": "124"
+  },
+  "75": {
+   "name": "Khaupt Gotfrid Kristiian",
+   "roubles": 31,
+   "kop": "98"
+  },
+  "76": {
+   "name": "Khaupt Kristiian Kristiianov",
+   "roubles": 13,
+   "kop": "33"
+  },
+  "77": {
+   "name": "Khaupt Gotfridov Kristiian",
+   "roubles": 12,
+   "kop": "48"
+  },
+  "78": {
+   "name": "Zelchak Foma",
+   "roubles": 6,
+   "kop": "104"
+  },
+  "79": {
+   "name": "Shchepinskii Petr",
+   "roubles": 5,
+   "kop": "255"
+  },
+  "80": {
+   "name": "Fogel Vilgelm",
+   "roubles": 2,
+   "kop": "214"
+  },
+  "81": {
+   "name": "Sheinfish Vilgelm",
+   "roubles": 54,
+   "kop": "218"
+  },
+  "82": {
+   "name": "Rogatskii Stanislav",
+   "roubles": 16,
+   "kop": "269"
+  },
+  "83": {
+   "name": "Fetter Ivan",
+   "roubles": 2,
+   "kop": "206"
+  },
+  "84": {
+   "name": "heirs of Shtirtsenbekhera Ivana",
+   "roubles": 5,
+   "kop": "30"
+  },
+  "85": {
+   "name": "Kinast Kristiian",
+   "roubles": 2,
+   "kop": "12"
+  },
+  "86": {
+   "name": "Khaupt Gotfrid",
+   "roubles": 4,
+   "kop": "37"
+  },
+  "87": {
+   "name": "Khaupt Vilgelm",
+   "roubles": 14,
+   "kop": "179"
+  },
+  "88": {
+   "name": "German Voitsekh",
+   "roubles": 1,
+   "kop": "288"
+  },
+  "89": {
+   "name": "heirs of Tarnovskago Mikhaila",
+   "roubles": 2,
+   "kop": "30"
+  },
+  "91": {
+   "name": "Marylskii Ivan",
+   "roubles": 5,
+   "kop": "98"
+  },
+  "92": {
+   "name": "Farmstead of the village school",
+   "roubles": 20,
+   "kop": "218"
+  },
+  "93": {
+   "name": "Common cemetery",
+   "roubles": 2,
+   "kop": "282"
+  },
+  "94": {
+   "name": "Plot of common land",
+   "roubles": 1,
+   "kop": "89"
+  },
+  "95": {
+   "name": "The village headman's plot",
+   "roubles": 2,
+   "kop": "263"
+  },
+  "96": {
+   "name": "Reikh Kristiian",
+   "roubles": 1,
+   "kop": ".."
+  },
+  "97": {
+   "name": "Under roads",
+   "roubles": 6,
+   "kop": "242"
+  }
+ }
+}

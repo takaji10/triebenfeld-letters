@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Pełzucki 1896 — the homestead yards (working page)</title>
+<style>
+:root { --rule: #d8d2c4; --ink: #2a2620; --ink-soft: #6b6459; --accent: #8a3324; }
+body { margin: 0; background: #faf8f3; color: var(--ink); font-family: Georgia, serif; }
+header { max-width: 120rem; margin: 0 auto; padding: .9rem 2rem .2rem; }
+header h1 { font-size: 1.2rem; margin: 0 0 .2rem; }
+header p { font-size: .85rem; color: var(--ink-soft); margin: .15rem 0; }
+kbd { font-family: Verdana, sans-serif; font-size: .72rem; border: 1px solid var(--rule);
+      border-radius: 3px; padding: 0 .35rem; background: #fff; }
+.cols { display: grid; grid-template-columns: minmax(19rem, 23rem) minmax(0, 1fr);
+        gap: 1.4rem; align-items: start; max-width: 120rem; margin: 0 auto;
+        padding: 0 2rem 2rem; }
+.side { max-height: 92vh; overflow-y: auto; font-family: Verdana, sans-serif;
+        font-size: .82rem; }
+.box { border: 1px solid var(--rule); border-radius: .4rem; padding: .7rem .9rem;
+       margin: 0 0 .8rem; }
+.box h2 { font-size: .9rem; margin: 0 0 .4rem; }
+#area, #note { font-size: 1rem; padding: .3rem .5rem; border: 1px solid var(--rule); }
+#area { width: 9rem; } #note { width: 11rem; }
+.activefarm { font-size: .95rem; margin: .3rem 0; }
+.activefarm b { font-size: 1.05rem; }
+.btn { font-family: Verdana, sans-serif; font-size: .78rem; padding: .3rem .8rem;
+       border: 1px solid var(--rule); background: #fff; cursor: pointer;
+       border-radius: 3px; margin: 0 .3rem .3rem 0; }
+.btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+.btn.on { background: #2a6db3; color: #fff; border-color: #2a6db3; }
+.alist { list-style: none; margin: .4rem 0 0; padding: 0; max-height: 24rem;
+         overflow-y: auto; }
+.alist li { display: flex; gap: .5rem; align-items: baseline; padding: .2rem 0;
+            border-bottom: 1px solid var(--rule); cursor: pointer; }
+.alist li:hover { background: rgba(42,109,179,.06); }
+.alist li.selrow { background: rgba(42,109,179,.14); }
+.alist .v { font-weight: 700; color: #1d4f7c; min-width: 6.5rem; }
+.alist .xy { color: var(--ink-soft); font-size: .72rem; }
+.alist button { margin-left: auto; font-size: .7rem; }
+.hint { color: var(--ink-soft); font-size: .76rem; }
+.viewer { width: 100%; height: min(88vh, 62rem); background: #f4f1ea;
+          border: 1px solid var(--rule); touch-action: none; position: relative; }
+.stage { position: sticky; top: .8rem; }
+.yard-label { box-sizing: border-box; display: flex; align-items: center;
+              justify-content: center; min-width: 30px; height: 24px; padding: 0 6px;
+              font-family: Verdana, sans-serif; font-weight: 700; font-size: 13px;
+              border-radius: 4px; background: rgba(42,109,179,.92); color: #fff;
+              border: 2px solid #1d4f7c; white-space: nowrap;
+              pointer-events: auto; z-index: 9; cursor: pointer; }
+.yard-label.sel { outline: 3px solid #8a3324; outline-offset: 1px; }
+.ref-label { box-sizing: border-box; min-width: 17px; height: 17px; padding: 0 3px;
+             display: flex; align-items: center; justify-content: center;
+             font-family: Verdana, sans-serif; font-size: 10px; font-weight: 700;
+             color: rgba(140,40,40,.65); border: 1px dashed rgba(140,40,40,.45);
+             border-radius: 3px; background: rgba(255,255,255,.4);
+             pointer-events: auto; z-index: 5; cursor: pointer; }
+.ref-label.sel { outline: 3px solid #1d4f7c; outline-offset: 1px;
+                 color: #fff; background: rgba(42,109,179,.92);
+                 border-style: solid; }
+.rubber { position: absolute; border: 2px dashed #1d4f7c;
+          background: rgba(42,109,179,.10); pointer-events: none; z-index: 7; }
+.draw-capture { position: absolute; inset: 0; z-index: 8; cursor: crosshair;
+                display: none; touch-action: none; }
+@media (max-width: 64rem) { .cols { grid-template-columns: 1fr; }
+  .stage { position: static; order: -1; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Pełzucki 1896 — the homestead yards <span style="font-family:Verdana,sans-serif;font-size:.72rem;color:#8a6d3b">(v2 · click farm, draw, Enter)</span>
+    <span style="font-family:Verdana,sans-serif;font-size:.68rem;letter-spacing:.05em;text-transform:uppercase;color:#fff;background:#8a6d3b;padding:.1rem .5rem;border-radius:.8rem;vertical-align:middle">working page</span></h1>
+  <p>The flow: <b>click a farm number</b> on the map (a red dashed tag — it turns
+     solid blue; draw mode comes on by itself), <b>drag a box</b> around the black
+     <b>n. / n</b> figure, type the <b>area as written</b> — uncertainty in
+     [..?] — and press <kbd>Enter</kbd>: the figure is linked to that farm, and the
+     farm deselects for the next one. <b>D</b> toggles pan/draw from anywhere — it
+     never types a letter (the area field takes digits, dots and dashes only).
+     <kbd>Esc</kbd> clears the farm (or a pending rectangle, in the fields). The
+     panel shows the farm's holder and total, but <b>not</b> its buildings figure —
+     the yard read stays blind, so the check means something. Click a yard label to
+     edit it; Export when done.</p>
+</header>
+<div class="cols">
+  <div class="side">
+    <div class="box">
+      <h2>Active farm</h2>
+      <div class="activefarm" id="activefarm">none — click a red tag on the map</div>
+      <p>
+        <button class="btn" id="modebtn">Draw mode (D)</button>
+      </p>
+      <p style="margin:.2rem 0 .4rem">
+        <input id="area" placeholder="1. area as written" autocomplete="off"
+               spellcheck="false"></p>
+      <p style="margin:.2rem 0 .4rem"><input id="note" placeholder="note (optional)"></p>
+      <p class="hint" id="modehint">click a farm number, then drag the box, then
+        Enter</p>
+    </div>
+    <div class="box">
+      <h2>Your yards <span id="ncount"></span></h2>
+      <ul class="alist" id="alist"></ul>
+      <p style="margin:.5rem 0 0">
+        <button class="btn primary" id="export">Export JSON</button>
+        <button class="btn" id="del">Delete selected</button>
+      </p>
+    </div>
+    <div class="box">
+      <h2>Layers</h2>
+      <label><input type="checkbox" id="show-refs" checked>
+        the red catalogue's farm numbers</label><br>
+      <label><input type="checkbox" id="show-yards" checked> your yards</label>
+    </div>
+  </div>
+  <div class="stage">
+    <div id="viewer" class="viewer"></div>
+    <p class="hint" style="font-family:Verdana,sans-serif;margin-top:.4rem">
+      positions in the mosaic's pixels (21715 &times; 14206)</p>
+  </div>
+</div>
+<script id="ref-data" type="application/json">[{"n": 56, "x": 13055, "y": 12136}, {"n": 77, "x": 20819, "y": 10961}, {"n": 49, "x": 9767, "y": 8576}, {"n": 18, "x": 7977, "y": 5720}, {"n": 66, "x": 16880, "y": 11339}, {"n": 29, "x": 4106, "y": 9209}, {"n": 10, "x": 6583, "y": 6713}, {"n": 68, "x": 17046, "y": 12149}, {"n": 51, "x": 10248, "y": 6539}, {"n": 26, "x": 8518, "y": 6015}, {"n": 63, "x": 16944, "y": 11610}, {"n": 23, "x": 6873, "y": 10457}, {"n": 35, "x": 6584, "y": 10925}, {"n": 59, "x": 14616, "y": 11393}, {"n": 42, "x": 9945, "y": 12302}, {"n": 66, "x": 14834, "y": 10951}, {"n": 56, "x": 13233, "y": 12866}, {"n": 55, "x": 12191, "y": 12540}, {"n": 24, "x": 10977, "y": 12673}, {"n": 36, "x": 15318, "y": 11667}, {"n": 46, "x": 10840, "y": 9953}, {"n": 97, "x": 19384, "y": 11443}, {"n": 36, "x": 7440, "y": 10411}, {"n": 27, "x": 5852, "y": 10279}, {"n": 80, "x": 13437, "y": 12106}, {"n": 57, "x": 14690, "y": 12542}, {"n": 24, "x": 6142, "y": 10553}, {"n": 44, "x": 10226, "y": 11430}, {"n": 20, "x": 11043, "y": 12485}, {"n": 48, "x": 10162, "y": 10780}, {"n": 28, "x": 12558, "y": 8813}, {"n": 43, "x": 10438, "y": 13417}, {"n": 52, "x": 12637, "y": 8186}, {"n": 73, "x": 20310, "y": 11707}, {"n": 95, "x": 9527, "y": 10779}, {"n": 26, "x": 5362, "y": 8532}, {"n": 29, "x": 4152, "y": 8832}, {"n": 25, "x": 3671, "y": 8108}, {"n": 26, "x": 4527, "y": 8255}, {"n": 38, "x": 16173, "y": 13399}, {"n": 24, "x": 6421, "y": 8599}, {"n": 23, "x": 6333, "y": 10971}, {"n": 55, "x": 12550, "y": 9127}, {"n": 27, "x": 5933, "y": 9793}, {"n": 55, "x": 8680, "y": 10903}, {"n": 15, "x": 5244, "y": 7700}, {"n": 27, "x": 5508, "y": 10243}, {"n": 61, "x": 16708, "y": 10898}, {"n": 30, "x": 4815, "y": 10306}, {"n": 24, "x": 6884, "y": 8622}, {"n": 2, "x": 9031, "y": 5264}, {"n": 4, "x": 9957, "y": 10782}, {"n": 34, "x": 5595, "y": 9733}, {"n": 21, "x": 8606, "y": 8536}, {"n": 26, "x": 8632, "y": 5556}, {"n": 28, "x": 7144, "y": 9230}, {"n": 23, "x": 6951, "y": 11273}, {"n": 20, "x": 6956, "y": 8195}, {"n": 73, "x": 19925, "y": 11817}, {"n": 46, "x": 8914, "y": 11059}, {"n": 14, "x": 4220, "y": 5961}, {"n": 24, "x": 6358, "y": 9347}, {"n": 61, "x": 16694, "y": 10384}, {"n": 6, "x": 8136, "y": 5134}, {"n": 53, "x": 12088, "y": 7207}, {"n": 11, "x": 6039, "y": 5747}, {"n": 12, "x": 4754, "y": 6062}, {"n": 7, "x": 7907, "y": 6209}, {"n": 8, "x": 6297, "y": 5245}, {"n": 86, "x": 9191, "y": 13325}, {"n": 97, "x": 15521, "y": 11720}, {"n": 10, "x": 5225, "y": 7433}, {"n": 82, "x": 5891, "y": 6653}, {"n": 57, "x": 10124, "y": 12927}, {"n": 87, "x": 3718, "y": 9213}, {"n": 9, "x": 7041, "y": 6137}, {"n": 62, "x": 5306, "y": 10498}, {"n": 97, "x": 8924, "y": 6476}, {"n": 11, "x": 5496, "y": 5540}, {"n": 71, "x": 19539, "y": 12679}, {"n": 18, "x": 6969, "y": 5103}, {"n": 97, "x": 16148, "y": 10846}, {"n": 81, "x": 14705, "y": 7649}, {"n": 14, "x": 4140, "y": 6429}, {"n": 73, "x": 19384, "y": 11862}, {"n": 23, "x": 7408, "y": 9788}, {"n": 33, "x": 11232, "y": 12161}, {"n": 66, "x": 18539, "y": 11913}, {"n": 83, "x": 13073, "y": 12883}, {"n": 37, "x": 15648, "y": 13396}, {"n": 89, "x": 10897, "y": 13433}, {"n": 49, "x": 10024, "y": 8490}, {"n": 1, "x": 9080, "y": 4497}, {"n": 87, "x": 5329, "y": 6913}, {"n": 23, "x": 7636, "y": 8565}, {"n": 83, "x": 4517, "y": 6476}, {"n": 17, "x": 4672, "y": 6757}, {"n": 15, "x": 4274, "y": 7019}, {"n": 15, "x": 4301, "y": 7243}, {"n": 97, "x": 4380, "y": 7391}, {"n": 17, "x": 4356, "y": 7596}, {"n": 16, "x": 4099, "y": 7484}, {"n": 17, "x": 3826, "y": 7319}, {"n": 14, "x": 3883, "y": 7029}, {"n": 8, "x": 3634, "y": 7025}, {"n": 8, "x": 3569, "y": 7324}, {"n": 87, "x": 3754, "y": 7083}, {"n": 5, "x": 3256, "y": 8101}, {"n": 10, "x": 3465, "y": 8104}, {"n": 29, "x": 3874, "y": 8111}, {"n": 37, "x": 3283, "y": 8651}, {"n": 84, "x": 3218, "y": 8753}, {"n": 97, "x": 2885, "y": 8810}, {"n": 86, "x": 3142, "y": 9106}, {"n": 87, "x": 4058, "y": 9556}, {"n": 80, "x": 4532, "y": 9779}, {"n": 85, "x": 4578, "y": 9582}, {"n": 33, "x": 4873, "y": 9972}, {"n": 26, "x": 4640, "y": 8809}, {"n": 33, "x": 5176, "y": 9146}, {"n": 33, "x": 5679, "y": 9322}, {"n": 26, "x": 4322, "y": 8342}, {"n": 39, "x": 4236, "y": 7817}, {"n": 26, "x": 4548, "y": 7943}, {"n": 89, "x": 3978, "y": 8171}, {"n": 7, "x": 4683, "y": 7082}, {"n": 17, "x": 4787, "y": 7250}, {"n": 82, "x": 5121, "y": 7299}, {"n": 13, "x": 5162, "y": 5922}, {"n": 11, "x": 5861, "y": 6188}, {"n": 9, "x": 6368, "y": 5965}, {"n": 10, "x": 6004, "y": 7284}, {"n": 10, "x": 6347, "y": 7206}, {"n": 19, "x": 6203, "y": 7573}, {"n": 53, "x": 6114, "y": 7463}, {"n": 19, "x": 5721, "y": 7821}, {"n": 5, "x": 6619, "y": 7829}, {"n": 4, "x": 6950, "y": 7858}, {"n": 37, "x": 7124, "y": 8016}, {"n": 7, "x": 7160, "y": 7692}, {"n": 7, "x": 7134, "y": 7572}, {"n": 5, "x": 7020, "y": 7146}, {"n": 5, "x": 7097, "y": 6852}, {"n": 7, "x": 7069, "y": 6466}, {"n": 13, "x": 6831, "y": 5581}, {"n": 8, "x": 6818, "y": 4967}, {"n": 24, "x": 4445, "y": 10028}, {"n": 31, "x": 5030, "y": 10245}, {"n": 32, "x": 5189, "y": 10401}, {"n": 62, "x": 5423, "y": 10505}, {"n": 32, "x": 5289, "y": 10072}, {"n": 34, "x": 5474, "y": 9908}, {"n": 37, "x": 5659, "y": 10075}, {"n": 23, "x": 6582, "y": 10360}, {"n": 35, "x": 7207, "y": 10654}, {"n": 23, "x": 7077, "y": 9896}, {"n": 23, "x": 7011, "y": 8819}, {"n": 0, "x": 7239, "y": 8115}, {"n": 3, "x": 7224, "y": 4920}, {"n": 25, "x": 5689, "y": 8218}, {"n": 38, "x": 7080, "y": 11328}, {"n": 37, "x": 7185, "y": 11325}, {"n": 38, "x": 7144, "y": 11214}, {"n": 3, "x": 7381, "y": 4833}, {"n": 10, "x": 7821, "y": 5202}, {"n": 7, "x": 7979, "y": 5156}, {"n": 18, "x": 7484, "y": 5538}, {"n": 2, "x": 8355, "y": 5266}, {"n": 3, "x": 8450, "y": 5087}, {"n": 2, "x": 8603, "y": 4603}, {"n": 1, "x": 9053, "y": 4136}, {"n": 94, "x": 9547, "y": 4547}, {"n": 4, "x": 9456, "y": 4835}, {"n": 3, "x": 9371, "y": 5086}, {"n": 2, "x": 8822, "y": 5554}, {"n": 3, "x": 8928, "y": 5862}, {"n": 3, "x": 9891, "y": 6109}, {"n": 3, "x": 9608, "y": 5673}, {"n": 4, "x": 7887, "y": 6944}, {"n": 4, "x": 7682, "y": 7308}, {"n": 4, "x": 8266, "y": 7307}, {"n": 4, "x": 8565, "y": 6740}, {"n": 50, "x": 9082, "y": 7114}, {"n": 50, "x": 9204, "y": 7624}, {"n": 20, "x": 7789, "y": 7757}, {"n": 4, "x": 7351, "y": 7708}, {"n": 20, "x": 7888, "y": 8066}, {"n": 20, "x": 8362, "y": 8069}, {"n": 21, "x": 7908, "y": 8578}, {"n": 23, "x": 7445, "y": 8943}, {"n": 21, "x": 7799, "y": 9232}, {"n": 21, "x": 8250, "y": 9316}, {"n": 22, "x": 8610, "y": 9287}, {"n": 37, "x": 8092, "y": 9654}, {"n": 36, "x": 7798, "y": 9781}, {"n": 37, "x": 8479, "y": 9935}, {"n": 27, "x": 7977, "y": 10337}, {"n": 67, "x": 8490, "y": 10385}, {"n": 39, "x": 7809, "y": 11047}, {"n": 35, "x": 7885, "y": 11194}, {"n": 49, "x": 7922, "y": 11264}, {"n": 16, "x": 9074, "y": 10991}, {"n": 44, "x": 9510, "y": 11466}, {"n": 41, "x": 9566, "y": 12180}, {"n": 38, "x": 9733, "y": 10777}, {"n": 1, "x": 9322, "y": 10782}, {"n": 43, "x": 10140, "y": 12433}, {"n": 54, "x": 10417, "y": 12482}, {"n": 44, "x": 10520, "y": 12569}, {"n": 54, "x": 10655, "y": 12539}, {"n": 62, "x": 9103, "y": 13311}, {"n": 2, "x": 9293, "y": 13318}, {"n": 4, "x": 9394, "y": 13321}, {"n": 41, "x": 9502, "y": 13317}, {"n": 32, "x": 9627, "y": 13321}, {"n": 31, "x": 9752, "y": 13323}, {"n": 15, "x": 9883, "y": 13324}, {"n": 31, "x": 9225, "y": 13182}, {"n": 40, "x": 10039, "y": 13332}, {"n": 97, "x": 10151, "y": 13804}, {"n": 42, "x": 10220, "y": 13407}, {"n": 27, "x": 10886, "y": 12858}, {"n": 64, "x": 10892, "y": 13082}, {"n": 2, "x": 10928, "y": 13246}, {"n": 97, "x": 11528, "y": 12795}, {"n": 12, "x": 12056, "y": 13245}, {"n": 13, "x": 12065, "y": 13374}, {"n": 9, "x": 12090, "y": 13096}, {"n": 32, "x": 12085, "y": 12961}, {"n": 23, "x": 12126, "y": 12833}, {"n": 21, "x": 12147, "y": 12718}, {"n": 0, "x": 12182, "y": 12615}, {"n": 54, "x": 12308, "y": 12460}, {"n": 55, "x": 12441, "y": 12227}, {"n": 54, "x": 12728, "y": 11764}, {"n": 54, "x": 12639, "y": 11319}, {"n": 97, "x": 13273, "y": 11174}, {"n": 44, "x": 13494, "y": 10982}, {"n": 52, "x": 13917, "y": 11122}, {"n": 4, "x": 8950, "y": 10219}, {"n": 87, "x": 9549, "y": 9879}, {"n": 87, "x": 9552, "y": 9747}, {"n": 47, "x": 9837, "y": 9998}, {"n": 47, "x": 9861, "y": 9825}, {"n": 92, "x": 9304, "y": 9165}, {"n": 92, "x": 9685, "y": 9170}, {"n": 33, "x": 10046, "y": 9127}, {"n": 32, "x": 10131, "y": 8862}, {"n": 32, "x": 9945, "y": 8937}, {"n": 27, "x": 9676, "y": 8771}, {"n": 47, "x": 9065, "y": 8544}, {"n": 47, "x": 9370, "y": 8511}, {"n": 47, "x": 9549, "y": 8702}, {"n": 32, "x": 9617, "y": 8163}, {"n": 32, "x": 9409, "y": 8257}, {"n": 9, "x": 7394, "y": 6003}, {"n": 6, "x": 7994, "y": 6410}, {"n": 3, "x": 9358, "y": 6775}, {"n": 49, "x": 9776, "y": 7042}, {"n": 48, "x": 9832, "y": 7296}, {"n": 49, "x": 10225, "y": 7592}, {"n": 31, "x": 10553, "y": 7258}, {"n": 51, "x": 10588, "y": 6773}, {"n": 97, "x": 10761, "y": 6761}, {"n": 51, "x": 10854, "y": 7260}, {"n": 52, "x": 11035, "y": 6513}, {"n": 97, "x": 10908, "y": 6156}, {"n": 4, "x": 10571, "y": 7649}, {"n": 28, "x": 10901, "y": 7527}, {"n": 53, "x": 11292, "y": 7329}, {"n": 53, "x": 11608, "y": 7428}, {"n": 45, "x": 12418, "y": 7209}, {"n": 91, "x": 12775, "y": 7207}, {"n": 5, "x": 12653, "y": 7267}, {"n": 91, "x": 12528, "y": 7682}, {"n": 73, "x": 12311, "y": 7570}, {"n": 53, "x": 11656, "y": 7016}, {"n": 97, "x": 12755, "y": 7470}, {"n": 4, "x": 13061, "y": 7319}, {"n": 81, "x": 13068, "y": 7211}, {"n": 38, "x": 12798, "y": 7701}, {"n": 97, "x": 12026, "y": 8646}, {"n": 97, "x": 12630, "y": 8680}, {"n": 16, "x": 12570, "y": 8925}, {"n": 47, "x": 12561, "y": 9256}, {"n": 51, "x": 12425, "y": 9383}, {"n": 57, "x": 12184, "y": 9558}, {"n": 44, "x": 12458, "y": 9664}, {"n": 97, "x": 12782, "y": 9906}, {"n": 97, "x": 10247, "y": 8034}, {"n": 24, "x": 10374, "y": 8234}, {"n": 23, "x": 10454, "y": 8664}, {"n": 23, "x": 10912, "y": 8668}, {"n": 75, "x": 10056, "y": 8163}, {"n": 8, "x": 10765, "y": 8083}, {"n": 5, "x": 10230, "y": 9305}, {"n": 16, "x": 11450, "y": 9060}, {"n": 46, "x": 11477, "y": 9525}, {"n": 31, "x": 13063, "y": 8408}, {"n": 31, "x": 13748, "y": 7672}, {"n": 275, "x": 14627, "y": 7172}, {"n": 81, "x": 15337, "y": 7323}, {"n": 45, "x": 11339, "y": 10600}, {"n": 44, "x": 11338, "y": 11394}, {"n": 44, "x": 11291, "y": 11958}, {"n": 53, "x": 11096, "y": 12348}, {"n": 97, "x": 12989, "y": 13272}, {"n": 80, "x": 13509, "y": 13093}, {"n": 47, "x": 14016, "y": 13346}, {"n": 97, "x": 14250, "y": 13555}, {"n": 53, "x": 14076, "y": 12405}, {"n": 57, "x": 13725, "y": 12442}, {"n": 95, "x": 14300, "y": 12312}, {"n": 58, "x": 14468, "y": 12540}, {"n": 86, "x": 14574, "y": 12540}, {"n": 58, "x": 14816, "y": 12537}, {"n": 7, "x": 14927, "y": 12546}, {"n": 55, "x": 14446, "y": 13112}, {"n": 97, "x": 15513, "y": 13922}, {"n": 55, "x": 15028, "y": 13397}, {"n": 53, "x": 14695, "y": 13393}, {"n": 39, "x": 14347, "y": 13405}, {"n": 89, "x": 14462, "y": 13395}, {"n": 30, "x": 15315, "y": 13396}, {"n": 57, "x": 15486, "y": 13402}, {"n": 54, "x": 15811, "y": 13399}, {"n": 49, "x": 15999, "y": 13399}, {"n": 47, "x": 16317, "y": 13402}, {"n": 50, "x": 14005, "y": 11549}, {"n": 59, "x": 14685, "y": 11585}, {"n": 28, "x": 12255, "y": 10437}, {"n": 5, "x": 12453, "y": 10435}, {"n": 7, "x": 12654, "y": 10535}, {"n": 3, "x": 12852, "y": 10640}, {"n": 7, "x": 13055, "y": 10760}, {"n": 34, "x": 13275, "y": 10867}, {"n": 97, "x": 14275, "y": 10878}, {"n": 30, "x": 14537, "y": 10959}, {"n": 37, "x": 14808, "y": 10516}, {"n": 97, "x": 15352, "y": 10339}, {"n": 97, "x": 15462, "y": 10539}, {"n": 63, "x": 15117, "y": 10833}, {"n": 61, "x": 15379, "y": 10794}, {"n": 55, "x": 15602, "y": 10811}, {"n": 97, "x": 15142, "y": 11228}, {"n": 60, "x": 15262, "y": 11449}, {"n": 76, "x": 15272, "y": 11534}, {"n": 39, "x": 15389, "y": 11577}, {"n": 78, "x": 15218, "y": 11833}, {"n": 79, "x": 15380, "y": 11980}, {"n": 65, "x": 15428, "y": 12258}, {"n": 75, "x": 15435, "y": 12135}, {"n": 77, "x": 15541, "y": 12883}, {"n": 53, "x": 15541, "y": 13047}, {"n": 72, "x": 15503, "y": 12437}, {"n": 73, "x": 15537, "y": 12576}, {"n": 36, "x": 15484, "y": 12745}, {"n": 47, "x": 16474, "y": 13491}, {"n": 70, "x": 16639, "y": 13551}, {"n": 70, "x": 16995, "y": 13584}, {"n": 59, "x": 16550, "y": 12848}, {"n": 68, "x": 17198, "y": 12446}, {"n": 69, "x": 17265, "y": 12690}, {"n": 66, "x": 16988, "y": 11801}, {"n": 65, "x": 17443, "y": 11304}, {"n": 97, "x": 17513, "y": 10347}, {"n": 61, "x": 18028, "y": 10325}, {"n": 61, "x": 17723, "y": 9978}, {"n": 75, "x": 17613, "y": 9696}, {"n": 65, "x": 18232, "y": 11003}, {"n": 63, "x": 18643, "y": 11497}, {"n": 67, "x": 18455, "y": 12349}, {"n": 67, "x": 19163, "y": 12201}, {"n": 72, "x": 19471, "y": 12205}, {"n": 71, "x": 19512, "y": 12607}, {"n": 77, "x": 19815, "y": 11343}, {"n": 72, "x": 20250, "y": 11304}, {"n": 76, "x": 19923, "y": 10838}, {"n": 73, "x": 19344, "y": 10595}, {"n": 76, "x": 19574, "y": 10299}, {"n": 76, "x": 20899, "y": 10699}, {"n": 72, "x": 20722, "y": 11373}, {"n": 72, "x": 20274, "y": 12081}, {"n": 97, "x": 20333, "y": 12313}, {"n": 70, "x": 19052, "y": 12774}, {"n": 70, "x": 18821, "y": 13138}, {"n": 97, "x": 18657, "y": 13729}, {"n": 73, "x": 18070, "y": 13755}, {"n": 7, "x": 17731, "y": 13408}, {"n": 97, "x": 18655, "y": 9889}, {"n": 74, "x": 17619, "y": 9256}, {"n": 60, "x": 16286, "y": 11541}, {"n": 97, "x": 16105, "y": 12332}, {"n": 72, "x": 16352, "y": 12343}, {"n": 73, "x": 16208, "y": 12313}, {"n": 5, "x": 14383, "y": 12427}, {"n": 7, "x": 10306, "y": 12404}]</script>
+<script id="row-data" type="application/json">{"1": {"name": "Konchinskii Iakov", "td": 10, "ts": 2048}, "2": {"name": "Gebel Martin", "td": 16, "ts": 844}, "3": {"name": "Merts Karl", "td": 27, "ts": 2002}, "4": {"name": "Kholm Daniil", "td": 22, "ts": 1156}, "5": {"name": "Merts Gotlib", "td": 6, "ts": 187}, "6": {"name": "Girsh Kristiian", "td": 11, "ts": 1708}, "7": {"name": "Kinast Vilgelm", "td": 10, "ts": 281}, "8": {"name": "Strzhizhikovskii Frants", "td": 7, "ts": 1085}, "9": {"name": "Sanikovskii Martin", "td": 11, "ts": 1628}, "10": {"name": "Marek Vilgelm", "td": 19, "ts": 560}, "11": {"name": "Grunvald Kristof", "td": 14, "ts": 1949}, "12": {"name": "[uncertain: Slivinskii] Gotlib", "td": 8, "ts": 2328}, "13": {"name": "Shteinbord Iulian", "td": 11, "ts": 103}, "14": {"name": "Kholm Vilgelm", "td": 11, "ts": 195}, "15": {"name": "Falk Avgust", "td": 4, "ts": 1314}, "16": {"name": "Merts Kristiian", "td": 15, "ts": 973}, "17": {"name": "Merts Martin", "td": 6, "ts": 1107}, "18": {"name": "Sanikovskii Osip", "td": 15, "ts": 1303}, "19": {"name": "Stirtsenbeker Kristiian", "td": 9, "ts": 1538}, "20": {"name": "Sanikovskii Ian", "td": 14, "ts": 1602}, "21": {"name": "heirs of Goske Karla", "td": 14, "ts": 1952}, "22": {"name": "Bludzinskii Ivan", "td": 7, "ts": 646}, "23": {"name": "Shmigelskii Vilgelm", "td": 27, "ts": 874}, "24": {"name": "heirs of Rogatskago Petra", "td": 17, "ts": 892}, "25": {"name": "[uncertain: Promins] Shchepan", "td": 8, "ts": 2055}, "26": {"name": "Runga Voitsekh", "td": 21, "ts": 401}, "27": {"name": "heirs of Runga Gotfrida", "td": 11, "ts": 1759}, "28": {"name": "Falkenberg Martin", "td": 22, "ts": 2172}, "29": {"name": "Goska Osip", "td": 11, "ts": 1400}, "30": {"name": "Shults Kristiian", "td": 5, "ts": 2334}, "31": {"name": "Knafkus Vilgelm", "td": 2, "ts": 1493}, "32": {"name": "heirs of Rungi Voitsekha", "td": 4, "ts": 1248}, "33": {"name": "heirs of Rungi Gotfrida", "td": 15, "ts": 566}, "34": {"name": "Runge Martin", "td": 3, "ts": 721}, "35": {"name": "Kitke Kristiian", "td": 5, "ts": 860}, "36": {"name": "Fridenberg Kristof", "td": 11, "ts": 1113}, "37": {"name": "Tselmer Gotfrid", "td": 15, "ts": 1157}, "38": {"name": "Malinovskii Petr", "td": 5, "ts": 78}, "39": {"name": "Khaupt Kristiian", "td": 8, "ts": 2238}, "40": {"name": "Shvebs Karl Veniiamin", "td": 4, "ts": 776}, "41": {"name": "Shtirtsenbeker Karl", "td": 5, "ts": 2285}, "42": {"name": "heirs of Betke Kristiiana", "td": 6, "ts": 683}, "43": {"name": "Kinast Mateush", "td": 3, "ts": 1661}, "44": {"name": "Rash Friderik", "td": 28, "ts": 666}, "45": {"name": "Bandzert Emanuil", "td": 4, "ts": 1020}, "46": {"name": "Kun Gotfrid", "td": 20, "ts": 2209}, "47": {"name": "Zeer Kristiian", "td": 26, "ts": 1922}, "48": {"name": "Bandzert Morits", "td": 20, "ts": 165}, "49": {"name": "Merts Avgust", "td": 18, "ts": 909}, "50": {"name": "Tselmer Genrikh", "td": 20, "ts": 416}, "51": {"name": "Gebel Karl", "td": 9, "ts": 1567}, "52": {"name": "Shmigelskii Samuil", "td": 9, "ts": 1125}, "53": {"name": "heirs of Tselmera Daniila", "td": 8, "ts": 1888}, "54": {"name": "Bitner Andrei", "td": 17, "ts": 1475}, "55": {"name": "Rytamer Anton", "td": 8, "ts": 2112}, "56": {"name": "Przhistanskii Anton", "td": 4, "ts": 1708}, "57": {"name": "Bartel Karl Liudvik", "td": 5, "ts": 1561}, "58": {"name": "Goske Voitsekh", "td": 10, "ts": 306}, "59": {"name": "Gints Liudvik", "td": 11, "ts": 1856}, "60": {"name": "Shtark Daniil", "td": 6, "ts": 994}, "61": {"name": "Kinast Voitsekh", "td": 28, "ts": 427}, "62": {"name": "Kusman Gotlib", "td": 2, "ts": 2235}, "63": {"name": "heirs of Kinasta Voitsekha", "td": 13, "ts": 292}, "64": {"name": "Gerke Gotfrid", "td": 5, "ts": 661}, "65": {"name": "Tselmer Mikhail", "td": 20, "ts": 1412}, "66": {"name": "Shtark Avgust", "td": 12, "ts": 1967}, "67": {"name": "Tselmer Avgust", "td": 13, "ts": 1528}, "68": {"name": "Lipelt Martin", "td": 9, "ts": 1581}, "69": {"name": "Gotter Avgust", "td": 11, "ts": 1971}, "70": {"name": "Morits Gotfrid", "td": 30, "ts": 1438}, "71": {"name": "Obst Vilgelm", "td": 4, "ts": 2320}, "72": {"name": "Reikh Kristiian", "td": 16, "ts": 955}, "73": {"name": "Shvebs Ivan", "td": 8, "ts": 2030}, "74": {"name": "Khaupt Gotlib", "td": 6, "ts": 531}, "75": {"name": "Khaupt Gotfrid", "td": 18, "ts": 79}, "76": {"name": "Khaupt Kristiian", "td": 8, "ts": 1715}, "77": {"name": "Gebel Kristiian", "td": 8, "ts": 1082}, "78": {"name": "Zelchak Foma", "td": 5, "ts": 897}, "79": {"name": "Shchepinskii Petr", "td": 5, "ts": 611}, "80": {"name": "Fogel Vilgelm", "td": 3, "ts": 1113}, "81": {"name": "Sheinfish Vilgelm", "td": 30, "ts": 459}, "82": {"name": "Rogatskii Stanislav", "td": 10, "ts": 19}, "83": {"name": "Fetter Ivan", "td": 3, "ts": 1150}, "84": {"name": "heirs of Shtirtsenbekera", "td": 4, "ts": 1684}, "85": {"name": "Kinast Kristiian", "td": 3, "ts": 186}, "86": {"name": "Khaupt Gotfrid", "td": 4, "ts": 588}, "87": {"name": "Khaupt Vilgelm", "td": 7, "ts": 2330}, "88": {"name": "German Voitsekh", "td": 2, "ts": 2219}, "89": {"name": "heirs of Tarnovskago Mikhaila", "td": 2, "ts": 1774}, "90": {"name": "Rogovich Martin", "td": 2, "ts": 749}, "91": {"name": "Marylskii Ivan", "td": 4, "ts": 2003}, "92": {"name": "Village school", "td": 9, "ts": 2219}, "93": {"name": "Common cemetery", "td": 1, "ts": 1320}, "94": {"name": "Plot of common land", "td": 0, "ts": 1881}, "95": {"name": "The village headman's plot", "td": 1, "ts": 612}, "96": {"name": "Reikh Kristiian", "td": 2, "ts": 1319}}</script>
+<script src="/site/assets/maps/openseadragon.min.js"></script>
+<script>
+(function () {
+  var REFS = JSON.parse(document.getElementById('ref-data').textContent);
+  var ROWS = JSON.parse(document.getElementById('row-data').textContent);
+  var K_NEW = 'p1896-yards-v1';
+  var yards = [];
+  try { yards = JSON.parse(localStorage.getItem(K_NEW) || '[]'); } catch (e) {}
+  var sel = -1, drawMode = false, activeFarm = null;
+
+  var viewer = OpenSeadragon({
+    id: 'viewer', prefixUrl: '', showNavigationControl: false,
+    tileSources: 'https://takaji10.github.io/triebenfeld-maps/pelzucki1896/info.json', crossOriginPolicy: 'Anonymous',
+    maxZoomPixelRatio: 6, visibilityRatio: 0.5, animationTime: 0.5,
+    gestureSettingsMouse: { clickToZoom: false, dblClickToZoom: true }
+  });
+  var world = null;
+  viewer.addHandler('open', function () {
+    world = viewer.world.getItemAt(0); drawAll();
+  });
+
+  var ovs = [];
+  function drawAll() {
+    ovs.forEach(function (o) { viewer.removeOverlay(o.el); });
+    ovs = [];
+    if (document.getElementById('show-refs').checked) {
+      REFS.forEach(function (r) {
+        var d = document.createElement('div');
+        d.className = 'ref-label' +
+          (activeFarm && activeFarm.n === r.n &&
+           activeFarm.x === r.x && activeFarm.y === r.y ? ' sel' : '');
+        d.textContent = r.n;
+        d.title = 'farm ' + r.n + ' - click to make it the active farm';
+        var p = viewer.viewport.imageToViewportCoordinates(
+          new OpenSeadragon.Point(r.x, r.y));
+        viewer.addOverlay({ element: d, location: p,
+          placement: OpenSeadragon.Placement.CENTER,
+          rotationMode: OpenSeadragon.OverlayRotationMode.NO_ROTATION });
+        ovs.push({ el: d, rec: { ref: r } });
+      });
+    }
+    if (document.getElementById('show-yards').checked) {
+      yards.forEach(function (a, k) {
+        var d = document.createElement('div');
+        d.className = 'yard-label' + (k === sel ? ' sel' : '');
+        d.textContent = 'f' + a.farm + ': ' + a.area;
+        d.title = 'farm ' + a.farm + ', yard ' + a.area +
+                  ' - click to select; drag anew and Enter to fix';
+        var p = viewer.viewport.imageToViewportCoordinates(
+          new OpenSeadragon.Point(a.x + (a.w || 0) / 2, a.y + (a.h || 0) / 2));
+        viewer.addOverlay({ element: d, location: p,
+          placement: OpenSeadragon.Placement.CENTER,
+          rotationMode: OpenSeadragon.OverlayRotationMode.NO_ROTATION });
+        ovs.push({ el: d, rec: { idx: k } });
+      });
+    }
+    syncList();
+    showActive();
+  }
+
+  // ---- the active farm ----------------------------------------------------
+  var afEl = document.getElementById('activefarm');
+  function showActive() {
+    if (!activeFarm) {
+      afEl.innerHTML = 'none &mdash; click a red tag on the map';
+      return;
+    }
+    var r = ROWS[activeFarm.n];
+    afEl.innerHTML = 'Farm <b>' + activeFarm.n + '</b>' +
+      (r ? ' &mdash; ' + r.name + ', ' + r.td + ' des ' + r.ts + ' saz in all'
+         : ' (not a statement row)');
+  }
+  function setActive(r) {
+    activeFarm = { n: r.n, x: r.x, y: r.y };
+    if (!drawMode) toggleMode();     // the flow: farm picked, now draw
+    setHint('farm ' + r.n + ' selected &mdash; drag the box around its 1. figure, type the area, Enter');
+    drawAll();
+  }
+
+  // ---- draw mode: the capture layer (proven) ------------------------------
+  var viewerEl = document.getElementById('viewer');
+  var cap = document.createElement('div');
+  cap.className = 'draw-capture';
+  viewerEl.appendChild(cap);
+  var modebtn = document.getElementById('modebtn');
+  function applyMode() {
+    cap.style.display = drawMode ? 'block' : 'none';
+    modebtn.classList.toggle('on', drawMode);
+    modebtn.textContent = drawMode ? 'Pan mode (D)' : 'Draw mode (D)';
+  }
+  function toggleModeTo(on) {
+    drawMode = on;
+    applyMode();
+  }
+  function toggleMode() { toggleModeTo(!drawMode); }
+  modebtn.addEventListener('click', toggleMode);
+
+  var rubber = document.createElement('div');
+  rubber.className = 'rubber';
+  rubber.style.display = 'none';
+  viewerEl.appendChild(rubber);
+  var pendRect = null;
+  var dragging = false, s0 = null, s1 = null;
+  function elPos(ev) {
+    var r = viewerEl.getBoundingClientRect();
+    return { x: ev.clientX - r.left, y: ev.clientY - r.top };
+  }
+  function imgPos(el) {
+    return world.viewerElementToImageCoordinates(new OpenSeadragon.Point(el.x, el.y));
+  }
+  function showRectEl(a, b) {
+    rubber.style.display = 'block';
+    rubber.style.left = Math.min(a.x, b.x) + 'px';
+    rubber.style.top = Math.min(a.y, b.y) + 'px';
+    rubber.style.width = Math.abs(b.x - a.x) + 'px';
+    rubber.style.height = Math.abs(b.y - a.y) + 'px';
+  }
+  function showRectImg(x0, y0, x1, y1) {
+    showRectEl(elFromImg(x0, y0), elFromImg(x1, y1));
+  }
+  function elFromImg(ix, iy) {
+    var v = viewer.viewport.imageToViewerElementCoordinates(
+      new OpenSeadragon.Point(ix, iy));
+    return { x: v.x, y: v.y };
+  }
+  function hideRect() { rubber.style.display = 'none'; }
+  viewer.addHandler('update-viewport', function () {
+    if (pendRect) showRectImg(pendRect.x0, pendRect.y0, pendRect.x1, pendRect.y1);
+  });
+  cap.addEventListener('mousedown', function (ev) {
+    if (!drawMode || !world || ev.button !== 0) return;
+    dragging = true;
+    s0 = elPos(ev); s1 = { x: s0.x, y: s0.y };
+    showRectEl(s0, s1);
+    ev.preventDefault();
+  });
+  window.addEventListener('mousemove', function (ev) {
+    if (!dragging) return;
+    s1 = elPos(ev);
+    showRectEl(s0, s1);
+  });
+  window.addEventListener('mouseup', function (ev) {
+    if (!dragging) return;
+    dragging = false;
+    s1 = elPos(ev);
+    if (Math.abs(s1.x - s0.x) < 9 && Math.abs(s1.y - s0.y) < 9) {
+      pendRect = null; hideRect();
+      return;
+    }
+    var a = imgPos(s0), b = imgPos(s1);
+    pendRect = { x0: Math.min(a.x, b.x), y0: Math.min(a.y, b.y),
+                 x1: Math.max(a.x, b.x), y1: Math.max(a.y, b.y) };
+    showRectImg(pendRect.x0, pendRect.y0, pendRect.x1, pendRect.y1);
+    document.getElementById('area').focus();
+  });
+  cap.addEventListener('wheel', function (ev) {
+    ev.preventDefault();
+    var p = elPos(ev);
+    var ip = imgPos(p);
+    var sc = ev.deltaY < 0 ? 1.25 : 0.8;
+    var ref = viewer.viewport.imageToViewportCoordinates(
+      new OpenSeadragon.Point(ip.x, ip.y));
+    var before = viewer.viewport.viewportToScreenCoordinates(ref);
+    viewer.viewport.zoomBy(sc);
+    viewer.viewport.applyConstraints();
+    var after = viewer.viewport.viewportToScreenCoordinates(
+      viewer.viewport.imageToViewportCoordinates(
+        new OpenSeadragon.Point(ip.x, ip.y)));
+    var dx = after.x - before.x, dy = after.y - before.y;
+    if (dx || dy) viewer.viewport.panBy(
+      viewer.viewport.deltaPointsFromPixels(new OpenSeadragon.Point(-dx, -dy)));
+    viewer.viewport.applyConstraints();
+  });
+
+  // ---- selection: pointer + mousedown interception (proven) --------------
+  function hitOverlay(clientX, clientY, filter) {
+    var best = null, bestD = 1e9;
+    var PAD = 8;
+    ovs.forEach(function (o) {
+      if (!o.rec || !filter(o.rec)) return;
+      var r = o.el.getBoundingClientRect();
+      if (r.width === 0) return;
+      var cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+      var d = Math.hypot(clientX - cx, clientY - cy);
+      var inside = clientX >= r.left - PAD && clientX <= r.right + PAD &&
+                   clientY >= r.top - PAD && clientY <= r.bottom + PAD;
+      if (inside || d < Math.max(r.width, r.height) / 2 + PAD) {
+        if (d < bestD) { bestD = d; best = o; }
+      }
+    });
+    return best;
+  }
+  function setHint(t) {
+    document.getElementById('modehint').innerHTML = t;
+  }
+  function onPress(ev) {
+    try {
+      if (!world || ev.button !== 0) return;
+      if (!viewerEl.contains(ev.target)) return;
+      if (ev.target.closest && ev.target.closest('button, input, a, label')) return;
+      // a yard label first (they sit above the refs)
+      var o = hitOverlay(ev.clientX, ev.clientY, function (r) { return r.idx !== undefined; });
+      if (o) {
+        ev.preventDefault(); ev.stopPropagation();
+        sel = (sel === o.rec.idx ? -1 : o.rec.idx);
+        if (sel >= 0) {
+          var a = yards[sel];
+          area.value = a.area; note.value = a.note || '';
+          if (a.w) {
+            pendRect = { x0: a.x, y0: a.y, x1: a.x + a.w, y1: a.y + a.h };
+            showRectImg(pendRect.x0, pendRect.y0, pendRect.x1, pendRect.y1);
+          }
+          activeFarm = { n: a.farm, x: a.rx || a.x, y: a.ry || a.y };
+          setHint('editing the yard of farm ' + a.farm +
+                  ': drag a new rectangle (Esc to leave it), then Enter');
+        } else {
+          area.value = ''; note.value = '';
+          pendRect = null; hideRect();
+          setHint('click a farm number, then drag the box, then Enter');
+        }
+        drawAll();
+        return;
+      }
+      // a farm-number tag
+      o = hitOverlay(ev.clientX, ev.clientY, function (r) { return r.ref !== undefined; });
+      if (o) {
+        ev.preventDefault(); ev.stopPropagation();
+        setActive(o.rec.ref);
+        return;
+      }
+      // nothing: a miss clears nothing (the drag or pan handles it)
+    } catch (err) {
+      document.getElementById('modehint').textContent =
+        'ERROR in the press handler: ' + err.message;
+    }
+  }
+  document.addEventListener('mousedown', onPress, true);
+  document.addEventListener('pointerdown', onPress, true);
+
+  // ---- saving -------------------------------------------------------------
+  function persist() {
+    try { localStorage.setItem(K_NEW, JSON.stringify(yards)); } catch (e) {}
+  }
+  function syncList() {
+    var ul = document.getElementById('alist');
+    ul.innerHTML = '';
+    yards.forEach(function (a, k) {
+      var li = document.createElement('li');
+      li.className = k === sel ? 'selrow' : '';
+      li.innerHTML = '<span class="v">f' + a.farm + ': ' + a.area + '</span>' +
+        '<span class="xy">(' + a.x + ', ' + a.y + ')' +
+        (a.note ? ' - ' + a.note : '') + '</span>';
+      li.addEventListener('click', function () {
+        sel = (sel === k ? -1 : k);
+        if (sel >= 0) {
+          var yy = yards[sel];
+          area.value = yy.area; note.value = yy.note || '';
+          activeFarm = { n: yy.farm, x: yy.rx || yy.x, y: yy.ry || yy.y };
+          if (yy.w) {
+            pendRect = { x0: yy.x, y0: yy.y, x1: yy.x + yy.w, y1: yy.y + yy.h };
+            showRectImg(pendRect.x0, pendRect.y0, pendRect.x1, pendRect.y1);
+          }
+        } else {
+          area.value = ''; note.value = ''; pendRect = null; hideRect();
+        }
+        drawAll();
+      });
+      var b = document.createElement('button');
+      b.className = 'btn'; b.textContent = '\u00d7';
+      b.addEventListener('click', function (ev) {
+        ev.stopPropagation();
+        yards.splice(k, 1); if (sel === k) sel = -1; persist(); drawAll();
+      });
+      li.appendChild(b);
+      ul.appendChild(li);
+    });
+    document.getElementById('ncount').textContent = '(' + yards.length + ')';
+  }
+  var area = document.getElementById('area'),
+      note = document.getElementById('note');
+  function save() {
+    var a = area.value.trim();
+    if (!activeFarm) { setHint('click a farm number first'); return; }
+    if (sel >= 0) {
+      // edit: geometry if a new rectangle was drawn, area always
+      if (a) yards[sel].area = a;
+      yards[sel].note = note.value.trim();
+      yards[sel].farm = activeFarm.n;
+      yards[sel].rx = activeFarm.x; yards[sel].ry = activeFarm.y;
+      if (pendRect) {
+        yards[sel].x = Math.round(pendRect.x0); yards[sel].y = Math.round(pendRect.y0);
+        yards[sel].w = Math.round(pendRect.x1 - pendRect.x0);
+        yards[sel].h = Math.round(pendRect.y1 - pendRect.y0);
+      }
+      sel = -1;
+    } else {
+      if (!pendRect) { setHint('draw the box around the 1. figure first (Draw mode)'); return; }
+      yards.push({
+        farm: activeFarm.n, rx: activeFarm.x, ry: activeFarm.y,
+        area: a, note: note.value.trim(),
+        x: Math.round(pendRect.x0), y: Math.round(pendRect.y0),
+        w: Math.round(pendRect.x1 - pendRect.x0),
+        h: Math.round(pendRect.y1 - pendRect.y0)
+      });
+    }
+    pendRect = null; hideRect();
+    area.value = ''; note.value = '';
+    persist(); drawAll();
+    // the flow: one farm, one yard — saved, the farm deselects and the
+    // mode returns to pan, ready for the next farm's click
+    activeFarm = null;
+    toggleModeTo(false);
+    setHint('saved &mdash; click the next farm number to mark its yard');
+  }
+  area.addEventListener('keydown', function (ev) {
+    if (ev.key === 'Enter') { ev.preventDefault(); save(); }
+    else if (ev.key === 'Escape') { pendRect = null; hideRect(); }
+  });
+  note.addEventListener('keydown', function (ev) {
+    if (ev.key === 'Enter') { ev.preventDefault(); save(); }
+  });
+  document.addEventListener('keydown', function (ev) {
+    // the single-key toggles are global: the area field only ever carries
+    // digits, '.', '-', '[', '?', ']' — letters mean the shortcut, so the
+    // "typing into a field" guard is dropped for D and Esc. Escape inside
+    // a field still clears a pending rectangle (nothing else it could mean).
+    if (ev.key === 'Delete' && sel >= 0) {
+      yards.splice(sel, 1); sel = -1; persist(); drawAll();
+    }
+    if (ev.key === 'Escape') {
+      if (ev.target === area || ev.target === note) {
+        pendRect = null; hideRect();
+        ev.target.blur();
+        return;
+      }
+      if (sel >= 0) { sel = -1; area.value = ''; note.value = ''; }
+      activeFarm = null; pendRect = null; hideRect();
+      toggleModeTo(false);
+      setHint('click a farm number, then drag the box, then Enter');
+      drawAll();
+    }
+    if (ev.key === 'd' || ev.key === 'D') {
+      ev.preventDefault(); toggleMode();
+    }
+  });
+  ['show-refs', 'show-yards'].forEach(function (id) {
+    document.getElementById(id).addEventListener('change', drawAll);
+  });
+  document.getElementById('del').addEventListener('click', function () {
+    if (sel >= 0) { yards.splice(sel, 1); sel = -1; persist(); drawAll(); }
+  });
+  document.getElementById('export').addEventListener('click', function () {
+    var blob = new Blob([JSON.stringify({ yards: yards }, null, 1)],
+                        { type: 'application/json' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'yards_read.json';
+    a.click();
+  });
+  window.__yardmap = { alive: true, count: function () { return ovs.length; } };
+})();
+</script>
+<script>
+(function () {
+  document.addEventListener('mousedown', function () {
+    var h = document.getElementById('modehint');
+    if (h && !window.__yardmap) h.textContent = 'MAIN SCRIPT NOT ALIVE — tell Claude';
+  }, true);
+})();
+</script>
+</body>
+</html>

@@ -3963,6 +3963,134 @@ footer on every page. Changed, in both languages:
   it — Kozłowski's map, its legend, the corrected places and all of
   today's other rulings went live.
 
+## 2026-10-31: Pełzucki 1896, the third map, and the labelling page's two conveniences (branch `pelzucki1896`, not published)
+
+- **Named by the editor** ("I want to add a new map to the project"):
+  the Szreniawa museum's unit AN-4456, file `4456_full.jpg` — the plan of
+  the lands that passed into the ownership of the peasants of Łazińskie
+  Holendry, gmina Tromczyn (Trąbczyn), Słupca uezd, Kalisz Governorate:
+  the map the gazetteer cites as **Pełzucki 1896** (`glinianki.yml`). The
+  unit holds the five sheets of the plan and the editor's mosaic of them;
+  asked which image is the map of record, the editor named **the mosaic**
+  (`4456_full.jpg`, 21,715 × 14,206) — against ADDING_A_MAP's rule that
+  the original is the file whose size equals MapWarper's, which the
+  procedure now records as the editor's to overrule.
+- **Identified from the sheet itself.** The editor's transcriptions in the
+  unit (legend, certification texts, explication) give the title
+  (ПЛАНЪ земель поступившихъ въ собственность крестьянъ селенія
+  ЛАЗИНСКІЕ ГОЛЕНДРЫ...), the surveyor (Г. А. Пелзуцкій, 1896, staff land
+  surveyor of the 2nd class — the surname's reading uncertain,
+  NEEDS_CONFIRMATION), the scale (**1:4200 in Russian measure**), the
+  certified copy's dates (copy certified at Kalisz 27 March 1898, issued
+  with the seal 19 July 1900) and the five sheets («на пяти листахъ»).
+  The register's entry is filled from them; the English title is the
+  folder's own translation, the German Claude's.
+- **The MapWarper points were made on sheet 4456-4.jpg** (map 104898,
+  "Łazińskie Holendry ca. 1896", 7454 × 7392), not on the mosaic: the
+  register now carries `mapwarper_image` and `mapwarper_fit:
+  [scale, tx, ty]` and `pipeline/maps/mapwarper.py` transforms every
+  fetched point into the mosaic's pixels. The fit is found by patch
+  correlation in `scratch/map4456/` (not committed); the matcher's three
+  wrong takes before it worked are recorded as a lesson (WORKING_NOTES,
+  "Correlation matchers: prove them on a self-match first").
+- **The labelling page's two conveniences** (the editor's word: "instead
+  of filling everything in manually, I want to be able to choose the
+  label name, and then you fill in the type of place"; "add the place
+  name add section to the top of the column"):
+  - choosing a gazetteer place fills the label's type (`shows`) from the
+    place's `kind` (a village for a village, water for a stream —
+    KIND2SHOWS in `label_page.py`); the last step keeps only the form:
+    the type shown as filled in, the form field focused, **Enter saves**
+    (a type key overrides). The editor's correction the same day: the
+    first take saved the label the instant the trace ended, which took
+    the moment for typing the form as written on the map away — "I need
+    to be able to still add 'Form as written on the map'". The type
+    choice is what is saved, not the pause;
+  - "+ New label" and its form moved to the top of the panel, above the
+    To find list. The saved format and the import are unchanged.
+- **The texts on the sheet** (the editor's word: "make sure the
+  information can be viewed in English, Russian, and German"): the title
+  block, the certification texts, the description of adjoining lands
+  (Описаніе смежныхъ земель — the boundary walk in 20 stretches keyed by
+  stamped letters А–У, two sections, the uezd groups; added the same day
+  at the editor's word from `legend_2_transcription.md` /
+  `legend_2_translation_en.md` — the letter markers of rows 16–18 corrected
+  to the editor's revised transcription the same afternoon (П–А, Р–Р, С–С;
+  the first take's "Р [?]" mis-stamp guess withdrawn) — and the
+  explication (the land-area
+  table, basic allotment 870 des. 1454 sq. sazh., additional 197 des.
+  2218 sq. sazh., total 1068 des. 1272 sq. sazh.; the arithmetic checked)
+  are carried in `maps/pelzucki1896/texts.yml` and shown on the map's
+  page — the Russian transcription as transcribed, the page's translation
+  beside it line by line, the two tables as tables with the original's
+  column heads where it has them; the notes explain desyatinas, square
+  sazhens and the stamped boundary letters. New i18n keys;
+  `map_pages.py` carries `texts` and `title_de`; the German
+  standfirst uses the German title where the register has one. A map
+  needs nothing: the section shows only where `texts.yml` exists.
+- **Tiles cut and published** into triebenfeld-maps/pelzucki1896 (1,624
+  files, 60 MB); the register's short entry merged into the full one (the
+  duplicate-key trap struck once: the scripts read the shadowing short
+  entry and the tiles step stopped until merged). The control points
+  fetched from MapWarper 104898 and transformed by the fit; the fit of the
+  four transformed points **RMS 2.71 m** (residuals 1.0–3.7 m), the
+  annotation live, warp.html?map=pelzucki1896 up. The labelling page
+  served at http://localhost:8778/pelzucki1896/ (a stale server of an
+  earlier session holds 8765); the editor's marks are the next step.
+- **The editor's seven marks imported** the same evening
+  (`labels_pelzucki1896_20261031-2053.json`): Glinianki, Dziadolina,
+  Studzianka, Trąbczyńskie Nowe Olędry (as **Новые Голендры**), Noga,
+  Grabina — and one **new place, Wypalanki** (Выпалѣнки, the felled forest
+  of boundary-list row 14; entry to be drafted at the editor's word). New
+  map appearances added for Dziadolina, Studzianka, Noga and Grabina;
+  positions written (RMS 2.71 m — for the marks on the mosaic's northern
+  sheets an extrapolation from sheet 4's points: tens of metres, not 2.7).
+  **Glinianki**: the mark lands at 52.117 N, 17.905 E, some 13 km from the
+  entry's coordinates (52.144, 17.768) — the entry's coordinates belong to
+  another Glinianki or are wrong (NEEDS_CONFIRMATION; the entry's `maps:`
+  item's form, empty until now, set to Glinianki as typed). A correction
+  of the session's own note: the "ground extent" first reasoned from was
+  sheet 4's warped bbox only; the mosaic reaches further.
+- **The boundary walk on the labelling page** (the editor's idea: "I can
+  mark the places where the letters occur, and also draw the polylines
+  between the letters. But give me the option to skip pairs; it looks
+  like T-Y occur in a different location (they're drawn in a sub-map)"):
+  where the map's texts carry the adjoining-lands list, the page grows a
+  **Boundary walk** section — **Mark the letters** steps the stamped
+  capitals А–У in list order (edit the letter in the box for a stamp the
+  sequence doesn't name; <kbd>S</kbd> leaves one unmarked), **Walk the
+  boundary** steps the twenty stretches of the list, each traced from its
+  first letter to its last, or skipped (<kbd>S</kbd> or the button) — a
+  skipped stretch is recorded as skipped, with its description, which is
+  the shape of the sub-map's Т–У. The import takes the new kinds: a letter
+  (a point, cropped like a name), a stretch (a trace, no crop — a line is
+  not lettering — and no gazetteer linking); `labels.yml` carries
+  `role: letter` / `role: boundary` with the letter or the from/to/n and
+  `skipped:`. On the map page the letters show as a chip row and the
+  stretches as a list under "The boundary walk" (German Der Grenzverlauf;
+  skipped marked "drawn in the sub-map"), the viewer draws the stretches
+  as dashed lines over the map with the from-letter's square at the start,
+  and clicking a row or chip takes the map there (a stretch's Locate fits
+  the whole line). The point of the walk: the 1896 perimeter of the
+  peasants' allotment as a drawable thing for the interactive map, and the
+  check of the list's rows 16–18 against the stamps.
+- **The key (Объясненіе знаковъ) on the map page** (the editor's word:
+  "Make a legend on the map page similar to the Kozłowski 1861 map"): the
+  ten blocks with the editor's own colour codes — Buildings 946837,
+  Gardens 747969, Arable land c59e74, Meadows ac9e85, Pastures ae9e81,
+  Forest brush ab9175, Forest 816c57, Cleared woodland aa9e83 (the light
+  blue streaks drawn, the wet pattern with a lighter ink), Unusable land
+  c0976d, Water b0978a — the labels from the editor's transcription
+  (`map_colours_transcription.md`; rows 5 and 6b keep their [?]), the
+  English the folder's translation, the German Claude's. The key's
+  original text is **Russian**, so the legend data now carries `lang:` and
+  `orig:` (the layout falls back to Kozłowski's `pl` fields); the gap row
+  between legend groups is emitted only after a group (a flat legend gets
+  no stray rules). The buildings block carries the key's own sign (a small
+  dark footprint, new CSS pattern). The outline colours are the fills
+  darkened (0.85/0.62), the streak ink chosen light blue (#a9c3d2) —
+  Claude's, to be checked by the editor like the rest of the legend.
+
 ## 2026-10-31: "always tag a Zelmer/Celmer/Zellmer" recorded as standing (branch `mentions-robustness`, not published)
 
 - The editor's rule went into the ledger (`EDITORIAL_RULES.md`, "Rulings the

@@ -12,8 +12,7 @@ location:
   precision: identified
   lat: 52.143924
   lon: 17.768239
-text_en: Isolated dwellings northwest of Grabina. Only one map noted this feature
-  (Pełzucki 1896).
+text_en: Isolated dwellings northwest of Grabina. Only one map noted this feature (Pełzucki 1896).
 names:
 - form: Glinianki
   year: null
@@ -22,7 +21,8 @@ names:
 aliases: []
 maps:
 - map: pelzucki1896
-  form: null
+  form: Glinianki
   note: Only one map noted this feature
+  label: pelzucki1896-002
 footnotes: []
 review: []

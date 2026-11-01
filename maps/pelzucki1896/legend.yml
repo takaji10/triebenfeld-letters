@@ -1,0 +1,66 @@
+# The legend of Pełzucki 1896, "Объясненіе знаковъ" (the key to the colours
+# and signs), on sheet 1 of the plan (read from the editor's transcription,
+# map_colours_transcription.md / map_colours_translation_en.md, 2026-10-31;
+# rows 5 and 6b carry the transcription's [?] uncertain readings).
+# The ten `fill` codes are the editor's, given 2026-10-31 (Buildings,
+# Gardens, Arable land, Meadows, Pastures, Forest brush, Forest, Cleared
+# woodland, Unusable land, Water — row 1 of the key, Строенія и огороды,
+# split into its two halves, and row 6's split box likewise). Every other
+# colour is derived or sampled: `edge` and `line` are the fill darkened
+# (0.85 / 0.62, the uniform thin outline the digital table draws), the
+# building outline's ink and the cleared woodland's streaks are sampled from
+# the key photo / chosen light blue as the editor describes them — to be
+# checked by the editor like the rest of the legend. `pattern` is what the
+# block adds to the wash: building (a small dark footprint on the buildings
+# block, the key's own sign), wet (the streaks: light blue dashes on the
+# cleared woodland).
+# Rendered on the map page by pipeline/maps/map_pages.py. The original text
+# is Russian (`lang: ru`, items' `orig`), not Polish as Kozłowski's legend's.
+lang: ru
+title:
+  orig: Объясненіе знаковъ
+  en: Explanation of the signs
+  de: Erklärung der Zeichen
+rows:
+- group: null
+  items:
+  - orig: Строенія
+    en: Buildings
+    de: Gebäude
+    swatch: {fill: '#946837', edge: '#7e582f', line: '#5c4022', pattern: building, ink: '#5f4a33'}
+  - orig: Огороды
+    en: Gardens
+    de: Gemüsegärten
+    swatch: {fill: '#747969', edge: '#636759', line: '#484b41'}
+  - orig: Пашня
+    en: Arable land
+    de: Ackerland
+    swatch: {fill: '#c59e74', edge: '#a78663', line: '#7a6248'}
+  - orig: Луга
+    en: Meadows
+    de: Wiesen
+    swatch: {fill: '#ac9e85', edge: '#928671', line: '#6b6252'}
+  - orig: Пастбища
+    en: Pastures
+    de: Weiden
+    swatch: {fill: '#ae9e81', edge: '#94866e', line: '#6c6250'}
+  - orig: Лѣсная поросль [?]
+    en: Forest brush [?]
+    de: Waldgebüsch [?]
+    swatch: {fill: '#ab9175', edge: '#917b63', line: '#6a5a49'}
+  - orig: Лѣсъ
+    en: Forest
+    de: Wald
+    swatch: {fill: '#816c57', edge: '#6e5c4a', line: '#504336'}
+  - orig: Сѣчина [?]
+    en: Cleared woodland [?]
+    de: Kahlschlag [?]
+    swatch: {fill: '#aa9e83', edge: '#90866f', line: '#696251', pattern: wet, ink: '#a9c3d2'}
+  - orig: Неудобія
+    en: Unusable land
+    de: Ödland
+    swatch: {fill: '#c0976d', edge: '#a3805d', line: '#775e44'}
+  - orig: Вода
+    en: Water
+    de: Wasser
+    swatch: {fill: '#b0978a', edge: '#968075', line: '#6d5e56'}

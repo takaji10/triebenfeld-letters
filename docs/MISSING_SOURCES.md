@@ -215,7 +215,6 @@ The maps the gazetteer cites and the edition does not hold. They are not all wan
 | Map | Places citing it | Headings |
 |---|---|---|
 | Blaeu 1665 | 1 | Trąbczyn |
-| Łukom 1766 | 11 | Budy, Grądzeń, Huta Łukomska, Imielno, Łomów, Łukom, Myszaków, Myszakówek, Rosciszewo, Stawisko, Studzianka |
 | von Pfau 1770 | 15 | Drzewce, Koczogowa, Kopojno, Kuzoi, Łazy, Łomów, Myszaków, Osiny, Rosciszewo, Sadornicz, Szetlewek, Trąbczyn, Trąbczyńskie Stare Olędry, Wrąbczyn, Wrąbczynek |
 | Trąbczyn 1790 | 4 | Łazy, Szetlewek, Tarszew, Trąbczyńskie Stare Olędry |
 | Perthées 1798 | 13 | Biskupice, Grądzeń, Kopojno, Łomów, Łukomskie Olędry, Myszakówek, Osiny, Smoleniec, Szetlew, Trąbczyn, Trąbczyńskie Stare Olędry, Wrąbczynkowskie Holendry, Wymysłów |
@@ -231,8 +230,7 @@ The maps the gazetteer cites and the edition does not hold. They are not all wan
 | Zagórów 1841 | 1 | Kościołków |
 | Richter 1843 | 29 | Beźsług, Bieganszczyzna, Osada, Budy, Czarnybród, Długa Górka, Grabina, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Imielanka, Imielno, Jeziorko, Koszelewska Łąka, Łazińskie Olędry, Łukom, Łutow, Małgorzatów, Michalinów Trąbczyński, Oleśnica, Przybysław, Rosciszewo, Skokamskie Olędry, Stawisko, Tarszew, Trąbczyn Dworski, Włodzimirów, Wrąbczyn, Wygoda, Zagórów |
 | Chrzanowski 1858 | 6 | Biskupice, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Kopojno, Koszelewska Łąka |
-| Kozłowski 1861 | 13 | Czerwonka, Dziadolina, Garbin, Laski, Łazińskie Olędry, Maradz, Michalinów Trąbczyński, Noga, Przycierz, Trzcianne, Wielki-Bór Obręb, Włodzimirow Obręb, Zwierzyniec |
-| Pełzucki 1896 | 1 | Glinianki |
+| Pełzucki 1896 | 6 | Dziadolina, Glinianki, Grabina, Noga, Studzianka, Trąbczyńskie Nowe Olędry |
 | Pełzucki 1901 | 5 | Przybysław, Trąbczyn F, Trąbczyn G, Trąbczyn, Włodzimirów |
 | Wreschen 1901 | 5 | Kopojno, Myszaków, Podbiel, Stanisławów, Wrąbczynek |
 | Trójwiorstówki 1914 | 1 | Dziadolina |

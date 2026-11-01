@@ -18,7 +18,10 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    the file on J: if it is not plain which. If the map is on MapWarper, the
    `.kml` beside the image names its number; say so if it is not.
 2. **Says how it is drawn** if it is unusual: drawn with south at the top
-   (Łukom 1766), a sketch not to scale, a sheet of a larger map.
+   (Łukom 1766), a sketch not to scale, a sheet of a larger map. **Says
+   which image is the map of record** when a unit holds more than one
+   (Pełzucki 1896: the five sheets and the editor's mosaic of them; the
+   mosaic was named, and it is the original in the register).
 3. **Marks it** on the labelling page Claude opens (below): for each name,
    click the place's symbol, trace the baseline of the lettering (the line the letters stand on) in
    reading order, press the
@@ -27,7 +30,12 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    the second line's start). **Save** gives a file
    (`labels_<map>_<date>.json`) in the Downloads folder; tell Claude its name.
    Work is kept in the browser between sittings, and a saved file can be
-   loaded again to go on.
+   loaded again to go on. **Where the map's texts carry the
+   adjoining-lands list, the page also has the boundary walk**: mark the
+   stamped letters of the list, then walk its stretches — each traced
+   from its first letter to its last, or skipped (<kbd>S</kbd>; a stretch
+   drawn in a sub-map is skipped, recorded as skipped with its
+   description).
 4. **Rules** on what Claude asks afterwards: a form typed differently from
    the gazetteer's, a new place, a control point that does not fit.
 
@@ -56,7 +64,15 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    MapWarper skips this and is placed from the marks in step 7). Then
    `python pipeline/maps/georef.py <map>`: fits them, reports each point's
    error in metres, and writes `triebenfeld-maps/<map>/georef.json`, the
-   annotation Allmaps warps the map by.
+   annotation Allmaps warps the map by. **A georeference made on another
+   image than the map of record** (the editor's points for Pełzucki 1896
+   are in sheet 4456-4.jpg's pixels, the map of record the mosaic): the
+   register names it in `mapwarper_image` and gives
+   `mapwarper_fit: [scale, tx, ty]`, the mapping of that image's pixels
+   into the original's; mapwarper.py applies it to every point it fetches.
+   Find the fit by patch correlation (scratch/map4456/, the method in
+   maps/pelzucki1896/notes.md), and check the matcher on a self-match
+   before trusting any of its scores.
 4. **Publish the tiles.** Commit and push triebenfeld-maps; wait for its
    Pages build; check `https://takaji10.github.io/triebenfeld-maps/<map>/
    info.json` loads and `.../warp.html?map=<map>` lays the map over
@@ -123,3 +139,25 @@ session (WORKING_NOTES, "Working with the editor").
 - **The uploaded file, not the scan.** MapWarper's points are in the pixels
   of the image uploaded there; any other copy (another size, another turn)
   puts every point in the wrong place. Compare the sizes first.
+- **A duplicate key in maps.yml is silent.** A second key of the same name
+  shadows the first (the trap recorded for literature/index.yml, met again
+  when the short `pelzucki1896` entry was not merged into the new one: the
+  scripts read `original: null` and the tiles step stopped, though the file
+  looked right). When a map already in the register is brought in, merge
+  into the existing entry.
+- **The texts on the sheet.** A map whose sheet carries texts worth showing
+  (a title block, certification texts, an explication) gets them in
+  `maps/<map>/texts.yml` — the transcription and its translations, read by
+  map_pages.py and rendered by the map layout's "Texts on the sheet"
+  section; the page's language carries its own translation, the Russian
+  stands as transcribed (Pełzucki 1896, the pattern).
+- **The labelling page's type from the gazetteer** (the editor's word,
+  2026-10-31): choosing a place fills the label's type from the place's
+  `kind`, and the last step keeps only the form — the type is shown as
+  filled in, the form field focused; **Enter saves**, a type key overrides
+  the gazetteer's answer. The form as written on the map is typed at this
+  pause (the editor's word, when the first take saved the label at once
+  and took the typing moment away: "I need to be able to still add 'Form
+  as written on the map'"). The place-name form stands at the top of
+  the panel. No editor action needed; the import and the saved format are
+  unchanged.

@@ -21,7 +21,14 @@ from common import (GAZETTEER_DIR, ROOT, Flow, die, dump_yaml, header_of, load_g
 
 SHOWS = {"village", "oleder-settlement", "folwark", "tavern", "water-mill", "windmill", "forest",
          "field", "water", "road", "church", "other", "unsure"}
-FIELDS = ["id", "place", "new_place", "form", "point", "trace", "height", "shows", "note", "refs"]
+# `role` is absent (a place label, the original kind) or "letter" / "boundary":
+# the stamped letter of the adjoining-lands list (a point at the stamp) and a
+# stretch of the boundary walk (a trace from one letter to the next, or
+# skipped: true where the stretch is drawn in the sub-map). A letter keeps its
+# place rules off; a boundary stretch gets no crop (a line is not lettering)
+# and no gazetteer item.
+FIELDS = ["id", "role", "place", "new_place", "form", "point", "trace", "height",
+          "shows", "note", "refs", "letter", "from", "to", "n", "skipped"]
 MAX_W, MAX_H = 600, 200
 WHITE = [255, 255, 255]
 
@@ -43,13 +50,29 @@ def validate(m, data, gaz):
         elif lid in seen:
             errs.append(f"{where}: duplicate id")
         seen.add(lid)
-        if lb.get("place"):
-            if lb["place"] not in gaz:
-                errs.append(f"{where}: place {lb['place']!r} is not in the gazetteer")
-        elif not lb.get("new_place"):
-            errs.append(f"{where}: neither a place nor a new_place")
-        if lb.get("shows") not in SHOWS:
-            errs.append(f"{where}: shows {lb.get('shows')!r} is not one of {sorted(SHOWS)}")
+        role = lb.get("role") or "place"
+        if role not in ("place", "letter", "boundary"):
+            errs.append(f"{where}: role {role!r} is not place, letter or boundary")
+        elif role == "letter":
+            if not lb.get("letter"):
+                errs.append(f"{where}: a letter label needs its letter")
+            if lb.get("trace"):
+                errs.append(f"{where}: a letter label takes a point, not a trace")
+        elif role == "boundary":
+            if not lb.get("from") or not lb.get("to"):
+                errs.append(f"{where}: a boundary stretch needs its from and to letters")
+            if not lb.get("trace") and not lb.get("skipped"):
+                errs.append(f"{where}: a boundary stretch needs a trace or skipped: true")
+            if lb.get("skipped") and lb.get("trace"):
+                errs.append(f"{where}: a boundary stretch is drawn or skipped, not both")
+        else:
+            if lb.get("place"):
+                if lb["place"] not in gaz:
+                    errs.append(f"{where}: place {lb['place']!r} is not in the gazetteer")
+            elif not lb.get("new_place"):
+                errs.append(f"{where}: neither a place nor a new_place")
+            if lb.get("shows") not in SHOWS:
+                errs.append(f"{where}: shows {lb.get('shows')!r} is not one of {sorted(SHOWS)}")
         for name in ("point", "trace"):
             v = lb.get(name)
             if v is None:
@@ -65,7 +88,8 @@ def validate(m, data, gaz):
                     break
         if lb.get("trace") is not None and len(lb["trace"]) < 2:
             errs.append(f"{where}: a trace needs at least 2 points")
-        if lb.get("trace") and not isinstance(lb.get("height"), (int, float)):
+        if (lb.get("trace") and not isinstance(lb.get("height"), (int, float))
+                and role == "place"):
             errs.append(f"{where}: a trace needs a band height")
     return errs
 
@@ -205,6 +229,8 @@ def main():
     cdir.mkdir(parents=True, exist_ok=True)
     made = 0
     for lb in labels:
+        if lb.get("role") == "boundary":
+            continue    # a boundary line is not lettering: no crop
         if lb["trace"]:
             c = crop_trace(im, lb["trace"], lb["height"], lb.get("breaks"))
         elif lb["point"]:
@@ -217,7 +243,6 @@ def main():
         made += 1
         print(f"  crop {lb['id']}: {c.width} x {c.height}, {out.stat().st_size} bytes")
     print(f"{len(labels)} labels, {made} crops -> {cdir}")
-
     diffs, news = [], []
     # A second import of the same map: unlink the labels the editor has since
     # deleted, and reuse the item already linked to a label (never add a second).
@@ -231,6 +256,8 @@ def main():
                 del i["label"]
             dump_yaml(path, g, header_of(path))
     for lb in labels:
+        if lb.get("role") in ("letter", "boundary"):
+            continue    # letters and stretches belong to the boundary walk, not to places
         if lb["new_place"] and not lb["place"]:
             news.append(f"{lb['id']}: new place {lb['new_place']!r} (form {lb['form']!r})")
         if not lb["place"]:
