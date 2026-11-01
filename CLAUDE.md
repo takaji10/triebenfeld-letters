@@ -303,6 +303,32 @@ so check them.
   AN-4456; in progress 2026-10-31, branch `pelzucki1896`). **To add a map,
   follow `docs/ADDING_A_MAP.md`.**
 
+- **Dorow (1843)** (`dorow1843`, added 2026-11-01, **not published**):
+  Wilhelm Dorow, *Erlebtes aus den Jahren 1813-1820*, part II (Leipzig
+  1843), the excerpt the editor chose - the memoir "Pohlen unter Friedrich
+  II. und Friedrich Wilhelm II." which the war councillor Peter August von
+  Triebenfeld submitted to Dorow in 1813, printed pp. 13-24 with its title
+  leaf and Goethe motto as the front (13 passages, both languages). The
+  longest thing Triebenfeld is known to have written, and in his own words:
+  the classifications and the giveaway of South Prussia's estates told by
+  the official who did the work, in the third person; the Materialien
+  (1861, pp. 205-216) reprints it only in extract, Łukasiewicz (1997)
+  retells it, and its Hardenberg verdict of 1816 closes the excerpt. The
+  editor's PDF (the SBB digitisation, PPN 167107372X, Public Domain Mark,
+  image-only) had sat in Downloads since 2026-10-19 unprocessed. Read by
+  Tesseract 5.5.3 with the **`script/Fraktur` model from tessdata_best**
+  (fetched into `%LOCALAPPDATA%\Tesseract\tessdata`; the deu model there
+  does not read Fraktur), pages at 300 dpi, doubtful lines as 900 dpi bands;
+  the lunaroute converter unreachable this session, so the Materialien's
+  reprint of the same memoir served as the human witness (line against
+  line, `difflib`); nine readings on the editor's spot sheet
+  (`scratch/dorow1843_sheet.py`). The memoir's figures are Triebenfeld's;
+  it does not print the story of his own estate (Łukasiewicz's telling,
+  whose "35 000" the memoir's "etwa 3500 Thlr." corrects). 60 index hits,
+  every spelling already ruled; one hand-made link (pp. 18-19 to the
+  Prince's letters 104, 108, 112). `docs/LITERATURE_PLAN.md`, section 31.
+  Read `literature/dorow1843/notes.md` first. The Fraktur lesson is in
+  WORKING_NOTES.
 - **Rostworowski (1918)** (`rostworowski1918`, added 2026-10-26, branch
   `rostworowski1918`, **published 2026-10-26**): Michał Rostworowski
   (ed.), *Materyały do dziejów Komisyi Rządzącej z r. 1807*, T. 1,

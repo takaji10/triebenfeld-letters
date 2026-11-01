@@ -715,6 +715,25 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] **You:** a look at the work's page and the excerpt, then publication
       at your word. **Published 2026-10-22** ("Publish"): the "Build and
       deploy" run succeeded and the pages answer on the live site.
+- [x] Dorow (1843), the memoir of Triebenfeld, found and brought in
+      (2026-11-01; LITERATURE_PLAN.md, section 31): the PDF of the SBB
+      digitisation of *Erlebtes aus den Jahren 1813-1820*, part II, had been
+      downloaded 2026-10-19 with the first literature set and left
+      unprocessed - the memoir "Pohlen unter Friedrich II. und Friedrich
+      Wilhelm II." that the volume prints from Triebenfeld's manuscript of
+      1813 (printed pp. 13-24, with its title leaf and Goethe motto as the
+      front) is the longest thing he is known to have written, in his own
+      words; the Materialien reprints it only in extract and Łukasiewicz
+      retells it. Read by Tesseract with the Fraktur model, checked line
+      against line against the Materialien's reprint; nine readings on the
+      editor's spot sheet; one hand-made link to the Prince's three letters
+      (104, 108, 112). Built and verified; not published.
+- [x] **You:** the spot sheet "Dorow (1843), Triebenfeld's memoir: the
+      doubtful readings" — answered 2026-11-01 (eight of nine rows: 5
+      Procent, gehauset, Officianten, Würkungskreis, bewürken, kukken,
+      Michelis, Pohlen; the cross-reference row left open in
+      NEEDS_CONFIRMATION), the rulings worked in and everything rebuilt.
+- [ ] **You:** a look at the work's page, then publication at your word.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 

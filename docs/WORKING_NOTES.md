@@ -2903,6 +2903,44 @@ The editor's ruling of the day, in three parts; the work is in the branch
   newcomer. Reader-facing English says "initials"; the German keeps "Paraphe",
   the term of the German finding aids; `docs/GOVERNMENT_FILES.md` and the
   notes keep "paraph" as the working term.
+
+## OCR of a Fraktur print (2026-11-01)
+
+The Dorow (1843) sitting's lessons, for the next pre-1850 German print:
+
+- **Tesseract needs the Fraktur model.** The `deu` traineddata of
+  `%LOCALAPPDATA%\Tesseract\tessdata` (the newspaper work's install) does not
+  read Fraktur type; it was only ever used on 20th-century Antiqua. The model
+  that reads it is `script/Fraktur` from tessdata_best, now fetched into the
+  same directory beside `deu`, `pol` and `pol-std`, so
+  `pipeline/ocr.py`'s `tessdata()` finds it: `read(img, lang='Fraktur')`.
+- **The Fraktur model's standing noise** (learned over 12 pages of Dorow):
+  the long s comes through as `ſ` (transcribe `s`); the capital `J` of the
+  face is the letter I (transcribe `I`, as the editor's own Materialien file
+  does); the `ch` digraph is often dropped (`niht`, `durh`, `beschützen`);
+  the `tz` ligature is misread as `ß` (`benußt` for benutzt, `Saß` for
+  Satz, `Küß` for Kütz) or as `st` (`Eigennust`); stray marks ride at line
+  ends. Restoring `ch` and `tz` by German orthography is safe; what the
+  passes genuinely disagree on goes to a spot sheet.
+- **A clean reprint of the same text beats a second OCR engine.** The
+  Materialien (1861) reprints Dorow's memoir in extract in the editor's own
+  file; a `difflib` word-diff of the draft against the reprint settled most
+  doubts in a stroke and exposed the 1861 compiler's own additions, slips
+  and normalisations at the same time. Where a session cannot reach a second
+  engine (the lunaroute converter takes only a URL or base64, and the
+  sandbox could reach neither the SBB's IIIF nor a local server), look first
+  for a reprint of the text already in the project.
+- **Image-only PDFs split by page** (`fitz.insert_pdf` one page at a time)
+  are the way to feed a converter later; and a 245 MB digitisation PDF
+  renders its 240 images fine with `get_pixmap(dpi=300)` page by page.
+- **Unnumbered leaves consume printed numbers in some 1843 volumes**: the
+  memoir's title and motto leaves are the volume's pp. 11-12 without printed
+  numbers, the contents list the piece at p. 11, and the text begins at
+  p. 13. Check the neighbour pieces' numbers before assuming an offset.
+- **Page numbers of this print stand at the top of the page**, so a page's
+  own OCR begins with the number - handy for checking an offset, but strip
+  it before transcribing; the signature marks at the page foot ("I 9",
+  "I 10") are furniture, not text.
 - **Not done, offered:** a read of the other pages for descriptions that exist
   for their own sake (the literature's, newspapers' and places' account /
   brief / summary say the same thing three times; "Scans"-style handling

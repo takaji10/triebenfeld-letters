@@ -3556,6 +3556,195 @@
   ]
  },
  {
+  "slug": "dorow1843",
+  "visible": true,
+  "kind": "collection",
+  "title": "Erlebtes aus den Jahren 1813-1820. Zweiter Theil (the memoir of the war councillor von Triebenfeld)",
+  "title_en": "Experiences of the years 1813-1820. Part two (the memoir of the war councillor von Triebenfeld)",
+  "cite": "Dorow (1843)",
+  "author": "Wilhelm Dorow",
+  "author_sort": "Dorow, Wilhelm",
+  "published": "Leipzig, 1843",
+  "year": 1843,
+  "language": "de",
+  "english_by": "Claude",
+  "account_en": "The second part of Wilhelm Dorow's \"Erlebtes aus den Jahren 1813-1820\" (Leipzig 1843), a collection of memoirs and acts of the years of the wars of liberation, printed from papers in Dorow's keeping. The excerpt is the piece the volume prints from a manuscript the war councillor Peter August von Triebenfeld submitted to Dorow in 1813 - his memoir \"Pohlen unter Friedrich II. und Friedrich Wilhelm II.\", the \"Skizze, wie Pohlen von Preußen benutzt werden\" - the longest thing Triebenfeld is known to have written, and in his own words: the founding of the classifications and the giveaway of the estates of South Prussia told by the official who did the work, in the third person, with Hoym's fall, the pasquils of Held, the credit schemes and the rigged valuations, and Hardenberg's verdict of November 1816 on the whole. Dorow prints it with a title leaf (\"Siehe I. Theil Seite 19\", where he tells how the memoir came to him) and a Goethe motto, and closes it with Hardenberg's words. The Materialien (1861) reprinted the memoir in extract (pp. 205-216) from this printing; where the two differ, the differences are the 1861 compiler's - the second motto, the pointers in parentheses, the occasional omission - and the documents of the edition stand against both where their figures differ (the standing rule).",
+  "account_de": "Der zweite Teil von Wilhelm Dorows \"Erlebtes aus den Jahren 1813-1820\" (Leipzig 1843), eine Sammlung von Memoiren und Akten der Befreiungskriege, gedruckt aus Papieren in Dorows Besitz. Der Auszug ist das Stück, das der Band nach einer Handschrift druckt, die der Kriegsrat Peter August von Triebenfeld 1813 bei Dorow einreichte - seine Denkschrift \"Pohlen unter Friedrich II. und Friedrich Wilhelm II.\", die \"Skizze, wie Pohlen von Preußen benutzt werden\" - das Längste, was von Triebenfeld bekannt ist, und in seinen eigenen Worten: die Einrichtung der Klassifikationen und die Verschenkung der Güter Südpreußens erzählt von dem Beamten, der sie besorgte, in der dritten Person, mit Hoyms Sturz, den Pasquillen Helds, den Kreditplänen und den gefälschten Taxen und mit Hardenbergs Urteil vom November 1816 über das Ganze. Dorow druckt sie mit einem Titelblatt (\"Siehe I. Theil Seite 19\", wo er erzählt, wie die Denkschrift zu ihm kam) und einem Goethe-Zitat und schließt sie mit Hardenbergs Worten. Die Materialien (1861) druckten die Denkschrift im Auszug (S. 205-216) nach diesem Druck nach; wo beide abweichen, sind die Abweichungen des Herausgebers von 1861 - das zweite Zitat, die eingeklammerten Hinweise, die gelegentliche Auslassung -, und die Dokumente der Ausgabe stehen, wo ihre Zahlen abweichen, gegen beide (die stehende Regel).",
+  "brief_en": "Dorow prints, from a manuscript Triebenfeld gave him in 1813, the war councillor's own memoir on the classification and giveaway of the estates of South Prussia - the longest thing he is known to have written.",
+  "brief_de": "Dorow druckt nach einer Handschrift, die Triebenfeld ihm 1813 einreichte, die eigene Denkschrift des Kriegsrats über Klassifikation und Güterverschenkung Südpreußens - das Längste, was von ihm bekannt ist.",
+  "passages": [
+   {
+    "key": "front",
+    "part": null,
+    "page": null,
+    "de": {
+     "line": 1,
+     "chars": 387
+    },
+    "en": {
+     "line": 1,
+     "chars": 385
+    }
+   },
+   {
+    "key": "13",
+    "part": null,
+    "page": "13",
+    "de": {
+     "line": 17,
+     "chars": 1297
+    },
+    "en": {
+     "line": 17,
+     "chars": 1264
+    }
+   },
+   {
+    "key": "14",
+    "part": null,
+    "page": "14",
+    "de": {
+     "line": 24,
+     "chars": 1708
+    },
+    "en": {
+     "line": 24,
+     "chars": 1683
+    }
+   },
+   {
+    "key": "15",
+    "part": null,
+    "page": "15",
+    "de": {
+     "line": 29,
+     "chars": 1646
+    },
+    "en": {
+     "line": 29,
+     "chars": 1614
+    }
+   },
+   {
+    "key": "16",
+    "part": null,
+    "page": "16",
+    "de": {
+     "line": 36,
+     "chars": 1693
+    },
+    "en": {
+     "line": 36,
+     "chars": 1539
+    }
+   },
+   {
+    "key": "17",
+    "part": null,
+    "page": "17",
+    "de": {
+     "line": 39,
+     "chars": 1572
+    },
+    "en": {
+     "line": 39,
+     "chars": 1578
+    }
+   },
+   {
+    "key": "18",
+    "part": null,
+    "page": "18",
+    "de": {
+     "line": 46,
+     "chars": 1459
+    },
+    "en": {
+     "line": 46,
+     "chars": 1342
+    }
+   },
+   {
+    "key": "19",
+    "part": null,
+    "page": "19",
+    "de": {
+     "line": 57,
+     "chars": 1649
+    },
+    "en": {
+     "line": 57,
+     "chars": 1652
+    }
+   },
+   {
+    "key": "20",
+    "part": null,
+    "page": "20",
+    "de": {
+     "line": 62,
+     "chars": 1665
+    },
+    "en": {
+     "line": 62,
+     "chars": 1653
+    }
+   },
+   {
+    "key": "21",
+    "part": null,
+    "page": "21",
+    "de": {
+     "line": 67,
+     "chars": 1655
+    },
+    "en": {
+     "line": 67,
+     "chars": 1633
+    }
+   },
+   {
+    "key": "22",
+    "part": null,
+    "page": "22",
+    "de": {
+     "line": 70,
+     "chars": 1733
+    },
+    "en": {
+     "line": 70,
+     "chars": 1706
+    }
+   },
+   {
+    "key": "23",
+    "part": null,
+    "page": "23",
+    "de": {
+     "line": 73,
+     "chars": 1550
+    },
+    "en": {
+     "line": 73,
+     "chars": 1513
+    }
+   },
+   {
+    "key": "24",
+    "part": null,
+    "page": "24",
+    "de": {
+     "line": 82,
+     "chars": 382
+    },
+    "en": {
+     "line": 82,
+     "chars": 364
+    }
+   }
+  ]
+ },
+ {
   "slug": "feuerbraende1807",
   "visible": true,
   "kind": "journal",
