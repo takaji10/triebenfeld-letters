@@ -1363,7 +1363,7 @@ part II.
   summary-only. **Published the same day** at the editor's word ("Publish").
 
 
-## 32. The call-outs reworked: "Related", one note per passage, a gutter column with a toggle (2026-11-01; branch `related-callouts`, not published)
+## 32. The call-outs reworked: "Related", one note per passage, a gutter column with a toggle (2026-11-01; branch `related-callouts`, published at the editor's word)
 
 The editor reported (2026-11-01) that the boxes under the literature's
 passages repeated themselves and were not always about the page they stood
@@ -1431,5 +1431,4 @@ The rework, the editor's choices of that day (asked and answered):
   confirms, corrects, extends or dates what the passage says — in that
   order of value.
 - Verified: build and `pipeline/verify_site.py` clean (302 link-pairs
-  checked on both sides, 37 links, 40 documents). Committed on the branch;
-  not published.
+  checked on both sides, 37 links, 40 documents). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
