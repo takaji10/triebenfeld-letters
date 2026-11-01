@@ -1238,11 +1238,11 @@ protocol that contains the passage** (Directorium Nr. 3).
   summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
   Polom 2024). **Published 2026-10-26** at the editor's word.
 
-## 30. Muszyńska-Zygmańska (1947) (2026-10-31)
+## 30. Muszyńska-Zygmańska (1947) (2026-10-31; published in full 2026-11-01)
 
 | Slug | Work | Language | Page marks | On the site |
 |---|---|---|---|---|
-| `muszynska1947` | Janina Muszyńska-Zygmańska, *Wielkopolska w powstaniu kościuszkowskim*, Nakładem Głównego Komitetu Kościuszkowskiego w Krakowie, Poznań 1947 | Polish | `[7] <!-- p.7 -->` | summary only |
+| `muszynska1947` | Janina Muszyńska-Zygmańska, *Wielkopolska w powstaniu kościuszkowskim*, Nakładem Głównego Komitetu Kościuszkowskiego w Krakowie, Poznań 1947 | Polish | `[7] <!-- p.7 -->` | yes, in full |
 
 The editor supplied the Polish transcription and an AI-made English
 translation, and asked for the book to be added after a bilingual QA pass. The
@@ -1262,15 +1262,17 @@ queries, 1 rejected). This is stronger than the literature's usual spot check:
   package's termbase and decisions govern (Greater Poland, voivodeship,
   district, Commission of Order, Regierung, Landrat); the English keeps the
   author's long sentences and her plain judgements.
-- **Visibility:** `visible: false` — the book is of 1947 and its rights are not
-  established here. It is in the repository and in `dataset/literature/` for
-  questions; the site shows only the detailed summary (`summary_en`,
-  `summary_de`). **The editor's word is needed to publish it**; making it
-  visible would also require ruling the literature index's hits on its Polish
-  text, which has not been done.
+- **Visibility:** published in full at the editor's word (2026-11-01):
+  `visible: true`, the text on the site. The book is of 1947; the rights remain
+  the editor's responsibility. The literature index found 269 hits of the
+  edition's people and places; 243 stand after the false friends were ruled
+  out, and 26 new pairs (68 hits) were ruled (the Silesian Danckelmann, the
+  Prussian general Lichnowski, Jacek Małachowski, Colonel Pirch, Kamionna on
+  the Bzura, the Silesian Oleśnica, the town Świecie, and the surnames
+  Kaliszowski, Łukomski and Rogaliński). `--check` passes.
 - **No hand-made links:** the book names none of the edition's people, estates
   or holdings; it is the setting of the South Prussian files, not a source
   about Trąbczyn.
-- The literature now has 40 works, 33 with pages in both languages and seven
+- The literature now has 40 works, 34 with pages in both languages and six
   summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski & Polom
-  2024, nmpol, slownik, Muszyńska-Zygmańska 1947).
+  2024, nmpol, slownik).

@@ -18869,7 +18869,7 @@
  },
  {
   "slug": "muszynska1947",
-  "visible": false,
+  "visible": true,
   "kind": "book",
   "title": "Wielkopolska w powstaniu kościuszkowskim",
   "title_en": "Greater Poland in the Kościuszko Insurrection",
@@ -18893,11 +18893,11 @@
     "page": null,
     "pl": {
      "line": 1,
-     "chars": 1235
+     "chars": 1013
     },
     "en": {
      "line": 1,
-     "chars": 1346
+     "chars": 1122
     }
    },
    {
@@ -18905,11 +18905,11 @@
     "part": null,
     "page": "7",
     "pl": {
-     "line": 44,
+     "line": 37,
      "chars": 1132
     },
     "en": {
-     "line": 46,
+     "line": 39,
      "chars": 1387
     }
    },
@@ -18918,11 +18918,11 @@
     "part": null,
     "page": "8",
     "pl": {
-     "line": 50,
+     "line": 43,
      "chars": 1737
     },
     "en": {
-     "line": 52,
+     "line": 45,
      "chars": 1881
     }
    },
@@ -18931,11 +18931,11 @@
     "part": null,
     "page": "9",
     "pl": {
-     "line": 58,
+     "line": 51,
      "chars": 1708
     },
     "en": {
-     "line": 60,
+     "line": 53,
      "chars": 2131
     }
    },
@@ -18944,11 +18944,11 @@
     "part": null,
     "page": "10",
     "pl": {
-     "line": 62,
+     "line": 55,
      "chars": 1721
     },
     "en": {
-     "line": 64,
+     "line": 57,
      "chars": 2109
     }
    },
@@ -18957,11 +18957,11 @@
     "part": null,
     "page": "11",
     "pl": {
-     "line": 70,
+     "line": 63,
      "chars": 1635
     },
     "en": {
-     "line": 72,
+     "line": 65,
      "chars": 1952
     }
    },
@@ -18970,11 +18970,11 @@
     "part": null,
     "page": "12",
     "pl": {
-     "line": 84,
+     "line": 77,
      "chars": 1663
     },
     "en": {
-     "line": 86,
+     "line": 79,
      "chars": 1878
     }
    },
@@ -18983,11 +18983,11 @@
     "part": null,
     "page": "13",
     "pl": {
-     "line": 98,
+     "line": 91,
      "chars": 1695
     },
     "en": {
-     "line": 100,
+     "line": 93,
      "chars": 1954
     }
    },
@@ -18996,11 +18996,11 @@
     "part": null,
     "page": "14",
     "pl": {
-     "line": 108,
+     "line": 101,
      "chars": 1665
     },
     "en": {
-     "line": 110,
+     "line": 103,
      "chars": 1780
     }
    },
@@ -19009,11 +19009,11 @@
     "part": null,
     "page": "15",
     "pl": {
-     "line": 118,
+     "line": 111,
      "chars": 1748
     },
     "en": {
-     "line": 120,
+     "line": 113,
      "chars": 2052
     }
    },
@@ -19022,11 +19022,11 @@
     "part": null,
     "page": "16",
     "pl": {
-     "line": 126,
+     "line": 119,
      "chars": 1671
     },
     "en": {
-     "line": 128,
+     "line": 121,
      "chars": 1908
     }
    },
@@ -19035,11 +19035,11 @@
     "part": null,
     "page": "17",
     "pl": {
-     "line": 134,
+     "line": 127,
      "chars": 1598
     },
     "en": {
-     "line": 136,
+     "line": 129,
      "chars": 2035
     }
    },
@@ -19048,11 +19048,11 @@
     "part": null,
     "page": "18",
     "pl": {
-     "line": 144,
+     "line": 137,
      "chars": 1660
     },
     "en": {
-     "line": 146,
+     "line": 139,
      "chars": 1889
     }
    },
@@ -19061,11 +19061,11 @@
     "part": null,
     "page": "19",
     "pl": {
-     "line": 154,
+     "line": 147,
      "chars": 1744
     },
     "en": {
-     "line": 156,
+     "line": 149,
      "chars": 2083
     }
    },
@@ -19074,11 +19074,11 @@
     "part": null,
     "page": "20",
     "pl": {
-     "line": 160,
+     "line": 153,
      "chars": 1719
     },
     "en": {
-     "line": 162,
+     "line": 155,
      "chars": 1953
     }
    },
@@ -19087,11 +19087,11 @@
     "part": null,
     "page": "21",
     "pl": {
-     "line": 168,
+     "line": 161,
      "chars": 612
     },
     "en": {
-     "line": 170,
+     "line": 163,
      "chars": 729
     }
    },
@@ -19100,11 +19100,11 @@
     "part": null,
     "page": "22",
     "pl": {
-     "line": 178,
+     "line": 171,
      "chars": 1059
     },
     "en": {
-     "line": 180,
+     "line": 173,
      "chars": 1271
     }
    },
@@ -19113,11 +19113,11 @@
     "part": null,
     "page": "23",
     "pl": {
-     "line": 182,
+     "line": 175,
      "chars": 1699
     },
     "en": {
-     "line": 184,
+     "line": 177,
      "chars": 1968
     }
    },
@@ -19126,11 +19126,11 @@
     "part": null,
     "page": "24",
     "pl": {
-     "line": 190,
+     "line": 183,
      "chars": 1662
     },
     "en": {
-     "line": 192,
+     "line": 185,
      "chars": 1933
     }
    },
@@ -19139,11 +19139,11 @@
     "part": null,
     "page": "25",
     "pl": {
-     "line": 200,
+     "line": 193,
      "chars": 1711
     },
     "en": {
-     "line": 202,
+     "line": 195,
      "chars": 1873
     }
    },
@@ -19152,11 +19152,11 @@
     "part": null,
     "page": "26",
     "pl": {
-     "line": 210,
+     "line": 203,
      "chars": 1730
     },
     "en": {
-     "line": 212,
+     "line": 205,
      "chars": 1900
     }
    },
@@ -19165,11 +19165,11 @@
     "part": null,
     "page": "27",
     "pl": {
-     "line": 218,
+     "line": 211,
      "chars": 1723
     },
     "en": {
-     "line": 220,
+     "line": 213,
      "chars": 1969
     }
    },
@@ -19178,11 +19178,11 @@
     "part": null,
     "page": "28",
     "pl": {
-     "line": 224,
+     "line": 217,
      "chars": 1722
     },
     "en": {
-     "line": 226,
+     "line": 219,
      "chars": 2219
     }
    },
@@ -19191,11 +19191,11 @@
     "part": null,
     "page": "29",
     "pl": {
-     "line": 230,
+     "line": 223,
      "chars": 1728
     },
     "en": {
-     "line": 232,
+     "line": 225,
      "chars": 1980
     }
    },
@@ -19204,11 +19204,11 @@
     "part": null,
     "page": "30",
     "pl": {
-     "line": 238,
+     "line": 231,
      "chars": 1631
     },
     "en": {
-     "line": 240,
+     "line": 233,
      "chars": 1750
     }
    },
@@ -19217,11 +19217,11 @@
     "part": null,
     "page": "31",
     "pl": {
-     "line": 250,
+     "line": 243,
      "chars": 1709
     },
     "en": {
-     "line": 252,
+     "line": 245,
      "chars": 1933
     }
    },
@@ -19230,11 +19230,11 @@
     "part": null,
     "page": "32",
     "pl": {
-     "line": 258,
+     "line": 251,
      "chars": 1725
     },
     "en": {
-     "line": 260,
+     "line": 253,
      "chars": 2073
     }
    },
@@ -19243,11 +19243,11 @@
     "part": null,
     "page": "33",
     "pl": {
-     "line": 264,
+     "line": 257,
      "chars": 1715
     },
     "en": {
-     "line": 266,
+     "line": 259,
      "chars": 2034
     }
    },
@@ -19256,11 +19256,11 @@
     "part": null,
     "page": "34",
     "pl": {
-     "line": 272,
+     "line": 265,
      "chars": 1723
     },
     "en": {
-     "line": 274,
+     "line": 267,
      "chars": 1938
     }
    },
@@ -19269,11 +19269,11 @@
     "part": null,
     "page": "35",
     "pl": {
-     "line": 280,
+     "line": 273,
      "chars": 1639
     },
     "en": {
-     "line": 282,
+     "line": 275,
      "chars": 2018
     }
    },
@@ -19282,11 +19282,11 @@
     "part": null,
     "page": "36",
     "pl": {
-     "line": 294,
+     "line": 287,
      "chars": 1652
     },
     "en": {
-     "line": 296,
+     "line": 289,
      "chars": 1841
     }
    },
@@ -19295,11 +19295,11 @@
     "part": null,
     "page": "37",
     "pl": {
-     "line": 302,
+     "line": 295,
      "chars": 1722
     },
     "en": {
-     "line": 304,
+     "line": 297,
      "chars": 1904
     }
    },
@@ -19308,11 +19308,11 @@
     "part": null,
     "page": "38",
     "pl": {
-     "line": 310,
+     "line": 303,
      "chars": 1647
     },
     "en": {
-     "line": 312,
+     "line": 305,
      "chars": 1882
     }
    },
@@ -19321,11 +19321,11 @@
     "part": null,
     "page": "39",
     "pl": {
-     "line": 320,
+     "line": 313,
      "chars": 1240
     },
     "en": {
-     "line": 322,
+     "line": 315,
      "chars": 1402
     }
    },
@@ -19334,12 +19334,12 @@
     "part": null,
     "page": "40",
     "pl": {
-     "line": 332,
-     "chars": 1173
+     "line": 325,
+     "chars": 1095
     },
     "en": {
-     "line": 334,
-     "chars": 1426
+     "line": 327,
+     "chars": 1348
     }
    },
    {
@@ -19347,11 +19347,11 @@
     "part": null,
     "page": "41",
     "pl": {
-     "line": 342,
+     "line": 333,
      "chars": 1698
     },
     "en": {
-     "line": 344,
+     "line": 335,
      "chars": 1904
     }
    },
@@ -19360,11 +19360,11 @@
     "part": null,
     "page": "42",
     "pl": {
-     "line": 352,
+     "line": 343,
      "chars": 1671
     },
     "en": {
-     "line": 354,
+     "line": 345,
      "chars": 1750
     }
    },
@@ -19373,11 +19373,11 @@
     "part": null,
     "page": "43",
     "pl": {
-     "line": 358,
+     "line": 349,
      "chars": 1621
     },
     "en": {
-     "line": 360,
+     "line": 351,
      "chars": 1954
     }
    },
@@ -19386,11 +19386,11 @@
     "part": null,
     "page": "44",
     "pl": {
-     "line": 370,
+     "line": 361,
      "chars": 1747
     },
     "en": {
-     "line": 372,
+     "line": 363,
      "chars": 1948
     }
    },
@@ -19399,11 +19399,11 @@
     "part": null,
     "page": "45",
     "pl": {
-     "line": 378,
+     "line": 369,
      "chars": 1692
     },
     "en": {
-     "line": 380,
+     "line": 371,
      "chars": 1809
     }
    },
@@ -19412,11 +19412,11 @@
     "part": null,
     "page": "46",
     "pl": {
-     "line": 386,
+     "line": 377,
      "chars": 1764
     },
     "en": {
-     "line": 388,
+     "line": 379,
      "chars": 1961
     }
    },
@@ -19425,11 +19425,11 @@
     "part": null,
     "page": "47",
     "pl": {
-     "line": 392,
+     "line": 383,
      "chars": 1731
     },
     "en": {
-     "line": 394,
+     "line": 385,
      "chars": 1988
     }
    },
@@ -19438,11 +19438,11 @@
     "part": null,
     "page": "48",
     "pl": {
-     "line": 398,
+     "line": 389,
      "chars": 1785
     },
     "en": {
-     "line": 400,
+     "line": 391,
      "chars": 2044
     }
    },
@@ -19451,11 +19451,11 @@
     "part": null,
     "page": "49",
     "pl": {
-     "line": 404,
+     "line": 395,
      "chars": 1703
     },
     "en": {
-     "line": 406,
+     "line": 397,
      "chars": 1881
     }
    },
@@ -19464,11 +19464,11 @@
     "part": null,
     "page": "50",
     "pl": {
-     "line": 412,
+     "line": 403,
      "chars": 1707
     },
     "en": {
-     "line": 414,
+     "line": 405,
      "chars": 1948
     }
    },
@@ -19477,11 +19477,11 @@
     "part": null,
     "page": "51",
     "pl": {
-     "line": 420,
+     "line": 411,
      "chars": 1759
     },
     "en": {
-     "line": 422,
+     "line": 413,
      "chars": 2057
     }
    },
@@ -19490,11 +19490,11 @@
     "part": null,
     "page": "52",
     "pl": {
-     "line": 424,
+     "line": 415,
      "chars": 1732
     },
     "en": {
-     "line": 426,
+     "line": 417,
      "chars": 1896
     }
    },
@@ -19503,11 +19503,11 @@
     "part": null,
     "page": "53",
     "pl": {
-     "line": 430,
+     "line": 421,
      "chars": 1720
     },
     "en": {
-     "line": 432,
+     "line": 423,
      "chars": 1942
     }
    },
@@ -19516,11 +19516,11 @@
     "part": null,
     "page": "54",
     "pl": {
-     "line": 436,
+     "line": 427,
      "chars": 1725
     },
     "en": {
-     "line": 438,
+     "line": 429,
      "chars": 1884
     }
    },
@@ -19529,11 +19529,11 @@
     "part": null,
     "page": "55",
     "pl": {
-     "line": 440,
+     "line": 431,
      "chars": 1700
     },
     "en": {
-     "line": 442,
+     "line": 433,
      "chars": 1898
     }
    },
@@ -19542,11 +19542,11 @@
     "part": null,
     "page": "56",
     "pl": {
-     "line": 448,
+     "line": 439,
      "chars": 1753
     },
     "en": {
-     "line": 450,
+     "line": 441,
      "chars": 1972
     }
    },
@@ -19555,11 +19555,11 @@
     "part": null,
     "page": "57",
     "pl": {
-     "line": 452,
+     "line": 443,
      "chars": 1717
     },
     "en": {
-     "line": 454,
+     "line": 445,
      "chars": 1953
     }
    },
@@ -19568,11 +19568,11 @@
     "part": null,
     "page": "58",
     "pl": {
-     "line": 460,
+     "line": 451,
      "chars": 1602
     },
     "en": {
-     "line": 462,
+     "line": 453,
      "chars": 1823
     }
    },
@@ -19581,11 +19581,11 @@
     "part": null,
     "page": "59",
     "pl": {
-     "line": 470,
+     "line": 461,
      "chars": 1746
     },
     "en": {
-     "line": 472,
+     "line": 463,
      "chars": 1899
     }
    },
@@ -19594,11 +19594,11 @@
     "part": null,
     "page": "60",
     "pl": {
-     "line": 474,
+     "line": 465,
      "chars": 1735
     },
     "en": {
-     "line": 476,
+     "line": 467,
      "chars": 1985
     }
    },
@@ -19607,11 +19607,11 @@
     "part": null,
     "page": "61",
     "pl": {
-     "line": 486,
+     "line": 477,
      "chars": 1681
     },
     "en": {
-     "line": 488,
+     "line": 479,
      "chars": 1937
     }
    },
@@ -19620,11 +19620,11 @@
     "part": null,
     "page": "62",
     "pl": {
-     "line": 494,
+     "line": 485,
      "chars": 1643
     },
     "en": {
-     "line": 496,
+     "line": 487,
      "chars": 1873
     }
    },
@@ -19633,11 +19633,11 @@
     "part": null,
     "page": "63",
     "pl": {
-     "line": 504,
+     "line": 495,
      "chars": 1760
     },
     "en": {
-     "line": 506,
+     "line": 497,
      "chars": 1946
     }
    },
@@ -19646,11 +19646,11 @@
     "part": null,
     "page": "64",
     "pl": {
-     "line": 510,
+     "line": 501,
      "chars": 1703
     },
     "en": {
-     "line": 512,
+     "line": 503,
      "chars": 1875
     }
    },
@@ -19659,11 +19659,11 @@
     "part": null,
     "page": "65",
     "pl": {
-     "line": 518,
+     "line": 509,
      "chars": 1743
     },
     "en": {
-     "line": 520,
+     "line": 511,
      "chars": 1986
     }
    },
@@ -19672,11 +19672,11 @@
     "part": null,
     "page": "66",
     "pl": {
-     "line": 524,
+     "line": 515,
      "chars": 1748
     },
     "en": {
-     "line": 526,
+     "line": 517,
      "chars": 1829
     }
    },
@@ -19685,11 +19685,11 @@
     "part": null,
     "page": "67",
     "pl": {
-     "line": 530,
+     "line": 521,
      "chars": 1711
     },
     "en": {
-     "line": 532,
+     "line": 523,
      "chars": 1909
     }
    },
@@ -19698,11 +19698,11 @@
     "part": null,
     "page": "68",
     "pl": {
-     "line": 542,
+     "line": 533,
      "chars": 1709
     },
     "en": {
-     "line": 544,
+     "line": 535,
      "chars": 1806
     }
    },
@@ -19711,11 +19711,11 @@
     "part": null,
     "page": "69",
     "pl": {
-     "line": 550,
+     "line": 541,
      "chars": 1736
     },
     "en": {
-     "line": 552,
+     "line": 543,
      "chars": 2040
     }
    },
@@ -19724,11 +19724,11 @@
     "part": null,
     "page": "70",
     "pl": {
-     "line": 556,
+     "line": 547,
      "chars": 1711
     },
     "en": {
-     "line": 558,
+     "line": 549,
      "chars": 1966
     }
    },
@@ -19737,11 +19737,11 @@
     "part": null,
     "page": "71",
     "pl": {
-     "line": 564,
+     "line": 555,
      "chars": 1751
     },
     "en": {
-     "line": 566,
+     "line": 557,
      "chars": 2001
     }
    },
@@ -19750,11 +19750,11 @@
     "part": null,
     "page": "72",
     "pl": {
-     "line": 570,
+     "line": 561,
      "chars": 1717
     },
     "en": {
-     "line": 572,
+     "line": 563,
      "chars": 1900
     }
    },
@@ -19763,11 +19763,11 @@
     "part": null,
     "page": "73",
     "pl": {
-     "line": 576,
+     "line": 567,
      "chars": 1680
     },
     "en": {
-     "line": 578,
+     "line": 569,
      "chars": 1831
     }
    },
@@ -19776,11 +19776,11 @@
     "part": null,
     "page": "74",
     "pl": {
-     "line": 584,
+     "line": 575,
      "chars": 1642
     },
     "en": {
-     "line": 586,
+     "line": 577,
      "chars": 1805
     }
    },
@@ -19789,11 +19789,11 @@
     "part": null,
     "page": "75",
     "pl": {
-     "line": 590,
+     "line": 581,
      "chars": 1682
     },
     "en": {
-     "line": 592,
+     "line": 583,
      "chars": 1839
     }
    },
@@ -19802,11 +19802,11 @@
     "part": null,
     "page": "76",
     "pl": {
-     "line": 598,
+     "line": 589,
      "chars": 1756
     },
     "en": {
-     "line": 600,
+     "line": 591,
      "chars": 1871
     }
    },
@@ -19815,11 +19815,11 @@
     "part": null,
     "page": "77",
     "pl": {
-     "line": 604,
+     "line": 595,
      "chars": 1771
     },
     "en": {
-     "line": 606,
+     "line": 597,
      "chars": 2015
     }
    },
@@ -19828,11 +19828,11 @@
     "part": null,
     "page": "78",
     "pl": {
-     "line": 610,
+     "line": 601,
      "chars": 1731
     },
     "en": {
-     "line": 612,
+     "line": 603,
      "chars": 1989
     }
    },
@@ -19841,11 +19841,11 @@
     "part": null,
     "page": "79",
     "pl": {
-     "line": 616,
+     "line": 607,
      "chars": 1736
     },
     "en": {
-     "line": 618,
+     "line": 609,
      "chars": 2068
     }
    },
@@ -19854,11 +19854,11 @@
     "part": null,
     "page": "80",
     "pl": {
-     "line": 622,
+     "line": 613,
      "chars": 1667
     },
     "en": {
-     "line": 624,
+     "line": 615,
      "chars": 1894
     }
    },
@@ -19867,11 +19867,11 @@
     "part": null,
     "page": "81",
     "pl": {
-     "line": 632,
+     "line": 623,
      "chars": 1668
     },
     "en": {
-     "line": 634,
+     "line": 625,
      "chars": 1771
     }
    },
@@ -19880,11 +19880,11 @@
     "part": null,
     "page": "82",
     "pl": {
-     "line": 640,
+     "line": 631,
      "chars": 1747
     },
     "en": {
-     "line": 642,
+     "line": 633,
      "chars": 2029
     }
    },
@@ -19893,11 +19893,11 @@
     "part": null,
     "page": "83",
     "pl": {
-     "line": 644,
+     "line": 635,
      "chars": 1711
     },
     "en": {
-     "line": 646,
+     "line": 637,
      "chars": 1893
     }
    },
@@ -19906,11 +19906,11 @@
     "part": null,
     "page": "84",
     "pl": {
-     "line": 652,
+     "line": 643,
      "chars": 1719
     },
     "en": {
-     "line": 654,
+     "line": 645,
      "chars": 2041
     }
    },
@@ -19919,11 +19919,11 @@
     "part": null,
     "page": "85",
     "pl": {
-     "line": 658,
+     "line": 649,
      "chars": 1736
     },
     "en": {
-     "line": 660,
+     "line": 651,
      "chars": 1800
     }
    },
@@ -19932,11 +19932,11 @@
     "part": null,
     "page": "86",
     "pl": {
-     "line": 664,
+     "line": 655,
      "chars": 1715
     },
     "en": {
-     "line": 666,
+     "line": 657,
      "chars": 1945
     }
    },
@@ -19945,11 +19945,11 @@
     "part": null,
     "page": "87",
     "pl": {
-     "line": 670,
+     "line": 661,
      "chars": 1724
     },
     "en": {
-     "line": 672,
+     "line": 663,
      "chars": 1854
     }
    },
@@ -19958,11 +19958,11 @@
     "part": null,
     "page": "88",
     "pl": {
-     "line": 676,
+     "line": 667,
      "chars": 1717
     },
     "en": {
-     "line": 678,
+     "line": 669,
      "chars": 1955
     }
    },
@@ -19971,11 +19971,11 @@
     "part": null,
     "page": "89",
     "pl": {
-     "line": 684,
+     "line": 675,
      "chars": 1747
     },
     "en": {
-     "line": 686,
+     "line": 677,
      "chars": 1845
     }
    },
@@ -19984,11 +19984,11 @@
     "part": null,
     "page": "90",
     "pl": {
-     "line": 690,
+     "line": 681,
      "chars": 1722
     },
     "en": {
-     "line": 692,
+     "line": 683,
      "chars": 1879
     }
    },
@@ -19997,11 +19997,11 @@
     "part": null,
     "page": "91",
     "pl": {
-     "line": 696,
+     "line": 687,
      "chars": 1721
     },
     "en": {
-     "line": 698,
+     "line": 689,
      "chars": 1855
     }
    },
@@ -20010,11 +20010,11 @@
     "part": null,
     "page": "92",
     "pl": {
-     "line": 702,
+     "line": 693,
      "chars": 1644
     },
     "en": {
-     "line": 704,
+     "line": 695,
      "chars": 1791
     }
    },
@@ -20023,11 +20023,11 @@
     "part": null,
     "page": "93",
     "pl": {
-     "line": 708,
+     "line": 699,
      "chars": 1763
     },
     "en": {
-     "line": 710,
+     "line": 701,
      "chars": 1835
     }
    },
@@ -20036,11 +20036,11 @@
     "part": null,
     "page": "94",
     "pl": {
-     "line": 714,
+     "line": 705,
      "chars": 1754
     },
     "en": {
-     "line": 716,
+     "line": 707,
      "chars": 1923
     }
    },
@@ -20049,11 +20049,11 @@
     "part": null,
     "page": "95",
     "pl": {
-     "line": 720,
+     "line": 711,
      "chars": 1751
     },
     "en": {
-     "line": 722,
+     "line": 713,
      "chars": 1872
     }
    },
@@ -20062,11 +20062,11 @@
     "part": null,
     "page": "96",
     "pl": {
-     "line": 726,
+     "line": 717,
      "chars": 1679
     },
     "en": {
-     "line": 728,
+     "line": 719,
      "chars": 1752
     }
    },
@@ -20075,11 +20075,11 @@
     "part": null,
     "page": "97",
     "pl": {
-     "line": 732,
+     "line": 723,
      "chars": 1678
     },
     "en": {
-     "line": 734,
+     "line": 725,
      "chars": 1823
     }
    },
@@ -20088,11 +20088,11 @@
     "part": null,
     "page": "98",
     "pl": {
-     "line": 738,
+     "line": 729,
      "chars": 1727
     },
     "en": {
-     "line": 740,
+     "line": 731,
      "chars": 1893
     }
    },
@@ -20101,11 +20101,11 @@
     "part": null,
     "page": "99",
     "pl": {
-     "line": 748,
+     "line": 739,
      "chars": 1696
     },
     "en": {
-     "line": 750,
+     "line": 741,
      "chars": 2026
     }
    },
@@ -20114,11 +20114,11 @@
     "part": null,
     "page": "100",
     "pl": {
-     "line": 756,
+     "line": 747,
      "chars": 1719
     },
     "en": {
-     "line": 758,
+     "line": 749,
      "chars": 1889
     }
    },
@@ -20127,11 +20127,11 @@
     "part": null,
     "page": "101",
     "pl": {
-     "line": 762,
+     "line": 753,
      "chars": 1743
     },
     "en": {
-     "line": 764,
+     "line": 755,
      "chars": 1990
     }
    },
@@ -20140,11 +20140,11 @@
     "part": null,
     "page": "102",
     "pl": {
-     "line": 768,
+     "line": 759,
      "chars": 1695
     },
     "en": {
-     "line": 770,
+     "line": 761,
      "chars": 2030
     }
    },
@@ -20153,11 +20153,11 @@
     "part": null,
     "page": "103",
     "pl": {
-     "line": 776,
+     "line": 767,
      "chars": 1706
     },
     "en": {
-     "line": 778,
+     "line": 769,
      "chars": 1935
     }
    },
@@ -20166,11 +20166,11 @@
     "part": null,
     "page": "104",
     "pl": {
-     "line": 782,
+     "line": 773,
      "chars": 1757
     },
     "en": {
-     "line": 784,
+     "line": 775,
      "chars": 2035
     }
    },
@@ -20179,11 +20179,11 @@
     "part": null,
     "page": "105",
     "pl": {
-     "line": 788,
+     "line": 779,
      "chars": 1760
     },
     "en": {
-     "line": 790,
+     "line": 781,
      "chars": 1923
     }
    },
@@ -20192,11 +20192,11 @@
     "part": null,
     "page": "106",
     "pl": {
-     "line": 794,
+     "line": 785,
      "chars": 1640
     },
     "en": {
-     "line": 796,
+     "line": 787,
      "chars": 1966
     }
    },
@@ -20205,11 +20205,11 @@
     "part": null,
     "page": "107",
     "pl": {
-     "line": 804,
+     "line": 795,
      "chars": 1510
     },
     "en": {
-     "line": 806,
+     "line": 797,
      "chars": 1662
     }
    },
@@ -20218,11 +20218,11 @@
     "part": null,
     "page": "108",
     "pl": {
-     "line": 814,
+     "line": 805,
      "chars": 1145
     },
     "en": {
-     "line": 816,
+     "line": 807,
      "chars": 1267
     }
    },
@@ -20231,11 +20231,11 @@
     "part": null,
     "page": "109",
     "pl": {
-     "line": 818,
+     "line": 809,
      "chars": 1684
     },
     "en": {
-     "line": 820,
+     "line": 811,
      "chars": 1771
     }
    },
@@ -20244,11 +20244,11 @@
     "part": null,
     "page": "110",
     "pl": {
-     "line": 826,
+     "line": 817,
      "chars": 1669
     },
     "en": {
-     "line": 828,
+     "line": 819,
      "chars": 1866
     }
    },
@@ -20257,11 +20257,11 @@
     "part": null,
     "page": "111",
     "pl": {
-     "line": 834,
+     "line": 825,
      "chars": 1689
     },
     "en": {
-     "line": 836,
+     "line": 827,
      "chars": 1817
     }
    },
@@ -20270,12 +20270,12 @@
     "part": null,
     "page": "112",
     "pl": {
-     "line": 840,
-     "chars": 1879
+     "line": 831,
+     "chars": 1790
     },
     "en": {
-     "line": 842,
-     "chars": 2059
+     "line": 833,
+     "chars": 1970
     }
    },
    {
@@ -20283,11 +20283,11 @@
     "part": null,
     "page": "113",
     "pl": {
-     "line": 850,
+     "line": 839,
      "chars": 1684
     },
     "en": {
-     "line": 852,
+     "line": 841,
      "chars": 1877
     }
    },
@@ -20296,11 +20296,11 @@
     "part": null,
     "page": "114",
     "pl": {
-     "line": 860,
+     "line": 849,
      "chars": 1763
     },
     "en": {
-     "line": 862,
+     "line": 851,
      "chars": 1828
     }
    },
@@ -20309,11 +20309,11 @@
     "part": null,
     "page": "115",
     "pl": {
-     "line": 866,
+     "line": 855,
      "chars": 1682
     },
     "en": {
-     "line": 868,
+     "line": 857,
      "chars": 1855
     }
    },
@@ -20322,11 +20322,11 @@
     "part": null,
     "page": "116",
     "pl": {
-     "line": 874,
+     "line": 863,
      "chars": 1773
     },
     "en": {
-     "line": 876,
+     "line": 865,
      "chars": 1827
     }
    },
@@ -20335,11 +20335,11 @@
     "part": null,
     "page": "117",
     "pl": {
-     "line": 880,
+     "line": 869,
      "chars": 1717
     },
     "en": {
-     "line": 882,
+     "line": 871,
      "chars": 1868
     }
    },
@@ -20348,11 +20348,11 @@
     "part": null,
     "page": "118",
     "pl": {
-     "line": 888,
+     "line": 877,
      "chars": 1700
     },
     "en": {
-     "line": 890,
+     "line": 879,
      "chars": 1916
     }
    },
@@ -20361,11 +20361,11 @@
     "part": null,
     "page": "119",
     "pl": {
-     "line": 894,
+     "line": 883,
      "chars": 1637
     },
     "en": {
-     "line": 896,
+     "line": 885,
      "chars": 1799
     }
    },
@@ -20374,11 +20374,11 @@
     "part": null,
     "page": "120",
     "pl": {
-     "line": 902,
+     "line": 891,
      "chars": 1746
     },
     "en": {
-     "line": 904,
+     "line": 893,
      "chars": 1910
     }
    },
@@ -20387,11 +20387,11 @@
     "part": null,
     "page": "121",
     "pl": {
-     "line": 908,
+     "line": 897,
      "chars": 1691
     },
     "en": {
-     "line": 910,
+     "line": 899,
      "chars": 1919
     }
    },
@@ -20400,11 +20400,11 @@
     "part": null,
     "page": "122",
     "pl": {
-     "line": 918,
+     "line": 907,
      "chars": 1728
     },
     "en": {
-     "line": 920,
+     "line": 909,
      "chars": 2059
     }
    },
@@ -20413,11 +20413,11 @@
     "part": null,
     "page": "123",
     "pl": {
-     "line": 926,
+     "line": 915,
      "chars": 1752
     },
     "en": {
-     "line": 928,
+     "line": 917,
      "chars": 1954
     }
    },
@@ -20426,11 +20426,11 @@
     "part": null,
     "page": "124",
     "pl": {
-     "line": 934,
+     "line": 923,
      "chars": 1757
     },
     "en": {
-     "line": 936,
+     "line": 925,
      "chars": 1937
     }
    },
@@ -20439,11 +20439,11 @@
     "part": null,
     "page": "125",
     "pl": {
-     "line": 942,
+     "line": 931,
      "chars": 1721
     },
     "en": {
-     "line": 944,
+     "line": 933,
      "chars": 1933
     }
    },
@@ -20452,11 +20452,11 @@
     "part": null,
     "page": "126",
     "pl": {
-     "line": 948,
+     "line": 937,
      "chars": 1751
     },
     "en": {
-     "line": 950,
+     "line": 939,
      "chars": 1900
     }
    },
@@ -20465,11 +20465,11 @@
     "part": null,
     "page": "127",
     "pl": {
-     "line": 954,
+     "line": 943,
      "chars": 1756
     },
     "en": {
-     "line": 956,
+     "line": 945,
      "chars": 1942
     }
    },
@@ -20478,12 +20478,12 @@
     "part": null,
     "page": "128",
     "pl": {
-     "line": 962,
-     "chars": 1764
+     "line": 951,
+     "chars": 1697
     },
     "en": {
-     "line": 964,
-     "chars": 1961
+     "line": 953,
+     "chars": 1894
     }
    },
    {
@@ -20491,11 +20491,11 @@
     "part": null,
     "page": "129",
     "pl": {
-     "line": 978,
+     "line": 965,
      "chars": 1715
     },
     "en": {
-     "line": 980,
+     "line": 967,
      "chars": 1877
     }
    },
@@ -20504,11 +20504,11 @@
     "part": null,
     "page": "130",
     "pl": {
-     "line": 986,
+     "line": 973,
      "chars": 1756
     },
     "en": {
-     "line": 988,
+     "line": 975,
      "chars": 2021
     }
    },
@@ -20517,11 +20517,11 @@
     "part": null,
     "page": "131",
     "pl": {
-     "line": 994,
+     "line": 981,
      "chars": 1733
     },
     "en": {
-     "line": 996,
+     "line": 983,
      "chars": 2003
     }
    },
@@ -20530,11 +20530,11 @@
     "part": null,
     "page": "132",
     "pl": {
-     "line": 1002,
+     "line": 989,
      "chars": 1685
     },
     "en": {
-     "line": 1004,
+     "line": 991,
      "chars": 1963
     }
    },
@@ -20543,11 +20543,11 @@
     "part": null,
     "page": "133",
     "pl": {
-     "line": 1010,
+     "line": 997,
      "chars": 1747
     },
     "en": {
-     "line": 1012,
+     "line": 999,
      "chars": 1904
     }
    },
@@ -20556,11 +20556,11 @@
     "part": null,
     "page": "134",
     "pl": {
-     "line": 1016,
+     "line": 1003,
      "chars": 1749
     },
     "en": {
-     "line": 1018,
+     "line": 1005,
      "chars": 1970
     }
    },
@@ -20569,11 +20569,11 @@
     "part": null,
     "page": "135",
     "pl": {
-     "line": 1022,
+     "line": 1009,
      "chars": 735
     },
     "en": {
-     "line": 1024,
+     "line": 1011,
      "chars": 888
     }
    },
@@ -20582,11 +20582,11 @@
     "part": null,
     "page": "136",
     "pl": {
-     "line": 1030,
+     "line": 1017,
      "chars": 1148
     },
     "en": {
-     "line": 1032,
+     "line": 1019,
      "chars": 1306
     }
    },
@@ -20595,11 +20595,11 @@
     "part": null,
     "page": "137",
     "pl": {
-     "line": 1036,
+     "line": 1023,
      "chars": 1650
     },
     "en": {
-     "line": 1038,
+     "line": 1025,
      "chars": 1802
     }
    },
@@ -20608,11 +20608,11 @@
     "part": null,
     "page": "138",
     "pl": {
-     "line": 1044,
+     "line": 1031,
      "chars": 1713
     },
     "en": {
-     "line": 1046,
+     "line": 1033,
      "chars": 1919
     }
    },
@@ -20621,11 +20621,11 @@
     "part": null,
     "page": "139",
     "pl": {
-     "line": 1052,
+     "line": 1039,
      "chars": 1727
     },
     "en": {
-     "line": 1054,
+     "line": 1041,
      "chars": 1934
     }
    },
@@ -20634,11 +20634,11 @@
     "part": null,
     "page": "140",
     "pl": {
-     "line": 1060,
+     "line": 1047,
      "chars": 1641
     },
     "en": {
-     "line": 1062,
+     "line": 1049,
      "chars": 2005
     }
    },
@@ -20647,11 +20647,11 @@
     "part": null,
     "page": "141",
     "pl": {
-     "line": 1070,
+     "line": 1057,
      "chars": 1752
     },
     "en": {
-     "line": 1072,
+     "line": 1059,
      "chars": 2119
     }
    },
@@ -20660,11 +20660,11 @@
     "part": null,
     "page": "142",
     "pl": {
-     "line": 1076,
+     "line": 1063,
      "chars": 1712
     },
     "en": {
-     "line": 1078,
+     "line": 1065,
      "chars": 1860
     }
    },
@@ -20673,11 +20673,11 @@
     "part": null,
     "page": "143",
     "pl": {
-     "line": 1084,
+     "line": 1071,
      "chars": 1748
     },
     "en": {
-     "line": 1086,
+     "line": 1073,
      "chars": 1968
     }
    },
@@ -20686,11 +20686,11 @@
     "part": null,
     "page": "144",
     "pl": {
-     "line": 1088,
+     "line": 1075,
      "chars": 1630
     },
     "en": {
-     "line": 1090,
+     "line": 1077,
      "chars": 1806
     }
    },
@@ -20699,11 +20699,11 @@
     "part": null,
     "page": "145",
     "pl": {
-     "line": 1098,
+     "line": 1085,
      "chars": 1745
     },
     "en": {
-     "line": 1100,
+     "line": 1087,
      "chars": 1820
     }
    },
@@ -20712,11 +20712,11 @@
     "part": null,
     "page": "146",
     "pl": {
-     "line": 1105,
+     "line": 1092,
      "chars": 1629
     },
     "en": {
-     "line": 1106,
+     "line": 1093,
      "chars": 1749
     }
    },
@@ -20725,11 +20725,11 @@
     "part": null,
     "page": "147",
     "pl": {
-     "line": 1115,
+     "line": 1102,
      "chars": 1750
     },
     "en": {
-     "line": 1116,
+     "line": 1103,
      "chars": 1908
     }
    },
@@ -20738,11 +20738,11 @@
     "part": null,
     "page": "148",
     "pl": {
-     "line": 1121,
+     "line": 1108,
      "chars": 1678
     },
     "en": {
-     "line": 1122,
+     "line": 1109,
      "chars": 1745
     }
    },
@@ -20751,11 +20751,11 @@
     "part": null,
     "page": "149",
     "pl": {
-     "line": 1129,
+     "line": 1116,
      "chars": 1742
     },
     "en": {
-     "line": 1130,
+     "line": 1117,
      "chars": 2046
     }
    },
@@ -20764,11 +20764,11 @@
     "part": null,
     "page": "150",
     "pl": {
-     "line": 1135,
+     "line": 1122,
      "chars": 1601
     },
     "en": {
-     "line": 1136,
+     "line": 1123,
      "chars": 1851
     }
    },
@@ -20777,11 +20777,11 @@
     "part": null,
     "page": "151",
     "pl": {
-     "line": 1143,
+     "line": 1130,
      "chars": 1681
     },
     "en": {
-     "line": 1144,
+     "line": 1131,
      "chars": 1950
     }
    },
@@ -20790,11 +20790,11 @@
     "part": null,
     "page": "152",
     "pl": {
-     "line": 1151,
+     "line": 1138,
      "chars": 1574
     },
     "en": {
-     "line": 1152,
+     "line": 1139,
      "chars": 1930
     }
    },
@@ -20803,11 +20803,11 @@
     "part": null,
     "page": "153",
     "pl": {
-     "line": 1161,
+     "line": 1148,
      "chars": 1634
     },
     "en": {
-     "line": 1162,
+     "line": 1149,
      "chars": 1954
     }
    },
@@ -20816,11 +20816,11 @@
     "part": null,
     "page": "154",
     "pl": {
-     "line": 1171,
+     "line": 1158,
      "chars": 1536
     },
     "en": {
-     "line": 1172,
+     "line": 1159,
      "chars": 1716
     }
    },
@@ -20829,11 +20829,11 @@
     "part": null,
     "page": null,
     "pl": {
-     "line": 1178,
+     "line": 1165,
      "chars": 40887
     },
     "en": {
-     "line": 1179,
+     "line": 1166,
      "chars": 43209
     }
    }

@@ -426,6 +426,15 @@ person:
     - key: '158'
       en: p. 158
       de: S. 158
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '8'
+      en: p. 8
+      de: S. 8
+    - key: '9'
+      en: p. 9
+      de: S. 9
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -1153,6 +1162,27 @@ person:
     - key: c07
       en: V. Kapitel.
       de: V. Kapitel.
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '16'
+      en: p. 16
+      de: S. 16
+    - key: '141'
+      en: p. 141
+      de: S. 141
+    - key: '142'
+      en: p. 142
+      de: S. 142
+    - key: '147'
+      en: p. 147
+      de: S. 147
+    - key: '148'
+      en: p. 148
+      de: S. 148
+    - key: '153'
+      en: p. 153
+      de: S. 153
   - work: wasicki1953
     cite: Wąsicki (1953)
     pages:
@@ -1602,6 +1632,42 @@ person:
     - key: '303'
       en: p. 303
       de: S. 303
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '43'
+      en: p. 43
+      de: S. 43
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '46'
+      en: p. 46
+      de: S. 46
+    - key: '49'
+      en: p. 49
+      de: S. 49
+    - key: '81'
+      en: p. 81
+      de: S. 81
+    - key: '82'
+      en: p. 82
+      de: S. 82
+    - key: '99'
+      en: p. 99
+      de: S. 99
+    - key: '134'
+      en: p. 134
+      de: S. 134
+    - key: '144'
+      en: p. 144
+      de: S. 144
+    - key: '146'
+      en: p. 146
+      de: S. 146
+    - key: notes
+      en: Notes
+      de: Anmerkungen
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -1634,6 +1700,21 @@ person:
     - key: '220'
       en: p. 220
       de: S. 220
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '73'
+      en: p. 73
+      de: S. 73
+    - key: '97'
+      en: p. 97
+      de: S. 97
+    - key: '117'
+      en: p. 117
+      de: S. 117
+    - key: '124'
+      en: p. 124
+      de: S. 124
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -2020,6 +2101,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '7'
+      en: p. 7
+      de: S. 7
   - work: wasicki1953
     cite: Wąsicki (1953)
     pages:
@@ -2524,6 +2611,18 @@ person:
     - key: '43'
       en: p. 43
       de: S. 43
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '16'
+      en: p. 16
+      de: S. 16
+    - key: '141'
+      en: p. 141
+      de: S. 141
+    - key: notes
+      en: Notes
+      de: Anmerkungen
   - work: wasicki1953
     cite: Wąsicki (1953)
     pages:
@@ -2643,6 +2742,12 @@ person:
     - key: '303'
       en: p. 303
       de: S. 303
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '44'
+      en: p. 44
+      de: S. 44
   wybicki:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2656,6 +2761,51 @@ person:
     - key: '303'
       en: p. 303
       de: S. 303
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '20'
+      en: p. 20
+      de: S. 20
+    - key: '31'
+      en: p. 31
+      de: S. 31
+    - key: '67'
+      en: p. 67
+      de: S. 67
+    - key: '68'
+      en: p. 68
+      de: S. 68
+    - key: '69'
+      en: p. 69
+      de: S. 69
+    - key: '80'
+      en: p. 80
+      de: S. 80
+    - key: '84'
+      en: p. 84
+      de: S. 84
+    - key: '85'
+      en: p. 85
+      de: S. 85
+    - key: '86'
+      en: p. 86
+      de: S. 86
+    - key: '91'
+      en: p. 91
+      de: S. 91
+    - key: '96'
+      en: p. 96
+      de: S. 96
+    - key: '110'
+      en: p. 110
+      de: S. 110
+    - key: '127'
+      en: p. 127
+      de: S. 127
+    - key: notes
+      en: Notes
+      de: Anmerkungen
   - work: pachonski1973
     cite: Pachoński (1973)
     pages:
@@ -2696,6 +2846,18 @@ person:
       en: p. 252
       de: S. 252
   zajaczek:
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '23'
+      en: p. 23
+      de: S. 23
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '124'
+      en: p. 124
+      de: S. 124
   - work: pachonski1973
     cite: Pachoński (1973)
     pages:
@@ -2715,6 +2877,12 @@ person:
     - key: '156'
       en: p. 156
       de: S. 156
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '146'
+      en: p. 146
+      de: S. 146
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -3378,6 +3546,12 @@ place:
     - key: '31'
       en: p. 31
       de: S. 31
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '35'
+      en: p. 35
+      de: S. 35
   - work: wasicki1953
     cite: Wąsicki (1953)
     pages:

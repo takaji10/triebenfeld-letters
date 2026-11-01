@@ -1,8 +1,3 @@
----
-title: "Wielkopolska w powstaniu kościuszkowskim"
-author: Janina Muszyńska-Zygmańska
-imprint: Nakładem Głównego Komitetu Kościuszkowskiego w Krakowie, Poznań 1947
----
 
 <!-- p.[title page] -->
 WIELKOPOLSKA
@@ -32,8 +27,6 @@ KSIĘGARNIA ZIEM ZACHODNICH
 - Rozdział III. Rozszerzenie się insurekcji na Wielkopolskę — ruchy zbrojne powstańców i wyprawa Dąbrowskiego do Wielkopolski — 40
 - Rozdział IV. Upadek insurekcji — odwrót Dąbrowskiego i ostatnie wysiłki zbrojne Wielkopolan — 108
 - Rozdział V. Po upadku insurekcji — 136
-
-![Tadeusz Kościuszko](../2026-10-28-0005_2R.jpg)
 
 *Tadeusz Kościuszko. Miedzioryt punktowany z r. 1794 (Kraków — Muzeum Narodowe)*
 
@@ -334,8 +327,6 @@ Nie wtedy jednak rozgorzał „bunt“ w Wielkopolsce. Dość jeszcze silne zał
 Wydarzenia po klęsce szczekocińskiej nie były dla powstańców pomyślne. Generał Zajączek poniósł 8 czerwca klęskę pod Chełmem, którą zadał mu generał rosyjski Derfelden. W tydzień później nastąpiła kapitulacja Krakowa. Komendant miasta, pułkownik Wieniawski nie wyczerpawszy środków obrony, wydał miasto Prusakom, a tym samym upadły zamysły Kościuszki, aby Kraków oddać Austriakom w depozyt, których uważał za najlepszych z trzech zaborców[^99]. Nieszczęsna kapitulacja miała niebawem swój epilog w wypadkach warszawskich. Wzburzony z tej przyczyny lud dokonał samosądu na targowiczanach. Dalszym ciągiem niepowodzeń była nieudała wyprawa majora Liberadzkiego na Wołyń[^100].
 
 Nie wiodły się również próby wkraczania w zabór Prusaków i ich posiadłości[^101]. Liczne usiłowania w tym kierunku szły na północ. Zamierzano przedrzeć się przez kordon wojsk pruskich nad Narwią, gdzie od 25 czerwca stałe zachodziły utarczki z Prusakami. Widoki powodzenia dawała okoliczność, że dowódca wojsk pruskich, gen. Schönfeldt nie miał dość sił, aby dobrze 40)
-
-![Jan Henryk Dąbrowski. Ze zbiorów winnogórskich](../2026-10-28-0023_2R.jpg)
 
 *Jan Henryk Dąbrowski. Ze zbiorów winnogórskich*
 
@@ -843,8 +834,6 @@ I rzeczywiście nieprzyjaciel czuwał. 13 października dowiedział się stary S
 
 W tym celu następujące poczynił zarządzenia. Z Rawy pchnął magazyn do Piotrkowa, a stamtąd znów przewieźć kazał artylerię oblężniczą na Śląsk, aby móc działać swobodnie i nie rozdrabniać swych sił na liczne załogi. Za rzeczkę Rawkę wyprawił 3 bataliony i 5 szwadronów z armatami, skąd w razie potrzeby miały być skierowane do Łowicza lub Piotrkowa. Teraz ma-
 
-![Antoni Madaliński. Z miniatury w Muzeum XX. Czartoryskich](../2026-10-28-0060_2R.jpg)
-
 *Antoni Madaliński. Z miniatury w Muzeum XX. Czartoryskich*
 
 [113] <!-- p.113 -->
@@ -970,8 +959,6 @@ W źródłach przechowały się liczne wzmianki, dotyczące ruchu zbrojnego Wiel
 Na Kujawach trzymał się wtedy Ksawery Dąbrowski na czele 500 insurgentów. W dniu 6 listopada rozprzedawał on w Włocławku wielki zapas soli z pruskich magazynów zabrany, lecz przybyły niespodzianie pułk. Hinrichs wkrótce sól odebrał, a oddział jego przetrzebił i z miasta wyparł. Z innych dowódców powstańczych stał czas jakiś pod Brześciem Kujawskim pułk. Sokołowski w sile około 1200 ludzi. Pod Dobiegniewem zaś naprzeciwko Dobrzynia pułk. Wolski z 300 zbrojnymi[^405].
 
 Wyparci przez Hinrichsa z okolic nadwiślańskich, cofnęli się insurgenci kujawscy na zachód, w stronę Radziejowa i Piotrkowa kujawskiego, aby stamtąd jeszcze w drugiej połowie grudnia podejmować wyprawy partyzanckie. Ukryci w gęstych lasach tamtejszych i bagnach, posługując się manowcami, stawali się nieuchwytni, a ustalenie ich liczby było niełatwe. Amt kruświcki szacował tych powstańców kujawskich na kilka tysięcy. Drobniejsze ich oddziały docierały aż pod Kruświcę, wybierając z przyległych wsi żywność i furaż. Dochodziły też wieści o tzw. „pułku kujaw-
-
-![Fryderyk Adam Székely. Wierzbiczany](../2026-10-28-0069_2R.jpg)
 
 *Fryderyk Adam Székely. Wierzbiczany*
 

@@ -4138,3 +4138,20 @@ footer on every page. Changed, in both languages:
   summary page; `jekyll build` and `verify_site.py` pass (630 documents,
   61,223 internal links). `docs/LITERATURE_PLAN.md` section 30 and
   `docs/NEEDS_CONFIRMATION.md` record it.
+
+## 2026-11-01: Muszyńska-Zygmańska (1947) published in full
+
+- The editor's word: publish it. `visible: true`; the site now carries the
+  whole work, English first with a button for the Polish, at
+  /literature/muszynska1947/ and /de/literatur/muszynska1947/.
+- The literature index was run over its Polish text: **269 hits** found,
+  **243 stand**; **26 new pairs (68 hits)** read and ruled in
+  `literature/index.yml`; **0 unruled**, `--check` passes. False friends ruled
+  out: the Silesian minister Danckelmann, the Prussian general Lichnowski,
+  Jacek Małachowski, Colonel Pirch of 1794, Kamionna on the Bzura, the
+  Silesian Oleśnica, the town Świecie, and the surnames Kaliszowski, Łukomski
+  and Rogaliński; Warschauer the historian and the lieutenant Voss.
+- `literature_site.py` writes the full pages; `jekyll build` and
+  `verify_site.py` pass with the text on the site. The work's `notes.md` and
+  `docs/LITERATURE_PLAN.md` §30 record the change; the open question in
+  `docs/NEEDS_CONFIRMATION.md` is settled.

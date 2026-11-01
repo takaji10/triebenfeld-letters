@@ -1,13 +1,12 @@
 # One work of the literature (docs/LITERATURE_PLAN.md). original.md is the
 # Polish text of the book, front matter through the notes, without the
 # bibliography, index and errata (the apparatus is not cut into passages; see
-# notes.md). english.md is the corrected English translation. The book is under
-# copyright (1947; the author's death is not established here), so it is kept
-# off the site (visible: false) with the detailed summary below, like Seidel
-# (2018) and Slowinski (2023); the passages stay in dataset/literature for
-# questions. Do not change this without the editor's word.
+# notes.md). english.md is the corrected English translation. The editor ruled
+# it published in full (2026-11-01): visible: true, the text on the site like
+# any other work. The detailed summary below is kept as metadata (the site uses
+# the account; the summary is no longer shown in place of the text).
 slug: muszynska1947
-visible: false
+visible: true
 kind: book
 title: "Wielkopolska w powstaniu kościuszkowskim"
 title_en: "Greater Poland in the Kościuszko Insurrection"

@@ -35,6 +35,9 @@ package's intermediate drafts is kept here.
   The print's notes pages 155–177 carry no page marks in the transcription, so
   they cannot be cut page by page; a note is cited by its number, not by a
   page.
+- **The four illustrations** of the print (Kościuszko, Dąbrowski, Madaliński,
+  Székely) are not in the package. Their captions stand as text; the image
+  links are dropped so the site has no broken files.
 - **150 passages:** the front, pp. 7–154, and the notes. Every numbered page
   is present in both languages.
 - The transcription's own slips and the print's errata are handled in the
@@ -66,18 +69,24 @@ not its estate.
 
 ## On the site
 
-`visible: false`. The book is of 1947 and its rights are not established here;
-it is kept in the repository and cut into passages for questions, and the site
-shows only the detailed summary in `work.yml` (`summary_en`, `summary_de`), as
-for Seidel (2018) and Słowiński (2023). `pipeline/verify_site.py` checks that
-no stretch of the text appears on the site. **The editor's word is needed to
-publish it**; making it visible also means ruling the literature index's hits
-on its Polish text, which has not been done.
+Published in full at the editor's word (2026-11-01): `visible: true`, the text
+on the site like any other work, with the English first and a button for the
+Polish. The book is of 1947; the rights remain the editor's responsibility.
+The detailed summary in `work.yml` is kept as metadata, not shown in place of
+the text.
+
+The literature index found 269 hits of the edition's people and places in the
+work; 243 stand after the false friends were ruled out. Every pair was read;
+26 pairs (68 hits) were new and were ruled in `literature/index.yml`, and
+false friends were ruled out — among them the Silesian minister Danckelmann
+(not the edition's vice-president), the Prussian general Lichnowski (not the
+creditors), Jacek Małachowski (not Stanisław), Colonel Pirch of 1794 (not Major
+von Pirch of 1809), Kamionna on the Bzura (not the estate), the Silesian
+Oleśnica and the town Świecie (not the estate Święcia), and the surnames
+Kaliszowski, Łukomski and Rogaliński. `--check` passes with no unruled hit.
 
 ## What was not done
 
-- No index rulings: the work is not visible, so `literature_index.py` skips it.
-  Publishing it would require reading and ruling every hit.
 - No hand-made links: the book names none of the edition's people, estates or
   holdings, so there is nothing to tie a passage to a document.
 - The apparatus (bibliography, index, errata) is not cut into passages; the

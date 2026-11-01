@@ -12,14 +12,25 @@ DST = r"C:\Users\Tersnaus\Downloads\vonTriebenfeld\literature\muszynska1947"
 
 os.makedirs(DST, exist_ok=True)
 
+def strip_yaml(text):
+    return re.sub(r"\A---\n.*?\n---\n", "", text, count=1, flags=re.S)
+
 src = open(os.path.join(SRC, "source", "wielkopolska-w-powstaniu-kosciuszkowskim-1947.md"), encoding="utf-8").read()
+src = strip_yaml(src)
 cut = src.index("## Źródła i literatura")
 original = src[:cut].rstrip() + "\n"
 
 front = open(os.path.join(SRC, "translation", "front.en.md"), encoding="utf-8").read().rstrip()
+front = strip_yaml(front)
 toc = open(os.path.join(SRC, "translation", "toc.en.md"), encoding="utf-8").read().rstrip()
 body = open(os.path.join(SRC, "translation", "wielkopolska-en-qa.md"), encoding="utf-8").read().rstrip()
 english = front + "\n\n" + toc + "\n\n" + body + "\n"
+
+# The four illustrations of the print are not in the package; keep their
+# captions as text and drop the image links, or the site has broken links.
+img = re.compile(r"^!\[[^\]]*\]\([^)]*\)\s*\n?", re.M)
+original = img.sub("", original)
+english = img.sub("", english)
 
 open(os.path.join(DST, "original.md"), "w", encoding="utf-8", newline="\n").write(original)
 open(os.path.join(DST, "english.md"), "w", encoding="utf-8", newline="\n").write(english)
