@@ -245,6 +245,10 @@ layout: default
 <style>
 .map-columns { display: grid; grid-template-columns: minmax(19rem, 23rem) minmax(0, 1fr); gap: 2rem; align-items: start; }
 .map-stage { position: sticky; top: 1rem; }
+/* The stage may shrink: its viewer's aspect-ratio derives a width from the
+   viewer's height (622px on a phone), and as a grid item's automatic minimum
+   that width overflowed the stacked column by 46px. */
+.map-stage { min-width: 0; }
 .map-viewer { width: 100%; height: min(84vh, 58rem); background: #f4f1ea; border: 1px solid var(--rule); touch-action: none; }
 .map-tools { display: flex; gap: .8rem; align-items: center; margin-top: .4rem; }
 .map-rotbtn[hidden] { display: none; }
@@ -316,7 +320,7 @@ layout: default
 .map-text-label, .map-text-ru h4, .map-text-tr h4 { font-family: var(--sans); font-size: .72rem; font-weight: 400; letter-spacing: .04em; text-transform: uppercase; color: var(--ink-faint); }
 .map-text-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; margin: 0 0 .8rem; }
 .map-text-pair p { margin: 0 0 .45rem; }
-.map-text-table { width: 100%; max-width: 34rem; border-collapse: collapse; font-size: .9rem; margin: .6rem 0 .5rem; }
+.map-text-table { display: block; width: 100%; max-width: min(34rem, 100%); overflow-x: auto; border-collapse: collapse; font-size: .9rem; margin: .6rem 0 .5rem; }
 .map-text-table th, .map-text-table td { padding: .28rem .4rem; text-align: left; vertical-align: middle; }
 .map-text-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--ink-faint); border-bottom: 1px solid var(--rule); }
 .map-text-table .text-group th { padding-top: .8rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
