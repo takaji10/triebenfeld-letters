@@ -3046,3 +3046,29 @@ a gutter column from 64rem with a toggle in the viewbar. Lessons:
   302 after): the count is the number of (document, link, passage) pairs
   actually rendered, and the per-passage document subsets mean fewer pairs,
   not a weaker check — each rendered pair is still checked on both sides.
+
+## The cross-holding connections (2026-11-01)
+
+Built from the editor's questions: how to find connections across all the
+documents, and the step folded into adding any source (CONNECTIONS.md).
+Lessons:
+
+- **The per-passage lesson generalises**: a connection's note is written
+  for the page it stands on — each participant its own `en`/`de` — the same
+  rule the literature's `about:` entries obey. A shared sentence was the
+  original sin of the old call-outs; do not reintroduce it on the document
+  side.
+- **`lit_doc` in i18n is the reference label both link kinds share**
+  (`"%s, document %s"`): connections_site.py reads it, so the wording of
+  the document references stays in one place. The build reads the *whole*
+  i18n file (it needs both languages), like literature_site.py.
+- **Document pages are single-URL** — the language is swapped in-page
+  (`data-en`/`data-de` spans, letter.js), not by a `/de/` address: a check
+  script that fetches `/de/dokumente/...` gets a 404 that means nothing.
+  The Related entry's links therefore carry `data-en`/`data-de` like the
+  literature's do.
+- **The verify gate's two link blocks sit side by side** (the literature's
+  302 pairs, the connections' 8): both read the generated `_data` file and
+  walk the built pages, so a new kind of cross-reference that wants a
+  both-sides check has its pattern right there — copy the block, not the
+  idea.

@@ -1518,3 +1518,19 @@ transcription; 108 readings settled in session before the first build
       yet linked (Werner, Mielewczyk, Muszyńska, Mączak, Frost), then the
       rest. The measure of relevance: a document that confirms, corrects,
       extends or dates what the passage says, in that order of value.
+
+## 60. The connections between documents of different holdings (2026-11-01, branch `related-callouts`)
+
+- [x] The mechanism built: `reference/connections.yml`, its builder, the
+      "Related"/"Bezüge" entry in a document's "About this document" box,
+      the both-sides check (CONNECTIONS.md).
+- [x] The method written down (chains, per-entity sweeps, figures as
+      hooks), and the Connections step added to NEW_UNIT section 8, the
+      newspapers', places' and literature's adding procedures.
+- [x] The first batch: four connections, eight documents, from the chains
+      the ruled links had already mapped.
+- [ ] You: read the four connections' notes on the site (the "About this
+      document" box of each of the eight documents, both languages).
+- [ ] Claude, then, at your word: the sweep's next passes — the remaining
+      chains the summaries suggest, the per-entity sweeps from the index
+      (fewest documents first), then the era essay as a map.

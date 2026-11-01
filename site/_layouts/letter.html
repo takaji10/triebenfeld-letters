@@ -218,6 +218,21 @@ layout: default
       </dd></div>
       {% endif %}
 
+      {%- comment -%} The documents of other holdings this one belongs with
+        (reference/connections.yml, made into site.data.connections by
+        pipeline/build/connections_site.py): this document's own note, then
+        the other documents of each connection. {%- endcomment %}
+      {% assign conns = site.data.connections[page.uid] %}
+      {% if conns %}
+      <div class="m-item"><dt data-i18n="doc_related">{{ t.doc_related }}</dt>
+      <dd class="lit-doclinks">
+        {% for cn in conns %}
+        <p><span data-en="{{ cn.en | escape }}" data-de="{{ cn.de | escape }}">{% if lang == 'de' %}{{ cn.de }}{% else %}{{ cn.en }}{% endif %}</span></p>
+        <p class="lit-doclinks-pages">{% for o in cn.others %}<a href="{{ o.permalink | relative_url }}" data-en="{{ o.label_en | escape }}" data-de="{{ o.label_de | escape }}">{% if lang == 'de' %}{{ o.label_de }}{% else %}{{ o.label_en }}{% endif %}</a> {% endfor %}</p>
+        {% endfor %}
+      </dd></div>
+      {% endif %}
+
       {% if page.duplicate_of %}
       <div class="m-item"><dt data-i18n="duplicate">{{ t.duplicate }}</dt>
       <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>.</dd></div>

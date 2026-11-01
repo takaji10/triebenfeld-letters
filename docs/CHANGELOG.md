@@ -4354,3 +4354,45 @@ footer on every page. Changed, in both languages:
 - Verified: build and `pipeline/verify_site.py` clean (37 links, 40
   documents, 302 link-pairs checked on both sides). Committed on the
   branch; not published.
+
+## 2026-11-01: the connections between documents of different holdings — the mechanism, the method, the step in every adding-a-source procedure (branch `related-callouts`, not published)
+
+- The editor asked how connections to other documents should be made —
+  going deeper, across all the documents and not just the literature — and
+  that the step be part of adding any new source, with the new source's
+  connections into existing documents proposed as part of the adding.
+- **Built now** (the editor's choice, asked with the plan): the four kinds
+  of connection gathered in one standing reference, `docs/CONNECTIONS.md` —
+  the within-holding relations of `rulings.yml` (they have stood since
+  2026-10-03), the new cross-holding connections, the literature's and the
+  other sources' links, and the computed index — with the method (chains,
+  per-entity sweeps, figures as hooks, the era essay as a map; the measure
+  of relevance: a document that confirms, corrects, extends or dates what
+  the other says) and the Connections step that every adding-a-source
+  procedure now carries (NEW_UNIT section 8's table, the newspapers',
+  places' and literature's plans).
+- **`reference/connections.yml`** — each connection names at least two
+  documents of different holdings, each participant with its own note in
+  English and German: the note THAT document's page shows, so no page
+  carries a sentence written for the other side (the per-passage lesson).
+  `pipeline/build/connections_site.py` (a step of `regenerate.py`) checks
+  it and writes `site/_data/connections.yml`; a document's page shows its
+  own note and links to the other participants in the "About this document"
+  box, headed "Related"/"Bezüge" (`doc_related` in i18n);
+  `pipeline/verify_site.py` checks every participant's page links every
+  other participant, both languages.
+- **The first batch, the chains pass** (the editor's choice): four
+  connections, eight documents, each resting on links the editor has
+  already ruled and carrying no new identification — the donation dossier
+  against the letter reporting its gift's yields (4-6,000 expected in 1796;
+  20,000 reported by March 1799); the lost privilege of 1746 and its two
+  witnesses (the decree of 1775, the summons of 1860, which also pleads the
+  contract of 18 May 1805); the two registers that count the same villages
+  eight years apart (Kalisz Tab. 21's hearth money of 1789, the General
+  Directory's houses and people of 1797); the Commission's resolution of
+  21 July 1807 kept by two offices (the file's draft, the register's
+  protocol). Screenshots checked the box at 1280 and 360 (no overflow;
+  document pages are single-URL, the language swapped in-page).
+- Verified: build and `pipeline/verify_site.py` clean (8 cross-holding
+  connections checked on both sides). Committed on the branch; not
+  published.

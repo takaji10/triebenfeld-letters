@@ -190,6 +190,14 @@ matters for context. So:
    value at the gift, later valuation, sale price), which bears directly on
    the question of inflated values.
 
+**When a new work is added**, its links are proposed in the same sitting
+(docs/CONNECTIONS.md, "The Connections step"): read the work's passages
+against the edition's documents — chains first, figures as hooks — and put
+each proposed link before the editor, its per-passage notes with it, flagged
+as Claude's reading where an identification is Claude's. The sweep's method
+and its measure of relevance are in CONNECTIONS.md; the first sweep is
+section 32.
+
 ## 7. How the site pages are made (2026-10-19)
 
 - `pipeline/literature/literature_site.py` (a step of pipeline/regenerate.py, after

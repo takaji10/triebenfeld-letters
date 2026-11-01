@@ -117,7 +117,17 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-26)
+## Where things stand (2026-11-01)
+
+- **The literature's call-outs reworked, and the connections built**
+  (branch `related-callouts`, 2026-11-01, **not published**): the duplicated
+  "In the documents" boxes rebuilt as per-passage notes ("Related"/"Bezüge")
+  in a gutter column with a toggle (LITERATURE_PLAN section 32), the first
+  sweep of new links written, and the cross-holding connections built with
+  their method and the Connections step in every adding-a-source procedure
+  (`docs/CONNECTIONS.md`). Read WORKING_NOTES, "The Related column" and
+  "The cross-holding connections". Open: the editor's read of the new
+  notes and the six flags (TODO, sections 59-60; NEEDS_CONFIRMATION).
 
 - **The holding pages tightened** (branch `unit-pages-tightening`,
   2026-10-30, **not published**): the page heading is the translated title,
