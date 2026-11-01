@@ -4028,6 +4028,246 @@ footer on every page. Changed, in both languages:
   `docs/LITERATURE_PLAN.md` §30 record the change; the open question in
   `docs/NEEDS_CONFIRMATION.md` is settled.
 
+
+## 2026-11-01: Dorow (1843), Triebenfeld's memoir, brought in (not published)
+
+- The source found: the editor's PDF of Wilhelm Dorow, *Erlebtes aus den
+  Jahren 1813-1820*, part II (Leipzig 1843) - the SBB digitisation (PPN
+  167107372X, Bibl. Varnhagen 936, Public Domain Mark), image-only, 245 MB -
+  had been downloaded 2026-10-19 with the first literature set and left
+  unprocessed; nothing of it had ever entered the repository, the plan or
+  the index. It prints, at printed pp. 13-24, the memoir "Pohlen unter
+  Friedrich II. und Friedrich Wilhelm II." which the war councillor Peter
+  August von Triebenfeld submitted to Dorow in 1813 - the longest thing
+  Triebenfeld is known to have written, and in his own words; the
+  Materialien (1861, pp. 205-216) reprints it only in extract, and
+  Łukasiewicz (1997) retells it. The editor ruled the memoir only, not the
+  whole part II.
+- The excerpt: the memoir's title leaf and its Goethe motto leaf
+  (unnumbered, the volume's pp. 11-12) as the work's front, then printed
+  pp. 13-24, ending with Hardenberg's verdict of November 1816; 13 passages
+  in both languages. `literature/dorow1843/`, the slug `dorow1843`, kind
+  collection, visible (1843, public domain); the scan's pages are not kept
+  in the repository.
+- Read by OCR: Tesseract 5.5.3 with the `script/Fraktur` model from
+  tessdata_best fetched into `%LOCALAPPDATA%\Tesseract\tessdata` (the deu
+  model there does not read Fraktur; the install's own tessdata carries
+  English only); whole pages at 300 dpi, doubtful lines as 900 dpi bands in
+  the Fraktur and deu models. The lunaroute converter (the second engine of
+  the Kraus 2001 sitting) could not be reached this session; in its place
+  the Materialien's reprint of the same memoir was read line against line
+  with `difflib` - its added motto (Vollgräff), added pointers, small
+  omissions ("auf 6 Jahr"), own slips ("zu werden") and silent
+  normalisations are recorded in the work's `notes.md`, and the 1843 print
+  stands where they differ.
+- Nine readings the passes and the reprint did not settle went to the
+  editor's spot sheet (`scratch/dorow1843_sheet.py`, answers to
+  `review/dorow1843/query_answers.json`): the 9/5 Procent digit of p. 14
+  (the Materialien prints 5 with its own "(?—)" pointer), gebauset/gehauset,
+  Offizcianten against the print's own whole-word Offizianten of p. 17,
+  Würkungskreis and bewürken against the reprint's Wirkungs- forms, kukken,
+  Michelis/Michaelis, and the title leaf's display word and cross-reference.
+- The sheet answered the same day (eight of nine rows), the rulings worked
+  into `original.md` and the English: **5 Procent** (the Fraktur model's 9
+  was its error), **gehauset**, **Officianten**, **Würkungskreis**,
+  **bewürken**, **kukken**, **Michelis** and **Pohlen** stand; the
+  cross-reference row was not answered and stays open in NEEDS_CONFIRMATION
+  ("The literature"). The work's `notes.md` records the answers and the two
+  spellings of Offizianten/Officianten the print itself carries (p. 17 as
+  read, p. 15 as ruled).
+- The figures: the memoir's own figures are Triebenfeld's (the 10 and the
+  volunteered 24 per cent; Prince Karl George of Hessen's circa 230,000
+  purchase valued at 800,000; Heymann Ephraim's 200,000 at 5 per cent with
+  the 30,000 proxeneticum). The memoir does not print the story of
+  Triebenfeld's own estate - that is Łukasiewicz's telling - and
+  Łukasiewicz's "35 000" for the valuation commission is not the memoir's
+  figure either: the memoir makes the valuation itself cost the prince
+  "etwa 3500 Thlr." (p. 22). The register's entry and the letters (400,000
+  and 750,000) stand against both (the standing rule).
+- The index: 60 hits of the edition's people and places (Hoym 23,
+  Schulenburg 10, Berlin 6, Triebenfeld 4, Südpreußen 4), every spelling
+  already ruled for the other works; `--check` passes with 0 unruled. One
+  hand-made link (`dorow-memoir`): the memoir's two self-identifying
+  passages (pp. 18-19) to the same three letters of the Prince that stand
+  against Łukasiewicz's telling (oe1bu9454-104, -108, -112); the
+  attribution of the memoir is the volume's own and the Materialien's note
+  152 spells it out.
+- `literature_site.py`, `make_thumbs.py`, `build_site_data.py`, `jekyll
+  build` and `verify_site.py` all pass (630 documents character-exact, 326
+  hand-made links checked on both sides). `docs/LITERATURE_PLAN.md` §31
+  records the work. The literature has 41 works, 35 with pages in both
+  languages and six summary-only.
+- Published at the editor's word ("Publish"): the commit cherry-picked to
+  main (21a7d01f7) and pushed; the "Build and deploy" run 41286917735
+  succeeded, and /literature/dorow1843/ and /de/literatur/dorow1843/
+  answer, the "In the documents" box and its three letters included.
+
+## 2026-11-01: the site fits a phone (the mobile overflow pass)
+
+- The editor reported an overflow on the literature page on mobile. The
+  whole built site was checked with a headless browser (puppeteer-core
+  driving the machine's Edge, the pages served locally): every page of the
+  site except the per-document ones (1,906 pages) and all 631 document
+  pages, at 360 px and the previously broken set again at 390 and 320,
+  measuring whether anything sticks out past the viewport's right edge.
+  **First run: 18 of 58 sample pages overflowed; the full crawl: 54 pages;
+  after the fixes: 0 of 1,985 pages.**
+- Seven root causes, all in the CSS, one in the map layout:
+  - **The materials-list cards** (`.source`): a card's automatic minimum as
+    a grid item is its min-content, and the 400px thumb image's intrinsic
+    width counted into it - every card refused to shrink below ~432px.
+    Fixed with `min-width: 0` on the card and its body
+    (`overflow-wrap: anywhere` there too, for the Dean & Hecker card's
+    390px licence URL in its Published line).
+  - **The literature's "In the documents" links** (`.lit-links-docs a`,
+    `.lit-doclinks-pages a`): `white-space: nowrap` made one reference
+    ("Oe 1 Bü 9454, document 108 (22 July 1800)") an unbreakable 350px run;
+    the nowrap is gone, the links wrap like text.
+  - **The literature's tables** (`.lit-orig/.lit-en/.lit-only table`):
+    `display: block; max-width: 100%; overflow-x: auto` - Mączak's
+    thirteen-column table now scrolls inside its passage.
+  - **The passage jump nav** (`.lit-jump a`): nowrap, and the Minakowska
+    works key their passages by whole section headings - one link was
+    427px. The links wrap now.
+  - **The facts lines** (`.source-facts dd`): `overflow-wrap: anywhere` and
+    `min-width: 0` on their flex items - the same licence URL overflowed
+    the Dean & Hecker work page, and the map pages' Holder line their
+    facts.
+  - **The English-only works' text** (`.lit-only`): it lacked the
+    `overflow-wrap: anywhere` the other passage containers had - the Dean
+    & Hecker notes carry bare URLs 470px wide.
+  - **The footnotes** (`.footnotes`, kramdown's endnote blocks): a long
+    Wikimapia URL overflowed the Szetlew place page; any token may break
+    there now.
+  - **The browse filters** (`.filters label`, `.tools-filter select`): a
+    select's intrinsic width is its widest option's ("Alexander I, Emperor
+    of Russia (48)"), and the label would not shrink; `min-width: 0` on
+    both.
+  - **The map pages** (their own style block in `_layouts/map.html`): the
+    sticky stage's viewer derives a width from its height through
+    aspect-ratio (622px on a phone) and overflowed the stacked column by
+    46px (`min-width: 0` on the stage); the boundary table
+    (`.map-text-table`) scrolls inside its block like the literature's
+    tables.
+- The check's scripts stand in the session's temp folder
+  (`C:/Users/Tersnaus/AppData/Local/Temp/opencode/mobilecheck/`): a crawler
+  measuring `scrollWidth` against the viewport and reporting the widest
+  offenders, driven over the page list of the built site. To re-run after a
+  change: serve `site/_site` (python -m http.server), point the crawler at
+  it, rebuild first. `jekyll build` and `verify_site.py` pass.
+
+## 2026-11-01: the literature's call-outs reworked — "Related", one note per passage, a gutter column with a toggle (branch `related-callouts`, published at the editor's word)
+
+- The problem, reported by the editor with /literature/materialien1861/ as
+  the example: the boxes generated from `literature/links.yml` under the
+  heading "In the documents" repeated themselves wherever a link named
+  several passages of one work (18 of the 33 links; the worst stamped the
+  same box about Bischofswerder, Zastrow, Dolffs and Rüchel under nine pages
+  of the Materialien and seven of the Feuerbrände), and each carried the
+  link's whole sentence whether or not it bore on the page it stood under.
+- **`about:` per-passage notes** (the editor's choices, asked 2026-11-01:
+  the heading "Related"/"Bezüge", the notes inside one link rather than
+  split links, the toggle beside the view buttons, on by default; the
+  document side keeps "In the literature"): a link with more than one
+  passage of a work carries an `about:` entry per passage — its own note
+  (en, de) and its own documents, a subset of the link's. Every passage of
+  such a link must have its note; every document of the link must belong to
+  at least one passage; a one-passage link needs no `about:` and may not
+  carry one. `literature_site.py` validates all of it and stops on a breach.
+- **The passage entries pruned to their documents' reach**: the Treskow and
+  Wendessen entries (Materialien pp. 152, 153, 171; Feuerbrände 2-74,
+  2-90) leave `register-other-gifts` — the letter of 13 March 1799 does not
+  touch them. Per-passage notes written for all 18 links that had repeated
+  themselves; 72 passage entries now stand where 73 repeated placements
+  stood.
+- **The gutter column**: from 64rem viewport width the entry stands beside
+  the passage (grid `minmax(0, 44rem) 14rem` on `.lit-passage.has-related`,
+  the passage's text in a new `lit-main` wrapper); below that it folds under
+  the passage text as the box did. The heading is "Related" (`lit_related`
+  in i18n), German "Bezüge"; the toggle button (`.rbtn`, `data-related`
+  on the body, `tf-lit-related` in localStorage, default on, `literature.js`)
+  hides the column page-wide; without JavaScript it shows.
+- Checked with the mobile crawler (its method in WORKING_NOTES) over all 42
+  works in both languages at 320/360/390/1024/1280/1920: 504 checks, none
+  overflowing; the toggle exercised on every page that carries it.
+- **One new link from the rework's reading** — `register-donations`: the
+  donation dossier I. HA Rep. 7 C Nr. 3570 (Hoym's proposal of 14 July 1796,
+  the King's cabinet order of 23 July given at Pyrmont, the deeds of
+  9 August 1796) against the register's entries whose deeds and valuations
+  it holds (Blücher's Duninow, Pontanus's Sieradz, Dolffs's Strzelec with
+  the deed date the register prints, Goldbeck's chancery); where they
+  disagree the notes say so (the proposal's 120,000 rt for all the Prince's
+  items against the register's official 89,250 Thlr.; the proposal's yield
+  of 1,500 rt for Duninow against the note's "certainly 6000 thalers").
+- **The first sweep of new links** (the works LITERATURE_PLAN section 9
+  had queued; every figure read in the book and in the document):
+  - `held-krotoszyn` — Held (1801), the papers of Früson's suit:
+    Triebenfeld's administration of Krotoszyn until 1791 at some 17-18,000
+    rt a year, Früson's nine-year lease at 30,100 from 1 July 1791
+    (pp. 12, 54, 79, 129, 173), the composition wrung from Früson by
+    Triebenfeld and Neumann giving the lease up (p. 34) — which the King's
+    refusal of 4 December 1798 prices from the government's side: the
+    Abstand of 26,000 rt for the Abtretung der Pacht of 1795
+    (oe1bu9454-85, -86, -101). Claude's reading; NEEDS_CONFIRMATION.
+  - `guradze1898-emancipation` — the Duchy of Warsaw's constitution of
+    22 July 1807 and the decree of 24 December 1807 abolished hereditary
+    subjection; the lease's paragraph 13 had freed its eighteen lessees of
+    it two years before (app539680801-3).
+  - `paciorkowski1776-boundary` — the 1768 constitution's approval rule and
+    its rules on boundaries destroyed or privately erected, beside the
+    Tribunal's approval of 23 January 1782, the demolition act of
+    28 November 1782 and Chełmski's protest of 1778 (Konin Gr. 153, Konin
+    Gr. 117). Claude's reading; NEEDS_CONFIRMATION.
+- New in NEEDS_CONFIRMATION: the register's official 89,250 Thlr. against
+  the dossier's proposal of 120,000 rt; the Duninow yield (1,500 rt against
+  "certainly 6000"); the Konin row's 12,000 (a slip or a row?); Żychliński
+  (1885) writing Władysław where the summons of 1860 names Włodzimierz;
+  Held's composition identified with the 1795 Abtretung; the Paciorkowski
+  tie as resemblance, not statute.
+- Verified: build and `pipeline/verify_site.py` clean (37 links, 40
+  documents, 302 link-pairs checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
+
+## 2026-11-01: the connections between documents of different holdings — the mechanism, the method, the step in every adding-a-source procedure (branch `related-callouts`, published at the editor's word)
+
+- The editor asked how connections to other documents should be made —
+  going deeper, across all the documents and not just the literature — and
+  that the step be part of adding any new source, with the new source's
+  connections into existing documents proposed as part of the adding.
+- **Built now** (the editor's choice, asked with the plan): the four kinds
+  of connection gathered in one standing reference, `docs/CONNECTIONS.md` —
+  the within-holding relations of `rulings.yml` (they have stood since
+  2026-10-03), the new cross-holding connections, the literature's and the
+  other sources' links, and the computed index — with the method (chains,
+  per-entity sweeps, figures as hooks, the era essay as a map; the measure
+  of relevance: a document that confirms, corrects, extends or dates what
+  the other says) and the Connections step that every adding-a-source
+  procedure now carries (NEW_UNIT section 8's table, the newspapers',
+  places' and literature's plans).
+- **`reference/connections.yml`** — each connection names at least two
+  documents of different holdings, each participant with its own note in
+  English and German: the note THAT document's page shows, so no page
+  carries a sentence written for the other side (the per-passage lesson).
+  `pipeline/build/connections_site.py` (a step of `regenerate.py`) checks
+  it and writes `site/_data/connections.yml`; a document's page shows its
+  own note and links to the other participants in the "About this document"
+  box, headed "Related"/"Bezüge" (`doc_related` in i18n);
+  `pipeline/verify_site.py` checks every participant's page links every
+  other participant, both languages.
+- **The first batch, the chains pass** (the editor's choice): four
+  connections, eight documents, each resting on links the editor has
+  already ruled and carrying no new identification — the donation dossier
+  against the letter reporting its gift's yields (4-6,000 expected in 1796;
+  20,000 reported by March 1799); the lost privilege of 1746 and its two
+  witnesses (the decree of 1775, the summons of 1860, which also pleads the
+  contract of 18 May 1805); the two registers that count the same villages
+  eight years apart (Kalisz Tab. 21's hearth money of 1789, the General
+  Directory's houses and people of 1797); the Commission's resolution of
+  21 July 1807 kept by two offices (the file's draft, the register's
+  protocol). Screenshots checked the box at 1280 and 360 (no overflow;
+  document pages are single-URL, the language swapped in-page).
+- Verified: build and `pipeline/verify_site.py` clean (8 cross-holding
+  connections checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
+
 ## 2026-11-01: The Kościuszko letter of 3 IX 1798 added as the holding ossol2289 (B. Ossol. rkp. 2289 II)
 
 - The editor ruled the attribution working and asked for the letter to be

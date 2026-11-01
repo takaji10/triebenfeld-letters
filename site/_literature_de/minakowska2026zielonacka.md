@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -20,9 +21,11 @@ Born possibly in 1700
 Died
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c01">Parents</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -53,9 +56,11 @@ Joanna Wierusz-Kowalska z Kowali h. Wieruszowa ?1700-
 Helena Zielonacka, ?1700-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c02">Spouses and children, the grandchildren, and up to the great-grandchildren</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -113,6 +118,7 @@ Stanisław Bronisz ?1840-1863 \|
 |
 Maria Bronisz 1849-1913 \|
 
+</div>
 </div>
 </section>
 {% endraw %}

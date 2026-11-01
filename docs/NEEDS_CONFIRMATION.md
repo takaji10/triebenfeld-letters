@@ -661,6 +661,50 @@ read, translate and summarise.
   editor's word (2026-10-21): 1746 (Konin Gr.145, the summons of 1860),
   1754 (Gr.136), 1771 (Kalisz Gr.414), 1782 (Gr.153), the register of 1797
   (AGAD 1/169/0/1/1745) and the hearth tax of 1789 (Kalisz Tab.21).
+  **The black register and the donation dossier** (the links
+  `register-*`, the rework of the call-outs, 2026-11-01; every figure read
+  on both sides):
+  - **The official valuation and the proposal.** The register's own entries
+    value the Prince's gift at 89,250 Thlr. together (77,250 for the Posen
+    entry, 12,000 for the Konin row of Materialien p. 159 / Feuerbrände
+    2-80); Hoym's proposal of 14 July 1796 in the donation dossier (I. HA
+    Rep. 7 C Nr. 3570) counted all the Prince's items at 120,000 rt, with a
+    yield of 4 to 6,000. The links' notes state both figures.
+  - **The yield of Blücher's gift.** The register's note on Blücher
+    (Materialien p. 142, Feuerbrände 2-66) reckons the income "certainly
+    6000 thalers"; the dossier's proposal for the Duninow estates gives a
+    yield of 1,500 rt and a value of 30,000 rt.
+  - **The Konin row's 12,000.** Whether the register's 12,000 Thlr. for the
+    five Konin villages is a slip for the whole grant's 120,000 rt (which
+    covers the Posen and Cujavien items besides) or a genuine row of its
+    own: not decided. The notes state the arithmetic, not the answer.
+  **Żychliński (1885), p. 188** (the link `zychlinski1885-line`,
+  2026-11-01): the book writes that Michalina's grandson **Władysław**
+  Miączyński holds the Trąbczyn estate; the summons of 1860
+  (APP 53/968/0/-/783) is issued at the demand of Count **Włodzimierz**
+  Miączyński as heir of the Trąbczyn estates — as with Chodyła's note 34,
+  Władysław was heir only after 1879 (the editor, 2026-10-15). The link's
+  note says both; the edition keeps Włodzimierz.
+  **Paciorkowski (1776) and the boundary rules** (the link
+  `paciorkowski1776-boundary`, Claude's reading, 2026-11-01): the edition's
+  boundary process ran on the Sejm's commission of 1774 (an extraordinary
+  commission), not on the Sub-Chamberlain's ordinary office the
+  constitution of 1768 regulates; the link ties the passages as the rules
+  the documents' proceedings resemble (the Tribunal's approval of
+  23 January 1782, the demolition of the intermediate stones, the protest
+  against a privately carried-out field act), not as the statute they were
+  brought under. Waits on the editor.
+  **Held (1801) and the composition of 1795** (the link `held-krotoszyn`,
+  Claude's reading, 2026-11-01): Held prints, among the papers of Früson's
+  suit, the "Vergleich" wrung from Früson by Triebenfeld and Neumann giving
+  up the lease of Krotoszyn; the King's refusal of 4 December 1798 says
+  Triebenfeld received an Abstand of 26,000 rt for the Abtretung der Pacht
+  of 1795. That the composition and the 1795 Abtretung are one transaction
+  rests on the year and the parties — the print's excerpt carries no date —
+  and waits on the editor. Held's dossier is not of one voice besides:
+  p. 54 has Früson leasing from the Seehandlung whose administration until
+  then was Triebenfeld's, and the letters' Abstand puts Triebenfeld in the
+  lease's giving-up; the notes state both sides.
   **Boniecki (1900)**, the Chełmski family, the branch that held Łukomia
   (added and published 2026-10-21; `literature/boniecki1900/notes.md`).
   Where it differs from the documents, the edition takes the documents:
@@ -1491,6 +1535,14 @@ rulings on the pilot").
   friends such as the Silesian Danckelmann, Jacek Małachowski and Kamionna on
   the Bzura ruled out). The bibliography, index and errata are apparatus and
   are not cut into passages (see the work's `notes.md`).
+
+
+- **Dorow (1843), the memoir's cross-reference** (added 2026-11-01): the
+  form of the numeral in the title leaf's "Siehe I. Theil Seite 19." - the
+  spot sheet's one unanswered row (the Fraktur pass read "1r Theil", the
+  deu pass "Ir Theil"; both point to a roman I, and the draft stands at
+  "Siehe I. Theil Seite 19."). The literature's other eight doubtful
+  readings were ruled on the sheet the same day (the work's `notes.md`).
 
 ## The Ossolineum manuscript NBO 2289/II (sweep of 2026-11-01, branch
 `ossolineum2289`)

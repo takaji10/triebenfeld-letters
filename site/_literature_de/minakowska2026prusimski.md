@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -35,9 +36,11 @@ Age: probably 62 years
 Polski Słownik Biograficzny vol. 28 p. 582: PRUSIMSKI Kazimierz Józef (1744- ca. 1806), envoy, émigré activist
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c01">Rodzice</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -63,9 +66,11 @@ born in 1722
 died in 1780, aged 58.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c02">Przodkowie</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -115,9 +120,11 @@ Wiktoria Malczewska of Malczewo, arms Awdaniec 1722-1780
 Antoni Michał Kazimierz Ostroróg-Prusimski of Kolno, arms Nałęcz, a "hero of the PSB", 1744-ca 1806
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c03">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c03">śluby i dzieci, wnuki, i do prawnuków</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -138,9 +145,11 @@ Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz an article in the Ne
 & Stanisław Adam Miączyński of Miączyn, arms Suchekomnaty an article in the Nekrologia, a "hero of Wiki", a member of the Sejm 1830-31, captain of the army of the Duchy of Warsaw, (line: Kajetan Miączyński 8.192.505) 1780-1845
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c04">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c04">Wnuki</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -195,6 +204,7 @@ Tadeusz Franciszek Władysław Count Miączyński of Miączyn, arms Suchekomnaty
 Jerzy Bernard Count Miączyński of Miączyn, arms Suchekomnaty 1860-1913 \|  
 Maria Countess Miączyńska of Miączyn, arms Suchekomnaty 1862-1919 \|
 
+</div>
 </div>
 </section>
 {% endraw %}

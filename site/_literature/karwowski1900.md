@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-87">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-87">p. 87</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -34,6 +35,7 @@ Thus the sum of 40,000 Polish gulden was lost to the Cistercian Nuns, together w
 
 […]
 
+</div>
 </div>
 </section>
 {% endraw %}

@@ -1,23 +1,31 @@
 # Passages of the literature tied by hand to documents of the edition
 # (docs/LITERATURE_PLAN.md, section 5, item 2, and section 9).
 #
-# Read by pipeline/literature/literature_site.py, which puts an "In the
-# edition" box under each passage named here, with the sentence and a link to
-# each document, and writes site/_data/literature_links.yml for the "In the
-# literature" entry beside each document named here. It stops on a passage or
-# a document that does not exist, and on a passage of a work not shown on the
-# site (Seidel).
+# Read by pipeline/literature/literature_site.py, which puts an entry in the
+# "Related" column beside each passage named here (the passage's own note and
+# the documents that belong to it there), and writes site/_data/literature_links.yml
+# for the "In the literature" entry beside each document named here. It stops on
+# a passage or a document that does not exist, on a passage of a work not shown
+# on the site (Seidel), and on a link whose notes do not cover its passages.
 #
 # Each link:
 #   id         a short name, never shown
 #   passages   <work>/<passage key>, as in dataset/literature/index.json
 #   documents  the documents' uids, as in dataset/letters.json
 #   en, de     one sentence (or two) saying why they belong together. It is
-#              read on both sides, under the passage and beside the document,
-#              so it names the book, the document and what each says. Every
-#              figure in it was read in both the book and the document
-#              (Claude, 2026-10-19). Say who says what: "the register says",
-#              never "it was".
+#              read beside each document ("In the literature"), so it names
+#              the book, the document and what each says. Every figure in it
+#              was read in both the book and the document (Claude, 2026-10-19).
+#              Say who says what: "the register says", never "it was".
+#   about      where a link names more than one passage of a work, the
+#              per-passage notes that keep the column from repeating itself
+#              (the editor, 2026-11-01): one entry per passage, keyed
+#              <work>/<passage key>, each with its own en and de and its own
+#              documents — a subset of the link's; left out, the link's
+#              documents stand. A link with several passages must carry an
+#              entry for every one of them; a link with one passage needs
+#              none, its sentence is the note. Every document of the link
+#              must belong to at least one passage.
 # Where the link rests on Claude's identification, the comment above it says
 # so, and docs/NEEDS_CONFIRMATION.md lists it until the editor has ruled.
 
@@ -72,6 +80,7 @@
     - oe1bu9454-87
     - oe1bu9454-97
     - oe1bu9454-101
+    - oe1bu9454-103
   en: >-
     The black register lists the estates given to the Prince of Hohenlohe,
     Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a
@@ -97,6 +106,158 @@
     Jahresertrag veranschlagten Güter jetzt 40.500 brächten; die Antwort des
     Fürsten, seine Güter trügen 41.500 und die Pacht von Krotoszyn sei 30.100;
     und seine spätere Eingabe.
+  about:
+    materialien1861/145:
+      en: >-
+        The entry gives the Prince's estates as worth about 800,000 Thaler and
+        yielding 50,000 a year, where the late King had meant a gift of 6,000,
+        and says Beyme stopped the Prince's exchange of them for Krotoszyn. The
+        gift itself is in the edition: Hoym's proposal of 14 July 1796 and the
+        King's cabinet order of 23 July grant the Prince the Prusimski estates —
+        Trąbczyn, Szetlewek, Nowa Wieś, Łazy, Osiny, the Laski and the Hauland
+        of Trąbczyn among them — at a proposed value of 120,000 rt and a yield
+        of 4 to 6,000, and the deed of 9 August 1796 follows. The King's refusal
+        of 4 December 1798 answers the exchange with the yield counted
+        otherwise, and Triebenfeld writes from Berlin in January 1799 that only
+        "B[eyme] and K[öckritz]" stood firm against having it refused outright.
+      de: >-
+        Der Eintrag gibt die Güter des Fürsten mit etwa 800.000 Talern Wert und
+        50.000 Talern Jahresertrag an, wo der verstorbene König nur eine
+        Schenkung von 6.000 gemeint habe, und sagt, Beyme habe den Tausch des
+        Fürsten gegen Krotoszyn verhindert. Die Schenkung selbst steht in der
+        Edition: Hoyms Vorschlag vom 14. Juli 1796 und die Kabinettsorder vom
+        23. Juli weisen dem Fürsten die von Prusimski konfiszierten Güter zu —
+        Trąbczyn, Szetlewek, Nowa Wieś, Łazy, Osiny, die Laski und der Hauland
+        von Trąbczyn unter ihnen — auf einen vorgeschlagenen Wert von 120.000 rt
+        und einen Ertrag von 4 bis 6.000, und die Urkunde vom 9. August 1796
+        folgt darauf. Die Ablehnung des Königs vom 4. Dezember 1798 beantwortet
+        den Tausch mit anders gerechnetem Ertrag, und Triebenfeld schreibt im
+        Januar 1799 aus Berlin, nur „B[eyme] und K[öckritz]" hätten sich
+        felsenfest dagegen gestellt, den Tausch rundweg zu verweigern.
+      documents:
+        - ihagrrep7cnr3570-1
+        - oe1bu9454-85
+        - oe1bu9454-97
+    materialien1861/146:
+      en: >-
+        Here the register has the Prince stating his yield at 50,000 in the
+        cabinet himself, and quotes Cölln on Voss having thwarted the exchange.
+        The letters give the figures on both sides: the King counts the Prince's
+        estates at a yield of 8,650 a year, improved since at a cost of some
+        26,000 in meliorations, now bringing 40,500, against Krotoszyn's 49,043;
+        the Prince answers that his estates yield 41,500 and Krotoszyn pays a
+        rent of no more than 30,100; and Triebenfeld writes that Voss "still
+        boils with wrath and rage" against the exchange. The Prince's second
+        petition answers Voss's own stated reasons point by point, taking the
+        Pacht of 30,100 for its basis against the 60,000 the minister's
+        reckoning reaches.
+      de: >-
+        Hier läßt das Register den Fürsten selbst im Kabinett seinen Ertrag mit
+        50.000 Talern angeben und zitiert Cölln dazu, Voss habe den Tausch
+        vereitelt. Die Briefe geben die Zahlen beider Seiten: Der König
+        veranschlagt die Güter des Fürsten auf 8.650 Taler Jahresertrag, seitdem
+        mit etwa 26.000 Talern Meliorationen verbessert, jetzt 40.500 bringend,
+        gegen 49.043 von Krotoszyn; der Fürst antwortet, seine Güter trügen
+        41.500 und Krotoszyn zahle höchstens 30.100 Pacht; und Triebenfeld
+        schreibt, Voss „koche noch von Wuth und Rache" gegen den Tausch. Die
+        zweite Vorstellung des Fürsten widerlegt die vom Minister selbst
+        angeführten Gründe Punkt für Punkt und nimmt die Pacht von 30.100 zur
+        Grundlage, gegen die 60.000, auf die des Ministers Rechnung kommt.
+      documents:
+        - oe1bu9454-85
+        - oe1bu9454-86
+        - oe1bu9454-87
+        - oe1bu9454-97
+        - oe1bu9454-101
+    materialien1861/159:
+      en: >-
+        The Kalisch section's entry lists Trombczyn, Nowa-Wies, Oswiery, Lazy
+        and Szetlewek at 12000 Thlr. — the very villages the deed of 9 August
+        1796 grants the Prince, confiscated from Prusimski. With the Posen
+        entry's 77250 Thlr. the register's official valuation of the whole gift
+        comes to 89,250 Thlr., where Hoym's proposal of 14 July 1796 had
+        counted all the Prince's items at 120,000 rt; and where the register
+        prints a valuation, the letters give a yield: Triebenfeld reports the
+        Trąbczyn estates alone bringing 8,400 rt by March 1799.
+      de: >-
+        Der Eintrag der Kalischer Abteilung zählt Trombczyn, Nowa-Wies, Oswiery,
+        Lazy und Szetlewek mit 12000 Thlr. auf — eben die Dörfer, die die
+        Urkunde vom 9. August 1796 dem Fürsten, von Prusimski konfisziert,
+        zuspricht. Mit den 77250 Thlr. des Posener Eintrags kommt das Register
+        auf eine amtliche Taxe der ganzen Schenkung von 89.250 Talern, wo
+        Hoyms Vorschlag vom 14. Juli 1796 alle Posten des Fürsten auf 120.000
+        rt gerechnet hatte; und wo das Register eine Taxe druckt, geben die
+        Briefe einen Ertrag: Triebenfeld meldet, die Trąbczyner Güter allein
+        brächten im März 1799 schon 8.400 rt.
+      documents:
+        - ihagrrep7cnr3570-1
+        - oe1bu9454-103
+    feuerbraende1807/2-69:
+      en: >-
+        The entry is the one the Materialien reprints: the estates worth about
+        800,000 Thlr. and yielding 50,000, the exchange for Krotoschin stopped
+        by Beyme, the late King having consented to a gift of 6,000 a year. The
+        edition holds both ends: the dossier of July and August 1796 with
+        Hoym's proposal (a yield of 4 to 6,000 rt) and the deed of 9 August,
+        and the King's refusal of 4 December 1798 with its yield of 40,500
+        against 8,650.
+      de: >-
+        Der Eintrag ist der, den die Materialien nachdrucken: die Güter mit
+        etwa 800.000 Talern Wert und 50.000 Ertrag, der Tausch gegen Krotoschin
+        von Beyme verhindert, der verstorbene König nur einer Schenkung von
+        6.000 im Jahr zugestimmt habend. Die Edition hält beide Enden: die Akte
+        vom Juli und August 1796 mit Hoyms Vorschlag (ein Ertrag von 4 bis
+        6.000 rt) und der Urkunde vom 9. August, und die Ablehnung des Königs
+        vom 4. Dezember 1798 mit ihrem Ertrag von 40.500 gegen 8.650.
+      documents:
+        - ihagrrep7cnr3570-1
+        - oe1bu9454-85
+    feuerbraende1807/2-80:
+      en: >-
+        The entry gives the Prince's Konin villages — Trobozyn, Nowa-Wies,
+        Oszyni, Lazy, Szellewen — at 12,000 Thlr., the register's share of an
+        official valuation its Posen entry carries at 77250 Thlr. (89,250
+        together), where Hoym's proposal of 14 July 1796 had counted all the
+        Prince's items at 120,000 rt; and where the register prints a
+        valuation, the letters give a yield: Triebenfeld reports the Trąbczyn
+        estates alone bringing 8,400 rt by March 1799.
+      de: >-
+        Der Eintrag gibt des Fürsten Koniner Dörfer — Trobozyn, Nowa-Wies,
+        Oszyni, Lazy, Szellewen — mit 12.000 Talern, den Anteil des Registers
+        an einer amtlichen Taxe, deren Posener Eintrag 77250 Thlr. trägt
+        (zusammen 89.250), wo Hoyms Vorschlag vom 14. Juli 1796 alle Posten des
+        Fürsten auf 120.000 rt gerechnet hatte; und wo das Register eine Taxe
+        druckt, geben die Briefe einen Ertrag: Triebenfeld meldet, die
+        Trąbczyner Güter allein brächten im März 1799 schon 8.400 rt.
+      documents:
+        - ihagrrep7cnr3570-1
+        - oe1bu9454-103
+    feuerbraende1807/3-132:
+      en: >-
+        Cölln's postscript says the exchange would not have been unjust had it
+        followed the valuations, and that Voss thwarted it. The letters carry
+        the exchange itself: the King's refusal of 4 December 1798 grounded on
+        Voss's report, the Prince's answers of 7 December calling that report
+        one-sided ("auf einseitiges Angeben des Kriegesrath Nöldichen"), and
+        Triebenfeld's report of January 1799 that Voss opposed the exchange
+        with everything he had. The Prince's second petition is the answer to
+        Voss's own reasons, taken one by one.
+      de: >-
+        Cöllns Nachschrift sagt, der Tausch wäre nach den Taxen nicht ungerecht
+        gewesen, und Voss habe ihn vereitelt. Die Briefe tragen den Tausch
+        selbst: die Ablehnung des Königs vom 4. Dezember 1798 auf den Bericht
+        des Voss gegründet, die Antworten des Fürsten vom 7. Dezember, die
+        jenen Bericht einseitig nennen („auf einseitiges Angeben des
+        Kriegesrath Nöldichen"), und Triebenfelds Meldung vom Januar 1799, Voss
+        habe alles gegen den Tausch aufgeboten. Die zweite Vorstellung des
+        Fürsten ist die Antwort auf des Voss eigene Gründe, einen nach dem
+        anderen.
+      documents:
+        - oe1bu9454-85
+        - oe1bu9454-86
+        - oe1bu9454-87
+        - oe1bu9454-97
+        - oe1bu9454-101
 
 - id: register-triebenfeld
   passages:
@@ -130,6 +291,103 @@
     aber als seinen eigenen Preis an den Prinzen George 280.000, nicht 400.000
     (Juli 1800). Cölln merkte 1807 an, in den Zahlen steckten Triebenfelds
     eigene Güter.
+  about:
+    materialien1861/162:
+      en: >-
+        The entry gives the first four estates as valued at 31,000 Thaler at
+        the donation, the lordship of Laski taken for a hereditary-tenure sum
+        of 20,000, and the spring 1797 valuation at over 700,000. The letters
+        agree on the valuation from the man's own hand: in April 1799 he writes
+        that the estates he sold to Prince George stand, at a judicial and
+        chamber tax, at over 700,000 rt — while he reckons he let the gentleman
+        have them on a basis of about 500,000.
+      de: >-
+        Der Eintrag gibt die ersten vier Güter bei der Schenkung mit 31.000
+        Talern taxiert, die Herrschaft Laski für eine Erbstandsumme von 20.000
+        erkauft, und die Taxe des Frühlings 1797 auf über 700.000. Die Briefe
+        stimmen in der Taxe aus eigener Hand überein: Im April 1799 schreibt
+        er, die Güter, die er an den Prinzen Georg verkaufte, ständen nach
+        Justiz- und Kammerratstaxe jetzt über 700.000 rt — während er rechnet,
+        er habe sie den Herrn auf einer Grundlage von etwa 500.000 überlassen
+        lassen.
+      documents:
+        - oe1bu9454-104
+        - oe1bu9454-108
+    materialien1861/163:
+      en: >-
+        Here the register gives the sale: to Prince George of Hesse-Darmstadt
+        for 400,000 Thaler, and the resale by contract of 9 March 1801 to
+        Schirnding for 750,000. The letters give the same story as their writer
+        counted it: his own price to Prince George 280,000 (July 1800), and in
+        February 1801 that Prince George "has sold my estates for 750,000 rt".
+      de: >-
+        Hier gibt das Register den Verkauf: an den Prinzen Georg von
+        Hessen-Darmstadt für 400.000 Taler, und den Weiterverkauf durch Vertrag
+        vom 9. März 1801 an Schirnding für 750.000. Die Briefe erzählen
+        dieselbe Geschichte, wie ihr Schreiber sie rechnete: sein eigener Preis
+        an den Prinzen Georg 280.000 (Juli 1800), und im Februar 1801, dieser
+        habe „meine Güter für 750.000 rt verkauft".
+      documents:
+        - oe1bu9454-108
+        - oe1bu9454-112
+    feuerbraende1807/2-83:
+      en: >-
+        The Triebenfeld entry opens here: the first four numbers assessed at
+        31,000 thalers at the donation, the lordship of Lasky taken for a
+        hereditary-tenure sum of 20,000, and the Kalisch assessment of spring
+        1797 at over 700,000 thalers. Triebenfeld's letter of April 1799 gives
+        the same tax from his own hand: the estates he sold to Prince George
+        stand at over 700,000 rt, reckoned by himself at some 500,000.
+      de: >-
+        Der Triebenfeld-Eintrag hebt hier an: die ersten vier Nummern bei der
+        Schenkung auf 31.000 Taler taxiert, die Herrschaft Lasky für eine
+        Erbstandsumme von 20.000 genommen, und die Kalischer Taxe des Frühlings
+        1797 auf über 700.000 Taler. Triebenfelds Brief vom April 1799 gibt
+        dieselbe Taxe aus eigener Hand: die Güter, die er an den Prinzen Georg
+        verkaufte, stehen über 700.000 rt, von ihm selbst auf etwa 500.000
+        gerechnet.
+      documents:
+        - oe1bu9454-104
+    feuerbraende1807/2-84:
+      en: >-
+        The itemized assessment (684,496 Thlr. 17 Gr. 8 Pf. for the five named,
+        Nowa Wies and Schmardke still lacking), the sale to Prince George for
+        400,000 and the resale by contract of 9 March 1801 for 750,000. The
+        letters tell it as their writer counted: over 700,000 rt at the tax
+        against his own basis of some 500,000 (April 1799); his price to Prince
+        George 280,000, the estates encumbered with 270,000 of debt (July
+        1800); and Prince George selling them for 750,000 rt (February 1801).
+      de: >-
+        Die einzeln aufgeführte Taxe (684.496 Thlr. 17 Gr. 8 Pf. für die fünf
+        genannten, Nowa Wies und Schmardke noch fehlend), der Verkauf an den
+        Prinzen Georg für 400.000 und der Weiterverkauf durch Vertrag vom 9.
+        März 1801 für 750.000. Die Briefe erzählen es, wie ihr Schreiber
+        rechnete: über 700.000 rt an der Taxe gegen seine eigene Grundlage von
+        etwa 500.000 (April 1799); sein Preis an den Prinzen Georg 280.000, die
+        Güter mit 270.000 Schulden beschwert (Juli 1800); und der Prinz Georg
+        verkaufe sie für 750.000 rt (Februar 1801).
+      documents:
+        - oe1bu9454-104
+        - oe1bu9454-108
+        - oe1bu9454-112
+    feuerbraende1807/3-134:
+      en: >-
+        Cölln's postscript says that beneath the assessment of the Triebenfeld
+        estates and their sale price lie estates that were his own, and that he
+        had turned the buildings into good repair before he sold. His letters
+        give the sale's inside from his own hand: the price to Prince George
+        280,000 with 270,000 of debt standing on the estates (July 1800), and
+        the buyer reselling for 750,000 (February 1801).
+      de: >-
+        Cöllns Nachschrift sagt, unter der Taxe der Triebenfeldschen Güter und
+        ihrem Verkaufspreis steckten Güter, die ihm selbst gehörten, und er
+        habe die Gebäude vor dem Verkauf in guten Stand gebracht. Seine Briefe
+        geben das Innere des Verkaufs aus eigener Hand: der Preis an den
+        Prinzen Georg 280.000, mit 270.000 Schulden auf den Gütern (Juli
+        1800), und der Käufer verkaufe für 750.000 weiter (Februar 1801).
+      documents:
+        - oe1bu9454-108
+        - oe1bu9454-112
 
 - id: krotoszyn-administration
   passages:
@@ -167,20 +425,13 @@
   passages:
     - materialien1861/141
     - materialien1861/142
-    - materialien1861/152
-    - materialien1861/153
     - materialien1861/156
     - materialien1861/160
     - materialien1861/161
-    - materialien1861/168
-    - materialien1861/171
     - feuerbraende1807/2-66
-    - feuerbraende1807/2-74
     - feuerbraende1807/2-77
     - feuerbraende1807/2-82
     - feuerbraende1807/2-83
-    - feuerbraende1807/2-87
-    - feuerbraende1807/2-90
   documents:
     - oe1bu9454-103
   en: >-
@@ -189,10 +440,12 @@
     valued low and since sold or yielding far more. He names Bischofswerder's,
     which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a
     year and now bearing some 20,000; Dolffs's, which Treskow was selling for
-    360,000; and General Rüchel's, sold for 140,000. The black register makes
+    360,000; and General Rüchel's, sold for 140,000 — "of all of those", he
+    writes, no one speaks a word, only against the Prince's estates. The black
+    register makes
     the same complaint of the same gifts: Bischofswerder's sold to Count
     Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now
-    worth at least 200,000", Treskow's worth about 350,000 together, and
+    worth at least 200,000", and
     Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.
   de: >-
     Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte
@@ -201,12 +454,234 @@
     die Bischofswerders, die, wie er sagt, für 207.000 Taler verkauft worden
     sei; die Zastrows, die 2.000 im Jahr tragen sollte und jetzt an die 20.000
     bringe; die Dolffs', die Treskow gerade für 360.000 verkaufe; und die des
-    Generals Rüchel, für 140.000 verkauft. Das schwarze Register erhebt
+    Generals Rüchel, für 140.000 verkauft — „von allen denen", schreibt er,
+    spreche man kein Wort, nur über die Güter des Fürsten. Das schwarze Register
+    erhebt
     denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen
     Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung
-    87.650 und „jetzt zum Mindesten 200.000“ wert, Treskows zusammen etwa
-    350.000 wert und Rüchels an Reibnitz für 130.000 verkauft und danach auf
-    380.000 taxiert.
+    87.650 und „jetzt zum Mindesten 200.000“ wert, und Rüchels an Reibnitz für
+    130.000 verkauft und danach auf 380.000 taxiert.
+  about:
+    materialien1861/141:
+      en: >-
+        The entry opens the comparison with Bischofswerder: four estates valued
+        at 18000 Thlr., the understatement notorious. Triebenfeld's letter of
+        13 March 1799 gives the letter's side of the same comparison: the
+        Bischofswerder estates were to bear at most 1,500 rt by the assessment,
+        and he sold them for 207,000 rt.
+      de: >-
+        Der Eintrag eröffnet den Vergleich mit Bischofswerder: vier Güter mit
+        18000 Thlr. taxiert, die Unterreibung notorisch. Triebenfelds Brief vom
+        13. März 1799 gibt die Seite des Briefes für denselben Vergleich: die
+        Bischofswerderschen Güter sollten nach dem Anschlag höchstens 1.500 rt
+        tragen, und er habe sie für 207.000 rt verkauft.
+    materialien1861/142:
+      en: >-
+        The page completes the story the entry began: Bischofswerder sold the
+        four estates to Count Lüttichau for 25,000 Friedrichsd'or, who bought
+        his donations from him again for 50,000. The letter's comparison
+        continues here too: it was Triebenfeld who sold the Bischofswerder
+        estates, for 207,000 rt, after an assessment that gave them at most
+        1,500 rt a year.
+      de: >-
+        Die Seite führt die Geschichte fort, die der Eintrag begann:
+        Bischofswerder verkaufte die vier Güter an den Grafen Lüttichau für
+        25.000 Friedrichsd'or, der ihm seine Donationen dafür wieder für 50.000
+        abkaufte. Der Vergleich des Briefes geht hier weiter: Triebenfeld war
+        es, der die Bischofswerderschen Güter verkaufte, für 207.000 rt, nach
+        einem Anschlag, der ihnen höchstens 1.500 rt jährlich gab.
+    materialien1861/156:
+      en: >-
+        The entry on Zastrow gives eight estates at 87650 Thlr. which he "has,
+        very prudently, not yet had valued", worth at least 200,000. The letter
+        answers with the same reckoning: the Zastrow estates were to bear some
+        2,000 rt, and bring beyond doubt "some twenty thousand".
+      de: >-
+        Der Eintrag über Zastrow gibt acht Güter mit 87650 Thlr. an, die er
+        „sehr klüglich" noch nicht habe taxieren lassen, wert zum Mindesten
+        200.000. Der Brief antwortet mit derselben Rechnung: die Zastrowschen
+        Güter sollten etwa 2.000 rt tragen und bringen „ohnstreitig etliche
+        zwanzig tausend".
+    materialien1861/160:
+      en: >-
+        The entry on Rüchel opens here: eight estates, the lordship of
+        Ostrzeszow at their head, at 30000 Thlr. The letter's comparison names
+        him: the Rüchel estates were to bear 940 rt a year, and were sold for
+        140,000.
+      de: >-
+        Der Eintrag über Rüchel hebt hier an: acht Güter, die Herrschaft
+        Ostrzeszow an der Spitze, mit 30000 Thlr. Der Vergleich des Briefes
+        nennt ihn: die Rüchelschen Güter sollten 940 rt jährlich tragen und
+        sind für 140.000 verkauft.
+    materialien1861/161:
+      en: >-
+        The entry tells Rüchel's sale: all eight estates, never seen by their
+        recipient, sold to Reibnitz for 130,000 Thaler, then valued at 341,000
+        and 39,000 — 380,000 together. The letter's comparison puts the same
+        sale at 140,000, the estates meant to bear 940 rt a year.
+      de: >-
+        Der Eintrag erzählt Rüchels Verkauf: alle acht Güter, von ihrem
+        Empfänger nie gesehen, an Reibnitz für 130.000 Taler verkauft, danach
+        auf 341.000 und 39.000 — zusammen 380.000 — taxiert. Der Vergleich des
+        Briefes setzt denselben Verkauf auf 140.000, die Güter sollten 940 rt
+        jährlich tragen.
+    feuerbraende1807/2-66:
+      en: >-
+        The entry repeats the note the register prints with Bischofswerder: the
+        four estates sold to Lüttichau for 25,000 Friedrichsd'or. The letter of
+        13 March 1799 has Triebenfeld himself selling them, for 207,000 rt,
+        after an assessment of at most 1,500 rt a year.
+      de: >-
+        Der Eintrag wiederholt die Bemerkung, die das Register zu Bischofswerder
+        druckt: die vier Güter an Lüttichau für 25.000 Friedrichsd'or verkauft.
+        Der Brief vom 13. März 1799 läßt Triebenfeld selbst sie verkaufen, für
+        207.000 rt, nach einem Anschlag von höchstens 1.500 rt jährlich.
+    feuerbraende1807/2-77:
+      en: >-
+        The entry on Zastrow (87650 Thlr., not yet valued, worth at least
+        200,000): the letter's reckoning — meant to bear some 2,000 rt,
+        bringing beyond doubt some twenty thousand.
+      de: >-
+        Der Eintrag über Zastrow (87650 Thlr., noch nicht taxiert, wert zum
+        Mindesten 200.000): die Rechnung des Briefes — sollte etwa 2.000 rt
+        tragen, bringt ohnstreitig etliche zwanzig tausend.
+    feuerbraende1807/2-82:
+      en: >-
+        The entry gives Rüchel's eight estates at 30,000 Thlr. and tells the
+        making of the gift (an assessment of 20,000, Kalischkowice added for
+        the windfall timber at 10,000), then the sale to Reibnitz for 130,000
+        and the judicial valuation of 380,000. The letter: the Rüchel estates
+        were to bear 940 rt a year and were sold for 140,000.
+      de: >-
+        Der Eintrag gibt Rüchels acht Güter mit 30.000 Talern an und erzählt
+        das Zustandekommen der Schenkung (eine Taxe von 20.000, Kalischkowice
+        für das Windbruchholz mit 10.000 dazugegeben), dann den Verkauf an
+        Reibnitz für 130.000 und die gerichtliche Taxe von 380.000. Der Brief:
+        die Rüchelschen Güter sollten 940 rt jährlich tragen und sind für
+        140.000 verkauft.
+    feuerbraende1807/2-83:
+      en: >-
+        The entry ends with the sale's reckoning: Reibnitz drawing 12,000 a
+        year and still owing Rüchel 90,000 at 5 per cent, and the Euclid
+        sarcasm on an assessment of 20,000 against forest damage of 40,000.
+        The letter's comparison stands beside it: the Rüchel estates, meant to
+        bear 940 rt a year, sold for 140,000.
+      de: >-
+        Der Eintrag endet mit der Rechnung des Verkaufs: Reibnitz zieht 12.000
+        jährlich und schuldet Rüchel noch 90.000 zu 5 Prozent, und der
+        euklidische Spott über eine Taxe von 20.000 gegen einen Waldschaden von
+        40.000. Der Vergleich des Briefes steht daneben: die Rüchelschen Güter,
+        die 940 rt jährlich tragen sollten, für 140.000 verkauft.
+
+# The donation dossier I. HA Rep. 7 C Nr. 3570 (2026-11-01): Hoym's proposal
+# of 14 July 1796, the King's cabinet order of 23 July given at Pyrmont, and
+# the deeds of 9 August 1796 — the register's own source for the first round
+# of gifts. Where the register's entry carries a deed date, the dossier holds
+# the deed; where it carries a valuation, the dossier's proposal gives a value
+# and a yield to set beside it. The figures below were read in the dossier and
+# in the register's entries.
+
+- id: register-donations
+  passages:
+    - materialien1861/142
+    - materialien1861/160
+    - materialien1861/168
+    - feuerbraende1807/2-66
+    - feuerbraende1807/2-87
+  documents:
+    - ihagrrep7cnr3570-1
+  en: >-
+    The donation dossier of July and August 1796 — Hoym's proposal of 14 July,
+    the King's cabinet order of 23 July given at Pyrmont, the deeds of 9 August
+    1796 — is the register's own source for the first round of gifts: where a
+    register entry carries a deed date, the dossier holds the deed (Dolffs's,
+    9 August 1796), and where it carries a valuation, the proposal gives a
+    value and a yield to set beside it (Blücher's Duninow estates, Pontanus's
+    Sieradz estates).
+  de: >-
+    Die Schenkungsakte von Juli und August 1796 — Hoyms Vorschlag vom 14. Juli,
+    die Kabinettsorder des Königs vom 23. Juli zu Pyrmont gegeben, die Urkunden
+    vom 9. August 1796 — ist die eigene Quelle des Registers für die erste
+    Runde der Schenkungen: Wo ein Registereintrag ein Urkundendatum trägt, hält
+    die Akte die Urkunde (die Dolffsens, 9. August 1796), und wo er eine Taxe
+    trägt, gibt der Vorschlag einen Wert und einen Ertrag dazu (die
+    Duninower Güter Blüchers, die Sieradzer Güter Pontanus').
+  about:
+    materialien1861/142:
+      en: >-
+        The entry on Blücher gives five estates in the Kowal district at 28000
+        Thlr., their income "certainly 6000 thalers". The dossier holds the
+        grant itself: the Duninow estates in the Kowal circle, proposed for
+        Blücher with a yield of 1,500 rt and a value of 30,000 rt, among the
+        deeds of 9 August 1796 — the yield of the proposal and the income of
+        the register's note do not agree.
+      de: >-
+        Der Eintrag über Blücher gibt fünf Güter im Kreis Kowal mit 28000 Thlr.
+        an, deren Einkommen „gewiss 6000 Thaler" betrage. Die Akte hält die
+        Zuweisung selbst: die Duninower Güter im Kreis Kowal, für Blücher mit
+        einem Ertrag von 1.500 rt und einem Wert von 30.000 rt vorgeschlagen,
+        unter den Urkunden vom 9. August 1796 — der Ertrag des Vorschlags und
+        das Einkommen der Anmerkung des Registers stimmen nicht überein.
+    materialien1861/160:
+      en: >-
+        The entry on Pontanus prints no valuation ("Unknown") beside the
+        judicial valuation of 200,000 thalers at Kalisch. The dossier holds his
+        grant: Dziejorzew, Borchkowe and Jacubie in the Sieradz circle, vacated
+        by the death of von Biernacka, proposed with a yield of 600 rt and a
+        value of 12,000 rt, among the deeds of 9 August 1796.
+      de: >-
+        Der Eintrag über Pontanus druckt neben der gerichtlichen Taxe von
+        200.000 Talern in Kalisch keine Taxe („Unknown"). Die Akte hält seine
+        Zuweisung: Dziejorzew, Borchkowe und Jacubie im Kreis Sieradz, durch den
+        Tod des von Biernacka frei geworden, mit einem Ertrag von 600 rt und
+        einem Wert von 12.000 rt vorgeschlagen, unter den Urkunden vom 9.
+        August 1796.
+    materialien1861/168:
+      en: >-
+        The entry on Dolffs gives five estates in the Gostinin district at
+        20000 Thlr. and dates his deed of donation Berlin, 9 August 1796 — the
+        deed itself is in the dossier: the gravial estate of Strzelec between
+        Gostinin and Kutno, proposed with a yield of 1,000 rt and a value of
+        20,000 rt. The page's Goldbeck entry (the estate received "merely
+        through an oversight", the deed carrying the same date) belongs to the
+        same dossier: it shows the Grand Chancellor's chancery expediting the
+        seven deeds of 9 August 1796.
+      de: >-
+        Der Eintrag über Dolffs gibt fünf Güter im Kreis Gostinin mit 20000
+        Thlr. an und datiert seine Donationsurkunde auf Berlin, den 9. August
+        1796 — die Urkunde selbst liegt in der Akte: das Gratialgut Strzelec
+        zwischen Gostinin und Kutno, mit einem Ertrag von 1.000 rt und einem
+        Wert von 20.000 rt vorgeschlagen. Der Goldbeck-Eintrag der Seite (das
+        „lediglich durch ein Versehen" erhaltene Gut, die Urkunde mit demselben
+        Datum) gehört zu derselben Akte: sie zeigt die Kanzlei des
+        Großkanzlers, die die sieben Urkunden vom 9. August 1796 expediert.
+    feuerbraende1807/2-66:
+      en: >-
+        The entry on Blücher (28000 Thlr., the income certainly 6,000): the
+        dossier's proposal gives the Duninow estates a yield of 1,500 rt and a
+        value of 30,000 rt, among the deeds of 9 August 1796 — the yield of the
+        proposal and the income of the register's note do not agree.
+      de: >-
+        Der Eintrag über Blücher (28000 Thlr., das Einkommen gewiss 6.000): der
+        Vorschlag der Akte gibt den Duninower Gütern einen Ertrag von 1.500 rt
+        und einen Wert von 30.000 rt, unter den Urkunden vom 9. August 1796 —
+        der Ertrag des Vorschlags und das Einkommen der Anmerkung des Registers
+        stimmen nicht überein.
+    feuerbraende1807/2-87:
+      en: >-
+        The entry on Dolffs (five estates at 20000 Thlr., the deed dated Berlin
+        9 August 1796) and the Goldbeck entry it leads into: the dossier holds
+        the deed itself — Strzelec between Gostinin and Kutno, a yield of
+        1,000 rt, a value of 20,000 rt — and shows the Grand Chancellor
+        Goldbeck, who had meant one of the estates of this very round for his
+        son, expediting the deeds of 9 August 1796.
+      de: >-
+        Der Eintrag über Dolffs (fünf Güter mit 20000 Thlr., die Urkunde
+        datiert Berlin, den 9. August 1796) und der Goldbeck-Eintrag, in den er
+        übergeht: die Akte hält die Urkunde selbst — Strzelec zwischen Gostinin
+        und Kutno, ein Ertrag von 1.000 rt, ein Wert von 20.000 rt — und zeigt
+        den Großkanzler Goldbeck, der ein Gut eben dieser Runde für seinen Sohn
+        bestimmt hatte, wie er die Urkunden vom 9. August 1796 expediert.
 
 # The books of the second set (Books_2, 2026-10-19): Breyer (1935, 1938),
 # Żychliński (1885, 1891) and the Polski Słownik Biograficzny (Pachoński,
@@ -219,6 +694,7 @@
   documents:
     - app539680801-2
     - app539680801-3
+    - app539680783-1
   en: >-
     Breyer (1938) tells of the hereditary lease by which Triebenfeld, for the
     Prince of Hohenlohe, gave 100 Hufen of forest to eighteen German settlers,
@@ -257,6 +733,66 @@
     VIII) keinen Anspruch auf Brennholz und erlaubt die Hütung nur in dem Teil
     der Waldungen bei Drzewce, den die Herrschaft behielt, bis auch dieser
     verkauft wird.
+  about:
+    breyer1938/21:
+      en: >-
+        The page tells the lease: concluded, Breyer says, on 18 May 1805 by
+        Triebenfeld for the Prince with eighteen colonists over 100 Hufen, the
+        consent of the Kalisch chamber of 28 January 1806. The edition holds
+        both papers: the consent of 28 January 1806 itself, and the copy of the
+        lease, whose beginning is lost and which gives no day of conclusion —
+        it was engrossed at Mariantów on 21 March 1806 — and in which the clause
+        on draining the land and the dike on the Warta, quoted here, stands in
+        no paragraph. The summons of 1860 cites a contract of 18 May 1805
+        between the Prince and fourteen colonists of the gmina of Trąbczyn
+        before his patrimonial court at Zagórów — the same day as Breyer's
+        lease, which names eighteen takers.
+      de: >-
+        Die Seite erzählt den Erbpachtvertrag: am 18. Mai 1805, so Breyer, von
+        Triebenfeld für den Fürsten mit achtzehn Kolonisten über 100 Hufen
+        geschlossen, die Genehmigung der Kalischer Kammer vom 28. Januar 1806.
+        Die Edition hält beide Papiere: die Genehmigung vom 28. Januar 1806
+        selbst, und die Abschrift des Vertrags, deren Anfang verloren ist und
+        die keinen Tag des Abschlusses nennt — ausgefertigt wurde sie am 21.
+        März 1806 in Mariantów —, und in der die hier zitierte Klausel über die
+        Entwässerung des Landes und den Damm an der Warthe in keinem Paragraphen
+        steht. Die Vorladung von 1860 führt einen Vertrag vom 18. Mai 1805
+        zwischen dem Fürsten und vierzehn Kolonisten der Gmina Trąbczyn vor
+        seinem Patrimonialgericht zu Zagórów an — derselbe Tag wie bei Breyers
+        Vertrag, der achtzehn Annehmer nennt.
+      documents:
+        - app539680801-2
+        - app539680801-3
+        - app539680783-1
+    breyer1938/22:
+      en: >-
+        The page quotes paragraph 13 (free of hereditary subjection for ever),
+        the 21 Morgen for the schoolmaster, the headman and the cemetery, the
+        rent of 30 Reichsthaler a Magdeburg Hufe after four free years, and the
+        settlers' pasture and wood in the Prince's heath. The copy of the lease
+        agrees on the eighteen takers, on paragraph XIII, on the rent and its
+        terms and on the 21 Morgen — and parts company where Breyer widens: it
+        gives the settlers no claim to firewood and lets them graze only in the
+        part of the Drzewce woods the lordship kept, until that too is sold.
+        The suit of 1860 shows the same rights still in dispute: the colonists
+        against Count Miączyński over grazing and gathering in the Studzianka
+        woods.
+      de: >-
+        Die Seite zitiert den Paragraphen 13 (für immer frei von
+        Erbuntertänigkeit), die 21 Morgen für Schullehrer, Schulzen und
+        Kirchhof, den Kanon von 30 Reichstalern für die Magdeburgische Hufe
+        nach vier Freijahren, und Weide und Holz der Siedler in der
+        fürstlichen Heide. Die Abschrift des Vertrags stimmt in den achtzehn
+        Annehmern, im Paragraph XIII, im Kanon und seinen Terminen und in den
+        21 Morgen überein — und weicht ab, wo Breyer weiter fasst: sie gibt den
+        Siedlern keinen Anspruch auf Brennholz und erlaubt die Hütung nur in
+        dem Teil der Drzewcer Waldungen, den die Herrschaft behielt, bis auch
+        dieser verkauft würde. Der Prozess von 1860 zeigt dieselben Rechte
+        noch im Streit: die Kolonisten gegen den Grafen Miączyński um Hütung
+        und Sammeln in den Studziankaer Wäldern.
+      documents:
+        - app539680801-3
+        - app539680783-1
 
 # Claude's reading, not shown: Breyer's K. G. von Weigel of Hennersdorf may or
 # may not be the Breslau banker Carl Ferdinand Weigel of the letters
@@ -359,6 +895,8 @@
     - app53170koningr118-23
     - app53170koningr136-1
     - app536040-1
+    - app53170koningr153-2
+    - app539680783-1
   en: >-
     Żychliński (1885) gives the Trąbczyn branch of the Prusimskis: Krzysztof,
     lord of Kolno, Kamionna and Trąbczyn, and his wife Teresa Golińska; their
@@ -392,6 +930,56 @@
     Prusimski, königlichen Kammerherrn und Erbherrn von Trąbczyn;
     Żychlińskis Paweł Apollo, Kammerherr und Ehemann der Katarzyna
     Rozdrażewska, steht eine Generation höher, als Bruder Krzysztofs.
+  about:
+    zychlinski1885/187:
+      en: >-
+        Żychliński gives Krzysztof, lord of Kolno, Kamionna and Trąbczyn, with
+        Teresa Golińska. The documents bear him out and put the generations
+        right: the boundary decree entered in 1776 calls the late Krzysztof
+        Prusimski, heir of Trąbczyn, the Starost's grandfather (Konin Gr. 145);
+        a suit of 1728 already names Krzysztof with his son Antoni (APP
+        53/6/0/-/40); and the inspection of 1754 was made for Katarzyna born
+        Rozdrażewska, widow of Paweł Prusimski, the King's chamberlain —
+        Żychliński's Paweł Apollo and his Katarzyna Rozdrażewska stand a
+        generation higher, as Krzysztof's brother (Konin Gr. 136).
+      de: >-
+        Żychliński gibt Krzysztof, Herrn auf Kolno, Kamionna und Trąbczyn, mit
+        Teresa Golińska. Die Dokumente tragen ihn und rücken die Generationen
+        zurecht: das 1776 eingetragene Grenzdekret nennt den verstorbenen
+        Krzysztof Prusimski, Erbherrn von Trąbczyn, den Großvater des Starosten
+        (Konin Gr. 145); ein Prozess von 1728 nennt schon Krzysztof mit seinem
+        Sohn Antoni (APP 53/6/0/-/40); und die Besichtigung von 1754 wurde für
+        Katarzyna geborene Rozdrażewska vorgenommen, die Witwe des Paweł
+        Prusimski, königlichen Kammerherrn — Żychlińskis Paweł Apollo und seine
+        Katarzyna Rozdrażewska stehen eine Generation höher, als Bruder
+        Krzysztofs (Konin Gr. 136).
+    zychlinski1885/188:
+      en: >-
+        Żychliński carries the branch through Stefan and Wiktoria Malczewska to
+        Antoni, Starost of Nieszczewice, and his daughter Michalina, whose
+        marriages brought Trąbczyn to the Miączyńskis. The relatio of September
+        1782 (Konin Gr. 118) names Antoni son of Stefan and Wiktoria Malczewska,
+        sole heir after the childless deaths of his brothers Jan Bogumił,
+        Antoni and Paweł — where Żychliński has Jan Paweł, Teofil and Antoni,
+        Bogumił being the Polish form of Teofil — and styles him, as the
+        delivery of November 1782 does (Konin Gr. 153), Captain of
+        Nieszczewice and Knight of the Order of St Stanislaus. The summons of
+        1860 (APP 53/968/0/-/783) is issued at the demand of Count Włodzimierz
+        Miączyński as heir of the Trąbczyn estates, where Żychliński writes
+        that her grandson Władysław holds the estate.
+      de: >-
+        Żychliński führt die Linie über Stefan und Wiktoria Malczewska zu
+        Antoni, Starosten von Nieszczewice, und seiner Tochter Michalina, deren
+        Ehen Trąbczyn zu den Miączyński brachten. Die Relatio vom September
+        1782 (Konin Gr. 118) nennt Antoni Sohn Stefans und der Wiktoria
+        Malczewska, alleinigen Erben nach dem kinderlosen Ableben seiner
+        Brüder Jan Bogumił, Antoni und Paweł — wo Żychliński Jan Paweł, Teofil
+        und Antoni hat, Bogumił die polnische Form von Teofil — und nennt ihn,
+        wie die Übergabe vom November 1782 (Konin Gr. 153), Hauptmann von
+        Nieszczewice und Ritter des St. Stanislaus-Ordens. Die Vorladung von
+        1860 (APP 53/968/0/-/783) ergeht auf Verlangen des Grafen Włodzimierz
+        Miączyński als Erbherr der Trąbczyner Güter, wo Żychliński schreibt,
+        ihr Enkel Władysław besitze das Gut.
 
 # The letters write Michalina's second married name Moscinska and her husband
 # Moscinski; the edition takes both for Miączyński (reference/people.yml).
@@ -633,6 +1221,66 @@
     Kommission seit dem 13. September 1775 tagte. Nach dem Buch (Anm. 34)
     stritten die Kolonisten 1860 mit Graf Władysław Miączyński, während die
     Vorladung auf Antrag des Grafen Włodzimierz Miączyński erging.
+  about:
+    chodyla2015/28:
+      en: >-
+        The page gives the founding of 1746 by Paweł and Katarzyna Prusimscy
+        under a charter that does not survive, and the boundary decree of 1776
+        as its evidence. The edition holds the decree itself, the oblatum of
+        23 September 1776 read at Brześć Kujawski: it says the uncle of Antoni
+        Prusimski settled Hollanders on the woods Miąsykąt, Dziadulina and
+        Luśnie, "as the rights granted them in 1746 attest", and does not name
+        Katarzyna; the summons of 1860, which the page also cites, names both
+        grantors, "Paweł z Kolna Prusiński" and his wife Katarzyna z
+        Rozdrażewskich. The book calls the decree one of 1776, the year of its
+        entry in the court books, though the commission sat from 13 September
+        1775. Its note 34 puts the colonists' suit of 1860 against Count
+        Władysław Miączyński, where the summons was issued at the demand of
+        Count Włodzimierz Miączyński.
+      de: >-
+        Die Seite gibt die Gründung von 1746 durch Paweł und Katarzyna Prusimscy
+        mit einem nicht erhaltenen Privileg und das Grenzdekret von 1776 als
+        ihren Beleg. Die Edition hält das Dekret selbst, das Oblatum vom 23.
+        September 1776, zu Brześć Kujawski verlesen: es sagt, der Onkel Antoni
+        Prusimskis habe Holländer auf den Wäldern Miąsykąt, Dziadulina und
+        Luśnie angesiedelt, „wie die ihnen 1746 verliehenen Rechte bezeugen",
+        und nennt Katarzyna nicht; die Vorladung von 1860, die die Seite auch
+        anführt, nennt beide Verleiher, „Paweł z Kolna Prusiński" und seine Frau
+        Katarzyna z Rozdrażewskich. Das Buch nennt das Dekret das von 1776, dem
+        Jahr seiner Eintragung in die Gerichtsbücher, obwohl die Kommission seit
+        dem 13. September 1775 tagte. Seine Anmerkung 34 läßt die Kolonisten
+        1860 gegen Graf Władysław Miączyński streiten, während die Vorladung auf
+        Verlangen des Grafen Włodzimierz Miączyński erging.
+    chodyla2015/29:
+      en: >-
+        The figure shows fol. 681 of the decree, and the edition prints the
+        decree whole: the oblatum of 23 September 1776, read at Brześć Kujawski,
+        between Trąbczyn of Antoni Prusimski, Łukom of Stanisław Chełmski and
+        Drzewce of the Łąd convent, its text running the boundary past the wood
+        Luśnie and the Stawisko.
+      de: >-
+        Die Abbildung zeigt Blatt 681 des Dekrets, und die Edition druckt das
+        Dekret ganz: das Oblatum vom 23. September 1776, zu Brześć Kujawski
+        verlesen, zwischen Trąbczyn des Antoni Prusimski, Łukom des Stanisław
+        Chełmski und Drzewce des Stifts Łąd, sein Text die Grenze am Wald
+        Luśnie und am Stawisko entlangführend.
+      documents:
+        - app53170koningr145-1
+    chodyla2015/30:
+      en: >-
+        The figure shows fol. 692 of the decree, and the edition prints the
+        decree whole: the oblatum of 23 September 1776, read at Brześć Kujawski,
+        between Trąbczyn of Antoni Prusimski, Łukom of Stanisław Chełmski and
+        Drzewce of the Łąd convent, its text running the boundary past the wood
+        Luśnie and the Stawisko.
+      de: >-
+        Die Abbildung zeigt Blatt 692 des Dekrets, und die Edition druckt das
+        Dekret ganz: das Oblatum vom 23. September 1776, zu Brześć Kujawski
+        verlesen, zwischen Trąbczyn des Antoni Prusimski, Łukom des Stanisław
+        Chełmski und Drzewce des Stifts Łąd, sein Text die Grenze am Wald
+        Luśnie und am Stawisko entlangführend.
+      documents:
+        - app53170koningr145-1
 
 - id: chodyla2015-inspection-1754
   passages:
@@ -650,6 +1298,41 @@
     The inspection counts the fifteen Olęders under Nowa Wieś ("Wieś Nowa"). It
     does not name the wood Lusina, the twelve Olęders or the inn that the book
     (p. 28) gives with it; those are in the act of 1771 (Kalisz Gr.414).
+  about:
+    chodyla2015/28:
+      en: >-
+        The page quotes the inspection of 1754: fifteen Olęders, the sixteenth
+        huba empty, some well built, others with only huts in the ground, and
+        the oaks taken with the hubas long allotted. The edition holds the
+        inspection itself, made at Trąbczyn on 9 July 1754 at the request of
+        Katarzyna née Rozdrażewska Prusimska, widow of the recently deceased
+        Paweł Prusimski, the King's chamberlain: the same words but one,
+        "drudzy" where the book prints "drugi (!)" — and it counts the fifteen
+        Olęders under Nowa Wieś, without the wood Lusina, the twelve Olęders
+        or the inn that the page gives with them.
+      de: >-
+        Die Seite zitiert die Besichtigung von 1754: fünfzehn Olęder, die
+        sechzehnte Hufe leer, die einen gut gebaut, die anderen nur mit Hütten
+        in der Erde, und die Eichen, mit den längst zugeteilten Hufen genommen.
+        Die Edition hält die Besichtigung selbst, zu Trąbczyn am 9. Juli 1754
+        auf Antrag der Katarzyna geborene Rozdrażewska Prusimska vorgenommen,
+        der Witwe des kurz zuvor verstorbenen Paweł Prusimski, königlichen
+        Kammerherrn: dieselben Worte bis auf eines, „drudzy", wo das Buch
+        „drugi (!)" druckt — und sie zählt die fünfzehn Olęder unter Nowa Wieś,
+        ohne den Wald Lusina, die zwölf Olęder und die Schenke, die die Seite
+        dazu gibt.
+    chodyla2015/84:
+      en: >-
+        The summary quotes the inspection again, "Olędrów 15, szesnasta huba
+        próżna" — sixteen hubas, one unoccupied. The document reads the same
+        and dates itself: the wizja of 9 July 1754, taken at Katarzyna
+        Prusimska's request, the widow of Paweł Prusimski.
+      de: >-
+        Die Zusammenfassung zitiert die Besichtigung noch einmal, „Olędrów 15,
+        szesnasta huba próżna" — sechzehn Hufen, eine unbesetzt. Das Dokument
+        liest sich genauso und datiert sich selbst: die Wizja vom 9. Juli 1754,
+        auf Antrag der Katarzyna Prusimska genommen, der Witwe des Paweł
+        Prusimski.
   de: >-
     Chodyła (2015) zitiert die Besichtigung des Gutes Trąbczyn, 1754 auf Antrag
     Katarzyna Prusimskas vorgenommen (Konin Gr.136): fünfzehn Olęder, die
@@ -691,6 +1374,54 @@
     Schäfer Brudzewski: Michał Kinos, Chenryk Bedka, Jan und Krystyan Tulka,
     Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa
     Kulawa, Maci Klinczpor, Antoni Pisarz und Wawrzyń Welner.
+  about:
+    chodyla2015/28:
+      en: >-
+        The page's telling of 1771 — a part of the Trąbczyn estate with the
+        Olęder settlement founded "not very long ago" in the wood Luśnie handed
+        to Stanisław Chełmski by a court's execution, twelve Olęders with a
+        shepherd — rests on the act of tradition the edition holds: Kalisz Gr.
+        414, 4 November 1771, performed in the bór of Luśnie, the inn with its
+        new stable but no host delivered first, then the twelve by name, the
+        shepherd Brudzewski among them.
+      de: >-
+        Die Erzählung der Seite von 1771 — ein Teil des Gutes Trąbczyn mit der
+        „unlängst" im Wald Luśnie gegründeten Olęder-Siedlung durch
+        gerichtliche Vollstreckung an Stanisław Chełmski übergeben, zwölf
+        Olęder mit einem Schäfer — ruht auf der Übergabeurkunde, die die
+        Edition hält: Kalisz Gr. 414, 4. November 1771, im Bór von Luśnie
+        vorgenommen, zuerst die Schenke mit ihrem neuen Stall ohne Wirt
+        übergeben, dann die zwölf mit Namen, der Schäfer Brudzewski unter
+        ihnen.
+    chodyla2015/31:
+      en: >-
+        The page cites the act of tradition of 4 November 1771 in two copies
+        (Konin Gr. 142 and Kalisz Gr. 414) and its twelve Olęders, ten with
+        German and two with Polish names. The edition's copy is the Kalisz one:
+        the same twelve by name — Michał Kinos, Chenryk Bedka, Jan and
+        Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman,
+        Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz, Wawrzyń Welner —
+        with the shepherd Brudzewski, enjoined to obey Chełmski.
+      de: >-
+        Die Seite führt die Übergabeurkunde vom 4. November 1771 in zwei
+        Abschriften an (Konin Gr. 142 und Kalisz Gr. 414) und ihre zwölf
+        Olęder, zehn mit deutschen und zwei mit polnischen Namen. Die
+        Abschrift der Edition ist die Kalischer: dieselben zwölf mit Namen —
+        Michał Kinos, Chenryk Bedka, Jan und Krystyan Tulka, Bogusław Celmer,
+        Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci
+        Klinczpor, Antoni Pisarz, Wawrzyń Welner — mit dem Schäfer Brudzewski,
+        zum Gehorsam gegen Chełmski angewiesen.
+    chodyla2015/83:
+      en: >-
+        The survey counts the Luśnie (Łukomskie) Olędry at twelve Olęders with
+        a shepherd in 1771. The act of tradition of 4 November 1771 (Kalisz Gr.
+        414) delivers the twelve by name into Chełmski's obedience, the
+        shepherd Brudzewski among them.
+      de: >-
+        Die Übersicht zählt die Luśnier (Łukomskie) Olędry auf zwölf Olęder
+        mit einem Schäfer im Jahr 1771. Die Übergabeurkunde vom 4. November
+        1771 (Kalisz Gr. 414) überantwortet die zwölf mit Namen in Chełmskis
+        Gehorsam, den Schäfer Brudzewski unter ihnen.
 
 - id: chodyla2015-hunt-1782
   passages:
@@ -734,6 +1465,36 @@
     archive dates the volume 1797. The book
     takes "Łazy H." for the village of Łazy under Olęder law; a note on that entry took it to be probably the
     Łazińskie Olędry.
+  about:
+    chodyla2015/32:
+      en: >-
+        The page dates the Prussian register 1796 and takes "Łazy H." (5
+        houses, p. 401) for the village of Łazy under Olęder law. The pages
+        themselves carry no date — the archive dates the volume 1797 — and
+        read "Haul. Lazy.", 5 houses and 42 people, no. 150 of the register. A
+        note on that entry took it to be probably the Łazińskie Olędry.
+      de: >-
+        Die Seite datiert das preußische Register auf 1796 und hält „Łazy H."
+        (5 Häuser, S. 401) für das Dorf Łazy unter Olęder-Recht. Die Seiten
+        selbst tragen kein Datum — das Archiv datiert den Band auf 1797 — und
+        lesen „Haul. Lazy.", 5 Häuser und 42 Menschen, Nr. 150 des Registers.
+        Eine Anmerkung zu diesem Eintrag hielt ihn für wahrscheinlich die
+        Łazińskie Olędry.
+    chodyla2015/84:
+      en: >-
+        The summary's figures for 1796 — "Trąbczyn H." with 34 houses and
+        "Stara Huta Trąbczyn" with 2 — are the register's own rows: no. 292,
+        the Hauland of Trąpczyn, 34 houses and 271 people, after the village of
+        Trąpczyn with 32; no. 283, Stara Huta of Trąpczyn, 2 houses. The pages
+        carry no date; the archive dates the volume 1797, where the book says
+        1796.
+      de: >-
+        Die Zahlen der Zusammenfassung für 1796 — „Trąbczyn H." mit 34 Häusern
+        und „Stara Huta Trąbczyn" mit 2 — sind die eigenen Zeilen des
+        Registers: Nr. 292, die Hauländerei von Trąpczyn, 34 Häuser und 271
+        Menschen, nach dem Dorf Trąpczyn mit 32; Nr. 283, Stara Huta von
+        Trąpczyn, 2 Häuser. Die Seiten tragen kein Datum; das Archiv datiert
+        den Band auf 1797, wo das Buch 1796 sagt.
   de: >-
     Chodyła (2015) führt das Häuser- und Einwohnerregister des
     Generaldirektoriums von Südpreußen an (AGAD, Nr. 1745), das es auf 1796
@@ -749,6 +1510,7 @@
 - id: chodyla2015-hearthtax-1789
   passages:
     - chodyla2015/32
+    - chodyla2015/83
     - chodyla2015/84
   documents:
     - app53640kalisztab21-1
@@ -773,6 +1535,35 @@
     Herdstelle, dem Satz dieser Blätter, ergeben die Summen 32 Herdstellen in
     Trąbczyn, je 5 in Łazy und Nowa Wieś und 14 für die Olędry (eine
     Rechnung, nicht im Register).
+  about:
+    chodyla2015/32:
+      en: >-
+        The page's three hearths at Łazy are its reckoning; the register's row
+        gives a sum of money — "Lazy, 12 zł 15 gr" — and no hearths.
+      de: >-
+        Die drei Herdstellen der Seite für Łazy sind ihre Rechnung; die Zeile
+        des Registers gibt eine Geldsumme — „Lazy, 12 zł 15 gr" — und keine
+        Herdstellen.
+    chodyla2015/83:
+      en: >-
+        The page's ten hearths for the Luśnie Olędry in 1789 come from Tab. 21
+        of the Kalisz hearth tax, whose row reads "Oledry Lusnie, 35" — a sum
+        in złoty, not a count of hearths.
+      de: >-
+        Die zehn Herdstellen der Seite für die Luśnier Olędry 1789 kommen aus
+        der Tab. 21 der Kalischer Herdsteuer, deren Zeile „Oledry Lusnie, 35"
+        liest — eine Summe in Złoty, keine Zahl von Herdstellen.
+    chodyla2015/84:
+      en: >-
+        The figures for 1789 (the "Olędry Trąbczyńskie" at 10 hearths, Nowa
+        Wieś at 13) are reckonings from the register's sums: "Olendry
+        Trabczynskie, 35", "Nowa Wies, 12 zł 15 gr", "Trapczyn, 80" — money,
+        not hearths.
+      de: >-
+        Die Zahlen für 1789 (die „Olędry Trąbczyńskie" mit 10 Herdstellen,
+        Nowa Wieś mit 13) sind Rechnungen aus den Summen des Registers:
+        „Olendry Trabczynskie, 35", „Nowa Wies, 12 zł 15 gr", „Trapczyn, 80" —
+        Geld, keine Herdstellen.
 
 # Boniecki (1900), the Chełmski branch that held Łukomia (editor, 2026-10-21).
 # Every name and year in these sentences was read in the book and in the
@@ -787,6 +1578,7 @@
     - boniecki1900/c02
   documents:
     - app536036-1
+    - app536040-1
   en: >-
     Boniecki (1900) finds in "an old pedigree" that Jerzy Chełmski, who
     signed the election of 1648 with the province of Kalisz, was the father
@@ -805,6 +1597,37 @@
     weil sie in seinem eigenen Wald beim Dorf Łukom Grenzzeichen in die
     Bäume schlagen ließen. Dass 1644 ein Jerzy Chełmski Łukom besaß, passt
     zu dem alten Stammbaum; wessen Vater er war, sagt das Urteil nicht.
+  about:
+    boniecki1900/c01:
+      en: >-
+        Boniecki doubts the old pedigree that makes Jerzy Chełmski the father
+        of Krzysztof Ścibor and Andrzej Ścibor. The edition's judgment of 1644
+        shows a Jerzy Chełmski holding Łukom in that year — he sues the
+        Trąbczyński brothers for the boundary marks cut into his own wood by
+        the village of Łukom — but it does not say whose father he was.
+      de: >-
+        Boniecki bezweifelt den alten Stammbaum, der Jerzy Chełmski zum Vater
+        von Krzysztof Ścibor und Andrzej Ścibor macht. Das Urteil von 1644 in
+        der Edition zeigt einen Jerzy Chełmski, der in jenem Jahr Łukom besitzt
+        — er verklagt die Brüder Trąmpczyński von Trąbczyn, weil sie in seinem
+        eigenen Wald beim Dorf Łukom Grenzzeichen in die Bäume schlagen
+        ließen —, aber es sagt nicht, wessen Vater er war.
+    boniecki1900/c02:
+      en: >-
+        Boniecki gives Krzysztof Ścibor Śladków and part of Łukomia, and his
+        widow's protest of 1703 against his brother Andrzej holding Łukomia
+        alone. The land court's decree of 1728 carries the story on: Franciszek
+        and Józef Ścibor Chełmski, heirs of Łukom and Łomowo, at law with
+        Krzysztof Prusimski of Trąbczyn and his son Antoni.
+      de: >-
+        Boniecki gibt Krzysztof Ścibor Śladków und einen Teil von Łukomia, und
+        den Protest seiner Witwe von 1703 gegen seinen Bruder Andrzej, der
+        Łukomia allein besaß. Das Dekret des Landgerichts von 1728 trägt die
+        Geschichte weiter: Franciszek und Józef Ścibor Chełmski, Erbherren von
+        Łukom und Łomowo, im Rechtsstreit mit Krzysztof Prusimski von Trąbczyn
+        und seinem Sohn Antoni.
+      documents:
+        - app536040-1
 
 - id: boniecki1900-brothers-1728
   passages:
@@ -857,6 +1680,7 @@
   documents:
     - app53170koningr117-4
     - app536045-1
+    - app53170koningr153-1
   en: >-
     Boniecki (1900) says that in 1766 Ignacy Chełmski sold his share of the
     family estates of Łukomia, Łomów, Mielno and Bukowe to his cousin
@@ -877,6 +1701,49 @@
     zeigt ihn das Dekret des Landgerichts (APP 53/6/0/-/45) im Rechtsstreit
     mit Katarzyna Prusimska, während die Grenze zwischen Trąbczyn und Łukom
     vor dem Krontribunal lag.
+  about:
+    boniecki1900/c03:
+      en: >-
+        Boniecki's one line on the sale — in 1766 Ignacy sold his share of the
+        family estates of Łukomia, Łomów, Mielno and Bukowe to his cousin
+        Stanisław — is answered by the protest of April 1778 (Konin Gr. 117),
+        where Stanisław Ścibor Chełmski stands as Treasurer of Wschowa, heir of
+        "Łukomia, Łomów, Imielno and Bukowo": the same four estates, Mielno
+        being Imielno, and the title a year earlier than Boniecki's 1779. The
+        decree of 1763 (APP 53/6/0/-/45) shows him already at law with
+        Katarzyna Prusimska while the Trąbczyn–Łukom boundary was before the
+        Crown Tribunal.
+      de: >-
+        Bonieckis eine Zeile zum Verkauf — 1766 verkaufe Ignacy seinen Anteil
+        an den Familiengütern Łukomia, Łomów, Mielno und Bukowe an seinen
+        Vetter Stanisław — beantwortet der Protest vom April 1778 (Konin Gr.
+        117), in dem Stanisław Ścibor Chełmski als Schatzmeister von Wschowa
+        steht, Erbherr von „Łukomia, Łomów, Imielno und Bukowo": dieselben vier
+        Güter, wobei Mielno das Imielno ist, und der Titel ein Jahr früher als
+        Bonieckis 1779. Das Dekret von 1763 (APP 53/6/0/-/45) zeigt ihn schon
+        im Rechtsstreit mit Katarzyna Prusimska, während die Grenze zwischen
+        Trąbczyn und Łukom vor dem Krontribunal lag.
+      documents:
+        - app53170koningr117-4
+        - app536045-1
+    boniecki1900/c06:
+      en: >-
+        Boniecki styles Stanisław Treasurer of Wschowa in 1779. The documents
+        style him so years earlier and keep him so: the protest of April 1778
+        (Konin Gr. 117) calls him "Thesaurarius Vschovensius", heir of the four
+        estates, and the act of 28 November 1782 (Konin Gr. 153) still has
+        Stanisław Scibór Chełmski, Treasurer of Wschowa, the lord of Łukom
+        beside the boundary stones.
+      de: >-
+        Boniecki nennt Stanisław 1779 Schatzmeister von Wschowa. Die Dokumente
+        nennen ihn so Jahre früher und behalten ihm den Titel: der Protest vom
+        April 1778 (Konin Gr. 117) „Thesaurarius Vschovensius", Erbherr der
+        vier Güter, und die Akte vom 28. November 1782 (Konin Gr. 153) noch
+        Stanisław Scibór Chełmski, Schatzmeister von Wschowa, als Herr von
+        Łukom an den Grenzsteinen.
+      documents:
+        - app53170koningr117-4
+        - app53170koningr153-1
 
 # Łukasiewicz (1997): the modern source study of the black register. Its
 # figures were read against the register's own entry (Materialien pp. 162-164)
@@ -891,6 +1758,7 @@
     - oe1bu9454-104
     - oe1bu9454-108
     - oe1bu9454-112
+    - oe1bu9454-103
   en: >-
     Łukasiewicz (1997) tells the story of the giveaway's technical manager,
     councillor Triebenfeld. He bought his estate in 1797 for 50,000 Thaler and
@@ -912,6 +1780,50 @@
     über 700.000 (April 1799), und denselben Weiterverkauf, 750.000 (Februar
     1801), aber als seinen eigenen Preis an den Prinzen George 280.000, nicht
     400.000 (Juli 1800).
+  about:
+    lukasiewicz1997/44:
+      en: >-
+        Łukasiewicz tells the sale chain: bought in 1797 for 50,000, sold in
+        1801 for 450,000 to the Prince of Hessen-Darmstadt, resold the same
+        year for 750,000 to the Saxon master of the hunt Schürding. The letters
+        give the chain as its maker counted it: over 700,000 rt at the judicial
+        tax against his own basis of some 500,000 (April 1799); the price to
+        Prince George 280,000 (July 1800); and Prince George selling for
+        750,000 (February 1801).
+      de: >-
+        Łukasiewicz erzählt die Verkaufskette: 1797 für 50.000 gekauft, 1801
+        für 450.000 an den Prinzen von Hessen-Darmstadt verkauft, im selben
+        Jahr für 750.000 an den sächsischen Jägermeister Schürding
+        weiterverkauft. Die Briefe geben die Kette, wie ihr Urheber sie
+        rechnete: über 700.000 rt an der Justiztaxe gegen seine eigene
+        Grundlage von etwa 500.000 (April 1799); der Preis an den Prinzen
+        Georg 280.000 (Juli 1800); und der Prinz Georg verkaufe für 750.000
+        (Februar 1801).
+      documents:
+        - oe1bu9454-104
+        - oe1bu9454-108
+        - oe1bu9454-112
+    lukasiewicz1997/61:
+      en: >-
+        The table's Triebenfeld row — officially 51,000, sold 400,000–750,000
+        (1801) — and its Rüchel row (30,000 and 130,000) stand against the
+        letters: the tax of April 1799 at over 700,000 rt, the price to Prince
+        George at 280,000 (July 1800), the resale at 750,000 (February 1801);
+        and Rüchel's estates sold, by the letter of 13 March 1799, for 140,000,
+        where the table gives 130,000.
+      de: >-
+        Die Zeile der Tabelle für Triebenfeld — amtlich 51.000, verkauft
+        400.000–750.000 (1801) — und ihre Zeile für Rüchel (30.000 und
+        130.000) stehen gegen die Briefe: die Taxe vom April 1799 über 700.000
+        rt, der Preis an den Prinzen Georg 280.000 (Juli 1800), der
+        Weiterverkauf 750.000 (Februar 1801); und Rüchels Güter, nach dem
+        Brief vom 13. März 1799, für 140.000 verkauft, wo die Tabelle 130.000
+        gibt.
+      documents:
+        - oe1bu9454-104
+        - oe1bu9454-108
+        - oe1bu9454-112
+        - oe1bu9454-103
 
 - id: lukasiewicz-hohenlohe
   passages:
@@ -940,6 +1852,81 @@
     veranschlagten Güter bringen jetzt 40.500), die Antwort des Fürsten
     (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und
     seine spätere Eingabe.
+
+# Dorow (1843): the volume prints, from a manuscript Triebenfeld gave him in
+# 1813, the war councillor's own memoir on the classifications and the
+# giveaway of the estates of South Prussia. The attribution is the volume's
+# own (its contents: "vom Kriegsrath v. T.") and the Materialien's note 152
+# spells it out ("v. Triebenfeld, der S. 128 geschilderte Kriegsrath"); the
+# same three letters that stand against Łukasiewicz's telling stand against
+# the memoir, the figures of the letters' side being those ruled on
+# 2026-10-19.
+
+- id: dorow-memoir
+  passages:
+    - dorow1843/18
+    - dorow1843/19
+  documents:
+    - oe1bu9454-104
+    - oe1bu9454-108
+    - oe1bu9454-112
+  en: >-
+    Dorow (1843) prints, from a manuscript the official gave him in 1813,
+    Triebenfeld's own memoir on how the classifications and valuations of
+    South Prussia were managed, told in the third person. The same man's
+    letters to the Prince of Hohenlohe report what came of it for his own
+    estates: valued at over 700,000 (April 1799), sold to Prince George of
+    Hessen-Darmstadt at 280,000 (July 1800) and resold for 750,000
+    (February 1801).
+  de: >-
+    Dorow (1843) druckt nach einer Handschrift, die der Beamte ihm 1813
+    einreichte, Triebenfelds eigene Denkschrift darüber, wie die
+    Klassifikationen und Taxen Südpreußens besorgt wurden, in der dritten
+    Person erzählt. Derselbe Mann berichtet in seinen Briefen an den Fürsten
+    Hohenlohe, was daraus für seine eigenen Güter wurde: über 700.000
+    veranschlagt (April 1799), an den Prinzen Georg von Hessen-Darmstadt für
+    280.000 verkauft (Juli 1800) und für 750.000 weiterverkauft
+    (Februar 1801).
+  about:
+    dorow1843/18:
+      en: >-
+        The memoir's classification story: the Poles, warned by "an honest man,
+        War Councillor v. Triebenfeld", volunteer 24 per cent where Hoym asked
+        five, and the tax in kind is dropped. The memoir's honest man is the
+        writer of the letters in the edition; what the same years brought him
+        stands in his own hand — the estates he sold taxed at over 700,000 rt
+        (April 1799) against the 500,000 he says he let the buyer have them on.
+      de: >-
+        Die Klassifikationsgeschichte der Denkschrift: Die Polen, von „einem
+        ehrlichen Mann, dem Kriegsrat v. Triebenfeld" gewarnt, bieten 24
+        Prozent, wo Hoym fünf verlangte, und die Naturalsteuer fällt hinweg.
+        Der ehrliche Mann der Denkschrift ist der Schreiber der Briefe der
+        Edition; was dieselben Jahre ihm brachten, steht in eigener Hand — die
+        Güter, die er verkaufte, mit über 700.000 rt taxiert (April 1799),
+        gegen die 500.000, auf die er sie, wie er sagt, dem Käufer überließ.
+      documents:
+        - oe1bu9454-104
+    dorow1843/19:
+      en: >-
+        The memoir closes on its hero's reward: Hoym commended, and the patriot
+        "got nothing for his pains and outlay", though it was his branch that
+        set the cabinet orders bestowing the confiscated estates aside. The
+        letters show what the same career had made by then: the estates sold to
+        Prince George encumbered with 270,000 rt of debt at a price of 280,000
+        (July 1800), and resold for 750,000 (February 1801) — their writer
+        petitioning to be kept out of arrest.
+      de: >-
+        Die Denkschrift schließt auf den Lohn ihres Helden: Hoym belobt, und
+        der Patriot „hatte für seine Mühe und Kosten nichts bekommen", obwohl
+        es seine Stelle war, die die Kabinettsorderen, womit die konfiszierten
+        Güter verschenkt wurden, beiseite setzte. Die Briefe zeigen, was
+        dieselbe Laufbahn bis dahin gemacht hatte: die an den Prinzen Georg
+        verkauften Güter mit 270.000 rt Schulden bei einem Preis von 280.000
+        beschwert (Juli 1800) und für 750.000 weiterverkauft (Februar 1801) —
+        ihr Schreiber bittet, vor der Verhaftung bewahrt zu bleiben.
+      documents:
+        - oe1bu9454-108
+        - oe1bu9454-112
 
 # Kneifel (1964), p. 41, on the founding of Łazińsk: the one passage of the
 # book that names the Starost and the colony together. Read against the
@@ -1023,6 +2010,74 @@
     schreibt sie, sie habe schon zweimal um die Rückgabe der ihrem Vater
     zugunsten der preußischen Generale genommenen Güter gebeten, und der Entwurf
     der Resolution vom 21. Juli in derselben Akte zeigt die Antwort im Werden.
+  about:
+    rostworowski1918/43:
+      en: >-
+        The sitting of 13 February refers Dąbska's memorial to the Director of
+        Justice, so that he propose general rules for the estates confiscated
+        under the former government. The file holds her letters of July 1807
+        but not this memorial; her letter of 20 July to the Commission at
+        Dresden says she has already asked twice for the estates taken from her
+        father for the Prussian generals — the asking that the Dziennik's
+        February entries record.
+      de: >-
+        Die Sitzung vom 13. Februar überweist Dąbskas Memorial dem
+        Justizdirektor, damit er allgemeine Regeln für die unter der früheren
+        Regierung konfiszierten Güter vorschlage. Die Akte hält ihre Briefe vom
+        Juli 1807, nicht aber dieses Memorial; ihr Brief vom 20. Juli an die
+        Kommission in Dresden sagt, sie habe schon zweimal um die Güter
+        gebeten, die ihrem Vater zugunsten der preußischen Generale genommen
+        waren — das Bitten, das die Februareinträge des Dziennik verzeichnen.
+      documents:
+        - agad11740273-2
+    rostworowski1918/44:
+      en: >-
+        The entry ends the referral: the memorial, with the recommendation that
+        the Director submit a project of general rules on the confiscations.
+        Her letter of 20 July 1807 — the asking again for Trąbczyn, Kamionna,
+        Kolna, Pawłowa, Pawłówka and the warehouse at Włocławek — is the same
+        petition at Dresden, after the Commission had moved there.
+      de: >-
+        Der Eintrag schließt die Überweisung ab: das Memorial, mit der
+        Empfehlung, der Direktor lege einen Entwurf allgemeiner Regeln über die
+        Konfiskationen vor. Ihr Brief vom 20. Juli 1807 — das erneute Bitten um
+        Trąbczyn, Kamionna, Kolna, Pawłowa, Pawłówka und das Magazin in
+        Włocławek — ist dieselbe Bittschrift in Dresden, nachdem die Kommission
+        dorthin gezogen war.
+      documents:
+        - agad11740273-2
+    rostworowski1918/54:
+      en: >-
+        The Director of Justice's opinion of 18 February — the return of the
+        estates "a matter of a purely political character" that cannot go the
+        ordinary way of the courts — is the entry the draft resolution of 21
+        July answers: it extends the Emperor's Finckenstein decree to her case
+        and sends the confiscated estates back to their rightful owners.
+      de: >-
+        Die Meinung des Justizdirektors vom 18. Februar — die Rückgabe der
+        Güter „eine Sache von rein politischem Charakter", die nicht den
+        gewöhnlichen Weg der Gerichte gehen könne — ist der Eintrag, den der
+        Entwurf der Resolution vom 21. Juli beantwortet: er erstreckt das
+        kaiserliche Dekret von Finckenstein auf ihren Fall und schickt die
+        konfiszierten Güter an ihre wahren Eigentümer zurück.
+      documents:
+        - agad11740273-1
+    rostworowski1918/55:
+      en: >-
+        The Commission's resolution — to petition the Emperor for the repeal of
+        the confiscations, and to have the Administrative Chambers watch over
+        the estates — is what the draft decree of 21 July 1807 carries out: the
+        Emperor's decree for Wybicki extended to Dąbska, so that her hereditary
+        estates return to their rightful owners.
+      de: >-
+        Der Beschluss der Kommission — den Kaiser um Aufhebung der
+        Konfiskationen zu bitten, und die Administrativen Kammern die Güter
+        beaufsichtigen zu lassen — ist, was der Entwurf des Dekrets vom 21.
+        Juli 1807 ausführt: das kaiserliche Dekret für Wybicki auf Dąbska
+        erstreckt, damit ihre erblichen Güter an ihre wahren Eigentümer
+        zurückkehren.
+      documents:
+        - agad11740273-1
 
 - id: rostworowski1918-decree
   passages:
@@ -1081,3 +2136,267 @@
     ankommt. Sie war binnen der Woche in Dresden: ihre Briefe vom 20., 21. und 23. Juli 1807 an die Regierungskommission und an den Kaiser sind alle in Dresden geschrieben und unterzeichnet "Michalina z
     Prusimskich Dambska", der letzte mit der Kenntnis des Dekrets der
     Kommission vom 21. Juli.
+
+
+# Held (1801): the papers of the Früson suit against the Seehandlung, printed
+# whole. Claude's reading, 2026-11-01 (docs/NEEDS_CONFIRMATION.md): the
+# composition of 1795 whereby Früson gave up the lease of Krotoszyn, which the
+# King's letter prices with the Abstand of 26,000 rt Triebenfeld received for
+# the Abtretung der Pacht, is Held's printed Vergleich; the identification of
+# the two rests on the year 1795 and the parties, and waits on the editor.
+
+- id: held-krotoszyn
+  passages:
+    - held1801/12
+    - held1801/34
+    - held1801/54
+    - held1801/79
+    - held1801/129
+    - held1801/173
+  documents:
+    - oe1bu9454-85
+    - oe1bu9454-86
+    - oe1bu9454-101
+  en: >-
+    Held (1801) prints, from the papers of Früson's suit against the
+    Seehandlung, the story of the Krotoszyn lease that the Materialien quote
+    from Cölln's "black book": Triebenfeld's administration of the lordship
+    until 1791, Früson's nine-year lease at 30,100 rt a year from 1 July 1791,
+    the composition that took it from him, and its giving back. The letters on
+    the Prince's proposed exchange give the same figures from the government's
+    side: Krotoszyn's rent of 30,100 in the Prince's answers and his petition,
+    and the Abstand of 26,000 the King says Triebenfeld received for the
+    Abtretung der Pacht of 1795.
+  de: >-
+    Held (1801) druckt aus den Akten des Prozesses Früsons gegen die
+    Seehandlung die Geschichte der Krotoszyner Verpachtung, die die Materialien
+    nach dem "schwarzen Buch" Cöllns zitieren: Triebenfelds Verwaltung der
+    Herrschaft bis 1791, Früsons Neunjahrspacht von 30.100 rt jährlich ab 1.
+    Juli 1791, der Vergleich, der sie ihm nahm, und ihre Rückgabe. Die Briefe
+    über den Tausch des Fürsten geben dieselben Zahlen von der Seite der
+    Regierung: die Pacht von 30.100 in den Antworten des Fürsten und seiner
+    Vorstellung, und den Abstand von 26.000, den der König sagt, Triebenfeld
+    habe für die Abtretung der Pacht von 1795 erhalten.
+  about:
+    held1801/12:
+      en: >-
+        Held's narrative: Triebenfeld, found as a huntsman and timber-clerk in
+        Görne's service, administered Krotoszyn for the Seehandlung at some
+        17,000 to 18,000 rt a year until 1791, when Struensee carried through
+        the lease to Früson at 30,100. The letters give the rent from the other
+        side: the Prince's answer counts Krotoszyn's rent at 30,100, and his
+        second petition takes that Pacht as the basis of his proposed exchange.
+      de: >-
+        Helds Erzählung: Triebenfeld, als Jägerbursche und Holzschreiber im
+        Dienst Görnes gefunden, verwaltete Krotoszyn für die Seehandlung mit
+        etwa 17.000 bis 18.000 rt jährlich, bis 1791 Struensee die Verpachtung
+        an Früson mit 30.100 durchsetzte. Die Briefe geben die Pacht von der
+        anderen Seite: die Antwort des Fürsten rechnet Krotoszyns Pacht auf
+        30.100, und seine zweite Vorstellung nimmt diese Pacht als Grundlage
+        seines vorgeschlagenen Tauschs.
+      documents:
+        - oe1bu9454-86
+        - oe1bu9454-101
+    held1801/34:
+      en: >-
+        Held prints the composition itself, wrung from Früson by Triebenfeld
+        and Neumann, by which he gave up the lease of Krotoszyn once more. The
+        King's refusal of 4 December 1798 names the same transaction from the
+        government's side: Triebenfeld received an Abstand of 26,000 rt when
+        the Abtretung der Pacht took place in 1795.
+      de: >-
+        Held druckt den Vergleich selbst, dem Früson von Triebenfeld und
+        Neumann abgedrungen ward und durch den er die Pacht von Krotoszyn noch
+        einmal aufgab. Die Ablehnung des Königs vom 4. Dezember 1798 nennt
+        dieselbe Begebenheit von der Seite der Regierung: Triebenfeld habe
+        einen Abstand von 26.000 rt erhalten, als die Abtretung der Pacht 1795
+        geschah.
+      documents:
+        - oe1bu9454-85
+    held1801/54:
+      en: >-
+        Früson's narrative: he leased the lordship in 1791 for nine years at
+        30,100 rt, whose administration until then had been entrusted to the
+        titular War Councillor Triebenfeld under the Breslau chamber's
+        direction — and the lease suited neither Hoym nor Triebenfeld. The
+        letters put figures to both claims: the King's refusal says Triebenfeld
+        received 26,000 rt for the Abtretung der Pacht of 1795, and the
+        Prince's answer counts Krotoszyn's rent at 30,100.
+      de: >-
+        Früsons Erzählung: er habe die Herrschaft 1791 auf neun Jahre mit
+        30.100 rt gepachtet, deren Verwaltung bis dahin dem Titularkriegsrat
+        Triebenfeld unter der Richtung der Breslauer Kammer übertragen war —
+        und die Verpachtung paßte weder Hoym noch Triebenfeld. Die Briefe
+        setzen beiden Behauptungen Zahlen bei: die Ablehnung des Königs sagt,
+        Triebenfeld habe für die Abtretung der Pacht von 1795 einen Abstand
+        von 26.000 rt erhalten, und die Antwort des Fürsten rechnet Krotoszyns
+        Pacht auf 30.100.
+      documents:
+        - oe1bu9454-85
+        - oe1bu9454-86
+    held1801/79:
+      en: >-
+        Früson's petition gives the lease's own dates: the contract of 4
+        September and 2 December 1791, the letting from 1 July 1791, nine
+        years, 30,100 rt a year, and the delivery of 3 and 8 September 1791.
+        The letters know the same rent from the other side: the Prince's answer
+        (30,100) and his second petition, which takes the Pacht of 30,100 as
+        its basis and asks for Struensee's files on the takeover of the
+        lordship.
+      de: >-
+        Früsons Vorstellung gibt die eigenen Daten der Verpachtung: der
+        Vertrag vom 4. September und 2. Dezember 1791, die Überlassung vom 1.
+        Juli 1791 an, neun Jahre, 30.100 rt jährlich, und die Übergabe vom 3.
+        und 8. September 1791. Die Briefe kennen dieselbe Pacht von der
+        anderen Seite: die Antwort des Fürsten (30.100) und seine zweite
+        Vorstellung, die die Pacht von 30.100 zur Grundlage nimmt und um
+        Struensees Akten über den Antritt der Herrschaft bittet.
+      documents:
+        - oe1bu9454-86
+        - oe1bu9454-101
+    held1801/129:
+      en: >-
+        The memorial against Früson's suit gives the auction of 1791: Früson
+        bid 30,100 rt of annual rent, though he was not the highest bidder, and
+        the Seehandlung resolved of its own motion. The letters give the rent
+        as the government reckons it: the Prince's answer has Krotoszyn paying
+        a Pacht of 30,100.
+      de: >-
+        Das Memorial gegen Früsons Klage gibt die Licitation von 1791: Früson
+        bot 30.100 rt jährlicher Pacht, ohne der Meistbietende zu sein, und die
+        Seehandlung beschloß aus eigenem Antrieb. Die Briefe geben die Pacht,
+        wie die Regierung sie rechnet: die Antwort des Fürsten hat Krotoszyn
+        eine Pacht von 30.100 zahlen.
+      documents:
+        - oe1bu9454-86
+    held1801/173:
+      en: >-
+        The son's petition: the father took the nine-year general lease of
+        1791 from the Seehandlung, "which until then had been administered by
+        War Councillor von Triebenfeld under the direction of the Breslau
+        Chamber for the account of the Seehandlung" — Triebenfeld's
+        administration, and its end when the lease began, as the letters' side
+        knows it: the Prince's answer counts Krotoszyn's rent at 30,100, the
+        sum the new lease displaced his administration.
+      de: >-
+        Die Vorstellung des Sohnes: der Vater habe die Neunjahrsgeneralpacht
+        von 1791 von der Seehandlung übernommen, "die bis dahin von dem
+        Kriegsrat von Triebenfeld unter der Richtung der Breslauer Kammer für
+        Rechnung der Seehandlung verwaltet worden war" — die Verwaltung
+        Triebenfelds und ihr Ende, als die Pacht begann, wie die Seite der
+        Briefe sie kennt: die Antwort des Fürsten rechnet Krotoszyns Pacht auf
+        30.100, die Summe, mit der die neue Pacht seine Verwaltung verdrängte.
+      documents:
+        - oe1bu9454-86
+
+# Guradze (1898), chapter VI: the Duchy of Warsaw declared all slavery
+# (esclavage) abolished by the constitution of 22 July 1807, and the decree of
+# King Friedrich August of 24 December 1807 carried it out — hereditary
+# subjection done away with. The hereditary lease the edition holds had freed
+# its lessees of it two years before, by its own paragraph 13.
+
+- id: guradze1898-emancipation
+  passages:
+    - guradze1898/c08
+  documents:
+    - app539680801-3
+  en: >-
+    Guradze (1898) dates the end of hereditary subjection in the Duchy of
+    Warsaw to the constitution of 22 July 1807 and the decree of King Friedrich
+    August of 24 December 1807, which carried out the abolition of what the
+    constitution's Article 4 had called esclavage. The hereditary lease of
+    1805/6 in the edition had freed its eighteen lessees of hereditary
+    subjection two years before that, by its own paragraph 13 — the freedom the
+    Duchy's decree then made general.
+  de: >-
+    Guradze (1898) datiert das Ende der Erbuntertänigkeit im Herzogtum Warschau
+    auf die Konstitution vom 22. Juli 1807 und das Dekret des Königs Friedrich
+    August vom 24. Dezember 1807, das die Aufhebung dessen vollzog, was Artikel
+    4 der Konstitution esclavage nannte. Der Erbpachtvertrag von 1805/6 in der
+    Edition hatte seine achtzehn Erbpächter zwei Jahre davor von der
+    Erbuntertänigkeit freigestellt, durch seinen eigenen Paragraphen 13 — die
+    Freiheit, die das Dekret des Herzogtums dann allgemein machte.
+
+# Paciorkowski (1776): the rule of the Polish field boundary process, second
+# edition. The passages are the constitution of 1768 on the approval of
+# boundary decrees and the rules on boundaries destroyed or privately erected;
+# the edition's court books show both at work in the Trąbczyn–Łukom case.
+# Claude's reading, 2026-11-01 (docs/NEEDS_CONFIRMATION.md): the edition's
+# process ran on the Sejm's commission of 1774, not the Sub-Chamberlain's
+# ordinary office of 1768 — the passages are tied as the rules the documents'
+# proceedings resemble, not as the statute they were brought under.
+
+- id: paciorkowski1776-boundary
+  passages:
+    - paciorkowski1776/170
+    - paciorkowski1776/174
+  documents:
+    - app53170koningr153-1
+    - app53170koningr117-4
+  en: >-
+    Paciorkowski (1776) prints the constitution of 1768 for boundary cases: a
+    boundary decree approved by the Tribunal passes into a full judgment, and
+    boundaries destroyed or privately erected are restored and demolished at
+    law, before an official inspection. The Trąbczyn–Łukom court books show
+    both rules at work: the stones the boundary commission of 1775 erected were
+    approved by the Piotrków Tribunal's decree of 23 January 1782, and the act
+    of 28 November 1782 is the demolition of the intermediate stones by the
+    palatinate's commissary, while Chełmski's protest of 1778 declares a
+    private field act, drawn up after the stones were erected and the oath
+    sworn, invalid.
+  de: >-
+    Paciorkowski (1776) druckt die Konstitution von 1768 für Grenzsachen: ein
+    vom Tribunal gebilligtes Grenzdekret geht in ein vollstreckbares Urteil
+    über, und zerstörte oder privat aufgeworfene Grenzen werden vor
+    gerichtlicher Besichtigung auf dem Rechtsweg wiederhergestellt und
+    niedergelegt. Die Gerichtsbücher von Trąbczyn und Łukom zeigen beide Regeln
+    bei der Arbeit: die Steine, die die Grenzkommission von 1775 setzte,
+    billigte das Dekret des Krontribunals von Piotrków vom 23. Januar 1782, und
+    die Akte vom 28. November 1782 ist die Niederlegung der Zwischensteine
+    durch den Kommissar der Woiwodschaft, während Chełmskis Protest von 1778
+    eine privat verfaßte Feldhandlung, nach aufgeworfenen Steinen und
+    abgelegtem Eid aufgenommen, für ungültig erklärt.
+  about:
+    paciorkowski1776/170:
+      en: >-
+        The constitution's rule of approval: a boundary decree approved by the
+        Tribunal transits into a full judgment. The demolition act of 28
+        November 1782 (Konin Gr. 153) records the approval in its own preamble:
+        the stones erected by the 1775 commission had been approved by the
+        Piotrków Tribunal's decree of 23 January 1782, and the palatinate's
+        commissary then demolished the intermediate stones and declared them
+        null.
+      de: >-
+        Die Billigungsregel der Konstitution: ein vom Tribunal gebilligtes
+        Grenzdekret geht in ein vollstreckbares Urteil über. Die
+        Beseitigungsakte vom 28. November 1782 (Konin Gr. 153) verzeichnet die
+        Billigung in ihrer eigenen Einleitung: die Steine, die die Kommission
+        von 1775 gesetzt hatte, waren durch das Dekret des Krontribunals von
+        Piotrków vom 23. Januar 1782 gebilligt, und der Kommissar der
+        Woiwodschaft legte dann die Zwischensteine nieder und erklärte sie für
+        null und nichtig.
+      documents:
+        - app53170koningr153-1
+    paciorkowski1776/174:
+      en: >-
+        The rule for boundaries destroyed or privately raised: restoration and
+        demolition at law, before an official inspection by the court's
+        officer. Chełmski's protest of April 1778 (Konin Gr. 117) is the
+        private-raising case: it declares invalid a private field act carried
+        out by commissioners hired privately "after the stones had been
+        erected and the oath sworn", and the act of 28 November 1782 (Konin
+        Gr. 153) is the demolition itself, the commissary verifying the line
+        and pulling up the intermediate stones.
+      de: >-
+        Die Regel für zerstörte oder privat aufgeworfene Grenzen:
+        Wiederherstellung und Niederlegung auf dem Rechtsweg, vor
+        gerichtlicher Besichtigung durch den Offizial des Gerichts. Chełmskis
+        Protest vom April 1778 (Konin Gr. 117) ist der Fall der privaten
+        Aufwerfung: er erklärt eine Feldhandlung für ungültig, die von privat
+        gedungenen Kommissaren "nach aufgeworfenen Steinen und abgelegtem Eid"
+        aufgenommen war, und die Akte vom 28. November 1782 (Konin Gr. 153) ist
+        die Niederlegung selbst, der Kommissar die Linie verifizierend und die
+        Zwischensteine ausziehend.
+      documents:
+        - app53170koningr117-4
+        - app53170koningr153-1

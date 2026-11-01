@@ -190,6 +190,14 @@ matters for context. So:
    value at the gift, later valuation, sale price), which bears directly on
    the question of inflated values.
 
+**When a new work is added**, its links are proposed in the same sitting
+(docs/CONNECTIONS.md, "The Connections step"): read the work's passages
+against the edition's documents — chains first, figures as hooks — and put
+each proposed link before the editor, its per-passage notes with it, flagged
+as Claude's reading where an identification is Claude's. The sweep's method
+and its measure of relevance are in CONNECTIONS.md; the first sweep is
+section 32.
+
 ## 7. How the site pages are made (2026-10-19)
 
 - `pipeline/literature/literature_site.py` (a step of pipeline/regenerate.py, after
@@ -1276,3 +1284,151 @@ queries, 1 rejected). This is stronger than the literature's usual spot check:
 - The literature now has 40 works, 34 with pages in both languages and six
   summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski & Polom
   2024, nmpol, slownik).
+
+## 31. Dorow (1843), the memoir of Triebenfeld (2026-11-01)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `dorow1843` | Wilhelm Dorow, *Erlebtes aus den Jahren 1813-1820*, part II, Leipzig 1843 - the memoir of the war councillor von Triebenfeld ("Pohlen unter Friedrich II. und Friedrich Wilhelm II.", 1813), the volume's printed pp. 11-24 | German | `[p. N]` | yes |
+
+The source the edition had been citing without holding: Łukasiewicz (1997)
+and the Materialien (1861) both rest on Dorow's printing of Triebenfeld's
+memoir, and the memoir is the longest thing Triebenfeld is known to have
+written, and in his own words - the classifications and the giveaway of the
+estates of South Prussia told by the official who did the work, in the third
+person. The editor's PDF (the Staatsbibliothek zu Berlin's digitisation,
+PPN 167107372X, Bibl. Varnhagen 936, Public Domain Mark, image-only) was
+downloaded 2026-10-19 with the first literature set and left unprocessed; the
+editor ruled (2026-11-01) that the memoir only is brought in, not the whole
+part II.
+
+- **The excerpt:** the memoir's title leaf ("Pohlen unter Friedrich II. und
+  Friedrich Wilhelm II. vom Kriegsrath von T. / Siehe I. Theil Seite 19.")
+  and its Goethe motto leaf - unnumbered, the volume counts them pp. 11-12,
+  and the contents list the piece at p. 11 - as the work's front, then
+  printed pp. 13-24, ending with Hardenberg's verdict of November 1816 on
+  the whole ("ein glorreiches Beispiel von unsrer jezigen Verwaltung...").
+  Reischach's piece begins at p. 25; the rest of the volume is not brought
+  in. 13 passages.
+- **Read by OCR** (the PDF has no text layer): Tesseract 5.5.3 with the
+  `script/Fraktur` model from tessdata_best, fetched into
+  `%LOCALAPPDATA%\Tesseract\tessdata` beside the deu and pol models already
+  there (the install's own tessdata carries English only, and the German
+  model of the newspaper work does not read Fraktur). Whole pages at
+  300 dpi, doubtful lines re-read as 900 dpi bands in the Fraktur and deu
+  models. The lunaroute converter was planned as the second engine (as for
+  Kraus 2001) but could not be reached this session; the human witness in
+  its place was the Materialien (1861), which reprints this memoir in
+  extract (pp. 205-216) in the editor's own file - read line against line
+  with `difflib` after the draft was composed. What that reading settled and
+  what it exposed (the 1861 compiler's added motto, added pointers,
+  omissions and slips) is in `literature/dorow1843/notes.md`.
+- **The spot sheet** (`scratch/dorow1843_sheet.py`, answers to
+  `review/dorow1843/query_answers.json`): the nine readings the passes and
+  the reprint did not settle - the 9/5 Procent digit of p. 14 (the
+  Materialien prints 5 with its own "(?—)" pointer), *gebauset/gehauset*
+  (p. 15), *Offizcianten* against the print's own whole-word *Offizianten*
+  of p. 17 and the reprint's *Officianten* (p. 15), *Würkungskreis* and
+  *bewürken* against the reprint's *Wirkungs-* forms (p. 21), *kukken*
+  (p. 23), *Michelis/Michaelis* (p. 22), and the title leaf's display word
+  and cross-reference. **Answered the same day** (eight of nine rows; the
+  editor's rulings worked into `original.md`, recorded in the work's
+  `notes.md`): 5 Procent, *gehauset*, *Officianten*, *Würkungskreis*,
+  *bewürken*, *kukken*, *Michelis* and *Pohlen* stand; the cross-reference
+  row was not answered and stays open in NEEDS_CONFIRMATION. **Published
+  2026-11-01** at the editor's word ("Publish"): pushed to main
+  (21a7d01f7), the Build and deploy run 41286917735 succeeded, and
+  /literature/dorow1843/ and /de/literatur/dorow1843/ answer.
+- **The figures:** the memoir's own figures are Triebenfeld's (the 10 and
+  the volunteered 24 per cent, the 27 millions of the title, Prince Karl
+  George of Hessen's 230,000 purchase valued at 800,000, the 200,000 of
+  Heymann Ephraim's loan with its 30,000 proxeneticum). The memoir does not
+  print the story of Triebenfeld's own estate - Łukasiewicz's telling of
+  Dorow's printing - and the register's entry and the letters (400,000 and
+  750,000) stand against both (the standing rule). Łukasiewicz's "the
+  buying of the head of the valuation commission cost him 35 000" is his
+  figure, not the memoir's: the memoir makes the valuation itself cost the
+  prince "etwa 3500 Thlr." (p. 22).
+- **The index:** 60 hits of the edition's people and places (Hoym 23,
+  Schulenburg 10, Berlin 6, Triebenfeld 4, Südpreußen 4), every spelling
+  already ruled for the other works; `--check` passes with 0 unruled.
+- **One hand-made link** (`dorow-memoir`): the memoir's two
+  self-identifying passages (pp. 18-19) to the same three letters of the
+  Prince that stand against Łukasiewicz's telling (oe1bu9454-104, -108,
+  -112); the letters' figures in the sentence are those ruled on
+  2026-10-19, the memoir's side names no figures. The attribution of the
+  memoir is the volume's own and the Materialien's note 152 spells it out;
+  nothing of it is Claude's guess, so NEEDS_CONFIRMATION is not touched.
+- The literature now has 41 works, 35 with pages in both languages and six
+  summary-only. **Published the same day** at the editor's word ("Publish").
+
+
+## 32. The call-outs reworked: "Related", one note per passage, a gutter column with a toggle (2026-11-01; branch `related-callouts`, published at the editor's word)
+
+The editor reported (2026-11-01) that the boxes under the literature's
+passages repeated themselves and were not always about the page they stood
+under. The finding: 18 of the 33 links named several passages of one work,
+and `literature_site.py` stamped the identical box under each — the worst,
+`register-other-gifts`, nine times in the Materialien and seven in the
+Feuerbrände, with a sentence written for all of the gifts at once.
+
+The rework, the editor's choices of that day (asked and answered):
+
+- **"Related" / "Bezüge"** is the heading of the passage-side entry; the
+  document-side box keeps "In the literature". (HOUSE_STYLE's rule stands:
+  the site does not call itself "the edition".)
+- **Per-passage notes inside one link** rather than links split by passage:
+  a link keeps its cross-work span (the register's three printings stay one
+  connection), and gains `about:` — one entry per passage, each with its own
+  en and de and its own documents (a subset of the link's; left out, the
+  link's documents stand). A link with several passages must carry an entry
+  for every passage; a link with one passage needs none and may not carry
+  one; every document of the link must belong to at least one passage.
+  `literature_site.py` stops on any breach.
+- **A gutter column**: from a 64rem viewport the entry stands in a
+  right-hand column beside the passage, top-aligned with it; below that it
+  folds under the passage text. A "Related" button beside the view buttons
+  (alone for the English-only works) hides the column page-wide, the choice
+  remembered like the view choice (`tf-lit-related`), default on; without
+  JavaScript the column shows. Checked with the mobile crawler over all 42
+  works in both languages at 320 to 1920 (504 checks, none overflowing; the
+  toggle exercised on every page that carries it).
+- **The entries pruned to their documents' reach**: the Treskow and
+  Wendessen entries (Materialien pp. 152, 153, 171; Feuerbrände 2-74,
+  2-90) left the link `register-other-gifts` — the letter of 13 March 1799
+  does not touch them, and a call-out with nothing behind it is not
+  relevant. Per-passage notes were written for all 18 links that had
+  repeated themselves (72 passage entries now stand where 73 repeated
+  placements stood), each read in the passage and in its documents.
+- **One new link from the rework's reading** — `register-donations`: the
+  donation dossier I. HA Rep. 7 C Nr. 3570 (Hoym's proposal of 14 July
+  1796, the King's cabinet order of 23 July given at Pyrmont, the deeds of
+  9 August 1796) set against the register's entries whose deeds and
+  valuations it holds: Blücher's Duninow, Pontanus's Sieradz, Dolffs's
+  Strzelec with the deed date the register prints, and Goldbeck's
+  chancery. Where they disagree the notes say so (NEEDS_CONFIRMATION).
+- **The first sweep of new links** — the works section 9 had queued:
+  - `held-krotoszyn`: Held (1801) prints the papers of Früson's suit —
+    Triebenfeld's administration of Krotoszyn until 1791 at some 17,000 to
+    18,000 rt a year, Früson's nine-year lease at 30,100 from 1 July 1791,
+    the composition that took it from him — against the letters' side
+    (the King's Abstand of 26,000 rt for the Abtretung der Pacht of 1795,
+    oe1bu9454-85; the rent of 30,100 in the Prince's answers and his second
+    petition, -86, -101). Claude's reading, NEEDS_CONFIRMATION.
+  - `guradze1898-emancipation`: Guradze dates the end of hereditary
+    subjection in the Duchy of Warsaw to the constitution of 22 July 1807
+    and the decree of 24 December 1807; the lease's paragraph 13 had freed
+    its eighteen lessees of it two years before (app539680801-3).
+  - `paciorkowski1776-boundary`: the 1768 constitution's approval rule and
+    its rules on boundaries destroyed or privately erected, beside the
+    Tribunal's approval of 23 January 1782, the demolition act of
+    28 November 1782 and Chełmski's protest of 1778 (Konin Gr. 153, Konin
+    Gr. 117). Claude's reading, NEEDS_CONFIRMATION.
+- Next batches of the sweep (the editor to steer): Paciorkowski's remaining
+  passages (the process's forms and definitions, 178 passages), the works
+  of the edition's ground not yet linked (Werner, Mielewczyk, Muszyńska,
+  Mączak, Frost), then the rest. The measure of relevance: a document that
+  confirms, corrects, extends or dates what the passage says — in that
+  order of value.
+- Verified: build and `pipeline/verify_site.py` clean (302 link-pairs
+  checked on both sides, 37 links, 40 documents). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.

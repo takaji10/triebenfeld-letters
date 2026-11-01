@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-33">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-33">S. 33</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -37,9 +38,11 @@ The hereditary prince Friedrich Ludwig zu Hohenlohe-Ingelfingen, born on 31 Janu
 <span class="lit-note" id="n-en-2">p33-2</span> 2 Ingeborg Weber-Kellermann: Frauenleben im 19. Jahrhundert – Empire und Romantik, Biedermeier, Gründerzeit, München 1983, S. 20
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-34">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-34">S. 34</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -73,9 +76,11 @@ Two of the five sons of Heinrich von Hohenlohe, Gottfried and Konrad, were able 
 <span class="lit-note" id="n-en-6">p34-6</span> 6 Carlheinz Gräter und Peter Fuchs: Hohenlohe – Bilder eines alten Landes, Bindlach 1991, S. 24 sowie: Friedrich Karl Fürst zu Hohenlohe-Waldenburg: Hohenlohe – Bilder aus der Geschichte von Haus und Land, Neuenstein 1983 und Gerlinde Kraus: Die wirtschaftlichen Aktivitäten des Hauses Hohenlohe im 19. Jahrhundert, Mühlheim am Main 1995, S. 6
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-35">S. 35</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -107,9 +112,11 @@ The tiresome quarrels among the various side lines had hardly left time to take 
 <span class="lit-note" id="n-en-11">p35-11</span> 11 HZAN, AÖ PA 80/5/3
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-36">S. 36</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -141,9 +148,11 @@ Even before his marriage with the rich heiress Marianne Countess of Hoym the pri
 <span class="lit-note" id="n-en-16">p36-16</span> 16 Ebd., S. 46
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-37">S. 37</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -183,9 +192,11 @@ that no stays be put on the little daughters. My hatred of these shells goes so 
 <span class="lit-note" id="n-en-21">p37-21</span> 21 Ebd., S. 292. The welcome that was finally prepared for her by her children, who had been brought to their grandmother in Berlin, must have been quite to her taste. To her husband she wrote: "Mon cher ami! Enfin me voici arrivée après bien des peines en bonne Santé ici – le Mercredi après minuit j'ai été rendue ici, – et j'aurai peine à Vous exprimer la sensation de mon Coeur en me rapprochant de nos chers Enfants – ces chers petites Creatures ayant été éveillée par le Postillon sont sortie tous hors de Leurs Nits pour me recevoir et me temoigner Leur joie – Ils ont très bien grandies – Auguste s'est beaucoup formés par ses Etudes – Il parle coulament le francais, le prononce bien – et s'est appliques en general – Adele est come Elle a toujours été – vive, drôle, mais excellente – elle était si touchée en me revoyant qu'Elle a pleurée et rie en même temps et n'a pue s'arracher de mon Coeur – aussi a-t-Elle voulue recevoir tous ses Droits, Elle loger chez moi, ne me quitte pas – et s'attacher plus que jamais à moi. (…) Emilie a grandie – et bien plus regulièrement bien que sa Soeur – mais sa Physionomie est moins Spirituelle – et Elle est beaucoup plus indolente qu'Adele – mais c'est un bon Enfant, et Nous ne saurions rendre assez grée au Ciel des ces bonheur de les posseder tous trois tel qu'ils sont." [My dear friend! At last here I am, arrived after much trouble in good health here - on Wednesday after midnight I was returned here, - and I shall have trouble expressing to You the sensation of my heart as I come near to our dear Children - these dear little creatures, having been woken by the postilion, all came out of their beds to receive me and show me their joy - They have grown very much - Auguste has much formed himself by his studies - He speaks coulament [fluently] the French, pronounces it well - and has applied himself in general - Adele is come as She has always been - lively, funny, but excellent - she was so moved at seeing me again that She cried and laughed at the same time and could not tear herself from my heart - She also wanted to receive all her rights, She lodges with me, does not leave me - and attaches herself more than ever to me. (…) Emilie has grown - and much more regularly well than her Sister - but her physiognomy is less spiritual - and She is much more indolent than Adele - but she is a good child, and We cannot thank heaven enough for the happiness of possessing all three as they are.] Letter of Marianne Fürstin von Hohenlohe Ingelfingen to her husband of 4 February 1792, HZAN 47, K 1, F2
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-38">S. 38</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -215,9 +226,11 @@ The first experiments with coke in the winning of iron had been undertaken on th
 <span class="lit-note" id="n-en-25">p38-25</span> 25 Gentzen: Denkschrift zur Feier des hundertfünfzigjährigen Bestehens der königlichen Hütte zu Malapane, Berlin 1904, S. 9
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -251,9 +264,11 @@ From the battle, which had been fought by the Prussian main army with 58000 sold
 <span class="lit-note" id="n-en-29">p39-29</span> 29 Otto Hintze: Die Hohenzollern und ihr Werk – 1415–1915, Berlin 1915, S. 435
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -303,9 +318,11 @@ In a letter to the grandson and heir August of 9 August 1810 the princess Sacken
 <span class="lit-note" id="n-en-35">p40-35</span> 35 Adolf Fischer, S. 358
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -335,9 +352,11 @@ The daughter of the princess Sacken, Marianne, had after eighteen years of marri
 <span class="lit-note" id="n-en-41">p41-41</span> 41 Communication of Hofrat Mangold of Oehringen of 27 April 1840, who communicated that the countess Marianne von der Osten-Sacken, née countess Hoym, mother of the most gracious prince and lord, had died quietly on 20 April of that year at Marienhof near Rostock. Vgl. ThHStAW, RG Oppurg 132
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-42">
+<section class="lit-passage has-related" id="p-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -371,14 +390,16 @@ in order to preserve them "zum Flor beiderseitiger künftiger Descendenz" [for t
 <span class="lit-note" id="n-en-43">p42-43</span> 43 HZAN, PA Oehringen K2 F7, Transact, S. 10
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
 <p>Kraus (2001) hält auf S. 42 fest, dass der Fürst, um an „baare Mittel“ zu gelangen, die erworbenen Herrschaften Betsche, Zogorowo, Trobczyn, Botkowo und Winiec „weit unter Wert“ wieder verkaufte, darunter in den Schreibweisen des Buches Zagórów und Trąbczyn. Die königliche Genehmigung vom 28. Januar 1806 (APP 53/968/0/-/801, Dokument 2) zeigt den Fürsten in denselben Jahren bei der Parzellierung der „Herrschaften Zagurowo und Trompczyn“, während das Buch seine Finanzen als zusammenbrechend beschreibt. Das Dokument sagt nicht, was die Parzellierung einbrachte, und das Buch datiert die Verkäufe nicht.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/app539680801/2/' | relative_url }}">53/968/0/-/801, Dokument 2 (28. Januar 1806)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app539680801/2/' | relative_url }}">53/968/0/-/801, Dokument 2 (28. Januar 1806)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-325">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-325">S. 325</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -424,9 +445,11 @@ I know, and I knew it then just as well as now, that no power in the world could
 <span class="lit-note" id="n-en-45">p325-5</span> 5 APK Hohenlohe Koscz. 480, Brief der Gräfin Osten-Sacken vom 12. Oktober 1811
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-326">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-326">S. 326</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -482,9 +505,11 @@ née countess Hoym
 [.]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-327">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-327">S. 327</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -518,9 +543,11 @@ Since my lady daughter, the countess von Sacken, is so deeply entangled in debts
 <span class="lit-note" id="n-en-48">p327-8</span> 8 HZAN Kosz. 472
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-328">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-328">S. 328</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -547,6 +574,7 @@ née von Dieskau
 
 [.]
 
+</div>
 </div>
 </section>
 {% endraw %}

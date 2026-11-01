@@ -242,7 +242,9 @@ Typed links between documents, asserted on something a document *says* - not
 on two documents being about the same estate. Kinds in use: `answers`,
 `certifies`, `confirms`, `copies`, `duplicate_of`, `entered_in`, `refuses`,
 `registers`, `supersedes`, `supplements`, `transmits`. Each carries a `note`
-giving the evidence.
+giving the evidence. These are the relations **within one holding**; the
+chains that run across holdings are authored separately
+(`reference/connections.yml`, docs/CONNECTIONS.md).
 
 ### `uncertainties.json`
 
@@ -268,6 +270,9 @@ reference/places.yml         canonical places, their variants, patterns and
 reference/genealogy.yml      the family of each person who has their own page
                              on the site, every fact with its source
                              (docs/LITERATURE_PLAN.md, section 22)
+reference/connections.yml    the connections between documents of different
+                             holdings, each participant with its own note
+                             (docs/CONNECTIONS.md)
 ```
 
 **Adjudicated** - proposed by a tool, decided by a human, then applied:

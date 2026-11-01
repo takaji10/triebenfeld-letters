@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-237">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-237">S. 237</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -63,9 +64,11 @@ A few scattered details on the Poles of Venice (1794-1797) have been given by W�
 <span class="lit-note" id="n-en-2">2</span> This insurrection was launched to free Poland from Tsarist occupation, but it was directed against Prussia as well; it hoped, however, for the benevolent neutrality of Austria. The insurgents looked to social changes in an independent Poland.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-238">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-238">S. 238</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -105,9 +108,11 @@ The Republic of Venice comprised, besides territories in the north of Italy, pos
 <span class="lit-note" id="n-en-4">4</span> Venice had an army of nearly 25,000 men, 50 ships and 700 merchant vessels, but their armament, training, drill and discipline left much to be desired.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-239">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-239">S. 239</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -143,9 +148,11 @@ From October 1794 the first emigrés arrived from the territories where the figh
 <span class="lit-note" id="n-en-6">6</span> AS Venezia, Inq. nr 772.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-240">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-240">S. 240</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -185,9 +192,11 @@ Three main parties formed quite quickly: the partisans of a strong monarchy, the
 <span class="lit-note" id="n-en-11">11</span> Stanislas Mokronowski was a lieutenant-general; Denis Kołyszko, François Łaźniński, Michel Piotrowski, François Wyszkowski and Michel Zagórski had the rank of major-generals of the line, and Dionizy Mniewski and Kajetan Nagórski that of insurrectionary major-generals.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-241">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-241">S. 241</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -227,9 +236,11 @@ Reasonable, polite, but without breadth or energy, he always tried
 <span class="lit-note" id="n-en-15">15</span> The documents on Lallement's activity are in AE corr. Venise, ms 251, and in the sections AE France or Pologne. His activity at Venice is recorded in the police reports for the State Inquisitors, AS Venezia, Inq. nr 772-780, and Democrazia, nr 161 et seq.; Archivio Municipio de Venezia, Segretario del Comune, 1794-1797; the correspondence of Lallement's son of 1797 is in the Archivio di Stato in Bologna, nr 11, 12. Many references in André Bonnefons, La chute de la République de Venise, 1789-1797, Paris, 1908, and in other studies of Venice.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-242">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-242">S. 242</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -253,9 +264,11 @@ The memorandum put forward the idea of a great coalition of progressive states a
 <span class="lit-note" id="n-en-16">16</span> A description based on the Venetian archives mentioned above, and on information given by Dr M. F. Tiepolo of the Archivio di Stato in Venezia.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-243">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-243">S. 243</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -303,9 +316,11 @@ And so he acquired, with part of the funds he had brought,
 <span class="lit-note" id="n-en-19">19</span> Casimir La Roche, assistant at the Agency of Poland, to the Committee of Public Safety, Paris, 19 February 1795, AE Pologne, vol. 323, f. 34; reports to the Committee of Public Safety, Paris, 22 and 27 February 1795 (f. 30-37, 43); the Committee of Public Safety to Citizen Fr. Barss, Paris, 27 February (f. 44).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-244">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-244">S. 244</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -337,9 +352,11 @@ At that moment French diplomacy, through the minister Lallement, asked M. Ogińs
 <span class="lit-note" id="n-en-21">21</span> Joseph Wybicki (1747-1822), Polish politician and writer, took part in drafting the Constitution of 3 May 1791 as a deputy to the Great Diet; in the insurrection he was a deputy councillor of the Supreme National Council, in the department of military supplies, and then the government's plenipotentiary in General J. H. Dąbrowski's expedition into Greater Poland.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-245">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-245">S. 245</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -375,9 +392,11 @@ The Poles now met at Joachim Durante's inn in the Calle del Forno, near St Mark'
 <span class="lit-note" id="n-en-22">22</span> Negotiations of M. de Barthélemy, minister plenipotentiary of France, with Spain, 1796, AE Mémoires, ms 653; M. Ogiński, Mémoires, II, 92-94; AS Venezia, Inq. nr 775, reports on the return of P. Potocki in September 1795.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-246">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-246">S. 246</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/pachonski1973/246.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/pachonski1973/246.jpg' | relative_url }}" alt="Pachoński (1973), S. 246" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="fr" markdown="1">
@@ -426,9 +445,11 @@ Residences of the Polish emigrés in Venice, 1794 - 1797
 Compiled by Jan Pachoński
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-247">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-247">S. 247</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -464,9 +485,11 @@ S. Sołtyk, discouraged by the situation, decided to move nearer to Poland, seek
 <span class="lit-note" id="n-en-23">23</span> AS Venezia, Inq. nr 774, of 15 June 1795.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-248">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-248">S. 248</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -494,9 +517,11 @@ M. Oginski was sent from Venice as agent to Turkey, charged with obtaining help 
 <span class="lit-note" id="n-en-24">24</span> J. Pachoński, Légions Polonaises I, 85 et seq.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-249">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-249">S. 249</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -524,9 +549,11 @@ The Emperor's first minister, Baron François Thugut, was hostile to the candida
 <span class="lit-note" id="n-en-26">26</span> Jean Komarzewski (1744-1810), one of the most eminent generals of the age of Stanisław August. He passed from the Prussian army to the Polish. In 1774 he became colonel and general aide-de-camp to the King, in 1776 major-general attached to His Majesty and head of the King's military chancery, and lieutenant-general in 1778. Gifted, cultivated and energetic, he helped to raise the standard of the Polish army. He was entrusted with delicate missions, notably to Petersburg and Berlin. Deputy in 1784 and 1786. But for his devotion to the King he was opposed both by the magnates and by the patriotic parties during the Great Diet, who forced him to resign and go abroad. In 1792 he sent 2,000 ducats from England for the struggle against Russia. During the insurrection of 1794 he drew up a plan for the defence of Warsaw. After the dismemberment of Poland he went with the King into exile. After the King's death he refused to enter the service of Russia. He took up mineralogical studies in Warsaw, and later took his collections to Dresden and Paris. J. Komarzewski held the highest Polish and Russian distinctions; he was a freemason. Of his writings, the study of the graphometer, which could replace the compass (Paris, 1803), deserves attention, as does a Coup d'oeil rapide sur les causes réelles de la décadence de la Pologne (1807), an apology for King Stanisław August. Member of the Warsaw Society of Friends of Learning. He died in Paris on 19 March 1810; cf. Encyclopédie Militaire, Warsaw, vol. IV, 1934.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-250">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-250">S. 250</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -558,9 +585,11 @@ On 30 May he received a visit from Clément Leszczyński and Augustin Trzecieski
 <span class="lit-note" id="n-en-28">28</span> AS Venise, Inq. nr 778.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-251">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-251">S. 251</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -600,9 +629,11 @@ The Polish Emigrés, in bringing him over, meant to create the
 <span class="lit-note" id="n-en-30">30</span> AS Venise, Inq. nr 778; documents on the beginnings of the formation of the Polish Legions in the Archives of the Legions and of General J. H. Dąbrowski, vol. 4, vol. 45; Collections of Rapperswil, ms 114, II, 142; finally J. Pachoński, Légions Polonaises, vol. I; S. Askenazy, Napoléon et la Pologne, vol. I-II, Warsaw, 1918.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-252">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-252">S. 252</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -638,9 +669,11 @@ The supporters of the Constitution of 3 May and the republicans set up there the
 Those who directed the clandestine struggle inside Poland in the Lwów Centre set up at Venice their representation, which spread news and issued appeals for the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-253">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-253">S. 253</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -680,9 +713,11 @@ Of course the Polish emigrés differed in their ideas: there were also monarchis
 <span class="lit-note" id="n-en-31">31</span> J. Pachoński, Légions Polonaises – vérité et légende, 1794-1807, vol. I.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-254">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-254">S. 254</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -702,9 +737,11 @@ The main current of the Polish emigration, however, wished for the restoration o
 Among the emigrés there was also a very strong group of Jacobins, eager to introduce all the achievements of the French Revolution. Of course, not everything that was good for France was necessarily good for Poland or Italy. As early as 1797 the Polish Jacobins were conspiring together with the Italian Jacobins against Bonaparte. It was they who in 1798 found themselves in the newly formed Roman republican army. General George Grabowski, made famous by the defence
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-255">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-255">S. 255</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -724,9 +761,11 @@ The Polish Legions, which had from 10,000 to 15,000 soldiers under arms, perfect
 What remains of this period are the rich official archives of the emigrés and the legionaries, and also private archives, for many legionaries married in Italy. It is enough to recall that the son of the commander of the Legions, in time a general himself, Jean Michel Dąbrowski, married a Genoese, Emilia di Negro. The daughter of General Jean Henri Dąbrowski, Karolina, married a Neapolitan who later became famous, General Joseph Prince Palombini. General Joseph Grabiński married Marie Broglie d'Amera and, as a Bolognese landowner, was appointed commander-in-chief of the anti-papal rising of Bologna in 1830. The examples multiply. Some dozens of memoirs that deal with Italian questions in the years 1794 to 1807 have survived. They throw valuable light on this period. During several stays in Italy I have found, in talking with my colleagues, Italian professors, that these papers were unknown to them. I have therefore taken the trouble to make use of everything that might help to throw light on the Polish-Italian relations
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-256">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-256">S. 256</a></h2>
 <div class="lit-orig" lang="fr" markdown="1">
 
@@ -749,6 +788,7 @@ Yet the training of a group of Italian scholars in the Polish language seems to 
 
 I consider conferences of this kind very valuable. They allow us to get to know one another, and they give rise to an exchange of ideas.
 
+</div>
 </div>
 </section>
 {% endraw %}

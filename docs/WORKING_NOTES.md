@@ -2834,6 +2834,14 @@ to be places where nothing forced a look:
   closed file"): when the first wrapper is collected, closing it closes the
   buffer both were built on. Import the pipeline module first and let it
   own the wrapper, or rewrap nothing.
+- **A module-level loop variable answers a comprehension that names it.**
+  `for n, r in stmt.items():` leaves `r` (and `k`, `v`) bound at module
+  scope; a later comprehension that writes `row_vals[r]` without binding `r`
+  silently reads the leftover dict and returns nonsense instead of raising.
+  It bit twice in one session (the hits' row attribution printed every row
+  as "total"; the spatial test's `ok` clause compared against the whole
+  statement). Name loop variables uniquely at module level, and inside a
+  comprehension bind every name the body uses.
 
 ## The holding pages: header, languages, "How it was prepared" (2026-10-30)
 
@@ -2875,6 +2883,80 @@ The editor's ruling of the day, in three parts; the work is in the branch
   newcomer. Reader-facing English says "initials"; the German keeps "Paraphe",
   the term of the German finding aids; `docs/GOVERNMENT_FILES.md` and the
   notes keep "paraph" as the working term.
+
+## OCR of a Fraktur print (2026-11-01)
+
+The Dorow (1843) sitting's lessons, for the next pre-1850 German print:
+
+- **Tesseract needs the Fraktur model.** The `deu` traineddata of
+  `%LOCALAPPDATA%\Tesseract\tessdata` (the newspaper work's install) does not
+  read Fraktur type; it was only ever used on 20th-century Antiqua. The model
+  that reads it is `script/Fraktur` from tessdata_best, now fetched into the
+  same directory beside `deu`, `pol` and `pol-std`, so
+  `pipeline/ocr.py`'s `tessdata()` finds it: `read(img, lang='Fraktur')`.
+- **The Fraktur model's standing noise** (learned over 12 pages of Dorow):
+  the long s comes through as `ſ` (transcribe `s`); the capital `J` of the
+  face is the letter I (transcribe `I`, as the editor's own Materialien file
+  does); the `ch` digraph is often dropped (`niht`, `durh`, `beschützen`);
+  the `tz` ligature is misread as `ß` (`benußt` for benutzt, `Saß` for
+  Satz, `Küß` for Kütz) or as `st` (`Eigennust`); stray marks ride at line
+  ends. Restoring `ch` and `tz` by German orthography is safe; what the
+  passes genuinely disagree on goes to a spot sheet.
+- **A clean reprint of the same text beats a second OCR engine.** The
+  Materialien (1861) reprints Dorow's memoir in extract in the editor's own
+  file; a `difflib` word-diff of the draft against the reprint settled most
+  doubts in a stroke and exposed the 1861 compiler's own additions, slips
+  and normalisations at the same time. Where a session cannot reach a second
+  engine (the lunaroute converter takes only a URL or base64, and the
+  sandbox could reach neither the SBB's IIIF nor a local server), look first
+  for a reprint of the text already in the project.
+- **Image-only PDFs split by page** (`fitz.insert_pdf` one page at a time)
+  are the way to feed a converter later; and a 245 MB digitisation PDF
+  renders its 240 images fine with `get_pixmap(dpi=300)` page by page.
+- **Unnumbered leaves consume printed numbers in some 1843 volumes**: the
+  memoir's title and motto leaves are the volume's pp. 11-12 without printed
+  numbers, the contents list the piece at p. 11, and the text begins at
+  p. 13. Check the neighbour pieces' numbers before assuming an offset.
+- **Page numbers of this print stand at the top of the page**, so a page's
+  own OCR begins with the number - handy for checking an offset, but strip
+  it before transcribing; the signature marks at the page foot ("I 9",
+  "I 10") are furniture, not text.
+
+## The mobile overflow pass (2026-11-01)
+
+The editor reported an overflow on the literature page on mobile; the whole
+site was checked with a headless browser (puppeteer-core + the machine's
+Edge, served locally), first a sample then every page. Lessons for the next
+layout work:
+
+- **A grid item's automatic minimum is its min-content, and an image with
+  `width: 100%` counts its intrinsic width into it.** This is the standard
+  grid blowout: the 400px list thumbs made every card refuse to shrink
+  below ~432px. `min-width: 0` on the item (and the inner column's item)
+  is the fix; the same mechanism bit the map page's sticky stage (whose
+  viewer derives a width from its height through aspect-ratio).
+- **Text overflowing its box does not widen any element**, so a
+  getBoundingClientRect crawl reports nothing while `scrollWidth` grows:
+  long tokens (bare URLs in notes and footnotes, a licence URL in a facts
+  line) overflow as ink. When a page overflows with no offender listed,
+  recurse by hiding blocks until `scrollWidth` drops - the guilty subtree
+  shows itself; then look for the long token.
+- **A `<select>`'s intrinsic width is its widest option's.** Any filter bar
+  that must survive a phone needs `min-width: 0` on the label and the
+  select (the label is a flex column; the select then stretches to the
+  shrunk label).
+- **`white-space: nowrap` on generated links is a trap** whenever the link
+  text is data: a document reference ran 350px, a Minakowska section
+  heading 427px. Let them wrap; nowrap is only safe for text you control.
+- **Wide data tables scroll inside their block**: `display: block;
+  max-width: 100%; overflow-x: auto` on the table itself is the one-rule
+  fix (the literature's and the map pages' tables; the cemeteries' wrap
+  had the room but lacked `overflow-x: auto`).
+- **The crawler** (in the session's temp folder, `mobilecheck/`): list the
+  built pages, `page.setViewport` at 360/390/320, measure
+  `documentElement.scrollWidth > clientWidth` after `domcontentloaded` +
+  250ms, and report the widest elements' rects. It needs the site rebuilt
+  and served (`python -m http.server` over `site/_site`).
 - **Not done, offered:** a read of the other pages for descriptions that exist
   for their own sake (the literature's, newspapers' and places' account /
   brief / summary say the same thing three times; "Scans"-style handling
@@ -2903,6 +2985,66 @@ The editor's ruling of the day, in three parts; the work is in the branch
   holding with a long `card_title` has `short_title` / `short_title_de`
   (`set_short_titles.py` set 24 once). After a build, list every page's
   `<title>`: no slug-like one, none over 70 characters.
+
+
+## The Related column (2026-11-01)
+
+The literature's call-outs were reworked (LITERATURE_PLAN, section 32):
+per-passage notes in `links.yml`'s `about:`, the heading "Related"/"Bezüge",
+a gutter column from 64rem with a toggle in the viewbar. Lessons:
+
+- **A CSS grid on only some siblings shows in the rules.** The first plan
+  put every passage in a two-column grid; the passages without entries
+  would then carry a shorter border-top than the ones with (or every rule
+  would run the page's full width). The built shape: the grid only on
+  `.lit-passage.has-related`, capped at 60rem, other passages unchanged —
+  the rules are ragged between linked and unlinked passages, and that is
+  the honest shape of it; do not "fix" it by widening every rule.
+- **The entry's own measure**: the gutter column's `min-width: 0` is what
+  keeps a long token in a note from blowing the column out (the grid
+  lesson above, again); the notes' links wrap like text (the nowrap lesson
+  of the mobile pass applies to them as to all generated links).
+- **`about:` is validated at build time, both directions**: every passage
+  of a many-passage link needs an entry, no entry may name documents
+  outside the link's own list, and every link document must belong to at
+  least one passage — the last rule is what keeps a link from carrying a
+  document no passage of it can show. A one-passage link must NOT carry
+  `about:` (its sentence is the note) — the build says so if it does.
+- **PowerShell appends CRLF** (`Add-Content` on an LF file put a `
+` at
+  the end); the repo's files are LF (`newline='\n'` everywhere). Appending
+  to a text file here goes through Python, and afterwards check
+  `data.count(b'\r\n') == 0`.
+- **The verify gate's link count fell with the rework** (326 pairs before,
+  302 after): the count is the number of (document, link, passage) pairs
+  actually rendered, and the per-passage document subsets mean fewer pairs,
+  not a weaker check — each rendered pair is still checked on both sides.
+
+## The cross-holding connections (2026-11-01)
+
+Built from the editor's questions: how to find connections across all the
+documents, and the step folded into adding any source (CONNECTIONS.md).
+Lessons:
+
+- **The per-passage lesson generalises**: a connection's note is written
+  for the page it stands on — each participant its own `en`/`de` — the same
+  rule the literature's `about:` entries obey. A shared sentence was the
+  original sin of the old call-outs; do not reintroduce it on the document
+  side.
+- **`lit_doc` in i18n is the reference label both link kinds share**
+  (`"%s, document %s"`): connections_site.py reads it, so the wording of
+  the document references stays in one place. The build reads the *whole*
+  i18n file (it needs both languages), like literature_site.py.
+- **Document pages are single-URL** — the language is swapped in-page
+  (`data-en`/`data-de` spans, letter.js), not by a `/de/` address: a check
+  script that fetches `/de/dokumente/...` gets a 404 that means nothing.
+  The Related entry's links therefore carry `data-en`/`data-de` like the
+  literature's do.
+- **The verify gate's two link blocks sit side by side** (the literature's
+  302 pairs, the connections' 8): both read the generated `_data` file and
+  walk the built pages, so a new kind of cross-reference that wants a
+  both-sides check has its pattern right there — copy the block, not the
+  idea.
 
 ## Non-German text in the line-break resolver (2026-11-01)
 

@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-34">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-34">p. 34</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -28,9 +29,11 @@ By county (Kreis), running north to south, the German authorities established th
 Portrait of Arthur Greiser, Gauleiter and governor of the Reichsgau Wartheland, taken when he was deputy Gauleiter of Danzig under Albert Forster, 1930s. USHMM WS #20379, COURTESY OF NARA
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-35">p. 35</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -47,9 +50,11 @@ From late 1939 through the spring of 1940, Greiser, with the support of Reichsf�
 Information on the precise reasons for setting up specific ghettos is sparse, but beyond the overall intent to concentrate the Jews in preparation for their intended deportation, Alberti has identified several concerns that influenced the authorities. In Piątek, Żychlin, and Pabianice, fears about the spread of disease spurred the German authorities to establish ghettos. In some places, such as the county towns of Turek and Sieradz, the need to house German administrators—or possibly make space for ethnic German settlers—played a role. The ghetto in Koźminek was set up in early 1940, as the authorities in Łódź refused to take the Jews concentrated for deportation from Kreis Kalisch. Subsequently some open ghettos were enclosed, again due to the authorities’ medical concerns, to attempt to suppress black market activities, and for other security-related reasons.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-36">p. 36</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -74,9 +79,11 @@ In an attempt to provide some supposed security from deportation to forced labor
 In spite of the harsh conditions, the Jews in many Wartheland ghettos tried to maintain some cultural life. In Kutno, Jews held meetings to discuss literature, sang songs, and organized
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-37">p. 37</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -97,9 +104,11 @@ Mid-1930s portrait of Herbert Lange, commander of Sonderkommando Lange and first
 Ten Jews are publicly hanged for black marketeering by the German police in the Zduńska Wola ghetto, February 28, 1942. In Reichsgau Wartheland, such mass hangings served as precursors to killing center deportations. USHMM WS #18853, COURTESY OF IPN
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-38">p. 38</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -140,9 +149,11 @@ Hans Biebow, the Nazi administrator of the Łódź ghetto, sits at his desk, n.d
 Night-time view of the members of Reserve Police Battalion 101 guarding the perimeter of the Łódź ghetto, 1940–1941. One image from a photograph album that once belonged to a member of Police Battalion 101. USHMM WS #47443, COURTESY OF MICHAEL O.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-39">p. 39</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -153,9 +164,11 @@ Night-time view of the members of Reserve Police Battalion 101 guarding the peri
 <span class="lit-note" id="n-en-14">14</span> Leib Pudlovsky, “Unter der Nazi Okupatsie,” in *Belkhatov: Yizker-bukh: Gevidmet dem ondenk fun a farshvundn Yidish shtetl in Poyln* (Buenos Aires: Tsentral-Farband fun PoylisheYidn in Argentine tsuzamen mit der Belkhatover Landslayt-Farayn in Argentine, Brazil un Tsofen-Amerike, 1951), pp. 434–445, includes a photograph of one of the hangings. *DDR-Justiz und NS-Verbrechen*, vol. 4 (Amsterdam: Amsterdam University Press, 2004), Lfd. Nr. 1225a, p. 316, implies there was a general order in the Wartheland for a certain number of Jews to be hanged in each community.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-48">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -216,9 +229,11 @@ Jolanta Kraemer
 Ciechocinek is located about 28 kilometers (17.5 miles) north-northwest of Włocławek. In 1921, there were 769 Jews out of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -273,9 +288,11 @@ Around this period (July 17–18, 1940), the Jewish community of nearby Skulsk (
 According to Isaiah Trunk, residents of such hamlet ghettos in the Warthegau were supposed to draw their livelihood from farming. Secondary sources state that the majority of such ghettos were unfenced, unguarded, and only occasionally patrolled by the Germans. They disagree on whether Poles
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-58">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-58">p. 58</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -310,9 +327,11 @@ Jolanta Kraemer
 <span class="lit-note" id="n-en-39">5</span> “We Remember the Extermination Pits!” at www.zchor.org/extermination/pits.htm.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-59">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-59">p. 59</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -353,9 +372,11 @@ The male Jews from Izbica Kujawska and Bugaj sent to Chełmno a few days before 
 **SOURCES** Information on the Izbica Kujawska ghetto and its liquidation is available in the following publications: Shmuel Krakowski, *Das Todeslager Chełmno/Kulmhof: Der Beginn der “Endlösung”* (Göttingen: Wallstein, 2007), pp. 38–39; Łucja Pawlicka-Nowak, ed., *Chełmno Witnesses Speak* (Konin: Council for the Protection of Memory of Combat and Martyrdom in Warsaw and District Museum in Konin, 2004), pp. 101, 120; and Ruta Sakowska, ed., *Die zweite Etappe ist der Tod: NS-Ausrottungspolitik gegen polnischen Juden, gesehen mit den Augen der Opfer. Ein historischer Essay und ausgewählte Dokumente aus dem Ringelblum-Archiv 1941–1943* (Berlin: Hentrich, 1993), pp. 177–178. The ghetto is also mentioned in: Czesław Pilichowski et al., eds., *Obozy hitlerowskie na ziemiach polskich 1939–1945: Informator encyklopedyczny* (Warsaw: PWN, 1979), p. 200, no. 1441; and *BŻIH*, nos. 13–14 (1955): 169. On the operation
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-60">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-60">p. 60</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -402,9 +423,11 @@ On November 20, 1939, several hundred German Gendarmes went into action, clearin
 In mid-February 1940, 1,912 Jews held behind barbed wire at the “Market Hall” were receiving rations from the Jewish
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-61">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-61">p. 61</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -451,9 +474,11 @@ Martin Dean
 <span class="lit-note" id="n-en-66">11</span> Glicksman, “Some Figures,” p. 288; Gross, “The End of the Community,” pp. 268–271; see also Lucjan Dobroszycki, ed., *The Chronicle of the Łódź Ghetto, 1941–1944* (New Haven, CT: Yale University Press, 1984), pp. 220–222, 233–234.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-63">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-63">p. 63</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -508,9 +533,11 @@ After the roundup of between 1,080 and 1,200 Jews on November 30, 1939, the firs
 Wehrmacht troops prepare to shoot a Pole and a Jew on the Wolność Square in Konin. The Polish victim was Aleksander Kurowski and the Jewish victim was Slodki. USHMM WS #50294, COURTESY OF IPN
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-64">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-64">p. 64</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -553,9 +580,11 @@ Jolanta Kraemer
 <span class="lit-note" id="n-en-86">6</span> VHF, # 31143—Obar believes she was deported to Józefów in 1939 or 1940; Julius Ancer, www.chgs.umn.edu/histories/minnesotans/andHolocaust/ancer/index.html. See also Gelbart, *Kehilat Konin*, pp. 529–530, 545–546.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-99">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-99">p. 99</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -618,9 +647,11 @@ Rzgów is located 17 kilometers (10.5 miles) southwest of Konin. In 1921, the Je
 An open ghetto was set up in Rzgów in the summer of 1940, when the remaining Jews of Kreis Konin were deported
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-100">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-100">p. 100</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -657,9 +688,11 @@ Jolanta Kraemer
 Sanniki is located 69 kilometers (43 miles) north-northeast of Łódź. In 1921, the Jewish population was 315, out of a total of 1,447 inhabitants of the village. At the time of the German invasion in September 1939, the Luftwaffe bombed Sanniki, setting many houses on fire. Some local Jews fled towards Warsaw, but other refugees ar-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-120">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-120">p. 120</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -710,9 +743,11 @@ On October 24, 1940, the Jewish Council reported to the AJDC that a soup kitchen
 The German authorities raze the Włocławek ghetto to the ground, following the deportation of its inhabitants, April or May 1942. USHMM WS #61359A, COURTESY OF YIVO
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-121">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-121">p. 121</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -764,6 +799,7 @@ Zduńska Wola is located about 45 kilometers (28 miles) west-southwest of Łód�
 
 In August 1939, immediately before the beginning of World War II, Zduńska Wola had about 27,000 inhabitants, including 13,190 Poles (48.9 percent), 9,330 Jews (34.6 percent), and 4,480 Germans (16.6 percent). The town was captured by
 
+</div>
 </div>
 </section>
 {% endraw %}

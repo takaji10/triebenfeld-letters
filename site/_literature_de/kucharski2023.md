@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-226">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-226">S. 226</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -47,9 +48,11 @@ Robert Kucharski<sup class="lit-fn"><a href="#n-en-1">1</a></sup>
 <span class="lit-note" id="n-en-2">2</span> R. Kucharski, Geneza sądów polskich [The origin of the Polish courts], Warszawa 2022, Collegium Iuridicum 2022, no. 1–2, p. 10.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-227">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-227">S. 227</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -77,9 +80,11 @@ Jak już wspomniano w okresie istnienia Królestwa Polskiego, w czasach wyodręb
 As has already been said, in the age of the Kingdom of Poland, in the times when the noble judiciary was separating out, it rested on customary law. There was no uniform codification of the laws and procedures used by the judicial organs in the process of the administration of justice. This caused an enormous legal chaos and an uncertainty of legal dealings, and the erosion of the courts' authority and, indirectly, of the State's as well. The lack of consistent procedures was not, however, the chief cause of the courts' weakness but the dead execution of their rulings. That weakness was bound up with the nobility's fear that its privileges and liberties would be infringed by a strong central power. Through the whole existence of the First Commonwealth that state of things held, and every attempt to change it was torpedoed, which in the end led to the fall of the State. The same troubles touched the administration and the organs of the state in general, whose practice and activity, minimalist in their form and substance, was tolerated just so long as it did not enter on a collision course with the particular interests of the nobility.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-228">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-228">S. 228</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -111,9 +116,11 @@ Customary law was gradually extended and supplemented by the privileges and the 
 <span class="lit-note" id="n-en-4">4</span> S. Zarański, Pierwiastki dziejów ojczystych w ich organicznym rozwoju [The elements of the country's history in their organic development], Kraków 1886, pp. 169–171.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-229">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-229">S. 229</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -137,9 +144,11 @@ of the legislation in the field of civil, criminal, procedural and in part publi
 Even so, the land law through the whole time of its force remained dismembered and inconsistent, and every attempt at its codification
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-230">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-230">S. 230</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -163,9 +172,11 @@ met with the resistance of the majority of the nobility, convinced of the most p
 <span class="lit-note" id="n-en-7">7</span> Ibidem p. 17.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-231">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-231">S. 231</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -201,9 +212,11 @@ The first kind of courts: the land courts descended from the structures of the s
 <span class="lit-note" id="n-en-10">10</span> S. Kutrzeba, Historia ustroju Polski w zarysie [The history of the constitution of Poland in outline], Warszawa 1949, p. 119 and on.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-232">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-232">S. 232</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -219,9 +232,11 @@ ings, became inconvenient, and so the practice gradually died away of all the no
 Meanwhile the unsettled nobility was subject to the jurisdiction of the second type of court — namely the municipal court. That type of judiciary had different competences, composition and manner of functioning, and its first beginnings are to be sought in the 14th century in Lesser Poland, where it supplemented the land courts functionally. They were held in the castles (in Lesser Poland at Kraków, Biecz and Sącz) and their territorial competence was close to that of the land courts, yet in its subject-matter that type of courts was proper to the civil and criminal matters of the unsettled nobility. With time the criminal jurisdiction of the municipal courts was also extended to the settled nobility, along with the moving away from the armed raid and the nobility's self-help as the chief way of the meting out of justice in the so-called four municipal articles: of arson, of the attack on a noble
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-233">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-233">S. 233</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -245,9 +260,11 @@ The third kind of the courts of first instance were the podkomorski courts, aris
 <span class="lit-note" id="n-en-12">12</span> Volumina legum, vol. 3, pp. 16, 88 and 94. The most important officials of the land were the voivode and the castellan, for by virtue of their office they entered the Senate. The land offices had an honorary character, gave no place in the Senate, and divided into the dignitary ones (Lat. *dignitates*) and *officia*. The dignitaries were: the voivode, the castellan, the podkomorzy and the land judge. The *officia* are the offices: the stolnik, the podstoli, the cześnik, the podczaszego, the łowczy, the miecznik, the chorąży and the wojski. (More on the offices: Z. Góralski, Urzędy i godności w dawnej Polsce [The offices and the dignities in old Poland], Warszawa 1998, pp. 187 to 192.) The instygators, that is the prosecutors, were also central officials not of the Senate.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-234">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-234">S. 234</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -271,9 +288,11 @@ In the 15th century the wiec courts keep on further, one in each voivodeship, wh
 <span class="lit-note" id="n-en-13">13</span> R. Kucharski, Zarys historii Prokuratury w Polsce [An outline of the history of the Prosecution Service in Poland], Prokuratura i Prawo 2021, no. 11, p. 122.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-235">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-235">S. 235</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -297,9 +316,11 @@ peal from it, and so its questioning is not possible, as neither is from the rul
 <span class="lit-note" id="n-en-16">16</span> More on the reprimand of the judge, (in:) J. Rafacz, Nagana sędziego w dawnym procesie polskim [The reprimand of the judge in the old Polish process], Lublin 1921.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-236">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-236">S. 236</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -331,9 +352,11 @@ In the functional sense at the head of the judicial offices always stood the rep
 <span class="lit-note" id="n-en-17">17</span> J. Bardach, B. Leśnodorski, M. Pietrzak, Historia ustroju i prawa polskiego, Warszawa 1998, p. 277.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-237">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-237">S. 237</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -357,9 +380,11 @@ ment of the settledness in the given land was laid. Similar requirements, as tow
 <span class="lit-note" id="n-en-18">18</span> M. Pawlikowski, Sądownictwo ziemskie w przedrozbiorowej Rzeczypospolitej [The land judiciary in the Commonwealth before the Partitions], Strzałków 2012.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-238">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-238">S. 238</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -395,9 +420,11 @@ The whole of the judicial composition was closed by the scribe (of the land cour
 <span class="lit-note" id="n-en-21">21</span> P. Dąbkowski, Zasada jawności w dawnem prawie polskiem [The principle of publicity in the old Polish law], (in:) offprint from Przewodnik historyczno-prawny, vol. V, Lwów 1937, p. 8.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-239">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-239">S. 239</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -429,9 +456,11 @@ The court books were destined for the entries of every kind of judicial ruling o
 <span class="lit-note" id="n-en-23">23</span> Volumina Legum, t. 2 [vol. 2], p. 167.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-240">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-240">S. 240</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -479,9 +508,11 @@ The entries made in the land court books as well as in the municipal ones could 
 <span class="lit-note" id="n-en-25">25</span> P. Dąbkowski, Palestra i księgi sądowe trembowelskie [The bar and the court books of Trembowla], Lwów 1920, p. 51 and on.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-241">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-241">S. 241</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -517,9 +548,11 @@ The technical and the order outfitting of the courts of the time was provided by
 <span class="lit-note" id="n-en-28">28</span> O. Balzer, Kancelarie i akta grodzkie w wieku XVIII, offprint from Przewodnik Naukowy i Literacki, Lwów 1882, p. 48.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-242">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-242">S. 242</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -551,9 +584,11 @@ The defenders in the processes before the land courts were called the advocates,
 <span class="lit-note" id="n-en-29">29</span> More on the origin of the instygator as the protoplast of the prosecutor in: R. Kucharski, Zarys historii Prokuratury w Polsce, Prokuratura i Prawo 2021, no. 11.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-243">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-243">S. 243</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -585,9 +620,11 @@ Let us look then at how the process before a land court of the age of the Noble 
 <span class="lit-note" id="n-en-32">32</span> Polska w okresie monarchii stanowej. Wybór tekstów [Poland in the age of the estate monarchy. A choice of texts], ed. R. Heck, Warszawa 1955, pp. 34–35.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-244">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-244">S. 244</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -611,9 +648,11 @@ The courts gathered in the rooms called the audience chambers, where at the chie
 <span class="lit-note" id="n-en-34">34</span> J. Bardach, B. Leśnodorski, M. Pietrzak, Historia ustroju i prawa polskiego, Warszawa 1998, pp. 170–171.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-245">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-245">S. 245</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -633,9 +672,11 @@ of the Middle Ages knew the ordalias, that is the judgments of God<sup class="li
 <span class="lit-note" id="n-en-36">36</span> M. Borucki, op. cit., pp. 32–33.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-246">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-246">S. 246</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -667,9 +708,11 @@ So Wacław Matuszewicz, after a quarrel, beat and shot with a pistol his adversa
 <span class="lit-note" id="n-en-38">38</span> M. Matuszewicz, Pamiętniki [Memoirs], vol. 1, Warszawa 1876, p. 190.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-247">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-247">S. 247</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -693,9 +736,11 @@ as out of hatred, unintentional or in self-defence. A nobleman who would kill an
 <span class="lit-note" id="n-en-39">39</span> K. Koźmian, Pamiętniki [Memoirs], 1–2, Poznań 1858, p. 186.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-248">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-248">S. 248</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -711,9 +756,11 @@ The only institution appointed and entitled to the execution of the rulings was 
 The court acts of the age deliver numerous examples of the people of noble birth troubling themselves with the common criminal misdeeds. A rather frequent practice was the meting out of the justice on one's own hand, not believing in the effective execution of the rulings fallen, which the condemned held in contempt and ignored. A known Kraków rich merchant, Walerian Montelupi, a descendant of the Italian immigrants, held a landed estate in the village of Piersice near Sandomierz. One day in the year 1609, staying at his manor, he was fallen upon by an armed band under the command of Zygmunt Łaziński. The merchant was taken, beaten, bound and stolen away in a stolen coach to Łaziński's village of Siniawy in the district of Sanok. There the Italian was shut in a dungeon, and to the family there were sent letters written by Montelupi with the demand of a ransom for the freeing of the kidnapped, under the threat of his being tortured
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-249">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-249">S. 249</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -741,9 +788,11 @@ It happened that before the courts for the nobility there stood also offenders o
 <span class="lit-note" id="n-en-41">41</span> Z. Turska, Oskarżeni oskarżają. Wieś osiemnastowieczna w mrokach kronik sądowych [The accused accuse. The village of the 18th century in the glooms of the court chronicles], Warszawa 1960, pp. 138–139.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-250">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-250">S. 250</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -775,9 +824,11 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 <span class="lit-note" id="n-en-45">45</span> J. Bardach, B. Leśnodorski, M. Pietrzak, Historia ustroju i prawa polskiego, Warszawa 1998, p. 315.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-251">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-251">S. 251</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -869,9 +920,11 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 20\. Naworski Z., Prawo karne i proces Polski przedrozbiorowej [The criminal law and the process of Poland before the Partitions], Toruń 1993.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-252">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-252">S. 252</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -947,9 +1000,11 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 *The judiciary of the feudal monarchy naturally changed its character to the state one, which was associated with the emergence of social classes, especially the nobility, which, as a result of the ongoing political processes and social changes, obtained more and more privileges, including*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-253">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-253">S. 253</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -968,6 +1023,7 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 
 *Land court, municipal court, magistrate, justice, nobility, First Republic, law, instigator, judge, scribe, usher, sub-judge, verdict, cochus, yearnings, delation, suit, complaint, appeal, judge's reprimand, castle, starosta, king, monarch, land courts, Four-Year Sejm, reforms, court office, book, court books, nobility, plebeian, crime, punishment, murderer, starosta, common law, parliamentary constitution, protest, reprimand, scrutiny, chamberlain, municipal, executioner, executioner, swords, death penalty, oath, evidence, trial, perpetuity of books, perpetuity of entries, lauda, statutes, real estate, criminal law, criminal law, civil law, court procedure.*
 
+</div>
 </div>
 </section>
 {% endraw %}

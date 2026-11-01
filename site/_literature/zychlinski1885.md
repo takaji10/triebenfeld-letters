@@ -11,7 +11,8 @@ excerpt_separator: ""
 <a href="#p-187">187</a> <a href="#p-188">188</a>
 </nav>
 
-<section class="lit-passage" id="p-187">
+<section class="lit-passage has-related" id="p-187">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-187">p. 187</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -35,14 +36,16 @@ excerpt_separator: ""
 **Krzysztof** Prusimski Ostroróg (11th generation), lord of Kolno, Kamionna and the estate of Trąbczyn in the Kalisz country, had for wife Teresa **Golińska** of the Zabawa II arms (in vol. VI p. 287, where "of the Prawdzic arms" was printed by mistake for Zabawa II, we gave a short account of one branch of this family, whose blood still flows in the female line in several families of Greater Poland.) By her he left four sons and three daughters (Rel. Valc. 1736 f. 468). Of the daughters, Konstancya was married to Jan Wierusz **Kowalski**, heir of the estate of Śmiełów in the Szamotuły district, son of Marcin and of Jadwiga Miaskowska of the Bończa arms; Maryanna, married first to Jan Józef **Tomicki** of the Drya arms, secondly to Kazimierz **Zakrzewski** of the Pomian arms, deputy voivode of Radziejów (Inscr. Gnesn. 1775 f. 33);
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Żychliński (1885) gives the Trąbczyn branch of the Prusimskis: Krzysztof, lord of Kolno, Kamionna and Trąbczyn, and his wife Teresa Golińska; their son Stefan and his wife Wiktorya Malczewska; and Stefan's only son Antoni, Starost of Nieszczewice. The court books agree: the boundary decree entered in 1776 calls the late Krzysztof Prusimski, heir of Trąbczyn, the Starost's grandfather, and Antoni's summons of 1782 names him son of Stefan and Wiktoria Malczewska and grandson of Krzysztof and Teresa Golińska. The summons names Krzysztof's other sons Jan, Bogumił, Antoni and Paweł, where Żychliński has Jan Paweł, Teofil and Antoni (Bogumił is the Polish form of Teofil); a suit of 1728 already names Krzysztof with his son Antoni. The inspection of Trąbczyn of July 1754 was made for Katarzyna born Rozdrażewska, widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn; Żychliński's Paweł Apollo, chamberlain and husband of Katarzyna Rozdrażewska, stands a generation higher, as Krzysztof's brother.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app53170koningr118/23/' | relative_url }}">53/17/0/-/Konin Gr.118, document 23 (21 September 1782)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>Żychliński gives Krzysztof, lord of Kolno, Kamionna and Trąbczyn, with Teresa Golińska. The documents bear him out and put the generations right: the boundary decree entered in 1776 calls the late Krzysztof Prusimski, heir of Trąbczyn, the Starost's grandfather (Konin Gr. 145); a suit of 1728 already names Krzysztof with his son Antoni (APP 53/6/0/-/40); and the inspection of 1754 was made for Katarzyna born Rozdrażewska, widow of Paweł Prusimski, the King's chamberlain — Żychliński's Paweł Apollo and his Katarzyna Rozdrażewska stand a generation higher, as Krzysztof's brother (Konin Gr. 136).</p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app53170koningr118/23/' | relative_url }}">53/17/0/-/Konin Gr.118, document 23 (21 September 1782)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a><a href="{{ '/documents/app53170koningr153/2/' | relative_url }}">53/17/0/-/Konin Gr.153, document 2 (28 November 1782)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-188">
+<section class="lit-passage has-related" id="p-188">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-188">p. 188</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -66,10 +69,11 @@ and lastly Wiktorya, married to Michał **Tworowicz**. Of Krzysztof's sons, **Ja
 **Michalina** Prusimska Ostroróg (14th generation), heiress of Kolno, Kamionna and Trąbczyn, who married first Count Józef **Dąmbski** of Lubraniec, son of the voivode of Brześć Kujawski, son of Stanisław and of Józefa Wessel, daughter of the starosta of Golub; grandson of Antoni Dąmbski, also voivode of Brześć Kujawski, and of Princess Antonina Lubomirska, daughter of the voivode of Sandomierz (see vol. V p. 120); great-grandson, lastly, of Wojciech Dąmbski, court marshal of the Crown, and of Princess Adelajda Cecylia Radziwiłł, daughter of the chancellor in Lithuania (see vol. I pp. 56—59; vol. IV, table II of the Radziwiłłs; vol. V p. 51.) — Michalina married a second time, Count Stanisław **Miączyński**, captain in Napoleon's armies and adjutant of Prince Józef Poniatowski (see vol. I pp. 187--189), heir of the estate of Pawłów in the Poznań country. To him she brought as her dowry the Trąbczyn estate, which her grandson, Count Władysław Miączyński, holds today.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Żychliński (1885) gives the Trąbczyn branch of the Prusimskis: Krzysztof, lord of Kolno, Kamionna and Trąbczyn, and his wife Teresa Golińska; their son Stefan and his wife Wiktorya Malczewska; and Stefan's only son Antoni, Starost of Nieszczewice. The court books agree: the boundary decree entered in 1776 calls the late Krzysztof Prusimski, heir of Trąbczyn, the Starost's grandfather, and Antoni's summons of 1782 names him son of Stefan and Wiktoria Malczewska and grandson of Krzysztof and Teresa Golińska. The summons names Krzysztof's other sons Jan, Bogumił, Antoni and Paweł, where Żychliński has Jan Paweł, Teofil and Antoni (Bogumił is the Polish form of Teofil); a suit of 1728 already names Krzysztof with his son Antoni. The inspection of Trąbczyn of July 1754 was made for Katarzyna born Rozdrażewska, widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn; Żychliński's Paweł Apollo, chamberlain and husband of Katarzyna Rozdrażewska, stands a generation higher, as Krzysztof's brother.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app53170koningr118/23/' | relative_url }}">53/17/0/-/Konin Gr.118, document 23 (21 September 1782)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>Żychliński carries the branch through Stefan and Wiktoria Malczewska to Antoni, Starost of Nieszczewice, and his daughter Michalina, whose marriages brought Trąbczyn to the Miączyńskis. The relatio of September 1782 (Konin Gr. 118) names Antoni son of Stefan and Wiktoria Malczewska, sole heir after the childless deaths of his brothers Jan Bogumił, Antoni and Paweł — where Żychliński has Jan Paweł, Teofil and Antoni, Bogumił being the Polish form of Teofil — and styles him, as the delivery of November 1782 does (Konin Gr. 153), Captain of Nieszczewice and Knight of the Order of St Stanislaus. The summons of 1860 (APP 53/968/0/-/783) is issued at the demand of Count Włodzimierz Miączyński as heir of the Trąbczyn estates, where Żychliński writes that her grandson Władysław holds the estate.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app53170koningr118/23/' | relative_url }}">53/17/0/-/Konin Gr.118, document 23 (21 September 1782)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a><a href="{{ '/documents/app53170koningr153/2/' | relative_url }}">53/17/0/-/Konin Gr.153, document 2 (28 November 1782)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
 </aside>{% raw %}
 </section>
 {% endraw %}

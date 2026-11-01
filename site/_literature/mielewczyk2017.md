@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-41">p. 41</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -63,9 +64,11 @@ With regard to the rural areas, the 19th century and the first half of the 20th 
 As a result of the enfranchisement and regulation reforms carried out in the years 1823–1865 land was given in all to 88,918 peasant holdings
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-42">p. 42</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -113,9 +116,11 @@ In the second half of the 19th century drainage works intensified. To their inte
 <span class="lit-note" id="n-en-6">6</span> A characterisation of this collection of maps is given inter alia by: W. Mielewczyk, Wykorzystanie map do badania zmian przestrzeni społeczno-ekonomicznej wsi na przykładzie zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie [The use of maps in the study of the changes of the socio-economic space of the village on the example of the collections of the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa], in: Dawne mapy jako źródła historyczne [Old maps as historical sources], "Biblioteka Polskiego Przeglądu Kartograficznego" [The Library of the Polish Cartographic Review], vol. 3, Warszawa 2012, pp. 104–112, and idem, Mapy wsi dawnego powiatu pyzdrskiego w zbiorach Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie [Maps of the villages of the former Pyzdry district in the collections of the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa], in: Terra Pisdrensis dawniej i dziś [Terra Pisdrensis then and now], vol. 1, Poznań–Pyzdry 2014, pp. 22–29.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -135,9 +140,11 @@ of which as many as 156 were companies of peasants only<sup class="lit-fn"><a hr
 <span class="lit-note" id="n-en-7">7</span> J. Rutkowski, Historia gospodarcza Polski, t. 2: Czasy porozbiorowe do 1918 roku [The economic history of Poland, vol. 2: The times of the partitions to the year 1918], Poznań 1950, pp. 283–284.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -157,9 +164,11 @@ the roads, the balks or at the boundaries of the fields. Plans of the drainages 
 *Fig. 3. A fragment of the map of the fields of the grange of Stefanowo of 1879 at the scale of 1:2500, with a drawing of the melioration ditches led through the fields and along the roads. Reduced. Shelfmark AN 3824*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-45">p. 45</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -187,9 +196,11 @@ In the face of the great fragmentation of the fields belonging to the individual
 <span class="lit-note" id="n-en-8">8</span> Examples of maps showing the fields of enfranchised peasants were presented in: W. Mielewczyk, Wykorzystanie map do badania zmian przestrzeni społeczno-ekonomicznej wsi… [The use of maps in the study of the changes of the socio-economic space of the village…], pp. 109–110.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-46">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-46">p. 46</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -217,9 +228,11 @@ On the parcelled lands new settlements came into being, settled by colonists arr
 <span class="lit-note" id="n-en-9">9</span> Z. Ludkiewicz, Podręcznik polityki agrarnej [A textbook of agrarian policy], vol. 1, Warszawa 1932, pp. 67–68 and 117–118.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-47">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-47">p. 47</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -239,9 +252,11 @@ villages of Galicia. In the new settlements the buildings were put up in rows al
 *Fig. 7. A fragment of the map of the village of Skarżyn of 1859 at the scale of 1:5000 with the fields of the Kolonia Brzozowiec drawn out. Reduced. Shelfmark AN 4438*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-48">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -261,9 +276,11 @@ The newly founded villages often had the word Kolonia [colony] in their names, e
 *Fig. 8. A fragment of the map of the estates of Grabienice of 1873 at the scale of 1:20 000 with the areas taken by the newly created colonies. Reduced. Shelfmark AN 489/17*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-49">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-49">p. 49</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -287,9 +304,11 @@ In the 19th century still one of the ways of enlarging the area of arable land w
 <span class="lit-note" id="n-en-10">10</span> See more widely: W. Mielewczyk, ibidem, p. 110.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-50">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-50">p. 50</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -305,9 +324,11 @@ Ryc. 11. Fragment mapy dóbr Mikulice z 1852 r. w skali 1:5000 (?) z zaznaczonym
 *Fig. 11. A fragment of the map of the estates of Mikulice of 1852 at the scale of 1:5000 (?) with the place of the cut-down forest marked. Reduced. Shelfmark AN 4443*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-51">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-51">p. 51</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -339,9 +360,11 @@ In the years of the Second Republic 2,654 thousand ha of land were parcelled in 
 <span class="lit-note" id="n-en-11">11</span> W. Roszkowski, Rolnictwo i leśnictwo [Agriculture and forestry], in: Problemy gospodarcze Drugiej Rzeczypospolitej [The economic problems of the Second Republic], collective work, Warszawa 1989, p. 143.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-52">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-52">p. 52</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -393,9 +416,11 @@ Of the about 12 million ha of lands requiring consolidation in the interwar peri
 <span class="lit-note" id="n-en-18">18</span> Przemówienie pana Ministra Rolnictwa i Reform Rolnych Juliusza Poniatowskiego na komisji budżetowej Sejmu [The speech of the Minister of Agriculture and Land Reforms Juliusz Poniatowski to the Sejm's budget commission], delivered 20 January 1938, "Polska Gospodarcza" [Polish Economy] year 19, 1938, no. 5, p. 180.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-53">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-53">p. 53</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -411,9 +436,11 @@ Ryc. 14. Fragment mapy wsi Lisewo z 1931 r. w skali 1:5000 z areałami skomasowa
 *Fig. 14. A fragment of the map of the village of Lisewo of 1931 at the scale of 1:5000 with the consolidated areas. Reduced. Shelfmark AN 1348*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -445,9 +472,11 @@ A map, as a picture of the surface of the Earth, presents chosen objects and phe
 <span class="lit-note" id="n-en-19">19</span> W. Michalski, Wykonanie reformy rolnej [The carrying-out of the land reform], in: Pięć lat na froncie gospodarczym 1926–1931 [Five years on the economic front 1926–1931], vol. 1, Warszawa 1931, p. 90.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -531,9 +560,11 @@ Ustawa z dnia 31 lipca 1923 r. o scaleniu gruntów [The act of 31 July 1923 on t
 *Regierungsbezirk Posen. Kreis Obornik. Gemarkung Przeclaw (Prinzenau) Nr 144. Gemarkungskarte in 1 Blatt als Copie der Karte der alten Landschaft 1840 Strasburg gefertigt im Oktober 1861 durch den Vermessungs-Revisor Heinamann. Rektificirt im April 1862 durch den Geometer Heidenwich. Copirt im Monat Mai 1894 durch Tuck. Wiederkopirt im Monat April 1895 durch Boetzel* [Government district of Posen. Kreis Obornik. The cadastral district of Przecław (Prinzenau) no. 144. The cadastral map in one sheet as a copy of the map of the old survey of 1840, made by Strasburg in October 1861 by the survey reviser Heinamann. Rectified in April 1862 by the surveyor Heidenwich. Copied in the month of May 1894 by Tuck. Copied again in the month of April 1895 by Boetzel]. A copy of the map of 1840 prepared by Strasburg, 1:5000, 68 × 102 cm, manuscript, shelfmark AN 681/1.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-56">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-56">p. 56</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -585,9 +616,11 @@ Ustawa z dnia 31 lipca 1923 r. o scaleniu gruntów [The act of 31 July 1923 on t
 *Plan gruntów wsi Błonawy w gminie Sompolno, powiecie Kolskim, województwie Łódzkim położonej scalonych na mocy orzeczenia Okręgowej Komisji Ziemskiej w Piotrkowie z dnia 15–XII–1930 r. Pomiaru na gruncie dokonał w roku 1930 i plan niniejszy sporządził według południka magnetycznego w roku 1931 mierniczy przysięgły Stanisław Skarbek* [A plan of the lands of the village of Błonawy lying in the commune of Sompolno, in the Koło district, of the Łódź Voivodeship, consolidated by force of the ruling of the District Land Commission in Piotrków of 15 December 1930. The survey on the ground was carried out in the year 1930 and this plan was made to the magnetic meridian in the year 1931 by the sworn surveyor Stanisław Skarbek], 1:4000, manuscript, shelfmark AN 934.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -630,6 +663,7 @@ The presented maps make up to valuable historical source to research changes in 
 
 **Keywords:** large-scale maps, village, village space, land reform, historical source
 
+</div>
 </div>
 </section>
 {% endraw %}

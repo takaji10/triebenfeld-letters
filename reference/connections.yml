@@ -1,0 +1,146 @@
+# Connections between documents of DIFFERENT holdings, tied by hand
+# (docs/CONNECTIONS.md). Within one holding, document-to-document relations
+# belong in the holding's rulings.yml (`relations:`), where they have lived
+# since 2026-10-03; this file is for the chains that run across the archives.
+#
+# Read by pipeline/build/connections_site.py, which checks every connection
+# and writes site/_data/connections.yml, from which a document's page shows
+# its own entry in the "About this document" box: the document's own note and
+# links to the other documents of the connection. pipeline/verify_site.py
+# checks both sides of every connection.
+#
+# Each connection:
+#   id         a short name, never shown
+#   documents  the participants, at least two, each with its own note:
+#     uid      the document, as in dataset/letters.json
+#     en, de   the note THIS document's page shows: what this document says
+#              that the others bear on. Say who says what — "the dossier
+#              proposes", "the letter reports" — never "it was". Every
+#              figure in it was read in both documents (the rule of
+#              literature/links.yml). Where the connection rests on
+#              Claude's identification, docs/NEEDS_CONFIRMATION.md lists it
+#              until the editor has ruled.
+#
+# The four connections of the first sweep (2026-11-01, the chains pass;
+# docs/CONNECTIONS.md, "The method"): the donation dossier against the
+# letter that reports its gift's yields, the lost privilege of 1746 and its
+# two witnesses, the two registers that count the same villages eight years
+# apart, and the Commission's resolution kept by two offices. Each rests on
+# links the editor has already ruled (the register cluster, Chodyła's six,
+# Rostworowski's three) read document against document; flagged in
+# docs/NEEDS_CONFIRMATION.md until the editor has read them on the site.
+
+- id: donation-dossier-yields
+  documents:
+    - uid: ihagrrep7cnr3570-1
+      en: >-
+        The dossier carries the grant itself: Hoym's proposal of 14 July 1796
+        puts before the King the estates confiscated from Prusimski — Kamiono
+        and Kulm, the Konin villages (Trąbczyn, Szetlewek, Nowa Wieś, Łazy,
+        Osiny, the Laski and the Hauland of Trąbczyn among them) and Brzyce in
+        Cujavia — at a value of 120,000 rt and an expected yield of 4 to
+        6,000 rt, and the deed of 9 August 1796 grants them.
+      de: >-
+        Die Akte trägt die Zuweisung selbst: Hoyms Vorschlag vom 14. Juli 1796
+        legt dem König die von Prusimski konfiszierten Güter vor — Kamiono und
+        Kulm, die Koniner Dörfer (Trąbczyn, Szetlewek, Nowa Wieś, Łazy, Osiny,
+        die Laski und der Hauland von Trąbczyn unter ihnen) und Brzyce in
+        Kujawien — auf einen Wert von 120.000 rt und einen erwarteten Ertrag
+        von 4 bis 6.000 rt, und die Urkunde vom 9. August 1796 weist sie zu.
+    - uid: oe1bu9454-103
+      en: >-
+        The letter reports, three years on, what the same gift brought: by
+        March 1799 Kamiono and Kulm yield 6,000 rt, Trąbczyn 8,400, Szetlewek
+        1,600 and Brzyce 4,000 — 20,000 together, where the dossier's proposal
+        of 1796 had expected 4 to 6,000 from the whole.
+      de: >-
+        Der Brief meldet, drei Jahre später, was dieselbe Schenkung brachte:
+        Im März 1799 tragen Kamiono und Kulm 6.000 rt, Trąbczyn 8.400,
+        Szetlewek 1.600 und Brzyce 4.000 — zusammen 20.000, wo der Vorschlag
+        der Akte von 1796 von dem Ganzen 4 bis 6.000 erwartet hatte.
+
+- id: privilege-1746-chain
+  documents:
+    - uid: app53170koningr145-1
+      en: >-
+        The boundary decree attests the Hollanders' settlement on the Trąbczyn
+        woods "as the rights granted them in 1746 attest". The privilege
+        itself does not survive; with the inspection of 1754 this decree is
+        the earliest witness of it in the edition.
+      de: >-
+        Das Grenzdekret bezeugt die Ansiedlung der Holländer auf den
+        Trąbczyner Wäldern „wie die ihnen 1746 verliehenen Rechte bezeugen".
+        Das Privileg selbst ist nicht erhalten; mit der Besichtigung von 1754
+        ist dieses Dekret der früheste Zeuge davon in der Edition.
+    - uid: app539680783-1
+      en: >-
+        The summons names who granted that privilege: "Paweł z Kolna
+        Prusiński" and his wife Katarzyna z Rozdrażewskich. It pleads the
+        later contract of 18 May 1805, made between Prince Hohenlohe and
+        fourteen colonists of the gmina of Trąbczyn before his patrimonial
+        court at Zagórów, whose grazing and gathering rights in the Studzianka
+        woods the suit defends.
+      de: >-
+        Die Vorladung nennt, wer jenes Privileg verlieh: „Paweł z Kolna
+        Prusiński" und seine Frau Katarzyna z Rozdrażewskich. Sie beruft sich
+        auf den späteren Vertrag vom 18. Mai 1805, geschlossen zwischen dem
+        Fürsten Hohenlohe und vierzehn Kolonisten der Gmina Trąbczyn vor
+        seinem Patrimonialgericht zu Zagórów, dessen Weide- und Sammelrechte
+        in den Studziankaer Wäldern der Prozess verteidigt.
+
+- id: two-counts-trabczyn
+  documents:
+    - uid: app53640kalisztab21-1
+      en: >-
+        The hearth-tax register of the Kalisz voivodeship, the Midsummer
+        instalment of 1789, counts the estate's villages in money: Trąpczyn
+        80 zł, Łazy 12 zł 15 gr, Nowa Wieś 12 zł 15 gr, the Olędry
+        Trąbczyńskie 35 zł and the Olędry Lusnie 35 zł.
+      de: >-
+        Das Register der Herdsteuer der Woiwodschaft Kalisch, die Johannisrate
+        von 1789, zählt die Dörfer des Gutes in Geld: Trąpczyn 80 zł, Łazy
+        12 zł 15 gr, Nowa Wieś 12 zł 15 gr, die Olędry Trąbczyńskie 35 zł und
+        die Olędry Lusnie 35 zł.
+    - uid: agad1169011745-1
+      en: >-
+        The General Directory's house-and-population register (the pages carry
+        no date; the archive dates the volume 1797) counts the same villages
+        in houses and people: "Haul. Lazy." 5 houses and 42 people, the
+        Hauland of Trąpczyn 34 houses and 271 people, Stara Huta of Trąpczyn
+        2 houses. The two registers, eight years apart, count the same ground
+        twice — hearth money in 1789, houses and people in 1797.
+      de: >-
+        Das Häuser- und Einwohnerregister des Generaldirektoriums (die Seiten
+        tragen kein Datum; das Archiv datiert den Band auf 1797) zählt
+        dieselben Dörfer in Häusern und Menschen: „Haul. Lazy." 5 Häuser und
+        42 Menschen, die Hauländerei von Trąpczyn 34 Häuser und 271 Menschen,
+        Stara Huta von Trąpczyn 2 Häuser. Die beiden Register, acht Jahre
+        auseinander, zählen denselben Grund zweimal — Herdgeld 1789, Häuser
+        und Menschen 1797.
+
+- id: dabska-resolution-two-offices
+  documents:
+    - uid: agad11740273-1
+      en: >-
+        The draft of the Commission's resolution of 21 July 1807, drawn up at
+        Dresden, extends the Emperor's decree given at Finckenstein for
+        Wybicki to the cases of Michalina Dąbska, General Niemojewski and
+        Wichrowski, so that the estates confiscated by the former Prussian
+        government return to their rightful owners.
+      de: >-
+        Der Entwurf der Resolution der Kommission vom 21. Juli 1807, in
+        Dresden gefertigt, erstreckt das dem Wybicki in Finckenstein gegebenen
+        kaiserliche Dekret auf die Fälle von Michalina Dąbska, General
+        Niemojewski und Wichrowski, damit die vom früheren preußischen Staat
+        konfiszierten Güter an ihre wahren Eigentümer zurückkehren.
+    - uid: agad1174016-2
+      en: >-
+        The register's protocol of the same day carries the same resolution,
+        signed by Małachowski as President and Łuszczewski as General
+        Secretary — the same decision as the file's draft, kept by two offices
+        of the Commission.
+      de: >-
+        Das Protokoll des Registers desselben Tages trägt dieselbe Resolution,
+        unterschrieben von Małachowski als Präsidenten und Łuszczewski als
+        Generalsekretär — derselbe Beschluss wie der Entwurf der Akte, von
+        zwei Stellen der Kommission verwahrt.

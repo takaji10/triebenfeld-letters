@@ -356,9 +356,11 @@ en:
   lit_missing: "This page is not marked in the %s: its text stands under the page before."
   lit_mentions: "In the literature: %d passages"
   lit_mentions_one: "In the literature: one passage"
-  lit_in_edition: In the documents
+  lit_related: Related
   lit_in_literature: In the literature
   lit_doc: "%s, document %s"
+  doc_related: Related
+  lit_related_toggle: Show or hide the Related column
   lit_sub_head: Attached to the work above
   lit_parent: Attached to
   np_h1: Newspapers
@@ -749,9 +751,11 @@ de:
   lit_missing: "Diese Seite ist im %s nicht bezeichnet: Ihr Text steht unter der vorigen Seite."
   lit_mentions: "In der Literatur: %d Stellen"
   lit_mentions_one: "In der Literatur: eine Stelle"
-  lit_in_edition: In den Dokumenten
+  lit_related: Bezüge
   lit_in_literature: In der Literatur
   lit_doc: "%s, Dokument %s"
+  doc_related: Bezüge
+  lit_related_toggle: Die Bezüge zeigen oder ausblenden
   lit_sub_head: Zum obigen Werk gehörig
   lit_parent: Gehört zu
   np_h1: Zeitungen

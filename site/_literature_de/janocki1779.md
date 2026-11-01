@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-159">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-159">S. 159</a></h2>
 <div class="lit-orig" lang="la" markdown="1">
 
@@ -43,9 +44,11 @@ The Cracow edition of the year 1701 the learned men of Leipzig reviewed, with de
 II.) THE BOUNDARY PROCESS OF THE LAW OF THE KINGDOM OF POLAND. By Stanisław Lochowski, notary of the castle of Opoczno. Cracow, in the printing shop of Franciscus Caesarius. In the year of the Lord 1641. Quarto.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-160">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-160">S. 160</a></h2>
 <div class="lit-orig" lang="la" markdown="1">
 
@@ -82,6 +85,7 @@ IV.) THE FORM, FORCE AND EFFECT OF THE GENERAL ASSEMBLIES OF THE KINGDOM OF POLA
 
 A most rare little book. The letter prefixed to it, to CHRISTOPHORUS SULOWSKI, Palatine of Rawa: the author himself, STANISLAUS LOCHOWSKI, notary of the castle of Opoczno, subscribed it at Miedzyborze on the eleventh day of the month of January, 1644.
 
+</div>
 </div>
 </section>
 {% endraw %}

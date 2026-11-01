@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-1-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-front">Part 1, before the first page</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -91,9 +92,11 @@ bey Peter Hammer.
 | Is it true that in the country where agricultural industry is pursued above all, every kind of tax falls upon the landowners? | 25 |
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-IV">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-IV">Part 1, p. IV</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -111,9 +114,11 @@ bey Peter Hammer.
 | History of the Attack, Blockade, and Surrender of Glogau, by Carl Friedrich Benkowitz | 89 |
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-1">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-1">Part 1, p. 1</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -141,9 +146,11 @@ Yes, dear friend, our peaceful valleys, where twenty years ago we strolled so qu
 All the places so well known to you: Ziegenhayn, Lichtenhayn, Zwetzen, Dorndorf, Appolde, Rötschau,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-2">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-2">Part 1, p. 2</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -171,9 +178,11 @@ Never was an army more splendid. It seemed as though the Prussian state had gath
 I am convinced that, had but one of the younger Prussian officers held command — one who had grasped the new form and the spirit of the age, and who had understood Napoleon in some measure — that man with this
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-3">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-3">Part 1, p. 3</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -189,9 +198,11 @@ army would have worked wonders, would perhaps have been beaten, but would never 
 The most ignorant layman in strategy, who knew that the French army from 5 October onward hurled itself unceasingly in long columns out of Franconia along the right bank of the Saale toward Saxony, its eye always fixed upon the Elbe, could not but smile with pity at the Prussian army, which remained quietly in cantonment, paralyzed in a confused heap on the left bank of the Saale, and which seemed to have laid down its basis of subsistence, its magazines, on the right bank of the Saale at Naumburg, Merseburg, and Halle, precisely so that the enemy might find provisions on his march to the Elbe. Already Tauentzien's corps had been beaten, the second, that of Prince Louis, annihilated, without the formidable Prussian army either
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-4">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-4">Part 1, p. 4</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -211,9 +222,11 @@ The Duke of Brunswick let nothing free him from the delusion: that Napoleon woul
 This idea had been instilled in him by the ministers Count Haugwitz and Lucchesini, who attended the permanent grand council of war, which from the beginning of October until the day when the army was beaten and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-5">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-5">Part 1, p. 5</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -249,9 +262,11 @@ On the night of the 13th we noticed at Jena the diligence of the French in climb
 —assuming that everything here was occupied by the Prussians and bristling with cannon.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-6">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-6">Part 1, p. 6</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -287,9 +302,11 @@ Rüchel's Corps came to his aid from Weimar at the double. Hohenlohe demanded th
 After some fortunate success the general fell, and now everyone who could run, ran; the cavalry above all was the swiftest in flight, and it seemed exactly as though the King had had them mounted for the sole purpose of getting away all the more quickly and throwing everything into disorder; for this was entirely the case.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-7">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-7">Part 1, p. 7</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -309,9 +326,11 @@ It would have been possible (though improbable) that Rüchel might have hurled t
 v. \*\*n.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-8">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-8">Part 1, p. 8</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -331,9 +350,11 @@ The thunder of the cannon had died away; the battle was decided in favour of the
 That in every man the fear of death is present — in one more than in another, to be sure, but always in a certain degree. If one asks what it is that drives a man to go forth to meet death and to hold firm in danger, one may answer with certainty: that this is no impulse of the heart, but a sense of duty and honour compelled by the understanding. But a man wins within himself the victory of reason over feeling more easily when a greater measure of hope is in him: that the danger of death is not so great for him, that he is more likely to remain alive than to fall. Hence we see those troops who have conquered repeatedly, one victory after another, go more boldly into battle than those who have always been beaten. We see men grow accustomed to the danger of death,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-9">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-9">Part 1, p. 9</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -353,9 +374,11 @@ When, amid these reflections, I surveyed the French and Prussian armies against 
 There stood on the one side a single commander who alone directed and moved the hundreds of thousands, in the full ripeness of manhood. For ten years he had fought almost without interruption with the troops of all civilized nations; all their peculiarities, their various ways of waging war, had become known to him. As a skilled theorist he took up the baton of command; a ten-years' practice completed the commander. He was able to impart to the army what he had learned to value in the art through experience of his enemies and what his own troops lacked. He knew exactly the character of his soldiers, and what made them serviceable for his purposes. Victory was ever his faithful companion. Thirty battles won make one indifferent
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-10">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-10">Part 1, p. 10</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -379,9 +402,11 @@ On the other side stood the Prussians, in whom only the afterglow of an old form
 The troops themselves, for the most part never having taken part in a battle, therefore had neither self-confidence nor faith in their leader, whom they little knew and whose mediocrity they quite properly noticed,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-11">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-11">Part 1, p. 11</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -401,9 +426,11 @@ That which had hitherto held the Prussian army together in particular — the mi
 In the train of these reflections the victory over the Prussians was, as already said, no longer in doubt to me. But once they had lost this first great battle, I could just as easily explain to myself the complete slackening of all Prussian valour, in general and common soldier alike, and it was nothing at all surprising that they now renewed the flight-scenes of Rossbach which they had so often cast in the teeth of the French. But it was remarkable to me: that in the Prussians here
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-12">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-12">Part 1, p. 12</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -443,9 +470,11 @@ The Duchess answers:
 "Your Majesty knows: my husband was a Prussian general during peacetime; was he to abandon his
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-13">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-13">Part 1, p. 13</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -473,9 +502,11 @@ v. \*\*n.
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-14">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-14">Part 1, p. 14</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -499,9 +530,11 @@ Whether or not this disparagement of an entire estate rests on solid grounds, it
 Under George William, during the Thirty Years' War, the state maintained some 4,000 soldiers. Their deeds are well known; men esteemed them then exactly as they esteemed the Imperial troops in the Seven Years' War. The Great Elector infused his fiery, great spirit into this body, and the military, animated by it, now fought (the very same Brandenburg army of which men
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-15">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-15">Part 1, p. 15</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -529,9 +562,11 @@ How little the military counted in those days is proved by the frequent tables o
 As is well known, Frederick William I.'s character was wholly the opposite of his father's; it was therefore not surprising that he adopted a different system. Frugality took the place of extravagance, brilliant court festivities had to give way to the Tobacco College,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-16">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-16">Part 1, p. 16</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -551,9 +586,11 @@ With the greatest pretensions did this machine, formed in that period to the hig
 For him it existed not merely in its form; he knew, better than any of his predecessors, how to employ it to its purpose. What new creation appeared in the army through his spirit, what was accomplished by it, in what perfection he handed it over to his successor — this I need not repeat, we have all seen it: that since the Seven Years' War the sense of its worth animated the army, that the officer estate thought itself far exalted above all estates; that Frederick did not weaken this idea, in order to preserve the attraction of the military, so that the wealthiest nobleman,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-17">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-17">Part 1, p. 17</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -577,9 +614,11 @@ For the military was, quite properly, the mainstay of the state for Prussia. Onl
 That these advantages granted to the military weighed upon the middle estate, that the latter felt itself aggrieved thereby, that the civil sphere in particular took it ill to have
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-18">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-18">Part 1, p. 18</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -603,9 +642,11 @@ There, you see, braggarts! went the general cry, that the burgher whom you honou
 The war on the Rhine still upheld the reputation of the military to some degree; but when isolated engagements in Poland spoke so little to the honour of the Prussian army, and when the siege of Warsaw had to be raised so painfully, the hitherto prevailing respect for this estate sank. The more the standing now fell in public opinion—the standing that the officer estate had maintained for 50 years; as the making of debts spread among them; as they frequently began to grow familiar through intermarriage with the burgher estate;
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-19">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-19">Part 1, p. 19</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -633,9 +674,11 @@ Now that the so long dreaded military lies annihilated, should one be surprised 
 This is not noble, but it is entirely commonplace!
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-20">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-20">Part 1, p. 20</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -663,9 +706,11 @@ But what will fill the gap in future? What tendency will the Prussian state have
 v. \*\*n.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-21">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-21">Part 1, p. 21</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -689,9 +734,11 @@ Frederick II., who not only completed the Prussian state-machine founded by the 
 Frederick knew all too well the principle of the Russian cabinet — to expand toward the south — which was laid down by Peter I., adopted by all his successors, and in part carried out by the Empress Catherine.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-22">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-22">Part 1, p. 22</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -715,9 +762,11 @@ Poland was thereby transformed into a colony for the adjacent Prussian states, a
 Frederick, who founded his political economy not on physiocratic but on Colbertist principles, and established both military and country grain-magazines, by which he directed prices and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-23">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-23">Part 1, p. 23</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -745,9 +794,11 @@ For this reason Frederick would never have consented to the complete partition o
 What has he gained by it? A land parceled by noblemen into little fragments, in which the people vegetate as a living instrument of tillage, fed like the ox at the manger, and driven to labour with the knout! A land in which every industrious art and every impulse toward development has been scared off.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-24">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-24">Part 1, p. 24</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -789,9 +840,11 @@ Poland is therefore the grave of Prussia, and to render this still more palpable
 Since this period the revenues may have risen by enough that the deficit is covered.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-25">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-25">Part 1, p. 25</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -815,9 +868,11 @@ Everything that the earth brings forth, and upon which man has not yet expended 
 Labour produces all that which has a value among men, and is consequently capable of bearing a tax. Among cultivated nations the earth no longer yields any spontaneous products; labour covers the entire surface of the earth with products, as does the snow in a rugged region.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-26">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-26">Part 1, p. 26</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -837,9 +892,11 @@ The labourer makes use of the earth in order to transform the first nutritive co
 As a further example I imagine to myself a coach drawn by horses, a vessel carried along by the current of a river, and a ship running under full sail. These too are sources of income, which owe the effect they produce solely to the labour of men, although the physical effect of the transport was occasioned merely by the horses, the course merely by the river, and the motion by the wind; for if one imagines away, for example, the labour which was gradually expended upon the ship in order to make of it a great transport vessel, and all the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-27">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-27">Part 1, p. 27</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -867,9 +924,11 @@ The earth, in the state of cultivation, brings forth all products; yet these, ev
 For the rest, one may regard the origin of the earthly products as one will: the earth is, according to the present
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-28">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-28">Part 1, p. 28</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -897,9 +956,11 @@ The head of state demanded; the Estates granted at the cost of a third party; he
 The greatest expenditure which the state had to make after the introduction of standing armies was necessary for war. The vassals, who formerly performed the military services personally with their subject-tenants, provided
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-29">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-29">Part 1, p. 29</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -919,9 +980,11 @@ Where recently provinces were acquired by conquest, taxes were laid upon the nob
 Wherever land taxes were introduced, the attempt was made everywhere to determine the net yield, of which the state demanded shares. Now, since it is in general very difficult to determine the net yield of a piece of land, this was likewise always the case in this assessment, inasmuch as one took the quality of the soil and ground as the measure. But it is not the soil and ground that gives the yield in greater or lesser degree; rather, even though its quantity has an effect thereon, there are nonetheless two things in particular upon which it depends (be the soil rich or poor): upon the cultivation and upon local circumstances. If the soil has a lazy, unintelligent
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-30">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-30">Part 1, p. 30</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -949,9 +1012,11 @@ But since the mode of taxation hitherto has governed itself solely by the produc
 One ought to have observed precisely the reverse relation, and to have taxed the free great landholder more heavily than the small, constrained one, since the former enjoyed a thousand advantages that the latter has not. The former can await an advantageous demand, whereas the latter is compelled to thresh today and cart his grain to market
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-31">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-31">Part 1, p. 31</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -975,9 +1040,11 @@ At the origin of the feudal system it was equitable that the noble knight, who c
 Hence it has come about that, since the state has an endless quantity of requirements in kind for the army, these have been levied from the landowners according to the false measure
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-32">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-32">Part 1, p. 32</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1005,9 +1072,11 @@ One could therefore fix anew the determined, cadastred yield of each province, a
 If Silesia, for example, pays 1,704,932 thalers in land tax, and if in 1743 the rye-price had been assumed at 1 thaler per Breslau bushel, then the King could now demand 1,704,932 bushels of rye, and by this measure have delivered to him a quantum of rye, oats, hay, and straw. He would thereby be in a position to provision the army, to fill the land and war magazines, and to abolish the now so unequally oppressive
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-33">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-33">Part 1, p. 33</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1023,9 +1092,11 @@ burden of deliveries in kind, of the provision of relay-teams, and the like. He 
 Were it to be said that the noble estates would be drawn upon too heavily, and that only the present owner would thereby lose, and the credit systems be thrown into confusion, there is something true in this; but let it be considered: that the noble estates are nonetheless drawn upon annually for new burdens, as recently for the bread-provisioning of the military, and that it is no injustice to make good in the hundred-and-first year what was unjust for a hundred years. Long enough have the small estates had to pay for the great; long enough has the nobility enjoyed the advantages of its rank without fulfilling its noble obligations, as its worthy forefathers did. The world is now enlightened, and the third estate cultivated enough to work by force toward an equal distribution of the levies.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-34">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-34">Part 1, p. 34</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1045,9 +1116,11 @@ Krug says in his book on National Wealth, Part Two, p. 538: "Between the land ta
 The aversion to this exchange rests upon a prejudice which is easier to expose than to eradicate, and the name 'head-money' or 'head tax' carries with it the so repellent secondary notion: that a man must pay a levy to the State because he has a head; yet although the consumption tax might with greater right (than the former can be called a head tax) be called a stomach tax, which one must pay because one has a stomach, still to my knowledge it has not yet
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-35">Part 1, p. 35</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1067,9 +1140,11 @@ I believe, however, that one pays taxes to the State for this: that one may enjo
 A head tax which strikes every head in the same manner, whether it belong to a Krug or a Canard, is as unjust as a land tax whose measure is not the produce but the ground and soil itself, in which one Morgen of garden earth were set equal to one Morgen of drifting sand. But if this head tax is to be apportioned according to the quality of the estates, of the great landowners (nobility) and the small (peasants), as well as of the burgher class, then it ceases to be a head tax and becomes a property tax, wherein, however, one harbours a false presupposition; for there is also poor nobility and rich burghers.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-36">Part 1, p. 36</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1101,9 +1176,11 @@ The oaken block, then, worked up into an armchair for Herr Schmalz, in which he 
 One may just as well apply these propositions to agriculture, and if human understanding and the hands of the labourer are not added to the ground and soil, then it is, for the national income, a dead capital.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-37">Part 1, p. 37</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1119,9 +1196,11 @@ In the very act by which the actual cultivator of this ground and soil (day-labo
 v. \*\*n.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-38">Part 1, p. 38</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1145,9 +1224,11 @@ Without being a prophet, one may easily foretell what consequences the Battle of
 I am no Prussian; I am driven neither by personal interest nor by animosity. I wish merely to lay my view of the present political events before the public for its examination. I wish to offend no one, least of all the truly and morally good, but unfortunate Frederick William III. and his excellent consort, the crown of all wives.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-39">Part 1, p. 39</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1167,9 +1248,11 @@ Far be from me any poetic view of this great subject; far may there remain from 
 In those days, when Persia spread a million slaves over Greece, their assaults were withstood by the mighty feeling — animating all the Greeks — of a freedom founded upon
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-40">Part 1, p. 40</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1197,9 +1280,11 @@ Now, when neither the feeling of freedom, nor religion, nor love of country anim
 Frederick laid a principle of politics as his foundation. It was that of the balance of power among the European states. Thereby religious fanaticism was displaced, and it was Frederick II. who cherished and fostered this idea, and through a long series of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-41">Part 1, p. 41</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1223,9 +1308,11 @@ Among all the European states, Prussia stood about the year 1792 at the highest 
 France suffered from the consequences of a bad constitution, which for several centuries had almost wholly ruined this state. It had no money, and therefore no army. At the head of the government stood a weak man, without genius, without talents.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-42">Part 1, p. 42</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1245,9 +1332,11 @@ England could dictate no commands upon the Continent by means of any army; this 
 By this acquisition Prussia not only drew upon itself the hatred of all Europe, but instead of with the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-43">Part 1, p. 43</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1275,9 +1364,11 @@ Whereas Prussia had previously needed to draw only a small line of defence again
 Poland had no outlets on the Baltic; it could not export its products as soon as Prussia closed the Vistula. Frederick used this geographical situation to supply his barren provinces
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-44">Part 1, p. 44</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1301,9 +1392,11 @@ Through the possession of Poland one only increased the establishment expenditur
 In a war with France Poland would have constituted the basis of subsistence for the Prussian troops through grain and cattle, would have reinforced the armies with brave auxiliary troops, and would have recruited them with young volunteer manpower. United with Prussia, it is a false friend, who is always more dangerous than a declared enemy.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-45">Part 1, p. 45</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1327,9 +1420,11 @@ The French nation was not, merely because its government had fallen through its 
 Poland was hemmed in by the three great powers; it had neither fortresses nor a proportionate army; here only the nobility was taken with the new order of things (in no way the raw
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-46">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-46">Part 1, p. 46</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1357,9 +1452,11 @@ The greatest misfortune which was brought about for Prussia by the war with Fran
 France, occupied and shaken by the war on the mainland, could not also resist at sea with any exertion, the less so as its naval power had already before been subordinate to the English.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-47">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-47">Part 1, p. 47</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1379,9 +1476,11 @@ Once Prussia had taken sides against France, it also had to hold out in league w
 Could there ever have been a moment to enlarge Prussia's power to good purpose, it was this one, when she ought to have marched her army swiftly into Holland and united that state with herself under conditions. Those conditions would have been none other than that this republic should by all means retain its old constitution, with the hereditary Stadtholder at its head; but that in return Prussia should be granted the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-48">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-48">Part 1, p. 48</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1405,9 +1504,11 @@ Instead, however, Prussia calmly allowed France to seize Holland; its Westphalia
 The mistakes which Prussia has made since the Peace of Basel are so enormously great that the tragedy at Auerstädt had to be a necessary consequence of them. Having begun an ill-considered war and ended it so disadvantageously, she adopted the system of neutrality, just as if she constituted an isolated state of Europe, and possessed such national strength that she could, under all circumstances, defy any neighbouring state,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-49">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-49">Part 1, p. 49</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1427,9 +1528,11 @@ France now soon extended her power over Belgium and Italy; her armies swept acro
 But once it was concluded, and Austria wished anew to draw the sword more for England's interest than for its own, then Prussia had to prevent this, and thereby seek to compel England to peace. Taking no side, however, Prussia once again let the favourable period pass for establishing itself in possession of Holland; for if either the French side had been taken — when France in 1799 stood at the edge of the abyss, in so far as Masséna at
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-50">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-50">Part 1, p. 50</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1449,9 +1552,11 @@ One calmly allowed Austria to lose one province after another, until at last a h
 At last the Peace of Lunéville and Amiens came about, and one might have believed that now Europe might remain freed for some time from the plague of war. England, the tyrant of the ocean, not yet content with the advantages which its commercial despotism afforded it, took up arms anew under empty pretexts, so that France should not conquer St. Domingo, and now Prussia calmly allowed Hanover to be occupied by the French and treated as enemy country. Into the very heart of the old Prussian provinces one let the enemy penetrate, without setting a mobile army
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-51">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-51">Part 1, p. 51</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1471,9 +1576,11 @@ The new war that had broken out between France and England seemed likely to beco
 Napoleon, however, kept his army standing in the German Empire, and bound the interest of Bavaria, Württemberg, and other princes to his own. Why did one not let England alone bring the struggle to an end — a struggle which it wages not for the just cause, but for a commercial system that must in the end collapse anyway? Suppose that, through a landing, the national bankruptcy
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-52">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-52">Part 1, p. 52</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1489,9 +1596,11 @@ in England, and with it the foundation of English greatness (resting upon the na
 In the last campaign of 1805 Prussia once again played the most unpolitical role in the world. If it did not wish (why, I do not know?) to tie its interest to that of France, it ought at least, with arms in hand, either to have kept Russia and Austria out of the war, or, after the march through Ansbach, to have taken their side with energy. But it would have been more purposeful, and of the happiest outcome for Prussia,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-53">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-53">Part 1, p. 53</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1511,9 +1620,11 @@ But what did this power do? The troops were let march to the northern provinces;
 If one wished to remove French influence from German soil, if one wished to avenge the violated neutrality, then in October one had at once to send the Westphalian inspection, united with the Hessians, by forced marches into Holland, which was stripped of troops; here, on the seaward side, Russians, English, and Swedes were to land, and thus the flanks and rear of the French army in Bavaria were to be threatened. As soon as the whole army arrived afterward, one could have marched straight upon Würzburg, and thus weakened Napoleon's forces, he being occupied at Brünn.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-54">Part 1, p. 54</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1529,9 +1640,11 @@ But one contented oneself with the possession of Hanover, after the French had p
 Was there so much as a single ground for this war that was not already present in 1805? But if it was politically correct that Prussia had to declare war on France in 1806, then it was far more advantageous still in 1805, when the armies of the other powers stood under arms. In the previous year the Russians were in Hanover and in Silesia; now they are only awaited. Last year Napoleon could not have set 50,000 men against the Prussians; now he can set the greatest part of his might: last year Prussia would have been trumpeted as the protector of the German imperial constitution; now everyone laughs up his sleeve that a power which always seemed to fish in troubled waters has been rapped over the knuckles.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-55">Part 1, p. 55</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1559,9 +1672,11 @@ Peace, maintained at the wrong time, is more dangerous than an unlucky war.
 It is true that France applied every means to indemnify itself, by the war on the continent, for the naval power lost through England. The repercussion, to be sure, always struck the continent; if Prussia wished to free itself from this, it had to strangle the giant in his infancy, and not let him ripen into a man.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-56">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-56">Part 1, p. 56</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1577,9 +1692,11 @@ Of justice there can be as little talk here as of schoolroom morality, especiall
 "Not one of these oppressions could be foreign to Prussia; several among them were closely bound up with her most essential interest; and moreover the wisdom of the system which regards all the states of Europe as members of one and the same family, which calls upon them all to defend each one, and which perceives in the immoderate aggrandizement of one the danger to all the rest, has been sufficiently confirmed by experience."
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-57">Part 1, p. 57</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1607,9 +1724,11 @@ It would have been better had this not been brought up in the first place.
 Gratitude is a matter of the heart, not of the understanding. States and their chiefs, as such, must let themselves be led astray by no feeling, least of all in politics. How could the Prussian cabinet ever have imagined that Napoleon would do anything for Prussia out of personal gratitude? The Prussian rulers ought at least to have read Frederick's works and to have gathered from them the reasons he gives for abandoning the French alliance in 1742, and how he shows that in politics morality is out of place. One is grateful as long as the interest of the state permits it; one keeps treaties precisely as long as they afford advantages.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-58">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-58">Part 1, p. 58</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1633,9 +1752,11 @@ It is certain, however, that Prussia owes her new acquisitions in Germany to Fre
 > "Prussia stood alone upon the field of battle (after the battle of Austerlitz). She was obliged to confine her policy to the limits of her strength, and, instead of embracing the interest of all Europe as had been her will, to take her own security and that of her neighbours as her first guiding line."
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-59">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-59">Part 1, p. 59</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1655,9 +1776,11 @@ The complaint raised in the manifesto concerning the non-observance of the Peace
 It is certain that Napoleon's earnest will to remove England's mercantile universal influence from Europe aims at the happiness of this part of the world. He employs everything to carry out this will—war and peace treaties, alliances, force and cunning, assurances of friendship and threats, all alike! The How must here be a matter of indifference, and morality comes into no consideration in it. That state which gives itself over to this
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-60">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-60">Part 1, p. 60</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1677,9 +1800,11 @@ As for what is further alleged and set forth in the manifesto—concerning a res
 This much seems certain to me: that Napoleon, without regard to persons and to what morality might teach, fights solely for the cause, and purely against England's universal despotism; Frederick William III., however, without having grasped the true interest of his state with respect to England, fights against that firm will less as a chief of state, wholly as a private man clinging to personality and to morality, and, were he to conquer, would deliver Prussia over to the slowly killing influence of England<sup class="lit-fn"><a href="#n-en-5">5</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-61">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-61">Part 1, p. 61</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1699,9 +1824,11 @@ This requires an explanation, and the loss of the battle of Auerstädt likewise 
 Already at the outset I said that no general idea any longer drives nations against one another, that battles are won neither for the sake of religion, nor out of a feeling of liberty, nor through the spirit of chivalry. The idea, generally accepted for many years, of maintaining the balance of power among the states has been annihilated by the recent wars; the delirium of liberty, which once operated in France, cannot take hold in Prussia. By what means does one gain victory? By art, by the organization and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-62">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-62">Part 1, p. 62</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1725,9 +1852,11 @@ The waging of war is an art. Let us seek to determine whether the Prussians have
 The Prussian army, 66 years ago at Mollwitz, won a battle against old, brave Austrian troops accustomed to war, because it made use of iron ramrods and had adopted the cadenced step; so history teaches. It would probably have lost the battle had the Austrian army hurled a concentrated artillery fire, served by cavalry, upon these closely serried thin Prussian lines and thus broken through them. But this could not be done at that time. Frederick II. now brought to its highest perfection the art
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-63">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-63">Part 1, p. 63</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1747,9 +1876,11 @@ Since the Peace of 1795 Prussia neglected this matter, in that it retained its o
 Many a young officer (and this only rarely) studied the new system of warfare; but since seniority determined promotion,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-64">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-64">Part 1, p. 64</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1769,9 +1900,11 @@ The new system of warfare absolutely requires instructed soldiers and men who pu
 In the Prussian armies hereditary privileges hold sway; the common soldier is to be regarded merely as part of a machine, upon whose moral formation and knowledge nothing depends. Physically he stands there, physically he is treated; he is to be an instrument and nothing more, to have no prospect of improving his condition through promotion; to receive his subsistence meagrely, and even to serve as a plaything and a puppet, dressed in clothes cut now this way, now that, and only to be driven by the stick to perform his tactical movements, prescribed by tempo, when he does not perform them regularly. Few of these heroes care whether they win or run away; but often greed for plunder drives them into the fight, along with the prospect of an early peace should the battle be won; still more often, however, a coercive force
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-65">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-65">Part 1, p. 65</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1795,9 +1928,11 @@ If he is invalided, the state provides for him; if he has fallen, his survivors 
 The officer class in the Prussian army, according to the old system of warfare, was merely an intermediate point in the machine; and since it was therefore more an instrument than a spiritual part of it, it mattered little for the purpose whether it had intelligence and moral formation; if he knew how to handle the regulations exactly, if he had mastered the mechanical service, then he was what he was meant to be. In order to hold him firmly at his post, Frederick further attached to this class the general idea of the so-called military
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-66">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-66">Part 1, p. 66</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1817,9 +1952,11 @@ In more recent times the young officers doubtless felt the inadequacy of this mi
 Spoiled for the old service and unfit for the new, they were far more useless than they could have been in the French army. And withal they were vain, arrogant, and boastful; their plumes seemed to wish to defy the heavens; their martial clattering of sabres and jingling of spurs announced from afar a son of Mars, who, however, had thus far beaten the enemy only in his own imagination. The staff officers, who had passed their years of youth just as the subalterns had,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-67">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-67">Part 1, p. 67</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1843,9 +1980,11 @@ There is no doubt that the officer corps, with much good will (still wholly imbu
 Such was the condition of the individual elements of the army that fought at Auerstädt; how was this army itself constituted?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-68">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-68">Part 1, p. 68</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1861,9 +2000,11 @@ The Prussian army, consisting of infantry, cavalry, and artillery, had hitherto 
 The forces are drawn together slowly, time is frittered away in negotiations, and yet conditions are made which one may not flatter oneself will be fulfilled, given Napoleon's character and his conduct hitherto. This lasts until the French army, concentrated, advances. Instead of a single commander, an Areopagus commands the army; the King, Brunswick,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-69">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-69">Part 1, p. 69</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1883,9 +2024,11 @@ They encamp in the broken terrain near Jena, Buttstädt, and Auerstädt; they ha
 Thus far go the reports. It is probable at this moment that the beaten army takes up a firm position between Magdeburg and Halberstadt and here cuts off the Elbe; that the King, on the other side of the Oder near Küstrin, gathers the East Prussian troops and awaits the Russians; that the French detach Saxony from the alliance and honour Berlin with a raiding excursion; that peace is either negotiated and Prussia surrendered to France's influence, or that the King gives himself over to Alexander and seeks through perseverance to preserve the State. As for Berlin and the intervening space between the Elbe and the Oder, the French cannot properly hold Berlin unless they command Magdeburg and the Elbe, Küstrin, Glogau, and the Oder.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-70">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-70">Part 1, p. 70</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1917,9 +2060,11 @@ That the French would conquer Silesia beyond where the direct line of operations
 I have already declared above that Prussia has an interest against England identical with that of France. But it is one thing to be able to advance one's true state interest freely, without compulsion,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-71">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-71">Part 1, p. 71</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1939,9 +2084,11 @@ From the moment Prussia allowed the English to compete in the Baltic grain marke
 This is not the place to contest the nonsensical doctrines of the Physiocrats, or to combat the agricultural system preached in our own days; but if one were once to draw up a proper account and strike the balance of what the Baltic ports have received from England for the grain they sold, one would soon find that every year, after deducting the value of the colonial goods received, they stand at a loss. Through this commercial intercourse with England, Prussia has grown poorer year by year; raw products have been driven up without measure or limit, Silesia's active trade has been ruined along with its manufactures, the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-72">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-72">Part 1, p. 72</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1969,9 +2116,11 @@ Prussia could not have entered better into Napoleon's plans; and it would have d
 Napoleon would then have had a free hand to carry through his earlier plan of a landing in England, so as to throw this rope-dancer off its balance — this rope-dancer that, with its balancing pole, hovering upon a single point of rest, sways now to India, now to Europe, back and forth
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-73">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-73">Part 1, p. 73</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1991,9 +2140,11 @@ Should France then not agree to this, Prussia would have had to make of Wesel a 
 Against Russia the line of defence is too long: in any case, however, Warsaw would have had to become a fortress.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-74">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-74">Part 1, p. 74</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2021,9 +2172,11 @@ The King would have had to open a Diet in Warsaw, and there to lay the following
 > But in order to bring you, so far as lies within my power, nearer to the condition which you yourselves wished to bring about through the constitution of 1792, I will, under your counsel and with your co-operation, grant you the following new
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-75">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-75">Part 1, p. 75</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2047,9 +2200,11 @@ The King would have had to open a Diet in Warsaw, and there to lay the following
 > The provincial territorial authorities — the courts of justice and finance, the Landrats and Tax Councillors, the magistracies
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-76">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-76">Part 1, p. 76</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2069,9 +2224,11 @@ The King would have had to open a Diet in Warsaw, and there to lay the following
 > The Archbishop of Gnesen shall be Primate of the Realm, reside at Warsaw, and constitute here the supreme court of justice *quo ad eclesiastica* (as to ecclesiastical matters); but as regards the Protestant clergy, they shall retain their forum where it now stands; a member of the Senate, however, shall be their superior in the last instance.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-77">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-77">Part 1, p. 77</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2099,9 +2256,11 @@ Obwohl unter diesen Bedingungen die Pohlen je an Insurrection denken möchten? I
 Whether, under these conditions, the Poles would ever think of insurrection? I believe not! Whether the King and the mother country would, under these conditions,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-78">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-78">Part 1, p. 78</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2125,9 +2284,11 @@ A principal measure that Prussia had to adopt for the upholding of its independe
 Had one merely levied for it that young manpower already entered in the cantonal rolls, without regard to inches and marks; given it the muskets heaped up in the country, especially in the Arsenal at Berlin (now for the French); had it drilled a little by
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-79">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-79">Part 1, p. 79</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2155,9 +2316,11 @@ Napoleon has beaten the main army at Auerstädt; it was cut off from the Elbe on
 Under these circumstances Napoleon, from the heart of Saxony and supported by that rich country, will form three lines of operation.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-80">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-80">Part 1, p. 80</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2193,9 +2356,11 @@ The third part could have been stationed in Lower Saxony and Westphalia, and the
 The plan of operations which Prussia drew up for this campaign was (as the consequences show) far too bold,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-81">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-81">Part 1, p. 81</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2231,9 +2396,11 @@ At present we are given over to the influence of England, of France, of Russia; 
 Upon England depend all the great landed proprietors and trading cities in the countries beyond the Oder, since they sell their wheat there at a high price. Upon England depends the hereditary nobility with its privileges, and in so far as the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-82">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-82">Part 1, p. 82</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2261,9 +2428,11 @@ To Russia the royal couple are bound by a personal friendship for the Emperor Al
 As firmly as he clung to the system of neutrality, to this ruin of Prussia, just so will he now cling with perseverance to the war, until even the last hope is annihilated.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-83">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-83">Part 1, p. 83</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2287,9 +2456,11 @@ The countries which now stand under Napoleon's influence, even if they are harsh
 But Napoleon the Great (who could deny him this epithet) will certainly, of this I trust to his wisdom, not dissolve the internal organization of the countries and provinces which he conquers
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-84">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-84">Part 1, p. 84</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2321,9 +2492,11 @@ Hitherto a politics founded upon right (the so-called law of nations) was to be 
 This plan seems worthy of a Napoleon, and let one say what one will, he can do nothing else, least of all
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-85">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-85">Part 1, p. 85</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2355,9 +2528,11 @@ His lines of operation, extending to the Vistula, become after all too long to d
 On the present theatre of war the French army does not follow the course of the rivers, as on the Danube; rather the Elbe, the Havel, the Spree, the Oder, the Warte, the Netze are to be crossed in order to fight at the Vistula. In Silesia strong fortresses are to be taken, Magdeburg, Küstrin, and Stettin are to be conquered, and what is most dangerous: the provinces through which the army here passes do not afford so many of the army's necessities for subsistence and advance as Bavaria and Swabia do.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-86">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-86">Part 1, p. 86</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2393,9 +2568,11 @@ Prussia might perhaps still be saved, if Napoleon, the Emperor of the French, we
 That they are worthy of it, I will not deny; but that the relations of the subject to the lord of the manor,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-87">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-87">Part 1, p. 87</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2411,9 +2588,11 @@ the low degree of cultivation, of the soil, the want of industry, of prosperous 
 Only through Prussia can this vigorous opposition be formed for the future, if this state retains its present civil constitution, if a better rounding-out of territory is procured for it, and if new organic laws found the constitution of government upon the principle of unity, if no further antagonism exists between the adjutants, the cabinet authority, and the ministry, if all the diffuse collegial conferences are avoided in all such matters where only one head ought to decide. If the levies of land tax and consumption tax are founded more upon equality, if the nobility is granted no privileges, if no further distinction is made among soldiers as to whether a bourgeois or a noble womb bore them—in short, if all those abuses are removed which disfigure our constitution, created by Frederick II., dissolved by Frederick William II., and by Frederick William III. not entirely brought back to its organic fundamental principles.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-88">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-88">Part 1, p. 88</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2425,9 +2604,11 @@ Sollte nicht Frankreich mit Rußland ein verwandtes Interesse dadurch haben, da�
 Should not France have a kindred interest with Russia in this: that it open the Dardanelles, free them from the matter of plague, and bring about a barter trade between Marseilles and Odessa? Should not England thereby be induced to peace sooner than by a restoration of the Polish realm?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-89">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-89">Part 1, p. 89</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2447,9 +2628,11 @@ The war was beginning. Already dark rumours were rolling in from its theatres, l
 Did Fama possess a prophetic power, or did the present already permit an inference about the future? Had the enemy already fixed upon the most advantageous point of attack, and was it foreseen that the heroic prince would sacrifice himself, or did chance foretell this blow? Who can decide this? Enough — we knew the death of the lamented prince before it came to pass, and perhaps this occurred in several places.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-90">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-90">Part 1, p. 90</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2517,9 +2700,11 @@ The scene of his death was recounted so movingly that every feeling heart was st
 Long would our tears have flowed for him, but the whirlwinds of misfortune, which struck us so hastily, tore the fatherland on from sorrow to sorrow, and scarcely was one tear dried before the next was wrung forth.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-91">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-91">Part 1, p. 91</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2543,9 +2728,11 @@ Since at first the victory in the battle of Auerstädt seemed to be inclining to
 To confuse us utterly, there soon followed the presentiment of an armistice, or a peace between France and Saxony. The Green Vault, which was to be conveyed to Breslau on many wagons, suddenly received order near Bunzlau to halt, and turned back to Dresden.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-92">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-92">Part 1, p. 92</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2577,9 +2764,11 @@ With anxious, shifting expectations we looked toward the future, and contradicto
 It is incredible what an impression these few words made. Everyone was dismayed; in every face one read consternation. People wished to doubt, they would have doubted, but they laboured in vain to invent grounds for doubt. From no other newspaper
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-93">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-93">Part 1, p. 93</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2611,9 +2800,11 @@ Whoever had friends or relatives in the army had his imagination present to him,
 How tormenting this was! how these thoughts tore the heart of the feeling man! How many countless tears were wept in this time by the fathers, the mothers, the brides, the brothers, the sisters of those who had fought in the battle!
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-94">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-94">Part 1, p. 94</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2649,9 +2840,11 @@ From this point on the activity in the streets increased with every day, and alr
 Today we had the strange spectacle that not only the levied men were at work on the fortifications, but volunteers as well. Among them one saw townsmen, Jews, the pupils of the Jesuit College, and even officials. How easy was this sacrifice! How gladly would
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-95">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-95">Part 1, p. 95</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2687,9 +2880,11 @@ This town is one of those of middling size, and has, as already mentioned, 10,00
 It actually consists of two towns: the town proper, and the Cathedral quarter. Between the town and the Cathedral quarter, not far from the town wall, flows the Oder,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-96">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-96">Part 1, p. 96</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2709,9 +2904,11 @@ The two largest buildings in the town are the Royal Palace and the Jesuit Colleg
 As for the churches, there is an Evangelical town church and a garrison church in Glogau, but several Catholic ones: the parish church, the Jesuit-Franciscan-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-97">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-97">Part 1, p. 97</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2739,9 +2936,11 @@ Besides the works forming the line of circumvallation of the fortification, it h
 After this little description, one will be better able to understand whatever may come up regarding the situation of the town in the course of the history of the siege.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-98">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-98">Part 1, p. 98</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2765,9 +2964,11 @@ In the town the workers were just as busy; all day long cannon were brought up o
 The haste with which the effort was made to put the fortress into a state of defence was so great that the work in the redoubts was continued even during the night of the 23rd to the 24th of October.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-99">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-99">Part 1, p. 99</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2795,9 +2996,11 @@ For the rest, the couriers now crisscrossed from every direction, and without ce
 We had a very sad sight today. The moats of our fortress are dry, and in the main moat, under the bridges before the Breslau and Prussian Gates, several considerably large gardens have been laid out, so that, when one crosses the bridges, one looks down 20 to 25 feet into a garden on both sides. Their trees and hedges rose with their branches up to the bridge, and the whole afforded a pleasant sight. The fine fruit trees and hedges were cut down today, and sank before the eyes of a great crowd of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-100">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-100">Part 1, p. 100</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2817,9 +3020,11 @@ The fine fruit trees were lamented, and the general voice was that the felling o
 On 23 October the order for the palisading of the fortress was issued, and today the first palisades were brought in. A quantity of 38,000 ordinary palisades, 10 Rhenish feet long and 10 inches thick, as well as 7,400 tambour palisades, 15 Rhenish feet long and 12 inches thick, was required for this; but for hauling them in, 5,000 four-horse wagon-loads were needed, which were furnished by the nearest districts. The forest of the Prince of Carolath and the town forest were designated to supply the trunks for this.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-101">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-101">Part 1, p. 101</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2847,9 +3052,11 @@ Notwithstanding the holiday, the work on the fortifications was continued, and a
 Since the number of carpenters in Glogau was not sufficient to carry out the necessary work on the fortress, carpenters from the nearest towns and districts had been requisitioned by the Chamber at the instigation of the Commandant. These
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-102">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-102">Part 1, p. 102</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2877,9 +3084,11 @@ As necessary as it was to put the fortress with all haste into a state of defenc
 The Landräte had thus received the necessary commands for procuring the requisite supplies, and the deliveries now began to arrive from all sides. Since a considerable quantity of victuals and forage is needed to provision a fortress such as Glogau, the crush at the gates of people, wagons and horses was indescribable. I had occasion, in my dwelling, which lies close by the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-103">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-103">Part 1, p. 103</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2903,9 +3112,11 @@ The mood of the people in Glogau, moreover, was one of dejection. The earlier re
 It is so easy to wish for war, when one ventures nothing oneself thereby, when one wishes to enjoy the distant spectacle of battles and of momentous affairs of state, or to gratify a private hatred against a foreign power.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-104">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-104">Part 1, p. 104</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2925,9 +3136,11 @@ That is very petty! But there is much that is petty in the world, and it manifes
 This blush of shame cannot cover my cheek, and over the inconsistency of others I am not set as judge. Only the truth can never be repeated often enough: that by reviling, defaming, and degrading the enemy, by defiantly boasting of future victories and suchlike outbursts of passion, no love of the fatherland is displayed, but rather that
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-105">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-105">Part 1, p. 105</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2951,9 +3164,11 @@ There seem to have been generals in the Prussian army who laboured under the del
 If these are no empty assertions, if there were such commanders in the army, should this
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-106">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-106">Part 1, p. 106</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2981,9 +3196,11 @@ I wrote to Berlin to obtain news, but the letters came back; communication betwe
 Reports began to spread that the French were already being announced in the villages two (German) miles from Glogau;
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-107">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-107">Part 1, p. 107</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3015,9 +3232,11 @@ We learned that the bridge over the Oder at Frankfurt had been broken up, and in
 There now arrived an enormous store of hay, straw, and grain, with which the churches and monasteries were filled. The tumult in the town, the crush in the streets, especially at the gates and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-108">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-108">Part 1, p. 108</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3041,9 +3260,11 @@ As when a fearful hurricane falls upon a flock, robs it of the shepherd and the 
 I spoke with all whom I caught sight of, for the returning men were recognized at once. I thirsted for news of the battle, of the fallen, of the state of the army. But this thirst was not slaked. What I learned was little, and shrouded in darkness. What enlightenment could men give who had no overview of the whole? They could recount only their own fate: when they came under fire, how long they remained in it, what they had endured before the battle and what afterward.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-109">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-109">Part 1, p. 109</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3063,9 +3284,11 @@ Is this the humanity of the French? Or could they exercise no humanity even had 
 Oh, the brave Prussians did not deserve the misery that befell them. They lost the battle, they were made prisoners, they fled. But who dares to lay a hand on me if I nonetheless call them brave and valiant? Did not the blood of the Prussians flow in streams? Did not the battle last a whole terrible day? Did not the King's army fight after it had already been outflanked, and after the loss of the magazines was attacked from the flank? Had not want already raged in their bowels when they stepped onto the field of battle? And did they not nonetheless fight with the courage of lions? Did not 20,000 Prussians lie upon the field of battle bleeding,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-110">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-110">Part 1, p. 110</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3089,9 +3312,11 @@ The love of justice will awaken; it will awaken even in the enemy, and must awak
 To holy truth alone be consecrated every offering that the writers of the nation now set forth: for they lay it down at the altar of the fatherland; and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-111">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-111">Part 1, p. 111</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3115,9 +3340,11 @@ Whoever has a drop of Prussian blood in his veins, whoever — even among the en
 The warship of the first rate can, like the smaller frigate, be driven about upon the sea by the raging storm,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-112">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-112">Part 1, p. 112</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3141,9 +3368,11 @@ I turn my gaze away from those who, at this critical moment, abandoned by their 
 I return to my narrative.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-113">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-113">Part 1, p. 113</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3167,9 +3396,11 @@ The returning men, although they belonged to various regiments, were taken into 
 Several hundred recruits arrived here today, who were to be conducted to the King at Graudenz; but unfortunately we received at the same time the sad news that this was no longer possible, because the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-114">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-114">Part 1, p. 114</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3197,9 +3428,11 @@ The accounts of the event were still obscure, but this much was said: that the P
 We consoled ourselves with the hope that the surrender of the corps was one of the many rumours rolling about; but soon even the last comforting doubt vanished, for eyewitnesses of the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-115">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-115">Part 1, p. 115</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3231,9 +3464,11 @@ To reinforce the extremely weak garrison, the Battalion of Zastrow marched in he
 Some of the peasants who had been assigned to the works were employed today
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-116">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-116">Part 1, p. 116</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3265,9 +3500,11 @@ In order to learn something, and to reconnoitre and attack the raiding parties, 
 We received from the returning captured General Pelet the news that peace was being negotiated, and that an envoy had gone with acceptable peace terms from the Emperor to the King at Graudenz. There were now only
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-117">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-117">Part 1, p. 117</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3287,9 +3524,11 @@ But let no one imagine that the appetite for war in general was now extinguished
 There are men who lay down their lives, not for the fatherland, not for the honour of the King, not for the honour of the nation, no, but to be proved right. Had the war been postponed once more, had it broken out toward the end of the year 1807, and had there then followed what now took place, they would have cried out loudly: October 1806 would have been the favourable moment for war. And indeed even now, only a few weeks ago, they declared it to be such by their loud sighing for the commencement of hostilities. That
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-118">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-118">Part 1, p. 118</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3309,9 +3548,11 @@ Had the war blazed up at the end of the year 1805, and had a misfortune then com
 But those who romp about on this field might at least weigh a few points with some coolness: that the King stood higher than all of them for surveying the political horizon; that he was surrounded by wise councillors who could weigh deeply the causes for war and peace; that before the French march through Ansbach the neutrality of Prussia was almost universally approved; that after it, when the French army was in the full course of victory, the favourable time for attack was most difficult to find; that during the events at Ulm the Prussian army was too distant to be able to act; that after the battle of Austerlitz the peace with Austria and the withdrawal of the Russians came about in a single instant, and Prussia
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-119">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-119">Part 1, p. 119</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3331,9 +3572,11 @@ If they weigh these points without passion, one would think it would be hard eve
 The question has been raised: what would Frederick II. have done under the critical circumstances in Europe? This monarch could have had only great political views, he could have worked only toward an invincibility of the Prussian state, and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-120">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-120">Part 1, p. 120</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3369,9 +3612,11 @@ Frederick II. once said very finely to Daun: Sit down beside me. I much prefer t
 I return from these great views to the little plot that was allotted to me during the remarkable events of this war.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-121">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-121">Part 1, p. 121</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3395,9 +3640,11 @@ It was three o'clock in the afternoon when I noticed a commotion in the street f
 Soon afterwards a detachment of hussars, fifty to sixty men, mounted up and moved out at speed through the Breslau Gate to reconnoitre the country. To them was joined a small detachment of border-rangers, who a short while before had marched into the town for its better defence.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-122">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-122">Part 1, p. 122</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3421,9 +3668,11 @@ From the beginning of the commotion and the galloping-in of the peasants, until 
 The enemy had come from the western side, and made his attack at the Prussian Gate. Here he had planted cannon behind the Protestant churchyard, where he was screened by several garden-houses, tombs, and great
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-123">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-123">Part 1, p. 123</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3451,9 +3700,11 @@ Towards 5 o'clock the order came that the artillerymen were to cease firing unti
 While these were with the Governor, the news spread that terms would be capitulated, and that the enemy would march in the next morning. This
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-1-124">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-1-124">Part 1, p. 124</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3477,9 +3728,11 @@ Meanwhile the darkness of evening came on, and lights had to be set in the windo
 The continuation follows.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-front">Part 2, before the first page</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3509,9 +3762,11 @@ Amsterdam and Cölln, 1807.
 bey Peter Hammer.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-V">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-V">Part 2, p. V</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3551,9 +3806,11 @@ The Black Register, or General Tableau of the Former Polish Crown and Ecclesiast
 Experiences Gathered on a Walk in and around Berlin, in April 1807. 91
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-VI">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-VI">Part 2, p. VI</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3577,9 +3834,11 @@ Baron Hammer. 124
 Are There Not Also War Damages in Peacetime? 125
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-1">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-1">Part 2, p. 1</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3603,9 +3862,11 @@ We were here, at the beginning of the ill-fated October of 1806, truly in a cert
 When the Guard at last moved in here, and the King of Prussia, without advancing, took quarters here and remained lying still, we grew more anxious. — Meanwhile the Prussian officers still went dashing about: "If only we can once get them onto the plains!" — Ha! we thought, so it is to be decided at Lützen. They
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-2">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-2">Part 2, p. 2</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3645,9 +3906,11 @@ In the wine-houses — the brandy-booths were all closed, and empty — the crow
 "If the Russians do not come," said one who afterward called himself a Cisalpine, "we shall get a drubbing!"
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-3">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-3">Part 2, p. 3</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3695,9 +3958,11 @@ A townsman wanted to raise an objection, but he was at once set right, and indee
 "My good man! we understand that better. In the open field a Prussian army is not to be beaten at all, for our manoeuvres, they have the very devil in them;
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-4">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-4">Part 2, p. 4</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3745,9 +4010,11 @@ Before Weimar a camp was pitched. — This, it was said, was the third line of e
 We thought, the mountains near Jena will now be occupied; who will attack them? With stones the attackers can be
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-5">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-5">Part 2, p. 5</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3779,9 +4046,11 @@ Let one go there, look at the country, and — be horrified.
 Those were the Prussian tricks!
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-6">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-6">Part 2, p. 6</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3801,9 +4070,11 @@ In a word, one was prepared for nothing; and the Prussian commander came into th
 We in Weimar, however, now hovered in mortal dread. — Amid the thunder of cannon the ill-fated 14th of October broke, and, alas! how dreadful it became for us wretched souls! etc.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-7">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-7">Part 2, p. 7</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3823,9 +4094,11 @@ For France, peace — despite the Continental power she has secured — is a nee
 This war cannot be called a Fourth Coalition War against France, for the prevailing misunderstandings between England and Prussia were by no means yet resolved. And, as is known from the foregoing, it was only delusion and despair that drove Prussia to declare war on France. But when England saw that another opportunity for a Continental war might yet present itself, Lord Lauderdale broke off the negotiations as though picking a quarrel out of thin air. If the Emperor was in earnest, in sending the letter to the King of Prussia before the Battle of Jena, that he did not wish to have war
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-8">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-8">Part 2, p. 8</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3841,9 +4114,11 @@ with Prussia — then at least after the Battle of Jena there could be no though
 The consequences of the Battle of Jena could not but be too advantageous to the Emperor Napoleon for him to let them pass unused. The Emperor Napoleon esteems the King of Prussia, because he not only knew of his aversion to this war, but surely also remembered that Prussia, since the Peace of Basel, had always been the first power to recognize the changes in France. What motives, then, could the Emperor of the French have had to lay waste the states of an already so utterly unfortunate King and reduce them to misery? Why should he not have made peace with Prussia? His heroic renown needed no enlargement. The Emperor had, only the year before, granted peace even to Austria upon far smaller sacrifices. If, therefore, he did not halt in his victorious course, and prescribed to the King conditions too harsh in the armistice concluded at Berlin, the ratification of which the latter believed he had to refuse, then he had no other tendency than to weaken Russia,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-9">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-9">Part 2, p. 9</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3863,9 +4138,11 @@ How ingeniously the Emperor Napoleon has pursued his great tendency since the Ba
 Russia is a great empire; she wages the war in her own country; she has great armies; she can count on England's money. But all this will not save her. France wages the war with the marrow of Italy, of Holland, and of all Germany
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-10">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-10">Part 2, p. 10</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3885,9 +4162,11 @@ What a great difference exists between the Russian and the French generals need 
 The forces of the French are dispersed, because for the present they must in part occupy themselves with the conquest of subsidiary provinces and fortresses. But if the Russians do not extricate themselves from the check placed upon them, then it is to be foreseen that in a few months not only Silesia, but also Swedish Pomerania, Colberg, and Danzig will be conquered. Let one consider what new resources will fall to the French, partly through the uniting of these forces, partly through the 60,000 conscripts from the interior of France.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-11">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-11">Part 2, p. 11</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3899,9 +4178,11 @@ Ein schleuniges Einrücken der Russen in Servien und Bosnien, die Eroberung von 
 A swift advance by the Russians into Serbia and Bosnia, the capture of Widin and Belgrade, but above all, should Austria be willing to declare against France, would smother the outbreak of war on the part of the Porte and create a formidable diversion for the French. Yet this is not to be expected from Austria, partly out of fear of losing its very existence should the matter turn out badly, partly so as not to let the Russians grow more powerful — Russian policy, if they destroy European Turkey, might prove more dangerous to Austria than if, in due course, they were to give France cause for yet another war. The Russians are reinforcing themselves in Dalmatia, but there are also 150,000 men hurrying from the interior of France, in union with the Neapolitans and Spaniards, toward Venice, in order to thwart any diversion into Italy and southern Germany. From this one sees what resources France possesses. For forty years the Turks have never been able to hold their ground in the field against the Russians. But would 200,000 Turks, under the command of skilful French generals, still meet with this fate today? I doubt it! Must not such a strong force fall exceedingly burdensome upon the Russians in so precarious a situation? Will the Turks not soon find means to quell the insurrection in Serbia? and likewise reconquer the fortified places on the Dniester, and thus also open a way for themselves to Ochakov and the Crimea?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-12">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-12">Part 2, p. 12</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3917,9 +4198,11 @@ But granting even that the Russians push their gained advantages in Moldavia and
 It is claimed, on reliable authority, that France offered Prussia an advantageous peace if it would ally itself with Austria and make common cause with France against Russia. The Emperor Napoleon, it is said, demands nothing but the re-establishment of the Kingdom of Poland and the integrity of the Porte. If this is true, then I believe it would have been good, not only for Prussia but also for the whole welfare of mankind, had the King accepted these conditions, for it led by the shortest way to a general peace.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-13">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-13">Part 2, p. 13</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3939,9 +4222,11 @@ The question now is whether men will be happier under the sceptre of a single ru
 But when one considers how greatly the happiness and welfare of men depend upon the government of the head of state; that this supreme power is easily abused, easily degenerates into despotism, if the sovereigns of a universal monarchy are Tiberiuses, Neros, Caligulas
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-14">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-14">Part 2, p. 14</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3957,9 +4242,11 @@ Aber auch hier zeigt der Geschichts- und Menschenkenner, der Kaiser Napoleon, ei
 But here too the Emperor Napoleon, that connoisseur of history and of men, shows a way to be taken that will protect humanity from the entrance of similar horrors. Let one recall the family compact, and his moderation in the many peace settlements. What indeed would have prevented him, since the Peace of Lunéville, from uniting with France not only Holland and Italy, but also Switzerland and the Confederation of the Rhine, had he not taken heed that, after his passing, under a weak successor, the great and boundless work might easily collapse again? What he will do is this: he will bring Switzerland and the Kingdom of Italy under the sceptre of the vigorous ruler of the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-15">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-15">Part 2, p. 15</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3975,9 +4262,11 @@ French, so as to confer upon him, by virtue of this preponderance, that power wh
 The boundaries are fine, and yet, were they to be overstepped by the one party or the other, the whole would be lost. Common human understanding is incapable of grasping the development. But since the eternal blessing or the eternal curse of our descendants depends upon the constitution which the great man of the age is still to establish, one may at least hope for the best. If, then, there shows itself to contemporaries and to posterity, under the sovereign arm of the Emperor Napoleon, a possible prospect of lasting peace and of better times — even once England has been wrested of its sole trade upon the seas — then all this might well take on a wholly different shape, were the sole dominion of the world to fall into the hand of the Northern Colossus.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-16">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-16">Part 2, p. 16</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4001,9 +4290,11 @@ The Theban Pelopidas worked wonders against the so overweening Spartans; yet he 
 It soon became evident how wisely and keenly Pelopidas had foreseen the events of the future. In the battle of Leuctra, Epaminondas, Pelopidas's worthy comrade in arms, with 6,000 Thebans defeated 11,000
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-17">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-17">Part 2, p. 17</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4019,9 +4310,11 @@ Spartans. Not mere fortune of arms, not superior bravery, but a new tactical str
 Domineering Rome had, until the landing of Pyrhus, fought only against wild hordes. Now it was to face a commander who was a second Alexander, who possessed Greek tactics and a disciplined army; and yet this strong people proudly rejected Pyrhus's mediation of peace, in order to avenge the national honour of the Romans, which had been assailed by the Tarentines; in order to show to strangers defiantly that Roman blood would bear no stain of cowardice; that no peace was to be thought of, despite the defeats the Romans had suffered at Siris and Asculum, until the Greeks had left Roman territory and the Tarentines had been drawn to their deserved punishment for their insolence. Pyrhus employed bribery and fear to unsettle the hero Fabricius; but in both he was deceived. The noble Roman remained as cold at the roar of the fearsome elephant as he was honest at the gleam of the gold offered to him.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-18">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-18">Part 2, p. 18</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4045,9 +4338,11 @@ When Alexander's martial genius no longer animated the agile phalanx, he was in 
 In the Thirty Years' War it was merely the new tactical dispositions, which the creative genius of Gustavus Adolphus invented, that were the cause that the hitherto invincible Imperial generals, Tilly and Wallenstein, were overcome. And the power and territorial expansions of Louis XIV rested merely upon the many excellent generals who, formed in the school of Turenne and Kande,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-19">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-19">Part 2, p. 19</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4071,9 +4366,11 @@ Had Frederick the Great not studied the campaigns of the Greeks and Romans, and 
 At the outbreak of the Revolutionary War, the military spirit in the French army was enfeebled and undisciplined. The rulers of France could not even expect protection from it, far less successes. The results of this showed themselves at once at the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-20">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-20">Part 2, p. 20</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4097,9 +4394,11 @@ The fruitless cannonade at Valmy — although, on the part of the Prussians and 
 The prudent, careful avoidance of a major battle after the engagement at Neerwinden, unfortunate for the French, and the mounting of a host of outpost skirmishes in which the French almost always retained the upper hand; the new tirailleur tactics which the great military genius Carnot invented to steel the courage of the raw National Guardsman; the purposeful combination of arms which this same artist embodied in the new brigade and division organization; the more mobile organization which he gave it by having all superfluous baggage-train
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-21">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-21">Part 2, p. 21</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4127,9 +4426,11 @@ And indeed the army of General von Wurmbser, after being driven back as far as W
 All of them effects that no one could suddenly make sense of. The French soldier regarded them as an effect of his new modes of fighting, whereby his courage, self-confidence, and boldness rose to the point of invincibility. A like delusion and conceit surely also animated the French soldier when, bold and full of confidence, he attacked in loose order the enemy's cavalry and artillery,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-22">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-22">Part 2, p. 22</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4149,9 +4450,11 @@ From that time fortune and chance raised up generals from obscurity in the Frenc
 Stripped of all comforts: the infantry officer marching on foot with the knapsack on his back, the cavalry officer with a portmanteau on his single horse — which by regulation may weigh only 30 pounds — from now on one saw behind their columns neither baggage-wagons nor pack-horses, neither bread- nor
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-23">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-23">Part 2, p. 23</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4167,9 +4470,11 @@ flour-wagons driving along. If this arrangement gave them the speed to march ten
 The unmounted cavalry seeks either to remount itself with carriage- and country-nags wherever it finds them, or it follows the army on foot until a favourable opportunity yields captured horses.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-24">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-24">Part 2, p. 24</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4181,9 +4486,11 @@ Diese freiern Bewegungen der Franzosen, welche sich wenig oder gar nicht an Maga
 These freer movements of the French, who bind themselves little or not at all to magazines, now also make the French no friends of building golden bridges; make it no difficulty at all for them to throw themselves into the flanks and rear of the enemy army; make them far better nourished than the Germans. While the Frenchman takes his hearty meat-soup at the enemy's expense, and has wine and brandy in abundance, the German soldier is often forced to keep to his ration-bread and a draught of water. It does indeed happen that the French soldier receives no pay for years on end, which, however, is his greatest advantage, since it is saved for him or his kin by the government, and he needs no money either, because the townsman or peasant is obliged to provide for even the least of his needs. The German soldier has his pay disbursed to him more reliably, but with today's dearness of all produce it is so small that, even with all frugality, he must go hungry at least three days out of every five (from one pay-day to the next). Thus the French bring to the fight, besides their spiritual force, a physical force that bears no proportion to the product of ration-bread and potatoes. To all this must be added the enthusiasm for a great man that is inborn in this nation — that the Emperor, since his effective existence, has always led them to fortunate
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-25">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-25">Part 2, p. 25</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4209,9 +4516,11 @@ When rapid victories had made General Bonaparte in the year 1797 master of Piedm
 But when the Venetians and Tyroleans took measures to occupy the neglected Tyrolean passes in his rear; when Archduke Charles advanced with the Austrian army against his front; when he could scarcely any longer escape the fate of being surrounded: then the politically shrewd
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-26">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-26">Part 2, p. 26</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4227,9 +4536,11 @@ commander beat about the bush as to whether a preliminary peace might not be con
 Critics who did not comprehend the great general censured his audacity, and were already beginning to deny him the talents of a commander. The days of Lodi, of Arcole, of Mantua, and so forth were, in their opinion, more the results of chance than of art. But now, like Hannibal, he crosses the Great St. Bernard, the Simplon, the St. Gotthard, with an army of 70,000 men. A recklessness, in the judgement of the critic, still far greater. If, says the over-hasty critic, the French army does even happily cross the monstrous Alpine chain, how will it fare in Lombardy? All the fortified places in enemy hands, no magazines — how must it deteriorate during its march?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-27">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-27">Part 2, p. 27</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4245,9 +4556,11 @@ how will it save itself after a lost battle? But now there unfold before his eye
 A great man is strongest, most terrible, precisely in misfortune. Even had he lost the battle at Marengo, he would certainly not, with his army, have succumbed to the blows of a mighty fate. Such a
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-28">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-28">Part 2, p. 28</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4267,9 +4580,11 @@ Would that the powers of the Continent, after the Peace of Lunéville, had let t
 The Imperial generals ought to have known the operations of the Emperor Napoleon from the campaigns in Italy, and ought at last to have oriented themselves in his mind.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-29">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-29">Part 2, p. 29</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4289,9 +4604,11 @@ Could the bold hurling of the French generals into the rear of General Mack at U
 But the Emperor Napoleon goes still further. While with the one hand, right at the raising of the curtain on this tragedy, he annihilates half the Austrian army, with the other he throws open the barred Tyrolean passes, the sole bulwark upon which the power of the French might yet have been broken. He now hastens swiftly across the Inn and the Danube, unconcerned about the 150,000 men of Prussians, Saxons, and Hessians who threaten his rear.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-30">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-30">Part 2, p. 30</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4315,9 +4632,11 @@ These upheavals, and the consequences that may yet all spring from them, England
 In this intellectual power, in this natural force, familiar with all that the art of military science in ancient and more recent times has to show, the Emperor Napoleon presents himself to the Germans in his military and diplomatic career. One ought not to have mistaken the greatness,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-31">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-31">Part 2, p. 31</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4341,9 +4660,11 @@ But the German powers were possessed by envy and ill-will toward him and his arm
 While the Prussian army, during a twelve years' peace, brought elementary tactics to the highest perfection, while in the evolutions
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-32">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-32">Part 2, p. 32</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4355,9 +4676,11 @@ nicht ein Schritt gethan werden konnte, welcher nicht berechnet war, lernten die
 not a step could be taken that was not calculated, the French were learning practical war, in which acting by angles and paces, the finding of alignments by points of support and points of sight, falls away altogether. While the theoretical manoeuvrers at the autumn manoeuvres, after the old humdrum routine, with attacks in echelon and retreats in checkerboard, drove the supposed enemy from heights and out of woods; took the flanks, and let those same be taken; made bridge-crossings and bridge-withdrawals with all formalities (in which, when it comes to the real thing, everything is quite otherwise) — the war-practitioners had meanwhile learned to tear the enemy armies apart, to sever limbs from the whole body, to encircle corps and to disarm them. If with a soldier, where the parade is loved, it is the greatest of all crimes when the soldier on the parade march holds his head a hair's-breadth too far to the right or left of the proper position, and does not carry his musket so that it makes a dead-straight line with the whole rank, then among the French no attention whatever is paid to this; their whole endeavour at drill is directed toward shooting well and accurately, and toward making themselves familiar with the advantages of the terrain. If on the marches of a parade-soldier everything is calculated by beat and art, and the chief or commander of such a regiment, in his elation, surpasses all the heroes of ancient
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-33">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-33">Part 2, p. 33</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4373,9 +4696,11 @@ and modern history, when the same, after a completed march of five or six miles,
 The engineer corps and the artillery of the French had, ever since Vauban, been granted precedence over those of all other armies, because since the War of the Spanish Succession no other European army had understood the art of attacking and defending fortresses better than the French. In another tactical respect, on the other hand, people imagined that they in turn held an advantage over the French; in particular they laboured under the delusion that if a French army should attempt to meet a German army on the plain, it must inevitably suffer a defeat. But the events at Ulm and Austerlitz brought these opinions down a peg, and yet what wounded the sense of honour above all else was that the Emperor Napoleon presumed to declare publicly that he pronounced the French infantry the first in the world.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-34">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-34">Part 2, p. 34</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4391,9 +4716,11 @@ The intrepidity which the French infantry displayed at Ulm before the sabre of t
 The Prussian cavalry, trained in the school of Frederick II. and made brisk and supple by General Seidlitz, had a reputation so well proven that even the Emperor of the French seemed to fear it, in that before the battle he warned his troops to be on their guard against the Prussian cavalry. But this too vanished at Jena. A proof that all things in the world are transitory, and that with the cavalryman it depends neither on the bridling nor the handling of the horse, nor on the dexterity and swiftness of the rider, to spread terror, ruin, and death: rather, all this depends more on the common spirit and on the leadership. Had the battle of Jena been directed by a Frederick the Great, and the cavalry led to the charge by a Seidlitz, a Ziethen, and a Dalwig: it would not have lost its reputation; for cavalry and infantry fought like the old Prussians for eight hours with a lion's courage, notwithstanding that it had not escaped even the commonest
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-35">Part 2, p. 35</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4409,9 +4736,11 @@ man that the greatest confusions prevailed at the beginning of the battle, and t
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-36">Part 2, p. 36</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4437,9 +4766,11 @@ Although I do not belong to the now-numerous fools who, puffing themselves up mi
 God be praised! — so I cry — God be praised, that we have advanced so far in time that those fearfully black clouds which rained upon us have passed over our heads, and now hang only in grey distance upon the horizon, a point of remembrance of what was accomplished and endured! God be praised, that in appearance we have weathered the worst! Hemmed in by the ill-fated darkness
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-37">Part 2, p. 37</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4455,9 +4786,11 @@ of events we stand, all the misery that falls crushingly upon mankind presses us
 Step back with me, you Prussians who love your homeland, and behold the hut become a house and the house become a palace! Step back with me into the seventeenth century and pause gratefully with me before the person of the Great Elector Frederick William, before the creative genius of the Prussian state. It is he, he who called forth light out of the darkness, and in gratitude for this the patriot today and forever passes by his
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-38">Part 2, p. 38</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4481,9 +4814,11 @@ which he caused to break forth. Honour and praise to his shade. He laid the foun
 Less for the welfare of the land in the nobler sense of the word did his son and successor Frederick, the first King of Prussia, whom one ought to name the Vain, accomplish. Berlin, as a single city, has to thank him for the laying out
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-39">Part 2, p. 39</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4495,9 +4830,11 @@ der Friedrichsstadt, den Bau des Schlosses, des Zeughauses, mehrerer Kirchen, de
 of the Friedrichstadt, for the building of the palace, of the arsenal, of several churches, of the Long Bridge, and for the erection of the monument to Frederick William the Great Elector; besides this he founded the University of Halle and the Academy of Sciences at Berlin, called several famous and far-seeing men into his realm, established the mirror manufactory at Neustadt an der Dosse, and set up the salt-works at Halle; but what part the craving for splendour played in his actions, and that he did not do the thousandth part of the good he might have accomplished, has long since been decided. He divined little or nothing of the positive vocation of a *King*, whose dignity he appropriated to himself; unworthy favourites reveled beneath him upon the sweat of the poor, while subjects sighed under the burden of oppressive levies. Petty ambition led him to commit several imprudences which endangered the true royal dignity and the interest of the realm; for — in order to be able to crown himself King — he bound himself to lend the German Emperor Leopold I., throughout the entire War of Succession, 10,000 auxiliary troops maintained at his own expense. To maintain a garrison in Philippsburg, in imperial affairs always to make common cause with the Emperor, always to give his vote in the imperial election to the House of Austria, and finally to renounce all arrears of very considerable subsidies. What great sacrifices for the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-40">Part 2, p. 40</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4513,9 +4850,11 @@ permission to let the hobby-horse gallop, for the game of playing at crowns!
 But chance enlarged the Prussian territory still further under him, through the purchased County of Tecklenburg and through the inherited Counties of Mörs, Neufchatel, Lingen, and half of Mannsfeld. But the presiding destiny made use of the prince's weakness to apply the outer lever to the realm, so that it might be borne upward, to smooth the first paths for the energy of his heirs. The accession to the royal throne was — as a great writer says — a bait which Frederick I. cast out to all his successors, and by which he seemed to say to them: I have won you a name, make yourselves worthy of it. I have laid the foundation of your greatness, you yourselves must complete the work! And so let his memory too be dear to us Prussians. He was an instrument in the hand of the Director of things. In his successor Frederick William I. there was not the least cultivation, but assuredly that high power which gives a throne dignity and permanence, and full thrift to lend inner firmness and durability once more to an edifice which, through the prodigality of the earlier splendour-loving possessor, had become more brilliant but also more unsound. Scarcely upon the throne, he began with enthusiasm the lofty work of bringing order into the ostentatious chaos. How the paltry luxury at court vanished before the love of order and the thrift
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-41">Part 2, p. 41</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4531,9 +4870,11 @@ of the vehement one! how the 88 superfluous chamberlains, who like the birds of 
 When he presented the *Nassau*, *Salzburg*, and *Bohemian* colonists with considerable sums to defray the costs of travel and of first establishment,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-42">Part 2, p. 42</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4549,9 +4890,11 @@ certain Prussian councillors, vulture-like gluttons, believed they could profit 
 By this vehemence of his he trained a people naturally sluggish to the swift execution of his commands; to active striving after prosperity, to order and thrift he guided them by his own example. Rough he was, like his age, and violent, but he knew those about him and what had effect upon them; his severity, his iron self-activity, his firm will heightened the self-reliance and infallibility of the ruler. He had to see everything himself; read, do, do not raisonner! he cried hotly whenever another wished to know something better than he did, but as a rule this cry was also in its right place,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-43">Part 2, p. 43</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4571,9 +4914,11 @@ Would that he might rise again today out of his tomb, and lay about him! To be s
 His memory is praised by a thousand monuments; the Berlin Cadet Corps, the Potsdam Orphanage, the Charité, and many another benevolent institution stand there as his works, to awaken the gratitude of posterity. He put the fortresses of Wesel, Magdeburg, Stettin, and the fort of Memel into respectable condition, bought landed estates for 7 millions, brought the army from
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-44">Part 2, p. 44</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4605,9 +4950,11 @@ Ah! what a kindly, creative spirit then presided over our fatherland! The man up
 A sound policy, such as none of his forefathers had ever developed, he demonstrated in the acquisition of Silesia, in the fortunate conclusion of the Seven Years' struggle, and in the first partition of Poland.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-45">Part 2, p. 45</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4623,9 +4970,11 @@ A sound policy, I say, and I beg the reader not to forget that policy and morali
 Frederick won a flourishing province, Silesia, and doubled his army. But he did more, infinitely more. He poured a lofty spirit over the dead military machine, he formed soldiers into warriors and heroes; he made Prussia formidable; he was the creator of his people's prosperity, its judicious lawgiver. He — but why repeat what thousands before me, fired by his great deeds, have told well, and other thousands, from greed of gain, have written badly: what new thing could I add? In any case, necessity will yet lead me back to him in what follows. What the peerless one was to our fatherland, the Prussian feels, and the foreigner feels. He inspired his contemporaries and later generations to
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-46">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-46">Part 2, p. 46</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4645,9 +4994,11 @@ We have lost him, and with him lost all! Of this and no other conviction was the
 *Hinc illae lacrymae!* (hence these tears!) It is precisely this that leads to ruin. God forgive the men who must let themselves be governed, when they wish rather to possess a malignant ruler, if only he acts vigorously and consistently, than a wavering crown-bearer, in the grip of every petty passion — rather a complete devil
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-47">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-47">Part 2, p. 47</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4667,9 +5018,11 @@ Indeed, both names have become the most significant in the history of Prussia, a
 He inherited provinces and conquered Great Poland, but the former did not round out the realm, and the acquisition of Poland laid a devouring cancer upon the very marrow of the state. Under him the army grew larger, but only, to all appearance, stretched thinner; it grew longer and — thinner. Yes, truly, by his acts and by his example he drove out, as a hostile thing, the spirit that reigned within it, and nothing remained to it but the pretension, that pride which under Frederick had stood in its place. In those days the soldier deserved the respect of the citizen, for he protected him and his property, he suffered and died, in case of need, for him; but henceforth he only tormented him, whether actively or passively, and what before was noble pride now became petty
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-48">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-48">Part 2, p. 48</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4689,9 +5042,11 @@ All this is not newly said, I know it well, but now it is more necessary than ev
 He died, and his son Frederick William III. came to the throne: had he been the direct successor of Frederick II., it is very probable that matters would now stand somewhat better: I say *somewhat*, for he could not make impossibilities
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-49">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-49">Part 2, p. 49</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4707,9 +5062,11 @@ possible; he could not conjure away the great defects in the military situation 
 Strict integrity, modesty, good nature, and thrift are the principal traits of his character: thus he would be the most amiable of private men, for all the civic virtues adorn him; to be an excellent ruler he lacks only the clear vision of his great-uncle — with that, he would be great! He bears but a small part of the guilt for the present general misfortune; let one beware of loading it wholly upon him. He found the finances in disorder, an army decayed in spirit, a population of ten million souls, and among them 250,000 warriors to be paid. Where, in that, is the ratio of income to expenditure, of army to populace? He took over a kingdom composed of many provinces, some of them small, scattered here and there, unprotected. He found ministers who said to him: If the state is to subsist, if the treasury is to grow, a great quantity of grain must be exported! He believed this, for he knows how poor in money Prussia is; he supposed the people to be prosperous enough to pay somewhat dearly for their bread; he believed it, for being himself upright in the highest degree, he trusted in the love of honour and the honesty of the state officials.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-50">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-50">Part 2, p. 50</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4725,9 +5082,11 @@ Had he known that one and another of these dealers in estates and grain spoke th
 He wished to economize, and therefore he permitted the export of grain; he wished to curb the encroaching luxury, and therefore he supported many manufactories in the land too little or not at all: had he known the misery of the workers, he would have acted otherwise. He still believed in the heroic mettle of the army, which he heard everyone extol; but this had for the most part perished in the frivolous spirit of the age. He still held the officer corps to be the prop of the edifice of state, the guard of the throne and the realm; but only the quantity remained, the quality was gone, the form had endured, the spirit had evaporated; the nobility, as a rule no longer noble, knew only rights and not duties, and the warrior had lagged behind in warlike accomplishment. Under such gloomy prospects he ascended the throne of his forefather. Well knowing that peace is a bringer of good fortune in every state; well acquainted with the circumstance that Prussia had, with
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-51">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-51">Part 2, p. 51</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4743,9 +5102,11 @@ France, but one interest, he declined all alliances against her and did not bite
 The war between France on the one side and Austria together with Russia on the other flared up anew; despite the pressing of both parties, the King chose neutrality: that was well! But a Franco-Bavarian army passed, despite the proclaimed neutrality, through Ansbach; our warriors marched down into Franconia, and the public believed that the monarch, in those then favourable circumstances, would demand satisfaction for the affront he had suffered; but all remained still, and our army returned to its garrisons: that could not be called well. When one sacrifices one's dignity to the love of peace, then by such a peace more is lost than won! Count Haugwitz went to Vienna; we gave up various provinces on the Rhine and in Franconia, and received in return — the Electorate of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-52">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-52">Part 2, p. 52</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4769,9 +5130,11 @@ England and France, and France and Russia, begin peace negotiations; our cabinet
 When our army marched, almost everyone became a prophet of doom; nor was it, under the circumstances, at all difficult to guess the outcome. One could
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-53">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-53">Part 2, p. 53</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4795,9 +5158,11 @@ To what results did the parallels lead?
 Some of our blockheads, in ignorance and faint-heartedness, made great blunders in positions and movements, while over there everything was done according to the strictest laws of unity and insight.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-54">Part 2, p. 54</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4821,9 +5186,11 @@ The Prussians were beaten, and the enemy pressed across the undefended, still-br
 The fortresses of the land fell without resistance, for the venal or faint-hearted commanders — here the pen falters, and is capable only of setting down a thousand curses upon those wretches: misery and contempt be the traitors' lot, so long as they drag their disgraceful existence about with them; may their funeral dirge be the croaking of ravens, shame their grave; never may the sacred soil of the Fatherland, in which brave Prussians slumber, cover their weathered skulls, and may late grandchildren spit when they name the infamous appellations of the modern Cartouche!
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-55">Part 2, p. 55</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4839,9 +5206,11 @@ There we now stand, almost poorer than beggars, for they still hope, we scarcely
 A happy little folk lives in our midst: the orthodox (so-called) *patriots*! These good people suck from every rumour of the defeats of the French — perhaps invented in idleness — nourishment for their expectation, as bees draw honey from every flower. But even if those tales contained strict truth: can Russia's victories give us back the lost remnant of prosperity in which we vegetated? Can that power trample the high might of the Franks into the dust? And could it really do so: should we gain thereby? If we are to be ruled by foreigners, then — surely every impartial man agrees with me on this — then let the cultivated, harmless inhabitants of France be our rulers.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-56">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-56">Part 2, p. 56</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4869,9 +5238,11 @@ Only two cases are possible: total cessation, or gradual renewed flourishing. A 
 In the latter case, matters proceed in ponderousness, inconsistency, disorder, and darkness, and the good old clockwork, without repair, soon runs down in irregular convulsions. The Cabinet acts once more so inconsistently that it becomes possible to be at war at once with both England and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-57">Part 2, p. 57</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4887,9 +5258,11 @@ France, as in the past summer.
 The military returns to its garrisons. A few young gentlemen in shining uniforms, enervated by dissipations of every kind, invalid in spirit, who perhaps ran away at Jena, attempt once again, as of old, to abuse the burgher through petty arrogance; complaints are made, the matter is presented to the King from a false side useful only to the officer, and the aggrieved burgher is now punished into the bargain for having dared to offend the Herr Von. Now, when one has come to know several of these gentlemen, now the thing rouses indignation, the tension between the two estates grows ever greater, the oppressed gnash their teeth, the favoured sneer, until at length the private quarrel gains publicity; the prejudice that so few did their duty at Auerstädt and Jena keeps blowing upon the smouldering sparks: one gust of wind, and the flame of revolt will blaze up in consuming fires. The common soldier is treated merely as a machine for the direst emergency, and beaten like a donkey at the slightest occasion: thus the already meagre remnant of the sense of honour of the Marker and the Pomeranian is lost, together with the attachment to the King and the fatherland, and the affection for his estate, which on the whole is not durable; he learns only, under constant torment, to march and perform parade
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-58">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-58">Part 2, p. 58</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4909,9 +5282,11 @@ Everything incompetent, provided only it be of the nobility, remains at its deri
 The wealthy landed proprietors, with the helm of state in their hands, retain for themselves and their colleagues, the country nobility and the Jews, their monopoly of carrying off the marrow of the land, our grain, in enormous quantities, so that the other estates are impoverished. Oh, those gentlemen understand the art of letting the poorer class of the people starve quite methodically, until despair leads to revolt and internal war, and one and all of us perish, in Heaven's name, as prey to the bloodsuckers who crawl about the steps of the throne. (We have now learned to distinguish, we have seen at what moderate prices bread-corn could now, in wartime, be sold, and at what enormous prices it was given to us before.) Alas, in these cases it must so happen, so, and not otherwise. Here is no poetic exaltation, no exaggeration, only naked, bare
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-59">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-59">Part 2, p. 59</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4931,9 +5306,11 @@ But there remains to us the better comfort that all the old has passed away and 
 To his other amiable virtues there then joins itself self-activity and confidence in himself; he chooses from his entourage only a few proven wise and honest men as counselling friends. The old dust is gradually swept out; those servants of the state who only let themselves be fed without serving with goodwill may seek other sustenance. The beginning of this has already — so far as we know — been made; let the soldier be made a hero less by the cudgel than by spiritual incentives; let the officer set more store by real honour than by that insipid oath: Upon my honour! which, like a discredited coin, no longer passes anywhere. Let merit be placed in posts of honour and in spheres of activity, no matter whether it be protected by ancestors or not; let him cease to be a nobleman who is not noble. Let the nobleman who disgraces his name through the maltreatment of a burgher or through other outrages lose that name
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-60">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-60">Part 2, p. 60</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4957,9 +5334,11 @@ What nature gave our fatherland in stepmotherly fashion, let the sovereign's car
 Eternal pity that our earthly gods no longer go about in disguise as of old, in order to see, hear, and judge for themselves on the spot. What experiences might be gained in this way; but they shun the chambers of misery and the huts of the poor in the land, and yet there alone is instruction to be found as to how one might help down below; those who stand up above help themselves — God have mercy! — well enough on their own.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-61">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-61">Part 2, p. 61</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4983,9 +5362,11 @@ Naturally the half-shattered State, thus tended, will pass little by little back
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-62">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-62">Part 2, p. 62</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5025,9 +5406,11 @@ Naturally the half-shattered State, thus tended, will pass little by little back
 > "How well things would stand with the King of Prussia, had he not lent his ear to the seductive words of an imprudent princess" — (the Queen, that is, of whom mention was made earlier) — "and how fortunate is the nation whose women, faithful to the voice of nature and devoted solely to the duties of their sex, are enemies
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-63">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-63">Part 2, p. 63</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5107,9 +5490,11 @@ of the war, and are removed from the deliberations of the cabinet."
 > **The Prince.** — — After their present successor had long remained the quiet spectator of the fruitless efforts of his neighbours around this river
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-64">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-64">Part 2, p. 64</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5149,9 +5534,11 @@ of the war, and are removed from the deliberations of the cabinet."
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-65">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-65">Part 2, p. 65</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5215,9 +5602,11 @@ Their true value, 20 million thalers.
 Notes and Corrections. The annual revenues of these eleven estates now amount, at the very least, to 8000 thalers. Their true value may therefore indisputably be reckoned at 100000 thalers. The deed of donation is dated Berlin, 14 January 1797, and signed by Hoym and Rech. It reads: As a token of Our most gracious satisfaction with the long years of faithful and upright service rendered to Us and Our Royal House, etc. And nearly all of them read thus.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-2-66">
+<section class="lit-passage has-related" id="p-2-66">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-66">Part 2, p. 66</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5271,14 +5660,18 @@ Note. This so very low valuation is notorious; for Bischofswerder sold these fou
 Note. Since the annual revenues certainly amount to 6000 thalers, one may without hesitation reckon the true value of these five estates at 120000 thalers.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more. He names Bischofswerder's, which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a year and now bearing some 20,000; Dolffs's, which Treskow was selling for 360,000; and General Rüchel's, sold for 140,000. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth about 350,000 together, and Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The entry repeats the note the register prints with Bischofswerder: the four estates sold to Lüttichau for 25,000 Friedrichsd'or. The letter of 13 March 1799 has Triebenfeld himself selling them, for 207,000 rt, after an assessment of at most 1,500 rt a year.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+<p>The entry on Blücher (28000 Thlr., the income certainly 6,000): the dossier's proposal gives the Duninow estates a yield of 1,500 rt and a value of 30,000 rt, among the deeds of 9 August 1796 — the yield of the proposal and the income of the register's note do not agree.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-67">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-67">Part 2, p. 67</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5360,9 +5753,11 @@ Note. Sold in June 1801 for 25000 Thlr.
 Note. Now leased to a certain von Jaworowitz for 2000 Thlr. annually. True value 40000 Thlr. After the riot at Breslau, in which 72 persons perished, Eisenberg had to travel to Breslau and investigate the affair. On that occasion Hoym fell on his knees before Eisenberg and begged him, for God's sake, not to ruin him. Hence, later, this donation. Deed of donation dated Berlin, 25 January 1797.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-68">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-68">Part 2, p. 68</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5422,9 +5817,11 @@ Note. Leased to a domain lessee (Amtmann) Nehring for 1500 Thlr. annually. True 
 Note. The annual yield of all these estates already now approaches 10000 Thlr.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-2-69">
+<section class="lit-passage has-related" id="p-2-69">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-69">Part 2, p. 69</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5480,14 +5877,16 @@ Note. These estates, together with those designated under No. 8 in the Departmen
 *1–5: Fraustadt; 59000 Thlr.*
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>The black register lists the estates given to the Prince of Hohenlohe, Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift yielding 6,000. It says that the Prince himself gave the cabinet that yield when he tried to exchange the estates for the crown domain of Krotoszyn, and that the cabinet councillor Beyme stopped the exchange. Cölln answered in 1807 that it was the minister Voss who stopped it, and the letters bear him out. They hold the gift of 1796; the King's refusal of December 1798 on Voss's report, by which estates valued at a yield of 8,650 a year now brought 40,500; the Prince's answer, that his estates yielded 41,500 and Krotoszyn's rent was 30,100; and his later petition.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The entry is the one the Materialien reprints: the estates worth about 800,000 Thlr. and yielding 50,000, the exchange for Krotoschin stopped by Beyme, the late King having consented to a gift of 6,000 a year. The edition holds both ends: the dossier of July and August 1796 with Hoym's proposal (a yield of 4 to 6,000 rt) and the deed of 9 August, and the King's refusal of 4 December 1798 with its yield of 40,500 against 8,650.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-70">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-70">Part 2, p. 70</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5531,9 +5930,11 @@ Note. The true value is about 100000 thalers and the annual yield between 4 and 
 *1–2: Brzesc; 9000 Thlr.*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-71">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-71">Part 2, p. 71</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5581,9 +5982,11 @@ Anmerk. Diese Güter zusammen mit denen Nro. 10. im Departement von Kalisch, sin
 Note. These estates, together with those under No. 10 in the Department of Kalisch, are worth 800,000 thalers. The circumstances surrounding this Lüttichau are very confused and puzzling. One therefore contents oneself here with merely noting that he at times lent his name to donations that were in fact received by others who were not to be named. This was the case, for example, with the estate of Tarnowo, No. 7, situated two miles from Posen, which Government Councillor von Grävenitz in Posen received as a reward for deciding, in the divorce suit of the foolish Count Gurowsky against his wife, a daughter of the Bischofswerder family who had been foisted upon him, so much in favour of this person that 72,000 thalers had to be paid out to her by her husband. Grävenitz gave Lüttichau 3,000 thalers for Tarnowo and afterwards sold it for 65,000 thalers. Likewise Lüttichau had to cede the estate of Konojad, No. 8, to Justice Councillor
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-72">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-72">Part 2, p. 72</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5631,9 +6034,11 @@ Reinhard in Posen, pursuant to a convention secretly concluded with Hoym, as a r
 Note. This donation, on account of its excellent, well-rounded situation and the flowing-through of the Obra, is one of the most considerable, important, and beautiful. It is now judicially assessed at 500,000 thalers, and is fully worth this. The subtle Italian, with priestly keenness of eye, correctly spied out the best spot and knew how to appropriate it to himself. His former diplomatic exertions in Warsaw are hereby richly rewarded. It was fair that from the partition of Poland, which he brought about, he should get a piece. This starosta domain of Meseritz formerly belonged to Prince Jablonowsky. The deed of donation, dated Berlin, 14 January 1797, reads: In proof of Our most gracious satisfaction with the faithful, distinguished, and beneficial services rendered to Us and Our Royal House etc.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-73">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-73">Part 2, p. 73</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5681,9 +6086,11 @@ Note. Recently sold for 30,000 thalers.
 Note. Frederick the Great is said to have formerly done him a wrong regarding various claims to a fief in Pomerania, whence this compensation. The reason may, at any rate, be listened to. Among the present examples it is at least one of the best. Schwichow has now sold these three estates to Government Councillor Fromm in Posen for 40,000 thalers. Deed of donation dated Berlin, 25 January 1797.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-74">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-74">Part 2, p. 74</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5731,14 +6138,11 @@ Anmerk. Owinsk hat treffliche Waldungen und die nahe daran gränzende, eine kön
 Note. Owinsk has excellent forests, while the neighbouring former starosta domain of Szrim, which has become a royal domain, has not a single tree, so that the official in Szrim must buy not only his building timber but even his firewood from Treskow, and this purchase has to be credited to him on the domain establishment of Szrim. Near Owinsk and Szrim lies the lordship of Murawanna Goslina. This the daughter of the Bischofswerder family (see the note to No. 14) obtained from her husband in place of the 72,000 thalers in cash that Grävenitz awarded her. Hoym thereupon bought her Murawanna Goslina from this lady for 72,000 thalers, and sold it again to Treskow for 120,000 thalers. What a traffic! Treskow, however, is the most useful of all the donees on account of the tireless, sensible, indeed lavish zeal with which he sets his estates in order and makes his peasants industrious. These estates, together with those recorded under No. 10 in the Warsaw Department, have a value of approximately 350,000 thalers.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more. He names Bischofswerder's, which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a year and now bearing some 20,000; Dolffs's, which Treskow was selling for 360,000; and General Rüchel's, sold for 140,000. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth about 350,000 together, and Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
-</aside>{% raw %}
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-75">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-75">Part 2, p. 75</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5772,9 +6176,11 @@ In the deed of donation dated Berlin, 24 January 1797, nothing further is given 
 Note. He formerly belonged to the Prussian party in Warsaw and is an insufferable man, without any understanding, yet withal an exceedingly arrogant babbler. These estates were given to him only to stop his mouth. Their leasehold yield is 4,000 thalers annually.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-76">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-76">Part 2, p. 76</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5800,9 +6206,11 @@ Anmerk. Diese Güter sind eigentlich dem Obristen von Köckeritz, General-Adjuta
 *Note.* These estates were in fact given to Colonel von Köckeritz, Adjutant-General to the King, and were donated and recorded in the name of this brother-in-law only because he and his brother-in-law, on the basis of a covenant of hereditary succession existing between the two of them, regard and treat their joint property as one. To the honour of Köckeritz it is here noted that Hoym had to offer him this donation four times, and in the end to press it upon him, before he could bring himself to accept it. And even then he accepted it only after he had given notice of the matter to the Crown Prince (the present King). One may observe, moreover, from this manoeuvre of Hoym's how urgently he strove to ingratiate himself in good time with the closest friends of the heir to the throne and to win them over to himself as far as possible. Deed of donation dated Berlin, 25 January 1797. It reads: In order to give Unruh a token of Our Royal favour and grace, We have resolved etc.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-2-77">
+<section class="lit-passage has-related" id="p-2-77">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-77">Part 2, p. 77</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5860,14 +6268,16 @@ Czermno
 ---
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more. He names Bischofswerder's, which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a year and now bearing some 20,000; Dolffs's, which Treskow was selling for 360,000; and General Rüchel's, sold for 140,000. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth about 350,000 together, and Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The entry on Zastrow (87650 Thlr., not yet valued, worth at least 200,000): the letter's reckoning — meant to bear some 2,000 rt, bringing beyond doubt some twenty thousand.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-78">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-78">Part 2, p. 78</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5931,9 +6341,11 @@ Note. The Cabinet Order of 20 April 1797 begins, like most similar ones to Hoym:
 In the deed of donation the late King established, in perpetuity, a considerable and peculiar remission of the dues on these estates, below even the fixed taxes of the nobility. Improved with this privilege, Goldbeck jun. sold them to a Baron von Seld for 62,000 thalers. Very much to his own loss, however. For according to the judicial assessment, which Seld had drawn up, is
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-79">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-79">Part 2, p. 79</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -5987,9 +6399,11 @@ Note. He is the only one who was cheated in this donation business; for he sold 
 Note. It is said that this man, out of patriotism, takes no salary as Minister but serves for nothing. Nevertheless it is quite certain that he did after all take these estates and has already sold them for 200,000 thalers.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-2-80">
+<section class="lit-passage has-related" id="p-2-80">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-80">Part 2, p. 80</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6087,14 +6501,16 @@ Note. Not granted hereditarily; but only a confirmation of the grant made in Pol
 *1–6: Kalisch; 7–8: Adelnau; 1–8: 26,000 Thlr.*
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>The black register lists the estates given to the Prince of Hohenlohe, Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift yielding 6,000. It says that the Prince himself gave the cabinet that yield when he tried to exchange the estates for the crown domain of Krotoszyn, and that the cabinet councillor Beyme stopped the exchange. Cölln answered in 1807 that it was the minister Voss who stopped it, and the letters bear him out. They hold the gift of 1796; the King's refusal of December 1798 on Voss's report, by which estates valued at a yield of 8,650 a year now brought 40,500; the Prince's answer, that his estates yielded 41,500 and Krotoszyn's rent was 30,100; and his later petition.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The entry gives the Prince's Konin villages — Trobozyn, Nowa-Wies, Oszyni, Lazy, Szellewen — at 12,000 Thlr., the register's share of an official valuation its Posen entry carries at 77250 Thlr. (89,250 together), where Hoym's proposal of 14 July 1796 had counted all the Prince's items at 120,000 rt; and where the register prints a valuation, the letters give a yield: Triebenfeld reports the Trąbczyn estates alone bringing 8,400 rt by March 1799.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-81">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-81">Part 2, p. 81</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6178,9 +6594,11 @@ Note. Sold for 20,000 thalers. The Cabinet Order is dated 20 April 1797.
 Note. The judicial assessment of the Government in Kalisch amounts to 200,000 thalers. Pontanus could have obtained this price, but nonetheless would not sell.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-2-82">
+<section class="lit-passage has-related" id="p-2-82">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-82">Part 2, p. 82</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6218,14 +6636,16 @@ Anmerk. Rüchel bekam die Herrschaft Osterczeczow oder die 7 ersten Nummern, lau
 Note. Rüchel received the lordship of Osterczeczow, or the first 7 numbers, according to the deed of donation, under the title of a grace-and-favour estate and by an assessment of 20,000 thalers as a gift. Immediately after the donation a whirlwind swept through the great forests of this grace-and-favour estate and actually threw down a few firs. At this Rüchel raised a mighty outcry and pretended that he did not even want to keep this supposedly ruined grace-and-favour estate at all. Hoym thereupon had the windfall assessed at 40,000 thalers and arranged for Rüchel to be given, by way of compensation, Kalischkowice as well, at an assessment of 10,000 thalers. Now it was not long before Rüchel sold all 8 estates, without ever having visited or seen them, to Government Councillor von Reibnitz in Kalisch for 130,000 thalers. After the purchase Reibnitz had them judicially assessed, and it was then found that the lordship of Osterczeczow, or the first 7 estates, is worth 341,000 thalers and the ecclesiastical estate Kalischkowice 39,000 thalers, all together therefore 380,000 thalers. Now Rüchel wanted to sue Reibnitz, claiming that he had been injured by more than half, and to rescind the sale,
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more. He names Bischofswerder's, which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a year and now bearing some 20,000; Dolffs's, which Treskow was selling for 360,000; and General Rüchel's, sold for 140,000. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth about 350,000 together, and Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The entry gives Rüchel's eight estates at 30,000 Thlr. and tells the making of the gift (an assessment of 20,000, Kalischkowice added for the windfall timber at 10,000), then the sale to Reibnitz for 130,000 and the judicial valuation of 380,000. The letter: the Rüchel estates were to bear 940 rt a year and were sold for 140,000.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-83">
+<section class="lit-passage has-related" id="p-2-83">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-83">Part 2, p. 83</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6271,16 +6691,18 @@ Euclid teaches that the part is smaller than the whole, and God Himself cannot a
 Note. In the spring of 1797 these exceedingly excellent estates were assessed by the Government in Kalisch, after deduction of all taxes and dues charged upon them, at a net value of over 700,000 thalers. Among others the following estates, in the following manner:
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>The black register's entry on Triebenfeld gives his estates as valued at 31,000 Thaler when they were given to him, with 20,000 paid for the lordship of Laski. The Kalisz government valued them in the spring of 1797 at over 700,000; he sold them to Prince George of Hesse-Darmstadt for 400,000, and Prince George sold them on in March 1801 for 750,000. Triebenfeld's letters to the Prince of Hohenlohe give the same valuation (over 700,000, April 1799) and the same resale (750,000, February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800). Cölln remarked in 1807 that the figures include estates that were Triebenfeld's own.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
-<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more. He names Bischofswerder's, which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a year and now bearing some 20,000; Dolffs's, which Treskow was selling for 360,000; and General Rüchel's, sold for 140,000. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth about 350,000 together, and Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The Triebenfeld entry opens here: the first four numbers assessed at 31,000 thalers at the donation, the lordship of Lasky taken for a hereditary-tenure sum of 20,000, and the Kalisch assessment of spring 1797 at over 700,000 thalers. Triebenfeld's letter of April 1799 gives the same tax from his own hand: the estates he sold to Prince George stand at over 700,000 rt, reckoned by himself at some 500,000.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a></p>
+<p>The entry ends with the sale's reckoning: Reibnitz drawing 12,000 a year and still owing Rüchel 90,000 at 5 per cent, and the Euclid sarcasm on an assessment of 20,000 against forest damage of 40,000. The letter's comparison stands beside it: the Rüchel estates, meant to bear 940 rt a year, sold for 140,000.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-84">
+<section class="lit-passage has-related" id="p-2-84">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-84">Part 2, p. 84</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6334,14 +6756,16 @@ Kamsko
 Note. True value 50,000 thalers. Stromberg now sells alder-wood year in, year out for several thousand thalers. His brother, formerly a Russian major, then a South Prussian Landrat and now an official in Dolzig, was the one who was to marry Madame Schreiber in Breslau, former mistress of Minister Hoym, once the latter had tired of her. This too would have happened, had Schreiber not suddenly died.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>The black register's entry on Triebenfeld gives his estates as valued at 31,000 Thaler when they were given to him, with 20,000 paid for the lordship of Laski. The Kalisz government valued them in the spring of 1797 at over 700,000; he sold them to Prince George of Hesse-Darmstadt for 400,000, and Prince George sold them on in March 1801 for 750,000. Triebenfeld's letters to the Prince of Hohenlohe give the same valuation (over 700,000, April 1799) and the same resale (750,000, February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800). Cölln remarked in 1807 that the figures include estates that were Triebenfeld's own.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The itemized assessment (684,496 Thlr. 17 Gr. 8 Pf. for the five named, Nowa Wies and Schmardke still lacking), the sale to Prince George for 400,000 and the resale by contract of 9 March 1801 for 750,000. The letters tell it as their writer counted: over 700,000 rt at the tax against his own basis of some 500,000 (April 1799); his price to Prince George 280,000, the estates encumbered with 270,000 of debt (July 1800); and Prince George selling them for 750,000 rt (February 1801).</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-85">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-85">Part 2, p. 85</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6407,9 +6831,11 @@ Note. In the Berlin Intelligence Gazettes of June 1801 the first two estates alo
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-86">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-86">Part 2, p. 86</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6489,9 +6915,11 @@ The deed of donation, dated Berlin, 14 January 1797, reads: In proof of Our most
 Note. The deed of donation is dated Berlin, 17 June 1796. The annual lease amounts to 6000 thalers.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-2-87">
+<section class="lit-passage has-related" id="p-2-87">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-87">Part 2, p. 87</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6559,14 +6987,16 @@ Xiondczewice
 Note. He received this estate merely through an oversight. The Grand Chancellor von Goldbeck actually intended it for his son. But an error committed in
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more. He names Bischofswerder's, which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a year and now bearing some 20,000; Dolffs's, which Treskow was selling for 360,000; and General Rüchel's, sold for 140,000. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth about 350,000 together, and Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The entry on Dolffs (five estates at 20000 Thlr., the deed dated Berlin 9 August 1796) and the Goldbeck entry it leads into: the dossier holds the deed itself — Strzelec between Gostinin and Kutno, a yield of 1,000 rt, a value of 20,000 rt — and shows the Grand Chancellor Goldbeck, who had meant one of the estates of this very round for his son, expediting the deeds of 9 August 1796.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-88">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-88">Part 2, p. 88</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6638,9 +7068,11 @@ Note. The true value is at least 24000 Thlr. The deed of donation is dated Berli
 He actually presented himself with these estates and afterwards exchanged them to the Lubinsky family. In return, besides a sum of money that never became known, they gave him the lordship of Szyduik, situated two miles from Kalisch, which yielded 10000 thalers a year. This he finally sold to Justice Councillor Rönneberg from Mecklenburg for 198000 thalers.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-89">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-89">Part 2, p. 89</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6668,9 +7100,11 @@ The lordship and town of Osmolin
 Note. The deed of donation is dated Berlin, 3 May 1797.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-90">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-90">Part 2, p. 90</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6744,14 +7178,11 @@ Osermno
 ---
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more. He names Bischofswerder's, which he says was sold for 207,000 Thaler; Zastrow's, meant to bear 2,000 a year and now bearing some 20,000; Dolffs's, which Treskow was selling for 360,000; and General Rüchel's, sold for 140,000. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth about 350,000 together, and Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
-</aside>{% raw %}
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-91">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-91">Part 2, p. 91</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6779,9 +7210,11 @@ You wish to know something of the news of the day from Berlin; you call upon me 
 To the matter at hand: When someone has been on a journey, he has something to tell! says Asmus, and I add: even when he merely takes a walk, all manner of things cross his path that he may convey to his friends and acquaintances; it is the listener's task to lift the kernel — if any is to be found there — out of the shell! So then, listen: my humble self took a
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-92">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-92">Part 2, p. 92</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6801,9 +7234,11 @@ walk yesterday, and hereby conveys to you her experiences and observations; she 
 There a troop of French soldiers, who arrived only yesterday, marches ahead of me, all of them very young fellows of the latest conscription; they pass across the Wilhelmsplatz, close by the statue of General Seidlitz. What? The commander's countenance seems to take on life; his features shape themselves differently, between his eyebrows and on his brow the furrows deepen, the gaze takes on expression, the mouth seems to open to the question: Do I really behold a part of the French army? Are these the sons of those warriors I beat at Rossbach? How came they into the residence of my great King, my Frederick? Yes, good Seidlitz, you see rightly; they are
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-93">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-93">Part 2, p. 93</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6819,9 +7254,11 @@ it, they are here; but Fritz is no more, and few of your calibre command the Pru
 Beneath those trees a pair of men walk along solitary, two burghers conversing. Off to them — perhaps I shall overhear something. Right enough, they are absorbed in the subject of their talk, they do not notice me, I catch every one of their words; the friends lament to each other the misfortune of their present condition. When I — says the one — obtained the master's rights in the time of Frederick the Second and established myself, all went well: the King supported my manufactory-owner, and he supported me; as soon as a piece of cloth came off the loom, I carried it to him and received cash and good payment, and even an advance if I needed it. How different afterwards! The monarch does — probably for reasons — little or nothing for the manufactures; poor payment followed, and I even had at times to wait long for it; thus I came down like everyone of our trade. And now, on top of all, the unhappy war. All commerce has ceased, or is at any rate negligible, no one dares have anything made, to buy
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-94">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-94">Part 2, p. 94</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6845,9 +7282,11 @@ There again a group: several merchants, telling one another that in these days t
 What a herd of ragged beggars, small and grown, falls upon and detains everyone there: Naturally! Who can give much when he himself suffers want? Who can be charitable when he himself is impoverished? Who gives the industrious poor employment? To be sure, charity is the Berliners' foremost virtue — for which one forgives them
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-95">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-95">Part 2, p. 95</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6867,9 +7306,11 @@ I pass along the Wilhelmsstraße and come out under the Linden.
 My, how the crowd there presses and bustles, how the motley sea of uniforms, velvet, satin, taffeta, net-lace, cambric, muslin, calico, and broadcloth surges and billows up and down. There the beggars, and here the splendour. An oppressive contrast! Fops with spectacles on their noses, false calves, feeble nerves, and empty pockets; supple maidens with painted cheeks, whited sepulchres, and beside them their bread-thieves, pretty women with a wanton look, murderesses of their children, the shame of their husbands. The wenched-for gowns gleam and rustle and the borrowed net-lace dazzles: they are the sails and flags of a privateer. And there the matron, likewise decked out to a fright. And though at home the bed be pawned
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-96">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-96">Part 2, p. 96</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6881,9 +7322,11 @@ oder verkauft werden: vom äußern Glanze darf kein Millionentheilchen schwinden
 or sold: from the outward glitter not a millionth part may be allowed to fade. The woman is like a hothouse; take from her the warmth of the pawnbroker and the leaves fall off. On the arm of yonder lady hangs a National Guardsman whose trouser-seams are garnished fourfold with gold and whose buttonholes are trimmed with the same mass: but at home? There too, perhaps, is weeping and gnashing of teeth; his bearing shows that he is a tradesman, and he probably suffers like everyone else from the circumstances, but the gold cries out: Confound it, look here, how rich I am! O, poor glittering misery! why does the crowd so gladly choose you over modest propriety! Fortunately, walking beside the gold-man are three other National Guardsmen, respectably clad in the uniform as it ought to be. Well then, let the shiny fellow pass; among a herd of four there is bound to be one beast afflicted with the staggers. Do we not also now and then find foolish princes, generals, and priests; under the moon there travels no perfection at all. Puff yourself up as you please, brass-plated man, perhaps you, poor wretch, know no better joy! Only do not become, like the former gendarme officers, the haughty scourge of your brothers without a uniform — as your gold stripes suggest — for then we shall pass you by with a smile, though not with contempt. There again a National Guardsman with a military moustache! Ah, good heavens! What is this supposed to be: he seems to want to frighten old women
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-97">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-97">Part 2, p. 97</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6895,9 +7338,11 @@ graulich machen zu wollen, wie man zu sagen pflegt. Ein Bürger mit einem dito B
 grey, as the saying goes. A burgher with such a beard is a Cato with the whip, or summer in a fur cap. Ugh, how it glitters and dazzles from the palace all the way to here! And we are expected just now to render contribution and pay quartering-money, and it is precisely those glittering people who commonly sigh and complain most bitterly about the circumstance, wanting to be considered quite poor for it. You fools! What should be the barometer of wealth but your outward show? and it is such that one must take Berlin, in its oppressive poverty, for the richest city in Germany. If only someone would advise the authorities that the fools who dress and comport and squander themselves beyond their station and their means, merely for show, should be stripped of their rags of misery and have them auctioned off for the benefit of the wiser sort, and that a dress-code be introduced for the madhouse-dwellers, for much misery springs from it. They would gladly shirk all public burdens in order to purchase a showy doublet. If taxes are to be paid, one hears complaints and refusals; when quartering comes, they would gladly cry out in vexation, as a stingy Jewess did lately: But the Emperor of France sends all too many of his people down upon our necks; does our King really let so many march off to France? People perish in their folly.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-98">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-98">Part 2, p. 98</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6909,9 +7354,11 @@ Warum strömt die Menge nach jenem Punkte? Was giebt es da? Ah, es sind ohngefä
 Why does the crowd stream toward that point? What is there? Ah, about 150 Russians have arrived, French prisoners of war being led to the garrison commandant: pity and curiosity draw the people thither. I am pushed along with them, and cannot help but look at the prisoners too. Young men, but their misfortune has worn them down, they are pale and gaunt. A woman is busy distributing money among them; one sees that she gives *con Amore*, and so I ask a bystander the name of the charitable woman whose face speaks comfort and hope to the men while her hand hands them gifts. She is — the neighbour replies — the wife of the tailor Kräger from the Adlerstraße No. 7. How much good this woman, a native of Courland, has done for the captured Russians since they began passing through here is scarcely to be described, for that she merely gives them money is the least of it; but she supports the unfortunates still more actively and better. She and Countess Löwenstern, by their humane, almost motherly care, by their well-directed benefactions, have preserved or restored the lives of hundreds; they have nursed and refreshed the sick left behind at the pontoon house from almost every transport, with warm and undivided love of mankind; they have even staked their own health, going about among the gravely ill and half-dead (whose disease might perhaps be epidemic
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-99">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-99">Part 2, p. 99</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6931,9 +7378,11 @@ or whose exhalations poisoned the atmosphere) in order to ease suffering, to bri
 There at his window stands the town commandant, General Hulin, a very worthy man, strict in the enforcement of duty, but also kind and fair. The latter he has again lately proved. It was on the 10th of March, the Queen's birthday, and several families here, accustomed to celebrate this day, had company at home. One of General Hulin's adjutants
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-100">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-100">Part 2, p. 100</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6949,9 +7398,11 @@ from the Municipality was in one such gathering. It would surely be advisable �
 That group consists of Prussian officers, prisoners of war released on their word of honour. In the mournful look of some, in their bowed bearing, one may read the grief over their misfortune. Truly, there are many brave men among them. But others seem to take more pleasure in their present comfortable, idle condition than in the field, if only there were always plenty of coin! the wish seems legibly written in their bearing; it seems to me that in their whole demeanour, in their smile, lies the triumph: Thank God I have got so far, that I have knocked off for the day! There are several who (as the saying goes) are fat and sleek, who seem so content with their situation that they would not exchange it for any other. Thus, for instance, the G... S......, Lieutenant in the K...... regiment, only lately gave a costly ball at the English House. What must the thinker think when he hears that? First:
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-101">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-101">Part 2, p. 101</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6967,9 +7418,11 @@ Merriment is surely nowhere worse placed than in a Prussian officer taken prison
 The recruiters in Dutch service have achieved their purpose; they lead some twenty recruits away with them, and the gaping crowd streams after. Yes, yes, dear curiosity is the original sin of the Berliners. Everywhere people like to see something new, but nowhere does one run and gawk so passionately as here. If a person stands somewhere in a street who seems to be fixing his gaze on something, a crowd instantly gathers around him and the avalanche becomes a colossus. The cry: There, right on the French
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-102">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-102">Part 2, p. 102</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -6985,9 +7438,11 @@ Tower, the hawk is devouring a dove! is a magic spell by which hundreds are on t
 The throng draws out through the Brandenburg Gate, and I draw along with it. Before the gate the stream divides into several arms. Straight ahead it goes toward Charlottenburg on foot, on horseback, and by carriage, to the right toward the Tents, to the left to the Hofjäger and to Kersten's. An acquaintance runs into me, and to please him I saunter along to the left down to Kersten's. Whew, how full and gaudy. More crowded than ever: how comes that? The officials of various departments have in these days, in accordance with the Emperor Napoleon's promise, received their arrears of pay. The debts contracted out of necessity are paid, and one again indulges oneself. Well and good! But that alone cannot so fill the place. The gaiety of the spring day, the mania of being seen and of seeing, that is the cause. For no
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-103">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-103">Part 2, p. 103</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7015,9 +7470,11 @@ He. Prove it.
 I. The Duke of Brunswick commanded the army; he was sunk in negligence and in fault. He spoiled everything: why? He had not advanced in the spirit of the newer art of war, he had remained standing at the tactics of the Seven Years' War: the fault of the old men. The King took over the command; he lacks neither personal bravery nor a grasp of the whole, for in his own person he has before
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-104">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-104">Part 2, p. 104</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7029,9 +7486,11 @@ der Auerstädter Schlacht ein viel besseres Urtheil über die Zukunft gefällt, 
 the battle of Auerstädt he formed a far better judgment of the future than the higher masters of the art of war around him. At Weimar he voiced his apprehension of being turned on the left flank, but everyone contradicted him. After setting eyes on the French soldiers he judged them quite correctly, but those about him made him believe that he was mistaken. Julius von Voß<sup class="lit-fn"><a href="#n-en-10">10</a></sup> has set this out very well when he says: "But why did the King not act by his own tact of intelligence, and why did he submit, with such excessive modesty, to the counsel of so-called experience — which, as has indeed now been shown, did not, in its thirty or forty reviews, learn what it now mattered to know, or else did not understand how to adapt its dim recollections of the practice of the Seven Years' War to the case at hand? It seems to me the question answers itself in the following manner: Frederick the Great, in ordering the education of the sons of his nephew, followed principles all the more surprising in that he himself developed his own lofty intellectual powers not on the parade-ground of the tall grenadiers, but in the lap of the Muses, and in the company of the most cultivated men of his age. The princes, namely, were obliged as ensigns, lieutenants, and so forth of the Guard to submit for a long time to the rigours of petty service. This may have the merit that in unranked
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-105">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-105">Part 2, p. 105</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7051,9 +7510,11 @@ He. Not badly deduced. But then many things come into consideration that must be
 I. All the sin of the fathers, the fault of Frederick William II., who omitted all that he ought to have done for the further development of the army and for the preservation of the spirit within
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-106">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-106">Part 2, p. 106</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7077,9 +7538,11 @@ I. (breaking in) Why not rather a chess-player? The spirit of that game is more 
 He. All comparisons limp, and this one too. The disposition of army corps and of chess pieces do indeed have some resemblance, perhaps also the operations; but on the whole the allegory fits only by halves, for here no account whatever is taken of the calculation of physical forces, which yet at times come very much into the reckoning. But let me finish. Like a billiard-player, I say, our commander in the campaign of 1806 strikes me — one who has played for his amusement with his children on a little table;
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-107">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-107">Part 2, p. 107</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7103,9 +7566,11 @@ We went through the Tiergarten to the Zelte and found there, as everywhere, ever
 At Weber's by the water there sat at a table some political pundits (Kannengießer — literally "pewterers", a stock name for armchair politicians), who were just then disputing with hair-splitting precision; each defended his party lively enough, though now and then they eyed their neighbours as if they wished to ask: Are you eavesdropping on us too? Your obedient servant, gentlemen! Oh yes, if you please! I should have liked
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-108">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-108">Part 2, p. 108</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7121,9 +7586,11 @@ to answer, for I was just then busy snatching here and there a fragment of their
 You see, my good fellows — said A. — The French army is large, extraordinarily strong, every day reinforcement troops arrive, and how long will it be before the conscripts of the year 1808, eighty thousand fresh young men, are likewise in the field, for one must grant the French this: nimble they are as the wind, and that is why we Germans always get murderous blows dealt to us in all haste, because we take no trouble with speed at all. But, as I was going to say: since they are now so strong, I, if I were in the place of the Emperor of Russia, would likewise call up everything, and to the King of England I would say: Hey there, neighbour! Let him chase his people away from the roast-beef dish for once and let him embark some three or four hundred thousand men and bring them across, Scotchmen among them too, even if they have no breeches on, so long as they can shoot and hack and stab — it is not the trousers that do the business; and the King of Sweden would have to come as well with all his might. Dalecarlians and everything he would have to bring along, some hundred thousand men, and the Prussians who are still left would all have to come up, and I myself, I the Emperor that is, would set marching everything that had legs — a good million people I daresay I would bring together, everything would have to come
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-109">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-109">Part 2, p. 109</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7159,9 +7626,11 @@ B. The French commanders are incorruptible and the soldiers very brave.
 A. Quite right, all respect to them, but in the meantime great reinforcements of Russians have arrived near Stettin. Now it cannot possibly fail, we shall certainly get it, for our allies, the Kalmyks and Bashkirs, are cursed fellows. True devils they are; hard as cattle,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-110">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-110">Part 2, p. 110</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7185,9 +7654,11 @@ We turned once more toward the town.
 A man walking ahead of us was carrying a local newspaper in his hand and reading the first article of it, an announcement from the Administrative Committee to the inhabitants of Berlin, concerning a war contribution of one million thalers laid upon the capital and its collection. The reader shook his head, probably for the same reasons for which I too had shaken my head on reading it. For one thing: a million thalers is, under the circumstances, surely very hard to raise among us; but then at the close of this announcement it says: the one who defaults pays for the first day of delay one thaler, for the second
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-111">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-111">Part 2, p. 111</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7227,9 +7698,11 @@ two, for the third four, for the fourth eight thalers, and so on, as penalty. As
 After eight days the penalty payment does indeed cease, but thereupon lawful means of compulsion are applied to collect both the contribution levy and the penalty monies. Thus the one who delays pays, after 8 days, instead of the simple 3, now 258 thalers. Good God! To raise three thalers now among us is already extraordinarily hard; of 258 there is no thinking at all. The measure appears expedient against the stubborn man, but striking, when one thinks of the bitter poverty of the Berliners. But of course the sensible Committee will take into consideration cases of real inability to pay.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-112">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-112">Part 2, p. 112</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7261,9 +7734,11 @@ In Prussian military history there was an epoch when great and splendid military
 If Prussian armies and corps had to succumb to the caprices of war, they rose up again in venerable dignity, and rather reaped the advantages of victory.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-113">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-113">Part 2, p. 113</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7279,9 +7754,11 @@ But how different is all this now. Prussia, enlarged by a quarter in extensive s
 Had Prussia become France's ally when, in the autumn of 1805, Alopäus was improper toward the King, and adopted a tone toward Prussia such as the Russian ministers were formerly accustomed to employ toward Courland and Poland: then it would not only have gained in power, but would also have transmitted its glory to posterity. The like would have made Prussia an ally of France, if the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-114">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-114">Part 2, p. 114</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7301,9 +7778,11 @@ But can the tooth of time now efface the scandals which in so short a span of ti
 But how is Prussia now to have the opportunity to wipe out these stains again? Even if the unfolding of Prussia's for now still dark fate should turn out quite favourably, it has nonetheless lost its independence. It steps back out of the rank of great states to the level of mediocrity. Its political influence after the peace will not be great; it will never again raise itself to a great state, even should a subsequent
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-115">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-115">Part 2, p. 115</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7323,9 +7802,11 @@ Archenholz is therefore perfectly right in what he says over the grave of Prussi
 One might well be angry with fate, that it allowed to be destroyed in seven days what great artists had built up over centuries; that in so critical a course of time it did not set against the Emperor of the French an Elector Frederick William or a Frederick the Great upon the Prussian throne. Then, even if the powerful genius of the age had also prevented any further building up, they would at least have been lightning-rods that dispersed the dark thunderclouds even before they could gather over the Prussian throne. Strength, unity, and firm will would then have held the generals and the ministers together. The bullet or the sword would have suppressed all insolence against the person of the King, and perhaps have made heroes out of traitors; Prussia would have drawn better Machiavellians among its ministers, and sought its firmness more in intensive than in extensive size. But once the political relations of the states of Europe as of the year 1800 had set in,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-116">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-116">Part 2, p. 116</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7349,9 +7830,11 @@ To simple-minded writers of travel accounts, the frightful court etiquette which
 The more earnestness a sovereign invests in his dignity, the more he is protected from importunities. The proud gaze of such a ruler nourishes and fans ambition and instills a all the greater vigour among men. Indulgence breeds insolence; severity
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-117">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-117">Part 2, p. 117</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7375,9 +7858,11 @@ As with Frederick the Great, the love of a people must be reckoned with greater 
 Yet should there ever come an epoch when Prussia raises itself up again, then an excessive severity would first have to descend upon the nation, so that the many weeds which overshadow the noble, good plants in this nation might be destroyed.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-118">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-118">Part 2, p. 118</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7401,9 +7886,11 @@ One may boldly assume that, the border huntsmen included, there are 5,000 huntsm
 Given the greatest prosperity of the rural population, there were here a great number of fine horses, of which one could have levied 10,000 head for the cavalry without agriculture being ruined thereby.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-119">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-119">Part 2, p. 119</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7431,9 +7918,11 @@ With so many resources, it was very natural that in many good, enterprising mind
 I name among many only one: Count Pückler of Gümmel. This man had been an officer, possessed a clear understanding, much knowledge, and an energetic, vigorous temperament. At the beginning of November he wrote to the King and proposed to him to call up all men fit to bear arms, to join to them the soldiers returning by the thousand from the defeated army, and to place a capable head at their head. Had the King
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-120">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-120">Part 2, p. 120</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7457,9 +7946,11 @@ I cannot concur with Count Hoym in this. Had Silesia not possessed 8 fortresses,
 But it came to nothing, since the King had not at once resolved upon its speedy execution, and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-121">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-121">Part 2, p. 121</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7475,9 +7966,11 @@ even ordered 7,000 muskets from Schweidnitz to Graudenz, and moreover wished to 
 Meanwhile a Silesian cavalier, Baron von Lütteritz, had travelled to the King at headquarters, and had there worked toward the very same point that Pückler had striven to attain. The King resolved to effect Silesia's defence by the proposed means through Prince Anhalt-Pless. He appeared, and under the date of 7 November, on the day of the surrender of Glogau, his well-known manifesto appeared, together with Baron von Lütteritz's appeal to the Silesians to place themselves voluntarily under the Royal banners. But now a different point in time had arrived than 4 weeks earlier. Glogau was gone; the enemy found the provincial authorities here; they had to swear him the oath of fealty, and through their authority he forced the Glogau Department into obedience without sufficient troops, and Prince Pless might send counter-orders as much as he pleased, yet the fear of the enemy had already become so much the master of the people that even in regions to which the enemy could not penetrate (so long as Schweidnitz was not conquered) they satisfied the French requisitions imposed by the Glogau Chamber. Prince Pless, moreover, likewise took only half measures: for instead of taking the necessities for his army — huntsmen, muskets, recruits, horses — by force wherever he found them, he left it to the free will of the Silesians. Before the conquest of Glogau this would have succeeded; afterward it was not so.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-122">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-122">Part 2, p. 122</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7509,9 +8002,11 @@ Since fear has become more the property of men than courage, and since one saw o
 But when many authorities could make no distinction whatever between regular enemy troops and marauders, stragglers, and deserters, allowing themselves to be plundered
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-123">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-123">Part 2, p. 123</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7543,9 +8038,11 @@ I believe the following security measures ought to have been taken, presupposing
 Every town, every community had to elect a committee charged with watching over the internal security of the place; the youngest men in the locality were drawn together into a National Guard like that of Berlin, given sabres or pikes, and employed in maintaining internal good order (the gendarmerie established is not sufficient); as soon as individual marauders or detachments (Prussians or
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-124">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-124">Part 2, p. 124</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7573,9 +8070,11 @@ The Allies as well as the Prussians could be satisfied with this, for at present
 This man is adjutant to General Vandamme on the Bavarian side and Chamberlain at the Munich court. In Silesia his praise resounds everywhere, like that of Colonel Lestok; he is humane, obliging, full of love for his fellow men, benevolent to the point of extravagance, delicate and disinterested to the point of exaggeration; in the towns where he stayed he supported the poor quite quietly, and did so much good that there is but one voice about it. Anyone who dared to make him a considerable present he had thrown out of the house. His conduct, and the exemplary conduct of the Württemberg troops, is ascribed to their King, who formerly held a regiment in Lüben in Silesia. How the Silesians will weep if these amiable soldiers should one day leave Silesia and be exchanged for worse ones.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-125">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-125">Part 2, p. 125</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7591,9 +8090,11 @@ Man verlangt von allen Mitgliedern des Staats, erwerbender und nicht erwerbender
 It is demanded of all members of the state, of the acquiring and the non-acquiring classes, that they share equally in bearing the war contributions. In this or that district of Saxony efforts have been made to devise various modes of apportionment, of which one has been trumpeted and another censured, without taking into consideration the pressure of circumstances, the categorical imperative of momentary necessity<sup class="lit-fn"><a href="#n-en-11">11</a></sup>, which, in the absence of higher authorizations, required the most ordinary method of levying the provincial taxes, and compelled those patriotic men who, at their own sacrifice, presented themselves in the district towns to attend to the common good, to apply the most regular, most secure, and most readily available revenues (ready money, *paratam pecuniam*) toward contribution-relief. Besides this mode of apportioning the levy of contributions—to which perhaps not even an angel from heaven, with the scales in hand, could at this juncture and under the once-established condition of a war of all against all (*belli omnium*<sup class="lit-fn"><a href="#n-en-12">12</a></sup> *contra omnes*) have given greater correctness—complaints have also lately been raised in various issues of the Reichsanzeiger, January, February, about
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-126">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-126">Part 2, p. 126</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7605,9 +8106,11 @@ die ungleiche Vertheilung der Kriegslasten an Naturalprästationen, Spanndienste
 the unequal distribution of the war burdens as regards deliveries in kind, draught-services, and quartering. As regards the deliveries in kind, it can by no means be denied that many a domain, manor, indeed even whole districts—notably the Leipzig one—must, by virtue of their situation, have suffered more than others. Meanwhile a commission has already been set up by the supreme authority to equalize these, like other liquidated damages<sup class="lit-fn"><a href="#n-en-13">13</a></sup> or disproportions—of which, moreover, one may with patriotic confidence surely hope that in this matter no regard will be paid to the otherwise usual mercantile calculation and forwarding of the products, but rather that a correct proportion will be laid as the foundation: between the purchase-price given, the revenues that have risen unheard-of through the circumstances of the times, and the services incumbent under every rational law of state, from which no privilege can grant exemption. Draught-services and magazine-haulage, however much they may be multiplied by the misfortune of a war, cannot come unexpectedly to any landowner who in his deed of purchase assumes this *onus reale* (a real burden: an obligation running with the land itself, not the person) and is formally enfeoffed with it<sup class="lit-fn"><a href="#n-en-14">14</a></sup>, especially as he on the other hand enjoys in return the liberty of turning his produce (products) into cash commercially in any manner he pleases, as we have seen in the champagne-bottles of the country folk. In the same way, quartering, like the payment of service-monies, is to be regarded only as an *onus reale*, which the landowner alone has to bear
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-127">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-127">Part 2, p. 127</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7619,9 +8122,11 @@ zu tragen hat, wogegen er sich mit willkührlichen durch kein Civil- oder Polize
 in times of war and peace, whereas against it he can indemnify himself in advance for several years by arbitrary increases of the rent, restricted by no civil or police law, which need bear no proportion whatever to the taxes. Should it even be found, according to local circumstances, that the tenant is formally forbidden by the contracts (along with children's crying and domestic animals) from sub-letting even under the most favorable circumstances<sup class="lit-fn"><a href="#n-en-15">15</a></sup>, then an *onerosa sublocatio* (a burdensome sub-letting) forced upon him in wartime, to which no real or personal obligation binds him, is the greatest injustice that can be conceived. — To all these sorts of landowners who complain of such necessary burdens, only apparently disproportionate, that attach to their landed property, one must make it plain that just as little as other classes acquiring through speculation—who have hitherto gained disproportionately from some object of their speculation (e.g. a kind of goods) and must now bear a burden laid upon these objects—just as little may they too expect from the state, according to right and equity, full guarantee and indemnification. Might not precisely the other, non-speculating classes of the state—from whom they demand this joint liability and indemnification—rather charge against them, on their side, the damages caused by the war in peacetime (the commercial selling-off of the grain, brandy, etc.), which fell exclusively upon these alone, while those acquiring through speculation gained thereby? The classes
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2-128">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2-128">Part 2, p. 128</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7641,9 +8146,11 @@ from whom that indemnification might in particular be demanded—who lose in war
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-front">Part 3, before the first page</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7677,9 +8184,11 @@ Amsterdam and Cölln, 1807.
 bei Peter Hammer.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-v">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-v">Part 3, p. v</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7713,9 +8222,11 @@ bei Peter Hammer.
 | Interesting Trifles. | 111 |
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-VI">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-VI">Part 3, p. VI</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7733,9 +8244,11 @@ bei Peter Hammer.
 | Statement by the Author of the Confidential Letters on the Internal Affairs of the Prussian Court, etc. concerning the Black Register in the Second Part of the New Firebrands | 129 |
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-VII">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-VII">Part 3, p. VII</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7767,9 +8280,11 @@ The honour was on your side!
 *Confidential Letters, second part, p. 92, large edition.*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-VIII">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-VIII">Part 3, p. VIII</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7805,9 +8320,11 @@ On pp. 82, 83 of the fourth letter, several examples are cited to show that cert
 > The delivery of raw produce can only be burdensome for the country if the sale of its manufactures to the army also brings it profit; hence meat can no longer be afforded, and its prices bear no proportion to that of grain. How is the peasant to till his field when his draught oxen are slaughtered? But how do officials come to be making deliveries? Is that seemly? Is it right? Let each man keep to his own trade.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-1">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-1">Part 3, p. 1</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7835,9 +8352,11 @@ You call upon me, my esteemed friend, to give you some account of the provisioni
 The organization of the Prussian army was, down to its smallest parts, after the principles of Frederick the Great, a model of regularity and order, exactly suited to the age. And even though the manifold conjunctures of the Seven Years' War produced frequent disturbances therein, Frederick's great powers of oversight always dispelled the injurious consequences that might otherwise have been feared,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-2">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-2">Part 3, p. 2</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7857,9 +8376,11 @@ Above all things Frederick, the peerless Frederick, always saw to it that the ma
 For the rest, the ration in kind then assured to the soldier by establishment consisted merely of a daily bread portion of 2 pounds and, every 5 days, 1 groschen 6 pfennigs meat-money, wherever it was not held possible or was deemed unnecessary to issue meat in kind. Such distributions of meat did indeed take place often, especially when the troops were encamped; but it was not the case without interruption. In the cantonments the householders had to feed the soldiers. The distribution of all other provisions
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-3">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-3">Part 3, p. 3</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7883,9 +8404,11 @@ Most of the army's necessaries were procured through contractors, and the least 
 It is true that some among the contractors enriched themselves; yet that was no detriment to the army, so long as care was only taken that they fulfilled their contracts, and this they had to do at their own risk. If, then, they earned much, it was the consequence of their advantageous purchasing, and thus a lawful gain. Such business, moreover, absolutely requires men who possess capital and mercantile knowledge; and one must also make them fair terms if one wishes to prevent embezzlement and poor provisioning
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-4">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-4">Part 3, p. 4</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7905,9 +8428,11 @@ of the soldiers. The main thing is to strive that no one enrich himself at the a
 Frederick the peerless departed this life in a period of tranquillity, of peace, and of prosperity for his lands. Whether hope hovered about his immortal spirit in the hour of death, and promised — continuance — to the empire he had so gloriously created, is doubtful. But certain it is that he had reigned too long for many persons, and that these regarded his death as a most fortunate event. Many people prophesied immediate war, believing that Austria would surely not leave to his cousin the Silesia which could not be wrested back from Frederick the victor; but they were mistaken. There was peace — and peace it remained. Frederick William II., who was so wholly made for enjoyment, and who during Frederick's lifetime had been permitted to enjoy only so furtively,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-5">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-5">Part 3, p. 5</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7923,9 +8448,11 @@ now gave himself over to the unrestraint of his own will, and the beginning of h
 The army had every reason to rejoice in the new sovereign; for his earnest solicitude for its welfare afforded it considerable benefit. It was completely re-equipped and outfitted in exceedingly tasteful fashion; the young officers, who as yet knew nothing of the military estate but the uniform, took great delight in this; they never ceased to assure everyone how much the army had gained through the new sovereign — for the uniform, after all, was handsomer. Yet with better right the common soldier rejoiced, whose kit had become far more complete and comfortable, and who received some assistance in money and bread for his children. The insolence of the Dutch patriots toward their Stadtholderess, the sister of William, was, during his so brilliantly begun reign, the first occasion for a part of the army to take up arms and march into Holland. There was great suspense over the outcome of this campaign,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-6">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-6">Part 3, p. 6</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7953,9 +8480,11 @@ The Duke of Brunswick soon chastised the discourteous Dutchmen, and the soldiers
 With respect to the provisioning of this army, nothing remarkable had occurred; the march went through Westphalia and Cleves, the King granted extra allowance on the march, and the peasants too were to be paid for the entertainment of the troops passing through (whether this was done I do not know). In Wesel, etc., filled magazines were found, and in Holland the patriots had to entertain the uninvited guests. Where the men encamped, meat, vegetables, brandy, and beer were distributed with much order. After this small march of execution, which was merely a family matter of the King's, Prussia enjoyed undisturbed peace until, in the year 1790, a political cause called the army into the field.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-7">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-7">Part 3, p. 7</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7975,9 +8504,11 @@ The preparations concerned the whole army; they proceeded briskly; the soldiers 
 Throughout the whole country no apprehension was noticeable, but only the liveliest participation. All the workshops were filled with workmen making the splendid field equipages. Fine horses and well-dressed grooms crisscrossed the capital. The finest spectacle for the Berliners was the King's equipage, which very often paraded through the city; it consisted of new, beautifully painted wagons, whose purpose was announced by their inscriptions, e.g. Royal Pr. Silver Wagon, Cellar Wagon, Kitchen Wagon, Treasury Wagon, etc., and furthermore of more than 100 mules which, adorned with fine caparisons and colourful plumes, were intended to carry burdens. It was an oriental magnificence, and people compared it to the military procession of Xerxes. The veterans of Frederick II. were indeed of the opinion that of war
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-8">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-8">Part 3, p. 8</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -7997,9 +8528,11 @@ The march of the troops was to take place in May, but it had to be postponed for
 In June the magnificent army at last marched out from its garrisons, and blessed Silesia received it; they fronted toward Bohemia. The peaceable Leopold saw the host at his frontier, fulfilled Prussia's demands, gave back to the Turks the advantages won by Joseph, thwarted the hopes of the proud Hungarians, and at Reichenbach the peace was signed.<sup class="lit-fn"><a href="#n-en-17">17</a></sup> The provisioning arrangements for this campaign were, since no preparations at all had been made, very poor. There was indeed no lack of forage, for Silesia had to supply it, and the commissaries lived well. With the food provisions matters stood badly,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-9">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-9">Part 3, p. 9</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8023,9 +8556,11 @@ In 1791 there was another campaign into Prussia, occasioned by misunderstandings
 In 1792 a part of the army went to the Rhine, where, after two futile marches, a serious war at last broke out. Although only a part of it marched thither, the King nevertheless followed in person, and indeed with the greatest pomp. In his retinue were:
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-10">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-10">Part 3, p. 10</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8045,9 +8580,11 @@ Out of an over-clever mania for improvement, more elaborateness had long since b
 More officials were appointed than were necessary for the whole army; their entire personnel consisted of nothing but men of connexions: favoured lackeys, good-for-nothing idlers, even journeymen artisans — for there was actually among them a tailor's son who had already learned his father's trade, and a button-maker's journeyman; further, bankrupt merchants, corn-Jews, and horse-copers; and so it went up to the superiors, who were likewise creatures of patronage and darlings of fortune. What was to be expected from a campaign begun in such a way — the men of insight in the state foresaw in advance, and the enormous sums this campaign cost proved that they were right. Sadder still was the experience: that amid the most outrageous extravagance the army suffered the greatest want, and only the iron perseverance and the frugality of the troops, together with the laudable subordination peculiar to the Prussian
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-11">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-11">Part 3, p. 11</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8071,9 +8608,11 @@ Frederick William was too great a friend of mankind not to provide, or rather to
 Some councillors of high standing had been placed at the head of the army's commissariat; elaborate service instructions had been drawn up for the officials — everything was to be documented, calculated, and controlled — and yet men had been appointed who were utterly unfit for such business.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-12">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-12">Part 3, p. 12</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8089,9 +8628,11 @@ It seemed, however, that nothing else mattered than the enrichment of the offici
 This mischief was overlooked, and had of necessity to be overlooked, for it came down from above. Instead, men clung to the most elaborate and equally useless form. Millions of lines were drawn just as uselessly as millions of thalers were squandered; accounts were written, false vouchers fabricated, and tables made. Every error *in calculo* and every offence against the form were reprimanded in sheet-long admonitions, and often, over ⅔tel pfennigs that did not agree either with the establishment or with the returns, letters were written back and forth ten times
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-13">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-13">Part 3, p. 13</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8107,9 +8648,11 @@ and at last — written off. But it was never examined whether the sums entered 
 A couple of groschen spent over the establishment always occasioned a lengthy inquiry, yet sums uselessly expended or falsely entered into the accounts could never arouse the slightest suspicion, so long as the form was satisfied. The failure to lay in the magazines before the war, and the hasty procurement of them through contractors — to whom, in return for generous offers, the most advantageous terms and prices were conceded, and who, upon delivery, were assured of every indulgence by the magazine officials through their own liberality — made the war incredibly costly. The soldiers received little provision in kind, and, given the strict discipline and the forbearance the King had promised the Rhinelanders, had for the most part to live in their quarters on their pay; how far this could stretch amid the dearness of goods may easily be
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-14">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-14">Part 3, p. 14</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8129,9 +8672,11 @@ The officers likewise were left a prey to usury; a couple of Jews had followed t
 Three years this draining-off of the national wealth lasted — increased still further by the war that broke out in Poland at the same time — until at last the peace with France in 1795 and the annexation of South Prussia brought the war to an end. The commissariat officials returned with magnificent equipages and heavy baggage; they had reaped a harvest for their whole lifetime, and were so little ashamed of their gains that they spoke of them very freely and in detail — one even led behind him, on his return to Potsdam,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-15">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-15">Part 3, p. 15</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8159,9 +8704,11 @@ Frederick William II. sought to heal the wound that had been dealt to the state 
 The monarch looked on — though not without concern — yet calmly at the further spectacle in Europe; he did not again draw the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-16">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-16">Part 3, p. 16</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8177,9 +8724,11 @@ sword, but sadly did nothing either to prepare the state against a future war or
 For the country a morning full of hope dawned; Frederick William III. entitled us to the fairest expectations. Many bad officials were dropped from the ranks of the active, and with them many abuses gave way to better administration. Only of the army could this not be said; there was too much toying with the soldiers, and a spreading spirit of pettiness threw the true military character quite out of its proper course. The good arrangements that still existed in the matter of uniforms, especially for the officers, were wholly abolished through a mistaken view of the matter and through an imagined notion of compulsion, and the officers were granted a freedom in the matter of uniforms that could not but be highly injurious to them. It was a measure such as the Jews themselves might have invented, for through it they got almost the whole uniform business into their hands, which was all the more lucrative for them since the King made some change or other in the uniforms every year, which ruined the greater part of the officers. The common soldier's uniform too was thoroughly altered; the character of the whole was — simplicity, but they were
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-17">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-17">Part 3, p. 17</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8199,9 +8748,11 @@ Peace Frederick William loves above all things; this is attested by the great sa
 Peace remained — so long — — as it could remain peace; the war last year between France and Austria at last compelled the cautious monarch to cover his frontiers with his army. The political grounds and the military measures of this march you know. Only of the provisioning arrangements
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-18">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-18">Part 3, p. 18</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8225,9 +8776,11 @@ Given the frequent abuses which had occurred in the provisioning of the army dur
 In the main, the provisioning of the army was arranged according to the very same constitution that had existed in the Rhine campaign, except that new service instructions were printed for the various provisioning offices, which were still far more prolix than the former ones, and whose observance remained impossible even for the ablest man of business. These new artificial forms, which must have been invented by someone who was utterly unacquainted with the course of the provisioning system
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-19">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-19">Part 3, p. 19</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8243,9 +8796,11 @@ in the run of a war, were supposed to make all abuses, all embezzlements impossi
 The Commissariat (Provisions) Department at Berlin had the ordering and direction of the whole. The chief of this department is indeed a very worthy general, but an old man of some 70 years, and burdened with more offices than it would be possible for the greatest genius of business, in the best years of his life, to administer. He is, namely, Quartermaster-General, chief of the Engineer Department, and Inspector-General of all fortresses in the whole country! Under his supreme command a Field War Commissariat was established for each Army Corps, so that five of them came into being. The directorships of these were for the most part distributed among War and Domains Councillors who were quite capable men, some of whom had already taken part in the Rhine campaign. Each of these commissariats consisted, under the director, of several dispatch clerks, registrars, calculators, chancery clerks, and copyists, etc.; these formed a corpus collegium of 10 to 15 persons. Each corps had its own war treasury, and subordinate to it there were also established: a hospital treasury, a chief field-magazine treasury, and a chief field-provisions treasury, among which the manifold expenditures for the army were distributed. Next to these treasuries there were also the special treasuries at the field bakeries and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-20">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-20">Part 3, p. 20</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8261,9 +8816,11 @@ the provision-transport columns. — All these treasuries stood under the Field 
 The whole of this War Commissariat business was so artificial a contrivance, so confused in its very design, that both immense cumbersomeness and frequent disorders and abuses were bound to arise from it, especially since the most unfit subjects were taken on as provision commissioners and officials — most of whom were suited to no business whatsoever, had never before served, and could therefore find their way all the less in so artificial a course of business, one that even its inventor could not carry out. The army suffered most from it, for no single provisioning official had authority, in urgent cases, to do what the circumstances required
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-21">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-21">Part 3, p. 21</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8283,9 +8840,11 @@ The army had most to fear from the quality of the provisioning officials who, as
 A councillor from the War College had been charged with the appointment of all the field officials, and whoever was an attentive observer here could not but become most anxious for the fate of the army and for the fortunate progress of its arms. Before this man's house there gathered daily an incredible throng of supplicants, all wishing to contribute to the glory of the Prussian state through
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-22">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-22">Part 3, p. 22</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8301,9 +8860,11 @@ the provisioning of the army. They were people of every station: discharged or c
 In this way the taking-on of the field officials was done almost without any real selection; it was rather a drawing from a wheel of fortune in which there were 50 blanks against one prize. And even if it subsequently
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-23">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-23">Part 3, p. 23</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8323,9 +8884,11 @@ This mixed personnel was soon sworn in (vain trouble), provided with the meagre 
 A considerable detachment of this personnel was sent to South Prussia, where, however, they had to spend some time idle in Kalisch, since the Chamber and district tax officials there had already established the magazines, saw to the provisioning of the troops themselves, and for reasons easy to guess did not wish to hand over to the provisioning officials, especially as the march-through of the Russians was expected daily, and the magazine-keepers looked forward with certainty to their harvest. This turned out very abundant too, the Polish estate-owners
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-24">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-24">Part 3, p. 24</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8345,9 +8908,11 @@ For the field officials this whole harvest was lost; they sat idle for 14 days i
 After the political situation had changed, the forsaken men were at last delivered from their exile; an order summoned them to Erfurt. Not a single one among them was in a position to meet the costs of this long journey from his own means, and most left debts behind, on account of which they removed themselves from the town with much
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-25">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-25">Part 3, p. 25</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8367,9 +8932,11 @@ The gentlemen finally arrived in Erfurt, where they were distributed among the m
 The idle bakeries turned to marauding, since the bread for the army was baked in the towns; the master bakers and head master bakers, who have only 10 and 15 thalers of field pay respectively per month, indemnified themselves by false returns of their personnel in order to pocket the wages. The train officers exchanged and sold horses, procured knacker's certificates in order to be permitted to enter sold horses as lost, and even later entered the horses that had really been lost (starved to death) on the report, so as to draw the rations still. The tradesmen had to practise, according to the prescribed laborious
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-26">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-26">Part 3, p. 26</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8389,9 +8956,11 @@ Thus were the resources of the country squandered by faithless officials, while 
 In the magazines things went no better; for carriage-hire, day-wages, and utensils great accounts were written, and little disbursed. At the acceptance the peasants were squeezed either with the measure, or they were made to wait so long that they offered considerable presents merely to be dispatched.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-27">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-27">Part 3, p. 27</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8407,9 +8976,11 @@ Given the inactivity of the army, a considerable sum ought to have been saved fr
 In South Prussia a train and a bakery of 5 ovens had been left standing; it remained a whole month exposed to the greed of the inspectors, until it was decided to let it march to Silesia to the v. Gr. Army Corps. Another train and a cavalry regiment arrived in a certain town in the Saale region and demanded forage, which was, however, refused them from the Prussian field magazine, because they were not on the provisioning designation of that magazine.<sup class="lit-fn"><a href="#n-en-18">18</a></sup> A money transport from Berlin, sent to a treasury in G., was not accepted by that same treasury, because they had no order for it. Indeed, even some regiments often did not know to which corps they belonged, since they received now this, now that order. Similar confusions occurred among the chief treasuries, which either had received no provisioning establishments at all, or whose corps increased or diminished, so that they often did not know who was entitled to draw money from their funds
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-28">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-28">Part 3, p. 28</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8433,9 +9004,11 @@ The Saxon principalities and some other adjoining territories had borne the burd
 The Prussian army had lost much of its private property and marched back into its garrisons in ill humour, because it had never come to a battle.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-29">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-29">Part 3, p. 29</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8451,9 +9024,11 @@ The host of officials returned most sorrowfully to their old sphere, dejected ov
 Only the Field War Commissariat established in Silesia for the v. Gravert Army Corps, by the arrangement of the Minister Count von Hoym and under the direction of the Privy Councillor Count v. Schack, distinguished itself advantageously by the soundness of its officials. Its personnel had for the most part been chosen from the Breslau and Glogau Chamber officials, without any foreign interference and without any patronage. All other applicants were turned away. Those appointed were better provided for; they were men in whom, through their very conditions of service, a spirit of honour already dwelt, and once the campaign was over they returned again to their former posts.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-30">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-30">Part 3, p. 30</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8473,9 +9048,11 @@ The discerning, true patriots who had observed the daily, disaster-threatening c
 The train officers attached themselves to the slow retreat of the army with the starved horses; they had provided splendidly for themselves, and concluded their harvest with the horse auctions, where they exchanged the best horses for poor ones, and entered others — which they had quietly sold for 40 to 50 thalers — in the record at a price of 3 or 6 thalers. Only in Silesia was this fraud either not possible at all or at least very difficult, for the wise Hoym safeguarded the royal
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-31">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-31">Part 3, p. 31</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8503,9 +9080,11 @@ The army did indeed march back, but a part of it remained mobilized in the garri
 It was indeed peace, yet the joy did not last long; the apprehension of experienced men in the state — that the fire was not extinguished but only ominously covered over,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-32">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-32">Part 3, p. 32</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8525,9 +9104,11 @@ The first thing one noticed at this new departure was a disaster-threatening wav
 The hundredfold errors of the previous campaign, scarcely ended, and with the investigation of which one was still occupied, lay still so fresh before one's eyes that one might cherish the most well-founded hope of a better organization of the army. Yet daily there were disquieting disappointments: the men on furlough came together in the garrisons (especially in Berlin) so singly and so slowly that after three weeks they were still not all assembled;<sup class="lit-fn"><a href="#n-en-21">21</a></sup> so that one again began to doubt
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-33">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-33">Part 3, p. 33</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8543,9 +9124,11 @@ the seriousness of the affair. Just as slowly went the delivery of the horses, t
 The march of the Silesian troops resembled now a funeral procession, now a race, according as the frequent orders contradicted one another. At Löwenberg, Bautzen, and Dresden there were halting-points, and in the latter city the Prussian cavalry officers displayed daily their high spirits and their bravado in riding, in driving,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-34">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-34">Part 3, p. 34</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8565,9 +9148,11 @@ In Silesia peasants and noblemen, tenants and estate-owners cursed over the deli
 In Saxony it went better; the peasants there are more polite and more good-natured, and they also thought much of the Prussians, and hence the provisioning too, with slight exception, was quite good. Moreover, staged provisioning (billeted ration system on the march) had been introduced everywhere, and this is, on marches where provisions are to be had, indisputably the best. In every quarter the soldier received 2 pounds of bread, 1/2 pound of meat, and 2 cans of beer, and although most districts in Saxony had not yet been paid for this provisioning from the previous year's march, they nevertheless furnished the prescribed portions very abundantly, and voluntarily added a first course and brandy as well. The actual field provisioning from the magazines and through the Field War Commissariat was to begin only where the army meant to concentrate and take up a position. But unfortunately the army was there sooner than the provisioning arrangements, for after the long irresolute marches it was at length forced into rapid advance, and the provisioning arrangements
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-35">Part 3, p. 35</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8587,9 +9172,11 @@ The bad, wrong-headed provisioning arrangements are therefore certainly in part 
 I will cite only a few occurrences that substantiate this assertion.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-36">Part 3, p. 36</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8601,9 +9188,11 @@ Während die Truppen auf den langsamen Märschen so oft halt machten, und durch 
 While the troops halted so often on their slow marches, and needlessly drained the peasants through the staged provisioning, no arrangements whatsoever were yet being made for their reception ahead of their front and at their preliminary destinations. Instead of moving ahead of the army, the provisions officials trailed slowly behind it. They wrote and wrote; they practised the artful forms, and instead of filling the magazines — filled only the registries. In Jena it was only on 6 October that a contract for foodstuffs was drawn up, which were unfortunately to be supplied by a Jew whom they had brought along as commissary of provisions. The items were numerous and the quantities large. Namely: meat, bacon, butter, rice, groats, peas, dried fruit, tobacco, etc. — all lucrative objects for the Jewish spirit of speculation; only one thing was remarkable: the salt the Jew was not to supply; on this cheap and trifling article the Hebrew was to earn nothing; this, they said, we can indeed draw directly from the Saxon salt-works. The place of delivery of all these things, so gratifying to a hungry army, was assigned to the contractor within a circuit of 10 miles around Erfurt, and the delivery was to be made as gradually and as soon as possible. The matter had only advanced so far that the Jew was to submit his demands. On 6 October, then — when the whole army already had to be set in motion to face the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-37">Part 3, p. 37</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8627,9 +9216,11 @@ During the staged provisioning of the troops it was quite useless to haul stocks
 The numerous and cumbersome bakeries, which cost so incredibly much and are of such very little use, could
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-38">Part 3, p. 38</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8645,9 +9236,11 @@ or rather had to, so long as one could march quietly, advance well ahead, so tha
 On the decisive days, however, which broke so unexpectedly over Prussia's fate, several bakery detachments were still on the march and had done nothing at all. — Others had been taken along to the front; for example, at the gates of Weimar stood 13 ovens, and at Diefurth on the Ilm eleven were to be set in operation. The camp had been pitched here only on 13 October, after the retreat from Jena, after two days and three nights of anxious wandering about without definite orders. On the 14th at midday 7 ovens were full of bread, and several hundred loaves lay steaming in the tents, and the detachments, which had arrived earlier with their wagons to collect bread than a single oven was ready, gazed hungrily at the hot supplies. More and more bread-collectors kept coming, and no one knew who was to be served first. Unfortunately, probably none of them got anything, for the thunder of cannon came ever nearer and rang out so frightfully that
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-39">Part 3, p. 39</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8659,9 +9252,11 @@ die Bäcker nicht mehr arbeiten wollten. Das kleine Gewehrfeuer, welches man seh
 the bakers no longer wished to work. The small-arms fire, which could be heard very distinctly, placed the nearness of the battle beyond all doubt; the consternation was indescribable. The beautiful countryside was crammed full of baggage, which, mixed with scattered troops of cavalry and infantry, streamed off in dense throngs toward Weimar. A crowd of wounded came through the bakery camps at Diefurth and Weimar; they all brought bad news, and yet the train directors had the most positive orders not to budge from the spot, not to let themselves be thrown into confusion by anything, but calmly to go on baking. And this was indeed done (if not with the ordered calm). From time to time news came from the town of Weimar, from headquarters there, and all of it assured that the battle was going quite well. At last — and indeed after preparations for flight had already been made, against all orders and involuntarily, for the sake of one's own safety — a courier arrived and brought the official news: that the French had been beaten and that we had triumphed everywhere! Bakers and hands were given schnapps and had to cheer. — — A couple of flour columns, which had after all been sent ahead as a precaution beyond Weimar toward Erfurt, were recalled by ordonnance, but did not come, on account of the exhausted horses. This ill-starred joy of victory did not last long, however; the powder-smoke soon clouded the fine day on the horizon. Musket and pistol fire could be heard clearly and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-40">Part 3, p. 40</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8681,9 +9276,11 @@ ever more distinctly; one heard the cannonballs whistle in a manner that raised 
 The retreat is heading to Erfurt! — so ran the general cry in that moment of terror, and I believe men would have run there even without orders, or rather, no one knew where he ought to run. One followed another, and the fleeing mass soon grew so densely crowded that the spectacle it presented defies description. Burning Auerstädt, together with yet another village and a windmill, formed against the sky
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-41">Part 3, p. 41</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8703,9 +9300,11 @@ The fleeing, cowardly hordes looked upon their mutilated comrades lying there wi
 Once it was the ABC of military science: to bring the baggage to safety ahead of the enemy; this time, however, it had been kept close behind us on the battlefield, and so on the retreat one could not move. Yet this error had now been made, and there was really nothing to be done in the matter but to bring as much as possible of the enormous baggage to safety ahead of the enemy. What wealth of the state, and how much private property, was not lodged in this
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-42">Part 3, p. 42</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8721,9 +9320,11 @@ mass that covered the whole field from Weimar to Erfurt? How much, then, was the
 There are unquestionably cases in the course of a war where one must sacrifice a wagon-fort or a baggage train to the enemy in order to gain more important advantages; but could that be the case here, where nothing more was at stake than deliverance? and could one have saved anything in a better way than by seeking to hold back the enemy for a short while longer? Or did one intend, through the senseless swift flight, to attain greater advantages? What, then, has been the result of it? Did the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-43">Part 3, p. 43</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8747,9 +9348,11 @@ Night fell and multiplied the terrors of this flight, for now men rode and drove
 At Apolda a Saxon-Prussian hospital was only to be established on 13 October. The shooting-house was to be fitted out for it, but it stood without doors, windows, or stove; all this was first to be procured with small-town
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-44">Part 3, p. 44</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8769,9 +9372,11 @@ The whole road from Auerstädt and its environs, by way of Weimar, Erfurt, out b
 The quantity of officers' baggage thrown down upon the highway also proved with what elaborateness and effeminacy the Prussian officers had taken the field; their traveling tea and coffee services, the food and bottle cases — in short, the most ridiculous articles of effeminacy — were here, in chests and little boxes, among the heavy baggage of the poor overburdened pack-horses
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-45">Part 3, p. 45</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8791,9 +9396,11 @@ Many military officials and officers to whom the state had entrusted funds and o
 On the retreat, a cavalry detachment found four casks of money in a forest; the gallant officer brought them safely to Magdeburg and reported the find to the authorities, and, given the prevailing ill humour, he was received into the bargain none too gently by way of recompense. Misfortune is said to improve a man; yet no
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-46">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-46">Part 3, p. 46</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8809,9 +9416,11 @@ rule without exception. Whoever observed the Prussian officers on their retreat 
 In many others one noticed unexampled exertion to arrest the misfortune in its consequences; they overtaxed themselves in doing so, showed courage and despair — and could accomplish nothing. A great part, however, displayed an outrageous cowardice, especially the old comfortable gentlemen whom the loss of their company had struck like a thunderbolt, who had still to fear the loss of their estates, their wine cellars, and the stores in their equipment depots; and whose parade-life on the drill-ground, where it is so easy to inspire a high opinion of oneself, had suffered so hideous a metamorphosis!
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-47">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-47">Part 3, p. 47</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8831,9 +9440,11 @@ The young bravos, the scourges of the land, on the other hand — for whom in th
 The terrible condition of this fleeing mass, hemmed by the night into a small space, was increased still further when, at the exit of a village in a
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-48">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-48">Part 3, p. 48</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8845,9 +9456,11 @@ Hohlwege ein paar schwere Artilleriewagen umwarfen. Hier stockte die ganze Masse
 sunken road, a couple of heavy artillery wagons overturned. Here the whole mass came to a standstill; a wild uproar arose, mingled with abuse and curses; but the mass could not be brought a single step forward. To right and left, whole throngs of scattered infantrymen clambered past the wagons in deep mire; grooms and horses were beaten black and blue, and the cumbersome carriages of the generalcy and the staff officers, asserting their rank, pressed their way through everywhere. If their owners could secure no rank and place for themselves on the battlefield, at least this was to be done on the retreat. Through this pressing, every possibility of advancing came wholly to an end, and with every moment the anxiety of those present rose, for off to the right one saw, quite near and in a dreadful multitude, the watch-fires of the French, and heard their war-cry and their singing. This sight lent wings to the steps of the riders and those on foot; only the wagons, with all the persons belonging to them, remained in a state of helplessness and in veritable mortal terror. Had the French known this state of the flight — they would surely have exploited it, and a couple of hundred chasseurs would have sufficed to capture, on the road from Weimar to Erfurt, everything that here found itself in the throng. After a few hours the sunken road finally became open again, and, like a funeral procession, one drove ever forward, over fallen men and horses, as well as over discarded
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-49">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-49">Part 3, p. 49</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8871,9 +9484,11 @@ Fearsomely does rough Mars brandish the fearsome sceptre, gruesomely resound the
 Almost every part of the known world is — directly or indirectly — entangled in the general struggle, or will yet be.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-50">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-50">Part 3, p. 50</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8905,9 +9520,11 @@ Ask why they fight, and the answer is: For peace! Wondrous, most wondrous. For t
 Therefore from every direction move armed multitudes on horse, on foot, and by ship, flooding the earth and the sea.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-51">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-51">Part 3, p. 51</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8931,9 +9548,11 @@ Here the wave carries dead bodies to the shore, and there fields miles long are 
 Want, devastation, and death walk hand in hand, fraternally, through the trembling world. Here Death cracks forth from a thousand fiery gullets; there brother swings against brother the flashing sword, the sickle of corruption; and there man, filled with fury, thrusts
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-52">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-52">Part 3, p. 52</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8965,9 +9584,11 @@ Only a few are perfectly familiar with the grounds of the war. Well, whoever kno
 First the question must be: Why do Prussia, Russia, and Sweden at present wage war against France and its allies?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-53">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-53">Part 3, p. 53</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -8991,9 +9612,11 @@ Sweden came forward because a personal enmity exists between the King of Sweden 
 The finances of Russia and Sweden permit no long-lasting, costly war, and every war costs
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-54">Part 3, p. 54</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9013,9 +9636,11 @@ Prussia held to its neutrality, so long as French and English lived in a state o
 Thus it appears incontestably certain that the French and the British are the principal figures in the painting and other powers merely secondary individuals; and for this reason the impartial expert reduces the present Continental war to the Anglo-French one; upon this, and upon nothing else, is it based. The French and the British alone — those giant nations of the modern world — contend against one another; every other struggle hangs upon this one; every nation that takes the field in arms is a moon that receives its light from these suns. Whatever else fights against France is the auxiliary force of the islanders; whatever surges with
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-55">Part 3, p. 55</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9039,9 +9664,11 @@ Let us go back to the campaign of 1805, and the same phenomena come forth, addre
 The Peace of Amiens was concluded in 1802 between England and France, and the great man who, as a hero on the field of battle, first founded France's real (hitherto only dreamed-of) liberty, also gave,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-56">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-56">Part 3, p. 56</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9057,9 +9684,11 @@ as a statesman in the cabinet, the new empire peace and the hope of internal str
 Bonaparte, resolved to meet the enemy with every exertion of strength, determined upon a landing in England, and seized upon several other measures conducive to this end. After he had set the imperial crown of France and the royal one of Italy upon his head, united Liguria with France, and installed one of his kinsmen as Prince of Lucca and Piombino — (all in order to increase his prestige and his power on the Continent for the subjugation of the enemy) — he went himself to the coast, to accomplish the intended landing; but at the very first step upon this course he saw himself suddenly halted by the armaments of Austria and Russia (which could only be directed against France).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-57">Part 3, p. 57</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9079,9 +9708,11 @@ Thus the new war was merely a diversion in England's favour, and hence indirectl
 But the days of Ulm and Austerlitz and the Peace of Pressburg put an end to this subsidiary feud, and the two great peoples again fought solo. And why did they fight one another? What sustains this struggle, now already (with the exception of the brief interval of the Peace of Amiens) lasting 14 years?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-58">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-58">Part 3, p. 58</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9105,9 +9736,11 @@ France's interest is called: navigation, maritime trade, colonies! But England b
 Before the Revolution France possessed considerable colonies; now they are for the most part lost; that it may not win them back again, England wishes to prevent with the exertion of all its strength, that it may not be able to take part in the profitable world trade: that is the tendency of England against France in the present feud. Especially now the island of St. Domingo is England's chief object of attention; this colony must remain lost to France; it absolutely must not be cultivated — so thinks the author of the new Leviathan, and with him every expert — England would rather see a Negro republic on this island than any social
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-59">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-59">Part 3, p. 59</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9127,9 +9760,11 @@ But when the whole country, in or upon which a stronghold lies, is lost, can no 
 If, then, the French government were willing to give up its claims to St. Domingo, the present struggle would be at an end; but France cannot suspend this claim without sacrificing all the advantages gained in the Revolution, without sacrificing all hope of that prosperity which is ever the companion of a flourishing world trade. The so-called carrying trade the French have from the very beginning contested with no nation; they have always left it to the English and the Dutch, doubtless because it does not accord with the inclination and the aptitude of the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-60">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-60">Part 3, p. 60</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9145,9 +9780,11 @@ people. Should the French see themselves reduced forever to internal trade, they
 One need only cast a searching glance at the development which Europe in general and France in particular has undergone in its needs over three centuries, to find at once the correctness of that assertion, to perceive that on the whole globe there is no compensation for St. Domingo. It is therefore no wonder if everything that has occurred for years in England and France turns most decidedly upon the eternal withholding and the re-conquest of that island. In order not to be struck once and for all from the list of the naval powers, France exerts all its strength; in order to preserve its constitution and its credit, England would rather fear the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-61">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-61">Part 3, p. 61</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9167,9 +9804,11 @@ Could France tolerate a Negro republic on St. Domingo, then England would gladly
 By the creation of a universal monarchy in the proper sense, France would only lose its concentricity; it would not only grow weaker in the same measure as it gained in extent, but it would also have to sink into an infinite dependence upon England, because this empire, through its continued universal trade, will forever dominate the mainland of Europe; here no cessation can be conceived, because we are accustomed to the luxurious products of their colonies, because we can no longer do without coffee and spices, since we
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-62">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-62">Part 3, p. 62</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9193,9 +9832,11 @@ If one thinks away St. Domingo (as, indeed, for years past), then there is no ob
 Therefore Napoleon conquers one piece of the mainland after another, in order to close the harbours to his enemies, in order to diminish or wholly prevent their sale of goods of every kind. If England suffers here continually, then it must incline to peace, then it must give back to France the colonies in the West Indies,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-63">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-63">Part 3, p. 63</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9219,9 +9860,11 @@ Now, in order to enable everyone to judge whether I do not attribute too high a 
 "This island, of which one part belongs to the Spaniards, is, next to Cuba, the largest of the Antilles. It extends from 17° 37' — 20° north latitude, and from 66° 35' — 74° 15' west longitude, and is 426 English miles long from east to west, and nearly 124 miles broad. It lies midway between Jamaica and Cuba toward the north-west, and the island of Puerto Rico,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-64">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-64">Part 3, p. 64</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9253,9 +9896,11 @@ from which it is separated only by a channel, toward the east."
 "In the French portion there are so many horses that all their neighbouring colonies can be supplied with them, and besides these a great number of wild horses and swine, remaining from the breeding stock which the Spaniards had brought over."
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-65">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-65">Part 3, p. 65</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9287,9 +9932,11 @@ from which it is separated only by a channel, toward the east."
 "The Spaniards once made the attempt to destroy the colonies on St. Christopher, when that island was divided between the French and the English; but
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-66">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-66">Part 3, p. 66</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9305,9 +9952,11 @@ this undertaking drew upon them a very severe revenge. For several of the French
 "Another band of these pirates went through the Strait of Magellan into the South Sea, and made the whole coast of Peru, Mexico, and Chile a scene of devastation, for fortune accompanied them everywhere, because they always conducted themselves so bravely and so skilfully
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-67">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-67">Part 3, p. 67</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9335,9 +9984,11 @@ that in a just cause they would have earned the greatest renown.
 "The French court at first looked on in silence at the traffic of these men, and when complaints came in,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-68">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-68">Part 3, p. 68</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9369,9 +10020,11 @@ it merely disapproved; but when later the French on St. Domingo became numerous,
 "As early as the beginning of the eighteenth century, 60,000 hogsheads of sugar, each of 500 pounds, were manufactured on St. Domingo; the indigo amounted in value to half as much as the sugar, and a great
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-69">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-69">Part 3, p. 69</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9415,9 +10068,11 @@ One readily perceives that I am setting up no commonplace hypothesis, no paradox
 But even so we are not yet at the roots of the tree; we must go still further back, back
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-70">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-70">Part 3, p. 70</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9441,9 +10096,11 @@ I said before that the English system is by no means to allow France to rise as 
 Let a man who is of my opinion (the author of the *New Leviathan*) here speak for once on my behalf. He has fixed his subject deeply, squarely, and correctly in his eye; he has convinced thousands who were previously of another opinion; he is the man of sharp sight and of truth.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-71">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-71">Part 3, p. 71</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9463,9 +10120,11 @@ Let a man who is of my opinion (the author of the *New Leviathan*) here speak fo
 "In this way has the present war arisen — the war through which the English government seeks to avert a civil
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-72">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-72">Part 3, p. 72</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9485,9 +10144,11 @@ war which will break out from the moment the government cannot fulfil its promis
 Anyone even somewhat acquainted with England's financial constitution readily comprehends that in this sole dominion of the seas lies the means of paying the interest on that national debt. England will never be conquered so long as the English credit system maintains itself through universal trade: for in this system lies concealed the enormous power of the Britons, because each individual, having lent a part of his fortune to the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-73">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-73">Part 3, p. 73</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9507,9 +10168,11 @@ There are few families in England that do not either themselves hold a share in 
 From this it naturally follows that not only the government, the two Houses of Parliament, the landed proprietors, the merchants, and the scholars, but the whole people must do everything to keep up the national credit,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-74">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-74">Part 3, p. 74</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9533,9 +10196,11 @@ Hence the Britons' attachment to their constitution, hence their love of country
 It was this system that determined the Britons at the beginning of the French Revolution to provoke the French so long that they themselves declared war on England (in 1793); this system has continually
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-75">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-75">Part 3, p. 75</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9555,9 +10220,11 @@ But how? That is the question. France for the moment possesses no navy so comple
 If the Emperor of the French can attack the credit system from the mainland, then much is accomplished. A diminution of the sale of those articles which are the basis of all political life in the state of England seems, for the present, to be the most effective means of ending the war — inasmuch, that is, as not the English alone, but all the European nations besides, must pay the interest of the enormous national debt. The same is thought by several sensible writers and by every unprejudiced expert. But this means alone is nevertheless not sufficient, for all England — let one consider what that means —: All England
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-76">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-76">Part 3, p. 76</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9585,9 +10252,11 @@ There still lie in England and Scotland great fruitful stretches of land unused 
 Then, too, one must not forget that the Continent cannot do without the dye-goods, that our palate
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-77">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-77">Part 3, p. 77</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9607,9 +10276,11 @@ Furthermore, it must be noted that the navy of the English is almost as strong a
 Thus a great span of time still lies between us and the downfall of the English nation; ten generations might easily still be born and die before that
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-78">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-78">Part 3, p. 78</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9633,9 +10304,11 @@ If he judged rightly, as is very probable, then my own opinion is confirmed by h
 England's wars since the change of government of 1688, the extraordinarily large land and sea forces which it maintained during them, the many subsidy monies which it paid, demanded extraordinary costs, and recourse was taken to a hitherto still
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-79">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-79">Part 3, p. 79</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9673,9 +10346,11 @@ From 1714 until the beginning of the Spanish War in 1739 it was reduced by 7,750
 | Now the Seven Years' War began; at its end it was | 146,625,000 | 4,842,000 |
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-80">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-80">Part 3, p. 80</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9715,9 +10390,11 @@ in size; the state of peace from 1763 to the beginning of the American War in 17
 and thus at 3,750,000,000 187,500,000 thalers in gold.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-81">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-81">Part 3, p. 81</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9741,9 +10418,11 @@ It is visible what significant damage the Emperor of the French inflicts upon hi
 But how — asks the cosmopolitan in an anxious tone — but how is the world's quarrel to come to an end? If there is no hope of England's near decay; if the Britons continue further on, secretly or openly, to trade us their colonial and manufactured wares; if France strives above all after navigation, trade, and colonies, and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-82">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-82">Part 3, p. 82</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9767,9 +10446,11 @@ Here I find myself again compelled to return to the author of the new Leviathan.
 "England must retain in its power, at the conclusion of peace, the means of gradually reducing its national debt: therefore let it keep possession of the Viceroyalty of Peru which it has conquered, and let France even guarantee it that possession, though under the condition that it make no claim upon the remaining possessions of Spain in America."
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-83">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-83">Part 3, p. 83</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9801,9 +10482,11 @@ Here I find myself again compelled to return to the author of the new Leviathan.
 "Finally, Malta too is given back to the world. Here, upon Malta, let a Congress be established which,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-84">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-84">Part 3, p. 84</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9827,9 +10510,11 @@ Under such a conclusion of peace both parties would be satisfied and all antagon
 Would that the rulers of the world took this proposal into consideration! that, upon these conditions, they reached out to one another their blessing hands for the restoration of peace! No other salvation blooms for us than in this or a similar
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-85">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-85">Part 3, p. 85</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9875,9 +10560,11 @@ And to that end may the Genius of quiet, domestic joy soon help us! the guardian
 When the Prussian army assembled in the Thuringian Forest at the beginning of October 1806, the Regiment von Grävenitz received orders to occupy the town of Nienburg and Hanover. At the end of September the second battalion of this regiment marched to Hameln; the first battalion was assigned as the garrison of Hanover.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-86">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-86">Part 3, p. 86</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9897,9 +10584,11 @@ Colonel von Scharnhorst reported to General von Bila that the enemy had attacked
 This hint would have sufficed for any general whom age had not dulled, and who possessed only quite ordinary common sense, to come to his decision. I, in General von Bila's place, would have reconnoitred the enemy's positions on the Saale; would have pictured the state of affairs to myself quite vividly, and would have considered that the defeated army would inevitably retreat across the Elbe. Accordingly I would have marched on the 18th by way of Hildesheim and Brunswick to Magdeburg. But Colonel von Scharnhorst had, out of modesty, been unwilling to spell out to General von Bila what he ought to do, presuming that he would surely see for himself that, matters standing as they did, his remaining in Hanover could continue no longer. General von Bila, however, remained undisturbed where he was, and I believe he would
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-87">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-87">Part 3, p. 87</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9923,9 +10612,11 @@ This corps therefore marched on the 20th to Zelle, on the 21st to Uelzen, on the
 So on the 24th the corps crossed the Elbe at Dömitz, on the 25th it marched as far as Lenzen, on the 26th as far as Wittstock, on the 27th as far as Mirow. At this night's quarters we were informed by countryfolk that the enemy had attacked General Blücher at Fürstenberg
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-88">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-88">Part 3, p. 88</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9945,9 +10636,11 @@ General von Bila ought to have looked more closely into the grounds of this repo
 As far as Mirow, General von Bila was resolved to march by way of Woldeck and Pasewalk to Stettin. But when Lieutenant von Kyuilenstirna, who during the march was always two days' march ahead, reported that it was no longer possible to get through by way of Pasewalk, our commander hit upon the notion of marching to Demmin instead. But more clear-sighted men, who could not look upon this outrage
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-89">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-89">Part 3, p. 89</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9971,9 +10664,11 @@ The idea of going to Demmin was accordingly abandoned, and it was resolved to ma
 They related that Hohenlohe's corps had suffered severely at Boitzenburg (they were for the most part gendarmes), and that the enemy had partly turned toward Friedland and partly was pursuing them. General von Bila at first took no notice of this report; but when afterward an officer likewise appeared in flight, and not only confirmed that report but added further that the enemy could no longer be more than a quarter of an hour distant from the point where the head of the column stood, and that one had even ridden forward to the edge of a wood, and in the grey of dawn
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-90">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-90">Part 3, p. 90</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -9989,9 +10684,11 @@ had observed that the whole field was black with the enemy, the corps deployed f
 Thereupon an officer went to General von Bila to represent to him that marching back at random would infallibly result in the captivity or the destruction of the corps, for which he might be held to account. He further observed that this countermarch after all rested only on the statements of men whom terror and fear were tormenting, who were probably cowardly fellows that could not have done their duty, since otherwise they would surely have remained with the main body. No enemy had yet been seen; he ought to send out patrols, and then, if, having seen with his own eyes and judged the enemy's strength, he found a breakthrough impossible, there would still be time to turn back and seek out another Prussian corps
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-91">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-91">Part 3, p. 91</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10015,9 +10712,11 @@ The whole course of this incident could not have occurred if better security mea
 General von Bila was informed of this and directed to the Karel Pass near Friedland, behind which, in case the enemy were not already
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-92">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-92">Part 3, p. 92</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10041,9 +10740,11 @@ Since, fortunately, the director of all these trains, Lieutenant-Colonel von Pri
 By the calculation of these officers, General von Bila ought to have arrived near Anclam on the evening of the 29th.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-93">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-93">Part 3, p. 93</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10067,9 +10768,11 @@ Had they carried out this decision, they would individually have escaped the dis
 But they thought it contrary to duty to take flight without necessity. They wished, therefore, first to await the actual arrival of the enemy, and then to seek out the King's army.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-94">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-94">Part 3, p. 94</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10089,9 +10792,11 @@ Since Major von K. did not know how to give sound advice in a time of need, he w
 He met the column and assured them that he had intended to go to Anclam. But since Anclam was occupied by the enemy, he now wished to try whether a passage could not be made along the coast of the Haff,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-95">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-95">Part 3, p. 95</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10103,9 +10808,11 @@ He met the column and assured them that he had intended to go to Anclam. But sin
 by way of Uckermünde, Neuwarp, and Politz, to Stettin. This foolish reasoning seemed so plausible to General von Bila that he adopted this very idea. But he did not consider that if there was no getting through at Anclam, there could be even less chance of it at Uckermünde, and that since no trace of the enemy had yet been discovered in the neighbourhood of Friedland, the enemy must necessarily have marched by way of Uckermünde to Anclam, and must therefore also have occupied that place in order to remain in communication with the enemy stationed at Pasewalk. This single reflection could have saved General von Bila from making an even more pointless flanking excursion than the one at Neubrandenburg; but to calculate according to the principles of warfare, and thereby, among several unfavourable eventualities, to take the best measures, did not seem to be this general's forte. Enough: General von Bila pursued the march plan proposed by the runaway hussar non-commissioned officer. At Leopoldshagen, however, he was met by the Gettkand Hussar Regiment and the Bila Hussar Battalion. This cavalry had separated from the corps of Prince Hohenlohe and had advanced to within two miles of Stettin. The commander of this cavalry, in accordance with etiquette, dispatched an officer to the Commandant of Stettin to announce to him that this cavalry would pass through Stettin the following day. The Commandant of Stettin, would one believe it, sent back word
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-96">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-96">Part 3, p. 96</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10125,9 +10832,11 @@ Fifteen squadrons of hussars, which could very well have been preserved for the 
 Through this cavalry General von Bila was at last roused from his dream; he accordingly turned back at Leopoldshagen and marched to Anclam. Extremely fatigued, the corps arrived at Anclam on the 30th at 10 o'clock in the evening. The enemy followed at its heels. Notwithstanding this, not the slightest measures of defence were seen to be taken. Since the corps of General von Bila happened to have grown to nearly 4,000 men, in that, besides the 15 squadrons of hussars, the Sacken Grenadier Battalion and several hundred cavalry fugitives who had been scattered in the actions at Boitzenburg, Prenzlow, and Pasewalk had also joined it, a position might well have been taken with this force upon the heights before Anclam. One could have remained standing there until bread and forage had been received in Anclam, and until one had seen the enemy. One would then at least have escaped the reproach that the Bila corps had been disarmed by 600 men — for the Becker division is really said to have been no stronger than that. But how far one was from taking such a heroic
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-97">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-97">Part 3, p. 97</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10151,9 +10860,11 @@ According to General von Becker's own statement, he was in Anclam on the 30th, d
 But since General Becker found only the Sacken Grenadier Battalion there, it is to be believed that his expedition on the 31st was calculated only upon this catch.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-98">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-98">Part 3, p. 98</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10173,9 +10884,11 @@ It was expected that General von Bila would draw up a disposition, or would at l
 But how little he resembled General von Ziethen, whom Frederick the Great called the watchman of the army, since on no march did he lay down his head before he had ridden round the entire chain of outposts and made himself acquainted with the terrain. General von Bila was dulled; I believe he was ill, for he gave himself up to sleep without knowing the terrain, without having ordered when, and in what order, the troops were to withdraw across the Peene; without having taken measures to have the ships and boats brought over to the Swedish side; and without having ordered Captain of Cavalry von Hiller — who, without any consideration whatever, had been left cantoned in the Prussian villages before Anclam — to cross the Peene during the night as well, like the rest of the cavalry. Everything commanded itself. Throughout the whole night the baggage and the cavalry filed through Anclam across the Peene. Of holding one's ground on this side of the Peene there was therefore no longer any thought.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-99">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-99">Part 3, p. 99</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10191,9 +10904,11 @@ Nevertheless, at daybreak the infantry assembled and remained lying in the stree
 It was therefore denounced to General von Bila as soon as he had arrived in Anclam, and it was urged upon him to give this major immediate orders to withdraw with his ordnance across the Peene. He promised to do so. But nothing further was seen or heard of this fine artillery; probably the artillery major's wish had been realized.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-100">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-100">Part 3, p. 100</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10209,9 +10924,11 @@ Can the disadvantages of placing feeble generals at the head of army corps be ma
 At nine o'clock the enemy advanced against the gates of the town. Although all passages and roads had been occupied by the captain commanding the rearguard, the enemy nonetheless succeeded in throwing back the post at the warehouse, whereby the troops in the town were cut off from the Peene bridge. The captain therefore withdrew with his men across the Peene; here, after the bridge had been raised, he posted himself on the bank of the Peene to receive the enemy. Several enemy officers thereupon reconnoitred our position, on which occasion fire was given, which was not without effect. From this time on a musketry fire was engaged on both sides, which continued uninterrupted, with no inconsiderable loss on both sides, until toward five o'clock in the evening. The Prussians kept the bank clear and cut the anchors from the ships and boats in order to let them drift downstream. In this work
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-101">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-101">Part 3, p. 101</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10235,9 +10952,11 @@ It was therefore a possible case that at least the infantry of this corps could 
 The two Generals von Bila looked at each other in mute despair, but did not act. Had they but taken the map before their eyes, it must have
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-102">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-102">Part 3, p. 102</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10257,9 +10976,11 @@ Toward evening the detachment posted at the Peene bridge was relieved by the fir
 Parleying began. General von Becker announced the capitulation of Prince Hohenlohe and the surrender of Stettin. He brought home to General von Bila that they had put themselves into a cul-de-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-103">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-103">Part 3, p. 103</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10279,9 +11000,11 @@ If, given the proximity of the enemy, there was not time enough to cross over to
 The equipages and knapsacks would, to be sure, be lost, but one would save one's honour. The King could one day replace the lost property, but the King himself could not be replaced, if one withdrew from the fatherland, in so
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-104">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-104">Part 3, p. 104</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10301,9 +11024,11 @@ Had the matter been weighed a little more sharply, a negotiation over the capitu
 In the character of General von Bila there lies no obstinacy, for as often as a plain and useful piece of advice was given him during the preceding marches, he lent his hand to it with the greatest readiness. It is to be believed that, had some person of weight come forward to instil in him, by force of these reasons, an aversion to the capitulation, he would readily have been brought round to it; but by ill luck chance had brought along some officers of the *gens d'armes* onto the heights near Ziethen, who declared aloud that nothing better could now be done than to accept the capitulation; their ill conduct at Jena had lowered their boastful tone; the drubbing at Boitzenburg had made them
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-105">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-105">Part 3, p. 105</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10331,9 +11056,11 @@ By reason of higher command it would probably have been forgotten, had not the o
 Notwithstanding that the approach of the enemy in the night of the 29th was reported to General von Bila, he nevertheless neglected to notify Captain of Cavalry von Hiller of it, which had the consequence that this captain, with his whole troop, fell into the enemy's hands on the 30th.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-106">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-106">Part 3, p. 106</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10353,9 +11080,11 @@ Im Glogauischen Kammerdepartement ist die Ruhe wieder hergestellt, die durch ein
 In the Glogau Chamber department, order has been restored — the order which some time ago was disturbed by a few young, fiery officers in Sagan and the neighbouring region. This town has had to atone for it, because it was imagined to be full of patriots; Grünberg came off better. The French cannot be blamed for covering their rear. But they are also vigorously supported by the civil authorities. There in Glogau is the old and venerable President of the Oberamt, Baron v. C., who as early as 1802 celebrated his fiftieth jubilee of service, and on that occasion was rewarded for his faithful services by the King with the Order of the Red Eagle, and by the province with a monument and a commemorative medal — this old man, now but two fingers' breadth from the grave, came forward with devotion to meet the victors, executes their commands with great severity, and is the only one among the Government Presidents
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-107">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-107">Part 3, p. 107</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10383,9 +11112,11 @@ Were one inclined to regard this conduct as the weakness of old age, then the Ch
 > notre vilain Chambellan.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-108">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-108">Part 3, p. 108</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10405,9 +11136,11 @@ To the towns of his district he issued the following highly telling rescript, wh
 Although one should suppose that reason, prudence, and the instinct of self-preservation innate in all men would move every single individual, in the present state of affairs, to have particular regard for everything that may serve his personal safety, and not to expose himself needlessly to unpleasantness and danger, various events that have occurred in several towns have nonetheless convinced me only too well that this maxim of prudence is entirely lost sight of by many, inasmuch as, by their utterances in public places and by their actions, they give occasion to be held for suspect persons. Examples of what is here stated were furnished by Grünberg and Sagan, where on various occasions burghers or other townsfolk permitted themselves utterances of sympathy with what had occurred which were in the highest degree ill-considered, and which could neither serve the interest of the King of Prussia nor be detrimental to the French, but were very well noted by the persons interested therein,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-109">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-109">Part 3, p. 109</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10427,9 +11160,11 @@ By order of His Excellency the Governor-General v. Verrieres, and moved to it mo
 More or less, all Frenchmen understand German; only the circumstance that they are not entirely masters of the language is the cause of their being mistrustful, for the experience of several countries—for example Tyrol, Calabria, etc.—has given them occasion for it. Being precisely acquainted with the state of things as they really are, I feel moved thereby to avert unavoidable misery, the inevitable ruin of the towns, the most dreadful lot that could befall magistrates, burgherhoods, and inhabitants, and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-110">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-110">Part 3, p. 110</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10449,9 +11184,11 @@ Glogau, the 26th of February 1807.
 v. Tschirschky.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-111">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-111">Part 3, p. 111</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10479,9 +11216,11 @@ Not long ago a prisoner-of-war officer came to Berlin and to the commandant, Gen
 The general's clerk (a private of the Imperial French Guard) receives him in order to take down his request in writing, and addresses him in French, of which the officer, despite the good education he had enjoyed at the local Cadet Corps, is not entirely master.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-112">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-112">Part 3, p. 112</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10545,9 +11284,11 @@ That throws the man off entirely; at the exclamation he has forgotten again what
 Yes—answered the sweating man; laughing, the clerk writes it down, and the officer withdraws,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-113">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-113">Part 3, p. 113</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10579,9 +11320,11 @@ And beside the recorded name of the man now under arrest the deputy read: "A goo
 Kotzebue, in his comedy *The Epigram*, has the Chamber Councillor Hippeldanz say: I know a little country where titles are absurdly cheap! Which little country might he have meant? In this connection Swedish Pomerania, among others, always comes to my mind. Here, at least until a couple of years ago, the trade in titles and offices was thoroughly at home. There one could still
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-114">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-114">Part 3, p. 114</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10593,9 +11336,11 @@ man noch — wenigstens im Kleinen — für Geld Alles werden, wozu man Lust hat
 —at least on a small scale—become anything one had a fancy for, for money. For example, a Court Councillor was worth 100 ducats; that is what the title cost. Actual offices one obtained for a pittance from a state servant who could no longer, or would no longer, carry on. A minor post yielding 400 to 500 thalers was purchased with 4,000 to 5,000 thalers. At that time the post of a weigh-house director, which brought in about 450 thalers, was sold off for exactly 1,800 thalers; as in the civil service, so it went in the military too: for money one became an officer, of as much consequence as one pleased, that is, as much as one could pay for. A captaincy with the company was paid for with 2,000 to 6,000 thalers. Probably this has not changed in the past two years. The possible ill consequences are plain to see. Men come into offices who possess nothing besides the purchase sum to qualify them for it. One can be called secretary without knowing how to hold a pen, be a captain without possessing the slightest military knowledge. But in return one hears here—as in Berlin—all manner of edifying little titles ringing out; no man is called by his father's name. No, he simply must be something in the state, whether he wants to or not. This Krähwinkel custom, however, is not native to Berlin and Swedish Pomerania alone: one finds it in many other towns and townlets, countries
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-115">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-115">Part 3, p. 115</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10619,9 +11364,11 @@ and little countries, where—thank Heaven—rank is not for sale.
 Just so do our men of business, who know only the old routine and do not think for themselves; to them every good reform in the constitution or administration is a disorder, a harmful innovation; exactly thus did many officers behave in the campaign of 1806; in the art of war they still stood at the close of the Seven Years' War, they had remained there in the conviction that all was well, and had played l'hombre while the French advanced a thousand paces. Naturally the innovation displeased them, whose spirit they did not know. Naturally they could not
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-116">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-116">Part 3, p. 116</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10645,9 +11392,11 @@ The now-murdered Emperor of Haiti, Jacob Dessalines, in order to promote the sci
 Let us compare with this grant of freedom the Berlin censorship before the outbreak of the present war. There, too, everything could be printed, only nothing against religion, the King, and the State. That, thought of so simply, was indeed very reasonable; but how far could the meaning of this condition be stretched, if a weak-headed or narrow-minded censor so pleased, for he was by no means responsible for his actions in this regard; he could construe a wholly innocent passage according to his own fancy, and strike out of a piece of writing
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-117">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-117">Part 3, p. 117</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10663,9 +11412,11 @@ whatever pleased him. Complaints about this were not entertained. A man of signi
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-118">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-118">Part 3, p. 118</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10687,9 +11438,11 @@ says Hans Sachs, and with great justice. What rumours run through the people in 
 For example: Mr. No. 1 meets his friend No. 2 and says to him: A courier has just arrived, but where he comes from, and what he brings, no one knows. No. 2 goes on and tells No. 3 that a courier has come, and that it is supposed an engagement has taken place. At once No. 3 tells No. 4, his acquaintance, that there has been a great affair at N. N. Importantly No. 4 exclaims, on entering the wine-house: Do you know already that at N. N. a murderous battle has been fought,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-119">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-119">Part 3, p. 119</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10713,9 +11466,11 @@ If one wished to be candid, one would have to answer: No. 12 says that No. 11 co
 Whoever has an inclination to know how wonderfully often individual men can attain to rank, weight, and high offices for which they possess not the least abilities,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-120">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-120">Part 3, p. 120</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10735,9 +11490,11 @@ There was once a young man of great family who, as was the custom in his fatherl
 Naturally, it was not long before several of the tipplers found themselves dead-drunk under the table, and to this class the ensign belonged. Yet the collapse was by no means the finale of the bacchanalia; the ensign's lungs, not invulnerable to begin with, had been attacked by the drastic flame of the drink, he thought he should faint from the heat in his bowels, and at last fell into a lingering, painful disease of the chest.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-121">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-121">Part 3, p. 121</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10753,9 +11510,11 @@ A sensible physician advised him: he should take leave, go into the country, and
 Another flew swiftly up one rung after another in the military, because a court lady, back when he was still a Second Lieutenant, said of him to the Prince's consort: Yesterday I danced with N. N. "D,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-122">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-122">Part 3, p. 122</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10775,9 +11534,11 @@ Can one then really ask for more, than that dancing here, and arrack there, shou
 Are these events not miracles in the spirit of the age?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-123">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-123">Part 3, p. 123</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10801,9 +11562,11 @@ These reviewers have also said: one must censure a fault beforehand, not afterwa
 For all I care, these gentlemen may say what they will, it is entirely a matter of indifference to me; for they only ever busy themselves with the form and with titles, misprints, and I know not what else.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-124">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-124">Part 3, p. 124</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10843,9 +11606,11 @@ when he beheld their confused position.
 Whoever then steps forth publicly, as Bülow did in his campaign of 1805, makes only a sacrifice to his own vanity; he does indeed earn himself the name of a prophet,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-125">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-125">Part 3, p. 125</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10865,9 +11630,11 @@ But when there is nothing more to keep silent, when the state lies shattered in 
 Shameful is the reproach in these times (I mean against the Journal): that the King is portrayed very favourably, in order that his weakness may stand out all the more.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-126">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-126">Part 3, p. 126</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10903,9 +11670,11 @@ I should indeed like once to see how this warming is supposed to come about?
 Thus the gentlemen suppose, there behind the warm stove. But they ought once to step outside among the people, and there they would soon perceive that all warming is at an end: it is all in vain!
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-127">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-127">Part 3, p. 127</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10937,9 +11706,11 @@ To that I give very little heed. I shall name myself to the King; may He, the ju
 If adherents of the true, genuine Prussian system of state can be judged and punished, then this is the greatest proof that it exists no longer.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-128">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-128">Part 3, p. 128</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10955,9 +11726,11 @@ So much on the tendency of my writings, and now let me be in peace with them, yo
 The Editorship of the New Firebrands.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-129">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-129">Part 3, p. 129</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10977,9 +11750,11 @@ On the title page of the first Part of the *New Firebrands* I rightly appear as 
 The second Part contains only the treatise on page 118 by me. This Part did not come before my eyes until I had just returned from a two-month journey. The essays were therefore not read by me before printing.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-130">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-130">Part 3, p. 130</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -10999,9 +11774,11 @@ Let him go to law with the many who are compromised and slandered in this regist
 I do not defend the censured donations; I have given my opinion on them in the first Part of the *Confidential Letters*. If it is certain that Count Hoym protested against the confiscation of the ecclesiastical estates and starostas, how can he have set the donations in motion?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-131">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-131">Part 3, p. 131</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11037,9 +11814,11 @@ How could the lame man have managed such a thing?
 Under all circumstances Hoym's shrewdness had resources enough to spare him such a degrading act toward a man like Eisenberg. The blame for having provoked the uprising fell upon Werner,
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-3-132">
+<section class="lit-passage has-related" id="p-3-132">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-132">Part 3, p. 132</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11071,14 +11850,16 @@ The Government Councillor von Grevenitz is done too much injustice here; he is q
 Grevenitz was not in fact a judge in the matter at all, but the official counsel of Countess Gurovska; nor was the legal dispute of the Gurovsky spouses as to the property (*quo ad Bona*) ever adjudicated, but rather settled by agreement. (One sees how poorly the author
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>The black register lists the estates given to the Prince of Hohenlohe, Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift yielding 6,000. It says that the Prince himself gave the cabinet that yield when he tried to exchange the estates for the crown domain of Krotoszyn, and that the cabinet councillor Beyme stopped the exchange. Cölln answered in 1807 that it was the minister Voss who stopped it, and the letters bear him out. They hold the gift of 1796; the King's refusal of December 1798 on Voss's report, by which estates valued at a yield of 8,650 a year now brought 40,500; the Prince's answer, that his estates yielded 41,500 and Krotoszyn's rent was 30,100; and his later petition.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>Cölln's postscript says the exchange would not have been unjust had it followed the valuations, and that Voss thwarted it. The letters carry the exchange itself: the King's refusal of 4 December 1798 grounded on Voss's report, the Prince's answers of 7 December calling that report one-sided ("auf einseitiges Angeben des Kriegesrath Nöldichen"), and Triebenfeld's report of January 1799 that Voss opposed the exchange with everything he had. The Prince's second petition is the answer to Voss's own reasons, taken one by one.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-3-133">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-133">Part 3, p. 133</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11110,9 +11891,11 @@ If the purchase had been made by him as a favour to Bischofswerder, how could he
 The Knighthood Councillor von Unruh is as upright a man as General Köckeritz, and it is not true that the aforementioned estates were given to the latter as a gift; rather, they were granted to von Unruh in hereditary tenure (Erbenzins) against a hereditary tenure fee and the buying-out of the previous holder, Count Lucas v. Bninsky. This buying-out Mr. v. Unruh had to pay for dearly, and moreover had to match in money the inventory found on the estates. He put the
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-3-134">
+<section class="lit-passage has-related" id="p-3-134">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-134">Part 3, p. 134</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11152,14 +11935,16 @@ The third Part, save for this postscript, had likewise already been printed.
 ---
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>The black register's entry on Triebenfeld gives his estates as valued at 31,000 Thaler when they were given to him, with 20,000 paid for the lordship of Laski. The Kalisz government valued them in the spring of 1797 at over 700,000; he sold them to Prince George of Hesse-Darmstadt for 400,000, and Prince George sold them on in March 1801 for 750,000. Triebenfeld's letters to the Prince of Hohenlohe give the same valuation (over 700,000, April 1799) and the same resale (750,000, February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800). Cölln remarked in 1807 that the figures include estates that were Triebenfeld's own.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>Cölln's postscript says that beneath the assessment of the Triebenfeld estates and their sale price lie estates that were his own, and that he had turned the buildings into good repair before he sold. His letters give the sale's inside from his own hand: the price to Prince George 280,000 with 270,000 of debt standing on the estates (July 1800), and the buyer reselling for 750,000 (February 1801).</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-3-135">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-135">Part 3, p. 135</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11183,9 +11968,11 @@ I must acknowledge, in accordance with the truth, that the author of the *Confid
 This reply came too late; the second Part of the New Firebrands had already gone out into all the world.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-136">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-136">Part 3, p. 136</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11209,9 +11996,11 @@ P. 108, line 3 from the top, read, instead of "Napoleon would raise him to the o
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-137">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-137">Part 3, p. 137</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11239,9 +12028,11 @@ Still less to the present editor and author of the *Confidential Letters*; it is
 I am not one of the poltroons; for reasons which I have no inclination to develop here, I shall perhaps keep silent against you publicly, but at your expense I shall justify myself privately with a very coarse portrayal
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-138">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-138">Part 3, p. 138</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11281,9 +12072,11 @@ It is a manifest lie when you say in the *Confidential Letters*: I suck poison o
 Does not the black register itself bear witness to this?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-139">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-139">Part 3, p. 139</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11319,9 +12112,11 @@ For the rest, virtue does not consist in affronts against the persons who direct
 One sees: it is not possible to please all men in all things.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-140">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-140">Part 3, p. 140</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11357,9 +12152,11 @@ For all I care, the registrar may now have an authentic one printed, or retract 
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-141">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-141">Part 3, p. 141</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11405,9 +12202,11 @@ Retail price 3 thalers. Bulk price for 6 copies at 2 thalers each.
 If it is true that of all forms of knowledge the practical ones, or those which stand in immediate relation to practical life, are the most important and the most indispensable, then technical knowledge, by the unanimous judgement of all educators, belongs among the most indispensable of all; and thus what the author of that work says in the preface to the first volume is surely correct: "that everyone who lays claim to cultivation must know roughly as much of technology as is contained in his book, if he does not wish often to be placed in the embarrassing position of exposing his sorry ignorance." — One may therefore without hesitation recommend this work as an indispensable item in every library of every cultivated man, however
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-142">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-142">Part 3, p. 142</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11447,9 +12246,11 @@ VIII. Horn, bone, ivory, pearls, tortoiseshell and coral, together with similar 
 IX. Milk. — Preparation of butter and cheese.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-143">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-143">Part 3, p. 143</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11495,9 +12296,11 @@ III. Plant stalks. 1. Flax and hemp. Working of both, preparation of lace, of li
 I. Clays. 1. The Potter, preparation of crucibles. Preparation of stoneware. Faience factory. Porcelain factory. Pipe-baking. The Brickworks.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3-144">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3-144">Part 3, p. 144</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -11666,6 +12469,7 @@ a) Sulphur. Sulphur works. b) Graphite. Manufacture of pencils. c) Amber. Amber-
 
 <span class="lit-note" id="n-en-24">24</span> Here Herr von Tschirschky seems to step out of his role, but in the main he is right; for what is wiser than the rules of self-preservation, and can one win over the enemy better than by yielding? C....m....r.
 
+</div>
 </div>
 </section>
 {% endraw %}

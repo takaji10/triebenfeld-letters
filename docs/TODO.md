@@ -715,6 +715,29 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] **You:** a look at the work's page and the excerpt, then publication
       at your word. **Published 2026-10-22** ("Publish"): the "Build and
       deploy" run succeeded and the pages answer on the live site.
+- [x] Dorow (1843), the memoir of Triebenfeld, found and brought in
+      (2026-11-01; LITERATURE_PLAN.md, section 31): the PDF of the SBB
+      digitisation of *Erlebtes aus den Jahren 1813-1820*, part II, had been
+      downloaded 2026-10-19 with the first literature set and left
+      unprocessed - the memoir "Pohlen unter Friedrich II. und Friedrich
+      Wilhelm II." that the volume prints from Triebenfeld's manuscript of
+      1813 (printed pp. 13-24, with its title leaf and Goethe motto as the
+      front) is the longest thing he is known to have written, in his own
+      words; the Materialien reprints it only in extract and Łukasiewicz
+      retells it. Read by Tesseract with the Fraktur model, checked line
+      against line against the Materialien's reprint; nine readings on the
+      editor's spot sheet; one hand-made link to the Prince's three letters
+      (104, 108, 112). Built and verified.
+- [x] **You:** the spot sheet "Dorow (1843), Triebenfeld's memoir: the
+      doubtful readings" — answered 2026-11-01 (eight of nine rows: 5
+      Procent, gehauset, Officianten, Würkungskreis, bewürken, kukken,
+      Michelis, Pohlen; the cross-reference row left open in
+      NEEDS_CONFIRMATION), the rulings worked in and everything rebuilt.
+- [x] **Published 2026-11-01** at your word ("Publish"): pushed to main
+      (21a7d01f7), the "Build and deploy" run 41286917735 succeeded, and
+      /literature/dorow1843/ and /de/literatur/dorow1843/ answer, the "In
+      the documents" box and its three letters included.
+- [ ] **You:** a look at the work's page.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 
@@ -1463,3 +1486,55 @@ transcription; 108 readings settled in session before the first build
       be rediscovered." Today's rebuild went through the merged steps
       directly, in their order, skipping the per-unit steps the change could
       not affect.
+
+## 59. The literature's call-outs reworked: "Related", per passage (2026-11-01, branch `related-callouts`)
+
+- [x] Published at your word on 2026-11-01 (the two commits cherry-picked
+      onto main, the Pełzucki map work beneath the branch left unpublished;
+      the Build and deploy run 41331884277 succeeded).
+
+- [x] The duplicated call-outs found (18 links stamped the same box on 2-9
+      passages of one work) and reworked: per-passage notes (`about:` in
+      `literature/links.yml`), the heading "Related"/"Bezüge", the gutter
+      column with its toggle, the Treskow/Wendessen entries pruned from
+      `register-other-gifts` (LITERATURE_PLAN, section 32).
+- [x] The first sweep of new links at the editor's choices: the donation
+      dossier against the register's entries (`register-donations`), Held's
+      Früson papers against the letters (`held-krotoszyn`), Guradze's
+      emancipation chapter against the lease's paragraph 13
+      (`guradze1898-emancipation`), Paciorkowski's boundary rules against
+      the court books (`paciorkowski1776-boundary`).
+- [ ] You: read the per-passage notes on the site (every page of the
+      Materialien and the Feuerbrände in the register's span, and the other
+      works' pages that carry them) and the four new links' sentences; the
+      flags they raise are in NEEDS_CONFIRMATION (the register's official
+      89,250 Thlr. against the dossier's 120,000 rt; Duninow's 1,500 rt
+      against "certainly 6000"; the Konin row's 12,000; Żychliński's
+      Władysław against the summons's Włodzimierz; Held's composition as
+      the 1795 Abtretung; the Paciorkowski tie as resemblance, not
+      statute).
+- [ ] Claude, then: the sweep's next batches, at your word — Paciorkowski's
+      remaining passages (178), then the works of the edition's ground not
+      yet linked (Werner, Mielewczyk, Muszyńska, Mączak, Frost), then the
+      rest. The measure of relevance: a document that confirms, corrects,
+      extends or dates what the passage says, in that order of value.
+
+## 60. The connections between documents of different holdings (2026-11-01, branch `related-callouts`)
+
+- [x] Published at your word on 2026-11-01 (same push as section 59's:
+      run 41331884277 succeeded; the connections' box answers on the live
+      document pages).
+
+- [x] The mechanism built: `reference/connections.yml`, its builder, the
+      "Related"/"Bezüge" entry in a document's "About this document" box,
+      the both-sides check (CONNECTIONS.md).
+- [x] The method written down (chains, per-entity sweeps, figures as
+      hooks), and the Connections step added to NEW_UNIT section 8, the
+      newspapers', places' and literature's adding procedures.
+- [x] The first batch: four connections, eight documents, from the chains
+      the ruled links had already mapped.
+- [ ] You: read the four connections' notes on the site (the "About this
+      document" box of each of the eight documents, both languages).
+- [ ] Claude, then, at your word: the sweep's next passes — the remaining
+      chains the summaries suggest, the per-entity sweeps from the index
+      (fewest documents first), then the era essay as a map.
