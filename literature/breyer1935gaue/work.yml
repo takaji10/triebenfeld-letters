@@ -13,6 +13,9 @@ cite: "Breyer (1935a)"
 author: "Albert Breyer"
 author_sort: "Breyer, Albert"
 published: "Ostdeutsche Heimathefte, Heft 4, 1935 (ed. Viktor Kauder), and Deutsche Monatshefte in Polen, Jahrgang 1 (11), Heft 10, April 1935; chapters V and VI only, cited by the pages of the digital reissue by Jutta Dennerlein (UpstreamVistula.org, version 1.0, October 2006)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Ostdeutsche Heimathefte, Heft 4, 1935 (ed. Viktor Kauder), and Deutsche Monatshefte in Polen, Jahrgang 1 (11), Heft 10, April 1935"
 year: 1935
 language: de
 english_by: Claude
@@ -42,10 +45,10 @@ account_de: >-
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Two chapters of Breyer's survey of 1935 of the German settlements of central
+  Breyer's survey of 1935 of the German settlements of central
   Poland, on the Konin and Kalisz country, with the founding of Łazińsk
   Holland on the Trąbczyn estate in 1746.
 brief_de: >-
-  Zwei Kapitel aus Breyers Überblick von 1935 über die deutschen Siedlungen
+  Breyers Überblick von 1935 über die deutschen Siedlungen
   Mittelpolens, über das Koniner und Kalischer Land, mit der Gründung von
   Łazińsk Hauland auf dem Gut Trąbczyn 1746.

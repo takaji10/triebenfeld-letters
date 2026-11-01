@@ -95,7 +95,8 @@ Found when they were brought in:
 ```
 literature/<slug>/
   work.yml        bibliography, kind, language, page-mark form, visibility,
-                  the account of the work (EN and DE), who made the English
+                  the account of the work (EN and DE), the card's published
+                  line and brief, who made the English
   original.md     the editor's file, unchanged (git may change its line
   english.md      endings, nothing else)
   notes.md        how it came in, the alignment, the spot check of the English
@@ -1432,3 +1433,73 @@ The rework, the editor's choices of that day (asked and answered):
   order of value.
 - Verified: build and `pipeline/verify_site.py` clean (302 link-pairs
   checked on both sides, 37 links, 40 documents). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
+
+
+## 33. The cards shortened: `published_card` (2026-11-01)
+
+The editor (2026-11-01): the cards on the Literature page are too lengthy,
+especially "with the punishing details" - and the site is not called the
+edition. Read across all 41 cards, the length sat almost entirely in the
+published line, which reused the work page's full `published:` string and had
+collected six kinds of matter that are not the original imprint: what the site
+holds of the work ("chapters V and VI only", "the extract pp. 159-160"), the
+reissues and digitisations the pagination is cited from (Dennerlein's
+UpstreamVistula reissues, Minakowska's online Boniecki, the RCIN
+digitisation), the year-inference notes ("not read off a title page"), the
+licences and permissions, the production credits (ISBNs, printers, funders,
+designers, photographers) and translated glosses.
+
+**The standing rule**: a card gives the original imprint or
+first-publication citation - who wrote and published the work, where and
+when - and the brief says what the work is and what it gives the site.
+Everything about how the site holds the work (excerpt spans, reissue
+pagination, digitisations, year inferences, licences, ISBNs, printers,
+funders, credits) lives on the work's own page, which keeps the full
+`published:`. The same rule for the briefs: a brief does not say which part
+of the work the site gives ("of which page 87 is given"); the work page's
+account does that.
+
+**How**: a new `published_card:` field in a work's `work.yml`, beside
+`published:` (language-neutral: once the glosses are stripped the line is
+bibliographic, so one string serves both languages). `literature_site.py`
+carries it in `card_extra()`; the card include renders
+`w.published_card | default: w.published`, for the top-level cards and the
+sub-item (Janocki 1779). A work without the field is unchanged. The work
+page's layout keeps the full `published:`; nothing is cut from the site.
+
+**The 24 works given a `published_card`** (the card's line; the full line
+stays on the work's page): boniecki1900, breyer1935gaue,
+breyer1935mutterland, breyer1938, chodyla2015, dabrowska1976,
+dean2012warthegau (prefixed "In: ", for the chapter stands inside the
+Encyclopedia), guradze1898, janocki1779, kneifel1937, kneifel1964,
+lukasiewicz1997, mielewczyk2017, the four minakowska2026 pages,
+pachonski1982, rostworowski1918, slowinski2023, slowinskipolom2024,
+szwiec2009, werner1904, zychlinski1885, zychlinski1891. The other 17 works'
+published lines were already the bare imprint.
+
+**Five briefs trimmed** of the clause naming what the site holds:
+karwowski1900 ("of which page 87 is given"), werner1904 ("of which the entry
+on Wreschen is given"), zychlinski1885 ("Two pages of"), zychlinski1891
+("Seven pages of"), breyer1935gaue ("Two chapters of") - in both languages.
+
+**The card titles left alone** (the editor to rule, not forced): several
+titles carry excerpt detail (`dean2012warthegau`'s page list,
+`zychlinski1885`/`1891`'s "str. ...", `janocki1779`'s "pp. 159-160",
+`boniecki1900`'s "s. 364 i n."). The title is also the work page's heading
+and names what the site holds; shortening them would need a ruling on each.
+
+Future works: the field is written when the work comes in, and the rule is
+in HOUSE_STYLE.md ("Concision").
+
+**The titles, the editor's ruling the same day** ("I don't need to see page
+numbers in the title cards"): a card's title is the work's own title, without
+the page span of what the site holds. Six titles carried one
+(`boniecki1900`, `dabrowska1976`, `dean2012warthegau`, `janocki1779`,
+`zychlinski1885`, `zychlinski1891`) and four carried one in the English
+title (`boniecki1900`, `janocki1779`, both Żychlińskis): each got
+`title_card:` / `title_en_card:` beside its full `title:` / `title_en:`,
+rendered by the same `| default:` fallback as the published line. The work
+pages keep the full titles; the account there already says which part of the
+work the site gives. The Minakowska titles' person IDs (4.285.619 and the
+like) are the database's own identification of the page, not a page span,
+and stay.

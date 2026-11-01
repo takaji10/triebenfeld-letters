@@ -9,11 +9,18 @@ slug: dean2012warthegau
 visible: true
 kind: reference
 title: "Warthegau Region (Reichsgau Wartheland), pp. 34-39, 48, 57-61, 63-64, 99-100, 120-121"
+# The card's title (the list pages): the work's own title, without
+# the page span of what the site holds; the full title stays on the
+# work's own page.
+title_card: "Warthegau Region (Reichsgau Wartheland)"
 title_en: ""
 cite: "Encyclopedia of Camps and Ghettos (2012)"
 author: "Joseph Robert White, Martin Dean, Jolanta Kraemer and Evelyn Zegenhagen"
 author_sort: "Dean, Martin, and Mel Hecker (eds.)"
 published: "The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, vol. II: Ghettos in German-Occupied Eastern Europe, part A, ed. Martin Dean and Mel Hecker, Bloomington: Indiana University Press, 2012; the chapter Warthegau Region, the pages listed. Licensed CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "In: The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, vol. II: Ghettos in German-Occupied Eastern Europe, part A, ed. Martin Dean and Mel Hecker, Bloomington: Indiana University Press, 2012"
 year: 2012
 language: en
 english_by: ""

@@ -18,6 +18,9 @@ cite: "Mielewczyk (2017)"
 author: "Wojciech Mielewczyk"
 author_sort: "Mielewczyk, Wojciech"
 published: "Z Dziejów Kartografii, tom XXI (2017), pp. 41-57. Zespół Historii Kartografii, Instytut Historii Nauki PAN imienia Ludwika i Aleksandra Birkenmajerów"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Z Dziejów Kartografii, tom XXI (2017), pp. 41-57 (Zespół Historii Kartografii, IH PAN)"
 year: 2017
 language: pl
 english_by: Claude

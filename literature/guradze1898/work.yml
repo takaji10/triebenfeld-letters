@@ -12,6 +12,9 @@ cite: "Guradze (1898)"
 author: "Franz Guradze"
 author_sort: "Guradze, Franz"
 published: "Halle, 1898 (108 pages); also in the Zeitschrift der historischen Gesellschaft für die Provinz Posen"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Halle, 1898"
 year: 1898
 language: de
 english_by: Claude

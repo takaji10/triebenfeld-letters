@@ -17,6 +17,9 @@ author: "Michał Rostworowski"
 # The editor of the printed record; the Literature page shows the name, the account says what his part was.
 author_sort: "Rostworowski, Michał"
 published: "Kraków: nakładem Akademii Umiejętności i Towarzystwa Popierania Wydawnictw Akademii Umiejętności, 1918 (drukarnia Uniwersytetu Jagiellońskiego)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Kraków: nakładem Akademii Umiejętności i Towarzystwa Popierania Wydawnictw Akademii Umiejętności, 1918"
 year: 1918
 language: pl
 english_by: Claude

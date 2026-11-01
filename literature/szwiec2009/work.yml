@@ -13,6 +13,9 @@ cite: "Szwiec (2009)"
 author: "Piotr Szwiec"
 author_sort: "Szwiec, Piotr"
 published: "Pyzdry and Poznań, 2009: for the research programme of the MECENAT Association (Stowarzyszenie MECENAT), financed by the Ministry of Labour and Social Policy; design by the Studio of Detail Design, Academy of Fine Arts in Poznań; photographs by the research team (P. Baranowska, A. W. Brzezińska, W. Krzyżaniak, P. Mikołajczak, W. Przewoźny, B. Stańda, P. Szwiec)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Pyzdry and Poznań, 2009"
 year: 2009
 language: pl
 english_by: Claude

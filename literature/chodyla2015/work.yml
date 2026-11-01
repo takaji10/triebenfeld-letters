@@ -16,6 +16,9 @@ cite: "Chodyła (2015)"
 author: "Zbigniew Chodyła"
 author_sort: "Chodyła, Zbigniew"
 published: "Pyzdry: Lokalna Organizacja Turystyczna „Puszcza Pyzdrska”, 2015 (1st edition, 156 pages; with the financial support of the Foundation for Polish-German Cooperation); ISBN 978-83-943651-0-3"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Pyzdry: Lokalna Organizacja Turystyczna „Puszcza Pyzdrska”, 2015"
 year: 2015
 language: pl
 english_by: Claude

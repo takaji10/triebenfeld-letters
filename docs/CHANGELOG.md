@@ -4491,3 +4491,36 @@ footer on every page. Changed, in both languages:
   could reopen it. Worked into about.md/about_de.md, notes.md,
   correspondents.json, NEEDS_CONFIRMATION and CLAUDE.md; the holding
   itself, its transcription, translation and summaries are unchanged.
+
+## 2026-11-01: the literature cards shortened - `published_card`
+
+- The editor: the cards on the Literature page are too lengthy, "especially
+  with the punishing details". The length sat in the published line, which
+  reused the work page's full `published:` and had collected excerpt spans,
+  reissue and digitisation citations, year-inference notes, licences, ISBNs
+  and production credits. Standing rule (LITERATURE_PLAN.md §33,
+  HOUSE_STYLE "Concision"): a card gives the original imprint or
+  first-publication citation and a one- or two-sentence brief; everything
+  about how the site holds the work stays on the work's own page.
+- New `published_card:` in 24 works' `work.yml` (beside `published:`),
+  carried into the site data by `literature_site.py`'s `card_extra()` and
+  rendered by `_includes/literature.html` as
+  `published_card | default: published`, top-level cards and the sub-item.
+  The work pages keep the full line; nothing is cut from the site.
+- Five briefs trimmed of the clause naming what the site holds
+  (karwowski1900, werner1904, zychlinski1885, zychlinski1891,
+  breyer1935gaue), both languages. Card titles carrying excerpt detail
+  (dean2012warthegau, zychlinski both, janocki1779, boniecki1900) left for
+  the editor's ruling (LITERATURE_PLAN.md §33).
+
+## 2026-11-01: the card titles ruled - `title_card`
+
+- The editor: "I don't need to see page numbers in the title cards." Six
+  titles and four English titles carried the page span of what the site
+  holds; each got `title_card:` / `title_en_card:` beside its full `title:`
+  / `title_en:` (the work's own title alone, e.g. "Złota księga szlachty
+  polskiéj, rocznik VII"), carried into the site data by `card_extra()` and
+  rendered by the same `| default:` fallback as `published_card`. The work
+  pages keep the full titles (the account there says what is given). The
+  Minakowska person IDs stay: the database's identification, not a page
+  span. LITERATURE_PLAN.md §33 records the ruling.

@@ -12,6 +12,9 @@ cite: "Pachoński (1982)"
 author: "Jan Pachoński"
 author_sort: "Pachoński, Jan"
 published: "Polski Słownik Biograficzny, vol. 27, Wrocław 1982-1983, pp. 582-584 (the editor dates it 1982)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Polski Słownik Biograficzny, vol. 27, Wrocław 1982-1983, pp. 582-584"
 year: 1982
 language: pl
 english_by: Claude

@@ -12,6 +12,9 @@ cite: "Breyer (1935b)"
 author: "Albert Breyer"
 author_sort: "Breyer, Albert"
 published: "Deutsche Monatshefte in Polen, Jahrgang 2 (12), Heft 1/2, July/August 1935; cited by the pages of the digital reissue by Jutta Dennerlein (UpstreamVistula.org, version 1.0, October 2006)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Deutsche Monatshefte in Polen, Jahrgang 2 (12), Heft 1/2, July/August 1935"
 year: 1935
 language: de
 english_by: Claude

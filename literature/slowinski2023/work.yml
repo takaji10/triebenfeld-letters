@@ -26,6 +26,9 @@ cite: "Słowiński (2023)"
 author: "Mirosław Słowiński"
 author_sort: "Słowiński, Mirosław"
 published: "Konin: Wydawnictwo Setidava, Miejska Biblioteka Publiczna im. Zofii Urbanowskiej w Koninie, 2023 (ze Stowarzyszeniem Współpraca Polska-Wschód). ISBN 978-83-67258-15-9, ISBN 978-83-63554-53-8"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Konin: Wydawnictwo Setidava, Miejska Biblioteka Publiczna im. Zofii Urbanowskiej w Koninie, 2023"
 year: 2023
 language: pl
 english_by: "the editor's files"

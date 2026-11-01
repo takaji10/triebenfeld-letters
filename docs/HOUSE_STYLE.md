@@ -296,6 +296,15 @@ sentence is about to say.
 NO   twelve documents, all correspondence
 ```
 
+**The list cards** (2026-11-01): a card on the literature, newspapers and maps
+lists gives the original imprint or first-publication citation and a brief of
+one or two sentences, and its title is the work's own title without the page
+span of what the site holds. Everything about how the site holds the work -
+excerpt spans, reissue pagination, digitisations, licences, ISBNs, printers,
+funders, credits - lives on the item's own page
+(`published_card:`, `title_card:` in a literature work's `work.yml`,
+docs/LITERATURE_PLAN.md §33).
+
 ## No signposting
 
 The editor, 2026-10-20: identify signposting and avoid it, "unless a topic

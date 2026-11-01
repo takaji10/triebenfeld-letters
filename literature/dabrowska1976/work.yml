@@ -11,11 +11,18 @@ slug: dabrowska1976
 visible: false
 kind: reference
 title: "Pinkas Hakehillot Polin, vol. I: Zagórów (p. 103), Pyzdry (pp. 202-203), Konin (pp. 235-238), in English"
+# The card's title (the list pages): the work's own title, without
+# the page span of what the site holds; the full title stays on the
+# work's own page.
+title_card: "Pinkas Hakehillot Polin, vol. I"
 title_en: ""
 cite: "Pinkas Hakehillot (1976)"
 author: "Danuta Dąbrowska and Abraham Wein (eds.); translated by Morris Gradel"
 author_sort: "Dąbrowska, Danuta, and Abraham Wein (eds.)"
 published: "Pinkas Hakehillot Polin: Encyclopedia of Jewish Communities, Poland, vol. I, Łódź and its region, ed. Danuta Dąbrowska and Abraham Wein, Jerusalem: Yad Vashem, 1976 (in Hebrew; the year from the Encyclopedia of Camps and Ghettos, which cites p. 103), the entries Zagórów, Pyzdry and Konin. English translation by Morris Gradel, JewishGen Yizkor Book Project (pages updated 2005), not to be copied without JewishGen's permission"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Pinkas Hakehillot Polin: Encyclopedia of Jewish Communities, Poland, vol. I, Łódź and its region, ed. Danuta Dąbrowska and Abraham Wein, Jerusalem: Yad Vashem, 1976; English translation by Morris Gradel, JewishGen"
 year: 1976
 language: en
 english_by: ""

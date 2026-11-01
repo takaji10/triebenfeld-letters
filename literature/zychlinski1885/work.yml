@@ -6,11 +6,21 @@ slug: zychlinski1885
 visible: true
 kind: reference
 title: "Złota księga szlachty polskiéj, rocznik VII, str. 187-188 (Prusimski Ostrorog; 1. Odnoga na Trąmbczynie)"
+# The card's title (the list pages): the work's own title, without
+# the page span of what the site holds; the full title stays on the
+# work's own page.
+title_card: "Złota księga szlachty polskiéj, rocznik VII"
 title_en: "The Golden Book of the Polish Nobility, vol. 7, pp. 187-188: the Prusimski Ostroróg and their branch at Trąbczyn"
+# The card's English title (the list pages): without the page span
+# of what the site holds; the full title stays on the work's page.
+title_en_card: "The Golden Book of the Polish Nobility, vol. 7"
 cite: "Żychliński (1885)"
 author: "Teodor Żychliński"
 author_sort: "Żychliński, Teodor"
 published: "Złota księga szlachty polskiéj, rocznik VII, Poznań [1885], pp. 187-188 (the year reckoned from the series, one volume a year from 1879; not read off a title page)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Złota księga szlachty polskiéj, rocznik VII, Poznań [1885]"
 year: 1885
 language: pl
 english_by: Claude
@@ -42,10 +52,10 @@ account_de: >-
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Two pages of Żychliński's genealogy of the Prusimski Ostroróg: the line that
+  Żychliński's genealogy of the Prusimski Ostroróg: the line that
   held Trąbczyn, from Krzysztof to the Starost Antoni and his daughter
   Michalina.
 brief_de: >-
-  Zwei Seiten aus Żychlińskis Genealogie der Prusimski Ostroróg: die Linie,
+  Żychlińskis Genealogie der Prusimski Ostroróg: die Linie,
   die Trąbczyn besaß, von Krzysztof bis zum Starosten Antoni und seiner
   Tochter Michalina.

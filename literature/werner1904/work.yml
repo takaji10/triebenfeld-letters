@@ -12,6 +12,9 @@ cite: "Werner (1904)"
 author: "Albert Werner"
 author_sort: "Werner, Albert"
 published: "Lissa: Friedrich Ebbecke, 1904 (verfaßt von Albert Werner, überarbeitet von Johannes Steffani, herausgegeben von dem Königlichen Consistorium der Provinz Posen)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Lissa: Friedrich Ebbecke, 1904"
 year: 1904
 language: de
 english_by: Claude
@@ -44,10 +47,8 @@ account_de: >-
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Werner's history of the evangelical parishes of Posen, of which the entry on
-  Wreschen is given: the parish of the Hauländer country round Pyzdry and
+  Werner's history of the evangelical parishes of Posen: the parish of the Hauländer country round Pyzdry and
   Zagórów until 1817.
 brief_de: >-
-  Werners Geschichte der evangelischen Parochien Posens, wiedergegeben der
-  Eintrag über Wreschen: die Parochie des Hauländerlandes um Pyzdry und
+  Werners Geschichte der evangelischen Parochien Posens: die Parochie des Hauländerlandes um Pyzdry und
   Zagórów bis 1817.

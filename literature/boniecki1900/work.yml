@@ -8,11 +8,21 @@ slug: boniecki1900
 visible: true
 kind: reference
 title: "Herbarz polski, cz. I, t. 2, s. 364 i n. (Chełmscy h. Ostoja: gałąź na Łukomi)"
+# The card's title (the list pages): the work's own title, without
+# the page span of what the site holds; the full title stays on the
+# work's own page.
+title_card: "Herbarz polski, cz. I, t. 2"
 title_en: "Polish Armorial, part I, vol. 2, pp. 364 ff.: the Chełmski family, arms Ostoja, the branch that held Łukomia"
+# The card's English title (the list pages): without the page span
+# of what the site holds; the full title stays on the work's page.
+title_en_card: "Polish Armorial, part I, vol. 2"
 cite: "Boniecki (1900)"
 author: "Adam Boniecki"
 author_sort: "Boniecki, Adam"
 published: "Herbarz polski, part I, vol. 2, Warsaw [1900], the article Chełmscy h. Ostoja from p. 364 (the year as vol. 2 is usually dated; not read off a title page); read in M. J. Minakowski's online edition, article 2.976"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Herbarz polski, part I, vol. 2, Warsaw [1900]"
 year: 1900
 language: pl
 english_by: Claude

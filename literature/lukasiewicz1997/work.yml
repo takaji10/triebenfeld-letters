@@ -17,6 +17,9 @@ cite: "Łukasiewicz (1997)"
 author: "Dariusz Łukasiewicz"
 author_sort: "Łukasiewicz, Dariusz"
 published: "Kwartalnik Historyczny, R. CIV (1997), nr 2, pp. 31-62 (Poznań; the RCIN digitisation)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Kwartalnik Historyczny, R. CIV (1997), nr 2, pp. 31-62"
 year: 1997
 language: pl
 english_by: Claude

@@ -9,11 +9,21 @@ visible: true
 kind: reference
 parent: paciorkowski1776
 title: "Ianociana, sive clarorum atque illustrium Poloniae auctorum Maecenatumque memoriae miscellae, tomus II, pp. 159-160 (the entry on Stanisław Lochowski)"
+# The card's title (the list pages): the work's own title, without
+# the page span of what the site holds; the full title stays on the
+# work's own page.
+title_card: "Ianociana, sive clarorum atque illustrium Poloniae auctorum Maecenatumque memoriae miscellae, tomus II"
 title_en: "The Ianociana: miscellanies to the memory of the famous and illustrious authors and patrons of Poland, vol. II, pp. 159-160: the entry on Stanisław Lochowski"
+# The card's English title (the list pages): without the page span
+# of what the site holds; the full title stays on the work's page.
+title_en_card: "The Ianociana: miscellanies to the memory of the famous and illustrious authors and patrons of Poland, vol. II"
 cite: "Janocki (1779)"
 author: "Jan Daniel Janocki"
 author_sort: "Janocki, Jan Daniel"
 published: "Ianociana ... miscellae, tomus II, Varsaviae et Lipsiae: apud Michaelem Groellium, Sereniss. Pol. Regis Commissarium et Bibliopolam, sub signo Poetarum, 1779 (A. R. S. MDCCLXXIX); the extract pp. 159-160, the entry LXXVII, Stanislaus Lochowski"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Ianociana ... miscellae, tomus II, Varsaviae et Lipsiae: apud Michaelem Groellium, 1779"
 year: 1779
 language: la
 english_by: Claude

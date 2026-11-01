@@ -28,6 +28,9 @@ cite: "Słowiński and Połom (2024)"
 author: "a collective work edited by Mirosław Słowiński and Katarzyna Połom"
 author_sort: "Słowiński, Mirosław, and Katarzyna Połom (eds.)"
 published: "Zagórów: Urząd Miejski w Zagórowie, 2024 (a collective work edited by Mirosław Słowiński and Katarzyna Połom; book concept and introduction Mirosław Słowiński; scientific consultant Dr Zbigniew Chodyła). ISBN 978-83-969906-0-0"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Zagórów: Urząd Miejski w Zagórowie, 2024"
 year: 2024
 language: pl
 english_by: "the editor's files"

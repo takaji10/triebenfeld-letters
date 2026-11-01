@@ -7,11 +7,21 @@ slug: zychlinski1891
 visible: true
 kind: reference
 title: "Złota księga szlachty polskiéj, rocznik XIII, str. 219-225 (Miączyńscy: hr. Stanisław Adam i jego potomstwo)"
+# The card's title (the list pages): the work's own title, without
+# the page span of what the site holds; the full title stays on the
+# work's own page.
+title_card: "Złota księga szlachty polskiéj, rocznik XIII"
 title_en: "The Golden Book of the Polish Nobility, vol. 13, pp. 219-225: the Miączyński family, Count Stanisław Adam and his descendants"
+# The card's English title (the list pages): without the page span
+# of what the site holds; the full title stays on the work's page.
+title_en_card: "The Golden Book of the Polish Nobility, vol. 13"
 cite: "Żychliński (1891)"
 author: "Teodor Żychliński"
 author_sort: "Żychliński, Teodor"
 published: "Złota księga szlachty polskiéj, rocznik XIII, Poznań [1891], pp. 219-225 (the year reckoned from the series, one volume a year from 1879; not read off a title page)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Złota księga szlachty polskiéj, rocznik XIII, Poznań [1891]"
 year: 1891
 language: pl
 english_by: Claude
@@ -44,9 +54,9 @@ account_de: >-
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-
-  Seven pages of Żychliński's genealogy of the Counts Miączyński, from
+  Żychliński's genealogy of the Counts Miączyński, from
   Stanisław's marriage to the heiress of Trąbczyn in 1809 to the heir
   Władysław.
 brief_de: >-
-  Sieben Seiten aus Żychlińskis Genealogie der Grafen Miączyński, von
+  Żychlińskis Genealogie der Grafen Miączyński, von
   Stanisławs Ehe mit der Erbin von Trąbczyn 1809 bis zum Erben Władysław.

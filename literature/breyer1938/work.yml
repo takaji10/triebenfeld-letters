@@ -12,6 +12,9 @@ cite: "Breyer (1938)"
 author: "Albert Breyer"
 author_sort: "Breyer, Albert"
 published: "Deutsche Wissenschaftliche Zeitschrift für Polen, Heft 34, 1938; cited by the pages of the digital reissue by Jutta Dennerlein (UpstreamVistula.org, version 1.0, November 2010)"
+# The card's published line (the list pages): the original imprint
+# only; the full line stays on the work's own page.
+published_card: "Deutsche Wissenschaftliche Zeitschrift für Polen, Heft 34, 1938"
 year: 1938
 language: de
 english_by: Claude

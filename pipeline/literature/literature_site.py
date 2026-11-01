@@ -187,7 +187,9 @@ def yaml_str(v):
 
 def card_extra(w):
     """The card's additions to the list row: the work's brief (written into
-    its work.yml, the long account staying on the work's page) and the thumb
+    its work.yml, the long account staying on the work's page), the card's
+    shorter published line (`published_card`, the original imprint only, the
+    full line staying on the work's page; 2026-11-01) and the thumb
     of its first imaged page - written only when make_thumbs.py has put the
     file here, so the card shows no image the site does not carry. Null for
     absent: Liquid reads "" as true."""
@@ -197,6 +199,9 @@ def card_extra(w):
              else None)
     return {'brief_en': w.get('brief_en') or None,
             'brief_de': w.get('brief_de') or None,
+            'published_card': w.get('published_card') or None,
+            'title_card': w.get('title_card') or None,
+            'title_en_card': w.get('title_en_card') or None,
             'thumb': thumb}
 
 
