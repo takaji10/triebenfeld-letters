@@ -227,6 +227,12 @@
   docs: 1
   span: "1814"
   letters: [{id: "3", uid: "iiihamdaiiinr12765-3", url: "/documents/iiihamdaiiinr12765/3/", unit_label: "III. HA MdA, III Nr. 12765"}]
+- name: "Paryż"
+  slug: "paryz"
+  count: 1
+  docs: 1
+  span: "1798"
+  letters: [{id: "1", uid: "ossol2289-1", url: "/documents/ossol2289/1/", unit_label: "B. Ossol. rkp. 2289 II"}]
 - name: "Poznań (Posen)"
   slug: "poznan-posen"
   count: 24

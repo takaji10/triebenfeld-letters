@@ -1,0 +1,116 @@
+# -*- coding: utf-8 -*-
+"""The claim check of B. Ossol. rkp. 2289 II, done in session 2026-11-01.
+
+Every statement of the summary, checked against the document's own lines
+(the shape of read_letters.py's second pass). Claims are German, as the
+pipeline's claim checks are. The letter is a COPY in Przyłęcki's hand; the
+check runs against the copy's text.
+"""
+claims = [
+    # 1
+    dict(
+        claim="Der Brief ist Kościuszkos Antwort auf einen Brief aus Dresden "
+              "vom August 1798, datiert Paris, 3. September 1798",
+        verdict="supported",
+        where="Dateline 'z P[aryża]. d. 3 Września 98'; 'Odebrałem list twóy "
+              "Sz[anowny] Ob[ywatel]u z Dreźna pod datą 10 Aug. roku "
+              "bieżącego do mnie adressowany'; Ecknote '1798. 3 Wreznia.'"),
+    # 2
+    dict(
+        claim="Er steht in der Abschriftensammlung 'Listy, dokumenty i wiersze "
+              "z lat 1697-1798' (B. Ossol. rkp. 2289 II), Seite 145 des "
+              "Sammelbands, überwiegend von Stanisław Przyłęcki geschrieben",
+        verdict="supported",
+        where="der Bibliothekskatalogeintrag des Sammelbands (Titel, wie der "
+              "Herausgeber ihn angab); Seite 145 die Angabe des Herausgebers; "
+              "die Kopistenangabe beruht auf der Einleitung des Hefts und dem "
+              "Schlussvermerk der Kopie (die Aussagen des Herausgebers über "
+              "die Handschrift, keine des Dokuments)"),
+    # 3
+    dict(
+        claim="Er habe die Worte des Wohlwollens mit derselben Höflichkeit "
+              "gelesen wie die Briefe, die ihn in Amerika erreicht hatten",
+        verdict="supported",
+        where="'Czytałem w nim wyrazy twojej przychylności dla mnie z równą "
+              "uprzejmością, iak w tych, które mię w Ameryce od Ciebie doszły'"),
+    # 4
+    dict(
+        claim="Er bedauert, dass ihn die Umstände nicht nachkommen ließen, "
+              "den Schreiber in London zu sehen, und hätte ihn gern "
+              "persönlich kennengelernt",
+        verdict="supported",
+        where="'Żałuię bardzo że mi zdarzenia niepozwoliły widzieć się w "
+              "Londynie. Miłoby mi było poznać cię osobiście'"),
+    # 5
+    dict(
+        claim="Er werde von jedem Polen wahrhaft republikanischer Seele, das "
+              "mit ihm gegen die Feinde des Landes gekämpft hat, ungetrennt "
+              "stehen, sobald die Umstände die Zeit der Rückgewinnung der "
+              "nationalen Unabhängigkeit zeigen - die er noch nicht sehe und "
+              "die allein die Hoffnung süß macht",
+        verdict="supported",
+        where="'Wierz obywatelu że gdy okoliczności porę odzyskania "
+              "niepodległości narodowey nam wskażą, których jeszcze nie "
+              "widzę i nadzieja tylko słodzi te żądanie, każdego z Polaków "
+              "prawdziwą Republikanską mającego duszę a przeto nieodstępnym "
+              "będę tych wszystkich którzy o też wraz ze mną przeciw "
+              "nieprzyjaciołom kraju naszego walczyli'"),
+    # 6
+    dict(
+        claim="In der künftigen Zeit werden auf den Grundsätzen, deren der "
+              "Brief des Schreibers gedenkt, die Wege der allgemeinen "
+              "Verteidigung und das wahre Glück der Nation gegründet werden",
+        verdict="supported",
+        where="'Zasadziemy w ten Czas, y sposoby powszechney obrony y "
+              "prawdziwe szczęście narodu na zasadach o których w liście "
+              "twoim wspominasz' - das Subjekt der Gründung bleibt im "
+              "Polnischen unausgedrückt (1. Plural gelesen); die Zusammenfassung "
+              "gibt die Konstruktion mit wieder"),
+    # 7
+    dict(
+        claim="Vorläufig müsse darauf gesehen werden, die Männer des "
+              "Wohlwollens nicht durch voreilige Schritte, während "
+              "günstigere Ereignisse erwartet werden, den Verfolgungen der "
+              "Feinde auszusetzen",
+        verdict="supported",
+        where="'Dziś Sz[anowny] Ob[ywatel]u strzedz się należy aby przez "
+              "przedwczesne kroki pomyślnieyszych zdarzeń oczekuiącemi, "
+              "tychże na prześladowania nieprzyjaciół nie narażać' - das "
+              "'tychże' hat keinen ausdrücklichen Antezedenten; die "
+              "Zusammenfassung gibt die Deutung (die Männer des Wohlwollens) "
+              "als die des Sinnes, nicht als Zitat"),
+    # 8
+    dict(
+        claim="Er bittet den Schreiber, den Brief für sich zu behalten, und "
+              "verspricht, seine Freundschaft zu bewahren, und nimmt die "
+              "sinceren Worte des Wohlwollens und der Achtung an",
+        verdict="supported",
+        where="'List ten zachoway dla siebie; mnie chciey konserwować twoią "
+              "przyiaźń y przyimiy szczere wyrazy przychylności y szacunku "
+              "dla siebie' - die drei Verbformen sind die unsicherste Stelle "
+              "der Abschrift (zachoway/chciey/przyimiy); der Sinn der "
+              "Formeln trägt die Deutung"),
+    # 9
+    dict(
+        claim="Der Brief nennt seinen Adressaten nirgends; die wahrscheinliche "
+              "Identifizierung mit Antoni Prusimski ruht auf Pachońskis "
+              "Artikel im Polnischen Biografischen Wörterbuch, dessen Quellen "
+              "genau diese Handschrift nennen",
+        verdict="supported",
+        where="der ganze Text: nur 'Obywatelu!'; die Identifizierung ist die "
+              "Aussage der Literatur (pachonski1982, PSB, Quellen 'B. Ossol.: "
+              "rkp. 2289/II') und der Zusammenhang des Sammelbands, keine des "
+              "Dokuments - die Zusammenfassung sagt 'wahrscheinlich'"),
+    # 10
+    dict(
+        claim="Der PSB-Artikel sagt, Kościuszko habe dem Emigranten auf "
+              "dessen Brief vom August 1798 höflich geantwortet mit dem "
+              "Bedauern, ihn nicht persönlich zu kennen, sondern nur aus "
+              "der Korrespondenz",
+        verdict="supported",
+        where="pachonski1982/original.md, der Absatz zur Korrespondenz: "
+              "'Naczelnik odpisał mu grzecznie, wyrażając żal, że «nie zna "
+              "go osobiście», a tylko z korespondencji' - die Angabe einer "
+              "zweiten Quelle, die im Dokument selbst nicht steht; die "
+              "Zusammenfassung führt sie als Deutung, nicht als Zitat"),
+]

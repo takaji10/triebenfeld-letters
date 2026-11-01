@@ -1,0 +1,7 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,12,13,¬,okoli,czności,okoliczności,join,high,a word-break of the copyist's Polish; okoliczności, the sentence needs the word,False,0,,0,,1,,ę osobiście. Wierz obywatelu że gdy okoli¬ || czności porę odzyskania niepodległości nar
+1,1,14,15,¬,sło,dzi,słodzi,join,high,a word-break of the copyist's Polish; słodzi, the sentence needs the verb,False,0,,0,,1,,"ch jeszcze nie widzę i nadzieja tylko sło¬ || dzi te żądanie, każdego z Polaków prawdziw"
+1,1,15,16,¬,Republi,kanską,Republikanską,join,high,head is not a word on its own,False,0,,0,393,1,,"anie, każdego z Polaków prawdziwą Republi¬ || kanską mającego duszę a przeto nieodstępny"
+1,1,22,23,¬,oczeku,iącemi,oczekuiącemi,join,high,a word-break of the copyist's Polish; oczekuiącemi, the sentence needs the participle,False,0,,0,,1,,"esne kroki pomyślnieyszych zdarzeń oczeku¬ || iącemi, tychże na prześladowania nieprzyja"
+1,1,23,24,¬,nara,żać,narażać,join,high,a word-break of the copyist's Polish; the infinitive narażać closes the sentence,False,0,,0,,1,, na prześladowania nieprzyjaciół nie nara¬ || żać. List ten zachoway dla siebie; mnie ch
+1,1,24,25,¬,kon,serwowa,konserwować,join,high,a word-break of the copyist's Polish; the infinitive closes the clause,False,0,,0,21716,1,, ten zachoway dla siebie; mnie chciey kon¬ || serwować twoią przyiaźń y przyimiy szczere

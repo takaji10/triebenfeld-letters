@@ -103,6 +103,28 @@ people:
     match: "Chomanowski"
     tier: "Context-inferred (role), spelling explicitly settled"
     variants: []
+  kosciuszko:
+    display: "Tadeusz Kościuszko"
+    render: "Kościuszko"
+    # The document corpus spells the name with the Polish diacritics only
+    # (the copyist's hand of ossol2289); the ascii form is matched for the
+    # German documents that may name him later. Counted before the entry
+    # was added (WORKING_NOTES, mistake 7): no document outside ossol2289
+    # names him, in either spelling.
+    match: 'Kościusz\w*|Kosciusz\w*'
+    tier: "Text-confirmed"
+    variants: []
+    identity: >-
+      Tadeusz Kościuszko (1746-1817), General, and as Naczelnik the
+      commander-in-chief of the armed forces of the Polish-Lithuanian
+      Commonwealth in the uprising of 1794; after the partition's defeat the
+      chief figure of the Polish emigration, from 1798 in Paris. The holding
+      ossol2289 holds the copy of his letter of 3 September 1798, written in
+      Paris, to an émigré correspondent who had written to him from Dresden
+      in August - probably Antoni Prusimski, whom the letter does not name.
+      Named in the copy's heading ("List Tadeusza Kościuszki") and in the
+      signature ("T. Kościuszko"). Added 2026-11-01.
+    merge: false
   cosmar:
     display: "Cosmar"
     match: "Cosmar"

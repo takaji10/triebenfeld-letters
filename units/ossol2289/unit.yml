@@ -1,0 +1,130 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: ossol2289
+ref: B. Ossol. rkp. 2289 II
+archive: Zakład Narodowy im. Ossolińskich (Ossolineum), Wrocław
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as original_title.
+title: >-
+  A collection of copies, "Listy, dokumenty i wiersze z lat 1697-1798",
+  made mostly by the Lwów bibliographer and autograph collector Stanisław
+  Przyłęcki (1805-1866) and bought by the Ossolineum with his manuscript
+  legacy in 1869; the one document transcribed so far is the copy of
+  Kościuszko's letter of 3 September 1798, written from Paris, to the
+  émigré whose August letter had reached him - probably the insurgent
+  Antoni Prusimski, whom Kościuszko knew only from correspondence.
+title_de: >-
+  Eine Sammlung von Abschriften, "Listy, dokumenty i wiersze z lat
+  1697-1798", überwiegend von dem Lemberger Bibliografen und Autographen
+  sammler Stanisław Przyłęcki (1805-1866) geschrieben und 1869 mit seinem
+  handschriftlichen Nachlass vom Ossolineum gekauft; das bislang einzige
+  transkribierte Dokument ist die Abschrift von Kościuszkos Brief vom
+  3. September 1798 aus Paris an den Emigranten, dessen August-Brief ihn
+  erreicht hatte - wahrscheinlich den Insurgenten Antoni Prusimski, den
+  Kościuszko nur aus der Korrespondenz kannte.
+# The name of the unit in the library's record, as the editor gave it
+# (the Ossolineum's catalogue record, 2026-11-01). Kept for reference; the
+# card's title (card_title, below) is made from it.
+original_title: "Listy, dokumenty i wiersze z lat 1697-1798 : odpisy sporządzone przeważnie przez Stanisława Przyłęckiego."
+# The card's title on the Sources list, made from original_title; refine it here.
+card_title: "Stanisław Przyłęcki: Listy, dokumenty i wiersze z lat 1697-1798 (copies)"
+card_title_de: "Stanisław Przyłęcki: Listy, dokumenty i wiersze z lat 1697-1798 (Abschriften)"
+# The title in the browser tab and in search results: a short form of the
+# translated name (the page's heading keeps the whole name).
+short_title: "Przyłęcki copy collection (B. Ossol. 2289 II)"
+short_title_de: "Przyłęcki-Sammelband (B. Ossol. 2289 II)"
+archive_title: >-
+  Listy, dokumenty i wiersze z lat 1697-1798 : odpisy sporządzone
+  przeważnie przez Stanisława Przyłęckiego.
+# The kind of material the holding is: one or two of the slugs in
+# reference/unit_types.yml, the dominant one first. The codex is a
+# collection of copies of letters, documents and verses.
+types: [correspondence]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl]
+date_span: "1697-1798"
+status: translated     # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. The era was
+# opened with this holding (2026-11-01); the editor's choice.
+era: insurgency
+
+# Which repository holds it - reference/repositories.yml.
+repository: ossolineum-wroclaw
+
+# Thirty scans of the digitised manuscript (leaves 0033-0062 of the codex,
+# files NBO-2289--0033.tif ... NBO-2289--0062.tif, 1990x3150, greyscale),
+# downloaded by the editor into Downloads/Ossolineum/. Intake is selective
+# for now: intake/build_pages.py stages only the leaf the one transcribed
+# document stands on (the copy of Kościuszko's letter of 3 IX 1798,
+# manuscript page 145, scan 0062). The remaining 29 scans are on disk,
+# read and logged in the sweep of 2026-11-01
+# (scratch/ossolineum2289/index_transcription.md, uncommitted), not yet
+# brought into the edition.
+scans:
+  raw_dir: C:/Users/Tersnaus/Downloads/Ossolineum/Listy, dokumenty i wiersze Stanisława Przyłęckiego (2289.II)
+  raw_glob: "NBO-2289--*.tif"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry Polish letters. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: NBO_2289
+
+# One file per page, named by page id (0145_a.txt). The page id is the
+# manuscript's own pagination: the letter stands on page 145 of the codex
+# (the editor, 2026-11-01), which is leaf 0062 of the scan set.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and
+# the summariser's prompts. The reader sees the holding's own page instead,
+# written in about.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  A collection of copies of letters, documents and verses of 1697 to 1798,
+  made mostly by Stanisław Przyłęcki (1805-1866), the Lwów bibliographer
+  and autograph collector whose manuscript legacy the Ossolineum bought in
+  1869; the catalogue record carries no description of the contents beyond
+  the title. The scans read so far (leaves 0033-0062 of 30) are the
+  Przyłęcki Kościuszko dossier: the codex's own index of letters and lists
+  of people, a July-1794 dossier of the uprising (letters to the
+  Naczelnik, an officers' roster of the camp at Mokotów, a Warsaw police
+  protocol, a patent signed Kościuszko), the Gutowski file of the
+  "Korpus Towarzystwa", a name-day poem for Kościuszko of 1792, a bishop's
+  letter of 1796, and the capstone, the copy of Kościuszko's letter of
+  3 September 1798 from Paris - the "grzeczna odpowiedź" the Polish
+  Biographical Dictionary's entry on Antoni Prusimski records, which the
+  codex preserves and nothing published carries. The one document in the
+  edition so far is that letter, on page 145 of the codex; the rest of the
+  sweep is logged in scratch/ and waits on the editor's rulings.
+
+# Passed to the translator with every document of this holding. Facts about
+# the source that change how it should be read, not instructions about style.
+translation_note: >-
+  A nineteenth-century COPY, in the hand of the collector Stanisław
+  Przyłęcki, of a letter Kościuszko wrote in Polish; the original is not
+  in the edition and is not known to survive. The copyist's orthography
+  stands as written (twóy, iak, Żałuię, adressowany, narodowey,
+  pomyślnieyszych, przyiaźń); the expansions in brackets are superscript
+  abbreviations (Sz[anowny] Ob[ywatel]u, P[aryża]). The superscript-expansion
+  reading is the editor's. The caution clause toward the end ("Dziś ...
+  nie narażać") is a single long sentence whose parts are best read
+  together.
+
+# What the "Method" tab says (reference/prepared.yml; the old text is in notes.md).
+prepared:
+  transcription:
+  - t-claude-scans
+  - c-editor-full
+  - en: 'The transcription was read from the scans by Claude, in band crops, one image per read; the editor then corrected the whole reading, line by line, and the corrected text stands as the transcription.'
+    de: 'Die Transkription wurde von Claude aus den Scans gelesen, in Streifenausschnitten, ein Bild pro Aufruf; der Herausgeber korrigierte anschließend die gesamte Lesung Zeile für Zeile, und der korrigierte Text gilt als die Transkription.'
+  translation:
+  - l-claude
+  - s-claude

@@ -4027,3 +4027,38 @@ footer on every page. Changed, in both languages:
   `verify_site.py` pass with the text on the site. The work's `notes.md` and
   `docs/LITERATURE_PLAN.md` §30 record the change; the open question in
   `docs/NEEDS_CONFIRMATION.md` is settled.
+
+## 2026-11-01: The Kościuszko letter of 3 IX 1798 added as the holding ossol2289 (B. Ossol. rkp. 2289 II)
+
+- The editor ruled the attribution working and asked for the letter to be
+  added: the copy of Kościuszko's letter of 3 September 1798, written in
+  Paris, on page 145 of the Przyłęcki copy collection at the Ossolineum
+  (scan 0062 of the thirty-scan set). The holding is the first from the
+  Ossolineum and opens the new era `insurgency` (working name; the later
+  eras' orders bumped; the Eras page renders it from the blurb).
+- The transcription is the editor's corrected reading of Claude's
+  band-by-band first pass, kept as written: the copyist's orthography, the
+  superscript expansions in brackets (Sz[anowny] Ob[ywatel]u, P[aryża]),
+  the six line-end wraps marked and decided (`linebreak_decisions.csv`,
+  all joins, decided by hand - the automatic resolver reads German evidence
+  and cannot see Polish). No doubt marks remain.
+- Translated in session, no paid run (the single-document path):
+  `intake/translation/write_cache.py` writes the English into the
+  translation cache with the source_hash, `publish_translations.py`
+  publishes it; `check_translations.py` raised 0 rows. The summaries were
+  written in both languages and their 10 statements claim-checked
+  (`intake/claim_check.yml`), all supported.
+- The person entry **Tadeusz Kościuszko** added (`people.yml`,
+  `people_bios.yml`, `people_headings.yml`; the pattern counted before -
+  no document outside ossol2289 names him). The correspondents record
+  carries the sender only: the letter never names its addressee, and the
+  probable identification with Antoni Prusimski (PSB, pachonski1982) lives
+  in the holding's prose as "probably" (NEEDS_CONFIRMATION).
+- Intake is selective: only scan 0062 is staged
+  (`units/ossol2289/intake/build_pages.py`, TIFF to pages/ as
+  `NBO_2289_0145_a.jpg`, relabelled, web derivative and card thumbnail
+  made). The other 29 scans stay on disk, read and logged in
+  `scratch/ossolineum2289/`, not brought into the edition.
+- `merge_corpus`, `build_dataset`, `build_site_data`, `jekyll build` and
+  `verify_site.py` pass: 631 documents, text verified character-exact,
+  61,688 internal links resolve, 7 eras on the Eras page.

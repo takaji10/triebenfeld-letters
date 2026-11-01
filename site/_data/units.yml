@@ -1223,3 +1223,27 @@
   last: "1805-12-19"
   span: "1805"
   thumb: "/assets/thumbs/holding-oe1u199.jpg"
+- slug: "ossol2289"
+  ref: "B. Ossol. rkp. 2289 II"
+  archive: "Zakład Narodowy im. Ossolińskich (Ossolineum), Wrocław"
+  title: "A collection of copies, \"Listy, dokumenty i wiersze z lat 1697-1798\", made mostly by the Lwów bibliographer and autograph collector Stanisław Przyłęcki (1805-1866) and bought by the Ossolineum with his manuscript legacy in 1869; the one document transcribed so far is the copy of Kościuszko's letter of 3 September 1798, written from Paris, to the émigré whose August letter had reached him - probably the insurgent Antoni Prusimski, whom Kościuszko knew only from correspondence."
+  description: "A collection of copies of letters, documents and verses of 1697 to 1798, made mostly by Stanisław Przyłęcki (1805-1866), the Lwów bibliographer and autograph collector whose manuscript legacy the Ossolineum bought in 1869; the catalogue record carries no description of the contents beyond the title. The scans read so far (leaves 0033-0062 of 30) are the Przyłęcki Kościuszko dossier: the codex's own index of letters and lists of people, a July-1794 dossier of the uprising (letters to the Naczelnik, an officers' roster of the camp at Mokotów, a Warsaw police protocol, a patent signed Kościuszko), the Gutowski file of the \"Korpus Towarzystwa\", a name-day poem for Kościuszko of 1792, a bishop's letter of 1796, and the capstone, the copy of Kościuszko's letter of 3 September 1798 from Paris - the \"grzeczna odpowiedź\" the Polish Biographical Dictionary's entry on Antoni Prusimski records, which the codex preserves and nothing published carries. The one document in the edition so far is that letter, on page 145 of the codex; the rest of the sweep is logged in scratch/ and waits on the editor's rulings."
+  title_de: "Eine Sammlung von Abschriften, \"Listy, dokumenty i wiersze z lat 1697-1798\", überwiegend von dem Lemberger Bibliografen und Autographen sammler Stanisław Przyłęcki (1805-1866) geschrieben und 1869 mit seinem handschriftlichen Nachlass vom Ossolineum gekauft; das bislang einzige transkribierte Dokument ist die Abschrift von Kościuszkos Brief vom 3. September 1798 aus Paris an den Emigranten, dessen August-Brief ihn erreicht hatte - wahrscheinlich den Insurgenten Antoni Prusimski, den Kościuszko nur aus der Korrespondenz kannte."
+  card_title: "Stanisław Przyłęcki: Listy, dokumenty i wiersze z lat 1697-1798 (copies)"
+  card_title_de: "Stanisław Przyłęcki: Listy, dokumenty i wiersze z lat 1697-1798 (Abschriften)"
+  full_title: null
+  full_title_de: null
+  original_title: "Listy, dokumenty i wiersze z lat 1697-1798 : odpisy sporządzone przeważnie przez Stanisława Przyłęckiego."
+  original_title_card: null
+  listed_in: null
+  types: [correspondence]
+  languages: [pl]
+  description_de: ""
+  repository: "ossolineum-wroclaw"
+  era: "insurgency"
+  count: 1
+  pages: 1
+  first: "1798-09-03"
+  last: "1798-09-03"
+  span: "1697–1798"
+  thumb: "/assets/thumbs/holding-ossol2289.jpg"

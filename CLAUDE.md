@@ -119,6 +119,25 @@ so check them.
 
 ## Where things stand (2026-10-26)
 
+- **B. Ossol. rkp. 2289 II — the Przyłęcki copy collection** (slug
+  `ossol2289`, added 2026-11-01 on the branch `ossolineum2289`, **not
+  published**): the first holding from the Ossolineum, Wrocław, and the
+  first document of the new era `insurgency` (working name): the copy of
+  Kościuszko's letter of 3 September 1798, written in Paris, on page 145
+  of the collection "Listy, dokumenty i wiersze z lat 1697-1798" — the
+  "grzeczna odpowiedź" the PSB entry on Antoni Prusimski records; the
+  probable addressee is Prusimski, whom the page never names (the
+  correspondents record carries the sender only; NEEDS_CONFIRMATION
+  carries the open points). The transcription is the editor's corrected
+  reading of Claude's band-by-band first pass; the copyist's orthography
+  stands. Translated in session (no paid run), summaries claim-checked;
+  intake is selective — only scan 0062 is staged; the other 29 scans are
+  read and logged in `scratch/ossolineum2289/` (uncommitted), and leaf
+  0061 waits on a re-read (the session's image delivery failed). Era,
+  repository entry, person entry Kościuszko, translation, summaries and
+  the holding's page all in; `verify_site.py` passes (631 documents).
+  Read `units/ossol2289/notes.md` first.
+
 - **The holding pages tightened** (branch `unit-pages-tightening`,
   2026-10-30, **not published**): the page heading is the translated title,
   the reference sits beside the archive name, the languages are one line of

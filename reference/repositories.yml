@@ -76,3 +76,17 @@ repositories:
     country_en: "Poland"
     country_de: "Polen"
     url: "https://www.bkpan.poznan.pl/"
+
+  # A library, not an archive: the manuscript holding ossol2289 (the
+  # Przyłęcki copy collection) is held here. The catalogue record is the
+  # joint catalogue of the Ossolineum and the region's libraries
+  # (omnis-zno.primo.exlibrisgroup.com); the scans came from the Ossolineum's
+  # digitised presentation of the manuscript.
+  ossolineum-wroclaw:
+    name_en: "Zakład Narodowy im. Ossolińskich (Ossolineum), Wrocław"
+    name_de: "Zakład Narodowy im. Ossolińskich (Ossolineum), Breslau"
+    short: "B. Ossol."
+    city: "Wrocław"
+    country_en: "Poland"
+    country_de: "Polen"
+    url: "https://www.ossolineum.pl/"

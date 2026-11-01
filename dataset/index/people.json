@@ -73103,6 +73103,34 @@
   ]
  },
  {
+  "entity": "kosciuszko",
+  "display": "Tadeusz Kościuszko",
+  "count": 2,
+  "documents": [
+   "ossol2289-1"
+  ],
+  "mentions": [
+   {
+    "uid": "ossol2289-1",
+    "surface": "Kościuszki",
+    "page": 1,
+    "page_id": "0145_a",
+    "scan": "NBO_2289_0145_a-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "ossol2289-1",
+    "surface": "Kościuszko",
+    "page": 1,
+    "page_id": "0145_a",
+    "scan": "NBO_2289_0145_a-L1_01.jpg",
+    "line": 27,
+    "doc_line": 25
+   }
+  ]
+ },
+ {
   "entity": "hertzog",
   "display": "Hertzog",
   "count": 2,

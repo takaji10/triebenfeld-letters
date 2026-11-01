@@ -1,0 +1,43 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |
+    1798. 3 September.
+
+    Letter of Tadeusz Kościuszko
+
+    Citizen!
+
+    I have received your letter, Dear Citizen, from Dresden, dated 10 Aug. of the
+    present year, addressed to me. I read in it the expressions of your goodwill
+    towards me with the same courtesy as in those which reached me in America from
+    You. I regret deeply that events did not allow me to see You in London. It
+    would have pleased me to make Your acquaintance in person.
+
+    Be assured, Citizen, that when circumstances point out to us the time for
+    regaining the national independence — which I do not yet see, and which hope
+    alone makes sweet to long for — I shall stand inseparable from every Pole who
+    has a truly Republican soul, and therefore from all those who fought together
+    with me against the enemies of our country. In that time we shall found the
+    ways of common defence and the nation's true happiness upon the principles
+    which You mention in Your letter.
+
+    Today, Dear Citizen, care must be taken not to expose them to the persecutions
+    of the enemies through premature steps, while happier events are awaited.
+
+    Keep this letter for Yourself; for my part I shall preserve Your friendship,
+    and I accept the sincere expressions of goodwill and respect shown to me.
+
+    T. Kościuszko.
+
+    From P[aris], d. 3 September 98
+numbers: ["1798", "3", "10", "98"]
+names:
+  - {de: "Kościuszki", en: "Kościuszko"}
+  - {de: "T. Kościuszko", en: "Tadeusz Kościuszko"}
+  - {de: "Dreźna", en: "Dresden"}
+  - {de: "Londynie", en: "London"}
+  - {de: "Ameryce", en: "America"}
+  - {de: "Paryża", en: "Paris"}
+  - {de: "P[aryża]", en: "Paris"}
