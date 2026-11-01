@@ -11,7 +11,8 @@ excerpt_separator: ""
 <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-303">303</a> <a href="#p-304">304</a> <a href="#p-321">321</a> <a href="#p-322">322</a> <a href="#p-323">323</a>
 </nav>
 
-<section class="lit-passage" id="p-43">
+<section class="lit-passage has-related" id="p-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -39,14 +40,16 @@ Present His Excellencies President Małachowski, Gutakowski, Stanisław Potocki,
 After deliberating the queries of the Administrative Chamber of the Department of Poznań, that is, in what manner the January instalment
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>At its sitting of 13 February 1807, the Dziennik of the Governing Commission records, the memorial of Michalina Dąbska, née Prusimska, was referred to the Director of Justice, so that he might propose general rules for the estates of citizens confiscated under the former government. On 18 February the Director gave his opinion that her request was "a matter of a purely political character". The Commission then resolved to petition the Emperor to repeal the confiscations and ordered the Administrative Chambers to watch over the estates. The file in Warsaw holds her petitions of July but not this memorial. In her letter of 20 July 1807 to the Commission at Dresden she writes that she has already asked it twice for the return of the estates taken from her father for the Prussian generals, and the draft resolution of 21 July in the same file shows the answer taking shape.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The sitting of 13 February refers Dąbska's memorial to the Director of Justice, so that he propose general rules for the estates confiscated under the former government. The file holds her letters of July 1807 but not this memorial; her letter of 20 July to the Commission at Dresden says she has already asked twice for the estates taken from her father for the Prussian generals — the asking that the Dziennik's February entries record.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-44">
+<section class="lit-passage has-related" id="p-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -82,14 +85,16 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>At its sitting of 13 February 1807, the Dziennik of the Governing Commission records, the memorial of Michalina Dąbska, née Prusimska, was referred to the Director of Justice, so that he might propose general rules for the estates of citizens confiscated under the former government. On 18 February the Director gave his opinion that her request was "a matter of a purely political character". The Commission then resolved to petition the Emperor to repeal the confiscations and ordered the Administrative Chambers to watch over the estates. The file in Warsaw holds her petitions of July but not this memorial. In her letter of 20 July 1807 to the Commission at Dresden she writes that she has already asked it twice for the return of the estates taken from her father for the Prussian generals, and the draft resolution of 21 July in the same file shows the answer taking shape.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The entry ends the referral: the memorial, with the recommendation that the Director submit a project of general rules on the confiscations. Her letter of 20 July 1807 — the asking again for Trąbczyn, Kamionna, Kolna, Pawłowa, Pawłówka and the warehouse at Włocławek — is the same petition at Dresden, after the Commission had moved there.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-54">
+<section class="lit-passage has-related" id="p-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -121,14 +126,16 @@ The memorials of Mr. Podgurski, asking that it be permitted him to deliver the r
 Upon receiving from His Excellency the Director of Justice, on the memorial of Michalina née Prusimska Dąbska sent to him, his opinion that the petition she brought, with regard to the return of the estates confiscated by the past government, is a matter
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>At its sitting of 13 February 1807, the Dziennik of the Governing Commission records, the memorial of Michalina Dąbska, née Prusimska, was referred to the Director of Justice, so that he might propose general rules for the estates of citizens confiscated under the former government. On 18 February the Director gave his opinion that her request was "a matter of a purely political character". The Commission then resolved to petition the Emperor to repeal the confiscations and ordered the Administrative Chambers to watch over the estates. The file in Warsaw holds her petitions of July but not this memorial. In her letter of 20 July 1807 to the Commission at Dresden she writes that she has already asked it twice for the return of the estates taken from her father for the Prussian generals, and the draft resolution of 21 July in the same file shows the answer taking shape.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The Director of Justice's opinion of 18 February — the return of the estates "a matter of a purely political character" that cannot go the ordinary way of the courts — is the entry the draft resolution of 21 July answers: it extends the Emperor's Finckenstein decree to her case and sends the confiscated estates back to their rightful owners.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-55">
+<section class="lit-passage has-related" id="p-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -156,14 +163,16 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
-<p>At its sitting of 13 February 1807, the Dziennik of the Governing Commission records, the memorial of Michalina Dąbska, née Prusimska, was referred to the Director of Justice, so that he might propose general rules for the estates of citizens confiscated under the former government. On 18 February the Director gave his opinion that her request was "a matter of a purely political character". The Commission then resolved to petition the Emperor to repeal the confiscations and ordered the Administrative Chambers to watch over the estates. The file in Warsaw holds her petitions of July but not this memorial. In her letter of 20 July 1807 to the Commission at Dresden she writes that she has already asked it twice for the return of the estates taken from her father for the Prussian generals, and the draft resolution of 21 July in the same file shows the answer taking shape.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>The Commission's resolution — to petition the Emperor for the repeal of the confiscations, and to have the Administrative Chambers watch over the estates — is what the draft decree of 21 July 1807 carries out: the Emperor's decree for Wybicki extended to Dąbska, so that her hereditary estates return to their rightful owners.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-303">
+<section class="lit-passage has-related" id="p-303">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-303">p. 303</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -195,14 +204,16 @@ Whereas the affair of Madame Michalina née Prusimska Dąbska, demanding the ret
 Inclining to the petition of Mr. Batowski, on the motion of His Highness the Prince Director of War, present at this sitting, it was permitted
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
 <p>The Dziennik's record of the extraordinary sitting of 21 July 1807 at Dresden says that the Commission, taking example from the Emperor's decree of 5 June given at Finckenstein for Wybicki, extended that decree to the cases of Michalina Dąbska, General Niemojewski and Wichrowski, so that their hereditary estates, confiscated by the former Prussian government, return to their true owners. The register carries the resolution itself, of 21 July and signed by Małachowski and Łuszczewski, in wording near the print's; it writes "z Prusińskich Dambskiey" where the print has "z Prusimskich Dambskiej". The file holds the draft of the same day. Her letter of 23 July takes the decree of 5 June for the principle and pattern of the Commission's decree and asks that the Administrative Chambers be ordered to put her, as Wybicki was put, into possession of the estates.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad1174016/2/' | relative_url }}">1/174/0/1/6, document 2 (21 July 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, document 4 (23 July 1807)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad1174016/2/' | relative_url }}">1/174/0/1/6, document 2 (21 July 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, document 1 (21 July 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, document 4 (23 July 1807)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-304">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-304">p. 304</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -222,9 +233,11 @@ Stanisław Małachowski, President.
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-321">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-321">p. 321</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -280,9 +293,11 @@ The Director of the Interior brought in orally and showed the original letters, 
 Mr. Daru has requisitioned that magazines of food be established in Warsaw; the French authorities were asked, through Mr. the Director of the Interior, what funds there are to be for this?
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-322">
+<section class="lit-passage has-related" id="p-322">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-322">p. 322</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -322,14 +337,16 @@ The Governor reports that peace between the Emperor of the French and the Empero
 At the sitting, those gathered wished to know how they ought to conduct themselves when Mr. Kamieniecki comes to the sitting, whether as Deputy Director he may take a seat? To this end there was read the Commissorium given to the General Directorium on the 10th of the month, in which the Governing Commission names expressly His Excellency Dembowski as having the right of a seat in the Directorium, as presiding in the Treasury Administration; besides that we looked into the establishment of that same Administration, in which it is set down that His Excellency Dembowski by his office is to sit in the Directorium
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
 <p>The Directorium's protocol Nr. 3 of 15 July 1807, written in the first person by the Director of Police Łubieński, reports that very many were leaving for Dresden – "Dąmbska, Kownacka, Węgrzecki, Bórakowski" among them – and that the Government must be told daily who arrives there. She was in Dresden within the week: her letters of 20, 21 and 23 July 1807 to the Governing Commission and to the Emperor were all written at Dresden and signed "Michalina z Prusimskich Dambska", the last acknowledging the Commission's decree of 21 July.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a><a href="{{ '/documents/agad11740273/3/' | relative_url }}">1/174/0/2/73, document 3 (21 July 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, document 4 (23 July 1807)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a><a href="{{ '/documents/agad11740273/3/' | relative_url }}">1/174/0/2/73, document 3 (21 July 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, document 4 (23 July 1807)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-323">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-323">p. 323</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -388,6 +405,7 @@ All nominated according to law; there is needed only the approval of the Governm
 
 […]
 
+</div>
 </div>
 </section>
 {% endraw %}

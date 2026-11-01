@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -91,9 +92,11 @@ WESTERN LANDS BOOKSHOP
 ##### THE SECOND PARTITION OF POLAND — GREATER POLAND UNDER PRUSSIAN RULE
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-7">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-7">p. 7</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -109,9 +112,11 @@ In 1792, when the Targowica Confederation held sway in Poland, two German powers
 Frederick William II, in a letter of 17 October, informed Catherine of the retreat of his troops from the field of battle, and at the same time reminded her of the compensation due to him for the losses and war costs he had sustained<sup class="lit-fn"><a href="#n-en-2">2</a></sup>. The question of compensation for taking part in the struggle against the revolution had, indeed, been the principal concern of the Prussian king throughout the whole campaign. As early as the second half of July the rulers of Prussia and Austria had met at Mainz to consider this important matter. There they deliberated on the exchange of Belgium for Bavaria to the benefit of Austria, and on the compensation of Prussia with Polish lands. The Prussian minister Schulenburg, who was present at the conference, named the Poznań [Posen], Gniezno [Gnesen] and Kuyavian voivodeships and part of the Sieradz voivodeship, all the way
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-8">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-8">p. 8</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -131,9 +136,11 @@ Emperor Francis II long delayed expressing his consent to such exorbitant preten
 Meanwhile fruitless deliberations on Prussia's demands were being conducted in Vienna with the Prussian minister Haugwitz
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-9">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-9">p. 9</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -145,9 +152,11 @@ Meanwhile fruitless deliberations on Prussia's demands were being conducted in V
 , until finally, on 5 December, a motion of the Austrian vice-chancellor Cobenzl [Translator's note: the vice-chancellor was Philipp Cobenzl; the envoy at St Petersburg named later in this paragraph, whom the text prints as "Ludwik", is his relative Ludwig Cobenzl. The author distinguishes the two only by office.] moved the matter of compensation onto a new track. Cobenzl declared that the emperor consented to Prussia's pretensions, but that in this case the assent of Russia was necessary. Should the Prussian king, however, occupy Polish lands before Austria had effected the exchange of Belgium for Bavaria, the emperor would then be compelled to occupy a corresponding area in Poland himself until the Belgian-Bavarian exchange had come about. Cobenzl's words provoked violent opposition from Haugwitz. He knew that Catherine would never allow Austria to acquire new lands in Poland, and in that case all Austrian efforts in that direction would needlessly protract the whole affair. He therefore demanded that the Viennese court declare itself clearly regarding Prussia's intentions, without advancing pretensions of its own in respect of Poland. News arriving from Belgium of further successes of Dumouriez, and the fear that Prussia might refuse to support with its army the Austrians fighting the revolution, finally induced the emperor, on 19 December, to make concessions. Austria officially agreed to Prussia's demands, but its game was a double one, for, in secret from the Prussians, it intended to obstruct them at St Petersburg. The envoy Count Ludwik Cobenzl received instructions in accordance with which he was to demand from Catherine compensation for Prussia in Poland, in order to secure for Austria Prussia's help in the war against France, but on the other hand he was to oppose an excessive growth of Prussia. Cobenzl was also to announce that, in the event of a new partition of Poland taking place before the Bavarian exchange was accomplished, Austrian troops would then enter the southern voivodeships of Poland. This last instruction, however, the Austrian envoy did not venture to put forward<sup class="lit-fn"><a href="#n-en-5">5</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-10">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-10">p. 10</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -167,9 +176,11 @@ From then on the work of the Second Partition proceeded at a rapid pace.
 The territories that were to become part of the Russian empire were already occupied by the tsarina's troops<sup class="lit-fn"><a href="#n-en-7">7</a></sup>. For in the spring of 1792, in order to support and shield the opponents of the Constitution of 3 May, two armies under Generals Kachowski and Kreczetnikow had entered Poland<sup class="lit-fn"><a href="#n-en-8">8</a></sup>. Prussia announced the introduction of its troops within the borders of the Commonwealth in a declaration of 6 January 1793. Wishing to conceal his true intentions, Frederick William II, greedy for plunder, gave as the reason for this invasion the spread in Poland of "French democratism" and the support given there to Jacobin emissaries. Greater Poland in particular, the Prussian king asserted, "is infected with this dangerous poison" and has contact with the French clubs; therefore the entry of Prussian troops into its territory is dictated solely by Prussia's own danger<sup class="lit-fn"><a href="#n-en-9">9</a></sup>. On 16 January<sup class="lit-fn"><a href="#n-en-10">10</a></sup> the Prussian envoy in Warsaw, Buchholtz, handed this declaration to Chancellor Małachowski [Translator's note: the author gives no first name; probably Jacek Małachowski, Grand Chancellor of the Crown, not Stanisław Małachowski, Marshal of the Great Sejm.]. A few days later, on 23 January<sup class="lit-fn"><a href="#n-en-11">11</a></sup>, the formal Prusso-Russian partition agreement was concluded at St Petersburg, in secrecy<sup class="lit-fn"><a href="#n-en-12">12</a></sup> from the world. Austria was to be informed of this fact
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-11">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-11">p. 11</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -201,9 +212,11 @@ Prussia was enlarged by 1,060 square miles, Russia by over 4,500; there remained
 Meanwhile the Targowica Confederation, taken aback by the announcement of the Prussian invasion, resolved to defend itself. In a letter to the Berlin court it denied the existence of clubs, and appealed
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-12">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-12">p. 12</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -235,9 +248,11 @@ While the confederation was thus lodging its desperate and ineffectual protests,
 These troops formed part of the so-called Greater Poland Division. It was then commanded by the seventy-year-old and infirm General Arnold Byszewski, who had his quarters at Pyzdry [Peisern]. The individual units of the division were disposed as follows: the first brigade
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-13">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-13">p. 13</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -261,9 +276,11 @@ On 26 January Major von Platen of Trenck's hussar regiment clashed in the small 
 General Möllendorff reported these events to the King of Prussia on 1 February, the day after his own occupation of Poznań. He wrote that Toruń too had offered slight resistance, since Lieutenant-General Schwerin, on entering there, had found the city gates closed and had been obliged to break them down; that everywhere the wealthy nobility, the clergy and the burghers of the large towns showed the Prussians
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-14">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-14">p. 14</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -287,9 +304,11 @@ Various rumours reached the new outposts. It was said that the Prussians intende
 In view of such reports a bold plan of offensive action against the Prussians arose in Dąbrowski's mind. He advised moving the entire division towards Warsaw, seizing the arsenal, which was occupied by the Russians, and then striking at the Prussian forces. He supposed that if action were taken against the Prussians alone, "the Muscovites will look on with folded arms". Should the Prussians press too strongly, Dąbrowski proposed, the division should shift to Gdańsk and there await help from France, of which the patriots told so many "extraordinary things". But it was necessary to act at once. Meanwhile Byszewski, who owed the whole of his
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-15">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-15">p. 15</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -309,9 +328,11 @@ Meanwhile the Prussians were completing the garrisoning of their new acquisition
 The prelude to the first of these acts was the notification patent of Frederick William II of 25 March, proclaiming the passage of territories hitherto belonging to the Commonwealth under the Prussian sceptre. In it the King of Prussia listed all the voivodeships and lands which he was incorporating into his state, and stressed his complete solidarity in this matter with the Russian Empress and the consent of the Holy Roman Emperor; he declared that the Polish Commonwealth, in view of the anarchy spreading within it and dangerous to its neighbours, was to exist within boundaries which, in the opinion of both partitioning powers, corresponded better to its internal strength and situation; and finally he expressed the hope that the nation, shortly to assemble in the Sejm, would ratify the annexation, in return for which it would gain an undisturbed peace<sup class="lit-fn"><a href="#n-en-32">32</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-16">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-16">p. 16</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -331,9 +352,11 @@ The Prussians carried out the official taking of possession of the new province 
 After this official taking of possession of Greater Poland and the rest of the seized lands, the newcomers from Brandenburg proceeded to organise them. The country was named South Prussia, since this name pleased the King of Prussia most<sup class="lit-fn"><a href="#n-en-35">35</a></sup>. Von Voss became chief minister of South Prussia, and von Buggenhagen Oberpräsident (chief president). Voss set about organising the administration at once, with the help of the Silesian minister Hoym<sup class="lit-fn"><a href="#n-en-36">36</a></sup>. The whole territory was divided into two departments. The first, called the Poznań department after the seat of the authorities in Poznań, comprised the former Poznań, Gniezno and Kalisz voivodeships and was divided into 17 districts (powiaty; German Kreise). The second, the Łęczyca department, named the Piotrków department soon after the seat of the authorities was transferred from Łęczyca to Piotrków [Petrikau], comprised the former Sieradz voivodeship with Wieluń Land, part of the Kraków (Częstochowa)
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-17">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-17">p. 17</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -357,9 +380,11 @@ The organisation of the judiciary on the Prussian model was undertaken by Minist
 The school authority in the territory of South Prussia was not uniform. Catholic schools were subject to the Chambers, Protestant ones to the consistory, which depended on the Regierung. Supreme supervision over the whole of the school system belonged to the Higher School Board (Oberschulkollegium) in Berlin<sup class="lit-fn"><a href="#n-en-43">43</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-18">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-18">p. 18</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -383,9 +408,11 @@ More than three months later, on 18 August, it was ordered that the surrender of
 Not long afterwards the king himself visited Greater Poland and the rest of the seized lands. He set out from Frankfurt an der Oder at the beginning of October and on the 10th of that month, in the company of Lucchesini, a man well remembered from the time of the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-19">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-19">p. 19</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -401,9 +428,11 @@ Polish-Prussian alliance of 1790, and of several officers, arrived in Poznań. F
 Nor is it surprising that this was so. In those few months of rule the Prussians had already made themselves felt by the Greater Poles. Slowly but systematically they uprooted everything that breathed of the Polish past and stamped the Prussian imprint on every sphere of life. Efforts were made to give the offices a Prussian character. Poles were removed from them. Only out of necessity, in order to communicate with a population that did not understand German, was the office of Landrat<sup class="lit-fn"><a href="#n-en-50">50</a></sup> entrusted to Poles, together with the dignity of one of the chamber councillors. These officials, however, were forbidden to wear Polish dress, lest they recall the bygone order of things. The Prussian government extended its supervision over the Catholic clergy, the confraternities and the guilds, it checked the activities of the town councils, it sent in colonists, and it took the youth of Greater Poland as recruits. Deepening the distinctions of estate among the inhabitants, it permitted by the edict of 24 July 1793 only the nobility to own estates. It threatened the clergy with the loss of their landed property, and the holders of starostwa (crown estates held by a starosta) with the loss of these, intending to turn these estates into
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-20">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-20">p. 20</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -423,9 +452,11 @@ Embitterment among the local population was caused by certain Prussian ordinance
 Although the Greater Poles received the Prussian innovations with reluctance, they nevertheless did not rise to any more serious resistance against the invader. At the beginning of the Prussian invasion, when Prussian troops were entering Poznań and a Polish infantry regiment was withdrawing to Kórnik [Kurnik]<sup class="lit-fn"><a href="#n-en-53">53</a></sup>, the Poznań burghers were not moved by this to any great extent. This passivity must puzzle us all the more since it was precisely they who had played a great role in the movement that led to the Constitution of 3 May<sup class="lit-fn"><a href="#n-en-54">54</a></sup>, and at one time maintained lively relations with the plenipotentiary of the towns of the Poznań district at the Four-Year Sejm, Józef<sup class="lit-fn"><a href="#n-en-55">55</a></sup> Wybicki. A few months later, in the year 1792, when danger began to threaten the new constitution, the Poznań burghers were ready to stand in defence of the endangered order. This is stated plainly in the letter of the then syndic and town councillor Sobolewski of 25 May, in which he wrote to Wybicki<sup class="lit-fn"><a href="#n-en-56">56</a></sup> that among the burghers "zeal is growing for putting up lanterns for the opponents of the constitution"; Sobolewski himself gave his assurance "that if he heard anyone speaking against the constitution", he would be "the first to put the noose" on him. And so the calm behaviour of the inhabitants of Poznań at the moment when Prussian troops entered the city exceeded even the expectation of Möllendorff himself. Möllendorff
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-21">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-21">p. 21</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -449,9 +480,11 @@ It was only the insurrection that was to rouse the Greater Poles from their slum
 ##### THE OUTBREAK OF THE KOŚCIUSZKO INSURRECTION — THE REASONS WHY IT DID NOT SPREAD TO GREATER POLAND FOR A LONG TIME
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-22">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-22">p. 22</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -463,9 +496,11 @@ Zamiar ratowania zagrożonej w swym bycie ojczyzny drogą walki orężnej z zabo
 The intention of saving the fatherland, threatened in its very existence, by means of armed struggle against the partitioning powers began to mature among the Poles in the spring of 1793. Numerous secret societies arose with the aim of preparing an insurrection. There were three principal centres of conspiracy: one in the army, which felt the humiliation of the country with particular keenness and which, moreover, as a result of the curtailment of the state's frontiers, was threatened in its own existence; a second among the "Jacobins" in Warsaw; a third among the émigrés in Saxony, extending in part to Paris. The moderates, such as Ignacy Działyński, colonel-proprietor (szef) of the 10th infantry regiment and the "soul of the conspiracy"<sup class="lit-fn"><a href="#n-en-59">59</a></sup>, such as Kapostas, a Warsaw banker, such as Jelski, starosta of Starodub and a deputy from the time of the Great Sejm, together with the emigration headed by Ignacy Potocki and Kołłątaj, intended to take up arms after suitable preparation and mutual understanding between the emigration and the country, and with support from abroad. The radicals, who were young and inexperienced men such as Józef Pawlikowski, a burgher's son and a writer of the era of the Four-Year Sejm, Eliasz Aloe, of a family of French descent
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-23">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-23">p. 23</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -485,9 +520,11 @@ How the conspiratorial activity developed we do not know precisely. In any case,
 Kościuszko, like Kołłątaj and Potocki, took a sceptical view of the conspirators' plan. He judged that an outbreak of the uprising in the autumn would be premature, but, in keeping with the promise given to the delegation, he appeared on the Galician border in order to become better acquainted with the preparations. Meanwhile Zajączek, who accompanied him, went to Warsaw and from there reported to Kościuszko that the uprising could count for the moment only on the army, and in particular on the readiness of only two generals,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-24">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-24">p. 24</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -511,9 +548,11 @@ Empty-handed, too, more than three months later, the last emissaries from the co
 The constant postponement of the outbreak of the uprising did the national cause no good. In the spring of 1794 the prospects of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-25">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-25">p. 25</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -537,9 +576,11 @@ The capture of the chief leader of the conspirators no longer halted the course 
 The impression made by this step throughout the country was extraordinary. The carrying out of the reduction suddenly stalled. General
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-26">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-26">p. 26</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -559,9 +600,11 @@ Command over the Prussian army in South Prussia was then held by the governor of
 The news of Madaliński's entry onto Prussian territory caused lively agitation in the Berlin Cabinet. Fear arose for the security of South Prussia, in which until then there had been stationed in the more important towns
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-27">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-27">p. 27</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -577,9 +620,11 @@ and at certain militarily important points, apart from a few infantry detachment
 As a result of the instruction received, Lieutenant-General Schwerin carried out the following changes in the disposition of the Prussian troops along the eastern Prussian border. From the area south of the Vistula, from Silesia, he sent Eisenhart's Jäger battalion from Namysłów [Namslau] to Mysłowice [Myslowitz], and Hanenfeldt's grenadier battalion from Nysa [Neisse] to
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-28">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-28">p. 28</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -595,9 +640,11 @@ Tarnowice [Tarnowitz] and the vicinity of Bytom [Beuthen]; from Brzeg [Brieg] to
 There were likewise regroupings of troops north of the Vistula. Lieutenant-General Wolki concentrated on 27 March at Dobrzyń Thiele's fusilier battalion, 5 squadrons of Brückner's dragoon regiment and 3 squadrons of the regiment bearing his own name, and having crossed the South Prussian border on 1 April, reached Pułtusk and its environs 5 days later and remained there. Lieutenant-General Wildau united at Nidbork [Neidenburg] 4 squadrons of dragoons from Werther's regiment, Frankenberg's dragoon regiment, and the infantry regiment bearing his own name, and occupied the border at Mława. Major-General Günther, with his Bosnian regiment, which stood as garrison on the East Prussian border, and Rembow's Jäger battalion, set out from Königsberg towards the Narew to secure the sector between the mouths of the Omulew and the Bóbr. Favrat's infantry regiment, stationed at Brunsberg [Braunsberg], together with 1 regiment of grenadiers and 1 battalion, occupied the Vistula at Płock, Wyszogród and Zakroczym, and also took possession of the small town of Szreńsk. Bonin's infantry regiment, quartered at Grudziądz [Graudenz], was moved together with half a regiment of grenadiers and 1 battalion to Toruń, while with half a battalion it occupied the Drwęca [Drewenz] between Lubicz [Leibitsch] and Brodnica [Strasburg]. The rest of Wolki's hussar regiment took up position at Dobrzyń. General Brüneck, who held the supreme command in East Prussia, moved, to cover the treasuries
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-29">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-29">p. 29</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -617,9 +664,11 @@ Meanwhile, in Kraków, under the influence of Madaliński's movement, decisive e
 For some days after the Act of Kraków Kościuszko did not leave Kraków; he was occupied with military matters. He set out only on 1 April and near the village of Luborzyca joined some of the Polish detachments, among others the brigade of Madaliński. The armed force numbered at first some 4,000 men, but it soon grew, owing to the peasants from the surrounding villages brought in by a member of the Kraków Commission of Order. At Racławice on 4 April a clash with the Russian army took place; Kościuszko, with the help of the peasant
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-30">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-30">p. 30</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -647,9 +696,11 @@ Things began to go differently after the victory at Racławice.
 The organisation of the uprising in Chełm Land and in the Lublin voivodeship followed. Most momentous, however, was the outbreak of the insurrection in the capital. The Warsaw conspirators, having learned of Igelström's planned stroke against the arsenal, hastened the outbreak of the uprising to the night of 17 to 18 April. In the struggle with the Russian troops and the Prussians reinforcing them
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-31">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-31">p. 31</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -669,9 +720,11 @@ Only Greater Poland did not stir. In 1793, when the secret societies arose, this
 At first Kościuszko, as the future Commander, was undoubtedly resolved to act against the Prussians, when in mid-September 1793 he is said to have spoken these words to the conspirators: "I myself shall strike at Piotrków, at Möllendorff, with the troops that are between Warsaw and Kraków, and having cleared Greater Poland I shall turn towards Warsaw<sup class="lit-fn"><a href="#n-en-80">80</a></sup>...". Fear, however, of inadequate preparation of the uprising did not then permit Kościuszko to carry out this intention, although the chances of success were considerable in view of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-32">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-32">p. 32</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -687,9 +740,11 @@ the small number of Prussian troops in the newly annexed territory. The Act of K
 The policy of the Supreme Commander towards Prussia is characterised most eloquently by the instructions he gave to the president of Warsaw, Zakrzewski. He ordered him, namely, to come to an understanding with Buchholtz in secret and to declare that it was "only a war declared on him for policy's sake", and that therefore "let his Court give peace to our borders, and we shall not touch him<sup class="lit-fn"><a href="#n-en-82">82</a></sup>". And indeed negotiations on this matter with the Prussian envoy went on throughout May. Hence, out of regard for Kościuszko's intentions,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-33">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-33">p. 33</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -709,9 +764,11 @@ President Zakrzewski himself took a different view of the relation of the insurr
 Meanwhile the Prussians' preparations for war pointed unmistakably to their hostile intentions towards the insurrection. Lieutenant-General Favrat, deputising for Schwerin, who had been on leave since the middle of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-34">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-34">p. 34</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -731,9 +788,11 @@ Soon the Prussians' preparations for war were nearing completion. During May and
 At the beginning of June the disposition of the Prussian army assigned to cover the borders and to take the offensive against the Poles was as follows: South of the Vistula, on the Pilica, stood Lieutenant-General Favrat with 17 battalions, 27 squadrons and 2½ batteries. Major-General Rüts, with 7 battalions and a cavalry detachment totalling 1,300 horse, guarded the Upper Silesian border. To cover the magazines there stood at Piotrków 3 battalions, and at Częstochowa 1 battalion and 2 squadrons
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-35">p. 35</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -765,9 +824,11 @@ Soon the movements of the Prussian army were to be directed more closely by King
 On 12 May he decided to set out for Poland. Hitherto an ardent champion of the struggle against revolutionary France, he yielded to the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-36">p. 36</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -787,9 +848,11 @@ That same Favrat, in May, when Kościuszko was occupied at the camp near Połani
 Although in May no cooperation between the Prussians and the Russians came about, it was now only a matter of a few days. Denisov, after unsuccessful attacks on
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-37">p. 37</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -809,9 +872,11 @@ Yet even the king, after arriving on 3 June at Favrat's camp at Wola near Żarno
 To this end, General Frankenberg with the crown prince's corps was to march towards Warsaw on 8 June, while General Schönfeldt was to begin preparations for crossing the Vistula, in order to create in Kościuszko the impression that the enemy intended to strike at the capital. The manoeuvre failed, since Kościuszko had already decided earlier on the movements of his army. On 5 June news suddenly reached the royal quarters at Wola that the insurgent troops had begun a march on Denisov's position and had forced his advance guard to retreat. The Prussian king could therefore no longer delay. Fearing that the Poles might defeat Denisov, he immediately issued orders for a march towards Szczekociny. The battle was fought the next day. Kościuszko took the field with his 14,000-strong corps, of which roughly ⅓ were peasants, facing an opponent superior to him by 12½ thousand<sup class="lit-fn"><a href="#n-en-91">91</a></sup>. In such conditions the encounter ended in a disastrous defeat. The insurgents' loss amounted, by Kościuszko's own estimate
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-38">p. 38</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -835,9 +900,11 @@ After the defeat Kościuszko fell back in the direction of Warsaw, in this case 
 On 10 June he issued from the camp at Kielce an order by virtue of which he directed the commanders of the corps of line troops to advance into Prussian and Muscovite territory and to call the oppressed people to rise. At the same time, by the same order, he commanded the leaders of the levy en masse "to lead at once either volunteers or the border country people... into the lands torn from
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-39">p. 39</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -865,9 +932,11 @@ Yet it was not then that the "revolt" flared up in Greater Poland; garrisons of 
 ##### THE SPREAD OF THE INSURRECTION INTO GREATER POLAND — THE INSURGENTS' ARMED MOVEMENTS AND DĄBROWSKI'S EXPEDITION TO GREATER POLAND
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-40">p. 40</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -887,9 +956,11 @@ Attempts to enter the Prussian annexation and the Prussians' possessions likewis
 *Jan Henryk Dąbrowski. From the Winna Góra collections*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-41">p. 41</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -913,9 +984,11 @@ In the first half of July the Prussians and Russians drew up before the earthwor
 After the Prussians' capture of Wola on 27 July, a period of little activity followed among the besiegers, while the opposing side for its part tried to act offensively<sup class="lit-fn"><a href="#n-en-105">105</a></sup>. The Poles undertook a number of sorties against the enemy positions, and even tried to break through the cordon of troops surrounding the capital. In this last case, however, the attempts missed their mark. On the one hand there was a lack of capable leaders, and on the other the undertaking itself proved extraordinarily difficult. The attempts to cross the Narew and to spread the rising in those parts were renewed
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-42">p. 42</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -931,9 +1004,11 @@ as well, but only at Rzewnie and Słońsk were any gains achieved. Less often no
 Completely successful, however, was Bielamowski's reconnaissance, which this lieutenant, from Rymkiewicz's detachment, undertook around the middle of August. He set out from Warsaw with 40 horse from Dąbrowski's Mazur regiment by way of Buraków and the Kampinos Forest, and, keeping constantly westward by byways, reached as far as the Bzura and beyond, to Gąbin [Gombin] and Włocławek [Leslau]. This bold deed alarmed the Prussian officials, since Bielamowski in several instances took the cash boxes of post offices, excise offices and salt depots, and even intercepted a transport of money intended for the pay of the Prussian troops before Warsaw. To render Bielamowski harmless, a Prussian detachment was sent out from before Warsaw. Bielamowski, aware of the impossibility of holding out with his weak little detachment against the Prussians pursuing him, and seeing no possibility either of effectively supporting the armed force that was to be formed in Greater Poland, returned safely to the capital by the same road. To Kościuszko he brought the news of the insufficient number of Prussian troops in those parts. In the entourage of the Prussian king Bielamowski's expedition aroused
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -961,9 +1036,11 @@ The moment was opportune. In South Prussia the Prussians had only 8,000 soldiers
 In the second half of August the torch of "rebellion" was raised. The armed movement was admittedly very weak
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -983,9 +1060,11 @@ Nevertheless, small detachments of partisans were more than once able to harass 
 The first in Greater Poland to raise the standard of the rising was the castellan of Kuyavia, Dionizy Mniewski. On 20 August, with a detachment of Kuyavian partisans, he attacked the Prussian posts at Brześć Kujawski [Brest-Kujawski], destroyed them and took possession of the town treasuries. There fell then "the valiant citizen Skarbek", and "Trzebuchowski, deputy for Kuyavia, made a colonel of the rising, and Wichrowski and Kosiński, citizens, contributed much to this rising"<sup class="lit-fn"><a href="#n-en-112">112</a></sup>. From Brześć Mniewski hastened to Włocławek and halted there on 22 August. In driving out the town's garrison, Lieutenant Marwitz of Alt-Pfuhl's regiment and several soldiers fell. An hour later 11 boats with ammunition, intended for the Prussian besieging army, came up the Vistula from Grudziądz. Taking advantage of the opportunity, Mniewski with his detachment struck at the Prussians escorting the boats. The attack succeeded. Thirteen Prussians fell, and the whole transport fell into the insurgents' hands. Being unable to use all the ammunition, the Poles sank the greater part of it. For themselves they kept 100 barrels of powder, of which, however, 3 blew up. After accomplishing so bold a deed, Mniewski's insurgents<sup class="lit-fn"><a href="#n-en-113">113</a></sup> made camp near Włocławek on the road leading to Brześć. According to further reports carried by the newspaper then appearing in Poznań, the "Südpreussische Zeitung", an entrenched camp of the Kuyavian insurgents was also supposed to be at Radziejów, from where through the surrounding country as far as Toruń there spread
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-45">p. 45</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1005,9 +1084,11 @@ While these things were happening in Kuyavia, the inhabitants of the other voivo
 In the Poznań voivodeship, citizens such as Hipolit Rogaliński, Józef Niemojewski, Antoni Gliszczyński, Józef Miaskowski, Antoni Wyganowski, Hieronim Jaraczewski, Wojciech Sadowski, Sebastian Bieńkowski, Ireneusz and Bonawentura Koczorowski, Piotr Zaremba and Jan Zembrzuski gathered on 21 August at a general assembly in Kościan, resolving to act at once. First they seized the Prussian magazine in Śrem and set up an insurgent camp near that town. From there, 600 horse strong, they moved towards Rąbiń<sup class="lit-fn"><a href="#n-en-115">115</a></sup>, where they drew up and swore the insurrection act. At the same time they issued a proclamation calling on the peasants to join their ranks, promising each, as a reward, a reduction by half of the dues to the lord. At Rąbiń, too, members were appointed to the insurgent authorities for the Poznań voivodeship, that is, to the Commission of Order and the criminal court. The first of these consisted of: Celestyn Sokolnicki, Józef Jaraczewski, Hipolit Rogaliński, Antoni Wyganowski, Antoni Gliszczyński, Jan Zembrzuski, Józef Sczaniecki, Piotr Zaremba, Rev. Śmigielski, Ignacy Kurowski, Hieronim Jaraczewski and Stanisław Mycielski. The criminal court was made up of: Wojciech Węgorzewski, Józef Miaskowski, Ireneusz Koczorowski, Faustyn Zakrzewski, Eustachy Kowalski, Ignacy
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-46">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-46">p. 46</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1023,9 +1104,11 @@ Wilczyński, Wit Pomorski, Antoni Żółtowski. From Rąbiń the insurgents move
 Independently of the insurgents who had gathered under Niemojewski's leadership, other armed detachments were also active in the Poznań voivodeship. Thus, according to the memoir of Adam Turno, there assembled on 22 August<sup class="lit-fn"><a href="#n-en-121">121</a></sup> in the village of Morków in the Leszno district "some 2,000 of the people, infantry for the most part armed with scythes, and cavalry of nearly 200 horse". Unfortunately, however, the commander of the insurgents, Bolesz, proved a most imprudent man. "Having taken up quarters in the manor house with all the citizens, and having set no picket or guard even on the chimney, he ate and drank in peace. Following the commandant's example the peasantry too "drank on the highway, having stood their scythes in the stable in the yard". Such carelessness soon brought disastrous
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-47">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-47">p. 47</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1041,9 +1124,11 @@ consequences in its train. Unexpectedly there arrived at Morków the detachment 
 Another insurgent episode took place in the district of Rawicz, at Jutrosin. The armed movement in that small town began through the doing of the mayor Walenty Zatorski, the parish priest Gogolewski, Skoroszewski, the leaseholder of the parish estate at Dubin, and a Mr Budziszewski. On 21 August, for 1 o'clock in the afternoon, Mayor Zatorski summoned the burghers to the town hall, whereupon he ordered them to assemble in the market square and there await the arrival of Skoroszewski's detachment of insurgents, with which they were to unite and march on without delay. Whoever had no rifle was to stand at the place of assembly armed with a scythe, a pike or a pitchfork, and each was obliged to provide himself with food for three days. On 24 August a certain Umiński arrived in the town at the head of a detachment of 24 men and 4 wagons, took down the Prussian eagles and took, against receipts, a small amount of money left in the town treasury. He forbade the Prussian officials, on pain of death, to communicate with the authorities. The insurgents, however, were not masters of the little town for long. From Rawicz there came up Colonel Dossow, who, having just come from Silesia at the head of the 2nd battalion of the Götze regiment and 2½ squadrons of Dolfs cuirassiers, was marching by way of Rawicz and Zduny to Kalisz to cover the magazines there<sup class="lit-fn"><a href="#n-en-123">123</a></sup>, and he began a search for the accused. The mayor was betrayed by his own farmhand, who, when seized, confessed that on his orders he had carried scythes
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-48">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1059,9 +1144,11 @@ to the blacksmith. Nor did Father Gogolewski, hidden from them in a cupboard, es
 In the Gniezno voivodeship, in the part that came under Prussian rule in 1793<sup class="lit-fn"><a href="#n-en-125">125</a></sup>, the most zealous propagators of the idea of insurrection were Józef Lipski, lord of Czerniejewo<sup class="lit-fn"><a href="#n-en-126">126</a></sup>, and the Rogoziński brothers. The nobility from the neighbourhood of Gniezno declared for the fight against the Prussians, and succeeded in winning over even the peasants of that area and part of the burghers of Gniezno. On 22 August the insurgents arrived at the assembly point at Gniezno and the next day attacked the Prussian garrison, numbering about 210 men, and disarmed it. At the same time the Prussian emblems were removed from the official buildings, after which the citizens assembled in the town hall swore the insurrection act. Seated on the commission chosen for civil and criminal matters were: the castellan Walenty Godzimirski, elected chairman against his will and in the end removed as suspect; Korytowski, who succeeded him in that office; Józef Jaraczewski; the chamberlain Piotr Kaliszowski; the canons Loga, Skiwski and Murzynowski (the last soon expelled); Colonel Twardowski; the Protestant clergymen Bothe, Schocken, Koch and Hanke; the burghers Gostomski and Kłosowski; and several peasants<sup class="lit-fn"><a href="#n-en-127">127</a></sup>. The town hall became the seat of the commission, from which appeals went out over the whole district calling the population to arms. At this call peasants armed with scythes and pikes began to stream in from all sides. The monastery of Wągrowiec [Wongrowitz] alone supplied 100 peasants. Near the village of Winiary<sup class="lit-fn"><a href="#n-en-128">128</a></sup> they set up a camp<sup class="lit-fn"><a href="#n-en-129">129</a></sup>, where the sense of discipline was instilled in the masses with great diligence. Unfortunately, however, right at the very start, the camp did not escape quarrels. Lipski, the commander of the armed force, having fallen out with the Rogozińskis, all but cut down one of the brothers. The peasantry, again, rose against the nobility, regarding some of them, such as, for example,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-49">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-49">p. 49</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1081,9 +1168,11 @@ We must now sketch in turn the early history of the insurrection in the south-ea
 In the Sieradz voivodeship, after consultations among the more eminent citizens at the house of the starosta of Brodnica, Ignacy Błeszyński, in Złoczów, they assembled in arms on 23 August in the forest near Sieradz. Those who
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-50">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-50">p. 50</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1103,9 +1192,11 @@ The surprised Prussians shut themselves up in the town hall, but after an hour's
 For he plundered the town and the surrounding country, then set out toward Piotrków, and, having received a relief force of 150 infantry and 800 cavalry, turned through Sieradz toward Kalisz. On the way he seized the castellan of Wieluń, Karśnicki, the master of the horse Bartochowski, and the citizen Bąkowski, whom he put in chains and sent off to the Silesian fortress at Nysa. At that time even several women fell at the hands of the Prussians. Thus there were murdered the rotmistrz's wife Kożmińska, Miss Gątkiewiczówna, and the citizen Krąkowska, who was cut down with broadswords<sup class="lit-fn"><a href="#n-en-136">136</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-51">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-51">p. 51</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1117,9 +1208,11 @@ W okolice Wielunia odezwy Kościuszki przywiózł obywatel Konopnicki. Do wybuch
 Kościuszko's proclamations were brought to the neighbourhood of Wieluń by the citizen Konopnicki. Psarski, podkomorzy of Wieluń and owner of numerous estates, contributed greatly to the outbreak of the rising in those parts. He arrived in Wieluń on 26 August with his sons, his son-in-law Ciemniewski and his servants, took up quarters at an inn, and ordered the court official he had summoned to enter an insurrection act in the castle-court registers. Despite his threats he was unable to induce the authority to carry out this legal formality, but in return the town council and the officials swore to him an oath of fidelity to the national cause. On that same day Psarski set out for the village of Naramice to persuade Józef Stokowski to take command of the rising in the district. His son Mikołaj he sent to Opajowice, the estate of the citizen Topolski, where on that day the local nobility gathered in large numbers, so that he might call them to arms. On the next day many of the nobility, armed and mounted, arrived in Wieluń. Among those assembled confidence in success grew. Still on that same day, 27 August, the rising was proclaimed in the Wieluń and Ostrzeszów [Schildberg] districts, Stokowski was entrusted with the dignity of general, and a commission for civil and criminal matters was appointed. To the membership of this authority were called Psarski, Ciemniewski and Wierzylecki, who summoned the inhabitants of the surrounding towns and villages to declare themselves for the rising. Soon further ordinances of the commission appeared, directing the population to arm, to prepare pikes and scythes, to hand over to the commissariat, against receipts, the taxes and goods that the commander of the armed detachments, Stokowski, might demand, to detain all Prussian transports and mail, and finally to send spies and suspect persons before the criminal court. For the success of the insurrection services were held in the churches, and the priests read proclamations from the pulpits, endeavouring to convince the people of the impor-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-52">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-52">p. 52</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1135,9 +1228,11 @@ tance of the moment. Since the commission's chief concern was to have a suitable
 In the Kalisz voivodeship the insurrection was proclaimed on 22 August; Paweł Skórzewski became commander of the armed force<sup class="lit-fn"><a href="#n-en-138">138</a></sup>. Jan Sieroszewski, a former colonel of the Bar Confederation, took a lively part in the rising in this land. In the middle of August Sieroszewski, having received
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-53">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-53">p. 53</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1153,9 +1248,11 @@ the summons and patent from Kościuszko, "in consequence of the proclamation sen
 Of the events that took place in the course of August in the Kalisz region we also have an account from the opposite side, the Prussians,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1167,9 +1264,11 @@ Jest to raport porucznika v. Milkau przesłany gen. Mansteinowi w Lesznie<sup cl
 It is the report of Lieutenant v. Milkau sent to General Manstein at Leszno <sup class="lit-fn"><a href="#n-en-142">142</a></sup>. Lt. Milkau set out, by order of the commandant of Poznań, Diether, on 10 August into the Kalisz region with half a depot battalion from Frankenberg's regiment and 1 cannon, to cover the magazines at Koło and Konin. On 23 August it was reported to him at Koło that the insurgents, whose gathering had long been rumoured, were planning a simultaneous attack on Koło and Konin with a force of 800 men. From Konin, on the following day, Lt. v. Prittwitz, who was stationed there as garrison, informed him that the insurgents had likewise gathered in large numbers in the neighbourhood of Miłosław and intended on the next day to go to Słupca with a detachment of 400 armed men, as a result of which communication with Poznań would be cut. Shortly before that he had also received news from Kalisz of the appearance of insurgents at the gates of that town and of their firing on the guard. On 25 August Lt. Milkau arrived at Konin to cover the considerable magazine in that town. He learned then that a detachment of 300-400 insurgents had entered Stawiszyn<sup class="lit-fn"><a href="#n-en-143">143</a></sup>. He remained at readiness through the nights, and his pickets were constantly alarmed. On 27 August the outposts of the insurgents appeared before Konin at a distance of half a mile. Milkau sent a patrol against them, but the insurgents attacked it. They killed 1 Prussian and took two prisoner. On the same day a Prussian detachment of 23 men escorting 25 prisoners arrived at Konin from Łęczyca. Insurgents attacked it on the way, between Koło and Konin, but achieved no success. On 29 August 200 armed men burst into the suburb of Konin and took the cash box from the salt depot there. Communication was cut in all directions and no one was willing to offer the Prussians his services as a messenger<sup class="lit-fn"><a href="#n-en-144">144</a></sup>. On the following day, 30 August
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1189,9 +1288,11 @@ Having thus become acquainted with the beginning of the insurrection throughout 
 The commander of the armed force in those parts was Grudziński. His troop never numbered more than 1,300 men, yet it proved sufficient to alarm the local Germans and Jews. Hence requests for help were sent from Bydgoszcz and Inowrocław to the King
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-56">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-56">p. 56</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1203,9 +1304,11 @@ pruskiego, lecz nadaremnie. Główna kwatera pruska doniosła, iż żadnych wojs
 of Prussia, but in vain. The Prussian headquarters reported that it could detach no troops, although in the whole Netze District there was only one company of invalids, at Bydgoszcz. On 26 August a detachment of insurgents entered Żnin [Znin], removed the Prussian eagles, seized the treasury, induced the citizens to swear an oath of loyalty to the Commonwealth, and issued a proclamation summoning the owners of estates to appear at Gniezno together with their subjects<sup class="lit-fn"><a href="#n-en-145">145</a></sup>, bringing arms and provisions. These proclamations, as elsewhere, were announced from the pulpits by the parish priests. From Żnin the flame of revolt began to spread farther and embraced Szubin [Schubin], Barcin, Gąsawa, and even Sępolno [Zempelburg] in Pomerania<sup class="lit-fn"><a href="#n-en-146">146</a></sup>. The Prussian authorities, seeing no other way of checking the spreading insurrection because of the small number of troops, issued proclamations calling on the population to remain faithful in their subjection and to seize the insurgents, and also recalling the benefits that flowed to it from Prussian rule. A circular was also issued at Kwidzyn [Marienwerder], warning the clergy against supporting the rising and forbidding clerics from South Prussia to enter West Prussia. For the Prussians considered priests very dangerous. They were, after all, above all the ardent propagators of the insurrection, and through their frequent journeys they could easily spread the watchwords of revolt. These measures were, however, ineffective. The rising spread, and even in Piła [Schneidemühl], so thoroughly Germanised later, it had its supporters. Everywhere the clergy and the poor nobility sincerely favoured it. Thus in the small town of Kcynia [Exin] Krupecki was a zealous champion of the insurrectionary idea. Seeing the sluggishness of the magnates toward the national cause, he compelled several of them to take part in the insurgent movement. There was, however, little benefit from the Poles won over in this way. Two
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1225,9 +1328,11 @@ Meanwhile the Germans in the towns, unable to wait for the Prussian army for whi
 The spread of the insurrection throughout Greater Poland was particularly favoured by local conditions there. For the whole country was covered with forests, the largest belts of which stretched along the Noteć [Netze] and south of the sources of that river, and farther along the Warta [Warthe] and the Prosna. So great a wealth of forests was of first-rate importance for guerrilla warfare. The individual detachments of Greater Poland partisans, who in the open field would not have been able to match the Prussian army, nevertheless found a safe hiding place for themselves once they had taken refuge in the forests. There the Prussian soldier, not yet familiar with the terrain, could not track them down, whereas they could undertake unexpected forays into the countryside, cut communications, paralyse the Prussian authorities, take money from the Prussian treasuries, and escape pursuit safely.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-58">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-58">p. 58</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1251,9 +1356,11 @@ At the end of August the enemy began to attack the city with increased strength.
 The hearts of the besieged were also fortified by news of the favourable development of the rising in Greater Poland. On 3 September envoys from that land, the citizens Hoffman and Buchowski, appeared before Kościuszko; they gave an account of the armed movement up to that time in their
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-59">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-59">p. 59</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1265,9 +1372,11 @@ dzielnicy i o przyspieszenie pomocy prosili<sup class="lit-fn"><a href="#n-pl-15
 region and asked for help to be hastened<sup class="lit-fn"><a href="#n-en-152">152</a></sup>. On the following day Kościuszko shared the joyful news "with the citizens, inhabitants of Warsaw", and, pointing at the same time to the effects that the Greater Poland rising might have on the further course of the siege of the capital, included in the proclamation the following words: "This happy event will upset certain designs of our enemies, but may also drive them to desperate steps and to hastening against Warsaw all the exertions of their fierce and vindictive pride<sup class="lit-fn"><a href="#n-en-153">153</a></sup>". Kościuszko also held up the Greater Poles as a model to the citizens of the Volhynia voivodeship and others "torn from the body of the Commonwealth by the last violent Muscovite seizure", reproaching them in a proclamation sent out on 5 September that, while everything that bears the Polish name seizes upon every means of throwing off the "insulting yoke", they alone "remain in sluggish tranquillity", and with these words he encouraged them to rise: "You have no army in your country, but you have people, and these people will soon become an army. The Greater Poles had no army, yet having made a holy pact in one day in seven voivodeships, they crushed the invaders and raised an armed force of more than ten thousand. They gave all their brethren an example, one very necessary for them, that a rising can be carried out without the help of an army, provided only that the interest of the Fatherland unites the minds of all, and the love of liberty kindles them with a holy fire. The difference of faith and creed did not hold them back from this work. Both of these are no obstacle to loving the Fatherland and liberty. Let everyone honour God according to his own faith, and there is no faith that forbids a man to be free. This truth united the Greater Poles; despite the multitude of people of various creeds in those parts they felt that they cannot be
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-60">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-60">p. 60</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1295,9 +1404,11 @@ The reasons for this decision were also weighty.
 Lieutenant-General Schwerin, ever cautious, who had returned to the army in mid-July<sup class="lit-fn"><a href="#n-en-157">157</a></sup>, drew the king's attention to the shortage of provisions and ammunition, to the great number of sick soldiers, and to the possibility that even after the capture of Warsaw the weakened Prussian army would meet in the Polish capital the same fate that had once befallen Igelström's garrison; finally he put forward the strongest argument, namely he pointed to the ever more violent spread of the insurrection in Greater Poland and advised that peace be restored there first. In addition, relations with the commander of the Russian forces, General Fersen<sup class="lit-fn"><a href="#n-en-158">158</a></sup>, which had long been strained, had worsened, and from Vienna came word that Austria, which at the beginning of July had itself brought its troops into the territory of the Commonwealth<sup class="lit-fn"><a href="#n-en-159">159</a></sup>, would not support the besiegers with troops. This sufficed to convince the king of the pointlessness of continuing the siege. Not wishing to expose his army to greater danger, and above all not wishing to
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-61">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-61">p. 61</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1317,9 +1428,11 @@ In the night of 5 to 6 September the Prussians began to draw in their troops. Du
 The unexpected withdrawal of the enemy troops from the entrenchments of Warsaw filled the hearts of its inhabitants with joy. The capital breathed again, but it soon became apparent that the situation was by no means easy. It was found that the Prussian troops on the left bank of the Vistula, though they had withdrawn a few miles, nevertheless continued to blockade the city. Their posts stretched without a break along the left bank of the Bzura and the right bank of the Pilica, and between these rivers, on the stretch from Łowicz to Rawa, the main army was quartered with a fortified camp at Chrzonowice. North of the Vistula the column on the Narew stood opposed to the corps of General Favrat<sup class="lit-fn"><a href="#n-en-162">162</a></sup>,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-62">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-62">p. 62</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1343,9 +1456,11 @@ There, of the Prussian commanders, the most dangerous was Székely.
 He set out from the camp before Warsaw on 29 August at the head of Hinrichs's rifle battalion and the squadrons of Trenck, Czettritz and Wirtemberg, by the road through Sochaczew, in order to rout the insurgents gathering near Gniezno. He did not, however, go in the intended direction, but on hearing of the notorious events in Kuyavia changed his route and made for Włocławek. Having reached it, he met with considerable resistance from the insurgents, from whom he captured 4 guns, but he could accomplish no more. For 600 armed peasants and 200 horsemen were moving west to join the other Greater Poland risings. On 8 September Székely sent detachments of cavalry after them, while he himself remained with the rest of the corps in Włocławek. Only when he was informed of an alleged assembly of all the voivodeship forces near Inowrocław did he leave a company of infantry in
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-63">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-63">p. 63</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1361,9 +1476,11 @@ Włocławek and set out in the direction of Toruń and Bydgoszcz to cover the ri
 In this short time Székely became a veritable terror to the insurgents and to the districts through which he passed. According to Rymkiewicz's words<sup class="lit-fn"><a href="#n-en-167">167</a></sup>, his entry into Greater Poland was "like a violent storm that overturns and lays waste everything it finds on its way". Already on the day after his departure from Warsaw, on 30 August, he issued at Sochaczew a proclamation<sup class="lit-fn"><a href="#n-en-168">168</a></sup>, which he ordered published as quickly as possible by all ecclesiastical and secular authorities. The four articles of this proclamation contained the broad plenipotentiary powers he had received from the king. Thus he threatened all those captured with arms in their hands with hanging. The same fate, or the penalty of life imprisonment in fortresses and in addition confiscation of property, was to befall those of the more prominent nobility who should be leaders or participants in the rising, and even their wives if they proved to be accomplices. Corporal punishment or death threatened also all those who hid insurgents on their estates and failed to report them to the nearest authority. Székely was likewise to seize suspected persons and send them to fortresses. All sentences were to be passed without prior investigation and without any legal formalities. Although in the proclamation Székely, on the express order of the king, threatened the penalty of death in many cases, in practice he did not dare to carry out this ruthless
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-64">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-64">p. 64</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1383,9 +1500,11 @@ Yet Székely was not to rage with impunity much longer on the lands of Greater P
 Its dispatch was preceded by writs of the Supreme National Council of 6 September appointing several Greater Poland citizens as plenipotentiaries for the voivodeship there. According to extensive instructions the plenipotentiaries were to publish the declaration of the Supreme National Council of 12 June, which annulled the duty of obedience to the Prussian king; to swear the citizens to fidelity, obedience and defence of the fatherland; to call upon them to take up arms and join the army of the Commonwealth; to order that a foot recruit from every fifth hearth, and a mounted one from every fiftieth, "armed and clothed in the shortest possible time", be delivered "where the commanding general shall make disposition"; to collect taxes; to requisition against receipts the things needed by the soldier; to establish, together with citizens of unblemished character, a Commission of Order, which would see to forage and produce for the army and the whole armed force
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-65">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-65">p. 65</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1401,9 +1520,11 @@ composed of citizens, and to take into administration the national estates, name
 Three days after the issuing of the appeal, on 9 September, a corps stood ready to march to Greater Poland<sup class="lit-fn"><a href="#n-en-172">172</a></sup> at Młociny. In view of the anticipated clashes with Russia, which was drawing troops from Livonia, White Ruthenia and Ukraine, Kościuszko did not send many soldiers, wishing as he did "to make up for the deficiency in the person of the commanding general"<sup class="lit-fn"><a href="#n-en-173">173</a></sup>. He therefore entrusted the command of the corps to Dąbrowski, the more so as the Greater Poles had earnestly asked for it<sup class="lit-fn"><a href="#n-en-174">174</a></sup>. On that same day, 9 September, Dąbrowski also received
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-66">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-66">p. 66</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1419,9 +1540,11 @@ an order from the Commander "to proceed with the army entrusted to him to Greate
 Aware of the importance of the mission entrusted to him, Dąbrowski set out at once. He took with him the brigades bearing his own name and Rzewuski's, amounting to 900 cavalry and 1,000 infantry from the 4th and 13th regiments, together with 100 riflemen of Sokolnicki, recruited from Warsaw youth alone, and in addition 12 three- and six-pounder guns. The strength of the corps was soon increased by the joining of Madaliński's detachment, consisting of 600 horse and 400 recruits from the first regiment, together with 4 cannon. In quality the soldiery was mixed. The cavalry was the best, and among it Madaliński's brigade had already more than once given proof of its mettle; Dąbrowski's brigade, formed only during
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-67">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-67">p. 67</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1449,9 +1572,11 @@ Meanwhile, in order to cover Dąbrowski's march toward the Bzura, Kościuszko di
 Dąbrowski decided to cross the Bzura at Kamionna, on the left wing of Frankenberg's position, and made the crossing on 13 September, attacking the weak Prussian posts
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-68">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-68">p. 68</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1471,9 +1596,11 @@ To continue the further march in safety, Dąbrowski asked Kościuszko to order G
 The enemy army of which Dąbrowski speaks was commanded by Major-General Schwerin, formerly an adjutant and favourite of Prince Henry of Prussia. He set out from Łowicz at the head of two battalions of the Kunheim regiment and 2 squadrons<sup class="lit-fn"><a href="#n-en-186">186</a></sup> for the Warta region by the road through
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-69">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-69">p. 69</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1489,9 +1616,11 @@ Gąbin, Gostynin, Izbica and Sompolno. On 14 September he halted at Konin, sendi
 At that time Dąbrowski with the main forces, having before him the corps of Major-General Schwerin, on his left flank the greater part of the Prussian army withdrawn from before Warsaw, and on his right Colonel Székely, was heading into the heart of Greater Poland. He himself marched on Gąbin and Kłodawa; his right wing under Bielamowski went along the Vistula through Tokary toward Włocławek, his left under Madaliński toward Sochaczew, Łowicz and Łęczyca<sup class="lit-fn"><a href="#n-en-188">188</a></sup>. On the way Wybicki issued a proclamation<sup class="lit-fn"><a href="#n-en-189">189</a></sup> "to the citizens and inhabitants of the Evangelical confession, as well as to the so-called Hollanders in Polish towns", calling them to arms, and Madaliński intercepted the Prussian post coming from Łowicz. It contained very valuable correspondence. Thus there was found a letter of Frederick William II to Col. Székely with an order that he should enter into as few negotiations and promises with the insurgents as possible, and, when nothing was gained in that way, should at once carry out the instructions concerning the suppression of the insurrection; there was also a letter from the commandant of Gdańsk informing him that "because of the spirit of revolution making itself manifest" he had had to take arms from the citizens<sup class="lit-fn"><a href="#n-en-190">190</a></sup>
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-70">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-70">p. 70</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1511,9 +1640,11 @@ In a report of 18 September Dąbrowski informed Kościuszko of the interception 
 At the same time serious changes took place in the Prussian camp. On 18 September Frederick William II left the army and, ill
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-71">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-71">p. 71</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1529,9 +1660,11 @@ and in very bad humour, made his way to Berlin by the road through Wrocław <sup
 At the moment when Lieutenant-General Schwerin assumed supreme command, of the army that had taken part in the siege of Warsaw there remained in the fortified camp at Chrzonowice<sup class="lit-fn"><a href="#n-en-203">203</a></sup> only 12 musketeer battalions, 10 squadrons of dragoons and the same number of hussars, one six-pounder battery and one field battery, and in addition two 12-pounders. The remainder of the corps entrusted to him was scattered over a wide area. Thus the corps of Major-General Frankenberg, with 6 musketeer battalions, 5 squadrons of dragoons, a detachment of 120 horsemen picked from among hussars and dragoons, and 1 six-pounder battery, stood guard over the Bzura from Łowicz to Kamionna. Major-General Pollitz, stationed in the Sandomierz voivodeship, guarded with 6 musketeer battalions, 1 rifle battalion, 4 squadrons of hussars and 1 heavy six-pounder battery the line of the Pilica from Nowe Miasto all the way to its confluence
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-72">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-72">p. 72</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1547,9 +1680,11 @@ with the Vistula. Further, in the southern part of that voivodeship, in the vici
 On news of Dąbrowski's march, Schwerin, on the king's advice, reinforced the Prussian posts on the Bzura, sending there the infantry regiment of Jung-Schwerin, 3 squadrons of Wirtemberg's hussars and 2 of Prittwitz's dragoons together with two field guns. With the help of these forces the Prussian commander on the Bzura, General Frankenberg, with a corps consisting of 9 battalions, 12 squadrons and 2 cannon, was to recover Kamionna or at least to prevent the Polish army from fresh attempts to break through toward Greater Poland, to garrison Łowicz and Sochaczew with strong forces, and at the same time, jointly with Major-General Schwerin and Colonel de Székely, to destroy Dąbrowski. Soon, however, General Frankenberg was relieved of his command, and his place was taken by Major-General Klinkowström, who was now left to carry out the orders given to his predecessor, and above all to restore Kamionna to the Prussians at all costs. According to a further royal order, Lieutenant-General Schwerin was to storm Kamionna with the help of 3 battalions of Rüts's from Pollitz's corps and a detachment of soldiers taken from the Chrzonowice camp, and afterwards to strike
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-73">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-73">p. 73</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1569,9 +1704,11 @@ In carrying out the commissions of his monarch, the old Schwerin proved extraord
 This circumstance, as we shall see, was to have a very favourable effect on the course of the expedition to Greater Poland. Its commander meanwhile, having rested a day
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-74">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-74">p. 74</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1587,9 +1724,11 @@ at Koło, then crossed the Warta at Konin on 20 September and the next day encam
 With such an army Dąbrowski set out in 3 columns for Gniezno and arrived there on 25 September<sup class="lit-fn"><a href="#n-en-210">210</a></sup>. On the following day he sent to Kościuszko the citizen Miaskowski, "known to the public," with a request for the dispatch of a few 12-pounder guns and howitzers, paper money and more infantry. Miaskowski was also to renew the request that the corps stand at Gąbin, "not allowing the enemy to extend himself over the Warta and the Bzura"<sup class="lit-fn"><a href="#n-en-211">211</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-75">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-75">p. 75</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1609,9 +1748,11 @@ The position on whose retention the fate of his entire corps depended had alread
 Not yet aware of his grave situation, Dąbrowski spent three days of rest at Gniezno with his whole corps, full of the best hopes for the future. "The 27th was devoted to thanking God for supporting, with His almighty hand, the prosperity and glory of Polish arms in this province"<sup class="lit-fn"><a href="#n-en-213">213</a></sup>. The suffragan bishop Szajowski celebrated a solemn Mass in the cathedral, concluded with the hymn "Te Deum", at which General Dąbrowski was present "with his staff and officers of the first ranks, with the heads of the risings and their foremost citizens<sup class="lit-fn"><a href="#n-en-214">214</a></sup>". After the Mass "an excellent address, suited to the occasion, was delivered by citizen... Lipski, as head of the rising of this voivodeship. Once again they swore to live free or to die. This oath, repeated with enthusiasm even by feeble youth,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-76">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-76">p. 76</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1627,9 +1768,11 @@ decrepit old men and the delicate sex, could not but be moving and draw tears...
 On the following day, early in the morning, the Polish army left Gniezno<sup class="lit-fn"><a href="#n-en-217">217</a></sup>. Dąbrowski sent a detachment of 200 horse under the command of the intrepid partisan Bielamowski toward Poznań, "to put it into the enemy's mind"<sup class="lit-fn"><a href="#n-en-218">218</a></sup> that the Poles intended to attack that city. He himself, as he writes in his Memoir<sup class="lit-fn"><a href="#n-en-219">219</a></sup>, could not march on Poznań, since he had "no more than 2,400 regular men, among them only 1,400 infantry and 16 pieces of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-77">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-77">p. 77</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1645,9 +1788,11 @@ small-calibre guns", and with such a force alone to take Poznań "with fitting s
 While Bielamowski was marching toward Poznań, General Madaliński at the head of 100 riflemen with two guns marched on Trzemeszno [Tremessen], into the region of Inowrocław, in order to draw the enemy's whole attention to himself, so that the enemy could not guess Dąbrowski's real intentions and hinder the corps itself in its crossing of the Noteć. The third column, dispatched from Gniezno and made up of Greater Poles, went under its general Lipski to Barcin and destroyed the Prussian post there. Dąbrowski
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-78">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-78">p. 78</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1663,9 +1808,11 @@ advanced with the corps in the direction of Łabiszyn "in order to meet Colonel 
 General Madaliński was the first to reach Łabiszyn, on 29 September, and he destroyed the Prussian post there, which defended itself fiercely in the monastery under the command of Lieutenant Beyer. In the course of the fighting 3 riflemen were wounded, and in addition the towarzysz (cavalry trooper of noble rank) Stan. Grabowski and the citizen Leszczyński from the Kalisz Land, who succumbed to his sufferings after 3 days. Dąbrowski estimates the Prussians taken prisoner at Barcin and Łabiszyn at 6 officers, 63 soldiers and 10 officials. Having spent the night at Łabiszyn, Dąbrowski intended to "fall upon" Bydgoszcz, while Madaliński was to keep watch on Székely. Events, however, took a wholly unexpected turn. Székely, having learned that Dąbrowski was standing at Łabiszyn, wished to forestall him in the march on Bydgoszcz. He therefore set out from Inowrocław at one o'clock in the afternoon and at twelve o'clock at night on 29 to 30 September attacked Dąbrowski's camp outside the town. He thought that in this way he would take by surprise the Poles quartered in the town and already felt himself certain of victory, since he estimated Dąbrowski's armed force at only a few hundred regular riflemen, regarding the remainder as a "rowdy rabble of rebel Greater Poles". He began the attack with guns, "so that the balls reached into the town", while he himself with his troops turned to the hill beyond the town and struck at Dąbrowski's left wing. He "advanced" with such insistence that it came to small arms, and "some wounded one another with bayonets". The fighting grew fiercer when Dąbrowski's brigade fell upon the enemy infantry with such courage "that it left its pennants among the corpses and only then to retreat
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-79">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-79">p. 79</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1681,9 +1828,11 @@ began." In the skirmish the infantry of Bielamowski's regiment held "most valian
 In pursuit of the retreating Székely General Rymkiewicz dashed off, on Dąbrowski's orders, with 800 horse toward Bydgoszcz and reached it without hindrance. Half a mile from the town he scattered the hussars who raised the alarm against him, then took the heights above the town, posting vedettes on them, while he himself halted with the cavalry by the forest in such a way "that everyone had to suppose that infantry was with him." The town itself, surrounded by an old and not very high wall, lay before him as on the palm of a hand. Székely stood beyond the town in the forest, on the other side of the water<sup class="lit-fn"><a href="#n-en-228">228</a></sup>. From Germans who had run out of the town Rymkiewicz learned that there were no more troops in the town than three battalions of garrison infantry. He therefore sent a report to General Dąbrowski on the night of 1 October with the assurance that, having placed guns on the heights, he "held the town in his hand." He wrote that half of the corps would have sufficed to take the town, for he had found it "unprepared."
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-80">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-80">p. 80</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1707,9 +1856,11 @@ Meanwhile Rymkiewicz's report settled the whole matter. When Wybicki, "full of s
 On the evening of 1 October, at 9 o'clock, the corps set off, and despite the wearisome night march it stood the next morning before Bydgoszcz. At once General Niemojewski was sent
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-81">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-81">p. 81</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1729,9 +1880,11 @@ In this battle order the Polish army advanced right up to Bydgoszcz and took up 
 Having received such an answer, Dąbrowski gave the order to storm Bydgoszcz. Four battalions
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-82">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-82">p. 82</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1743,9 +1896,11 @@ piechoty regularnej rozpoczęły atakować miasto z czterech stron. Pierwszy bat
 of regular infantry began to attack the town from four sides. The first battalion of the 13th regiment, with 1 gun, struck under Colonel Burzyński at the gate on the Łabiszyn side; the second battalion of the same regiment, commanded by Major Szwykowski, advanced straight toward the sugar refinery; the first battalion of the 4th regiment, with 1 gun, attacked under General Rymkiewicz's command the Nakło Gate; finally the first battalion of the 1st regiment "marched forward, as if intending to enter the town between Łabiszyn and the Nakło Gate." Székely, wishing to induce Dąbrowski to send away a part of his forces and thereby to weaken the strength of the Polish attack on Bydgoszcz, began a manoeuvre in the direction of Czersk. There, however, the reserve under Sokolnicki was at once dispatched by the shortest road, and "with this relief force the detachment of Niemojewski, to whom the guarding of the Brda had been entrusted, was reinforced." The attack continued. When Székely learned that those 4 garrison companies would not be able to defend the town, he hastened in person with his corps to their aid, but arrived too late. Major Szwykowski at the head of his battalion had already burst inside the walls from the side of the refinery and, in street fighting, won the victory over the Prussian garrison, which defended itself for 2 hours with great stubbornness. At the moment when Székely came running up with his troops and was crossing the bridge over the Brda, a cannon ball shattered his left leg. Lying "on the paving of a street near the bridge," he called on the Polish soldiers for help, and then one of the scythemen recognised him and cried: "This is Székely, who burned and plundered us." At these words the soldiers threw themselves upon him, but he was rescued from the perilous situation by that same Major Zabłocki whom Székely had treated so badly an hour and a half before. The unfortunate enemy begged for forgiveness and for his life. "You would have received both without asking for them,"
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-83">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-83">p. 83</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1765,9 +1920,11 @@ Meanwhile Colonel Hinrichs, who had taken over the command in Székely's place, 
 When the victorious Polish troops entered the town, they found the houses shut up, and the inhabitants of both sexes "made an immense outcry and lamentation, begging for life and mercy." From some of the houses shots were even fired; Dąbrowski, however, ordered these to be opened at once, warning that "if any house is found closed, it will be subject to plunder." Assured of their safety, the people of Bydgoszcz came out of their houses and treated the soldiers, but lest "on account of the treating any offences should occur," the latter, at the first signal for departure given on the commander's order, "fell in in their usual order." Dąbrowski pitched his camp on the right bank of the Brda. 300 soldiers from the reserve formed the garrison of Bydgoszcz<sup class="lit-fn"><a href="#n-en-240">240</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-84">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-84">p. 84</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1783,9 +1940,11 @@ In his report to Kościuszko<sup class="lit-fn"><a href="#n-en-241">241</a></sup
 This great discipline was Dąbrowski's merit. For it was he who, brought up on the military principles of Frederick the Great<sup class="lit-fn"><a href="#n-en-243">243</a></sup>, sought to instil in the soldiers a sense of discipline, punishing even the slightest offence against the service<sup class="lit-fn"><a href="#n-en-244">244</a></sup>. The second man who saw to it that the army did not commit abuses in captured Bydgoszcz was Wybicki<sup class="lit-fn"><a href="#n-en-245">245</a></sup>. He did not allow the private property of the inhabitants to be touched, and of what was found in the public stores he ordered, as he himself writes in his memoir<sup class="lit-fn"><a href="#n-en-246">246</a></sup>, an inventory to be drawn up and the goods to be turned to the needs of the soldiers<sup class="lit-fn"><a href="#n-en-247">247</a></sup>. In a proclamation to the people that he issued<sup class="lit-fn"><a href="#n-en-248">248</a></sup> he declared that the Poles had come "to free their brothers from foreign rule and to return them to the bosom of the common mother". Using the authority entrusted to him by the Commander, he abolished the Prussian court of justice and the Prussian Administrative Chamber, and in their place he restored "to the city, which had been Polish from time immemorial, the national offices<sup class="lit-fn"><a href="#n-en-249">249</a></sup>". As the highest administrative authority he set up a Commission of Order under his own direction, which occupied itself chiefly with intelligence work and with the use of the richly stocked Prussian magazines<sup class="lit-fn"><a href="#n-en-250">250</a></sup>. Its members were: Zakrzewski as president, and as members Twardowski, Nadratowski, Karski, Bulewski, Rudowski, Modliński, the Protestant preacher Stellmann, and the merchants Oppermann and Ziegler. At the same time the newly appointed town council, headed by Mayor Puhan, also took up its
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-85">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-85">p. 85</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1801,9 +1960,11 @@ office<sup class="lit-fn"><a href="#n-en-251">251</a></sup>.
 On the day after the capture of the city, 3 October, according to the account of a German eyewitness<sup class="lit-fn"><a href="#n-en-252">252</a></sup>, all the officials and some of the citizens were summoned to the building of the Chamber. Dąbrowski, Wybicki and a number of Polish generals and officers also arrived there. In the presence of all, the cash boxes were counted and carried off, and the portraits of the Prussian kings Frederick II and Frederick William II were removed from the conference hall. After this had been done, General Dąbrowski, who spoke correct German and was "a very modest man, wise and of great polish", stepped forward and ordered the local merchants to pay a contribution of 300,000 thalers, which in the end, owing to the intervention of 2 citizens, was reduced to 10,000 thalers. Next the officials were required to swear that they would hand over all the money and valuables in their keeping that Colonel de Székely had plundered, to which the Germans questioned, however, answered unanimously that they knew nothing. After a while General Dąbrowski spoke again, declaring that the Poles had come not as enemies but as friends. He referred to the cruelties perpetrated by Col. Székely, described his inhuman treatment of the clergy at Włocławek and of persons of both sexes whom he had robbed and wished to hang, and finally had brought beneath the gallows at Inowrocław. As proof that the Prussian king approved of Székely's "tyrannical" conduct and had recommended that he be even more savage, Dąbrowski showed those present a royal letter intercepted near Gąbin. Finally he announced that he was arresting all the Prussian officials, so as to hold hostages in exchange for the imprisoned Poles<sup class="lit-fn"><a href="#n-en-253">253</a></sup>. Wishing, however, to show that the Poles are magnanimous and do not take revenge even on
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-86">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-86">p. 86</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1819,9 +1980,11 @@ an enemy, he ordered the arrested men to send a delegation to their king with a 
 When everything had calmed down, Dąbrowski visited the wounded Colonel Székely. Székely feared that the Poles would take revenge on him, but Dąbrowski assured him that he could be at ease and that he would endeavour "to sweeten his lot as much as possible". At the wounded man's request doctors and a priest were sent to him, and Dąbrowski gave him money. Other Poles came to visit him as well<sup class="lit-fn"><a href="#n-en-256">256</a></sup>, among them Mniewski, "a general worthy in every respect of admiration", in whose house Székely had formerly been a guest, and whom during the insurrection he had robbed "first of all". On seeing Mniewski, Székely fainted, and when he came to, the latter addressed him in these words: "as far as my own person is concerned, I forgive you everything, and if you wish to be at peace, return the plundered property to those from whom
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-87">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-87">p. 87</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1837,9 +2000,11 @@ you took every means of living". Thereupon Székely declared that he wished to s
 The capture of Bydgoszcz made a great impression throughout Prussia. Berlin was ashamed of the defeat and at the same time anxious for the fate of the seized provinces<sup class="lit-fn"><a href="#n-en-258">258</a></sup>. In Poznań people simply would not believe Schwarz, the eyewitness of the Bydgoszcz events<sup class="lit-fn"><a href="#n-en-259">259</a></sup>. He himself relates that when, on 6 October at noon, the day after his arrival in Poznań, he stood before General Elsner, who was then in command in the city, the latter at first took the news of Székely's disaster and the capture of Bydgoszcz by the Poles for a fable, until towards evening a rider who had come from Dąbrowski's corps confirmed it. At the court of the Prussian monarch there now arose a fear for the security of West Prussia. It was thought, namely, that in that whole region there were too few troops to be able to oppose the Poles effectively. The garrison of Toruń under Colonel Hundt could be reinforced by only seven more companies, and the state of the city's entrenchments left much to be desired. Frederick William was therefore ready, in the last resort, to heed the advice of General Favrat and, to save Toruń, to fold up the front on the Narew and thus reinforce the threatened fortress with troops. Grudziądz too, where Colonel Pirch was commandant<sup class="lit-fn"><a href="#n-en-260">260</a></sup>,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-88">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-88">p. 88</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1859,9 +2024,11 @@ The commandant of Gdańsk, General Raumer, also reckoned with this possibility, 
 The success that had attended the column of Polish troops sent to Greater Poland must have terrified
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-89">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-89">p. 89</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1877,9 +2044,11 @@ also Lieutenant-General Schwerin. He saw no other way out of the difficult situa
 General Pollitz was to destroy any enemy he encountered, in accordance with the plan of cooperation previously drawn up with Major-General Schwerin, Elsner and Székely. Lieutenant-General Schwerin also made other arrangements. On 4 October he ordered General Lattorff to withdraw behind the Nida, and four days later to quit the Sandomierz region altogether. He took this step chiefly on account of reports received from Lieutenant-General Lichnowski at Radomsko and from the Prussian treasury office at Piotrków, reporting unrest among the nobility there. He also intended to send some troops into the neighbourhood of Sieradz and Wieluń, and for that purpose dispatched General Lichnowski there with 1 battalion and a regiment of cuirassiers, whose mobilisation he had carried out. 3 battalions of infantry and 3 regiments of cuirassiers, whose mobilisation was nearly complete, he stationed from Zitena(?), Koniecpol, a place on the Pilica near the source of that river, and from Skała, as far as Kraków. To cover Gdańsk, he asked the king to send new corps to West Prussia from Berlin or Szczecin [Stettin]. He himself remained in the camp at Chrzonowice<sup class="lit-fn"><a href="#n-en-269">269</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-90">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-90">p. 90</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1895,9 +2064,11 @@ Dąbrowski meanwhile was thinking of spreading the insurrection in the Netze Dis
 Colonel Sieroszewski set out for Nakło and on the Noteć seized 13 vessels coming from Berlin with salt, iron, linen, cloth, etc.<sup class="lit-fn"><a href="#n-en-271">271</a></sup>. The detachment of Lipski, major-general of the Gniezno voivodeship, sent in the direction of Chełmno [Kulm] and Grudziądz, dispersed an enemy patrol at Chełmża [Culmsee], taking 18 prisoners. Colonel Wyganowski, with 300 horse from the Poznań rising, went to the Wałcz district in order to raise an uprising there and choose recruits. Colonel Sokolnicki hastened to Fordon, to occupy that town and gain control of the banks of the Vistula, and moreover to round up vessels, wagons and men fit for transport, and to procure provisions of every kind. General Mniewski, with the whole detachment of his cavalry, and Colonel Mchowski, with 50 horse, together with infantry and artillery, were also directed to the Vistula, toward Solec Kujawski [Schulitz]. The former was to keep in touch with General Lipski, patrol toward Toruń, leave one detachment at Panadzewa and another at Podgórz to observe the Toruń bridge, which he was to burn in case of need; the latter was to station himself at Solec, send patrols toward Toruń and Gniewkowo and spies into the neighbourhood of Toruń, round up as many vessels and men useful for that purpose as possible, and maintain communication with General Mniewski. Dąbrowski ordered Lieutenant Moszczeński to remain with the cavalry at Łabiszyn, to send patrols from there toward Żnin, Wałkowice and Inowrocław, and to report as often as possible on the enemy's movements. Finally, Vice-Brigadier Łaszczyński, "a weak officer"<sup class="lit-fn"><a href="#n-en-272">272</a></sup>, was dispatched
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-91">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-91">p. 91</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1913,9 +2084,11 @@ with the remainder of Dąbrowski's brigade to Świecie, to halt vessels and cart
 According to a contemporary account<sup class="lit-fn"><a href="#n-en-273">273</a></sup> by Lainé, the town secretary of Świecie, the Polish troops arrived there at noon on 6 October<sup class="lit-fn"><a href="#n-en-274">274</a></sup>. Wybicki took possession of the treasuries, abolished the Prussian offices, and established a commission for civil matters, composed of 5 representatives each from the nobility, the burghers and the clergy. The town secretary Synakiewicz was elected president of the town, but as he refused to take up the new office, the mayor in office hitherto, Gannowski, was left in that post. Citizen Kruszyński became general of the rising, and Moszczeński, the owner of the village of Niewieszczyn, colonel. On the following day a fair was held at Świecie, and taking advantage of this the insurgents seized cloth and leather goods against receipts. The inhabitants were disarmed and ordered to furnish a recruit. 60 young men from the town itself and 200 from the commune were incorporated into the insurgent ranks. Craftsmen had to work day and night preparing the necessary equipment. On the night of 11 to 12 October the Poles marched out of the town, but returned the next day, 13 October, and left for good on the same day, taking with them, besides horses, all the local tailors and musicians. To supplement this account it should be added that when the Yellow Hussar regiment, stationed on the other bank of the Vistula, saw the Polish troops entering Świecie, it did not dare to attack them. Wybicki, who writes of this in his memoir<sup class="lit-fn"><a href="#n-en-275">275</a></sup>, then experienced "what power belongs to opinion spreading alarm in a revolution". For the enemy took all "objects, trees, herds" for "an enormous force", with which he supposed that
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-92">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-92">p. 92</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1931,9 +2104,11 @@ detachments of insurgents and regular troops were "marching into Prussia"<sup cl
 Eight days after the capture of Bydgoszcz, on 10 October, Dąbrowski set out in 2 columns for Toruń. The first, which he led himself, crossed the Vistula at Solec; the second, under Rymkiewicz, crossed at Fordon. At Zła Wieś (Bösendorf), on the Fordon-Toruń route, the two columns joined. The strength of this force was 1,000 infantry, 1,500 cavalry and 10 guns. Only 1 battalion of the Greater Poland rising remained in Bydgoszcz. On the following day, 11 October, Dąbrowski halted in the vicinity of Przysieka, where preparations were being made for the assault planned for the next day. According to the plan drawn up, the cavalry were to blockade the town on all sides and set it on fire in several places, in order in this way to create confusion in the town and enable the infantry to attack from a single point<sup class="lit-fn"><a href="#n-en-277">277</a></sup>. Nor was Hundt, the commandant of the fortress of Toruń, idle. Fearing that the strength of the garrison might prove insufficient, and knowing how important Toruń was to the Prussians on account of its richly stocked magazines of munitions and provisions, he applied, immediately after the capture of Bydgoszcz, to General Favrat, who commanded the corps on the Narew, with a request for reinforcements. Soon 2 companies of Pfuhl's regiment did arrive in Toruń; a further 5 companies of the same regiment took up position at Płock and Bobrowniki, in order to come to the aid of the threatened post if need arose. On 7 October detachments of Polish cavalry appeared on both sides of the Vistula near Toruń, intending to quarter at Podgórz. Hundt's adjutant, Second Lieutenant Voss, then crossed the Vistula with 30 hussars and dispersed the cavalrymen already in Podgórz. Those dispersed
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-93">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-93">p. 93</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1949,9 +2124,11 @@ retreated into the forests south of Podgórz and joined a detachment of infantry
 Meanwhile Dąbrowski did not storm Toruń. When he already had everything in readiness, he received certain news "that relief had reached Toruń". At first he supposed that "a corps had arrived at Toruń from Płock", but soon he was informed by reports that this relief was the corps of Colonel Ledivary<sup class="lit-fn"><a href="#n-en-280">280</a></sup>. On hearing of the danger threatening Toruń, Ledivary had set out at once from Brześć Kujawski. On 11 October he stood already on the left bank of the Vistula, at Podgórz, and after leaving one battalion and cavalry outposts there, he crossed the Vistula in the night of 11 to 12 October, sent detachments out along that river, and marched to the village of Mokre<sup class="lit-fn"><a href="#n-en-281">281</a></sup> in order to strike the enemy's left wing with his main forces<sup class="lit-fn"><a href="#n-en-282">282</a></sup>. In such conditions Dąbrowski, who "at almost the same moment received a report from Włocławek that a corps was marching from Poznań and that the posts around Łabiszyn were retreating", was forced to abandon the attack on Toruń and "return again across the Vistula to Bydgoszcz"<sup class="lit-fn"><a href="#n-en-283">283</a></sup>. On 14 October he crossed at Fordon<sup class="lit-fn"><a href="#n-en-284">284</a></sup>. The detachment
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-94">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-94">p. 94</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1967,9 +2144,11 @@ consisting of 200 infantry, 400 cavalry and 4 guns, was meanwhile stationed at S
 The unsuccessful march on Toruń was not what Dąbrowski had intended. His aim was "to remain with the combined forces at Bydgoszcz and hold out through the winter between the Vistula, the Brda and the Noteć, to detach his numerous cavalry in all directions, as far as possible, to watch every step of the enemy; to this end to send from each rising, as far as circumstances allowed, considerable detachments to their own voivodeships, lands and districts to increase their strength, collect taxes and alarm the enemy everywhere; to help the rising in those places where it could not yet be carried out; to set up magazines at Bydgoszcz and Inowrocław, to bring the old regiments and brigades up to strength and form new ones, all of which could be done without oppressing the citizens, simply from the domains (Ämter) of the Prussian king, which are very numerous in these parts; to uniform and drill the army, so that in the coming campaign it might act with greater energy and benefit to the country<sup class="lit-fn"><a href="#n-en-288">288</a></sup>". To storm a fortress with a fairly strong garrison, with the help of only a small number of regular troops, who would first have to be ferried over to the other bank of the Vistula, was in his view a bad move. The situation was made worse by the circumstance
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-95">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-95">p. 95</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1985,9 +2164,11 @@ that Prussian troops stood behind him, and he was not certain whether communicat
 For after the capture of Bydgoszcz, even before the departure for Toruń, reproaches had arisen against Dąbrowski "that he is not active enough and has no determination at all, with the result that not only do all the operations of the war proceed at a tortoise pace, but many are even omitted..., that from day to day the march on Toruń is put off, giving the garrison time to strengthen itself"<sup class="lit-fn"><a href="#n-en-291">291</a></sup> Rymkiewicz reproached him for not having stood before Toruń on the day after the capture of Bydgoszcz, for then "this town would have surrendered or been taken easily by force of arms<sup class="lit-fn"><a href="#n-en-292">292</a></sup>. Even Madaliński, "always honest, forgot in this moment what he owes to the Fatherland". Envy arose in him "that the name of Dąbrowski is famous, while his own is barely mentioned, and he already imagined for himself a right to the supreme command, which was due to him as a general of higher rank, as the first to the national rising". Realising, however, that he could not himself command so large a corps "in the sight of a more numerous enemy", he proposed to Rymkiewicz that the latter should "command under his name". He met with a refusal, however. Rymkiewicz, when he "could no longer bear the spirit of faction, armed with pure patriotism, rose up with republican energy, reminding Gen. Madaliński of his praiseworthy deeds;...he opened his eyes to the consequences that must inevitably be expected from division; he recalled to him the confidence which the Most Serene Commander and the whole nation placed
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-96">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-96">p. 96</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2003,9 +2184,11 @@ in the virtue and talents of Gen. Dąbrowski, which he knew how to earn and stil
 Bielamowski learned of Ledivary's march to the relief of Toruń during his stay at Strzelno, from a letter of Col. Ledivary of 7 October to Major-General Schwerin, intercepted by an insurgent from Mniewski's detachment. Ledivary wrote that he had been ordered by the chief commander to scatter and defeat Dąbrowski's corps together with Major-General Schwerin, and that he was now marching to Toruń, to save that town, which Dąbrowski was threatening. Bielamowski sent the intercepted letter on to Dąbrowski, but the latter received it too late to avoid the pointless march on Toruń. For the letter reached Dąbrowski only in the night of 11 to 12 October, whereas on the 10th Dąbrowski had already crossed the Vistula on the march to Toruń<sup class="lit-fn"><a href="#n-en-294">294</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-97">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-97">p. 97</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2021,9 +2204,11 @@ After returning to Bydgoszcz on 14 October, the commander of the expedition to G
 In Greater Poland, from the first days of September and simultaneously with Dąbrowski's operations, independent guerrilla warfare continued to be active. We must return here to its description, although an exact picture of this movement, that is, all its manifestations, is difficult to reconstruct. For the sources dealing with the matter were exceedingly meagre and confined for the most part to a contemporary newspaper published in Poznań under the title "Südpreussische Zeitung". Given the state of the means of communication at the time, this periodical could not record all the events connected with the guerrilla movement of the Greater Poles, and moreover the insurgents, by their frequent attacks on the posts, prevented news from getting through to Poznań. We know, however, that the partisans, moving from one manor to another in more or less numerous bands, induced the owners of estates, partly by persuasion and partly by force, to join their ranks and supply recruits; they appropriated the chests of the Prussian king, took salt from the Prussian magazines and then sold it more cheaply to the population, imprisoned officials, and above all greatly obstructed communication<sup class="lit-fn"><a href="#n-en-296">296</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-98">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-98">p. 98</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2047,9 +2232,11 @@ Thus on 4 September at daybreak the leaseholder of Porażyn<sup class="lit-fn"><
 In the Netze District, in the neighbourhood of Kcynia and Gołańcz [Gollantsch], the insurgents under Krupecki's leadership continued to be active. In both places they seized the salt depots, confiscated the money collected from the hearth tax, removed the Prussian eagles, and tried to induce the mayors to swear the oath
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-99">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-99">p. 99</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2069,9 +2256,11 @@ According to the "Südpreussische Zeitung" of 24 September<sup class="lit-fn"><a
 From the time of the capture of Bydgoszcz, before Dąbrowski sent detachments out into the Netze District, dates an attack by insurgents on Chodzież [Kolmar]. On 4 October 40 armed men halted outside the town, whereupon 24 of them rode into it, took cloth from the local Jews against receipts and seized the whole stock of salt, at once selling it off at a low price to the citizens. With the 400 thalers received from the sale the insurgents set out on their way back. Even before they had left the town a small episode took place. A patrol of Trenck's hussars arrived from Piła, but, informed in good time of the presence of the insurgents, halted outside the town. One of the hussars, a bolder man, nevertheless dashed into the town and ran straight into 2 soldiers and 2 armed peasants standing in front of the mayor's resi
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-100">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-100">p. 100</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2087,9 +2276,11 @@ dence. Having wrested a lance with a pennon from one of the peasants, the Prussi
 In the districts of Wieluń and Ostrzeszów the armed movement, begun successfully in the third decade of August, weakened considerably in the course of September, although there were no Prussian troops nearby. Michał Jerlicz, who was to form an armed force, returned home to the region of Działoszyn. Nor did the head of the rising, Colonel Stokowski, hold out, and he soon disbanded his detachment for want of any means of feeding it. It was he, writes Kierzkowski in his memoir<sup class="lit-fn"><a href="#n-en-304">303</a></sup>, who, "standing with 500 insurgent horse", at the moment when the Prussian king was travelling by post from Warsaw through Wieluń towards Silesia, "played at cards, and the insurgents slept well". When he later learned of the passage of so important a person, "it grieved him greatly that, when he could have seized the king, he had neglected the opportunity. He threw his cap on the ground, but that was of no further use". Of the other organisers of the rising in this district, Psarski, so zealous at the outset, returned to his estate of Bobrownik<sup class="lit-fn"><a href="#n-en-305">304</a></sup>. After some time the rising gathered strength again. At Bobrownik deliberations were held on how to restore discipline in the loosening insurgent ranks, and the dignity of deputy commander was entrusted to an old officer of the Polish army, Korycki. Psarski went to Ostrzeszów and there kindled anew among the citizens zeal for the national cause, and ordered Stokowski to justify himself for his conduct. On 9 October, with an armed force by now organised, they set out for Kępno and took away
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-101">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-101">p. 101</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2105,9 +2296,11 @@ a stock of salt there, in order to sell it off afterwards among the inhabitants 
 In another part of old Greater Poland, in Dobrzyń Land, the fortunes of the rising likewise took an unfavourable turn, because the citizens there lacked perseverance in the undertaking once begun. Around 10 September the rifles and uniforms once taken were returned to the Prussian post at Rypin and the captured hussars were released, together with Lieutenant Branky. Many insurgents even presented themselves
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-102">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-102">p. 102</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2127,9 +2320,11 @@ To subdue the Greater Poles there were, besides Colonel Székely, also Generals 
 General Elsner with his corps arrived on 15 September at Rogoźno near Widawa in the Sieradz region and from there, for the purpose of cooperation, established contact with Colonel Dossow, stationed at Widawa; on 17 September he moved to Sieradz, cleared the forests there of insurgents, and then, having crossed the Warta, proceeded by the road through Kalisz to Leszno. His companion Dossow remained for the time being in the Sieradz region, in order, with the help of the Łęczyca garrison, to destroy a detachment composed of several hundred insurgents who were crossing the Warta at Uniejów in the direction of Łęczyca. General Manstein, until the middle of September, chased fruitlessly after the insurgents in the forests between Dolsk and Śrem, after which on the 21st of that month he set out for Mosina, wishing to manoeuvre in the neighbourhood of the Warta together with the commandant of Poznań, Colonel Diether. The plan of joint action was not
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-103">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-103">p. 103</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2145,9 +2340,11 @@ carried out, however, since Diether was afraid of weakening the garrison of Pozn
 The arrival of new troops in Poznań by no means put an end to further fears for the safety of the city. How very great these fears were is shown by a grotesque description, preserved for us by the Prussian official Schwarz, already mentioned, in his recollections, which, in view of the closeness of the dates concerned, can be connected with that consternation which
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-104">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-104">p. 104</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2163,9 +2360,11 @@ was caused by the appearance of Bielamowski near Poznań. Schwarz recalls that w
 At that time the third of the Prussian generals operating in the territory of Greater Poland, Major-General Schwerin, was approaching Poznań. Until then he had been stationed at Kalisz, to which he had withdrawn before the advancing corps of Dąbrowski. On 23 September he set out by the road to Raszków against a band of insurgents near Dobrzyca, but after 2 days he returned to Kalisz, fearing for the magazine there. On 27 September he moved to Konin, where together with Generals Manstein and Elsner he planned an attack on the insurgents there; but on news that Dąbrowski was said to be at Słupca and a detachment of scythemen at Pyzdry, he went back again to Kalisz and for the moment contented himself with gathering information about the enemy. Schwerin set out toward Poznań only on 2 October, by the road through Pleszew [Pleschen], Jarocin, Śrem and Kórnik <sup class="lit-fn"><a href="#n-en-312">311</a></sup>. At Pleszew he robbed the castellan Gorzeński, but he was reportedly not to get away with the loot any farther than Radlin<sup class="lit-fn"><a href="#n-en-313">312</a></sup>. In that place, as Adam Turno describes in his memoir<sup class="lit-fn"><a href="#n-en-314">313</a></sup>, Captain of Cavalry (rotmistrz) Łojewski, sent by Kościuszko with an order to the Greater Poland insurrections, was at that time staying as a guest of the parish priest. Having learned that Schwerin
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-105">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-105">p. 105</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2181,9 +2380,11 @@ was in the village, Łojewski resolved to drive him out of there and used the fo
 Bielamowski followed Schwerin's movements. On 5 October Dąbrowski sent him from Bydgoszcz an order<sup class="lit-fn"><a href="#n-en-319">318</a></sup> to march with his detachment at once to where the column of Major-General Schwerin was, with the instruction that he should start no engagement and should spread the word "that our army is leaving this region and is to attack General Schwerin". Bielamowski carried out the task entrusted to him conscientiously and with great skill. In a report of 12 October<sup class="lit-fn"><a href="#n-en-320">319</a></sup> he gave Dąbrowski precise information on Schwerin's movements from the moment of his leaving Kalisz up to his entry into Poznań. He wrote that a detachment<sup class="lit-fn"><a href="#n-en-321">320</a></sup> had set out from Poznań toward the small town of Kłecko, whither he too had been obliged to go, but that it afterwards
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-106">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-106">p. 106</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2207,9 +2408,11 @@ Accordingly a patent<sup class="lit-fn"><a href="#n-en-322">321</a></sup> appear
 Despite the threats with which the patent menaced the insurgents, the armed movement of the Greater Poles did not abate. Soon there
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-107">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-107">p. 107</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2233,9 +2436,11 @@ The edict appeared just in time, for ominous clouds were already gathering over 
 ##### THE FALL OF THE INSURRECTION — DĄBROWSKI'S RETREAT AND THE LAST ARMED EFFORTS OF THE GREATER POLES
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-108">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-108">p. 108</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2247,9 +2452,11 @@ W czasie kiedy w Wielkopolsce ruch zbrojny rozwijał się pomyślnie ku chwale o
 While the armed movement in Greater Poland was developing favourably, to the glory of Polish arms, the situation in the other theatres of insurrectionary fighting was growing ever more grave. True, on the Narew the Poles were still holding their ground against the enemy, even gaining certain successes over the Prussians, but the Lithuanian troops, whose morale had deteriorated considerably after the fall of Vilnius, were no longer capable of resisting the pressure of the Russians. One after another the corps withdrew towards Grodno, abandoning even Samogitia, the holding of which Kościuszko had recommended. Meanwhile Suvorov was approaching Brest-Litovsk with a corps of 18,000 and 60 guns. To check this column Kościuszko sent Józef Sierakowski with a division numbering some 8,000 soldiers<sup class="lit-fn"><a href="#n-en-327">325</a></sup>, but fortune did not favour Sierakowski. On 19 September he suffered a great defeat near Brest; Suvorov took all 28 of his guns and scattered his division, all but annihilating it. The Russian General Fersen, who had until then been stationed in the vicinity of Kozienice<sup class="lit-fn"><a href="#n-en-328">326</a></sup>, deceived the vigilance of General Poniński, whose task it was to watch him and not to let him pass to the right bank of the Vistula, and on 4 October, with the whole corps<sup class="lit-fn"><a href="#n-en-329">327</a></sup> that
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-109">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-109">p. 109</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2269,9 +2476,11 @@ In these circumstances Kościuszko considered it necessary to destroy Fersen's c
 On 12 October the news of this rout reached Warsaw, causing great agitation and dejection. The new Commander chosen that same day at a session of the Supreme National Council was Tomasz Wawrzecki. He was a man personally worthy and a great patriot, a former deputy to the Great Sejm, lately distinguished by his part in the rising in Lithuania, but otherwise "in knowledge not exceeding the intellectual sphere of a Lithuanian landowner". Wawrzecki himself was also aware that he lacked the qualifications of a leader, and for four days he declined to accept the honourable office, but in the end he yielded to the entreaties and urgings of all<sup class="lit-fn"><a href="#n-en-334">332</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-110">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-110">p. 110</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2291,9 +2500,11 @@ These efforts to sustain the spirit of the nation were, however, in vain. Most P
 Dąbrowski, having learned on 14 October, on his return from the march on Toruń, of the defeat at Maciejowice, as well as of the severing of communication with Warsaw and of the planned destruction of his division by the Prussian forces, considered it necessary, without waiting for an order<sup class="lit-fn"><a href="#n-en-338">336</a></sup>, to leave Bydgoszcz and return to Warsaw. He began the preparations for the march back at once, and on the following day set out from Bydgoszcz with the main corps in the direction of Gniewkowo. He took with him more than 400 prisoners, among them also the arrested Prussian officials: the councillor Grabowski, Broskovius, the director of posts Tschepius and the mayor Radzibor<sup class="lit-fn"><a href="#n-en-339">337</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-111">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-111">p. 111</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2309,9 +2520,11 @@ Behind the army trailed an enormous baggage train consisting of nearly 200 provi
 The march proceeded at first at a slow pace, since the roads were sandy and the soldiers tired quickly. For this reason Dąbrowski encamped near Gniewkowo on 15 October itself and rested there the whole of the following day. On 16 and 17 October Colonel Sokolnicki, under cover of a thick autumn fog, attacked Ledivary's outposts, after which on 18 October, not even pursued, he set off towards Nieszawa. Dąbrowski with the corps marched out of Gniewkowo on 17 October and the next day reached Włocławek, while the baggage train together with the prisoners reached Brześć Kujawski<sup class="lit-fn"><a href="#n-en-342">340</a></sup>. At Włocławek Dąbrowski learned from Major Molski, and from citizen Miaskowski, whom he had sent out from near Gniezno, further details of the battle of Maciejowice. The former brought him, moreover, a commission as lieutenant-general and "a very fine broadsword for his successful action"; the latter brought exact news "of the enemy's strong vigilance<sup class="lit-fn"><a href="#n-en-343">341</a></sup>".
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-112">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-112">p. 112</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2331,9 +2544,11 @@ To this end he made the following dispositions. From Rawa he moved a magazine to
 *Antoni Madaliński. From a miniature in the Princes Czartoryski Museum*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-113">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-113">p. 113</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2357,9 +2572,11 @@ Dąbrowski was by then already at Gąbin, and there he formed what was almost a 
 Meanwhile the insurgent supreme command in Warsaw spared no effort to make it possible for Dąbrowski to cross the Bzura<sup class="lit-fn"><a href="#n-en-350">348</a></sup>. The corps of General Kołysko, stationed at Błonie,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-114">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-114">p. 114</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2375,9 +2592,11 @@ was reinforced to 3,000 men and sent to attack the Prussian post at Sochaczew. P
 The events that began to unfold on the Bzura moved Lieutenant-General Schwerin to take new steps. He understood that the decisive moment was approaching. He therefore sent off as quickly as possible 2 battalions to reinforce General Klinkowström's corps, and himself resolved, with the rest of his army, to leave at last the camp at Chrzonowice and take up position in the proper theatre of war. Before the march he issued final orders: he sent 3 battalions of Bonin, 5 squadrons of Bieberstein and 1 of Trenck in the direction of Rawa, and the battalion of Pfau and 2 squadrons of Bieberstein's regiment to reinforce the garrison of Piotrków, and, delaying no longer, set out on 20 October with 5 battalions and 11 squadrons for Skierniewice, and then for Łowicz and Kiernozia. He halted at Kiernozia on 22 October, and there learned,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-115">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-115">p. 115</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2397,9 +2616,11 @@ The consequences of this slowness soon became apparent. At the moment when the P
 This enemy had, however, his reasons for not venturing to engage his opponent at so decisive a moment. The troops remained unconcentrated, and thereby the hopes vanished that it would be possible to surround Dąbrowski's division and force it to lay down its arms almost without bloodshed. After all, the junction of the corps of Generals Pollitz and Schwerin at Słupca<sup class="lit-fn"><a href="#n-en-356">354</a></sup>, planned for
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-116">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-116">p. 116</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2415,9 +2636,11 @@ Wobec niemożliwości otoczenia korpusu Dąbrowskiego, istniała teraz jedynie m
 Since it was impossible to surround Dąbrowski's corps, there remained now only the possibility of fighting an open battle with the enemy, but to this way of extricating himself from an awkward situation, which only incompetent commanders resorted to, Lieutenant-General Schwerin would not consent. After all, he knew neither the enemy's manner of fighting nor his strength, supposing it to amount to about 10,000 regular soldiers. In such conditions he feared a defeat, which would draw after it a strengthening of the insurgent movement, and perhaps even the loss of Greater Poland. For that reason, when on 23 October, at 5 o'clock in the afternoon, General Klinkowström appeared at Kocierzów with the news of the attack on Sochaczew and of Dąbrowski's possible simultaneous crossing, Schwerin pretended not to believe it, or perhaps really did not believe it, "as one long refuses to believe in misfortune"<sup class="lit-fn"><a href="#n-en-360">358</a></sup>. He did set out at last from Kocierzów towards Mistrzewice, and, having joined Klinkowström's corps at Sochaczew, arrived on the spot at 8 o'clock in the morning of the 24th. He at once ordered the firing of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-117">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-117">p. 117</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2437,9 +2660,11 @@ Meanwhile on the other side of the Bzura Dąbrowski, having first sent the priso
 By leading the Greater Poland division to a place of safety, Dąbrowski fulfilled his duty. Of all the commanders of the Polish forces, he alone rose to the height of the task entrusted to him. During the 40 days that the expedition lasted he always operated successfully, though he had arrayed against him a Prussian army seasoned in battle. He himself led an army that was far inferior to its opponent in numbers and in quality, yet he was able to work a miracle with it. He crossed the Bzura, the Warta, the Noteć and the Vistula "always in the face of a superior enemy". He took Bydgoszcz and aroused in the Prussians anxiety for such towns as Poznań, Toruń and Gdańsk.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-118">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-118">p. 118</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2455,9 +2680,11 @@ There was a period when, in view of the defeats on the other theatres of the ins
 In the annexed territories, meanwhile, after the departure of Dąbrowski's troops, Colonel Hinrichs, the worthy successor<sup class="lit-fn"><a href="#n-en-368">366</a></sup> of Székely, set about restoring the old order. And all the gains recently achieved by the arms of the Polish army went for nothing. At Świecie
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-119">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-119">p. 119</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2477,9 +2704,11 @@ General Beyern pursued the same aim. On 23 October he was at Czarnków [Czarnika
 Major-General Schwerin alone continued to show little enterprise in hunting down the enemy. Having no clear grasp of the situation because communications were hindered, he set out only on 26 October from Słupca by way of Kazimierz and Kliszewo to attack Dąbrowski's returning column near Włocławek. On the way he learned that 1,200 insurgents had occupied Pyzdry<sup class="lit-fn"><a href="#n-en-371">369</a></sup>, but he advanced slowly, until at last a patrol sent towards Brześć Kujawski reported to him that Dąbrowski had left that district a week before. He therefore had no reason to go to Włocławek, turned back from the road, and directed his march to Koło, where he arrived on 30 October<sup class="lit-fn"><a href="#n-en-372">370</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-120">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-120">p. 120</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2495,9 +2724,11 @@ At the same time as the actions of the Prussian generals, the insurgents won a n
 The armed movement in Greater Poland continued to disturb Lieutenant-General Schwerin and to restrict the freedom of his movements on the main theatre. When he received Suvorov's summons to bring the capital of Poland to its fall by joint forces, he replied that for the moment he could not heed it. He feared an attack by the Greater Poland insurgents on the rear of his army, and it was with them above all that he now wished to deal. His anxiety grew when Ledivary's reconnaissance, sent in the direction of Błonie, reported to him
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-121">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-121">p. 121</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2521,9 +2752,11 @@ Amid the general confusion, as the front on the Narew was breaking up (it had, a
 At such a moment Wybicki's report on the successful expedition to Greater Poland was received "as
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-122">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-122">p. 122</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2543,9 +2776,11 @@ The premises of the plan were sound and rested on rational foundations. For wint
 Dąbrowski, however, did not find a majority among those deliberating on the fate of the fatherland who were willing to support his
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-123">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-123">p. 123</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2565,9 +2800,11 @@ Meanwhile, on 4 November, Suvorov took the entrenchments of Praga after a brief 
 After the fall of the capital, complete disorder reigned in the army. The soldiers, abandoned by their commanders, threw down their arms in crowds, heedless of the fate of the country or of their comrades; they wished only to save themselves. Dąbrowski alone in this general confusion did not lose his head. With his corps, not yet touched by the ferment, he began a march to the south. His intention was "to hold out in the Sandomierz and Kraków regions, and from there to extend operations into the Sieradz region and farther into Greater Poland<sup class="lit-fn"><a href="#n-en-384">382</a></sup>". He also spun plans that, given favourable circumstances, he might perhaps realise his cherished idea of breaking through to France by way of Silesia, Moravia, Bohemia, Bavaria and Swabia, "straight to Landau, or else to Switzerland towards the Rhine"<sup class="lit-fn"><a href="#n-en-385">383</a></sup>. During the march, however, "the misfortune of Praga and Warsaw"<sup class="lit-fn"><a href="#n-en-386">384</a></sup> made itself felt in his ranks as well. When he encamped at Gostomia, "generals, officers and soldiers from both places"<sup class="lit-fn"><a href="#n-en-387">385</a></sup> began to arrive, bringing fear and dread with them. Dąbrowski sought a way of sustaining the spirit of his soldiers
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-124">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-124">p. 124</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2587,9 +2824,11 @@ Meanwhile the situation worsened with every moment. Denisov and Fersen, having c
 On 12 November, on the strength of Wawrzecki's order to march in haste into the Kraków region, Dąbrowski left Gostomia. On the same day a Russian officer sent by Suvorov, who was carrying the terms of capitulation for the army, was stopped on the road. Wawrzecki sent a letter to the king through General Gorzeński, urging him, in accordance with the earlier resolution of the Supreme Council, to negotiate with the Russian general. In the evening a Prussian trumpeter arrived with a letter to Dąbrowski from the Prussian
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-125">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-125">p. 125</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2605,9 +2844,11 @@ General Kleist. General Kleist<sup class="lit-fn"><a href="#n-en-392">390</a></s
 The question of negotiating with the Prussians arose a second time in the course of the further march, at Opoczno, where some citizen came from Major Kloch to confer with Dąbrowski concerning the proposal of General
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-126">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-126">p. 126</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2623,9 +2864,11 @@ Kleist. Dąbrowski, however, no longer had any "inclination" to surrender his co
 Faithful to the national cause to the last, the Greater Poland insurgents accompanying Dąbrowski did not desert their ranks. Towards the end, another 1,000 horsemen from the Sieradz and Wieluń risings joined, and these, together with the other Greater Poland risings, under the command of General Skórzewski, and with the brigades of Dąbrowski and Madaliński, represented, after the dispersal of all the regiments that had joined Dąbrowski on the way, the Polish army by themselves<sup class="lit-fn"><a href="#n-en-398">396</a></sup>. They saw how Dąbrowski, after the unfavourable reply of Suvorov brought by the dispatched Gorzeński, in utmost despair, not knowing what to do next, wished to reach the vicinity of the Galician border, burn the weapons there, and disband Madaliński and his own brigade. They were witnesses when on 18 November General Denisov arrived at Radoszyce
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-127">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-127">p. 127</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2645,9 +2888,11 @@ In Greater Poland the flame of rebellion smouldered throughout November and even
 The last armed efforts of the Greater Poles deserve all the more attention because they had help from nowhere, since already at the beginning of November the enemy had won the victory in the main theatre, and afterwards the new commander, Lieutenant-General Favrat<sup class="lit-fn"><a href="#n-en-403">401</a></sup>, moved against them with redoubled energy in order to establish peace as quickly as possible in South Prussia. Colonel Hinrichs, who on 6 November had taken up position at Włocławek and was crushing insurgents in the forests between Płock and Włocławek, he ordered to remain in the Vistula region and to watch over the security of communications on the Vistula. He then divided the corps of General Beyern in such a way that 3 battalions and 4 squadrons, operating in the area Gostynin, Gąbin, Kutno, passed under the command of General Elsner, who also commanded the corps of Major-General Schwerin, who for his passivity was sentenced to 2 years in a fortress<sup class="lit-fn"><a href="#n-en-404">402</a></sup>; the parts
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-128">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-128">p. 128</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2679,9 +2924,11 @@ Driven by Hinrichs from the Vistula districts, the Kuyavian insurgents withdrew 
 *Fryderyk Adam Székely. Wierzbiczany*
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-129">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-129">p. 129</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2701,9 +2948,11 @@ In view of such events the Prussian officials in Kuyavia did not feel secure. Th
 Nor was there yet peace in the neighbourhood of Szubin. In the forests there the indefatigable Krupecki roamed throughout November together with the leaseholder Śminowski. Their detachment numbered 60 armed men, and grain for its maintenance was supplied by a certain clerk from the surrounding estates. On 12 November 2 insurgents from Krupecki's band came to Szubin, where a fair was then being held, and gathered information about the stationing of the Prussian troops<sup class="lit-fn"><a href="#n-en-410">408</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-130">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-130">p. 130</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2723,9 +2972,11 @@ Throughout November the insurgents were active around Wieluń and Sieradz, despi
 In the Sieradz region especially their "escapades" caused much trouble. On the night of 8 to 9 November the insurgents burst into the customs office at Panke(?) in the Krzepice district<sup class="lit-fn"><a href="#n-en-414">412</a></sup> and took the cash box from it. They were commanded by Major Pągowski and Captain of Cavalry Karski. The Prussian lieutenant von Lüttwitz, hastening to help from Kłobuck<sup class="lit-fn"><a href="#n-en-415">413</a></sup> with 20 cuirassiers of Görtz's regiment and as many infantrymen of Lichnowski's regiment, was attacked by an insurgent detachment consisting of 300 foot and 300 horse. Lüttwitz could not withstand such superiority and was taken prisoner together with 21 soldiers. On 9 November Generals Lipski and Stokowski took up position at Krzepice with the intention of gathering more insurgents and attacking the weakly garrisoned Częstochowa<sup class="lit-fn"><a href="#n-en-416">414</a></sup>. It went no further than a plan, however. At about this time the insurgents came to Kłobuck, removed the Prussian emblems and soon departed. According to news of 23 November, given in the *Südpreussische Zeitung*, there stood near Wieluń and in the Ostrzeszów district 2,000 insurgents, supplied with two guns. They spread unpunished from there in a westerly direction as far as
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-131">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-131">p. 131</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2745,9 +2996,11 @@ In November insurgents were still wandering in the western part of the Poznań v
 The surrounding peasants were also called to arms at the beginning of November by the mayor of the town of Krzywiń [Kriewen]<sup class="lit-fn"><a href="#n-en-422">420</a></sup>, who was at the same time steward of the Konarzewo estates, with the intention of marching with them to seize Poznań. The Prussian detachment at Leszno, however, learned of the whole affair and sent out Captain of Cavalry Kottuliński with 30 horse. Finding the peasants assembled on the occasion of his arrival, Kottuliński sought to win them over to the Prussian government. He therefore set before them into what misery they would fall by following the voice of the nobility, which under Polish rule had alone enjoyed freedom while oppressing the peasants; he
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-132">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-132">p. 132</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2767,9 +3020,11 @@ For a long time, until as late as 7 December, the partisan Ksawery Łukomski har
 The events described here, fragmentary as they are, give a picture of the last insurgent struggles in Greater Poland. After the fall of the uprising in the main theatre of the fighting, further efforts by the Greater Poles could not avail much; they were not able to save the national cause. It is true that when the Polish army was making its last march towards the Pilica, the Greater Poland insurgents still sustained themselves with the hope that the armed movement might revive once more, if the soldiers leaving Warsaw were to set foot on their soil<sup class="lit-fn"><a href="#n-en-425">423</a></sup>. This hope was not groundless. Dąbrowski, as we know, long insisted on his plan of transferring the war to Greater Poland. But from the moment the Polish troops fell into disarray and the Greater Poles could expect rescue from nowhere, they finally had to regard the continuation of the struggle as pointless. So they returned slowly from all sides, nobles and peasants, to their homes, to resume their former occupations. The scythes, so recently turned into weapons,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-133">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-133">p. 133</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2785,9 +3040,11 @@ changed back again into tools useful at harvest time<sup class="lit-fn"><a href=
 The activity of the Greater Poles during those few months of the insurrection in this region may be characterised as follows<sup class="lit-fn"><a href="#n-en-429">427</a></sup>: those to whose credit the kindling of the revolt belongs were the nobility and the clergy; the Prussian government, too, regarded them as its greatest enemies. It was above all the petty nobility, who had little to lose, that took up arms willingly. Owners of larger fortunes, fearing damage to their property, often kept away from the uprising and frequently had to be forced into it. There were even some who, stripped of patriotic feeling, fled from the insurgent ranks to the protection of the Prussian government. The burghers, too, made common cause with the national movement, but only in small towns where the garrisons were weak or absent altogether; and always at the instigation of the nobility and clergy. The principal towns, such as Poznań, Łęczyca and Piotrków, where Germans formed a large percentage of the population, remained quiet, although cases of anti-Prussian agitation occurred there as well. Thus in Poznań the investigative
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-134">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-134">p. 134</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2803,9 +3060,11 @@ commission had to issue a proclamation<sup class="lit-fn"><a href="#n-en-430">42
 The strength at the insurrection's disposal was small. The creators of the voivodeship militias, despite a period of five months, did not know how to organise it properly, and later it proved impossible even to concentrate these risings of the individual lands, so that they could effectively resist the detachments of Prussian troops which, however small their numbers, advanced against them from Pomerania, from Silesia and from the vicinity of Warsaw. It happened that discord among the leaders of the risings, or a lack in them of the abilities needed to direct the movement, made unanimity of action impossible. For just this reason, at the agreed signal to unite all forces at Gniezno, only the insurgents from the Kalisz and Poznań regions appeared, under Niemojewski, that is about 1,300 men. When Dąbrowski halted at Słupca, 4,000 Greater Poles joined him. At first the commander had little satisfaction from them, for they lacked military training and a knowledge of the elementary rules of the art of war, but in time even this could be remedied. At Łabiszyn and Bydgoszcz the Greater Poles won for themselves
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-135">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-135">p. 135</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2825,9 +3084,11 @@ a glorious page of remembrance. Nor were the small detachments of the Greater Po
 ##### AFTER THE FALL OF THE INSURRECTION
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-136">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-136">p. 136</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2843,9 +3104,11 @@ With the fall of the insurrection the fate of the Polish nation came to depend e
 The superior force ranged against it, however, was great. Hopes of help from other states proved vain. France did not grant the 12-million loan on the mortgage of the starostwa, which Potocki and Kołłątaj had expected from that quarter<sup class="lit-fn"><a href="#n-en-432">430</a></sup>. All the efforts made in this matter by the Polish diplomatic agent to the revolutionary government, Franciszek Barss, were futile. The Committee of Public Safety objected that he had no official standing and that the rising in Poland "had been made by the nobility"<sup class="lit-fn"><a href="#n-en-433">431</a></sup>, and in the end it announced that "France will not let go the smallest particle of gold, nor expose the life of a single man for the sake of consolidating the revolution in Poland, if it is aiming at an aristocratic or royal government, or at a change of the reigning dynasty, or at a change of the form of government to another no less bad<sup class="lit-fn"><a href="#n-en-434">432</a></sup>". This unfavourable stance of the French government of the time is significant,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-137">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-137">p. 137</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2865,9 +3128,11 @@ The insurgents also counted on the service that Turkey was to render their cause
 Sweden, which was to join the coalition, although it regarded the insurgents with sympathy and had established diplomatic relations with the insurrectionary government, gave no help whatever<sup class="lit-fn"><a href="#n-en-438">436</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-138">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-138">p. 138</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2887,9 +3152,11 @@ The machinations concerning the final partition of Poland had begun as early as 
 In August the final partition negotiations began, to the immense joy of the Prussian king, who had for months been awaiting that moment with impatience<sup class="lit-fn"><a href="#n-en-442">440</a></sup>. The new Prussian envoy in St Petersburg, Count Tauentzien, then demanded, in accordance with the instructions he had received, so extensive a share for Prussia that he provoked the decisive protest of his Austrian colleague Cobenzl, likewise supported by Russia. For he demanded not only the areas on the Narew and the Niemen and the lands west of the Pilica and the Vistula with Warsaw, but also the Kraków and Sandomierz voivodeships. In order to avoid bordering on Russia, he proposed carving out of Mazovia and Samogitia two separate duchies for Platon Zubov and Prince Nassau-Siegen. The Empress had no thought of agreeing to such far-reaching claims by Prussia. She assigned the Kraków and Sandomierz regions to Austria and Samogitia to herself. Prussia, however, did not give way, with the result that relations between it and Austria became so strained that they even threatened a breakdown of the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-139">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-139">p. 139</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2909,9 +3176,11 @@ Russia took a decided stand on the side of Austria. Between her and Austria a pa
 For some time Prussia did not consent to the area assigned to it. Above all it began negotiations with the Committee of Public Safety in order to conclude peace with France. Prince Henry of Prussia, the brother of Frederick the Great, pushed it onto this road. He saw in the war with France "the suicide of Prussia for the benefit of Austria<sup class="lit-fn"><a href="#n-en-446">444</a></sup>", and he regarded peace as the more necessary the more he feared that the victorious French might later make the conclusion of peace with Prussia conditional on its renouncing the Polish provinces<sup class="lit-fn"><a href="#n-en-447">445</a></sup>. And indeed peace was concluded at Basel on 5 April
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-140">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-140">p. 140</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2935,9 +3204,11 @@ Of the lands which Prussia received in the last partition, the area on the left 
 The loss of its own state was the consequence of the fall of the insurrection for the whole nation. What, apart from this, were the consequences of the collapse of the uprising, in particular for the Greater Poles, and what was the situation in their country?
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-141">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-141">p. 141</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2953,9 +3224,11 @@ In Greater Poland, alongside the restoration of the old order, trials of the ins
 From 1 February 1795 Count Hoym<sup class="lit-fn"><a href="#n-en-454">452</a></sup>, who after the recall of Voss in September 1794 had become chief minister of South Prussia<sup class="lit-fn"><a href="#n-en-455">453</a></sup>, was appointed to supervise the commissions in Silesia. His intention was to bring the trial of the insurgents to an end as quickly as possible, and in accordance with the royal instruction<sup class="lit-fn"><a href="#n-en-456">454</a></sup> fines and confiscation of property were to replace prison sentences. Hoym meant to devote the fund thus collected to the reforms in South Prussia that had been announced in part in the Wrocław patent of 24 September 1794, probably drafted by himself<sup class="lit-fn"><a href="#n-en-457">455</a></sup>. For while on the one hand he had resolved to teach the Greater Poles obedience by punishing the rebels, so as to deter them in future from stirring up any disturbances, on the other hand he intended to introduce certain reforms, to remedy the lack of credit and cash, to put the mortgage registers in order and to lower the rate of interest, in order to inspire confidence in the new ruler among the inhabitants. Observing social relations in his province, he had come to the conviction that since its seizure by the Prussians
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-142">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-142">p. 142</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2975,9 +3248,11 @@ According to a plan adopted in advance, the whole enormous trial of the insurgen
 Patents issued from time to time called upon the insurgents to appear voluntarily before the commissions, promising those who proved obedient to the summons a remission or reduction of punishment. The patent for the inhabitants of West Prussia, issued while the insurrection was still in progress, on 23 October
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-143">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-143">p. 143</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2989,9 +3264,11 @@ Patents issued from time to time called upon the insurgents to appear voluntaril
 1794, went furthest in this respect. It promised all participants in the uprising release "from every and any penalty, whether of life or of body, or of confiscation of estates and other penalties on estates", as well as complete amnesty, "every pardon and remission", if within a period of two weeks from the date of publication of the patent they laid down their arms and returned to their homes; those who would not comply with the appeal were threatened by the government with severe penalties<sup class="lit-fn"><a href="#n-en-462">460</a></sup>. The Landrat of the Bydgoszcz district, Twardowski, who had been an active insurgent at the time of Dąbrowski's expedition, placed his trust in this appeal, but was nevertheless arrested on 25 November 1794<sup class="lit-fn"><a href="#n-en-463">461</a></sup>. For in the meantime the king had issued to the West Prussian commissions an order to mete out punishments to the "rebels" with complete ruthlessness<sup class="lit-fn"><a href="#n-en-464">462</a></sup>. On 10 December 1794 a proclamation appeared concerning the treatment of the insurgents of South Prussia. It ordered the release of Polish prisoners. Former officers were to give a written undertaking that they would not enter service in any army that might take the field against Prussia. The common soldiers were to be incorporated in part into the Prussian army, or else sent out into the province as settlers. The nobility and clergy who had taken part in the uprising were threatened by the appeal with the loss of their estates and dignities if they did not present themselves before the appropriate authorities by 1 January 1795; the principal "rebels" and leaders of the insurrection it ordered to be arrested and delivered for interrogation before the commissions in Wrocław, Głogów or Brzeg<sup class="lit-fn"><a href="#n-en-465">463</a></sup>. A publicandum (public notice) of 10 February 1795 extended the term for the appearance of the insurgents from South Prussia to 1 June 1795, threatening otherwise punishments as before. Finally, the patent issued in Wrocław on 24 April 1795, concerning the treatment of the South Prussian
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-144">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-144">p. 144</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3015,9 +3292,11 @@ In vain did the edictal citation (summons) of the Royal Regierung of South Pruss
 The commissions conducted the investigation of the former insurgents with great thoroughness. Officials in West Prussia and South Prussia submitted lists of persons compromised in the events just past, specifying who had gone into the insurgent ranks of his own will and who under compulsion<sup class="lit-fn"><a href="#n-en-470">468</a></sup>. Participants in the insurrection were punished with penalties on their liberty, such as detention in a fortress or imprisonment; estates were sequestrated; noble as well as church and monastic estates were confiscated<sup class="lit-fn"><a href="#n-en-471">469</a></sup>; non-castle starostwa were taken away; finally, the "rebels" were removed from the offices they sometimes held, and sentenced to pay sums of money that were at times very high. No insurgent was sentenced to death, although the royal instruction to the West Prussian commissions recommended its execution in the case of very aggravating circumstances<sup class="lit-fn"><a href="#n-en-472">470</a></sup>.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-145">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-145">p. 145</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3033,9 +3312,11 @@ How many Greater Poles underwent fortress imprisonment is hard to establish. It 
 In South Prussia the Prussian government placed under sequestration the estates of the following Greater Poles: Wojciech Węgorzewski of Objezierze<sup class="lit-fn"><a href="#n-en-479">477</a></sup>, Antoni Chłapowski of Dąbrówka<sup class="lit-fn"><a href="#n-en-480">478</a></sup>, Celestyn Sokolnicki of Jarogniewice<sup class="lit-fn"><a href="#n-en-481">479</a></sup>, Mateusz Rosen of Kruchów<sup class="lit-fn"><a href="#n-en-482">480</a></sup>, Biskupski of Kuchary<sup class="lit-fn"><a href="#n-en-483">481</a></sup>, Jan Zembrzuski, owner of Great and Little Siekierki<sup class="lit-fn"><a href="#n-en-484">482</a></sup>, Antoni Grudziński, lord of Popowo, Kukulin, Rybkowo, Łagiewniki, Jagniewice, Sarbia and Podlesie<sup class="lit-fn"><a href="#n-en-485">483</a></sup>, Ksawery Łukomski, lord of Drzazgowo, Wysławice and Sokolniczki<sup class="lit-fn"><a href="#n-en-486">484</a></sup>, Florian Borzęcki, leaseholder of Porażyn<sup class="lit-fn"><a href="#n-en-487">485</a></sup>, the starosta Leszczyński of Grabów<sup class="lit-fn"><a href="#n-en-488">486</a></sup>, who died of wounds received in the uprising, the Landrat Józef
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-146">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-146">p. 146</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3059,9 +3340,11 @@ The former Greater Poland insurgents whom the Prussians removed from office incl
 Most often the "rebels" were assessed fines, which also frequently took the place of imprisonment. A sum of 2–6 thousand thalers was equivalent to a penalty of one year in a fortress, depending on the insurgent's financial standing<sup class="lit-fn"><a href="#n-en-493">491</a></sup>. From the former insurgents of South Prussia the Prussians expected to collect 300,000 thalers. King Frederick William II assigned one third of this sum to his discretionary fund (Dispositionskasse), one third to the building of a fortress at Łęczyca,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-147">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-147">p. 147</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3077,9 +3360,11 @@ winter uniforms for the soldiers, compensation and the costs of the insurgents' 
 When in 1807 the lands of the Second and Third Partitions (with the exception of the Białystok district, which Russia received) formed the Duchy of Warsaw, the citizens of South Prussia who had been wronged by the Prussians were ordered to submit their claims to the new government. In the Poznań department this matter was handled by
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-148">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-148">p. 148</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3099,9 +3384,11 @@ We do not know how large a sum the insurgents of West Prussia had to pay by way 
 The punishment of the insurgents, which was intended to deter the Greater Poles from starting revolts in the future and to teach them obedience, evidently did not produce that effect, since the Prussian king in the patent of 9 August 1796 warned against a new uprising. He threatened the owners of estates with responsibility for subjects
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-149">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-149">p. 149</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3117,9 +3404,11 @@ who rebelled, and ordered the peasants to report to the nearest authority the re
 The Prussian government likewise paid close attention to the clergy, for the clergy had "in the last unfortunate insurrection justly drawn upon itself the suspicion" of being guilty of "genuine revolts, of personal partiality and active support for harmful conspiracies, and even of secret associations and agreements aimed at the overthrow of the government of the country, and of other culpable undertakings from which every feeling of respect for law and moral order recoils<sup class="lit-fn"><a href="#n-en-502">500</a></sup>." The patent of 9 August 1796 contained four points concerning the clergy: 1) bishops, officials (diocesan judges), deans and heads of monasteries are liable, for the conspiracies of those subordinate to them, to loss of office and sequestration of revenues; 2) for concealing rebellious intentions, priests will incur expulsion from the country, and for active participation in a conspiracy, the penalty for lèse-majesté and treason; 3) in the event of the complicity of several members of a chapter, monastery or other ecclesiastical community, besides the punishment of the guilty,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-150">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-150">p. 150</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3139,9 +3428,11 @@ Simultaneously with the punishment of the former insurgents the Prussian governm
 On 5 January 1795 the South Prussian courts resumed their interrupted activity<sup class="lit-fn"><a href="#n-en-504">502</a></sup>. In the judiciary the German language came to reign supreme, and Prussian procedure was introduced. This caused great discontent among Polish citizens, and the bolder among them even addressed the king on the matter. As a result of their efforts a publicandum appeared, dated 16 November 1795, intended to adapt judicial proceedings "as far as possible to the character and way of thinking of the nation". German was not, however, removed from the judiciary; it was merely promised that extracts from the general Prussian law (das allgemeine Landrecht, the General Land Law for the Prussian States) and the procedure would be published in Polish. The Regierungen were instructed to translate judgments and summonses into Polish, in whole or in abridged form. In 1797 Polish laws lost their binding force.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-151">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-151">p. 151</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3161,9 +3452,11 @@ The Greater Poles were removed from participation in public affairs; the Prussia
 The nobility retained the privilege of owning landed estates, but with certain restrictions. Those among the nobility who had held no landed property at the time of the fall of the Commonwealth could now acquire it only after obtaining the incolat (indigenat, the right of a native noble to hold land). If anyone who had neither any right to landed property nor the incolat wished to acquire an estate, he had first to secure a special permission from the Prussian king. Inheritance, bequest by will and gift did not confer the right to hold landed estates without the incolat or royal permission. A contract of purchase or sale of noble estates was not legally valid without the approval of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-152">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-152">p. 152</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3187,9 +3480,11 @@ The Prussian government paid close attention to the Jews. In the annexed lands o
 In organising social relations the Prussian government was guided not by the good of the inhabitants but by the aims of the state. It made officials of the priests. The nobility it now favoured, now extended police control over. In order to curry favour with the nobility, it undertook no improvement of peasant conditions and did not abolish labour dues, despite announcements to that effect<sup class="lit-fn"><a href="#n-en-512">510</a></sup>. The restriction of the self-government
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-153">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-153">p. 153</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3213,9 +3508,11 @@ Simultaneously with issuing new regulations, the Prussian government sought to e
 The Prussian government likewise spared neither effort nor expense in order to entrench the German element in Greater Poland. For this purpose it brought in a multitude of officials, sent in colonists and peasants for public works, and leased the domains only to Germans. In South Prussia alone, within 4 years under the administration of Minister Hoym, 241 estates were distributed among 52 grantees. The starostwo of Międzyrzecz, with a number of picturesquely situated manor farms, was received, as a token of the royal "satisfaction" for services rendered to Prussia over many years, by Lucchesini<sup class="lit-fn"><a href="#n-en-519">517</a></sup>. The Prussian government also took up a plan to dispossess the Greater Poland nobility
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-154">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-154">p. 154</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -3235,9 +3532,11 @@ Schooling also served the aims of Germanisation. In the elementary schools a Ger
 The efforts at Germanisation, undertaken already at the beginning of Prussian rule and continued later with ever greater ruthlessness, nevertheless did not succeed in killing the Polish spirit in the nation. The idea of independence was always alive. The Greater Poles longed for freedom, like the whole Polish nation. Polish blood was shed in cruelly suppressed uprisings. The Greater Poles watered the fields of their land abundantly with it in 1848, until at last, after more than a century of bondage, the sun of freedom shone for the oppressed nation. In vain, 20 years later, did the rampaging Hitlerite beast strive, during more than 5 years of occupation of the Polish lands, amid murders and the bloodiest persecutions known to history, to erase the name of Poland for ever; in vain was Greater Poland, Germanised at lightning speed, to be turned into a province German from time immemorial. From the martyr blood of the best sons of the Fatherland Poland rose up free, to prove to the world the truth of Staszic's words that "even a great nation may fall; only a worthless one can perish."
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-notes">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-notes">Notes</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -5332,6 +5631,7 @@ The efforts at Germanisation, undertaken already at the beginning of Prussian ru
 
 <span class="lit-note" id="n-en-521">519</span> Ibid., 176.
 
+</div>
 </div>
 </section>
 {% endraw %}

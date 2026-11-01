@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -38,9 +39,11 @@ Age: 64 years
 Wikipedia (Stanisław Adam Miączyński): Stanisław Adam Miączyński of the arms Suchekomnaty (born 24 December 1780 in Warsaw, died 12 April 1845 in Berlin) - son of Kajetan Adam Miączyński and Teresa Rafałowiczówna, known for their lavish way of life. more...
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c01">Rodzice</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -66,9 +69,11 @@ born about 1749
 died on 27 April 1843 - at Warsaw, aged probably 94.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c02">Przodkowie</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -118,9 +123,11 @@ Teresa Teodora Rafałowicz ca 1749-1843
 Stanisław Adam Miączyński of Miączyn, arms Suchekomnaty, an article in the Nekrologia, 1780-1845
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c03">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c03">śluby i dzieci, wnuki, i do prawnuków</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -139,9 +146,11 @@ Aleksander Adam Stanisław Count Miączyński of Miączyn, arms Suchekomnaty, co
 & Bronisława Kalkstein, arms Kos, an article in the Nekrologia, (line: Józef Radzimiński 16.78.177) 1825-1858
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c04">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c04">Wnuki</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -266,6 +275,7 @@ Aleksander Karski of Kars, arms Boleścic 1886-1950 \|
 Tadeusz Andrzej Edmund Karski of Kars, arms Boleścic 1888-1917 \|  
 Wincenty Karski of Kars, arms Boleścic 1895-1934 \|
 
+</div>
 </div>
 </section>
 {% endraw %}

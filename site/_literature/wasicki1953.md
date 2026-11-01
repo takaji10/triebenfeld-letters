@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-137">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-137">p. 137</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -67,9 +68,11 @@ Of the more recent works of German historians that deal only incidentally with t
 <span class="lit-note" id="n-en-7">7</span> Das Jahr 1793. Urkunden und Aktenstücke zur Geschichte der Organisation Südpreussens, Posen 1895.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-138">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-138">p. 138</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -113,9 +116,11 @@ Before proceeding to discuss the colonisation carried on in South Prussia by the
 <span class="lit-note" id="n-en-10">10</span> Kolonizacja niemiecka na wschód od Odry, Poznań 1945.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-139">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-139">p. 139</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -143,9 +148,11 @@ The situation in South Prussia took a similar shape, although in this period an 
 <span class="lit-note" id="n-en-13">12a</span> Holsche, s. 499.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-140">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-140">p. 140</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -173,9 +180,11 @@ From the exchange of letters between minister Voss and the Prussian envoy in War
 <span class="lit-note" id="n-en-14">13</span> Prümers D. J., s. 441.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-141">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-141">p. 141</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -215,9 +224,11 @@ Frederick William II's colonising plans, however, met with fairly serious diffic
 <span class="lit-note" id="n-en-17">16</span> Edict wegen des Südpreussischen Incolats oder wegen Besitzfähigkeit zu adligen Gütern in Südpreussen. Berlin, den 16. Mai 1794.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-142">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-142">p. 142</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -257,9 +268,11 @@ Besides, the Silesian minister Hoym had already formed an unfavourable judgement
 <span class="lit-note" id="n-en-20">19</span> Zimmermann K., Tom I, s 40.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-143">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-143">p. 143</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -299,9 +312,11 @@ Thus during the reign of Frederick William II and in the period of minister Hoym
 <span class="lit-note" id="n-en-24">23</span> S. P. Z. vol. VI, fol. 138.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-144">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-144">p. 144</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -345,9 +360,11 @@ Soon, however, minister Voss together with the provincial authorities was placed
 <span class="lit-note" id="n-en-28">27</span> Stadelman, cz. IV. s. 7.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-145">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-145">p. 145</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -387,9 +404,11 @@ Despite the express royal order to begin the colonising action, minister Voss to
 <span class="lit-note" id="n-en-33">32</span> Müller, s. 94.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-146">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-146">p. 146</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -429,9 +448,11 @@ A great hindrance in carrying on the whole action was the lack of any guidelines
 <span class="lit-note" id="n-en-38">37</span> S. P. Z. vol. X, fol. 60.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-147">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-147">p. 147</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -471,9 +492,11 @@ In the principality of Nassau Weiss found a fairly favourable reception from the
 <span class="lit-note" id="n-en-41">40</span> Müller, s. 99.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-148">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-148">p. 148</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -513,9 +536,11 @@ As to the first point, the instruction explained that for purposes of colonisati
 <span class="lit-note" id="n-en-45">44</span> The Warsaw chamber in particular was ordered to prepare forest land for the arriving settlers. S. P. Z. vol. X, 20 IV 1799.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-149">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-149">p. 149</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -543,9 +568,11 @@ Similar principles were to be applied in founding colonies on land near the town
 This care to settle free hired labourers on the one hand, and then to create large farms for colonists, bore witness to the far-reaching changes already under way in rural conditions. The feudal economy had at this time begun to outlive itself and slowly, first on the royal estates and then on the nobles' manor farms, to take on the forms of a capitalist economy. The transition to new forms of cultivation, the clearing of forests and the draining of marshes required the settling of a large number of free cottagers, gardeners and smallholders, compelled to sell their labour to the owners of manor farms. And so, although in principle there was constant talk of settling colonist-farmers, at the same time especially many hired labourers were settled, so needed on the manor farms. Colonists were settled mainly on the royal domains, where progressive forms of farming were being introduced, but the Prussian government also influenced the South Prussian nobility to introduce new forms of farming on their manor farms, increasing the areas
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-150">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-150">p. 150</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -615,9 +642,11 @@ In all, 13 colonies were founded in this department by 1800, in which 109 famili
 <span class="lit-note" id="n-en-49">48</span> Ratowice Holsche, s. 499.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-151">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-151">p. 151</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -687,9 +716,11 @@ S. P. Z. vol. XV, fol. 186.
 <span class="lit-note" id="n-en-55">54</span> Instruction behufs des Reichskolonisten Engagements für Südpreussen. S. P. Z. vol. XII, fol. 260.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-152">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-152">p. 152</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -743,9 +774,11 @@ In order to conduct the whole action properly and to co-ordinate it with the act
 <span class="lit-note" id="n-en-59">58</span> Stadelman, op. cit., s. 266.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-153">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-153">p. 153</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -773,9 +806,11 @@ Moreover, the advance of 1,000 thalers for setting up provided in the instructio
 <span class="lit-note" id="n-en-61">60</span> Müller, op. cit., s. 103.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-154">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-154">p. 154</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -803,9 +838,11 @@ The Prussian envoy officiating at Frankfurt on the Main, Formey, did not, howeve
 <span class="lit-note" id="n-en-63">62</span> The leaflet printed in 1802, "Der glückliche Bauer. Ein Gespräch zwischen einem südpreussischen Kolonisten und einem schwäbischen Bauern" [The happy peasant. A conversation between a South Prussian colonist and a Swabian peasant], tried to present the condition of the colonists settled in South Prussia in the best possible light. The conversation between the Swabian peasant and the colonist from South Prussia, who came from those parts, begins with the colonist trying to dispel the doubts of the Swabian peasant, who thought that in the new Prussian province there was nothing but hunger, sorrow and dejection. For that was how the situation had been presented to him by those who had returned from there, not having found the promised happiness. The colonist, however, presents the conditions prevailing in South Prussia in an altogether different light. He praises the fertility of the soil, the state's help for settlers, and finally the fact that many colonies had already arisen there, settled mainly by settlers from Germany. To the question why, then, the Prussian government was trying to attract settlers there, and whether the peasants there did not cultivate the land, the newcomer from South Prussia replies that the peasants living in South Prussia are lazy and negligent, because in Polish times they were oppressed by the nobility with labour service. Finally the last revolution that broke out there caused many of them to leave the country, and for this reason new settlers are now needed there. He adds that colonists are settled only on land belonging to the king and are therefore only his subjects, not obliged to the labour service that the peasants sitting on the nobles' and church lands of this province must perform. The colonists are thus free men and all the yield is their property. The Swabian peasants need not fear coming to a province inhabited by a foreign population, since there are already many colonists from Germany there, and besides all the officials speak German. Convinced, the Swabian peasant decides to leave and settle in South Prussia, taking all his property with him. Zimmermann, t. II, s. 37.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-155">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-155">p. 155</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -853,9 +890,11 @@ In the forefront of this new instruction was put the requirement that settlers h
 <span class="lit-note" id="n-en-68">67</span> Tableau der den zu engagierenden Kolonisten zu bewilligenden Benefizien. Berlin, 29. Januar 1802. S. P. Z. vol. XIV, fol. 14.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-156">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-156">p. 156</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -919,9 +958,11 @@ To the first class were assigned day labourers and cottagers (Tagelöhner und H�
 <span class="lit-note" id="n-en-72">71</span> Two cows, 1 pig, 4 geese, 4 hens and a cock.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-157">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-157">p. 157</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -961,9 +1002,11 @@ From the above instruction it follows fairly clearly that the General Directory 
 The figures given in minister Voss's report confirm the principle applied. Of a total of 534 families there were settled in the Poznań department:
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-158">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-158">p. 158</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1013,9 +1056,11 @@ In reply to the chambers' enquiries on the occupation of empty peasant farms, me
 <span class="lit-note" id="n-en-76">75</span> S. P. Z. vol. XIV, fol. 155.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-159">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-159">p. 159</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1051,9 +1096,11 @@ The colonist, after arriving in the new province, received land in a place indic
 <span class="lit-note" id="n-en-80">79</span> S. P. Z. vol. XV, fol. 124. „... Durch diese Leute nicht allein die Provinz mit einer Menge von Armen und von allen Industrie entblössten Familien überladen, sondern auch der Kolonisten Fond mit grossen Ausgaben von deren Verwendung wenig oder nichts gutes zu erwarten ist“ [Through these people not only is the province overloaded with a crowd of poor families devoid of all industry, but the colonists' fund too with great expenses from which little or no good is to be expected].
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-160">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-160">p. 160</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1085,9 +1132,11 @@ Relying on the list drawn up by the Poznań chamber in 1804, giving both the num
 <span class="lit-note" id="n-en-81">80</span> Müller, c. o., s. 199. Erb-Pacht-Contract zwischen der königlichen Neu-Ost-Preussischen Krieges und Domainen Kammer zu Bialystok und dem Einsassen George Susdorff über ein Colonisten-Etablissement von 4 Hufen Magdeburgisch zu Günthersaue im Amte Chodorowken landräthlich Dombrowaschen Kreises [Contract of hereditary lease between the royal New East Prussian War and Domains Chamber at Białystok and the inhabitant George Susdorff for a colonist establishment of 4 Magdeburg Hufen at Günthersaue in the domain office of Chodorowken, in the district of Dombrowa].
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-161">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-161">p. 161</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1159,9 +1208,11 @@ In the department of the Warsaw chamber there were founded:
 </tbody></table>
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-162">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-162">p. 162</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/162.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/162.jpg' | relative_url }}" alt="Wąsicki (1953), p. 162" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1174,9 +1225,11 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-163">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-163">p. 163</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/163.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/163.jpg' | relative_url }}" alt="Wąsicki (1953), p. 163" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1189,9 +1242,11 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-164">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-164">p. 164</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/164.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/164.jpg' | relative_url }}" alt="Wąsicki (1953), p. 164" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1204,9 +1259,11 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-165">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-165">p. 165</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/165.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/165.jpg' | relative_url }}" alt="Wąsicki (1953), p. 165" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1219,9 +1276,11 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-166">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-166">p. 166</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/166.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/166.jpg' | relative_url }}" alt="Wąsicki (1953), p. 166" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1234,9 +1293,11 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-167">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-167">p. 167</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/167.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/167.jpg' | relative_url }}" alt="Wąsicki (1953), p. 167" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1249,9 +1310,11 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-168">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-168">p. 168</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/168.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/168.jpg' | relative_url }}" alt="Wąsicki (1953), p. 168" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1264,9 +1327,11 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-169">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-169">p. 169</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/169.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/169.jpg' | relative_url }}" alt="Wąsicki (1953), p. 169" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1279,9 +1344,11 @@ Kolonia Nowe Gałęzewo w Ciążyńskim Urzędzie Domen. Typowy przykład koloni
 The colony of Nowe Gałęzewo in the domain office of Ciążyń. A typical example of a colony founded on cultivated land. Farm buildings were put up along the two roads laid out. As the plan shows, the cottagers have only dwelling houses. Plan of 1803.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-170">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-170">p. 170</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1355,9 +1422,11 @@ The colonisation of the period of South Prussia might properly be called a Würt
 The principles and course of colonisation in South Prussia in the years 1793—1806 differ fairly clearly from the colonisation of Polish lands carried on by Frederick II both in Silesia and in West Prussia. Frederician colonisation is well known, since it has received many exhaustive studies, and the work of T. Ladenberger cited at the beginning sums up the results of the research carried on in this direction. It does not therefore seem to us justified to present it again. It is necessary only to show the differences in the principles and course of colonisation in its two periods.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-171">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-171">p. 171</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1409,9 +1478,11 @@ The colonists of the period of Frederick II's colonising action were in principl
 <span class="lit-note" id="n-en-82">*</span> The origin of the settlers was not everywhere given, so this list is not quite exact as to the number of families of colonists settled. The figures in the list are indicative.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-172">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-172">p. 172</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1459,9 +1530,11 @@ A) The peasants received:
 <span class="lit-note" id="n-en-83">81</span> Stadelman, o. c., s. 7.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-173">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-173">p. 173</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/173.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/173.jpg' | relative_url }}" alt="Wąsicki (1953), p. 173" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1490,9 +1563,11 @@ The political situation at the time favoured the recruiting of colonists, and so
 <span class="lit-note" id="n-en-85">83</span> Hofmann W., o. c., s. 15.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-174">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-174">p. 174</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/174.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/174.jpg' | relative_url }}" alt="Wąsicki (1953), p. 174" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1525,9 +1600,11 @@ The Prince of Hohenlohe-Ingelfingen likewise received in 1796 the Zagórów and 
 <span class="lit-note" id="n-en-87">85</span> Komornicki, o. c., s. 180.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-175">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-175">p. 175</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/175.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/175.jpg' | relative_url }}" alt="Wąsicki (1953), p. 175" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1548,9 +1625,11 @@ Pasture set aside for the settling of 4 smallholder colonists at Główna. Domai
 hired labourers were settled. The initiative in winning further settlers and settling them beside the larger colonies was left to the colonists who held considerable areas of land. In the Warta valley near Zagórów there thus arose
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-176">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-176">p. 176</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1606,9 +1685,11 @@ Already in 1793, immediately after the entry of the Prussian troops, when the ac
 <span class="lit-note" id="n-en-93">91</span> Prümers R., Das Jahr 1793. s. 89.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-176-u1">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-176-u1">unnumbered page after p. 176</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/176-u1.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/176-u1.jpg' | relative_url }}" alt="Wąsicki (1953), p. 176-u1" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1621,9 +1702,11 @@ Koszty założenia i osiedlenia kolonii Nowe Gałęzewo w urzędzie domen Ciąż
 Costs of founding and settling the colony of Nowe Gałęzewo in the domain office of Ciążyń (State Archive, Poznań, S. P. Z. — General Tableau)
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-177">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-177">p. 177</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1655,9 +1738,11 @@ The inflow of settlers to the towns was relatively small compared with the inflo
 <span class="lit-note" id="n-en-94">92</span> S. P. Z. vol. III, fol. 9.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-178">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-178">p. 178</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1705,9 +1790,11 @@ In August 1799 Voss informed the South Prussian chambers that many artisans from
 <span class="lit-note" id="n-en-99">97</span> S. P. Z. vol. X, fol. 32a.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-179">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-179">p. 179</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1742,6 +1829,7 @@ As follows from the facts cited above, then, the Prussian authorities did not at
 
 <span class="lit-note" id="n-en-103">101</span> Breyer Albert, Die erste deutsche Tuchmacherstadt in Mittelpolen (Dombie). Dtsche Wissenschaftliche Zeitschrift für Polen. Heft 35, Jahr 1935.
 
+</div>
 </div>
 </section>
 {% endraw %}

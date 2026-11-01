@@ -33,3 +33,27 @@
   try { saved = localStorage.getItem(KEY); } catch (e) { saved = null; }
   apply(VIEWS.indexOf(saved) >= 0 ? saved : 'en');
 })();
+
+/* The Related column (literature/links.yml): the button in the viewbar hides
+   it page-wide and remembers the choice; without this script it shows. */
+(function () {
+  'use strict';
+  var KEY = 'tf-lit-related';
+  var tgl = document.querySelector('[data-related-toggle]');
+  if (!tgl) return;
+
+  function apply(on) {
+    document.body.setAttribute('data-related', on ? 'on' : 'off');
+    tgl.classList.toggle('is-on', on);
+    tgl.setAttribute('aria-pressed', on ? 'true' : 'false');
+    try { localStorage.setItem(KEY, on ? 'on' : 'off'); } catch (e) { /* private mode */ }
+  }
+
+  tgl.addEventListener('click', function () {
+    apply(document.body.getAttribute('data-related') === 'off');
+  });
+
+  var saved;
+  try { saved = localStorage.getItem(KEY); } catch (e) { saved = null; }
+  apply(saved !== 'off');
+})();

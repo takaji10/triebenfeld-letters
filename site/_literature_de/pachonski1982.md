@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-582">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-582">S. 582</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -27,9 +28,11 @@ Starannie wychowany, odziedziczył P. po stryju Pawle znaczny majątek z Kolnem 
 Carefully brought up, P. inherited from his paternal uncle Paweł a considerable fortune with Kolno and Prusinów (the latter he sold to W. Żeromski in 1766); he liked best, however, to live at Śmiłowice in Kuyavia. He put his yearly income at 150,000 Polish złoty. In 1764 he signed the act of the royal election (for the voivodeship of Poznań) as Ostroróg-Prusimski. In 1769, already
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-583">
+<section class="lit-passage has-related" id="p-583">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-583">S. 583</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -61,20 +64,22 @@ By his marriage to Marianna Dąmbska of Lubraniec, daughter of Józef, castellan
 Sources and literature: Słown. Geogr. (Nieszewice); Boniecki (Dąmbscy); Uruski; Żychliński, VII; — Askenazy Sz., Napoleon a Polska, Warsaw-Cracow 1918 I 222; Bonnefons
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
 <p>Der Polski Słownik Biograficzny (Pachoński, 1982) sagt, Antoni Prusimski sei Ende 1794 mit seiner Frau nach Venedig geflohen, dort auch nach dem Basler Frieden tätig geblieben, wie Hoym am 9. Mai 1796 meldete, und Mitte März 1797 von den Österreichern nach Mantua vertrieben worden. Die Akte des auswärtigen Departements fällt in diese Monate. Sie enthält die Depesche des preußischen Residenten in Venedig, Graf Cattaneo, vom 14. Dezember 1796 über Prusimskis zerrüttete Gesundheit und seine Bitte um ein Attest, dass er nicht reisen könne, und das Schreiben des Departements vom 11. Januar 1797, das sie den Ministern Hoym und Schroetter mitteilt. Schrötter antwortete am 29. Januar 1797, es stehe nicht fest, ob Prusimski in Neuostpreußen oder in Südpreußen angesessen sei. Hoyms Bericht vom Mai 1796 ist nicht in der Akte.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr1414/2/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, Dokument 2 (14. Dezember 1796)</a><a href="{{ '/documents/ihagrrep7cnr1414/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, Dokument 1 (11. Januar 1797)</a><a href="{{ '/documents/ihagrrep7cnr1414/3/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, Dokument 3 (29. Januar 1797)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr1414/2/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, Dokument 2 (14. Dezember 1796)</a><a href="{{ '/documents/ihagrrep7cnr1414/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, Dokument 1 (11. Januar 1797)</a><a href="{{ '/documents/ihagrrep7cnr1414/3/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, Dokument 3 (29. Januar 1797)</a></p>
 <p>Der Polski Słownik Biograficzny (Pachoński, 1982) sagt, der Sejm von 1773-1775 habe mehrere Kommissionen zur Entscheidung von Streitigkeiten über Antoni Prusimskis Güter eingesetzt, darunter über Trąbczyn. Die Kommission für Trąbczyn wurde durch eine am 1. Juni 1774 in Warschau eingetragene Konstitution des Sejm eingesetzt, um die Grenze zwischen Trąbczyn und dem Łukomia der Chełmski zu entscheiden. Ihr Dekret zeigt sie im September 1775 auf dem strittigen Grund tagend und Prusimskis Grenzlinie für die bessere befindend.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a></p>
 <p>Der Polski Słownik Biograficzny (Pachoński, 1982) sagt, nach dem Aufstand von 1794 habe die preußische Regierung Antoni Prusimski zum Rebellen erklärt und sein Vermögen konfisziert, und nennt General Hohenlohe-Ingelfingen den Inhaber des ihm konfiszierten Gutes. In der Akte vom Juli und August 1796 schlägt Hoym vor, dem Fürsten von Hohenlohe-Ingelfingen die „dem Haupt-Insurgenten Anton von Prusimski“ konfiszierten Güter zu geben, darunter Kamionna, Kolno und Trąbczyn. Dem Obristen von Sanitz schlägt er die Dörfer Pawłów, Dzwonów und Beerenbusch vor, die der PSB unter den Gütern nennt, über die die Kommissionen des Sejm entscheiden sollten. Die Kabinettsorder genehmigt es.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, Dokument 1 (9. August 1796)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, Dokument 1 (9. August 1796)</a></p>
 <p>Der Polski Słownik Biograficzny (Pachoński, 1982) sagt, nach der Niederlage Preußens, als General Hohenlohe-Ingelfingen, der Inhaber des Antoni Prusimski konfiszierten Gutes, Gefangener der Franzosen war, seien die Bemühungen erneuert worden, der Familie die verlorenen Güter zurückzugeben. Sie wurden im Juli 1807 in Dresden unternommen. Seine Tochter Michalina Dąbska bat die Regierungskommission und Napoleon um Trąbczyn, Kamionna, Kolno und Pawłowo, konfisziert zugunsten der preußischen Generale Hohenlohe, Bischoffswerder und Sanitz, und der Beschluss der Kommission vom 21. Juli 1807 dehnte das in Finckenstein für Wybicki ergangene Dekret des Kaisers auf sie aus.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/3/' | relative_url }}">1/174/0/2/73, Dokument 3 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, Dokument 4 (23. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a><a href="{{ '/documents/agad1174016/2/' | relative_url }}">1/174/0/1/6, Dokument 2 (21. Juli 1807)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/3/' | relative_url }}">1/174/0/2/73, Dokument 3 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, Dokument 4 (23. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a><a href="{{ '/documents/agad1174016/2/' | relative_url }}">1/174/0/1/6, Dokument 2 (21. Juli 1807)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-584">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-584">S. 584</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -89,6 +94,7 @@ A., La chute de la République de Venise 1789—1796, Paris 1908; Chodźko L., H
 
 *Jan Pachoński*
 
+</div>
 </div>
 </section>
 {% endraw %}

@@ -11,10 +11,13 @@ Writes : site/_data/literature.yml         the visible works, for the list page
          site/_literature/<slug>.md        /literature/<slug>/
          site/_literature_de/<slug>.md     /de/literatur/<slug>/
 
-A passage named in literature/links.yml gets a box, "In the edition", with
-the link's sentence and its documents; the document's page shows the same
-sentence and the passages, "In the literature". The script stops on a link to
-a passage or a document that does not exist, or to a work not shown.
+A passage named in literature/links.yml gets an entry in the "Related"
+column beside it, with the passage's own note (`about:` in the link, or the
+link's sentence where the link names one passage) and the documents that
+belong to it there; the document's page shows the link's sentence and the
+passages where that document belongs, "In the literature". The script stops
+on a link to a passage or a document that does not exist, or to a work not
+shown, and on a link whose per-passage notes do not cover it.
 
 A work with `visible: false` (Seidel, Pinkas Hakehillot: under copyright,
 docs/LITERATURE_PLAN.md section 4) has none of its text on the site. It is
@@ -220,8 +223,18 @@ def load_links(works):
     """literature/links.yml, checked against the passages and the documents.
 
     Returns the links, each with `docs` (the documents' records from
-    dataset/letters.json, with their holding's `ref`). Stops on a passage or a
-    document that does not exist, and on a passage of a work not shown."""
+    dataset/letters.json, with their holding's `ref`) and `notes` (the
+    per-passage remarks: `about:` entries, or the link's own sentence where
+    the link names one passage). Stops on a passage or a document that does
+    not exist, on a passage of a work not shown, and on an `about:` that does
+    not cover every passage of a link with several passages.
+
+    A link that names more than one passage of one work would otherwise stamp
+    the same box under each of them, so every such passage needs its own
+    `about:` note and its own documents (`documents:`, a subset of the link's;
+    left out, the link's documents stand). Every document of the link must
+    belong to at least one passage: a document named by no passage has no
+    place in the link."""
     path = os.path.join(ROOT, 'literature', 'links.yml')
     if not os.path.isfile(path):
         return []
@@ -254,24 +267,64 @@ def load_links(works):
                 with open(os.path.join(ROOT, 'units', r['unit'], 'unit.yml'), encoding='utf-8') as f:
                     refs[r['unit']] = yaml.safe_load(f)['ref']
             ln['docs'].append(r | {'ref': refs[r['unit']]})
+        # the per-passage remarks: notes[pk] = the passage's own note
+        # (en, de) and the documents that belong to it there
+        about = ln.get('about') or {}
+        pks = set(ln['passages'])
+        for k, v in about.items():
+            if k not in pks:
+                errors.append(f"{ln['id']}: about {k} is not a passage of the link")
+                continue
+            for f in ('en', 'de'):
+                if not v.get(f):
+                    errors.append(f"{ln['id']}: about {k} has no {f}")
+            sub = v.get('documents')
+            if sub is not None and not sub:
+                errors.append(f"{ln['id']}: about {k} names no document")
+            for uid in sub or []:
+                if uid not in ln['documents']:
+                    errors.append(f"{ln['id']}: about {k}: {uid} is not among the link's documents")
+        many = len(ln['passages']) > 1
+        missing = [pk for pk in ln['passages'] if pk not in about]
+        if many and missing:
+            errors.append(f"{ln['id']}: names {len(ln['passages'])} passages, "
+                          f"no about for {', '.join(missing)}")
+        if about and not many:
+            # a single passage needs no about; the link's own sentence is its note
+            errors.append(f"{ln['id']}: names one passage; drop the about, the sentence is the note")
+        ln['notes'] = {}
+        for pk in ln['passages']:
+            a = about.get(pk) or {'en': ln['en'], 'de': ln['de']}
+            ln['notes'][pk] = {'en': a['en'], 'de': a['de'],
+                               'documents': a.get('documents') or ln['documents']}
+        # every document must belong to at least one passage
+        if ln.get('documents'):
+            orphans = [u for u in ln['documents']
+                       if not any(u in n['documents'] for n in ln['notes'].values())]
+            if orphans:
+                errors.append(f"{ln['id']}: {', '.join(orphans)} belongs to no passage of the link")
     if errors:
         sys.exit('literature/links.yml:\n  ' + '\n  '.join(errors))
     return links
 
 
-def links_box(lns, s, lang):
-    """The "In the edition" box under a passage: each link's sentence and documents.
+def links_box(lns, pk, s, lang):
+    """The "Related" column entry for one passage: each link's own note for
+    the passage (`about:`, or the link's sentence where it names one passage)
+    and the documents that belong to it there.
 
     Outside the {% raw %} block of the page, for relative_url."""
-    out = ['{% endraw %}<aside class="lit-links">',
-           f'<p class="lit-links-head">{s["lit_in_edition"]}</p>']
+    out = ['{% endraw %}<aside class="lit-related">',
+           f'<p class="lit-related-head">{s["lit_related"]}</p>']
     for ln in lns:
-        out.append(f'<p>{html.escape(ln[lang], quote=False)}</p>')
-        out.append('<p class="lit-links-docs">' + ''.join(
+        nt = ln['notes'][pk]
+        out.append(f'<p>{html.escape(nt[lang], quote=False)}</p>')
+        uids = set(nt['documents'])
+        out.append('<p class="lit-related-docs">' + ''.join(
             f'<a href="{{{{ \'{r["permalink"]}\' | relative_url }}}}">'
             + html.escape(s['lit_doc'].replace('%s', r['ref'], 1).replace('%s', str(r['letter_id']), 1))
             + f' ({doc_date(r, lang)})</a>'
-            for r in ln['docs']) + '</p>')
+            for r in ln['docs'] if r['uid'] in uids) + '</p>')
     out.append('</aside>{% raw %}')
     return out
 
@@ -333,6 +386,10 @@ def main():
             'note_en', 'note_de', 'account_en', 'account_de')}
         if not listing_row['parent']:       # Liquid reads "" as true
             del listing_row['parent']
+        # the number of passages with a Related entry, for the toggle button
+        n_related = sum(1 for p in ps if f"{slug}/{p['key']}" in at)
+        if n_related:
+            listing_row['related'] = n_related
         listing.append(listing_row | card_extra(w)
                        | {'pages': sum(1 for p in ps if p['page'])})
         for lang, (folder, base, other) in BASES.items():
@@ -342,8 +399,12 @@ def main():
             body.append(' '.join(f'<a href="#p-{k}">{v}</a>' for k, v in jumps if v))
             body.append('</nav>')
             for i, p in enumerate(ps):
-                body += ['', f'<section class="lit-passage" id="p-{p["key"]}">',
-                         f'<h2 class="lit-loc"><a href="#p-{p["key"]}">{label(p, s)}</a></h2>']
+                pk = p['key']
+                lns = at.get(f'{slug}/{pk}', [])
+                body += ['', f'<section class="lit-passage'
+                             f'{" has-related" if lns else ""}" id="p-{pk}">',
+                         '<div class="lit-main">',
+                         f'<h2 class="lit-loc"><a href="#p-{pk}">{label(p, s)}</a></h2>']
                 body += figure(slug, p['key'], w.get('figures') or {}, w['cite'], s)
                 pairs = (((orig, 'lit-only'),) if orig == 'en'
                          else ((orig, 'lit-orig'), ('en', 'lit-en')))
@@ -356,8 +417,9 @@ def main():
                     else:
                         body += [f'<div class="{cls}" lang="{lg}" markdown="1">', '',
                                  render(t), '', '</div>']
-                if f'{slug}/{p["key"]}' in at:
-                    body += links_box(at[f'{slug}/{p["key"]}'], s, lang)
+                body.append('</div>')
+                if lns:
+                    body += links_box(lns, f'{slug}/{pk}', s, lang)
                 body.append('</section>')
             body.append('{% endraw %}')
             fm = ['---',
@@ -418,29 +480,36 @@ def main():
         yaml.safe_dump(listing, f, allow_unicode=True, sort_keys=False, width=1000)
 
     # The "In the literature" entry beside each linked document (letter.html):
-    # each link's sentence, then its passages by work, with their labels.
+    # each link's sentence, then the passages where that document belongs
+    # (its passage's `about:` may name fewer), by work, with their labels.
     by_slug = {w['slug']: w for w in works}
     per_doc = {}
     for ln in links:
-        ws = []
-        for pk in ln['passages']:
-            slug, _, key = pk.partition('/')
-            w = by_slug[slug]
-            if not ws or ws[-1]['work'] != slug:
-                ws.append({'work': slug, 'cite': w['cite'], 'pages': []})
-            p = next(p for p in w['passages'] if p['key'] == key)
-            ws[-1]['pages'].append({'key': key, 'en': label(p, strings['en']),
-                                    'de': label(p, strings['de'])})
         for r in ln['docs']:
-            per_doc.setdefault(r['uid'], []).append(
+            uid = r['uid']
+            ws = []
+            for pk in ln['passages']:
+                if uid not in ln['notes'][pk]['documents']:
+                    continue
+                slug, _, key = pk.partition('/')
+                w = by_slug[slug]
+                if not ws or ws[-1]['work'] != slug:
+                    ws.append({'work': slug, 'cite': w['cite'], 'pages': []})
+                p = next(p for p in w['passages'] if p['key'] == key)
+                ws[-1]['pages'].append({'key': key, 'en': label(p, strings['en']),
+                                        'de': label(p, strings['de'])})
+            if not ws:                  # cannot happen: the build checks it
+                continue
+            per_doc.setdefault(uid, []).append(
                 {'id': ln['id'], 'en': ln['en'], 'de': ln['de'],
-                 'works': json.loads(json.dumps(ws))})   # a copy: no YAML aliases
+                 'works': ws})
     with open(os.path.join(SITE, '_data', 'literature_links.yml'), 'w',
               encoding='utf-8', newline='\n') as f:
         f.write('# Generated by pipeline/literature/literature_site.py from\n'
                 '# literature/links.yml: the passages tied by hand to each document.\n')
         yaml.safe_dump(per_doc, f, allow_unicode=True, sort_keys=True, width=1000)
-    print(f'{len(links)} hand-made links: {len(at)} passages, {len(per_doc)} documents')
+    print(f'{len(links)} hand-made links: {sum(len(v) for v in at.values())} passage entries,'
+          f' {len(per_doc)} documents')
     print(f'wrote {len(shown)} works to site/_literature/ and site/_literature_de/'
           + (f"; summary only: {', '.join(hidden)}" if hidden else ''))
 

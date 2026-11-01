@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -51,9 +52,11 @@ See part I, page 19.
 : Goethe.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-13">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-13">S. 13</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -73,9 +76,11 @@ Poland, as is known, was never for centuries joined with the House of Brandenbur
 First Frederick the Great began to take this rude nation under his eye, and drew the greatest advantages from that land; through the repeated partitions a considerable part of that realm fell at last to the House of Prussia. Frederick the Great and Wise at once expended great sums on the districts that had fallen to him, and formed, through the tireless activity of the persons sent thither, a happy little land. A like lot, however, did not befall the Poles that fell to Prussia in the second and third partitions under Frederick William II. This warm-hearted monarch indeed wished the best for his new and old subjects; but through the all-too-great trust which the most honest of monarchs placed in his ministers, his well-meaning will remained unfulfilled. Through
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-14">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-14">S. 14</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -91,9 +96,11 @@ the pettifogging conduct of the judicial officials everything became confused, a
 The saddest event that befell the province was that Minister von Voss became its administrator. — He at once ordered, under the supervision of the Privy Finance Councillor Schulz, the classification of the estates, or of all lands. This was fitting, and must necessarily precede any true organisation. But when, as was the case here, self-interested superiors held the tiller and chose the dregs of mankind for their helpers, not only was the good purpose lost; the foundation-stone was thereby laid of the insurrection that soon followed. Before this the Pole had the highest idea of all Prussian constitutions, and never believed that a Prussian official could be bought; but when the classification commissioners not only allowed themselves to be bribed, but gave themselves up besides to the vice of drink and all manner of excess, then the Pole loaded not only these but the whole new government with the deepest disdain and swore in his heart revenge against it. The conduct of these men was indeed too striking; for in former times the Poles gave of their substance 10 per cent; under the Voss or Schulz classification commission the dues of many estates, where for example a War Councillor v. Reisewitz and others of his kind had made the classification, would scarcely have amounted to 5 per cent against the old rate. That the good monarch might be offered a show, a beginning was made, on the secret proposal of War Councillor Noldichen, with the beautifying of the towns. The good king gave building moneys and other aid for it,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-15">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-15">S. 15</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -113,9 +120,11 @@ If meanwhile the self-interest of the classification commissioners and the camer
 Pale, naked and bare, those whom Herr v. Goldbeck appointed to Poland, or properly in the province of Warsaw, came in here. An army of judicial commissioners, ragged and torn, followed them; officials with hollow eyes and withered bodies crept after; the heralds of that justice which was now to fall to everyone's lot were in truth these ragged advocates; starving with hunger, they borrowed from the Jew, who is wont to venture his money every way — the Jew, who once in Poland was only a half-man and, like the peasant and the subject, might never bring a complaint against a nobleman, pricked up his ears when these rascals promised them wonders in the tone of market criers; above all that they, the Jews, were to be the very same
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-16">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-16">S. 16</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -127,9 +136,11 @@ sollten, was der Edelmann wäre. Gleich erhoben die Juden und deutschen Bauern H
 as the nobleman. Straightway Jews and German peasants raised hundreds of lawsuits against their lords; the advocates filled their purses, hastened to the noblemen, betrayed to them the mind of the Jews and peasants, and conspired to keep the nobleman in his rights. The nobleman, enraged at this cruelty, prayed heaven and hell for vengeance, but at last gave the pettifogger his gold, his equipages and what was dearest to him — the advocate shared with his friends and at last wrote the judgment in favour of him who had sacrificed the most. The result was that the advocates and their following had within the first quarter-year the furniture and equipages, fed from the finest porcelain or silver and lived in perpetual revelry. That their plunder might not be torn from them again, they secured themselves a following also in the Tribunal at Berlin. A certain Kütz had in Berlin the Tribunal Councillor v. L. and v. J.; and so everyone his party, so that to the horror of mankind sentences and judgments went out from thence at which horror and dismay seized mankind. Only to him who had money did everything succeed; the advocate travelled with his client to Berlin, recommended him, his ducats and bijouteries, and his suit was decided and won for ever. Now the way was made plain to this rabble, and all too soon both the one and the other passed from filouterie to downright swindling; the money of the misled noblemen, Jews and subjects flowed continually into the purses of these villains; but not content with this, they strove
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-17">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-17">S. 17</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -149,9 +160,11 @@ Meanwhile — what is also to be remarked here — after scarcely 1½ years of P
 The Poles now complained loudly of the harshest oppressions which Minister v. Voss was said to have
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-18">
+<section class="lit-passage has-related" id="p-18">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-18">S. 18</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -179,14 +192,16 @@ An honest man (War Councillor v. Triebenfeld) helped Hoym out of this need. He c
 Count Hoym had wished only 5 per cent more, and was very much surprised when the honest man brought him the Poles' resolution; nay, he was so moved that for the present he would have nothing said of the tax in kind.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>Dorow (1843) druckt nach einer Handschrift, die der Beamte ihm 1813 einreichte, Triebenfelds eigene Denkschrift darüber, wie die Klassifikationen und Taxen Südpreußens besorgt wurden, in der dritten Person erzählt. Derselbe Mann berichtet in seinen Briefen an den Fürsten Hohenlohe, was daraus für seine eigenen Güter wurde: über 700.000 veranschlagt (April 1799), an den Prinzen Georg von Hessen-Darmstadt für 280.000 verkauft (Juli 1800) und für 750.000 weiterverkauft (Februar 1801).</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Die Klassifikationsgeschichte der Denkschrift: Die Polen, von „einem ehrlichen Mann, dem Kriegsrat v. Triebenfeld" gewarnt, bieten 24 Prozent, wo Hoym fünf verlangte, und die Naturalsteuer fällt hinweg. Der ehrliche Mann der Denkschrift ist der Schreiber der Briefe der Edition; was dieselben Jahre ihm brachten, steht in eigener Hand — die Güter, die er verkaufte, mit über 700.000 rt taxiert (April 1799), gegen die 500.000, auf die er sie, wie er sagt, dem Käufer überließ.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-19">
+<section class="lit-passage has-related" id="p-19">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-19">S. 19</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -202,14 +217,16 @@ The gain for the monarch was considerable; for not only were all the costs of th
 Meanwhile in the course of time all the starosties and clerical estates had been taken in; indeed a few estates of rebels, who would not by any means return, were confiscated. The monarch, created solely to make men happy, bestowed on many worthy, and often also on undeserving, men a part of these estates. This afterwards gave the enemies of Hoym, at whose head stood Ministers Schulenburg, Voss and Struensee, material for placing Hoym in a bad light before the world, and especially with the future ruler, and for tripping him up. Meanwhile Hoym was wholly guiltless in this; the best, good king had only the inclination to do good, and he commanded — who would have dared to contradict? Nevertheless several cabinet orders were, in the last period, set aside by the then departmental councillor who handled this branch (War Councillor v. Triebenfeld). Thus, for example, General Count Wartensleben was to have had the great office of Krewe, Count Schmettau the Klunero starosty, Privy Councillor Count Carmer the
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>Dorow (1843) druckt nach einer Handschrift, die der Beamte ihm 1813 einreichte, Triebenfelds eigene Denkschrift darüber, wie die Klassifikationen und Taxen Südpreußens besorgt wurden, in der dritten Person erzählt. Derselbe Mann berichtet in seinen Briefen an den Fürsten Hohenlohe, was daraus für seine eigenen Güter wurde: über 700.000 veranschlagt (April 1799), an den Prinzen Georg von Hessen-Darmstadt für 280.000 verkauft (Juli 1800) und für 750.000 weiterverkauft (Februar 1801).</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Die Denkschrift schließt auf den Lohn ihres Helden: Hoym belobt, und der Patriot „hatte für seine Mühe und Kosten nichts bekommen", obwohl es seine Stelle war, die die Kabinettsorderen, womit die konfiszierten Güter verschenkt wurden, beiseite setzte. Die Briefe zeigen, was dieselbe Laufbahn bis dahin gemacht hatte: die an den Prinzen Georg verkauften Güter mit 270.000 rt Schulden bei einem Preis von 280.000 beschwert (Juli 1800) und für 750.000 weiterverkauft (Februar 1801) — ihr Schreiber bittet, vor der Verhaftung bewahrt zu bleiben.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-20">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-20">S. 20</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -225,9 +242,11 @@ Moschin starosty, and so forth. This alone was a bold stroke, and all these men,
 The warm-hearted king died in 1797. Hoym did not care to go unsummoned to Berlin; Schulenburg thereby gained time; he pressed himself into the presence of the present king's Majesty; his first aim was to overthrow Hoym. He had Held make pasquils against Hoym, Goldbeck and Triebenfeld, with Struensee. This was the most rabid nonsense and nothing but clumsy calumny. Yet the pasquil was read everywhere. The monarch, however, animated by the same exalted goodness of heart as his late majesty the king his father, lent envy not quite his ear, and Hoym remained minister nevertheless; Schulenburg therefore took refuge in stratagem — he wrote to Hoym that the king was displeased with his South Prussian administration, that the monarch would gladly see him give up the South Prussian department of himself. Hoym, weighed down too by sundry weaknesses, fell into the trap and begged the king to take the department off his hands, quaest. [i.e. for money]. Now Schulenburg was victor; he followed up this victory harshly. Hoym's deadly enemy, Minister v. Voss, at once received the South Prussian department again, accompanied by the Red Eagle order and with a cabinet letter which was made public in the newspapers, whereby Voss was exalted to the heavens and Hoym cast to the antipodes. Too late Hoym saw his error and chafed that Schulenburg had become his master in craft. Hoym, however, soon pulled himself together and through a certain Gentz turned the matter so that he was summoned to Berlin. He sacrificed
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-21">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-21">S. 21</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -239,9 +258,11 @@ Summen und erhielt am Ende den Auftrag für alle Minister und eigentlich für al
 sums and received at the end the commission to draw up a thorough organisation for all ministers, and indeed for all departments. Had Hoym used this confidence of the king, he would have had the greatest sphere of action and could have made the land happy. Intoxicated by this happy chance, however, Hoym grew lazy and transferred everything to his supposed bosom-friend, the etc. Gentz, with the Privy Finance Councillor v. Prittwitz. Schulenburg, who quickly discovered this, sought to gain both these heroes thereby: he gave the one — namely Gentz — money in plenty, and assured the other in the most solemn manner that, when Hoym was overthrown, he would surely make him the directing minister of Silesia. Now Gentz drew up with Prittwitz this and that; they laid it before Schulenburg, and what did not please him was struck out and nonsense inserted in its place, aimed only at the land's hurt — the result was that, despite the several monitions Hoym received, the whole business came wholly to a standstill. — Schulenburg and Voss exulted and did only what was useful to themselves alone and seemed to them good. Not only South Prussia's inhabitants murmured aloud, but the whole land felt the pressure of these two men. Hoym had assured the Poles, in that period when they so willingly consented to the higher dues, that he would bring about a credit system; the Poles now begged Voss importunately for it. The minister's mind, however, was never to let the Poles organise a Landschaft among themselves, because he feared his private timber and especially his grain trade would not henceforth turn out so profitable for him,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-22">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-22">S. 22</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -253,9 +274,11 @@ fallen, — um so mehr als er für die großen Überschüsse, welche ihm der Hol
 — all the more as he wished to buy estates in South Prussia with the great surpluses which the timber trade yielded him. The outcry of the Poles over the continued stepmotherly treatment grew, however, till one found oneself obliged at last to grant the Poles some credit. In the Bank, in the Widows', Invalids', Sea-Trade and Pupils' funds lay some moneys, and especially many papers, bearing 2—3 and at most 4 per cent interest. It was now proposed to the king that this money could be laid out in South Prussia more advantageously and at higher percentages for the general good. The monarch, in the belief that he was helping his South Prussia, gladly consented and approved the minister's proposal. This was hardly known to the Poles when they too came already in shoals and begged for loans. To every credit-seeker were made known the conditions under which they could receive money. It was required that the mortgage notes and valuations of the estates on which money was to be lent should be submitted for examination. The Poles, soon instructed by Jews and jurists, quickly produced valuations which exceeded the worth of the estates 3 to 4 times. So it was, for example, with the estates which Prince Karl George of Hessen had bought in South Prussia. He bought for circa 230,000 thalers, and the valuation, which a certain Wildeganns conducted, and which cost the prince about 3500 thalers, came out at 800,000 thalers. The valuers were a certain Cameral Councillor Korn and Justiciary Councillor Schröter. The prince hastened with this valuation to the Widows' fund and to the Pupils' college. A certain Michelis was the justiciary of the Widows' fund. He examined the valuations for 100 ducats,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-23">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-23">S. 23</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -279,9 +302,11 @@ proxeneticum [brokerage] to be deducted from the 200,000 thalers at the very pay
 "Despite many harshnesses, hostile and untrue statements, the essay of War Councillor v. T. is yet a glorious
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-24">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-24">S. 24</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -292,6 +317,7 @@ Beispiel von unsrer jezigen Verwaltung und von den Grundsätzen, nach welchen je
 
 example of our present administration and of the principles by which the government now acts; and therefore it deserves, as a reproachful example for the ever-dissatisfied complainers about everything that happens among us, not to be lost," — these were the words of Prince v. Hardenberg, when D. [Dorow] communicated the writing to him in November 1816 in Berlin.
 
+</div>
 </div>
 </section>
 {% endraw %}

@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -66,9 +67,11 @@ Günther Wolff at Plauen in the Vogtland.
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-7">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-7">p. 7</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -96,9 +99,11 @@ The Reformation movement in Germany found a strong echo also in Poland, favored 
 <span class="lit-note" id="n-en-2">p7-2</span> 2) D. Joseph Th. Müller, Geschichte der Böhmischen Brüder, vol. 3, pp. 152 f. Herrnhut 1931.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-8">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-8">p. 8</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -134,9 +139,11 @@ After 1863/64 a standstill is to be observed in the colonization movement. The s
 <span class="lit-note" id="n-en-6">p8-5</span> 5) Cf. Zduńska Wola, Przedecz, Turek.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-9">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-9">p. 9</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -164,9 +171,11 @@ By the turn of the 18th century there were in the Kalisch land 15, in the Warthe
 <span class="lit-note" id="n-en-8">p9-7a</span> 7a) Main Archive Warsaw SPZ, Acta Generalia, V 119, Vol. 1.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-10">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-10">p. 10</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -190,9 +199,11 @@ All evangelical-Augsburg congregations that took shape after 1775 on the territo
 <span class="lit-note" id="n-en-9">p10-8</span> 8) State Archive Posen. SPZ, Generalia B I 62, Vol. 1 ("Verzeichnis aller unter dem Konsistorio zu Fraustadt stehenden evangelischen Kirchen U. A. C. und derer an denselben sich befindenden Prediger . . .").
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-10-u1">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-10-u1">unnumbered page after p. 10</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -204,9 +215,11 @@ All evangelical-Augsburg congregations that took shape after 1775 on the territo
 (Portrait plate.) Consistorial councilor Superintendent Herzberg, […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-10-u2">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-10-u2">unnumbered page after p. 10</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -218,9 +231,11 @@ All evangelical-Augsburg congregations that took shape after 1775 on the territo
 (Portrait plate.) Ernst Johann August v. Modl. Consistorial councilor and superintendent of the Kalisch diocese. […] Superintendent von Modl,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-11">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-11">p. 11</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -248,9 +263,11 @@ As early as 1807/8 Pastor Karl Diehl, the Reformed consistorial president in War
 <span class="lit-note" id="n-en-12">p11-11</span> 11) The author intends to treat "the evangelical-Lutheran school and church system in central Poland in the Prussian period" exhaustively in a separate publication.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-12">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-12">p. 12</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -274,9 +291,11 @@ The church law of February 8/20, 1849 dissolved the union between the Lutherans 
 <span class="lit-note" id="n-en-13">p12-12</span> 12) Georg Schulz, Unions- und Verfassungsbestrebungen der protestantischen Kirchen im Großherzogtum Warschau . . ., pp. 10 f., 42 ff. Separate impression from issue 18 of the Deutschen Wissenschaftl. Zeitschrift für Polen (edited by Dr. Alfred Lattermann). — On page 8 Schulz writes: "Über den Präsidenten (des evangelischen Konsistoriums des Bromberger Departements) fehlt jede Angabe" [Of the president (of the evangelical consistory of the Bromberg department) every statement is lacking]. — The consistorial president was named Leunerth.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-13">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-13">p. 13</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -300,9 +319,11 @@ Superintendent von Modl was, although not entirely free of rationalistic influen
 <span class="lit-note" id="n-en-15">p13-14</span> 14) The records show how heavily he was burdened in particular also with written work. His reports, letters and the like constitute an important source of the historical development of a whole number of congregations.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-14">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-14">p. 14</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -326,9 +347,11 @@ After Sup. von Modl's death, on May 24/June 6, 1861 Pastor Franz Johann Wladisla
 <span class="lit-note" id="n-en-17">p14-16</span> 16) Zwiastun Ewangeliczny, Jahrg. 1907, p. 79.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-15">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-15">p. 15</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -356,9 +379,11 @@ According to the new church law, which will presumably come into force in the co
 <span class="lit-note" id="n-en-18">p15-17</span> 17) The author takes the school system into detailed consideration in the presentation of the individual congregations. As far as the German schools are concerned it is legally and factually quite confused, because it depends too much on the discretion of the respective school inspectors.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-16">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-16">p. 16</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -502,9 +527,11 @@ Total number of churches . . . in the diocese: 23
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -536,9 +563,11 @@ The environs of Kalisch show German settlers already in early times. Around 1280
 <span class="lit-note" id="n-en-21">p55-2</span> 2) Dr. Alfred Lattermann, Mittelalterliches Deutschtum in Kongreßpolen, III, "Freie Presse" Lodz of January 3, 1936. Cf. on this K. Stefański, Mieszczaństwo Kaliskie w XVI w., pp. 6, 9, 16, 26 f. Kalisch 1933.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-56">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-56">p. 56</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -570,9 +599,11 @@ The Protestants in Kalisch were in the long run unable to withstand the onslaugh
 <span class="lit-note" id="n-en-24">p56-5</span> 5) Eduard Stawecki, Album Kaliskie, Warsaw 1859, pp. 13 ff. (Kościół Pojezuicki). Also Cezar Biernacki, Jezuici w Kaliszu (1581—1775), especially pp. 416 ff. (Rektorowie Kollegjum). It is striking that among the rectors of the Kalisch monastery house many occur with German names; "Piotr Fabrycy, Jan Wuchaljusz (Leopolita), Krysztof Angel, Andrzej Gutteter, Tomasz Thyll, Reinhold Gert, Hennemberk v. Stannemberg Godefridus, Jan Stoltman" and others.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -596,9 +627,11 @@ Through the second partition of Poland (1793) Kalisch fell to Prussia. Into the 
 <span class="lit-note" id="n-en-26">p57-7</span> 7) In the year 1603 Karnkowski died and was buried in the Jesuit church. Shortly before the handing over of the church to the Evangelicals his earthly remains were transferred, among others, to a Catholic house of God (presumably the present St. Joseph's church).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-58">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-58">p. 58</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -634,9 +667,11 @@ In the course of time there made itself felt within the congregation the desire 
 <span class="lit-note" id="n-en-29">p58-10</span> 10) From him comes the "Kirchen-Buch, angefangen im Jahr Chr. 1795, den 5. August von Karl Christian Sienell, zeitigen Prediger und Seelsorger der evang.-lutherischen Gemeinde zu Kalisch" [Church book, begun in the year of Christ 1795, on August 5, by Karl Christian Sienell, then pastor and shepherd of souls of the evangelical-Lutheran congregation at Kalisch].
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-59">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-59">p. 59</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -660,9 +695,11 @@ The founding of an evangelical school at Kalisch received the greatest attention
 On November 20, 1858 the Kalisch Evangelicals Dr. Adolf Sturm, Stanislaus Kossecki, Johann Niedomański, the notary Emiljan Ordon and K. Dabenbuth turned to the consistory with the request
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-60">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-60">p. 60</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -694,9 +731,11 @@ On July 16, 1904 Pastor Haberkant celebrated his 50-year jubilee of office, in w
 <span class="lit-note" id="n-en-30">p60-11</span> 11) Zwiastun Ewangeliczny, Jahrg. 1869, pp. 191 f.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-60-u1">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-60-u1">unnumbered page after p. 60</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -708,9 +747,11 @@ Die evang.-augsburgische Kirche in Kalisch.
 The evangelical-Augsburg church at Kalisch.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-61">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-61">p. 61</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -734,9 +775,11 @@ The congregational meeting that took place on December 1, 1912 resolved to sell 
 <span class="lit-note" id="n-en-31">p61-12</span> 12) Zw. Ewang., Jahrg. 1910 pp. 57 and 58. Unsere Kirche, Jahrg. 1909, p. 396.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-62">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-62">p. 62</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -764,9 +807,11 @@ In the year 1922 the church was renovated; in 1930 three bells were procured in 
 <span class="lit-note" id="n-en-32">p62-13</span> 13) In 1817 Benjamin Repphan founded a large cloth factory at Kalisch, which was dissolved in 1910. Its last owner Emil Repphan emigrated to Germany (Berlin). Emil Repphan endowed the city of Berlin by deed of gift of December 27/29, 1913 with 5 million marks for the establishment and maintenance of a forest school, the "Repphan'sche Waldschulstiftung der Stadt Berlin" [Repphan forest-school foundation of the city of Berlin]. The donation, burdened with a life annuity, was accepted by resolution of the municipal corporations of January 15, 1914. By supreme decree of April 27, 1914 the acceptance of the donation was approved. The founder Emil Repphan died on March 30, 1931, his widow Marie Repphan née Jouin on March 12, 1932. (Letter of the lord mayor of Berlin of September 4, 1936.) — To his home town of Kalisch Repphan likewise endowed larger sums of money, among other things also for school purposes. — In 1824 Adolf Fiedler erected a cloth factory at Opatówek, which was later bought from him by Nitsche. It exists no more.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-63">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-63">p. 63</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -798,9 +843,11 @@ On Sunday, December 4, 1932, the Kalisch singing society celebrated its 75-year 
 <span class="lit-note" id="n-en-35">p63-16</span> 16) Pastor Paul Otto, Die Geschichte der Christlichen Gemeinschaft in Polen . . ., pp. 44 and 45.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-64">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-64">p. 64</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -912,9 +959,11 @@ Kurz, 1799; Johann Philipp Fraetzer, 1817–1824; Wilhelm Winkler, 1824–1842; 
 <span class="lit-note" id="n-en-37">p64-18</span> 18) Zwiastun Ewangeliczny, Jahrg. 1934, p. 388 (No. 49): Z obchodu 25-lecia Ew. Domu Starców w Kaliszu [On the celebration of the 25th anniversary of the evangelical old people's home at Kalisch].
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-65">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-65">p. 65</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1026,9 +1075,11 @@ Sunday school (in the Christliche Gemeinschaft); welfare committee at the home f
 Christliche Gemeinschaft. Preacher Alfred Hoffert.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-66">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-66">p. 66</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1118,9 +1169,11 @@ Affiliated localities.
 Kalisch, Opatówek, Dembe and Nakwasin.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-67">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-67">p. 67</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1144,9 +1197,11 @@ In the year 1772 the German-evangelical villages of Borowiec, Konary, Grunde and
 <span class="lit-note" id="n-en-39">p67-2</span> 2) The contract is divided into 15 sections and treats in detailed fashion all the duties arising from it, both of Count von Stadnicki as founder and patron of the congregation of Grodziec and of the colonists settled around Grodziec as co-founders of the parish.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-68">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-68">p. 68</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1186,9 +1241,11 @@ After Pastor Rissmann the pastorate was assumed in 1815 by Pastor Johann Stegman
 <span class="lit-note" id="n-en-43">p68-5a</span> 5a) At Krojanke he was in office from 1788 to 1815, where his wife Julianne Adelgunde née Teubel bore him 8 children. (Communicated by Pastor Bohn of Krojanke, county Flatow, frontier province Posen-West Prussia.)
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-69">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-69">p. 69</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1212,9 +1269,11 @@ The Polish-Russian war of 1830/31 involved the congregation in suffering. It was
 The parish, vacant from 1831 to 1832, then received in the person of Pastor Joseph Spleszyński a new shepherd of souls. In his work he directed his attention chiefly to the building of a new church, whose necessity he recognized, the more so as the old house of God was quite dilapidated and almost unusable. On September 1, 1834 a meeting took place in the matter of the church building, at which, besides the local pastor, Sup. Modl of Kalisch also took part, as well as the church elders: Gottfried Kurtz of Grodziec, August Matheke of Alt-Grądy, Georg Heintz of Borowiec, Gottlieb Janott of Konary, Gottfried Reich of Wielołęka, Gottlieb Drewitsch of Neu-Grądy, Johann Rentz of Białobłoty and Christoph Polsfuth of Klein-Orlin. There appeared further, at this exceedingly important deliberation, the village headmen of the congregation: Michael Lempke of Borowiec, Andreas Fengler of Konary, Gottfried Gützel of Wielołęka and Gottfried Splistösser of Neu-Grądy. Those assembled resolved to build a new church with seating room for 800 persons. Plan and cost estimate were prepared by the voivodeship building councilor Reinstein at Kalisch. For the examination of the cost estimate Pastor Spleczyński held on October 5 of that year a second consultation with the church elders, the cantorate elders and the village headmen, at which the covering of the church with roof tiles (not with sheet zinc, as had at first been intended) and the procurement of the building material were negotiated. At the instigation of the Kalisch voivodeship there was drawn up on November 18, 1834, in the presence of Sup. Modl, building councilor Reinstein and the church council of Grodziec, a protocol concerning the complete unusability of the old house of God and the pressing necessity of the church building. Shortly thereafter the cost estimate of 47,209 zt.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-70">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-70">p. 70</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1238,9 +1297,11 @@ Count von Bieliński, the later lord of Grodziec, showed at first understanding 
 <span class="lit-note" id="n-en-44">p70-6</span> 6) On June 19, 1849 appointed superintendent of the evangelical-Reformed church in Poland. He is known also as the author of Polish-evangelical hymns, of a Reformed catechism and as editor of a Polish hymnal for the Reformed church. Pastor Spleszyński died a sudden death in 1879 in the church during the performance of a wedding (Zwiastun Ewangeliczny, Jahrg. 1879, pp. 114 ff. Ks. Władysław Semadeni, Z dziejów zboru ewangelicko-reformowanego w Warszawie, 1927, pp. 18 and 19).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-71">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-71">p. 71</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1264,9 +1325,11 @@ The church building took on ever more tangible shape. On August 14, 1843 the cou
 Meanwhile the old dilapidated church threatened to collapse. Therefore the authorities saw themselves compelled to order the sealing of the church. This took place on October 24, 1850. By this measure the holding of divine services met with difficulties, for the uncompleted new house of God could not yet be used. In consequence the church council of Grodziec petitioned the county office at Konin to have the old church repaired so far until the new one should be built. The county office, however, did not consent to this. It is to be assumed that the divine services took place in the open air for lack of a suitable room. At Whitsuntide 1852 the congregation celebrated its first divine service in the church, not yet fitted out within. It did so reluctantly, in the fear that the further building might thereby be hindered. Sup. Modl sought to dispel these misgivings. In the letter of May 26, 1852 he encouraged "his dear parish children at Grodziec" not to despair but to trust in the success of the work begun
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-72">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-72">p. 72</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1294,9 +1357,11 @@ On March 9, 1868 fire broke out on the parsonage premises, which burned to ashes
 <span class="lit-note" id="n-en-45">p72-7</span> 7) Pastor Ulbrich: Der Bau der neuen evangelischen Kirche zu Grodziec, Friedensbote 1930, No. 50, pp. 4 ff. — The author sets forth the church building here so circumstantially in order to convey the impression what great difficulties the erection of churches and houses of prayer often encountered in our congregations.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-73">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-73">p. 73</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1328,9 +1393,11 @@ After his death the parish was administered by Pastor Erdmann of Zagórów, who 
 The administration of Grodziec was entrusted by the consistory to Pastor Joseph Rosenberg of Stawiszyn, who visited it until 1894. From 1894 to 1898 (April) Pastor August Loth labored here, at present first pastor of the Warsaw evangelical-Lutheran congregation. According to the annual report of 1895 there dwelt at that time within the bounds of the parish 20 Reformed persons, whom the pastor of Żychlin cared for spiritually. On April 13, 1898 Pastor Loth petitioned the consistory to relieve him of the direction of the Grodziec pastorate and to appoint him admini-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-74">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-74">p. 74</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1358,9 +1425,11 @@ As the farm buildings had burned down, he built new ones in 1923. In the years 1
 <span class="lit-note" id="n-en-46">p74-8</span> 8) The author remembers still vividly that autumn day of the year 1914 on which Pastor Buse, with 3 or 4 other evangelical fellow-sufferers, sitting on a wagon, surrounded by about 15 Cossacks, drove through the author's home town of Władysławów. The wagon halted before the commune office at Russosice (in the immediate vicinity of Władysławów). Many of the curious hastened thither. "We have taken spies — said the Cossacks — and among them is also the pastor of Grodziec". The author, who was present there, approached the wagon to see the pastor and the fellow prisoners. Sad and downcast they sat there. —
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-75">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-75">p. 75</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1432,9 +1501,11 @@ August Loth, 1894–1898.
 <span class="lit-note" id="n-en-47">p75-9</span> 9) The "Rocznik Ewangelicki 1925" gives for 1923 only 5700 souls. According to the number of births that is much too low. — In the vicinity of the church at Grodziec there dwells pretty nearly the half of the congregation. The other half is distributed among the 5 cantorates of the parish.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-76">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-76">p. 76</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1558,9 +1629,11 @@ Church councils.
 <span class="lit-note" id="n-en-50">p76-12</span> 12) He received 30 rubles salary yearly, free dwelling and other "unimportant fees".
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-77">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-77">p. 77</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1664,9 +1737,11 @@ Schools with Polish as language of instruction, visited by evangelical children.
 <span class="lit-note" id="n-en-51">p77-13</span> 13) The school conditions are subject to constant fluctuations.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-78">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-78">p. 78</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1754,9 +1829,11 @@ Social structure.
 Within the parish there are no evangelical estate owners; it consists chiefly of small farmers (with 7.5 Morgen of land each) and agricultural laborers, the so-called Sachsengänger (seasonal workers in Saxony).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-79">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-79">p. 79</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1834,9 +1911,11 @@ Gmina Szymanowice, county Konin: Świerczyna, Toporów, (formerly county Słupca
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-163">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-163">p. 163</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1860,9 +1939,11 @@ The county town of Konin on the Warthe is a foundation under German law (13th ce
 <span class="lit-note" id="n-en-53">p163-2</span> 2) Werner-Steffani, Geschichte der evangelischen Parochien in der Provinz Posen, p. 414.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-164">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-164">p. 164</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1886,9 +1967,11 @@ Since Pastor Bothe, notwithstanding the calling of P. Drechsler to Slesin, conti
 <span class="lit-note" id="n-en-55">p164-4</span> 4) Werner-Steffani, Geschichte . . ., p. 245 gives as the year of P. Drechsler's entry upon office in Slesin 1809; more correctly 1811.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-165">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-165">p. 165</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1920,9 +2003,11 @@ On September 25, 1820 the Konin Evangelicals bought from the married couple Chri
 <span class="lit-note" id="n-en-58">p165-7</span> 7) Among others, at the Pontnower Hol. Martin Gatzke was school-holder in 1783.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-166">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-166">p. 166</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1958,9 +2043,11 @@ A serious time broke in upon the congregation of Konin after the death of its fi
 <span class="lit-note" id="n-en-62">p166-11</span> 11) Busch, Beiträge zur Geschichte und Statistik . . ., p. 146.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-167">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-167">p. 167</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1984,9 +2071,11 @@ In the year 1840 Pastor Hinz built the present brick parsonage. In 1843 he found
 On June 10, 1876 and June 4, 1880 Gen.-Sup. Bishop Everth visited the Konin parish. He was very well satisfied with the state and the direction of the church system and thanked the "worthy pastor, whom he commended to the divine assistance of grace for the further faithful conduct of his office." After 45 years of blessed service, on August 28, 1882, Pastor Justus Hermann Otto Hinz departed this life. The congregation of Konin preserved a faithful remembrance of its shepherd of souls.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-168">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-168">p. 168</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2010,9 +2099,11 @@ On the high holidays the house of God built in the year 1854 was much too small 
 After the completion of these works there arose the necessity of providing for the interior fitting out and a worthy furnishing of the house of God. Therefore the local pastor held a congregational meeting on February 14, 1909, at which he reported upon the works still to be executed
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-169">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-169">p. 169</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2052,9 +2143,11 @@ After Pastor Krempin-Koło had temporarily cared for the congregation of Konin a
 <span class="lit-note" id="n-en-65">p169-14</span> 14) Pastor Eduard Kneifel: "Konin". Volksfreund-Kalender 1932, pp. 73 ff. — Pastor Robert Badke: "100 Jahre evang.-luth. Gemeinde Konin" Hausfreund-Volkskalender 1932, p. 67.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-170">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-170">p. 170</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2174,9 +2267,11 @@ Church councils15).
 <span class="lit-note" id="n-en-66">p170-15</span> 15) Compiled in part from the visitation protocols, since no protocol books of the church council were to be found.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-171">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-171">p. 171</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2280,9 +2375,11 @@ Schools with Polish as language of instruction.
 Bielawy. Cantor Robert Baumgart, about 40 evangelical children.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-172">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-172">p. 172</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2398,9 +2495,11 @@ Amount of the church contribution: 1908: 6 kopecks per Morgen; in the town of Ko
 Salaries 1931: pastor: 500 zlotys monthly (and 200 zlotys monthly from the filial Maślaki. Cantor: 200 zlotys monthly. Sexton: 70 zlotys monthly.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-173">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-173">p. 173</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2488,9 +2587,11 @@ Gmina Tuliszków, county Konin: Dryja.
 \* The numbers of marriages, deaths, communicants and confirmands cannot be given for many a year, because the necessary records concerning them are lacking in the church archive.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-174">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-174">p. 174</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2542,9 +2643,11 @@ Gmina Sławoszewek, county Konin: Rembowo, Makarowo, Sławęcin, Hęlenowo, Dąb
 Gmina Londek, county Konin: Ciążeń-Piotrowa.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-175">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-175">p. 175</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2576,9 +2679,11 @@ Maślaki was also "among the 70 villages" which held to Slesin as their religiou
 <span class="lit-note" id="n-en-69">p175-3</span> 3) Cf. Konin.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-176">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-176">p. 176</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2598,9 +2703,11 @@ Against the choice of Kleczew as filial town Walichnowski, the owner of Slesin, 
 The school building at Maślaki, which had only one room with a chamber, "which served at the same time as dwelling room for the cantor and as room for the school youth," was in the year 1843 in a forlorn state. In 1851 it was rebuilt and enlarged. On July 2, 1850 Pastor Hinz installed as first elementary teacher of Maślaki Ludwig Fiedler, whom he "admonished in a fitting address to the zealous fulfillment of his duties and handed to him, in the presence of the congregation assembled in the little church there, the document of appointment". In 1868 the elementary school here was again transformed into a cantorate school. In the month of March 1870 the county master builder of Słupca and the lord of the manor of Kopydłowo, Julian Kitzmann, inspected the evangelical school, in order to reach a decision concerning its further use. The county master builder declared that the schoolhouse was "no longer usable on account of its age, so that a new building must be erected". In 1881
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-177">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-177">p. 177</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2628,9 +2735,11 @@ On April 29, 1912 the cantor Christoph Möller died, who had served the cantorat
 <span class="lit-note" id="n-en-71">p177-5</span> 5) Johann Schmaltz, Nachruf — Kantor Christoph Möller †. Unsere Kirche, Jahrg. 1912, pp. 173/4.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-178">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-178">p. 178</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2658,9 +2767,11 @@ In the course of the year 1934 the lawsuit between the cantorate of Genowefa and
 <span class="lit-note" id="n-en-72">p178-6</span> 6) Neue Evangelische Kirchen-Zeitung, No. 12, Jahrg. 1935, p. 162.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-179">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-179">p. 179</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2784,9 +2895,11 @@ Kamionki, cantor Bruno Schinzel.
 Doły, cantor Bruno Schinzel.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-180">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-180">p. 180</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2910,9 +3023,11 @@ In the filial there is at present no evangelical teacher; in 1858 there were 10 
 At Karólkowo the colonists emigrated.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-181">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-181">p. 181</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3020,9 +3135,11 @@ Numerical development.
 \* In the cholera year 1852 there died in the filial 137 persons.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-182">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-182">p. 182</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3066,9 +3183,11 @@ Gmina Kazimierz-Biskupi: Józwin.
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-248">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-248">p. 248</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3096,9 +3215,11 @@ The immigration of German-evangelical colonists into the Zagórów region can be
 <span class="lit-note" id="n-en-74">p248-1</span> 1) Albert Breyer. Das Kloster Lond (Unterhaltungsblatt zur "Freien Presse", Jahrg. 1931 Nr. 16). The names of the abbots were: 1. Henricus Butgen 1145, 2. Henricus Buscraff, 3. Theodoricus, 4. Tyllmann, 5. Conradus, 6. Bertholdus 1213, 7. Christianus, 8. Joannes, 9. Philippus, 10. Giselbertus, 11. Jacobus, 12. Gierardus 1313, 13. Engelbertus, 14. Mathias 1325, 15. Gierardus 1399, 16. Bernardus 1417, 17. Henricus Roilen 1418, 18. Hermanus, 19. Sigfridus 1429, 20. Joannes 1433, 21. Joannes Fulich 1437, 22. Mathias 1445, 23. Ludovicus 1463, 24. Cornelius 1483, 25. Henricus 1553.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-249">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-249">p. 249</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3126,9 +3247,11 @@ Weigel's death († 1836 at Breslau) worked out unfavorably in this, that his so
 According to the "Project of the establishment of the evangelical congregation at Zagórów" transmitted in 1836 to the Konin district commissioner
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-250">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-250">p. 250</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3148,9 +3271,11 @@ Meanwhile the choice of Zagórów as parish seat did not meet with the undivided
 In the letter to Sup. Modl of August 30, 1839 the Warsaw general consistory gave expression to its opinion that "in consequence of insufficient means an evangelical congregation in the Zagórów region cannot at present be founded". Although the circumstances compelled abstention from an independent parochial foundation at Zagórów, yet the Evangelicals resolved, at the meeting of July 29, 1840, to establish first a filial at Zagórów and to elect the first church council. Into the church board there were elected: Matthäus Luther, Johann Abramowski, Johann Friedrich Rasch, Johann Eichhorst, Ludwig Neumann and Gottlieb Schnitzer. On January 24, 1841 Pastor Scholtz-Żychlin offered, in his letter to Sup. Modl, to care for the Zagórów Evangelicals, whom he had already visited for 5 years before. Therefore Sup. Modl proposed to the general consistory that Pastor Scholtz be entrusted with the visiting and further development of the filial. The general consistory, however, entrusted on June 28 of this year Pastor Orive of Grodziec with the administration of Zagórów.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-251">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-251">p. 251</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3174,9 +3299,11 @@ In the year 1850 the filial bought a half-timbered house in Zagórów at the Kon
 In 1857 the congregation acquired in Zagórów at the Koninerstr. No. 51 and 52 two little houses, of which the one served as parsonage, the other as kitchen of the parsonage. In 1859 the parsonage was correspondingly fitted up.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-252">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-252">p. 252</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3200,9 +3327,11 @@ Since the Zagórów prayer hall had room for only about 80 persons and was so lo
 <span class="lit-note" id="n-en-75">p252-2</span> 2) "Zwiastun Ewangeliczny", Jahrg. 1912, p. 49. Cf. also Unsere Kirche, Jahrg. 1907, p. 213.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-253">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-253">p. 253</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3230,9 +3359,11 @@ The administration of Zagórów the consistory then entrusted to Pastor Henkel o
 In the year 1890 the sheet-metal roof of the church and of the tower was torn off by the storm wind. The church council expended 760 rubles for the new roofing. Since the parsonage was too small and also otherwise did not answer the needs, the congregational meeting of October 3, 1893 resolved to buy from the married couple Ulatowski, for 2600 rubles, a house which lay opposite the church, as
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-254">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-254">p. 254</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3252,9 +3383,11 @@ For a long time the church council had carried the thought of erecting a new can
 In the year 1923 Pastor Alexander Groß entered upon the pastorate of Zagórów. In place of the bell requisitioned in 1918 by the German occupation authorities a new bell was procured in 1923. In the years 1926/27 the remodeling of the organ was accomplished at an expenditure of 6000 zlotys (in 1910 the organ was repaired). In 1927 there was erected on the parsonage premises a farm building. In 1927 the married couple Ferdinand and Luise Krüger of Olchowo presented, in memory of their son Rudolf Krüger, missing in the Polish-Bolshevist war (1920), the present tower clock, which cost 5000 zlotys
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-255">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-255">p. 255</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3330,9 +3463,11 @@ Alexander Groß, since 1923.
 Outside administrators: Karl Friedrich Orive, 1843–1856; Franz Haessner, 1865–1876; Karl Eduard Erdmann (from Grodziec), 1878–1892; Karl Henkel, 1892–1898; Rudolf Buse, 1903–1914; Otto Krenz, 1914–1915; 1919; Otto Haack, 1916–1918 (local pastoral administrator from the Reich); Adolf Löffler, 1919–1923.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-256">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-256">p. 256</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3432,9 +3567,11 @@ Cemeteries.
 Zagórów, Olchowo, Tarszewo, Chruściki, Michalinów gm. Oleśnica, Michalinów gm. Trąbczyn, Łazińsk, Anielewo and Wrąbczynkowska
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-257">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-257">p. 257</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3542,9 +3679,11 @@ Salaries 1930. Pastor 500 zlotys monthly, 1934: 400 zlotys.
 Cantor 140 zlotys monthly, 1934: 110 zlotys.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-258">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-258">p. 258</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3642,9 +3781,11 @@ gmina Dłusk, county Konin: Wrąbczynek.
 \*\* Together with the communicants from Lissewo-Pyzdry.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-259">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-259">p. 259</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3672,9 +3813,11 @@ Evangelical life in Peisern and its environs is demonstrable only from the Pruss
 <span class="lit-note" id="n-en-77">p259-2</span> 2) State Archive Posen. SPZ, Generalia III B (Acta von Einrichtung der Stadtschulen behufs Erziehung des Bürgers) [Records concerning the establishment of town schools for the education of the burgher].
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-260">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-260">p. 260</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3706,9 +3849,11 @@ The very difficult ecclesiastical conditions required here a stricter gathering 
 <span class="lit-note" id="n-en-79">p260-4</span> 4) Werner-Steffani, Geschichte der evangelischen Parochien in der Provinz Posen, pp. 422 and 423.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-261">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-261">p. 261</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3724,9 +3869,11 @@ ities. It was necessary on the one hand to form a center for the surrounding vil
 In 1843 Pastor Orive wrote to Sup. Modl concerning the decided refusal of the cantorates to take part even in the divine services at the filial seat, the colonists of Lissewo being especially opposed. Thus they even forbade their cantorate teacher Christian Wilhelm Friedrich, on pain of removal from the colony, to attend the divine services held by Pastor Orive at Peisern. The owner of the estates of Ciemierów, Nepomucen Gliszczyński, had the teacher Friedrich come to him repeatedly and declared to him in the presence of the colonists that "if he (Friedrich) should presume to go to Peisern, then he would be removed from his post by the wojt". Gliszczyński intervened in this dispute because he was economically interested also in the closing of the filial at Peisern and its removal to Ciemierów or Lissewo. Enraged by the conduct of Gliszczyński and of the colonists, Pastor Orive proposed to Sup. Modl that the house of prayer at Lissewo be sealed and the cantor there transferred. Sup. Modl did not accede to this rigorous demand. But since the disputes between Peisern and the cantorates did not cease, Sup. Modl visited Peisern on June 18, 1845, in order to learn the conditions on the spot. Sup. Modl established (according to the visitation protocol) the difficult situation of the filial. Thus the Evangelicals at Peisern had a rented hall, in which every 4th Sunday divine services took place, but no teacher and cantor. Of this the filial elders complained to the superintendent, to whom they made known that through the insufficient religious care "many Evangelicals have already gone over to the Catholic church
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-262">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-262">p. 262</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3754,9 +3901,11 @@ The religious-ecclesiastical care of the filial took place from Zagórów, and w
 <span class="lit-note" id="n-en-81">p262-6</span> 6) E. H. Busch, Beiträge . . ., p. 141, gives as the founding date of the filial of Lissewo-Pyzdry the year 1858, while the actual year of foundation is 1842. Since 1857/58 the filial is designated no longer "Pyzdry" but "Lissewo-Pyzdry".
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-263">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-263">p. 263</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3792,9 +3941,11 @@ The cantorate members of Wrąbczynek, a part of the cantorate congregation of Wr
 The filial of Lissewo-Pyzdry has no civil register office and therefore also no filial cantors. Concerning the place where the civil registers are to be kept, the filial members can still come to no agreement. If the Evangelicals of Peisern wish that the civil register office should be there, then in turn the fellow believers of the country demand that Ciemierów be determined as the place of the civil register office, because here
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-264">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-264">p. 264</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3874,9 +4025,11 @@ Church councils.
 No filial church.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-265">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-265">p. 265</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -3972,9 +4125,11 @@ Koszelewska Łąka 1858: cantorate school, teacher Michael Jeß. 1862: teacher a
 At Peisern 20 evangelical children attended in 1934 the general elementary school with 7 classes.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-266">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-266">p. 266</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -4061,6 +4216,7 @@ gmina Szymanowice, county Konin: Wierzchy, Śnietnia, Ostrowska Kolonia.
 
 […]
 
+</div>
 </div>
 </section>
 {% endraw %}

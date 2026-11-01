@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-31">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-31">S. 31</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -61,9 +62,11 @@ On the German side several works appeared on the giveaway of domainal estates in
 <span class="lit-note" id="n-en-2">2</span> Dzieje Wielkopolski, ed. J. Topolski, vol. 2, Poznań 1973, s. 25-26; Dzieje Polski, ed. J. Topolski, Poznań 1981, s. 421. Earlier, on the margin of other questions, the giveaway was touched on by: F. hr. Skarbek, Dzieje Księstwa Warszawskiego, vol. 1, Poznań 1860, s. 49-60; K. Jarochowski, Opowiadania historyczne, Poznań 1860, s. 329-332; W. Smoleński, Rządy pruskie na ziemiach polskich (1793-1807), in Pisma Historyczne, Kraków 1901, vol. 3, s. 169-223, on the "Black Register" s. 213-214, 216; A. Kraushar, Towarzystwo Warszawskie Przyjaciół Nauk, 1800-1832, Kraków 1900, Book 1: Czasy pruskie 1800-1807; K. Krotoski, Dzieje miasta Krotoszyna, part 1, Krotoszyn 1930, s. 324-333; idem, Pruski Kulturträger z końca XVIII wieku, Poznań 1907; K. Jeżowa, Die Bevölkerungs- und Wirtschaftsverhältnisse im westlichen Polen, Gdańsk 1936; J. Willaume, Polsko-pruskie stosunki finansowo-gospodarcze (1807-1813), "Roczniki Historyczne" R. 19, 1952, s. 114-115; idem, Stosunki sąsiedzkie Księstwa Warszawskiego z Prusami, "Przegląd Zachodni" 11/12, 1951, s. 409; idem, Fryderyk August jako książę Warszawski (1807-1815), Poznań 1939.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-32">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-32">S. 32</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -107,9 +110,11 @@ C. Grünhagen, on the other hand, not only came out in defence of the giveaway �
 <span class="lit-note" id="n-en-8">8</span> C. Grünhagen, Die südpreußische Güterverleihungen, s. 254-255.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-33">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-33">S. 33</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -129,9 +134,11 @@ were deflated, or rather that the estates had been terribly ruined — and the t
 <span class="lit-note" id="n-en-10">10</span> Immediat-Bericht des Etats-Minister Hoym, 15 XII 1796; M. Lehmann, op. cit., s. 507; Tableau-, the earlier settlements in Protokoll der Königsberger Konferenz..., in Urkunden, s. 178-179, 227; I. Bussenius gave the settlements that were soon changed, eadem, op. cit., s. 181. H. von Held pointed to the characteristic covering of the donataries by the more favourable tax rate of 24%, J. Löwenberg, Das Enthüllte Posen, Berlin 1849, H. III, s. 23.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-34">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-34">S. 34</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -183,9 +190,11 @@ The register was first published by Joseph Zerboni di Sposetti in the periodical
 <span class="lit-note" id="n-en-18">18</span> K. Jeżowa, op. cit., s. 37-41.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-35">S. 35</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -229,9 +238,11 @@ The archival tax returns that we confronted with the "Black Register" come from 
 <span class="lit-note" id="n-en-25">25</span> M. Philippson, op. cit., s. 289; C. Grünhagen, Die südpreußische Güterverleihungen, s. 257, 269.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-36">S. 36</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -255,9 +266,11 @@ of Hans von Held in the "Black Register" itself. For it was assumed that a lande
 <span class="lit-note" id="n-en-28">28</span> Because of the summary setting together of the estates of Treskow, Hohenlohe and Lüttichau, it was necessary to complete these values from the tax registers and by estimation. These are however insignificant completions.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-37">S. 37</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -305,9 +318,11 @@ Our doubts however took their beginning from the setting together by Adelheid Si
 <span class="lit-note" id="n-en-35">35</span> Immediat-Bericht des Staats-Ministers von Voß, 31 VIII 1805, P. Granier, op. cit., s. 440-442. There is talk of the inclusion of a 450-morgen church estate.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-38">S. 38</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -359,9 +374,11 @@ In 1805 Holsche, on the basis of a similar reckoning, indicated that from the mo
 <span class="lit-note" id="n-en-43">43</span> J. Leskiewiczowa, Próba analizy gospodarki dóbr magnackich w Polsce. Dobra wilanowskie na przełomie XVIII/XIX w., Warszawa 1964, s. 60.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -397,9 +414,11 @@ To answer this question it is necessary to take into account several phenomena o
 <span class="lit-note" id="n-en-47">47</span> On the problem of the state of the Prussian finances see L. Krug, Geschichte der Preußischen Staatsschulden, Vaduz/Liechtenstein 1977 (1st ed. 1861); F. von Schrötter, Das Preußische Münzwesen in 18. Jahrhundert. Münzgeschichtlicher Teil, Bd. 4: Die letzten vierzig Jahre 1765-1806, Berlin 1913; E. Klein, Geschichte der öffentlichen Finanzen in Deutschland (1500-1870), Wiesbaden 1974, s. 60-61; H. Schissler, Preußische Finanzpolitik 1806-1810, Quellen zur Verwaltung der Ministerium Stein und Alienstein, Göttingen 1984, s. 35-64; A. Naude, Der preußische Staatsschatz unter König Friedrich Wilhelm II und seine Erschöpfung, „Forschungen zur Brandenburgischen und Preußischen Geschichte" (cited FBPG), Bd. 5, 1892, s. 203-256; O. Behre, op. cit., s. 103-109; M. Philippson, op. cit., Bd. 2, Leipzig 1882; Schimmelfennig, Preußens Finanzpolitik im Lichte der Tresorscheinen, „Altpreußische Monatsschrift" (cited AM), Bd. 50, 1913, s. 398-452; L. Hellwig, Schulenburg-Kehnert unter Friedrich Wilhelm III (1798-1806), Berlin 1936, s. 12-13; W. M. Bissing, op. cit., s. 163-164 — „Mätressenwirtschaft", s. 164-165; A. Horn, Vom preußischen Gelde, AM, Bd. 5, 1868, s. 48-77.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -417,9 +436,11 @@ In consequence in South Prussia there followed a considerable rise in the prices
 <span class="lit-note" id="n-en-48">48</span> The whole complex of questions bound up with the rise in prices and the sale of the grain of landed estates, with speculation, land credit and land indebtedness and with the mortgage, has been analysed repeatedly in its various aspects. See L. Krug, Betrachtungen, Bd. 1, s. 33, 100-101, 240-242, 284-286, 401-402, 404-408; F. W. A. Bratring, Statistisch-topographische Beschreibung der Gesamten Mark Brandenburg, Berlin 1809, Bd. 3, s. 26; A. Holsche, op. cit., Bd. 3, s. 65-66; T. Schön, Studienreise eines jungen Staatsmanns in England, Berlin 1891, s. 259; Pamiętniki Franciszka Gajewskiego, Poznań 1913, s. 11, 66-67; E. Stawiski, Kronika pewnej wioski od 1790 do 1842, „Biblioteka Warszawska”, 1843, t. IV, s. 659-660; Żywot Tomasza Ostrowskiego ministra Rzeczypospolitej, później prezesa Senatu Księstwa Warszawskiego i Królestwa Polskiego, Paryż 1836, t. 1, s. 179; R. Łubieński, Generał Tomasz Pomian W. Łubieński, Poznań 1899; F. Skarbek, Pamiętniki, Poznań 1878, s. 6-8; idem, Pamiętniki Seglasa, Warszawa 1959, s. 190; idem, Dzieje Księstwa, t. 1, s. 181; I. Miączyński, Uwagi nad teraźniejszym stanem rolnika pod względem ceny zbóż i wydatków iego, Warszawa 1811; idem, O powszechnym moratorium kredytowem, Warszawa 1811; A. Bielski, Sposoby do ocalenia majątków obywateli Księstwa Warszawskiego, od wypadków im zagrażających służące, Poznań 1809; Pamiętnik Feliksa hr. Łubieńskiego, Warszawa 1876; W. Fiszerowa, Dzieje moje własne i osób postronnych. Wiązanka spraw poważnych, ciekawych i błahych, ed. E. Raczyński, Londyn 1975, s. 175; Statystyka Departamentu Bydgoskiego ułożona w miesiącu kwietniu 1812 roku, ed. M. Kallas and J. Wójciak, Warszawa-Poznań 1972, s. 28; A. Niebuhr, Geschichte der Königlichen Bank in Berlin, Glashütten 1971 (1st ed. Berlin 1854/5); A. Eisenbach, D. Rzepniewska, Zadłużenie własności ziemskiej w okresie 1795-1806. Dłużnicy i wierzyciele sum bajońskich, in Społeczeństwo polskie w XVIII i XIX wieku. Studia o uwarstwieniu i ruchliwości społecznej, ed. W. Kula, J. Leskiewiczowa, Warszawa 1970, s. 247-311; H. von Poschinger, Bankwesen und Bankpolitik in Preußen, Berlin 1878, Bd. 1; M. Cichecki, Zadłużenie rolnictwa w Księstwie Warszawskim, Warszawa 1937 (typescript of the Higher School of Commerce Library), s. 18-19, 31; M. Philippson, op. cit., Bd. 1, s. 109-110, 427, 466; Bd. 2, s. 112-113, 191; H. Schissler, Preußische Agrargeschichte im Wandel. Wirtschaftliche, gesellschaftliche und politische Transformationsprozesse von 1763 bis 1847, Göttingen 1978, s. 59-60, 216; E. Klein, Geschichte der deutschen Landwirtschaft, Wiesbaden 1973, s. 26-27; B. Grochulska, op. cit., s. 20; W. M. Bissing, op. cit., s. 158-160; A. Simsch, op. cit., s. 128-134, 226; A. Skalweit, Die Getreidenhandelspolitik und Kriegsmagazinen Verwaltung Preußens 1756-1806, Berlin 1931, s. 183-190; Ch. Mayer, op. cit., s. 339; W. Henning, Deutsche Wirtschafts- und Sozialgeschichte im Mittelalter und in der frühen Neuzeit, Bd. 2, Paderborn 1991, s. 787, 812-814; D. Rzepniewska, Gospodarstwo folwarczne na Mazowszu 1795-1806, Warszawa 1968, s. 35-57, 120; E. Carsten, Geschichte der preußischen Junker, Frankfurt a. M. 1988, s. 74; W. Treue, Wirtschafts- und Technik-Geschichte Preußens, Berlin 1984, s. 165-166; W. Stępiński, op. cit., s. 346-388; S. Michalkiewicz, Rozwój sił wytwórczych, in Historia Śląska, ed. W. Długoborski, t. II, part 1: 1763-1806, Wrocław 1966, s. 131; R. Stadelmann, op. cit., Bd. 3, s. 207, 209-212 (Silesia); Bd. 4, Leipzig 1887, s. 243-244, 262; C. Strzeszewski, Kryzys rolniczy na ziemiach Księstwa Warszawskiego i Królestwa Kongresowego (1807-1830), Warszawa 1934, s. 124; K. Jeżowa, Der Grundbesitz in Weichselpommern zur Zeit der Teilungen Polens und vor dem Weltkriege, Gdańsk 1934, s. 69-70, 76-77; T. Mencel, Sumy bajońskie, „Roczniki Historyczne” R. 19, 1952, s. 133-166; M. Handelsman, Konwencja bajońska, in Pod znakiem Napoleona, Warszawa n.d., [c. 1920].
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -463,9 +484,11 @@ No less essential was the introduction into Great Poland of the German national 
 <span class="lit-note" id="n-en-54">54</span> Publicandum wegen Südpreußen gegen wucherlichen Getreide-Aufbau, 12 VIII 1795, Novum Corpus Constitutionum, Bd. 9, s. 2609-2611.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -513,9 +536,11 @@ Likewise the giveaway of estates itself could in no way answer the intended aims
 <span class="lit-note" id="n-en-60">60</span> F. W. von Zastrow (1752-1830), in 1794 adjutant general to Frederick William II, in 1796 colonel, in 1801 major general, after the accession of Frederick William III pushed out from Berlin to Poznań; the unfavourable remarks about him Queen Luise placed in her letters to Frederick William III of 12 V 1807; 14 V 1807, Königin Luise von Preußen, Briefe und Aufzeichnungen 1786-1810, ed. R. Malve, München 1985, s. 323, 326, 329; ADB, Bd. 44, Leipzig 1898, s. 721-723.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-43">S. 43</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -559,9 +584,11 @@ The disclosure of the abuses connected with the giveaway of estates came at the 
 <span class="lit-note" id="n-en-66">66</span> C. Grünhagen, Die südpreußische Güterverleihungen, s. 257, 269.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-44">
+<section class="lit-passage has-related" id="p-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-44">S. 44</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -605,14 +632,16 @@ The technical side of the giveaway of estates was in the hands of councillor Pet
 <span class="lit-note" id="n-en-71">71</span> In W. Dorow, op. cit., appendix to the second volume; cf. Materialien, H. 1, s. 205-216.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>Łukasiewicz (1997) erzählt die Geschichte des technischen Leiters der Schenkaktion, des Rates Triebenfeld. Er kaufte sein Gut 1797 für 50.000 Taler und verkaufte es 1801 für 450.000 an den Prinzen von Hessen-Darmstadt, der es im selben Jahr für 750.000 an den sächsischen Jägermeister Schürding weiterverkaufte (nach Dorows Druck von Triebenfelds Denkschrift); seine Tabelle 4 nennt den amtlichen Preis 51.000 und den Verkauf 400.000-750.000 (1801). Triebenfelds Briefe an den Fürsten Hohenlohe nennen dieselbe Taxe, über 700.000 (April 1799), und denselben Weiterverkauf, 750.000 (Februar 1801), aber als seinen eigenen Preis an den Prinzen George 280.000, nicht 400.000 (Juli 1800).</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Łukasiewicz erzählt die Verkaufskette: 1797 für 50.000 gekauft, 1801 für 450.000 an den Prinzen von Hessen-Darmstadt verkauft, im selben Jahr für 750.000 an den sächsischen Jägermeister Schürding weiterverkauft. Die Briefe geben die Kette, wie ihr Urheber sie rechnete: über 700.000 rt an der Justiztaxe gegen seine eigene Grundlage von etwa 500.000 (April 1799); der Preis an den Prinzen Georg 280.000 (Juli 1800); und der Prinz Georg verkaufe für 750.000 (Februar 1801).</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-45">S. 45</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -680,9 +709,11 @@ Attempts to limit the speculation in estates found reflection in the legislative
 <span class="lit-note" id="n-en-76">76</span> War and Domains Councillor in the years 1797-1801 in the Poznań Chamber, see Handbuch 1797-1802.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-46">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-46">S. 46</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -734,9 +765,11 @@ Ultimately, with reference to the estates given away the most cautious assessmen
 <span class="lit-note" id="n-en-83">83</span> D. Rzepniewska, op. cit., s. 121; A. Eisenbach, D. Rzepniewska, op. cit., s. 218-219, 223, 225-226.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-47">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-47">S. 47</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -792,9 +825,11 @@ The next question is the effects of the operation of the giveaway of estates. In
 <span class="lit-note" id="n-en-90">90</span> W. A. Klewitz, op. cit., s. 68. Year 1797/8 — 28 thalers, 1798/9 — 100 000, 1799/1800 — 132 545, 1800/1 — 147 797, 1801/2 — 188 048, 1802/3 — 128 320, 1803/4 — 112 989, 1804/5 — 47 151, 1805/6 — 39 123. The revenues from the Kompetenzgeld confirm this, see A. K. von Holsche, op. cit., Bd. 2, s. 482, cf. A. Simsch, op. cit., s. 104-105; in 1800/1801 it made up 36.3% of the net revenue from the domains: the Kalisz department — 86 133 thalers, the Poznań department — 88 625 thalers, the Warsaw department — 77 314 thalers.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-48">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-48">S. 48</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -838,9 +873,11 @@ Among the later ministers of South Prussia the sympathies of the Polish nobility
 <span class="lit-note" id="n-en-96">96</span> Landesdirektor, 1797-1802, Handbuch 1797-1802-; M. Philippson, op. cit., Bd. 2, s. 287; K. Koźmian, op. cit., t. 2, s. 287; T. Mencel, Feliks Łubieński.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-49">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-49">S. 49</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -900,9 +937,11 @@ Mixed up in the giveaway of estates were also many other Poles. In the documenta
 <span class="lit-note" id="n-en-107">107</span> Materialien, s. 143, 147, 159, 169; „Neue Feuerbrände", Bd. 3, s. 133.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-50">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-50">S. 50</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -950,9 +989,11 @@ It is however impossible to deny that Wilhelm Klewitz was right when in 1812 he 
 <span class="lit-note" id="n-en-115">115</span> On the low salaries, the fatal choice of cadres, whose high quality after the second and third partitions it was impossible
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-51">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-51">S. 51</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1000,9 +1041,11 @@ To these charges joined the most notorious of the malversators, Triebenfeld, lam
 <span class="lit-note" id="n-en-122">121</span> K. Koźmian is therefore mistaken when it comes to Szaniawski. See W. Klewitz, Über die Preußische Verwaltung, s. 14-18; A. P. Sułkowski, Listy do żony z wojen napoleońskich, ed. R. Bielecki, Warszawa 1987, s. 239-240.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-52">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-52">S. 52</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1050,9 +1093,11 @@ After 1797 the estates given away remained however in the hands of the donatarie
 <span class="lit-note" id="n-en-127">126</span> R. Stadelmann, op. cit., Bd. 4, s. 88-89.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-53">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-53">S. 53</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1080,9 +1125,11 @@ In the light of our findings the aims of the giveaway action must be considered 
 Onto these premises there overlaid themselves clear political advantages, consisting in the creation in Great Poland of a group of German landowners, making up a support for Prussian rule in the seized Polish lands. The giveaway of estates was an undoubted manifestation of the policy of "subordination". It must however also be clearly marked that Prussian policy towards the Poles had also a clear aspect of "winning over" (at the time one spoke of "adoption"), of which the land credit for the Polish nobility was one manifestation at least. Both these ways of proceeding served, on the one hand, the assuring of the obedience of the nobility and control over it, on the other the formation among it of a group of partisans of Prussia, who were to consolidate Prussian rule in Great Poland. The successive partitions of the Polish lands named West Prussia, South Prussia and New East Prussia set the Prussian state before the necessity of absorbing new considerable areas. The taking of the decision on the staffing of the administration with German officials brought in from the Prussian provinces weighed fatally on the course of this process. In comparison with Poland before the partitions the Prussian corps was expanded, modern and educated. Yet for the realisation of the task set before it too few in number and subjected to negative selection. In consequence in the Prussian administration in South Prussia there came about various degenerations, unfavourable for the Prussian state itself.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-54">S. 54</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1094,9 +1141,11 @@ pruskiego. Jednym z istotnych tego przejawów było całkowite zniekształcenie 
 Prussian. One of the essential manifestations of this was the complete distortion of the intended aims in the course of the giveaway action. It changed into a corrupt affair, joined with a speculation in estates serving no one beyond the donataries themselves, in consequence of which the estates often returned into Polish hands. It is worth marking that — as the researches of Danuta Rzepniewska showed — the Prussian credit action in South Prussia ended in an analogous fiasco, its consequences being far more unfavourable for the Polish lands than the effects of the giveaway action. On the other hand the history of the Duchy of Warsaw shows that from the positive, that is effective, patterns of the Prussian organisation of the state the Poles were able to profit without prejudice towards the occupier.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-55">
+<section class="lit-passage has-related" id="p-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-55">S. 55</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1172,14 +1221,16 @@ Tabela 1. PRUSSIAN DONATIONS — THE VALUE OF THE ESTATES<sup class="lit-fn"><a 
 </tbody></table>
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
 <p>Łukasiewiczs Tabelle 1 gibt die Zeile des Registers für den Fürsten Hohenlohe wieder: amtlich 89.250 Taler, „wahrer Wert“ 800.000, und die eigene Notiz des Registers, die Schenkung sei „für 50.000 Taler jährlichen Ertrag“ gemacht worden. Die Briefe bestätigen dieselben Zahlen und gehen darüber hinaus: die Ablehnung des Königs vom Dezember 1798 auf den Bericht von Voss (die auf 8.650 Taler Jahresertrag veranschlagten Güter bringen jetzt 40.500), die Antwort des Fürsten (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und seine spätere Eingabe.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, Dokument 86 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, Dokument 87 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, Dokument 97 (Januar 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, Dokument 101 (Mai 1800)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, Dokument 86 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, Dokument 87 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, Dokument 97 (Januar 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, Dokument 101 (Mai 1800)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-56">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-56">S. 56</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1259,9 +1310,11 @@ Tabela 1. PRUSSIAN DONATIONS — THE VALUE OF THE ESTATES<sup class="lit-fn"><a 
 </tbody></table>
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-57">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-57">S. 57</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1389,9 +1442,11 @@ Notes to Tabela 1:
 <span class="lit-note" id="n-en-156">t1-29</span> The sale value of the estates exchanged with Łubieński.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-58">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-58">S. 58</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1483,9 +1538,11 @@ Tabela 3. THE REGISTER OF DONATIONS BY DONATARY AND THE NUMBER OF ESTATES
 </tbody></table>
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-59">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-59">S. 59</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1581,9 +1638,11 @@ Tabela 3. THE REGISTER OF DONATIONS BY DONATARY AND THE NUMBER OF ESTATES
 </tbody></table>
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-60">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-60">S. 60</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1643,9 +1702,11 @@ Tabela 3. THE REGISTER OF DONATIONS BY DONATARY AND THE NUMBER OF ESTATES
 </tbody></table>
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-61">
+<section class="lit-passage has-related" id="p-61">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-61">S. 61</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1731,14 +1792,16 @@ Notes to Tabela 4:
 <span class="lit-note" id="n-en-163">t4-7</span> The affair of Grävenitz is disputed and tangled, nevertheless the transaction itself took place, see the „Neue Feuerbrände" I, 132; V, 66, 109, 110; cf. C. Grünhagen, op. cit., s. 294-295.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>Łukasiewicz (1997) erzählt die Geschichte des technischen Leiters der Schenkaktion, des Rates Triebenfeld. Er kaufte sein Gut 1797 für 50.000 Taler und verkaufte es 1801 für 450.000 an den Prinzen von Hessen-Darmstadt, der es im selben Jahr für 750.000 an den sächsischen Jägermeister Schürding weiterverkaufte (nach Dorows Druck von Triebenfelds Denkschrift); seine Tabelle 4 nennt den amtlichen Preis 51.000 und den Verkauf 400.000-750.000 (1801). Triebenfelds Briefe an den Fürsten Hohenlohe nennen dieselbe Taxe, über 700.000 (April 1799), und denselben Weiterverkauf, 750.000 (Februar 1801), aber als seinen eigenen Preis an den Prinzen George 280.000, nicht 400.000 (Juli 1800).</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Die Zeile der Tabelle für Triebenfeld — amtlich 51.000, verkauft 400.000–750.000 (1801) — und ihre Zeile für Rüchel (30.000 und 130.000) stehen gegen die Briefe: die Taxe vom April 1799 über 700.000 rt, der Preis an den Prinzen Georg 280.000 (Juli 1800), der Weiterverkauf 750.000 (Februar 1801); und Rüchels Güter, nach dem Brief vom 13. März 1799, für 140.000 verkauft, wo die Tabelle 130.000 gibt.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-62">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-62">S. 62</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1761,6 +1824,7 @@ The intention of the campaign (the estâtes were sold but at prices considerably
 
 (transl. A. Rodzińska-Chojnowska)
 
+</div>
 </div>
 </section>
 {% endraw %}

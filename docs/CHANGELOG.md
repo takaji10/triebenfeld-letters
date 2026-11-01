@@ -4282,3 +4282,75 @@ footer on every page. Changed, in both languages:
   offenders, driven over the page list of the built site. To re-run after a
   change: serve `site/_site` (python -m http.server), point the crawler at
   it, rebuild first. `jekyll build` and `verify_site.py` pass.
+
+## 2026-11-01: the literature's call-outs reworked — "Related", one note per passage, a gutter column with a toggle (branch `related-callouts`, not published)
+
+- The problem, reported by the editor with /literature/materialien1861/ as
+  the example: the boxes generated from `literature/links.yml` under the
+  heading "In the documents" repeated themselves wherever a link named
+  several passages of one work (18 of the 33 links; the worst stamped the
+  same box about Bischofswerder, Zastrow, Dolffs and Rüchel under nine pages
+  of the Materialien and seven of the Feuerbrände), and each carried the
+  link's whole sentence whether or not it bore on the page it stood under.
+- **`about:` per-passage notes** (the editor's choices, asked 2026-11-01:
+  the heading "Related"/"Bezüge", the notes inside one link rather than
+  split links, the toggle beside the view buttons, on by default; the
+  document side keeps "In the literature"): a link with more than one
+  passage of a work carries an `about:` entry per passage — its own note
+  (en, de) and its own documents, a subset of the link's. Every passage of
+  such a link must have its note; every document of the link must belong to
+  at least one passage; a one-passage link needs no `about:` and may not
+  carry one. `literature_site.py` validates all of it and stops on a breach.
+- **The passage entries pruned to their documents' reach**: the Treskow and
+  Wendessen entries (Materialien pp. 152, 153, 171; Feuerbrände 2-74,
+  2-90) leave `register-other-gifts` — the letter of 13 March 1799 does not
+  touch them. Per-passage notes written for all 18 links that had repeated
+  themselves; 72 passage entries now stand where 73 repeated placements
+  stood.
+- **The gutter column**: from 64rem viewport width the entry stands beside
+  the passage (grid `minmax(0, 44rem) 14rem` on `.lit-passage.has-related`,
+  the passage's text in a new `lit-main` wrapper); below that it folds under
+  the passage text as the box did. The heading is "Related" (`lit_related`
+  in i18n), German "Bezüge"; the toggle button (`.rbtn`, `data-related`
+  on the body, `tf-lit-related` in localStorage, default on, `literature.js`)
+  hides the column page-wide; without JavaScript it shows.
+- Checked with the mobile crawler (its method in WORKING_NOTES) over all 42
+  works in both languages at 320/360/390/1024/1280/1920: 504 checks, none
+  overflowing; the toggle exercised on every page that carries it.
+- **One new link from the rework's reading** — `register-donations`: the
+  donation dossier I. HA Rep. 7 C Nr. 3570 (Hoym's proposal of 14 July 1796,
+  the King's cabinet order of 23 July given at Pyrmont, the deeds of
+  9 August 1796) against the register's entries whose deeds and valuations
+  it holds (Blücher's Duninow, Pontanus's Sieradz, Dolffs's Strzelec with
+  the deed date the register prints, Goldbeck's chancery); where they
+  disagree the notes say so (the proposal's 120,000 rt for all the Prince's
+  items against the register's official 89,250 Thlr.; the proposal's yield
+  of 1,500 rt for Duninow against the note's "certainly 6000 thalers").
+- **The first sweep of new links** (the works LITERATURE_PLAN section 9
+  had queued; every figure read in the book and in the document):
+  - `held-krotoszyn` — Held (1801), the papers of Früson's suit:
+    Triebenfeld's administration of Krotoszyn until 1791 at some 17-18,000
+    rt a year, Früson's nine-year lease at 30,100 from 1 July 1791
+    (pp. 12, 54, 79, 129, 173), the composition wrung from Früson by
+    Triebenfeld and Neumann giving the lease up (p. 34) — which the King's
+    refusal of 4 December 1798 prices from the government's side: the
+    Abstand of 26,000 rt for the Abtretung der Pacht of 1795
+    (oe1bu9454-85, -86, -101). Claude's reading; NEEDS_CONFIRMATION.
+  - `guradze1898-emancipation` — the Duchy of Warsaw's constitution of
+    22 July 1807 and the decree of 24 December 1807 abolished hereditary
+    subjection; the lease's paragraph 13 had freed its eighteen lessees of
+    it two years before (app539680801-3).
+  - `paciorkowski1776-boundary` — the 1768 constitution's approval rule and
+    its rules on boundaries destroyed or privately erected, beside the
+    Tribunal's approval of 23 January 1782, the demolition act of
+    28 November 1782 and Chełmski's protest of 1778 (Konin Gr. 153, Konin
+    Gr. 117). Claude's reading; NEEDS_CONFIRMATION.
+- New in NEEDS_CONFIRMATION: the register's official 89,250 Thlr. against
+  the dossier's proposal of 120,000 rt; the Duninow yield (1,500 rt against
+  "certainly 6000"); the Konin row's 12,000 (a slip or a row?); Żychliński
+  (1885) writing Władysław where the summons of 1860 names Włodzimierz;
+  Held's composition identified with the 1795 Abtretung; the Paciorkowski
+  tie as resemblance, not statute.
+- Verified: build and `pipeline/verify_site.py` clean (37 links, 40
+  documents, 302 link-pairs checked on both sides). Committed on the
+  branch; not published.
