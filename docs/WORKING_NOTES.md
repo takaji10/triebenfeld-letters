@@ -2834,6 +2834,14 @@ to be places where nothing forced a look:
   closed file"): when the first wrapper is collected, closing it closes the
   buffer both were built on. Import the pipeline module first and let it
   own the wrapper, or rewrap nothing.
+- **A module-level loop variable answers a comprehension that names it.**
+  `for n, r in stmt.items():` leaves `r` (and `k`, `v`) bound at module
+  scope; a later comprehension that writes `row_vals[r]` without binding `r`
+  silently reads the leftover dict and returns nonsense instead of raising.
+  It bit twice in one session (the hits' row attribution printed every row
+  as "total"; the spatial test's `ok` clause compared against the whole
+  statement). Name loop variables uniquely at module level, and inside a
+  comprehension bind every name the body uses.
 
 ## The holding pages: header, languages, "How it was prepared" (2026-10-30)
 
@@ -2913,6 +2921,42 @@ The Dorow (1843) sitting's lessons, for the next pre-1850 German print:
   own OCR begins with the number - handy for checking an offset, but strip
   it before transcribing; the signature marks at the page foot ("I 9",
   "I 10") are furniture, not text.
+
+## The mobile overflow pass (2026-11-01)
+
+The editor reported an overflow on the literature page on mobile; the whole
+site was checked with a headless browser (puppeteer-core + the machine's
+Edge, served locally), first a sample then every page. Lessons for the next
+layout work:
+
+- **A grid item's automatic minimum is its min-content, and an image with
+  `width: 100%` counts its intrinsic width into it.** This is the standard
+  grid blowout: the 400px list thumbs made every card refuse to shrink
+  below ~432px. `min-width: 0` on the item (and the inner column's item)
+  is the fix; the same mechanism bit the map page's sticky stage (whose
+  viewer derives a width from its height through aspect-ratio).
+- **Text overflowing its box does not widen any element**, so a
+  getBoundingClientRect crawl reports nothing while `scrollWidth` grows:
+  long tokens (bare URLs in notes and footnotes, a licence URL in a facts
+  line) overflow as ink. When a page overflows with no offender listed,
+  recurse by hiding blocks until `scrollWidth` drops - the guilty subtree
+  shows itself; then look for the long token.
+- **A `<select>`'s intrinsic width is its widest option's.** Any filter bar
+  that must survive a phone needs `min-width: 0` on the label and the
+  select (the label is a flex column; the select then stretches to the
+  shrunk label).
+- **`white-space: nowrap` on generated links is a trap** whenever the link
+  text is data: a document reference ran 350px, a Minakowska section
+  heading 427px. Let them wrap; nowrap is only safe for text you control.
+- **Wide data tables scroll inside their block**: `display: block;
+  max-width: 100%; overflow-x: auto` on the table itself is the one-rule
+  fix (the literature's and the map pages' tables; the cemeteries' wrap
+  had the room but lacked `overflow-x: auto`).
+- **The crawler** (in the session's temp folder, `mobilecheck/`): list the
+  built pages, `page.setViewport` at 360/390/320, measure
+  `documentElement.scrollWidth > clientWidth` after `domcontentloaded` +
+  250ms, and report the widest elements' rects. It needs the site rebuilt
+  and served (`python -m http.server` over `site/_site`).
 - **Not done, offered:** a read of the other pages for descriptions that exist
   for their own sake (the literature's, newspapers' and places' account /
   brief / summary say the same thing three times; "Scans"-style handling

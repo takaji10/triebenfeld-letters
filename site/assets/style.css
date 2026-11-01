@@ -51,6 +51,11 @@ a:hover { text-decoration-thickness: 2px; }
 
 code { font-family: var(--mono); font-size: 0.9em; }
 
+/* Kramdown's endnote blocks (role=doc-endnotes, any Markdown passage): a
+   note may carry a long URL - a Wikimapia address ran 426px on the Szetlew
+   place page and overflowed the phone. Let any token break. */
+.footnotes { overflow-wrap: anywhere; }
+
 .skip {
   position: absolute; left: -9999px;
   background: var(--accent); color: #fff; padding: .6rem 1rem;
@@ -130,10 +135,13 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 /* Shared by the list of sources and a holding's own page. */
 .source-archive { margin: .15rem 0 0; font-family: var(--sans); font-size: .8rem; color: var(--ink-faint); }
 .source-facts { display: flex; flex-wrap: wrap; gap: 1.6rem; margin: .9rem 0 0; }
-.source-facts div { display: flex; flex-direction: column; }
+.source-facts div { display: flex; flex-direction: column; min-width: 0; }
 .source-facts dt { font-family: var(--sans); font-size: .68rem; letter-spacing: .04em;
                    text-transform: uppercase; color: var(--ink-faint); }
-.source-facts dd { margin: .1rem 0 0; font-size: 1.05rem; }
+/* A long token may break anywhere: the Published line of Dean & Hecker
+   carries a licence URL 390px wide, and the map pages' Holder line a
+   reference string - either overflowed its card on a phone. */
+.source-facts dd { margin: .1rem 0 0; font-size: 1.05rem; overflow-wrap: anywhere; }
 
 /* The materials' lists (holdings, newspapers, literature, maps): one card
    per item (2026-10-29), in the look of the home page's .card - the card
@@ -145,6 +153,9 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
   display: grid; grid-template-columns: 7rem 1fr; gap: .1rem 1.4rem;
   border: 1px solid var(--rule); border-radius: 3px; background: var(--paper-2);
   padding: 1.4rem 1.6rem;
+  /* The card may shrink on a phone: without this its automatic minimum is
+     the thumb image's own 400px width, and every card overflows the screen. */
+  min-width: 0;
 }
 .source:hover { border-color: var(--accent); }
 .source-thumb { grid-column: 1; margin: .1rem 0 0; }
@@ -156,6 +167,10 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
                       background: var(--paper); }
 .source-thumb-empty svg { width: 42%; height: auto; }
 .source-body { grid-column: 2; }
+/* The body may shrink below its own min-content, and long tokens (a licence
+   URL in a Published line ran 390px unbreakable) may break anywhere: without
+   this one card forced every card of the list wider than a phone. */
+.source-body { min-width: 0; overflow-wrap: anywhere; }
 .source h2 { margin: 0; font-size: 1.15rem; }
 .source h2 a { color: inherit; }
 .source p { margin: .9rem 0 0; max-width: 56rem; }
@@ -174,10 +189,14 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 .source-tools .viewbar { margin: 0; }
 .tools-label { font-family: var(--sans); font-size: .72rem; letter-spacing: .06em;
                text-transform: uppercase; color: var(--ink-faint); }
-.tools-filter { display: flex; align-items: center; gap: .5rem; }
+.tools-filter { display: flex; align-items: center; gap: .5rem; min-width: 0; }
 .tools-filter select { font-family: var(--sans); font-size: .82rem; padding: .3rem .5rem;
                        border: 1px solid var(--rule); border-radius: 2px;
-                       background: var(--paper); color: var(--ink); max-width: 100%; }
+                       background: var(--paper); color: var(--ink); max-width: 100%;
+                       /* The select must be allowed to shrink: its intrinsic
+                          width is the widest option's, and a phone has no room
+                          for "Alexander I, Emperor of Russia (48)". */
+                       min-width: 0; }
 .tools-count { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
 .source-types { margin: .35rem 0 0; display: flex; flex-wrap: wrap; gap: .3rem .4rem; }
 .type-tag { font-family: var(--sans); font-size: .75rem; color: var(--ink-soft); border: 1px solid currentColor; border-radius: .8rem; padding: .05rem .6rem; }
@@ -217,7 +236,12 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 }
 .f-row { display: flex; flex-wrap: wrap; gap: .9rem; margin-bottom: .75rem; }
 .f-row:last-of-type { margin-bottom: .25rem; }
-.filters label { display: flex; flex-direction: column; gap: .25rem; font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
+.filters label { display: flex; flex-direction: column; gap: .25rem; font-family: var(--sans); font-size: .78rem; color: var(--ink-faint);
+                 /* The label may shrink below its select's intrinsic width (the
+                    widest option's); the select then stretches to the shrunk
+                    label. Without this the Person filter overflowed the phone
+                    by 129px. */
+                 min-width: 0; }
 .filters label span { text-transform: uppercase; letter-spacing: .05em; }
 .f-search { flex: 1 1 18rem; }
 .filters input, .filters select {
@@ -468,8 +492,7 @@ ol.dip[data-para] li + li { margin-top: .7em; }
 .sideways { border-left: 3px solid var(--rule); padding-left: .8em; margin: .6em 0; }
 .sideways-note { font-family: var(--sans); font-size: .8em; font-style: italic; color: var(--ink-soft); }
 /* footnotes of a printed edition (units/<slug>/footnotes.yml) */
-sup.fn { font-size: .7em; line-height: 0; vertical-align: super; color: var(--ink-soft); padding: 0 .05em; }
-.fn-note { font-size: .88em; color: var(--ink-soft); }
+sup.fn { font-size: .7em; line-height: 0; vertical-align: super; color: var(--ink-soft); padding: 0 .05em; }.fn-note { font-size: .88em; color: var(--ink-soft); }
 .sideways ol.dip { margin-top: .2em; margin-bottom: 0; }
 .text-view[data-view="reading"] .sideways p,
 .text-view[data-view="translation"] .sideways p { text-indent: 0; margin-top: .2em; }
@@ -754,7 +777,11 @@ img.scan {
 .lit-jump { font-family: var(--sans); font-size: .8rem; line-height: 1.9;
             margin: 2rem 0 1rem; padding: .8rem 0; border-top: 1px solid var(--rule);
             border-bottom: 1px solid var(--rule); }
-.lit-jump a { margin-right: .45rem; text-decoration: none; white-space: nowrap; }
+/* The links wrap like text: the Minakowska works key their passages by
+   section heading, and a whole heading ("Spouses and children, the
+   grandchildren, and up to the great-grandchildren") as one nowrap run is
+   wider than a phone's column. */
+.lit-jump a { margin-right: .45rem; text-decoration: none; }
 .lit-jump a:hover { text-decoration: underline; }
 .lit-viewbar { margin-top: 1.4rem; }
 .lit-passage { border-top: 1px solid var(--rule); padding: .4rem 0 1rem; max-width: 44rem; }
@@ -762,17 +789,22 @@ img.scan {
 .lit-loc { margin: .2rem 0 .4rem; font-family: var(--sans);
            font-size: .78rem; font-weight: 600; color: var(--ink-faint); }
 .lit-loc a { color: inherit; text-decoration: none; }
-.lit-orig, .lit-en { min-width: 0; overflow-wrap: anywhere; }
+.lit-orig, .lit-en, .lit-only { min-width: 0; overflow-wrap: anywhere; }
 body:not([data-lit-view]) .lit-en { border-top: 1px dashed var(--rule); margin-top: .6rem; padding-top: .6rem; }
 body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display: none; }
 .lit-orig > :first-child, .lit-en > :first-child { margin-top: 0; }
 .lit-orig h3, .lit-en h3, .lit-orig h4, .lit-en h4 { font-size: 1.05rem; }
-.lit-orig table, .lit-en table { border-collapse: collapse; font-size: .85rem; }
+/* A wide table (Mączak's thirteen columns) scrolls inside its passage on a
+   phone instead of widening the page: block makes the table's width fit its
+   column, capped at 100%, and the overflow goes to its own scrollbar. */
+.lit-orig table, .lit-en table, .lit-only table {
+  display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; font-size: .85rem;
+}
 .lit-orig td, .lit-en td, .lit-orig th, .lit-en th { padding: .15rem .5rem .15rem 0; vertical-align: top; }
 .lit-none p { font-family: var(--sans); font-size: .85rem; color: var(--ink-faint); }
 /* A work printed in English: its one text, never hidden by the buttons. */
 .lit-only > :first-child { margin-top: 0; }
-.lit-only table { border-collapse: collapse; font-size: .85rem; }
+.lit-only table { display: block; max-width: 100%; overflow-x: auto; }
 .lit-only td, .lit-only th { padding: .15rem .5rem .15rem 0; vertical-align: top; border-bottom: 1px solid var(--rule); }
 /* The picture of a page (work.yml `figures`): a map, a chart, a photograph. */
 .lit-figure { margin: .4rem 0 1rem; }
@@ -789,14 +821,17 @@ body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display
   background: color-mix(in srgb, var(--accent) 4%, transparent); }
 .lit-links p { margin: .3rem 0; max-width: var(--measure); }
 .lit-links .lit-links-head { font-weight: 600; margin-top: 0; }
-.lit-links-docs a, .lit-doclinks-pages a { margin-right: .6rem; white-space: nowrap; }
+/* The document links wrap like text: nowrap would make one reference
+   ("Oe 1 Bü 9454, document 108 (22 July 1800)") an unbreakable 350px run,
+   wider than a phone's column. */
+.lit-links-docs a, .lit-doclinks-pages a { margin-right: .6rem; }
 .lit-doclinks p { margin: 0 0 .45rem; }
 .lit-doclinks-pages { font-family: var(--sans); font-size: .85rem; }
 
 /* ---------------------------------------------------------- cemeteries */
 /* The headstones table (docs/CEMETERIES_PLAN.md): one row per headstone,
    the reading kept as the survey has it. */
-.cem-table-wrap { max-width: 62rem; margin: 1.6rem 0 0; }
+.cem-table-wrap { max-width: 62rem; margin: 1.6rem 0 0; overflow-x: auto; }
 .cem-table { border-collapse: collapse; font-size: .95rem; width: 100%; }
 .cem-table th, .cem-table td { text-align: left; vertical-align: top;
   padding: .35rem .8rem .35rem 0; border-bottom: 1px solid var(--rule); }

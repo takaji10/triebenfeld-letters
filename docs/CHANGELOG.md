@@ -4100,3 +4100,57 @@ footer on every page. Changed, in both languages:
   main (21a7d01f7) and pushed; the "Build and deploy" run 41286917735
   succeeded, and /literature/dorow1843/ and /de/literatur/dorow1843/
   answer, the "In the documents" box and its three letters included.
+
+## 2026-11-01: the site fits a phone (the mobile overflow pass)
+
+- The editor reported an overflow on the literature page on mobile. The
+  whole built site was checked with a headless browser (puppeteer-core
+  driving the machine's Edge, the pages served locally): every page of the
+  site except the per-document ones (1,906 pages) and all 631 document
+  pages, at 360 px and the previously broken set again at 390 and 320,
+  measuring whether anything sticks out past the viewport's right edge.
+  **First run: 18 of 58 sample pages overflowed; the full crawl: 54 pages;
+  after the fixes: 0 of 1,985 pages.**
+- Seven root causes, all in the CSS, one in the map layout:
+  - **The materials-list cards** (`.source`): a card's automatic minimum as
+    a grid item is its min-content, and the 400px thumb image's intrinsic
+    width counted into it - every card refused to shrink below ~432px.
+    Fixed with `min-width: 0` on the card and its body
+    (`overflow-wrap: anywhere` there too, for the Dean & Hecker card's
+    390px licence URL in its Published line).
+  - **The literature's "In the documents" links** (`.lit-links-docs a`,
+    `.lit-doclinks-pages a`): `white-space: nowrap` made one reference
+    ("Oe 1 Bü 9454, document 108 (22 July 1800)") an unbreakable 350px run;
+    the nowrap is gone, the links wrap like text.
+  - **The literature's tables** (`.lit-orig/.lit-en/.lit-only table`):
+    `display: block; max-width: 100%; overflow-x: auto` - Mączak's
+    thirteen-column table now scrolls inside its passage.
+  - **The passage jump nav** (`.lit-jump a`): nowrap, and the Minakowska
+    works key their passages by whole section headings - one link was
+    427px. The links wrap now.
+  - **The facts lines** (`.source-facts dd`): `overflow-wrap: anywhere` and
+    `min-width: 0` on their flex items - the same licence URL overflowed
+    the Dean & Hecker work page, and the map pages' Holder line their
+    facts.
+  - **The English-only works' text** (`.lit-only`): it lacked the
+    `overflow-wrap: anywhere` the other passage containers had - the Dean
+    & Hecker notes carry bare URLs 470px wide.
+  - **The footnotes** (`.footnotes`, kramdown's endnote blocks): a long
+    Wikimapia URL overflowed the Szetlew place page; any token may break
+    there now.
+  - **The browse filters** (`.filters label`, `.tools-filter select`): a
+    select's intrinsic width is its widest option's ("Alexander I, Emperor
+    of Russia (48)"), and the label would not shrink; `min-width: 0` on
+    both.
+  - **The map pages** (their own style block in `_layouts/map.html`): the
+    sticky stage's viewer derives a width from its height through
+    aspect-ratio (622px on a phone) and overflowed the stacked column by
+    46px (`min-width: 0` on the stage); the boundary table
+    (`.map-text-table`) scrolls inside its block like the literature's
+    tables.
+- The check's scripts stand in the session's temp folder
+  (`C:/Users/Tersnaus/AppData/Local/Temp/opencode/mobilecheck/`): a crawler
+  measuring `scrollWidth` against the viewport and reporting the widest
+  offenders, driven over the page list of the built site. To re-run after a
+  change: serve `site/_site` (python -m http.server), point the crawler at
+  it, rebuild first. `jekyll build` and `verify_site.py` pass.
