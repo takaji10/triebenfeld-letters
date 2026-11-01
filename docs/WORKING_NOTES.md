@@ -3042,6 +3042,20 @@ a gutter column from 64rem with a toggle in the viewbar. Lessons:
   the end); the repo's files are LF (`newline='\n'` everywhere). Appending
   to a text file here goes through Python, and afterwards check
   `data.count(b'\r\n') == 0`.
+
+- **A session branch cut from an in-progress branch carries that branch's
+  unpublished work.** `related-callouts` was cut from `pelzucki1896`, so
+  "merge into main and push" would have published the Pełzucki map work
+  too (marked in progress, a second session still working on it). Before
+  publishing: `git log --oneline main..branch` and read what is actually
+  in the delta, not what the session worked on. If the delta carries
+  another piece of work, cherry-pick the session's own commits onto main
+  in a worktree (this working copy stays where it is, the other session's
+  uncommitted files untouched), verify the build on the cherry-picked main
+  before pushing, and say in the paperwork that the publish was by
+  cherry-pick — a later whole-branch merge is then a content-noop for
+  these files. The editor decides what goes live (asked, 2026-11-01: only
+  the session's own commits).
 - **The verify gate's link count fell with the rework** (326 pairs before,
   302 after): the count is the number of (document, link, passage) pairs
   actually rendered, and the per-passage document subsets mean fewer pairs,
