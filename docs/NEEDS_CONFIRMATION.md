@@ -1511,9 +1511,10 @@ The one finding that touches the edition:
   while happier events are awaited. The page itself names no addressee.
   An identification with Antoni Prusimski through Pachoński's PSB entry
   (`literature/pachonski1982`, whose sources list "B. Ossol.: rkp.
-  2289/II") was proposed, considered, and **ruled out for now by the
-  editor (2026-11-01) until something establishes it** — see the later
-  bullet below for the grounds and what would reopen it. The letter was
+  2289/II") was proposed, considered, and **ruled out by the editor
+  (2026-11-01), the evidence exhausted in hand** — see the later bullet
+  below for the grounds; only new evidence (the original, a second
+  copy, new scholarship) could reopen it. The letter was
   nonetheless added to the edition as the holding `ossol2289` on
   2026-11-01 (see that bullet).
   - **"10 Aug." against PSB's "13 VIII".** The digit was re-read at 3x
@@ -1545,10 +1546,15 @@ The one finding that touches the edition:
   its sources (a PSB entry carries no per-claim footnote apparatus; the
   file the edition holds is the entire article - the editor,
   2026-11-01), and the two phrases the entry quotes for the exchange
-  appear in the copy in neither wording. What would reopen it: an
-  Ossolineum catalogue description or inventory card for rkp. 2289/II,
-  or a name at the index level in the codex's own leaves (0033–0034
-  unread to the name level; 0061 unread). Still open:
+  appear in the copy in neither wording. The evidence is exhausted in
+  hand: the library's record for the codex is the catalogue entry the
+  editor shared (the joint catalogue of the Ossolineum and the region's
+  libraries), which describes the contents no further than its title,
+  and the codex's own index of letters (0033–0034) names no addressee
+  for it (the editor's reading). The identification is set aside not
+  pending a look but for lack of anything further to look at; only new
+  evidence - the original surfacing, a second copy elsewhere, or new
+  scholarship - could reopen it. Still open:
   - **The "10 Aug." / "13 VIII" discrepancy** stands on its own, with or
     without the attribution.
   - **The copyist's closing-note name** the editor confirms by hand.

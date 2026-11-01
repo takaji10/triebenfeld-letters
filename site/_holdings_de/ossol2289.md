@@ -23,9 +23,9 @@ Der Brief nennt seinen Adressaten nirgends: "Obywatelu!" - Bürger! - ist alles,
 
 - der Verweis des Artikels auf die Handschrift steht in seinem allgemeinen Quellenverzeichnis, und dieses Verzeichnis ist das Ganze, was der Artikel über jede seiner Quellen gibt: ein PSB-Artikel trägt keinen auf Einzelbehauptungen bezogenen Fußnotenapparat, und die Datei, die die Edition hält, ist der ganze Artikel. Was Pachoński aus diesem Sammelband nahm, und für welche Behauptung, ist daher aus dem Gedruckten nicht zurückzugewinnen;
 - die zwei Wendungen, die der Artikel für den Austausch zitiert («Lud i Wolność to dwa filary…», «nie zna go osobiście»), erscheinen in der Abschrift in keiner der Wortstellungen - hätte er diese Abschrift zitiert, wäre eine Übereinstimmung zu erwarten;
-- nichts sonst in der Edition verbindet den Brief mit Prusimski: die Registerblätter des Sammelbands (0033-0034) sind nicht bis zur Namensebene gelesen, und der Brief selbst nennt niemanden.
+- nichts sonst verbindet den Brief mit Prusimski: der eigene Briefindex des Sammelbands (Blätter 0033-0034) nennt keinen Adressaten dafür (die Lesung des Herausgebers), und der Brief selbst nennt niemanden.
 
-Was uns anders belehren würde: eine Katalogbeschreibung oder Bestandskarte des Ossolineums zu rkp. 2289/II, oder ein Name im eigenen Register des Sammelbands. Bis eine davon spricht, bleibt der Brief, was seine Seite zeigt: Kościuszkos Antwort an einen nicht genannten emigrierten Korrespondenten. <!-- context -->
+Die Beweislage ist mit dem, was zur Hand ist, ausgeschöpft. Die Aufzeichnung der Bibliothek zu dem Sammelband ist der Katalogeintrag, den der Herausgeber teilte (der Verbundkatalog des Ossolineums und der Bibliotheken der Region), der den Inhalt nicht weiter beschreibt als seinen Titel; der Index des Sammelbands nennt niemanden; das Quellenverzeichnis des PSB-Artikels ist alles, was Pachoński gibt. Die Identifizierung ist daher nicht bis zu einer Nachprüfung, sondern mangels dessen, was es noch zu prüfen gäbe, beiseitegelegt: nur neue Zeugen - das Original des Briefs, das auftauchen würde, eine zweite Abschrift anderswo, oder neue Forschung - könnten sie wieder aufnehmen. Bis dahin bleibt der Brief, was seine Seite zeigt: Kościuszkos Antwort an einen nicht genannten emigrierten Korrespondenten. <!-- context -->
 
 ### Die Sammlung um sie
 

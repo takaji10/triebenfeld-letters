@@ -126,13 +126,16 @@ so check them.
   Kościuszko's letter of 3 September 1798, written in Paris, on page 145
   of the collection "Listy, dokumenty i wiersze z lat 1697-1798" — a
   reply to an unnamed émigré correspondent. **The link to Antoni
-  Prusimski once proposed through Pachoński's PSB entry is ruled out for
-  now** (the editor, 2026-11-01) **until something establishes it**; the
+  Prusimski once proposed through Pachoński's PSB entry is ruled out**
+  (the editor, 2026-11-01) **— the evidence exhausted in hand**; the
   recipient metadata stays empty, and the grounds are recorded in
   NEEDS_CONFIRMATION and the holding's notes (the PSB entry gives its
   sources only as a list - there is no per-claim apparatus, and the file
   the edition holds is the entire article; its quoted wording does not
-  appear in the copy). The
+  appear in the copy; the codex's own index names no addressee; the
+  library's catalogue record describes the contents no further than its
+  title). Only new evidence (the original, a second copy, new
+  scholarship) could reopen it. The
   transcription is the editor's corrected reading of Claude's
   band-by-band first pass; the copyist's orthography stands. Translated
   in session (no paid run), summaries claim-checked; intake is selective

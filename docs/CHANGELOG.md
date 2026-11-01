@@ -4107,3 +4107,19 @@ footer on every page. Changed, in both languages:
   or a name at the index level in the codex's own leaves (0033-0034,
   0061). The ruling itself (the link to Prusimski ruled out for now)
   is unchanged.
+
+## 2026-11-01: the ossol2289 attribution closed - the evidence exhausted in hand
+
+- The editor: "There is no name in 0033-0034. There is no inventory card
+  beyond the link that I shared with you - so this is all that we have."
+  The two remaining reopening paths of the previous entries are gone:
+  the codex's own index of letters names no addressee for the Kościuszko
+  letter (the editor's reading of leaves 0033-0034), and the library's
+  record for the codex is the catalogue entry the editor shared, which
+  describes the contents no further than its title.
+- The identification is therefore set aside not pending a look but for
+  lack of anything further to look at. Only new evidence - the original
+  of the letter surfacing, a second copy elsewhere, or new scholarship -
+  could reopen it. Worked into about.md/about_de.md, notes.md,
+  correspondents.json, NEEDS_CONFIRMATION and CLAUDE.md; the holding
+  itself, its transcription, translation and summaries are unchanged.

@@ -66,12 +66,20 @@ grounds, all checked in session:
   makes the citation's placing consistent with the correspondence
   paragraph - but proves nothing.
 
-What would tell us otherwise: an Ossolineum catalogue description or
-inventory card for rkp. 2289/II, or a name at the index level in the
-codex's own index leaves (0033-0034, unread to the name level) or on
-leaf 0061 (unread; image delivery failed). Until one of those speaks,
-the recipient stays unattributed in `correspondents.json` and the prose
-says the addressee is not named.
+- nothing else connects the letter to Prusimski: the codex's own index
+  of letters (leaves 0033-0034) names no addressee for it (the editor's
+  reading), and the letter itself names nobody;
+
+The evidence is exhausted in hand: the library's record for the codex is
+the catalogue entry the editor shared (the joint catalogue of the
+Ossolineum and the region's libraries), which describes the contents no
+further than its title; the codex's index names nobody; the PSB entry's
+source list is everything Pachoński gives. The identification is set
+aside not pending a look but for lack of anything further to look at:
+only new evidence - the original surfacing, a second copy elsewhere, or
+new scholarship - could reopen it. Until then, the recipient stays
+unattributed in `correspondents.json` and the prose says the addressee
+is not named.
 
 Two discrepancies stand between the copy and the PSB entry:
 
@@ -137,9 +145,11 @@ None. The leaf is whole; the copyist's hand is firm.
 
 ## Open (NEEDS_CONFIRMATION)
 
-- the attribution of the letter to Prusimski: **ruled out for now** (the
-  editor, 2026-11-01), to be reopened on evidence - the printed PSB's
-  footnotes, an Ossolineum inventory card, the codex's index leaves read;
+- the attribution of the letter to Prusimski: **ruled out** (the editor,
+  2026-11-01), with the evidence exhausted in hand - the PSB source list
+  is all Pachoński gives, the codex's index names no addressee, the
+  library's record is the catalogue entry shared. Only new evidence (the
+  original, a second copy, new scholarship) reopens it;
 - the "10 Aug." / "13 VIII" discrepancy;
 - the copyist's closing-note name (the editor confirms by hand);
 - the remaining 29 scans (sweep logged, uncommitted) and the missing

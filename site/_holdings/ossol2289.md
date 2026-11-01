@@ -23,9 +23,9 @@ The letter never names its addressee: "Obywatelu!" - Citizen! - is all the text 
 
 - the entry's citation of the manuscript stands in its general source list, and that list is the whole of what the entry gives about any of its sources: a PSB entry carries no per-claim footnote apparatus, and the file the edition holds is the entire article. What Pachoński took from this codex, and for which claim, is therefore not recoverable from what he printed;
 - the two phrases the entry quotes for the exchange («Lud i Wolność to dwa filary…», «nie zna go osobiście») appear in the copy in neither wording - if he had quoted this copy, a match would be expected;
-- nothing else in the edition connects the letter to Prusimski: the codex's index leaves (0033-0034) have not been read to the name level, and the letter itself names nobody.
+- nothing else connects the letter to Prusimski: the codex's own index of letters (leaves 0033-0034) names no addressee for it (the editor's reading), and the letter itself names nobody.
 
-What would tell us otherwise: an Ossolineum catalogue description or inventory card for rkp. 2289/II, or a name in the codex's own index. Until one of those speaks, the letter is kept as what its page shows: Kościuszko's reply to an unnamed émigré correspondent. <!-- context -->
+The evidence is exhausted in hand. The library's record for the codex is the catalogue entry the editor shared (the joint catalogue of the Ossolineum and the region's libraries), which describes the contents no further than its title; the codex's index names nobody; the PSB entry's source list is everything Pachoński gives. The identification is therefore set aside not pending a look but for lack of anything further to look at: only new evidence - the original of the letter surfacing, a second copy elsewhere, or new scholarship - could reopen it. Until then the letter is kept as what its page shows: Kościuszko's reply to an unnamed émigré correspondent. <!-- context -->
 
 ### The collection around it
 
