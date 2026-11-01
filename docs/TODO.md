@@ -1489,6 +1489,10 @@ transcription; 108 readings settled in session before the first build
 
 ## 59. The literature's call-outs reworked: "Related", per passage (2026-11-01, branch `related-callouts`)
 
+- [x] Published at your word on 2026-11-01 (the two commits cherry-picked
+      onto main, the Pełzucki map work beneath the branch left unpublished;
+      the Build and deploy run 41331884277 succeeded).
+
 - [x] The duplicated call-outs found (18 links stamped the same box on 2-9
       passages of one work) and reworked: per-passage notes (`about:` in
       `literature/links.yml`), the heading "Related"/"Bezüge", the gutter
@@ -1516,6 +1520,10 @@ transcription; 108 readings settled in session before the first build
       extends or dates what the passage says, in that order of value.
 
 ## 60. The connections between documents of different holdings (2026-11-01, branch `related-callouts`)
+
+- [x] Published at your word on 2026-11-01 (same push as section 59's:
+      run 41331884277 succeeded; the connections' box answers on the live
+      document pages).
 
 - [x] The mechanism built: `reference/connections.yml`, its builder, the
       "Related"/"Bezüge" entry in a document's "About this document" box,

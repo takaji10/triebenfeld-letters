@@ -4155,7 +4155,7 @@ footer on every page. Changed, in both languages:
   change: serve `site/_site` (python -m http.server), point the crawler at
   it, rebuild first. `jekyll build` and `verify_site.py` pass.
 
-## 2026-11-01: the literature's call-outs reworked — "Related", one note per passage, a gutter column with a toggle (branch `related-callouts`, not published)
+## 2026-11-01: the literature's call-outs reworked — "Related", one note per passage, a gutter column with a toggle (branch `related-callouts`, published at the editor's word)
 
 - The problem, reported by the editor with /literature/materialien1861/ as
   the example: the boxes generated from `literature/links.yml` under the
@@ -4224,10 +4224,9 @@ footer on every page. Changed, in both languages:
   Held's composition identified with the 1795 Abtretung; the Paciorkowski
   tie as resemblance, not statute.
 - Verified: build and `pipeline/verify_site.py` clean (37 links, 40
-  documents, 302 link-pairs checked on both sides). Committed on the
-  branch; not published.
+  documents, 302 link-pairs checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
 
-## 2026-11-01: the connections between documents of different holdings — the mechanism, the method, the step in every adding-a-source procedure (branch `related-callouts`, not published)
+## 2026-11-01: the connections between documents of different holdings — the mechanism, the method, the step in every adding-a-source procedure (branch `related-callouts`, published at the editor's word)
 
 - The editor asked how connections to other documents should be made —
   going deeper, across all the documents and not just the literature — and
@@ -4266,5 +4265,4 @@ footer on every page. Changed, in both languages:
   protocol). Screenshots checked the box at 1280 and 360 (no overflow;
   document pages are single-URL, the language swapped in-page).
 - Verified: build and `pipeline/verify_site.py` clean (8 cross-holding
-  connections checked on both sides). Committed on the branch; not
-  published.
+  connections checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.

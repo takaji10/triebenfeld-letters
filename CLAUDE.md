@@ -120,7 +120,7 @@ so check them.
 ## Where things stand (2026-11-01)
 
 - **The literature's call-outs reworked, and the connections built**
-  (branch `related-callouts`, 2026-11-01, **not published**): the duplicated
+  (branch `related-callouts`, 2026-11-01, **published at your word** — the two commits cherry-picked onto main, the Pełzucki map work beneath the branch left unpublished): the duplicated
   "In the documents" boxes rebuilt as per-passage notes ("Related"/"Bezüge")
   in a gutter column with a toggle (LITERATURE_PLAN section 32), the first
   sweep of new links written, and the cross-holding connections built with
