@@ -4027,3 +4027,72 @@ footer on every page. Changed, in both languages:
   `verify_site.py` pass with the text on the site. The work's `notes.md` and
   `docs/LITERATURE_PLAN.md` §30 record the change; the open question in
   `docs/NEEDS_CONFIRMATION.md` is settled.
+
+## 2026-11-01: Dorow (1843), Triebenfeld's memoir, brought in (not published)
+
+- The source found: the editor's PDF of Wilhelm Dorow, *Erlebtes aus den
+  Jahren 1813-1820*, part II (Leipzig 1843) - the SBB digitisation (PPN
+  167107372X, Bibl. Varnhagen 936, Public Domain Mark), image-only, 245 MB -
+  had been downloaded 2026-10-19 with the first literature set and left
+  unprocessed; nothing of it had ever entered the repository, the plan or
+  the index. It prints, at printed pp. 13-24, the memoir "Pohlen unter
+  Friedrich II. und Friedrich Wilhelm II." which the war councillor Peter
+  August von Triebenfeld submitted to Dorow in 1813 - the longest thing
+  Triebenfeld is known to have written, and in his own words; the
+  Materialien (1861, pp. 205-216) reprints it only in extract, and
+  Łukasiewicz (1997) retells it. The editor ruled the memoir only, not the
+  whole part II.
+- The excerpt: the memoir's title leaf and its Goethe motto leaf
+  (unnumbered, the volume's pp. 11-12) as the work's front, then printed
+  pp. 13-24, ending with Hardenberg's verdict of November 1816; 13 passages
+  in both languages. `literature/dorow1843/`, the slug `dorow1843`, kind
+  collection, visible (1843, public domain); the scan's pages are not kept
+  in the repository.
+- Read by OCR: Tesseract 5.5.3 with the `script/Fraktur` model from
+  tessdata_best fetched into `%LOCALAPPDATA%\Tesseract\tessdata` (the deu
+  model there does not read Fraktur; the install's own tessdata carries
+  English only); whole pages at 300 dpi, doubtful lines as 900 dpi bands in
+  the Fraktur and deu models. The lunaroute converter (the second engine of
+  the Kraus 2001 sitting) could not be reached this session; in its place
+  the Materialien's reprint of the same memoir was read line against line
+  with `difflib` - its added motto (Vollgräff), added pointers, small
+  omissions ("auf 6 Jahr"), own slips ("zu werden") and silent
+  normalisations are recorded in the work's `notes.md`, and the 1843 print
+  stands where they differ.
+- Nine readings the passes and the reprint did not settle went to the
+  editor's spot sheet (`scratch/dorow1843_sheet.py`, answers to
+  `review/dorow1843/query_answers.json`): the 9/5 Procent digit of p. 14
+  (the Materialien prints 5 with its own "(?—)" pointer), gebauset/gehauset,
+  Offizcianten against the print's own whole-word Offizianten of p. 17,
+  Würkungskreis and bewürken against the reprint's Wirkungs- forms, kukken,
+  Michelis/Michaelis, and the title leaf's display word and cross-reference.
+- The sheet answered the same day (eight of nine rows), the rulings worked
+  into `original.md` and the English: **5 Procent** (the Fraktur model's 9
+  was its error), **gehauset**, **Officianten**, **Würkungskreis**,
+  **bewürken**, **kukken**, **Michelis** and **Pohlen** stand; the
+  cross-reference row was not answered and stays open in NEEDS_CONFIRMATION
+  ("The literature"). The work's `notes.md` records the answers and the two
+  spellings of Offizianten/Officianten the print itself carries (p. 17 as
+  read, p. 15 as ruled).
+- The figures: the memoir's own figures are Triebenfeld's (the 10 and the
+  volunteered 24 per cent; Prince Karl George of Hessen's circa 230,000
+  purchase valued at 800,000; Heymann Ephraim's 200,000 at 5 per cent with
+  the 30,000 proxeneticum). The memoir does not print the story of
+  Triebenfeld's own estate - that is Łukasiewicz's telling - and
+  Łukasiewicz's "35 000" for the valuation commission is not the memoir's
+  figure either: the memoir makes the valuation itself cost the prince
+  "etwa 3500 Thlr." (p. 22). The register's entry and the letters (400,000
+  and 750,000) stand against both (the standing rule).
+- The index: 60 hits of the edition's people and places (Hoym 23,
+  Schulenburg 10, Berlin 6, Triebenfeld 4, Südpreußen 4), every spelling
+  already ruled for the other works; `--check` passes with 0 unruled. One
+  hand-made link (`dorow-memoir`): the memoir's two self-identifying
+  passages (pp. 18-19) to the same three letters of the Prince that stand
+  against Łukasiewicz's telling (oe1bu9454-104, -108, -112); the
+  attribution of the memoir is the volume's own and the Materialien's note
+  152 spells it out.
+- `literature_site.py`, `make_thumbs.py`, `build_site_data.py`, `jekyll
+  build` and `verify_site.py` all pass (630 documents character-exact, 326
+  hand-made links checked on both sides). `docs/LITERATURE_PLAN.md` §31
+  records the work. The literature has 41 works, 35 with pages in both
+  languages and six summary-only.

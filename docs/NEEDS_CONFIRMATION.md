@@ -1491,3 +1491,10 @@ rulings on the pilot").
   friends such as the Silesian Danckelmann, Jacek Małachowski and Kamionna on
   the Bzura ruled out). The bibliography, index and errata are apparatus and
   are not cut into passages (see the work's `notes.md`).
+
+- **Dorow (1843), the memoir's cross-reference** (added 2026-11-01): the
+  form of the numeral in the title leaf's "Siehe I. Theil Seite 19." - the
+  spot sheet's one unanswered row (the Fraktur pass read "1r Theil", the
+  deu pass "Ir Theil"; both point to a roman I, and the draft stands at
+  "Siehe I. Theil Seite 19."). The literature's other eight doubtful
+  readings were ruled on the sheet the same day (the work's `notes.md`).

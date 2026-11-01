@@ -171,6 +171,15 @@ person:
     - key: 3-132
       en: Part 3, p. 132
       de: Heft 3, S. 132
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: '13'
+      en: p. 13
+      de: S. 13
   - work: materialien1861
     cite: Materialien (1861)
     pages:
@@ -377,6 +386,12 @@ person:
       en: Notes
       de: Anmerkungen
   hardenberg:
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: '24'
+      en: p. 24
+      de: S. 24
   - work: materialien1861
     cite: Materialien (1861)
     pages:
@@ -1006,6 +1021,21 @@ person:
     - key: 3-140
       en: Part 3, p. 140
       de: Heft 3, S. 140
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: '18'
+      en: p. 18
+      de: S. 18
+    - key: '19'
+      en: p. 19
+      de: S. 19
+    - key: '20'
+      en: p. 20
+      de: S. 20
+    - key: '21'
+      en: p. 21
+      de: S. 21
   - work: materialien1861
     cite: Materialien (1861)
     pages:
@@ -2083,6 +2113,21 @@ person:
       en: p. 52
       de: S. 52
   schulenburg:
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: '19'
+      en: p. 19
+      de: S. 19
+    - key: '20'
+      en: p. 20
+      de: S. 20
+    - key: '21'
+      en: p. 21
+      de: S. 21
+    - key: '23'
+      en: p. 23
+      de: S. 23
   - work: materialien1861
     cite: Materialien (1861)
     pages:
@@ -2262,6 +2307,15 @@ person:
     - key: '256'
       en: p. 256
       de: S. 256
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: '19'
+      en: p. 19
+      de: S. 19
+    - key: '20'
+      en: p. 20
+      de: S. 20
   - work: materialien1861
     cite: Materialien (1861)
     pages:
@@ -2472,6 +2526,18 @@ person:
     - key: 3-134
       en: Part 3, p. 134
       de: Heft 3, S. 134
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: '18'
+      en: p. 18
+      de: S. 18
+    - key: '19'
+      en: p. 19
+      de: S. 19
+    - key: '20'
+      en: p. 20
+      de: S. 20
   - work: materialien1861
     cite: Materialien (1861)
     pages:
@@ -2536,6 +2602,15 @@ person:
       en: p. 61
       de: S. 61
   voss:
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: '14'
+      en: p. 14
+      de: S. 14
+    - key: '17'
+      en: p. 17
+      de: S. 17
   - work: materialien1861
     cite: Materialien (1861)
     pages:
@@ -2714,6 +2789,12 @@ person:
     - key: 2-84
       en: Part 2, p. 84
       de: Heft 2, S. 84
+  - work: dorow1843
+    cite: Dorow (1843)
+    pages:
+    - key: '19'
+      en: p. 19
+      de: S. 19
   - work: materialien1861
     cite: Materialien (1861)
     pages:
