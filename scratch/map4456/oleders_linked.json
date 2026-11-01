@@ -1,0 +1,2397 @@
+[
+ {
+  "no": 1,
+  "name_1868": "Konchinskii Iakov",
+  "dues_1868": "17 r 84 k",
+  "name_1869": "Konchinskii Iakov",
+  "holder_1875": "",
+  "morgen_1868": 17,
+  "rods_1868": 84,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Konchinskii Iakov",
+  "total_1896": "10 des 2048 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.879493,
+    "lat": 52.126121,
+    "conf": 1.0,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.880457,
+    "lat": 52.109372,
+    "conf": 0.993,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.961507,
+    "lat": 52.095318,
+    "conf": 0.986,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.939691,
+    "lat": 52.089173,
+    "conf": 0.937,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.915883,
+    "lat": 52.08866,
+    "conf": 0.806,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.970804,
+    "lat": 52.111511,
+    "conf": 0.672,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.925632,
+    "lat": 52.093798,
+    "conf": 0.667,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.959138,
+    "lat": 52.094888,
+    "conf": 0.665,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.968972,
+    "lat": 52.111339,
+    "conf": 0.66,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.88488,
+    "lat": 52.110378,
+    "conf": 0.62,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 10
+ },
+ {
+  "no": 2,
+  "name_1868": "Gebel Martin",
+  "dues_1868": "29 r 262 k",
+  "name_1869": "Glebel Martin",
+  "holder_1875": "Voits. Runga",
+  "morgen_1868": 29,
+  "rods_1868": 262,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Gebel Martin",
+  "total_1896": "16 des 844 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.915368,
+    "lat": 52.089217,
+    "conf": 0.997,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.954515,
+    "lat": 52.099833,
+    "conf": 0.859,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.921807,
+    "lat": 52.109851,
+    "conf": 0.831,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.968498,
+    "lat": 52.098992,
+    "conf": 0.831,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.884204,
+    "lat": 52.107606,
+    "conf": 0.734,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 5
+ },
+ {
+  "no": 3,
+  "name_1868": "Merts Karl",
+  "dues_1868": "48 r 56 k",
+  "name_1869": "Merts Karl",
+  "holder_1875": "Avg.",
+  "morgen_1868": 48,
+  "rods_1868": 56,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Merts Karl",
+  "total_1896": "27 des 2002 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.878327,
+    "lat": 52.109432,
+    "conf": 1.0,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.877918,
+    "lat": 52.108918,
+    "conf": 1.0,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.884098,
+    "lat": 52.110541,
+    "conf": 0.999,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.919673,
+    "lat": 52.08927,
+    "conf": 0.999,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.938119,
+    "lat": 52.109589,
+    "conf": 0.997,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.92767,
+    "lat": 52.093626,
+    "conf": 0.997,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.957569,
+    "lat": 52.097015,
+    "conf": 0.981,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.916893,
+    "lat": 52.111281,
+    "conf": 0.949,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.95774,
+    "lat": 52.094422,
+    "conf": 0.941,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.899639,
+    "lat": 52.111986,
+    "conf": 0.927,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.875029,
+    "lat": 52.099622,
+    "conf": 0.895,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.960242,
+    "lat": 52.096905,
+    "conf": 0.879,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.921567,
+    "lat": 52.094114,
+    "conf": 0.835,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.893638,
+    "lat": 52.103434,
+    "conf": 0.805,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.957803,
+    "lat": 52.102284,
+    "conf": 0.777,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.965604,
+    "lat": 52.096541,
+    "conf": 0.768,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.947963,
+    "lat": 52.096754,
+    "conf": 0.685,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.883819,
+    "lat": 52.110181,
+    "conf": 0.685,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.884395,
+    "lat": 52.111267,
+    "conf": 0.667,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.909883,
+    "lat": 52.128592,
+    "conf": 0.632,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 20
+ },
+ {
+  "no": 4,
+  "name_1868": "Kholm Daniel",
+  "dues_1868": "40 r 161 k",
+  "name_1869": "[uncertain: Kholm] Daniil",
+  "holder_1875": "Ernst 26-161; Avg. Kholm 14",
+  "morgen_1868": 40,
+  "rods_1868": 161,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Kholm Daniil",
+  "total_1896": "22 des 1156 saz",
+  "changed": "CHANGED",
+  "map_sites": [
+   {
+    "lon": 17.949804,
+    "lat": 52.095116,
+    "conf": 0.991,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.961891,
+    "lat": 52.095852,
+    "conf": 0.99,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.883336,
+    "lat": 52.099798,
+    "conf": 0.963,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.884107,
+    "lat": 52.112251,
+    "conf": 0.962,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.880763,
+    "lat": 52.112249,
+    "conf": 0.961,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.910167,
+    "lat": 52.113894,
+    "conf": 0.9,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.877563,
+    "lat": 52.099097,
+    "conf": 0.879,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.911753,
+    "lat": 52.096955,
+    "conf": 0.868,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.891494,
+    "lat": 52.105038,
+    "conf": 0.866,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.94892,
+    "lat": 52.095962,
+    "conf": 0.844,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.897116,
+    "lat": 52.104653,
+    "conf": 0.757,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.906087,
+    "lat": 52.113458,
+    "conf": 0.749,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.880772,
+    "lat": 52.099923,
+    "conf": 0.747,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.882124,
+    "lat": 52.111342,
+    "conf": 0.711,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.877468,
+    "lat": 52.104691,
+    "conf": 0.702,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.963151,
+    "lat": 52.110669,
+    "conf": 0.676,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.958358,
+    "lat": 52.097658,
+    "conf": 0.632,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.908631,
+    "lat": 52.099549,
+    "conf": 0.611,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 18
+ },
+ {
+  "no": 5,
+  "name_1868": "Merts Gotlib",
+  "dues_1868": "7 r 289 k",
+  "name_1869": "Merts Gotlib",
+  "holder_1875": "",
+  "morgen_1868": 7,
+  "rods_1868": 289,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Merts Gotlib",
+  "total_1896": "6 des 187 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.91166,
+    "lat": 52.104406,
+    "conf": 0.984,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.957675,
+    "lat": 52.094312,
+    "conf": 0.982,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.888342,
+    "lat": 52.113685,
+    "conf": 0.976,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.960143,
+    "lat": 52.098502,
+    "conf": 0.962,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.943393,
+    "lat": 52.095576,
+    "conf": 0.958,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.900806,
+    "lat": 52.109105,
+    "conf": 0.95,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.952501,
+    "lat": 52.0968,
+    "conf": 0.935,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.894748,
+    "lat": 52.113989,
+    "conf": 0.814,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.959736,
+    "lat": 52.09593,
+    "conf": 0.764,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.900957,
+    "lat": 52.096247,
+    "conf": 0.718,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.936321,
+    "lat": 52.108685,
+    "conf": 0.697,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.944433,
+    "lat": 52.09146,
+    "conf": 0.629,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.905366,
+    "lat": 52.108252,
+    "conf": 0.6,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 13
+ },
+ {
+  "no": 6,
+  "name_1868": "Girsh Kristiian",
+  "dues_1868": "17 r 233 k",
+  "name_1869": "Girsh Kristiian",
+  "holder_1875": "Vilg. Kholm",
+  "morgen_1868": 17,
+  "rods_1868": 233,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Girsh Kristiian",
+  "total_1896": "11 des 1708 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.913295,
+    "lat": 52.088537,
+    "conf": 0.996,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.889298,
+    "lat": 52.102939,
+    "conf": 0.995,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.892165,
+    "lat": 52.105241,
+    "conf": 0.994,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.910081,
+    "lat": 52.094055,
+    "conf": 0.992,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.949114,
+    "lat": 52.096895,
+    "conf": 0.877,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.957209,
+    "lat": 52.096029,
+    "conf": 0.862,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.907084,
+    "lat": 52.117715,
+    "conf": 0.853,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.904908,
+    "lat": 52.113267,
+    "conf": 0.841,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.938174,
+    "lat": 52.096291,
+    "conf": 0.749,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.953208,
+    "lat": 52.09975,
+    "conf": 0.739,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.889292,
+    "lat": 52.107164,
+    "conf": 0.687,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.959301,
+    "lat": 52.096598,
+    "conf": 0.659,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 12
+ },
+ {
+  "no": 7,
+  "name_1868": "Kinast Vilgelm",
+  "dues_1868": "15 r 112 k",
+  "name_1869": "Kinast Vilgelm",
+  "holder_1875": "",
+  "morgen_1868": 15,
+  "rods_1868": 112,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Kinast Vilgelm",
+  "total_1896": "10 des 281 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.893868,
+    "lat": 52.097121,
+    "conf": 0.858,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.88709,
+    "lat": 52.113101,
+    "conf": 0.841,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.879507,
+    "lat": 52.106519,
+    "conf": 0.797,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.949992,
+    "lat": 52.102007,
+    "conf": 0.617,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 4
+ },
+ {
+  "no": 8,
+  "name_1868": "Strzhizhikovskii Frants",
+  "dues_1868": "11 r 148 k",
+  "name_1869": "Strzhizhikovskii Frantsishek",
+  "holder_1875": "",
+  "morgen_1868": 11,
+  "rods_1868": 148,
+  "land_serv_1894": "6 Morgen",
+  "name_1896": "Strzhizhikovskii Frants",
+  "total_1896": "7 des 1085 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.957127,
+    "lat": 52.09501,
+    "conf": 0.999,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.919896,
+    "lat": 52.109721,
+    "conf": 0.996,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.880561,
+    "lat": 52.09938,
+    "conf": 0.972,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.969426,
+    "lat": 52.097894,
+    "conf": 0.968,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.879535,
+    "lat": 52.099751,
+    "conf": 0.906,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.883076,
+    "lat": 52.111946,
+    "conf": 0.863,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.915692,
+    "lat": 52.112956,
+    "conf": 0.653,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.884115,
+    "lat": 52.099029,
+    "conf": 0.617,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.944117,
+    "lat": 52.09359,
+    "conf": 0.606,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 9
+ },
+ {
+  "no": 9,
+  "name_1868": "Sanikovskii Martsin — 18 282",
+  "dues_1868": "19 r 22 k",
+  "name_1869": "Sanikovskii Martin",
+  "holder_1875": "Iosif Vavrzhiniak",
+  "morgen_1868": 19,
+  "rods_1868": 22,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Sanikovskii Martin",
+  "total_1896": "11 des 1628 saz",
+  "changed": "CHANGED",
+  "map_sites": [
+   {
+    "lon": 17.955417,
+    "lat": 52.099899,
+    "conf": 0.873,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.963139,
+    "lat": 52.110943,
+    "conf": 0.802,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.886168,
+    "lat": 52.113869,
+    "conf": 0.725,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.964806,
+    "lat": 52.097195,
+    "conf": 0.643,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 4
+ },
+ {
+  "no": 10,
+  "name_1868": "Marek Vilgelm — 22 277",
+  "dues_1868": "32 r 179 k",
+  "name_1869": "Marek Vilgelm",
+  "holder_1875": "Merts",
+  "morgen_1868": 32,
+  "rods_1868": 179,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Marek Vilgelm",
+  "total_1896": "19 des 560 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.911563,
+    "lat": 52.111452,
+    "conf": 0.996,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.966911,
+    "lat": 52.111201,
+    "conf": 0.939,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 11,
+  "name_1868": "Grunvald Kristof",
+  "dues_1868": "22 r 273 k",
+  "name_1869": "Grunvald Krishtof",
+  "holder_1875": "",
+  "morgen_1868": 22,
+  "rods_1868": 273,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Grunvald Kristof",
+  "total_1896": "14 des 1949 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.967947,
+    "lat": 52.11152,
+    "conf": 0.824,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.954562,
+    "lat": 52.096865,
+    "conf": 0.783,
+    "status": "supported"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 12,
+  "name_1868": "Slivinskii Gotlib",
+  "dues_1868": "14 r 122 k",
+  "name_1869": "Slivinskii Gotlib",
+  "holder_1875": "Gotl. Kinast",
+  "morgen_1868": 14,
+  "rods_1868": 122,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "[uncertain: Slivinskii] Gotlib",
+  "total_1896": "8 des 2328 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 13,
+  "name_1868": "Shteinbord Iulian",
+  "dues_1868": "17 r 75 k",
+  "name_1869": "Shteinbord Iulian",
+  "holder_1875": "",
+  "morgen_1868": 17,
+  "rods_1868": 75,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shteinbord Iulian",
+  "total_1896": "11 des 103 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 14,
+  "name_1868": "Kholm Vilgelm",
+  "dues_1868": "13 r 280 k",
+  "name_1869": "Kholm Vilgelm",
+  "holder_1875": "[uncertain: Brushk.] Klige",
+  "morgen_1868": 13,
+  "rods_1868": 280,
+  "land_serv_1894": "6 Morgen",
+  "name_1896": "Kholm Vilgelm",
+  "total_1896": "11 des 195 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.882666,
+    "lat": 52.107298,
+    "conf": 0.941,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.878395,
+    "lat": 52.109532,
+    "conf": 0.819,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.878744,
+    "lat": 52.124709,
+    "conf": 0.703,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 3
+ },
+ {
+  "no": 15,
+  "name_1868": "Falk Avgust",
+  "dues_1868": "5 r 15 k",
+  "name_1869": "Falk Avgust",
+  "holder_1875": "",
+  "morgen_1868": 5,
+  "rods_1868": 15,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Falk Avgust",
+  "total_1896": "4 des 1314 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 16,
+  "name_1868": "Merts Kristiian",
+  "dues_1868": "23 r 125 k",
+  "name_1869": "Merts Kristiian",
+  "holder_1875": "Kar. 16-125",
+  "morgen_1868": 23,
+  "rods_1868": 125,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Merts Kristiian",
+  "total_1896": "15 des 973 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.936752,
+    "lat": 52.097187,
+    "conf": 0.792,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.894741,
+    "lat": 52.094874,
+    "conf": 0.702,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.902183,
+    "lat": 52.119214,
+    "conf": 0.646,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 3
+ },
+ {
+  "no": 17,
+  "name_1868": "Merts Martsin",
+  "dues_1868": "8 r 293 k",
+  "name_1869": "Merts Martin",
+  "holder_1875": "Krist.",
+  "morgen_1868": 8,
+  "rods_1868": 293,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Merts Martin",
+  "total_1896": "6 des 1107 saz",
+  "changed": "CHANGED",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 18,
+  "name_1868": "Sanikovskii Osip",
+  "dues_1868": "27 r 244 k",
+  "name_1869": "Sanikovskii Iosif",
+  "holder_1875": "[uncertain: Frants.]",
+  "morgen_1868": 27,
+  "rods_1868": 244,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Sanikovskii Osip",
+  "total_1896": "15 des 1303 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 19,
+  "name_1868": "[uncertain: Sturtsenbekher] Kristiian",
+  "dues_1868": "15 r 24 k",
+  "name_1869": "Sturtsenbeker Kristian",
+  "holder_1875": "",
+  "morgen_1868": 15,
+  "rods_1868": 24,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Stirtsenbeker Kristiian",
+  "total_1896": "9 des 1538 saz",
+  "changed": "CHANGED",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 20,
+  "name_1868": "Sanikovskii Ivan",
+  "dues_1868": "24 r 187 k",
+  "name_1869": "Sanikovskii Ivan",
+  "holder_1875": "[uncertain: nur] 14; 10 Morgen",
+  "morgen_1868": 24,
+  "rods_1868": 187,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Sanikovskii Ian",
+  "total_1896": "14 des 1602 saz",
+  "changed": "CHANGED",
+  "map_sites": [
+   {
+    "lon": 17.97001,
+    "lat": 52.098155,
+    "conf": 0.747,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 21,
+  "name_1868": "heirs of Goske Karla",
+  "dues_1868": "25 r 129 k",
+  "name_1869": "heirs of Goske Karla",
+  "holder_1875": "",
+  "morgen_1868": 25,
+  "rods_1868": 129,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Goske Karla",
+  "total_1896": "14 des 1952 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 22,
+  "name_1868": "Bludzinskii Ivan",
+  "dues_1868": "9 r 294 k",
+  "name_1869": "Bludzinskii Ivan",
+  "holder_1875": "Dan. Kinast",
+  "morgen_1868": 9,
+  "rods_1868": 294,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Bludzinskii Ivan",
+  "total_1896": "7 des 646 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 23,
+  "name_1868": "Shmigelskii Vilgelm",
+  "dues_1868": "49 r 70 k",
+  "name_1869": "Shmigelskii Vilgelm",
+  "holder_1875": "31-70; 18 Karl Morits",
+  "morgen_1868": 49,
+  "rods_1868": 70,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shmigelskii Vilgelm",
+  "total_1896": "27 des 874 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 24,
+  "name_1868": "heirs of Rogatskago Petra",
+  "dues_1868": "30 r 235 k",
+  "name_1869": "heirs of Rogatskago Petra",
+  "holder_1875": "Pav. 15; widow Rogatsk. 15",
+  "morgen_1868": 30,
+  "rods_1868": 235,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Rogatskago Petra",
+  "total_1896": "17 des 892 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 25,
+  "name_1868": "Promist Shchepan",
+  "dues_1868": "13 r 87 k",
+  "name_1869": "Promist Shchepan",
+  "holder_1875": "",
+  "morgen_1868": 13,
+  "rods_1868": 87,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "[uncertain: Promins] Shchepan",
+  "total_1896": "8 des 2055 saz",
+  "changed": "CHANGED",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 26,
+  "name_1868": "Runga Voitsekh",
+  "dues_1868": "36 r 222 k",
+  "name_1869": "Runga Voitsekh",
+  "holder_1875": "[uncertain: nur] 18; Runga Voits. 18",
+  "morgen_1868": 36,
+  "rods_1868": 222,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Runga Voitsekh",
+  "total_1896": "21 des 401 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 27,
+  "name_1868": "heirs of Runga Gotfrida",
+  "dues_1868": "18 r 65 k",
+  "name_1869": "heirs of Runga Gotfrida",
+  "holder_1875": "",
+  "morgen_1868": 18,
+  "rods_1868": 65,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Runga Gotfrida",
+  "total_1896": "11 des 1759 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 28,
+  "name_1868": "Falkenberg Martsin",
+  "dues_1868": "41 r 94 k",
+  "name_1869": "Falkenberg Martin",
+  "holder_1875": "",
+  "morgen_1868": 41,
+  "rods_1868": 94,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Falkenberg Martin",
+  "total_1896": "22 des 2172 saz",
+  "changed": "CHANGED",
+  "map_sites": [
+   {
+    "lon": 17.955192,
+    "lat": 52.098627,
+    "conf": 0.94,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.895837,
+    "lat": 52.113995,
+    "conf": 0.687,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 29,
+  "name_1868": "Goska Osip",
+  "dues_1868": "15 r 188 k",
+  "name_1869": "Goska Iosif",
+  "holder_1875": "+ 3 Morgen",
+  "morgen_1868": 15,
+  "rods_1868": 188,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Goska Osip",
+  "total_1896": "11 des 1400 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 30,
+  "name_1868": "Shults Kristiian",
+  "dues_1868": "7 r 196 k",
+  "name_1869": "Kristian Shults",
+  "holder_1875": "",
+  "morgen_1868": 7,
+  "rods_1868": 196,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shults Kristiian",
+  "total_1896": "5 des 2334 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.930259,
+    "lat": 52.095421,
+    "conf": 0.97,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.930832,
+    "lat": 52.090728,
+    "conf": 0.76,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 31,
+  "name_1868": "Knafkus Vilgelm",
+  "dues_1868": "1 r 196 k",
+  "name_1869": "Knafkus Vilgelm",
+  "holder_1875": "Gotl.",
+  "morgen_1868": 1,
+  "rods_1868": 196,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Knafkus Vilgelm",
+  "total_1896": "2 des 1493 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 32,
+  "name_1868": "heirs of Runge Voitsekha",
+  "dues_1868": "5 r 135 k",
+  "name_1869": "heirs of Runge Voitsekha",
+  "holder_1875": "Gotl.",
+  "morgen_1868": 5,
+  "rods_1868": 135,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Rungi Voitsekha",
+  "total_1896": "4 des 1248 saz",
+  "changed": "CHANGED",
+  "map_sites": [
+   {
+    "lon": 17.967686,
+    "lat": 52.100983,
+    "conf": 0.996,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 33,
+  "name_1868": "heirs of Runge Gotfrida",
+  "dues_1868": "26 r 45 k",
+  "name_1869": "heirs of Runge Gotfrida",
+  "holder_1875": "Krist. Sheinfish",
+  "morgen_1868": 26,
+  "rods_1868": 45,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Rungi Gotfrida",
+  "total_1896": "15 des 566 saz",
+  "changed": "CHANGED",
+  "map_sites": [
+   {
+    "lon": 17.900409,
+    "lat": 52.118123,
+    "conf": 0.681,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 34,
+  "name_1868": "Runge Martin",
+  "dues_1868": "2 r 115 k",
+  "name_1869": "Runge Martin",
+  "holder_1875": "",
+  "morgen_1868": 2,
+  "rods_1868": 115,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Runge Martin",
+  "total_1896": "3 des 721 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 35,
+  "name_1868": "Kitke Kristiian",
+  "dues_1868": "6 r 46 k",
+  "name_1869": "Kitke Kristiian",
+  "holder_1875": "Adler Vilg.",
+  "morgen_1868": 6,
+  "rods_1868": 46,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Kitke Kristiian",
+  "total_1896": "5 des 860 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.924742,
+    "lat": 52.110106,
+    "conf": 0.698,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 36,
+  "name_1868": "Fridenberg Kristof",
+  "dues_1868": "19 r 220 k",
+  "name_1869": "Fridenberg Krishtof",
+  "holder_1875": "Ed. [uncertain: Bromke]",
+  "morgen_1868": 19,
+  "rods_1868": 220,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Fridenberg Kristof",
+  "total_1896": "11 des 1113 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.918479,
+    "lat": 52.109873,
+    "conf": 0.682,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 37,
+  "name_1868": "Tselmer Gotfrid",
+  "dues_1868": "26 r 14 k",
+  "name_1869": "Tselmer Gotfrid",
+  "holder_1875": "Shults Frid.",
+  "morgen_1868": 26,
+  "rods_1868": 14,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Tselmer Gotfrid",
+  "total_1896": "15 des 1157 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 38,
+  "name_1868": "Malinovskii Petr",
+  "dues_1868": "5 r 277 k",
+  "name_1869": "Malinovskii Petr",
+  "holder_1875": "+ 7",
+  "morgen_1868": 5,
+  "rods_1868": 277,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Malinovskii Petr",
+  "total_1896": "5 des 78 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.932831,
+    "lat": 52.09559,
+    "conf": 0.903,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 39,
+  "name_1868": "Khaupt Frants Kristiian",
+  "dues_1868": "13 r 174 k",
+  "name_1869": "Khaupt Frants Kristian",
+  "holder_1875": "Krist. son; + 2 Morgen",
+  "morgen_1868": 13,
+  "rods_1868": 174,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Khaupt Kristiian",
+  "total_1896": "8 des 2238 saz",
+  "changed": "shortened",
+  "map_sites": [
+   {
+    "lon": 17.915746,
+    "lat": 52.09243,
+    "conf": 0.867,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.880451,
+    "lat": 52.097286,
+    "conf": 0.716,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 40,
+  "name_1868": "Shvebs Karl Veniiamin",
+  "dues_1868": "4 r 168 k",
+  "name_1869": "Shvebs Karl Veniiamin",
+  "holder_1875": "Sam. Shtiltser",
+  "morgen_1868": 4,
+  "rods_1868": 168,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shvebs Karl Veniiamin",
+  "total_1896": "4 des 776 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.889208,
+    "lat": 52.104103,
+    "conf": 0.716,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 41,
+  "name_1868": "Shtirtsenbekher Karl",
+  "dues_1868": "8 r 45 k",
+  "name_1869": "Shtirtsenbeker Karl",
+  "holder_1875": "",
+  "morgen_1868": 8,
+  "rods_1868": 45,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shtirtsenbeker Karl",
+  "total_1896": "5 des 2285 saz",
+  "changed": "CHANGED",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 42,
+  "name_1868": "heirs of Betke Kristiiana",
+  "dues_1868": "8 r 192 k",
+  "name_1869": "heirs of Betke Kristiana",
+  "holder_1875": "",
+  "morgen_1868": 8,
+  "rods_1868": 192,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Betke Kristiiana",
+  "total_1896": "6 des 683 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 43,
+  "name_1868": "Kinast Mateush",
+  "dues_1868": "3 r 248 k",
+  "name_1869": "Kinast Mateush",
+  "holder_1875": "Gotfr.",
+  "morgen_1868": 3,
+  "rods_1868": 248,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Kinast Mateush",
+  "total_1896": "3 des 1661 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.904059,
+    "lat": 52.110065,
+    "conf": 0.706,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 44,
+  "name_1868": "Rash Friderik Ivan",
+  "dues_1868": "53 r 196 k",
+  "name_1869": "Rash Friderik Ivan",
+  "holder_1875": "",
+  "morgen_1868": 53,
+  "rods_1868": 196,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Rash Friderik",
+  "total_1896": "28 des 666 saz",
+  "changed": "shortened",
+  "map_sites": [
+   {
+    "lon": 17.88881,
+    "lat": 52.097841,
+    "conf": 0.951,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.885966,
+    "lat": 52.096171,
+    "conf": 0.688,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 45,
+  "name_1868": "Bandzert Emanuil",
+  "dues_1868": "4 r 48 k",
+  "name_1869": "Bandzer Imanuil",
+  "holder_1875": "",
+  "morgen_1868": 4,
+  "rods_1868": 48,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Bandzert Emanuil",
+  "total_1896": "4 des 1020 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 46,
+  "name_1868": "Kun Gotfrid",
+  "dues_1868": "38 r 66 k",
+  "name_1869": "Kun Gotfrid",
+  "holder_1875": "",
+  "morgen_1868": 38,
+  "rods_1868": 66,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Kun Gotfrid",
+  "total_1896": "20 des 2209 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.878743,
+    "lat": 52.107565,
+    "conf": 0.739,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 47,
+  "name_1868": "Zeer Kristiian",
+  "dues_1868": "42 r 99 k",
+  "name_1869": "Zeer Kristian",
+  "holder_1875": "Iv. Genke 29; [uncertain: Gep.] Zeer 13",
+  "morgen_1868": 42,
+  "rods_1868": 99,
+  "land_serv_1894": "5 Morgen",
+  "name_1896": "Zeer Kristiian",
+  "total_1896": "26 des 1922 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 48,
+  "name_1868": "Bandzert Morits",
+  "dues_1868": "36 r 135 k",
+  "name_1869": "Murits",
+  "holder_1875": "Dan. Zeer",
+  "morgen_1868": 36,
+  "rods_1868": 135,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Bandzert Morits",
+  "total_1896": "20 des 165 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.877719,
+    "lat": 52.107251,
+    "conf": 0.837,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.882664,
+    "lat": 52.103915,
+    "conf": 0.817,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 49,
+  "name_1868": "Merts Avgust",
+  "dues_1868": "33 r 93 k",
+  "name_1869": "Merts Avgust",
+  "holder_1875": "",
+  "morgen_1868": 33,
+  "rods_1868": 93,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Merts Avgust",
+  "total_1896": "18 des 909 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.8878,
+    "lat": 52.102093,
+    "conf": 0.988,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.888277,
+    "lat": 52.096037,
+    "conf": 0.863,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 50,
+  "name_1868": "Tselmer Genrikh",
+  "dues_1868": "35 r 42 k",
+  "name_1869": "Tselmer Genrikh",
+  "holder_1875": "",
+  "morgen_1868": 35,
+  "rods_1868": 42,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Tselmer Genrikh",
+  "total_1896": "20 des 416 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.891989,
+    "lat": 52.096338,
+    "conf": 0.934,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.876776,
+    "lat": 52.099377,
+    "conf": 0.762,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 51,
+  "name_1868": "Gebel Karl",
+  "dues_1868": "14 r 105 k",
+  "name_1869": "Gebel Karl",
+  "holder_1875": "Kr. Girsh",
+  "morgen_1868": 14,
+  "rods_1868": 105,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Gebel Karl",
+  "total_1896": "9 des 1567 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 52,
+  "name_1868": "Shmigelskii Samuil",
+  "dues_1868": "14 r 13 k",
+  "name_1869": "Shmigelskii Samuil",
+  "holder_1875": "Kar. Kholm",
+  "morgen_1868": 14,
+  "rods_1868": 13,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shmigelskii Samuil",
+  "total_1896": "9 des 1125 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.951698,
+    "lat": 52.096345,
+    "conf": 0.72,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 53,
+  "name_1868": "heirs of Tselmera Daniila",
+  "dues_1868": "12 r 60 k",
+  "name_1869": "heirs of Tselmera Daniila",
+  "holder_1875": "Avg. Shmigel",
+  "morgen_1868": 12,
+  "rods_1868": 60,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Tselmera Daniila",
+  "total_1896": "8 des 1888 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 54,
+  "name_1868": "Bitner Andrei",
+  "dues_1868": "30 r 115 k",
+  "name_1869": "Bitner Andrei",
+  "holder_1875": "Vil. Kovalski",
+  "morgen_1868": 30,
+  "rods_1868": 115,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Bitner Andrei",
+  "total_1896": "17 des 1475 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.963436,
+    "lat": 52.10099,
+    "conf": 0.966,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.911219,
+    "lat": 52.108043,
+    "conf": 0.893,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 55,
+  "name_1868": "Rytamer Anton",
+  "dues_1868": "13 r 142 k",
+  "name_1869": "Rytamer Antonii",
+  "holder_1875": "Gotfr.",
+  "morgen_1868": 13,
+  "rods_1868": 142,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Rytamer Anton",
+  "total_1896": "8 des 2112 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 56,
+  "name_1868": "Przhistanskii Anton",
+  "dues_1868": "5 r 59 k",
+  "name_1869": "Przhistanskii Antonii",
+  "holder_1875": "",
+  "morgen_1868": 5,
+  "rods_1868": 59,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Przhistanskii Anton",
+  "total_1896": "4 des 1708 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 57,
+  "name_1868": "Bartel Karl Liudvik",
+  "dues_1868": "6 r 68 k",
+  "name_1869": "Bartel Karl Liudvik",
+  "holder_1875": "Vilg.",
+  "morgen_1868": 6,
+  "rods_1868": 68,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Bartel Karl Liudvik",
+  "total_1896": "5 des 1561 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 58,
+  "name_1868": "Goske Voitsekh",
+  "dues_1868": "16 r 147 k",
+  "name_1869": "Goske Voitsekh",
+  "holder_1875": "",
+  "morgen_1868": 16,
+  "rods_1868": 147,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Goske Voitsekh",
+  "total_1896": "10 des 306 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.891477,
+    "lat": 52.103783,
+    "conf": 0.871,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.917044,
+    "lat": 52.09371,
+    "conf": 0.773,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 59,
+  "name_1868": "Gints Liudvik",
+  "dues_1868": "16 r 287 k",
+  "name_1869": "Gints Liudvik",
+  "holder_1875": "39-245",
+  "morgen_1868": 16,
+  "rods_1868": 287,
+  "land_serv_1894": "6 Morgen",
+  "name_1896": "Gints Liudvik",
+  "total_1896": "11 des 1856 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 60,
+  "name_1868": "Shtark Daniil",
+  "dues_1868": "8 r 157 k",
+  "name_1869": "Shtark Daniil",
+  "holder_1875": "",
+  "morgen_1868": 8,
+  "rods_1868": 157,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shtark Daniil",
+  "total_1896": "6 des 994 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 61,
+  "name_1868": "Kinast Voitsekh",
+  "dues_1868": "52 r 94 k",
+  "name_1869": "Kinast Voitsekh",
+  "holder_1875": "widow",
+  "morgen_1868": 52,
+  "rods_1868": 94,
+  "land_serv_1894": "6 Morgen",
+  "name_1896": "Kinast Voitsekh",
+  "total_1896": "28 des 427 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.880385,
+    "lat": 52.111483,
+    "conf": 0.619,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 62,
+  "name_1868": "Kusman Gotlib",
+  "dues_1868": "2 r 66 k",
+  "name_1869": "Kusman Gotlib",
+  "holder_1875": "",
+  "morgen_1868": 2,
+  "rods_1868": 66,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Kusman Gotlib",
+  "total_1896": "2 des 2235 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 63,
+  "name_1868": "heirs of Kinasta Voitsekha",
+  "dues_1868": "15 r 192 k",
+  "name_1869": "heirs of Kinasta Voitsekha",
+  "holder_1875": "Gotf.",
+  "morgen_1868": 15,
+  "rods_1868": 192,
+  "land_serv_1894": "6 Morgen",
+  "name_1896": "heirs of Kinasta Voitsekha",
+  "total_1896": "13 des 292 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 64,
+  "name_1868": "Gerke Gotfrid",
+  "dues_1868": "5 r 277 k",
+  "name_1869": "Gerke Gotfrid",
+  "holder_1875": "",
+  "morgen_1868": 5,
+  "rods_1868": 277,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Gerke Gotfrid",
+  "total_1896": "5 des 661 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.960219,
+    "lat": 52.096247,
+    "conf": 0.997,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.950909,
+    "lat": 52.09127,
+    "conf": 0.864,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 65,
+  "name_1868": "Tselmer Mikhail",
+  "dues_1868": "36 r 254 k",
+  "name_1869": "Tselmer Mikhail",
+  "holder_1875": "Gotf.",
+  "morgen_1868": 36,
+  "rods_1868": 254,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Tselmer Mikhail",
+  "total_1896": "20 des 1412 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 66,
+  "name_1868": "Shtark Avgust",
+  "dues_1868": "18 r 241 k",
+  "name_1869": "Shtark Avgust",
+  "holder_1875": "widow",
+  "morgen_1868": 18,
+  "rods_1868": 241,
+  "land_serv_1894": "6 Morgen",
+  "name_1896": "Shtark Avgust",
+  "total_1896": "12 des 1967 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.883195,
+    "lat": 52.110726,
+    "conf": 0.902,
+    "status": "candidate"
+   },
+   {
+    "lon": 17.877936,
+    "lat": 52.107487,
+    "conf": 0.88,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 2
+ },
+ {
+  "no": 67,
+  "name_1868": "Tselmer Avgust",
+  "dues_1868": "22 r 227 k",
+  "name_1869": "Tselmer Avgust",
+  "holder_1875": "",
+  "morgen_1868": 22,
+  "rods_1868": 227,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Tselmer Avgust",
+  "total_1896": "13 des 1528 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 68,
+  "name_1868": "Lipelt Martsin",
+  "dues_1868": "14 r 121 k",
+  "name_1869": "Lipelt Martin",
+  "holder_1875": "Genr. Runga",
+  "morgen_1868": 14,
+  "rods_1868": 121,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Lipelt Martin",
+  "total_1896": "9 des 1581 saz",
+  "changed": "CHANGED",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 69,
+  "name_1868": "Gotter Avgust",
+  "dues_1868": "19 r 64 k",
+  "name_1869": "Gotter Avgust",
+  "holder_1875": "Kar. [uncertain: Pashka]",
+  "morgen_1868": 19,
+  "rods_1868": 64,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Gotter Avgust",
+  "total_1896": "11 des 1971 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.890818,
+    "lat": 52.09653,
+    "conf": 0.628,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 70,
+  "name_1868": "Morits Gotfrid",
+  "dues_1868": "54 r 292 k",
+  "name_1869": "Morits Gotfrid",
+  "holder_1875": "widow",
+  "morgen_1868": 54,
+  "rods_1868": 292,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Morits Gotfrid",
+  "total_1896": "30 des 1438 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.913429,
+    "lat": 52.098511,
+    "conf": 0.712,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 71,
+  "name_1868": "Obst Vilgelm",
+  "dues_1868": "5 r 272 k",
+  "name_1869": "Obst Vilgelm",
+  "holder_1875": "2 ×",
+  "morgen_1868": 5,
+  "rods_1868": 272,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Obst Vilgelm",
+  "total_1896": "4 des 2320 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 72,
+  "name_1868": "Reikh Kristiian",
+  "dues_1868": "28 r 297 k",
+  "name_1869": "Reikh Kristiian",
+  "holder_1875": "",
+  "morgen_1868": 28,
+  "rods_1868": 297,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Reikh Kristiian",
+  "total_1896": "16 des 955 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 73,
+  "name_1868": "Shvebs Ivan",
+  "dues_1868": "12 r 221 k",
+  "name_1869": "Shvebs Ivan",
+  "holder_1875": "Ern. [uncertain: Torno]",
+  "morgen_1868": 12,
+  "rods_1868": 221,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shvebs Ivan",
+  "total_1896": "8 des 2030 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 74,
+  "name_1868": "Khaupt Gotlib",
+  "dues_1868": "8 r 124 k",
+  "name_1869": "Khaupt Gotlib",
+  "holder_1875": "Ferd. Shmekhel",
+  "morgen_1868": 8,
+  "rods_1868": 124,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Khaupt Gotlib",
+  "total_1896": "6 des 531 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.954543,
+    "lat": 52.095886,
+    "conf": 0.98,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 75,
+  "name_1868": "Khaupt Gotfrid Kristiian",
+  "dues_1868": "31 r 98 k",
+  "name_1869": "Khaupt Gotfrid Kristiian",
+  "holder_1875": "",
+  "morgen_1868": 31,
+  "rods_1868": 98,
+  "land_serv_1894": "6 Morgen",
+  "name_1896": "Khaupt Gotfrid",
+  "total_1896": "18 des 79 saz",
+  "changed": "shortened",
+  "map_sites": [
+   {
+    "lon": 17.947544,
+    "lat": 52.0971,
+    "conf": 0.606,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 76,
+  "name_1868": "Khaupt Kristiian Kristiianov",
+  "dues_1868": "13 r 33 k",
+  "name_1869": "Khaupt Kristiian Kristiianov",
+  "holder_1875": "",
+  "morgen_1868": 13,
+  "rods_1868": 33,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Khaupt Kristiian",
+  "total_1896": "8 des 1715 saz",
+  "changed": "shortened",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 77,
+  "name_1868": "Khaupt Gotfridov Kristiian",
+  "dues_1868": "12 r 48 k",
+  "name_1869": "Khaupt Gotfridov Kristiian",
+  "holder_1875": "",
+  "morgen_1868": 12,
+  "rods_1868": 48,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Gebel Kristiian",
+  "total_1896": "8 des 1082 saz",
+  "changed": "CHANGED",
+  "map_sites": [
+   {
+    "lon": 17.900705,
+    "lat": 52.118831,
+    "conf": 0.621,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 78,
+  "name_1868": "Zelchak Foma",
+  "dues_1868": "6 r 104 k",
+  "name_1869": "Zelchak Foma",
+  "holder_1875": "widow",
+  "morgen_1868": 6,
+  "rods_1868": 104,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Zelchak Foma",
+  "total_1896": "5 des 897 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.877957,
+    "lat": 52.108762,
+    "conf": 0.97,
+    "status": "supported"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 79,
+  "name_1868": "Shchepinskii Petr",
+  "dues_1868": "5 r 255 k",
+  "name_1869": "Shchepinskii Petr",
+  "holder_1875": "",
+  "morgen_1868": 5,
+  "rods_1868": 255,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Shchepinskii Petr",
+  "total_1896": "5 des 611 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 80,
+  "name_1868": "Fogel Vilgelm",
+  "dues_1868": "2 r 214 k",
+  "name_1869": "Fogel Vilgelm",
+  "holder_1875": "?",
+  "morgen_1868": 2,
+  "rods_1868": 214,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Fogel Vilgelm",
+  "total_1896": "3 des 1113 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.884783,
+    "lat": 52.099096,
+    "conf": 0.807,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 81,
+  "name_1868": "Sheinfish Vilgelm",
+  "dues_1868": "54 r 218 k",
+  "name_1869": "Sheinfish Vilgelm",
+  "holder_1875": "",
+  "morgen_1868": 54,
+  "rods_1868": 218,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Sheinfish Vilgelm",
+  "total_1896": "30 des 459 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 82,
+  "name_1868": "Rogatskii Stanislav",
+  "dues_1868": "16 r 269 k",
+  "name_1869": "Rogatskii Stanislav",
+  "holder_1875": "",
+  "morgen_1868": 16,
+  "rods_1868": 269,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Rogatskii Stanislav",
+  "total_1896": "10 des 19 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 83,
+  "name_1868": "Fetter Ivan",
+  "dues_1868": "2 r 206 k",
+  "name_1869": "Fetter Ivan",
+  "holder_1875": "Gotl. Rybitskii",
+  "morgen_1868": 2,
+  "rods_1868": 206,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Fetter Ivan",
+  "total_1896": "3 des 1150 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 84,
+  "name_1868": "heirs of Shtirtsenbekhera Ivana",
+  "dues_1868": "5 r 30 k",
+  "name_1869": "Shtirtsenbekera Ivana",
+  "holder_1875": "",
+  "morgen_1868": 5,
+  "rods_1868": 30,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Shtirtsenbekera",
+  "total_1896": "4 des 1684 saz",
+  "changed": "CHANGED",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 85,
+  "name_1868": "Kinast Kristiian",
+  "dues_1868": "2 r 12 k",
+  "name_1869": "Kinast Kristiian",
+  "holder_1875": "Krist. Sheinfish",
+  "morgen_1868": 2,
+  "rods_1868": 12,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Kinast Kristiian",
+  "total_1896": "3 des 186 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 86,
+  "name_1868": "Khaupt Gotfrid",
+  "dues_1868": "4 r 37 k",
+  "name_1869": "Khaupt Gotfrid",
+  "holder_1875": "Fr. Girsh",
+  "morgen_1868": 4,
+  "rods_1868": 37,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Khaupt Gotfrid",
+  "total_1896": "4 des 588 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.893294,
+    "lat": 52.114024,
+    "conf": 0.985,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 87,
+  "name_1868": "Khaupt Vilgelm",
+  "dues_1868": "14 r 179 k",
+  "name_1869": "Khaupt Vilgelm",
+  "holder_1875": "2",
+  "morgen_1868": 14,
+  "rods_1868": 179,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Khaupt Vilgelm",
+  "total_1896": "7 des 2330 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 88,
+  "name_1868": "German Voitsekh",
+  "dues_1868": "1 r 288 k",
+  "name_1869": "German Voitsekh",
+  "holder_1875": "2",
+  "morgen_1868": 1,
+  "rods_1868": 288,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "German Voitsekh",
+  "total_1896": "2 des 2219 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.966288,
+    "lat": 52.097179,
+    "conf": 0.831,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 89,
+  "name_1868": "heirs of Tarnovskago Mikhaila",
+  "dues_1868": "2 r 30 k",
+  "name_1869": "heirs of Tarnovskago Mikhaila",
+  "holder_1875": "Gottlib Gotl.",
+  "morgen_1868": 2,
+  "rods_1868": 30,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "heirs of Tarnovskago Mikhaila",
+  "total_1896": "2 des 1774 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 90,
+  "name_1868": "Martsin Rogovich",
+  "dues_1868": "",
+  "name_1869": "Martsin Rogovich",
+  "holder_1875": "[uncertain: Bontsler]",
+  "morgen_1868": null,
+  "rods_1868": 193,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Rogovich Martin",
+  "total_1896": "2 des 749 saz",
+  "changed": "CHANGED",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 91,
+  "name_1868": "Marylskii Ivan",
+  "dues_1868": "5 r 98 k",
+  "name_1869": "Marylskii Ivan",
+  "holder_1875": "",
+  "morgen_1868": 5,
+  "rods_1868": 98,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Marylskii Ivan",
+  "total_1896": "4 des 2003 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 92,
+  "name_1868": "Farmstead of the village school",
+  "dues_1868": "20 r 218 k",
+  "name_1869": "Farmstead of the village school",
+  "holder_1875": "",
+  "morgen_1868": 20,
+  "rods_1868": 218,
+  "land_serv_1894": "",
+  "name_1896": "Village school",
+  "total_1896": "9 des 2219 saz",
+  "changed": "shortened",
+  "map_sites": [
+   {
+    "lon": 17.910001,
+    "lat": 52.099942,
+    "conf": 0.866,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 93,
+  "name_1868": "Common cemetery",
+  "dues_1868": "2 r 282 k",
+  "name_1869": "Common cemetery",
+  "holder_1875": "Gotfr. Khaupt 8-179",
+  "morgen_1868": 2,
+  "rods_1868": 282,
+  "land_serv_1894": "",
+  "name_1896": "Common cemetery",
+  "total_1896": "1 des 1320 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 94,
+  "name_1868": "Plot of common land",
+  "dues_1868": "1 r 89 k",
+  "name_1869": "Plot of common land",
+  "holder_1875": "",
+  "morgen_1868": 1,
+  "rods_1868": 89,
+  "land_serv_1894": "",
+  "name_1896": "Plot of common land",
+  "total_1896": "0 des 1881 saz",
+  "changed": "same",
+  "map_sites": [
+   {
+    "lon": 17.905371,
+    "lat": 52.108147,
+    "conf": 0.622,
+    "status": "candidate"
+   }
+  ],
+  "n_sites": 1
+ },
+ {
+  "no": 95,
+  "name_1868": "The village headman's plot",
+  "dues_1868": "2 r 263 k",
+  "name_1869": "The village headman's plot",
+  "holder_1875": "",
+  "morgen_1868": 2,
+  "rods_1868": 263,
+  "land_serv_1894": "",
+  "name_1896": "The village headman's plot",
+  "total_1896": "1 des 612 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 96,
+  "name_1868": "Reikh Kristiian",
+  "dues_1868": "1 r .. k",
+  "name_1869": "Kristian Reikh",
+  "holder_1875": "",
+  "morgen_1868": 1,
+  "rods_1868": null,
+  "land_serv_1894": "4 Morgen",
+  "name_1896": "Reikh Kristiian",
+  "total_1896": "2 des 1319 saz",
+  "changed": "same",
+  "map_sites": [],
+  "n_sites": 0
+ },
+ {
+  "no": 97,
+  "name_1868": "Under roads",
+  "dues_1868": "6 r 242 k",
+  "name_1869": "Under roads",
+  "holder_1875": "",
+  "morgen_1868": 6,
+  "rods_1868": 242,
+  "land_serv_1894": "",
+  "name_1896": "",
+  "total_1896": "",
+  "changed": "",
+  "map_sites": [],
+  "n_sites": 0
+ }
+]

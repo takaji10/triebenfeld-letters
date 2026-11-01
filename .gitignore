@@ -36,8 +36,15 @@ site/.jekyll-metadata
 site/vendor/
 .bundle/
 
-# Working files and one-offs left at the project root
-/scratch/
+# Working files and one-offs left at the project root (the /* form, not
+# /scratch/, so that the exception below can re-include a directory inside it)
+/scratch/*
+# The Pełzucki 1896 map's working directory committed at the editor's word
+# (2026-11-01, "commit everything"): the OCR token files, the red catalogue
+# (reds_all.json), the reference numbers, the five-table join and the working
+# pages with their build scripts - scratch in name only, the session's raw
+# material for the map's number system.
+!/scratch/map4456/
 /*.txt
 /*.csv
 /*.json

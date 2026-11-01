@@ -105,6 +105,28 @@ the table, its copy and the statement alike (was [Мануилъ?] and
 - The era's name: the era is now `wlodzimierz` (2026-10-20), whose
   working name waits on the editor (NEEDS_CONFIRMATION, "The eras").
 
+## The map of the survey (Pełzucki 1896, 2026-11-01)
+
+The surveyor of the 1896 statement's inscription (`[uncertain: Pelzutski]`,
+document 5) is the maker of the map the gazetteer cites as **Pełzucki 1896**
+(`maps/pelzucki1896/`, the Szreniawa museum's AN-4456): the plan of the
+lands that passed to the peasants of Łazińskie Holendry, drawn in the year
+of the survey, its certified copy issued to the village in 1900. The
+linkage of the two is worked out in that map's `notes.md` ("The numbers on
+the map against the liquidation tables", "The black numbers and the farm
+locations", "The tables linked into one list of the Olęders"): the plan's
+red figures are the survey's per-parcel areas in desiatinas/sazhens written
+as stacked pairs, its black numbers are the rows of this holding's tables
+(farm 78 Želchak Foma and farm 11 Grunvald Kristof proved by the red
+figures beside them; the heirs of Shtirtsenbekera's row 84 read in place as
+a stack), and the farm numbers join every table here and Breyer's copy
+(APP 53/968/0/-/716, document 4, with his 1875 pencil notes) into one list
+(`scratch/map4456/oleders_linked.csv`, 97 rows). A working page shows the
+linked list on the map: `scratch/map4456/oleders_map.html`, served from the
+repository root (localhost:8779), not a page of the edition. Nothing here
+or on the map's pages is changed by this yet; the editor rules what becomes
+public.
+
 ## Form and language (taken off the public page, 2026-10-30)
 
 The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:
