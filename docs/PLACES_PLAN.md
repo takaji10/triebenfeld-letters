@@ -106,6 +106,13 @@ on the page. No paid run is needed and none was made.
   of its contents, in both languages; no stretch of its text anywhere on
   the site (pipeline/verify_site.py holds the built site to that, as it does for the
   newspapers).
+- **The connections** (docs/CONNECTIONS.md): in the same sitting, propose
+  where a place source's statements bear on the edition's documents — a
+  town's own history naming the estate's owners, a chronicle dating the
+  parish — each proposal before the editor, flagged as Claude's reading
+  where an identification is Claude's; the settled ones entered
+  (`literature/links.yml` for the passage-side links, the gazetteer's
+  `reference/gazetteer_sources.yml` for its footnotes), rebuilt, verified.
 
 ## 4. The checks
 

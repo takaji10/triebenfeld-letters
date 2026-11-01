@@ -110,6 +110,12 @@ The engine reports what it cannot read with confidence; its word confidences
   summary of its contents (`summary_en`, `summary_de` in item.yml, both
   required or the build stops); no stretch of its text anywhere on the site
   (pipeline/verify_site.py holds the built site to that).
+- **The connections** (docs/CONNECTIONS.md): in the same sitting, propose
+  where the item bears on the edition's documents — a press notice of a
+  sale, a death, a founding, a feature — and, where the item ties passages
+  of the literature to documents, in `literature/links.yml`. Each proposal
+  before the editor, flagged as Claude's reading where an identification is
+  Claude's; the settled ones entered, rebuilt, verified on both sides.
 
 ## 4. The index of people and places
 

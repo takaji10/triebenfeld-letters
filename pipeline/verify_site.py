@@ -696,6 +696,30 @@ def main():
                                 fail(f"literature: {uid}'s page does not link {w['work']}/#p-{pg['key']}")
         print(f'  {n} hand-made links checked on both sides ({len(per_doc)} documents)')
 
+    # The cross-holding connections (reference/connections.yml), on both
+    # sides: each participant's page links every other participant of each of
+    # its connections (docs/CONNECTIONS.md).
+    conns_data = os.path.join(ROOT, 'site', '_data', 'connections.yml')
+    if os.path.isfile(conns_data):
+        import yaml
+        with io.open(conns_data, encoding='utf-8') as f:
+            per_doc = yaml.safe_load(f) or {}
+        with io.open(os.path.join(ROOT, 'dataset', 'letters.json'), encoding='utf-8') as f:
+            permalink = {r['uid']: r['permalink'] for r in json.load(f)}
+        n = 0
+        for uid, cns in per_doc.items():
+            doc_page = os.path.join(SITE, permalink[uid].strip('/'), 'index.html')
+            with io.open(doc_page, encoding='utf-8') as f:
+                doc_html = f.read()
+            for cn in cns:
+                for o in cn['others']:
+                    n += 1
+                    if f'href="{BASEURL}{o["permalink"]}"' not in doc_html:
+                        fail(f'connections: {uid}\'s page does not link {o["uid"]} '
+                             f'({cn["id"]})')
+        print(f'  {n} cross-holding connections checked on both sides '
+              f'({len(per_doc)} documents)')
+
     # ---- the places (docs/PLACES_PLAN.md, section 8) ----------------------
     # Every place of the index has its page in both languages; no built page
     # links the old estate anchors; the index itself is intact.

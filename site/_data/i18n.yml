@@ -359,6 +359,7 @@ en:
   lit_related: Related
   lit_in_literature: In the literature
   lit_doc: "%s, document %s"
+  doc_related: Related
   lit_related_toggle: Show or hide the Related column
   lit_sub_head: Attached to the work above
   lit_parent: Attached to
@@ -753,6 +754,7 @@ de:
   lit_related: Bezüge
   lit_in_literature: In der Literatur
   lit_doc: "%s, Dokument %s"
+  doc_related: Bezüge
   lit_related_toggle: Die Bezüge zeigen oder ausblenden
   lit_sub_head: Zum obigen Werk gehörig
   lit_parent: Gehört zu

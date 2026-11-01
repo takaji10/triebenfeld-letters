@@ -87,6 +87,12 @@ MERGED = [
     ('pipeline/review/check_mentions_join.py', 'mention joining',
      'the literature\'s and the newspapers\' mention slugs join to the '
      'edition'),
+    # The connections between documents of different holdings
+    # (reference/connections.yml, docs/CONNECTIONS.md): checked and written
+    # into site/_data/connections.yml, from which a document's page shows its
+    # own entry beside the others.
+    ('pipeline/build/connections_site.py', 'connections',
+     'site/_data/connections.yml - the cross-holding connections, by document'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
     # The people who have their own page (docs/LITERATURE_PLAN.md, section
