@@ -1354,3 +1354,74 @@ part II.
 - The literature now has 41 works, 35 with pages in both languages and six
   summary-only. **Published the same day** at the editor's word ("Publish").
 
+
+## 32. The call-outs reworked: "Related", one note per passage, a gutter column with a toggle (2026-11-01; branch `related-callouts`, not published)
+
+The editor reported (2026-11-01) that the boxes under the literature's
+passages repeated themselves and were not always about the page they stood
+under. The finding: 18 of the 33 links named several passages of one work,
+and `literature_site.py` stamped the identical box under each — the worst,
+`register-other-gifts`, nine times in the Materialien and seven in the
+Feuerbrände, with a sentence written for all of the gifts at once.
+
+The rework, the editor's choices of that day (asked and answered):
+
+- **"Related" / "Bezüge"** is the heading of the passage-side entry; the
+  document-side box keeps "In the literature". (HOUSE_STYLE's rule stands:
+  the site does not call itself "the edition".)
+- **Per-passage notes inside one link** rather than links split by passage:
+  a link keeps its cross-work span (the register's three printings stay one
+  connection), and gains `about:` — one entry per passage, each with its own
+  en and de and its own documents (a subset of the link's; left out, the
+  link's documents stand). A link with several passages must carry an entry
+  for every passage; a link with one passage needs none and may not carry
+  one; every document of the link must belong to at least one passage.
+  `literature_site.py` stops on any breach.
+- **A gutter column**: from a 64rem viewport the entry stands in a
+  right-hand column beside the passage, top-aligned with it; below that it
+  folds under the passage text. A "Related" button beside the view buttons
+  (alone for the English-only works) hides the column page-wide, the choice
+  remembered like the view choice (`tf-lit-related`), default on; without
+  JavaScript the column shows. Checked with the mobile crawler over all 42
+  works in both languages at 320 to 1920 (504 checks, none overflowing; the
+  toggle exercised on every page that carries it).
+- **The entries pruned to their documents' reach**: the Treskow and
+  Wendessen entries (Materialien pp. 152, 153, 171; Feuerbrände 2-74,
+  2-90) left the link `register-other-gifts` — the letter of 13 March 1799
+  does not touch them, and a call-out with nothing behind it is not
+  relevant. Per-passage notes were written for all 18 links that had
+  repeated themselves (72 passage entries now stand where 73 repeated
+  placements stood), each read in the passage and in its documents.
+- **One new link from the rework's reading** — `register-donations`: the
+  donation dossier I. HA Rep. 7 C Nr. 3570 (Hoym's proposal of 14 July
+  1796, the King's cabinet order of 23 July given at Pyrmont, the deeds of
+  9 August 1796) set against the register's entries whose deeds and
+  valuations it holds: Blücher's Duninow, Pontanus's Sieradz, Dolffs's
+  Strzelec with the deed date the register prints, and Goldbeck's
+  chancery. Where they disagree the notes say so (NEEDS_CONFIRMATION).
+- **The first sweep of new links** — the works section 9 had queued:
+  - `held-krotoszyn`: Held (1801) prints the papers of Früson's suit —
+    Triebenfeld's administration of Krotoszyn until 1791 at some 17,000 to
+    18,000 rt a year, Früson's nine-year lease at 30,100 from 1 July 1791,
+    the composition that took it from him — against the letters' side
+    (the King's Abstand of 26,000 rt for the Abtretung der Pacht of 1795,
+    oe1bu9454-85; the rent of 30,100 in the Prince's answers and his second
+    petition, -86, -101). Claude's reading, NEEDS_CONFIRMATION.
+  - `guradze1898-emancipation`: Guradze dates the end of hereditary
+    subjection in the Duchy of Warsaw to the constitution of 22 July 1807
+    and the decree of 24 December 1807; the lease's paragraph 13 had freed
+    its eighteen lessees of it two years before (app539680801-3).
+  - `paciorkowski1776-boundary`: the 1768 constitution's approval rule and
+    its rules on boundaries destroyed or privately erected, beside the
+    Tribunal's approval of 23 January 1782, the demolition act of
+    28 November 1782 and Chełmski's protest of 1778 (Konin Gr. 153, Konin
+    Gr. 117). Claude's reading, NEEDS_CONFIRMATION.
+- Next batches of the sweep (the editor to steer): Paciorkowski's remaining
+  passages (the process's forms and definitions, 178 passages), the works
+  of the edition's ground not yet linked (Werner, Mielewczyk, Muszyńska,
+  Mączak, Frost), then the rest. The measure of relevance: a document that
+  confirms, corrects, extends or dates what the passage says — in that
+  order of value.
+- Verified: build and `pipeline/verify_site.py` clean (302 link-pairs
+  checked on both sides, 37 links, 40 documents). Committed on the branch;
+  not published.

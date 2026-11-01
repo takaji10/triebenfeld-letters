@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -51,9 +52,11 @@ im Vogtland
 and in: Deutsche Monatshefte in Polen, Jahrgang 1 (11), Heft 10, April 1935
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-35">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-35">S. 35</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -85,9 +88,11 @@ Over a stretch of 130 kilometres, from the former Prussian border to Leśnik sou
 The conditions of ownership are good in most of the marsh villages. The most prosperous German settlements lie west of the town of Konin. In the foreground of farming are the raising of cattle and poultry. Large pieces of meadow are let for good money. On the higher-lying fields grain and potatoes are grown, and there too, mostly scattered, the farmsteads stand. Sometimes the villages take a position along the bank, as in Daniszew, Leszcze, Paprot Hol., Młyny, Piekarskie and Stawki. The silt soil, or "Letten" (clay), as the "Brücher" (the marsh people, also called in mockery "Wasserpatscher", water-splashers) call it, needs strong horses for ploughing. The yields of the harvest are high accordingly. The cattle are grazed here in "Koppeln" (fenced pastures) and not in "Hocken", as the Vistula German would say.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-36">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-36">S. 36</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -115,9 +120,11 @@ In 1845 the German villages of Józefow, Młyny, Łęg, Nowa Kaczka and Rosengar
 The cloth-makers and weavers who came into the towns of Zagórów, Konin and Koło after 1818, and who managed to hold their own after a fashion until 1870, went over to other trades under the pressure of circumstances. Most of them have wholly shed their inherited nationality (Volksart), and have at times become eager standard-bearers of Polishness, so carrying a deep split into what decades ago was a closed community of church and people.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-37">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-37">S. 37</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -141,9 +148,11 @@ The settlers of the Warthe marshes of central Poland came chiefly from the marsh
 The inhabitants of the Leśnik language island come from the Netze district and speak the Pomeranian dialect.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-38">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-38">S. 38</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -183,9 +192,11 @@ The old marsh villages had German elementary schools from the beginning. When la
 The first Evangelical parish was founded in Konin in 1826, after long negotiations with the government offices. Brave Lutherans of Konin turned for legal support even to the then viceroy of Poland, Grand Duke Konstantin Konstantinowitsch. The first preacher, A. Kegler, came from Eckartsberg in Thuringia. The congregation of Zagórów was raised in 1858 from a branch (Filial) founded in 1833 to an independent parish. The branch of *Lissewo-Peisern*, lying in the Warthe marshes, arose in 1858. The congregation of Koło, at first a branch of Turek, became independent in 1903. It has had its own church since 1882.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -225,9 +236,11 @@ The quality of the soil, as already said, is far below middling. In dry years th
 <span class="lit-note" id="n-en-1">3</span> Białe Błoto = white swamp, Bielawki = the white one, Białobrzegi = white banks, Łazy = Brücher (marsh people), Borowiec = peaty soil, (Grądy, Mokre, Bagno) = swamps
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -247,9 +260,11 @@ sacks filled with grain, sacks of pine cones. To enlarge the area of tillage, th
 Over-population is heavy. In most cases it leads to the division of farms among heirs (Realteilung) and to the growth of a large rural proletariat. Seasonal work in Germany (Sachsengängerei) was widespread for many decades before the war. Even after the war hundreds of young men and girls went to Germany in spring for farm work. For three years this almost only source of earnings has run dry. Economic need has therefore reached an unbearable degree
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-41">
+<section class="lit-passage has-related" id="p-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -277,14 +292,16 @@ Now and then the last traces of the old folk costume are still to be met. Folk a
 Around 1740 the German settler made his way with axe and spade into the tracts of the Kalisz country, remote from men and untilled since time immemorial. In 1746 the owner of the estate of Trąbczyn, Paul von Kolno-Prusiński, concluded with honest Hollanders a contract of hereditary lease (Erbpachtvertrag), by which the woods and waste lands south of the estate of Trąbczyn were given over to be brought under cultivation. The village of Łazińsk Holland arose. The castellan of Sieradz, J. Wężyk, settled four German villages on his estates at Grodziec in 1772: Borowiec, Konary, Grunde and Wielołęka. On the lands of the estate of Ceków a whole series of Holländereien arose after 1770, among them the large village of Prażuchy, which by 1799 already counted 34 farmers on 24 Hufen; in 1775 Poroże was founded; in 1775 Zbiersk Holland and Ciświca-Holland, in 1778 Lipnica and Jarantów, in 1780 Jaszczury and Zakrzyn. The owner of the landed estates of Piegonisko and Stoki, the steward (Truchsess) of Smolensk, M. Wągrowski, who had extensive woods at his disposal, laid out in 1782 the Hollän-
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
 <p>Breyer (1935) sagt, 1746 habe Paul von Kolno-Prusiński, Besitzer des Gutes Trąbczyn, die Wälder und Ödländereien südlich davon an Holländer in Erbpacht gegeben, und daraus sei das Dorf Łazińsk Holland entstanden, eine der beiden Hauländereien des Gutes. Das Privileg von 1746 selbst ist verloren, aber zwei Dokumente führen es an. Das Dekret der Grenzkommission von 1775 sagt, der Onkel Antoni Prusimskis, des Erbherrn von Trąbczyn, habe Holländer auf den Trąbczyner Wäldern angesetzt, „wie die ihnen 1746 verliehenen Rechte bezeugen“. Die Ladung von 1860, im Prozess zwischen Graf Włodzimierz Miączyński und den Kolonisten der Kolonien Staro- und Nowo-Łazińska, nennt, wer das Privileg verlieh: „Paweł z Kolna Prusiński“, Breyers Paul von Kolno-Prusiński, und seine Frau Katarzyna Rozdrażewska. Das früheste Zeugnis über die Siedler selbst ist die Besichtigung vom 9. Juli 1754, vorgenommen für Katarzyna als Witwe des kurz zuvor verstorbenen Paweł Prusimski, königlichen Kammerherrn. Sie nennt die Olędry unter den zu Trąbczyn gehörigen Orten, zählt in Nowa Wieś fünfzehn Hauländer, die sechzehnte Hufe leer, und sagt, die Hauländer hätten mit den ihnen längst zugeteilten Hufen das beste Holz an sich genommen. Dass das Privileg eine Erbpacht war, ist Breyers Darstellung; die beiden Dokumente sagen nur, dass es das Verhältnis zwischen den Besitzern und den Holländern regelte.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, Dokument 1 (12. Juli 1754)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, Dokument 1 (12. Juli 1754)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -304,9 +321,11 @@ In the 19th century the work of clearing went on. Around the old villages a ring
 In the Kalisz country lies the first and oldest German industrial town in central Poland. The castellan (Burgherr) of Gniezno, M. H. von Górowo-Górowski, founded the town of *Władysławow* in 1738. In the same year arose "the praiseworthy craft of the ticking-weavers, fustian-weavers and linen-weavers in Władysławow". To the present day the German community, though small in numbers, has held out bravely in spite of every economic hardship.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-43">S. 43</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -322,9 +341,11 @@ In *Turek* wanderten um 1826 deutsch-katholische Weber aus Böhmen ein, für der
 German Catholic weavers from Bohemia came to *Turek* around 1826, for whose religious needs a Catholic priest from Bohemia was even appointed. At the same time weavers came from Saxony, West Prussia and Silesia. In all, 56 in a hundred came from German Bohemia, 26 in a hundred from Saxony, 12 in a hundred from West Prussia and 6 in a hundred from Prussian Silesia. In 1828 a weavers' guild was founded in Turek, which exists to the present, although the German members of the guild are already very much in the minority.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-44">S. 44</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -356,9 +377,11 @@ Only a few of the stated origins point to other dialect areas. Only from the nei
 A report written in 1797 by Pastor Grimm of Stawiszyn for the consistory in Posen gives German elementary schools in the following Hollander villages: Zbiersk, Prażuchy, Kosmowo, Dannowitz, Zamenty, Zakrzyń, Przespolew, Czachulec, Grojetz and Mycielin. With the schools in Obory, Łazińsk, Białobłoty, Gadowskie Hol. and Wierzchy, which also already existed then, this gives a total of 15 German elementary schools. The way of working and the conditions of pay
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-45">S. 45</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -397,6 +420,7 @@ The large number of inhabitants of the single German villages helped to keep the
 
 The mother congregation of the Kalisz country is that of *Władysławow*, founded in 1776. The first pastor, Martin Marggraf, travelled from Władysławow not only through the Kalisz country but through almost the whole of Kuyavia. Four years later the parish of *Stawiszyn* was founded. In 1795 the Lutherans of Kalisz asked the town authorities to appoint an Evangelical preacher. Pastor Karl Michael Sinell, who took up the office in the same year, became the real founder of the congregation. In Prussian times the congregation of *Grodziec* arose, with the lively part of the lord of the manor, Count Stadnicki. The first pastor, D. Bergmann, came from Fraustadt. In Prażuchy, which Pastor Grimm of Stawiszyn had served until then, a parish of its own arose in 1808 with the active help of the lord of the manor, Celiński, owner of the lordship of Ceków. In *Iwanowice* the estate owner Wężyk founded an Evangelical congregation in 1808. In 1818, since lightning had burnt down the church in Iwanowice, it was moved to *Sobiesęki*. In the weavers' town of *Turek* a branch was founded in 1827, followed in 1845 by an independent congregation. That the great landowners took a direct part in the founding of four Evangelical congregations shows how important the German settlers in town and country were to the Polish nobility.
 
+</div>
 </div>
 </section>
 {% endraw %}

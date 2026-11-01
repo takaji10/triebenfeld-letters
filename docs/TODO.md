@@ -1486,3 +1486,31 @@ transcription; 108 readings settled in session before the first build
       be rediscovered." Today's rebuild went through the merged steps
       directly, in their order, skipping the per-unit steps the change could
       not affect.
+
+## 59. The literature's call-outs reworked: "Related", per passage (2026-11-01, branch `related-callouts`)
+
+- [x] The duplicated call-outs found (18 links stamped the same box on 2-9
+      passages of one work) and reworked: per-passage notes (`about:` in
+      `literature/links.yml`), the heading "Related"/"Bezüge", the gutter
+      column with its toggle, the Treskow/Wendessen entries pruned from
+      `register-other-gifts` (LITERATURE_PLAN, section 32).
+- [x] The first sweep of new links at the editor's choices: the donation
+      dossier against the register's entries (`register-donations`), Held's
+      Früson papers against the letters (`held-krotoszyn`), Guradze's
+      emancipation chapter against the lease's paragraph 13
+      (`guradze1898-emancipation`), Paciorkowski's boundary rules against
+      the court books (`paciorkowski1776-boundary`).
+- [ ] You: read the per-passage notes on the site (every page of the
+      Materialien and the Feuerbrände in the register's span, and the other
+      works' pages that carry them) and the four new links' sentences; the
+      flags they raise are in NEEDS_CONFIRMATION (the register's official
+      89,250 Thlr. against the dossier's 120,000 rt; Duninow's 1,500 rt
+      against "certainly 6000"; the Konin row's 12,000; Żychliński's
+      Władysław against the summons's Włodzimierz; Held's composition as
+      the 1795 Abtretung; the Paciorkowski tie as resemblance, not
+      statute).
+- [ ] Claude, then: the sweep's next batches, at your word — Paciorkowski's
+      remaining passages (178), then the works of the edition's ground not
+      yet linked (Werner, Mielewczyk, Muszyńska, Mączak, Frost), then the
+      rest. The measure of relevance: a document that confirms, corrects,
+      extends or dates what the passage says, in that order of value.

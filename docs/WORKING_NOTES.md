@@ -2985,3 +2985,36 @@ layout work:
   holding with a long `card_title` has `short_title` / `short_title_de`
   (`set_short_titles.py` set 24 once). After a build, list every page's
   `<title>`: no slug-like one, none over 70 characters.
+
+## The Related column (2026-11-01)
+
+The literature's call-outs were reworked (LITERATURE_PLAN, section 32):
+per-passage notes in `links.yml`'s `about:`, the heading "Related"/"Bezüge",
+a gutter column from 64rem with a toggle in the viewbar. Lessons:
+
+- **A CSS grid on only some siblings shows in the rules.** The first plan
+  put every passage in a two-column grid; the passages without entries
+  would then carry a shorter border-top than the ones with (or every rule
+  would run the page's full width). The built shape: the grid only on
+  `.lit-passage.has-related`, capped at 60rem, other passages unchanged —
+  the rules are ragged between linked and unlinked passages, and that is
+  the honest shape of it; do not "fix" it by widening every rule.
+- **The entry's own measure**: the gutter column's `min-width: 0` is what
+  keeps a long token in a note from blowing the column out (the grid
+  lesson above, again); the notes' links wrap like text (the nowrap lesson
+  of the mobile pass applies to them as to all generated links).
+- **`about:` is validated at build time, both directions**: every passage
+  of a many-passage link needs an entry, no entry may name documents
+  outside the link's own list, and every link document must belong to at
+  least one passage — the last rule is what keeps a link from carrying a
+  document no passage of it can show. A one-passage link must NOT carry
+  `about:` (its sentence is the note) — the build says so if it does.
+- **PowerShell appends CRLF** (`Add-Content` on an LF file put a `
+` at
+  the end); the repo's files are LF (`newline='\n'` everywhere). Appending
+  to a text file here goes through Python, and afterwards check
+  `data.count(b'\r\n') == 0`.
+- **The verify gate's link count fell with the rework** (326 pairs before,
+  302 after): the count is the number of (document, link, passage) pairs
+  actually rendered, and the per-passage document subsets mean fewer pairs,
+  not a weaker check — each rendered pair is still checked on both sides.

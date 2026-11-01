@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-39">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -47,9 +48,11 @@ The German colonization movements in the East, beginning with the medieval early
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-40">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -77,9 +80,11 @@ After 1725 the German colonization resumed on an increased scale. The old villag
 <span class="lit-note" id="n-en-2">p40-8</span> 8) Albert Breyer, Deutsche Gaue in Mittelpolen, 1935, Verlag Günther Wolff in Plauen/Vogtl. D. Wiss. Ztschr. f. Polen 1939, issue 36, pp. 39–61: Dr. Walter Maas, Mittelpolnische Hauländereien.
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-41">
+<section class="lit-passage has-related" id="p-41">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -107,14 +112,16 @@ Ahead of them went the reputation of exemplary settlement technicians, who devel
 <span class="lit-note" id="n-en-3">p41-4</span> 4) There can be no question of a preponderance of the "holländisches Element" ("Dutch element") in the earliest settlements, as Gen.-Supt. D. Julius Bursche believed he could establish in the contribution on the Evangelical-Augsburg Church, vol. V (see bibliography), in the "Ekklesia."
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
 <p>Kneifel (1964) sagt, Paul von Kolno-Prusinski, Gutsherr von „Trombezyn“ (Trąbczyn), habe 1746 deutschen Bauern Waldungen und Ödland zur Urbarmachung zugewiesen, und sie hätten auf ihnen die Kolonie Lazinsk (Łazińsk) geschaffen, die Trąbczyńskie Stare Olędry. Die Dokumente tragen dieselbe Zuweisung: Die Vorladung von 1860 nennt „Paweł z Kolna Prusiński“ mit seiner Frau Katarzyna als die Verleihenden, die den Holländern auf den Gütern Trąbczyńskich 1746 ihr Privileg gaben, und das Grenzdekret von 1775 bezeugt die Ansiedlung der Olęder auf diesen Waldungen „wie durch die ihnen 1746 verliehenen Rechte bezeugt“. Kneifel nennt allein den Ehemann, die Dokumente das Ehepaar.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-42">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -134,9 +141,11 @@ Leading secular and clerical personages of the Polish people called German peasa
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-45">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-45">S. 45</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -168,9 +177,11 @@ In the German village schools, generally called cantorate schools (religion scho
 Apart from their service as teachers, the "school-holders" were also cantors, i. e. readers in the divine service and rural representatives of the pastors. On Sundays and feast days they held reading services, performed acts of office (baptisms and burials), and represented the pastor also otherwise, for example in confirmation instruction. Under the cantor stood the religious care often of several localities, which were joined together into the so-called cantorate. According to its size, a rural parish consisted of a number of cantorates. These lay on average five to twenty, and even more, kilometers from the parish seat. Because of the great distances, especially given the bad conditions of the roads, the pastors visited them only two or three times a year. In the last century, more regularly and more frequently. The members of the cantorates themselves, too, took part only rarely in the worship
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-89">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-89">S. 89</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -218,9 +229,11 @@ If German farmers and craftsmen were drawn upon for the colonization, this happe
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-90">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-90">S. 90</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -256,9 +269,11 @@ In the same year, on the woodlands of the manorial estate of Skoszewy, the colon
 3) H. Textor, Die schwäbische Auswanderung nach Polen, Volksfr.-KaL, 1930, p. 75 f.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-91">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-91">S. 91</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -278,9 +293,11 @@ Private colonization kept pace with state colonization, and indeed through Polis
 6) August Müller, Die preußische Kolonisation in Nordpolen und Litauen, 1795—-1807.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-92">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-92">S. 92</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -324,9 +341,11 @@ Bogumil Goltz wrote: Buch der Kindheit (Frankfurt a. M. 1847); Ein Kleinstädter
 10) Cf. section VIH 2: Vigorous growth of new congregations.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-93">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-93">S. 93</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -358,9 +377,11 @@ In the Dobriner Land the number of German elementary schools and cantorates for 
 <span class="lit-note" id="n-en-6">p93-12</span> 12) Alfred Lattermann, Samuel Gottfried Linde, der Ordner des polnischen Sprachschatzes, pp. 216 f. (in: Kurt Lück, Deutsche Gestalter und Ordner im Osten. 1942).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-94">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-94">S. 94</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -400,9 +421,11 @@ By decree of the Prussian chamber at Plozk of 24 September 1799 the seat of the 
 The efforts for the establishment of the parish of Dombie date from 1799. At that time a commission appeared here, whose members included, among others, War Councillor von Colomb and Tax Councillor von Koehlichen. This commission determined three Morgen of land for the evangelical church, the parsonage and the schoolhouse to be erected. Toward the building of the 1806 1 S) D. Wiss. Ztsch. f. Polen. Posen 1934, issue 27, p. 87. u ) Ibid.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-102">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-102">S. 102</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -438,9 +461,11 @@ Since 1790 the small town of Slesin, 20 kilometers from Konin, with the preachin
 <span class="lit-note" id="n-en-7">p101-6</span> 6) Cf. Busch, Beiträge..., Kneifel, E., Die evang.-augsb. Gemeinden der Kalischer Diözese.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-112">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-112">S. 112</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -464,9 +489,11 @@ School affairs in the country were directed and supervised, in place of the Cham
 Among the teachers of the Kalisch land Karl Kittner, born in Schönwald/Silesia, distinguished himself. For over 50 years, from 1813 to 1869, he labored at the school in Wladyslawow. "In the memory of the parishioners teacher and cantor Kittner lives on indeed as a strict, but also as a hard-working educator." In the Lodz area, likewise, numerous new schools were called into being. In the town and country congregations founded in the period 1828/49 schools arose everywhere, their number amounting to about 80 to 90. In Lodz itself there were in the year 1841 already two
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-123">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-123">S. 123</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -494,9 +521,11 @@ The diocese of Kalisch included: Kalisch, Sobiesenki, Wielun with the filial Pan
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-165">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-165">S. 165</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -508,9 +537,11 @@ The diocese of Kalisch included: Kalisch, Sobiesenki, Wielun with the filial Pan
 In 1855 the massive parsonage in Lowicz was erected, in 1860/61 the church in Ilow, whose dedication took place on the 1st Advent 1861. The stone parsonage in Rawa dates from the year 1860. In the parish of Brzeziny the church was remodeled in 1862, then the parsonage from 1878/85. In 1904 Pastor Wojak built the congregational hall (confirmation hall). On 11 October 1904 it was dedicated, in connection with the celebration of the 75th anniversary of the existence of the Brzeziny parish. On 15 August 1877 the foundation stone of the new church in Wloclawek could be laid. Its dedication was performed by General Superintendent Everth on 25 October 1881. In the year 1873 Pastor Fiedler built the parsonage at Belchatow. After 1870 the congregation declined sharply in numbers. The year 1870 (plague year) and 1872 (famine year) probably provided here the external occasion for emigration to Volhynia. In 1870 the number of baptisms in the parish was 190, in 1875 only 125. On 10 June 1888 the new church at Rypin was dedicated by Bishop von Everth. It was one of the largest provincial churches and held about 2000 worshippers. In 1853 the filial congregation of Lentschütz acquired the churchlet of Gross-Bruzyca near Alexandrow for 2700 zloty. From 1873 to 1888 the parish of Alexandrow was cared for by Pastor Zander, who distinguished himself by kindness and friendliness. In his time a count of the congregation was carried out, which yielded 768 Lutheran families with a total of 4187 souls. In Wladyslawow a new church was erected, its foundation stone having been laid on 6 May 1872. In the year 1900 there was the intention to dissolve the parish by attaching part of its localities to the congregation of Turek and the other part to the one in Kolo. Since, however, one met with resistance from the parish of Wladyslawow, the intention was dropped. Since 1873 numerous colonists emigrated from the parish of Dombie to the Lublin government and Volhynia. The church in Stawiszyn was built in 1875/76. From 1889 to 1899 Pastor Joseph Rosenberg held office here; he had introduced the mission festivals in the Kalisch land. In the period from 1846 to 1866, that is, 20 years, the building of the church lasted in the poor congregation of Grodziec. From 1864 to 1868 work was occupied with the erection of the parsonage. In Sobiesenki church and parsonage were sealed up in 1880 on account of structural dilapidation. Pastor Kaspar Mikulski built the parsonage in 1882 and carried out the construction of the church in the period 1882/84. The construction costs of the church and parsonage amounted in all to 25 465 rubles 19 kopecks. The increase of German-evangelical settlements within the parish of Wiehln around 1866 made necessary the founding of school- and prayer houses in Swoboda, Janow, Wolnica-Grabowska and Marjanow. The outbreak of cholera in Wielun in the year 1873 moved the church collegium there to close the evangelical cemetery lying in the city district and to establish a new one on Widoradzka Street. In the year 1888 the erection of a new church was intended in the filial of Maslaki. The Russian authorities, however, did not confirm the project, so that the dilapidated prayer house had to be repaired as a makeshift. In the seventies and eighties of the past century numerous parishioners emigrated from the parish of Przedecz, whereby its number of souls diminished considerably. Thus it numbered, for example, 224 baptisms in the year 1865 but only 120 in 1875. In 1875 the Lutheran parish of Zdunska-Wola acquired for the parsonage the former Julius Hill estate with garden and outbuildings for 4230 rubles. At Pastor Boerner's petition there was erected in 1895 a two-story building with rooms for the church singing society and for the church staff. Later a seven-grade general elementary school was also quartered in it. The building costs amounted to 15 000 rubles. In Sieradz a new prayer house was built, its dedication having taken place in 1897. In the years 1867/69 the construction of the parsonage in Turek was carried out. On 30 May 1861 the church at Sompolno was dedicated. In 1863/64 numerous congregational members emigrated to
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-166">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-166">S. 166</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -530,9 +561,11 @@ The foundation stone for the building of the Lutheran church in Zagórów was la
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-179">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-179">S. 179</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -552,9 +585,11 @@ In the first decade of the 20th century the remodeling of the church and tower w
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-226">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-226">S. 226</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -574,9 +609,11 @@ From 1930 to 1939 Pastor Viktor Maczewski administered the congregation of Sobie
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-235">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-235">S. 235</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -596,9 +633,11 @@ In Lazinsk, in the congregation of Zagörow, there existed before 1914 a Hahn Ge
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-236">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-236">S. 236</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -614,9 +653,11 @@ the head of the Lazinsk brothers' circle stood first the lay preacher Buchinski,
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-256">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-256">S. 256</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -635,6 +676,7 @@ Pastor Adolf Doberstein wrote in the "Luthererbe in Polen" of March 13, 1938 on 
 
 […]
 
+</div>
 </div>
 </section>
 {% endraw %}

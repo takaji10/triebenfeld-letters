@@ -813,18 +813,35 @@ body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display
 .lit-fn a { text-decoration: none; }
 .lit-note { font-family: var(--sans); font-size: .8em; font-weight: 600; }
 .lit-note:target { background: var(--mark); }
-/* The hand-made links (literature/links.yml): under a passage, "In the
-   edition", the sentence and the documents; beside a document, "In the
-   literature", the sentence and the passages. */
-.lit-links { margin: .9rem 0 0; padding: .5rem .9rem;
+/* The hand-made links (literature/links.yml): beside a passage, "Related",
+   the passage's own note and its documents; beside a document, "In the
+   literature", the sentence and the passages. On a wide screen the entry
+   stands in a gutter column to the right of the text, top-aligned with the
+   passage; on a narrow one it folds under the passage text. The toggle in
+   the viewbar (assets/literature.js, data-related on the body) hides the
+   column page-wide; without the script it shows. */
+.lit-main { min-width: 0; }
+.lit-related { margin: .9rem 0 0; padding: .5rem .9rem;
   border-left: 2px solid var(--accent); font-family: var(--sans); font-size: .85rem;
   background: color-mix(in srgb, var(--accent) 4%, transparent); }
-.lit-links p { margin: .3rem 0; max-width: var(--measure); }
-.lit-links .lit-links-head { font-weight: 600; margin-top: 0; }
+.lit-related p { margin: .3rem 0; }
+.lit-related .lit-related-head { font-weight: 600; margin-top: 0; }
 /* The document links wrap like text: nowrap would make one reference
    ("Oe 1 Bü 9454, document 108 (22 July 1800)") an unbreakable 350px run,
    wider than a phone's column. */
-.lit-links-docs a, .lit-doclinks-pages a { margin-right: .6rem; }
+.lit-related-docs a, .lit-doclinks-pages a { margin-right: .6rem; }
+/* The gutter column: only where a passage has an entry, at two columns from
+   64rem (the text keeps its 44rem measure, the entry hangs beside it). */
+@media (min-width: 64rem) {
+  .lit-passage.has-related { display: grid; grid-template-columns: minmax(0, 44rem) 14rem;
+    column-gap: 2rem; max-width: 60rem; align-items: start; }
+  .lit-related { grid-column: 2; margin: .3rem 0 0; }
+}
+/* The toggle: the column hidden page-wide, the passages back to one column. */
+body[data-related="off"] .lit-related { display: none; }
+@media (min-width: 64rem) {
+  body[data-related="off"] .lit-passage.has-related { display: block; max-width: 44rem; }
+}
 .lit-doclinks p { margin: 0 0 .45rem; }
 .lit-doclinks-pages { font-family: var(--sans); font-size: .85rem; }
 

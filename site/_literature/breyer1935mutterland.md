@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -46,9 +47,11 @@ First published in:
 Deutsche Monatshefte in Polen, Jahrgang 2 (12), Heft 1/2, July/August 1935
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-2">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-2">p. 2</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -72,9 +75,11 @@ Over the centuries German people streamed continually, with greater or lesser in
 <span class="lit-note" id="n-en-1">1</span> "Ekonomista", year 1908, vol. II
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-3">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-3">p. 3</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -122,9 +127,11 @@ Questioning the old people succeeded only in the rarest cases. Among the country
 Mapping the places of origin found sometimes met great difficulties, especially for the small villages and hamlets. In many cases neither old nor new gazetteers helped. Old topographical maps sometimes gave excellent help, but so did newer maps on a large scale.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-4">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-4">p. 4</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -168,9 +175,11 @@ The settlers of these lowland villages, who are also called "Holländer" at Lent
 <span class="lit-note" id="n-en-3">3</span> "Przegląd Hist." year 1915, vol. 19, no. 1.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-5">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-5">p. 5</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -202,9 +211,11 @@ Going through five years of the registers of the congregation of *Gombin*, found
 The church books of the Lutheran parish of *Iłow*, founded in 1775, contain for the period 1779 to 1840 the following 80 places of origin, which we list going up the Vistula: Danzig Werder, Baldrum near Marienwerder, Neuenburg, Montau 1 settler each, Graudenz 4, the Kulm lowland 2, Bromberg, Flötenau 1 each; from Neidenburg, Amt Schoden, Bergbruch, Neuenort, Altretz 1 settler each, Altendorf (3), the neighbourhood of Thorn (11), Nischewke 19, Deutsch-Glinne 9, Slonske 9, Neu-Ciechocinek (2), Woluschewo and Rybit (1), Bogpomoż 5, Witoschiner Lengde, Liciszewo near Lipno 1 family each.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-6">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-6">p. 6</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -236,9 +247,11 @@ The church books of the Lutheran congregation of *Lipno* in the Dobrzyń country
 The dialect of the Dobrzyń country is also spoken in the Vistula lowland, around Danzig and in the western strip of present-day East Prussia. The folklore of the colo-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-7">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-7">p. 7</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -262,9 +275,11 @@ Into the *Kalisz country* (Kalischer Land) the Germans immigrated from the areas
 <span class="lit-note" id="n-en-4">4</span> These findings agree, happily, with the map of the Posen Holländereien drawn by Dr. Maas in the special issue for the fiftieth anniversary.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-8">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-8">p. 8</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -296,9 +311,11 @@ The church books of the congregation of *Turek* supply for 1837 to 1847 42 state
 For *Władysławow*, the mother congregation of the Kalisz country, we found for 1775 to 1800 the following 15 statements of place: Neutomischel county 2, Lower Silesia 5, the Silesian dialect area in Posen county 3, the eastern, Pomeranian part of the same county 2, the Netze marshes 1, from Pomerania 2.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-9">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-9">p. 9</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -326,9 +343,11 @@ In conclusion we state: *the German rural population in central Poland comes in 
 The *urban Germans of central Poland* look back on a history of a good 200 years. The immigrants of the 18th century, it is true, as shows most starkly in Warsaw, were lost in the host people; only small groups have kept their nationality (Volkstum), for example in the town of Władysławów, founded in 1738. As everywhere, the urban Germans who arose from single immigrants have here too a far smaller national (völkisch) power of resistance than the German farmers settled together. In the time of the Polish kings of the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-10">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-10">p. 10</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -348,9 +367,11 @@ Let us now turn to the urban Germans who arose from settlement in closed groups.
 When, by the second and third partitions of Poland, considerable territories of the Polish Republic fell to Prussia, German craftsmen and merchants streamed into the depopulated Polish towns together with the Prussian officials. A fine example of this is the voivodeship town of *Kalisch*, which had fallen victim to a terrible fire in 1793. The first concern of the Prussian authorities was the rebuilding of the town, which lay well placed for trade and administration. From the neighbouring areas of Silesia numerous building craftsmen immigrated, who within a few years raised the town out of rubble and
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-11">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-11">p. 11</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -370,9 +391,11 @@ If the border town of Kalisch naturally received the strongest increase of Germa
 The statements on the origin of the cloth-makers in *Zgierz, Alexandrow* and *Blendow* are in my contribution to Lück's book "Die Aufbaukräfte". The en-
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-12">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-12">p. 12</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -400,9 +423,11 @@ Now something more about the origin of the *Lutheran clergy* in central Poland. 
 After the death of the first pastor of the newly founded *Warsaw* congregation, Johann Jakob *Scheidemantel*, a Silesian by birth, Pastor Gottlieb *Ringeltaube* was elected; he came from Gramtschen near Thorn, where his father was the Lutheran preacher. The afternoon preacher Friedrich *Cerulli*, whom the congregation had elected in 1779, came from Königsberg.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-13">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-13">p. 13</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -434,9 +459,11 @@ In the time of the Duchy of Warsaw there immigrated: Pastor *Gieser* in Babiak, 
 The long-serving pastor and president of the Reformed consistory in Warsaw, the court preacher Karl *Diehl*, was born in Lissa in 1765. The deserving pastor of Władysławów, the mother congregation in the Kalisz country, Karl Gottlieb *Bartsch*, who held office in that congregation from 1810 to 1852, came from Michelsdorf in Silesia.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-14">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-14">p. 14</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -456,9 +483,11 @@ After 1850 sons of the native German burghers and craftsmen were already choosin
 In sum we state that in the period 1780 to 1850 41 pastors immigrated into central Poland from Silesia and the Posen country. If we add the pastors whose fathers came into the country as Prussian officials, namely Schwarz, Hermes, Lembke and Börner, the number comes to 45. To these brave German Lutheran men the founding and building up of the Lutheran church and school system is owed without reserve. This, unfortunately, is all too often knowingly passed over in silence by the present Lutheran clergy.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-15">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-15">p. 15</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -489,6 +518,7 @@ If the migration of the rural settlers went on quietly, unnoticed and evenly, th
 
 The guiding idea of our work is to establish as exactly as possible the make-up of the Germans by stock. Only this sure foundation makes possible, taking into account the very different colonising abilities, strengths and weaknesses of the individual stocks, a full understanding of the historical development and of the prospects of the Germans of central Poland.
 
+</div>
 </div>
 </section>
 {% endraw %}

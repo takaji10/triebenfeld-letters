@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-266">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-266">p. 266</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -32,9 +33,11 @@ Even for a sophisticated Frenchman like Jean le Laboureur, visiting Poland in 16
 Though this was an exaggeration, the extent of noble power certainly seemed impressive. Already by the early sixteenth century, the Polish szlachta (nobility) was a legally defined Estate, with extensive privileges at law.<sup class="lit-fn"><a href="#n-en-3">3</a></sup> In 1374, it was exempted from ordinary taxation on hereditary noble land without its explicit consent. By the principle of neminem captivabimus nisi iure victum, accepted by the monarchy in 1433, no nobleman could be imprisoned unless formally convicted of a crime. The 1496 privileges of Piotrków banned non-nobles from acquiring landed estates, gave the nobility wide economic privileges and restricted peasant mobility; the legal basis of
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-267">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-267">p. 267</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -45,9 +48,11 @@ Gradually, the szlachta established control of the political system. The need fo
 By 1600 Poland-Lithuania seemed to be – and was seen to be – a state run by nobles for the nobles. Indeed, it was the extent of power and privilege won by the Polish szlachta which helped persuade Lithuanian nobles to accept political union against the opposition of a small group of magnates. From 1569, powerful forces of cultural integration operated among the noble élites of Poland and Lithuania, coalescing round a shared vision of a state based on the perfect coincidence of citizenship with noble status. This was justified by a heady mixture of classical political theory, whose principles were adapted to match a noble-dominated political system,<sup class="lit-fn"><a href="#n-en-5">5</a></sup> with an elaborate justification of this monopoly through the creation of a mythical common past and identity for the new Commonwealth's ruling class. This identity-myth claimed that the szlachta, whether of Polish, Lithuanian, Ruthenian or German descent, formed one political nation, descended from the ancient Sarmatian tribe which had long resisted the Roman Empire. By the mid-seventeenth century, the hallmarks of the ‘Sarmatian nation’ were the use of the Polish language, adherence to the Catholic faith and the adoption of a distinctive style of dress, heavily influenced by Turkic and Tatar models, which symbolized the difference between the Polish constitution and the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-268">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-268">p. 268</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -66,9 +71,11 @@ The rationalization of the nobility's privileged position, and the idealizations
 Nowhere in Europe was a nobility so unrestricted in its ability to make the letter of the law match a view of society based on noble supremacy. A 1505 statute decreed that a noble must demonstrate szlachta descent on his
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-269">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-269">p. 269</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -81,9 +88,11 @@ The Sarmatian myth claimed a common origin for the whole szlachta, but the asser
 Originally, there had been various groups among the military entourages of the earliest Polish princes, and a distinction between those referred to as nobiles, who enjoyed greater privileges, and the simple rycerze or milites (knights). Already by the twelfth century the initial practice of temporary, revocable grants of land by princes to both nobiles and milites was giving way to the establishment of hereditary ownership. Despite the widely differing economic and social positions within the broad categories of nobiles and milites, several factors prevented the solidifying of a feudal hierarchy. From the eleventh century, the practice of conferring knighthood on a wide range of members of the landed-warrior class spread rapidly. The custom of partible inheritance acted against the entrenchment of the economic power of the upper nobility, not least because it all but caused the permanent break-up of the state when Bolesław the Wrymouth divided his kingdom on his death in 1138. His descendants, in their separate duchies, sought to consolidate their
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-270">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-270">p. 270</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -94,9 +103,11 @@ By the mid-fourteenth century, any trend towards a feudal hierarchy had been dec
 Despite this trend, the nobility remained highly diverse, reflecting differences between the kingdom's component provinces. The influence of magnates was greater in Little Poland than in Great Poland, where the middle and petty nobility was both numerous and powerful. Royal Prussia came under the Polish Crown after the Thirteen Years War against the Teutonic Knights (1454–66). It only began sending official envoys to the Sejm in 1569, and it maintained its own political structure into the eighteenth century. The continuing importance of the great trading cities of Danzig, Elbing and Thorn meant that the nobility was never in as dominant a position as elsewhere: representatives of these three cities sat in the Senate of the Prussian Landtag (the only bicameral sejmik in the Commonwealth), and the lesser cities sent envoys to the lower house until 1662. The duchy of Mazovia, part of the Polish state until 1138, was only reincorporated in 1529; it remained the heartland of the petty nobility. The dukes of Mazovia, engaged in constant battles with the pagan Prussian and Lithuanian tribes, had encouraged settlement of the forest wastelands which made up so much of their duchy by liberally distributing charters of nobility to colonists, whose numerous descendants defended their noble status with tenacity: so numerous were they that Bartłomiej Paprocki, who published his Coats of Arms of the Polish Nobility in 1584, gave up in despair when he came to Mazovia.<sup class="lit-fn"><a href="#n-en-11">11</a></sup>
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-271">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-271">p. 271</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -109,9 +120,11 @@ The Grand Duchy before the 1386 Union with Poland was an uneasy amalgam of pagan
 It was in the context of the growing political relationship with Poland from the late fourteenth century that a noble Estate in the western sense began to develop. Lithuania, facing fierce challenges from the Teutonic Knights and from Muscovy, increasingly looked to Poland for military support. After the Lithuanian Grand Duke Jogaila (1377–1434) converted to Catholicism, taking the name Władysław Jagiełło, to become King of Poland in 1386, he wooed the pagan Lithuanian boyars into adopting the Catholic faith in 1387 by granting them certain privileges, the most important of which, for the creation of a true landed nobility, was the removal of service obligations on private estates and the introduction of rights of inheritance. Nevertheless, the 1387 privilege does not appear to have been fully implemented,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-272">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-272">p. 272</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -124,9 +137,11 @@ Although some Ruthenians still looked east, and there was a degree of support fo
 From the fifteenth century, estates of the Grand Duchy's leading nobles grew in size as the rights and privileges of the nobility were codified in the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-273">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-273">p. 273</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -137,9 +152,11 @@ There were, however, those left behind, since the very complexity of the Lithuan
 The Union of Lublin was, however, merely one of the most important stepping-stones in the gradual – though never complete – convergence of the Commonwealth's noble élites. Cultural and political integration continued after 1569, marked by the spread of the Polish language and Catholicism among Lithuanian and Ruthenian nobles. The transfer of Podolia, Volhynia and the Ukrainian lands to the Kingdom of Poland by Sigismund August
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-274">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-274">p. 274</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -150,9 +167,11 @@ In the heartlands of the old Grand Duchy, the transition did not cause substanti
 For over half a century, the Commonwealth and the Cossacks coexisted in an ill-defined and ambiguous relationship which finally shattered apart in the great Cossack rising of 1648. The 1659 Treaty of Hadiach sought to integrate the Cossack élites into the noble nation by creating a Grand Duchy of Ruthenia and guaranteeing a place in the noble nation to Orthodoxy, but opposition from nobles in the rest of the Commonwealth to the mass ennoblement of Cossacks and the extension of privileges to the Orthodox Church caused its failure. The Cossack revolt and the wars against Muscovy
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-275">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-275">p. 275</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -165,9 +184,11 @@ Nevertheless, the szlachta remained extremely diverse. This was inevitable, sinc
 Even making allowance for a degree of inaccuracy in the tax registers, which sought to list all members of noble households over the age of ten, but which were administered by a nobility not renowned for its cheerful acceptance of taxation, local studies have consistently revised downwards the percentage of noble inhabitants: the figures of 4.8 per cent for the palatinates of Poznań and Kalisz and 1.66 per cent for the Cracow palatinate in the mid-seventeenth century are significantly lower than previous claims.<sup class="lit-fn"><a href="#n-en-16">16</a></sup> Emanuel Rostworowski's widely respected estimate for the late eighteenth century suggests a figure of 6–6.5 per cent of a population of approximately 14 million for the whole Commonwealth before the First Partition in 1772, and 7–7.5 per cent of approximately 10 million thereafter. A more accurate general picture will not emerge until more local studies are complete, but it seems that a figure of 6–7.5 per cent of the population is more likely than 10 per cent.<sup class="lit-fn"><a href="#n-en-17">17</a></sup> Even this reduced figure, however, means that the Commonwealth's nobility constituted a higher percentage of the total population than anywhere else in Europe, with only Spain and Hungary coming close.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-276">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-276">p. 276</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -178,9 +199,11 @@ No estimate of the size of the nobility can ever be entirely accurate, since it 
 There were less formal ways of entering the nobility. In such a vast State, with such a large population of petty nobles, it was not difficult for a commoner, particularly if he had money, to adopt the hallmarks of a noble lifestyle and to pass himself off as noble. Since the bearing of arms had long been regarded as one of the central functions of the nobility, and since there was always a substantial number of commoners in the Commonwealth's armies, it was relatively easy for commoners with long military service to slip into the nobility without formal ennoblement, especially since they often served among petty, landless nobles. But military service was not essential: Many simply adopted a surname of the noble type and moved: Mazovia's numerous population of petty nobles was constantly overspilling into other regions and it was easy to claim noble status in a far-off part of the Commonwealth where it was difficult for checks to be made. Another favourite route was through service to magnates, who felt more able to rely on the loyalty of clients whose status was in some doubt. Money could not only buy villages and estates, which was technically illegal for commoners, but also be used to draw up documents or persuade or bribe witnesses to testify to one's noble
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-277">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-277">p. 277</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -201,9 +224,11 @@ Such entries are typical. Trepka was only too ready to challenge individuals in 
 Whether or not Trepka's work is entirely accurate, it reflects extensive contemporary concern at the ease with which commoners could pass themselves off as noble and gives some indication of how widespread the phenomenon was: the Liber chamorum essentially covered western Little Poland – although Trepka did make occasional forays further afield – and his own lifetime (he died in 1640), but it lists 2537 individuals – about
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-278">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-278">p. 278</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -212,9 +237,11 @@ three times the number ennobled by the Sejm for the entire Commonwealth between 
 Thus Trepka's complaints were ineffectual: the Commonwealth's nobility remained open for many who wished to join it without the formality of an act of the Sejm. The succession of statutes attempting to seal off the nobility and define it more closely bears eloquent testimony to the ease with which they were circumvented. The ineffectiveness of the 1496 ban on commoners buying or leasing land is demonstrated by its renewal in 1538 and 1611, to similarly little effect, while an act of 1717 reflected continuing concern by attempting to ban the foundation of new towns or villages by those of uncertain status. An act of 1633 sought to deprive nobles resident in towns of their status if they took municipal office: the result was that, initially at least, burghers entering the nobility resigned from their town councils. Later in the century, the law was often ignored: Dominik Meglioruci, elected to the Cracow council in June 1697, was ennobled by the Sejm in September of the same year, yet served on the council until at least 1722.<sup class="lit-fn"><a href="#n-en-28">28</a></sup> Frustration at the complete inability of the law to prevent the usurpation of noble status brought a revival of the medieval concept of scartabelat: a cadet nobility which did not enjoy full noble privileges. In the election charter of Michael Korybut Wiśniowiecki (1669–73), this idea was enshrined in a clause which banned anyone from holding public office until their family had enjoyed noble status for three generations. Challenges to those suspected of usurping noble status remained common into the eighteenth century, but in practice this law, like so many others, was frequently ignored. Indeed, there is evidence to suggest that insulting a fellow nobleman by calling his status into question could backfire on the perpetrator: at the second Sejm of 1654, when a dispute erupted between two members of the Chamber of Envoys, one Borysyło, deputy cupbearer of Kiev, and a certain Korzewski, deputy judge
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-279">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-279">p. 279</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -227,9 +254,11 @@ Nobility might, therefore, be relatively easy to acquire for those who desired i
 Even in the Polish heartlands, therefore, only just over half the nobility was classed as independent, resident landholders. In Podlasie and parts of the palatinate of Lublin, but above all in Mazovia, the poor nobility was dominant: noble smallholders (szlachta zagrodowa) held 23.4 łan
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-280">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-280">p. 280</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -244,9 +273,11 @@ The relative impoverishment of so many and the constant threat of poverty for a 
 A hundred years later, Connor noted that ‘they never intermarry with the Common People' when he discussed the concept of nobility in Poland, but
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-281">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-281">p. 281</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -263,9 +294,11 @@ Commercial activity was another means of trying to guarantee the sort of income 
 The seething ant heap of poor and impoverished nobles contrasted vividly with the tiny élite of wealthy families at the apex of the social system.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-282">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-282">p. 282</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -276,9 +309,11 @@ Access to royal land often played a vital part in this process. Royal estates co
 Starosties varied widely in profitability, but they contributed significantly to the economic well-being of their holders. Some, particularly in the east, were highly lucrative. The starosty of Bila Tserkva near Kiev, the richest in the whole Commonwealth, was valued for the kwarta in 1771 at 63,506 zloties, an enormous sum; altogether there were six starosties in the Kiev palatinate alone valued at over 10,000 zloties.<sup class="lit-fn"><a href="#n-en-44">44</a></sup> The select few who acquired several starosties could reap substantial profits. The royal land held by some
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-283">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-283">p. 283</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -291,9 +326,11 @@ The agrarian economy was more varied than is often appreciated. While serfdom wa
 Large estates based on serf labour undoubtedly enjoyed certain advantages. Those with access to the great river network could undercut smaller producers because their transport costs were lower since they eliminated middlemen by using their own flotillas of barges. When the relative profitability of the Danzig trade declined from about the mid-seventeenth century, large landowners were well placed to find alternative sources of income. On the Zamoyski entail in the second half of the eighteenth century,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-284">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-284">p. 284</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -304,9 +341,11 @@ In the favourable political and economic conditions down to the mid-seventeenth 
 These men were wealthy and cosmopolitan aristocrats well able to dazzle their European contemporaries. When they travelled abroad they made a particular effort to impress: the entrance of Jerzy Ossoliński to Rome in 1633 caused a sensation, accompanied as he was by 300 retainers in Polish costume, 30 mules in scarlet, ten camels in gilded silk, a personal guard of 30 cavalrymen and six splendid Turkish horses trotting on gold horseshoes.<sup class="lit-fn"><a href="#n-en-55">55</a></sup> Travel certainly broadened the mind: the courts of these magnates gave ample testimony to the sophisticated influences picked up abroad. Jan
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-285">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-285">p. 285</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -319,9 +358,11 @@ Wealth brought power. From the late sixteenth century, the influence of a small 
 Wealthy nobles partly filled this gap. It was on their estates, at their courts and in their private military retinues that poorer nobles sought employment as factors, administrators or servants. Others leased or rented lands from magnates who could not or would not farm all their lands directly, especially in the second half of the seventeenth century, when the depredations of war stimulated the widespread development of the szlachta czynszowa: landless nobles who rented their properties. In consequence, magnates commanded significant clientèles made up of nobles who depended on them directly or indirectly for their livelihood.<sup class="lit-fn"><a href="#n-en-58">58</a></sup> The Commonwealth's political structure gave these clientèles great scope: the liberum veto – the extension of the principle of unanimity in debate which enabled one envoy to break the proceedings of a Sejm or sejmik, first recognized in 1652 – enabled faction leaders to block the policies of their rivals, while the fact that envoys to the Sejm were delegates from their sejmiki, furnished with instructions, not representatives with plenipotentiary powers, meant that magnates were able to use their local power bases to win significant leverage at the centre of politics. Connor was amused that a noble servant might be beaten frequently by his master for his misdemeanours, yet still have as good a vote in the Sejm;
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-286">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-286">p. 286</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -334,9 +375,11 @@ Titles were, however, of relatively minor significance. Differences in status wi
 Certain non-senatorial offices were also highly prized, particularly the posts of grand or field hetman (commanders of the Polish and Lithuanian armies), which conferred a great deal of power, and of court treasurer, which was lucrative, as well as a number of honorific posts, such as chamberlain, steward, or carver, whose duties, if they existed, were largely ceremonial; these dignities were, nevertheless, much coveted: they were frequently the preserve of young members of prominent families. For lesser families, there
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-287">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-287">p. 287</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -351,9 +394,11 @@ It might seem, therefore, that a small group of wealthy families had subverted t
 This theory was thought to provide a model of Polish development which might explain its divergence from the general European pattern. There are, however, serious objections to it. First, the classic period of the ‘magnate oligarchy', which was meant to have started at some point after 1648, corresponded exactly with the period in which the Commonwealth's political
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-288">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-288">p. 288</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -366,9 +411,11 @@ No family could take its position for granted. Office may have performed a rough
 Office, however, was not automatically passed on from father to son, and the most important were in such demand that attainment of senatorial rank by an individual did not guarantee that his relatives or children
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-289">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-289">p. 289</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -379,9 +426,11 @@ The king, who appointed senators and central dignitaries, remained the most impo
 Appointment to high office did not in itself establish an individual's position (still less that of his family) among the élite. With almost a third on average of such appointments being new men, it is difficult to argue that a magnate oligarchy was closing its ranks in the second half of the seventeenth century. Zielińska's study of these offices in the Saxon period (minus three palatines and three castellans of lands lost by 1697) shows that this trend continued: only 30 of 190 families had more than a couple of representatives. Augustus II named 174 men from 112 families, of which 33 per cent were new men, representing 45 families (41 per cent); Augustus III (1733–64) named 57 new men (40 per cent) from 46 families (47 per cent).<sup class="lit-fn"><a href="#n-en-69">69</a></sup> If there was some closing-up at the top end of the Senate – thirteen men who began their career by appointments to local office between 1648 and 1696 ended up as
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-290">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-290">p. 290</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -394,9 +443,11 @@ By its very nature, the system caused frequent and bitter frustration and was li
 The most volatile periods came in the early eighteenth century, however, during the brief reigns of Stanisław Leszczyński (1704–10 and 1733–36).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-291">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-291">p. 291</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -407,9 +458,11 @@ Instability also had economic roots. A great deal of study has been devoted to t
 This lack of flexibility meant that entails were not well suited to the condition of landholding in sparsely populated Eastern Europe, where land was plentiful but of little use without labour to work it; therefore, despite the frequent attempts to compute the area of land held by individual nobles, it is a meaningless exercise: acreage was less important than the number of villages controlled. Rich nobles tended not to own consolidated blocks of land, but a series of estates (folwarki), often scattered in groups round a key estate (klucz), across an enormous area.<sup class="lit-fn"><a href="#n-en-76">76</a></sup> These holdings were impossible to rationalize, and grouping them in an entail did nothing to create a coherent economic entity, although protection from subdivision did perhaps provide enough stability to encourage the settlement which would bring greater
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-292">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-292">p. 292</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -420,9 +473,11 @@ Most families were not so protected. The constant division of property to provid
 Even the wealthiest faced enormous problems. Much is often made of the maintenance of 'private armies' by magnates, especially in the light of the State's lack of a large standing army: the existence of these forces is taken to demonstrate the weakness of central power and the increasingly dominant position of the great magnates; after 1945, Polish historians were quick to claim that the large private forces of magnates were part of the structure of feudal oppression.<sup class="lit-fn"><a href="#n-en-79">79</a></sup> The term 'private army' is, however, at best unhelpful and at worst downright misleading. While it is true that one or two of the wealthiest Lithuanian and Ukrainian magnates did maintain small garrisons organised and equipped on western lines – such as the Radziwiłł garrison at Słuck – the forces that could be raised by what was always the tiniest of minorities even among the aristocracy were far from being professional, modern armies, and they were certainly not standing forces on any scale. Historians have been too quick to accept impressionistic estimates of numbers and the hearsay evidence of diaries, in the absence of detailed muster rolls; where these do exist, the numbers of such private forces come tumbling down. It is true that, on particular occasions, such as royal elections, a handful of magnates could and did show up with impressive retinues. It is claimed that there were 60,000 private troops at the 1632 election of Władysław IV: 10,000 with Krzysztof II Radziwiłł, and 6000 each with Stanisław Konopczynski and one of the Leszczyńskis. Similar numbers are claimed for the 1669 election of Michael Korybut Wiśniowiecki, with Bogusław and Michał Kazimierz Radziwiłł bringing nearly 8000 men, as did Krzysztof and Michał Kazimierz Pac, while Jan Sobieski and Dymitr Wiśniowiecki brought 4000 each.<sup class="lit-fn"><a href="#n-en-80">80</a></sup> Yet such figures are barely credible, and no magnate, however wealthy, was capable of maintaining forces of anything like this size. Certain magnates, such as the Radziwiłł, could indeed call up substantial numbers of men for particular events such as a royal election, not least because, since the 1560s, the Radziwiłłs had issued large numbers of leases to poor
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-293">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-293">p. 293</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -431,9 +486,11 @@ Lithuanian nobles and boyars on terms which required them to turn out if require
 Indeed, by the eighteenth century, many of the greater landholders had leased out or mortgaged large parts of their estates. Mortgaging was a useful way of raising loans, but the Commonwealth's high interest rates submerged many wealthy nobles in a deepening slough of debt. One study of landholding patterns in what is now central and western Belarus on the basis of hearth-tax registers reveals that although Karol Radziwiłł nominally owned 35,800 hearths in 1790 (14 per cent of the total for this area), less than a third (10,700) were in his direct control. Of 32 properties he inherited in the district of Nowogród, twenty had already been mortgaged in the early eighteenth century; by 1776, only one was left unmortgaged.<sup class="lit-fn"><a href="#n-en-85">85</a></sup> Radziwiłł blamed the sequestration of his lands in 1764–67 and 1769–76 for his problems; the rest of the family blamed his prodigality. Although it is certainly true that Karol was – to put it mildly – an undistinguished and incompetent sprig of the mighty Radziwiłł tree, he was by no means the only magnate faced with
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-294">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-294">p. 294</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -444,9 +501,11 @@ It is true that once a family was established at the peak of noble society any d
 Such transactions only benefited a handful, however; since wealthy heiresses were in short supply, competition for their favours was fierce and occasionally bloody.<sup class="lit-fn"><a href="#n-en-87">87</a></sup> Most had to look elsewhere to maintain their position. The important role played by royal land in sustaining magnate incomes meant that even well-established families required access to starosties to provide for their heirs and to compensate for the effects of partible inheritance. This in itself was a source of intense instability, since so much of the monarchy's influence – and many of its problems – derived from the fact that, as with office, demand far outstripped supply: the tariff of 1771 listed a mere 1400 separate royal estates and leaseholds of various kinds (excluding Lithuania). The king did not enjoy complete freedom of action. Unlike public office, it was possible to cede a starosty, a practice that became increasingly common in the seventeenth century when a lively trade developed, with large sums of money changing hands for agreements to resign in favour: in 1660, Tobiasz Morsztyn ceded the starosty of Ostrołęka in Mazovia to Stefan Kazimierz
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-295">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-295">p. 295</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -457,9 +516,11 @@ Nevertheless, if a tiny group of families undoubtedly grabbed more than its shar
 Thus, for all the apparent advantages of the wealthiest groups in society, they never constituted a stable economic élite. Despite a dearth of studies, there is some evidence – not least the number of new men rising to senatorial rank throughout the period – to suggest that the middling nobility, while facing enormous problems between 1648 and 1721, was remarkably resilient. Contrary to the impression which is often given, the middle and lesser nobility held most of the cultivated land in private ownership: about 80 per cent in Great Poland at the end of the sixteenth century.<sup class="lit-fn"><a href="#n-en-91">91</a></sup> One study of the district of Kalisz – which unfortunately only goes up to 1655 – suggests that the middle nobility devised strategies to avoid the worst effects of partible inheritance. Despite Kula's view that land was not a commodity, the land market was extremely lively, and although there was considerable activity by richer nobles, most transactions involved the middle nobility. A large number of sales took place within the family, as older siblings took advantage of their position to buy out the portions assigned to their younger brothers and ensure that divisions of the family property were limited or transient.<sup class="lit-fn"><a href="#n-en-92">92</a></sup> The lack of studies of the economic activities of lesser landholders – particularly of those who leased or rented their lands – makes it difficult to reach firm conclusions, but it is clear that they were highly active economically: leases were often short, litigation was frequent and great effort had to be devoted to maintaining one's position.<sup class="lit-fn"><a href="#n-en-93">93</a></sup>
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-296">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-296">p. 296</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -468,9 +529,11 @@ This may have been a defensive strategy, by which families ran hard to stay in t
 Despite the apparent dominance of the political system by wealthy nobles, the views of lesser nobles could not be ignored, since the Commonwealth's constitutional structure after 1569 ensured that szlachta of the meaner sort enjoyed political influence substantially beyond their economic power. Interest in politics remained high: it is estimated that nearly half the adult male nobility of Royal Prussia took an active part in political life in the mid-eighteenth century.<sup class="lit-fn"><a href="#n-en-95">95</a></sup> Mazovia, where magnate estates were virtually unknown, had a large number of sejmiki to match its numerous nobility; it therefore sent proportionally more envoys to the Sejm than other, wealthier provinces: until 1764, almost one-sixth (30 out of 182) of the Chamber of Envoys, excluding those from Royal Prussia, were from the palatinates of Mazovia, Rawa and Plock. If the poor nobility were often unable to leave their plots of land to travel to the general Mazovian Sejmik, they enthusiastically attended district sejmiki, and smallholders were by no means excluded from serving as envoys or deputies.<sup class="lit-fn"><a href="#n-en-96">96</a></sup> Moreover, Warsaw, where royal elections took place and where the vast majority of Sejm sessions were held after 1569, was the capital of Mazovia, and Mazovians therefore did not have far to travel to attend. Traditionally, Mazovians were presented by Polish historians as rather primitive and limited in their political outlook, but more recent work has stressed the full engagement of Mazovians with the political ideals of the Commonwealth, stressing their intrinsic legalism. While Mazovian envoys to the Sejm could be unruly, and their attachment to the ideals of the Commonwealth meant that they were intrinsically hostile to any royal plans which seemed to threaten the introduction of absolutum dominium, they were broadly regalist in outlook and could often be relied on to oppose the pretensions of magnate factions: thus although the Mazovians opposed John Casimir's plans to introduce an election vivente rege in 1661–62, they overwhelmingly supported him against Jerzy Sebastian Lubomirski in the crisis which ended in Lubomirski's rokosz (rebellion) of 1665–66.<sup class="lit-fn"><a href="#n-en-97">97</a></sup> In royal elections, from 1573, when Mazovians played a central role in the election of Henry duke of Anjou, their influence was important. In 1669, a massive turnout of the ordinary nobility – some talked of 80,000
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-297">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-297">p. 297</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -481,9 +544,11 @@ While the ordinary nobility had always been suspicious of royal reform initiativ
 This was no oligarchy. There was no stable élite and success was dependent on conflict, not cooperation. Competition for heiresses, office, starosties and political influence was rife; rivalry was bitter and occasionally murderous. No one faction, or coalition of factions, could control central politics or access to patronage; indeed only the loose coalitions which formed royal support came close, but although the king could manoeuvre effectively among the great factions, using his control of patronage, he could not break free of reliance upon them: support of one led to the alienation of its rivals, and he could always be frustrated by szlachta suspicion of royal intentions and opposition groups which exploited the Commonwealth's decentralized political structure, or looked to foreign rulers who were only too eager to masquerade as protectors of the republican constitution. While the rebellions of Zebrzydowski in 1606–07 and Jerzy Sebastian Lubomirski in 1665–66,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-298">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-298">p. 298</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -496,9 +561,11 @@ The result was anarchic stalemate. By 1721, with the Commonwealth's internationa
 The growing appreciation of the chasm between ideal and reality stimulated not only an intense debate about the political reform which was so clearly necessary, but also a fundamental re-examination of the very assumptions on which the whole socio-political structure had rested since the mid-sixteenth century. The reign of Poniatowski – himself from the reform-minded Czartoryski 'Family' – was dominated by the problem of reform. Partly under the influence of enlightened ideas, the Commonwealth's constitution was subjected to growing criticism and unfavourable comparisons with other European states. In Court circles, the blinkered conservatism of Sarmatian traditionalists was mocked. Yet there were important barriers to reform. Poniatowski, ex-lover of Catherine II, had been elevated to the throne with Russian support; although he was determined to reform, he soon split from his uncles in the Family, who wished to direct operations. Early initiatives failed when they came up against the reluctance of Prussia and Russia to risk any substantial change in the political system, and the opposition of magnate malcontents angry at the apparent triumph of the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-299">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-299">p. 299</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -511,9 +578,11 @@ The Partition Settlement was an important watershed. Although it seemed initiall
 The distraction of Russia might have provided the opportunity for reform, but the direction that change took was essentially determined by the collapse
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-300">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-300">p. 300</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -524,9 +593,11 @@ From the mid-seventeenth century, in consequence, a steady process of change had
 By 1764 a growing number of middling szlachta and reform-minded members of the richer nobility were willing not only to redefine nobility, but to admit certain non-nobles openly into their ranks. Many middling and wealthy nobles recognized that they had more in common with the sophisticated urban élites of Warsaw, Poznań or even Danzig than with their unenlightened ‘younger brethren'.<sup class="lit-fn"><a href="#n-en-104">104</a></sup> Concern at the state of the economy had led to growing calls for the revitalization of towns and cities, which might expand the market for agricultural products.<sup class="lit-fn"><a href="#n-en-105">105</a></sup> Many of the new men rising out of the middle nobility in the course of the eighteenth century had close links with Warsaw financial circles: one such, Joachim Chreptowicz (1729–1812), used his capital to take out mortgages on magnate estates, lending
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-301">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-301">p. 301</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -543,9 +614,11 @@ Nevertheless, the use of ‘even' when discussing the descendants of a noble dis
 > The noble estate is the result of a political creation, flowing from the agreement of the nation, and although the motive for its creation is founded
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-302">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-302">p. 302</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -560,9 +633,11 @@ Kołłątaj was by no means an isolated voice. Tomasz Wawrzecki claimed bluntly 
 It was this definition which the reformers forced through the Sejm, although the most radical proposals were withdrawn: Andrzej Zamoyski, who had resigned as Polish Grand Chancellor in 1767 in protest against Russian policy, had wanted to introduce a minimum qualification for citizenship of an income of 6000 zloties per annum; Kołłątaj had proposed a minimum landholding of about 135 hectares, which he thought was the equivalent of one village, and a taxable income of 5000 zloties, but eventually adopted the position that it was ownership of land, however little, which conferred the political independence which lay at the basis of a soundly functioning system. The final measure, adopted in March 1791, limited participation in sejmiki to all owners of allodial land, those enjoying its lifetime usufruct and holders of mortgaged land paying the new tax of the ‘Perpetual Offering' at a rate of over 100 zloties. Landless nobles, nobles renting land and nobles subject to private jurisdiction were deprived of political rights: this effectively stripped citizenship from some 325,000 individuals. Noble smallholders, however tiny their hereditary plot, kept their citizenship, while large numbers of noble leaseholders, many of whom were better off, were deprived of theirs. Shortly afterwards, the rights of burghers were increased: the urban statute of 18 April 1791 abolished many of the remaining legal boundaries between noble and burgher. Nobles were now permitted to become full citizens of towns; all remaining restrictions on burghers with regard to the purchase of land were abolished, as were many, if not all, of the barriers to townsmen within the army. Finally, a limited
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-303">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-303">p. 303</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -581,9 +656,11 @@ These changes were definitively embodied in the Constitution of 3 May 1791. Nobi
 <span class="lit-note" id="n-en-4">4</span> Laboureur, Histoire, Vol. II, p. 40.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-304">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-304">p. 304</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -616,9 +693,11 @@ These changes were definitively embodied in the Constitution of 3 May 1791. Nobi
 <span class="lit-note" id="n-en-18">18</span> Laszuk, 'Szlachta w województwie krakowskim', pp. 429–30.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-305">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-305">p. 305</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -665,9 +744,11 @@ These changes were definitively embodied in the Constitution of 3 May 1791. Nobi
 <span class="lit-note" id="n-en-39">39</span> One study of Great Poland confirms that the practice was most common in areas with the highest concentration of poor nobles: in one case a noble even married his daughter to a serf. W. Dworzaczek, 'Pzenikanie szlachty do stanu mieszczańskiego w Wielkopolsce w XVI i XVII w.', Przegląd Historyczny 47 (1956),
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-306">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-306">p. 306</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -698,9 +779,11 @@ These changes were definitively embodied in the Constitution of 3 May 1791. Nobi
 <span class="lit-note" id="n-en-51">51</span> See W. Kula, Szkice o manufakturach w Polsce XVIII wieku (Warsaw, 1956) for the failures and sporadic successes of such enterprises. The attempts at autarchy brought curious results: the Radziwiłłs would send wool from the Ukraine to be processed hundreds of miles away in their textile mills at Nieśwież in Lithuania, and Michał Poniatowski sold the textiles from his mill in Skierniewice miles
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-307">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-307">p. 307</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -733,9 +816,11 @@ away on his estate in Pinsk: W. Kula, An Economic Theory of the Feudal System. T
 <span class="lit-note" id="n-en-64">64</span> For a useful critique, see A. Kamiński, 'The szlachta of the Polish-Lithuanian Commonwealth and their government', in I. Banac and P. Bushkovitch, eds, The Nobility of Russia and Eastern Europe (New Haven, Conn., 1985), pp. 17–45 at pp. 23–27. Kamiński questions the use of the term 'magnate', yet it was a term known at the time: cf. Bogusław Radziwiłł's letter to Jan Mierzeński of 5th September 1664 in which he asks whom 'ex magnatibus' in Lithuania he could trust: quoted by A. Rachuba, 'Litwa wobec sadu nad Jerzym Lubomirskim'
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-308">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-308">p. 308</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -766,9 +851,11 @@ Kwartalnik Historyczny 94 (1986), 679–707 at p. 682. The term remains useful s
 <span class="lit-note" id="n-en-76">76</span> Although boundary disputes were frequent, they resulted from the fact that borders between properties were vague in the extreme: maps of estates were extremely rare and measurements of area highly imprecise. One of the first mentions of a map of estate boundaries, which has not survived, was in 1659. A few early sixteenth-century examples are known from Podlasie, and the practice was reasonably common in relatively densely populated Royal Prussia. Nevertheless, a surviving 1682 map of a group of estates in Belarus is a rare example, although the practice became more common in the eighteenth century: S. Alexandrowicz, 'Mapy majątkowe północnego Podlasia z XVI wieku', Kwartalnik Historii Kultury Materialnej 4 (1966), 279–305; J. Kazimierski,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-309">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-309">p. 309</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -809,9 +896,11 @@ Kwartalnik Historyczny 94 (1986), 679–707 at p. 682. The term remains useful s
 <span class="lit-note" id="n-en-93">93</span> Pasek, who had begun life as the son of an impoverished leaseholder in the Rawa palatinate, built up a certain amount of capital through his long career as a soldier. He married a widow, with life tenure of one village and leaseholds on two others in the Cracow palatinate. Much of the latter part of his memoirs is devoted to the frequent property transactions and disputes he entered into, including a long-running case against the mighty Myszkowskis, which he eventually won.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-310">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-310">p. 310</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -853,6 +942,7 @@ While he suffered from the poor economic conditions of the time, he was able in 
 
 <span class="lit-note" id="n-en-111">111</span> M. Biernacka, Wsie drobnoszlacheckie na Mazowszu i Podlasiu. Tradycje historyczne a współczesne przemiany (Wrocław, 1966).
 
+</div>
 </div>
 </section>
 {% endraw %}

@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -65,9 +66,11 @@ Friedrich Ebbecke's publishing house.
 1904.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-422">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-422">p. 422</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -87,9 +90,11 @@ Soon after the beginning of the eighteenth century Evangelicals seem to have liv
 In 1822 the church, which had become very dilapidated, was rebuilt from the ground up, for which the lord of the estate Poniński gave generous help; it had massive enclosing walls and a massive tower in the lower storeys. For its further furnishing the Gustav Adolf Verein granted help of 500 Mark in 1883. A new church nevertheless had to be
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-423">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-423">p. 423</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -137,9 +142,11 @@ The pastorate has been held by:
 6. Friedrich Wilhelm Gotthelf Vogel, born at Primkenau in the government district of Liegnitz, entered his office here in 1835. The days of terror which April 1848 brought the
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-424">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-424">p. 424</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -170,6 +177,7 @@ German inhabitants of Wreschen forced him to flee with his family, and they brou
 
 On 1 May 1894 an assistant preacher was sent here in the person of the hitherto assistant curate Emil Gellert. When he was called in the same year still to Gogolin, Traugott Schent took his place. The latter was called in 1895 to be pastor of Lindenwald, whereupon Martin Sänger was sent here.
 
+</div>
 </div>
 </section>
 {% endraw %}

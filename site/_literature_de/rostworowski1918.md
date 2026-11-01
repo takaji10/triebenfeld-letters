@@ -11,7 +11,8 @@ excerpt_separator: ""
 <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-303">303</a> <a href="#p-304">304</a> <a href="#p-321">321</a> <a href="#p-322">322</a> <a href="#p-323">323</a>
 </nav>
 
-<section class="lit-passage" id="p-43">
+<section class="lit-passage has-related" id="p-43">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-43">S. 43</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -39,14 +40,16 @@ Present His Excellencies President Małachowski, Gutakowski, Stanisław Potocki,
 After deliberating the queries of the Administrative Chamber of the Department of Poznań, that is, in what manner the January instalment
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>In seiner Sitzung vom 13. Februar 1807, so verzeichnet das Dziennik der Regierungskommission, wurde das Memorial der Michalina Dąbska, geb. Prusimska, dem Justizdirektor überwiesen, damit er allgemeine Regeln für die unter der früheren Regierung konfiszierten Güter der Bürger vorschlage. Am 18. Februar gab der Direktor seine Meinung ab, ihr Begehren sei „eine Sache von rein politischem Charakter“. Die Kommission beschloss daraufhin, beim Kaiser um Aufhebung der Konfiskationen zu bitten, und wies die Administrativen Kammern an, die Güter zu beaufsichtigen. Die Akte in Warschau enthält ihre Bittschriften aus dem Juli, nicht aber dieses Memorial. In ihrem Brief vom 20. Juli 1807 an die Kommission in Dresden schreibt sie, sie habe schon zweimal um die Rückgabe der ihrem Vater zugunsten der preußischen Generale genommenen Güter gebeten, und der Entwurf der Resolution vom 21. Juli in derselben Akte zeigt die Antwort im Werden.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Die Sitzung vom 13. Februar überweist Dąbskas Memorial dem Justizdirektor, damit er allgemeine Regeln für die unter der früheren Regierung konfiszierten Güter vorschlage. Die Akte hält ihre Briefe vom Juli 1807, nicht aber dieses Memorial; ihr Brief vom 20. Juli an die Kommission in Dresden sagt, sie habe schon zweimal um die Güter gebeten, die ihrem Vater zugunsten der preußischen Generale genommen waren — das Bitten, das die Februareinträge des Dziennik verzeichnen.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-44">
+<section class="lit-passage has-related" id="p-44">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-44">S. 44</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -82,14 +85,16 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>In seiner Sitzung vom 13. Februar 1807, so verzeichnet das Dziennik der Regierungskommission, wurde das Memorial der Michalina Dąbska, geb. Prusimska, dem Justizdirektor überwiesen, damit er allgemeine Regeln für die unter der früheren Regierung konfiszierten Güter der Bürger vorschlage. Am 18. Februar gab der Direktor seine Meinung ab, ihr Begehren sei „eine Sache von rein politischem Charakter“. Die Kommission beschloss daraufhin, beim Kaiser um Aufhebung der Konfiskationen zu bitten, und wies die Administrativen Kammern an, die Güter zu beaufsichtigen. Die Akte in Warschau enthält ihre Bittschriften aus dem Juli, nicht aber dieses Memorial. In ihrem Brief vom 20. Juli 1807 an die Kommission in Dresden schreibt sie, sie habe schon zweimal um die Rückgabe der ihrem Vater zugunsten der preußischen Generale genommenen Güter gebeten, und der Entwurf der Resolution vom 21. Juli in derselben Akte zeigt die Antwort im Werden.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Der Eintrag schließt die Überweisung ab: das Memorial, mit der Empfehlung, der Direktor lege einen Entwurf allgemeiner Regeln über die Konfiskationen vor. Ihr Brief vom 20. Juli 1807 — das erneute Bitten um Trąbczyn, Kamionna, Kolna, Pawłowa, Pawłówka und das Magazin in Włocławek — ist dieselbe Bittschrift in Dresden, nachdem die Kommission dorthin gezogen war.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-54">
+<section class="lit-passage has-related" id="p-54">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-54">S. 54</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -121,14 +126,16 @@ The memorials of Mr. Podgurski, asking that it be permitted him to deliver the r
 Upon receiving from His Excellency the Director of Justice, on the memorial of Michalina née Prusimska Dąbska sent to him, his opinion that the petition she brought, with regard to the return of the estates confiscated by the past government, is a matter
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>In seiner Sitzung vom 13. Februar 1807, so verzeichnet das Dziennik der Regierungskommission, wurde das Memorial der Michalina Dąbska, geb. Prusimska, dem Justizdirektor überwiesen, damit er allgemeine Regeln für die unter der früheren Regierung konfiszierten Güter der Bürger vorschlage. Am 18. Februar gab der Direktor seine Meinung ab, ihr Begehren sei „eine Sache von rein politischem Charakter“. Die Kommission beschloss daraufhin, beim Kaiser um Aufhebung der Konfiskationen zu bitten, und wies die Administrativen Kammern an, die Güter zu beaufsichtigen. Die Akte in Warschau enthält ihre Bittschriften aus dem Juli, nicht aber dieses Memorial. In ihrem Brief vom 20. Juli 1807 an die Kommission in Dresden schreibt sie, sie habe schon zweimal um die Rückgabe der ihrem Vater zugunsten der preußischen Generale genommenen Güter gebeten, und der Entwurf der Resolution vom 21. Juli in derselben Akte zeigt die Antwort im Werden.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Die Meinung des Justizdirektors vom 18. Februar — die Rückgabe der Güter „eine Sache von rein politischem Charakter", die nicht den gewöhnlichen Weg der Gerichte gehen könne — ist der Eintrag, den der Entwurf der Resolution vom 21. Juli beantwortet: er erstreckt das kaiserliche Dekret von Finckenstein auf ihren Fall und schickt die konfiszierten Güter an ihre wahren Eigentümer zurück.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-55">
+<section class="lit-passage has-related" id="p-55">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-55">S. 55</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -156,14 +163,16 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
-<p>In seiner Sitzung vom 13. Februar 1807, so verzeichnet das Dziennik der Regierungskommission, wurde das Memorial der Michalina Dąbska, geb. Prusimska, dem Justizdirektor überwiesen, damit er allgemeine Regeln für die unter der früheren Regierung konfiszierten Güter der Bürger vorschlage. Am 18. Februar gab der Direktor seine Meinung ab, ihr Begehren sei „eine Sache von rein politischem Charakter“. Die Kommission beschloss daraufhin, beim Kaiser um Aufhebung der Konfiskationen zu bitten, und wies die Administrativen Kammern an, die Güter zu beaufsichtigen. Die Akte in Warschau enthält ihre Bittschriften aus dem Juli, nicht aber dieses Memorial. In ihrem Brief vom 20. Juli 1807 an die Kommission in Dresden schreibt sie, sie habe schon zweimal um die Rückgabe der ihrem Vater zugunsten der preußischen Generale genommenen Güter gebeten, und der Entwurf der Resolution vom 21. Juli in derselben Akte zeigt die Antwort im Werden.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a></p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Der Beschluss der Kommission — den Kaiser um Aufhebung der Konfiskationen zu bitten, und die Administrativen Kammern die Güter beaufsichtigen zu lassen — ist, was der Entwurf des Dekrets vom 21. Juli 1807 ausführt: das kaiserliche Dekret für Wybicki auf Dąbska erstreckt, damit ihre erblichen Güter an ihre wahren Eigentümer zurückkehren.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-303">
+<section class="lit-passage has-related" id="p-303">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-303">S. 303</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -195,14 +204,16 @@ Whereas the affair of Madame Michalina née Prusimska Dąbska, demanding the ret
 Inclining to the petition of Mr. Batowski, on the motion of His Highness the Prince Director of War, present at this sitting, it was permitted
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
 <p>Das Protokoll der außerordentlichen Sitzung vom 21. Juli 1807 in Dresden im Dziennik sagt, die Kommission habe, dem Beispiel des kaiserlichen Dekrets vom 5. Juni folgend, das in Finckenstein für Wybicki erging, das Dekret auf die Fälle von Michalina Dąbska, General Niemojewski und Wichrowski erstreckt, damit ihre erblichen, vom früheren preußischen Staat konfiszierten Güter an ihre wahren Eigentümer zurückkehren. Das Register trägt die Resolution selbst, vom 21. Juli und unterschrieben von Małachowski und Łuszczewski, in fast gleichem Wortlaut; es schreibt „z Prusińskich Dambskiey“, wo der Druck „z Prusimskich Dambskiej“ hat. Die Akte enthält den Entwurf desselben Tages. Ihr Brief vom 23. Juli nimmt das Dekret vom 5. Juni als Grundsatz und Vorbild des Dekrets der Kommission und bittet, die Administrativen Kammern anzuweisen, sie, wie Wybicki, in die Güter einzuführen.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad1174016/2/' | relative_url }}">1/174/0/1/6, Dokument 2 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, Dokument 4 (23. Juli 1807)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad1174016/2/' | relative_url }}">1/174/0/1/6, Dokument 2 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/1/' | relative_url }}">1/174/0/2/73, Dokument 1 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, Dokument 4 (23. Juli 1807)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-304">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-304">S. 304</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -222,9 +233,11 @@ Stanisław Małachowski, President.
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-321">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-321">S. 321</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -280,9 +293,11 @@ The Director of the Interior brought in orally and showed the original letters, 
 Mr. Daru has requisitioned that magazines of food be established in Warsaw; the French authorities were asked, through Mr. the Director of the Interior, what funds there are to be for this?
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-322">
+<section class="lit-passage has-related" id="p-322">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-322">S. 322</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -322,14 +337,16 @@ The Governor reports that peace between the Emperor of the French and the Empero
 At the sitting, those gathered wished to know how they ought to conduct themselves when Mr. Kamieniecki comes to the sitting, whether as Deputy Director he may take a seat? To this end there was read the Commissorium given to the General Directorium on the 10th of the month, in which the Governing Commission names expressly His Excellency Dembowski as having the right of a seat in the Directorium, as presiding in the Treasury Administration; besides that we looked into the establishment of that same Administration, in which it is set down that His Excellency Dembowski by his office is to sit in the Directorium
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In den Dokumenten</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
 <p>Das Protokoll Nr. 3 des Directorium vom 15. Juli 1807, in der ersten Person geschrieben vom Polizeidirektor Łubieński, meldet, sehr viele reisten nach Dresden – "Dąmbska, Kownacka, Węgrzecki, Bórakowski" unter ihnen – und daß der Regierung täglich gemeldet werden müsse, wer dort ankommt. Sie war binnen der Woche in Dresden: ihre Briefe vom 20., 21. und 23. Juli 1807 an die Regierungskommission und an den Kaiser sind alle in Dresden geschrieben und unterzeichnet "Michalina z Prusimskich Dambska", der letzte mit der Kenntnis des Dekrets der Kommission vom 21. Juli.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/3/' | relative_url }}">1/174/0/2/73, Dokument 3 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, Dokument 4 (23. Juli 1807)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, Dokument 2 (20. Juli 1807)</a><a href="{{ '/documents/agad11740273/3/' | relative_url }}">1/174/0/2/73, Dokument 3 (21. Juli 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, Dokument 4 (23. Juli 1807)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-323">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-323">S. 323</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -388,6 +405,7 @@ All nominated according to law; there is needed only the approval of the Governm
 
 […]
 
+</div>
 </div>
 </section>
 {% endraw %}

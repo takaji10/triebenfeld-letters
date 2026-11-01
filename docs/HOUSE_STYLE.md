@@ -438,7 +438,10 @@ site explaining itself. Where such a sentence only says what the site holds or
 how it decides, it is cut; where it carries a fact, the fact stays and the
 phrase goes ("The edition has the decree of the commission" becomes "The decree
 of the commission"). The About page is "About", the footer says what the site
-holds, the list label is "In the documents". "Edition" stays only where a real
+holds, the list label is "In the documents", and the literature passage
+pages' call-outs are headed "Related" (German "Bezüge"; the editor,
+2026-11-01 — the old heading "In the documents" named the box, not the
+relation). "Edition" stays only where a real
 published edition is meant: the printed Kodeks, a source edition, a book's
 second edition. The word may stand in comments and notes, not on a page.
 

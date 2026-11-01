@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-75">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-75">S. 75</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -32,9 +33,11 @@ Poland of this time presents a singularly complex problem. By entering into the 
 <span class="lit-note" id="n-en-2">2</span> C. M. Cipolla, The Decline of Italy: the Case of a Fully Matured Economy, “The Economic History Review,” 2nd ser., vol. V, 1952, p. 178.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-76">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-76">S. 76</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -55,9 +58,11 @@ This economic reconstruction was carried through at the expense of the peasantry
 <span class="lit-note" id="n-en-5">5</span> This conception of the development scheme of Poland in the 16th - 17th centuries was first developed by M. Małowist, Über die Frage der Handelspolitik des Adels in den Ostseeländern 15. und 16. Jahrhundert, “Hansische Geschichtsblätter,” vol. LXXV, 1957, p. 39 ff. idem, The Economic and Social Development of the Baltic Countries from the Fifteenth to the Seventeenth Centuries, “The Economic History Review,” 2nd ser., vol. XII, 1959.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-77">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-77">S. 77</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -76,9 +81,11 @@ According to Gostomski, peasants enjoyed higher yield ratios than the lord. So t
 <span class="lit-note" id="n-en-8">8</span> Vide: “Studia z Dziejów Gospodarstwa Wiejskiego,” vol. VII, 1965, papers of J. Topolski, Mrs A. Wawrzyńczyk, L. Żytkowicz (in French).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-78">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-78">S. 78</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -97,9 +104,11 @@ The price system: one could imagine a situation in which prospective exporters o
 <span class="lit-note" id="n-en-11">11</span> “Studia z Dziejów Gospodarstwa Wiejskiego,” vol. VIII, 1966, p. 343.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-79">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-79">S. 79</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -120,9 +129,11 @@ Great Poland, Cuyavia and Masovia supplied jointly about two-thirds of grain reg
 <span class="lit-note" id="n-en-13">13</span> Cf. A. Mączak, Zur Grundeigentumsstruktur in Polen im 16. bis 18. Jh., “Jahrbuch für Wirtschaftsgeschichte,” vol. IV, 1967.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-80">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-80">S. 80</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -137,9 +148,11 @@ Let us consider more closely the grain surplus from large estates. If we examine
 <span class="lit-note" id="n-en-14">14</span> W. Kula. Teoria ekonomiczna ustroju feudalnego. Próba modelu. [Economic Theory of the Feudal System. A Model], Warszawa 1962, p. 114 ff.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-81">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-81">S. 81</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/maczak1968/81.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/maczak1968/81.jpg' | relative_url }}" alt="Mączak (1968), S. 81" loading="lazy"></a></figure>{% raw %}
 <div class="lit-only" lang="en" markdown="1">
@@ -149,9 +162,11 @@ Poland, 1569 - 1637
 1: frontiers of Poland; 2: frontiers of provinces; 3: frontiers of districts; 4: frontiers of the voivodships of Little Poland; 5: Vistula custom houses discused in the text
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-82">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-82">S. 82</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -164,9 +179,11 @@ Source: Calculated according to the figures from Chudoba, op. cit.
 H — 4 years of highest river transport of grain from a given region; L — 4 years of the lowest river transport; 4 years of medium river transport — omitted. Figures in italics: percentages of the whole transport and of the transport by gentry, Roman types — grain in lasts.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-83">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-83">S. 83</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -191,9 +208,11 @@ only the Masovians obtained better prices as a compensation for bad yields. Fluc
 <span class="lit-note" id="n-en-15">15</span> Central Ancient Record Office (AGAD) Warsaw, Ekonomia Malborska, sygn. W 224, 225, 226, 228, 238, 239, 242; Rachunki królewskie sygn. 196 (for the year 1561).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-84">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-84">S. 84</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -210,9 +229,11 @@ It would be helpful to know the meaning of the sums quoted on Table 3. Unfortuna
 <span class="lit-note" id="n-en-19">19</span> Observation shows that the amount of corn sent down by both families was much more tightly correlated to the total river transport from Little Poland than to the transport from Ruthenia.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-85">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-85">S. 85</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -231,9 +252,11 @@ It is not easy to compare the figures registered at Włocławek in the sixteenth
 <span class="lit-note" id="n-en-21">21</span> H. Obuchowska-Pysiowa, Handel wiślany w pierwszej połowie XVII w. [Vistula Trade in the First Half of the 17th Century], Wrocław 1965.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-86">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-86">S. 86</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -254,9 +277,11 @@ By the end of the 16th century the process of land concentration, which has cont
 <span class="lit-note" id="n-en-22">22</span> Kula, op. cit., p. 141.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-87">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-87">S. 87</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -265,9 +290,11 @@ a social class but were continually losing land and thus were losing their socia
 At that time, ownership of land had a special importance in Poland. Though it formed a basis of prestige and social standing even in the highly developed countries like England, yet in Poland the margin of transactions not connected with land or land mortgage was particularly limited for the gentry. Land-ownership also had a marked political importance: royal favour, rewarding and winning the affections of prominent subjects, promoted a transfer of landed property. Courtiers and higher officials would not be wholly satisfied by other kinds of income of the State, such as duties and taxes. The overwhelming superiority of the magnate meant also his political domination over the local gentry and therefore, every ambitious nobleman wanted to increase his landed property. But the basic stimulus was the economic one. A great and still growing part of a lord’s income was derived from demesne land and labour and not from rents and therefore the increase of his income, though limited, did not depend on the money at his disposal. Construction of mills, breweries, manorial buildings, tillage of waste-land, settling new peasants — it was all a charge to the manor itself and temporarily lowered its net income; the manor was in need of labour and this exhausted its supplies though money expenditure was trifling. The better the manor was developed the lower was the expenditure. Investments remained outside the sphere of money turnover the more so, that notwithstanding some new gun foundries in the royal domains of Little Poland in the 1st half of 17th century, there was a general tendency to liquidate small forges (which were the principal form of iron industry of the time) as the cause of the devastation of forests. The only real possibility of investment was, for the magnate, to buy up land. It was, of course, an investment from the view point of a single landowner; for the national economy it meant only a transfer of property from one owner to another.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-88">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-88">S. 88</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -288,9 +315,11 @@ We do not know much about the money turnover and the land market in Poland of th
 <span class="lit-note" id="n-en-25">25</span> According to the data in the Introduction to Rejestr poborowy województwa krakowskiego z roku 1680 [Tax Register of the Cracow Voivodship, 1680], ed. by E. Trzyna and S. Żyga, Wrocław 1959, p. IX. The statement may raise some doubt as the family names of the gentry were still unsettled at the beginning of the 17th century, but it gives an idea of the range of the phenomenon. The 224 examined manors contituted 19 per cent of the total of existing manors as registered in 1629.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-89">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-89">S. 89</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -311,9 +340,11 @@ The indicated trends of changes in the property structure were characteristic fo
 <span class="lit-note" id="n-en-27">27</span> M. Horn, Handel wołami na Rusi Czerwonej w pierwszej połowie XVII w. [Oxen Trade from the Red Ruthenia in the First Half of the 17th Century], “Roczniki Dziejów Społecznych i Gospodarczych,” vol. XXIV, 1962. Horn estimated that in the 1st half of the 17th century export of oxen could reach 60 thousands a year (p. 86).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-90">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-90">S. 90</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -336,9 +367,11 @@ The discussion on national income and wealth in the sixteenth and seventeenth ce
 <span class="lit-note" id="n-en-28">28</span> A. E. Christensen, Dutch Trade to the Baltic about 1600, Copenhague 1941; A. Attman, Den ryska marknaden i 1500-talets baltiska politik, 1558 - 1595, Lund 1944.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-91">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-91">S. 91</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -361,9 +394,11 @@ For about seventy years from the middle of the 16th century the inflow of money 
 <span class="lit-note" id="n-en-31">31</span> Demographic data, if not marked otherwise are taken from I. Gieysztorowa, Badania nad historią zaludnienia Polski [Studies in the History of the Population in Poland], “Kwartalnik Historii Kultury Materialnej,” vol. IX, 1963, tab. 6. The data on the value of Gdańsk trade as given by H. Samsonowicz, Badania nad kapitałem handlowym w Gdańsku w drugiej połowie XV w. [Studies in the Merchant Capital in Gdańsk in the Second Half of the 15th Century], Warszawa 1961 and by Bogucka, op. cit., whose data I have recalculated in Rdl.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-92">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-92">S. 92</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -384,9 +419,11 @@ Let us go farther back into the hinterland. Availing himself of estimations conc
 <span class="lit-note" id="n-en-35">35</span> A. Wyczański, Tentative Estimate of Polish Rye Trade in the Sixteenth Century, “Acta Poloniae Historica,” vol. IV, 1961.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-93">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-93">S. 93</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -401,9 +438,11 @@ The scale of changes occurring throughout several decennia shows the enormous im
 <span class="lit-note" id="n-en-36">36</span> Chudoba, op. cit., and Tabeller...
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-94">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-94">S. 94</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -422,9 +461,11 @@ The great trade boom found Royal Prussia — this main supplier of exported grai
 <span class="lit-note" id="n-en-38">38</span> A. Wyczański, La consommation alimentaire en Pologne au XVIᵉ siècle, “Annales. Économies, Sociétés, Civilisations,” vol. II, 1962.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-95">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-95">S. 95</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -439,9 +480,11 @@ As results from the drawn — perhaps overdrawn — contrast between Little Pola
 <span class="lit-note" id="n-en-40">40</span> The social and economic development of Royal Prussia will be more largely presented in vol. II of the collective History of Pomerania (in preparation).
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-96">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-96">S. 96</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -456,9 +499,11 @@ It might help, too, to estimate the relation of the national product (and/or inc
 <span class="lit-note" id="n-en-41">41</span> A. Mączak, Sukiennictwo wielkopolskie w XIV - XVII w. [Clothmaking Industry in Great Poland in the 14th - 17th Centuries], Warszawa 1955, p. 243.
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-97">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-97">S. 97</a></h2>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/maczak1968/97.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/maczak1968/97.jpg' | relative_url }}" alt="Mączak (1968), S. 97" loading="lazy"></a></figure>{% raw %}
 <div class="lit-only" lang="en" markdown="1">
@@ -480,9 +525,11 @@ Gdańsk; Cracow; Warsaw
 Regional differences of prices and wages (10-yearly averages in grams of silver)
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-98">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-98">S. 98</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
@@ -498,6 +545,7 @@ These are our estimations, suggestions and hypotheses put forward in the belief 
 
 <span class="lit-note" id="n-en-43">43</span> R. Romano, Mouvement des prix et développement économique. L’Amérique du Sud au XVIIIᵉ siècle, “Annales E.S.C.,” 1963, No. 1, p. 74.
 
+</div>
 </div>
 </section>
 {% endraw %}

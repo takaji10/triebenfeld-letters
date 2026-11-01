@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-front">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -28,9 +29,11 @@ Born probably in 1560
 died
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c01">śluby i dzieci, wnuki, i do prawnuków</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -82,6 +85,7 @@ Teresa Debrzyńska of Błogowo, arms Nałęcz (odm.) ?1640- \|
 Zofia Debrzyńska of Błogowo, arms Nałęcz (odm.) ?1640- \|  
 & Mikołaj Grylewski, arms Topór ?1650-
 
+</div>
 </div>
 </section>
 {% endraw %}

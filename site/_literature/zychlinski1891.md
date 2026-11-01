@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-219">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-219">p. 219</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -23,9 +24,11 @@ Hr. **Stanisław** Adam (XI pok.), *pułkownik b. wojsk polskich, adjutant księ
 Count **Stanisław** Adam (11th generation), *colonel of the former Polish army, adjutant of Prince Józef Poniatowski, knight of the cross Virtuti militari,* heir of Trąbczyn, Wieniec, Brzeź, Dobielewo, Jaronówek, Pawłowo, Dzwonowo, Kolno, Berenbusz and Kamionna, born 24 December 1780, died in Berlin on 22 April 1845. From there his body was taken to the burial chapel of the Miączyńskis at Trąbczyn and buried there. As a young man he joined the ranks of Napoleon's armies, in the guard of the Grand Duke of Berg and Cleves, later king of the Two
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-220">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-220">p. 220</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -117,9 +120,11 @@ Worn out [printed "Stérauy", for Stérany] by the hardships of the Moscow campa
 The discharge he asked for was issued, with the rank of colonel, on 25 January 1812; after which Count Stanisław went first to Dresden, and then settled on his wife's estates at Trąbczyn in the Kalisz country. — For already earlier,
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-221">
+<section class="lit-passage has-related" id="p-221">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-221">p. 221</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -143,16 +148,18 @@ The couple lived very happily, now on the Trąbczyn estates in the Kalisz countr
 <span class="lit-note" id="n-en-1">1</span> She died at Padua on 2 September 1797, aged 38, and was buried there on 5 September, with a tombstone raised by her husband in the church of St Anthony. Author's note.
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
 <p>Żychliński (1891) says that Michalina, born Prusimska, the widow of Count Józef Dąmbski, married Count Stanisław Miączyński in August 1809 and brought him the Trąbczyn estates. In the letters to and from the Prince of Hohenlohe of 1814 and 1815 she is "the Moscinska born Prusimska", who holds the estates given back to her in 1807 and stands high in favour with the Russian governor general Lanskoy; a letter of 2 February 1815 says that "Moscinski, husband of the born Prusimska" and Lanskoy are bosom friends. Moscinski is the letters' form of Miączyński. The letters give no date for the marriage.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/242/' | relative_url }}">Oe 1 Bü 9454, document 242 (12 October 1814)</a><a href="{{ '/documents/oe1bu9454/266/' | relative_url }}">Oe 1 Bü 9454, document 266 (10 January 1815)</a><a href="{{ '/documents/oe1bu9454/265b/' | relative_url }}">Oe 1 Bü 9454, document 265b (15 January 1815)</a><a href="{{ '/documents/oe1bu9454/1/' | relative_url }}">Oe 1 Bü 9454, document 1 (29 January 1815)</a><a href="{{ '/documents/oe1bu9454/270/' | relative_url }}">Oe 1 Bü 9454, document 270 (2 February 1815)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/242/' | relative_url }}">Oe 1 Bü 9454, document 242 (12 October 1814)</a><a href="{{ '/documents/oe1bu9454/266/' | relative_url }}">Oe 1 Bü 9454, document 266 (10 January 1815)</a><a href="{{ '/documents/oe1bu9454/265b/' | relative_url }}">Oe 1 Bü 9454, document 265b (15 January 1815)</a><a href="{{ '/documents/oe1bu9454/1/' | relative_url }}">Oe 1 Bü 9454, document 1 (29 January 1815)</a><a href="{{ '/documents/oe1bu9454/270/' | relative_url }}">Oe 1 Bü 9454, document 270 (2 February 1815)</a></p>
 <p>Żychliński (1891) says in a footnote that Maryanna born Dąmbska, Antoni Prusimski's wife, died at Padua on 2 September 1797, aged 38, and was buried in the church of St Anthony there. The Prussian resident at Venice, Count Cattaneo, reported on 14 December 1796 that Prusimski had come to him in ruined health and dulled almost to stupor by the death of his wife. If both speak of the same death, it came before December 1796, and Żychliński's year 1797 cannot stand.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr1414/2/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, document 2 (14 December 1796)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr1414/2/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414, document 2 (14 December 1796)</a></p>
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-222">
+<section class="lit-passage has-related" id="p-222">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-222">p. 222</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -192,14 +199,16 @@ Countess **Marya** Józefa Felicya, born 8 February 1888 at Włocławek.
 "The late Włodzimierz, son of a powerful family known throughout the country, did not, it is true, take a prominent part in public life; but as a citizen of rare uprightness of character, of steady and conscientious work, and of great love of his native soil and its tradition, he was everywhere held up as a model to the younger generations. Brought up with great care in his parents' house and in the then famous school of the Piarists at Żoliborz, at seventeen he went to Kraków to complete his studies at the Jagiellonian University. The events of 1830 broke off the course of his further studies and condemned Count Włodzimierz, with his elder brother Count Aleksander, to a stay of many years abroad. When at last he was allowed to return to his native home, Count Włodzimierz, having taken over the family estate of Trąbczyn in the Konin country, gave himself with extraordinary zeal to the care of the piece
 
 </div>
-{% endraw %}<aside class="lit-links">
-<p class="lit-links-head">In the documents</p>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
 <p>Żychliński (1891) says that Count Włodzimierz Miączyński, an officer of 1831, held the Trąbczyn estate, which he bought from his brother Mieczysław after his return from exile, and that he died at Trąbczyn, unmarried, in December 1879. The printed summons of 19 October 1860 is issued at the demand of "Włodzimierz Count Miączyński, heir of the Trąbczyn estates, living in the village of Trąbczyn", in his counterclaim against the colonists of Trąbczyn.</p>
-<p class="lit-links-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
 </aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-223">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-223">p. 223</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -231,9 +240,11 @@ of native soil that had fallen to his share from his forebears, and became, alth
 3\. Count **Mieczysław** (12th generation), born 13 February 1818, heir of the estates of Wieniec and Izbica in the Kingdom of Poland, married Marya **Słubicka** of the Prus I arms, born 1828, died 18 October 1865, buried at Trąbczyn, daughter of August, general of the former Polish army [printed "wojsk wojsk", the word twice], and of Łucya née Countess Zboińska, daughter of a voivode. Of this marriage there was only one daughter, Countess Zdzisława, born 10 June 1851, who died in the flower of her age on 23 August 1876, wife of the late Zbigniew Dzierzykraj **Morawski** of the Nałęcz arms, son of Józef, member of the Prussian House of Lords, former director-general of the Old Landschaft of Posen, and of Eugenia née Dzierzykraj Morawska, daughter of Józef, referendary of state, and of Paula née Countess Łubieńska. Zbigniew Morawski, a man of great gifts, died in June 1889, leaving two little daughters, Joanna and Zdzisława Morawska,
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-224">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-224">p. 224</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -257,9 +268,11 @@ heiresses of Wieniec and Izbica. Count Mieczysław, the known composer of the "K
 "The Council of State, in the Department of Civil and Ecclesiastical Affairs, having examined the decision of the Ruling Senate, Department of Heraldry, on the comital dignity of the Miączyński family, considered: 1) that the ancestor of this family, Atanazy Miączyński, was raised by the Roman Emperor Leopold I, in the year 1683, to the dignity of count; 2) that the descent from him of the present petitioners is attested by the documents they have submitted; 3) that the petitioners have been entered by the Heraldry of the Kingdom of Poland in the books of the nobility of the Kingdom. In consequence the Ruling Senate, in conformity with the law of 1840 on honorary dignities in the Kingdom of Poland, art. 16, 17 and 25, confirmed by the Emperor, of 30 June 1847, the resolution of the Council of State, point 1, and the annex to art. 56 (note), vol. IX of the Code of Laws of 1857, point 4, **resolved**: to the noblemen Mieczysław and Witold Michał (two names) Miączyński, with the right to their descendants, in accordance with [the note continues on p. 226, which is not in the editor's copy]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-225">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-225">p. 225</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -294,6 +307,7 @@ Countess **Marya**, born 26 September 1862, married on 20 May 1885 at Warsaw Wł
 
 <span class="lit-note" id="n-en-3">1</span> Our information on Count Witold's sons goes to 1885; we therefore do not know whether they have more children. Author's note.
 
+</div>
 </div>
 </section>
 {% endraw %}

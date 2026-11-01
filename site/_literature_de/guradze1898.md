@@ -12,6 +12,7 @@ excerpt_separator: ""
 </nav>
 
 <section class="lit-passage" id="p-c01">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c01">Der Bauer in Posen.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -40,9 +41,11 @@ Franz Guradze.
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c02">Vorbemerkung.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -98,9 +101,11 @@ Franz Guradze.
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c03">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c03">I. Kapitel. (Einleitung).</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -324,9 +329,11 @@ However, before these resolutions could have any effect, following the formation
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c04">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c04">II. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -594,9 +601,11 @@ Spätere Rechtsquellen sind seit 1794 Theil I, Titel 21 und Theil II, Titel 7 de
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c05">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c05">III. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -860,9 +869,11 @@ Das Ergebniß der ersten preußischen Besitzzeit des Netzedistrikts für den Bau
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c06">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c06">IV. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1089,9 +1100,11 @@ Immediately after the outbreak of the war of 1806, the Prussian authorities of t
 ---
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-c07">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c07">V. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -1225,9 +1238,11 @@ This is probably the source of the entire difference in legislation between Sout
 ---
 
 </div>
+</div>
 </section>
 
-<section class="lit-passage" id="p-c08">
+<section class="lit-passage has-related" id="p-c08">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-c08">VI. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -2193,5 +2208,11 @@ Datum in residentia nostra Kaszczorensi anno 1766 die 21 decembris. Johannes Szo
 <span class="lit-note" id="n-en-189">189</span> Knapp a. a. O. Theil II S. 147-163.
 
 </div>
+</div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Guradze (1898) datiert das Ende der Erbuntertänigkeit im Herzogtum Warschau auf die Konstitution vom 22. Juli 1807 und das Dekret des Königs Friedrich August vom 24. Dezember 1807, das die Aufhebung dessen vollzog, was Artikel 4 der Konstitution esclavage nannte. Der Erbpachtvertrag von 1805/6 in der Edition hatte seine achtzehn Erbpächter zwei Jahre davor von der Erbuntertänigkeit freigestellt, durch seinen eigenen Paragraphen 13 — die Freiheit, die das Dekret des Herzogtums dann allgemein machte.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/app539680801/3/' | relative_url }}">53/968/0/-/801, Dokument 3 (21. März 1806)</a></p>
+</aside>{% raw %}
 </section>
 {% endraw %}
