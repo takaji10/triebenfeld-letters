@@ -129,8 +129,10 @@ so check them.
   Prusimski once proposed through Pachoński's PSB entry is ruled out for
   now** (the editor, 2026-11-01) **until something establishes it**; the
   recipient metadata stays empty, and the grounds are recorded in
-  NEEDS_CONFIRMATION and the holding's notes (the PSB citation is
-  unattached; its quoted wording does not appear in the copy). The
+  NEEDS_CONFIRMATION and the holding's notes (the PSB entry gives its
+  sources only as a list - there is no per-claim apparatus, and the file
+  the edition holds is the entire article; its quoted wording does not
+  appear in the copy). The
   transcription is the editor's corrected reading of Claude's
   band-by-band first pass; the copyist's orthography stands. Translated
   in session (no paid run), summaries claim-checked; intake is selective

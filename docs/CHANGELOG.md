@@ -4089,3 +4089,21 @@ footer on every page. Changed, in both languages:
   (0033-0034 unread to the name level; 0061 unread). Recorded in
   NEEDS_CONFIRMATION and the holding's notes; the "10 Aug." / "13 VIII"
   discrepancy stands on its own.
+
+## 2026-11-01: correction to the attribution ruling - the PSB source list is the whole of it
+
+- The editor: "There's no missing PSB footnote apparatus; I've provided
+  the entire article. You got as much info about the Ossolineum source
+  that exists." The suggestion that a printed footnote apparatus of PSB
+  t. 27 could settle what Pachoński took from rkp. 2289/II was wrong and
+  is struck from the record: a PSB entry carries its sources as a
+  general list, with no per-claim notes, and the file the edition holds
+  is the entire article. The citation in that list is everything
+  Pachoński gives about the manuscript - what he took from the codex,
+  and for which claim, is not recoverable from what he printed.
+- Worked into about.md/about_de.md, the holding's notes.md and
+  NEEDS_CONFIRMATION. The reopening conditions are now only: an
+  Ossolineum catalogue description or inventory card for rkp. 2289/II,
+  or a name at the index level in the codex's own leaves (0033-0034,
+  0061). The ruling itself (the link to Prusimski ruled out for now)
+  is unchanged.

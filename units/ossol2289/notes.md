@@ -47,10 +47,12 @@ attribution when the holding was added. **The editor ruled the connection
 out for now on 2026-11-01, until something tells us otherwise.** The
 grounds, all checked in session:
 
-- the printed entry's citation of the manuscript is unattached: the file
-  the edition holds carries no footnote apparatus, so what Pachoński took
-  from this codex, and for which claim, cannot be seen (PSB practice is a
-  general source list for the whole entry, not per-claim notes);
+- the entry's citation of the manuscript stands in its general source
+  list, and that list is the whole of what the entry gives about any of
+  its sources: a PSB entry carries no per-claim footnote apparatus, and
+  the file the edition holds is the entire article (the editor,
+  2026-11-01). What Pachoński took from this codex, and for which claim,
+  is therefore not recoverable from what he printed;
 - the two phrases the entry quotes for the exchange («Lud i Wolność to dwa
   filary na których muszą oprzeć się Polacy», for the 13 VIII letter;
   «nie zna go osobiście», for the Naczelnik's reply) appear in the copy in
@@ -64,13 +66,12 @@ grounds, all checked in session:
   makes the citation's placing consistent with the correspondence
   paragraph - but proves nothing.
 
-What would tell us otherwise: the printed PSB volume's footnote apparatus
-(the volume is digitised, t. 27 in parts 1982-83), an Ossolineum inventory
-card for rkp. 2289/II, or a name at the index level in the codex's own
-index leaves (0033-0034, unread to the name level) or on leaf 0061
-(unread; image delivery failed). Until one of those speaks, the recipient
-stays unattributed in `correspondents.json` and the prose says the
-addressee is not named.
+What would tell us otherwise: an Ossolineum catalogue description or
+inventory card for rkp. 2289/II, or a name at the index level in the
+codex's own index leaves (0033-0034, unread to the name level) or on
+leaf 0061 (unread; image delivery failed). Until one of those speaks,
+the recipient stays unattributed in `correspondents.json` and the prose
+says the addressee is not named.
 
 Two discrepancies stand between the copy and the PSB entry:
 

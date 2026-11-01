@@ -21,11 +21,11 @@ The dateline reads "z P[aryża]. d. 3 Września 98" - from Paris, 3 September 98
 
 The letter never names its addressee: "Obywatelu!" - Citizen! - is all the text offers. An identification was proposed with Antoni Prusimski, the insurgent Starost of Niszczewice, through Pachoński's entry on him in the Polish Biographical Dictionary (PSB, 1982), whose list of sources cites this manuscript, "B. Ossol.: rkp. 2289/II", and whose description of the Naczelnik's polite reply matches the copy in shape - the answered letter written from Dresden in August, the regret at knowing the writer only from correspondence. **The editor has ruled the connection out for now** (2026-11-01) **until something establishes it**. What stands against taking it as read:
 
-- the printed entry's citation of the manuscript is unattached - the file the edition holds carries no footnote apparatus, so what Pachoński took from this codex, and for which claim, cannot be seen;
+- the entry's citation of the manuscript stands in its general source list, and that list is the whole of what the entry gives about any of its sources: a PSB entry carries no per-claim footnote apparatus, and the file the edition holds is the entire article. What Pachoński took from this codex, and for which claim, is therefore not recoverable from what he printed;
 - the two phrases the entry quotes for the exchange («Lud i Wolność to dwa filary…», «nie zna go osobiście») appear in the copy in neither wording - if he had quoted this copy, a match would be expected;
 - nothing else in the edition connects the letter to Prusimski: the codex's index leaves (0033-0034) have not been read to the name level, and the letter itself names nobody.
 
-What would tell us otherwise: the printed PSB volume's footnote apparatus (the volume is digitised), an Ossolineum inventory card for rkp. 2289/II, or a name in the codex's own index. Until one of those speaks, the letter is kept as what its page shows: Kościuszko's reply to an unnamed émigré correspondent. <!-- context -->
+What would tell us otherwise: an Ossolineum catalogue description or inventory card for rkp. 2289/II, or a name in the codex's own index. Until one of those speaks, the letter is kept as what its page shows: Kościuszko's reply to an unnamed émigré correspondent. <!-- context -->
 
 ### The collection around it
 

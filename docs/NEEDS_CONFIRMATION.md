@@ -1540,13 +1540,15 @@ The one finding that touches the edition:
   metadata stays empty, and the prose (about.md, the summaries, the era
   blurb, the Kościuszko entry) records the proposed-and-set-aside
   identification rather than asserting it. Grounds for setting it aside:
-  the printed entry's citation of the manuscript is unattached (no
-  footnote apparatus in the file the edition holds), and the two phrases
-  the entry quotes for the exchange appear in the copy in neither wording.
-  What would reopen it: the printed PSB volume's footnote apparatus
-  (t. 27, digitised), an Ossolineum inventory card for rkp. 2289/II, or a
-  name at the index level in the codex's own leaves (0033–0034 unread to
-  the name level; 0061 unread). Still open:
+  the entry's citation of the manuscript stands in its general source
+  list, and that list is the whole of what the entry gives about any of
+  its sources (a PSB entry carries no per-claim footnote apparatus; the
+  file the edition holds is the entire article - the editor,
+  2026-11-01), and the two phrases the entry quotes for the exchange
+  appear in the copy in neither wording. What would reopen it: an
+  Ossolineum catalogue description or inventory card for rkp. 2289/II,
+  or a name at the index level in the codex's own leaves (0033–0034
+  unread to the name level; 0061 unread). Still open:
   - **The "10 Aug." / "13 VIII" discrepancy** stands on its own, with or
     without the attribution.
   - **The copyist's closing-note name** the editor confirms by hand.

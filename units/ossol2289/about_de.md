@@ -10,11 +10,11 @@ Die Datumszeile lautet "z P[aryża]. d. 3 Września 98" - aus Paris, 3. Septembe
 
 Der Brief nennt seinen Adressaten nirgends: "Obywatelu!" - Bürger! - ist alles, was der Text bietet. Eine Identifizierung wurde mit Antoni Prusimski, dem insurgenten Starosten von Niszczewice, vorgeschlagen, über Pachońskis Artikel über ihn im Polnischen Biografischen Wörterbuch (PSB, 1982), dessen Quellenverzeichnis diese Handschrift nennt, "B. Ossol.: rkp. 2289/II", und dessen Beschreibung der höflichen Antwort des Naczelnik der Abschrift in der Gestalt entspricht - der beantwortete Brief aus Dresden vom August, das Bedauern, den Schreiber nur aus der Korrespondenz zu kennen. **Der Herausgeber hat die Verbindung vorläufig verworfen** (2026-11-01), **bis etwas sie begründet**. Was dagegen spricht, sie als gelesen zu nehmen:
 
-- der Verweis der gedruckten Quelle auf die Handschrift hängt an nichts - die Datei, die die Edition hält, trägt kein Fußnotenapparat, sodass nicht zu sehen ist, was Pachoński aus diesem Sammelband nahm und für welche Behauptung;
+- der Verweis des Artikels auf die Handschrift steht in seinem allgemeinen Quellenverzeichnis, und dieses Verzeichnis ist das Ganze, was der Artikel über jede seiner Quellen gibt: ein PSB-Artikel trägt keinen auf Einzelbehauptungen bezogenen Fußnotenapparat, und die Datei, die die Edition hält, ist der ganze Artikel. Was Pachoński aus diesem Sammelband nahm, und für welche Behauptung, ist daher aus dem Gedruckten nicht zurückzugewinnen;
 - die zwei Wendungen, die der Artikel für den Austausch zitiert («Lud i Wolność to dwa filary…», «nie zna go osobiście»), erscheinen in der Abschrift in keiner der Wortstellungen - hätte er diese Abschrift zitiert, wäre eine Übereinstimmung zu erwarten;
 - nichts sonst in der Edition verbindet den Brief mit Prusimski: die Registerblätter des Sammelbands (0033-0034) sind nicht bis zur Namensebene gelesen, und der Brief selbst nennt niemanden.
 
-Was uns anders belehren würde: der Fußnotenapparat des gedruckten PSB-Bands (der Band ist digitalisiert), eine Bestandskarte des Ossolineums zu rkp. 2289/II, oder ein Name im eigenen Register des Sammelbands. Bis eine davon spricht, bleibt der Brief, was seine Seite zeigt: Kościuszkos Antwort an einen nicht genannten emigrierten Korrespondenten. <!-- context -->
+Was uns anders belehren würde: eine Katalogbeschreibung oder Bestandskarte des Ossolineums zu rkp. 2289/II, oder ein Name im eigenen Register des Sammelbands. Bis eine davon spricht, bleibt der Brief, was seine Seite zeigt: Kościuszkos Antwort an einen nicht genannten emigrierten Korrespondenten. <!-- context -->
 
 ### Die Sammlung um sie
 
