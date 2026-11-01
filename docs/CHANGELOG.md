@@ -4224,3 +4224,7 @@ footer on every page. Changed, in both languages:
   hand-made links checked on both sides). `docs/LITERATURE_PLAN.md` §31
   records the work. The literature has 41 works, 35 with pages in both
   languages and six summary-only.
+- Published at the editor's word ("Publish"): the commit cherry-picked to
+  main (21a7d01f7) and pushed; the "Build and deploy" run 41286917735
+  succeeded, and /literature/dorow1843/ and /de/literatur/dorow1843/
+  answer, the "In the documents" box and its three letters included.

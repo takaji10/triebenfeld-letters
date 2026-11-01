@@ -727,13 +727,17 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       retells it. Read by Tesseract with the Fraktur model, checked line
       against line against the Materialien's reprint; nine readings on the
       editor's spot sheet; one hand-made link to the Prince's three letters
-      (104, 108, 112). Built and verified; not published.
+      (104, 108, 112). Built and verified.
 - [x] **You:** the spot sheet "Dorow (1843), Triebenfeld's memoir: the
       doubtful readings" — answered 2026-11-01 (eight of nine rows: 5
       Procent, gehauset, Officianten, Würkungskreis, bewürken, kukken,
       Michelis, Pohlen; the cross-reference row left open in
       NEEDS_CONFIRMATION), the rulings worked in and everything rebuilt.
-- [ ] **You:** a look at the work's page, then publication at your word.
+- [x] **Published 2026-11-01** at your word ("Publish"): pushed to main
+      (21a7d01f7), the "Build and deploy" run 41286917735 succeeded, and
+      /literature/dorow1843/ and /de/literatur/dorow1843/ answer, the "In
+      the documents" box and its three letters included.
+- [ ] **You:** a look at the work's page.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 
