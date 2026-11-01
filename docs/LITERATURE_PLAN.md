@@ -1327,8 +1327,10 @@ part II.
   editor's rulings worked into `original.md`, recorded in the work's
   `notes.md`): 5 Procent, *gehauset*, *Officianten*, *Würkungskreis*,
   *bewürken*, *kukken*, *Michelis* and *Pohlen* stand; the cross-reference
-  row was not answered and stays open in NEEDS_CONFIRMATION. Not published
-  until the editor's word.
+  row was not answered and stays open in NEEDS_CONFIRMATION. **Published
+  2026-11-01** at the editor's word ("Publish"): pushed to main
+  (21a7d01f7), the Build and deploy run 41286917735 succeeded, and
+  /literature/dorow1843/ and /de/literatur/dorow1843/ answer.
 - **The figures:** the memoir's own figures are Triebenfeld's (the 10 and
   the volunteered 24 per cent, the 27 millions of the title, Prince Karl
   George of Hessen's 230,000 purchase valued at 800,000, the 200,000 of
@@ -1350,5 +1352,5 @@ part II.
   memoir is the volume's own and the Materialien's note 152 spells it out;
   nothing of it is Claude's guess, so NEEDS_CONFIRMATION is not touched.
 - The literature now has 41 works, 35 with pages in both languages and six
-  summary-only. Not published (the deploy waits on the editor's word).
+  summary-only. **Published the same day** at the editor's word ("Publish").
 

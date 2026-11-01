@@ -303,7 +303,7 @@ so check them.
   page; waiting on the editor's marks. **To add a map, follow
   `docs/ADDING_A_MAP.md`.**
 
-- **Dorow (1843)** (`dorow1843`, added 2026-11-01, **not published**):
+- **Dorow (1843)** (`dorow1843`, added and **published 2026-11-01**):
   Wilhelm Dorow, *Erlebtes aus den Jahren 1813-1820*, part II (Leipzig
   1843), the excerpt the editor chose - the memoir "Pohlen unter Friedrich
   II. und Friedrich Wilhelm II." which the war councillor Peter August von
