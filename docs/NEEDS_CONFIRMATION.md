@@ -1501,22 +1501,21 @@ Przyłęckiego" made 2026-11-01; the working file,
 — nothing about the manuscript enters the edition until the editor rules.
 The one finding that touches the edition:
 
-- **The Kościuszko letter of 3 IX 1798 (leaf 0062) as the reply to Antoni
-  Prusimski.** The leaf carries a one-leaf letter signed "**T.
-  Kościuszko**", dated "**Z P. d. 3 Września 98**" (P = Paryż(?)), headed
-  by the codex's hand "**List Tadeusza Kościuszki**", answering an
-  "Obywatelu"'s letter "z Drezna(?)" of 10 Aug. 1798, recalling earlier
-  letters "które mię w Ameryce(?) od Ciebie doszły", regretting that
-  events did not let him return to London "poznać cię osobiscie", and
-  cautioning against premature steps and correspondence with compatriots
-  at home while happier events are awaited. Pachoński's PSB entry on
-  Antoni Prusimski (`literature/pachonski1982`, whose sources list
-  "B. Ossol.: rkp. 2289/II") records Naczelnik's "grzeczna" reply to
-  Prusimski's letter of 13 VIII (PSB's number) — the żal, "nie zna go
-  osobiście", only from correspondence. Every element matches; the page
-  itself names no addressee. **For the editor**: take the attribution as
-  the working one — the PSB citation then has its demonstrable content,
-  the K. letter of 3 IX 1798 — or hold.
+- **The Kościuszko letter of 3 IX 1798 (leaf 0062).** The leaf carries a
+  one-leaf letter signed "**T. Kościuszko**", dated "**Z P. d. 3 Września
+  98**" (P = Paryż), headed by the codex's hand "**List Tadeusza
+  Kościuszki**", answering an "Obywatelu"'s letter "z Drezna(?)" of 10
+  Aug. 1798, recalling earlier letters "które mię w Ameryce od Ciebie
+  doszły", regretting that events did not let him meet the writer in
+  London "poznać cię osobiście", and cautioning against premature steps
+  while happier events are awaited. The page itself names no addressee.
+  An identification with Antoni Prusimski through Pachoński's PSB entry
+  (`literature/pachonski1982`, whose sources list "B. Ossol.: rkp.
+  2289/II") was proposed, considered, and **ruled out for now by the
+  editor (2026-11-01) until something establishes it** — see the later
+  bullet below for the grounds and what would reopen it. The letter was
+  nonetheless added to the edition as the holding `ossol2289` on
+  2026-11-01 (see that bullet).
   - **"10 Aug." against PSB's "13 VIII".** The digit was re-read at 3x
     and reads "10"; "13" is conceivable but not what the form shows
     (crop `q_z10aug.png`). Either the copyist misdated, or PSB misdates,
@@ -1530,19 +1529,26 @@ The one finding that touches the edition:
   X–XI 1794), the 0054 signature "Kop≈eceński(?)", the 0056 poem's place
   names, the 0058 addressee "Podkomorzy". The copyist's closing-note
   name the editor confirms by hand, per the standing arrangement.
-- **The attribution is the editor's working one, and the letter is in the
-  edition.** The copy of the Kościuszko letter of 3 IX 1798 was added to the
-  edition on 2026-11-01 as the holding `ossol2289` (B. Ossol. rkp. 2289 II,
-  page 145 of the codex, scan 0062), with the editor's own corrected
-  transcription, an English translation, summaries and the holding's page;
-  the pipeline's checks pass. Recorded here so the working attribution is
-  known; still open below:
-  - **Whether the letter's recipient metadata should name Antoni
-    Prusimski.** The document page names nobody ("Obywatelu!"), so the
-    correspondents record carries the sender (Kościuszko) only, and the
-    Prusimski link lives in the holding's prose (about.md, the summary) as
-    "probably". If the editor rules the attribution settled, the recipient
-    field can name him. The "10 Aug." / "13 VIII" discrepancy stands.
+- **The letter is in the edition; the link to Prusimski is ruled out for
+  now** (the editor, 2026-11-01: "rule out for now that the letter is not
+  related to Prusimski; until something tells us otherwise"). The copy of
+  the Kościuszko letter of 3 IX 1798 was added to the edition on 2026-11-01
+  as the holding `ossol2289` (B. Ossol. rkp. 2289 II, page 145 of the
+  codex, scan 0062), with the editor's own corrected transcription, an
+  English translation, summaries and the holding's page; the pipeline's
+  checks pass. The addressee is treated as not named: the recipient
+  metadata stays empty, and the prose (about.md, the summaries, the era
+  blurb, the Kościuszko entry) records the proposed-and-set-aside
+  identification rather than asserting it. Grounds for setting it aside:
+  the printed entry's citation of the manuscript is unattached (no
+  footnote apparatus in the file the edition holds), and the two phrases
+  the entry quotes for the exchange appear in the copy in neither wording.
+  What would reopen it: the printed PSB volume's footnote apparatus
+  (t. 27, digitised), an Ossolineum inventory card for rkp. 2289/II, or a
+  name at the index level in the codex's own leaves (0033–0034 unread to
+  the name level; 0061 unread). Still open:
+  - **The "10 Aug." / "13 VIII" discrepancy** stands on its own, with or
+    without the attribution.
   - **The copyist's closing-note name** the editor confirms by hand.
   - **The remaining 29 scans** (0033–0061): read and logged in the sweep,
     not brought into the edition; the missing continuation of the Patent of

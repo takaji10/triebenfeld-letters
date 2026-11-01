@@ -38,13 +38,39 @@ heading "List Tadeusza Kościuszki"; both are transcribed with the letter.
 
 ## The letter and its addressee
 
-The letter never names its addressee. The probable identification with
-Antoni Prusimski rests on Pachoński's PSB entry (`literature/pachonski1982`,
-sources "B. Ossol.: rkp. 2289/II"): the émigré's letter of 13 VIII 1798 from
-Dresden, the polite reply expressing regret at knowing him only from
-correspondence. Recorded as the working attribution in NEEDS_CONFIRMATION;
-not asserted in the correspondents metadata (recipient empty, the page
-names nobody).
+The letter never names its addressee. An identification with Antoni
+Prusimski was proposed through Pachoński's PSB entry
+(`literature/pachonski1982`, sources "B. Ossol.: rkp. 2289/II") - the
+émigré's letter of 13 VIII 1798 from Dresden, the polite reply expressing
+regret at knowing him only from correspondence - and was the working
+attribution when the holding was added. **The editor ruled the connection
+out for now on 2026-11-01, until something tells us otherwise.** The
+grounds, all checked in session:
+
+- the printed entry's citation of the manuscript is unattached: the file
+  the edition holds carries no footnote apparatus, so what Pachoński took
+  from this codex, and for which claim, cannot be seen (PSB practice is a
+  general source list for the whole entry, not per-claim notes);
+- the two phrases the entry quotes for the exchange («Lud i Wolność to dwa
+  filary na których muszą oprzeć się Polacy», for the 13 VIII letter;
+  «nie zna go osobiście», for the Naczelnik's reply) appear in the copy in
+  neither wording - the copy reads "Miłoby mi było poznać cię osobiście"
+  and never the filary sentence. A match would be expected had he quoted
+  this copy;
+- Pachoński's earlier article on the Poles in Venice, 1794-1797
+  (`literature/pachonski1973`, complete 31-note apparatus) cites no
+  Ossolineum manuscript and ends before 1798; the PSB source list is the
+  same archival family extended into the later emigration years, which
+  makes the citation's placing consistent with the correspondence
+  paragraph - but proves nothing.
+
+What would tell us otherwise: the printed PSB volume's footnote apparatus
+(the volume is digitised, t. 27 in parts 1982-83), an Ossolineum inventory
+card for rkp. 2289/II, or a name at the index level in the codex's own
+index leaves (0033-0034, unread to the name level) or on leaf 0061
+(unread; image delivery failed). Until one of those speaks, the recipient
+stays unattributed in `correspondents.json` and the prose says the
+addressee is not named.
 
 Two discrepancies stand between the copy and the PSB entry:
 
@@ -110,9 +136,11 @@ None. The leaf is whole; the copyist's hand is firm.
 
 ## Open (NEEDS_CONFIRMATION)
 
-- the attribution of the letter to Prusimski (working, editor's ruling);
+- the attribution of the letter to Prusimski: **ruled out for now** (the
+  editor, 2026-11-01), to be reopened on evidence - the printed PSB's
+  footnotes, an Ossolineum inventory card, the codex's index leaves read;
 - the "10 Aug." / "13 VIII" discrepancy;
 - the copyist's closing-note name (the editor confirms by hand);
 - the remaining 29 scans (sweep logged, uncommitted) and the missing
   continuation of the Patent of 25 lipca 1794 between leaves 0048 and 0054;
-- whether the recipient metadata should name Antoni Prusimski once ruled.
+- the recipient metadata stays empty while the attribution is ruled out.

@@ -17,9 +17,15 @@ Kościuszko answers an émigré correspondent who had written to him from Dresde
 
 The dateline reads "z P[aryża]. d. 3 Września 98" - from Paris, 3 September 98, the expansion of the superscript abbreviation the editor's reading; Kościuszko had been in Paris since June 1798. <!-- context -->
 
-### The addressee, and why it is here
+### The addressee
 
-The letter never names its addressee: "Obywatelu!" - Citizen! - is all the text offers. The identification rests on Pachoński's entry on Antoni Prusimski in the Polish Biographical Dictionary (PSB, 1982), whose list of sources cites exactly this manuscript, "B. Ossol.: rkp. 2289/II". The entry records that Prusimski, who had settled in Dresden at the beginning of 1798, welcomed Kościuszko's arrival in Paris in June with a letter of 13 August, and that the Naczelnik "answered him politely, expressing regret that he did not know him in person, only from correspondence" - every element the copy carries. Prusimski's letters of 18 September and 3 October 1797 had reached Kościuszko in America. If the identification stands, the copy preserves the one side of the exchange that nothing published carries: the PSB knew the reply existed, and quotes none of it. The attribution is the editor's working one and is kept under review; the page itself is silent. <!-- context -->
+The letter never names its addressee: "Obywatelu!" - Citizen! - is all the text offers. An identification was proposed with Antoni Prusimski, the insurgent Starost of Niszczewice, through Pachoński's entry on him in the Polish Biographical Dictionary (PSB, 1982), whose list of sources cites this manuscript, "B. Ossol.: rkp. 2289/II", and whose description of the Naczelnik's polite reply matches the copy in shape - the answered letter written from Dresden in August, the regret at knowing the writer only from correspondence. **The editor has ruled the connection out for now** (2026-11-01) **until something establishes it**. What stands against taking it as read:
+
+- the printed entry's citation of the manuscript is unattached - the file the edition holds carries no footnote apparatus, so what Pachoński took from this codex, and for which claim, cannot be seen;
+- the two phrases the entry quotes for the exchange («Lud i Wolność to dwa filary…», «nie zna go osobiście») appear in the copy in neither wording - if he had quoted this copy, a match would be expected;
+- nothing else in the edition connects the letter to Prusimski: the codex's index leaves (0033-0034) have not been read to the name level, and the letter itself names nobody.
+
+What would tell us otherwise: the printed PSB volume's footnote apparatus (the volume is digitised), an Ossolineum inventory card for rkp. 2289/II, or a name in the codex's own index. Until one of those speaks, the letter is kept as what its page shows: Kościuszko's reply to an unnamed émigré correspondent. <!-- context -->
 
 ### The collection around it
 
@@ -27,7 +33,7 @@ The thirty scans read in the session of 1 November 2026 (leaves 0033-0062 of the
 
 ### Related holdings
 
-The Prussian side of the same years is in the era of the estate's Prussian ownership: the resident's dispatches from Venice that report Prusimski's grief and his certificate of ill health, <a href="{{ '/sources/ihagrrep7cnr1414/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414</a>, and the confiscation's paper trail in the Hohenlohe grants, <a href="{{ '/sources/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> and <a href="{{ '/sources/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. <!-- context -->
+For the years around the letter, the Prussian side of the estate's story is in the era of the Prussian ownership: the resident's dispatches from Venice on the insurgent Starost Antoni Prusimski, <a href="{{ '/sources/ihagrrep7cnr1414/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414</a>, and the confiscation's paper trail in the Hohenlohe grants, <a href="{{ '/sources/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> and <a href="{{ '/sources/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. They are neighbours in time, not evidence for the addressee. <!-- context -->
 
 <!--prepared-->
 

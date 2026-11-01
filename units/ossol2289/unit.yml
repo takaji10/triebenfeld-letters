@@ -12,18 +12,16 @@ title: >-
   made mostly by the Lwów bibliographer and autograph collector Stanisław
   Przyłęcki (1805-1866) and bought by the Ossolineum with his manuscript
   legacy in 1869; the one document transcribed so far is the copy of
-  Kościuszko's letter of 3 September 1798, written from Paris, to the
-  émigré whose August letter had reached him - probably the insurgent
-  Antoni Prusimski, whom Kościuszko knew only from correspondence.
+  Kościuszko's letter of 3 September 1798, written from Paris, to an
+  émigré correspondent whose name the copy does not give.
 title_de: >-
   Eine Sammlung von Abschriften, "Listy, dokumenty i wiersze z lat
   1697-1798", überwiegend von dem Lemberger Bibliografen und Autographen
   sammler Stanisław Przyłęcki (1805-1866) geschrieben und 1869 mit seinem
   handschriftlichen Nachlass vom Ossolineum gekauft; das bislang einzige
   transkribierte Dokument ist die Abschrift von Kościuszkos Brief vom
-  3. September 1798 aus Paris an den Emigranten, dessen August-Brief ihn
-  erreicht hatte - wahrscheinlich den Insurgenten Antoni Prusimski, den
-  Kościuszko nur aus der Korrespondenz kannte.
+  3. September 1798 aus Paris an einen emigrierten Korrespondenten, dessen
+  Name die Abschrift nicht nennt.
 # The name of the unit in the library's record, as the editor gave it
 # (the Ossolineum's catalogue record, 2026-11-01). Kept for reference; the
 # card's title (card_title, below) is made from it.
@@ -99,11 +97,14 @@ description: >-
   protocol, a patent signed Kościuszko), the Gutowski file of the
   "Korpus Towarzystwa", a name-day poem for Kościuszko of 1792, a bishop's
   letter of 1796, and the capstone, the copy of Kościuszko's letter of
-  3 September 1798 from Paris - the "grzeczna odpowiedź" the Polish
-  Biographical Dictionary's entry on Antoni Prusimski records, which the
-  codex preserves and nothing published carries. The one document in the
-  edition so far is that letter, on page 145 of the codex; the rest of the
-  sweep is logged in scratch/ and waits on the editor's rulings.
+  3 September 1798 from Paris - a reply to an unnamed émigré correspondent.
+  Pachoński's Polish Biographical Dictionary entry on Antoni Prusimski
+  cites this manuscript among its sources, but the entry's citation is
+  unattached and its quoted wording does not appear in the copy; the
+  editor has ruled the connection to Prusimski out for now (2026-11-01),
+  until evidence establishes it. The one document in the edition so far is
+  that letter, on page 145 of the codex; the rest of the sweep is logged
+  in scratch/ and waits on the editor's rulings.
 
 # Passed to the translator with every document of this holding. Facts about
 # the source that change how it should be read, not instructions about style.

@@ -6,9 +6,15 @@ Kościuszko antwortet einem emigrierten Korrespondenten, der ihm im August desse
 
 Die Datumszeile lautet "z P[aryża]. d. 3 Września 98" - aus Paris, 3. September 98, die Auflösung der hochgestellten Abkürzung nach der Lesung des Herausgebers; Kościuszko war seit Juni 1798 in Paris. <!-- context -->
 
-### Der Adressat, und warum sie hier ist
+### Der Adressat
 
-Der Brief nennt seinen Adressaten nirgends: "Obywatelu!" - Bürger! - ist alles, was der Text bietet. Die Identifizierung ruht auf Pachońskis Artikel über Antoni Prusimski im Polnischen Biografischen Wörterbuch (PSB, 1982), dessen Quellenverzeichnis genau diese Handschrift nennt, "B. Ossol.: rkp. 2289/II". Der Artikel berichtet, Prusimski, der sich Anfang 1798 in Dresden niedergelassen hatte, habe Kościuszkos Ankunft in Paris im Juni mit einem Brief vom 13. August begrüßt, und der Naczelnik habe "ihm höflich geantwortet mit dem Bedauern, ihn nicht persönlich zu kennen, sondern nur aus der Korrespondenz" - jedes Element, das die Abschrift trägt. Prusimskis Briefe vom 18. September und 3. Oktober 1797 hatten Kościuszko in Amerika erreicht. Hält die Identifizierung stand, bewahrt die Abschrift die eine Seite des Austauschs, die nichts Gedrucktes trägt: die PSB wusste, dass die Antwort existierte, und zitiert nichts von ihr. Die Zuschreibung ist die vorläufige des Herausgebers und bleibt in der Prüfung; die Seite selbst schweigt. <!-- context -->
+Der Brief nennt seinen Adressaten nirgends: "Obywatelu!" - Bürger! - ist alles, was der Text bietet. Eine Identifizierung wurde mit Antoni Prusimski, dem insurgenten Starosten von Niszczewice, vorgeschlagen, über Pachońskis Artikel über ihn im Polnischen Biografischen Wörterbuch (PSB, 1982), dessen Quellenverzeichnis diese Handschrift nennt, "B. Ossol.: rkp. 2289/II", und dessen Beschreibung der höflichen Antwort des Naczelnik der Abschrift in der Gestalt entspricht - der beantwortete Brief aus Dresden vom August, das Bedauern, den Schreiber nur aus der Korrespondenz zu kennen. **Der Herausgeber hat die Verbindung vorläufig verworfen** (2026-11-01), **bis etwas sie begründet**. Was dagegen spricht, sie als gelesen zu nehmen:
+
+- der Verweis der gedruckten Quelle auf die Handschrift hängt an nichts - die Datei, die die Edition hält, trägt kein Fußnotenapparat, sodass nicht zu sehen ist, was Pachoński aus diesem Sammelband nahm und für welche Behauptung;
+- die zwei Wendungen, die der Artikel für den Austausch zitiert («Lud i Wolność to dwa filary…», «nie zna go osobiście»), erscheinen in der Abschrift in keiner der Wortstellungen - hätte er diese Abschrift zitiert, wäre eine Übereinstimmung zu erwarten;
+- nichts sonst in der Edition verbindet den Brief mit Prusimski: die Registerblätter des Sammelbands (0033-0034) sind nicht bis zur Namensebene gelesen, und der Brief selbst nennt niemanden.
+
+Was uns anders belehren würde: der Fußnotenapparat des gedruckten PSB-Bands (der Band ist digitalisiert), eine Bestandskarte des Ossolineums zu rkp. 2289/II, oder ein Name im eigenen Register des Sammelbands. Bis eine davon spricht, bleibt der Brief, was seine Seite zeigt: Kościuszkos Antwort an einen nicht genannten emigrierten Korrespondenten. <!-- context -->
 
 ### Die Sammlung um sie
 
@@ -16,4 +22,4 @@ Die dreißig Scans, die in der Sitzung des 1. November 2026 gelesen wurden (Blä
 
 ### Verwandte Bestände
 
-Die preußische Seite derselben Jahre steht in der Epoche des preußischen Besitzes des Guts: die Depeschen des Residenten aus Venedig, die Prusimskis Kummer und sein Zeugnis schlechter Gesundheit berichten, [[unit:ihagrrep7cnr1414]], und die Akten der Konfiskation in den Schenkungen Hohenlohe-Ingelfingens, [[unit:ihagrrep7cnr3570]] und [[unit:oe1bu14525]]. <!-- context -->
+Für die Jahre um den Brief steht die preußische Seite der Geschichte des Guts in der Epoche des preußischen Besitzes: die Depeschen des Residenten aus Venedig über den insurgenten Starosten Antoni Prusimski, [[unit:ihagrrep7cnr1414]], und die Akten der Konfiskation in den Schenkungen Hohenlohe-Ingelfingens, [[unit:ihagrrep7cnr3570]] und [[unit:oe1bu14525]]. Sie sind Nachbarn in der Zeit, keine Zeugen für den Adressaten. <!-- context -->

@@ -4062,3 +4062,30 @@ footer on every page. Changed, in both languages:
 - `merge_corpus`, `build_dataset`, `build_site_data`, `jekyll build` and
   `verify_site.py` pass: 631 documents, text verified character-exact,
   61,688 internal links resolve, 7 eras on the Eras page.
+
+## 2026-11-01: the Prusimski attribution of the ossol2289 letter ruled out for now
+
+- The editor's word: "rule out for now that the letter is not related to
+  Prusimski; until something tells us otherwise." The letter keeps its
+  place in the edition (holding `ossol2289`), but the addressee is
+  treated as not named everywhere: `correspondents.json` carries the
+  sender only with the ruling recorded as the recipient's basis; the
+  holding's page (about.md/about_de.md) has a new "The addressee"
+  section that lays out what was proposed, what stands against it and
+  what would reopen it; the summaries (both languages), the era `insurgency`'s
+  blurb, the unit.yml title/description and the Kościuszko person entry
+  (people.yml, people_bios.yml) all drop the "probably Prusimski" wording.
+- The grounds, checked in session: Pachoński's PSB entry cites the
+  manuscript in its general source list with no footnote apparatus in the
+  file the edition holds (so the citation is attached to no claim), and
+  the two phrases the entry quotes for the exchange («Lud i Wolność to dwa
+  filary…», «nie zna go osobiście») appear in the copy in neither
+  wording. Pachoński's 1973 Venice article (complete 31-note apparatus,
+  read in the literature) cites no Ossolineum manuscript and ends before
+  1798 - it contributes context only.
+- What would reopen the identification: the printed PSB volume's footnote
+  apparatus (t. 27, digitised), an Ossolineum inventory card for
+  rkp. 2289/II, or a name at the index level in the codex's own leaves
+  (0033-0034 unread to the name level; 0061 unread). Recorded in
+  NEEDS_CONFIRMATION and the holding's notes; the "10 Aug." / "13 VIII"
+  discrepancy stands on its own.
