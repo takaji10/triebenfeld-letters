@@ -129,6 +129,33 @@ so check them.
   "The cross-holding connections". Open: the editor's read of the new
   notes and the six flags (TODO, sections 59-60; NEEDS_CONFIRMATION).
 
+- **B. Ossol. rkp. 2289 II — the Przyłęcki copy collection** (slug
+  `ossol2289`, added 2026-11-01 on the branch `ossolineum2289`, **not
+  published**): the first holding from the Ossolineum, Wrocław, and the
+  first document of the new era `insurgency` (working name): the copy of
+  Kościuszko's letter of 3 September 1798, written in Paris, on page 145
+  of the collection "Listy, dokumenty i wiersze z lat 1697-1798" — a
+  reply to an unnamed émigré correspondent. **The link to Antoni
+  Prusimski once proposed through Pachoński's PSB entry is ruled out**
+  (the editor, 2026-11-01) **— the evidence exhausted in hand**; the
+  recipient metadata stays empty, and the grounds are recorded in
+  NEEDS_CONFIRMATION and the holding's notes (the PSB entry gives its
+  sources only as a list - there is no per-claim apparatus, and the file
+  the edition holds is the entire article; its quoted wording does not
+  appear in the copy; the codex's own index names no addressee; the
+  library's catalogue record describes the contents no further than its
+  title). Only new evidence (the original, a second copy, new
+  scholarship) could reopen it. The
+  transcription is the editor's corrected reading of Claude's
+  band-by-band first pass; the copyist's orthography stands. Translated
+  in session (no paid run), summaries claim-checked; intake is selective
+  — only scan 0062 is staged; the other 29 scans are read and logged in
+  `scratch/ossolineum2289/` (uncommitted), and leaf 0061 waits on a
+  re-read (the session's image delivery failed). Era, repository entry,
+  person entry Kościuszko, translation, summaries and the holding's page
+  all in; `verify_site.py` passes (631 documents). Read
+  `units/ossol2289/notes.md` first.
+
 - **The holding pages tightened** (branch `unit-pages-tightening`,
   2026-10-30, **not published**): the page heading is the translated title,
   the reference sits beside the archive name, the languages are one line of

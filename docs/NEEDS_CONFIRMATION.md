@@ -1572,9 +1572,128 @@ rulings on the pilot").
   the Bzura ruled out). The bibliography, index and errata are apparatus and
   are not cut into passages (see the work's `notes.md`).
 
+
 - **Dorow (1843), the memoir's cross-reference** (added 2026-11-01): the
   form of the numeral in the title leaf's "Siehe I. Theil Seite 19." - the
   spot sheet's one unanswered row (the Fraktur pass read "1r Theil", the
   deu pass "Ir Theil"; both point to a roman I, and the draft stands at
   "Siehe I. Theil Seite 19."). The literature's other eight doubtful
   readings were ruled on the sheet the same day (the work's `notes.md`).
+
+## The Ossolineum manuscript NBO 2289/II (sweep of 2026-11-01, branch
+`ossolineum2289`)
+
+Sweep of the 30 scans of "Listy, dokumenty i wiersze Stanisława
+Przyłęckiego" made 2026-11-01; the working file,
+`scratch/ossolineum2289/index_transcription.md`, is uncommitted by design
+— nothing about the manuscript enters the edition until the editor rules.
+The one finding that touches the edition:
+
+- **The Kościuszko letter of 3 IX 1798 (leaf 0062).** The leaf carries a
+  one-leaf letter signed "**T. Kościuszko**", dated "**Z P. d. 3 Września
+  98**" (P = Paryż), headed by the codex's hand "**List Tadeusza
+  Kościuszki**", answering an "Obywatelu"'s letter "z Drezna(?)" of 10
+  Aug. 1798, recalling earlier letters "które mię w Ameryce od Ciebie
+  doszły", regretting that events did not let him meet the writer in
+  London "poznać cię osobiście", and cautioning against premature steps
+  while happier events are awaited. The page itself names no addressee.
+  An identification with Antoni Prusimski through Pachoński's PSB entry
+  (`literature/pachonski1982`, whose sources list "B. Ossol.: rkp.
+  2289/II") was proposed, considered, and **ruled out by the editor
+  (2026-11-01), the evidence exhausted in hand** — see the later bullet
+  below for the grounds; only new evidence (the original, a second
+  copy, new scholarship) could reopen it. The letter was
+  nonetheless added to the edition as the holding `ossol2289` on
+  2026-11-01 (see that bullet).
+  - **"10 Aug." against PSB's "13 VIII".** The digit was re-read at 3x
+    and reads "10"; "13" is conceivable but not what the form shows
+    (crop `q_z10aug.png`). Either the copyist misdated, or PSB misdates,
+    or two letters stand behind the two dates. The editor's call;
+    nothing in the edition changes either way yet.
+  - **"w Ameryce" and "z Drezna"** are letterform-flagged readings
+    (crops `q_amece2.png`, `q_dreana2.png`), each corroborated by the
+    PSB context; kept flagged, offered to the editor as they stand.
+- **The codex's other open readings** (tracked in the working file, no
+  action asked): the 0055 corner date (must fall in Wawrzecki's tenure,
+  X–XI 1794), the 0054 signature "Kop≈eceński(?)", the 0056 poem's place
+  names, the 0058 addressee "Podkomorzy". The copyist's closing-note
+  name the editor confirms by hand, per the standing arrangement.
+- **The letter is in the edition; the link to Prusimski is ruled out for
+  now** (the editor, 2026-11-01: "rule out for now that the letter is not
+  related to Prusimski; until something tells us otherwise"). The copy of
+  the Kościuszko letter of 3 IX 1798 was added to the edition on 2026-11-01
+  as the holding `ossol2289` (B. Ossol. rkp. 2289 II, page 145 of the
+  codex, scan 0062), with the editor's own corrected transcription, an
+  English translation, summaries and the holding's page; the pipeline's
+  checks pass. The addressee is treated as not named: the recipient
+  metadata stays empty, and the prose (about.md, the summaries, the era
+  blurb, the Kościuszko entry) records the proposed-and-set-aside
+  identification rather than asserting it. Grounds for setting it aside:
+  the entry's citation of the manuscript stands in its general source
+  list, and that list is the whole of what the entry gives about any of
+  its sources (a PSB entry carries no per-claim footnote apparatus; the
+  file the edition holds is the entire article - the editor,
+  2026-11-01), and the two phrases the entry quotes for the exchange
+  appear in the copy in neither wording. The evidence is exhausted in
+  hand: the library's record for the codex is the catalogue entry the
+  editor shared (the joint catalogue of the Ossolineum and the region's
+  libraries), which describes the contents no further than its title,
+  and the codex's own index of letters (0033–0034) names no addressee
+  for it (the editor's reading). The identification is set aside not
+  pending a look but for lack of anything further to look at; only new
+  evidence - the original surfacing, a second copy elsewhere, or new
+  scholarship - could reopen it. Still open:
+  - **The "10 Aug." / "13 VIII" discrepancy** stands on its own, with or
+    without the attribution.
+  - **The copyist's closing-note name** the editor confirms by hand.
+  - **The remaining 29 scans** (0033–0061): read and logged in the sweep,
+    not brought into the edition; the missing continuation of the Patent of
+    25 lipca 1794 between leaves 0048 and 0054 may be worth requesting from
+    the Ossolineum. Leaf 0061 is unread (the session's image delivery
+    failed); its bands sit on disk pending a re-read.
+- The sweep continues (leaves 0039–0061 in the working order); further
+  finds will be appended under this section.
+
+### Appended after the full reads of 0035–0060 (2026-11-01)
+
+- **The full reads are done for every leaf but 0061, and there is no
+  Prusimski-circle hit anywhere in 0035–0060.** Read in full: Doc A
+  (0035–36, korpus-forming plea of "Filip Frankowski(?)" Major, filed
+  "Do generała Madalińskiego(?) r. 1794"), Doc B (0037–38, letter of
+  Aleksander Ziółkowski(?)/Zióbkowski(?)ᵘ, G. M.), Doc C (0039), Doc D
+  (0040–42, the "Specyfikacya" case-file, d. 19 lipca, Obozie pod
+  Mokotowem), Doc E (0043–48, the Zakrzewski protocol + the Patent's
+  opening), Docs H–I (0054–55, the Gutowski receipt and Wawrzecki
+  attestation), Doc J (0056, the 1792 wiersz), Doc K (0057, the 1796
+  bishop's letter) and Docs M–O (0058–0060, later letter-pieces). Every
+  name is kept flagged; none is in the circle (Mniewski, Dąbski,
+  Miączyński, Śmiłowice, Trąbczyn, Kolno + additions). The one
+  circle-adjacent item in the codex remains the Kościuszko letter of
+  3 IX 1798 (leaf 0062) above.
+- **The Patent of 25 lipca 1794 breaks off, and its continuation is
+  missing from the scan set.** It opens on 0048's lower half ("My
+  Tadeusz Kościuszko … Naywyższy Naczelnik…", recipient "[‑]wickim(?)/[‑]ickiem(?)"ᵘ)
+  and stops at the leaf's bottom; 0049–0053 are the person-name lists,
+  and 0054 opens the Gutowski receipt, not the Patent. **For the
+  editor**: the missing leaf/leaves may be worth requesting from the
+  Ossolineum, or the lacuna noted as it stands.
+- **Doc B's date corrected.** The "21 lipca" filed against the 0037–38
+  letter in the head pass is not on those leaves; the letter's own
+  dateline reads "d. 10(?) Julij 94, z Ostrołęki" [c place, l day].
+  21 lipca belongs to the Zakrzewski protocol (Doc E, 0045).
+- **The 0055 corner date is resolved** as far as the form allows: the
+  month token reads "‑br"ᵘ [c] at 8x (`q_le55_corner.png`) — a *-ber
+  month (wrzesień, październik or listopad), X–XI 1794, consistent with
+  Wawrzecki's tenure as Naczelnik. The day remains unread.
+- **Leaf 0061 is unread.** After the ~16 MB request-budget incident the
+  image delivery failed outright (even a known-good band and a small
+  diagnostic crop arrived empty); 0061's bands sit on disk pending a
+  re-read, and its head-pass reading stays provisional. The last open
+  pairing — whether 0060's letter-continuation runs to 0061 — waits on
+  it.
+- **The item map for 0054–0061 is restructured** in the working file:
+  the wiersz is complete on 0056; the bishop's letter begins on 0057
+  (the "List Jdm. Biskupa Kamaieńskiego … 2 lipca 1796" heading reads as
+  its filing-label at the 0058 top); 0058 is a further letter-piece
+  (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
+  continuation — the last three provisional until 0061 is read.

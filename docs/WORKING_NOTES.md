@@ -3014,6 +3014,7 @@ layout work:
   (`set_short_titles.py` set 24 once). After a build, list every page's
   `<title>`: no slug-like one, none over 70 characters.
 
+
 ## The Related column (2026-11-01)
 
 The literature's call-outs were reworked (LITERATURE_PLAN, section 32):
@@ -3085,3 +3086,38 @@ Lessons:
   walk the built pages, so a new kind of cross-reference that wants a
   both-sides check has its pattern right there — copy the block, not the
   idea.
+
+## Non-German text in the line-break resolver (2026-11-01)
+
+- **`resolve_linebreaks.py` decides on German evidence and cannot see
+  Polish.** With ossol2289 (a Polish letter) its DWDS check read every
+  Polish word as unattested and marked five of six wraps `split, review`;
+  the decisions were made by hand from the sense, each with its reason,
+  in `units/ossol2289/linebreak_decisions.csv`. The file is hand-editable
+  by design, so this is the intended path for a non-German holding - but
+  expect the resolver's defaults to be wrong for one, not right.
+- **The resolver's word-regex has no Ć/ć.** Its WORD class carries
+  ĄąĘęŁłŃńÓóŚśŹźŻż but not Ć ć, so a wrap whose halves end or begin in ć
+  loses the letter: the row for "nara|żać" came out with tail "ża" and
+  joined "naraża" until the row was corrected by hand to "żać"/"narażać".
+  Check any row touching ć against the corpus text before trusting it.
+- **The full-build order for a new unit, on this machine:** per-unit
+  steps (resolve_linebreaks, resolve_paragraphs, build_db, match_scans),
+  then `merge_corpus.py`, `build_dataset.py`, `build_site_data.py`,
+  `make_thumbs.py` (the card thumbnail the verifier checks for - a
+  missing one is a broken-link failure, not a warning), the translations'
+  publish, then `jekyll build` and `verify_site.py`.
+  `pipeline/regenerate.py --unit` and `--site` wrap these, but the
+  pipeline self-check (`check_pipeline.py`) currently fails
+  project-wide on pre-existing debt (23 problems in checked-in files,
+  identical on main before any of this session's work) and stops the
+  wrapper; running the underlying steps directly is the working path
+  until that debt is cleared.
+- **Image delivery can fail outright after a request-budget error**
+  (2026-11-01, the Ossolineum sweep): every later read returned "Image
+  read successfully" with no image content - a known-good band re-read
+  and a small diagnostic crop included, files on disk intact. Not a size
+  issue; an endpoint-side failure. Rule: stop reading images, do not
+  narrate from undelivered calls, verify with one small diagnostic crop,
+  and move to text-only work until delivery recovers. Leaf 0061 of the
+  Ossolineum set is parked on exactly these terms.

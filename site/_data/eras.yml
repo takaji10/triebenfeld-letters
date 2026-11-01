@@ -25,8 +25,20 @@
   blurb_de: "Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das andere begann. Dreiundzwanzig Bestände liegen vor: gerichtliche Anordnungen und Urteile seit 1589, das Dekret der Kommission von 1775, die Einträge der Gerichtsregister von Konin und Kalisch, die dem Streit von 1754 bis 1788 folgen, ein Botenbericht von 1727 über eine in Szetlew zugestellte Ladung, das Dekret von 1782, mit dem das Krontribunal die Grenze festlegte, ein Zeitungsbericht von 1754 über das Begräbnis Paweł Prusimskis; und aus den letzten Jahren vor der Teilung ein Register der Rauchfangsteuer von 1789, die Visitation der Pfarrei Trąbczyn von 1791 und die Tabelle der Rauchfangstände und Abgaben der Pfarrei auf einer Seite des Pyzdryner Gerichtsregisters von 1791 bis 1792."
   ownership_en: "The Prusimski family, who held Trąbczyn, against the Chełmski family of Łukom next door. c. 1589 to 1788"
   ownership_de: "Die Familie Prusimski, der Trąbczyn gehörte, gegen die Familie Chełmski im benachbarten Łukom. ca. 1589 bis 1788"
-- slug: "hohenlohe"
+- slug: "insurgency"
   order: 2
+  status: "populated"
+  count: 1
+  first: "1798"
+  last: "1798"
+  label_en: "The insurgency and the emigration"
+  label_de: "Der Aufstand und die Emigration"
+  blurb_en: "The papers of the uprising of 1794 and of the years abroad that followed it, so far in one holding: the manuscript collection of copies \"Listy, dokumenty i wiersze z lat 1697-1798\" made mostly by Stanisław Przyłęcki (B. Ossol. rkp. 2289 II), into which the one document transcribed so far falls - Kościuszko's reply of 3 September 1798, written from Paris, to an émigré correspondent who had written to him from Dresden in August; the copy does not name the addressee. The Prussian files of the same years - the confiscation of 1796, the resident's dispatches from Venice - stand in the era of the estate's Prussian years, whose story they are."
+  blurb_de: "Die Papiere des Aufstandes von 1794 und der Jahre im Ausland, die folgten, bisher in einem Bestand: der Sammelband von Abschriften \"Listy, dokumenty i wiersze z lat 1697-1798\", überwiegend von Stanisław Przyłęcki geschrieben (B. Ossol. rkp. 2289 II), in den das bislang einzige transkribierte Dokument fällt - Kościuszkos Antwort vom 3. September 1798 aus Paris an einen emigrierten Korrespondenten, der ihm im August aus Dresden geschrieben hatte; die Abschrift nennt den Adressaten nicht. Die preußischen Akten derselben Jahre - die Konfiskation von 1796, die Depeschen des Residenten aus Venedig - stehen in der Epoche der preußischen Jahre des Gutes, deren Geschichte sie sind."
+  ownership_en: "Antoni Prusimski, Starost of Niszczewice, the last Polish owner: the uprising of 1794, the confiscation of his estates, and the years abroad that ended in the family's recovery of them. 1794 to 1798"
+  ownership_de: "Antoni Prusimski, Starost von Niszczewice, der letzte polnische Besitzer: der Aufstand von 1794, die Einziehung seiner Güter und die Jahre im Ausland, die in der Rückgabe der Güter endeten. 1794 bis 1798"
+- slug: "hohenlohe"
+  order: 3
   status: "populated"
   count: 474
   first: "1794"
@@ -38,7 +50,7 @@
   ownership_en: "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, a Prussian general given the estate by the King. 1796 to 1807"
   ownership_de: "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, ein preußischer General, dem der König das Gut schenkte. 1796 bis 1807"
 - slug: "restitution"
-  order: 3
+  order: 4
   status: "populated"
   count: 2
   first: "1820"
@@ -50,7 +62,7 @@
   ownership_en: "Michalina Prusimska, married name Dąbska and later Miączyńska, the daughter of the last Polish owner. 1807 onward"
   ownership_de: "Michalina Prusimska, verheiratet Dąbska, später Miączyńska, die Tochter des letzten polnischen Besitzers. ab 1807"
 - slug: "wlodzimierz"
-  order: 4
+  order: 5
   status: "populated"
   count: 14
   first: "1858"
@@ -62,7 +74,7 @@
   ownership_en: "Count Włodzimierz Miączyński, Michalina's son, from her death in 1851 to his own in 1879; then his nephew Władysław Miączyński, and by 1892 Countess Maria Wielopolska. 1851 to 1901"
   ownership_de: "Graf Włodzimierz Miączyński, Michalinas Sohn, von ihrem Tod 1851 bis zu seinem eigenen 1879; dann sein Neffe Władysław Miączyński und spätestens 1892 Gräfin Maria Wielopolska. 1851 bis 1901"
 - slug: "twentieth-century"
-  order: 5
+  order: 6
   status: "populated"
   count: 15
   first: "1935"

@@ -1350,6 +1350,160 @@ person:
     - key: '155'
       en: p. 155
       de: S. 155
+  kosciuszko:
+  - work: breyer1935mutterland
+    cite: Breyer (1935b)
+    pages:
+    - key: '13'
+      en: p. 13
+      de: S. 13
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: '23'
+      en: p. 23
+      de: S. 23
+    - key: '24'
+      en: p. 24
+      de: S. 24
+    - key: '25'
+      en: p. 25
+      de: S. 25
+    - key: '29'
+      en: p. 29
+      de: S. 29
+    - key: '31'
+      en: p. 31
+      de: S. 31
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '33'
+      en: p. 33
+      de: S. 33
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '36'
+      en: p. 36
+      de: S. 36
+    - key: '37'
+      en: p. 37
+      de: S. 37
+    - key: '38'
+      en: p. 38
+      de: S. 38
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '44'
+      en: p. 44
+      de: S. 44
+    - key: '51'
+      en: p. 51
+      de: S. 51
+    - key: '53'
+      en: p. 53
+      de: S. 53
+    - key: '58'
+      en: p. 58
+      de: S. 58
+    - key: '59'
+      en: p. 59
+      de: S. 59
+    - key: '64'
+      en: p. 64
+      de: S. 64
+    - key: '65'
+      en: p. 65
+      de: S. 65
+    - key: '67'
+      en: p. 67
+      de: S. 67
+    - key: '68'
+      en: p. 68
+      de: S. 68
+    - key: '70'
+      en: p. 70
+      de: S. 70
+    - key: '74'
+      en: p. 74
+      de: S. 74
+    - key: '84'
+      en: p. 84
+      de: S. 84
+    - key: '96'
+      en: p. 96
+      de: S. 96
+    - key: '104'
+      en: p. 104
+      de: S. 104
+    - key: '108'
+      en: p. 108
+      de: S. 108
+    - key: '109'
+      en: p. 109
+      de: S. 109
+    - key: '137'
+      en: p. 137
+      de: S. 137
+    - key: '138'
+      en: p. 138
+      de: S. 138
+    - key: notes
+      en: Notes
+      de: Anmerkungen
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '142'
+      en: p. 142
+      de: S. 142
+  - work: pachonski1973
+    cite: Pachoński (1973)
+    pages:
+    - key: '237'
+      en: p. 237
+      de: S. 237
+    - key: '239'
+      en: p. 239
+      de: S. 239
+    - key: '253'
+      en: p. 253
+      de: S. 253
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '583'
+      en: p. 583
+      de: S. 583
+    - key: '584'
+      en: p. 584
+      de: S. 584
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '48'
+      en: p. 48
+      de: S. 48
+  - work: frost2007
+    cite: Frost (2007)
+    pages:
+    - key: '303'
+      en: p. 303
+      de: S. 303
   larisch:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)

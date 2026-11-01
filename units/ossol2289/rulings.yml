@@ -1,0 +1,42 @@
+# Editorial rulings for B. Ossol. rkp. 2289 II.
+#
+# One document so far: the copy of Kościuszko's letter of 3 September 1798,
+# on manuscript page 145 of the codex (scan 0062 of the set of thirty).
+# The holding was added 2026-11-01; the rest of the sweep is logged in
+# scratch/ossolineum2289/ and waits on the editor's rulings.
+
+places:
+  # Place of writing: the dateline reads "z P[aryża]" - the superscript
+  # expansion is the editor's. Kościuszko was in Paris from June 1798 (PSB).
+  # The override names the place as the manuscript's Polish has it; Paris is
+  # not a place of the edition's registers, so the name shows as read.
+  overrides:
+    "1": Paryż
+
+dates:
+  # Read off the document's own dateline, "z P[aryża]. d. 3 Września 98".
+  # The day and month are the copyist's; the "98" is 1798, the year the
+  # corner note also gives ("1798. 3 Wreznia.").
+  read:
+    "1": [1798, 9, 3, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  doc_type: {}       # default: letter
+  language:
+    "1": pl
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT: none. The letter is Kościuszko's
+  # answer to an émigré correspondent - probably Antoni Prusimski (see
+  # the summary and the holding's notes) - and names no estate.
+  estates: {}
+
+damage:
+  letters: []
