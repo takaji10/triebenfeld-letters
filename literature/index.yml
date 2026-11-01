@@ -145,6 +145,10 @@ people:
     Konstantin: yes
   danckelmann:
     Danckelmann: "no: the Silesian justice minister, signing at Breslau in 1795 (Held p. 109) and as a minister (p. 134), not the vice-president at Poznań in the edition"
+    # Muszyńska-Zygmańska (1947): the Silesian minister of justice Danckelmann,
+    # the King's commissioner at the takeover of 1793, not the edition's
+    # vice-president at Poznań.
+    Danckelmanna: "no: the Silesian minister of justice Danckelmann, the King's commissioner at the takeover of 1793 (Muszyńska-Zygmańska 1947, p. 18), not the edition's vice-president at Poznań"
   dabrowski:
     Dąbrowski: "no: General Jan Henryk Dąbrowski and his son (Pachoński 1973), not the lessee Dąbrowski of Oe 1 Bü 9454"
   dolffs: {Dolffs: yes}
@@ -291,6 +295,12 @@ people:
   kwilecki:
     Kwileck: "no: Count Kwilecki of Dobrojewo in the 1790s; not shown to be the justice of the peace at Konin of 1810"
   larisch: {Larisch: yes}
+  lichnowski:
+    # Muszyńska-Zygmańska (1947): the Prussian general and the infantry
+    # regiment named for him in 1794 (pp. 34-35, 89, 130), not the edition's
+    # Lichnowski brothers, creditors against the estates.
+    Lichnowski: "no: the Prussian general/regiment owner of 1794 (Muszyńska-Zygmańska 1947), not the edition's Lichnowski creditors"
+    Lichnowskiego: "no: the Prussian general/regiment owner of 1794 (Muszyńska-Zygmańska 1947), not the edition's Lichnowski creditors"
   lipski:
     Lipski: "no: the prelate K. Lipski, lord of Chocz in 1790 (Breyer 1935, Chodyła 2015); not the appeal judge von Lipski at Kalisz in the edition's letters"
   luka:
@@ -311,6 +321,10 @@ people:
     # the database's kinship furniture; not the president of the
     # Commission.
     Małachowski: "no: the Małachowski of the line markers of Maria née Słubicka's descent (Antoni, Jacek and Stanisław), not the president Stanisław Małachowski"
+    # Muszyńska-Zygmańska (1947): the Grand Chancellor of the Crown Jacek
+    # Małachowski, to whom the Prussian envoy handed the declaration of
+    # 16 January 1793 (p. 10); not the President Stanisław.
+    Małachowskiemu: "no: Jacek Małachowski, Grand Chancellor of the Crown, in 1793 (Muszyńska-Zygmańska 1947, p. 10), not the President Stanisław"
   massow:
     Massow: "no: the forest master von Massow (Guradze) and a signatory of 1800 (Held); not the edition's Massow"
   miaczynski:
@@ -354,6 +368,11 @@ people:
     # Rostworowski (1918), p. 303: the same decree of 5 June 1807, which the
     # Commission at Dresden "extends" to Dąmbska, Niemojewski and Wichrowski.
     Niemojewskiego: yes
+    # Muszyńska-Zygmańska (1947): Józef Niemojewski, the Greater Poland
+    # insurgent general of 1794 and the edition's General Niemojewski,
+    # restored in 1807 to an estate Prussia had confiscated.
+    Niemojewski: yes
+    Niemojewskim: yes
   noldichen:
     # Claude's identification, accepted by the editor (2026-10-19)
     Nöldichen: yes
@@ -361,6 +380,11 @@ people:
     Ogrodowicz: "no: Karol Ogrodowicz, president of the town council of Pyzdry in 1778 (Chodyła 2015); not shown to be the clerk Ogrodowicz under the justiciary Schenck about 1805 (Oe 1 Bü 14526)"
   otto:
     Otto: "no: Otto Busse, a farm-holder at Święcia in Breyer's list of 1928; not the Otto of the edition's letters"
+  pirch:
+    # Muszyńska-Zygmańska (1947): Colonel Pirch, commandant of Grudziądz in
+    # 1794 (p. 87), and the colonel of the Stettin garrison in the notes; not
+    # the edition's Major von Pirch at Königsberg in 1809.
+    Pirch: "no: Colonel Pirch, commandant of Grudziądz in 1794 (Muszyńska-Zygmańska 1947), not the edition's Major von Pirch of 1809"
   poniatowski:
     Poniatowski: "no: Stanisław Poniatowski among landlords who freed their peasants (Guradze), not Prince Józef"
     Poniatowskiego:
@@ -517,7 +541,10 @@ people:
     # secretary of state, the Sobolewski of the edition's reply of 1820, sat
     # at Warsaw. Claude's identification, not yet accepted by the editor
     # (docs/NEEDS_CONFIRMATION.md).
-    Sobolewski: yes
+    Sobolewski:
+      default: yes
+      except:
+        muszynska1947/20: "the Poznań syndic and town councillor of 1792 (Muszyńska-Zygmańska 1947), not Count Sobolewski the minister of 1820"
   stoessel:
     # Claude's identification, accepted by the editor (2026-10-19)
     Stössel: yes
@@ -546,6 +573,10 @@ people:
       default: yes
       except:
         materialien1861/226: "Christian Daniel Voss, editor of Die Zeiten, not the minister"
+        # Muszyńska-Zygmańska (1947): Lieutenant Voss of Hundt's staff at
+        # Fordon in October 1794, not the minister.
+        muszynska1947/92: "Lieutenant Voss of Hundt's staff at Fordon in 1794 (Muszyńska-Zygmańska 1947), not the minister"
+        muszynska1947/93: "Lieutenant Voss of Hundt's staff at Fordon in 1794 (Muszyńska-Zygmańska 1947), not the minister"
   wartensleben:
     # Claude's identification, accepted by the editor (2026-10-19)
     Wartensleben: yes
@@ -769,6 +800,9 @@ places:
     # (Königsberger) Gesangbuches" - the Königsberg hymn-book named after
     # the pietist Georg Friedrich Rogall, not the place.
     Rogaler: "no: the Rogall hymn-book of Königsberg, not the place"
+    # Muszyńska-Zygmańska (1947): Hipolit Rogaliński, the Greater Poland
+    # citizen and plenipotentiary of 1794, a surname; not the settlement.
+    Rogaliński: "no: Hipolit Rogaliński, the Greater Poland citizen and plenipotentiary of 1794 (Muszyńska-Zygmańska 1947), a surname, not the settlement"
   rzgow:
     # Added as a place 2026-10-21 (editor). Every hit read: the village of the
     # Ląd privilege of 1261 ("Rzgowo cum sanctuariis", Breyer 1938), the
@@ -788,8 +822,26 @@ places:
   kamionno:
     Kamionna: yes
     Kamionnej: yes
-    Kamionnie: yes
-    Kamionny: yes
+    Kamionnie:
+      default: yes
+      except:
+        muszynska1947/68: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+        muszynska1947/notes: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+    Kamionny:
+      default: yes
+      except:
+        muszynska1947/71: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+        muszynska1947/73: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+        muszynska1947/75: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+        muszynska1947/97: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+        muszynska1947/113: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+        muszynska1947/114: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+        muszynska1947/117: "Kamionna on the Bzura (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+    # Muszyńska-Zygmańska (1947): Kamionna on the Bzura, the crossing of
+    # 13 September 1794 (pp. 67, 72, 75, 114, 117), not the edition's estate
+    # of Kamionna/Kaemen by Trąbczyn.
+    Kamionną: "no: Kamionna on the Bzura, the crossing of 1794 (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
+    Kamionnę: "no: Kamionna on the Bzura, the crossing of 1794 (Muszyńska-Zygmańska 1947), not the edition's estate Kamionna/Kaemen"
   kirchberg:
     # Kraus (2001) pp. 35, 37: the seat of the Hohenlohe-Kirchberg line (the
     # lines of Ingelfingen and Kirchberg formed in 1701; Adelaide married
@@ -871,6 +923,10 @@ places:
     Swięcia: yes
     Święcia: yes
     Swięciec: "no: an island of that name in the Warta marsh (Breyer 1938)"
+    # Muszyńska-Zygmańska (1947): the town Świecie on the Vistula (Schwetz),
+    # the retreat of 1794 and Wybicki's administration there, not the
+    # edition's estate Święcia.
+    Świecia: "no: the town Świecie on the Vistula (Schwetz) in 1794 (Muszyńska-Zygmańska 1947), not the edition's estate Święcia"
   slupca:
     # Encyclopedia of Camps and Ghettos (2012): the Jews of Słupca sent to the
     # Rzgów ghetto in July 1940; the town.
@@ -963,6 +1019,8 @@ places:
   berlin:
     Berl: "no: the Berlin bushel, a measure"
     Berlin: yes
+    # Muszyńska-Zygmańska (1947): the city.
+    Berlinem: yes
     Berliner:
       default: yes
       except:
@@ -995,6 +1053,9 @@ places:
       default: "no: a name in Breyer's lists of the region's places; not shown to be the Białobrzeg by Wrąbczynek"
       except:
         breyer1938/47: "the village beside Wrąbczyn Holl. in Breyer's table: the edition's Biala Brzig bey Wrąbczynek"
+    # Muszyńska-Zygmańska (1947): "pod Białobrzegami" in the retreat of 1794
+    # (p. 124); not shown to be the edition's village by Wrąbczynek.
+    Białobrzegami: "no: a place in the retreat of 1794 (Muszyńska-Zygmańska 1947, p. 124), not shown to be the edition's Białobrzeg by Wrąbczynek"
   boehmen: {Böhmen: yes}
   breslau:
     Breslau: yes
@@ -1042,7 +1103,7 @@ places:
   cosel: {Cosel: yes}
   crossen: {Crossen: yes}
   czestochowa: {Czenstochau: yes}
-  dolsk: {Dolzig: yes}
+  dolsk: {Dolzig: yes, Dolskiem: yes}
   dresden:
     Dresde: yes
     Dresden: yes
@@ -1084,6 +1145,12 @@ places:
   italien: {Italien: yes}
   jena: {Jena: yes}
   kalisz:
+    # Muszyńska-Zygmańska (1947): the city.
+    Kaliszem: True
+    Kaliszowi: True
+    # The surname of Piotr Kaliszowski, chamberlain of the Gniezno
+    # commission (p. 48), not the city.
+    Kaliszowski: "no: Piotr Kaliszowski, chamberlain of the Gniezno commission (Muszyńska-Zygmańska 1947, p. 48), not the city"
     Kalisch: yes
     Kalischen: yes
     Kalischer: yes
@@ -1144,6 +1211,10 @@ places:
     Łukomskich: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
     Łukomskie: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
     Łukomskimi: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
+    # Muszyńska-Zygmańska (1947): Ksawery Łukomski, the partisan of 1794,
+    # a surname; not the settlement.
+    Łukomski: "no: Ksawery Łukomski, the partisan of 1794 (Muszyńska-Zygmańska 1947), a surname, not the settlement"
+    Łukomskiego: "no: Ksawery Łukomski, the partisan of 1794 (Muszyńska-Zygmańska 1947), a surname, not the settlement"
   lukomia:
     Łukomia: yes
     # Boniecki (1900): "części Łukomi", "nabywca Łukomi", "właściciela Łukomi",
@@ -1154,7 +1225,11 @@ places:
     Mariantów: yes
   mecklenburg: {Mecklenburg: yes}
   memel: {Memel: yes}
-  miedzyrzecz: {Meseritz: yes, Meseritzer: yes, Międzyrzecz: yes}
+  miedzyrzecz: {Meseritz: yes, Meseritzer: yes, Międzyrzecz: yes, Międzyrzecza: yes}
+  myslowice:
+    # Muszyńska-Zygmańska (1947): the town in Silesia, the Prussian battalion
+    # sent there from Namysłów in 1794 (p. 27).
+    Mysłowic: yes
   naumburg: {Naumburg: yes}
   neuchatel: {Neufchatel: yes}
   neusalz: {Neusalz: yes}
@@ -1162,11 +1237,18 @@ places:
     Neustadt: "no: Neustadt an der Dosse in Brandenburg (the mirror works); not shown to be the edition's Neustadt"
   olesnica:
     Oleśnica: yes
+    # Muszyńska-Zygmańska (1947): the Silesian town Oleśnica (Oels), the
+    # cavalry moved from there and the town in the list of Silesian border
+    # places (pp. 28, 101), not the edition's village Oleszyno/Oleśnica by
+    # Trąbczyn.
+    Oleśnicy: "no: the Silesian town Oleśnica (Oels) in 1794 (Muszyńska-Zygmańska 1947), not the edition's village Oleszyno/Oleśnica by Trąbczyn"
+    Oleśnicę: "no: the Silesian town Oleśnica (Oels) in 1794 (Muszyńska-Zygmańska 1947), not the edition's village Oleszyno/Oleśnica by Trąbczyn"
   oppeln:
     Oppeln:
       default: yes
       except:
         chodyla2015/34: "Adam Oppeln Bronikowski, owner of Żychlin: a family name, not the town"
+        muszynska1947/17: "Oppeln Bronikowski, president of the Piotrków Chamber: a family name, not the town"
   osiny:
     # Chodyła (2015): Osiny, a village of the Trąbczyn estate (the inspection of 1754).
     Osin: yes
@@ -1197,7 +1279,13 @@ places:
         werner1904/front: "the title page: the province and the Consistory's province, and the reviser's church, not the town"
         werner1904/422: "the heading's Diözese Posen I., the church district of the evangelical church province, not the town"
   potsdam: {Potsdam: yes, Potsdammer: yes, Potsdamscher: yes}
-  prag: {Prag: yes}
+  prag:
+    # Muszyńska-Zygmańska (1947): Praga, the suburb of Warsaw stormed by
+    # Suvorov on 4 November 1794 (p. 123), not Prague.
+    Prag:
+      default: yes
+      except:
+        muszynska1947/123: "Praga, the suburb of Warsaw stormed in 1794 (Muszyńska-Zygmańska 1947), not Prague"
   pressburg: {Preßburg: yes}
   pyzdry:
     Peisern: yes
@@ -1239,7 +1327,7 @@ places:
     Sokolnik: "no: a village of the parish of Wreschen near Września; not the edition's Amt Sokolnik by Wieruszów"
   sommerfeld:
     Sommerfeld: "no: the surname of settlers in Breyer's tables"
-  st-petersburg: {Petersbourg: yes, Petersburg: yes, Petersburger: yes}
+  st-petersburg: {Petersbourg: yes, Petersburg: yes, Petersburger: yes, Petersburgu: yes}
   stettin: {Stettin: yes}
   suedpreussen: {Süd-Preussen: yes, Süd-Preußen: yes, Südpreussen: yes, Südpreußen: yes}
   swiatniki:
@@ -1270,17 +1358,21 @@ places:
     # the footnote marker printed hard against the word - the Reformed
     # congregation of Warsaw.
     Warschau6: yes
-    Warschauer: yes
+    Warschauer:
+      default: yes
+      except:
+        muszynska1947/notes: "A. Warschauer, the historian of Gnesen and Mogilno, cited in the notes; not the city"
     Warschauische: yes
     Warschauischen: yes
     Warszawie: yes
     Warszawę: yes
     Warszawy: yes
+    Warszawą: yes
     Warszawa:
       default: "no: a place of publication in the bibliographies and notes (Mączak 1968, Szwiec 2009)"
       except:
         wasicki1953/161: "the domain office of Warsaw in the table of colonies"
-  wartenberg: {Wartenberg: yes}
+  wartenberg: {Wartenberg: yes, Wartenbergu: yes}
   weimar: {Weimar: yes}
   wielun:
     Vielun: yes

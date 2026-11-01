@@ -1,8 +1,3 @@
----
-title: "Greater Poland in the Kościuszko Insurrection"
-author: Janina Muszyńska-Zygmańska
-imprint: Published by the Main Kościuszko Committee in Kraków, Poznań 1947
----
 
 <!-- p.[title page] -->
 GREATER POLAND
@@ -34,8 +29,6 @@ WESTERN LANDS BOOKSHOP
 - Chapter III. THE SPREAD OF THE INSURRECTION INTO GREATER POLAND — THE INSURGENTS' ARMED MOVEMENTS AND DĄBROWSKI'S EXPEDITION TO GREATER POLAND — 40
 - Chapter IV. THE FALL OF THE INSURRECTION — DĄBROWSKI'S RETREAT AND THE LAST ARMED EFFORTS OF THE GREATER POLES — 108
 - Chapter V. AFTER THE FALL OF THE INSURRECTION — 136
-
-![Tadeusz Kościuszko](../2026-10-28-0005_2R.jpg)
 
 *Tadeusz Kościuszko. Stipple engraving of 1794 (Kraków — National Museum)*
 
@@ -336,8 +329,6 @@ Yet it was not then that the "revolt" flared up in Greater Poland; garrisons of 
 The events after the defeat at Szczekociny were not favourable to the insurgents. General Zajączek suffered defeat on 8 June at Chełm [Cholm], inflicted on him by the Russian general Derfelden. A week later came the capitulation of Kraków [Krakau]. The commandant of the city, Colonel Wieniawski, without having exhausted the means of defence, surrendered the city to the Prussians, and thereby Kościuszko's design collapsed, which was to hand Kraków over in deposit to the Austrians, whom he regarded as the best of the three partitioning powers[^99]. The unfortunate capitulation soon had its epilogue in the events in Warsaw. The people, stirred up on this account, carried out a lynching of the Targowica confederates. A further series of reverses was the unsuccessful expedition of Major Liberadzki to Volhynia[^100].
 
 Attempts to enter the Prussian annexation and the Prussians' possessions likewise went badly[^101]. Numerous efforts in this direction were directed northward. It was intended to break through the cordon of Prussian troops on the Narew, where from 25 June skirmishes with the Prussians occurred continually. The prospects of success were offered by the circumstance that the commander of the Prussian troops, Gen. Schönfeldt, did not have enough forces to secure well
-
-![Jan Henryk Dąbrowski. Ze zbiorów winnogórskich](../2026-10-28-0023_2R.jpg)
 
 *Jan Henryk Dąbrowski. From the Winna Góra collections*
 
@@ -845,8 +836,6 @@ And indeed the enemy was vigilant. On 13 October old Schwerin learned of the def
 
 To this end he made the following dispositions. From Rawa he moved a magazine to Piotrków, and from there in turn he ordered the siege artillery to be transported to Silesia, so as to be able to act freely and not to scatter his forces among numerous garrisons. Beyond the little river Rawka he dispatched 3 battalions and 5 squadrons with guns, from where, in case of need, they were to be directed to Łowicz or Piotrków. Now, having
 
-![Antoni Madaliński. Z miniatury w Muzeum XX. Czartoryskich](../2026-10-28-0060_2R.jpg)
-
 *Antoni Madaliński. From a miniature in the Princes Czartoryski Museum*
 
 [113] <!-- p.113 -->
@@ -972,8 +961,6 @@ Numerous mentions of the armed movement of the Greater Poles in November and Dec
 In Kuyavia at that time Ksawery Dąbrowski held out at the head of 500 insurgents. On 6 November he was selling off in Włocławek a large stock of salt taken from the Prussian magazines, but Colonel Hinrichs, arriving unexpectedly, soon took the salt back, thinned out his detachment and drove it from the town. Of the other insurgent commanders, Colonel Sokołowski stood for some time near Brześć Kujawski with a force of about 1,200 men. Near Dobiegniew, opposite Dobrzyń, was Colonel Wolski with 300 armed men[^405].
 
 Driven by Hinrichs from the Vistula districts, the Kuyavian insurgents withdrew to the west, towards Radziejów and Piotrków Kujawski, in order to undertake guerrilla expeditions from there even in the second half of December. Hidden in the dense forests and marshes of that region and making use of byways, they became elusive, and establishing their numbers was not easy. The Kruszwica [Kruschwitz] domain (Amt) estimated these Kuyavian insurgents at several thousand. Their smaller detachments reached as far as Kruszwica, collecting food and forage from the neighbouring villages. News also arrived of a so-called "Kuyavian
-
-![Fryderyk Adam Székely. Wierzbiczany](../2026-10-28-0069_2R.jpg)
 
 *Fryderyk Adam Székely. Wierzbiczany*
 
