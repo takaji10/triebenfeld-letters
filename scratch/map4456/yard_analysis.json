@@ -1,0 +1,4142 @@
+{
+ "groups": [
+  {
+   "farm": 1,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 162,
+     "vals": [
+      162
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 162",
+     "farm": 1,
+     "x": 9080,
+     "y": 4497
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 31 — resolved by position"
+   ]
+  },
+  {
+   "farm": 10,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 650,
+     "vals": [
+      650
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 650",
+     "farm": 10,
+     "x": 6004,
+     "y": 7284
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. 650",
+     "row": 43,
+     "name": "Kinast Mateush",
+     "dist": 9285,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 11,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 8640,
+     "vals": [
+      8640
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 8640",
+     "farm": 11,
+     "x": 5861,
+     "y": 6188
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. 8640",
+     "row": 11,
+     "name": "Grunvald Kristof",
+     "dist": 0,
+     "kind": "near-claim",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 13,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 594,
+     "vals": [
+      594
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 594",
+     "farm": 13,
+     "x": 5162,
+     "y": 5922
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 18 — resolved by position"
+   ]
+  },
+  {
+   "farm": 14,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 360,
+     "vals": [
+      360
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -360",
+     "farm": 14,
+     "x": 4140,
+     "y": 6429
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 17,51 — resolved by position"
+   ]
+  },
+  {
+   "farm": 15,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 288,
+     "vals": [
+      288
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -288",
+     "farm": 15,
+     "x": 4274,
+     "y": 7019
+    }
+   ],
+   "verdict": "sum-near",
+   "candidates": [],
+   "notes": [
+    "pieces 1. -288 sum to 288, the row's 297 (off 9)"
+   ]
+  },
+  {
+   "farm": 16,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 990,
+     "vals": [
+      990
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [9?][9?]0",
+     "farm": 16,
+     "x": 11450,
+     "y": 9060
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 17,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 150,
+     "vals": [
+      150
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [1?][5?]0",
+     "farm": 17,
+     "x": 4672,
+     "y": 6757
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 18,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 594,
+     "vals": [
+      594
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 594",
+     "farm": 18,
+     "x": 7484,
+     "y": 5538
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 13 — resolved by position"
+   ]
+  },
+  {
+   "farm": 19,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 276,
+     "vals": [
+      276
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "[1.?] -276",
+     "farm": 19,
+     "x": 5721,
+     "y": 7821
+    }
+   ],
+   "verdict": "confirmed-sum-weak",
+   "candidates": [],
+   "notes": [
+    "the matching subset includes an uncertain read"
+   ]
+  },
+  {
+   "farm": 2,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 558,
+     "vals": [
+      558
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 558",
+     "farm": 2,
+     "x": 9031,
+     "y": 5264
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 21,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 105,
+     "vals": [
+      105
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [1?]05",
+     "farm": 21,
+     "x": 7799,
+     "y": 9232
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 22,
+   "pieces": [
+    {
+     "lead": null,
+     "val": 514,
+     "vals": [
+      514
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "-5[1?]4",
+     "farm": 22,
+     "x": 8610,
+     "y": 9287
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 23,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 584,
+     "vals": [
+      584
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 584",
+     "farm": 23,
+     "x": 10912,
+     "y": 8668
+    },
+    {
+     "lead": null,
+     "val": null,
+     "vals": [],
+     "uncertain": true,
+     "neg": false,
+     "unread": true,
+     "raw": "[?]",
+     "farm": 23,
+     "x": 7077,
+     "y": 9896
+    },
+    {
+     "lead": null,
+     "val": 120,
+     "vals": [
+      120
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[?]. 120",
+     "farm": 23,
+     "x": 6333,
+     "y": 10971
+    }
+   ],
+   "verdict": "open-gap",
+   "candidates": [
+    {
+     "piece": "1. 584",
+     "row": 13,
+     "name": "Shteinbord Iulian",
+     "dist": 5859,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 584",
+     "row": 18,
+     "name": "Sanikovskii Osip",
+     "dist": 5883,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 584",
+     "row": 88,
+     "name": "German Voitsekh",
+     "dist": null,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": [
+    "the unread piece(s) ([?]) would carry the remaining 789 saz of the row's 1493"
+   ]
+  },
+  {
+   "farm": 24,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 136,
+     "vals": [
+      136
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 136",
+     "farm": 24,
+     "x": 6421,
+     "y": 8599
+    },
+    {
+     "lead": 4,
+     "val": 143,
+     "vals": [
+      143
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "4. -143",
+     "farm": 24,
+     "x": 6884,
+     "y": 8622
+    }
+   ],
+   "verdict": "sum-near",
+   "candidates": [],
+   "notes": [
+    "pieces 1. 136 + 4. -143 sum to 279, the row's 281 (off 2)"
+   ]
+  },
+  {
+   "farm": 26,
+   "pieces": [
+    {
+     "lead": null,
+     "val": 686,
+     "vals": [
+      686
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "686",
+     "farm": 26,
+     "x": 5362,
+     "y": 8532
+    },
+    {
+     "lead": 7,
+     "val": 195,
+     "vals": [
+      195
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "7. -195",
+     "farm": 26,
+     "x": 4322,
+     "y": 8342
+    },
+    {
+     "lead": 6,
+     "val": 193,
+     "vals": [
+      193
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[6?]. 193",
+     "farm": 26,
+     "x": 4527,
+     "y": 8255
+    },
+    {
+     "lead": null,
+     "val": 144,
+     "vals": [
+      144
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "144",
+     "farm": 26,
+     "x": 8518,
+     "y": 6015
+    }
+   ],
+   "verdict": "sum-near",
+   "candidates": [],
+   "notes": [
+    "pieces 686 + 7. -195 + [6?]. 193 + 144 sum to 1218, the row's 1223 (off 5)"
+   ]
+  },
+  {
+   "farm": 27,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": null,
+     "vals": [],
+     "uncertain": true,
+     "neg": false,
+     "unread": true,
+     "raw": "1. [?]",
+     "farm": 27,
+     "x": 5659,
+     "y": 10075
+    }
+   ],
+   "verdict": "unreadable",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 29,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 558,
+     "vals": [
+      558
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 558",
+     "farm": 29,
+     "x": 4152,
+     "y": 8832
+    },
+    {
+     "lead": 2,
+     "val": 60,
+     "vals": [
+      60
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "2. 60",
+     "farm": 29,
+     "x": 4106,
+     "y": 9209
+    }
+   ],
+   "verdict": "confirmed-sum",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 3,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 108,
+     "vals": [
+      108
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -108",
+     "farm": 3,
+     "x": 9891,
+     "y": 6109
+    },
+    {
+     "lead": 12,
+     "val": 396,
+     "vals": [
+      396
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "12. -396",
+     "farm": 3,
+     "x": 9358,
+     "y": 6775
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. -108",
+     "row": 41,
+     "name": "Shtirtsenbeker Karl",
+     "dist": 6396,
+     "kind": "exact"
+    },
+    {
+     "piece": "1. -108",
+     "row": 34,
+     "name": "Runge Martin",
+     "dist": 7920,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. -108",
+     "row": 84,
+     "name": "heirs of Shtirtsenbekera",
+     "dist": 9317,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "12. -396",
+     "row": 92,
+     "name": "Village school",
+     "dist": 2444,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 30,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 605,
+     "vals": [
+      605
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 605",
+     "farm": 30,
+     "x": 4445,
+     "y": 10028
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 31,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 162,
+     "vals": [
+      162
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 162",
+     "farm": 31,
+     "x": 5030,
+     "y": 10245
+    },
+    {
+     "lead": 1,
+     "val": 215,
+     "vals": [
+      215
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 2[1?]5",
+     "farm": 31,
+     "x": 13748,
+     "y": 7672
+    },
+    {
+     "lead": null,
+     "val": null,
+     "vals": [],
+     "uncertain": true,
+     "neg": false,
+     "unread": true,
+     "raw": "[?]",
+     "farm": 31,
+     "x": 13748,
+     "y": 7672
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 1 — resolved by position"
+   ]
+  },
+  {
+   "farm": 32,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 42,
+     "vals": [
+      42
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [4?]2",
+     "farm": 32,
+     "x": 5189,
+     "y": 10401
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 33,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 522,
+     "vals": [
+      522,
+      922
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [5/9?]22",
+     "farm": 33,
+     "x": 5176,
+     "y": 9146
+    }
+   ],
+   "verdict": "confirmed-sum-weak",
+   "candidates": [],
+   "notes": [
+    "the matching subset includes an uncertain read"
+   ]
+  },
+  {
+   "farm": 34,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 128,
+     "vals": [
+      128
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [1?]28",
+     "farm": 34,
+     "x": 5474,
+     "y": 9908
+    }
+   ],
+   "verdict": "confirmed-sum-weak",
+   "candidates": [],
+   "notes": [
+    "the matching subset includes an uncertain read"
+   ]
+  },
+  {
+   "farm": 35,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 155,
+     "vals": [
+      155
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [1?]55",
+     "farm": 35,
+     "x": 6584,
+     "y": 10925
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 36,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 429,
+     "vals": [
+      429
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 429",
+     "farm": 36,
+     "x": 7798,
+     "y": 9781
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 37,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 465,
+     "vals": [
+      465
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 465",
+     "farm": 37,
+     "x": 7977,
+     "y": 10337
+    },
+    {
+     "lead": 2,
+     "val": 96,
+     "vals": [
+      96
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "2. [9?][6?]",
+     "farm": 37,
+     "x": 8490,
+     "y": 10385
+    },
+    {
+     "lead": null,
+     "val": 61,
+     "vals": [
+      61
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[6?][1?]",
+     "farm": 37,
+     "x": 8479,
+     "y": 9935
+    }
+   ],
+   "verdict": "sum-near",
+   "candidates": [],
+   "notes": [
+    "pieces 1. 465 + 2. [9?][6?] + [6?][1?] sum to 622, the row's 624 (off 2)"
+   ]
+  },
+  {
+   "farm": 38,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 134,
+     "vals": [
+      134
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 134",
+     "farm": 38,
+     "x": 7144,
+     "y": 11214
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. 134",
+     "row": 9,
+     "name": "Sanikovskii Martin",
+     "dist": 5180,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 134",
+     "row": 16,
+     "name": "Merts Kristiian",
+     "dist": 2153,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 134",
+     "row": 27,
+     "name": "heirs of Runga Gotfrida",
+     "dist": 1710,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 39,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 270,
+     "vals": [
+      270
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -270",
+     "farm": 39,
+     "x": 7809,
+     "y": 11047
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. -270",
+     "row": 8,
+     "name": "Strzhizhikovskii Frants",
+     "dist": 5920,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. -270",
+     "row": 19,
+     "name": "Stirtsenbeker Kristiian",
+     "dist": 5080,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. -270",
+     "row": 63,
+     "name": "heirs of Kinasta Voitsekha",
+     "dist": 7522,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": "3[7?]",
+   "pieces": [
+    {
+     "lead": null,
+     "val": 238,
+     "vals": [
+      238
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "-238",
+     "farm": "3[7?]",
+     "x": 8950,
+     "y": 10219
+    }
+   ],
+   "verdict": "claim-uncertain",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 4,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 738,
+     "vals": [
+      738
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 738",
+     "farm": 4,
+     "x": 7682,
+     "y": 7308
+    },
+    {
+     "lead": 9,
+     "val": 323,
+     "vals": [
+      323,
+      328
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "9. -3[2?][8/3?]",
+     "farm": 4,
+     "x": 7682,
+     "y": 7308
+    }
+   ],
+   "verdict": "no-match",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 41,
+   "pieces": [
+    {
+     "lead": 2,
+     "val": 108,
+     "vals": [
+      108
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "2. -108",
+     "farm": 41,
+     "x": 9566,
+     "y": 12180
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 42,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 158,
+     "vals": [
+      158
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 1[5?]8",
+     "farm": 42,
+     "x": 9945,
+     "y": 12302
+    },
+    {
+     "lead": 1,
+     "val": 126,
+     "vals": [
+      126
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [1?]26",
+     "farm": 42,
+     "x": 9945,
+     "y": 12302
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 44,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 180,
+     "vals": [
+      180
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 18[0?]",
+     "farm": 44,
+     "x": 9510,
+     "y": 11466
+    },
+    {
+     "lead": 3,
+     "val": 258,
+     "vals": [
+      258
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "3. -2[5?]8",
+     "farm": 44,
+     "x": 10226,
+     "y": 11430
+    },
+    {
+     "lead": 5,
+     "val": 702,
+     "vals": [
+      702
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "5. 702",
+     "farm": 44,
+     "x": 11338,
+     "y": 11394
+    },
+    {
+     "lead": null,
+     "val": 159,
+     "vals": [
+      159
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[1?]5[9?]",
+     "farm": 44,
+     "x": 11338,
+     "y": 11394
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "5. 702",
+     "row": 32,
+     "name": "heirs of Rungi Voitsekha",
+     "dist": 2314,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "5. 702",
+     "row": 52,
+     "name": "Shmigelskii Samuil",
+     "dist": 2851,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "5. 702",
+     "row": 89,
+     "name": "heirs of Tarnovskago Mikhaila",
+     "dist": 2480,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 45,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 367,
+     "vals": [
+      367
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -3[6?][7?]",
+     "farm": 45,
+     "x": 11339,
+     "y": 10600
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 46,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 1242,
+     "vals": [
+      1242
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 1242",
+     "farm": 46,
+     "x": 10840,
+     "y": 9953
+    },
+    {
+     "lead": 1,
+     "val": 174,
+     "vals": [
+      174
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -174",
+     "farm": 46,
+     "x": 8914,
+     "y": 11059
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "extra confident pieces beyond the yard figure"
+   ]
+  },
+  {
+   "farm": 47,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 612,
+     "vals": [
+      612
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 612",
+     "farm": 47,
+     "x": 9837,
+     "y": 9998
+    },
+    {
+     "lead": 4,
+     "val": 414,
+     "vals": [
+      414
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "4. 414",
+     "farm": 47,
+     "x": 9837,
+     "y": 9998
+    }
+   ],
+   "verdict": "confirmed-sum",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 49,
+   "pieces": [
+    {
+     "lead": null,
+     "val": null,
+     "vals": [],
+     "uncertain": true,
+     "neg": false,
+     "unread": true,
+     "raw": "[?]",
+     "farm": 49,
+     "x": 10225,
+     "y": 7592
+    }
+   ],
+   "verdict": "unreadable",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 5,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 341,
+     "vals": [
+      341
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "1. [-341?]",
+     "farm": 5,
+     "x": 6619,
+     "y": 7829
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 50,
+   "pieces": [
+    {
+     "lead": 2,
+     "val": 1027,
+     "vals": [
+      1027
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[2?]. 1027",
+     "farm": 50,
+     "x": 9204,
+     "y": 7624
+    }
+   ],
+   "verdict": "sum-near",
+   "candidates": [],
+   "notes": [
+    "pieces [2?]. 1027 sum to 1027, the row's 1029 (off 2)"
+   ]
+  },
+  {
+   "farm": 51,
+   "pieces": [
+    {
+     "lead": null,
+     "val": 360,
+     "vals": [
+      360
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "360",
+     "farm": 51,
+     "x": 10588,
+     "y": 6773
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 14,17 — resolved by position"
+   ]
+  },
+  {
+   "farm": 52,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 188,
+     "vals": [
+      188
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 188",
+     "farm": 52,
+     "x": 11035,
+     "y": 6513
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. 188",
+     "row": 4,
+     "name": "Kholm Daniil",
+     "dist": 1600,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 188",
+     "row": 34,
+     "name": "Runge Martin",
+     "dist": 6594,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 188",
+     "row": 38,
+     "name": "Malinovskii Petr",
+     "dist": 2951,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 53,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 340,
+     "vals": [
+      340
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -340",
+     "farm": 53,
+     "x": 11656,
+     "y": 7016
+    },
+    {
+     "lead": 1,
+     "val": 965,
+     "vals": [
+      965
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[1?]. 9[6?]5",
+     "farm": 53,
+     "x": 14076,
+     "y": 12405
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. -340",
+     "row": 14,
+     "name": "Kholm Vilgelm",
+     "dist": 7786,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. -340",
+     "row": 17,
+     "name": "Merts Martin",
+     "dist": 7103,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. -340",
+     "row": 48,
+     "name": "Bandzert Morits",
+     "dist": 2104,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 54,
+   "pieces": [
+    {
+     "lead": null,
+     "val": 148,
+     "vals": [
+      148
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "14[8?]",
+     "farm": 54,
+     "x": 10417,
+     "y": 12482
+    },
+    {
+     "lead": 1,
+     "val": 342,
+     "vals": [
+      342
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 342",
+     "farm": 54,
+     "x": 12639,
+     "y": 11319
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 55,
+   "pieces": [
+    {
+     "lead": null,
+     "val": 368,
+     "vals": [
+      368
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "368",
+     "farm": 55,
+     "x": 12441,
+     "y": 12227
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 56,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 144,
+     "vals": [
+      144
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [1?]44",
+     "farm": 56,
+     "x": 13055,
+     "y": 12136
+    }
+   ],
+   "verdict": "confirmed-sum-weak",
+   "candidates": [],
+   "notes": [
+    "the matching subset includes an uncertain read"
+   ]
+  },
+  {
+   "farm": 57,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 219,
+     "vals": [
+      219
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [2?][1?]9",
+     "farm": 57,
+     "x": 13725,
+     "y": 12442
+    }
+   ],
+   "verdict": "sum-near",
+   "candidates": [],
+   "notes": [
+    "pieces 1. [2?][1?]9 sum to 219, the row's 216 (off 3)"
+   ]
+  },
+  {
+   "farm": 59,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 48,
+     "vals": [
+      48,
+      78
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -[4/7?][8][?]",
+     "farm": 59,
+     "x": 13917,
+     "y": 11122
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 6,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 414,
+     "vals": [
+      414
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 414",
+     "farm": 6,
+     "x": 7994,
+     "y": 6410
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 60,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 164,
+     "vals": [
+      164,
+      264
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. [2/1?]64",
+     "farm": 60,
+     "x": 16286,
+     "y": 11541
+    }
+   ],
+   "verdict": "confirmed-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 61,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 168,
+     "vals": [
+      168
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -168",
+     "farm": 61,
+     "x": 16694,
+     "y": 10384
+    },
+    {
+     "lead": 6,
+     "val": 192,
+     "vals": [
+      192
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "6. -192",
+     "farm": 61,
+     "x": 18028,
+     "y": 10325
+    },
+    {
+     "lead": 4,
+     "val": 84,
+     "vals": [
+      84
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "4. -84",
+     "farm": 61,
+     "x": 16708,
+     "y": 10898
+    },
+    {
+     "lead": 3,
+     "val": 96,
+     "vals": [
+      96
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "3. -96",
+     "farm": 61,
+     "x": 16694,
+     "y": 10384
+    }
+   ],
+   "verdict": "confirmed-sum",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 62,
+   "pieces": [
+    {
+     "lead": null,
+     "val": null,
+     "vals": [],
+     "uncertain": true,
+     "neg": false,
+     "unread": true,
+     "raw": "[?]",
+     "farm": 62,
+     "x": 5306,
+     "y": 10498
+    }
+   ],
+   "verdict": "unreadable",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 63,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 245,
+     "vals": [
+      245
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -24[5?]",
+     "farm": 63,
+     "x": 18643,
+     "y": 11497
+    }
+   ],
+   "verdict": "sum-near",
+   "candidates": [],
+   "notes": [
+    "pieces 1. -24[5?] sum to 245, the row's 240 (off 5)"
+   ]
+  },
+  {
+   "farm": 65,
+   "pieces": [
+    {
+     "lead": null,
+     "val": null,
+     "vals": [],
+     "uncertain": true,
+     "neg": false,
+     "unread": true,
+     "raw": "[?]",
+     "farm": 65,
+     "x": 18232,
+     "y": 11003
+    }
+   ],
+   "verdict": "unreadable",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 66,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 369,
+     "vals": [
+      369
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 36[9?]",
+     "farm": 66,
+     "x": 18539,
+     "y": 11913
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 67,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 535,
+     "vals": [
+      535,
+      536
+     ],
+     "uncertain": true,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -[5?]3[5/6?]",
+     "farm": 67,
+     "x": 18455,
+     "y": 12349
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 68,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 444,
+     "vals": [
+      444
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 444",
+     "farm": 68,
+     "x": 17046,
+     "y": 12149
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. 444",
+     "row": 68,
+     "name": "Lipelt Martin",
+     "dist": 0,
+     "kind": "near-claim",
+     "edits": 1
+    },
+    {
+     "piece": "1. 444",
+     "row": 6,
+     "name": "Girsh Kristiian",
+     "dist": 14791,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 444",
+     "row": 9,
+     "name": "Sanikovskii Martin",
+     "dist": 5903,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 444",
+     "row": 40,
+     "name": "Shvebs Karl Veniiamin",
+     "dist": 8190,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 69,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 240,
+     "vals": [
+      240
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 240",
+     "farm": 69,
+     "x": 17265,
+     "y": 12690
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 63,78 — resolved by position"
+   ]
+  },
+  {
+   "farm": 7,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 459,
+     "vals": [
+      459
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 459",
+     "farm": 7,
+     "x": 7069,
+     "y": 6466
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 70,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 936,
+     "vals": [
+      936
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 936",
+     "farm": 70,
+     "x": 19052,
+     "y": 12774
+    },
+    {
+     "lead": 7,
+     "val": 80,
+     "vals": [
+      80
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[7?]. 80",
+     "farm": 70,
+     "x": 17731,
+     "y": 13408
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. 936",
+     "row": 49,
+     "name": "Merts Avgust",
+     "dist": 3678,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 936",
+     "row": 67,
+     "name": "Tselmer Avgust",
+     "dist": 684,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 72,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 216,
+     "vals": [
+      216
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 216",
+     "farm": 72,
+     "x": 19471,
+     "y": 12205
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 57 — resolved by position"
+   ]
+  },
+  {
+   "farm": 73,
+   "pieces": [
+    {
+     "lead": null,
+     "val": null,
+     "vals": [],
+     "uncertain": true,
+     "neg": false,
+     "unread": true,
+     "raw": "[?]",
+     "farm": 73,
+     "x": 19925,
+     "y": 11817
+    },
+    {
+     "lead": 1,
+     "val": 260,
+     "vals": [
+      260
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 260",
+     "farm": 73,
+     "x": 19344,
+     "y": 10595
+    }
+   ],
+   "verdict": "open-gap",
+   "candidates": [
+    {
+     "piece": "1. 260",
+     "row": 14,
+     "name": "Kholm Vilgelm",
+     "dist": 19027,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 260",
+     "row": 17,
+     "name": "Merts Martin",
+     "dist": 17902,
+     "kind": "near",
+     "edits": 1
+    },
+    {
+     "piece": "1. 260",
+     "row": 51,
+     "name": "Gebel Karl",
+     "dist": 8131,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": [
+    "the unread piece(s) ([?]) would carry the remaining 388 saz of the row's 648"
+   ]
+  },
+  {
+   "farm": 74,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 204,
+     "vals": [
+      204
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 2[0?][4?]",
+     "farm": 74,
+     "x": 17619,
+     "y": 9256
+    }
+   ],
+   "verdict": "confirmed-sum-weak",
+   "candidates": [],
+   "notes": [
+    "the matching subset includes an uncertain read"
+   ]
+  },
+  {
+   "farm": 75,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 57,
+     "vals": [
+      57
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "1. -57",
+     "farm": 75,
+     "x": 17613,
+     "y": 9696
+    }
+   ],
+   "verdict": "open",
+   "candidates": [
+    {
+     "piece": "1. -57",
+     "row": 75,
+     "name": "Khaupt Gotfrid",
+     "dist": 0,
+     "kind": "near-claim",
+     "edits": 1
+    },
+    {
+     "piece": "1. -57",
+     "row": 43,
+     "name": "Kinast Mateush",
+     "dist": 10210,
+     "kind": "near",
+     "edits": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "farm": 76,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 480,
+     "vals": [
+      480
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 480",
+     "farm": 76,
+     "x": 19923,
+     "y": 10838
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 77,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 300,
+     "vals": [
+      300
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 300",
+     "farm": 77,
+     "x": 19815,
+     "y": 11343
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 66 — resolved by position"
+   ]
+  },
+  {
+   "farm": 8,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 170,
+     "vals": [
+      170
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 170",
+     "farm": 8,
+     "x": 6818,
+     "y": 4967
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 82,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 288,
+     "vals": [
+      288
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 288",
+     "farm": 82,
+     "x": 5329,
+     "y": 6913
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 38,39 — resolved by position"
+   ]
+  },
+  {
+   "farm": 83,
+   "pieces": [
+    {
+     "lead": null,
+     "val": 144,
+     "vals": [
+      144
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "144",
+     "farm": 83,
+     "x": 4517,
+     "y": 6476
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 9,40,56,68 — resolved by position"
+   ]
+  },
+  {
+   "farm": 84,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 208,
+     "vals": [
+      208
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 208",
+     "farm": 84,
+     "x": 3218,
+     "y": 8753
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 86,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 90,
+     "vals": [
+      90
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 90",
+     "farm": 86,
+     "x": 3142,
+     "y": 9106
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 87,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 243,
+     "vals": [
+      243
+     ],
+     "uncertain": true,
+     "neg": false,
+     "unread": false,
+     "raw": "[1?]. 243",
+     "farm": 87,
+     "x": 3718,
+     "y": 9213
+    }
+   ],
+   "verdict": "open-weak",
+   "candidates": [],
+   "notes": []
+  },
+  {
+   "farm": 9,
+   "pieces": [
+    {
+     "lead": 1,
+     "val": 144,
+     "vals": [
+      144
+     ],
+     "uncertain": false,
+     "neg": false,
+     "unread": false,
+     "raw": "1. 144",
+     "farm": 9,
+     "x": 6368,
+     "y": 5965
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": [
+    "the figure is shared with row(s) 40,56,68,83 — resolved by position"
+   ]
+  },
+  {
+   "farm": 92,
+   "pieces": [
+    {
+     "lead": null,
+     "val": 326,
+     "vals": [
+      326
+     ],
+     "uncertain": false,
+     "neg": true,
+     "unread": false,
+     "raw": "-326",
+     "farm": 92,
+     "x": 9685,
+     "y": 9170
+    }
+   ],
+   "verdict": "confirmed",
+   "candidates": [],
+   "notes": []
+  }
+ ],
+ "zero_rows": [
+  12,
+  25,
+  45,
+  71,
+  80,
+  85,
+  93,
+  94,
+  95,
+  96
+ ],
+ "resolved": {
+  "[5?]0": "the claim [5?]0 resolves to row 50 — the mark sits on its red tag",
+  "[3?]1": "the claim [3?]1 resolves to row 31 — the mark sits on its red tag",
+  "7[3?]": "the claim 7[3?] resolves to row 73 — the mark sits on its red tag"
+ },
+ "sites": {
+  "56": [
+   [
+    13055,
+    12136
+   ],
+   [
+    13233,
+    12866
+   ],
+   [
+    9191,
+    13325
+   ]
+  ],
+  "77": [
+   [
+    20819,
+    10961
+   ],
+   [
+    15541,
+    12883
+   ],
+   [
+    19815,
+    11343
+   ]
+  ],
+  "49": [
+   [
+    9767,
+    8576
+   ],
+   [
+    10024,
+    8490
+   ],
+   [
+    7922,
+    11264
+   ],
+   [
+    9776,
+    7042
+   ],
+   [
+    10225,
+    7592
+   ],
+   [
+    15999,
+    13399
+   ]
+  ],
+  "18": [
+   [
+    7977,
+    5720
+   ],
+   [
+    6969,
+    5103
+   ],
+   [
+    7484,
+    5538
+   ]
+  ],
+  "66": [
+   [
+    16880,
+    11339
+   ],
+   [
+    14834,
+    10951
+   ],
+   [
+    18539,
+    11913
+   ],
+   [
+    16988,
+    11801
+   ]
+  ],
+  "29": [
+   [
+    4106,
+    9209
+   ],
+   [
+    4152,
+    8832
+   ],
+   [
+    3874,
+    8111
+   ]
+  ],
+  "10": [
+   [
+    6583,
+    6713
+   ],
+   [
+    5225,
+    7433
+   ],
+   [
+    3465,
+    8104
+   ],
+   [
+    6004,
+    7284
+   ],
+   [
+    6347,
+    7206
+   ],
+   [
+    7821,
+    5202
+   ]
+  ],
+  "68": [
+   [
+    17046,
+    12149
+   ],
+   [
+    17198,
+    12446
+   ]
+  ],
+  "51": [
+   [
+    10248,
+    6539
+   ],
+   [
+    10588,
+    6773
+   ],
+   [
+    10854,
+    7260
+   ],
+   [
+    12425,
+    9383
+   ]
+  ],
+  "26": [
+   [
+    8518,
+    6015
+   ],
+   [
+    5362,
+    8532
+   ],
+   [
+    4527,
+    8255
+   ],
+   [
+    8632,
+    5556
+   ],
+   [
+    4640,
+    8809
+   ],
+   [
+    4322,
+    8342
+   ],
+   [
+    4548,
+    7943
+   ]
+  ],
+  "63": [
+   [
+    16944,
+    11610
+   ],
+   [
+    15117,
+    10833
+   ],
+   [
+    18643,
+    11497
+   ]
+  ],
+  "23": [
+   [
+    6873,
+    10457
+   ],
+   [
+    6333,
+    10971
+   ],
+   [
+    7144,
+    9230
+   ],
+   [
+    6951,
+    11273
+   ],
+   [
+    7408,
+    9788
+   ],
+   [
+    7636,
+    8565
+   ],
+   [
+    6582,
+    10360
+   ],
+   [
+    7077,
+    9896
+   ],
+   [
+    7011,
+    8819
+   ],
+   [
+    7445,
+    8943
+   ],
+   [
+    12126,
+    12833
+   ],
+   [
+    10454,
+    8664
+   ],
+   [
+    10912,
+    8668
+   ]
+  ],
+  "35": [
+   [
+    6584,
+    10925
+   ],
+   [
+    7207,
+    10654
+   ],
+   [
+    7885,
+    11194
+   ]
+  ],
+  "59": [
+   [
+    14616,
+    11393
+   ],
+   [
+    14685,
+    11585
+   ],
+   [
+    16550,
+    12848
+   ]
+  ],
+  "42": [
+   [
+    9945,
+    12302
+   ],
+   [
+    10220,
+    13407
+   ]
+  ],
+  "55": [
+   [
+    12191,
+    12540
+   ],
+   [
+    12550,
+    9127
+   ],
+   [
+    8680,
+    10903
+   ],
+   [
+    12441,
+    12227
+   ],
+   [
+    14446,
+    13112
+   ],
+   [
+    15028,
+    13397
+   ],
+   [
+    15602,
+    10811
+   ]
+  ],
+  "24": [
+   [
+    10977,
+    12673
+   ],
+   [
+    6142,
+    10553
+   ],
+   [
+    6421,
+    8599
+   ],
+   [
+    6884,
+    8622
+   ],
+   [
+    6358,
+    9347
+   ],
+   [
+    4445,
+    10028
+   ],
+   [
+    10374,
+    8234
+   ]
+  ],
+  "36": [
+   [
+    15318,
+    11667
+   ],
+   [
+    7440,
+    10411
+   ],
+   [
+    7798,
+    9781
+   ],
+   [
+    15484,
+    12745
+   ]
+  ],
+  "46": [
+   [
+    10840,
+    9953
+   ],
+   [
+    8914,
+    11059
+   ],
+   [
+    11477,
+    9525
+   ]
+  ],
+  "97": [
+   [
+    19384,
+    11443
+   ],
+   [
+    15521,
+    11720
+   ],
+   [
+    10124,
+    12927
+   ],
+   [
+    8924,
+    6476
+   ],
+   [
+    16148,
+    10846
+   ],
+   [
+    4380,
+    7391
+   ],
+   [
+    2885,
+    8810
+   ],
+   [
+    10151,
+    13804
+   ],
+   [
+    11528,
+    12795
+   ],
+   [
+    13273,
+    11174
+   ],
+   [
+    10761,
+    6761
+   ],
+   [
+    10908,
+    6156
+   ],
+   [
+    12755,
+    7470
+   ],
+   [
+    12026,
+    8646
+   ],
+   [
+    12630,
+    8680
+   ],
+   [
+    12782,
+    9906
+   ],
+   [
+    10247,
+    8034
+   ],
+   [
+    12989,
+    13272
+   ],
+   [
+    14250,
+    13555
+   ],
+   [
+    15513,
+    13922
+   ],
+   [
+    14275,
+    10878
+   ],
+   [
+    15352,
+    10339
+   ],
+   [
+    15462,
+    10539
+   ],
+   [
+    15142,
+    11228
+   ],
+   [
+    17513,
+    10347
+   ],
+   [
+    20333,
+    12313
+   ],
+   [
+    18657,
+    13729
+   ],
+   [
+    18655,
+    9889
+   ],
+   [
+    16105,
+    12332
+   ],
+   [
+    15842,
+    10814
+   ],
+   [
+    9252,
+    8088
+   ]
+  ],
+  "27": [
+   [
+    5852,
+    10279
+   ],
+   [
+    5933,
+    9793
+   ],
+   [
+    5508,
+    10243
+   ],
+   [
+    7977,
+    10337
+   ],
+   [
+    10886,
+    12858
+   ],
+   [
+    9676,
+    8771
+   ]
+  ],
+  "80": [
+   [
+    13437,
+    12106
+   ],
+   [
+    4532,
+    9779
+   ],
+   [
+    13509,
+    13093
+   ]
+  ],
+  "67": [
+   [
+    14690,
+    12542
+   ],
+   [
+    8490,
+    10385
+   ],
+   [
+    18455,
+    12349
+   ],
+   [
+    19163,
+    12201
+   ]
+  ],
+  "44": [
+   [
+    10226,
+    11430
+   ],
+   [
+    9510,
+    11466
+   ],
+   [
+    10520,
+    12569
+   ],
+   [
+    13494,
+    10982
+   ],
+   [
+    12458,
+    9664
+   ],
+   [
+    11338,
+    11394
+   ],
+   [
+    11291,
+    11958
+   ]
+  ],
+  "20": [
+   [
+    11043,
+    12485
+   ],
+   [
+    6956,
+    8195
+   ],
+   [
+    7789,
+    7757
+   ],
+   [
+    7888,
+    8066
+   ],
+   [
+    8362,
+    8069
+   ]
+  ],
+  "48": [
+   [
+    10162,
+    10780
+   ],
+   [
+    9832,
+    7296
+   ]
+  ],
+  "28": [
+   [
+    12558,
+    8813
+   ],
+   [
+    10901,
+    7527
+   ],
+   [
+    12255,
+    10437
+   ]
+  ],
+  "43": [
+   [
+    10438,
+    13417
+   ],
+   [
+    10140,
+    12433
+   ]
+  ],
+  "52": [
+   [
+    12637,
+    8186
+   ],
+   [
+    13917,
+    11122
+   ],
+   [
+    11035,
+    6513
+   ]
+  ],
+  "73": [
+   [
+    20310,
+    11707
+   ],
+   [
+    19925,
+    11817
+   ],
+   [
+    19384,
+    11862
+   ],
+   [
+    12311,
+    7570
+   ],
+   [
+    15537,
+    12576
+   ],
+   [
+    19344,
+    10595
+   ],
+   [
+    18070,
+    13755
+   ],
+   [
+    16208,
+    12313
+   ]
+  ],
+  "95": [
+   [
+    9527,
+    10779
+   ],
+   [
+    14300,
+    12312
+   ]
+  ],
+  "25": [
+   [
+    3671,
+    8108
+   ],
+   [
+    5689,
+    8218
+   ]
+  ],
+  "58": [
+   [
+    16173,
+    13399
+   ],
+   [
+    14468,
+    12540
+   ],
+   [
+    14816,
+    12537
+   ]
+  ],
+  "19": [
+   [
+    5244,
+    7700
+   ],
+   [
+    6203,
+    7573
+   ],
+   [
+    5721,
+    7821
+   ]
+  ],
+  "61": [
+   [
+    16708,
+    10898
+   ],
+   [
+    16694,
+    10384
+   ],
+   [
+    15379,
+    10794
+   ],
+   [
+    18028,
+    10325
+   ],
+   [
+    17723,
+    9978
+   ]
+  ],
+  "30": [
+   [
+    4815,
+    10306
+   ],
+   [
+    15315,
+    13396
+   ],
+   [
+    14537,
+    10959
+   ]
+  ],
+  "2": [
+   [
+    9031,
+    5264
+   ],
+   [
+    8355,
+    5266
+   ],
+   [
+    8603,
+    4603
+   ],
+   [
+    8822,
+    5554
+   ],
+   [
+    9293,
+    13318
+   ],
+   [
+    10928,
+    13246
+   ]
+  ],
+  "4": [
+   [
+    9957,
+    10782
+   ],
+   [
+    6950,
+    7858
+   ],
+   [
+    9456,
+    4835
+   ],
+   [
+    7887,
+    6944
+   ],
+   [
+    7682,
+    7308
+   ],
+   [
+    8266,
+    7307
+   ],
+   [
+    8565,
+    6740
+   ],
+   [
+    7351,
+    7708
+   ],
+   [
+    9394,
+    13321
+   ],
+   [
+    8950,
+    10219
+   ],
+   [
+    10571,
+    7649
+   ],
+   [
+    13061,
+    7319
+   ]
+  ],
+  "34": [
+   [
+    5595,
+    9733
+   ],
+   [
+    5474,
+    9908
+   ],
+   [
+    13275,
+    10867
+   ]
+  ],
+  "21": [
+   [
+    8606,
+    8536
+   ],
+   [
+    7908,
+    8578
+   ],
+   [
+    7799,
+    9232
+   ],
+   [
+    8250,
+    9316
+   ],
+   [
+    12147,
+    12718
+   ]
+  ],
+  "14": [
+   [
+    4220,
+    5961
+   ],
+   [
+    4140,
+    6429
+   ],
+   [
+    3883,
+    7029
+   ]
+  ],
+  "6": [
+   [
+    8136,
+    5134
+   ],
+   [
+    7994,
+    6410
+   ]
+  ],
+  "53": [
+   [
+    12088,
+    7207
+   ],
+   [
+    6114,
+    7463
+   ],
+   [
+    11292,
+    7329
+   ],
+   [
+    11608,
+    7428
+   ],
+   [
+    11656,
+    7016
+   ],
+   [
+    11096,
+    12348
+   ],
+   [
+    14076,
+    12405
+   ],
+   [
+    14695,
+    13393
+   ],
+   [
+    15541,
+    13047
+   ]
+  ],
+  "11": [
+   [
+    6039,
+    5747
+   ],
+   [
+    5496,
+    5540
+   ],
+   [
+    5861,
+    6188
+   ]
+  ],
+  "12": [
+   [
+    4754,
+    6062
+   ],
+   [
+    12056,
+    13245
+   ]
+  ],
+  "7": [
+   [
+    7907,
+    6209
+   ],
+   [
+    4683,
+    7082
+   ],
+   [
+    7160,
+    7692
+   ],
+   [
+    7134,
+    7572
+   ],
+   [
+    7069,
+    6466
+   ],
+   [
+    7979,
+    5156
+   ],
+   [
+    14927,
+    12546
+   ],
+   [
+    12654,
+    10535
+   ],
+   [
+    13055,
+    10760
+   ],
+   [
+    17731,
+    13408
+   ],
+   [
+    10306,
+    12404
+   ]
+  ],
+  "8": [
+   [
+    6297,
+    5245
+   ],
+   [
+    3634,
+    7025
+   ],
+   [
+    3569,
+    7324
+   ],
+   [
+    6818,
+    4967
+   ],
+   [
+    10765,
+    8083
+   ]
+  ],
+  "82": [
+   [
+    5891,
+    6653
+   ],
+   [
+    5329,
+    6913
+   ],
+   [
+    5121,
+    7299
+   ]
+  ],
+  "87": [
+   [
+    3718,
+    9213
+   ],
+   [
+    3754,
+    7083
+   ],
+   [
+    4058,
+    9556
+   ],
+   [
+    9549,
+    9879
+   ],
+   [
+    9552,
+    9747
+   ],
+   [
+    4657,
+    7652
+   ]
+  ],
+  "9": [
+   [
+    7041,
+    6137
+   ],
+   [
+    6368,
+    5965
+   ],
+   [
+    12090,
+    13096
+   ],
+   [
+    7394,
+    6003
+   ]
+  ],
+  "62": [
+   [
+    5306,
+    10498
+   ],
+   [
+    5423,
+    10505
+   ],
+   [
+    9103,
+    13311
+   ]
+  ],
+  "71": [
+   [
+    19539,
+    12679
+   ],
+   [
+    19512,
+    12607
+   ]
+  ],
+  "81": [
+   [
+    14705,
+    7649
+   ],
+   [
+    13068,
+    7211
+   ],
+   [
+    15337,
+    7323
+   ]
+  ],
+  "33": [
+   [
+    11232,
+    12161
+   ],
+   [
+    4873,
+    9972
+   ],
+   [
+    5176,
+    9146
+   ],
+   [
+    5679,
+    9322
+   ],
+   [
+    10046,
+    9127
+   ]
+  ],
+  "83": [
+   [
+    13073,
+    12883
+   ],
+   [
+    4517,
+    6476
+   ]
+  ],
+  "37": [
+   [
+    15648,
+    13396
+   ],
+   [
+    3283,
+    8651
+   ],
+   [
+    7124,
+    8016
+   ],
+   [
+    5659,
+    10075
+   ],
+   [
+    7185,
+    11325
+   ],
+   [
+    8092,
+    9654
+   ],
+   [
+    8479,
+    9935
+   ],
+   [
+    14808,
+    10516
+   ]
+  ],
+  "89": [
+   [
+    10897,
+    13433
+   ],
+   [
+    3978,
+    8171
+   ],
+   [
+    14462,
+    13395
+   ]
+  ],
+  "1": [
+   [
+    9080,
+    4497
+   ],
+   [
+    9053,
+    4136
+   ],
+   [
+    9322,
+    10782
+   ]
+  ],
+  "17": [
+   [
+    4672,
+    6757
+   ],
+   [
+    4356,
+    7596
+   ],
+   [
+    3826,
+    7319
+   ],
+   [
+    4787,
+    7250
+   ]
+  ],
+  "15": [
+   [
+    4274,
+    7019
+   ],
+   [
+    4301,
+    7243
+   ],
+   [
+    9883,
+    13324
+   ]
+  ],
+  "16": [
+   [
+    4099,
+    7484
+   ],
+   [
+    9074,
+    10991
+   ],
+   [
+    12570,
+    8925
+   ],
+   [
+    11450,
+    9060
+   ]
+  ],
+  "5": [
+   [
+    3256,
+    8101
+   ],
+   [
+    6619,
+    7829
+   ],
+   [
+    7020,
+    7146
+   ],
+   [
+    7097,
+    6852
+   ],
+   [
+    12653,
+    7267
+   ],
+   [
+    10230,
+    9305
+   ],
+   [
+    12453,
+    10435
+   ],
+   [
+    14383,
+    12427
+   ]
+  ],
+  "84": [
+   [
+    3218,
+    8753
+   ]
+  ],
+  "86": [
+   [
+    3142,
+    9106
+   ],
+   [
+    14574,
+    12540
+   ]
+  ],
+  "85": [
+   [
+    4578,
+    9582
+   ]
+  ],
+  "39": [
+   [
+    4236,
+    7817
+   ],
+   [
+    7809,
+    11047
+   ],
+   [
+    14347,
+    13405
+   ],
+   [
+    15389,
+    11577
+   ]
+  ],
+  "13": [
+   [
+    5162,
+    5922
+   ],
+   [
+    6831,
+    5581
+   ],
+   [
+    12065,
+    13374
+   ]
+  ],
+  "31": [
+   [
+    5030,
+    10245
+   ],
+   [
+    9752,
+    13323
+   ],
+   [
+    9225,
+    13182
+   ],
+   [
+    10553,
+    7258
+   ],
+   [
+    13063,
+    8408
+   ],
+   [
+    13748,
+    7672
+   ]
+  ],
+  "32": [
+   [
+    5189,
+    10401
+   ],
+   [
+    5289,
+    10072
+   ],
+   [
+    9627,
+    13321
+   ],
+   [
+    12085,
+    12961
+   ],
+   [
+    10131,
+    8862
+   ],
+   [
+    9945,
+    8937
+   ],
+   [
+    9617,
+    8163
+   ],
+   [
+    9409,
+    8257
+   ]
+  ],
+  "0": [
+   [
+    7239,
+    8115
+   ],
+   [
+    12182,
+    12615
+   ]
+  ],
+  "3": [
+   [
+    7224,
+    4920
+   ],
+   [
+    7381,
+    4833
+   ],
+   [
+    8450,
+    5087
+   ],
+   [
+    9371,
+    5086
+   ],
+   [
+    8928,
+    5862
+   ],
+   [
+    9891,
+    6109
+   ],
+   [
+    9608,
+    5673
+   ],
+   [
+    9358,
+    6775
+   ],
+   [
+    12852,
+    10640
+   ]
+  ],
+  "38": [
+   [
+    7080,
+    11328
+   ],
+   [
+    7144,
+    11214
+   ],
+   [
+    9733,
+    10777
+   ],
+   [
+    12798,
+    7701
+   ]
+  ],
+  "94": [
+   [
+    9547,
+    4547
+   ]
+  ],
+  "50": [
+   [
+    9082,
+    7114
+   ],
+   [
+    9204,
+    7624
+   ],
+   [
+    14005,
+    11549
+   ]
+  ],
+  "22": [
+   [
+    8610,
+    9287
+   ]
+  ],
+  "41": [
+   [
+    9566,
+    12180
+   ],
+   [
+    9502,
+    13317
+   ]
+  ],
+  "54": [
+   [
+    10417,
+    12482
+   ],
+   [
+    10655,
+    12539
+   ],
+   [
+    12308,
+    12460
+   ],
+   [
+    12728,
+    11764
+   ],
+   [
+    12639,
+    11319
+   ],
+   [
+    15811,
+    13399
+   ]
+  ],
+  "40": [
+   [
+    10039,
+    13332
+   ]
+  ],
+  "64": [
+   [
+    10892,
+    13082
+   ]
+  ],
+  "47": [
+   [
+    9837,
+    9998
+   ],
+   [
+    9861,
+    9825
+   ],
+   [
+    9065,
+    8544
+   ],
+   [
+    9370,
+    8511
+   ],
+   [
+    9549,
+    8702
+   ],
+   [
+    12561,
+    9256
+   ],
+   [
+    14016,
+    13346
+   ],
+   [
+    16317,
+    13402
+   ],
+   [
+    16474,
+    13491
+   ]
+  ],
+  "92": [
+   [
+    9304,
+    9165
+   ],
+   [
+    9685,
+    9170
+   ]
+  ],
+  "45": [
+   [
+    12418,
+    7209
+   ],
+   [
+    11339,
+    10600
+   ]
+  ],
+  "91": [
+   [
+    12775,
+    7207
+   ],
+   [
+    12528,
+    7682
+   ]
+  ],
+  "57": [
+   [
+    12184,
+    9558
+   ],
+   [
+    13725,
+    12442
+   ],
+   [
+    15486,
+    13402
+   ]
+  ],
+  "75": [
+   [
+    10056,
+    8163
+   ],
+   [
+    15435,
+    12135
+   ],
+   [
+    17613,
+    9696
+   ]
+  ],
+  "275": [
+   [
+    14627,
+    7172
+   ]
+  ],
+  "60": [
+   [
+    15262,
+    11449
+   ],
+   [
+    16286,
+    11541
+   ]
+  ],
+  "76": [
+   [
+    15272,
+    11534
+   ],
+   [
+    19923,
+    10838
+   ],
+   [
+    19574,
+    10299
+   ],
+   [
+    20899,
+    10699
+   ]
+  ],
+  "78": [
+   [
+    15218,
+    11833
+   ]
+  ],
+  "79": [
+   [
+    15380,
+    11980
+   ]
+  ],
+  "65": [
+   [
+    15428,
+    12258
+   ],
+   [
+    17443,
+    11304
+   ],
+   [
+    18232,
+    11003
+   ]
+  ],
+  "72": [
+   [
+    15503,
+    12437
+   ],
+   [
+    19471,
+    12205
+   ],
+   [
+    20250,
+    11304
+   ],
+   [
+    20722,
+    11373
+   ],
+   [
+    20274,
+    12081
+   ],
+   [
+    16352,
+    12343
+   ]
+  ],
+  "70": [
+   [
+    16639,
+    13551
+   ],
+   [
+    16995,
+    13584
+   ],
+   [
+    19052,
+    12774
+   ],
+   [
+    18821,
+    13138
+   ]
+  ],
+  "69": [
+   [
+    17265,
+    12690
+   ]
+  ],
+  "74": [
+   [
+    17619,
+    9256
+   ]
+  ]
+ }
+}

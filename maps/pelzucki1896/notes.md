@@ -650,3 +650,49 @@ labelling page built and served at http://localhost:8778/pelzucki1896/
 (a stale server holds 8765; 8778 is this session's). Waiting on the
 editor's marks; then the import, the fit again with the marks, the page
 (`in_project: true` then), the build and the checks.
+
+## The homestead yards and the farm-number rulings (2026-11-02, the editor's marking sessions)
+
+The yard page (`yard_map.html`, v7) carried three marking passes — the
+yards (100 pieces, 74 farm claims), the red numbers' corrections
+(119 fixes in the export's `red_fixes`, baked into the page at build),
+and the uncertain-numbers queue (117 `[?]` tags walked with neighbour
+context; 64 left). `yard_analysis.py` runs the yard test per farm — the
+piece figures (or subset sums) against the statement's
+buildings-and-gardens column — and the verdicts colour the page:
+green solid (29), light-green near-fit (7), yellow weak (7), red wrong
+(3 and 4). The highlights:
+
+- **87 -> 82** (the editor's word): the 288 yard at (5329, 6913) is farm
+  82's — the figure exact and red-82's site 594 px away. Farm 15's probe
+  closed.
+- **The southwest row** 5, 10, 25, 25, 29 -> 5, 10, 25, **29, [9?]7**:
+  the second 25 was the OCR's own 29 (the earlier correction withdrawn),
+  the last 29 was the catalogue's [8?]9, now [9?]7 — canonically the
+  roads row 97, plausible at the corner.
+- **11** stands confirmed by its unique 454 beside the black 11; its
+  yard read 8640 is the garden plot (buildings+garden as one figure,
+  864 unique to row 11) plus an artifact stroke.
+- **No tags at all**: 88 (German Voitsekh) and 90 (Rogovich Martin);
+  **only uncertain tags**: 19, 40, 48, 64, 89, 94, 96. 88's black site
+  (19978, 12189) sits among 72/73/71/77 tags in the east block — the
+  polygon pass will corner it.
+
+The farm-polygon tool (`farm_polygons.html`, built by
+`build_farm_polygons.py`) is the first stone of the updated vector map:
+polygons per farm, the clicked tag choosing the farm, tag renumbering
+with the polygons following, vertex/edge editing with Ctrl+Z, the farms
+list shaded by polygon area against the row total (the areas approximate,
+~0.4 m/px), the missing-rows box, export as farm_polygons.json.
+
+**The road to close the rest**: the parcel-sum test — the black «n. D-S»
+parcel labels read on the label sheet, grouped by their red clusters,
+summed per group and matched against the 96 row totals — which would
+also name 88, 90, 96 by elimination. The shortcut to check first: the
+1896 survey's rejestr pomiarowy (the measurement register the 1881 rules
+require with every measurement), in APŁ 39/98 (Urząd Gubernialny
+Kaliski do Spraw Włościańskich — the liquidation tables' own fonds,
+sygn. 6603 among them), per-village files with attached registers and
+plans. A Grundbuch in the Galician sense never existed for the
+Kingdom's villages; the register, the hipoteka entry (built on the
+liquidation table), and the gmina records are the equivalents.

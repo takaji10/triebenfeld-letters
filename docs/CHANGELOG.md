@@ -1,151 +1,151 @@
-# Changelog
+﻿# Changelog
 
-Full history of decisions and corrections applied to the corpus, database, and reports. `NEEDS_CONFIRMATION.md` tracks only what's still open — this is the record of everything already settled.
+Full history of decisions and corrections applied to the corpus, database, and reports. `NEEDS_CONFIRMATION.md` tracks only what's still open â€” this is the record of everything already settled.
 
 ---
 
-## Phase 1 — Structural cleanup
+## Phase 1 â€” Structural cleanup
 
 - Letter boundaries tagged (`[LETTER N]`), gaps and duplicate/out-of-sequence numbers documented.
 - Front matter separated from the letter corpus.
-- Line-wrap hyphenation (`¬`) and existing `[?]` uncertainty markers preserved as-is throughout — never rejoined or removed.
+- Line-wrap hyphenation (`Â¬`) and existing `[?]` uncertainty markers preserved as-is throughout â€” never rejoined or removed.
 
-## Phase 2 — Proper noun standardization
+## Phase 2 â€” Proper noun standardization
 
 - Full Kurrentschrift confusion taxonomy established (b/v/w, ck/ch, minim n/u/m, doubled-letter, sz/cz/s, I/J, j/y) and applied across ~230 proper-noun tokens in several rounds, root-only with grammatical endings preserved throughout.
-- Key resolved clusters: Trąbczyn (confirmed real place, Konin district), Köckritz, Stägemann, Falkenhausen, Kwilecki, Schlabrendorff, Grävenitz, Knobelsdorff, Hawich, Habick→**Hawich**, Kopojno (confirmed real village), Kulm (distinct from Kolno), Sobottendorff, Rapacki, Eysenhardt, Cosmar (incl. `Casman`/`Casmus` merge from the opening letter), Metternich, Talleyrand, Scharnhorst, Ingelfingen.
-- **Rule ④ full-list pass** (rare-token-vs-anchor similarity scan, 222 candidates reviewed individually): 147 tokens fixed; ~40 held back as genuine false positives — real, distinct people or common German words that only matched on letter-similarity (`Reinhardt`, `Zagorowski`, `Weidel`, and the words in the current `NEEDS_CONFIRMATION.md` list). `Prusimskische` kept throughout, per confirmation that Prusimska (daughter) and Prusimski (father) are different people.
-- `Hohenlohn`/`Hohenlahn`/`Hohenlohnsche` → `Hohenlohe`/`Hohenlohesche`, all instances (16 tokens) — corrected after initially (wrongly) treating `Hohenlohn` as an accepted period variant.
-- `Hinrich`/`Heinrich` → `Honrichs` where confirmed the same referent (3 tokens); letter 48's `Heinrich` (L3684) → `Hawich` instead, after cross-checking against letter 302 (its twin) at the identical sentence position — both copies of that document now agree.
-- `Plenck` → `Glenck` (2 tokens).
+- Key resolved clusters: TrÄ…bczyn (confirmed real place, Konin district), KÃ¶ckritz, StÃ¤gemann, Falkenhausen, Kwilecki, Schlabrendorff, GrÃ¤venitz, Knobelsdorff, Hawich, Habickâ†’**Hawich**, Kopojno (confirmed real village), Kulm (distinct from Kolno), Sobottendorff, Rapacki, Eysenhardt, Cosmar (incl. `Casman`/`Casmus` merge from the opening letter), Metternich, Talleyrand, Scharnhorst, Ingelfingen.
+- **Rule â‘£ full-list pass** (rare-token-vs-anchor similarity scan, 222 candidates reviewed individually): 147 tokens fixed; ~40 held back as genuine false positives â€” real, distinct people or common German words that only matched on letter-similarity (`Reinhardt`, `Zagorowski`, `Weidel`, and the words in the current `NEEDS_CONFIRMATION.md` list). `Prusimskische` kept throughout, per confirmation that Prusimska (daughter) and Prusimski (father) are different people.
+- `Hohenlohn`/`Hohenlahn`/`Hohenlohnsche` â†’ `Hohenlohe`/`Hohenlohesche`, all instances (16 tokens) â€” corrected after initially (wrongly) treating `Hohenlohn` as an accepted period variant.
+- `Hinrich`/`Heinrich` â†’ `Honrichs` where confirmed the same referent (3 tokens); letter 48's `Heinrich` (L3684) â†’ `Hawich` instead, after cross-checking against letter 302 (its twin) at the identical sentence position â€” both copies of that document now agree.
+- `Plenck` â†’ `Glenck` (2 tokens).
 
-## Phase 2b — Transcription audit (AI-transcription-aware)
+## Phase 2b â€” Transcription audit (AI-transcription-aware)
 
-Scoped as audit-first given the transcription was AI-produced, not human — see `transcription_error_profile.md` and `phase2b_transcription_audit.md` for full methodology.
+Scoped as audit-first given the transcription was AI-produced, not human â€” see `transcription_error_profile.md` and `phase2b_transcription_audit.md` for full methodology.
 
-- 23 narrow word-level fixes applied (mostly corrupted forms of `Durchlaucht`/`Hochfürstl`), each individually context-verified; 85 of 108 automated candidates rejected as real words or line-wrap artifacts.
-- Financial figure L1625 (`14 g. 4 d.` → `14 g. 11 d.`) — proven via the estate-revenue table's own arithmetic *and* its duplicate elsewhere in the corpus.
+- 23 narrow word-level fixes applied (mostly corrupted forms of `Durchlaucht`/`HochfÃ¼rstl`), each individually context-verified; 85 of 108 automated candidates rejected as real words or line-wrap artifacts.
+- Financial figure L1625 (`14 g. 4 d.` â†’ `14 g. 11 d.`) â€” proven via the estate-revenue table's own arithmetic *and* its duplicate elsewhere in the corpus.
 
-## Phase 3 — Database, chronology, currency
+## Phase 3 â€” Database, chronology, currency
 
-- **Currency normalized**: `/m` expanded to full numbers (125 tokens); Reichsthaler-family abbreviations → `Rthl` (1,272 tokens); `d` resolved to `Rthl` where value ≥12 (131 tokens), left as Pfennig where ≤11 and following a Groschen figure (correct as transcribed); `#` → `Ducaten` (19 tokens). See `currency_normalisation_report.md`.
-  - **Bug found and fixed**: a regex character-class error meant `Rthl`/`d` resolution never recognized the "Maerz" spelling of März, plus a separate gap for the "d. M." (this month) construction. 23 ordinal-day references (`5t`, `15t`, `28t`...) had been wrongly converted to currency amounts; all reverted, two of those lines' legitimate currency conversions re-applied after the revert.
-  - The 12 originally-ambiguous `d` cases (§B) resolved by hand: 10 → Reichsthaler, 1 → Groschen, 1 (`2.d Preſectio`) turned out not to be currency at all — a garbled rendering of *Podprefect*, corrected to `Pod Prefecta`; `6. d.` turned out to be a corrupted `64/m`, expanded to `64000`.
-  - L9997/L10008 set to `2099 Rthl 4 d` (through two rounds of correction — a Groschen guess, then a literal `rt` per instruction, then standardized to `Rthl`).
-- **Month convention settled**: `7br`=Sep, `8br`=Oct, `9br`=Nov, `Xbr`=Dec — verified externally and against the corpus's own internal date sequences (see `NEEDS_CONFIRMATION.md` history / prior turns for the proof).
-- **Bundled letters split** into 20 new sub-letter records after reading each candidate in full (see the table format previously in `NEEDS_CONFIRMATION.md` §E — now folded in here):
+- **Currency normalized**: `/m` expanded to full numbers (125 tokens); Reichsthaler-family abbreviations â†’ `Rthl` (1,272 tokens); `d` resolved to `Rthl` where value â‰¥12 (131 tokens), left as Pfennig where â‰¤11 and following a Groschen figure (correct as transcribed); `#` â†’ `Ducaten` (19 tokens). See `currency_normalisation_report.md`.
+  - **Bug found and fixed**: a regex character-class error meant `Rthl`/`d` resolution never recognized the "Maerz" spelling of MÃ¤rz, plus a separate gap for the "d. M." (this month) construction. 23 ordinal-day references (`5t`, `15t`, `28t`...) had been wrongly converted to currency amounts; all reverted, two of those lines' legitimate currency conversions re-applied after the revert.
+  - The 12 originally-ambiguous `d` cases (Â§B) resolved by hand: 10 â†’ Reichsthaler, 1 â†’ Groschen, 1 (`2.d PreÅ¿ectio`) turned out not to be currency at all â€” a garbled rendering of *Podprefect*, corrected to `Pod Prefecta`; `6. d.` turned out to be a corrupted `64/m`, expanded to `64000`.
+  - L9997/L10008 set to `2099 Rthl 4 d` (through two rounds of correction â€” a Groschen guess, then a literal `rt` per instruction, then standardized to `Rthl`).
+- **Month convention settled**: `7br`=Sep, `8br`=Oct, `9br`=Nov, `Xbr`=Dec â€” verified externally and against the corpus's own internal date sequences (see `NEEDS_CONFIRMATION.md` history / prior turns for the proof).
+- **Bundled letters split** into 20 new sub-letter records after reading each candidate in full (see the table format previously in `NEEDS_CONFIRMATION.md` Â§E â€” now folded in here):
 
   | Original | Split into | What they are |
   |---|---|---|
-  | 31, 50 | *(not split)* | Both turned out to be single continuous documents — original flagging over-matched "von Triebenfeld" mentioned in running prose, not just signatures |
-  | 72 | 72a–72f (6) | Report to a third party; report to the Prince; Kreis-Rath Thiel's own enclosed letter; Brzechta's note in German (72d) and in **Polish** (72e, language-duplicate of 72d); a further report 3 months later |
-  | 74 | 74a–74e (5) | A bundle of **legal documents** (court petition, two Kammergericht citations, an Ober-Landes-Gericht citation, one personal note from Triebenfeld) — not correspondence, which is why it first looked like a false positive |
-  | 118 | 118a–118c (3) | Main letter (10 Feb 1804); postscript re: Countess Schlabrendorff (29 Mar 1804); a near-duplicate of that postscript (118c, `duplicate_of=118b`) — the same within-letter double-transcription pattern as 48/302, just shorter |
+  | 31, 50 | *(not split)* | Both turned out to be single continuous documents â€” original flagging over-matched "von Triebenfeld" mentioned in running prose, not just signatures |
+  | 72 | 72aâ€“72f (6) | Report to a third party; report to the Prince; Kreis-Rath Thiel's own enclosed letter; Brzechta's note in German (72d) and in **Polish** (72e, language-duplicate of 72d); a further report 3 months later |
+  | 74 | 74aâ€“74e (5) | A bundle of **legal documents** (court petition, two Kammergericht citations, an Ober-Landes-Gericht citation, one personal note from Triebenfeld) â€” not correspondence, which is why it first looked like a false positive |
+  | 118 | 118aâ€“118c (3) | Main letter (10 Feb 1804); postscript re: Countess Schlabrendorff (29 Mar 1804); a near-duplicate of that postscript (118c, `duplicate_of=118b`) â€” the same within-letter double-transcription pattern as 48/302, just shorter |
   | 179 | 179, 179a | Main letter; enclosure explicitly marked `179. a) Abschrift` **in the original source**, a 4-exhibit financial dossier |
   | 265 | 265a, 265b | Two unrelated petitions to two different recipients, 8 and 15 Jan 1815 |
   | 269 | 269, 269a | Main letter; enclosure explicitly marked `269 a)` **in the original source**, dated *before* the covering letter |
 
   Each sub-letter carries a `parent_letter` field. Database: **316 rows**, content-preservation verified lossless throughout every change in this changelog.
-- **Dates**: 8 supplied, 6 inferred from bounding neighbours (basis recorded per-row), 4 corrected outliers (letters 109, 254, 186, 232 — misread years/dates), 1 from the letter-48 twin (letter 302). Letter 5 (27 Jan 1816) confirmed correct as originally parsed.
-- **Collation (letters 48/302)**: `exmittirt` (not `committirt`) and `Verrechnungen` (not `Rechnung`) confirmed as the correct readings and applied to the synthesised reading text in `collation_48_302.md` — the corpus text of 48 and 302 themselves was left as transcribed throughout, since collation only ever proposed a *third*, separate reading. `Heinrich`/`Howich` → confirmed `Hawich`, and (uniquely) this one *was* applied directly to the corpus, per explicit instruction.
-- **§B rare-proper-noun spellings, manuscript-checked** — all 7 resolved:
-  - `Lang` → `König` (letter 16, L855; letter 64, L5026) — both genuine transcription errors.
-  - `Longrich` → `Congress` (letter 280, L20229) — genuine transcription error.
-  - `Aich` → `Asch` (letter 109, L8633) — genuine transcription error.
-  - `Choma` (letter 17, L914) — confirmed correct as transcribed: not a different person, but the first half of `Chomanowski`, split across a line-wrap onto L915 (`nowski...`). Left untouched, consistent with the existing policy of never rejoining line-wrapped words.
-  - `Wedel` (letter 96, L7651) and `Hache` (letter 59, L4563) — both confirmed correct as transcribed, no change.
-- **§B, second batch** — 3 more manuscript-checked:
-  - `Reinhardt` (letter 75, L6346; letter 140, L10523) — confirmed correct as transcribed, both instances, no change.
-  - `Weidel` → `Wedel` (letter 77, L6471) — genuine transcription error; same person as the already-confirmed `Wedel` in letter 96.
-  - `Zagorowski` → `Zagorower Güter` (letter 218, L15988) — genuine transcription error. Corpus-internal evidence was decisive: "Zagorower Güter" is the recurring name for this estate, attested 90+ times elsewhere (vs. a single `Guts` in a compound and a single `Güther` spelling-variant); `Güte` (kindness) doesn't fit at all. This is a two-word expansion, not a like-for-like root swap — word count rose by 1 as a result, checked and expected, not a content-preservation violation.
+- **Dates**: 8 supplied, 6 inferred from bounding neighbours (basis recorded per-row), 4 corrected outliers (letters 109, 254, 186, 232 â€” misread years/dates), 1 from the letter-48 twin (letter 302). Letter 5 (27 Jan 1816) confirmed correct as originally parsed.
+- **Collation (letters 48/302)**: `exmittirt` (not `committirt`) and `Verrechnungen` (not `Rechnung`) confirmed as the correct readings and applied to the synthesised reading text in `collation_48_302.md` â€” the corpus text of 48 and 302 themselves was left as transcribed throughout, since collation only ever proposed a *third*, separate reading. `Heinrich`/`Howich` â†’ confirmed `Hawich`, and (uniquely) this one *was* applied directly to the corpus, per explicit instruction.
+- **Â§B rare-proper-noun spellings, manuscript-checked** â€” all 7 resolved:
+  - `Lang` â†’ `KÃ¶nig` (letter 16, L855; letter 64, L5026) â€” both genuine transcription errors.
+  - `Longrich` â†’ `Congress` (letter 280, L20229) â€” genuine transcription error.
+  - `Aich` â†’ `Asch` (letter 109, L8633) â€” genuine transcription error.
+  - `Choma` (letter 17, L914) â€” confirmed correct as transcribed: not a different person, but the first half of `Chomanowski`, split across a line-wrap onto L915 (`nowski...`). Left untouched, consistent with the existing policy of never rejoining line-wrapped words.
+  - `Wedel` (letter 96, L7651) and `Hache` (letter 59, L4563) â€” both confirmed correct as transcribed, no change.
+- **Â§B, second batch** â€” 3 more manuscript-checked:
+  - `Reinhardt` (letter 75, L6346; letter 140, L10523) â€” confirmed correct as transcribed, both instances, no change.
+  - `Weidel` â†’ `Wedel` (letter 77, L6471) â€” genuine transcription error; same person as the already-confirmed `Wedel` in letter 96.
+  - `Zagorowski` â†’ `Zagorower GÃ¼ter` (letter 218, L15988) â€” genuine transcription error. Corpus-internal evidence was decisive: "Zagorower GÃ¼ter" is the recurring name for this estate, attested 90+ times elsewhere (vs. a single `Guts` in a compound and a single `GÃ¼ther` spelling-variant); `GÃ¼te` (kindness) doesn't fit at all. This is a two-word expansion, not a like-for-like root swap â€” word count rose by 1 as a result, checked and expected, not a content-preservation violation.
 
 ## Book cross-reference
 
-The 2018 Seidel biography (`Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen`) was confirmed as an active reference source for the project. It's sourced from the Hohenloher Zentralarchiv Neuenstein (HZAN) — almost certainly the same archive this correspondence was transcribed from — and its Appendix 6 is a scholarly transcription of the exact same 7 March 1809 Kontopp letter as the corpus's letter 48/302 pair, making it a genuine third witness for that letter specifically.
+The 2018 Seidel biography (`Friedrich Ludwig, FÃ¼rst zu Hohenlohe-Ingelfingen`) was confirmed as an active reference source for the project. It's sourced from the Hohenloher Zentralarchiv Neuenstein (HZAN) â€” almost certainly the same archive this correspondence was transcribed from â€” and its Appendix 6 is a scholarly transcription of the exact same 7 March 1809 Kontopp letter as the corpus's letter 48/302 pair, making it a genuine third witness for that letter specifically.
 
-- **Investigated and closed**: whether `Hawich` and `Honrichs` had been wrongly merged. They hadn't — the two already co-occur as clearly distinct people dozens of times throughout the corpus, and the one place they were ever conflated (letter 48, L3684, a `Heinrich`→`Hawich` fix from an earlier round) is independently confirmed correct by Appendix 6's identical sentence.
-- **Investigated and closed**: the book spells this recurring fraudulent-Sequestor figure `Henrichs`, raising the question of whether the corpus's ~100+ `Honrichs` instances (including the 3-token `Hinrich`/`Heinrich`→`Honrichs` normalization at letters 43/179/284) were systematically wrong. Confirmed `Honrichs` is correct — the book's `Henrichs` is the biography author's own editorial spelling choice, not an authoritative period rendering. General takeaway: the book's proper-noun spellings are not treated as authoritative over the corpus's own internal evidence, particularly for Polish place names (flagged by the user in advance) but evidently for German names too.
+- **Investigated and closed**: whether `Hawich` and `Honrichs` had been wrongly merged. They hadn't â€” the two already co-occur as clearly distinct people dozens of times throughout the corpus, and the one place they were ever conflated (letter 48, L3684, a `Heinrich`â†’`Hawich` fix from an earlier round) is independently confirmed correct by Appendix 6's identical sentence.
+- **Investigated and closed**: the book spells this recurring fraudulent-Sequestor figure `Henrichs`, raising the question of whether the corpus's ~100+ `Honrichs` instances (including the 3-token `Hinrich`/`Heinrich`â†’`Honrichs` normalization at letters 43/179/284) were systematically wrong. Confirmed `Honrichs` is correct â€” the book's `Henrichs` is the biography author's own editorial spelling choice, not an authoritative period rendering. General takeaway: the book's proper-noun spellings are not treated as authoritative over the corpus's own internal evidence, particularly for Polish place names (flagged by the user in advance) but evidently for German names too.
 - **No corpus edits resulted.** `Honrichs` and `Hawich` both stand as already fixed.
-- §A (`23000`/`32000` Rthl) is independently corroborated by Appendix 6's `23000 Rth` reading (matching letter 48) but this is **not** being used to resolve it — the user is checking the original manuscripts directly for that one.
+- Â§A (`23000`/`32000` Rthl) is independently corroborated by Appendix 6's `23000 Rth` reading (matching letter 48) but this is **not** being used to resolve it â€” the user is checking the original manuscripts directly for that one.
 - Broader book integration (who's-who index, estate/property cross-reference, chapter-to-letter-date map) declined for now; revisit later if wanted.
 
 ## Liquidation register added (letter 303)
 
-`Auszug aus Den Fürstlich Hohenloheschen Liquidations Protocollen.xlsx - Edit.csv` — a 142-entry creditor register (undated) — was added to the project and integrated so it's searchable alongside the letters.
+`Auszug aus Den FÃ¼rstlich Hohenloheschen Liquidations Protocollen.xlsx - Edit.csv` â€” a 142-entry creditor register (undated) â€” was added to the project and integrated so it's searchable alongside the letters.
 
-- **Names standardized** against already-decided project canon (established fixes only, nothing new invented for this document): `Bornstaedt`→`Bornstädt`; `Stoessel`→`Stössel` (×2, plus the adjectival `Stoesselschen`→`Stösselschen`); `Koekritzschen`→`Köckritzschen`; `Schlabendorffschen`→`Schlabrendorffschen`. Everything else in the register — the large majority of the 142 names — has no established form in this project (they don't otherwise appear in the letters), so was left exactly as transcribed; existing `[?]` uncertainty markers (2, on rows 5 and 62) preserved as-is.
-- **Added to the corpus** as `[LETTER 303]`, appended at the end of the archival text file, each row rendered as one line (`N. Name — Gold X Rthl Y g Z d; Courant X Rthl Y g Z d`), using the same `Rthl`/`g`/`d` units already standard throughout the letters. The Gold/Courant distinction (two different period Reichsthaler denominations) is preserved exactly as given, not collapsed into one figure. Append-only edit — nothing in the existing corpus was touched; word count and line count both grew by exactly the amount added.
-- **Added to the database** as record 303 (317 total now), with a new `doc_type` column (`letter` for all prior records, `register` for this one) so it's distinguishable in queries. No date in the source — `date_precision=unknown`, `date_source=none`, same convention as the 5 undated/missing letters, sorts to the end of the chronological reading copy.
+- **Names standardized** against already-decided project canon (established fixes only, nothing new invented for this document): `Bornstaedt`â†’`BornstÃ¤dt`; `Stoessel`â†’`StÃ¶ssel` (Ã—2, plus the adjectival `Stoesselschen`â†’`StÃ¶sselschen`); `Koekritzschen`â†’`KÃ¶ckritzschen`; `Schlabendorffschen`â†’`Schlabrendorffschen`. Everything else in the register â€” the large majority of the 142 names â€” has no established form in this project (they don't otherwise appear in the letters), so was left exactly as transcribed; existing `[?]` uncertainty markers (2, on rows 5 and 62) preserved as-is.
+- **Added to the corpus** as `[LETTER 303]`, appended at the end of the archival text file, each row rendered as one line (`N. Name â€” Gold X Rthl Y g Z d; Courant X Rthl Y g Z d`), using the same `Rthl`/`g`/`d` units already standard throughout the letters. The Gold/Courant distinction (two different period Reichsthaler denominations) is preserved exactly as given, not collapsed into one figure. Append-only edit â€” nothing in the existing corpus was touched; word count and line count both grew by exactly the amount added.
+- **Added to the database** as record 303 (317 total now), with a new `doc_type` column (`letter` for all prior records, `register` for this one) so it's distinguishable in queries. No date in the source â€” `date_precision=unknown`, `date_source=none`, same convention as the 5 undated/missing letters, sorts to the end of the chronological reading copy.
 - Content-preservation and chronological-ordering checks re-verified after the addition (317 records, archival/chronological content line sets identical).
 
 ## Who's-who reference
 
-`whos_who.md` added — every person named in the letters (and the letter 303 register), cross-referenced against the biography for identity where possible. Each entry is labeled by evidence type: externally confirmed (real, independently documented historical figures, from Phase 2's Tier 1/2 research), book-confirmed (matched to the Seidel biography), context-inferred (a role guessed from how the letters/register describe the person, always flagged as uncertain rather than stated as fact), or role unclear. People who appear only in the book, not in the letters, are excluded per instruction. ~65 people individually profiled; the register's remaining ~134 one-off creditors listed using their own stated professions only, no further research.
+`whos_who.md` added â€” every person named in the letters (and the letter 303 register), cross-referenced against the biography for identity where possible. Each entry is labeled by evidence type: externally confirmed (real, independently documented historical figures, from Phase 2's Tier 1/2 research), book-confirmed (matched to the Seidel biography), context-inferred (a role guessed from how the letters/register describe the person, always flagged as uncertain rather than stated as fact), or role unclear. People who appear only in the book, not in the letters, are excluded per instruction. ~65 people individually profiled; the register's remaining ~134 one-off creditors listed using their own stated professions only, no further research.
 
 Two things worth follow-up, both left open rather than resolved:
-- **Possible family link**: the book's Ch. 2.3 concerns "Marianne Gräfin von Hoym," the Prince's own wife's birth family. The letters separately discuss a "Minister/Graf Hoym" (8 occurrences) and the register lists a "Fr. Gräfin Höym, geb. v Tauenzien" as a creditor — surname, era, and rank line up, but the letters never state the connection explicitly.
-- **Unresolved identity**: `Wedel` (letters 77/96/98) sits next to "Hoyms und Wedells" in letter 98, suggestive of a real contemporary Prussian official (Karl von Wedell), but not confirmed — the book's one `Wedel` hit is in an unrelated chapter.
+- **Possible family link**: the book's Ch. 2.3 concerns "Marianne GrÃ¤fin von Hoym," the Prince's own wife's birth family. The letters separately discuss a "Minister/Graf Hoym" (8 occurrences) and the register lists a "Fr. GrÃ¤fin HÃ¶ym, geb. v Tauenzien" as a creditor â€” surname, era, and rank line up, but the letters never state the connection explicitly.
+- **Unresolved identity**: `Wedel` (letters 77/96/98) sits next to "Hoyms und Wedells" in letter 98, suggestive of a real contemporary Prussian official (Karl von Wedell), but not confirmed â€” the book's one `Wedel` hit is in an unrelated chapter.
 
-## Who's-who update — Prusimska/Dąbska identity confirmed
+## Who's-who update â€” Prusimska/DÄ…bska identity confirmed
 
-User-provided identification: **Michalina Prusimska**, daughter of Antoni Prusimski (original owner of the Trąbczyn estates), later married and became **Dąmbska/Dąbska**. This directly matches text already in the corpus — L1858 (letter 28, 1807-10-05): "der Frau v Dąbska gebohrnen v Pru[simska]" ("née Prusimska") — and resolves what the who's-who had flagged only as an unconfirmed family link.
+User-provided identification: **Michalina Prusimska**, daughter of Antoni Prusimski (original owner of the TrÄ…bczyn estates), later married and became **DÄ…mbska/DÄ…bska**. This directly matches text already in the corpus â€” L1858 (letter 28, 1807-10-05): "der Frau v DÄ…bska gebohrnen v Pru[simska]" ("nÃ©e Prusimska") â€” and resolves what the who's-who had flagged only as an unconfirmed family link.
 
-Checking the dates of every Prusimska/Dąbska mention surfaced a further pattern: `Dąbska` is used consistently 1807–1811, then from late 1814 the letters instead use `Moscinska` / describe her husband as a Moszyński, with letter 266 (Jan 1815) hedging "Dąbska oder Moscinska" — exactly the line Phase 2 had flagged as possibly reflecting genuine period uncertainty rather than a transcription error. This chronology-based hypothesis of a second marriage was flagged to the user and **confirmed**: her second husband's real surname was **Miączyński**, not "Moscinski"/"Moszynski" as the letters render it — an error made by the original letter-writers themselves, not the AI transcription. Per project policy (only transcription errors get corrected, not period scribal/writer errors), the corpus text is left exactly as written; the correct identification is recorded in `whos_who.md` instead. No corpus text was changed — `Prusimska`, `Dąbska`, and `Moscinska` are genuinely different words the original writers used for the same person at different points in her life, not transcription variants of one name.
+Checking the dates of every Prusimska/DÄ…bska mention surfaced a further pattern: `DÄ…bska` is used consistently 1807â€“1811, then from late 1814 the letters instead use `Moscinska` / describe her husband as a MoszyÅ„ski, with letter 266 (Jan 1815) hedging "DÄ…bska oder Moscinska" â€” exactly the line Phase 2 had flagged as possibly reflecting genuine period uncertainty rather than a transcription error. This chronology-based hypothesis of a second marriage was flagged to the user and **confirmed**: her second husband's real surname was **MiÄ…czyÅ„ski**, not "Moscinski"/"Moszynski" as the letters render it â€” an error made by the original letter-writers themselves, not the AI transcription. Per project policy (only transcription errors get corrected, not period scribal/writer errors), the corpus text is left exactly as written; the correct identification is recorded in `whos_who.md` instead. No corpus text was changed â€” `Prusimska`, `DÄ…bska`, and `Moscinska` are genuinely different words the original writers used for the same person at different points in her life, not transcription variants of one name.
 
-## Web edition — Phase A (foundation)
+## Web edition â€” Phase A (foundation)
 
-A Jekyll site in `site/`, built to deploy to GitHub Pages with no custom plugins (Pages runs Jekyll in safe mode, which ignores them). Everything dynamic is either pre-generated by Python or done client-side in dependency-free JavaScript — no CDN, no external requests, so the site behaves identically offline and deployed.
+A Jekyll site in `site/`, built to deploy to GitHub Pages with no custom plugins (Pages runs Jekyll in safe mode, which ignores them). Everything dynamic is either pre-generated by Python or done client-side in dependency-free JavaScript â€” no CDN, no external requests, so the site behaves identically offline and deployed.
 
 - **`build_site_data.py`** (new) generates all 317 letter pages, `_data/people.yml`/`places.yml`/`stats.yml`, and the client-side search index from `letters.json`. Rerunnable; the corpus is never touched. It **asserts character-exact fidelity** and refuses to finish if any page's text differs from the corpus.
 - **`verify_site.py`** (new) checks the *built* site: every record has a page, every page's diplomatic text matches the corpus exactly, every internal link resolves, and no page references an external host. Currently: 317/317 exact, 6,201 links resolve, 0 external dependencies.
-- **Two text views per document.** *Diplomatic* is canonical and default — original line breaks, `¬` marks and `[?]` flags all intact. *Reading* flows lines into paragraphs; it is generated for legibility only and never stored as truth.
-  - The reading view joins a broken word only where evidence is unambiguous: at `¬`, and at a word-attached hyphen whose continuation starts lower case. Line-final hyphens followed by a capital were checked against the corpus and turned out to be genuinely mixed — real compounds (`Haupt-`+`Ersaz`) alongside the writer's habitual punctuation dash — so they are left exactly as written rather than silently merged.
-- **Faceted browse** with instant client-side filtering (year, person, place, condition, date certainty) and full-text search that is diacritic- and long-s-insensitive, so `Trabczyn` finds `Trąbczyn`.
+- **Two text views per document.** *Diplomatic* is canonical and default â€” original line breaks, `Â¬` marks and `[?]` flags all intact. *Reading* flows lines into paragraphs; it is generated for legibility only and never stored as truth.
+  - The reading view joins a broken word only where evidence is unambiguous: at `Â¬`, and at a word-attached hyphen whose continuation starts lower case. Line-final hyphens followed by a capital were checked against the corpus and turned out to be genuinely mixed â€” real compounds (`Haupt-`+`Ersaz`) alongside the writer's habitual punctuation dash â€” so they are left exactly as written rather than silently merged.
+- **Faceted browse** with instant client-side filtering (year, person, place, condition, date certainty) and full-text search that is diacritic- and long-s-insensitive, so `Trabczyn` finds `TrÄ…bczyn`.
 - **Timeline** combining letter-density per year, historical events from the biography's Zeittafel and chapters (each with its citation), and the six narrative movements. Events live in `_data/timeline.yml` for easy extension.
 - **People and Places indexes** generated from the corpus, with per-person occurrence counts and links to every appearance.
 - **"About this edition"** page documenting the AI-transcription provenance, every editorial mark, the four ways documents are dated, the currency system, the bundled/duplicate documents, and what remains unresolved.
 - **Translation scaffolding** in place: the letter layout renders `_data/translations/*.yml` with a status badge when present, and says plainly that a document is untranslated when not. Nothing about translation touches the canonical corpus.
 - **`.gitignore`** added at the project root that excludes the copyrighted Seidel biography from any future repository, alongside build output and backups.
 
-Bug caught during verification and fixed at source: Liquid treats the empty string as *truthy*, so empty metadata fields were rendering "part of letter", "duplicate of letter ␣", and a false `[supplied]` badge on every page. The generator now emits real YAML nulls for absent values.
+Bug caught during verification and fixed at source: Liquid treats the empty string as *truthy*, so empty metadata fields were rendering "part of letter", "duplicate of letter â£", and a false `[supplied]` badge on every page. The generator now emits real YAML nulls for absent values.
 
-Still to come: theme tagging pass with review report (Phase B), translations (Phase C), publication (Phase D — gated on the archive-permissions question).
+Still to come: theme tagging pass with review report (Phase B), translations (Phase C), publication (Phase D â€” gated on the archive-permissions question).
 
 ## Line-break resolution and the page-based three-view edition
 
-The transcription's word-continuation marks turned out to be unreliable, which blocked any readable text. Of the **1,314** line-end marks in the corpus, **484 (37%) join nothing** — `die¬`+`serhalb` really is *dieserhalb*, but `die¬`+`nöthigsten` is two words and the mark is simply an error.
+The transcription's word-continuation marks turned out to be unreliable, which blocked any readable text. Of the **1,314** line-end marks in the corpus, **484 (37%) join nothing** â€” `dieÂ¬`+`serhalb` really is *dieserhalb*, but `dieÂ¬`+`nÃ¶thigsten` is two words and the mark is simply an error.
 
-- **Every mark decided on evidence**, not assumption (`resolve_linebreaks.py`). Two sources: this corpus itself (which knows period spelling), and the **DWDS frequency API** — lemma-aware, so inflected forms resolve (`Mitgliedern` → *Mitglied*, 12.0M hits), and covering historical German. A modern offline dictionary was rejected as unfit: it misjudges `laßen`, `nöthigsten` and the long-s forms. Threshold for "real word" set at 1,000 corpus hits, chosen from the observed gap between real words (thousands to millions) and proper-name noise (`denich` 414, `derdurch` 41). Lookups cached to `dwds_cache.json`, so re-runs are free and offline.
-- **Result: 825 joins, 484 non-joins, 5 catchwords, 19 flagged** for checking against the originals — down from 527 unresolved when corpus evidence alone was used.
-- **Catchwords discovered.** Five pages end with the scribal habit of writing the next page's first word at the foot of the current one (133 `Con¬`→`Contract`, 140 `Vor-`→`Vorwerk`, 168 `Win¬`→`Winnickischen`, 177 `be¬`→`benennung`, 235 `ver-`→`verliehren`). Joining these would manufacture "ConContract". They stay in the diplomatic view and are dropped from the reading copy.
-- **Two possible lacunae found** while reading the cross-page cases: letter 223 has `Güter ange¬` never completed, and `entweder ver¬ / oder aufgegeben` missing its word — both recorded in `linebreak_report.md`. Letter 136's `Collo¬`+`Mitten` is almost certainly a mis-transcribed *Collonisten*.
-- **`linebreak_decisions.csv`** — one row per wrap with the full evidence, **hand-editable**. Change a `decision` cell and regenerate; nothing is buried in code.
+- **Every mark decided on evidence**, not assumption (`resolve_linebreaks.py`). Two sources: this corpus itself (which knows period spelling), and the **DWDS frequency API** â€” lemma-aware, so inflected forms resolve (`Mitgliedern` â†’ *Mitglied*, 12.0M hits), and covering historical German. A modern offline dictionary was rejected as unfit: it misjudges `laÃŸen`, `nÃ¶thigsten` and the long-s forms. Threshold for "real word" set at 1,000 corpus hits, chosen from the observed gap between real words (thousands to millions) and proper-name noise (`denich` 414, `derdurch` 41). Lookups cached to `dwds_cache.json`, so re-runs are free and offline.
+- **Result: 825 joins, 484 non-joins, 5 catchwords, 19 flagged** for checking against the originals â€” down from 527 unresolved when corpus evidence alone was used.
+- **Catchwords discovered.** Five pages end with the scribal habit of writing the next page's first word at the foot of the current one (133 `ConÂ¬`â†’`Contract`, 140 `Vor-`â†’`Vorwerk`, 168 `WinÂ¬`â†’`Winnickischen`, 177 `beÂ¬`â†’`benennung`, 235 `ver-`â†’`verliehren`). Joining these would manufacture "ConContract". They stay in the diplomatic view and are dropped from the reading copy.
+- **Two possible lacunae found** while reading the cross-page cases: letter 223 has `GÃ¼ter angeÂ¬` never completed, and `entweder verÂ¬ / oder aufgegeben` missing its word â€” both recorded in `linebreak_report.md`. Letter 136's `ColloÂ¬`+`Mitten` is almost certainly a mis-transcribed *Collonisten*.
+- **`linebreak_decisions.csv`** â€” one row per wrap with the full evidence, **hand-editable**. Change a `decision` cell and regenerate; nothing is buried in code.
 
-**Structure: letters are now made of pages.** The corpus's blank lines (page breaks preserved back in Phase 1) yield **913 manuscript pages**. The letter remains the unit of navigation, citation and search — pages are structure inside it, so text always stays beside the right scan when images are added. Each page carries a `scan` slot, empty for now, so adding images later is a data change rather than a re-architecture.
+**Structure: letters are now made of pages.** The corpus's blank lines (page breaks preserved back in Phase 1) yield **913 manuscript pages**. The letter remains the unit of navigation, citation and search â€” pages are structure inside it, so text always stays beside the right scan when images are added. Each page carries a `scan` slot, empty for now, so adding images later is a data change rather than a re-architecture.
 
-- **Three views** on the site: *Diplomatic* (one line per manuscript line, numbered to the archival file, marks intact — canonical), *Reading* (wraps resolved, lines flowed, never the text of record), *English* (per page, empty until translated).
+- **Three views** on the site: *Diplomatic* (one line per manuscript line, numbered to the archival file, marks intact â€” canonical), *Reading* (wraps resolved, lines flowed, never the text of record), *English* (per page, empty until translated).
 - **New artefacts**: `von_Triebenfeld_..._reading.txt` (generated fair copy, every page labelled with its archival line range), `pages.csv` (one row per manuscript page, ready for scan matching), plus `text_reading`/`pages`/`n_pages` in the database.
 - **`build_db.py` moved out of the temporary session scratchpad into the project**, so the whole pipeline is durable and self-contained.
 
-The archival text was **not touched**. Verification enforces it: pages must reconstruct each letter, the reading copy must contain the same letters in the same order (catchword pages excepted by design), and every built page must reproduce its archival lines character-for-character. All pass — 317 letters, 913 pages, 6,201 internal links, zero external fetches.
+The archival text was **not touched**. Verification enforces it: pages must reconstruct each letter, the reading copy must contain the same letters in the same order (catchword pages excepted by design), and every built page must reproduce its archival lines character-for-character. All pass â€” 317 letters, 913 pages, 6,201 internal links, zero external fetches.
 
 ## Matching scans to transcribed pages
 
-`pages/` holds 874 curated JPEGs (1.08 GB) against 913 transcribed pages — a 39-page shortfall to explain.
+`pages/` holds 874 curated JPEGs (1.08 GB) against 913 transcribed pages â€” a 39-page shortfall to explain.
 
-- **The gap is not missing scans.** Blank images (blank versos, unused spread halves) were deliberately deleted before this work, so 146 captures have a pruned counterpart — expected, and documented rather than flagged as damage. But pruning cannot cost a transcript page: a blank page was never transcribed. The real cause is **over-segmentation of the transcript**.
-- **38 short blocks are almost certainly not page breaks** — against a shortfall of 39, which essentially closes it. They are datelines (19), signature blocks (7), salutations (4) and other very short fragments (8) that the transcriber set off with a blank line; Phase 1 read every blank line as a page break and turned each into its own "page". Examples: `Wien d. 6ten May 1815.`, `treu unterthänigsten Diener v Triebenfeld`, `Gnädigster Fürst und Herr!`. **The fix belongs in the corpus** (remove the blank line), not in the mapping.
+- **The gap is not missing scans.** Blank images (blank versos, unused spread halves) were deliberately deleted before this work, so 146 captures have a pruned counterpart â€” expected, and documented rather than flagged as damage. But pruning cannot cost a transcript page: a blank page was never transcribed. The real cause is **over-segmentation of the transcript**.
+- **38 short blocks are almost certainly not page breaks** â€” against a shortfall of 39, which essentially closes it. They are datelines (19), signature blocks (7), salutations (4) and other very short fragments (8) that the transcriber set off with a blank line; Phase 1 read every blank line as a page break and turned each into its own "page". Examples: `Wien d. 6ten May 1815.`, `treu unterthÃ¤nigsten Diener v Triebenfeld`, `GnÃ¤digster FÃ¼rst und Herr!`. **The fix belongs in the corpus** (remove the blank line), not in the mapping.
 - **`match_scans.py`** aligns captures to letters by dynamic programming, minimising per-letter page-count mismatch while preserving order and treating each capture as atomic. Result: 856 pages matched, 57 gaps, 18 surplus images, all 874 images assigned, none twice, capture order strictly increasing.
-- **`scan_inventory.md`** — capture composition, the pruning record, the 38 not-a-page-break candidates with their blank-line positions, and the per-letter excess list.
-- **`page_scan_map.csv`** — one row per transcript page with its proposed image; hand-editable, and the file the pipeline will read.
-- **`scan_review.html`** — a standalone reviewer opened by double-clicking. Shows each page's text beside its proposed image, referencing `pages/` **in place** so the 1.08 GB is never duplicated. Four actions per row (confirm / no image / drop image / merge into previous), corrections re-flow the alignment live, state persists in the browser, and "Copy as CSV" round-trips back into the map. The 38 suspects are highlighted, and merges are collected separately because they are corpus fixes rather than mapping fixes.
+- **`scan_inventory.md`** â€” capture composition, the pruning record, the 38 not-a-page-break candidates with their blank-line positions, and the per-letter excess list.
+- **`page_scan_map.csv`** â€” one row per transcript page with its proposed image; hand-editable, and the file the pipeline will read.
+- **`scan_review.html`** â€” a standalone reviewer opened by double-clicking. Shows each page's text beside its proposed image, referencing `pages/` **in place** so the 1.08 GB is never duplicated. Four actions per row (confirm / no image / drop image / merge into previous), corrections re-flow the alignment live, state persists in the browser, and "Copy as CSV" round-trips back into the map. The 38 suspects are highlighted, and merges are collected separately because they are corpus fixes rather than mapping fixes.
 
-- **Anchoring** added to the reviewer: type the letter an image actually belongs to, and it pins that image to that letter's first page while everything downstream re-flows to follow. This makes the corpus fixable by jumping to any point, stating one known fact, and letting the sequence fall into place — rather than clicking through 900 rows in order. Anchors are keyed by filename so they survive re-alignment, and the reviewer reports the two failure modes: an anchor that would reuse already-assigned images (flagged as a conflict) and one that strands images (visible in the leftover counter). Verified against the generated file with Node: JS parses, anchoring shifts downstream letters as intended, and both failure modes are caught.
+- **Anchoring** added to the reviewer: type the letter an image actually belongs to, and it pins that image to that letter's first page while everything downstream re-flows to follow. This makes the corpus fixable by jumping to any point, stating one known fact, and letting the sequence fall into place â€” rather than clicking through 900 rows in order. Anchors are keyed by filename so they survive re-alignment, and the reviewer reports the two failure modes: an anchor that would reuse already-assigned images (flagged as a conflict) and one that strands images (visible in the leftover counter). Verified against the generated file with Node: JS parses, anchoring shifts downstream letters as intended, and both failure modes are caught.
 
-- **Front matter (`0`)** — entering `0` marks an image as belonging to no letter at all (the series title page). It leaves the sequence entirely, so everything after shifts up by one, and it is held in a panel with thumbnails and a *Put back* button rather than being discarded. Exported with status `front_matter`.
-- **Proposing new letters** — typing an ID the corpus doesn't have (e.g. `1a`, when the scans show transcript letter 1 is really two documents) records it as a **proposal** rather than an anchor, because the corpus has no pages for it until the text is split. Proposals collect in their own panel showing which existing letter and page the image currently sits in, and export with status `starts_new_letter` plus a `new_letter` column. A new sub-lettered ID whose base number doesn't exist (a likely typo, e.g. `9999a`) prompts for confirmation instead of being silently accepted.
+- **Front matter (`0`)** â€” entering `0` marks an image as belonging to no letter at all (the series title page). It leaves the sequence entirely, so everything after shifts up by one, and it is held in a panel with thumbnails and a *Put back* button rather than being discarded. Exported with status `front_matter`.
+- **Proposing new letters** â€” typing an ID the corpus doesn't have (e.g. `1a`, when the scans show transcript letter 1 is really two documents) records it as a **proposal** rather than an anchor, because the corpus has no pages for it until the text is split. Proposals collect in their own panel showing which existing letter and page the image currently sits in, and export with status `starts_new_letter` plus a `new_letter` column. A new sub-lettered ID whose base number doesn't exist (a likely typo, e.g. `9999a`) prompts for confirmation instead of being silently accepted.
 
-**Sequencing note for the splits:** applying a proposal means inserting a `[LETTER 1a]` tag at the right line of the archival text. Everything downstream then re-derives itself — `build_db.py` re-splits pages on blank lines, re-parses the date from the letter's own text, and assigns `parent_letter` from the ID, exactly as it already does for the 72a–72f and 179/179a splits. No separate date entry is needed unless the parser gets it wrong.
+**Sequencing note for the splits:** applying a proposal means inserting a `[LETTER 1a]` tag at the right line of the archival text. Everything downstream then re-derives itself â€” `build_db.py` re-splits pages on blank lines, re-parses the date from the letter's own text, and assigns `parent_letter` from the ID, exactly as it already does for the 72aâ€“72f and 179/179a splits. No separate date entry is needed unless the parser gets it wrong.
 
 Letter 9 (missing in the archive) and letter 303 (the register, from a different source) are correctly excluded from matching rather than forced onto images. Nothing in the corpus, database or `pages/` was modified.
 
@@ -153,28 +153,28 @@ Still to come: apply confirmed merges to the corpus, then fill the `scan` slot i
 
 ## Scan review applied to the corpus
 
-The visual review of all 872 images against the transcript produced its first round of corrections, now applied. The archival text was edited only by adding four letter tags and removing four blank lines — **no letter text changed**, verified by comparing the 20,756 non-tag content lines before and after (byte-identical).
+The visual review of all 872 images against the transcript produced its first round of corrections, now applied. The archival text was edited only by adding four letter tags and removing four blank lines â€” **no letter text changed**, verified by comparing the 20,756 non-tag content lines before and after (byte-identical).
 
-**Two letters split** — the scans showed one archival number holding two documents. Boundaries verified individually: each follows a dateline or signature and opens with a fresh salutation.
+**Two letters split** â€” the scans showed one archival number holding two documents. Boundaries verified individually: each follows a dateline or signature and opens with a fresh salutation.
 
 | New letter | Split from | Evidence |
 |---|---|---|
-| **1a** | letter 1, at line 67 | previous ends *"Schlawenschitz den 29ten Januar 1815"*; new opens *"Durchlauchtigster Fürst"*. Dateline *"Wien d. 12. in Febr. 1815"* — the parser caught month and year but not the day, so **12 Feb 1815** is supplied. |
-| **72 / 72a** | old 72a was two documents | pages 1–4 address the *Kriegs- und Forstrath* (now letter **72**); pages 5–8 open *"Durchlauchtigster Fürst"* (now **72a**). The bare number 72 finally has a record, so the sub-letters' parent link resolves. |
+| **1a** | letter 1, at line 67 | previous ends *"Schlawenschitz den 29ten Januar 1815"*; new opens *"Durchlauchtigster FÃ¼rst"*. Dateline *"Wien d. 12. in Febr. 1815"* â€” the parser caught month and year but not the day, so **12 Feb 1815** is supplied. |
+| **72 / 72a** | old 72a was two documents | pages 1â€“4 address the *Kriegs- und Forstrath* (now letter **72**); pages 5â€“8 open *"Durchlauchtigster FÃ¼rst"* (now **72a**). The bare number 72 finally has a record, so the sub-letters' parent link resolves. |
 
-Two further splits were made and then **reverted at your instruction**: `13a` (letter 13 stays whole) and `20a` (letter 20 stays whole, its enclosed *Abschrift* to the banker van der Lahr remaining part of the letter). Removing the tags restored both letters exactly — the blank lines that had preceded the tags went back to being ordinary page breaks, and the letter text was never touched.
+Two further splits were made and then **reverted at your instruction**: `13a` (letter 13 stays whole) and `20a` (letter 20 stays whole, its enclosed *Abschrift* to the banker van der Lahr remaining part of the letter). Removing the tags restored both letters exactly â€” the blank lines that had preceded the tags went back to being ordinary page breaks, and the letter text was never touched.
 
-**Four page merges applied** — blank lines that were separating a dateline or signature from its own page, not marking a page break: letters 146, 237, 254 (merge into previous) and 303 (the register's title line, merge into next).
+**Four page merges applied** â€” blank lines that were separating a dateline or signature from its own page, not marking a page break: letters 146, 237, 254 (merge into previous) and 303 (the register's title line, merge into next).
 
-**Findings recorded rather than silently absorbed** — see `NEEDS_CONFIRMATION.md` §E–§H: 9 scanned pages with no transcribed text (including four consecutive sheets, captures 0543–0546, at the very end of the Büschel), 1 transcribed page with no scan (letter 231 page 2), 6 images excluded as front matter or not-pages, and a mis-transcribed year in letter 237 (`1873` for 1813).
+**Findings recorded rather than silently absorbed** â€” see `NEEDS_CONFIRMATION.md` Â§Eâ€“Â§H: 9 scanned pages with no transcribed text (including four consecutive sheets, captures 0543â€“0546, at the very end of the BÃ¼schel), 1 transcribed page with no scan (letter 231 page 2), 6 images excluded as front matter or not-pages, and a mis-transcribed year in letter 237 (`1873` for 1813).
 
-Result: **318 documents, 862 pages, 872 images.** All verifications pass — pages reconstruct their letters, reading copy lossless, every archival line character-exact on the site, 6,214 links resolve.
+Result: **318 documents, 862 pages, 872 images.** All verifications pass â€” pages reconstruct their letters, reading copy lossless, every archival line character-exact on the site, 6,214 links resolve.
 
 ## Scan mapping completed
 
 The image-level review decisions were moved out of browser storage and into **`scan_decisions.json`**, which `match_scans.py` now reads. They therefore survive every regeneration, and the reviewer opens on the corrected state instead of resetting to naive folder order.
 
-Recorded: 1 front-matter image (`0001_a`, the series title page), 5 images that are not manuscript pages, 1 image left untranscribed on purpose (`0345_a2` — a list of calculation figures only, **not** a missing page; the reason is stored in the file's `notes` so it can't later be mistaken for a gap to fill), and a corrected reading order — `0345_a2` before `0344_a1`, where a spread's halves had been photographed across two captures.
+Recorded: 1 front-matter image (`0001_a`, the series title page), 5 images that are not manuscript pages, 1 image left untranscribed on purpose (`0345_a2` â€” a list of calculation figures only, **not** a missing page; the reason is stored in the file's `notes` so it can't later be mistaken for a gap to fill), and a corrected reading order â€” `0345_a2` before `0344_a1`, where a spread's halves had been photographed across two captures.
 
 **The mapping is now complete and fully accounted for:**
 
@@ -184,39 +184,39 @@ Recorded: 1 front-matter image (`0001_a`, the series title page), 5 images that 
 | Paired to a transcript page | 865 |
 | Set aside with a stated reason | 7 |
 | Unexplained surplus | **0** |
-| Pages with no image | 4 — letters 121, 181, 225, 293, the archive's own missing numbers |
+| Pages with no image | 4 â€” letters 121, 181, 225, 293, the archive's own missing numbers |
 
-Splitting letter 303 into 9 pages resolved the long-standing tail surplus: the trailing captures 0543–0546 turned out to be the register's own pages, not untranscribed documents. `NEEDS_CONFIRMATION.md` §E and §F have been narrowed accordingly.
+Splitting letter 303 into 9 pages resolved the long-standing tail surplus: the trailing captures 0543â€“0546 turned out to be the register's own pages, not untranscribed documents. `NEEDS_CONFIRMATION.md` Â§E and Â§F have been narrowed accordingly.
 
-Two markers in the export were **deliberately not applied** — the proposed splits `13a` and `20a`, which had been made and then reverted at your instruction. Anchors persist in the browser by filename, so they re-exported; re-applying them would have silently undone the reversion.
+Two markers in the export were **deliberately not applied** â€” the proposed splits `13a` and `20a`, which had been made and then reverted at your instruction. Anchors persist in the browser by filename, so they re-exported; re-applying them would have silently undone the reversion.
 
 Verification was tightened rather than relaxed to accommodate the custom order: the mapping is now checked against the *intended* sequence (folder order, or the corrected order when one is recorded), with front matter, drops and no-text images excluded from that check since they sit outside the sequence by design.
 
 ## Letter 237's year corrected
 
-The dateline had been transcribed `d. 29ten April 1873` — impossible, and previously worked around with a supplied date of 29 April 1813. You corrected the digit in the archival text, so **the supplied-date override was removed**: the parser now reads 1813 from the manuscript itself (`date_source: signature` rather than `supplied`). One fewer manual override masking what the text actually says.
+The dateline had been transcribed `d. 29ten April 1873` â€” impossible, and previously worked around with a supplied date of 29 April 1813. You corrected the digit in the archival text, so **the supplied-date override was removed**: the parser now reads 1813 from the manuscript itself (`date_source: signature` rather than `supplied`). One fewer manual override masking what the text actually says.
 
-`NEEDS_CONFIRMATION.md` was then trimmed to the three genuinely outstanding items — the 23,000/32,000 discrepancy, the 224 uncertainty markers, and the 5 damaged blocks — with the resolved sections folded into this changelog. Two of the three are now far more tractable than before: since every page has a matching scan, checking an uncertain reading or a damaged block is a matter of looking at the image rather than hunting for it.
+`NEEDS_CONFIRMATION.md` was then trimmed to the three genuinely outstanding items â€” the 23,000/32,000 discrepancy, the 224 uncertainty markers, and the 5 damaged blocks â€” with the resolved sections folded into this changelog. Two of the three are now far more tractable than before: since every page has a matching scan, checking an uncertain reading or a damaged block is a matter of looking at the image rather than hunting for it.
 
 ## Scans wired into the edition
 
-**Images renamed** to be ASCII and self-describing, so URLs no longer carry an encoded `ü` and spaces:
+**Images renamed** to be ASCII and self-describing, so URLs no longer carry an encoded `Ã¼` and spaces:
 
 ```
-Oe 1_Bü 9454_0343_a1.jpg   ->   Oe_1_Bu_9454_0343_a1-L179a_04.jpg
+Oe 1_BÃ¼ 9454_0343_a1.jpg   ->   Oe_1_Bu_9454_0343_a1-L179a_04.jpg
 ```
 
-`<signature>_<capture>_<crop><half>-<label>`, where the label is `L{letter}_{page}` for a mapped page, or `front` / `notext` / `notapage` for the seven set aside. The capture and crop still carry the archival identity, so nothing is lost, and **`scan_rename_map.json` records every original name** — the rename is fully reversible. All 872 renamed in one pass via temporary names so a rename could never clobber an existing file; zero collisions.
+`<signature>_<capture>_<crop><half>-<label>`, where the label is `L{letter}_{page}` for a mapped page, or `front` / `notext` / `notapage` for the seven set aside. The capture and crop still carry the archival identity, so nothing is lost, and **`scan_rename_map.json` records every original name** â€” the rename is fully reversible. All 872 renamed in one pass via temporary names so a rename could never clobber an existing file; zero collisions.
 
-**Web derivatives** — `make_scan_derivatives.py` produces 1100px copies into `site/assets/scans/`: **231 MB**, against 1.08 GB of originals, generated in under a minute. 1100px was chosen after measuring three widths; it reads Kurrentschrift comfortably and sits well inside the GitHub Pages limit. Re-running skips anything already current. **`pages/` is now gitignored** — the full-resolution originals stay local as archival masters and are never published.
+**Web derivatives** â€” `make_scan_derivatives.py` produces 1100px copies into `site/assets/scans/`: **231 MB**, against 1.08 GB of originals, generated in under a minute. 1100px was chosen after measuring three widths; it reads Kurrentschrift comfortably and sits well inside the GitHub Pages limit. Re-running skips anything already current. **`pages/` is now gitignored** â€” the full-resolution originals stay local as archival masters and are never published.
 
-**Two panes per manuscript page** — the scan on the left, its own text on the right, so image and transcription sit together rather than being toggled between. The image stays in view while its page's text scrolls. Tabs now switch only the text (Diplomatic / Reading / English), and a *hide scans* checkbox gives the text full width for straight reading. Both preferences persist between letters.
+**Two panes per manuscript page** â€” the scan on the left, its own text on the right, so image and transcription sit together rather than being toggled between. The image stays in view while its page's text scrolls. Tabs now switch only the text (Diplomatic / Reading / English), and a *hide scans* checkbox gives the text full width for straight reading. Both preferences persist between letters.
 
-**The reviewed pairing is now the source of truth.** The mapping had been *recomputed* on every run by pairing pages and images sequentially — so it kept drifting away from what had actually been checked by eye. That was the wrong architecture: a pairing established by looking at the scans is evidence, not something to re-derive. `scan_decisions.json` now holds `pairs` (865 page→image assignments) and `gaps` (4 pages confirmed to have no scan), taken from the review and applied verbatim. Only pages the review doesn't cover fall back to sequential fill.
+**The reviewed pairing is now the source of truth.** The mapping had been *recomputed* on every run by pairing pages and images sequentially â€” so it kept drifting away from what had actually been checked by eye. That was the wrong architecture: a pairing established by looking at the scans is evidence, not something to re-derive. `scan_decisions.json` now holds `pairs` (865 pageâ†’image assignments) and `gaps` (4 pages confirmed to have no scan), taken from the review and applied verbatim. Only pages the review doesn't cover fall back to sequential fill.
 
-This came out of a real misalignment: letter 48's second page was showing the wrong scan. The cause was a rule I had added that **assumed** archival numbers recorded as missing could have no scan, so numbers 9, 121, 181, 225 and 293 were made to take no image. Four of those were right — but **letter 9 does have a physical page behind it**, as the review recorded, and skipping it shifted every pairing after it by one. An assumption about the archive was overriding an observation of it.
+This came out of a real misalignment: letter 48's second page was showing the wrong scan. The cause was a rule I had added that **assumed** archival numbers recorded as missing could have no scan, so numbers 9, 121, 181, 225 and 293 were made to take no image. Four of those were right â€” but **letter 9 does have a physical page behind it**, as the review recorded, and skipping it shifted every pairing after it by one. An assumption about the archive was overriding an observation of it.
 
-**Letter 303 was also still flagged as "not part of this Büschel."** The scans disprove it: the trailing captures are the register's own pages. It now takes images like any other document, and all nine of its pages have one.
+**Letter 303 was also still flagged as "not part of this BÃ¼schel."** The scans disprove it: the trailing captures are the register's own pages. It now takes images like any other document, and all nine of its pages have one.
 
 **Filename labels made self-maintaining.** The `-L<letter>_<page>` part of each filename is *derived* from the mapping, so fixing those two bugs left 846 of 864 labels stale and actively misleading. `relabel_scans.py` recomputes them from `page_scan_map.csv`, renames via temporary names, and carries `scan_decisions.json` and `scan_rename_map.json` across. It runs in report-only mode at the end of every `regenerate.py`, so drift is caught rather than discovered later; renaming stays a deliberate `--apply`.
 
@@ -224,116 +224,116 @@ Verification extended, and now includes the check that matters most: **every bui
 
 ## The transcription layer replaces the diplomatic view
 
-The first view is now **Transcription**, not Diplomatic: the manuscript's own line breaks are kept, but the line-end marks are resolved. Where a word really is broken it carries a plain hyphen (`abge-` / `nommen`); where the mark was spurious it is gone. The rename matters — a corrected text should not be called diplomatic — and `About the edition` now sets out what has been changed and why.
+The first view is now **Transcription**, not Diplomatic: the manuscript's own line breaks are kept, but the line-end marks are resolved. Where a word really is broken it carries a plain hyphen (`abge-` / `nommen`); where the mark was spurious it is gone. The rename matters â€” a corrected text should not be called diplomatic â€” and `About the edition` now sets out what has been changed and why.
 
 The archival text is untouched and still canonical. A build-time check enforces the relationship: the transcription may differ from it **only on lines carrying a recorded decision, and only in the line-end mark, never in a word**. Anything else fails the build.
 
-**Three orphan marks found** while adding that check — `¬` on a line whose next line holds only figures, so there is nothing to continue into (two are table rows, one a dateline). They had fallen through the wrap collector entirely and had no decision at all. They are now a category of their own, `orphan`, and the mark is removed.
+**Three orphan marks found** while adding that check â€” `Â¬` on a line whose next line holds only figures, so there is nothing to continue into (two are table rows, one a dateline). They had fallen through the wrap collector entirely and had no decision at all. They are now a category of their own, `orphan`, and the mark is removed.
 
 **A verification bug of my own, caught and fixed.** The new check used variable names `a` and `b`, shadowing the outer variables holding the archival-vs-chronological comparison. That silently reduced a 20,750-line check to a 13-line one comparing a page against itself, and reported "identical content: True" on the strength of it. Renamed, and the real check restored.
 
-## Spelling audit — report only, nothing applied
+## Spelling audit â€” report only, nothing applied
 
-`spelling_audit.py` looks for demonstrable transcription slips in ordinary words. The bar is deliberately high, because **63% of the distinct words here appear exactly once** and the text is full of correct period forms (*laßen*, *seyn*, *nöthig*, *Ewr*). A candidate must be rare here, have a near neighbour at least 10× more common, differ by a confusion this transcription is known to make, and be unknown to DWDS while its neighbour is attested.
+`spelling_audit.py` looks for demonstrable transcription slips in ordinary words. The bar is deliberately high, because **63% of the distinct words here appear exactly once** and the text is full of correct period forms (*laÃŸen*, *seyn*, *nÃ¶thig*, *Ewr*). A candidate must be rare here, have a near neighbour at least 10Ã— more common, differ by a confusion this transcription is known to make, and be unknown to DWDS while its neighbour is attested.
 
 Getting to a usable list took three passes, and the discards are worth recording:
 
-- **1,131 candidates** at first — mostly junk. Any four-letter word is one edit from *und*, *die*, *der*, so `dire` (French), `Rich.` (an abbreviation) and `Diet` (a surname) were all "corrections".
-- **Tightened** to a six-letter minimum, eight for dropped/added letters → 335, but now dominated by **German inflection**: `Fürstens` (genitive) and `hochfürstlicher` (dative) are correct, not errors. Differences confined to a final *e/n/r/s/m* are now excluded as grammar.
-- **Checked each survivor against DWDS** → any rare form that is itself a real German word was dropped: *Kasten* is a box, *erkalten* is to grow cold.
-- **Two faults in my own word extraction**, each inventing errors: a stray diacritic split `şondern` into `ondern` (proposed as a slip for *andern*), and line-wrap fragments were counted as words (`Nachrich-` proposed as a slip for *Nachricht*).
+- **1,131 candidates** at first â€” mostly junk. Any four-letter word is one edit from *und*, *die*, *der*, so `dire` (French), `Rich.` (an abbreviation) and `Diet` (a surname) were all "corrections".
+- **Tightened** to a six-letter minimum, eight for dropped/added letters â†’ 335, but now dominated by **German inflection**: `FÃ¼rstens` (genitive) and `hochfÃ¼rstlicher` (dative) are correct, not errors. Differences confined to a final *e/n/r/s/m* are now excluded as grammar.
+- **Checked each survivor against DWDS** â†’ any rare form that is itself a real German word was dropped: *Kasten* is a box, *erkalten* is to grow cold.
+- **Two faults in my own word extraction**, each inventing errors: a stray diacritic split `ÅŸondern` into `ondern` (proposed as a slip for *andern*), and line-wrap fragments were counted as words (`Nachrich-` proposed as a slip for *Nachricht*).
 
-**106 candidates** remain, and the strong ones are unambiguous — `Durchaucht` → *Durchlaucht*, `Grädigster` → *Gnädigster*, `Schreibn` → *Schreiben*, `erſterebe` → *ersterbe*, `Geſehichte` → *Geschichte*. Some still need your judgement: `Antworth` may simply be period spelling. See `spelling_audit.md`; nothing applied at this stage — the accept/reject pass is the next section.
+**106 candidates** remain, and the strong ones are unambiguous â€” `Durchaucht` â†’ *Durchlaucht*, `GrÃ¤digster` â†’ *GnÃ¤digster*, `Schreibn` â†’ *Schreiben*, `erÅ¿terebe` â†’ *ersterbe*, `GeÅ¿ehichte` â†’ *Geschichte*. Some still need your judgement: `Antworth` may simply be period spelling. See `spelling_audit.md`; nothing applied at this stage â€” the accept/reject pass is the next section.
 
-## Spelling audit — applied
+## Spelling audit â€” applied
 
-The 106 candidates from the report above were read one by one against the manuscript context. **66 accepted, 40 kept.** The 66 touch 72 token instances (six forms — `Triebenfeldt`, `Schreibn`, `Fürstern`, `gestandt`, `umsamehr`, `Liefster` — occur twice). Applied root-only to `von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt`, one pinned `(line, whole-word old → new)` at a time, backup at `von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt.bak5`, then `regenerate.py`: transcription still differs from the archival text only on decided line-end marks, reading copy lossless, 20,750 archival lines = 20,750 chronological lines, every built site page character-exact.
+The 106 candidates from the report above were read one by one against the manuscript context. **66 accepted, 40 kept.** The 66 touch 72 token instances (six forms â€” `Triebenfeldt`, `Schreibn`, `FÃ¼rstern`, `gestandt`, `umsamehr`, `Liefster` â€” occur twice). Applied root-only to `von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt`, one pinned `(line, whole-word old â†’ new)` at a time, backup at `von_Triebenfeld_Hohenlohe-Ingelfingen_cleaned.txt.bak5`, then `regenerate.py`: transcription still differs from the archival text only on decided line-end marks, reading copy lossless, 20,750 archival lines = 20,750 chronological lines, every built site page character-exact.
 
-What went in: corrupted honorifics and formulae (`Durchaucht`→*Durchlaucht*, `Grädigster`→*Gnädigster*, `Durchlauchtigter`→*Durchlauchtigster*, `Liefster`→*Tiefster* ×2, `erſterebe`→*ersterbe*); place and person names against project canon (`Schlawerschitz`/`Schlawentschitz`/`Schlowenschitz`→*Schlawenschitz*, `Worſchau`/`Warschan`→*Warschau*, `Triebenfeldt`→*Triebenfeld* ×2, `Brzechsa`/`Berzechsta`/`Brezechsta`→*Brzechsta*, `Zagorowa`→*Zagorowo*, `Zerbani`→*Zerboni*, `Palajewo`→*Polajewo*, `Königberg`→*Königsberg*, `Scherck`→*Schenck*); the recurring excrescent-*r* cluster (`Fürstern`/`tiefstern`/`höchstern`/`Sonstern`/`Bemühern`/`einreichern` → *-en*); single visual confusions producing non-words (`ſerden`→*senden*, `wünden`→*würden*, `läglich`→*täglich*, `Nußland`→*Rußland*, `geweldet`→*gemeldet*, `geſchieben`→*geschrieben*, `Geſchiehte`/`Geſehichte`→*Geschichte*, `Augenblik`→*Augenblick*, `glüklich`→*glücklich*, `dardurch`→*dadurch*, `wordurch`→*wodurch*, `bestehnt`/`bestreht`→*besteht*, `getrettet`→*gerettet*, `gesanndt`/`gestandt`→*gesandt*, `Sequestation`/`Sequetration`→*Sequestration*, `Hypoteque`→*Hypotheque*, `Wechſtel`→*Wechsel*, `Intresen`→*Intressen*, `Expresen`→*Expressen*, `Comision`→*Commission*, `Revenuce`→*Revenue*, `Triebunal`→*Tribunal*, `Mandatorius`→*Mandatarius*, `Cuhrischen`→*Curischen*, `Hoffroth`→*Hofrath*, `Geheimte`→*Geheime*, `konzler`→*kanzler*, `durchlaus`→*durchaus*, `Scharden`→*Schaden*, `ſehleunig`→*schleunig*, `angewiſen`→*angewiesen*, `umsamehr`→*umsomehr* ×2, `Antworth`→*Antwort*, `vorgesten`→*vorgestern*). `gnädigter` at L263 had two proposed corrections in the report (`gnädigster` / `gnädiger`); the set salutation `gnädigster Fürst und Herr` was applied.
+What went in: corrupted honorifics and formulae (`Durchaucht`â†’*Durchlaucht*, `GrÃ¤digster`â†’*GnÃ¤digster*, `Durchlauchtigter`â†’*Durchlauchtigster*, `Liefster`â†’*Tiefster* Ã—2, `erÅ¿terebe`â†’*ersterbe*); place and person names against project canon (`Schlawerschitz`/`Schlawentschitz`/`Schlowenschitz`â†’*Schlawenschitz*, `WorÅ¿chau`/`Warschan`â†’*Warschau*, `Triebenfeldt`â†’*Triebenfeld* Ã—2, `Brzechsa`/`Berzechsta`/`Brezechsta`â†’*Brzechsta*, `Zagorowa`â†’*Zagorowo*, `Zerbani`â†’*Zerboni*, `Palajewo`â†’*Polajewo*, `KÃ¶nigberg`â†’*KÃ¶nigsberg*, `Scherck`â†’*Schenck*); the recurring excrescent-*r* cluster (`FÃ¼rstern`/`tiefstern`/`hÃ¶chstern`/`Sonstern`/`BemÃ¼hern`/`einreichern` â†’ *-en*); single visual confusions producing non-words (`Å¿erden`â†’*senden*, `wÃ¼nden`â†’*wÃ¼rden*, `lÃ¤glich`â†’*tÃ¤glich*, `NuÃŸland`â†’*RuÃŸland*, `geweldet`â†’*gemeldet*, `geÅ¿chieben`â†’*geschrieben*, `GeÅ¿chiehte`/`GeÅ¿ehichte`â†’*Geschichte*, `Augenblik`â†’*Augenblick*, `glÃ¼klich`â†’*glÃ¼cklich*, `dardurch`â†’*dadurch*, `wordurch`â†’*wodurch*, `bestehnt`/`bestreht`â†’*besteht*, `getrettet`â†’*gerettet*, `gesanndt`/`gestandt`â†’*gesandt*, `Sequestation`/`Sequetration`â†’*Sequestration*, `Hypoteque`â†’*Hypotheque*, `WechÅ¿tel`â†’*Wechsel*, `Intresen`â†’*Intressen*, `Expresen`â†’*Expressen*, `Comision`â†’*Commission*, `Revenuce`â†’*Revenue*, `Triebunal`â†’*Tribunal*, `Mandatorius`â†’*Mandatarius*, `Cuhrischen`â†’*Curischen*, `Hoffroth`â†’*Hofrath*, `Geheimte`â†’*Geheime*, `konzler`â†’*kanzler*, `durchlaus`â†’*durchaus*, `Scharden`â†’*Schaden*, `Å¿ehleunig`â†’*schleunig*, `angewiÅ¿en`â†’*angewiesen*, `umsamehr`â†’*umsomehr* Ã—2, `Antworth`â†’*Antwort*, `vorgesten`â†’*vorgestern*). `gnÃ¤digter` at L263 had two proposed corrections in the report (`gnÃ¤digster` / `gnÃ¤diger`); the set salutation `gnÃ¤digster FÃ¼rst und Herr` was applied.
 
-What was kept (full table with reasons in `spelling_audit.md`): valid period forms the automated inflection filter missed — `hiedurch`, `geschiehet`, `kleinern`, `urtheilt` (a finite verb), the `-ff`/`-fft` orthography (`verkauff(en)`, `zukunfft`, `dürfften`, `geworffen`, `herrschafft`), `gezahlet`, `gebetten`, `hochwolgeb` (`wol`), `creditorn` (syncope, parallel to `andern` in the same clause); cases where the report's proposed target is wrong or ambiguous — `vesten` = *Vestungen*/*Festungen* not *besten*, `durcht` = *deucht*/*dünkt mir*, `wenschen` = *Wünschen* at L36 but *Menschen* at L47, `gewinnten` = *gemeinten*, `klogen` = a place name, `desten` = *dessen*, `commer` = *Cammer* or a surname, `unglückt` → *unglückliche*; line-wrap fragments — `geleiste` (+ `ten`) = *geleisteten*, `hochfürst` (+ `laucht`) = *Hochfürstl. Durchlaucht*; a source dittography (`vorgestern vorgesteren`, L73); and several readings the surrounding text is too garbled to settle (`gnädigte`, `gewißert`, `weines`, `wohren`, `kurgen`, `eingericht`, `gesundtheit`, `ewodurch`). The two address-honorific variants `hochwohlgebohrnen`/`hochwohlgebohrn` were left as possibly deliberate.
+What was kept (full table with reasons in `spelling_audit.md`): valid period forms the automated inflection filter missed â€” `hiedurch`, `geschiehet`, `kleinern`, `urtheilt` (a finite verb), the `-ff`/`-fft` orthography (`verkauff(en)`, `zukunfft`, `dÃ¼rfften`, `geworffen`, `herrschafft`), `gezahlet`, `gebetten`, `hochwolgeb` (`wol`), `creditorn` (syncope, parallel to `andern` in the same clause); cases where the report's proposed target is wrong or ambiguous â€” `vesten` = *Vestungen*/*Festungen* not *besten*, `durcht` = *deucht*/*dÃ¼nkt mir*, `wenschen` = *WÃ¼nschen* at L36 but *Menschen* at L47, `gewinnten` = *gemeinten*, `klogen` = a place name, `desten` = *dessen*, `commer` = *Cammer* or a surname, `unglÃ¼ckt` â†’ *unglÃ¼ckliche*; line-wrap fragments â€” `geleiste` (+ `ten`) = *geleisteten*, `hochfÃ¼rst` (+ `laucht`) = *HochfÃ¼rstl. Durchlaucht*; a source dittography (`vorgestern vorgesteren`, L73); and several readings the surrounding text is too garbled to settle (`gnÃ¤digte`, `gewiÃŸert`, `weines`, `wohren`, `kurgen`, `eingericht`, `gesundtheit`, `ewodurch`). The two address-honorific variants `hochwohlgebohrnen`/`hochwohlgebohrn` were left as possibly deliberate.
 
-## Name catalogue — built, adjudicated, first batch applied
+## Name catalogue â€” built, adjudicated, first batch applied
 
 `name_catalogue.py` (new) catalogues every person and place name and its variant
-spellings. Names defeat the spelling audit's assumptions — 527 of the 738 tokens in name position occur exactly once, so frequency proves nothing; a wrong name still looks like a name; and plain edit distance is the wrong metric (`Köckritz`/`Koekritzsch` are four edits but one misreading apart, `Wien`/`Bier` one edit apart and unrelated). So it seeds from the settled canon in `whos_who.md` and `CHANGELOG.md`, strips German derivational morphology before comparing (`Cosmarischen`, `Zagorower` are inflections, not rival spellings), and matches with a Kurrent-weighted distance scaled to name length. Output: **267 names, 206 proposed variants, 21 one-entity-or-two decisions, 18 withheld as ambiguous**, each row carrying its scan filename for checking in `scan_review.html`.
+spellings. Names defeat the spelling audit's assumptions â€” 527 of the 738 tokens in name position occur exactly once, so frequency proves nothing; a wrong name still looks like a name; and plain edit distance is the wrong metric (`KÃ¶ckritz`/`Koekritzsch` are four edits but one misreading apart, `Wien`/`Bier` one edit apart and unrelated). So it seeds from the settled canon in `whos_who.md` and `CHANGELOG.md`, strips German derivational morphology before comparing (`Cosmarischen`, `Zagorower` are inflections, not rival spellings), and matches with a Kurrent-weighted distance scaled to name length. Output: **267 names, 206 proposed variants, 21 one-entity-or-two decisions, 18 withheld as ambiguous**, each row carrying its scan filename for checking in `scan_review.html`.
 
 **Two method errors found and fixed while building it**, both worth recording:
-- The "is this an ordinary noun?" test was *"does it ever appear lowercase"* — meaningless in German, where every noun is capitalised. That admitted `Geld`, `Gott`, `König`, `Ende` as "names" and produced 1,706 junk proposals. Replaced with an explicit `NOT_NAMES` list of the prepositional-idiom nouns that ride in on "zu X"/"nach X" (`zu Gunsten`, `zu Füßen`).
-- This register writes **articles with surnames** (`dem Hawich`, `der Cosmar`), so an article-rate test can only *veto* a candidate, never nominate one. The settled canon therefore has to be trusted outright rather than re-derived — it carries exactly the names the statistics cannot see.
+- The "is this an ordinary noun?" test was *"does it ever appear lowercase"* â€” meaningless in German, where every noun is capitalised. That admitted `Geld`, `Gott`, `KÃ¶nig`, `Ende` as "names" and produced 1,706 junk proposals. Replaced with an explicit `NOT_NAMES` list of the prepositional-idiom nouns that ride in on "zu X"/"nach X" (`zu Gunsten`, `zu FÃ¼ÃŸen`).
+- This register writes **articles with surnames** (`dem Hawich`, `der Cosmar`), so an article-rate test can only *veto* a candidate, never nominate one. The settled canon therefore has to be trusted outright rather than re-derived â€” it carries exactly the names the statistics cannot see.
 - A third gap: two names that are *both* common are never compared, which is how `Brzechsta` (36) and `Brzechta` (8) sat side by side unnoticed. Added a seed-pair section; nothing there is ever auto-merged.
 
-**Precision was poor in the discovered-seed tier.** Of ~25 proposals checked against the manuscript, about 20 were wrong (`Eines`→`Einer`, `Pforte`→`Pferd`, `Schriften`→`Schritte`, `Schweizern`→`Schweiner`, `Coeln`→`Cosel`…). Every fix anchored on a canon name held up; the failures all came from statistically-discovered seeds. Next pass restricts proposals to canon-anchored names and treats discovered seeds as review-only.
+**Precision was poor in the discovered-seed tier.** Of ~25 proposals checked against the manuscript, about 20 were wrong (`Eines`â†’`Einer`, `Pforte`â†’`Pferd`, `Schriften`â†’`Schritte`, `Schweizern`â†’`Schweiner`, `Coeln`â†’`Cosel`â€¦). Every fix anchored on a canon name held up; the failures all came from statistically-discovered seeds. Next pass restricts proposals to canon-anchored names and treats discovered seeds as review-only.
 
-**Adjudicated in full — see `name_decisions.md`.** Canonical forms settled: `Brzechsta`, `Kalisz` (absorbing `Kalicz`/`Kaliz`/`Kalisch`), `Hardenberg`, `Krotoszyn`, `Napoleon`, `Triebenfeld`, `Hohenlohe`, `Petersburg`. **`Wrąbczyn` confirmed a separate place from `Trąbczyn` — never to be merged.** `Swięcier` confirmed a legitimate inflection of `Swięcia`. `Werthe`, `Wirth`, `Bedeutung`, `Eines`, `Inneres` dropped as seeds — not names.
+**Adjudicated in full â€” see `name_decisions.md`.** Canonical forms settled: `Brzechsta`, `Kalisz` (absorbing `Kalicz`/`Kaliz`/`Kalisch`), `Hardenberg`, `Krotoszyn`, `Napoleon`, `Triebenfeld`, `Hohenlohe`, `Petersburg`. **`WrÄ…bczyn` confirmed a separate place from `TrÄ…bczyn` â€” never to be merged.** `SwiÄ™cier` confirmed a legitimate inflection of `SwiÄ™cia`. `Werthe`, `Wirth`, `Bedeutung`, `Eines`, `Inneres` dropped as seeds â€” not names.
 
-**21 corrections applied** (backup `…cleaned.txt.bak6`, all regeneration checks green, 20,750 archival lines, every site page character-exact): `Extaffette`→`Estaffette` ×5 (*estafette*, a courier — long-s read as x), `Curant`→`Courant`, `Appete`→`Oppeln`, `Bengelin`→`Beugelin` ×3, `Moszincka`→`Miączyńska`, `Plate`→`Pluto`, `Plaß`→`Paß`, `Panie`→`Panin`, `Unger`→`Ungar` (Hungarian *wine*, beside Champagner — not a person), `Kálitz`→`Kalisz`, `Napolien`→`Napoleon`, `Tribenfeldschen`→`Triebenfeldschen`, `Sakkin`→`Sacken` ×3.
+**21 corrections applied** (backup `â€¦cleaned.txt.bak6`, all regeneration checks green, 20,750 archival lines, every site page character-exact): `Extaffette`â†’`Estaffette` Ã—5 (*estafette*, a courier â€” long-s read as x), `Curant`â†’`Courant`, `Appete`â†’`Oppeln`, `Bengelin`â†’`Beugelin` Ã—3, `Moszincka`â†’`MiÄ…czyÅ„ska`, `Plate`â†’`Pluto`, `PlaÃŸ`â†’`PaÃŸ`, `Panie`â†’`Panin`, `Unger`â†’`Ungar` (Hungarian *wine*, beside Champagner â€” not a person), `KÃ¡litz`â†’`Kalisz`, `Napolien`â†’`Napoleon`, `Tribenfeldschen`â†’`Triebenfeldschen`, `Sakkin`â†’`Sacken` Ã—3.
 
-`Sakkin` was resolved against the Seidel biography on explicit instruction — it uses `Sacken` ×55 and names the woman herself, *"Fürstin Christiane Charlotte Sophie von der Osten-Sacken (1733–1811)"*, matching L18192's reference to her after her death. The corpus's own `Sakken` ×4+ was **not** merged into `Sacken`: standing policy is that the book's spellings are not authoritative over the corpus's internal evidence, so that stays open.
+`Sakkin` was resolved against the Seidel biography on explicit instruction â€” it uses `Sacken` Ã—55 and names the woman herself, *"FÃ¼rstin Christiane Charlotte Sophie von der Osten-Sacken (1733â€“1811)"*, matching L18192's reference to her after her death. The corpus's own `Sakken` Ã—4+ was **not** merged into `Sacken`: standing policy is that the book's spellings are not authoritative over the corpus's internal evidence, so that stays open.
 
-Still open: `Holländer`→`Hauländer` on the three settler-context lines only (L216's *"die Hauländer oder Collonisten"* settles the term; the military `Holländer` and the country `Holland` are correct), `Schlawen` vs `Schlawenschitz`, `Stege`, `Franckfurten`, and `Märck` — where `Märkische Landschafts-Obligationen` is a real instrument and the form may be a correct abbreviation.
+Still open: `HollÃ¤nder`â†’`HaulÃ¤nder` on the three settler-context lines only (L216's *"die HaulÃ¤nder oder Collonisten"* settles the term; the military `HollÃ¤nder` and the country `Holland` are correct), `Schlawen` vs `Schlawenschitz`, `Stege`, `Franckfurten`, and `MÃ¤rck` â€” where `MÃ¤rkische Landschafts-Obligationen` is a real instrument and the form may be a correct abbreviation.
 
-## Name canonicalisation — §H merges applied
+## Name canonicalisation â€” Â§H merges applied
 
-The seven canonical forms you settled, plus `Sakken` → `Sacken`, applied as **64 substitutions** (backup `…cleaned.txt.bak7`; regeneration clean, 20,750 archival = 20,750 chronological lines, every site page character-exact).
+The seven canonical forms you settled, plus `Sakken` â†’ `Sacken`, applied as **64 substitutions** (backup `â€¦cleaned.txt.bak7`; regeneration clean, 20,750 archival = 20,750 chronological lines, every site page character-exact).
 
-`Sacken` 7→17 · `Brzechsta` 36→47 · `Kalisz` 44→59 · `Hardenberg` 26→32 · `Krotoszyn` 40→43 · `Triebenfeld` 326→329 · `Hohenlohe` 39→45 · `Petersburg` 3→10.
+`Sacken` 7â†’17 Â· `Brzechsta` 36â†’47 Â· `Kalisz` 44â†’59 Â· `Hardenberg` 26â†’32 Â· `Krotoszyn` 40â†’43 Â· `Triebenfeld` 326â†’329 Â· `Hohenlohe` 39â†’45 Â· `Petersburg` 3â†’10.
 
-Absorbed: `Sakken`/`Sakkensche(n)` ×13, `Brzechta` ×8 + `Brzechffa`/`Brzechtsa`/`Briechsto`, `Kalicz` ×5 + `Kaliz` ×4 + `Kalisch` ×4 + `Kalis` + `Kaliszž`, `Hardenburg` ×6, `Krotoszin` ×3, `Treibenfeld` ×3, `Hohenlose` ×5 + `Hoferlohn`, `Peterbourg` ×6 + `Petersbourg`.
+Absorbed: `Sakken`/`Sakkensche(n)` Ã—13, `Brzechta` Ã—8 + `Brzechffa`/`Brzechtsa`/`Briechsto`, `Kalicz` Ã—5 + `Kaliz` Ã—4 + `Kalisch` Ã—4 + `Kalis` + `KaliszÅ¾`, `Hardenburg` Ã—6, `Krotoszin` Ã—3, `Treibenfeld` Ã—3, `Hohenlose` Ã—5 + `Hoferlohn`, `Peterbourg` Ã—6 + `Petersbourg`.
 
-**Deliberately not merged — `Kalisch` is doing double duty.** Four occurrences are the city as a bare noun (`zu Kalisch`, `in Kalisch`) and were merged; **eight are the German adjective** — `Kalischen Krieges und Domainen Cammer`, `Kalischer Regierung`, `Kalischen Tribunal` — which is correct derivation from `Kalisz`, exactly like `Zagorower` and `Cosmarischen`. Merging those would have produced non-German. `Kaliszer` ×1 kept for the same reason, and `Brzechſta` (long-s) was already canonical. A `keep_derivations` list now guards these.
+**Deliberately not merged â€” `Kalisch` is doing double duty.** Four occurrences are the city as a bare noun (`zu Kalisch`, `in Kalisch`) and were merged; **eight are the German adjective** â€” `Kalischen Krieges und Domainen Cammer`, `Kalischer Regierung`, `Kalischen Tribunal` â€” which is correct derivation from `Kalisz`, exactly like `Zagorower` and `Cosmarischen`. Merging those would have produced non-German. `Kaliszer` Ã—1 kept for the same reason, and `BrzechÅ¿ta` (long-s) was already canonical. A `keep_derivations` list now guards these.
 
-**`Sakken` → `Sacken` resolved on instruction to follow the biography**, which uses `Sacken` ×55 and names her outright — *"Fürstin Christiane Charlotte Sophie von der Osten-Sacken (1733–1811)"*. This is a deliberate, instructed exception to the standing policy that the book's spellings are not authoritative over the corpus's own evidence.
+**`Sakken` â†’ `Sacken` resolved on instruction to follow the biography**, which uses `Sacken` Ã—55 and names her outright â€” *"FÃ¼rstin Christiane Charlotte Sophie von der Osten-Sacken (1733â€“1811)"*. This is a deliberate, instructed exception to the standing policy that the book's spellings are not authoritative over the corpus's own evidence.
 
-**`name_rulings.json` (new) makes the catalogue an outstanding-work list.** Every ruling — applied, rejected, dropped-as-seed, settled-pair, locked-apart, keep-derivation — is recorded there, and `name_catalogue.py` suppresses it on rebuild. Nothing already decided is put to the reviewer twice. The file is append-only by design: removing an entry re-opens a settled question. Catalogue now stands at **167 proposed variants across 83 names, 6 one-entity-or-two pairs, 5 withheld** — down from 206/21/18.
+**`name_rulings.json` (new) makes the catalogue an outstanding-work list.** Every ruling â€” applied, rejected, dropped-as-seed, settled-pair, locked-apart, keep-derivation â€” is recorded there, and `name_catalogue.py` suppresses it on rebuild. Nothing already decided is put to the reviewer twice. The file is append-only by design: removing an entry re-opens a settled question. Catalogue now stands at **167 proposed variants across 83 names, 6 one-entity-or-two pairs, 5 withheld** â€” down from 206/21/18.
 
 ## Archival letter numbers removed from the letter bodies
 
-Most letters opened with a line carrying nothing but the document's own number — `48`, `257` — written on the manuscript. Redundant now that every record carries a `letter_id`, so **298 such lines were removed from the archival text** (backup `…cleaned.txt.bak8`).
+Most letters opened with a line carrying nothing but the document's own number â€” `48`, `257` â€” written on the manuscript. Redundant now that every record carries a `letter_id`, so **298 such lines were removed from the archival text** (backup `â€¦cleaned.txt.bak8`).
 
-Only the line immediately following a `[LETTER n]` marker was eligible, and only when it was nothing but a document number. **293** matched their letter id exactly; **5** did not and were removed on explicit instruction — `74`, `118`, `265` (parent numbers standing at the head of split sub-letters) and the two enclosure markers `179. a)` and `269 a)`. **20 letters were untouched**: the split sub-letters that never carried a number (`1a`, `72a–f`, `74b–d`, `118b/c`, `265b`) and the `(missing)`/`(skipped)` placeholders.
+Only the line immediately following a `[LETTER n]` marker was eligible, and only when it was nothing but a document number. **293** matched their letter id exactly; **5** did not and were removed on explicit instruction â€” `74`, `118`, `265` (parent numbers standing at the head of split sub-letters) and the two enclosure markers `179. a)` and `269 a)`. **20 letters were untouched**: the split sub-letters that never carried a number (`1a`, `72aâ€“f`, `74bâ€“d`, `118b/c`, `265b`) and the `(missing)`/`(skipped)` placeholders.
 
-**Page structure was the risk, and it was checked rather than assumed.** `corpus_pages.split_pages` divides on blank lines, not on these number lines, so removal should be structurally inert — the strip script simulated the page split before and after and refused to write unless the count matched. It held: **869 pages before and after**, 318 records, and the re-derived line-break decisions came back identical (483 split, 825 join, 3 orphan, 5 catchword). Archival content lines **20,750 → 20,452**.
+**Page structure was the risk, and it was checked rather than assumed.** `corpus_pages.split_pages` divides on blank lines, not on these number lines, so removal should be structurally inert â€” the strip script simulated the page split before and after and refused to write unless the count matched. It held: **869 pages before and after**, 318 records, and the re-derived line-break decisions came back identical (483 split, 825 join, 3 orphan, 5 catchword). Archival content lines **20,750 â†’ 20,452**.
 
-**Line-number references across the documentation went stale** as a direct result, since every line below the first removal shifted. Those in `NEEDS_CONFIRMATION.md` and `name_decisions.md` were re-derived (`Märck` 2864→2827; the `Holländer` settler lines 7942/7943/14923→7842/7843/14718; the Dutch `Holländer` 548→539), and both files now carry a standing note that line numbers move and the token should be searched for rather than the number trusted.
+**Line-number references across the documentation went stale** as a direct result, since every line below the first removal shifted. Those in `NEEDS_CONFIRMATION.md` and `name_decisions.md` were re-derived (`MÃ¤rck` 2864â†’2827; the `HollÃ¤nder` settler lines 7942/7943/14923â†’7842/7843/14718; the Dutch `HollÃ¤nder` 548â†’539), and both files now carry a standing note that line numbers move and the token should be searched for rather than the number trusted.
 
-## Place of writing — re-derived from the dateline
+## Place of writing â€” re-derived from the dateline
 
-The `place` field was produced by a hardcoded whitelist (`PLACE_RE`) scanned across each letter's last 15 lines, which failed two ways at once: it matched any listed town mentioned in the closing prose — letter 221 took `Neisse` from *"wider nach Neisse"*, the line immediately above its real dateline `Blizanow`; letter 237 took `Dresden` from *"von Dresden retournire"* — and it returned nothing at all for towns absent from the list, which produced most of the 95 blanks.
+The `place` field was produced by a hardcoded whitelist (`PLACE_RE`) scanned across each letter's last 15 lines, which failed two ways at once: it matched any listed town mentioned in the closing prose â€” letter 221 took `Neisse` from *"wider nach Neisse"*, the line immediately above its real dateline `Blizanow`; letter 237 took `Dresden` from *"von Dresden retournire"* â€” and it returned nothing at all for towns absent from the list, which produced most of the 95 blanks.
 
-Replaced with extraction from the letter's **own dateline**, in both shapes the corpus uses: place and date on one line (`Breslau den 1ten Febr. 1799.`) and place on its own line above the date (`Kalisz` / `d. 29ten April`). The foot is checked first, then the head — Polish letters and some German ones date from the top (`w Warszawie dnia 5 Marca`).
+Replaced with extraction from the letter's **own dateline**, in both shapes the corpus uses: place and date on one line (`Breslau den 1ten Febr. 1799.`) and place on its own line above the date (`Kalisz` / `d. 29ten April`). The foot is checked first, then the head â€” Polish letters and some German ones date from the top (`w Warszawie dnia 5 Marca`).
 
-Extraction stays faithful to the page; a separate `PLACE_CANON` map normalises manuscript spellings afterwards, so both layers remain inspectable: `Schlawenzitz`→Schlawenschitz, `Bleranow`→Blizanow, `Trąbczin`→Trąbczyn, `Franckfurth a d h`/`Fr a. d. Oder`/`Prandfurth a d O[der]`/`Fraudfurth an der Oder`→Frankfurt an der Oder, `Poser`→Posen, `Wein`→Wien, `Konigsberg`→Königsberg, `Kopoyno`→Kopojno, `Brzeg`→Brieg. A `PLACE_REJECT` set blanks readings too corrupt to be a place (`So bekomme ich`, `Thl. 13`, `Uria`) rather than recording them as towns.
+Extraction stays faithful to the page; a separate `PLACE_CANON` map normalises manuscript spellings afterwards, so both layers remain inspectable: `Schlawenzitz`â†’Schlawenschitz, `Bleranow`â†’Blizanow, `TrÄ…bczin`â†’TrÄ…bczyn, `Franckfurth a d h`/`Fr a. d. Oder`/`Prandfurth a d O[der]`/`Fraudfurth an der Oder`â†’Frankfurt an der Oder, `Poser`â†’Posen, `Wein`â†’Wien, `Konigsberg`â†’KÃ¶nigsberg, `Kopoyno`â†’Kopojno, `Brzeg`â†’Brieg. A `PLACE_REJECT` set blanks readings too corrupt to be a place (`So bekomme ich`, `Thl. 13`, `Uria`) rather than recording them as towns.
 
-**21 places set by explicit ruling, 206 derived, 92 with none found.** Distinct places 19 → 30. `place_review.md` (new) lists every letter with no place, its closing lines and why nothing was found — a blank is frequently correct here, and the point is to make the absence a decision rather than an oversight.
+**21 places set by explicit ruling, 206 derived, 92 with none found.** Distinct places 19 â†’ 30. `place_review.md` (new) lists every letter with no place, its closing lines and why nothing was found â€” a blank is frequently correct here, and the point is to make the absence a decision rather than an oversight.
 
-`74b` took `Berlin`: letter 74 was split into a bundle of legal documents written in *different* places (74a Berlin, 74c Glogau, 74d Berlin), and 74b carries no dateline of its own, so it follows the bundle's head and majority. 74d's `Berlin` was separately confirmed correct — its Silesian address (`zu Kontop bey Grüneberg in Schlesien`) is the addressee's, not the place of writing.
+`74b` took `Berlin`: letter 74 was split into a bundle of legal documents written in *different* places (74a Berlin, 74c Glogau, 74d Berlin), and 74b carries no dateline of its own, so it follows the bundle's head and majority. 74d's `Berlin` was separately confirmed correct â€” its Silesian address (`zu Kontop bey GrÃ¼neberg in Schlesien`) is the addressee's, not the place of writing.
 
-## `Sachen` → `Sacken` where it is the Fürstin
+## `Sachen` â†’ `Sacken` where it is the FÃ¼rstin
 
-Surfaced while checking letter 74d: **8 instances of `Sachen` carry a noble title** — `Fürstin Sachen`, `der verstorbenen Fürstin von Sachen`, `Nachlas der Fürsten von Sachen` — and are the Fürstin von der Osten-Sacken, not the ordinary word. This vindicated the original instinct behind the earlier "Sakkin should be Sachen" reading: the name genuinely does appear as *Sachen* in this corpus. Following the biography simply makes `Sacken` canonical for all of them.
+Surfaced while checking letter 74d: **8 instances of `Sachen` carry a noble title** â€” `FÃ¼rstin Sachen`, `der verstorbenen FÃ¼rstin von Sachen`, `Nachlas der FÃ¼rsten von Sachen` â€” and are the FÃ¼rstin von der Osten-Sacken, not the ordinary word. This vindicated the original instinct behind the earlier "Sakkin should be Sachen" reading: the name genuinely does appear as *Sachen* in this corpus. Following the biography simply makes `Sacken` canonical for all of them.
 
-Corrected with a **title-anchored** substitution rather than a whole-word replace — the other **116** `Sachen` are the ordinary German word, and a blanket replace would have corrupted every one of them. `Sacken` 17 → **25**; ordinary `Sachen` unchanged at 116. Backup `…cleaned.txt.bak9`; all regeneration checks green.
+Corrected with a **title-anchored** substitution rather than a whole-word replace â€” the other **116** `Sachen` are the ordinary German word, and a blanket replace would have corrupted every one of them. `Sacken` 17 â†’ **25**; ordinary `Sachen` unchanged at 116. Backup `â€¦cleaned.txt.bak9`; all regeneration checks green.
 
-`name_rulings.json` gained a `context_sensitive` section for exactly this class — tokens that are a name in some contexts and an ordinary word in others, recorded with the rule that separates them. `Holländer`/`Hauländer` is entered there too, still open.
+`name_rulings.json` gained a `context_sensitive` section for exactly this class â€” tokens that are a name in some contexts and an ordinary word in others, recorded with the rule that separates them. `HollÃ¤nder`/`HaulÃ¤nder` is entered there too, still open.
 
-## `Amelung` → `Amelang`, settled from the signature
+## `Amelung` â†’ `Amelang`, settled from the signature
 
-You read the signature on letter 138 directly from the scan. That resolved a §E pair the statistics could not: `Amelang` ×33 against `Amelung` ×11 — frequency is no evidence at all about which spelling a man used for his own name, which is precisely why that section never auto-merges.
+You read the signature on letter 138 directly from the scan. That resolved a Â§E pair the statistics could not: `Amelang` Ã—33 against `Amelung` Ã—11 â€” frequency is no evidence at all about which spelling a man used for his own name, which is precisely why that section never auto-merges.
 
-Searching for the shape rather than the token surfaced **12 distinct forms**, of which four proved to be the same signature corrupted four different ways, each in identical position — directly under a closing formula, on a Berlin-dated letter from the same correspondent: `AMelerich[?]` (L46), `AMelan[tt?]` (L138, the one read), `AMelang` (L143), `Amelrath` (L144). Two carried transcriber uncertainty markers that the manuscript reading now resolves.
+Searching for the shape rather than the token surfaced **12 distinct forms**, of which four proved to be the same signature corrupted four different ways, each in identical position â€” directly under a closing formula, on a Berlin-dated letter from the same correspondent: `AMelerich[?]` (L46), `AMelan[tt?]` (L138, the one read), `AMelang` (L143), `Amelrath` (L144). Two carried transcriber uncertainty markers that the manuscript reading now resolves.
 
-**19 substitutions**: `Amelung` ×11 → `Amelang`, `Amelungs` ×4 → `Amelangs` (root-only, genitive preserved), and the four pinned signatures. `Amelang` 33 → **48**, `Amelangs` 2 → **6**. Backup `…bak10`; all regeneration checks green.
+**19 substitutions**: `Amelung` Ã—11 â†’ `Amelang`, `Amelungs` Ã—4 â†’ `Amelangs` (root-only, genitive preserved), and the four pinned signatures. `Amelang` 33 â†’ **48**, `Amelangs` 2 â†’ **6**. Backup `â€¦bak10`; all regeneration checks green.
 
-**Three left alone, recorded so the omission is a decision:** `Amel:` (line 13117) is an abbreviation like `Hochfürstl.`; `Amelan¬` (11817) is a line-wrap fragment, a line-break question rather than a spelling one; `Amelange` (4014) already has the correct root and only an odd ending.
+**Three left alone, recorded so the omission is a decision:** `Amel:` (line 13117) is an abbreviation like `HochfÃ¼rstl.`; `AmelanÂ¬` (11817) is a line-wrap fragment, a line-break question rather than a spelling one; `Amelange` (4014) already has the correct root and only an odd ending.
 
-**A seed-list error of mine, corrected at source.** `Amelung` was the canonical form in `name_catalogue.py`'s `EXTRA_SEEDS`, so the catalogue had been anchoring on the wrong spelling and proposing corrections *toward* it. Fixed. My note in `NEEDS_CONFIRMATION.md` that "the rarer form is the one in your who's-who" was also wrong — neither spelling appears in `whos_who.md`; `Amelung` came from my own list. §E is now 4 pairs; the catalogue stands at 166 variants across 82 names.
+**A seed-list error of mine, corrected at source.** `Amelung` was the canonical form in `name_catalogue.py`'s `EXTRA_SEEDS`, so the catalogue had been anchoring on the wrong spelling and proposing corrections *toward* it. Fixed. My note in `NEEDS_CONFIRMATION.md` that "the rarer form is the one in your who's-who" was also wrong â€” neither spelling appears in `whos_who.md`; `Amelung` came from my own list. Â§E is now 4 pairs; the catalogue stands at 166 variants across 82 names.
 
-## `Munduhr` → `Medzibor` (letter 196)
+## `Munduhr` â†’ `Medzibor` (letter 196)
 
-The dateline of letter 196 read `Schwarzwald bey Munduhr d. 25ten May 1810.` The scan rules `Munduhr` out at once — there is a clear `b` loop and the word runs several letters longer — but the page is ~162 DPI and will not separate `Med-` from `Mied-` on its own, so the identification rests on the geography.
+The dateline of letter 196 read `Schwarzwald bey Munduhr d. 25ten May 1810.` The scan rules `Munduhr` out at once â€” there is a clear `b` loop and the word runs several letters longer â€” but the page is ~162 DPI and will not separate `Med-` from `Mied-` on its own, so the identification rests on the geography.
 
-**Medzibor was the official name of Międzybórz until 1886**, when it was renamed Neumittelwalde; it lay in **Kreis Groß Wartenberg, Regierungsbezirk Breslau**, Prussian Silesia. `Schwarzwald` is a recorded village in that same Kreis, so `Schwarzwald bey Medzibor` is the ordinary construction — hamlet, then nearest town. Three things corroborate: letters 193–195 and 199–201 are dated Kontop and Breslau, the same corner of Silesia; the sources place a *forester* at Schwarzwald, which fits a Kriegs- und **Forst**rath writing from there; and the period form is `Medzibor`, not the modern Polish `Międzybórz`. Applied as the pre-1886 attested spelling; backup `…bak11`, checks green, and `place` for letter 196 now derives as `Schwarzwald bey Medzibor` without needing a normalisation entry.
+**Medzibor was the official name of MiÄ™dzybÃ³rz until 1886**, when it was renamed Neumittelwalde; it lay in **Kreis GroÃŸ Wartenberg, Regierungsbezirk Breslau**, Prussian Silesia. `Schwarzwald` is a recorded village in that same Kreis, so `Schwarzwald bey Medzibor` is the ordinary construction â€” hamlet, then nearest town. Three things corroborate: letters 193â€“195 and 199â€“201 are dated Kontop and Breslau, the same corner of Silesia; the sources place a *forester* at Schwarzwald, which fits a Kriegs- und **Forst**rath writing from there; and the period form is `Medzibor`, not the modern Polish `MiÄ™dzybÃ³rz`. Applied as the pre-1886 attested spelling; backup `â€¦bak11`, checks green, and `place` for letter 196 now derives as `Schwarzwald bey Medzibor` without needing a normalisation entry.
 
 **Worth recording as a limit of the tooling.** `Munduhr` is a hapax that none of the methods built so far could reach: it is not close to any anchor name, is not a German word, and sat in a dateline the old whitelist extractor ignored entirely. It took a human reading the page. The same class of error is likely present among the 92 blanks and the odder values in `place_review.md`.
 
@@ -348,43 +348,43 @@ The dateline of letter 196 read `Schwarzwald bey Munduhr d. 25ten May 1810.` The
 
 Distinct real places fell 29 -> 27 as `Bretz` merged into Breslau and `Peysern` into Peisern. Backup `...bak12`; all regeneration checks green.
 
-## Michalina Prusimska — four surnames merged into one person
+## Michalina Prusimska â€” four surnames merged into one person
 
-She appeared as **three separate people** in the site's people index and the who's-who — `Michalina Prusimska` (14 letters), `Dąbska (Michalina)` (8), `Miączyńska (Michalina)` (5) — with letters 242, 266 and 270 counted more than once because she is named differently within a single letter. Merged into one entry: **Michalina Prusimska (Dąbska / Miączyńska / Moscinska)**, 26 tokens across **18** letters.
+She appeared as **three separate people** in the site's people index and the who's-who â€” `Michalina Prusimska` (14 letters), `DÄ…bska (Michalina)` (8), `MiÄ…czyÅ„ska (Michalina)` (5) â€” with letters 242, 266 and 270 counted more than once because she is named differently within a single letter. Merged into one entry: **Michalina Prusimska (DÄ…bska / MiÄ…czyÅ„ska / Moscinska)**, 26 tokens across **18** letters.
 
-The four surnames are one life: born **Prusimska**; married **Dąbska**, used consistently 1807–1811 and confirmed in the text itself (L28, *"der Frau v Dąbska gebohrnen v Pru[simska]"*); remarried late 1814, after which the letters write **Moscinska/Moszynska** — the writers' own error for **Miączyńska**, not a transcription defect. Letter 266 hedges openly, *"Dąbska oder Moscinska"*, exactly at the remarriage; letter 285 states the chain outright: *"gab sie der Tochter des Prussiemski, jezt verehelichte Miączyńska zurück."*
+The four surnames are one life: born **Prusimska**; married **DÄ…bska**, used consistently 1807â€“1811 and confirmed in the text itself (L28, *"der Frau v DÄ…bska gebohrnen v Pru[simska]"*); remarried late 1814, after which the letters write **Moscinska/Moszynska** â€” the writers' own error for **MiÄ…czyÅ„ska**, not a transcription defect. Letter 266 hedges openly, *"DÄ…bska oder Moscinska"*, exactly at the remarriage; letter 285 states the chain outright: *"gab sie der Tochter des Prussiemski, jezt verehelichte MiÄ…czyÅ„ska zurÃ¼ck."*
 
-**The merge exposed an over-broad regex that had been conflating father and daughter.** The old `prusimska` pattern was bare `Pru[sz]imsk`, which also swept in the adjectival `Prusimskische(n)` ×6 — *"die Prusimskische Erben"*, *"die Confiscirte Prusimskische Güter"*, *"von der Prusimskischen Familie"* — references to the family and its estates, not to her. Phase 2 had explicitly established father ≠ daughter, and the site index was quietly undoing that.
+**The merge exposed an over-broad regex that had been conflating father and daughter.** The old `prusimska` pattern was bare `Pru[sz]imsk`, which also swept in the adjectival `Prusimskische(n)` Ã—6 â€” *"die Prusimskische Erben"*, *"die Confiscirte Prusimskische GÃ¼ter"*, *"von der Prusimskischen Familie"* â€” references to the family and its estates, not to her. Phase 2 had explicitly established father â‰  daughter, and the site index was quietly undoing that.
 
-Her pattern now requires a feminine **`-a`** ending, which excludes both the adjectival family forms and `Moszynski` (masculine — her second husband, a third referent). A separate **`Prusimski family (Trąbczyn estates)`** entry catches those instead, 19 tokens across 12 letters, so nothing is orphaned: L297 names him directly, *"Güter nach einen gewißen **Anton v. Prussiemski**"* — Antoni Prusimski. The two patterns were checked for overlap: **zero tokens match both.**
+Her pattern now requires a feminine **`-a`** ending, which excludes both the adjectival family forms and `Moszynski` (masculine â€” her second husband, a third referent). A separate **`Prusimski family (TrÄ…bczyn estates)`** entry catches those instead, 19 tokens across 12 letters, so nothing is orphaned: L297 names him directly, *"GÃ¼ter nach einen gewiÃŸen **Anton v. Prussiemski**"* â€” Antoni Prusimski. The two patterns were checked for overlap: **zero tokens match both.**
 
-`whos_who.md` collapsed from three entries to one merged plus one family entry, recording the corpus forms (`Prusimska` ×11, `Dąbska` ×10, `Moscinska` ×3, `Moszynska` ×1, `Miączyńska` ×1) and why the family is kept apart.
+`whos_who.md` collapsed from three entries to one merged plus one family entry, recording the corpus forms (`Prusimska` Ã—11, `DÄ…bska` Ã—10, `Moscinska` Ã—3, `Moszynska` Ã—1, `MiÄ…czyÅ„ska` Ã—1) and why the family is kept apart.
 
 ## People index generated rather than hand-curated
 
-The site's `PEOPLE` list was 55 hand-written entries, and it matched **54 of the 807 tokens sitting in person position**. Anyone nobody had thought to add was invisible everywhere on the site — not obscure figures either: `Grotowski` ×15, `Brzechsta` ×29, `Hardenberg` ×24, `Sacken` ×22, `Amelang` ×8, `Schimmelpfennig`, `Struensee`. The same failure as the places whitelist, in a different file.
+The site's `PEOPLE` list was 55 hand-written entries, and it matched **54 of the 807 tokens sitting in person position**. Anyone nobody had thought to add was invisible everywhere on the site â€” not obscure figures either: `Grotowski` Ã—15, `Brzechsta` Ã—29, `Hardenberg` Ã—24, `Sacken` Ã—22, `Amelang` Ã—8, `Schimmelpfennig`, `Struensee`. The same failure as the places whitelist, in a different file.
 
-`name_catalogue.py` now exports its vetted seeds to `name_seeds.json`, and `build_site_data.py` merges them in. **Curated entries stay authoritative** — they carry display names, merged identities (Michalina Prusimska's four surnames) and distinctions the statistics cannot see (Hawich vs Honrichs); the export only fills the long tail. `people.yml` went **55 → 103** entries.
+`name_catalogue.py` now exports its vetted seeds to `name_seeds.json`, and `build_site_data.py` merges them in. **Curated entries stay authoritative** â€” they carry display names, merged identities (Michalina Prusimska's four surnames) and distinctions the statistics cannot see (Hawich vs Honrichs); the export only fills the long tail. `people.yml` went **55 â†’ 103** entries.
 
 Three rounds of filtering were needed first, each a real defect:
-- **`Minister` ×127 entered as *canon***, because `harvest_canon()` splits `**Graf/Minister Hoym**` from `whos_who.md` into three tokens. `NOT_NAMES` now gates the canon too, not just discovered seeds.
-- **`Wien` and `Krotoszyn` typed as people** — German `von X` fires identically for `Herr von Triebenfeld` and `von Krotoszin`. The derived place field plus an explicit estate list now settles type.
-- **Countries and common words** — `Preußen` 25, `Sachsen` 17, `Italien` 12, `Hard` 43, `Graf` 37, `Beym` 16, `Fond` 15, `Advocat`, `Circa`, `Moratorium` — all blocklisted.
+- **`Minister` Ã—127 entered as *canon***, because `harvest_canon()` splits `**Graf/Minister Hoym**` from `whos_who.md` into three tokens. `NOT_NAMES` now gates the canon too, not just discovered seeds.
+- **`Wien` and `Krotoszyn` typed as people** â€” German `von X` fires identically for `Herr von Triebenfeld` and `von Krotoszin`. The derived place field plus an explicit estate list now settles type.
+- **Countries and common words** â€” `PreuÃŸen` 25, `Sachsen` 17, `Italien` 12, `Hard` 43, `Graf` 37, `Beym` 16, `Fond` 15, `Advocat`, `Circa`, `Moratorium` â€” all blocklisted.
 
-Recovered by the pass: Grotowski, Napoleon, **Gneisenau**, Nesselrode, Haugwitz, Massow, Bülow, Dohna, Wartensleben, Blomberg, Nöldichen, Lipski, Pirch, Struensee, Schimmelpfennig.
+Recovered by the pass: Grotowski, Napoleon, **Gneisenau**, Nesselrode, Haugwitz, Massow, BÃ¼low, Dohna, Wartensleben, Blomberg, NÃ¶ldichen, Lipski, Pirch, Struensee, Schimmelpfennig.
 
 **A standing limit worth recording:** this list cannot be complete by construction. It is built from tokens the corpus puts in a recognisable name slot, and 527 of 738 such tokens are hapax. Anyone named once without a title still will not appear.
 
-## `Humboldt`, `Gärtner`, `Napoleon` standardised
+## `Humboldt`, `GÃ¤rtner`, `Napoleon` standardised
 
-**29 substitutions** (backup `…bak13`, checks green):
-- `Humbolt` ×11 and `Humbold` ×5 → **`Humboldt`**. Neither corpus form was correct — this is Wilhelm von Humboldt, Prussian plenipotentiary at Vienna, named beside Hardenberg and Nesselrode (*"Humboldt und auch Nesselrode wolten ihm ihren Monarchen præsentiren"*). The 17th instance was `Humbo[?].` standing alone under *"Wien d. 5ten November 1814."* above *"An den Herrn v. Triebenfeld"* — **his signature on a letter to Triebenfeld**, so the uncertainty marker resolves too.
-- `Gartner` ×6 → **`Gärtner`**, the Geh. Rath.
-- `Napolion` ×5 → `Napoleon`, `Napolons` ×1 → `Napoleons`.
+**29 substitutions** (backup `â€¦bak13`, checks green):
+- `Humbolt` Ã—11 and `Humbold` Ã—5 â†’ **`Humboldt`**. Neither corpus form was correct â€” this is Wilhelm von Humboldt, Prussian plenipotentiary at Vienna, named beside Hardenberg and Nesselrode (*"Humboldt und auch Nesselrode wolten ihm ihren Monarchen prÃ¦sentiren"*). The 17th instance was `Humbo[?].` standing alone under *"Wien d. 5ten November 1814."* above *"An den Herrn v. Triebenfeld"* â€” **his signature on a letter to Triebenfeld**, so the uncertainty marker resolves too.
+- `Gartner` Ã—6 â†’ **`GÃ¤rtner`**, the Geh. Rath.
+- `Napolion` Ã—5 â†’ `Napoleon`, `Napolons` Ã—1 â†’ `Napoleons`.
 
-**`Gärtner` is a surname *and* an occupation.** L303's creditor register lists *"der Gärtner Nickel"* beside *"der Sattler Hennig"* and *"Major von Münchow"* — that entry is the gardener, a different referent. Line 4089's `Gartner` has no title and sits in a garbled passage, so it was **left as written**. The people index cannot separate the two, so the display name reads `Gärtner (Geh. Rath)` to say which is meant, and `name_rulings.json` records it under `context_sensitive`.
+**`GÃ¤rtner` is a surname *and* an occupation.** L303's creditor register lists *"der GÃ¤rtner Nickel"* beside *"der Sattler Hennig"* and *"Major von MÃ¼nchow"* â€” that entry is the gardener, a different referent. Line 4089's `Gartner` has no title and sits in a garbled passage, so it was **left as written**. The people index cannot separate the two, so the display name reads `GÃ¤rtner (Geh. Rath)` to say which is meant, and `name_rulings.json` records it under `context_sensitive`.
 
-`whos_who.md` gained entries for Humboldt, Gärtner and Napoleon, none of which had one. §E is down to **3** open pairs: `Sachsen`/`Sachßen`, `Wartemberg`/`Würtemberg`, `Bartenstein`/`Brandenstein`.
+`whos_who.md` gained entries for Humboldt, GÃ¤rtner and Napoleon, none of which had one. Â§E is down to **3** open pairs: `Sachsen`/`SachÃŸen`, `Wartemberg`/`WÃ¼rtemberg`, `Bartenstein`/`Brandenstein`.
 
 ## Polish surnames: a whole class the seeding was missing
 
@@ -410,15 +410,15 @@ Backup `...bak14`; checks green. `Grotowski` now 16, `Trzcinski` 8.
 
 **Sorting added** to both pages - most/fewest mentions, A-Z, Z-A - as a small vanilla-JS reorder of the DOM (`site/assets/sort-list.js`). No dependency: the site is built to behave identically offline and on GitHub Pages, so nothing is fetched. Sorting by count falls back to alphabetical on ties, so equal-count entries do not shuffle arbitrarily between clicks. Buttons carry `aria-pressed` for the current state, and the reference lists are styled to wrap as chips rather than run off the measure.
 
-## `Portalis` = `Pourtalès` — merged, with one instance deliberately preserved
+## `Portalis` = `PourtalÃ¨s` â€” merged, with one instance deliberately preserved
 
-Four spellings of one man collapsed into the corpus's own dominant form: `Portalis` ×5, `Pourtalles` ×3 and `Portales` ×1 → **`Pourtales`**, now 15. Backup `…bak15`; checks green.
+Four spellings of one man collapsed into the corpus's own dominant form: `Portalis` Ã—5, `Pourtalles` Ã—3 and `Portales` Ã—1 â†’ **`Pourtales`**, now 15. Backup `â€¦bak15`; checks green.
 
-The identification does not rest on spelling similarity but on biography. Letter 264 describes *"Der reiche Gr[af] **Portalis** mit Barbe in **Neufchatel** erzogen"* — raised in Neuchâtel with Barbe, having sold his English and French estates for millions. Letter 266 describes *"**Pourtales** … folgt blind seinen Jugend Freund und Schul Cammereden B[arbe]"* — the same school friend, the same fortune. Neuchâtel is the Pourtalès family seat. One man, under two spellings.
+The identification does not rest on spelling similarity but on biography. Letter 264 describes *"Der reiche Gr[af] **Portalis** mit Barbe in **Neufchatel** erzogen"* â€” raised in NeuchÃ¢tel with Barbe, having sold his English and French estates for millions. Letter 266 describes *"**Pourtales** â€¦ folgt blind seinen Jugend Freund und Schul Cammereden B[arbe]"* â€” the same school friend, the same fortune. NeuchÃ¢tel is the PourtalÃ¨s family seat. One man, under two spellings.
 
-**Line 18917 was excluded from the substitution and must stay excluded.** It reads *"den **Pourtales (nicht Portalis)** wird sehr schnell etworten"* — the writer's own note that the name should be Pourtales rather than Portalis. A blanket replace would render it *"Pourtales (nicht Pourtales)"*, destroying the very remark that establishes the identification. Recorded in `name_rulings.json` under `context_sensitive`; the site's pattern matches `Portalis` too, so that one mention still indexes to the right man.
+**Line 18917 was excluded from the substitution and must stay excluded.** It reads *"den **Pourtales (nicht Portalis)** wird sehr schnell etworten"* â€” the writer's own note that the name should be Pourtales rather than Portalis. A blanket replace would render it *"Pourtales (nicht Pourtales)"*, destroying the very remark that establishes the identification. Recorded in `name_rulings.json` under `context_sensitive`; the site's pattern matches `Portalis` too, so that one mention still indexes to the right man.
 
-**Canonical form is `Pourtales`, not `Pourtalès`.** The writer never used the accent, and project policy is root-only correction that does not invent period orthography. The family's proper form appears as the site display name, `Pourtalès (Pourtales)`.
+**Canonical form is `Pourtales`, not `PourtalÃ¨s`.** The writer never used the accent, and project policy is root-only correction that does not invent period orthography. The family's proper form appears as the site display name, `PourtalÃ¨s (Pourtales)`.
 
 ## Place of writing: 91 unresolved down to 24, and four extraction bugs
 
@@ -438,7 +438,7 @@ assumed datelines stand alone.
 ran, and `Breslau` sitting directly above went unread. Restricted to the foot of a letter: at the
 head this same fix fires on document openers like `P[ro]. M[emoria].`
 
-**One failed match ended the search.** A postscript's own date (`die Rükkunft nach Breslau ist
+**One failed match ended the search.** A postscript's own date (`die RÃ¼kkunft nach Breslau ist
 ohnfehlbar d 25ten bestimmt!`) was found first, failed to yield a place, and the function returned
 - never reaching the real `Erhringen den 7ten Juli 1805` above it.
 
@@ -459,7 +459,7 @@ ruling of "no place", and eighteen are enclosures, petitions and registers that 
 place - confirmed by reading each. Ten further readings rest on content rather than a dateline and
 carry a `[?]` accordingly.
 
-## Phase C — English translation
+## Phase C â€” English translation
 
 Scaffolding that had been in place since the site was built is now populated: the letter layout
 already had an **English** tab reading `site/_data/translations/<pad>.yml`, a status badge, and a
@@ -495,7 +495,7 @@ publication.
 
 **The pilot earned its keep.** Twelve letters spanning the range - clean, known-bad, the Polish 72e,
 the French 283, and the 48/302 twin - found real transcription errors as a by-product of having to
-make sense of every sentence: `drückte mich schier zu Baden` for `zu Boden` ("crushed me to the
+make sense of every sentence: `drÃ¼ckte mich schier zu Baden` for `zu Boden` ("crushed me to the
 ground"), and the `Abweisung`/`Anweisung` split on letter 48 where its twin 302 reads the opposite.
 Also surfaced a class worth watching: 31 pages where the translator marked doubt the German does not
 mark, reported as `unmarked-in-german` - candidate silent corruption.
@@ -513,7 +513,7 @@ corpus was re-split. The in-text markers are the reliable signal and are what th
 **`sender` and `recipient` are no longer empty.** Both fields were declared in the letters.json
 schema when the database was first built and never populated - 0 of 318. `derive_correspondents.py`
 reads them off the salutation and the signature, which are highly formulaic here: 192 letters open
-`Durchlauchtigster Fürst`, 197 close `v Triebenfeld`. Where a letter opens mid-flow with no
+`Durchlauchtigster FÃ¼rst`, 197 close `v Triebenfeld`. Where a letter opens mid-flow with no
 salutation the recipient is still recoverable from the form of address used throughout the body -
 a letter that says `Ewr Durchlaucht` twenty times is written to the prince whether or not it says
 so at the top - and that is evidence, so it is used. It is used **only** for the recipient: nothing
@@ -582,7 +582,7 @@ navigation links to it and the German footer says plainly that it is in English.
 from the same English translation as the English summaries rather than translated from them:
 running a summary through a second summarisation compounds whatever the first pass got wrong, and
 the source was equally available either way. The German follows the edition's own forms - `Rthl`,
-`Sequestration`, `Erbpacht`, `Fideicommißgüter`, and the name spellings established for this
+`Sequestration`, `Erbpacht`, `FideicommiÃŸgÃ¼ter`, and the name spellings established for this
 edition. Cost about $2.30 through the Batch API.
 
 The browse list shows whichever summary matches the page's language, and falls back to the search
@@ -619,7 +619,7 @@ Three things the essay is careful about, because the edition is:
   sums are the least reliable thing in the letters, coming mostly from Triebenfeld's own
   advocacy, and that numerals are the weakest point of the transcription.
 
-Verified while writing: letter 7 is signed `Charlotte von Triebenfeld ... ganz unterthänigste
+Verified while writing: letter 7 is signed `Charlotte von Triebenfeld ... ganz unterthÃ¤nigste
 Dienerin`, Breslau, 20 March 1815, and its text says she writes "directed by a letter from my
 father" - so the daughter's letter, the father's absence in Vienna and her not knowing his
 address are all in the document, not supplied.
@@ -650,11 +650,11 @@ These writers shorten a familiar name to its first syllable and a colon - "Min: 
 discusses Hardenberg and never writes his name out was simply not indexed under him. Nine
 letters are in that position (134, 213, 214, 239, 240, 241, 255, 264, 295), which left the
 State Chancellor of the Vienna years showing in 31 letters instead of 40 - a 29% undercount
-on a central figure. Also lost: five letters for Köckritz, one each for Amelang, Pourtalès
-and Grävenitz.
+on a central figure. Also lost: five letters for KÃ¶ckritz, one each for Amelang, PourtalÃ¨s
+and GrÃ¤venitz.
 
 A `NAME_ABBREV` table now folds verified abbreviations into the matching patterns. Result:
-Hardenberg 31 -> 40, Köckritz 29 -> 33, Amelang 31 -> 32, Pourtalès 12 -> 13, Grävenitz
+Hardenberg 31 -> 40, KÃ¶ckritz 29 -> 33, Amelang 31 -> 32, PourtalÃ¨s 12 -> 13, GrÃ¤venitz
 2 -> 3, Sacken 21.
 
 **Only abbreviations verified in context were added**, because a wrong expansion invents a
@@ -662,20 +662,20 @@ mention that is not in the letter, which is worse than missing one. Four traps w
 excluded, each checked by reading the passage:
 
 - `Ant:` is **Antwort**, not Anton - "Ant: wir zahlen schon zu viel"
-- `Kur:` is **Curländisch**, not a person - "der Kur: Erben"
-- `Ko:` is **Koschentin**, the estate, not Köckritz. L2's "In der Ko: Geschichte" is followed
-  by Pourtalès answering that he wants to buy, which settles it
+- `Kur:` is **CurlÃ¤ndisch**, not a person - "der Kur: Erben"
+- `Ko:` is **Koschentin**, the estate, not KÃ¶ckritz. L2's "In der Ko: Geschichte" is followed
+  by PourtalÃ¨s answering that he wants to buy, which settles it
 - `Sch:` could be Schlabrendorff, Schenck or Schimmelpfennig; `B:` could be Barbe, Beyme or
   Brzechsta
 
-`Sa:` was admitted only in its title-anchored form. Both corpus instances read "der Fürstin
-Sa:" and "Die Fürsten Sa:", and Sacken is the only Fürstin S- in the correspondence; a bare
+`Sa:` was admitted only in its title-anchored form. Both corpus instances read "der FÃ¼rstin
+Sa:" and "Die FÃ¼rsten Sa:", and Sacken is the only FÃ¼rstin S- in the correspondence; a bare
 `Sa:` would not have been safe.
 
 **The translations were inconsistent about the same thing, and that was a prompt fault.** The
 system prompt said to reproduce every proper noun exactly as spelled and never normalise a
 name, which fought against ordinary comprehension, so the model decided case by case: L239's
-"Min Hard:" became "Minister Hardenberg" while L264's "Fürsten Hard:" stayed "the Prince
+"Min Hard:" became "Minister Hardenberg" while L264's "FÃ¼rsten Hard:" stayed "the Prince
 Hard:". Seventeen English pages carried an unexpanded abbreviation. The glossary now has an
 `abbreviations` block stating that expanding an abbreviation is not correcting a name and is
 applied silently, with the same trap list, and `repair_translations.py --abbrev` brought those
@@ -702,7 +702,7 @@ i18n as a list of lead/body pairs, which is what let one shared include serve bo
 languages. Tooltips inflect: "1 Dokument", "2 Dokumente".
 
 One translation is worth noting. The Prenzlau entry quoted "malicious rumours", itself a
-translation; letter 26 turns out to read **"so viel boshafte Gerüchte ausgestreut wurden"**,
+translation; letter 26 turns out to read **"so viel boshafte GerÃ¼chte ausgestreut wurden"**,
 so the German page now quotes the manuscript instead of back-translating the English gloss.
 
 A build check confirms all 20 German titles present on the German page with no English
@@ -781,7 +781,7 @@ something that is not a fault.
 
 ## Restructured for a growing corpus
 
-The edition was built around one archival holding, Oe 1 Bü 9454, and it showed: adding a
+The edition was built around one archival holding, Oe 1 BÃ¼ 9454, and it showed: adding a
 second would have meant editing a 500-line script by hand, and would have collided at
 once, because 14525 will also have a document numbered 48.
 
@@ -852,7 +852,7 @@ with search, filters by kind, an A-Z bar, and a link to the documents each
 appears in (/documents/?term=). A switch beside "hide scans" turns the marks
 off; the privacy section of /rights/ now names four stored preferences.
 
-The definitions are drafts: the reference works (Adelung, Krünitz, the
+The definitions are drafts: the reference works (Adelung, KrÃ¼nitz, the
 Allgemeines Landrecht, Gloger) could not be reached from where they were
 written, so each names the work it is to be checked against, and the page
 says so. False hits found in review and fixed in the patterns: *Morgen* as
@@ -885,7 +885,7 @@ write, so a re-publish keeps them. About 1,400 replacements in 186
 translations and 32 summaries: rt, rtl, rttl, rthlr to the termbase's Rthl;
 gg, ggr, g., gl. to Groschen; pf. and d. (after Groschen) to Pfennig; fl. to
 gulden and x to kreuzer; every Fr. d'or to Friedrich d'or. Every Groschen and
-gulden replacement was read in context first. "Polish gulden", the złoty of
+gulden replacement was read in context first. "Polish gulden", the zÅ‚oty of
 the deeds, stays gulden, and the glossary's gulden now covers it.
 
 ## Patrimonial courts, Regierung in the termbase, and the glossary's third batch (2026-10-02)
@@ -920,7 +920,7 @@ Government. Of the rest, the plurals were already "Governments", and "court",
 "authorities" and "reigning" turned out to render other words. What remained:
 
 - 15 places named the institution by its seat in lower case ("the government
-  at Kalisz", "the Poznań government"). A house-form rule in
+  at Kalisz", "the PoznaÅ„ government"). A house-form rule in
   `reference/english_forms.yml` capitalises them, and the same 14 times in the
   English summaries.
 - 11 needed the sentence read, and go in a new file,
@@ -949,7 +949,7 @@ Justiz-Commissarius), 87 rulings with reasons (section numbers, plain month
 and number abbreviations, names, salutations the English renders plainly,
 words plain in English), and patterns widened to the forms the entries
 missed. Prefect and Podprefect had never matched in the German, the pattern
-expecting Prä-; they do now. 108 entries, 14,037 marks in 417 documents.
+expecting PrÃ¤-; they do now. 108 entries, 14,037 marks in 417 documents.
 
 `glossary_candidates.py --check` is the gate the plan called for, and
 regenerate.py runs it after the holdings' descriptions: it fails the build if
@@ -960,7 +960,7 @@ the word; restored, it passed.
 ## The glossary checked against the reference works (2026-10-02)
 
 With woerterbuchnetz.de, kruenitz.uni-trier.de and pl.wikisource.org now
-allowed, 54 of the draft entries were read against Krünitz, Adelung, Grimm
+allowed, 54 of the draft entries were read against KrÃ¼nitz, Adelung, Grimm
 and Gloger and set `checked: true`, each with a `source:` naming the entry and
 its URL. The glossary page now links the entry name (`source_html`, built by
 glossary_build.py); a path into `reference/` is still dropped, and the rest of
@@ -968,14 +968,14 @@ the line now shows (the Mencel source's "for the rule of 1795").
 
 Where the work said otherwise, the English and German were corrected:
 - Money and measures: Courant is the coin of everyday trade, small change
-  apart; the Friedrichsdor stood by law at 5¼ Rthl Courant, in trade at five
+  apart; the Friedrichsdor stood by law at 5Â¼ Rthl Courant, in trade at five
   in gold with a moving premium, and at six in the royal offices in 1809; the
   Centner was 110 pounds at Berlin but 132 in Silesia (and grain, measured
   by the Scheffel, is dropped from it); the Klafter is six feet by six, as deep as the logs are long; the
   Morgen is a day's or a morning's ploughing; the Hufe is 30 Morgen, and in
-  Greater Poland the włóka itself was called Hufe; the Polish gulden is a
+  Greater Poland the wÅ‚Ã³ka itself was called Hufe; the Polish gulden is a
   money of account; the legal rate of interest in Prussia was five per cent.
-- Land and law: the canon is not "never raised" (Krünitz has the hereditary
+- Land and law: the canon is not "never raised" (KrÃ¼nitz has the hereditary
   rent set in grain or by grain prices too), and the same correction goes into
   Erbpacht, which stays unchecked; the Erbzins acknowledges the lord's
   ownership of the soil and is not said to replace labour; the Laudemium is
@@ -997,8 +997,8 @@ Where the work said otherwise, the English and German were corrected:
 Left unchecked, and why: the entries resting on the Allgemeines Landrecht, the
 Hypothekenordnung, the Gerichtsordnung, Acta Borussica, Grotefend or a
 standard history, none online here (Erbpacht, Einstand and Resignation
-among them, though Krünitz was read for each; it has no Dominium); and those the
-works online have no entry for: olędrzy, the Duchy of Warsaw's prefects,
+among them, though KrÃ¼nitz was read for each; it has no Dominium); and those the
+works online have no entry for: olÄ™drzy, the Duchy of Warsaw's prefects,
 tribunals and peace courts (Gloger stops at 1795), Dismembration, pp., Actum,
 in fidem, ex officio, Rendant and the abbreviations of Herr. 55 of 108
 entries are now checked.
@@ -1021,7 +1021,7 @@ which will carry the fuller context at the next paid run.
 
 At the editor's request, the "Prusimski family" entry in
 `reference/people.yml` is now Antoni Prusimski, Starost of Niszczewice
-(Ostroróg-Prusimski), the original owner of the Trąbczyn and Kamionna estates,
+(OstrorÃ³g-Prusimski), the original owner of the TrÄ…bczyn and Kamionna estates,
 whose estates were confiscated after the uprising of 1794 and granted to the
 Prince of Hohenlohe-Ingelfingen in 1796. The slug stays `prusimski`, so links
 and the counted mentions carry over. The adjectival Prusimskische(n) (his
@@ -1041,9 +1041,9 @@ on 2026-09-29 from the letters and the contracts alone. It is rewritten on the
 plan in `docs/HOHENLOHE_ERA_PLAN.md`, in the voice the editor set (story voice,
 little metaphor, plain facts), in English and German written separately. New
 sections tell the confiscation and the grants of 1796 and 1797 (Nr. 3570,
-Oe 1 Bü 14525), Michalina Prusimska's complaints of 1800 to 1802 (Nr. 3709, as
+Oe 1 BÃ¼ 14525), Michalina Prusimska's complaints of 1800 to 1802 (Nr. 3709, as
 far as the scans show), the sales of Szetlewek, Kamionna and Kolno and
-Pszczew, the Erbet lease and the Oleśnica petition, the entail of 1805
+Pszczew, the Erbet lease and the OleÅ›nica petition, the entail of 1805
 (Oe 1 U 199), the tribunal at Kalisz, Zerboni di Sposetti's report, the
 Russian refusal of 1816 and the heirs' claim to 1820 (Nr. 12765). The reading
 list draws on all the holdings. The document count, span and number of
@@ -1071,7 +1071,7 @@ never the shortened form for him, so no translation changes.
 ## Names standardised in the English and tagged (2026-10-03)
 
 The editor asked that Prussiemski be standardised to Prusimski and tagged as
-Antoni Prusimski, noted that Kähmen had slipped through for Kamionna, and asked
+Antoni Prusimski, noted that KÃ¤hmen had slipped through for Kamionna, and asked
 for all names and places in the English to be checked. A names audit compared
 every name the translator recorded, German beside English, with the settled
 form in `reference/people.yml` and `places.yml`. The transcriptions are not
@@ -1080,31 +1080,31 @@ touched: what the writers wrote stays.
 - Registers: the spellings found are now recorded variants, so the termbase
   tells the translator the settled form and the build tags them. Antoni
   Prusimski takes Prussiemski, Prussimski, Prussimsky and Prusimsky (30
-  documents, from 29). Kamionna takes Kähmen and Kamienne, and Kamen, Kämen
+  documents, from 29). Kamionna takes KÃ¤hmen and Kamienne, and Kamen, KÃ¤men
   and Kamener only where they name the estate (they are also the verb).
   Kolno takes Kollno. Michalina Prusimska gets a running-text form,
-  Miączyńska, so the translator no longer prints her catalogue entry inside
-  a sentence; her second husband, Stanisław Miączyński, gets his own entry
-  (Moscinski, Mięczynsky), with a People-page biography. Prince Wilhelm of
+  MiÄ…czyÅ„ska, so the translator no longer prints her catalogue entry inside
+  a sentence; her second husband, StanisÅ‚aw MiÄ…czyÅ„ski, gets his own entry
+  (Moscinski, MiÄ™czynsky), with a People-page biography. Prince Wilhelm of
   Prussia gets his English form. Some forty other spellings of people and
   places join their entries.
 - English: rules in `reference/english_forms.yml` bring the published
   English into line (86 translation files, 31 English summaries): Prusimski;
-  Miączyńska and Miączyński for Moscinska, Moscinski, Mięczynsky; Kamionna
-  for Kähmen, Kamen, Kamienne, and "Kamionna or Kamionna" made one; Kolno for
+  MiÄ…czyÅ„ska and MiÄ…czyÅ„ski for Moscinska, Moscinski, MiÄ™czynsky; Kamionna
+  for KÃ¤hmen, Kamen, Kamienne, and "Kamionna or Kamionna" made one; Kolno for
   Kulm (31) and Kollno (20); Prince Wilhelm of Prussia for "Prinz Wilhelm
-  von Preußen"; and the other spellings by table (a new `names` lookup in
+  von PreuÃŸen"; and the other spellings by table (a new `names` lookup in
   english_forms.py). Two one-page corrections: "the peasants of Stoki" is
   Skokum (letter 191, die Skokumer Bauren), and the French letter of 1815
-  says "in favour of Madame Miączyńska", where the English had printed her
+  says "in favour of Madame MiÄ…czyÅ„ska", where the English had printed her
   catalogue entry.
 - German summaries: the same forms in `site/_data/summaries_de.yml` and the
   units' checked German summaries (42 places).
 
 Left standing, and listed in NEEDS_CONFIRMATION: the Grand Duchy of Posen,
-Betsche below Strehlen, Klein Althammer, Pourtalès / not Portalis (the
+Betsche below Strehlen, Klein Althammer, PourtalÃ¨s / not Portalis (the
 writer's own correction), and the names that need a ruling (Tarmowo or
-Tarnowo, Wrocławek, Schliefen and others).
+Tarnowo, WrocÅ‚awek, Schliefen and others).
 
 ## The editor's rulings on the names audit (2026-10-03)
 
@@ -1113,11 +1113,11 @@ for Rybbeck and Rybbek; Kunkel for Kunckel; Dormowe is Dormowo; and in letter
 155 the doubtful "Hussaczinski[?]" is Hussarzewski, applied to the
 transcription as a recorded ruling (`transcription_decisions.csv`, line
 11069), which takes the letters' doubt marks from 252 to 251. Klein Althammer,
-from which Hahn wrote letter 189, is Stara Kuźnia by Bierawa (the gazetteer
+from which Hahn wrote letter 189, is Stara KuÅºnia by Bierawa (the gazetteer
 GOV, LANAWAJO90CG), the works estate of the entail; the register had excluded
 it, and now folds it in. The cathedral chapter "zu Wraclawek" in 14525, 28 is
-Włocławek: a new place in the register, and the English says so. The scan
-shows "Wraclawek" where the transcription reads "Wrocławek"; whether to
+WÅ‚ocÅ‚awek: a new place in the register, and the English says so. The scan
+shows "Wraclawek" where the transcription reads "WrocÅ‚awek"; whether to
 correct the transcription is left to the editor. The English and the German
 summaries follow (a rule in english_forms.yml; 43 places in the translations,
 12 in the English summaries, 25 in the German).
@@ -1125,12 +1125,12 @@ summaries follow (a rule in english_forms.yml; 43 places in the translations,
 Betsche below Strehlen (letter 119) is left as it is, with the evidence that
 it is not Pszczew, for the editor to rule.
 
-Bątkowo (editor, 2026-10-03). The village the contracts and the entail call
-Batkowo or Botkow, the village of the Włocławek cathedral chapter from 1239
-until the partition, is Bątkowo in Polish and in the English, Batkowo in
+BÄ…tkowo (editor, 2026-10-03). The village the contracts and the entail call
+Batkowo or Botkow, the village of the WÅ‚ocÅ‚awek cathedral chapter from 1239
+until the partition, is BÄ…tkowo in Polish and in the English, Batkowo in
 German. The register entry, the English translations (7 documents) and
 summaries, the German summaries, the era page and the holdings' About pages
-follow; Botkow and Botkowo are folded in. The place stays Włocławek, as ruled.
+follow; Botkow and Botkowo are folded in. The place stays WÅ‚ocÅ‚awek, as ruled.
 
 Betsche below Strehlen (editor, 2026-10-03). The small estate in letter 119,
 divided among Hussite settlers about 1801, lay near Strzelin in Silesia and is
@@ -1139,29 +1139,29 @@ letter is no longer listed under Pszczew; the English keeps "Betsche".
 
 Wraclawek and Posen (editor, 2026-10-03). The transcription of 14525, 28 now
 reads "Wraclawek" and "Wracla-/wek", as the page has them (scans 0121_b,
-0122_a1), where it read "Wrocławek"; the place is still Włocławek, and the
+0122_a1), where it read "WrocÅ‚awek"; the place is still WÅ‚ocÅ‚awek, and the
 change is recorded in the holding's transcription_decisions.csv. "Grand Duchy
 of Posen" stands in the English of 12765 (14, 27, 28) as the state's English
 name. Schliefen / Schlieffen stays open. The 9454 and 14525 letters.json files
 are back to their CRLF line endings.
 
-Miączyński / Miączyńska (editor, 2026-10-03). Every spelling of the name
-(Mięczynsky, Mięczynska, Mieczynski, Miaczynska, Moscinska, Moszynski, ...)
-is written Miączyński for Stanisław and Miączyńska for Michalina in the
+MiÄ…czyÅ„ski / MiÄ…czyÅ„ska (editor, 2026-10-03). Every spelling of the name
+(MiÄ™czynsky, MiÄ™czynska, Mieczynski, Miaczynska, Moscinska, Moszynski, ...)
+is written MiÄ…czyÅ„ski for StanisÅ‚aw and MiÄ…czyÅ„ska for Michalina in the
 English. The English was already so; the register's patterns and the rules in
-english_forms.yml now cover the forms with e and ę too, and "Madame
-Mięczynsky" in the French letter of 1815 is written Madame Miączyńska, so a
+english_forms.yml now cover the forms with e and Ä™ too, and "Madame
+MiÄ™czynsky" in the French letter of 1815 is written Madame MiÄ…czyÅ„ska, so a
 new holding is standardised as well. The live site still showed "M. de
-Mięczynsky" in 12765, 6 because the names work had not yet been published.
+MiÄ™czynsky" in 12765, 6 because the names work had not yet been published.
 
 Catchwords said once (editor, 2026-10-03). Every page break in every holding
 was read for a catchword the reading text or the English still said twice
-("zu || zu", "Salomon Natan || Nathan junior", "§. 1. || § 1."). The line-break
+("zu || zu", "Salomon Natan || Nathan junior", "Â§. 1. || Â§ 1."). The line-break
 pass had dropped those that stand on a line of their own and open the next
 page; it could not see one at the end of a full line, one the transcription
 misread, or a repeated section number. 59 more are now recorded in a new
-`units/<slug>/catchwords.yml` (Oe 1 Bü 14526: 41, Oe 1 Bü 9454: 11, the Erbet
-record 53/71/0/-/57: 5, Oe 1 Bü 14525: 2), which `corpus_pages.py` reads with the line-break
+`units/<slug>/catchwords.yml` (Oe 1 BÃ¼ 14526: 41, Oe 1 BÃ¼ 9454: 11, the Erbet
+record 53/71/0/-/57: 5, Oe 1 BÃ¼ 14525: 2), which `corpus_pages.py` reads with the line-break
 decisions: the reading text drops the whole line or only the words named, and
 the transcription keeps them. Each entry names its line by number, text and
 the next page's first line, so a shifted corpus is found again or stops the
@@ -1172,8 +1172,8 @@ them. The repeats that the sentence needs stay ("mit Kolno. || Kolno
 grentzet", 14525, 13). english_forms.py no longer applies a correction twice
 where the words it looks for are part of its own replacement.
 
-Écus are Reichsthaler (editor, 2026-10-03). The Prince's French letter to
-Stein of 1815 (12765, 6) counts in écus, the French that Prussians wrote for
+Ã‰cus are Reichsthaler (editor, 2026-10-03). The Prince's French letter to
+Stein of 1815 (12765, 6) counts in Ã©cus, the French that Prussians wrote for
 the Thaler; the ministry's German note in the same file gives his 55,000 as
 "55000 rt.". The English, as everywhere on the site, now writes Reichsthaler
 (a rule in english_forms.yml: 10 in the translation, 3 in its summary), the
@@ -1211,9 +1211,9 @@ title registration now starts in December 1798; the Kamionna and Kolno sale
 cites both contracts; Triebenfeld's first arrest is March 1808, not January
 1809; the Vienna and Prosna events name his arrival and the line's settlement;
 the St Petersburg instruction cites the order of 20 April 1816; the note on
-his death no longer says Trąbczyn was sold after 1818. Names follow the
-register (Kamionna, Zagórów, Pszczew, Oleśnica, Konotop, Sławięcice, Wrocław,
-Poznań, Kalisz), Hohenlohe-Ingelfingen is named as the house style has it, and
+his death no longer says TrÄ…bczyn was sold after 1818. Names follow the
+register (Kamionna, ZagÃ³rÃ³w, Pszczew, OleÅ›nica, Konotop, SÅ‚awiÄ™cice, WrocÅ‚aw,
+PoznaÅ„, Kalisz), Hohenlohe-Ingelfingen is named as the house style has it, and
 the dashes are gone. 54 events, every document link resolving.
 
 Primary sources before Seidel (editor, 2026-10-03). The timeline's
@@ -1222,8 +1222,8 @@ documents. The 1811 proceedings are now told from letters 74a and 74d: the
 Invalids' Fund applied on 30 July 1811 to enforce its 50,000 Rthl loan, with
 9,375 Rthl of interest unpaid since 1807, and on 1 August the Kammergericht
 attached Princess von Sacken's legacy of 80,000 Rthl; the claim that the case
-file survives in Berlin is gone. The 1797 entry no longer says Zagórów was the
-lordship kept after Trąbczyn was lost; Tilsit and the Final Act cite general
+file survives in Berlin is gone. The 1797 entry no longer says ZagÃ³rÃ³w was the
+lordship kept after TrÄ…bczyn was lost; Tilsit and the Final Act cite general
 history and letter 271 in place of Seidel. Seidel remains a source, a
 secondary one: the documents come first and decide where the two disagree, and
 a fact from him alone is cited to him (his separation, the house arrest, Jena,
@@ -1232,8 +1232,8 @@ header.
 
 Correspondents named in full, with their titles (editor, 2026-10-03). The
 From and To line in a document's header showed the names as the holdings
-record them, some in German ("Friedrich Ludwig, Fürst zu
-Hohenlohe-Ingelfingen", "Ministerium der auswärtigen Angelegenheiten") and
+record them, some in German ("Friedrich Ludwig, FÃ¼rst zu
+Hohenlohe-Ingelfingen", "Ministerium der auswÃ¤rtigen Angelegenheiten") and
 most as a bare surname ("Hardenberg"). A new reference/correspondents.yml
 gives each of the 43 recorded forms a name and the person's title at the time
 of the documents, in English and German; the header now reads, for example,
@@ -1244,14 +1244,14 @@ it stands and reported by build_site_data.py.
 
 Places of writing in the page's language (editor, 2026-10-03). The place line
 under a document's date showed "Wien" on English pages, and "Blizanow" and
-"Swiątniki" without their Polish accents. English pages now use the
+"SwiÄ…tniki" without their Polish accents. English pages now use the
 register's English form where English has one (render: Vienna, Warsaw), and
 German pages the register's name (Wien, Warszawa (Warschau)); "Unknown" is
-"Unbekannt" in German. The register gives Blizanów and Świątniki their accents,
+"Unbekannt" in German. The register gives BlizanÃ³w and ÅšwiÄ…tniki their accents,
 with the letters' spellings kept as variants, and St. Petersburg in a dateline
 now finds its entry. The English (67 changes in 48 translations, 10 in the
 summaries, by a rule in english_forms.yml) and the German summaries follow
-("Blizanower Güter" stays, a German adjective).
+("Blizanower GÃ¼ter" stays, a German adjective).
 
 Document navigation stays in its holding (editor, 2026-10-03). The previous
 and next links on a document page, in archival and in chronological order,
@@ -1262,13 +1262,13 @@ browsing one holding stays in it; at a holding's first and last document the
 arrow is shown disabled. Checked: no navigation link leaves its holding.
 
 A stray full stop in 12765, 8 (editor, 2026-10-03). Page 2, line 212 read
-"den man die Gütter genommen hat. / und der Entschädiget werden muß", one
+"den man die GÃ¼tter genommen hat. / und der EntschÃ¤diget werden muÃŸ", one
 clause cut in two; the English followed ("have been taken. and who must be
 compensated"). The full stop is gone from the transcription (ruling in the
 holding's transcription_decisions.csv), and so from the reading text, and the
 English reads "have been taken and who must be compensated" (a correction in
 english_corrections.yml). The corpus dataset was regenerated with it, and
-now also carries Blizanów and Świątniki.
+now also carries BlizanÃ³w and ÅšwiÄ…tniki.
 
 Extent gives the pages only (editor, 2026-10-03). A document's details panel
 gave its extent as "34 lines across 2 manuscript pages" with "lines 1-34"
@@ -1277,7 +1277,7 @@ pages", "1 manuscript page"; German "Handschriftenseite(n)"). The line numbers
 stay in the transcription view, where a line is cited.
 
 Document headers tidied (editor, 2026-10-03). Every document is now called
-"Document 9 · Draft": the number first, then the kind, where the header had
+"Document 9 Â· Draft": the number first, then the kind, where the header had
 put the kind first and changed it from one document to the next ("Letter 8",
 "Draft 9"); relations and enclosures name "Document 8", and the browser tab
 reads the same. The relation notes, which were the evidence for each link
@@ -1292,7 +1292,7 @@ The holding named above the document navigation (editor, 2026-10-03). A
 document page now states its archival holding on a line of its own above the
 archival and chronological navigation, which stays inside that holding: the
 reference, linked to the holding's page on Sources, and the archive
-("Holding: Oe 1 Bü 9454, Hohenloher Zentralarchiv Neuenstein (HZAN)").
+("Holding: Oe 1 BÃ¼ 9454, Hohenloher Zentralarchiv Neuenstein (HZAN)").
 
 The Szetlewek sale explained (editor, 2026-10-03). "Most of the price goes to
 the man who held the farm on pledge" said too little. The timeline and the
@@ -1300,14 +1300,14 @@ era page now say, from the contract (14526, 25), that 8,333 Rthl of the
 12,333 went to Ignatz von Radzinski, who had lent money on the farm and held it as
 security until he was repaid, and was to vacate it once paid.
 
-Toruń, not Thorn (editor, 2026-10-03). The place register has a new entry,
-Toruń (German Thorn), so the documents that name it are tagged with it: the
+ToruÅ„, not Thorn (editor, 2026-10-03). The place register has a new entry,
+ToruÅ„ (German Thorn), so the documents that name it are tagged with it: the
 two replies of February 1799 sending Hohenlohe-Ingelfingen to the Government
 at Thorn for the confiscation judgment (14525, 43, 44), and the 1815 frontier
 letters (9454, 246, 266, 271). "Thoren" counts only where it names the town;
-in letter 104 it means "fools" and is left alone. The English writes Toruń (a
+in letter 104 it means "fools" and is left alone. The English writes ToruÅ„ (a
 rule in english_forms.yml: 4 translations, 2 summaries), as do the timeline,
-the era page and the About page of 14525; the German gives Toruń (Thorn).
+the era page and the About page of 14525; the German gives ToruÅ„ (Thorn).
 
 No full stop between a day and its ending (editor, 2026-10-03). The 14525
 transcription wrote "27.ten Juny 1796", "18.ten Februar" and so on, eight
@@ -1330,7 +1330,7 @@ The Konotop instructions explained (editor, 2026-10-03). The timeline listed
 the thirteen powers of attorney of 7 March 1809 (letters 48 and 302) without
 saying what they were for. The entry, and the passage on the era page, now
 say it from the letter: Hawich, a notary of the Duchy of Warsaw, was to sue to
-have Michalina Dąbska removed from Trąbczyn; to have the court administration
+have Michalina DÄ…bska removed from TrÄ…bczyn; to have the court administration
 put on the remaining estates for unpaid interest lifted, the King of Saxony
 having granted debtors three years' grace; to remove Honrichs, who had had
 himself appointed its administrator and had sold land without authority; to
@@ -1341,7 +1341,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **Timeline and era page: who was not paying, and what** (editor, 2026-10-03). The
   entries for 1 January 1811 and July 1811, and the matching paragraphs of the Hohenlohe-
   Ingelfingen years page, now say that the colonists holding farms in hereditary lease on the
-  Zagórów estates paid none of their yearly rent ("interest"), that the tenants of Oleśnica,
+  ZagÃ³rÃ³w estates paid none of their yearly rent ("interest"), that the tenants of OleÅ›nica,
   Kopojno and Drzewce paid no lease money, and what still fell due (letter 212). The remission
   of a third of the rent is given as Triebenfeld's proposal (letter 215, a Pro Memoria), and the
   eviction as the course he put forward if the estates were to be kept (letter 216).
@@ -1349,7 +1349,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **Timeline: Konotop shortened; the 1811 news from Sanitz retitled** (editor, 2026-10-03).
   The Konotop entry gives only the main charges (the full list stays on the era page). The
   entry of 15 August 1811 no longer reads as if the estates were only then to go to Michalina
-  Dąbska (Prusimska): they were handed over in 1807, and letter 217 reports how that came about
+  DÄ…bska (Prusimska): they were handed over in 1807, and letter 217 reports how that came about
   (her petition to Napoleon, passed on to the Polish governing commission, which ordered it).
 
 - **Timeline: cryptic entries rewritten; a house-style rule against them** (editor,
@@ -1358,9 +1358,9 @@ lose his estates. The era page writes Konotop, not Kontop.
   were (the War and Domains Chambers, the provincial courts, the mortgage books, court
   administration, the entail), and what happened, from the documents: letter 179a is a draft
   petition for a royal loan of 698,000 Rthl, not a survey that "promises" villages; the 1808
-  copies show the Zagórów court still working after Trąbczyn was taken; the King, not the
+  copies show the ZagÃ³rÃ³w court still working after TrÄ…bczyn was taken; the King, not the
   chamber, refused the Pszczew sale in 1805; Erbet's costs were 9 Thaler 18 groschen. Polish
-  place names: Witów, Piotrków, Nysa. New section "No cryptic statements" in HOUSE_STYLE.md.
+  place names: WitÃ³w, PiotrkÃ³w, Nysa. New section "No cryptic statements" in HOUSE_STYLE.md.
 
 - **Timeline: "What was happening" removed** (editor, 2026-10-03). The six-period summary
   under the timeline (site/_data/i18n.yml `movements`) was stale against the rewritten
@@ -1393,19 +1393,19 @@ lose his estates. The era page writes Konotop, not Kontop.
   dark one (People and Places pages).
 
 - **People: duplicates merged** (editor's question, 2026-10-04). Four people had two
-  entries under two spellings: Grevenitz (Grävenitz, "Grev:"), Carl Titz (Tietz, the forest
+  entries under two spellings: Grevenitz (GrÃ¤venitz, "Grev:"), Carl Titz (Tietz, the forest
   inspector who leased Drzewce), Koppe (Koppen, back from Paris in 1808) and Metzig (Melzig,
   written both ways in one passage of letter 41). Each is now one entry, and the English
   uses one spelling (english_forms.yml, person-spellings). The "Born" entry was catching the
-  start of Bornstädt and Bornsted: it is now Dr Ernst Gottlob Born of Frankfurt an der Oder
-  alone (two certifications), and Bornstädt finds all his spellings. Haugt now also finds
+  start of BornstÃ¤dt and Bornsted: it is now Dr Ernst Gottlob Born of Frankfurt an der Oder
+  alone (two certifications), and BornstÃ¤dt finds all his spellings. Haugt now also finds
   "Haucht" (letter 31). Knoblauch and Knobloch are two men and stay apart.
 
 - **German biographies: Polish place names** (editor's question, 2026-10-04). 79 German
   biographies on the People page used German place names (Kaemen, Betsche, Kalisch, Breslau,
   Koschentin, Wittow and others). They now give the Polish name with the German in brackets
   at its first mention (Kamionna (Kaemen), Pszczew (Betsche)), as the site does elsewhere;
-  Warschau and the Großherzogtum Posen stay as German writes them. The biographies of the
+  Warschau and the GroÃŸherzogtum Posen stay as German writes them. The biographies of the
   people merged or split today were rewritten with them.
 
 - **People and Places: documents as cards** (editor, 2026-10-04). Each person and place
@@ -1435,7 +1435,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   (one per letter, order or draft), the receiving office's writing set apart, 57 words corrected on
   the witness of the file's own twins and formulas, the Grand Chancellor's paraph given as
   G[oldbeck], and each document summarised in German and English. It is the suit for Brzyce
-  ("Brzezier Güter"), now tagged as that estate. The holding's page, the timeline entry and the
+  ("Brzezier GÃ¼ter"), now tagged as that estate. The holding's page, the timeline entry and the
   paragraph of the era essay are rewritten from the text, in both languages. The edition has 441
   documents. Not yet translated; the summaries have not had the claim check. See
   `units/ihagrrep7cnr3709/notes.md`.
@@ -1453,10 +1453,10 @@ lose his estates. The era page writes Konotop, not Kontop.
   - People: the biographies of Michalina Prusimska (her suit of 1800 for the Brzyce estates,
     the judgment of 9 December 1800, her petition from Dresden of 1802), Antoni Prusimski
     (still living in 1800; the life interest argued over), Goldbeck (his order of
-    December 1800 and its withdrawal), Danckelmann (vice-president at Poznań, then president
+    December 1800 and its withdrawal), Danckelmann (vice-president at PoznaÅ„, then president
     at Kalisz) and von der Reck (the petition of 1802), in both languages. Danckelmann is
     now also found where his name is broken over a line.
-  - Correspondents: the Grand Chancellor Goldbeck, the South Prussian Governments at Poznań
+  - Correspondents: the Grand Chancellor Goldbeck, the South Prussian Governments at PoznaÅ„
     and Warsaw, the Superior Appeal Senate of the Kammergericht and Michalina Prusimska.
   - Places: "Ingelfingen" was tagged as a place named in the text wherever a document wrote
     the Prince's name, "Hohenlohe Ingelfingen" (170 of 215 matches); the pattern now finds
@@ -1464,7 +1464,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   - Timeline: the 1800 entry is retitled "Prusimski's daughter sues for the Brzyce estates".
 
 - **III. HA MdA, III. Nr. 12366 added** (2026-10-04). The foreign ministry's file on Michalina
-  Miączyńska's claim and on the Polish judgments against Hohenlohe-Ingelfingen's creditors, 1818
+  MiÄ…czyÅ„ska's claim and on the Polish judgments against Hohenlohe-Ingelfingen's creditors, 1818
   to 1827: six documents on 37 pages and the cover, five in French and one in Polish. The fifteen
   openings were cut at folds the editor placed or approved, and scans 0004 and 0005, one opening
   photographed twice round a slip in the gutter, give the left and the right page. The editor's
@@ -1494,10 +1494,10 @@ lose his estates. The era page writes Konotop, not Kontop.
   holding is marked translated.
 
 - **III. HA MdA, III. Nr. 12367 added** (2026-10-04). Fourteen scans from the second volume of
-  the foreign ministry's file on Michalina Miączyńska's claim, 1828 to 1832: eleven documents on
+  the foreign ministry's file on Michalina MiÄ…czyÅ„ska's claim, 1828 to 1832: eleven documents on
   15 pages and the cover, eight in French, two in Polish and one in German. All concern the
   compensation of the Breslau banker Weigel for the mortgage of 30,000 thalers the Polish courts
-  struck off Trąbczyn: the answers of Baron Mohrenheim, of the finance commission and of Engel to
+  struck off TrÄ…bczyn: the answers of Baron Mohrenheim, of the finance commission and of Engel to
   the Prussian consul general Schmidt, and the exchange between the finance minister Prince
   Lubecki and Weigel in the autumn of 1830. The one opening (scan 0009) was cut at its fold. The
   editor's transcription, by paragraph except for Weigel's German letter, was cut to the pages;
@@ -1509,7 +1509,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   in German and English, and the holding has its page, three timeline entries (the timeline now
   runs to 1832) and a paragraph in the era essay, in both languages. New people: Mohrenheim,
   Schmidt (the consul), Lubecki, Engel, Lubowidzki, Drake, Eisenhardt (the banker, parted from
-  the Berlin agent Eysenhardt); "Césarévitch" matched to Grand Duke Constantine. Two small
+  the Berlin agent Eysenhardt); "CÃ©sarÃ©vitch" matched to Grand Duke Constantine. Two small
   additions to the build: a by-paragraph ruling can name one document's part of a shared page
   ("8:0009_a2"), and a paragraph break no cue proposes can be written into
   `paragraph_decisions.csv` by hand (cue `hand`). The edition has 458 documents. Not yet
@@ -1517,12 +1517,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   Polish letters are not transcribed. See `units/iiihamdaiiinr12367/notes.md`.
 
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6 added** (2026-10-04), the first holdings from the Archiwum
-  Główne Akt Dawnych in Warsaw: the papers of July 1807 by which the Governing Commission, the
-  provisional Polish government, returned the Prusimski estates to Michalina Dąbska. From the
+  GÅ‚Ã³wne Akt Dawnych in Warsaw: the papers of July 1807 by which the Governing Commission, the
+  provisional Polish government, returned the Prusimski estates to Michalina DÄ…bska. From the
   commission's file of its stay at Dresden (1/174/0/2/73), four documents on five pages: her
   petitions to the commission of 20 and 23 July and to Napoleon of 21 July, and the commission's
   draft resolution of 21 July 1807. From its register of orders and resolutions (1/174/0/1/6),
-  two documents on three pages: the order of 12 July to carry out Napoleon's decree for Józef
+  two documents on three pages: the order of 12 July to carry out Napoleon's decree for JÃ³zef
   Wybicki, and the fair copy of the resolution of 21 July. Each image shows an opening, of which
   the editor wanted one side; the eight pages were cut out by boxes recorded in each unit's
   `intake/build_pages.py`. The editor's marks 05, 07 and 08 are leaf numbers, so image 06 is
@@ -1534,10 +1534,10 @@ lose his estates. The era page writes Konotop, not Kontop.
   Prince Director of War on the Emperor's order. Dates, places, senders, types and languages
   are set; each document is summarised in German and English; each holding has its page in both
   languages; one timeline entry (21 July 1807) and two sentences in section V of the era essay.
-  New people: Małachowski, Łuszczewski, Bischoffwerder; Sanitz, Niemojewski, Hohenlohe and
-  Michalina Dąbska matched in the forms of 1807; Dresden, Warsaw and Kolno matched in their
+  New people: MaÅ‚achowski, Åuszczewski, Bischoffwerder; Sanitz, Niemojewski, Hohenlohe and
+  Michalina DÄ…bska matched in the forms of 1807; Dresden, Warsaw and Kolno matched in their
   Polish and French forms. The glossary entry for the Prussian court called Regierung no longer
-  marks "die preußische Regierung" or "the Prussian Government": 36 marks gone, in these
+  marks "die preuÃŸische Regierung" or "the Prussian Government": 36 marks gone, in these
   holdings and in Nr. 12366 and Nr. 12765. Both holdings are placed in the Hohenlohe-Ingelfingen
   years pending the editor's ruling. The edition has 464 documents. Not yet translated; the
   summaries have not had the claim check. See `units/agad11740273/notes.md` and
@@ -1571,48 +1571,48 @@ lose his estates. The era page writes Konotop, not Kontop.
   four archives (HZAN, GStA PK, APP, AGAD), gives 464 documents and 1,529 pages, the French and
   Polish documents, 609 marks of doubt in 233 documents (with the gap mark `[...]` added to the
   table), nine undated documents, that every published document is in the Hohenlohe era, how
-  écus and Polish florins are rendered, and that all 459 translations are drafts.
+  Ã©cus and Polish florins are rendered, and that all 459 translations are drafts.
 
 - **APP 53/968/0/-/801 added** (2026-10-05), the second holding from the State Archive in
-  Poznań: sixteen pages from the papers of Albert Breyer, copied about 1930, of three papers on
-  the parcelling of the Zagórów and Trąbczyn estates. One document, dated 21 March 1806: the
+  PoznaÅ„: sixteen pages from the papers of Albert Breyer, copied about 1930, of three papers on
+  the parcelling of the ZagÃ³rÃ³w and TrÄ…bczyn estates. One document, dated 21 March 1806: the
   Prince's general power of attorney for Triebenfeld of 19 February 1805, the consent of the War
   and Domains Chamber at Kalisz of 28 January 1806, and the hereditary lease of 100 Hufen of the
   Drzewce forest to eighteen settlers, whose opening is missing. The seventeen images were
   staged uncropped; the editor's transcription was cut to the pages (page 16 had no mark) and
   the cover's text added from the image. Corrected against the scans: 84 passages, with the
-  copies of the power of attorney in APP 53/71/0/-/57 and of the consent in Oe 1 Bü 14526
+  copies of the power of attorney in APP 53/71/0/-/57 and of the consent in Oe 1 BÃ¼ 14526
   (document 8) as second witnesses. A skipped line and a half of the consent was restored;
   Michael Just's share is 5 Hufen, not 10; the lessee Siemert or Liemert is Liewert; "Petenck"
   is Schenck; the three crosses of the eleven lessees who could not write are given as "xxx".
   Summarised in German and English; holding page in both languages; two timeline entries (28
   January and 21 March 1806) and a third source for the entry of 19 February 1805. Five place
-  patterns widened for the copyist's forms (Trompczyn, Marianten, Szedlewek, Święcia and Święca,
-  Nowawieś); the last also matches "Nowawieś" in III. HA MdA, III. Nr. 12367, document 7. The
+  patterns widened for the copyist's forms (Trompczyn, Marianten, Szedlewek, ÅšwiÄ™cia and ÅšwiÄ™ca,
+  NowawieÅ›); the last also matches "NowawieÅ›" in III. HA MdA, III. Nr. 12367, document 7. The
   edition has fourteen holdings and 465 documents. Not yet translated; the summary has not had
   the claim check. See `units/app539680801/notes.md`.
 
 - **APP 53/968/0/-/801 divided into three documents** (2026-10-05, the editor's ruling the
   same day): the power of attorney (document 1, 19 February 1805, Guhrwitz), the consent
   (document 2, 28 January 1806, Kalisz) and the lease contract (document 3, 21 March 1806,
-  Mariantów), with a relation from each of the first two to the contract. Three summaries in
+  MariantÃ³w), with a relation from each of the first two to the contract. Three summaries in
   place of one; the holding page cites each paper by its own number; the timeline entries
   point to the right documents; the correction log re-keyed
   (`intake/split_documents.py`). The address `/documents/app539680801/1/` is now the power
   of attorney; the contract is at `/3/`. The editor also confirmed "Dr." before Johann
   Wendel Heilmann and Michael Just's 5 Hufen. New person: Heinrichs, the chamber's
-  Commissionsrath and Oeconomie-Commissarius who attests this lease and the Althütte lease
-  (Oe 1 Bü 14526, document 16), kept apart from Martin Honrichs. The edition has 467
+  Commissionsrath and Oeconomie-Commissarius who attests this lease and the AlthÃ¼tte lease
+  (Oe 1 BÃ¼ 14526, document 16), kept apart from Martin Honrichs. The edition has 467
   documents.
 
 - **What the rest of the site owed APP 53/968/0/-/801** (2026-10-05). The era essay said the
-  crown had licensed the division of Trąbczyn and Zagórów the year before the punctation of
+  crown had licensed the division of TrÄ…bczyn and ZagÃ³rÃ³w the year before the punctation of
   April 1805. Both copies of the consent are dated 28 January 1806, on cabinet orders of
   October and December 1805; the sentence is corrected in both languages and links both
   copies. A short paragraph on the Drzewce lease added to section III (no entry money, four
-  free years, on uncleared forest). The holding pages of APP 53/71/0/-/57, Oe 1 Bü 14526,
-  Nr. 3705 and Oe 1 Bü 9454 name the new holding among their related holdings, in both
-  languages. APP 53/71/0/-/57 is no longer described as the only holding from Poznań.
+  free years, on uncleared forest). The holding pages of APP 53/71/0/-/57, Oe 1 BÃ¼ 14526,
+  Nr. 3705 and Oe 1 BÃ¼ 9454 name the new holding among their related holdings, in both
+  languages. APP 53/71/0/-/57 is no longer described as the only holding from PoznaÅ„.
 
 - **APP 53/968/0/-/801 translated and its summaries claim-checked** (2026-10-05, in session at
   the editor's word). The three documents were translated beside the published English of the
@@ -1620,23 +1620,23 @@ lose his estates. The era page writes Konotop, not Kontop.
   differs from them in a word it is followed and the difference flagged. check_translations.py
   raised two rows, neither a fault; uncanonical_names.py nothing in this holding. Seven of the
   copyist's spellings became variants in `reference/places.yml` (Trompczyn, Marianten,
-  Mariantow, Szedlewek, Święcia, Święca, Świątnik). The claim check held 35 statements of the
+  Mariantow, Szedlewek, ÅšwiÄ™cia, ÅšwiÄ™ca, ÅšwiÄ…tnik). The claim check held 35 statements of the
   three summaries to the documents and weakened two. The English summaries, the holding page
   and a timeline entry now use the termbase's words (demesne farm, Government, Midsummer).
   Status `translated`; every document with text now has an English translation, 462 of 467.
 
 - **I. HA Rep. 162, Nr. 295 added** (2026-10-05), from the file of the Prussian state treasury
-  on the 50,000 Rthl registered on Zagórów: the cover and eleven pages of copies of 1805, in
+  on the 50,000 Rthl registered on ZagÃ³rÃ³w: the cover and eleven pages of copies of 1805, in
   three documents. Triebenfeld's bond to the General Invalids' Fund (Berlin, 28 January 1805),
   which pledges a fifth of the Prince's bond for 250,000 Rthl; the South Prussian Government's
   certificate of its second acknowledgement (Kalisz, 5 March), with the note of its entry in
-  the mortgage book; and the mortgage certificate for Zagórów (13 March). The editor
+  the mortgage book; and the mortgage certificate for ZagÃ³rÃ³w (13 March). The editor
   transcribed from the joined page images, line by line. Corrected against the images: 34
-  passages; the list of estates in the bond ends "Grądzyn", not "Trąbczyn"; "Seehandlungs-
+  passages; the list of estates in the bond ends "GrÄ…dzyn", not "TrÄ…bczyn"; "Seehandlungs-
   Obligationen", "Koniner Kreise", "Frist". Line ends and paragraphs ruled by hand. Summarised
   in German and English and claim-checked (27 statements, one weakened); translated in session
   (no check rows); holding page in both languages; the timeline entry for the loan, section III
-  of the era essay and the pages of Oe 1 Bü 14525, Oe 1 Bü 9454 and Nr. 3705 link to it. New
+  of the era essay and the pages of Oe 1 BÃ¼ 14525, Oe 1 BÃ¼ 9454 and Nr. 3705 link to it. New
   person: the Regierungsrath v. Lichnowski at Kalisz, kept apart from the creditors of that
   name. Glossary: `rubrik` added, three abbreviations ruled out. The edition has fifteen
   holdings, 470 documents and 1,558 pages; 465 have an English translation. See
@@ -1646,19 +1646,19 @@ lose his estates. The era page writes Konotop, not Kontop.
   Venedig": three documents on four pages. An extract in French from dispatch No. 423 of Count
   Cattaneo, the Prussian resident at Venice, of 14 December 1796 (Prusimski, ill and broken by
   his wife's death, has asked for and been given a certificate that he cannot travel), with
-  the slip on which the councillor Raumer directs on 8 January 1797 that Hoym and Schrötter be
+  the slip on which the councillor Raumer directs on 8 January 1797 that Hoym and SchrÃ¶tter be
   notified; the department of foreign affairs' draft of 11 January 1797 to Hoym, Schroetter
-  and the Grand Chancellor von Goldbeck; Schrötter's reply of 29 January. Of seven scans the
+  and the Grand Chancellor von Goldbeck; SchrÃ¶tter's reply of 29 January. Of seven scans the
   editor wanted four; three openings were cut to the written side. The editor's line-by-line
   transcription was cut to pages, with the department's marks on the papers it received set
   apart as office text. Corrected against the scans: 20 passages; Raumer (for Rammer, Maunes,
   Maurer), Goldbeck as third addressee, Haugwitz and a doubtful Alvensleben as signatories,
-  "affatigué" restored in the extract. Summarised in both languages and claim-checked (19
+  "affatiguÃ©" restored in the extract. Summarised in both languages and claim-checked (19
   statements, two weakened); translated in session, no check rows; holding page in both
   languages; a timeline entry (14 December 1796) and two sentences in section I of the era
   essay; Nr. 3570 and Nr. 3709 link to it. New people: Cattaneo, Raumer, Schroetter and
-  Haugwitz, who is now also indexed in the letters of Oe 1 Bü 9454 that name him. New place:
-  Venice. The statement of Miączyńska's claim of 1818 (III. HA MdA, III. Nr. 12366, document
+  Haugwitz, who is now also indexed in the letters of Oe 1 BÃ¼ 9454 that name him. New place:
+  Venice. The statement of MiÄ…czyÅ„ska's claim of 1818 (III. HA MdA, III. Nr. 12366, document
   2) tells what the certificate was for and names the resident as "Comte Cathane"; he is now
   indexed there, and the holding page, the essay and the timeline say so. The edition has
   sixteen holdings, 473 documents and 1,562 pages; 468 have an English translation. See
@@ -1674,7 +1674,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   sheet. The three unread words of the Polish judgment in Nr. 12366 stand. In Nr. 12367 the
   end of Baron Mohrenheim's undated note (document 3, scan 0004) was read again on
   enlargements: the last sentence is "J'ai ici un tems affreux qui glace parfois mes passions
-  champêtres" (for "qui font parfois mon pain de négrêtes [?]"), and the line written
+  champÃªtres" (for "qui font parfois mon pain de nÃ©grÃªtes [?]"), and the line written
   sideways in the margin is added, "Pourriez Vous m'accorder pour 2 j. le [Courier?] de
   [Londres?] ?", set apart on the page (`sideways.yml`), with the English and the summary
   rewritten to match. The signature of the letter of 29 September 1830 (scan 0007) was tried
@@ -1685,7 +1685,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   be the day of receipt; document 15: the note that refers the petition to Minister von der
   Reck does not name the Cabinet). Later the same day the editor looked at three of these
   readings. The two last words of the margin line, first given as "[Courier?]" and
-  "[Londres?]", are left as "[Rev…?]" and "[P…?]", what the editor sees of them, and the
+  "[Londres?]", are left as "[Revâ€¦?]" and "[Pâ€¦?]", what the editor sees of them, and the
   guess that had gone into the summary was cut. The signature on scan 0007 is not Prince
   Lubecki's as far as the letter shows: the writer speaks of the minister of finance as
   another person. The first signature under the draft of Nr. 1414, which the editor cannot
@@ -1752,7 +1752,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - **Four early entries from the court books of Konin added** (2026-10-06 and 10-07), the second
   batch of the Prusimski era, all Latin, six documents: APP 53/6/0/-/17, an order of 12 June
-  1589 for an inspection after a new pond at Łukom flooded the woods of Trąbczyn, now the
+  1589 for an inspection after a new pond at Åukom flooded the woods of TrÄ…bczyn, now the
   earliest document of the edition; 53/6/0/-/36, two default judgments of 1644 for notches cut
   into trees and timber felled; 53/6/0/-/40, the decree of 26 January 1728 sending a
   commissioner onto the disputed ground; 53/6/0/-/45, the decree of 1763 suspending a suit
@@ -1765,7 +1765,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   1763 it was Prusimska who sent the potash off. The decree of 1775 cites the orders of 1589
   and 1728 by their days, which dates both. Summaries in both languages, claim-checked;
   holding pages in both languages; new person entries (Katarzyna and Krzysztof Prusimski, the
-  Trąmpczyński and Łukomski families; the Chełmski family curated). For the tools: a shared
+  TrÄ…mpczyÅ„ski and Åukomski families; the CheÅ‚mski family curated). For the tools: a shared
   helper for court-book holdings (`pipeline/intake/courtbook.py`); a date taken from the
   heading of a court's sitting (`dates: sitting`); a fold page on which the editor moves the
   lines and saves them; a page of what the checks changed, graded
@@ -1778,12 +1778,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   passages corrected, 26 of them places where the transcription lacked words that stand on
   the scan (27 with the one found before), the rest misread words that change a meaning.
   Three of the dropped phrases change what the record says the court found or did; the
-  largest, about sixty words on leaf 709 verso, is the court's finding that Chełmski raided
+  largest, about sixty words on leaf 709 verso, is the court's finding that CheÅ‚mski raided
   the inn with armed men. The English, which is the editor's, already had the right sense in
   most places and was changed in 32: 24 to add what had been dropped, seven where it had
   followed a misread word, and one where it read the Polish differently (two weeks in the
   tower, not twelve). One paragraph on leaf 680 which the English lacked was translated in
-  session. The summary's sentence on Chełmski's sentence was rewritten and checked (18
+  session. The summary's sentence on CheÅ‚mski's sentence was rewritten and checked (18
   statements). The fonds and the archive's account of the castle court are on the holding's
   page. The folds the scans are cut at were found again, after the first ones proved to cut
   the line ends of left pages, and wait for the editor's approval
@@ -1792,8 +1792,8 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - **APP 53/17/0/-/Konin Gr.145 added** (2026-10-06), the first holding of the Prusimski era:
   the decree of the commission that the Polish parliament appointed in 1774 to settle the
-  boundary between Antoni Prusimski's Trąbczyn and the Chełmski brothers' Łukomia. It sat on
-  the disputed ground from 13 September 1775 under Ludwik Dąmbski, voivode of Brześć
+  boundary between Antoni Prusimski's TrÄ…bczyn and the CheÅ‚mski brothers' Åukomia. It sat on
+  the disputed ground from 13 September 1775 under Ludwik DÄ…mbski, voivode of BrzeÅ›Ä‡
   Kujawski, and its decree was entered there on 23 September 1776 and copied into a court
   book of Konin. One document, 122 pages, Polish with Latin. The 62 scans of openings were
   cut at the fold. The editor's transcription (modern Polish spelling, by paragraph) and the
@@ -1803,8 +1803,8 @@ lose his estates. The era page writes Konotop, not Kontop.
   words on leaf 673, in both languages), a line of the title page added, and 93 dropped
   accents put right through the text. Summary in both languages, 16 statements checked;
   holding page in both languages; the era is now populated and the story page and the About
-  page say so; a timeline entry for 13 September 1775. New person: Ludwik Dąmbski. New place:
-  Brześć Kujawski. Three changes to the tools: a document longer than Python's CSV field
+  page say so; a timeline entry for 13 September 1775. New person: Ludwik DÄ…mbski. New place:
+  BrzeÅ›Ä‡ Kujawski. Three changes to the tools: a document longer than Python's CSV field
   limit can be read (`unitlib.py`); a person or place entry can be shut out of named
   documents with `not_in` (`pipeline/build/entities.py`), used for seven entries that matched
   other people or ordinary Polish words here; and `decree` is a kind of document. The
@@ -1819,66 +1819,66 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## The Prusimski era: the court books of Konin and Kalisz, 1589 to 1788 (2026-10-06 and 10-07)
 
-- Twenty-one holdings from the State Archive in Poznań added in one run, 92 documents: the boundary decree of 1775 (Konin Gr.145), six entries of the land court's books of decrees (53/6/0/-/17, -/36, -/40, -/45, -/46, -/47), three of the castle court of Kalisz (Kalisz Gr.414, Gr.424, Gr.425), and the Konin castle court registers Gr.136, Gr.114, Gr.115, Gr.116, Gr.117, Gr.118, Gr.119, Gr.120, Gr.121 and the decree of 1782 in Gr.153. Each entry of a court book is a document. Not published: the editor reviews the folds, the page of changes and `docs/PRUSIMSKI_QUESTIONS.md` first.
+- Twenty-one holdings from the State Archive in PoznaÅ„ added in one run, 92 documents: the boundary decree of 1775 (Konin Gr.145), six entries of the land court's books of decrees (53/6/0/-/17, -/36, -/40, -/45, -/46, -/47), three of the castle court of Kalisz (Kalisz Gr.414, Gr.424, Gr.425), and the Konin castle court registers Gr.136, Gr.114, Gr.115, Gr.116, Gr.117, Gr.118, Gr.119, Gr.120, Gr.121 and the decree of 1782 in Gr.153. Each entry of a court book is a document. Not published: the editor reviews the folds, the page of changes and `docs/PRUSIMSKI_QUESTIONS.md` first.
 - The editor's transcriptions and English translations are kept. Every holding was read against its scans, the short ones whole, four long ones (Konin Gr.117, Gr.118, Gr.153, Gr.119) by the light check, which their pages say. Each correction is logged with its reason, and `review/changes/` lists for the editor what changed and how much it matters.
-- Readings that changed what the documents say: Paweł Prusimski is Antoni's uncle ("Patrui", not "Patrii"; Konin Gr.117); the surveyor of 1782 is sworn ("jurato", not "jurisdictione"), and the sittings on the ground are "condescensio", not "conditio" (Konin Gr.153); the oath laid on Prusimski in 1783 is that the arrest did not reach his two men ("Arestum non praevenit"; 53/6/0/-/47, read with Konin Gr.119); the wood sold to Tracholz is oak (Konin Gr.120).
+- Readings that changed what the documents say: PaweÅ‚ Prusimski is Antoni's uncle ("Patrui", not "Patrii"; Konin Gr.117); the surveyor of 1782 is sworn ("jurato", not "jurisdictione"), and the sittings on the ground are "condescensio", not "conditio" (Konin Gr.153); the oath laid on Prusimski in 1783 is that the arrest did not reach his two men ("Arestum non praevenit"; 53/6/0/-/47, read with Konin Gr.119); the wood sold to Tracholz is oak (Konin Gr.120).
 - What the holdings established together: the commission of 1775 ended in two decrees, one for each side (Konin Gr.116, Gr.117); the Crown Tribunal decided between them on 23 January 1782 and confirmed it on 17 October 1782, and forty-one mounds were raised from 30 November to 3 December 1782 (Konin Gr.118, Gr.153). The About page, the story page and the era's blurb say so now; they said that the decree of 1775 fixed the boundary.
 - `pipeline/intake/courtbook.py` (new): the shared steps of a court-book holding, from cutting the scans to the summaries, driven by one `intake/holding.py` per holding. `pipeline/review/changes_page.py` (new): the page of changes. Dates may be taken from the heading of the court's sitting (`dates: sitting` in rulings.yml). Kinds of document added: report, delivery, protest.
 - The translation check no longer takes a chestnut mare ("Equam Castaneam") for a misread "hypocaustum".
 - Figures: 564 documents on 1,832 pages in 36 holdings, 1589 to 1832; 86 in Latin; 912 marks of doubt; 559 translated.
-- **The editor's second review of the Prusimski-era run (2026-10-07).** At their word the four holdings that had only the light check were read through against the scans: Konin Gr.117 (159 more corrections), Gr.118 (133), Gr.153 (106) and Gr.119 (8). The record of each is `intake/full_check.json`, applied by `holding.py --full` (`courtbook.full_check`). No document is marked as a rough reading any more; the marks of doubt in the edition fell from 912 to 743. What changed the sense: in the Tribunal's decree of 1782 Orłowski is sentenced to pay Prusimski, not the reverse, the two officers are boundary chamberlains, and words passed over in the ruling on Martin Hunt are restored (Gr.153); in Chełmski's protests of 1778 "jurto" is an oath, not a jurisdiction, and "pro invalibili" is "invalid" (Gr.117); three lines restored in the protest against the land court of 1782, and Teresa Bogdańska is the successor of her two late sisters (Gr.118).
-- Two entries the editor had photographed were transcribed and translated in session and added as documents: 53/6/0/-/46 entry no. 17 (the land court's decree of 1777 on the debt Chełmski bought from the merchant Tracholz) and 53/6/0/-/47 entry no. 43 (a hearing on the ground fixed in 1784 for the boundary of Biskupice and Łomów, with Prusimski cited).
-- Jakub Górski, boundary chamberlain of Inowrocław, has his Polish form in the English; the transcription keeps "Gorski" (the editor). Paweł Prusimski as Antoni's uncle, "jurato" and "condescensio" confirmed by the editor.
-- The fonds of 53/6 ("Księgi sądu ziemskiego w Koninie") and 53/15 ("Księgi sądu i urzędu grodzkiego w Kaliszu"), with the archive's description, are on the nine holdings' pages; the Skanoteka watermark is noted on the nine holdings whose photographs carry it.
+- **The editor's second review of the Prusimski-era run (2026-10-07).** At their word the four holdings that had only the light check were read through against the scans: Konin Gr.117 (159 more corrections), Gr.118 (133), Gr.153 (106) and Gr.119 (8). The record of each is `intake/full_check.json`, applied by `holding.py --full` (`courtbook.full_check`). No document is marked as a rough reading any more; the marks of doubt in the edition fell from 912 to 743. What changed the sense: in the Tribunal's decree of 1782 OrÅ‚owski is sentenced to pay Prusimski, not the reverse, the two officers are boundary chamberlains, and words passed over in the ruling on Martin Hunt are restored (Gr.153); in CheÅ‚mski's protests of 1778 "jurto" is an oath, not a jurisdiction, and "pro invalibili" is "invalid" (Gr.117); three lines restored in the protest against the land court of 1782, and Teresa BogdaÅ„ska is the successor of her two late sisters (Gr.118).
+- Two entries the editor had photographed were transcribed and translated in session and added as documents: 53/6/0/-/46 entry no. 17 (the land court's decree of 1777 on the debt CheÅ‚mski bought from the merchant Tracholz) and 53/6/0/-/47 entry no. 43 (a hearing on the ground fixed in 1784 for the boundary of Biskupice and ÅomÃ³w, with Prusimski cited).
+- Jakub GÃ³rski, boundary chamberlain of InowrocÅ‚aw, has his Polish form in the English; the transcription keeps "Gorski" (the editor). PaweÅ‚ Prusimski as Antoni's uncle, "jurato" and "condescensio" confirmed by the editor.
+- The fonds of 53/6 ("KsiÄ™gi sÄ…du ziemskiego w Koninie") and 53/15 ("KsiÄ™gi sÄ…du i urzÄ™du grodzkiego w Kaliszu"), with the archive's description, are on the nine holdings' pages; the Skanoteka watermark is noted on the nine holdings whose photographs carry it.
 - The page of changes marks what was written after the editor read it ("New"), and counts it at the top.
-- In 53/6/0/-/47, entry no. 26, Prusimski's proxy is "Zeromski" (Wojciech Żeromski), on the witness of entry no. 43 (the editor, 2026-10-07).
-- Entry no. 43 of 53/6/0/-/47, added earlier the same day, was taken out again at the editor's word: it is a suit between Skórzewski and Chełmski over the boundary of Biskupice and Łomów and not relevant to the project. Its text is kept in the holding (`intake/entry_43.md`), because the reading "Zeromski" in entry no. 26 rests on it.
+- In 53/6/0/-/47, entry no. 26, Prusimski's proxy is "Zeromski" (Wojciech Å»eromski), on the witness of entry no. 43 (the editor, 2026-10-07).
+- Entry no. 43 of 53/6/0/-/47, added earlier the same day, was taken out again at the editor's word: it is a suit between SkÃ³rzewski and CheÅ‚mski over the boundary of Biskupice and ÅomÃ³w and not relevant to the project. Its text is kept in the holding (`intake/entry_43.md`), because the reading "Zeromski" in entry no. 26 rests on it.
 - Figures: 565 documents on 1,833 pages in 36 holdings; 739 marks of doubt; 560 translated.
 - **The spot sheet "Before publishing"** (fourteen rows across the holdings, answered by the editor on 2026-10-07; `docs/PRUSIMSKI_before_publishing.csv` and `..._answers.json`). Readings settled against the page: in 53/6/0/-/46, entry no. 17, "Vitkovien~" and "initorum"; "Laetare" there and "Invocavit" in Konin Gr.117 both stand, so the two documents disagree on the day of the hearing; the search of the 28th of October stands; in Rajewicz's protest (Konin Gr.116) the editor reads "Cumque", and "Citraque", "without his consent", is withdrawn from the text, the English, the summary and the holding's page. Confirmed as built: the closing sentence of 53/6/0/-/47 no. 26, the tower sentence and the paragraph on leaf 680 in Konin Gr.145, the note on leaf 266 verso in Konin Gr.118, the Kinos entry in Konin Gr.120. "Capitaneus" is "Starost" throughout the English of Konin Gr.119.
 - **The timeline takes in the Prusimski era** (2026-10-07, at the editor's word): sixteen events from 1589 to 1788, one per matter, each linked to its documents, in English and German. The page had begun at 1794, so the one earlier entry (the commission of 1775) had never been shown, and it still said that the commission fixed the boundary; it is rewritten (the commission ended in two decrees). Years before 1794 appear only where they have documents or an event.
-- **The timeline has a band where each era begins** (1589, 1794, 1807); the Prusimski years end and the Hohenlohe-Ingelfingen years begin with Prusimski's flight after the Kościuszko Uprising (the editor, 2026-10-07).
-- **Oe 1 Bü 9454, letters 245 and 289: the archive's new scans** (2026-10-07). The images are replaced (289 is now pages 0522_b and 0522_c), the text is corrected against them line by line with the editor's new transcription beside it, the English is revised and the summaries are written again. Letter 245 gains the last line of its first page and is no longer marked as a rough reading; marks of doubt fall from 14 to 6 in 245 and from 13 to 1 in 289 (737 to 717 in the edition). The editor then answered a spot sheet on six words of 245 (2026-10-07): "praedikat", "dringen[?]", "Erröthen[?]", "aus der B[...] Casse"; two readings stand. On four words of 289 (2026-10-08): "zu Brieg", "Heneberg"; "bitte" and "Circa" stand (719 marks of doubt in the edition). Published at the editor's word on 2026-10-08, with the timeline.
+- **The timeline has a band where each era begins** (1589, 1794, 1807); the Prusimski years end and the Hohenlohe-Ingelfingen years begin with Prusimski's flight after the KoÅ›ciuszko Uprising (the editor, 2026-10-07).
+- **Oe 1 BÃ¼ 9454, letters 245 and 289: the archive's new scans** (2026-10-07). The images are replaced (289 is now pages 0522_b and 0522_c), the text is corrected against them line by line with the editor's new transcription beside it, the English is revised and the summaries are written again. Letter 245 gains the last line of its first page and is no longer marked as a rough reading; marks of doubt fall from 14 to 6 in 245 and from 13 to 1 in 289 (737 to 717 in the edition). The editor then answered a spot sheet on six words of 245 (2026-10-07): "praedikat", "dringen[?]", "ErrÃ¶then[?]", "aus der B[...] Casse"; two readings stand. On four words of 289 (2026-10-08): "zu Brieg", "Heneberg"; "bitte" and "Circa" stand (719 marks of doubt in the edition). Published at the editor's word on 2026-10-08, with the timeline.
 - **The Prusimski-era holdings were published at the editor's word on 2026-10-07**: twenty-one holdings, 93 documents, 1589 to 1788. Figures: 565 documents on 1,833 pages in 36 holdings; 737 marks of doubt; 560 translated.
-- **AGAD 1/169/0/1/1745 added** (2026-10-13; not published): six pages of a Prussian table of the villages around Konin, of about 1797, entries 140 to 303, with the houses, churches and Christian and Jewish inhabitants of each place and a total at the foot of every page. There was no transcription: the table was read from the editor's three scans in the working session and is kept in `units/agad1169011745/intake/table.csv`, from which the text, the English version and the editor's checking spreadsheet (`review/agad1169011745/table_check.xlsx`, a picture of each line beside its row) are made. Every line and every page total adds up as read. The site's tables now take a heading of three levels and set off a page's own total (`unitlib.render_table`); the English of a table may translate its heading (`publish_translations.py`). "Kurow Koninsk." and the village "Ostrow" are shut out of the place entries for Konin and Ostrów. Figures with it: 566 documents on 1,839 pages in 37 holdings; 725 marks of doubt; 561 translated. Waiting for the editor's check of the table.
+- **AGAD 1/169/0/1/1745 added** (2026-10-13; not published): six pages of a Prussian table of the villages around Konin, of about 1797, entries 140 to 303, with the houses, churches and Christian and Jewish inhabitants of each place and a total at the foot of every page. There was no transcription: the table was read from the editor's three scans in the working session and is kept in `units/agad1169011745/intake/table.csv`, from which the text, the English version and the editor's checking spreadsheet (`review/agad1169011745/table_check.xlsx`, a picture of each line beside its row) are made. Every line and every page total adds up as read. The site's tables now take a heading of three levels and set off a page's own total (`unitlib.render_table`); the English of a table may translate its heading (`publish_translations.py`). "Kurow Koninsk." and the village "Ostrow" are shut out of the place entries for Konin and OstrÃ³w. Figures with it: 566 documents on 1,839 pages in 37 holdings; 725 marks of doubt; 561 translated. Waiting for the editor's check of the table.
 
-## The summaries of Oe 1 Bü 14525 and 14526 written again (2026-10-08)
+## The summaries of Oe 1 BÃ¼ 14525 and 14526 written again (2026-10-08)
 
-- At the editor's word, in a working session and at no cost: the 74 documents of the two Neuenstein volumes were read whole in their German text and summarised afresh in German, and the English summaries translated from the German. The first summaries had been written by the model from the English translations and never checked. Each statement was then held to its document (212 in Oe 1 Bü 14525, 182 in 14526; each holding's `intake/claim_check.yml`). Every holding's summaries have now been written from the original language and checked; the edition guide says so in both languages, and the two holdings' pages say how theirs were made.
-- Oe 1 Bü 14525, document 7: the Government at Kalisz attested the copy on 7 July **1801**, not 1804; corrected against the scan (0021_a2) in the transcription and the English. Documents 3 and 4 were checked against the scans: both copies of the grant of 1796 name only Kamionna, Kolno and Brzyce in the deed's text, as transcribed.
+- At the editor's word, in a working session and at no cost: the 74 documents of the two Neuenstein volumes were read whole in their German text and summarised afresh in German, and the English summaries translated from the German. The first summaries had been written by the model from the English translations and never checked. Each statement was then held to its document (212 in Oe 1 BÃ¼ 14525, 182 in 14526; each holding's `intake/claim_check.yml`). Every holding's summaries have now been written from the original language and checked; the edition guide says so in both languages, and the two holdings' pages say how theirs were made.
+- Oe 1 BÃ¼ 14525, document 7: the Government at Kalisz attested the copy on 7 July **1801**, not 1804; corrected against the scan (0021_a2) in the transcription and the English. Documents 3 and 4 were checked against the scans: both copies of the grant of 1796 name only Kamionna, Kolno and Brzyce in the deed's text, as transcribed.
 - Two dates on the site that are not the documents' own (14525, documents 13 and 21) stay as they are (the editor, 2026-10-09).
-- Oe 1 Bü 14526, document 26: the third party is **Kriede**, not "Reise" (the editor, 2026-10-09; the protocol is signed Jacob Kriede); corrected in the transcription, the English and the summary. Not yet published.
+- Oe 1 BÃ¼ 14526, document 26: the third party is **Kriede**, not "Reise" (the editor, 2026-10-09; the protocol is signed Jacob Kriede); corrected in the transcription, the English and the summary. Not yet published.
 
 ## AGAD 1/169/0/1/1745 checked by the editor and published; the cloud branch merged (2026-10-13)
 
-- **The editor checked the table of villages line by line** on the spreadsheet with a picture of each line: 25 names corrected (most of them a mark on a letter the first reading had missed: Kuźnica, Łomow, Myżakow, Ośiek, Pępoćin, Sługoćin; and Lęka, Siąszyce, Siekierszyn, Sierszew, "Groi.", "Trąmpczyn."), the six "[?]" taken away, 24 notes of doubt cleared, no figure changed. The list is in `units/agad1169011745/notes.md`. Two periods that went with the "[?]" were put back from the scan ("Leysce.", "Lęka."). "Szyman." is short for Szymanowice (the editor); the text keeps the short form. The folds stand as proposed.
+- **The editor checked the table of villages line by line** on the spreadsheet with a picture of each line: 25 names corrected (most of them a mark on a letter the first reading had missed: KuÅºnica, Åomow, MyÅ¼akow, OÅ›iek, PÄ™poÄ‡in, SÅ‚ugoÄ‡in; and LÄ™ka, SiÄ…szyce, Siekierszyn, Sierszew, "Groi.", "TrÄ…mpczyn."), the six "[?]" taken away, 24 notes of doubt cleared, no figure changed. The list is in `units/agad1169011745/notes.md`. Two periods that went with the "[?]" were put back from the scan ("Leysce.", "LÄ™ka."). "Szyman." is short for Szymanowice (the editor); the text keeps the short form. The folds stand as proposed.
 - **A clean spreadsheet of the table, to keep**: `units/agad1169011745/AGAD_1_169_0_1_1745_table.xlsx`, made by `holding.py --archive` from the reading: the table as written, the table in English, and a sheet on the source and the conventions; values only.
 - `holding.py --take` now brings back the editor's "Doubt" column too, and `--xlsx` refuses to write over the spreadsheet the editor saved.
-- **`claude/peaceful-meitner-snu6qx` merged into `main`**: the summaries of Oe 1 Bü 14525 and 14526 written again and claim-checked, and the two corrections with them (the section below). The other three cloud branches had nothing that `main` lacked. The two holdings' `summaries_draft.py` were run on the desktop so that its cache holds the new summaries.
+- **`claude/peaceful-meitner-snu6qx` merged into `main`**: the summaries of Oe 1 BÃ¼ 14525 and 14526 written again and claim-checked, and the two corrections with them (the section below). The other three cloud branches had nothing that `main` lacked. The two holdings' `summaries_draft.py` were run on the desktop so that its cache holds the new summaries.
 - **Published at the editor's word.** Figures: 566 documents on 1,839 pages in 37 holdings; 719 marks of doubt (the new holding has none); 561 translated.
 
-## Two holdings from the State Archive in Poznań added (2026-10-13; not published)
+## Two holdings from the State Archive in PoznaÅ„ added (2026-10-13; not published)
 
-- **APP 53/968/0/-/783**: a printed summons in Polish, served on 7/19 October 1860 on Karolina Fridenberg of the Staro-Łazińska colony, by which Count Włodzimierz Miączyński of Trąbczyn counterclaims before the Civil Tribunal at Kalisz against 97 colonists and asks that Hohenlohe-Ingelfingen's contract of 18 May 1805 with fourteen colonists be held not to bind him. One document on five pages, with the archive's cover. The editor's Polish was read against the scans on every page: 34 corrections and five lines in the court messenger's hand added. The editor's English was a machine's and wrong in substance (the summoning verb, "father" for "husband", "manor" for "court", fourteen holdings for eleven); it is written again from the corrected Polish, and `units/app539680783/intake/changes.yml` lists the differences for the page of changes. Summary in both languages, claim-checked (17 statements, one weakened); a timeline entry and a paragraph in section VIII of the era essay.
-- **APP 53/64/0/-/Kalisz Tab.21**: thirteen pages of the register of the hearth tax of the Kalisz voivodeship for the St John's instalment of 1789, 387 entries of the Pyzdry, Kalisz and Konin districts; Trąbczyn is entry 178 (80 złoty), with Łazy, Osiny, Nowa Wieś and its Olęders after it, and Łukom entry 106. There was no transcription: the register was read from the scans in the working session (`units/app53640kalisztab21/intake/table.csv`) and waits for the editor's check on a spreadsheet with a picture of each line. The pages have no totals; the sums are held by the rate of the tax instead (a multiple of 3 zł 15 gr, or of 2 zł 15 gr on leaves 18 to 20). The file named `017v.jpg` is placed as leaf 9 verso, by its receipt numbers.
-- **The site**: the document kind "summons"; the timeline runs to 1860 and shows a year after 1832 only if it has a document or an event; a district's name directly above the first entry of a table is a row of the table (`unitlib.table_of`); a glossary entry for the court messenger (woźny, ministerialis), which marks 41 documents; Count Włodzimierz Miączyński and the Zelmer family on the people page; the 1860 print's spellings of Prusimski and Weigel matched; five entries shut out of the register, where they matched village names.
+- **APP 53/968/0/-/783**: a printed summons in Polish, served on 7/19 October 1860 on Karolina Fridenberg of the Staro-ÅaziÅ„ska colony, by which Count WÅ‚odzimierz MiÄ…czyÅ„ski of TrÄ…bczyn counterclaims before the Civil Tribunal at Kalisz against 97 colonists and asks that Hohenlohe-Ingelfingen's contract of 18 May 1805 with fourteen colonists be held not to bind him. One document on five pages, with the archive's cover. The editor's Polish was read against the scans on every page: 34 corrections and five lines in the court messenger's hand added. The editor's English was a machine's and wrong in substance (the summoning verb, "father" for "husband", "manor" for "court", fourteen holdings for eleven); it is written again from the corrected Polish, and `units/app539680783/intake/changes.yml` lists the differences for the page of changes. Summary in both languages, claim-checked (17 statements, one weakened); a timeline entry and a paragraph in section VIII of the era essay.
+- **APP 53/64/0/-/Kalisz Tab.21**: thirteen pages of the register of the hearth tax of the Kalisz voivodeship for the St John's instalment of 1789, 387 entries of the Pyzdry, Kalisz and Konin districts; TrÄ…bczyn is entry 178 (80 zÅ‚oty), with Åazy, Osiny, Nowa WieÅ› and its OlÄ™ders after it, and Åukom entry 106. There was no transcription: the register was read from the scans in the working session (`units/app53640kalisztab21/intake/table.csv`) and waits for the editor's check on a spreadsheet with a picture of each line. The pages have no totals; the sums are held by the rate of the tax instead (a multiple of 3 zÅ‚ 15 gr, or of 2 zÅ‚ 15 gr on leaves 18 to 20). The file named `017v.jpg` is placed as leaf 9 verso, by its receipt numbers.
+- **The site**: the document kind "summons"; the timeline runs to 1860 and shows a year after 1832 only if it has a document or an event; a district's name directly above the first entry of a table is a row of the table (`unitlib.table_of`); a glossary entry for the court messenger (woÅºny, ministerialis), which marks 41 documents; Count WÅ‚odzimierz MiÄ…czyÅ„ski and the Zelmer family on the people page; the 1860 print's spellings of Prusimski and Weigel matched; five entries shut out of the register, where they matched village names.
 - The archive's descriptions of both fonds are in `reference/sources/`, with working translations.
 - Figures with them: 568 documents on 1,857 pages in 39 holdings; 759 marks of doubt; 563 translated; sixteen documents in Polish; the edition now runs from 1589 to 1860.
 
-## The editor's answers on the two Poznań holdings worked in (2026-10-14; not published)
+## The editor's answers on the two PoznaÅ„ holdings worked in (2026-10-14; not published)
 
-- **APP 53/64/0/-/Kalisz Tab.21**: the editor checked the hearth-tax register line by line on the spreadsheet with a picture of each line. 69 names corrected, no figure changed; the twelve figures off the rate of the tax confirmed as read; 13 names keep "[?]" (45 before). Three names the first reading had shortened are written in full on the page (Jerzmanowskiego, Bardzińskiego, z Młynem). The text, the English (three new forms in the word table), `process.md` and the page brought into line; the clean spreadsheet made (`units/app53640kalisztab21/APP_53_64_0_Kalisz_Tab_21_register.xlsx`). `017v.jpg` is leaf 9 verso (editor). The list of corrections is in the unit's `notes.md`. Publishing the English again also mended its table: the version on file had been published before the heading was settled, without the printed title.
-- **APP 53/968/0/-/783**: the folds approved as proposed. Count Włodzimierz Miączyński was Michalina Miączyńska's son (editor): in his biography and on the holding's page.
-- **The Olęder colonies of Trąbczyn** (editor): two colonies, first Trąbczyńskie Stare / Nowe Olędry, later Łazińskie Stare / Nowe Olędry, in several spellings; Łazy is a separate village. The summons' Staro- and Nowo-Łazińska colonies are matched to the two place entries, and Łazy is kept apart from both. A paragraph on this in the pages of both holdings.
-- **The tailed sign at the end of a name in the register** is the clerk's sign for an ending such as -skiego (editor): "Kiedrowę" (twice), "Trzebiesławę" and "Siedliskę" now stand as "Kiedrow:", "Trzebiesław:" and "Siedlisk:", given as a colon like the same sign elsewhere in the register.
-- **"Haul. Lazy."** in the table of about 1797 (AGAD 1/169/0/1/1745, no. 150) is probably the Łazińskie Olędry, not the village of Łazy (editor). Recorded; not matched to either colony.
+- **APP 53/64/0/-/Kalisz Tab.21**: the editor checked the hearth-tax register line by line on the spreadsheet with a picture of each line. 69 names corrected, no figure changed; the twelve figures off the rate of the tax confirmed as read; 13 names keep "[?]" (45 before). Three names the first reading had shortened are written in full on the page (Jerzmanowskiego, BardziÅ„skiego, z MÅ‚ynem). The text, the English (three new forms in the word table), `process.md` and the page brought into line; the clean spreadsheet made (`units/app53640kalisztab21/APP_53_64_0_Kalisz_Tab_21_register.xlsx`). `017v.jpg` is leaf 9 verso (editor). The list of corrections is in the unit's `notes.md`. Publishing the English again also mended its table: the version on file had been published before the heading was settled, without the printed title.
+- **APP 53/968/0/-/783**: the folds approved as proposed. Count WÅ‚odzimierz MiÄ…czyÅ„ski was Michalina MiÄ…czyÅ„ska's son (editor): in his biography and on the holding's page.
+- **The OlÄ™der colonies of TrÄ…bczyn** (editor): two colonies, first TrÄ…bczyÅ„skie Stare / Nowe OlÄ™dry, later ÅaziÅ„skie Stare / Nowe OlÄ™dry, in several spellings; Åazy is a separate village. The summons' Staro- and Nowo-ÅaziÅ„ska colonies are matched to the two place entries, and Åazy is kept apart from both. A paragraph on this in the pages of both holdings.
+- **The tailed sign at the end of a name in the register** is the clerk's sign for an ending such as -skiego (editor): "KiedrowÄ™" (twice), "TrzebiesÅ‚awÄ™" and "SiedliskÄ™" now stand as "Kiedrow:", "TrzebiesÅ‚aw:" and "Siedlisk:", given as a colon like the same sign elsewhere in the register.
+- **"Haul. Lazy."** in the table of about 1797 (AGAD 1/169/0/1/1745, no. 150) is probably the ÅaziÅ„skie OlÄ™dry, not the village of Åazy (editor). Recorded; not matched to either colony.
 - **A spot sheet for the summons**, "Pen marks on the summons": the six places where the court messenger wrote on the print, each with a picture.
 - Figures: 568 documents in 39 holdings; 727 marks of doubt.
 
 ## APP 53/968/0/-/669 added: Albert Breyer's notebook of July 1936 (2026-10-14; not published)
 
-- **APP 53/968/0/-/669**: a pencil notebook of 35 pages in German from the papers of Albert Breyer, written in Łazińsk and Emilienheim, German settlements of the commune of Trąbczyn, with a log of his photographs at the back. Only the notebook whose scans are in the folder "Notes on Łazińsk" (editor); the editor's English notes beside it belong to another notebook of the unit and were not used.
+- **APP 53/968/0/-/669**: a pencil notebook of 35 pages in German from the papers of Albert Breyer, written in ÅaziÅ„sk and Emilienheim, German settlements of the commune of TrÄ…bczyn, with a log of his photographs at the back. Only the notebook whose scans are in the folder "Notes on ÅaziÅ„sk" (editor); the editor's English notes beside it belong to another notebook of the unit and were not used.
 - There was no transcription: read from the scans in session (88 marks of doubt), translated, summarised in both languages and claim-checked (16 statements, two weakened); holding page in both languages. A spot sheet of ten readings, with pictures, for the editor.
-- The name list made from the corpus no longer takes a word cut by the line-break mark ("Emilien¬heim" was found as Emilie); nothing else in the edition changed. Neumann, Geheimer Finanzrat Schulze, Holland and Warszawa shut out of this document.
+- The name list made from the corpus no longer takes a word cut by the line-break mark ("EmilienÂ¬heim" was found as Emilie); nothing else in the edition changed. Neumann, Geheimer Finanzrat Schulze, Holland and Warszawa shut out of this document.
 - "geb." ruled out of the glossary (geboren).
 - Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 815 marks of doubt; 564 translated.
 
@@ -1888,17 +1888,17 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## APP 53/968/0/-/669: the editor's corrections to the first notebook (2026-10-14)
 
-- The editor read the English of Breyer's first notebook against the scans: Grodziec and Ciswica for Smaszew and Czarnica, Grądzeń, Moraß, Ed[uard] Zelmer, Chruściki, Kinder and Birke in the photo log, and others; the order of some lines; the German of the sayings kept beside the English; the inside back cover read again with the editor and completed (`units/app539680669/intake/editor_corrections.py`).
+- The editor read the English of Breyer's first notebook against the scans: Grodziec and Ciswica for Smaszew and Czarnica, GrÄ…dzeÅ„, MoraÃŸ, Ed[uard] Zelmer, ChruÅ›ciki, Kinder and Birke in the photo log, and others; the order of some lines; the German of the sayings kept beside the English; the inside back cover read again with the editor and completed (`units/app539680669/intake/editor_corrections.py`).
 - Years from 1900 on were shown with a thousands comma ("1,907"): `numerals.py` now takes 1500 to 1999 as years.
-- The English naming rule for Trąbczyn no longer rewrites a spelling quoted from the page ('written "Trąpczyn"'), which a run of it had done in two summaries; both kept as they were.
+- The English naming rule for TrÄ…bczyn no longer rewrites a spelling quoted from the page ('written "TrÄ…pczyn"'), which a run of it had done in two summaries; both kept as they were.
 - Figures: 812 marks of doubt.
 
 ## APP 53/968/0/-/669: a second notebook added and published (2026-10-14)
 
 - **Document 2**, Breyer's notebook "V. Grodziec Juli 1936", from the editor's raw photos IMG_5192 to IMG_5205: 25 pages read in session (33 marks of doubt), English, summary in both languages claim-checked (15 statements, three weakened), the holding's page and title for two notebooks. The camera's full-size picture inside each raw file was used; the last photo, flagged by the camera as turned, is upright inside the file.
-- A spot sheet of 15 readings for the editor. Koppe, Küster and Stanisław Miączyński shut out of the new document; the glossary's Morgen takes "Mor." after a figure.
+- A spot sheet of 15 readings for the editor. Koppe, KÃ¼ster and StanisÅ‚aw MiÄ…czyÅ„ski shut out of the new document; the glossary's Morgen takes "Mor." after a figure.
 - Figures: 570 documents on 1,917 pages in 40 holdings; 828 marks of doubt.
-- The editor's answers on the sheet of 15 readings worked in (Brudzewo, Kirschhacker, Swirkhaber, Chocz, Firstgugge and others); 824 marks of doubt. Three rows asked again on a short sheet and answered (Rhein…, "Die nach ins Posenschen gehen", Dachgugge). Published at the editor's word; 823 marks of doubt.
+- The editor's answers on the sheet of 15 readings worked in (Brudzewo, Kirschhacker, Swirkhaber, Chocz, Firstgugge and others); 824 marks of doubt. Three rows asked again on a short sheet and answered (Rheinâ€¦, "Die nach ins Posenschen gehen", Dachgugge). Published at the editor's word; 823 marks of doubt.
 
 ## Three holdings published (2026-10-14)
 
@@ -1906,15 +1906,15 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## The editor's answers on both spot sheets; two new eras (2026-10-14)
 
-- **APP 53/968/0/-/783**: no. 58 is Marcina Heck, no. 70 Krystofa Grünwald (the court messenger's pen over the printed "ja"), the note of costs 47 roubles 21 kopecks; the other pen alterations stand as printed. Text, English, process pages and the page of changes brought into line (`intake/spot_answers.py`).
-- **APP 53/968/0/-/669**: seven of ten doubtful readings settled by the editor, three differently from the first reading (Wagelt, Hormann, Neumann L. 1889); Włodzimierow in the list of the school community. 83 marks of doubt remain.
-- **Two new eras** at the editor's word, under working names until the editor names them: "The estate under Włodzimierz Miączyński" (`wlodzimierz`), the era after Michalina, with the summons of 1860; "The twentieth century" (`twentieth-century`), with Breyer's notebook. Each has its band on the timeline, which now runs to 1936, and its section on the story page, in both languages.
+- **APP 53/968/0/-/783**: no. 58 is Marcina Heck, no. 70 Krystofa GrÃ¼nwald (the court messenger's pen over the printed "ja"), the note of costs 47 roubles 21 kopecks; the other pen alterations stand as printed. Text, English, process pages and the page of changes brought into line (`intake/spot_answers.py`).
+- **APP 53/968/0/-/669**: seven of ten doubtful readings settled by the editor, three differently from the first reading (Wagelt, Hormann, Neumann L. 1889); WÅ‚odzimierow in the list of the school community. 83 marks of doubt remain.
+- **Two new eras** at the editor's word, under working names until the editor names them: "The estate under WÅ‚odzimierz MiÄ…czyÅ„ski" (`wlodzimierz`), the era after Michalina, with the summons of 1860; "The twentieth century" (`twentieth-century`), with Breyer's notebook. Each has its band on the timeline, which now runs to 1936, and its section on the story page, in both languages.
 - Figures: 808 marks of doubt.
-- **APP 53/968/0/-/669, the second sheet**: 29 of the most uncertain readings put to the editor; 22 changed or settled. Strażniki is a village (not the name Krainik), Noga a field name (not Kroge), Swięcer of Swięcia (not Smięcer), Mühle (not Müller). 70 marks of doubt remain; 795 in the edition. A third sheet of three readings on Breyer's Sm and Sw: the editor read Swięcia twice where the first reading had Smięcia, and St[y?]pin.
+- **APP 53/968/0/-/669, the second sheet**: 29 of the most uncertain readings put to the editor; 22 changed or settled. StraÅ¼niki is a village (not the name Krainik), Noga a field name (not Kroge), SwiÄ™cer of SwiÄ™cia (not SmiÄ™cer), MÃ¼hle (not MÃ¼ller). 70 marks of doubt remain; 795 in the edition. A third sheet of three readings on Breyer's Sm and Sw: the editor read SwiÄ™cia twice where the first reading had SmiÄ™cia, and St[y?]pin.
 
 ## APP 53/968/0/-/716 added, not published (2026-10-14)
 
-- **APP 53/968/0/-/716**, Albert Breyer's notebook "Łazińsk, Emilienheim, Ликвидац. табель", with a loose sheet of 1858, from the editor's raw photos IMG_5159 to IMG_5180: eleven documents by content (the editor's choice), six of them tables. Breyer's Russian copies of the liquidation tables of Emilienheim (28 March 1868), Łazińsk (Słupca, 29 June 1868, 91 holdings, 1,691 Morgen 219 rods, with his pencil of who held each holding in 1875) and Orliny (of Count Albert Taczanowski), and of the servitudes of Łazińsk and Orliny; his counts of farmers and Morgen of Łazińsk from 1840 to 1935; his German notes of July 1935 and July 1936 on Orlin, Józefów, Huta Trąbczyńska and their people; a list of the farmers of the Orlin Hauland Biskupice; and the Polish list of the hearth tax of Emilienheim, Kopojno, 3/15 December 1858.
+- **APP 53/968/0/-/716**, Albert Breyer's notebook "ÅaziÅ„sk, Emilienheim, Ð›Ð¸ÐºÐ²Ð¸Ð´Ð°Ñ†. Ñ‚Ð°Ð±ÐµÐ»ÑŒ", with a loose sheet of 1858, from the editor's raw photos IMG_5159 to IMG_5180: eleven documents by content (the editor's choice), six of them tables. Breyer's Russian copies of the liquidation tables of Emilienheim (28 March 1868), ÅaziÅ„sk (SÅ‚upca, 29 June 1868, 91 holdings, 1,691 Morgen 219 rods, with his pencil of who held each holding in 1875) and Orliny (of Count Albert Taczanowski), and of the servitudes of ÅaziÅ„sk and Orliny; his counts of farmers and Morgen of ÅaziÅ„sk from 1840 to 1935; his German notes of July 1935 and July 1936 on Orlin, JÃ³zefÃ³w, Huta TrÄ…bczyÅ„ska and their people; a list of the farmers of the Orlin Hauland Biskupice; and the Polish list of the hearth tax of Emilienheim, Kopojno, 3/15 December 1858.
 - Read from the photos in session (68 marks of doubt), translated, summarised in both languages and claim-checked (83 statements, 16 weakened or cut); holding page in both languages, a timeline entry for 29 June 1868, a paragraph in the story and the era's blurb. Breyer's own total on one page is 6 Morgen more than his figures; the summary says so.
 - Tables: a table's title or totals standing on a page of their own now show there, a heading row that is only a title joins the caption, and a single row of column labels is shown as one heading row. Every other table of the edition renders as before. Line breaks in Russian are now decided, a figure ending in a hyphen in a table is no longer taken for a broken word, and tables are left out of the catchword check.
 - A spot sheet of 17 readings for the editor. Kl., Wirte and dt. ruled out of the glossary; Kuh and Neumann shut out of the documents where they are not the people of the name list.
@@ -1923,78 +1923,78 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## Copies take the era of what they copy (2026-10-14)
 
 - **The editor's ruling**: a copy belongs to the time of the document it copies, not to the date of the copy or the holding it is in ("a copy of an 1828 document from 1939 should not belong to the 20th century"). Recorded in `reference/eras.yml`.
-- **APP 53/968/0/-/716** brought into line: two documents that held one of Breyer's copies and his own notes together were divided (now thirteen documents). The sheet of 1858, the liquidation tables of 1868, Breyer's extracts of 1870 and 1892 (now dated 26 November 1870) and his copies of the servitudes of Łazińsk (dated 1868) and Orliny now stand in the era of Włodzimierz Miączyński; Breyer's own notes and figures stay in the twentieth century. The story page and both era descriptions follow. No other holding has a copy dated by its copying: APP 53/968/0/-/801 and I. HA Rep. 162 Nr. 295 already carry their originals' dates.
+- **APP 53/968/0/-/716** brought into line: two documents that held one of Breyer's copies and his own notes together were divided (now thirteen documents). The sheet of 1858, the liquidation tables of 1868, Breyer's extracts of 1870 and 1892 (now dated 26 November 1870) and his copies of the servitudes of ÅaziÅ„sk (dated 1868) and Orliny now stand in the era of WÅ‚odzimierz MiÄ…czyÅ„ski; Breyer's own notes and figures stay in the twentieth century. The story page and both era descriptions follow. No other holding has a copy dated by its copying: APP 53/968/0/-/801 and I. HA Rep. 162 Nr. 295 already carry their originals' dates.
 - Figures: 583 documents; 880 marks of doubt; 578 translated. Not published.
 
-## APP 53/968/0/-/716: the editor's answers; Michalina's and Włodzimierz's dates (2026-10-15)
+## APP 53/968/0/-/716: the editor's answers; Michalina's and WÅ‚odzimierz's dates (2026-10-15)
 
-- The editor answered the spot sheet of 17 readings in Breyer's notebook: 13 settled or changed (the renaming of Emilienheim in 1892, the commune of Trąbczyn in the heading of the Łazińsk table, Jesswein among the first farmers of Józefów, Maradza, Holędry Orliny Biskupicki, Skrzydlewski, Tilson, Seling, Polzfu[h?]l, "Bankrott geworden", and most of the heading of the Orlin list). Text, English, four summaries and the holding's pages follow. 55 marks of doubt remain in the notebook, 867 in the edition.
-- **Dates from the editor**: Michalina Miączyńska, born Prusimska, died on 19 January 1851; her son Włodzimierz on 20 December 1879, and his nephew Władysław Miączyński became heir of Trąbczyn. In the people's notes, the era's description (now 1851 to 1879), the story and the timeline note; the era's band on the timeline now begins at its first document, 1858, and the twentieth century's at 1935.
+- The editor answered the spot sheet of 17 readings in Breyer's notebook: 13 settled or changed (the renaming of Emilienheim in 1892, the commune of TrÄ…bczyn in the heading of the ÅaziÅ„sk table, Jesswein among the first farmers of JÃ³zefÃ³w, Maradza, HolÄ™dry Orliny Biskupicki, Skrzydlewski, Tilson, Seling, Polzfu[h?]l, "Bankrott geworden", and most of the heading of the Orlin list). Text, English, four summaries and the holding's pages follow. 55 marks of doubt remain in the notebook, 867 in the edition.
+- **Dates from the editor**: Michalina MiÄ…czyÅ„ska, born Prusimska, died on 19 January 1851; her son WÅ‚odzimierz on 20 December 1879, and his nephew WÅ‚adysÅ‚aw MiÄ…czyÅ„ski became heir of TrÄ…bczyn. In the people's notes, the era's description (now 1851 to 1879), the story and the timeline note; the era's band on the timeline now begins at its first document, 1858, and the twentieth century's at 1935.
 
-## APŁ 39/98/0/-/6603 added, not published; the liquidation era (2026-10-15)
+## APÅ 39/98/0/-/6603 added, not published; the liquidation era (2026-10-15)
 
-- **APŁ 39/98/0/-/6603**, from the State Archive in Łódź, the first holding from there: the liquidation table of the Łazińsk colony, confirmed 8 February 1868 (91 farmsteads, 1,691 Morgen 219 rods, liquidation capital 10,055 roubles 70 kopecks), its copy of 1869 with the servitudes, the inscription of 1884 on fuel and pasture, the certified copies of the inscriptions of 1894 (the servitudes given up to Countess Maria Wielopolska for 393 Morgen 154 rods) and 1897 (the survey of 1896), and the statement of each farmstead's land after the survey. Six documents at the editor's word, three of them tables; the openings where the writing runs across are shown as one page.
+- **APÅ 39/98/0/-/6603**, from the State Archive in ÅÃ³dÅº, the first holding from there: the liquidation table of the ÅaziÅ„sk colony, confirmed 8 February 1868 (91 farmsteads, 1,691 Morgen 219 rods, liquidation capital 10,055 roubles 70 kopecks), its copy of 1869 with the servitudes, the inscription of 1884 on fuel and pasture, the certified copies of the inscriptions of 1894 (the servitudes given up to Countess Maria Wielopolska for 393 Morgen 154 rods) and 1897 (the survey of 1896), and the statement of each farmstead's land after the survey. Six documents at the editor's word, three of them tables; the openings where the writing runs across are shown as one page.
 - Read from the scans in session (24 marks of doubt), checked by the table's own sums; translated, summarised in both languages and claim-checked (46 statements, two corrected); holding page in both languages.
-- **The liquidation era** (`liquidation`, working name) at the editor's word: the enfranchisement of 1864 and the settling of the servitudes, which began under Włodzimierz Miączyński. The new holding and Breyer's copies of the tables and servitudes in 53/968/0/-/716 stand in it; the story has a section for it, the timeline a band from 1868, an entry for 8 February 1868 (moved from 29 June, the date of Breyer's source) and a new one for 1894.
-- The State Archive in Łódź in the repositories and on the credits page, and the Central Archives of Historical Records, which was missing from the credits. Two new relation kinds, "Copy of" and "Entered in".
+- **The liquidation era** (`liquidation`, working name) at the editor's word: the enfranchisement of 1864 and the settling of the servitudes, which began under WÅ‚odzimierz MiÄ…czyÅ„ski. The new holding and Breyer's copies of the tables and servitudes in 53/968/0/-/716 stand in it; the story has a section for it, the timeline a band from 1868, an entry for 8 February 1868 (moved from 29 June, the date of Breyer's source) and a new one for 1894.
+- The State Archive in ÅÃ³dÅº in the repositories and on the credits page, and the Central Archives of Historical Records, which was missing from the credits. Two new relation kinds, "Copy of" and "Entered in".
 - Figures: 589 documents on 1,974 pages in 42 holdings, five archives; 891 marks of doubt; 584 translated. Not published.
 
 ## APP 53/968/0/-/716: the editor's answers on the second sheet (2026-10-15)
 
-- 18 of the 47 readings answered and worked in: Дикгофъ, Диконфъ, Кинастъ, Обстъ, Готтлибъ, Дет., "Eingeschrieben jedoch", Цельмеръ Готф., Шмехель (Schmechel), and "nur[?]" twice. 46 marks of doubt remain in the notebook, 882 in the edition. The other 30 rows stay on the sheet, with two words the original table of 1869 now settles (плахтами, наличный) put to the editor.
+- 18 of the 47 readings answered and worked in: Ð”Ð¸ÐºÐ³Ð¾Ñ„ÑŠ, Ð”Ð¸ÐºÐ¾Ð½Ñ„ÑŠ, ÐšÐ¸Ð½Ð°ÑÑ‚ÑŠ, ÐžÐ±ÑÑ‚ÑŠ, Ð“Ð¾Ñ‚Ñ‚Ð»Ð¸Ð±ÑŠ, Ð”ÐµÑ‚., "Eingeschrieben jedoch", Ð¦ÐµÐ»ÑŒÐ¼ÐµÑ€ÑŠ Ð“Ð¾Ñ‚Ñ„., Ð¨Ð¼ÐµÑ…ÐµÐ»ÑŒ (Schmechel), and "nur[?]" twice. 46 marks of doubt remain in the notebook, 882 in the edition. The other 30 rows stay on the sheet, with two words the original table of 1869 now settles (Ð¿Ð»Ð°Ñ…Ñ‚Ð°Ð¼Ð¸, Ð½Ð°Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹) put to the editor.
 
-## Breyer's Łazińsk table read against the original (2026-10-15)
+## Breyer's ÅaziÅ„sk table read against the original (2026-10-15)
 
-- At the editor's request, every row of Breyer's copy of the Łazińsk liquidation table (APP 53/968/0/-/716, document 4) compared with the original (APŁ 39/98/0/-/6603). Most differences were misreadings of Breyer's hand and are corrected: figures at nos. 11, 12, 20, 44, 51, 52, 60, 61, 65 and 87, the names Саниковскій, Промистъ, Цельнеръ, Штирценбекеръ and Феттеръ, and наличный and тлахтами in the servitudes. Breyer's own departures from the original stand as he wrote them and are listed in the notes. In the original, no. 43 is Матеушъ in all three witnesses.
+- At the editor's request, every row of Breyer's copy of the ÅaziÅ„sk liquidation table (APP 53/968/0/-/716, document 4) compared with the original (APÅ 39/98/0/-/6603). Most differences were misreadings of Breyer's hand and are corrected: figures at nos. 11, 12, 20, 44, 51, 52, 60, 61, 65 and 87, the names Ð¡Ð°Ð½Ð¸ÐºÐ¾Ð²ÑÐºÑ–Ð¹, ÐŸÑ€Ð¾Ð¼Ð¸ÑÑ‚ÑŠ, Ð¦ÐµÐ»ÑŒÐ½ÐµÑ€ÑŠ, Ð¨Ñ‚Ð¸Ñ€Ñ†ÐµÐ½Ð±ÐµÐºÐµÑ€ÑŠ and Ð¤ÐµÑ‚Ñ‚ÐµÑ€ÑŠ, and Ð½Ð°Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹ and Ñ‚Ð»Ð°Ñ…Ñ‚Ð°Ð¼Ð¸ in the servitudes. Breyer's own departures from the original stand as he wrote them and are listed in the notes. In the original, no. 43 is ÐœÐ°Ñ‚ÐµÑƒÑˆÑŠ in all three witnesses.
 - Marks of doubt: 44 in the notebook, 21 in the original, 877 in the edition.
 
 ## Zelmer with m, Breyer's names to the original, the rest of the second sheet (2026-10-15)
 
-- The editor's ruling: Zelmer is always written with m ("there's no Zelner, ever in this project"). Цельмеръ at nos. 37, 50, 53, 65 and 67 in both holdings, in the table, its copy and the statement of APŁ 39/98/0/-/6603 and in Breyer's copy (APP 53/968/0/-/716, document 4); the change to Цельнеръ the day before is undone.
-- The editor's ruling: names in Breyer's copy of the Łazińsk table follow the original's spelling, not Breyer's: Мерцъ (for Мержъ), Саниковскій Марцинъ (no. 9), Марцинъ (for Март.), Кнафкусъ, Штирценбехеръ, Матеушъ (no. 43), Даніилъ (no. 60), the genitives Кинаста and Тарновскаго, and in the pencil Шейнфишъ and Гиршъ. What Breyer wrote is listed in the holding's notes and on its "How it was made" page. His figures stand as he wrote them.
-- The editor's answers on the last 28 rows of the second sheet worked in: Brenda, "schlagen sich", Gottfr., Вангольдъ, Студзенка, "1909 9 Nov. hat das aufgehört", "mit d.", Велькiй боръ read without doubt; [Бонцлеръ?], [Гредъ?], […etli…?], [Solten?], [Zoget.?], [Crist.?] and [топоръ?] (an axe) changed with their doubt; eleven kept as they were.
+- The editor's ruling: Zelmer is always written with m ("there's no Zelner, ever in this project"). Ð¦ÐµÐ»ÑŒÐ¼ÐµÑ€ÑŠ at nos. 37, 50, 53, 65 and 67 in both holdings, in the table, its copy and the statement of APÅ 39/98/0/-/6603 and in Breyer's copy (APP 53/968/0/-/716, document 4); the change to Ð¦ÐµÐ»ÑŒÐ½ÐµÑ€ÑŠ the day before is undone.
+- The editor's ruling: names in Breyer's copy of the ÅaziÅ„sk table follow the original's spelling, not Breyer's: ÐœÐµÑ€Ñ†ÑŠ (for ÐœÐµÑ€Ð¶ÑŠ), Ð¡Ð°Ð½Ð¸ÐºÐ¾Ð²ÑÐºÑ–Ð¹ ÐœÐ°Ñ€Ñ†Ð¸Ð½ÑŠ (no. 9), ÐœÐ°Ñ€Ñ†Ð¸Ð½ÑŠ (for ÐœÐ°Ñ€Ñ‚.), ÐšÐ½Ð°Ñ„ÐºÑƒÑÑŠ, Ð¨Ñ‚Ð¸Ñ€Ñ†ÐµÐ½Ð±ÐµÑ…ÐµÑ€ÑŠ, ÐœÐ°Ñ‚ÐµÑƒÑˆÑŠ (no. 43), Ð”Ð°Ð½Ñ–Ð¸Ð»ÑŠ (no. 60), the genitives ÐšÐ¸Ð½Ð°ÑÑ‚Ð° and Ð¢Ð°Ñ€Ð½Ð¾Ð²ÑÐºÐ°Ð³Ð¾, and in the pencil Ð¨ÐµÐ¹Ð½Ñ„Ð¸ÑˆÑŠ and Ð“Ð¸Ñ€ÑˆÑŠ. What Breyer wrote is listed in the holding's notes and on its "How it was made" page. His figures stand as he wrote them.
+- The editor's answers on the last 28 rows of the second sheet worked in: Brenda, "schlagen sich", Gottfr., Ð’Ð°Ð½Ð³Ð¾Ð»ÑŒÐ´ÑŠ, Ð¡Ñ‚ÑƒÐ´Ð·ÐµÐ½ÐºÐ°, "1909 9 Nov. hat das aufgehÃ¶rt", "mit d.", Ð’ÐµÐ»ÑŒÐºiÐ¹ Ð±Ð¾Ñ€ÑŠ read without doubt; [Ð‘Ð¾Ð½Ñ†Ð»ÐµÑ€ÑŠ?], [Ð“Ñ€ÐµÐ´ÑŠ?], [â€¦etliâ€¦?], [Solten?], [Zoget.?], [Crist.?] and [Ñ‚Ð¾Ð¿Ð¾Ñ€ÑŠ?] (an axe) changed with their doubt; eleven kept as they were.
 - Marks of doubt: 35 in the notebook, 21 in the original, 868 in the edition.
 
 ## Breyer's figures to the original; Zelmer in the index (2026-10-15)
 
-- The editor's ruling: the original liquidation table is the authority for the numbers too. Every figure of Breyer's copy (APP 53/968/0/-/716, document 4) compared with APŁ 39/98/0/-/6603; four differed and now follow the original: no. 12 122 rods (read 222), no. 29 188 (read 184), no. 46 38-66 (read 38-61), and nos. 47 and 48 in the original's order. The notes record what was read.
-- At the editor's word, the Zelmer family in the people index now also matches Цельмеръ: the table, its copy and the statement of 6603 and Breyer's copy are linked to the family, and its bio names the five holdings of 1868.
+- The editor's ruling: the original liquidation table is the authority for the numbers too. Every figure of Breyer's copy (APP 53/968/0/-/716, document 4) compared with APÅ 39/98/0/-/6603; four differed and now follow the original: no. 12 122 rods (read 222), no. 29 188 (read 184), no. 46 38-66 (read 38-61), and nos. 47 and 48 in the original's order. The notes record what was read.
+- At the editor's word, the Zelmer family in the people index now also matches Ð¦ÐµÐ»ÑŒÐ¼ÐµÑ€ÑŠ: the table, its copy and the statement of 6603 and Breyer's copy are linked to the family, and its bio names the five holdings of 1868.
 
 ## Page edges approved; a spot sheet for the original table (2026-10-15)
 
-- The editor let the folds and page edges of APP 53/968/0/-/716 and APŁ 39/98/0/-/6603 stand ("The page edges look fine").
-- All 21 marks of doubt in APŁ 39/98/0/-/6603 put on a spot sheet, "Doubtful readings in the liquidation table of Łazińsk": 16 rows, each with a picture, the signatures that recur under three documents asked once.
-- The editor's answers worked in: the pencil figure under the table (10055 70), Глебель (no. 2 of the copy) and Стурценбекеръ (no. 19 of the copy) read without doubt; the rest, among them all eleven signatures, kept with their doubt. Marks of doubt: 18 in the original, 865 in the edition.
+- The editor let the folds and page edges of APP 53/968/0/-/716 and APÅ 39/98/0/-/6603 stand ("The page edges look fine").
+- All 21 marks of doubt in APÅ 39/98/0/-/6603 put on a spot sheet, "Doubtful readings in the liquidation table of ÅaziÅ„sk": 16 rows, each with a picture, the signatures that recur under three documents asked once.
+- The editor's answers worked in: the pencil figure under the table (10055 70), Ð“Ð»ÐµÐ±ÐµÐ»ÑŒ (no. 2 of the copy) and Ð¡Ñ‚ÑƒÑ€Ñ†ÐµÐ½Ð±ÐµÐºÐµÑ€ÑŠ (no. 19 of the copy) read without doubt; the rest, among them all eleven signatures, kept with their doubt. Marks of doubt: 18 in the original, 865 in the edition.
 
 ## Published (2026-10-15)
 
-- At the editor's word, APP 53/968/0/-/716 (Breyer's Łazińsk notebook) and APŁ 39/98/0/-/6603 (the liquidation table of Łazińsk) published together: 589 documents in 42 holdings, 865 marks of doubt, with the new era `liquidation`.
+- At the editor's word, APP 53/968/0/-/716 (Breyer's ÅaziÅ„sk notebook) and APÅ 39/98/0/-/6603 (the liquidation table of ÅaziÅ„sk) published together: 589 documents in 42 holdings, 865 marks of doubt, with the new era `liquidation`.
 
-## Oe 1 Bü 9454, letter 9 (2026-10-15)
+## Oe 1 BÃ¼ 9454, letter 9 (2026-10-15)
 
-- Letter 9, marked "skipped" since the holding was built, added from the editor's transcription: a single leaf in Triebenfeld's hand, holed and with a folded corner, 18 lines with 17 places of lost text and 3 marks of doubt. Read against the scan; where the editor's file and the scan differed the scan decided (Borgen, Bösewicht, schändlich, weiß, betreibe ... durch ihn), and those places are on a spot sheet for the editor. Dated to about January 1815 at Vienna, Triebenfeld to the Prince; English and summaries written in session. Not published.
-- The editor's answers on the spot sheet worked in: seven readings confirmed, St[aats]. K[anzler]. F[ürst]. H[ardenberg]. confirmed and expanded, [seie?], [Kedl?] and [weiß?] marked as doubtful. Four marks of doubt.
-- Letter 300 made again from the editor's new crops and transcription: the restored edges give the line starts of page 1 and settle gerüffelt, zurück, die Piece, kömt, Peterbourg, gärstig, Ciszewska and voll; the dateline reads "d 20t Januar", and the archive's pencil note "20. Jan 1816" dates it. Marks of doubt 25 to 18; English revised in session. The edition counts 879. Not published.
+- Letter 9, marked "skipped" since the holding was built, added from the editor's transcription: a single leaf in Triebenfeld's hand, holed and with a folded corner, 18 lines with 17 places of lost text and 3 marks of doubt. Read against the scan; where the editor's file and the scan differed the scan decided (Borgen, BÃ¶sewicht, schÃ¤ndlich, weiÃŸ, betreibe ... durch ihn), and those places are on a spot sheet for the editor. Dated to about January 1815 at Vienna, Triebenfeld to the Prince; English and summaries written in session. Not published.
+- The editor's answers on the spot sheet worked in: seven readings confirmed, St[aats]. K[anzler]. F[Ã¼rst]. H[ardenberg]. confirmed and expanded, [seie?], [Kedl?] and [weiÃŸ?] marked as doubtful. Four marks of doubt.
+- Letter 300 made again from the editor's new crops and transcription: the restored edges give the line starts of page 1 and settle gerÃ¼ffelt, zurÃ¼ck, die Piece, kÃ¶mt, Peterbourg, gÃ¤rstig, Ciszewska and voll; the dateline reads "d 20t Januar", and the archive's pencil note "20. Jan 1816" dates it. Marks of doubt 25 to 18; English revised in session. The edition counts 879. Not published.
 - Letters 9 and 300 published at the editor's word (2026-10-15).
 
-## ADWł 85: the visitation of the parish of Trąbczyn (2026-10-15)
+## ADWÅ‚ 85: the visitation of the parish of TrÄ…bczyn (2026-10-15)
 
-- A new archive and a new holding: nine pages of the volume of the visitation of the Konin deanery of 1790 and 1791 (Diocesan Archive in Włocławek, signature 85), the pages the editor's transcript covers. Two documents at the editor's word: the parish of Trąbczyn, and the table of the souls of the parish of Zagórów. Era `prusimski-boundary`.
-- At the editor's word, the passages of these pages the transcript left out were transcribed in session; every page then read against the scans. A dropped phrase restored (leaf 24: Kalisz 5 miles, Konin 2); the editor's expansions of titles ("Jego Wysokość Magnifici") replaced by the abbreviations as written. All figures of both tables agreed. 12 marks of doubt, on a spot sheet.
+- A new archive and a new holding: nine pages of the volume of the visitation of the Konin deanery of 1790 and 1791 (Diocesan Archive in WÅ‚ocÅ‚awek, signature 85), the pages the editor's transcript covers. Two documents at the editor's word: the parish of TrÄ…bczyn, and the table of the souls of the parish of ZagÃ³rÃ³w. Era `prusimski-boundary`.
+- At the editor's word, the passages of these pages the transcript left out were transcribed in session; every page then read against the scans. A dropped phrase restored (leaf 24: Kalisz 5 miles, Konin 2); the editor's expansions of titles ("Jego WysokoÅ›Ä‡ Magnifici") replaced by the abbreviations as written. All figures of both tables agreed. 12 marks of doubt, on a spot sheet.
 - English and summaries written in session; 34 statements claim-checked. Holding page in both languages; timeline entry for 1791; the edition guide, the story page and the era's blurb brought up to 591 documents in 43 holdings and six archives, 891 marks of doubt. The 1788 timeline entry no longer calls itself the last document of the Prusimski years.
-- Index: Katarzyna Prusimska (the Chamberlain's wife who enlarged the church), Antoni Prusimski, the Trąmpczyński family, seven new people; the parish's places; "po Swięcie" shut out of Swięcia and "Komornikow" (cottagers) out of the glossary's komornik. A document type "visitation"; an archive with no website is credited without a link.
+- Index: Katarzyna Prusimska (the Chamberlain's wife who enlarged the church), Antoni Prusimski, the TrÄ…mpczyÅ„ski family, seven new people; the parish's places; "po SwiÄ™cie" shut out of SwiÄ™cia and "Komornikow" (cottagers) out of the glossary's komornik. A document type "visitation"; an archive with no website is credited without a link.
 - Not published.
 
-## ADWł 85: the spot sheet, published (2026-10-16)
+## ADWÅ‚ 85: the spot sheet, published (2026-10-16)
 
-- The editor answered the spot sheet "Doubtful readings in the visitation of Trąbczyn": obok, trumną, Bogusławskiego, Golinską, Dręzgi, Illust:, Gralewska, 58 and rozrządzonę settled; Kozierog[?], Uła[?] and podciorze[?] kept with their doubt (`units/adwl85/intake/spot_answers.py`). 3 marks of doubt remain in the holding, 882 in the edition. Bogusławski and Golińska added to the index.
-- The reference stays "ADWł 85": the archive's holdings have no series name (editor).
+- The editor answered the spot sheet "Doubtful readings in the visitation of TrÄ…bczyn": obok, trumnÄ…, BogusÅ‚awskiego, GolinskÄ…, DrÄ™zgi, Illust:, Gralewska, 58 and rozrzÄ…dzonÄ™ settled; Kozierog[?], UÅ‚a[?] and podciorze[?] kept with their doubt (`units/adwl85/intake/spot_answers.py`). 3 marks of doubt remain in the holding, 882 in the edition. BogusÅ‚awski and GoliÅ„ska added to the index.
+- The reference stays "ADWÅ‚ 85": the archive's holdings have no series name (editor).
 - Published at the editor's word: 591 documents in 43 holdings.
 
-## Kuryer Polski 1754, nr 75: the funeral of Paweł Prusimski (2026-10-16)
+## Kuryer Polski 1754, nr 75: the funeral of PaweÅ‚ Prusimski (2026-10-16)
 
-- The first holding from print and from a library: the report from Kalisz of 5 December 1754 in the Warsaw newspaper Kuryer Polski, no. 75 of 1754 (Kórnik Library of the Polish Academy of Sciences, Cz2271, in the Wielkopolska Digital Library). Read from the editor's image in session, line by line with the printer's letters; one mark of doubt. Translated, summarised, claim-checked (11 statements), holding page in both languages, timeline entry, guide, story page and era blurb brought up to 592 documents in 44 holdings, 883 marks of doubt.
-- A new repository `bkpan-kornik` (a library) and document type `newspaper`. Łęd is Ląd (editor): Ląd added to the places, which also links the boundary decree of 1775, the Prussian table of about 1797 and six contracts of Oe 1 Bü 14526. Paweł, Antoni and Katarzyna Prusimski matched in the print's spelling; the abbot Głowiecki added.
+- The first holding from print and from a library: the report from Kalisz of 5 December 1754 in the Warsaw newspaper Kuryer Polski, no. 75 of 1754 (KÃ³rnik Library of the Polish Academy of Sciences, Cz2271, in the Wielkopolska Digital Library). Read from the editor's image in session, line by line with the printer's letters; one mark of doubt. Translated, summarised, claim-checked (11 statements), holding page in both languages, timeline entry, guide, story page and era blurb brought up to 592 documents in 44 holdings, 883 marks of doubt.
+- A new repository `bkpan-kornik` (a library) and document type `newspaper`. ÅÄ™d is LÄ…d (editor): LÄ…d added to the places, which also links the boundary decree of 1775, the Prussian table of about 1797 and six contracts of Oe 1 BÃ¼ 14526. PaweÅ‚, Antoni and Katarzyna Prusimski matched in the print's spelling; the abbot GÅ‚owiecki added.
 - Not published.
 
 ## Kuryer Polski 1754, nr 75: published (2026-10-16)
@@ -2005,8 +2005,8 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - A new holding, `kdw`: twenty-one entries of the Kodeks Dyplomatyczny Wielkopolski, 1173 to 1440, from volumes 1, 2, 3, 5, 6, 7, 10 and 11 (volume 8 left out at the editor's word), each entry one document in order of date, given whole from the editor's file and not corrected. Text only, from the Wielkopolska Digital Library's electronic text; each page names its volume and number, linked to the volume.
 - The editors' footnote marks are raised and their notes set apart on the site (`units/kdw/footnotes.yml`), without changing the text; both verifications allow for it.
-- Estates tagged from the editor's sixteen; new places Szetlew and Adamierz; medieval spellings with their years for thirteen places, shown on the Places page. Thirteen people of Trąbczyn added, each to its document.
-- A new era `medieval`, "Trąbczyn in the Middle Ages" (working name): on the timeline from 1173 with six events, on the story page, in the era list. English and summaries written in session; 107 statements claim-checked. Holding page in both languages; the edition guide brought up to 613 documents in 45 holdings, 2,005 pages, 1173 to 1936.
+- Estates tagged from the editor's sixteen; new places Szetlew and Adamierz; medieval spellings with their years for thirteen places, shown on the Places page. Thirteen people of TrÄ…bczyn added, each to its document.
+- A new era `medieval`, "TrÄ…bczyn in the Middle Ages" (working name): on the timeline from 1173 with six events, on the story page, in the era list. English and summaries written in session; 107 statements claim-checked. Holding page in both languages; the edition guide brought up to 613 documents in 45 holdings, 2,005 pages, 1173 to 1936.
 - Years before 1500 no longer get a thousands comma in the reading text and English of this holding (`numerals.YEARS_FROM`); no other holding changed.
 - Not published.
 
@@ -2017,10 +2017,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## The literature: six books, page by page (2026-10-19)
 
-- A new kind of material, kept apart from the archival documents (`docs/LITERATURE_PLAN.md`): books and articles about them, each in its original language and in English, for questions such as whether Triebenfeld inflated the value of his estates. Six works from the editor's folder "Books", copied unchanged into `literature/<slug>/`, the English of all six Claude's (the editor): the Materialien of 1861 (with the black register of the gifted estates), Held's book of 1801, the Neue Feuerbrände of 1807, Paciorkowski's Latin treatise of 1776, Guradze's Der Bauer in Posen of 1898, and Seidel's book of 2018 on Hohenlohe-Ingelfingen.
+- A new kind of material, kept apart from the archival documents (`docs/LITERATURE_PLAN.md`): books and articles about them, each in its original language and in English, for questions such as whether Triebenfeld inflated the value of his estates. Six works from the editor's folder "Books", copied unchanged into `literature/<slug>/`, the English of all six Claude's (the editor): the Materialien of 1861 (with the black register of the gifted estates), Held's book of 1801, the Neue FeuerbrÃ¤nde of 1807, Paciorkowski's Latin treatise of 1776, Guradze's Der Bauer in Posen of 1898, and Seidel's book of 2018 on Hohenlohe-Ingelfingen.
 - Each work has a `work.yml` (title, citation, language, how its pages are marked, an account in English and German) and a `notes.md` (how it came in, how the two files line up, a spot check of the English). `pipeline/literature/build_literature.py` cuts both files at the printed page marks, checks that the passages give back the whole file, and writes `corpus/literature/`: an index and one file per page and language. It runs in `regenerate.py` after the dataset.
 - Seidel is under copyright: in the repository for questions but never shown on the site (`visible: false`; the editor, 2026-10-19, knowing that the repository is public). Until now `.gitignore` kept it out.
-- Found on the way: Triebenfeld's entry in the black register (Materialien pp. 162-164) is about other estates than Trąbczyn (Piotrow, Lasky and others). Guradze has no page numbers yet (the editor will correct the text); the English of Paciorkowski lacks the mark of p. 27.
+- Found on the way: Triebenfeld's entry in the black register (Materialien pp. 162-164) is about other estates than TrÄ…bczyn (Piotrow, Lasky and others). Guradze has no page numbers yet (the editor will correct the text); the English of Paciorkowski lacks the mark of p. 27.
 - Nothing on the site yet. Not published.
 
 ## The literature on the site (2026-10-19, not published)
@@ -2033,29 +2033,29 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## The literature: who and which estates the books name (2026-10-19, not published)
 
 - The edition's index of people and places run over the originals of the five visible works (`pipeline/literature/literature_index.py`, a new step of `regenerate.py`; LITERATURE_PLAN.md, section 8). Every one of the 2,690 hits was read and ruled in `literature/index.yml`: 2,508 stand. The rest are words, measures, regiments and other men of the same name, each with the reason.
-- Forms the books print and the edition's patterns miss are added for the literature only: Trąbczyn as "Trombczyn" and "Trobozyn" in the black register, Szetlewek as "Szellewen", Świechocin as "Schwiegoszyn", Łowyń as "Löwin", Krotoszyn as "Krotoczyn" and others, the Prince as "Hohenloh".
+- Forms the books print and the edition's patterns miss are added for the literature only: TrÄ…bczyn as "Trombczyn" and "Trobozyn" in the black register, Szetlewek as "Szellewen", Åšwiechocin as "Schwiegoszyn", ÅowyÅ„ as "LÃ¶win", Krotoszyn as "Krotoczyn" and others, the Prince as "Hohenloh".
 - On /people/ and /places/, a closed list "In the literature: N passages" under the documents of 35 people and 11 estates, linking to each page of each work that names them (1,174 links in the two languages, each checked to reach its passage). Places that are not estates have no list; their hits are kept in `corpus/literature/mentions.json`.
 - Five of the people are Claude's identifications. The editor accepted four on Claude's reading, and Stenger once the evidence was written out for them (2026-10-19). What each rests on:
-  - Grevenitz: the books' government councillor (Regierungsrath) von Grevenitz at Posen in the 1790s, given Tarnowo and a go-between in the Gurowski affair (Materialien pp. 127-153; Feuerbrände part 2, pp. 71 and 74, part 3, p. 132), is the edition's Kammergerichtsrat von Grevenitz, Triebenfeld's friend after 1807.
-  - Stössel: the Baron von Stössel who lent Hoym his name to buy a gifted estate (Materialien p. 158) is of the edition's Stössel family, Silesian creditors on Koszęcin.
-  - Nöldichen: the Nöldichen who signs for the General Direction of the Seehandlung in 1794 and 1795 (Held pp. 91 and 94) is the edition's councillor of war Nöldichen, who valued Krotoszyn, the estate Held's book is about.
-  - Wartensleben: General Count Wartensleben at Liegnitz, no. 17 of the black register (Feuerbrände part 2, p. 84; Materialien pp. 165, 212), is listed under the edition's Silesian Counts Wartensleben, father and son, without saying which of them he is.
-  - Stenger: the Justizkommissarius Stenger "in Unruhstadt" whose essay of 1798 on the Hauländer Guradze cites (chapters IV to VI) is the edition's Criminal Rath Stenger "hier aus Karge" (letter 23 of Oe 1 Bü 9454, 1809), Triebenfeld's agent for Zagórów, Trąbczyn, Pszczew and Witów: Karge and Unruhstadt are one town, Kargowa (the editor, 2026-10-19).
+  - Grevenitz: the books' government councillor (Regierungsrath) von Grevenitz at Posen in the 1790s, given Tarnowo and a go-between in the Gurowski affair (Materialien pp. 127-153; FeuerbrÃ¤nde part 2, pp. 71 and 74, part 3, p. 132), is the edition's Kammergerichtsrat von Grevenitz, Triebenfeld's friend after 1807.
+  - StÃ¶ssel: the Baron von StÃ¶ssel who lent Hoym his name to buy a gifted estate (Materialien p. 158) is of the edition's StÃ¶ssel family, Silesian creditors on KoszÄ™cin.
+  - NÃ¶ldichen: the NÃ¶ldichen who signs for the General Direction of the Seehandlung in 1794 and 1795 (Held pp. 91 and 94) is the edition's councillor of war NÃ¶ldichen, who valued Krotoszyn, the estate Held's book is about.
+  - Wartensleben: General Count Wartensleben at Liegnitz, no. 17 of the black register (FeuerbrÃ¤nde part 2, p. 84; Materialien pp. 165, 212), is listed under the edition's Silesian Counts Wartensleben, father and son, without saying which of them he is.
+  - Stenger: the Justizkommissarius Stenger "in Unruhstadt" whose essay of 1798 on the HaulÃ¤nder Guradze cites (chapters IV to VI) is the edition's Criminal Rath Stenger "hier aus Karge" (letter 23 of Oe 1 BÃ¼ 9454, 1809), Triebenfeld's agent for ZagÃ³rÃ³w, TrÄ…bczyn, Pszczew and WitÃ³w: Karge and Unruhstadt are one town, Kargowa (the editor, 2026-10-19).
 - Built and verified on the desktop; not published.
 
 ## The literature: passages tied by hand to documents (2026-10-19, not published)
 
-- `literature/links.yml`: four links from the black register (the Materialien, pp. 141-171, and the Neue Feuerbrände, parts 2 and 3) to ten documents, each with a sentence in English and German saying what the book says and what the document says (LITERATURE_PLAN.md, section 9). Every figure in a sentence was read in both.
-  - The Prince's gift and the exchange for Krotoszyn (I. HA Rep. 7 C Nr. 3570, document 1; Oe 1 Bü 9454, documents 85, 86, 87, 97, 101). The register says Beyme stopped the exchange; Cölln said Voss, and the letters bear him out. The register says the Prince gave the cabinet a yield of 50,000 a year; the letters give 41,500 (the Prince) and 40,500 (the King).
+- `literature/links.yml`: four links from the black register (the Materialien, pp. 141-171, and the Neue FeuerbrÃ¤nde, parts 2 and 3) to ten documents, each with a sentence in English and German saying what the book says and what the document says (LITERATURE_PLAN.md, section 9). Every figure in a sentence was read in both.
+  - The Prince's gift and the exchange for Krotoszyn (I. HA Rep. 7 C Nr. 3570, document 1; Oe 1 BÃ¼ 9454, documents 85, 86, 87, 97, 101). The register says Beyme stopped the exchange; CÃ¶lln said Voss, and the letters bear him out. The register says the Prince gave the cabinet a yield of 50,000 a year; the letters give 41,500 (the Prince) and 40,500 (the King).
   - Triebenfeld's own estates (documents 104, 108, 112): the same valuation (over 700,000) and resale (750,000) in the register and the letters; for his sale to Prince George of Hesse-Darmstadt the register gives 400,000, his letter 280,000.
-  - Krotoszyn's lease to Früson at 30,100 (documents 85, 86, 101).
-  - The other gifts Triebenfeld cites in letter 103 (Bischofswerder, Zastrow, Dolffs and Treskow, "Gen. Ruchts"), beside the register's entries on them. "Ruchts" as Rüchel was Claude's identification; settled the same day (below).
+  - Krotoszyn's lease to FrÃ¼son at 30,100 (documents 85, 86, 101).
+  - The other gifts Triebenfeld cites in letter 103 (Bischofswerder, Zastrow, Dolffs and Treskow, "Gen. Ruchts"), beside the register's entries on them. "Ruchts" as RÃ¼chel was Claude's identification; settled the same day (below).
 - On the site: under each linked passage a box "In the edition" with the sentence and the documents; on each linked document's page an entry "In the literature" in the box "About this document". `literature_site.py` stops on a link to a passage or document that does not exist; `verify_site.py` checks both sides of every link (140 in the two languages).
 - Built and verified on the desktop; not published.
 
-## Letter 103: General Rüchel; the literature published (2026-10-19)
+## Letter 103: General RÃ¼chel; the literature published (2026-10-19)
 
-- Oe 1 Bü 9454, letter 103, page 4: "des Gen. Ruchts" is "des Gen. Ruchels", General Rüchel. The editor agreed with Claude's identification and took "Ruchts" for a misreading; the scan reads "Ruchels". Corrected in the transcription (logged in `transcription_decisions.csv`), in the English ("General Rüchel", by `reference/english_corrections.yml`) and in the link's sentence; the mark of doubt on the word is taken out. Rüchel's entry in `reference/people.yml` now finds the letter. The record is `units/oe1bu9454/intake/scripts/ruechel_103.py`.
+- Oe 1 BÃ¼ 9454, letter 103, page 4: "des Gen. Ruchts" is "des Gen. Ruchels", General RÃ¼chel. The editor agreed with Claude's identification and took "Ruchts" for a misreading; the scan reads "Ruchels". Corrected in the transcription (logged in `transcription_decisions.csv`), in the English ("General RÃ¼chel", by `reference/english_corrections.yml`) and in the link's sentence; the mark of doubt on the word is taken out. RÃ¼chel's entry in `reference/people.yml` now finds the letter. The record is `units/oe1bu9454/intake/scripts/ruechel_103.py`.
 - Published at the editor's word: the literature (five works on the site, the index of people and estates over them, the four links of the black register) with this correction.
 
 ## Line ends: every text file LF (2026-10-19)
@@ -2070,112 +2070,112 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **The original and the English are no longer side by side** (the editor: "not ideal"). A work's page shows one text at a time, with buttons above the first page, "English" and the original's language, as a reader switches the views of a document. It opens on the English (editor), and the choice is kept from one work to the next (`site/assets/literature.js`). Without the script both texts stand one under the other.
 - **Six works from the editor's folder "Books_2"** (LITERATURE_PLAN.md, section 10):
   - Albert Breyer's articles of 1935 ("Deutsche Gaue in Mittelpolen", the chapters on Kalisz and Konin only, at the editor's word; "Ostdeutschland als Mutterland") and of 1938 (the German villages of the Warthe marshes), from Jutta Dennerlein's digital reissues. They are read from the PDFs' text layer by the new `pipeline/literature/upstream_pdf.py`, and her forewords are left out (editor).
-  - Teodor Żychliński's *Złota księga*, vol. 7, pp. 187-188 (the Prusimski) and vol. 13, pp. 219-225 (the Miączyński), read from the photographs in session.
-  - Jan Pachoński's entry on Antoni Prusimski in the *Polski Słownik Biograficzny* (1982, editor).
+  - Teodor Å»ychliÅ„ski's *ZÅ‚ota ksiÄ™ga*, vol. 7, pp. 187-188 (the Prusimski) and vol. 13, pp. 219-225 (the MiÄ…czyÅ„ski), read from the photographs in session.
+  - Jan PachoÅ„ski's entry on Antoni Prusimski in the *Polski SÅ‚ownik Biograficzny* (1982, editor).
   The English of all six is Claude's, from the original. The machine English in the editor's files was not used (the PSB's was wrong in substance). No German translation of the Polish works was made: an accepted gap (editor).
 - The index of people and estates over the eleven visible works: 3,200 hits, every one ruled in `literature/index.yml`; 2,946 stand.
 - **Eleven new hand-made links** (`literature/links.yml`; fifteen in all, to 32 documents), every figure read in the book and the document. They tie:
   - Breyer to the lease of 1806 and to Weigel;
-  - Żychliński to the court books on the Prusimski line, to the letters on Michalina's marriage, to the dispatch from Venice and to the summons of 1860;
+  - Å»ychliÅ„ski to the court books on the Prusimski line, to the letters on Michalina's marriage, to the dispatch from Venice and to the summons of 1860;
   - the PSB to the boundary commission, the confiscation, Venice and the restitution of 1807.
 - Found while the links were checked, and put to the editor (NEEDS_CONFIRMATION.md, "The literature"):
-  - The dispatch from Venice of 14 December 1796 already mourns Prusimski's wife, against Żychliński's date for her death, 2 September 1797.
-  - Żychliński and the PSB give Michalina's second marriage as 1809, against "about 1814" in the edition's biographies.
-  - Żychliński's account of who held Trąbczyn from 1809 to 1879 differs from the edition's.
+  - The dispatch from Venice of 14 December 1796 already mourns Prusimski's wife, against Å»ychliÅ„ski's date for her death, 2 September 1797.
+  - Å»ychliÅ„ski and the PSB give Michalina's second marriage as 1809, against "about 1814" in the edition's biographies.
+  - Å»ychliÅ„ski's account of who held TrÄ…bczyn from 1809 to 1879 differs from the edition's.
   - The lease of 1806 differs from Breyer's account in its date, in the dike clause and on pasture and wood.
   No biography or era of the edition was changed.
 - Published at the editor's word the same day, the questions above still open.
 
-## Two eras made one: Włodzimierz Miączyński's years and the liquidation (2026-10-20, not published)
+## Two eras made one: WÅ‚odzimierz MiÄ…czyÅ„ski's years and the liquidation (2026-10-20, not published)
 
-- At the editor's word, "for better clarity": the era "The estate under Włodzimierz Miączyński" and the era "The liquidation: the peasants' land and the servitudes" are one, under the working name "The colonists' land and forest rights" (slug `wlodzimierz`). The lawsuit of 1859 over the colonists' rights in the Count's forest and the liquidation that fixed those rights in 1868 and bought them out in 1892 are one story. The era has 14 documents, 1858 to 1897: APŁ 39/98/0/-/6603 and Breyer's copies of the tables in APP 53/968/0/-/716 moved into it.
+- At the editor's word, "for better clarity": the era "The estate under WÅ‚odzimierz MiÄ…czyÅ„ski" and the era "The liquidation: the peasants' land and the servitudes" are one, under the working name "The colonists' land and forest rights" (slug `wlodzimierz`). The lawsuit of 1859 over the colonists' rights in the Count's forest and the liquidation that fixed those rights in 1868 and bought them out in 1892 are one story. The era has 14 documents, 1858 to 1897: APÅ 39/98/0/-/6603 and Breyer's copies of the tables in APP 53/968/0/-/716 moved into it.
 - Changed with it: the era's ownership line and blurb (`reference/eras.yml`), the timeline (one band at 1858, its note covering both), and the story page in both languages (one section).
 - Claude's proposed names for all the eras are put to the editor (NEEDS_CONFIRMATION.md, "The eras"); no other era is changed.
 
-## The documents first: a rule; Paweł Prusimski and the privilege of 1746 (2026-10-20, not published)
+## The documents first: a rule; PaweÅ‚ Prusimski and the privilege of 1746 (2026-10-20, not published)
 
 - **A new rule of the editor's** (2026-10-20): every fact is first checked against the edition's archival documents, before a book or any other source; where they disagree, the edition keeps to the document, and the difference is flagged in NEEDS_CONFIRMATION.md and recorded in the source's `notes.md`. Written into `docs/HOUSE_STYLE.md` ("The documents first"), with pointers in CLAUDE.md, WORKING_NOTES.md and LITERATURE_PLAN.md.
-- **Breyer's "Paul von Kolno-Prusiński" is Paweł Prusimski** (the editor, 2026-10-20). Recorded in `literature/index.yml`, the work's `notes.md` and NEEDS_CONFIRMATION.md.
-- **The link from Breyer (1935) on Łazińsk Holland** said "the edition has no document of 1746". The corpus had not been searched: the boundary decree of 1775 (Konin Gr.145, p. 76) cites "the rights granted them in 1746", the primary source for the privilege (editor), and the summons of 1860 (APP 53/968/0/-/783) names its grantors, Paweł z Kolna Prusiński and his wife Katarzyna z Rozdrażewskich. Both documents are added to the link, and its sentence now says what each says; that the privilege was a hereditary lease is Breyer's account alone.
-- For the era of 1851 to 1901, Claude proposes the name "The liquidation: the colonists become owners", from the heading of the Łazińsk table of 1868 (NEEDS_CONFIRMATION.md, "The eras"). Not applied: the name is the editor's.
-- **What the liquidation did** (the editor, 2026-10-20): the land the colonists farmed became their own, and the demesne farms stayed with the estate. The documents agree: the Łazińsk table lists only the peasants' farmsteads and common land, the forest "Studzianka" stays the manor's, and in 1892 the colonists gave up their forest rights for "manor land" from the owner of the estate. The era's account (`reference/eras.yml`) and the story (EN and DE) now say that the manor kept its own land and forest, and that the government paid the former owner for the peasants' dues.
+- **Breyer's "Paul von Kolno-PrusiÅ„ski" is PaweÅ‚ Prusimski** (the editor, 2026-10-20). Recorded in `literature/index.yml`, the work's `notes.md` and NEEDS_CONFIRMATION.md.
+- **The link from Breyer (1935) on ÅaziÅ„sk Holland** said "the edition has no document of 1746". The corpus had not been searched: the boundary decree of 1775 (Konin Gr.145, p. 76) cites "the rights granted them in 1746", the primary source for the privilege (editor), and the summons of 1860 (APP 53/968/0/-/783) names its grantors, PaweÅ‚ z Kolna PrusiÅ„ski and his wife Katarzyna z RozdraÅ¼ewskich. Both documents are added to the link, and its sentence now says what each says; that the privilege was a hereditary lease is Breyer's account alone.
+- For the era of 1851 to 1901, Claude proposes the name "The liquidation: the colonists become owners", from the heading of the ÅaziÅ„sk table of 1868 (NEEDS_CONFIRMATION.md, "The eras"). Not applied: the name is the editor's.
+- **What the liquidation did** (the editor, 2026-10-20): the land the colonists farmed became their own, and the demesne farms stayed with the estate. The documents agree: the ÅaziÅ„sk table lists only the peasants' farmsteads and common land, the forest "Studzianka" stays the manor's, and in 1892 the colonists gave up their forest rights for "manor land" from the owner of the estate. The era's account (`reference/eras.yml`) and the story (EN and DE) now say that the manor kept its own land and forest, and that the government paid the former owner for the peasants' dues.
 
 ## The editor's voice documented (2026-10-20, docs only)
 
-- From three samples of the editor's writing (the preface and introduction of their book on the Trąbczyn estate, and a statement of purpose), `docs/EDITORS_VOICE.md` records their voice: sentence length (counted), words, openings and closings, evidence, what they do not do, where it differs from HOUSE_STYLE, and a two-paragraph brief. The samples are not kept in the repository. No text on the site was changed; reading the site against the brief is in TODO.md, section 8.
+- From three samples of the editor's writing (the preface and introduction of their book on the TrÄ…bczyn estate, and a statement of purpose), `docs/EDITORS_VOICE.md` records their voice: sentence length (counted), words, openings and closings, evidence, what they do not do, where it differs from HOUSE_STYLE, and a two-paragraph brief. The samples are not kept in the repository. No text on the site was changed; reading the site against the brief is in TODO.md, section 8.
 - Corrected and extended at the editor's word the same day: the pronunciations were a rare exception and are out of the brief; the long dashes are the word processor's typography, not the voice, so the house style's rule on dashes is no longer listed as a difference; the tone the editor aims at (a historian and editor of narrative academic history, evidence turned into a story a non-specialist can follow without loss of rigour) and their self-assessments (dry against fluff; framed "side roads") are recorded, and the brief is rewritten to them. A framed side road on the site is a new item in TODO.md.
 
 ## The spaced en dash; no signposting (2026-10-20, docs only)
 
-- The editor ruled that an aside takes the spaced en dash ( – ), never the em dash or a hyphen standing in for one; until now the English had no dashes at all. HOUSE_STYLE, "Typography". A range between two figures takes an unspaced en dash (8,000–9,000; the editor, the same day); ranges written before have a hyphen.
+- The editor ruled that an aside takes the spaced en dash ( â€“ ), never the em dash or a hyphen standing in for one; until now the English had no dashes at all. HOUSE_STYLE, "Typography". A range between two figures takes an unspaced en dash (8,000â€“9,000; the editor, the same day); ranges written before have a hyphen.
 - A new HOUSE_STYLE section, "No signposting": a sentence about the text instead of the past (announcing, pointing back, listing topics) is not written, except to bring back a topic the reader has not met for a long time (the editor's exception), and then by restating the fact, not by "as mentioned earlier" (Claude's suggestion). Navigational text (the About page's guide, "How it was prepared", lists of contents) is proposed as not signposting, for the editor to confirm. A search of the site's English found no signposts and no dashes, so no published text changes. EDITORS_VOICE.md's brief says both.
 - The editor's writing samples are for the analysis of style only: nothing in them is a source for the edition or is set against the documents (the editor, 2026-10-20). Written into WORKING_NOTES ("Working with the editor") and EDITORS_VOICE.md.
 
-## The literature: Pachoński, Mączak and Szwiec; the list by author (2026-10-20, published)
+## The literature: PachoÅ„ski, MÄ…czak and Szwiec; the list by author (2026-10-20, published)
 
 - The desktop's `main` is brought up to GitHub's (eighteen commits of the cloud sessions: the literature, the eras, line ends LF, house style).
-- Pachoński (1973), "Les Polonais dans la République de Venise", and Mączak (1968), "Export of Grain ... 1550-1650", first built that day as holdings by the desktop session, are moved into the literature (the editor: the Sources page is for primary sources); their holdings, page images and summaries are removed, and the code and data made for literature as holdings are taken out again.
-- Szwiec (2009), the catalogue of the regional architecture of the Pyzdry Forest, is added: the Polish text from the Word-printed PDF (`pipeline/literature/szwiec_pdf.py`), Claude's English, and its 80 pages of photographs and maps as pictures. Trąbczyn, Wrąbczynek, Wrąbczynkowskie Holendry and Orlina are among its villages.
+- PachoÅ„ski (1973), "Les Polonais dans la RÃ©publique de Venise", and MÄ…czak (1968), "Export of Grain ... 1550-1650", first built that day as holdings by the desktop session, are moved into the literature (the editor: the Sources page is for primary sources); their holdings, page images and summaries are removed, and the code and data made for literature as holdings are taken out again.
+- Szwiec (2009), the catalogue of the regional architecture of the Pyzdry Forest, is added: the Polish text from the Word-printed PDF (`pipeline/literature/szwiec_pdf.py`), Claude's English, and its 80 pages of photographs and maps as pictures. TrÄ…bczyn, WrÄ…bczynek, WrÄ…bczynkowskie Holendry and Orlina are among its villages.
 - A work's pages can now show pictures (`figures` in `work.yml`); a work printed in English has one text and no buttons.
 - The Literature page lists the works by author (the editor): surname first, the title with the English title in italics under it, where it was published, its language.
-- The new works' index hits read and ruled; "Venise" made a default with one exception. The Hohenlohe essay links Pachoński's note 10 on the literature page. The Licences page says the modern works on the Literature page are outside CC BY.
+- The new works' index hits read and ruled; "Venise" made a default with one exception. The Hohenlohe essay links PachoÅ„ski's note 10 on the literature page. The Licences page says the modern works on the Literature page are outside CC BY.
 
-## The literature: Wąsicki (1953) on Prussian colonisation in South Prussia (2026-10-21, published)
+## The literature: WÄ…sicki (1953) on Prussian colonisation in South Prussia (2026-10-21, published)
 
-- Jan Wąsicki, "Kolonizacja niemiecka w okresie Prus Południowych 1793 – 1806", Przegląd Zachodni 1953, no. 9-10, pp. 137-179, at the editor's word: read from the scanned PDF page by page (its OCR not taken over), 101 notes, nine tables in the text; the sideways table of the Poznań department's colonies, the plans and a fold-out table of costs as pictures; Claude's English. It names the Hohenlohe estates of Zagórów and Trąbczyn and the colonies of 1805 on the Warta. Index hits read and ruled (Frankfurt am Main and the Warsaw domain office as exceptions to older rulings).
+- Jan WÄ…sicki, "Kolonizacja niemiecka w okresie Prus PoÅ‚udniowych 1793 â€“ 1806", PrzeglÄ…d Zachodni 1953, no. 9-10, pp. 137-179, at the editor's word: read from the scanned PDF page by page (its OCR not taken over), 101 notes, nine tables in the text; the sideways table of the PoznaÅ„ department's colonies, the plans and a fold-out table of costs as pictures; Claude's English. It names the Hohenlohe estates of ZagÃ³rÃ³w and TrÄ…bczyn and the colonies of 1805 on the Warta. Index hits read and ruled (Frankfurt am Main and the Warsaw domain office as exceptions to older rulings).
 
-## The literature: Chodyła (2015) on the Olęder settlements of the Pyzdry Forest (2026-10-21, published)
+## The literature: ChodyÅ‚a (2015) on the OlÄ™der settlements of the Pyzdry Forest (2026-10-21, published)
 
-- Zbigniew Chodyła, *Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793* (Pyzdry 2015), at the editor's word. The editor's Word conversion has no pages and its note numbers run into the words, so the text is made from the book's PDF in their Books folder (`pipeline/literature/chodyla_pdf.py`), with its 156 printed pages, 369 notes on their pages, three tables as HTML and 39 pages of maps, charters and portraits as pictures, and checked word by word against the Word file. Claude's English, page by page; the tables by `literature/chodyla2015/make_english.py`. The editor's machine English was read and not used.
-- The book dates the founding of the Trąbczyńskie Stare Olędry and the Luśnie Olędry to 1746 (Paweł and Katarzyna Prusimski) from Konin Gr.145, and cites Konin Gr.136, Gr.153, Kalisz Gr.414, the hearth-tax table of 1789, the register of 1796 and the summons of 1860, all in the edition. Two of its details differ from those documents (NEEDS_CONFIRMATION).
-- Index hits read and ruled: the Polish case forms of Antoni, Paweł and Katarzyna Prusimski added for the literature; "Poniatowskiego" (here the King, not Prince Józef), "Przespolewski" and "Oppeln" given exceptions to older rulings.
+- Zbigniew ChodyÅ‚a, *Zarys najstarszych dziejÃ³w osad olÄ™derskich w Puszczy Pyzdrskiej 1746 â€“ 1793* (Pyzdry 2015), at the editor's word. The editor's Word conversion has no pages and its note numbers run into the words, so the text is made from the book's PDF in their Books folder (`pipeline/literature/chodyla_pdf.py`), with its 156 printed pages, 369 notes on their pages, three tables as HTML and 39 pages of maps, charters and portraits as pictures, and checked word by word against the Word file. Claude's English, page by page; the tables by `literature/chodyla2015/make_english.py`. The editor's machine English was read and not used.
+- The book dates the founding of the TrÄ…bczyÅ„skie Stare OlÄ™dry and the LuÅ›nie OlÄ™dry to 1746 (PaweÅ‚ and Katarzyna Prusimski) from Konin Gr.145, and cites Konin Gr.136, Gr.153, Kalisz Gr.414, the hearth-tax table of 1789, the register of 1796 and the summons of 1860, all in the edition. Two of its details differ from those documents (NEEDS_CONFIRMATION).
+- Index hits read and ruled: the Polish case forms of Antoni, PaweÅ‚ and Katarzyna Prusimski added for the literature; "Poniatowskiego" (here the King, not Prince JÃ³zef), "Przespolewski" and "Oppeln" given exceptions to older rulings.
 - Six hand-made links from the book to Konin Gr.145 and the summons of 1860 (1746), Konin Gr.136 (1754), Kalisz Gr.414 (1771), Konin Gr.153 (1782), AGAD 1/169/0/1/1745 (the register of 1797) and Kalisz Tab.21 (the hearth tax of 1789). Five differences with the documents are recorded; the edition takes the documents.
-- The editor's rule (2026-10-21): a fact or date from a primary document is taken over a literary source's without asking, and the difference is flagged so that it is known. HOUSE_STYLE, "The documents first", point 4; the doc-versus-book questions already in NEEDS_CONFIRMATION (Maryanna Dąmbska's death, Paweł Prusimski's generation) are marked settled.
-- Published at the editor's word, with Wąsicki (1953).
+- The editor's rule (2026-10-21): a fact or date from a primary document is taken over a literary source's without asking, and the difference is flagged so that it is known. HOUSE_STYLE, "The documents first", point 4; the doc-versus-book questions already in NEEDS_CONFIRMATION (Maryanna DÄ…mbska's death, PaweÅ‚ Prusimski's generation) are marked settled.
+- Published at the editor's word, with WÄ…sicki (1953).
 
-## The glossary: gród, the municipal court (2026-10-21, published)
+## The glossary: grÃ³d, the municipal court (2026-10-21, published)
 
-- A new entry, `grod`, at the editor's word, from the entry Gród in Arct's *Słownik ilustrowany języka polskiego* (1916, vol. 1, p. 405) on Wikisource, which they named, and the State Archive in Poznań's description of the Konin court books (`docs/PRUSIMSKI_ERA_PLAN.md`). It explains that the court the edition's English calls the "municipal court" was the starost's court in the gród, not a town's court: no document in the edition names a town court. Checked (`checked: true`).
-- It marks the Polish forms (gród, grodu, w grodzie, grodzki), the Latin castrensis, "municipal court" in the English and "Burggericht" in the German summaries: 375 marks in 56 documents, every one read in `review/glossary_matches.csv`; none is a place (Grodziec, Grodzisko are kept out).
-- **"Castle court" is not the English term** (editor, 2026-10-21): the edition's own prose (holding pages, summaries, timeline, places, the literature's English and its notes) now says "municipal court" for sąd grodzki, as the translations always did (`reference/translation_glossary.yml`), and "municipal court office" for urząd grodzki: 502 places. Kept: "Burggericht" in the German, and "the domain castle-office of Brieg" in Held (1801), a Prussian domain office, not a gród. The earlier entries of this changelog keep the old wording as history.
+- A new entry, `grod`, at the editor's word, from the entry GrÃ³d in Arct's *SÅ‚ownik ilustrowany jÄ™zyka polskiego* (1916, vol. 1, p. 405) on Wikisource, which they named, and the State Archive in PoznaÅ„'s description of the Konin court books (`docs/PRUSIMSKI_ERA_PLAN.md`). It explains that the court the edition's English calls the "municipal court" was the starost's court in the grÃ³d, not a town's court: no document in the edition names a town court. Checked (`checked: true`).
+- It marks the Polish forms (grÃ³d, grodu, w grodzie, grodzki), the Latin castrensis, "municipal court" in the English and "Burggericht" in the German summaries: 375 marks in 56 documents, every one read in `review/glossary_matches.csv`; none is a place (Grodziec, Grodzisko are kept out).
+- **"Castle court" is not the English term** (editor, 2026-10-21): the edition's own prose (holding pages, summaries, timeline, places, the literature's English and its notes) now says "municipal court" for sÄ…d grodzki, as the translations always did (`reference/translation_glossary.yml`), and "municipal court office" for urzÄ…d grodzki: 502 places. Kept: "Burggericht" in the German, and "the domain castle-office of Brieg" in Held (1801), a Prussian domain office, not a grÃ³d. The earlier entries of this changelog keep the old wording as history.
 - Arct added to the glossary's reference works (`docs/GLOSSARY_PLAN.md`).
-- A second entry, `stawisko`, at the editor's word, from Arct (vol. 2, p. 784: a large boggy pond, or ground taken up by a pond or left after one), with what the documents say of the ground: the boggy, wooded ground on the Trąbczyn-Łukom boundary, disputed from 1728 (Konin Gr.145), its embankment (Gr.114) and the line of 1782 through it (Gr.153). The noun only (editor: "there's a place called Stawisko, and then the noun"): where an act makes the word the ground's name ("na Stawisku zwanym", "stawisko nuncupatum", "called Stawisko", "namens Stawisko") it is not marked. 95 marks in 3 documents, all read. The clerks capitalise most nouns, so a capital is not taken for a name.
+- A second entry, `stawisko`, at the editor's word, from Arct (vol. 2, p. 784: a large boggy pond, or ground taken up by a pond or left after one), with what the documents say of the ground: the boggy, wooded ground on the TrÄ…bczyn-Åukom boundary, disputed from 1728 (Konin Gr.145), its embankment (Gr.114) and the line of 1782 through it (Gr.153). The noun only (editor: "there's a place called Stawisko, and then the noun"): where an act makes the word the ground's name ("na Stawisku zwanym", "stawisko nuncupatum", "called Stawisko", "namens Stawisko") it is not marked. 95 marks in 3 documents, all read. The clerks capitalise most nouns, so a capital is not taken for a name.
 - 113 entries, 57 checked.
 
-## The literature: Boniecki (1900), the Chełmski branch that held Łukomia (2026-10-21, published)
+## The literature: Boniecki (1900), the CheÅ‚mski branch that held Åukomia (2026-10-21, published)
 
-- Adam Boniecki, *Herbarz polski*, part I, vol. 2, "Chełmscy h. Ostoja", at the editor's word, as a source for the Chełmski family tree: only the branch that held Łukomia (items 2.976.162-240 of M. J. Minakowski's online edition), from the editor's saved page, by `literature/boniecki1900/make_original.py`. Stanisław Chełmski, Treasurer of Wschowa, his brother Heliodor, their father Józef and uncle Franciszek, the division of Łukomia about 1700, Ignacy's sale of Łukomia, Łomów, Mielno (Imielno) and Bukowe to Stanisław in 1766, and Stanisław's line to Władysław, owner of Łukomia in 1860. Cut at the item numbers (no page breaks online); Claude's English. The saved page is not kept: its header carries the editor's login.
-- Read against the documents first: the brothers of 1728 (APP 53/6/0/-/40), of 1775 (Konin Gr.145) and the four estates of 1778 (Konin Gr.117) agree; Heliodor's canonry (Chełmno in 1775, Poznań in Boniecki) and the year of Stanisław's title (1778 in the document, 1779 in Boniecki) differ, and the edition follows the documents (NEEDS_CONFIRMATION, "Boniecki (1900)").
-- Index rulings for the Chełmski forms, "Łukomi", and "Mielna" as Imielno in the list of the four estates only. Four hand-made links (`boniecki1900-*`), to 1644, 1728, 1775, 1778 and 1763; the first rests on Claude's reading and waits on the editor. `docs/LITERATURE_PLAN.md`, section 14. The literature has 18 works, 17 on the site.
+- Adam Boniecki, *Herbarz polski*, part I, vol. 2, "CheÅ‚mscy h. Ostoja", at the editor's word, as a source for the CheÅ‚mski family tree: only the branch that held Åukomia (items 2.976.162-240 of M. J. Minakowski's online edition), from the editor's saved page, by `literature/boniecki1900/make_original.py`. StanisÅ‚aw CheÅ‚mski, Treasurer of Wschowa, his brother Heliodor, their father JÃ³zef and uncle Franciszek, the division of Åukomia about 1700, Ignacy's sale of Åukomia, ÅomÃ³w, Mielno (Imielno) and Bukowe to StanisÅ‚aw in 1766, and StanisÅ‚aw's line to WÅ‚adysÅ‚aw, owner of Åukomia in 1860. Cut at the item numbers (no page breaks online); Claude's English. The saved page is not kept: its header carries the editor's login.
+- Read against the documents first: the brothers of 1728 (APP 53/6/0/-/40), of 1775 (Konin Gr.145) and the four estates of 1778 (Konin Gr.117) agree; Heliodor's canonry (CheÅ‚mno in 1775, PoznaÅ„ in Boniecki) and the year of StanisÅ‚aw's title (1778 in the document, 1779 in Boniecki) differ, and the edition follows the documents (NEEDS_CONFIRMATION, "Boniecki (1900)").
+- Index rulings for the CheÅ‚mski forms, "Åukomi", and "Mielna" as Imielno in the list of the four estates only. Four hand-made links (`boniecki1900-*`), to 1644, 1728, 1775, 1778 and 1763; the first rests on Claude's reading and waits on the editor. `docs/LITERATURE_PLAN.md`, section 14. The literature has 18 works, 17 on the site.
 
 ## The literature: the Encyclopedia of Camps and Ghettos (2012), the Warthegau (2026-10-21, published)
 
-- The USHMM *Encyclopedia of Camps and Ghettos, 1933-1945*, vol. II A (2012), the chapter "Warthegau Region", at the editor's word: only the pages they named, pp. 34-39 (the introduction), 48 (Chocz), 57-59 (Grodziec), 60-61 (Kalisz), 63-64 (Konin), 99-100 (Rzgów), 120-121 (Zagórów), for the twentieth-century part of the edition. In English as printed; CC BY-NC-ND 4.0, so no translation and no pictures (their lenders' credits), the captions given.
-- Made from the editor's JSTOR PDF by `pipeline/literature/warthegau_pdf.py`: the Polish letters from the accent font, the spaces of no width dropped, line-end hyphens told apart by the space the text layer keeps after a real one, notes linked within each entry, web addresses joined. `--check` compares every letter with the PDF. "Betchatów" corrected to Bełchatów at the editor's word. The PDF is not kept: its page feet carry the download's internet address.
-- Index rulings: Koppe and Reinhardt are not the edition's; "Konińska", "Konińskiej" and Słupca are. No hand-made links yet. The literature has 19 works, 18 on the site.
+- The USHMM *Encyclopedia of Camps and Ghettos, 1933-1945*, vol. II A (2012), the chapter "Warthegau Region", at the editor's word: only the pages they named, pp. 34-39 (the introduction), 48 (Chocz), 57-59 (Grodziec), 60-61 (Kalisz), 63-64 (Konin), 99-100 (RzgÃ³w), 120-121 (ZagÃ³rÃ³w), for the twentieth-century part of the edition. In English as printed; CC BY-NC-ND 4.0, so no translation and no pictures (their lenders' credits), the captions given.
+- Made from the editor's JSTOR PDF by `pipeline/literature/warthegau_pdf.py`: the Polish letters from the accent font, the spaces of no width dropped, line-end hyphens told apart by the space the text layer keeps after a real one, notes linked within each entry, web addresses joined. `--check` compares every letter with the PDF. "BetchatÃ³w" corrected to BeÅ‚chatÃ³w at the editor's word. The PDF is not kept: its page feet carry the download's internet address.
+- Index rulings: Koppe and Reinhardt are not the edition's; "KoniÅ„ska", "KoniÅ„skiej" and SÅ‚upca are. No hand-made links yet. The literature has 19 works, 18 on the site.
 
-## The places Grodziec and Rzgów (2026-10-21, published)
+## The places Grodziec and RzgÃ³w (2026-10-21, published)
 
-- All of 2026-10-21 after Chodyła published together at the editor's word: the glossary's gród and stawisko, "municipal court" throughout, Boniecki (1900), the Encyclopedia of Camps and Ghettos (2012) and the places Grodziec and Rzgów.
+- All of 2026-10-21 after ChodyÅ‚a published together at the editor's word: the glossary's grÃ³d and stawisko, "municipal court" throughout, Boniecki (1900), the Encyclopedia of Camps and Ghettos (2012) and the places Grodziec and RzgÃ³w.
 
-- Two places added at the editor's word (`reference/places.yml`, with their map positions in `reference/places_osm.yml`, looked up on OpenStreetMap and read against the sources). **Rzgów** ("Rzgowo" 1261, "Irgouo" 1280, both the Rzgów east of Zagórów by the Kodeks editors' note) is found in seven documents and tagged an estate in focus on four that concern it: KDW 4 and 6 (granted with Szetlew and Świątniki) and Konin Gr.117, docs 11 and 12 (the pines cut by its subjects in 1779 and its owner Marcin Nosalski's protest). **Grodziec** is found in Breyer's notebooks of 1936 and his notes of 1935; no document is about it, so it is not an estate in focus.
-- In the literature, all 122 hits read and ruled (Chodyła, Breyer, Szwiec, the Encyclopedia of Camps and Ghettos): every one is the Grodziec near Rychwał or the Rzgów near Konin.
+- Two places added at the editor's word (`reference/places.yml`, with their map positions in `reference/places_osm.yml`, looked up on OpenStreetMap and read against the sources). **RzgÃ³w** ("Rzgowo" 1261, "Irgouo" 1280, both the RzgÃ³w east of ZagÃ³rÃ³w by the Kodeks editors' note) is found in seven documents and tagged an estate in focus on four that concern it: KDW 4 and 6 (granted with Szetlew and ÅšwiÄ…tniki) and Konin Gr.117, docs 11 and 12 (the pines cut by its subjects in 1779 and its owner Marcin Nosalski's protest). **Grodziec** is found in Breyer's notebooks of 1936 and his notes of 1935; no document is about it, so it is not an estate in focus.
+- In the literature, all 122 hits read and ruled (ChodyÅ‚a, Breyer, Szwiec, the Encyclopedia of Camps and Ghettos): every one is the Grodziec near RychwaÅ‚ or the RzgÃ³w near Konin.
 
 ## The glossary: komornik, the officer and the lodger (2026-10-21, published)
 
-- At the editor's word, from Gloger's Komornik (the entry already rested on it for the officer). Every use in the documents read: two senses. **The court officer** (komornik graniczny and ziemski, Latin camerarius; Konin Gr.117, Gr.118, Gr.145, Gr.153, Kalisz Gr.425, Oe 1 Bü 9454 letters 17, 18, 232, 233): the entry `komornik`, now also matching the lower-case Polish, the Latin and the translations' "Boundary Surveyor" and "Land (Court) Chamberlain", 134 marks in 14 documents. **The landless lodger** (Gloger: "chłopi bezrolni ... za otrzymywaną komorę, ogród"): a new entry `komornik-lodger`, marked only in its six documents (ADWł 85, Konin Gr.136, Oe 1 Bü 14525 doc. 23, 14526 doc. 9, 9454 letters 146, 191), 23 marks. Before, the officer's definition was shown in four of those.
+- At the editor's word, from Gloger's Komornik (the entry already rested on it for the officer). Every use in the documents read: two senses. **The court officer** (komornik graniczny and ziemski, Latin camerarius; Konin Gr.117, Gr.118, Gr.145, Gr.153, Kalisz Gr.425, Oe 1 BÃ¼ 9454 letters 17, 18, 232, 233): the entry `komornik`, now also matching the lower-case Polish, the Latin and the translations' "Boundary Surveyor" and "Land (Court) Chamberlain", 134 marks in 14 documents. **The landless lodger** (Gloger: "chÅ‚opi bezrolni ... za otrzymywanÄ… komorÄ™, ogrÃ³d"): a new entry `komornik-lodger`, marked only in its six documents (ADWÅ‚ 85, Konin Gr.136, Oe 1 BÃ¼ 14525 doc. 23, 14526 doc. 9, 9454 letters 146, 191), 23 marks. Before, the officer's definition was shown in four of those.
 - `glossary_build.py` takes `only_in`, the documents an entry is marked in (beside `not_in`). 114 entries, 58 checked.
 
-## The literature: Frost (2007), the nobility of Poland–Lithuania (2026-10-21, published)
+## The literature: Frost (2007), the nobility of Polandâ€“Lithuania (2026-10-21, published)
 
-- Robert I. Frost, "The Nobility of Poland–Lithuania, 1569–1795", ch. 9 of H. M. Scott (ed.), *The European Nobilities in the Seventeenth and Eighteenth Centuries*, vol. II: Northern, Central and Eastern Europe, 2nd ed. (Palgrave Macmillan, 2007), pp. 266-310, from the editor's PDF at their word "only the article by Frost": the volume's Guides to Further Reading (pp. 410-415, with the Poland–Lithuania section) and the Russian chapter's opening page (p. 311) left out, and the guides not to be added at their word ("Don't add the guides from the PDF"). On the site at their word ("Give it a page - I'll need to decide later what gets displayed"); what the page displays is a later decision of theirs (NEEDS_CONFIRMATION).
-- The book is under copyright (its imprint: "No reproduction, copy or transmission of this publication may be made without written permission"; "All remaining chapters © their respective authors 1995, 2007"). Put in with `visible: false` after the Seidel precedent, then given a page the same day.
+- Robert I. Frost, "The Nobility of Polandâ€“Lithuania, 1569â€“1795", ch. 9 of H. M. Scott (ed.), *The European Nobilities in the Seventeenth and Eighteenth Centuries*, vol. II: Northern, Central and Eastern Europe, 2nd ed. (Palgrave Macmillan, 2007), pp. 266-310, from the editor's PDF at their word "only the article by Frost": the volume's Guides to Further Reading (pp. 410-415, with the Polandâ€“Lithuania section) and the Russian chapter's opening page (p. 311) left out, and the guides not to be added at their word ("Don't add the guides from the PDF"). On the site at their word ("Give it a page - I'll need to decide later what gets displayed"); what the page displays is a later decision of theirs (NEEDS_CONFIRMATION).
+- The book is under copyright (its imprint: "No reproduction, copy or transmission of this publication may be made without written permission"; "All remaining chapters Â© their respective authors 1995, 2007"). Put in with `visible: false` after the Seidel precedent, then given a page the same day.
 - Read spread by spread from the page images at 200 dpi (the scan has no text layer; not OCR), doubtful spots settled at 300 dpi crops; the print's own slips kept as printed and listed in the work's notes. The chapter's notes are endnotes, kept on their printed pages so a note can be cited to its page (no `notes:` in work.yml).
-- Index ruling, all pairs read in the sheet: the Radziwiłł magnates (28), Hieronim Florian Radziwiłł's given name ("Florian", 1) and Augustus II (1, caught by the pattern's bare "f " lookbehind in "of Augustus") are not the edition's; Repnin, the Russian ambassador (p. 299, twice), is ruled to the letters' Prince Repnin (83, 84, 1798), which the editor confirms (2026-10-21: "I'm sure Repnin is the same as the one in the project"; settled in NEEDS_CONFIRMATION). The literature has 20 works, 19 on the site.
+- Index ruling, all pairs read in the sheet: the RadziwiÅ‚Å‚ magnates (28), Hieronim Florian RadziwiÅ‚Å‚'s given name ("Florian", 1) and Augustus II (1, caught by the pattern's bare "f " lookbehind in "of Augustus") are not the edition's; Repnin, the Russian ambassador (p. 299, twice), is ruled to the letters' Prince Repnin (83, 84, 1798), which the editor confirms (2026-10-21: "I'm sure Repnin is the same as the one in the project"; settled in NEEDS_CONFIRMATION). The literature has 20 works, 19 on the site.
 
 ## The glossary: kopiec, the boundary mound (2026-10-21, published)
 
-- At the editor's word, from Gloger's "Kopce graniczne", read against the documents first: the decree of 1775 (Konin Gr.145) records the bricks, slag, glass, stones and coals laid where the mounds stood and a glass bottle with the commission's description under one, the corner (narożne) and wall (ścienne) mounds and the stakes in the marsh, as Gloger describes them; the line of 1782 (Gr.153) has forty-one wall mounds. Marked in Polish (kopiec), Latin (scopulus), the German summaries (Grenz-, Wand-, Eck-, Endhügel) and the English ("mound", always a boundary mound there): 338 marks in 11 documents, all read. 115 entries, 59 checked.
+- At the editor's word, from Gloger's "Kopce graniczne", read against the documents first: the decree of 1775 (Konin Gr.145) records the bricks, slag, glass, stones and coals laid where the mounds stood and a glass bottle with the commission's description under one, the corner (naroÅ¼ne) and wall (Å›cienne) mounds and the stakes in the marsh, as Gloger describes them; the line of 1782 (Gr.153) has forty-one wall mounds. Marked in Polish (kopiec), Latin (scopulus), the German summaries (Grenz-, Wand-, Eck-, EndhÃ¼gel) and the English ("mound", always a boundary mound there): 338 marks in 11 documents, all read. 115 entries, 59 checked.
 
 ## The glossary: pisarz, the court clerk (2026-10-21, published)
 
@@ -2185,177 +2185,177 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## Summaries for the works kept off the site; Pinkas Hakehillot (1976) (2026-10-21, published)
 
 - The editor: "For each literary source that you don't publish on the site, include an entry with a detailed summary of its contents." A work with `visible: false` is now listed on the Literature page with a note that it is under copyright, and its page holds only a detailed summary (`summary_en`, `summary_de` in its `work.yml`), none of its text. `build_literature.py` carries the summaries, `literature_site.py` writes the pages and stops on a kept-off work without them, the list and the page show the note and "Read the summary", and `verify_site.py` now checks the summary page and that no stretch of the text (the middle of the longest line of up to 40 passages, in each language) appears in any built file, in place of the old rule that the title appear nowhere.
-- **Seidel (2018)**: a summary chapter by chapter (about 1,970 words), written from a reading of the whole book, with what the edition's documents say where it differs: Trąbczyn came by the deed of gift of 9 August 1796 as estates fallen to the crown (Oe 1 Bü 14525, doc. 1), Zagórów by the deed of 19 June 1797 (Rep. 162 Nr. 295, doc. 3), not both in 1796; the colonists' lease of "18 May 1805" can be neither confirmed nor ruled out (APP 801, doc. 3, lacks its beginning).
-- **Pinkas Hakehillot (1976)** (`dabrowska1976`): JewishGen's English, by Morris Gradel, of the entries Zagórów (p. 103), Pyzdry (pp. 202-203) and Konin (pp. 235-238) of Yad Vashem's encyclopedia, at the editor's word; kept as Seidel (JewishGen's notice forbids copying). `make_original.py` takes the entries from saved copies of the pages, every letter checked. Read against the documents: the entry's 1368 for Zagórów's town status against the privilege of 19 November 1407 (KDW, doc. 14), which the edition follows.
+- **Seidel (2018)**: a summary chapter by chapter (about 1,970 words), written from a reading of the whole book, with what the edition's documents say where it differs: TrÄ…bczyn came by the deed of gift of 9 August 1796 as estates fallen to the crown (Oe 1 BÃ¼ 14525, doc. 1), ZagÃ³rÃ³w by the deed of 19 June 1797 (Rep. 162 Nr. 295, doc. 3), not both in 1796; the colonists' lease of "18 May 1805" can be neither confirmed nor ruled out (APP 801, doc. 3, lacks its beginning).
+- **Pinkas Hakehillot (1976)** (`dabrowska1976`): JewishGen's English, by Morris Gradel, of the entries ZagÃ³rÃ³w (p. 103), Pyzdry (pp. 202-203) and Konin (pp. 235-238) of Yad Vashem's encyclopedia, at the editor's word; kept as Seidel (JewishGen's notice forbids copying). `make_original.py` takes the entries from saved copies of the pages, every letter checked. Read against the documents: the entry's 1368 for ZagÃ³rÃ³w's town status against the privilege of 19 November 1407 (KDW, doc. 14), which the edition follows.
 
-## Trąbczyn: the wartime name Drommin (2026-10-21, published)
+## TrÄ…bczyn: the wartime name Drommin (2026-10-21, published)
 
-- At the editor's word: from 1939 to 1945 Trąbczyn was Drommin. The rural commune of Trąbczyn was provisionally renamed Drommin on 20 November 1939, the name confirmed on 18 May 1943, and from 1 April 1940 it formed the Amtsbezirk Drommin, run by an Amtskommissar at Grabina (Rolf Jehke, Territoriale Veränderungen in Deutschland und deutsch verwalteten Gebieten 1874-1945, s.v. Amtsbezirk Drommin, https://www.territorial.de/wart//konin/drommin.htm). A new field `renamed` in `reference/places.yml` (name, years, a sentence in each language, the source and its link), carried into `site/_data/estates.yml` and shown on the place's card on the Places page under the medieval spellings, with the source cited. The name is found in no document or work of the edition, so it is not matched.
+- At the editor's word: from 1939 to 1945 TrÄ…bczyn was Drommin. The rural commune of TrÄ…bczyn was provisionally renamed Drommin on 20 November 1939, the name confirmed on 18 May 1943, and from 1 April 1940 it formed the Amtsbezirk Drommin, run by an Amtskommissar at Grabina (Rolf Jehke, Territoriale VerÃ¤nderungen in Deutschland und deutsch verwalteten Gebieten 1874-1945, s.v. Amtsbezirk Drommin, https://www.territorial.de/wart//konin/drommin.htm). A new field `renamed` in `reference/places.yml` (name, years, a sentence in each language, the source and its link), carried into `site/_data/estates.yml` and shown on the place's card on the Places page under the medieval spellings, with the source cited. The name is found in no document or work of the edition, so it is not matched.
 
-## APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (2026-10-21, published)
+## APP 53/1455/0/2/21: the copy-book of the privileges of LÄ…d (2026-10-21, published)
 
-- A new holding at the editor's word, `app5314550221`: five pages (13, 14, 25, 26, 66) of the eighteenth-century copy-book "Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum", in the fond Klasztor cystersów w Lądzie of the State Archive in Poznań. Six documents, in Latin: the boundary of Makownica (1399); the sale of three mansi of Łukom with the forest Gradziem to Ląd (Pyzdry, 21 September 1461); the beginning of King Kazimierz's confirmation of it; King Kazimierz's exchange of Little Wronczyn and the mill at Pyzdry for sixty mansi of the forest Czernietz, where Drzewce was founded (Pyzdry, 18 January 1362); the beginning of his grant of freedom to its colonists; and p. 66 of the compromissory decree of 1761 renewing the mounds between Łukom, Zagórów and Drzewce.
+- A new holding at the editor's word, `app5314550221`: five pages (13, 14, 25, 26, 66) of the eighteenth-century copy-book "Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum", in the fond Klasztor cystersÃ³w w LÄ…dzie of the State Archive in PoznaÅ„. Six documents, in Latin: the boundary of Makownica (1399); the sale of three mansi of Åukom with the forest Gradziem to LÄ…d (Pyzdry, 21 September 1461); the beginning of King Kazimierz's confirmation of it; King Kazimierz's exchange of Little Wronczyn and the mill at Pyzdry for sixty mansi of the forest Czernietz, where Drzewce was founded (Pyzdry, 18 January 1362); the beginning of his grant of freedom to its colonists; and p. 66 of the compromissory decree of 1761 renewing the mounds between Åukom, ZagÃ³rÃ³w and Drzewce.
 - The pages were found by the archive's pencil pagination among the editor's raw photographs and cut from the photographs' previews (`intake/holding.py`); pages 13 and 25 are cut below the end of the entry before, at the editor's word. Read in session (17 marks of doubt), translated, summarised in German and English, claim-checked (70 statements), with its page in both languages, three timeline entries (1362, 1461, 1761) and the German date and relation notes. Eras: `medieval`, and `prusimski-boundary` for the decree of 1761.
 - A note in the margin is now a kind of its own (`margin_notes.yml`, "Written in the margin" / "Am Rand geschrieben"), beside text written sideways and the receiving office's notes: `corpus_pages.py`, `build_db.py`, `build_dataset.py`, `build_site_data.py`, `translate.py`, `letter.js`, `i18n.yml`.
 
-## APP 53/1455/0/2/21: Grądzyń, and p. 15 (2026-10-21, published)
+## APP 53/1455/0/2/21: GrÄ…dzyÅ„, and p. 15 (2026-10-21, published)
 
-- The editor: "Gradziem is indeed Grądzyń." The copy's Gradziem, Gradzien and Graziem are matched to Grądzyń (`reference/places.yml`), docs 2, 3 and 6 are tagged with it, and the English, the summaries, the holding's page and the timeline say Grądzyń; the copyist's Latin headings stay as written.
-- The editor: "you can add page 15 to finish the king's confirmation." P. 15 (IMG_5223) is added, cut below the end of no. 16. Read whole, no. 16 is King Kazimierz's confirmation at Gniezno, in a year written over and read as 1447, of the contract by which Abbot Maciej bought the same three mansi of Łukomia and the forest of Grądzyń from the brothers Mikołaj, Jan and Warsz of Koscielec: not the confirmation of the sale of 1461, as its heading had been taken to say. Document 3 is dated 8 August 1447, summarised and claim-checked again; its link to doc. 2 is now "supplements"; a timeline entry for 1447. No photograph of p. 27 (editor).
+- The editor: "Gradziem is indeed GrÄ…dzyÅ„." The copy's Gradziem, Gradzien and Graziem are matched to GrÄ…dzyÅ„ (`reference/places.yml`), docs 2, 3 and 6 are tagged with it, and the English, the summaries, the holding's page and the timeline say GrÄ…dzyÅ„; the copyist's Latin headings stay as written.
+- The editor: "you can add page 15 to finish the king's confirmation." P. 15 (IMG_5223) is added, cut below the end of no. 16. Read whole, no. 16 is King Kazimierz's confirmation at Gniezno, in a year written over and read as 1447, of the contract by which Abbot Maciej bought the same three mansi of Åukomia and the forest of GrÄ…dzyÅ„ from the brothers MikoÅ‚aj, Jan and Warsz of Koscielec: not the confirmation of the sale of 1461, as its heading had been taken to say. Document 3 is dated 8 August 1447, summarised and claim-checked again; its link to doc. 2 is now "supplements"; a timeline entry for 1447. No photograph of p. 27 (editor).
 
-## The literature: Karwowski (1900), the convent at Ołobok (2026-10-21, published)
+## The literature: Karwowski (1900), the convent at OÅ‚obok (2026-10-21, published)
 
-- At the editor's word: "Klasztor pp. cystersek w Ołoboku" (`literature/karwowski1900/`), from Roczniki Towarzystwa Przyjaciół Nauk Poznańskiego, T. XXVI (1900), pp. 1-114 — only the two paragraphs of p. 87 the editor quoted, with their footnote: the debts Prince Hohenlohe-Ingelfingen left on Zagórów, its loss at auction in 1827 to the Wrocław banker Karol Bogumił Weygel, and the Cistercian Nuns' 40,000 złp. lost with it. Read from the WBC digitisation (DjVu id 118639; the files not kept), the image at 300 dpi and word-level zooms, the scan's text layer only as a check. Out of copyright (the author died in 1917). Claude's English. Index ruled; the three identifications it raises wait on the editor (NEEDS_CONFIRMATION, "The literature"). `docs/LITERATURE_PLAN.md`, section 19.
+- At the editor's word: "Klasztor pp. cystersek w OÅ‚oboku" (`literature/karwowski1900/`), from Roczniki Towarzystwa PrzyjaciÃ³Å‚ Nauk PoznaÅ„skiego, T. XXVI (1900), pp. 1-114 â€” only the two paragraphs of p. 87 the editor quoted, with their footnote: the debts Prince Hohenlohe-Ingelfingen left on ZagÃ³rÃ³w, its loss at auction in 1827 to the WrocÅ‚aw banker Karol BogumiÅ‚ Weygel, and the Cistercian Nuns' 40,000 zÅ‚p. lost with it. Read from the WBC digitisation (DjVu id 118639; the files not kept), the image at 300 dpi and word-level zooms, the scan's text layer only as a check. Out of copyright (the author died in 1917). Claude's English. Index ruled; the three identifications it raises wait on the editor (NEEDS_CONFIRMATION, "The literature"). `docs/LITERATURE_PLAN.md`, section 19.
 
 ## The literature: Janocki (1779), the Lochowski entry, a sub-item of Paciorkowski (2026-10-21, published)
 
 - At the editor's word: the entry "Stanislaus Lochowski" (LXXVII, printed pp. 159-160) of Jan Daniel Janocki's *Ianociana, sive clarorum atque illustrium Poloniae auctorum Maecenatumque memoriae miscellae*, tomus II (Warsaw and Leipzig 1779), `literature/janocki1779/`, transcribed in session from the editor's PDF (the title page and the two pages; the PDF not kept). It says Lochowski's *Processus iuris limitanei* of 1641 was twice printed again by Marcin Paciorkowski, who, "suppressing the true author Lochowski's name, rashly and insolently claimed the work for himself", under the *Regula processus granicialis* title (1749 and 1760). Claude's English. The entry runs to p. 161; the extract stops at p. 160, where item IV closes whole.
-- **The first sub-item** (`docs/LITERATURE_PLAN.md`, section 18): `parent: paciorkowski1776`. The Literature page shows Janocki inside Paciorkowski's section; Paciorkowski's page carries the note (Janocki's words, with a link to the sub-item's page); the sub-item's page links back. `build_literature.py` and `literature_site.py` carry `parent`, `note_en` and `note_de`; the empty `parent` is dropped from the site data (Liquid reads "" as true — an empty "Attached to" line appeared on every work page before the drop).
+- **The first sub-item** (`docs/LITERATURE_PLAN.md`, section 18): `parent: paciorkowski1776`. The Literature page shows Janocki inside Paciorkowski's section; Paciorkowski's page carries the note (Janocki's words, with a link to the sub-item's page); the sub-item's page links back. `build_literature.py` and `literature_site.py` carry `parent`, `note_en` and `note_de`; the empty `parent` is dropped from the site data (Liquid reads "" as true â€” an empty "Attached to" line appeared on every work page before the drop).
 - **The citation of the parent work** is now "Paciorkowski (1776) [= Lochowski 1641]" (`literature/paciorkowski1776/work.yml`), so the corpus passage headers, the page's standfirst and the "In the literature" lists name Lochowski wherever the handbook is cited; the bracket's wording was chosen without the editor and may be reworded. The accounts of Paciorkowski (1776) name the attribution and the conflict with the 1776 title page ("Editio secunda ab ipso authore aucta").
 - No new index hits (nothing in the entry matches the edition's people or places); the doubtful reading "Miedzyborze" (the place of Lochowski's subscription) and the transcription wait on the editor (NEEDS_CONFIRMATION, "The literature"). The literature has 22 works, 20 on the site.
 - **The plan's section numbers** had gone wrong on the way in: Frost (2007) and Pinkas Hakehillot (1976) were both "section 16", and Karwowski (1900) and Janocki were both "section 17". Renumbered: Pinkas 17, Janocki 18, Karwowski 19, with the cross-references in CLAUDE.md, this file, TODO and `literature_site.py`'s docstring.
 
-## The literature: Minakowska (2026), Wojciech Otto-Trąmpczyński's page (2026-10-22, committed; not published)
+## The literature: Minakowska (2026), Wojciech Otto-TrÄ…mpczyÅ„ski's page (2026-10-22, committed; not published)
 
-- The page of Wojciech Otto-Trąmpczyński (ID: sw.35437) in Minakowska's database (`literature/minakowska2026ottotrampczynski/`), at the editor's word: the sixteenth-century man of the edition's Trąmpczyński family - marriage about 1590 (the database's estimate) to Anna Cerekwicka, the son Stanisław, and the descent whose names are the brothers of the decree of 1644's generation. Polish interface, Claude's English. A short page: no biography, no parents, no tree, no siblings.
-- **The database's "sw." numbers**: sw.35437 is of the branch of the Teki Dworzaczka regest numbers - the person came into the database from a regest, and the regest of 1614 (Księgi grodzkie pyzdrskie, nr 2152, Nr 137: his son's marriage portion of 7,000 zł on half the estates) is the page's one source. A fourth kind of number beside the Boniecki (2.976.*) and family-branch (4.285.*) ones.
+- The page of Wojciech Otto-TrÄ…mpczyÅ„ski (ID: sw.35437) in Minakowska's database (`literature/minakowska2026ottotrampczynski/`), at the editor's word: the sixteenth-century man of the edition's TrÄ…mpczyÅ„ski family - marriage about 1590 (the database's estimate) to Anna Cerekwicka, the son StanisÅ‚aw, and the descent whose names are the brothers of the decree of 1644's generation. Polish interface, Claude's English. A short page: no biography, no parents, no tree, no siblings.
+- **The database's "sw." numbers**: sw.35437 is of the branch of the Teki Dworzaczka regest numbers - the person came into the database from a regest, and the regest of 1614 (KsiÄ™gi grodzkie pyzdrskie, nr 2152, Nr 137: his son's marriage portion of 7,000 zÅ‚ on half the estates) is the page's one source. A fourth kind of number beside the Boniecki (2.976.*) and family-branch (4.285.*) ones.
 - **The pipeline fix the work forced** (`pipeline/literature/literature_index.py`): the index dedup dropped an extra pattern's hit whenever an edition pattern of the same slug fullmatched the surface, whether or not it could fire in the record - the edition's `trampczynski` entry carries `only_in`, so its pattern cannot fire in a literature uid, and the work's hits were invisible. The dedup now asks `applies()` first. General, not particular: any future `only_in` person stands the same way.
 - **The page** /people/wojciech-otto-trampczynski/ (/de/personen/wojciech-otto-trampczynski/), the second standalone - and the rule's addition: **a standalone block's slug must not be an entry's slug**. The first try keyed the block `trampczynski`, the family entry's own slug, and the page showed the family's heading and bio; the block was renamed and the collision is recorded in `reference/genealogy.yml`.
-- The index: 9 hits, all ruled (`--check` clean) - the family yes, "w Trąmpczyńskich Ol." no (the colony's name, Chodyła n. 34), "Janem Trąmpczyńskim herbu Topór" no (Żychliński p. 187, the Opaliński genealogy's man).
+- The index: 9 hits, all ruled (`--check` clean) - the family yes, "w TrÄ…mpczyÅ„skich Ol." no (the colony's name, ChodyÅ‚a n. 34), "Janem TrÄ…mpczyÅ„skim herbu TopÃ³r" no (Å»ychliÅ„ski p. 187, the OpaliÅ„ski genealogy's man).
 - NEEDS_CONFIRMATION gains the regest of 1614 (a possible holding: the Pyzdry books) and the descent's fit with the decree of 1644.
 
-## The literature: Minakowska (2026), Stanisław Adam Miączyński's page (2026-10-22, committed; not published)
+## The literature: Minakowska (2026), StanisÅ‚aw Adam MiÄ…czyÅ„ski's page (2026-10-22, committed; not published)
 
-- The page of Stanisław Adam Miączyński (ID: 4.285.278) in Minakowska's database (`literature/minakowska2026miaczynski/`), at the editor's word: the edition's `miaczynski` himself - the second husband of Michalina Prusimska, colonel of the Polish army, adjutant of Prince Poniatowski, member of the Sejm of 1830-31, buried at Trąbczyn, heir of Trąbczyn and Wieniec by the legitymacja of 1838. Polish interface again (the work's language is the saved page's own, section 22), with Claude's English.
-- **The marriage act of 17 August 1810** (Warsaw ASC Cyrkuł IV, act 67/1810, geneteka) against the edition's "about 1814" inferred from the letters of 1815: NEEDS_CONFIRMATION, nothing changed yet - the site shows both, the flag beside the new page's date.
-- The page has a **Rodzeństwo section** the first page had not; the standing selection does not bring it in (it stays in the knowledgebase), and `make_original.py` stops there. New marks kept as printed: "hr. [tytuł] nadany" (a title granted), the Towarzystwo Rolnicze districts as offices, the page's own Wikipedia line, the "(linia: …)" kinship markers inside the status list.
+- The page of StanisÅ‚aw Adam MiÄ…czyÅ„ski (ID: 4.285.278) in Minakowska's database (`literature/minakowska2026miaczynski/`), at the editor's word: the edition's `miaczynski` himself - the second husband of Michalina Prusimska, colonel of the Polish army, adjutant of Prince Poniatowski, member of the Sejm of 1830-31, buried at TrÄ…bczyn, heir of TrÄ…bczyn and Wieniec by the legitymacja of 1838. Polish interface again (the work's language is the saved page's own, section 22), with Claude's English.
+- **The marriage act of 17 August 1810** (Warsaw ASC CyrkuÅ‚ IV, act 67/1810, geneteka) against the edition's "about 1814" inferred from the letters of 1815: NEEDS_CONFIRMATION, nothing changed yet - the site shows both, the flag beside the new page's date.
+- The page has a **RodzeÅ„stwo section** the first page had not; the standing selection does not bring it in (it stays in the knowledgebase), and `make_original.py` stops there. New marks kept as printed: "hr. [tytuÅ‚] nadany" (a title granted), the Towarzystwo Rolnicze districts as offices, the page's own Wikipedia line, the "(linia: â€¦)" kinship markers inside the status list.
 - **The person's page** /people/miaczynski/ (/de/personen/miaczynski/): the first whose genealogy block hangs on an entry of the edition - the people.yml heading and biography, the life line 1780-1845 (stated dates, new in people_bios.yml), the family with the source of every fact, the 5 documents, and the automatic literature box. The wife is linked to her entry (prusimska), the son to his (miaczynski-wlodzimierz).
-- **The index: 47 hits, all ruled** (`--check` passes, 0 unruled pairs) - including the four pairs the second page's session had left unruled (Bronisz no, Chełmska yes, Małachowski no, Wieruszowa no). **The two duplicate `Miączyński:` keys of the miaczynski section stood merged**: the second, added for the first Minakowska work, had shadowed the first in YAML and the three zychlinski exceptions were dead from 2026-10-22 until now.
+- **The index: 47 hits, all ruled** (`--check` passes, 0 unruled pairs) - including the four pairs the second page's session had left unruled (Bronisz no, CheÅ‚mska yes, MaÅ‚achowski no, Wieruszowa no). **The two duplicate `MiÄ…czyÅ„ski:` keys of the miaczynski section stood merged**: the second, added for the first Minakowska work, had shadowed the first in YAML and the three zychlinski exceptions were dead from 2026-10-22 until now.
 - NEEDS_CONFIRMATION gains the marriage date, PSB t. 20 s. 562, and the page's other printed sources.
 
 ## The literature: Minakowska (2026), Helena Zielonacka's page (2026-10-22, committed; not published)
 
-- The page of Helena Zielonacka (ID: 2.976.216) in Minakowska's database (`literature/minakowska2026zielonacka/`), at the editor's word "related to Chełmski": the Chełmski line through the wife of the decree of 1728's Józef Ścibor-Chełmski (heir of Łukomia and Łomowo). Saved in the **database's English user interface** - the rule now says the work's language is the saved page's own (`docs/LITERATURE_PLAN.md`, section 22), so this work is `language: en` with no english.md, the one text as Mączak (1968) is; the names, the offices and the regest stay Polish. The database's Boniecki-derived IDs: her 2.976.216 is an entry of the online Boniecki's article 2.976, inside the item range the edition's `boniecki1900` brought in (her marriage is in its passage c04).
-- Against the documents: the husband and the family agree with the decree of 1728 (APP 53/6/0/-/40) and Boniecki c04; her sons are the Heliodor and Stanisław of the boundary decree of 1775, whose offices carry the same differences Boniecki raised (NEEDS_CONFIRMATION, settled - the documents stand); her children's birth years are the database's estimates and none is shown; the grandchildren's stated years are on her page with the work as their source. The Notes' regest of 1727 (Konin municipal books, her 3,000-złp dowry recorded on Józef's estates, he her guardian as well as her husband) is in the knowledgebase, and whether its holding is to be sought is the editor's (NEEDS_CONFIRMATION).
-- **The standalone person page**: /people/helena-zielonacka/ (/de/personen/helena-zielonacka/) is the first for a person of no document of the edition - `standalone: true` in `reference/genealogy.yml`, with its own heading and biography, no documents section, and the literature named by hand (boniecki1900/c04 and the work's marriage passage). The index: 6 hits, all the Chełmski family entry's, all ruled.
+- The page of Helena Zielonacka (ID: 2.976.216) in Minakowska's database (`literature/minakowska2026zielonacka/`), at the editor's word "related to CheÅ‚mski": the CheÅ‚mski line through the wife of the decree of 1728's JÃ³zef Åšcibor-CheÅ‚mski (heir of Åukomia and Åomowo). Saved in the **database's English user interface** - the rule now says the work's language is the saved page's own (`docs/LITERATURE_PLAN.md`, section 22), so this work is `language: en` with no english.md, the one text as MÄ…czak (1968) is; the names, the offices and the regest stay Polish. The database's Boniecki-derived IDs: her 2.976.216 is an entry of the online Boniecki's article 2.976, inside the item range the edition's `boniecki1900` brought in (her marriage is in its passage c04).
+- Against the documents: the husband and the family agree with the decree of 1728 (APP 53/6/0/-/40) and Boniecki c04; her sons are the Heliodor and StanisÅ‚aw of the boundary decree of 1775, whose offices carry the same differences Boniecki raised (NEEDS_CONFIRMATION, settled - the documents stand); her children's birth years are the database's estimates and none is shown; the grandchildren's stated years are on her page with the work as their source. The Notes' regest of 1727 (Konin municipal books, her 3,000-zÅ‚p dowry recorded on JÃ³zef's estates, he her guardian as well as her husband) is in the knowledgebase, and whether its holding is to be sought is the editor's (NEEDS_CONFIRMATION).
+- **The standalone person page**: /people/helena-zielonacka/ (/de/personen/helena-zielonacka/) is the first for a person of no document of the edition - `standalone: true` in `reference/genealogy.yml`, with its own heading and biography, no documents section, and the literature named by hand (boniecki1900/c04 and the work's marriage passage). The index: 6 hits, all the CheÅ‚mski family entry's, all ruled.
 - The first work's notes now record what its dropped status line said (chrome, but a fact about the person), and its grandchildren's "ca 1849" is kept as the rule requires.
 
 ## The literature: Minakowska (2026), the Starost's page, and the person pages (2026-10-22, committed; not published)
 
-- The page of Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619) in M. J. Minakowska's Wielka genealogia Minakowskiej (`literature/minakowska2026prusimski/`), the first of the database's pages the editor means to send, and with it **the standing rule for them** (`docs/LITERATURE_PLAN.md`, section 22): one excerpt work per person, slug `minakowska2026<name>`; the saved page never kept (the editor's login, the visitor's IP); the whole page kept as the knowledgebase (`full.md`, never shown, the Uwagi and their Teki Dworzaczka regest of 1786 included); only the editor's sections shown, **in full detail** (here the biography, the parents, the ancestor tree, the marriage, the children and grandchildren); **the database's estimated dates never taken into the edition's prose** (`docs/EDITORIAL_RULES.md`, the editor's ruling of 2026-10-22); the documents first on every fact.
-- **The person pages** (the new site feature, designed with this work): a page per person from the authored `reference/genealogy.yml` - who they are, their life dates, their family with the source of every fact, the documents that name them, the literature that names them - built by `pipeline/build/person_pages.py` (a step of regenerate.py, after the website data and the index), the layout `person`, both languages, linked from the entry on the People page; checked by `verify_site.py`. The pilot: **/people/prusimski/** and /de/personen/prusimski/, with the life-line 1744–ca 1806 (the PSB entry's, accepted; the "ca" open, NEEDS_CONFIRMATION), the family (the parents Stefan Prusimski and Wiktoria née Malczewska, the marriage to Marianna née Dąmbska, Michalina with her two husbands and her children and grandchildren, the edition's Włodzimierz linked), and the sentence on the Uwagi's sources.
-- Against the documents: the father and the grandfather agree (the citation of 1782, the decree of 1775); the page's grandmother Teresa née Łoś-Golińska is more than the documents say; its header "starosta nieszawskie" is the site's slip (the documents, the page's own Uwagi and the PSB all say Niszczewice); its PSB citation says t. 28 where the edition's copy is t. 27 (NEEDS_CONFIRMATION). The index: 31 hits, all read and ruled - the tree names the Starost's forebears, the grandchildren's list his descendants, and the rulings keep the bare surnames from the wrong persons (`literature/index.yml`).
+- The page of Antoni MichaÅ‚ Kazimierz OstrorÃ³g-Prusimski z Kolna h. NaÅ‚Ä™cz (ID: 4.285.619) in M. J. Minakowska's Wielka genealogia Minakowskiej (`literature/minakowska2026prusimski/`), the first of the database's pages the editor means to send, and with it **the standing rule for them** (`docs/LITERATURE_PLAN.md`, section 22): one excerpt work per person, slug `minakowska2026<name>`; the saved page never kept (the editor's login, the visitor's IP); the whole page kept as the knowledgebase (`full.md`, never shown, the Uwagi and their Teki Dworzaczka regest of 1786 included); only the editor's sections shown, **in full detail** (here the biography, the parents, the ancestor tree, the marriage, the children and grandchildren); **the database's estimated dates never taken into the edition's prose** (`docs/EDITORIAL_RULES.md`, the editor's ruling of 2026-10-22); the documents first on every fact.
+- **The person pages** (the new site feature, designed with this work): a page per person from the authored `reference/genealogy.yml` - who they are, their life dates, their family with the source of every fact, the documents that name them, the literature that names them - built by `pipeline/build/person_pages.py` (a step of regenerate.py, after the website data and the index), the layout `person`, both languages, linked from the entry on the People page; checked by `verify_site.py`. The pilot: **/people/prusimski/** and /de/personen/prusimski/, with the life-line 1744â€“ca 1806 (the PSB entry's, accepted; the "ca" open, NEEDS_CONFIRMATION), the family (the parents Stefan Prusimski and Wiktoria nÃ©e Malczewska, the marriage to Marianna nÃ©e DÄ…mbska, Michalina with her two husbands and her children and grandchildren, the edition's WÅ‚odzimierz linked), and the sentence on the Uwagi's sources.
+- Against the documents: the father and the grandfather agree (the citation of 1782, the decree of 1775); the page's grandmother Teresa nÃ©e ÅoÅ›-GoliÅ„ska is more than the documents say; its header "starosta nieszawskie" is the site's slip (the documents, the page's own Uwagi and the PSB all say Niszczewice); its PSB citation says t. 28 where the edition's copy is t. 27 (NEEDS_CONFIRMATION). The index: 31 hits, all read and ruled - the tree names the Starost's forebears, the grandchildren's list his descendants, and the rulings keep the bare surnames from the wrong persons (`literature/index.yml`).
 - Encoding note for the pages of this database: they are ISO-8859-2, not Windows-1250.
 
 ## The literature: Kucharski (2023), the noble judiciary (2026-10-22, published)
 
-- Robert Kucharski, "Sądownictwo szlacheckie od XV do XVIII wieku", Consilium Iuridicum 1(3-4) 2022, pp. 226-253 (`literature/kucharski2023/`), at the editor's word: the whole article from the journal's own PDF (`pipeline/literature/kucharski_pdf.py`, every page's letters held against the text layer by --check, all 28 pages match), the three pictures not rendered, their captions and "Źródło:" lines as text; Claude's English, page by page, the article's own English abstract and key words standing as printed. CC BY 4.0, so shown whole, and named on the Licences page as the literature's one open-access exception.
-- Index hits read and ruled: Józef Wybicki and the Warsaw of two bibliographical references stood; the municipal court "w Brześciu" of the Matuszewicz story is Brześć on the Bug, not Brześć Kujawski - ruled out (NEEDS_CONFIRMATION). No hand-made links yet. `docs/LITERATURE_PLAN.md`, section 20.
+- Robert Kucharski, "SÄ…downictwo szlacheckie od XV do XVIII wieku", Consilium Iuridicum 1(3-4) 2022, pp. 226-253 (`literature/kucharski2023/`), at the editor's word: the whole article from the journal's own PDF (`pipeline/literature/kucharski_pdf.py`, every page's letters held against the text layer by --check, all 28 pages match), the three pictures not rendered, their captions and "Å¹rÃ³dÅ‚o:" lines as text; Claude's English, page by page, the article's own English abstract and key words standing as printed. CC BY 4.0, so shown whole, and named on the Licences page as the literature's one open-access exception.
+- Index hits read and ruled: JÃ³zef Wybicki and the Warsaw of two bibliographical references stood; the municipal court "w BrzeÅ›ciu" of the Matuszewicz story is BrzeÅ›Ä‡ on the Bug, not BrzeÅ›Ä‡ Kujawski - ruled out (NEEDS_CONFIRMATION). No hand-made links yet. `docs/LITERATURE_PLAN.md`, section 20.
 
 ## The literature: Mielewczyk (2017), the maps of the villages (2026-10-22, committed; not published)
 
-- Wojciech Mielewczyk, "Zmiany przestrzeni wsi w drugiej połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie", Z Dziejów Kartografii XXI (2017), pp. 41-57 (`literature/mielewczyk2017/`), at the editor's word with the rulings: visible, the figures skipped, a link to the article provided, the whole article brought in. The link is the open-access copy at maphist.waw.pl (the `scan:` of `work.yml`).
-- The text from the annual's PDF (`pipeline/literature/mielewczyk_pdf.py`, --check holds all 17 pages against the text layer); the layer's "fi" ligature with its stray space joined (twelve joins listed); the 19 notes at the foot of their pages; the fourteen figures (Ryc. 1-14) not rendered, their captions as text - on four pages a caption stands between two pieces of one paragraph, and a body line never joins a paragraph of another kind. A paragraph ends even when its last run is a note mark (p. 52, "347 tysięcy.[^16]"). The article's own slips kept (the caption of Ryc. 6 reads 1866 against the body's 1886; note 4's "t. 3" against Literatura's "t. 2"; Burszta's title "gospodarstwa wojskowego" in Literatura against note 3's "wiejskiego"; the map titles' own spellings; the unfinished year "192…" of the Lisewo entry). Claude's English; the article's own English block of p. 57 stands as printed.
-- The article bears on the edition's ground: fig. 4 is a fragment of the map of the estates of Trąbczyn of 1861 with the field of the enfranchised peasants marked, and p. 48 names Kolonia Łazińskie and Kolonia Huta on the parcelled lands of the Trąbczyn property (the edition's Staro- and Nowo-Łazińska colonies, which the article does not say). Copyright the Institute's (2017), no open licence stated - shown whole at the editor's word; the Licences page not changed.
-- Index hits read and ruled: 17 mentions; the map titles' "Kaliszskoj" and "Konińskim" ruled to Kalisz and Konin with the reasons written, the minister Poniatowski of 1938 refused to Prince Józef (an exception added); "Kolonia Łazińskie" is not matched by the edition's patterns (they take only the Staro-/Nowo-Łazińska forms) - whether to add a pattern waits on the editor (NEEDS_CONFIRMATION). No hand-made links yet. `docs/LITERATURE_PLAN.md`, section 21. The literature has 25 works, 23 on the site (two summary-only).
+- Wojciech Mielewczyk, "Zmiany przestrzeni wsi w drugiej poÅ‚owie XIX i na poczÄ…tku XX wieku na przykÅ‚adzie wybranych map ze zbiorÃ³w Muzeum Narodowego Rolnictwa i PrzemysÅ‚u Rolno-SpoÅ¼ywczego w Szreniawie", Z DziejÃ³w Kartografii XXI (2017), pp. 41-57 (`literature/mielewczyk2017/`), at the editor's word with the rulings: visible, the figures skipped, a link to the article provided, the whole article brought in. The link is the open-access copy at maphist.waw.pl (the `scan:` of `work.yml`).
+- The text from the annual's PDF (`pipeline/literature/mielewczyk_pdf.py`, --check holds all 17 pages against the text layer); the layer's "fi" ligature with its stray space joined (twelve joins listed); the 19 notes at the foot of their pages; the fourteen figures (Ryc. 1-14) not rendered, their captions as text - on four pages a caption stands between two pieces of one paragraph, and a body line never joins a paragraph of another kind. A paragraph ends even when its last run is a note mark (p. 52, "347 tysiÄ™cy.[^16]"). The article's own slips kept (the caption of Ryc. 6 reads 1866 against the body's 1886; note 4's "t. 3" against Literatura's "t. 2"; Burszta's title "gospodarstwa wojskowego" in Literatura against note 3's "wiejskiego"; the map titles' own spellings; the unfinished year "192â€¦" of the Lisewo entry). Claude's English; the article's own English block of p. 57 stands as printed.
+- The article bears on the edition's ground: fig. 4 is a fragment of the map of the estates of TrÄ…bczyn of 1861 with the field of the enfranchised peasants marked, and p. 48 names Kolonia ÅaziÅ„skie and Kolonia Huta on the parcelled lands of the TrÄ…bczyn property (the edition's Staro- and Nowo-ÅaziÅ„ska colonies, which the article does not say). Copyright the Institute's (2017), no open licence stated - shown whole at the editor's word; the Licences page not changed.
+- Index hits read and ruled: 17 mentions; the map titles' "Kaliszskoj" and "KoniÅ„skim" ruled to Kalisz and Konin with the reasons written, the minister Poniatowski of 1938 refused to Prince JÃ³zef (an exception added); "Kolonia ÅaziÅ„skie" is not matched by the edition's patterns (they take only the Staro-/Nowo-ÅaziÅ„ska forms) - whether to add a pattern waits on the editor (NEEDS_CONFIRMATION). No hand-made links yet. `docs/LITERATURE_PLAN.md`, section 21. The literature has 25 works, 23 on the site (two summary-only).
 
-## The newspapers: a new section, and Dziennik Poznański R. 79, nr 180 (7 sierpnia 1937) (2026-10-22, committed; not published)
+## The newspapers: a new section, and Dziennik PoznaÅ„ski R. 79, nr 180 (7 sierpnia 1937) (2026-10-22, committed; not published)
 
 - The editor's ruling: "Let's make a new section for newspaper articles, since it doesn't really fall under archival sources or literature." A third section stands between the Sources (archival) and the Literature (works about the history): `newspapers/`, on the site at /newspapers/ ("Zeitungen" in German), the menu entry between Sources and Literature. Plan, reading method and open questions: `docs/NEWSPAPERS_PLAN.md`.
-- The first item (`newspapers/dziennikpoznanski19370807/`): the "Z Zagórowa" local column of Dziennik Poznański, R. 79, nr 180 (7 August 1937), three anonymous municipal notes closed "(mat)" - the recruitment of some sixty unemployed of Zagórów for seasonal farm work in Germany, the moving of the old people's home to a property of the heirs of Ignacy Ciszewski at Oleśnica on the road to Konin under deputy mayor Franciszek Łukaszewski, and the paving of the streets with trees to be planted along them. Transcribed line by line as printed ("¬" at a word broken at the line's end, the Kuryer Polski convention); Claude's English beside it; era `twentieth-century`. The clipping came as a single JPG in Downloads and is not kept in the repository.
-- **No paid run.** The editor asked instead that OCR be installed for the project: Tesseract 5.5.3 (winget `tesseract-ocr.tesseract`) with the Polish models in %LOCALAPPDATA%\Tesseract\tessdata, `pytesseract` installed, and `pipeline/ocr.py` wrapping them (`read()`, `words()`). The text is the agreement of five passes (tessdata_best and the standard model, the page upscaled ×3 and ×4, psm 6 and 4, the Windows.Media.Ocr engine as a third witness); what they did not settle went to the editor on a stand-alone spot sheet of 13 rows with pictures (`scratch/dp1937_sheet.py`, the queries.py page and saving) and was answered in full the same day: m. Zagórowa, zapracowanej, odciążony ("relieved"), the stray fragment between the notes left out, "starców." with its period, Ignacego, **"we wsi i gmina Oleśnica" as printed (the grammar's "gminie" refused)**, szosie, Oleśnicę, przytułkiem, "(mat)" without a period inside, chcąc, the printer's edge fragments ("Pd", "PDZ") left out.
+- The first item (`newspapers/dziennikpoznanski19370807/`): the "Z ZagÃ³rowa" local column of Dziennik PoznaÅ„ski, R. 79, nr 180 (7 August 1937), three anonymous municipal notes closed "(mat)" - the recruitment of some sixty unemployed of ZagÃ³rÃ³w for seasonal farm work in Germany, the moving of the old people's home to a property of the heirs of Ignacy Ciszewski at OleÅ›nica on the road to Konin under deputy mayor Franciszek Åukaszewski, and the paving of the streets with trees to be planted along them. Transcribed line by line as printed ("Â¬" at a word broken at the line's end, the Kuryer Polski convention); Claude's English beside it; era `twentieth-century`. The clipping came as a single JPG in Downloads and is not kept in the repository.
+- **No paid run.** The editor asked instead that OCR be installed for the project: Tesseract 5.5.3 (winget `tesseract-ocr.tesseract`) with the Polish models in %LOCALAPPDATA%\Tesseract\tessdata, `pytesseract` installed, and `pipeline/ocr.py` wrapping them (`read()`, `words()`). The text is the agreement of five passes (tessdata_best and the standard model, the page upscaled Ã—3 and Ã—4, psm 6 and 4, the Windows.Media.Ocr engine as a third witness); what they did not settle went to the editor on a stand-alone spot sheet of 13 rows with pictures (`scratch/dp1937_sheet.py`, the queries.py page and saving) and was answered in full the same day: m. ZagÃ³rowa, zapracowanej, odciÄ…Å¼ony ("relieved"), the stray fragment between the notes left out, "starcÃ³w." with its period, Ignacego, **"we wsi i gmina OleÅ›nica" as printed (the grammar's "gminie" refused)**, szosie, OleÅ›nicÄ™, przytuÅ‚kiem, "(mat)" without a period inside, chcÄ…c, the printer's edge fragments ("Pd", "PDZ") left out.
 - The site: `pipeline/newspapers/newspapers_site.py` (a step of regenerate.py) writes site/_data/newspapers.yml and one page per item in each language; `_layouts/newspaper.html` shows the item like a work of the literature (one text at a time, the English first); the Newspapers include lists the items by year under their newspaper's name; i18n strings in both languages; verify_site.py checks every visible item's page in both languages and holds a kept-off item (visible: false) to its summary, as it does the literature's. verify_site.py passes whole.
 - Open on the editor (NEEDS_CONFIRMATION, "The newspapers"): the clipping's source (its `scan:` stays empty until they say); the rights (anonymous press of 1937 read as public domain by the 70 years from publication - Claude's reading, to be confirmed); whether Kuryer Polski 1754 moves here from the Sources page; whether the index of people and places runs over the items; whether the site carries the clipping itself. Published only at the editor's word.
 
 ## The newspapers: Kuryer Polski (1754) moves in; the clipping carried; the index run (2026-10-22, committed; not published)
 
-- The editor's rulings, all worked in the same day: the clipping comes from the blog Zagórów w historii (its post of 2 October 2024, "Kolejne wycinki z prasy sprzed lat, cz. 3") - the `source:` of the item, shown on its page; **the rights are approved** ("Assume the rights are approved"); **the site carries the clipping** (`image:` in item.yml, the figure above the texts - the Dziennik clipping converted from its WebP to JPEG, the Kuryer Polski's page a copy of the derivative the document page showed); **Kuryer Polski 1754 moves** from the Sources page into the newspapers; **the people/places index runs over the items**.
-- **Kuryer Polski 1754, nr 75** (`newspapers/kuryerpolski1754075/`): the report on the funeral of Paweł Prusimski at Trąbczyn, 5 December 1754, is the section's second item. The text, the editor's English, the summaries and the page image come over unchanged in their words; the item is no longer one of the edition's documents (the edition counts 619 documents in 46 holdings), its page is /newspapers/kuryerpolski1754075/ with redirects standing at /documents/kuryerpolski1754075/ and /documents/kuryerpolski1754075/1/, the timeline's event of 1754 links the item's page, and the story's and the KDW holding's links point there. The item's caveat names the English the editor's own, not Claude's (`translation: editor`).
-- **The index** (`pipeline/newspapers/newspapers_index.py --check`, a step of regenerate.py): the literature's index machinery run over the items' originals, rulings in `newspapers/index.yml`, every hit read before it was ruled - 18 hits in 14 pairs, all ruled: Głowiecki, Paweł, Katarzyna and Antoni Prusimski (the print's Prusiński and Łędzki forms), Kalisz, Konin, Ląd, Oleśnica, Trąbczyn, Zagórów. The People and Places pages carry a box "In the newspapers" beside the literature's; a person of the newspapers who names no document (Głowiecki, whose report left the corpus) stands on /people/ all the same, with no documents shown. The Oleśnica ruling rests on the item's own geography (the village and commune of that name on the road from Zagórów to Konin) and waits for the editor's confirmation (NEEDS_CONFIRMATION). An item's uid in the index is its slug with "-1", so the register's `only_in` filters keep working for the spellings they were written for.
+- The editor's rulings, all worked in the same day: the clipping comes from the blog ZagÃ³rÃ³w w historii (its post of 2 October 2024, "Kolejne wycinki z prasy sprzed lat, cz. 3") - the `source:` of the item, shown on its page; **the rights are approved** ("Assume the rights are approved"); **the site carries the clipping** (`image:` in item.yml, the figure above the texts - the Dziennik clipping converted from its WebP to JPEG, the Kuryer Polski's page a copy of the derivative the document page showed); **Kuryer Polski 1754 moves** from the Sources page into the newspapers; **the people/places index runs over the items**.
+- **Kuryer Polski 1754, nr 75** (`newspapers/kuryerpolski1754075/`): the report on the funeral of PaweÅ‚ Prusimski at TrÄ…bczyn, 5 December 1754, is the section's second item. The text, the editor's English, the summaries and the page image come over unchanged in their words; the item is no longer one of the edition's documents (the edition counts 619 documents in 46 holdings), its page is /newspapers/kuryerpolski1754075/ with redirects standing at /documents/kuryerpolski1754075/ and /documents/kuryerpolski1754075/1/, the timeline's event of 1754 links the item's page, and the story's and the KDW holding's links point there. The item's caveat names the English the editor's own, not Claude's (`translation: editor`).
+- **The index** (`pipeline/newspapers/newspapers_index.py --check`, a step of regenerate.py): the literature's index machinery run over the items' originals, rulings in `newspapers/index.yml`, every hit read before it was ruled - 18 hits in 14 pairs, all ruled: GÅ‚owiecki, PaweÅ‚, Katarzyna and Antoni Prusimski (the print's PrusiÅ„ski and ÅÄ™dzki forms), Kalisz, Konin, LÄ…d, OleÅ›nica, TrÄ…bczyn, ZagÃ³rÃ³w. The People and Places pages carry a box "In the newspapers" beside the literature's; a person of the newspapers who names no document (GÅ‚owiecki, whose report left the corpus) stands on /people/ all the same, with no documents shown. The OleÅ›nica ruling rests on the item's own geography (the village and commune of that name on the road from ZagÃ³rÃ³w to Konin) and waits for the editor's confirmation (NEEDS_CONFIRMATION). An item's uid in the index is its slug with "-1", so the register's `only_in` filters keep working for the spellings they were written for.
 - verify_site.py passes whole: 619 documents character-exact, 2 items with pages in both languages, no broken links (the redirects included).
 
 ## The newspapers: Ostdeutscher Beobachter, Jg. 4, Nr. 197 (19. Juli 1942) (2026-10-22, committed; not published)
 
-- The section's third item (`newspapers/ostdeutscherbeobachter19420197/`), given by the editor as a folder with the page image (`1492.jpg`, the WBC object), a markdown file with the German transcription and Claude's English beside it, and the link https://www.wbc.poznan.pl/dlibra/publication/121214/edition/131605/content: the feature "225 Jahre alte deutsche Siedlung im Wartheland" (signed Willi Spatz) on the "purely German settlement" of Lazinsk — Łazińsk — in the Amtsbezirk Drommin. The citation: the Ostdeutscher Beobachter, Organ der NSDAP, Verkündungsblatt des Reichsstatthalters im Reichsgau Wartheland und seiner Behörden, Posen, NS-Gauverlag; the paper ran from 1 November 1939 to 1945 as the successor of the Posener Tageblatt.
-- The editor's rulings on the direct questions: the English is Claude's (the item's page carries the standing caveat, like the 1937 item's), and **the item is shown whole without the rights flagged** ("Show it, no need to flag the rights") — put to the editor because the item is signed, unlike the anonymous 1937 clipping. No OCR, no spot sheet, no paid run: "the transcription is secure", the editor's word, and the text stands as the file gives it (the md's escapes resolved; the article's picture marked "[Abbildung]" with its caption kept as text; the print's line division not kept, the file came with the paragraphs whole).
-- **What the item bears on the edition's ground**: the Amtsbezirk Drommin of the article is the wartime name of the rural commune of Trąbczyn (`renamed` in reference/places.yml, 2026-10-21); its Lazinsk is the Łazinsk of Breyer's notebook of July 1936 (APP 53/968/0/-/669), which names the same teacher Mielke ("Lehrer i. Łazinsk: Mielke seit 1925") and Michalinow beside it — the article and the notebook, six years apart, witness the same place and the same man. The article's founding date of 1718 stands against the edition's own records (the Łazińskie Olędry from the 1746 foundation, the register and Chodyła 2015; the Nowe Olędry first attested 1776): kept as printed, the difference recorded in the summary (NEEDS_CONFIRMATION, "The newspapers"). The item's judgements are the party paper's own; the account on its page says so.
-- The index: two new pairs, read and ruled (`newspapers/index.yml`) — "Konin" (the Kreisstadt itself, the article's walk to the Amtsbezirk begins there) and "Schlesien" (the region the fourteen founding families set out from; the article's "Schlesierlande" is matched by no pattern). 20 hits in 3 items, all ruled, 8 links. **"Drommin" and "Lazinsk" are matched by no pattern** — whether to add patterns waits on the editor (NEEDS_CONFIRMATION, with the Mielewczyk "Kolonia Łazińskie" question).
+- The section's third item (`newspapers/ostdeutscherbeobachter19420197/`), given by the editor as a folder with the page image (`1492.jpg`, the WBC object), a markdown file with the German transcription and Claude's English beside it, and the link https://www.wbc.poznan.pl/dlibra/publication/121214/edition/131605/content: the feature "225 Jahre alte deutsche Siedlung im Wartheland" (signed Willi Spatz) on the "purely German settlement" of Lazinsk â€” ÅaziÅ„sk â€” in the Amtsbezirk Drommin. The citation: the Ostdeutscher Beobachter, Organ der NSDAP, VerkÃ¼ndungsblatt des Reichsstatthalters im Reichsgau Wartheland und seiner BehÃ¶rden, Posen, NS-Gauverlag; the paper ran from 1 November 1939 to 1945 as the successor of the Posener Tageblatt.
+- The editor's rulings on the direct questions: the English is Claude's (the item's page carries the standing caveat, like the 1937 item's), and **the item is shown whole without the rights flagged** ("Show it, no need to flag the rights") â€” put to the editor because the item is signed, unlike the anonymous 1937 clipping. No OCR, no spot sheet, no paid run: "the transcription is secure", the editor's word, and the text stands as the file gives it (the md's escapes resolved; the article's picture marked "[Abbildung]" with its caption kept as text; the print's line division not kept, the file came with the paragraphs whole).
+- **What the item bears on the edition's ground**: the Amtsbezirk Drommin of the article is the wartime name of the rural commune of TrÄ…bczyn (`renamed` in reference/places.yml, 2026-10-21); its Lazinsk is the Åazinsk of Breyer's notebook of July 1936 (APP 53/968/0/-/669), which names the same teacher Mielke ("Lehrer i. Åazinsk: Mielke seit 1925") and Michalinow beside it â€” the article and the notebook, six years apart, witness the same place and the same man. The article's founding date of 1718 stands against the edition's own records (the ÅaziÅ„skie OlÄ™dry from the 1746 foundation, the register and ChodyÅ‚a 2015; the Nowe OlÄ™dry first attested 1776): kept as printed, the difference recorded in the summary (NEEDS_CONFIRMATION, "The newspapers"). The item's judgements are the party paper's own; the account on its page says so.
+- The index: two new pairs, read and ruled (`newspapers/index.yml`) â€” "Konin" (the Kreisstadt itself, the article's walk to the Amtsbezirk begins there) and "Schlesien" (the region the fourteen founding families set out from; the article's "Schlesierlande" is matched by no pattern). 20 hits in 3 items, all ruled, 8 links. **"Drommin" and "Lazinsk" are matched by no pattern** â€” whether to add patterns waits on the editor (NEEDS_CONFIRMATION, with the Mielewczyk "Kolonia ÅaziÅ„skie" question).
 - Housekeeping: the generated site pages of the Kuryer Polski item (`site/_newspapers/kuryerpolski1754075.md` and its German twin) and the index's corpus record (`corpus/newspapers/mentions.json`), left untracked by the move's commit, are committed here. verify_site.py passes whole: 3 items with pages in both languages, 619 documents character-exact, no broken links. Not published.
 
-## The newspapers: TwojaSłupca, 6 lipca 2015 ("Trąbczyn świętował 775 lat") (2026-10-22, committed; not published)
+## The newspapers: TwojaSÅ‚upca, 6 lipca 2015 ("TrÄ…bczyn Å›wiÄ™towaÅ‚ 775 lat") (2026-10-22, committed; not published)
 
-- The section's fourth item (`newspapers/twojaslupca20150706/`), given by the editor as the address https://twojaslupca.pl/trabczyn-swietowal-775-lat/: the report of the village of Trąbczyn's 775th-anniversary jubilee (the celebration the day before, 5 July 2015; the portal counts from the document of 1240), in TwojaSłupca, the local news portal of Słupca — the first item of the press from the web, no scan, no OCR: the portal's HTML taken as printed, nothing tidied, its own oddities standing ("Wiesław Radniecki Andrzej Kin" without the comma, "Marzena kazimierska" with the small letter, "Anna Siuba" named twice, the spaces after the hyphens, the article's own grammar).
-- The editor's rulings on the direct questions: **shown whole** (the article is the press of 2015 and under copyright, unlike the 1937 and 1942 items — the rights approved), and **no picture** — the article's one photograph stays off the site, its place marked "[Obraz]", the `source:` link pointing to the article. The slug's date stands in the issue's place (`twojaslupca20150706`; `docs/NEWSPAPERS_PLAN.md`, sections 1 and 5). The page's one reader's comment is not part of the article and is not kept. Claude's English; the standing caveat on the page.
-- **What the item bears on**: its history paragraph is the edition's own documents' story, each claim matched by the KDW holding — the "Trampczin" of 1240 is the KDW's no. 2 (Archbishop Fulko's grant of tithes to Ląd, 30 September 1240 (sic), which the article's "a raczej Trampczin" quotes the Latin of); Janek son of Szymon and the count Mikołaj of Ląd are named in the KDW's charter of 27 March 1276 (Duke Bolesław the Pious's grant of Trąbczyn to count Mikołaj, which recites the earlier grantees); "komes Jan i Przedpełk" are the brothers, heirs of Trąbczyn, of the KDW's two judgments of 1346. The jubilee's arithmetic is the article's own (1240 + 775 = 2015). The article names no edition work; the edition keeps to its documents.
-- The index: four new pairs read and ruled, one ruled out (`newspapers/index.yml`) — "Trąbczyn" and "Trąbczyna" in (the village, the honours' name, the exhibition's title), "Prusimski" in (Antoni Prusimski, the register's Starost, of whom the entry's identity says he took part in the uprising of 1794 — the article's context and the register's man agree), "Miączyński" ruled out (the report's heirs-list: Włodzimierz is the register's other entry, pinned to the summons of 1860; "Stanisław hrabia" and "Aleksander" are identified by nothing the edition holds — the register's own `not_in` precedent; NEEDS_CONFIRMATION), and the honouree's surname "Wolicki" ruled out of the place Wolica. 35 hits in 4 items, all ruled, 10 links; the Trąbczyn estate's Places entry and the Starost's /people/ entry each gained the item in their "In the newspapers" box. **"Lądzie", "lądzki" and "Trampczin" are matched by no pattern** — whether to extend the register's patterns waits on the editor (NEEDS_CONFIRMATION, "The newspapers").
+- The section's fourth item (`newspapers/twojaslupca20150706/`), given by the editor as the address https://twojaslupca.pl/trabczyn-swietowal-775-lat/: the report of the village of TrÄ…bczyn's 775th-anniversary jubilee (the celebration the day before, 5 July 2015; the portal counts from the document of 1240), in TwojaSÅ‚upca, the local news portal of SÅ‚upca â€” the first item of the press from the web, no scan, no OCR: the portal's HTML taken as printed, nothing tidied, its own oddities standing ("WiesÅ‚aw Radniecki Andrzej Kin" without the comma, "Marzena kazimierska" with the small letter, "Anna Siuba" named twice, the spaces after the hyphens, the article's own grammar).
+- The editor's rulings on the direct questions: **shown whole** (the article is the press of 2015 and under copyright, unlike the 1937 and 1942 items â€” the rights approved), and **no picture** â€” the article's one photograph stays off the site, its place marked "[Obraz]", the `source:` link pointing to the article. The slug's date stands in the issue's place (`twojaslupca20150706`; `docs/NEWSPAPERS_PLAN.md`, sections 1 and 5). The page's one reader's comment is not part of the article and is not kept. Claude's English; the standing caveat on the page.
+- **What the item bears on**: its history paragraph is the edition's own documents' story, each claim matched by the KDW holding â€” the "Trampczin" of 1240 is the KDW's no. 2 (Archbishop Fulko's grant of tithes to LÄ…d, 30 September 1240 (sic), which the article's "a raczej Trampczin" quotes the Latin of); Janek son of Szymon and the count MikoÅ‚aj of LÄ…d are named in the KDW's charter of 27 March 1276 (Duke BolesÅ‚aw the Pious's grant of TrÄ…bczyn to count MikoÅ‚aj, which recites the earlier grantees); "komes Jan i PrzedpeÅ‚k" are the brothers, heirs of TrÄ…bczyn, of the KDW's two judgments of 1346. The jubilee's arithmetic is the article's own (1240 + 775 = 2015). The article names no edition work; the edition keeps to its documents.
+- The index: four new pairs read and ruled, one ruled out (`newspapers/index.yml`) â€” "TrÄ…bczyn" and "TrÄ…bczyna" in (the village, the honours' name, the exhibition's title), "Prusimski" in (Antoni Prusimski, the register's Starost, of whom the entry's identity says he took part in the uprising of 1794 â€” the article's context and the register's man agree), "MiÄ…czyÅ„ski" ruled out (the report's heirs-list: WÅ‚odzimierz is the register's other entry, pinned to the summons of 1860; "StanisÅ‚aw hrabia" and "Aleksander" are identified by nothing the edition holds â€” the register's own `not_in` precedent; NEEDS_CONFIRMATION), and the honouree's surname "Wolicki" ruled out of the place Wolica. 35 hits in 4 items, all ruled, 10 links; the TrÄ…bczyn estate's Places entry and the Starost's /people/ entry each gained the item in their "In the newspapers" box. **"LÄ…dzie", "lÄ…dzki" and "Trampczin" are matched by no pattern** â€” whether to extend the register's patterns waits on the editor (NEEDS_CONFIRMATION, "The newspapers").
 - Two rendering faults found and fixed while the item went in (WORKING_NOTES, "Two Liquid traps"): the empty `image:` of an item without a picture made the item layout render a broken figure (Liquid counts the empty string as true; the comparison is explicit now), and the Newspapers list page's Language fact was blank for every item (Liquid cannot build the bracket key by concatenation; the include assigns it first). verify_site.py passes whole: 4 items with pages in both languages, 0 kept off the site, 619 documents character-exact, no broken links. Not published.
 
-## The newspapers: the editor's identifications — Drommin, Lazinsk, Kolonia Łazińskie (2026-10-22, committed; not published)
+## The newspapers: the editor's identifications â€” Drommin, Lazinsk, Kolonia ÅaziÅ„skie (2026-10-22, committed; not published)
 
-- The editor's three rulings, put to them with the 1942 item's open questions and answered the same day: **"Drommin = Trąbczyn"** (the article's Amtsbezirk Drommin is the commune of Trąbczyn under its occupation name — the register's `renamed` entry confirmed as the identification); **"Lazinsk = German-era name for Łazińsk, the colony which went by many name variants"** (the article's Lazinsk is Łazińsk, the colony and not a part of one — settling the register's open question "whether Łazińsk is that name or a part of the colony"; the register records Łazińsk as a variant of Trąbczyńskie Stare Olędry, so the article's Lazinsk is that colony, the 1746 foundation; Breyer's notebook of 1936 distinguishes its Alt and Nowo Łazinsk — the Stare and Nowe colonies); **"Kolonia Łazińskie is a variant of Łazińsk/Lazinsk"** (Mielewczyk's form names the same colony, settling which colony his p. 48 form names).
-- Worked in: `reference/places.yml` — "Drommin" a matched variant of trabczyn, "Lazinsk" and "Kolonia Łazińskie" matched variants of trabczynskie-stare-oledry, the open questions rewritten with the rulings; `newspapers/index.yml` — the 1942 item's "Drommin" (1) and "Lazinsk" (6) ruled in; `literature/index.yml` — Mielewczyk's "Kolonia Łazińskie" ruled yes (the hit his item's index had left unmade). The index over the items: 42 hits in 4 items, all ruled, 11 links; the Trąbczyn estate's Places entry keeps the 1942 item in its "In the newspapers" box. The bare Polish "Łazińsk"/"Łaziny" stay `match: false` (their literal would also catch the Nowe colony's "Łazińskie", and matching them would bring Breyer's "Łazinsk" of 1936 in — NEEDS_CONFIRMATION, the editor's word). The 1942 item's account and summary state the identifications as the editor's rulings; the item's `notes.md` has the block.
+- The editor's three rulings, put to them with the 1942 item's open questions and answered the same day: **"Drommin = TrÄ…bczyn"** (the article's Amtsbezirk Drommin is the commune of TrÄ…bczyn under its occupation name â€” the register's `renamed` entry confirmed as the identification); **"Lazinsk = German-era name for ÅaziÅ„sk, the colony which went by many name variants"** (the article's Lazinsk is ÅaziÅ„sk, the colony and not a part of one â€” settling the register's open question "whether ÅaziÅ„sk is that name or a part of the colony"; the register records ÅaziÅ„sk as a variant of TrÄ…bczyÅ„skie Stare OlÄ™dry, so the article's Lazinsk is that colony, the 1746 foundation; Breyer's notebook of 1936 distinguishes its Alt and Nowo Åazinsk â€” the Stare and Nowe colonies); **"Kolonia ÅaziÅ„skie is a variant of ÅaziÅ„sk/Lazinsk"** (Mielewczyk's form names the same colony, settling which colony his p. 48 form names).
+- Worked in: `reference/places.yml` â€” "Drommin" a matched variant of trabczyn, "Lazinsk" and "Kolonia ÅaziÅ„skie" matched variants of trabczynskie-stare-oledry, the open questions rewritten with the rulings; `newspapers/index.yml` â€” the 1942 item's "Drommin" (1) and "Lazinsk" (6) ruled in; `literature/index.yml` â€” Mielewczyk's "Kolonia ÅaziÅ„skie" ruled yes (the hit his item's index had left unmade). The index over the items: 42 hits in 4 items, all ruled, 11 links; the TrÄ…bczyn estate's Places entry keeps the 1942 item in its "In the newspapers" box. The bare Polish "ÅaziÅ„sk"/"Åaziny" stay `match: false` (their literal would also catch the Nowe colony's "ÅaziÅ„skie", and matching them would bring Breyer's "Åazinsk" of 1936 in â€” NEEDS_CONFIRMATION, the editor's word). The 1942 item's account and summary state the identifications as the editor's rulings; the item's `notes.md` has the block.
 - verify_site.py passes whole (4 items with pages in both languages, 619 documents character-exact). Not published.
 
-## The literature: Łukasiewicz (1997), the "Black Register" studied (2026-10-22, committed; not published)
+## The literature: Åukasiewicz (1997), the "Black Register" studied (2026-10-22, committed; not published)
 
-- Dariusz Łukasiewicz, "Nowa analiza „Czarnego Rejestru". Studium źródłoznawcze", *Kwartalnik Historyczny* R. CIV (1997), nr 2, pp. 31-62 (`literature/lukasiewicz1997/`), at the editor's word with the rulings: the whole article, visible, the appendix tables as HTML tables. The RCIN digitisation is the `scan:` of `work.yml`.
-- The text read from page images (300 dpi, two halves; the four appendix pages printed sideways, read rotated): the PDF's OCR text layer used as a scaffold only and corrected against the images. The register's manuscript in GStAPK (I HA Rep. 7c Südpreußen Nr 14) is the article's own discovery, and its findings correct the register's headline: 48 donataries, 52 donations, 245 estates, nominal value 2 069 550 Thaler, real value 4-7 million (nearer 4) against the title page's 20 million.
+- Dariusz Åukasiewicz, "Nowa analiza â€žCzarnego Rejestru". Studium ÅºrÃ³dÅ‚oznawcze", *Kwartalnik Historyczny* R. CIV (1997), nr 2, pp. 31-62 (`literature/lukasiewicz1997/`), at the editor's word with the rulings: the whole article, visible, the appendix tables as HTML tables. The RCIN digitisation is the `scan:` of `work.yml`.
+- The text read from page images (300 dpi, two halves; the four appendix pages printed sideways, read rotated): the PDF's OCR text layer used as a scaffold only and corrected against the images. The register's manuscript in GStAPK (I HA Rep. 7c SÃ¼dpreuÃŸen Nr 14) is the article's own discovery, and its findings correct the register's headline: 48 donataries, 52 donations, 245 estates, nominal value 2 069 550 Thaler, real value 4-7 million (nearer 4) against the title page's 20 million.
 - The tables as HTML (Tabela 1's six columns and its number row 1-6 taken from the print's own rules; the print has no serial numbers in the name column - the draft's first pass had added them and they were struck); the table notes as `[^t1-n]`/`[^t4-n]`; the print's slips kept and listed (`notes.md`); the two notes split across page feet keep their split; the journal's own English summary stands as printed with its French-stressed spellings, verified on enlargements. Claude's English page for page.
 - Where the article's figures differ from the edition's documents, the documents stand (the Triebenfeld sale: the register's entry and the letters 400,000 to Prince George and 750,000 on, the article 450,000 and "the same year" - his reading of Dorow's printing).
-- Index hits read and ruled (the kings yes; Massenbach yes on the article's own n. 24; Niemojewski and Wybicki yes on the confiscation list; Adelheid Simsch refused to the Princess; the donatary Grävenitz, councillor Schmaling and the Freiherr von der Reck refused with reasons and open in NEEDS_CONFIRMATION, "The literature"; the imprint towns and the titles carrying Berlin refused). Two hand-made links: the Triebenfeld story and Tabela 4's row to the Prince's three letters, and Tabela 1's Hohenlohe row to the five letters of the register's Hohenlohe link. `docs/LITERATURE_PLAN.md`, section 23.
+- Index hits read and ruled (the kings yes; Massenbach yes on the article's own n. 24; Niemojewski and Wybicki yes on the confiscation list; Adelheid Simsch refused to the Princess; the donatary GrÃ¤venitz, councillor Schmaling and the Freiherr von der Reck refused with reasons and open in NEEDS_CONFIRMATION, "The literature"; the imprint towns and the titles carrying Berlin refused). Two hand-made links: the Triebenfeld story and Tabela 4's row to the Prince's three letters, and Tabela 1's Hohenlohe row to the five letters of the register's Hohenlohe link. `docs/LITERATURE_PLAN.md`, section 23.
 
-## The newspapers: Słowo (1892) sells Trąbczyn (2026-10-22, committed; not published)
+## The newspapers: SÅ‚owo (1892) sells TrÄ…bczyn (2026-10-22, committed; not published)
 
-- Słowo, R. XI, nr 2 (4 January 1892), p. 3, the "Sprzedaże dóbr" notice
+- SÅ‚owo, R. XI, nr 2 (4 January 1892), p. 3, the "SprzedaÅ¼e dÃ³br" notice
   (`newspapers/slowo18920104/`), at the editor's word: the snippet named, the
   editor's own crop of the column carried on the item's page (`slowo.jpg`),
   the Crispa digitisation as the `source:`.
-- The notice's five printed lines transcribed line by line as printed ("¬"
+- The notice's five printed lines transcribed line by line as printed ("Â¬"
   at the two broken words), read by Tesseract (three passes) with word-level
   zooms; five readings ruled on a spot sheet: **za** (no acute), the buyer's
-  **Władysławowa** (the married form), **peckim** (the print is grammatical),
-  the figure **150 włók** against the draft's 159, and both digitisation
+  **WÅ‚adysÅ‚awowa** (the married form), **peckim** (the print is grammatical),
+  the figure **150 wÅ‚Ã³k** against the draft's 159, and both digitisation
   artefacts (the streak before the number, the sliver at the crop's foot)
   left out.
-- The item is the press witness of Trąbczyn's sale by Count Miączyński to
-  Countess Władysławowa Wielopolska for 225,000 rs. — the transfer the
+- The item is the press witness of TrÄ…bczyn's sale by Count MiÄ…czyÅ„ski to
+  Countess WÅ‚adysÅ‚awowa Wielopolska for 225,000 rs. â€” the transfer the
   wlodzimierz era's ownership line records ("by 1892 Countess Maria
   Wielopolska"); the item sits in that era. Open: whether the press's
-  "Władysławowa Wielopolska" and the era's "Countess Maria Wielopolska" name
+  "WÅ‚adysÅ‚awowa Wielopolska" and the era's "Countess Maria Wielopolska" name
   one woman (NEEDS_CONFIRMATION, "The newspapers").
-- The index run over it: one hit, Trąbczyn, ruled (`newspapers/index.yml`);
-  the notice's "hr. Miączyńskiego" is outside the Miączyński patterns' forms
+- The index run over it: one hit, TrÄ…bczyn, ruled (`newspapers/index.yml`);
+  the notice's "hr. MiÄ…czyÅ„skiego" is outside the MiÄ…czyÅ„ski patterns' forms
   (the genitive after "hr."), said in the notes. The "In the newspapers" box
-  on Trąbczyn's page on /places/ now carries the item beside the Kuryer
+  on TrÄ…bczyn's page on /places/ now carries the item beside the Kuryer
   Polski's. `docs/NEWSPAPERS_PLAN.md`, section 5.
 
-## The place pages: Zagórów (2026-10-22, committed; not published)
+## The place pages: ZagÃ³rÃ³w (2026-10-22, committed; not published)
 
 - The editor's new section (`places/`, `docs/PLACES_PLAN.md`): a page per
   place that has sources of its own, hung on the place's card on the Places
-  page and linked from it — "Let's add a new source to a place: Zagórów.
+  page and linked from it â€” "Let's add a new source to a place: ZagÃ³rÃ³w.
   This site has a lot of information that should be added under the place
   name, on a separate page for the place." Built like the newspapers'
   machinery, bilingual like the person pages; a place page hangs on an
   estate card, and the build fails loudly if its slug is no estate.
-- The first place, Zagórów (`zagorowo`): /places/zagorowo/ and
+- The first place, ZagÃ³rÃ³w (`zagorowo`): /places/zagorowo/ and
   /de/orte/zagorowo/ (`pipeline/places/place_pages.py`, collection `places`
   and `places_de`, layout `place`, one viewbar for the whole page, the
   "More about the place" line on the card, the checks in verify_site.py).
 - The first source, `zagorowpl20220614`: the town's own presentation on
-  zagorow.pl ("Miasto i gmina Zagórów" — historia, położenie, atrakcje,
+  zagorow.pl ("Miasto i gmina ZagÃ³rÃ³w" â€” historia, poÅ‚oÅ¼enie, atrakcje,
   kultura), a digital flip-book, kept by the Wayback Machine in the capture
   of 14 June 2022 the editor gave. The editor's rulings of the day: the
   source shown whole (Polish as printed, nothing tidied; Claude's English
-  beside it, the English first); a new per-place page; **no pictures** —
+  beside it, the English first); a new per-place page; **no pictures** â€”
   the page's photographs (the document of 1240, the coat of arms, the
   flag) stay off the site, their places marked "[Obraz]". The viewer's
   furniture is not kept; the page's slips stand and are recorded
   (`places/zagorowo/zagorowpl20220614/notes.md`).
 - What it bears on: the quoted fragment names "Zagorowo" among the villages
-  of the confirmation of 1261 — the form the edition's Places page records
-  from the KDW; the box "Historia" names the Olędrzy of the Puszcza
-  Pyzdrska; the page names Ląd, Rzgów, Drzewce, Imielno and the rest of the
+  of the confirmation of 1261 â€” the form the edition's Places page records
+  from the KDW; the box "Historia" names the OlÄ™drzy of the Puszcza
+  Pyzdrska; the page names LÄ…d, RzgÃ³w, Drzewce, Imielno and the rest of the
   edition's ground. Its self-contradictions (1262/1261; 1869/1870) are
   kept as printed and recorded (NEEDS_CONFIRMATION, "The places").
 
@@ -2372,31 +2372,31 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The editor's two files (German transcription with printed page numbers and
   GFM footnotes; English pairing it page for page) are read by
   `make_original.py` from their folder on J:; 21 printed pages brought in,
-  whole where the relevance is dense, cut to paragraphs with "[…]" elsewhere
+  whole where the relevance is dense, cut to paragraphs with "[â€¦]" elsewhere
   (`notes.md` lists the selection and the cuts): the rural colonisation
   (III.1, pp. 39-42, p. 41 naming "Paul von Kolno-Prusinski, Grundherr von
-  Trombezyn" and the founding of Łazińsk in 1746), the Prussian colonisation
-  (VI.1, pp. 89-93, the towns "Konin, Zagö-röw und Kolo"), the schools of
+  Trombezyn" and the founding of ÅaziÅ„sk in 1746), the Prussian colonisation
+  (VI.1, pp. 89-93, the towns "Konin, ZagÃ¶-rÃ¶w und Kolo"), the schools of
   the Kalisch land (pp. 45, 112), the Grodziec parish contract of 1796
-  (p. 94), the parishes Stawiszyn/Prazuchy/Sobiesenki/Łask/Slesin (p. 102),
-  the diocese of Kalisch's parish list "Zagörow mit dem Filial
+  (p. 94), the parishes Stawiszyn/Prazuchy/Sobiesenki/Åask/Slesin (p. 102),
+  the diocese of Kalisch's parish list "ZagÃ¶row mit dem Filial
   Lissewo-Pyzdry, Konin mit dem Filial Maslaki" (p. 123), the churches of
-  the region (pp. 165, 166: the Zagórów church of 1878-1896; p. 179 Konin
-  and Masłaki), the inter-war parishes (p. 226, the Zagórów pastor Alexander
-  Groß 1923-1945), the brethren's circles in Łazińsk (pp. 235-236) and the
+  the region (pp. 165, 166: the ZagÃ³rÃ³w church of 1878-1896; p. 179 Konin
+  and MasÅ‚aki), the inter-war parishes (p. 226, the ZagÃ³rÃ³w pastor Alexander
+  GroÃŸ 1923-1945), the brethren's circles in ÅaziÅ„sk (pp. 235-236) and the
   statistics of 1938 with the "rein deutsche evangelische Gemeinde Zagorow"
   (p. 256).
 - The false friend ruled out in the scan: p. 101's colony "Trombin bei
-  Rypin" (the Dobrzyń land) is not Trąbczyn. Nothing tidied: the print's
+  Rypin" (the DobrzyÅ„ land) is not TrÄ…bczyn. Nothing tidied: the print's
   slips stand and are recorded in the notes.
 - Index hits read and ruled (140 in the work): new forms `Trombezyn`,
-  `Zagörow`/`Zagö-röw`, `Lazinsk` (the editor's Łazinsk ruling of
-  2026-10-22) and `Prusinski` (the print drops the ń); `Brzyczka` refused
-  (Reptowski's colony near Łódź); old rulings sharpened with exceptions
-  (Schröttersdorf, the Posen imprints, "Lissewo-Pyzdry", Dembina- and
+  `ZagÃ¶row`/`ZagÃ¶-rÃ¶w`, `Lazinsk` (the editor's Åazinsk ruling of
+  2026-10-22) and `Prusinski` (the print drops the Å„); `Brzyczka` refused
+  (Reptowski's colony near ÅÃ³dÅº); old rulings sharpened with exceptions
+  (SchrÃ¶ttersdorf, the Posen imprints, "Lissewo-Pyzdry", Dembina- and
   Koneck-Holland, and Wielun now taking the town by exception against
   Guradze's field). One hand-made link: p. 41 against the summons of 1860
-  and the boundary decree of 1775 — Kneifel names the husband alone, the
+  and the boundary decree of 1775 â€” Kneifel names the husband alone, the
   documents the couple; the edition follows the documents.
   `docs/LITERATURE_PLAN.md`, section 24. **Published 2026-10-22** at the
   editor's word.
@@ -2404,21 +2404,21 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## The literature: Werner (1904), the parish histories of the province of Posen (2026-10-23, committed; not published)
 
 - Albert Werner, *Geschichte der evangelischen Parochien in der Provinz
-  Posen*, überarbeitet von Johannes Steffani, herausgegeben von dem
-  Königlichen Consistorium der Provinz Posen (Lissa: Friedrich Ebbecke 1904)
+  Posen*, Ã¼berarbeitet von Johannes Steffani, herausgegeben von dem
+  KÃ¶niglichen Consistorium der Provinz Posen (Lissa: Friedrich Ebbecke 1904)
   (`literature/werner1904/`), at the editor's word with the page images of
   the WBC digitisation (publication 34695, edition 51858) in Downloads:
   "only entry 201 about Wreschen is relevant for the project, hence that's
   what's made available here". The excerpt is entry 201, the parish of
-  Wreschen (Września), printed pp. 422-424, whole, with the book's title
+  Wreschen (WrzeÅ›nia), printed pp. 422-424, whole, with the book's title
   page as the work's front. Out of copyright; shown whole as far as brought
   in.
 - The entry's bearing on the edition: the Wreschen parish originally served
-  the German Hauländer country around **Peisern (Pyzdry)** and **Zagorowo
-  (Zagórów)**, and "eine an deutschen Hauländereien reiche Gegend" went from
-  it in 1817 when those places came to Russia - the edition's Olęder ground
+  the German HaulÃ¤nder country around **Peisern (Pyzdry)** and **Zagorowo
+  (ZagÃ³rÃ³w)**, and "eine an deutschen HaulÃ¤ndereien reiche Gegend" went from
+  it in 1817 when those places came to Russia - the edition's OlÄ™der ground
   and its place `peyserschen-hauland`. The parish's founding by the
-  Ponińskis (1758, 1760, the orangery of 1 May 1778, the parish of 1779),
+  PoniÅ„skis (1758, 1760, the orangery of 1 May 1778, the parish of 1779),
   the churches of 1822 and 1895, the Filial Wilhelmsau of 1892 with its
   Bethaus of the Royal Settlement Commission, and the ten pastors of
   1779-1904. No document, person or settlement of the edition is named: no
@@ -2426,7 +2426,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **Read by OCR alone** (no transcription existed, and the scans' text layer
   is not in the repository): the lunaroute document converter over the whole
   pages, the bands and the single lines, the passes checked against each
-  other (Fraktur ſ→f/j, kt→ft handled by rule; no local Tesseract on the
+  other (Fraktur Å¿â†’f/j, ktâ†’ft handled by rule; no local Tesseract on the
   editor's machine). The readings a name or fact rests on that the passes
   did not settle are on the editor's spot sheet (`scratch/werner1904_sheet.py`,
   20 rows with crops; answers to `review/werner1904/query_answers.json`).
@@ -2434,81 +2434,81 @@ lose his estates. The era page writes Konotop, not Kontop.
   Polish accounts of the same gift; the General Superintendent Hesekiel)
   are recorded in the notes and NEEDS_CONFIRMATION.
 - Index hits read and ruled: `Peisern`, `Zagorowo` (the print's German form)
-  and `Rußland` stand; refused: the title page's and heading's `Posen` (the
-  province and the Diözese), `Liegnitz` and `Pommern` (pastors' birthplaces),
+  and `RuÃŸland` stand; refused: the title page's and heading's `Posen` (the
+  province and the DiÃ¶zese), `Liegnitz` and `Pommern` (pastors' birthplaces),
   and `Sokolnik` (a village of the Wreschen parish, not the edition's Amt
   Sokolnik - open in NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section
   25. The literature has 32 works, 30 on the site (two summary-only). The
   spot sheet open; not published.
 
-## 2026-10-22 — The newspapers: the three Lidmanowski texts
+## 2026-10-22 â€” The newspapers: the three Lidmanowski texts
 
 - **Three new items** (`newspapers/zdrowie1912z10/`, `newspapers/
   jutrzenka1913z8/`, `newspapers/zdrowie1914z6/`), from the editor's file
-  "Texts by Dr. Konstanty Lidmanowski, Zagórów (1912-1913).md" — English
+  "Texts by Dr. Konstanty Lidmanowski, ZagÃ³rÃ³w (1912-1913).md" â€” English
   and Polish together, each with its digitisation link, the transcription
   secure (the editor's word; no OCR, no spot sheet, no page image carried).
   The first items that are articles of learned journals: two in *Zdrowie*
-  (the organ of the Warsaw Hygiene Society) — the nutrition study of the
-  Słupca powiat, R. XXVIII, z. 10 (1912), pp. 720-725, and the housing
-  survey, R. XXX, z. 6 (1914), pp. 432-440 — and one in *Jutrzenka* of
-  Łódź (R. 3, nr 8, 24 April 1913, pp. 7-10), the digest of Lidmanowski's
+  (the organ of the Warsaw Hygiene Society) â€” the nutrition study of the
+  SÅ‚upca powiat, R. XXVIII, z. 10 (1912), pp. 720-725, and the housing
+  survey, R. XXX, z. 6 (1914), pp. 432-440 â€” and one in *Jutrzenka* of
+  ÅÃ³dÅº (R. 3, nr 8, 24 April 1913, pp. 7-10), the digest of Lidmanowski's
   attire article in the March 1913 *Zdrowie*.
 - **The housing survey dated 1914** against the file's name
   ("1912-1913"): Polona's metadata, the issue's table of contents ("Lidma-
-  nowski K. Dr. z Zagórowa. Jak mieszka lud nasz? . . 432") and the
+  nowski K. Dr. z ZagÃ³rowa. Jak mieszka lud nasz? . . 432") and the
   literature (Boldyrew) agree. The editor's word.
 - **The English came with the file** (made by Claude) and was read
-  against the Polish and corrected in session — eleven artifacts, among
+  against the Polish and corrected in session â€” eleven artifacts, among
   them a sentence the translation printed twice (the nutrition text's),
-  "several dozen rubles" for *kilkanaście* (some fifteen), "woolen sailor
+  "several dozen rubles" for *kilkanaÅ›cie* (some fifteen), "woolen sailor
   suit" for *ubranie marynarkowe* (a jacket suit), and the like; every
   correction recorded in the item's `notes.md` with the Polish that
   decided it.
 - **Rights**: the author, Dr. Konstanty Lidmanowski (30 March 1865,
-  Słupca - 6 January 1943, Zagórów; the Polish Wikipedia's article, with
+  SÅ‚upca - 6 January 1943, ZagÃ³rÃ³w; the Polish Wikipedia's article, with
   Kumosa 1992), died 1943, so Polish copyright (life + 70) lapsed in
-  2014 — all three shown whole at the editor's word. The Jutrzenka digest,
+  2014 â€” all three shown whole at the editor's word. The Jutrzenka digest,
   if anonymous, out of copyright since 1984 either way.
 - **A person entry** `lidmanowski` (reference/people.yml, heading
-  "Lidmanowski, Konstanty"), the Głowiecki shape: no documents of the
+  "Lidmanowski, Konstanty"), the GÅ‚owiecki shape: no documents of the
   edition, the Jutrzenka digest's "dr. Lidmanowski" ruled to him in
   `newspapers/index.yml` (the one text that names him in its body; the
   Zdrowie articles stand on their issue's table of contents).
 - **Open in NEEDS_CONFIRMATION**: the Jutrzenka signature (the
   digitisation unreachable from the working session); the life dates
-  resting on Wikipedia; Słupca as a place of the edition (it is in no
+  resting on Wikipedia; SÅ‚upca as a place of the edition (it is in no
   register, so the powiat's name matches no pattern); the 1914 date.
   `docs/NEWSPAPERS_PLAN.md`, section 5. Not published.
 
-## 2026-10-22 — The newspapers: the parish's own chronicle of the Zagórów filial
+## 2026-10-22 â€” The newspapers: the parish's own chronicle of the ZagÃ³rÃ³w filial
 
-- **A new item**, `newspapers/luteraniezagorow/`: the page "Zagórów filiał
+- **A new item**, `newspapers/luteraniezagorow/`: the page "ZagÃ³rÃ³w filiaÅ‚
   Parafii Ewangelicko - Augsburskiej w Koninie" on **Luteranie Konin**
   (luteranie.konin.pl/zagorow.html), the Parafia
-  Ewangelicko-Augsburska w Koninie's own website — headed "Ważniejsze
-  wydarzenia z życia Parafii w Zagórowie", a chronicle in dated entries:
-  the Reformation among the monks of Ląd in the sixteenth century; the
+  Ewangelicko-Augsburska w Koninie's own website â€” headed "WaÅ¼niejsze
+  wydarzenia z Å¼ycia Parafii w ZagÃ³rowie", a chronicle in dated entries:
+  the Reformation among the monks of LÄ…d in the sixteenth century; the
   evangelicals from Silesia, Pomerania and Prussia, 1720-1817, under the
-  care of the incumbent of the evangelical parish at Września; the
-  incumbents of Grodziec, Konin and Żychlin, 1817-1856, and the filial of
-  Grodziec founded in Zagórów; the parish erected 24 December 1856; the
+  care of the incumbent of the evangelical parish at WrzeÅ›nia; the
+  incumbents of Grodziec, Konin and Å»ychlin, 1817-1856, and the filial of
+  Grodziec founded in ZagÃ³rÃ³w; the parish erected 24 December 1856; the
   plot of 1857, the foundation stone of 8 May 1878, the consecration on
   the first Sunday in Advent 1882; the cantor's house of 1913; the
   rectory of 16 October 1938; the first service after the Second World
-  War, 18 July 1954, the Rev. Karol Świtalski; the Evangelical Senior
+  War, 18 July 1954, the Rev. Karol Åšwitalski; the Evangelical Senior
   Citizens' Home consecrated in the former cantor's house by Bishop
-  Michał Warczyński, 16 June 1995, closed 30 November 2009; the
+  MichaÅ‚ WarczyÅ„ski, 16 June 1995, closed 30 November 2009; the
   electronic clock and bells, 17 August 2008. Given by the editor as a
   website "so I'd group it with newspapers and journals", with their own
   pasted text as first witness. Worked on a **separate branch from main**
   at the editor's word (other work being done there).
 - **The page is undated.** No date anywhere on it; the site's footer reads
-  "Projekt i wykonanie © Walrom 2011" (the site's making), and the page's
+  "Projekt i wykonanie Â© Walrom 2011" (the site's making), and the page's
   own menus point its top "Archiwum" at archiwum2015.html and its footer
-  menu still at archiwum2013.html — the page stands as of about 2015. The
+  menu still at archiwum2013.html â€” the page stands as of about 2015. The
   editor's rulings: **no date in the slug** (the plan's rule for a web
-  item given a recorded exception, `docs/NEWSPAPERS_PLAN.md` section 1) —
+  item given a recorded exception, `docs/NEWSPAPERS_PLAN.md` section 1) â€”
   the slug is `luteraniezagorow`, site and page; the footer's 2011 kept as
   the `year:` of item.yml **for the list's order alone**, the comment in
   the file saying so; the citation reads "bd. [bez daty]".
@@ -2522,47 +2522,47 @@ lose his estates. The era page writes Konotop, not Kontop.
   time (the comment in the file records it).
 - **How it was read**: from the page's HTML, fetched in session, nothing
   tidied; no OCR, no spot sheet. The editor's pasted text settled against
-  the HTML: the twice-standing "Kościół Ewangelicko-Augsburski w
-  Zagórowie" is the two photographs' alt/title text, not prose;
-  "parafiiz Grodźca" of a bare fetch is an artifact, the page breaking
+  the HTML: the twice-standing "KoÅ›ciÃ³Å‚ Ewangelicko-Augsburski w
+  ZagÃ³rowie" is the two photographs' alt/title text, not prose;
+  "parafiiz GrodÅºca" of a bare fetch is an artifact, the page breaking
   the line after "parafii" (the transcription keeps the break); the page
   pads the broken second lines of the 1856 and 1995 entries with ten
-  non-breaking spaces — layout, not text, the break kept and the padding
+  non-breaking spaces â€” layout, not text, the break kept and the padding
   not; "plebani" (1938) stands as printed, for plebanii; the "(czytaj
-  więcej)" of the 2009 entry is a link to the site's own page about the
+  wiÄ™cej)" of the 2009 entry is a link to the site's own page about the
   Dom Seniora, kept as printed.
 - **The index run**: 54 hits in 9 items; the item's three new pairs all
-  ruled in — `zagorowo` "Zagórów" (the heading, the bare nominative) and
-  `grodziec` "Grodziec"/"Grodźca" (the parish of Grodziec, named by its
-  place). Not matched by any pattern: "Lądu" (the genitive) and the
-  Polish region names "Śląska, Pomorza, Prus" (the register's Schlesien
-  pattern is the German word only) — the same open question as the 2015
-  report's Ląd forms (NEEDS_CONFIRMATION, "The newspapers").
-- **What it bears on**: Werner (1904), entry 201 — the Wreschen
-  (Września) parish that served Zagórów's evangelicals until 1817 is the
-  page's "1720 - 1817 ... we Wrześni", and the page's Grodziec, Konin and
-  Żychlin years are the story Werner's entry stops at; Kneifel (1964) —
+  ruled in â€” `zagorowo` "ZagÃ³rÃ³w" (the heading, the bare nominative) and
+  `grodziec` "Grodziec"/"GrodÅºca" (the parish of Grodziec, named by its
+  place). Not matched by any pattern: "LÄ…du" (the genitive) and the
+  Polish region names "ÅšlÄ…ska, Pomorza, Prus" (the register's Schlesien
+  pattern is the German word only) â€” the same open question as the 2015
+  report's LÄ…d forms (NEEDS_CONFIRMATION, "The newspapers").
+- **What it bears on**: Werner (1904), entry 201 â€” the Wreschen
+  (WrzeÅ›nia) parish that served ZagÃ³rÃ³w's evangelicals until 1817 is the
+  page's "1720 - 1817 ... we WrzeÅ›ni", and the page's Grodziec, Konin and
+  Å»ychlin years are the story Werner's entry stops at; Kneifel (1964) â€”
   the church of 1878-1896 (the plot, the foundation stone, the
-  consecration) and the diocese list's "Zagörow mit dem Filial
+  consecration) and the diocese list's "ZagÃ¶row mit dem Filial
   Lissewo-Pyzdry". The page names no sources; nothing in it contradicts
   the edition's documents. Not published.
   `docs/NEWSPAPERS_PLAN.md`, section 5;
   `newspapers/luteraniezagorow/notes.md` first.
 
-## 2026-10-22 — The literature: Słowiński and Połom (2024), "Zerwane ogniwo", and Słowiński (2023) finished
+## 2026-10-22 â€” The literature: SÅ‚owiÅ„ski and PoÅ‚om (2024), "Zerwane ogniwo", and SÅ‚owiÅ„ski (2023) finished
 
 - **A new work**, `literature/slowinskipolom2024/`: the collective volume
-  *Zerwane ogniwo. Ewangelicy na ziemi zagórowskiej* (Zagórów: Urząd
-  Miejski w Zagórowie 2024, edited by Mirosław Słowiński and Katarzyna
-  Połom, ISBN 978-83-969906-0-0), from the editor's checked Polish and
+  *Zerwane ogniwo. Ewangelicy na ziemi zagÃ³rowskiej* (ZagÃ³rÃ³w: UrzÄ…d
+  Miejski w ZagÃ³rowie 2024, edited by MirosÅ‚aw SÅ‚owiÅ„ski and Katarzyna
+  PoÅ‚om, ISBN 978-83-969906-0-0), from the editor's checked Polish and
   English Markdown exports of the same day (made from the PDF's text
   layer; the PDF and the .md files not kept in the repository). All 336
-  printed pages read: the studies (the parish history, the Hauländer
+  printed pages read: the studies (the parish history, the HaulÃ¤nder
   settlement of 1746-1806, the interwar church, the kantors, the Beutlers,
   the Mielke letters, Breede), the memoirs (Erich Kuhn's among them) and
-  the German-era testimonies (*Der Heimatbote*'s note on Łazińsk, the
-  chronology table, the 1945 inhabitants list of Michalinów
-  Trąbczyński/Łazińsk/Huta Trąbczyńska, the forged Reichsstelle document).
+  the German-era testimonies (*Der Heimatbote*'s note on ÅaziÅ„sk, the
+  chronology table, the 1945 inhabitants list of MichalinÃ³w
+  TrÄ…bczyÅ„ski/ÅaziÅ„sk/Huta TrÄ…bczyÅ„ska, the forged Reichsstelle document).
 - **A new intake script**, `pipeline/literature/slowinskipolom_md.py`, the
   twin of `slowinski_md.py` with one change: this book's export sets each
   picture plate's captions in a block of their own after the running text
@@ -2577,49 +2577,49 @@ lose his estates. The era page writes Konotop, not Kontop.
   English's 336 marks are the original.md's, in order. The 119 pictures
   are not rendered (the editor's word); their captions stay, being text.
 - **Under copyright, summary only** (the editor's ruling, like Seidel 2018
-  and Słowiński 2023): in the repository for questions, `visible: false`,
+  and SÅ‚owiÅ„ski 2023): in the repository for questions, `visible: false`,
   the site showing the detailed summary in both languages and none of the
-  text (verify_site.py checks - one stretch the two Słowiński summaries
+  text (verify_site.py checks - one stretch the two SÅ‚owiÅ„ski summaries
   shared, the Mielke letter's "temples" sentence, shortened in the older
   one so the check stays clean).
-- **Słowiński (2023) committed alongside** (the folder had stood untracked):
+- **SÅ‚owiÅ„ski (2023) committed alongside** (the folder had stood untracked):
   its English is the editor's own English .md, not the planned Claude
   translation (`slowinski_md.py --english`; `translation_chunks/` left
   untracked); its year corrected to 2024 where the texts spoke of the
   sister volume (the title page's).
-- **What it bears on**: the 1718 founding of Łazińsk a third witness (the
+- **What it bears on**: the 1718 founding of ÅaziÅ„sk a third witness (the
   ruling still wanted); the founders of 1746 in yet another form; the
   Mielke dates conflicting (NEEDS_CONFIRMATION). The work is invisible, so
   no index rulings and no hand-made links (the precedent). The literature
   has 34 works, 30 on the site and four summary-only. `docs/LITERATURE_
   PLAN.md`, section 26. Not published.
 
-## 2026-10-22 — The newspapers: Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379, "Zajście w Zagórowie"
+## 2026-10-22 â€” The newspapers: Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379, "ZajÅ›cie w ZagÃ³rowie"
 
-- **A new item**, `newspapers/echotureckie1931018/`: the Zagórów edition
+- **A new item**, `newspapers/echotureckie1931018/`: the ZagÃ³rÃ³w edition
   of the Turek weekly Echo Tureckie's report of the clash at the
-  recruiting commission of 24 April 1931 — the workers' crowd stoning the
-  premises when the season's quota ran out, the starosta of Słupca
+  recruiting commission of 24 April 1931 â€” the workers' crowd stoning the
+  premises when the season's quota ran out, the starosta of SÅ‚upca
   arriving with reinforcements of police, the second storming, the
-  dispersal, a dozen or more persons arrested — anonymous, no signature
-  and no siglum. From the blog **ZAGÓRÓW-MIEJSCE Z HISTORIĄ** (the
+  dispersal, a dozen or more persons arrested â€” anonymous, no signature
+  and no siglum. From the blog **ZAGÃ“RÃ“W-MIEJSCE Z HISTORIÄ„** (the
   editor's word for the title; the same post of 2 October 2024 the 1937
   clipping came from, the file's leading "8." the image's order in the
   post), the rights approved, the clipping carried on the page, the item
   shown whole.
-- **Read by four Tesseract passes** — the Windows.Media.Ocr engine, the
+- **Read by four Tesseract passes** â€” the Windows.Media.Ocr engine, the
   plan's third witness, unavailable the day (`winrt` not importable in
-  the session's Python) — with six rulings on a spot sheet
-  (`scratch/et1931_sheet.py`, port 4108): "widownią" the print's
-  line-broken word (the engines' shared "hią" the print's fractured "ń"),
+  the session's Python) â€” with six rulings on a spot sheet
+  (`scratch/et1931_sheet.py`, port 4108): "widowniÄ…" the print's
+  line-broken word (the engines' shared "hiÄ…" the print's fractured "Å„"),
   the mark on the k of "rekrutacyjna" not a letter, "kontyngent" against
   the engines' agreed "kontygent" (the print carries the n), the
   right-edge sliver and the final line's leading mark left out, "lokal."
   with its period. This clipping breaks its words **with printed
   hyphens** (the Kuryer Polski and the 1937 clipping broke without), so
-  the "¬" convention appears nowhere.
+  the "Â¬" convention appears nowhere.
 - **The editor's rulings of the day**: the paper's title Echo Tureckie
-  ("Zagórów" the edition's name; the `newspaper:` field carries Echo
+  ("ZagÃ³rÃ³w" the edition's name; the `newspaper:` field carries Echo
   Tureckie, the citation's full shape recorded under `published:` and in
   the notes); the whole clipping transcribed; the slug
   `echotureckie1931018` (the year's issue number in the Kuryer Polski's
@@ -2632,26 +2632,26 @@ lose his estates. The era page writes Konotop, not Kontop.
   stands); built and verified (ALL CHECKS PASSED, 619 documents
   character-exact, 46,468 internal links resolving); not published.
 - **What it bears on**: the recruitment of seasonal workers for Germany
-  — the "Z Zagórowa" column of Dziennik Poznański of 1937 records the
+  â€” the "Z ZagÃ³rowa" column of Dziennik PoznaÅ„ski of 1937 records the
   trade as routine, this item its violence six years earlier; both from
   the same blog post. The item names nobody; the index's hits are
-  Zagórów's three forms, already ruled. The report's "yesterday" against
+  ZagÃ³rÃ³w's three forms, already ruled. The report's "yesterday" against
   the issue's 6 May is the dispatch's own arithmetic, recorded in the
   summary, corrected nowhere. `docs/NEWSPAPERS_PLAN.md`, section 5;
   `newspapers/echotureckie1931018/notes.md` first.
 
-## The newspapers: Kurjer Poznański, "(Zhitleryzowani koloniści)" (2026-10-22, committed; not published)
+## The newspapers: Kurjer PoznaÅ„ski, "(Zhitleryzowani koloniÅ›ci)" (2026-10-22, committed; not published)
 
-- The anonymous note in Kurjer Poznański of 12 July 1933 (`newspapers/kurjerpoznanski19330712/`), the eleventh item of the press and the third from the blog ZAGÓRÓW-MIEJSCE Z HISTORIĄ (its post of 24 May 2024, "To i owo, cz. 2"): the German colonists of the rural communes of Oleśnica, Trąbczyn and Szymanowice around Zagórów, whose colonies once bore German names (Emilienhain, Ludwigslust), who since Hitler's taking power in Germany "as if something turned over in their heads" speak German at the commune office and answer German to a Polish "dzień dobry" at school — and the closing incident: the school where an Evangelical taught, empty of the colonists' children on the school inspector's visit, the teacher dismissed from his post after it. The citation carries the date only (the clipping gives no issue number): `kurjerpoznanski19330712`.
-- **Read by OCR, four passes** (Tesseract best and standard, ×3 and ×4, psm 6 and 4) with the doubtful places settled at the pixel level first (the ogonek of "Trąbczyn" — the print has it and every pass dropped it — the ł of "nosiły", the ę of "języku" and "uczęszczające", the g of "ewangelik" where two passes read "selik", the period after "Niemców", the comma after "Hitlera", the period after "przekręciło", the „…” round "dzień dobry"), and four rulings on a spot sheet: the parenthesised lead "(Zhitleryzowani koloniści)." with the word set solid (the completive z- on hitleryzowani), "Ludwigslust" (the German form, against the passes' split), the plain "a" of "nie w polskim a niemieckim języku". The print's "kolonje" stands as printed; nothing tidied, 22 lines, the "¬" at each break.
-- **Shown whole** (`visible: true`): anonymous press of 1933, the rights approved on the 1937 clipping's ruling; the clipping carried on the item page (a genuine JPEG this time, 648 × 573, unlike the Dziennik's WebP in .jpg clothing); the English Claude's, the standing caveat.
+- The anonymous note in Kurjer PoznaÅ„ski of 12 July 1933 (`newspapers/kurjerpoznanski19330712/`), the eleventh item of the press and the third from the blog ZAGÃ“RÃ“W-MIEJSCE Z HISTORIÄ„ (its post of 24 May 2024, "To i owo, cz. 2"): the German colonists of the rural communes of OleÅ›nica, TrÄ…bczyn and Szymanowice around ZagÃ³rÃ³w, whose colonies once bore German names (Emilienhain, Ludwigslust), who since Hitler's taking power in Germany "as if something turned over in their heads" speak German at the commune office and answer German to a Polish "dzieÅ„ dobry" at school â€” and the closing incident: the school where an Evangelical taught, empty of the colonists' children on the school inspector's visit, the teacher dismissed from his post after it. The citation carries the date only (the clipping gives no issue number): `kurjerpoznanski19330712`.
+- **Read by OCR, four passes** (Tesseract best and standard, Ã—3 and Ã—4, psm 6 and 4) with the doubtful places settled at the pixel level first (the ogonek of "TrÄ…bczyn" â€” the print has it and every pass dropped it â€” the Å‚ of "nosiÅ‚y", the Ä™ of "jÄ™zyku" and "uczÄ™szczajÄ…ce", the g of "ewangelik" where two passes read "selik", the period after "NiemcÃ³w", the comma after "Hitlera", the period after "przekrÄ™ciÅ‚o", the â€žâ€¦â€ round "dzieÅ„ dobry"), and four rulings on a spot sheet: the parenthesised lead "(Zhitleryzowani koloniÅ›ci)." with the word set solid (the completive z- on hitleryzowani), "Ludwigslust" (the German form, against the passes' split), the plain "a" of "nie w polskim a niemieckim jÄ™zyku". The print's "kolonje" stands as printed; nothing tidied, 22 lines, the "Â¬" at each break.
+- **Shown whole** (`visible: true`): anonymous press of 1933, the rights approved on the 1937 clipping's ruling; the clipping carried on the item page (a genuine JPEG this time, 648 Ã— 573, unlike the Dziennik's WebP in .jpg clothing); the English Claude's, the standing caveat.
 - **What it bears on**: the press witness of the colonists' "hitleryzacja" seven years before the 1942 feature's "purely German settlement" of the same population; the print's "Emilienhain" against the documents' "Emilienheim", and the dismissed teacher identified by nothing the edition holds (both NEEDS_CONFIRMATION). `docs/NEWSPAPERS_PLAN.md`, section 5. Not published.
 
 ## The register: Ludwigslust (2026-10-22, at the editor's word)
 
-- **Ludwigslust made a place of the edition** (`reference/places.yml`, `ludwigslust`, kind settlement, tier Book-confirmed, `match: 'Ludwigslust\w*'`): the colony of the Zagórów lordship's dismemberment — named in the edition's own documents (Oe 1 Bü 9454: letter 24's list "12 Ludwigslust"; letter 177's naming list "Friedrichsfeld, Ludwigslust. = Grądzyń." and its register of new villages "7. Collonie von 1590 Morgen besezt mit 40 wirthe heiß Ludwigslust") and in the literature (Breyer 1935 Gaue among the villages keeping their old German names; Breyer 1938's section "Ludwigslust - Mały Las" with the refused petition of two colonists to the Königsberg government of August 1816 in the name of 10 families; Wąsicki 1953's list of the villages founded on Hohenlohe's estates; Słowiński and Połom 2024, "Kolonia Ludwigslust (obecnie Mały Las)"). The editor's word came with the Kurjer Poznański item, which names the colony among the German-named colonies around Zagórów.
-- **The Polish name recorded, not matched**: "Mały Las" (Słowiński and Połom's "obecnie", Breyer's section title) is a `match: false` variant — a common-noun phrase a bare pattern would catch all over the corpus.
-- **An open question recorded in the entry**: the naming list and the register of new villages, two enclosures of the one letter (177), do not agree which old ground the colony sat on (the naming list pairs it with Grądzyń, the register lists it under "bey Kopojno").
+- **Ludwigslust made a place of the edition** (`reference/places.yml`, `ludwigslust`, kind settlement, tier Book-confirmed, `match: 'Ludwigslust\w*'`): the colony of the ZagÃ³rÃ³w lordship's dismemberment â€” named in the edition's own documents (Oe 1 BÃ¼ 9454: letter 24's list "12 Ludwigslust"; letter 177's naming list "Friedrichsfeld, Ludwigslust. = GrÄ…dzyÅ„." and its register of new villages "7. Collonie von 1590 Morgen besezt mit 40 wirthe heiÃŸ Ludwigslust") and in the literature (Breyer 1935 Gaue among the villages keeping their old German names; Breyer 1938's section "Ludwigslust - MaÅ‚y Las" with the refused petition of two colonists to the KÃ¶nigsberg government of August 1816 in the name of 10 families; WÄ…sicki 1953's list of the villages founded on Hohenlohe's estates; SÅ‚owiÅ„ski and PoÅ‚om 2024, "Kolonia Ludwigslust (obecnie MaÅ‚y Las)"). The editor's word came with the Kurjer PoznaÅ„ski item, which names the colony among the German-named colonies around ZagÃ³rÃ³w.
+- **The Polish name recorded, not matched**: "MaÅ‚y Las" (SÅ‚owiÅ„ski and PoÅ‚om's "obecnie", Breyer's section title) is a `match: false` variant â€” a common-noun phrase a bare pattern would catch all over the corpus.
+- **An open question recorded in the entry**: the naming list and the register of new villages, two enclosures of the one letter (177), do not agree which old ground the colony sat on (the naming list pairs it with GrÄ…dzyÅ„, the register lists it under "bey Kopojno").
 - **The literature's six hits ruled** (`literature/index.yml`: breyer1935gaue one, breyer1938 four including the adjective "Ludwigsluster", wasicki1953 one; `--check` passes), and **the item's fourth hit** in `newspapers/index.yml`.
 - **The corpus dataset rebuilt on the merged tree** (`pipeline/build/build_dataset.py`, then build_site_data, Jekyll, verify_site all pass): oe1bu9454-177 and oe1bu9454-24 gain their Ludwigslust place mentions (the surfaces stood unlinked, `entity: ""`, since no register entry existed), `corpus/index/place_mentions.json` and the site's `places_named.yml` carry the place; the two letters' pages relinked. The Mielke catch-up in Breyer's notebook (app539680669-1) the parallel session's rebuild had already made (its commit e6ea4f43); the merge carries it once.
 
@@ -2662,11 +2662,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## 2026-10-23 - The literature: Kraus (2001), chapter III and Anlagen 8 and 10
 
 - **A new work**, `literature/ostensacken2001/`: Gerlinde Kraus,
-  *Christiane Fürstin von der Osten-Sacken: Eine frühkapitalistische
-  Unternehmerin und ihre Erben während der Frühindustrialisierung im
-  18./19. Jahrhundert* (Stuttgart: Franz Steiner 2001, Beiträge zur
+  *Christiane FÃ¼rstin von der Osten-Sacken: Eine frÃ¼hkapitalistische
+  Unternehmerin und ihre Erben wÃ¤hrend der FrÃ¼hindustrialisierung im
+  18./19. Jahrhundert* (Stuttgart: Franz Steiner 2001, BeitrÃ¤ge zur
   Unternehmensgeschichte Bd. 10), the biography of the mother of
-  Marianne Gräfin von Hoym, the Prince's wife. Chapter III whole (printed
+  Marianne GrÃ¤fin von Hoym, the Prince's wife. Chapter III whole (printed
   pp. 33-42) and, from the appendices, Anlage 8 (the daughter's letter of
   12 October 1811, "Ein Wort des Vertrauens") and Anlage 10 (the mother's
   codicil of 6 November 1807) - the editor's word "Skip what's between"
@@ -2676,7 +2676,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   German traineddata installed for the newspaper work - found on the
   machine though not on PATH - and the lunaroute converter), doubtful
   words read at 3x-6x zoom crops; the readings settled and the print's own
-  slips („Zransact", the "(1792-1822)" of Hardenberg, "Vollblütigkeit",
+  slips (â€žZransact", the "(1792-1822)" of Hardenberg, "VollblÃ¼tigkeit",
   the codicil's "60/m tausendstel") written out in the work's notes.md.
   Footnote keys page-scoped (`[^p33-1]`, `[^p325-4]`) because the
   chapter's notes 1-43 and the Anlagen's own numbering collide.
@@ -2684,15 +2684,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   forbids reproduction and translation). Put to the editor with the
   summary-only rule named (section 4 of the plan), they ruled "Full text,
   at my word" - `visible: true`, the third full-text exception (the
-  TwojaSłupca report, Werner's entry).
+  TwojaSÅ‚upca report, Werner's entry).
 - **What it bears on**: p. 42 - the prince sold the lordships "Betsche,
   Zogorowo, Trobczyn, Botkowo und Winiec weit unter Wert" to come by
-  "baare Mittel", the book's spellings of the edition's Zagórów and
-  Trąbczyn among them. A hand-made link ties the passage to the royal
+  "baare Mittel", the book's spellings of the edition's ZagÃ³rÃ³w and
+  TrÄ…bczyn among them. A hand-made link ties the passage to the royal
   consent of 28 January 1806 to the parcelling of "Zagurowo und Trompczyn"
   (app539680801-2). The new spellings entered as literature-only patterns
   in `literature/index.yml` and ruled; Baildon, Cosmar, Glenk,
-  Kircheisen, Emilie, the princes August, Adolph and Alexander, Öhringen,
+  Kircheisen, Emilie, the princes August, Adolph and Alexander, Ã–hringen,
   Langenburg, Neuenstein, Kirchberg, Oppurg and Schlawentzitz ruled yes;
   the medieval Albrecht and Eberhard of Hohenlohe and the house of
   Bartenstein ruled no. 14 passages, 5,450 literature hits all ruled,
@@ -2706,43 +2706,43 @@ lose his estates. The era page writes Konotop, not Kontop.
   still checked strictly (summary only).
 - Committed, not published; publish at the editor's word.
 
-## 2026-10-23 - The newspapers: the death notice of Włodzimierz hr. Miączyński
+## 2026-10-23 - The newspapers: the death notice of WÅ‚odzimierz hr. MiÄ…czyÅ„ski
 
 - **A new item**, `newspapers/dziennikpoznanski18791220/`: the nekrolog in
-  the black-bordered box on p. 4 of Dziennik Poznański, R. 21, nr 292 of
+  the black-bordered box on p. 4 of Dziennik PoznaÅ„ski, R. 21, nr 292 of
   20 December 1879 (the WBC digitisation, sygn. Cz4293 of PAN Biblioteka
-  Kórnicka, "domena publiczna") — the press witness of the death of Count
-  Włodzimierz Miączyński, "dziedzic majętności Trąbczyna w Królestwie
-  Polskiem", at Trąbczyn on the 18th of December 1879 after long
-  sufferings, "opatrzony ss. sakramentami"; the "Ekspedycya zwłok" on
+  KÃ³rnicka, "domena publiczna") â€” the press witness of the death of Count
+  WÅ‚odzimierz MiÄ…czyÅ„ski, "dziedzic majÄ™tnoÅ›ci TrÄ…bczyna w KrÃ³lestwie
+  Polskiem", at TrÄ…bczyn on the 18th of December 1879 after long
+  sufferings, "opatrzony ss. sakramentami"; the "Ekspedycya zwÅ‚ok" on
   Monday the 22nd, the funeral "nazajutrz"; signed by the grieving nephew,
-  Władysław hr. Miączyński of Pawłowa. The section's first death notice,
+  WÅ‚adysÅ‚aw hr. MiÄ…czyÅ„ski of PawÅ‚owa. The section's first death notice,
   and the press witness of the event the wlodzimierz era's ownership line
   turns on (it names the nephew who succeeds).
 - **Read by Tesseract** at the editor's word (the item's own readings
   ruled in session; the doubtful list in the item's notes.md): the
   microfilm's 300 dpi page defeated the display-capital name line and the
-  body's first word ("Zmarł"), so the issue's DjVu was fetched again from
+  body's first word ("ZmarÅ‚"), so the issue's DjVu was fetched again from
   the WBC (`/Content/84585/DjVu/0004_0001.djvu`) and rendered at 600 dpi,
-  where the same lines read — the heading "Włodzimierz hr. Miączyński,"
-  one giant line, then "dziedzic / majętności Trąbczyna / w Królestwie
+  where the same lines read â€” the heading "WÅ‚odzimierz hr. MiÄ…czyÅ„ski,"
+  one giant line, then "dziedzic / majÄ™tnoÅ›ci TrÄ…bczyna / w KrÃ³lestwie
   Polskiem," stacked, then the body. Open readings: "Polskiem" (the 600
-  dpi crops suggesting "Polském"), "Ekspedycya" (against the passes'
+  dpi crops suggesting "PolskÃ©m"), "Ekspedycya" (against the passes'
   "Eksportac"/"Ekoportacja" shapes; the standard phrase and the descender
-  pattern decide), and the funeral day after "nazajutrz" — the glyph
+  pattern decide), and the funeral day after "nazajutrz" â€” the glyph
   reads as an 8 to every pass but is no digit to the English engine set to
   digits alone, and the sense after a Monday the 22nd allows only the 23rd.
 - **The death date stands against the edition's records**: the notice says
   the 18th of December, the editor's ruling of 2026-10-15 (the notebook
-  APP 53/968/0/-/716) the 20th — and Żychliński (1891, p. 222) has the
+  APP 53/968/0/-/716) the 20th â€” and Å»ychliÅ„ski (1891, p. 222) has the
   18th too, the question already open (NEEDS_CONFIRMATION, "The
-  literature"). The notice is a period witness on Żychliński's side; the
+  literature"). The notice is a period witness on Å»ychliÅ„ski's side; the
   documents first, the ruling the editor's. The item keeps the press's
   date as printed.
-- **The index run**: one hit, Trąbczyn, standing under the ruling already
+- **The index run**: one hit, TrÄ…bczyn, standing under the ruling already
   in `newspapers/index.yml`; no new rulings needed. The Count's own
-  mention the register's patterns bring in nowhere (the Włodzimierz
-  entry's `only_in` pin to the summons of 1860; the bare "Miączyński"
+  mention the register's patterns bring in nowhere (the WÅ‚odzimierz
+  entry's `only_in` pin to the summons of 1860; the bare "MiÄ…czyÅ„ski"
   under the 2015 report's standing "no" ruling).
 - The image carried on the item's page (the editor's 0004_0001.jpg of the
   WBC download). The item is visible (anonymous press of 1879, public
@@ -2752,7 +2752,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## 2026-10-23 - The gazetteer: the editor's index of places (step 1, the import)
 
 - **The editor's "Place Names.md"** (their own index of the places around
-  Trąbczyn and Zagórów: 112 entries, 21 cross-references, 119 footnotes)
+  TrÄ…bczyn and ZagÃ³rÃ³w: 112 entries, 21 cross-references, 119 footnotes)
   kept verbatim in `reference/gazetteer/source/` and imported into one
   YAML per place (`reference/gazetteer/<slug>.yml`) by
   `pipeline/gazetteer/import_place_names.py` (a record; the YAML is edited
@@ -2764,11 +2764,11 @@ lose his estates. The era page writes Konotop, not Kontop.
   `reference/gazetteer_sources.yml`, with how a locator becomes a link.
   76 of the 119 footnotes link to the edition (the Kodeks entries by volume
   and number; the leaves of the boundary decree of 1775 to their pages,
-  the foliation checked against five quoted phrases; the Ląd copy-book,
+  the foliation checked against five quoted phrases; the LÄ…d copy-book,
   the lease of 1806, Breyer's notebook, the village table of 1797, the
-  visitation of 1791, Chodyła, Breyer, Szwiec, Słowiński & Połom,
+  visitation of 1791, ChodyÅ‚a, Breyer, Szwiec, SÅ‚owiÅ„ski & PoÅ‚om,
   Minakowska, the glossary's "stawisko"). The Kodeks no. 1464 (1362) the
-  edition holds as the Ląd copy-book's copy, and the footnote links to it.
+  edition holds as the LÄ…d copy-book's copy, and the footnote links to it.
 - **The maps** the entries cite listed in `reference/maps.yml` (27 maps,
   179 appearances; none in the edition yet).
 - **`docs/MISSING_SOURCES.md`**, the running list of sources still to bring
@@ -2781,9 +2781,9 @@ lose his estates. The era page writes Konotop, not Kontop.
   the text unchanged until the editor rules (Mieszko III for the grant of
   1173; the 1411 *scultetia* read as "scullery"; the 1418 exchange of farms;
   the 1440 charges of 300 and 200 marks; the colonies' names as the
-  Prince's lists of 1805-1808 write them; Augustynów and the lease of 1806;
+  Prince's lists of 1805-1808 write them; AugustynÃ³w and the lease of 1806;
   the archive of the visitation; the renaming of 1891; four identifications
-  with the register). The 1287 of the exchange of Wrąbczyn agrees with the
+  with the register). The 1287 of the exchange of WrÄ…bczyn agrees with the
   Kodeks (no. 685 confirms in 1292 an exchange "made five years before").
 - **The editor's voice**: the file analysed as a fourth sample, of index
   entries, with a brief of its own (`docs/EDITORS_VOICE.md`); the editor's
@@ -2793,18 +2793,18 @@ lose his estates. The era page writes Konotop, not Kontop.
   editor's word (WORKING_NOTES, "Working with the editor"); its output read
   and the links spot-checked before commit.
 
-## 2026-10-23 - The gazetteer: "Stara Huta Olędry", a name of two places
+## 2026-10-23 - The gazetteer: "Stara Huta OlÄ™dry", a name of two places
 
-- The editor's cross-reference "*Stara Huta Olędry* — See **Huta**" pointed
+- The editor's cross-reference "*Stara Huta OlÄ™dry* â€” See **Huta**" pointed
   to no entry. The edition's sources use the name for both Hutas, and the
   editor ruled it listed as both (2026-10-23): a name item with
-  `shared_with` and its sources in each entry. Huta Trąbczyńska: Słowiński
-  (2023), p. 98 (Łazińsk Drugi "dawniej ... Holendry Stara Huta"),
-  Chodyła (2015), p. 84, note 154, the village table of about 1797, entry
-  283, and the Prince's papers of 1806 (Oe 1 Bü 14526, document 8; Oe 1
-  Bü 9454, letter 24), beside Richter 1843's "H. Stara Huta". Huta
-  Łukomska: Chodyła, pp. 70 and 76, and the 1797 table, entry 281. A third,
-  Stara Huta-Grójeckie Olędry in Grodziec parish, is not to be confused
+  `shared_with` and its sources in each entry. Huta TrÄ…bczyÅ„ska: SÅ‚owiÅ„ski
+  (2023), p. 98 (ÅaziÅ„sk Drugi "dawniej ... Holendry Stara Huta"),
+  ChodyÅ‚a (2015), p. 84, note 154, the village table of about 1797, entry
+  283, and the Prince's papers of 1806 (Oe 1 BÃ¼ 14526, document 8; Oe 1
+  BÃ¼ 9454, letter 24), beside Richter 1843's "H. Stara Huta". Huta
+  Åukomska: ChodyÅ‚a, pp. 70 and 76, and the 1797 table, entry 281. A third,
+  Stara Huta-GrÃ³jeckie OlÄ™dry in Grodziec parish, is not to be confused
   (the 1797 table, entry 282). Three source keys added to
   `reference/gazetteer_sources.yml` (slowinski2023, oe1bu14526, oe1bu9454).
 
@@ -2822,20 +2822,20 @@ lose his estates. The era page writes Konotop, not Kontop.
   and from the marks of the places with coordinates, the warp shown in the
   browser by Allmaps; coordinates for the vanished places from the fit; a
   viewer page per map, the crops on the place pages, and the interactive
-  map over OpenStreetMap. A pilot (proposed: Łukom 1766) before the rest.
+  map over OpenStreetMap. A pilot (proposed: Åukom 1766) before the rest.
 - **The editor chooses the maps** (2026-10-23: "I will be selective with
   them"): the plan, `reference/maps.yml` and the missing list say so; the
   list's maps section is now "Maps cited", not a list of wants.
 - The editor agreed the plan's recommendations (2026-10-23): the second
-  repository for the tiles, the pilot Łukom 1766, libvips (installed:
+  repository for the tiles, the pilot Åukom 1766, libvips (installed:
   pyvips 3.2.0, libvips 8.18.7). MapWarper's API answers: a map's
   record gives the uploaded image's size, its `gcps` the control points
-  (Łukom 1766: five). The map's original is the file of that size (for
-  Łukom the PNG, not the JPG), recorded in MAPS_PLAN, section 5.
+  (Åukom 1766: five). The map's original is the file of that size (for
+  Åukom the PNG, not the JPG), recorded in MAPS_PLAN, section 5.
 
-## 2026-10-23 - The maps: the pilot, Łukom 1766
+## 2026-10-23 - The maps: the pilot, Åukom 1766
 
-- At the editor's word ("go ahead with the Łukom map ... Let's only do this
+- At the editor's word ("go ahead with the Åukom map ... Let's only do this
   one map for now"): the second repository **triebenfeld-maps**
   (github.com/takaji10/triebenfeld-maps, published at
   takaji10.github.io/triebenfeld-maps/), public, holding the image tiles
@@ -2851,22 +2851,22 @@ lose his estates. The era page writes Konotop, not Kontop.
   spec at the editor's word, read and corrected in the main session (a
   gazetteer file that does not parse now stops the run; items marked
   `absent` skipped).
-- **Łukom 1766**: the editor's north-up PNG (10,280 × 8,523) as the
+- **Åukom 1766**: the editor's north-up PNG (10,280 Ã— 8,523) as the
   original, `view_rotation: 180` (drawn south-up, the editor's word); 502
   tiles, 15.8 MB; five control points, affine RMS 336 m; the warp test
   page. The gazetteer's nine names to find read against the text first:
-  Myszakówek marked absent (the entry says it is not on the map), the stray
-  "Stara Huta" item of Huta Łukomska removed, Imielno's *Dezerta Iemielno*
+  MyszakÃ³wek marked absent (the entry says it is not on the map), the stray
+  "Stara Huta" item of Huta Åukomska removed, Imielno's *Dezerta Iemielno*
   supplied, Stawisko's *Brod Kaliski* noted as the crossing west of it
   (`maps/lukom1766/notes.md`).
 - **The procedure recorded** for the next maps: `docs/ADDING_A_MAP.md`
   (what the editor does, what Claude runs, the traps).
-- **The editor's first marks imported** (ten labels, among them Myszaków,
+- **The editor's first marks imported** (ten labels, among them MyszakÃ³w,
   which they added). At their word two readings corrected, read on the
-  image: *Lomaw* (no Ł) and *Dezerta Jemielno* (a J), in the labels, the
-  map forms and the entries' text. The inscription *Tres mansi Conventûs
-  Landensis* they pointed out added as a label (the abbey of Ląd's three
-  mansi, the purchase of 1447/1461 in the Ląd copy-book; its place in the
+  image: *Lomaw* (no Å) and *Dezerta Jemielno* (a J), in the labels, the
+  map forms and the entries' text. The inscription *Tres mansi ConventÃ»s
+  Landensis* they pointed out added as a label (the abbey of LÄ…d's three
+  mansi, the purchase of 1447/1461 in the LÄ…d copy-book; its place in the
   gazetteer asked in NEEDS_CONFIRMATION). Two-line names: a trace's return
   against the reading direction is a line break (or the key L), in the
   page and the crop (a Sonnet sub-agent, tested). The bands were left at
@@ -2878,12 +2878,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   the top"): the band runs from `height` above the traced line to 35% of
   it below; the crop the same; default height 80 (a Sonnet sub-agent,
   tested; checked on Dezerta Jemielno at 120: whole and level).
-- **Tres mansi Conventûs Landensis** recorded under Grądzeń as its second
-  appearance on Łukom 1766, linked to the Ląd copy-book's documents of 1447
-  and 1461, at the editor's word; label 025 now belongs to Grądzeń.
+- **Tres mansi ConventÃ»s Landensis** recorded under GrÄ…dzeÅ„ as its second
+  appearance on Åukom 1766, linked to the LÄ…d copy-book's documents of 1447
+  and 1461, at the editor's word; label 025 now belongs to GrÄ…dzeÅ„.
 - **Padding at both ends** of a band and its crop (the editor's word; a
   Sonnet sub-agent).
-- **The final marks on Łukom 1766** imported (the editor's bands, 100 to
+- **The final marks on Åukom 1766** imported (the editor's bands, 100 to
   240 pixels): eleven labels, eleven crops whole and upright. The import
   fixed for a second run on the same map: it reuses the gazetteer item
   linked to a label and unlinks labels deleted since (it would have added
@@ -2893,22 +2893,22 @@ lose his estates. The era page writes Konotop, not Kontop.
   the level-0 static tiles, the pilot's open point.
 
 - **The gazetteer's five new entries entered** at the editor's word
-  ("Yes to the gazetteer entries"), 2026-10-26: Łazińsk Pierwszy and
-  Łazińsk Drugi (split from `lazinskie-oledry` at their ruling of the
-  day, the combined entry standing as the Olęder settlement before the
-  split) and Orlina Duża, Stawiszyn and Zbiersk Kolonia, drafted from the
+  ("Yes to the gazetteer entries"), 2026-10-26: ÅaziÅ„sk Pierwszy and
+  ÅaziÅ„sk Drugi (split from `lazinskie-oledry` at their ruling of the
+  day, the combined entry standing as the OlÄ™der settlement before the
+  split) and Orlina DuÅ¼a, Stawiszyn and Zbiersk Kolonia, drafted from the
   editor's cemetery survey. The gazetteer's checks pass (117 entries);
   the Places page's tier 1 carries the five; the cemetery pages of Orlina
-  Duża, Stawiszyn and Zbiersk Kolonia now link their places on the
-  Places page's index, and Łazińsk Pierwszy's page links its own entry.
+  DuÅ¼a, Stawiszyn and Zbiersk Kolonia now link their places on the
+  Places page's index, and ÅaziÅ„sk Pierwszy's page links its own entry.
 
-## 2026-10-26 — The cemeteries: the section planned and built (branch `cemeteries`)
+## 2026-10-26 â€” The cemeteries: the section planned and built (branch `cemeteries`)
 
 - **The editor's survey of the Evangelical cemeteries** of the
-  Trąbczyn/Zagórów area and its neighbourhood brought in as a fourth
+  TrÄ…bczyn/ZagÃ³rÃ³w area and its neighbourhood brought in as a fourth
   section (`cemeteries/`, plan `docs/CEMETERIES_PLAN.md`): ten cemeteries
   visited on one visit in 2023 (the editor's word), each with its page in
-  both languages — the survey's account of its condition kept as written,
+  both languages â€” the survey's account of its condition kept as written,
   the headstones as a table (Name / Born / Died / Note), the readings kept
   as the survey has them, nothing tidied, the same table on both pages. No
   person entries behind the names (the editor's word). The asterisked
@@ -2917,16 +2917,16 @@ lose his estates. The era page writes Konotop, not Kontop.
   in one line under the table (the editor's ruling, the second batch of
   the day); the survey's figure references ("Fig. 25" and its neighbours)
   are left off the pages (the editor, the same day). About 200 rows: 5 at
-  Łazińsk Pierwszy, 11 at Huta Łazińska, 81 at Michalinów Trąbczyński
+  ÅaziÅ„sk Pierwszy, 11 at Huta ÅaziÅ„ska, 81 at MichalinÃ³w TrÄ…bczyÅ„ski
   (two stones carrying two names, the survey's "&"), 20 at
-  Wrąbczynkowskie Holendry, 62 at Orlina Duża, 10 at Anielewo, 2 at
-  Friedrichsfeld, none read at Michalinów gm. Oleśnica, 3 at Stawiszyn,
+  WrÄ…bczynkowskie Holendry, 62 at Orlina DuÅ¼a, 10 at Anielewo, 2 at
+  Friedrichsfeld, none read at MichalinÃ³w gm. OleÅ›nica, 3 at Stawiszyn,
   8 at Zbiersk Kolonia.
 - **The Places page widened** to a general index of places (the editor's
   ruling; `docs/PLACES_PLAN.md`, section 7): tier 1 the places of the
-  Trąbczyn/Zagórów area — the gazetteer's 112 places and the register's
+  TrÄ…bczyn/ZagÃ³rÃ³w area â€” the gazetteer's 112 places and the register's
   `area: trabczyn-zagorow` ones (the 27 the gazetteer registers, plus
-  Słupca, Konin and Kalisz) — tier 2 the register's remaining 126. The
+  SÅ‚upca, Konin and Kalisz) â€” tier 2 the register's remaining 126. The
   estates in focus stand as the cards above, their metadata untouched; an
   estate's list item links its card, a place with its own page links it,
   the rest stand named with their anchors.
@@ -2937,24 +2937,24 @@ lose his estates. The era page writes Konotop, not Kontop.
   cemetery pages (both languages, the account and every row on the page,
   the list page's links, the place anchors).
 - **The survey's second source named** (the editor): "Der evangelische
-  Friedhof in Łazińsk Drugi", Arbeitsgemeinschaft Ostdeutscher
-  Familienforscher (Jürgen Frantz, 31 July 2016), members-only — cited
-  behind one reading of Huta Łazińska, not held
-  (`docs/MISSING_SOURCES.md`). The five new gazetteer entries (Łazińsk
-  Pierwszy and Łazińsk Drugi split from `lazinskie-oledry` at the
-  editor's word, and Orlina Duża, Stawiszyn and Zbiersk Kolonia) are
+  Friedhof in ÅaziÅ„sk Drugi", Arbeitsgemeinschaft Ostdeutscher
+  Familienforscher (JÃ¼rgen Frantz, 31 July 2016), members-only â€” cited
+  behind one reading of Huta ÅaziÅ„ska, not held
+  (`docs/MISSING_SOURCES.md`). The five new gazetteer entries (ÅaziÅ„sk
+  Pierwszy and ÅaziÅ„sk Drugi split from `lazinskie-oledry` at the
+  editor's word, and Orlina DuÅ¼a, Stawiszyn and Zbiersk Kolonia) are
   drafted in `scratch/gazetteer_drafts/` and wait on the editor's eye.
 
 ## 2026-10-26 - APP 53/21/0/-/Pyzdry Gr.115 added, translated and published (branch app5321pyzdrygr115)
 
-- The holding built: the head of the table of the parish of Trąbczyn on
+- The holding built: the head of the table of the parish of TrÄ…bczyn on
   page 543 of the Relationes [protocollon] of 1791-1792, the register of the
-  grod court and office of Pyzdry (fond "Księgi sądu i urzędu grodzkiego w
+  grod court and office of Pyzdry (fond "KsiÄ™gi sÄ…du i urzÄ™du grodzkiego w
   Pyzdrach"), from the editor's own transcription, given as a spreadsheet
   export and kept as `intake/table.csv` as received. One document, one page
   (`0543_a`, the editor's own trim of the photographed page), seven rows and
-  a heading row: the village of Trąbczyn, the parsonage, Nowawieś, Osiny,
-  Łazy, "Kuznia Maryantów" and "Hollendry Luzne Stare i nowe z Hutą", each
+  a heading row: the village of TrÄ…bczyn, the parsonage, NowawieÅ›, Osiny,
+  Åazy, "Kuznia MaryantÃ³w" and "Hollendry Luzne Stare i nowe z HutÄ…", each
   with its hearths (dymy rolne) and the two figures the headings call "gara
   zyta" and "gara owcza".
 - Only `543_trim.jpg` is used, the editor's word; the spread `542v-543.jpg`
@@ -2962,12 +2962,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The one reading changed at the editor's word, given in chat while they
   were away from the PC: the heading's "Parofie" is "Parafie" (applied by
   the intake script's `--correct`, logged).
-- The editor's rulings of the day: "Kuznia Maryantów" is the Marianton of
-  the edition - Mariantów, where the Hohenlohe patrimonial court for
-  Trąbczyn sat. `reference/places.yml` (`mariantow`) now also matches
-  "Maryantów", which brings the Prussian table's "Maryantow."
+- The editor's rulings of the day: "Kuznia MaryantÃ³w" is the Marianton of
+  the edition - MariantÃ³w, where the Hohenlohe patrimonial court for
+  TrÄ…bczyn sat. `reference/places.yml` (`mariantow`) now also matches
+  "MaryantÃ³w", which brings the Prussian table's "Maryantow."
   (agad1169011745, row 175, unmatched before) in as well; 4 hits in 3
-  documents, each line read. The Trąbczyn figure (22, where the doubling of
+  documents, each line read. The TrÄ…bczyn figure (22, where the doubling of
   the other rows gives 42) stands as written, the editor to resolve it.
 - A table with no column of entry numbers: `unitlib.table_of` crashed on
   one (StopIteration). Extended: where no row has a number in its first
@@ -2982,10 +2982,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Translated in session (the English table, hand-written, the common words
   rendered, the names as written); summaries in both languages, written in
   session. The index extended:
-  "Maryantów" (above), the comma-bounded "Łazy" of the table rows (the
+  "MaryantÃ³w" (above), the comma-bounded "Åazy" of the table rows (the
   hearth-tax register's entry 180 comes in with it), and "Hollendry Luzne
-  Stare i nowe" matched to both Olęder colony entries, as the visitation's
-  "Olędry nowe i stare" already is.
+  Stare i nowe" matched to both OlÄ™der colony entries, as the visitation's
+  "OlÄ™dry nowe i stare" already is.
 - The editor's closing word of the day, in chat: "No spot sheet is
   necessary - use my transcription, which is correct." The figures stand as
   transcribed (the village's row 21, 22, 84), the "gara" headings stand as
@@ -2995,7 +2995,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   distinct place (NEEDS_CONFIRMATION).
 - The glossary gate passes (0 candidates); the site verifies clean (628
   documents, text exact, tables checked cell by cell). The edition guide's
-  counts corrected (forty-nine holdings) and the Poznań bullet extended,
+  counts corrected (forty-nine holdings) and the PoznaÅ„ bullet extended,
   English and German; the era's blurb names the table. Published at the
   editor's word, 2026-10-26: merged to main with the Szetlewicz holding
   built in parallel (the edition 629 documents in 50 holdings) and pushed.
@@ -3005,8 +3005,8 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## 2026-10-26 - APP 53/968/0/-/782: Tropiczyner Holl. identified; published
 
 - The editor ruled: "Tropiczyner Holl.", the contract's dateline, is the
-  Olędry on Trąbczyn - the Trąbczyńskie Stare Olędry, the edition's
-  canonical settlement (its later name Łazińsk). Recorded in
+  OlÄ™dry on TrÄ…bczyn - the TrÄ…bczyÅ„skie Stare OlÄ™dry, the edition's
+  canonical settlement (its later name ÅaziÅ„sk). Recorded in
   reference/places.yml as a matched variant of trabczynskie-stare-oledry
   (it hits the one document only, counted before matching); the place of
   writing override carries the manuscript's form and the build shows the
@@ -3015,7 +3015,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - No timeline event (the editor's word): the contract bears on the colony's
   school, not directly on the owner.
 - Still open: "Borwiezer Holland"; whether the ruling covers the
-  "Trąbczyner Holländ" spelling of oe1bu14526-17; "6 gl."; the glossary
+  "TrÄ…bczyner HollÃ¤nd" spelling of oe1bu14526-17; "6 gl."; the glossary
   terms (NEEDS_CONFIRMATION).
 - Published at the editor's word.
 
@@ -3026,7 +3026,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   "Wirt" (not after "Weinachten" and "einem"); term 10 breaks after "und";
   the closing sentence's third line runs "Mann fortzusetzen. Die Sontags
   Schule so wie" (no break after "Sontags"); the board's last line breaks
-  before "wir" ("... zu erfüllen worauf / wir uns Eigen-händig
+  before "wir" ("... zu erfÃ¼llen worauf / wir uns Eigen-hÃ¤ndig
   Unter-schrieben.", hyphens as drafted); the foot of the second page,
   which the session had taken for a pencil inscription, is blank paper.
   The opening paragraph and term 3 confirmed as drafted. Re-imported,
@@ -3062,13 +3062,13 @@ lose his estates. The era page writes Konotop, not Kontop.
   identification of "Tropiczyner Holl." open), estates trabczyn; era
   `restitution` (proposed in the plan, the editor approved it).
 - The edition guide's counts corrected (627 documents, 2,087 pages,
-  forty-eight holdings) and the Poznań bullet extended, English and German.
+  forty-eight holdings) and the PoznaÅ„ bullet extended, English and German.
 - Open on the editor: the spot sheet; "6 gl." gulden or Groschen; the
   identifications of "Tropiczyner Holl." and "Borwiezer Holland"; glossary
   entries for the single-document terms; a timeline event and the era's
   story (TODO section 36).
 
-## 2026-10-26 - APP 53/20/0/-/Poznań Gr.1181 added, translated and published (branch app5320pozgr1181)
+## 2026-10-26 - APP 53/20/0/-/PoznaÅ„ Gr.1181 added, translated and published (branch app5320pozgr1181)
 
 - The condescensio decree of 29 March 1784 on the ultimate limitation of the
   Prusimski succession, one Latin document on the editor's fourteen page
@@ -3101,35 +3101,35 @@ lose his estates. The era page writes Konotop, not Kontop.
   the source hash; summaries in both languages; the claim check made in
   session under the --verify rules, 13 statements all supported after three
   corrections of the draft (three daughters, not four; the decree's two
-  paternal figures, 154,436 gr 24 1/2 for Paweł's scheda at p. 166v and
+  paternal figures, 154,436 gr 24 1/2 for PaweÅ‚'s scheda at p. 166v and
   154,936 gr 24 1/2 for the captain's own at p. 167, each aright for its own
   scheda; the Nierzychowska ground, quieted 1740 and refused as a load borne
   over, not "not provable as paid"). The checker's two real catches fixed
-  (Trąbczyn in the English outside the quoted snippets; "engrossed"
+  (TrÄ…bczyn in the English outside the quoted snippets; "engrossed"
   rewritten "entered at length"), the Latin-source false positives cleared
   in reference/translation_rulings.json with the reason recorded.
 - The glossary gate ruled green: Jacobi excluded (the man's name, not the
   feast), Junii excluded (the month's genitive, plain in English), and the
   gulden entry's pattern widened to the bare "fl.", which the Latin of the
-  Poznań books defeats the figure-before form with ("sex fl. gn[?] 20").
+  PoznaÅ„ books defeats the figure-before form with ("sex fl. gn[?] 20").
   The literature index: one new ruling (Breyer 1938 p. 17, an estate
-  "Brzezno" on the Koło-Konin road, yes) and one stale row cleared (the
+  "Brzezno" on the KoÅ‚o-Konin road, yes) and one stale row cleared (the
   szetlewek refusal of "Szetlewo", stale since the szetlew split of the
   relatio holding).
-- The index extended: twelve people (Skarbek, Zelisławski, the five
-  sisters'-heirs parties as family entries, the abbot and prior of Ląd, the
-  Radolińskis, Bienicki, the Goliński family with the ADWl 85 Golinska
+- The index extended: twelve people (Skarbek, ZelisÅ‚awski, the five
+  sisters'-heirs parties as family entries, the abbot and prior of LÄ…d, the
+  RadoliÅ„skis, Bienicki, the GoliÅ„ski family with the ADWl 85 Golinska
   kept out), seven places (Oporowo with its shares folded in and the map
-  link firm at gmina Krzemieniewo - Oporówko and the hamlet Kałowo-in-
-  Oporowo answer the decree's shares Oporówka and Kałowa, and the 1673 sale
+  link firm at gmina Krzemieniewo - OporÃ³wko and the hamlet KaÅ‚owo-in-
+  Oporowo answer the decree's shares OporÃ³wka and KaÅ‚owa, and the 1673 sale
   before the castellany acts of Wschowa fits the region; Prusinowo,
   Wierzbno, Brzezno with the manuscript's "Breczno", Chyby, Jaryszki with
-  the map link at gmina Kórnik, Radolin with the family name kept out of
+  the map link at gmina KÃ³rnik, Radolin with the family name kept out of
   the pattern), each with its open questions written where the modern
   identification is open, and no map link there.
 - The timeline gains the decree of 29 March 1784; the edition guide's
   hand-kept counts corrected in both languages (630 documents, 2,103 pages,
-  626 translated, 51 holdings, the Poznań archive 24 holdings and 95
+  626 translated, 51 holdings, the PoznaÅ„ archive 24 holdings and 95
   documents, the decree named). origin/main (the Pyzdry Gr.115 holding and
   the Szetlewicz relatio) merged into the branch; the derived files took
   main's side, the four authored conflicts hand-merged, the two JSON caches
@@ -3153,7 +3153,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   withdrawn, and the sheet's tail_167v row came off (the sheet rebuilt and
   republished, 61 rows).
 - The starost's seat settled the same evening, in three steps of the
-  editor's word: not Nieśwież (the session's own misreading, withdrawn);
+  editor's word: not NieÅ›wieÅ¼ (the session's own misreading, withdrawn);
   then Nieszczewice by the session's first reading of "Nieszczewic e";
   finally NISZCZEWICE by the modern spelling - which is the spelling the
   rest of the edition had carried all along (the register's people entry,
@@ -3176,7 +3176,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## 2026-10-25 - APP 53/968/0/-/545 added and translated (branch app539680545)
 
 - The holding built: Albert Breyer's ten photographed research sheets on the
-  Polonisation of German surnames in the gmina Zagórów, seven documents on
+  Polonisation of German surnames in the gmina ZagÃ³rÃ³w, seven documents on
   ten pages (the folder photograph left out; 0034 carried as "(skipped)",
   shown but not transcribed, at the editor's word). All scans paired.
 - The four list sheets read by the machine reader in bands and settled on
@@ -3186,12 +3186,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   kept as typed; their doubtful words recorded in
   `units/app539680545/intake/unresolved.md`.
 - Translated in session (intake/translation/, write_cache.py); the check
-  clean after it caught the page split of document 5, the edition's Wrocław
+  clean after it caught the page split of document 5, the edition's WrocÅ‚aw
   for Breslau, and doubt marks the German does not carry.
 - Summaries written in both languages in session
   (intake/write_summaries.py) and claim-checked in session
   (intake/claim_check.yml): 33 statements, two corrected in the draft (the
-  "Gem. Zagórów" line, and where the schools lie).
+  "Gem. ZagÃ³rÃ³w" line, and where the schools lie).
 - The holding's page written in both languages; check_unit_text clean after
   it caught four citations ordered so the years stood past the documents
   that carry them.
@@ -3200,7 +3200,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   a stale translation record of kuryerpolski1754075-001 (the item moved to
   the newspapers section) removed by publish_translations.py.
 - The edition guide's counts corrected (626 documents, 2,021 pages) and the
-  Poznań bullet extended, English and German.
+  PoznaÅ„ bullet extended, English and German.
 
 ## 2026-10-24 - Published
 
@@ -3210,7 +3210,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Went live with it: Kneifel (1937), the gazetteer import and the maps'
   first crops.
 - The other items this section first named (Kraus, Werner, the Lidmanowski
-  texts, Słowiński, the Zagórów place page, the newspaper items, Łukasiewicz,
+  texts, SÅ‚owiÅ„ski, the ZagÃ³rÃ³w place page, the newspaper items, Åukasiewicz,
   Mielewczyk) had already been live since 22 or 23 October, because every push
   of main deploys the site, though the docs still called them not published.
 
@@ -3231,7 +3231,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   it on the table in the heated room, on the Thursday next past. The editor
   added it for the name: a Szetlewicz family lived at Szetlewek in the
   1720s. The editor's transcription kept as written; two rulings of the day
-  applied ("Judicius" → "Judicio"; "Citti~" read as Citati, the tilde kept).
+  applied ("Judicius" â†’ "Judicio"; "Citti~" read as Citati, the tilde kept).
   Dated 1727, year only, supplied from the volume's title pending the
   editor's reading of the sitting's heading on the preceding pages; place of
   writing left empty for the same reason. doc_type `report` (the Konin
@@ -3243,7 +3243,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   "Szetlewicz" over, and szetlew is matched in the exact form "Szetlewo"
   (the Kodeks editors' identification). Counted against the committed
   index: szetlewek keeps its 91 rows but one - the hearth-tax table's row
-  "Szetlewo z Częś: Jaroszew:" (APP 53/64/0/-/Kalisz Tab.21) moves to
+  "Szetlewo z CzÄ™Å›: Jaroszew:" (APP 53/64/0/-/Kalisz Tab.21) moves to
   szetlew, where it belongs - and szetlew gains 4 rows (ours; the table's;
   and the Kodeks's own gloss "Szetlewo" in the kdw entries of 1173 and 1261,
   newly matched). The matching ruling added to `literature/index.yml`
@@ -3263,7 +3263,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   row's `letter` where the checker clears by `pad`, so an OK ruling never
   took. The key now comes from the row's pad column.
 - The edition guide's counts updated (628 documents, 2,088 pages; the
-  Poznań clause extended and the Latin count corrected to a hundred and
+  PoznaÅ„ clause extended and the Latin count corrected to a hundred and
   eight, both languages) and the translation count corrected with them
   (624 of the 628 have English; the sentence still said 614 of the 619,
   the figures of an earlier state of the edition). The guide's other two
@@ -3281,27 +3281,27 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## 2026-10-26 - Rostworowski (1918), the Dziennik of the Governing Commission (branch rostworowski1918)
 
-- **The 37th work of the literature**: Michał Rostworowski (ed.),
-  *Materyały do dziejów Komisyi Rządzącej z r. 1807*, T. 1, *Dziennik
-  czynności Komisyi Rządzącej* (Kraków 1918), the day-by-day journal of the
+- **The 37th work of the literature**: MichaÅ‚ Rostworowski (ed.),
+  *MateryaÅ‚y do dziejÃ³w Komisyi RzÄ…dzÄ…cej z r. 1807*, T. 1, *Dziennik
+  czynnoÅ›ci Komisyi RzÄ…dzÄ…cej* (KrakÃ³w 1918), the day-by-day journal of the
   Commission that carried the government of the Duchy of Warsaw from
   January 1807, printed from the manuscript a century later. From the SBC
   digitisation (publication 94492, edition 89178; the PDF in Downloads, not
   kept). Out of copyright (print 1918; the editor Rostworowski died 1940);
   shown whole as far as it is brought in.
 - **The excerpt** (9 printed pages, the editor's word): the four passages
-  that name or bear on Michalina z Prusimskich Dąbska, each brought whole -
+  that name or bear on Michalina z Prusimskich DÄ…bska, each brought whole -
   sitting 51 of 13 February 1807 (pp. 43-44, the memorial referred to the
   Director of Justice for general rules on the confiscations), sitting 58
   of 18 February (pp. 54-55, the opinion "a matter of a purely political
   character", the resolution to petition the Emperor, the order to the
   Administrative Chambers to watch the estates), sitting 210 at Dresden of
   21 July (pp. 303-304, the Emperor's Wybicki decree of 5 June extended to
-  Dąmbska, General Niemojewski and Wichrowski), and the Directorium's
+  DÄ…mbska, General Niemojewski and Wichrowski), and the Directorium's
   protocol Nr. 3 of 15 July (pp. 321-323, which reports her among the very
   many leaving for Dresden). The editor ruled the whole sitting in each
   case, and for p. 322 - which has no session heading, the later part of
-  the volume being the numbered dispatches of the Directorium in Łubieński's
+  the volume being the numbered dispatches of the Directorium in ÅubieÅ„ski's
   first person - the whole protocol that contains the passage.
 - **The reading**: two witnesses held against each other (the PDF's own
   text layer against a lunaroute OCR pass over the kept pages at 300 dpi);
@@ -3310,27 +3310,27 @@ lose his estates. The era page writes Konotop, not Kontop.
   served spot sheet (`scratch/rostworowski1918_sheet.py`, port 4110, the
   crops from the PDF's own word positions). **The editor answered the same
   day**: "300/m" and "anzeatycznym" ruled against the transcript's first
-  takes (the layer's "SOO/m" and "anzeatyeznym"), X-żę, "Riviera Załuski",
-  "ściągniąnym" and "Kaiena" confirmed as transcribed, and the stray line
-  of p. 321 - "Nominowani zostali do konsystorza Luterskiego w Płocku.",
+  takes (the layer's "SOO/m" and "anzeatyeznym"), X-Å¼Ä™, "Riviera ZaÅ‚uski",
+  "Å›ciÄ…gniÄ…nym" and "Kaiena" confirmed as transcribed, and the stray line
+  of p. 321 - "Nominowani zostali do konsystorza Luterskiego w PÅ‚ocku.",
   between protocol Nr. 2's signature and the Nr. 3 heading - left open ("I
   have no idea"; NEEDS_CONFIRMATION). No footnote of the print is brought
   in - the three on the kept pages' feet belong by their markers to text
   not brought in.
-- **The index**: 23 hits, all ruled. "Małachowskiego" stands for the
+- **The index**: 23 hits, all ruled. "MaÅ‚achowskiego" stands for the
   President with p. 44 excepted to "no" (there it is the late Director of
   the Treasury, Jan Nepomucen, whose accounts the Commission closed on
   12 February); "Niemojewskiego" and "Wichrowski" stand (the edition's
   precedent men of the decree); "Magnuski" refused (a writer of acts at
-  Kościan, not the Prince's creditor of 1805). A literature-only pattern
+  KoÅ›cian, not the Prince's creditor of 1805). A literature-only pattern
   gives the print's modern genitives of Michalina's married surname
-  ("Dambskiej", "Dąbskiej", the print's own bracket "Dambski[ej]"), which
+  ("Dambskiej", "DÄ…bskiej", the print's own bracket "Dambski[ej]"), which
   the edition's pattern - built on the documents' -kiey forms - misses.
 - **Three hand-made links** tie the passages to the AGAD restitution file
   the edition holds (1/174/0/2/73 and 1/174/0/1/6): the February record
   against her letter of 20 July and the draft of 21 July; the decree of
   21 July against the register's resolution in wording near the print's
-  ("z Prusińskich Dambskiey" against "z Prusimskich Dambskiej") and her
+  ("z PrusiÅ„skich Dambskiey" against "z Prusimskich Dambskiej") and her
   letter of 23 July; the protocol's Dresden report against her three
   letters written at Dresden of 20-23 July.
 - **The site built and verified**: 314 hand-made links checked on both
@@ -3351,23 +3351,23 @@ lose his estates. The era page writes Konotop, not Kontop.
   lettering upright) with a north-up switch, the editor's eleven marks on
   the map and in a list with the crop of each lettering, the form as the map
   spells it, what the map shows there, the place's page linked, the
-  inscription's two documents of the Ląd copy-book, the fit's error
-  (±336 m) shown with it, and the Allmaps warp over OpenStreetMap linked.
+  inscription's two documents of the LÄ…d copy-book, the fit's error
+  (Â±336 m) shown with it, and the Allmaps warp over OpenStreetMap linked.
   Deep links: /maps/lukom1766/#lukom1766-007 opens the map at the mark.
 - **The links both ways** (the editor's request): every place page gains
   "On the maps" - the appearances in date order, for a map in the edition
   the crop and the link to the viewer at the mark, for a map not in the
   edition the form and the short form as a citation; the Places index
-  carries "on Łukom 1766" after the kind for the places a map in the
+  carries "on Åukom 1766" after the kind for the places a map in the
   edition shows. The gazetteer's prose stays as written; the appearance
-  marked `absent: true` (Myszakówek on Łukom 1766) is shown nowhere.
+  marked `absent: true` (MyszakÃ³wek on Åukom 1766) is shown nowhere.
 - **The machinery**: `pipeline/maps/map_pages.py` (a step of
   regenerate.py, after the place pages) writes site/_data/maps.yml,
   maps_list.yml, place_maps.yml and the pages site/_maps*/; the place
   pages' intro sentence mentions the maps; verify_site.py gains the maps'
   checks (both pages carry the tiles' address and every mark, every crop is
   in the site, every label a gazetteer entry names exists on its map).
-  Łukom 1766 set `in_project: true` - the register's own rule, its page
+  Åukom 1766 set `in_project: true` - the register's own rule, its page
   now built.
 - **The map's page made two-column** (the editor's request of 2026-10-27:
   "make the map viewer much larger ... a narrow left column contains the
@@ -3446,8 +3446,8 @@ lose his estates. The era page writes Konotop, not Kontop.
   remains at /documents/ (and /de/dokumente/), reached from the eras page,
   the timeline's year links, the home page and the holding pages. **The
   eras page** (/eras/, German /de/epochen/) shows the six eras that have
-  documents - Trąbczyn in the Middle Ages, the Trąbczyn and Łukom boundary
-  dispute, the Hohenlohe-Ingelfingen years, the Miączyńska restitution,
+  documents - TrÄ…bczyn in the Middle Ages, the TrÄ…bczyn and Åukom boundary
+  dispute, the Hohenlohe-Ingelfingen years, the MiÄ…czyÅ„ska restitution,
   the colonists' land and forest rights, the twentieth century - each in
   the editor's own words from reference/eras.yml (the label, the span and
   count of its documents, who held the estate, its description), with a
@@ -3524,27 +3524,27 @@ lose his estates. The era page writes Konotop, not Kontop.
   name); finished working files in `docs/archive/`; stray files removed and
   the unreferenced `scratch/` files moved out of the project. The site's
   output unchanged (byte-identical build). WORKING_NOTES, "The layout".
-- The editor's rulings on the literature index: Grądzeń is the modern name
-  of Grądzyń (`gradzyn` "Grądzeń" stands: Chodyła 2015, Nazwy miejscowe
+- The editor's rulings on the literature index: GrÄ…dzeÅ„ is the modern name
+  of GrÄ…dzyÅ„ (`gradzyn` "GrÄ…dzeÅ„" stands: ChodyÅ‚a 2015, Nazwy miejscowe
   Polski); the project's place is Kolonia Lisewo, not the village of
   Lisewo - the register's pattern for `lisewska-kolonia` no longer matches
   the bare "Lissewo" (Kneifel's and Breyer's filial Lissewo-Pyzdry is the
-  village), and Chodyła's "Kolonia Lisewo" stands; Breyer's "Rogaler
-  (Königsberger) Gesangbuch" is the Rogall hymn-book, not the place Rogal.
-- `dataset/` rebuilt: the register's widened Grądzyń pattern now marks
-  "Grądzień" and "Grądzimia" in ADWł 85 doc. 2, Konin Gr.145 and
+  village), and ChodyÅ‚a's "Kolonia Lisewo" stands; Breyer's "Rogaler
+  (KÃ¶nigsberger) Gesangbuch" is the Rogall hymn-book, not the place Rogal.
+- `dataset/` rebuilt: the register's widened GrÄ…dzyÅ„ pattern now marks
+  "GrÄ…dzieÅ„" and "GrÄ…dzimia" in ADWÅ‚ 85 doc. 2, Konin Gr.145 and
   APP 53/968/0/-/669 doc. 1. Verified: the Jekyll build and
   `pipeline/verify_site.py` clean (630 documents character-exact, 63,056
   internal links).
 
-## 2026-10-28 - Szczepan Turno; Chodyła's facts proposed
+## 2026-10-28 - Szczepan Turno; ChodyÅ‚a's facts proposed
 
-- The gazetteer's Wrąbczynek and Wrąbczynkowskie Holendry name the
-  starost of Pietrzyków **Szczepan Turno**, not Turna (the editor: "Turno
-  it is"). Chodyła p. 49, which both cite, has only the genitive
+- The gazetteer's WrÄ…bczynek and WrÄ…bczynkowskie Holendry name the
+  starost of PietrzykÃ³w **Szczepan Turno**, not Turna (the editor: "Turno
+  it is"). ChodyÅ‚a p. 49, which both cite, has only the genitive
   "Szczepana Turny"; p. 52 has the nominative. Recorded in GAZETTEER_PLAN,
   section 3, and WORKING_NOTES.
-- `docs/CHODYLA_ADDITIONS.md`: Chodyła's facts for the place pages,
+- `docs/CHODYLA_ADDITIONS.md`: ChodyÅ‚a's facts for the place pages,
   traced to the primary sources he cites (HOUSE_STYLE, "The documents
   first", point 7). Not on the site yet; waiting on the editor (TODO,
   section 56).
@@ -3555,7 +3555,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   maps) show each item as a card in the look of the home page's cards: the
   item's first page as a thumbnail on the left (400 px wide, in
   `site/assets/thumbs/`, made by the new `pipeline/build/make_thumbs.py`:
-  50 holdings, 7 press items, 5 works, the Łukom map), the whole card one
+  50 holdings, 7 press items, 5 works, the Åukom map), the whole card one
   link (the title stretched over it; the Janocki sub-item under Paciorkowski
   keeps its own). An item with no image yet (the printed Kodeks, five press
   items, 33 works) shows a blank-page placeholder in the thumb's place
@@ -3564,7 +3564,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Each list has a sort bar (`site/assets/cardsort.js`, shared bar
   `site/_includes/sources-tools.html`): A-Z, the default on every list, and
   by date, the oldest first, undated last. A-Z reads as the literature list
-  always did (brackets, accents and the stroke of Ł ignored; numbers as
+  always did (brackets, accents and the stroke of Å ignored; numbers as
   numbers). The archival list also has a dropdown to filter by archive, with
   a "showing N of 51" count. The bar is hidden without the script (the list
   then keeps the order it was built in) and for a list of fewer than two
@@ -3575,11 +3575,11 @@ lose his estates. The era page writes Konotop, not Kontop.
   editor's titles from the scans' folder names, 51 units. A court book has
   the court first ("Konin Municipal Court: Relationes [protocollon]
   1768-1774"; German "Burggericht Konin: ..."), 23 books: municipal court /
-  Burggericht for the grod courts of Kalisz, Konin, Poznań and Pyzdry, land
+  Burggericht for the grod courts of Kalisz, Konin, PoznaÅ„ and Pyzdry, land
   court / Landgericht for the ziemski courts of Konin and Kalisz. The
   reference stands under the title, before the archive's name. Where
   `archive_title` carried a gloss of ours after the archive's own words (six
-  Berlin and Poznań files) the card takes the archive's words; the old
+  Berlin and PoznaÅ„ files) the card takes the archive's words; the old
   "nothing displays it" comments updated. New units get `card_title: TODO`
   from `new_unit.py`; a TODO or an empty value falls back to the reference.
   Sorting A-Z on this list now sorts on these titles. The "Read ..." / "View the map"
@@ -3619,9 +3619,9 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## 2026-10-29 - Translated titles and the original beneath them, on every holding
 
 - The editor's titles for APP 53/71/0/-/57 (Erbet's hereditary lease) and AGAD
-  1/185/0/1/169 (the jurisdictional dispute, Polish) entered; APŁ 39/98/0/-/6603's
-  Russian title translated into English and German (the edition's "Łazińsk" and
-  "Trąbczyn" for the Russian forms).
+  1/185/0/1/169 (the jurisdictional dispute, Polish) entered; APÅ 39/98/0/-/6603's
+  Russian title translated into English and German (the edition's "ÅaziÅ„sk" and
+  "TrÄ…bczyn" for the Russian forms).
 - Every holding now has an English and a German title (`card_title`,
   `card_title_de`); the 20 Polish, Latin, Russian and German-only ones were
   translated. Under it, in italics, the archive's own title: shortened with
@@ -3629,7 +3629,7 @@ lose his estates. The era page writes Konotop, not Kontop.
   (`original_title`), which now also shows the translated title in full
   (`full_title`, `full_title_de`). Not shown where the two are the same (a German
   title on the German site); the three Hohenlohe-archive units
-  (Oe 1 Bü 9454, 14525, 14526) have no original title on record. Court
+  (Oe 1 BÃ¼ 9454, 14525, 14526) have no original title on record. Court
   books show their title without the court as the original ("Relationes
   [protocollon] ..."). `new_unit.py` template, `build_site_data.py` and the card
   and page templates carry the new keys.
@@ -3641,7 +3641,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## 2026-10-29 - Hohenlohe titles; the archive's name
 
-- Oe 1 Bü 9454, 14525 and 14526 now carry the archive's own German titles
+- Oe 1 BÃ¼ 9454, 14525 and 14526 now carry the archive's own German titles
   (editor) as `original_title` and as `card_title_de`; the English titles are
   Claude's translations of them (they replace the descriptive glosses).
 - The archive is named **Hohenlohe-Zentralarchiv Neuenstein** (editor), not
@@ -3690,7 +3690,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## 2026-10-29 - The map pages simplified
 
-- A map's page (`site/_layouts/map.html`): the "Georeference ±m" row is gone
+- A map's page (`site/_layouts/map.html`): the "Georeference Â±m" row is gone
   (the fit stays in the data; the overlay and the OpenStreetMap links depend on
   it, readers do not need its error figure); the archive's link is the map's
   reference number in the Holder row, no separate "The map at the archive" line;
@@ -3698,10 +3698,10 @@ lose his estates. The era page writes Konotop, not Kontop.
   (linked to its page), kind, name as the map spells it (a click takes the map
   to the mark) and an OpenStreetMap link, with no crops of the lettering and no
   count line; the overlay link reads "View map overlay on OpenStreetMap"
-  ("Kartenüberlagerung auf OpenStreetMap ansehen").
+  ("KartenÃ¼berlagerung auf OpenStreetMap ansehen").
 - The viewer opens the map as drawn. The button (now the site's `vbtn`, so it
   reads in dark mode) says "North up" and turns the map by `view_rotation`,
-  then "As drawn"; it is hidden for a map with no rotation. The "+ / −" hint,
+  then "As drawn"; it is hidden for a map with no rotation. The "+ / âˆ’" hint,
   which did nothing, is removed.
 - Verified: build and `pipeline/verify_site.py` clean. Not committed, not
   published.
@@ -3721,18 +3721,18 @@ lose his estates. The era page writes Konotop, not Kontop.
   chips at the line's end: "Locate", "OSM" and, where a document is tied to the
   place, "Document" (the quote as its tooltip). Strings `map_locate`,
   `map_document`, `map_today` shortened in both languages.
-- The inscription "Tres mansi Conventûs Landensis" of Łukom 1766 is its own mark,
-  not Grądzeń (editor, 2026-10-29): `maps/lukom1766/labels.yml` has `place: null`
+- The inscription "Tres mansi ConventÃ»s Landensis" of Åukom 1766 is its own mark,
+  not GrÄ…dzeÅ„ (editor, 2026-10-29): `maps/lukom1766/labels.yml` has `place: null`
   and `new_place` with its own name; the index shows it by that name, unlinked,
   kind "field". Its two references (the king's confirmation of 1447 and the
-  privilege of 1461, the Ląd copy-book) are kept, now on the label (`refs:`,
+  privilege of 1461, the LÄ…d copy-book) are kept, now on the label (`refs:`,
   which `map_pages.py` reads when no gazetteer item carries them) and shown as its
-  "Document" chips; the item is out of the gazetteer's Grądzeń entry, so
-  Grądzeń's page no longer lists the inscription among its appearances.
+  "Document" chips; the item is out of the gazetteer's GrÄ…dzeÅ„ entry, so
+  GrÄ…dzeÅ„'s page no longer lists the inscription among its appearances.
 - A mark's references stand as a short line under its entry again, introduced by
   "Documents on this inscription:" ("Dokumente zu dieser Inschrift:"), not as
   buttons (the "Tres mansi" inscription: the king's confirmation of 1447 of the
-  purchase of three mansi of Łukom; the privilege of 1461). The overlay link
+  purchase of three mansi of Åukom; the privilege of 1461). The overlay link
   moved from the side column to the lower right under the map, level with the
   "North up" button. Not committed, not published.
 - The marks on the map are centred by OpenSeadragon (`Placement.CENTER`, not
@@ -3756,7 +3756,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The translation tab no longer says "The English translation, page by page."
   (the string removed); only "Not yet translated" remains.
 - The date badges read "[date inferred]" and "[date supplied]" ("[Datum
-  erschlossen]", "[Datum ergänzt]"); the second changed to match the first.
+  erschlossen]", "[Datum ergÃ¤nzt]"); the second changed to match the first.
 - Verified: build and `pipeline/verify_site.py` clean. Not committed, not
   published.
 
@@ -3765,7 +3765,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 Worked from the editor's reading of /documents/app5314550221/3/: too much before
 the text. The page now runs: a navigation line (the holding's reference, the
 archival and the chronological browsers, the archive's name no longer repeated);
-"Document 3 · Confirmation"; the date with its badge; one line of facts (the
+"Document 3 Â· Confirmation"; the date with its badge; one line of facts (the
 place of writing only where known - no more "Unknown" -, the printed edition's
 citation, the number of manuscript pages where there are page images); the
 relations; the summary clamped to four lines with a "Read more" button
@@ -3788,7 +3788,7 @@ where the date is the document's own.
   languages.
 - Verified: build and `pipeline/verify_site.py` clean. Not committed, not
   published.
-- The navigation line slimmed (same day): "‹ 53/1455/0/2/21" (the holding) on the
+- The navigation line slimmed (same day): "â€¹ 53/1455/0/2/21" (the holding) on the
   left, the arrows to the neighbouring documents on the right, with no "Holding"
   and "Archival order" labels; a second pair, "By date" ("Nach Datum"), only
   where the date order differs from the holding's. The page count left the line
@@ -3826,10 +3826,10 @@ where the date is the document's own.
 
 Scan of the built site: about 1,000 mentions on 294 pages beside the nav and
 footer on every page. Changed, in both languages:
-- The About page is "About" ("Über") in the nav, the footer and the home card;
+- The About page is "About" ("Ãœber") in the nav, the footer and the home card;
   its address is /about/ and /de/ueber/ (the old addresses redirect); its
   headings and sentences no longer say "the edition" (The documents; Citing and
-  reusing). The footer reads "630 documents from the Trąbczyn estate, transcribed
+  reusing). The footer reads "630 documents from the TrÄ…bczyn estate, transcribed
   from the originals in archives at ...". The overview's count label is "Size";
   the list label "In the edition" is "In the documents" ("In den Dokumenten").
   The rights page says "the site".
@@ -3860,7 +3860,7 @@ footer on every page. Changed, in both languages:
 ## 2026-10-30 - "How it was prepared" without the repository
 
 - At the editor's word, the method tabs of five holdings rewritten in both
-  languages: 53/4/0/-/62, Pyzdry Gr.115, Poznań Gr.1181, -/782, and one
+  languages: 53/4/0/-/62, Pyzdry Gr.115, PoznaÅ„ Gr.1181, -/782, and one
   dated ruling in -/716. Out: file names and paths, script names and flags,
   page ids, NEEDS_CONFIRMATION, the spot sheet's address, dated citations of
   rulings, the cost sentences and a tooling story (a check that crashed).
@@ -3869,7 +3869,7 @@ footer on every page. Changed, in both languages:
   tab has one); 53/4/0/-/62's last section is now "Index".
 - Two slips in the tabs put right: Pyzdry Gr.115 said "nine corpus lines"
   for a table of a heading row and seven rows (eight lines, as the
-  transcription has them); 53/4/0/-/62's list items began with "– " and ran
+  transcription has them); 53/4/0/-/62's list items began with "â€“ " and ran
   together on the page.
 - `check_unit_text.py` fails a line begun with an en or em dash and a space.
   HOUSE_STYLE records the ruling. The scan's `method-repo` flags: 55 to 0.
@@ -3907,35 +3907,35 @@ footer on every page. Changed, in both languages:
   folded details; the translation's caveat shows with the English text. The
   list page's cards match the Sources cards. Verified: build, `verify_site.py`.
 
-## 2026-10-30: Kozłowski 1861, the second map (not published)
+## 2026-10-30: KozÅ‚owski 1861, the second map (not published)
 
 - **Brought in at the editor's word** by `docs/ADDING_A_MAP.md`: the plan of
-  the Trąbczyn estate drawn in 1861 by Seweryn Kozłowski, APP
+  the TrÄ…bczyn estate drawn in 1861 by Seweryn KozÅ‚owski, APP
   1/402/0/-/536-23, north-up, scale 1:20 000. The original is the archive's
   JPG (15,757 x 12,140), the image the editor georeferenced on MapWarper
   (70818). Tiles in triebenfeld-maps/kozlowski1861 (1,003 files, 43 MB); four
   control points, fit RMS 5.8 m.
 - **31 labels** imported from `labels_kozlowski1861_20261030-1620.json`: 25
   linked to gazetteer places (12 new map appearances added), six forest
-  districts (okręg) marked as new places, to be ruled (NEEDS_CONFIRMATION).
-  Two entries' coordinates (Czerwonka, Nowa Wieś) are 16 and 18 km from their
+  districts (okrÄ™g) marked as new places, to be ruled (NEEDS_CONFIRMATION).
+  Two entries' coordinates (Czerwonka, Nowa WieÅ›) are 16 and 18 km from their
   marks. `in_project: true`; card, thumbnail and page in both languages;
   Jekyll build and `verify_site.py` pass.
 - **Scales**: maps now carry a `scale` (register, map page, "Scale" /
-  "Maßstab"), put in as it is known (the editor's word); ADDING_A_MAP says so.
+  "MaÃŸstab"), put in as it is known (the editor's word); ADDING_A_MAP says so.
 - Tiles' first Pages deployment failed (GitHub 500) and was rebuilt by an
   empty commit; a stale local server held port 8765.
-- **Rulings of the editor, same day**: the six okręg labels are parts of
-  their obręb (appearances of Włodzimirów Obręb and Wielki-Bór Obręb, not
-  new places; one note's "Okręg" was a slip for Obręb); the placing on the
+- **Rulings of the editor, same day**: the six okrÄ™g labels are parts of
+  their obrÄ™b (appearances of WÅ‚odzimirÃ³w ObrÄ™b and Wielki-BÃ³r ObrÄ™b, not
+  new places; one note's "OkrÄ™g" was a slip for ObrÄ™b); the placing on the
   map is accurate, so Czerwonka (the mark's position, precision `from_map`)
-  and Nowa Wieś (the village's position in `places_osm.yml`) lose their wrong
+  and Nowa WieÅ› (the village's position in `places_osm.yml`) lose their wrong
   coordinates. The labels were imported again from a corrected copy of the
   saved file. Place pages, map pages, build and `verify_site.py` pass.
-- **The legend**, at the editor's request: the sheet's *Wyjaśnienie Kolorów*
+- **The legend**, at the editor's request: the sheet's *WyjaÅ›nienie KolorÃ³w*
   (lower right) recreated digitally on the map page, a table of the
   fifteen blocks with their grouping headers (Grunta orne, Ogrody, Lasy,
-  Łąki, Pastwiska, and water), Polish and English (German has its own
+  ÅÄ…ki, Pastwiska, and water), Polish and English (German has its own
   column values). Claude read the Polish from the scan; the values are to
   be checked by the editor. The colours are sampled from the scan (fill,
   the stronger edge strip, the pencil line), and the three patterned
@@ -3943,50 +3943,50 @@ footer on every page. Changed, in both languages:
   pastures), the graded pale inset (water). Data `maps/kozlowski1861/
   legend.yml`, built into the page's data by `map_pages.py`, rendered in
   `_layouts/map.html` under the mark index; new i18n keys. A map needs
-  nothing: the section shows only where `legend.yml` exists (Łukom 1766
+  nothing: the section shows only where `legend.yml` exists (Åukom 1766
   has none on its sheet). The editor's looks on the day set the blocks to
   the sheet: ten irregular dashes for the wet blocks; then, on the
   editor's word, the orchard as plain dots (no berries, no stems), every
-  block the same thin outline — water's frame alone built up (the thick
-  blue band top and left, a thinner darker line on the other two) — the
+  block the same thin outline â€” water's frame alone built up (the thick
+  blue band top and left, a thinner darker line on the other two) â€” the
   squares a little larger, and the caption under the table taken off (no
   explainer text). The editor's colour codes followed (same day): nine of
-  the fills given outright — Manorial ddcab0, Church c9c4ac, Peasant
+  the fills given outright â€” Manorial ddcab0, Church c9c4ac, Peasant
   dacea2, Colonists' dcc9a0, Coniferous b6ad98, Deciduous a7aa9b, Copses
-  c3b9a0, dry Meadows c9c9b1, Roads and plots under buildings cebb93 —
+  c3b9a0, dry Meadows c9c9b1, Roads and plots under buildings cebb93 â€”
   set as given, the table's other colours still the scan's samples; the
   wet blocks' blue dashes laid further apart so none touch. Verified:
   build, `verify_site.py`; rendered in the headless browser.
 - **Published at the editor's word the same day** ("Push and publish"):
   main pushed (2e1213b28..9d73c2131, ten commits, back to the map's
   register entry) and the "Build and deploy" run 41101782292 succeeded on
-  it — Kozłowski's map, its legend, the corrected places and all of
+  it â€” KozÅ‚owski's map, its legend, the corrected places and all of
   today's other rulings went live.
 
-## 2026-10-31: Pełzucki 1896, the third map, and the labelling page's two conveniences (branch `pelzucki1896`, not published)
+## 2026-10-31: PeÅ‚zucki 1896, the third map, and the labelling page's two conveniences (branch `pelzucki1896`, not published)
 
 - **Named by the editor** ("I want to add a new map to the project"):
-  the Szreniawa museum's unit AN-4456, file `4456_full.jpg` — the plan of
-  the lands that passed into the ownership of the peasants of Łazińskie
-  Holendry, gmina Tromczyn (Trąbczyn), Słupca uezd, Kalisz Governorate:
-  the map the gazetteer cites as **Pełzucki 1896** (`glinianki.yml`). The
+  the Szreniawa museum's unit AN-4456, file `4456_full.jpg` â€” the plan of
+  the lands that passed into the ownership of the peasants of ÅaziÅ„skie
+  Holendry, gmina Tromczyn (TrÄ…bczyn), SÅ‚upca uezd, Kalisz Governorate:
+  the map the gazetteer cites as **PeÅ‚zucki 1896** (`glinianki.yml`). The
   unit holds the five sheets of the plan and the editor's mosaic of them;
   asked which image is the map of record, the editor named **the mosaic**
-  (`4456_full.jpg`, 21,715 × 14,206) — against ADDING_A_MAP's rule that
+  (`4456_full.jpg`, 21,715 Ã— 14,206) â€” against ADDING_A_MAP's rule that
   the original is the file whose size equals MapWarper's, which the
   procedure now records as the editor's to overrule.
 - **Identified from the sheet itself.** The editor's transcriptions in the
   unit (legend, certification texts, explication) give the title
-  (ПЛАНЪ земель поступившихъ въ собственность крестьянъ селенія
-  ЛАЗИНСКІЕ ГОЛЕНДРЫ...), the surveyor (Г. А. Пелзуцкій, 1896, staff land
-  surveyor of the 2nd class — the surname's reading uncertain,
+  (ÐŸÐ›ÐÐÐª Ð·ÐµÐ¼ÐµÐ»ÑŒ Ð¿Ð¾ÑÑ‚ÑƒÐ¿Ð¸Ð²ÑˆÐ¸Ñ…ÑŠ Ð²ÑŠ ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ð¾ÑÑ‚ÑŒ ÐºÑ€ÐµÑÑ‚ÑŒÑÐ½ÑŠ ÑÐµÐ»ÐµÐ½Ñ–Ñ
+  Ð›ÐÐ—Ð˜ÐÐ¡ÐšÐ†Ð• Ð“ÐžÐ›Ð•ÐÐ”Ð Ð«...), the surveyor (Ð“. Ð. ÐŸÐµÐ»Ð·ÑƒÑ†ÐºÑ–Ð¹, 1896, staff land
+  surveyor of the 2nd class â€” the surname's reading uncertain,
   NEEDS_CONFIRMATION), the scale (**1:4200 in Russian measure**), the
   certified copy's dates (copy certified at Kalisz 27 March 1898, issued
-  with the seal 19 July 1900) and the five sheets («на пяти листахъ»).
+  with the seal 19 July 1900) and the five sheets (Â«Ð½Ð° Ð¿ÑÑ‚Ð¸ Ð»Ð¸ÑÑ‚Ð°Ñ…ÑŠÂ»).
   The register's entry is filled from them; the English title is the
   folder's own translation, the German Claude's.
 - **The MapWarper points were made on sheet 4456-4.jpg** (map 104898,
-  "Łazińskie Holendry ca. 1896", 7454 × 7392), not on the mosaic: the
+  "ÅaziÅ„skie Holendry ca. 1896", 7454 Ã— 7392), not on the mosaic: the
   register now carries `mapwarper_image` and `mapwarper_fit:
   [scale, tx, ty]` and `pipeline/maps/mapwarper.py` transforms every
   fetched point into the mosaic's pixels. The fit is found by patch
@@ -3998,12 +3998,12 @@ footer on every page. Changed, in both languages:
   label name, and then you fill in the type of place"; "add the place
   name add section to the top of the column"):
   - choosing a gazetteer place fills the label's type (`shows`) from the
-    place's `kind` (a village for a village, water for a stream —
+    place's `kind` (a village for a village, water for a stream â€”
     KIND2SHOWS in `label_page.py`); the last step keeps only the form:
     the type shown as filled in, the form field focused, **Enter saves**
     (a type key overrides). The editor's correction the same day: the
     first take saved the label the instant the trace ended, which took
-    the moment for typing the form as written on the map away — "I need
+    the moment for typing the form as written on the map away â€” "I need
     to be able to still add 'Form as written on the map'". The type
     choice is what is saved, not the pause;
   - "+ New label" and its form moved to the top of the panel, above the
@@ -4011,17 +4011,17 @@ footer on every page. Changed, in both languages:
 - **The texts on the sheet** (the editor's word: "make sure the
   information can be viewed in English, Russian, and German"): the title
   block, the certification texts, the description of adjoining lands
-  (Описаніе смежныхъ земель — the boundary walk in 20 stretches keyed by
-  stamped letters А–У, two sections, the uezd groups; added the same day
+  (ÐžÐ¿Ð¸ÑÐ°Ð½Ñ–Ðµ ÑÐ¼ÐµÐ¶Ð½Ñ‹Ñ…ÑŠ Ð·ÐµÐ¼ÐµÐ»ÑŒ â€” the boundary walk in 20 stretches keyed by
+  stamped letters Ðâ€“Ð£, two sections, the uezd groups; added the same day
   at the editor's word from `legend_2_transcription.md` /
-  `legend_2_translation_en.md` — the letter markers of rows 16–18 corrected
-  to the editor's revised transcription the same afternoon (П–А, Р–Р, С–С;
-  the first take's "Р [?]" mis-stamp guess withdrawn) — and the
+  `legend_2_translation_en.md` â€” the letter markers of rows 16â€“18 corrected
+  to the editor's revised transcription the same afternoon (ÐŸâ€“Ð, Ð â€“Ð , Ð¡â€“Ð¡;
+  the first take's "Ð  [?]" mis-stamp guess withdrawn) â€” and the
   explication (the land-area
   table, basic allotment 870 des. 1454 sq. sazh., additional 197 des.
   2218 sq. sazh., total 1068 des. 1272 sq. sazh.; the arithmetic checked)
   are carried in `maps/pelzucki1896/texts.yml` and shown on the map's
-  page — the Russian transcription as transcribed, the page's translation
+  page â€” the Russian transcription as transcribed, the page's translation
   beside it line by line, the two tables as tables with the original's
   column heads where it has them; the notes explain desyatinas, square
   sazhens and the stamped boundary letters. New i18n keys;
@@ -4033,20 +4033,20 @@ footer on every page. Changed, in both languages:
   duplicate-key trap struck once: the scripts read the shadowing short
   entry and the tiles step stopped until merged). The control points
   fetched from MapWarper 104898 and transformed by the fit; the fit of the
-  four transformed points **RMS 2.71 m** (residuals 1.0–3.7 m), the
+  four transformed points **RMS 2.71 m** (residuals 1.0â€“3.7 m), the
   annotation live, warp.html?map=pelzucki1896 up. The labelling page
   served at http://localhost:8778/pelzucki1896/ (a stale server of an
   earlier session holds 8765); the editor's marks are the next step.
 - **The editor's seven marks imported** the same evening
   (`labels_pelzucki1896_20261031-2053.json`): Glinianki, Dziadolina,
-  Studzianka, Trąbczyńskie Nowe Olędry (as **Новые Голендры**), Noga,
-  Grabina — and one **new place, Wypalanki** (Выпалѣнки, the felled forest
+  Studzianka, TrÄ…bczyÅ„skie Nowe OlÄ™dry (as **ÐÐ¾Ð²Ñ‹Ðµ Ð“Ð¾Ð»ÐµÐ½Ð´Ñ€Ñ‹**), Noga,
+  Grabina â€” and one **new place, Wypalanki** (Ð’Ñ‹Ð¿Ð°Ð»Ñ£Ð½ÐºÐ¸, the felled forest
   of boundary-list row 14; entry to be drafted at the editor's word). New
   map appearances added for Dziadolina, Studzianka, Noga and Grabina;
-  positions written (RMS 2.71 m — for the marks on the mosaic's northern
+  positions written (RMS 2.71 m â€” for the marks on the mosaic's northern
   sheets an extrapolation from sheet 4's points: tens of metres, not 2.7).
   **Glinianki**: the mark lands at 52.117 N, 17.905 E, some 13 km from the
-  entry's coordinates (52.144, 17.768) — the entry's coordinates belong to
+  entry's coordinates (52.144, 17.768) â€” the entry's coordinates belong to
   another Glinianki or are wrong (NEEDS_CONFIRMATION; the entry's `maps:`
   item's form, empty until now, set to Glinianki as typed). A correction
   of the session's own note: the "ground extent" first reasoned from was
@@ -4056,15 +4056,15 @@ footer on every page. Changed, in both languages:
   between the letters. But give me the option to skip pairs; it looks
   like T-Y occur in a different location (they're drawn in a sub-map)"):
   where the map's texts carry the adjoining-lands list, the page grows a
-  **Boundary walk** section — **Mark the letters** steps the stamped
-  capitals А–У in list order (edit the letter in the box for a stamp the
+  **Boundary walk** section â€” **Mark the letters** steps the stamped
+  capitals Ðâ€“Ð£ in list order (edit the letter in the box for a stamp the
   sequence doesn't name; <kbd>S</kbd> leaves one unmarked), **Walk the
   boundary** steps the twenty stretches of the list, each traced from its
-  first letter to its last, or skipped (<kbd>S</kbd> or the button) — a
+  first letter to its last, or skipped (<kbd>S</kbd> or the button) â€” a
   skipped stretch is recorded as skipped, with its description, which is
-  the shape of the sub-map's Т–У. The import takes the new kinds: a letter
-  (a point, cropped like a name), a stretch (a trace, no crop — a line is
-  not lettering — and no gazetteer linking); `labels.yml` carries
+  the shape of the sub-map's Ð¢â€“Ð£. The import takes the new kinds: a letter
+  (a point, cropped like a name), a stretch (a trace, no crop â€” a line is
+  not lettering â€” and no gazetteer linking); `labels.yml` carries
   `role: letter` / `role: boundary` with the letter or the from/to/n and
   `skipped:`. On the map page the letters show as a chip row and the
   stretches as a list under "The boundary walk" (German Der Grenzverlauf;
@@ -4073,22 +4073,22 @@ footer on every page. Changed, in both languages:
   and clicking a row or chip takes the map there (a stretch's Locate fits
   the whole line). The point of the walk: the 1896 perimeter of the
   peasants' allotment as a drawable thing for the interactive map, and the
-  check of the list's rows 16–18 against the stamps.
-- **The key (Объясненіе знаковъ) on the map page** (the editor's word:
-  "Make a legend on the map page similar to the Kozłowski 1861 map"): the
-  ten blocks with the editor's own colour codes — Buildings 946837,
+  check of the list's rows 16â€“18 against the stamps.
+- **The key (ÐžÐ±ÑŠÑÑÐ½ÐµÐ½Ñ–Ðµ Ð·Ð½Ð°ÐºÐ¾Ð²ÑŠ) on the map page** (the editor's word:
+  "Make a legend on the map page similar to the KozÅ‚owski 1861 map"): the
+  ten blocks with the editor's own colour codes â€” Buildings 946837,
   Gardens 747969, Arable land c59e74, Meadows ac9e85, Pastures ae9e81,
   Forest brush ab9175, Forest 816c57, Cleared woodland aa9e83 (the light
   blue streaks drawn, the wet pattern with a lighter ink), Unusable land
-  c0976d, Water b0978a — the labels from the editor's transcription
+  c0976d, Water b0978a â€” the labels from the editor's transcription
   (`map_colours_transcription.md`; rows 5 and 6b keep their [?]), the
   English the folder's translation, the German Claude's. The key's
   original text is **Russian**, so the legend data now carries `lang:` and
-  `orig:` (the layout falls back to Kozłowski's `pl` fields); the gap row
+  `orig:` (the layout falls back to KozÅ‚owski's `pl` fields); the gap row
   between legend groups is emitted only after a group (a flat legend gets
   no stray rules). The buildings block carries the key's own sign (a small
   dark footprint, new CSS pattern). The outline colours are the fills
-  darkened (0.85/0.62), the streak ink chosen light blue (#a9c3d2) —
+  darkened (0.85/0.62), the streak ink chosen light blue (#a9c3d2) â€”
   Claude's, to be checked by the editor like the rest of the legend.
 
 ## 2026-10-31: "always tag a Zelmer/Celmer/Zellmer" recorded as standing (branch `mentions-robustness`, not published)
@@ -4097,10 +4097,10 @@ footer on every page. Changed, in both languages:
   editor has given, standing until withdrawn") and into the identity of the
   family's entry in `reference/people.yml`. The machinery had honoured it
   since the rulings of 2026-09-11 and 2026-10-15: the entry's `match` covers
-  Celmer, Cellmer, Zelmer, Zellmer and the Russian tables' Цельмеръ, with
+  Celmer, Cellmer, Zelmer, Zellmer and the Russian tables' Ð¦ÐµÐ»ÑŒÐ¼ÐµÑ€ÑŠ, with
   inflections, and a curated entry outranks the seed tail everywhere. The
   coverage test found nothing untagged: 28 mention rows over seven documents
-  - the liquidation tables of APŁ 39/98/0/-/6603 and Breyer's copy of them,
+  - the liquidation tables of APÅ 39/98/0/-/6603 and Breyer's copy of them,
   document 4 of the 53/968/0/-/716 holding; the delivery protocol of the
   Kalisz Gr.414 holding of 1771; the printed summons of the 53/968/0/-/783
   holding of 1860; Breyer's first notebook, the 53/968/0/-/669 holding.
@@ -4117,10 +4117,10 @@ footer on every page. Changed, in both languages:
   People page and the family's card answer on the live site, Cyrillic
   name and all.
 
-## 2026-10-31: Muszyńska-Zygmańska (1947) added to the literature (repository, summary only)
+## 2026-10-31: MuszyÅ„ska-ZygmaÅ„ska (1947) added to the literature (repository, summary only)
 
 - The Polish transcription and the corrected AI English of *Wielkopolska w
-  powstaniu kościuszkowskim* (Poznań 1947) are in `literature/muszynska1947/`,
+  powstaniu koÅ›ciuszkowskim* (PoznaÅ„ 1947) are in `literature/muszynska1947/`,
   cut into **150 passages**: the front, the five chapters (pp. 7-154) and the
   notes. The bibliography, index and errata are apparatus and are not cut into
   passages (the work's `notes.md`).
@@ -4139,7 +4139,7 @@ footer on every page. Changed, in both languages:
   61,223 internal links). `docs/LITERATURE_PLAN.md` section 30 and
   `docs/NEEDS_CONFIRMATION.md` record it.
 
-## 2026-11-01: Muszyńska-Zygmańska (1947) published in full
+## 2026-11-01: MuszyÅ„ska-ZygmaÅ„ska (1947) published in full
 
 - The editor's word: publish it. `visible: true`; the site now carries the
   whole work, English first with a button for the Polish, at
@@ -4148,12 +4148,12 @@ footer on every page. Changed, in both languages:
   **243 stand**; **26 new pairs (68 hits)** read and ruled in
   `literature/index.yml`; **0 unruled**, `--check` passes. False friends ruled
   out: the Silesian minister Danckelmann, the Prussian general Lichnowski,
-  Jacek Małachowski, Colonel Pirch of 1794, Kamionna on the Bzura, the
-  Silesian Oleśnica, the town Świecie, and the surnames Kaliszowski, Łukomski
-  and Rogaliński; Warschauer the historian and the lieutenant Voss.
+  Jacek MaÅ‚achowski, Colonel Pirch of 1794, Kamionna on the Bzura, the
+  Silesian OleÅ›nica, the town Åšwiecie, and the surnames Kaliszowski, Åukomski
+  and RogaliÅ„ski; Warschauer the historian and the lieutenant Voss.
 - `literature_site.py` writes the full pages; `jekyll build` and
   `verify_site.py` pass with the text on the site. The work's `notes.md` and
-  `docs/LITERATURE_PLAN.md` §30 record the change; the open question in
+  `docs/LITERATURE_PLAN.md` Â§30 record the change; the open question in
   `docs/NEEDS_CONFIRMATION.md` is settled.
 
 
@@ -4169,7 +4169,7 @@ footer on every page. Changed, in both languages:
   August von Triebenfeld submitted to Dorow in 1813 - the longest thing
   Triebenfeld is known to have written, and in his own words; the
   Materialien (1861, pp. 205-216) reprints it only in extract, and
-  Łukasiewicz (1997) retells it. The editor ruled the memoir only, not the
+  Åukasiewicz (1997) retells it. The editor ruled the memoir only, not the
   whole part II.
 - The excerpt: the memoir's title leaf and its Goethe motto leaf
   (unnumbered, the volume's pp. 11-12) as the work's front, then printed
@@ -4184,21 +4184,21 @@ footer on every page. Changed, in both languages:
   the Fraktur and deu models. The lunaroute converter (the second engine of
   the Kraus 2001 sitting) could not be reached this session; in its place
   the Materialien's reprint of the same memoir was read line against line
-  with `difflib` - its added motto (Vollgräff), added pointers, small
+  with `difflib` - its added motto (VollgrÃ¤ff), added pointers, small
   omissions ("auf 6 Jahr"), own slips ("zu werden") and silent
   normalisations are recorded in the work's `notes.md`, and the 1843 print
   stands where they differ.
 - Nine readings the passes and the reprint did not settle went to the
   editor's spot sheet (`scratch/dorow1843_sheet.py`, answers to
   `review/dorow1843/query_answers.json`): the 9/5 Procent digit of p. 14
-  (the Materialien prints 5 with its own "(?—)" pointer), gebauset/gehauset,
+  (the Materialien prints 5 with its own "(?â€”)" pointer), gebauset/gehauset,
   Offizcianten against the print's own whole-word Offizianten of p. 17,
-  Würkungskreis and bewürken against the reprint's Wirkungs- forms, kukken,
+  WÃ¼rkungskreis and bewÃ¼rken against the reprint's Wirkungs- forms, kukken,
   Michelis/Michaelis, and the title leaf's display word and cross-reference.
 - The sheet answered the same day (eight of nine rows), the rulings worked
   into `original.md` and the English: **5 Procent** (the Fraktur model's 9
-  was its error), **gehauset**, **Officianten**, **Würkungskreis**,
-  **bewürken**, **kukken**, **Michelis** and **Pohlen** stand; the
+  was its error), **gehauset**, **Officianten**, **WÃ¼rkungskreis**,
+  **bewÃ¼rken**, **kukken**, **Michelis** and **Pohlen** stand; the
   cross-reference row was not answered and stays open in NEEDS_CONFIRMATION
   ("The literature"). The work's `notes.md` records the answers and the two
   spellings of Offizianten/Officianten the print itself carries (p. 17 as
@@ -4207,22 +4207,22 @@ footer on every page. Changed, in both languages:
   volunteered 24 per cent; Prince Karl George of Hessen's circa 230,000
   purchase valued at 800,000; Heymann Ephraim's 200,000 at 5 per cent with
   the 30,000 proxeneticum). The memoir does not print the story of
-  Triebenfeld's own estate - that is Łukasiewicz's telling - and
-  Łukasiewicz's "35 000" for the valuation commission is not the memoir's
+  Triebenfeld's own estate - that is Åukasiewicz's telling - and
+  Åukasiewicz's "35 000" for the valuation commission is not the memoir's
   figure either: the memoir makes the valuation itself cost the prince
   "etwa 3500 Thlr." (p. 22). The register's entry and the letters (400,000
   and 750,000) stand against both (the standing rule).
 - The index: 60 hits of the edition's people and places (Hoym 23,
-  Schulenburg 10, Berlin 6, Triebenfeld 4, Südpreußen 4), every spelling
+  Schulenburg 10, Berlin 6, Triebenfeld 4, SÃ¼dpreuÃŸen 4), every spelling
   already ruled for the other works; `--check` passes with 0 unruled. One
   hand-made link (`dorow-memoir`): the memoir's two self-identifying
   passages (pp. 18-19) to the same three letters of the Prince that stand
-  against Łukasiewicz's telling (oe1bu9454-104, -108, -112); the
+  against Åukasiewicz's telling (oe1bu9454-104, -108, -112); the
   attribution of the memoir is the volume's own and the Materialien's note
   152 spells it out.
 - `literature_site.py`, `make_thumbs.py`, `build_site_data.py`, `jekyll
   build` and `verify_site.py` all pass (630 documents character-exact, 326
-  hand-made links checked on both sides). `docs/LITERATURE_PLAN.md` §31
+  hand-made links checked on both sides). `docs/LITERATURE_PLAN.md` Â§31
   records the work. The literature has 41 works, 35 with pages in both
   languages and six summary-only.
 - Published at the editor's word ("Publish"): the commit cherry-picked to
@@ -4249,10 +4249,10 @@ footer on every page. Changed, in both languages:
     390px licence URL in its Published line).
   - **The literature's "In the documents" links** (`.lit-links-docs a`,
     `.lit-doclinks-pages a`): `white-space: nowrap` made one reference
-    ("Oe 1 Bü 9454, document 108 (22 July 1800)") an unbreakable 350px run;
+    ("Oe 1 BÃ¼ 9454, document 108 (22 July 1800)") an unbreakable 350px run;
     the nowrap is gone, the links wrap like text.
   - **The literature's tables** (`.lit-orig/.lit-en/.lit-only table`):
-    `display: block; max-width: 100%; overflow-x: auto` - Mączak's
+    `display: block; max-width: 100%; overflow-x: auto` - MÄ…czak's
     thirteen-column table now scrolls inside its passage.
   - **The passage jump nav** (`.lit-jump a`): nowrap, and the Minakowska
     works key their passages by whole section headings - one link was
@@ -4284,27 +4284,27 @@ footer on every page. Changed, in both languages:
   change: serve `site/_site` (python -m http.server), point the crawler at
   it, rebuild first. `jekyll build` and `verify_site.py` pass.
 
-## 2026-11-01: the literature's call-outs reworked — "Related", one note per passage, a gutter column with a toggle (branch `related-callouts`, published at the editor's word)
+## 2026-11-01: the literature's call-outs reworked â€” "Related", one note per passage, a gutter column with a toggle (branch `related-callouts`, published at the editor's word)
 
 - The problem, reported by the editor with /literature/materialien1861/ as
   the example: the boxes generated from `literature/links.yml` under the
   heading "In the documents" repeated themselves wherever a link named
   several passages of one work (18 of the 33 links; the worst stamped the
-  same box about Bischofswerder, Zastrow, Dolffs and Rüchel under nine pages
-  of the Materialien and seven of the Feuerbrände), and each carried the
+  same box about Bischofswerder, Zastrow, Dolffs and RÃ¼chel under nine pages
+  of the Materialien and seven of the FeuerbrÃ¤nde), and each carried the
   link's whole sentence whether or not it bore on the page it stood under.
 - **`about:` per-passage notes** (the editor's choices, asked 2026-11-01:
-  the heading "Related"/"Bezüge", the notes inside one link rather than
+  the heading "Related"/"BezÃ¼ge", the notes inside one link rather than
   split links, the toggle beside the view buttons, on by default; the
   document side keeps "In the literature"): a link with more than one
-  passage of a work carries an `about:` entry per passage — its own note
+  passage of a work carries an `about:` entry per passage â€” its own note
   (en, de) and its own documents, a subset of the link's. Every passage of
   such a link must have its note; every document of the link must belong to
   at least one passage; a one-passage link needs no `about:` and may not
   carry one. `literature_site.py` validates all of it and stops on a breach.
 - **The passage entries pruned to their documents' reach**: the Treskow and
-  Wendessen entries (Materialien pp. 152, 153, 171; Feuerbrände 2-74,
-  2-90) leave `register-other-gifts` — the letter of 13 March 1799 does not
+  Wendessen entries (Materialien pp. 152, 153, 171; FeuerbrÃ¤nde 2-74,
+  2-90) leave `register-other-gifts` â€” the letter of 13 March 1799 does not
   touch them. Per-passage notes written for all 18 links that had repeated
   themselves; 72 passage entries now stand where 73 repeated placements
   stood.
@@ -4312,78 +4312,78 @@ footer on every page. Changed, in both languages:
   the passage (grid `minmax(0, 44rem) 14rem` on `.lit-passage.has-related`,
   the passage's text in a new `lit-main` wrapper); below that it folds under
   the passage text as the box did. The heading is "Related" (`lit_related`
-  in i18n), German "Bezüge"; the toggle button (`.rbtn`, `data-related`
+  in i18n), German "BezÃ¼ge"; the toggle button (`.rbtn`, `data-related`
   on the body, `tf-lit-related` in localStorage, default on, `literature.js`)
   hides the column page-wide; without JavaScript it shows.
 - Checked with the mobile crawler (its method in WORKING_NOTES) over all 42
   works in both languages at 320/360/390/1024/1280/1920: 504 checks, none
   overflowing; the toggle exercised on every page that carries it.
-- **One new link from the rework's reading** — `register-donations`: the
+- **One new link from the rework's reading** â€” `register-donations`: the
   donation dossier I. HA Rep. 7 C Nr. 3570 (Hoym's proposal of 14 July 1796,
   the King's cabinet order of 23 July given at Pyrmont, the deeds of
   9 August 1796) against the register's entries whose deeds and valuations
-  it holds (Blücher's Duninow, Pontanus's Sieradz, Dolffs's Strzelec with
+  it holds (BlÃ¼cher's Duninow, Pontanus's Sieradz, Dolffs's Strzelec with
   the deed date the register prints, Goldbeck's chancery); where they
   disagree the notes say so (the proposal's 120,000 rt for all the Prince's
   items against the register's official 89,250 Thlr.; the proposal's yield
   of 1,500 rt for Duninow against the note's "certainly 6000 thalers").
 - **The first sweep of new links** (the works LITERATURE_PLAN section 9
   had queued; every figure read in the book and in the document):
-  - `held-krotoszyn` — Held (1801), the papers of Früson's suit:
+  - `held-krotoszyn` â€” Held (1801), the papers of FrÃ¼son's suit:
     Triebenfeld's administration of Krotoszyn until 1791 at some 17-18,000
-    rt a year, Früson's nine-year lease at 30,100 from 1 July 1791
-    (pp. 12, 54, 79, 129, 173), the composition wrung from Früson by
-    Triebenfeld and Neumann giving the lease up (p. 34) — which the King's
+    rt a year, FrÃ¼son's nine-year lease at 30,100 from 1 July 1791
+    (pp. 12, 54, 79, 129, 173), the composition wrung from FrÃ¼son by
+    Triebenfeld and Neumann giving the lease up (p. 34) â€” which the King's
     refusal of 4 December 1798 prices from the government's side: the
     Abstand of 26,000 rt for the Abtretung der Pacht of 1795
     (oe1bu9454-85, -86, -101). Claude's reading; NEEDS_CONFIRMATION.
-  - `guradze1898-emancipation` — the Duchy of Warsaw's constitution of
+  - `guradze1898-emancipation` â€” the Duchy of Warsaw's constitution of
     22 July 1807 and the decree of 24 December 1807 abolished hereditary
     subjection; the lease's paragraph 13 had freed its eighteen lessees of
     it two years before (app539680801-3).
-  - `paciorkowski1776-boundary` — the 1768 constitution's approval rule and
+  - `paciorkowski1776-boundary` â€” the 1768 constitution's approval rule and
     its rules on boundaries destroyed or privately erected, beside the
     Tribunal's approval of 23 January 1782, the demolition act of
-    28 November 1782 and Chełmski's protest of 1778 (Konin Gr. 153, Konin
+    28 November 1782 and CheÅ‚mski's protest of 1778 (Konin Gr. 153, Konin
     Gr. 117). Claude's reading; NEEDS_CONFIRMATION.
 - New in NEEDS_CONFIRMATION: the register's official 89,250 Thlr. against
   the dossier's proposal of 120,000 rt; the Duninow yield (1,500 rt against
-  "certainly 6000"); the Konin row's 12,000 (a slip or a row?); Żychliński
-  (1885) writing Władysław where the summons of 1860 names Włodzimierz;
+  "certainly 6000"); the Konin row's 12,000 (a slip or a row?); Å»ychliÅ„ski
+  (1885) writing WÅ‚adysÅ‚aw where the summons of 1860 names WÅ‚odzimierz;
   Held's composition identified with the 1795 Abtretung; the Paciorkowski
   tie as resemblance, not statute.
 - Verified: build and `pipeline/verify_site.py` clean (37 links, 40
-  documents, 302 link-pairs checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
+  documents, 302 link-pairs checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the PeÅ‚zucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
 
-## 2026-11-01: the connections between documents of different holdings — the mechanism, the method, the step in every adding-a-source procedure (branch `related-callouts`, published at the editor's word)
+## 2026-11-01: the connections between documents of different holdings â€” the mechanism, the method, the step in every adding-a-source procedure (branch `related-callouts`, published at the editor's word)
 
-- The editor asked how connections to other documents should be made —
-  going deeper, across all the documents and not just the literature — and
+- The editor asked how connections to other documents should be made â€”
+  going deeper, across all the documents and not just the literature â€” and
   that the step be part of adding any new source, with the new source's
   connections into existing documents proposed as part of the adding.
 - **Built now** (the editor's choice, asked with the plan): the four kinds
-  of connection gathered in one standing reference, `docs/CONNECTIONS.md` —
+  of connection gathered in one standing reference, `docs/CONNECTIONS.md` â€”
   the within-holding relations of `rulings.yml` (they have stood since
   2026-10-03), the new cross-holding connections, the literature's and the
-  other sources' links, and the computed index — with the method (chains,
+  other sources' links, and the computed index â€” with the method (chains,
   per-entity sweeps, figures as hooks, the era essay as a map; the measure
   of relevance: a document that confirms, corrects, extends or dates what
   the other says) and the Connections step that every adding-a-source
   procedure now carries (NEW_UNIT section 8's table, the newspapers',
   places' and literature's plans).
-- **`reference/connections.yml`** — each connection names at least two
+- **`reference/connections.yml`** â€” each connection names at least two
   documents of different holdings, each participant with its own note in
   English and German: the note THAT document's page shows, so no page
   carries a sentence written for the other side (the per-passage lesson).
   `pipeline/build/connections_site.py` (a step of `regenerate.py`) checks
   it and writes `site/_data/connections.yml`; a document's page shows its
   own note and links to the other participants in the "About this document"
-  box, headed "Related"/"Bezüge" (`doc_related` in i18n);
+  box, headed "Related"/"BezÃ¼ge" (`doc_related` in i18n);
   `pipeline/verify_site.py` checks every participant's page links every
   other participant, both languages.
 - **The first batch, the chains pass** (the editor's choice): four
   connections, eight documents, each resting on links the editor has
-  already ruled and carrying no new identification — the donation dossier
+  already ruled and carrying no new identification â€” the donation dossier
   against the letter reporting its gift's yields (4-6,000 expected in 1796;
   20,000 reported by March 1799); the lost privilege of 1746 and its two
   witnesses (the decree of 1775, the summons of 1860, which also pleads the
@@ -4394,19 +4394,19 @@ footer on every page. Changed, in both languages:
   protocol). Screenshots checked the box at 1280 and 360 (no overflow;
   document pages are single-URL, the language swapped in-page).
 - Verified: build and `pipeline/verify_site.py` clean (8 cross-holding
-  connections checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the Pełzucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
+  connections checked on both sides). Published at the editor's word, 2026-11-01: the two commits cherry-picked onto main (the PeÅ‚zucki 1896 map work beneath the branch left unpublished, the editor's word), the Build and deploy run 41331884277 succeeded.
 
-## 2026-11-01: The Kościuszko letter of 3 IX 1798 added as the holding ossol2289 (B. Ossol. rkp. 2289 II)
+## 2026-11-01: The KoÅ›ciuszko letter of 3 IX 1798 added as the holding ossol2289 (B. Ossol. rkp. 2289 II)
 
 - The editor ruled the attribution working and asked for the letter to be
-  added: the copy of Kościuszko's letter of 3 September 1798, written in
-  Paris, on page 145 of the Przyłęcki copy collection at the Ossolineum
+  added: the copy of KoÅ›ciuszko's letter of 3 September 1798, written in
+  Paris, on page 145 of the PrzyÅ‚Ä™cki copy collection at the Ossolineum
   (scan 0062 of the thirty-scan set). The holding is the first from the
   Ossolineum and opens the new era `insurgency` (working name; the later
   eras' orders bumped; the Eras page renders it from the blurb).
 - The transcription is the editor's corrected reading of Claude's
   band-by-band first pass, kept as written: the copyist's orthography, the
-  superscript expansions in brackets (Sz[anowny] Ob[ywatel]u, P[aryża]),
+  superscript expansions in brackets (Sz[anowny] Ob[ywatel]u, P[aryÅ¼a]),
   the six line-end wraps marked and decided (`linebreak_decisions.csv`,
   all joins, decided by hand - the automatic resolver reads German evidence
   and cannot see Polish). No doubt marks remain.
@@ -4416,7 +4416,7 @@ footer on every page. Changed, in both languages:
   publishes it; `check_translations.py` raised 0 rows. The summaries were
   written in both languages and their 10 statements claim-checked
   (`intake/claim_check.yml`), all supported.
-- The person entry **Tadeusz Kościuszko** added (`people.yml`,
+- The person entry **Tadeusz KoÅ›ciuszko** added (`people.yml`,
   `people_bios.yml`, `people_headings.yml`; the pattern counted before -
   no document outside ossol2289 names him). The correspondents record
   carries the sender only: the letter never names its addressee, and the
@@ -4441,14 +4441,14 @@ footer on every page. Changed, in both languages:
   holding's page (about.md/about_de.md) has a new "The addressee"
   section that lays out what was proposed, what stands against it and
   what would reopen it; the summaries (both languages), the era `insurgency`'s
-  blurb, the unit.yml title/description and the Kościuszko person entry
+  blurb, the unit.yml title/description and the KoÅ›ciuszko person entry
   (people.yml, people_bios.yml) all drop the "probably Prusimski" wording.
-- The grounds, checked in session: Pachoński's PSB entry cites the
+- The grounds, checked in session: PachoÅ„ski's PSB entry cites the
   manuscript in its general source list with no footnote apparatus in the
   file the edition holds (so the citation is attached to no claim), and
-  the two phrases the entry quotes for the exchange («Lud i Wolność to dwa
-  filary…», «nie zna go osobiście») appear in the copy in neither
-  wording. Pachoński's 1973 Venice article (complete 31-note apparatus,
+  the two phrases the entry quotes for the exchange (Â«Lud i WolnoÅ›Ä‡ to dwa
+  filaryâ€¦Â», Â«nie zna go osobiÅ›cieÂ») appear in the copy in neither
+  wording. PachoÅ„ski's 1973 Venice article (complete 31-note apparatus,
   read in the literature) cites no Ossolineum manuscript and ends before
   1798 - it contributes context only.
 - What would reopen the identification: the printed PSB volume's footnote
@@ -4463,11 +4463,11 @@ footer on every page. Changed, in both languages:
 - The editor: "There's no missing PSB footnote apparatus; I've provided
   the entire article. You got as much info about the Ossolineum source
   that exists." The suggestion that a printed footnote apparatus of PSB
-  t. 27 could settle what Pachoński took from rkp. 2289/II was wrong and
+  t. 27 could settle what PachoÅ„ski took from rkp. 2289/II was wrong and
   is struck from the record: a PSB entry carries its sources as a
   general list, with no per-claim notes, and the file the edition holds
   is the entire article. The citation in that list is everything
-  Pachoński gives about the manuscript - what he took from the codex,
+  PachoÅ„ski gives about the manuscript - what he took from the codex,
   and for which claim, is not recoverable from what he printed.
 - Worked into about.md/about_de.md, the holding's notes.md and
   NEEDS_CONFIRMATION. The reopening conditions are now only: an
@@ -4481,7 +4481,7 @@ footer on every page. Changed, in both languages:
 - The editor: "There is no name in 0033-0034. There is no inventory card
   beyond the link that I shared with you - so this is all that we have."
   The two remaining reopening paths of the previous entries are gone:
-  the codex's own index of letters names no addressee for the Kościuszko
+  the codex's own index of letters names no addressee for the KoÅ›ciuszko
   letter (the editor's reading of leaves 0033-0034), and the library's
   record for the codex is the catalogue entry the editor shared, which
   describes the contents no further than its title.
@@ -4498,7 +4498,7 @@ footer on every page. Changed, in both languages:
   with the punishing details". The length sat in the published line, which
   reused the work page's full `published:` and had collected excerpt spans,
   reissue and digitisation citations, year-inference notes, licences, ISBNs
-  and production credits. Standing rule (LITERATURE_PLAN.md §33,
+  and production credits. Standing rule (LITERATURE_PLAN.md Â§33,
   HOUSE_STYLE "Concision"): a card gives the original imprint or
   first-publication citation and a one- or two-sentence brief; everything
   about how the site holds the work stays on the work's own page.
@@ -4511,16 +4511,68 @@ footer on every page. Changed, in both languages:
   (karwowski1900, werner1904, zychlinski1885, zychlinski1891,
   breyer1935gaue), both languages. Card titles carrying excerpt detail
   (dean2012warthegau, zychlinski both, janocki1779, boniecki1900) left for
-  the editor's ruling (LITERATURE_PLAN.md §33).
+  the editor's ruling (LITERATURE_PLAN.md Â§33).
 
+## 2026-11-02: the yard analysis and the farm-polygon tool (scratch/map4456, committed by exception)
+
+- The homestead-yard page (yard_map.html, built by build_yard_map.py) grew
+  through the marking sessions: number changes on tags, the click-outside
+  deselect and the fixed active-farm height (no shifting panel), the L
+  all-labels toggle as a Layers button row moved to the sidebar's top, [?]
+  uncertain reads accepted in the change field, the note-after-save attach,
+  added numbers (A: drag a box round the red number, a click marks the
+  spot, Enter -> the tag on the map), and the uncertain-numbers queue —
+  the [?] tags walked one at a time with the neighbouring confident tags
+  as context, a suggestion from the nearest neighbour, comments, and
+  read-is-right/uncertain/use-suggestion marks; fixed entries leave the
+  list (64 of 117 left).
+- The tag scheme settled: red on semi-transparent white (confident), solid
+  yellow (the read carries [?]); purple and the purple review retired —
+  the uncertain queue replaces it. The export's red_fixes are baked into
+  the page data at build, the build auto-refreshes yards_read.json from
+  Downloads and relinks the yards whose tag fix moved.
+- yard_analysis.py (new): the yard test per farm — a piece's figure, or a
+  subset sum of the pieces, against the statement's buildings-and-gardens
+  column; near-sums (a stroke in a read), one-digit slips, exact matches
+  on other rows with distances (the forest caution: neighbouring pieces
+  of forest carry different numbers), the elimination (a confident figure
+  fitting no row), the unread-piece gap. Rulings over 74 farm claims:
+  29 confirmed, 7 near-fit, 7 weak, 2 wrong (farms 3 and 4), the rest
+  open or untestable. Output: yard_analysis.json.
+- The rulings ride the yard page: green solid, light-green near-fit,
+  yellow weak, red wrong — each with a why in the sidebar's Ruling box.
+- 87 -> 82 corrected at the editor's word: the yard "1. 288" at
+  (5329, 6913) is farm 82's (Rogatskii Stanislav) — the buildings figure
+  288 exact and the red-82 site 594 px away, closing the farm-15 probe.
+- The southwest row re-read at the editor's word: 5, 10, 25, 25, 29 ->
+  5, 10, 25, 29, [9?]7 (the 25 that had been corrected away from the OCR's
+  29 restored; the last 29 was the catalogue's [8?]9).
+- build_farm_polygons.py + farm_polygons.html (new): the farm-polygon
+  tool, first stone of the updated vector map — polygons drawn per farm
+  (D, vertices, U, Enter, Esc), a clicked tag choosing the farm for the
+  next polygon, tags renumberable on the page with the polygons following
+  the renumbering, vertex and edge editing (drag a vertex, drag anywhere
+  on an edge to insert, click a vertex + Delete, Ctrl+Z undo of 50
+  steps), the farms list shaded by the polygon area against the
+  statement's row total (green approaching 100%, red past it,
+  logarithmically deepening through 2x), the missing-from-the-map box,
+  the black-number sites as a layer, the wheel forwarded to the viewer
+  over the polygons (a synthetic wheel on the canvas — Firefox's event
+  ordering handled), the areas approximate (~0.4 m/px, 28.4 px2/saz).
+- The rows without confident tags, the next pass's targets: 88 (German
+  Voitsekh) and 90 (Rogovich Martin) — no tags at all; 19, 40, 48, 64,
+  89, 94, 96 — only uncertain ones. The parcel-sum plan (the plots' D-S
+  labels summed per red cluster against the row totals) named in
+  maps/pelzucki1896/notes.md as the road to close them, with the
+  measurement-register search at APL 39/98 as the shortcut.
 ## 2026-11-01: the card titles ruled - `title_card`
 
 - The editor: "I don't need to see page numbers in the title cards." Six
   titles and four English titles carried the page span of what the site
   holds; each got `title_card:` / `title_en_card:` beside its full `title:`
-  / `title_en:` (the work's own title alone, e.g. "Złota księga szlachty
-  polskiéj, rocznik VII"), carried into the site data by `card_extra()` and
+  / `title_en:` (the work's own title alone, e.g. "ZÅ‚ota ksiÄ™ga szlachty
+  polskiÃ©j, rocznik VII"), carried into the site data by `card_extra()` and
   rendered by the same `| default:` fallback as `published_card`. The work
   pages keep the full titles (the account there says what is given). The
   Minakowska person IDs stay: the database's identification, not a page
-  span. LITERATURE_PLAN.md §33 records the ruling.
+  span. LITERATURE_PLAN.md Â§33 records the ruling.
