@@ -604,7 +604,7 @@
      "piece": "1. -108",
      "row": 84,
      "name": "heirs of Shtirtsenbekera",
-     "dist": 9317,
+     "dist": 6776,
      "kind": "near",
      "edits": 1
     },
@@ -2343,7 +2343,6 @@
   96
  ],
  "resolved": {
-  "[5?]0": "the claim [5?]0 resolves to row 50 — the mark sits on its red tag",
   "[3?]1": "the claim [3?]1 resolves to row 31 — the mark sits on its red tag",
   "7[3?]": "the claim 7[3?] resolves to row 73 — the mark sits on its red tag"
  },
@@ -3244,6 +3243,16 @@
     12718
    ]
   ],
+  "84": [
+   [
+    4658,
+    7652
+   ],
+   [
+    3218,
+    8753
+   ]
+  ],
   "14": [
    [
     4220,
@@ -3670,12 +3679,6 @@
    [
     14383,
     12427
-   ]
-  ],
-  "84": [
-   [
-    3218,
-    8753
    ]
   ],
   "86": [
