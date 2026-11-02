@@ -25,6 +25,12 @@ script, and the footnotes that cite it become links.
   Gr.136, three entries of 53/6/0/-/17). Pyzdry Gr.75 is deferred by the
   editor.
 - **Oe 1 Bü 9454, letters 121, 181, 225 and 293**: in the holding without text.
+- **Jan Wąsicki, *Powstanie kościuszkowskie w Wielkopolsce*** (Poznań 1957):
+  the later, scholarly successor of Muszyńska-Zygmańska (1947), which the
+  edition holds; named in the source list of Pachoński's PSB entry on Antoni
+  Prusimski (`literature/pachonski1982`). The context work for the
+  `insurgency` era and for the 1794 flight that closes the Prusimski era
+  (the era's blurb is still a working text).
 - **"Der evangelische Friedhof in Łazińsk Drugi"**, Arbeitsgemeinschaft
   Ostdeutscher Familienforscher, https://agoff.de/?p=83943 (Jürgen
   Frantz, 31 July 2016): members-only — the page's notice reserves it to
