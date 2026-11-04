@@ -20,13 +20,13 @@ Preliminary terms record a sale of Witów to Martin Honrichs and Valentin von Kw
 
 #### Trąbczyn and Zagórów
 
-Most of the contracts were made before the patrimonial court of the Trąbczyn estates, with Triebenfeld acting for Hohenlohe-Ingelfingen. Six grant single holdings of between one and six Hufen to named lessees [[6, 7, 8, 11, 12, 14]]. Others cover larger areas: 20 Hufen to the district administrator Tschachmann, with the right to resell in parcels; 270 Hufen at Trąbczyn, Łazy, Osiny and Przybysław to named settlers; and the farm of Althütte to six settlers, in two contracts [[13, 15, 16, 17]]. A contract for land at Drzewce is filed with its cancellation three months later [[10]]. The farm of Kopojno was let for six years, from 1805 to 1811 [[9]]. A separate grant conveys the manor house at Swięcia [[20]].
+Most of the contracts were made before the patrimonial court of the Trąbczyn estates, with Triebenfeld acting for Hohenlohe-Ingelfingen. Six grant single holdings of between one and six Hufen to named lessees [[6, 7, 8, 11, 12, 14]]. Others cover larger areas: 20 Hufen to the bailiff Tschachmann, with the right to resell in parcels; 270 Hufen at Trąbczyn, Łazy, Osiny, Nowawies and Przybysław to named settlers; and the farm of Althütte to six settlers, in two contracts [[13, 15, 16, 17]]. A contract for land at Drzewce is filed with its cancellation three months later [[10]]. The farm of Kopojno was let for six years, from 1805 to 1811 [[9]]. A separate grant conveys the manor house at Swięcia [[20]].
 
-The hereditary leases share a set of terms: entry money and an annual rent, the lessee's liability for taxes, an obligation to buy drink from the lordship and to use its mill, a fee of one tenth on any later sale, and forfeiture after two years' arrears [[8, 11, 13]].
+The hereditary leases share a set of terms: entry money and an annual rent, the lessee's liability for taxes, an obligation to buy drink from the lordship, a fee of one tenth on any later sale, and forfeiture after two years' arrears [[8, 11, 13]].
 
 #### Szetlewek
 
-Glenck sold the farm of Szetlewek to the miller Samuel Lucke for 12,333 Rthl, of which 8,333 Rthl went to the holder of a pledge on the estate, von Radzinski [[25]]. Three further documents concern an earlier agreement of 20 November 1798 for settling the estate, its cancellation, and the dispute with the pledge holder [[26, 27, 28]].
+Glenck sold the farm of Szetlewek to the miller Samuel Lucke for 12,333 Rthl, of which 8,333 Rthl was to go to the holder of a pledge on the estate, von Radzinski [[25]]. Three further documents concern an earlier agreement of 20 November 1798 for settling the estate, its cancellation, and the dispute with the pledge holder [[26, 27, 28]].
 
 Powers of attorney, royal confirmations and notarial certifications are filed with the contracts they belong to and form part of the same document. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
 

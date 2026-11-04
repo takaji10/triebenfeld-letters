@@ -1,7 +1,7 @@
-One page of a register of the grod court and office of Pyzdry, kept in the
+One page of a register of the municipal court and office of Pyzdry, kept in the
 State Archive in Poznań (Archiwum Państwowe w Poznaniu) in the fond "Księgi
-sądu i urzędu grodzkiego w Pyzdrach", the court books of the grod court and
-office of Pyzdry. The archive calls the volume "Relationes [protocollon]
+sądu i urzędu grodzkiego w Pyzdrach", the court books of the municipal court
+and office of Pyzdry. The archive calls the volume "Relationes [protocollon]
 1791-1792"; the page here is page 543 of it, on the editor's own trim of the
 photographed page. <!-- context -->
 
@@ -9,16 +9,16 @@ photographed page. <!-- context -->
 
 The archive describes the fond's contents as resignations, inscriptions,
 relations, judgments, oblates, registers of cases, plenipotencies and
-dissoluta. The grod court took shape at the end of the fourteenth century
+dissoluta. The municipal court took shape at the end of the fourteenth century
 and, as concerned the nobility, took within its competence the criminal
 matters of the so-called four grod articles: arson, attack on a nobleman's
 house, robbery on a public road, and rape. In time its competence changed
 and came to cover the remaining criminal matters as well, and also matters
 of land and of sums of money, and it took over the right of appeal from the
-town courts. Beside the court there developed the grod office, where the
+town courts. Beside the court there developed the municipal court office, where the
 court books were kept; the office was open every day for entries of
 uncontested matters, and the books had the force of the so-called public
-faith. <!-- context -->
+faith (wiara publiczna). <!-- context -->
 
 ### Contents
 

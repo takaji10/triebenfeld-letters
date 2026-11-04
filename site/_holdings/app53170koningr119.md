@@ -27,7 +27,7 @@ Most of the entries are court messengers' reports: the messenger came to the off
 
 **A search in 1784.** On 15 September 1784 Maszewski, now styled commissioner of the Trąbczyn estates, asked whether the report of a citation of Chełmski's before the Crown Tribunal, brought to Trąbczyn a week earlier, had been declared; the office certified that it had not <span class="cite">[<a href="{{ '/documents/app53170koningr119/8/' | relative_url }}">8</a>]</span>.
 
-**Dating.** Four entries have no dated heading of a sitting above them: one is dated from the heading higher on its page, three to the month from the citation they report, the headings before and after, or the land court's decree; each says so. <!-- context -->
+**Dating.** Five entries have no dated heading of a sitting above them: one is dated from the heading higher on its page, four to the month from the citation they report, the headings before and after, or the land court's decree; each says so. <!-- context -->
 
 ### Related holdings
 

@@ -13,7 +13,7 @@ A file of the Prussian central administration for South Prussia, kept in the Geh
 
 ### Historical background
 
-South Prussia was the province formed from Prussia's share of the second and third partitions of Poland. After the uprising of 1794 the crown confiscated the estates of landowners who had taken part in it. In 1796 a number of these estates, with others that had fallen vacant, were granted to officers and officials. The grants were proposed by Count Hoym, the minister responsible for Silesia and South Prussia. <!-- context -->
+South Prussia was the province formed from Prussia's share of the first and second partitions of Poland. After the uprising of 1794 the crown confiscated the estates of landowners who had taken part in it. In 1796 a number of these estates, with others that had fallen vacant, were granted to officers. The grants were proposed by Count Hoym, the minister responsible for Silesia and South Prussia. <!-- context -->
 
 ### Contents
 

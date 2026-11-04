@@ -6,7 +6,7 @@ A visitation was the inspection of a parish on behalf of its bishop. The record 
 
 In 1791 the village of Trąbczyn and the villages of its parish belonged to Antoni Prusimski, Starost of Niszczewice, who was also the patron of the church and had presented its priest [[1]].
 
-In 1793 Prussia took the region in the Second Partition of Poland, and in 1796 the King gave Prusimski's confiscated estate to the Prince of Hohenlohe-Ingelfingen. The visitation is therefore the last account of the parish under the Prusimski family before the Prussian years. <!-- context -->
+In 1793 Prussia took the region in the Second Partition of Poland, and in 1796 the King gave Prusimski's confiscated estate to the Prince of Hohenlohe-Ingelfingen. It is the edition's last account of the parish under the Prusimski family before the Prussian years. <!-- context -->
 
 ### Contents
 

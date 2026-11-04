@@ -2,7 +2,7 @@ The file of the liquidation table of the village "Колонія Лазинск�
 
 ### Historical background
 
-The Russian ukases of 19 February (2 March) 1864 made the peasants of the Kingdom of Poland owners of the land they farmed. For each village a liquidation table recorded the farmsteads, their land, the dues the government would compensate, and the capital owed to the former owner; the peasants kept their servitudes, rights of pasture and wood in the manor forest, which were later bought out or exchanged for land. The Kalisz commission for peasant affairs, from 1870 the governorate board, drew up and kept these tables and entered later changes in them. The Łazińsk colony was one of the two Olęder colonies founded on the Trąbczyn estate, whose settlers had gone to law with Count Włodzimierz Miączyński over the same forest in 1859 and 1860, [[unit:app539680783]]. <!-- context -->
+The Russian ukases of 19 February (2 March) 1864 made the peasants of the Kingdom of Poland owners of the land they farmed. For each village a liquidation table recorded the farmsteads, their land, the dues the government would compensate, and the capital owed to the former owner; the peasants kept their servitudes, rights of pasture and wood in the manor forest, which were later bought out or exchanged for land. The Kalisz commission for peasant affairs, later the governorate board, drew up and kept these tables and entered later changes in them. The Łazińsk colony was one of the two Olęder colonies founded on the Trąbczyn estate, whose settlers had gone to law with Count Włodzimierz Miączyński over the same forest in 1859 and 1860, [[unit:app539680783]]. <!-- context -->
 
 ### Contents
 

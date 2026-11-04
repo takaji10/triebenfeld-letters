@@ -1,4 +1,4 @@
-Zwei kleine Schulhefte mit Feldnotizen in deutscher Sprache, mit Bleistift geschrieben von Albert Breyer (1889-1939), Lehrer an der deutschen Schule in Sompolno und Erforscher der deutschen Siedlungen in Mittelpolen. Sie liegen im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu) in seinem Nachlass, in einem Bündel seiner Notizhefte, das das Archiv „Notizen zu Grodziec, Józefów, Zameń und Łazińsk“ nennt. Dieser Bestand sind zwei davon, beide vom Juli 1936: das Heft über Łazińsk und Emilienheim, 35 Seiten mit den Umschlägen, und das Heft mit der Aufschrift „V. Grodziec Juli 1936“, 25 Seiten, das von denselben Orten und ihren Nachbarn handelt. <!-- context -->
+Zwei kleine Schulhefte mit Feldnotizen in deutscher Sprache, mit Bleistift geschrieben von Albert Breyer (1889-1939), Lehrer an der deutschen Schule in Sompolno und Erforscher der deutschen Siedlungen in Mittelpolen. Sie liegen im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu) in seinem Nachlass, in einem Bündel seiner Notizhefte, das das Archiv „Notizen zu Grodziec, Józefów Zament und Łazińsk“ nennt. Dieser Bestand sind zwei davon, beide vom Juli 1936: das Heft über Łazińsk und Emilienheim, 35 Seiten mit den Umschlägen, und das Heft mit der Aufschrift „V. Grodziec Juli 1936“, 25 Seiten, das von denselben Orten und ihren Nachbarn handelt. <!-- context -->
 
 ### Historischer Hintergrund
 
@@ -6,7 +6,7 @@ Zwei kleine Schulhefte mit Feldnotizen in deutscher Sprache, mit Bleistift gesch
 
 ### Inhalt
 
-Der Umschlag ist auf Juli 1936 datiert und nennt Łazinsk und Emilienheim [[1]]. Unter der Überschrift „Kolonja Łazińsk“ steht der Stempel des Schulzen der Gemeinde Trąbczyn, und die folgenden Notizen geben der Kolonie 2040 Morgen und 250 Wirte. Um 1880, mit Fragezeichen, erhielt die Kolonie Servitute vom Gut Trąbczyn; sie wurden beim Notar dem alten Land zugeschrieben und sind hoch besteuert [[1]].
+Der Umschlag ist auf Juli 1936 datiert und nennt Łazinsk und Emilienheim [[1]]. Unter der Überschrift „Kolonja Łazińsk“ steht der Stempel des Schulzen der Kolonie Łazińsk in der Gemeinde Trąbczyn, und die folgenden Notizen geben der Kolonie 2040 Morgen und 250 Wirte. Um 1880, mit Fragezeichen, erhielt die Kolonie Servitute vom Gut Trąbczyn; sie wurden beim Notar dem alten Land zugeschrieben und sind hoch besteuert [[1]].
 
 Breyer fragt zweimal, wann das Restgut Trąbczyn parzelliert wurde. Jesse kaufte es, und es heißt heute Włodzimierow [[1]]. Er notiert, wie das Land von Michalinów in Baustücke, Kaveln und Wiesen geteilt ist, das Land des Schulzen und der Schule, und die Bodenklassen von Emilienheim, zusammen 337 Morgen [[1]].
 

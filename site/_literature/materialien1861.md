@@ -5867,7 +5867,7 @@ The shameless fraud in the accompanying valuation is proven; for the estate Kuch
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
-<p>The Kalisch section's entry lists Trombczyn, Nowa-Wies, Oswiery, Lazy and Szetlewek at 12000 Thlr. — the very villages the deed of 9 August 1796 grants the Prince, confiscated from Prusimski. With the Posen entry's 77250 Thlr. the register's official valuation of the whole gift comes to 89,250 Thlr., where Hoym's proposal of 14 July 1796 had counted all the Prince's items at 120,000 rt; and where the register prints a valuation, the letters give a yield: Triebenfeld reports the Trąbczyn estates alone bringing 8,400 rt by March 1799.</p>
+<p>The Kalisch section's entry lists Trombczyn, Nowa-Wies, Oswiery, Lazy and Szetlewek at 12000 Thlr. — villages of the grant the deed of 9 August 1796 makes the Prince, confiscated from Prusimski (the deed adds Alt and Neu Laske and the Hauland of Trąbczyn, which the row does not name). With the Posen entry's 77250 Thlr. the register's official valuation of the whole gift comes to 89,250 Thlr., where Hoym's proposal of 14 July 1796 had counted all the Prince's items at 120,000 rt; and where the register prints a valuation, the letters give a yield: Triebenfeld reports the Trąbczyn estates alone bringing 8,400 rt by March 1799.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
 </aside>{% raw %}
 </section>

@@ -8,11 +8,11 @@ Südpreußen war die Provinz, die aus dem preußischen Anteil an der zweiten und
 
 #### Die Verleihung von 1796
 
-Die Urkunde vom 9. August 1796 verleiht Hohenlohe-Ingelfingen die Stadt Kamionna und den Marktflecken Kolno im Kreis Poznań, die Dörfer Trąbczyn, Szetlewek, Nowawies, Łazy, Alt und Neu Laski, Osiny und das Trąbczyner Hauland im Kreis Konin sowie Brzyce in Kujawien [[1, 2, 3, 4]]. Sie ist hier in drei Abschriften überliefert [[1, 3, 4]]. Die Güter waren Anton von Prusimski wegen seiner Teilnahme am Aufstand von 1794 konfisziert worden [[12]]. Ein Schreiben des Grafen Hoym, des für die Provinz zuständigen Ministers, teilt die Entscheidung des Königs mit, veranschlagt den jährlichen Ertrag der Güter auf 4.000 Thaler und empfiehlt einen Verwalter [[39]].
+Die Urkunde vom 9. August 1796 verleiht Hohenlohe-Ingelfingen die Stadt Kamionna und den Marktflecken Kolno im Kreis Poznań, die Dörfer Trąbczyn, Szetlewek, Nowawies, Łazy, Alt und Neu Laski, Osiny und das Trąbczyner Hauland im Kreis Konin sowie Brzyce in Kujawien [[1, 2, 3, 4]]. Sie ist hier in drei Abschriften überliefert [[1, 3, 4]]. Die Güter waren Anton von Prusimski wegen seiner Teilnahme am Aufstand von 1794 konfisziert worden [[12]]. Ein Schreiben des Grafen Hoym, des für die Provinz zuständigen Ministers, teilt die Entscheidung des Königs mit, veranschlagt den jährlichen Ertrag der Güter auf mindestens 4.000 Thaler und empfiehlt einen Verwalter [[39]].
 
 #### Die Verleihungen von 1797
 
-Eine zweite Urkunde, vom 19. Juni 1797, verleiht sechzehn vormals geistliche Dörfer, darunter Pszczew, Zagórów, Kopojno, Drzewce und Wrąbczyn. Als Grund nennt sie, dass sich die Güter Prusimskis als hoch verschuldet erwiesen hatten [[5, 8, 9, 10, 16, 17, 22]]. Eine Deklaration vom 1. Dezember 1797 fügt die Zubehörungen der Güter Pszczew, Zagórów und Wieniec hinzu [[6, 7, 11, 16, 18]]. Beide Verleihungen stehen unter der Auflage einer festen jährlichen Abgabe an die Krone und des Unterhalts der früheren geistlichen Besitzer [[5, 6]].
+Eine zweite Urkunde, vom 19. Juni 1797, verleiht sechzehn vormals geistliche Dörfer, darunter Pszczew, Zagórów, Kopojno, Drzewce und Wrąbczyn. Als Grund nennt sie, dass sich die Güter Prusimskis als hoch verschuldet erwiesen hatten [[5, 8, 9, 10, 17, 22]]. Eine Deklaration vom 1. Dezember 1797 fügt die Zubehörungen der Güter Pszczew, Zagórów und Wieniec hinzu [[6, 7, 11, 18]]. Beide Verleihungen stehen unter der Auflage einer festen jährlichen Abgabe an die Krone und des Unterhalts der früheren geistlichen Besitzer [[5, 6]].
 
 #### Übergabe der Güter
 
@@ -26,7 +26,7 @@ Der Schriftwechsel über die Eintragung richtet sich überwiegend an Glenck, den
 
 #### Taxen
 
-Der Band enthält eine Taxe von Kamionna und Kolno, eine Taxe ihres Forstes und eine gerichtliche Taxe von Szetlewek, die einen Bruttowert von 34.803 Rthl angibt [[13, 14, 23]]. Ein weiteres Dokument ist ein beschädigter Vermerk, von dem wenig zu lesen ist [[24]].
+Der Band enthält eine Taxe von Kamionna und Kolno, den Schluss der Taxe von Kamionna und Kolno, mit einer Rechnung, was die Güter gewinnen würden, wenn ein Teil ihres Forstes abgetrennt und besiedelt würde, und eine gerichtliche Taxe von Szetlewek, die einen Bruttowert von 34.803 Rthl angibt [[13, 14, 23]]. Ein weiteres Dokument ist ein beschädigter Vermerk, von dem wenig zu lesen ist [[24]].
 
 Da die meisten Dokumente beglaubigte Abschriften sind, sind Datum und Ort eines Dokuments oft die der Beglaubigung und nicht die der abgeschriebenen Urkunde. Mehrere Urkunden erscheinen mehrfach, als eigene Abschriften mit eigener Beglaubigung. Die Dokumente behalten die Zählung des Archivs, die nicht ihren Daten folgt. <!-- context -->
 

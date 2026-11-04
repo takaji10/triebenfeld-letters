@@ -6,7 +6,7 @@ Hohenlohe-Ingelfingen held the Trąbczyn estates in South Prussia by a royal gra
 
 ### Contents
 
-The record of the court, dated 31 March 1806, sets out the contract. Triebenfeld, as authorised agent of Hohenlohe-Ingelfingen, grants Christoph Erbet of the Trąbczyn Hauland one Hufe, Magdeburg measure, in the Trąbczyn forest for 100 Rthl entry money and an annual rent of 30 Rthl [[1]]. The first three years are free of rent, and the first payment, of 15 Rthl, falls due at Christmas 1809 [[1]]. The court's order of 23 May 1806 directs that the contract be issued [[1]].
+The record of the court, dated 31 March 1806, sets out the contract. Triebenfeld, as authorised agent of Hohenlohe-Ingelfingen, grants Christoph Erbet of the Trąbczyn Hauland one Hufe, Magdeburg measure, in the Trąbczyn forest for 100 Rthl entry money and an annual rent of 30 Rthl [[1]]. The first three years are free of rent for the quite-unimproved acre, and the first payment, of 15 Rthl, falls due at Christmas 1809 [[1]]. The court's order of 23 May 1806 directs that the contract be issued [[1]].
 
 Filed with the contract are the general power of attorney given to Triebenfeld on 19 February 1805, in a certified copy, and the issued contract with its covering notes to both parties [[1]]. A letter of 1811, in Polish, records that an official, Hawich, handed the file to the peace court of the Konin district and asked that costs of 9 Rthl 18 dgl be recovered from Erbet [[1]].
 

@@ -13,6 +13,7 @@ were true when they were written.
 | [NEW_UNIT.md](NEW_UNIT.md) | Taking a new holding from scans to published pages. |
 | [HOUSE_STYLE.md](HOUSE_STYLE.md) | How everything written about the documents is written. The editor's standing rulings on prose. |
 | [CONNECTIONS.md](CONNECTIONS.md) | How documents are tied to each other and to the sources around them: the four kinds of connection and where each lives, the method for finding them, and the Connections step every adding-a-source procedure carries. |
+| [FAITHFULNESS_REVIEW_PROMPT.md](FAITHFULNESS_REVIEW_PROMPT.md) | The standing prompt for an agent that reviews the translations, summaries and connections against the sources: what it may assert, what evidence every finding needs, how a proposal is voiced, and what it writes where. |
 | [EDITORS_VOICE.md](EDITORS_VOICE.md) | The editor's own voice, from four samples of their writing (the fourth, index entries, with a brief of its own): an analysis and a two-paragraph brief, for a later reading of the site's prose. Where it differs from HOUSE_STYLE, the house style stands until the editor rules. |
 | [DEPLOY.md](DEPLOY.md) | How the site is hosted and what blocks a deploy. |
 | [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md) | Open questions, still live. |

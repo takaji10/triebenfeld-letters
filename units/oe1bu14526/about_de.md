@@ -20,13 +20,13 @@ Eine Punktation hält den Verkauf von Witów an Martin Honrichs und Valentin von
 
 #### Trąbczyn und Zagórów
 
-Die meisten Verträge wurden vor dem Patrimonialgericht der Trąbczyner Güter geschlossen; Triebenfeld handelte für Hohenlohe-Ingelfingen. Sechs überlassen einzelne Stellen von einer bis sechs Hufen an namentlich genannte Pächter [[6, 7, 8, 11, 12, 14]]. Andere betreffen größere Flächen: 20 Hufen an den Landrat Tschachmann, mit dem Recht, sie stückweise weiterzuverkaufen; 270 Hufen in Trąbczyn, Łazy, Osiny und Przybysław an namentlich genannte Siedler; und das Vorwerk Althütte an sechs Siedler, in zwei Verträgen [[13, 15, 16, 17]]. Einem Vertrag über Land in Drzewce liegt seine Aufhebung drei Monate später bei [[10]]. Das Vorwerk Kopojno wurde auf sechs Jahre verpachtet, von 1805 bis 1811 [[9]]. Eine eigene Urkunde überträgt das herrschaftliche Wohnhaus in Swięcia [[20]].
+Die meisten Verträge wurden vor dem Patrimonialgericht der Trąbczyner Güter geschlossen; Triebenfeld handelte für Hohenlohe-Ingelfingen. Sechs überlassen einzelne Stellen von einer bis sechs Hufen an namentlich genannte Pächter [[6, 7, 8, 11, 12, 14]]. Andere betreffen größere Flächen: 20 Hufen an den Amtmann Tschachmann, mit dem Recht, sie stückweise weiterzuverkaufen; 270 Hufen in Trąbczyn, Łazy, Osiny, Nowawies und Przybysław an namentlich genannte Siedler; und das Vorwerk Althütte an sechs Siedler, in zwei Verträgen [[13, 15, 16, 17]]. Einem Vertrag über Land in Drzewce liegt seine Aufhebung drei Monate später bei [[10]]. Das Vorwerk Kopojno wurde auf sechs Jahre verpachtet, von 1805 bis 1811 [[9]]. Eine eigene Urkunde überträgt das herrschaftliche Wohnhaus in Swięcia [[20]].
 
-Die Erbpachtverträge haben gemeinsame Bedingungen: Einstandsgeld und jährlicher Zins, die Haftung des Pächters für die Abgaben, die Pflicht, Getränke von der Herrschaft zu beziehen und in ihrer Mühle mahlen zu lassen, eine Abgabe von einem Zehntel bei jedem späteren Verkauf und der Verlust der Stelle nach zwei Jahren Rückstand [[8, 11, 13]].
+Die Erbpachtverträge haben gemeinsame Bedingungen: Einstandsgeld und jährlicher Zins, die Haftung des Pächters für die Abgaben, die Pflicht, Getränke von der Herrschaft zu beziehen, eine Abgabe von einem Zehntel bei jedem späteren Verkauf und der Verlust der Stelle nach zwei Jahren Rückstand [[8, 11, 13]].
 
 #### Szetlewek
 
-Glenck verkaufte das Vorwerk Szetlewek an den Müller Samuel Lucke für 12.333 Rthl, von denen 8.333 Rthl an den Pfandinhaber des Gutes, von Radzinski, gingen [[25]]. Drei weitere Dokumente betreffen eine frühere Vereinbarung vom 20. November 1798 über die Besiedlung des Gutes, ihre Aufhebung und den Streit mit dem Pfandinhaber [[26, 27, 28]].
+Glenck verkaufte das Vorwerk Szetlewek an den Müller Samuel Lucke für 12.333 Rthl, von denen 8.333 Rthl an den Pfandinhaber des Gutes, von Radzinski, gehen sollten [[25]]. Drei weitere Dokumente betreffen eine frühere Vereinbarung vom 20. November 1798 über die Besiedlung des Gutes, ihre Aufhebung und den Streit mit dem Pfandinhaber [[26, 27, 28]].
 
 Vollmachten, königliche Bestätigungen und notarielle Beglaubigungen liegen bei den Verträgen, zu denen sie gehören, und sind Teil desselben Dokuments. Die Dokumente behalten die Zählung des Archivs, die nicht ihren Daten folgt. <!-- context -->
 

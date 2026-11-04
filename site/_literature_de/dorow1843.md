@@ -220,7 +220,7 @@ Meanwhile in the course of time all the starosties and clerical estates had been
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
-<p>Die Denkschrift schließt auf den Lohn ihres Helden: Hoym belobt, und der Patriot „hatte für seine Mühe und Kosten nichts bekommen", obwohl es seine Stelle war, die die Kabinettsorderen, womit die konfiszierten Güter verschenkt wurden, beiseite setzte. Die Briefe zeigen, was dieselbe Laufbahn bis dahin gemacht hatte: die an den Prinzen Georg verkauften Güter mit 270.000 rt Schulden bei einem Preis von 280.000 beschwert (Juli 1800) und für 750.000 weiterverkauft (Februar 1801) — ihr Schreiber bittet, vor der Verhaftung bewahrt zu bleiben.</p>
+<p>Die Denkschrift schließt auf den Lohn ihres Helden: Hoym belobt, und der Patriot bekam ‚für seine Bemühung und Kostenaufwand weiter nichts als die Erlaubniß, sich im Stillen zu freuen und im Staube anzubeten', obwohl es seine Stelle war, die die Kabinettsorderen, womit die konfiszierten Güter verschenkt wurden, beiseite setzte. Die Briefe zeigen, was dieselbe Laufbahn bis dahin gemacht hatte: die an den Prinzen Georg verkauften Güter mit 270.000 rt Schulden bei einem Preis von 280.000 beschwert (Juli 1800) und für 750.000 weiterverkauft (Februar 1801) — ihr Schreiber bittet, vor der Verhaftung bewahrt zu bleiben.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
 </aside>{% raw %}
 </section>

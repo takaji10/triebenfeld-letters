@@ -1,0 +1,6 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,4,break,high,short_line,0.31,16,51,1798. 3 Wreznia.,List Tadeusza Kościuszki
+1,5,break,high,short_line+column,0.47,24,51,List Tadeusza Kościuszki,Obywatelu!
+1,6,break,high,short_line,0.2,10,51,Obywatelu!,Odebrałem list twóy Sz[anowny] Ob[ywatel]u z Dreźna
+1,27,break,high,short_line,0.71,36,51,przychylności y szacunku dla siebie.,T. Kościuszko.
+1,28,break,high,short_line,0.27,14,51,T. Kościuszko.,z P[aryża]. d. 3 Września 98

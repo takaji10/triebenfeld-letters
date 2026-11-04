@@ -4576,3 +4576,41 @@ footer on every page. Changed, in both languages:
   pages keep the full titles (the account there says what is given). The
   Minakowska person IDs stay: the database's identification, not a page
   span. LITERATURE_PLAN.md Â§33 records the ruling.
+
+## 2026-11-04: the faithfulness review - translations, summaries and links held to their sources
+
+- The standing prompt written first (docs/FAITHFULNESS_REVIEW_PROMPT.md): what a review
+  agent may assert, the evidence every finding needs (quotation on both sides, or it is
+  not a finding), the corpus-then-scan order of ground truth, the settled rulings
+  respected, findings by severity (error / likely error / worth checking), proposals in
+  the house voice and never applied by the reviewer.
+- All 51 holdings reviewed in four passes - summaries (EN+DE), about pairs, translations,
+  links: 178 findings (27 errors, 28 likely errors, 123 worth checking), reports and the
+  filterable selection sheet under review/faithfulness/ (gitignored, rebuilt by
+  make_html.py from the per-unit reports).
+- The editor chose 177 findings in the sheet and the approved proposals were applied
+  where they carried wording (~150; the conditional ones - none until a reading is
+  settled - left as drafted, each logged under review/faithfulness/tmp/impl/):
+  translations in the cache and republished (--force; --tag v2 for the four v2-bound
+  units), summaries in cache and site/_data in sync (the build cannot carry them - the
+  in-session pads have no cache entry), about pairs and the three link files in place.
+- Headline corrections: oe1bu14525 Seiner Liebden rendered as direct address in eight
+  letters (His Lordship restored) and the Pszczew-or-Pszczew formula in five more
+  (Pszczew, called Betsche); oe1bu14526-018 the 7,000-Rthl instalment read as 1,000
+  (scan and twin document settle it); app536040 six thousand shingles read as a hundred
+  threescore; oe1bu9454-285 the grantee reversed in both summaries - the King granted
+  Kamionna to the Prince, not to Prusimski; app5320pozgr1181 Inowrocław and the
+  5,500 florins restored; oe1bu9454 about pair missing the majorat's Oppurg;
+  ihagrrep7cnr3705 and iharep162nr295 about claims their own deeds contradict;
+  iiihamdaiiinr12765 doc 6 ruled to the house form (ecus-reichsthaler) with the
+  summaries corrected to match the ruling; the literature links' Zychliński
+  three-brothers and Rostworowski signature claims corrected, the connections.yml
+  header comment's false NEEDS_CONFIRMATION claim dropped.
+- One judgment call recorded: iiihamdaiiinr12367-007's good-groschen proposal trimmed
+  to the four bushel prices the corpus actually writes ggr. on; the Rthl conversion
+  line reads plain gr. and stands.
+- Rebuilt by replaying regenerate.py's steps with the pipeline self-check skipped
+  (pre-existing debt, WORKING_NOTES); check_unit_text caught one em dash the fix
+  agents had introduced (app536047) and it was set to the spaced en dash; verify_site
+  ALL CHECKS PASSED - 631 documents character-exact, 61,579 internal links, 302
+  hand-made links and 8 cross-holding connections checked on both sides.

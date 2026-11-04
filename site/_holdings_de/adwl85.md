@@ -17,7 +17,7 @@ Eine Visitation war die Besichtigung einer Pfarrei im Auftrag ihres Bischofs. De
 
 1791 gehörten das Dorf Trąbczyn und die Dörfer seiner Pfarrei Antoni Prusimski, Starost von Niszczewice, der auch Patron der Kirche war und ihren Pfarrer präsentiert hatte <span class="cite">[<a href="{{ '/documents/adwl85/1/' | relative_url }}">1</a>]</span>.
 
-1793 nahm Preußen die Gegend in der Zweiten Teilung Polens, und 1796 schenkte der König Prusimskis konfisziertes Gut dem Fürsten zu Hohenlohe-Ingelfingen. Die Visitation ist darum der letzte Bericht über die Pfarrei unter der Familie Prusimski vor den preußischen Jahren. <!-- context -->
+1793 nahm Preußen die Gegend in der Zweiten Teilung Polens, und 1796 schenkte der König Prusimskis konfisziertes Gut dem Fürsten zu Hohenlohe-Ingelfingen. Sie ist der letzte Bericht der Edition über die Pfarrei unter der Familie Prusimski vor den preußischen Jahren. <!-- context -->
 
 ### Inhalt
 

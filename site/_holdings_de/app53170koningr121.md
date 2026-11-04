@@ -13,7 +13,7 @@ Ein Eintrag auf zwei Seiten des Registers des Burggerichts Konin für 1787 und 1
 
 ### Historischer Hintergrund
 
-Die Grenze zwischen Trąbczyn und Łukom war im Dezember 1782 im Gelände bezeichnet worden: <a href="{{ '/de/quellen/app53170koningr153/' | relative_url }}">53/17/0/-/Konin Gr.153</a>. In den Jahren davor hatte jede Seite Äxte, Wagen und Waffen der anderen vor dieses Amt gebracht, als Beweis für Übergriffe: <a href="{{ '/de/quellen/app53170koningr115/' | relative_url }}">53/17/0/-/Konin Gr.115</a>, <a href="{{ '/de/quellen/app53170koningr117/' | relative_url }}">53/17/0/-/Konin Gr.117</a>. Dieser Eintrag zeigt dieselbe Übung sechs Jahre nach der Festlegung der Grenze. Der Wald wird nun als zu Trąbczyn gehörig „und nie strittig“ beschrieben. <!-- context -->
+Die Grenze zwischen Trąbczyn und Łukom war im Dezember 1782 im Gelände bezeichnet worden: <a href="{{ '/de/quellen/app53170koningr153/' | relative_url }}">53/17/0/-/Konin Gr.153</a>. In den Jahren davor hatte jede Seite Äxte und Waffen der anderen vor dieses Amt gebracht, als Beweis für Übergriffe: <a href="{{ '/de/quellen/app53170koningr115/' | relative_url }}">53/17/0/-/Konin Gr.115</a>, <a href="{{ '/de/quellen/app53170koningr117/' | relative_url }}">53/17/0/-/Konin Gr.117</a>. Dieser Eintrag zeigt dieselbe Übung sechs Jahre nach der Festlegung der Grenze. Der Wald wird nun als zu Trąbczyn gehörig „und nie strittig“ beschrieben. <!-- context -->
 
 Was einem Eindringling abgenommen wurde, zeigte man dem Burgamt, es wurde im Register beschrieben und dem Eigentümer gegen Quittung zurückgegeben; der Eintrag diente dann als Beweis für den Übergriff. <!-- context -->
 

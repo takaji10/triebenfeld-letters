@@ -2211,7 +2211,7 @@ Datum in residentia nostra Kaszczorensi anno 1766 die 21 decembris. Johannes Szo
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
-<p>Guradze (1898) datiert das Ende der Erbuntertänigkeit im Herzogtum Warschau auf die Konstitution vom 22. Juli 1807 und das Dekret des Königs Friedrich August vom 24. Dezember 1807, das die Aufhebung dessen vollzog, was Artikel 4 der Konstitution esclavage nannte. Der Erbpachtvertrag von 1805/6 in der Edition hatte seine achtzehn Erbpächter zwei Jahre davor von der Erbuntertänigkeit freigestellt, durch seinen eigenen Paragraphen 13 — die Freiheit, die das Dekret des Herzogtums dann allgemein machte.</p>
+<p>Guradze (1898) datiert das Ende der Erbuntertänigkeit im Herzogtum Warschau auf die Konstitution vom 22. Juli 1807 und das Dekret des Königs Friedrich August vom 24. Dezember 1807, das die Aufhebung dessen vollzog, was Artikel 4 der Konstitution esclavage nannte — ein Dekret, das derselbe Absatz des Buchs wenige Zeilen später eines vom 21. Dezember nennt. Der Erbpachtvertrag von 1805/6 in der Edition hatte seine achtzehn Erbpächter zwei Jahre davor von der Erbuntertänigkeit freigestellt, durch seinen eigenen Paragraphen 13 — die Freiheit, die das Dekret des Herzogtums dann allgemein machte.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/app539680801/3/' | relative_url }}">53/968/0/-/801, Dokument 3 (21. März 1806)</a></p>
 </aside>{% raw %}
 </section>

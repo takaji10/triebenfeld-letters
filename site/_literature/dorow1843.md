@@ -220,7 +220,7 @@ Meanwhile in the course of time all the starosties and clerical estates had been
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
-<p>The memoir closes on its hero's reward: Hoym commended, and the patriot "got nothing for his pains and outlay", though it was his branch that set the cabinet orders bestowing the confiscated estates aside. The letters show what the same career had made by then: the estates sold to Prince George encumbered with 270,000 rt of debt at a price of 280,000 (July 1800), and resold for 750,000 (February 1801) — their writer petitioning to be kept out of arrest.</p>
+<p>The memoir closes on its hero's reward: Hoym commended, and the patriot got "for his pains and outlay … nothing but leave to rejoice in secret and worship in the dust", though it was his branch that set the cabinet orders bestowing the confiscated estates aside. The letters show what the same career had made by then: the estates sold to Prince George encumbered with 270,000 rt of debt at a price of 280,000 (July 1800), and resold for 750,000 (February 1801) — their writer petitioning to be kept out of arrest.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
 </aside>{% raw %}
 </section>

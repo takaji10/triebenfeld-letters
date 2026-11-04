@@ -1,4 +1,4 @@
-Two small exercise books of field notes in German, written in pencil by Albert Breyer (1889-1939), a teacher at the German school in Sompolno and a historian of the German settlements in central Poland. They are kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu) among his papers, in a bundle of his notebooks that the archive calls "Notes on Grodziec, Józefów, Zameń and Łazińsk". This holding is two of them, both of July 1936: the notebook on Łazińsk and Emilienheim, of 35 pages with its covers, and the one whose cover reads "V. Grodziec Juli 1936", of 25 pages, which is about the same places and their neighbours. <!-- context -->
+Two small exercise books of field notes in German, written in pencil by Albert Breyer (1889-1939), a teacher at the German school in Sompolno and a historian of the German settlements in central Poland. They are kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu) among his papers, in a bundle of his notebooks that the archive calls "Notes on Grodziec, Józefów Zament and Łazińsk". This holding is two of them, both of July 1936: the notebook on Łazińsk and Emilienheim, of 35 pages with its covers, and the one whose cover reads "V. Grodziec Juli 1936", of 25 pages, which is about the same places and their neighbours. <!-- context -->
 
 ### Historical background
 
@@ -6,7 +6,7 @@ Two small exercise books of field notes in German, written in pencil by Albert B
 
 ### Contents
 
-The cover is dated July 1936 and names Łazinsk and Emilienheim [[1]]. Under the heading "Kolonja Łazińsk" stands the stamp of the village mayor of the commune of Trąbczyn, and the notes that follow give the colony 2,040 Morgen and 250 farmers. About 1880, with a question mark, the colony received servitudes from the Trąbczyn estate; they were added to the old land at the notary's and are heavily taxed [[1]].
+The cover is dated July 1936 and names Łazinsk and Emilienheim [[1]]. Under the heading "Kolonja Łazińsk" stands the stamp of the village mayor of the Łazińska colony in the commune of Trąbczyn, and the notes that follow give the colony 2,040 Morgen and 250 farmers. About 1880, with a question mark, the colony received servitudes from the Trąbczyn estate; they were added to the old land at the notary's and are heavily taxed [[1]].
 
 Breyer twice asks when the remaining manor land of Trąbczyn was parcelled out. Jesse bought it, and it is now called Włodzimierow [[1]]. He notes how the land of Michalinów is divided into house plots, strips and meadows, the land of the village mayor and of the school, and the classes of the land of Emilienheim, 337 Morgen in all [[1]].
 

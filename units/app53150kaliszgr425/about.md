@@ -12,7 +12,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The adjournment.** The commissioners appointed by the Estates of the Commonwealth to judge the cause between Prusimski, Starost of Niszczewice, heir of Trąbczyn, and Stanisław Ścibor Chełmski, heir of Łukomia, declare that they cannot bring it to an end by a final judgment at the term now falling due. The ordinary parliament is sitting at Warsaw and the Crown Tribunal at Piotrków, and some of them have business at the one and some at the other. The term in question had itself come from the adjournment made in the decree of 13 September of the year before. They put the meeting off to the first Monday after Epiphany 1777 and keep for the parties the final term for appearing before the commission on the ground of Łukomia. The act is done at their residences on 28 September 1776 [[1]].
 
-**The signatures.** Five commissioners sign, each with his seal in red wax: Stefan Leszczyc Zielonacki, deputy judge of the Kalisz land court; Maciej Leszczyc Mierzewski; Tomasz Radoński, boundary surveyor of Kalisz; Stanisław Jabłkowski; and Stanisław Otto-Trąmpczyński [[1]].
+**The signatures.** Five commissioners sign, each with his seal: Stefan Leszczyc Zielonacki, deputy judge of the Kalisz land court; Maciej Leszczyc Mierzewski; Tomasz Radoński, boundary surveyor of Kalisz; Stanisław Jabłkowski; and Stanisław Otto-Trąmpczyński [[1]].
 
 **The entry.** On Monday 30 September 1776 Antoni Czyżewski brought the act to the municipal court office at Kalisz to be entered, and the original was sewn into the book [[1]].
 

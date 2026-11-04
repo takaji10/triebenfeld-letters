@@ -8,11 +8,11 @@ South Prussia was the province formed from Prussia's share of the second and thi
 
 #### The grant of 1796
 
-The charter of 9 August 1796 grants Hohenlohe-Ingelfingen the town of Kamionna and the market town of Kolno in the district of Poznań, the villages of Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny and the Trąbczyn Hauland in the district of Konin, and Brzyce in Kuyavia [[1, 2, 3, 4]]. It survives here in three copies [[1, 3, 4]]. The estates had been confiscated from Anton von Prusimski for his part in the uprising of 1794 [[12]]. A letter of Count Hoym, the minister for the province, reports the King's decision, puts the yearly income of the estates at 4,000 Thaler, and recommends a manager [[39]].
+The charter of 9 August 1796 grants Hohenlohe-Ingelfingen the town of Kamionna and the market town of Kolno in the district of Poznań, the villages of Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny and the Trąbczyn Hauland in the district of Konin, and Brzyce in Kuyavia [[1, 2, 3, 4]]. It survives here in three copies [[1, 3, 4]]. The estates had been confiscated from Anton von Prusimski for his part in the uprising of 1794 [[12]]. A letter of Count Hoym, the minister for the province, reports the King's decision, puts the yearly income of the estates at at least 4,000 Thaler, and recommends a manager [[39]].
 
 #### The grants of 1797
 
-A second charter, of 19 June 1797, grants sixteen villages formerly owned by the church, among them Pszczew, Zagórów, Kopojno, Drzewce and Wrąbczyn. It states as its reason that the estates of Prusimski had proved heavily indebted [[5, 8, 9, 10, 16, 17, 22]]. A declaration of 1 December 1797 adds the outlying parts of the estates of Pszczew, Zagórów and Wieniec [[6, 7, 11, 16, 18]]. Both grants are subject to a fixed annual payment to the crown and to the maintenance of the former ecclesiastical owners [[5, 6]].
+A second charter, of 19 June 1797, grants sixteen villages formerly owned by the church, among them Pszczew, Zagórów, Kopojno, Drzewce and Wrąbczyn. It states as its reason that the estates of Prusimski had proved heavily indebted [[5, 8, 9, 10, 17, 22]]. A declaration of 1 December 1797 adds the outlying parts of the estates of Pszczew, Zagórów and Wieniec [[6, 7, 11, 18]]. Both grants are subject to a fixed annual payment to the crown and to the maintenance of the former ecclesiastical owners [[5, 6]].
 
 #### Handover of the estates
 
@@ -26,7 +26,7 @@ The correspondence on registration is addressed mainly to Glenck, building and e
 
 #### Valuations
 
-The volume contains a valuation of Kamionna and Kolno, a valuation of their forest, and a judicial valuation of Szetlewek, which gives a gross value of 34,803 Rthl [[13, 14, 23]]. One further document is a damaged note of which little can be read [[24]].
+The volume contains a valuation of Kamionna and Kolno, the end of the valuation of Kamionna and Kolno, with a reckoning of what the estates would gain if part of their forest were separated and settled, and a judicial valuation of Szetlewek, which gives a gross value of 34,803 Rthl [[13, 14, 23]]. One further document is a damaged note of which little can be read [[24]].
 
 Because most documents are certified copies, the date and place given for a document are often those of its certification and not of the instrument copied. Several charters appear more than once, as separate copies with their own certifications. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
 

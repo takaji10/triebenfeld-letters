@@ -2,7 +2,7 @@ Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staat
 
 ### Historischer Hintergrund
 
-Südpreußen war die Provinz, die aus dem preußischen Anteil an der zweiten und dritten Teilung Polens gebildet worden war. Nach dem Aufstand von 1794 konfiszierte die Krone die Güter der daran beteiligten Grundbesitzer. 1796 wurde eine Reihe dieser Güter, zusammen mit anderen, die erledigt waren, an Offiziere und Beamte verliehen. Vorgeschlagen wurden die Verleihungen von Graf Hoym, dem für Schlesien und Südpreußen zuständigen Minister. <!-- context -->
+Südpreußen war die Provinz, die aus dem preußischen Anteil an der ersten und zweiten Teilung Polens gebildet worden war. Nach dem Aufstand von 1794 konfiszierte die Krone die Güter der daran beteiligten Grundbesitzer. 1796 wurde eine Reihe dieser Güter, zusammen mit anderen, die erledigt waren, an Offiziere verliehen. Vorgeschlagen wurden die Verleihungen von Graf Hoym, dem für Schlesien und Südpreußen zuständigen Minister. <!-- context -->
 
 ### Inhalt
 

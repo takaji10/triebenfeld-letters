@@ -378,7 +378,7 @@
   initial_en: "E"
   sort_de: "majorat"
   initial_de: "M"
-  docs: 30
+  docs: 31
 - id: "dominium"
   kind: "land"
   lang: "la"
@@ -1594,7 +1594,7 @@
   initial_en: "D"
   sort_de: "landrath"
   initial_de: "L"
-  docs: 25
+  docs: 24
 - id: "cession"
   kind: "law"
   lang: "de_la"
@@ -1822,7 +1822,7 @@
   initial_en: "L"
   sort_de: "liebden"
   initial_de: "L"
-  docs: 29
+  docs: 28
 - id: "hochwohlgeboren"
   kind: "title"
   lang: "de"

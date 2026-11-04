@@ -13,7 +13,7 @@ One entry on two pages of the register of the municipal court of Konin for 1787 
 
 ### Historical background
 
-The boundary between Trąbczyn and Łukom had been marked on the ground in December 1782: <a href="{{ '/sources/app53170koningr153/' | relative_url }}">53/17/0/-/Konin Gr.153</a>. In the years before, each side had brought the other's axes, carts and weapons before this office as proof of trespass: <a href="{{ '/sources/app53170koningr115/' | relative_url }}">53/17/0/-/Konin Gr.115</a>, <a href="{{ '/sources/app53170koningr117/' | relative_url }}">53/17/0/-/Konin Gr.117</a>. This entry shows the same practice six years after the boundary was settled. The wood is now described as belonging to Trąbczyn "and never in any dispute". <!-- context -->
+The boundary between Trąbczyn and Łukom had been marked on the ground in December 1782: <a href="{{ '/sources/app53170koningr153/' | relative_url }}">53/17/0/-/Konin Gr.153</a>. In the years before, each side had brought the other's axes and weapons before this office as proof of trespass: <a href="{{ '/sources/app53170koningr115/' | relative_url }}">53/17/0/-/Konin Gr.115</a>, <a href="{{ '/sources/app53170koningr117/' | relative_url }}">53/17/0/-/Konin Gr.117</a>. This entry shows the same practice six years after the boundary was settled. The wood is now described as belonging to Trąbczyn "and never in any dispute". <!-- context -->
 
 Things taken from a trespasser were shown to the municipal court office, described in the register, and given back to their owner against a receipt; the entry then served as proof of the trespass. <!-- context -->
 

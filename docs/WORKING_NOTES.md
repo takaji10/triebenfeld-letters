@@ -3121,3 +3121,48 @@ Lessons:
   narrate from undelivered calls, verify with one small diagnostic crop,
   and move to text-only work until delivery recovers. Leaf 0061 of the
   Ossolineum set is parked on exactly these terms.
+
+## The faithfulness review and the fix implementation (2026-11-04)
+
+- **The summaries have two homes and the build cannot carry them.** The
+  628-pad site/_data/summaries.yml and summaries_de.yml include summaries
+  written in working sessions whose pads have no entry in
+  cache/summaries-raw[-de]/ (the in-session holdings: app5320pozgr1181,
+  app534062, app539680545, ossol2289 and others). summarise.py --build
+  assembles from the cache alone, and its lost-summary guard - rightly -
+  refuses to write a file that drops a live document's summary. So a
+  summary correction must be written to the cache where the cache has the
+  pad AND to the generated file; it cannot be carried by a --build. The
+  same for a translation whose holding was translated in session
+  (app5320pozgr1181 has no translation-raw entry at all): fix
+  site/_data/translations/<uid>.yml directly.
+- **The translation cache is split by tag; check both before saying a
+  cache file is missing.** Most holdings sit in cache/translation-raw/,
+  but oe1bu14526, oe1bu9454, iiihamdaiiinr12765, oe1u199,
+  ihagrrep7cnr3570 and ihagrrep7cnr3705 sit in translation-raw-v2/
+  (unit.yml binds them). A cache miss in the untagged directory is not a
+  miss; and publishing those units needs publish_translations.py --tag v2.
+- **publish_translations.py refuses a stale sheet after cache edits.**
+  Its guard compares the review sheet's mtime against the newest cache
+  file; editing the cache makes the cache newer. After hand-applied cache
+  fixes, republish with --force (the edits were already review-approved)
+  or re-run check_translations.py first.
+- **One language clean is not both clean.** oe1bu9454-285: the English
+  summary's reversed grantee was fixed; the German summary carried the
+  same fault and was first judged not at fault - against the German
+  corpus, which fails the same way. A finding proven in one language must
+  be tested in the other before it is closed.
+- **Rewrites slip on the dash rule.** check_unit_text caught an em dash
+  the fix agents introduced into app536047's about.md (the spaced en dash
+  has been the rule since 2026-10-20, HOUSE_STYLE). Any hand- or
+  agent-written prose in the tracked files goes through the checker before
+  it is called done.
+- The regenerate wrapper's self-check block is known (see the session
+  above); the working path there was a small driver importing
+  pipeline.regenerate and replaying its step lists (PER_UNIT, MERGED,
+  POST_UNIT, jekyll, verify_site) without the check - the lists are
+  imported, not transcribed, so the order cannot drift.
+- The review's own artefacts stay out of git (review/ is ignored by
+  design); what travels is the prompt doc, the fixes and these notes. The
+  selection sheet's choices live in the editor's browser and the exported
+  JSON, not in the repository.

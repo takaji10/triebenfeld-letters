@@ -16,7 +16,7 @@ Die meisten Einträge sind Berichte von Gerichtsboten: Der Bote kam zum Amt und 
 
 **Eine Nachsuche 1784.** Am 15. September 1784 fragte Maszewski, nun als Kommissar der Trąbczyner Güter bezeichnet, ob der Bericht über eine Ladung Chełmskis vor das Krontribunal, die eine Woche zuvor nach Trąbczyn gebracht worden war, erklärt worden sei; das Amt bescheinigte, dass das nicht geschehen war [[8]].
 
-**Datierung.** Vier Einträge haben keine datierte Sitzungsüberschrift über sich: Einer ist nach der Überschrift weiter oben auf seiner Seite datiert, drei auf den Monat nach der Ladung, über die sie berichten, nach den Überschriften davor und danach oder nach dem Dekret des Landgerichts; jeder sagt das. <!-- context -->
+**Datierung.** Fünf Einträge haben keine datierte Sitzungsüberschrift über sich: Einer ist nach der Überschrift weiter oben auf seiner Seite datiert, vier auf den Monat nach der Ladung, über die sie berichten, nach den Überschriften davor und danach oder nach dem Dekret des Landgerichts; jeder sagt das. <!-- context -->
 
 ### Verwandte Bestände
 

@@ -340,7 +340,7 @@ At the sitting, those gathered wished to know how they ought to conduct themselv
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
-<p>The Directorium's protocol Nr. 3 of 15 July 1807, written in the first person by the Director of Police Łubieński, reports that very many were leaving for Dresden – "Dąmbska, Kownacka, Węgrzecki, Bórakowski" among them – and that the Government must be told daily who arrives there. She was in Dresden within the week: her letters of 20, 21 and 23 July 1807 to the Governing Commission and to the Emperor were all written at Dresden and signed "Michalina z Prusimskich Dambska", the last acknowledging the Commission's decree of 21 July.</p>
+<p>The Directorium's protocol Nr. 3 of 15 July 1807, written in the first person by the Director of Police Łubieński, reports that very many were leaving for Dresden – "Dąmbska, Kownacka, Węgrzecki, Bórakowski" among them – and that the Government must be told daily who arrives there. She was in Dresden within the week: her letters of 20, 21 and 23 July 1807 to the Governing Commission and to the Emperor were all written at Dresden, the letters of 20 and 23 July signed "Michalina z Prusimskich Dambska", the letter of 21 July to the Emperor signing in French "Micheline Dambska née Prusimska", the last acknowledging the Commission's decree of 21 July.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/agad11740273/2/' | relative_url }}">1/174/0/2/73, document 2 (20 July 1807)</a><a href="{{ '/documents/agad11740273/3/' | relative_url }}">1/174/0/2/73, document 3 (21 July 1807)</a><a href="{{ '/documents/agad11740273/4/' | relative_url }}">1/174/0/2/73, document 4 (23 July 1807)</a></p>
 </aside>{% raw %}
 </section>

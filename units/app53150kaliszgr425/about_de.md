@@ -12,7 +12,7 @@ Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ 
 
 **Die Vertagung.** Die von den Ständen der Republik bestellten Kommissare in der Sache zwischen Prusimski, Starost von Niszczewice, Erbherrn von Trąbczyn, und Stanisław Ścibor Chełmski, Erbherrn von Łukomia, erklären, sie könnten die Sache im jetzt fälligen Termin nicht durch ein Endurteil abschließen. Der ordentliche Reichstag tagt in Warschau und das Krontribunal in Piotrków, und einige von ihnen haben beim einen, andere beim anderen zu tun. Der Termin selbst ging auf die Vertagung im Dekret vom 13. September des Vorjahres zurück. Sie vertagen die Zusammenkunft auf den ersten Montag nach Dreikönig 1777 und erhalten den Parteien den letzten Termin zum Erscheinen vor der Kommission auf dem Grund von Łukomia. Der Akt ist am 28. September 1776 in ihren Wohnsitzen ausgestellt [[1]].
 
-**Die Unterschriften.** Fünf Kommissare unterzeichnen, jeder mit seinem Siegel in rotem Wachs: Stefan Leszczyc Zielonacki, Unterrichter des Kalischer Landgerichts; Maciej Leszczyc Mierzewski; Tomasz Radoński, Grenzvermesser von Kalisz; Stanisław Jabłkowski; und Stanisław Otto-Trąmpczyński [[1]].
+**Die Unterschriften.** Fünf Kommissare unterzeichnen, jeder mit seinem Siegel: Stefan Leszczyc Zielonacki, Unterrichter des Kalischer Landgerichts; Maciej Leszczyc Mierzewski; Tomasz Radoński, Grenzvermesser von Kalisz; Stanisław Jabłkowski; und Stanisław Otto-Trąmpczyński [[1]].
 
 **Die Eintragung.** Am Montag, dem 30. September 1776, brachte Antoni Czyżewski den Akt zur Eintragung in das Burgamt Kalisz, und das Original wurde in das Buch eingenäht [[1]].
 

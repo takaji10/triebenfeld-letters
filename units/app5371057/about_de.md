@@ -6,7 +6,7 @@ Hohenlohe-Ingelfingen besaß die Trąbczyner Güter in Südpreußen durch könig
 
 ### Inhalt
 
-Das Protokoll des Gerichts vom 31. März 1806 legt den Vertrag dar. Triebenfeld überlässt als Bevollmächtigter Hohenlohe-Ingelfingens dem Christoph Erbet aus dem Trąbczyner Hauland eine Hufe Magdeburger Maß im Trąbczyner Forst gegen 100 Rthl Einstandsgeld und einen jährlichen Zins von 30 Rthl [[1]]. Die ersten drei Jahre sind zinsfrei, und die erste Zahlung von 15 Rthl wird zu Weihnachten 1809 fällig [[1]]. Die Verfügung des Gerichts vom 23. Mai 1806 ordnet die Ausfertigung des Vertrags an [[1]].
+Das Protokoll des Gerichts vom 31. März 1806 legt den Vertrag dar. Triebenfeld überlässt als Bevollmächtigter Hohenlohe-Ingelfingens dem Christoph Erbet aus dem Trąbczyner Hauland eine Hufe Magdeburger Maß im Trąbczyner Forst gegen 100 Rthl Einstandsgeld und einen jährlichen Zins von 30 Rthl [[1]]. Die ersten drei Jahre sind für den ganz unurbaren Acker zinsfrei, und die erste Zahlung von 15 Rthl wird zu Weihnachten 1809 fällig [[1]]. Die Verfügung des Gerichts vom 23. Mai 1806 ordnet die Ausfertigung des Vertrags an [[1]].
 
 Dem Vertrag liegen die Generalvollmacht für Triebenfeld vom 19. Februar 1805 in beglaubigter Abschrift und die Ausfertigung des Vertrags mit den Begleitschreiben an beide Parteien bei [[1]]. Ein polnisches Schreiben von 1811 hält fest, dass ein Beamter, Hawich, die Akte dem Friedensgericht des Kreises Konin übergab und darum bat, von Erbet Kosten von 9 Rthl 18 dgl einzuziehen [[1]].
 
