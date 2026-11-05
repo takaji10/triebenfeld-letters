@@ -67,17 +67,48 @@ def insert_marks(line_text, marks):
 
 
 def main():
-    spath = os.path.join(OCR, 'structure2.json')
+    spath = os.path.join(OCR, 'structure4.json')
+    if not os.path.isfile(spath):
+        spath = os.path.join(OCR, 'structure2.json')
     if not os.path.isfile(spath):
         spath = os.path.join(OCR, 'structure.json')
     struct = json.load(open(spath, encoding='utf-8'))
     markers = json.load(open(os.path.join(OCR, 'markers.json'),
                              encoding='utf-8'))
+    # the pct/fraction resolutions (pct_frac.py): a box-addressed token
+    # replacement, via the page TSV's word at that box
+    fixes = {}
+    pf = os.path.join(OCR, 'pct_frac.json')
+    if os.path.isfile(pf):
+        for k, v in json.load(open(pf, encoding='utf-8')).items():
+            if not v.get('resolved') or v.get('print') in (None, 'MARKER'):
+                continue
+            scan, l, t = k.split('_')
+            fixes.setdefault(scan, []).append((int(l), int(t), v['print']))
     out = {}
     for n, page in struct.items():
         marks_by_top = {}
         for mk in markers.get(n, []):
             marks_by_top.setdefault(mk['top'], []).append(mk)
+        # this page's fix tokens: (left, top) -> print form; the
+        # affected line is the TSV word's own line (top within 30)
+        fix_by_linetop = {}
+        if n in fixes:
+            d = json.load(open(os.path.join(OCR, n + '.json'),
+                               encoding='utf-8'))
+            for x in d['words']:
+                for (l, t, pr) in fixes[n]:
+                    if x[0] == l and x[1] == t:
+                        lt = None
+                        for top in {w[1] for w in d['words']
+                                    if w[5].strip()}:
+                            if abs(top - t) < 30 and (lt is None
+                                                      or abs(top - t)
+                                                      < abs(lt - t)):
+                                lt = top
+                        if lt is not None:
+                            fix_by_linetop.setdefault(lt, []).append(
+                                (x[5].strip(), pr))
         lines = []
         note_top = min((x['top'] for x in page['notes']), default=None)
         for ln in page['lines']:
@@ -87,6 +118,9 @@ def main():
             # drop the running head (a lone page number)
             if re.fullmatch(r'[\d.,IVX]{1,5}[.,]?', t):
                 continue
+            for (old, pr) in fix_by_linetop.get(ln['top'], []):
+                if old in t:
+                    t = t.replace(old, pr, 1)
             marks = marks_by_top.get(ln['top'], [])
             t2 = insert_marks(t, marks)
             lines.append({'top': ln['top'], 'text': t2})
@@ -95,7 +129,8 @@ def main():
               encoding='utf-8', newline='\n') as fh:
         json.dump(out, fh, ensure_ascii=False)
     placed = sum(len(v) for v in markers.values())
-    print('pages:', len(out), 'labels placed:', placed)
+    print('pages:', len(out), 'labels placed:', placed,
+          'pct fixes:', sum(len(v) for v in fixes.values()))
 
 
 if __name__ == '__main__':

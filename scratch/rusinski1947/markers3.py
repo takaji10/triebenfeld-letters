@@ -46,7 +46,9 @@ def line_candidates(text):
 
 
 def main():
-    spath = os.path.join(OCR, 'structure2.json')
+    spath = os.path.join(OCR, 'structure4.json')
+    if not os.path.isfile(spath):
+        spath = os.path.join(OCR, 'structure2.json')
     if not os.path.isfile(spath):
         spath = os.path.join(OCR, 'structure.json')
     struct = json.load(open(spath, encoding='utf-8'))
