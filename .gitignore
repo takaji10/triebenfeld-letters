@@ -45,6 +45,11 @@ site/vendor/
 # pages with their build scripts - scratch in name only, the session's raw
 # material for the map's number system.
 !/scratch/map4456/
+# The Rusinski 1947 literature work's session scripts (2026-11-05): the
+# OCR quality analysis, the band and strip re-reads, the annex table
+# extraction and the composer - the record of how the transcription was
+# made, like map4456's.
+!/scratch/rusinski1947/
 /*.txt
 /*.csv
 /*.json
