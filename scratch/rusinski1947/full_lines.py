@@ -58,9 +58,14 @@ def main():
             # (a glued digit run) rides in it: the line passes' unique
             # yield there would be nil
             confs = [c for (t, c) in wconf if abs(t - ln['top']) < 30]
+            # a line is safe to skip only when every word read at high
+            # confidence (or the conf-0 quirk) AND no token could hide a
+            # footnote marker: markers glue as digit tails ('Ujskich1'),
+            # as the artifact tails (*?, ?.) and even at high confidence
             safe = (confs and all(c == 0.0 or c >= 80.0 for c in confs)
-                    and not re.search(r'[a-ząćęłńóśźż]{2,}\d{1,2}\b',
-                                      ln['text']))
+                    and not re.search(r'[^\W\d_][\wąćęłńóśźż.-]*[*?]*\d{1,2}'
+                                      r'[*?]?[.,;:]?(?=\s|$)', ln['text'])
+                    and not re.search(r'[*?]', ln['text']))
             if safe:
                 recs.append({'top': ln['top'], 'page': ln['text'],
                              'line_pol': None, 'line_std': None,
