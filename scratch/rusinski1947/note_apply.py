@@ -1,20 +1,22 @@
 # -*- coding: utf-8 -*-
-"""Apply the per-note 3x readings to the inventory - with verification.
+"""Note text of record = the wide strip's line-level text (3x, psm 4).
 
-For each note, the per-note 3x crop (notetexts/<n>_<k>.json) is aligned
-against structure2's page-pass text by difflib on the folded tokens:
+The per-note CROPS proved geometrically fragile: a matched top off by
+one line makes the crop catch the neighbouring note or body text, and
+the crop-vs-structure test then rejects on geometry, not content. The
+strip's text does not depend on crop geometry: psm 4 preserves the
+print's line breaks, and the note's text is its lines from the matched
+start to the next start.
 
-  - ratio >= 0.75 and the 3x reading is longer: the 3x text is adopted
-    (the higher resolution, same note);
-  - ratio >= 0.75 and similar lengths: the 3x text is adopted where it
-    differs in the mangled leading token ('ty', 'es', '%'...) which the
-    page pass mangled and the 3x reading cleans ('2', '3'...);
-  - ratio < 0.75: the crop caught a different note (the artifact-leading
-    lines' tops can shift) - the page text stands, the case is flagged.
+Verification is therefore against the PAGE PASS (an independent scale):
+the v1 lines between the note's top and the next note's top are joined
+and compared with the strip text (first-words + rough ratio). The strip
+text stands everywhere; disagreements are listed for reading - they
+are either strip errors, page-pass mangling, or a boundary mismatch,
+and each is decided by looking at the strip's own lines.
 
-The adopted text keeps structure2's num (the inventory's authority); the
-leading number token of the crop is stripped (the crop carries it or its
-artifact).
+Output: structure4.json (text of record, src=strip3x) + note_verify.csv
+(the disagreements, strip vs page).
 """
 import json, os, re, difflib, csv
 
@@ -25,84 +27,71 @@ def fold(s):
     return re.sub(r'[^a-ząćęłńóśźż0-9]', '', s.lower())
 
 
+def words3(text):
+    ws = [fold(t) for t in
+          re.findall(r'[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż0-9]+', text)][:3]
+    return ' '.join(ws)
+
+
 def main():
     struct = json.load(open(os.path.join(OCR, 'structure2.json'),
                             encoding='utf-8'))
-    import sys
-    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-    from note_adjudicate import ADJUDICATED
     rows = []
     out = {}
-    adopted = kept = rejected = spot = 0
+    ok = disagree = 0
     for n in sorted(struct):
         notes = struct[n]['notes']
         if not notes:
             out[n] = struct[n]
             continue
+        # the REBUILT lines (structure2's own) share the same lineation
+        # as the note tops; v1's top-sort lineation differs by a line on
+        # warped pages and misaligned every range comparison
+        v1lines = sorted(struct[n]['lines'], key=lambda l: l['top'])
         new = []
-        for note in notes:
-            p = os.path.join(OCR, 'notetexts', f'{n}_{note["num"]}.json')
-            page_text = note['text']
-            entry = {'num': note['num'], 'top': note['top']}
-            verdict = ADJUDICATED.get((n, note['num']))
-            if os.path.isfile(p) and verdict != 'keeppage':
-                d = json.load(open(p, encoding='utf-8'))
-                cand = max((d['pol'].strip(), d['std'].strip()),
-                           key=lambda s: len(re.sub(r'\s', '', s)))
-                cand_clean = re.sub(
-                    r'^[\d!%*+$§£|.,)»\-—–?L\s]+(?=[A-ZĄĆĘŁŃÓŚŹŻ„"(])', '',
-                    cand).strip()
-                if verdict == 'adopt3x':
-                    entry['text'] = cand_clean
-                    entry['src'] = 'per-note-3x'
-                    adopted += 1
-                elif verdict == 'spot':
-                    entry['text'] = page_text
-                    entry['src'] = 'spot'
-                    spot += 1
-                    rows.append([n, note['num'], 'SPOT', cand_clean[:60],
-                                 page_text[:60]])
-                else:
-                    # unadjudicated: the automatic same-note test
-                    pg_clean = re.sub(
-                        r'^[\d!%*+$§£|.,)»\-—–\s]+(?=[A-ZĄĆĘŁŃÓŚŹŻ„"(])',
-                        '', page_text).strip()
-                    r = difflib.SequenceMatcher(None, fold(cand_clean),
-                                                fold(pg_clean)).ratio()
-                    cw = re.findall(r'[a-ząćęłńóśźż0-9]+', fold(cand_clean))
-                    pw = re.findall(r'[a-ząćęłńóśźż0-9]+', fold(pg_clean))
-                    first_match = (cw[:3] and pw[:3]
-                                   and difflib.SequenceMatcher(
-                                       None, ' '.join(cw[:3]),
-                                       ' '.join(pw[:3])).ratio() >= 0.6)
-                    if first_match and len(fold(cand_clean)) >= \
-                            len(fold(pg_clean)) * 0.8:
-                        entry['text'] = cand_clean
-                        entry['src'] = 'per-note-3x'
-                        adopted += 1
-                    else:
-                        entry['text'] = page_text
-                        entry['src'] = 'page'
-                        rejected += 1
-                        rows.append([n, note['num'], round(r, 2),
-                                     cand_clean[:50], page_text[:50]])
+        for i, note in enumerate(notes):
+            nxt = notes[i + 1]['top'] if i + 1 < len(notes) else 10 ** 9
+            page_range = ' '.join(
+                l['text'] for l in v1lines
+                if note['top'] - 10 <= l['top'] < nxt - 10)
+            strip_text = re.sub(
+                r'^[\d!%*+$§£|.,)»\-—–?\s]+(?=[A-ZĄĆĘŁŃÓŚŹŻ„"(])', '',
+                note['text']).strip()
+            # the page range keeps the print's leading note number and
+            # OCR junk tokens ('a Np.', 'Ul: 2', 'Ooz———— 1'); strip
+            # leading non-word tokens before comparing
+            page_clean = re.sub(
+                r'^(?:[\d!%*+$§£|.,)»\-—–?\s]|[^A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż0-9]){1,6}'
+                r'(?=[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż„"(])', '', page_range).strip()
+            first_ok = (words3(strip_text) and words3(page_clean)
+                        and difflib.SequenceMatcher(
+                            None, words3(strip_text),
+                            words3(page_clean)).ratio() >= 0.6)
+            ratio = difflib.SequenceMatcher(None, fold(strip_text),
+                                            fold(page_clean)).ratio()
+            if first_ok:
+                ok += 1
+                src = 'strip3x+page-agree'
             else:
-                entry['text'] = page_text
-                entry['src'] = 'page'
-                kept += 1
-            new.append(entry)
+                disagree += 1
+                src = 'strip3x'
+                rows.append([n, note['num'], round(ratio, 2),
+                             strip_text[:70], page_clean[:70]])
+            new.append({'num': note['num'], 'top': note['top'],
+                        'num_read': note.get('num_read'),
+                        'text': strip_text, 'src': src})
         out[n] = {'lines': struct[n]['lines'], 'notes': new,
                   'height': struct[n]['height']}
     with open(os.path.join(OCR, 'structure4.json'), 'w',
               encoding='utf-8', newline='\n') as fh:
         json.dump(out, fh, ensure_ascii=False)
-    with open(os.path.join(OCR, 'note_reject.csv'), 'w', encoding='utf-8',
-              newline='\n') as fh:
+    with open(os.path.join(OCR, 'note_verify.csv'), 'w',
+              encoding='utf-8', newline='\n') as fh:
         w = csv.writer(fh)
-        w.writerow(['scan', 'note', 'ratio', 'reread3x', 'page'])
+        w.writerow(['scan', 'note', 'ratio', 'strip3x', 'page'])
         w.writerows(rows)
-    print('notes: adopted', adopted, 'kept', kept, 'rejected', rejected,
-          'spot', spot)
+    print('notes:', ok + disagree, '| strip+page agree:', ok,
+          '| disagreements to read:', disagree)
 
 
 if __name__ == '__main__':
