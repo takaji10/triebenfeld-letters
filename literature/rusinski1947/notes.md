@@ -117,17 +117,21 @@ Zagórów-Trąbczyn ring appear in its tables and its founding-lists.
 
 ## What is still to do (this work)
 
-1. The line re-reads to finish (running; about 3 min/page where not
-   skipped).
-2. The annex rows rebuilt on the orientation map; the columns assigned
-   from the header words; the totals checked against the book's own sums
-   (the text's figures: 2,216 dymy olęderskie ogółem, 503 inhabitants
-   1789-91 in the eight Zagórów settlements, etc.).
-3. The front matter composed (title page, contents, Wykaz skrótów) from
-   the two passes with the band checks.
-4. The marker reconstruction and the compose: original.md assembled
-   (compose.py), then the whole-text checks (the dictionary's fold pass,
-   the sigla check, the duplicate/missing-note check, the page-sum check).
-5. The spot sheet for what remains doubtful - the last handful only (the
-   editor: "I don't want to correct hundreds of things; you should try
-   them yourself first").
+1. The word-level settlement: the draft original.md is composed (408 kB)
+   but its word layer still carries the page-passes' artifacts; the band
+   re-reads (2,040 bands, read) and the line re-reads (166 pages, read)
+   are the witnesses to settle them against, page by page, with the
+   difflib alignment (quality.py's candidates).
+2. The marker positions: 284 of 322 labels placed (their line is right,
+   the anchor word can be a few words off); 26 pages' shortfalls and the
+   38 defs whose label did not land go to the spot sheet with their line
+   crops.
+3. The annex rows: 147 tier A (geometric cells), 47 tier B (chunk parse),
+   107 tier C (raw text only) of 287 - the C rows are read and in the
+   draft, but not yet column-split; the tables' totals check against the
+   book's own sums is open.
+4. The front matter composed into front_matter.md (title page, contents,
+   Wykaz skrótów) - the sources are read (the contents in strips), the
+   file not yet written.
+5. The spot sheet last, with the crops: the marker positions, the tier-C
+   annex rows, the words the witnesses cannot settle.

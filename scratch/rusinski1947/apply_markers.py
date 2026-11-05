@@ -38,7 +38,9 @@ def apply(paras, marks):
             seq.append((pi, wi, w))
     used = set()
     for mk in marks:
-        tok = mk['after']
+        tok = mk.get('after') or mk.get('tok', '')
+        if not tok:
+            continue
         want = strip_tail(tok)
         # find the nth unused occurrence of this token (or its
         # stripped form) at or after the marker's line

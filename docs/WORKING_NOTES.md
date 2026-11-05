@@ -3166,3 +3166,31 @@ Lessons:
   design); what travels is the prompt doc, the fixes and these notes. The
   selection sheet's choices live in the editor's browser and the exported
   JSON, not in the repository.
+
+
+## OCR of a ruled Polish table (2026-11-05)
+
+The Rusinski 1947 sitting's lessons, for the next ruled-table scan:
+
+- **A ruled table defeats full-page psm 3**: Tesseract segments the grid
+  by its columns (column-major output) or mangles the rows. The row-major
+  reading comes from psm 4 ('single column of text of variable sizes'),
+  the geometry from the word boxes. Neither alone suffices: psm 4's row
+  parse drops rows whose leading number misreads, so the numbers anchor
+  targeted strip re-reads (the row's y from the number column's token
+  tops, x 650-1300 in these sheets) and the missing rows are recovered
+  band by band.
+- **Tesseract conf 0.0 is a quirk, not a badness signal** (psm 3): words
+  read perfectly carry 0.000000 confidence. The doubtful set is conf
+  1..threshold plus the pass-vs-pass disagreements (difflib over the
+  token sequences, the Dorow method); conf 0 counts as unknown.
+- **Superscript footnote markers in a print of this kind are lost by the
+  page passes** (they glue to the host word or vanish; the box-height
+  signal does not separate them). They resurface in 2.5x single-line
+  re-reads (psm 7) as glued digit tails and standalone 1-2 digit tokens;
+  context rules (a digit after a letter-word, not between numerics)
+  filter the false positives; the page's own note count (the footnotes'
+  leading numbers, parsed from the page foot) is the assignment check.
+- **Strip-band reads settle orientation empirically**: probe each sheet
+  in four orientations with a middle band at 1.5x and score the plausible
+  Polish words; do not assume scan parity decides.
