@@ -18,18 +18,29 @@ split on '|', plus the sheet's trailing head lines (the printed page
 number and the section title, e.g. 'a. Osady olęderskie ...').
 """
 import sys, os, json, re
+sys.path.insert(0, r'C:\Users\Tersnaus\.local\share\opencode\worktree\14ffba\rusinski1947')
 
+SRC = r'C:\Users\Tersnaus\Downloads\tom5'
 OCR = r'C:\Users\Tersnaus\AppData\Local\Temp\opencode\tom5_ocr'
 ANNEX = [f'{i:04d}' for i in range(139, 160)]
 EVEN = {f'{i:04d}' for i in range(140, 160, 2)}
 
 
 def rowmajor_text(n):
-    if n in EVEN:
-        p = os.path.join(OCR, 'rot', n + '.txt')
-        return open(p, encoding='utf-8').read()
-    d = json.load(open(os.path.join(OCR, n + '.json'), encoding='utf-8'))
-    return d['pol']
+    """The row-major text of an annex sheet: psm 4 ('a single column of
+    text of variable sizes'), which segments the table's rows instead of
+    its columns (the finding of 2026-11-05, after psm 3 blocked the grid
+    by columns on several sheets)."""
+    cache = os.path.join(OCR, 'rot', n + '.psm4.txt')
+    if os.path.isfile(cache):
+        return open(cache, encoding='utf-8').read()
+    sys.path.insert(0, r'C:\Users\Tersnaus\.local\share\opencode\worktree\14ffba\rusinski1947')
+    from pipeline.ocr import read
+    t = read(os.path.join(SRC, f'tom5_{n}.tif'), lang='pol', psm=4)
+    os.makedirs(os.path.dirname(cache), exist_ok=True)
+    with open(cache, 'w', encoding='utf-8', newline='\n') as fh:
+        fh.write(t)
+    return t
 
 
 def parse(text):
