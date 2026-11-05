@@ -46,8 +46,8 @@ NO_NOTES = ({f'{i:04d}' for i in range(6, 16)}
 
 CAP = r'[A-ZĄĆĘŁŃÓŚŹŻ„"(]'
 DIGIT = re.compile(r'^(\d{1,2})[.,)%/*!?+§$£]{0,2}\s+(.*)$', re.S)
-ARTIFACT = re.compile(r'^([!%*+$§£|?»"?<>‚‘’]{1,2})\s+(.*)$', re.S)
-ONE = re.compile(r'^([lI1¡|]{1,2})\s+(.*)$', re.S)
+ARTIFACT = re.compile(r'^([!%*+$§£|?»"?<>‚‘’”]{1,2})\s+(.*)$', re.S)
+ONE = re.compile(r'^([lI1¡|UL]{1,2})\s+(.*)$', re.S)
 CIT = re.compile(
     r'^(?:AW|AM|AGH|AGAD|Rel|Dom|Kat|Tp|KI|KL|Q|Por|Zob|Np|Lustr|Inscr'
     r'|Tod|MP|MG|GC|Syr|Sygn|Szk|Wil|Dziew|Urz|Inw|AP|BCh|Die|Der|Das'
@@ -62,25 +62,42 @@ def fold(s):
 
 
 def lines_of(page):
-    """Lines from the TSV words, in TSV (reading) order - the order IS
-    the line membership (a top-sort orphaned first words on warped
-    pages: 0018's 'we wcześniejszym' lost its 'we')."""
+    """Lines from the TSV words: sort by top (ties by left), group with
+    a HEIGHT-RELATIVE gap threshold, then order each line's words by
+    left.
+
+    Neither pure order works alone: the TSV reading order follows
+    Tesseract's BLOCK order, which interleaves on pages where a short
+    body line forms its own block placed after the footnote block
+    (0022: 'dzierzawy wieczystej.' came after the notes); a fixed
+    top-bucket (v1: 30px) orphaned first words on warped baselines
+    (0018: 'we' displaced 31px). The gap threshold scales with the
+    line's own height (warp displacement is a fraction of the x-height;
+    adjacent print lines are ~1.4x the height apart, so 0.55*h never
+    merges neighbours), and superscript markers (top ~30px above the
+    line) still join their line while left-ordering keeps them at
+    their true position.
+    """
     ws = [x for x in page['words'] if x[5].strip()]
-    lines = []
-    prev = None
+    ws.sort(key=lambda x: (x[1], x[0]))
+    groups = []
     for x in ws:
         l, t, w_, h, txt = x[0], x[1], x[2], x[3], x[5].strip()
-        new = prev is None
-        if not new:
-            pl, pt, ph = prev
-            if l < pl - 60 or abs(t - pt) > 0.75 * max(ph, h, 40):
-                new = True
-        if new:
-            lines.append({'top': t, 'text': txt, 'left': l, 'hs': [h]})
-        else:
-            lines[-1]['text'] += ' ' + txt
-            lines[-1]['hs'].append(h)
-        prev = (l, t, h)
+        if groups:
+            g = groups[-1]
+            hs = sorted(z[2] for z in g)
+            gh = hs[len(hs) // 2]
+            thr = max(30, min(55, 0.55 * gh))
+            if t - g[0][1] <= thr:
+                g.append((l, t, h, txt))
+                continue
+        groups.append([(l, t, h, txt)])
+    lines = []
+    for g in groups:
+        g.sort(key=lambda z: z[0])
+        lines.append({'top': g[0][1], 'left': g[0][0],
+                      'text': ' '.join(z[3] for z in g),
+                      'hs': [z[2] for z in g]})
     for ln in lines:
         hs = sorted(ln.pop('hs'))
         ln['h'] = hs[len(hs) // 2] if hs else 0
@@ -202,29 +219,102 @@ def align(strip, foot):
     # a 'start' strip line whose fold is a strict SUBSTRING (not a
     # prefix) of its page line's fold is the second half of a print
     # line that psm 4 broke in two (0050's 'C.' / '4 (VII), r. 1793')
-    for i, (j, kind) in list(assign.items()):
-        if kind == 'start' and i > 0 and sf_all[i] and pf[j] \
-                and len(sf_all[i]) < len(pf[j]) and sf_all[i] in pf[j] \
-                and not pf[j].startswith(sf_all[i]):
-            assign[i] = (j, 'mid')
+    # - REMOVED: it also demoted legit note lines whose page twin
+    # carries the unread marker digit ('5 "Tamze, s. 143.' ->
+    # 'Tamze, s. 143.', 0020 note 5); the psm4-split cases it was
+    # written for are handled by the same-page-line demotion above.
     return assign
 
 
 def parse_strip(strip, foot, BH=80):
     """Note starts from aligned strip lines. Returns (notes, dbg)."""
     assign = align(strip, foot)
-    starts = []
+    # MERGED-LINE REPAIR: psm 4 sometimes fuses the body's last line
+    # with note 1's first line into ONE strip line ('Tak samo trudno
+    # tutaj 1 Przywilej lokacyjny...'). The page tells the truth: a
+    # BODY-type page line followed by a NOTE-type page line whose folds
+    # together match the strip line. Split the strip text at the
+    # proportional offset; the second half carries split=True - its
+    # digit/artifact/one-led token starts a note on the type-boundary
+    # evidence alone (no prev_ok needed: the page-line pair IS the
+    # boundary).
+    claimed = {}
+    for i in sorted(assign):
+        j, kind = assign[i]
+        if kind == 'start' and j not in claimed:
+            claimed[j] = i
+    work = []
     for i, s in enumerate(strip):
-        kind = assign.get(i, (None, 'none'))[1]
-        j = assign.get(i, (None, None))[0]
+        j, kind = assign.get(i, (None, 'none'))
+        if kind == 'start' and j is not None and j + 1 < len(foot) \
+                and (j + 1) not in claimed:
+            f_all = fold(s['text'])
+            f1 = fold(foot[j]['text'])
+            f2 = fold(foot[j + 1]['text'])
+            if f_all and f1 and f2 and len(f_all) > len(f1) + 12:
+                r1 = difflib.SequenceMatcher(None, f_all, f1).ratio()
+                r12 = difflib.SequenceMatcher(
+                    None, f_all, (f1 + f2)[:len(f_all)]).ratio()
+                if r12 >= 0.75 and r12 > r1 + 0.05:
+                    pos = round(len(s['text']) * len(f1)
+                                / max(1, len(f1) + len(f2)))
+                    # snap to the nearest space
+                    sp = s['text'].find(' ', max(0, pos - 15), pos + 15)
+                    if sp > 0:
+                        work.append({'text': s['text'][:sp],
+                                     'para': s['para'], 'j': j,
+                                     'split': False})
+                        work.append({'text': s['text'][sp + 1:],
+                                     'para': False, 'j': j + 1,
+                                     'split': True})
+                        claimed[j + 1] = i
+                        continue
+        work.append({'text': s['text'], 'para': s['para'], 'j': j,
+                     'split': False})
+    starts = []
+    for i, s in enumerate(work):
+        j = s['j']
         l = s['text']
-        is_boundary_start = (kind == 'start')
+        is_boundary_start = (j is not None)
         small = j is not None and foot[j].get('h', 0) <= 0.88 * BH
+        smallish = j is not None and foot[j].get('h', 0) <= 0.95 * BH
         # leading-token classes
         md, ad, od = DIGIT.match(l), ARTIFACT.match(l), ONE.match(l)
-        prev = strip[i - 1]['text'] if i else ''
+        prev = work[i - 1]['text'] if i else ''
         prev_ok = bool(re.search(r'[.!?»:;][”"]?\s*$', prev)) and not (
             prev.split() and ABBR.match(prev.split()[-1]))
+        if not starts and s['para'] and smallish:
+            # FIRST-NOTE rule, marker-glyph-independent: the wide strip
+            # includes body lines (y >= y0), so the decisive witnesses
+            # are the psm4 PARAGRAPH break + a citation opener after a
+            # <=2-char token ('U Por. daty...', 'l Ludkiewicz...') +
+            # footnote-size type on the matched page line (body
+            # paragraphs are body-size type; 0023's solid-set note 1
+            # had no readable marker digit even at 6x).
+            tok0 = l.split()[0] if l.split() else ''
+            rest0 = l[len(tok0):].lstrip()
+            # the type-transition witness: the PREVIOUS page line is
+            # body-type and this line is footnote-size - the boundary
+            # (0029's long notes run h 47-63 against body ~67, too
+            # close for a fixed ratio, but the STEP down marks the
+            # block)
+            trans = (j is not None and j > 0
+                     and foot[j - 1].get('h', 0) > 0.95 * BH
+                     and foot[j].get('h', 0) <= 0.93 * BH)
+            if len(tok0) <= 2 and rest0 and (re.match(CAP, rest0)
+                                             or CIT.match(rest0)) \
+                    and (CIT.match(rest0) or trans):
+                starts.append((i, None, rest0))
+                continue
+        if s.get('split') and small and (md or ad or od):
+            # SPLIT-start: the page-line pair (body type -> note type)
+            # is itself the boundary evidence; the digit/artifact/one
+            # token in the second half starts the note without prev_ok
+            if md:
+                starts.append((i, int(md.group(1)), md.group(2).strip()))
+            else:
+                starts.append((i, None, (ad or od).group(2).strip()))
+            continue
         if md and is_boundary_start and int(md.group(1)) <= 40 and small:
             # digit-led starts require footnote-size type: a numbered
             # section heading or a body enumeration is body-size type
@@ -232,25 +322,37 @@ def parse_strip(strip, foot, BH=80):
             starts.append((i, int(md.group(1)), md.group(2).strip()))
         elif (ad or od) and is_boundary_start and (prev_ok or small):
             starts.append((i, None, (ad or od).group(2).strip()))
-        elif s['para'] and is_boundary_start and prev_ok and CIT.match(l) \
-                and len(l) > 12 and starts:
-            starts.append((i, None, l))
+        else:
+            # GLUED one-lookalike: the marker digit fused with the
+            # note's first word ('LKremmer u. Dalchow...' = '1 Kremmer')
+            go = re.match(r'^[lI1¡|UL]([A-ZĄĆĘŁŃÓŚŹŻ]\S*)\s+(.*)$', l)
+            if go and is_boundary_start and (prev_ok or small
+                                             or (not starts and s['para']
+                                                 and smallish)):
+                starts.append((i, None,
+                               go.group(1) + ' ' + go.group(2)))
+            elif s['para'] and is_boundary_start and prev_ok \
+                    and CIT.match(l) and len(l) > 12 and starts:
+                starts.append((i, None, l))
     if not starts:
         return [], []
     notes = []
     for k, (i, read, text) in enumerate(starts):
-        last = starts[k + 1][0] if k + 1 < len(starts) else len(strip)
-        body = ' '.join(strip[j]['text'] for j in range(i, last))
-        # strip lines after the start that are 'mid' artifacts of the
-        # NEXT page line belong to the next note - cut the body at the
-        # first 'mid' strip line whose page line differs from the
-        # start's page line
+        last = starts[k + 1][0] if k + 1 < len(starts) else len(work)
+        # the note's FULL text: its strip lines from the start to the
+        # next start (the earlier code stored only the start line's
+        # remainder - every multi-line note was truncated to its first
+        # line)
+        joined = ' '.join(work[j]['text'] for j in range(i, last))
+        # strip the leading marker token once (digit / artifact /
+        # one-lookalike, up to 2 chars + a quote-class suffix)
+        joined = re.sub(r'^(?:\d{1,2}[.,)%/*!?+§$£]{0,2}|[!%*+$§£|?»"?<>‚‘’”]'
+                        r'{1,2}|[lI1¡|UL]{1,2})\s+', '', joined, count=1)
         top = None
-        j0 = assign.get(i, (None, None))[0]
+        j0 = work[i]['j']
         if j0 is not None:
             top = foot[j0]['top']
-        notes.append({'read': read, 'top': top, 'text': text,
-                      'i0': i, 'i1': last})
+        notes.append({'read': read, 'top': top, 'text': joined.strip()})
     # the mid-line split inside merged strip lines
     out = []
     expected = None
@@ -274,6 +376,14 @@ def parse_strip(strip, foot, BH=80):
                 j += 2
         else:
             out.append(nt)
+    # split-produced notes have no top of their own: interpolate half a
+    # pitch below the last known top (0124's '+ T.w.')
+    last_top = None
+    for x in out:
+        if x['top'] is None and last_top is not None:
+            x['top'] = last_top + 45
+        if x['top'] is not None:
+            last_top = x['top']
     for i, x in enumerate(out):
         x['num'] = i + 1
     # ONE-LINE NUDGE: the page lines are the authority for the note
@@ -310,10 +420,11 @@ def parse_notes(lns, n=None):
         return lns, []
     strip = strip_lines(n) if n else None
     if strip:
-        # the strip covers only y >= y0; page lines above y0 were never
-        # seen by the 3x read and must not enter the alignment (they
-        # pulled the first strip lines onto wrong page lines)
-        fseen = [l for l in foot if l['top'] >= strip['y0'] - 20]
+        # the alignment set = the lines the strip actually covers (its
+        # y0) - a fixed 0.45H foot threshold excludes the notes of
+        # note-heavy pages (0029's notes begin at 34% of the page
+        # height) and the strip lines then match nothing
+        fseen = [l for l in lns if l['top'] >= strip['y0'] - 20]
         notes, _ = parse_strip(strip['lines'], fseen, BH)
         if notes:
             body = [l for l in lns if l['top'] < min(

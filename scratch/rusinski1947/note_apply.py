@@ -51,12 +51,22 @@ def main():
         new = []
         for i, note in enumerate(notes):
             nxt = notes[i + 1]['top'] if i + 1 < len(notes) else 10 ** 9
-            page_range = ' '.join(
-                l['text'] for l in v1lines
-                if note['top'] - 10 <= l['top'] < nxt - 10)
             strip_text = re.sub(
                 r'^[\d!%*+$§£|.,)»\-—–?\s]+(?=[A-ZĄĆĘŁŃÓŚŹŻ„"(])', '',
                 note['text']).strip()
+            if note['top'] is None or nxt is None:
+                # unmatched note (garbled strip line): no page range to
+                # verify against - the strip text stands, flagged
+                disagree += 1
+                rows.append([n, note['num'], 'none', strip_text[:70],
+                             '<no page range>'])
+                new.append({'num': note['num'], 'top': note['top'],
+                            'num_read': note.get('num_read'),
+                            'text': strip_text, 'src': 'strip3x'})
+                continue
+            page_range = ' '.join(
+                l['text'] for l in v1lines
+                if note['top'] - 10 <= l['top'] < nxt - 10)
             # the page range keeps the print's leading note number and
             # OCR junk tokens ('a Np.', 'Ul: 2', 'Ooz———— 1'); strip
             # leading non-word tokens before comparing

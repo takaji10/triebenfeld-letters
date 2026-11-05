@@ -64,6 +64,28 @@ def main():
             shorts.append((n, want, 0, 'no line pass'))
             continue
         recs = json.load(open(lp_path, encoding='utf-8'))
+        # the TSV word boxes for the GEOMETRIC check: a superscript
+        # marker digit is ~half the line's type height; a TEXT number
+        # ('co 4 tygodnie') is full height. Without this check real
+        # numbers were consumed as markers and their digits LOST from
+        # the text (the readers' 'numbers dropped behind labels'
+        # class), shifting every later label on the page.
+        pw = json.load(open(os.path.join(OCR, n + '.json'),
+                            encoding='utf-8'))['words']
+        line_h = {}
+        for x in pw:
+            if x[5].strip():
+                line_h.setdefault(round(x[1] / 45), []).append(x[3])
+        line_h = {k: sorted(v)[len(v) // 2] for k, v in line_h.items()}
+
+        def is_superscript(top, tok):
+            # The print sets its footnote markers as INLINE FULL-SIZE
+            # digits (measured: 'Bemberga 1.' h=57 vs line 64; the old
+            # 0.62-height test killed real markers). No geometric
+            # separation exists - every candidate is kept; the
+            # number-context flag below marks the ambiguous placements
+            # for the spot sheet instead.
+            return True, 0, 0
         cands = []
         for r in recs:
             if r.get('skipped'):
@@ -74,11 +96,26 @@ def main():
                     m = TAIL.match(w)
                     if m and re.search(r'\d$', w) \
                             and len(m.group('base')) >= 2:
-                        cands.append(('skipped-glued', r['top'], w, 1))
+                        cands.append(('skipped-glued', r['top'], w, 1,
+                                      False))
                 continue
             for src in ('line_pol', 'line_std'):
+                toks = (r.get(src) or '').split()
                 for kind, i, w, weight in line_candidates(r.get(src) or ''):
-                    cands.append((kind, r['top'], w, weight))
+                    if kind == 'standalone':
+                        ok, h, lh = is_superscript(r['top'], w)
+                        if not ok:
+                            continue
+                        # number-context flag: a standalone digit whose
+                        # next token is a lowercase word is ambiguous
+                        # (marker 'Hollander 2' vs number 'co 4
+                        # tygodnie') - the placement keeps the digit
+                        # and the spot sheet lists the case
+                        nxt = toks[i + 1] if i + 1 < len(toks) else ''
+                        num_ctx = bool(nxt) and nxt[:1].islower()
+                    else:
+                        num_ctx = False
+                    cands.append((kind, r['top'], w, weight, num_ctx))
         # order by line, then position
         cands.sort(key=lambda c: (c[1], c[0] != 'glued-artifact'))
         if len(cands) > want:
@@ -86,9 +123,10 @@ def main():
             cands = sorted(cands, key=lambda c: -c[3])[:want]
             cands = sorted(cands, key=lambda c: (c[1], c[3]))
         out = []
-        for i, (kind, top, w, weight) in enumerate(cands):
+        for i, (kind, top, w, weight, num_ctx) in enumerate(cands):
             out.append({'label': f'{int(n) - 15}-{i + 1}', 'top': top,
-                        'tok': w, 'kind': kind, 'weight': weight})
+                        'tok': w, 'kind': kind, 'weight': weight,
+                        'num_ctx': num_ctx})
         markers[n] = out
         if len(out) < want:
             shorts.append((n, want, len(out), ''))

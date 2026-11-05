@@ -40,7 +40,13 @@ def insert_marks(line_text, marks):
             base = w.rstrip('.,;:!?»”"')
             if kind == 'standalone' and w.rstrip('.,;:') == tok \
                     .rstrip('.,;:'):
-                out.append(f"[^{mk['label']}]")
+                if mk.get('num_ctx'):
+                    # number-context placement: KEEP the digit (it may
+                    # be a real number, not the marker - 'co 4
+                    # tygodnie') and set the label after it
+                    out.append(w + f"[^{mk['label']}]")
+                else:
+                    out.append(f"[^{mk['label']}]")
                 used.add(mi)
                 placed = True
                 break
@@ -87,7 +93,8 @@ def main():
             fixes.setdefault(scan, []).append((int(l), int(t), v['print']))
     out = {}
     for n, page in struct.items():
-        note_top = min((x['top'] for x in page['notes']), default=None)
+        tops = [x['top'] for x in page['notes'] if x['top'] is not None]
+        note_top = min(tops) if tops else None
         # markers ride body lines; match by PROXIMITY (the markers' tops
         # come from the v1 lineation, the lines from the rebuilt one -
         # exact equality survived only by coincidence, which had
@@ -110,24 +117,28 @@ def main():
             if best is not None and bd <= 60:
                 marks_by_top.setdefault(best['top'], []).append(mk)
         # this page's fix tokens: (left, top) -> print form; the
-        # affected line is the TSV word's own line (top within 30)
+        # affected line = the nearest REBUILT line (within 45px) - the
+        # old bucket-top lookup matched nothing after the lineation
+        # change, so the 92 pct/fraction fixes silently never landed
         fix_by_linetop = {}
         if n in fixes:
             d = json.load(open(os.path.join(OCR, n + '.json'),
                                encoding='utf-8'))
-            for x in d['words']:
-                for (l, t, pr) in fixes[n]:
-                    if x[0] == l and x[1] == t:
-                        lt = None
-                        for top in {w[1] for w in d['words']
-                                    if w[5].strip()}:
-                            if abs(top - t) < 30 and (lt is None
-                                                      or abs(top - t)
-                                                      < abs(lt - t)):
-                                lt = top
-                        if lt is not None:
-                            fix_by_linetop.setdefault(lt, []).append(
-                                (x[5].strip(), pr))
+            box_word = {(x[0], x[1]): x[5].strip() for x in d['words']
+                        if x[5].strip()}
+            for (l, t, pr) in fixes[n]:
+                tok = box_word.get((l, t))
+                if not tok:
+                    continue
+                best = None
+                bd = 10 ** 9
+                for ln in page['lines']:
+                    dd = abs(ln['top'] - t)
+                    if dd < bd:
+                        bd, best = dd, ln
+                if best is not None and bd <= 45:
+                    fix_by_linetop.setdefault(best['top'], []).append(
+                        (tok, pr))
         lines = []
         for ln in page['lines']:
             if note_top is not None and ln['top'] >= note_top:
