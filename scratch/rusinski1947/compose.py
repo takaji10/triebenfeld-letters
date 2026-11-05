@@ -38,6 +38,36 @@ def main():
     sys.path.insert(0, HERE)
     from paragraphs2 import assemble_marked
     import readability
+    # the pct/fraction token map (pct_frac.py's 5x-verified decisions):
+    # applied to body AND note texts (the earlier fix pass reached only
+    # the body lines; the note layer carried the same artifacts)
+    tokmap = {}
+    pf = os.path.join(OCR, 'pct_frac.json')
+    if os.path.isfile(pf):
+        for k, v in json.load(open(pf, encoding='utf-8')).items():
+            if v.get('resolved') and v.get('print') not in (None, 'MARKER') \
+                    and v['print'] != v['tok']:
+                key = v['tok'].strip('.,;:!?»”"()')
+                tokmap[key] = v['print']
+    # MANUAL supplement: percent tokens the queue missed or misclassed,
+    # each verified by the read-through's cross-references (p. 13's 75%
+    # confirmed by p. 31's "do 25%", p. 14's one-third confirmed by the
+    # 832/550 arithmetic, the p. 34 range by the chapter's subject)
+    tokmap.update({
+        '5%/': '5%', '10%/': '10%', '36%/': '36%', '20%/': '20%',
+        '13.6%%': '13.6%', '750/y': '75%', '!/': '⅓',
+        '35—38?/': '35—38%',
+    })
+
+    def fix_toks(text):
+        out = []
+        for tok in text.split(' '):
+            core = tok.strip('.,;:!?»”"()')
+            if core in tokmap:
+                out.append(tok.replace(core, tokmap[core]))
+            else:
+                out.append(tok)
+        return ' '.join(out)
     parts = []
 
     # ---- front matter -------------------------------------------------
@@ -50,10 +80,10 @@ def main():
     # 'Element nie-' -> p. 33 'miecki...') run before assembly
     page_paras = {}
     for n in BODY + ANEX2 + ANEX3:
-        page_paras[n] = [readability.apply(p)
+        page_paras[n] = [fix_toks(readability.apply(p))
                          for p in assemble_marked(n)]
         for note in struct[n]['notes']:
-            note['text'] = readability.apply(note['text'])
+            note['text'] = fix_toks(readability.apply(note['text']))
     order = BODY + ANEX2 + ANEX3
     for a, b in zip(order, order[1:]):
         pa, pb = page_paras[a], page_paras[b]
