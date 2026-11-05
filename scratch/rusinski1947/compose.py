@@ -29,8 +29,10 @@ def label(n):
 
 
 def main():
-    struct = json.load(open(os.path.join(OCR, 'structure.json'),
-                            encoding='utf-8'))
+    spath = os.path.join(OCR, 'structure2.json')
+    if not os.path.isfile(spath):
+        spath = os.path.join(OCR, 'structure.json')
+    struct = json.load(open(spath, encoding='utf-8'))
     sys.path.insert(0, HERE)
     from paragraphs2 import assemble_marked
     parts = []

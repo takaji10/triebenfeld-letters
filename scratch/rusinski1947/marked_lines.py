@@ -67,8 +67,10 @@ def insert_marks(line_text, marks):
 
 
 def main():
-    struct = json.load(open(os.path.join(OCR, 'structure.json'),
-                            encoding='utf-8'))
+    spath = os.path.join(OCR, 'structure2.json')
+    if not os.path.isfile(spath):
+        spath = os.path.join(OCR, 'structure.json')
+    struct = json.load(open(spath, encoding='utf-8'))
     markers = json.load(open(os.path.join(OCR, 'markers.json'),
                              encoding='utf-8'))
     out = {}
