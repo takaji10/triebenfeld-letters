@@ -85,18 +85,57 @@ def main():
         for note in struct[n]['notes']:
             note['text'] = fix_toks(readability.apply(note['text']))
     order = BODY + ANEX2 + ANEX3
+    LABEL_RE = re.compile(r'\[\^[^\]]+\]')
+    TERM = ('.', '!', '?', '…', '”', '»', ':', ';')
     for a, b in zip(order, order[1:]):
         pa, pb = page_paras[a], page_paras[b]
-        if pa and pb and pa[-1].rstrip().endswith('-') \
-                and pb and pb[0][:1].islower():
-            frag = pa[-1].rstrip()
-            # the hyphenated word completes on the next page: the
-            # fragment word is dropped from page A and the joined word
-            # opens page B
-            words_a = pa[-1].split()
-            keep = ' '.join(words_a[:-1])
-            page_paras[a] = pa[:-1] + ([keep] if keep else [])
-            page_paras[b] = [frag[:-1] + pb[0]] + pb[1:]
+        while pa and not pa[-1].strip():
+            pa.pop()
+        while pb and not pb[0].strip():
+            pb.pop(0)
+        if not pa or not pb:
+            continue
+        tail = pa[-1].rstrip()
+        tail_txt = LABEL_RE.sub(' ', tail).rstrip()
+        head = pb[0].lstrip()
+        joined = None
+        if tail_txt.endswith('-'):
+            toks = tail.split()
+            # the fragment = the last token that is not a parked label;
+            # labels parked after it belong to the joined word
+            fi = len(toks) - 1
+            parked = []
+            while fi >= 0 and LABEL_RE.fullmatch(toks[fi]):
+                parked.insert(0, toks[fi])
+                fi -= 1
+            frag_w = toks[fi] if fi >= 0 else ''
+            base = LABEL_RE.sub('', frag_w).rstrip('-')
+            m = LABEL_RE.search(frag_w)
+            lab = m.group(0) if m else ''
+            # the fragment must be a plausible word-half (lowercase
+            # letters): rejects sliver junk ('Ooz————') and digits
+            if base and re.fullmatch(r'[a-ząćęłńóśźż]+', base) \
+                    and len(base) >= 2 and head[:1].islower():
+                bw = head.split(' ', 1)
+                first = base + bw[0]
+                rest = bw[1] if len(bw) > 1 else ''
+                joined = first + lab
+                if parked:
+                    joined += ' ' + ' '.join(parked)
+                if rest:
+                    joined += ' ' + rest
+                page_paras[a] = pa[:-1] + \
+                    ([' '.join(toks[:fi])] if fi > 0 else [])
+                page_paras[b] = [joined] + pb[1:]
+                continue
+        elif not tail_txt.endswith(TERM) and head[:1].islower() \
+                and not head.startswith('„') and not head.startswith('«'):
+            # plain mid-sentence page break: the print's paragraph
+            # simply continues over the leaf - the whole paragraph
+            # moves to page B (intact, labels included)
+            page_paras[a] = pa[:-1]
+            page_paras[b] = [tail + ' ' + head] + pb[1:]
+            continue
     for n in BODY:
         parts.append(f'[p. {label(n)}]\n')
         parts.append('\n\n'.join(page_paras[n]))
@@ -143,6 +182,9 @@ tom5_0174's caption reads "3. Nowe al. Wielkokrobielewskie Olędry.
 Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
 """)
     text = '\n\n'.join(parts) + '\n'
+    # the print sets its markers tight to the word ('lata³,'): remove
+    # the space the token replacement leaves before a label
+    text = re.sub(r' +(\[\^)', r'\1', text)
     with open(OUT, 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(text)
     print('written', os.path.abspath(OUT), len(text), 'chars')

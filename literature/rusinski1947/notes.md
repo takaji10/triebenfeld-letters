@@ -274,3 +274,75 @@ State: original.md recomposed (422.3 kB), all repairs verified
 S01 marked RESOLVED), CSVs refreshed (orphans 123, numctx 206,
 shorts 35). SPOT_SHEET.md not re-synced (secondary twin; the HTML is
 authoritative).
+
+## The spot-answer round: marker audit + join/label machinery rebuilt
+
+The editor's answers (S02-S23) exposed the systemic marker problem and
+confirmed the spanning-note class. Applied:
+
+Editor rulings applied to the text: S03 13.915 kept with [sic]; S05
+60[^68-6] morgów; S06 Tabela V rebuilt (the absolute rows 44|20|3|21,
+78|17|3|58, 122|37|6|79 - the editor's reading; 20+3+21=44 confirms;
+percents 45,5/6,8/47,7 - the 41,7 was a 47,7 transposition; the header
+reconstructed); S08 r. 1653; S10a 2½ razy; S10b 88½ zł; S11 od
+30[^86-1] do 70[^86-2]; S12 121½ garnca wódki; S13 4,58 litra[^78-2];
+S15 5 2/5 / 4 3/5 włóki[^98-4]; S16 5% sumy; S17 10% kwoty; S18 44
+lata[^43-3] / 60 lat[^43-4]; S19 the 1782 Bracknitzer Holl. petition
+re-read at 3x and rewritten (ö/ü/ä restored, '8 Ellen' restored - the
+auto label had eaten the 8 -, the date '22 maja' restored - the auto
+label had eaten the 22 -, markers 2/3 anchored at Brandenburger²/Koerth³
+per the defs); S02 confirmed the note 14-1 extent (no change needed).
+
+S23a-f RESOLVED - no lacunae: pixel-density profiling of all six
+'lost line' zones shows blank + the footnote separator rule; every
+sentence continues overleaf (sporzą-|dzane, 200|talarów, podwyż-|szył,
+przywileje|wystawione, rów-|nież, rzeczy|przyczynił, względnie|lektora,
+inter e-|sującego, bądź nad|brzegami). The compose cross-page join was
+REWRITTEN: the old code duplicated page A's whole last paragraph into
+page B (frag[:-1]+pb[0]); now only the fragment word (with its parked
+labels) moves, and a plain mid-sentence page break (no terminal punct,
+lowercase continuation, not a quote) moves the whole paragraph to page
+B. Sliver lines (single-letter warp junk) are dropped before assembly
+(111 lines; they had poisoned the hyphen joins: 'sporzą-'+'z' ->
+'sporząz', 'materia-'+'w pracy' -> 'materiaw').
+
+Marker audit (the editor's 'look critically' instruction). The markers
+are inline full-size digits; OCR fuses them forward ('60⁶'->'608',
+'70²'->'70?', '³'->'%', '⁴'->'*'/'\$') or the parse skipped the line.
+markers3 v4: (a) skipped lines now contribute standalone+artifact
+candidates; (b) isolated artifact glyphs (*, \$, ?, £) are marker
+candidates; (c) '|' excluded (line art); (d) both models' duplicate
+detections deduped by (top, token) - the old count-trim had been
+padding pages with dual-model pairs, DISPLACING real markers; (e) a
+MANUAL_ADD/MANUAL_DROP layer for the print-verified markers (all
+semantically confirmed against the def contents), with audit-authored
+token replacements ('608'->'60[^..]', 'cm2'->'cm[^..]', '17732,'->
+'1773[^..],'), protected from the count-trim; (f) MANUAL_DROP_RANGES
+for table regions (Tabela V's digits are data, not markers). Short
+pages 67 -> 31; labels 546 -> 577; the insert_marks glued matcher now
+requires the word base to EQUAL the token base (a prefix match ate
+'iniciatywy'->'ini'), standalone placements keep their trailing
+punctuation, artifact placements must match the glyph token.
+
+Fully audited pages (markers 1..N placed, def-pairing restored):
+p. 6? no - the FIVE editor pages: 43 (9), 68 (10), 78 (9), 86 (10),
+98 (6 - the note block rebuilt: the print has SIX notes, the strip
+merged 3-6 into one stored note; texts from the 3x band read) + 66
+(Tabela V region cleaned) + 97 (the petition page). The audit dump
+(audit_dump.py) covers all short pages; ~27 pages remain (the
+unanchored 113 defs concentrate there) - next round.
+
+Deliverables: LINES_SHEET.html (the editor draws row separators on
+Tabela V + the 21 ANEKS I sheets, Collect outputs scan-pixel y-JSON);
+SPOT_SHEET.html regenerated with ONLY the 4 open items (S04/S07/S09/
+S14, crops re-done at 2x so the numbers are legible; S07/S09/S14 carry
+my applied readings pending confirmation). The confusing section C
+tables are gone, replaced by the audit-status note + residual list.
+
+Chain: structure2/4 -> markers3 (v4) -> marked_lines -> spot_fixes
+(idempotent: BODY_FIXES line-addressed, DROP_LINES/DROP_RANGES,
+LINE_TEXT rewrites incl. the S19 German + Tabela V, structure4 note
+fixes) -> compose (join v2 + the label-space polish 'word [^x]' ->
+'word[^x]'). Draft 408.9 kB; 534 body labels all def-paired, 0
+dangling, 0 duplicates; 113 defs unanchored (audit residue). The four
+unruled number items stay open with fixed crops.

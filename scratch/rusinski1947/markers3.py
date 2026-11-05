@@ -20,6 +20,96 @@ TAIL = re.compile(r'^(?P<base>[^\W\d_][\wąćęłńóśźż.\-]*?)[*?]*\d{1,2}[*
                   r'[.,;:»”"]?$', re.UNICODE)
 DIGIT = re.compile(r'^\d{1,2}[.,]?$')
 
+# markers recovered against the print (the per-page audit): scan ->
+# [(line_top, tok, kind, out)] where 'out' is an explicit replacement
+# for the token ('{label}' placeholder) when the fused token must be
+# split ('608' -> '60' + marker 6); tok matches the STRUCTURE-line
+# token (substring match). Every entry below was verified against the
+# print (3x band reads) and the def's content.
+MANUAL_ADD = {
+    # p. 43: 1 ciała¹, 2 gminnego², 3 lata³, 4 lat⁴, 5 Marianowo⁵,
+    # 6 rozbiorów⁶ (auto '8,' keeps), 7 Gebhardta⁷, 8 Schulza⁸, 9 1613⁹
+    '0058': [
+        (778, '1),', 'manual', '[^{label}]),'),
+        (996, 'gminnego.', 'glued', None),
+        (1959, '3,', 'manual', '[^{label}],'),
+        (1959, '£.', 'manual', '[^{label}].'),
+        (2176, '5.', 'manual', None),
+        (3132, '7?', 'manual', '[^{label}]'),
+        (3132, '8,', 'manual', '[^{label}],'),
+        (3428, '1613', 'manual', '1613[^{label}],'),
+    ],
+    # p. 68: 1 cale¹, 2 57,6 cm², 3 ślady³ (auto), 4 hubą⁴ (auto *.),
+    # 5 morgom⁵, 6 60⁶, 7 włóki⁷, 8 powienien⁸, 9 śladu⁹, 10 gospodarzy¹⁰
+    '0083': [
+        (682, 'cale', 'glued', None),
+        (999, '?.', 'manual', 'cm[^{label}].'),
+        (2174, '8.', 'manual', '[^{label}].'),
+        (2278, '608', 'manual', '60[^{label}]'),
+        (2919, '”.', 'manual', '[^{label}].'),
+        (3239, '8,', 'manual', '[^{label}],'),
+        (3454, '?.', 'manual', '[^{label}].'),
+        (3865, "'0)", 'manual', '[^{label}]).'),
+    ],
+    # p. 78: 1 garncy¹, 2 litra², 3 sąsiednich³, 4 1773⁴ (auto £.),
+    # 5 pańskiego⁵ (auto), 6 pieniężny⁶ (auto 6), 7 poczciwi⁷ (auto ?),
+    # 8 domowej⁸, 9 sztrafą⁹
+    '0093': [
+        (702, '1.', 'manual', '[^{label}].'),
+        (1004, '*.', 'manual', '[^{label}].'),
+        (1329, '3,', 'manual', '[^{label}],'),
+        (3473, 'poczciwi”', 'manual', '„poczciwi”[^{label}]'),
+        (3685, 'domowej', 'glued', None),
+        (3685, 'sztrafą', 'manual', 'sztrafą”[^{label}].'),
+    ],
+    # p. 86: 1 30¹, 2 70², 3 zł³, 4 XVIII⁴, 5 czasowo⁵, 6 równocześnie⁶,
+    # 7 tynfa⁷, 8 ogólnego⁸, 9 leśne⁹ (auto ?.), 10 zł¹⁰ (auto zł10)
+    '0101': [
+        (783, '301', 'manual', '30[^{label}]'),
+        (889, '70?', 'manual', '70[^{label}]'),
+        (1100, '8,', 'manual', '[^{label}],'),
+        (1515, '£.', 'manual', '[^{label}].'),
+        (2149, '5.', 'manual', None),
+        (2254, 'równocześnie$.', 'manual', 'równocześnie[^{label}],'),
+        (2566, '%.', 'manual', '[^{label}].'),
+        (2785, '8.', 'manual', '[^{label}].'),
+    ],
+    # p. 98: 1 Schmidt¹, 2 1773², 3 podatkowych³, 4 włóki⁴, 5 morgów⁵,
+    # 6 g⁶
+    '0113': [
+        (1010, '1.', 'manual', '[^{label}].'),
+        (1323, '1773', 'manual', '1773[^{label}],'),
+        (1773, '%.', 'manual', '[^{label}].'),
+        (2182, '$,', 'manual', '[^{label}],'),
+        (2317, '5,', 'manual', '[^{label}],'),
+        (3373, 'g%.', 'manual', 'g[^{label}].'),
+    ],
+    # p. 97: 1 ujskiego¹ (auto), 2 Brandenburger², 3 Koerth³
+    '0112': [
+        (1175, 'Brandenburger?', 'manual', 'Brandenburger[^{label}]'),
+        (1175, '3.', 'manual', '[^{label}].'),
+    ],
+}
+# false auto candidates to remove: scan -> [(top, tok)]
+MANUAL_DROP = {    '0058': [(984, '2.'), (1947, '44'), (1947, '3.'), (1947, '60'),
+             (1978, '44'), (1978, '00'), (1978, '*.'), (2163, '5,'),
+             (3117, '7'), (3117, '8,')],
+    '0083': [(661, '24'), (976, 'com2'), (976, 'cm2'), (976, '6'),
+             (1440, '??'), (2171, '2'), (2171, '60'), (2927, '*.')],
+    '0093': [(666, '8'), (1205, '1'), (2474, 'C7yNns7'), (3451, '?')],
+    '0101': [(777, '50'), (879, '|'), (1093, '38'), (1511, '|'),
+             (1830, '2'), (1937, '10'), (1937, '6'), (3196, '|')],
+    '0113': [(1345, 'Jl57'), (2281, 'morgów*9'), (991, '1.')],
+    # p. 97: '22' was the DATE ('22 maja 1782'), not a marker; the
+    # '8' in the quote was the 8 of '8 Ellen'
+    '0112': [(1830, '22'), (2626, '8')],
+}
+# whole regions where every digit is table data, not a marker:
+# scan -> [(lo, hi)]
+MANUAL_DROP_RANGES = {
+    '0081': [(1900, 2900)],
+}
+
 
 def line_candidates(text):
     """Candidates in one line's tokens: [(kind, tok_index, tok, weight)]."""
@@ -35,6 +125,12 @@ def line_candidates(text):
         if m and re.search(r'\d$', w) and len(m.group('base')) >= 2 \
                 and not re.fullmatch(r'\d+', w):
             out.append(('glued', i, w, 2))
+            continue
+        if re.fullmatch(r'[*?$§£?]+[.,;:»”"]?', w):
+            # an isolated artifact glyph: the print's inline marker as
+            # the models read it ('*', '$', '?.') - almost always the
+            # marker, never prose. '|' excluded (line-art, not markers)
+            out.append(('artifact', i, w, 2))
             continue
         if DIGIT.match(w) and i > 0:
             prev_ok = re.search(r'[^\W\d_]$', prev, re.UNICODE)
@@ -89,9 +185,12 @@ def main():
         cands = []
         for r in recs:
             if r.get('skipped'):
-                # skipped lines were high-confidence and tail-free; but a
-                # marker may still ride them (the skip rule's residual
-                # risk): the page pass's own tails are the fallback
+                # skipped lines were high-confidence and tail-free; but
+                # a marker may still ride them: BOTH the glued tails
+                # and the standalone/artifact candidates of the page
+                # pass's own read are the fallback
+                for kind, i, w, weight in line_candidates(r['page']):
+                    cands.append((kind, r['top'], w, 1, False))
                 for w in r['page'].split():
                     m = TAIL.match(w)
                     if m and re.search(r'\d$', w) \
@@ -118,15 +217,51 @@ def main():
                     cands.append((kind, r['top'], w, weight, num_ctx))
         # order by line, then position
         cands.sort(key=lambda c: (c[1], c[0] != 'glued-artifact'))
-        if len(cands) > want:
-            # drop the weakest until the count fits
-            cands = sorted(cands, key=lambda c: -c[3])[:want]
-            cands = sorted(cands, key=lambda c: (c[1], c[3]))
+        # dedup: both OCR models produce the same candidate on a line
+        # (same top, same token) - the pairs displaced REAL markers via
+        # the count-trim and stacked double labels in the body
+        norm = lambda tk: re.sub(r'[^\w]', '', tk, re.UNICODE).lower()
+        best = {}
+        for c in cands:
+            k = (c[1], norm(c[2]))
+            if k not in best or c[3] > best[k][3]:
+                best[k] = c
+        cands = sorted(best.values(),
+                       key=lambda c: (c[1], c[0] != 'glued-artifact'))
+        # manual audit marks: markers recovered against the print that
+        # the models missed (fused digits '608' = '60' + marker 6), and
+        # false auto candidates to drop ('44' read as a marker). A
+        # manual add carries an 'out' replacement for the text token.
+        cands = [c for c in cands
+                 if not any(abs(c[1] - dt) <= 80 and norm(c[2]) == norm(dtk)
+                            for (dt, dtk) in MANUAL_DROP.get(n, []))
+                 and not any(lo <= c[1] < hi
+                             for (lo, hi) in MANUAL_DROP_RANGES.get(n, []))]
+        prot = []
+        rest = []
+        for c in cands:
+            covered = norm(c[2]) and any(
+                abs(c[1] - mtop) <= 80 and norm(c[2]) == norm(mtok)
+                for (mtop, mtok, mk_, mo) in MANUAL_ADD.get(n, []))
+            (prot if c[3] >= 4 or covered else rest).append(c)
+        for (mtop, mtok, mkind, mout) in MANUAL_ADD.get(n, []):
+            prot.append((mkind, mtop, mtok, 4, False, mout))
+        # the trim only drops UNPROTECTED candidates: the audit-verified
+        # markers must survive it
+        room = max(0, want - len(prot))
+        if len(rest) > room:
+            rest = sorted(rest, key=lambda c: -c[3])[:room]
+        cands = prot + rest
+        cands = [(c + (None,))[:6] if len(c) == 5 else c for c in cands]
+        cands.sort(key=lambda c: (c[1], c[0] != 'glued-artifact'))
         out = []
-        for i, (kind, top, w, weight, num_ctx) in enumerate(cands):
-            out.append({'label': f'{int(n) - 15}-{i + 1}', 'top': top,
-                        'tok': w, 'kind': kind, 'weight': weight,
-                        'num_ctx': num_ctx})
+        for i, (kind, top, w, weight, num_ctx, extra) in enumerate(cands):
+            e = {'label': f'{int(n) - 15}-{i + 1}', 'top': top,
+                 'tok': w, 'kind': kind, 'weight': weight,
+                 'num_ctx': num_ctx}
+            if extra:
+                e['out'] = extra
+            out.append(e)
         markers[n] = out
         if len(out) < want:
             shorts.append((n, want, len(out), ''))

@@ -36,33 +36,65 @@ def insert_marks(line_text, marks):
                 continue
             tok = mk.get('tok', '')
             kind = mk.get('kind', '')
+            if mk.get('out'):
+                # audit-authored replacement: the token is replaced
+                # wholesale ('out' carries '{label}'); tok may match as
+                # a substring (fused tokens '17732,' via '1773')
+                if w == tok or (tok and tok in w):
+                    out.append(mk['out'].replace('{label}',
+                                                 mk['label']))
+                    used.add(mi)
+                    placed = True
+                    break
+                continue
             want = strip_tail(tok) or tok.rstrip('0123456789*?.,;:')
             base = w.rstrip('.,;:!?»”"')
             if kind == 'standalone' and w.rstrip('.,;:') == tok \
                     .rstrip('.,;:'):
+                punct = w[len(w.rstrip('.,;:')):]
                 if mk.get('num_ctx'):
                     # number-context placement: KEEP the digit (it may
                     # be a real number, not the marker - 'co 4
                     # tygodnie') and set the label after it
                     out.append(w + f"[^{mk['label']}]")
                 else:
-                    out.append(f"[^{mk['label']}]")
+                    out.append(f"[^{mk['label']}]" + punct)
                 used.add(mi)
                 placed = True
                 break
-            if kind != 'standalone' and want and base == want:
-                tail = w[len(base):]
-                out.append(f"{want}[^{mk['label']}]{tail}")
+            if kind == 'artifact' and \
+                    re.fullmatch(r'[*?$§£|?]+[.,;:»”"]?', w):
+                # an isolated artifact glyph the models produced for the
+                # print's inline marker ('*', '$', '?.', '£.') - the
+                # word must BE the glyph (an untested match ate prose)
+                punct = w[len(w.rstrip('.,;:')):]
+                out.append(f"[^{mk['label']}]" + punct)
                 used.add(mi)
                 placed = True
                 break
-            if kind != 'standalone' and tok != base and base == tok:
-                # the token itself glued ('Ujskich1'): strip the tail
-                out.append(f"{want}[^{mk['label']}]"
-                           + w[len(base):])
-                used.add(mi)
-                placed = True
-                break
+            if kind != 'standalone':
+                # the print's glued marker: the structure word carries
+                # the digit tail ('Maasa4', 'zezwalał1,') or lost it
+                # ('osadniczej' for lp 'osadniczej1'). The word base
+                # must EQUAL want - a mere prefix ('ini' vs
+                # 'iniciatywy') must never match (it ate words).
+                wb = re.sub(r'[\d*?]+$', '', w.rstrip('.,;:!?»”"'))
+                if wb and wb != w and wb == want and \
+                        re.search(r'[\d*?]', w):
+                    tailp = w[len(wb):]
+                    tailp = re.sub(r'^[\d*?]+', '', tailp)
+                    out.append(f"{wb}[^{mk['label']}]{tailp}")
+                    used.add(mi)
+                    placed = True
+                    break
+                if wb == want and wb == w and want != tok and \
+                        re.search(r'[\d*?]', tok):
+                    # the structure read lost the marker digit: keep the
+                    # word, append the label after it
+                    out.append(f"{w}[^{mk['label']}]")
+                    used.add(mi)
+                    placed = True
+                    break
         if not placed:
             out.append(w)
     # any unmatched markers: at the line's end, in order
