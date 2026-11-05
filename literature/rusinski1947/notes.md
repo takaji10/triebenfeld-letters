@@ -117,22 +117,18 @@ Zagórów-Trąbczyn ring appear in its tables and its founding-lists.
 
 ## What is still to do (this work)
 
-1. The word-level settlement: the draft original.md is composed (415 kB)
-   but its word layer still carries the page-passes' artifacts; the band
-   re-reads (2,040 bands, read) and the line re-reads (166 pages, read)
-   are the witnesses to settle them against, page by page, with the
-   difflib alignment (quality.py's candidates).
-2. The footnote anchors: 469 of 549 markers placed (line right, the
-   anchor word can be a few words off); 80 definitions lack their
-   in-text label and 24 pages' marker shortfalls go to the spot sheet
-   with their line crops.
-3. The footnote inventory is CLOSED (2026-11-05, second pass): the v1
-   chain parser had silently dropped whole note blocks (213 notes
-   recovered by structure2's geometric parse); the independent
-   geometry gate runs at zero suspects. The annex tables' trailing
-   notes (about 15, text captured in the strip reads) go to the spot
-   sheet - the warped sheets' row anchors and note digits are
-   geometrically entangled.
+1. The word-level settlement: settle.py v2 ran (2,295 candidates:
+   2,214 resolved with the near-spelling guard, 813 to the spot list) -
+   the spot words still have to be gone through with crops.
+2. The footnote anchors: 498 of 593 markers placed (proximity-matched
+   to the rebuilt lines); 95 definitions lack their in-text label and
+   go to the spot sheet with their line crops.
+3. The footnote inventory is CLOSED (2026-11-05, third pass - see "The
+   note parse, v4-v6" below): 593 notes, 589 strip+page verified, the
+   two v2-era SPOT cases (0096-5, 0099-5) resolved by the new
+   witnesses. The annex tables' trailing notes (about 15, text captured
+   in the strip reads) go to the spot sheet - the warped sheets' row
+   anchors and note digits are geometrically entangled.
 4. The annex rows: 147 tier A (geometric cells), 47 tier B (chunk
    parse), 107 tier C (raw text only) of 287 - the C rows are read and
    in the draft, but not yet column-split; the tables' totals check
@@ -142,3 +138,67 @@ Zagórów-Trąbczyn ring appear in its tables and its founding-lists.
 6. The spot sheet last, with the crops: the marker anchors, the
    annex-table notes, the tier-C annex rows, the words the witnesses
    cannot settle.
+
+## The note parse, v4-v6 (2026-11-05, the third inventory pass)
+
+The v2 inventory (549 notes) was chain-consistent but INCOMPLETE in
+both directions, which the editor's "try them yourself first" pushed
+into the open:
+
+- **It under-counted**: v2's block started at the foot's largest gap
+  and stopped at the last digit it could read - 0103 has 17 notes in
+  the print (the printed numbers 8..17 sit in the note texts) and v2
+  had found 5; 0020 has 13 and v2 had found 4. Whole trailing runs of
+  notes were outside the parsed block.
+- **It swallowed body**: 0075's '2. Skład społeczny' section heading
+  (digit-led, big gap above, body-size type) parsed as a note, with
+  the paragraph after it; 0077/0079's table rows likewise.
+
+The fix that held (**structure2.py v6**): the page's own lines are
+1:1 with the print's lines (TSV reading-order grouping - the earlier
+top-sort orphaned first words on warped pages: 0018's 'we
+wcześniejszym' lost its 'we'); the wide strip (the whole foot at 3x,
+**psm 4** - psm 6 collapsed dense note blocks into one paragraph) is
+read line by line and its lines are ALIGNED to the page's lines. A
+strip line matching a page line's prefix begins a note iff its leading
+token is a 1-2 digit number (requiring footnote-size type - a numbered
+section heading is body-size), a strong artifact glyph ('!%*+$§£|?'
+- the print's ornamental small digits misread), or a digit-1 lookalike
+('l Przywilej'); a strip line inside a page line is a psm-4 split
+artifact. Every alignment pair must earn ratio >= 0.55 and orphaned
+real lines are reassigned to unclaimed page lines (debris strip lines
+used to consume page lines and leave real note lines homeless,
+0116). The strip is used only within its true coverage (y >= y0).
+Marker-less notes (the OCR dropped the marker entirely, 0061's note 4)
+come from the psm4 paragraph break + previous sentence end + citation
+opener. Garbled-strip pages (0036, 0052, 0136 - warped sheets) fall
+back to the v1 geometry parse with debris lines dropped.
+
+Result: **593 notes**; 589 verified by strip-vs-page first-word
+agreement; the 2 low-ratio residues are false alarms (a junk prefix,
+fraction-glyph variance); per-note crops polish 7 garbled texts
+(lexicon-validity arbitrated). Downstream: markers matched to the
+rebuilt lines by PROXIMITY (the v1-lineation marker tops never
+equal-matched: label placement had silently collapsed to 45 labels);
+the paragraphs' hyphen join now REPLACES the fragment (the old code
+appended the joined word after it - 'zna- znanej' duplication
+throughout; the old 415 kB draft carried ~70 kB of such debris).
+
+Traps worth keeping:
+
+- **psm 6 cannot segment dense footnote blocks** - it reflows them
+  into one paragraph; psm 4 preserves the print's line and paragraph
+  breaks.
+- **A page's last body line often ends mid-sentence** (the paragraph
+  runs over the leaf) - a body/note boundary check that demands
+  sentence-final punctuation flags ~56 innocent pages.
+- **An abbreviation period is not a sentence end** ('C.', 'fol.',
+  'AW. A. 1—4.' end mid-citation lines); the first attempt wrote the
+  abbreviation list as a character class ([fol|s|nr]) which matches one
+  character - it never worked until rewritten as alternation.
+- **Tesseract TSV word order IS the line membership** - sorting words
+  by top before grouping breaks on warped baselines.
+- **A witness built from a wrong boundary cannot witness that
+  boundary** (the v2-crop notestrips began at v2's first-note top and
+  'confirmed' 0075's swallowed heading; the wide strips - whole foot -
+  were needed).
