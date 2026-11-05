@@ -37,6 +37,7 @@ def main():
     struct = json.load(open(spath, encoding='utf-8'))
     sys.path.insert(0, HERE)
     from paragraphs2 import assemble_marked
+    import readability
     parts = []
 
     # ---- front matter -------------------------------------------------
@@ -44,9 +45,31 @@ def main():
     if os.path.isfile(fm):
         parts.append(open(fm, encoding='utf-8').read().strip())
     # ---- body ---------------------------------------------------------
+    # paragraphs collected per page first: the readability pass + the
+    # cross-page hyphen join (a word hyphenated over the leaf: p. 32
+    # 'Element nie-' -> p. 33 'miecki...') run before assembly
+    page_paras = {}
+    for n in BODY + ANEX2 + ANEX3:
+        page_paras[n] = [readability.apply(p)
+                         for p in assemble_marked(n)]
+        for note in struct[n]['notes']:
+            note['text'] = readability.apply(note['text'])
+    order = BODY + ANEX2 + ANEX3
+    for a, b in zip(order, order[1:]):
+        pa, pb = page_paras[a], page_paras[b]
+        if pa and pb and pa[-1].rstrip().endswith('-') \
+                and pb and pb[0][:1].islower():
+            frag = pa[-1].rstrip()
+            # the hyphenated word completes on the next page: the
+            # fragment word is dropped from page A and the joined word
+            # opens page B
+            words_a = pa[-1].split()
+            keep = ' '.join(words_a[:-1])
+            page_paras[a] = pa[:-1] + ([keep] if keep else [])
+            page_paras[b] = [frag[:-1] + pb[0]] + pb[1:]
     for n in BODY:
         parts.append(f'[p. {label(n)}]\n')
-        parts.append('\n\n'.join(assemble_marked(n)))
+        parts.append('\n\n'.join(page_paras[n]))
         notes = []
         for note in struct[n]['notes']:
             notes.append(f"[^{label(n)}-{note['num']}]: {note['text']}")
@@ -74,7 +97,7 @@ def main():
     for group in (ANEX2, ANEX3):
         for n in group:
             parts.append(f'[p. {label(n)}]\n')
-            parts.append('\n\n'.join(assemble_marked(n)))
+            parts.append('\n\n'.join(page_paras[n]))
             notes = []
             for note in struct[n]['notes']:
                 notes.append(f"[^{label(n)}-{note['num']}]: {note['text']}")
