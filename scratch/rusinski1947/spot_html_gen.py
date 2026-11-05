@@ -24,10 +24,6 @@ def datauri(name):
 
 # ---------------- the decision items -------------------------------------
 ITEMS = [
-    ('S01', 'A', 'p. 50', 'RESOLVED — the quotation after "W nielicznych wypadkach" is a spanning footnote',
-     'Before: p. 50\'s body carried the old-Polish quotation "z pierwszego małżeństwa dzieci równo należeć maią…" after "…W nielicznych wypadkach". Now: p. 49\'s note 4 („Bardzo szczegółowe…: „Ponieważ znaczna się krzywda dzieje…") runs to the page bottom mid-sentence ("…a miała wprzód") and completes at the top of p. 50\'s note block; the continuation was moved into [^49-4] and p. 50\'s body ends "…W nielicznych wypadkach" as in the print.',
-     'Your hypothesis, confirmed against the print (bands 0064 3900-4750 / 0065 3400-4200). Four sibling cases found and repaired the same way (pp. 32→33, 38→39, 103→104, 116→117). A related class also surfaced: five pages whose whole first note was absorbed into the body (pp. 16, 20, 49, 99, 118) - repaired. See also the new items S23a-f.',
-     'No action needed; flag only if you disagree.', 'S01_0065_quote_note.png'),
     ('S02', 'A', 'p. 14', 'Is the long commentary ONE note or several?',
      'Note 1 = "Podaną cyfrę trudno skontrolować…" runs ~9 printed lines of settlement commentary (Dąbrowo, Grabowiec, Łoskońskie… Goraj) set solid, no readable marker digits.',
      'The block could be one long note or several (2., 3. …) with unread markers.',
