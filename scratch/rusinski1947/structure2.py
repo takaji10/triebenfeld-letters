@@ -342,15 +342,23 @@ def main():
         body, notes = parse_notes(lns, n=n)
         if not notes and page['notes']:
             # garbled-strip backstop: the v1 geometry parse's notes,
-            # when they all sit in the foot - their texts are the mangled
-            # page-pass reads (the crop/polish step improves them)
+            # when they all sit in the foot. The texts are rebuilt from
+            # the REBUILT lines between the v1 tops, dropping debris
+            # lines (h < 30: the tiny artifact rows like 0036's
+            # '1 " LYS 1:...' that the v1 grouping glued into the text)
             H = lns[-1]['top'] + 100
             v1n = page['notes']
             if all(x['top'] > H * 0.45 for x in v1n):
-                notes = [{'num': i + 1,
-                          'num_read': x.get('num_read'),
-                          'top': x['top'], 'text': x['text']}
-                         for i, x in enumerate(v1n)]
+                notes = []
+                for i, x in enumerate(v1n):
+                    nxt = v1n[i + 1]['top'] if i + 1 < len(v1n) else 10 ** 9
+                    part = [l['text'] for l in lns
+                            if x['top'] - 40 <= l['top'] < nxt - 40
+                            and l['h'] >= 30]
+                    notes.append({'num': i + 1,
+                                  'num_read': x.get('num_read'),
+                                  'top': x['top'],
+                                  'text': ' '.join(part) or x['text']})
                 fallbacks.append(n)
         out[n] = {'lines': lns,
                   'notes': [{'num': x['num'],
