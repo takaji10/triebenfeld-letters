@@ -87,9 +87,28 @@ def main():
             fixes.setdefault(scan, []).append((int(l), int(t), v['print']))
     out = {}
     for n, page in struct.items():
+        note_top = min((x['top'] for x in page['notes']), default=None)
+        # markers ride body lines; match by PROXIMITY (the markers' tops
+        # come from the v1 lineation, the lines from the rebuilt one -
+        # exact equality survived only by coincidence, which had
+        # collapsed label placement to 45). Note-region marker
+        # candidates (the notes' own leading digits) are not body
+        # markers.
+        marks_all = [mk for mk in markers.get(n, [])
+                     if note_top is None or mk['top'] < note_top - 40]
         marks_by_top = {}
-        for mk in markers.get(n, []):
-            marks_by_top.setdefault(mk['top'], []).append(mk)
+        for mk in marks_all:
+            # the closest rebuilt line above/at the marker's top
+            best = None
+            bd = 10 ** 9
+            for ln in page['lines']:
+                if ln['top'] >= note_top:
+                    continue
+                d = abs(ln['top'] - mk['top'])
+                if d < bd:
+                    bd, best = d, ln
+            if best is not None and bd <= 60:
+                marks_by_top.setdefault(best['top'], []).append(mk)
         # this page's fix tokens: (left, top) -> print form; the
         # affected line is the TSV word's own line (top within 30)
         fix_by_linetop = {}
@@ -110,7 +129,6 @@ def main():
                             fix_by_linetop.setdefault(lt, []).append(
                                 (x[5].strip(), pr))
         lines = []
-        note_top = min((x['top'] for x in page['notes']), default=None)
         for ln in page['lines']:
             if note_top is not None and ln['top'] >= note_top:
                 continue
@@ -123,7 +141,8 @@ def main():
                     t = t.replace(old, pr, 1)
             marks = marks_by_top.get(ln['top'], [])
             t2 = insert_marks(t, marks)
-            lines.append({'top': ln['top'], 'text': t2})
+            lines.append({'top': ln['top'], 'left': ln.get('left'),
+                          'text': t2})
         out[n] = {'lines': lines}
     with open(os.path.join(OCR, 'marked_lines.json'), 'w',
               encoding='utf-8', newline='\n') as fh:

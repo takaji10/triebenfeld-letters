@@ -76,7 +76,7 @@ def lines_of(page):
             if l < pl - 60 or abs(t - pt) > 0.75 * max(ph, h, 40):
                 new = True
         if new:
-            lines.append({'top': t, 'text': txt, 'hs': [h]})
+            lines.append({'top': t, 'text': txt, 'left': l, 'hs': [h]})
         else:
             lines[-1]['text'] += ' ' + txt
             lines[-1]['hs'].append(h)
