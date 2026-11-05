@@ -84,7 +84,7 @@ it — those placements are listed in `spot_numctx.csv` (206 items) and
 deserve a glance: if a listed digit is actually the marker, the label
 sits one token late (harmless); if it is a real number, all good.
 
-119 footnote definitions lack their in-text anchor
+123 footnote definitions lack their in-text anchor
 (`spot_orphan_defs.csv`: printed page, note no., text). They are real
 notes; their markers were lost by OCR. Locating them needs the print
 (the page crops on request).

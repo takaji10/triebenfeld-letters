@@ -24,11 +24,10 @@ def datauri(name):
 
 # ---------------- the decision items -------------------------------------
 ITEMS = [
-    ('S01', 'A', 'p. 50', 'The quotation after "W nielicznych wypadkach"',
-     'Body ends mid-sentence ("…W nielicznych wypadkach", the sentence resumes on p. 51 "wybór wymagał zatwierdzenia…"). Then the old-Polish quotation "z pierwszego małżeństwa dzieci równo należeć maią…", then note "1 Kar. II, fol. 239.".',
-     'I read the quotation as NOTE 1 of p. 50 (a wilkierz quote). Its marker + first words sit on a line that defeats OCR even at 6x - in the draft it is left as body text. If it is a note, the body also needs its marker anchor (which word carries marker 1?).',
-     'Note 1 of p. 50; please confirm - and if so, the marker anchor needs the print.',
-     'S01_0065_quote_note.png'),
+    ('S01', 'A', 'p. 50', 'RESOLVED — the quotation after "W nielicznych wypadkach" is a spanning footnote',
+     'Before: p. 50\'s body carried the old-Polish quotation "z pierwszego małżeństwa dzieci równo należeć maią…" after "…W nielicznych wypadkach". Now: p. 49\'s note 4 („Bardzo szczegółowe…: „Ponieważ znaczna się krzywda dzieje…") runs to the page bottom mid-sentence ("…a miała wprzód") and completes at the top of p. 50\'s note block; the continuation was moved into [^49-4] and p. 50\'s body ends "…W nielicznych wypadkach" as in the print.',
+     'Your hypothesis, confirmed against the print (bands 0064 3900-4750 / 0065 3400-4200). Four sibling cases found and repaired the same way (pp. 32→33, 38→39, 103→104, 116→117). A related class also surfaced: five pages whose whole first note was absorbed into the body (pp. 16, 20, 49, 99, 118) - repaired. See also the new items S23a-f.',
+     'No action needed; flag only if you disagree.', 'S01_0065_quote_note.png'),
     ('S02', 'A', 'p. 14', 'Is the long commentary ONE note or several?',
      'Note 1 = "Podaną cyfrę trudno skontrolować…" runs ~9 printed lines of settlement commentary (Dąbrowo, Grabowiec, Łoskońskie… Goraj) set solid, no readable marker digits.',
      'The block could be one long note or several (2., 3. …) with unread markers.',
@@ -106,6 +105,30 @@ ITEMS = [
      'The 1743 petition of the Ujskie Olędry is quoted in German at length; the OCR is heavily corrupted ("Allcrgnidigst", "gintzlich", "Kónigł").',
      'If the quote matters for the edition it needs a careful re-read; otherwise mark it as an unchecked quotation (sic).',
      'editor\'s call: re-read or sic', 'S19_p97_german.png'),
+    ('S23a', 'F', 'p. 49 (scan 0064, y≈2240-2430)', 'Degraded lines: after "Testamenty musiały być niekiedy sporzą-"',
+     'The body ends "…Testamenty musiały być niekiedy sporzą-" and the note block follows; 1-2 lines are lost (the word completion and possibly more).',
+     'The zone defeats OCR at 8x with thresholding/autocontrast/median (tried). The print itself is degraded there.',
+     'leave the break, or supply the reading from your copy', 'S23a_0064_testamenty.png'),
+    ('S23b', 'F', 'p. 99 (scan 0114, y≈3560-3780)', 'Degraded lines: after "podniosła się do 200"',
+     'The body ends "…cena gospodarstwa … podniosła się do 200" and the note block follows; the amount\'s completion (1 line) is lost.',
+     'Same degradation class; 8x + thresholding fails.',
+     'leave the break, or supply the reading', 'S23b_0114_do200.png'),
+    ('S23c', 'F', 'p. 101 (scan 0116, y≈4060-4280)', 'Degraded lines: after "znacznie podwyż-"',
+     'The body ends "…Radca pruski v. Zacha wbrew przywilejowi znacznie podwyż-" mid-word; ~2 lines lost before the note block.',
+     'Same degradation class; 8x + thresholding fails.',
+     'leave the break, or supply the reading', 'S23c_0116_podwyz.png'),
+    ('S23d', 'F', 'p. 108 (scan 0123, y≈3260-3470)', 'Degraded lines: after "…z lat 1764 i 1775 przywileje"',
+     'The body ends "…W związku z reformami skarbowymi z lat 1764 i 1775 przywileje"; ~2 lines lost before the note block.',
+     'Same degradation class; 8x + thresholding fails.',
+     'leave the break, or supply the reading', 'S23d_0123_przywileje.png'),
+    ('S23e', 'F', 'p. 109 (scan 0124, y≈4160-4400)', 'Degraded lines: after "Potwierdza to rów-"',
+     'The body ends "…Potwierdza to rów-" mid-word; ~2-3 lines lost before the note block.',
+     'Same degradation class; 8x + thresholding fails.',
+     'leave the break, or supply the reading', 'S23e_0124_row.png'),
+    ('S23f', 'F', 'p. 117 (scan 0132, y≈2600-2860)', 'Degraded lines: after "…kazań przez nauczyciela względnie"',
+     'The body ends "…Tu należał zakaz wygłaszania kazań przez nauczyciela względnie"; 2 lines lost before the note runover.',
+     'Same degradation class (the known case from the first sitting).',
+     'leave the break, or supply the reading', 'S23f_0132_wzglednie.png'),
 ]
 
 # ---------------- the tables ----------------------------------------------
@@ -171,6 +194,7 @@ def table(rows, headers):
 secA = '\n'.join(item_html(it) for it in ITEMS if it[1] == 'A')
 secB = '\n'.join(item_html(it) for it in ITEMS if it[1] == 'B')
 secE = '\n'.join(item_html(it) for it in ITEMS if it[1] == 'E')
+secF = '\n'.join(item_html(it) for it in ITEMS if it[1] == 'F')
 nav = ' '.join('<a href="#' + it[0] + '">' + it[0] + '</a>'
                for it in ITEMS)
 orphan_rows = [(o['page_note'], o['text'][:120]) for o in orphans]
@@ -186,6 +210,7 @@ page = (TEMPLATE
         .replace('@@SECA@@', secA)
         .replace('@@SECB@@', secB)
         .replace('@@SECE@@', secE)
+        .replace('@@SECF@@', secF)
         .replace('@@NUMCTX_COUNT@@', str(len(numctx_rows)))
         .replace('@@NUMCTX@@', table(numctx_rows,
                                      ['page', 'label', 'digit token']))

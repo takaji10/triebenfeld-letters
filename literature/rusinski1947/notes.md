@@ -202,3 +202,75 @@ Traps worth keeping:
   boundary** (the v2-crop notestrips began at v2's first-note top and
   'confirmed' 0075's swallowed heading; the wide strips - whole foot -
   were needed).
+
+## Spanning notes and the small-type lead-ins (the editor's S01 hypothesis)
+
+The print continues a long note set in solid small type from the bottom
+of page N across to the TOP of page N+1's note block (before N+1's own
+note 1, no marker). The v6 parse left such continuations in the body.
+
+Confirmed and repaired (span_repair.py; each join verified against the
+print at 3-8x):
+
+- runover continuations moved into the previous page's last note:
+  0048->0047 (p. 32->33, the Daleszyno lustracja note), 0054->0053
+  (p. 38->39, the Essenwalde petition + outcome), 0065->0064 (p. 49->50,
+  the editor's S01 wilkierz quotation), 0119->0118 (p. 103->104, the
+  German petition of the Ujskie Ol.), 0132->0131 (p. 116->117, the
+  'metryki protestanckie Lwowka' runover - its receiving line survived
+  only as a faint band, y~3130-3200, pixel-density verified).
+- missed FIRST notes absorbed into the body (class b): 0064 (print
+  note 1 'Przywilej dla Ol. Karpicko...', lines 2415-3298; stored notes
+  renumbered, they were the print's 2-4), 0114 (print note 1
+  'Prawdopodobnie wyrokiem sądowym...', crafted from the 3x read -
+  the strip had lost 'tylko' and 'robocizn'; stored 'pod owa Bede'
+  corrected to the print's 'pod słowami Bede'), 0133 (print note 1
+  'AW. Krosna, A. 1: Bakałarza...', crafted), 0035 (print note 1
+  'Zagadnienie etymologii...'), 0031 (the Wymysłowo sigla block merged
+  into note 1 - the print's 'I.' is the marker '1.', pol-std 8x; the
+  two 'examples' of 'dwóch przykładach:' ARE notes 1 and 2, and
+  'Dalszy przykład:' closes note 1).
+
+Survey (span_survey.py): small-type lines above a page's first stored
+note top, contiguous tail. 49 pages flagged initially, 43 remain; every
+one adjudicated by the seam test - if the lead flows MID-WORD or
+MID-PHRASE from the body line above (wykar-|czowanej, obli-|czenia,
+ze-|zwalał, wiado-|mością, mły-|nów, Miło-|stowo...), it is the same
+paragraph: body. The line-height difference that flags them (h~65-72
+above h~80-86) is bounding-box noise (ascender/descender), not a type
+change - a word split across a type change is impossible. Class (c)
+pages: 0017 0018 0019 0022 0023 0034 0037 0038 0043 0047 0049 0055
+0056 0058 0059 0060 0061 0069 0070 0071 0081 0090 0093 0099 0102 0104
+0105 0107 0109 0110 0113 0121 0127 0130 (+ sliver-only 0056 0058 0072
+0128). No action.
+
+Side effects of the repair:
+
+- 7 note texts had absorbed the running footer ('Prace Komisji Atlasu
+  hist. Polski, z. 5' + stray glyphs); stripped (FOOTER_RE in
+  span_repair.py).
+- markers3 re-ran with the new note tops: the sigla block's false
+  '89' markers (16-1/16-2, citation years) fell into the excluded
+  note region and dropped; net labels 543 -> 546 (the want-count trim
+  now keeps 3 more of the pre-existing dual-model duplicate
+  detections on the renumbered pages - the stacked-label quirk is
+  markers3's known class, to be settled in the print-verification
+  pass).
+- notetexts/ crop files renamed to the new numbering (a stale crop
+  must not overwrite a renumbered note on a future polish run);
+  0031_1.json retired (.pre-repair.bak).
+- note_apply/note_polish NOT re-run (they would clobber the repairs);
+  the chain resumed at markers3 -> marked_lines -> compose.
+
+New residue (spot items S23a-f): six 1-3-line degraded zones where the
+body breaks mid-word/mid-sentence and every OCR setting fails:
+0064 y2240-2430 ('Testamenty...sporzą-'), 0114 y3560-3780 ('do 200'),
+0116 y4060-4280 ('podwyż-'), 0123 y3260-3470 ('przywileje'),
+0124 y4160-4400 ('rów-'), 0132 y2600-2860 ('względnie'). Editor's call
+(supply readings from a clean copy, or the breaks stand).
+
+State: original.md recomposed (422.3 kB), all repairs verified
+(verify_span2.py, 25/25 PASS), SPOT_SHEET.html regenerated (26 items;
+S01 marked RESOLVED), CSVs refreshed (orphans 123, numctx 206,
+shorts 35). SPOT_SHEET.md not re-synced (secondary twin; the HTML is
+authoritative).
