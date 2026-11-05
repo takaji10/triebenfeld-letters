@@ -3191,6 +3191,16 @@ The Rusinski 1947 sitting's lessons, for the next ruled-table scan:
   context rules (a digit after a letter-word, not between numerics)
   filter the false positives; the page's own note count (the footnotes'
   leading numbers, parsed from the page foot) is the assignment check.
+- **A footnote parse that requires note 1 to read as "1" silently drops
+  whole note blocks** (2026-11-05, the editor's "are you sure you didn't
+  miss any footnotes?" caught it: 336 -> 549 notes). Parse the note
+  block by GEOMETRY (the body-to-notes whitespace gap, candidate blocks
+  scored by which yields a proper 1..k chain), and recover a note start
+  whose printed number the page pass mangled from the 2.5x line pass
+  ('ty Schmidt' -> '% Schmidt' -> note 2). Verify the inventory with an
+  independent bottom-of-page scan, not by re-reading the parser's own
+  output. Beware a printed source's own numbered clauses (the wilkierz's
+  1.-44.) parsing as notes: they are the text, not apparatus.
 - **Strip-band reads settle orientation empirically**: probe each sheet
   in four orientations with a middle band at 1.5x and score the plausible
   Polish words; do not assume scan parity decides.

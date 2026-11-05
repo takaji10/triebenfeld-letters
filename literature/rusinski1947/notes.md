@@ -117,21 +117,28 @@ Zagórów-Trąbczyn ring appear in its tables and its founding-lists.
 
 ## What is still to do (this work)
 
-1. The word-level settlement: the draft original.md is composed (408 kB)
+1. The word-level settlement: the draft original.md is composed (415 kB)
    but its word layer still carries the page-passes' artifacts; the band
    re-reads (2,040 bands, read) and the line re-reads (166 pages, read)
    are the witnesses to settle them against, page by page, with the
    difflib alignment (quality.py's candidates).
-2. The marker positions: 284 of 322 labels placed (their line is right,
-   the anchor word can be a few words off); 26 pages' shortfalls and the
-   38 defs whose label did not land go to the spot sheet with their line
-   crops.
-3. The annex rows: 147 tier A (geometric cells), 47 tier B (chunk parse),
-   107 tier C (raw text only) of 287 - the C rows are read and in the
-   draft, but not yet column-split; the tables' totals check against the
-   book's own sums is open.
-4. The front matter composed into front_matter.md (title page, contents,
-   Wykaz skrótów) - the sources are read (the contents in strips), the
-   file not yet written.
-5. The spot sheet last, with the crops: the marker positions, the tier-C
-   annex rows, the words the witnesses cannot settle.
+2. The footnote anchors: 469 of 549 markers placed (line right, the
+   anchor word can be a few words off); 80 definitions lack their
+   in-text label and 24 pages' marker shortfalls go to the spot sheet
+   with their line crops.
+3. The footnote inventory is CLOSED (2026-11-05, second pass): the v1
+   chain parser had silently dropped whole note blocks (213 notes
+   recovered by structure2's geometric parse); the independent
+   geometry gate runs at zero suspects. The annex tables' trailing
+   notes (about 15, text captured in the strip reads) go to the spot
+   sheet - the warped sheets' row anchors and note digits are
+   geometrically entangled.
+4. The annex rows: 147 tier A (geometric cells), 47 tier B (chunk
+   parse), 107 tier C (raw text only) of 287 - the C rows are read and
+   in the draft, but not yet column-split; the tables' totals check
+   against the book's own sums is open.
+5. The front matter composed into front_matter.md (title page,
+   contents); the Wykaz skrótów still to compose (sources read).
+6. The spot sheet last, with the crops: the marker anchors, the
+   annex-table notes, the tier-C annex rows, the words the witnesses
+   cannot settle.
