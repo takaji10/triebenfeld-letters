@@ -81,8 +81,16 @@ def main():
     for n in ANNEX:
         p4 = psm4_rows(n)
         sr = strip_rows(n)
+        # the recovery bands' own numbers: from the files on disk
+        rec_nums = set()
+        recdir = os.path.join(OCR, 'recovery')
+        if os.path.isdir(recdir):
+            for f in os.listdir(recdir):
+                m = re.match(rf'^{n}_(\d+)\.txt$', f)
+                if m:
+                    rec_nums.add(int(m.group(1)))
         rows = {}
-        nums = sorted(set(p4) | set(sr))
+        nums = sorted(set(p4) | set(sr) | rec_nums)
         for num in nums:
             witnesses = {}
             if num in p4:
