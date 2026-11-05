@@ -1,0 +1,1559 @@
+{
+ "generated": "2026-11-05",
+ "rulings_applied": {
+  "2": "Gibel, not Göbel — seen in other records (editor, 2026-11-05)",
+  "54": "Bitner, not Büttner — seen in other records (editor, 2026-11-05)"
+ },
+ "counts": {
+  "rows": 97,
+  "firm": 61,
+  "conjectural": 36,
+  "divergent_witnesses": 36
+ },
+ "rows": [
+  {
+   "n": 1,
+   "name": "Konchinskii Iakov",
+   "name_1868": "Konchinskii Iakov",
+   "witnesses": [
+    "1868: Konchinskii Iakov",
+    "1869: Konchinskii Iakov",
+    "1896: Konchinskii Iakov",
+    "Breyer: Konchinskii Iakov"
+   ],
+   "divergent": false,
+   "norm": "Kończyński Jakub",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": "Кончинскій: the stem could be Kończyn- or Koncin-"
+  },
+  {
+   "n": 2,
+   "name": "Gebel Martin",
+   "name_1868": "Gebel Martin",
+   "witnesses": [
+    "1868: Gebel Martin",
+    "1869: Glebel Martin",
+    "1896: Gebel Martin",
+    "Breyer: Gebel Mart."
+   ],
+   "divergent": true,
+   "norm": "Gibel Martin",
+   "lang": "de",
+   "conf": "firm",
+   "note": "editor's ruling 2026-11-05: Gibel in other records (not Göbel)"
+  },
+  {
+   "n": 3,
+   "name": "Merts Karl",
+   "name_1868": "Merts Karl",
+   "witnesses": [
+    "1868: Merts Karl",
+    "1869: Merts Karl",
+    "1896: Merts Karl",
+    "Breyer: Merts Karl"
+   ],
+   "divergent": false,
+   "norm": "Mertz Karl",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "name": "Kholm Daniil",
+   "name_1868": "Kholm Daniel",
+   "witnesses": [
+    "1868: Kholm Daniel",
+    "1869: [uncertain: Kholm] Daniil",
+    "1896: Kholm Daniil",
+    "Breyer: Kholm Dan."
+   ],
+   "divergent": true,
+   "norm": "Holm Daniel",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "name": "Merts Gotlib",
+   "name_1868": "Merts Gotlib",
+   "witnesses": [
+    "1868: Merts Gotlib",
+    "1869: Merts Gotlib",
+    "1896: Merts Gotlib",
+    "Breyer: Merts Gotl."
+   ],
+   "divergent": false,
+   "norm": "Mertz Gottlieb",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "name": "Girsh Kristiian",
+   "name_1868": "Girsh Kristiian",
+   "witnesses": [
+    "1868: Girsh Kristiian",
+    "1869: Girsh Kristiian",
+    "1896: Girsh Kristiian",
+    "Breyer: Girsh Krist."
+   ],
+   "divergent": false,
+   "norm": "Hirsch Christian",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "name": "Kinast Vilgelm",
+   "name_1868": "Kinast Vilgelm",
+   "witnesses": [
+    "1868: Kinast Vilgelm",
+    "1869: Kinast Vilgelm",
+    "1896: Kinast Vilgelm",
+    "Breyer: Kinast Vil."
+   ],
+   "divergent": false,
+   "norm": "Kinast Wilhelm",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "name": "Strzhizhikovskii Frants",
+   "name_1868": "Strzhizhikovskii Frants",
+   "witnesses": [
+    "1868: Strzhizhikovskii Frants",
+    "1869: Strzhizhikovskii Frantsishek",
+    "1896: Strzhizhikovskii Frants",
+    "Breyer: Strzhizhikovskii Fr."
+   ],
+   "divergent": true,
+   "norm": "Strzyżykowski Franciszek",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": "from strzyżyk (the wren) or the place Strzyżów"
+  },
+  {
+   "n": 9,
+   "name": "Sanikovskii Martin",
+   "name_1868": "Sanikovskii Martsin — 18 282",
+   "witnesses": [
+    "1868: Sanikovskii Martsin — 18 282",
+    "1869: Sanikovskii Martin",
+    "1896: Sanikovskii Martin",
+    "Breyer: Sanikovskii Martsin"
+   ],
+   "divergent": true,
+   "norm": "Sanikowski Marcin",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 10,
+   "name": "Marek Vilgelm",
+   "name_1868": "Marek Vilgelm — 22 277",
+   "witnesses": [
+    "1868: Marek Vilgelm — 22 277",
+    "1869: Marek Vilgelm",
+    "1896: Marek Vilgelm",
+    "Breyer: Marek Vilg."
+   ],
+   "divergent": true,
+   "norm": "Marek Wilhelm",
+   "lang": "pl",
+   "conf": "firm",
+   "note": "the surname is Polish as spelt; Breyer's 1875 pencil note: a Merz farmed it"
+  },
+  {
+   "n": 11,
+   "name": "Grunvald Kristof",
+   "name_1868": "Grunvald Kristof",
+   "witnesses": [
+    "1868: Grunvald Kristof",
+    "1869: Grunvald Krishtof",
+    "1896: Grunvald Kristof",
+    "Breyer: Grunvald Krist."
+   ],
+   "divergent": true,
+   "norm": "Grünwald Christoph",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 12,
+   "name": "[uncertain: Slivinskii] Gotlib",
+   "name_1868": "Slivinskii Gotlib",
+   "witnesses": [
+    "1868: Slivinskii Gotlib",
+    "1869: Slivinskii Gotlib",
+    "1896: [uncertain: Slivinskii] Gotlib",
+    "Breyer: Slivinskii Gotl."
+   ],
+   "divergent": true,
+   "norm": "[uncertain: Śliwiński] Gottlieb",
+   "lang": "pl",
+   "conf": "firm",
+   "note": "collation: the 1868, 1869 and Breyer readings agree plainly - the 1896 uncertainty can be lifted (ruling pending)"
+  },
+  {
+   "n": 13,
+   "name": "Shteinbord Iulian",
+   "name_1868": "Shteinbord Iulian",
+   "witnesses": [
+    "1868: Shteinbord Iulian",
+    "1869: Shteinbord Iulian",
+    "1896: Shteinbord Iulian",
+    "Breyer: Shteinbord Iul."
+   ],
+   "divergent": false,
+   "norm": "Steinbart Julian",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 14,
+   "name": "Kholm Vilgelm",
+   "name_1868": "Kholm Vilgelm",
+   "witnesses": [
+    "1868: Kholm Vilgelm",
+    "1869: Kholm Vilgelm",
+    "1896: Kholm Vilgelm",
+    "Breyer: Kholm Vilg."
+   ],
+   "divergent": false,
+   "norm": "Holm Wilhelm",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 15,
+   "name": "Falk Avgust",
+   "name_1868": "Falk Avgust",
+   "witnesses": [
+    "1868: Falk Avgust",
+    "1869: Falk Avgust",
+    "1896: Falk Avgust",
+    "Breyer: Falk Avg."
+   ],
+   "divergent": false,
+   "norm": "Falk August",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 16,
+   "name": "Merts Kristiian",
+   "name_1868": "Merts Kristiian",
+   "witnesses": [
+    "1868: Merts Kristiian",
+    "1869: Merts Kristiian",
+    "1896: Merts Kristiian",
+    "Breyer: Merts Krist."
+   ],
+   "divergent": false,
+   "norm": "Mertz Christian",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 17,
+   "name": "Merts Martin",
+   "name_1868": "Merts Martsin",
+   "witnesses": [
+    "1868: Merts Martsin",
+    "1869: Merts Martin",
+    "1896: Merts Martin",
+    "Breyer: Merts Martsin"
+   ],
+   "divergent": true,
+   "norm": "Mertz Martin",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 18,
+   "name": "Sanikovskii Osip",
+   "name_1868": "Sanikovskii Osip",
+   "witnesses": [
+    "1868: Sanikovskii Osip",
+    "1869: Sanikovskii Iosif",
+    "1896: Sanikovskii Osip",
+    "Breyer: Sanikovskii Osip"
+   ],
+   "divergent": true,
+   "norm": "Sanikowski Józef",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 19,
+   "name": "Stirtsenbeker Kristiian",
+   "name_1868": "[uncertain: Sturtsenbekher] Kristiian",
+   "witnesses": [
+    "1868: [uncertain: Sturtsenbekher] Kristiian",
+    "1869: Sturtsenbeker Kristian",
+    "1896: Stirtsenbeker Kristiian",
+    "Breyer: Stirtsenbekher Kris."
+   ],
+   "divergent": true,
+   "norm": "Stürzenbecker Christian",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": "the three Russian spellings (Sturtsenbekher, Shtirtsenbeker, Stirtsenbeker) all point here; a documented Olęder surname - confirm"
+  },
+  {
+   "n": 20,
+   "name": "Sanikovskii Ian",
+   "name_1868": "Sanikovskii Ivan",
+   "witnesses": [
+    "1868: Sanikovskii Ivan",
+    "1869: Sanikovskii Ivan",
+    "1896: Sanikovskii Ian",
+    "Breyer: Sanikovskii Ivan"
+   ],
+   "divergent": true,
+   "norm": "Sanikowski Jan",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 21,
+   "name": "heirs of Goske Karla",
+   "name_1868": "heirs of Goske Karla",
+   "witnesses": [
+    "1868: heirs of Goske Karla",
+    "1869: heirs of Goske Karla",
+    "1896: heirs of Goske Karla",
+    "Breyer: heirs of Goske Karla"
+   ],
+   "divergent": false,
+   "norm": "heirs of Karl Goske",
+   "lang": "de",
+   "conf": "firm",
+   "note": "the heirs rows reorder to the given name first, as their own languages write them"
+  },
+  {
+   "n": 22,
+   "name": "Bludzinskii Ivan",
+   "name_1868": "Bludzinskii Ivan",
+   "witnesses": [
+    "1868: Bludzinskii Ivan",
+    "1869: Bludzinskii Ivan",
+    "1896: Bludzinskii Ivan",
+    "Breyer: Bludzinskii Iv."
+   ],
+   "divergent": false,
+   "norm": "Bludziński Jan",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 23,
+   "name": "Shmigelskii Vilgelm",
+   "name_1868": "Shmigelskii Vilgelm",
+   "witnesses": [
+    "1868: Shmigelskii Vilgelm",
+    "1869: Shmigelskii Vilgelm",
+    "1896: Shmigelskii Vilgelm",
+    "Breyer: Shmigelskii Vilg."
+   ],
+   "divergent": false,
+   "norm": "Śmigelski Wilhelm",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 24,
+   "name": "heirs of Rogatskago Petra",
+   "name_1868": "heirs of Rogatskago Petra",
+   "witnesses": [
+    "1868: heirs of Rogatskago Petra",
+    "1869: heirs of Rogatskago Petra",
+    "1896: heirs of Rogatskago Petra",
+    "Breyer: heirs of Rogatskago Petra"
+   ],
+   "divergent": false,
+   "norm": "heirs of Piotr Rogacki",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 25,
+   "name": "[uncertain: Promins] Shchepan",
+   "name_1868": "Promist Shchepan",
+   "witnesses": [
+    "1868: Promist Shchepan",
+    "1869: Promist Shchepan",
+    "1896: [uncertain: Promins] Shchepan",
+    "Breyer: Promist Shchepan"
+   ],
+   "divergent": true,
+   "norm": "[uncertain: Promins] Szczepan",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": "all four witnesses hesitate on the same word (Promist/Promins) - stays uncertain"
+  },
+  {
+   "n": 26,
+   "name": "Runga Voitsekh",
+   "name_1868": "Runga Voitsekh",
+   "witnesses": [
+    "1868: Runga Voitsekh",
+    "1869: Runga Voitsekh",
+    "1896: Runga Voitsekh",
+    "Breyer: Runga Voitsekh"
+   ],
+   "divergent": false,
+   "norm": "Runge Wojciech",
+   "lang": "de",
+   "conf": "firm",
+   "note": "the given name is Polish (Wojciech) - normalised per element"
+  },
+  {
+   "n": 27,
+   "name": "heirs of Runga Gotfrida",
+   "name_1868": "heirs of Runga Gotfrida",
+   "witnesses": [
+    "1868: heirs of Runga Gotfrida",
+    "1869: heirs of Runga Gotfrida",
+    "1896: heirs of Runga Gotfrida",
+    "Breyer: heirs of Runga Gotfr."
+   ],
+   "divergent": false,
+   "norm": "heirs of Gottfried Runge",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 28,
+   "name": "Falkenberg Martin",
+   "name_1868": "Falkenberg Martsin",
+   "witnesses": [
+    "1868: Falkenberg Martsin",
+    "1869: Falkenberg Martin",
+    "1896: Falkenberg Martin",
+    "Breyer: Falkenberg Martsin"
+   ],
+   "divergent": true,
+   "norm": "Falkenberg Martin",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 29,
+   "name": "Goska Osip",
+   "name_1868": "Goska Osip",
+   "witnesses": [
+    "1868: Goska Osip",
+    "1869: Goska Iosif",
+    "1896: Goska Osip",
+    "Breyer: Goska Osip"
+   ],
+   "divergent": true,
+   "norm": "Goske Joseph",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": "Goska → Goske: the 1868 genitive (Госкѣ) spells it with e"
+  },
+  {
+   "n": 30,
+   "name": "Shults Kristiian",
+   "name_1868": "Shults Kristiian",
+   "witnesses": [
+    "1868: Shults Kristiian",
+    "1869: Kristian Shults",
+    "1896: Shults Kristiian",
+    "Breyer: Shults Krist."
+   ],
+   "divergent": true,
+   "norm": "Schulz Christian",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 31,
+   "name": "Knafkus Vilgelm",
+   "name_1868": "Knafkus Vilgelm",
+   "witnesses": [
+    "1868: Knafkus Vilgelm",
+    "1869: Knafkus Vilgelm",
+    "1896: Knafkus Vilgelm",
+    "Breyer: Knafkus Vilg."
+   ],
+   "divergent": false,
+   "norm": "Knafkus Wilhelm",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 32,
+   "name": "heirs of Rungi Voitsekha",
+   "name_1868": "heirs of Runge Voitsekha",
+   "witnesses": [
+    "1868: heirs of Runge Voitsekha",
+    "1869: heirs of Runge Voitsekha",
+    "1896: heirs of Rungi Voitsekha",
+    "Breyer: heirs of Runge Voits."
+   ],
+   "divergent": true,
+   "norm": "heirs of Wojciech Runge",
+   "lang": "de",
+   "conf": "firm",
+   "note": "Рунги is the genitive of Runge"
+  },
+  {
+   "n": 33,
+   "name": "heirs of Rungi Gotfrida",
+   "name_1868": "heirs of Runge Gotfrida",
+   "witnesses": [
+    "1868: heirs of Runge Gotfrida",
+    "1869: heirs of Runge Gotfrida",
+    "1896: heirs of Rungi Gotfrida",
+    "Breyer: \" Runge Gotfr."
+   ],
+   "divergent": true,
+   "norm": "heirs of Gottfried Runge",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 34,
+   "name": "Runge Martin",
+   "name_1868": "Runge Martin",
+   "witnesses": [
+    "1868: Runge Martin",
+    "1869: Runge Martin",
+    "1896: Runge Martin",
+    "Breyer: Runge Mart."
+   ],
+   "divergent": false,
+   "norm": "Runge Martin",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 35,
+   "name": "Kitke Kristiian",
+   "name_1868": "Kitke Kristiian",
+   "witnesses": [
+    "1868: Kitke Kristiian",
+    "1869: Kitke Kristiian",
+    "1896: Kitke Kristiian",
+    "Breyer: Kitke Kristiian"
+   ],
+   "divergent": false,
+   "norm": "Kitke Christian",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 36,
+   "name": "Fridenberg Kristof",
+   "name_1868": "Fridenberg Kristof",
+   "witnesses": [
+    "1868: Fridenberg Kristof",
+    "1869: Fridenberg Krishtof",
+    "1896: Fridenberg Kristof",
+    "Breyer: Fridenberg Kristof"
+   ],
+   "divergent": true,
+   "norm": "Friedenberg Christoph",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 37,
+   "name": "Tselmer Gotfrid",
+   "name_1868": "Tselmer Gotfrid",
+   "witnesses": [
+    "1868: Tselmer Gotfrid",
+    "1869: Tselmer Gotfrid",
+    "1896: Tselmer Gotfrid",
+    "Breyer: Tselmer Gotf."
+   ],
+   "divergent": false,
+   "norm": "Zellmer Gottfried",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 38,
+   "name": "Malinovskii Petr",
+   "name_1868": "Malinovskii Petr",
+   "witnesses": [
+    "1868: Malinovskii Petr",
+    "1869: Malinovskii Petr",
+    "1896: Malinovskii Petr",
+    "Breyer: Malinovskii Petr"
+   ],
+   "divergent": false,
+   "norm": "Malinowski Piotr",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 39,
+   "name": "Khaupt Kristiian",
+   "name_1868": "Khaupt Frants Kristiian",
+   "witnesses": [
+    "1868: Khaupt Frants Kristiian",
+    "1869: Khaupt Frants Kristian",
+    "1896: Khaupt Kristiian",
+    "Breyer: Khaupt Frants"
+   ],
+   "divergent": true,
+   "norm": "Haupt Christian",
+   "lang": "de",
+   "conf": "firm",
+   "note": "1868 reads Haupt Franz Christian - the 1896 clerk dropped the middle name"
+  },
+  {
+   "n": 40,
+   "name": "Shvebs Karl Veniiamin",
+   "name_1868": "Shvebs Karl Veniiamin",
+   "witnesses": [
+    "1868: Shvebs Karl Veniiamin",
+    "1869: Shvebs Karl Veniiamin",
+    "1896: Shvebs Karl Veniiamin",
+    "Breyer: Shvebs Kar."
+   ],
+   "divergent": false,
+   "norm": "Schwebs Karl Benjamin",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 41,
+   "name": "Shtirtsenbeker Karl",
+   "name_1868": "Shtirtsenbekher Karl",
+   "witnesses": [
+    "1868: Shtirtsenbekher Karl",
+    "1869: Shtirtsenbeker Karl",
+    "1896: Shtirtsenbeker Karl",
+    "Breyer: Shtirtsenbekher Kar."
+   ],
+   "divergent": true,
+   "norm": "Stürzenbecker Karl",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": "as farm 19"
+  },
+  {
+   "n": 42,
+   "name": "heirs of Betke Kristiiana",
+   "name_1868": "heirs of Betke Kristiiana",
+   "witnesses": [
+    "1868: heirs of Betke Kristiiana",
+    "1869: heirs of Betke Kristiana",
+    "1896: heirs of Betke Kristiiana",
+    "Breyer: heirs of Betke Kristiian."
+   ],
+   "divergent": true,
+   "norm": "heirs of Christian Betke",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 43,
+   "name": "Kinast Mateush",
+   "name_1868": "Kinast Mateush",
+   "witnesses": [
+    "1868: Kinast Mateush",
+    "1869: Kinast Mateush",
+    "1896: Kinast Mateush",
+    "Breyer: Kinast Mateush"
+   ],
+   "divergent": false,
+   "norm": "Kinast Matthäus",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 44,
+   "name": "Rash Friderik",
+   "name_1868": "Rash Friderik Ivan",
+   "witnesses": [
+    "1868: Rash Friderik Ivan",
+    "1869: Rash Friderik Ivan",
+    "1896: Rash Friderik",
+    "Breyer: Rash Frid. Ivan"
+   ],
+   "divergent": true,
+   "norm": "Rasch Friedrich",
+   "lang": "de",
+   "conf": "firm",
+   "note": "1868 reads Rasch Friedrich Ivan - the 1896 clerk dropped Ivan (Johann)"
+  },
+  {
+   "n": 45,
+   "name": "Bandzert Emanuil",
+   "name_1868": "Bandzert Emanuil",
+   "witnesses": [
+    "1868: Bandzert Emanuil",
+    "1869: Bandzer Imanuil",
+    "1896: Bandzert Emanuil",
+    "Breyer: Bandzert Eman."
+   ],
+   "divergent": true,
+   "norm": "Banzert Emanuel",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 46,
+   "name": "Kun Gotfrid",
+   "name_1868": "Kun Gotfrid",
+   "witnesses": [
+    "1868: Kun Gotfrid",
+    "1869: Kun Gotfrid",
+    "1896: Kun Gotfrid",
+    "Breyer: Kun Gotfr."
+   ],
+   "divergent": false,
+   "norm": "Kuhn Gottfried",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 47,
+   "name": "Zeer Kristiian",
+   "name_1868": "Zeer Kristiian",
+   "witnesses": [
+    "1868: Zeer Kristiian",
+    "1869: Zeer Kristian",
+    "1896: Zeer Kristiian",
+    "Breyer: Zeer Krist."
+   ],
+   "divergent": true,
+   "norm": "Zeer Christian",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 48,
+   "name": "Bandzert Morits",
+   "name_1868": "Bandzert Morits",
+   "witnesses": [
+    "1868: Bandzert Morits",
+    "1869: Murits",
+    "1896: Bandzert Morits",
+    "Breyer: Bandzert Morits"
+   ],
+   "divergent": true,
+   "norm": "Banzert Moritz",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 49,
+   "name": "Merts Avgust",
+   "name_1868": "Merts Avgust",
+   "witnesses": [
+    "1868: Merts Avgust",
+    "1869: Merts Avgust",
+    "1896: Merts Avgust",
+    "Breyer: Merts Avg."
+   ],
+   "divergent": false,
+   "norm": "Mertz August",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 50,
+   "name": "Tselmer Genrikh",
+   "name_1868": "Tselmer Genrikh",
+   "witnesses": [
+    "1868: Tselmer Genrikh",
+    "1869: Tselmer Genrikh",
+    "1896: Tselmer Genrikh",
+    "Breyer: Tselmer Genr."
+   ],
+   "divergent": false,
+   "norm": "Zellmer Heinrich",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 51,
+   "name": "Gebel Karl",
+   "name_1868": "Gebel Karl",
+   "witnesses": [
+    "1868: Gebel Karl",
+    "1869: Gebel Karl",
+    "1896: Gebel Karl",
+    "Breyer: Gebel Karl."
+   ],
+   "divergent": false,
+   "norm": "Gibel Karl",
+   "lang": "de",
+   "conf": "firm",
+   "note": "editor's ruling 2026-11-05: Gibel in other records (not Göbel)"
+  },
+  {
+   "n": 52,
+   "name": "Shmigelskii Samuil",
+   "name_1868": "Shmigelskii Samuil",
+   "witnesses": [
+    "1868: Shmigelskii Samuil",
+    "1869: Shmigelskii Samuil",
+    "1896: Shmigelskii Samuil",
+    "Breyer: Shmigelskii Sam."
+   ],
+   "divergent": false,
+   "norm": "Śmigelski Samuel",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 53,
+   "name": "heirs of Tselmera Daniila",
+   "name_1868": "heirs of Tselmera Daniila",
+   "witnesses": [
+    "1868: heirs of Tselmera Daniila",
+    "1869: heirs of Tselmera Daniila",
+    "1896: heirs of Tselmera Daniila",
+    "Breyer: heirs of Tselmera Dan."
+   ],
+   "divergent": false,
+   "norm": "heirs of Daniel Zellmer",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 54,
+   "name": "Bitner Andrei",
+   "name_1868": "Bitner Andrei",
+   "witnesses": [
+    "1868: Bitner Andrei",
+    "1869: Bitner Andrei",
+    "1896: Bitner Andrei",
+    "Breyer: Bitner Andr."
+   ],
+   "divergent": false,
+   "norm": "Bitner Andreas",
+   "lang": "de",
+   "conf": "firm",
+   "note": "editor's ruling 2026-11-05: Bitner in other records (not Büttner)"
+  },
+  {
+   "n": 55,
+   "name": "Rytamer Anton",
+   "name_1868": "Rytamer Anton",
+   "witnesses": [
+    "1868: Rytamer Anton",
+    "1869: Rytamer Antonii",
+    "1896: Rytamer Anton",
+    "Breyer: Rytamer Anton."
+   ],
+   "divergent": true,
+   "norm": "Rittamer Anton",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 56,
+   "name": "Przhistanskii Anton",
+   "name_1868": "Przhistanskii Anton",
+   "witnesses": [
+    "1868: Przhistanskii Anton",
+    "1869: Przhistanskii Antonii",
+    "1896: Przhistanskii Anton",
+    "Breyer: Przhistanskii Ant."
+   ],
+   "divergent": true,
+   "norm": "Przystański Antoni",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": "прж renders the Polish prz-"
+  },
+  {
+   "n": 57,
+   "name": "Bartel Karl Liudvik",
+   "name_1868": "Bartel Karl Liudvik",
+   "witnesses": [
+    "1868: Bartel Karl Liudvik",
+    "1869: Bartel Karl Liudvik",
+    "1896: Bartel Karl Liudvik",
+    "Breyer: Bartel Karl. Liudv."
+   ],
+   "divergent": false,
+   "norm": "Bartel Karl Ludwig",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 58,
+   "name": "Goske Voitsekh",
+   "name_1868": "Goske Voitsekh",
+   "witnesses": [
+    "1868: Goske Voitsekh",
+    "1869: Goske Voitsekh",
+    "1896: Goske Voitsekh",
+    "Breyer: Goske Voitsekh"
+   ],
+   "divergent": false,
+   "norm": "Goske Wojciech",
+   "lang": "de",
+   "conf": "firm",
+   "note": "the given name is Polish"
+  },
+  {
+   "n": 59,
+   "name": "Gints Liudvik",
+   "name_1868": "Gints Liudvik",
+   "witnesses": [
+    "1868: Gints Liudvik",
+    "1869: Gints Liudvik",
+    "1896: Gints Liudvik",
+    "Breyer: Gints Liudv."
+   ],
+   "divergent": false,
+   "norm": "Hintz Ludwig",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": "cf. Hintz in Breyer's tables of the neighbouring colonies (APP 716, doc 5160)"
+  },
+  {
+   "n": 60,
+   "name": "Shtark Daniil",
+   "name_1868": "Shtark Daniil",
+   "witnesses": [
+    "1868: Shtark Daniil",
+    "1869: Shtark Daniil",
+    "1896: Shtark Daniil",
+    "Breyer: Shtark Daniil"
+   ],
+   "divergent": false,
+   "norm": "Stark Daniel",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 61,
+   "name": "Kinast Voitsekh",
+   "name_1868": "Kinast Voitsekh",
+   "witnesses": [
+    "1868: Kinast Voitsekh",
+    "1869: Kinast Voitsekh",
+    "1896: Kinast Voitsekh",
+    "Breyer: Kinast Voits."
+   ],
+   "divergent": false,
+   "norm": "Kinast Wojciech",
+   "lang": "de",
+   "conf": "firm",
+   "note": "the given name is Polish"
+  },
+  {
+   "n": 62,
+   "name": "Kusman Gotlib",
+   "name_1868": "Kusman Gotlib",
+   "witnesses": [
+    "1868: Kusman Gotlib",
+    "1869: Kusman Gotlib",
+    "1896: Kusman Gotlib",
+    "Breyer: Kusman Gotl."
+   ],
+   "divergent": false,
+   "norm": "Kussmann Gottlieb",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 63,
+   "name": "heirs of Kinasta Voitsekha",
+   "name_1868": "heirs of Kinasta Voitsekha",
+   "witnesses": [
+    "1868: heirs of Kinasta Voitsekha",
+    "1869: heirs of Kinasta Voitsekha",
+    "1896: heirs of Kinasta Voitsekha",
+    "Breyer: heirs of Kinasta Voits."
+   ],
+   "divergent": false,
+   "norm": "heirs of Wojciech Kinast",
+   "lang": "de",
+   "conf": "firm",
+   "note": "the given name is Polish"
+  },
+  {
+   "n": 64,
+   "name": "Gerke Gotfrid",
+   "name_1868": "Gerke Gotfrid",
+   "witnesses": [
+    "1868: Gerke Gotfrid",
+    "1869: Gerke Gotfrid",
+    "1896: Gerke Gotfrid",
+    "Breyer: Gerke Gotfr."
+   ],
+   "divergent": false,
+   "norm": "Gehrke Gottfried",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 65,
+   "name": "Tselmer Mikhail",
+   "name_1868": "Tselmer Mikhail",
+   "witnesses": [
+    "1868: Tselmer Mikhail",
+    "1869: Tselmer Mikhail",
+    "1896: Tselmer Mikhail",
+    "Breyer: Tselmer Mikh."
+   ],
+   "divergent": false,
+   "norm": "Zellmer Michael",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 66,
+   "name": "Shtark Avgust",
+   "name_1868": "Shtark Avgust",
+   "witnesses": [
+    "1868: Shtark Avgust",
+    "1869: Shtark Avgust",
+    "1896: Shtark Avgust",
+    "Breyer: Shtark Avg."
+   ],
+   "divergent": false,
+   "norm": "Stark August",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 67,
+   "name": "Tselmer Avgust",
+   "name_1868": "Tselmer Avgust",
+   "witnesses": [
+    "1868: Tselmer Avgust",
+    "1869: Tselmer Avgust",
+    "1896: Tselmer Avgust",
+    "Breyer: Tselmer Avg."
+   ],
+   "divergent": false,
+   "norm": "Zellmer August",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 68,
+   "name": "Lipelt Martin",
+   "name_1868": "Lipelt Martsin",
+   "witnesses": [
+    "1868: Lipelt Martsin",
+    "1869: Lipelt Martin",
+    "1896: Lipelt Martin",
+    "Breyer: Lipelt Martsin"
+   ],
+   "divergent": true,
+   "norm": "Liepelt Martin",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 69,
+   "name": "Gotter Avgust",
+   "name_1868": "Gotter Avgust",
+   "witnesses": [
+    "1868: Gotter Avgust",
+    "1869: Gotter Avgust",
+    "1896: Gotter Avgust",
+    "Breyer: Gotter Avg."
+   ],
+   "divergent": false,
+   "norm": "Gotter August",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 70,
+   "name": "Morits Gotfrid",
+   "name_1868": "Morits Gotfrid",
+   "witnesses": [
+    "1868: Morits Gotfrid",
+    "1869: Morits Gotfrid",
+    "1896: Morits Gotfrid",
+    "Breyer: Morits Gotfr."
+   ],
+   "divergent": false,
+   "norm": "Moritz Gottfried",
+   "lang": "de",
+   "conf": "firm",
+   "note": "the surname here is Moritz (Морицъ), the given name Gottfried"
+  },
+  {
+   "n": 71,
+   "name": "Obst Vilgelm",
+   "name_1868": "Obst Vilgelm",
+   "witnesses": [
+    "1868: Obst Vilgelm",
+    "1869: Obst Vilgelm",
+    "1896: Obst Vilgelm",
+    "Breyer: Obst Vilg."
+   ],
+   "divergent": false,
+   "norm": "Obst Wilhelm",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 72,
+   "name": "Reikh Kristiian",
+   "name_1868": "Reikh Kristiian",
+   "witnesses": [
+    "1868: Reikh Kristiian",
+    "1869: Reikh Kristiian",
+    "1896: Reikh Kristiian",
+    "Breyer: Reikh Kristiian"
+   ],
+   "divergent": false,
+   "norm": "Reich Christian",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 73,
+   "name": "Shvebs Ivan",
+   "name_1868": "Shvebs Ivan",
+   "witnesses": [
+    "1868: Shvebs Ivan",
+    "1869: Shvebs Ivan",
+    "1896: Shvebs Ivan",
+    "Breyer: Shvebs Ivan"
+   ],
+   "divergent": false,
+   "norm": "Schwebs Johann",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 74,
+   "name": "Khaupt Gotlib",
+   "name_1868": "Khaupt Gotlib",
+   "witnesses": [
+    "1868: Khaupt Gotlib",
+    "1869: Khaupt Gotlib",
+    "1896: Khaupt Gotlib",
+    "Breyer: Khaupt Gotl."
+   ],
+   "divergent": false,
+   "norm": "Haupt Gottlieb",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 75,
+   "name": "Khaupt Gotfrid",
+   "name_1868": "Khaupt Gotfrid Kristiian",
+   "witnesses": [
+    "1868: Khaupt Gotfrid Kristiian",
+    "1869: Khaupt Gotfrid Kristiian",
+    "1896: Khaupt Gotfrid",
+    "Breyer: Khaupt Gotfr."
+   ],
+   "divergent": true,
+   "norm": "Haupt Gottfried",
+   "lang": "de",
+   "conf": "firm",
+   "note": "1868 reads Haupt Gottfried Christian - the middle name distinguishes him from the Christian Haupt of farm 76 (father and son); the 1896 clerk dropped it"
+  },
+  {
+   "n": 76,
+   "name": "Khaupt Kristiian",
+   "name_1868": "Khaupt Kristiian Kristiianov",
+   "witnesses": [
+    "1868: Khaupt Kristiian Kristiianov",
+    "1869: Khaupt Kristiian Kristiianov",
+    "1896: Khaupt Kristiian",
+    "Breyer: Khaupt Kristian Kristianov"
+   ],
+   "divergent": true,
+   "norm": "Haupt Christian",
+   "lang": "de",
+   "conf": "firm",
+   "note": "1868 reads Khaupt Kristiian Kristiianov = Christian, son of Christian - the patronymic is what tells him from farm 75; the 1896 clerk dropped it"
+  },
+  {
+   "n": 77,
+   "name": "Gebel Kristiian",
+   "name_1868": "Khaupt Gotfridov Kristiian",
+   "witnesses": [
+    "1868: Khaupt Gotfridov Kristiian",
+    "1869: Khaupt Gotfridov Kristiian",
+    "1896: Gebel Kristiian",
+    "Breyer: Khaupt Gotfridov Kristiian"
+   ],
+   "divergent": true,
+   "norm": "Haupt Christian [conflict]",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": "CONFLICT: the 1896 statement (the map's own source) reads Gebel Kristiian, but the 1868 table, the 1869 copy and Breyer all read Khaupt Gotfridov Kristiian (Haupt, Gottfried's son). Rule: clerk's error, or the farm changed hands (docs 4-5)?"
+  },
+  {
+   "n": 78,
+   "name": "Zelchak Foma",
+   "name_1868": "Zelchak Foma",
+   "witnesses": [
+    "1868: Zelchak Foma",
+    "1869: Zelchak Foma",
+    "1896: Zelchak Foma",
+    "Breyer: Zelchak Foma"
+   ],
+   "divergent": false,
+   "norm": "Zielczak Tomasz",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 79,
+   "name": "Shchepinskii Petr",
+   "name_1868": "Shchepinskii Petr",
+   "witnesses": [
+    "1868: Shchepinskii Petr",
+    "1869: Shchepinskii Petr",
+    "1896: Shchepinskii Petr",
+    "Breyer: Shchepinskii Petr"
+   ],
+   "divergent": false,
+   "norm": "Szczepiński Piotr",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 80,
+   "name": "Fogel Vilgelm",
+   "name_1868": "Fogel Vilgelm",
+   "witnesses": [
+    "1868: Fogel Vilgelm",
+    "1869: Fogel Vilgelm",
+    "1896: Fogel Vilgelm",
+    "Breyer: Fogel Vilg."
+   ],
+   "divergent": false,
+   "norm": "Vogel Wilhelm",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 81,
+   "name": "Sheinfish Vilgelm",
+   "name_1868": "Sheinfish Vilgelm",
+   "witnesses": [
+    "1868: Sheinfish Vilgelm",
+    "1869: Sheinfish Vilgelm",
+    "1896: Sheinfish Vilgelm",
+    "Breyer: Sheinfish Vilg."
+   ],
+   "divergent": false,
+   "norm": "Scheinfisch Wilhelm",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 82,
+   "name": "Rogatskii Stanislav",
+   "name_1868": "Rogatskii Stanislav",
+   "witnesses": [
+    "1868: Rogatskii Stanislav",
+    "1869: Rogatskii Stanislav",
+    "1896: Rogatskii Stanislav",
+    "Breyer: Rogatskii Stanisl."
+   ],
+   "divergent": false,
+   "norm": "Rogacki Stanisław",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 83,
+   "name": "Fetter Ivan",
+   "name_1868": "Fetter Ivan",
+   "witnesses": [
+    "1868: Fetter Ivan",
+    "1869: Fetter Ivan",
+    "1896: Fetter Ivan",
+    "Breyer: Fetter Iv."
+   ],
+   "divergent": false,
+   "norm": "Fetter Johann",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 84,
+   "name": "heirs of Shtirtsenbekera",
+   "name_1868": "heirs of Shtirtsenbekhera Ivana",
+   "witnesses": [
+    "1868: heirs of Shtirtsenbekhera Ivana",
+    "1869: Shtirtsenbekera Ivana",
+    "1896: heirs of Shtirtsenbekera",
+    "Breyer: Shtirtsenbekher Iv."
+   ],
+   "divergent": true,
+   "norm": "heirs of Johann Stürzenbecker",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": "1868 names the deceased: Ivan (Johann); the 1896 clerk dropped the given name - restored here from the 1868 witness"
+  },
+  {
+   "n": 85,
+   "name": "Kinast Kristiian",
+   "name_1868": "Kinast Kristiian",
+   "witnesses": [
+    "1868: Kinast Kristiian",
+    "1869: Kinast Kristiian",
+    "1896: Kinast Kristiian",
+    "Breyer: Kinast Kristiian"
+   ],
+   "divergent": false,
+   "norm": "Kinast Christian",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 86,
+   "name": "Khaupt Gotfrid",
+   "name_1868": "Khaupt Gotfrid",
+   "witnesses": [
+    "1868: Khaupt Gotfrid",
+    "1869: Khaupt Gotfrid",
+    "1896: Khaupt Gotfrid",
+    "Breyer: Khaupt Vilg."
+   ],
+   "divergent": false,
+   "norm": "Haupt Gottfried",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 87,
+   "name": "Khaupt Vilgelm",
+   "name_1868": "Khaupt Vilgelm",
+   "witnesses": [
+    "1868: Khaupt Vilgelm",
+    "1869: Khaupt Vilgelm",
+    "1896: Khaupt Vilgelm",
+    "Breyer: German Voitsekh"
+   ],
+   "divergent": false,
+   "norm": "Haupt Wilhelm",
+   "lang": "de",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 88,
+   "name": "German Voitsekh",
+   "name_1868": "German Voitsekh",
+   "witnesses": [
+    "1868: German Voitsekh",
+    "1869: German Voitsekh",
+    "1896: German Voitsekh",
+    "Breyer: heirs of Tarnovskago Mikh."
+   ],
+   "divergent": false,
+   "norm": "Hermann Wojciech",
+   "lang": "de",
+   "conf": "conjectural",
+   "note": "Германъ as surname → Hermann; the given name is Polish (Wojciech)"
+  },
+  {
+   "n": 89,
+   "name": "heirs of Tarnovskago Mikhaila",
+   "name_1868": "heirs of Tarnovskago Mikhaila",
+   "witnesses": [
+    "1868: heirs of Tarnovskago Mikhaila",
+    "1869: heirs of Tarnovskago Mikhaila",
+    "1896: heirs of Tarnovskago Mikhaila",
+    "Breyer: Rogovich Martsin"
+   ],
+   "divergent": false,
+   "norm": "heirs of Michał Tarnowski",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 90,
+   "name": "Rogovich Martin",
+   "name_1868": "Martsin Rogovich",
+   "witnesses": [
+    "1868: Martsin Rogovich",
+    "1869: Martsin Rogovich",
+    "1896: Rogovich Martin",
+    "Breyer: Marylskii Iv."
+   ],
+   "divergent": true,
+   "norm": "Rogowicz Marcin",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": ""
+  },
+  {
+   "n": 91,
+   "name": "Marylskii Ivan",
+   "name_1868": "Marylskii Ivan",
+   "witnesses": [
+    "1868: Marylskii Ivan",
+    "1869: Marylskii Ivan",
+    "1896: Marylskii Ivan"
+   ],
+   "divergent": false,
+   "norm": "Marylski Jan",
+   "lang": "pl",
+   "conf": "firm",
+   "note": ""
+  },
+  {
+   "n": 92,
+   "name": "Village school",
+   "name_1868": "Farmstead of the village school",
+   "witnesses": [
+    "1868: Farmstead of the village school",
+    "1869: Farmstead of the village school",
+    "1896: Village school"
+   ],
+   "divergent": true,
+   "norm": "Szkoła wiejska",
+   "lang": "pl",
+   "conf": "firm",
+   "note": "the village school"
+  },
+  {
+   "n": 93,
+   "name": "Common cemetery",
+   "name_1868": "Common cemetery",
+   "witnesses": [
+    "1868: Common cemetery",
+    "1869: Common cemetery",
+    "1896: Common cemetery"
+   ],
+   "divergent": false,
+   "norm": "Cmentarz wspólny",
+   "lang": "pl",
+   "conf": "firm",
+   "note": "the common cemetery"
+  },
+  {
+   "n": 94,
+   "name": "Plot of common land",
+   "name_1868": "Plot of common land",
+   "witnesses": [
+    "1868: Plot of common land",
+    "1869: Plot of common land",
+    "1896: Plot of common land"
+   ],
+   "divergent": false,
+   "norm": "Działka gruntów wspólnych",
+   "lang": "pl",
+   "conf": "conjectural",
+   "note": "the communal-land plot; the Polish wording is editorial"
+  },
+  {
+   "n": 95,
+   "name": "The village headman's plot",
+   "name_1868": "The village headman's plot",
+   "witnesses": [
+    "1868: The village headman's plot",
+    "1869: The village headman's plot",
+    "1896: The village headman's plot"
+   ],
+   "divergent": false,
+   "norm": "Działka sołtysa",
+   "lang": "pl",
+   "conf": "firm",
+   "note": "the village headman's plot"
+  },
+  {
+   "n": 96,
+   "name": "Reikh Kristiian",
+   "name_1868": "Reikh Kristiian",
+   "witnesses": [
+    "1868: Reikh Kristiian",
+    "1869: Kristian Reikh",
+    "1896: Reikh Kristiian"
+   ],
+   "divergent": true,
+   "norm": "Reich Christian",
+   "lang": "de",
+   "conf": "firm",
+   "note": "the 1896 columns are dotted (..) and the name duplicates farm 72 - the same man's second plot, or a clerical repetition; check the scan"
+  },
+  {
+   "n": 97,
+   "name": "Under roads",
+   "name_1868": "Under roads",
+   "witnesses": [
+    "1868: Under roads",
+    "1869: Under roads"
+   ],
+   "divergent": true,
+   "norm": "Pod drogami",
+   "lang": "pl",
+   "conf": "firm",
+   "note": "the land under the roads"
+  }
+ ]
+}

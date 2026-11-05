@@ -30,6 +30,7 @@ after the literature is built and before the site's pages are generated.
     python pipeline/build/make_thumbs.py --prune   # also delete orphans
 """
 import io, os, re, sys, time, json
+import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
@@ -162,10 +163,14 @@ def literature(expected):
 def maps(expected):
     """The maps' whole faces, fetched from the tiles' lowest whole-map level.
 
-    The static IIIF of the tiles' site serves the whole map only at the
-    scale factors' own sizes: at 1/32 the map is its least whole map, a few
-    hundred px wide (lukom1766: 322x267) - wide enough for a card, and it
-    is fetched as the tiles are, so no new picture is made of the map."""
+    The static IIIF of the tiles' site is level 0: it serves a whole-image
+    region only where the scaled image fits in one tile (lukom1766 at 1/32
+    is 322 px wide, inside the 512-px tile; pelzucki1896 at 1/32 is 679 px
+    wide and the request 404s). So the level to ask for is read from the
+    service's own info.json: the smallest scale factor whose whole map fits
+    one tile. The result is the map's whole face as the service itself
+    renders it - a few hundred px, wide enough for a card - fetched as the
+    tiles are, so no new picture is made of the map."""
     made = 0
     count = 0
     with open(MAPS_YML, encoding='utf-8') as f:
@@ -174,10 +179,30 @@ def maps(expected):
         if not m.get('in_project') or not m.get('tiles'):
             continue
         base = m['tiles'].rsplit('/info.json', 1)[0]
-        w = -(-m['width'] // 32)
-        h = -(-m['height'] // 32)
-        url = f'{base}/full/{w},{h}/0/default.jpg'
-        r = requests.get(url, timeout=60)
+        # the scale factors and the tile size, from the service itself
+        try:
+            with urllib.request.urlopen(m['tiles'], timeout=60) as r:
+                info = json.load(r)
+            tile_w = (info.get('tiles') or [{}])[0].get('width') or 512
+            sfs = sorted((info.get('tiles') or [{}])[0].get('scaleFactors')
+                         or [1, 2, 4, 8, 16, 32])
+        except Exception as e:
+            print(f'map {key}: the tiles\' info.json did not load ({e}), no thumb')
+            continue
+        w, h = m['width'], m['height']
+        fit = [sf for sf in sfs
+               if -(-w // sf) <= tile_w and -(-h // sf) <= tile_w]
+        if not fit:
+            print(f'map {key}: no whole-map level inside one tile, no thumb')
+            continue
+        sf = fit[0]
+        cw, ch = -(-w // sf), -(-h // sf)
+        url = f'{base}/full/{cw},{ch}/0/default.jpg'
+        try:
+            r = requests.get(url, timeout=60)
+        except Exception as e:
+            print(f'map {key}: the tiles did not answer ({e}), no thumb')
+            continue
         if r.status_code != 200 or 'jpeg' not in r.headers.get('content-type', ''):
             print(f'map {key}: the tiles served no whole map ({r.status_code}), no thumb')
             continue

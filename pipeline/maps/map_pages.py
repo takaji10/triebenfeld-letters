@@ -161,6 +161,11 @@ def main():
                 'role': role,
                 'place': place,
                 'place_name': headings.get(place) if place else None,
+                # a label the editor named with a form the gazetteer does not
+                # carry yet (new_place): the modern name it is to have, shown
+                # upright with the map's own spelling under it in italics
+                # (docs/MAPS_PLAN.md, section 4)
+                'name': lb.get('new_place') or None,
                 'form': lb.get('form'),
                 'shows': lb.get('shows'),
                 'shows_en': SHOWS_EN.get(lb.get('shows'), lb.get('shows')) if role == 'place' else None,
@@ -206,10 +211,68 @@ def main():
         }
         legend_p = os.path.join(MAPS_DIR, key, 'legend.yml')
         if os.path.isfile(legend_p):
-            out_maps[key]['legend'] = read_yaml(legend_p)
+            legend = read_yaml(legend_p)
+            out_maps[key]['legend'] = legend
+            # the language the sheet's own text is in (the original panes'
+            # lang attribute and the tabs' middle name)
+            out_maps[key]['orig_lang'] = legend.get('lang') or 'pl'
+        else:
+            out_maps[key]['orig_lang'] = 'pl'
         texts_p = os.path.join(MAPS_DIR, key, 'texts.yml')
         if os.path.isfile(texts_p):
             out_maps[key]['texts'] = read_yaml(texts_p).get('blocks') or []
+        # The farmsteads of the liquidation and the editor's labels on the
+        # plan (maps/<key>/farms.yml): the settlers' table rows and one mark
+        # per farm the map's page shows as a layer of name labels
+        # (docs/MAPS_SITE_PLAN.md, section 5).
+        farms_p = os.path.join(MAPS_DIR, key, 'farms.yml')
+        if os.path.isfile(farms_p):
+            farms = read_yaml(farms_p)
+            names = {s['n']: s for s in (farms.get('settlers') or [])}
+            marks = []
+            for mk in (farms.get('marks') or []):
+                s = names.get(mk['n']) or {}
+                marks.append({
+                    'n': mk['n'],
+                    'name': s.get('name'),
+                    # the proper spelling (the editor's normalisation of
+                    # the Russian transliteration, docs/
+                    # NAME_NORMALISATION_PLAN.md): the pill shows it when
+                    # it is firm; institution rows carry name_de beside
+                    # the Polish for the German page
+                    'name_norm': s.get('name_norm'),
+                    'norm_conf': s.get('norm_conf'),
+                    'name_de': s.get('name_de'),
+                    'institution': s.get('institution'),
+                    'total': s.get('total'),
+                    'x': mk['x'],
+                    'y': mk['y'],
+                    'note': mk.get('note'),
+                })
+            marked = {mk['n'] for mk in marks}
+            rows = []
+            for s in (farms.get('settlers') or []):
+                rows.append(dict(s, mark=s['n'] in marked))
+            out_maps[key]['farms'] = {
+                'source': farms.get('source') or {},
+                'marks': marks,
+                'rows': rows,
+            }
+        # The farm plots (maps/<key>/polygons.yml): the outlines the editor
+        # drew of each owner's land, drawn on the map's page as an SVG
+        # overlay scaled to the whole mosaic, a layer of its own.
+        polys_p = os.path.join(MAPS_DIR, key, 'polygons.yml')
+        if os.path.isfile(polys_p):
+            polys = read_yaml(polys_p)
+            out_maps[key]['farms']['polygons'] = polys.get('polygons') or []
+            out_maps[key]['farms']['poly_calibration'] = \
+                polys.get('calibration') or {}
+        # The red numbers, the statement's row numbers on each parcel
+        # (maps/<key>/reds.yml): shown as a second layer of the map's page,
+        # toggleable beside the farmsteads' name labels.
+        reds_p = os.path.join(MAPS_DIR, key, 'reds.yml')
+        if os.path.isfile(reds_p):
+            out_maps[key]['reds'] = read_yaml(reds_p).get('marks') or []
         if not m.get('tiles'):
             die(f'{where}: no `tiles` in reference/maps.yml - the page has '
                 'nothing to open')

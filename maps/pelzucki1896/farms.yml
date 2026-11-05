@@ -1,0 +1,1675 @@
+# The farmsteads of the liquidation and the editor's labels on the plan
+# (map pelzucki1896).
+#
+# settlers: the rows of the liquidation's tables joined by the farm number
+# (APL 39/98/0/-/6603 docs 1 and 6, Breyer's copy APP 53/968/0/-/716-4, the
+# 1894 inscription doc 4), from the join of 2026-11-01
+# (scratch/map4456/link_tables.py, oleders_linked.json), spot-checked against
+# the corpus of apl399806603 doc 6. The names are the tables'
+# transliterations; changed marks a row whose 1868 and 1896 names differ
+# (one true change, the rest orthography - the editor rules which).
+# total is the 1896 statement's total (desyatinas and sazhens), morgen/rods
+# the 1868 extent, dues the 1868 dues, servitudes the 1894 land given.
+#
+# marks: one label per farmstead, the position of its homestead yard (the
+# editor's yard marking of 2026-11-02, scratch/map4456/yards_read.json, one
+# mark per farm - the piece with the lead 1. and the smallest figure). The
+# positions are in the pixels of the mosaic (reference/maps.yml); the layer
+# on the map's page shows the settler's name only. Farms still without a
+# mark are added on the working page (scratch/map4456/farm_labels.html) and
+# imported by pipeline/maps/import_farms.py.
+map: pelzucki1896
+source:
+  unit: apl399806603
+  doc: 6
+settlers:
+- n: 1
+  name: Konchinskii Iakov
+  name_1868: Konchinskii Iakov
+  changed: false
+  total: 10 des 2048 saz
+  morgen: 17
+  rods: 84
+  dues: 17 r 84 k
+  servitudes: 4 Morgen
+  name_norm: Kończyński Jakub
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: 'Кончинскій: the stem could be Kończyn- or Koncin- (also possible: Konchiński)'
+- n: 2
+  name: Gebel Martin
+  name_1868: Gebel Martin
+  changed: false
+  total: 16 des 844 saz
+  morgen: 29
+  rods: 262
+  dues: 29 r 262 k
+  servitudes: 4 Morgen
+  name_norm: Gibel Martin
+  name_lang: de
+  norm_conf: firm
+  norm_note: Gibel, not Göbel — seen in other records (editor, 2026-11-05)
+- n: 3
+  name: Merts Karl
+  name_1868: Merts Karl
+  changed: false
+  total: 27 des 2002 saz
+  morgen: 48
+  rods: 56
+  dues: 48 r 56 k
+  servitudes: 4 Morgen
+  name_norm: Mertz Karl
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Merz)'
+- n: 4
+  name: Kholm Daniil
+  name_1868: Kholm Daniel
+  changed: false
+  total: 22 des 1156 saz
+  morgen: 40
+  rods: 161
+  dues: 40 r 161 k
+  servitudes: 4 Morgen
+  name_norm: Holm Daniel
+  name_lang: de
+  norm_conf: firm
+- n: 5
+  name: Merts Gotlib
+  name_1868: Merts Gotlib
+  changed: false
+  total: 6 des 187 saz
+  morgen: 7
+  rods: 289
+  dues: 7 r 289 k
+  servitudes: 4 Morgen
+  name_norm: Mertz Gottlieb
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Merz)'
+- n: 6
+  name: Girsh Kristiian
+  name_1868: Girsh Kristiian
+  changed: false
+  total: 11 des 1708 saz
+  morgen: 17
+  rods: 233
+  dues: 17 r 233 k
+  servitudes: 4 Morgen
+  name_norm: Hirsch Christian
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Giersz (Polish))'
+- n: 7
+  name: Kinast Vilgelm
+  name_1868: Kinast Vilgelm
+  changed: false
+  total: 10 des 281 saz
+  morgen: 15
+  rods: 112
+  dues: 15 r 112 k
+  servitudes: 4 Morgen
+  name_norm: Kinast Wilhelm
+  name_lang: de
+  norm_conf: firm
+- n: 8
+  name: Strzhizhikovskii Frants
+  name_1868: Strzhizhikovskii Frants
+  changed: false
+  total: 7 des 1085 saz
+  morgen: 11
+  rods: 148
+  dues: 11 r 148 k
+  servitudes: 6 Morgen
+  name_norm: Strzyżykowski Franciszek
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: 'from strzyżyk (the wren) or the place Strzyżów (also possible: Strzyżowski)'
+- n: 9
+  name: Sanikovskii Martin
+  name_1868: Sanikovskii Martsin — 18 282
+  changed: false
+  total: 11 des 1628 saz
+  morgen: 19
+  rods: 22
+  dues: 19 r 22 k
+  servitudes: 4 Morgen
+  name_norm: Sanikowski Marcin
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: '(also possible: Sannikowski)'
+- n: 10
+  name: Marek Vilgelm
+  name_1868: Marek Vilgelm — 22 277
+  changed: false
+  total: 19 des 560 saz
+  morgen: 32
+  rods: 179
+  dues: 32 r 179 k
+  servitudes: 4 Morgen
+  name_norm: Marek Wilhelm
+  name_lang: pl
+  norm_conf: firm
+  norm_note: 'the surname is Polish as spelt; Breyer''s 1875 pencil note: a Merz farmed it'
+- n: 11
+  name: Grunvald Kristof
+  name_1868: Grunvald Kristof
+  changed: false
+  total: 14 des 1949 saz
+  morgen: 22
+  rods: 273
+  dues: 22 r 273 k
+  servitudes: 4 Morgen
+  name_norm: Grünwald Christoph
+  name_lang: de
+  norm_conf: firm
+- n: 12
+  name: '[uncertain: Slivinskii] Gotlib'
+  name_1868: Slivinskii Gotlib
+  changed: false
+  total: 8 des 2328 saz
+  morgen: 14
+  rods: 122
+  dues: 14 r 122 k
+  servitudes: 4 Morgen
+  name_norm: '[uncertain: Śliwiński] Gottlieb'
+  name_lang: pl
+  norm_conf: firm
+  norm_note: 'collation: the 1868, 1869 and Breyer readings agree plainly - the 1896 uncertainty can be
+    lifted (ruling pending)'
+- n: 13
+  name: Shteinbord Iulian
+  name_1868: Shteinbord Iulian
+  changed: false
+  total: 11 des 103 saz
+  morgen: 17
+  rods: 75
+  dues: 17 r 75 k
+  servitudes: 4 Morgen
+  name_norm: Steinbart Julian
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Steinbord, Steinbardt)'
+- n: 14
+  name: Kholm Vilgelm
+  name_1868: Kholm Vilgelm
+  changed: false
+  total: 11 des 195 saz
+  morgen: 13
+  rods: 280
+  dues: 13 r 280 k
+  servitudes: 6 Morgen
+  name_norm: Holm Wilhelm
+  name_lang: de
+  norm_conf: firm
+- n: 15
+  name: Falk Avgust
+  name_1868: Falk Avgust
+  changed: false
+  total: 4 des 1314 saz
+  morgen: 5
+  rods: 15
+  dues: 5 r 15 k
+  servitudes: 4 Morgen
+  name_norm: Falk August
+  name_lang: de
+  norm_conf: firm
+- n: 16
+  name: Merts Kristiian
+  name_1868: Merts Kristiian
+  changed: false
+  total: 15 des 973 saz
+  morgen: 23
+  rods: 125
+  dues: 23 r 125 k
+  servitudes: 4 Morgen
+  name_norm: Mertz Christian
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Merz)'
+- n: 17
+  name: Merts Martin
+  name_1868: Merts Martsin
+  changed: false
+  total: 6 des 1107 saz
+  morgen: 8
+  rods: 293
+  dues: 8 r 293 k
+  servitudes: 4 Morgen
+  name_norm: Mertz Martin
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Merz)'
+- n: 18
+  name: Sanikovskii Osip
+  name_1868: Sanikovskii Osip
+  changed: false
+  total: 15 des 1303 saz
+  morgen: 27
+  rods: 244
+  dues: 27 r 244 k
+  servitudes: 4 Morgen
+  name_norm: Sanikowski Józef
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: '(also possible: Sannikowski)'
+- n: 19
+  name: Stirtsenbeker Kristiian
+  name_1868: '[uncertain: Sturtsenbekher] Kristiian'
+  changed: false
+  total: 9 des 1538 saz
+  morgen: 15
+  rods: 24
+  dues: 15 r 24 k
+  servitudes: 4 Morgen
+  name_norm: Stürzenbecker Christian
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: the three Russian spellings (Sturtsenbekher, Shtirtsenbeker, Stirtsenbeker) all point here;
+    a documented Olęder surname - confirm
+- n: 20
+  name: Sanikovskii Ian
+  name_1868: Sanikovskii Ivan
+  changed: false
+  total: 14 des 1602 saz
+  morgen: 24
+  rods: 187
+  dues: 24 r 187 k
+  servitudes: 4 Morgen
+  name_norm: Sanikowski Jan
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: '(also possible: Sannikowski)'
+- n: 21
+  name: heirs of Goske Karla
+  name_1868: heirs of Goske Karla
+  changed: false
+  total: 14 des 1952 saz
+  morgen: 25
+  rods: 129
+  dues: 25 r 129 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Karl Goske
+  name_lang: de
+  norm_conf: firm
+  norm_note: the heirs rows reorder to the given name first, as their own languages write them
+- n: 22
+  name: Bludzinskii Ivan
+  name_1868: Bludzinskii Ivan
+  changed: false
+  total: 7 des 646 saz
+  morgen: 9
+  rods: 294
+  dues: 9 r 294 k
+  servitudes: 4 Morgen
+  name_norm: Bludziński Jan
+  name_lang: pl
+  norm_conf: firm
+- n: 23
+  name: Shmigelskii Vilgelm
+  name_1868: Shmigelskii Vilgelm
+  changed: false
+  total: 27 des 874 saz
+  morgen: 49
+  rods: 70
+  dues: 49 r 70 k
+  servitudes: 4 Morgen
+  name_norm: Śmigelski Wilhelm
+  name_lang: pl
+  norm_conf: firm
+- n: 24
+  name: heirs of Rogatskago Petra
+  name_1868: heirs of Rogatskago Petra
+  changed: false
+  total: 17 des 892 saz
+  morgen: 30
+  rods: 235
+  dues: 30 r 235 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Piotr Rogacki
+  name_lang: pl
+  norm_conf: firm
+- n: 25
+  name: '[uncertain: Promins] Shchepan'
+  name_1868: Promist Shchepan
+  changed: false
+  total: 8 des 2055 saz
+  morgen: 13
+  rods: 87
+  dues: 13 r 87 k
+  servitudes: 4 Morgen
+  name_norm: '[uncertain: Promins] Szczepan'
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: all four witnesses hesitate on the same word (Promist/Promins) - stays uncertain
+- n: 26
+  name: Runga Voitsekh
+  name_1868: Runga Voitsekh
+  changed: false
+  total: 21 des 401 saz
+  morgen: 36
+  rods: 222
+  dues: 36 r 222 k
+  servitudes: 4 Morgen
+  name_norm: Runge Wojciech
+  name_lang: de
+  norm_conf: firm
+  norm_note: the given name is Polish (Wojciech) - normalised per element
+- n: 27
+  name: heirs of Runga Gotfrida
+  name_1868: heirs of Runga Gotfrida
+  changed: false
+  total: 11 des 1759 saz
+  morgen: 18
+  rods: 65
+  dues: 18 r 65 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Gottfried Runge
+  name_lang: de
+  norm_conf: firm
+- n: 28
+  name: Falkenberg Martin
+  name_1868: Falkenberg Martsin
+  changed: false
+  total: 22 des 2172 saz
+  morgen: 41
+  rods: 94
+  dues: 41 r 94 k
+  servitudes: 4 Morgen
+  name_norm: Falkenberg Martin
+  name_lang: de
+  norm_conf: firm
+- n: 29
+  name: Goska Osip
+  name_1868: Goska Osip
+  changed: false
+  total: 11 des 1400 saz
+  morgen: 15
+  rods: 188
+  dues: 15 r 188 k
+  servitudes: 4 Morgen
+  name_norm: Goske Joseph
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: 'Goska → Goske: the 1868 genitive (Госкѣ) spells it with e'
+- n: 30
+  name: Shults Kristiian
+  name_1868: Shults Kristiian
+  changed: false
+  total: 5 des 2334 saz
+  morgen: 7
+  rods: 196
+  dues: 7 r 196 k
+  servitudes: 4 Morgen
+  name_norm: Schulz Christian
+  name_lang: de
+  norm_conf: firm
+- n: 31
+  name: Knafkus Vilgelm
+  name_1868: Knafkus Vilgelm
+  changed: false
+  total: 2 des 1493 saz
+  morgen: 1
+  rods: 196
+  dues: 1 r 196 k
+  servitudes: 4 Morgen
+  name_norm: Knafkus Wilhelm
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Knaufkus)'
+- n: 32
+  name: heirs of Rungi Voitsekha
+  name_1868: heirs of Runge Voitsekha
+  changed: false
+  total: 4 des 1248 saz
+  morgen: 5
+  rods: 135
+  dues: 5 r 135 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Wojciech Runge
+  name_lang: de
+  norm_conf: firm
+  norm_note: Рунги is the genitive of Runge
+- n: 33
+  name: heirs of Rungi Gotfrida
+  name_1868: heirs of Runge Gotfrida
+  changed: false
+  total: 15 des 566 saz
+  morgen: 26
+  rods: 45
+  dues: 26 r 45 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Gottfried Runge
+  name_lang: de
+  norm_conf: firm
+- n: 34
+  name: Runge Martin
+  name_1868: Runge Martin
+  changed: false
+  total: 3 des 721 saz
+  morgen: 2
+  rods: 115
+  dues: 2 r 115 k
+  servitudes: 4 Morgen
+  name_norm: Runge Martin
+  name_lang: de
+  norm_conf: firm
+- n: 35
+  name: Kitke Kristiian
+  name_1868: Kitke Kristiian
+  changed: false
+  total: 5 des 860 saz
+  morgen: 6
+  rods: 46
+  dues: 6 r 46 k
+  servitudes: 4 Morgen
+  name_norm: Kitke Christian
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Kietke)'
+- n: 36
+  name: Fridenberg Kristof
+  name_1868: Fridenberg Kristof
+  changed: false
+  total: 11 des 1113 saz
+  morgen: 19
+  rods: 220
+  dues: 19 r 220 k
+  servitudes: 4 Morgen
+  name_norm: Friedenberg Christoph
+  name_lang: de
+  norm_conf: firm
+- n: 37
+  name: Tselmer Gotfrid
+  name_1868: Tselmer Gotfrid
+  changed: false
+  total: 15 des 1157 saz
+  morgen: 26
+  rods: 14
+  dues: 26 r 14 k
+  servitudes: 4 Morgen
+  name_norm: Zellmer Gottfried
+  name_lang: de
+  norm_conf: firm
+  norm_note: '(also possible: Zöllmer)'
+- n: 38
+  name: Malinovskii Petr
+  name_1868: Malinovskii Petr
+  changed: false
+  total: 5 des 78 saz
+  morgen: 5
+  rods: 277
+  dues: 5 r 277 k
+  servitudes: 4 Morgen
+  name_norm: Malinowski Piotr
+  name_lang: pl
+  norm_conf: firm
+- n: 39
+  name: Khaupt Kristiian
+  name_1868: Khaupt Frants Kristiian
+  changed: false
+  total: 8 des 2238 saz
+  morgen: 13
+  rods: 174
+  dues: 13 r 174 k
+  servitudes: 4 Morgen
+  name_norm: Haupt Christian
+  name_lang: de
+  norm_conf: firm
+  norm_note: 1868 reads Haupt Franz Christian - the 1896 clerk dropped the middle name
+- n: 40
+  name: Shvebs Karl Veniiamin
+  name_1868: Shvebs Karl Veniiamin
+  changed: false
+  total: 4 des 776 saz
+  morgen: 4
+  rods: 168
+  dues: 4 r 168 k
+  servitudes: 4 Morgen
+  name_norm: Schwebs Karl Benjamin
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Schwabs)'
+- n: 41
+  name: Shtirtsenbeker Karl
+  name_1868: Shtirtsenbekher Karl
+  changed: false
+  total: 5 des 2285 saz
+  morgen: 8
+  rods: 45
+  dues: 8 r 45 k
+  servitudes: 4 Morgen
+  name_norm: Stürzenbecker Karl
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: as farm 19
+- n: 42
+  name: heirs of Betke Kristiiana
+  name_1868: heirs of Betke Kristiiana
+  changed: false
+  total: 6 des 683 saz
+  morgen: 8
+  rods: 192
+  dues: 8 r 192 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Christian Betke
+  name_lang: de
+  norm_conf: firm
+- n: 43
+  name: Kinast Mateush
+  name_1868: Kinast Mateush
+  changed: false
+  total: 3 des 1661 saz
+  morgen: 3
+  rods: 248
+  dues: 3 r 248 k
+  servitudes: 4 Morgen
+  name_norm: Kinast Matthäus
+  name_lang: de
+  norm_conf: firm
+- n: 44
+  name: Rash Friderik
+  name_1868: Rash Friderik Ivan
+  changed: false
+  total: 28 des 666 saz
+  morgen: 53
+  rods: 196
+  dues: 53 r 196 k
+  servitudes: 4 Morgen
+  name_norm: Rasch Friedrich
+  name_lang: de
+  norm_conf: firm
+  norm_note: 1868 reads Rasch Friedrich Ivan - the 1896 clerk dropped Ivan (Johann)
+- n: 45
+  name: Bandzert Emanuil
+  name_1868: Bandzert Emanuil
+  changed: false
+  total: 4 des 1020 saz
+  morgen: 4
+  rods: 48
+  dues: 4 r 48 k
+  servitudes: 4 Morgen
+  name_norm: Banzert Emanuel
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Bandzert, Bansert)'
+- n: 46
+  name: Kun Gotfrid
+  name_1868: Kun Gotfrid
+  changed: false
+  total: 20 des 2209 saz
+  morgen: 38
+  rods: 66
+  dues: 38 r 66 k
+  servitudes: 4 Morgen
+  name_norm: Kuhn Gottfried
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Kühn, Kun)'
+- n: 47
+  name: Zeer Kristiian
+  name_1868: Zeer Kristiian
+  changed: false
+  total: 26 des 1922 saz
+  morgen: 42
+  rods: 99
+  dues: 42 r 99 k
+  servitudes: 5 Morgen
+  name_norm: Zeer Christian
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Seher)'
+- n: 48
+  name: Bandzert Morits
+  name_1868: Bandzert Morits
+  changed: false
+  total: 20 des 165 saz
+  morgen: 36
+  rods: 135
+  dues: 36 r 135 k
+  servitudes: 4 Morgen
+  name_norm: Banzert Moritz
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Bandzert, Bansert)'
+- n: 49
+  name: Merts Avgust
+  name_1868: Merts Avgust
+  changed: false
+  total: 18 des 909 saz
+  morgen: 33
+  rods: 93
+  dues: 33 r 93 k
+  servitudes: 4 Morgen
+  name_norm: Mertz August
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Merz)'
+- n: 50
+  name: Tselmer Genrikh
+  name_1868: Tselmer Genrikh
+  changed: false
+  total: 20 des 416 saz
+  morgen: 35
+  rods: 42
+  dues: 35 r 42 k
+  servitudes: 4 Morgen
+  name_norm: Zellmer Heinrich
+  name_lang: de
+  norm_conf: firm
+  norm_note: '(also possible: Zöllmer)'
+- n: 51
+  name: Gebel Karl
+  name_1868: Gebel Karl
+  changed: false
+  total: 9 des 1567 saz
+  morgen: 14
+  rods: 105
+  dues: 14 r 105 k
+  servitudes: 4 Morgen
+  name_norm: Gibel Karl
+  name_lang: de
+  norm_conf: firm
+  norm_note: 'editor''s ruling 2026-11-05: Gibel in other records (not Göbel)'
+- n: 52
+  name: Shmigelskii Samuil
+  name_1868: Shmigelskii Samuil
+  changed: false
+  total: 9 des 1125 saz
+  morgen: 14
+  rods: 13
+  dues: 14 r 13 k
+  servitudes: 4 Morgen
+  name_norm: Śmigelski Samuel
+  name_lang: pl
+  norm_conf: firm
+- n: 53
+  name: heirs of Tselmera Daniila
+  name_1868: heirs of Tselmera Daniila
+  changed: false
+  total: 8 des 1888 saz
+  morgen: 12
+  rods: 60
+  dues: 12 r 60 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Daniel Zellmer
+  name_lang: de
+  norm_conf: firm
+  norm_note: '(also possible: Zöllmer)'
+- n: 54
+  name: Bitner Andrei
+  name_1868: Bitner Andrei
+  changed: false
+  total: 17 des 1475 saz
+  morgen: 30
+  rods: 115
+  dues: 30 r 115 k
+  servitudes: 4 Morgen
+  name_norm: Bitner Andreas
+  name_lang: de
+  norm_conf: firm
+  norm_note: Bitner, not Büttner — seen in other records (editor, 2026-11-05)
+- n: 55
+  name: Rytamer Anton
+  name_1868: Rytamer Anton
+  changed: false
+  total: 8 des 2112 saz
+  morgen: 13
+  rods: 142
+  dues: 13 r 142 k
+  servitudes: 4 Morgen
+  name_norm: Rittamer Anton
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Rytamer, Riedamer)'
+- n: 56
+  name: Przhistanskii Anton
+  name_1868: Przhistanskii Anton
+  changed: false
+  total: 4 des 1708 saz
+  morgen: 5
+  rods: 59
+  dues: 5 r 59 k
+  servitudes: 4 Morgen
+  name_norm: Przystański Antoni
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: 'прж renders the Polish prz- (also possible: Przystalski, Przytański)'
+- n: 57
+  name: Bartel Karl Liudvik
+  name_1868: Bartel Karl Liudvik
+  changed: false
+  total: 5 des 1561 saz
+  morgen: 6
+  rods: 68
+  dues: 6 r 68 k
+  servitudes: 4 Morgen
+  name_norm: Bartel Karl Ludwig
+  name_lang: de
+  norm_conf: firm
+- n: 58
+  name: Goske Voitsekh
+  name_1868: Goske Voitsekh
+  changed: false
+  total: 10 des 306 saz
+  morgen: 16
+  rods: 147
+  dues: 16 r 147 k
+  servitudes: 4 Morgen
+  name_norm: Goske Wojciech
+  name_lang: de
+  norm_conf: firm
+  norm_note: the given name is Polish
+- n: 59
+  name: Gints Liudvik
+  name_1868: Gints Liudvik
+  changed: false
+  total: 11 des 1856 saz
+  morgen: 16
+  rods: 287
+  dues: 16 r 287 k
+  servitudes: 6 Morgen
+  name_norm: Hintz Ludwig
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: 'cf. Hintz in Breyer''s tables of the neighbouring colonies (APP 716, doc 5160) (also possible:
+    Hinz, Ginz)'
+- n: 60
+  name: Shtark Daniil
+  name_1868: Shtark Daniil
+  changed: false
+  total: 6 des 994 saz
+  morgen: 8
+  rods: 157
+  dues: 8 r 157 k
+  servitudes: 4 Morgen
+  name_norm: Stark Daniel
+  name_lang: de
+  norm_conf: firm
+- n: 61
+  name: Kinast Voitsekh
+  name_1868: Kinast Voitsekh
+  changed: false
+  total: 28 des 427 saz
+  morgen: 52
+  rods: 94
+  dues: 52 r 94 k
+  servitudes: 6 Morgen
+  name_norm: Kinast Wojciech
+  name_lang: de
+  norm_conf: firm
+  norm_note: the given name is Polish
+- n: 62
+  name: Kusman Gotlib
+  name_1868: Kusman Gotlib
+  changed: false
+  total: 2 des 2235 saz
+  morgen: 2
+  rods: 66
+  dues: 2 r 66 k
+  servitudes: 4 Morgen
+  name_norm: Kussmann Gottlieb
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Kusman, Kußmann)'
+- n: 63
+  name: heirs of Kinasta Voitsekha
+  name_1868: heirs of Kinasta Voitsekha
+  changed: false
+  total: 13 des 292 saz
+  morgen: 15
+  rods: 192
+  dues: 15 r 192 k
+  servitudes: 6 Morgen
+  name_norm: heirs of Wojciech Kinast
+  name_lang: de
+  norm_conf: firm
+  norm_note: the given name is Polish
+- n: 64
+  name: Gerke Gotfrid
+  name_1868: Gerke Gotfrid
+  changed: false
+  total: 5 des 661 saz
+  morgen: 5
+  rods: 277
+  dues: 5 r 277 k
+  servitudes: 4 Morgen
+  name_norm: Gehrke Gottfried
+  name_lang: de
+  norm_conf: firm
+- n: 65
+  name: Tselmer Mikhail
+  name_1868: Tselmer Mikhail
+  changed: false
+  total: 20 des 1412 saz
+  morgen: 36
+  rods: 254
+  dues: 36 r 254 k
+  servitudes: 4 Morgen
+  name_norm: Zellmer Michael
+  name_lang: de
+  norm_conf: firm
+  norm_note: '(also possible: Zöllmer)'
+- n: 66
+  name: Shtark Avgust
+  name_1868: Shtark Avgust
+  changed: false
+  total: 12 des 1967 saz
+  morgen: 18
+  rods: 241
+  dues: 18 r 241 k
+  servitudes: 6 Morgen
+  name_norm: Stark August
+  name_lang: de
+  norm_conf: firm
+- n: 67
+  name: Tselmer Avgust
+  name_1868: Tselmer Avgust
+  changed: false
+  total: 13 des 1528 saz
+  morgen: 22
+  rods: 227
+  dues: 22 r 227 k
+  servitudes: 4 Morgen
+  name_norm: Zellmer August
+  name_lang: de
+  norm_conf: firm
+  norm_note: '(also possible: Zöllmer)'
+- n: 68
+  name: Lipelt Martin
+  name_1868: Lipelt Martsin
+  changed: false
+  total: 9 des 1581 saz
+  morgen: 14
+  rods: 121
+  dues: 14 r 121 k
+  servitudes: 4 Morgen
+  name_norm: Liepelt Martin
+  name_lang: de
+  norm_conf: firm
+- n: 69
+  name: Gotter Avgust
+  name_1868: Gotter Avgust
+  changed: false
+  total: 11 des 1971 saz
+  morgen: 19
+  rods: 64
+  dues: 19 r 64 k
+  servitudes: 4 Morgen
+  name_norm: Gotter August
+  name_lang: de
+  norm_conf: firm
+- n: 70
+  name: Morits Gotfrid
+  name_1868: Morits Gotfrid
+  changed: false
+  total: 30 des 1438 saz
+  morgen: 54
+  rods: 292
+  dues: 54 r 292 k
+  servitudes: 4 Morgen
+  name_norm: Moritz Gottfried
+  name_lang: de
+  norm_conf: firm
+  norm_note: the surname here is Moritz (Морицъ), the given name Gottfried
+- n: 71
+  name: Obst Vilgelm
+  name_1868: Obst Vilgelm
+  changed: false
+  total: 4 des 2320 saz
+  morgen: 5
+  rods: 272
+  dues: 5 r 272 k
+  servitudes: 4 Morgen
+  name_norm: Obst Wilhelm
+  name_lang: de
+  norm_conf: firm
+- n: 72
+  name: Reikh Kristiian
+  name_1868: Reikh Kristiian
+  changed: false
+  total: 16 des 955 saz
+  morgen: 28
+  rods: 297
+  dues: 28 r 297 k
+  servitudes: 4 Morgen
+  name_norm: Reich Christian
+  name_lang: de
+  norm_conf: firm
+- n: 73
+  name: Shvebs Ivan
+  name_1868: Shvebs Ivan
+  changed: false
+  total: 8 des 2030 saz
+  morgen: 12
+  rods: 221
+  dues: 12 r 221 k
+  servitudes: 4 Morgen
+  name_norm: Schwebs Johann
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Schwabs)'
+- n: 74
+  name: Khaupt Gotlib
+  name_1868: Khaupt Gotlib
+  changed: false
+  total: 6 des 531 saz
+  morgen: 8
+  rods: 124
+  dues: 8 r 124 k
+  servitudes: 4 Morgen
+  name_norm: Haupt Gottlieb
+  name_lang: de
+  norm_conf: firm
+- n: 75
+  name: Khaupt Gotfrid
+  name_1868: Khaupt Gotfrid Kristiian
+  changed: false
+  total: 18 des 79 saz
+  morgen: 31
+  rods: 98
+  dues: 31 r 98 k
+  servitudes: 6 Morgen
+  name_norm: Haupt Gottfried
+  name_lang: de
+  norm_conf: firm
+  norm_note: 1868 reads Haupt Gottfried Christian - the middle name distinguishes him from the Christian
+    Haupt of farm 76 (father and son); the 1896 clerk dropped it
+- n: 76
+  name: Khaupt Kristiian
+  name_1868: Khaupt Kristiian Kristiianov
+  changed: false
+  total: 8 des 1715 saz
+  morgen: 13
+  rods: 33
+  dues: 13 r 33 k
+  servitudes: 4 Morgen
+  name_norm: Haupt Christian
+  name_lang: de
+  norm_conf: firm
+  norm_note: 1868 reads Khaupt Kristiian Kristiianov = Christian, son of Christian - the patronymic is
+    what tells him from farm 75; the 1896 clerk dropped it
+- n: 77
+  name: Gebel Kristiian
+  name_1868: Khaupt Gotfridov Kristiian
+  changed: false
+  total: 8 des 1082 saz
+  morgen: 12
+  rods: 48
+  dues: 12 r 48 k
+  servitudes: 4 Morgen
+  name_norm: Haupt Christian [conflict]
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: 'CONFLICT: the 1896 statement (the map''s own source) reads Gebel Kristiian, but the 1868
+    table, the 1869 copy and Breyer all read Khaupt Gotfridov Kristiian (Haupt, Gottfried''s son). Rule:
+    clerk''s error, or the farm changed hands (docs 4-5)?'
+- n: 78
+  name: Zelchak Foma
+  name_1868: Zelchak Foma
+  changed: false
+  total: 5 des 897 saz
+  morgen: 6
+  rods: 104
+  dues: 6 r 104 k
+  servitudes: 4 Morgen
+  name_norm: Zielczak Tomasz
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: '(also possible: Zelczak, Selczak)'
+- n: 79
+  name: Shchepinskii Petr
+  name_1868: Shchepinskii Petr
+  changed: false
+  total: 5 des 611 saz
+  morgen: 5
+  rods: 255
+  dues: 5 r 255 k
+  servitudes: 4 Morgen
+  name_norm: Szczepiński Piotr
+  name_lang: pl
+  norm_conf: firm
+- n: 80
+  name: Fogel Vilgelm
+  name_1868: Fogel Vilgelm
+  changed: false
+  total: 3 des 1113 saz
+  morgen: 2
+  rods: 214
+  dues: 2 r 214 k
+  servitudes: 4 Morgen
+  name_norm: Vogel Wilhelm
+  name_lang: de
+  norm_conf: firm
+- n: 81
+  name: Sheinfish Vilgelm
+  name_1868: Sheinfish Vilgelm
+  changed: false
+  total: 30 des 459 saz
+  morgen: 54
+  rods: 218
+  dues: 54 r 218 k
+  servitudes: 4 Morgen
+  name_norm: Schönfisch Wilhelm
+  name_lang: de
+  norm_conf: firm
+  norm_note: Schönfisch, not Scheinfisch (editor, 2026-11-05)
+- n: 82
+  name: Rogatskii Stanislav
+  name_1868: Rogatskii Stanislav
+  changed: false
+  total: 10 des 19 saz
+  morgen: 16
+  rods: 269
+  dues: 16 r 269 k
+  servitudes: 4 Morgen
+  name_norm: Rogacki Stanisław
+  name_lang: pl
+  norm_conf: firm
+- n: 83
+  name: Fetter Ivan
+  name_1868: Fetter Ivan
+  changed: false
+  total: 3 des 1150 saz
+  morgen: 2
+  rods: 206
+  dues: 2 r 206 k
+  servitudes: 4 Morgen
+  name_norm: Fetter Johann
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '(also possible: Vetter)'
+- n: 84
+  name: heirs of Shtirtsenbekera
+  name_1868: heirs of Shtirtsenbekhera Ivana
+  changed: false
+  total: 4 des 1684 saz
+  morgen: 5
+  rods: 30
+  dues: 5 r 30 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Johann Stürzenbecker
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: '1868 names the deceased: Ivan (Johann); the 1896 clerk dropped the given name - restored
+    here from the 1868 witness'
+- n: 85
+  name: Kinast Kristiian
+  name_1868: Kinast Kristiian
+  changed: false
+  total: 3 des 186 saz
+  morgen: 2
+  rods: 12
+  dues: 2 r 12 k
+  servitudes: 4 Morgen
+  name_norm: Kinast Christian
+  name_lang: de
+  norm_conf: firm
+- n: 86
+  name: Khaupt Gotfrid
+  name_1868: Khaupt Gotfrid
+  changed: false
+  total: 4 des 588 saz
+  morgen: 4
+  rods: 37
+  dues: 4 r 37 k
+  servitudes: 4 Morgen
+  name_norm: Haupt Gottfried
+  name_lang: de
+  norm_conf: firm
+- n: 87
+  name: Khaupt Vilgelm
+  name_1868: Khaupt Vilgelm
+  changed: false
+  total: 7 des 2330 saz
+  morgen: 14
+  rods: 179
+  dues: 14 r 179 k
+  servitudes: 4 Morgen
+  name_norm: Haupt Wilhelm
+  name_lang: de
+  norm_conf: firm
+- n: 88
+  name: German Voitsekh
+  name_1868: German Voitsekh
+  changed: false
+  total: 2 des 2219 saz
+  morgen: 1
+  rods: 288
+  dues: 1 r 288 k
+  servitudes: 4 Morgen
+  name_norm: Hermann Wojciech
+  name_lang: de
+  norm_conf: conjectural
+  norm_note: Германъ as surname → Hermann; the given name is Polish (Wojciech)
+- n: 89
+  name: heirs of Tarnovskago Mikhaila
+  name_1868: heirs of Tarnovskago Mikhaila
+  changed: false
+  total: 2 des 1774 saz
+  morgen: 2
+  rods: 30
+  dues: 2 r 30 k
+  servitudes: 4 Morgen
+  name_norm: heirs of Michał Tarnowski
+  name_lang: pl
+  norm_conf: firm
+- n: 90
+  name: Rogovich Martin
+  name_1868: Martsin Rogovich
+  changed: false
+  total: 2 des 749 saz
+  morgen: null
+  rods: 193
+  dues: ''
+  servitudes: 4 Morgen
+  name_norm: Rogowicz Marcin
+  name_lang: pl
+  norm_conf: conjectural
+  norm_note: '(also possible: Rogowitz)'
+- n: 91
+  name: Marylskii Ivan
+  name_1868: Marylskii Ivan
+  changed: false
+  total: 4 des 2003 saz
+  morgen: 5
+  rods: 98
+  dues: 5 r 98 k
+  servitudes: 4 Morgen
+  name_norm: Marylski Jan
+  name_lang: pl
+  norm_conf: firm
+- n: 92
+  name: Village school
+  name_1868: Farmstead of the village school
+  changed: false
+  total: 9 des 2219 saz
+  morgen: 20
+  rods: 218
+  dues: 20 r 218 k
+  servitudes: null
+  name_norm: Szkoła wiejska
+  name_de: Dorfschule
+  name_lang: pl
+  norm_note: ''
+  norm_conf: firm
+  institution: true
+- n: 93
+  name: Common cemetery
+  name_1868: Common cemetery
+  changed: false
+  total: 1 des 1320 saz
+  morgen: 2
+  rods: 282
+  dues: 2 r 282 k
+  servitudes: null
+  name_norm: Cmentarz wspólny
+  name_de: Gemeindefriedhof
+  name_lang: pl
+  norm_note: ''
+  norm_conf: firm
+  institution: true
+- n: 94
+  name: Plot of common land
+  name_1868: Plot of common land
+  changed: false
+  total: 0 des 1881 saz
+  morgen: 1
+  rods: 89
+  dues: 1 r 89 k
+  servitudes: null
+  name_norm: Działka gruntów wspólnych
+  name_de: Allmende
+  name_lang: pl
+  norm_note: ''
+  norm_conf: conjectural
+  institution: true
+- n: 95
+  name: The village headman's plot
+  name_1868: The village headman's plot
+  changed: false
+  total: 1 des 612 saz
+  morgen: 2
+  rods: 263
+  dues: 2 r 263 k
+  servitudes: null
+  name_norm: Działka sołtysa
+  name_de: Schulzengrundstück
+  name_lang: pl
+  norm_note: ''
+  norm_conf: firm
+  institution: true
+- n: 96
+  name: Reikh Kristiian
+  name_1868: Reikh Kristiian
+  changed: false
+  total: 2 des 1319 saz
+  morgen: 1
+  rods: null
+  dues: 1 r .. k
+  servitudes: 4 Morgen
+  name_norm: Reich Christian
+  name_lang: de
+  norm_conf: firm
+  norm_note: the 1896 columns are dotted (..) and the name duplicates farm 72 - the same man's second
+    plot, or a clerical repetition; check the scan
+- n: 97
+  name: Roads
+  name_1868: Under roads
+  changed: false
+  total: ''
+  morgen: 6
+  rods: 242
+  dues: 6 r 242 k
+  servitudes: null
+  name_norm: Drogi
+  name_de: Wege
+  name_lang: pl
+  norm_note: Подъ дорогами, under the roads — shown simply as Roads
+  norm_conf: firm
+  institution: true
+marks:
+- n: 1
+  x: 9411
+  y: 4600
+  note: null
+- n: 2
+  x: 8892
+  y: 5218
+  note: null
+- n: 3
+  x: 9361
+  y: 6372
+  note: null
+- n: 3
+  x: 9638
+  y: 6747
+  note: null
+- n: 4
+  x: 7431
+  y: 7024
+  note: null
+- n: 4
+  x: 7612
+  y: 7577
+  note: null
+- n: 5
+  x: 6784
+  y: 7540
+  note: null
+- n: 6
+  x: 7610
+  y: 6720
+  note: null
+- n: 7
+  x: 7390
+  y: 6320
+  note: null
+- n: 8
+  x: 6572
+  y: 5065
+  note: null
+- n: 9
+  x: 6585
+  y: 6100
+  note: null
+- n: 10
+  x: 5937
+  y: 7195
+  note: null
+- n: 11
+  x: 5590
+  y: 6015
+  note: null
+- n: 13
+  x: 5215
+  y: 6147
+  note: null
+- n: 14
+  x: 3843
+  y: 6651
+  note: null
+- n: 15
+  x: 4051
+  y: 7195
+  note: null
+- n: 16
+  x: 11328
+  y: 9185
+  note: null
+- n: 17
+  x: 4621
+  y: 6865
+  note: null
+- n: 18
+  x: 7088
+  y: 5836
+  note: null
+- n: 19
+  x: 5793
+  y: 7759
+  note: null
+- n: 20
+  x: 7468
+  y: 8301
+  note: null
+- n: 21
+  x: 7957
+  y: 9054
+  note: null
+- n: 22
+  x: 8471
+  y: 9327
+  note: null
+- n: 23
+  x: 7037
+  y: 10033
+  note: null
+- n: 23
+  x: 10994
+  y: 8837
+  note: null
+- n: 24
+  x: 6358
+  y: 8704
+  note: null
+- n: 26
+  x: 4116
+  y: 8218
+  note: null
+- n: 26
+  x: 5300
+  y: 8693
+  note: null
+- n: 26
+  x: 8654
+  y: 5961
+  note: null
+- n: 27
+  x: 5856
+  y: 10086
+  note: null
+- n: 29
+  x: 3718
+  y: 8822
+  note: null
+- n: 29
+  x: 4322
+  y: 8822
+  note: null
+- n: 31
+  x: 5065
+  y: 10183
+  note: null
+- n: 32
+  x: 5159
+  y: 10317
+  note: null
+- n: 33
+  x: 4792
+  y: 9457
+  note: null
+- n: 34
+  x: 5539
+  y: 9967
+  note: null
+- n: 35
+  x: 6668
+  y: 11114
+  note: null
+- n: 36
+  x: 7679
+  y: 10203
+  note: null
+- n: 37
+  x: 8173
+  y: 10473
+  note: null
+- n: 37
+  x: 8279
+  y: 9795
+  note: null
+- n: 37
+  x: 8730
+  y: 10408
+  note: null
+- n: 38
+  x: 7119
+  y: 11103
+  note: null
+- n: 39
+  x: 7622
+  y: 11256
+  note: null
+- n: 40
+  x: 8921
+  y: 11414
+  note: null
+- n: 41
+  x: 9547
+  y: 12003
+  note: null
+- n: 42
+  x: 9912
+  y: 12182
+  note: null
+- n: 42
+  x: 10022
+  y: 12281
+  note: null
+- n: 44
+  x: 9267
+  y: 11745
+  note: null
+- n: 44
+  x: 9942
+  y: 11667
+  note: null
+- n: 44
+  x: 10988
+  y: 11794
+  note: null
+- n: 44
+  x: 11617
+  y: 11148
+  note: null
+- n: 45
+  x: 11634
+  y: 10559
+  note: null
+- n: 46
+  x: 11384
+  y: 9769
+  note: null
+- n: 47
+  x: 9407
+  y: 9997
+  note: null
+- n: 47
+  x: 10168
+  y: 9822
+  note: null
+- n: 49
+  x: 10085
+  y: 8017
+  note: null
+- n: 50
+  x: 9113
+  y: 8048
+  note: null
+- n: 51
+  x: 10600
+  y: 7103
+  note: null
+- n: 52
+  x: 11190
+  y: 6180
+  note: null
+- n: 53
+  x: 11499
+  y: 7239
+  note: null
+- n: 54
+  x: 10406
+  y: 12654
+  note: null
+- n: 54
+  x: 13139
+  y: 11319
+  note: null
+- n: 55
+  x: 12271
+  y: 12119
+  note: null
+- n: 56
+  x: 13153
+  y: 12240
+  note: null
+- n: 57
+  x: 13712
+  y: 12657
+  note: null
+- n: 58
+  x: 14145
+  y: 12510
+  note: null
+- n: 59
+  x: 14004
+  y: 11322
+  note: null
+- n: 60
+  x: 16204
+  y: 11230
+  note: null
+- n: 61
+  x: 16430
+  y: 10509
+  note: null
+- n: 61
+  x: 16888
+  y: 10348
+  note: null
+- n: 61
+  x: 16947
+  y: 11157
+  note: null
+- n: 61
+  x: 17249
+  y: 10564
+  note: null
+- n: 62
+  x: 5366
+  y: 10426
+  note: null
+- n: 63
+  x: 18269
+  y: 11558
+  note: null
+- n: 65
+  x: 18005
+  y: 11292
+  note: null
+- n: 66
+  x: 18379
+  y: 11961
+  note: null
+- n: 67
+  x: 18315
+  y: 12483
+  note: null
+- n: 68
+  x: 17136
+  y: 12294
+  note: null
+- n: 69
+  x: 17110
+  y: 12900
+  note: null
+- n: 70
+  x: 18488
+  y: 12932
+  note: null
+- n: 71
+  x: 18395
+  y: 13543
+  note: null
+- n: 72
+  x: 19784
+  y: 12381
+  note: null
+- n: 73
+  x: 19709
+  y: 11942
+  note: null
+- n: 74
+  x: 17348
+  y: 9307
+  note: null
+- n: 75
+  x: 17072
+  y: 9677
+  note: null
+- n: 76
+  x: 19509
+  y: 11079
+  note: null
+- n: 77
+  x: 19718
+  y: 11205
+  note: null
+- n: 78
+  x: 19181
+  y: 10392
+  note: null
+- n: 80
+  x: 4507
+  y: 9988
+  note: null
+- n: 81
+  x: 13099
+  y: 7738
+  note: null
+- n: 81
+  x: 13677
+  y: 8045
+  note: null
+- n: 82
+  x: 5521
+  y: 6818
+  note: null
+- n: 83
+  x: 4440
+  y: 6740
+  note: null
+- n: 84
+  x: 3381
+  y: 8846
+  note: null
+- n: 86
+  x: 3249
+  y: 9192
+  note: null
+- n: 87
+  x: 3635
+  y: 9297
+  note: null
+- n: 89
+  x: 10261
+  y: 12482
+  note: null
+- n: 90
+  x: 12876
+  y: 7463
+  note: null
+- n: 91
+  x: 12598
+  y: 7421
+  note: null
+- n: 92
+  x: 9971
+  y: 8997
+  note: null
+- n: 93
+  x: 10039
+  y: 9126
+  note: null

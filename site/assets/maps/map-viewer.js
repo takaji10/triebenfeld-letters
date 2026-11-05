@@ -31,6 +31,25 @@ better scan does not move them.
   var ROT = M.view_rotation || 0;
   var byId = {};
   (M.labels || []).forEach(function (l) { if (l.id) byId[l.id] = l; });
+  // The farmsteads of the liquidation (M.farms): one name label per farm
+  // the editor has marked, a layer of its own, hidden until the tools
+  // button turns it on; a click opens the farm's row in the table below.
+  // The red numbers (M.reds), the statement's row numbers on each parcel,
+  // are a second layer beside it; the two toggles are independent.
+  var farms = M.farms || { marks: [] };
+  var reds = M.reds || [];
+  var farmTags = {};
+  var redTags = [];
+  var plotsSvg = null;     // the farm plots' SVG overlay, toggled whole
+  // the page's language (the DE pages are separate pages): the
+  // institution labels speak it
+  var ML = document.documentElement.lang || 'en';
+  var redTags = [];
+
+  function layerOn(btn, on) {
+    if (!btn) return;
+    btn.setAttribute('aria-pressed', String(on));
+  }
 
   var status = document.getElementById('map-status');
   function say(msg) {
@@ -76,9 +95,10 @@ better scan does not move them.
       d.className = 'map-mark' + (l.role === 'letter' ? ' map-mark-letter' : '');
       d.setAttribute('role', 'button');
       d.setAttribute('tabindex', '0');
-      var tip = l.form || '';
+      var tip = l.name || l.form || '';
       if (l.role === 'letter' && l.letter && l.letter !== l.form) tip = l.letter;
       if (l.place_name && l.place_name !== l.form) tip += ' — ' + l.place_name;
+      else if (l.name && l.form && l.name !== l.form) tip += ' — ' + l.form;
       d.setAttribute('data-tip', tip);
       d.setAttribute('aria-label', tip);
       d.setAttribute('data-label', lid);
@@ -118,6 +138,191 @@ better scan does not move them.
   viewer.addHandler('open-failed', function (e) {
     say('The map tiles did not load (' + (e.message || 'error') + ').');
   });
+
+  // ---- the farmsteads' layer ----------------------------------------------
+  // The liquidation's farmsteads as name labels over the plan (M.farms,
+  // the editor's marks): hidden until the tools button turns the layer on,
+  // a label's click opens the farm's row in the table below the map, a
+  // row's Locate takes the map to the label.
+  var farmLayerBtn = document.getElementById('farm-layer');
+  var redsLayerBtn = document.getElementById('reds-layer');
+  var redsLinkedBtn = document.getElementById('reds-linked');
+  var redOn = false, hideLinked = false;
+  // The two layers and the hide-linked switch in one place: a name label
+  // shows when the farmsteads' layer is on and Hide linked is off (Hide
+  // linked clears the linked farms - names with their red numbers - so the
+  // farmsteads still without a label stand alone); a red number shows when
+  // its layer is on and, with Hide linked pressed, its farm carries no name
+  // label. An unsure reading (3[7?]) counts as not linked - a doubtful
+  // number is not hidden on a say-so.
+  //
+  // The visibility is a class, not an inline style: the viewer's own
+  // drawHTML writes style.display="block" on every redraw - every zoom and
+  // pan frame - which overrode an inline none and brought the labels back
+  // while the map moved (the editor's report). A !important class holds.
+  function applyLayers() {
+    var namesOn = farmLayerBtn &&
+      farmLayerBtn.getAttribute('aria-pressed') === 'true';
+    Object.keys(farmTags).forEach(function (k) {
+      farmTags[k].forEach(function (d) {
+        d.classList.toggle('gone', !(namesOn && !hideLinked));
+      });
+    });
+    redTags.forEach(function (t) {
+      // an unsure reading (3[7?]) is never hidden, whatever it carries:
+      // only a firm reading whose farm has a mark goes
+      var linked = hideLinked && !t.unsure && t.n != null && farmTags[t.n];
+      t.el.classList.toggle('gone', !(redOn && !linked));
+    });
+    if (plotsSvg) {
+      var plotsOn = plotsLayerBtn &&
+        plotsLayerBtn.getAttribute('aria-pressed') === 'true';
+      plotsSvg.classList.toggle('gone', !plotsOn);
+    }
+  }
+  function farmLayerOn(on) {
+    if (!farmLayerBtn) return;
+    layerOn(farmLayerBtn, on);
+    applyLayers();
+  }
+  function redsLayerOn(on) {
+    if (!redsLayerBtn) return;
+    layerOn(redsLayerBtn, on);
+    redOn = on;
+    applyLayers();
+  }
+  if (farms.marks && farms.marks.length && farmLayerBtn) {
+    viewer.addHandler('open', function () {
+      farms.marks.forEach(function (f) {
+        if (f.x == null || f.y == null) return;
+        var d = document.createElement('div');
+        d.className = 'farm-tag';
+        d.setAttribute('role', 'button');
+        d.setAttribute('tabindex', '0');
+        d.setAttribute('data-farm', f.n);
+        // the pill carries the proper spelling where the editor's
+        // normalisation is firm (a map label is editorial, not a
+        // transcription); institution rows speak the page's language -
+        // German on the German page, English otherwise
+        var nm = f.name;
+        if (f.institution) {
+          nm = (ML === 'de' && f.name_de) ? f.name_de : f.name;
+        } else if (f.name_norm && f.norm_conf !== 'conjectural') {
+          nm = f.name_norm;
+        }
+        d.textContent = '\u2116 ' + f.n + (nm ? ' \u00b7 ' + nm : '');
+        if (f.total) d.setAttribute('data-tip', '\u2116 ' + f.n + ' \u2014 ' + f.total);
+        var p = viewer.viewport.imageToViewportCoordinates(
+          new OpenSeadragon.Point(f.x, f.y));
+        viewer.addOverlay({
+          element: d,
+          location: p,
+          placement: OpenSeadragon.Placement.CENTER,
+          rotationMode: OpenSeadragon.OverlayRotationMode.NO_ROTATION
+        });
+        var act = function () { focusFarm(f.n); };
+        d.addEventListener('click', act);
+        d.addEventListener('keydown', function (ev) {
+          if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); act(); }
+        });
+        d.addEventListener('mouseenter', function () { showTip(d); });
+        d.addEventListener('mouseleave', hideTip);
+        d.classList.remove('gone');   // the names layer is on by default
+        // a farm number may carry several labels (a farmer can hold more
+        // than one farmstead): the tags of one farm live in a list, so the
+        // layer toggles and the highlight reach every one of them
+        (farmTags[f.n] = farmTags[f.n] || []).push(d);
+      });
+    });
+    farmLayerBtn.addEventListener('click', function () {
+      farmLayerOn(farmLayerBtn.getAttribute('aria-pressed') !== 'true');
+    });
+  }
+  if (reds.length && redsLayerBtn) {
+    viewer.addHandler('open', function () {
+      reds.forEach(function (r) {
+        if (r.x == null || r.y == null) return;
+        var d = document.createElement('div');
+        d.className = 'red-tag' + (r.unsure ? ' unsure' : '');
+        d.textContent = r.n;
+        if (r.unsure) d.setAttribute('data-tip', r.n + ' (uncertain reading)');
+        var p = viewer.viewport.imageToViewportCoordinates(
+          new OpenSeadragon.Point(r.x, r.y));
+        viewer.addOverlay({
+          element: d,
+          location: p,
+          placement: OpenSeadragon.Placement.CENTER,
+          rotationMode: OpenSeadragon.OverlayRotationMode.NO_ROTATION
+        });
+        d.addEventListener('mouseenter', function () { showTip(d); });
+        d.addEventListener('mouseleave', hideTip);
+        d.classList.add('gone');
+        // the unsure flag rides along: a doubtful reading is NEVER hidden
+        // by Hide linked, whatever number it carries - only a firm reading
+        // whose farm has a mark goes (an unsure reading's brackets cannot
+        // match a farm key anyway, but the flag makes the rule explicit)
+        redTags.push({ el: d, n: r.n, unsure: !!r.unsure });
+      });
+    });
+    redsLayerBtn.addEventListener('click', function () {
+      redsLayerOn(redsLayerBtn.getAttribute('aria-pressed') !== 'true');
+    });
+    if (redsLinkedBtn) {
+      redsLinkedBtn.addEventListener('click', function () {
+        hideLinked = !hideLinked;
+        layerOn(redsLinkedBtn, hideLinked);
+        applyLayers();
+      });
+    }
+  }
+
+  // ---- the farm plots, drawn as one SVG over the whole mosaic -------------
+  // The editor's outlines of each owner's land (maps/<key>/polygons.yml),
+  // scaled to the image exactly: the SVG's viewBox is the mosaic's pixel
+  // box, so a polygon's points in image pixels land on the map at every
+  // zoom. A quiet fill; the stroke keeps its screen width (vector-effect).
+  // A layer of its own beside the names and the red numbers, on by default.
+  var plotsLayerBtn = document.getElementById('plots-layer');
+  var plots = (farms.polygons || []);
+  if (plots.length && plotsLayerBtn) {
+    viewer.addHandler('open', function () {
+      var NS = 'http://www.w3.org/2000/svg';
+      var svg = document.createElementNS(NS, 'svg');
+      svg.setAttribute('class', 'map-plots-svg');
+      svg.setAttribute('viewBox', '0 0 ' + M.width + ' ' + M.height);
+      svg.setAttribute('preserveAspectRatio', 'none');
+      var nmByN = {};
+      (farms.marks || []).forEach(function (f) { nmByN[f.n] = f; });
+      plots.forEach(function (p) {
+        var poly = document.createElementNS(NS, 'polygon');
+        poly.setAttribute('class', 'plot');
+        poly.setAttribute('points',
+          p.pts.map(function (pt) { return pt[0] + ',' + pt[1]; }).join(' '));
+        if (p.farm) {
+          poly.setAttribute('data-farm', p.farm);
+          var f = nmByN[p.farm];
+          var label = '\u2116 ' + p.farm +
+            (f && (f.name_norm || f.name) ? ' \u00b7 ' + (f.name_norm || f.name) : '');
+          var ti = document.createElementNS(NS, 'title');
+          ti.textContent = label;
+          poly.appendChild(ti);
+        }
+        svg.appendChild(poly);
+      });
+      var ir = new OpenSeadragon.Rect(0, 0, M.width, M.height);
+      viewer.addOverlay({
+        element: svg,
+        location: viewer.viewport.imageToViewportRectangle(ir),
+        rotationMode: OpenSeadragon.OverlayRotationMode.NO_ROTATION
+      });
+      plotsSvg = svg;
+      applyLayers();   // the SVG takes the button's state (on by default)
+    });
+    plotsLayerBtn.addEventListener('click', function () {
+      layerOn(plotsLayerBtn, plotsLayerBtn.getAttribute('aria-pressed') !== 'true');
+      applyLayers();
+    });
+  }
 
   // ---- the boundary walk, drawn on the map --------------------------------
   // The stretches of the boundary (labels with a role and a trace) as
@@ -217,11 +422,56 @@ better scan does not move them.
     highlight(id);
   }
 
+  function highlightFarm(n) {
+    var s = String(n);
+    document.querySelectorAll('.farm-table tr[data-farm]').forEach(function (tr) {
+      tr.classList.toggle('is-on', tr.getAttribute('data-farm') === s);
+    });
+    Object.keys(farmTags).forEach(function (k) {
+      farmTags[k].forEach(function (d) {
+        d.classList.toggle('is-on', k === s);
+      });
+    });
+  }
+
+  function focusFarm(n) {
+    var f = null;
+    (farms.marks || []).forEach(function (x) { if (String(x.n) === String(n)) f = x; });
+    if (!f || f.x == null) return;
+    var p = viewer.viewport.imageToViewportCoordinates(
+      new OpenSeadragon.Point(f.x, f.y));
+    var z = Math.min(viewer.viewport.imageToViewportZoom(0.4),
+                     viewer.viewport.getMaxZoom());
+    viewer.viewport.zoomTo(z);
+    viewer.viewport.panTo(p);
+    viewer.viewport.applyConstraints();
+    // the row is the point of the layer: with it off, the label would not
+    // be there to meet the reader - turn it on
+    if (farmLayerBtn && farmLayerBtn.getAttribute('aria-pressed') !== 'true') {
+      farmLayerOn(true);
+    }
+    highlightFarm(n);
+    var row = document.getElementById('farm-' + n);
+    if (row && row.scrollIntoView) {
+      row.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    }
+    history.replaceState(null, '', '#farm-' + n);
+  }
+
   function focusFromHash() {
     var h = (location.hash || '').replace(/^#/, '');
+    if (h.indexOf('farm-') === 0) { focusFarm(h.slice(5)); return; }
     if (h && byId[h]) focusLabel(h);
   }
   window.addEventListener('hashchange', focusFromHash);
+
+  // A farm row's Locate chip takes the map to the farm's mark.
+  document.querySelectorAll('.farm-do a[data-farm]').forEach(function (el) {
+    el.addEventListener('click', function (ev) {
+      ev.preventDefault();
+      focusFarm(el.getAttribute('data-farm'));
+    });
+  });
 
   // A row's crop (the [data-label] links of the list) takes the map to its
   // mark; the row's other links (the place's page) navigate as usual.

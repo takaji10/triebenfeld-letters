@@ -125,6 +125,7 @@ blocks:
     boundary: true
     heading_ru: Описаніе смежныхъ земель
     head:
+      ru: [№, Отъ, До, Описаніе, Мѣсто]
       en: [No., From, To, Description, Place]
       de: [Nr., Von, Bis, Beschreibung, Ort]
     rows:
@@ -153,36 +154,6 @@ blocks:
       - section: {ru: Участка № 2, en: "Section No. 2", de: "Abschnitt Nr. 2"}
       - {n: "19", from: Т, to: У, ru: Земли крестьянъ селенія Михалиново, en: Lands of the peasants of the village of Michalinów, de: Ländereien der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
       - {n: "20", from: У, to: Т, ru: Земли крестьянъ селенія Хута, en: Lands of the peasants of the village of Huta, de: Ländereien der Bauern des Dorfes Huta, place: Huta (Хута)}
-    note:
-      en: >-
-        The stamped capitals (А–У) are the boundary points of the plan, two
-        columns of them at the left of the list; each row runs from one point
-        to the next around the perimeter, and the original writes «отъ» (from)
-        as a ditto mark at the head of each line. Rows 1 to 15 run from one
-        letter to the next (А–Б, Б–В … О–П); rows 16 to 18 are П–А, Р–Р and
-        С–С (the editor's ruling), where the second letter repeats the first
-        or breaks the sequence; rows 19 and 20 close the loop (Т→У, У→Т).
-        The spellings are the Russian renderings of the Polish names
-        (Тромбчинъ = Trąbczyn, the nasal ą written ом); the Polish forms are
-        confirmed by the editor. Фольварокъ is a manor farm (folwark),
-        коренная усадьба the principal homestead, вырубленный лѣсъ felled
-        forest, дополнительный надѣлъ the additional allotment (as in the
-        explication).
-      de: >-
-        Die gestempelten Großbuchstaben (А–У) sind die Grenzpunkte des Plans,
-        in zwei Spalten links neben der Liste; jede Zeile läuft von einem
-        Punkt zum nächsten entlang der Grenze, und die Vorlage schreibt
-        «отъ» (von) als Wiederholungszeichen am Kopf jeder Zeile. Die Zeilen
-        1 bis 15 laufen von einem Buchstaben zum nächsten (А–Б, Б–В … О–П);
-        die Zeilen 16 bis 18 sind П–А, Р–Р und С–С (Festlegung des
-        Herausgebers), wo der zweite Buchstabe den ersten wiederholt oder
-        die Reihe bricht; die Zeilen 19 und 20 schließen den Kreis (Т→У,
-        У→Т). Die Schreibungen sind die russischen Wiedergaben der polnischen
-        Namen (Тромбчинъ = Trąbczyn, das nasalę als om geschrieben); die
-        polnischen Formen hat der Herausgeber bestätigt. Фольварокъ ist ein
-        Vorwerk (folwark), коренная усадьба der Haupthof, вырубленный лѣсъ
-        Kahlschlagwald, дополнительный надѣлъ der zusätzliche Anteil (wie in
-        der Explication).
   - id: explication
     names:
       en: The explication (the land-area table)
@@ -191,7 +162,7 @@ blocks:
     head:
       ru: [Категорія, Дес., Саж.]
       en: [Category, Des., Saz.]
-      de: [Kategorie, Дес., Саж.]
+      de: [Kategorie, Des., Saz.]
     rows:
       - group: {ru: Основнаго надѣла, en: Of the basic allotment, de: Vom Hauptanteil}
       - {ru: Удобной земли, en: Arable (usable) land, de: Kulturfähiges Land, des: "842", saz: "219"}
@@ -206,14 +177,8 @@ blocks:
       en: >-
         Дес. (десятинъ) is desyatinas, Саж. (квадратныхъ саженъ) square
         sazhens: one desyatina is 2400 square sazhens, about 1.09 hectares,
-        and one square sazhen about 4.55 m². The figures sum correctly
-        (870 + 197 = 1067 desyatinas and 1454 + 2218 = 3672 sazhens = 1
-        desyatina 1272 sazhens), which supports the readings of the digits.
-        The dashes after Итого and Всего in the original are filler strokes.
+        and one square sazhen about 4.55 m².
       de: >-
         Дес. (десятинъ) heißt Desjatinen, Саж. (квадратныхъ саженъ)
         Quadratsaschen: eine Desjatina zählt 2400 Quadratsaschen, rund 1,09
-        Hektar, eine Quadratsasche rund 4,55 m². Die Zahlen gehen richtig auf
-        (870 + 197 = 1067 Desjatinen und 1454 + 2218 = 3672 Saschen = 1
-        Desjatina 1272 Saschen), was die Ziffernlesungen stützt. Die Striche
-        hinter Итого und Всего in der Vorlage sind Füllstriche.
+        Hektar, eine Quadratsasche rund 4,55 m².

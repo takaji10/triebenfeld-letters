@@ -18,6 +18,19 @@ layout: default
 {%- endcomment -%}
 {% include urls.html %}
 {%- assign m = site.data.maps[page.map] -%}
+{%- assign orig_lang = m.orig_lang | default: 'pl' -%}
+{%- assign ml_default = 'en' -%}
+{%- if lang == 'de' %}{% assign ml_default = 'de' %}{% endif -%}
+{%- if orig_lang == 'ru' -%}{%- assign panes = 'en,ru,de' | split: ',' -%}{%- else -%}{%- assign panes = 'en,pl,de' | split: ',' -%}{%- endif -%}
+{%- comment -%}
+  The legend's, the texts' and the tables' language is the reader's to
+  choose, as tabs (English, the sheet's own language, German) and not the
+  original and the translation side by side as it was. The choice is one
+  state for the whole page (html[data-ml], set here before anything renders,
+  so no pane flashes), the buttons in the legend's and the texts' sections
+  both set it. Without JS the page's own language stands.
+{%- endcomment -%}
+<script>document.documentElement.setAttribute('data-ml', '{{ ml_default }}');</script>
 
 <div class="prose person-page place-page">
   <p class="eyebrow"><a href="{{ u_maps | relative_url }}">{{ t.maps_eyebrow }}</a></p>
@@ -41,7 +54,7 @@ layout: default
       {%- for l in m_labels %}
         <li id="mark-{{ l.id }}" data-label="{{ l.id }}">
           <span class="map-text">
-            {%- if l.place %}<a class="map-place" href="{{ u_places | append: l.place | append: '/' | relative_url }}">{{ l.place_name }}</a>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}, {% else %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</span>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}{% endif -%}
+            {%- if l.place %}<a class="map-place" href="{{ u_places | append: l.place | append: '/' | relative_url }}">{{ l.place_name }}</a>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}, {% elsif l.name and l.name != l.form %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.name }}</span>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}, <em class="map-form" lang="{{ orig_lang }}"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</em>{% else %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</span>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}{% endif -%}
             {%- if l.place %}<em class="map-form"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</em>{% endif -%}
           </span>
           <span class="map-chips">
@@ -94,39 +107,55 @@ layout: default
     {%- if m.legend %}
     <section class="map-legend">
       <h2>{{ t.map_legend_h2 }}</h2>
-      <p class="map-legend-title"><span lang="{{ m.legend.lang | default: 'pl' }}">{{ m.legend.title.orig | default: m.legend.title.pl }}</span> - {% if lang == 'de' %}{{ m.legend.title.de }}{% else %}{{ m.legend.title.en }}{% endif %}</p>
-      <table class="legend-table">
-        <thead><tr><th scope="col"><span class="visually-hidden">{{ t.map_legend_h2 }}</span></th><th scope="col">{{ t.map_legend_pl }}</th><th scope="col">{{ t.map_legend_tr }}</th></tr></thead>
+      <div class="ml-tabs" role="tablist" aria-label="{{ t.map_langs }}">
+        <button type="button" class="ml-tab" data-ml="en" aria-pressed="{% if ml_default == 'en' %}true{% else %}false{% endif %}">{{ t.map_lang_en }}</button>
+        <button type="button" class="ml-tab" data-ml="{{ orig_lang }}" aria-pressed="{% if ml_default == orig_lang %}true{% else %}false{% endif %}">{% if orig_lang == 'ru' %}{{ t.map_tab_ru }}{% else %}{{ t.map_tab_pl }}{% endif %}</button>
+        <button type="button" class="ml-tab" data-ml="de" aria-pressed="{% if ml_default == 'de' %}true{% else %}false{% endif %}">{{ t.map_lang_de }}</button>
+      </div>
+      <p class="map-legend-title">
+        {%- for pane in panes %}
+        {%- if pane == orig_lang %}{% assign lt = m.legend.title.orig | default: m.legend.title[pane] %}{% else %}{% assign lt = m.legend.title[pane] %}{% endif %}
+        <span class="ml ml-{{ pane }}"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>{{ lt }}</span>
+        {%- endfor %}
+      </p>
+      {%- for pane in panes %}
+      <table class="legend-table ml ml-{{ pane }}"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>
+        {%- if pane != orig_lang %}
+        <thead><tr><th scope="col"><span class="visually-hidden">{{ t.map_legend_h2 }}</span></th><th scope="col">{% if pane == 'en' %}{{ t.map_lang_en }}{% else %}{{ t.map_lang_de }}{% endif %}</th></tr></thead>
+        {%- endif %}
         <tbody>
         {%- assign prev_grouped = false -%}
         {%- for row in m.legend.rows %}
           {%- assign solo = false -%}
           {%- if row.group and row.items.size == 1 and row.items[0].pl == nil and row.items[0].orig == nil %}{% assign solo = true %}{% endif -%}
+          {%- if pane == orig_lang %}{% assign gt = row.group.orig | default: row.group[pane] %}{% else %}{% assign gt = row.group[pane] %}{% endif %}
           {%- if row.group and solo %}
           {%- assign it = row.items[0] %}
+          {%- if pane == orig_lang %}{% assign itx = it.orig | default: it[pane] %}{% else %}{% assign itx = it[pane] %}{% endif %}
           <tr class="legend-group legend-solo">
             <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}{% if it.swatch.line2 %};--line2:{{ it.swatch.line2 }}{% endif %}"></span></td>
-            <th scope="row" colspan="2"><span lang="{{ m.legend.lang | default: 'pl' }}" class="legend-pl">{{ row.group.orig | default: row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th>
+            <th scope="row"><span class="legend-pl"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>{{ gt }}</span>{% if itx %} - {{ itx }}{% endif %}</th>
           </tr>
           {%- elsif row.group %}
-          <tr class="legend-group"><th scope="colgroup" colspan="3"><span lang="{{ m.legend.lang | default: 'pl' }}" class="legend-pl">{{ row.group.orig | default: row.group.pl }}</span> - {% if lang == 'de' %}{{ row.group.de }}{% else %}{{ row.group.en }}{% endif %}</th></tr>
+          <tr class="legend-group"><th scope="colgroup" colspan="2"><span class="legend-pl"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>{{ gt }}</span></th></tr>
           {%- elsif prev_grouped %}
-          <tr class="legend-gap"><td colspan="3"></td></tr>
+          <tr class="legend-gap"><td colspan="2"></td></tr>
           {%- endif %}
           {%- assign prev_grouped = false -%}
           {%- if row.group %}{% assign prev_grouped = true %}{% endif -%}
           {%- unless solo %}
           {%- for it in row.items %}
+          {%- if pane == orig_lang %}{% assign itx = it.orig | default: it[pane] %}{% else %}{% assign itx = it[pane] %}{% endif %}
           <tr>
             <td><span class="sw{% if it.swatch.pattern %} sw-{{ it.swatch.pattern }}{% endif %}" style="--fill:{{ it.swatch.fill }};--edge:{{ it.swatch.edge }};--line:{{ it.swatch.line }}{% if it.swatch.ink %};--ink:{{ it.swatch.ink }}{% endif %}{% if it.swatch.inner %};--inner:{{ it.swatch.inner }}{% endif %}{% if it.swatch.line2 %};--line2:{{ it.swatch.line2 }}{% endif %}"></span></td>
-            <td lang="{{ m.legend.lang | default: 'pl' }}" class="legend-pl">{{ it.orig | default: it.pl }}</td>
-            <td>{% if lang == 'de' %}{{ it.de }}{% else %}{{ it.en }}{% endif %}</td>
+            <td{% if pane == orig_lang %} lang="{{ pane }}"{% endif %} class="legend-pl">{{ itx }}</td>
           </tr>
           {%- endfor %}
           {%- endunless %}
         {%- endfor %}
         </tbody>
       </table>
+      {%- endfor %}
     </section>
     {%- endif %}
 
@@ -137,6 +166,19 @@ layout: default
     <div class="map-tools">
       <button type="button" class="vbtn map-rotbtn" id="map-rot"
               data-north="{{ t.map_north }}" data-drawn="{{ t.map_asdrawn }}">{{ t.map_north }}</button>
+      {%- if m.farms and m.farms.marks.size > 0 %}
+      <button type="button" class="vbtn" id="farm-layer" aria-pressed="true">{{ t.map_farms_layer }}</button>
+      {%- endif %}
+      {%- if m.farms and m.farms.polygons and m.farms.polygons.size > 0 %}
+      <button type="button" class="vbtn" id="plots-layer" aria-pressed="true">{{ t.map_plots_layer }}</button>
+      {%- endif %}
+      {%- if m.reds and m.reds.size > 0 %}
+      <button type="button" class="vbtn" id="reds-layer" aria-pressed="false">{{ t.map_reds_layer }}</button>
+      {%- if m.farms and m.farms.marks.size > 0 %}
+      <button type="button" class="vbtn" id="reds-linked" aria-pressed="false">{{ t.map_reds_hide_linked }}</button>
+      {%- endif %}
+      {%- endif %}
+
       {%- if m.warp %}
       <a class="map-overlay-link" href="{{ m.warp }}" rel="noopener">{{ t.map_over_osm }}</a>
       {%- endif %}
@@ -144,6 +186,46 @@ layout: default
     <p class="map-status" id="map-status" hidden></p>
   </div>
 </div>
+
+{%- comment -%}
+  The farmsteads of the liquidation (maps/<map>/farms.yml): the settlers'
+  table - the farm's number, the settler, the holding - with the plan's
+  marks as a layer of name labels on the map itself (the button above). A
+  row's Locate takes the map to the farm's mark; a mark's click opens the
+  row. The details link is the liquidation holding's own statement, where
+  the farm's land kinds and its neighbours read in full.
+{%- endcomment -%}
+{%- if m.farms %}
+<section class="map-farms" id="farmsteads">
+  <h2>{{ t.map_farms_h2 }}</h2>
+  <p class="map-farms-note">{{ t.map_farms_note }}</p>
+  <div class="farm-table-wrap">
+  <table class="farm-table">
+    <thead><tr>
+      <th scope="col" class="num">{{ t.map_farm_no }}</th>
+      <th scope="col">{{ t.map_farm_settler }}</th>
+      <th scope="col">{{ t.map_farm_norm }}</th>
+      <th scope="col">{{ t.map_farm_size }}</th>
+      <th scope="col"><span class="visually-hidden">{{ t.map_farms_h2 }}</span></th>
+    </tr></thead>
+    <tbody>
+    {%- for s in m.farms.rows %}
+    <tr id="farm-{{ s.n }}" data-farm="{{ s.n }}" class="{% unless s.mark %}farm-nomark{% endunless %}">
+      <td class="num">{{ s.n }}</td>
+      <td>{{ s.name }}{% if s.changed and s.name_1868 %} <span class="farm-old">({{ s.name_1868 }})</span>{% endif %}</td>
+      <td class="farm-norm">{% if s.name_norm %}{% if s.norm_conf == 'conjectural' %}<span class="farm-conj" title="{{ s.norm_note | escape }}">{{ s.name_norm }}*</span>{% else %}{{ s.name_norm }}{% endif %}{% endif %}</td>
+      <td>{{ s.total }}{% if s.morgen %} <span class="farm-old">{{ s.morgen }}&nbsp;M&nbsp;{{ s.rods }}&nbsp;r, 1868</span>{% endif %}</td>
+      <td class="farm-do">
+        {%- if s.mark %}<a class="map-chip" href="#farm-{{ s.n }}" data-farm="{{ s.n }}">{{ t.map_locate }}</a>{% endif %}
+        <a class="map-chip" href="{{ '/documents/' | relative_url }}{{ m.farms.source.unit }}/{{ m.farms.source.doc }}/" rel="noopener">{{ t.map_farm_details }}</a>
+      </td>
+    </tr>
+    {%- endfor %}
+    </tbody>
+  </table>
+  </div>
+</section>
+{%- endif %}
 
 {%- comment -%}
   The texts on the sheet, where the map has them carried (maps/<map>/texts.yml):
@@ -156,6 +238,11 @@ layout: default
 {%- if m.texts %}
 <section class="map-texts">
   <h2>{{ t.map_texts_h2 }}</h2>
+  <div class="ml-tabs" role="tablist" aria-label="{{ t.map_langs }}">
+    <button type="button" class="ml-tab" data-ml="en" aria-pressed="{% if ml_default == 'en' %}true{% else %}false{% endif %}">{{ t.map_lang_en }}</button>
+    <button type="button" class="ml-tab" data-ml="{{ orig_lang }}" aria-pressed="{% if ml_default == orig_lang %}true{% else %}false{% endif %}">{% if orig_lang == 'ru' %}{{ t.map_tab_ru }}{% else %}{{ t.map_tab_pl }}{% endif %}</button>
+    <button type="button" class="ml-tab" data-ml="de" aria-pressed="{% if ml_default == 'de' %}true{% else %}false{% endif %}">{{ t.map_lang_de }}</button>
+  </div>
   {%- for b in m.texts %}
   <div class="map-text-block" id="text-{{ b.id }}">
     <h3>{{ b.names[lang] | default: b.names.en }}</h3>
@@ -163,40 +250,39 @@ layout: default
     <p class="map-text-margin"><span class="map-text-label">{{ t.map_text_margin }}:</span> {{ b.margin[lang] | default: b.margin.en }}</p>
     {%- endif %}
     {%- for g in b.groups %}
-    <div class="map-text-pair">
-      <div class="map-text-ru" lang="ru">
+      <div class="map-text-lines ml ml-{{ orig_lang }}" lang="{{ orig_lang }}">
         {%- for line in g.lines %}<p>{{ line }}</p>{% endfor -%}
       </div>
-      {%- assign tr = g.translation[lang] | default: g.translation.en %}
-      <div class="map-text-tr">
-        {%- for line in tr %}<p>{{ line }}</p>{% endfor -%}
+      <div class="map-text-lines ml ml-en" lang="en">
+        {%- assign trl = g.translation.en %}{% for line in trl %}<p>{{ line }}</p>{% endfor -%}
       </div>
-    </div>
+      <div class="map-text-lines ml ml-de" lang="de">
+        {%- assign trl = g.translation.de | default: g.translation.en %}{% for line in trl %}<p>{{ line }}</p>{% endfor -%}
+      </div>
     {%- endfor %}
     {%- if b.heading_ru %}
-    <p class="map-text-heading" lang="ru">{{ b.heading_ru }}</p>
-    {%- assign tr = b.head[lang] | default: b.head.en %}
+    <p class="map-text-heading ml ml-{{ orig_lang }}" lang="{{ orig_lang }}">{{ b.heading_ru }}</p>
+    {%- for pane in panes %}
+    {%- assign hp = b.head[pane] | default: b.head.en %}
     {%- if b.boundary %}
-    <table class="map-text-table map-text-boundary">
+    <table class="map-text-table map-text-boundary ml ml-{{ pane }}"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>
       <thead><tr>
-        <th scope="col">{{ tr[0] }}</th>
-        <th scope="col">{{ tr[1] }}</th>
-        <th scope="col">{{ tr[2] }}</th>
-        <th scope="col">{{ tr[3] }}</th>
-        <th scope="col">{{ tr[4] }}</th>
+        {%- for h in hp %}<th scope="col">{{ h }}</th>{% endfor %}
       </tr></thead>
       <tbody>
       {%- for row in b.rows %}
         {%- if row.section %}
-        <tr class="text-section"><th scope="colgroup" colspan="5"><span lang="ru">{{ row.section.ru }}</span> - {{ row.section[lang] | default: row.section.en }}</th></tr>
+        {%- if pane == orig_lang %}{% assign st = row.section.ru | default: row.section[pane] %}{% else %}{% assign st = row.section[pane] %}{% endif %}
+        <tr class="text-section"><th scope="colgroup" colspan="5">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ st }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
         {%- elsif row.group %}
-        <tr class="text-group"><th scope="colgroup" colspan="5"><span lang="ru">{{ row.group.ru }}</span> - {{ row.group[lang] | default: row.group.en }}</th></tr>
+        {%- if pane == orig_lang %}{% assign gt = row.group.ru | default: row.group[pane] %}{% else %}{% assign gt = row.group[pane] %}{% endif %}
+        <tr class="text-group"><th scope="colgroup" colspan="5">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ gt }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
         {%- else %}
         <tr>
           <td class="num">{{ row.n }}</td>
-          <td><span lang="ru">{{ row.from }}</span></td>
-          <td><span lang="ru">{{ row.to }}</span></td>
-          <td><span lang="ru">{{ row.ru }}</span><span class="text-tr-line">{{ row[lang] | default: row.en }}</span></td>
+          <td><span lang="{{ orig_lang }}">{{ row.from }}</span></td>
+          <td><span lang="{{ orig_lang }}">{{ row.to }}</span></td>
+          <td>{% if pane == orig_lang %}{{ row.ru }}{% else %}{{ row[pane] | default: row.en }}{% endif %}</td>
           <td class="map-text-place">{{ row.place }}</td>
         </tr>
         {%- endif %}
@@ -204,23 +290,23 @@ layout: default
       </tbody>
     </table>
     {%- else %}
-    <table class="map-text-table">
+    <table class="map-text-table ml ml-{{ pane }}">
       <thead><tr>
-        <th scope="col"><span lang="ru">{{ b.head.ru[0] }}</span> / {{ tr[0] }}</th>
-        <th scope="col"><span lang="ru">{{ b.head.ru[1] }}</span> / {{ tr[1] }}</th>
-        <th scope="col"><span lang="ru">{{ b.head.ru[2] }}</span> / {{ tr[2] }}</th>
+        {%- for h in hp %}<th scope="col">{% if pane == orig_lang and forloop.first %}<span lang="{{ orig_lang }}">{{ h }}</span>{% else %}{{ h }}{% endif %}</th>{% endfor %}
       </tr></thead>
       <tbody>
       {%- for row in b.rows %}
         {%- if row.group %}
-        <tr class="text-group"><th scope="colgroup" colspan="3"><span lang="ru">{{ row.group.ru }}</span> - {{ row.group[lang] | default: row.group.en }}</th></tr>
+        {%- if pane == orig_lang %}{% assign gt = row.group.ru | default: row.group[pane] %}{% else %}{% assign gt = row.group[pane] %}{% endif %}
+        <tr class="text-group"><th scope="colgroup" colspan="3">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ gt }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
         {%- else %}
         {%- assign name = row.sum | default: row.total | default: row %}
+        {%- if pane == orig_lang %}{% assign ntx = name.ru | default: name[pane] %}{% else %}{% assign ntx = name[pane] %}{% endif %}
         {%- assign cls = '' %}
         {%- if row.sum %}{% assign cls = 'text-sum' %}{% endif -%}
         {%- if row.total %}{% assign cls = 'text-total' %}{% endif -%}
         <tr{% if cls %} class="{{ cls }}"{% endif %}>
-          <td><span lang="ru">{{ name.ru }}</span> - {{ name[lang] | default: name.en }}</td>
+          <td>{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ ntx }}{% if pane == orig_lang %}</span>{% endif %}</td>
           <td class="num">{{ name.des }}</td>
           <td class="num">{{ name.saz }}</td>
         </tr>
@@ -229,9 +315,10 @@ layout: default
       </tbody>
     </table>
     {%- endif %}
+    {%- endfor %}
+    {%- endif %}
     {%- if b.note %}
     <p class="map-text-note">{{ b.note[lang] | default: b.note.en }}</p>
-    {%- endif %}
     {%- endif %}
   </div>
   {%- endfor %}
@@ -241,6 +328,23 @@ layout: default
 <script id="map-data" type="application/json">{{ m | jsonify }}</script>
 <script src="{{ '/assets/maps/openseadragon.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/maps/map-viewer.js' | relative_url }}"></script>
+<script>
+/* The tabs of the legend, the texts and the tables: one choice for the
+   whole page, the buttons in both sections setting it together. */
+(function () {
+  'use strict';
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('.ml-tab'));
+  if (!tabs.length) return;
+  tabs.forEach(function (b) {
+    b.addEventListener('click', function () {
+      document.documentElement.setAttribute('data-ml', b.getAttribute('data-ml'));
+      tabs.forEach(function (x) {
+        x.setAttribute('aria-pressed', String(x === b));
+      });
+    });
+  });
+})();
+</script>
 
 <style>
 .map-columns { display: grid; grid-template-columns: minmax(19rem, 23rem) minmax(0, 1fr); gap: 2rem; align-items: start; }
@@ -275,7 +379,7 @@ layout: default
 .map-legend-title { margin: 0 0 .5rem; font-size: .92rem; }
 .legend-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .legend-table th, .legend-table td { padding: .28rem .4rem; text-align: left; vertical-align: middle; }
-.legend-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--ink-faint); border-bottom: 1px solid var(--rule); }
+.legend-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--thead-ink); border-bottom: 1px solid var(--rule); }
 .legend-table thead th:first-child { width: 3.8rem; }
 .legend-group th { padding-top: .8rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
 .legend-solo td, .legend-solo th { padding-top: .8rem; border-bottom: 1px solid var(--rule); }
@@ -322,7 +426,7 @@ layout: default
 .map-text-pair p { margin: 0 0 .45rem; }
 .map-text-table { display: block; width: 100%; max-width: min(34rem, 100%); overflow-x: auto; border-collapse: collapse; font-size: .9rem; margin: .6rem 0 .5rem; }
 .map-text-table th, .map-text-table td { padding: .28rem .4rem; text-align: left; vertical-align: middle; }
-.map-text-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--ink-faint); border-bottom: 1px solid var(--rule); }
+.map-text-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--thead-ink); border-bottom: 1px solid var(--rule); }
 .map-text-table .text-group th { padding-top: .8rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
 .map-text-table .num { font-variant-numeric: tabular-nums; text-align: right; }
 .map-text-table .text-sum td, .map-text-table .text-total td { font-weight: 600; border-top: 1px solid var(--rule); }
@@ -335,6 +439,57 @@ layout: default
 .text-tr-line { display: block; font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); }
 .text-section th { padding-top: .9rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
 .map-text-place { font-family: var(--sans); font-size: .82rem; }
+/* the tabs of the legend, the texts and the tables: one language at a
+   time, the choice one for the whole page (html[data-ml], the buttons in
+   both sections set it); the page's own language is the default */
+.ml-tabs { display: flex; flex-wrap: wrap; gap: .35rem; margin: 0 0 .7rem; }
+.ml-tab { font-family: var(--sans); font-size: .78rem; line-height: 1.4; padding: .28rem .8rem; border: 1px solid var(--rule); border-radius: 999px; background: transparent; color: var(--ink-soft); cursor: pointer; }
+.ml-tab:hover { border-color: var(--accent); color: var(--accent); }
+.ml-tab[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+html[data-ml="en"] .ml-ru, html[data-ml="en"] .ml-de,
+html[data-ml="ru"] .ml-en, html[data-ml="ru"] .ml-de,
+html[data-ml="pl"] .ml-en, html[data-ml="pl"] .ml-de,
+html[data-ml="de"] .ml-en, html[data-ml="de"] .ml-ru,
+html[data-ml="de"] .ml-pl { display: none; }
+.map-text-lines { max-width: 34rem; }
+.map-text-lines p { margin: 0 0 .45rem; }
+/* the farmsteads: the settlers' table, and the layer of name labels on
+   the map itself (the button in the tools bar) */
+.map-farms { margin: 2.4rem 0 0; max-width: 60rem; }
+.map-farms h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
+.map-farms-note { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); margin: 0 0 .6rem; }
+.farm-table-wrap { max-width: 100%; overflow-x: auto; }
+.farm-table { border-collapse: collapse; font-size: .9rem; width: 100%; font-variant-numeric: tabular-nums; }
+.farm-table th, .farm-table td { padding: .28rem .5rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); }
+.farm-table .num { text-align: right; white-space: nowrap; }
+.farm-table .farm-old { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
+.farm-table tr.is-on { background: rgba(180, 60, 50, .08); }
+.farm-nomark td.num { color: var(--ink-faint); }
+.farm-do { white-space: nowrap; }
+.farm-tag { font-family: var(--sans); font-size: 11px; line-height: 1.25; padding: 2px 8px; background: rgba(122, 59, 46, .92); color: #fff; border-radius: 10px; cursor: pointer; white-space: nowrap; box-shadow: 0 1px 3px rgba(0, 0, 0, .3); }
+.farm-tag:hover, .farm-tag.is-on { background: #4d241b; }
+.farm-tag:focus-visible { outline: 2px solid #fff; outline-offset: 1px; }
+#farm-layer[aria-pressed="true"], #plots-layer[aria-pressed="true"], #reds-layer[aria-pressed="true"], #reds-linked[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+/* A hidden overlay: a class with !important, because the viewer's own
+   drawHTML writes style.display="block" on every redraw - an inline none
+   did not survive the first zoom, and the hidden labels came back. */
+.map-tag.gone, .farm-tag.gone, .red-tag.gone { display: none !important; }
+/* the red numbers, the statement's row numbers on each parcel: a small
+   grey pill - the editor's ruling (2026-11-05): they are the plan's own
+   finding aids, not highlights, and every one wears the same grey, the
+   uncertain readings marked by their own [?] and tooltip, not by colour */
+.red-tag { font-family: var(--sans); font-size: 10px; line-height: 1.2; padding: 1px 5px; background: rgba(96, 96, 100, .88); color: #fff; border-radius: 8px; white-space: nowrap; box-shadow: 0 1px 2px rgba(0, 0, 0, .25); pointer-events: auto; }
+.red-tag.unsure { background: rgba(96, 96, 100, .88); }
+/* the farm plots: the editor's outlines of each owner's land, one SVG
+   overlay scaled to the whole mosaic - a quiet fill, a line that keeps
+   its screen width at every zoom (vector-effect), and a native tooltip */
+.map-plots-svg { position: absolute; inset: 0; overflow: visible; }
+.map-plots-svg polygon.plot { fill: rgba(122, 59, 46, .07); stroke: rgba(122, 59, 46, .55); stroke-width: 1.5px; vector-effect: non-scaling-stroke; }
+.map-plots-svg polygon.plot:hover { fill: rgba(122, 59, 46, .16); }
+/* the table's proper-spelling column: the conjectural rows carry an
+   asterisk with the note as a tooltip */
+.farm-norm { font-weight: 600; }
+.farm-conj { font-weight: 400; cursor: help; }
 @media (max-width: 48rem) {
   .map-text-pair { grid-template-columns: 1fr; }
 }

@@ -4614,3 +4614,79 @@ footer on every page. Changed, in both languages:
   agents had introduced (app536047) and it was set to the spaced en dash; verify_site
   ALL CHECKS PASSED - 631 documents character-exact, 61,579 internal links, 302
   hand-made links and 8 cross-holding connections checked on both sides.
+## 2026-11-06: the Pełzucki 1896 map finished on the site - the farm labels, the field numbers, the farm plots, and the settlers' proper names
+
+- The labelling sessions folded into the edition data (scratch/map4456/
+  build_farm_labels.py -> pipeline/maps/import_farms.py): maps/pelzucki1896/
+  farms.yml now carries 101 labels over 83 of the 97 rows (28 labels beyond
+  one per farm - multi-farmstead holdings; the 14 still without a label are
+  12, 25, 28, 30, 43, 48, 64, 79, 85, 88, 96 and the common land, the
+  headman's plot and the roads - 94, 95, 97),
+  maps/pelzucki1896/reds.yml the 407 field numbers (306 corrections or
+  moves, 8 additions over the OCR-only pass, none deleted), and
+  maps/pelzucki1896/polygons.yml the 44 farm-plot polygons over 29 farms
+  (the drawings of 2026-11-02, with the area calibration, ~0.4 m/px).
+- The map page (site/_layouts/map.html, site/assets/maps/map-viewer.js)
+  grew the layers the editor asked for (2026-11-05), each its own toggle:
+  the farm names, on by default (pills № n · name, a click opens the
+  farm's table row); the farm plots, on by default (the polygons as one SVG
+  overlay whose viewBox is the mosaic's own pixel box, a quiet fill, a
+  stroke that keeps its screen width at every zoom, a per-polygon tooltip);
+  and the field numbers, off by default.
+- The field numbers' pills are grey - the editor's ruling (2026-11-05):
+  they are the plan's own finding aids, not highlights, so every one wears
+  the same grey on both pages, the unsure readings marked by their [?] and
+  a tooltip, never by colour.
+- The settlers' proper names (docs/NAME_NORMALISATION_PLAN.md; the editor's
+  rulings of 2026-11-05: Gibel not Göbel, Bitner not Büttner, Schönfisch
+  not Scheinfisch): every row of farms.yml carries name_norm, name_lang,
+  norm_conf and norm_note beside the documentary readings, which stand
+  untouched; 62 rows firm, 35 conjectural. The map's pills show the proper
+  spelling where it is firm; the settlers' table gains a "Proper spelling"
+  column (Richtige Schreibweise), the conjectural rows marked with an
+  asterisk and their note as a tooltip. The institutional rows renamed as
+  ruled - Village school / Dorfschule, Common cemetery / Gemeindefriedhof,
+  Plot of common land / Allmende, The village headman's plot /
+  Schulzengrundstück (the German rides along and the pills speak the
+  page's language) - and row 97 reads Roads (Wege), not "Under roads".
+- Document 6, the liquidation register (apl399806603-006), shows the proper
+  names in its translation's name column: the Russian transliterations
+  (Konchinskii Iakov) are gone from the English table, the conjectural
+  brackets ride along ("[uncertain: Śliwiński] Gottlieb" keeps its
+  doubt), the institutions keep their English labels, and the register's 96
+  entries all agree with farms.yml (row 97 Roads belongs to the plan, not
+  to the register). The diplomatic and reading views keep the manuscript's
+  Cyrillic and its transliteration untouched.
+  scratch/map4456/apply_doc6_names.py applied it to the published
+  translation and the intake alike, and a check proved only the name column
+  changed in either file.
+- The save server (scratch/map4456/save_server.py) now sends
+  Cache-Control: no-store on its state, version and save responses: the
+  browser heuristically caches a Last-Modified answer, a reload could then
+  serve the pre-save state, and a window could save against a version the
+  file had long outgrown. Found by the test battery; the editor's own
+  server carried the same latent bug and was restarted with the fix.
+- The battery stands at 14 suites / 175 checks, all passing, against a
+  sandbox state dir (test_server.py, port 8780, --state-dir test-state),
+  the editor's working files hash-proven untouched before and after. The
+  suites updated to the imported dataset (the unmarked-farm suites remove
+  a farm's label as setup; the red-edit suite resolves its pill by its
+  record's own position, not by a reading another parcel repeats; the
+  counts read the imported 101).
+- Site-wide, a table's column heads stand on a tinted band (--thead in
+  site/assets/style.css), the ledger tables' caption on the same band. The
+  maps' card thumbnails (pipeline/build/make_thumbs.py) are fetched from
+  the tiles' info.json's own smallest whole-map level: the fixed 1/32
+  request 404ed for Pełzucki 1896 (679 px wide there, past one tile), which
+  is why the map's card went without its picture.
+- maps/pelzucki1896/texts.yml: the boundary walk's table gained its Russian
+  column heads for the as-drawn view, the explication's German head reads
+  Des./Saz. as its English does, and the boundary and explication notes are
+  trimmed to what a reader needs (the summation argument left to the
+  pipeline's own check).
+- Built clean and checked: jekyll build, verify_site ALL CHECKS PASSED
+  (631 documents character-exact, 61,775 internal links, no external
+  dependencies), and the built site driven in a real browser (26 checks:
+  the three layers' defaults, the 44 polygons, the grey pills, the proper
+  spellings on both language pages, the proper-spelling column, document
+  6's translation table and its untouched Cyrillic).

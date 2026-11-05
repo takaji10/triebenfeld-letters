@@ -3166,3 +3166,48 @@ Lessons:
   design); what travels is the prompt doc, the fixes and these notes. The
   selection sheet's choices live in the editor's browser and the exported
   JSON, not in the repository.
+
+## The Pełzucki 1896 map: labels, plots and proper names on the site (2026-11-06)
+
+- **A state endpoint needs `Cache-Control: no-store`, or the browser edits
+  history.** The save server's `/__save/state` answered with `Last-Modified`
+  and no cache header; the browser heuristically caches such a response for
+  a tenth of the file's age, so a reload after a save could hand the page
+  the pre-save state and a window could save against a version the file had
+  outgrown. The test battery failed on exactly this, erratically; the fix
+  is three headers on the state, version and save answers of
+  scratch/map4456/save_server.py (the editor's own server carried the same
+  latent bug). Any JSON endpoint whose answer must track a file belongs on
+  this list.
+- **A test suite that hardcodes the dataset's shape breaks silently when
+  the data moves.** Nine suites assumed the pre-import world - the baked 73
+  labels, farms 12/20/78 unmarked, `83` the sample unsure red - and after
+  the editor's import put labels on 83 farms, they failed with symptoms
+  pointing everywhere but the cause. Counts should be read from the data or
+  asserted once at the top; a suite that needs an unmarked farm must create
+  one (remove the label) rather than assume a row stays unmarked; a suite
+  that clicks a pill by its reading must resolve the pill by its record's
+  own position, because a row number repeats on every parcel of its farm.
+- **A page's status wording is part of its contract with its tests.** The
+  labelling page says "Restored" whenever ANY working state file has
+  content - even the reds' alone. A suite waiting for "Loaded" must start
+  from an empty sandbox, not from whatever the previous suite left; the
+  100-label state one suite beached cost the next an hour of looking at the
+  wrong end of the page.
+- **Two processes can listen on one Windows port**, and the requests then
+  split between an old build and a new one: port 8791 held two servers from
+  October, serving the previous site build, while the fresh build answered
+  on the same port number elsewhere. `Get-NetTCPConnection -State Listen`
+  before believing which build a local port serves; kill by pid, not by
+  "the port is taken".
+- **Edit a generated YAML file with its own writer's parameters.** The
+  published translations are written by `yaml.safe_dump(..., width=100)`,
+  which folds long scalars across lines - a surgical regex over the raw
+  text fights the folding and loses. Loading, changing the one field and
+  re-dumping with the same call reproduces the canonical shape; the check
+  that matters is parsed-data-equality against the expectation, not a
+  diff of the raw text (folding alone moves hundreds of lines).
+- The whole integration pass is recorded in docs/CHANGELOG.md
+  (2026-11-06): the imported labels and field numbers, the plots layer, the
+  grey ruling, the proper names on the map and in document 6's translation,
+  the 14-suite battery and the real-browser check of the built site.

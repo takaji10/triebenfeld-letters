@@ -45,6 +45,16 @@ site/vendor/
 # pages with their build scripts - scratch in name only, the session's raw
 # material for the map's number system.
 !/scratch/map4456/
+# the labelling page's transient working state (the autosave files and the
+# server's dated snapshots): real work in progress, but the tracked target
+# is maps/pelzucki1896/farms.yml and reds.yml, written by import_farms.py
+/scratch/map4456/farm_labels_latest.json
+/scratch/map4456/red_labels_latest.json
+/scratch/map4456/farm_labels_latest.meta.json
+/scratch/map4456/red_labels_latest.meta.json
+/scratch/map4456/history/
+/scratch/map4456/history-test/
+/scratch/map4456/test-state/
 /*.txt
 /*.csv
 /*.json

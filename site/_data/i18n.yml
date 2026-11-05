@@ -162,6 +162,27 @@ en:
   map_text_note: Note
   map_boundary_h2: The boundary walk
   map_boundary_skipped: skipped (drawn in the sub-map)
+  map_langs: Language
+  map_lang_en: English
+  map_lang_de: German
+  map_tab_ru: Russian
+  map_tab_pl: Polish
+  map_farms_h2: The farmsteads
+  map_farms_note: >-
+    The settlers of the liquidation and their holdings, under the farm's
+    number as the plan carries it. Locate takes the map to the farm's mark;
+    Full details opens the liquidation holding's statement, where the
+    farm's land reads kind by kind. A farmstead without a Locate chip has
+    no mark on the plan yet.
+  map_farm_no: No.
+  map_farm_settler: Settler
+  map_farm_norm: Proper spelling
+  map_plots_layer: Farm plots
+  map_farm_size: Holding
+  map_farm_details: Full details
+  map_farms_layer: Farmsteads
+  map_reds_layer: Field numbers
+  map_reds_hide_linked: Hide linked
   place_maps_h2: On the maps
   place_on_maps: on
   nav_archival: Archival order
@@ -563,6 +584,28 @@ de:
   map_text_note: Anmerkung
   map_boundary_h2: Der Grenzverlauf
   map_boundary_skipped: übersprungen (in der Nebenkarte gezeichnet)
+  map_langs: Sprache
+  map_lang_en: Englisch
+  map_lang_de: Deutsch
+  map_tab_ru: Russisch
+  map_tab_pl: Polnisch
+  map_farms_h2: Die Gehöfte
+  map_farms_note: >-
+    Die Siedler der Liquidation und ihre Besitze, unter der Nummer des
+    Gehöfts, wie der Plan sie trägt. Zeigen führt die Karte
+    zur Markierung des Gehöfts; Vollständige Angaben öffnet
+    das Verzeichnis des Liquidationsbestands, auf dem das Land des
+    Gehöfts Art für Art zu lesen ist. Ein Gehöft ohne
+    Zeigen-Marke hat noch keine Markierung auf dem Plan.
+  map_farm_no: Nr.
+  map_farm_settler: Siedler
+  map_farm_norm: Richtige Schreibweise
+  map_plots_layer: Grundstücke
+  map_farm_size: Besitz
+  map_farm_details: Vollständige Angaben
+  map_farms_layer: Gehöfte
+  map_reds_layer: Flurnummern
+  map_reds_hide_linked: Verknüpfte ausblenden
   place_maps_h2: Auf den Karten
   place_on_maps: auf
   nav_archival: Archivalische Ordnung

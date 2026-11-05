@@ -31,6 +31,7 @@ kozlowski1861:
     role: place
     place: czerwonka
     place_name: Czerwonka
+    name: null
     form: Czerwonka
     shows: folwark
     shows_en: Folwark
@@ -53,6 +54,7 @@ kozlowski1861:
     role: place
     place: dziadolina
     place_name: Dziadolina
+    name: null
     form: Dziadulina
     shows: forest
     shows_en: Forest
@@ -75,6 +77,7 @@ kozlowski1861:
     role: place
     place: garbin
     place_name: Garbin
+    name: null
     form: Garbin
     shows: field
     shows_en: Field
@@ -97,6 +100,7 @@ kozlowski1861:
     role: place
     place: laski
     place_name: Laski
+    name: null
     form: Laski
     shows: folwark
     shows_en: Folwark
@@ -119,6 +123,7 @@ kozlowski1861:
     role: place
     place: lazinskie-oledry
     place_name: Łazińskie Olędry
+    name: null
     form: Łazinskie [Kolonie]
     shows: oleder-settlement
     shows_en: Olęder settlement
@@ -141,6 +146,7 @@ kozlowski1861:
     role: place
     place: maradz
     place_name: Maradz
+    name: null
     form: Maradz
     shows: forest
     shows_en: Forest
@@ -163,6 +169,7 @@ kozlowski1861:
     role: place
     place: michalinow-oledry
     place_name: Michalinów Trąbczyński
+    name: null
     form: '[Kolonia]'
     shows: oleder-settlement
     shows_en: Olęder settlement
@@ -185,6 +192,7 @@ kozlowski1861:
     role: place
     place: noga
     place_name: Noga
+    name: null
     form: Noga
     shows: forest
     shows_en: Forest
@@ -207,6 +215,7 @@ kozlowski1861:
     role: place
     place: przycierz
     place_name: Przycierz
+    name: null
     form: Przycierz
     shows: folwark
     shows_en: Folwark
@@ -229,6 +238,7 @@ kozlowski1861:
     role: place
     place: trzcianne
     place_name: Trzcianne
+    name: null
     form: Trzcianne
     shows: field
     shows_en: Field
@@ -251,6 +261,7 @@ kozlowski1861:
     role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
+    name: null
     form: Wielki-Bór Obręb
     shows: forest
     shows_en: Forest
@@ -273,6 +284,7 @@ kozlowski1861:
     role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
+    name: null
     form: Włodzimirow Obręb
     shows: forest
     shows_en: Forest
@@ -295,6 +307,7 @@ kozlowski1861:
     role: place
     place: zwierzyniec
     place_name: Zwierzyniec
+    name: null
     form: Zwierzyniec
     shows: folwark
     shows_en: Folwark
@@ -317,6 +330,7 @@ kozlowski1861:
     role: place
     place: szetlewek
     place_name: Szetlewek
+    name: null
     form: Szetlewek
     shows: village
     shows_en: Village
@@ -339,6 +353,7 @@ kozlowski1861:
     role: place
     place: stanislawow
     place_name: Stanisławów
+    name: null
     form: Stanisławów
     shows: folwark
     shows_en: Folwark
@@ -361,6 +376,7 @@ kozlowski1861:
     role: place
     place: porabki
     place_name: Porąbki
+    name: null
     form: Porąbki
     shows: village
     shows_en: Village
@@ -383,6 +399,7 @@ kozlowski1861:
     role: place
     place: nowawies-trabczyn
     place_name: Nowa Wieś
+    name: null
     form: Nowa Wieś
     shows: village
     shows_en: Village
@@ -405,6 +422,7 @@ kozlowski1861:
     role: place
     place: osiny
     place_name: Osiny
+    name: null
     form: Osiny
     shows: village
     shows_en: Village
@@ -427,6 +445,7 @@ kozlowski1861:
     role: place
     place: przybyslaw
     place_name: Przybysław
+    name: null
     form: Przybysław
     shows: folwark
     shows_en: Folwark
@@ -449,6 +468,7 @@ kozlowski1861:
     role: place
     place: lazy-trabczyn
     place_name: Łazy
+    name: null
     form: Łazy
     shows: village
     shows_en: Village
@@ -471,6 +491,7 @@ kozlowski1861:
     role: place
     place: trabczyn
     place_name: Trąbczyn
+    name: null
     form: Trąbczyn
     shows: village
     shows_en: Village
@@ -493,6 +514,7 @@ kozlowski1861:
     role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
+    name: null
     form: Osiny Okręg
     shows: forest
     shows_en: Forest
@@ -515,6 +537,7 @@ kozlowski1861:
     role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
+    name: null
     form: Grabina Okręg
     shows: forest
     shows_en: Forest
@@ -537,6 +560,7 @@ kozlowski1861:
     role: place
     place: huta-trabczynska
     place_name: Huta Trąbczyńska
+    name: null
     form: Huta
     shows: oleder-settlement
     shows_en: Olęder settlement
@@ -559,6 +583,7 @@ kozlowski1861:
     role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
+    name: null
     form: Studzienka Okręg
     shows: forest
     shows_en: Forest
@@ -581,6 +606,7 @@ kozlowski1861:
     role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
+    name: null
     form: Wypalanki Okręg
     shows: forest
     shows_en: Forest
@@ -603,6 +629,7 @@ kozlowski1861:
     role: place
     place: wlodzimirow
     place_name: Włodzimirów
+    name: null
     form: Włodzimirów
     shows: folwark
     shows_en: Folwark
@@ -625,6 +652,7 @@ kozlowski1861:
     role: place
     place: wielki-bor-obreb
     place_name: Wielki-Bór Obręb
+    name: null
     form: Noga Okręg
     shows: forest
     shows_en: Forest
@@ -647,6 +675,7 @@ kozlowski1861:
     role: place
     place: wlodzimirow-obreb
     place_name: Włodzimirow Obręb
+    name: null
     form: Garbinck Okręg
     shows: forest
     shows_en: Forest
@@ -669,6 +698,7 @@ kozlowski1861:
     role: place
     place: mariantow
     place_name: Mariantów
+    name: null
     form: Maryantów
     shows: village
     shows_en: Village
@@ -691,6 +721,7 @@ kozlowski1861:
     role: place
     place: grabina
     place_name: Grabina
+    name: null
     form: Grabina
     shows: unsure
     shows_en: Unsure
@@ -858,6 +889,7 @@ kozlowski1861:
           line: '#979783'
           pattern: wet
           ink: '#8499ae'
+  orig_lang: pl
 lukom1766:
   slug: lukom1766
   cited_as: Łukom 1766
@@ -886,6 +918,7 @@ lukom1766:
     role: place
     place: budy
     place_name: Budy
+    name: null
     form: Budy do Huty
     shows: village
     shows_en: Village
@@ -908,6 +941,7 @@ lukom1766:
     role: place
     place: gradzyn
     place_name: Grądzeń
+    name: null
     form: Grązien
     shows: village
     shows_en: Village
@@ -930,6 +964,7 @@ lukom1766:
     role: place
     place: huta-lukomska
     place_name: Huta Łukomska
+    name: null
     form: Huta
     shows: village
     shows_en: Village
@@ -952,6 +987,7 @@ lukom1766:
     role: place
     place: imielno
     place_name: Imielno
+    name: null
     form: Dezerta Jemielno
     shows: other
     shows_en: Other
@@ -974,6 +1010,7 @@ lukom1766:
     role: place
     place: lomow
     place_name: Łomów
+    name: null
     form: Lomaw
     shows: village
     shows_en: Village
@@ -996,6 +1033,7 @@ lukom1766:
     role: place
     place: lukom
     place_name: Łukom
+    name: null
     form: Lukom
     shows: village
     shows_en: Village
@@ -1018,6 +1056,7 @@ lukom1766:
     role: place
     place: rosciszewo
     place_name: Rosciszewo
+    name: null
     form: Rosciszew
     shows: folwark
     shows_en: Folwark
@@ -1040,6 +1079,7 @@ lukom1766:
     role: place
     place: stawisko
     place_name: Stawisko
+    name: null
     form: Brod Kaliski
     shows: road
     shows_en: Road
@@ -1062,6 +1102,7 @@ lukom1766:
     role: place
     place: studzianka
     place_name: Studzianka
+    name: null
     form: Studzienka
     shows: village
     shows_en: Village
@@ -1084,6 +1125,7 @@ lukom1766:
     role: place
     place: myszakow
     place_name: Myszaków
+    name: null
     form: Myszaków
     shows: village
     shows_en: Village
@@ -1106,6 +1148,7 @@ lukom1766:
     role: place
     place: null
     place_name: null
+    name: Tres mansi Conventûs Landensis
     form: Tres mansi Conventûs Landensis
     shows: field
     shows_en: Field
@@ -1132,6 +1175,7 @@ lukom1766:
     to: null
     n: null
     skipped: false
+  orig_lang: pl
 pelzucki1896:
   slug: pelzucki1896
   cited_as: Pełzucki 1896
@@ -1163,6 +1207,7 @@ pelzucki1896:
     role: place
     place: glinianki
     place_name: Glinianki
+    name: null
     form: Glinianki
     shows: village
     shows_en: Village
@@ -1185,6 +1230,7 @@ pelzucki1896:
     role: place
     place: dziadolina
     place_name: Dziadolina
+    name: null
     form: Dziadolina
     shows: forest
     shows_en: Forest
@@ -1207,6 +1253,7 @@ pelzucki1896:
     role: place
     place: studzianka
     place_name: Studzianka
+    name: null
     form: Studzianka
     shows: village
     shows_en: Village
@@ -1229,6 +1276,7 @@ pelzucki1896:
     role: place
     place: null
     place_name: null
+    name: Wypalanki
     form: Выпалѣнки
     shows: forest
     shows_en: Forest
@@ -1251,6 +1299,7 @@ pelzucki1896:
     role: place
     place: trabczynskie-nowe-oledry
     place_name: Trąbczyńskie Nowe Olędry
+    name: null
     form: Новые Голендры
     shows: oleder-settlement
     shows_en: Olęder settlement
@@ -1273,6 +1322,7 @@ pelzucki1896:
     role: place
     place: noga
     place_name: Noga
+    name: null
     form: Noga
     shows: forest
     shows_en: Forest
@@ -1295,6 +1345,7 @@ pelzucki1896:
     role: place
     place: grabina
     place_name: Grabina
+    name: null
     form: Grabina
     shows: village
     shows_en: Village
@@ -1396,6 +1447,7 @@ pelzucki1896:
           fill: '#b0978a'
           edge: '#968075'
           line: '#6d5e56'
+  orig_lang: ru
   texts:
   - id: cartouche
     names:
@@ -1534,6 +1586,12 @@ pelzucki1896:
     boundary: true
     heading_ru: Описаніе смежныхъ земель
     head:
+      ru:
+      - №
+      - Отъ
+      - До
+      - Описаніе
+      - Мѣсто
       en:
       - No.
       - From
@@ -1707,25 +1765,6 @@ pelzucki1896:
       en: Lands of the peasants of the village of Huta
       de: Ländereien der Bauern des Dorfes Huta
       place: Huta (Хута)
-    note:
-      en: The stamped capitals (А–У) are the boundary points of the plan, two columns of them at the left
-        of the list; each row runs from one point to the next around the perimeter, and the original writes
-        «отъ» (from) as a ditto mark at the head of each line. Rows 1 to 15 run from one letter to the
-        next (А–Б, Б–В … О–П); rows 16 to 18 are П–А, Р–Р and С–С (the editor's ruling), where the second
-        letter repeats the first or breaks the sequence; rows 19 and 20 close the loop (Т→У, У→Т). The
-        spellings are the Russian renderings of the Polish names (Тромбчинъ = Trąbczyn, the nasal ą written
-        ом); the Polish forms are confirmed by the editor. Фольварокъ is a manor farm (folwark), коренная
-        усадьба the principal homestead, вырубленный лѣсъ felled forest, дополнительный надѣлъ the additional
-        allotment (as in the explication).
-      de: Die gestempelten Großbuchstaben (А–У) sind die Grenzpunkte des Plans, in zwei Spalten links
-        neben der Liste; jede Zeile läuft von einem Punkt zum nächsten entlang der Grenze, und die Vorlage
-        schreibt «отъ» (von) als Wiederholungszeichen am Kopf jeder Zeile. Die Zeilen 1 bis 15 laufen
-        von einem Buchstaben zum nächsten (А–Б, Б–В … О–П); die Zeilen 16 bis 18 sind П–А, Р–Р und С–С
-        (Festlegung des Herausgebers), wo der zweite Buchstabe den ersten wiederholt oder die Reihe bricht;
-        die Zeilen 19 und 20 schließen den Kreis (Т→У, У→Т). Die Schreibungen sind die russischen Wiedergaben
-        der polnischen Namen (Тромбчинъ = Trąbczyn, das nasalę als om geschrieben); die polnischen Formen
-        hat der Herausgeber bestätigt. Фольварокъ ist ein Vorwerk (folwark), коренная усадьба der Haupthof,
-        вырубленный лѣсъ Kahlschlagwald, дополнительный надѣлъ der zusätzliche Anteil (wie in der Explication).
   - id: explication
     names:
       en: The explication (the land-area table)
@@ -1742,8 +1781,8 @@ pelzucki1896:
       - Saz.
       de:
       - Kategorie
-      - Дес.
-      - Саж.
+      - Des.
+      - Saz.
     rows:
     - group:
         ru: Основнаго надѣла
@@ -1793,11 +1832,4961 @@ pelzucki1896:
         saz: '1272'
     note:
       en: 'Дес. (десятинъ) is desyatinas, Саж. (квадратныхъ саженъ) square sazhens: one desyatina is 2400
-        square sazhens, about 1.09 hectares, and one square sazhen about 4.55 m². The figures sum correctly
-        (870 + 197 = 1067 desyatinas and 1454 + 2218 = 3672 sazhens = 1 desyatina 1272 sazhens), which
-        supports the readings of the digits. The dashes after Итого and Всего in the original are filler
-        strokes.'
+        square sazhens, about 1.09 hectares, and one square sazhen about 4.55 m².'
       de: 'Дес. (десятинъ) heißt Desjatinen, Саж. (квадратныхъ саженъ) Quadratsaschen: eine Desjatina
-        zählt 2400 Quadratsaschen, rund 1,09 Hektar, eine Quadratsasche rund 4,55 m². Die Zahlen gehen
-        richtig auf (870 + 197 = 1067 Desjatinen und 1454 + 2218 = 3672 Saschen = 1 Desjatina 1272 Saschen),
-        was die Ziffernlesungen stützt. Die Striche hinter Итого und Всего in der Vorlage sind Füllstriche.'
+        zählt 2400 Quadratsaschen, rund 1,09 Hektar, eine Quadratsasche rund 4,55 m².'
+  farms:
+    source:
+      unit: apl399806603
+      doc: 6
+    marks:
+    - n: 1
+      name: Konchinskii Iakov
+      name_norm: Kończyński Jakub
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 10 des 2048 saz
+      x: 9411
+      y: 4600
+      note: null
+    - n: 2
+      name: Gebel Martin
+      name_norm: Gibel Martin
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 16 des 844 saz
+      x: 8892
+      y: 5218
+      note: null
+    - n: 3
+      name: Merts Karl
+      name_norm: Mertz Karl
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 27 des 2002 saz
+      x: 9361
+      y: 6372
+      note: null
+    - n: 3
+      name: Merts Karl
+      name_norm: Mertz Karl
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 27 des 2002 saz
+      x: 9638
+      y: 6747
+      note: null
+    - n: 4
+      name: Kholm Daniil
+      name_norm: Holm Daniel
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 22 des 1156 saz
+      x: 7431
+      y: 7024
+      note: null
+    - n: 4
+      name: Kholm Daniil
+      name_norm: Holm Daniel
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 22 des 1156 saz
+      x: 7612
+      y: 7577
+      note: null
+    - n: 5
+      name: Merts Gotlib
+      name_norm: Mertz Gottlieb
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 6 des 187 saz
+      x: 6784
+      y: 7540
+      note: null
+    - n: 6
+      name: Girsh Kristiian
+      name_norm: Hirsch Christian
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 11 des 1708 saz
+      x: 7610
+      y: 6720
+      note: null
+    - n: 7
+      name: Kinast Vilgelm
+      name_norm: Kinast Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 10 des 281 saz
+      x: 7390
+      y: 6320
+      note: null
+    - n: 8
+      name: Strzhizhikovskii Frants
+      name_norm: Strzyżykowski Franciszek
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 7 des 1085 saz
+      x: 6572
+      y: 5065
+      note: null
+    - n: 9
+      name: Sanikovskii Martin
+      name_norm: Sanikowski Marcin
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 11 des 1628 saz
+      x: 6585
+      y: 6100
+      note: null
+    - n: 10
+      name: Marek Vilgelm
+      name_norm: Marek Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 19 des 560 saz
+      x: 5937
+      y: 7195
+      note: null
+    - n: 11
+      name: Grunvald Kristof
+      name_norm: Grünwald Christoph
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 14 des 1949 saz
+      x: 5590
+      y: 6015
+      note: null
+    - n: 13
+      name: Shteinbord Iulian
+      name_norm: Steinbart Julian
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 11 des 103 saz
+      x: 5215
+      y: 6147
+      note: null
+    - n: 14
+      name: Kholm Vilgelm
+      name_norm: Holm Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 11 des 195 saz
+      x: 3843
+      y: 6651
+      note: null
+    - n: 15
+      name: Falk Avgust
+      name_norm: Falk August
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 4 des 1314 saz
+      x: 4051
+      y: 7195
+      note: null
+    - n: 16
+      name: Merts Kristiian
+      name_norm: Mertz Christian
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 15 des 973 saz
+      x: 11328
+      y: 9185
+      note: null
+    - n: 17
+      name: Merts Martin
+      name_norm: Mertz Martin
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 6 des 1107 saz
+      x: 4621
+      y: 6865
+      note: null
+    - n: 18
+      name: Sanikovskii Osip
+      name_norm: Sanikowski Józef
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 15 des 1303 saz
+      x: 7088
+      y: 5836
+      note: null
+    - n: 19
+      name: Stirtsenbeker Kristiian
+      name_norm: Stürzenbecker Christian
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 9 des 1538 saz
+      x: 5793
+      y: 7759
+      note: null
+    - n: 20
+      name: Sanikovskii Ian
+      name_norm: Sanikowski Jan
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 14 des 1602 saz
+      x: 7468
+      y: 8301
+      note: null
+    - n: 21
+      name: heirs of Goske Karla
+      name_norm: heirs of Karl Goske
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 14 des 1952 saz
+      x: 7957
+      y: 9054
+      note: null
+    - n: 22
+      name: Bludzinskii Ivan
+      name_norm: Bludziński Jan
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 7 des 646 saz
+      x: 8471
+      y: 9327
+      note: null
+    - n: 23
+      name: Shmigelskii Vilgelm
+      name_norm: Śmigelski Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 27 des 874 saz
+      x: 7037
+      y: 10033
+      note: null
+    - n: 23
+      name: Shmigelskii Vilgelm
+      name_norm: Śmigelski Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 27 des 874 saz
+      x: 10994
+      y: 8837
+      note: null
+    - n: 24
+      name: heirs of Rogatskago Petra
+      name_norm: heirs of Piotr Rogacki
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 17 des 892 saz
+      x: 6358
+      y: 8704
+      note: null
+    - n: 26
+      name: Runga Voitsekh
+      name_norm: Runge Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 21 des 401 saz
+      x: 4116
+      y: 8218
+      note: null
+    - n: 26
+      name: Runga Voitsekh
+      name_norm: Runge Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 21 des 401 saz
+      x: 5300
+      y: 8693
+      note: null
+    - n: 26
+      name: Runga Voitsekh
+      name_norm: Runge Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 21 des 401 saz
+      x: 8654
+      y: 5961
+      note: null
+    - n: 27
+      name: heirs of Runga Gotfrida
+      name_norm: heirs of Gottfried Runge
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 11 des 1759 saz
+      x: 5856
+      y: 10086
+      note: null
+    - n: 29
+      name: Goska Osip
+      name_norm: Goske Joseph
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 11 des 1400 saz
+      x: 3718
+      y: 8822
+      note: null
+    - n: 29
+      name: Goska Osip
+      name_norm: Goske Joseph
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 11 des 1400 saz
+      x: 4322
+      y: 8822
+      note: null
+    - n: 31
+      name: Knafkus Vilgelm
+      name_norm: Knafkus Wilhelm
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 2 des 1493 saz
+      x: 5065
+      y: 10183
+      note: null
+    - n: 32
+      name: heirs of Rungi Voitsekha
+      name_norm: heirs of Wojciech Runge
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 4 des 1248 saz
+      x: 5159
+      y: 10317
+      note: null
+    - n: 33
+      name: heirs of Rungi Gotfrida
+      name_norm: heirs of Gottfried Runge
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 15 des 566 saz
+      x: 4792
+      y: 9457
+      note: null
+    - n: 34
+      name: Runge Martin
+      name_norm: Runge Martin
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 3 des 721 saz
+      x: 5539
+      y: 9967
+      note: null
+    - n: 35
+      name: Kitke Kristiian
+      name_norm: Kitke Christian
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 5 des 860 saz
+      x: 6668
+      y: 11114
+      note: null
+    - n: 36
+      name: Fridenberg Kristof
+      name_norm: Friedenberg Christoph
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 11 des 1113 saz
+      x: 7679
+      y: 10203
+      note: null
+    - n: 37
+      name: Tselmer Gotfrid
+      name_norm: Zellmer Gottfried
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 15 des 1157 saz
+      x: 8173
+      y: 10473
+      note: null
+    - n: 37
+      name: Tselmer Gotfrid
+      name_norm: Zellmer Gottfried
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 15 des 1157 saz
+      x: 8279
+      y: 9795
+      note: null
+    - n: 37
+      name: Tselmer Gotfrid
+      name_norm: Zellmer Gottfried
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 15 des 1157 saz
+      x: 8730
+      y: 10408
+      note: null
+    - n: 38
+      name: Malinovskii Petr
+      name_norm: Malinowski Piotr
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 5 des 78 saz
+      x: 7119
+      y: 11103
+      note: null
+    - n: 39
+      name: Khaupt Kristiian
+      name_norm: Haupt Christian
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 8 des 2238 saz
+      x: 7622
+      y: 11256
+      note: null
+    - n: 40
+      name: Shvebs Karl Veniiamin
+      name_norm: Schwebs Karl Benjamin
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 4 des 776 saz
+      x: 8921
+      y: 11414
+      note: null
+    - n: 41
+      name: Shtirtsenbeker Karl
+      name_norm: Stürzenbecker Karl
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 5 des 2285 saz
+      x: 9547
+      y: 12003
+      note: null
+    - n: 42
+      name: heirs of Betke Kristiiana
+      name_norm: heirs of Christian Betke
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 6 des 683 saz
+      x: 9912
+      y: 12182
+      note: null
+    - n: 42
+      name: heirs of Betke Kristiiana
+      name_norm: heirs of Christian Betke
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 6 des 683 saz
+      x: 10022
+      y: 12281
+      note: null
+    - n: 44
+      name: Rash Friderik
+      name_norm: Rasch Friedrich
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 666 saz
+      x: 9267
+      y: 11745
+      note: null
+    - n: 44
+      name: Rash Friderik
+      name_norm: Rasch Friedrich
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 666 saz
+      x: 9942
+      y: 11667
+      note: null
+    - n: 44
+      name: Rash Friderik
+      name_norm: Rasch Friedrich
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 666 saz
+      x: 10988
+      y: 11794
+      note: null
+    - n: 44
+      name: Rash Friderik
+      name_norm: Rasch Friedrich
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 666 saz
+      x: 11617
+      y: 11148
+      note: null
+    - n: 45
+      name: Bandzert Emanuil
+      name_norm: Banzert Emanuel
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 4 des 1020 saz
+      x: 11634
+      y: 10559
+      note: null
+    - n: 46
+      name: Kun Gotfrid
+      name_norm: Kuhn Gottfried
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 20 des 2209 saz
+      x: 11384
+      y: 9769
+      note: null
+    - n: 47
+      name: Zeer Kristiian
+      name_norm: Zeer Christian
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 26 des 1922 saz
+      x: 9407
+      y: 9997
+      note: null
+    - n: 47
+      name: Zeer Kristiian
+      name_norm: Zeer Christian
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 26 des 1922 saz
+      x: 10168
+      y: 9822
+      note: null
+    - n: 49
+      name: Merts Avgust
+      name_norm: Mertz August
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 18 des 909 saz
+      x: 10085
+      y: 8017
+      note: null
+    - n: 50
+      name: Tselmer Genrikh
+      name_norm: Zellmer Heinrich
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 20 des 416 saz
+      x: 9113
+      y: 8048
+      note: null
+    - n: 51
+      name: Gebel Karl
+      name_norm: Gibel Karl
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 9 des 1567 saz
+      x: 10600
+      y: 7103
+      note: null
+    - n: 52
+      name: Shmigelskii Samuil
+      name_norm: Śmigelski Samuel
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 9 des 1125 saz
+      x: 11190
+      y: 6180
+      note: null
+    - n: 53
+      name: heirs of Tselmera Daniila
+      name_norm: heirs of Daniel Zellmer
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 8 des 1888 saz
+      x: 11499
+      y: 7239
+      note: null
+    - n: 54
+      name: Bitner Andrei
+      name_norm: Bitner Andreas
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 17 des 1475 saz
+      x: 10406
+      y: 12654
+      note: null
+    - n: 54
+      name: Bitner Andrei
+      name_norm: Bitner Andreas
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 17 des 1475 saz
+      x: 13139
+      y: 11319
+      note: null
+    - n: 55
+      name: Rytamer Anton
+      name_norm: Rittamer Anton
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 8 des 2112 saz
+      x: 12271
+      y: 12119
+      note: null
+    - n: 56
+      name: Przhistanskii Anton
+      name_norm: Przystański Antoni
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 4 des 1708 saz
+      x: 13153
+      y: 12240
+      note: null
+    - n: 57
+      name: Bartel Karl Liudvik
+      name_norm: Bartel Karl Ludwig
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 5 des 1561 saz
+      x: 13712
+      y: 12657
+      note: null
+    - n: 58
+      name: Goske Voitsekh
+      name_norm: Goske Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 10 des 306 saz
+      x: 14145
+      y: 12510
+      note: null
+    - n: 59
+      name: Gints Liudvik
+      name_norm: Hintz Ludwig
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 11 des 1856 saz
+      x: 14004
+      y: 11322
+      note: null
+    - n: 60
+      name: Shtark Daniil
+      name_norm: Stark Daniel
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 6 des 994 saz
+      x: 16204
+      y: 11230
+      note: null
+    - n: 61
+      name: Kinast Voitsekh
+      name_norm: Kinast Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 427 saz
+      x: 16430
+      y: 10509
+      note: null
+    - n: 61
+      name: Kinast Voitsekh
+      name_norm: Kinast Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 427 saz
+      x: 16888
+      y: 10348
+      note: null
+    - n: 61
+      name: Kinast Voitsekh
+      name_norm: Kinast Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 427 saz
+      x: 16947
+      y: 11157
+      note: null
+    - n: 61
+      name: Kinast Voitsekh
+      name_norm: Kinast Wojciech
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 28 des 427 saz
+      x: 17249
+      y: 10564
+      note: null
+    - n: 62
+      name: Kusman Gotlib
+      name_norm: Kussmann Gottlieb
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 2 des 2235 saz
+      x: 5366
+      y: 10426
+      note: null
+    - n: 63
+      name: heirs of Kinasta Voitsekha
+      name_norm: heirs of Wojciech Kinast
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 13 des 292 saz
+      x: 18269
+      y: 11558
+      note: null
+    - n: 65
+      name: Tselmer Mikhail
+      name_norm: Zellmer Michael
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 20 des 1412 saz
+      x: 18005
+      y: 11292
+      note: null
+    - n: 66
+      name: Shtark Avgust
+      name_norm: Stark August
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 12 des 1967 saz
+      x: 18379
+      y: 11961
+      note: null
+    - n: 67
+      name: Tselmer Avgust
+      name_norm: Zellmer August
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 13 des 1528 saz
+      x: 18315
+      y: 12483
+      note: null
+    - n: 68
+      name: Lipelt Martin
+      name_norm: Liepelt Martin
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 9 des 1581 saz
+      x: 17136
+      y: 12294
+      note: null
+    - n: 69
+      name: Gotter Avgust
+      name_norm: Gotter August
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 11 des 1971 saz
+      x: 17110
+      y: 12900
+      note: null
+    - n: 70
+      name: Morits Gotfrid
+      name_norm: Moritz Gottfried
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 30 des 1438 saz
+      x: 18488
+      y: 12932
+      note: null
+    - n: 71
+      name: Obst Vilgelm
+      name_norm: Obst Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 4 des 2320 saz
+      x: 18395
+      y: 13543
+      note: null
+    - n: 72
+      name: Reikh Kristiian
+      name_norm: Reich Christian
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 16 des 955 saz
+      x: 19784
+      y: 12381
+      note: null
+    - n: 73
+      name: Shvebs Ivan
+      name_norm: Schwebs Johann
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 8 des 2030 saz
+      x: 19709
+      y: 11942
+      note: null
+    - n: 74
+      name: Khaupt Gotlib
+      name_norm: Haupt Gottlieb
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 6 des 531 saz
+      x: 17348
+      y: 9307
+      note: null
+    - n: 75
+      name: Khaupt Gotfrid
+      name_norm: Haupt Gottfried
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 18 des 79 saz
+      x: 17072
+      y: 9677
+      note: null
+    - n: 76
+      name: Khaupt Kristiian
+      name_norm: Haupt Christian
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 8 des 1715 saz
+      x: 19509
+      y: 11079
+      note: null
+    - n: 77
+      name: Gebel Kristiian
+      name_norm: Haupt Christian [conflict]
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 8 des 1082 saz
+      x: 19718
+      y: 11205
+      note: null
+    - n: 78
+      name: Zelchak Foma
+      name_norm: Zielczak Tomasz
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 5 des 897 saz
+      x: 19181
+      y: 10392
+      note: null
+    - n: 80
+      name: Fogel Vilgelm
+      name_norm: Vogel Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 3 des 1113 saz
+      x: 4507
+      y: 9988
+      note: null
+    - n: 81
+      name: Sheinfish Vilgelm
+      name_norm: Schönfisch Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 30 des 459 saz
+      x: 13099
+      y: 7738
+      note: null
+    - n: 81
+      name: Sheinfish Vilgelm
+      name_norm: Schönfisch Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 30 des 459 saz
+      x: 13677
+      y: 8045
+      note: null
+    - n: 82
+      name: Rogatskii Stanislav
+      name_norm: Rogacki Stanisław
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 10 des 19 saz
+      x: 5521
+      y: 6818
+      note: null
+    - n: 83
+      name: Fetter Ivan
+      name_norm: Fetter Johann
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 3 des 1150 saz
+      x: 4440
+      y: 6740
+      note: null
+    - n: 84
+      name: heirs of Shtirtsenbekera
+      name_norm: heirs of Johann Stürzenbecker
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 4 des 1684 saz
+      x: 3381
+      y: 8846
+      note: null
+    - n: 86
+      name: Khaupt Gotfrid
+      name_norm: Haupt Gottfried
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 4 des 588 saz
+      x: 3249
+      y: 9192
+      note: null
+    - n: 87
+      name: Khaupt Vilgelm
+      name_norm: Haupt Wilhelm
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 7 des 2330 saz
+      x: 3635
+      y: 9297
+      note: null
+    - n: 89
+      name: heirs of Tarnovskago Mikhaila
+      name_norm: heirs of Michał Tarnowski
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 2 des 1774 saz
+      x: 10261
+      y: 12482
+      note: null
+    - n: 90
+      name: Rogovich Martin
+      name_norm: Rogowicz Marcin
+      norm_conf: conjectural
+      name_de: null
+      institution: null
+      total: 2 des 749 saz
+      x: 12876
+      y: 7463
+      note: null
+    - n: 91
+      name: Marylskii Ivan
+      name_norm: Marylski Jan
+      norm_conf: firm
+      name_de: null
+      institution: null
+      total: 4 des 2003 saz
+      x: 12598
+      y: 7421
+      note: null
+    - n: 92
+      name: Village school
+      name_norm: Szkoła wiejska
+      norm_conf: firm
+      name_de: Dorfschule
+      institution: true
+      total: 9 des 2219 saz
+      x: 9971
+      y: 8997
+      note: null
+    - n: 93
+      name: Common cemetery
+      name_norm: Cmentarz wspólny
+      norm_conf: firm
+      name_de: Gemeindefriedhof
+      institution: true
+      total: 1 des 1320 saz
+      x: 10039
+      y: 9126
+      note: null
+    rows:
+    - n: 1
+      name: Konchinskii Iakov
+      name_1868: Konchinskii Iakov
+      changed: false
+      total: 10 des 2048 saz
+      morgen: 17
+      rods: 84
+      dues: 17 r 84 k
+      servitudes: 4 Morgen
+      name_norm: Kończyński Jakub
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: 'Кончинскій: the stem could be Kończyn- or Koncin- (also possible: Konchiński)'
+      mark: true
+    - n: 2
+      name: Gebel Martin
+      name_1868: Gebel Martin
+      changed: false
+      total: 16 des 844 saz
+      morgen: 29
+      rods: 262
+      dues: 29 r 262 k
+      servitudes: 4 Morgen
+      name_norm: Gibel Martin
+      name_lang: de
+      norm_conf: firm
+      norm_note: Gibel, not Göbel — seen in other records (editor, 2026-11-05)
+      mark: true
+    - n: 3
+      name: Merts Karl
+      name_1868: Merts Karl
+      changed: false
+      total: 27 des 2002 saz
+      morgen: 48
+      rods: 56
+      dues: 48 r 56 k
+      servitudes: 4 Morgen
+      name_norm: Mertz Karl
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Merz)'
+      mark: true
+    - n: 4
+      name: Kholm Daniil
+      name_1868: Kholm Daniel
+      changed: false
+      total: 22 des 1156 saz
+      morgen: 40
+      rods: 161
+      dues: 40 r 161 k
+      servitudes: 4 Morgen
+      name_norm: Holm Daniel
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 5
+      name: Merts Gotlib
+      name_1868: Merts Gotlib
+      changed: false
+      total: 6 des 187 saz
+      morgen: 7
+      rods: 289
+      dues: 7 r 289 k
+      servitudes: 4 Morgen
+      name_norm: Mertz Gottlieb
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Merz)'
+      mark: true
+    - n: 6
+      name: Girsh Kristiian
+      name_1868: Girsh Kristiian
+      changed: false
+      total: 11 des 1708 saz
+      morgen: 17
+      rods: 233
+      dues: 17 r 233 k
+      servitudes: 4 Morgen
+      name_norm: Hirsch Christian
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Giersz (Polish))'
+      mark: true
+    - n: 7
+      name: Kinast Vilgelm
+      name_1868: Kinast Vilgelm
+      changed: false
+      total: 10 des 281 saz
+      morgen: 15
+      rods: 112
+      dues: 15 r 112 k
+      servitudes: 4 Morgen
+      name_norm: Kinast Wilhelm
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 8
+      name: Strzhizhikovskii Frants
+      name_1868: Strzhizhikovskii Frants
+      changed: false
+      total: 7 des 1085 saz
+      morgen: 11
+      rods: 148
+      dues: 11 r 148 k
+      servitudes: 6 Morgen
+      name_norm: Strzyżykowski Franciszek
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: 'from strzyżyk (the wren) or the place Strzyżów (also possible: Strzyżowski)'
+      mark: true
+    - n: 9
+      name: Sanikovskii Martin
+      name_1868: Sanikovskii Martsin — 18 282
+      changed: false
+      total: 11 des 1628 saz
+      morgen: 19
+      rods: 22
+      dues: 19 r 22 k
+      servitudes: 4 Morgen
+      name_norm: Sanikowski Marcin
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: '(also possible: Sannikowski)'
+      mark: true
+    - n: 10
+      name: Marek Vilgelm
+      name_1868: Marek Vilgelm — 22 277
+      changed: false
+      total: 19 des 560 saz
+      morgen: 32
+      rods: 179
+      dues: 32 r 179 k
+      servitudes: 4 Morgen
+      name_norm: Marek Wilhelm
+      name_lang: pl
+      norm_conf: firm
+      norm_note: 'the surname is Polish as spelt; Breyer''s 1875 pencil note: a Merz farmed it'
+      mark: true
+    - n: 11
+      name: Grunvald Kristof
+      name_1868: Grunvald Kristof
+      changed: false
+      total: 14 des 1949 saz
+      morgen: 22
+      rods: 273
+      dues: 22 r 273 k
+      servitudes: 4 Morgen
+      name_norm: Grünwald Christoph
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 12
+      name: '[uncertain: Slivinskii] Gotlib'
+      name_1868: Slivinskii Gotlib
+      changed: false
+      total: 8 des 2328 saz
+      morgen: 14
+      rods: 122
+      dues: 14 r 122 k
+      servitudes: 4 Morgen
+      name_norm: '[uncertain: Śliwiński] Gottlieb'
+      name_lang: pl
+      norm_conf: firm
+      norm_note: 'collation: the 1868, 1869 and Breyer readings agree plainly - the 1896 uncertainty can
+        be lifted (ruling pending)'
+      mark: false
+    - n: 13
+      name: Shteinbord Iulian
+      name_1868: Shteinbord Iulian
+      changed: false
+      total: 11 des 103 saz
+      morgen: 17
+      rods: 75
+      dues: 17 r 75 k
+      servitudes: 4 Morgen
+      name_norm: Steinbart Julian
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Steinbord, Steinbardt)'
+      mark: true
+    - n: 14
+      name: Kholm Vilgelm
+      name_1868: Kholm Vilgelm
+      changed: false
+      total: 11 des 195 saz
+      morgen: 13
+      rods: 280
+      dues: 13 r 280 k
+      servitudes: 6 Morgen
+      name_norm: Holm Wilhelm
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 15
+      name: Falk Avgust
+      name_1868: Falk Avgust
+      changed: false
+      total: 4 des 1314 saz
+      morgen: 5
+      rods: 15
+      dues: 5 r 15 k
+      servitudes: 4 Morgen
+      name_norm: Falk August
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 16
+      name: Merts Kristiian
+      name_1868: Merts Kristiian
+      changed: false
+      total: 15 des 973 saz
+      morgen: 23
+      rods: 125
+      dues: 23 r 125 k
+      servitudes: 4 Morgen
+      name_norm: Mertz Christian
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Merz)'
+      mark: true
+    - n: 17
+      name: Merts Martin
+      name_1868: Merts Martsin
+      changed: false
+      total: 6 des 1107 saz
+      morgen: 8
+      rods: 293
+      dues: 8 r 293 k
+      servitudes: 4 Morgen
+      name_norm: Mertz Martin
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Merz)'
+      mark: true
+    - n: 18
+      name: Sanikovskii Osip
+      name_1868: Sanikovskii Osip
+      changed: false
+      total: 15 des 1303 saz
+      morgen: 27
+      rods: 244
+      dues: 27 r 244 k
+      servitudes: 4 Morgen
+      name_norm: Sanikowski Józef
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: '(also possible: Sannikowski)'
+      mark: true
+    - n: 19
+      name: Stirtsenbeker Kristiian
+      name_1868: '[uncertain: Sturtsenbekher] Kristiian'
+      changed: false
+      total: 9 des 1538 saz
+      morgen: 15
+      rods: 24
+      dues: 15 r 24 k
+      servitudes: 4 Morgen
+      name_norm: Stürzenbecker Christian
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: the three Russian spellings (Sturtsenbekher, Shtirtsenbeker, Stirtsenbeker) all point
+        here; a documented Olęder surname - confirm
+      mark: true
+    - n: 20
+      name: Sanikovskii Ian
+      name_1868: Sanikovskii Ivan
+      changed: false
+      total: 14 des 1602 saz
+      morgen: 24
+      rods: 187
+      dues: 24 r 187 k
+      servitudes: 4 Morgen
+      name_norm: Sanikowski Jan
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: '(also possible: Sannikowski)'
+      mark: true
+    - n: 21
+      name: heirs of Goske Karla
+      name_1868: heirs of Goske Karla
+      changed: false
+      total: 14 des 1952 saz
+      morgen: 25
+      rods: 129
+      dues: 25 r 129 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Karl Goske
+      name_lang: de
+      norm_conf: firm
+      norm_note: the heirs rows reorder to the given name first, as their own languages write them
+      mark: true
+    - n: 22
+      name: Bludzinskii Ivan
+      name_1868: Bludzinskii Ivan
+      changed: false
+      total: 7 des 646 saz
+      morgen: 9
+      rods: 294
+      dues: 9 r 294 k
+      servitudes: 4 Morgen
+      name_norm: Bludziński Jan
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 23
+      name: Shmigelskii Vilgelm
+      name_1868: Shmigelskii Vilgelm
+      changed: false
+      total: 27 des 874 saz
+      morgen: 49
+      rods: 70
+      dues: 49 r 70 k
+      servitudes: 4 Morgen
+      name_norm: Śmigelski Wilhelm
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 24
+      name: heirs of Rogatskago Petra
+      name_1868: heirs of Rogatskago Petra
+      changed: false
+      total: 17 des 892 saz
+      morgen: 30
+      rods: 235
+      dues: 30 r 235 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Piotr Rogacki
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 25
+      name: '[uncertain: Promins] Shchepan'
+      name_1868: Promist Shchepan
+      changed: false
+      total: 8 des 2055 saz
+      morgen: 13
+      rods: 87
+      dues: 13 r 87 k
+      servitudes: 4 Morgen
+      name_norm: '[uncertain: Promins] Szczepan'
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: all four witnesses hesitate on the same word (Promist/Promins) - stays uncertain
+      mark: false
+    - n: 26
+      name: Runga Voitsekh
+      name_1868: Runga Voitsekh
+      changed: false
+      total: 21 des 401 saz
+      morgen: 36
+      rods: 222
+      dues: 36 r 222 k
+      servitudes: 4 Morgen
+      name_norm: Runge Wojciech
+      name_lang: de
+      norm_conf: firm
+      norm_note: the given name is Polish (Wojciech) - normalised per element
+      mark: true
+    - n: 27
+      name: heirs of Runga Gotfrida
+      name_1868: heirs of Runga Gotfrida
+      changed: false
+      total: 11 des 1759 saz
+      morgen: 18
+      rods: 65
+      dues: 18 r 65 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Gottfried Runge
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 28
+      name: Falkenberg Martin
+      name_1868: Falkenberg Martsin
+      changed: false
+      total: 22 des 2172 saz
+      morgen: 41
+      rods: 94
+      dues: 41 r 94 k
+      servitudes: 4 Morgen
+      name_norm: Falkenberg Martin
+      name_lang: de
+      norm_conf: firm
+      mark: false
+    - n: 29
+      name: Goska Osip
+      name_1868: Goska Osip
+      changed: false
+      total: 11 des 1400 saz
+      morgen: 15
+      rods: 188
+      dues: 15 r 188 k
+      servitudes: 4 Morgen
+      name_norm: Goske Joseph
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: 'Goska → Goske: the 1868 genitive (Госкѣ) spells it with e'
+      mark: true
+    - n: 30
+      name: Shults Kristiian
+      name_1868: Shults Kristiian
+      changed: false
+      total: 5 des 2334 saz
+      morgen: 7
+      rods: 196
+      dues: 7 r 196 k
+      servitudes: 4 Morgen
+      name_norm: Schulz Christian
+      name_lang: de
+      norm_conf: firm
+      mark: false
+    - n: 31
+      name: Knafkus Vilgelm
+      name_1868: Knafkus Vilgelm
+      changed: false
+      total: 2 des 1493 saz
+      morgen: 1
+      rods: 196
+      dues: 1 r 196 k
+      servitudes: 4 Morgen
+      name_norm: Knafkus Wilhelm
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Knaufkus)'
+      mark: true
+    - n: 32
+      name: heirs of Rungi Voitsekha
+      name_1868: heirs of Runge Voitsekha
+      changed: false
+      total: 4 des 1248 saz
+      morgen: 5
+      rods: 135
+      dues: 5 r 135 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Wojciech Runge
+      name_lang: de
+      norm_conf: firm
+      norm_note: Рунги is the genitive of Runge
+      mark: true
+    - n: 33
+      name: heirs of Rungi Gotfrida
+      name_1868: heirs of Runge Gotfrida
+      changed: false
+      total: 15 des 566 saz
+      morgen: 26
+      rods: 45
+      dues: 26 r 45 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Gottfried Runge
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 34
+      name: Runge Martin
+      name_1868: Runge Martin
+      changed: false
+      total: 3 des 721 saz
+      morgen: 2
+      rods: 115
+      dues: 2 r 115 k
+      servitudes: 4 Morgen
+      name_norm: Runge Martin
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 35
+      name: Kitke Kristiian
+      name_1868: Kitke Kristiian
+      changed: false
+      total: 5 des 860 saz
+      morgen: 6
+      rods: 46
+      dues: 6 r 46 k
+      servitudes: 4 Morgen
+      name_norm: Kitke Christian
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Kietke)'
+      mark: true
+    - n: 36
+      name: Fridenberg Kristof
+      name_1868: Fridenberg Kristof
+      changed: false
+      total: 11 des 1113 saz
+      morgen: 19
+      rods: 220
+      dues: 19 r 220 k
+      servitudes: 4 Morgen
+      name_norm: Friedenberg Christoph
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 37
+      name: Tselmer Gotfrid
+      name_1868: Tselmer Gotfrid
+      changed: false
+      total: 15 des 1157 saz
+      morgen: 26
+      rods: 14
+      dues: 26 r 14 k
+      servitudes: 4 Morgen
+      name_norm: Zellmer Gottfried
+      name_lang: de
+      norm_conf: firm
+      norm_note: '(also possible: Zöllmer)'
+      mark: true
+    - n: 38
+      name: Malinovskii Petr
+      name_1868: Malinovskii Petr
+      changed: false
+      total: 5 des 78 saz
+      morgen: 5
+      rods: 277
+      dues: 5 r 277 k
+      servitudes: 4 Morgen
+      name_norm: Malinowski Piotr
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 39
+      name: Khaupt Kristiian
+      name_1868: Khaupt Frants Kristiian
+      changed: false
+      total: 8 des 2238 saz
+      morgen: 13
+      rods: 174
+      dues: 13 r 174 k
+      servitudes: 4 Morgen
+      name_norm: Haupt Christian
+      name_lang: de
+      norm_conf: firm
+      norm_note: 1868 reads Haupt Franz Christian - the 1896 clerk dropped the middle name
+      mark: true
+    - n: 40
+      name: Shvebs Karl Veniiamin
+      name_1868: Shvebs Karl Veniiamin
+      changed: false
+      total: 4 des 776 saz
+      morgen: 4
+      rods: 168
+      dues: 4 r 168 k
+      servitudes: 4 Morgen
+      name_norm: Schwebs Karl Benjamin
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Schwabs)'
+      mark: true
+    - n: 41
+      name: Shtirtsenbeker Karl
+      name_1868: Shtirtsenbekher Karl
+      changed: false
+      total: 5 des 2285 saz
+      morgen: 8
+      rods: 45
+      dues: 8 r 45 k
+      servitudes: 4 Morgen
+      name_norm: Stürzenbecker Karl
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: as farm 19
+      mark: true
+    - n: 42
+      name: heirs of Betke Kristiiana
+      name_1868: heirs of Betke Kristiiana
+      changed: false
+      total: 6 des 683 saz
+      morgen: 8
+      rods: 192
+      dues: 8 r 192 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Christian Betke
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 43
+      name: Kinast Mateush
+      name_1868: Kinast Mateush
+      changed: false
+      total: 3 des 1661 saz
+      morgen: 3
+      rods: 248
+      dues: 3 r 248 k
+      servitudes: 4 Morgen
+      name_norm: Kinast Matthäus
+      name_lang: de
+      norm_conf: firm
+      mark: false
+    - n: 44
+      name: Rash Friderik
+      name_1868: Rash Friderik Ivan
+      changed: false
+      total: 28 des 666 saz
+      morgen: 53
+      rods: 196
+      dues: 53 r 196 k
+      servitudes: 4 Morgen
+      name_norm: Rasch Friedrich
+      name_lang: de
+      norm_conf: firm
+      norm_note: 1868 reads Rasch Friedrich Ivan - the 1896 clerk dropped Ivan (Johann)
+      mark: true
+    - n: 45
+      name: Bandzert Emanuil
+      name_1868: Bandzert Emanuil
+      changed: false
+      total: 4 des 1020 saz
+      morgen: 4
+      rods: 48
+      dues: 4 r 48 k
+      servitudes: 4 Morgen
+      name_norm: Banzert Emanuel
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Bandzert, Bansert)'
+      mark: true
+    - n: 46
+      name: Kun Gotfrid
+      name_1868: Kun Gotfrid
+      changed: false
+      total: 20 des 2209 saz
+      morgen: 38
+      rods: 66
+      dues: 38 r 66 k
+      servitudes: 4 Morgen
+      name_norm: Kuhn Gottfried
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Kühn, Kun)'
+      mark: true
+    - n: 47
+      name: Zeer Kristiian
+      name_1868: Zeer Kristiian
+      changed: false
+      total: 26 des 1922 saz
+      morgen: 42
+      rods: 99
+      dues: 42 r 99 k
+      servitudes: 5 Morgen
+      name_norm: Zeer Christian
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Seher)'
+      mark: true
+    - n: 48
+      name: Bandzert Morits
+      name_1868: Bandzert Morits
+      changed: false
+      total: 20 des 165 saz
+      morgen: 36
+      rods: 135
+      dues: 36 r 135 k
+      servitudes: 4 Morgen
+      name_norm: Banzert Moritz
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Bandzert, Bansert)'
+      mark: false
+    - n: 49
+      name: Merts Avgust
+      name_1868: Merts Avgust
+      changed: false
+      total: 18 des 909 saz
+      morgen: 33
+      rods: 93
+      dues: 33 r 93 k
+      servitudes: 4 Morgen
+      name_norm: Mertz August
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Merz)'
+      mark: true
+    - n: 50
+      name: Tselmer Genrikh
+      name_1868: Tselmer Genrikh
+      changed: false
+      total: 20 des 416 saz
+      morgen: 35
+      rods: 42
+      dues: 35 r 42 k
+      servitudes: 4 Morgen
+      name_norm: Zellmer Heinrich
+      name_lang: de
+      norm_conf: firm
+      norm_note: '(also possible: Zöllmer)'
+      mark: true
+    - n: 51
+      name: Gebel Karl
+      name_1868: Gebel Karl
+      changed: false
+      total: 9 des 1567 saz
+      morgen: 14
+      rods: 105
+      dues: 14 r 105 k
+      servitudes: 4 Morgen
+      name_norm: Gibel Karl
+      name_lang: de
+      norm_conf: firm
+      norm_note: 'editor''s ruling 2026-11-05: Gibel in other records (not Göbel)'
+      mark: true
+    - n: 52
+      name: Shmigelskii Samuil
+      name_1868: Shmigelskii Samuil
+      changed: false
+      total: 9 des 1125 saz
+      morgen: 14
+      rods: 13
+      dues: 14 r 13 k
+      servitudes: 4 Morgen
+      name_norm: Śmigelski Samuel
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 53
+      name: heirs of Tselmera Daniila
+      name_1868: heirs of Tselmera Daniila
+      changed: false
+      total: 8 des 1888 saz
+      morgen: 12
+      rods: 60
+      dues: 12 r 60 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Daniel Zellmer
+      name_lang: de
+      norm_conf: firm
+      norm_note: '(also possible: Zöllmer)'
+      mark: true
+    - n: 54
+      name: Bitner Andrei
+      name_1868: Bitner Andrei
+      changed: false
+      total: 17 des 1475 saz
+      morgen: 30
+      rods: 115
+      dues: 30 r 115 k
+      servitudes: 4 Morgen
+      name_norm: Bitner Andreas
+      name_lang: de
+      norm_conf: firm
+      norm_note: Bitner, not Büttner — seen in other records (editor, 2026-11-05)
+      mark: true
+    - n: 55
+      name: Rytamer Anton
+      name_1868: Rytamer Anton
+      changed: false
+      total: 8 des 2112 saz
+      morgen: 13
+      rods: 142
+      dues: 13 r 142 k
+      servitudes: 4 Morgen
+      name_norm: Rittamer Anton
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Rytamer, Riedamer)'
+      mark: true
+    - n: 56
+      name: Przhistanskii Anton
+      name_1868: Przhistanskii Anton
+      changed: false
+      total: 4 des 1708 saz
+      morgen: 5
+      rods: 59
+      dues: 5 r 59 k
+      servitudes: 4 Morgen
+      name_norm: Przystański Antoni
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: 'прж renders the Polish prz- (also possible: Przystalski, Przytański)'
+      mark: true
+    - n: 57
+      name: Bartel Karl Liudvik
+      name_1868: Bartel Karl Liudvik
+      changed: false
+      total: 5 des 1561 saz
+      morgen: 6
+      rods: 68
+      dues: 6 r 68 k
+      servitudes: 4 Morgen
+      name_norm: Bartel Karl Ludwig
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 58
+      name: Goske Voitsekh
+      name_1868: Goske Voitsekh
+      changed: false
+      total: 10 des 306 saz
+      morgen: 16
+      rods: 147
+      dues: 16 r 147 k
+      servitudes: 4 Morgen
+      name_norm: Goske Wojciech
+      name_lang: de
+      norm_conf: firm
+      norm_note: the given name is Polish
+      mark: true
+    - n: 59
+      name: Gints Liudvik
+      name_1868: Gints Liudvik
+      changed: false
+      total: 11 des 1856 saz
+      morgen: 16
+      rods: 287
+      dues: 16 r 287 k
+      servitudes: 6 Morgen
+      name_norm: Hintz Ludwig
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: 'cf. Hintz in Breyer''s tables of the neighbouring colonies (APP 716, doc 5160) (also
+        possible: Hinz, Ginz)'
+      mark: true
+    - n: 60
+      name: Shtark Daniil
+      name_1868: Shtark Daniil
+      changed: false
+      total: 6 des 994 saz
+      morgen: 8
+      rods: 157
+      dues: 8 r 157 k
+      servitudes: 4 Morgen
+      name_norm: Stark Daniel
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 61
+      name: Kinast Voitsekh
+      name_1868: Kinast Voitsekh
+      changed: false
+      total: 28 des 427 saz
+      morgen: 52
+      rods: 94
+      dues: 52 r 94 k
+      servitudes: 6 Morgen
+      name_norm: Kinast Wojciech
+      name_lang: de
+      norm_conf: firm
+      norm_note: the given name is Polish
+      mark: true
+    - n: 62
+      name: Kusman Gotlib
+      name_1868: Kusman Gotlib
+      changed: false
+      total: 2 des 2235 saz
+      morgen: 2
+      rods: 66
+      dues: 2 r 66 k
+      servitudes: 4 Morgen
+      name_norm: Kussmann Gottlieb
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Kusman, Kußmann)'
+      mark: true
+    - n: 63
+      name: heirs of Kinasta Voitsekha
+      name_1868: heirs of Kinasta Voitsekha
+      changed: false
+      total: 13 des 292 saz
+      morgen: 15
+      rods: 192
+      dues: 15 r 192 k
+      servitudes: 6 Morgen
+      name_norm: heirs of Wojciech Kinast
+      name_lang: de
+      norm_conf: firm
+      norm_note: the given name is Polish
+      mark: true
+    - n: 64
+      name: Gerke Gotfrid
+      name_1868: Gerke Gotfrid
+      changed: false
+      total: 5 des 661 saz
+      morgen: 5
+      rods: 277
+      dues: 5 r 277 k
+      servitudes: 4 Morgen
+      name_norm: Gehrke Gottfried
+      name_lang: de
+      norm_conf: firm
+      mark: false
+    - n: 65
+      name: Tselmer Mikhail
+      name_1868: Tselmer Mikhail
+      changed: false
+      total: 20 des 1412 saz
+      morgen: 36
+      rods: 254
+      dues: 36 r 254 k
+      servitudes: 4 Morgen
+      name_norm: Zellmer Michael
+      name_lang: de
+      norm_conf: firm
+      norm_note: '(also possible: Zöllmer)'
+      mark: true
+    - n: 66
+      name: Shtark Avgust
+      name_1868: Shtark Avgust
+      changed: false
+      total: 12 des 1967 saz
+      morgen: 18
+      rods: 241
+      dues: 18 r 241 k
+      servitudes: 6 Morgen
+      name_norm: Stark August
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 67
+      name: Tselmer Avgust
+      name_1868: Tselmer Avgust
+      changed: false
+      total: 13 des 1528 saz
+      morgen: 22
+      rods: 227
+      dues: 22 r 227 k
+      servitudes: 4 Morgen
+      name_norm: Zellmer August
+      name_lang: de
+      norm_conf: firm
+      norm_note: '(also possible: Zöllmer)'
+      mark: true
+    - n: 68
+      name: Lipelt Martin
+      name_1868: Lipelt Martsin
+      changed: false
+      total: 9 des 1581 saz
+      morgen: 14
+      rods: 121
+      dues: 14 r 121 k
+      servitudes: 4 Morgen
+      name_norm: Liepelt Martin
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 69
+      name: Gotter Avgust
+      name_1868: Gotter Avgust
+      changed: false
+      total: 11 des 1971 saz
+      morgen: 19
+      rods: 64
+      dues: 19 r 64 k
+      servitudes: 4 Morgen
+      name_norm: Gotter August
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 70
+      name: Morits Gotfrid
+      name_1868: Morits Gotfrid
+      changed: false
+      total: 30 des 1438 saz
+      morgen: 54
+      rods: 292
+      dues: 54 r 292 k
+      servitudes: 4 Morgen
+      name_norm: Moritz Gottfried
+      name_lang: de
+      norm_conf: firm
+      norm_note: the surname here is Moritz (Морицъ), the given name Gottfried
+      mark: true
+    - n: 71
+      name: Obst Vilgelm
+      name_1868: Obst Vilgelm
+      changed: false
+      total: 4 des 2320 saz
+      morgen: 5
+      rods: 272
+      dues: 5 r 272 k
+      servitudes: 4 Morgen
+      name_norm: Obst Wilhelm
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 72
+      name: Reikh Kristiian
+      name_1868: Reikh Kristiian
+      changed: false
+      total: 16 des 955 saz
+      morgen: 28
+      rods: 297
+      dues: 28 r 297 k
+      servitudes: 4 Morgen
+      name_norm: Reich Christian
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 73
+      name: Shvebs Ivan
+      name_1868: Shvebs Ivan
+      changed: false
+      total: 8 des 2030 saz
+      morgen: 12
+      rods: 221
+      dues: 12 r 221 k
+      servitudes: 4 Morgen
+      name_norm: Schwebs Johann
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Schwabs)'
+      mark: true
+    - n: 74
+      name: Khaupt Gotlib
+      name_1868: Khaupt Gotlib
+      changed: false
+      total: 6 des 531 saz
+      morgen: 8
+      rods: 124
+      dues: 8 r 124 k
+      servitudes: 4 Morgen
+      name_norm: Haupt Gottlieb
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 75
+      name: Khaupt Gotfrid
+      name_1868: Khaupt Gotfrid Kristiian
+      changed: false
+      total: 18 des 79 saz
+      morgen: 31
+      rods: 98
+      dues: 31 r 98 k
+      servitudes: 6 Morgen
+      name_norm: Haupt Gottfried
+      name_lang: de
+      norm_conf: firm
+      norm_note: 1868 reads Haupt Gottfried Christian - the middle name distinguishes him from the Christian
+        Haupt of farm 76 (father and son); the 1896 clerk dropped it
+      mark: true
+    - n: 76
+      name: Khaupt Kristiian
+      name_1868: Khaupt Kristiian Kristiianov
+      changed: false
+      total: 8 des 1715 saz
+      morgen: 13
+      rods: 33
+      dues: 13 r 33 k
+      servitudes: 4 Morgen
+      name_norm: Haupt Christian
+      name_lang: de
+      norm_conf: firm
+      norm_note: 1868 reads Khaupt Kristiian Kristiianov = Christian, son of Christian - the patronymic
+        is what tells him from farm 75; the 1896 clerk dropped it
+      mark: true
+    - n: 77
+      name: Gebel Kristiian
+      name_1868: Khaupt Gotfridov Kristiian
+      changed: false
+      total: 8 des 1082 saz
+      morgen: 12
+      rods: 48
+      dues: 12 r 48 k
+      servitudes: 4 Morgen
+      name_norm: Haupt Christian [conflict]
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: 'CONFLICT: the 1896 statement (the map''s own source) reads Gebel Kristiian, but the
+        1868 table, the 1869 copy and Breyer all read Khaupt Gotfridov Kristiian (Haupt, Gottfried''s
+        son). Rule: clerk''s error, or the farm changed hands (docs 4-5)?'
+      mark: true
+    - n: 78
+      name: Zelchak Foma
+      name_1868: Zelchak Foma
+      changed: false
+      total: 5 des 897 saz
+      morgen: 6
+      rods: 104
+      dues: 6 r 104 k
+      servitudes: 4 Morgen
+      name_norm: Zielczak Tomasz
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: '(also possible: Zelczak, Selczak)'
+      mark: true
+    - n: 79
+      name: Shchepinskii Petr
+      name_1868: Shchepinskii Petr
+      changed: false
+      total: 5 des 611 saz
+      morgen: 5
+      rods: 255
+      dues: 5 r 255 k
+      servitudes: 4 Morgen
+      name_norm: Szczepiński Piotr
+      name_lang: pl
+      norm_conf: firm
+      mark: false
+    - n: 80
+      name: Fogel Vilgelm
+      name_1868: Fogel Vilgelm
+      changed: false
+      total: 3 des 1113 saz
+      morgen: 2
+      rods: 214
+      dues: 2 r 214 k
+      servitudes: 4 Morgen
+      name_norm: Vogel Wilhelm
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 81
+      name: Sheinfish Vilgelm
+      name_1868: Sheinfish Vilgelm
+      changed: false
+      total: 30 des 459 saz
+      morgen: 54
+      rods: 218
+      dues: 54 r 218 k
+      servitudes: 4 Morgen
+      name_norm: Schönfisch Wilhelm
+      name_lang: de
+      norm_conf: firm
+      norm_note: Schönfisch, not Scheinfisch (editor, 2026-11-05)
+      mark: true
+    - n: 82
+      name: Rogatskii Stanislav
+      name_1868: Rogatskii Stanislav
+      changed: false
+      total: 10 des 19 saz
+      morgen: 16
+      rods: 269
+      dues: 16 r 269 k
+      servitudes: 4 Morgen
+      name_norm: Rogacki Stanisław
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 83
+      name: Fetter Ivan
+      name_1868: Fetter Ivan
+      changed: false
+      total: 3 des 1150 saz
+      morgen: 2
+      rods: 206
+      dues: 2 r 206 k
+      servitudes: 4 Morgen
+      name_norm: Fetter Johann
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '(also possible: Vetter)'
+      mark: true
+    - n: 84
+      name: heirs of Shtirtsenbekera
+      name_1868: heirs of Shtirtsenbekhera Ivana
+      changed: false
+      total: 4 des 1684 saz
+      morgen: 5
+      rods: 30
+      dues: 5 r 30 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Johann Stürzenbecker
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: '1868 names the deceased: Ivan (Johann); the 1896 clerk dropped the given name - restored
+        here from the 1868 witness'
+      mark: true
+    - n: 85
+      name: Kinast Kristiian
+      name_1868: Kinast Kristiian
+      changed: false
+      total: 3 des 186 saz
+      morgen: 2
+      rods: 12
+      dues: 2 r 12 k
+      servitudes: 4 Morgen
+      name_norm: Kinast Christian
+      name_lang: de
+      norm_conf: firm
+      mark: false
+    - n: 86
+      name: Khaupt Gotfrid
+      name_1868: Khaupt Gotfrid
+      changed: false
+      total: 4 des 588 saz
+      morgen: 4
+      rods: 37
+      dues: 4 r 37 k
+      servitudes: 4 Morgen
+      name_norm: Haupt Gottfried
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 87
+      name: Khaupt Vilgelm
+      name_1868: Khaupt Vilgelm
+      changed: false
+      total: 7 des 2330 saz
+      morgen: 14
+      rods: 179
+      dues: 14 r 179 k
+      servitudes: 4 Morgen
+      name_norm: Haupt Wilhelm
+      name_lang: de
+      norm_conf: firm
+      mark: true
+    - n: 88
+      name: German Voitsekh
+      name_1868: German Voitsekh
+      changed: false
+      total: 2 des 2219 saz
+      morgen: 1
+      rods: 288
+      dues: 1 r 288 k
+      servitudes: 4 Morgen
+      name_norm: Hermann Wojciech
+      name_lang: de
+      norm_conf: conjectural
+      norm_note: Германъ as surname → Hermann; the given name is Polish (Wojciech)
+      mark: false
+    - n: 89
+      name: heirs of Tarnovskago Mikhaila
+      name_1868: heirs of Tarnovskago Mikhaila
+      changed: false
+      total: 2 des 1774 saz
+      morgen: 2
+      rods: 30
+      dues: 2 r 30 k
+      servitudes: 4 Morgen
+      name_norm: heirs of Michał Tarnowski
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 90
+      name: Rogovich Martin
+      name_1868: Martsin Rogovich
+      changed: false
+      total: 2 des 749 saz
+      morgen: null
+      rods: 193
+      dues: ''
+      servitudes: 4 Morgen
+      name_norm: Rogowicz Marcin
+      name_lang: pl
+      norm_conf: conjectural
+      norm_note: '(also possible: Rogowitz)'
+      mark: true
+    - n: 91
+      name: Marylskii Ivan
+      name_1868: Marylskii Ivan
+      changed: false
+      total: 4 des 2003 saz
+      morgen: 5
+      rods: 98
+      dues: 5 r 98 k
+      servitudes: 4 Morgen
+      name_norm: Marylski Jan
+      name_lang: pl
+      norm_conf: firm
+      mark: true
+    - n: 92
+      name: Village school
+      name_1868: Farmstead of the village school
+      changed: false
+      total: 9 des 2219 saz
+      morgen: 20
+      rods: 218
+      dues: 20 r 218 k
+      servitudes: null
+      name_norm: Szkoła wiejska
+      name_de: Dorfschule
+      name_lang: pl
+      norm_note: ''
+      norm_conf: firm
+      institution: true
+      mark: true
+    - n: 93
+      name: Common cemetery
+      name_1868: Common cemetery
+      changed: false
+      total: 1 des 1320 saz
+      morgen: 2
+      rods: 282
+      dues: 2 r 282 k
+      servitudes: null
+      name_norm: Cmentarz wspólny
+      name_de: Gemeindefriedhof
+      name_lang: pl
+      norm_note: ''
+      norm_conf: firm
+      institution: true
+      mark: true
+    - n: 94
+      name: Plot of common land
+      name_1868: Plot of common land
+      changed: false
+      total: 0 des 1881 saz
+      morgen: 1
+      rods: 89
+      dues: 1 r 89 k
+      servitudes: null
+      name_norm: Działka gruntów wspólnych
+      name_de: Allmende
+      name_lang: pl
+      norm_note: ''
+      norm_conf: conjectural
+      institution: true
+      mark: false
+    - n: 95
+      name: The village headman's plot
+      name_1868: The village headman's plot
+      changed: false
+      total: 1 des 612 saz
+      morgen: 2
+      rods: 263
+      dues: 2 r 263 k
+      servitudes: null
+      name_norm: Działka sołtysa
+      name_de: Schulzengrundstück
+      name_lang: pl
+      norm_note: ''
+      norm_conf: firm
+      institution: true
+      mark: false
+    - n: 96
+      name: Reikh Kristiian
+      name_1868: Reikh Kristiian
+      changed: false
+      total: 2 des 1319 saz
+      morgen: 1
+      rods: null
+      dues: 1 r .. k
+      servitudes: 4 Morgen
+      name_norm: Reich Christian
+      name_lang: de
+      norm_conf: firm
+      norm_note: the 1896 columns are dotted (..) and the name duplicates farm 72 - the same man's second
+        plot, or a clerical repetition; check the scan
+      mark: false
+    - n: 97
+      name: Roads
+      name_1868: Under roads
+      changed: false
+      total: ''
+      morgen: 6
+      rods: 242
+      dues: 6 r 242 k
+      servitudes: null
+      name_norm: Drogi
+      name_de: Wege
+      name_lang: pl
+      norm_note: Подъ дорогами, under the roads — shown simply as Roads
+      norm_conf: firm
+      institution: true
+      mark: false
+    polygons:
+    - farm: 1
+      pts:
+      - - 8376
+        - 4018
+      - - 8621
+        - 3893
+      - - 8792
+        - 3842
+      - - 8842
+        - 3812
+      - - 8883
+        - 3776
+      - - 9595
+        - 4337
+      - - 9459
+        - 4535
+      - - 9436
+        - 4641
+      - - 9415
+        - 4683
+      - - 9603
+        - 4758
+      - - 9644
+        - 5169
+      - - 9265
+        - 4937
+    - farm: 2
+      pts:
+      - - 9243
+        - 5580
+      - - 9063
+        - 5534
+      - - 8918
+        - 5585
+      - - 8910
+        - 5600
+      - - 8777
+        - 5652
+      - - 8787
+        - 5496
+      - - 8648
+        - 5394
+      - - 8271
+        - 5392
+      - - 8054
+        - 4578
+      - - 7941
+        - 4430
+      - - 8378
+        - 4017
+      - - 9262
+        - 4936
+    - farm: 3
+      pts:
+      - - 9271
+        - 4947
+      - - 9250
+        - 5592
+      - - 9066
+        - 5548
+      - - 8776
+        - 5653
+      - - 8760
+        - 5878
+      - - 8837
+        - 6107
+      - - 8858
+        - 6172
+      - - 8874
+        - 6295
+      - - 8874
+        - 6380
+      - - 8857
+        - 6484
+      - - 8822
+        - 6687
+      - - 8838
+        - 6729
+      - - 8818
+        - 6917
+      - - 8905
+        - 7116
+      - - 10063
+        - 6871
+      - - 9992
+        - 6644
+      - - 9907
+        - 6486
+      - - 10203
+        - 6417
+      - - 10216
+        - 5532
+    - farm: 82
+      pts:
+      - - 6048
+        - 6405
+      - - 5845
+        - 6476
+      - - 5664
+        - 6553
+      - - 5646
+        - 6544
+      - - 5334
+        - 6666
+      - - 5335
+        - 6674
+      - - 4823
+        - 6878
+      - - 5057
+        - 7352
+      - - 5169
+        - 7306
+      - - 5653
+        - 7121
+      - - 6264
+        - 6873
+      - - 6217
+        - 6790
+      - - 6144
+        - 6640
+      - - 6088
+        - 6495
+    - farm: 17
+      pts:
+      - - 4659
+        - 6385
+      - - 4461
+        - 6904
+      - - 4460
+        - 7222
+      - - 4475
+        - 7435
+      - - 4539
+        - 7463
+      - - 4639
+        - 7511
+      - - 5058
+        - 7351
+      - - 4824
+        - 6877
+      - - 4809
+        - 6764
+      - - 4674
+        - 6407
+    - farm: 15
+      pts:
+      - - 4021
+        - 6889
+      - - 4025
+        - 7260
+      - - 4209
+        - 7370
+      - - 4476
+        - 7435
+      - - 4460
+        - 7220
+      - - 4460
+        - 6870
+    - farm: 83
+      pts:
+      - - 4524
+        - 6147
+      - - 4283
+        - 6877
+      - - 4460
+        - 6871
+      - - 4460
+        - 6900
+      - - 4660
+        - 6386
+    - farm: 14
+      pts:
+      - - 4103
+        - 5580
+      - - 4482
+        - 6060
+      - - 4524
+        - 6146
+      - - 4284
+        - 6881
+      - - 4022
+        - 6890
+      - - 4025
+        - 7260
+      - - 3791
+        - 7109
+      - - 3687
+        - 7032
+      - - 3579
+        - 6915
+    - farm: 13
+      pts:
+      - - 4478
+        - 5415
+      - - 4797
+        - 5802
+      - - 5018
+        - 6198
+      - - 5036
+        - 6219
+      - - 5143
+        - 6738
+      - - 5335
+        - 6666
+      - - 5646
+        - 6546
+      - - 5512
+        - 6171
+      - - 5501
+        - 6150
+      - - 5233
+        - 5467
+      - - 4894
+        - 5230
+      - - 4766
+        - 5281
+    - farm: 10
+      pts:
+      - - 6059
+        - 6391
+      - - 6311
+        - 6283
+      - - 6478
+        - 6595
+      - - 6707
+        - 6500
+      - - 6872
+        - 6855
+      - - 6644
+        - 6987
+      - - 6793
+        - 7272
+      - - 6690
+        - 7323
+      - - 6667
+        - 7333
+      - - 6521
+        - 7351
+      - - 6334
+        - 7400
+      - - 6273
+        - 7416
+      - - 6100
+        - 7483
+      - - 5883
+        - 7541
+      - - 5697
+        - 7570
+      - - 5002
+        - 7687
+      - - 4638
+        - 7512
+      - - 5058
+        - 7351
+      - - 5176
+        - 7301
+      - - 5667
+        - 7115
+      - - 6264
+        - 6872
+      - - 6211
+        - 6779
+      - - 6142
+        - 6640
+    - farm: 6
+      pts:
+      - - 7774
+        - 4587
+      - - 7890
+        - 4796
+      - - 8087
+        - 5247
+      - - 8339
+        - 5838
+      - - 8377
+        - 5795
+      - - 8055
+        - 4580
+      - - 7942
+        - 4432
+    - farm: 7
+      pts:
+      - - 7655
+        - 4697
+      - - 7775
+        - 4588
+      - - 7890
+        - 4795
+      - - 8340
+        - 5837
+      - - 8309
+        - 5869
+      - - 8190
+        - 5615
+      - - 8050
+        - 5330
+    - farm: 7
+      pts:
+      - - 7656
+        - 4698
+      - - 8051
+        - 5331
+      - - 8310
+        - 5868
+      - - 8239
+        - 5934
+      - - 8214
+        - 5872
+      - - 7916
+        - 5424
+      - - 7496
+        - 5182
+      - - 7232
+        - 5118
+    - farm: 8
+      pts:
+      - - 5882
+        - 5161
+      - - 6030
+        - 5464
+      - - 6051
+        - 5496
+      - - 6133
+        - 5557
+      - - 6610
+        - 5478
+      - - 6438
+        - 5169
+      - - 7094
+        - 4880
+      - - 7233
+        - 5117
+      - - 7613
+        - 4741
+      - - 6331
+        - 5059
+      - - 6305
+        - 4997
+      - - 6007
+        - 5063
+      - - 6013
+        - 5128
+    - farm: 12
+      pts:
+      - - 4108
+        - 5571
+      - - 4145
+        - 5470
+      - - 4230
+        - 5528
+      - - 4345
+        - 5474
+      - - 4471
+        - 5418
+      - - 4793
+        - 5812
+      - - 5013
+        - 6203
+      - - 5027
+        - 6222
+      - - 5138
+        - 6741
+      - - 4824
+        - 6868
+      - - 4809
+        - 6765
+      - - 4674
+        - 6406
+      - - 4659
+        - 6385
+      - - 4525
+        - 6146
+      - - 4483
+        - 6059
+    - farm: 8
+      pts:
+      - - 3571
+        - 6925
+      - - 3486
+        - 7155
+      - - 3400
+        - 7372
+      - - 3315
+        - 7593
+      - - 3220
+        - 7830
+      - - 3517
+        - 7815
+      - - 3784
+        - 7119
+      - - 3685
+        - 7047
+    - farm: 17
+      pts:
+      - - 3785
+        - 7121
+      - - 4021
+        - 7272
+      - - 3850
+        - 7794
+      - - 3518
+        - 7815
+    - farm: 16
+      pts:
+      - - 4021
+        - 7275
+      - - 4196
+        - 7375
+      - - 4341
+        - 7413
+      - - 4010
+        - 8003
+      - - 3850
+        - 7795
+    - farm: 17
+      pts:
+      - - 4341
+        - 7413
+      - - 4472
+        - 7448
+      - - 4592
+        - 7504
+      - - 4204
+        - 8115
+      - - 4057
+        - 8066
+      - - 4010
+        - 8003
+    - farm: 84
+      pts:
+      - - 2976
+        - 8538
+      - - 3560
+        - 8803
+      - - 3486
+        - 8973
+      - - 3414
+        - 9131
+      - - 2849
+        - 8873
+    - farm: 86
+      pts:
+      - - 2849
+        - 8874
+      - - 3413
+        - 9130
+      - - 3277
+        - 9432
+      - - 2732
+        - 9191
+    - farm: 87
+      pts:
+      - - 3484
+        - 8974
+      - - 4068
+        - 9238
+      - - 4004
+        - 9401
+      - - 4098
+        - 9445
+      - - 4071
+        - 9506
+      - - 4408
+        - 9660
+      - - 4304
+        - 9915
+      - - 3274
+        - 9449
+      - - 3276
+        - 9432
+    - farm: 29
+      pts:
+      - - 3949
+        - 8259
+      - - 4642
+        - 8635
+      - - 4385
+        - 9191
+      - - 4565
+        - 9279
+      - - 4408
+        - 9658
+      - - 4076
+        - 9503
+      - - 4099
+        - 9445
+      - - 4006
+        - 9396
+      - - 4069
+        - 9236
+      - - 3484
+        - 8972
+      - - 3558
+        - 8804
+      - - 3625
+        - 8835
+    - farm: 29
+      pts:
+      - - 3907
+        - 7869
+      - - 3425
+        - 8728
+      - - 3600
+        - 8808
+      - - 4036
+        - 8039
+    - farm: 25
+      pts:
+      - - 3746
+        - 7799
+      - - 3850
+        - 7794
+      - - 3907
+        - 7868
+      - - 3425
+        - 8728
+      - - 3273
+        - 8661
+    - farm: 10
+      pts:
+      - - 3526
+        - 7813
+      - - 3745
+        - 7801
+      - - 3274
+        - 8661
+      - - 3097
+        - 8576
+    - farm: 5
+      pts:
+      - - 3221
+        - 7830
+      - - 3524
+        - 7815
+      - - 3097
+        - 8576
+      - - 2982
+        - 8523
+      - - 3139
+        - 8087
+      - - 3130
+        - 8075
+    - farm: 30
+      pts:
+      - - 4157
+        - 10253
+      - - 4409
+        - 9658
+      - - 4482
+        - 9702
+      - - 4694
+        - 9855
+      - - 4704
+        - 9799
+      - - 4822
+        - 9827
+      - - 4978
+        - 9851
+      - - 5165
+        - 9909
+      - - 4786
+        - 10522
+    - farm: 85
+      pts:
+      - - 4525
+        - 9402
+      - - 4750
+        - 9513
+      - - 4695
+        - 9793
+      - - 4685
+        - 9848
+      - - 4483
+        - 9699
+      - - 4407
+        - 9657
+    - farm: 6
+      pts:
+      - - 6645
+        - 6987
+      - - 7251
+        - 6645
+      - - 7420
+        - 6575
+      - - 7880
+        - 6369
+      - - 8329
+        - 6177
+      - - 8453
+        - 6478
+      - - 7460
+        - 6912
+      - - 7292
+        - 6991
+      - - 7198
+        - 7038
+      - - 7091
+        - 7111
+      - - 6792
+        - 7271
+    - farm: 7
+      pts:
+      - - 6874
+        - 6855
+      - - 6709
+        - 6502
+      - - 7297
+        - 6255
+      - - 7691
+        - 6087
+      - - 8215
+        - 5875
+      - - 8330
+        - 6178
+      - - 7258
+        - 6641
+    - farm: 9
+      pts:
+      - - 5987
+        - 6403
+      - - 5927
+        - 6118
+      - - 6082
+        - 6140
+      - - 6335
+        - 5874
+      - - 6417
+        - 5510
+      - - 6612
+        - 5478
+      - - 6634
+        - 5539
+      - - 6711
+        - 5900
+      - - 6913
+        - 5974
+      - - 7674
+        - 5866
+      - - 7691
+        - 6087
+      - - 6478
+        - 6596
+      - - 6311
+        - 6265
+    - farm: 18
+      pts:
+      - - 7093
+        - 4880
+      - - 7233
+        - 5116
+      - - 7497
+        - 5183
+      - - 7917
+        - 5423
+      - - 8216
+        - 5875
+      - - 7692
+        - 6084
+      - - 7675
+        - 5864
+      - - 6913
+        - 5972
+      - - 6710
+        - 5896
+      - - 6632
+        - 5530
+      - - 6607
+        - 5475
+      - - 6437
+        - 5169
+    - farm: 26
+      pts:
+      - - 8272
+        - 5392
+      - - 8638
+        - 5395
+      - - 8778
+        - 5498
+      - - 8748
+        - 5878
+      - - 8825
+        - 6107
+      - - 8847
+        - 6169
+      - - 8857
+        - 6255
+      - - 8863
+        - 6308
+      - - 8863
+        - 6387
+      - - 8847
+        - 6485
+      - - 8510
+        - 6493
+      - - 8461
+        - 6473
+      - - 8250
+        - 5944
+      - - 8376
+        - 5795
+    - farm: 20
+      pts:
+      - - 6829
+        - 8172
+      - - 6780
+        - 8319
+      - - 6926
+        - 8375
+      - - 7312
+        - 8572
+      - - 7426
+        - 8634
+      - - 7478
+        - 8591
+      - - 7535
+        - 8555
+      - - 8508
+        - 8304
+      - - 8437
+        - 8008
+      - - 8085
+        - 7912
+      - - 8044
+        - 7891
+      - - 7801
+        - 7666
+      - - 7563
+        - 7813
+      - - 7322
+        - 7977
+      - - 7150
+        - 8062
+      - - 7069
+        - 8157
+    - farm: 31
+      pts:
+      - - 5236
+        - 10009
+      - - 5133
+        - 9961
+      - - 4787
+        - 10520
+      - - 4891
+        - 10562
+    - farm: 32
+      pts:
+      - - 5250
+        - 10003
+      - - 5378
+        - 10060
+      - - 5179
+        - 10697
+      - - 4897
+        - 10565
+    - farm: 62
+      pts:
+      - - 5302
+        - 10308
+      - - 5498
+        - 10397
+      - - 5379
+        - 10780
+      - - 5178
+        - 10696
+    - farm: 26
+      pts:
+      - - 4412
+        - 7787
+      - - 4949
+        - 8049
+      - - 4934
+        - 8140
+      - - 5097
+        - 8176
+      - - 5692
+        - 8647
+      - - 6065
+        - 8940
+      - - 6009
+        - 9073
+      - - 6072
+        - 9232
+      - - 6067
+        - 9311
+      - - 4914
+        - 8794
+      - - 4802
+        - 8739
+      - - 4564
+        - 9280
+      - - 4386
+        - 9188
+      - - 4642
+        - 8634
+      - - 3948
+        - 8260
+      - - 4058
+        - 8066
+      - - 4203
+        - 8113
+    - farm: 84
+      pts:
+      - - 4590
+        - 7503
+      - - 4992
+        - 7701
+      - - 4949
+        - 8048
+      - - 4414
+        - 7784
+    - farm: 19
+      pts:
+      - - 4993
+        - 7705
+      - - 4934
+        - 8139
+      - - 5098
+        - 8176
+      - - 5131
+        - 8018
+      - - 6090
+        - 8170
+      - - 6138
+        - 8045
+      - - 6210
+        - 7917
+      - - 6245
+        - 7840
+      - - 6311
+        - 7742
+      - - 6385
+        - 7630
+      - - 6398
+        - 7583
+      - - 6425
+        - 7553
+      - - 6425
+        - 7502
+      - - 6501
+        - 7476
+      - - 6513
+        - 7371
+      - - 6283
+        - 7430
+      - - 6107
+        - 7499
+      - - 5998
+        - 7527
+      - - 5869
+        - 7565
+      - - 5793
+        - 7579
+      - - 5610
+        - 7611
+    - farm: 25
+      pts:
+      - - 5128
+        - 8016
+      - - 5097
+        - 8175
+      - - 6064
+        - 8940
+      - - 6386
+        - 8207
+      - - 6092
+        - 8169
+    - farm: 23
+      pts:
+      - - 7077
+        - 8461
+      - - 6775
+        - 9095
+      - - 6933
+        - 9271
+      - - 6846
+        - 9435
+      - - 6828
+        - 9433
+      - - 6797
+        - 9611
+      - - 6795
+        - 9775
+      - - 6828
+        - 9911
+      - - 6668
+        - 10215
+      - - 6669
+        - 10313
+      - - 6511
+        - 10315
+      - - 6399
+        - 10304
+      - - 6442
+        - 10631
+      - - 6758
+        - 10723
+      - - 6875
+        - 11279
+      - - 6999
+        - 11072
+      - - 6981
+        - 10812
+      - - 6897
+        - 10764
+      - - 7079
+        - 10481
+      - - 7150
+        - 10535
+      - - 7174
+        - 10524
+      - - 7281
+        - 10303
+      - - 7684
+        - 9626
+      - - 7529
+        - 9660
+      - - 7452
+        - 9275
+      - - 7646
+        - 8842
+      - - 7522
+        - 8704
+      - - 7677
+        - 8641
+      - - 7641
+        - 8530
+      - - 7534
+        - 8557
+      - - 7476
+        - 8590
+      - - 7419
+        - 8643
+      - - 7308
+        - 8585
+    - farm: 49
+      pts:
+      - - 9466
+        - 6998
+      - - 9697
+        - 8033
+      - - 10191
+        - 8104
+      - - 10338
+        - 8071
+      - - 10423
+        - 8030
+      - - 10784
+        - 7968
+      - - 10784
+        - 7325
+      - - 10619
+        - 7348
+      - - 10605
+        - 7498
+      - - 10387
+        - 7493
+      - - 10380
+        - 7378
+      - - 10265
+        - 7403
+      - - 10177
+        - 7215
+      - - 10063
+        - 6872
+    poly_calibration:
+      px2_per_saz: 28.4
+      note: approximate (~0.4 m/px)
+  reds:
+  - n: '56'
+    x: 13055
+    y: 12136
+    unsure: false
+  - n: '77'
+    x: 20819
+    y: 10961
+    unsure: false
+  - n: '49'
+    x: 9767
+    y: 8576
+    unsure: false
+  - n: '18'
+    x: 7977
+    y: 5720
+    unsure: false
+  - n: '66'
+    x: 16880
+    y: 11339
+    unsure: false
+  - n: '29'
+    x: 4143
+    y: 9228
+    unsure: false
+  - n: '10'
+    x: 6583
+    y: 6713
+    unsure: false
+  - n: '68'
+    x: 17046
+    y: 12149
+    unsure: false
+  - n: '51'
+    x: 10248
+    y: 6539
+    unsure: false
+  - n: '26'
+    x: 8501
+    y: 6013
+    unsure: false
+  - n: '63'
+    x: 16944
+    y: 11610
+    unsure: false
+  - n: '23'
+    x: 6873
+    y: 10457
+    unsure: false
+  - n: '35'
+    x: 6584
+    y: 10925
+    unsure: false
+  - n: '59'
+    x: 14616
+    y: 11393
+    unsure: false
+  - n: '42'
+    x: 9945
+    y: 12302
+    unsure: false
+  - n: '66'
+    x: 14834
+    y: 10951
+    unsure: false
+  - n: '56'
+    x: 13233
+    y: 12866
+    unsure: false
+  - n: '55'
+    x: 12191
+    y: 12540
+    unsure: false
+  - n: '24'
+    x: 10977
+    y: 12673
+    unsure: false
+  - n: '36'
+    x: 15318
+    y: 11667
+    unsure: false
+  - n: '46'
+    x: 10840
+    y: 9953
+    unsure: false
+  - n: '97'
+    x: 19384
+    y: 11443
+    unsure: false
+  - n: '36'
+    x: 7440
+    y: 10411
+    unsure: false
+  - n: '27'
+    x: 5852
+    y: 10279
+    unsure: false
+  - n: '80'
+    x: 13437
+    y: 12106
+    unsure: false
+  - n: '67'
+    x: 14690
+    y: 12542
+    unsure: false
+  - n: '24'
+    x: 6142
+    y: 10553
+    unsure: false
+  - n: '44'
+    x: 10226
+    y: 11430
+    unsure: false
+  - n: '20'
+    x: 11043
+    y: 12485
+    unsure: false
+  - n: 4[5?]
+    x: 10162
+    y: 10780
+    unsure: true
+  - n: '[25?]'
+    x: 12577
+    y: 8819
+    unsure: true
+  - n: '43'
+    x: 10438
+    y: 13417
+    unsure: false
+  - n: '52'
+    x: 12637
+    y: 8186
+    unsure: false
+  - n: '73'
+    x: 20310
+    y: 11707
+    unsure: false
+  - n: '[9?]5'
+    x: 9527
+    y: 10779
+    unsure: true
+  - n: '26'
+    x: 5362
+    y: 8532
+    unsure: false
+  - n: '29'
+    x: 4152
+    y: 8832
+    unsure: false
+  - n: '25'
+    x: 3671
+    y: 8108
+    unsure: false
+  - n: '26'
+    x: 4527
+    y: 8255
+    unsure: false
+  - n: '58'
+    x: 16173
+    y: 13399
+    unsure: false
+  - n: '24'
+    x: 6421
+    y: 8599
+    unsure: false
+  - n: '23'
+    x: 6333
+    y: 10971
+    unsure: false
+  - n: '[55?]'
+    x: 12550
+    y: 9127
+    unsure: true
+  - n: '27'
+    x: 5933
+    y: 9793
+    unsure: false
+  - n: '[55?]'
+    x: 8680
+    y: 10903
+    unsure: true
+  - n: '19'
+    x: 5244
+    y: 7700
+    unsure: false
+  - n: '27'
+    x: 5508
+    y: 10243
+    unsure: false
+  - n: '61'
+    x: 16708
+    y: 10898
+    unsure: false
+  - n: '30'
+    x: 4815
+    y: 10306
+    unsure: false
+  - n: '24'
+    x: 6884
+    y: 8622
+    unsure: false
+  - n: '2'
+    x: 9037
+    y: 5251
+    unsure: false
+  - n: '[?][4?]'
+    x: 9957
+    y: 10782
+    unsure: true
+  - n: '34'
+    x: 5595
+    y: 9733
+    unsure: false
+  - n: '21'
+    x: 8606
+    y: 8536
+    unsure: false
+  - n: '26'
+    x: 8632
+    y: 5556
+    unsure: false
+  - n: '23'
+    x: 7144
+    y: 9230
+    unsure: false
+  - n: '23'
+    x: 6951
+    y: 11273
+    unsure: false
+  - n: '84'
+    x: 4658
+    y: 7652
+    unsure: false
+  - n: '20'
+    x: 6956
+    y: 8195
+    unsure: false
+  - n: '73'
+    x: 19925
+    y: 11817
+    unsure: false
+  - n: '40'
+    x: 8914
+    y: 11059
+    unsure: false
+  - n: '14'
+    x: 4220
+    y: 5961
+    unsure: false
+  - n: '24'
+    x: 6358
+    y: 9347
+    unsure: false
+  - n: '61'
+    x: 16694
+    y: 10384
+    unsure: false
+  - n: '6'
+    x: 8136
+    y: 5134
+    unsure: false
+  - n: '53'
+    x: 12088
+    y: 7207
+    unsure: false
+  - n: '11'
+    x: 6039
+    y: 5747
+    unsure: false
+  - n: '12'
+    x: 4754
+    y: 6062
+    unsure: false
+  - n: '7'
+    x: 7907
+    y: 6209
+    unsure: false
+  - n: '8'
+    x: 6297
+    y: 5245
+    unsure: false
+  - n: '56'
+    x: 9191
+    y: 13325
+    unsure: false
+  - n: '97'
+    x: 15521
+    y: 11720
+    unsure: false
+  - n: '10'
+    x: 5225
+    y: 7433
+    unsure: false
+  - n: '82'
+    x: 5891
+    y: 6653
+    unsure: false
+  - n: '97'
+    x: 10124
+    y: 12927
+    unsure: false
+  - n: '87'
+    x: 3718
+    y: 9213
+    unsure: false
+  - n: '9'
+    x: 7041
+    y: 6137
+    unsure: false
+  - n: '62'
+    x: 5306
+    y: 10498
+    unsure: false
+  - n: '97'
+    x: 8924
+    y: 6476
+    unsure: false
+  - n: '11'
+    x: 5496
+    y: 5540
+    unsure: false
+  - n: '71'
+    x: 19539
+    y: 12679
+    unsure: false
+  - n: '18'
+    x: 6969
+    y: 5103
+    unsure: false
+  - n: '97'
+    x: 16148
+    y: 10846
+    unsure: false
+  - n: '81'
+    x: 14705
+    y: 7649
+    unsure: false
+  - n: '14'
+    x: 4140
+    y: 6429
+    unsure: false
+  - n: '73'
+    x: 19357
+    y: 11807
+    unsure: false
+  - n: '23'
+    x: 7408
+    y: 9788
+    unsure: false
+  - n: '33'
+    x: 11204
+    y: 12158
+    unsure: false
+  - n: '66'
+    x: 18539
+    y: 11913
+    unsure: false
+  - n: '83'
+    x: 13037
+    y: 12883
+    unsure: false
+  - n: '37'
+    x: 15603
+    y: 13403
+    unsure: false
+  - n: '89'
+    x: 10869
+    y: 13426
+    unsure: false
+  - n: '49'
+    x: 10024
+    y: 8490
+    unsure: false
+  - n: '1'
+    x: 9033
+    y: 4455
+    unsure: false
+  - n: '82'
+    x: 5329
+    y: 6913
+    unsure: false
+  - n: '23'
+    x: 7601
+    y: 8572
+    unsure: false
+  - n: '83'
+    x: 4516
+    y: 6475
+    unsure: false
+  - n: '17'
+    x: 4675
+    y: 6755
+    unsure: false
+  - n: '15'
+    x: 4277
+    y: 7019
+    unsure: false
+  - n: '15'
+    x: 4298
+    y: 7243
+    unsure: false
+  - n: '97'
+    x: 4379
+    y: 7396
+    unsure: false
+  - n: '17'
+    x: 4351
+    y: 7592
+    unsure: false
+  - n: '16'
+    x: 4099
+    y: 7482
+    unsure: false
+  - n: '14'
+    x: 3829
+    y: 7315
+    unsure: false
+  - n: '14'
+    x: 3884
+    y: 7036
+    unsure: false
+  - n: '8'
+    x: 3635
+    y: 7024
+    unsure: false
+  - n: '8'
+    x: 3563
+    y: 7327
+    unsure: false
+  - n: '97'
+    x: 3746
+    y: 7084
+    unsure: false
+  - n: '5'
+    x: 3250
+    y: 8102
+    unsure: false
+  - n: '10'
+    x: 3474
+    y: 8102
+    unsure: false
+  - n: '29'
+    x: 3877
+    y: 8113
+    unsure: false
+  - n: '97'
+    x: 3286
+    y: 8656
+    unsure: false
+  - n: '84'
+    x: 3216
+    y: 8753
+    unsure: false
+  - n: '97'
+    x: 2877
+    y: 8810
+    unsure: false
+  - n: '86'
+    x: 3136
+    y: 9106
+    unsure: false
+  - n: '87'
+    x: 4056
+    y: 9553
+    unsure: false
+  - n: '80'
+    x: 4532
+    y: 9775
+    unsure: false
+  - n: '85'
+    x: 4579
+    y: 9582
+    unsure: false
+  - n: '33'
+    x: 4872
+    y: 9979
+    unsure: false
+  - n: '26'
+    x: 4638
+    y: 8805
+    unsure: false
+  - n: '33'
+    x: 5175
+    y: 9148
+    unsure: false
+  - n: '33'
+    x: 5679
+    y: 9322
+    unsure: false
+  - n: '26'
+    x: 4316
+    y: 8343
+    unsure: false
+  - n: '97'
+    x: 4238
+    y: 7817
+    unsure: false
+  - n: '26'
+    x: 4550
+    y: 7940
+    unsure: false
+  - n: '97'
+    x: 3975
+    y: 8172
+    unsure: false
+  - n: '17'
+    x: 4671
+    y: 7083
+    unsure: false
+  - n: '17'
+    x: 4782
+    y: 7248
+    unsure: false
+  - n: '82'
+    x: 5121
+    y: 7294
+    unsure: false
+  - n: '13'
+    x: 5160
+    y: 5923
+    unsure: false
+  - n: '11'
+    x: 5863
+    y: 6185
+    unsure: false
+  - n: '9'
+    x: 6366
+    y: 5964
+    unsure: false
+  - n: '10'
+    x: 6012
+    y: 7280
+    unsure: false
+  - n: '10'
+    x: 6345
+    y: 7209
+    unsure: false
+  - n: '19'
+    x: 6207
+    y: 7566
+    unsure: false
+  - n: '97'
+    x: 6115
+    y: 7464
+    unsure: false
+  - n: '19'
+    x: 5725
+    y: 7819
+    unsure: false
+  - n: '5'
+    x: 6619
+    y: 7824
+    unsure: false
+  - n: '4'
+    x: 6947
+    y: 7853
+    unsure: false
+  - n: '37'
+    x: 7127
+    y: 8008
+    unsure: false
+  - n: '4'
+    x: 7161
+    y: 7687
+    unsure: false
+  - n: '97'
+    x: 7134
+    y: 7579
+    unsure: false
+  - n: '97'
+    x: 7014
+    y: 7141
+    unsure: false
+  - n: '6'
+    x: 7101
+    y: 6853
+    unsure: false
+  - n: '7'
+    x: 7062
+    y: 6465
+    unsure: false
+  - n: '18'
+    x: 6839
+    y: 5579
+    unsure: false
+  - n: '8'
+    x: 6817
+    y: 4961
+    unsure: false
+  - n: '80'
+    x: 4444
+    y: 10033
+    unsure: false
+  - n: '31'
+    x: 5005
+    y: 10227
+    unsure: false
+  - n: '32'
+    x: 5184
+    y: 10396
+    unsure: false
+  - n: '62'
+    x: 5428
+    y: 10503
+    unsure: false
+  - n: '32'
+    x: 5287
+    y: 10071
+    unsure: false
+  - n: '34'
+    x: 5473
+    y: 9903
+    unsure: false
+  - n: '27'
+    x: 5658
+    y: 10071
+    unsure: false
+  - n: '23'
+    x: 6580
+    y: 10362
+    unsure: false
+  - n: '36'
+    x: 7204
+    y: 10654
+    unsure: false
+  - n: '23'
+    x: 7075
+    y: 9889
+    unsure: false
+  - n: '23'
+    x: 6977
+    y: 8798
+    unsure: false
+  - n: '8'
+    x: 7220
+    y: 4916
+    unsure: false
+  - n: '25'
+    x: 5682
+    y: 8216
+    unsure: false
+  - n: '38'
+    x: 7080
+    y: 11328
+    unsure: false
+  - n: '97'
+    x: 7184
+    y: 11320
+    unsure: false
+  - n: '38'
+    x: 7145
+    y: 11214
+    unsure: false
+  - n: '8'
+    x: 7381
+    y: 4834
+    unsure: false
+  - n: '10'
+    x: 7818
+    y: 5201
+    unsure: false
+  - n: '7'
+    x: 7991
+    y: 5152
+    unsure: false
+  - n: '18'
+    x: 7481
+    y: 5540
+    unsure: false
+  - n: '2'
+    x: 8354
+    y: 5269
+    unsure: false
+  - n: '2'
+    x: 8452
+    y: 5093
+    unsure: false
+  - n: '2'
+    x: 8601
+    y: 4609
+    unsure: false
+  - n: '1'
+    x: 9052
+    y: 4140
+    unsure: false
+  - n: '[9?]4'
+    x: 9546
+    y: 4546
+    unsure: true
+  - n: '1'
+    x: 9456
+    y: 4833
+    unsure: false
+  - n: '3'
+    x: 9372
+    y: 5089
+    unsure: false
+  - n: '2'
+    x: 8847
+    y: 5572
+    unsure: false
+  - n: '3'
+    x: 8931
+    y: 5861
+    unsure: false
+  - n: '3'
+    x: 9897
+    y: 6109
+    unsure: false
+  - n: '3'
+    x: 9612
+    y: 5673
+    unsure: false
+  - n: '4'
+    x: 7878
+    y: 6945
+    unsure: false
+  - n: '4'
+    x: 7686
+    y: 7305
+    unsure: false
+  - n: '4'
+    x: 8270
+    y: 7300
+    unsure: false
+  - n: '4'
+    x: 8558
+    y: 6733
+    unsure: false
+  - n: '50'
+    x: 9082
+    y: 7107
+    unsure: false
+  - n: '50'
+    x: 9207
+    y: 7624
+    unsure: false
+  - n: '20'
+    x: 7782
+    y: 7754
+    unsure: false
+  - n: '4'
+    x: 7352
+    y: 7709
+    unsure: false
+  - n: '20'
+    x: 7886
+    y: 8073
+    unsure: false
+  - n: '20'
+    x: 8361
+    y: 8070
+    unsure: false
+  - n: '21'
+    x: 7908
+    y: 8580
+    unsure: false
+  - n: '23'
+    x: 7443
+    y: 8942
+    unsure: false
+  - n: '21'
+    x: 7795
+    y: 9233
+    unsure: false
+  - n: '21'
+    x: 8250
+    y: 9318
+    unsure: false
+  - n: '22'
+    x: 8602
+    y: 9283
+    unsure: false
+  - n: '97'
+    x: 8091
+    y: 9650
+    unsure: false
+  - n: '36'
+    x: 7792
+    y: 9781
+    unsure: false
+  - n: '37'
+    x: 8480
+    y: 9934
+    unsure: false
+  - n: '37'
+    x: 7977
+    y: 10333
+    unsure: false
+  - n: '37'
+    x: 8486
+    y: 10383
+    unsure: false
+  - n: '39'
+    x: 7810
+    y: 11047
+    unsure: false
+  - n: '35'
+    x: 7888
+    y: 11195
+    unsure: false
+  - n: '49'
+    x: 7922
+    y: 11258
+    unsure: false
+  - n: '16'
+    x: 9080
+    y: 10988
+    unsure: false
+  - n: '44'
+    x: 9517
+    y: 11467
+    unsure: false
+  - n: '41'
+    x: 9569
+    y: 12170
+    unsure: false
+  - n: '[3?]8'
+    x: 9738
+    y: 10778
+    unsure: true
+  - n: '[1?][?]'
+    x: 9328
+    y: 10773
+    unsure: true
+  - n: '48'
+    x: 10135
+    y: 12436
+    unsure: false
+  - n: '54'
+    x: 10419
+    y: 12482
+    unsure: false
+  - n: '44'
+    x: 10518
+    y: 12565
+    unsure: false
+  - n: '[5?]4'
+    x: 10654
+    y: 12538
+    unsure: true
+  - n: '62'
+    x: 9104
+    y: 13315
+    unsure: false
+  - n: '2'
+    x: 9291
+    y: 13314
+    unsure: false
+  - n: '4'
+    x: 9396
+    y: 13314
+    unsure: false
+  - n: '41'
+    x: 9510
+    y: 13315
+    unsure: false
+  - n: '32'
+    x: 9628
+    y: 13319
+    unsure: false
+  - n: '31'
+    x: 9754
+    y: 13322
+    unsure: false
+  - n: 1[5?]
+    x: 9893
+    y: 13325
+    unsure: true
+  - n: '[3?]1'
+    x: 9230
+    y: 13184
+    unsure: true
+  - n: '40'
+    x: 10034
+    y: 13326
+    unsure: false
+  - n: '97'
+    x: 10145
+    y: 13801
+    unsure: false
+  - n: '42'
+    x: 10222
+    y: 13407
+    unsure: false
+  - n: '[2?]7'
+    x: 10879
+    y: 12857
+    unsure: true
+  - n: '[64?]'
+    x: 10908
+    y: 13085
+    unsure: true
+  - n: '[?]2'
+    x: 10923
+    y: 13248
+    unsure: true
+  - n: '97'
+    x: 11534
+    y: 12797
+    unsure: false
+  - n: '12'
+    x: 12054
+    y: 13243
+    unsure: false
+  - n: '13'
+    x: 12069
+    y: 13374
+    unsure: false
+  - n: '9'
+    x: 12092
+    y: 13095
+    unsure: false
+  - n: '32'
+    x: 12091
+    y: 12956
+    unsure: false
+  - n: '23'
+    x: 12134
+    y: 12835
+    unsure: false
+  - n: '21'
+    x: 12161
+    y: 12723
+    unsure: false
+  - n: '[5?]4'
+    x: 12310
+    y: 12464
+    unsure: true
+  - n: '55'
+    x: 12444
+    y: 12225
+    unsure: false
+  - n: '54'
+    x: 12726
+    y: 11763
+    unsure: false
+  - n: '54'
+    x: 12640
+    y: 11317
+    unsure: false
+  - n: '97'
+    x: 13265
+    y: 11173
+    unsure: false
+  - n: '44'
+    x: 13491
+    y: 10984
+    unsure: false
+  - n: '50'
+    x: 13922
+    y: 11122
+    unsure: false
+  - n: '[?][4?]'
+    x: 8959
+    y: 10217
+    unsure: true
+  - n: '97'
+    x: 9546
+    y: 9880
+    unsure: false
+  - n: '47'
+    x: 9547
+    y: 9747
+    unsure: false
+  - n: '47'
+    x: 9841
+    y: 9994
+    unsure: false
+  - n: '47'
+    x: 9854
+    y: 9817
+    unsure: false
+  - n: '92'
+    x: 9311
+    y: 9168
+    unsure: false
+  - n: '92'
+    x: 9687
+    y: 9164
+    unsure: false
+  - n: '33'
+    x: 10045
+    y: 9122
+    unsure: false
+  - n: '32'
+    x: 10126
+    y: 8860
+    unsure: false
+  - n: '92'
+    x: 9933
+    y: 8931
+    unsure: false
+  - n: '97'
+    x: 9672
+    y: 8761
+    unsure: false
+  - n: '47'
+    x: 9064
+    y: 8536
+    unsure: false
+  - n: '47'
+    x: 9372
+    y: 8506
+    unsure: false
+  - n: '47'
+    x: 9547
+    y: 8703
+    unsure: false
+  - n: '[32?]'
+    x: 9614
+    y: 8158
+    unsure: true
+  - n: '[32?]'
+    x: 9410
+    y: 8255
+    unsure: true
+  - n: '9'
+    x: 7389
+    y: 5999
+    unsure: false
+  - n: '6'
+    x: 7989
+    y: 6413
+    unsure: false
+  - n: '3'
+    x: 9361
+    y: 6773
+    unsure: false
+  - n: '49'
+    x: 9779
+    y: 7043
+    unsure: false
+  - n: '49'
+    x: 9834
+    y: 7296
+    unsure: false
+  - n: '49'
+    x: 10221
+    y: 7588
+    unsure: false
+  - n: '51'
+    x: 10552
+    y: 7258
+    unsure: false
+  - n: '51'
+    x: 10587
+    y: 6775
+    unsure: false
+  - n: '97'
+    x: 10759
+    y: 6759
+    unsure: false
+  - n: '51'
+    x: 10851
+    y: 7265
+    unsure: false
+  - n: '52'
+    x: 11038
+    y: 6511
+    unsure: false
+  - n: '97'
+    x: 10908
+    y: 6157
+    unsure: false
+  - n: 4[?]
+    x: 10573
+    y: 7652
+    unsure: true
+  - n: '28'
+    x: 10902
+    y: 7530
+    unsure: false
+  - n: '53'
+    x: 11296
+    y: 7327
+    unsure: false
+  - n: '53'
+    x: 11617
+    y: 7429
+    unsure: false
+  - n: '45'
+    x: 12427
+    y: 7209
+    unsure: false
+  - n: '91'
+    x: 12769
+    y: 7209
+    unsure: false
+  - n: '91'
+    x: 12648
+    y: 7266
+    unsure: false
+  - n: '91'
+    x: 12531
+    y: 7673
+    unsure: false
+  - n: '[73?]'
+    x: 12313
+    y: 7569
+    unsure: true
+  - n: '53'
+    x: 11654
+    y: 7021
+    unsure: false
+  - n: '97'
+    x: 12755
+    y: 7472
+    unsure: false
+  - n: '[?]4'
+    x: 13067
+    y: 7322
+    unsure: true
+  - n: '81'
+    x: 13071
+    y: 7215
+    unsure: false
+  - n: '[88?]'
+    x: 12807
+    y: 7694
+    unsure: true
+  - n: '97'
+    x: 12025
+    y: 8644
+    unsure: false
+  - n: '97'
+    x: 12627
+    y: 8675
+    unsure: false
+  - n: 1[6?]
+    x: 12575
+    y: 8926
+    unsure: true
+  - n: '[4?]7'
+    x: 12566
+    y: 9245
+    unsure: true
+  - n: '51'
+    x: 12427
+    y: 9381
+    unsure: false
+  - n: '57'
+    x: 12186
+    y: 9554
+    unsure: false
+  - n: 4[4?]
+    x: 12459
+    y: 9662
+    unsure: true
+  - n: '97'
+    x: 12774
+    y: 9907
+    unsure: false
+  - n: '97'
+    x: 10249
+    y: 8033
+    unsure: false
+  - n: '24'
+    x: 10377
+    y: 8229
+    unsure: false
+  - n: '23'
+    x: 10460
+    y: 8664
+    unsure: false
+  - n: '23'
+    x: 10913
+    y: 8668
+    unsure: false
+  - n: 7[2?]
+    x: 10055
+    y: 8163
+    unsure: true
+  - n: '[?][8?]'
+    x: 10729
+    y: 8059
+    unsure: true
+  - n: '92'
+    x: 10230
+    y: 9314
+    unsure: false
+  - n: '16'
+    x: 11451
+    y: 9067
+    unsure: false
+  - n: '46'
+    x: 11471
+    y: 9526
+    unsure: false
+  - n: '81'
+    x: 13058
+    y: 8409
+    unsure: false
+  - n: '81'
+    x: 13748
+    y: 7669
+    unsure: false
+  - n: '81'
+    x: 15336
+    y: 7328
+    unsure: false
+  - n: '45'
+    x: 11329
+    y: 10599
+    unsure: false
+  - n: '44'
+    x: 11333
+    y: 11395
+    unsure: false
+  - n: '44'
+    x: 11294
+    y: 11958
+    unsure: false
+  - n: '[5?][3?]'
+    x: 11094
+    y: 12344
+    unsure: true
+  - n: '97'
+    x: 12989
+    y: 13274
+    unsure: false
+  - n: '80'
+    x: 13462
+    y: 13073
+    unsure: false
+  - n: '47'
+    x: 14011
+    y: 13343
+    unsure: false
+  - n: '97'
+    x: 14246
+    y: 13553
+    unsure: false
+  - n: '53'
+    x: 14071
+    y: 12406
+    unsure: false
+  - n: '57'
+    x: 13718
+    y: 12434
+    unsure: false
+  - n: '96'
+    x: 14294
+    y: 12314
+    unsure: false
+  - n: '58'
+    x: 14436
+    y: 12507
+    unsure: false
+  - n: '86'
+    x: 14531
+    y: 12511
+    unsure: false
+  - n: '68'
+    x: 14821
+    y: 12539
+    unsure: false
+  - n: '[?][1?]'
+    x: 14932
+    y: 12541
+    unsure: true
+  - n: '96'
+    x: 14444
+    y: 13117
+    unsure: false
+  - n: '97'
+    x: 15478
+    y: 13896
+    unsure: false
+  - n: '35'
+    x: 15035
+    y: 13395
+    unsure: false
+  - n: 5[3?]
+    x: 14699
+    y: 13395
+    unsure: true
+  - n: '[39?]'
+    x: 14352
+    y: 13410
+    unsure: true
+  - n: '[39?]'
+    x: 14461
+    y: 13396
+    unsure: true
+  - n: '[3?]0'
+    x: 15326
+    y: 13395
+    unsure: true
+  - n: '[5?][7?]'
+    x: 15478
+    y: 13399
+    unsure: true
+  - n: '54'
+    x: 15821
+    y: 13398
+    unsure: false
+  - n: '49'
+    x: 16006
+    y: 13398
+    unsure: false
+  - n: '47'
+    x: 16316
+    y: 13403
+    unsure: false
+  - n: '59'
+    x: 14004
+    y: 11548
+    unsure: false
+  - n: '59'
+    x: 14668
+    y: 11583
+    unsure: false
+  - n: '[2?]8'
+    x: 12247
+    y: 10442
+    unsure: true
+  - n: '6'
+    x: 12457
+    y: 10438
+    unsure: false
+  - n: '7'
+    x: 12652
+    y: 10531
+    unsure: false
+  - n: '[3?]'
+    x: 12847
+    y: 10643
+    unsure: true
+  - n: '[?]7'
+    x: 13050
+    y: 10763
+    unsure: true
+  - n: '[3?]4'
+    x: 13269
+    y: 10865
+    unsure: true
+  - n: '97'
+    x: 14282
+    y: 10873
+    unsure: false
+  - n: '30'
+    x: 14539
+    y: 10956
+    unsure: false
+  - n: '97'
+    x: 14803
+    y: 10512
+    unsure: false
+  - n: '97'
+    x: 15350
+    y: 10336
+    unsure: false
+  - n: '97'
+    x: 15457
+    y: 10536
+    unsure: false
+  - n: '63'
+    x: 15123
+    y: 10826
+    unsure: false
+  - n: '61'
+    x: 15375
+    y: 10800
+    unsure: false
+  - n: '[5?]5'
+    x: 15605
+    y: 10802
+    unsure: true
+  - n: '97'
+    x: 15140
+    y: 11234
+    unsure: false
+  - n: '60'
+    x: 15269
+    y: 11453
+    unsure: false
+  - n: 1[6?]
+    x: 15270
+    y: 11536
+    unsure: true
+  - n: '39'
+    x: 15380
+    y: 11575
+    unsure: false
+  - n: '78'
+    x: 15225
+    y: 11836
+    unsure: false
+  - n: '79'
+    x: 15393
+    y: 11985
+    unsure: false
+  - n: '65'
+    x: 15432
+    y: 12262
+    unsure: false
+  - n: 7[5?]
+    x: 15438
+    y: 12135
+    unsure: true
+  - n: '77'
+    x: 15540
+    y: 12886
+    unsure: false
+  - n: '[53?]'
+    x: 15541
+    y: 13042
+    unsure: true
+  - n: '72'
+    x: 15510
+    y: 12429
+    unsure: false
+  - n: '73'
+    x: 15532
+    y: 12575
+    unsure: false
+  - n: '76'
+    x: 15485
+    y: 12743
+    unsure: false
+  - n: '47'
+    x: 16459
+    y: 13491
+    unsure: false
+  - n: '70'
+    x: 16637
+    y: 13544
+    unsure: false
+  - n: '70'
+    x: 16994
+    y: 13577
+    unsure: false
+  - n: '69'
+    x: 16552
+    y: 12841
+    unsure: false
+  - n: '68'
+    x: 17197
+    y: 12441
+    unsure: false
+  - n: '69'
+    x: 17270
+    y: 12688
+    unsure: false
+  - n: '66'
+    x: 16991
+    y: 11793
+    unsure: false
+  - n: '65'
+    x: 17437
+    y: 11307
+    unsure: false
+  - n: '97'
+    x: 17520
+    y: 10355
+    unsure: false
+  - n: '61'
+    x: 18021
+    y: 10332
+    unsure: false
+  - n: '61'
+    x: 17725
+    y: 9979
+    unsure: false
+  - n: '75'
+    x: 17618
+    y: 9703
+    unsure: false
+  - n: '65'
+    x: 18231
+    y: 11005
+    unsure: false
+  - n: '63'
+    x: 18644
+    y: 11503
+    unsure: false
+  - n: '67'
+    x: 18454
+    y: 12353
+    unsure: false
+  - n: '67'
+    x: 19160
+    y: 12204
+    unsure: false
+  - n: '72'
+    x: 19472
+    y: 12205
+    unsure: false
+  - n: '71'
+    x: 19509
+    y: 12604
+    unsure: false
+  - n: '77'
+    x: 19814
+    y: 11340
+    unsure: false
+  - n: '72'
+    x: 20253
+    y: 11307
+    unsure: false
+  - n: '76'
+    x: 19919
+    y: 10842
+    unsure: false
+  - n: '78'
+    x: 19350
+    y: 10594
+    unsure: false
+  - n: '78'
+    x: 19573
+    y: 10297
+    unsure: false
+  - n: '76'
+    x: 20904
+    y: 10698
+    unsure: false
+  - n: '72'
+    x: 20725
+    y: 11381
+    unsure: false
+  - n: '72'
+    x: 20278
+    y: 12079
+    unsure: false
+  - n: '97'
+    x: 20335
+    y: 12315
+    unsure: false
+  - n: '70'
+    x: 19063
+    y: 12775
+    unsure: false
+  - n: '70'
+    x: 18831
+    y: 13137
+    unsure: false
+  - n: '97'
+    x: 18653
+    y: 13727
+    unsure: false
+  - n: '71'
+    x: 18064
+    y: 13754
+    unsure: false
+  - n: '71'
+    x: 17735
+    y: 13395
+    unsure: false
+  - n: '97'
+    x: 18651
+    y: 9891
+    unsure: false
+  - n: '74'
+    x: 17624
+    y: 9264
+    unsure: false
+  - n: '60'
+    x: 16294
+    y: 11540
+    unsure: false
+  - n: '97'
+    x: 16107
+    y: 12325
+    unsure: false
+  - n: '72'
+    x: 16340
+    y: 12338
+    unsure: false
+  - n: '[73?]'
+    x: 16212
+    y: 12312
+    unsure: true
+  - n: '96'
+    x: 14384
+    y: 12420
+    unsure: false
+  - n: '89'
+    x: 10305
+    y: 12397
+    unsure: false
+  - n: '97'
+    x: 15842
+    y: 10814
+    unsure: false
+  - n: '[5?][?]'
+    x: 11872
+    y: 7660
+    unsure: true
+  - n: '97'
+    x: 9252
+    y: 8088
+    unsure: false
+  - n: '90'
+    x: 12931
+    y: 7322
+    unsure: false
+  - n: '[51?]'
+    x: 20942
+    y: 8731
+    unsure: true
+  - n: '[6?]'
+    x: 12394
+    y: 9972
+    unsure: true
+  - n: '[?]'
+    x: 11799
+    y: 7774
+    unsure: true
+  - n: '20'
+    x: 7245
+    y: 8117
+    unsure: false
+  - n: '39'
+    x: 7255
+    y: 11398
+    unsure: false
+  - n: '45'
+    x: 12834
+    y: 6684
+    unsure: false
+  - n: '81'
+    x: 13677
+    y: 7241
+    unsure: false
+  - n: '96'
+    x: 14429
+    y: 12717
+    unsure: false
