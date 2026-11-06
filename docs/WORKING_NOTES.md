@@ -3200,6 +3200,20 @@ Lessons:
 
 ## The Pełzucki 1896 map: labels, plots and proper names on the site (2026-11-06)
 
+- **A selected label draws no name on the labelling page, and the editor
+  reads that as "not saved"** (2026-11-06, the bulk marking): the page's
+  design hides a selected label's form text (only finished labels draw
+  theirs), but until this sitting nothing released the selection — Enter in
+  the form field did nothing for an existing label, a click on empty map
+  space did nothing, Esc did not let go — so an edit looked unsavable and
+  the name never came back. The fix (Enter commits and releases; empty-map
+  click releases; Esc releases when no step is in progress) is in
+  pipeline/maps/label_page.py and written into the page's own help; the
+  general rule for any marking page: **every editing action needs a visible
+  commit that returns the page to the state the editor expects to see**, or
+  the silent persistence reads as failure.
+
+
 - **A state endpoint needs `Cache-Control: no-store`, or the browser edits
   history.** The save server's `/__save/state` answered with `Last-Modified`
   and no cache header; the browser heuristically caches such a response for
