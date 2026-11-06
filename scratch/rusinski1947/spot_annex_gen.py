@@ -1,27 +1,18 @@
 # -*- coding: utf-8 -*-
-"""spot_annex.csv: the annex-table row faults from the read-through."""
+"""spot_annex.csv: the ANEKS I structural state after the full
+noise-removal pass - resolved rulings (for the record) + open knots."""
 import csv
 
 ROWS = [
-    ('0139', 'rows 9-11 merged/duplicated', 'row 9 blob holds both Boguszyńskie and Bolewiny; Bolewiny repeated as row 10; Borgowo doubled in 10/11'),
-    ('0140', 'row 14 number suspect', 'Borujskie Nowe Olędry "1152" vs neighbours 17-213; likely 11|52 split'),
-    ('0140', 'row 8 number suspect', 'Olędry al. Błonie "511" vs neighbours 17-178; likely 51|1 split'),
-    ('0141', 'number column missing', 'row 5 (Barłożna Olędry II) and row 43 (Komorowo) carry "e"/"e)" where numbers belong'),
-    ('0142', 'rows 48-61 heavy duplication', '"48 49 50 |" merged blob; rows 49, 50 repeated; a re-OCR blob re-lists rows 51-61; row 50 duplicates row 56 (Młyńskie al. Borowe)'),
-    ('0143', 'first row mislabelled', '"60. Oberskie Stare OI." duplicates row 66; numbering jumps 60->62 (61 Nowawieś sits at sheet 0142\'s end)'),
-    ('0143', 'digit misreads 85/80', '"65 | Soleckie" then "85. Soleckie"; "80 | Sosnowiec" then "86. Sosnowiec"'),
-    ('0143', 'rows 72/73 merged', '"Pożegowskie Olędry ! Proszkowo Olędry"; 73 repeated separately'),
-    ('0144', 'rows 75-86 doubled', 'Radoszkowskie, Rakoniewice, Rataje, Reklińskie, Rojewskie (11-13 vs 11-73), Rudna each twice; three pure letter-soup lines'),
-    ('0144', 'first row is a footnote', 'sheet opens with the Pożegowskie footnote garbled as "row 1"'),
-    ('0145', 'rows 89/90 merged', '"89. I 90 | Olędry Starodąbrowskie Olędry Starojastrzębskie"; 90 repeated'),
-    ('0145', 'row 97/98 split', 'name column reduced to "Olędry | Kębłowo | Tarnowa"; the settlement is likely Tarnowskie Olędry split across two rows'),
-    ('0146', 'row 102 number suspect', '"253 | — 206" vs neighbours ~25; likely 25|3 split'),
-    ('0146', 'Razem merged into row 111', 'the total row sits inside row 111\'s cell text'),
-    ('0146', 'sheet numbering broken', 'opens with "1."/"2." (a footnote + empty), "83." inside a blob, then jumps to 99'),
-    ('0147', 'row 10 year impossible', '"1091" in a 17th-c. context; likely 1691'),
-    ('0148', 'row 14 merged', '"Chorzępowa Czarne Olędry | Sieraków Trzciel"; 15 repeats Czarne'),
-    ('0148', 'row 18 numberless', '"Daleszynko | Lubosz | Daleszynek | TE" - "TE" garbage'),
-    ('0149-59', 'tail-sheet duplications', 'Nowawieś x3, Szklana Huta x3, Niewiemko x2; junk rows "27. [hy]", empty "1."/"31."'),
+    ('0139-0146 (a)', 'RESOLVED: series identity', 'a-series = powiat kościański: column sums 2386+92=2478 and ludn 12.967 match the body\'s p. 23 figures exactly'),
+    ('0147-0157 (b)', 'RESOLVED: series identity', 'b-series = powiat poznański: 2071+38=2109 matches body p. 26; the body\'s 12.759 ludn is an ESTIMATE (2109 x 6.05), not the column sum'),
+    ('0140 r14/r15', 'RESOLVED: brace-pair row', 'Borujskie Nowe/Stare figures print BETWEEN the two Lp lines (brace marks x4815/x5038); figures `165 3`/`1152` assigned to r14, r15 blank'),
+    ('0142 r54/r55', 'RESOLVED: continuation row', 'r55 "razem z" is the continuation of r54\'s nazwa cell (Michorzewskie Olędry razem z Michorzewem); figures split per pixels'),
+    ('0144 r75-r86', 'RESOLVED: the 0144 dupe knot', 'rows re-established by Lp anchors + top-alignment; the doubled/bogus rows of the first OCR gone'),
+    ('0154 r109-r111', 'OPEN: nazwa/parafia knot', 'figures pixel-confirmed (15/21/13*) but the nazwa/parafia/dzisiejsza distribution across the three rows sits under multi-line glue; r110 nazwa/parafia SPOT'),
+    ('0146 + 0157 totals', 'OPEN: print RAZEM arithmetic', 'a: 2386/92/12.967 vs pixels 2387/92/12958 (dymy mark-law, ludn d9); b: 2071/38/4.484 vs pixels 2059/38/~538 (ludn RAZEM aggregates beyond the column)'),
+    ('0158-0159 (c)', 'RESOLVED: totals rows', 'c-series "Razem z poprzedn." 2.178/38/4.514 and "Ogółem" 2.216/38/4.514 re-set as real rows (the leading "4." lost in the first reads)'),
+    ('all sheets', 'RESOLVED: star markers', 'the print\'s `*` on dymy values = Tp. 89 "zbiorowo" estimates per Tp. 90 (body pp. 23-24); preserved on every starred cell'),
 ]
 with open(r'C:\Users\Tersnaus\.local\share\opencode\worktree\14ffba\rusinski1947\literature\rusinski1947\spot_annex.csv',
           'w', encoding='utf-8', newline='\n') as fh:

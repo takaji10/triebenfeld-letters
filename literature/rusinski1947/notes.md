@@ -743,3 +743,85 @@ r108 dymy 35, r113 dymy 28, r114 dymy 16 *, r117 dymy 43;
 Census after: a col9 7 junk, col10 1 (the r29 mark), col11 5;
 b col9 37, col10 6, col11 13. Remaining junk = mostly small-type
 2/4-5/3-0/6 ties -> next round: max-zoom art + the SPOT sheet.
+
+## Round: full noise-removal pass (figures + text), 2025 session 5
+
+### The mark-sum law (decisive experiment)
+mark_test.py summed the a-series dymy column two ways: strict
+(single-number cells) = 2173; all-digits (raised marks counted) =
+2387 vs the print's RAZEM 2386 (Delta 1). CONCLUSION: the print's
+total COUNTS the raised small glyphs. The 3 marked cells are real
+content: 0140 r14 `165 3`, 0140 r17 `11 3`, 0146 r102 `29 3`.
+(0151 r67 `28 1` fixed earlier under the same law.) The 1-unit
+residue is within rounding of the print's own arithmetic.
+
+### Column laws after this round
+- a-dymy: 2387 (all-digits) vs 2386 printed - Delta 1, law confirmed.
+- a-obl: EXACTLY 92. Decisive fixes: 0140 r17 obl was a column-shift
+  phantom of c10's 7 -> dash; 0140 r16 obl -> dash; 0145 r87 `17`
+  (7-as-1); 0145 r97 `23` (3-as-2 tie). Pixel-verified @0.96-0.98.
+- a-ludn: 12958 vs 12967 (Delta 9). Every cell pixel-verified via
+  a_audit.py (Lp-anchor windows); unresolved Delta 9 -> SPOT.
+- b-obl: EXACTLY 38.
+- b-dymy: 2025 strict + 34 marks = 2059 vs 2071 (Delta 12) -> SPOT
+  (b-ludn RAZEM anomaly already spotted; the two likely share cause).
+- c: no printed totals; c9 pixel sum 88 (3 marked cells not counted -
+  consistent with marks-uncounted in c? -> SPOT alongside).
+
+### Figure-pass tooling (this round)
+a_census.py (full a-series pixel census), row_zoom.py (per-row 5.5x
+figure-column renders with Lp guides), a_audit.py (definitive
+anchor-window diff of every a-series figure cell), amb_scan/amb_grid/
+amb_corr (9-vs-5 shape arbitration: the true 5 has a FLAT top bar
+(0151 r73 ref); the 9 family has ring + curled tail (0153 r93,
+0146 r102 refs); corr-vs-ref settled 0151 r78, 0154 r105/r112,
+0156 r134/r137, 0158 r3/r4/r8), mark_test.py (the sum experiment),
+ludn_diff/ludn_scan (Delta-9 hunt), delta_hunt (obl/ludn trailing-0
+audit), junk_scan now whitelists `\d+ \d` raised marks.
+
+### Figure fixes this round (headline)
+0140 r14/r15 brace-pair figures `165 3`/`1152` (x-order verified);
+0141 r31 ludn 75 (15 absurd: 7-as-1), r35 277, r41 335, r43 37,
+r44 26; 0142 r45 ludn 130 (x-order), r53 ludn 192, r55 ludn 9,
+r61 dymy 8 + obl dash; 0143 r64 196, r69 115, r73 13; 0144 r74 rok/
+char dashes + ludn 188; 0145 r89 25/154, r92 18/90, r98 44/265;
+0146 r100 ludn 74 (strip '13 74'), r104 25/73, r110 ludn 71 (the 7
+hid under a tall mark; 71/13 = 5.5); 0148 r28 obl dash (draft 7 =
+glue phantom of the '640' signature); 0149 r42 obl dash (draft 4 =
+phantom), r34/r35/r43/r47 ludn 25/11/16/17 (top-alignment);
+0150 r49 7, r53 21, r55 6, r58 ludn 5, r59 obl dash, r60 ludn 71,
+r63 51, r65 7; 0151 r70 obl 5, r78 `9 4` (small 4 mark);
+0153 r94 obl 2, r96 77, r98 obl 4, r101 ludn 2; 0154 r105 9,
+r107 obl 9, r112 9, r118 2; 0155 r120 9; 0156 r134 9, r136 obl dash,
+r137 9, r144 `7 4` (small 4), r145 12 + obl dash; 0157 r146 17,
+r146 obl dash, r147 27 (FULL-size 2,7 - r146's 1,7 was its own line),
+r150 `9 1`, r151 dash, r153 7, r154 14 (r155's 1,3 = its own line),
+r155 13, r156 dashes + 7; 0158 r2 11, r3 9, r4 19, r5 21 + dash,
+r6 dashes, r7 10, r8 6 (diagonal sweep + bottom loop, not 9/0).
+
+### Text pass (b/c-series rok/char/zrodlo)
+text_scan.py (regex vocab + verified-phrase whitelist) drove 123
+suspects -> 15 SPOT. Mechanical family: 'Rel. Posn. nr' garbled as
+'Kel./Kepertorium/KXEI./IKei./Recl./IXCI. LUOSN. I/IXCil. KOSIi.'
+(the latter two = full formula mangling, decoded via 0157 r148's
+strip); 'Kl. XII 6 I/II/V' body-form restored (0150 r60/r65,
+0153 r101, 0158 r4/r6); 'AGH. sad X' (0158 r7, cf. 0139 r9 'AGH sad
+Jarocin'); 'Kl. M. i Dom. P. 8515' (0158 r8); dto rows (0154 r106);
+AM. Sierakow C. 53 forms; 'razem z Wyszynkami' confirmed as the
+print's dzisiejsza-column usage (3 rows). Knot cleanups: 0154
+r108 Radusz, r109 Trzciel/Ransko, r110 Roznowko, r111 Roznowo/
+'razem z Roznowem' - figures pixel-confirmed unchanged (35/15/21/
+13*; the strip's '21'/'20 III 13 *' fragments were line-tails).
+
+### Note-layer final-pass fixes (compose.py)
+Nickiedy -> Niekiedy (1), Ilolendry -> Holendry (1). 'iest' left
+alone: period orthography inside quoted passages.
+
+### SPOT items after this round (true residue)
+Figures/sums: a-ludn Delta 9; b-dymy Delta 12 + b-ludn RAZEM ~4.484
+vs pixels ~500; raised-mark semantics (dymy marks counted per the
+sum law - meaning?); 0139 r8 third glyph; 0140 note superscripts.
+Text cells (15, strip-deep-garble): 0147 r5 char; 0148 r18/r24 rok;
+0151 r68 zrodlo prefix; 0154 r105 zrodlo prefix, r111 zrodlo,
+r115 char+zrodlo; 0157 r146 rok+zrodlo; 0158 r1 char+zrodlo,
+r2 zrodlo, r5 char; 0159 r10 rok.
