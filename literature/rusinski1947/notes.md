@@ -405,3 +405,88 @@ there, it is a one-token edit.
 SPOT_SHEET.html regenerated with zero items (a 'no open items' banner;
 the audit tables stay). All 23+ spot items from the three review
 rounds are now applied.
+
+
+## Marker audit wave 2 complete - methods, traps and the systemic findings
+
+The label/def pairing check (body label Counter vs def Counter, both
+directions) is the real completeness gate; 'short: 0' on all 115 body
+pages is necessary but not sufficient. Final state: 651 body labels
+<-> 651 defs, zero orphans both ways; verify_round/round2/span2 ALL
+PASS.
+
+New machinery this wave:
+- audit_page.py - per-page report (body lines + markers + note
+  one-liners); the working view for every page audit.
+- raise_sweep.py - ascender-zone ink with empty x-height beneath, per
+  structure line: finds raised markers the models missed (used on 0031,
+  0061, 0084, 0120/0121).
+- diag_unplaced.py - lists unplaced defs with the structure line text
+  at their tops.
+- digit_audit.py (annex) - the print's own number column (ink bands
+  between the first two rules) as ground truth for row bounds: a data
+  span must hold exactly one band; orphan bands = missed rows, 2-band
+  spans = missed boundaries. Found and fixed: 0139 (header pseudo-row +
+  missed row 1), 0142 (swallowed row 61), 0143 (repeated header), 0147
+  (header + missed row 2), 0159 (rows 10/11 boundary + the totals row
+  and the sub-table title as furniture).
+
+Traps hit this wave (all now guarded):
+- The insert_marks 'out' template must carry the caret: '[{label}]'
+  NOT '[{label}' - 15+ entries were authored caret-less and placed
+  caret-less labels (54 defs unplaced until the bulk fix). A caret-fix
+  pass runs after every edit batch.
+- MANUAL_ADD now SKIPS (not stacks) auto candidates it covers (same
+  norm(tok), +-80px) - the re-dedup key inside prot is the EXACT
+  (top, raw tok) pair so distinct digit-shape pairs like '!1'/'1?'
+  (the raised 11/12 on p. 94) never merge.
+- MANUAL_DROP with an artifact tok kills every artifact candidate
+  +-80px on the page (norm('') matching) - used to clear whole junk
+  clusters, re-adding needed markers as manual entries.
+- A manual marker's top may need a nudge to order two same-line
+  markers (0108: the \$ before zlodziejami must sort before the ?)
+  pozare; insertion order breaks top-ties in the cands sort).
+- The strip's note-block misfirings catalogue grew: notes merged into
+  the next (0073's quote tail, 0109's 9+10, 0134's German quote), one
+  note shredded into two blocks (0084 x2, 0085), body headings/list
+  items filed as notes (0080 'I. Rolnictwo', 0044 'Wszystkie
+  wspomniane'), real notes missed entirely (0085 notes 8/10, 0109 note
+  1 'J. w.' - the strip read the note line as body text '17. w.'), and
+  a note glued onto the previous note's tail (0108 note 7 'AW. Stare
+  Loskonkskie' inside note 6).
+
+Systemic strip artifact (editor question pending): the print's
+lowercase 'l' was read as capital 'I' throughout - 'Kl.' (Klassifi-
+kationsanschlaege) as 'KI.', 'Ol.' (Olendry) as 'OI.' - hundreds of
+tokens. One note fix (0113 #2) already restored 'Kl. XII 7 fol.' per
+the print. Normalizing the whole draft (KI.->Kl., OI.->Ol.) is a
+one-pass mechanical change awaiting the editor's ruling.
+
+Open items noted for the editor (all in the new front matter):
+- 'Tp. - Topographisches Verzeichniss...' (p. VII): the siglum glyph
+  reads TV/Tp ambiguously at pixel level; transcribed 'Tp.'
+- 'T 1769' (p. VI): the last digit 6/9 is marginal; two OCR reads and
+  the strip say 1769 (the imprint inside the entry says impressa
+  1766).
+- 'Tb.' (p. VI): strip read 'TB'; transcribed 'Tb.'.
+- Ludkiewicz title (p. VIII): 'na nizinie sartawicko-noteckiej' - the
+  strip read 'sartawicko-nowskiej'; the compound is barely legible.
+- VO entry (p. VII): 'znanych pod nazwą wizytacyj Okęckiego' - the
+  strip lost the inflection ('wizytacyjami'?).
+- Gebhardt's 'Das Posener Haulaenderhaus' citation (p. IX): a stray
+  'nr' fragment could not be placed ('Provinzialblaetter 26, nr ?,
+  Poznan').
+- The body note (p. 26 def 2) cites 'Tp. 72' - the Wykaz has no
+  Tp. 72; TKS. 72 (the 1772 wypis) is the likely intended siglum.
+  Left as printed pending the editor.
+
+Front matter now complete: [p. I] title + imprint, [p. III] SPIS
+TRESCI (the print's TOC numbers cross-checked against the body's
+actual pagination; the transposed '3. Inne objazlenia/4. Robocizny'
+pair restored to the print's order: 3. Robocizny 90, 4. Inne
+obciazenia 93 - pixel-read), [pp. V-X] Wykaz skrotow (sources A +
+literature B), composed from the strip with per-entry print reads.
+The annex column parse (annex_cells.json, residuals <= 0.009, RULES_
+SHEET.html for eyeball check) is available; the draft keeps the
+editor-reviewed raw-row rendering (the dim dash-cells OCR as junk - a
+cell-table rendering would need hundreds of spot answers).
