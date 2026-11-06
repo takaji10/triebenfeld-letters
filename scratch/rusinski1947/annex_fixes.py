@@ -303,11 +303,16 @@ CELL_FIXES = {
         # strip '81 II!' = 2-as-8 + 9-as-1; w51 blobs = merged 69 / 00
     ('0153', 102, 7): '—',           # digits = źródło overflow '10820, 1766'
     ('0154', 108, 4): '1700',        # 1,7,0,0 matcher (data 1 XI 1751)
-    ('0154', 110, 7): '20 III 1777', # two lines y1621/y1693 (72px line pitch)
-    ('0154', 110, 8): '13 *',        # same print line as data l1; strip
-    ('0154', 111, 4): '—',           # cross-ref row: c4/c7/c8 empty
-    ('0154', 111, 7): '—',           # strip '1777' = r110 data l2 crossed
-    ('0154', 111, 8): '—',
+    ('0154', 109, 8): '15',          # 1,5 matcher at band top (strip missed it)
+    ('0154', 109, 10): '—',          # dash; draft '5' spurious
+    ('0154', 110, 4): '—',           # dash y1560
+    ('0154', 110, 7): '—',           # dash y1546; '20 III 1777' = r111's
+    ('0154', 110, 8): '21',          # 2,1 matcher at band top; strip '21'
+    ('0154', 111, 4): '—',           # dash y1665; cross-ref row
+    ('0154', 111, 7): '20 III 1777', # l1 y1621/l2 y1693 = 72px cell pitch
+    ('0154', 111, 8): '13 *',        # 1,3(3-as-5 tie),* at r111's top
+    ('0154', 111, 9): '—',           # dash
+    ('0154', 111, 10): '',           # print blank (no dash, unlike r109/110)
     ('0154', 112, 4): '1624',        # 1,6,2,4 matcher; strip 'Poręba 1624'
     ('0154', 113, 4): '1705',        # 1,7,0@0.97,5; strip '1765' = 0-as-6 OCR
     ('0154', 113, 7): '21 XI 1767',  # l1 2,1,X@0.90,I; l2 1,7,6,7; strip

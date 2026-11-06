@@ -2892,11 +2892,11 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 108 | Radoskie Olędry | Sieraków | Kadusz | 1700 | — | ZM. SICTAKOW, C. 53, fol. 78 | 1 XI 1751 | 35 | — | — |
 
-| 109 | Rońskie Olędry | Trzciel i | KRańsko |   | — | — | — | lo a | — | 5 |
+| 109 | Rońskie Olędry | Trzciel i | KRańsko |   | — | — | — | 15 | — | — |
 
-| 110 | Rosnowskie Olędry | Komorniki | Rcsnówko |   | — | —"" s €waY u py p | 20 III 1777 | 13 * | — | — |
+| 110 | Rosnowskie Olędry | Komorniki | Rcsnówko | — | — | —"" s €waY u py p | — | 21 | — | — |
 
-| 111 | Rożnowskie Olędry | Rożnowo ! | razem Zz KRożnowem | — | — | 4VY. Db. FU | — | — | ZA | — |
+| 111 | Rożnowskie Olędry | Rożnowo ! | razem Zz KRożnowem | — | — | 4VY. Db. FU | 20 III 1777 | 13 * | — |   |
 
 | 112 | Róża Olędry | Przytoczna | Poręba | 1624 | — | KXEI. FOSNn. NT 638, r. 1791, fol. 597 | 1 I 1624 | pe 0 |   |   |
 
