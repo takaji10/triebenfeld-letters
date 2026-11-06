@@ -174,6 +174,10 @@ CELL_FIXES = {
     ('0157', 148, 8): '20',      # raw '20'; 2@0.91+0@0.89 agree
     ('0157', 149, 8): '16',      # raw '16'; 1@0.94+6/0@0.84
     ('0159', 11, 9): '—',        # pixel dash
+    ('0149', 35, 8): '—',        # dash + weak mark; strip shows no dymy
+    ('0149', 47, 8): '—',        # dash + smalls (strip: dashes)
+    ('0150', 52, 8): '—',        # dash + weak mark
+    ('0151', 67, 8): '28',       # 2@0.94+8@0.94; strip 'maj. 28!'
     # the print's '*' markers (body p. 23-24: dymy given 'zbiorowo' in
     # Tp. 89, estimated per Tp. 90) - star on the dymyTp value
     ('0139', 9, 8): '20 *',

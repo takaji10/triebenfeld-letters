@@ -2670,7 +2670,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 34 | Herbardowo Olędry | Mielecn | Fierburtowo | OUI (7) | mokracdia (!) | AYY. D. 2, DpUOr. DWZP. 34 | 2 5 1UIilH PRD | — | — | 4Y |
 
-| 35 | Huta Olędry | Chodzież | IrzasKOWIec | I /5U | Lolwark |   | O Al IFDOU | (a Tal | — | I I |
+| 35 | Huta Olędry | Chodzież | IrzasKOWIec | I /5U | Lolwark |   | O Al IFDOU | — | — | I I |
 
 | 36 | Hutskie Olędrv | I rzciel | ZŁ.aCNOGZKO | e | — | — | — | 30 | — | — |
 
@@ -2694,7 +2694,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 46 | Kamionka Olędry | Chodzież | Kamionka | przed r. 1748 | rola częścią zarosła | AW. A. I | 40 Lil 1748 | — | — | 14 |
 
-| 47 | Kałędek | Wieleń | Kałędek | 1/14 | folwark | Landr. Czarnków 3a, fol. 25 | 20 IN 1714 | 4 «> | — | z |
+| 47 | Kałędek | Wieleń | Kałędek | 1/14 | folwark | Landr. Czarnków 3a, fol. 25 | 20 IN 1714 | — | — | z |
 
 | 48 | Katarzynki al. Uzarzewskie Olędry | Uza rze O | razem z Uzarzewem | — | — | — | — | 4 * | — | — |
 
@@ -2716,7 +2716,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 51 | Kobus Olędry | Biezdrowo | Kobus | I (36 e | — | AGH£l.s. Wronki,maj. Kobus, XIX.430 fol. 13 | L(JO 1 8 I 1746 | 0 | — | — |
 
-| 52 | Kolędzin Olędry[^137-1] | Budziszewko | Kołędzin | — | — |   | y=" 2 a u © c | FL p | — | — |
+| 52 | Kolędzin Olędry[^137-1] | Budziszewko | Kołędzin | — | — |   | y=" 2 a u © c | — | — | — |
 
 | 53 | Komorowskie Olędry | Lwówek | Komorowice | 1707 | las | Kel. Fosn. nr 645, r. 1793, fol. 101 | 9 VI 1707 | 4 l | — | — |
 
@@ -2758,7 +2758,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 67 | Lubowo | Biezdrowo | Łubowo | 1764 | — | AGH.s. Wronki, maj. Poża | 160ITV 17604 | 28 1 | — | — |
+| 67 | Lubowo | Biezdrowo | Łubowo | 1764 | — | AGH.s. Wronki, maj. Poża | 160ITV 17604 | 28 | — | — |
 
 | 68 | Lubowo Zarzeczne | Biezdrowo |   | 1737 | — | rowo, vol. III | 24 V 1737 |   |   |   |
 
