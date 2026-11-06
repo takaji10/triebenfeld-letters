@@ -40,6 +40,7 @@
                 family {personName(pid.slice(1))}
               {:else}
                 <a href={'#/person/' + pid}>{personName(pid)}</a>
+                <span class="pid">{pid}</span>
               {/if}
             </td>
           </tr>
@@ -54,4 +55,6 @@
   .stat { font-size: .8rem; color: var(--faint); }
   .year { color: var(--faint); white-space: nowrap; width: 7rem;
     font-variant-numeric: tabular-nums; }
+  .pid { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
+    color: var(--faint); margin-left: .35rem; white-space: nowrap; }
 </style>

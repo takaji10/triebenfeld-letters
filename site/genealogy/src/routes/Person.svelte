@@ -3,6 +3,7 @@
   import { i18n, EVENT_LABELS } from '../lib/i18n.js'
   import { person, mediaURL } from '../lib/data.js'
   import MediaViewer from '../lib/MediaViewer.svelte'
+  import Tree from '../lib/Tree.svelte'
 
   let { id } = $props()
 
@@ -22,10 +23,18 @@
   function fam(idf) { return db.families?.[idf] || null }
 
   const parents = $derived.by(() => {
-    if (!shard?.famc?.length) return null
+    if (!shard?.famc?.length) return []
     const f = fam(shard.famc[0])
-    if (!f) return null
+    if (!f) return []
     return [f.husb, f.wife].filter(Boolean)
+  })
+
+  // the other children of the person's own parent family
+  const siblings = $derived.by(() => {
+    if (!shard?.famc?.length) return []
+    const f = fam(shard.famc[0])
+    if (!f) return []
+    return (f.chil || []).filter(c => c !== id)
   })
 
   const partners = $derived.by(() => {
@@ -76,8 +85,7 @@
     if (v.L) return i18n.t('living')
     if (v.b || v.d) return `${v.b ?? '…'} – ${v.d ?? '…'}`
     return ''
-  }
-</script>
+  }</script>
 
 {#if error}
   <p class="lead error">{error}</p>
@@ -88,6 +96,7 @@
     <header class="head">
       <h1>{shard.name}</h1>
       <div class="pills">
+        <span class="pill dim idp">{id}</span>
         <a class="pill blue" href={'#/tree/' + id}>⧗ {i18n.t('in_tree')}</a>
         {#if shard.living}<span class="pill warn">{i18n.t('privacy_note')}</span>{/if}
         <span class="pill dim">{shard.sex === 'F' ? '♀ ' + i18n.t('female')
@@ -99,12 +108,38 @@
       </div>
     </header>
 
-    {#if parents}
+    <section>
+      <h2>{i18n.t('in_tree')}</h2>
+      <Tree {id} embed />
+    </section>
+
+    {#if parents.length}
       <section>
         <h2>{i18n.t('parents')}</h2>
         <ul class="people">
           {#each parents as pid}
-            <li><a href={'#/person/' + pid}>{personName(pid)}</a></li>
+            {@const v = db.index?.[pid]}
+            <li>
+              <a href={'#/person/' + pid}>{personName(pid)}</a>
+              <span class="pid">{pid}</span>
+              {#if v}<span class="yrs">{lifespan(v)}</span>{/if}
+            </li>
+          {/each}
+        </ul>
+      </section>
+    {/if}
+
+    {#if siblings.length}
+      <section>
+        <h2>{i18n.t('siblings')}</h2>
+        <ul class="people">
+          {#each siblings as sid}
+            {@const v = db.index?.[sid]}
+            <li>
+              <a href={'#/person/' + sid}>{personName(sid)}</a>
+              <span class="pid">{sid}</span>
+              {#if v}<span class="yrs">{lifespan(v)}</span>{/if}
+            </li>
           {/each}
         </ul>
       </section>
@@ -116,7 +151,11 @@
         {#each partners as p, i}
           <div class="union">
             <p class="spouse">
-              {#if p.spouse}<a href={'#/person/' + p.spouse}>{personName(p.spouse)}</a>{:else}—{/if}
+              {#if p.spouse}
+                <a href={'#/person/' + p.spouse}>{personName(p.spouse)}</a>
+                <span class="pid">{p.spouse}</span>
+                {#if db.index?.[p.spouse]}<span class="yrs">{lifespan(db.index[p.spouse])}</span>{/if}
+              {:else}—{/if}
               {#if p.marr?.date}
                 <span class="marr">· {i18n.t('married')} {p.marr.date.raw}
                   {#if p.marr.place} — {p.marr.place}{/if}</span>
@@ -125,7 +164,12 @@
             {#if p.children.length}
               <ul class="people">
                 {#each p.children as cid}
-                  <li><a href={'#/person/' + cid}>{personName(cid)}</a></li>
+                  {@const v = db.index?.[cid]}
+                  <li>
+                    <a href={'#/person/' + cid}>{personName(cid)}</a>
+                    <span class="pid">{cid}</span>
+                    {#if v}<span class="yrs">{lifespan(v)}</span>{/if}
+                  </li>
                 {/each}
               </ul>
             {/if}
@@ -213,12 +257,17 @@
   .error { color: var(--warn); }
   .head h1 { font-size: 1.4rem; margin: 0 0 .4rem; }
   .pills { display: flex; flex-wrap: wrap; gap: .35rem; }
+  .idp { font-family: ui-monospace, Consolas, monospace; }
   section { margin-top: 1.6rem; }
   h2 { font-size: .95rem; margin: 0 0 .5rem; color: var(--soft);
     text-transform: uppercase; letter-spacing: .05em; font-family: var(--sans);
     font-weight: 600; font-size: .74rem; }
   ul.people { list-style: none; margin: 0; padding: 0; }
   ul.people li { padding: .2rem 0; }
+  .pid { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
+    color: var(--faint); margin-left: .35rem; white-space: nowrap; }
+  .yrs { color: var(--faint); font-size: .8rem; margin-left: .45rem;
+    white-space: nowrap; }
   .union { border-left: 3px solid var(--rule); padding-left: .8rem; margin: 0 0 .8rem; }
   .spouse { margin: .1rem 0 .3rem; }
   .marr { color: var(--faint); font-size: .84rem; }

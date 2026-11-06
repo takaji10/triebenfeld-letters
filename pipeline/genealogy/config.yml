@@ -19,7 +19,13 @@ inputs:
 media:
   # The published web derivatives (repo B). The site's pages join this
   # base with the manifest's file names; empty until the repo is live.
-  base: "https://takaji10.github.io/genealogy-media/"
+  # The manifest's file fields are relative to the repo's media/
+  # directory (a bare "<hash>.jpg" sits in media/, a docx "originals/"
+  # sits in media/originals/), so the base carries that segment - without
+  # it every image on the site 404ed and showed "image not published"
+  # (found 2026-11-06 on I3131's two records; every media item was
+  # affected, the paths in the manifest were never the URL).
+  base: "https://takaji10.github.io/genealogy-media/media/"
   # The local working copy media_build.py writes into (git init'ed, pushed
   # to repo B).
   dest: "J:/Zelmer/genealogy-media"

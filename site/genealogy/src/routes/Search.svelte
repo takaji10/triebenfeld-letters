@@ -47,6 +47,7 @@
           <tr>
             <td>
               <a href={'#/person/' + r.id}>{db.index[r.id]?.n || r.id}</a>
+              <span class="pid">{r.id}</span>
               {#if db.index[r.id]?.L}<span class="pill dim">{i18n.t('living')}</span>{/if}
             </td>
             <td class="years">
@@ -70,5 +71,7 @@
   .lead { color: var(--soft); }
   .years { color: var(--faint); font-size: .8rem; white-space: nowrap; }
   .sn { color: var(--faint); font-size: .8rem; }
+  .pid { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
+    color: var(--faint); margin-left: .35rem; white-space: nowrap; }
   td { cursor: default; }
 </style>

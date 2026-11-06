@@ -24,6 +24,9 @@ const STRINGS = {
     in_tree: 'In the tree',
     boot_loading: 'Loading the family database …',
     boot_slow: 'Still loading — a slow connection, or a content blocker (tracking protection, ad blocker), can hold the database back.',
+    siblings: 'Siblings',
+    sort_az: 'A–Z', sort_za: 'Z–A',
+    sort_count: 'by count',
   },
   de: {
     app: 'Zelmer-Familien-Explorer',
@@ -47,6 +50,9 @@ const STRINGS = {
     in_tree: 'Im Baum',
     boot_loading: 'Die Familiendatenbank wird geladen …',
     boot_slow: 'Es wird noch geladen – eine langsame Verbindung oder ein Inhaltsblocker (Tracking-Schutz, Adblocker) kann die Datenbank aufhalten.',
+    siblings: 'Geschwister',
+    sort_az: 'A–Z', sort_za: 'Z–A',
+    sort_count: 'nach Anzahl',
   },
   pl: {
     app: 'Eksplorator rodziny Zelmer',
@@ -70,6 +76,9 @@ const STRINGS = {
     in_tree: 'W drzewie',
     boot_loading: 'Wczytywanie bazy rodzinnej …',
     boot_slow: 'Nadal wczytywanie – wolne połączenie lub bloker treści (ochrona przed śledzeniem, bloker reklam) może opóźniać bazę.',
+    siblings: 'Rodzeństwo',
+    sort_az: 'A–Z', sort_za: 'Z–A',
+    sort_count: 'według liczby',
   },
 }
 

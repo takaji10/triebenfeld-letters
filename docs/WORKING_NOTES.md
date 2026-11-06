@@ -3262,3 +3262,27 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   wrap the mount in a try/catch that leaves a word on the page if the
   component itself fails to start - after the clear, a thrown mount leaves
   a blank page with the watch already stood down.
+- **A fixpoint of pairwise rules can deadlock against itself.** The
+  exclusion's old rule (b) kept a child with one kept parent, and the
+  spouse was that kept parent - so a removed sibling's line survived its
+  own removal, each rule holding the other's subject alive. When a cut
+  has an "except through X" clause, compute the two reachable sets
+  (from the cut seed, from the protected root) and subtract - walks
+  cannot deadlock, and the invariant (nothing protected is ever removed)
+  is checkable in one line. The sibling lesson: when a graph rule keeps
+  failing to remove what it names, suspect two rules leaning on each
+  other, not one rule applied wrongly.
+- **A URL join is only as right as its shortest test.** The media
+  manifest's file fields were relative to the repo's media/ directory,
+  the config base omitted media/, and every image on the site 404ed into
+  the viewer's "image not published" fallback - visible for days,
+  reported for one person's two records. Assert one built URL per shape
+  (image, thumb, originals/) against the live host in the site checks;
+  a join that no test ever fetches is a join nobody has run.
+- **Svelte 5 template identifiers must be declared, but the compiler
+  only warns for some.** Tree.svelte iterated an undeclared `links` and
+  compiled clean - the route threw a ReferenceError at first render,
+  invisible until someone opened it. When a component compiles but a
+  route has never been seen working, render it once headlessly (or read
+  the compiled output for the bare identifier) before trusting it.
+

@@ -7,7 +7,7 @@
 // lines can be drawn after all positions are known.
 
 export const CARD_W = 150
-export const CARD_H = 44
+export const CARD_H = 56
 export const GAP_X = 14
 export const CELL = CARD_W + GAP_X
 export const ROW_H = 96

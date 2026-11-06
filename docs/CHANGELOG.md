@@ -4844,6 +4844,82 @@ footer on every page. Changed, in both languages:
   on the page instead of a blank one. Rebuilt and re-checked the same
   way (both baseurls, ALL CHECKS PASSED).
 
+## 2026-11-06: the genealogy explorer - the Lacho branch finished, the
+## media URLs repaired, sorting and IDs on the people lists, the tree on
+## the person page
+
+- **The exclusion now removes what it always said it would.** The old
+  fixpoint's rule - a child with one kept parent stays - deadlocked
+  against itself: a removed sibling's children kept the outsider spouse
+  alive (the spouse was the kept parent), and the spouse kept the
+  children alive, so the sibling's whole line survived the cut it was
+  ruled out of. The published database carried Larry's siblings'
+  descendants (I2190-I2192 through their mother I2189, I2202-I2203
+  through I2201, I2194 through I2243). prune.py now computes the ruling
+  of PLAN.md 4.3 as three passes: the seed (the blood ancestors of the
+  roots), the protected line (the roots and their blood descendants -
+  the "except through I0005"), and the branch (every blood descendant of
+  the seed the walk reaches without passing the protected line); then
+  the old fixpoint sweeps the hangers-on, spouses married only into
+  removed lines now going regardless of their own natal family (the
+  ruling removes the spouse; their parents and siblings married into
+  nothing). Measured: 328 people, 245 media, 115 families removed (was
+  78/70/19); 4,111 people published (was 4,361). Checked on the real
+  data: no protected person is removed, Larry stays, and none of the
+  170 blood-removed people has a kept co-parent - the plan's mixed-
+  marriage ambiguity never arises in this database. The build's two
+  remaining "note mentions an excluded person" items (I0486, I2073) are
+  the standing editor's-call class.
+- **Every image on the site was broken, shown as "image not
+  published".** The manifest's file fields are relative to the media
+  repo's media/ directory (the docx entries' originals/ prefix shows the
+  convention), but config.yml's media.base lacked the media/ segment, so
+  the viewer asked takaji10.github.io/genealogy-media/<hash>.jpg for a
+  file that lives at .../media/<hash>.jpg - 404, the img's onerror fired,
+  and the viewer fell back to its missing-note. Found on I3131 (Andreas
+  Landkammer, his birth record C1796 and death record C0707); every one
+  of the 1,698 published items was affected. The base now carries the
+  segment (config.yml), the data rebuilt, and the URLs verified against
+  the live repo B (200 for the display and thumbnail shapes).
+- **The tree route was dead code: it threw on render.** Tree.svelte
+  iterated a `links` identifier it never declared - the layout returns
+  {nodes, links, ...} but the component never derived it - so
+  #/tree/<id> died with a ReferenceError the moment it rendered. Fixed
+  (links is a derived of the chart now), and the component gained what
+  the fix exposed as missing: the cards carry the person's ID (the cards
+  grew a third line), the chart centres on the focus person instead of
+  top-aligning, and an embed mode for the person page - the mode pills
+  switch a local state and the chevron re-roots the chart locally, both
+  without leaving the page, and a plain wheel scroll moves the page
+  while Ctrl+wheel zooms (pinch always zooms).
+- **The person page shows the tree.** An interactive hourglass chart
+  (pedigree and descendants one pill away) sits under the header:
+  clicking a card opens that person's page - the move up and down the
+  tree - and the chevron re-centers the chart on them in place.
+- **IDs are shown wherever people are listed** (the editor's ruling:
+  Gramps IDs are the join key of the whole project): the surname page's
+  people table gained an ID column, search results and the place pages'
+  event tables carry the ID beside the name, the person page's relations
+  (parents, siblings, spouses, children) carry it, the header shows the
+  person's own ID as a pill, and the tree cards show it under the years.
+- **The surname index sorts.** Three orders on the index - by count
+  (the old default, ties broken A-Z), A-Z, Z-A - and two on a surname's
+  people table (A-Z, Z-A, by display name; the old sort was by given
+  name alone). Buttons on the page, labels in all three interface
+  languages (sort_az, sort_za, sort_count, siblings new in i18n.js).
+- **Parents and siblings on the person page carry life dates** - the
+  parents section shows each parent's years beside the ID, the new
+  siblings section (the other children of the same parent family) shows
+  the same, and the spouses and children under partnerships show theirs.
+- Built: data from the 5 NOV 2026 GEDCOM (4,111 people, 1,440 families,
+  1,698 media, 1,105 places), app rebuilt, jekyll and verify_site ALL
+  CHECKS PASSED with the project baseurl and with none (63,294 internal
+  links each), the new data and shards served and fetched through a
+  local server, and the tree layout exercised headlessly against the
+  new families (I3131's six siblings render, I0005's cut famc renders
+  honestly without parents).
+
+
 - The starred readings' note shows at once (2026-11-06, the editor's
   question: the help cursor appeared but the note did nothing): the note
   rode on the browser's native title tooltip, which Windows shows only
