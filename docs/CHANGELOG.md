@@ -4844,3 +4844,13 @@ footer on every page. Changed, in both languages:
   on the page instead of a blank one. Rebuilt and re-checked the same
   way (both baseurls, ALL CHECKS PASSED).
 
+- The starred readings' note shows at once (2026-11-06, the editor's
+  question: the help cursor appeared but the note did nothing): the note
+  rode on the browser's native title tooltip, which Windows shows only
+  after a second or more of rest - a quick hover read as doing nothing.
+  The note is now the page's own tooltip, drawn the moment the pointer
+  (or a keyboard focus) reaches the name, and a line under the table
+  explains the asterisk itself in both languages: it marks a reading the
+  sources leave in doubt, the reasoned-but-unsettled normalisations
+  among them. jekyll and verify_site ALL CHECKS PASSED, the browser
+  checks re-run (47/47, the hover and the explanation line among them).
