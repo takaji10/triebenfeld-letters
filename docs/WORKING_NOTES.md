@@ -1243,6 +1243,16 @@ cloud branches").
   the images' coverage — a wrong guess about what a scan spans sends the
   search to the wrong octave entirely (the first pass searched k 0.3-0.6
   when the answer was 0.65 on another frame).
+- **A lunaroute URL fetch happens server-side: localhost is unreachable**
+  (2026-11-06, the Mapa dróg OCR). The converter's `url:` parameter is
+  fetched by the backend, not by this machine — a `http://127.0.0.1:8781/...`
+  crop URL fails with fetch_failed even while the server answers locally.
+  Code Mode has no filesystem access either, so base64-through-context is
+  the only converter route for local images (too heavy for a batch). The
+  better tool was there all along: **the Read tool presents images to the
+  session** — for a batch of small crops (label bands), reading them
+  directly beats any OCR pipeline, with the extra check of the editor's own
+  standards to read each result against.
 - A heredoc in the Bash tool fails on an unbalanced apostrophe even when it
   is quoted. Write any script that holds prose with the Write tool and run
   the file.
