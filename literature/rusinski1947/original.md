@@ -2310,7 +2310,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 25 | Czeskie al. Polsko- Czeskie Olędry | Zbąszyń | Czeskie Stare | — | — | ip » | — | 17 | — | 1 22 |
 
-| 26 | Daieszyno | Gostyń Stary | Daleszyn | 1765 | role kmiece | Rel. Posn. nr 549, r. 1767, fol. 442 | 13 X 1705 | 12 * | — | — |
+| 26 | Daieszyno | Gostyń Stary | Daleszyn | 1765 | role kmiece | Rel. Posn. nr 549, r. 1767, fol. 442 | 13 X 1765 | 12 * | — | — |
 
 | 27 | Dąbrówka Olędry | Gnin | Dabrowiecka Wola | — | U | r | — | 14 | — | 82 |
 

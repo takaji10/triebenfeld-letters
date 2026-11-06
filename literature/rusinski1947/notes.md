@@ -616,3 +616,41 @@ labels), renders the blocks as footnote defs after each sheet's
 table, injects the a/b totals rows, renders u0/u2 as table rows,
 and no longer leaks 0158's note lines as furniture paragraphs.
 annex_notes.py holds NOTES/REFS/RAZEM.
+
+## Data-layer regeneration + cell-fix round (in progress)
+
+- annex_cells.json/annex_md.json REGENERATED from annex_table.json v10
+  (0159 sub-table on the corrected row bands; cells_patch.py re-OCR'd
+  0159's six rows in place). annex_md.json now carries the u2 furniture
+  (OgolEm) and compose renders u0/u2 as real table rows appended to
+  their tables (no extra headers; qa 'table headers 22' back to PASS).
+- clean() in annex_md.py now PRESERVES a trailing '*' (the body
+  p. 23-24 zbiorowo-dymy marker); stars_reocr.py re-OCR'd the 38
+  starred rows (idempotent for unchanged bands; verified via a
+  git-draft diff that the re-OCR introduced NO regressions - the diffs
+  were mojibake fixes, the old draft had OT-CE-OD dash mojibake).
+- 34 star fixes pinned in annex_fixes.py (digit + ' *' per the raws;
+  star_find.py's blob scan used as cross-evidence). Stars whose digit
+  or column stays uncertain -> SPOT: 0146 r102, 0149 r47 (Kaledek),
+  0151 r78 (Meryn Stary 'Qg*'), 0154 r106/r107 (the '39 *' row
+  attribution), 0154 r110/r111 (the '13 *' attribution), 0154 r113,
+  0157 r154 ('1 *% 44').
+- Date-cell fixes verified by pixel/high-zoom reads and added to
+  annex_fixes.py: 0139 r7 '11 XI 1720', r9 '6 VII 1702' (NOT 1762),
+  r11 '18 IV 1785'; 0140 r18 '10 X 1721', r21, r23 '11 X 1757', r26
+  '13 X 1765' (a FALSE-CLEAN cell the triage missed - caught in the
+  star-row re-OCR diff); 0141 r39 '20 XI 1729 20 I 1749', r44
+  '14 X 1735' (the doubled-1 artifact '11735'->'1735', same as the
+  verified '11757'->'1757'; the 8 full-height glyph groups explained);
+  0144 r84; 0147 r13 '28 VII 1776'; 0148 r17 '1 IV 1781', r27
+  '11 XI 1735 20 X 1744'; 0151 r68, r69 '9 VII 1701', r72
+  '3 III 1614 1 V 1677' (Marianowo's 1614 privilege is real); 0152
+  r83; 0156 r136 '1 XI 1751'.
+- The date roadmap lives in df1.txt (94 strip-candidate cells + 45
+  SPOT) and numart.txt (ASCII art of the 48 flagged numeric/name
+  cells); the numeric pass (c8 28 / c10 13 / c9 6 / c4 15 / c5 4 /
+  c1-c2 2) continues from these.
+- qa_final's footnote check relaxed to KEY-SET equality (the annex
+  reuses one def for several refs by design; the body's strict 1:1
+  pairing stays in verify_round*). qa_final ALL PASS; verify_round,
+  verify_round2, verify_span2 ALL PASS.
