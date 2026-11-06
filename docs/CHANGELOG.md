@@ -4846,6 +4846,15 @@ footer on every page. Changed, in both languages:
   shift (NEEDS_CONFIRMATION); and the garble-class scan over the
   gazetteer's forms found one more suspect: czarnybrod's "CzanlY Bród"
   (1921), flagged, not corrected.
+- **czarnybrod's "CzanlY Bród" settled at the editor's word (2026-11-06):
+  Czarny Bród** (1921, Sk II 36). The same garble sat in the edition's own
+  NMP citation text (original.md, t. 2, p. 197) — corrected there too,
+  with the entry's dialect line
+  ("gw. corny brut, - ygo -du, cornobrocKi.") re-read as
+  "gw. czorny brut, -ygo -du, czornobrodzki." (the same n/l and dropped
+  dz artifacts; **the dialect line is Claude's read, for the editor's
+  confirmation against the source when next at hand** — the page image is
+  not here).
 - **Mapa dróg 1890 marked, OCR'd and georeferenced** (2026-11-06): the
   editor's 37 labels imported (35 gazetteer places and two new places,
   Stara Huta and Świątniki, waiting on the editor's entries); the batch's

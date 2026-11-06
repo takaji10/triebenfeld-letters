@@ -34,7 +34,7 @@ PS Stawisko (2), os., dawniej wś, koniń., gm. Zagórów, 6 km na płd. od Zag�
 
 ## Czarnybród [Nazwy miejscowe Polski, t. 2, p. 197]
 
-BCz Czarnybród, wś, koniń., gm. Grodziec, 10 km na płd.-wsch. od Zagórowa: Czarny Brod 1802 Koz IV 137; Czarnybrod 1802-03 MpGillyPr; Czarny bród 1827 Tabella I 82; Czarny brod 1880 SG I 765; CzanlY Bród 1921 Sk II 36; Czarnybród Czarnegobrodu 1980 WUN I 274; gw. corny brut, - ygo -du, cornobrocKi. - Od wyrażenia czarny bród, początkowo w formie złożenia, później zrostu. Ok. 4 km na wsch. od wsi płynie rz. Czarna Struga.
+BCz Czarnybród, wś, koniń., gm. Grodziec, 10 km na płd.-wsch. od Zagórowa: Czarny Brod 1802 Koz IV 137; Czarnybrod 1802-03 MpGillyPr; Czarny bród 1827 Tabella I 82; Czarny brod 1880 SG I 765; Czarny Bród 1921 Sk II 36; Czarnybród Czarnegobrodu 1980 WUN I 274; gw. czorny brut, -ygo -du, czornobrodzki. - Od wyrażenia czarny bród, początkowo w formie złożenia, później zrostu. Ok. 4 km na wsch. od wsi płynie rz. Czarna Struga.
 
 ## Długa Górka [Nazwy miejscowe Polski, t. 2, p. 348]
 
