@@ -29,6 +29,54 @@ CELL_FIXES = {
     ('0151', 72, 7): '3 III 1614 1 V 1677',
     ('0152', 83, 7): '11 XI 1723',
     ('0156', 136, 7): '1 XI 1751',
+    # numeric cells (digit_read.py template matching against same-print
+    # digit glyphs; correlations >=0.88 unless noted; raw-strip agreement
+    # where the strip OCR caught the same value)
+    ('0139', 4, 8): '5',
+    ('0139', 5, 8): '5',
+    ('0139', 8, 8): '51',        # '511' refuted by the a-series column
+                                 # sum (2386); the third glyph is a
+                                 # raised mark (SPOT)
+    ('0143', 65, 10): '120',
+    ('0143', 67, 10): '104',
+    ('0143', 68, 8): '14',
+    ('0143', 71, 8): '19',
+    ('0145', 92, 8): '10',
+    ('0149', 37, 8): '2',
+    ('0153', 99, 8): '14',
+    # dash cells the OCR had garbled into junk (pixel-verified dashes)
+    ('0142', 54, 10): '—',
+    ('0143', 62, 10): '—',
+    ('0145', 95, 8): '—',
+    ('0145', 96, 9): '—',
+    ('0148', 28, 9): '—',
+    ('0148', 31, 9): '—',
+    ('0148', 33, 10): '—',
+    ('0149', 45, 10): '—',
+    ('0150', 60, 8): '—',
+    ('0153', 94, 8): '—',
+    # 0140 r28/r29 (Dymaczewskie Nowe/Stare): r29's band had swallowed
+    # the sheet's note line; the row's cells re-read from the true band
+    ('0140', 28, 8): '48',
+    ('0140', 28, 10): '266',
+    # r14: the cells' dashes are pixel-verified; the tall glyph beside
+    # each dash (and the marks in dymyTp/ludn) are unresolved ->
+    # SPOT (see notes.md); rok/char/zrodlo/data = '—'
+    ('0140', 14, 4): '—',
+    ('0140', 14, 5): '—',
+    ('0140', 14, 6): '—',
+    ('0140', 14, 7): '—',
+    ('0140', 29, 1): 'Dymaczewskie Stare Ol.',
+    ('0140', 29, 2): 'Łódź',
+    ('0140', 29, 3): 'St. Dymaczewo',
+    ('0140', 29, 4): '1751',
+    ('0140', 29, 5): 'las',
+    ('0140', 29, 6): 'Rel. Posn. nr 489, fol. 69',
+    ('0140', 29, 7): '13 V 1751',
+    # numeric-cell verifications (digit template matching + glyph art)
+    ('0145', 88, 8): '22',       # '4' was a scale artifact; note's 'd. 22' agrees
+    ('0145', 94, 10): '159',     # middle digit '5' (top-bar glyph), not '9'
+    ('0150', 61, 8): '24',       # blob1 = '2' (arc top + base), blob2 = '4'
     # the print's '*' markers (body p. 23-24: dymy given 'zbiorowo' in
     # Tp. 89, estimated per Tp. 90) - star on the dymyTp value
     ('0139', 9, 8): '20 *',

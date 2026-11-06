@@ -654,3 +654,39 @@ annex_notes.py holds NOTES/REFS/RAZEM.
   reuses one def for several refs by design; the body's strict 1:1
   pairing stays in verify_round*). qa_final ALL PASS; verify_round,
   verify_round2, verify_span2 ALL PASS.
+
+## Numeric-junk crack round (digit template matching)
+
+Built digit_read.py: harvests digit-glyph blobs from the draft's
+trusted pure-digit cells (labeled by value), matches target blobs by
+normalized-grid correlation. Sanity checks on 0139 hit 1.00 on known
+values (r1=60, r6=34, r7=23). line_read.py clusters a cell's blobs by
+line (bands are 2-3 rows tall in places).
+
+Fixes encoded (pixel-verified): 0139 r4=5, r5=5 (bar-iozena raws agree),
+r8=51 (the third raised glyph is a mark, NOT a digit - the a-series
+column sum REFUTED '511': 1827+198 would overshoot 2386 with 511);
+0142 r54 c11 dash; 0143 r62 c11 dash, r65 ludn=120, r67 ludn=104
+(SPORT hypotheses confirmed), r68=14, r71=19; 0145 r88 dymy=22 (the
+classifier's 4/0.94 was a SCALE artifact - glyph art shows the 2-arc +
+flat base, and 0146's note says d. 22), r92=10, r94 ludn=159 (middle
+glyph = 5: top bar + bowl, not 9); 0148 r28 dymy=48 ludn=266 (raws),
+r31 c10 dash, r33 c11 dash; 0149 r37=2, r45 c11 dash; 0150 r60 dash,
+r61=24 (blob1=2 arc-top, blob2=4 crossbar); 0153 r94 dash, r99=14;
+0140 r14 rok/char/zrodlo/data = dashes (tall parenthesis-like marks
+beside them - SPOT).
+
+STRUCTURAL find: 0140's r29 band had swallowed the sheet's NOTE line
+(3 notes on one line below the table: '1 Razem z Mostowskimi Ol.'
+'2 Razem z Ol. Szarki.' '3 Razem z Ol. Sosnowiec.'). r29's true band
+re-read: nazwa 'Dymaczewskie Stare Ol.', parafia 'iOd', dzis
+'St. Dymaczewo', rok 1751, char las, zrodlo 'Rel. Posn. nr 489,
+fol. 69' (nr 489 CONFIRMED by the body's [^57-1]), data '13 V 1751';
+dymyTp/ludn carry tall brace-like marks (SPOT). The note block itself
+goes into annex_notes in the next round (refs unresolved - no
+superscripts found on r29's cells).
+
+Arithmetic census (sum_check.py): a col9 needs 559 more from 19 junk
+rows; a col11 needs 2321 from 22; b col9 needs 1056 from 64; b col11
+needs 4100 from 18 junk (+124 dashes - most b-rows' ludn = dash).
+These targets VALIDATE each fix as it lands.
