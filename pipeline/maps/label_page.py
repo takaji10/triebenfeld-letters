@@ -21,7 +21,10 @@ Saved format (fixed; import_labels.py reads it):
   {"map", "width", "height", "saved",
    "labels": [{"id", "place", "new_place", "form", "point", "trace",
                "height", "shows", "note", ["breaks"]}]}
-all coordinates integers in the image's own pixels. "trace" runs along the
+all coordinates integers in the ORIGINAL image's pixels (for a map with a
+`crop` in reference/maps.yml, the offsets of the crop are added on the way
+in and subtracted on the way out; the tiles show the cropped image, the
+saved file the original). "trace" runs along the
 BASELINE of the lettering (the line the letters stand on); "height" is the
 letters' height above that baseline in image pixels ("up" is the left-hand
 perpendicular of each line's reading direction, (dy, -dx) in y-down pixels);
@@ -62,6 +65,9 @@ def build_data(key):
         "height": m["height"],
         "view_rotation": m.get("view_rotation") or 0,
         "tiles": m["tiles"],
+        # The tiles show the crop (tiles.py); the labels are stored in the
+        # original's pixels. The page converts at its two edges (s2i, i2s).
+        "crop": m.get("crop"),
     }
     find, places = [], []
     for p in sorted((ROOT / "reference" / "gazetteer").glob("*.yml")):
@@ -216,6 +222,9 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
 "use strict";
 var DATA = /*DATA*/null;
 var M = DATA.map, KEY = M.key;
+// A cropped map: the tiles show the crop, the labels are stored in the
+// original's pixels. CX, CY convert between the two at the page's edges.
+var CROP = M.crop || null, CX = CROP ? CROP[0] : 0, CY = CROP ? CROP[1] : 0;
 var SHOWS = [["1","village","Village"],["2","oleder-settlement","Olęder settlement"],["3","folwark","Folwark or manor"],
   ["4","tavern","Tavern"],["5","water-mill","Water mill"],["6","windmill","Windmill"],["7","forest","Forest"],
   ["8","field","Field or meadow"],["9","water","Water"],["0","road","Road or crossing"],["-","church","Church"],
@@ -349,12 +358,12 @@ function sizeCanvas(){
   ctx.setTransform(dpr,0,0,dpr,0,0);
 }
 function i2s(p){
-  var q=viewer.viewport.imageToViewerElementCoordinates(new OpenSeadragon.Point(p[0],p[1]));
+  var q=viewer.viewport.imageToViewerElementCoordinates(new OpenSeadragon.Point(p[0]-CX,p[1]-CY));
   return [q.x,q.y];
 }
 function s2i(pos){
   var q=viewer.viewport.viewerElementToImageCoordinates(pos);
-  return [rnd(q.x),rnd(q.y)];
+  return [rnd(q.x+CX),rnd(q.y+CY)];
 }
 var DESC=0.35; // descenders: the band reaches DESC*height below the baseline
 // "up" of a line of the trace, in image pixels (y down): for the unit reading
@@ -749,7 +758,7 @@ function goTo(l){
   pts.forEach(function(p){x0=Math.min(x0,p[0]);y0=Math.min(y0,p[1]);x1=Math.max(x1,p[0]);y1=Math.max(y1,p[1]);});
   var pad=Math.max(150,(l.height||80)*3);
   x0-=pad;y0-=pad;x1+=pad;y1+=pad;
-  viewer.viewport.fitBounds(viewer.viewport.imageToViewportRectangle(x0,y0,x1-x0,y1-y0));
+  viewer.viewport.fitBounds(viewer.viewport.imageToViewportRectangle(x0-CX,y0-CY,x1-x0,y1-y0));
 }
 
 // ---------- map events ----------

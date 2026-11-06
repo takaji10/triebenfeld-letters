@@ -42,7 +42,8 @@ def main():
         im = im.crop(l, t, w, h)
     W, H = im.width, im.height
 
-    im.dzsave(str(out), layout="iiif3", tile_size=512, overlap=0, suffix=".jpg[Q=85]",
+    im.dzsave(str(out), layout="iiif3", tile_size=512, overlap=0,
+              suffix=f".jpg[Q={m.get('tile_quality') or 85}]",
               id=TILE_BASE + "/" + a.key)
 
     for stray in (MAPS_REPO / "vips-properties.xml", out / "vips-properties.xml"):

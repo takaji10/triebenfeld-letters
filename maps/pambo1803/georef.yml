@@ -1,0 +1,58 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: pambo1803
+mapwarper: 71123
+fetched: '2026-11-06'
+mapwarper_title: Map of the border dispute between the Szymanowice and Łukom estates (1801)
+source_uri: ''
+bbox: 17.805803,52.051005,17.9023199,52.1040417
+mapwarper_image: null
+mapwarper_fit: null
+width: 24801
+height: 19218
+gcps:
+- id: mw656339
+  x: 9415.29
+  y: 13914.43
+  lon: 17.8681468956
+  lat: 52.0830400282
+  error_mapwarper: 3.1
+  from: mapwarper
+- id: mw656340
+  x: 11968.89
+  y: 7476.33
+  lon: 17.852675914
+  lat: 52.0733669451
+  error_mapwarper: 6.6
+  from: mapwarper
+- id: mw656341
+  x: 19916.97
+  y: 7441.59
+  lon: 17.8293514244
+  lat: 52.0792290705
+  error_mapwarper: 9.2
+  from: mapwarper
+- id: mw656342
+  x: 23356.5
+  y: 10958.62
+  lon: 17.8235471241
+  lat: 52.088114756
+  error_mapwarper: 5.7
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 4
+  rms_m: 1.42
+  inverse_rms_px: 6.5
+  residuals_m:
+    mw656339: 0.68
+    mw656340: 1.43
+    mw656341: 1.99
+    mw656342: 1.24

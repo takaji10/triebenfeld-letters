@@ -1212,6 +1212,20 @@ cloud branches").
 
 ## Traps in this shell (2026-10-13)
 
+- **An FFT NCC over a big image wants float64 integral images** (2026-11-06,
+  the bulk maps' correlation work). The Lewis-method matcher's local sums
+  through `np.cumsum` in float32 lose hundreds of absolute accuracy over a
+  31-Mpx image; the near-flat regions then get `var_f ≈ 0`, the clamped
+  denominator turns the NCC into a huge spurious peak (>1), and the match
+  silently lands in white margin. The formula itself is the exact one
+  (numerator = plain correlation − t̄·(local sum), denominator from the
+  local variance), the trap is only the accumulator's dtype: cast the image
+  to float64 before the cumsums, and zero out positions whose local
+  variance is below 1e-4·n. A flat-template guard (`var_t < 1e-4·n` → all
+  zeros) keeps white-margin templates from matching anything. The
+  self-match check (a content patch against the whole, peak at 0,0 with NCC
+  ≈ 1) catches both this and the numerator form's errors — run it before
+  any score is believed (the standing rule, "Correlation matchers").
 - A heredoc in the Bash tool fails on an unbalanced apostrophe even when it
   is quoted. Write any script that holds prose with the Write tool and run
   the file.

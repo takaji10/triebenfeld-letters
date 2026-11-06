@@ -1,0 +1,58 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: krolikow1800
+mapwarper: 75589
+fetched: '2026-11-06'
+mapwarper_title: Map of the villages of Królików, Rzegocin, Grab and Łukom
+source_uri: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17927680
+bbox: 17.7300732,51.986621,17.9746857,52.1126017
+mapwarper_image: null
+mapwarper_fit: null
+width: 18824
+height: 15343
+gcps:
+- id: mw690753
+  x: 10620.26
+  y: 3511.31
+  lon: 17.8682327263
+  lat: 52.0828817942
+  error_mapwarper: 30.7
+  from: mapwarper
+- id: mw690755
+  x: 11534.45
+  y: 6661.42
+  lon: 17.8805923455
+  lat: 52.057926552
+  error_mapwarper: 76.8
+  from: mapwarper
+- id: mw690756
+  x: 12071.45
+  y: 9125.89
+  lon: 17.8859996789
+  lat: 52.0373398562
+  error_mapwarper: 42.6
+  from: mapwarper
+- id: mw690758
+  x: 14897.12
+  y: 2627.49
+  lon: 17.9237222664
+  lat: 52.0896853488
+  error_mapwarper: 3.5
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 4
+  rms_m: 41.19
+  inverse_rms_px: 46.5
+  residuals_m:
+    mw690753: 27.89
+    mw690755: 67.48
+    mw690756: 38.1
+    mw690758: 1.5

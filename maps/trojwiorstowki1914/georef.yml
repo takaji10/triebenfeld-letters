@@ -1,0 +1,66 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: trojwiorstowki1914
+mapwarper: 83432
+fetched: '2026-11-06'
+mapwarper_title: Pyzdry-Konin
+source_uri: ''
+bbox: 17.2244154,51.9414345,18.492107,52.5728686
+mapwarper_image: null
+mapwarper_fit: null
+width: 9763
+height: 7173
+gcps:
+- id: mw757175
+  x: 3242.53
+  y: 4563.22
+  lon: 17.6875269406
+  lat: 52.1654365704
+  error_mapwarper: 28.9
+  from: mapwarper
+- id: mw757176
+  x: 5079.6
+  y: 3226.22
+  lon: 17.8731572621
+  lat: 52.2866753153
+  error_mapwarper: 19.5
+  from: mapwarper
+- id: mw757177
+  x: 5433.64
+  y: 5326.47
+  lon: 17.959057688
+  lat: 52.1411859591
+  error_mapwarper: 35.8
+  from: mapwarper
+- id: mw757180
+  x: 9388.66
+  y: 1205.36
+  lon: 18.3315226428
+  lat: 52.4815273352
+  error_mapwarper: 7.7
+  from: mapwarper
+- id: mw757181
+  x: 8163.08
+  y: 6649.15
+  lon: 18.296042382
+  lat: 52.0767844139
+  error_mapwarper: 14.0
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 5
+  rms_m: 187.92
+  inverse_rms_px: 23.5
+  residuals_m:
+    mw757175: 232.86
+    mw757176: 157.18
+    mw757177: 285.25
+    mw757180: 59.7
+    mw757181: 112.7

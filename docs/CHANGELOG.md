@@ -4735,3 +4735,54 @@ footer on every page. Changed, in both languages:
   the tables below now brings the map into view as it flies (the viewer
   scrolls into view; a farm Locate no longer scrolls the page to the row
   it came from).
+
+## 2026-11-06: twenty maps brought in at once - the bulk batch
+
+- The editor supplied the full list of maps to add ("Treat this as one at a
+  time, I'm just providing you with the full list of maps to add. The
+  difference is that I'm asking to do the labelling as a bulk exercise at the
+  end") - twenty maps through steps 1-5 of docs/ADDING_A_MAP.md on the branch
+  `maps-bulk-2026-11`: the register's full entries (nineteen short entries
+  filled, two new keys `mapadrogi1890` and `bildplan1944`), the tiles cut into
+  triebenfeld-maps, the control points fetched and fitted, the labelling pages
+  built for the editor's bulk marking session.
+- Rulings taken in chat before the work: the Mapa dróg map whole (the batch's
+  exception: the editor marks its labels with the form left empty and the
+  Polish standard in its place; Claude's OCR of the marked crops fills the
+  Russian as written afterwards); the fotomapa added with its source open;
+  the four date questions (Blaeu 1664/1665, Pambo 1801/1803, Hollring
+  1804/1805, Krolikow 1800/1800-1815) kept as the register has them and
+  flagged for review; Reymann = the Peisern sheet (its own name says ca.
+  1850 - flagged); Nowy Trabczyn = 001 only; Zagorow 1841 = the north-up
+  rotated image as the map of record, 002 ignored; von Pfau = the full
+  sheet, the editor's own _crop.jpg ignored.
+- The pipeline grew three ways (docs/ADDING_A_MAP.md carries them): the
+  labelling page takes the register's `crop` (the viewer shows the cropped
+  image, the marks are stored in the original's pixels; the first cropped
+  maps are perthees1798, with the crop computed from the gazetteer's padded
+  window through the MapWarper points' affine - scratch/maps_bulk/
+  crop_windows.py); mapwarper_fit takes the anisotropic [sx, tx, sy, ty]
+  (Richter 1843: the editor's points are on the two trimmed PNGs, whose
+  pixel grid is stretched ~1.1% in y against the composite, the fit found by
+  FFT patch correlation with a self-match check first - scratch/maps_bulk/
+  richter_fit.py; the Sek.-III points (83752) appended by hand as from: hand
+  rows, which the re-fetch keeps); tiles.py takes a per-map tile_quality
+  (78 for the six largest sets; the viewer alone - the crops are cut from
+  the original), which kept triebenfeld-maps at 860 MB inside GitHub Pages'
+  1 GB.
+- Fits (order 1, RMS): pambo1803 1.4 m, weydner1804 0.0, hollring1804 0.0,
+  pelzucki1901 6.3, zagorow1841 23.0, krolikow1800 41.2, slupca1957 37.6,
+  trojwiorstowki1914 187.9, perthees1798 314.2, richter1843 423.6 (16
+  points, outlier mw759848 at 844 m - flagged). gilly1802's georeferencing
+  deferred: the MapWarper upload (83446) matches neither file on J: and BII
+  matches neither img_65802 nor the warped tiles at any scale or turn
+  (scratch/maps_bulk/gilly_fit.py, gilly_bii_scan.py) - the two files appear
+  to be different maps; the editor to say which is the map. messtischblatt
+  1940, mapadrogi1890, bildplan1944, ams1962, blaeu1665, vonpfau1770,
+  trabczyn1790, zagorowo1799, reymann1834 have no points: they are
+  georeferenced from the editor's marks (MAPS_PLAN, section 5).
+- NEEDS_CONFIRMATION carries the batch's open questions (the four dates, the
+  two proposed short forms, Gilly's files, the Reymann year, the left-out
+  second files, the unconfirmed orientations); MISSING_SOURCES carries the
+  Bildplan's open source. in_project stays false everywhere until the marks
+  are imported (map_pages.py needs labels.yml).

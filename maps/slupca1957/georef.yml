@@ -1,0 +1,98 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: slupca1957
+mapwarper: 64085
+fetched: '2026-11-06'
+mapwarper_title: Słupca Powiat, 1957
+source_uri: ''
+bbox: 17.5590089,51.9172914,18.3268571,52.5553679
+mapwarper_image: null
+mapwarper_fit: null
+width: 6132
+height: 8286
+gcps:
+- id: mw595470
+  x: 3151.45
+  y: 5426.87
+  lon: 17.9557371133
+  lat: 52.1421538668
+  error_mapwarper: 3.0
+  from: mapwarper
+- id: mw595471
+  x: 3084.13
+  y: 5648.7
+  lon: 17.9475831978
+  lat: 52.1253211271
+  error_mapwarper: 4.9
+  from: mapwarper
+- id: mw595472
+  x: 3229.13
+  y: 5586.55
+  lon: 17.9650068276
+  lat: 52.1300897318
+  error_mapwarper: 1.7
+  from: mapwarper
+- id: mw595473
+  x: 2816.56
+  y: 5822.19
+  lon: 17.9128646843
+  lat: 52.1119874027
+  error_mapwarper: 7.5
+  from: mapwarper
+- id: mw595474
+  x: 2260.7
+  y: 5583.1
+  lon: 17.8444147102
+  lat: 52.1306991299
+  error_mapwarper: 5.2
+  from: mapwarper
+- id: mw595475
+  x: 2831.23
+  y: 6373.72
+  lon: 17.9161262505
+  lat: 52.0698325265
+  error_mapwarper: 5.7
+  from: mapwarper
+- id: mw595476
+  x: 4260.56
+  y: 4100.4
+  lon: 18.092658519
+  lat: 52.2428023527
+  error_mapwarper: 4.3
+  from: mapwarper
+- id: mw595477
+  x: 4174.25
+  y: 1564.26
+  lon: 18.0828309051
+  lat: 52.4363317941
+  error_mapwarper: 2.2
+  from: mapwarper
+- id: mw595478
+  x: 1643.14
+  y: 1500.95
+  lon: 17.7688193313
+  lat: 52.4413520948
+  error_mapwarper: 1.8
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 9
+  rms_m: 37.61
+  inverse_rms_px: 4.4
+  residuals_m:
+    mw595470: 25.33
+    mw595471: 41.15
+    mw595472: 14.23
+    mw595473: 63.39
+    mw595474: 44.41
+    mw595475: 48.34
+    mw595476: 35.88
+    mw595477: 18.45
+    mw595478: 15.34

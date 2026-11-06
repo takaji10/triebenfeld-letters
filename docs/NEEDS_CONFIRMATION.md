@@ -1013,6 +1013,73 @@ read, translate and summarise.
     the mosaic's, and the mark falls outside it on other sheets — the
     mosaic, not the sheet, is the extent to reason from.)
 
+## The maps (the bulk batch of 2026-11-06)
+
+Twenty maps brought in at the editor's word in one sitting (the register's
+entries on the branch `maps-bulk-2026-11`; the labelling pages follow). The
+questions the batch leaves:
+
+- **Four dates against the register's short entries** — the editor was asked
+  and ruled "flag this as something that I need to review, because I'm not
+  sure":
+  - **Blaeu**: the folder dates the plate **1664**, the register (and the
+    atlas volume it sits in) says **1665**. Which year rules?
+  - **Pambo**: the editor's list dates the Szymanowice–Łukom boundary map
+    **1801** and says it is drawn "after Pambo"; the register's short form
+    is **Pambo 1803** (slug `pambo1803`). Which is the map's date?
+  - **Hollring**: the editor's list dates Pejsern–Grądzin **1805**; the
+    register's short form is **Hollring 1804** (slug `hollring1804`). Also:
+    the editor's reference names unit **1/402/0/-/122-27**, but the scan on
+    J: is numbered **1_402_0_0_388-14_0001.jpg** — which reference stands?
+  - **Królików**: the editor's list dates the map **1800-1815**; the
+    register's short form is **Królików 1800** (slug `krolikow1800`).
+  Correcting any of these renames the slug and touches the gazetteer's
+  citations; keeping them leaves the fuller date in the entry's title.
+- **The two proposed short forms** (new keys, the editor's word pending):
+  **"Mapa dróg 1890"** (`mapadrogi1890`) for the Russian roads map of the
+  Słupca poviat, ca. 1890, and **"Bildplan 1944"** (`bildplan1944`) for the
+  German photomap of sheet 3973 Białobłoty. Both carry no MapWarper points
+  yet: the roads map is georeferenced from the editor's marks alone (and is
+  the batch's exception — the editor marks its labels with the form left
+  empty and the Polish standard form in its place, and Claude's OCR of the
+  marked crops fills the Russian as written), the Bildplan's source is open
+  (MISSING_SOURCES carries it).
+- **Gilly 1802 — the georeferencing is deferred.** The editor's MapWarper
+  georeference (83446, "Map of South Prussia - Zagórów Region") was made on
+  an upload (5181 × 4424, the thumb's name img_65802.png) that matches
+  neither file in the folder; and BII.jpg — the map of record, the editor's
+  word — matches neither img_65802.jpg (42 457 × 33 200) nor the warped
+  tiles at any scale or turn tested (scratch/maps_bulk/gilly_fit.py and
+  gilly_bii_scan.py, 2026-11-06; the matcher proved on a self-match first).
+  The two files in the folder appear to be different maps, or BII is a
+  different sheet of the set. **For the editor**: which file is the map the
+  edition wants — BII.jpg as registered, or img_65802.jpg? (img_65802 is
+  the scan with a .kml of its own, MapWarper 83446's and 63625's both
+  plausibly on it; its tiling alone is ~4 GB at the house quality, so a
+  crop would be wanted.) The tiles and labelling page published are BII's.
+- **Richter 1843's fit and outlier.** The composite's fit carries the two
+  trimmed PNGs' points through anisotropic fits (y stretched ~1.1%); RMS
+  424 m over 16 points is the class of the 1843 triangulation, but
+  **mw759848 sits at 844 m** — worth the editor's eye when the warp is
+  checked (a misfit is a question, not a correction).
+- **Reymann 1834's date.** The map of record is the Peisern sheet (the
+  editor's word), whose file's own name says **ca. 1850** and whose BN
+  signature (ZZK S-5 070 A) is not the polona.pl item the editor's list
+  links (52ab5bbc…). The register keeps the editor's short form Reymann
+  1834 with the sheet's own signatures recorded — the year of the sheet in
+  hand is the editor's to rule.
+- **The second files left out** (recorded in the entries): Zagórów 1841's
+  39_98_0_0_9856_002.jpg and Nowy Trąbczyn's 39_98_0_0_10091_002.jpg (the
+  editor's word for both), von Pfau's _crop.jpg, and the four single
+  Messtischblatt sheets beside the editor's mosaic. If any is later wanted,
+  it is its own decision.
+- **Orientations "not confirmed"** (the entries say so): trabczyn1790,
+  zagorowo1799, pambo1803, hollring1804, weydner1804, pelzucki1901,
+  mapadrogi1890 — the editor rules each at the marking (a map drawn with
+  south at the top gets the Łukom treatment: the register's orientation and
+  view_rotation change, and the tiles are re-cut if the map of record
+  changes).
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as

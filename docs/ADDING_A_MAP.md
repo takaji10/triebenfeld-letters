@@ -70,13 +70,23 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    register names it in `mapwarper_image` and gives
    `mapwarper_fit: [scale, tx, ty]`, the mapping of that image's pixels
    into the original's; mapwarper.py applies it to every point it fetches.
-   Find the fit by patch correlation (scratch/map4456/, the method in
-   maps/pelzucki1896/notes.md), and check the matcher on a self-match
-   before trusting any of its scores.
+   When the georeferenced image's pixel grid is stretched against the
+   original's (the two trimmed PNGs of Richter 1843 against the editor's
+   composite), the fit is the anisotropic `[sx, tx, sy, ty]`. Find the fit
+   by patch correlation (scratch/map4456/, scratch/maps_bulk/, the method
+   in maps/pelzucki1896/notes.md), and check the matcher on a self-match
+   before trusting any of its scores. A second georeferenced image whose
+   points the pipeline cannot fetch (Richter's Sek. III, MapWarper 83752,
+   against one register entry) is appended to georef.yml by hand as
+   `from: hand` rows, which the re-fetch keeps.
 4. **Publish the tiles.** Commit and push triebenfeld-maps; wait for its
    Pages build; check `https://takaji10.github.io/triebenfeld-maps/<map>/
    info.json` loads and `.../warp.html?map=<map>` lays the map over
-   OpenStreetMap.
+   OpenStreetMap. **A large set can carry `tile_quality: 78` in its register
+   entry** (tiles.py's default is 85): the tiles feed the viewer alone, and
+   the label crops are always cut from the original — the second
+   repository has to stay inside GitHub Pages' 1 GB (the bulk batch of
+   2026-11-06 put it at 860 MB).
 5. **The labelling page.** `python pipeline/maps/label_page.py <map>`, then
    serve it: `python -m http.server 8765 --directory review/maps` and give
    the editor http://localhost:8765/<map>/. The page lists the names the
@@ -104,6 +114,13 @@ session (WORKING_NOTES, "Working with the editor").
 - **Backslashes.** A Windows path written into a file through this shell's
   heredoc lost a backslash and gained a control character ("\1" in
   "...29)\1_407..."). Write paths with forward slashes.
+- **A cropped map is labelled on the crop.** The labelling page takes the
+  register's `crop`: the viewer shows the cropped image, the marks are stored
+  in the original's pixels (the page converts at its edges; the saved file is
+  in original pixels, as the import and the register want). The crop's
+  `[left, top, width, height]` is in original pixels round the gazetteer's
+  area, padded — computed for a regional sheet from the MapWarper points'
+  affine (the method in scratch/maps_bulk/crop_windows.py, 2026-11-06).
 - **The band must cover the letters.** The traced line is the baseline; the
   band stands on it: `height` pixels above it (the letters' height) and 35%
   of that below it for descenders, and 40% of the height beyond each end. The picture of a name is cut along the

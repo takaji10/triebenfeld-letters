@@ -1,0 +1,74 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: perthees1798
+mapwarper: 83433
+fetched: '2026-11-06'
+mapwarper_title: Kalisz Voivodeship
+source_uri: ''
+bbox: 16.1698765,49.9000385,19.4094496,52.6859531
+mapwarper_image: null
+mapwarper_fit: null
+width: 19027
+height: 17531
+gcps:
+- id: mw757182
+  x: 8121.06
+  y: 5570.2
+  lon: 17.6879882805
+  lat: 52.1685623844
+  error_mapwarper: 8.3
+  from: mapwarper
+- id: mw757183
+  x: 9563.72
+  y: 5391.24
+  lon: 17.9001617424
+  lat: 52.1681412349
+  error_mapwarper: 34.0
+  from: mapwarper
+- id: mw757184
+  x: 10575.4
+  y: 5341.93
+  lon: 18.052082061
+  lat: 52.153293168
+  error_mapwarper: 37.6
+  from: mapwarper
+- id: mw757185
+  x: 9395.71
+  y: 7560.7
+  lon: 17.8714942925
+  lat: 51.9749412628
+  error_mapwarper: 28.1
+  from: mapwarper
+- id: mw757186
+  x: 11336.91
+  y: 6211.18
+  lon: 18.1667089455
+  lat: 52.0705641947
+  error_mapwarper: 22.7
+  from: mapwarper
+- id: mw757187
+  x: 8422.38
+  y: 6642.15
+  lon: 17.7380704872
+  lat: 52.0667389809
+  error_mapwarper: 41.2
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 6
+  rms_m: 314.15
+  inverse_rms_px: 30.7
+  residuals_m:
+    mw757182: 100.07
+    mw757183: 364.13
+    mw757184: 363.38
+    mw757185: 284.85
+    mw757186: 214.85
+    mw757187: 436.09

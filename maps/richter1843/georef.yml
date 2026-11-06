@@ -1,0 +1,150 @@
+map: richter1843
+mapwarper: 83751
+fetched: '2026-11-06'
+mapwarper_title: Słupca (1843 Richter)
+source_uri: ''
+bbox: 17.3571259,52.0931792,18.4481185,52.5683483
+mapwarper_image: J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Topographic Map of the Kingdom of Poland (1843, Richter)/TKKP_1_2_trimmed.png
+mapwarper_fit:
+- 1.001822015911487
+- 742.6491182954719
+- 1.0107982147294199
+- 855.3863100501173
+width: 13894
+height: 19915
+gcps:
+- id: mw759841
+  x: 12163.34
+  y: 2872.32
+  lon: 18.3227545015
+  lat: 52.4804083657
+  error_mapwarper: 85.5
+  from: mapwarper
+- id: mw759842
+  x: 10863.36
+  y: 8596.66
+  lon: 18.2548516981
+  lat: 52.2090464973
+  error_mapwarper: 107.6
+  from: mapwarper
+- id: mw759844
+  x: 6174.75
+  y: 9717.92
+  lon: 17.8751662366
+  lat: 52.1373207029
+  error_mapwarper: 13.0
+  from: mapwarper
+- id: mw759845
+  x: 6356.83
+  y: 9630.35
+  lon: 17.8905513875
+  lat: 52.1413637397
+  error_mapwarper: 8.8
+  from: mapwarper
+- id: mw759846
+  x: 5762.5
+  y: 9869.26
+  lon: 17.8418853872
+  lat: 52.1260324983
+  error_mapwarper: 56.1
+  from: mapwarper
+- id: mw759847
+  x: 4519.12
+  y: 9965.4
+  lon: 17.7395752066
+  lat: 52.1170209571
+  error_mapwarper: 81.9
+  from: mapwarper
+- id: mw759848
+  x: 6236.07
+  y: 6801.5
+  lon: 17.867291271
+  lat: 52.2837809611
+  error_mapwarper: 121.2
+  from: mapwarper
+- id: mw759850
+  x: 12957.67
+  y: 9310.54
+  lon: 18.4240749472
+  lat: 52.1743791041
+  error_mapwarper: 31.9
+  from: mapwarper
+- id: mw759854
+  x: 10218.09
+  y: 2977.03
+  lon: 18.1685784453
+  lat: 52.4739063447
+  error_mapwarper: 9.2
+  from: mapwarper
+- id: mw759862
+  x: 6467.2
+  y: 9104.94
+  lon: 17.9000996444
+  lat: 52.1680274303
+  error_mapwarper: 45.2
+  from: mapwarper
+- id: mw2759855
+  x: 8443.45
+  y: 17775.57
+  lon: 18.099138736
+  lat: 51.7658147826
+  error_mapwarper: 107.6
+  from: hand
+- id: mw2759856
+  x: 11919.52
+  y: 19092.49
+  lon: 18.3769297592
+  lat: 51.7076190281
+  error_mapwarper: 85.3
+  from: hand
+- id: mw2759857
+  x: 12545.97
+  y: 10130.65
+  lon: 18.3944714062
+  lat: 52.1373799683
+  error_mapwarper: 37.8
+  from: hand
+- id: mw2759858
+  x: 4489.9
+  y: 10137.4
+  lon: 17.7403557294
+  lat: 52.1097833967
+  error_mapwarper: 18.5
+  from: hand
+- id: mw2759860
+  x: 6110.47
+  y: 10782.84
+  lon: 17.8681147092
+  lat: 52.0830762901
+  error_mapwarper: 69.2
+  from: hand
+- id: mw2759861
+  x: 6002.56
+  y: 10146.09
+  lon: 17.8617632382
+  lat: 52.1137235161
+  error_mapwarper: 11.9
+  from: hand
+fit:
+  transformation: polynomial
+  order: 1
+  n: 16
+  rms_m: 423.58
+  inverse_rms_px: 78.9
+  residuals_m:
+    mw759841: 411.05
+    mw759842: 559.65
+    mw759844: 52.2
+    mw759845: 117.65
+    mw759846: 267.17
+    mw759847: 346.99
+    mw759848: 843.83
+    mw759850: 462.41
+    mw759854: 321.67
+    mw759862: 332.04
+    mw2759855: 658.55
+    mw2759856: 429.08
+    mw2759857: 165.8
+    mw2759858: 196.98
+    mw2759860: 536.35
+    mw2759861: 262.29

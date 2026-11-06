@@ -1,0 +1,50 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: hollring1804
+mapwarper: 75568
+fetched: '2026-11-06'
+mapwarper_title: Map of the border dispute between the villages of Pejsern and Grądzin
+source_uri: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17927583
+bbox: 17.7715894,52.0858053,17.8419923,52.1197394
+mapwarper_image: null
+mapwarper_fit: null
+width: 18001
+height: 13822
+gcps:
+- id: mw690625
+  x: 2014.63
+  y: 5425.13
+  lon: 17.7832388871
+  lat: 52.1073091137
+  error_mapwarper: 0.0
+  from: mapwarper
+- id: mw690626
+  x: 7681.65
+  y: 1537.7
+  lon: 17.8051471703
+  lat: 52.1149654381
+  error_mapwarper: 0.0
+  from: mapwarper
+- id: mw690631
+  x: 11235.06
+  y: 11622.0
+  lon: 17.8119921677
+  lat: 52.0918936441
+  error_mapwarper: 0.0
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 3
+  rms_m: 0.0
+  inverse_rms_px: 0.0
+  residuals_m:
+    mw690625: 0.0
+    mw690626: 0.0
+    mw690631: 0.0

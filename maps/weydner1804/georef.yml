@@ -1,0 +1,50 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: weydner1804
+mapwarper: 75553
+fetched: '2026-11-06'
+mapwarper_title: Map of the border dispute between the villages of Grądzeń and Myszaków
+source_uri: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17928748
+bbox: 17.7585967,52.0986348,17.8123281,52.1293553
+mapwarper_image: null
+mapwarper_fit: null
+width: 13759
+height: 11670
+gcps:
+- id: mw690521
+  x: 13147.09
+  y: 8080.64
+  lon: 17.8053617471
+  lat: 52.1149127312
+  error_mapwarper: 0.0
+  from: mapwarper
+- id: mw690522
+  x: 4455.63
+  y: 8680.67
+  lon: 17.7833032601
+  lat: 52.1072168608
+  error_mapwarper: 0.0
+  from: mapwarper
+- id: mw690523
+  x: 2489.21
+  y: 6910.29
+  lon: 17.7754712098
+  lat: 52.1087719554
+  error_mapwarper: 0.0
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 3
+  rms_m: 0.0
+  inverse_rms_px: 0.0
+  residuals_m:
+    mw690521: 0.0
+    mw690522: 0.0
+    mw690523: 0.0

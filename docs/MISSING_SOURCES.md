@@ -17,6 +17,12 @@ script, and the footnotes that cite it become links.
 
 ## Elsewhere in the project
 
+- **The German photomap "Bildplan 3973 Białobłoty"** (the folder "Niemieckie
+  fotomapy w cięciu TK25 1939 - 1944" on J:; brought in 2026-11-06 as
+  `bildplan1944` at the editor's word with its source left open): no
+  archive signature, no URL, no maker recorded yet — the file's own name
+  and the folder's title are all the register holds. When the source turns
+  up, fill the entry's title/maker/holder/reference/url.
 - **Seven files from the Geheimes Staatsarchiv** for the Hohenlohe-Ingelfingen
   years (`docs/HOHENLOHE_ERA_PLAN.md`).
 - **The Prusimski-era transcriptions still to come**: nine court-book folders

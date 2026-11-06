@@ -26,7 +26,23 @@ maps:
     cited_as: "Blaeu 1665"
     year: 1665
     kind: atlas
-    in_project: false
+    # Brought in with the bulk batch of 2026-11-06; docs/ADDING_A_MAP.md. The
+    # editor's folder dates the plate 1664; the register's year stands (the
+    # atlas volume is of 1648-1665) - NEEDS_CONFIRMATION carries the question.
+    title: "Palatinatus Posnaniensis, in maiori Polonia primarii nova delineatio"
+    title_en: "A new delineation of the Palatinate of Poznań, the first of Greater Poland"
+    maker: "Joan Blaeu"
+    holder: "Universiteitsbibliotheek Utrecht"
+    reference: "Blaeus grooten atlas, oft werelt-beschryving, eerste deel (1648-1665)"
+    url: "https://objects.library.uu.nl/reader/index.php?obj=1874-403118&lan=en#page//16/79/40/167940078752847382845049341037022921803.jpg/mode/1up"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/First Polish Republic (1314-1793)/PALATINATVS POSNANIENSIS, IN MAIORI POLONIA PRIMARII (1664)/PALATINATVS  POSNANIENSIS,  IN MAIORI POLONIA PRIMARII (1664).png'
+    width: 7588
+    height: 6573
+    crop: null          # the atlas plate whole
+    tiles: "https://takaji10.github.io/triebenfeld-maps/blaeu1665/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   lukom1766:
     cited_as: "Łukom 1766"
     year: 1766
@@ -55,24 +71,112 @@ maps:
   vonpfau1770:
     cited_as: "von Pfau 1770"
     year: 1770
-    in_project: false
+    kind: regional
+    # Brought in with the bulk batch of 2026-11-06. The map of record is the
+    # full sheet (the editor's word: "Full sheet, ignore my crop" - their own
+    # _crop.jpg in the folder is not used).
+    title: "Supplement a la grande Carte de la Pologne qui a paru en 25 l'Anne 1770 a Berlin"
+    title_en: "Supplement to the great Map of Poland that appeared in the year 1770 at Berlin"
+    maker: "Theodor Philip von Pfau"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/447/0/-/658"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17946716"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/First Polish Republic (1314-1793)/Supplement a la grande Carte de la Pologne (1770)/Supplement_a_la_grande_Carte_de_la_Pologne_1770_APP_Sygn._M.Pol._18-III.jpg'
+    width: 12556
+    height: 8304
+    crop: null          # the full sheet (the editor's word)
+    tiles: "https://takaji10.github.io/triebenfeld-maps/vonpfau1770/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   trabczyn1790:
     cited_as: "Trąbczyn 1790"
     year: 1790
-    kind: estate
-    in_project: false
+    kind: sketch
+    # Brought in with the bulk batch of 2026-11-06: the parish sketch in
+    # Perthées' Geograficzno statystyczne opisanie parafów, vol. 5, p. 131
+    # (image 263 of the digitisation).
+    title: "Trąbczyn parish sketch (the Geograficzno statystyczne opisanie parafów Królestwa Polskiego w roku 1796, vol. 5, p. 131)"
+    title_en: "The Trąbczyn parish sketch (Perthées' geographic-statistical description of the parishes of the Kingdom of Poland, 1796, vol. 5, p. 131)"
+    maker: "Karol de Perthées"
+    holder: "V. I. Vernadsky National Library of Ukraine, Kyiv"
+    reference: "Sygn. 5975 (V), vol. 5, p. 131 (image 263)"
+    url: "https://irbis-nbuv.gov.ua/dlib/item/0003565"
+    orientation: north-up   # not confirmed; the editor rules at the marking
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/First Polish Republic (1314-1793)/Trąbczyn Parish Sketch (Karol de Perthées, 1790)/Trąbczyn Parish Sketch (Karol de Perthées, 1790).jpg'
+    width: 4590
+    height: 5319
+    crop: null
+    tiles: "https://takaji10.github.io/triebenfeld-maps/trabczyn1790/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   perthees1798:
     cited_as: "Perthées 1798"
     year: 1798
-    in_project: false
+    kind: regional
+    # Brought in with the bulk batch of 2026-11-06; docs/ADDING_A_MAP.md.
+    # The editor's list dates the map 1798 (the folder's name); the sheet's
+    # own date line is the editor's to confirm.
+    title: "Mappa szczególna województwa Kaliskiego zrządzona z innych wielu mapp mieyscowych tak dawniey jak y swieżo odrysowanych tudzież goscincowych y niewątpliwych wiadomości wszystko według reguł geograficznych i obserwacyi astronomicznych"
+    title_en: "A particular map of the Kalisz Voivodeship"
+    maker: "Karol de Perthées"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/403/0/-/AK 102"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17930928"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/First Polish Republic (1314-1793)/Kalisz Voivodeship (Karol de Perthées, 1798)/Kalisz Voivodeship (Karol de Perthées, 1798).jpg'
+    width: 19027
+    height: 17531
+    # the crop computed 2026-11-06 (scratch/maps_bulk/crop_windows.py): the
+    # gazetteer's padded window through the affine of the editor's MapWarper
+    # points (83433), padded, clamped
+    crop: [6302, 2849, 6848, 7536]
+    mapwarper: 83433
+    tiles: "https://takaji10.github.io/triebenfeld-maps/perthees1798/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   zagorowo1799:
     cited_as: "Zagorowo 1799"
     year: 1799
-    in_project: false
+    kind: estate
+    # Brought in with the bulk batch of 2026-11-06.
+    title: "Plan posiadłości Zagorowo"
+    title_en: "Plan of the Zagorowo estate"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/402/0/-/412-100"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24672150"
+    orientation: north-up   # not confirmed; the editor rules at the marking
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Prussia/Plan of the Zagorow estate (1799) (1.402.0.-.412 - 100)/1_402_0_0_412-100_0001.jpg'
+    width: 9729
+    height: 10850
+    crop: null
+    tiles: "https://takaji10.github.io/triebenfeld-maps/zagorowo1799/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   krolikow1800:
     cited_as: "Królików 1800"
     year: 1800
-    in_project: false
+    kind: estate
+    # Brought in with the bulk batch of 2026-11-06. The editor's list dates
+    # the map 1800-1815; the register's year stands (NEEDS_CONFIRMATION). The
+    # map of record is the editor's copy turned north-up, the image
+    # georeferenced on MapWarper (75589, same 18824 x 15343) - the Łukom
+    # pattern; the lettering's turn is ruled at the marking (view_rotation).
+    title: "Mapa terenów obejmująca wsie Królików, Rzegocin, Grab i Łukom"
+    title_en: "Map of the lands taking in the villages of Królików, Rzegocin, Grab and Łukom"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/402/0/-/127-12"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17927680"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Prussia/Mapa terenów obejmująca wsie Królików, Rzegocin, Grab i Łukom (1800-1815) (1.402.0.-.127 - 12)/1_402_0_0_127-12_0001_rotated.jpg'
+    width: 18824
+    height: 15343
+    tile_quality: 78    # the set is large; the viewer only (the crops are cut from the original)
+    crop: null
+    mapwarper: 75589
+    tiles: "https://takaji10.github.io/triebenfeld-maps/krolikow1800/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   slupetsk1800:
     cited_as: "Slupetsk 1800"
     year: 1800
@@ -80,19 +184,99 @@ maps:
   gilly1802:
     cited_as: "Gilly 1802"
     year: 1802
-    in_project: false
+    kind: regional
+    # Brought in with the bulk batch of 2026-11-06; the map of record is
+    # BII.jpg (the editor's word). OPEN: the editor's MapWarper georeferencing
+    # (83446, "Map of South Prussia - Zagórów Region") was made on an upload
+    # (img_65802.png, 5181 x 4424) that matches neither local file, and
+    # BII.jpg matches neither img_65802.jpg (42457 x 33200) nor the warped
+    # tiles at any scale or turn tested (scratch/maps_bulk/gilly_*.py,
+    # 2026-11-06): the two files in the folder appear to be different maps or
+    # different sheets. The georeferencing is deferred until the editor says
+    # which file is the map; the tiles and the labelling page are BII's.
+    title: "Special Karte von Südpreussen"
+    title_en: "Special Map of South Prussia"
+    maker: "David Gilly"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/402/0/-/6-1"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17930457"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Prussia/Map of South Prussia (1802-03, Gilly)/BII.jpg'
+    width: 10807
+    height: 8112
+    tile_quality: 78    # the set is large; the viewer only (the crops are cut from the original)
+    crop: null
+    mapwarper: 83446    # the points' image is not held here; no fetch run
+    tiles: "https://takaji10.github.io/triebenfeld-maps/gilly1802/info.json"
+    in_project: false   # tiles published; georef and marks open (2026-11-06)
   pambo1803:
     cited_as: "Pambo 1803"
     year: 1803
-    in_project: false
+    kind: estate
+    # Brought in with the bulk batch of 2026-11-06. The editor's list dates
+    # the map 1801 and says it is drawn "after Pambo"; the register's year
+    # and short form stand (NEEDS_CONFIRMATION).
+    title: "Mapa sporu granicznego między dobrami Szymanowice i Łukom"
+    title_en: "Map of the boundary dispute between the estates of Szymanowice and Łukom"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/402/0/-/306-30"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24666683"
+    orientation: north-up   # not confirmed; the editor rules at the marking
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Prussia/Mapa sporu granicznego między dobrami Szymanowice i Łukom (1801) (1.402.0.-.306 - 30)/1_402_0_0_306-30_0001.jpg'
+    width: 24801
+    height: 19218
+    tile_quality: 78    # the set is large; the viewer only (the crops are cut from the original)
+    crop: null
+    mapwarper: 71123
+    tiles: "https://takaji10.github.io/triebenfeld-maps/pambo1803/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   hollring1804:
     cited_as: "Hollring 1804"
     year: 1804
-    in_project: false
+    kind: estate
+    # Brought in with the bulk batch of 2026-11-06. The editor's list dates
+    # the map 1805 (the register's year stands, NEEDS_CONFIRMATION). The
+    # editor's reference names the unit 1/402/0/-/122-27, but the scan on J:
+    # is numbered 388-14 (and is the image georeferenced on MapWarper,
+    # 75568, same 18001 x 13822) - NEEDS_CONFIRMATION.
+    title: "Mapa sporu granicznego między wsiami Pejsern i Grądzin"
+    title_en: "Map of the boundary dispute between the villages of Pejsern and Grądzin"
+    maker: "C. Hollring"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/402/0/-/122-27 (the editor's unit; the scan file on J: is 1_402_0_0_388-14_0001.jpg)"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17927583"
+    orientation: north-up   # not confirmed; the editor rules at the marking
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Prussia/Mapa sporu granicznego między wsiami Pejsern i Grądzin (1.402.0.-.122 - 27)/1_402_0_0_388-14_0001.jpg'
+    width: 18001
+    height: 13822
+    crop: null
+    mapwarper: 75568
+    tiles: "https://takaji10.github.io/triebenfeld-maps/hollring1804/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   weydner1804:
     cited_as: "Weydner 1804"
     year: 1804
-    in_project: false
+    kind: estate
+    # Brought in with the bulk batch of 2026-11-06; the map's own "durch
+    # Weydner" names its maker.
+    title: "Mapa sporu granicznego między wsiami Grądzeń i Myszaków"
+    title_en: "Map of the boundary dispute between the villages of Grądzeń and Myszaków"
+    maker: "Weydner"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/402/0/-/173-11"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17928748"
+    orientation: north-up   # not confirmed; the editor rules at the marking
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Prussia/Mapa sporu granicznego między wsiami Grądzeń i Myszaków (1.402.0.-.173 - 11)/1_402_0_0_173-11_0001.jpg'
+    width: 13759
+    height: 11670
+    crop: null
+    mapwarper: 75553
+    tiles: "https://takaji10.github.io/triebenfeld-maps/weydner1804/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   colberg1827:
     cited_as: "Colberg 1827"
     year: 1827
@@ -100,15 +284,80 @@ maps:
   reymann1834:
     cited_as: "Reymann 1834"
     year: 1834
-    in_project: false
+    kind: regional
+    # Brought in with the bulk batch of 2026-11-06; the map of record is the
+    # Peisern sheet (the editor's word, 2026-11-06), whose file's own name
+    # says ca. 1850 (a later state of the sheet?) - NEEDS_CONFIRMATION. The
+    # sheet's scale and the BN record's URL are to be read/added.
+    title: "Topographische Special-Karte von Central Europa, Blatt 283 (96) Peisern"
+    title_en: "Topographic Special Map of Central Europe, sheet 283 (96) Peisern"
+    maker: "Daniel Gottlob Reymann"
+    holder: "Biblioteka Narodowa, Warsaw"
+    reference: "Sygn. ZZK S-5 070 A, sheet 283 (96) Peisern"
+    url: "https://polona.pl/item-view/52ab5bbc-6137-4c2d-9e24-b429885ecd37?page=0"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Reymann''s topographische Special-Karte von Central Europa (1834)/Reymanns_Special-Karte_283_(96)_Peisern_ca_1850_nHSkXr6_BN_Sygn._ZZK_S-5_070_A.jpg'
+    width: 9722
+    height: 7260
+    crop: null          # the sheet whole
+    tiles: "https://takaji10.github.io/triebenfeld-maps/reymann1834/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   zagorow1841:
     cited_as: "Zagórów 1841"
     year: 1841
-    in_project: false
+    kind: estate
+    # Brought in with the bulk batch of 2026-11-06; docs/ADDING_A_MAP.md. The
+    # map of record is the editor's copy turned north-up, the image
+    # georeferenced on MapWarper (75688, same 9364 x 8637) - the Łukom
+    # pattern; the lettering's turn is ruled at the marking. The folder's
+    # 39_98_0_0_9856_002.jpg is left out (the editor's word, 2026-11-06).
+    title: "Mappa nowo uregulowanych granic między miastem Zagórów a wsiami Wrąbaczynem, Augustianowem, Drzewcami i Oleśnicą położonych w obwodzie Konińskim"
+    title_en: "Map of the newly settled boundaries between the town of Zagórów and the villages Wrąbaczyn, Augustianów, Drzewce and Oleśnica in the Konin obwód"
+    holder: "Archiwum Państwowe w Łodzi (APŁ)"
+    reference: "39/98/0/-/9856"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/29628413"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Mappa nowo uregulowanych granic między miastem Zagórów (39.98.0.-.9856)/39_98_0_0_9856_001_rotated.jpg'
+    width: 9364
+    height: 8637
+    crop: null
+    mapwarper: 75688
+    tiles: "https://takaji10.github.io/triebenfeld-maps/zagorow1841/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   richter1843:
     cited_as: "Richter 1843"
     year: 1843
-    in_project: false
+    kind: topographic
+    # Brought in with the bulk batch of 2026-11-06; docs/ADDING_A_MAP.md. The
+    # map of record is the editor's composite of the two sheets (Kol. I,
+    # Sek. II and III, stacked; the editor's word: "Use composite ... and
+    # don't look at the other maps in the folder"). The editor's MapWarper
+    # points are on the two TRIMMED PNGs (83751 "Słupca", 83752 "Kalisz");
+    # mapwarper_image and the anisotropic mapwarper_fit carry the Sek.-II
+    # points into the composite's pixels (the fit found by patch correlation,
+    # scratch/maps_bulk/richter_fit.py, 2026-11-06; the matcher proved on a
+    # self-match); the Sek.-III points are appended to georef.yml with
+    # from: hand (their own fit, the same method).
+    title: "Topograficzna Karta Królestwa Polskiego, 1:126 000, Kol. I, Sek. II-III"
+    title_en: "Topographic Map of the Kingdom of Poland, 1:126,000, Col. I, Sect. II-III"
+    maker: "Karol Richter (the Russian General Staff)"
+    holder: "Archiwum Państwowe w Poznaniu (APP)"
+    reference: "Sygn. M.Pol. 47, Kol. I, Sek. II-III"
+    scale: "1:126 000"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Topographic Map of the Kingdom of Poland (1843, Richter)/composite_TKKP126K_Kol.I_Sek.II_APP_Sygn._M.Pol._47_(I-II).jpg'
+    width: 13894
+    height: 19915
+    tile_quality: 78    # the set is large; the viewer only (the crops are cut from the original)
+    crop: null          # the composite whole: both sheets are georeferenced
+    mapwarper: 83751
+    mapwarper_image: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Topographic Map of the Kingdom of Poland (1843, Richter)/TKKP_1_2_trimmed.png'
+    mapwarper_fit: [1.001822015911487112, 742.6491182954719, 1.010798214729419876, 855.3863100501173]
+    tiles: "https://takaji10.github.io/triebenfeld-maps/richter1843/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   chrzanowski1858:
     cited_as: "Chrzanowski 1858"
     year: 1858
@@ -177,17 +426,75 @@ maps:
   pelzucki1901:
     cited_as: "Pełzucki 1901"
     year: 1901
-    in_project: false
+    kind: estate
+    # Brought in with the bulk batch of 2026-11-06. The map of record is the
+    # first image of the unit (the editor's word: "001 only"); the folder's
+    # 39_98_0_0_10091_002.jpg is left out.
+    title: "Odrys pomiaru gruntów kolonii Nowy Trąbczyn w powiecie Słupeckim, guberni Kaliskiej położonych"
+    title_en: "Copy of the survey of the lands of the colony Nowy Trąbczyn in the Słupca poviat, Kalisz Governorate"
+    holder: "Archiwum Państwowe w Łodzi (APŁ)"
+    reference: "39/98/0/-/10091"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/29753971"
+    orientation: north-up   # not confirmed; the editor rules at the marking
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Odrys pomiaru gruntów kolonii Nowy Trąbczyn (39.98.0.-.10091)/39_98_0_0_10091_001.jpg'
+    width: 9442
+    height: 6629
+    crop: null
+    mapwarper: 75703
+    tiles: "https://takaji10.github.io/triebenfeld-maps/pelzucki1901/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   wreschen1901:
     cited_as: "Wreschen 1901"
     year: 1901
     kind: topographic
     in_project: false
+  mapadrogi1890:
+    cited_as: "Mapa dróg 1890"
+    year: 1890
+    kind: regional
+    # NEW (the bulk batch of 2026-11-06): the roads map of the Słupca poviat,
+    # ca. 1890 (the editor's date), in Russian. The whole map is in (the
+    # editor's word). The EXCEPTION of the batch: the editor marks the labels
+    # with the form left empty and the Polish standard form in its place; the
+    # Russian as written is filled by Claude's OCR of the marked crops
+    # afterwards (the editor's word, 2026-11-06). The slug and the short form
+    # are proposed, not yet the editor's - NEEDS_CONFIRMATION.
+    title: "Mapa dróg w powiecie słupeckim"
+    title_en: "Map of the roads of the Słupca poviat"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/402/0/-/491-93"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24675160"
+    orientation: north-up   # not confirmed; the editor rules at the marking
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Mapa dróg w powiecie słupeckim (1.402.0.-.491 - 93)/1_402_0_0_491-93_0001.jpg'
+    width: 11009
+    height: 14250
+    crop: null
+    tiles: "https://takaji10.github.io/triebenfeld-maps/mapadrogi1890/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   trojwiorstowki1914:
     cited_as: "Trójwiorstówki 1914"
     year: 1914
     kind: military
-    in_project: false
+    # Brought in with the bulk batch of 2026-11-06. The sheet is scanned by
+    # Mapster (the folder's .url); the maker as the editor gives it - the
+    # three-verst survey associated with F. F. Schubert, printed 1914.
+    title: "Trójwiorstówki (the three-verst map), arkusz Pyzdry-Konin"
+    title_en: "The three-verst map of the western Russian Empire, sheet Pyzdry-Konin"
+    maker: "the survey of F. F. Schubert (Фёдор Фёдорович Шуберт), the 1914 printing"
+    reference: "sheet XVII-D (Mapster 1761425)"
+    url: "https://igrek.amzp.pl/1761425"
+    scale: "1:126 000"   # the three-verst scale, from the series' own name
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Pyzdry-Konin (Schubert, 1914)/XVII-D_KuK_126K_Pyzdry-Konin.jpg'
+    width: 9763
+    height: 7173
+    crop: null          # the sheet whole: the gazetteer's window nearly fills it
+    mapwarper: 83432
+    tiles: "https://takaji10.github.io/triebenfeld-maps/trojwiorstowki1914/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   wig1933:
     cited_as: "Wojskowy Instytut Geograficzny 1933"
     year: 1933
@@ -197,7 +504,48 @@ maps:
     cited_as: "Messtischblatt 1940"
     year: 1940
     kind: topographic
-    in_project: false
+    # Brought in with the bulk batch of 2026-11-06. The map of record is the
+    # editor's mosaic of the four sheets (their word: "Use Mosaic.jpg"); the
+    # sheets' years differ (Zagorow 1940, Slawsk and Bialobloty X.1944) - the
+    # mosaic is one map of record for the edition. The folder's single
+    # sheets are not used by the pipeline. No MapWarper points yet: the
+    # georeference comes from the editor's marks (MAPS_PLAN, section 5).
+    title: "Meßtischblatt 3872 Pyzdry, 3873 Zagorow, 3874 Slawsk, 3973 Bialobloty (the mosaic)"
+    title_en: "Topographic map 1:25,000 (Meßtischblatt), sheets 3872 Pyzdry, 3873 Zagorow, 3874 Slawsk, 3973 Bialobloty — the editor's mosaic"
+    maker: "Reichsamt für Landesaufnahme"
+    holder: "Archiwum Państwowe w Poznaniu (APP)"
+    reference: "M.top.25-1578 (Zagorow) and the sheets' own signatures"
+    url: "http://igrek.amzp.pl/details.php?id=11812119"
+    scale: "1:25 000"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Nazi Germany (1939-1945)/Topographic Map of Poland (Messtischblatt), 1940/Mosaic.jpg'
+    width: 22387
+    height: 21812
+    tile_quality: 78    # the set is large; the viewer only (the crops are cut from the original)
+    crop: null          # the mosaic whole; a crop may follow with the marks
+    tiles: "https://takaji10.github.io/triebenfeld-maps/messtischblatt1940/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+  bildplan1944:
+    cited_as: "Bildplan 1944"
+    year: 1944
+    kind: topographic
+    # NEW (the bulk batch of 2026-11-06): the German photomap on the TK25
+    # cut, sheet 3973 Białobłoty (the folder "Niemieckie fotomapy w cięciu
+    # TK25 1939-1944"). Brought in with its source left open (the editor's
+    # word) - MISSING_SOURCES carries the entry; the slug and the short form
+    # are proposed, not yet the editor's - NEEDS_CONFIRMATION.
+    title: "Bildplan 3973 Białobłoty (Niemieckie fotomapy w cięciu TK25, 1939-1944)"
+    title_en: "German photomap on the TK25 cut, sheet 3973 Białobłoty"
+    scale: "1:25 000"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Poland/Niemieckie fotomapy w cięciu TK25 1939 - 1944/3973_Bialobloty_Bildplan25.jpg'
+    width: 14405
+    height: 14425
+    crop: null
+    tiles: "https://takaji10.github.io/triebenfeld-maps/bildplan1944/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   hohensalza1942:
     cited_as: "Hohensalza 1942"
     year: 1942
@@ -207,9 +555,40 @@ maps:
     cited_as: "Słupca 1957"
     year: 1957
     kind: topographic
-    in_project: false
+    # Brought in with the bulk batch of 2026-11-06; docs/ADDING_A_MAP.md.
+    title: "Mapa powiatu Słupca"
+    title_en: "Map of the Słupca poviat"
+    maker: "Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych"
+    holder: "Archiwum Państwowe w Poznaniu (APP)"
+    reference: "53/992/0/2/M.p.502_1_4"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/1253257"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Poland/Map of Słupca Powiat (1957)/Mapa_powiatu_Słupca_1957.jpg'
+    width: 6132
+    height: 8286
+    crop: null          # the powiat map whole
+    mapwarper: 64085
+    tiles: "https://takaji10.github.io/triebenfeld-maps/slupca1957/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
   ams1962:
     cited_as: "Army Map Service 1962"
     year: 1962
     kind: military
-    in_project: false
+    # Brought in with the bulk batch of 2026-11-06. No MapWarper points: the
+    # georeference comes from the editor's marks (MAPS_PLAN, section 5).
+    title: "Pyzdry, Poland, Series M751, Sheet 2722 II"
+    title_en: "Pyzdry (the Army Map Service's 1:50,000 series M751, sheet 2722 II)"
+    maker: "Army Map Service, US Army"
+    reference: "Series M751, Sheet 2722 II"
+    url: "http://igrek.amzp.pl/11764582"
+    scale: "1:50 000"
+    orientation: north-up
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Poland/Pyzdry (1962)/M751_POLAND_50K_2722_II_PYZDRY_1962_600dpi.jpg'
+    width: 13528
+    height: 17841
+    tile_quality: 78    # the set is large; the viewer only (the crops are cut from the original)
+    crop: null          # the sheet whole
+    tiles: "https://takaji10.github.io/triebenfeld-maps/ams1962/info.json"
+    in_project: false   # tiles published; the editor's marks pending (2026-11-06)

@@ -1,0 +1,106 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
+# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
+# are replaced on every fetch; any other rows are kept. `fit:` is written by
+# pipeline/maps/georef.py.
+map: pelzucki1901
+mapwarper: 75703
+fetched: '2026-11-06'
+mapwarper_title: Nowy Trąbczyn colony in the Słupecki poviat, the Kalisz governorate
+source_uri: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/29753971
+bbox: 17.9250803,52.1317367,17.9793538,52.1569831
+mapwarper_image: null
+mapwarper_fit: null
+width: 9442
+height: 6629
+gcps:
+- id: mw692395
+  x: 6182.14
+  y: 4562.96
+  lon: 17.961316108
+  lat: 52.1409818398
+  error_mapwarper: 12.0
+  from: mapwarper
+- id: mw692396
+  x: 3171.47
+  y: 1048.9
+  lon: 17.9430395357
+  lat: 52.1510484148
+  error_mapwarper: 20.3
+  from: mapwarper
+- id: mw692397
+  x: 8328.97
+  y: 3420.84
+  lon: 17.9718571894
+  lat: 52.1455232727
+  error_mapwarper: 5.8
+  from: mapwarper
+- id: mw692398
+  x: 2338.01
+  y: 3542.37
+  lon: 17.9403412335
+  lat: 52.1425670319
+  error_mapwarper: 21.1
+  from: mapwarper
+- id: mw692399
+  x: 2068.02
+  y: 5608.41
+  lon: 17.9403144114
+  lat: 52.1358736148
+  error_mapwarper: 10.9
+  from: mapwarper
+- id: mw692400
+  x: 5069.02
+  y: 4014.69
+  lon: 17.9552489512
+  lat: 52.1422246484
+  error_mapwarper: 27.2
+  from: mapwarper
+- id: mw692401
+  x: 8873.1
+  y: 2601.19
+  lon: 17.9741317027
+  lat: 52.1483772745
+  error_mapwarper: 13.1
+  from: mapwarper
+- id: mw692402
+  x: 7306.31
+  y: 1999.06
+  lon: 17.965537905
+  lat: 52.1496149393
+  error_mapwarper: 15.8
+  from: mapwarper
+- id: mw692403
+  x: 3708.01
+  y: 1907.91
+  lon: 17.9466283314
+  lat: 52.1484628588
+  error_mapwarper: 21.5
+  from: mapwarper
+- id: mw692404
+  x: 6565.38
+  y: 4060.26
+  lon: 17.9630810015
+  lat: 52.1427579755
+  error_mapwarper: 14.6
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 10
+  rms_m: 6.25
+  inverse_rms_px: 17.3
+  residuals_m:
+    mw692395: 4.26
+    mw692396: 7.4
+    mw692397: 2.07
+    mw692398: 7.63
+    mw692399: 3.98
+    mw692400: 9.86
+    mw692401: 4.73
+    mw692402: 5.63
+    mw692403: 7.78
+    mw692404: 5.29

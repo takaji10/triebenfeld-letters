@@ -5,10 +5,13 @@
 The points are in the pixels of the image uploaded to MapWarper, which is the
 map's `original` in reference/maps.yml. A map whose `original` is not the
 georeferenced image (the five-sheet mosaic of Pełzucki 1896, georeferenced on
-its sheet 4) names it in `mapwarper_image` and gives the mapping from that
-image's pixels into the original's as `mapwarper_fit: [scale, tx, ty]` - the
-fetched points are scaled and shifted before they are written, and the fit is
-recorded in the file.
+its sheet 4; the composite of Richter 1843, georeferenced on its two trimmed
+sheets) names it in `mapwarper_image` and gives the mapping from that image's
+pixels into the original's as `mapwarper_fit` - either the uniform
+[scale, tx, ty] or, when the georeferenced image's pixel grid is stretched
+against the original's (Richter 1843: the trimmed PNGs' y scale differs), the
+anisotropic [sx, tx, sy, ty]. The fetched points are transformed before they
+are written, and the fit is recorded in the file.
 """
 import json
 import sys
@@ -56,11 +59,16 @@ def main():
             f"{m['mapwarper_width']} x {m['mapwarper_height']}")
     gcps = get(f"{API}{n}/gcps")["data"]
     fit = m.get("mapwarper_fit") or [1.0, 0, 0]
-    s, tx, ty = float(fit[0]), float(fit[1]), float(fit[2])
-    if image == m.get("original") and (s, tx, ty) != (1.0, 0, 0):
+    if len(fit) == 4:            # the anisotropic [sx, tx, sy, ty]
+        sx, tx, sy, ty = (float(v) for v in fit)
+    else:
+        sx = sy = float(fit[0])
+        tx, ty = float(fit[1]), float(fit[2])
+    if image == m.get("original") and (sx, tx, sy, ty) != (1.0, 0, 1.0, 0):
         die(f"'{key}': a mapwarper_fit without a mapwarper_image makes no sense")
-    new = [{"id": "mw" + g["id"], "x": round(s * float(g["attributes"]["x"]) + tx, 2),
-            "y": round(s * float(g["attributes"]["y"]) + ty, 2),
+    new = [{"id": "mw" + g["id"],
+            "x": round(sx * float(g["attributes"]["x"]) + tx, 2),
+            "y": round(sy * float(g["attributes"]["y"]) + ty, 2),
             "lon": float(g["attributes"]["lon"]), "lat": float(g["attributes"]["lat"]),
             "error_mapwarper": round(float(g["attributes"]["error"]), 1),
             "from": "mapwarper"} for g in gcps]
@@ -79,7 +87,7 @@ def main():
         data["fit"] = old["fit"]
     dump_yaml(path, data, HEADER)
     where = ("" if image == m.get("original")
-             else f" (from {Path(image).name}, fit scale {s} offset ({tx:.0f}, {ty:.0f}))")
+             else f" (from {Path(image).name}, fit {[round(v, 4) for v in fit]})")
     print(f"{len(new)} control points from MapWarper{where} "
           f"({len(kept)} others kept) -> {path}")
 
