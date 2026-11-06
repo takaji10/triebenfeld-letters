@@ -25,165 +25,112 @@ def datauri(name):
 # ---------------- the decision items -------------------------------------
 # S01-S23 resolved in earlier rounds. The items below are the residue
 # of the full noise-removal pass (figures + text). Item shape:
-# (id, section, page, title, transcription-reads, I-propose, look-at,
-#  why-technical, crop)
+# (id, section, page, title, raw-reading, proposed-reading, logic, crop)
 def pg(sheet):
     return 'p. %d' % (int(sheet) - 15)
 
 
 ITEMS = [
     ('S23', 'B', pg('0146'), 'a-series RAZEM row',
-     'The RAZEM row prints 2.386 dymów | 92 | 12.967. My column '
-     'transcription sums to 2387 | 92 | 12.958.',
-     'Keep the printed RAZEM row unchanged. The dymy column closes '
-     'to within 1 (the print counts the small raised digits); the '
-     'ludn column is 9 short of 12.967 and I cannot find the '
-     'missing 9 anywhere in the scan.',
-     'the RAZEM row at the very bottom of the table; compare its '
-     'three numbers with the columns above it.',
-     'Every ludn cell was pixel-verified (a_audit.py); the dymy '
-     'Delta(-1) follows from the mark-sum law (mark_test.py).',
+     'print: 2.386 | 92 | 12.967   —   column sums: 2387 | 92 | 12.958',
+     'keep 2.386 | 92 | 12.967',
+     'ludn column is 9 short of the printed total; every cell was '
+     'pixel-verified, no missing 9 found in the scan. Dymy closes '
+     'to 1 (the print counts the small raised digits). The printed '
+     'totals stay as printed; the transcription stays as pixel-read.',
      'S23_a_totals_0146.png'),
     ('S24', 'B', pg('0157'), 'b-series RAZEM row',
-     'The RAZEM row prints 2.071 | 38 | 4.484. My columns sum to '
-     '2059 | 38 | ~538.',
-     'Keep the printed RAZEM row unchanged. The printed ludn total '
-     '4.484 cannot come from this column (almost every ludn cell '
-     'is a dash) - it must aggregate something else, or be a print '
-     'error. Leave the column as transcribed.',
-     'the RAZEM row at the bottom; then scan the Ludn column '
-     '(last) upward - you will see it is almost all dashes.',
-     'The ludn dash-ness was verified en masse (dash_scan.py: '
-     'w~66 h<=7 n~300 ink signature); the dymy Delta(12) may share '
-     'the same cause.',
+     'print: 2.071 | 38 | 4.484   —   column sums: 2059 | 38 | ~538',
+     'keep 2.071 | 38 | 4.484',
+     'the printed ludn total 4.484 cannot come from this column '
+     '(almost every cell is a dash). The print total aggregates '
+     'something beyond the column, or is a print error. The '
+     'transcription stays as pixel-read.',
      'S24_b_totals_0157.png'),
     ('S25', 'B', pg('0140'), 'small raised digits after dymy values',
-     'Rows 14 and 17 carry a big dymy number followed by a small '
-     'raised digit: `165 3` and `11 3` (also `29 3` on p. 131, '
-     '`28 1` on p. 136).',
-     'Keep them exactly as transcribed (`165 3` etc.). The print\'s '
-     'own RAZEM counts these small digits, so they are real '
-     'content - but WHAT they mean (a second count? mlyny? an '
-     'estimate?) only your copy/knowledge can say.',
-     'rows 14 and 17, Dymy column (9th): look closely after the '
-     'main number for a small raised digit.',
-     'The glyphs matcher-read as digits @>=0.8; sum experiment '
-     '(mark_test.py) proves the print\'s total counts them '
-     '(2387 vs printed 2386).',
+     '165 3 · 11 3 · 29 3 · 28 1',
+     'keep as transcribed',
+     'the small glyphs read as true digits (@>=0.8) and the '
+     'print\'s RAZEM counts them (sum experiment: 2387 vs printed '
+     '2386). They are content; what they MEAN (second count? '
+     'mlyny? estimate?) is unknown.',
      'S25_marks_0140.png'),
-    ('S26', 'B', pg('0139'), 'row 8 (Błonie al. Żdżar): the third glyph',
-     'The transcription reads `51` in the Dymy column.',
-     'Keep `51`. The scan shows a third small glyph (would read '
-     '`511`), but counting it makes the print\'s own total wrong '
-     'by +1. I read the third glyph as a stray mark, not a digit.',
-     'row 8, Dymy column (9th) - is the value 51 with a smudge, '
-     'or 51 with a small 1?',
-     'With the third glyph counted as a mark the a-dymy sum '
-     'overshoots the printed total by 1; without it, it closes '
-     'exactly. The other marked rows (S25) ARE counted - this one '
-     'behaves differently.',
+    ('S26', 'B', pg('0139'), 'row 8 (Błonie al. Żdżar), Dymy',
+     '51', '51',
+     'the scan shows a third small glyph (would read 511), but '
+     'counting it overshoots the printed RAZEM by 1. The other '
+     'marked rows ARE counted - this one behaves differently, so '
+     'the third glyph is likely a stray mark, not a digit.',
      'S26_mark_0139_r8.png'),
     ('S27', 'B', pg('0140'), 'the three "Razem z..." notes',
-     'Three notes under the table ("Razem z Borujskimi Starymi...", '
-     'etc.) are transcribed as footnotes [^125-1], [^125-2], '
-     '[^125-3] with no row references.',
-     'Keep the notes as they are. If your print copy shows little '
-     'superscript marks on specific rows telling the reader which '
-     'note applies where, tell me the rows and I will wire the '
-     'references.',
-     'the three note lines below the table; the candidate rows are '
-     '14-15 (Borujskie) and 28-29 (Dymaczewskie) further up.',
-     'The superscripts are smaller than the scan\'s resolution; '
-     'repeated high-zoom passes found nothing decisive.',
+     '[^125-1] [^125-2] [^125-3] (no row references)',
+     'keep as transcribed',
+     'the notes print verbatim but the print\'s superscript marks '
+     'on the rows they refer to are below scan resolution. If your '
+     'copy shows them, name the rows and I will wire the refs.',
      'S27_notes_0140.png'),
-    ('S28', 'B', pg('0147'), 'row 5 (Bolewickie Olędry): Charakter',
-     'The Charakter column reads `szatyn"` - garbage.',
-     'No reliable reading. Either empty the cell (`—`), or give me '
-     'the word from your print copy (my guess: something like '
-     '"na sztynach"? a terrain word?).',
-     'row 5, Charakter column (6th).',
-     'The strip raw holds nothing usable after the name group.',
+    ('S28', 'B', pg('0147'), 'row 5 (Bolewickie Olędry), Charakter',
+     'szatyn"', '—',
+     'unrecoverable at scan resolution; the strip holds nothing '
+     'after the name group.',
      'S28_0147_r5.png'),
-    ('S29', 'B', pg('0148'), 'rows 18 and 24: Rok',
-     'Row 18 (Daleszynek) Rok reads `r`; row 24 (Filipowo) reads '
-     '`o` - both garbage.',
-     'Replace both with `—` (no year visible in the scan). If your '
-     'print shows a year in either cell, give it to me.',
-     'rows 18 and 24, Rok column (5th).',
-     'Strip raws show no year for either row (r18\'s strip is the '
-     'garble "TE"; r24\'s is the razem-z-Wyszynkami glue).',
+    ('S29', 'B', pg('0148'), 'rows 18 and 24, Rok',
+     'r · o', '— · —',
+     'no year visible in the scan or the strips for either row.',
      'S29_0148_r18_r24.png'),
-    ('S30', 'B', pg('0151'), 'row 68 (Lubowo Zarzeczne): Źródło head',
-     'The Źródło column reads `rowo, vol. III` - the citation '
-     'starts mid-word.',
-     'Reconstruct the head as `AGH. s. ..., maj. Lubo|wo, vol. '
-     'III` - but the court/majętność name before "rowo" is lost in '
-     'the scan. Needs your print copy to complete.',
-     'row 68, Źródło column (7th) - the text visibly starts '
-     'mid-word.',
-     'The strip shows only the tail; the head sits under the '
-     'multi-line glue of the neighbour row.',
+    ('S30', 'B', pg('0151'), 'row 68 (Lubowo Zarzeczne), Źródło',
+     'rowo, vol. III',
+     'AGH. s. …, maj. Lubowo, vol. III',
+     'the citation starts mid-word; the head (court/majętność '
+     'before "rowo") is lost under the neighbour-row glue. Needs '
+     'the print copy for the missing name.',
      'S30_0151_r68.png'),
-    ('S31', 'B', pg('0154'), 'row 105 (Psarskie Małe): Źródło head',
-     'The Źródło column reads `ZMITLIZe"- 5a. Z LIU" wy, maj. '
-     'Psarskie, Tax Acten, v. II, fol. 88—94`.',
-     'Keep the certain tail (`... maj. Psarskie, Tax Acten, v. II, '
-     'fol. 88—94`); the garbled head is almost certainly `AGH. s. '
-     '<court>, maj. Psarskie...` (cf. row 104\'s clean "AGH. s. '
-     'Szamotuły, maj. Myszkowo, Tax Acten"). The court name needs '
-     'your print.',
-     'row 105, Źródło column; compare with row 104\'s clean '
-     'citation two rows up.',
-     'Same formula family as 0153 r104 (strip-verified there); '
-     'only the court name is unrecoverable here.',
+    ('S31', 'B', pg('0154'), 'row 105 (Psarskie Małe), Źródło',
+     'ZMITLIZe"- 5a. Z LIU" wy, maj. Psarskie, Tax Acten, v. II, '
+     'fol. 88—94',
+     'AGH. s. …, maj. Psarskie, Tax Acten, v. II, fol. 88—94',
+     'the tail is clean and formula-typical (cf. row 104\'s clean '
+     '"AGH. s. Szamotuły, maj. Myszkowo, Tax Acten"); only the '
+     'court name in the head is unrecoverable. Needs the print.',
      'S31_0154_r105.png'),
-    ('S32', 'B', pg('0154'), 'rows 109-111 (Rańsko/Rożnowo) + row 115',
-     'Row 110 nazwa/parafia read `Rosnowskie Olędry | Komorniki`; '
-     'row 111 Źródło reads `4VY. Db. FU` (garbage); row 115 '
-     'Charakter and Źródło are garbage (`—c= z p"` / `Giszy z a '
-     'zu"`).',
-     'Row 110 nazwa: change to `Rożnowskie Olędry` (to match row '
-     '111\'s Rożnowo) - confirm from your print. Row 111 Źródło and '
-     'row 115\'s two cells: need your print copy. The figures '
-     '(15/21/13*/11) are verified and unaffected.',
-     'rows 109-111 and 115: does the settlement name Rożnowo '
-     'appear in both rows 110 and 111? And is row 115\'s Sępolno '
-     'row carrying a real źródło?',
-     'The rows sit under multi-line glue; figures were settled by '
-     'Lp-anchor pixel reads, but the text distribution was not.',
+    ('S32', 'B', pg('0154'), 'rows 109-111 + 115 (the Rożnowo knot / Sępolno)',
+     'r110: Rosnowskie Olędry | Komorniki;  r111 Źr: 4VY. Db. FU;  '
+     'r115: —c= z p" | Giszy z a zu"',
+     'r110: Rożnowskie Olędry;  r111 Źr: AW. B. 770;  '
+     'r115: — | —',
+     'r110\'s nazwa should match r111\'s Rożnowo (the strip shows '
+     'one glued name group). r111\'s source is the same AW. B. 770 '
+     'line the strip shows across the razem-z pair. r115\'s garbles '
+     'belong to r116\'s glue (Rel. Posn. nr 643), leaving r115 '
+     'empty. Figures (15/21/13*/11) are pixel-verified regardless.',
      'S32_0154_r109_r115.png'),
-    ('S33', 'B', pg('0157'), 'row 146 (Wyssogotowo al. Czarne Olędry): Rok + Źródło',
-     'Rok reads `pozy lil mr £`; Źródło reads `b sz b s I` - both '
-     'garbage.',
-     'Rok: replace with `—`. Źródło: need your print copy (my '
-     'guess: a Rel. Posn. nr ... form like its neighbours). The '
-     'dymy value 17 is verified and unaffected.',
-     'row 146, Rok (5th) and Źródło (7th) columns.',
-     'The row sits under the r146/r147 glue knot; only the figures '
-     'and dashes could be anchored.',
+    ('S33', 'B', pg('0157'), 'row 146 (Wyssogotowo al. Czarne Olędry), Rok + Źródło',
+     'pozy lil mr £ | b sz b s I',
+     '— | —',
+     'both cells sit under the r146/r147 glue; the "Rel. Posn. nr" '
+     'in the strip belongs to r147. Dymy 17 is pixel-verified '
+     'regardless. If your print shows a source for r146, give it '
+     'to me.',
      'S33_0157_r146.png'),
-    ('S34', 'B', pg('0158'), 'rows 1, 2, 5: Charakter + Źródło garbles',
-     'Row 1: Charakter `LL] g`, Źródło garbled. Row 2: Źródło '
-     'garbled. Row 5: Charakter `ZZ e ft I`.',
-     'No reliable readings - these cells are very tight small '
-     'print. Either empty them (`—`) or supply the text from your '
-     'copy. The years (1747/1743/1786) and dymy values are '
-     'verified and unaffected.',
-     'rows 1, 2 and 5, Charakter (6th) and Źródło (7th) columns.',
-     'The c-series opening rows render as letter-soup at scan '
-     'resolution; strips confirm only years and figures.',
+    ('S34', 'B', pg('0158'), 'rows 1, 2, 5: Charakter + Źródło',
+     'r1: LL] g | A«xYY. D. id s…;  r2 Źr: MY. AM. o. av…;  '
+     'r5: ZZ e ft I',
+     '— everywhere',
+     'tight small print renders as letter-soup at scan resolution; '
+     'strips confirm only the years (1747/1743/1786) and the dymy '
+     'values, which are unaffected.',
      'S34_0158_r1_r5.png'),
-    ('S35', 'B', pg('0159'), 'row 10 (Trzy Domy): Rok',
-     'The Rok column reads `I /DO` (garbage). The data column '
-     'cleanly reads `15 IV 1755`.',
-     'Replace Rok with `—` - unless your print repeats the date\'s '
-     'year (1755) in the Rok column, which several other rows do.',
-     'row 10: compare the Rok column (5th) with the data column '
-     '(4th from the right).',
-     'The strip shows the data-year at the far right; whether the '
-     'Rok cell carries it too is beyond the scan.',
+    ('S35', 'B', pg('0159'), 'row 10 (Trzy Domy), Rok',
+     'I /DO',
+     '—',
+     'the data column cleanly reads 15 IV 1755; whether the Rok '
+     'cell repeats 1755 (several other rows do) is beyond the '
+     'scan. If your print repeats it, type 1755.',
      'S35_0159_r10.png'),
 ]
+def pg(sheet):
+    return 'p. %d' % (int(sheet) - 15)
+
 
 # ---------------- the tables ----------------------------------------------
 def read_csv(name):
@@ -208,7 +155,7 @@ E = html.escape
 
 
 def item_html(it):
-    iid, sec, page, title, now, propose, look, why, crop = it
+    iid, sec, page, title, raw, propose, logic, crop = it
     uri = datauri(crop)
     img = ('<img class="crop" loading="lazy" src="' + uri +
            '" alt="' + E(title) + '">') if uri else \
@@ -218,14 +165,20 @@ def item_html(it):
         '<div class="itemhead"><span class="tag">' + iid + '</span>'
         '<span class="page">' + E(page) + '</span> — <strong>' + E(title) +
         '</strong></div>'
-        '<p><b>The transcription reads:</b> ' + E(now) + '</p>'
-        '<p style="background:#eef7ee;border-left:4px solid #494;'
-        'padding:6px 10px"><b>I propose:</b> ' + E(propose) + '</p>'
-        '<p style="color:#444"><b>Look at:</b> ' + E(look) + '</p>'
+        '<table style="border-collapse:collapse;margin:6px 0">'
+        '<tr><td style="padding:2px 12px 2px 0;color:#555;'
+        'white-space:nowrap">The transcription reads:</td>'
+        '<td><code style="background:#f4f4f4;padding:1px 6px">' +
+        E(raw) + '</code></td></tr>'
+        '<tr><td style="padding:2px 12px 2px 0;color:#555;'
+        'white-space:nowrap;font-weight:bold">I propose:</td>'
+        '<td style="background:#eef7ee;border-left:4px solid #494">'
+        '<code style="background:#eef7ee;padding:1px 6px">'
+        + E(propose) + '</code></td></tr>'
+        '</table>'
         + img +
         '<details style="font-size:85%;color:#666;margin:6px 0">'
-        '<summary>why I doubt it (technical)</summary><p>' + E(why) +
-        '</p></details>' +
+        '<summary>Logic</summary><p>' + E(logic) + '</p></details>' +
         '<div class="answer">'
         '<label><input type="radio" name="' + iid +
         '" value="ok"> agree with my proposal</label>'
