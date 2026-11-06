@@ -58,6 +58,10 @@
     ty = my - (my - ty) * k
   }
   function down(e) {
+    // presses inside the expanded card belong to the panel - its links
+    // and buttons need the events (pointer capture would retarget them
+    // to the viewport, the Firefox lesson)
+    if (e.target?.closest?.('.detail')) return
     el.setPointerCapture?.(e.pointerId)
     pointers.set(e.pointerId, { x: e.clientX, y: e.clientY })
     const card = e.target?.closest?.('[data-pid]')
@@ -140,44 +144,54 @@
   }
 
   // clicking a card expands it in place - the detail panel (birth
-  // date+place, death date+place, a link to the person page) opens over
-  // the card; the click that took the user away from the master view
-  // was unexpected (the editor, 2026-11-06). The panel closes on a
-  // second click, on its ×, or when another card is opened.
+  // date+place, death date+place, a link to the person page) opens
+  // beside the card, rendered inside the chart so it pans and zooms
+  // with everything else; and the view centres on the card, which
+  // otherwise sits cut off at the viewport's edge (the editor,
+  // 2026-11-06). The panel closes on a second click, on its ×, or when
+  // another card is opened.
   let openCard = $state(null)
 
   function cardClick(pid) {
     openCard = openCard === pid ? null : pid
+    if (openCard) centreOnCard(openCard)
   }
 
   function gotoPerson(pid) { goto('person/' + pid) }
 
-  // the expanded card's screen position and data - computed from the
-  // card's chart coordinates through the current transform
-  const detail = $derived.by(() => {
-    if (!openCard || !chart || !el) return null
-    const n = chart.nodes.find(x => x.id === openCard)
-    if (!n) return null
-    const v = db.index[n.id]
-    if (!v) return null
-    const rect = el.getBoundingClientRect()
-    const fmtD = (raw, y) => raw ? fmtDate(raw, i18n.lang) : (y != null ? String(y) : '')
-    return {
-      id: n.id,
-      name: v.n,
-      avatar: v.pt && db.meta?.media_base ? db.meta.media_base + v.pt : null,
-      b: fmtD(v.br, v.b), d: fmtD(v.dr, v.d),
-      bp: v.bp || '', dp: v.dp || '',
-      L: !!v.L,
-      // the card's top-left in the viewport's coordinate space: the
-      // chart base, then the card, then the pan and zoom
-      x: (chart.baseX + n.x) * scale + tx,
-      y: (chart.baseY + n.y) * scale + ty,
-      w: n.w * CELL * scale,
-      h: CARD_H * scale,
-      rectW: rect.width, rectH: rect.height,
-    }
+  // the portrait URL for a person in the index; null when there is none
+  function avatarOf(pid) {
+    const v = db.index?.[pid]
+    return v?.pt && db.meta?.media_base ? db.meta.media_base + v.pt : null
+  }
+
+  // the open card's node (the card itself, or the block whose spouse it
+  // is) - the panel renders in chart coordinates
+  const openNode = $derived.by(() => {
+    if (!openCard || !chart) return null
+    return chart.nodes.find(x => x.id === openCard || x.spouse === openCard)
+      || null
   })
+
+  // centre the view on a card (content coordinates, base included)
+  function centreOn(cx, cy) {
+    if (!el) return
+    const rect = el.getBoundingClientRect()
+    if (rect.width <= 0) return
+    tx = rect.width / 2 - cx * scale
+    ty = rect.height / 2 - cy * scale
+  }
+
+  function centreOnCard(pid) {
+    if (!chart) return
+    const n = chart.nodes.find(x => x.id === pid || x.spouse === pid)
+    if (!n) return
+    // the block centre of the card that was clicked (the spouse card's
+    // centre when the spouse was clicked)
+    const left = n.spouse === pid ? n.x + CELL : n.x
+    centreOn(chart.baseX + left + CARD_W / 2,
+             chart.baseY + n.y + CARD_H / 2)
+  }
 
   // the navigation arrows: does more tree exist beyond the window?
   const moreUp = $derived(db.ready && focusId ? hasMoreUp(db, focusId) : false)
@@ -408,34 +422,45 @@
         </g>
       </g>
     </svg>
-    {#if openCard && detail}
-      <!-- the expanded card: an HTML panel positioned over the viewport
-           at the card's screen position, closing on its own button -->
-      <div class="detail" style:left="{detail.x}px" style:top="{detail.y}px">
-        <button class="dclose" onclick={() => { openCard = null }} aria-label="close">×</button>
-        <div class="dhead">
-          {#if detail.avatar}
-            <img class="dav" src={detail.avatar} alt="">
-          {:else}
-            <svg class="dav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+    {#if openNode}
+      {@const on = openNode}
+      {@const isSpouse = on.spouse === openCard}
+      {@const dv = db.index[openCard]}
+      {@const px = isSpouse ? on.x + CELL : on.x}
+      <!-- the expanded card, rendered inside the chart: it pans and
+           zooms with everything else, the way the editor asked -->
+      <foreignObject x={px} y={on.y + CARD_H + 6} width="250" height="190"
+                     class="detailspace">
+        <div class="detail" xmlns="http://www.w3.org/1999/xhtml">
+          <button class="dclose" onclick={() => { openCard = null }}
+                  aria-label="close">×</button>
+          <div class="dhead">
+            {#if avatarOf(openCard)}
+              <img class="dav" src={avatarOf(openCard)} alt="">
+            {:else}
+              <svg class="dav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+            {/if}
+            <div>
+              <div class="dname">{dv?.n || openCard}</div>
+              <div class="dpid">{openCard}</div>
+            </div>
+          </div>
+          {#if dv && !dv.L}
+            {#if dv.br || dv.b}<div class="drow"><span class="dlab">born</span> {dv.br ? fmtDate(dv.br, i18n.lang) : dv.b}{#if dv.bp} · {dv.bp}{/if}</div>{/if}
+            {#if dv.dr || dv.d}<div class="drow"><span class="dlab">died</span> {dv.dr ? fmtDate(dv.dr, i18n.lang) : dv.d}{#if dv.dp} · {dv.dp}{/if}</div>{/if}
+          {:else if dv?.L}
+            <div class="drow">{i18n.t('privacy_note')}</div>
           {/if}
-          <div>
-            <div class="dname">{detail.name}</div>
-            <div class="dpid">{detail.id}</div>
+          <div class="dacts">
+            <a class="dlink" href={'#/person/' + openCard}>{i18n.t('go_to_person')} →</a>
+            {#if openCard !== focusId}
+              <button class="dcentre" onclick={() => { setFocus(openCard) }}>
+                {i18n.t('centre_here')}
+              </button>
+            {/if}
           </div>
         </div>
-        {#if detail.b || detail.bp}<div class="drow"><span class="dlab">born</span> {detail.b}{#if detail.bp} · {detail.bp}{/if}</div>{/if}
-        {#if detail.d || detail.dp}<div class="drow"><span class="dlab">died</span> {detail.d}{#if detail.dp} · {detail.dp}{/if}</div>{/if}
-        {#if detail.L}<div class="drow"><span class="dlab">·</span> {i18n.t('privacy_note')}</div>{/if}
-        <div class="dacts">
-          <a class="dlink" href={'#/person/' + detail.id}>{i18n.t('go_to_person')} →</a>
-          {#if detail.id !== focusId}
-            <button class="dcentre" onclick={() => { setFocus(detail.id) }}>
-              {i18n.t('centre_here')}
-            </button>
-          {/if}
-        </div>
-      </div>
+      </foreignObject>
     {/if}
   </div>
   <div class="navarrows">
@@ -462,6 +487,10 @@
   .viewport { position: relative; overflow: hidden; border: 1px solid var(--rule);
     border-radius: 3px; background: var(--paper2); touch-action: none;
     cursor: grab; user-select: none; max-height: 78vh; }
+  /* the dedicated tree page: a window on the page, not a strip - 80%
+     of the window's width and height (the editor's measure) */
+  .viewport:not(.embed) { width: 80vw; height: 80vh; max-height: none;
+    margin: 0 auto; }
   .viewport.embed { max-height: 34rem; }
   .viewport:active { cursor: grabbing; }
   svg { display: block; }
@@ -474,9 +503,10 @@
   .node .hit { cursor: pointer; }
   .che { font-size: 12px; }
   .hint { font-size: .74rem; color: var(--faint); margin: .3rem 0 0; }
-  /* the expanded card: an HTML panel over the viewport at the card's
-     screen position - the "card expands slightly" the editor asked for */
-  .detail { position: absolute; z-index: 40; width: 16rem;
+  /* the expanded card, inside the chart: it pans and zooms with the
+     tree; foreignObject carries the HTML */
+  .detailspace { overflow: visible; }
+  .detail { position: relative; width: 250px; box-sizing: border-box;
     background: var(--card); border: 1px solid var(--accent);
     border-radius: 5px; box-shadow: 0 6px 24px rgba(40, 32, 26, .18);
     padding: .6rem .7rem; font-size: .8rem; cursor: default; }

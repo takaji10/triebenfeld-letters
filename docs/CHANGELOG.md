@@ -5274,6 +5274,34 @@ footer on every page. Changed, in both languages:
 - jekyll and verify_site ALL CHECKS PASSED with the project baseurl
   and with none; the layout battery passes.
 
+## 2026-11-06: the tree page sized, the couple links landing true
+
+- **The Tree page's chart is a window on the page**: 80% of the
+  window's width and 80% of the viewport's height, centred (the
+  editor's measure); the embedded chart on the person pages keeps its
+  own size.
+- **Opening a card centres the view on it** - the panel opened at the
+  viewport's edge was cut off; the click now also pans so the card
+  sits mid-viewport.
+- **The expanded card renders inside the chart** (a foreignObject at
+  the card's chart coordinates) instead of an HTML overlay positioned
+  by the current transform: it pans and zooms with the tree like every
+  other piece, which is what the editor asked for. The pointer handler
+  stands down for presses inside the panel so its links and buttons
+  survive the pointer capture (the Firefox lesson again).
+- **The couple links land on the blood person's card** (the editor's
+  screenshot: the line into Krystyna Celmer and Bogusław Stark landed
+  between the spouses, unreadable as to who married in): the endpoint
+  shifts from the block's centre to the blood card's centre by
+  (w·CELL − CARD_W)/2 where the node renders a spouse - computed for
+  the child side and the parent side of every descendant link, and for
+  the focus row's upward links (whose spouse the ancestor tree's own
+  nodes do not know about). Verified on I2889: both the link in from
+  her parents and the links out to her children start and end at her
+  card's centre, x = −91 in chart units.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own

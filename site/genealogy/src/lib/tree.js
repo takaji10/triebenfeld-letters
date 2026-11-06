@@ -198,20 +198,35 @@ export function layout(db, id, mode = 'hourglass') {
       if (n.data.root && down) return   // the focus card comes from `down`
       card(n.px, -n.y * ROW_H, n.data, !down && n.data.root)
     })
+    // the shift from a block's centre to the blood person's card centre:
+    // the person card sits at the block's left, the spouse beside them
+    const blockShift = w => w > 1 ? (w * CELL - CARD_W) / 2 : 0
+    // the focus row renders the spouse from the down data, which the up
+    // tree's own root node does not know about
+    const focusShift = down && down.data.spouses?.length
+      ? blockShift(down.data.w) : 0
     for (const l of up.links()) {
       // source = the person nearer the focus (lower on screen),
       // target = their ancestor (higher on screen)
       const s = l.source, t = l.target
-      links.push(elbow(s.px, -s.y * ROW_H,
+      const sx = s.data.root ? s.px - focusShift : s.px
+      links.push(elbow(sx, -s.y * ROW_H,
                        t.px, -t.y * ROW_H + CARD_H))
     }
   }
   if (down) {
     down.each(n => { card(n.px, n.y * ROW_H, n.data, n.data.root) })
+    const blockShift = w => w > 1 ? (w * CELL - CARD_W) / 2 : 0
     for (const l of down.links()) {
       const s = l.source, t = l.target
-      links.push(elbow(s.px, s.y * ROW_H + CARD_H,
-                       t.px, t.y * ROW_H))
+      // land on the blood person's own card, not the couple block's
+      // middle - otherwise the line lands ambiguously between the
+      // spouses and nobody can tell who married in (the editor's
+      // screenshot: Krystyna Celmer and Bogusław Stark)
+      const sx = s.px - blockShift(s.data.w)
+      const tx2 = t.px - blockShift(t.data.w)
+      links.push(elbow(sx, s.y * ROW_H + CARD_H,
+                       tx2, t.y * ROW_H))
     }
   }
 
