@@ -4803,3 +4803,10 @@ footer on every page. Changed, in both languages:
   address — the Richter mw759848 reminder among them) is built by
   scratch/maps_bulk/build_index.py to review/maps/index.html, served at the
   server root (http://localhost:8780/).
+- The warp viewer's base map is switchable (the editor's request of the same
+  sitting): OpenStreetMap or Esri World Imagery satellite, the buttons in
+  the bar, `?base=satellite` opening on the satellite; the labelling
+  index's Overlay column links both (takaji10.github.io/triebenfeld-maps/
+  warp.html?map=<key>[&base=satellite]), shown only where a georeference
+  exists — the maps without points yet show "with the georef" until their
+  marks georeference them.
