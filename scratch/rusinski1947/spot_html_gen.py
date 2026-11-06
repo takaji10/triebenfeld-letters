@@ -23,110 +23,117 @@ def datauri(name):
 
 
 # ---------------- the decision items -------------------------------------
-# S01-S23 resolved in earlier rounds. The items below are the residue
-# of the full noise-removal pass (figures + text). Item shape:
-# (id, section, page, title, raw-reading, proposed-reading, logic, crop)
+# Round 1 (S23-S35) answered by the editor and applied. The items
+# below = round 2: the footnote-marker audit's residue.
 def pg(sheet):
     return 'p. %d' % (int(sheet) - 15)
 
 
 ITEMS = [
-    ('S23', 'B', pg('0146'), 'a-series RAZEM row',
-     'print: 2.386 | 92 | 12.967   —   column sums: 2387 | 92 | 12.958',
-     'keep 2.386 | 92 | 12.967',
-     'ludn column is 9 short of the printed total; every cell was '
-     'pixel-verified, no missing 9 found in the scan. Dymy closes '
-     'to 1 (the print counts the small raised digits). The printed '
-     'totals stay as printed; the transcription stays as pixel-read.',
-     'S23_a_totals_0146.png'),
-    ('S24', 'B', pg('0157'), 'b-series RAZEM row',
-     'print: 2.071 | 38 | 4.484   —   column sums: 2059 | 38 | ~538',
-     'keep 2.071 | 38 | 4.484',
-     'the printed ludn total 4.484 cannot come from this column '
-     '(almost every cell is a dash). The print total aggregates '
-     'something beyond the column, or is a print error. The '
-     'transcription stays as pixel-read.',
-     'S24_b_totals_0157.png'),
-    ('S25', 'B', pg('0140'), 'small raised digits after dymy values',
-     '165 3 · 11 3 · 29 3 · 28 1',
-     'keep as transcribed',
-     'the small glyphs read as true digits (@>=0.8) and the '
-     'print\'s RAZEM counts them (sum experiment: 2387 vs printed '
-     '2386). They are content; what they MEAN (second count? '
-     'mlyny? estimate?) is unknown.',
-     'S25_marks_0140.png'),
-    ('S26', 'B', pg('0139'), 'row 8 (Błonie al. Żdżar), Dymy',
-     '51', '51',
-     'the scan shows a third small glyph (would read 511), but '
-     'counting it overshoots the printed RAZEM by 1. The other '
-     'marked rows ARE counted - this one behaves differently, so '
-     'the third glyph is likely a stray mark, not a digit.',
-     'S26_mark_0139_r8.png'),
-    ('S27', 'B', pg('0140'), 'the three "Razem z..." notes',
-     '[^125-1] [^125-2] [^125-3] (no row references)',
-     'keep as transcribed',
-     'the notes print verbatim but the print\'s superscript marks '
-     'on the rows they refer to are below scan resolution. If your '
-     'copy shows them, name the rows and I will wire the refs.',
-     'S27_notes_0140.png'),
-    ('S28', 'B', pg('0147'), 'row 5 (Bolewickie Olędry), Charakter',
-     'szatyn"', '—',
-     'unrecoverable at scan resolution; the strip holds nothing '
-     'after the name group.',
-     'S28_0147_r5.png'),
-    ('S29', 'B', pg('0148'), 'rows 18 and 24, Rok',
-     'r · o', '— · —',
-     'no year visible in the scan or the strips for either row.',
-     'S29_0148_r18_r24.png'),
-    ('S30', 'B', pg('0151'), 'row 68 (Lubowo Zarzeczne), Źródło',
-     'rowo, vol. III',
-     'AGH. s. …, maj. Lubowo, vol. III',
-     'the citation starts mid-word; the head (court/majętność '
-     'before "rowo") is lost under the neighbour-row glue. Needs '
-     'the print copy for the missing name.',
-     'S30_0151_r68.png'),
-    ('S31', 'B', pg('0154'), 'row 105 (Psarskie Małe), Źródło',
-     'ZMITLIZe"- 5a. Z LIU" wy, maj. Psarskie, Tax Acten, v. II, '
-     'fol. 88—94',
-     'AGH. s. …, maj. Psarskie, Tax Acten, v. II, fol. 88—94',
-     'the tail is clean and formula-typical (cf. row 104\'s clean '
-     '"AGH. s. Szamotuły, maj. Myszkowo, Tax Acten"); only the '
-     'court name in the head is unrecoverable. Needs the print.',
-     'S31_0154_r105.png'),
-    ('S32', 'B', pg('0154'), 'rows 109-111 + 115 (the Rożnowo knot / Sępolno)',
-     'r110: Rosnowskie Olędry | Komorniki;  r111 Źr: 4VY. Db. FU;  '
-     'r115: —c= z p" | Giszy z a zu"',
-     'r110: Rożnowskie Olędry;  r111 Źr: AW. B. 770;  '
-     'r115: — | —',
-     'r110\'s nazwa should match r111\'s Rożnowo (the strip shows '
-     'one glued name group). r111\'s source is the same AW. B. 770 '
-     'line the strip shows across the razem-z pair. r115\'s garbles '
-     'belong to r116\'s glue (Rel. Posn. nr 643), leaving r115 '
-     'empty. Figures (15/21/13*/11) are pixel-verified regardless.',
+    ('S36', 'B', 'various', '22 superscript markers - the NUMBERS',
+     'the print has superscript note-markers at 22 places the scan '
+     'renders only as a * / % / $ glyph (the digit itself is below '
+     'scan resolution). The places, in reading order:\n'
+     'p. 5: "Zajączkowo Wielkie i Małe *"\n'
+     'p. 18: "10. Szóstaki par. Sieraków %;"\n'
+     'p. 29: "Ol. Troszczyńskie %"\n'
+     'p. 36: "znaczna część szlachty ... była protestancka *"\n'
+     'p. 40: "np. tymczasowa umowa wstępna *"\n'
+     'p. 40: "32 w języku niemieckim %"\n'
+     'p. 48: "prawo przegonu swej trzody przez grunt olęderski *"\n'
+     'p. 51: "cała ława gminna wybierana była dożywotnio %"\n'
+     'p. 51: "podawać do dworu imiona i nazwiska wszystkich '
+     'osadników $"\n'
+     'p. 51: "olędrom Starego i Nowego Ujścia %"\n'
+     'p. 54: "od której klucz mieli ławnicy $"\n'
+     'p. 54: "pan zastrzegał sobie tylko część dochodów *"\n'
+     'p. 74: "w Ol. Ujskich prawo łowiectwa było nieograniczone *"\n'
+     'p. 78: "sprzedaż trunków mogła być ... uciążliwym obowiązkiem *"\n'
+     'p. 99: "sprawę tę wyczerpująco wyjaśnił już kilka lat przed '
+     'tym %"\n'
+     'p. 100: "chociaż bywało: i odwrotnie %"\n'
+     'p. 101: "aż wszystko zostanie sprzątnięte %"\n'
+     'p. 102: "zwiększania powinności olęderskich zdarzały się '
+     'rzadko %"\n'
+     'p. 112: "Ta sprawa omówiona została już poprzednio *"\n'
+     'p. 112: "skłonność do przenoszenia się z jednej osady do '
+     'innej *"\n'
+     'p. 114: "ofiarowywał na szkołę bezpłatnie jeden z budynków %"\n'
+     'p. 118: "i praktyk religijnych %"',
+     'I will wire each to its note as soon as you give the numbers '
+     '(a simple list: p. 5 = n, p. 18 = n, ...).',
+     'the glyphs are unreadable at scan resolution; the marker '
+     'numbers follow each page\'s own sequence, which the print '
+     'shows directly.',
+     None),
+    ('S37', 'B', 'various', '6 missing amounts (dropped digits)',
+     'the OCR lost these figures; the sentences now read with a '
+     'gap:\n'
+     'p. 86: "w Ujskich Ol. (r. 1597) wyrosił ___ zł z huby '
+     '30-morgowej"\n'
+     'p. 86: "...w Skrzydlewie (r. 1785) — ___ talarów w dukatach, '
+     'licząc na dukata 3 talary (== 90 zł)" (in note 4)\n'
+     'p. 89: "pan pobierał ___ tynfów (14 zł) od każdegoaktu" (my '
+     'guess: 2)\n'
+     'p. 89: "uiszczali ją olędrzy co ___ lat w wysokości ___ zł z '
+     'huby"\n'
+     'p. 107: "w dobrach państwowych ___ gr" (between 26—66 gr and '
+     '7 talarów 42 gr)\n'
+     'p. 30: "Dem Zimer man haben wier gegeben ___ Reichstaler, '
+     'drey tohn bier"',
+     'fill the gaps from your print copy.',
+     'the digits were lost in the scan (likely small/crowded '
+     'type); everything else in those sentences is verified.',
+     None),
+    ('S38', 'B', pg('0077'), 'TABELA III (p. 62): garbled table + its '
+     'unlinked notes',
+     'the occupational table (Skład zawodowy ludności 36 osad '
+     'olęderskich powiatu poznańskiego) is heavily garbled, and its '
+     'four table-notes are unlinked: note 1 glued into the Razem '
+     'row ("Źródło miesza chałupników z komornikami..."), then '
+     '"2 Karczmarze i młynarze.", "3 nauczyciel, 4 lektorów '
+     '(Vorleser)." as stray lines.',
+     'TABELA III needs its own repair pass (like ANEKS I got). '
+     'Confirm from your print: the table\'s row/column structure '
+     'and where the four note-markers sit (the scan shows one: '
+     '"b. chałupnicy!" = note 1).',
+     'the table spans most of p. 62; the notes print below it. The '
+     'row data need a pixel-level re-read.',
+     None),
+    ('S39', 'B', pg('0016'), 'p. 1: notes 4 and 5 look swapped',
+     'after the split the notes read: 4 = "Patrz wykaz skrótów.", '
+     '5 = "Tamże." - but their markers sit at Maas⁴ and Schulz⁵ '
+     '(visible digits in the print).',
+     'if your print shows e.g. note 4 = "Tamże." and note 5 = '
+     '"Patrz wykaz skrótów." (or different texts), tell me - the '
+     'def ORDER should follow the print\'s note block.',
+     'the print\'s note block at the page bottom: read notes 4 and '
+     '5 verbatim.',
+     'S39_p1_full.png'),
+    ('S40', 'B', pg('0154'), 'row 115 (Sępolno): Charakter + Źródło '
+     '(re-ask)',
+     'Charakter `—c= z p"`, Źródło `Giszy z a zu"` (both garbage).',
+     'need your print copy\'s row 115 line (p. 139, Sępolno).',
+     'the row sits under glue from r116; the figures (11) are '
+     'verified.',
      'S32_0154_r109_r115.png'),
-    ('S33', 'B', pg('0157'), 'row 146 (Wyssogotowo al. Czarne Olędry), Rok + Źródło',
-     'pozy lil mr £ | b sz b s I',
-     '— | —',
-     'both cells sit under the r146/r147 glue; the "Rel. Posn. nr" '
-     'in the strip belongs to r147. Dymy 17 is pixel-verified '
-     'regardless. If your print shows a source for r146, give it '
-     'to me.',
-     'S33_0157_r146.png'),
-    ('S34', 'B', pg('0158'), 'rows 1, 2, 5: Charakter + Źródło',
-     'r1: LL] g | A«xYY. D. id s…;  r2 Źr: MY. AM. o. av…;  '
-     'r5: ZZ e ft I',
-     '— everywhere',
-     'tight small print renders as letter-soup at scan resolution; '
-     'strips confirm only the years (1747/1743/1786) and the dymy '
-     'values, which are unaffected.',
+    ('S41', 'B', pg('0158'), 'rows 2 and 5 of the c-series (re-ask)',
+     'r2 Źródło `MY. AM. o. av..." TE > ">>`; r5 Charakter '
+     '`ZZ e ft I` (garbage).',
+     'you offered the rows - here they are needed: r2 (Głębockie '
+     'Olędry) Źródło and r5 (Krzyżowniki) Charakter.',
+     'the crops show both rows in context.',
      'S34_0158_r1_r5.png'),
-    ('S35', 'B', pg('0159'), 'row 10 (Trzy Domy), Rok',
-     'I /DO',
-     '—',
-     'the data column cleanly reads 15 IV 1755; whether the Rok '
-     'cell repeats 1755 (several other rows do) is beyond the '
-     'scan. If your print repeats it, type 1755.',
-     'S35_0159_r10.png'),
+    ('S42', 'B', pg('0140'), 'the three remaining raised digits: '
+     'note refs?',
+     '0140 r17 dymy `11 3`; p. 131 r102 dymy `29 3`; p. 136 r67 '
+     'dymy `28 1`.',
+     'if your print shows a superscript there (note 3 = "Razem z '
+     'Ol. Sosnowiec."?), give me the rows and I will convert them '
+     'to refs like 51[^1] and 165[^2].',
+     'r17\'s Dymy cell in the crop; the other two cells show the '
+     'same pattern (a big value + a small raised digit).',
+     'S42_0140_r17.png'),
 ]
 def pg(sheet):
     return 'p. %d' % (int(sheet) - 15)
@@ -156,10 +163,9 @@ E = html.escape
 
 def item_html(it):
     iid, sec, page, title, raw, propose, logic, crop = it
-    uri = datauri(crop)
+    uri = datauri(crop) if crop else None
     img = ('<img class="crop" loading="lazy" src="' + uri +
-           '" alt="' + E(title) + '">') if uri else \
-          '<p class="miss">[crop missing: ' + E(crop) + ']</p>'
+           '" alt="' + E(title) + '">') if uri else ''
     return (
         '<div class="item" id="' + iid + '">'
         '<div class="itemhead"><span class="tag">' + iid + '</span>'
@@ -168,13 +174,13 @@ def item_html(it):
         '<table style="border-collapse:collapse;margin:6px 0">'
         '<tr><td style="padding:2px 12px 2px 0;color:#555;'
         'white-space:nowrap">The transcription reads:</td>'
-        '<td><code style="background:#f4f4f4;padding:1px 6px">' +
-        E(raw) + '</code></td></tr>'
+        '<td><code style="background:#f4f4f4;padding:1px 6px;'
+        'white-space:pre-line">' + E(raw) + '</code></td></tr>'
         '<tr><td style="padding:2px 12px 2px 0;color:#555;'
         'white-space:nowrap;font-weight:bold">I propose:</td>'
         '<td style="background:#eef7ee;border-left:4px solid #494">'
-        '<code style="background:#eef7ee;padding:1px 6px">'
-        + E(propose) + '</code></td></tr>'
+        '<code style="background:#eef7ee;padding:1px 6px;'
+        'white-space:pre-line">' + E(propose) + '</code></td></tr>'
         '</table>'
         + img +
         '<details style="font-size:85%;color:#666;margin:6px 0">'
