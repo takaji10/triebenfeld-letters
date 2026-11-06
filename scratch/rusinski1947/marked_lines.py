@@ -63,7 +63,7 @@ def insert_marks(line_text, marks):
                 placed = True
                 break
             if kind == 'artifact' and \
-                    re.fullmatch(r'[*?$§£|?]+[.,;:»”"]?', w):
+                    re.fullmatch(r'[*?$§£|?%+€]+[.,;:»”"]?', w):
                 # an isolated artifact glyph the models produced for the
                 # print's inline marker ('*', '$', '?.', '£.') - the
                 # word must BE the glyph (an untested match ate prose)

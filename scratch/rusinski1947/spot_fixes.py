@@ -15,6 +15,17 @@ OCR = r'C:\Users\Tersnaus\AppData\Local\Temp\opencode\tom5_ocr'
 
 # (scan, top_lo, top_hi, old, new)
 BODY_FIXES = [
+    # 0108: the n->r misread family ('pilnować') and 'wszystkie'
+    ('0108', 1080, 1100, 'pilrować', 'pilnować'),
+    ('0108', 1160, 1180, 'wszystk.e', 'wszystkie'),
+    # 0109: 'osady', 'nieograniczone'
+    ('0109', 910, 925, 'oszdy', 'osady'),
+    ('0109', 988, 1000, 'nicograniczone', 'nieograniczone'),
+    # 0120: the n->r misread family ('pobierano od', 'postępowano',
+    # 'wliczano')
+    ('0120', 660, 680, "pobierar o'od", 'pobierano od'),
+    ('0120', 1190, 1210, 'postępowaro', 'postępowano'),
+    ('0120', 1505, 1520, 'wliczaro', 'wliczano'),
     # 0044: the ',' after '40%' = the %'s own circles misread -
     # pixel check (x2085-2170, y1409-1498) shows '40%' + the %'s
     # lower-right circle, then 'ogółu'
@@ -63,6 +74,9 @@ DROP_LINES = [
     ('0103', 3143),
     # 0023: the 'nazwy z' fragment folded into the 1938 rewrite
     ('0023', 1968),
+    # 0109: the print's note 1 'J. w.' - the strip read the line as
+    # body text '17. w.' (the 'J' misread '7'); it is a note, not body
+    ('0109', 3366),
 ]
 
 # whole line RANGES to drop: (scan, lo, hi) - the German petition's
@@ -171,6 +185,18 @@ LINE_TEXT[('0022', 2344)] = ('na obszarze Prus Królewskich i '
 LINE_TEXT[('0023', 1938)] = ('wstała przez pomieszanie nazwy osadników '
                              'z nazwą karczunków')
 LINE_TEXT[('0023', 2041)] = 'leśnych[^8-3].'
+LINE_TEXT[('0120', 1743)] = ('panem lub osadnikami zwano ją czasem '
+                             'kompozytą[^105-6], chociaż')
+LINE_TEXT[('0121', 993)] = ('winności płacone dawniej[^106-2]. To samo '
+                            'oczywiście odnosi się do osad')
+LINE_TEXT[('0121', 2379)] = ('owsa[^106-10], Opłata ryczałtowa natomiast '
+                             'nie przenosiła zazwyczaj 50 zł[^106-11],')
+LINE_TEXT[('0121', 2464)] = ('lub odpowiedniej ilości zboża[^106-12], '
+                             'wyjątkowo przekraczała nawet 100 zł[^106-13],')
+LINE_TEXT[('0031', 2464)] = ('zilustrujemy na dwóch '
+                             'przykładach:[^16-1][^16-2]')
+LINE_TEXT[('0061', 2044)] = ('szynie nie wolno było sprzedeć gruntu '
+                             '„za granicę"[^46-4]. Ten ostatni')
 
 SLIVER = re.compile(r'[zvwaoi][.,]?')
 
@@ -371,6 +397,218 @@ def main():
     ok.append(('0134 #3 Hauliindern+tail',
                note_fix('0134', 3, 'Hauliindern, s. 254. 7',
                         'Haulindern, s. 254.')))
+    ok.append(('0108 #1 F787',
+               note_fix('0108', 1, 'r. F787', 'r. 1787')))
+    # 0057: the print has SIX notes - the strip merged note 4
+    # ('Szczególnie ciekawe pod tym względem są oblaty inwentarzy
+    # wiejskich w aktach grodzkich.', its '4' misread) into note 3
+    # after 'fol. 162).' (linemap 4765 = the '4' line). Split and
+    # renumber 4->5, 5->6. Idempotent via the note count.
+    if len(s['0057']['notes']) == 5:
+        n3 = [x for x in s['0057']['notes'] if x['num'] == 3][0]
+        t3 = n3['text']
+        i4 = t3.find('Szczególnie ciekawe')
+        assert i4 > 0, '0057 split point missing'
+        n3['text'] = t3[:i4].strip()
+        rest = [x for x in s['0057']['notes'] if x['num'] > 3]
+        for x in rest:
+            x['num'] += 1
+        s['0057']['notes'].append({'num': 4, 'top': 4765,
+                                   'text': t3[i4:].strip(),
+                                   'src': 'repair-noteblock'})
+        s['0057']['notes'].sort(key=lambda x: x['num'])
+        ok.append(('0057 notes 3->4 split', True))
+    else:
+        ok.append(('0057 notes 3->4 split (already rebuilt)', True))
+    # 0061: the strip cut note 1 ('Przywilej dla Chrząstowskich...
+    # bez pociągu".') at 'W Starych Dy' and duplicated the remainder
+    # into note 2 (after 'Tak bylo... aneksie I).'). Rebuild both:
+    # note 1 = the full Chrząstowskie text (taken from note 2's tail),
+    # note 2 = the 'Tak było' part only. Idempotent via the dup guard.
+    n1 = [x for x in s['0061']['notes'] if x['num'] == 1]
+    n2 = [x for x in s['0061']['notes'] if x['num'] == 2]
+    if n1 and n2 and n1[0]['text'].rstrip().endswith('W Starych Dy') \
+            and 'Przywilej dla Chrząstowskich' in n2[0]['text']:
+        t2 = n2[0]['text']
+        j = t2.find('Przywilej dla Chrząstowskich')
+        full = t2[j:].strip()
+        # the strip lost the block's closing: the print's last line
+        # reads 'przyjmować olędra ,,bez pociągu".'
+        if not full.rstrip().endswith('".'):
+            full = full.rstrip().rstrip('.,') + 'u".'
+        n1[0]['text'] = full
+        n2[0]['text'] = t2[:j].strip().lstrip('"').strip()
+        ok.append(('0061 notes 1/2 rebuilt', True))
+    else:
+        ok.append(('0061 notes 1/2 (already rebuilt)', True))
+    # 0080: the strip filed the section-I heading + its intro text
+    # ('I. Rolnictwo. a. Technika rolna...') as note 1 - it is body
+    # (its lines 2296-4900 are already in the lines list; the print's
+    # footer holds only two notes: '1. Por. Rutkowski...', '2. Por.
+    # s. 84.'). Remove the pseudo-note and renumber. Idempotent via
+    # the 'I. Rolnictwo' guard.
+    if any(x['text'].lstrip().startswith('I. Rolnictwo. a. Technika')
+           for x in s['0080']['notes']):
+        s['0080']['notes'] = [x for x in s['0080']['notes']
+                              if not x['text'].lstrip()
+                              .startswith('I. Rolnictwo. a. Technika')]
+        for x in s['0080']['notes']:
+            x['num'] -= 1
+        ok.append(('0080 pseudo-note removed, renumbered', True))
+    else:
+        ok.append(('0080 pseudo-note (already rebuilt)', True))
+    # 0084: the strip shredded the print's FOUR notes into seven
+    # blocks (the long Folsztyn and Jaromierz source notes split mid-
+    # text, and the 'KI. XII, 7, fol. 122.' ref duplicated as a phantom
+    # block at 4475). Rebuild: 1 = KI. XII, 2 = Folsztyn (n3+n4),
+    # 3 = Jaromierz/Radoszkowskie (n5+n6), 4 = Nowe Dwory (n7).
+    if len(s['0084']['notes']) == 7:
+        nn = s['0084']['notes']
+        kx = [x for x in nn if x['text'].strip()
+              .startswith('KI. XII, 7, fol. 122.')]
+        assert len(kx) == 2, '0084 KI.XII blocks unexpected'
+        n_kixii = min(kx, key=lambda x: x['top'])
+        rest = [x for x in nn if x not in kx]
+        fol = sorted([x for x in rest if 2800 <= x['top'] < 4100],
+                     key=lambda x: x['top'])
+        jar = sorted([x for x in rest if 4100 <= x['top'] < 4600],
+                     key=lambda x: x['top'])
+        now = sorted([x for x in rest if x['top'] >= 4600],
+                     key=lambda x: x['top'])
+        assert len(fol) == 2 and len(jar) == 2 and len(now) == 1, \
+            '0084 block shapes unexpected'
+        new = [
+            {'num': 1, 'top': n_kixii['top'],
+             'text': n_kixii['text'].strip(), 'src': 'repair-noteblock'},
+            {'num': 2, 'top': fol[0]['top'],
+             'text': fol[0]['text'].rstrip() + ' '
+             + fol[1]['text'].strip(), 'src': 'repair-noteblock'},
+            {'num': 3, 'top': jar[0]['top'],
+             'text': jar[0]['text'].rstrip() + ' '
+             + jar[1]['text'].strip(), 'src': 'repair-noteblock'},
+            {'num': 4, 'top': now[0]['top'],
+             'text': now[0]['text'].strip(), 'src': 'repair-noteblock'},
+        ]
+        s['0084']['notes'] = new
+        ok.append(('0084 notes rebuilt 7->4', True))
+    else:
+        ok.append(('0084 notes (already rebuilt)', True))
+    # 0085: the print has TEN notes - the strip missed note 8 (Jaracz,
+    # lines 4350/4463/4525) and note 10 (Lewice, lines 4919/5013), and
+    # filed note 9 (Góździn) as 'note 8'. Insert the two missing
+    # blocks (texts from the lines list), renumber Góździn -> 9.
+    if len(s['0085']['notes']) == 8:
+        nn = s['0085']['notes']
+        goz = [x for x in nn if x['text'].lstrip().startswith('Góździn, AW.')][0]
+        ls = {l['top']: l['text'] for l in s['0085']['lines']}
+        n8 = ' '.join(ls[t].strip() for t in (4350, 4463, 4525))
+        n8 = re.sub(r'^8\s+', '', n8)
+        n10 = ' '.join(ls[t].strip() for t in (4919, 5013))
+        n10 = re.sub(r"^10\s+'?", '', n10)
+        goz['num'] = 9
+        goz['top'] = 4632
+        s['0085']['notes'] = (
+            [x for x in nn if x is not goz]
+            + [{'num': 8, 'top': 4350, 'text': n8, 'src': 'repair-noteblock'},
+               goz,
+               {'num': 10, 'top': 4919, 'text': n10,
+                'src': 'repair-noteblock'}])
+        s['0085']['notes'].sort(key=lambda x: x['num'])
+        ok.append(('0085 notes 8->10 rebuilt', True))
+    else:
+        ok.append(('0085 notes (already rebuilt)', True))
+    # 0109: the print has TWELVE notes - the strip merged notes 9+10
+    # ('AW. Sikorce, B. 911.' + '10 Por. s. 67.' with the '6' misread
+    # '0') into one block and shifted 11/12. Split, fix the page ref,
+    # renumber 9->11, 10->12. Idempotent via the note count.
+    if len(s['0109']['notes']) == 10:
+        n8 = [x for x in s['0109']['notes'] if x['num'] == 8][0]
+        t8 = n8['text']
+        i9 = t8.find('10 Por.')
+        assert i9 > 0, '0109 split point missing'
+        n8['text'] = t8[:i9].strip()
+        rest = [x for x in s['0109']['notes'] if x['num'] > 8]
+        for x in rest:
+            x['num'] += 2
+        s['0109']['notes'].append({'num': 9, 'top': 4915,
+                                   'text': t8[i9 + 3:].strip()
+                                   .replace('Por. s. 07.', 'Por. s. 67.'),
+                                   'src': 'repair-noteblock'})
+        s['0109']['notes'].sort(key=lambda x: x['num'])
+        ok.append(('0109 notes 8->9 split, renum 11/12', True))
+    else:
+        ok.append(('0109 notes 8->9 split (already rebuilt)', True))
+    # 0108 (p. 93): the print has TEN notes - the strip merged notes
+    # 2+3 ('KI. M. Suchylas.' + '3 J. w. oraz KI. XII 6 V, fol. 36,
+    # Króteckie OI.' - the '3].' junk = the digit plus the J), glued
+    # note 7 ('AW. Stare Łoskońskie OI., A. 1.') onto note 6's tail,
+    # and split note 10 ('AW. Paproć, C. 2, fol. 257, Różyńskie OI.
+    # Rel. Posn. nr 640...') into two blocks. Rebuild to the print's
+    # ten. Idempotent via the note count.
+    if len(s['0108']['notes']) == 9:
+        nn = s['0108']['notes']
+
+        def find(pref):
+            hits = [x for x in nn if x['text'].lstrip().startswith(pref)]
+            assert len(hits) == 1, '0108 block lookup: ' + pref
+            return hits[0]
+        stob = find('AW. Stobnica')
+        such = find('KI. M. Suchylas')
+        kros = find('AW. Krosna, A. 2.')
+        bial = find('AW. Białokosz')
+        bork = find('AW. Borkowskie')
+        luba = find('KI. XII 6 V, fol. 116')
+        ostr = find('Rel. Cost. nr 220, r. 1787, fol. 372, Ostrowo')
+        papr = find('AW. Paproć, C. 2, fol. 257')
+        papr2 = find('Rel. Posn. nr 640, r. 1791, fol. 268, Paproć')
+        t2 = such['text']
+        i3 = t2.find('3]. w. oraz')
+        assert i3 > 0, '0108 n2 split point missing'
+        t6 = bork['text']
+        i7 = t6.find('AW. Stare Łoskońskie')
+        assert i7 > 0, '0108 n6 tail missing'
+        s['0108']['notes'] = [
+            {'num': 1, 'top': stob['top'], 'text': stob['text'],
+             'src': 'repair-noteblock'},
+            {'num': 2, 'top': such['top'], 'text': t2[:i3].strip(),
+             'src': 'repair-noteblock'},
+            {'num': 3, 'top': 2703,
+             'text': 'J. w. oraz KI. XII 6 V, fol. 36, Króteckie OI.',
+             'src': 'repair-noteblock'},
+            {'num': 4, 'top': kros['top'], 'text': kros['text'],
+             'src': 'repair-noteblock'},
+            {'num': 5, 'top': bial['top'], 'text': bial['text'],
+             'src': 'repair-noteblock'},
+            {'num': 6, 'top': bork['top'], 'text': t6[:i7].strip(),
+             'src': 'repair-noteblock'},
+            {'num': 7, 'top': 3325, 'text': 'AW. Stare Łoskońskie OI., A. 1.',
+             'src': 'repair-noteblock'},
+            {'num': 8, 'top': luba['top'], 'text': luba['text'],
+             'src': 'repair-noteblock'},
+            {'num': 9, 'top': ostr['top'], 'text': ostr['text'],
+             'src': 'repair-noteblock'},
+            {'num': 10, 'top': papr['top'],
+             'text': papr['text'].replace('|', '').strip() + ' '
+             + papr2['text'].strip(),
+             'src': 'repair-noteblock'},
+        ]
+        ok.append(('0108 notes rebuilt 9->10', True))
+    else:
+        ok.append(('0108 notes (already rebuilt)', True))
+    # 0109 (p. 94): the print has TWELVE notes - the strip missed note
+    # 1 ('J. w.' - the line at y3366 that the strip read as body text
+    # '17. w.' and dropped here in DROP_LINES) and numbered the rest
+    # 1-9, 11, 12. Insert note 1 and shift 1-9 -> 2-10.
+    if not any(x['text'].strip() == 'J. w.' for x in s['0109']['notes']):
+        for x in s['0109']['notes']:
+            if x['num'] <= 9:
+                x['num'] += 1
+        s['0109']['notes'].append({'num': 1, 'top': 3390, 'text': 'J. w.',
+                                   'src': 'repair-noteblock'})
+        s['0109']['notes'].sort(key=lambda x: x['num'])
+        ok.append(('0109 note 1 J. w. inserted, 1-9 -> 2-10', True))
+    else:
+        ok.append(('0109 note 1 (already rebuilt)', True))
     # 0044: the strip's 'note 1' ('Wszystkie wspomniane osady lokowane
     # są na podmokłej nizinie nadnoteckiej...') is actually LIST ITEM 1
     # of the 'szereg pewnych, niezbitych danych zrodlowych'

@@ -545,6 +545,261 @@ MANUAL_ADD = {
         (2276, '4', 'standalone', None),
         (2041, 'leśnych', 'manual', 'leśnych'),
     ],
+    # p. 32 (0047): 1 'katolików¹.' (the structure's 'l.' = raised 1;
+    # both autos '1'@983/'1.'@1017 are dup reads - dropped; def 1
+    # Czapura/Wiorek), 2 'Polacy².' (the '*.'; def 2 Sroczewskie), 3
+    # 'ewangelików³.' (the structure's ' 3.'; def 3 Chrząstowskie
+    # dysydenci). '*'@4400 = note 3's number glyph - dropped
+    '0047': [
+        (1017, 'l.', 'manual', '[^{label}].'),
+        (1102, '*.', 'artifact', '[^{label}].'),
+        (1211, '3.', 'standalone', None),
+    ],
+    # p. 35 (0050): 1 auto (Bemberga), 2 'Śląska²,' (the '?,'; the auto
+    # '2,'@876 appended at the line end - dropped), 3 'Mzrchii³' (the
+    # '*'), 4 'Pomorza⁴.' (the '4.'), 5 'wcześniejszych⁵,' (the '5,'),
+    # 6 'mizst⁶.' (the '$.'), 7 'bytu⁷.' (the '?.'; def 7 'Zob. dalej,
+    # s. 110'). Dropped: the note-region '3'@3040/'7'@3425/'27'@3425/
+    # '1'@4317
+    '0050': [
+        (909, '?,', 'artifact', '[^{label}],'),
+        (909, '*', 'artifact', '[^{label}]'),
+        (909, '4.', 'standalone', None),
+        (993, '5,', 'standalone', None),
+        (1099, '$.', 'artifact', '[^{label}].'),
+        (2836, '?.', 'artifact', '[^{label}].'),
+    ],
+    # p. 42 (0057): the print has SIX notes - the strip merged note 4
+    # ('Szczególnie ciekawe... oblaty inwentarzy') into note 3 after
+    # 'fol. 162).' (its '4' misread); split in spot_fixes. 1
+    # 'poddanemi"?¹.' (the structure's ' 1.'; def 1 = the Kotusz
+    # privilege), 2 'rodziny²' (the '?' after '1 rodziny' = the marker;
+    # def 2 the pastuch - the one poddany family), 3 'poddane³.' (the
+    # '3.'; def 3 Krawiec i komornica), 4 'inwentarze⁴' (the '4';
+    # def 4 oblaty inwentarzy), 5 'zestawienia⁵,' (the '5,';
+    # def 5 'Uderza... w Tol.'), 6 'dotąd⁶,' (the '6,'; def 6
+    # Cieplucha). Dropped: the data '2'@2678 (2 rodziny) and the
+    # note-block '*'@4588
+    '0057': [
+        (1647, '1.', 'standalone', None),
+        (2574, 'rodziny?', 'manual', 'rodziny[^{label}]'),
+        (2682, '3.', 'standalone', None),
+        (3097, '4', 'standalone', None),
+        (3217, '5,', 'standalone', None),
+        (3322, '6,', 'standalone', None),
+    ],
+    # p. 46 (0061): 1 'pańskie¹.' (the '*.'; def 1 = the Chrząstowskie
+    # privilege - the strip cut it at 'W Starych Dy' and duplicated the
+    # rest into note 2; both texts rebuilt in spot_fixes), 2
+    # 'dysydenci².' (the '*+.'; the auto '4'@1823 dropped; def 2 'Tak
+    # bylo...'), 3 'wolnym³.' (the '5.'; def 3 AW. B. 911), 4 'za
+    # granicę"⁴.' (the '8' - the auto '5.'@2075 appended at the line
+    # end, dropped; LINE_TEXT restores the period), 5 'cowi⁵' (the
+    # marker after the hyphen-split 'mieszkań-cowi'; the glued auto
+    # 'COWI1' unmatched - dropped; def 5 'Por. przypis 7, s. 45'), 6
+    # 'wspominają⁶.' (def 6 Rel. Posn. 549), 7 'razem"⁷.' (the '7".';
+    # def 7 Rel. Cost. 224 Cisiogórska), 8 'się"⁸.' (the '8.'; def 8
+    # Rel. Cost. 191 Świącyńska). Dropped: the note-block '1'@4137/
+    # '*'@4313/'?'@4932
+    '0061': [
+        (1835, '*+.', 'manual', '[^{label}].'),
+        (1940, '5.', 'standalone', None),
+        (2044, '8', 'standalone', None),
+        (2254, 'cowi', 'manual', 'cowi[^{label}]'),
+        (2698, 'wspominają.', 'manual', 'wspominają[^{label}].'),
+        (3000, '7".', 'manual', '[^{label}].'),
+        (3320, '8.', 'standalone', None),
+    ],
+    # p. 49 (0064): 1-3 auto ('1,' dworu, '2,' rodzeństwo, '3' sierot -
+    # the '3' auto placed at the line end; the '?' after 'sierot' is
+    # the marker - re-placed via the manual entry), 4 'małżeństwa⁴.'
+    # (the 'f.' = the raised 4; def 4 Huta przepisy). '1'@2661 sits in
+    # note 1's block - dropped
+    '0064': [
+        (1950, 'sierot?', 'manual', 'sierot[^{label}]'),
+        (2172, 'f.', 'manual', '[^{label}].'),
+    ],
+    # p. 93 (0108): 1 'budynków¹' (the '!' word), 2 'owiec²,' (the
+    # '*?,', def 2 Kl. M. Suchylas), 3 = the glued 'ryb3' (połowie
+    # ryb³; def 3 AW. Krosna), 4 = the '4' (warzeniu piwa; def 4
+    # Białokosz/Gościeszyn), 5 auto ('5,' na znaków granicznych osady;
+    # def 5 Borkowskie kwity), 6 = the '$' (złodziejami; def 6
+    # Lubaskie/Ludomskie), 7 'pożary⁷.' (the '?.', def 7 Ostrowo
+    # szynk), 8 'dworu⁸,' (the '8,'; def 8 Paproć Różyńskie), 9
+    # 'Nachbier)⁹,' (the '?,'; def 9 Paproć trunki). Dropped: the '£'@848
+    # and '6,'@1058 dup reads and the note-block '*'@2615/'£;'@3255/
+    # '?'@3398
+    # p. 93 (0108): TEN markers (the print's note block has ten notes;
+    # the strip's nine-block version rebuilt in spot_fixes). 1
+    # 'budynków¹' (the raised 1 read "'!" - out eats it), 2 'owiec²,'
+    # ('*?,' glue), 3 = the glued 'ryb3' (połowie ryb³; def 3 'J. w.
+    # oraz KI. XII 6 V, fol. 36, Króteckie OI.'), 4 'piwa⁴.' (the '*'
+    # after 'piwa'; the auto '4'@848 placed at the line end - dropped),
+    # 5 auto ('5,' znaków granicznych osady), 6 = the '$'
+    # (złodziejami⁶), 7 'pożary⁷.' ('?).' - top nudged past the '$' so
+    # the walk orders 6 before 7; out keeps the closing paren), 8 auto
+    # ('8,' prócz dworu), 9 '?,' (Nachbier)), 10 'karczmy¹⁰.'
+    # ('!.' after karczmy - the print's 10th marker; def 10 = the
+    # Paproć refs)
+    '0108': [
+        (745, "'!", 'manual', '[^{label}]'),
+        (745, 'owiec*?,', 'manual', 'owiec[^{label}],'),
+        (849, '*.', 'artifact', '[^{label}].'),
+        (1089, '?).', 'manual', '[^{label}]).'),
+        (1905, '8,', 'standalone', None),
+        (2013, '?,', 'artifact', '[^{label}],'),
+        (2231, '!.', 'artifact', '[^{label}].'),
+    ],
+    # p. 94 (0109): the print has TWELVE notes (the strip merged notes
+    # 9+10 and shifted 11/12; rebuilt in spot_fixes). 1-2 auto
+    # (trunki pańskie¹, obrębie osady²), 3 'trunków³,' (the '%,'),
+    # 4 'pieniężną⁴,' (the '4,'; the '*,'/'1'@1240 dup reads dropped),
+    # 5 = the glued 'słodzie5' (w słodzie⁵; the 'słodzie85' dup
+    # dropped), 6 'dworskiego⁶.' (the '8.'; the data '5'@1531 of
+    # 'kupna 5 beczek' dropped), 7 'gorzałkę⁷.' (the '7.'), 8
+    # 'konsumcji⁸.' (the '8.'), 9 'zapłatą⁹.' (the '?.'), 10
+    # 'wstępnego¹⁰.' (the '10.'), 11-12 = the '!1'/'1?' after
+    # 'wiadomością'/'za zgodą' (the raised 11/12; defs 11 Popowo,
+    # 12 Góździn). Dropped: the note-block '*'@3840/'*'@4517/'?'@4617
+    '0109': [
+        (676, '1.', 'standalone', None),
+        (914, '%.', 'artifact', '[^{label}].'),
+        (1108, '%,', 'artifact', '[^{label}],'),
+        (1219, '4,', 'standalone', None),
+        (1219, 'słodzie5', 'glued', None),
+        (1535, '8.', 'standalone', None),
+        (1640, '7.', 'standalone', None),
+        (2070, '8.', 'standalone', None),
+        (2392, '?.', 'artifact', '[^{label}].'),
+        (2822, '10.', 'standalone', None),
+        (3150, '!1', 'standalone', None),
+        (3150, '1?', 'standalone', None),
+    ],
+    # p. 65 (0080): the section-I heading + intro were misfiled as note
+    # 1 by the strip (removed in spot_fixes; the print's footer holds
+    # '1. Por. Rutkowski...', '2. Por. s. 84.'). 1 auto ('4,'@917 on
+    # 'danej majętności' - def 1 Rutkowski), 2 'wolnizny²,' (the '?,' -
+    # def 2 'Por. s. 84' = the wolnizny discussion on p. 84). Dropped:
+    # the '*'@2902 blemish and the '6'@3869 data digit
+    '0080': [
+        (3249, '?,', 'artifact', '[^{label}],'),
+    ],
+    # p. 69 (0084): the print's FOUR notes (the strip shredded the two
+    # long ones and duplicated the KI. XII ref; rebuilt in spot_fixes).
+    # 1 'stale¹' (the '!' = raised 1; def 1 KI. XII 122), 2
+    # 'sprzedaży².' (the glued '?.'; def 2 the Folsztyn example), 3
+    # 'ułamkiem³.' (the '%.'; def 3 the Jaromierz/Radoszkowskie pomiar),
+    # 4 'olędrów⁴.' (the '4.'; def 4 the Nowe Dwory akta). Dropped: the
+    # '*.'/'1' dup reads at 1932 and the note-region digits
+    # '32'/'30'/'38'@2944, 'fł.2'@3314, '£'@3584
+    '0084': [
+        (994, '!', 'standalone', None),
+        (1198, 'sprzedaży?.', 'manual', 'sprzedaży[^{label}].'),
+        (1737, '%.', 'artifact', '[^{label}].'),
+        (1944, '4.', 'standalone', None),
+    ],
+    # p. 70 (0085): the print has TEN notes (the strip missed note 8
+    # Jaracz and note 10 Lewice, and filed note 9 as 'note 8' - rebuilt
+    # in spot_fixes). 1 = the '1."' ending the Sapieha quote (def 1
+    # Rel. Cost. 187 = the manifest), 2 'groził²' (the '%'; def 2
+    # Tarnowa), 3 'gruntów³,' (the '3%,'; def 3 Puszczykowskie
+    # przemierzenie), 4-5 = the '4.'/'5.' on the kontrola/pomiar line
+    # (defs 4 Rakoniewice, 5 sierakowska co 6 lat), 6 'między⁶,' (the
+    # '$,'; def 6 Nowodąbrowskie rów), 7 'osady⁷.' (the '?.'; def 7
+    # Zamorze drogi), 8 'gruntów⁸,' (the '$,'; def 8 Jaracz - the
+    # contrary case), 9 'miedze⁹.' (the '?.'; def 9 Góździn/Karpicko
+    # miedze wolne), 10 'łąki¹⁰,' (the '10,'; def 10 Lewice). Dropped:
+    # the dup reads '1'@1068/'oroził2'@1281/'oruntów3'@1380/'*,'@1843/
+    # '?'@2122/'*'@2502 and the note-block '?'@4066
+    '0085': [
+        (1099, '1."', 'manual', '[^{label}]."'),
+        (1307, 'groził%', 'manual', 'groził[^{label}]'),
+        (1416, '3%,', 'manual', '[^{label}],'),
+        (1612, '4.', 'standalone', None),
+        (1612, '5.', 'standalone', None),
+        (1825, '$,', 'artifact', '[^{label}],'),
+        (1952, '?.', 'artifact', '[^{label}].'),
+        (2456, '10,', 'standalone', None),
+    ],
+    # p. 11 (0026): 1 'gruntów dworskich¹.' (the structure's ' 1.';
+    # def 1 = the wieleńska wypadki remark), 2 'pańską²,' (the '?,' -
+    # the auto '*,'@1717 places on it; def 2 = the Tarnowa quote), 3
+    # 'członków gminy³.' (the '”' = raised 3; def 3 'Por. przywileje
+    # dla Nowych i Gębickich OI. w aneksie I'). Dropped: the
+    # note-block glyphs '£'@4892/'*'@4991
+    '0026': [
+        (1190, '1.', 'standalone', None),
+        (1820, 'gminy”.', 'manual', 'gminy[^{label}].'),
+    ],
+    # p. 14 (0029): 1 'podwoić¹.' (the structure's ' 1.'; def 1 = the
+    # zestawienie remark), 2 = the auto 'wsi1*,'@1753 riding 'wsi?,'
+    # (podwójnym liczeniu niektórych wsi²; def 2 = the Dąbrowo/
+    # Grodzewo pomyłki). Dropped: '*'@2034 (note 1's number glyph)
+    '0029': [
+        (887, '1.', 'standalone', None),
+    ],
+    # p. 16 (0031): the print's footer holds the two numbered example
+    # blocks ('1. Osada Wymysłowo...', '2. Burzykowo...') but the body
+    # carries NO marker glyphs (pixel-swept) - the printer omitted
+    # them; both labels anchored at the introducing phrase via
+    # LINE_TEXT, the two no-op feeders keep the walk's numbering.
+    # Dropped: the data '4'@1312 (4 osady) and the note-region '89'@3009
+    '0031': [
+        (2464, 'przykładach:', 'manual', 'przykładach:'),
+        (2466, 'dwóch', 'manual', 'dwóch'),
+    ],
+    # p. 17 (0032): 1 'przygodnie¹.' (the structure's ' 1.'; def 1 Maas
+    # on the przysiołek), 2 'Katrynki²,' (the '?,' word; def 2 = the
+    # Katrynka source list; the auto '2.'@2809 placed at the line end -
+    # dropped, re-added as the artifact entry), 3 = the '3,' after
+    # 'Szklana Huta' (def 3 Glashütte sources), 4 = the '*' after
+    # 'Kamień' (def 4 Tod. 89 sources), 5 = the glued 'Krebs5' (def 5),
+    # 6 'Kurzastopa⁶' (the glyph lost; def 6 'Po raz pierwszy... MP
+    # jako folwark'). Dropped: the note-block refs 'VO83'/'*'@3908 and
+    # 'Tol_1'@4255
+    '0032': [
+        (1192, '1.', 'standalone', None),
+        (2809, '?,', 'artifact', '[^{label}],'),
+        (2939, '3,', 'standalone', None),
+        (3466, 'Kurzastopa', 'manual', 'Kurzastopa[^{label}]'),
+    ],
+    # p. 105 (0120): 1-5 auto (kolędach¹, pogrzebów² '*.', iura
+    # stolae³, księży ewangelickich⁴, katolików⁵; def 5 = the
+    # Trzcianka Jura Stolae letter's Prussian reply), 6 = the auto '6'
+    # after 'kompozytą' (the page-pass appended it at the line end -
+    # the LINE_TEXT rewrite carries the label inline; def 6 = the
+    # Kiełczyna kompozyty 19 talars quote), 7 'mesznego⁷.' (the
+    # raised glyph after 'mesznego' - def 7 Suchylas „meszne, czyli
+    # kompozytę"), 8 = the '8.' after 'Gottespfennig' (def 8 AW.
+    # Niwka). '1.'@5014 = note 8's block digit - dropped
+    '0120': [
+        (1827, 'mesznego”.', 'manual', 'mesznego[^{label}].'),
+    ],
+    # p. 106 (0121): THIRTEEN notes. 1 'proboszczem¹,' (glued; def 1
+    # AW. Strzelce), 2 'dawniej².' (the '?.' - the auto '2,'@981
+    # appended at the wrong line end; covered + LINE_TEXT), 3-6 auto
+    # (mieszkańców³ '3.', całkowicie⁴ '4,', częściowo⁵ '5', piwa⁶
+    # '$.'), 7 'postanowiła”⁷.' (the raised digit after the closing
+    # quote - the print's „proteccyą" quote = def 7 AW. Stobnickie;
+    # the 'tvlk6'@1719 glue is spurious - nothing after 'co' at the
+    # line end, pixel-verified), 8 'dworu⁸,' (the raised digit read
+    # '$8'; def 8 Chodzież/Proszkowskie), 9 'zł⁹,' (the raised digit
+    # read '?'; def 9 Grabowiec 1 talar 8 zł etc.), 10 'owsa¹⁰,'
+    # (raised 1+0 read '1%'), 11 'zł¹¹,' (raised 11 read 'u' of
+    # 'złu'), 12 'zboża¹²,' / 13 'zł¹³,' (the raised 12/13). Dropped:
+    # the data '50' and its misreads, the '1'@2250, and the
+    # note-block digits '6'@3071/'?'@3686
+    '0121': [
+        (673, 'proboszczem1,', 'manual', 'proboszczem[^{label}],'),
+        (993, '2,', 'standalone', None),
+        (1832, 'postanowiła”?”.', 'manual', 'postanowiła”[^{label}].'),
+        (2043, 'dworu$8,', 'manual', 'dworu[^{label}],'),
+        (2254, 'zł?,', 'manual', 'zł[^{label}],'),
+        (2379, '1%,', 'standalone', None),
+        (2379, 'złu,', 'standalone', None),
+        (2464, '12,', 'standalone', None),
+        (2464, '13,', 'standalone', None),
+    ],
     # p. 56 (0071): 1 województwa¹ (full-size digit, TSV w=45), 2
     # rozrzuconej² ('?.'); the line-pass '1' at 2023 is the word 'i'
     # ('ulicówka i typ' - no page-pass digit box exists there)
@@ -600,6 +855,29 @@ MANUAL_DROP = {    '0058': [(984, '2.'), (1947, '44'), (1947, '3.'), (1947, '60'
              (4690, '*'), (4904, '$')],
     '0022': [(776, '1,'), (877, '1'), (909, '1'), (4585, '?')],
     '0023': [(2280, '*'), (4457, '*'), (4562, '*'), (2250, '4')],
+    '0026': [(4892, '£'), (4991, '*')],
+    '0029': [(2034, '*')],
+    '0031': [(1312, '4'), (3009, '89')],
+    '0032': [(2809, '2.'), (3908, 'VO83'), (3908, '*'), (4255, 'Tol_1')],
+    '0047': [(983, '1'), (1017, '1.'), (4400, '*')],
+    '0050': [(876, '2,'), (3040, '3'), (3425, '7'), (3425, '27'),
+             (4317, '1')],
+    '0057': [(2678, '2'), (4588, '*')],
+    '0061': [(1823, '4'), (2075, '5.'), (2254, 'COWI1'), (4137, '1'),
+             (4313, '*'), (4932, '?')],
+    '0064': [(2661, '1')],
+    '0080': [(2902, '*'), (3869, '6')],
+    '0084': [(1932, '*.'), (1932, '1'), (2944, '32'), (2944, '30'),
+             (2944, '38'), (3314, 'fł.2'), (3584, '£')],
+    '0085': [(1068, '1'), (1281, 'oroził2'), (1380, 'oruntów3'),
+             (1843, '*,'), (2122, '?'), (2502, '*'), (4066, '?')],
+    '0108': [(848, '£'), (1058, '6,'), (2615, '*'), (3255, '£;'),
+             (3398, '?'), (745, '!'), (848, '4')],
+    '0109': [(1208, 'słodzie85'), (1240, '*,'), (1240, '1'),
+             (1531, '5'), (3840, '*'), (4517, '*'), (4617, '?')],
+    '0120': [(5014, '1.')],
+    '0121': [(1719, 'tvlk6'), (2250, '1'), (2358, '50'),
+             (2358, '19,'), (3071, '6'), (3686, '?')],
     '0051': [(977, '28'), (805, '*.')],
     '0060': [(1934, 'wyjlątkam1*,'), (2991, '$.')],
     '0062': [(2140, '1'), (2238, '1'), (2778, '2')],
@@ -768,16 +1046,21 @@ def main():
             covered = norm(c[2]) and any(
                 abs(c[1] - mtop) <= 80 and norm(c[2]) == norm(mtok)
                 for (mtop, mtok, mk_, mo) in MANUAL_ADD.get(n, []))
-            (prot if c[3] >= 4 or covered else rest).append(c)
+            if covered:
+                # the audit's manual entry stands in for this auto read
+                # (same glyph, other model) - keeping both would stack
+                # two labels on one marker
+                continue
+            (prot if c[3] >= 4 else rest).append(c)
         for (mtop, mtok, mkind, mout) in MANUAL_ADD.get(n, []):
             prot.append((mkind, mtop, mtok, 4, False, mout))
         # re-dedup within prot: a manual entry duplicating an already
-        # covered auto candidate must not stack two labels (norm()''
-        # artifact toks fall back to the raw token so two DIFFERENT
-        # artifact glyphs on one line never merge)
+        # covered auto candidate must not stack two labels. Key = exact
+        # top + raw token (norm would collide distinct digit shapes
+        # like '!1'/'1?' - the raised 11/12 pair)
         best2 = {}
         for c in prot:
-            k = (c[1], norm(c[2]) or c[2])
+            k = (c[1], c[2])
             if k not in best2 or c[3] > best2[k][3]:
                 best2[k] = c
         prot = list(best2.values())
