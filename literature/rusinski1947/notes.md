@@ -517,3 +517,33 @@ cell-table rendering would need hundreds of spot answers).
    residue: the prose cells (Zrodlo/Data columns) carry OCR noise
    (e.g. 'AW. B.99--GU' for 'AW. B. 99-60') - the numeric/name columns
    are clean; spot answers welcome on suspicious prose cells only.
+
+
+## Editor rulings applied (the Markdown-table round)
+
+1. l->I NORMALIZED in compose.py's final pass (KI.->Kl. x60,
+   OIL->Ol. x11, OI.->Ol. x371; word-boundary guarded).
+2. 'Tp. 72' body citation -> 'Tp. 72 [sic; TKS. 72]' per the editor's
+   [sic]-plus-bracketed-correction convention.
+3. Small Wykaz uncertainties: no action needed (transcribed per the
+   print reads already taken).
+4. ANEKS I = REAL MARKDOWN TABLES. annex_cells.py's fit generalized
+   (every detection-pair x template-pair hypothesis; bounded spurious
+   -run skips), 0152's faint outer rule now pairs correctly
+   (resid 0.0088 -> 0.0009). annex_md.py pixel-classifies every cell:
+   EMPTY (no ink), DASH (the print's ~70x8px dash strokes; 744+6
+   classified), TEXT (cleaned OCR: hyphen joins, junk punct runs
+   dropped). compose renders one table per sheet (22 headers - the
+   print repeats its header per sheet, and 0159 carries the second
+   table), furniture interleaved by y (0159: totals line + sub-table
+   title + sub-rows), 0158's sołtys footnote block appended from
+   structure4, and 0158 row 9's noise cells replaced with the strip's
+   print-verified row text.
+
+KNOWN RESIDUE in the table cells: the prose columns (Zrodlo/data)
+carry OCR noise on multi-line cells (e.g. 0147 row 2 'AW. B.99--GU'
+for 'AW. B. 99-60', '291V 1/40' for '29 IV 1748', 0152 row 90
+'rel. Posn. nr 140, r. 1601/2, f 6591' for the wrap). The numeric and
+name columns are clean. Suspicious prose cells can be listed for spot
+answers on demand; the tier-C raw row text (the previous rendering,
+still in annex_table.json) remains the cross-check source.
