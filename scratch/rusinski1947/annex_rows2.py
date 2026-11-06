@@ -44,6 +44,33 @@ SERIES = {'0139': 'a', '0147': 'b', '0158': 'c'}
 # scan -> [(line_top, hint or None)] (replaces the computed starts;
 # override hints are eyeball-verified print readings)
 OVERRIDES = {
+    # series a continuation (p. 129): rows 74-86. The number column's
+    # misreads ('99814 14'=74, '17'=77, "'Pis[og 78"=78) and the
+    # 1955-2410 rescue band (rows 83 Słocińskie / 84 Snowidowo, whose
+    # separator the editor's lines miss) fixed by explicit starts from
+    # the print
+    '0144': [(364, 74), (544, 75), (656, 76), (906, 77), (1107, 78),
+             (1408, 79), (1506, 80), (1759, 81), (1863, 82), (1967, 83),
+             (2072, 84), (2313, 85), (2418, 86)],
+    # series b continuation (p. 137): rows 82-92. Row 85 'Niewiemko
+    # Stare' (the 'ee)' misread; the old 84 span held both Niewiemko
+    # rows) and row 90 'Nowe Dwory' recovered
+    '0152': [(379, 82), (699, 83), (805, 84), (913, 85), (1236, 86),
+             (1408, 87), (1655, 88), (2044, 89), (2149, 90), (2390, 91),
+             (2496, 92)],
+    # series b continuation (p. 139): rows 105-118. Rows 113
+    # Różyńskie / 114 Rudka / 115 Sąpolna recovered (the old 114 was a
+    # 4px sliver and 113 held row 112's tail)
+    '0154': [(419, 105), (816, 106), (924, 107), (1262, 108), (1438, 109),
+             (1545, 110), (1652, 111), (1827, 112), (2084, 113),
+             (2279, 114), (2543, 115), (2650, 116), (2909, 117),
+             (3014, 118)],
+    # series b continuation (p. 141): rows 133-145. Row 142 'Wizany'
+    # (the 'N 42' misread) recovered - the old 142 held row 141's
+    # Wiewiórczyn content
+    '0156': [(379, 133), (560, 134), (667, 135), (844, 136), (1023, 137),
+             (1130, 138), (1534, 139), (1709, 140), (1955, 141),
+             (2110, 142), (2391, 143), (2497, 144), (2759, 145)],
     # series c: the 'Osady typu przejściowego' table (rows 1-9) then its
     # notes 1-8 (excluded by the cut at 2350)
     '0158': [(527, 1), (703, 2), (902, 3), (1096, 4), (1290, 5),
@@ -54,7 +81,9 @@ OVERRIDES = {
              (2250, 4)],
 }
 # a text cut per sheet: row texts stop above it (the notes zone)
-CUTS = {'0158': 2350, '0159': 2600}
+CUTS = {'0158': 2350, '0159': 2600,
+        # the sheet footnotes leaked into the last row's span
+        '0144': 2553, '0152': 2630, '0156': 3049}
 
 NUMHINT = re.compile(r'^[lI|]?\s*(\d{1,3})[.)]?\s+\S')
 TOTALS = re.compile(r'^(Razem|Uwagi|Wszelkie|Og[oó]łem|W tym)\b')
@@ -229,6 +258,10 @@ for n in SHEETS:
         y0 = max(0, st['top'] - 12)
         y1 = starts[i + 1]['top'] - 8 if i + 1 < len(starts) \
             else (tot_top if tot_top < 10 ** 9 else s[n]['height'] - 30)
+        # the notes zone: the sheet's footnotes must not widen the
+        # table's last row
+        if n in CUTS and y0 < CUTS[n] < y1:
+            y1 = CUTS[n]
         ytext = min([y1] + [t - 8 for t in cuts if y0 < t < y1]
                     + ([CUTS[n]] if n in CUTS and y0 < CUTS[n] < y1 else []))
         text = ' '.join(l['text'] for l in lines
