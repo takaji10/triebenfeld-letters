@@ -1,36 +1,37 @@
-# The exclusion pass (PLAN.md section 4.3).
+# The exclusion pass (PLAN.md section 4.3, as ruled on 2026-11-06).
 #
-# The editor's ruling: the ancestors of Larry Charles Lacko are not part of
-# this project. The cut takes Larry's parents (Nicholas Lacko and Parania
-# Rychlicki), all of their blood ancestors, and every blood descendant of
-# those people except through Larry himself - his siblings and the whole
-# Lacho branch, however far down it runs. Spouses married only into the
-# removed lines go too. Larry himself, his descendants and everyone on the
-# Zelmer side stay.
+# The editor's ruling, in its final form: everything connected to Larry
+# Charles Lacko ONLY through his ancestors leaves the database - their
+# whole family world, walked in every direction (up through the
+# ancestors, down through all their children, sideways through every
+# marriage, and onward through the spouses' own parents and other
+# marriages: the natal Trzeciaks, Chikowskis, Klowaks, Roths and the
+# rest that earlier passes left standing behind an in-law). Larry
+# himself, his blood descendants and the whole world reachable from him
+# - the Zelmer side and its in-laws - stay.
 #
-# The removal set is computed in three passes, which replaces the earlier
-# fixpoint whose "a child with one kept parent stays" rule deadlocked
-# against the same rule keeping the spouse: a removed sibling's children
-# kept the outsider spouse alive, the spouse kept the children alive, and
-# the sibling's whole line survived the cut it was ruled out of (seen in
-# the 2026-11-06 build: I0100's children I2190-I2192 stayed through their
-# mother I2189).
+# The cut is therefore a partition by connectivity, not a fixpoint of
+# pairwise rules. (Two fixpoint attempts failed in instructive ways: the
+# first kept a child whenever one parent was kept, which let a removed
+# sibling's line keep its outsider spouse alive and survive its own
+# exclusion; the second followed blood alone, which left the in-laws'
+# natal families standing behind the removed spouses. A connected
+# component has no rules to deadlock: )
 #
-#   seed      = the blood ancestors of the roots (removed by ruling);
-#   protected = the roots and their blood descendants - the "except through
-#               I0005" of the plan; a person reached by both walks stays;
-#   removed   = the seed plus every blood descendant of the seed that the
-#               downward walk reaches without passing the protected line.
+#   seed   = the blood ancestors of the roots (both parents at every
+#            step, so the wives' lines walk up too);
+#   kept   = everything reachable from the roots through ANY family link
+#            without entering the seed - Larry's world: his descendants
+#            and their spouses' families, the Zelmer side entire;
+#   removed= the seed plus everything reachable from the seed through
+#            any family link without entering the kept set - the
+#            ancestors' world entire.
 #
-# Then a fixpoint sweeps the hangers-on the plan names: a spouse whose
-# every marriage now runs into removed people (co-spouses and children)
-# goes - deliberately regardless of their own natal family, which the
-# ruling does not remove: the spouse married into the branch, their
-# parents and siblings did not marry into anything. And the ancestors of
-# anyone newly removed go when no kept child anchors them any more.
-#
-# Every removal is written to the exclusion report for the editor's
-# sign-off before anything is published.
+# A person reachable from both worlds stays (a branch member who married
+# back into Larry's world, say): belonging to both, neither walk may
+# take them, and the sanitising pass keeps their links honest. Every
+# removal is written to the exclusion report for the editor's sign-off
+# before anything is published.
 
 from __future__ import annotations
 
@@ -60,42 +61,48 @@ def _parents_of(model, xref: str) -> list:
     return out
 
 
-def _children_of(model, xref: str) -> list:
+def _neighbours(model, xref: str) -> list:
+    """Every person one family link away: parents, co-spouses, children."""
+    p = model.people[xref]
     out = []
-    for fam_xref in model.people[xref].fams:
+    for fam_xref in p.famc:
         fam = model.families.get(fam_xref)
-        if not fam:
-            continue
-        out.extend(fam.chil)
+        if fam:
+            out.extend(s for s in (fam.husb, fam.wife) if s)
+    for fam_xref in p.fams:
+        fam = model.families.get(fam_xref)
+        if fam:
+            out.extend(s for s in (fam.husb, fam.wife) if s and s != xref)
+            out.extend(fam.chil)
     return out
 
 
-def _blood_descendants(model, starts: list, blocked: set) -> set:
-    """Everyone descends from starts through child links alone, never
-    passing a blocked person (a blocked person is not removed and the
-    walk does not continue through them)."""
+def _closure(model, start: list, blocked: set) -> set:
+    """All people reachable from start through any family link, never
+    stepping into blocked (a blocked person is neither visited nor
+    passed through)."""
     seen = set()
-    frontier = list(starts)
+    frontier = list(start)
     while frontier:
         x = frontier.pop()
         if x in seen:
             continue
         seen.add(x)
-        for fam_xref in model.people[x].fams:
-            fam = model.families.get(fam_xref)
-            if not fam:
-                continue
-            for c in fam.chil:
-                if c not in seen and c not in blocked and c in model.people:
-                    frontier.append(c)
+        for n in _neighbours(model, x):
+            if n not in seen and n not in blocked and n in model.people:
+                frontier.append(n)
     return seen
 
 
-def prune(model, roots: list[str]) -> Exclusion:
+def prune(model, roots: list[str], extra_people: list[str] | None = None) -> Exclusion:
     roots = [r if r.startswith("@") else f"@{r}@" for r in roots]
     for r in roots:
         if r not in model.people:
             raise ValueError(f"exclusion root {r} is not in the database")
+    extra = ["@" + x.strip("@") + "@" for x in (extra_people or [])]
+    for x in extra:
+        if x not in model.people:
+            raise ValueError(f"excluded person {x} is not in the database")
 
     ex = Exclusion()
 
@@ -109,53 +116,20 @@ def prune(model, roots: list[str]) -> Exclusion:
                 seed.add(par)
                 frontier.append(par)
 
-    # --- protected: the roots and their blood descendants --------------
-    protected = _blood_descendants(model, roots, blocked=set())
+    # --- the kept world: from the roots through any link, cut at the
+    #     seed (Larry's descendants, their spouses and in-laws, the
+    #     Zelmer side - everything the editor keeps) --------------------
+    kept = _closure(model, roots, blocked=seed)
 
-    # --- the branch: the seed's blood descendants, cut at the protected
-    #     line (a person descended from both stays - the plan's "except
-    #     through I0005")
-    removed = _blood_descendants(model, sorted(seed), blocked=protected)
+    # --- the excluded world: from the seed through any link, cut at
+    #     the kept set (the ancestors' world: descendants in every
+    #     branch, the spouses married into it, and the spouses' own
+    #     families behind them) ----------------------------------------
+    removed = _closure(model, sorted(seed), blocked=kept)
     removed |= seed
-
-    # --- fixpoint: spouses married only into removed lines, and the
-    #     ancestors of the newly removed with no kept child left ---------
-    changed = True
-    while changed:
-        changed = False
-
-        # (c) every marriage runs into removed people
-        for x, p in model.people.items():
-            if x in removed or x in protected:
-                continue
-            fams = [model.families.get(f) for f in p.fams]
-            fams = [f for f in fams if f]
-            if not fams:
-                continue
-            dead = 0
-            for f in fams:
-                cos = [s for s in (f.husb, f.wife) if s and s != x]
-                kids = f.chil
-                if not cos and not kids:
-                    continue  # a one-person family is no evidence either way
-                if all(s in removed for s in cos) and \
-                        all(k in removed for k in kids):
-                    dead += 1
-            if dead == len(fams):
-                removed.add(x)
-                changed = True
-
-        # (d) the ancestors of anyone newly removed, unless a kept child
-        #     anchors them or they sit on the protected line
-        for x in list(removed):
-            for par in _parents_of(model, x):
-                if par in removed or par in protected:
-                    continue
-                kept_kids = [k for k in _children_of(model, par)
-                             if k not in removed]
-                if not kept_kids:
-                    removed.add(par)
-                    changed = True
+    # islands named explicitly in the config: no recorded link joins them
+    # to either world, so no walk can reach them
+    removed |= set(extra)
 
     # --- families: gone when both spouses and all children are ----------
     for fx, fam in model.families.items():

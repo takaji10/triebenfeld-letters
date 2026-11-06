@@ -157,7 +157,8 @@ def main() -> int:
               f"data.gramps (see the report)")
 
     print("[3/6] pruning the excluded branch")
-    ex = prune.prune(model, cfg["exclusion"]["roots"])
+    ex = prune.prune(model, cfg["exclusion"]["roots"],
+                     extra_people=cfg["exclusion"].get("people"))
     print(f"      {len(ex.removed_people)} people, "
           f"{len(ex.removed_media)} media files, "
           f"{len(ex.removed_families)} families removed")

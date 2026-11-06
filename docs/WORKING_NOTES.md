@@ -3285,4 +3285,21 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   invisible until someone opened it. When a component compiles but a
   route has never been seen working, render it once headlessly (or read
   the compiled output for the bare identifier) before trusting it.
+- **The second failure of the exclusion cut was the mirror of the
+  first.** The fixpoint kept a removed line alive through its kept
+  spouse; replacing it with a blood-only walk then left the in-laws'
+  natal families standing behind the removed spouses - the editor
+  found Trzeciaks and Klowaks the ruling had clearly named. Blood is
+  not connectivity: a marriage is a real edge and the families behind
+  it are real members of the world being cut. When a cut is defined by
+  belonging ("everyone connected to X only through Y"), partition by
+  reachability in BOTH worlds and subtract - and check the result by
+  asking the data the question the editor will ask ("is any of these
+  surnames still there?"), not by trusting the algorithm's own count.
+- **Islands need naming, not walking.** Two [Living] Trzeciak
+  placeholders had no recorded link to any person - unreachable by any
+  graph rule, invisible to every check that reasons over edges. The
+  honest tool is an explicit named list in the config (exclusion.people),
+  reported like every other removal; a surname heuristic would have
+  been neither visible nor reversible.
 

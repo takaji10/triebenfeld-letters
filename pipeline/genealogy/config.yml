@@ -31,11 +31,18 @@ media:
   dest: "J:/Zelmer/genealogy-media"
 
 exclusion:
-  # Larry Charles Lacko (@I0005@): his parents, their ancestors, and the
-  # descendants of all of them (his siblings and their lines, the Lacho
-  # branch) leave the database; Larry, his family and the Zelmer side stay.
-  # The plan's section 4.3 carries the exact semantics.
+  # Larry Charles Lacko (@I0005@): everything connected to him only
+  # through his ancestors leaves the database - their whole family world,
+  # walked in every direction (blood lines, the spouses married into
+  # them, and the spouses' own families behind them). Larry, his
+  # descendants and everything reachable from him (the Zelmer side and
+  # its in-laws) stay. The plan's section 4.3 carries the semantics.
   roots: ["I0005"]
+  # Islands the walks cannot reach: people with no recorded family link
+  # to either world, named by the editor's ruling (2026-11-06) - the
+  # [Living] Trzeciak couple I1232/I1235, placeholders with no parents,
+  # children or events, whose surname belongs to the excluded world.
+  people: ["I1232", "I1235"]
 
 privacy:
   # A person is treated as living when their latest plausible birth year is

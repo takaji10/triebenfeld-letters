@@ -4919,6 +4919,42 @@ footer on every page. Changed, in both languages:
   new families (I3131's six siblings render, I0005's cut famc renders
   honestly without parents).
 
+## 2026-11-06: the exclusion widened to the ancestors' whole world
+
+- The editor found Trzeciaks, Chikowskis and Klowaks still in the
+  database and ruled: everything connected to Larry only through his
+  ancestors goes, in all directions. The morning's cut had followed
+  blood alone, which left the in-laws' own families standing behind the
+  removed spouses - Tatianna Trzeciak (married into the Lechów line)
+  was gone but her father and siblings stayed; a branch Rychlicki's
+  Klowak-named children stayed where their father link was unrecorded;
+  the Roths sat behind a living Lacko in-law. prune.py now partitions
+  the database by connectivity instead of running a rule fixpoint: the
+  seed (Larry's blood ancestors), the kept world (everything reachable
+  from Larry through ANY family link without entering the seed - his
+  descendants, their spouses' families, the Zelmer side entire), and
+  the removed world (the seed plus everything reachable from it without
+  entering the kept set). A person reachable from both worlds stays -
+  a branch member who married back into Larry's world belongs to both,
+  and in this database there are none. Measured: 418 people, 279 media,
+  146 families removed (was 328/245/115); 4,021 people published (was
+  4,111). Checked: Trzeciak, Chikowski, Rychlicki, Klowak, Roth, Masluk,
+  Ribachuk, McKay, Vogt, Sawuła and Lacho at zero in the published
+  index; no one removed by the previous cut comes back; no core
+  Zelmer-side surname (Zelmer/Zellmer/Celmer/Cellmer, Flatt, Fengler/
+  Fingler, Koss, Strecker, Schmidt) is touched.
+- Two [Living] Trzeciak placeholders (I1232, I1235) are an island: a
+  husband and wife married to each other with no parents, children or
+  events, and no recorded link to any other person - no walk can reach
+  them. The config gains exclusion.people, an explicit list for such
+  islands, named by the editor's ruling and reported like the rest of
+  the cut; build.py and media_build.py pass it so both builds exclude
+  the same set.
+- Built: data rebuilt (4,021 people, 1,408 families, 1,666 media,
+  1,083 places), jekyll and verify_site ALL CHECKS PASSED with the
+  project baseurl and with none (63,294 internal links each).
+
+
 
 - The starred readings' note shows at once (2026-11-06, the editor's
   question: the help cursor appeared but the note did nothing): the note

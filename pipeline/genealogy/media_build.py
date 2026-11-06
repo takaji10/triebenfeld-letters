@@ -104,7 +104,8 @@ def main() -> int:
     print(f"      {len(model.media_by_xref)} media objects")
 
     print("[2/4] exclusion + privacy filters")
-    ex = prune.prune(model, cfg["exclusion"]["roots"])
+    ex = prune.prune(model, cfg["exclusion"]["roots"],
+                     extra_people=cfg["exclusion"].get("people"))
     living = privacy.living_set(model, cfg["privacy"]["age_limit"])
     withheld = privacy.media_privacy(model, living)
     skip = ex.removed_media | withheld
