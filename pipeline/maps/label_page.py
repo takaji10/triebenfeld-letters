@@ -179,9 +179,6 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
 #work{margin-top:10px;padding:8px;background:#fff;border:1px solid #bbb;border-radius:4px}
 #work .step{font-weight:600;margin-bottom:4px}
 .shows button{display:inline-block}
-.pl{margin:2px 0 6px}
-.pl button{font:inherit;font-size:13px;padding:2px 7px;margin:1px;border:1px solid #bbb;background:#fff;border-radius:3px;cursor:pointer}
-.pl button:hover{background:#eee}
 .small{font-size:12px;color:#666}
 #add{margin:8px 0 2px}
 #add #b-new{margin:0}
@@ -202,7 +199,7 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
     <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. When the place is one the gazetteer knows, the type is filled in for you from its entry (a village for a village, water for a stream); the page still pauses with the <b>form as written on the map</b> open and focused — type what the map's lettering says if it differs from the place's name, then <kbd>Enter</kbd> saves and moves to the next place.</p>
     <p><b>Changing the type of place</b> the gazetteer filled in: click one of the type buttons under the form (the pause stays open, the form still to be typed), or press a type key while the form field is <b>empty</b> — a key pressed in a field with text in it types that character, as anywhere. On a label already saved: select it and press a type key (it keeps the change at once), or use <b>Change what it shows</b>. A type you chose by hand is never overwritten by the gazetteer's fill.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
-    <p><b>Polish letters in the form</b> (and in the note): <kbd>Right Alt</kbd> (<kbd>AltGr</kbd>; <kbd>Ctrl</kbd>+<kbd>Alt</kbd> on some layouts) + a letter gives its Polish form — a→ą, c→ć, e→ę, l→ł, n→ń, o→ó, s→ś, x→ź, z→ż, with <kbd>Shift</kbd> for the capital — or click one of the letter buttons under the form field. The plain letter always types as itself (the mapping runs only under the held modifier): a form the map writes without diacritics (<i>Trampczyn</i>) stays as written.</p>
+    <p><b>The Place field matches without the Polish marks</b> (the editor's word, 2026-11-06): type <i>Trabczyn</i> and the page chooses <i>Trąbczyn</i> — the de-accented spellings are in the suggestions as you type, and a form written with its diacritics (<i>Wrąbczyn</i>) is filled in for you once the place is chosen. The form field takes whatever the map's lettering shows, diacritics included when the map has them.</p>
     <p><b>Changing a label already made:</b> click it in the list or on the map, edit the <b>form</b> (or re-trace it, or change what it shows), then press <kbd>Enter</kbd> in the field &mdash; or click an empty spot on the map, or press <kbd>Esc</kbd>. The label is released and its name shows on the map again; every keystroke is kept by the browser as you type. (A label marked <b>N</b> with its trace skipped has no place on the map, so it draws no name &mdash; it lives in the lists; give it a point with <b>Redo point</b> if you want its name shown.)</p>
     <p><b>The boundary walk</b> (where the map's texts carry the adjoining-lands list): <b>Mark the letters</b> — the letter to mark is shown in the box; click its stamp on the map, repeat (edit the letter in the box for a stamp the sequence doesn't name, <kbd>S</kbd> to leave one unmarked). <b>Walk the boundary</b> — each stretch of the list in order: trace the line from its first letter to its last (click the start, each bend, double-click the end), or <kbd>S</kbd> skips the stretch (a stretch drawn in the sub-map: skip it). Click a stretch in the list to draw it again.</p>
     <p>Your work is kept in this browser as you go. Press <b>Save</b> to download a file to bring into the edition.</p>
@@ -242,13 +239,7 @@ var KIND2SHOWS = {village:"village", hamlet:"village", settlement:"village", tow
   "isolated-dwellings":"village", "oleder-settlement":"oleder-settlement", folwark:"folwark",
   tavern:"tavern", "water-mill":"water-mill", windmills:"windmill", forest:"forest",
   "forest-precinct":"forest", river:"water", stream:"water", field:"field"};
-// The Polish letters (the editor's request, 2026-11-06: no layout switching
-// to type ą, ć, ę...): Right Alt (AltGr; Ctrl+Alt on some layouts) + the
-// plain letter gives its Polish form — the Polish-programmer keyboard's own
-// mapping, ź on x. Plain letters type as themselves; the mapping runs only
-// under the held modifier, so a form as written without diacritics
-// (Trampczyn) stays as written.
-var PLKEYS = {a:"ą", c:"ć", e:"ę", l:"ł", n:"ń", o:"ó", s:"ś", x:"ź", z:"ż"};
+var PLKEYS = null; // retired 2026-11-06 (the editor's clarification: the want was accent-insensitive matching, not letter insertion)
 var LSKEY = "maplabels:" + KEY;
 
 var labels = [];      // saved labels
@@ -270,13 +261,11 @@ function roleOf(l){ return l.role || "place"; }
 function $(id){return document.getElementById(id);}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 function rnd(v){return Math.round(v);}
-// insert ch at the field's caret, keeping the focus and the caret after it
-function insertAt(inp,ch){
-  var s=inp.selectionStart||0,e=inp.selectionEnd||0;
-  inp.value=inp.value.slice(0,s)+ch+inp.value.slice(e);
-  var p=s+ch.length;
-  inp.focus();
-  try{inp.setSelectionRange(p,p);}catch(err){}
+// the Polish letters folded away (the editor's word, 2026-11-06: typing
+// "Trabczyn" must find Trąbczyn): ą→a ć→c ę→e ł→l ń→n ó→o ś→s ź→z ż→z
+var PLFOLD = {"ą":"a","ć":"c","ę":"e","ł":"l","ń":"n","ó":"o","ś":"s","ź":"z","ż":"z"};
+function stripPolish(s){
+  return String(s).replace(/[ąćęłńóśźż]/g, function(c){ return PLFOLD[c]; });
 }
 function resetTmp(){ tmp=[]; tmpPx=[]; tmpBreaks=[]; pendingBreak=false; }
 
@@ -556,10 +545,6 @@ function renderWork(){
   }
   if(role==="place"){
     h+='<label class="f">Form as written on the map</label><input id="f-form" value="'+esc(cur.form)+'">';
-    h+='<div class="pl" title="Polish letters: click to insert at the cursor; Right Alt + the plain letter does the same">'
-      + ["ą","ć","ę","ł","ń","ó","ś","ź","ż","Ą","Ć","Ę","Ł","Ń","Ó","Ś","Ź","Ż"]
-        .map(function(ch){return '<button data-act="pl" data-ch="'+ch+'">'+ch+'</button>';}).join('')
-      + '</div>';
     if(step==="shows"){
       if(cur.autoShows){
         h+='<div class="step">The type of place: <b>'+esc(cur.shows)+'</b> <span class="small">(from the gazetteer; a button or a type key overrides)</span></div>';
@@ -603,8 +588,9 @@ function renderWork(){
   if(fp){
     fp.oninput=function(){
       cur._placeText=fp.value;
-      var slug=placeMap[fp.value]||null; cur.place=slug;
-      $("f-placeinfo").innerHTML=slug?"Place chosen: <b>"+esc(headingOf[slug])+"</b>":"No gazetteer place chosen.";
+      var v=fp.value;
+      var slug=placeMap[v]||placeMapLC[v.toLowerCase()]||null; cur.place=slug;
+      $("f-placeinfo").innerHTML=slug?"Place chosen: <b>"+esc(headingOf[slug])+"</b>"+(v!==headingOf[slug]&&placeMap[v]!==slug?" <span class='small'>(matched from your spelling)</span>":""):"No gazetteer place chosen.";
       if(!slug && cur.autoShows){ cur.shows="unsure"; cur.autoShows=false; }
       if(slug){ var ff=$("f-form"); var m=/^(.*) → /.exec(fp.value); var v=m?m[1]:headingOf[slug]; if(!ff.value||ff.dataset.auto){ff.value=v;ff.dataset.auto="1";cur.form=v;} autoShowsFor(slug); }
     };
@@ -613,18 +599,6 @@ function renderWork(){
   var fm=$("f-form"); if(fm) fm.oninput=function(){cur.form=fm.value;fm.dataset.auto="";if(!isDraft)persist();};
   var nt=$("f-note"); if(nt) nt.oninput=function(){cur.note=nt.value||null;if(!isDraft)persist();};
   Array.prototype.forEach.call(w.querySelectorAll("button"),function(b){
-    if(b.dataset.act==="pl"){
-      // a Polish letter: the insertion must not steal the form field's
-      // focus or caret (the generic handler's blur would)
-      b.onmousedown=function(e){ e.preventDefault(); };
-      b.onclick=function(){
-        var fm=$("f-form"); if(!fm) return;
-        insertAt(fm, b.dataset.ch);
-        cur.form=fm.value; fm.dataset.auto="";
-        if(!isDraft) persist();
-      };
-      return;
-    }
     b.onclick=function(){
       b.blur();
       if(b.dataset.shows) chooseShows(b.dataset.shows);
@@ -765,6 +739,12 @@ function setPoint(p){
     step="trace"; resetTmp();
   } else { step=null; persist(); }
   render();
+  // a new label's point is marked: the cursor goes to the Place field, so
+  // the name can be typed at once (the editor's word, 2026-11-06 - they
+  // had to click into the field first)
+  if(isDraft && roleOf(cur)==="place" && !cur.fromItem && cur.fromItem!==0){
+    var fp=$("f-place"); if(fp) fp.focus();
+  }
 }
 function endTrace(){
   if(tmp.length<2){ setStatus("A trace needs at least two points (start and end). Click more points, or press S to skip.",true); return; }
@@ -870,13 +850,6 @@ viewer.addHandler("canvas-double-click",function(e){
 document.addEventListener("keydown",function(e){
   var t=e.target, tag=t&&t.tagName;
   if(tag==="INPUT"||tag==="TEXTAREA"||tag==="SELECT"){
-    // Right Alt (AltGr) + a letter gives its Polish form (the editor's
-    // request, 2026-11-06); on a keyboard layout that already composes
-    // them the key arrives as ą itself and passes through untouched
-    if((e.ctrlKey&&e.altKey) && e.key.length===1){
-      var pl=PLKEYS[e.key.toLowerCase()];
-      if(pl){ e.preventDefault(); insertAt(t, e.shiftKey?pl.toUpperCase():pl); return; }
-    }
     // Enter in the form or note field of an existing label commits the
     // edit: the label is deselected and its name shows on the map again
     // (the editor's report, 2026-11-06: an edit seemed unsavable and the
@@ -1000,10 +973,35 @@ function afterLoad(){
   $("mtitle").textContent=M.cited_as;
   $("msub").textContent=M.title+" ("+M.width+" × "+M.height+" px)";
   var dl=$("placelist");
+  var placeMapLC={};   // lowercase, de-accented: "trabczyn" -> slug
   DATA.places.forEach(function(p){
     headingOf[p.slug]=p.heading;
     kindOf[p.slug]=p.kind;
-    var add=function(s){ if(!(s in placeMap)){placeMap[s]=p.slug; var o=document.createElement("option"); o.value=s; dl.appendChild(o);} };
+    var add=function(s){
+      if(s in placeMap) return;
+      placeMap[s]=p.slug;
+      var o=document.createElement("option"); o.value=s; dl.appendChild(o);
+      // the de-accented twin: typed as pronounced ("Trabczyn") it matches
+      // (the editor's word, 2026-11-06), and the browser suggests it while
+      // an accented form would not
+      var st=stripPolish(s);
+      if(st!==s && !(st in placeMap) && !placeMapLC[st.toLowerCase()]){
+        placeMap[st]=p.slug;
+        placeMapLC[st.toLowerCase()]=p.slug;
+        var o2=document.createElement("option"); o2.value=st; dl.appendChild(o2);
+      }
+      // a composite option's form part alone ("Kolonia Wrąbczyn"): its
+      // de-accented spelling matches too
+      var fi=s.indexOf(" → ");
+      if(fi>0){
+        var stf=stripPolish(s.slice(0,fi));
+        if(stf!==s.slice(0,fi) && !(stf in placeMap) && !placeMapLC[stf.toLowerCase()]){
+          placeMap[stf]=p.slug;
+          placeMapLC[stf.toLowerCase()]=p.slug;
+        }
+      }
+      placeMapLC[s.toLowerCase()]=placeMapLC[s.toLowerCase()]||p.slug;
+    };
     add(p.heading);
     p.forms.forEach(function(f){ if(f!==p.heading) add(f+" → "+p.heading); });
   });

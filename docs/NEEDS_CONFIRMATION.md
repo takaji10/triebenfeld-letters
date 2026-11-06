@@ -1097,6 +1097,31 @@ questions the batch leaves:
   from the editor's marks alone** — it waits for the editor's marking (the
   labelling page serves the new original).
 
+### The gazetteer's bad OCR readings (2026-11-06)
+
+- **drzewce.yml, footnote 16 (Nazwy miejscowe Polski, t. 2, p. 444, status
+  missing)**: two of the NMP forms as first entered were OCR-garbled —
+  *Drzevvyc7a* (1418) and *VCe* (1881). Dropped from the entry at the
+  editor's word (the sentence citing the 1418 form out of the text, the two
+  name rows off the list; the footnote's note records the dropping and
+  points the re-check). **When NMP t. 2, p. 444 is obtained**, the 1418 and
+  1881 forms are re-read from it and restored.
+- **The German-named colonies' types** (the editor's word: "Ludwigslust,
+  Sophienthal, Ingelfingen, Friedrichsfeld, Emilienheim, are all Olędry"):
+  **ludwigslust**'s kind is corrected (hamlet → oleder-settlement; the
+  entry IS the colony, Mały Las today) and the already-marked labels of
+  mapadrogi1890 carry the Olęder type where the gazetteer's kind had
+  filled the wrong one (mapadrogi1890-044, Emilienheim). The other four
+  colony names were marked onto the VILLAGE entries (Sophienthal →
+  olchowo, Ingelfingen → anielewo, Friedrichsfeld → tarszewo, Emilienheim
+  → michalinow-olesnicki), whose own kinds stay village — they are not
+  themselves Olęder settlements. **For the editor**: whether the edition
+  wants entries of their own for the four colonies (Sophienthal,
+  Ingelfingen, Friedrichsfeld, Emilienheim), kind oleder-settlement —
+  which would also make their default types fill right on every future
+  map; Claude can draft the four entries from the sources the edition
+  holds (Breyer, Kneifel, the newspapers' items) at your word.
+
 ### Mapa dróg 1890 — marked and OCR'd (2026-11-06)
 
 - **Two new places** the editor marked (`new_place`, no gazetteer entry

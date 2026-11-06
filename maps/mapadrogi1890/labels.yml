@@ -940,3 +940,935 @@ labels:
   skipped: null
   form_map_conf: high
   form_standard: Pyzdry
+width: 11009
+height: 14250
+saved: '2026-11-06T18:29:56.942Z'
+labels:
+- id: mapadrogi1890-002
+  role: place
+  place: zagorowo
+  new_place: null
+  form: Загорувъ
+  point:
+  - 4042
+  - 9323
+  trace:
+  - - 3759
+    - 9245
+  - - 4205
+    - 9245
+  height: 120
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Zagórów
+- id: mapadrogi1890-004
+  role: place
+  place: wrabczyn
+  new_place: null
+  form: Вромбчинъ
+  point:
+  - 3519
+  - 9352
+  trace:
+  - - 3377
+    - 9308
+  - - 3769
+    - 9308
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Wrąbczyn
+- id: mapadrogi1890-008
+  role: place
+  place: wrabczynkowskie-holendry
+  new_place: null
+  form: Колонія Вромбчинъ
+  point:
+  - 3201
+  - 9154
+  trace:
+  - - 3044
+    - 9127
+  - - 3479
+    - 9136
+  - - 3479
+    - 9135
+  height: 80
+  shows: unsure
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Kolonia Wrąbczyn
+- id: mapadrogi1890-010
+  role: place
+  place: wrabczynek
+  new_place: null
+  form: Вромбчинекъ
+  point:
+  - 3077
+  - 9251
+  trace:
+  - - 3137
+    - 9232
+  - - 3613
+    - 9226
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Wrąbczynek
+- id: mapadrogi1890-012
+  role: place
+  place: kosciolkow
+  new_place: null
+  form: Косьцёлковъ
+  point:
+  - 3585
+  - 9578
+  trace:
+  - - 3244
+    - 9587
+  - - 3564
+    - 9578
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Kościołków
+- id: mapadrogi1890-014
+  role: place
+  place: drzewce
+  new_place: null
+  form: Джевце
+  point:
+  - 4053
+  - 9862
+  trace:
+  - - 3739
+    - 9866
+  - - 4056
+    - 9862
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Drzewce
+- id: mapadrogi1890-016
+  role: place
+  place: augustinow
+  new_place: null
+  form: Августинувъ
+  point:
+  - 3868
+  - 9981
+  trace:
+  - - 3490
+    - 9955
+  - - 3919
+    - 9935
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Augustynów
+- id: mapadrogi1890-018
+  role: place
+  place: bukowe
+  new_place: null
+  form: Букове
+  point:
+  - 3725
+  - 10117
+  trace:
+  - - 3763
+    - 10100
+  - - 4028
+    - 10101
+  height: 140
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Bukowe
+- id: mapadrogi1890-020
+  role: place
+  place: lukom
+  new_place: null
+  form: Лукомъ
+  point:
+  - 3456
+  - 10121
+  trace:
+  - - 3163
+    - 10137
+  - - 3444
+    - 10135
+  height: 140
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Łukom
+- id: mapadrogi1890-022
+  role: place
+  place: myszakow
+  new_place: null
+  form: Мышаковъ
+  point:
+  - 2924
+  - 9987
+  trace:
+  - - 2717
+    - 10053
+  - - 3136
+    - 10048
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Myszaków
+- id: mapadrogi1890-024
+  role: place
+  place: malgorzatow
+  new_place: null
+  form: Малгожатовъ
+  point:
+  - 3192
+  - 9961
+  trace:
+  - - 3214
+    - 9968
+  - - 3409
+    - 9966
+  - - 3262
+    - 9995
+  - - 3371
+    - 9994
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Małgorzatów
+- id: mapadrogi1890-026
+  role: place
+  place: lomow
+  new_place: null
+  form: Ломувъ
+  point:
+  - 3574
+  - 10347
+  trace:
+  - - 3287
+    - 10377
+  - - 3549
+    - 10373
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Łomów
+- id: mapadrogi1890-028
+  role: place
+  place: budy
+  new_place: null
+  form: Лукомские Буды
+  point:
+  - 3299
+  - 10522
+  trace:
+  - - 2907
+    - 10510
+  - - 3441
+    - 10501
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Łukomskie Budy
+- id: mapadrogi1890-030
+  role: place
+  place: anielewo
+  new_place: null
+  form: Колонія Ингельфингенъ
+  point:
+  - 3196
+  - 10597
+  trace:
+  - - 2878
+    - 10666
+  - - 3478
+    - 10657
+  - - 3478
+    - 10657
+  - - 3478
+    - 10656
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Kolonia Ingelfingen
+- id: mapadrogi1890-032
+  role: place
+  place: grabina
+  new_place: null
+  form: Грабина
+  point:
+  - 4333
+  - 10351
+  trace:
+  - - 3946
+    - 10351
+  - - 4283
+    - 10348
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Grabina
+- id: mapadrogi1890-034
+  role: place
+  place: michalinow-oledry
+  new_place: null
+  form: Олендры Михалиново
+  point:
+  - 4178
+  - 10638
+  trace:
+  - - 3840
+    - 10705
+  - - 4526
+    - 10886
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Olędry Michalinówo
+- id: mapadrogi1890-036
+  role: place
+  place: null
+  new_place: Stara Huta
+  form: Стара Гута
+  point:
+  - 4651
+  - 10478
+  trace:
+  - - 4420
+    - 10417
+  - - 4896
+    - 10413
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Stara Huta
+- id: mapadrogi1890-038
+  role: place
+  place: lazinskie-oledry
+  new_place: null
+  form: Лазинскіе Олендры
+  point:
+  - 4637
+  - 10359
+  trace:
+  - - 4501
+    - 10335
+  - - 4990
+    - 10319
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Łazińskie Olędry
+- id: mapadrogi1890-040
+  role: place
+  place: lazy-trabczyn
+  new_place: null
+  form: Лазы
+  point:
+  - 4756
+  - 10100
+  trace:
+  - - 4801
+    - 10109
+  - - 4979
+    - 10105
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Łazy
+- id: mapadrogi1890-042
+  role: place
+  place: osiny
+  new_place: null
+  form: Осины
+  point:
+  - 4593
+  - 10083
+  trace:
+  - - 4352
+    - 10103
+  - - 4579
+    - 10103
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Osiny
+- id: mapadrogi1890-044
+  role: place
+  place: michalinow-olesnicki
+  new_place: null
+  form: Эмилиенгейм
+  point:
+  - 4162
+  - 9982
+  trace:
+  - - 4168
+    - 10013
+  - - 4642
+    - 10008
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Emilienheim
+- id: mapadrogi1890-046
+  role: place
+  place: nowawies-trabczyn
+  new_place: null
+  form: Нова Весь
+  point:
+  - 4565
+  - 9763
+  trace:
+  - - 4417
+    - 9819
+  - - 4698
+    - 9813
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Nowa Wieś
+- id: mapadrogi1890-048
+  role: place
+  place: zalesie
+  new_place: null
+  form: Колонія Адольфсбергъ
+  point:
+  - 4427
+  - 9703
+  trace:
+  - - 4440
+    - 9690
+  - - 4802
+    - 9685
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Kolonia Adolfsberg
+- id: mapadrogi1890-050
+  role: place
+  place: trabczyn
+  new_place: null
+  form: Тромбчинъ
+  point:
+  - 4825
+  - 9739
+  trace:
+  - - 4911
+    - 9729
+  - - 5368
+    - 9721
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Trąbczyn
+- id: mapadrogi1890-052
+  role: place
+  place: podbiel
+  new_place: null
+  form: Подбель
+  point:
+  - 5130
+  - 9813
+  trace:
+  - - 5177
+    - 9813
+  - - 5484
+    - 9803
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Podbiel
+- id: mapadrogi1890-054
+  role: place
+  place: mariantow
+  new_place: null
+  form: Марьяновъ
+  point:
+  - 4981
+  - 9978
+  trace:
+  - - 5022
+    - 9987
+  - - 5464
+    - 9980
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Mariantów
+- id: mapadrogi1890-056
+  role: place
+  place: przybyslaw
+  new_place: null
+  form: Пржибыславъ
+  point:
+  - 4710
+  - 9937
+  trace:
+  - - 4732
+    - 9941
+  - - 4984
+    - 9936
+  - - 4755
+    - 9989
+  - - 4891
+    - 9986
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Przybysław
+- id: mapadrogi1890-058
+  role: place
+  place: szetlewek
+  new_place: null
+  form: Шетлевекъ
+  point:
+  - 5283
+  - 10112
+  trace:
+  - - 5432
+    - 10157
+  - - 5855
+    - 10136
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Szetlewek
+- id: mapadrogi1890-060
+  role: place
+  place: null
+  new_place: Świątniki
+  form: Свентники
+  point:
+  - 5595
+  - 9432
+  trace:
+  - - 5653
+    - 9415
+  - - 6065
+    - 9406
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Świątniki
+- id: mapadrogi1890-062
+  role: place
+  place: kopojno
+  new_place: null
+  form: Копойно
+  point:
+  - 5166
+  - 9224
+  trace:
+  - - 5229
+    - 9210
+  - - 5536
+    - 9201
+  height: 100
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Kopojno
+- id: mapadrogi1890-064
+  role: place
+  place: skokum
+  new_place: null
+  form: Скокумъ
+  point:
+  - 4768
+  - 9259
+  trace:
+  - - 4642
+    - 9309
+  - - 4894
+    - 9316
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Skokum
+- id: mapadrogi1890-066
+  role: place
+  place: olesnica
+  new_place: null
+  form: Олесьница
+  point:
+  - 4363
+  - 9353
+  trace:
+  - - 4419
+    - 9363
+  - - 4756
+    - 9367
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Oleśnica
+- id: mapadrogi1890-068
+  role: place
+  place: ludwigslust
+  new_place: null
+  form: Колонія Людвигслюстъ
+  point:
+  - 4608
+  - 9142
+  trace:
+  - - 4424
+    - 9255
+  - - 4945
+    - 9185
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Kolonia Ludwigslust
+- id: mapadrogi1890-070
+  role: place
+  place: olchowo
+  new_place: null
+  form: Колонія Софиенталь
+  point:
+  - 4612
+  - 9011
+  trace:
+  - - 4339
+    - 9045
+  - - 4815
+    - 8901
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Kolonia Sophienthal
+- id: mapadrogi1890-072
+  role: place
+  place: tarszewo
+  new_place: null
+  form: Колонія Фридрихсфельдъ
+  point:
+  - 5413
+  - 8957
+  trace:
+  - - 5132
+    - 8972
+  - - 5203
+    - 9017
+  - - 5273
+    - 9052
+  - - 5355
+    - 9061
+  - - 5466
+    - 9072
+  - - 5604
+    - 9067
+  - - 5726
+    - 9064
+  - - 5833
+    - 9058
+  height: 80
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Kolonia Friedrichsfeld
+- id: mapadrogi1890-074
+  role: place
+  place: wrabczynkowskie-holendry
+  new_place: null
+  form: Вромбчинковские Голендры
+  point:
+  - 2749
+  - 9558
+  trace:
+  - - 2408
+    - 9482
+  - - 2537
+    - 9437
+  - - 2656
+    - 9410
+  - - 2738
+    - 9407
+  - - 2822
+    - 9420
+  - - 2896
+    - 9449
+  - - 2977
+    - 9495
+  - - 3019
+    - 9545
+  - - 3047
+    - 9603
+  height: 100
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: medium
+  form_standard: Wrąbczynkowskie Holendry
+- id: mapadrogi1890-076
+  role: place
+  place: pyzdry
+  new_place: null
+  form: Пиздры
+  point:
+  - 1447
+  - 9610
+  trace:
+  - - 915
+    - 9655
+  - - 1375
+    - 9637
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Pyzdry
