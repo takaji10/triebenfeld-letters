@@ -4,14 +4,17 @@ and document 6's translation table with the proper names.
 
 Serves site/_site statically, drives it in headless Edge, and checks:
   - the map page's layer buttons and their defaults (farm names ON,
-    red numbers OFF; the farm-plots layer is GONE - the editor retired
-    the drawn polygons, 2026-11-06)
+    red numbers OFF; the farm-plots layer GONE - retired 2026-11-06)
   - the farm pills carry the proper spellings; institutions speak the
     page's language
   - red pills are grey; toggling them on works
-  - the settlers' table: one Settler column with the proper names only
-    (institutions speaking the page's language), conjectural rows marked
-    with *, and hectares in parentheses after the 1868 Morgen
+  - the tab system (2026-11-06): texts / adjoining lands / land-area
+    table / farmsteads, one pane at a time, the page opening on Texts;
+    the land-area table carrying Morgen and hectares and no word
+    "explication"
+  - the place index in the sidebar, as on the other maps' pages
+  - the settlers' table: one Settler column with the proper names only,
+    conjectural rows marked *, hectares after the 1868 Morgen
   - document 6: the translation view's table shows the proper names;
     diplomatic view keeps the Cyrillic
 """
@@ -97,9 +100,33 @@ def main():
         }""")
         check('the red pills are grey now', bg in
               ('rgba(96, 96, 100, 0.88)', 'rgb(96, 96, 100)'), str(bg))
+        page.click('#reds-layer')
 
-        # the settlers' table: the single Settler column carries the proper
-        # names only; the holdings carry hectares after the 1868 Morgen
+        # ---- the tab system ---------------------------------------------
+        tabs = page.eval_on_selector_all(
+            '.map-tab',
+            'els => els.map(e => [e.getAttribute("data-tab"),'
+            ' e.textContent.trim()])')
+        check('the four tabs render with the editor’s names',
+              tabs == [['texts', 'Texts on the sheet'],
+                       ['adjoining', 'Adjoining lands'],
+                       ['land', 'The land-area table'],
+                       ['farms', 'Farmsteads']], str(tabs))
+        check('the page opens on the texts tab',
+              page.evaluate(
+                  "document.documentElement.getAttribute('data-maptab')")
+              == 'texts')
+        check('the farmsteads pane waits for its tab',
+              not page.locator('.map-pane[data-pane="farms"]').is_visible())
+        check('the language tabs ride the tab bar in the site’s style',
+              page.evaluate(
+                  "[...document.querySelectorAll('.map-tabbar .ml-tab')]"
+                  ".every(e => e.classList.contains('vbtn'))"))
+
+        page.click('.map-tab[data-tab="farms"]')
+        time.sleep(0.3)
+        check('the farmsteads pane shows on its tab',
+              page.locator('.map-pane[data-pane="farms"]').is_visible())
         heads = page.eval_on_selector_all(
             '.farm-table th', 'els => els.map(e => e.textContent.trim())')
         check('the table is No. / Settler / Holding (no documentary names)',
@@ -116,37 +143,59 @@ def main():
         row92 = page.locator('#farm-92').inner_text()
         check('row 92 shows the school’s English label',
               'Village school' in row92 and 'Szkoła' not in row92,
-              row2[:60])
+              row92[:60])
         conj = page.evaluate(
             "document.querySelectorAll('.farm-conj').length")
         check('conjectural rows carry the asterisk mark (%d)' % conj,
               conj > 10, '%d marked' % conj)
-
-        # the cleanup of 2026-11-06: no prose note under the heading, the
-        # heading plain "Farmsteads", no Hide linked, site-style tabs, the
-        # place index a full-width table below
-        check('the section reads Farmsteads, no prose note under it',
-              page.locator('.map-farms h2').inner_text() == 'Farmsteads'
-              and 'morga of 1819' not in
-              (page.locator('.map-farms h2').inner_text() or ''))
         check('the morgen note stands under the table',
               'morga of 1819' in page.locator(
-                  '.map-farms .map-farms-note').inner_text())
+                  '.map-pane[data-pane="farms"] .map-farms-note')
+              .inner_text())
         check('no hide-linked button', page.locator('#reds-linked').count() == 0)
-        check('the language tabs wear the site’s button style',
-              page.evaluate("(() => { const t = "
-                            "[...document.querySelectorAll('.ml-tab')];"
-                            " return t.length >= 6 && "
-                            "t.every(e => e.classList.contains('vbtn'));"
-                            "})()"))
+
+        # a Locate from the farms pane still flies the map
+        page.locator('#farm-2 a.map-chip[data-farm]').click()
+        time.sleep(1.2)
+        check('a farm Locate still drives the map (the pill lights up)',
+              page.evaluate(
+                  "document.querySelector('.farm-tag[data-farm=\"2\"]')"
+                  ".classList.contains('is-on')"))
+
+        page.click('.map-tab[data-tab="land"]')
+        time.sleep(0.3)
+        land = page.locator('.map-pane[data-pane="land"]').inner_text()
+        check('the land-area table shows Morgen and hectares',
+              '1,643 M 138 r' in land and '920' in land
+              and '1167' in land and '2,085 M 116 r' in land,
+              land.replace('\n', ' | ')[:130])
+        check('the word explication is off the page',
+              'xplication' not in
+              page.locator('.map-sections').inner_text())
+        check('the land table’s note names the conversion',
+              'convert the desiatinas' in land)
+
+        page.click('.map-tab[data-tab="adjoining"]')
+        time.sleep(0.3)
+        adj = page.locator('.map-pane[data-pane="adjoining"]').inner_text()
+        check('the adjoining-lands table renders its places',
+              'Michalinów' in adj and 'Huta' in adj, adj[:80])
+
+        page.click('.map-tab[data-tab="texts"]')
+        time.sleep(0.3)
+        check('the texts pane holds the title block and the certification',
+              page.locator('#text-cartouche').is_visible()
+              and page.locator('#text-certification').is_visible())
+
+        # the place index, back in the sidebar
         n_marks = page.evaluate(
-            "document.querySelectorAll('.mark-table tbody tr').length")
-        check('the place index is a table below (%d rows)' % n_marks,
-              n_marks >= 7, '%d rows' % n_marks)
-        mh = page.eval_on_selector_all(
-            '.mark-table th', 'els => els.map(e => e.textContent.trim())')
-        check('the index reads Place / On the sheet',
-              'Place' in str(mh) and 'On the sheet' in str(mh), str(mh))
+            "document.querySelectorAll('.map-mark-list li').length")
+        check('the place index is in the sidebar (%d rows)' % n_marks,
+              n_marks == 7, '%d rows' % n_marks)
+        check('the index sits above the map’s section in the sidebar',
+              page.evaluate(
+                  "(() => { const m = document.querySelector('.map-marks');"
+                  " return m && m.closest('.map-side') !== null; })()"))
 
         check('EN map page: no page errors', not errs, '; '.join(errs[:2]))
         page.close()
@@ -162,6 +211,13 @@ def main():
             print('DE page: farm-tag never appeared - url:', page.url)
             raise
         time.sleep(2)
+        tabs = page.eval_on_selector_all(
+            '.map-tab', 'els => els.map(e => e.textContent.trim())')
+        check('DE page: the tabs read in German',
+              tabs == ['Texte auf dem Blatt', 'Angrenzende Ländereien',
+                       'Die Flächentabelle', 'Gehöfte'], str(tabs))
+        page.click('.map-tab[data-tab="farms"]')
+        time.sleep(0.3)
         inst = page.locator('.farm-tag[data-farm="92"]').first
         t92 = inst.inner_text() or ''
         check('DE page: the school’s pill speaks German (Dorfschule)',
@@ -174,15 +230,13 @@ def main():
               and 'Dorfschule' in page.locator('#farm-92').inner_text()
               and 'ha)' in page.locator('#farm-2').inner_text(),
               str(heads))
-        check('DE page: the section reads Gehöfte, the index Ort / '
-              'Auf dem Plan',
-              page.locator('.map-farms h2').inner_text() == 'Gehöfte'
-              and 'Ort' in str(page.eval_on_selector_all(
-                  '.mark-table th',
-                  'els => els.map(e => e.textContent.trim())'))
-              and 'Auf dem Plan' in str(page.eval_on_selector_all(
-                  '.mark-table th',
-                  'els => els.map(e => e.textContent.trim())')))
+        page.click('.map-tab[data-tab="land"]')
+        time.sleep(0.3)
+        land = page.locator('.map-pane[data-pane="land"]').inner_text()
+        check('DE page: the land-area table in German, Morgen und ha',
+              '1,643 M 138 r' in land and 'Kulturfähiges Land' in land
+              and '920' in land,
+              land.replace('\n', ' | ')[:120])
         check('DE map page: no page errors', not errs, '; '.join(errs[:2]))
         page.close()
 

@@ -3220,6 +3220,15 @@ Lessons:
   and plumbing separable like this - the judgement about the method (the
   polygons drifted from the parcels) need not burn the work that fed it
   (the drawing tool and its JSON stay in scratch/map4456/ as the record).
+- **A computed string can change type between two YAML readers.**
+  PyYAML writes the string `1,167` unquoted (legal, and PyYAML itself
+  re-reads it as a string); Jekyll's Ruby YAML takes the same plain
+  scalar for the integer 1167 - the comma silently gone by render time.
+  A generated value that one language's YAML may read as a number must
+  not dress as one: plain digits, or a string with a letter in it (the
+  Morgen column's `1,643 M 138 r` was safe for exactly that reason).
+  The general form: when two programs read one generated file, test the
+  round trip through the SECOND reader, not the one that wrote it.
 
 ## The genealogy explorer and the deployment prefix (2026-11-06)
 

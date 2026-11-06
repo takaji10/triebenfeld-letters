@@ -148,8 +148,6 @@ en:
   map_kind: Kind
   map_source_link: The map at the archive
   map_marks_h2: Index
-  map_marks_place: Place
-  map_marks_shows: On the sheet
   map_fit_label: Georeference
   map_today: OSM
   map_locate: Locate
@@ -159,6 +157,8 @@ en:
   map_asdrawn: As drawn
   map_inscription: Inscription
   map_texts_h2: Texts on the sheet
+  map_tab_adjoining: Adjoining lands
+  map_tab_land: The land-area table
   map_text_orig: Russian text
   map_text_tr: English translation
   map_text_margin: On the sheet
@@ -565,8 +565,6 @@ de:
   map_kind: Art
   map_source_link: Die Karte im Archiv
   map_marks_h2: Register
-  map_marks_place: Ort
-  map_marks_shows: Auf dem Plan
   map_fit_label: Georeferenz
   map_today: OSM
   map_locate: Zeigen
@@ -576,6 +574,8 @@ de:
   map_asdrawn: Wie gezeichnet
   map_inscription: Inschrift
   map_texts_h2: Texte auf dem Blatt
+  map_tab_adjoining: Angrenzende Ländereien
+  map_tab_land: Die Flächentabelle
   map_text_orig: Russischer Text
   map_text_tr: Deutsche Übersetzung
   map_text_margin: Auf dem Blatt

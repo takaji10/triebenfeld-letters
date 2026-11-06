@@ -23,6 +23,18 @@ layout: default
 {%- if lang == 'de' %}{% assign ml_default = 'de' %}{% endif -%}
 {%- if orig_lang == 'ru' -%}{%- assign panes = 'en,ru,de' | split: ',' -%}{%- else -%}{%- assign panes = 'en,pl,de' | split: ',' -%}{%- endif -%}
 {%- comment -%}
+  The tabs below the map (2026-11-06): which of them the map's data
+  fills, and the one the page opens on.
+{%- endcomment -%}
+{%- assign n_text_blocks = 0 -%}{%- assign n_adjoining = 0 -%}{%- assign n_land = 0 -%}
+{%- for b in m.texts %}{% if b.boundary %}{% assign n_adjoining = n_adjoining | plus: 1 %}{% elsif b.land_table %}{% assign n_land = n_land | plus: 1 %}{% else %}{% assign n_text_blocks = n_text_blocks | plus: 1 %}{% endif %}{%- endfor %}
+{%- assign map_default_tab = '' -%}
+{%- if n_text_blocks > 0 -%}{% assign map_default_tab = 'texts' -%}
+{%- elsif n_adjoining > 0 -%}{% assign map_default_tab = 'adjoining' -%}
+{%- elsif n_land > 0 -%}{% assign map_default_tab = 'land' -%}
+{%- elsif m.farms -%}{% assign map_default_tab = 'farms' -%}
+{%- endif -%}
+{%- comment -%}
   The legend's, the texts' and the tables' language is the reader's to
   choose, as tabs (English, the sheet's own language, German) and not the
   original and the translation side by side as it was. The choice is one
@@ -30,7 +42,7 @@ layout: default
   so no pane flashes), the buttons in the legend's and the texts' sections
   both set it. Without JS the page's own language stands.
 {%- endcomment -%}
-<script>document.documentElement.setAttribute('data-ml', '{{ ml_default }}');</script>
+<script>document.documentElement.setAttribute('data-ml', '{{ ml_default }}');{%- if map_default_tab != '' %}document.documentElement.setAttribute('data-maptab', '{{ map_default_tab }}');{% endif %}</script>
 
 <div class="prose person-page place-page">
   <p class="eyebrow"><a href="{{ u_maps | relative_url }}">{{ t.maps_eyebrow }}</a></p>
@@ -46,6 +58,31 @@ layout: default
       {%- if m.scale %}<div><dt>{{ t.map_scale }}</dt><dd>{{ m.scale }}</dd></div>{% endif -%}
       {%- if m.holder %}<div><dt>{{ t.map_holder }}</dt><dd>{{ m.holder }}{% if m.reference %}, {% if m.url %}<a href="{{ m.url }}" rel="noopener">{{ m.reference }}</a>{% else %}{{ m.reference }}{% endif %}{% endif %}</dd></div>{% endif -%}
     </dl>
+
+    <section class="map-marks">
+      <h2>{{ t.map_marks_h2 }}</h2>
+      {%- assign m_labels = m.labels | where: "role", "place" | sort_natural: "sort_name" %}
+      <ol class="map-mark-list">
+      {%- for l in m_labels %}
+        <li id="mark-{{ l.id }}" data-label="{{ l.id }}">
+          <span class="map-text">
+            {%- if l.place %}<a class="map-place" href="{{ u_places | append: l.place | append: '/' | relative_url }}">{{ l.place_name }}</a>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}, {% elsif l.name and l.name != l.form %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.name }}</span>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}, <em class="map-form" lang="{{ orig_lang }}"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</em>{% else %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</span>, {% if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif %}{% endif -%}
+            {%- if l.place %}<em class="map-form"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</em>{% endif -%}
+          </span>
+          <span class="map-chips">
+            <a class="map-chip" href="#{{ l.id }}" data-label="{{ l.id }}">{{ t.map_locate }}</a>
+            {%- if l.lat and l.lon %}
+            <a class="map-chip" href="https://www.openstreetmap.org/?mlat={{ l.lat }}&amp;mlon={{ l.lon }}#map=17/{{ l.lat }}/{{ l.lon }}" rel="noopener" title="OpenStreetMap">{{ t.map_today }}</a>
+            {%- endif %}
+          </span>
+          {%- if l.refs.size > 0 %}
+          <span class="map-refs">{{ t.map_refs }}
+            {%- for r in l.refs %} <a href="{{ r.link | relative_url }}">{{ r.quote }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span>
+          {%- endif %}
+        </li>
+      {%- endfor %}
+      </ol>
+    </section>
 
     {%- comment -%}
       The boundary walk (where the map has one): the stamped letters of the
@@ -157,191 +194,83 @@ layout: default
 </div>
 
 {%- comment -%}
-  The farmsteads of the liquidation (maps/<map>/farms.yml): the settlers'
-  table - the farm's number, the settler, the holding - with the plan's
-  marks as a layer of name labels on the map itself (the button above). A
-  row's Locate takes the map to the farm's mark; a mark's click opens the
-  row. The details link is the liquidation holding's own statement, where
-  the farm's land kinds and its neighbours read in full.
+  The map's own texts and tables, as tabs below the map (the editor's
+  plan, 2026-11-06): 1 the texts on the sheet, 2 the adjoining lands,
+  3 the land-area table, 4 the farmsteads. The index of places stays in
+  the sidebar above, as on the other maps' pages. A tab renders only when
+  the map's data fills it; without JS every pane shows.
 {%- endcomment -%}
-{%- if m.farms %}
-<section class="map-farms" id="farmsteads">
-  <h2>{{ t.map_farms_h2 }}</h2>
-  <div class="farm-table-wrap">
-  <table class="farm-table">
-    <thead><tr>
-      <th scope="col" class="num">{{ t.map_farm_no }}</th>
-      <th scope="col">{{ t.map_farm_settler }}</th>
-      <th scope="col">{{ t.map_farm_size }}</th>
-      <th scope="col"><span class="visually-hidden">{{ t.map_farms_h2 }}</span></th>
-    </tr></thead>
-    <tbody>
-    {%- for s in m.farms.rows %}
-    <tr id="farm-{{ s.n }}" data-farm="{{ s.n }}" class="{% unless s.mark %}farm-nomark{% endunless %}">
-      <td class="num">{{ s.n }}</td>
-      <td>{% if s.institution %}{% if lang == 'de' %}{{ s.name_de }}{% else %}{{ s.name }}{% endif %}{% else %}{% if s.name_norm %}{% if s.norm_conf == 'conjectural' %}<span class="farm-conj" title="{{ s.norm_note | escape }}">{{ s.name_norm }}*</span>{% else %}{{ s.name_norm }}{% endif %}{% endif %}{% endif %}</td>
-      <td>{{ s.total }}{% if s.morgen %} <span class="farm-old">{{ s.morgen }}&nbsp;M{% if s.rods %}&nbsp;{{ s.rods }}&nbsp;r{% endif %}, 1868{% if s.ha %} ({{ s.ha }}&nbsp;ha){% endif %}</span>{% endif %}</td>
-      <td class="farm-do">
-        {%- if s.mark %}<a class="map-chip" href="#farm-{{ s.n }}" data-farm="{{ s.n }}">{{ t.map_locate }}</a>{% endif %}
-        <a class="map-chip" href="{{ '/documents/' | relative_url }}{{ m.farms.source.unit }}/{{ m.farms.source.doc }}/" rel="noopener">{{ t.map_farm_details }}</a>
-      </td>
-    </tr>
-    {%- endfor %}
-    </tbody>
-  </table>
-  </div>
-  {%- if m.farms.rows[0].ha %}
-  <p class="map-farms-note">{{ t.map_morgen_note }}</p>
+{%- if map_default_tab != '' %}
+<div class="map-sections">
+  <div class="map-tabbar" role="tablist">
+  {%- if n_text_blocks > 0 %}
+    <button type="button" class="vbtn map-tab" data-tab="texts" aria-pressed="{% if map_default_tab == 'texts' %}true{% else %}false{% endif %}">{{ t.map_texts_h2 }}</button>
   {%- endif %}
-</section>
-{%- endif %}
-
-{%- comment -%}
-  The index of the places (full width below the farmsteads since
-  2026-11-06: a 90-row list in the narrow sidebar did not read; a table
-  does, and the Locate chips still drive the map - the viewer scrolls
-  into view when the reader calls it from down here).
-{%- endcomment -%}
-{%- assign m_labels = m.labels | where: "role", "place" | sort_natural: "sort_name" %}
-{%- if m_labels.size > 0 %}
-<section class="map-marks" id="marks">
-  <h2>{{ t.map_marks_h2 }}</h2>
-  <div class="farm-table-wrap">
-  <table class="mark-table">
-    <thead><tr>
-      <th scope="col">{{ t.map_marks_place }}</th>
-      <th scope="col">{{ t.map_marks_shows }}</th>
-      <th scope="col"><span class="visually-hidden">{{ t.map_marks_h2 }}</span></th>
-    </tr></thead>
-    <tbody>
-    {%- for l in m_labels %}
-    <tr id="mark-{{ l.id }}" data-label="{{ l.id }}">
-      <td class="mark-place">
-        {%- if l.place %}<a class="map-place" href="{{ u_places | append: l.place | append: '/' | relative_url }}">{{ l.place_name }}</a>
-        {%- elsif l.name and l.name != l.form %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.name }}</span>
-        {%- else %}<span class="map-place"{% if l.note %} title="{{ l.note | escape }}"{% endif %}><em class="map-form" lang="{{ orig_lang }}">{{ l.form }}</em></span>
-        {%- endif -%}
-        {%- if l.refs.size > 0 %}
-        <span class="map-refs">{{ t.map_refs }}
-          {%- for r in l.refs %} <a href="{{ r.link | relative_url }}">{{ r.quote }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span>
-        {%- endif %}
-      </td>
-      <td class="mark-shows">
-        {%- if lang == 'de' %}{{ l.shows_de }}{% else %}{{ l.shows_en | downcase }}{% endif -%}
-        {%- if l.place or (l.name and l.name != l.form) %} — <em class="map-form" lang="{{ orig_lang }}"{% if l.note %} title="{{ l.note | escape }}"{% endif %}>{{ l.form }}</em>{% endif -%}
-      </td>
-      <td class="mark-do">
-        <span class="map-chips">
-          <a class="map-chip" href="#{{ l.id }}" data-label="{{ l.id }}">{{ t.map_locate }}</a>
-          {%- if l.lat and l.lon %}
-          <a class="map-chip" href="https://www.openstreetmap.org/?mlat={{ l.lat }}&amp;mlon={{ l.lon }}#map=17/{{ l.lat }}/{{ l.lon }}" rel="noopener" title="OpenStreetMap">{{ t.map_today }}</a>
-          {%- endif %}
-        </span>
-      </td>
-    </tr>
-    {%- endfor %}
-    </tbody>
-  </table>
+  {%- if n_adjoining > 0 %}
+    <button type="button" class="vbtn map-tab" data-tab="adjoining" aria-pressed="{% if map_default_tab == 'adjoining' %}true{% else %}false{% endif %}">{{ t.map_tab_adjoining }}</button>
+  {%- endif %}
+  {%- if n_land > 0 %}
+    <button type="button" class="vbtn map-tab" data-tab="land" aria-pressed="{% if map_default_tab == 'land' %}true{% else %}false{% endif %}">{{ t.map_tab_land }}</button>
+  {%- endif %}
+  {%- if m.farms %}
+    <button type="button" class="vbtn map-tab" data-tab="farms" aria-pressed="{% if map_default_tab == 'farms' %}true{% else %}false{% endif %}">{{ t.map_farms_h2 }}</button>
+  {%- endif %}
+    <span class="map-tabbar-ml">
+      <button type="button" class="vbtn ml-tab" data-ml="en" aria-pressed="{% if ml_default == 'en' %}true{% else %}false{% endif %}">{{ t.map_lang_en }}</button>
+      <button type="button" class="vbtn ml-tab" data-ml="{{ orig_lang }}" aria-pressed="{% if ml_default == orig_lang %}true{% else %}false{% endif %}">{% if orig_lang == 'ru' %}{{ t.map_tab_ru }}{% else %}{{ t.map_tab_pl }}{% endif %}</button>
+      <button type="button" class="vbtn ml-tab" data-ml="de" aria-pressed="{% if ml_default == 'de' %}true{% else %}false{% endif %}">{{ t.map_lang_de }}</button>
+    </span>
   </div>
-</section>
-{%- endif %}
 
-{%- comment -%}
-  The texts on the sheet, where the map has them carried (maps/<map>/texts.yml):
-  the title block, the certification texts, the explication. The Russian is
-  the transcription, kept as transcribed, with the page's translation under it
-  - the English page reads the English, the German the German (both
-  translations travel in the data). The explication is the table it is, with
-  the original's column heads kept beside the page's.
-{%- endcomment -%}
-{%- if m.texts %}
-<section class="map-texts">
-  <h2>{{ t.map_texts_h2 }}</h2>
-  <div class="ml-tabs" role="tablist" aria-label="{{ t.map_langs }}">
-    <button type="button" class="vbtn ml-tab" data-ml="en" aria-pressed="{% if ml_default == 'en' %}true{% else %}false{% endif %}">{{ t.map_lang_en }}</button>
-    <button type="button" class="vbtn ml-tab" data-ml="{{ orig_lang }}" aria-pressed="{% if ml_default == orig_lang %}true{% else %}false{% endif %}">{% if orig_lang == 'ru' %}{{ t.map_tab_ru }}{% else %}{{ t.map_tab_pl }}{% endif %}</button>
-    <button type="button" class="vbtn ml-tab" data-ml="de" aria-pressed="{% if ml_default == 'de' %}true{% else %}false{% endif %}">{{ t.map_lang_de }}</button>
+  {%- if n_text_blocks > 0 %}
+  <div class="map-pane" data-pane="texts">
+  {%- for b in m.texts %}{% unless b.boundary or b.land_table %}{% include map-text-block.html b=b %}{%- endunless %}{%- endfor %}
   </div>
-  {%- for b in m.texts %}
-  <div class="map-text-block" id="text-{{ b.id }}">
-    <h3>{{ b.names[lang] | default: b.names.en }}</h3>
-    {%- if b.margin %}
-    <p class="map-text-margin"><span class="map-text-label">{{ t.map_text_margin }}:</span> {{ b.margin[lang] | default: b.margin.en }}</p>
-    {%- endif %}
-    {%- for g in b.groups %}
-      <div class="map-text-lines ml ml-{{ orig_lang }}" lang="{{ orig_lang }}">
-        {%- for line in g.lines %}<p>{{ line }}</p>{% endfor -%}
-      </div>
-      <div class="map-text-lines ml ml-en" lang="en">
-        {%- assign trl = g.translation.en %}{% for line in trl %}<p>{{ line }}</p>{% endfor -%}
-      </div>
-      <div class="map-text-lines ml ml-de" lang="de">
-        {%- assign trl = g.translation.de | default: g.translation.en %}{% for line in trl %}<p>{{ line }}</p>{% endfor -%}
-      </div>
-    {%- endfor %}
-    {%- if b.heading_ru %}
-    <p class="map-text-heading ml ml-{{ orig_lang }}" lang="{{ orig_lang }}">{{ b.heading_ru }}</p>
-    {%- for pane in panes %}
-    {%- assign hp = b.head[pane] | default: b.head.en %}
-    {%- if b.boundary %}
-    <table class="map-text-table map-text-boundary ml ml-{{ pane }}"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>
+  {%- endif %}
+
+  {%- if n_adjoining > 0 %}
+  <div class="map-pane" data-pane="adjoining">
+  {%- for b in m.texts %}{% if b.boundary %}{% include map-text-block.html b=b %}{%- endif %}{%- endfor %}
+  </div>
+  {%- endif %}
+
+  {%- if n_land > 0 %}
+  <div class="map-pane" data-pane="land">
+  {%- for b in m.texts %}{% if b.land_table %}{% include map-text-block.html b=b %}{%- endif %}{%- endfor %}
+  </div>
+  {%- endif %}
+
+  {%- if m.farms %}
+  <div class="map-pane" data-pane="farms" id="farmsteads">
+    <div class="farm-table-wrap">
+    <table class="farm-table">
       <thead><tr>
-        {%- for h in hp %}<th scope="col">{{ h }}</th>{% endfor %}
+        <th scope="col" class="num">{{ t.map_farm_no }}</th>
+        <th scope="col">{{ t.map_farm_settler }}</th>
+        <th scope="col">{{ t.map_farm_size }}</th>
+        <th scope="col"><span class="visually-hidden">{{ t.map_farms_h2 }}</span></th>
       </tr></thead>
       <tbody>
-      {%- for row in b.rows %}
-        {%- if row.section %}
-        {%- if pane == orig_lang %}{% assign st = row.section.ru | default: row.section[pane] %}{% else %}{% assign st = row.section[pane] %}{% endif %}
-        <tr class="text-section"><th scope="colgroup" colspan="5">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ st }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
-        {%- elsif row.group %}
-        {%- if pane == orig_lang %}{% assign gt = row.group.ru | default: row.group[pane] %}{% else %}{% assign gt = row.group[pane] %}{% endif %}
-        <tr class="text-group"><th scope="colgroup" colspan="5">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ gt }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
-        {%- else %}
-        <tr>
-          <td class="num">{{ row.n }}</td>
-          <td><span lang="{{ orig_lang }}">{{ row.from }}</span></td>
-          <td><span lang="{{ orig_lang }}">{{ row.to }}</span></td>
-          <td>{% if pane == orig_lang %}{{ row.ru }}{% else %}{{ row[pane] | default: row.en }}{% endif %}</td>
-          <td class="map-text-place">{{ row.place }}</td>
-        </tr>
-        {%- endif %}
+      {%- for s in m.farms.rows %}
+      <tr id="farm-{{ s.n }}" data-farm="{{ s.n }}" class="{% unless s.mark %}farm-nomark{% endunless %}">
+        <td class="num">{{ s.n }}</td>
+        <td>{% if s.institution %}{% if lang == 'de' %}{{ s.name_de }}{% else %}{{ s.name }}{% endif %}{% else %}{% if s.name_norm %}{% if s.norm_conf == 'conjectural' %}<span class="farm-conj" title="{{ s.norm_note | escape }}">{{ s.name_norm }}*</span>{% else %}{{ s.name_norm }}{% endif %}{% endif %}{% endif %}</td>
+        <td>{{ s.total }}{% if s.morgen %} <span class="farm-old">{{ s.morgen }}&nbsp;M{% if s.rods %}&nbsp;{{ s.rods }}&nbsp;r{% endif %}, 1868{% if s.ha %} ({{ s.ha }}&nbsp;ha){% endif %}</span>{% endif %}</td>
+        <td class="farm-do">
+          {%- if s.mark %}<a class="map-chip" href="#farm-{{ s.n }}" data-farm="{{ s.n }}">{{ t.map_locate }}</a>{% endif %}
+          <a class="map-chip" href="{{ '/documents/' | relative_url }}{{ m.farms.source.unit }}/{{ m.farms.source.doc }}/" rel="noopener">{{ t.map_farm_details }}</a>
+        </td>
+      </tr>
       {%- endfor %}
       </tbody>
     </table>
-    {%- else %}
-    <table class="map-text-table ml ml-{{ pane }}">
-      <thead><tr>
-        {%- for h in hp %}<th scope="col">{% if pane == orig_lang and forloop.first %}<span lang="{{ orig_lang }}">{{ h }}</span>{% else %}{{ h }}{% endif %}</th>{% endfor %}
-      </tr></thead>
-      <tbody>
-      {%- for row in b.rows %}
-        {%- if row.group %}
-        {%- if pane == orig_lang %}{% assign gt = row.group.ru | default: row.group[pane] %}{% else %}{% assign gt = row.group[pane] %}{% endif %}
-        <tr class="text-group"><th scope="colgroup" colspan="3">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ gt }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
-        {%- else %}
-        {%- assign name = row.sum | default: row.total | default: row %}
-        {%- if pane == orig_lang %}{% assign ntx = name.ru | default: name[pane] %}{% else %}{% assign ntx = name[pane] %}{% endif %}
-        {%- assign cls = '' %}
-        {%- if row.sum %}{% assign cls = 'text-sum' %}{% endif -%}
-        {%- if row.total %}{% assign cls = 'text-total' %}{% endif -%}
-        <tr{% if cls %} class="{{ cls }}"{% endif %}>
-          <td>{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ ntx }}{% if pane == orig_lang %}</span>{% endif %}</td>
-          <td class="num">{{ name.des }}</td>
-          <td class="num">{{ name.saz }}</td>
-        </tr>
-        {%- endif %}
-      {%- endfor %}
-      </tbody>
-    </table>
-    {%- endif %}
-    {%- endfor %}
-    {%- endif %}
-    {%- if b.note %}
-    <p class="map-text-note">{{ b.note[lang] | default: b.note.en }}</p>
+    </div>
+    {%- if m.farms.rows[0].ha %}
+    <p class="map-farms-note">{{ t.map_morgen_note }}</p>
     {%- endif %}
   </div>
-  {%- endfor %}
-</section>
+  {%- endif %}
+</div>
 {%- endif %}
 
 <script id="map-data" type="application/json">{{ m | jsonify }}</script>
@@ -350,6 +279,25 @@ layout: default
 <script>
 /* The tabs of the legend, the texts and the tables: one choice for the
    whole page, the buttons in both sections setting it together. */
+(function () {
+  'use strict';
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('.map-tab'));
+  if (tabs.length) {
+    window.__mapTab = function (name) {
+      if (!document.querySelector('.map-tab[data-tab="' + name + '"]')) return;
+      document.documentElement.setAttribute('data-maptab', name);
+      tabs.forEach(function (x) {
+        x.setAttribute('aria-pressed',
+          String(x.getAttribute('data-tab') === name));
+      });
+    };
+    tabs.forEach(function (b) {
+      b.addEventListener('click', function () {
+        window.__mapTab(b.getAttribute('data-tab'));
+      });
+    });
+  }
+})();
 (function () {
   'use strict';
   var tabs = Array.prototype.slice.call(document.querySelectorAll('.ml-tab'));
@@ -377,14 +325,12 @@ layout: default
 .map-rotbtn[hidden] { display: none; }
 .map-overlay-link { margin-left: auto; font-family: var(--sans); font-size: .85rem; }
 .map-status { font-family: var(--sans); font-size: .85rem; color: #b33; }
-.map-marks { margin: 2.4rem 0 0; max-width: 60rem; }
-.map-marks h2 { margin: 0 0 .6rem; font-size: 1.1rem; }
-.mark-table { border-collapse: collapse; font-size: .9rem; width: 100%; }
-.mark-table th, .mark-table td { padding: .3rem .5rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); }
-.mark-table tr.is-on { background: rgba(180, 60, 50, .08); }
-.mark-table .mark-shows { color: var(--ink-soft); }
-.mark-table .mark-do { white-space: nowrap; }
-.mark-table thead th { font-family: var(--sans); font-size: .75rem; font-weight: 400; text-transform: uppercase; letter-spacing: .04em; color: var(--thead-ink); }
+.map-marks { margin: 1.6rem 0 1.6rem; }
+.map-marks h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
+.map-mark-list { margin: .8rem 0 0; padding: 0 0 0 1.7rem; font-size: .92rem; }
+.map-mark-list li { display: list-item; padding: .3rem 0 .3rem .2rem; }
+.map-mark-list li::marker { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
+.map-mark-list li.is-on { background: rgba(180, 60, 50, .08); }
 /* the boundary walk: the stamped letters as chips, the stretches as rows */
 .map-boundary { margin: 1.6rem 0 1.6rem; }
 .map-boundary h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
@@ -435,10 +381,9 @@ layout: default
 .map-boundary-canvas { position: absolute; inset: 0; pointer-events: none; z-index: 5; }
 .map-tip { position: fixed; transform: translateX(-50%); background: rgba(40, 36, 30, .92); color: #fff; font-family: var(--sans); font-size: .78rem; line-height: 1.25; padding: .25rem .55rem; border-radius: 3px; white-space: nowrap; pointer-events: none; z-index: 60; box-shadow: 0 1px 4px rgba(0, 0, 0, .35); }
 /* the texts on the sheet (the title block, the certification texts, the
-   explication): the Russian transcription and the page's translation side by
-   side, the translation under it on a narrow screen */
-.map-texts { margin: 2.4rem 0 0; max-width: 60rem; }
-.map-texts h2 { margin: 0 0 .6rem; font-size: 1.1rem; }
+   adjoining lands, the land-area table): the Russian transcription and the
+   page's translation side by side, the translation under it on a narrow
+   screen */
 .map-text-block { margin: 0 0 2rem; }
 .map-text-block h3 { margin: 0 0 .5rem; font-size: 1rem; }
 .map-text-margin { font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); margin: 0 0 .5rem; }
@@ -474,11 +419,22 @@ html[data-ml="de"] .ml-en, html[data-ml="de"] .ml-ru,
 html[data-ml="de"] .ml-pl { display: none; }
 .map-text-lines { max-width: 34rem; }
 .map-text-lines p { margin: 0 0 .45rem; }
+/* the map's own texts and tables as tabs (the editor's plan, 2026-11-06):
+   one pane at a time, the choice on html[data-maptab] set before anything
+   renders - and without JS the attribute is unset, so every pane shows */
+.map-sections { margin: 2.4rem 0 0; }
+.map-tabbar { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin: 0 0 1rem; }
+.map-tab[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.map-tabbar-ml { margin-left: auto; display: flex; gap: .5rem; }
+html[data-maptab] .map-pane { display: none; }
+html[data-maptab="texts"] .map-pane[data-pane="texts"],
+html[data-maptab="adjoining"] .map-pane[data-pane="adjoining"],
+html[data-maptab="land"] .map-pane[data-pane="land"],
+html[data-maptab="farms"] .map-pane[data-pane="farms"] { display: block; }
+.map-pane { max-width: 60rem; }
 /* the farmsteads: the settlers' table, and the layer of name labels on
    the map itself (the button in the tools bar) */
-.map-farms { margin: 2.4rem 0 0; max-width: 60rem; }
-.map-farms h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
-.map-farms-note { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); margin: 0 0 .6rem; }
+.map-farms-note { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); margin: .6rem 0 0; }
 .farm-table-wrap { max-width: 100%; overflow-x: auto; }
 .farm-table { border-collapse: collapse; font-size: .9rem; width: 100%; font-variant-numeric: tabular-nums; }
 .farm-table th, .farm-table td { padding: .28rem .5rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); }

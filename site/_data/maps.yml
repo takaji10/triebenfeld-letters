@@ -1766,9 +1766,10 @@ pelzucki1896:
       de: Ländereien der Bauern des Dorfes Huta
       place: Huta (Хута)
   - id: explication
+    land_table: true
     names:
-      en: The explication (the land-area table)
-      de: Die Explication (das Flächenverzeichnis)
+      en: The land-area table
+      de: Die Flächentabelle
     heading_ru: Экспликація
     head:
       ru:
@@ -1779,10 +1780,14 @@ pelzucki1896:
       - Category
       - Des.
       - Saz.
+      - Morgen
+      - ha
       de:
       - Kategorie
       - Des.
       - Saz.
+      - Morgen
+      - ha
     rows:
     - group:
         ru: Основнаго надѣла
@@ -1793,17 +1798,23 @@ pelzucki1896:
       de: Kulturfähiges Land
       des: '842'
       saz: '219'
+      ha: '920'
+      morgen: 1,643 M 138 r
     - ru: Неудобной
       en: Unusable land
       de: Unfähiges Land
       des: '28'
       saz: '1235'
+      ha: '31'
+      morgen: 55 M 195 r
     - sum:
         ru: Итого
         en: Subtotal
         de: Zusammen
         des: '870'
         saz: '1454'
+        ha: '951'
+        morgen: 1,699 M 33 r
     - group:
         ru: Дополнительнаго надѣла
         en: Of the additional allotment
@@ -1813,28 +1824,37 @@ pelzucki1896:
       de: Kulturfähiges Land
       des: '192'
       saz: '1883'
+      ha: '211'
+      morgen: 376 M 74 r
     - ru: Неудобной
       en: Unusable land
       de: Unfähiges Land
       des: '5'
       saz: '335'
+      ha: '6'
+      morgen: 10 M 9 r
     - sum:
         ru: Итого
         en: Subtotal
         de: Zusammen
         des: '197'
         saz: '2218'
+        ha: '216'
+        morgen: 386 M 83 r
     - total:
         ru: Всего
         en: Total
         de: Insgesamt
         des: '1068'
         saz: '1272'
+        ha: '1167'
+        morgen: 2,085 M 116 r
     note:
       en: 'Дес. (десятинъ) is desyatinas, Саж. (квадратныхъ саженъ) square sazhens: one desyatina is 2400
-        square sazhens, about 1.09 hectares, and one square sazhen about 4.55 m².'
+        square sazhens, about 1.09 ha. The Morgen and hectares convert the desiatinas at that figure.'
       de: 'Дес. (десятинъ) heißt Desjatinen, Саж. (квадратныхъ саженъ) Quadratsaschen: eine Desjatina
-        zählt 2400 Quadratsaschen, rund 1,09 Hektar, eine Quadratsasche rund 4,55 m².'
+        zählt 2400 Quadratsaschen, rund 1,09 ha. Morgen und Hektar rechnen die Desjatinen mit diesem Satz
+        um.'
   farms:
     source:
       unit: apl399806603

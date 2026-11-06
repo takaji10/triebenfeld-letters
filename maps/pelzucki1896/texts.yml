@@ -155,14 +155,15 @@ blocks:
       - {n: "19", from: Т, to: У, ru: Земли крестьянъ селенія Михалиново, en: Lands of the peasants of the village of Michalinów, de: Ländereien der Bauern des Dorfes Michalinów, place: Michalinów (Михалиново)}
       - {n: "20", from: У, to: Т, ru: Земли крестьянъ селенія Хута, en: Lands of the peasants of the village of Huta, de: Ländereien der Bauern des Dorfes Huta, place: Huta (Хута)}
   - id: explication
+    land_table: true
     names:
-      en: The explication (the land-area table)
-      de: Die Explication (das Flächenverzeichnis)
+      en: The land-area table
+      de: Die Flächentabelle
     heading_ru: Экспликація
     head:
       ru: [Категорія, Дес., Саж.]
-      en: [Category, Des., Saz.]
-      de: [Kategorie, Des., Saz.]
+      en: [Category, Des., Saz., Morgen, ha]
+      de: [Kategorie, Des., Saz., Morgen, ha]
     rows:
       - group: {ru: Основнаго надѣла, en: Of the basic allotment, de: Vom Hauptanteil}
       - {ru: Удобной земли, en: Arable (usable) land, de: Kulturfähiges Land, des: "842", saz: "219"}
@@ -176,9 +177,10 @@ blocks:
     note:
       en: >-
         Дес. (десятинъ) is desyatinas, Саж. (квадратныхъ саженъ) square
-        sazhens: one desyatina is 2400 square sazhens, about 1.09 hectares,
-        and one square sazhen about 4.55 m².
+        sazhens: one desyatina is 2400 square sazhens, about 1.09 ha. The
+        Morgen and hectares convert the desiatinas at that figure.
       de: >-
         Дес. (десятинъ) heißt Desjatinen, Саж. (квадратныхъ саженъ)
-        Quadratsaschen: eine Desjatina zählt 2400 Quadratsaschen, rund 1,09
-        Hektar, eine Quadratsasche rund 4,55 m².
+        Quadratsaschen: eine Desjatina zählt 2400 Quadratsaschen, rund
+        1,09 ha. Morgen und Hektar rechnen die Desjatinen mit diesem Satz
+        um.

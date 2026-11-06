@@ -4722,6 +4722,50 @@ footer on every page. Changed, in both languages:
   A short note under the table says the same in plain language, in the
   reader's language (map_morgen_note in i18n.yml): what the hectares are
   converted at, and that the survey's own figures are the desyatinas.
+- The page restructured to the editor's tab plan (2026-11-06): the index
+  of places back in the sidebar, close to the top as on the other maps'
+  pages, and everything below the map under four tabs - Texts on the
+  sheet (the title block and the certification), Adjoining lands (the
+  boundary table), The land-area table, Farmsteads - one pane at a time
+  on html[data-maptab] set before anything renders, every pane showing
+  without JS, the language tabs riding the same bar in the site's button
+  style. The land-area table loses the word explication (the editor: it
+  confuses) - the tab and the heading read "The land-area table" - and
+  gains Morgen and hectares beside the desiatinas: computed per row in
+  map_pages.py at one desyatina = 2400 square sazhens of 4.5522 m2
+  (about 1.09 ha) and the mórg nowopolski of the farmsteads' table
+  (0.5598 ha), the original-language pane keeping the table as written.
+  The figures corroborate the conversion independently: the basic
+  allotment's 870 des 1454 saz read back as 1,699 M 33 r against the
+  1868 statement's own 1,691 M 219 r - the same land within half a
+  percent - while the total of 2,085 M 116 r (1,167 ha) carries the
+  survey's ~23% growth in the additional allotment. The block's shared
+  rendering moved to an include (site/_includes/map-text-block.html);
+  a farm Locate from the farmsteads pane still flies the map, and a
+  farm focus brings its tab forward first. jekyll and verify_site ALL
+  CHECKS PASSED (61,294 links), the real-browser checks re-run (41/41).
+- The page restructured to the editor's tab plan (2026-11-06): the index
+  of places back in the sidebar, close to the top as on the other maps'
+  pages, and everything below the map under four tabs - Texts on the
+  sheet (the title block and the certification), Adjoining lands (the
+  boundary table), The land-area table, Farmsteads - one pane at a time
+  on html[data-maptab] set before anything renders, every pane showing
+  without JS, the language tabs riding the same bar in the site's button
+  style. The land-area table loses the word explication (the editor: it
+  confuses) - the tab and the heading read "The land-area table" - and
+  gains Morgen and hectares beside the desiatinas: computed per row in
+  map_pages.py at one desyatina = 2400 square sazhens of 4.5522 m2
+  (about 1.09 ha) and the mórg nowopolski of the farmsteads' table
+  (0.5598 ha), the original-language pane keeping the table as written.
+  The figures corroborate the conversion independently: the basic
+  allotment's 870 des 1454 saz read back as 1,699 M 33 r against the
+  1868 statement's own 1,691 M 219 r - the same land within half a
+  percent - while the total of 2,085 M 116 r (1,167 ha) carries the
+  survey's ~23% growth in the additional allotment. The block's shared
+  rendering moved to an include (site/_includes/map-text-block.html);
+  a farm Locate from the farmsteads pane still flies the map, and a
+  farm focus brings its tab forward first. jekyll and verify_site ALL
+  CHECKS PASSED (61,294 links), the real-browser checks re-run (41/41).
 - The map page cleaned up at the editor's word (2026-11-06), to read like
   the other source pages: the prose note under the Farmsteads heading is
   gone (the hectares note stays); "The farmsteads" reads Farmsteads
