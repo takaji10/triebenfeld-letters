@@ -462,7 +462,7 @@
   .viewport { position: relative; overflow: hidden; border: 1px solid var(--rule);
     border-radius: 3px; background: var(--paper2); touch-action: none;
     cursor: grab; user-select: none; max-height: 78vh; }
-  .viewport.embed { max-height: 26rem; }
+  .viewport.embed { max-height: 34rem; }
   .viewport:active { cursor: grabbing; }
   svg { display: block; }
   text { font-family: var(--sans); pointer-events: none; }

@@ -5243,6 +5243,36 @@ footer on every page. Changed, in both languages:
   down only - his ancestors stop with him; I0003/I0007/I3131: up).
 - jekyll and verify_site ALL CHECKS PASSED with the project baseurl
   and with none (63,294 internal links each).
+
+## 2026-11-06: the avatars corrected to photos only; the person page
+## and the tree fixed
+
+- **The avatars were mostly crops of handwriting** (the editor caught
+  it: "you appear to have just taken whatever image is in a person's
+  folder" - I1706's avatar was a slice of his population register): the
+  region boxes on record scans mark where the person's *name sits on
+  the form*, not their face, so 1,037 of the 1,077 avatar crops were
+  meaningless slivers of documents. The media build now crops an avatar
+  only from photo/portrait-named media - a drawn region crops the face
+  (40 people), a photo without one centre-crops square on the whole
+  picture (12 more, e.g. I0076's obituary photo); everyone else wears
+  the silhouette, as it should be. 51 avatars in the rebuilt index;
+  repo B republished.
+- **The indentation that wasn't**: `ul.people { margin: 0 }` stood
+  after `ul.kids { margin-left: 2.4rem }` in the style block and, at
+  equal specificity with Svelte's scoping preserved, zeroed the
+  sub-groups' indent - the siblings under parents and children under
+  spouses had rendered flush. The relation rules now carry two classes
+  each (ul.people.kids) so they win on specificity, not order.
+- The embedded family tree on the person page grew taller
+  (max-height 26rem to 34rem).
+- **The alternative names are their own line under the header** - the
+  GEDCOM's second NAME records ("birth: Gottlieb Celmer" on I1706)
+  had worn pills that read as nonsense; the pill is gone, the line
+  quiet beneath the name/ID (altname in Person.svelte), the type word
+  kept where the record gives one.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes.
 - **The tree's clicks were swallowed by the pan's pointer capture** (the
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what

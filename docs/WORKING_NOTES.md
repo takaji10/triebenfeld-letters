@@ -3385,3 +3385,17 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   re-roots in place). The general shape: a view window plus frontier
   queries (hasMoreUp/hasMoreDown decide whether the arrows show at
   all), never a full-graph layout.
+- **A region box means what the drawer used it for.** The Gramps focus
+  rectangles on record scans mark where the person's name sits on the
+  form (a finding aid for the reader), not where their face is - only
+  on photographs do they mark the face. Cropping "whatever has a
+  region" turned 1,037 avatars into slivers of handwriting before the
+  editor caught I1706. Before reusing any annotation as geometry, ask
+  what kind of media it was drawn on: the same gesture means different
+  things on a photograph and on a register.
+- **Equal-specificity rules fight by source order, and the loser is
+  whichever came first.** `ul.people { margin: 0 }` after
+  `ul.kids { margin-left: 2.4rem }` silently zeroed the indent. When a
+  variant must override a base rule in Svelte-scoped CSS, give it more
+  specificity (two classes), not a later position.
+

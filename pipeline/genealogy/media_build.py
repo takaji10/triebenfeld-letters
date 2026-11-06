@@ -60,10 +60,10 @@ def _jpeg_bytes(img: Image.Image) -> bytes:
 
 
 def _avatar_bytes(img: Image.Image, region=None) -> bytes:
-    """A face avatar: the region box cropped square around the head and
-    scaled to 96 px. The region is the focus rectangle the editor drew
-    on the media reference (percent coordinates); without one the image
-    is not used as an avatar at all - a whole-scan face is nobody's."""
+    """A face avatar, 96 px. With a region (the editor's focus rectangle,
+    percent coordinates) the crop squares on the box's centre - the
+    face; without one the whole photo centre-crops square (a photo is a
+    portrait by name)."""
     w, h = img.size
     if region:
         x1, y1, x2, y2 = region
@@ -78,6 +78,11 @@ def _avatar_bytes(img: Image.Image, region=None) -> bytes:
         top = max(0, min(h - side, cy * h - side / 2))
         img = img.crop((int(left), int(top),
                         int(left + side), int(top + side)))
+    else:
+        side = min(w, h)
+        left = (w - side) // 2
+        top = (h - side) // 2
+        img = img.crop((left, top, left + side, top + side))
     img = ImageOps.exif_transpose(img)
     if img.mode not in ("RGB", "L"):
         img = img.convert("RGB")
@@ -141,11 +146,13 @@ def main() -> int:
     print(f"      {len(ex.removed_media)} excluded, "
           f"{len(withheld)} withheld -> {len(model.media)} to build")
 
-    # the avatar crops: person -> (media path, region rect) for the
-    # photo/portrait-named media the person owns or is cited in, keyed
-    # by the focus rectangle the editor drew on that reference. The
-    # region ids come from data.gramps bare (I0001), the GEDCOM xrefs
-    # wrapped (@I0001@) - joined through the strip.
+    # the avatar crops: person -> (media path, region rect). Only a
+    # photo-named picture serves - a birth register's region box marks
+    # where the name sits on the form, not a face, and cropping it
+    # produced 1,037 avatars of handwriting (the editor caught it,
+    # 2026-11-06: "you appear to have just taken whatever image is in a
+    # person's folder"). A photo with a drawn region crops the face; a
+    # photo without one centre-crops square on the whole picture.
     avatar_jobs = {}
     title_re = re.compile(r"photo|portrait|porträt", re.I)
     for x, p in model.people.items():
@@ -162,17 +169,20 @@ def main() -> int:
                     if m.path and m.path not in skip:
                         cands.append(m)
         for m in cands:
+            if not (title_re.search(m.path) or
+                    (m.title and title_re.search(m.title))):
+                continue   # a record scan is never a portrait
             region = None
             entries = info["regions"].get(m.path, [])
             for entry in entries:
                 if bare in entry["persons"]:
                     region = entry["region"]
                     break
-            if not region:
-                continue
             avatar_jobs[x] = (m.path, region)
             break
-    print(f"      {len(avatar_jobs)} avatars to crop (region-boxed faces)")
+    print(f"      {len(avatar_jobs)} avatars from photo-named media "
+          f"(with a region: "
+          f"{sum(1 for _, r in avatar_jobs.values() if r)})")
 
     # what to build: path -> primary Media (title, form, oid)
     wanted = {}

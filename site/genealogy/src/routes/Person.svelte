@@ -156,10 +156,14 @@
             <span class="sxline">{shard.sex === 'F' ? '♀' : shard.sex === 'M' ? '♂' : ''}</span>
             {#if db.index?.[id]}<span class="headlife">{life(db.index[id])}</span>{/if}
             {#if shard.living}<span class="pill warn">{i18n.t('privacy_note')}</span>{/if}
-            {#each shard.names as alt}
-              {#if alt.type}<span class="pill dim">{alt.type}: {alt.given} {alt.surname}</span>{/if}
-            {/each}
           </div>
+          {#each shard.names as alt}
+            {#if alt.type}
+              <div class="altname">{alt.type}: {alt.given} {alt.surname}</div>
+            {:else}
+              <div class="altname">{alt.given} {alt.surname}</div>
+            {/if}
+          {/each}
         </div>
       </div>
     </header>
@@ -386,6 +390,10 @@
   .idn { font-family: ui-monospace, Consolas, monospace; font-size: .82rem;
     color: var(--faint); font-weight: 400; margin-left: .35rem; }
   .sxline { color: var(--soft); font-size: 1rem; }
+  /* the alternative names - the GEDCOM's second NAME records ("birth:
+     Gottlieb Celmer") - as their own quiet line under the header, not
+     pills (the editor: the pill read as confusing) */
+  .altname { color: var(--soft); font-size: .84rem; margin-top: .15rem; }
   .pills { display: flex; flex-wrap: wrap; gap: .35rem; align-items: center; }
   section { margin-top: 1.6rem; }
   .mav { width: 34px; height: 34px; border-radius: 50%; object-fit: cover;
@@ -395,24 +403,26 @@
   .who .l1 { display: flex; gap: .4rem; align-items: baseline; }
   .who .l2 { display: flex; flex-wrap: wrap; gap: .3rem 1rem;
     font-size: .78rem; color: var(--faint); }
-  ul.parents { margin-bottom: 0; }
-  /* the sub-groups hang indented from the parents - no vertical bar */
-  ul.kids { margin: .3rem 0 .2rem 2.4rem; padding: 0; }
-  ul.kids li { padding: .25rem 0; }
-  /* the parents' marriage/divorce lines: bullet, spaced from the
-     parents above and the siblings below */
-  ul.pcouple { list-style: none; margin: .55rem 0 .55rem 2.4rem;
-    padding: 0; color: var(--soft); font-size: .82rem; }
-  ul.pcouple li { margin: .15rem 0; }
   .spouserow { display: flex; gap: .6rem; align-items: center;
-    padding: .15rem 0; }
-  .spouserow .who { display: inline-flex; }
+    padding: .15rem 0; flex-wrap: wrap; }
   .spouserow .marr { flex-basis: 100%; margin-left: 2.9rem; }
   h2 { font-size: .95rem; margin: 0 0 .5rem; color: var(--soft);
     text-transform: uppercase; letter-spacing: .05em; font-family: var(--sans);
     font-weight: 600; font-size: .74rem; }
   ul.people { list-style: none; margin: 0; padding: 0; }
   ul.people li { padding: .3rem 0; display: flex; gap: .6rem; align-items: center; }
+  /* the relation rules below must beat ul.people - they carry two
+     classes each, because source order alone lost to it once (the
+     indentation the editor reported missing) */
+  ul.people.parents { margin-bottom: 0; }
+  /* the sub-groups hang indented from the parents - no vertical bar */
+  ul.people.kids { margin: .3rem 0 .2rem 2.4rem; }
+  ul.people.kids li { padding: .25rem 0; }
+  /* the parents' marriage/divorce lines: bullet, spaced from the
+     parents above and the siblings below */
+  ul.pcouple { list-style: none; margin: .55rem 0 .55rem 2.4rem;
+    padding: 0; color: var(--soft); font-size: .82rem; }
+  ul.pcouple li { margin: .15rem 0; }
   .pid { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
     color: var(--faint); white-space: nowrap; }
   .yrs { color: var(--faint); font-size: .8rem; }
