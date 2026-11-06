@@ -145,6 +145,11 @@ def main():
         if notes:
             parts.append('\n'.join(notes))
     # ---- ANEKS I tables (printed pp. 123-144) ---------------------------
+    # rendered as the print-faithful raw row text (the editor-reviewed
+    # format); the per-column parse (annex_cells.json + RULES_SHEET.html)
+    # is available for a future cell-table rendering on the editor's
+    # word - the dash-cells OCR as junk ('Sz=—=—') that would take
+    # hundreds of spot answers to certify
     parts.append('[p. 123]\n\nANEKS I\n')
     at = json.load(open(os.path.join(OCR, 'annex_table.json'),
                         encoding='utf-8'))

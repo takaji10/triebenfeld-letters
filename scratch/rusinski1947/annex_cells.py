@@ -147,7 +147,9 @@ def main():
         resid, rules = got
         if resid > 0.008:
             residuals.append((n, 'resid %.4f runs %s' % (resid, runs)))
-        bounds = [rules[0] - 60] + rules + [rules[-1] + 120]
+        # 12 rules delimit 11 content columns; the first rule IS the
+        # L.p. column's left edge (no left-margin column)
+        bounds = rules + [rules[-1] + 120]
         sheet = {}
         for num in nums:
             y0, y1 = rows[str(num)]['y']

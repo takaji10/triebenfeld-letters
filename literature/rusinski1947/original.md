@@ -1926,7 +1926,7 @@ ANEKS I
 <!-- annex sheet 0139, tier mix -->
 
 
-1. Nazwa osady okresie Ówczesna Rok w Nazwa terenu przed źródł, lokacji mów WB| mow | osad L. b założ, o Tp.89 loblicz. rozbiorów . Polski , parafia dzisiejsza .. . założ. , na nim . W8 , osady data lub 90 Iszacun-| osady sygn. źródła 7 (z*) | kowo | Tol. Drzyw,  
+1. I | Albertowskie Olędry Bukowiec Albertowsko _— 60 348 — — — —  
 
 2. | Amtskasnerowskie Olędry | Zbąszyń Toczeń 18 _— — — — _ _—  
 
@@ -2056,13 +2056,13 @@ ANEKS I
 
 59. tyn, maj. Ru- Narożnik Wiełki OIL. Ruchocice Narożnik chocice, vot. 50 =— III, fol. 41  
 
-60. Niemiecko-Czeskie OI. Zbąszyń Czeskie Nowe — —— 117 61 Nowawieś Śmigiel Nowawieś 1743 AGH. s. i maj. 5XII 1743 41 Śmigiel, vol.IV ŁGI:  
+60. Niemiecko-Czeskie OI. Zbąszyń Czeskie Nowe — —— 117  
+
+61. Nowawieś Śmigiel Nowawieś 1743 AGH. s. i maj. 5XII 1743 41 Śmigiel, vol.IV ŁGI:  
 
 
 <!-- annex sheet 0143, tier mix -->
 
-
-61. rozbiorów . Polski parafia założ. na nim data lub 90 :szacun-| osady źródła — osady sygn. (z*) kowo Tol. przyw.  
 
 62. | Nowe Olędry Mosina Nowinki — — 10 — — — —  
 
@@ -2100,9 +2100,9 @@ ANEKS I
 
 77. Rakoniewice Rakonicwice Rakconicwicec- 1729 wieś Rel. Cost. 27 VII 5* | 814 opusto- nr Wieś szałą 164, r. 1729, 1729 fol. 177  
 
-78. 'Pis[og 78 Rataje Olędry Gnin Rataje 1740 wieś, częśc. Rel. Posn. 10 XI 17* nr zarosła 640, r. 1791, 1740  
+78. 'Pis[og 78 Rataje Olędry Gnin Rataje 1740 wieś, częśc. Rel. Posn. 10 XI 17* nr zarosła 640, r. 1791, 1740 'z fol. 247 G 79  
 
-79. 'z fol. 247 G 79 Reklińskic Olędry Siedlec Reklinek _. 21 130  
+79. Reklińskic Olędry Siedlec Reklinek _. 21 130  
 
 80. Ręcko Wilkowo Reńsko 1728 wieś 1 folw. Rel. Cost. 29 X 1728 20 nr 115 Polskie z budynkami 167, r. 1732, fol. 205  
 
@@ -2110,9 +2110,9 @@ ANEKS I
 
 82. Rudna. Olędry Kębłowo Rudno 20 109 — —  
 
-83.   
+83. Słocińskie Olędry Grodzisk Słociniec 7 34 —— = —  
 
-84. Słocińskie Olędry Grodzisk Słociniec 7 34 —— = —  
+84. Snowidowo Piaszkowo Snowidowo wieś bud. Rel. Posn. 3 VIT1760 18 106 z nr N 620, r. 1787, fol. 26  
 
 85. Soleckie Olędry Kębłowo Solec Nowy 24 117 = —  
 
@@ -2180,9 +2180,9 @@ ANEKS I
 <!-- annex sheet 0147, tier mix -->
 
 
-1. Nazwa osady okresie Ówczesna Nazwa przed mów wg mów osad w terenu źródł. o lokacji I lub L.b założ. Tp. 89 oblicz. parafia dzisiejsza założ. nim | w rozbiorów Polski na data lub szacun- Dymy G osady osady | źródł. z _przyw. zabr, sygn. . kowo wg  
+1. Barcinek Wierzenica Barcinek 1781 ta sama wieś AW. B. 1 1781 4 * 1 mieszkańcy  
 
-2. Barcinek Wierzenica Barcinek 1781 ta sama wieś AW. B. 1 1781 4 * 1 mieszkańcy  
+2. Białężyńskie Olędry Białężyn Białęgi 1748 las AW. B.59—60 29 TV 1748  
 
 3. Białokoskie Olędry Psarskie Białokoszyce las AW. B. 1 1792 ——  
 
@@ -2366,11 +2366,11 @@ ANEKS I
 
 83. Nieszawskie Olędry Białężyn Nicszawka 1723 AW. B. 1—5 11 XI1723 10 * e  
 
-84. Nicwiemko Nowc Ryczywół 10 * u Niewicinko — —— ee) Niewicmko K739 Stare Ryczywół ok. AG. r. 1739— 5* 40,f.686 (AW. Gębickie OI., A. 3)  
+84. Nicwiemko Nowc Ryczywół 10 * u Niewicinko — ——  
 
-85.   
+85. ee) Niewicmko K739 Stare Ryczywół ok. AG. r. 1739— 5* 40,f.686 (AW. Gębickie OI., A. 3)  
 
-86. Niwka Olędry Mosina Niwka 1776 ; wieś z bu- AW. A. I 6 VIII |  
+86. Niwka Olędry Mosina Niwka 1776 ; wieś z bu- AW. A. I 6 VIII | l dynkami 1776 7  
 
 87. Nowawieś Olędry Poznań, św. Nowawieś 1748 (?) ! AGH. Poznań, 6IV1748 5* Wojciech Dolna m. Nowawieś, vol.IV,fol.11  
 
@@ -2432,11 +2432,11 @@ ANEKS I
 
 112. Olędry Przytoczna Poręba 1624 Rel. Posn. nr 1 I 1624 Róża 638, r. 1791, fol. 597 i l  
 
-113. Olędry Wytomyśl | Róża 1765 AW. Paproć, 21 XI 28 Różyńskie Nowa | G. 2, fol. 256 1767 : Rudka pod 1775 Rel. Posn. nr' 22 V 1775 16 * Rudka Olędry Pniewy Pniewami 641, r. 1792, fol. 127 :  
+113. Olędry Wytomyśl | Róża 1765 AW. Paproć, 21 XI 28 Różyńskie Nowa | G. 2, fol. 256 1767 : Rudka pod 1775 Rel. Posn. nr' 22 V 1775 16 *  
 
-114.   
+114. Rudka Olędry Pniewy Pniewami 641, r. 1792, fol. 127 :  
 
-115. Sąpoln'a Olędry Lwówek Sępolno 11 115  
+115. Sąpoln'a Olędry Lwówek Sępolno 11 115 Stare Górzyc- Wytomyśl Sękowo Rel. Posn. nr 11 XI 38  
 
 116. Stare Górzyc- Wytomyśl Sękowo Rel. Posn. nr 11 XI 38 116 Sękowo al. kie Olędry 643, r. 1792, 1700 i fol. 53 i  
 
@@ -2496,9 +2496,9 @@ ANEKS I
 
 140. Węgielna Olędry i Lwówek Węgiclna 1718 las Rel. Posn. nr 10 XI 641, r. 1792, 1718 1 h fol. 823 i h  
 
-141.   
+141. Wiewierczyn Olędry ! i Budziszcwko Bu- i razem z _— . dziszewicami  
 
-142. Wiewierczyn Olędry ! i Budziszcwko Bu- i razem z _— . dziszewicami N 42 Wizany ' Wieleń Wizany między 17 r. 1718 a 1741  
+142. N 42 Wizany ' Wieleń Wizany między 17 r. 1718 a 1741  
 
 143. Władyszyn Olędry ! Budziszewko Władyszyn ——  
 
@@ -2558,17 +2558,21 @@ ANEKS I
 <!-- annex sheet 0159, tier mix -->
 
 
-1. | Janikowo3 | Kicin Janikowo | — — | 9*+] — — — = 2 | Jasień * Swarzędz Jasin 20  
+1. | Janikowo3 | Kicin Janikowo | — — | 9*+] — — — =  
 
-2. | Jasień * Swarzędz Jasin 20 — — — — — — 3 | Łoskońskie Nowe OI. 5 Długa Goślina | Stary Łoskoń 1733 (?) | las AW. B.366—7 | 1793 7* |  
+2. | Jasień * Swarzędz Jasin 20 — — — — — —  
 
 3. | Łoskońskie Nowe OI. 5 Długa Goślina | Stary Łoskoń 1733 (?) | las AW. B.366—7 | 1793 7* | — — 4 | Tuczno Olędry $ Mur. Goślina | Tuczno | 0 2  
 
 4. | Tuczno Olędry $ Mur. Goślina | Tuczno | 0 2 — — — — — | | Ogółem | 2.216 38 514 | |  
 
-10. | Trzydomy I! : Trzy Domy zarośla AW. CG. 1, 15 IV = = — ; fol. 13 1755 11 ; Wiorek? Głuszyna Wiorck 1754 (?) | Bór., s. 308 |4 III 1754, 11 _—  
+10. | Trzydomy I! : Trzy Domy zarośla AW. CG. 1, 15 IV = = — ; fol. 13 1755  
 
-11. ; Wiorek? Głuszyna Wiorck 1754 (?) | Bór., s. 308 |4 III 1754, 11 _— — _— | | Razem z poprzedn. |2.178 38 514 | | Osady o charakterze nieokreślonym 1 | Janikowo3 | Kicin Janikowo | — — | 9*+]  
+11. ; Wiorek? Głuszyna Wiorck 1754 (?) | Bór., s. 308 |4 III 1754, 11 _— — _— |  
+
+| Razem z poprzedn. |2.178 38 514 | |  
+
+Osady o charakterze nieokreślonym  
 
 [p. 145]
 
