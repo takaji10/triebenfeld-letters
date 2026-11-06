@@ -3398,4 +3398,11 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   `ul.kids { margin-left: 2.4rem }` silently zeroed the indent. When a
   variant must override a base rule in Svelte-scoped CSS, give it more
   specificity (two classes), not a later position.
+- **Read the deploy log before rerunning.** Four identical-looking
+  failures at deploy-pages were not four transient blips: the action's
+  own 5-minute status-poll timeout was killing a deployment that (by
+  the fourth attempt's log) was genuinely still syncing. Rerun helps
+  when the run dies of a service error mid-flight; it does nothing when
+  every attempt dies of the same built-in deadline. The action exposed
+  a `timeout` input all along - raising it to 20 minutes fixed it.
 

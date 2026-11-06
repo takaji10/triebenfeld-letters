@@ -5302,6 +5302,25 @@ footer on every page. Changed, in both languages:
 - jekyll and verify_site ALL CHECKS PASSED with the project baseurl
   and with none; the layout battery passes.
 
+## 2026-11-06: the deploy step given time to breathe
+
+- **The Pages backend slowed and the deploy action's own timeout gave
+  up**: the deploy for the tree-page round (cecfe0a5c) failed four
+  times in a row at `actions/deploy-pages@v4` - the run, two
+  `gh run rerun --failed` attempts, and a fresh empty-commit head -
+  each dying with "Timeout reached, aborting!" while polling the
+  deployment status. The logs told the story: the first attempts polled
+  an *empty* status for five minutes, but the fresh head reached
+  `syncing_files` - real progress - and was cancelled by the action's
+  5-minute default anyway. The fix was patience: the action's `timeout`
+  input now allows 20 minutes (pages.yml), and the next deploy passed.
+  Rerunning a failed deploy was the wrong lever here; reading the log
+  first found it.
+- The tree-page work rode out unchanged on the successful deploy and
+  was verified live: 80vw/80vh viewport, foreignObject detail panel,
+  the couple-link shift formula, the altname line, the back link, the
+  two-classed indentation rules - all present in the served CSS/JS.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own
