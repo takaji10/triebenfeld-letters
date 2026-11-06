@@ -2514,7 +2514,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 95 | Szarki Olędry | Zbąszyń | Szarki | 1/24 (*) |   | nota w repert. arch.; dok. brak | 6 VIII 1724 | — | — | — |
 
-| 96 | Świącyńskie Olędry | Gogolewo | Swiączyń | I (40 | zarosla | Kel (ost. nr. 191, r. 1756, fol. 82 | 11 1iDv | 16 | — | 97 |
+| 96 | Świącyńskie Olędry | Gogolewo | Swiączyń | 1745 | zarosla | Kel (ost. nr. 191, r. 1756, fol. 82 | 1 I 1750 | 16 | — | 97 |
 
 | 97 | Świętne Olędry | Kębłowo | Swiętno | po oą |   | HH pzm L I FZ p | — | JI 4 4 | 22 | 356 |
 
@@ -2738,7 +2738,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 62 | Lewickie Olędry | Lewice | Lewiczynek | 1732 | las | AW. A. I | 2 II 1732 | 36 * | — | — |
 
-| 63 | Lipie Olędry | Wytomyśl | lipka Mała | 7 | las | AW. Faproc, C. 2 | l (3 | LD | — | — |
+| 63 | Lipie Olędry | Wytomyśl | lipka Mała | 1783 | las | AW. Faproc, C. 2 | 1783 | LD | — | — |
 
 | 64 | Lipie Olędry | Lwówek | Lipka Wielka | — | — | nm Um m c ww au a | — | 22 | — | — |
 
@@ -2812,7 +2812,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 87 | Nowawieś Olędry | Poznań, św. Wojciech | Nowawieś Dolna | 1748 (?) | — | AGH. Poznań, m. Nowawieś, vol.IV,fol.11 | 6 IV 1748 | 5 * | — |   |
 
-| 88 | Nowe al. Wielkokrobiclewskie Olędry[^137-2] | Goraj | Krobielewo | EE | — | AW. A. 1-0 | 18 VII 1661; 81 II! 1672; 23 II 1691; XM 1700 i 1 JIL1701 | 29 | — | — |
+| 88 | Nowe al. Wielkokrobiclewskie Olędry[^137-2] | Goraj | Krobielewo | EE | — | AW. A. 1-0 | 18 VII 1661; 29 II 1672; 23 II 1691; XII 1700 i 1 III 1701 | 29 | — | — |
 
 | 89 | Nowe Olędry | (Jborniki | Nowołoskoniec | 1746 | zarośla | AW. B. 154 | 1746 | 15 | — | — |
 
@@ -2858,7 +2858,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 101 | Piotronki Olędry | (ihodzicż | Pietronki | 1772 | — | Kl. X11.0.1, fol. 124/5 | — | — | — | l |
 
-| 102 | Połajewskie Ołlędry | Czarnków | Połajewice | ok. 1760 | — | Dom.P.108ZU, fol. 39 | i (OO | 6 | — | — |
+| 102 | Połajewskie Ołlędry | Czarnków | Połajewice | ok. 1760 | — | Dom.P.108ZU, fol. 39 | — | 6 | — | — |
 
 | 103 | Popowo | Biezdrowo | Popowo | 1708 | wieś z bud | AGfl.s. Wronki, maj. Popowo, v. XIX. 199, fol. 32 | 1 IV 1708 | 13 * | — | — |
 
@@ -2882,27 +2882,27 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 107 | Raczyńskie Olędry | Ryczywół | razem z Wyszynkami | 1/44(") | — | Kepertorium Arch. P. w Poznaniu; dok. brak | 1744 | 39 * | < | — |
 
-| 108 | Radoskie Olędry | Sieraków | Kadusz | 1 (VU ś | — | ZM. SICTAKOW, C. 53, fol. 78 | 1 XI 1751 | 35 | — | — |
+| 108 | Radoskie Olędry | Sieraków | Kadusz | 1700 | — | ZM. SICTAKOW, C. 53, fol. 78 | 1 XI 1751 | 35 | — | — |
 
 | 109 | Rońskie Olędry | Trzciel i | KRańsko |   | — | — | — | lo a | — | 5 |
 
-| 110 | Rosnowskie Olędry | Komorniki | Rcsnówko |   | — | —"" s €waY u py p | «> YTY | 1 1% 4% | — | — |
+| 110 | Rosnowskie Olędry | Komorniki | Rcsnówko |   | — | —"" s €waY u py p | 20 III 1777 | 13 * | — | — |
 
-| 111 | Rożnowskie Olędry | Rożnowo ! | razem Zz KRożnowem | pozy " M dB | — | 4VY. Db. FU | ZY Lli1 1777 | ID” O | ZA | — |
+| 111 | Rożnowskie Olędry | Rożnowo ! | razem Zz KRożnowem | — | — | 4VY. Db. FU | — | — | ZA | — |
 
-| 112 | Róża Olędry | Przytoczna | Poręba | l1024 o | — | KXEI. FOSNn. NT 638, r. 1791, fol. 597 | 1 I 1624 | pe 0 |   |   |
+| 112 | Róża Olędry | Przytoczna | Poręba | 1624 | — | KXEI. FOSNn. NT 638, r. 1791, fol. 597 | 1 I 1624 | pe 0 |   |   |
 
-| 113 | Różyńskie Olędry | Wytomysl | NoOwa Róża | 1705 | las | AW. Faproc, C. 2, fol. 256 | 41 Al 1707 | 28 | — | — |
+| 113 | Różyńskie Olędry | Wytomysl | NoOwa Róża | 1705 | las | AW. Faproc, C. 2, fol. 256 | 21 XI 1767 | 28 | — | — |
 
-| 114 | Rudka Olędry | Pniewv | Rudka rod Pniewami | L//D | las | IKei. Fosn. nr 641, r. 1792, fol. 127 | 44 NY 1410 | 16 * | — | — |
+| 114 | Rudka Olędry | Pniewv | Rudka rod Pniewami | 1775 | las | IKei. Fosn. nr 641, r. 1792, fol. 127 | 22 V 1775 | 16 * | — | — |
 
-| 115 | Sąpoln'a Olędry | Lwówek | Sępolno | „dB ge AU | —c= z p" | Giszy z a zu" | 44 7 | li zie) | — | — |
+| 115 | Sąpoln'a Olędry | Lwówek | Sępolno | — | —c= z p" | Giszy z a zu" | — | li zie) | — | — |
 
-| 116 | Sękowo al. Stare Górzyckie Olędry | W vtomyśl | Sękowo | IL /UU | wWIES | el. FOsn. nr 643, r. 1792, fol. 53 | 1ź 4<xL 1700 | JO A | — | — |
+| 116 | Sękowo al. Stare Górzyckie Olędry | W vtomyśl | Sękowo | 1700 | wWIES | el. FOsn. nr 643, r. 1792, fol. 53 | 11 XI 1700 | JO A | — | — |
 
 | 117 | Siereckie Olędry | Trzciel | Sierczyncek | — | — | w. v. 2 m 4 4 | — | 43 | — | — |
 
-| 118 | Sikorce Olędry | Mur. Goślina | brak |   | — | AW. Db. YI | 4% 41 1791 | 7h |   | — |
+| 118 | Sikorce Olędry | Mur. Goślina | brak |   | — | AW. Db. YI | 24 XI 1791 | 7h |   | — |
 
 
 
@@ -3002,23 +3002,23 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 147 | Zakrzewo Olędry | Skórzewko | Zakrzewo | L(A42 | grunty Opustoszałe | IXCI. IOS5II. IU 626, r. 1788, fol. 404 | 11 XI 1747 | 4a ł /a a! | — | — |
 
-| 148 | Zamorze | Pnicwy | Zamorze | Lili] | wies Zz DUM | IXCI. LUOSN. I 641, r. 1792, fol. 163 | 4 VI 1771 | 20 | — | — |
+| 148 | Zamorze | Pnicwy | Zamorze | 1771 | wies Zz DUM | IXCI. LUOSN. I 641, r. 1792, fol. 163 | 4 VI 1771 | 20 | — | — |
 
-| 149 | Zatom Nowy Olędry | Sieraków | ZLatom iNOwy | I/O] | zarosla | LVL. JICIAKÓOW, C.53,fol.131 | 1 XI 1751 | 16 | — | — |
+| 149 | Zatom Nowy Olędry | Sieraków | ZLatom iNOwy | 1751 | zarosla | LVL. JICIAKÓOW, C.53,fol.131 | 1 XI 1751 | 16 | — | — |
 
-| 150 | Zawadzkie al. Gościejewskie. Olędry | Kyczywói | Zawady | 1/40 | gruniy zZarosłe |   | «43 YI 1745 | dg | — | — |
+| 150 | Zawadzkie al. Gościejewskie. Olędry | Kyczywói | Zawady | 1745 | gruniy zZarosłe |   | 25 VI 1745 | dg | — | — |
 
-| 151 | Zdroje Olędry | Biezdrowo | Zdroje | mm e. dd due „e a |   | em u" b >» s 7 R | — | AO | — | — |
+| 151 | Zdroje Olędry | Biezdrowo | Zdroje | — |   | em u" b >» s 7 R | — | AO | — | — |
 
-| 152 | Zielonka al. Przyłęk Olędry | Wytomysś!' | Przyłęk | l (U4 | las | IXCil. KOSIi. IlIi 642, r. 1792, fol. 7 | 1704 | %O ry | — | — |
+| 152 | Zielonka al. Przyłęk Olędry | Wytomysś!' | Przyłęk | 1704 | las | IXCil. KOSIi. IlIi 642, r. 1792, fol. 7 | 1704 | 48 | — | — |
 
 | 153 | Zielończane al. Traktowe | Mur. Goslina | brak | — | — | — | — | i | — | — |
 
-| 154 | Złotkowo Olędry | Sobota | Ziotkowo | l (91 | „grunt zarosiami zarosły” |   | 26 III 1752 | 1 *% 44 | — | — |
+| 154 | Złotkowo Olędry | Sobota | Ziotkowo | 1751 | „grunt zarosiami zarosły” |   | 26 III 1752 | 1 *% 44 | — | — |
 
 | 155 | Złotoryja al. Goślińczane | Mur. Goslina | ZAOtOryJjsko | — | — | — | — | 1O | — | — |
 
-| 156 | Zwierzyniec Olędry | Sieraków | Z.wierzenicc | L/9] | zarosia | AM. 5ICTaKOW, C. 53, fol. 144 | — | SE R R" ŚĆ TN """R"" po pz | Geno R "ZJ :IŻ R FR | gazo Z ZE 2. A gs. 1 |
+| 156 | Zwierzyniec Olędry | Sieraków | Z.wierzenicc | — | zarosia | AM. 5ICTaKOW, C. 53, fol. 144 | — | SE R R" ŚĆ TN """R"" po pz | Geno R "ZJ :IŻ R FR | gazo Z ZE 2. A gs. 1 |
 
 | **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.071 | 38 | 4.484 |
 
@@ -3034,19 +3034,19 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 1 | Czapury[^143-2] | Głuszyna | Czapury | Ok. TT | LL] g | A«xYY. D. id s %.a" 4 4 (a' | śś vYAKLŻZ 1747 *y STY 5P7TASY | 12 * | — | — |
+| 1 | Czapury[^143-2] | Głuszyna | Czapury | 1747 | LL] g | A«xYY. D. id s %.a" 4 4 (a' | 1747 | 12 * | — | — |
 
-| 2 | Głębockic Olędry[^143-3] | Mur. Goślina | Giębocko | 1/4) | WICS R b | MY. AM. o. av.” TE > ">> | 2 XI 1743 | zl 'a' |   | — |
+| 2 | Głębockic Olędry[^143-3] | Mur. Goślina | Giębocko | 1743 | WICS R b | MY. AM. o. av.” TE > ">> | 2 XI 1743 | zl 'a' |   | — |
 
-| 3 | Kiszewko[^143-4] | Kiszewo | KIszewko | 1091 | gotowa Iola | AYvwWY. D. JQJDJI "e. ZY 4 4 | 20 XII 1697 | DU 1*+0 |   |   |
+| 3 | Kiszewko[^143-4] | Kiszewo | KIszewko | 1697 | gotowa Iola | AYvwWY. D. JQJDJI "e. ZY 4 4 | 20 XII 1697 | DU 1*+0 |   |   |
 
-| 4 | Króteckie Olędry[^143-3] | Lubasz | Kruteczck | LiZl | ias | IXI. MII.U. Y, fol. 36 | 11 X 1727 | 1J s | — | ZZRZŹDZZZIIY _————< |
+| 4 | Króteckie Olędry[^143-3] | Lubasz | Kruteczck | 1727 | ias | IXI. MII.U. Y, fol. 36 | 11 X 1727 | 1J s | — | ZZRZŹDZZZIIY _————< |
 
-| 5 | Krzyżcwniki[^143-5] | Kiekrz | Krzyżowniki | ” | ZZ e ft I | Kl. M. +1 TT ŻĘ ŻA | IU Ai 1786 1 vT17TEN | dd 1 | — | sy" I |
+| 5 | Krzyżcwniki[^143-5] | Kiekrz | Krzyżowniki | 1786 | ZZ e ft I | Kl. M. +1 TT ŻĘ ŻA | 10 XI 1786 | dd 1 | — | sy" I |
 
-| 6 | Ostrówek[^143-6] | Chodzież | UstrowkKi | k(DU | IOIWalIkK | KAMl. 422.0. 1,9 fol. 02 2. TY SB ) | Z VYŁkejyvU > %7 4 OO7 | ta | — | S |
+| 6 | Ostrówek[^143-6] | Chodzież | UstrowkKi | 1750 | IOIWalIkK | KAMl. 422.0. 1,9 fol. 02 2. TY SB ) | 1 VI 1750 | ta | — | S |
 
-| 7 | Rzecień Olędry[^143-7] | Wronki | Rzecicn | 1097 | laS | ZAU Kl. SąU Wronki, aj. Rzecień, f. 40 | 8 V 1697 | 10 F gą | — | — |
+| 7 | Rzecień Olędry[^143-7] | Wronki | Rzecicn | 1697 | laS | ZAU Kl. SąU Wronki, aj. Rzecień, f. 40 | 8 V 1697 | 10 F gą | — | — |
 
 | 8 | Suchylas[^143-5] | Chojnica | Suchy Las | — | — | BMI. M.117om. P. 8515 | 11 XI 1781 | vo [e] | — | — |
 

@@ -292,6 +292,51 @@ CELL_FIXES = {
     ('0158', 7, 7): '8 V 1697',      # strip '8 V 1697'
     ('0158', 8, 7): '11 XI 1781',    # strip '11 XI ... 1781'
     ('0159', 10, 7): '15 IV 1755',   # strip '15 IV ... 1755'
+    # ---- date pass batch 3: 0154 glue cluster (top-alignment law:
+    # row content prints at the band TOP edge) + rok-column repairs ----
+    ('0145', 96, 4): '1745',         # 1,7,4,5 matcher; strip 'r. 1756' = repert. year
+    ('0145', 96, 7): '1 I 1750',     # 6 small glyphs 1,I,1,7,5,0 (I=w21 tpl match)
+    ('0150', 63, 4): '1783',         # strip 'AW. Paproć, 1783 C. 2'
+    ('0150', 63, 7): '1783',         # 4 digits + faint mark
+    ('0152', 88, 7): '18 VII 1661; 29 II 1672; 23 II 1691; XII 1700 i 1 III 1701',
+        # 5 print lines decoded from blob rows; 29 II valid (1672 leap);
+        # strip '81 II!' = 2-as-8 + 9-as-1; w51 blobs = merged 69 / 00
+    ('0153', 102, 7): '—',           # digits = źródło overflow '10820, 1766'
+    ('0154', 108, 4): '1700',        # 1,7,0,0 matcher (data 1 XI 1751)
+    ('0154', 110, 7): '20 III 1777', # two lines y1621/y1693 (72px line pitch)
+    ('0154', 110, 8): '13 *',        # same print line as data l1; strip
+    ('0154', 111, 4): '—',           # cross-ref row: c4/c7/c8 empty
+    ('0154', 111, 7): '—',           # strip '1777' = r110 data l2 crossed
+    ('0154', 111, 8): '—',
+    ('0154', 112, 4): '1624',        # 1,6,2,4 matcher; strip 'Poręba 1624'
+    ('0154', 113, 4): '1705',        # 1,7,0@0.97,5; strip '1765' = 0-as-6 OCR
+    ('0154', 113, 7): '21 XI 1767',  # l1 2,1,X@0.90,I; l2 1,7,6,7; strip
+    ('0154', 114, 4): '1775',        # 1,7,7,5; strip 'Rudka pod 1775'
+    ('0154', 114, 7): '22 V 1775',   # 2,2,V,1,7,7,5 matcher
+    ('0154', 115, 4): '—',           # c4 empty y2531-2630; strip no rok
+    ('0154', 115, 7): '—',           # tiny glue marks only
+    ('0154', 116, 4): '1700',        # 1,7-as-1,0,0; strip '1700 i fol. 53'
+    ('0154', 116, 7): '11 XI 1700',  # l1 1,1,X,I; l2 1,7,0,0
+    ('0154', 118, 7): '24 XI 1791',  # l1 2,4,X,I; l2 1791 (9 faint desc.); strip
+    ('0157', 148, 4): '1771',        # strip 'Zamorze 1771'
+    ('0157', 149, 4): '1751',        # strip 'Zatom Nowy 1751'
+    ('0157', 150, 4): '1745',        # l2 1,7,4,5 matcher; strip '1745'
+    ('0157', 150, 7): '25 VI 1745',  # l1 2,5(5->9 bias),V+I; l2 1745
+    ('0157', 151, 4): '—',           # strip dashes (Zdroje)
+    ('0157', 152, 4): '1704',        # strip 'Przyłęk 1704'
+    ('0157', 152, 8): '48',          # 4,8 blobs at r152's line; strip '1704 48'
+    ('0157', 154, 4): '1751',        # strip 'Złotkowo 1751'; data year 1752
+    ('0157', 156, 4): '—',           # strip dashes (Zwierzyniec)
+    ('0158', 1, 4): '1747',          # strip 'Głuszyna 1747'
+    ('0158', 1, 7): '1747',          # full-size 1,7,4,7; smalls = glue
+    ('0158', 2, 4): '1743',          # strip 'Głębocko 1743'
+    ('0158', 3, 4): '1697',          # data 20 XII 1697
+    ('0158', 4, 4): '1727',          # strip 'Kruteczck 1727'
+    ('0158', 5, 4): '1786',
+    ('0158', 5, 7): '10 XI 1786',    # strip; '1786' full-size line
+    ('0158', 6, 4): '1750',
+    ('0158', 6, 7): '1 VI 1750',     # strip r5 tail '1 VI11750'
+    ('0158', 7, 4): '1697',          # strip 'Rzecień 1697'
     # the print's '*' markers (body p. 23-24: dymy given 'zbiorowo' in
     # Tp. 89, estimated per Tp. 90) - star on the dymyTp value
     ('0139', 9, 8): '20 *',

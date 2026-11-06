@@ -20,14 +20,13 @@ for ln in t.splitlines():
     if m and cur:
         cells = [c.strip(' |') for c in ln.split(' | ')]
         v = cells[7] if len(cells) > 7 else ''
-        D = r'\d{1,2} [IVX]{1,4} \d{4}'
-        D2 = r'\d{1,2} [IVX]{1,4}'          # day+month, no year
-        D3 = r'[IVX]{1,4} \d{4}'            # month+year, no day
-        D4 = r'\d{4}'                       # bare year (print repeats it)
-        pat = ('^(' + D + '(?:(?:; ?| i | )' + D + ')*(?: i ' + D2 + ')?'
+        ED = r'(?:\d{1,2} )?[IVX]{1,4} \d{4}'   # day-optional month+year
+        D2 = r'\d{1,2} [IVX]{1,4}'              # day+month, no year
+        D4 = r'\d{4}'                           # bare year (print repeats it)
+        D5 = r'\d{1,2} \d{1,2} \d{4}'           # numeric month style (r76)
+        pat = ('^(' + ED + '(?:(?:; ?| i | )' + ED + ')*(?: i ' + D4 + ')?'
                '|' + D2 + '(?: i ' + D4 + ')?'
-               '|' + D3 + '(?: i ' + D4 + ')?'
-               '|' + D4 + ')$')
+               '|' + D4 + '|' + D5 + ')$')
         ok = (v == '—' or re.fullmatch(pat, v.strip()) or v == '')
         if not ok:
             raw = (at.get(cur, {}).get('rows', {}).get(m.group(1), {})
