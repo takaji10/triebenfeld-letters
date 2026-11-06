@@ -14,6 +14,19 @@
 
   let showRegion = $state(true)
   let failed = $state(false)
+  let zoomed = $state(false)   // the lightbox
+
+  function open(e) {
+    if (form !== 'docx' && form !== 'txt' && url && !failed) {
+      e.preventDefault()
+      zoomed = true
+    }
+  }
+  function close() { zoomed = false }
+
+  function onKey(e) {
+    if (e.key === 'Escape' && zoomed) close()
+  }
 
   const info = $derived(db.mediaInfo?.[path] || null)
   const region = $derived.by(() => {
@@ -37,13 +50,16 @@
   const src = $derived(showRegion && box ? thumbURL : url)
 </script>
 
+<svelte:window onkeydown={onKey} />
+
 {#if form === 'docx' || form === 'txt'}
   <a class="doc" href={url} target="_blank" rel="noopener">
     📄 {title || path.split('/').pop()} <span class="pill dim">{form}</span>
   </a>
 {:else if url && !failed}
   <figure>
-    <div class="frame">
+    <div class="frame" onclick={open} role="button" tabindex="0"
+         onkeydown={(e) => { if (e.key === 'Enter') open(e) }}>
       <img {src} alt={title || path} loading="lazy"
            onerror={() => { failed = true }} class:dimmed={showRegion && box}>
       {#if box && showRegion}
@@ -64,6 +80,13 @@
   <div class="missing">
     {title || path.split('/').pop()}
     <span class="pill dim">{i18n.t('no_media_note')}</span>
+  </div>
+{/if}
+
+{#if zoomed}
+  <div class="lightbox" onclick={close} role="dialog" aria-modal="true">
+    <img src={url} alt={title || path}>
+    <div class="cap">{title || path.split('/').pop()}</div>
   </div>
 {/if}
 
@@ -88,4 +111,12 @@
     background: var(--card); padding: .6rem .8rem; font-size: .85rem;
     color: var(--soft); border-radius: 3px; }
   .missing { color: var(--faint); }
+  .frame { cursor: zoom-in; }
+  .lightbox { position: fixed; inset: 0; z-index: 1000; background: rgba(20, 18, 16, .92);
+    display: grid; place-items: center; cursor: zoom-out; padding: 2rem; }
+  .lightbox img { max-width: 96vw; max-height: 88vh; width: auto; height: auto;
+    box-shadow: 0 8px 40px rgba(0,0,0,.6); }
+  .lightbox .cap { position: absolute; bottom: 1.2rem; left: 0; right: 0;
+    text-align: center; color: #d8d2c8; font-size: .8rem; padding: 0 2rem;
+    word-break: break-word; }
 </style>

@@ -138,10 +138,17 @@
   }
 
   // clicking a card: that person becomes the focus and their tree
-  // expands around them, centred in view
+  // expands around them, centred in view. The flash marks the new focus
+  // card so the change reads at a glance, and the caption names it.
+  let flash = $state(false)
+  let flashTimer = null
   function reroot(pid) {
     if (embed) localId = pid
     else goto('tree/' + pid + (effMode !== 'hourglass' ? '?mode=' + effMode : ''))
+    flash = false
+    clearTimeout(flashTimer)
+    requestAnimationFrame(() => { flash = true })
+    flashTimer = setTimeout(() => { flash = false }, 1600)
   }
   function gotoPerson(pid) { goto('person/' + pid) }
 </script>
@@ -162,6 +169,7 @@
       <a class="pill" class:acc={effMode === 'pedigree'} href={'#/tree/' + focusId + '?mode=pedigree'}>↑</a>
       <a class="pill" class:acc={effMode === 'descendants'} href={'#/tree/' + focusId + '?mode=descendants'}>↓</a>
     {/if}
+    <span class="who">{db.index[focusId]?.n || focusId} <span class="pidtxt">{focusId}</span></span>
     <span class="stat"><button onclick={fit}>⤢ fit</button></span>
   </div>
   <div class="viewport" class:embed bind:this={el}
@@ -179,42 +187,79 @@
           {/each}
           {#each chart.nodes as n (n.id + '@' + n.y)}
             {@const v = db.index[n.id]}
+            {@const avatar = v?.pt && db.meta?.media_base
+              ? db.meta.media_base + v.pt : null}
             <g class="node" class:living={v?.L}
                data-pid={n.id}
+               class:flash={n.focus && flash}
                transform="translate({n.x},{n.y})">
               <rect width={CARD_W} height={CARD_H} rx="4"
                     stroke={n.focus ? 'var(--accent)'
                       : v?.sx === 'F' ? '#9c5470'
                       : v?.sx === 'M' ? '#46618a' : 'var(--rule)'}
                     stroke-width={n.focus ? 2 : 1} fill="var(--card)" />
-              <text x={CARD_W / 2} y="16" text-anchor="middle" class="nm">
-                {(v?.n || n.id).slice(0, 22)}
+              {#if avatar}
+                <clipPath id="av-{n.id}">
+                  <circle cx="21" cy="21" r="13" />
+                </clipPath>
+                <image href={avatar} x="8" y="8" width="26" height="26"
+                       preserveAspectRatio="xMidYMid slice"
+                       clip-path="url(#av-{n.id})" />
+                <circle cx="21" cy="21" r="13" fill="none"
+                        stroke="var(--rule)" />
+              {:else}
+                <circle cx="21" cy="21" r="13"
+                        fill={v?.sx === 'F' ? '#f0e4e9' : '#e5eaf2'}
+                        stroke="var(--rule)" />
+                <text x="21" y="26" text-anchor="middle" class="avsym">
+                  {v?.sx === 'F' ? '♀' : v?.sx === 'M' ? '♂' : '?'}</text>
+              {/if}
+              <text x="42" y="16" text-anchor="start" class="nm">
+                {(v?.n || n.id).slice(0, 18)}
               </text>
-              <text x={CARD_W / 2} y="31" text-anchor="middle" class="yrs">
+              <text x="42" y="31" text-anchor="start" class="yrs">
                 {v?.L ? i18n.t('living')
                   : (v?.b || v?.d ? `${v?.b ?? ''}–${v?.d ?? ''}` : '')}
               </text>
-              <text x={CARD_W / 2} y="45" text-anchor="middle" class="pid">
+              <text x="42" y="45" text-anchor="start" class="pid">
                 {n.id}
               </text>
               <rect width={CARD_W} height={CARD_H} fill="transparent"
                     class="hit" />
               {#if n.spouse}
+                {@const sv = db.index[n.spouse]}
+                {@const sav = sv?.pt && db.meta?.media_base
+                  ? db.meta.media_base + sv.pt : null}
                 <g transform="translate({CELL},0)" data-pid={n.spouse}>
                   <rect width={CARD_W} height={CARD_H} rx="4"
-                        stroke={db.index[n.spouse]?.sx === 'F' ? '#9c5470'
-                          : db.index[n.spouse]?.sx === 'M' ? '#46618a'
+                        stroke={sv?.sx === 'F' ? '#9c5470'
+                          : sv?.sx === 'M' ? '#46618a'
                           : 'var(--rule)'}
                         stroke-width="1" fill="var(--card)" />
-                  <text x={CARD_W / 2} y="16" text-anchor="middle" class="nm">
-                    {(db.index[n.spouse]?.n || n.spouse).slice(0, 22)}
+                  {#if sav}
+                    <clipPath id="av-{n.spouse}">
+                      <circle cx="21" cy="21" r="13" />
+                    </clipPath>
+                    <image href={sav} x="8" y="8" width="26" height="26"
+                           preserveAspectRatio="xMidYMid slice"
+                           clip-path="url(#av-{n.spouse})" />
+                    <circle cx="21" cy="21" r="13" fill="none"
+                            stroke="var(--rule)" />
+                  {:else}
+                    <circle cx="21" cy="21" r="13"
+                            fill={sv?.sx === 'F' ? '#f0e4e9' : '#e5eaf2'}
+                            stroke="var(--rule)" />
+                    <text x="21" y="26" text-anchor="middle" class="avsym">
+                      {sv?.sx === 'F' ? '♀' : sv?.sx === 'M' ? '♂' : '?'}</text>
+                  {/if}
+                  <text x="42" y="16" text-anchor="start" class="nm">
+                    {(sv?.n || n.spouse).slice(0, 18)}
                   </text>
-                  <text x={CARD_W / 2} y="31" text-anchor="middle" class="yrs">
-                    {db.index[n.spouse]?.L ? i18n.t('living')
-                      : (db.index[n.spouse]?.b || db.index[n.spouse]?.d
-                        ? `${db.index[n.spouse]?.b ?? ''}–${db.index[n.spouse]?.d ?? ''}` : '')}
+                  <text x="42" y="31" text-anchor="start" class="yrs">
+                    {sv?.L ? i18n.t('living')
+                      : (sv?.b || sv?.d ? `${sv?.b ?? ''}–${sv?.d ?? ''}` : '')}
                   </text>
-                  <text x={CARD_W / 2} y="45" text-anchor="middle" class="pid">
+                  <text x="42" y="45" text-anchor="start" class="pid">
                     {n.spouse}
                   </text>
                   <rect width={CARD_W} height={CARD_H} fill="transparent"
@@ -222,7 +267,8 @@
                 </g>
               {/if}
               {#if !n.focus}
-                <g class="chev">
+                <g class="chev" data-chev="1">
+                  <title>{i18n.t('go_to_person')}</title>
                   <circle cx={CARD_W - 4} cy={CARD_H + 1} r="9"
                           fill="var(--accent)" opacity="0.85" />
                   <text x={CARD_W - 4} y={CARD_H + 5} text-anchor="middle"
@@ -243,6 +289,16 @@
   .modes .pill { cursor: pointer; }
   .modes button.pill { font: inherit; border: 1px solid var(--rule); }
   .stat { font-size: .74rem; color: var(--faint); margin-left: auto; }
+  .who { font-size: .8rem; color: var(--ink); font-weight: 600; }
+  .pidtxt { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
+    color: var(--faint); font-weight: 400; margin-left: .2rem; }
+  .node.flash rect:first-of-type { animation: focuspulse 1.5s ease; }
+  @keyframes focuspulse {
+    0% { stroke: var(--accent); stroke-width: 4; }
+    70% { stroke-width: 3; }
+    100% { stroke-width: 2; }
+  }
+  .avsym { font-size: 13px; fill: var(--faint); }
   .viewport { overflow: hidden; border: 1px solid var(--rule); border-radius: 3px;
     background: var(--paper2); touch-action: none; cursor: grab;
     user-select: none; max-height: 78vh; }
@@ -256,7 +312,8 @@
     fill: var(--faint); }
   .node.living rect { stroke-dasharray: 3 2; }
   .node .hit { cursor: pointer; }
-  .chev { cursor: pointer; }
+  .chev { cursor: pointer; opacity: 0; transition: opacity .15s ease; }
+  .node:hover .chev { opacity: 1; }
   .che { font-size: 12px; }
   .hint { font-size: .74rem; color: var(--faint); margin: .3rem 0 0; }
 </style>

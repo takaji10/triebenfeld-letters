@@ -3342,7 +3342,10 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   under the press at pointerdown (closest on data attributes), decide
   click-vs-drag by pointer travel at pointerup, and run the action from
   the container's own handlers - capture then harms nothing.
-
-
-
-
+- **A portrait is a picture of the person, not a document about
+  them.** The avatar pass first fell back to "first publishable media",
+  which would have dressed hundreds of people in their birth
+  certificates; the editor's "some people will have actual pictures"
+  means pictures - photo/portrait-titled media only (51 people here),
+  placeholder disc for everyone else. When a rule maps a class to a
+  representation, check what the representative actually is.

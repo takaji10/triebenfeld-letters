@@ -5005,6 +5005,62 @@ footer on every page. Changed, in both languages:
   base included) and center() aims there; "fit" keeps using the whole
   box. The battery asserts the focus point lies on the focus card and
   inside the chart for every case.
+- **The person page, the places pages and the dates, reworked to the
+  editor's remarks of 2026-11-06:**
+  - the tree's re-rooting made visible: the new focus card pulses
+    (a stroke animation for a second and a half), the chart carries a
+    caption naming the centred person with their ID, and the corner
+    chevron (which opens the person's page) appears on hover with the
+    tooltip "Go to the person's page";
+  - round avatars for everyone: a male/female placeholder disc (♀/♂ on
+    the tinted field) on every tree card and at the head of the person
+    page, replaced by the person's actual photograph where the database
+    has one (51 people have a picture: a photo- or portrait-named media
+    file, person-level or hanging off a citation - a birth record is a
+    document about the person, not a picture of them, so documents do
+    not serve as portraits); the tree cards carry the portrait as a
+    clipped circle;
+  - the person's ID sits beside their name in the header (small
+    monospace after the name), not as a badge underneath; the sex is a
+    bare symbol with no pill and no label;
+  - "Partnerships" reads "Spouses and children" (Ehepartner und
+    Kinder / Małżonkowie i dzieci);
+  - dates standardised: a new lib/dates.js renders the GEDCOM raw texts
+    into the interface language - "13 MAR 1905" becomes March 13, 1905,
+    13. März 1905, 13 marca 1905; qualifiers speak ("about 1874" /
+    etwa / ok.); ranges join with a dash; anything unrecognised falls
+    back to the raw text. Parents, siblings, spouses and children show
+    their full formatted life dates (the index now carries the raw
+    birth and death texts beside the years), as do the timeline, the
+    marriage line and the place pages' event lists;
+  - the life events timeline includes the person's marriages, divorces
+    and annulments (the editor: everything belongs in the timeline),
+    each row naming the spouse - "married March 13, 1905 with X" -
+    with the link and the spouse's ID; the place of every event stands
+    inline in the row beside the date, as with marriages;
+  - the media opens: a click on a thumbnail (or Enter on it) opens the
+    full image in a lightbox - dark overlay, the display-size
+    derivative, caption, Escape or click to close (the thumbnail had
+    been inert since the viewer was written);
+  - the Places page gained the map of its geocoded places above the
+    list, and A–Z navigation buttons (the letters actually present,
+    toggle behaviour, All to clear) beside the text filter;
+  - the map gained a layer switch - Map (OpenStreetMap) and Satellite
+    (Esri World Imagery), both keyless raster tiles - built into
+    MapView, so the Places page, the Place pages and the full map route
+    all carry it;
+  - the place pages speak: event labels are written out (Marriage, not
+    MARR; the tags were the database's codes), family events name the
+    couple ("Marriage · Joannes Thomas Zieliński & Catharina Hrycyna")
+    with links and IDs instead of "family F1326", and the date column
+    shows the formatted full date, not just the year.
+- Data rebuilt for it: the index carries the raw life dates and the
+  portrait pointers (resolved through the media manifest at build
+  time), the person shards the family events with the spouse's id and
+  name; 4,021 people, 51 portraits. jekyll and verify_site ALL CHECKS
+  PASSED with the project baseurl and with none (63,294 internal links
+  each); the date formatter exercised headlessly in all three
+  languages; the layout battery passes.
 - **The tree's clicks were swallowed by the pan's pointer capture** (the
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what
