@@ -51,7 +51,6 @@ DrLe\VCe was **Drzewce** (1881 SG II 182). The section in `original.md` is
 re-read from the image (the (6) fragment of the next Drzewce, gm. Poniec,
 kept as the citation text ran to the page's end there); the gazetteer's
 drzewce.yml carries the corrected forms. The dialect line
-("gw. ḑžyṽće, -cuṽ, ḑžyṽeckḱ") is Claude's best reading of the image with
-those special characters — **the one line for the editor's confirmation**
-against the image. The other 22 entries' locators may carry the same
+("gw. ḑžyfće, -cuf, ḑžyṽecḱi") is the editor's correction of Claude's
+first take (2026-11-06: ṽ → f in the first two forms, -ḱi for -ḱ), settled. The other 22 entries' locators may carry the same
 page-number shift (NEEDS_CONFIRMATION).

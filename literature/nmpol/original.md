@@ -42,7 +42,7 @@ ZZ Długa Górka, os., dawniej wś, koniń., gm. Zagórów, 4 km na zach. od Zag
 
 ## Drzewce [Nazwy miejscowe Polski, t. 2, p. 443]
 
-Drzewce (5), wś, koniń., gm. Zagórów, 3 km na płd. od Zagórowa: in Nouo Sagorowo alias Drzewycz nuncupato (1411) KW V 194; in Drzewcza (1418) KW V 268; de Drzewycza 1418 AC II nr 117; Dzewcza, de Drzewcza 1439 AC II nr 352; Drzewcze 1445 AC II nr 416; Drzewcze 1579 ŻDz XII 241; Drzewce 1618–20 PKal 137; Drzewce zagorowskie 1827 Tabella I 108; Drzewce 1881 SG II 182; Drzewce, -wiec 1980 WUN I 369; gw. ḑžyṽće, -cuṽ, ḑžyṽeckḱ. — Dawniej Drzewice lub Drzewica od drzewo, z suf. -ica. Zmiana Drzewica > Drzewca//Drzewce polega na redukcji samogłoski -i- w sylabie nieakcentowanej. Oboczna n. Nowe Zagorowo dyferencyjna wobec n. mta Zagórów (2). Lit.: TaszyckiPatrMz 75, 77. ZZ
+Drzewce (5), wś, koniń., gm. Zagórów, 3 km na płd. od Zagórowa: in Nouo Sagorowo alias Drzewycz nuncupato (1411) KW V 194; in Drzewcza (1418) KW V 268; de Drzewycza 1418 AC II nr 117; Dzewcza, de Drzewcza 1439 AC II nr 352; Drzewcze 1445 AC II nr 416; Drzewcze 1579 ŻDz XII 241; Drzewce 1618–20 PKal 137; Drzewce zagorowskie 1827 Tabella I 108; Drzewce 1881 SG II 182; Drzewce, -wiec 1980 WUN I 369; gw. ḑžyfće, -cuf, ḑžyṽecḱi. — Dawniej Drzewice lub Drzewica od drzewo, z suf. -ica. Zmiana Drzewica > Drzewca//Drzewce polega na redukcji samogłoski -i- w sylabie nieakcentowanej. Oboczna n. Nowe Zagorowo dyferencyjna wobec n. mta Zagórów (2). Lit.: TaszyckiPatrMz 75, 77. ZZ
 
 ZZ Drzewce (6), WŚ, leszcz., gm. Poniec, 5 km na płn.-wsch. od Pońca: Dzrewecz 1399 Lek II nr 2436;
 

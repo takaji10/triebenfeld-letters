@@ -1108,8 +1108,9 @@ questions the batch leaves:
   was **Drzewce** (1881, SG II 182). The citation text re-read from the
   image; the gazetteer's two forms restored with the true readings; the
   summary in `english.md` corrected. The dialect line
-  ("gw. ḑžyṽće, -cuṽ, ḑžyṽeckḱ") is Claude's best reading of the image —
-  **for the editor's confirmation** against it.
+  ("gw. ḑžyfće, -cuf, ḑžyṽecḱi") is the editor's reading of the image,
+  correcting Claude's first take (ṽ → f twice, -ḱi for -ḱ) — settled
+  2026-11-06.
 - **The other 22 NMP entries' locators may be a page off like Drzewce's**
   (444 → 443): the locators came from the place-name repository's
   metadata, which apparently counts differently from the printed pages.
