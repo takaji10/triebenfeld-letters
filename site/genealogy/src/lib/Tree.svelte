@@ -30,6 +30,7 @@
   let el
   let tx = $state(0), ty = $state(0), scale = $state(1)
   let dragging = null
+  let moved = 0   // pointer travel since pointerdown: a click is < 6px
   const pointers = new Map()
   let pinch = null
 
@@ -47,6 +48,7 @@
   function down(e) {
     el.setPointerCapture?.(e.pointerId)
     pointers.set(e.pointerId, { x: e.clientX, y: e.clientY })
+    moved = 0
     if (pointers.size === 2) {
       const [a, b] = [...pointers.values()]
       pinch = { d: Math.hypot(a.x - b.x, a.y - b.y), s0: scale, tx0: tx, ty0: ty,
@@ -70,6 +72,7 @@
     } else if (dragging) {
       tx += e.clientX - prev.x
       ty += e.clientY - prev.y
+      moved += Math.abs(e.clientX - prev.x) + Math.abs(e.clientY - prev.y)
     }
   }
   function up(e) {
@@ -190,7 +193,7 @@
                 </g>
               {/if}
               {#if !n.focus}
-                <g class="chev" onpointerup={(e) => { e.stopPropagation(); gotoPerson(n.id) }}>
+                <g class="chev" onclick={(e) => { e.stopPropagation(); if (moved < 6) gotoPerson(n.id) }}>
                   <circle cx={CARD_W - 4} cy={CARD_H + 1} r="9"
                           fill="var(--accent)" opacity="0.85" />
                   <text x={CARD_W - 4} y={CARD_H + 5} text-anchor="middle"
@@ -198,7 +201,7 @@
                 </g>
               {/if}
               <rect width={n.w * CELL} height={CARD_H} fill="transparent"
-                    class="hit" onpointerup={(e) => { e.stopPropagation(); if (!n.focus) reroot(n.id) }} />
+                    class="hit" onclick={(e) => { e.stopPropagation(); if (!n.focus && moved < 6) reroot(n.id) }} />
             </g>
           {/each}
         </g>

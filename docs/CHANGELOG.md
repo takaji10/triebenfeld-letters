@@ -5005,6 +5005,16 @@ footer on every page. Changed, in both languages:
   base included) and center() aims there; "fit" keeps using the whole
   box. The battery asserts the focus point lies on the focus card and
   inside the chart for every case.
+- **The tree's clicks were swallowed by the pan's pointer capture** (the
+  editor: clicking others in the tree does nothing). The viewport
+  captures the pointer when a press starts - setPointerCapture is what
+  keeps a drag tracking outside the viewport - and a captured pointer
+  retargets every later pointer event to the viewport, so the cards'
+  onpointerup never fired: neither the card's re-root nor the corner
+  chevron's jump to the person page. Both targets now listen to click,
+  which pointer capture does not retarget, and a card click only counts
+  when the pointer travelled under 6px between press and release - a
+  drag ending on a card pans, it does not navigate.
 
 
 

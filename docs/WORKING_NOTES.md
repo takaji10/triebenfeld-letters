@@ -3325,5 +3325,14 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   API trap: call layout.hierarchy(data) then layout(tree) - the layout
   function on raw data wraps it halfway and the nodeSize accessor meets
   a node without .data.
+- **setPointerCapture retargets every later pointer event to the
+  capture element, killing all child pointerup handlers.** The tree
+  viewport captured the pointer for panning and the cards' onpointerup
+  never fired - clicks did nothing while drags worked, the inverse of
+  what a user expects. Route clicks through the click event (unretar-
+  geted), and separate click from drag by pointer travel (< 6px).
+  General rule: within a pan/zoom surface, never hang interaction on
+  pointerup of a child element.
+
 
 
