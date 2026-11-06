@@ -3254,3 +3254,11 @@ application's boot screen reports progress over the eight opening files
 and after eight seconds admits that a blocker or a slow connection can be
 holding the database back. Found by the editor's Firefox console; the fix
 and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
+- **Svelte 5's mount() appends to its target; it does not replace what is
+  inside.** The static boot placeholder inside `#app` therefore survives
+  the mount and sits above the rendered application - invisible until the
+  application first really loaded in production, then unmistakable. Clear
+  the target by hand (`target.textContent = ''`) before `mount()`, and
+  wrap the mount in a try/catch that leaves a word on the page if the
+  component itself fails to start - after the clear, a thrown mount leaves
+  a blank page with the watch already stood down.

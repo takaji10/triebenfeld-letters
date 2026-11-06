@@ -4819,4 +4819,13 @@ footer on every page. Changed, in both languages:
   /triebenfeld-letters (63,294 internal links each), and the built
   genealogy page and its bundle served and fetched through a local
   server under a nested prefix, the bundle answering text/javascript.
+- Found on the live site the same day, once the application finally
+  loaded for a visitor: the static boot placeholder survived the mount,
+  the "Loading the family database" line sitting above the rendered
+  application. Svelte 5's mount() appends to its target - it does not
+  replace what is inside (the clear the old shell design leaned on runs
+  only in the hydration error path) - so src/main.js now clears #app by
+  hand before mounting, and if the mount itself throws it leaves a word
+  on the page instead of a blank one. Rebuilt and re-checked the same
+  way (both baseurls, ALL CHECKS PASSED).
 
