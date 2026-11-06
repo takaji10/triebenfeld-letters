@@ -3,11 +3,11 @@
 
     python scratch/map4456/check_sat_overlay.py
 
-Serves the repository root (the way the working pages are served) and loads
-scratch/map4456/sat_overlay.html in headless Chromium: the satellite tiles
-and the warped plan must both lay, and all 101 farm labels must draw. The
-page fetches its tiles and annotation from takaji10.github.io and its
-libraries from the CDN, so the check needs the network.
+Serves the tiles repository (the page's own home, the way its Pages
+serves it) and loads pelzucki1896/sat_overlay.html in headless Chromium:
+the satellite tiles and the warped plan must both lay, and all 101 farm
+labels must draw. The page fetches its annotation and the labels' data
+beside it and its libraries from the CDN, so the check needs the network.
 """
 import io
 import os
@@ -21,8 +21,11 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8',
                               errors='replace')
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8',
                               errors='replace')
-HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(os.path.dirname(HERE))
+MAPS_REPO = os.environ.get('TRIEBENFELD_MAPS',
+                           os.path.join(os.path.dirname(os.path.dirname(
+                               os.path.dirname(os.path.abspath(__file__)))),
+                               '..', 'triebenfeld-maps'))
+PAGE = '/pelzucki1896/sat_overlay.html'
 PORT = 8791
 
 
@@ -40,7 +43,7 @@ def launch(pw):
 
 
 def main():
-    handler = partial(SimpleHTTPRequestHandler, directory=ROOT)
+    handler = partial(SimpleHTTPRequestHandler, directory=MAPS_REPO)
     server = ThreadingHTTPServer(('127.0.0.1', PORT), handler)
     threading.Thread(target=server.serve_forever, daemon=True).start()
 
@@ -56,7 +59,7 @@ def main():
         page.on('response', lambda r: errors.append('http ' + str(r.status) +
                                                     ': ' + r.url)
                 if r.status >= 400 and 'favicon' not in r.url else None)
-        page.goto(f'http://127.0.0.1:{PORT}/scratch/map4456/sat_overlay.html')
+        page.goto(f'http://127.0.0.1:{PORT}{PAGE}')
         # the warped layer's canvas and the farm pills
         page.wait_for_selector('.farm-tag', timeout=30000)
         time.sleep(8)
@@ -71,7 +74,8 @@ def main():
         print(f'title: {title}')
         print(f'farm tags: {n}')
         print(f'warped layer canvas: {has_canvas}')
-        page.screenshot(path=os.path.join(HERE, 'sat_overlay_check.png'))
+        page.screenshot(path=os.path.join(os.path.dirname(os.path.abspath(
+            __file__)), 'sat_overlay_check.png'))
         browser.close()
     server.shutdown()
     if errors:

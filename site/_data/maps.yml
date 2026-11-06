@@ -20,6 +20,7 @@ kozlowski1861:
   url: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24675961
   tiles: https://takaji10.github.io/triebenfeld-maps/kozlowski1861/info.json
   warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=kozlowski1861
+  sat_warp: null
   view_rotation: 0
   width: 15757
   height: 12140
@@ -907,6 +908,7 @@ lukom1766:
   url: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17930967
   tiles: https://takaji10.github.io/triebenfeld-maps/lukom1766/info.json
   warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766
+  sat_warp: null
   view_rotation: 180
   width: 10280
   height: 8523
@@ -1196,6 +1198,7 @@ pelzucki1896:
   url: null
   tiles: https://takaji10.github.io/triebenfeld-maps/pelzucki1896/info.json
   warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=pelzucki1896
+  sat_warp: https://takaji10.github.io/triebenfeld-maps/pelzucki1896/sat_overlay.html
   view_rotation: 0
   width: 21715
   height: 14206

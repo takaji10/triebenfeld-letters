@@ -183,8 +183,15 @@ layout: default
       <button type="button" class="vbtn" id="reds-layer" aria-pressed="false">{{ t.map_reds_layer }}</button>
       {%- endif %}
 
+      {%- if m.warp or m.sat_warp %}
+      <span class="map-overlay-links">
       {%- if m.warp %}
       <a class="map-overlay-link" href="{{ m.warp }}" rel="noopener">{{ t.map_over_osm }}</a>
+      {%- endif %}
+      {%- if m.sat_warp %}
+      <a class="map-overlay-link" href="{{ m.sat_warp }}" rel="noopener">{{ t.map_over_sat }}</a>
+      {%- endif %}
+      </span>
       {%- endif %}
     </div>
     <p class="map-status" id="map-status" hidden></p>
@@ -325,7 +332,8 @@ layout: default
 .map-viewer { width: 100%; height: min(84vh, 58rem); background: #f4f1ea; border: 1px solid var(--rule); touch-action: none; }
 .map-tools { display: flex; gap: .8rem; align-items: center; margin-top: .4rem; }
 .map-rotbtn[hidden] { display: none; }
-.map-overlay-link { margin-left: auto; font-family: var(--sans); font-size: .85rem; }
+.map-overlay-links { margin-left: auto; display: flex; gap: .8rem; align-items: baseline; }
+.map-overlay-link { font-family: var(--sans); font-size: .85rem; }
 .map-status { font-family: var(--sans); font-size: .85rem; color: #b33; }
 .map-marks { margin: 1.6rem 0 1.6rem; }
 .map-marks h2 { margin: 0 0 .3rem; font-size: 1.1rem; }

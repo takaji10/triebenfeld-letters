@@ -153,6 +153,7 @@ en:
   map_locate: Locate
   map_refs: "Related:"
   map_over_osm: View map overlay on OpenStreetMap
+  map_over_sat: View map overlay on satellite imagery
   map_north: North up
   map_asdrawn: As drawn
   map_inscription: Inscription
@@ -571,6 +572,7 @@ de:
   map_locate: Zeigen
   map_refs: "Verwandt:"
   map_over_osm: Kartenüberlagerung auf OpenStreetMap ansehen
+  map_over_sat: Kartenüberlagerung auf Satellitenbildern ansehen
   map_north: Norden oben
   map_asdrawn: Wie gezeichnet
   map_inscription: Inschrift

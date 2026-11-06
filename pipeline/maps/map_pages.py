@@ -40,7 +40,8 @@ import yaml
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-from common import GAZETTEER_DIR, MAPS_YML, ROOT, die, read_yaml  # noqa: E402
+from common import (GAZETTEER_DIR, MAPS_REPO, MAPS_YML, ROOT, die,
+                    read_yaml)  # noqa: E402
 
 SITE = os.path.join(ROOT, 'site')
 MAPS_DIR = os.path.join(ROOT, 'maps')
@@ -201,6 +202,14 @@ def main():
             'url': m.get('url'),
             'tiles': m.get('tiles'),
             'warp': f'{TILE_BASE}/warp.html?map={key}',
+            # the satellite overlay page (pipeline/maps/sat_overlay.py,
+            # beside the map's tiles in the tiles repository), linked from
+            # the map's page when it has been built - a map with no farms.yml
+            # has none
+            'sat_warp': (f'{TILE_BASE}/{key}/sat_overlay.html'
+                         if os.path.isfile(os.path.join(MAPS_REPO, key,
+                                                        'sat_overlay.html'))
+                         else None),
             'view_rotation': m.get('view_rotation') or 0,
             'width': disp_w,
             'height': disp_h,

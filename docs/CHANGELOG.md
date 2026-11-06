@@ -5043,8 +5043,15 @@ footer on every page. Changed, in both languages:
   note. The pills keep the site's farm layer's shape and naming rule
   (the normalised spelling where the editor's reading is firm, the
   transliteration where it is conjectural; the 1896 extent on hover).
-  A working page, not published; the headless check
-  (check_sat_overlay.py) loads it, counts the 101 pills and keeps the
-  screenshot. If the editor wants it on the site, it becomes a second
-  overlay link beside "Map over OpenStreetMap" (MAPS_SITE_PLAN, the
-  warp link) and the labels' conversion moves into the pipeline.
+  A working page first (this morning's commit); **published at the
+  editor's word the same day** ("Publish! Looks great."): the builder
+  moved into the pipeline (pipeline/maps/sat_overlay.py <map>; a map
+  needs farms.yml, and a rebuild after every import_farms.py bakes the
+  marks anew), the page lives in the tiles repository beside the map's
+  tiles (pelzucki1896/sat_overlay.html, its annotation fetched
+  relatively, the way warp.html does), and the map's page links it
+  beside the OSM overlay (map_over_sat in i18n, both languages;
+  map_pages.py writes sat_warp when the page exists). The headless check
+  (check_sat_overlay.py) now serves the tiles repository and loads the
+  page as its Pages will, counting the 101 pills and keeping the
+  screenshot; jekyll and verify_site ALL CHECKS PASSED.
