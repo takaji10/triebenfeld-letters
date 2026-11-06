@@ -114,6 +114,66 @@ CELL_FIXES = {
     ('0153', 100, 8): '2',
     ('0145', 93, 8): '18',       # raw '18'; ludn 115 -> ratio 6.4
     ('0154', 107, 8): '39 *',    # raw '39 *'
+    # audit_cells round: band-crop blob reads confirmed against raws
+    # and body ratios; raised small marks after dymy values are
+    # transcribed separately (see notes.md)
+    ('0139', 3, 10): '87',       # was 7; 8@0.94+7@0.97; 87/17=5.1
+    ('0142', 49, 8): '44',       # was 4; two 4s; 284/44=6.5
+    ('0142', 59, 8): '13',       # was 3; 1@0.94+3@0.95
+    ('0143', 72, 8): '9',        # raw '9'; bowl+tail glyph
+    ('0143', 73, 10): '83',      # raw '83'
+    ('0143', 73, 7): '17 V 1746',  # raw
+    ('0145', 94, 8): '31',       # raw '31' (data 29 X 1738)
+    ('0145', 94, 7): '29 X 1738',  # raw
+    ('0145', 95, 7): '6 VIII 1724',  # raw
+    ('0145', 98, 7): '5 VI 1712',  # raw
+    ('0146', 102, 7): '21 X 1744',  # raw
+    # dashes where the pixel bar is unambiguous
+    ('0142', 51, 9): '—',
+    ('0142', 60, 9): '—',
+    ('0143', 62, 8): '—',
+    ('0144', 81, 9): '—',
+    ('0145', 87, 8): '—',
+    ('0145', 95, 10): '—',
+    ('0148', 19, 10): '—',
+    ('0150', 57, 10): '—',
+    ('0152', 90, 8): '—',
+    ('0153', 93, 9): '—',
+    ('0153', 100, 10): '—',
+    ('0153', 101, 8): '—',
+    ('0153', 102, 8): '6',       # raw '6'; 0/6 tie -> raw
+    ('0154', 106, 9): '—',
+    # tiebreak round: strip-raw + size-matched pixels + ratios
+    ('0145', 90, 8): '45',       # raw '45'; 5@0.76 same-sheet ref
+    ('0145', 90, 10): '282',     # raw '282'; 8@0.88+2@0.96; ratio 6.27
+    ('0145', 91, 10): '36',      # raw '36' (strip reliable at this size)
+    ('0145', 96, 8): '16',       # ratio 97/16 = 6.06 = body's 6.05!
+    ('0145', 96, 10): '97',      # raw '16 97'
+    ('0145', 97, 9): '22',       # SUM LAW: col10 total 92 = 70+22
+    ('0145', 97, 10): '356',     # raw '356'; 3 glyphs in pixels
+    ('0146', 102, 10): '206',    # raw '206' (draft 200; 6@0.88 2nd)
+    ('0146', 111, 10): '226',    # 3 digit-blobs 2,2,6; draft 2206 glitch
+    ('0149', 36, 8): '30',       # raw '30'; 3-reads-as-5 bias
+    ('0149', 39, 8): '16',       # raw tail '5 XI 1744 16'; 1+6/0
+    ('0149', 40, 8): '3',        # raw '3'; single glyph
+    ('0149', 41, 8): '24',       # raw '24'; 2@0.92/4@0.86 tie -> raw
+    ('0149', 42, 8): '36',       # raw '36'
+    ('0149', 43, 7): '10 XII 1643',  # strip '10 XII 16 43' = split 1643
+    ('0149', 43, 8): '—',        # pixel dash; strip's '16' was the year
+    ('0149', 46, 10): '14',      # strip '— 14 —'; 1+4/2 pixels
+    ('0150', 50, 8): '11',       # two narrow 1-glyphs
+    ('0150', 58, 9): '—',        # pixel dash
+    ('0150', 59, 8): '17',       # 1@0.92 + 7@0.95 narrow glyphs
+    ('0152', 92, 9): '6',        # 6@0.95 full blob in obl cell
+    ('0153', 97, 8): '38',       # raw '38'; 3-reads-as-5, 8@0.70
+    ('0154', 106, 8): '16',      # raw 'dto 1749 16'; digits 1+6
+    ('0154', 108, 8): '35',      # raw '35'; 3-reads-as-5 twice
+    ('0154', 113, 8): '28',      # raw '21 XI 28'; 2@0.94+8@0.77
+    ('0154', 114, 8): '16 *',    # raw '22 V 1775 16 *'; 1+6/0
+    ('0154', 117, 8): '43',      # raw '43'; 4-reads-as-2, 3-as-5
+    ('0157', 148, 8): '20',      # raw '20'; 2@0.91+0@0.89 agree
+    ('0157', 149, 8): '16',      # raw '16'; 1@0.94+6/0@0.84
+    ('0159', 11, 9): '—',        # pixel dash
     # the print's '*' markers (body p. 23-24: dymy given 'zbiorowo' in
     # Tp. 89, estimated per Tp. 90) - star on the dymyTp value
     ('0139', 9, 8): '20 *',
@@ -158,6 +218,10 @@ def apply(amd):
     for (n, num, ci), txt in CELL_FIXES.items():
         for r in amd.get(n, {}).get('rows', []):
             if r['num'] == num:
+                if ci >= len(r['cells']):
+                    print('WARN: %s r%d c%d out of range (%d cells)'
+                          % (n, num, ci, len(r['cells'])))
+                    break
                 if r['cells'][ci] != txt:
                     r['cells'][ci] = txt
                     n_fixed += 1

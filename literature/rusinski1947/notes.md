@@ -690,3 +690,56 @@ Arithmetic census (sum_check.py): a col9 needs 559 more from 19 junk
 rows; a col11 needs 2321 from 22; b col9 needs 1056 from 64; b col11
 needs 4100 from 18 junk (+124 dashes - most b-rows' ludn = dash).
 These targets VALIDATE each fix as it lands.
+
+## Audit round: full numeric-column sweep + hidden reads
+
+audit_cells.py: band-crop blob reads of c9/c10/c11 for all 250 rows
+(rule x-ranges masked), diffed against the draft. Key structural
+findings:
+
+1. SERIES IDENTITY settled from the body arithmetic: a-series
+   (0139-0146) = powiat KOSCIA NSKI (dymy 2386 + 92 = 2478 = body
+   [^23-2]); b-series (0147-0157) = powiat POZNANSKI (2071 + 38 =
+   2109 = body p. 26). The a-ludn total 12.967 = the body's number.
+   The b-ludn RAZEM 4.484 is the print's own column sum (Tol.-recorded
+   osady only); the body's 12.759 for Poznan = an ESTIMATE
+   (2109 x 6.05 = 12.759), NOT the column sum. OPEN QUESTION: the
+   b-c11 column as pixel-read holds only ~500 total (most cells are
+   TRUE dashes: w~66 h<=7 n~300, verified en masse by dash_scan.py);
+   the printed RAZEM says 4.484. Either the print's RAZEM aggregates
+   something beyond the column, or many b-ludn values sit where the
+   draft/pixels both read dash. SPOTTED for the editor.
+
+2. The print mixes DIGIT SIZES within the a-series tail and the whole
+   b-series (h 25-45). Size-mismatched template refs caused the
+   2<->4/5<->3/0<->6 ties; resolved per-cell by strip-raw agreement,
+   ratio checks (body avg 6.05 os./dym) and the column-sum laws.
+
+3. Raised small glyphs after dymy values (0139 r8 =51+1, 0140 r17
+   =11+3, 0146 r102 =29+3, 0151 r67 =28+1): distinct from stars
+   (stars matcher-read ~4@0.35; these read >=0.8 as digits).
+   Semantics unresolved (mlyn count? karczma? obl estimate?) ->
+   SPOT. Transcribed as the plain digit value; the raised mark is
+   documented here.
+
+4. Column-sum law: a-col10 (szacunkowo) EXACTLY 92 after fixes.
+
+Fixes this round (40+ cells): 0139 r3 ludn 87 (was 7);
+0142 r49 dymy 44 (ratio-decisive), r59 dymy 13; 0143 r72 dymy 9,
+r73 data 17 V 1746 + ludn 83; 0145 r90 dymy 45 + ludn 282,
+r91 ludn 36, r94 dymy 31 + data 29 X 1738, r95 data 6 VIII 1724,
+r96 dymy 16 + ludn 97 (ratio = the body's 6.05!), r97 obl 22 (SUM
+LAW) + ludn 356, r98 data 5 VI 1712; 0146 r102 data 21 X 1744 +
+ludn 206, r111 ludn 226 (draft 2206 was a glitch; 3 digit-blobs);
+0149 r36 dymy 30, r39 dymy 16, r40 dymy 3, r41 dymy 24, r42 dymy 36,
+r43 data 10 XII 1643 (the strip split 1643 as 16 43!) + dymy dash,
+r46 ludn 14; 0150 r50 dymy 11, r58 obl dash, r59 dymy 17;
+0152 r92 obl 6; 0153 r97 dymy 38, r102 dymy 6; 0154 r106 dymy 16,
+r108 dymy 35, r113 dymy 28, r114 dymy 16 *, r117 dymy 43;
+0157 r148 dymy 20, r149 dymy 16; 0159 r11 obl dash; plus dashes at
+0142 r51/r60 obl, 0143 r62, 0144 r81, 0145 r87/r95, 0148 r19,
+0150 r57, 0152 r90, 0153 r93/r100/r101, 0154 r106.
+
+Census after: a col9 7 junk, col10 1 (the r29 mark), col11 5;
+b col9 37, col10 6, col11 13. Remaining junk = mostly small-type
+2/4-5/3-0/6 ties -> next round: max-zoom art + the SPOT sheet.
