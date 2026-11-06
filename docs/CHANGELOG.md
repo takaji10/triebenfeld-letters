@@ -5094,6 +5094,69 @@ footer on every page. Changed, in both languages:
   and with none (63,294 internal links each); the layout battery
   passes; the name-fitting checked over the whole index (the 43-char
   longest name renders as two compressed lines, no overflow).
+
+## 2026-11-06: the People page, the big family tree, and the person
+## page's relations re-drawn
+
+- **The Surnames page is now People** (nav label in all three
+  languages): the surnames stand as collapsible groups - the row
+  carries the name, the count and a turning drop-down arrow, the
+  click expands the surname's full list; an expand/collapse-all button
+  sits above the table. The list columns are Lastname, Firstname(s);
+  ID; gender; birth date; death date (the dates formatted).
+- **The search sidebar** stands on the right of the People page:
+  name, ID, gender (drop-down), birth-year from/to, birth place with
+  autocomplete over the database's places, death-year from/to, death
+  place with autocomplete, and the event type as a drop-down. Find
+  filters the list and opens every group with hits; Clear resets.
+  The event-type filter checks each candidate's person shard (lazy,
+  batched) for an event of that tag.
+- **The big family tree**: the nav gains "Family tree" and the home
+  page a start card, both aimed at the start person I2867 - Boguslaus
+  Celmer, the oldest-known Zelmer, named so by the editor - whose
+  chart opens in a new "big" mode: fourteen generations up, ten down
+  (the embedded chart keeps its small radius; the tree route's mode
+  pills gain a ⊞ big view). The layout of I2867's big chart measures
+  852 cards over a 117,000-px canvas, laid in 6 ms with zero overlaps;
+  scroll zooms, drag pans, and clicking a card opens the person.
+- **The person page's relations re-drawn** (the editor's remarks):
+  - the "In the tree" section and its embedded chart are gone - the
+    header's "In the tree" pill was retired earlier; the person page
+    reads as a record now, the tree lives on the Family tree page and
+    the tree route;
+  - the person's name is no longer bold (font-weight 400);
+  - every relation row carries a small round avatar - the person's
+    picture, or the silhouette placeholder;
+  - parents and siblings are one section, "Parents and siblings"
+    (Eltern und Geschwister / Rodzice i rodzeństwo): the parents first,
+    the couple's marriage (and divorce/annulment, with dates and
+    place) named beneath them, the siblings hanging beneath as
+    sub-items on an indented rule; a person with siblings but no
+    recorded parents keeps a plain Siblings section;
+  - parents and siblings show their birth and death places beside
+    their dates (the index now carries bp/dp - 1,599 people with a
+    recorded birth place, 925 with a death place; index.json grows
+    574 to 759 KB);
+  - "Spouses and children" delineated: the spouse stands as its own
+    row with avatar, life line and the marriage line, and the children
+    hang beneath as sub-items on an indented rule - plainly the
+    spouse's, not a flat list.
+- **The citation images render at display size**: the media viewer's
+  default src was the 400-px thumbnail - the record photographs inside
+  the opened citations were pixelated (the editor, 2026-11-06). The
+  viewer now shows the display derivative by default (the thumbnail
+  remains for the index's portrait pointers); the lightbox and the
+  region toggle behave as before.
+- **Links in the citations are clickable**: a URL inside the source's
+  publication string is rendered as a link on the source title (target
+  _blank).
+- Also fixed: the silhouette placeholder's shoulders arc is clipped to
+  its disc now (a per-card clipPath; the arc is deliberately wider
+  than the circle, and unclipped it painted outside the round frame).
+- Data rebuilt for the index's new fields; jekyll and verify_site ALL
+  CHECKS PASSED with the project baseurl and with none (63,294
+  internal links each); the layout battery passes; the big chart
+  exercised headlessly (852 nodes, zero overlaps, 6 ms).
 - **The tree's clicks were swallowed by the pan's pointer capture** (the
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what

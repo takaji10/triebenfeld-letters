@@ -25,8 +25,13 @@ export const CARD_H = 56
 export const GAP_X = 16
 export const CELL = CARD_W + GAP_X
 export const ROW_H = 96
+// the person page's embedded chart keeps a small radius; the dedicated
+// tree page (big mode) walks much further - the oldest-known ancestor's
+// family read at a glance, clicked through generation by generation
 export const MAX_UP = 5
 export const MAX_DOWN = 4
+export const BIG_UP = 14
+export const BIG_DOWN = 10
 
 const makeTree = flextree({
   nodeSize: n => [n.data.w, 1],
@@ -63,13 +68,13 @@ function unionsOf(db, pid) {
 // becomes a node of its own - no spouse folding - so the father's line
 // and the mother's line both walk to their full depth, and couples that
 // share a child end up adjacent wherever the layout puts them.
-function upTree(db, pid, depth, seen) {
+function upTree(db, pid, depth, seen, maxUp = MAX_UP) {
   seen.add(pid)
   const children = []
-  if (depth < MAX_UP) {
+  if (depth < maxUp) {
     for (const par of parentsOf(db, pid)) {
       if (!db.index[par] || seen.has(par)) continue
-      const t = upTree(db, par, depth + 1, seen)
+      const t = upTree(db, par, depth + 1, seen, maxUp)
       if (t) children.push(t)
     }
   }
@@ -78,7 +83,7 @@ function upTree(db, pid, depth, seen) {
 
 // The descendant half: the person, the spouse their children share
 // beside them (a card each), the children beneath the couple.
-function downTree(db, pid, depth, seen) {
+function downTree(db, pid, depth, seen, maxDown = MAX_DOWN) {
   seen.add(pid)
   const spouses = []
   const children = []
@@ -88,10 +93,10 @@ function downTree(db, pid, depth, seen) {
         (u.children.length || depth === 0)) {
       spouses.push(u.spouse)
     }
-    if (depth < MAX_DOWN) {
+    if (depth < maxDown) {
       for (const c of u.children) {
         if (!db.index[c] || seen.has(c)) continue
-        const t = downTree(db, c, depth + 1, seen)
+        const t = downTree(db, c, depth + 1, seen, maxDown)
         if (t) children.push(t)
       }
     }
@@ -107,11 +112,11 @@ function elbow(x1, y1, x2, y2) {
 
 export function layout(db, id, mode = 'hourglass') {
   if (!id || !db.index || !db.index[id]) return null
-  const wantUp = mode !== 'descendants'
-  const wantDown = mode !== 'pedigree'
-
-  const up = wantUp ? runTree(upTree(db, id, 0, new Set())) : null
-  const down = wantDown ? runTree(downTree(db, id, 0, new Set())) : null
+  const big = mode === 'big'
+  const up = (mode !== 'descendants')
+    ? runTree(upTree(db, id, 0, new Set(), big ? BIG_UP : MAX_UP)) : null
+  const down = (mode !== 'pedigree')
+    ? runTree(downTree(db, id, 0, new Set(), big ? BIG_DOWN : MAX_DOWN)) : null
 
   // both roots are the focus: align their centres on x=0, and let the
   // ancestor rows run upward (negative y), the descendant rows downward

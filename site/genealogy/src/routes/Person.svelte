@@ -4,7 +4,6 @@
   import { fmtDate } from '../lib/dates.js'
   import { person, mediaURL } from '../lib/data.js'
   import MediaViewer from '../lib/MediaViewer.svelte'
-  import Tree from '../lib/Tree.svelte'
 
   let { id } = $props()
 
@@ -93,8 +92,27 @@
     return v?.pt && db.meta?.media_base ? db.meta.media_base + v.pt : null
   }
 
+  // a relation row's life line: dates and places - "March 12, 1879 ·
+  // Zabuże" (the index carries the birth/death places beside the dates)
+  function lifePlace(x) {
+    const v = db.index?.[x]
+    if (!v) return ''
+    const parts = [life(v)]
+    if (v.bp) parts.push(v.bp)
+    if (v.dp) parts.push('† ' + v.dp)
+    return parts.filter(Boolean).join(' · ')
+  }
+
   function label(ev) {
     return i18n.t(EVENT_LABELS[ev.tag] || 'in_tree')
+  }
+
+  // a citation's source may carry a URL in its publication text - the
+  // editor's archival links - rendered clickable when present
+  function sourceLink(s) {
+    if (!s?.pub) return null
+    const m = String(s.pub).match(/https?:\/\/[^\s)>"']+/)
+    return m ? m[0] : null
   }
 
   function sourceOf(cit) {
@@ -140,37 +158,75 @@
       </div>
     </header>
 
-    <section>
-      <h2>{i18n.t('in_tree')}</h2>
-      <Tree {id} embed />
-    </section>
-
     {#if parents.length}
       <section>
-        <h2>{i18n.t('parents')}</h2>
-        <ul class="people">
-          {#each parents as pid}
-            {@const v = db.index?.[pid]}
-            <li>
-              <a href={'#/person/' + pid}>{personName(pid)}</a>
-              <span class="pid">{pid}</span>
-              {#if v}<span class="yrs">{life(v)}</span>{/if}
-            </li>
-          {/each}
-        </ul>
+        <h2>{i18n.t('parents_siblings')}</h2>
+        {#if parents.length}
+          <ul class="people parents">
+            {#each parents as pid}
+              {@const v = db.index?.[pid]}
+              <li>
+                {#if avatar(pid)}
+                  <img class="mav" src={avatar(pid)} alt="">
+                {:else}
+                  <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+                {/if}
+                <span class="who">
+                  <a href={'#/person/' + pid}>{personName(pid)}</a>
+                  <span class="pid">{pid}</span>
+                  {#if v}<span class="yrs">{lifePlace(pid)}</span>{/if}
+                </span>
+              </li>
+            {/each}
+          </ul>
+          {#if shard.famc?.length && fam(shard.famc[0])}
+            {@const pf = fam(shard.famc[0])}
+            {#if pf.marr?.date || pf.div?.date || pf.anul?.date}
+              <p class="pcouple">
+                {#if pf.marr?.date}{i18n.t('married')} {fmt(pf.marr.date.raw)}{#if pf.marr.place} — {pf.marr.place}{/if}{/if}
+                {#if pf.div?.date} · {i18n.t('divorced')} {fmt(pf.div.date.raw)}{/if}
+                {#if pf.anul?.date} · {i18n.t('annulled')} {fmt(pf.anul.date.raw)}{/if}
+              </p>
+            {/if}
+          {/if}
+        {/if}
+        {#if siblings.length}
+          <ul class="people kids">
+            {#each siblings as sid}
+              {@const v = db.index?.[sid]}
+              <li>
+                {#if avatar(sid)}
+                  <img class="mav" src={avatar(sid)} alt="">
+                {:else}
+                  <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+                {/if}
+                <span class="who">
+                  <a href={'#/person/' + sid}>{personName(sid)}</a>
+                  <span class="pid">{sid}</span>
+                  {#if v}<span class="yrs">{lifePlace(sid)}</span>{/if}
+                </span>
+              </li>
+            {/each}
+          </ul>
+        {/if}
       </section>
-    {/if}
-
-    {#if siblings.length}
+    {:else if siblings.length}
       <section>
         <h2>{i18n.t('siblings')}</h2>
         <ul class="people">
           {#each siblings as sid}
             {@const v = db.index?.[sid]}
             <li>
-              <a href={'#/person/' + sid}>{personName(sid)}</a>
-              <span class="pid">{sid}</span>
-              {#if v}<span class="yrs">{life(v)}</span>{/if}
+              {#if avatar(sid)}
+                <img class="mav" src={avatar(sid)} alt="">
+              {:else}
+                <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+              {/if}
+              <span class="who">
+                <a href={'#/person/' + sid}>{personName(sid)}</a>
+                <span class="pid">{sid}</span>
+                {#if v}<span class="yrs">{lifePlace(sid)}</span>{/if}
+              </span>
             </li>
           {/each}
         </ul>
@@ -182,25 +238,39 @@
         <h2>{i18n.t('spouses_children')}</h2>
         {#each partners as p, i}
           <div class="union">
-            <p class="spouse">
+            <div class="spouserow">
               {#if p.spouse}
-                <a href={'#/person/' + p.spouse}>{personName(p.spouse)}</a>
-                <span class="pid">{p.spouse}</span>
-                {#if db.index?.[p.spouse]}<span class="yrs">{life(db.index[p.spouse])}</span>{/if}
+                {#if avatar(p.spouse)}
+                  <img class="mav" src={avatar(p.spouse)} alt="">
+                {:else}
+                  <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+                {/if}
+                <span class="who">
+                  <a href={'#/person/' + p.spouse}>{personName(p.spouse)}</a>
+                  <span class="pid">{p.spouse}</span>
+                  {#if db.index?.[p.spouse]}<span class="yrs">{lifePlace(p.spouse)}</span>{/if}
+                  {#if p.marr?.date}
+                    <span class="marr">· {i18n.t('married')} {fmt(p.marr.date.raw)}
+                      {#if p.marr.place} — {p.marr.place}{/if}</span>
+                  {/if}
+                </span>
               {:else}—{/if}
-              {#if p.marr?.date}
-                <span class="marr">· {i18n.t('married')} {fmt(p.marr.date.raw)}
-                  {#if p.marr.place} — {p.marr.place}{/if}</span>
-              {/if}
-            </p>
+            </div>
             {#if p.children.length}
-              <ul class="people">
+              <ul class="people kids">
                 {#each p.children as cid}
                   {@const v = db.index?.[cid]}
                   <li>
-                    <a href={'#/person/' + cid}>{personName(cid)}</a>
-                    <span class="pid">{cid}</span>
-                    {#if v}<span class="yrs">{life(v)}</span>{/if}
+                    {#if avatar(cid)}
+                      <img class="mav" src={avatar(cid)} alt="">
+                    {:else}
+                      <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+                    {/if}
+                    <span class="who">
+                      <a href={'#/person/' + cid}>{personName(cid)}</a>
+                      <span class="pid">{cid}</span>
+                      {#if v}<span class="yrs">{lifePlace(cid)}</span>{/if}
+                    </span>
                   </li>
                 {/each}
               </ul>
@@ -240,7 +310,11 @@
                     {@const s = sourceOf(cit)}
                     {@const rep = repoOf(cit)}
                     <div class="cit">
-                      {#if s}<span class="src">{s.title || cit.s}</span>
+                      {#if s}
+                        <span class="src">
+                          {#if sourceLink(s)}<a href={sourceLink(s)} target="_blank" rel="noopener">{s.title || cit.s}</a>
+                          {:else}{s.title || cit.s}{/if}
+                        </span>
                         {#if s.author}<span class="dim"> · {s.author}</span>{/if}
                         {#if rep}
                           <span class="dim"> · {rep.name}
@@ -293,7 +367,7 @@
 <style>
   .lead { color: var(--soft); }
   .error { color: var(--warn); }
-  .head h1 { font-size: 1.4rem; margin: 0 0 .4rem; }
+  .head h1 { font-size: 1.4rem; margin: 0 0 .4rem; font-weight: 400; }
   .idline { display: flex; gap: .9rem; align-items: center; }
   .avatar { width: 64px; height: 64px; border-radius: 50%; object-fit: cover;
     border: 1px solid var(--rule); background: var(--card); flex: none; }
@@ -305,11 +379,21 @@
   .sxline { color: var(--soft); font-size: 1rem; }
   .pills { display: flex; flex-wrap: wrap; gap: .35rem; align-items: center; }
   section { margin-top: 1.6rem; }
+  .mav { width: 28px; height: 28px; border-radius: 50%; object-fit: cover;
+    border: 1px solid var(--rule); flex: none; }
+  .who { display: inline-flex; flex-wrap: wrap; gap: .3rem; align-items: baseline; }
+  ul.parents { margin-bottom: .2rem; }
+  ul.kids { margin: .2rem 0 .2rem 1.1rem; padding-left: .7rem;
+    border-left: 2px solid var(--rule); }
+  .pcouple { color: var(--faint); font-size: .8rem; margin: .1rem 0 .3rem 1.1rem; }
+  .spouserow { display: flex; gap: .6rem; align-items: center;
+    padding: .15rem 0; }
+  .spouserow .who { display: inline-flex; }
   h2 { font-size: .95rem; margin: 0 0 .5rem; color: var(--soft);
     text-transform: uppercase; letter-spacing: .05em; font-family: var(--sans);
     font-weight: 600; font-size: .74rem; }
   ul.people { list-style: none; margin: 0; padding: 0; }
-  ul.people li { padding: .2rem 0; }
+  ul.people li { padding: .2rem 0; display: flex; gap: .6rem; align-items: center; }
   .pid { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
     color: var(--faint); margin-left: .35rem; white-space: nowrap; }
   .yrs { color: var(--faint); font-size: .8rem; margin-left: .45rem;
@@ -317,6 +401,11 @@
   .union { border-left: 3px solid var(--rule); padding-left: .8rem; margin: 0 0 .8rem; }
   .spouse { margin: .1rem 0 .3rem; }
   .marr { color: var(--faint); font-size: .84rem; }
+  /* citation media renders at display size: the 400px thumb the viewer
+     showed by default pixelated the record photographs (the editor,
+     2026-11-06); the region dimming now dims around the box, not the
+     whole scan, so the full image is the honest default */
+  .citmedia :global(.frame img) { }
   ol.timeline { list-style: none; margin: 0; padding: 0; }
   ol.timeline li { border-left: 2px solid var(--rule); padding: .35rem 0 .5rem 1rem;
     position: relative; }
@@ -335,6 +424,7 @@
   .cit { margin: .5rem 0; padding: .4rem .6rem; background: var(--card);
     border: 1px solid var(--rule); border-radius: 3px; font-size: .82rem; }
   .src { font-weight: 600; }
+  .src a { color: var(--accent); }
   .dim { color: var(--faint); }
   .page { color: var(--soft); }
   blockquote { margin: .4rem 0 0; padding-left: .7rem; border-left: 3px solid var(--rule);

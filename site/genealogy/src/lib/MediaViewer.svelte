@@ -47,7 +47,7 @@
     }
   })
 
-  const src = $derived(showRegion && box ? thumbURL : url)
+  const src = $derived(url)
 </script>
 
 <svelte:window onkeydown={onKey} />

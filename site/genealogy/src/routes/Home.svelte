@@ -38,6 +38,10 @@
   <p class="stamp">{i18n.t('data_as_of')} {db.meta.built}</p>
 {/if}
 
+<a class="startree" href={'#/tree/I2867?mode=big'}>
+  ⧗ {i18n.t('nav_tree')} — {i18n.t('start_tree')}
+</a>
+
 <h2>{i18n.t('nav_surnames')}</h2>
 <div class="chips">
   {#each counts as [name, n]}
@@ -70,4 +74,9 @@
   .chip:hover { border-color: var(--accent); text-decoration: none; }
   .chip b { color: var(--faint); font-weight: 600; margin-left: .2rem; }
   .chip.all { color: var(--accent); }
+  .startree { display: block; max-width: 44rem; margin: 1.4rem auto 0;
+    text-align: center; padding: .8rem 1.2rem; border: 1px solid var(--accent);
+    border-radius: 6px; background: var(--card); color: var(--accent);
+    font-family: var(--serif); font-size: .95rem; }
+  .startree:hover { background: #f6f1e8; text-decoration: none; }
 </style>

@@ -197,6 +197,7 @@
       <a class="pill" class:acc={effMode === 'hourglass'} href={'#/tree/' + focusId}>⧗</a>
       <a class="pill" class:acc={effMode === 'pedigree'} href={'#/tree/' + focusId + '?mode=pedigree'}>↑</a>
       <a class="pill" class:acc={effMode === 'descendants'} href={'#/tree/' + focusId + '?mode=descendants'}>↓</a>
+      <a class="pill" class:acc={effMode === 'big'} href={'#/tree/' + focusId + '?mode=big'}>⊞</a>
     {/if}
     <span class="who">{db.index[focusId]?.n || focusId} <span class="pidtxt">{focusId}</span></span>
     <span class="stat"><button onclick={fit}>⤢ fit</button></span>
@@ -207,15 +208,19 @@
     <svg width={W} height={H}>
       <g transform="translate({tx},{ty}) scale({scale})">
         <g transform="translate({chart.baseX},{chart.baseY})">
-          {#snippet silhouette(cx, cy, r)}
+          {#snippet silhouette(cx, cy, r, uid)}
             <!-- the placeholder: a head-and-shoulders silhouette on the
                  tinted disc, the same for everyone whose picture the
-                 database lacks -->
+                 database lacks. Clipped to the disc: the shoulders' arc
+                 is wider than the circle by design. -->
+            <clipPath id="sil-{uid}">
+              <circle cx={cx} cy={cy} r={r} />
+            </clipPath>
             <circle cx={cx} cy={cy} r={r} fill="#e8e2d6" stroke="var(--rule)" />
-            <g fill="#b3a897">
+            <g fill="#b3a897" clip-path="url(#sil-{uid})">
               <circle cx={cx} cy={cy - r * 0.38} r={r * 0.42} />
-              <path d={`M ${cx - r * 0.78} ${cy + r * 0.92}
-                       a ${r * 0.78} ${r * 0.62} 0 0 1 ${r * 1.56} 0 Z`} />
+              <path d={`M ${cx - r * 0.85} ${cy + r * 0.95}
+                       a ${r * 0.85} ${r * 0.62} 0 0 1 ${r * 1.7} 0 Z`} />
             </g>
           {/snippet}
           {#each chart.links as d}
@@ -248,7 +253,7 @@
                 <circle cx="21" cy="21" r="13" fill="none"
                         stroke="var(--rule)" />
               {:else}
-                {@render silhouette(21, 21, 13)}
+                {@render silhouette(21, 21, 13, n.id)}
               {/if}
               {#if nameLines(v?.n || n.id).length === 2}
                 <text x="42" y="14" text-anchor="start" class="nm"
@@ -297,7 +302,7 @@
                     <circle cx="21" cy="21" r="13" fill="none"
                             stroke="var(--rule)" />
                   {:else}
-                    {@render silhouette(21, 21, 13)}
+                    {@render silhouette(21, 21, 13, n.spouse)}
                   {/if}
                   {#if nameLines(sv?.n || n.spouse).length === 2}
                     <text x="42" y="14" text-anchor="start" class="nm"

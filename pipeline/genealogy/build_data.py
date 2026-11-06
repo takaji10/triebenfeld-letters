@@ -249,6 +249,8 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
         living = name.given == LIVING_GIVEN
         by = dy = None
         br = dr = None
+        bp = {}
+        dp = {}
         if not living:
             for tag in ("BIRT", "BAPM", "CHR", "BAPL"):
                 ev = next((e for e in p.events if e.tag == tag
@@ -256,6 +258,8 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
                 if ev:
                     by = ev.date.year
                     br = ev.date.raw
+                    if ev.place:
+                        bp = {"bp": ev.place}
                     break
             for tag in ("DEAT", "BURI", "CREM"):
                 ev = next((e for e in p.events if e.tag == tag
@@ -263,6 +267,8 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
                 if ev:
                     dy = ev.date.year
                     dr = ev.date.raw
+                    if ev.place:
+                        dp = {"dp": ev.place}
                     break
         index[x.strip("@")] = {
             "n": f"Living {name.surname}".strip() if living else name.display,
@@ -273,6 +279,9 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
             # the raw date texts, for the UI's formatted rendering
             **({"br": br} if br else {}),
             **({"dr": dr} if dr else {}),
+            # the birth and death places, for the relations lists
+            **bp,
+            **dp,
             "L": living,
             "M": any(m.path not in skip_media for m in p.media),
             "fc": [f.strip("@") for f in p.famc],

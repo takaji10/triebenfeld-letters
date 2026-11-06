@@ -43,11 +43,16 @@
     ['map', 'nav_map'],
   ]
 
+  // the start person: the oldest-known Zelmer, where the big family
+  // tree begins (the editor's ruling, 2026-11-06)
+  const START_PERSON = 'I2867'
+
   function activeTab() {
     const p = route.parts[0] || 'home'
     if (p === 'person' || p === 'surname') return 'surnames'
     if (p === 'place') return 'places'
     if (p === 'map') return 'map'
+    if (p === 'tree') return 'tree'
     return p
   }
 </script>
@@ -59,6 +64,8 @@
     {#each tabs as [key, label]}
       <a href={'#/' + key} class:active={activeTab() === key}>{i18n.t(label)}</a>
     {/each}
+    <a href={'#/tree/' + START_PERSON + '?mode=big'}
+       class:active={activeTab() === 'tree'}>{i18n.t('nav_tree')}</a>
   </nav>
   <select class="lang" value={i18n.lang}
           onchange={(e) => { i18n.lang = e.target.value }}>
