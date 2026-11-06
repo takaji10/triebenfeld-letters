@@ -14,13 +14,16 @@
   archival holdings' full list lives at /sources/archive/ (the holding
   pages themselves stay at /sources/<slug>/); the other three kinds keep
   their own pages (/newspapers/, /literature/, /maps/), reached from here
-  and no longer from the header.
+  and no longer from the header. Each kind has its vector icon beside the
+  heading (the editor, 2026-11-06: parchment, newspaper, book, map), drawn
+  in the site's line-icon idiom - fill none, stroke currentColor, round
+  caps and joins, as in source-thumb.html.
 {%- endcomment -%}
 {%- assign lit_held = site.data.units | where: "listed_in", "literature" -%}
 {%- assign lit_held_size = lit_held | size -%}
 <div class="sources-overview">
   <section class="src-kind" id="archival">
-    <h2>{{ t.sources_arch_h2 }}</h2>
+    <h2>{% include sources-icon.html kind="parchment" %}{{ t.sources_arch_h2 }}</h2>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.units | where_exp: "x", "x.listed_in != 'literature'" | size }} {{ t.sources_kind_holdings }}</dd></div>
     </dl>
@@ -28,7 +31,7 @@
   </section>
 
   <section class="src-kind" id="newspapers">
-    <h2>{{ t.sources_np_h2 }}</h2>
+    <h2>{% include sources-icon.html kind="newspaper" %}{{ t.sources_np_h2 }}</h2>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.newspapers | size }} {{ t.sources_kind_items }}</dd></div>
     </dl>
@@ -36,7 +39,7 @@
   </section>
 
   <section class="src-kind" id="literature">
-    <h2>{{ t.sources_lit_h2 }}</h2>
+    <h2>{% include sources-icon.html kind="book" %}{{ t.sources_lit_h2 }}</h2>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.literature | size | plus: lit_held_size }} {{ t.sources_kind_works }}</dd></div>
     </dl>
@@ -44,7 +47,7 @@
   </section>
 
   <section class="src-kind" id="maps">
-    <h2>{{ t.sources_maps_h2 }}</h2>
+    <h2>{% include sources-icon.html kind="map" %}{{ t.sources_maps_h2 }}</h2>
     <dl class="source-facts">
       <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.maps_list | size }} {{ t.sources_kind_maps }}</dd></div>
     </dl>
@@ -56,6 +59,8 @@
 .sources-overview { max-width: var(--measure); margin: 2rem 0 3rem; }
 .src-kind { border-top: 2px solid var(--rule); padding: 1.6rem 0 1.8rem; }
 .src-kind h2 { margin: 0; font-size: 1.35rem; }
+.src-icon { width: 1.3em; height: 1.3em; margin-right: .5em;
+            vertical-align: -0.22em; }
 .src-kind .source-facts { margin: .8rem 0 0; }
 .src-kind .source-go { font-family: var(--sans); font-size: .9rem; margin: .8rem 0 0; }
 </style>

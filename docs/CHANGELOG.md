@@ -4891,3 +4891,49 @@ footer on every page. Changed, in both languages:
   inlier count proves nothing about photometric correspondence; verify with
   patch NCC; suspect the VERSION when rotation is right and phase is
   wrong).
+
+## 2026-11-06: the Łukom 1766 re-backing — the map of record changed to the archive's JPG, and the site's Sources-page icons
+
+- **Łukom 1766's map of record changed to the archive's JPG as drawn**
+  (`1_407_0_0_283-29_0001.jpg`, 8,808 × 7,052; the editor's word: use it,
+  "not the rotated image"; "if that means I need to redo the labels, I
+  can"). The former record — the editor's north-up PNG they had
+  georeferenced on MapWarper 75552 — proved a DIFFERENT RASTER, not a
+  transform of the JPG: the full probe ladder failed photometric
+  verification at every rung (a SIFT full-affine lattice consensus at
+  171.2° with patch NCC 0.077, the Zagórów signature; whole-image rot180
+  peaks that were the two white margins correlating, content-only 0.088;
+  anisotropic rescale 0.066; centred unscaled paste 0.11; a local
+  discrepancy grid with 5 weak patches and no consistent offset; the five
+  GCP patches swept over all of the JPG at 72 angles × 3 scales with no
+  consistent angle or position, all NCC ≤ 0.46; all 8 dihedral
+  orientations under 0.09). The eleven marks of 2026-10-23 cannot carry
+  over: the PNG-era labels.yml, positions.yml and georef.yml are archived
+  in `maps/lukom1766/png-record/`, the register's `mapwarper` field is gone
+  (those points are in the PNG's pixels), the eleven crops cut from the PNG
+  are deleted, and the gazetteer's lukom1766 appearances had their label
+  links cleared (the forms and notes stay — the readings of 2026-10-23
+  stand). The register: original → the JPG, orientation south-up kept (the
+  map is drawn south-up), `view_rotation` 180 → 0 (the JPG's lettering
+  reads upright as drawn; the editor: the page shows the labels right side
+  up), `in_project: false` until the re-marking. The tiles re-cut (346
+  files, 14.9 MB) and live; georef.json removed; the map will georeference
+  from the editor's marks alone (empty georef.yml, the mark-only path like
+  zagorow1841) once they mark it; the labelling page serves the JPG
+  (10 to find).
+- **The sweep's own lesson**: its first run returned NCC 0.000 for every
+  GCP because its fft_ncc copy lacked the float32 casts of the working
+  version — with uint8 input the img*img integral overflowed, the local
+  variance went negative everywhere and the low-variance guard zeroed the
+  whole output; the self-match check (a template from the search image
+  must return ~1.0) distinguishes a broken correlator from a negative
+  result.
+- **Maps left the top navbar** (the editor: it is on the Sources page
+  already): the nav link and the i18n.yml keys (en, de) removed.
+- **The Sources page's four kinds carry vector icons** (the editor's
+  request: parchment, newspaper, book, map): a new partial
+  `site/_includes/sources-icon.html` draws them in the site's line-icon
+  idiom (fill none, stroke currentColor 1.1, round caps and joins, as in
+  source-thumb.html); each kind's heading includes it, and the page's
+  styles size it. The geometry rendered and checked before committing
+  (scratch/maps_bulk/sources_icons_check.html).

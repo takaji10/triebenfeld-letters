@@ -1019,6 +1019,20 @@ Twenty maps brought in at the editor's word in one sitting (the register's
 entries on the branch `maps-bulk-2026-11`; the labelling pages follow). The
 questions the batch leaves:
 
+- **Łukom 1766 re-backed onto the JPG — the editor's re-marking is the open
+  piece (2026-11-06)**: the map of record changed to the archive's JPG as
+  drawn (`1_407_0_0_283-29_0001.jpg`, the editor's word), which proved a
+  DIFFERENT RASTER from the north-up PNG they had georeferenced — no
+  rotation, mirror, scale or affine carries the eleven marks of 2026-10-23
+  across (the full probe ladder in maps/lukom1766/notes.md). The PNG-era
+  files are archived in `png-record/`, the readings and gazetteer decisions
+  stand, the tiles are re-cut and live, the labelling page serves the JPG
+  (10 to find) — the map waits for the editor's fresh marks on the JPG;
+  then import, the mark-only fit (empty georef.yml), `in_project: true`,
+  the pages rebuilt. The 2026-10-23-era site pieces (the viewer page, the
+  crops on place pages) are dropped by the builders until then
+  (`in_project: false`; the crops deleted, the gazetteer's label links
+  cleared — the forms stay).
 - **SETTLED 2026-11-06 (the editor's word: "use what I provided you in this
   conversation - the bibliographic-style references")**: the four dates
   follow the editor's references — **Blaeu ca. 1664** (the volume 1648-1665),

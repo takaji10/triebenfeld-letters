@@ -1140,15 +1140,28 @@ The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
       Conventûs Landensis* added; two-line names handled).
 - [x] Your bands set and the marks imported again (2026-10-23): eleven
       labels, all crops whole.
+- [ ] **You:** re-mark Łukom 1766 on the archive's JPG (2026-11-06, your
+      word: the JPG as drawn is the map, "not the rotated image") - the
+      labelling page http://localhost:8765/lukom1766/ serves it. The north-up
+      PNG you georeferenced proved a different raster (no transform carries
+      the old marks across; maps/lukom1766/notes.md), so the eleven marks of
+      2026-10-23 are archived with the PNG-era files and the map waits for
+      fresh marks; the readings and decisions of 2026-10-23 stand. Then the
+      import, the mark-only fit, `in_project: true`, the pages rebuilt.
 - [x] The warp test page checked by you (2026-10-23): the map lands in the
       right place, as well as a crude drawing allows. The pilot is done
       but for its pages on the site (with GAZETTEER_PLAN step 3); the next
       map at your choice, by docs/ADDING_A_MAP.md.
 - [x] The map's viewer page on the site and the crops on the place pages
       (2026-10-27, `docs/MAPS_SITE_PLAN.md`): Maps in the main navigation
-      (after Places; German Karten), a card per map in the edition, the
+      (after Places; German Karten — **left the navbar 2026-11-06, the
+      editor's word: it is on the Sources page already**), a card per map in
+      the edition, the
       viewer with the marks and the map's citation, and the links both ways
       - the place pages' "On the maps" and the index's "on Łukom 1766".
+- [x] The Sources page's four kinds carry vector icons (2026-11-06, the
+      editor's request: parchment, newspaper, book, map;
+      `site/_includes/sources-icon.html`).
 - [x] Kozłowski 1861 brought in (2026-10-30, your word; the plan of the
       Trąbczyn estate, APP 1/402/0/-/536-23, scale 1:20 000): tiles
       published, four MapWarper points (fit RMS 5.8 m), your 31 labels

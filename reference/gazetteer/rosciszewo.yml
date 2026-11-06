@@ -10,12 +10,7 @@ location:
   relative_to: lomow
   belongs_to: null
   precision: described
-text_en: Folwark which existed south of Łomów in the forest on the Łukom estate. Likely
-  named after the Rościszewski family. Around 1740, Jakub Rościszewski married Helena
-  Zielonacka who was the owner of the Łukom estate after the death of her spouse Józef
-  Ścibor-Chełmski.[^64] *Rosciszew* (Łukom 1766); *Rostrziczewo* (von Pfau 1770);
-  as part of the Łukom estate (Królików 1800); *Vorwerk Rosciszew* (Pambo 1803); *Roscisewo*
-  (Richter 1843).
+text_en: Folwark which existed south of Łomów in the forest on the Łukom estate. Likely named after the Rościszewski family. Around 1740, Jakub Rościszewski married Helena Zielonacka who was the owner of the Łukom estate after the death of her spouse Józef Ścibor-Chełmski.[^64] *Rosciszew* (Łukom 1766); *Rostrziczewo* (von Pfau 1770); as part of the Łukom estate (Królików 1800); *Vorwerk Rosciszew* (Pambo 1803); *Roscisewo* (Richter 1843).
 names:
 - form: Rosciszewo
   year: null
@@ -26,7 +21,6 @@ maps:
 - map: lukom1766
   form: Rosciszew
   note: null
-  label: lukom1766-017
 - map: vonpfau1770
   form: Rostrziczewo
   note: null

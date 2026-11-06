@@ -2,6 +2,21 @@
 # Per place of the gazetteer: the maps that show it, the appearances in date
 # order; absent items are not appearances and are not here (docs/MAPS_SITE_PLAN.md,
 # section 4).
+anielewo:
+  appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Ингельфингенъ
+    note: null
+    label: mapadrogi1890-030
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-030.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-030
 augustinow:
   appearances:
   - map: reymann1834
@@ -13,7 +28,19 @@ augustinow:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Августинувъ
+    note: null
+    label: mapadrogi1890-016
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-016.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-016
 bezslug:
   appearances:
   - map: gilly1802
@@ -58,21 +85,21 @@ biskupice-karczma:
     label: null
     crop: null
     refs: []
+  - map: pambo1803
+    cited_as: Pambo 1803
+    year: 1801
+    in_project: false
+    form: null
+    note: labelled as a tavern and field belonging to Biskupice [estate]
+    label: null
+    crop: null
+    refs: []
   - map: gilly1802
     cited_as: Gilly 1802
     year: 1802
     in_project: false
     form: Biskupicer Kr[ug]
     note: null
-    label: null
-    crop: null
-    refs: []
-  - map: pambo1803
-    cited_as: Pambo 1803
-    year: 1803
-    in_project: false
-    form: null
-    note: labelled as a tavern and field belonging to Biskupice [estate]
     label: null
     crop: null
     refs: []
@@ -91,15 +118,15 @@ budy:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Budy do Huty
     note: null
-    label: lukom1766-005
-    crop: /assets/maps/crops/lukom1766/lukom1766-005.jpg
+    label: null
+    crop: null
     refs: []
   - map: hollring1804
     cited_as: Hollring 1804
-    year: 1804
+    year: 1805
     in_project: false
     form: Budy Łukomskie
     note: null
@@ -115,6 +142,15 @@ budy:
     label: null
     crop: null
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Лукомские Буды
+    note: null
+    label: mapadrogi1890-028
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-028.jpg
+    refs: []
   - map: slupca1957
     cited_as: Słupca 1957
     year: 1957
@@ -125,9 +161,9 @@ budy:
     crop: null
     refs: []
   maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-005
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-028
 bukowe:
   appearances:
   - map: gilly1802
@@ -139,7 +175,19 @@ bukowe:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Букове
+    note: null
+    label: mapadrogi1890-018
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-018.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-018
 cygany:
   appearances:
   - map: krolikow1800
@@ -233,7 +281,19 @@ drzewce:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Джевце
+    note: null
+    label: mapadrogi1890-014
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-014.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-014
 drzezgi:
   appearances:
   - map: reymann1834
@@ -342,6 +402,15 @@ grabina:
     label: kozlowski1861-067
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-067.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Грабина
+    note: null
+    label: mapadrogi1890-032
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-032.jpg
+    refs: []
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     year: 1896
@@ -355,6 +424,9 @@ grabina:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-067
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-032
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     label: pelzucki1896-014
@@ -375,11 +447,11 @@ gradzyn:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Grązien
     note: null
-    label: lukom1766-007
-    crop: /assets/maps/crops/lukom1766/lukom1766-007.jpg
+    label: null
+    crop: null
     refs: []
   - map: perthees1798
     cited_as: Perthées 1798
@@ -401,7 +473,7 @@ gradzyn:
     refs: []
   - map: hollring1804
     cited_as: Hollring 1804
-    year: 1804
+    year: 1805
     in_project: false
     form: Haulanderei Grądzyn
     note: as part of the Kopojno estate
@@ -426,20 +498,17 @@ gradzyn:
     label: null
     crop: null
     refs: []
-  maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-007
+  maps_on_site: []
 huta-lukomska:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Huta
     note: null
-    label: lukom1766-009
-    crop: /assets/maps/crops/lukom1766/lukom1766-009.jpg
+    label: null
+    crop: null
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -468,10 +537,7 @@ huta-lukomska:
     label: null
     crop: null
     refs: []
-  maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-009
+  maps_on_site: []
 huta-trabczynska:
   appearances:
   - map: richter1843
@@ -540,11 +606,11 @@ imielno:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Dezerta Jemielno
     note: 'shown as deserted (the entry: "dezerta is Polish for an abandoned place")'
-    label: lukom1766-011
-    crop: /assets/maps/crops/lukom1766/lukom1766-011.jpg
+    label: null
+    crop: null
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -555,10 +621,7 @@ imielno:
     label: null
     crop: null
     refs: []
-  maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-011
+  maps_on_site: []
 jeziorko:
   appearances:
   - map: richter1843
@@ -642,6 +705,15 @@ kopojno:
     label: null
     crop: null
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Копойно
+    note: null
+    label: mapadrogi1890-062
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-062.jpg
+    refs: []
   - map: wreschen1901
     cited_as: Wreschen 1901
     year: 1901
@@ -651,7 +723,10 @@ kopojno:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-062
 kopojno-parcele:
   appearances:
   - map: slupca1957
@@ -693,7 +768,19 @@ kosciolkow:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Косьцёлковъ
+    note: null
+    label: mapadrogi1890-012
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-012.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-012
 koszelewska-laka:
   appearances:
   - map: gilly1802
@@ -801,6 +888,15 @@ lazinskie-oledry:
     label: kozlowski1861-011
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-011.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Лазинскіе Олендры
+    note: null
+    label: mapadrogi1890-038
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-038.jpg
+    refs: []
   - map: messtischblatt1940
     cited_as: Messtischblatt 1940
     year: 1940
@@ -814,6 +910,9 @@ lazinskie-oledry:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-011
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-038
 lazy-trabczyn:
   appearances:
   - map: vonpfau1770
@@ -843,20 +942,32 @@ lazy-trabczyn:
     label: kozlowski1861-043
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-043.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Лазы
+    note: null
+    label: mapadrogi1890-040
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-040.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-043
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-040
 lomow:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Lomaw
     note: null
-    label: lukom1766-013
-    crop: /assets/maps/crops/lukom1766/lukom1766-013.jpg
+    label: null
+    crop: null
     refs: []
   - map: vonpfau1770
     cited_as: von Pfau 1770
@@ -894,12 +1005,30 @@ lomow:
     label: null
     crop: null
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Ломувъ
+    note: null
+    label: mapadrogi1890-026
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-026.jpg
+    refs: []
   maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-013
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-026
 ludwigslust:
   appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Людвигслюстъ
+    note: null
+    label: mapadrogi1890-068
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-068.jpg
+    refs: []
   - map: messtischblatt1940
     cited_as: Messtischblatt 1940
     year: 1940
@@ -909,17 +1038,20 @@ ludwigslust:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-068
 lukom:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Lukom
     note: null
-    label: lukom1766-015
-    crop: /assets/maps/crops/lukom1766/lukom1766-015.jpg
+    label: null
+    crop: null
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -948,10 +1080,19 @@ lukom:
     label: null
     crop: null
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Лукомъ
+    note: null
+    label: mapadrogi1890-020
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-020.jpg
+    refs: []
   maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-015
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-020
 lukomskie-oledry:
   appearances:
   - map: perthees1798
@@ -996,7 +1137,19 @@ malgorzatow:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Малгожатовъ
+    note: null
+    label: mapadrogi1890-024
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-024.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-024
 maly:
   appearances:
   - map: reymann1834
@@ -1053,10 +1206,22 @@ mariantow:
     label: kozlowski1861-065
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-065.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Марьяновъ
+    note: null
+    label: mapadrogi1890-054
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-054.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-065
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-054
 michalinow-oledry:
   appearances:
   - map: slupetsk1800
@@ -1095,6 +1260,15 @@ michalinow-oledry:
     label: kozlowski1861-015
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-015.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Олендры Михалиново
+    note: null
+    label: mapadrogi1890-034
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-034.jpg
+    refs: []
   - map: messtischblatt1940
     cited_as: Messtischblatt 1940
     year: 1940
@@ -1108,6 +1282,9 @@ michalinow-oledry:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-015
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-034
 michalinow-olesnicki:
   appearances:
   - map: reymann1834
@@ -1119,17 +1296,29 @@ michalinow-olesnicki:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Эмилиенгейм
+    note: null
+    label: mapadrogi1890-044
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-044.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-044
 myszakow:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Myszaków
     note: null
-    label: lukom1766-023
-    crop: /assets/maps/crops/lukom1766/lukom1766-023.jpg
+    label: null
+    crop: null
     refs: []
   - map: vonpfau1770
     cited_as: von Pfau 1770
@@ -1139,6 +1328,15 @@ myszakow:
     note: null
     label: null
     crop: null
+    refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Мышаковъ
+    note: null
+    label: mapadrogi1890-022
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-022.jpg
     refs: []
   - map: wreschen1901
     cited_as: Wreschen 1901
@@ -1150,9 +1348,9 @@ myszakow:
     crop: null
     refs: []
   maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-023
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-022
 myszakowek:
   appearances:
   - map: perthees1798
@@ -1212,10 +1410,22 @@ nowawies-trabczyn:
     label: kozlowski1861-037
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-037.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Нова Весь
+    note: null
+    label: mapadrogi1890-046
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-046.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-037
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-046
 olchowo:
   appearances:
   - map: reymann1834
@@ -1227,7 +1437,19 @@ olchowo:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Софиенталь
+    note: null
+    label: mapadrogi1890-070
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-070.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-070
 olesnica:
   appearances:
   - map: gilly1802
@@ -1248,6 +1470,15 @@ olesnica:
     label: null
     crop: null
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Олесьница
+    note: null
+    label: mapadrogi1890-066
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-066.jpg
+    refs: []
   - map: hohensalza1942
     cited_as: Hohensalza 1942
     year: 1942
@@ -1257,7 +1488,10 @@ olesnica:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-066
 olesnica-folwark:
   appearances:
   - map: slupca1957
@@ -1299,10 +1533,22 @@ osiny:
     label: kozlowski1861-039
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-039.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Осины
+    note: null
+    label: mapadrogi1890-042
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-042.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-039
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-042
 ostrowiec:
   appearances:
   - map: weydner1804
@@ -1317,6 +1563,15 @@ ostrowiec:
   maps_on_site: []
 podbiel:
   appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Подбель
+    note: null
+    label: mapadrogi1890-052
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-052.jpg
+    refs: []
   - map: wreschen1901
     cited_as: Wreschen 1901
     year: 1901
@@ -1326,7 +1581,10 @@ podbiel:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-052
 porabki:
   appearances:
   - map: kozlowski1861
@@ -1362,10 +1620,19 @@ przybyslaw:
     label: kozlowski1861-041
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-041.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Пржибыславъ
+    note: null
+    label: mapadrogi1890-056
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-056.jpg
+    refs: []
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
-    in_project: false
+    in_project: true
     form: null
     note: similarly on
     label: null
@@ -1375,6 +1642,12 @@ przybyslaw:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-041
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-056
+  - map: pelzucki1901
+    cited_as: Pełzucki 1901
+    label: null
 przycierz:
   appearances:
   - map: kozlowski1861
@@ -1390,16 +1663,31 @@ przycierz:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-019
+pyzdry:
+  appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Пиздры
+    note: null
+    label: mapadrogi1890-076
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-076.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-076
 rosciszewo:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Rosciszew
     note: null
-    label: lukom1766-017
-    crop: /assets/maps/crops/lukom1766/lukom1766-017.jpg
+    label: null
+    crop: null
     refs: []
   - map: vonpfau1770
     cited_as: von Pfau 1770
@@ -1421,7 +1709,7 @@ rosciszewo:
     refs: []
   - map: pambo1803
     cited_as: Pambo 1803
-    year: 1803
+    year: 1801
     in_project: false
     form: Vorwerk Rosciszew
     note: null
@@ -1437,10 +1725,7 @@ rosciszewo:
     label: null
     crop: null
     refs: []
-  maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-017
+  maps_on_site: []
 rydlowa-gora:
   appearances:
   - map: messtischblatt1940
@@ -1510,6 +1795,21 @@ skokamskie-oledry:
     crop: null
     refs: []
   maps_on_site: []
+skokum:
+  appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Скокумъ
+    note: null
+    label: mapadrogi1890-064
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-064.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-064
 smoleniec:
   appearances:
   - map: perthees1798
@@ -1560,11 +1860,11 @@ stawisko:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Brod Kaliski
     note: the swamp crossing west of Stawisko, not Stawisko itself
-    label: lukom1766-019
-    crop: /assets/maps/crops/lukom1766/lukom1766-019.jpg
+    label: null
+    crop: null
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -1585,20 +1885,17 @@ stawisko:
     label: null
     crop: null
     refs: []
-  maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-019
+  maps_on_site: []
 studzianka:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: true
+    in_project: false
     form: Studzienka
     note: null
-    label: lukom1766-021
-    crop: /assets/maps/crops/lukom1766/lukom1766-021.jpg
+    label: null
+    crop: null
     refs: []
   - map: pelzucki1896
     cited_as: Pełzucki 1896
@@ -1610,9 +1907,6 @@ studzianka:
     crop: /assets/maps/crops/pelzucki1896/pelzucki1896-006.jpg
     refs: []
   maps_on_site:
-  - map: lukom1766
-    cited_as: Łukom 1766
-    label: lukom1766-021
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     label: pelzucki1896-006
@@ -1666,10 +1960,22 @@ szetlewek:
     label: kozlowski1861-030
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-030.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Шетлевекъ
+    note: null
+    label: mapadrogi1890-058
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-058.jpg
+    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-030
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-058
 tarczewo:
   appearances:
   - map: reymann1834
@@ -1712,11 +2018,26 @@ tarszew-mlyn:
     crop: null
     refs: []
   maps_on_site: []
+tarszewo:
+  appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Фридрихсфельдъ
+    note: null
+    label: mapadrogi1890-072
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-072.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-072
 trabczyn:
   appearances:
   - map: blaeu1665
     cited_as: Blaeu 1665
-    year: 1665
+    year: 1664
     in_project: false
     form: Trąmbczino
     note: null
@@ -1759,14 +2080,23 @@ trabczyn:
     label: kozlowski1861-045
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-045.jpg
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Тромбчинъ
+    note: null
+    label: mapadrogi1890-050
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-050.jpg
+    refs: []
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
-    in_project: false
-    form: null
+    in_project: true
+    form: Тромбчинъ
     note: In the early 20th century, Trąbczyn was surrounded by a folwark with the same name as the town
-    label: null
-    crop: null
+    label: pelzucki1901-003
+    crop: /assets/maps/crops/pelzucki1901/pelzucki1901-003.jpg
     refs: []
   - map: hohensalza1942
     cited_as: Hohensalza 1942
@@ -1781,6 +2111,12 @@ trabczyn:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-045
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-050
+  - map: pelzucki1901
+    cited_as: Pełzucki 1901
+    label: pelzucki1901-003
 trabczyn-dworski:
   appearances:
   - map: richter1843
@@ -1798,25 +2134,31 @@ trabczyn-f:
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
-    in_project: false
-    form: null
+    in_project: true
+    form: Тромбчинъ Ф
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: pelzucki1901-008
+    crop: /assets/maps/crops/pelzucki1901/pelzucki1901-008.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: pelzucki1901
+    cited_as: Pełzucki 1901
+    label: pelzucki1901-008
 trabczyn-g:
   appearances:
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
-    in_project: false
-    form: null
+    in_project: true
+    form: Тромбчинъ Г
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: pelzucki1901-006
+    crop: /assets/maps/crops/pelzucki1901/pelzucki1901-006.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: pelzucki1901
+    cited_as: Pełzucki 1901
+    label: pelzucki1901-006
 trabczynskie-nowe-oledry:
   appearances:
   - map: gilly1802
@@ -1981,7 +2323,7 @@ wlodzimirow:
   - map: pelzucki1901
     cited_as: Pełzucki 1901
     year: 1901
-    in_project: false
+    in_project: true
     form: Kolonia Włodzimirów
     note: null
     label: null
@@ -1991,6 +2333,9 @@ wlodzimirow:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-059
+  - map: pelzucki1901
+    cited_as: Pełzucki 1901
+    label: null
 wlodzimirow-obreb:
   appearances:
   - map: kozlowski1861
@@ -2062,7 +2407,19 @@ wrabczyn:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Вромбчинъ
+    note: null
+    label: mapadrogi1890-004
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-004.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-004
 wrabczyn-gorski:
   appearances:
   - map: slupca1957
@@ -2086,6 +2443,15 @@ wrabczynek:
     label: null
     crop: null
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Вромбчинекъ
+    note: null
+    label: mapadrogi1890-010
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-010.jpg
+    refs: []
   - map: wreschen1901
     cited_as: Wreschen 1901
     year: 1901
@@ -2095,7 +2461,10 @@ wrabczynek:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-010
 wrabczynkowskie-holendry:
   appearances:
   - map: perthees1798
@@ -2107,7 +2476,28 @@ wrabczynkowskie-holendry:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Вромбчинъ
+    note: null
+    label: mapadrogi1890-008
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-008.jpg
+    refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Вромбчинковские Голендры
+    note: null
+    label: mapadrogi1890-074
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-074.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-008
 wygoda:
   appearances:
   - map: richter1843
@@ -2179,6 +2569,15 @@ zagorowo:
     label: null
     crop: null
     refs: []
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Загорувъ
+    note: null
+    label: mapadrogi1890-002
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-002.jpg
+    refs: []
   - map: hohensalza1942
     cited_as: Hohensalza 1942
     year: 1942
@@ -2188,7 +2587,10 @@ zagorowo:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-002
 zagorowskie-oledry:
   appearances:
   - map: gilly1802
@@ -2201,6 +2603,21 @@ zagorowskie-oledry:
     crop: null
     refs: []
   maps_on_site: []
+zalesie:
+  appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Адольфсбергъ
+    note: null
+    label: mapadrogi1890-048
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-048.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-048
 zwierzyniec:
   appearances:
   - map: kozlowski1861
