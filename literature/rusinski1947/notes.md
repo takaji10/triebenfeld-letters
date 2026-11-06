@@ -490,3 +490,30 @@ The annex column parse (annex_cells.json, residuals <= 0.009, RULES_
 SHEET.html for eyeball check) is available; the draft keeps the
 editor-reviewed raw-row rendering (the dim dash-cells OCR as junk - a
 cell-table rendering would need hundreds of spot answers).
+
+
+## Editor rulings applied (the post-QA round)
+
+1. The systemic l->I artifact: NORMALIZED. compose.py now runs a
+   final pass restoring the print's sigla: KI.->Kl. (62), OIL->Ol.
+   (11), OI.->Ol. (376) - word-boundary guarded, single-letter Roman
+   numerals untouched.
+2. The 'Tp. 72' body citation (p. 26 note 2): marked per the editor's
+   convention - 'Tp. 72 [sic; TKS. 72]' (the [sic] plus the correction
+   in square brackets; TKS. 72 = the 1772 wypis, Wykaz p. VI).
+3. The small Wykaz uncertainties (Tp./TV siglum, T 1769, Tb.,
+   sartawicko-noteckiej, wizytacyj inflection, Gebhardt's stray nr):
+   no editor action needed - transcribed per the print reads already
+   taken; they stay as-is.
+4. ANEKS I NOW RENDERS AS REAL MARKDOWN TABLES (the editor's ruling;
+   replaces the raw-row compromise). Pipeline: annex_cells.py (rule
+   ladders, template fit generalized - every detection pair x every
+   template pair, so sheets with a faint outer rule like 0152 pair
+   correctly) -> annex_md.py (per-cell PIXEL classification: EMPTY /
+   DASH / TEXT - the print's dash is ~70x8px, killing the junk OCR on
+   the dim dash cells; text cells hyphen-joined and cleaned) ->
+   compose.py renders one Markdown table per sheet (the print repeats
+   its header on every sheet; the transcription follows). Known
+   residue: the prose cells (Zrodlo/Data columns) carry OCR noise
+   (e.g. 'AW. B.99--GU' for 'AW. B. 99-60') - the numeric/name columns
+   are clean; spot answers welcome on suspicious prose cells only.

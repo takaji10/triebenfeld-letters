@@ -552,7 +552,7 @@ Pogląd ten jednak zupełnie słusznie uznany został za nieuzasadniony, gdyż t
 
 Osadnictwo „olęderskie” nie było jedyną formą osadnictwa w Wielkopolsce w czasach nowożytnych. Hładyłowicz[^8-4] wszystkie osady powstałe w tych czasach dzieli na: holendry, budy, huty, hamry 1 kuźnice, wsie sołtysie i kolonie, osady leśne i inne. Stąd jako pierwsze i najważniejsze zadanie pracy nasuwa się konieczność określenia, co należy rozumieć pod osadami „olęderskimi” na obszarze dawnego województwa pozneńskiego i czym różniły się te osedy od osad pozostałych. Rozróżnienie takie potrzebne jest tym więcej, że prócz znacznej liczby osad, o których wszystkie źródła piszą zgodnie, jako o „olędrach”, istniała pewna liczba takich osad, których charakter w przekazach źródłowych występuje niejasno; wreszcie takich, które przez pewne źródła, wykazy miejscowości czy też mapy zakwalifikowane są błędnie jako „olęderskie”, mimo że z właściwymi osadami typu „,olęderskiego”
 
-[^8-1]: Por. daty przypisu poprzedniego. Niczupelnie z tym zgadza się użyty w przywileju dla Olędrów Radoszkowskich z r. 1781 (Rel. Cost. nr 215, s. 351) zwrot: „,„Haulendry Ra- doszkowscy”, będący niewątpliwie echem niemieckiego „,„Hauliinder”, co zdaje się oznaczać, że ostatni termin był już wówczas w użyciu nie tylko urzędowym. Zupelne wyjątkowo, pod niewątpliwym wpływem terminologii niemieckiej spotyka się w tekstach polskich wyraz. „nolendry”” w znaczeniu wykarczowanych ról (Haulinder). Tak np. w przywileju z r. 1793. dla "Tomasza Galasa z Nowych Ł.oskońskich OI. (AW. B. 367) czytamy: „Gospodarstwo pewne, czyh raczej Hollendry w boru dlugoślińskim leżące, przysposobione niegdyś paleniem: potasiów 1 rudowaniem... w sąsiedztwie drugich Holendrów po lewej stroni:: bedace, i tako- wcgoż pochodzenia... kazałyśmy rozmierzyć...”. |
+[^8-1]: Por. daty przypisu poprzedniego. Niczupelnie z tym zgadza się użyty w przywileju dla Olędrów Radoszkowskich z r. 1781 (Rel. Cost. nr 215, s. 351) zwrot: „,„Haulendry Ra- doszkowscy”, będący niewątpliwie echem niemieckiego „,„Hauliinder”, co zdaje się oznaczać, że ostatni termin był już wówczas w użyciu nie tylko urzędowym. Zupelne wyjątkowo, pod niewątpliwym wpływem terminologii niemieckiej spotyka się w tekstach polskich wyraz. „nolendry”” w znaczeniu wykarczowanych ról (Haulinder). Tak np. w przywileju z r. 1793. dla "Tomasza Galasa z Nowych Ł.oskońskich Ol. (AW. B. 367) czytamy: „Gospodarstwo pewne, czyh raczej Hollendry w boru dlugoślińskim leżące, przysposobione niegdyś paleniem: potasiów 1 rudowaniem... w sąsiedztwie drugich Holendrów po lewej stroni:: bedace, i tako- wcgoż pochodzenia... kazałyśmy rozmierzyć...”. |
 [^8-2]: Beheim-Schwarzbach, Hohenzollernsche Colonisationen, s. 123-- 4. Schmidt, Geschichte, s. 392; Maas, Haulindercien, s. 200; Baranowski, Wsie holenderskie, s. 70: Schmitz, Geschichte, s. 151.
 [^8-3]: Kremmer u. Dalchow, Die Provinz Posen, s. 50; Schitze, Das Posener Land, s. 279.
 [^8-4]: Zmiany krajobrazu, s. 86.
@@ -587,8 +587,8 @@ Należy jeszcze rozpatrzyć kwestię, czy istota osadnictwa olęderskiego na obs
 1 opartego na równości wszystkich członków gminy stosunku do pana, bądź przez zanik równouprawnienia olędrów w gminie na korzyść sołtysa. Pierwszy przypadek miał miejsce zwłaszcza wtedy, gdy poszczególni olędrzy rozliczali się odrębnie z panem z tytułu uprzedniego przyorania nowych, przywilejem nie objętych gruntów, lub uzyskiwali indywidualnie zgodę na przyszłe użytkowanie części gruntów dworskich[^11-1]. Natomiast zwiększenie osady przez utworzenie i przyłączenie do niej nowych gospodarstw nie powodowało zróżnicowania w gminie. Zwykle bowiem w tych wypadkach przywilej zawierał formułkę zezwalającą na przyłączenie się do gminy nowych osadników, oczywiście za zgodą pańską[^11-2], lub też pan wydawał nowy wspólny przywilej dla wszystkich członków gminy[^11-3]. Zagadnienie osadnictwa olęderskiego formalnie przestaje istnieć z chwilą wprowadzenia przez Prusy jednolitego samorządu gminnego i regulacji stosunków wiejskich przeprowadzonej na mocy ustawy z 1823. Lata więc regulacji stanowią dolną granicę r. chronologiczną niniejszej pracy.
 
 [^11-1]: Wypadki takie były szczególnie częste w osadach należących do majętności wieleńskiej.
-[^11-2]: Rel. Cost. nr 155, r. 1719—20, fol. 144, Tarnowa: „Na przyszłe czasy, gdyby Hollen- der którykolwiek prócz teraźniejszych chciał się osadzać na tychże gruntach, tedy to za wla- domością i pańską wolą dziać się ma”. Rel. Posn. nr 643, r. 1792, fol. 94, Sękowo OIL.: ,,Je- żeliby nowy obywatel miał sobie wyprawiać grunty, tedy na tym przywileju na brzegu pisane imiona być będą powinni”.
-[^11-3]: Por. przywileje dla Nowych (Wielkokrobielewskich) i Gębickich OI. w aneksie I.
+[^11-2]: Rel. Cost. nr 155, r. 1719—20, fol. 144, Tarnowa: „Na przyszłe czasy, gdyby Hollen- der którykolwiek prócz teraźniejszych chciał się osadzać na tychże gruntach, tedy to za wla- domością i pańską wolą dziać się ma”. Rel. Posn. nr 643, r. 1792, fol. 94, Sękowo Ol..: ,,Je- żeliby nowy obywatel miał sobie wyprawiać grunty, tedy na tym przywileju na brzegu pisane imiona być będą powinni”.
+[^11-3]: Por. przywileje dla Nowych (Wielkokrobielewskich) i Gębickich Ol. w aneksie I.
 
 [p. 12]
 
@@ -600,7 +600,7 @@ Najstarszy zachowany przywilej lokacyjny z terenu dawnego województwa poznańsk
 [^12-1]: Geschichte, s. 323.
 [^12-2]: Według cytowanej przez $chulza W. (Die zweite deutsche Ostsiedlung, s. 140) wzmianki w aktach procesowych zamku wieleńskiego, osada ta lokowana została przywilejem z 3. 3. 1614 r.
 [^12-3]: Dokładnej daty nie można ustalić, gdyż odnośne przywileje lokacyjne nie docho- wały się.
-[^12-4]: Por. aneks I b. Według Wernera-Steffani”ego (Geschichte der evangelischen Paro- chicen, s. 372) w r. 1619, a więc przed tą datą zostały założone OI. Świniary. Autor nie podał Jednak, z Jakiego źródła przejął tę wiadomość.
+[^12-4]: Por. aneks I b. Według Wernera-Steffani”ego (Geschichte der evangelischen Paro- chicen, s. 372) w r. 1619, a więc przed tą datą zostały założone Ol. Świniary. Autor nie podał Jednak, z Jakiego źródła przejął tę wiadomość.
 
 [p. 13]
 
@@ -614,17 +614,17 @@ Po założeniu wspomnianych osad następuje okres chwilowej przerwy. Działalno�
 
 
 
-[^14-1]: Podaną cyfrę trudno skontrolować, gdyż autor sporządził zestawienie w sposób bardzo niejasny. W jednym miejscu podaje, że dana osada odpowiada innej, gdzieindziej znowu pisze: ,„patrz” osadę inną, lub nawet: ,,czy identyczna”? z osadą inną? Tak samo nie wiadomo, czy autor w wypadku, gdy wieś np. składała się z trzech części noszących również własne odrębne nazwy, liczył ją za 3 czy za 4 wsi (np. Szamocińskie OI.; tu zresztą autor popełnił omyłkę, gdyż kolonie Antoniny i Atanazyn nigdy częścią Szamocińskich OI. nie były, a za- łożone zostały dopiero około roku 1820 w wyniku akcji germanizacyjnej na zabranych zie- miach). Zaliczanie kolonii powstałych w czasach pruskich do osad olęderskich jest oczywi- stym błędem, gdyż koloniom tym brakowało cech charakteryzujących to osadnictwo (rząd czy inny przedsiębiorca werbował poszczególnych kolonistów, a cała osada była tworem pla- nowym tegoż przedsiębiorcy).
-[^14-2]: Np. Dąbrowo OI. (na granicy pow. pyzdrskiego; u autora Jako Dąbrowo i jako. Grodzewo), Grabowiec Ol. (jako Birkwerder i jako Bzower Hld; autor zresztą sam przyznaje się do pomyłki, ale już poza tekstem), Lubaskie OI. (jako Lubascher Hld. i jako Miłkówko Hild.), Łoskońskie Stare OI. (jako Alt Laskun i jako Gozdowiec), Obra (albo Nowe albo Stare Ober- skie Ol.), Olszewniak (jako Olszewniak i jako Chmielowo), Pietronki (jako Miren Hld. i jako Pietronke), Wymślanka (jako Wymyslanke 1 jako Maschlanke). Niektóre osady autor liczył nawet potrójnie, np. Mechnacz (u autora osobno Rozbitek, Mechnacz, Urbanówko; OI. Mechnacz zwano niekiedy Urbanówkiem wskutek tego, że lokowano je (w r. 1784) również na części opuszczonych ról Urbanówka), lub Szarki OI. Błędnie za Schmidtem cytuje autor Głuchowo. Znajdujący się w aktach wiejskich dokument A. 1, do teczki Głuchowo w pow. szamotulskim zaliczony został przez pomyłkę, a odnosi się do Głuchowa w parafii Goraj. Nie jest też wcale dokumentem lokacyjnym, lecz odpisem wyroku sądu patrymonialnego z r. 1741. W tym czasie w parafii istniały OI. Róża (zał. 1024) i według wszelkiego prawdopo- dobieństwa wspomniany dokument dotyczy tej właśnie osady. Podane przez autora Fitzen Hid. i Frey Hld. stanowią części Pącheńskich OIl., samodzielnych gmin nie tworzyły; obie: nazwy w źródłach z czasów polskich nie figurują. W skład OI. Glinki wchodziły dwa domy oznaczone na MGd jako Sątop OI. (u autora Hollendry) ; brak danych, że gospodarstwa te istniały już w czasach polskich. Nazwa Jabłonka Nowa (Neu Jablonke) występuje po raz pierwszy dopiero w wykazie z r. 1845 (1843). Chodzi tu zapewne o część Nowosileńskich OI. wzgl. o zupełnie nową osadę. Stara wieś Wierzchabno z Ol. Strychowskimi nie ma nic wspól- nego. Nie mogła być ich częścią chociażby ze względu na swe położenie w stosunku do olędrów. Nazwa Goraj OI. odnosi się do jednej z osad należących do majętności Goraj, albo też rozu- miane są pod nią wszystkie osady majętności gorajskiej.
+[^14-1]: Podaną cyfrę trudno skontrolować, gdyż autor sporządził zestawienie w sposób bardzo niejasny. W jednym miejscu podaje, że dana osada odpowiada innej, gdzieindziej znowu pisze: ,„patrz” osadę inną, lub nawet: ,,czy identyczna”? z osadą inną? Tak samo nie wiadomo, czy autor w wypadku, gdy wieś np. składała się z trzech części noszących również własne odrębne nazwy, liczył ją za 3 czy za 4 wsi (np. Szamocińskie Ol.; tu zresztą autor popełnił omyłkę, gdyż kolonie Antoniny i Atanazyn nigdy częścią Szamocińskich Ol. nie były, a za- łożone zostały dopiero około roku 1820 w wyniku akcji germanizacyjnej na zabranych zie- miach). Zaliczanie kolonii powstałych w czasach pruskich do osad olęderskich jest oczywi- stym błędem, gdyż koloniom tym brakowało cech charakteryzujących to osadnictwo (rząd czy inny przedsiębiorca werbował poszczególnych kolonistów, a cała osada była tworem pla- nowym tegoż przedsiębiorcy).
+[^14-2]: Np. Dąbrowo Ol. (na granicy pow. pyzdrskiego; u autora Jako Dąbrowo i jako. Grodzewo), Grabowiec Ol. (jako Birkwerder i jako Bzower Hld; autor zresztą sam przyznaje się do pomyłki, ale już poza tekstem), Lubaskie Ol. (jako Lubascher Hld. i jako Miłkówko Hild.), Łoskońskie Stare Ol. (jako Alt Laskun i jako Gozdowiec), Obra (albo Nowe albo Stare Ober- skie Ol.), Olszewniak (jako Olszewniak i jako Chmielowo), Pietronki (jako Miren Hld. i jako Pietronke), Wymślanka (jako Wymyslanke 1 jako Maschlanke). Niektóre osady autor liczył nawet potrójnie, np. Mechnacz (u autora osobno Rozbitek, Mechnacz, Urbanówko; Ol. Mechnacz zwano niekiedy Urbanówkiem wskutek tego, że lokowano je (w r. 1784) również na części opuszczonych ról Urbanówka), lub Szarki Ol. Błędnie za Schmidtem cytuje autor Głuchowo. Znajdujący się w aktach wiejskich dokument A. 1, do teczki Głuchowo w pow. szamotulskim zaliczony został przez pomyłkę, a odnosi się do Głuchowa w parafii Goraj. Nie jest też wcale dokumentem lokacyjnym, lecz odpisem wyroku sądu patrymonialnego z r. 1741. W tym czasie w parafii istniały Ol. Róża (zał. 1024) i według wszelkiego prawdopo- dobieństwa wspomniany dokument dotyczy tej właśnie osady. Podane przez autora Fitzen Hid. i Frey Hld. stanowią części Pącheńskich OIl., samodzielnych gmin nie tworzyły; obie: nazwy w źródłach z czasów polskich nie figurują. W skład Ol. Glinki wchodziły dwa domy oznaczone na MGd jako Sątop Ol. (u autora Hollendry) ; brak danych, że gospodarstwa te istniały już w czasach polskich. Nazwa Jabłonka Nowa (Neu Jablonke) występuje po raz pierwszy dopiero w wykazie z r. 1845 (1843). Chodzi tu zapewne o część Nowosileńskich Ol. wzgl. o zupełnie nową osadę. Stara wieś Wierzchabno z Ol. Strychowskimi nie ma nic wspól- nego. Nie mogła być ich częścią chociażby ze względu na swe położenie w stosunku do olędrów. Nazwa Goraj Ol. odnosi się do jednej z osad należących do majętności Goraj, albo też rozu- miane są pod nią wszystkie osady majętności gorajskiej.
 
 [p. 15]
 
 
 W broszurze Uber Ursprung und Verbreitung des Deuischtums im Grossherzogihum Posen, wydanej 1849 (s. 34), liczba osad olęderskich na w r. obszarze Wielkopolski określona została 400. Cyfrę tę podawali na 1 późniejsi autorzy. W ostatnich czasach zakresie statystyki osad samodzielne próby poczynili Hładyłowicz i Maas. Pierwszy w pracy o <mianach krajobrazu t rozwoju osadnictwa w Wielkopolsce od XIV —XIX w. wyliczył dla: powiatu kościańskiego 64, a dla powiatu poznańskiego 133 miejscowości. Autor pisze, że są to osady z w. XVI i XVII, co jednak należy tłumaczyć omyłką, być może drukarską, gdyż na przykład w powiecie kościańskim we wszystkich wypadkach nam znanych osady datują się z w. XVIII i ten też wiek autor niewątpliwie miał na myśli. Cyfry powyższe nie dosięgają faktycznej liczby osiedli. Różnice te jednak stają się mniejsze, jeśli weźmiemy pod uwagę, że część osad została u Hładyłowicza zaliczona do osiedli innych typów. Do zupełnie innych wyników co do liczby osad doszedł Maas Die Posener Hauldnw pracy dereien (DWZP, 34), uzupełnionej w 1941 artykułem: Weitere Posener r. Hauldndereten (DWZW, 2). Autor ten, o czym będzie później, mowa doszedł do przeświadczenia, że conajmniej 75% mieszkańców osad olęderskich należało do narodowości niemieckiej 1. W interesie więc tej narodowości dołożył wszelkich starań, aby liczbę osad możliwie zwiększyć. W tym celu, niezależnie od swych długich i szczegółowych wywodów na temat, które osady należy, a które nie należy uważać za olęderskie, z różnych wykazów miejscowości oraz map wynotował wszystkie osiedla z dodatkiem „olędry”, lub określeń równoznacznych i zaliczył je wszystkie do osad olęderskich. Takim sposobem doszedł do cyfry 832 miejscowości, czyli, jak pisze, udało mu się podawaną dotąd liczbę osad podwoić[^14-1]. Wprawdzie autor zastrzega się, Że niektóre z wymienionych przez niego miejscowości mogą należeć do osiedli innych typów, a niektóre inne mógł liczyć podwójnie, „ale to wszystko nie wynosi znowu zbyt wiele”. W rzeczywistości liczba. osad na terenie Wielkopolski wynosi około 550, a zatem na pomyłki autora wypada !/, wyprowadzonej przez niego liczby. Pomyłki te są nawet znaczniejsze, gdyż autor, nie przeprowadziwszy badań źródłowych, mimo najlepszych chęci, szereg osad olęderskich przeoczył. Błędy autora polegają najczęściej na podwójnym liczeniu niektórych wsi[^14-2], na doliczaniu osad, które nigdy nie istniały 1, wreszcie na zaliczaniu do olęderskich osed innego typu?. |
 
-Aby zestawienie osad olęderskich miało jakąkolwiek wartość, trzeba przed tym, ustaliwszy wpierw odpowiednie kryteria, przeprowadzić odniesieniu do każdej z osobna miejscowości opracowywanego terytorium badania, mające na celu ustalenie, czy dare osiedle należy do typu olęderskiego. Takie kryteria podaliśmy w rozdziale poprzednim. Na ich podstawie sporządzony został podany w aneksie wykaz osad olęderskich istniejących na terenie dawnego województwa poznańskiego 1 Np. Rajewskie lub Wyszyńskie Ol., podane błędnie już Schulza W. też zresztą przez (Die zw. d. Ostsiedlung). 'Tą ostatnią nazwą oznaczano zbiorowo osady należące do majętności wyszyńskiej, mian. Raczyńskie, Filipowo i Józefowo Ol., czasem również Hutę Ol. Prócz innych źródeł dokładnie wykazuje to MGd. Tak samo nie istniały Kicińskie Ol. (=: Kliny, Czerwonak i Janikowo OI.), Ćmak OL., Dronniki Ol., Koninko Ol., Smolarnia, Trocken Hld. (przy Kamińskich OI.) % Przykładem tu może być Chojno pod Wronkami. W rzeczywistości jest to stara polska wieś zaciężna; osadami olęderskimi nigdy nie miała nic wspólnego, a oznaczenie jej na MG jako olędry nastąpiło przez_ oczywistą pomyłkę (por. AGH sąd Wronki, majętn. Chojno, Generalia fol. 38). Autor do olędrów zalicza cały szereg takich wsi, m. i.: Chudopsice, Grzebienisko, Jaroszewo, " Jezierze, Krobielewko (Klein Krebbel), Samołęż, Stajkowo, Sławienko, dalej kilka wsi czynszowych lokowanych na prawie niemieckim (tzw. wsie sołtysie) ; wymienimy tutaj chociażby Gościejewo, Podlesie, Turowskie OI., Ta ostatnia osada w niektórych źródłach mylnie jest oznaczona jako olędry; siedziało tutaj 3 osadników za indywidualnymi, odrębnymi przywilejami (z lat 1771, 1778 i 1781), obowiązywały ich także zupełnie odrębne powinności. (Por. AGH sąd Pniewy, majętn. Turowo, vol. I, fol. 188—9). Jako olędry figurują u Maasa również folwarki (np. Mokre wzgl. Mokrz), osiedla młyńskie
+Aby zestawienie osad olęderskich miało jakąkolwiek wartość, trzeba przed tym, ustaliwszy wpierw odpowiednie kryteria, przeprowadzić odniesieniu do każdej z osobna miejscowości opracowywanego terytorium badania, mające na celu ustalenie, czy dare osiedle należy do typu olęderskiego. Takie kryteria podaliśmy w rozdziale poprzednim. Na ich podstawie sporządzony został podany w aneksie wykaz osad olęderskich istniejących na terenie dawnego województwa poznańskiego 1 Np. Rajewskie lub Wyszyńskie Ol., podane błędnie już Schulza W. też zresztą przez (Die zw. d. Ostsiedlung). 'Tą ostatnią nazwą oznaczano zbiorowo osady należące do majętności wyszyńskiej, mian. Raczyńskie, Filipowo i Józefowo Ol., czasem również Hutę Ol. Prócz innych źródeł dokładnie wykazuje to MGd. Tak samo nie istniały Kicińskie Ol. (=: Kliny, Czerwonak i Janikowo Ol.), Ćmak OL., Dronniki Ol., Koninko Ol., Smolarnia, Trocken Hld. (przy Kamińskich Ol.) % Przykładem tu może być Chojno pod Wronkami. W rzeczywistości jest to stara polska wieś zaciężna; osadami olęderskimi nigdy nie miała nic wspólnego, a oznaczenie jej na MG jako olędry nastąpiło przez_ oczywistą pomyłkę (por. AGH sąd Wronki, majętn. Chojno, Generalia fol. 38). Autor do olędrów zalicza cały szereg takich wsi, m. i.: Chudopsice, Grzebienisko, Jaroszewo, " Jezierze, Krobielewko (Klein Krebbel), Samołęż, Stajkowo, Sławienko, dalej kilka wsi czynszowych lokowanych na prawie niemieckim (tzw. wsie sołtysie) ; wymienimy tutaj chociażby Gościejewo, Podlesie, Turowskie Ol., Ta ostatnia osada w niektórych źródłach mylnie jest oznaczona jako olędry; siedziało tutaj 3 osadników za indywidualnymi, odrębnymi przywilejami (z lat 1771, 1778 i 1781), obowiązywały ich także zupełnie odrębne powinności. (Por. AGH sąd Pniewy, majętn. Turowo, vol. I, fol. 188—9). Jako olędry figurują u Maasa również folwarki (np. Mokre wzgl. Mokrz), osiedla młyńskie
 
-Mniszek), leśniczówki (np. Tarnówko), wreszcie kolonie czasów pruskich, Birken(np. z np. horst (osada rozwinęła się z dawniejszego przedmieścia Trzcicla), Julianka, Władysławowo (osada powst. w poł. XIX w. z leśniczówki tejże nazwy), Lubs Gross i Klein, Schwaben Hld., Siewert Hld. (MG 1 osadnik), Trzydomy pod Chodziecżą (przysiółka tego brak w aktach — klasyfikacyjnych z r. 1773), prawdopodobnie i Wełna OI. (po raz pierwszy na MG i MGd I — osadnik), oraz osada Schwarzlug (określana niekiedy jako leśniczówka (Fórsterei) ; osady tej nie dało się umiejscowić; przy Hamrze Trzcielskim leżały odrębne Ol. Czarne (Scharne). Takie pytania autora, Jak: „czy olędry?” (np. Stróżewo), lub: ,,od kiedy olędry?” (np. Piotrowo), „gdzie?” (np. Fiechoren, czy też: Bożny, Bronisz, Kościelec, Buckow Hld. należy uznać za bezprzedmiotowe, gdyż podane w wątpliwość osiedla nigdy olęderskimi nie były, wzgl. (w trzecim wypadku) nie istniały. Poza tym autor zebrał mnóstwo błędnych danych dotyczących osad, z innych źródeł, np. ze Słownika Geograficznego K. P. (Sowinki, Stodólsko, Włościejewki, Różyńskie OI. itd.), z opracowań: Goldmanna (Glinno al. Glinki, a prawdopodobnie i Boruja), Hampela (Bukowiec), a nawet Schulza W. (Jędrzejewskie OL.). Tak mylnie samo wnioskuje autor o założeniu Nowych Jastrzębskich i Chojnickich OI. podstawie artykułu na olędrach zbąskich w czasopiśmie Posener Tageblatt z dn. 18 III 1934. Przytaczamy tylko przykłady odnoszące się do dawnego województwa poznańskiego; gdyż nie jest rzeczą możliwą w ramach niniejszej pracy wyliczyć wszystkie popełnione przez autora błędy. Autor nie dokładał starań, żeby przedstawić stan prawdziwy; nie przejrzał nawet podstawowego źródła dla poznania liczebności osad, jakim jest oryginalna (duża) mapa Gilly'ego, znajdująca się państwowych zbiorach w Berlinie.
+Mniszek), leśniczówki (np. Tarnówko), wreszcie kolonie czasów pruskich, Birken(np. z np. horst (osada rozwinęła się z dawniejszego przedmieścia Trzcicla), Julianka, Władysławowo (osada powst. w poł. XIX w. z leśniczówki tejże nazwy), Lubs Gross i Klein, Schwaben Hld., Siewert Hld. (MG 1 osadnik), Trzydomy pod Chodziecżą (przysiółka tego brak w aktach — klasyfikacyjnych z r. 1773), prawdopodobnie i Wełna Ol. (po raz pierwszy na MG i MGd I — osadnik), oraz osada Schwarzlug (określana niekiedy jako leśniczówka (Fórsterei) ; osady tej nie dało się umiejscowić; przy Hamrze Trzcielskim leżały odrębne Ol. Czarne (Scharne). Takie pytania autora, Jak: „czy olędry?” (np. Stróżewo), lub: ,,od kiedy olędry?” (np. Piotrowo), „gdzie?” (np. Fiechoren, czy też: Bożny, Bronisz, Kościelec, Buckow Hld. należy uznać za bezprzedmiotowe, gdyż podane w wątpliwość osiedla nigdy olęderskimi nie były, wzgl. (w trzecim wypadku) nie istniały. Poza tym autor zebrał mnóstwo błędnych danych dotyczących osad, z innych źródeł, np. ze Słownika Geograficznego K. P. (Sowinki, Stodólsko, Włościejewki, Różyńskie Ol. itd.), z opracowań: Goldmanna (Glinno al. Glinki, a prawdopodobnie i Boruja), Hampela (Bukowiec), a nawet Schulza W. (Jędrzejewskie OL.). Tak mylnie samo wnioskuje autor o założeniu Nowych Jastrzębskich i Chojnickich Ol. podstawie artykułu na olędrach zbąskich w czasopiśmie Posener Tageblatt z dn. 18 III 1934. Przytaczamy tylko przykłady odnoszące się do dawnego województwa poznańskiego; gdyż nie jest rzeczą możliwą w ramach niniejszej pracy wyliczyć wszystkie popełnione przez autora błędy. Autor nie dokładał starań, żeby przedstawić stan prawdziwy; nie przejrzał nawet podstawowego źródła dla poznania liczebności osad, jakim jest oryginalna (duża) mapa Gilly'ego, znajdująca się państwowych zbiorach w Berlinie.
 
 [p. 16]
 
@@ -671,7 +671,7 @@ W powiecie kościańskim: 1. Katrynki[^17-2], folwark, dziś Katarzynki w par. D
 [p. 18]
 
 
-W powiecie poznańskim: I. Budy, folwark (21/5 huby); 2. Wzmiankowane już Burzykowo; 3. Czerwieniec, piec smolarski względnie folwark w par. Międzychód; 4. Kamień[^17-5] w par. Międzychód; 5. Krebs[^17-4] par. Skwierzyna; 6. Kurzastopa[^17-6] w par. Sieraków ] gosp.; 7. Nadziepozna jewskie Ol.1 w par. Goraj; 8. Podolany, al. Golęcińskie Ol. w par.[^18-1] Poznań (Św. Wojciech) 1 gosp.; 9. Stojenka w par. Parkowo 1 — — gosp.[^18-2]; 10. Szóstaki par. Sieraków %; 11. Trzy Góry w par. Ryczywół. Tu mieszkający olęder należał do gminy Gościejewskie Olędry i tam też został zaliczony. 12. 'Turowskie OI. w par. Brody[^18-3]; 13. Zwierzyniec[^18-4] w per. Międzychód, 1 gosp.
+W powiecie poznańskim: I. Budy, folwark (21/5 huby); 2. Wzmiankowane już Burzykowo; 3. Czerwieniec, piec smolarski względnie folwark w par. Międzychód; 4. Kamień[^17-5] w par. Międzychód; 5. Krebs[^17-4] par. Skwierzyna; 6. Kurzastopa[^17-6] w par. Sieraków ] gosp.; 7. Nadziepozna jewskie Ol.1 w par. Goraj; 8. Podolany, al. Golęcińskie Ol. w par.[^18-1] Poznań (Św. Wojciech) 1 gosp.; 9. Stojenka w par. Parkowo 1 — — gosp.[^18-2]; 10. Szóstaki par. Sieraków %; 11. Trzy Góry w par. Ryczywół. Tu mieszkający olęder należał do gminy Gościejewskie Olędry i tam też został zaliczony. 12. 'Turowskie Ol. w par. Brody[^18-3]; 13. Zwierzyniec[^18-4] w per. Międzychód, 1 gosp.
 
 Zdarzały się również wypadki, że olędrów osadzano we wsiach, które częściowo jeszcze były zamieszkane przez ludność poddaną. Powstały w ten sposób osady mieszane. Nadawano wtedy zwykle olędrom odrębny samorząd 1 traktowano ich jako samoistną gminę. Wydzielenie ich z ogólnej liczby mieszkańców nie przedstawiało Naogół trudności, natomiast trudniej było rozdzielić między nich, a kmieci poddanych, inne grupy ludności wiejskiej (rzemieślników, komorników itd.), nie wiadomo bowiem, jaka liczba tych mieszkańców utrzymywała się z pracy u olędrów, a jaka z pracy u kmieci. W każdym więc takim wypadku trzeba było uciekać się do mniej lub więcej prawdopodobnego szacunku 5.
 
@@ -685,7 +685,7 @@ Zdarzały się również wypadki, że olędrów osadzano we wsiach, które czę�
 
 Jako szczególny wypadek należy jeszcze omówić osadę Jędrzejewo. Lokuje ją Piotr Czernkowski w r. 1625 6, przy czym osadników nazywa w przywileju „holendrami”. W przywileju brak jednak danych precyzujących stanowisko prawne sołtysa, a także brak postanowień o samorządzie gminnym. Z wiadomości późniejszych wynika, że osada posiadała ustrój właściwy nie osadom olęderskim, ale osadom zakładanym współcześnie na prawie niemieckim (tzw. wsiom sołtysim). Mianowicie sołtys był dziedziczny, uprzywilejowany pod względem powinności dworskich, siedział za osobnym prawem. W okresie regulacji (1832) mamy tu już 3 dziedzicznych sołtysów, 2 uprzywilejowanych karczmarzy, dalej[^19-1] uprzywilejowanych kmieci, 10 uprzywilejowanych półkmieci i I zagrodnika. Tego rodzaju składu społecznego w osadach olęderskich się nie spotyka. Albo więc nazwa „holendrzy” w przywileju lokacyjnym użyta została w innym znaczeniu, co jest najwięcej prawdopodobne, zwłaszcza, że przywilej mówi o „„holendrach niemieckiego pochodzenia”, albo też osada z początkowej olęderskiej przekształciła się powoli w osiedle o charakterze odmiennym. W każdym razie w okresie rozbiorów Jędrzejewa do osad olęderskich zaliczyć nie można.
 
-Nasuwa się wreszcie pytanie, czy istniały osady olęderskie, które nie weszły do zestawienia miejscowości z r. 1789 bądź to dlatego, że do tego czasu przestały istnieć, bądź też z tego powodu, że zostały założone po r. 1789. Do pierwszej kategorii należy osada Esterpole w par. Brodnica. Lokował ją Kasper Cerekwicki przywilejem z[^19-2] kwietnia 17811. Po trzech latach dobra jego nabył Józef Wybicki, który przywileju wydznego przez poprzedniego właściciela nie zatwierdził, olędrom nie zezwolił osiedlić się na stałe, a gdy się ze wsi wynieśli, opuszczone przez nich grunty obrócił na folwark, który od imienia małżonki Estery z Kowalskich nazwał Esterpole (poprzednio wieś nosiła nazwę Przylepki). Jeszcze przed pierwszym rozbiorem od województwa poznańskiego zostały odłączone Murzynowskie OI. lokowane przywilejem z 1 listopada 1613 w starostwie międzyrzeckim[^19-3], Wieś Murzynowo z wymienionymi olędrami w 'r. 1770 bezprawnie zagarnął król pruski i przyłączył do Marchii, gdy zaś kilkuletnie starania o zwrot zajętego obszaru okazały się bezskuteczne, a z powodu słabości wewnętrznej nie można było myśleć o zbrojnej rewindykacji, Sejm z Tr. 1782 zatwierdził odstąpienie zagarniętych wsi Prusom (Rel. Posn. nr 599, r. 1782, fol. 450). Do drugiej kategorii należą osady: 1. Dzięczyna w par. Poniec[^19-4]; 2. Miłostowo w par. Kwilcz €.
+Nasuwa się wreszcie pytanie, czy istniały osady olęderskie, które nie weszły do zestawienia miejscowości z r. 1789 bądź to dlatego, że do tego czasu przestały istnieć, bądź też z tego powodu, że zostały założone po r. 1789. Do pierwszej kategorii należy osada Esterpole w par. Brodnica. Lokował ją Kasper Cerekwicki przywilejem z[^19-2] kwietnia 17811. Po trzech latach dobra jego nabył Józef Wybicki, który przywileju wydznego przez poprzedniego właściciela nie zatwierdził, olędrom nie zezwolił osiedlić się na stałe, a gdy się ze wsi wynieśli, opuszczone przez nich grunty obrócił na folwark, który od imienia małżonki Estery z Kowalskich nazwał Esterpole (poprzednio wieś nosiła nazwę Przylepki). Jeszcze przed pierwszym rozbiorem od województwa poznańskiego zostały odłączone Murzynowskie Ol. lokowane przywilejem z 1 listopada 1613 w starostwie międzyrzeckim[^19-3], Wieś Murzynowo z wymienionymi olędrami w 'r. 1770 bezprawnie zagarnął król pruski i przyłączył do Marchii, gdy zaś kilkuletnie starania o zwrot zajętego obszaru okazały się bezskuteczne, a z powodu słabości wewnętrznej nie można było myśleć o zbrojnej rewindykacji, Sejm z Tr. 1782 zatwierdził odstąpienie zagarniętych wsi Prusom (Rel. Posn. nr 599, r. 1782, fol. 450). Do drugiej kategorii należą osady: 1. Dzięczyna w par. Poniec[^19-4]; 2. Miłostowo w par. Kwilcz €.
 
 [^19-1]: Rel. Cost. nr 214, r. 1781, fol. 300.
 [^19-2]: AW. A. 1—4.
@@ -706,12 +706,12 @@ się do dawnego województwa poznańskiego, znaleźć można w pracach ks. Kozie
 [^20-3]: "Takie wypadki oznaczone są w odpowiedniej rubryce aneksu I adnotacją: „ta sama wieś i mieszkańcy”.
 [^20-4]: Niekicdy trudno stwierdzić, czy dana osada Jest rzeczywiście pierwszym w ogóle na tym micjscu osiedlem. Oczywiście rozróżnienie to Jest dla niniejszych rozważań bez zną- czenia, jeśli obszar, na którym już niegdyś istniała wicś, w chwili zakładania osady olęder- skiej nie wykazywał żadnych jej śladów.
 [^20-5]: AW. Dziewczastruga, B. 1028; AW. Orłowiec, A. 1; Rel. Posn. nr 641, r. 1792, fol. 260, Wymyślanka.
-[^20-6]: "Takie nazwy nosiła znaczna większość osad olęderskich. Należy tu jednak uczynić następujące zastrzeżenie: Termin „,Olędry” używany jest w źródłach przy właściwej nazwie osady w dwojakim znaczeniu, na oznaczenie charakteru micjscowości (tak jak terminy: folwark, kolonia itd.) i jako część składowa nazwy osady. Jednak ze względu na dawną pisownię (wyraz: „Olędry” zawsze pisany dużą literą) żadnego rozróżnienia nie da się tutaj przeprowadzić. Podając termin ,,Olędry” przy nazwach osiedli, kierowaliśmy się względami natury czysto zewnętrznej; podaliśmy go w tych wypadkach, gdy przy nazwie wsi figurował w większości źródeł. | 7”? Nawet w tych nielicznych wypadkach, gdy właściciel w przywileju lokacyjnym wyznaczał nazwę osadzie, częstokroć później ucierała się nazwa inna. Znane nam wypadki nadawania nazwy przez właściciela odnoszą się do następujących osad: Cegielskie OI. (w przy- wileju nadana nazwa Trzcielskie Ol.), Gębickie Ol. (w przywileju Mielęcin), Marienwald (Marigenwalde), Nowe OI. (część Krobielew, część Baba), Róża Ol. (Rosenthal), Ujskie OI. (Olędrowo). Dalej, niewątpliwie od właściciela wzięły początek takie nazwy, Jak: Marianowo (w par. Zbąszyń i w par. Wieleń), Filipowo, Folsztyn, Herbardowo, Józefowo, Krystynka, Wyssogotowo, Zakrzewo.
+[^20-6]: "Takie nazwy nosiła znaczna większość osad olęderskich. Należy tu jednak uczynić następujące zastrzeżenie: Termin „,Olędry” używany jest w źródłach przy właściwej nazwie osady w dwojakim znaczeniu, na oznaczenie charakteru micjscowości (tak jak terminy: folwark, kolonia itd.) i jako część składowa nazwy osady. Jednak ze względu na dawną pisownię (wyraz: „Olędry” zawsze pisany dużą literą) żadnego rozróżnienia nie da się tutaj przeprowadzić. Podając termin ,,Olędry” przy nazwach osiedli, kierowaliśmy się względami natury czysto zewnętrznej; podaliśmy go w tych wypadkach, gdy przy nazwie wsi figurował w większości źródeł. | 7”? Nawet w tych nielicznych wypadkach, gdy właściciel w przywileju lokacyjnym wyznaczał nazwę osadzie, częstokroć później ucierała się nazwa inna. Znane nam wypadki nadawania nazwy przez właściciela odnoszą się do następujących osad: Cegielskie Ol. (w przy- wileju nadana nazwa Trzcielskie Ol.), Gębickie Ol. (w przywileju Mielęcin), Marienwald (Marigenwalde), Nowe Ol. (część Krobielew, część Baba), Róża Ol. (Rosenthal), Ujskie Ol. (Olędrowo). Dalej, niewątpliwie od właściciela wzięły początek takie nazwy, Jak: Marianowo (w par. Zbąszyń i w par. Wieleń), Filipowo, Folsztyn, Herbardowo, Józefowo, Krystynka, Wyssogotowo, Zakrzewo.
 
 [p. 21]
 
 
-Wszystkie nazwy nowe bądź nadane zostały osadom przez właściciela, co zresztą miało miejsce niezmiernie rzadko 7, bądź wytworzyły[^20-6] się samorzutnie. Że osadnicy mieli wpływ na wytworzenie się nazwy osiedla, domyślać się można tylko w sporadycznych wypadkach. Wchodzą tu w rachubę nazwy: Niemiecko-Czeskie i Polsko-Czeskie, a prawdopodobnie również Albertowskie i Amtskasnerowskie Ol. Być może, że ostatnie dwie nazwy utarły się od nazwisk osadźców, czy sołtysów wsi, przypuszczenie to Jednak z całą pewnością stwierdzić się nie da. Częstokroć te same miejscowości występują pod dwiema i więcej nazwami; w ta-[^21-1] kich wypadkach przyjęliśmy tę nazwę, która w źródłach powtarza się najczęściej l. Jeżeli osady nosiły równocześnie dwie nazwy, w zestawieniu podane zostały obie (np. Błonie OI., al. Źdżar itd.).
+Wszystkie nazwy nowe bądź nadane zostały osadom przez właściciela, co zresztą miało miejsce niezmiernie rzadko 7, bądź wytworzyły[^20-6] się samorzutnie. Że osadnicy mieli wpływ na wytworzenie się nazwy osiedla, domyślać się można tylko w sporadycznych wypadkach. Wchodzą tu w rachubę nazwy: Niemiecko-Czeskie i Polsko-Czeskie, a prawdopodobnie również Albertowskie i Amtskasnerowskie Ol. Być może, że ostatnie dwie nazwy utarły się od nazwisk osadźców, czy sołtysów wsi, przypuszczenie to Jednak z całą pewnością stwierdzić się nie da. Częstokroć te same miejscowości występują pod dwiema i więcej nazwami; w ta-[^21-1] kich wypadkach przyjęliśmy tę nazwę, która w źródłach powtarza się najczęściej l. Jeżeli osady nosiły równocześnie dwie nazwy, w zestawieniu podane zostały obie (np. Błonie Ol., al. Źdżar itd.).
 
 [^21-1]: przez Historycznego przy współudziale dra 'Tomaszewskicgo A., doc. filologii słowiańskiej Uni- wersytetu Poznańskiego.
 
@@ -732,14 +732,14 @@ A. Liczebność olędrów
 
 [^23-1]: Przy Świętnych Ol. na podstawie Tp. 90, pozostałe osady figurują w Tp. 89 dla powiatu poznańskiego.
 [^23-2]: Po dodaniu poprzedniej cyfry 2144 dymów otrzymamy ogólną sumę dymów dla powiatu kościańskiego, wykazaną w rubrykach aneksu I, czyli 2478 dymów olęderskich.
-[^23-3]: Jest to wykazana w 'Tol. summa summarum cyfra 97.788 osób, zmniejszona o niekom- pletną liczbę ludności Jaromierskich Nowych 1 Starych OI. oraz UJścia Starego w sumie 231 osób.
+[^23-3]: Jest to wykazana w 'Tol. summa summarum cyfra 97.788 osób, zmniejszona o niekom- pletną liczbę ludności Jaromierskich Nowych 1 Starych Ol. oraz UJścia Starego w sumie 231 osób.
 [^23-4]: "Tj. wykazane w Tod. 89 summa summarum 24.067 dymów, mniej 8.520 dymów miejskich (wedł. Tp. 89; w Tod. 89 dymy wiejskie i miejskie podane są razem), mniej 225 dymów podanych w Tod. 89, dla których nie wykazano ludności w Tol., wreszcie mniej 82 dymy osad wymienionych w przypisie poprzednim.
 [^23-5]: Geographie und Statistik t. II, s. 448 i nast. Korzon (Ostatnie lata panowania Stan. Augusta, t. I, s. 72) darzy statystykę Holsche'go wielkim zaufaniem.
 
 [p. 24]
 
 
-Znaczna liczbą osad olęderskich przypuszczenie, że olę. nasuwa drzy stanowili poważny odsetek ludności dawnego województwa poznańskiego. Z tego powodu szczegółowe zbadanie struktury demograficznej tych osiedli należy uznać za rzecz ważną. Ze względu na brak źródeł nie jest możliwe przedstawienie zmian w liczebności ludności olęderskiej w ciągu całego okresu trwania kolonizacji, dane źródłowe pozwalają natomiast przeprowadzić dość dokładne obliczenie tej ludności w okresie rozbiorów 1. Ze względu na największą obfitość przekazów źródłowych, za moment obliczeń przyjmiemy r. 1789. Dla powiatu kościańskiego posiadamy z tego okresu następujące materiały statystyczne: I. ,Tabellę ogólną ludności” (Tol.), sporządzoną przez Komisję Podatkową powiatu kościańskiego na podstawie rozporządzenia Komisji Skarbowej Koronnej z r. 1789, 2. „Tabellę ogulną dymów” (Tod. 89), sporzą-[^22-1][^22-2] dzoną przez tę komisję, 3. TT aryfę dymów i podymnego z lat 1789 samą i 90 (Tp. 89, 90). Tabela pierwsza nie obejmuje szlachty i duchowieństwa, zawiera przy tym liczbę omyłek i opuszczeń cyfrowych. znaczną Jest również, tak samo jak tabela druga, niezupełna pod względem terytorialnym. Trzecia natomiast tabela sporządzona jest dokładniej i z iego powodu, mimo pewnych braków ?, budzi znacznie większe zaufanie. Dymy uwidocznione są w niej w dwu rubrykach: w pierwszej z r. 1789 na podstawie zaprzysiężonych deklaracji właścicieli, w drugiej z r. 1790 na podstawie urzędowej lustracji. Różnice cyfrowe między obu rubrykami są niewielkie; ważniejszą jest rzeczą, że w taryfie z r. 1789 dymy podawane są najczęściej zbiorowo (dla sąsiadujących miejscowości, dla całych majętności), gdy tymczasem taryfa z r. 1790 podaje je zazwyczaj dla każdej osady z osobna. Jeśli chodzi o ilość dymów w poszczególnych osadach, to Tod. 89 i Tp. 89 są ze sobą całkowicie zgodne. Zaznaczyć jeszcze należy, że tabele dymów obejmują wszystkie warstwy ludności. W odpowiednich rubrykach wykazu osad (aneks I) wyszczególniono kolejno: I. liczbę dymów poszczególnych osad olęderskich według Tp. 89 (gwiazdką oznaczone zostały te dymy, które w Tp. 89 podane są zbiorowo; szacowano je wtedy zazwyczaj według Tp. 90, a w wypadku osad mieszanych, na podstawie liczby siedzących w osadzie gospodarzy olędrów), 2. liczbę dymów dla osad nie uwzględnionych w Tp. 89[^23-1], 3. ludność osad według Tol. Opuszczone zostały podane Tol. cyfry dla Jaromierskich Nowych i Starych OI. oraz dla Ujścia Starego, jako oczywiście niekompletne. Po zsumowaniu otrzymujemy dla osad uwzględnionych w Tol.: 2144 dymy i 12967 dusz. Na jeden dym przypada więc 6,05 osób. Według tej przeciętnej obliczamy ludność osad, dla których Tol. brak: 334 dymy*? X 6,05 = 2020 dusz.[^23-2] Ogółem więc ludność olęderska powiatu kościańskiego w r. 1789 wynosiła 14.987, w zeokrągleniu 15.000 osób. Trudniej jest odpowiedzieć na pytanie, jaki odsetek ludności powiatu kościańskiego stanowiła ludność olęderska. Trzeba by w tym celu dokonać obliczenia całej ludności powiatu. Obliczenia takie wychodzą jednak poza zakres niniejszej pracy. Żeby na postawione wyżej pytanie odpowiedzieć przynajmniej częściowo, spróbujemy — pomijając kwestię ludności miejskiej — obliczyć stosunek olędrów do pozostałej ludności wiejskiej. Według Tol. ludność osad wiejskich powiatu kościańskiego wynosiła 97.557 osób[^23-3]. Tod. 89 dla tychże osad podaje 15.831 dymów f£. W ogólnej sumie ludności według Tol. brakuje szlachty i du-[^23-4] chowieństwa. Nie posiadając żadnych dokładniejszych danych do obliczenia obu tych warstw ludności, za punkt wyjścia przyjmiemy obliczenia Holsche'go 5[^23-5] dla departamentu poznańskiego z r. 1800. Według tych obliczeń szlachta i duchowieństwo w departamencie poznańskim stanowiły około 2% ludności. Cyfra ta jest bardzo mała, co w części przynajmniej należy tłumaczyć tym, że ludność włościańska w latach 1789—1800 wzrastała w silniejszym stopniu, niż ludrość pozostała. Zapewne więc najwłaściwszą rzeczą będzie przyjąć, że szlachta i duchowieństwo w r. 1789 wynosiły 3% ogółu ludności wiejskiej, czyli w zaokrągleniu 3.000 osób. Doliczywszy tę sumę do cyfry 97.5557 dusz pozostałej ludności wiejskiej, otrzymamy 100.557 dusz. Gdy następnie od tej sumy odejmiemy obliczoną poprzednio ludność i dymy osed olęderskich, na ludność wicjską nieolęderską przypadnie 85.570 osób i 13.353 dymy. Stąd Jako przeciętną na jeden dym wiejski (bez uwzględnienia dymów olęderskich) otrzymamy cyfrę 6.41 dusz. Jak jednak wiadomo, Tod. 89, na podstawie której dokonaliśmy powyższych obliczeń, jest pod względem terytorialnym niekompletna. Rzeczywista liczba dymów wiejskich dla powiatu kościańskiego; po odliczeniu dymów olęderskich, wynosi 13.915 [sic] dymów[^24-1]. W Tod. 89 brak zatem 552 dymów. Po wymnożeniu ich przez współczynnik 6,41, otrzym: my 3.538 dusz. Cała więc ludność wiejska powiatu kościańskiego wyniesie 104.095 osób. Jest to jednak cyfra minimalna, gdyż opuszczenia w Tol., które można było stwierdzić odrośnie do osed olęderskich zdarzały się niewątpliwie 1 w odniesieniu do pozostałych osad. Liczbę tę więc należy nieco powiększyć. W ten sposób ogół ludności wiejskiej powiatu kościańskiego wyrazi się okrągłą cyfrą 105.000 osób.
+Znaczna liczbą osad olęderskich przypuszczenie, że olę. nasuwa drzy stanowili poważny odsetek ludności dawnego województwa poznańskiego. Z tego powodu szczegółowe zbadanie struktury demograficznej tych osiedli należy uznać za rzecz ważną. Ze względu na brak źródeł nie jest możliwe przedstawienie zmian w liczebności ludności olęderskiej w ciągu całego okresu trwania kolonizacji, dane źródłowe pozwalają natomiast przeprowadzić dość dokładne obliczenie tej ludności w okresie rozbiorów 1. Ze względu na największą obfitość przekazów źródłowych, za moment obliczeń przyjmiemy r. 1789. Dla powiatu kościańskiego posiadamy z tego okresu następujące materiały statystyczne: I. ,Tabellę ogólną ludności” (Tol.), sporządzoną przez Komisję Podatkową powiatu kościańskiego na podstawie rozporządzenia Komisji Skarbowej Koronnej z r. 1789, 2. „Tabellę ogulną dymów” (Tod. 89), sporzą-[^22-1][^22-2] dzoną przez tę komisję, 3. TT aryfę dymów i podymnego z lat 1789 samą i 90 (Tp. 89, 90). Tabela pierwsza nie obejmuje szlachty i duchowieństwa, zawiera przy tym liczbę omyłek i opuszczeń cyfrowych. znaczną Jest również, tak samo jak tabela druga, niezupełna pod względem terytorialnym. Trzecia natomiast tabela sporządzona jest dokładniej i z iego powodu, mimo pewnych braków ?, budzi znacznie większe zaufanie. Dymy uwidocznione są w niej w dwu rubrykach: w pierwszej z r. 1789 na podstawie zaprzysiężonych deklaracji właścicieli, w drugiej z r. 1790 na podstawie urzędowej lustracji. Różnice cyfrowe między obu rubrykami są niewielkie; ważniejszą jest rzeczą, że w taryfie z r. 1789 dymy podawane są najczęściej zbiorowo (dla sąsiadujących miejscowości, dla całych majętności), gdy tymczasem taryfa z r. 1790 podaje je zazwyczaj dla każdej osady z osobna. Jeśli chodzi o ilość dymów w poszczególnych osadach, to Tod. 89 i Tp. 89 są ze sobą całkowicie zgodne. Zaznaczyć jeszcze należy, że tabele dymów obejmują wszystkie warstwy ludności. W odpowiednich rubrykach wykazu osad (aneks I) wyszczególniono kolejno: I. liczbę dymów poszczególnych osad olęderskich według Tp. 89 (gwiazdką oznaczone zostały te dymy, które w Tp. 89 podane są zbiorowo; szacowano je wtedy zazwyczaj według Tp. 90, a w wypadku osad mieszanych, na podstawie liczby siedzących w osadzie gospodarzy olędrów), 2. liczbę dymów dla osad nie uwzględnionych w Tp. 89[^23-1], 3. ludność osad według Tol. Opuszczone zostały podane Tol. cyfry dla Jaromierskich Nowych i Starych Ol. oraz dla Ujścia Starego, jako oczywiście niekompletne. Po zsumowaniu otrzymujemy dla osad uwzględnionych w Tol.: 2144 dymy i 12967 dusz. Na jeden dym przypada więc 6,05 osób. Według tej przeciętnej obliczamy ludność osad, dla których Tol. brak: 334 dymy*? X 6,05 = 2020 dusz.[^23-2] Ogółem więc ludność olęderska powiatu kościańskiego w r. 1789 wynosiła 14.987, w zeokrągleniu 15.000 osób. Trudniej jest odpowiedzieć na pytanie, jaki odsetek ludności powiatu kościańskiego stanowiła ludność olęderska. Trzeba by w tym celu dokonać obliczenia całej ludności powiatu. Obliczenia takie wychodzą jednak poza zakres niniejszej pracy. Żeby na postawione wyżej pytanie odpowiedzieć przynajmniej częściowo, spróbujemy — pomijając kwestię ludności miejskiej — obliczyć stosunek olędrów do pozostałej ludności wiejskiej. Według Tol. ludność osad wiejskich powiatu kościańskiego wynosiła 97.557 osób[^23-3]. Tod. 89 dla tychże osad podaje 15.831 dymów f£. W ogólnej sumie ludności według Tol. brakuje szlachty i du-[^23-4] chowieństwa. Nie posiadając żadnych dokładniejszych danych do obliczenia obu tych warstw ludności, za punkt wyjścia przyjmiemy obliczenia Holsche'go 5[^23-5] dla departamentu poznańskiego z r. 1800. Według tych obliczeń szlachta i duchowieństwo w departamencie poznańskim stanowiły około 2% ludności. Cyfra ta jest bardzo mała, co w części przynajmniej należy tłumaczyć tym, że ludność włościańska w latach 1789—1800 wzrastała w silniejszym stopniu, niż ludrość pozostała. Zapewne więc najwłaściwszą rzeczą będzie przyjąć, że szlachta i duchowieństwo w r. 1789 wynosiły 3% ogółu ludności wiejskiej, czyli w zaokrągleniu 3.000 osób. Doliczywszy tę sumę do cyfry 97.5557 dusz pozostałej ludności wiejskiej, otrzymamy 100.557 dusz. Gdy następnie od tej sumy odejmiemy obliczoną poprzednio ludność i dymy osed olęderskich, na ludność wicjską nieolęderską przypadnie 85.570 osób i 13.353 dymy. Stąd Jako przeciętną na jeden dym wiejski (bez uwzględnienia dymów olęderskich) otrzymamy cyfrę 6.41 dusz. Jak jednak wiadomo, Tod. 89, na podstawie której dokonaliśmy powyższych obliczeń, jest pod względem terytorialnym niekompletna. Rzeczywista liczba dymów wiejskich dla powiatu kościańskiego; po odliczeniu dymów olęderskich, wynosi 13.915 [sic] [sic] dymów[^24-1]. W Tod. 89 brak zatem 552 dymów. Po wymnożeniu ich przez współczynnik 6,41, otrzym: my 3.538 dusz. Cała więc ludność wiejska powiatu kościańskiego wyniesie 104.095 osób. Jest to jednak cyfra minimalna, gdyż opuszczenia w Tol., które można było stwierdzić odrośnie do osed olęderskich zdarzały się niewątpliwie 1 w odniesieniu do pozostałych osad. Liczbę tę więc należy nieco powiększyć. W ten sposób ogół ludności wiejskiej powiatu kościańskiego wyrazi się okrągłą cyfrą 105.000 osób.
 
 W odniesieniu do dawnego powiatu poznańskiego mamy daleko skromniejsze materiały źródłowe. Dotyczą one przede wszystkim części powiatu pozostałej przy Polsce po pierwszym rozbiorze. Tu wchodzą w rachubę tylko wspomniane poprzednio taryfy dymów i podymnego z lat 1789—1790 (Tp. 89, 90). Statystyk podających bezpośrednio liczbę ludności na tym obszarze w r. 1789 brak. Posługując się taryfą dymów z r. 1789 można ludność części powiatu
 
@@ -779,7 +779,7 @@ Dla części powiatu poznańskiego zabranej w pierwszym rozbiorze przez Prusy po
 Na terenie Wielkopolski, poza powiatami kościańskim i poznańskim, tylko powiaty gnieźnieński i pyzdrski miały poważniejszą liczbę osad olęderskich. Prawdopodobnie więc w odniesieniu do całej Wielkopolski stosunek olędrów do ogółu ludności wiejskiej zejdzie poniżej 10%.
 
 [^26-1]: Wskutek tego, że na | dym ludności nieolęderskiej przypada większa liczba osób.
-[^26-2]: Wynika to chociażby z porównania liczby dymów w Tp. 72 i Tp. 89, 90, lub KI. i G.
+[^26-2]: Wynika to chociażby z porównania liczby dymów w Tp. 72 [sic; TKS. 72] i Tp. 89, 90, lub Kl. i G.
 [^26-3]: Współczynnik ten, obliczony na podstawie danych z r. 1789, być może nie odpo- wiadał dokładnie stanowi z r. 1773. Ewentualnej różnicy spowodowanej wahaniami przyrostu naturalnego, nie mamy jednak sposobu stwierdzić i obliczyć.
 
 [p. 27]
@@ -791,7 +791,7 @@ B. Skład wyznaniowy ludności olęderskiej
 
 [^27-1]: Rhode, Das Nationalitiitenverhiltnis in Westpreussen und Posen, s. 59: „Ihrem Bekenntnisstande nach waren die Hollanderdóorfer ganz evangelisch”.
 [^27-2]: Oberskie Stare i Nowe oraz Wilcz Olędry.
-[^27-3]: Barcinek, Białokoskie Ol., Czapury, Czerwonak OI., Główno OI., Janikowo, Kliny OI., Krzyżewniki, Łoskońskie Stare i Nowe OIl., Marlewo, Miękowskie OIl., Nowosileńskie OI., Pącheńskie OI., Suchylas, 'Trojanowskie OI., Wiorek.
+[^27-3]: Barcinek, Białokoskie Ol., Czapury, Czerwonak Ol., Główno Ol., Janikowo, Kliny Ol., Krzyżewniki, Łoskońskie Stare i Nowe OIl., Marlewo, Miękowskie OIl., Nowosileńskie Ol., Pącheńskie Ol., Suchylas, 'Trojanowskie Ol., Wiorek.
 [^27-4]: Rel. Cost. nr 223, fol. 187, oblata przywileju z r. 1877: ,,Ponicważ na boru dziedzicz- nym dobrach moich mchowskich zakładać olendrów samych katolików nam wolą... takowe bierą prawo...”.
 [^27-5]: VO 78: „Chromiec cum Nova Colonia, alias Holendry, Catholica””.
 [^27-6]: AW. A. 1, przywilej z r. 1778: ,„Każdy kolonista będzie miał moc przedać, ustąpić, dać, darować komu chce, swoie grunta, wyjąwszy dyssydentowi”.
@@ -813,7 +813,7 @@ B. Skład wyznaniowy ludności olęderskiej
 [p. 29]
 
 
-Nie posiadamy żadnych statystyk źródłowych dla odtworzenia składu wyznaniowego ludności osad olęderskich; pewne wnioski ogólne wyprowadzić się dadzą jedynie na podstawie znajdujących się w źródłach luźnych, przypadkowych wzmianek i danych. Sprawa przynależności wyznaniowej olędrów była już dyskutowana przez autorów niemieckich; nieliczni, wbrew oczywistości, próbowali twierdzić, że cała ludność olęderska była ewangelicka 1, większość jednak przyznawała,[^27-1] że pewien odsetek olędrów należał do wyznania rzymsko-katolickiego. Zagadnienie więc sprowadza się do stwierdzenia, jaką część ludności osad olęderskich stanowili osadnicy katolicy. Źródła wykazują, że ludność osad założonych w dobrach duchownych na obszarze województwa poznańskiego była zawsze katolicka. W powiecie kościańskim istniały 3 takie osady[^27-2] z ludnością 401 dusz. W powiecie poznańskim do własności kościelnej należało 17 osad[^27-3]. Ludność ich po oszacowaniu na podstawie liczby dymów wyniesie 1252 osoby. Z przypadkowych wzmianek dowiadujemy się, że w samym powiecie kościańskim poza poprzednimi zupełnie katolickie były OI. Charłub[^27-4], OIL. Chromiec,[^27-5] OI. Kiączyńskie 6, Ol. Radoszkowskie 7, Ol. Terespotockie[^27-6], OI. Trosz-[^27-7][^27-8] czyńskie %, Ol. Włościejewskie 19 i częściowo Ol. Łęskie l. Podobne[^27-9][^27-10][^27-11] wzmianki spotykamy i w odniesieniu do niektórych osad powiatu poznańskiego[^28-1]. Osad tego rodzaju było niewątpliwie więcej, niż to wynika z przypadkowych, skąpych przekazów źródłówych, musiały być również liczne formy pośrednie, tj. osady o ludności pod względem wyznaniowym mieszanej. Wyznanie ewangelickie dominowało przede wszystkim w północnej części powiatu pozn: ńskiego. Pruskie akta klasyfikacyjne podają spośród osad olęderskich, jako czysto ewangelickie (luterskie). Natomiast im dalej sięgało oszdnictwo na południe i na wschód, tym silniejszy był w nim udział ludrości katolickiej. Ważne wnioski dotyczące stosunków wyznaniowych osed olęderskich nasuwa uwarstwienie społeczne ludności osad. Jak wynika z tabeli IV, około 36%, ludności. tworzyli bezrolni, którzy na os'edlenic się w osadzie nie potrzebowali indywidualnie wyrażonej zgody pana, ani środków materialnych na okupienie się i zagospodarowanie. Z drugiej strony na[^28-2] podstawie rejestrów osadników zamieszczanych niekiedy w przywilejach, oraz z lustracji jednych i tych samych osad przeprowadzanych w różnym czasie, stwierdzić można, że osadnicy nie sprowadzali z sobą potrzebnego kontyngentu najemnych sił roboczych, ale wynajmowali je sobie w miarę rozrostu gospodarstwa i zwiększenia się zapotrzebowania na pracę. Najprawdopodobniejszą jest rzeczą, że takich sił roboczych szukali olędrzy w najbliższym sąsiedztwie. Nie spotyksło się to z przeszkodami natury prawnej wskutek tego, że we wsiach Wielkopolski istniała liczba wyrobników niepoddanych (luźnych, kontrakznaczna towych), których Tol. ujmuje nawet w[^28-3] grupy: „luźnych za robotą bawiących” i „żebraków”. Niewątpliwie szeregi ich zasilali wydatnie zbiegli poddani. Stąd tcż przyjąć należy, że zwłaszcza w oszdach lokowanych w otoczeniu wsi polskich ludrość uboższa, bezrolna, była polska i katolicka. Wniosek ten potwierdzają źródła współczesne? 1 późniejsze pruskie wykazy ludrości. Fakt, że np. w spisie z r. 18438 we wszystkich niemal osadach olęderskich wykazywany jest znaczny odsetek ludności katolickiej, nie da się wcale wytłumaczyć twierdzeniami o rzekomej polonizacji ludrości niemieckiej, a już w żadnym wypadku nie może tu być mowy o zmianie wyznania. Tak samo trudno tutaj mówić o przemieszaniu ludności, gdyż zupełnie wyjątkowe musiały być wypadki, że najemnik ewangelik pracował u pracodawcy katolika, zważywszy, że takim był z reguły Polak[^29-1]. Biorąc za punkt wyjścia liczbę ludności wymienionych poprzednio osad katolickich oraz obie grupy „luźnych”, wykazanych dla osad olęderskich w Tol., uwzględniając ponadto inne zastrzeżenia podane wyżej, dochodzimy do stwierdzenia, że ludność olęderska katolicka na omawianym przez nas terenie w okresie rozbiorów wynosiła około 40% ogółu mieszkańców osad.
+Nie posiadamy żadnych statystyk źródłowych dla odtworzenia składu wyznaniowego ludności osad olęderskich; pewne wnioski ogólne wyprowadzić się dadzą jedynie na podstawie znajdujących się w źródłach luźnych, przypadkowych wzmianek i danych. Sprawa przynależności wyznaniowej olędrów była już dyskutowana przez autorów niemieckich; nieliczni, wbrew oczywistości, próbowali twierdzić, że cała ludność olęderska była ewangelicka 1, większość jednak przyznawała,[^27-1] że pewien odsetek olędrów należał do wyznania rzymsko-katolickiego. Zagadnienie więc sprowadza się do stwierdzenia, jaką część ludności osad olęderskich stanowili osadnicy katolicy. Źródła wykazują, że ludność osad założonych w dobrach duchownych na obszarze województwa poznańskiego była zawsze katolicka. W powiecie kościańskim istniały 3 takie osady[^27-2] z ludnością 401 dusz. W powiecie poznańskim do własności kościelnej należało 17 osad[^27-3]. Ludność ich po oszacowaniu na podstawie liczby dymów wyniesie 1252 osoby. Z przypadkowych wzmianek dowiadujemy się, że w samym powiecie kościańskim poza poprzednimi zupełnie katolickie były Ol. Charłub[^27-4], Ol.. Chromiec,[^27-5] Ol. Kiączyńskie 6, Ol. Radoszkowskie 7, Ol. Terespotockie[^27-6], Ol. Trosz-[^27-7][^27-8] czyńskie %, Ol. Włościejewskie 19 i częściowo Ol. Łęskie l. Podobne[^27-9][^27-10][^27-11] wzmianki spotykamy i w odniesieniu do niektórych osad powiatu poznańskiego[^28-1]. Osad tego rodzaju było niewątpliwie więcej, niż to wynika z przypadkowych, skąpych przekazów źródłówych, musiały być również liczne formy pośrednie, tj. osady o ludności pod względem wyznaniowym mieszanej. Wyznanie ewangelickie dominowało przede wszystkim w północnej części powiatu pozn: ńskiego. Pruskie akta klasyfikacyjne podają spośród osad olęderskich, jako czysto ewangelickie (luterskie). Natomiast im dalej sięgało oszdnictwo na południe i na wschód, tym silniejszy był w nim udział ludrości katolickiej. Ważne wnioski dotyczące stosunków wyznaniowych osed olęderskich nasuwa uwarstwienie społeczne ludności osad. Jak wynika z tabeli IV, około 36%, ludności. tworzyli bezrolni, którzy na os'edlenic się w osadzie nie potrzebowali indywidualnie wyrażonej zgody pana, ani środków materialnych na okupienie się i zagospodarowanie. Z drugiej strony na[^28-2] podstawie rejestrów osadników zamieszczanych niekiedy w przywilejach, oraz z lustracji jednych i tych samych osad przeprowadzanych w różnym czasie, stwierdzić można, że osadnicy nie sprowadzali z sobą potrzebnego kontyngentu najemnych sił roboczych, ale wynajmowali je sobie w miarę rozrostu gospodarstwa i zwiększenia się zapotrzebowania na pracę. Najprawdopodobniejszą jest rzeczą, że takich sił roboczych szukali olędrzy w najbliższym sąsiedztwie. Nie spotyksło się to z przeszkodami natury prawnej wskutek tego, że we wsiach Wielkopolski istniała liczba wyrobników niepoddanych (luźnych, kontrakznaczna towych), których Tol. ujmuje nawet w[^28-3] grupy: „luźnych za robotą bawiących” i „żebraków”. Niewątpliwie szeregi ich zasilali wydatnie zbiegli poddani. Stąd tcż przyjąć należy, że zwłaszcza w oszdach lokowanych w otoczeniu wsi polskich ludrość uboższa, bezrolna, była polska i katolicka. Wniosek ten potwierdzają źródła współczesne? 1 późniejsze pruskie wykazy ludrości. Fakt, że np. w spisie z r. 18438 we wszystkich niemal osadach olęderskich wykazywany jest znaczny odsetek ludności katolickiej, nie da się wcale wytłumaczyć twierdzeniami o rzekomej polonizacji ludrości niemieckiej, a już w żadnym wypadku nie może tu być mowy o zmianie wyznania. Tak samo trudno tutaj mówić o przemieszaniu ludności, gdyż zupełnie wyjątkowe musiały być wypadki, że najemnik ewangelik pracował u pracodawcy katolika, zważywszy, że takim był z reguły Polak[^29-1]. Biorąc za punkt wyjścia liczbę ludności wymienionych poprzednio osad katolickich oraz obie grupy „luźnych”, wykazanych dla osad olęderskich w Tol., uwzględniając ponadto inne zastrzeżenia podane wyżej, dochodzimy do stwierdzenia, że ludność olęderska katolicka na omawianym przez nas terenie w okresie rozbiorów wynosiła około 40% ogółu mieszkańców osad.
 
 C. Narodowość ludności olęderskiej
 
@@ -824,20 +824,20 @@ Oblicze narodowościowe osadnictwa olęderskiego terenie dawna nego województwa
 I. Wszystkie wspomniane osady lokowane są na podmokiej nizinie nadnoteckiej. Podobnie jak w Prusach, Holendrzy zostali sprowadzeni celem osuszenia wydzielonych im gruntów.
 
 [^29-1]: Natomiast miało miejsce przenikanie gospodarzy katolików do osad ewangelickich i odwrotnie. Stąd we wsiach, które w okresie przedrozbiorowym były czysto katolickie, spis z r. 1843 uwidocznił znaczną liczbę ewangelików.
-[^29-2]: Zupełnie wyjątkowo znalazła się taka notatka źródłowa (Rel. Cost. nr 208, r. 1775, fol. 800, Brodnickie OI.): „Na tychże Holendrach do Brodnicy należących pierwszy budynek Pana Jana Gruntowskiego ...Item Kazimierz Niemicc,... Jan Bajer... kaczmarz Niemice... Kazimierz Polak... Jędrzey Niemicc... Marcin Niemiec... Marcin Niemice...”.
+[^29-2]: Zupełnie wyjątkowo znalazła się taka notatka źródłowa (Rel. Cost. nr 208, r. 1775, fol. 800, Brodnickie Ol.): „Na tychże Holendrach do Brodnicy należących pierwszy budynek Pana Jana Gruntowskiego ...Item Kazimierz Niemicc,... Jan Bajer... kaczmarz Niemice... Kazimierz Polak... Jędrzey Niemicc... Marcin Niemiec... Marcin Niemice...”.
 [^29-3]: Na tym stanowisku stanęli Schmidt oraz Grossert (Evangelium und Dcutschtum s. 18), ostatnio także Schmitz i Reinhard. Zupełnie przeciwne stanowisko zajął P. v. Gebhardt (Parochia Kottnensis, s. XI). Twierdzi on, że pierwsi olędrzy byli Niemcami po- chodzącymi z Marchii, jednak wniosków swoich nie uzasadnia bliżej. Zdanie Gebhardta podtrzymuje Schulz W. (Die zwette deutsche Ostsiedluny).
 
 [p. 30]
 
 
-2. Jak wynika z zachowanych przywilejów dla OI. Ujskich1 1 Ol. Nowe Dwory ?, Holendrzy analogicznie jak w Prusach, otrzymują[^30-1] grunty w dzierżawę wieczystą. / 3. Poprzednio już, na s. 12 wykazany został związek osoby właściciela zachodzący między osadami wieleńskimi, a osadami. holenderskimi w starostwie świeckim.
+2. Jak wynika z zachowanych przywilejów dla Ol. Ujskich1 1 Ol. Nowe Dwory ?, Holendrzy analogicznie jak w Prusach, otrzymują[^30-1] grunty w dzierżawę wieczystą. / 3. Poprzednio już, na s. 12 wykazany został związek osoby właściciela zachodzący między osadami wieleńskimi, a osadami. holenderskimi w starostwie świeckim.
 
 4. We wspomnianych wyżej dwóch przywilejach podane są imiona i nazwiska osadników. Większość imion i nazwisk ma brzmienie flamandzko-holenderskie[^30-2], 5. Oba wspomniane przywileje nazywają osadników „olendrami” w znaczeniu ich narodowości, a późniejsze przywileje z r. 1677 dla olędrów wieleńskich używają określenia: „uczciwi mężowie narodu olenderskiego”. Olędrami nazywają osadriików również najwcześniejsze zachowane inwentarze majętności wieleńskiej4, przeciwstawiając ich[^30-3] osadnikom Niemcom 5.
 
 6. Na pierwszej stronie księgi gminnej Folsztyna znajdujemy następującą adnotację: „Im Jahr 1637 ist die Kirch im Folsteyndorff gebawet. Es haben die deutschen burger auh helfen, Holtz zufuhren, auh den Zimer leuth gelohnet, Das sie mit den holendern gleich wart dor zu haben. Den Form auff der Kirch haben die holander allein bawet. Die Klock haben die holander allein gebaufft vor hundert und zwanzieg Reichstaller. Das Neu biet werck vumb die Kirch haben die holander allein bauven lassen. Dem Zimer man haben wier gegeben[^30-4] Rechstaler drey tohn bier”. Wprawdzie w dalszym ciągu jako data założenia księgi podany jest r. 1681, jednak powyższa notatka musiała być wpisana krótko po r. 1637, lub przepisana z zapiski starszej, inaczej bowiem nie znano by już podanych tam szczegółów. Wzmianka ta świadczy w sposób niewątpliwy o narodowości osadników.
 
 [^30-1]: Z 16 IV 1597 (Inscr. Valc. nr 85, r. 1663—4, fol. 402).
-[^30-2]: Z 21 II 1601 (Rel. Posn. nr 140, r. 1601—2, fol. 659). 3 Ujskie OI.: Jan Borth, Marcin Schueneke, Michał Boleman, Krystian Paul, Joachim Bartz, Joachim Schmiket, Jan Werner, Andrzej Dumken, Jan Elwig. Nowe Dwory Ol.: Barthlomicy Unswaldt, Hanus Renik, Andreas Brozy, Krystow Olemborg, Peter Barkaw, Peter Wanczlaw, Henrik Carstan, Jakub Hanik, Michael Hoffman, Philyp Bem (wzgl. Bein). Transkrypcja polska.
+[^30-2]: Z 21 II 1601 (Rel. Posn. nr 140, r. 1601—2, fol. 659). 3 Ujskie Ol.: Jan Borth, Marcin Schueneke, Michał Boleman, Krystian Paul, Joachim Bartz, Joachim Schmiket, Jan Werner, Andrzej Dumken, Jan Elwig. Nowe Dwory Ol.: Barthlomicy Unswaldt, Hanus Renik, Andreas Brozy, Krystow Olemborg, Peter Barkaw, Peter Wanczlaw, Henrik Carstan, Jakub Hanik, Michael Hoffman, Philyp Bem (wzgl. Bein). Transkrypcja polska.
 [^30-3]: Inwentarz z r. 1630 (Rel. Posn. nr 157, r. 1632, fol. 169—178) oraz z r. 1653 (Rel. Posn. nr 179, r. 1654, fol. 71 8—779).
 [^30-4]: Inwentarz z r. 1653 odróżnia wsie polskie, niemieckie (wzgl. mieszane), oraz ,,olene derskie”.
 
@@ -858,9 +858,9 @@ XVII lokowane w lasach, na karczunkach, skolonizowane zostały z w. przy pomocy 
 
 Jak się rzecz przedstawiała. w rzeczywistości? Po większej części polska była ludność osad zakładanych w majątkach kościelnych, oraz wspomnianych w poprzednim ustępie osad szlacheckich, zasiedłonych przez katolików[^32-1]. W wielu innych osadach obok ewangelików Niemców siedzieli katolicy Polacy[^32-2]. Nie brak było również osad, w których część ludności rekrutowała się z Polaków, ewangelików[^32-3]. Element
 
-[^32-1]: Niemcy katolicy mieszkali we wsiach duchownych Czapury i Wiorek. W odniesieniu do niektórych innych osad mamy następujące dane: W Janikowie wcdług akt procesowych z r. 1834 (AW. Kliny, C. 3, fol. 39 i nast.) mieszkali gospodarze: Cholewa, Nowak, Hauska Walenty, Mańka Bartłomiej, Włodarczak Antoni, Świątek Walenty, Węclewski Franciszek, K rzypiński, Karpęrski; Barcinek (AW. CG. I, r. 1795): „Emphyteutische frcy Bauern: Chri- stoph Hintz, Lorenz Mantey, Andr. Sobiejewski, Hirth Woitek Pies, Schifer Knecht Joseph”; Krzyżewniki (KI. M.): 11 półkmieci, I karczmarz, | rybak, 1 komornik, 5 zagrodników, | pastuch, prócz jednego wszystkie nazwiska polskie; Naramowskie Ol. (AGH sąd Poznań, majętn. Naramowice, t. I, r. 1809, fol. 56): Joanna Dorota Knopka sprzedaje gospodarstwo olęderskie Kamińskiemu Janowi. Podpisują dokument: Marcin Guziński, sołtys z Ol. Nara- mowskich (fol. 59), Michał Dobroć i Marcin Fryć, ławnicy; Czerwonak OI.: W r. 1803 (AGH sąd Poznań, majętn. Czerwonak, t. nr 12, fol. 11) Paweł Jastrzębkowski z OI. Czerwonak sprzedaje gospodarstwo Simon'owi Laufeld. W r. 1810 (AGH t. nr 11, fol. 2) Tomasz Przy- bylski sprzedaje gospodarstwo Andrzejowi Ryske. Wieś Chorzępowa, która w r. 1753 prze- niesiona została na prawo olęderskie, zamieszkana była w r. 1759 przez samych Polaków (AM. Sieraków, C. 53, fol. 102). Mieszkańców Polaków, jeśli nie w całości, to przynajmniej w części musiały posiadać 1 inne wsie przeniesione na prawo olęderskie bez zmiany dotych- czasowych mieszkańców. Tak np. przywilej dla Ostrowa z r. 1789 podają do oblaty: ,„Hone- stus Christanus Rozna $cultetus ct Albertus Casimirus Biały scabinus de villa Ostrowo” (Rel. Cost. nr 220, r. 1787, fol. 371). Polacy siedzieli niewątpliwie w Polsko-Czeskich Ol. Podaje to w wątpliwość Li ck (Dcutsche Aufbaukrśfie, s. 331, mapa), powołując się na cyfry z doby przedwojennej 1 obecnej. Nie Jest mu jednak wiadomo, że w r. 1843 ludność osady składała się z 167 katolików i 32 ewangelików. Czy więc przytoczone przez niego dane nie świadczą raczej o zgermanizowaniu Osady w czasach pruskich?
-[^32-2]: "Taką ludność mieszaną posiadały np. OI. Sroczewskie. W r. 1834 (AGH sąd Śrem, majętn. Książ, vol. I, fol. XVI) mieszkają tutaj: Zimowski Mateusz, Kowalski Wincenty, Szatkowski Wojciech, Degner Eleonora, Hełmikowski Franciszek, Pihl Samucl, Pihl Gottlieb, Appelt Gotufried, Pihl Daniel, Adamski Szczepan, Hoeter Samuel, Binnert Ignacy, Barsch Ludwika, Starzebecker Christian, Floeter Renata, Rozdzielski Józef, Rozdziclska Marianna, Zimowski Krzysztof, Brzeziński Jakub, Kulmaj Daniel, Rosin Jan, Jankowska Katarzyna, Tomaszewski Franciszek, Flocter Beata. Akta klasyfikacyjne Osirówka z r. 1773 wspominają o 4 gospodarzach katolikach. Odpowiednio spotykamy tam 4 nazwiska polskie: Jan Mateusz, Walenty Kępa (wzgl. Gęba; pod sygnaturą AW. Ostrówek A. I znajduje się przywilej z r. 1750 na nazwisko Jan Gąba), Michał Rodzoński, Jan Wojan.
-[^32-3]: O Chrząstowskich OI. podaje VO 78 (19 VIII 1777), że zamieszkane są przez dysyden- tów, którzy z poprzednim proboszczem ugodzili się na opłatę 36 zł, a od czasu ustawy z r. 1768 nic nie płacą. (Por. Vol. Leg. t. VIT, 570 1 nast.). Tymczasem w r. 1787 do ksiąg grodzkich kościańskich w imieniu gminy wnosi manifest „Antoni Taterka sołtys Olcdrów Chrząstowskich”, niewątpliwie Polak (Rel. Cost. nr 220, r. 1787, fol. 524 i 530). We wsi była więc co najmniej większość mieszkańców Polakami, jeśli mogli spośród siebie wybrać sołtysa. Polaków ewangc- lików mamy równicż w Daleszynie. Według VO 78 (27 VIII 1777) zamieszkali tamże olędrzy byli luteranami, a Jednak lustracja Daleszyna z r. 1778 (AGH sąd Gostyń, majętn. Daleszyno,
+[^32-1]: Niemcy katolicy mieszkali we wsiach duchownych Czapury i Wiorek. W odniesieniu do niektórych innych osad mamy następujące dane: W Janikowie wcdług akt procesowych z r. 1834 (AW. Kliny, C. 3, fol. 39 i nast.) mieszkali gospodarze: Cholewa, Nowak, Hauska Walenty, Mańka Bartłomiej, Włodarczak Antoni, Świątek Walenty, Węclewski Franciszek, K rzypiński, Karpęrski; Barcinek (AW. CG. I, r. 1795): „Emphyteutische frcy Bauern: Chri- stoph Hintz, Lorenz Mantey, Andr. Sobiejewski, Hirth Woitek Pies, Schifer Knecht Joseph”; Krzyżewniki (Kl. M.): 11 półkmieci, I karczmarz, | rybak, 1 komornik, 5 zagrodników, | pastuch, prócz jednego wszystkie nazwiska polskie; Naramowskie Ol. (AGH sąd Poznań, majętn. Naramowice, t. I, r. 1809, fol. 56): Joanna Dorota Knopka sprzedaje gospodarstwo olęderskie Kamińskiemu Janowi. Podpisują dokument: Marcin Guziński, sołtys z Ol. Nara- mowskich (fol. 59), Michał Dobroć i Marcin Fryć, ławnicy; Czerwonak Ol.: W r. 1803 (AGH sąd Poznań, majętn. Czerwonak, t. nr 12, fol. 11) Paweł Jastrzębkowski z Ol. Czerwonak sprzedaje gospodarstwo Simon'owi Laufeld. W r. 1810 (AGH t. nr 11, fol. 2) Tomasz Przy- bylski sprzedaje gospodarstwo Andrzejowi Ryske. Wieś Chorzępowa, która w r. 1753 prze- niesiona została na prawo olęderskie, zamieszkana była w r. 1759 przez samych Polaków (AM. Sieraków, C. 53, fol. 102). Mieszkańców Polaków, jeśli nie w całości, to przynajmniej w części musiały posiadać 1 inne wsie przeniesione na prawo olęderskie bez zmiany dotych- czasowych mieszkańców. Tak np. przywilej dla Ostrowa z r. 1789 podają do oblaty: ,„Hone- stus Christanus Rozna $cultetus ct Albertus Casimirus Biały scabinus de villa Ostrowo” (Rel. Cost. nr 220, r. 1787, fol. 371). Polacy siedzieli niewątpliwie w Polsko-Czeskich Ol. Podaje to w wątpliwość Li ck (Dcutsche Aufbaukrśfie, s. 331, mapa), powołując się na cyfry z doby przedwojennej 1 obecnej. Nie Jest mu jednak wiadomo, że w r. 1843 ludność osady składała się z 167 katolików i 32 ewangelików. Czy więc przytoczone przez niego dane nie świadczą raczej o zgermanizowaniu Osady w czasach pruskich?
+[^32-2]: "Taką ludność mieszaną posiadały np. Ol. Sroczewskie. W r. 1834 (AGH sąd Śrem, majętn. Książ, vol. I, fol. XVI) mieszkają tutaj: Zimowski Mateusz, Kowalski Wincenty, Szatkowski Wojciech, Degner Eleonora, Hełmikowski Franciszek, Pihl Samucl, Pihl Gottlieb, Appelt Gotufried, Pihl Daniel, Adamski Szczepan, Hoeter Samuel, Binnert Ignacy, Barsch Ludwika, Starzebecker Christian, Floeter Renata, Rozdzielski Józef, Rozdziclska Marianna, Zimowski Krzysztof, Brzeziński Jakub, Kulmaj Daniel, Rosin Jan, Jankowska Katarzyna, Tomaszewski Franciszek, Flocter Beata. Akta klasyfikacyjne Osirówka z r. 1773 wspominają o 4 gospodarzach katolikach. Odpowiednio spotykamy tam 4 nazwiska polskie: Jan Mateusz, Walenty Kępa (wzgl. Gęba; pod sygnaturą AW. Ostrówek A. I znajduje się przywilej z r. 1750 na nazwisko Jan Gąba), Michał Rodzoński, Jan Wojan.
+[^32-3]: O Chrząstowskich Ol. podaje VO 78 (19 VIII 1777), że zamieszkane są przez dysyden- tów, którzy z poprzednim proboszczem ugodzili się na opłatę 36 zł, a od czasu ustawy z r. 1768 nic nie płacą. (Por. Vol. Leg. t. VIT, 570 1 nast.). Tymczasem w r. 1787 do ksiąg grodzkich kościańskich w imieniu gminy wnosi manifest „Antoni Taterka sołtys Olcdrów Chrząstowskich”, niewątpliwie Polak (Rel. Cost. nr 220, r. 1787, fol. 524 i 530). We wsi była więc co najmniej większość mieszkańców Polakami, jeśli mogli spośród siebie wybrać sołtysa. Polaków ewangc- lików mamy równicż w Daleszynie. Według VO 78 (27 VIII 1777) zamieszkali tamże olędrzy byli luteranami, a Jednak lustracja Daleszyna z r. 1778 (AGH sąd Gostyń, majętn. Daleszyno,
 t. nr 55, fol. 8) między innymi podaje nazwiska: Fryderyk Wróbel, Samuel Wróbel, Fryderyk
 Adam Kaźmierczak. Osadnicy ci noszą nawet imiona popularne wówczas wśród olędrów
 ewangelików. Podobnie było w Zaborowie Ol. Według notatki w Rel. Cost. nr 216, r. 1783,
@@ -876,13 +876,13 @@ ewangelików. Kilkudziesięciu Polaków ewangelików znajduje się w Zaborowie j
 
 niemiecki reprezentowany był stosunkowo najsilniej w osadach olęderskich północnej części powiatu poznańskiego. Jednak i w pruskich aktach klasyfikacyjnych dla osad zabranych w pierwszym rozbiorze trafiają się nazwiska polskie, co prawda podawane zwykle w tak zniemczonej formie, że odcyfrowanie ich nastręcza bardzo wielkie trudności !.[^33-1] Wszystkie te fragmentaryczne dane źródłowe wymagają uzupełnienia dwóch kierunkach. Uwzględniają one w sposób niedostateczny, albo też nie uwzględniają wcale niższych warstw społecznych osad (czeladzi, komorników). Rozumowanie o pochodzeniu tych warstw z miejscowej ludności, przeprowadzone przy omawianiu stosunków wyznaniowych osad, stosuje się w pełni i do rozważań niniejszych. Odsetek Polaków wśród ludności olęderskiej bezrolnej był niewątpliwie większy, niż analogiczny odsetek Polaków-gospodarzy[^33-2], Dalej, nie zawsze nazwisko olędra może być uważane za wykładnik jego narodowości. Trzeba bowiem pamiętać, że pewien procent ludności Wielkopolski mógł nosić nazwiska niemieckie w następstwie procesów asymilacyjnych, jakie dokonały się w średniowieczu, a także w wyniku wchodzenia później mieszane związki małżeńskie. Powtóre, niektórzy olędrzy, zwłaszcza jeśli chodzi o Niemców katolików, jeszcze w czasie istnienia dawnej
 
-[^33-1]: Np. w OI. Wizany (Kat. II, fol. 454) wyliczone są nazwiska: Michacl Polentzke, Andreas Rosantzke (na dołączonym tamże przywileju Stanisław Różanek), Johann Sapick, wdowa Rosankin. 'Te same nazwiska w r. 1792 (tamże, fol. 487) podane są w pisowni nastę- pującej: Michael Poliński, Andreas Rosanski, Johann Sopick względnie Suppick (fol. 488). W Ol. Kwiejce Nowe wyszczególniają klasyfikacje nazwisko Martin Gudera (KI. XII 6 I, fol. 46), w Ol. Maryanowo — Andreas Ratcy, (Kat. II, fol. 590), w OI. Stróżewskich — An- dreas Pollak, Christian Radotzki (Kl. XII, 6 II, fol. 114), w OI. Szklana Huta — pięć rodzin o nazwisku Jachalski (Johann Jachalke, Jakob Jacholske, Matias Jachalkc, Jachalke, Peter Jachalske). Nazwisk tych nic uważa za słowiańskie Schulz W., który aktami klasyfikacyj- nymi zajmował się szczegółowo (Die zweite deutsche Ostsiedlung, Quellenband). Według niego wszyscy olędrzy byli Niemcami, a wszystkie nazwiska — niemieckie (por. recenzję tej pracy w Rocznikach Historycznych, XIV, 2, s. 387—400).
+[^33-1]: Np. w Ol. Wizany (Kat. II, fol. 454) wyliczone są nazwiska: Michacl Polentzke, Andreas Rosantzke (na dołączonym tamże przywileju Stanisław Różanek), Johann Sapick, wdowa Rosankin. 'Te same nazwiska w r. 1792 (tamże, fol. 487) podane są w pisowni nastę- pującej: Michael Poliński, Andreas Rosanski, Johann Sopick względnie Suppick (fol. 488). W Ol. Kwiejce Nowe wyszczególniają klasyfikacje nazwisko Martin Gudera (Kl. XII 6 I, fol. 46), w Ol. Maryanowo — Andreas Ratcy, (Kat. II, fol. 590), w Ol. Stróżewskich — An- dreas Pollak, Christian Radotzki (Kl. XII, 6 II, fol. 114), w Ol. Szklana Huta — pięć rodzin o nazwisku Jachalski (Johann Jachalke, Jakob Jacholske, Matias Jachalkc, Jachalke, Peter Jachalske). Nazwisk tych nic uważa za słowiańskie Schulz W., który aktami klasyfikacyj- nymi zajmował się szczegółowo (Die zweite deutsche Ostsiedlung, Quellenband). Według niego wszyscy olędrzy byli Niemcami, a wszystkie nazwiska — niemieckie (por. recenzję tej pracy w Rocznikach Historycznych, XIV, 2, s. 387—400).
 [^33-2]: Np. w Starych Dymaczewskich Ol. w r. 1782 między nszwiskami gospodarzy nie spotykamy żadnego nazwiska o brzmieniu polskim, natomiast wymienieni są: Józef Kluczyń- ski krawiec, Stanisław Piczański garncarz, dalej bez nazwiska podani: pastuch, rybak i borowy, być może również Polacy. Por. także przypis I na s. 32. Do czeladzi wzgl. komorników należał zapewne i „Józef Świątek z Łokacza”, wymieniony w księdze wicleńskiego cechu krawieckiego pod r. 1737 (Schulz, Die zweite deutsche Osisiedlung, II, s, 61). prace Komisji Atlasu hist. Polski, z. 5 5:
 
 [p. 34]
 
 
-Rzeczypospolitej spolonizowali się całkowicie, przyjmując polski język i kulturę. Zaliczanie ich okresie rozbiorów do ludności niemieckiej jest takim samym błędem, jak zaliczanie do Holendrów mieszkańców tych osad, które przez Holendrów pierwotnie zostały zasiedlone. Podkreślić jeszcze należy, że nie tylko ludność nieolęderska 1, ale i olędrzy[^34-1] Polacy posiadali liczniejsze rodziny, niż olędrzy Niemcy. Charakterystyczny przykład pod tym względem stanowią olędrzy majętności sierakowskiej. W czysto polskich OI. Chorzępowa na rodzinę olęderską (uwzględniamy tylko posiadających ziemię) przypadło w r. 1759 6,5 osób, gdy w pozostałych osadach olęderskich w tym samym czasie przypadało na rodzinę 5,1 dusz[^34-2]. Nazwisko polskie w osadzie reprezentowało więc większą ilość osób, niż nazwisko niemieckie.
+Rzeczypospolitej spolonizowali się całkowicie, przyjmując polski język i kulturę. Zaliczanie ich okresie rozbiorów do ludności niemieckiej jest takim samym błędem, jak zaliczanie do Holendrów mieszkańców tych osad, które przez Holendrów pierwotnie zostały zasiedlone. Podkreślić jeszcze należy, że nie tylko ludność nieolęderska 1, ale i olędrzy[^34-1] Polacy posiadali liczniejsze rodziny, niż olędrzy Niemcy. Charakterystyczny przykład pod tym względem stanowią olędrzy majętności sierakowskiej. W czysto polskich Ol. Chorzępowa na rodzinę olęderską (uwzględniamy tylko posiadających ziemię) przypadło w r. 1759 6,5 osób, gdy w pozostałych osadach olęderskich w tym samym czasie przypadało na rodzinę 5,1 dusz[^34-2]. Nazwisko polskie w osadzie reprezentowało więc większą ilość osób, niż nazwisko niemieckie.
 
 Idąc po linii rozważań przeprowadzanych nad liczebnością olędrów katolików, oraz biorąc pod uwagę, że liczba Niemców katolików wśród olędrów mogła być nieco większa niż liczba Polaków ewangelików, trzeba liczbę olędrów Polaków na obszarze dawnego województwa poznańskiego oszacować na 35—38%, ogółu ludności olęderskiej. W odnies'eniu do całej Wielkopolski stosunek ten wypadnie jeszcze korzystniej dla Polaków, gdyż jak można wywnioskować już z pobieżnego przeglądu archiwaliów, element polski najsilniej reprezentowany był w osadach położonych na obszarze dawnego województwa kaliskiego.
 
@@ -904,8 +904,8 @@ Pochodzenie osadników pozostaje w związku z ich narodowością 3,[^34-3] Jest 
 [^35-2]: Według Ciepluchy Z. (Z przeszłości, s. 185), ze Śląska pochodzili olędrzy kaw- czyńscy.
 [^35-3]: Przywilej dla Ręcka (Rel. Cost. nr 167, r. 1732, fol. 204) mówi o ,,ludziach po- granicznych”.
 [^35-4]: Pogląd taki ustalił się również w literaturze niemieckiej. Por. Beheim-Schwarz- bach, Der Netzedistrikt, s. 127, Schmidt, Geschichte, s. 313, 329 i'nast., 391 i nast.; Maas, Haulźndereien, s. 210; Schulz, Die zweite deutsche Ostsiedlung, I, s. 47. Ten ostatni wyka- zuje pokrewieństwo między nazwiskami osadników północnej części powiatu poznańskiego, a nazwiskami miejscowości Nowej Marchii i Pomorza Zachodniego.
-[^35-5]: Zanotował to m. i. Hockenbeck w odniesieniu do OI. Zużoły w okolicy Wągrówca (Deutsche Ansiedler, s. 178—181).
-[^35-6]: Lokatorem, a zarazem jednym z pierwszych olędrów w Proszkowskich OI. był Gott- fried Scharf, mieszczanin rakoniewski (AW. Proszkowo, A. 1).
+[^35-5]: Zanotował to m. i. Hockenbeck w odniesieniu do Ol. Zużoły w okolicy Wągrówca (Deutsche Ansiedler, s. 178—181).
+[^35-6]: Lokatorem, a zarazem jednym z pierwszych olędrów w Proszkowskich Ol. był Gott- fried Scharf, mieszczanin rakoniewski (AW. Proszkowo, A. 1).
 [^35-7]: Zob, dalej, s. 110.
 
 [p. 36]
@@ -975,8 +975,8 @@ O ile władze publiczne norm prawnych dotyczących specjalnie osadnictwa olęder
 
 [^40-1]: Rel. Cost. nr 191, r. 1756, fol. 94: ,,...w inszych zaś punktach do zwyczainego in- nym w województwie poznańskim mieszkającym olędrom prawa referuię się, y tego wszyst- kiego onym y potomkom z sukcessoram1 moimi dotrzymać deklaruię”.
 [^40-2]: Por. w aneksie I daty założenia osad z datami przywilejów. Inaczej było przy osa- dnictwie na prawie niemieckim; tam osadźca rozpoczynał lokację dopiero po otrzymaniu przywileju.
-[^40-3]: 'Tak np. przy założeniu Jędrzejewskich OI. założyciel Jędrzej Radoliński zawarł w r. 1763 z olędrami umowę tymczasową, która miała być ważna aż do wystawienia właści- wego przywileju; jednak jeszcze w r. 1773 olędrzy zeznają, że przywilej nie został dotychczas wystawiony (Kat. II, fol. 239).
-[^40-4]: Np. Młyńskie OI. obowiązywał przywilej dla Karpicka.
+[^40-3]: 'Tak np. przy założeniu Jędrzejewskich Ol. założyciel Jędrzej Radoliński zawarł w r. 1763 z olędrami umowę tymczasową, która miała być ważna aż do wystawienia właści- wego przywileju; jednak jeszcze w r. 1773 olędrzy zeznają, że przywilej nie został dotychczas wystawiony (Kat. II, fol. 239).
+[^40-4]: Np. Młyńskie Ol. obowiązywał przywilej dla Karpicka.
 [^40-5]: Przy zawieraniu umowy z panem stroną była zawsze gmina olęderska występująca jako zwarta, solidarna społeczność. Rola osadźców, o ile w ogóle istnieli (por. s. 57), kończyła się z chwilą sprowadzenia osadników.
 [^40-6]: "Tymczasem Maas (Entstehung, s. 84) twierdzi, że „diese Privilegien... sind fast alle in deutscher Sprache geschrieben. Schon dies west uns auf die Nationalitit der Bewohner hin...”.
 
@@ -985,21 +985,21 @@ O ile władze publiczne norm prawnych dotyczących specjalnie osadnictwa olęder
 
 
 
-[^41-1]: Rudka OI. i Szklanohuckie OI.
+[^41-1]: Rudka Ol. i Szklanohuckie Ol.
 [^41-2]: Przytaczamy typowe postanowienie dla Ol. Nowych: ,,Item, czego uchoway Boże, jeżeliby Pan Bóg pominione Olędry miał ogniem nawiedzić y sam oryginał przywileju spa- liełby się, zaraz inszy bez odwłoki od słowa do słowa wypiszę y dam Olędrom moim...” (AW. Nowa Tuchorza, A. 1).
 [^41-3]: Rutkowski, Poddaństwo włościan, s. 12. |
-[^41-4]: Dla ilustracji przytaczamy kilka cytatów źródłowych: AW. Marienwald, B. ]: „Wolnemi maią bydź ludźmi tak u mnie iako y u potomków moich”. AW. Jaromierz, B. 4, fol.77 (Ujskie Stare OI.),,...wszyscy ci czternaście gospodarzy wolność mieć powinni na wieczne czasy z dziadkami swemi za realnym czynszu pomienionego wypłaceniem”. AW. Nowa Tuchorza, A. 1 (Nowe Ol.): „chcę także... żeby oni (tzn. olędrzy) y ich sukcessorowie teraz y napotym byli wolnemi ludźmi y na zawsze bez wszelkicy turbacyi”. AW. Uścikowskie OIl., B. 1054: „„Pańszczyzny żadney i roboty odprawiać nie będą, bo oni są ludzie wolni...”.
+[^41-4]: Dla ilustracji przytaczamy kilka cytatów źródłowych: AW. Marienwald, B. ]: „Wolnemi maią bydź ludźmi tak u mnie iako y u potomków moich”. AW. Jaromierz, B. 4, fol.77 (Ujskie Stare Ol.),,...wszyscy ci czternaście gospodarzy wolność mieć powinni na wieczne czasy z dziadkami swemi za realnym czynszu pomienionego wypłaceniem”. AW. Nowa Tuchorza, A. 1 (Nowe Ol.): „chcę także... żeby oni (tzn. olędrzy) y ich sukcessorowie teraz y napotym byli wolnemi ludźmi y na zawsze bez wszelkicy turbacyi”. AW. Uścikowskie OIl., B. 1054: „„Pańszczyzny żadney i roboty odprawiać nie będą, bo oni są ludzie wolni...”.
 [^41-5]: AM. Sieraków, C. 53, fol. 162 i nast.
 
 [p. 42]
 
 
-niemieckim!. Pod względem treści przywileje wykazują duże pokrewieństwo. Pochodzi to stąd, że przy wystawianiu ich wzorowano się na przywilejach osad wcześniejszych. Nie brak jednak dokumentów bardzo oryginalnych, niekiedy nacechowanych głęboką myślą społeczną i moralną. Jeden z takich dokumentów, przywilej zbiorowy dla olędrów klucza kicińskiego, przytacza my w całości w aneksie. Dla utwierdzenia wagi przywileju, panowie częstokroć zobowiązywali się oblatoweć go we właściwych księgach grodzkich. To stało się precedensem dla olędrów, którzy sami również zaczęli podawać przywileje do oblaty. Szereg przywilejów zawiera dodatkowe konfirmaty późniejszych właścicieli oszdy. Niekiedy takie późniejsze zatwierdzenie stawało s'ę okazją co zwiększenia powinności olędrów. W każdym .niemal przywileju pan zobowiązywał się na wypadek zniszczenia lub zagubienia oryginału wystawić bez żadnych kosztów równobrzmiący duplikat[^41-1]. b. Prawna zależność olędrów od pana mogła zaznaczyć się w trojaki sposób: jako zależność osobista, sądowa[^41-2] gruntowa. W odniesieniu do ludności pańszczyźnianej zależność ta była całkowita; odróżnia się tu odpowiednio poddz ństwo osobiste, sądowe i gruntowe[^41-3]. Poddzń-[^41-4] stwo osobiste gospodarzy olędrów w ogólności nie istniało. Podkreślały to zgodnie niemel wszystkie przywileje +. Mniej jesto przedsta-[^41-5] wiała się sprawa osobistej zależności olędrów w wypzdkach, gdy wieś już istniejącą przenoszono na prawo olęderskie. Tak np. przywilej dla powstałych w ten sposób Ol. Chorzępowa w majętn. s'erakowskiej zezwalał im na sprzedaż gospodarstw, a więc prawdopodobnie i na opuszczenie majętności, a powinności ich określał tak samo, jak powinności innych olędrów. Jednak oświadczenia stwierdzającego ich wolność osobistą przywileju brak, a późniejszy o lat 6 inwentarz majętności część gospodarzy zalicza do poddanych 5. Zupełnie natomiest brak danych dla pozostałych osad tego typu. Nie ulega jednak wątpliwości, że nawet w wypadku, gdy odnośni osadnicy przed tym byli poddarymi, a z wydaniem przywileju nie poszło w parze wydanie aktu libertacji, zależność osob:sta olędrów stawała się luźniejsza wskutek ograniczenia. jej do norm przywileju. Wyjątkowo i przy lokacji nowych os:d panowie brali pod uwagę możliwość osadzenia w nich poddanych, jak tego dowodzi następujące zastrzeżenie w przywileju z r. 1729 dla OI. Kotusz: ,,...to s'ę dokłada, że do żadnych inszych powinności ciż olędrzy nie będą należeć, oprócz wyżey wyrażonych danin, także 'y ich possessorowie albo następcy zostaną wolnymi ludźmi, oprócz tych, którzyby, już przed tym byli poddanemi”?[^42-1]. Czy w rzeczywistości osadzeni zostali tam Jacy poddani, w$daje się rzeczą bardzo wątpliwą. W każdym razie samej zasady wolności osobistej olędrów źródła w wątpliwość nie podają. Oczywiście zasada ta rozciągała się ij na rodziny olędrów. Trudniej jest ustalić, czy osobiście wolna była także pozostała, bezrolna, społecznie niższa warstwa ludności olęderskiej. Bezpośrednie dane pod tym względem posiadamy jedynie w odnies'eniu do majętn. sierakowskiej. Inwentarz tej m ijętności z r. 1759 zawiera podział ogółu ludności osad na wolnych i poddanych; cała ludność bezrolna osad olęderskich z wyjątkiem 1 rodziny[^42-2] jest osobiście wolna. Jedynie we wspomnianych już OI. Chorzępowa znajdujemy 2 rodziny poddane[^42-3]. Potwierdza to przypuszczenie, że 1 bezrolni m'eszkańcy osad z bardzo nielicznymi wyjątkami uważani byli za osobiście wolnych. Wolność osobista wyróżniała dodatnio olędrów wśród ludności poddanej. Nawiasem jednak zauważymy tutaj, że jak wykazują nieopracowane dotąd inwentarze[^42-4] i zestawienia[^42-5], liczba niepoddanych wśród pozost:łej ludności włoście ńskiej była większa, niż oceniaro Ją dotąd[^42-6], W obecnym stanić badań przeprowadzanie nacechowarych tendencją porównań między olędram! a resztą ludności włościańskiej, tak jak to czynili niektórzy autorzy niemieccy, wydaje się co najmniej przedwczesne.
+niemieckim!. Pod względem treści przywileje wykazują duże pokrewieństwo. Pochodzi to stąd, że przy wystawianiu ich wzorowano się na przywilejach osad wcześniejszych. Nie brak jednak dokumentów bardzo oryginalnych, niekiedy nacechowanych głęboką myślą społeczną i moralną. Jeden z takich dokumentów, przywilej zbiorowy dla olędrów klucza kicińskiego, przytacza my w całości w aneksie. Dla utwierdzenia wagi przywileju, panowie częstokroć zobowiązywali się oblatoweć go we właściwych księgach grodzkich. To stało się precedensem dla olędrów, którzy sami również zaczęli podawać przywileje do oblaty. Szereg przywilejów zawiera dodatkowe konfirmaty późniejszych właścicieli oszdy. Niekiedy takie późniejsze zatwierdzenie stawało s'ę okazją co zwiększenia powinności olędrów. W każdym .niemal przywileju pan zobowiązywał się na wypadek zniszczenia lub zagubienia oryginału wystawić bez żadnych kosztów równobrzmiący duplikat[^41-1]. b. Prawna zależność olędrów od pana mogła zaznaczyć się w trojaki sposób: jako zależność osobista, sądowa[^41-2] gruntowa. W odniesieniu do ludności pańszczyźnianej zależność ta była całkowita; odróżnia się tu odpowiednio poddz ństwo osobiste, sądowe i gruntowe[^41-3]. Poddzń-[^41-4] stwo osobiste gospodarzy olędrów w ogólności nie istniało. Podkreślały to zgodnie niemel wszystkie przywileje +. Mniej jesto przedsta-[^41-5] wiała się sprawa osobistej zależności olędrów w wypzdkach, gdy wieś już istniejącą przenoszono na prawo olęderskie. Tak np. przywilej dla powstałych w ten sposób Ol. Chorzępowa w majętn. s'erakowskiej zezwalał im na sprzedaż gospodarstw, a więc prawdopodobnie i na opuszczenie majętności, a powinności ich określał tak samo, jak powinności innych olędrów. Jednak oświadczenia stwierdzającego ich wolność osobistą przywileju brak, a późniejszy o lat 6 inwentarz majętności część gospodarzy zalicza do poddanych 5. Zupełnie natomiest brak danych dla pozostałych osad tego typu. Nie ulega jednak wątpliwości, że nawet w wypadku, gdy odnośni osadnicy przed tym byli poddarymi, a z wydaniem przywileju nie poszło w parze wydanie aktu libertacji, zależność osob:sta olędrów stawała się luźniejsza wskutek ograniczenia. jej do norm przywileju. Wyjątkowo i przy lokacji nowych os:d panowie brali pod uwagę możliwość osadzenia w nich poddanych, jak tego dowodzi następujące zastrzeżenie w przywileju z r. 1729 dla Ol. Kotusz: ,,...to s'ę dokłada, że do żadnych inszych powinności ciż olędrzy nie będą należeć, oprócz wyżey wyrażonych danin, także 'y ich possessorowie albo następcy zostaną wolnymi ludźmi, oprócz tych, którzyby, już przed tym byli poddanemi”?[^42-1]. Czy w rzeczywistości osadzeni zostali tam Jacy poddani, w$daje się rzeczą bardzo wątpliwą. W każdym razie samej zasady wolności osobistej olędrów źródła w wątpliwość nie podają. Oczywiście zasada ta rozciągała się ij na rodziny olędrów. Trudniej jest ustalić, czy osobiście wolna była także pozostała, bezrolna, społecznie niższa warstwa ludności olęderskiej. Bezpośrednie dane pod tym względem posiadamy jedynie w odnies'eniu do majętn. sierakowskiej. Inwentarz tej m ijętności z r. 1759 zawiera podział ogółu ludności osad na wolnych i poddanych; cała ludność bezrolna osad olęderskich z wyjątkiem 1 rodziny[^42-2] jest osobiście wolna. Jedynie we wspomnianych już Ol. Chorzępowa znajdujemy 2 rodziny poddane[^42-3]. Potwierdza to przypuszczenie, że 1 bezrolni m'eszkańcy osad z bardzo nielicznymi wyjątkami uważani byli za osobiście wolnych. Wolność osobista wyróżniała dodatnio olędrów wśród ludności poddanej. Nawiasem jednak zauważymy tutaj, że jak wykazują nieopracowane dotąd inwentarze[^42-4] i zestawienia[^42-5], liczba niepoddanych wśród pozost:łej ludności włoście ńskiej była większa, niż oceniaro Ją dotąd[^42-6], W obecnym stanić badań przeprowadzanie nacechowarych tendencją porównań między olędram! a resztą ludności włościańskiej, tak jak to czynili niektórzy autorzy niemieccy, wydaje się co najmniej przedwczesne.
 
 c. Sądownictwo. pańskie stanowi drugi człon stosunków łączących pana z olędrami. Kwestia odwoływania się olędrów do sądów publicznych rozpatrywana była już poprzednio; odnośne rozważania dały wynik raczej negatywny. Właściwym sądem a praktycznie i ostateczną instancją był dla olędrów sąd patrymonialny. Rozpatryw: ł on w
 
-[^42-1]: Rel. Cost. nr 164, r. 1729, s. 487. Tę samą wzmiankę zawiera również przywilej z r. 1729 dla Karpickich OI. (AW. A. 2).
-[^42-2]: Pastuch w OI. Nowy ŻZatom (AM. Sieraków C. 53, fol. 131).
+[^42-1]: Rel. Cost. nr 164, r. 1729, s. 487. Tę samą wzmiankę zawiera również przywilej z r. 1729 dla Karpickich Ol. (AW. A. 2).
+[^42-2]: Pastuch w Ol. Nowy ŻZatom (AM. Sieraków C. 53, fol. 131).
 [^42-3]: Krawiec i komornica (tamże, fol. 162). ś
 [^42-4]: Szczególnie ciekawe pod tym względem są oblaty inwentarzy wiejskich w aktach grodzkich.
 [^42-5]: Uderza np. znaczna liczba „,luźnych”, wykazana w Tol.
@@ -1010,7 +1010,7 @@ c. Sądownictwo. pańskie stanowi drugi człon stosunków łączących pana z ol
 
 pierwszej instancji wszystkie cięższe przestępstwa, tzw. criminalia (rabunki, podpalenia, zabójstwa, cięższe uszkodzenia ciała[^43-1]), oraz naturalnie wszystkie wykroczenia skierowane bezpośrednio przeciwko panu. Jako druga instancja sąd ten rozstrzygał e: pelacje od wyroków sądu gminnego.[^43-2] Odnośnie do procedury sądownictwa pańskiego brak w źródłach bliższych danych. Opłat za czynności sądowe pan nie pobierał.
 
-[^43-1]: _Teżeliby też excess albo kriminał taki trafił się, do sądu pańskiego należeć będą...” (AW. Puszczykowskie OI., A. 1).
+[^43-1]: _Teżeliby też excess albo kriminał taki trafił się, do sądu pańskiego należeć będą...” (AW. Puszczykowskie Ol., A. 1).
 [^43-2]: W sprawach swoich, które się opieraią przed sołtysem, iczeliby która strona kon- tenta nie była, tedy pozwolono im iest do Pana swcgo appellacja” (Rel. Posn, nr 489, r. 1751, fol. 69).
 [^43-3]: Inscr. Valc. nr 85, r. 1663—74, fol. 402.
 [^43-4]: Rel. Posn. nr 140, r. 1602, fol. 659.
@@ -1023,12 +1023,12 @@ pierwszej instancji wszystkie cięższe przestępstwa, tzw. criminalia (rabunki,
 [p. 44]
 
 
-2. Prąwo rzeczowe. Wchodzi tu w rachubę ogół norm, które regulowały stosunek olędrów do znajdującego się w ich posiadaniu gruntu i nieruchomości, określeły sposób, warunki i zakres dysponowania własnością nieruchomą,oraz dotyczyły własności ruchomej olędrów. W najwcześniej założonych osadach olędrzy podobnie jak w Prusach Królewskich zostali osadzeni na warunkach dzierżawy czasowej. W Ol. Ujskich dzierżawa wynosiła 44 lata[^43-3], w Ol. Nowe Dwory 60 lat[^43-4]. Na podobnych warunkach osadzono prawdopodobnie pozostałe osady majętn. wieleńsk'ej, mianowicie Fo'sztyn, Herbardowo i Marianowo 5.[^43-5] Przywilej zastrzegał olędrom pierwszeństwo przy wydzierżawianiu gruntów na dalsze lata, o ile tylko oferowali czynsz nie niższy od czynszu pozostałych reflektantów: Wolno było olędrom gospodarstwa swe (ściślej, budynki i inwentarz ruchomy) zbyć jeszcze przed upływem dzierżawy, jednak bez uszczerbku dla powinności pańskiej. W OI. Ujskich dzierżawa czasowa odnawizna kilkakrotnie przetrweła aż do rozbiorów[^43-6], natomiast olędrom wieleńskim po upływie pierwszego okresu dzierżawy równobrzmiącymi przywilejami z r. 1677 oddaro grunty dzierżawę wieczystą. Mylne jest mniemanie Gebhardta[^43-7] i Schulza[^43-8], ze nadanie na włzsność dziedziczną występuje po raz pierwszy dopiero przywilejach z r. 1677 dla olędrów majętności wieleńsk'cj. Prawdopodobnie już Ol. Murzynowskich założonych w r. 1613[^43-9], a napewro w Ol. Róża Jokowanych w r. 1624 osadnicy otrzymali grunty we władanic wieczyste. Ta forma władania staje się regułą w pozostałych oszdach. Wyjątkowo w OI. Barcinek ziemia nzdana zosteła olędrom „prawem emphiteutycznym... a to do czwartego pokolenia z krwi męskiey”1 zaś w Ol. Połajewskich osadnicy otrzymali kontrakt pierwotnie na lat trzy 2. W związku z przejściem od dzierżawy czesowej do nzdań wie-[^44-1] czystych pojawia się tzw. okupne (niem. Grundgeld). Była to zapłata za wydzieloną olędrom ziemię. Gdy więc pierwsi olędrzy, którzy nie okupili się, mogli dysporowzć jedynie budynkz mi i majątkiem ruchomym, a grunt[^44-2] pozostawał wyłączrą własnością pana, późniejsi olędrzy po zapłaceniu okupnego stawali się właścicielami całego gospodarstwa, tak ziemi jak i budynków oraz ruchomości. Także i wieleńscy olędrzy, zanim w miejsce[^44-3][^44-4] dzierżawy nadaro im prawo wieczyste, musieli grunt okupić %*. Osady[^44-5] nieokupione były wśród olędrów niezmierną rzadkością. Poza wymienionymi już Ol. Ujskimi, częściowo na nieokupionych gospodarstwach siedzieli olędrzy w Daleszynie 4, w Chorzępowej, a prawdopodo-[^44-6] bnie 1 w Starych Łoskońskich Ol. 5.
+2. Prąwo rzeczowe. Wchodzi tu w rachubę ogół norm, które regulowały stosunek olędrów do znajdującego się w ich posiadaniu gruntu i nieruchomości, określeły sposób, warunki i zakres dysponowania własnością nieruchomą,oraz dotyczyły własności ruchomej olędrów. W najwcześniej założonych osadach olędrzy podobnie jak w Prusach Królewskich zostali osadzeni na warunkach dzierżawy czasowej. W Ol. Ujskich dzierżawa wynosiła 44 lata[^43-3], w Ol. Nowe Dwory 60 lat[^43-4]. Na podobnych warunkach osadzono prawdopodobnie pozostałe osady majętn. wieleńsk'ej, mianowicie Fo'sztyn, Herbardowo i Marianowo 5.[^43-5] Przywilej zastrzegał olędrom pierwszeństwo przy wydzierżawianiu gruntów na dalsze lata, o ile tylko oferowali czynsz nie niższy od czynszu pozostałych reflektantów: Wolno było olędrom gospodarstwa swe (ściślej, budynki i inwentarz ruchomy) zbyć jeszcze przed upływem dzierżawy, jednak bez uszczerbku dla powinności pańskiej. W Ol. Ujskich dzierżawa czasowa odnawizna kilkakrotnie przetrweła aż do rozbiorów[^43-6], natomiast olędrom wieleńskim po upływie pierwszego okresu dzierżawy równobrzmiącymi przywilejami z r. 1677 oddaro grunty dzierżawę wieczystą. Mylne jest mniemanie Gebhardta[^43-7] i Schulza[^43-8], ze nadanie na włzsność dziedziczną występuje po raz pierwszy dopiero przywilejach z r. 1677 dla olędrów majętności wieleńsk'cj. Prawdopodobnie już Ol. Murzynowskich założonych w r. 1613[^43-9], a napewro w Ol. Róża Jokowanych w r. 1624 osadnicy otrzymali grunty we władanic wieczyste. Ta forma władania staje się regułą w pozostałych oszdach. Wyjątkowo w Ol. Barcinek ziemia nzdana zosteła olędrom „prawem emphiteutycznym... a to do czwartego pokolenia z krwi męskiey”1 zaś w Ol. Połajewskich osadnicy otrzymali kontrakt pierwotnie na lat trzy 2. W związku z przejściem od dzierżawy czesowej do nzdań wie-[^44-1] czystych pojawia się tzw. okupne (niem. Grundgeld). Była to zapłata za wydzieloną olędrom ziemię. Gdy więc pierwsi olędrzy, którzy nie okupili się, mogli dysporowzć jedynie budynkz mi i majątkiem ruchomym, a grunt[^44-2] pozostawał wyłączrą własnością pana, późniejsi olędrzy po zapłaceniu okupnego stawali się właścicielami całego gospodarstwa, tak ziemi jak i budynków oraz ruchomości. Także i wieleńscy olędrzy, zanim w miejsce[^44-3][^44-4] dzierżawy nadaro im prawo wieczyste, musieli grunt okupić %*. Osady[^44-5] nieokupione były wśród olędrów niezmierną rzadkością. Poza wymienionymi już Ol. Ujskimi, częściowo na nieokupionych gospodarstwach siedzieli olędrzy w Daleszynie 4, w Chorzępowej, a prawdopodo-[^44-6] bnie 1 w Starych Łoskońskich Ol. 5.
 
 [^44-1]: AW. B. I, przywilej z r. 1781. |
 [^44-2]: Dom. P. 10820, fol. 39, przywilej z r. 1766: „Ten kontrakt do lat trzech tylko slużyć im ma, a ieżeliby się któremu dłużey siedzieć nie podobało, wolno mu się wyprowadzić bę- dzie...”. Kontrakt jednak został utrzymany w mocy i nadal, gdyż postanowienia jego obowią- zywały osadników aż do uwłaszczenia.
 [^44-3]: W księdze gminnej Folsztyna (AW. dep. C. 5, fol. 3) znajdujemy notatkę: „Die gerechtigkeit vnd die holandischen gutter sint gekaufft im Jahr 1672”. Odnośny przywilej wystawiony został w r. 1677, a więc zapewne po całkowitym wypłaceniu okupnego. t AGH sąd Gostyń, majętn. Daleszyno, t. nr 55, r. 1778, fol. 8: „Jan Bargier olęder... który sicie pułchuby pustey nieokupioney...”. fol. 9: ,„Krysztoff Wagner, który sicie chubę całą nie okupioną... Olęder imieniem Jan Sztull sieie chubę całą, lecz nieokupioną...”.
-[^44-4]: Przywilej dla Starych Łoskońskich OI. zezwalał olędrom sprzedać „„pOssessyą swoją, to Jest budynki i zasiewy”. Grunt więc prawdopodobnie własnością olędrów nie był.
+[^44-4]: Przywilej dla Starych Łoskońskich Ol. zezwalał olędrom sprzedać „„pOssessyą swoją, to Jest budynki i zasiewy”. Grunt więc prawdopodobnie własnością olędrów nie był.
 [^44-5]: Przytaczamy typowe wzmianki przywilejów: „grunt zaprzedaliśmy, aby tenże wy-= rudowawszy, wiecznymi czasy tak ci pomienieni olendrzy, iako też dzieci y ich insi sukcesso- rowie w dozgonne wicki gruntów tych dziedzicznym zażywali prawem” (AW. Góździn OL., A. 1, fol. 69). ,„Ciż obywatele tego wszystkiego dziatki i potomki swoie dziedzicami zostawić będą powinni” (Sękowskie Ol., Rel. Posn. nr 043, r. 1792, fol. 54).
 [^44-6]: „Ich habe ihnen (tzn. olędrom) ein Stick Busch zu Erb und Erbnehmen cigen= tiimlich verkauffet” (AW. Jaromierz, dep. A. 1, przywilej z r. 1709).
 [^44-7]: Die lindliche Verfassung, s. 123.
@@ -1059,16 +1059,16 @@ I. Z reguły wymagał pan, żeby zmiana posiedziciela nie nastąpiła ze szkodą
 
 2. W niektórych wypadkach zbycie gospodarstwa wymagzło zgody pańskiej[^46-1]. Tutaj mamy już do czynienia z poważnym ograniczeniem olędrów w swobodnym dysponowaniu gruntem. Wypadku jednak, żeby pan na podstawie tego przepisu uniemożliwił olędrowi zbycie gruntu, w źródłach nie znaleźliśmy.
 
-3. Wyjątkowo pan z kręgu ewentualnych nabywców wykluczał określone kategorie osób. Tak np. wszystkim olędrom w majętności sierakowskiej nie wolno było zbywać gospodarstw na rzecz kościoła. Podobnie rzecz się miała w OI. Sikorce 3. W OI. Kiączyńskich i Włościejewskich kupującymi nie mogli być dysydenci[^46-2]. W OI. Uścikowskich nabywca musiał być człowiekiem wolnym[^46-3]. Olędrom w Daleszynie nie wolno było sprzedeć gruntu „za granicę"[^46-4]. Ten ostatni warunek miał zapewne na celu wykluczyć sprzedaż gruntu mieszkańcowi[^46-5] wsi sąsiedniej, nad którym zwierzchrość sądową sprawow=ł już kto inny. Sprzedaż taka doprowadzałaby do podziału zwierzchności sądowej nad nabywcą między różnych panów. Czy w ogóle tego rodzaju podział zwierzchności pańskiej nad olędrami zdarzał się, wydaje się rzeczą wątpliwą. W każdym razie źródła nic o tym nie wspominają[^46-6]. 4. Spotykamy też ograniczenia o charakterze rzeczowym. W CGisiogórskich Ol. nie wolno było sprzedawać gruntu „morgami, kawałkami, tylko po pół huby razem”? 7”. Przepis ten miał na celu zapobiec[^46-7] zbytniemu rozdrabnianiu gruntów. W OI. Świącyńskich znowu pan zastrzegał sobie „aby jeden dwóch placów nie trzymał, ale każdy jednym kontentował się”[^46-8]. W Trojanowskich OI. osadnik zbywający swe gospodarstwo mógł za grunt wziąć tylko tyle, ile sam zapłacił.
+3. Wyjątkowo pan z kręgu ewentualnych nabywców wykluczał określone kategorie osób. Tak np. wszystkim olędrom w majętności sierakowskiej nie wolno było zbywać gospodarstw na rzecz kościoła. Podobnie rzecz się miała w Ol. Sikorce 3. W Ol. Kiączyńskich i Włościejewskich kupującymi nie mogli być dysydenci[^46-2]. W Ol. Uścikowskich nabywca musiał być człowiekiem wolnym[^46-3]. Olędrom w Daleszynie nie wolno było sprzedeć gruntu „za granicę"[^46-4]. Ten ostatni warunek miał zapewne na celu wykluczyć sprzedaż gruntu mieszkańcowi[^46-5] wsi sąsiedniej, nad którym zwierzchrość sądową sprawow=ł już kto inny. Sprzedaż taka doprowadzałaby do podziału zwierzchności sądowej nad nabywcą między różnych panów. Czy w ogóle tego rodzaju podział zwierzchności pańskiej nad olędrami zdarzał się, wydaje się rzeczą wątpliwą. W każdym razie źródła nic o tym nie wspominają[^46-6]. 4. Spotykamy też ograniczenia o charakterze rzeczowym. W CGisiogórskich Ol. nie wolno było sprzedawać gruntu „morgami, kawałkami, tylko po pół huby razem”? 7”. Przepis ten miał na celu zapobiec[^46-7] zbytniemu rozdrabnianiu gruntów. W Ol. Świącyńskich znowu pan zastrzegał sobie „aby jeden dwóch placów nie trzymał, ale każdy jednym kontentował się”[^46-8]. W Trojanowskich Ol. osadnik zbywający swe gospodarstwo mógł za grunt wziąć tylko tyle, ile sam zapłacił.
 
 Warunki formalne, którym niekiedy musiał zadość uczynić zbywający, lub wyjątkowo nowonabywca, przedstawiały się następująco:
 
 I. powszechnie olęder zobowiązany był uwiadomić pana o zamierzonej sprzedaży gruntu. Zupełnie wyjątkowo w Ol. Pecna wolno
 
-[^46-1]: Przywilej dla Chrząstowskich OI. (Rel. Cost. nr 220, r. 1787, fol. 924). W Starych Dymaczewskich 1 w Borkowskich OI., jak również w Krosińskich OI. nie wolno było gminie przyjmować olędra ,,bez pociągu”.
-[^46-2]: "Tak było m. 1. w Chrząstowskich, Dymaczewskich Starych OI., Góździnie, Karpicku, Jaromierskich Starych OI. (Sygn. przywilejów podane w aneksie I).
+[^46-1]: Przywilej dla Chrząstowskich Ol. (Rel. Cost. nr 220, r. 1787, fol. 924). W Starych Dymaczewskich 1 w Borkowskich Ol., jak również w Krosińskich Ol. nie wolno było gminie przyjmować olędra ,,bez pociągu”.
+[^46-2]: "Tak było m. 1. w Chrząstowskich, Dymaczewskich Starych Ol., Góździnie, Karpicku, Jaromierskich Starych Ol. (Sygn. przywilejów podane w aneksie I).
 [^46-3]: AW. B. 9I1: „żadnemu z okupicielów teraźniejszych i przyszłych gruntów swoich któremukolwiek kościołowi nie będzie wolno zapisywać”.
-[^46-4]: AW. Kiełczynek, A. 1, Rel. Cost. nr 217, r. 1784, fol. 78, Włościejewskie OI.
+[^46-4]: AW. Kiełczynek, A. 1, Rel. Cost. nr 217, r. 1784, fol. 78, Włościejewskie Ol.
 [^46-5]: Por. przypis 7, s. 45.
 [^46-6]: Rel. Posn. nr 549, r. 1767, fol. 442.
 [^46-7]: Rel. Cost. nr 224, r. 1788, fol. 379.
@@ -1079,21 +1079,21 @@ I. powszechnie olęder zobowiązany był uwiadomić pana o zamierzonej sprzedaż
 
 +7 było każdemu olędrowi „pole spłacić bez opowiedzi dworowi y przedać”? 1.[^47-1] Ten sam warunek obowiązyweł zbywcę często i w stosunku do gminy. Akt sprzedaży w zesedzie musiał być dokonany w urzędzie gminnym, a jeśli gmina miała księgę gminną, nastąpić musiał odpowiedni wpis. Należrość za grunt nabywca zobowiązany był złożyć w urzędzie gminnym, który pokrywał z niej wszystkie opłaty z tytułu sprzedaży, spłacał długi zaciągnięte przez zbywcę, a dopiero resztę wypłacał mu do[^47-2];
 
-2. zbywca względnie nabywca obowiązani byli do uiszczenia pewnych opłat na rzecz pana i gminy. Najczęstszą opłatą pobieraną przez pana od zbywcy był 10-ty grosz, rzadziej 12-ty grosz[^47-3], wyjątkowo 5% sumy sprzedażnej[^47-4]. Niekiedy pan pobierał opłatę stałą, np. 72 zł Ostrowie i w Borgowie (r. 1785)[^47-5], 2 talary w Chełmskich[^47-6] i Starych Łoskońskich Ol.[^47-7] 1 talar w Budziszewskich OI.[^47-8], 1 czerwony złoty
+2. zbywca względnie nabywca obowiązani byli do uiszczenia pewnych opłat na rzecz pana i gminy. Najczęstszą opłatą pobieraną przez pana od zbywcy był 10-ty grosz, rzadziej 12-ty grosz[^47-3], wyjątkowo 5% sumy sprzedażnej[^47-4]. Niekiedy pan pobierał opłatę stałą, np. 72 zł Ostrowie i w Borgowie (r. 1785)[^47-5], 2 talary w Chełmskich[^47-6] i Starych Łoskońskich Ol.[^47-7] 1 talar w Budziszewskich Ol.[^47-8], 1 czerwony złoty
 
-Rudce Ol.[^47-9]. W Budziszewskich i Starych Łoskońskich OI. obowiązek uiszczenia opłaty obciążał solidzrnie zbywcę i nabywcę. W OI. Chełmskich i w Złotkowie sprzedawca i kupujący pokrywali opłatę w równych częściach. W przywileju dla Czapur mamy postanowienie, że osadnik „przy przedaży darowizną laką Konwent kontentować powienien będzie”?[^47-10]. Nabywca zobowiązany był zwykle kupić gminie I, a wyjątkowo 2 beczki piwa tzw. wstępnego (niem. Nachbarbier) z pańskiego mielcucha[^47-11];
+Rudce Ol.[^47-9]. W Budziszewskich i Starych Łoskońskich Ol. obowiązek uiszczenia opłaty obciążał solidzrnie zbywcę i nabywcę. W Ol. Chełmskich i w Złotkowie sprzedawca i kupujący pokrywali opłatę w równych częściach. W przywileju dla Czapur mamy postanowienie, że osadnik „przy przedaży darowizną laką Konwent kontentować powienien będzie”?[^47-10]. Nabywca zobowiązany był zwykle kupić gminie I, a wyjątkowo 2 beczki piwa tzw. wstępnego (niem. Nachbarbier) z pańskiego mielcucha[^47-11];
 
 [^47-1]: Rel. Cost. nr 165, r. 1730, fol. 823.
-[^47-2]: AW. Chodzież, C. I, fol. 2 (Krystynka OI.); Rel. Cost. nr 220, r. 1787, fol. 530, Chrząstowskie Ol.; AW. Milczewskie Ol. A. 1; Rel. Posn. nr 626, r. 1788, fol. 405, Zakrzewo Ol. Por. również przytoczony w aneksie wilkierz dla Ol. Kotusz.
-[^47-3]: Tak było w OI. Kałędek (Q I, nr 54) i w OI. Bronice (KI. XII, 6 II, fol. 55).
-[^47-4]: W Lubaskich OIL. (KI. XII, 6 V, fol. 116). |
+[^47-2]: AW. Chodzież, C. I, fol. 2 (Krystynka Ol.); Rel. Cost. nr 220, r. 1787, fol. 530, Chrząstowskie Ol.; AW. Milczewskie Ol. A. 1; Rel. Posn. nr 626, r. 1788, fol. 405, Zakrzewo Ol. Por. również przytoczony w aneksie wilkierz dla Ol. Kotusz.
+[^47-3]: Tak było w Ol. Kałędek (Q I, nr 54) i w Ol. Bronice (Kl. XII, 6 II, fol. 55).
+[^47-4]: W Lubaskich Ol.. (Kl. XII, 6 V, fol. 116). |
 [^47-5]: Rel. Cost. nr 220, r. 1787, fol. 372.
 [^47-6]: Rel. Posn. nr 4535, r. 1742, fol. ZJU.
 [^47-7]: AW. Stare Łoskońskie OIl., B. 365.
 [^47-8]: AW. Budziszewskie Ol., B. 110 (ugoda z r. 1770).
 [^47-9]: Rel. Posn. nr 641, r. 1792, fol. 127.
 [^47-10]: AW. Czapury, B. 1 a.
-[^47-11]: AW. Uścikowskie Ol., B. 1054: „który zaś kupi następca, powinien będzie gromadzie piwa beczkę wstępnego”. Podobnie: Rel. Posn. nr 640, r. 1791, fol. 248, Rataje OI.; Rel. Posn. nr 620, r. 1787, fol. 27, Snowidowo OIl.; AGH, sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 33, Stodólsko OI.
+[^47-11]: AW. Uścikowskie Ol., B. 1054: „który zaś kupi następca, powinien będzie gromadzie piwa beczkę wstępnego”. Podobnie: Rel. Posn. nr 640, r. 1791, fol. 248, Rataje Ol.; Rel. Posn. nr 620, r. 1787, fol. 27, Snowidowo OIl.; AGH, sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 33, Stodólsko Ol.
 
 [p. 48]
 
@@ -1106,15 +1106,15 @@ Sprzedaż zazwyczaj obejmowała zarówno sam grunt, jaki wszystko, co na tym gru
 
 Na gruntach olędrów mogły istnieć pewne służebności na rzecz pana lub osób trzecich. Tu należy zaliczyć trafiające się sporadycznie dworu do wypasania swego bydła na gruntach olęderskich[^48-7]. prawo Sąsiedzi olędra mieli niekiedy prawo kopania rowów przez jego grunt dla spustu wody[^48-8], czasem przysługiwało im prawo przegonu swej trzody przez grunt olęderski *. Naogół jednak wyszczególnione ciężary
 
-[^48-1]: Np. w Białokoskich OI. (AW. Białokosz, B. 1), w Kiączyńskich OI. (AW. Kieł-
-[^48-2]: Poza nicktórymi przywilejami, np. dla Jaromierskich Starych OI., zastrzeżenie takie zawierają wszystkie wilkierze (sygn. podane w dalszych przypisach).
-[^48-3]: Np. w Śroczewskich OIL. (Rel. Posn. nr 035, r. 1790, fol. 272), we Włościejewskich OI. (Rel. Cost. nr 217, r. 1784, fol. 78).
-[^48-4]: W OIL. Kolsztyn, Herbardowo, Marianowo i Nowe Dwory (przywileje z r. 1677).
-[^48-5]: Ponieważ skarb ten do zamku należy, a co nad ziemią, to Hollendrom należeć będzie” (Rel. Posn. nr 641, r. 1792, fol. 260, Wymyślanka OI.).
+[^48-1]: Np. w Białokoskich Ol. (AW. Białokosz, B. 1), w Kiączyńskich Ol. (AW. Kieł-
+[^48-2]: Poza nicktórymi przywilejami, np. dla Jaromierskich Starych Ol., zastrzeżenie takie zawierają wszystkie wilkierze (sygn. podane w dalszych przypisach).
+[^48-3]: Np. w Śroczewskich Ol.. (Rel. Posn. nr 035, r. 1790, fol. 272), we Włościejewskich Ol. (Rel. Cost. nr 217, r. 1784, fol. 78).
+[^48-4]: W Ol.. Kolsztyn, Herbardowo, Marianowo i Nowe Dwory (przywileje z r. 1677).
+[^48-5]: Ponieważ skarb ten do zamku należy, a co nad ziemią, to Hollendrom należeć będzie” (Rel. Posn. nr 641, r. 1792, fol. 260, Wymyślanka Ol.).
 [^48-6]: Patrz dalej, s. 70—71.
-[^48-7]: AW. Szklarka 'Trzcielska, A. 1; AW. Trojanowskie OI., B. 1037; Rel. Posn. nr 640, r. 1791, fol. 248, Rataje Ol.
-[^48-8]: W najstarszych olędrach majętn. wieleńskiej oraz w OI. Ujskich.
-[^48-9]: Tak np. mieszkańcy wsi Rosko mieli prawo przepędzania bydła przez grunty OI. Nowe Dwory (AW. Nowe Dwory, B. 1).
+[^48-7]: AW. Szklarka 'Trzcielska, A. 1; AW. Trojanowskie Ol., B. 1037; Rel. Posn. nr 640, r. 1791, fol. 248, Rataje Ol.
+[^48-8]: W najstarszych olędrach majętn. wieleńskiej oraz w Ol. Ujskich.
+[^48-9]: Tak np. mieszkańcy wsi Rosko mieli prawo przepędzania bydła przez grunty Ol. Nowe Dwory (AW. Nowe Dwory, B. 1).
 
 [p. 49]
 
@@ -1139,8 +1139,8 @@ szych po bezpotomnej śmierci olędra majątek jego przechodził na własność 
 dziedziczenia przez gminę części majątku po bezpotomnie zmarłym olędrze, jednakże poza
 granicami dawnego województwa poznańskiego, notuje Baranowski (Wsie holenderskie, s. 73).
 [^49-2]: Zasada dziedziczenia gruntu przez najstarszego syna, O której wspomina Schmidt, nie istniała. Przeciwnie, jak można wnioskować z zapisów w księgach gminnych, na porządku dziennym było dziedziczenie gruntu nawet przez córki, za spłatą synów.
-[^49-3]: Por. np. wilkierz dla OI. Nowodąbrowskich (AW. B. 1).
-[^49-4]: Bardzo szczegółowe pod tym względem przepisy znajdują się w przywilejach dla OI. Huta, Krystynka i Ol. Milczewskich: „Ponieważ znaczna się krzywda dzieje dla dzieci po każdym zmarłym oycu, przez powtórne matki ich postanowienie. Żaczym ustanawiam im przez dobry porządek zupełne bezpieczeństwo, iako to iak prędko oyciec obumrze, tak zaraz sołtys z ławnikami y naturalnemi opiekunami spisać całą substancyą zmarłego pozostałą, jako to w inwentarzach, sprzętach, iako też sumiennie otaksować dobra y tę summę wraz z innemi ruchomościami spisać y w protokuł ten regestr wprowadzić gdzie są insze ich trans- akcyc wpisane powinien, a gdyby pozostała wdowa miała iść za mąż, tedy sołtys y ławnicy wraz z opiekunami wyznaczyć dzieciom według proporcy! z substancy1 tylo oyczystey kon- traktem małżeńskim powinni będą cząstki, ażeby się dzieci cieszyły z krwawey oyca pracy substancyą. Ieżeliby zaś z powtórnego małżeństwa nie miało bydź dzieci, a miała wprzód umrzeć matka, niżeli drugi mąż, tedy połowa tey substancyi, z którcy mężowi swemu powtór- nemu kontraktem małżeńskim zapisała, na dzieci z pierwszego małżeństwa spadać ma, iako naturalnych sukcessorów, druga zaś połowa przy mężu powtórnym zostać się powinna. IJeżc- liby miała z powtórnego małżeństwa dzieci, tedy z tey cząstki ley własney, także po iey śmierci
+[^49-3]: Por. np. wilkierz dla Ol. Nowodąbrowskich (AW. B. 1).
+[^49-4]: Bardzo szczegółowe pod tym względem przepisy znajdują się w przywilejach dla Ol. Huta, Krystynka i Ol. Milczewskich: „Ponieważ znaczna się krzywda dzieje dla dzieci po każdym zmarłym oycu, przez powtórne matki ich postanowienie. Żaczym ustanawiam im przez dobry porządek zupełne bezpieczeństwo, iako to iak prędko oyciec obumrze, tak zaraz sołtys z ławnikami y naturalnemi opiekunami spisać całą substancyą zmarłego pozostałą, jako to w inwentarzach, sprzętach, iako też sumiennie otaksować dobra y tę summę wraz z innemi ruchomościami spisać y w protokuł ten regestr wprowadzić gdzie są insze ich trans- akcyc wpisane powinien, a gdyby pozostała wdowa miała iść za mąż, tedy sołtys y ławnicy wraz z opiekunami wyznaczyć dzieciom według proporcy! z substancy1 tylo oyczystey kon- traktem małżeńskim powinni będą cząstki, ażeby się dzieci cieszyły z krwawey oyca pracy substancyą. Ieżeliby zaś z powtórnego małżeństwa nie miało bydź dzieci, a miała wprzód umrzeć matka, niżeli drugi mąż, tedy połowa tey substancyi, z którcy mężowi swemu powtór- nemu kontraktem małżeńskim zapisała, na dzieci z pierwszego małżeństwa spadać ma, iako naturalnych sukcessorów, druga zaś połowa przy mężu powtórnym zostać się powinna. IJeżc- liby miała z powtórnego małżeństwa dzieci, tedy z tey cząstki ley własney, także po iey śmierci
 z pierwszego małżeństwa dzieci równo należeć maią, iako do macierzystey substancyi, gdyż
 tylo z oyczystey przez wyrażony kontrakt małżeński porcyą owe pierwszego małżeństwa
 dzieci ukontentowane będą. A gdyby zaś miała przeżyć powtórnego męża, a nie miała żad-
@@ -1150,50 +1150,50 @@ a nie dzieciom pierwszego małżeństwa należeć ma”,
 [p. 50]
 
 
-sporządzane w określonej formie. Tak np. w Jędrzejewskich OI. osadnicy zobowiązani byli sporządzać je na piśmie i przedkłedać Co podpisu najprzód sołtysowi i ławnikom, a następnie panu. Za czynrość tę pobierał pan 11[^50-1] tynfów od każdego aktuł.
+sporządzane w określonej formie. Tak np. w Jędrzejewskich Ol. osadnicy zobowiązani byli sporządzać je na piśmie i przedkłedać Co podpisu najprzód sołtysowi i ławnikom, a następnie panu. Za czynrość tę pobierał pan 11[^50-1] tynfów od każdego aktuł.
 
 [^50-1]: Kar. II, fol. 239.
-[^50-2]: Wspólne organy gminne miały osady Czerwonak, Kliny i Janikowo (por. aneks II). OI. Zwierzyniec nie miały własnego sołtysa, a tylko wybierały ławnika do gminy Nowy Zatom. Ol. Sikorce należały do administracji gminnej w Kamińskich Ol.
-[^50-3]: Rel. Cost. nr 215, r. 1782, fol. 351; AW. Uścikowskie OI., B. 1054.
+[^50-2]: Wspólne organy gminne miały osady Czerwonak, Kliny i Janikowo (por. aneks II). Ol. Zwierzyniec nie miały własnego sołtysa, a tylko wybierały ławnika do gminy Nowy Zatom. Ol. Sikorce należały do administracji gminnej w Kamińskich Ol.
+[^50-3]: Rel. Cost. nr 215, r. 1782, fol. 351; AW. Uścikowskie Ol., B. 1054.
 [^50-4]: W Zakrzewie (Rel. Posn. nr 620, r. 1788, fol. 406).
 [^50-5]: 'Tak było np. w Popowie (Rel. Cost. nr 174, r. 1739, fol. 1121), w Kawczynie (Rel. Cost. nr 177, r. 1742, fol. 211).
-[^50-6]: Np. w Budziszewskich OI. (AW. B. 108), w OI. Dziewczastruga (AW. B. 1028), w Gębickich OI. (AW. A. 1).
+[^50-6]: Np. w Budziszewskich Ol. (AW. B. 108), w Ol. Dziewczastruga (AW. B. 1028), w Gębickich Ol. (AW. A. 1).
 
 [p. 51]
 
 
-4, Samorząd gminny. a) Organizacja. Szeroko rozbudowany samorząd gminny stanowił, jak o tym wspominaliśmy, istotną cechę osadnictwa olęderskiego. W zasadzie każda osada tworzyła odrębną jednostkę samorządową. W wyjątkowych wypadkach dwie lub nawet trzy osady mogły mieć organy samorządowe wspólne[^50-2]. Ustrój samorządu gminnego w osadach olęderskich przedstawiał się odmiennie niż we wsiach pozostałych. Dotyczyłoj to w pierwszym rzędzie organów samorządowych. Organy te tworzyli wybieralni sołtys[^50-3] ławnicy. Kadencja ich trwała I rok. Zupełnie wyjątkowo w Radoszkowskich OI. sołtys, a wUścikowskich OI. cała ława gminna wybierana była dożywotnio %, wspólny zaś sołtys Ol. Czerwonackich, Janikowskich[^50-4] OI. Kliny wybierany był na okres trzyletni. Wyboru tak sołtysa, jak i ławników dokonywało zgromadzenie wszystkich gospodarzy gminy. Jedynie w OI. Karpickich wybór ławników należał do sołtysa. Ławników wybierano najczęściej 2,[^50-5] rzadziej 3,[^50-6] wyjątkowo 4% W tym samym składzie wyznaczano zastępców. Z reguły wybór organów samorządowych przypadał na czas Zielonych Świątek, niekiedy jednak kadencja kończyła się na św. Marcina (11 listopada) 5, lub św. Jana Chrzciciela (24 czerwca) 8. Przepisów ograniczających bierne względnie czynne prawo wyborcze nie spotykamy. Niewątpliwe Jednak istniały pod tym względem pewne reguły zwyczajowe. Pewne Jest tylko to, że ani czynnego ani biernego prawa wyborczego nie miały kobiety. Wybór padał zazwyczaj na starszych gospodarzy osady. W nielicznych wypadkach hl wybór wymagał zatwierdzenia przez dwór !, lub nawet pan wybierał jednego z przedstawionych mu[^51-1] kandydatów.
+4, Samorząd gminny. a) Organizacja. Szeroko rozbudowany samorząd gminny stanowił, jak o tym wspominaliśmy, istotną cechę osadnictwa olęderskiego. W zasadzie każda osada tworzyła odrębną jednostkę samorządową. W wyjątkowych wypadkach dwie lub nawet trzy osady mogły mieć organy samorządowe wspólne[^50-2]. Ustrój samorządu gminnego w osadach olęderskich przedstawiał się odmiennie niż we wsiach pozostałych. Dotyczyłoj to w pierwszym rzędzie organów samorządowych. Organy te tworzyli wybieralni sołtys[^50-3] ławnicy. Kadencja ich trwała I rok. Zupełnie wyjątkowo w Radoszkowskich Ol. sołtys, a wUścikowskich Ol. cała ława gminna wybierana była dożywotnio %, wspólny zaś sołtys Ol. Czerwonackich, Janikowskich[^50-4] Ol. Kliny wybierany był na okres trzyletni. Wyboru tak sołtysa, jak i ławników dokonywało zgromadzenie wszystkich gospodarzy gminy. Jedynie w Ol. Karpickich wybór ławników należał do sołtysa. Ławników wybierano najczęściej 2,[^50-5] rzadziej 3,[^50-6] wyjątkowo 4% W tym samym składzie wyznaczano zastępców. Z reguły wybór organów samorządowych przypadał na czas Zielonych Świątek, niekiedy jednak kadencja kończyła się na św. Marcina (11 listopada) 5, lub św. Jana Chrzciciela (24 czerwca) 8. Przepisów ograniczających bierne względnie czynne prawo wyborcze nie spotykamy. Niewątpliwe Jednak istniały pod tym względem pewne reguły zwyczajowe. Pewne Jest tylko to, że ani czynnego ani biernego prawa wyborczego nie miały kobiety. Wybór padał zazwyczaj na starszych gospodarzy osady. W nielicznych wypadkach hl wybór wymagał zatwierdzenia przez dwór !, lub nawet pan wybierał jednego z przedstawionych mu[^51-1] kandydatów.
 
 Ustrój organów gminnych nie przedstawiał się jednolicie w ciągu całego okresu kolonizacji. Ze strony panów sporadycznie ujawniała się tendencja do ograniczenia prerogatyw kolegialnych władz gminnych rzecz sołtysa i do większego uzależnienia sołtysa od dworu. Przy na lokacji paru osad późniejszych ustanowiony został nawet sołtys dziedziczny, przez co osady te pod względem ustrojowym upodobniły się pewnym stopniu do osad lokowanych współcześnie na prawie niemieckim. Osady te w aneksie I włączone zostały do grupy osad przejściowych. 'To samo znaczenie miał nakaz przedstawiania elektorów gminy do zatwierdzenia przez dwór. Znacznie rzadsze były próby przeobrażenia ustroju gminnego osad już istniejących. Poprzednio już, na s. 40 przedstawiona została ewolucja, jaką przeszła osada Jędrzejewo. Dziedzicznego sołtysa z nominacji pańskiej próbowano narzucić u schyłku XVIII w. Starym Jaromierskim Ol., oraz olędrom Starego i Nowego Ujścia %. Odwrotnie jednak, osada Rzecień lokowana na zasadach prawa niemieckiego, pod względem ustrojowym upodobniła się z biegiem czasu do osad olęderskich. Ogólnie stwierdzić trzeba, że ustrój gminny olęderski nadany raz osadzie w przywileju lokacyjnym, był przez dwór i później szanowany.
 
 b. Funkcje samorządu podzielić możemy na funkcje w zakresie poruczonym[^51-2] w zakresie własnym. W pierwszym wypadku organy samorządowe pełniły obowiązki wchodzące w zakres administracji dworskiej, a zlecone im przez pana. Tak więc sołtys i ławnicy zobowiązani byli dopilnować, aby cała gmina punktualnie i w całości wypełniała powinności dworskie[^51-3]. Sołtysa obowiązkiem było również zbieranie należnych panu czynszów i opłat i oddawanie ich do dworu$. Przy tym, jeśli chodzi o opłaty od sprzedaży gospodarstw, od umów, winien był on dopilnować, żeby nie dopuszczano się sprzeniewierzeń i nie[^51-4] deklarowano sum fałszywych. Po upływie lat wolności władze gminne zobowiązane były podawać do dworu imiona i nazwiska wszystkich osadników $. Do nich także należał obowiązek doglądania granic między[^51-5] gruntami osady a gruntami sąsiednimi ?.
 
-[^51-1]: LM. i. w olędrach majętn. sierakowskiej, dalej w Białokoskich OIl., Daleszynie, Dy- maczewskich, Karpickich, Kuślińskich OI., Łokaczu, Podgradowicach, Proszkowskich, Pusze czykowskich Ol., Ręcku, Różnowskich Ol., Tarnowie.
-[^51-2]: W Zakrzewie (Rel. Posn. nr 626, r. 1788, fol. 406), w Stobnickich OI. (AW. B. 991).
+[^51-1]: LM. i. w olędrach majętn. sierakowskiej, dalej w Białokoskich OIl., Daleszynie, Dy- maczewskich, Karpickich, Kuślińskich Ol., Łokaczu, Podgradowicach, Proszkowskich, Pusze czykowskich Ol., Ręcku, Różnowskich Ol., Tarnowie.
+[^51-2]: W Zakrzewie (Rel. Posn. nr 626, r. 1788, fol. 406), w Stobnickich Ol. (AW. B. 991).
 [^51-3]: AW. Jaromierz, B. I.
-[^51-4]: Np. w Radoszkowskich OI. 5 W olędrach majętn. sierakowskiej. 6 W OLI. Charłub, Komorowskich, Włościejewskich (sygn. w aneksie I).
-[^51-5]: W OI. Włościejewskich. 4
+[^51-4]: Np. w Radoszkowskich Ol. 5 W olędrach majętn. sierakowskiej. 6 W OLI. Charłub, Komorowskich, Włościejewskich (sygn. w aneksie I).
+[^51-5]: W Ol. Włościejewskich. 4
 
 [p. 52]
 
 
 Kompetencje organów gminnych w zakresie własnym obejmowały dwa rodzaje spraw: administrację gminną i sądownictwo gminne. Przepisy administracyjne obowiązujące członków gminy zebrane były w tzw. wilkierzach (Wizlikiire) l. Jakkolwiek nadane w różnym czasie i przez[^52-1][^52-2] różnych panów, pod względem treści są one niemal identyczne, co[^52-3][^52-4] wskazuje na to, że pisano je według wspólnego wzoru, albo raczej, że wilkierze późniejsze wzorowane były na wilkierzach spisanych wcześniej. Badania porównawcze nad pochodzeniem norm zawartych w wilkierzach przekroczyłyby ramy niniejszej pracy; w każdym razie wydaje się rzeczą pewną, że normy te oparte są na wzorach obcych. Jeden wilkierzów przytaczamy całości aneksie. Z wilkierzów przebija z w w silne poczucie wspólności gminnej. Znaczna liczba postanowień w nich zawartych ma na celu usunięcie źródeł niezgody między poszczególnymi członkami gminy, względnie zobowiązuje ich do pomagania sobie w potrzebie. To drugie leżało zresztą we własnym interesie olędrów, gdyż za powinności dworskie gmina odpowiadała zazwyczaj solidarnie, żadnemu więc z jej członków nie mógł być obojętny stan majątkowy i wypłacalność sąsiada. Kontrola nad gospodarką poszczególnych członków gminy należała do ważnych funkcji administracji gminnej. Organy gminne zobowiązane były nawet do przymusowego usunięcia olędra źle gospodarującego i obsadzenia gospodarstwa innym. Że obowiązek ten był rzeczywiście wykonywany, dowodzi przypis na s. 38. W niektórych osadach poszczególni gospodarze zobowiązani byli podawać do wiadomości władz gminnych ważniejsze zdziałane przez siebie akty prawne (kontrakty kupna-sprzedaży, testamenty, zapisy itd.). Akty te wpisywane były do specjalnej księgi prowadzonej przez każdorazowe organy samorządowe. Ksiąg takich przechowało się kilka 3, zawierają one wiele ciekawego materiału z życia osad. Niekiedy akty prawne wpisane do ksiąg gminnych musiały być przedstawione do dodatkowej aprobaty pańskiej. Przy tej okazji pan pobierał pewne opłaty 4.
 
-[^52-1]: Przechowały się wilkierze: dla Ol. Chromiec (AW. A. I, r. 1748), Gębickich OI. (AW. A. 4, r. 1730), Góździna (AW. A. 2, r. 1730), Huty (AW. C. 2), r. 1730 (?), Nowodą- browskich al. Jastrzębnickich OI. (AW. B. I, r. 1775), OI. Kotusz (AW. A. 1, daty brak), OI. Nowych Tuchorskich (AW. A. I, r. 1745), OI. Rataje (AW. A. I, r. 1741), Złotkowa (AW. B. 3).
+[^52-1]: Przechowały się wilkierze: dla Ol. Chromiec (AW. A. I, r. 1748), Gębickich Ol. (AW. A. 4, r. 1730), Góździna (AW. A. 2, r. 1730), Huty (AW. C. 2), r. 1730 (?), Nowodą- browskich al. Jastrzębnickich Ol. (AW. B. I, r. 1775), Ol. Kotusz (AW. A. 1, daty brak), Ol. Nowych Tuchorskich (AW. A. I, r. 1745), Ol. Rataje (AW. A. I, r. 1741), Złotkowa (AW. B. 3).
 [^52-2]: Prawdopodobnie gmina przedstawiała panu gotowy już wzór do aprobaty. Formal- nie jednak, Jak wynika z brzmienia wilkierza, wystawiającym go był pan a nie gmina. Innego zdania jest Schmidt, Jednak poglądu swego nie uzasadnia.
-[^52-3]: Dla FHerbardowa (AW. C. 2), Folsztyna (AW. dep. C. 9), Łokacza (AW. dep. C. 4), Stróżewskich OI. (AW. C. 2).
-[^52-4]: Np. w Lubaskich OIL. (KI. XIT, 6. V, fol. 116).
+[^52-3]: Dla FHerbardowa (AW. C. 2), Folsztyna (AW. dep. C. 9), Łokacza (AW. dep. C. 4), Stróżewskich Ol. (AW. C. 2).
+[^52-4]: Np. w Lubaskich Ol.. (Kl. XIT, 6. V, fol. 116).
 
 [p. 53]
 
 
-Sądownictwo gminne obejmowało w pierwszym rzędzie sprawy o wykroczenia przeciw przepisom wilkierza i zarządzeniom edministracyjnym organów gminnych, dalej wszystkie inne sprawy (zw:dy, bójki, kradzieże, spory graniczne) prócz spraw większej wagi zastrzeżonych panu. Do kompetencji sądu gminnego należały również sprawy o wykroczenia przeciwko postanowieniom przywileju lokacyjnego !, Być może, że sąd gminny pełnił również funkcje sądu polubownego. Według przywileju dla Borui*? sędziowie gminni „na porządek, bez-[^53-1] pieczność i spokojność, zgoła powodzenie, rząd i sprawiedliwość naypilniey poglądać będą i wszelkiey do tego dołożą staranności i usilrości[^53-2] swoiey”. Karą stosowaną przez sąd była grzywna, a w wyjątkowych wypadkach areszt 3. Od orzeczeń sądu gminnego przysługiwe ła zasą-[^53-3] dzonym zawsze apelacja do dworu. Aby jednek środka odwoławczego nie nadużywano, wilkierze postanawiały, że „kto by epeloweł przez złośliwość i niepotrzebnie, bezpodstawnie pana trudził, podwójnie zostanie ukarany”[^53-4]. Gdy w dziedzinie administracji sołtys miał zwykle szersze kompetencje, niż pozostałe organy gminne, w zespole sądzącym każdy członek miał równe prawa[^53-5]. Oskarżony członek sądu był sądzony przez pozostałych przysięgłych tak samo jak każdy inny mieszkaniec osady. Wilkierze dokładnie określały procedurę sądową. W Góździnie posiedzenia sądu miały odbywać się co 2 tygodnie, w Jastrzębnickich OI. co 4 tygodnie, w dzień niedzielny. Członkowie gminy zobowiązani byli do stawienia się na każde wezwanie sądu, do składania zeznań i do bezwzględnego respektowania wszystkich innych wydanych przez sąd orzeczeń i zarządzeń. Specjalne przepisy porządkowe miały na celu zapewnienie bezpieczeństwa i powagi sądu podczas rozpraw. Kobiety z reguły nie miały zdolności procesowej, ani też nie mogły znajdować się w miejscu urzędowania sądu. Wyjątkowo mogły stawać sądzie wtedy, gdy rozstrzygano ich własre sprawy i osobiste stawiennictwo było konieczne. Również w drodze wyjątku mogły zastępować mężow w sprawuch nagłych, w wypadku ich nieobecrości lub obłożnej choroby. Gdyby jednakże ważyły się mioteć przed sądem obelgi, czekała je surowa kara. Fgzekucji wyroków zapadłych w sądzie gminnym dokonyweł prawdopodobnie soltys przy popzrciu pańskim. Gmina po-
+Sądownictwo gminne obejmowało w pierwszym rzędzie sprawy o wykroczenia przeciw przepisom wilkierza i zarządzeniom edministracyjnym organów gminnych, dalej wszystkie inne sprawy (zw:dy, bójki, kradzieże, spory graniczne) prócz spraw większej wagi zastrzeżonych panu. Do kompetencji sądu gminnego należały również sprawy o wykroczenia przeciwko postanowieniom przywileju lokacyjnego !, Być może, że sąd gminny pełnił również funkcje sądu polubownego. Według przywileju dla Borui*? sędziowie gminni „na porządek, bez-[^53-1] pieczność i spokojność, zgoła powodzenie, rząd i sprawiedliwość naypilniey poglądać będą i wszelkiey do tego dołożą staranności i usilrości[^53-2] swoiey”. Karą stosowaną przez sąd była grzywna, a w wyjątkowych wypadkach areszt 3. Od orzeczeń sądu gminnego przysługiwe ła zasą-[^53-3] dzonym zawsze apelacja do dworu. Aby jednek środka odwoławczego nie nadużywano, wilkierze postanawiały, że „kto by epeloweł przez złośliwość i niepotrzebnie, bezpodstawnie pana trudził, podwójnie zostanie ukarany”[^53-4]. Gdy w dziedzinie administracji sołtys miał zwykle szersze kompetencje, niż pozostałe organy gminne, w zespole sądzącym każdy członek miał równe prawa[^53-5]. Oskarżony członek sądu był sądzony przez pozostałych przysięgłych tak samo jak każdy inny mieszkaniec osady. Wilkierze dokładnie określały procedurę sądową. W Góździnie posiedzenia sądu miały odbywać się co 2 tygodnie, w Jastrzębnickich Ol. co 4 tygodnie, w dzień niedzielny. Członkowie gminy zobowiązani byli do stawienia się na każde wezwanie sądu, do składania zeznań i do bezwzględnego respektowania wszystkich innych wydanych przez sąd orzeczeń i zarządzeń. Specjalne przepisy porządkowe miały na celu zapewnienie bezpieczeństwa i powagi sądu podczas rozpraw. Kobiety z reguły nie miały zdolności procesowej, ani też nie mogły znajdować się w miejscu urzędowania sądu. Wyjątkowo mogły stawać sądzie wtedy, gdy rozstrzygano ich własre sprawy i osobiste stawiennictwo było konieczne. Również w drodze wyjątku mogły zastępować mężow w sprawuch nagłych, w wypadku ich nieobecrości lub obłożnej choroby. Gdyby jednakże ważyły się mioteć przed sądem obelgi, czekała je surowa kara. Fgzekucji wyroków zapadłych w sądzie gminnym dokonyweł prawdopodobnie soltys przy popzrciu pańskim. Gmina po-
 
-[^53-1]: Któryby także olender miał sprzeciwić się któremukolwkik punktowi w tym prawie umieszczonemu, przez sołtysa y ławników sądzony y przyzwotcie karany bydź powinien” (Rel. Cost. nr 223, r. 1787, fol. 182, OI. Charłub).
+[^53-1]: Któryby także olender miał sprzeciwić się któremukolwkik punktowi w tym prawie umieszczonemu, przez sołtysa y ławników sądzony y przyzwotcie karany bydź powinien” (Rel. Cost. nr 223, r. 1787, fol. 182, Ol. Charłub).
 [^53-2]: Rel. Cost. nr 218, r. 1785, fol. 221.
 [^53-3]: Por. wilkierze.
-[^53-4]: Wilkierz dla OI. Chromiec.
-[^53-5]: Według przywileju dla OI. Sikorce (AW. B. 911): „żadney zaś sprawy sam soltys sądzić nie będzie mógł, tylko wraz z ławnikami pod nieważnością dekretu”.
+[^53-4]: Wilkierz dla Ol. Chromiec.
+[^53-5]: Według przywileju dla Ol. Sikorce (AW. B. 911): „żadney zaś sprawy sam soltys sądzić nie będzie mógł, tylko wraz z ławnikami pod nieważnością dekretu”.
 
 [p. 54]
 
@@ -1203,15 +1203,15 @@ D4 siadała niekiedy własną pieczęć, kiórą organy gminne pieczętowały ur
 Za czynności administracyjne i sądowe organy gminne otrzymywały pewne wynagrodzenie, zazwyczaj od gminy, wyjątkowo od pana. Na wynagrodzenie to składały się pewne stałe opłaty roczne (od yospodarstwa 2[^54-2] względnie od jednostki gruntu[^54-3]). dalej opłaty od poszczególnych skarg (Klugegeld)[^54-4]. Koszty za wyjazdy sołtysa czy ławników w interesach gminy pokrywali wszyscy gospodarze proporcjonalnie. W Starych Oberskich Ol. pan zwalniał każdorazowego sołtysa od wszelkich robocizn 5.[^54-5] c. Skarbowość gminna, ubezpieczenie od ognia. Dochody z opłat administracyjnych i kar sądowych tworzyły kasę gminną. Wpływy przechowywane były w specjalnej skrzynce pozostającej u sołtysa, od której klucz mieli ławnicy $, albo, co się rzadko zdarzało, pan[^54-7]. Przed[^54-6] upływem kadencji każdorazowy sołtys z ławnikami dokonywał obrachunków rocznych i to bądź przed całą gminą, bądź we dworze pańskim. Dochody z kar sądowych zazwyczaj przypadały w całości panu[^54-8]; niekiedy: jednak pan zastrzegał sobie tylko część dochodów *, lub też[^54-9] przeznaczał je na pewien określony cel, np. na utrzymanie rowów w obrębie osady[^54-10]. Być może, że w kasie gminnej przechowywano również ewentualne fundusze na utrzymanie pastucha gminnego, stróża nocnego, nauczyciela względnie lektora. Wpływy. kasowe mogły być też przeznaczone na zasilenie tzw. kasy ogniowej. Kasa taka z polecenia pańskiego założona została m. i. w Ol. Radoszkowsliich[^54-11].
 
 [^54-1]: Por. Goldmann, Uber die Siegel, oraz Gumowski, Herby i pieczęcie.
-[^54-2]: W Budziszcwskich OI. (AW. B. 110) każdy gospodarz płacił rocznie 1 złoty.
-[^54-3]: W Nowodąbrowskich OI. 1 grosz z morgu (por. wilkierz).
-[^54-4]: W OIL. Chromiec każda strona opłacała po 12 szelągów od skargi; z tego 4 szelągi zabierał sołtys, a resztę pozostały zespół sądzący. W Ol. Nowodąbrowskich (Jastrzębnickich) każdorazowa opłata wynosiła 0 groszy. Oczywiście strunę przegrywającą zasądzano na zwrot kosztów przeciwnikowi.
+[^54-2]: W Budziszcwskich Ol. (AW. B. 110) każdy gospodarz płacił rocznie 1 złoty.
+[^54-3]: W Nowodąbrowskich Ol. 1 grosz z morgu (por. wilkierz).
+[^54-4]: W Ol.. Chromiec każda strona opłacała po 12 szelągów od skargi; z tego 4 szelągi zabierał sołtys, a resztę pozostały zespół sądzący. W Ol. Nowodąbrowskich (Jastrzębnickich) każdorazowa opłata wynosiła 0 groszy. Oczywiście strunę przegrywającą zasądzano na zwrot kosztów przeciwnikowi.
 [^54-5]: AGH. sąd Wolsztyn, majętn. Obra, vol. IV, fol. 138.
 [^54-6]: Tak było np. w Góździnie (AW. A. 1), w Kawczynie (Rel. Cost. nr 177, r. 1742, fol. 212), w Ratajach (Rel. Posn. nr 640, r. 1791, fol. 249).
 [^54-7]: W osadach majętn. sierakowskiej.
-[^54-8]: Zaznaczone Jest to wyraźnie w przywileju dla OI. Cisiogórskich (Rel. Cost. nr 224, r. 1788, fol. 379). Kary pieniężne nałożone w r. 1784 w OI. Terespotockich przedstawiały nawet wcale poważną pozycję w rocznych dochodach pańskich z olędrów (AGH, sąd Gro- dzisk, majętn. Opalenica, vol. III, fol. 20).
+[^54-8]: Zaznaczone Jest to wyraźnie w przywileju dla Ol. Cisiogórskich (Rel. Cost. nr 224, r. 1788, fol. 379). Kary pieniężne nałożone w r. 1784 w Ol. Terespotockich przedstawiały nawet wcale poważną pozycję w rocznych dochodach pańskich z olędrów (AGH, sąd Gro- dzisk, majętn. Opalenica, vol. III, fol. 20).
 [^54-9]: W olędrach majętn. sierakowskiej gmina zatrzymywała 5-ty grosz (20%,), resztę zabierał pan.
-[^54-10]: W OI. Snowidowo (Rel. Posn. nr 620, r. 1787, fol. 27).
+[^54-10]: W Ol. Snowidowo (Rel. Posn. nr 620, r. 1787, fol. 27).
 [^54-11]: Rel. Cost. nr 215, r. 1782, fol. 351.
 
 [p. 55]
@@ -1225,7 +1225,7 @@ I. Topografia osad. Kolonizacja olęderska była w zupełności kolonizacją rol
 
 [^55-1]: Hładyłowicz, Zmiany krajobrazu, s. 23 i nast. oraz mapki; Maas, Die Posener Haulindereien, s. 113.
 [^55-2]: Meitzen, Der Boden, I, s. 239 i nast.; Miklaszewski, Gleby ziem polskich; K iel- czewska, Osadnictwo wiejskie, s. 106—7; Hładyłowicz, Zamiany krajobrazu, s. 27 i nast.; Pawłowski Stanisław, O kształtach powierzchni i podziale Wielkopolski na krainy. Bad. geograficzne, Zcsz. 6---7, Poznań 1931, s. 148.
-[^55-3]: Np. w Suzeleckich OI. ,,Der Acker wire sandigt und schlecht und kónnten die Bauern den 3-ten 'Theil davon recht gebrauchen” (KI. XII 6 II, fol. 97). Nie wiele lepiej było w innych osadach. To samo stwierdza Schmidt (Geschichte, s. 398).
+[^55-3]: Np. w Suzeleckich Ol. ,,Der Acker wire sandigt und schlecht und kónnten die Bauern den 3-ten 'Theil davon recht gebrauchen” (Kl. XII 6 II, fol. 97). Nie wiele lepiej było w innych osadach. To samo stwierdza Schmidt (Geschichte, s. 398).
 
 [p. 56]
 
@@ -1246,14 +1246,14 @@ DT czaj samodzielnie wybierał sobie miejsce dogodne na karczunek. Ze względów
 
 Poza opisanymi dwiema kategoriami osad trafiały się osady olęderskie innych typów. Powstały one w dwojaki sposób. W pierwszym przypadku, gdy wieś istniejącą przeniesiono na prawo olęderskie, względnie olędrzy okupili opustoszułą wieś z budynkami, albo też okupując opustoszałą wieś, już bez budynków, odtwarzali jej kształt pierwotny, powstawała osada olęderska w formie istniejącej już poprzednio. W drugim przypadku, gdy olędrzy musieli dostosować się do specjalnych wymogów pana, powstawała osada planowa, o kształtach wytyczonych w sposób sztuczny I,[^57-1] 3. Budownictwo. W źródłach znajdujemy skąpe wizdomości sposobie stawiania budynków gospodarskich w oszdach olęderskich; kształcie i rozmiarach, oraz o materiale użytym do ich budowy. Zasadniczo kompleks budynków należących do jednego gospodarstwa składał się z chałupy mieszkalnej, stodoły i chlewa. Rzadziej spotykamy wozownie. Chlew często budowany był z chałupą; wyjątkowo w skład budynków wchodził drugi chlew, lub osobny karmik. Chałupa była budowana albo kłód względnie tarcic, albo jako lepianka, tak szmo chlew i stodoła. Zdarzały się też budynki poprostu sklecone z chrustu[^57-2]. Mogła też być część budynku zbudowana z drzewa, a reszta ulcpiona z gliny. Po największej części budynki miały pokrycie ze słomy (snopków), rzadko trzciny, a wyjątkowo znaczniejsze budynki kryte były szkudłami?.[^57-3]
 
-[^57-1]: Wedlug przywileju dla Krosien (AW. Krosna, A. 2) olędrzy „budować się mają w linii porządkiem przeze mniec (tj. pana) im wyznaczoncy”. W Kiączyńskich OI. (AW. A. 1) „budynki maią bydź stawiane nad rowem, którym zdawna woda do icziora zwykła iść do stawu wielkiego Kiełpin zwancgo... w dobrym szyku i porządku, tak aby wieś formo- wały”. W Góździnie (AW. A. I, fol.71) „budować im się inacy nie pozwalam, tylko w kupie, na podobieństwo inszych wsi”. W Borkowskich OI. (AW. A. 1) olędrzy „wybudować się na- leżycie powinni i iak wieś budować nie dalcko iedno drugiego domostwa, w dwoie połaci, tak aby na icdney domostwa były, na drugicy stodoły”. 'Tak samo w Dymaczewskich OI. (Rel. Posn. nr 489, r. 1751, fol. 69).
+[^57-1]: Wedlug przywileju dla Krosien (AW. Krosna, A. 2) olędrzy „budować się mają w linii porządkiem przeze mniec (tj. pana) im wyznaczoncy”. W Kiączyńskich Ol. (AW. A. 1) „budynki maią bydź stawiane nad rowem, którym zdawna woda do icziora zwykła iść do stawu wielkiego Kiełpin zwancgo... w dobrym szyku i porządku, tak aby wieś formo- wały”. W Góździnie (AW. A. I, fol.71) „budować im się inacy nie pozwalam, tylko w kupie, na podobieństwo inszych wsi”. W Borkowskich Ol. (AW. A. 1) olędrzy „wybudować się na- leżycie powinni i iak wieś budować nie dalcko iedno drugiego domostwa, w dwoie połaci, tak aby na icdney domostwa były, na drugicy stodoły”. 'Tak samo w Dymaczewskich Ol. (Rel. Posn. nr 489, r. 1751, fol. 69).
 [^57-2]: W Kawczynie (Rel. Cost. nr 196, r. 1761, fol. 477).
-[^57-3]: Por. opisy budynków OI. Borkowskich, Krosińskich, Krosien, Nowych i Sowińskich (Rel. Posn. nr 632, r. 1790, fol. 47 i nast.), Kawczyna (Rel. Cost. nr 196, r. 1761, fol. 476) oraz Ol. Radoszkowskich (Rel. Cost. nr 197, r. 1762, fol. 82).
+[^57-3]: Por. opisy budynków Ol. Borkowskich, Krosińskich, Krosien, Nowych i Sowińskich (Rel. Posn. nr 632, r. 1790, fol. 47 i nast.), Kawczyna (Rel. Cost. nr 196, r. 1761, fol. 476) oraz Ol. Radoszkowskich (Rel. Cost. nr 197, r. 1762, fol. 82).
 
 [p. 58]
 
 
-5 OO Budynki na ogół znajdowały się w dobrym stanie. Do gospodarstwa należało również ogrodzone ze wszystkich stron podwórko[^58-1]. W wielu wypadkach panowie w przywileju lokacyjnym czynili zastrzeżenia co do sposobu stawiania przyszłych budynków. W OI. Charłub każdy dom mieszkalny „powinien być o dwóch izbach porządnie z facyatą wystawiony” ?. W OI. Dymaczewskich „domostwa te, które oni[^58-2] budować będą, powinny być obszerne, w blochy fundamentalnie wybudowane, y regularną postawione dyspozycją”?[^58-3]. Gdzie indziej zastrzegano się, aby olędrzy ,,na przyciesiach słuszne budynki stawiali”?[^58-4], Z dużym prawdopodobieństwem można wnioskować, że budynki drewniane częstsze były w osadach powstałych na karczunkach, gdzie łatwiej było o budulec.
+5 OO Budynki na ogół znajdowały się w dobrym stanie. Do gospodarstwa należało również ogrodzone ze wszystkich stron podwórko[^58-1]. W wielu wypadkach panowie w przywileju lokacyjnym czynili zastrzeżenia co do sposobu stawiania przyszłych budynków. W Ol. Charłub każdy dom mieszkalny „powinien być o dwóch izbach porządnie z facyatą wystawiony” ?. W Ol. Dymaczewskich „domostwa te, które oni[^58-2] budować będą, powinny być obszerne, w blochy fundamentalnie wybudowane, y regularną postawione dyspozycją”?[^58-3]. Gdzie indziej zastrzegano się, aby olędrzy ,,na przyciesiach słuszne budynki stawiali”?[^58-4], Z dużym prawdopodobieństwem można wnioskować, że budynki drewniane częstsze były w osadach powstałych na karczunkach, gdzie łatwiej było o budulec.
 
 B. Skład zawodowy! i społeczny
 
@@ -1262,9 +1262,9 @@ Skład zawodowy olędrów. Wśród ludności osad olęderskich trzeba odróżni�
 [^58-1]: Kawczyno, sygn. J. w.
 [^58-2]: Rel. Cost. nr.223, r. 1790, fol. 182.
 [^58-3]: Rel. Posn. nr 489, r. 1751, fol. 69.
-[^58-4]: Wymyślanka OI., Rel. Posn. nr 641, r. 1792, fol. 260; Węgielna OI., tamże, fol. 824. Podobnie w Komorowskich OI., Rel. Posn. nr 645, r. 1793, fol. 102.
-[^58-5]: 7. reguły olędrzy byli nieskrępowani w utrzymywaniu potrzebnych sil roboczych (czeladzi, komorników). Czasami tylko pan zastrzegał się, aby olędrzy nic przetrzymywali u siebie „ludzi złych (włóczęgów, złodziei), przez których szkoda mogłaby się stać w gminie” (przywilej dla Lubaskich OI. z r. 1773, KI. XII 6 V, fol. 116). W wyjątkowych wypadkach pan z faktu utrzymywania komorników w osadzie sam czerpał bezpośrednio korzyści. W Jędrzejewskich OI. każdy z nich inusiał odrabiać panu podczas żniw | dzień w tygodniu (przyw. z r. 1763, KI. XII 13, fol. 239), w Radoskich OI. każdy komornik zobowiązany był płacić do dworu czynsz roczny w wysokości I złotego 1 5groszy (przyw. z r. 1751, AM.Sieraków, GC. 53, fol. 79). Podobne postanowienie spotykamy w przyw. z r. 1788 dla 'Trojanowskich OI.: „Komorników z inwentarzami trzymać nie powinien żaden bez ugody z dworem o czynsz, o robociznę” (AW. B. 1037).
-[^58-6]: "Takic wypadki znane są nam Jedynie dwa: w Przyborowie (AGH sąd Szamotuły, Tax Acten fol. 46) i w Kwiejcach Nowych (KI. XII 6 II, fol. 43). W obu tych osadach miesze kali nie należący do gminy pańscy stróże leśni.
+[^58-4]: Wymyślanka Ol., Rel. Posn. nr 641, r. 1792, fol. 260; Węgielna Ol., tamże, fol. 824. Podobnie w Komorowskich Ol., Rel. Posn. nr 645, r. 1793, fol. 102.
+[^58-5]: 7. reguły olędrzy byli nieskrępowani w utrzymywaniu potrzebnych sil roboczych (czeladzi, komorników). Czasami tylko pan zastrzegał się, aby olędrzy nic przetrzymywali u siebie „ludzi złych (włóczęgów, złodziei), przez których szkoda mogłaby się stać w gminie” (przywilej dla Lubaskich Ol. z r. 1773, Kl. XII 6 V, fol. 116). W wyjątkowych wypadkach pan z faktu utrzymywania komorników w osadzie sam czerpał bezpośrednio korzyści. W Jędrzejewskich Ol. każdy z nich inusiał odrabiać panu podczas żniw | dzień w tygodniu (przyw. z r. 1763, Kl. XII 13, fol. 239), w Radoskich Ol. każdy komornik zobowiązany był płacić do dworu czynsz roczny w wysokości I złotego 1 5groszy (przyw. z r. 1751, AM.Sieraków, GC. 53, fol. 79). Podobne postanowienie spotykamy w przyw. z r. 1788 dla 'Trojanowskich Ol.: „Komorników z inwentarzami trzymać nie powinien żaden bez ugody z dworem o czynsz, o robociznę” (AW. B. 1037).
+[^58-6]: "Takic wypadki znane są nam Jedynie dwa: w Przyborowie (AGH sąd Szamotuły, Tax Acten fol. 46) i w Kwiejcach Nowych (Kl. XII 6 II, fol. 43). W obu tych osadach miesze kali nie należący do gminy pańscy stróże leśni.
 
 [p. 59]
 
@@ -1303,9 +1303,9 @@ c. czeladź. 1.513 12-0 .. . ... — d. luźni za robotą 491 3:9 . — e. żebr
 
 Razem 12.967 500 100-0 | .. łecznym decydował przede wszystkim stopień gospodarczej samodzielności danej jednostki. Z tego punktu widzenia możemy w obrębie każdego stanu przeprowadzić przekrój społeczny w ten sposób, że do war— l Że karczmarzy było więcej, niż wykazuje ich Tol., można wywnioskować z ilości dymów podanych dla karczem w Tod. 89. Nie ulega wątpliwości, że dla wszystkich karczmarzy podstawą utrzymania były gospodarstwa rolne (częstokroć zwolnione od czynszów). Część karczmarzy w Tol. podana została zapewne w rubryce ,„gospodarze”. Oszacowaliśmy ich, mnożąc nadwyżkę dymów karczmarskich w Tod. 89 przez współczynnik 5, wyrażający liczbę osób przypadających na rodzinę karczmarską według tab. III.
 
-2 Ogółem w osadach znajdował się 1 młyn wodny 1 8 wietrznych (wiatraków). Młyn wodny znajdujący się w Sroczewskich OI. istniał już przed lokacją olędrów. W 'Tol. podane są tylko rodziny 2 młynarzy. Rodziny pozostałych właścicieli młynów w liczbie 7, podanych w Tod. 89, oszacowaliśmy licząc 6 osób dym młynarski na 42 osoby. Niewątpliwie — na — ich głównym zawodem było rolnictwo.
+2 Ogółem w osadach znajdował się 1 młyn wodny 1 8 wietrznych (wiatraków). Młyn wodny znajdujący się w Sroczewskich Ol. istniał już przed lokacją olędrów. W 'Tol. podane są tylko rodziny 2 młynarzy. Rodziny pozostałych właścicieli młynów w liczbie 7, podanych w Tod. 89, oszacowaliśmy licząc 6 osób dym młynarski na 42 osoby. Niewątpliwie — na — ich głównym zawodem było rolnictwo.
 
-3 Osoby zaliczone do tej grupy stanowią obsługę hamru znajdującego się w OI. Borujskich. Hamer ten istniał już przed lokacją olędrów; nie był on objęty przywilejem zapewne lokacyjnym. Przypuszczać jednak można, -że jego pracownicy - składali się z mieszkańców Osady. Źródłowych wiadomości tutaj brak.
+3 Osoby zaliczone do tej grupy stanowią obsługę hamru znajdującego się w Ol. Borujskich. Hamer ten istniał już przed lokacją olędrów; nie był on objęty przywilejem zapewne lokacyjnym. Przypuszczać jednak można, -że jego pracownicy - składali się z mieszkańców Osady. Źródłowych wiadomości tutaj brak.
 
 4 Nauczycieli wiejskich, jak można wnioskować z różnych przygodnych wzmianek, musiało być więcej niż I rodzina wykazana Tol. Mieszczą się oni zapewne w rubrykach: »Bgospodarze”, komornicy”, i „„rzemieślnicy”. Podana w przedziałce „zajęci ubocznie w danym zawodzie” cyfra osób należących do rodzin nauczycieli obliczoria została szacunkowo na podstawie wyników tabeli III. Na 94 osady powiatu kościańskiego wypadło proporcjonalnie 36 nauczycieli (łącznie lektorami do tab. III), z czego l został już uwzględz — por. uwagę niony, reszta zaś, licząc 4 osoby na nauczyciela wzgl. lektora z rodziną, uczyniła w sumie 140 dusz.
 
@@ -1329,7 +1329,7 @@ Razem 717 | 3532| 61 122 | 672 13 | 839 | 4204 | 74 |100.0 ..| stwy przodującej
 
 
 
-[^63-1]: Szlachtę osiadłą w osadach olęderskich notują źródła tylko w trzech wypadkach: W Krzyżewnikach, które zresztą nie były czystym typem osady olęderskiej, siedzieli w r. 1795. „Joh. v. Schavelsky, Joseph v. Ratkiewicz”? i ,v. Monkowska” (KI. M. Krzyżewniki) , w Brod- nickich OI. w r. 1775 wymieniony jest „Pan Jan Gruntowski” (Rel. Cost. nr 208, r. 1775, fol. 800), wreszcie w r. 1787 sołtys Chrząstowskich OI. oblatuje w grodzie kościańskim manifest przeciwko ,,urodzonemu Stanisławowi Kossowskiemu, współmieszkańcowi na tychże Olę- drach” zarzucając mu, że kupił w osadzie gospodarstwo bez wiedzy gminy i bez opłacenia panu dziesiątego grosza (Rel. Cost. nr 220, r. 1787, fol. 524 i 530). Czy jednak wspomniana szlachta wchodziła do społeczności gminnej olędrów, wydaje się rzeczą wątpliwą. Prawdo- podobnie zawierała ona z dworem osobną umowę.
+[^63-1]: Szlachtę osiadłą w osadach olęderskich notują źródła tylko w trzech wypadkach: W Krzyżewnikach, które zresztą nie były czystym typem osady olęderskiej, siedzieli w r. 1795. „Joh. v. Schavelsky, Joseph v. Ratkiewicz”? i ,v. Monkowska” (Kl. M. Krzyżewniki) , w Brod- nickich Ol. w r. 1775 wymieniony jest „Pan Jan Gruntowski” (Rel. Cost. nr 208, r. 1775, fol. 800), wreszcie w r. 1787 sołtys Chrząstowskich Ol. oblatuje w grodzie kościańskim manifest przeciwko ,,urodzonemu Stanisławowi Kossowskiemu, współmieszkańcowi na tychże Olę- drach” zarzucając mu, że kupił w osadzie gospodarstwo bez wiedzy gminy i bez opłacenia panu dziesiątego grosza (Rel. Cost. nr 220, r. 1787, fol. 524 i 530). Czy jednak wspomniana szlachta wchodziła do społeczności gminnej olędrów, wydaje się rzeczą wątpliwą. Prawdo- podobnie zawierała ona z dworem osobną umowę.
 [^63-2]: Zob. dalej, s. 113-—117.
 
 [p. 64]
@@ -1402,11 +1402,11 @@ Odwadnianie gruntów odbywało się w ten sposób, że wodę albo odprowadzano r
 wprawdzie również stosowany 1, ale zapewne rzadziej, ze względu na pewną wartość, jaką zawsze dla olędra musiało przedstawiać wykarczowane drzewo. Grunty, niewątpliwie na życzenie osadników, wymierzano im prawie zawsze w jednym kawełku. Ta właściwość cechowała zresztą i pozostałe typy osadnictwa nowożytnego na omawianym tutaj terenie. Wyjątkowo do gospodarstwa olęderskiego należały role w dwóch kzwałkach, lub nawet w trzech”, zwykle wtedy, gdy osadnicy okupili opustoszełe gospodzrstwa kmiece. Role po największej części, jak to wykazują dawne mapy, dzieloro na dwa pola: ozime i jare. Prawdopo-. dobnie część każdego pola przez pewien czas leżała ugorem, tak że systemem uprawy roli najczęściej stosowanym przez olędrów była trójpolówka[^67-1]. Jest też rzeczą możliwą, że na gruntach lepszych stosowano częściowo przynajmniej trójpolówkę ulepszoną. W wielu osadach o szczególnie złej glebie ugór przerosił %/, ogólnej powierzchni gruntów, rola musiała leżeć ugorem przez kilka lat, zanim mogła być znowu wzięta pod uprawę.
 
 [^67-1]: Holsche, Geographie u. Statistik, II, s. 493.
-[^67-2]: AW. Łoskońskie Stare OI. B. 365.
-[^67-3]: ĄW. Milczewskie O.. A. 1: ,„Pomienione włoki wolno im podzielić na dwa lub trzy pola według swoicy woli”. Tak samo AW. Strzeleckie OI., C, 3, fol. 9.
-[^67-4]: Bielawy O1., KI. XII, 6 V, fol. 134: „Der Acker sey sehr sandig und bestinde nur in ausgerodeter Waldung, welcher, wenn solcher einige Jahre besiet worden wśżre, einige Zeit wieder unbeackert miisse liegen bleiben”. Tak samo było w OI. Jasionna, Obelżanki iRzecień. Por. także Schmidt, Geschichte, s. 398. |
-[^67-5]: Rel. Cost. nr 220, r. 1787, fol. 371, Ostrowo, AW. Stare Łoskońskie OI., B. 365.
-[^67-6]: Rel. Cost. nr 222, r. 1789, fol. 348, Gogolewskie OI.: tymże Hollendrom pozwalam role margrabskim prętem, to iest dziewięcio-łokciowym wymierzać”. Stamm (Miary powierz- chni s. 9 i nast.) w rozważaniach swych uwzględnia tylko pręt 71/.-łokciowy. 7? AW. Lewice, dep. A. I (r. 1732). yw
+[^67-2]: AW. Łoskońskie Stare Ol. B. 365.
+[^67-3]: ĄW. Milczewskie O.. A. 1: ,„Pomienione włoki wolno im podzielić na dwa lub trzy pola według swoicy woli”. Tak samo AW. Strzeleckie Ol., C, 3, fol. 9.
+[^67-4]: Bielawy O1., Kl. XII, 6 V, fol. 134: „Der Acker sey sehr sandig und bestinde nur in ausgerodeter Waldung, welcher, wenn solcher einige Jahre besiet worden wśżre, einige Zeit wieder unbeackert miisse liegen bleiben”. Tak samo było w Ol. Jasionna, Obelżanki iRzecień. Por. także Schmidt, Geschichte, s. 398. |
+[^67-5]: Rel. Cost. nr 220, r. 1787, fol. 371, Ostrowo, AW. Stare Łoskońskie Ol., B. 365.
+[^67-6]: Rel. Cost. nr 222, r. 1789, fol. 348, Gogolewskie Ol.: tymże Hollendrom pozwalam role margrabskim prętem, to iest dziewięcio-łokciowym wymierzać”. Stamm (Miary powierz- chni s. 9 i nast.) w rozważaniach swych uwzględnia tylko pręt 71/.-łokciowy. 7? AW. Lewice, dep. A. I (r. 1732). yw
 
 [p. 68]
 
@@ -1428,7 +1428,7 @@ Prócz włóki chełmińskiej sporadycznie używane były miary inne. W okolicy 
 [^68-3]: AW. Marienwald, B. I.
 [^68-4]: 'Tzw. małe ślady. Por.: Sochaniewicz, Ślad, s. 99 i nast.
 [^68-5]: ĄW. Gościejewskic OIl., B. 252; Rel. Posn. nr 628, r. 1789, fol. 204.
-[^68-6]: Kat. I, fol. 59, OI. Herbardowo.
+[^68-6]: Kat. I, fol. 59, Ol. Herbardowo.
 [^68-7]: Np. Ol. Piaski lokowano na jednej włóce. Osadzono na niej 4 gospodarzy (Rel. Posn. nr 641, r. 1792, fol. 240).
 [^68-8]: AW. Dziewczastruga, B. 1028.
 [^68-9]: AW. Orłowice, A. I.
@@ -1439,10 +1439,10 @@ Prócz włóki chełmińskiej sporadycznie używane były miary inne. W okolicy 
 
 
 
-[^69-1]: KI. XII, 7, fol. 122.
-[^69-2]: Przykładem mogą być Ol. Folsztyn. Według lustracji majętn. wieleńskiej w r. 1630 mieszkało tam 32 gospodarzy na 30 włókach. Lustracja z r. 1653 wymienia już 38 gospodarzy, z których 2 siedziało na 11/. włóki, 14 na I włóce, 5 na?/, włóki, 12 na !/, włóki i I na !/, włóki. Razem wypada włók 27. Zmniejszenie o 3 włóki wynikło prawdopodobnie wskutek wymie- rzenia ról większym prętem. W r. 1773 (KI. XIII, 7, fol. 122) liczył Folsztyn 50 gospodarzy, z których I siedział na jednej włóce, 2 na */, włóki, 42 na 1 ', wl.,8 na */g wł., 3 na ?/, wł. Razcm liczyła osada włók 271/,. Wreszcie według lustracji sporządzonej około r. 1800 (A.M Wieleń, C. 250, odpis lustracji majętn. wieleńskiej, złożony do akt procesowych z r. 1800) było w Fol- sztynie również 56 gospodarzy, z których 2 posiadało całe włóki, 1 — */4 wł., 44 — 1/, wł., — 3/5 wł., 13 — 1/, wł., co czyni razem 279/; włóki. Jak widać z zestawienia, w międzyczasie przeciętny obszar gospodarstwa zmniejszył się o połowę, z 50 na 25 morgów. W rzeczywistości powierzchnia gospodarstw w Folsztynie przenosiła nieco podane okrągłe cylry, gdyż w okresie od lokacji osady do r. 1773 poszczególni gospodarze przyorali sobie znaczne kawałki roli, dochodzące niekiedy do 15 morgów. Ogółem pierwotny obszar osady 'wynoszący 27 włók z ułamkiem, powiększył się w ten sposób, o przeszło 4%/, włóki.
-[^69-3]: "Tak np. w OI. Jaromierz Stary (AW. Jaromierz, B. 4) istniały w r. 1829 gospodar- stwa: 13, 15,16, 171/,, 18, 181/,, 20, 201/,, 211/,, 22, 23!/2, 24 i 24'/, mprgowe. W OI. Radosz- kowskich pomiar gruntów Jeszcze z czasów polskich (w r. 1791) wykazal gospodarstwa: 15, 19, 20, 24, 25, 321/, i 41 morgowe, tak samo jak w wypadku poprzednim, w mierze cheł- mińskiej (Rel. Cost. nr 224, r. 1791, fol. 252).
-[^69-4]: Wypadki takie przytaczają również akta wiejskie. W OI. Nowe Dwory np. Adam Sa- pieha w r. 1094 sprzedaje 2 osadnikom grunt dotąd przez nich bezprawnie użytkowany ponad pierwotny rozmiar. W r. 1702 Jan Kazimierz Sapieha sprzedaje olędrom przyorane przed tym grunty o obszarze 33/4 włóki, zakazując na przyszłość kategorycznie dalszego przyory- wania (AW. Nowc Dwory B. 1, fol. 110—11).
+[^69-1]: Kl. XII, 7, fol. 122.
+[^69-2]: Przykładem mogą być Ol. Folsztyn. Według lustracji majętn. wieleńskiej w r. 1630 mieszkało tam 32 gospodarzy na 30 włókach. Lustracja z r. 1653 wymienia już 38 gospodarzy, z których 2 siedziało na 11/. włóki, 14 na I włóce, 5 na?/, włóki, 12 na !/, włóki i I na !/, włóki. Razem wypada włók 27. Zmniejszenie o 3 włóki wynikło prawdopodobnie wskutek wymie- rzenia ról większym prętem. W r. 1773 (Kl. XIII, 7, fol. 122) liczył Folsztyn 50 gospodarzy, z których I siedział na jednej włóce, 2 na */, włóki, 42 na 1 ', wl.,8 na */g wł., 3 na ?/, wł. Razcm liczyła osada włók 271/,. Wreszcie według lustracji sporządzonej około r. 1800 (A.M Wieleń, C. 250, odpis lustracji majętn. wieleńskiej, złożony do akt procesowych z r. 1800) było w Fol- sztynie również 56 gospodarzy, z których 2 posiadało całe włóki, 1 — */4 wł., 44 — 1/, wł., — 3/5 wł., 13 — 1/, wł., co czyni razem 279/; włóki. Jak widać z zestawienia, w międzyczasie przeciętny obszar gospodarstwa zmniejszył się o połowę, z 50 na 25 morgów. W rzeczywistości powierzchnia gospodarstw w Folsztynie przenosiła nieco podane okrągłe cylry, gdyż w okresie od lokacji osady do r. 1773 poszczególni gospodarze przyorali sobie znaczne kawałki roli, dochodzące niekiedy do 15 morgów. Ogółem pierwotny obszar osady 'wynoszący 27 włók z ułamkiem, powiększył się w ten sposób, o przeszło 4%/, włóki.
+[^69-3]: "Tak np. w Ol. Jaromierz Stary (AW. Jaromierz, B. 4) istniały w r. 1829 gospodar- stwa: 13, 15,16, 171/,, 18, 181/,, 20, 201/,, 211/,, 22, 23!/2, 24 i 24'/, mprgowe. W Ol. Radosz- kowskich pomiar gruntów Jeszcze z czasów polskich (w r. 1791) wykazal gospodarstwa: 15, 19, 20, 24, 25, 321/, i 41 morgowe, tak samo jak w wypadku poprzednim, w mierze cheł- mińskiej (Rel. Cost. nr 224, r. 1791, fol. 252).
+[^69-4]: Wypadki takie przytaczają również akta wiejskie. W Ol. Nowe Dwory np. Adam Sa- pieha w r. 1094 sprzedaje 2 osadnikom grunt dotąd przez nich bezprawnie użytkowany ponad pierwotny rozmiar. W r. 1702 Jan Kazimierz Sapieha sprzedaje olędrom przyorane przed tym grunty o obszarze 33/4 włóki, zakazując na przyszłość kategorycznie dalszego przyory- wania (AW. Nowc Dwory B. 1, fol. 110—11).
 
 [p. 70]
 
@@ -1453,29 +1453,29 @@ Przy gospodarstwach znajdowały się zwykle ogrody. Wielkość ich wahała się 
 
 [^70-1]: Rel. Cost. nr 187, r. 1752, fol. 337.
 [^70-2]: "Tarnowa, Rel. Cost. nr 155, r. 1719—-20, fol. 141: „które to grunta ogranicza się znakami, za które pomykać się nikt nie będzie powinien pod sztrafą wielką”. Podobnie w olę- drach majętn. sierakowskiej 1 1. |
-[^70-3]: AW. Puszczykowskie OI., A. 1: „liberum będzie Panu Dziedzicowi przemierzyć kicdy zechce, huby.
+[^70-3]: AW. Puszczykowskie Ol., A. 1: „liberum będzie Panu Dziedzicowi przemierzyć kicdy zechce, huby.
 [^70-4]: Np. w Rakoniewicach i Podgradowicach, Rel. Cost. nr 164, r. 1729, fol. 177.
 [^70-5]: W olędrach majętn. sierakowskiej pomiar taki miał mieć miejsce co 6 lat.
-[^70-6]: Według wilkierza dla Nowodąbrowskich OI. prawidłowa granica winna tworzyć rów '/, pręta szeroki i 2 łokcie głęboki, lub płot 2 łokcie wysoki, tak aby półroczne ciele nie mogło go przeskoczyć. W OI. Kotusz szerokość miedzy pomiędzy gruntami poszczególnych gospodarstw określona została na 1 stopę (Rel. Cost. nr 164, r. 1729, fol. 485).
-[^70-7]: Według przywileju dla OI. ZŻamorze główna droga wiejska winna mieć 2 pręty, a drogi boczne 1 pręt szerokości. Sołtys winien dbać O to, aby nikt dróg nie podorywał (Rel. Posn. nr 641, r. 1792, fol. 164). 8 Czasami jednak było przeciwnie: W OI. Jaracz otrzymali przywilej osadnicy „każdy z nich włokę gruntu (w którą oraz las, role, ogrody, budynki i łąki wchodzą) mając już sobie wymierzoną” (AW. B. 296).
-[^70-8]: Czasami jednak było przeciwnie: W OI. Jaracz otrzymali przywilej osadnicy „każdy z nich włokę gruntu (w którą oraz las, role, ogrody, budynki i łąki wchodzą) mając już sobie wymierzoną” (AW. B. 296).
+[^70-6]: Według wilkierza dla Nowodąbrowskich Ol. prawidłowa granica winna tworzyć rów '/, pręta szeroki i 2 łokcie głęboki, lub płot 2 łokcie wysoki, tak aby półroczne ciele nie mogło go przeskoczyć. W Ol. Kotusz szerokość miedzy pomiędzy gruntami poszczególnych gospodarstw określona została na 1 stopę (Rel. Cost. nr 164, r. 1729, fol. 485).
+[^70-7]: Według przywileju dla Ol. ZŻamorze główna droga wiejska winna mieć 2 pręty, a drogi boczne 1 pręt szerokości. Sołtys winien dbać O to, aby nikt dróg nie podorywał (Rel. Posn. nr 641, r. 1792, fol. 164). 8 Czasami jednak było przeciwnie: W Ol. Jaracz otrzymali przywilej osadnicy „każdy z nich włokę gruntu (w którą oraz las, role, ogrody, budynki i łąki wchodzą) mając już sobie wymierzoną” (AW. B. 296).
+[^70-8]: Czasami jednak było przeciwnie: W Ol. Jaracz otrzymali przywilej osadnicy „każdy z nich włokę gruntu (w którą oraz las, role, ogrody, budynki i łąki wchodzą) mając już sobie wymierzoną” (AW. B. 296).
 [^70-9]: Góździn, AW. A. 1: „Pozwala im się też... miedze wolne przy każdej hubie całej potrzebne”. Karpicko, AW. A. 1: ,„Miedze, drogi, wygoniska nie wchodzą w rozmierzenie hubów”. 10 "Tak np. w Lewicach, AW. dep. A. 1, do każdej huby przydano olędrom bezpłatnie 2 morgi łąki.
 [^70-10]: Tak np. w Lewicach, AW. dep. A. 1, do każdej huby przydano olędrom bezpłatnie 2 morgi łąki.
 
 [p. 71]
 
 
-Czasami ołędrzy, będąc wyłącznymi użytkowcami własnych ról, ciągnęli wspólnie korzyści z dodatkowego użytkowania gruntów gminony nych. Grunty takie trafiały się jednak dość rzadko. Były to niemal zawsze łąki względnie pastwiska[^71-1]. produkcji c. Produkcja roślinna. Ściślejsze dane dotyczące roślinnej posiadamy Jedynie dla osad zagarniętych przez Prusy w I rozbiorze (z r. 1773), oraz dla osad majętn. sierakowskiej. Dane odnoszące się do osad na obszarze I zaboru pruskiego, zawarte w pruskich aktach klasyfikacyjnych, są schematyczne i wskutek tego budzą mniejsze zaufanie, natomiast dane dotyczące majętn. sierakowskiej, znajdujące się we wspomnianym już kilkakrotnie inwentarzu z r. 1759, zestawione są naogół sumiennie. Jak wynika z powyższych źródeł, produkcja roślinna olędrów z powodu złej gleby przedstawiała się nader skromnie[^71-2]. Pszenicy w ogóle nie uprawiano[^71-3], Z innych zbóż w majętn. sierakowskiej[^71-4] uprawiano żyto, owies i Jęczmień, z innych płodów groch. W osadach klasyfikowanych w r. 1773 produkcja obejmowała czasem jeszcze tatarkę i len. Wysiew na jednostkę roli przedstawiał się różnie, zależnie od tego, jak długo poszczególne kawałki roli musiały leżeć ugorem. W Króteckich OI. np. rola musiała 6—8 lat, a w Kwiejcach Nowych 6—9 lat pozostawać nieuprawiana[^71-5]. Przeciętny wysiew w Ol. Bielawy, Jasionna, Obelżanki i Rzecień$, gdzie podano również specyfikację gruntów poszczególnych osadników, wynosił na I włókę 30-morgową w korcach berlińskiej miary (!/a korca warszawskiego) : 10 korcy żyta, 4 korce jęczmienia, 3[^71-6] korce owsa, 1/s korca grochu, 1%/4 korca tatarki i 3 garnce Inu. Naogół jednak, jak się zdaje, uprawiano więcej owsa niż jęczmienia. Plon dawał 3 ziarna, niekiedy Jeszcze mniej, wyjątkowo 31/, ziarna.
+Czasami ołędrzy, będąc wyłącznymi użytkowcami własnych ról, ciągnęli wspólnie korzyści z dodatkowego użytkowania gruntów gminony nych. Grunty takie trafiały się jednak dość rzadko. Były to niemal zawsze łąki względnie pastwiska[^71-1]. produkcji c. Produkcja roślinna. Ściślejsze dane dotyczące roślinnej posiadamy Jedynie dla osad zagarniętych przez Prusy w I rozbiorze (z r. 1773), oraz dla osad majętn. sierakowskiej. Dane odnoszące się do osad na obszarze I zaboru pruskiego, zawarte w pruskich aktach klasyfikacyjnych, są schematyczne i wskutek tego budzą mniejsze zaufanie, natomiast dane dotyczące majętn. sierakowskiej, znajdujące się we wspomnianym już kilkakrotnie inwentarzu z r. 1759, zestawione są naogół sumiennie. Jak wynika z powyższych źródeł, produkcja roślinna olędrów z powodu złej gleby przedstawiała się nader skromnie[^71-2]. Pszenicy w ogóle nie uprawiano[^71-3], Z innych zbóż w majętn. sierakowskiej[^71-4] uprawiano żyto, owies i Jęczmień, z innych płodów groch. W osadach klasyfikowanych w r. 1773 produkcja obejmowała czasem jeszcze tatarkę i len. Wysiew na jednostkę roli przedstawiał się różnie, zależnie od tego, jak długo poszczególne kawałki roli musiały leżeć ugorem. W Króteckich Ol. np. rola musiała 6—8 lat, a w Kwiejcach Nowych 6—9 lat pozostawać nieuprawiana[^71-5]. Przeciętny wysiew w Ol. Bielawy, Jasionna, Obelżanki i Rzecień$, gdzie podano również specyfikację gruntów poszczególnych osadników, wynosił na I włókę 30-morgową w korcach berlińskiej miary (!/a korca warszawskiego) : 10 korcy żyta, 4 korce jęczmienia, 3[^71-6] korce owsa, 1/s korca grochu, 1%/4 korca tatarki i 3 garnce Inu. Naogół jednak, jak się zdaje, uprawiano więcej owsa niż jęczmienia. Plon dawał 3 ziarna, niekiedy Jeszcze mniej, wyjątkowo 31/, ziarna.
 
 W ogrodach hodowano sporadycznie chmiel, czasem ziemniaki i marchew, zazwyczaj jednak tylko na własny użytek. Wyjątkowo w Ol. Kwiejce Nowe i Bronice 8, gdzie uprawa zbóż z powodu bardzo Jałowej[^71-7] gleby była prawie niemożliwa, olędrzy utrzymywali się uprawy ziemniaków i marchwi, które wywozili na sprzedaż do odległego od 2 mile Drezdenka. Zupełnie wyjątkowo, w niewielkiej ilości, uprawiano w
 
-[^71-1]: Wspólne łąki wzgl. pastwiska micli olędrzy m. i. w Jaromierskich Nowych (AW. B. 4, fol. 63), Jaromierskich Starych (AW. dep. A. 1), Lubieńskich OI. (AW. B. 1), Popowie (Rel. Cost. nr 174, r. 1739, fol. 1119 i 1122), Ratajach (Rel. Posn. nr 640, r. 1791, fol. 247), Ręcku: (Rel. Cost. nr 167, r. 1732, fol. 205).
+[^71-1]: Wspólne łąki wzgl. pastwiska micli olędrzy m. i. w Jaromierskich Nowych (AW. B. 4, fol. 63), Jaromierskich Starych (AW. dep. A. 1), Lubieńskich Ol. (AW. B. 1), Popowie (Rel. Cost. nr 174, r. 1739, fol. 1119 i 1122), Ratajach (Rel. Posn. nr 640, r. 1791, fol. 247), Ręcku: (Rel. Cost. nr 167, r. 1732, fol. 205).
 [^71-2]: W ciemnych barwach przedstawia ją nawet Schmidt, Geschichte, s. 398.
-[^71-3]: W minimalncj ilości uprawiano ją w innych okolicach, Jak zdają się tego dowodzić dane dla OI. Kliny z r. 1793 (AW. C. 2). Wysicw tamże wynosił na włókę: 10 korcy żyta,
+[^71-3]: W minimalncj ilości uprawiano ją w innych okolicach, Jak zdają się tego dowodzić dane dla Ol. Kliny z r. 1793 (AW. C. 2). Wysicw tamże wynosił na włókę: 10 korcy żyta,
 [^71-4]: korce jęczmienia, 5 korcy owsa, | korzec pszenicy i ] korzec, tatarki.
-[^71-5]: KI. XII 6 V, fol. 32; 6 II, fol. 43. |
-[^71-6]: KI. XII 6 V, fol. 132, 137, 142, 147.
-[^71-7]: KI. XII 6 II.
+[^71-5]: Kl. XII 6 V, fol. 32; 6 II, fol. 43. |
+[^71-6]: Kl. XII 6 V, fol. 132, 137, 142, 147.
+[^71-7]: Kl. XII 6 II.
 
 [p. 72]
 
@@ -1484,7 +1484,7 @@ ogrodach tytoń !. W źródłach brak wiadomości, czy[^72-1] w Jakiej mierze ol
 
 Produkcja roślinna obejmowała również siano. Sprzątano je jednak nie we wszystkich osadach[^72-2] w bardzo niejednakowej ilości (w niektórych olędrach majętn. sierakowskiej do 15 wozów na gospodarstwo jedno-włókowe), tak, że trudno tutaj podać jakiekolwiek cyfry przeciętne.
 
-[^72-1]: K]. XII 6 II, fol. 111, Stróżewskie OI.
+[^72-1]: K]. XII 6 II, fol. 111, Stróżewskie Ol.
 [^72-2]: Schmidt (Geschichte, s. 398) wyobraża sobie, że olędrzy hodowali jabłonie, grusze, śliwy i wiśnie.
 [^72-3]: Wyjątkowo w Ol. Budziszewskich „ponieważ dla hubów olędrzy zanieśli skargę do dworu maiąc w pastwisku krzywdę od pułhubowych: że tyleż lub więcey bydła chowaią, a połowę mniey od pastwiska daią owsa wedle prawa... każdy olęder maiący pięć bydła raga- tego iakiegokolwiek gatunku prócz koni, dworowi... na ś$. Marcin owsa wierteli dwa wielkicy miary skockicy, nad pięć zaś sztuk mailący bydła rogatego, każdy olęder co roczną ugodę z panem czynić powinien”.
 
@@ -1493,29 +1493,29 @@ Produkcja roślinna obejmowała również siano. Sprzątano je jednak nie we wsz
 
 d. Hodowla zwierząt domowych w przeciwieństwie do produkcji roślinnej rozwijała się w olędrach na ogół pomyślnie. Wprawdzie 1 zwierzęta pociągowe, w związku z niewielką produkcją rolną trzymano w ilości niezbyt wielkiej (w gospodarstwie l-włókowym przeciętnie 3 lub 4 woły, względnie 2 woły i I lub 2 konie), ale za to krowy i nierogaciznę w ilości zbliżonej do normy panującej we wsiach pańszczyźnianych, a owce czasami nawet w ilości większej. Jako rzecz charakterystyczną wypada zaznaczyć, że olędrzy częściej posiadali konie, niż ludność zaciężna, która dla celów pociągowych używała przeważnie wołów. Inwentarz pociągowy był zawsze własnością olędrów. Ponieważ w skład gruntów olęderskich czasem tylko wchodziły łąki, a nawet gdy je olędrzy posiadali, ze względu na swój szczupły obszar nie odgrywały w gospodarce hodowlanej poważniejszej roli, chów bydła i owiec w osadach olęderskich okresie letnim opierał się niemal wyłącznie na serwitutach w pastwiskowych, tj. prawie wypasania pod pewnymi warunkami i w określonym zakresie trzód na. gruntach pańskich. Ponieważ pan we własnym interesie nie mógł dopuścić do wypasania swych gruntów bydłem w ilości nieograniczonej, doszło do ograniczeń hodowli. Ograniczenia dotyczyły zazwyczaj owiec, rzadziej kóz, natomiast nierogaciznę, krowy i zwierzęta pociągowe wolno było olędrom chować w dowolnej ilości[^72-3]. Spotykamy dwa zasadnicze rodzaje ograniczeń dotyczących hodowli owiec. Ograniczenia względne w postaci opłat od wypasania owiec na gruntach pańskich, lub w ogóle od hodowli, utrudniały ją, ale jej zupełnie nie uniemożliwiały, natomiast ograniczenia absolutne, polegające na tym, że wyznaczano pewną maksymalną normę, której w gospodarstwie o określonej wielkości nie powinna przekraczać liczba owiec, wykluczały zwiększenie hodowli poned tą normę. Wypadku, żeby zupełnie zakazano hodowli jakichkolwiek zwierząt Comowych, za wyjątkiem kóz ! źródła nie podają. Wracając do pierwszego rodzaju ograniczeń, stwierdzić trzeba, że miały one zawsze charakter opłaty za serwituty pastwiskowe; zawsze bowiem wtedy, gdy olędrzy zobowiązani byli uiszczać opłaty od hodowli owicc w ogóle, przysługiwało im prawo wypasu. Serwituty pastwiskowe i związane z nimi opłaty omówione zostaną na innym miejscu. Tu nadmienimy, że rzadko obowiązywały opłaty od całkowitej liczby owiec, ale zazwyczaj pewien kontyngent wolny był zupełnie od opłat, a dopiero od nadwyżki płacono dodatkowe czynsze. Przeciętnie granicą była cyfra 50[^73-1] owiec. Mogło się oczywiście zdarzyć, że ograniczenia względne w postaci dodatkowych czynszów od hodowli miały faktycznie charakter bczwzględny, gdy były tak wygórowane, że hodowla na skutek ich istnienia nie przedstawiała żadnego interesu. Zazwyczaj wolno było olędrom chować do[^73-2] owiec na I hubę. Wyjątkowo zezwalano na chów 60? lub nawet 100 owiec[^73-3] *, czasem znowu norma wynosiła mniej, 30, 25, 20 owiec. np.[^73-4] W olędrach majętn. sierakowskiej z początku wolro było choweć owce bez żadnych opłat, jednak aby zapobiec nadużyciom ze strony małorolnych, w proporcji do obszaru gospodarstw. Decydowała prawdopodobnie liczba owiec posiadanych przez większych gospodarzy. Hodowla owiec doszła tam do wielkiego rozkwitu; według inwentarza 1759 na I włókę olęderską przypadały przeciętnie 22 owce i 9 ja-[^73-5] z r. gniąt. W r. 1776 wprowadzone zostały opłaty w wysokości 15 gr od każdej owcy powyżej 20 sztuk, nie wiadomo jednak, jak to wpłynęło na rozmiary hodowli.
 
-[^73-1]: AW. Budziszewskic OI., B. 110; AGH sąd Wronki, t. XIX, 430, fol. 13, Kobus OI.; AW. Różnowskie OI., B. 770; AW. Złotkowo OI., A. 1.
-[^73-2]: AW. Trojanowskie OI., B. 1037.
-[^73-3]: Ostrówek, KI. XII 6 I.
+[^73-1]: AW. Budziszewskic Ol., B. 110; AGH sąd Wronki, t. XIX, 430, fol. 13, Kobus Ol.; AW. Różnowskie Ol., B. 770; AW. Złotkowo Ol., A. 1.
+[^73-2]: AW. Trojanowskie Ol., B. 1037.
+[^73-3]: Ostrówek, Kl. XII 6 I.
 [^73-4]: AW. Góździn, A. 1; Kawczyn, Rel. Cost. nr 177, r. 1742, fol. 211; AW. Dziewcza- struga, A. I. d 2 / / Li
 [^73-5]: Por. akta klasyfikacyjne. Ogólna liczba pastuchów w osadach klasyfikowanych i w majętn. sierakowskiej podana została w tab. IIT.
 
 [p. 74]
 
 
-Paseniem owiec olęderskich zajmował się zwykle wspólny pastuch gminny. Niekiedy trzymano jeszcze osobnego pastucha do krów, do świń, nawet do koni 8. Dochód więc olędrów z hodowli zmniejszał się o wynagrodzenie pastuchów. Rodzaju i wysokości tego wynagrodzenia źródła jednak nie podają. Trudno również obliczyć pozostałe dochody pastuchów. Podstawą ich, jeśli chodzi o owczarzy, była niewątpliwie hodowla własnych owiec, która jednak rzedko przekraczała rozmiary hodowli jedno-hubowego gospodarza. Pan zwykle zezwalał[^74-1], niekiedy nawet nakazywał utrzymywać pastuchów[^74-2]. Wyjątkowo w OI. Rataje pan zabraniał olędrom trzymać własnego owczarza, a nakazywał ugodzić się o pasenie owiec z owczarzem pańskim[^74-3].
+Paseniem owiec olęderskich zajmował się zwykle wspólny pastuch gminny. Niekiedy trzymano jeszcze osobnego pastucha do krów, do świń, nawet do koni 8. Dochód więc olędrów z hodowli zmniejszał się o wynagrodzenie pastuchów. Rodzaju i wysokości tego wynagrodzenia źródła jednak nie podają. Trudno również obliczyć pozostałe dochody pastuchów. Podstawą ich, jeśli chodzi o owczarzy, była niewątpliwie hodowla własnych owiec, która jednak rzedko przekraczała rozmiary hodowli jedno-hubowego gospodarza. Pan zwykle zezwalał[^74-1], niekiedy nawet nakazywał utrzymywać pastuchów[^74-2]. Wyjątkowo w Ol. Rataje pan zabraniał olędrom trzymać własnego owczarza, a nakazywał ugodzić się o pasenie owiec z owczarzem pańskim[^74-3].
 
 2. Pszczelarstwo. Pszczoły w ulach mogli olędrzy trzymać w dowolnej ilości, bez żadnych opłat[^74-4]. Natomiast niekiedy zabraniano im trzymać pszczoły w barciach[^74-5]. Produktami hodowli (miodęm, woskiem) mogli dowolnie rozporządzać. Wyjątkowo w Ol. Złotkowo zobowiązani byli sprzedawać wosk wyłącznie we dworze 6. Dochód[^74-6] z pszczelarstwa nie stanowił jednak poważniejszej pozycji w gospodarstwie olędrów. Taki np. wypadek, że sołtys w Ol. Kliny posiadał 11 pniów pszczelnych, podają źródła jako pewnego rodzaju curiosum[^74-7]. Osobnych pszczelarzy w olędrach nie było.
 
-3. Łowiectwo i rybołówstwo. | Prawo polowania na swoim gruncie na zwierzynę nie przysługiwało olędrom. Wolno im było jedynie polować na ptactwo. Mógli wprawdzie również urządzać polowania na dziki, niedźwiedzie i wilki, ale ubite sztuki pod rygorem surowych kar zobowiązani byli oddawać do dworu. Pan ze swej strony przyrzekał im za to pewne, nieokreślone jednak bliżej wynagrodzenie[^74-8]. Jedynie tylko w OI. Ujskich prawo łowiectwa było nieograniczone *. Dochód[^74-9] olędrów z łowiectwa w tak okrojonych ramach nie miał zapewne większego znaczenia. Rzecz jasna, przedstawione wyżej stosunki nie sprzyjały wytworzeniu się wśród olędrów grupy zawodowych łowców.
+3. Łowiectwo i rybołówstwo. | Prawo polowania na swoim gruncie na zwierzynę nie przysługiwało olędrom. Wolno im było jedynie polować na ptactwo. Mógli wprawdzie również urządzać polowania na dziki, niedźwiedzie i wilki, ale ubite sztuki pod rygorem surowych kar zobowiązani byli oddawać do dworu. Pan ze swej strony przyrzekał im za to pewne, nieokreślone jednak bliżej wynagrodzenie[^74-8]. Jedynie tylko w Ol. Ujskich prawo łowiectwa było nieograniczone *. Dochód[^74-9] olędrów z łowiectwa w tak okrojonych ramach nie miał zapewne większego znaczenia. Rzecz jasna, przedstawione wyżej stosunki nie sprzyjały wytworzeniu się wśród olędrów grupy zawodowych łowców.
 
-[^74-1]: AW. Milczewskie Ol., A. 1: ,,...do której to trzody owiec pozwala się im trzymać owczarka z siedemdzicsiąt owiec”. AW. Uścikowskie Ol., B. 1054, fol. 9: „Sołtysowi wolno będzie chować owczarka i pięćdziesiąt -owiec, inszym Hollendrom dwadzieścia pięć owiec”. AW. Stobnickie OI., B. 991 : ,ywolno im będzie bydła rogatego 1 nierogatego trzymać, ile się całemu gminowi zdawać będzie i chować do tego pasterzy z .bydłem i owcami”.
+[^74-1]: AW. Milczewskie Ol., A. 1: ,,...do której to trzody owiec pozwala się im trzymać owczarka z siedemdzicsiąt owiec”. AW. Uścikowskie Ol., B. 1054, fol. 9: „Sołtysowi wolno będzie chować owczarka i pięćdziesiąt -owiec, inszym Hollendrom dwadzieścia pięć owiec”. AW. Stobnickie Ol., B. 991 : ,ywolno im będzie bydła rogatego 1 nierogatego trzymać, ile się całemu gminowi zdawać będzie i chować do tego pasterzy z .bydłem i owcami”.
 [^74-2]: Rataje Ol., Rel. Posn. nr 640, r. 1791, fol. 248: ,,O pastucha do bydła i świni gmina starać się będzie powinna”.
 [^74-3]: Sygn. J. w.
-[^74-4]: AW. Stróżewskie OI. A. 1: ,„Pszczół bez żadnych od nich danin, ile sami chcą, trzymać im pozwalam”.
-[^74-5]: Rel. Posn. nr 626, r. 1788, fol. 406, Zakrzewo OI.
-[^74-6]: AW. Złotkowo, OI. A. 1.
+[^74-4]: AW. Stróżewskie Ol. A. 1: ,„Pszczół bez żadnych od nich danin, ile sami chcą, trzymać im pozwalam”.
+[^74-5]: Rel. Posn. nr 626, r. 1788, fol. 406, Zakrzewo Ol.
+[^74-6]: AW. Złotkowo, Ol. A. 1.
 [^74-7]: AW. Kliny, C. 2.
-[^74-8]: AW. Puszczykowskie OI., A. 1 : „Z wierza żadnego wyjąwszy wilków y niedźwiedziów, strzelać, bić, łowić nie będzie wolno, co ieżeliby się trafić miało, do dworu oddać za konten- tacyą a niegdzie indziey, pod sztrafą powinni będą. Ptaki iednak wszelkie chwytać, bić, strzelać pozwalam im zawsze”.
+[^74-8]: AW. Puszczykowskie Ol., A. 1 : „Z wierza żadnego wyjąwszy wilków y niedźwiedziów, strzelać, bić, łowić nie będzie wolno, co ieżeliby się trafić miało, do dworu oddać za konten- tacyą a niegdzie indziey, pod sztrafą powinni będą. Ptaki iednak wszelkie chwytać, bić, strzelać pozwalam im zawsze”.
 [^74-9]: Inscr. Valc. nr 85, r. 1663-—74, fol. 402. W osadach na terenie środkowej Polski prawo nieograniczonego polowania przysługiwało olędrom częściej. Por. Baranowski, Wsie holenderskie, s. 76.
 
 [p. 75]
@@ -1523,8 +1523,8 @@ Paseniem owiec olęderskich zajmował się zwykle wspólny pastuch gminny. Nieki
 
 Ogólny dochód olędrów z rybołówstwa tworzą dwie najściślej ze sobą złączone pozycje: dochody z własnej gospodarki rybnej i dochody z serwitutów rybnych. Rozgraniczenie tych dwu pozycji jest tutaj niezmiernie trudne do przeprowadzenia. Nie wiadomo bowiem, czy i w jakich wypadkach z posiadaniem gruntów olęderskich łączyło się prawo połowu w wodach pogranicznych (rzece, jeziorach, bagnach, stawach). Te same wątpliwości nasuwają stawy, które znajdowały się często na gruntach olęderskich, a które albo wchodziły, albo nie wchodziły do obszaru poszczególnych gospodarstw. O ile wydaje się rzeczą pewną, że przyległe wody, które rozgraniczały role pańskie i olęderskie, a także stawy leżące wprawdzie na gruntach olęderskich, ale nie wchodzące w skład tych gruntów pozostawały własnością psońską i prawo korzystania z nich uważane musi być za serwitut rybny, o tyle trudniej rozstrzygnąć, czy olędrzy w wypadkach, gdy np. otrzymali role nad rzeką lub jeziorem graniczącym z inną majętnością, wchodzili w dotychczasowe prawa pańskie do tychże wód, czy też przysługiwały im one również tylko w charakterze serwitutów. Źródła uzasadniają raczej drugą ewentualność, rozróżniają bowiem dość wyraźnie wody leżące na gruntach olęderskich i +wchodzące do obszaru tych gruntów (stawy[^75-1] wykopane przez olędrów, czasowe wylewy na gruntach przybrzeżnych) 1, oraz pozostałe obszary wodne ?. Przy tym założeniu lwia część[^75-2] dochodu olędrów z rybołówstwa przypadnie na serwituty rybne. Regułą było, że pan zezwalał na połów ryb we wszystkich wodach pogranicznych, wyjąwszy stawy pańskie na gruntach olęderskich. Olędrom nie wolno było jednak zakładać jazów na wodach bieżących[^75-3]. Niekiedy zakazywał pan łowienia ryb w okresie tarła[^75-4]. W wypadkach wyjątkowych, gdy pan rezerwował dla siebie wyłączne prawo rybołówstwa, dawał gminie pierwszeństwo przy wypuszczaniu go w dzierżawę 5.[^75-5] O istnieniu zawodowych rybaków wśród olędrów źródła nie wspominają.
 
-[^75-1]: AW. Dłuskie Stare OIL. A. 1: Woda jeżeliby się któremu na Jego wymierze trafiła, będzie miał jej wolne używanie”. AW. Białężyńskie OI., B. 59-—-60: ,,dla ryb konserwowania wolno im będzie czynić i ślamować sobie sadzawki”. AW. Folsztyn, B. 2: „Wolno im też będzie w rowach, na wylewach z rzeki zabrodniami ich ryby łowić bcz wszelkiej przeszkody poddanych moich”. AW. Meryń Stary, C. 7, fol. 101: „Fischerei ist in ihren Griinzen, Lacken und Seen ganz frei, weil dieselben beflossen als unbeilossen mussen verzinsct werden”.
-[^75-2]: Rel. Posn. nr 638, r. 1791, fol. 602, Róża OI.: „w Warcie dopuszcza im się wędami, sakami i koszami, tak daleko jak granice ich zasięgają, ryby łowić, tym dokładem, aby mi w Ja- zach moich w niczym nie przeszkadzali”.
+[^75-1]: AW. Dłuskie Stare Ol.. A. 1: Woda jeżeliby się któremu na Jego wymierze trafiła, będzie miał jej wolne używanie”. AW. Białężyńskie Ol., B. 59-—-60: ,,dla ryb konserwowania wolno im będzie czynić i ślamować sobie sadzawki”. AW. Folsztyn, B. 2: „Wolno im też będzie w rowach, na wylewach z rzeki zabrodniami ich ryby łowić bcz wszelkiej przeszkody poddanych moich”. AW. Meryń Stary, C. 7, fol. 101: „Fischerei ist in ihren Griinzen, Lacken und Seen ganz frei, weil dieselben beflossen als unbeilossen mussen verzinsct werden”.
+[^75-2]: Rel. Posn. nr 638, r. 1791, fol. 602, Róża Ol.: „w Warcie dopuszcza im się wędami, sakami i koszami, tak daleko jak granice ich zasięgają, ryby łowić, tym dokładem, aby mi w Ja- zach moich w niczym nie przeszkadzali”.
 [^75-3]: Wymieniano tutaj zwykle narzędzia, przy pomocy których wolno było urządzać polowy. Należały do nich wędy, węcierze, kosze 1 saki, większe sieci 1 zabrodni.
 [^75-4]: AW. Drzewce, B. 2.
 [^75-5]: 'Tak było w osadach majętn. sierakowskiej.
@@ -1534,12 +1534,12 @@ Ogólny dochód olędrów z rybołówstwa tworzą dwie najściślej ze sobą zł
 
 4, Przemysł. a. Karczmarstwo. Karczmy znajdowały się we wszystkich niemal osadach olęderskich. Był one.jednak zawsze jak gdyby ekspozyturami mielcuchów pańskich, gdyż w olędrach obowiązywał przymus propinacyjny i karczmarze otrzymywali gotowe trunki pańskie, które mieli obowiązek rozprzedawać w osadzie po wyznaczonej z góry cenie.
 
-[^76-1]: AW. Puszczykowskie OI., A. 1: ,,na niego (tj. karczmarza) pół huby roli nalcżeć
+[^76-1]: AW. Puszczykowskie Ol., A. 1: ,,na niego (tj. karczmarza) pół huby roli nalcżeć
 powinno czasy wiecznymi, od której grundgield zapłaciwszy, od czynszu na zawsze wolnym
 so czynię...”. 'Tak samo Rel. Cost. nr 190, r. 1755, fol. 33, Krzemieniewo oraz Rel. Cost.
 nr 164, r. 1729, fol. 486, Kotusz OJI.
-[^76-2]: AW. Puszczykowskie OI., A. 1: „na niego (tj. karczmarza) pół huby roli należeć powinno czasy wiecznymi, od której grundgield zapłaciwszy, od czynszu na zawsze wolnym go czynię...”. 'Tak samo Rel. Cost. nr 190, r. 1755, fol. 33, Krzemieniewo oraz Rel. Cost. nr 164, r. 1729, fol. 486, Kotusz OI.
-[^76-3]: Rzadko zdarzało się, że karczmarz otrzymywał grunt o obszarze większym lub mniej- szym od 1/5 włóki, np. w OI. Kamionka 1 włókę (AW. Chodzież, C. 1, fol. 49), 12 morgów w Ostrowie i Borgowie (Rel. Cost. nr 220, r. 1787, fol. 372), lub 71/, morga w Ol. Jaracz (AW. B. 296) i OI. Dziewczastruga (AW. B. 1020).
+[^76-2]: AW. Puszczykowskie Ol., A. 1: „na niego (tj. karczmarza) pół huby roli należeć powinno czasy wiecznymi, od której grundgield zapłaciwszy, od czynszu na zawsze wolnym go czynię...”. 'Tak samo Rel. Cost. nr 190, r. 1755, fol. 33, Krzemieniewo oraz Rel. Cost. nr 164, r. 1729, fol. 486, Kotusz Ol.
+[^76-3]: Rzadko zdarzało się, że karczmarz otrzymywał grunt o obszarze większym lub mniej- szym od 1/5 włóki, np. w Ol. Kamionka 1 włókę (AW. Chodzież, C. 1, fol. 49), 12 morgów w Ostrowie i Borgowie (Rel. Cost. nr 220, r. 1787, fol. 372), lub 71/, morga w Ol. Jaracz (AW. B. 296) i Ol. Dziewczastruga (AW. B. 1020).
 [^76-4]: Wyjątkowo w (Cisiogórskich Ol. otrzymywał 22-gą beczkę piwa i 22-gą kwartę wódki (Rel. Cost. nr 224, r. 1788, fol. 379).
 [^76-5]: AW. A. I.
 
@@ -1548,13 +1548,13 @@ nr 164, r. 1729, fol. 486, Kotusz OJI.
 
 
 
-[^77-1]: Rel. Posn. nr 620, r. 1787, fol. 26, Snowidowo: ,„Piwo i wódkę pańską winni szynko+ wać kolejno za wynagrodzeniem 21-go grosza”. Item AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 34, Stodólsko OI.
+[^77-1]: Rel. Posn. nr 620, r. 1787, fol. 26, Snowidowo: ,„Piwo i wódkę pańską winni szynko+ wać kolejno za wynagrodzeniem 21-go grosza”. Item AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 34, Stodólsko Ol.
 [^77-2]: AW. Jaracz Ol., B. 296: ,,A że szynk w kolej piwa mego zda im się przykry, więc na karczmarza nad Olszewką roli kwartę upuścić im nie dedukuję”.
-[^77-3]: AW. Budziszewskie OI., 108; Rel. Cost. 167, r. 1732, fol. 205, Ręcko.
+[^77-3]: AW. Budziszewskie Ol., 108; Rel. Cost. 167, r. 1732, fol. 205, Ręcko.
 [^77-4]: Ręcko, j. w.
 [^77-5]: AW. Góździn, A. I. |
-[^77-6]: J. w. Item Rel. Posn. nr 640, r. 1791, fol. 248, Rataje OI.
-[^77-7]: Rel. Cost. nr 215, r. 1782, fol. 351. Iiem KI. XII 6 V, fol. 144, Obelżanki.
+[^77-6]: J. w. Item Rel. Posn. nr 640, r. 1791, fol. 248, Rataje Ol.
+[^77-7]: Rel. Cost. nr 215, r. 1782, fol. 351. Iiem Kl. XII 6 V, fol. 144, Obelżanki.
 [^77-8]: Rel. Cost. nr 220, r. 1787, fol. 372, Ostrowo 1 Borgowo/
 [^77-9]: Rel. Posn. nr 430, r. 1741, fol. 234, Kuślińskie Ol.
 [^77-10]: AGH sąd Wolsztyn, majętn. Hamer, t. III H. I (Tax Acten), fol. 110. Ewentualnie, co jednak wydaje się rzeczą mało prawdopodobną, sołtysi mogli jeszcze otrzymywać święto- jankę, która nie wchodziła do podanej ilości trunków.
@@ -1567,9 +1567,9 @@ Wyjątkowo Ostrówku osadnicy, | którym Kerol Maciej Grudziński w dokumencie l
 [^78-1]: W przywileju dla Borui (Rel. Cost. nr 218, r. 1785, fol. 221): „za co da im dwór dwa sądki piwa albo garcy siedemdziesiątdwa”.
 [^78-2]: O, s. XVI i nast.
 [^78-3]: Por. Stenger, Die Haulinder, s. 252.
-[^78-4]: KI. XII 6 II, fol. 43: „Die Kriiger nehmen das Bier voń Schneidemiihl und debitirt der Neu Sorgerer Kriiger 6 Tonnen Bier 60 Quart Brandtwein. Der Bronizer Kriger
+[^78-4]: Kl. XII 6 II, fol. 43: „Die Kriiger nehmen das Bier voń Schneidemiihl und debitirt der Neu Sorgerer Kriiger 6 Tonnen Bier 60 Quart Brandtwein. Der Bronizer Kriger
 [^78-5]: 'Tonnen Bier 65 Quart Brandtwein Pohl. Maass. Niemand darf sich Bier brauen”.
-[^78-6]: W r. 1790 Marcin Miaskowski wydaje osobny przywilej sołtysowi osady Suchylas na zbudowanie młyna wietrznego (KI. M.).
+[^78-6]: W r. 1790 Marcin Miaskowski wydaje osobny przywilej sołtysowi osady Suchylas na zbudowanie młyna wietrznego (Kl. M.).
 [^78-7]: W przywileju dla Kąkolewa pan zezwala olędrom wybudować młyn wietrzny, od którego, gdy będzie czynny, właściciel ma płacić czynsz roczny w wysokości 4 dukatów.
 [^78-8]: Rataje Ol., Rel. Posn. nr 640, r. 1791, fol. 249: „pozwalamy im też mieć między gminą swoją wszelkich rzemieślników, jako to krawców 1 szewców i innych, byle poczciwych”.
 [^78-9]: Rel. Cost. nr 164, r. 1729, fol. 177 ad.
@@ -1579,41 +1579,41 @@ Wyjątkowo Ostrówku osadnicy, | którym Kerol Maciej Grudziński w dokumencie l
 
 Warsztaty prowadzone były przez rzemieślników przybyłych miasta, 1to —z wyjątkiem kowali zapewne bez pomocników. Prace wykony— wali rzemieślnicy prawdopodobnie na zamówienie. Panu nie byli zobowiązani świadczyć żadnych powinności od rzemiosła, jedynie (poza niektórymi kowalami, którzy posiadali własne gospodarstwa) płacili czynsz olędrom za wynajem odpowiedniego pomieszczenia na warsztat.
 
-d. Przemysł leśny, obejmujący palenie węgla drzewnego, wyrób smoły 1[^79-1] potażu, również nie miał w olędrach większego znaczenia. Jest co prawda możliwe, że o przemyśle takim brak wiadomości źródłowych, ponieważ opierał się tylko na wykorzystaniu zapasu drzewa znajdującego się na hubach olęderskich i kupionego razem z gruntem. Jednakże przeróbka drzewa miała wtedy charakter tylko przejściowy 1 kończyła się po wykarczowaniu gruntu. Trwała wytwórczość opierająca się na eksploatacji lasów pańskich nie była możliwa bez umowy z panem, wiadomości zaś o takich umowach przechowały źródła bardzo mało[^79-2], Akta klasyfikacyjne tylko raz wymieniają smolarza w Herbar-[^79-3] dowie, poza tym wspominają też o produkcji smoły w Króteckich OI. W odniesieniu do tej ostatniej osady akta podają szereg bardzo cennych danych dotyczących produkcji smoły. Olędrzy pędzili smołę wspólnie w lasach króteckich. Palenie odbywało się[^79-4] razy rocznie, a z każdego otrzymywano[^79-5] beczek smoły. Wartość każdej beczki wynosiła 10—11 zł. Od każdego palenia płacili olędrzy panu[^79-6] zł względnie oddawali beczkę smoły. Roczna produkcja pieca po potrąceniu czynszu dworskiego, przedstawiała więc wartość 350 zł.
+d. Przemysł leśny, obejmujący palenie węgla drzewnego, wyrób smoły 1[^79-1] potażu, również nie miał w olędrach większego znaczenia. Jest co prawda możliwe, że o przemyśle takim brak wiadomości źródłowych, ponieważ opierał się tylko na wykorzystaniu zapasu drzewa znajdującego się na hubach olęderskich i kupionego razem z gruntem. Jednakże przeróbka drzewa miała wtedy charakter tylko przejściowy 1 kończyła się po wykarczowaniu gruntu. Trwała wytwórczość opierająca się na eksploatacji lasów pańskich nie była możliwa bez umowy z panem, wiadomości zaś o takich umowach przechowały źródła bardzo mało[^79-2], Akta klasyfikacyjne tylko raz wymieniają smolarza w Herbar-[^79-3] dowie, poza tym wspominają też o produkcji smoły w Króteckich Ol. W odniesieniu do tej ostatniej osady akta podają szereg bardzo cennych danych dotyczących produkcji smoły. Olędrzy pędzili smołę wspólnie w lasach króteckich. Palenie odbywało się[^79-4] razy rocznie, a z każdego otrzymywano[^79-5] beczek smoły. Wartość każdej beczki wynosiła 10—11 zł. Od każdego palenia płacili olędrzy panu[^79-6] zł względnie oddawali beczkę smoły. Roczna produkcja pieca po potrąceniu czynszu dworskiego, przedstawiała więc wartość 350 zł.
 
 [^79-1]: Handel. Z reguły olędrzy mieli nieograniczoną swobodę pro- wadzenia handlu. „Handle zaś wszelkie, jak solą, tak śledziarmi 1 in- szymi towarami, jako i zbożem im wolno będzie prowadzić” 3. Zawo- dowo handlem trudnił się karczmarz, sprzedając przede wszystkim sól 1 śledzie, dalej żelazo oraz inne przedmioty codziennego użytku f. Poza karczmarzem także inni osadnicy mogli czerpać dochody z handlu, do czego upoważniały ich «przywileje, zaznaczające że „handlem wszel- kim na chleb sobie zarabiać im będzie wolno”? 5. Potwierdzają to rów- z R ==——
 [^79-2]: Podana przez Schmidta (Geschichte, s. 397-—8) wiadomość, że olędrzy tomyscy Produkowali smołę i popioły drzewne na eksport do Saksonii, może jedynie dotyczyć produkcji W Okresie karczunku roli. Sprawę palenia smoły i potażów regulują przywileje tylko dla Ki- szewka (AW. B. 339), Łokacza (Kat. XIII II, fol. 420), oraz Rzccienia (AGH sąd Wronki, akta Rzecień, fol. 42). ”
-[^79-3]: KI. XII 6 V, fol. 33. W Kiszewku (AW. B. 339, r. 1697) osadnicy zobowiązani byli oddawać panu od każdego palenia !/, beczki smoły albo 5 złŁ
+[^79-3]: Kl. XII 6 V, fol. 33. W Kiszewku (AW. B. 339, r. 1697) osadnicy zobowiązani byli oddawać panu od każdego palenia !/, beczki smoły albo 5 złŁ
 [^79-4]: Rel. Posn. nr 430, r. 1741, fol. 230, Kuślińskie Ol.
 [^79-5]: AGH sąd Wronki, majętn. Popowo, t. XIX, 199, fol. 33: (mogą) przytem handle różne prowadzić, jako to solą, śledziami, żelazem i innemi rzeczami kupczyć...”.
-[^79-6]: Dom. P. 6755, fol. 16, Uścikowskie OI.
+[^79-6]: Dom. P. 6755, fol. 16, Uścikowskie Ol.
 
 [p. 80]
 
 
 nież postanowienia przywilejów, mocą których olędrzy zostawali zwolnieni od opłat targowych w miastach należących do tego samego pana, o ile nie kupowali „na przekup”?[^80-1]. Prawdopodobnie częstym przedmiotem handlu było zboże, które niewątpliwie za poprzednimi staraniami olędrów, zezwalano im w przywilejach swobodnie sprzedawać i kupować[^80-2]. W bardzo rzadkich wypadkach pan ograniczał swobodę sprzedaży zboża, żądając np. aby olędrzy zbytni jęczmień sprzedawali wyłącznie na słód do pańskiego mielcucha (browaru)[^80-3]. 6. Inne zawody. Gmina mogła niekiedy utrzymywać własnego stróża. W Popowie pan dla takiego stróża, który miał równocześnie doglądać i dworskich obiektów, przeznaczał „kawał roli”[^80-4]. Pewien procent ludności osad tworzyli nauczyciele względnie lektorzy, pełniący funkcje nauczycielskie i religijne. Ich sytuacja gospodarcza omówiona zostanie na dalszych stronach. Tutaj zaznaczymy tylko, że główne dochody czerpali oni z roli, wyznaczonej im przez pana, wolnej od wszelkich czynszów. D. Prawa użytkowe olędrów na posiadłościach pań” skich (serwituty)
 
-[^80-1]: Rel. Cost. nr 224, r. 1788, fol. 379, Cisiogórskie OI.
+[^80-1]: Rel. Cost. nr 224, r. 1788, fol. 379, Cisiogórskie Ol.
 [^80-2]: Por. np. przywileje z .r. 1677 dla olędrów majętn. wieleńskiej, lub przywilej dla Ol. Nowe Dwory z r. 1601 (Rel. Posn. nr 140, r. 1602, fol. 660).
 [^80-3]: AW. Jaromierz, B. 4, Ujście Nowe.
-[^80-4]: Rel. Cost. nr 174, r. 1739, fol. 1120, Popowo OI.
+[^80-4]: Rel. Cost. nr 174, r. 1739, fol. 1120, Popowo Ol.
 [^80-5]: AW. Marienwald, B. 1; AW. Orłowiec, A. I.
-[^80-6]: Rel. Posn. nr 640, r. 1791, fol. 270, Glinki OI.: „Item pasza dla ich bydła wolna na puszczy mojej”. Zwykle stała opłata za pastwisko obejmowała również wypasanie bydła, natomiast porporcjonalne opłaty liczono tylko od owiec. Wyjątkowo w Starych Dłuskich Ol. osadnicy ,,od każdego bydlęcia, gdy będą paść na boru moim (tj. pańskim) powinni dać po kurze”.
-[^80-7]: AW. Borkowskie OI., A. 1: ,,od pastwiska... płacić będą powinni oprócz owiec, które jeżeli będą chować, każdy na swojej hubie paść je powinien”. Item AW. Krosińskie Ol., A. 1.
+[^80-6]: Rel. Posn. nr 640, r. 1791, fol. 270, Glinki Ol.: „Item pasza dla ich bydła wolna na puszczy mojej”. Zwykle stała opłata za pastwisko obejmowała również wypasanie bydła, natomiast porporcjonalne opłaty liczono tylko od owiec. Wyjątkowo w Starych Dłuskich Ol. osadnicy ,,od każdego bydlęcia, gdy będą paść na boru moim (tj. pańskim) powinni dać po kurze”.
+[^80-7]: AW. Borkowskie Ol., A. 1: ,,od pastwiska... płacić będą powinni oprócz owiec, które jeżeli będą chować, każdy na swojej hubie paść je powinien”. Item AW. Krosińskie Ol., A. 1.
 
 [p. 81]
 
 
 Prócz dochodów z własnego gospodarstwa olędrzy ciągnęli pożytki z posiadłości pańskich. Płynęły one z serwitutów, głównie pastwiskowych, leśnych i rybnych. I. Serwituty pastwiskowe były podstawą gospodarki hodowlanej olędrów. Wypadki, w których olędrom nie przysługiwało w ogóle prawo wypasania swych trzód na gruntach pańskich, zdarzały się niezmiernie rzadko[^80-5], Zazwyczaj olędrzy mieli prawo wypasu bydła w dowolnej ilości, i to często bezpłatnie[^80-6]; prawo wypasania owiec w rzadkich wypadkach było zupełnie zakazane[^80-7], najczęściej zaś były bądź ograniczone ilościowo, bądź też uwarunkowane pewnymi opłatami za pastwisko (por. s. 83). Możliwe były tutaj następujące kombinacje: a. Olędrzy opłacali od pastwiska pewien czynsz pieniężny, w naturze, lub świadczyli pewne robocizny w ilości stałej, niezależnie od liczby wypasanych na pańskich gruntach owiec[^81-1]. b. Opłaty wyznaczane były od każdej owcy (względnie od pewnej ilości, np. od każdych 4, od każdych 25 owiec)[^81-2], i to w ten sposób, że albo opłacie podlegały wszystkie owce[^81-3], albo też pewną liczbę owiec mogli olędrzy paść bez żadnych opłat, a dopiero od pozostałej nadwyżki obowiązywały pewne świadczenia[^81-4]. c. Do rzadkości należały opłaty wymierzane proporcjonalnie od powierzchni wydzielonego olędrom pastwiska[^81-5]. Świń i wieprzów przeważnie nie wolno było wypasać w pańskich lasach bez specjalnej ugody z panem[^81-6]. W niektórych osadach majętn. wieleńskiej mogli olędrzy wypasać trzodę chlewną na pańskiej żołędzi, ale nie wolno lm było zbierać żołędzi na zapas[^81-7], w innym wypadku dozwalał pan paść na dworskiej żołędzi najwyżej, 2 wieprze z każdej huby[^81-8]. Surowo zabraniano olędrom przyjmować na wypas cudze bydło, owce lub nierogaciznę[^81-9]. W nielicznych tylko wypadkach wolno im było wypasać' trzody! na wszystkich gruntach dworskich. Pan żądał wtedy, aby nie czynili bydłem szkód w dworskim zbożu i łąkach[^81-10]. Po największej części serwituty pastwiskowe odnosiły się do pańskich lasów i pastwisk. "Wyłączone były zagajenia i kultury[^81-11]. Niekiedy wypas mógł się odbywać tylko na wydzielonej części pastwiska lub lasu[^81-12]. Przywileje zawierały —.
 
-[^81-1]: Np. w Olędrach Chromiec (AW. A. 2), w Ol. Gogolewskich (Rel. Cost. nr 222, r. 1786, fol. 348), w OI. Nieszawskich (AW. B. 1-5); w OI. Paproć (Rel. Posn. nr 040, r. 1791, fol. 268).
-[^81-2]: AW. Puszczykowskie OI., A. 1; Rel. Posn. nr 635, r. 1790, fol. 316, Słonawskie OI.; Rel. Cost. nr 165, r. 1730, s. 824, Pecna OI.
+[^81-1]: Np. w Olędrach Chromiec (AW. A. 2), w Ol. Gogolewskich (Rel. Cost. nr 222, r. 1786, fol. 348), w Ol. Nieszawskich (AW. B. 1-5); w Ol. Paproć (Rel. Posn. nr 040, r. 1791, fol. 268).
+[^81-2]: AW. Puszczykowskie Ol., A. 1; Rel. Posn. nr 635, r. 1790, fol. 316, Słonawskie Ol.; Rel. Cost. nr 165, r. 1730, s. 824, Pecna Ol.
 [^81-3]: Zob. sygn. podane w przypisie poprzednim.
-[^81-4]: AW. Huta OI. (Knarrhiitte), C. 3; AW. Chodzież, Ć. I, fol. I (Krystynka OI.); AW. Milczewskie OI., A. 1; AW. Swóżewskie OI., A. |.
+[^81-4]: AW. Huta Ol. (Knarrhiitte), C. 3; AW. Chodzież, Ć. I, fol. I (Krystynka Ol.); AW. Milczewskie Ol., A. 1; AW. Swóżewskie Ol., A. |.
 [^81-5]: AW. Tuchorskie Stare Ol., A. I: „ Bewillige Ich ihnen auf einer gantzen hube 50 Stick Schaffe zu halten, die selbe auf meinem gebiete zu hiitten, so dass felt und wiese, vor cie hiittung der Schaffe sollen sie einen jeden Morg vier Brommer”.. verzinssen ”. Czy jednak nie chodzi tu o opłatę od każdego morgu gruntów olęderskich?
-[^81-6]: AW. Borkowskic Ol., A. 1; AW. Chromice OI., A. 2: Rel. Posn. nr 489, r. 1751, fol. 69.
+[^81-6]: AW. Borkowskic Ol., A. 1; AW. Chromice Ol., A. 2: Rel. Posn. nr 489, r. 1751, fol. 69.
 [^81-7]: W O.. Folsztyn, Herbardowo, Marianowo i Nowe Dwory (por. przywileje z. r 1677).
-[^81-8]: W OI. Kąkolewo (Rel. Cost. nr 214, r. 1781, fol. 82).
+[^81-8]: W Ol. Kąkolewo (Rel. Cost. nr 214, r. 1781, fol. 82).
 [^81-9]: Rel. Posn. nr 641, r. 1792, tol. 164. Por. też przywileje dla olędrów wieleńskich z r. 1677.
 [^81-10]: Rel. Posn. nr 626, r. 1788, fol. 406, Zakrzewo Ol.
 [^81-11]: AW. Złotkowo, A. I.
@@ -1622,25 +1622,25 @@ Prócz dochodów z własnego gospodarstwa olędrzy ciągnęli pożytki z posiad�
 [p. 82]
 
 
-ponadto ogólne zastrzeżenie, aby wypasanie trzód olęderskich nie odbywało się z uszczerbkiem dla bydła dworskiego i pańszczyźnianego I,[^82-1] Wypas mógł być również ograniczony czasowo. W Ol. Jasionowych np. dozwolony był tylko od Wielkiejnocy do Zielonych Świątek?,[^82-2] a OI. Strychowskich tylko w jesieni[^82-4]. W Złotkowie nie wolro było[^82-3] paść bydła na pańskim ściernisku „zeraz za stopem”, a więc. przed zagrabieniem pola *.[^82-5] 2. Serwituty leśne. Będziemy pod nimi rozumieli uprawnienia olędrów do użytkowania pańskiego lasu w określonych granicach — poza serwitutami pastwiskowymi. Zakres serwitutów leśnych olędrów przedstawiał się inaczej w latach wolnych od czynszów, a inaczej w latach późniejszych. W pierwszym okresie olędrzy mieli zawsze prawo do pobierania wszelkiego rodzaju drzewa z lasu pańskiego, o ile nie było go w wystarczającej ilości i jakości na wydzielonych im gruntach5. Po upływie[^82-6][^82-7] czasu wolnizny olędrom z reguły przysługiwało prawo zbierania w pańskim lesie drzewa na opał, natomiast budulca i żerdzi na płoty nie wolno im było ciąć bez zezwolenia dworu 8, Zezwolenie na korzystanie w dowolnym stopniu z wszelkiego rodzaju drzewa było rzadkością”. Często olędrzy otrzymywali bezpłatnie drzewo do reparacji budynków[^82-8], lub na wypadek pogorzeli, w tym ostatnim wypadku za osobną ugodą z panem? W ogóle było zasadą, że wyrąb drzewa musiało poprzedzić[^82-9] uzyskanie odpowiedniego „„kwitu” pańskiego 19, Surowo wzbroniona była[^82-10] sprzedaż drzewa z lasów pańskich. W niektórych przywilejach spotykamy również zezwolenie na zbieranie w pańskim lesie igliwia na mierzwę ?. Natomiast sprawa zbierania grzybów i jagód nie była w przy-[^82-11][^82-12] wilejach uregulowana. Wypadki, w których olędrom w ogóle nie
+ponadto ogólne zastrzeżenie, aby wypasanie trzód olęderskich nie odbywało się z uszczerbkiem dla bydła dworskiego i pańszczyźnianego I,[^82-1] Wypas mógł być również ograniczony czasowo. W Ol. Jasionowych np. dozwolony był tylko od Wielkiejnocy do Zielonych Świątek?,[^82-2] a Ol. Strychowskich tylko w jesieni[^82-4]. W Złotkowie nie wolro było[^82-3] paść bydła na pańskim ściernisku „zeraz za stopem”, a więc. przed zagrabieniem pola *.[^82-5] 2. Serwituty leśne. Będziemy pod nimi rozumieli uprawnienia olędrów do użytkowania pańskiego lasu w określonych granicach — poza serwitutami pastwiskowymi. Zakres serwitutów leśnych olędrów przedstawiał się inaczej w latach wolnych od czynszów, a inaczej w latach późniejszych. W pierwszym okresie olędrzy mieli zawsze prawo do pobierania wszelkiego rodzaju drzewa z lasu pańskiego, o ile nie było go w wystarczającej ilości i jakości na wydzielonych im gruntach5. Po upływie[^82-6][^82-7] czasu wolnizny olędrom z reguły przysługiwało prawo zbierania w pańskim lesie drzewa na opał, natomiast budulca i żerdzi na płoty nie wolno im było ciąć bez zezwolenia dworu 8, Zezwolenie na korzystanie w dowolnym stopniu z wszelkiego rodzaju drzewa było rzadkością”. Często olędrzy otrzymywali bezpłatnie drzewo do reparacji budynków[^82-8], lub na wypadek pogorzeli, w tym ostatnim wypadku za osobną ugodą z panem? W ogóle było zasadą, że wyrąb drzewa musiało poprzedzić[^82-9] uzyskanie odpowiedniego „„kwitu” pańskiego 19, Surowo wzbroniona była[^82-10] sprzedaż drzewa z lasów pańskich. W niektórych przywilejach spotykamy również zezwolenie na zbieranie w pańskim lesie igliwia na mierzwę ?. Natomiast sprawa zbierania grzybów i jagód nie była w przy-[^82-11][^82-12] wilejach uregulowana. Wypadki, w których olędrom w ogóle nie
 
 [^82-1]: TJ. w., również AW. Karpicko, A. I.
 [^82-2]: Rel. Posn. nr 645, r. 1793, fol. 320.
 [^82-3]: Rel. Posn. nr 638, r. 1791, fol. 908.
 [^82-4]: AW. Złotkowo, A. 1.
-[^82-5]: Rel. Cost. nr 164, r. 1729, fol. 486, Kotusz Ol.; Rel. Posn. nr 038, r. 1791, fol. 908, Strychowskie OI.
-[^82-6]: Rel. Posn. nr 489, r. 1751, fol. 69, Dymaczewskie OI.; AW. Karpicko, A. 1; Rel. Posn. nr 626, r. 1788, fol. 406, Zakrzewo OI.; AW. Zielonka, A. I.
-[^82-7]: AW. Białężyńskie OI., B. 59—60; Rel. Posn. nr 035, r. 1790, fol. 316.
+[^82-5]: Rel. Cost. nr 164, r. 1729, fol. 486, Kotusz Ol.; Rel. Posn. nr 038, r. 1791, fol. 908, Strychowskie Ol.
+[^82-6]: Rel. Posn. nr 489, r. 1751, fol. 69, Dymaczewskie Ol.; AW. Karpicko, A. 1; Rel. Posn. nr 626, r. 1788, fol. 406, Zakrzewo Ol.; AW. Zielonka, A. I.
+[^82-7]: AW. Białężyńskie Ol., B. 59—60; Rel. Posn. nr 035, r. 1790, fol. 316.
 [^82-8]: 'Tak było w osadach majętn. wieleńskiej według lustracji sporządzonej około r. 1800 (AM. Wieleń, C. 250, fol. 22). Podobnie AW. Barcinek, B. I.
-[^82-9]: AGH sąd Poznań, Naramowice I; Rel. Posn. nr 645, r. 1793, fol. 101, Komorow- skie OI.
-[^82-10]: Por. np. Kat. IT, fol. 239, Jędrzejewskie OI., lub AW. Rożnowskie OI., B. 770
-[^82-11]: Np. AW. Borkowskie OI., A. 1; AW. Milczewskie Ol., A. 1; AW. Strzeleckie OI. C. 3, fol. 8; AW. Uścikowskie OI., B. 1054.
+[^82-9]: AGH sąd Poznań, Naramowice I; Rel. Posn. nr 645, r. 1793, fol. 101, Komorow- skie Ol.
+[^82-10]: Por. np. Kat. IT, fol. 239, Jędrzejewskie Ol., lub AW. Rożnowskie Ol., B. 770
+[^82-11]: Np. AW. Borkowskie Ol., A. 1; AW. Milczewskie Ol., A. 1; AW. Strzeleckie Ol. C. 3, fol. 8; AW. Uścikowskie Ol., B. 1054.
 [^82-12]: AW. Krosna, A. 2; AM. Trzciel, A. 1.
 
 [p. 83]
 
 
-przysługiwały serwituty leśne, należały do rzadkości[^83-1]. W OI. Budziszewskich (lokowanych w r. 1746) miejsce pierwotnych serwitutów zastąpiła w r. 1770 coroczna umowa z panem, od której każda ze stron z końcem roku miała prawo odstąpić[^83-2]. Za korzystanie z serwitutów dwór wyjątkowo tylko nie pobierał żadnego ekwiwalentu[^83-3]. Normalnie obowiązywały z tego tytułu pewne stałe opłaty i to zazwyczaj w naturaliach (najczęściej w owsie)[^83-4].
+przysługiwały serwituty leśne, należały do rzadkości[^83-1]. W Ol. Budziszewskich (lokowanych w r. 1746) miejsce pierwotnych serwitutów zastąpiła w r. 1770 coroczna umowa z panem, od której każda ze stron z końcem roku miała prawo odstąpić[^83-2]. Za korzystanie z serwitutów dwór wyjątkowo tylko nie pobierał żadnego ekwiwalentu[^83-3]. Normalnie obowiązywały z tego tytułu pewne stałe opłaty i to zazwyczaj w naturaliach (najczęściej w owsie)[^83-4].
 
 3. Inne serwituty. Że względu na trudność wyodrębnienia własnej gospodarki rybnej olędrów i serwitutów rybnych, oba te działy zostały omówione razem na s. 75. Tutaj nadmienimy jeszcze, że za korzystanie z tych serwitutów pan nie pobierał żadnych opłat.
 
@@ -1648,14 +1648,14 @@ Do serwitutów należy również zaliczyć przysługujące niekiedy olędrom pra
 
 E. Niestałe świadczenia gospodarcze pana
 
-[^83-1]: KI. M. Suchylas: „lasu gmina sucholaska nie powinna tykać”. Podobnie Ostrówek, AGH sąd Chodzież, majętn. Strzelce, vol. A, fol. 68.
+[^83-1]: Kl. M. Suchylas: „lasu gmina sucholaska nie powinna tykać”. Podobnie Ostrówek, AGH sąd Chodzież, majętn. Strzelce, vol. A, fol. 68.
 [^83-2]: AW. B. 110.
 [^83-3]: Np. w Ol. Krystynka (AW. Chodzież, C. 1, fol. 1).
-[^83-4]: KI. XII 6 V, fol. 144, Obelżanki Ol.; AW. Góździn, A. 1 ; Rel. Posn. nr 638, r. 1791, fol. 908, Strychowskie Ol.; Dom. P. 6755, fol. 16, Uścikowskie OI.
+[^83-4]: Kl. XII 6 V, fol. 144, Obelżanki Ol.; AW. Góździn, A. 1 ; Rel. Posn. nr 638, r. 1791, fol. 908, Strychowskie Ol.; Dom. P. 6755, fol. 16, Uścikowskie Ol.
 [^83-5]: Rel. Cost. nr 224, r. 1788, fol. 339, Cisiogórskie Ol.; AW. Gębickie OL., dep. A. I ; AW. Orłowiec, A. I.
 [^83-6]: Rel. Cost. nr 177, r. 1742, fol. 210, Kawczyn Ol.
 [^83-7]: Rel. Posn. nr 041, r. 1792, Zamorze.
-[^83-8]: AW. Stróżewskie OI., A. I.
+[^83-8]: AW. Stróżewskie Ol., A. I.
 
 [p. 84]
 
@@ -1666,10 +1666,10 @@ F. Powinności dworskie
 
 I. Czynsze. Wszyscy olędrzy byli czynszownikami. Robocizny miały jedynie drobne znaczenie. Wśród czynszów główną rolę odgrywał czynsz pieniężny. Niezależnie od podziału czynsze pieniądzu na w i w naturze, dość wyraźnie rysuje się podział czynszów olęderskich na świadczenia od poszczególnych działów gospodarstwa (od gruntu, od poszczególnych serwitutów i korzyści). Podobnie jak przy kolonizacji na prawie niemieckim, olędrzy nie uiszczali czynszu zaraz po osadzeniu, ale korzystali z pewnej liczby tzw. lat wolnych. Wolnizny miały na celu umożliwić olędrom utrzymanie się na miejscu tak długo, dopóki grunt nie zostanie wykarczowany i nie zacznie przynosić dochodów. Zwykle wymagano od olędrów, żeby w latach wolnych wystawili potrzebne budynki gospodarcze[^84-4]. W osadach zakładanych ,,z nowego korzenia” wolnizny wynosiły najczęściej 6—7 lat[^84-5], natomiast przy lokacji osad na miejscu wsi opustoszałych nie było lat wolności wcale, lub też wahały się od 1-3 lat, zależnie od stanu gruntów i ewentualnie istniejących jeszcze budynków. W osadach lokowanych na rolach częściowo zarosłych istnizło zróżnicowanie lat wolności zależnie od stanu poszczególnych kawałków gruntu. Niezależnie od zwolnień w początkowym okresie istnienia osady, pan przyrzekał zwykle olędrom dodatkowy rok wolności w razie, gdyby po opuszczeniu gospodarstw wskutek rozruchów wojennych lub innych klęsk elementarnych, zechcieli później wrócić do swych siedzib[^84-6].
 
-[^84-1]: AW. Meryń Nowy, C. 7, fol. 101; AW. Kąkolewo, A. 1; AW. Szklarka Trzcielska, A. I (Szklanohutskic OI.).
-[^84-2]: AW. Lubieńskie Ol., B. 1; Rel. Posn. nr 140, r. 1602, fol. 660, Nowe Dwory; AW. Stróżewskie OI. A. I.
-[^84-3]: Rel. Cost. nr 177, r. 1742, s. 212, Kawczyn OI.; Inscr. Valc. nr 85, r. 1663—74, fol. 402, Ujskie OI.
-[^84-4]: Np. w OI. Grabowiec, KI. XII 6 V, fol. 56.
+[^84-1]: AW. Meryń Nowy, C. 7, fol. 101; AW. Kąkolewo, A. 1; AW. Szklarka Trzcielska, A. I (Szklanohutskic Ol.).
+[^84-2]: AW. Lubieńskie Ol., B. 1; Rel. Posn. nr 140, r. 1602, fol. 660, Nowe Dwory; AW. Stróżewskie Ol. A. I.
+[^84-3]: Rel. Cost. nr 177, r. 1742, s. 212, Kawczyn Ol.; Inscr. Valc. nr 85, r. 1663—74, fol. 402, Ujskie Ol.
+[^84-4]: Np. w Ol. Grabowiec, Kl. XII 6 V, fol. 56.
 [^84-5]: Na 73 znane nam wypadki wynosiły wolnizny w jednym wypadku 8 lat (Rzecień), w 35 wypadkach — 7 lat, w 21 — 6 lat, w 8 — 5 lat, w 4 — 4 lata i w 4—3 lata.
 [^84-6]: AW. Lubieńskie OL., B. 1; AW. Marienwald, B. 1; AW. Nieszawskie Ol., A. 1-5; AW. Szklarka Trzcielska, A. I.
 
@@ -1681,26 +1681,26 @@ I. Czynsze. Wszyscy olędrzy byli czynszownikami. Robocizny miały jedynie drobn
 [^85-1]: Opieraliśmy się tutaj na pracach: Gumowski Marian, Podręcznik numizmatyki polskiej, Kraków 1914; tenże, Monety polskie, Warszawa 1924; Rutkowski Zarys dziejów, s. 214 i nast.
 [^85-2]: Inscr. Valc. nr 85, r. 1663—4, fol. 402.
 [^85-3]: Rel. Posn. nr 140, r. 1602, fol. 659 i Kl. XII 7. t Rel. Posn. nr 638, r. 1791, fol. 597.
-[^85-4]: 36-zlotowy czynsz mamy w Wielkokrobielewskich O. (r. 1672) i w Meryniu Starym (T. 1695); w OI. Sękowo (r. 1700) mamy tylko 30 zł.
+[^85-4]: 36-zlotowy czynsz mamy w Wielkokrobielewskich O. (r. 1672) i w Meryniu Starym (T. 1695); w Ol. Sękowo (r. 1700) mamy tylko 30 zł.
 [^85-5]: AW. Dłuskic Stare Ol., A. 1. Nie orientując się widocznie w ówczesnych stosunkach monetarnych, Schmidt (Geschichte, s. 383) uważał ów czynsz za wyjątkowo wysoki.
-[^85-6]: OI. Jasionowe, r. 1701 (Rel. Posn. nr 645, r. 1793, fol. 319), OI. Glinki, r. 1701 (Rel. Posn. nr 640, r. 1791, fol. 270).
+[^85-6]: Ol. Jasionowe, r. 1701 (Rel. Posn. nr 645, r. 1793, fol. 319), Ol. Glinki, r. 1701 (Rel. Posn. nr 640, r. 1791, fol. 270).
 [^85-7]: J. w. oraz: AW. Jaromierskie Stare OlI., dep. A. I (r. 1709); AW. Meryń Stary, B. 2 (r. 1713). ,
-[^85-8]: AW. Tuchorskie Stare Ol., dep. A. 1 (r. 1703) — 10 talarów; AW. Sowiagóra, B. 2 (r. 1703) — 8 talarów; AW. Zielonka, A. I (r. 1704) — 10 talarów; Rel. Posn. nr 035, r. 1790, fol. 316, Słonawskie OI. (r. 1707) — 8 talarów; AW. Jaromierz (Nowy), B. 4, fol. 63 (r. 1719) — 12 talarów.
+[^85-8]: AW. Tuchorskie Stare Ol., dep. A. 1 (r. 1703) — 10 talarów; AW. Sowiagóra, B. 2 (r. 1703) — 8 talarów; AW. Zielonka, A. I (r. 1704) — 10 talarów; Rel. Posn. nr 035, r. 1790, fol. 316, Słonawskie Ol. (r. 1707) — 8 talarów; AW. Jaromierz (Nowy), B. 4, fol. 63 (r. 1719) — 12 talarów.
 
 [p. 86]
 
 
-Wśród czynszów pieniężnych najważniejszą, a niekiedy jedyną pozycję tworzył czynsz od gruntu (gruntczynsz). W najwcześniejszych osadach był on bardzo niski: w Ujskich OI. (r. 1597) wyrosił[^85-2] zł z huby 30-morgowej ?, w Ol. Nowe Dwory (r. 1601) 25 zł z huby, jak[^85-3] wynika z późniejszych pomiarów, 60-morgowej %. W OI. Róża (r. 1624) czynsz nominalnie był nieco wyższyi wynosił[^85-4] zł z huby[^85-5], w gruncie rzeczy jednak na skutek spadku wartości złotego nie był wyższy od czynszów podanych poprzednio. Na tym poziomie utrzym:ł się czynsz przez cały w. XVII 5. Przy końcu tego wieku zaczęto wyznaczeć należności w tynfach. I tak w Dłuskich Starych OI. (r. 1688) czynsz ze śladu Określony został na 64 tynfy. Faktyczna wartość tynfa nie wynosiła jednak ani połowy wartości złotego, kursującego dotychczas, tak, że w gruncie tu do czynienia obniżką czynszu $. W pierwszej rzeczy mamy z połowie w. XVIII świadczenia wymierza się albo w „dobrej monecie” ?, tzn. w złotych kursujących przed wprowadzeniem tynfa, lub w talarach, licząc początkowo 36 gr, a w miarę spadku wartości złotego 3,6 a nawet 8 zł talar i wtedy wartość wyrosiła jak poprzednio 30—36. za — czynszu zł (srebrnych) 8, względnie 8—12 talarów *— albo też w zdewaluowanych[^85-6][^85-7][^85-8] złotówkach tynfowych; w tym ostatnim wypadku ndleżność wynosiłą przeciętnie 50 tynfów, wahając się w poszczególnych wypadkach od 30[^86-1] do 70[^86-2] tynfów. Nieco wyższy czynsz notujemy w osadach lokowanych w latach osiemdziesiątych w. XVIII; wynosi on tam niekiedy 75—88 zł[^86-3], czyli 60—70 tynfów, licząc tynfa po 38 gr. Wyjątkowo niski czynsz w Radoszkowskich Ol. wynosi z huby (włóki) 16 zł (r. 1781), natomiast we Włościejewskich O. (r. 1783) mamy świadczenia dość wysokie, bo wynoszące 100 tynfów z huby. Koło tej sumy waha się czynsz w osadach lokowanych w ostatniej ćwierci w. XVIII[^86-4].
+Wśród czynszów pieniężnych najważniejszą, a niekiedy jedyną pozycję tworzył czynsz od gruntu (gruntczynsz). W najwcześniejszych osadach był on bardzo niski: w Ujskich Ol. (r. 1597) wyrosił[^85-2] zł z huby 30-morgowej ?, w Ol. Nowe Dwory (r. 1601) 25 zł z huby, jak[^85-3] wynika z późniejszych pomiarów, 60-morgowej %. W Ol. Róża (r. 1624) czynsz nominalnie był nieco wyższyi wynosił[^85-4] zł z huby[^85-5], w gruncie rzeczy jednak na skutek spadku wartości złotego nie był wyższy od czynszów podanych poprzednio. Na tym poziomie utrzym:ł się czynsz przez cały w. XVII 5. Przy końcu tego wieku zaczęto wyznaczeć należności w tynfach. I tak w Dłuskich Starych Ol. (r. 1688) czynsz ze śladu Określony został na 64 tynfy. Faktyczna wartość tynfa nie wynosiła jednak ani połowy wartości złotego, kursującego dotychczas, tak, że w gruncie tu do czynienia obniżką czynszu $. W pierwszej rzeczy mamy z połowie w. XVIII świadczenia wymierza się albo w „dobrej monecie” ?, tzn. w złotych kursujących przed wprowadzeniem tynfa, lub w talarach, licząc początkowo 36 gr, a w miarę spadku wartości złotego 3,6 a nawet 8 zł talar i wtedy wartość wyrosiła jak poprzednio 30—36. za — czynszu zł (srebrnych) 8, względnie 8—12 talarów *— albo też w zdewaluowanych[^85-6][^85-7][^85-8] złotówkach tynfowych; w tym ostatnim wypadku ndleżność wynosiłą przeciętnie 50 tynfów, wahając się w poszczególnych wypadkach od 30[^86-1] do 70[^86-2] tynfów. Nieco wyższy czynsz notujemy w osadach lokowanych w latach osiemdziesiątych w. XVIII; wynosi on tam niekiedy 75—88 zł[^86-3], czyli 60—70 tynfów, licząc tynfa po 38 gr. Wyjątkowo niski czynsz w Radoszkowskich Ol. wynosi z huby (włóki) 16 zł (r. 1781), natomiast we Włościejewskich O. (r. 1783) mamy świadczenia dość wysokie, bo wynoszące 100 tynfów z huby. Koło tej sumy waha się czynsz w osadach lokowanych w ostatniej ćwierci w. XVIII[^86-4].
 
-W pieniądzu po największej części uiszczano też czynsz za serwituty pastwiskowe. Osobne opłaty za pastwisko pojawiają się z końcem w. XVII. Utrzymują się one aż do rozbiorów w wysokości 2 talarów lub 10 tynfów przy stałej opłacie od huby, względnie 6 do 10 gr od każdej sztuki bydła. W OI. Stodólsko stała opłata wynosiła tylko 1 talar, ale korzystanie z pastwisk było ograniczone czasowo 5. W OI. Wymy-[^86-5] ślanka olędrzy zobowiązani byli uiszczać oba rodzaje opłat równocześnie[^86-6], Wyraźnie represyjny charakter miała kwota wyznaczona w Ol. Głęboczek. Wolno tam było trzymać bezpłatnie 50 owiec, natomiast od każdej następnej owcy obowiązywała opłata w wysokości aż 1 tynfa[^86-7]. W nielicznych wypadkach opłata za pastwisko wliczona została już do czynszu ogólnego[^86-8]. Niekiedy znowu uiszczano wspólną opłatę za serwituty pastwiskowe i leśne[^86-9].
+W pieniądzu po największej części uiszczano też czynsz za serwituty pastwiskowe. Osobne opłaty za pastwisko pojawiają się z końcem w. XVII. Utrzymują się one aż do rozbiorów w wysokości 2 talarów lub 10 tynfów przy stałej opłacie od huby, względnie 6 do 10 gr od każdej sztuki bydła. W Ol. Stodólsko stała opłata wynosiła tylko 1 talar, ale korzystanie z pastwisk było ograniczone czasowo 5. W Ol. Wymy-[^86-5] ślanka olędrzy zobowiązani byli uiszczać oba rodzaje opłat równocześnie[^86-6], Wyraźnie represyjny charakter miała kwota wyznaczona w Ol. Głęboczek. Wolno tam było trzymać bezpłatnie 50 owiec, natomiast od każdej następnej owcy obowiązywała opłata w wysokości aż 1 tynfa[^86-7]. W nielicznych wypadkach opłata za pastwisko wliczona została już do czynszu ogólnego[^86-8]. Niekiedy znowu uiszczano wspólną opłatę za serwituty pastwiskowe i leśne[^86-9].
 
 W paru osadach olędrzy płacili panu tzw. stróżowe. Było ono wyznaczone albo od każdej huby roli (tak np. w Krzemieniewie od każ. * dej huby płacono I zł[^86-10], albo cała osada zobowiązana była uiścić pewną stałą kwotę ryczałtową. W tym ostatnim wypadku wysokość
 
-[^86-1]: AW. Gębickie OI., A. 1 (r. 1735).
+[^86-1]: AW. Gębickie Ol., A. 1 (r. 1735).
 [^86-2]: Rel. Cost. nr 174, r. 1739, fol. 1118, Popowo (r. 1730).
-[^86-3]: W OI. Kiączyńskich (r. 1778) — 76 zł, w Kamińskich OI. (r. 1780) —- 88 zł 20 gr.
+[^86-3]: W Ol. Kiączyńskich (r. 1778) — 76 zł, w Kamińskich Ol. (r. 1780) —- 88 zł 20 gr.
 [^86-4]: Z. huby płacono: w Ostrowie i Borgowie (r. 1785) — 126 zł, w Skrzydlewie (r. 1785) —
-[^86-5]: talarów w dukatach, licząc na dukata 3 talary (== 90 zł), w Strychowskich OI. (r. 1786) — 72 zł, w OI. Charłub (r. 1787) — 100 tynfów po 38 gr miedzianych (= 126 zł), w OI. Troja- nowo (r. 1788) — 100 zł, w OI. Sikorce (r. 1791) — 88 zł 20 gr, w OI. Białokoskich (r. 1792) — 72 zł, w OI. Mechnacz (AGH sąd Międzychód, majętn. Rozbitek, vol. IT, fol. 32 (r. 1794) —
+[^86-5]: talarów w dukatach, licząc na dukata 3 talary (== 90 zł), w Strychowskich Ol. (r. 1786) — 72 zł, w Ol. Charłub (r. 1787) — 100 tynfów po 38 gr miedzianych (= 126 zł), w Ol. Troja- nowo (r. 1788) — 100 zł, w Ol. Sikorce (r. 1791) — 88 zł 20 gr, w Ol. Białokoskich (r. 1792) — 72 zł, w Ol. Mechnacz (AGH sąd Międzychód, majętn. Rozbitek, vol. IT, fol. 32 (r. 1794) —
 [^86-6]: talarów (== 120 zł). 5 AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 26 (r. 1742).
 [^86-7]: Rel. Posn. nr 641, r. 1792, fol. 260 (r. 1721). Olędrzy płacili tutaj po 2 talary rocznie, a prócz tego po szóstaku (Hb gr) od każdej owcy.
 [^86-8]: Rel. Gost. nr 164, r. 1729, Podgradowice: ,,corocznie powinni dawać do dworu od
@@ -1720,16 +1720,16 @@ b. Czynsze w naturze. Z czynszami tego rodzaju spotykamy się w drugiej połowie
 
 [^87-1]: Rel. Cost. nr 174, r. 1739, fol. 1120.
 [^87-2]: AW. Jaromierz, B. 4 fol. 78, Ujście Nowe; Rel. Cost. nr 177, r. 1742, fol. 211, Kaw- czyno.
-[^87-3]: AW. Stare Dłuskie OI., A. 1 (r. 1688); AW. Meryń Nowy, C. 7, fol. 101 (r. 1695).
-[^87-4]: Rel. Cost. nr 218, r. 1785, fol. 221, Borujskie OI.
+[^87-3]: AW. Stare Dłuskie Ol., A. 1 (r. 1688); AW. Meryń Nowy, C. 7, fol. 101 (r. 1695).
+[^87-4]: Rel. Cost. nr 218, r. 1785, fol. 221, Borujskie Ol.
 [^87-5]: AW. Głęboczek, A. 1—2.
-[^87-6]: Borujskie OI., j. w.
-[^87-7]: KI. M. Suchylas.
-[^87-8]: AW. Stróżewskie OlI., A. 1; KI. XII 6 V, fol. 116, Lubaskie Ol. 97 w.
+[^87-6]: Borujskie Ol., j. w.
+[^87-7]: Kl. M. Suchylas.
+[^87-8]: AW. Stróżewskie OlI., A. 1; Kl. XII 6 V, fol. 116, Lubaskie Ol. 97 w.
 [^87-9]: W Zakrzewie np. opłata za serwituty leśne wynosiła z huby 2 ćwiertnie owsa, 8 kur,
 [^87-10]: mendle jaj (Rel. Posn. nr 626, r. 1788, fol. 400). j
 [^87-11]: 'Tak np. tytułem opłaty za serwituty pastwiskowe uiszczano z huby: w Białężyń- skich Ol. (AW. B. 59—60) 6 wierteli owsa, w Wielkich Budziszewskich Ol. (AW. B. 108)
-[^87-12]: wiertele owsa i 4 kury lub 2 kapłony, w Starych Dłuskich OI. (AW. A. 1) ,,od każdego by- dlęcia... powinni dać po kurze”, w Ol. Dziewczastruga (AW. B. 1028) 4 kapłony i 2 gęsi, w Proszkowskich OI. (AW. A. 1) 6 wierteli jęczmienia lub 8 wierteli owsa, w OI. Słonawskich od każdych 4 owiec 1 gęś i 2 kury (Rel. Posn. nr 635, r. 1790, fol. 3106).
+[^87-12]: wiertele owsa i 4 kury lub 2 kapłony, w Starych Dłuskich Ol. (AW. A. 1) ,,od każdego by- dlęcia... powinni dać po kurze”, w Ol. Dziewczastruga (AW. B. 1028) 4 kapłony i 2 gęsi, w Proszkowskich Ol. (AW. A. 1) 6 wierteli jęczmienia lub 8 wierteli owsa, w Ol. Słonawskich od każdych 4 owiec 1 gęś i 2 kury (Rel. Posn. nr 635, r. 1790, fol. 3106).
 [^87-13]: AW. Niwka, A. 1.
 [^87-14]: ĄW. 'Trojanowo Ol., B. 1037: „Na św. Marcin gęsi 2, jaj mendeli 2, kapłonów 4 oddawać mają, lub pieniądze za nich według ugody”.
 
@@ -1738,33 +1738,33 @@ b. Czynsze w naturze. Z czynszami tego rodzaju spotykamy się w drugiej połowie
 
 2. Opłaty. Prócz czynszów pieniężnych olędrzy uiszczali pówne opłaty. Różniły się one tym od czynszów, że płacoro je dopiero w pewnych okoliczności: ch (rp. w rzzie sprzedaży gospod: rstwa), gdy tymczasem czynsze płacone były zawsze, w stałej, określonej wysokości. Na granicy czynszów i opłat stała omówiona już należrość za serwituty pastwiskowe, płacona od każdej poszczególnej owcy. Właściwe opłaty uiszczane przez olędrów można podzielić na 2 grupy: opłaty o charakterze gospodarczym i opłaty administracyjne. Do pierwszej kategorii opłat należało okupne (za grunt, za budynki), dalej ewentualne opłaty targowe. Wysokość okupnego wahała się w berdzo szerokich granicach i trudno tu podać jakąś cyfrę przeciętną. W 2 oszdach lokowanych na schyłku w. XVII okupne wyrosiło za hubę 40 talarów, licząc talar 15 szóstaków (== 120 zł)[^88-1] i 100 talarów po kursie 5 zł za talar (== 500 zł)[^88-2]. Na początku w. XVIII płacono za hubę: 150 zł (r. 1701)[^88-3], 30 zł (r. 1707)[^88-4], 10 zł (r. 1709)[^88-5], 100 tynfów (r. 1712)[^88-6]. W związku ze spadkiem wartości pieniądza podrosi się nominalnie suma okupnego, dochodząc około r. 1730 wyjątkowo nawet do 600 zł[^88-7], Z drugiej strony, w tym samym czasie mamy do zanotowania okupne w wysokości. 6 zł[^88-8], a nieco później (r. 1752) 1 czerwony złoty z huby[^88-9]. Na dłuższy czas wysokość okupnego ustala się na mniej więcej 100 zł z huby. W ostatniej ćwierci w. XVIII okupne jest wyższe. Za hubę płaci się: 900 zł (r. 1771 — role uprawne z budynkami)[^88-10], 24 zł (r. 1773)[^88-11], 30 czerwonych zł (r. 1775)[^88-12], 900 zł (role uprawne z budynkami — r. 1776 i 1781)[^88-13], 10 czerw. zł (r. 1783)[^88-14], 1.800 zł i 1.500 zł (role uprawne z budynkami — r. 1785)[^88-15], 150 zł (r. 1786)[^88-16], 20 czerw. zł (r. 1787)[^88-17].
 
-[^88-1]: W Starych Dłuskich OI. (AW. A. I, r. 16088).
+[^88-1]: W Starych Dłuskich Ol. (AW. A. I, r. 16088).
 [^88-2]: W Meryniu Starym (AW. Meryń Nowy, C. 7, fol. 101, r. 1695).
-[^88-3]: Rel. Posn. nr 645, r. 1793, fol. 316, Jasionowe OI.
-[^88-4]: Rel. Posn. nr 035, r. 1790, fol. 316, Słonawskie OI.
+[^88-3]: Rel. Posn. nr 645, r. 1793, fol. 316, Jasionowe Ol.
+[^88-4]: Rel. Posn. nr 035, r. 1790, fol. 316, Słonawskie Ol.
 [^88-5]: AW. Jaromierz, dep. A. I.
 [^88-6]: Rel. Cost. nr 155, r. 1719—20, s. 141.
-[^88-7]: W OI. Krystynka (AW. Chodzież, C. 1), w OI. Huta (AW. Knarrhittte, C. 3).
-[^88-8]: W OI. Chełmskich (Rel. Posn. nr 435, r. 1742, fol. 230).
+[^88-7]: W Ol. Krystynka (AW. Chodzież, C. 1), w Ol. Huta (AW. Knarrhittte, C. 3).
+[^88-8]: W Ol. Chełmskich (Rel. Posn. nr 435, r. 1742, fol. 230).
 [^88-9]: W Złotkowie (AW. A. I).
 [^88-10]: Zamorze, Rel. Posn. nr 641, r. 1792, fol. 163.
-[^88-11]: Lubaskie OI., KI. XII 6 V, fol. 116.
+[^88-11]: Lubaskie Ol., Kl. XII 6 V, fol. 116.
 [^88-12]: Rudka Ol., Rel. Posn. nr 641, r. 1792, fol. 127.
-[^88-13]: Chmielinka OI., Rel. Cost. nr 209, r. 1776, fol. 223.
-[^88-14]: Włościejewskie OI., Rel. Cost. nr 217, r. 1784, fol. 78.
+[^88-13]: Chmielinka Ol., Rel. Cost. nr 209, r. 1776, fol. 223.
+[^88-14]: Włościejewskie Ol., Rel. Cost. nr 217, r. 1784, fol. 78.
 [^88-15]: Boruja, Rel. Cost. nr 218, r. 1785, fol. 221 i Ostrowo oraz Borgowo, Rel. Cost. nr 220, r. 1787, fol. 371.
 [^88-16]: Strychowskie OIl., Rel. Posn. nr 638, r. 1791, fol. 908.
-[^88-17]: Charłub OI., Rel. Cost. nr 220, r. 1787, fol. 182.
+[^88-17]: Charłub Ol., Rel. Cost. nr 220, r. 1787, fol. 182.
 
 [p. 89]
 
 
 Niekiedy pan zwalniał olędrów od uiszczania opłat targowych w miastach leżących w jego majętności. Przypuszczać należy, że gdy olędrzy nie byli od opłat zwolnieni, obowiązywały ich stawki stosowane ogólnie. Źródła nic jednak o tym nie mówią.
 
-opłat administracyjnych miała W szeregu największe znaczenie opłata od sprzedaży gospodarstw. Jej wysokość i rodzaje podane zostały już poprzednio, na s. 66. Poza tym w nielicznych osadach spotykamy wspomniane już opłaty od zatwierdzenia ważniejszych aktów prawnych (zapisów, testamentów, działów majątkowych, kontraktów ślubnych). W Milczewskich i w Lubaskich OI. pan pobierał[^89-1] tynfów (14 zł) od każdego aktu *%. W Starych Borujskich Ol. m: my opłatę for-[^89-2] malnie administracyjną, charakterem swym mocno jednak zbliżoną do czynszu. Uiszczali ją olędrzy co[^89-3] lat w wysokości[^89-4] zł z huby w zamian za uznanie przez dwór ich prawa własności na posiedanym gruncie %. Wzmianka Maasa, jakoby olędrzy uiszczali opłaty przy wydawa-[^89-5] niu córek za mąż poza gminę, polega na nieporozumieniu f.[^89-6] 3. Robocizny. W przywilejach dla dwóch najwcześniejszych osad olęderskich na terenie dawnego województwa poznańskiego powinności dworskie w robociźnie nie występują. W OI. Róża lokowanych w r. 1624 w majętności krobielewskiej, spotykamy już obowiązek naprawiania mostu przez rzekę Wertę5, a lustracja majętrości wieleńskiej z r. 1653 jako powinności olędrów wylicza m. i. I dzień robocizny i zwózkę 3 fur drzewa. Robocizny na szerszą skalę znajdujemy dopiero przywilejach dla osad lokowanych w w. XVIII. Zwrócić jednak należy uwagę, że charakter ich Jest inny niż pańszczyzny chłopów poddanych; robocizny obowiązywały olędrów zawsze w niewielkiej wysokości, po największej części były ściśle określone w przywileju i oznadrodze wzajemnego porozumienia stron, nie były zaś uwarunkoczane w osobistą zależnością od pana, tak jak robocizny ludności poddarej. wane Zgodnie z postanowieniami przywilejów możemy rozróżnić robocizny wyznaczone w ilości określonej i robocizny obowiązujące w ilości nieokreślonej. Z reguły spotykamy się z robociznami ilościowo
+opłat administracyjnych miała W szeregu największe znaczenie opłata od sprzedaży gospodarstw. Jej wysokość i rodzaje podane zostały już poprzednio, na s. 66. Poza tym w nielicznych osadach spotykamy wspomniane już opłaty od zatwierdzenia ważniejszych aktów prawnych (zapisów, testamentów, działów majątkowych, kontraktów ślubnych). W Milczewskich i w Lubaskich Ol. pan pobierał[^89-1] tynfów (14 zł) od każdego aktu *%. W Starych Borujskich Ol. m: my opłatę for-[^89-2] malnie administracyjną, charakterem swym mocno jednak zbliżoną do czynszu. Uiszczali ją olędrzy co[^89-3] lat w wysokości[^89-4] zł z huby w zamian za uznanie przez dwór ich prawa własności na posiedanym gruncie %. Wzmianka Maasa, jakoby olędrzy uiszczali opłaty przy wydawa-[^89-5] niu córek za mąż poza gminę, polega na nieporozumieniu f.[^89-6] 3. Robocizny. W przywilejach dla dwóch najwcześniejszych osad olęderskich na terenie dawnego województwa poznańskiego powinności dworskie w robociźnie nie występują. W Ol. Róża lokowanych w r. 1624 w majętności krobielewskiej, spotykamy już obowiązek naprawiania mostu przez rzekę Wertę5, a lustracja majętrości wieleńskiej z r. 1653 jako powinności olędrów wylicza m. i. I dzień robocizny i zwózkę 3 fur drzewa. Robocizny na szerszą skalę znajdujemy dopiero przywilejach dla osad lokowanych w w. XVIII. Zwrócić jednak należy uwagę, że charakter ich Jest inny niż pańszczyzny chłopów poddanych; robocizny obowiązywały olędrów zawsze w niewielkiej wysokości, po największej części były ściśle określone w przywileju i oznadrodze wzajemnego porozumienia stron, nie były zaś uwarunkoczane w osobistą zależnością od pana, tak jak robocizny ludności poddarej. wane Zgodnie z postanowieniami przywilejów możemy rozróżnić robocizny wyznaczone w ilości określonej i robocizny obowiązujące w ilości nieokreślonej. Z reguły spotykamy się z robociznami ilościowo
 
 [^89-1]: Zwolnieni od ceł byli olędrzy majętn. wieleńskiej. Por. przywileje z r. 1677.
-[^89-2]: AW. Milczewskie Ol., A. 1 i KI. XII 6 V, fol. 116, Lubaskie OL.
+[^89-2]: AW. Milczewskie Ol., A. 1 i Kl. XII 6 V, fol. 116, Lubaskie OL.
 [^89-3]: zur Anerkennung des Ober Eigenthums jedes mal nach Verlżuf von finfzig Jahren, zwei Dukaten zu achtzehn polnische Gulden” (AGH sąd Wolsztyn, majętn. Obra, vol.
 [^89-4]: IV, fol. 1137, reces z r. 1843).
 [^89-5]: Entstchung, s. 84. Autor tłumacząc tekst pracy Stan. Kytrzeby, Historia ustroju Polski w zarysie, gdzie w t.I, nas. 236 (wydanie z r. 1931) znajduje się zwrot dotyczący olędrów, nie spostrzegł, że dalsze rozważania Kutrzeby dotyczą już ogółu ludności wło- ściańskiej. Wypadło stąd, że olędrzy nie tylko uiszczają wspomnianą wyżej opłatę, ale nadto na żądanie pańskie muszą stawać do służby we dworze.
@@ -1775,15 +1775,15 @@ opłat administracyjnych miała W szeregu największe znaczenie opłata od sprze
 
 
 
-[^90-1]: Por. np. Kaźmierzewskie Ol., KI. XII 6 V, fol. 120; AW. Huta (Knarrhiitte), C. 3.
-[^90-2]: "Tuchorskie Stare OI., AGH sąd Wolsztyn, majętn. Tuchorza, Acta commissionis fol. 161.
+[^90-1]: Por. np. Kaźmierzewskie Ol., Kl. XII 6 V, fol. 120; AW. Huta (Knarrhiitte), C. 3.
+[^90-2]: "Tuchorskie Stare Ol., AGH sąd Wolsztyn, majętn. Tuchorza, Acta commissionis fol. 161.
 [^90-3]: Por. Rutkowski, Badania nad podziałem dochodów, s. 95.
-[^90-4]: AW. Kiełczynek, A. I. W Trojanowskich OI. robocizna wynosiła 8 dni orki po 12 prętów 8-łokciowych (AW. B. 1037).
-[^90-5]: AW. Stare Łoskońskie OI. , B. 305.
+[^90-4]: AW. Kiełczynek, A. I. W Trojanowskich Ol. robocizna wynosiła 8 dni orki po 12 prętów 8-łokciowych (AW. B. 1037).
+[^90-5]: AW. Stare Łoskońskie Ol. , B. 305.
 [^90-6]: AW. Góździn, A. I.
-[^90-7]: AW. Paproć, C. 2, fol. 255 (Lipiec Małe OI.); Rel. Cost. nr 223, r. 1787, fol. 182.
-[^90-8]: ĄW. Stobnickie OI. , B. 991 : każdy z nich w każde żniwa trzydzieści zagonów pożąć, lub pociąg zboża powiązać i w mędele znieść powinien”.
-[^90-9]: Rel. Cost. nr 217, r. 1784, fol. 78, Włościejewskie OI.: „robociznę z każdej huby odbywać corocznie powinni takową: w żniwa zboża zagonów sześćdziesiąt pożąć, tyleż za- gonów W jakimkolwiek polu zorać”?.
+[^90-7]: AW. Paproć, C. 2, fol. 255 (Lipiec Małe Ol.); Rel. Cost. nr 223, r. 1787, fol. 182.
+[^90-8]: ĄW. Stobnickie Ol. , B. 991 : każdy z nich w każde żniwa trzydzieści zagonów pożąć, lub pociąg zboża powiązać i w mędele znieść powinien”.
+[^90-9]: Rel. Cost. nr 217, r. 1784, fol. 78, Włościejewskie Ol.: „robociznę z każdej huby odbywać corocznie powinni takową: w żniwa zboża zagonów sześćdziesiąt pożąć, tyleż za- gonów W jakimkolwiek polu zorać”?.
 [^90-10]: AW. Czapury, B. 1 a: „Pólko zaś przy konwencie naszym zostające, które przed tym siekli, teraz ponieważ się sieje, zaczym Je zorać, uwlec, krescencyą uprzątnąć powinni”.
 [^90-11]: Rel. Cost. nr 218, r. 1785, fol. 221, Boruja; AM. Wieleń, GC. 250, fol. 24, Łokacz Ol.
 [^90-12]: Rel. Cost. nr 224, r. 1788, fol. 379.
@@ -1791,51 +1791,51 @@ opłat administracyjnych miała W szeregu największe znaczenie opłata od sprze
 [p. 91]
 
 
-określonymi i to bądź przez podanie obowiązujących dni pracy, bądź przez wyznaczenie obszaru roli, na którym miały być pewne prace wykonane. Liczba dni pracy, jak zresztą i ilość pozostałych robocizn wahała się w bardzo szerokich granicach. Obok wypadków, kiedy nie było robocizny zupełnie !, spotykamy i taki wypadek, że odrabiano ją w liczbie 50 dni[^90-1] rocznie z huby[^90-2]. Przeciętnie liczba dni robocizny wynosiła 6—12 dni z huby; robocizny niższe lub ich brak spotykamy w wypadkach, gdy odrabiano jeszcze inne robocizny, nie określone liczbą dni (np. zwózki). Zwykle określano rodzaj pracy i porę roku, w której praca miała być wykonana (orka, wożenie mierzwy, zasiewy, żęcie zboża, sianokosy itd.). Rzadziej spotykamy obowiązek wykonania pewnych prac rolnych na określonym obszarze roli, czyli tzw. jutrzyny 3. W wyjątkowych wypadkach[^90-3] zastosowanie miała kombinacja pośrednia, tzw. robocizna wydziałowa, polegająca na tym, że ustalano pewną liczbę dni pracy, ale jednocześnie określano minimum pracy, która miała być wykonana w ciągu dnia. Tak np. w jednej z osad olędrzy zobowiązani byli „3 dni orać po 12 zagonów”[^90-4], w innym wypadku obowiązkiem ich było od św. Wojciecha do św. Marcina w każdym tygodniu zorać morgę roli[^90-5]. Jutrzyny obejmowały zazwyczaj tylko orkę (30[^90-6] do 60[^90-7] zagonów), niekiedy tylko koszenie[^90-8], rzadziej orkę i koszenie[^90-9], a wyjątkowo wszystkie prace prócz siewu[^90-10]. Robocizny jutrzynne mogły również polegać na koszeniu i suszeniu siana na określonym kawałku łąki[^90-11]. W OIL. Cisiogórskich olędrzy zobowiązani byli jeszcze wydzielone im łąki „trzymać w dozorze ...ażeby nie zarastały”[^90-12]. Do tej kategorii powinności należał również bardzo rzadko zresztą spotykany obowiązek rąbania pewnej Określonej ilości drzewa na potrzeby pańskie[^91-1].
+określonymi i to bądź przez podanie obowiązujących dni pracy, bądź przez wyznaczenie obszaru roli, na którym miały być pewne prace wykonane. Liczba dni pracy, jak zresztą i ilość pozostałych robocizn wahała się w bardzo szerokich granicach. Obok wypadków, kiedy nie było robocizny zupełnie !, spotykamy i taki wypadek, że odrabiano ją w liczbie 50 dni[^90-1] rocznie z huby[^90-2]. Przeciętnie liczba dni robocizny wynosiła 6—12 dni z huby; robocizny niższe lub ich brak spotykamy w wypadkach, gdy odrabiano jeszcze inne robocizny, nie określone liczbą dni (np. zwózki). Zwykle określano rodzaj pracy i porę roku, w której praca miała być wykonana (orka, wożenie mierzwy, zasiewy, żęcie zboża, sianokosy itd.). Rzadziej spotykamy obowiązek wykonania pewnych prac rolnych na określonym obszarze roli, czyli tzw. jutrzyny 3. W wyjątkowych wypadkach[^90-3] zastosowanie miała kombinacja pośrednia, tzw. robocizna wydziałowa, polegająca na tym, że ustalano pewną liczbę dni pracy, ale jednocześnie określano minimum pracy, która miała być wykonana w ciągu dnia. Tak np. w jednej z osad olędrzy zobowiązani byli „3 dni orać po 12 zagonów”[^90-4], w innym wypadku obowiązkiem ich było od św. Wojciecha do św. Marcina w każdym tygodniu zorać morgę roli[^90-5]. Jutrzyny obejmowały zazwyczaj tylko orkę (30[^90-6] do 60[^90-7] zagonów), niekiedy tylko koszenie[^90-8], rzadziej orkę i koszenie[^90-9], a wyjątkowo wszystkie prace prócz siewu[^90-10]. Robocizny jutrzynne mogły również polegać na koszeniu i suszeniu siana na określonym kawałku łąki[^90-11]. W Ol.. Cisiogórskich olędrzy zobowiązani byli jeszcze wydzielone im łąki „trzymać w dozorze ...ażeby nie zarastały”[^90-12]. Do tej kategorii powinności należał również bardzo rzadko zresztą spotykany obowiązek rąbania pewnej Określonej ilości drzewa na potrzeby pańskie[^91-1].
 
 Pokrewnymi robociznami były zwózki i „drogi”. | W pierwszym wypadku olędrzy zobowiązani byli najczęściej do zwożenia drzewa opałowego z pańskiego lasu do dworu, zazwyczaj[^91-2] razy do roku;
 
 na Boże Narodzenie, Wielkanoc i Zielone Świątki, ilości 1-2 fur?[^91-3] w[^91-4] (tzw. drzewo świętne)[^91-6]. Zwózka mogła się łączyć z wykonaniem pewnych[^91-5] prac, jeśli np. olędrzy mi:eli obowiązek zwozić drzewo rąbane 4 Rzadziej spotykamy obowiązek zwożenia drzewa w klocach na tartak$, lub też zwózki pewnej liczby kop zboża pańskiego z pola do dworskiej stodoły 8. W drugim wypadku obowiązkiem olędrów było wywożenie do miast, zazwyczaj większych, produktów gospodarstwa pańskiego (drzewa, zboża, trunków). Wywóz zobowiązani byli olędrzy uskutecznić własnym zaprzęgiem[^91-7]. Długość trasy albo określano w milach 8, albo wymieniano miasto, do którego winny odbywać się przyszłe podróże, W rachubę wchodziły najczęściej miasta: Czersk, Leszno, Poznań, Wschowa, rzadziej Komorniki, Toruń, Żydaczów ?, Niekiedy drogi te mogły być bardzo dalekie i wskutek tego uciążliwe, Tak np. mieszkańcy Karpickich Ol. położonych w okolicy Wolsztyna zobowiązani byli odbywać raz roku drogę do Torunia, lub nią płacić w za 5 czerw. zł.
 
 [^91-1]: LAW. Krosna, A. Z: „Do cegielni z każdej huby co rok tłuc powinni po trzy sążnie drzewa”.
-[^91-2]: KI. XII 6 V, fol. 36, Króteckie OI.: AW. Niwka, A. 1; AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 33, Stodólsko Ol.; AW. Sikorce, B. 911; AM. Wieleń, C. 250, fol. 22, Szklana Huta; AW. Ludomskie OIl., B. 394; AW. 'Trojanowo OI., B. 1037.
-[^91-3]: AW. Rożnowskie OI., B. 770: „Drzewo świętne z huby fur dwie, z połowy Jednę, na każde święto odwozić mają...” 1! Sikorce, j. w.
+[^91-2]: Kl. XII 6 V, fol. 36, Króteckie Ol.: AW. Niwka, A. 1; AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 33, Stodólsko Ol.; AW. Sikorce, B. 911; AM. Wieleń, C. 250, fol. 22, Szklana Huta; AW. Ludomskie OIl., B. 394; AW. 'Trojanowo Ol., B. 1037.
+[^91-3]: AW. Rożnowskie Ol., B. 770: „Drzewo świętne z huby fur dwie, z połowy Jednę, na każde święto odwozić mają...” 1! Sikorce, j. w.
 [^91-4]: AW. Barcinck, B. 1; AW. Dziewczastruga Ul., b. 1U28.
-* Np. Kałędek OI., Q, nr 54. |
-[^91-5]: Np. Kałędek OI., Q, nr 54. |
+* Np. Kałędek Ol., Q, nr 54. |
+[^91-5]: Np. Kałędek Ol., Q, nr 54. |
 [^91-6]: AW. Orłowiec, A. 1; AW. Białokoskie Ol., B. I.
-[^91-7]: W OI. Bialokoskich 1 raz 12 mil, w Borujskich Starych i Nowych oraz w Szarkach Ol. — 2 razy 4 mile (AGH sąd Wolsztyn, majętn. Hamer, III H. 1, 'Tax Acten, fol. 63—4).
-[^91-8]: AGH sąd Międzychód, majętn. Białokosz, vol. IIL,/ fol. 19, Białokoskie OI.; AW, Karpicko, A. 1; AW. Niwka, A. 1]; AGH sąd Wronki, majętn. Popowo, XIX 199, kopia przywileju z r. 1708; AGH sąd Rogoźno, majętn. Wojnowo, vol. I, fol. 161, Wojnow- skie Ol.
+[^91-7]: W Ol. Bialokoskich 1 raz 12 mil, w Borujskich Starych i Nowych oraz w Szarkach Ol. — 2 razy 4 mile (AGH sąd Wolsztyn, majętn. Hamer, III H. 1, 'Tax Acten, fol. 63—4).
+[^91-8]: AGH sąd Międzychód, majętn. Białokosz, vol. IIL,/ fol. 19, Białokoskie Ol.; AW, Karpicko, A. 1; AW. Niwka, A. 1]; AGH sąd Wronki, majętn. Popowo, XIX 199, kopia przywileju z r. 1708; AGH sąd Rogoźno, majętn. Wojnowo, vol. I, fol. 161, Wojnow- skie Ol.
 
 [p. 92]
 
 
-Pośród robocizn ważne miejsce zajmowały tzw. tłoki (w źródłach niemal zawsze w pisowni tłuki, niem. Bii(t)age, Bit(t)dzenste. Jak wskazuje na to sama nazwa, były to robocizny wykonywane w razie nagłej potrzeby. Od innych robocizn różniły się tłoki tym, że świadczono Je za wynagrodzeniem ze strony pańskiej, zazwyczaj w piwie, tak, że robocizny te miały charakter pracy najemnej. Jednakże nie były one ——[^91-8] robociznami dobrowolnymi, lecz obowiązywały osadników tak samo jak inne powinności dworskie. Obowiązek świadczenia ich był często wyraźnie podkreślony w przywileju. Można mieć wątpliwości, czy zawsze wynagrodzenie w piwie starowiło wystarczający ckwiwalent za wykonywane przez olędrów prace. Początkowo, według wszelkiego prawdopodobieństwa tłoki świadczone były w ilości niewielkiej i tylko w razie bezrdzo nagłej potrzeby. Ponieważ olędrzy otrzymywali za pracę wynagrodzenie, nie uważano tłok za powinrość obciążającą olędrów i niekiedy nie dawaro o nich wzmianki w przywileju. I tak według lustracji majętn. wieleńskiej z r. 1653 olędrzy, którzy lokowani zostali w tejże majętności na początku XVII stulecia, zobowiązani byli pracować | dzień przy żniwach, a mimo to w późniejszych przywilejach z r. 1677 nie spotykamy o robociznach iych żadnej wzmianki. Na ogół jednak obowiązek odprawiania tłok jest! w przywilejach wyraźnie sformułowany[^92-1], a nawet odróżnia się wyrzźnie tłoki i robocizny „za uproszeniem””. Przywilej dla OI. Jerackich postanawia że: ,,Inszey zaś robocizny (prócz za uproszeniem i tłuk zwyczainych) dwór na pomienionych olędrach pretendować nie powinien”[^92-2], Określenie liczby tłok w przywileju uważać trzeba za korzystre dla olędrów, gdyż zabezpieczało ich przed ewentualnymi nadużyciemi ze strony pana. Najczęściej świadczono robociznę ręczną (stąd niekiedy nazywano tłoki szarwark: łni)[^92-3], spotyke my jednak i tłoki sprzężajne[^92-4].
+Pośród robocizn ważne miejsce zajmowały tzw. tłoki (w źródłach niemal zawsze w pisowni tłuki, niem. Bii(t)age, Bit(t)dzenste. Jak wskazuje na to sama nazwa, były to robocizny wykonywane w razie nagłej potrzeby. Od innych robocizn różniły się tłoki tym, że świadczono Je za wynagrodzeniem ze strony pańskiej, zazwyczaj w piwie, tak, że robocizny te miały charakter pracy najemnej. Jednakże nie były one ——[^91-8] robociznami dobrowolnymi, lecz obowiązywały osadników tak samo jak inne powinności dworskie. Obowiązek świadczenia ich był często wyraźnie podkreślony w przywileju. Można mieć wątpliwości, czy zawsze wynagrodzenie w piwie starowiło wystarczający ckwiwalent za wykonywane przez olędrów prace. Początkowo, według wszelkiego prawdopodobieństwa tłoki świadczone były w ilości niewielkiej i tylko w razie bezrdzo nagłej potrzeby. Ponieważ olędrzy otrzymywali za pracę wynagrodzenie, nie uważano tłok za powinrość obciążającą olędrów i niekiedy nie dawaro o nich wzmianki w przywileju. I tak według lustracji majętn. wieleńskiej z r. 1653 olędrzy, którzy lokowani zostali w tejże majętności na początku XVII stulecia, zobowiązani byli pracować | dzień przy żniwach, a mimo to w późniejszych przywilejach z r. 1677 nie spotykamy o robociznach iych żadnej wzmianki. Na ogół jednak obowiązek odprawiania tłok jest! w przywilejach wyraźnie sformułowany[^92-1], a nawet odróżnia się wyrzźnie tłoki i robocizny „za uproszeniem””. Przywilej dla Ol. Jerackich postanawia że: ,,Inszey zaś robocizny (prócz za uproszeniem i tłuk zwyczainych) dwór na pomienionych olędrach pretendować nie powinien”[^92-2], Określenie liczby tłok w przywileju uważać trzeba za korzystre dla olędrów, gdyż zabezpieczało ich przed ewentualnymi nadużyciemi ze strony pana. Najczęściej świadczono robociznę ręczną (stąd niekiedy nazywano tłoki szarwark: łni)[^92-3], spotyke my jednak i tłoki sprzężajne[^92-4].
 
 Ze względu na nieoznaczoną niekiedy bliżej liczbę dni pracy[^92-5], tłoki tworzyły formę przejściową między robociznami ilościowo określonymi i nicokreślonymi. Wśród tych ostatnich, wykonywanych „gdy zajdzie potrzeba”, najważniejszą grupę tworzyły tzw. prace szarwarkowe. Należą tu prace przy nzprawie mostów, tem i grobli (zwożenie piasku, zakładanie faszyn), przy kopaniu i czyszczeniu rowów, przy naprawie dróg przechodzących przez teren gminy, przy reperacji młynów 1 budynków dworskich[^92-6].
 
-[^92-1]: KI. M. Suchylas: ,,Iłuki, jako to w żniwa 1 na nagły siew bez wymówienia się od- prawiać będą”. Podobnie KI. XII O V, fol. 116, Lubaskie OI.; AW. Milczewskie OI., A. 1; Rel. Posn. nr 6020, r. 1787, fol. 20, Snowidowo. |
+[^92-1]: Kl. M. Suchylas: ,,Iłuki, jako to w żniwa 1 na nagły siew bez wymówienia się od- prawiać będą”. Podobnie Kl. XII O V, fol. 116, Lubaskie Ol.; AW. Milczewskie Ol., A. 1; Rel. Posn. nr 6020, r. 1787, fol. 20, Snowidowo. |
 [^92-2]: AW. B. 296.
-[^92-3]: Rel. Cost. nr 220, r. 1787, fol. 182, Charłub OI. ' KI. XII 6 V, fol. 36, Króteckie Ol.; AW. Rożnowskie OI., B. 770; Rel. Posn. nr 641, r. 1792, fol. 127, Rudka OI.; tamże, fol. 103, Zamorze OI.
-[^92-4]: KI. XII 6 V, fol. 36, Króteckie Ol.; AW. Rożnowskie OI., B. 770; Rel. Posn. nr 641, r. 1792, fol. 127, Rudka OI.; tamże, fol. 103, Zamorze OI.
+[^92-3]: Rel. Cost. nr 220, r. 1787, fol. 182, Charłub Ol. ' Kl. XII 6 V, fol. 36, Króteckie Ol.; AW. Rożnowskie Ol., B. 770; Rel. Posn. nr 641, r. 1792, fol. 127, Rudka Ol.; tamże, fol. 103, Zamorze Ol.
+[^92-4]: Kl. XII 6 V, fol. 36, Króteckie Ol.; AW. Rożnowskie Ol., B. 770; Rel. Posn. nr 641, r. 1792, fol. 127, Rudka Ol.; tamże, fol. 103, Zamorze Ol.
 [^92-5]: W OLI. Milczewskich, w Snowidowic.
-[^92-6]: AW. Blinek OI., A. 1; AW. Borkowskie OI., A. 1 ; Rel. Posn. nr 489, r. 1751, fol. 69, Dymaczewskie Stare Ol.; AW. Jaromierskie Stare Ol., A. 1; Kat. II, fol. 239; AW. Kiel- czynek, A. 1; AW. Krosna, A. 2; AW. Łoskońskie Stare OI., B. 365; AW. Marienwald, B. I; Rel. Posn. nr 038, r. 1791, fol. 602, Róża Ol.; Rel. Posn. nr 620, r. 1787, fol. 27, Snowidowo; AW. Jaromierz B. 4, fol. 78, Ujście Nowe.
+[^92-6]: AW. Blinek Ol., A. 1; AW. Borkowskie Ol., A. 1 ; Rel. Posn. nr 489, r. 1751, fol. 69, Dymaczewskie Stare Ol.; AW. Jaromierskie Stare Ol., A. 1; Kat. II, fol. 239; AW. Kiel- czynek, A. 1; AW. Krosna, A. 2; AW. Łoskońskie Stare Ol., B. 365; AW. Marienwald, B. I; Rel. Posn. nr 038, r. 1791, fol. 602, Róża Ol.; Rel. Posn. nr 620, r. 1787, fol. 27, Snowidowo; AW. Jaromierz B. 4, fol. 78, Ujście Nowe.
 
 [p. 93]
 
 
 Z innych prac wymienić należy obowiązek zwożenia drzewa do pańskich budynków[^93-1] i strzyżenia owiec[^93-2], wreszcie pomocy przy połowie ryb[^93-3] i warzeniu piwa[^93-4]. Olędrzy zobowiązani byli również mieć staranie o całość i dobry stan granici znaków granicznych osady[^93-5], oraz strzec pańskiego lasu (pilnować przed złodziejami[^93-6] i gasić pożary[^93-7]). Zaznaczyć wypada, że. wszystkie te robocizny nieokreślone do ilości co spotyka się na ogół rzadko i to stosowane w sposób umiarkowany; przeważają robocizny określone.
 
-[^93-1]: AW. Stobnica, B. 991; AM. Sieraków, C. 53, fol. 145, Zwierzyniec Ol.; Rel. Cost. nr 217, r. 1787, fol. 78, Włościejewskie OI.
-[^93-2]: KI. M. Suchylas.
-[^93-3]: J. w. oraz KI. XII 6 V, fol. 36, Króteckie OI.
+[^93-1]: AW. Stobnica, B. 991; AM. Sieraków, C. 53, fol. 145, Zwierzyniec Ol.; Rel. Cost. nr 217, r. 1787, fol. 78, Włościejewskie Ol.
+[^93-2]: Kl. M. Suchylas.
+[^93-3]: J. w. oraz Kl. XII 6 V, fol. 36, Króteckie Ol.
 [^93-4]: AW. Krosna, A. 2.
-[^93-5]: AW. Białokosz, B. 1; AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 35, Stodólsko OI.
-[^93-6]: AW. Borkowskie OI., A. I: „Ludzi obcych, którzyby bez kwitów, lub inszego znaku starościńskiego ważyli się na bór Jechać, wolne mają zabieranie, y owszem obligują się takich y z wozem do dworu odprowadzić. Podobnie: AW, Krosna OI., A. I (Krosińskie OI.) i A. 2;
-[^93-7]: AW. Stare Łoskońskie OI., A. 1.
-[^93-8]: KI. XII 6 V, fol. 116, Lubaskie Ol.; AW. Ludomskie Ol., B. 394; Rel. Cost. nr 164, r. 1729, fol. 177 d, Podgradowice i Rakoniewice; Rel. Cost. nr 155, r. 1719—20, fol. 145, Tarnowa Ol.
-[^93-9]: Rel. Cost. nr 220, r. 1787, fol. 372, Ostrowo: szynk winni gospodarze ,iak nayistotni sprawować, żadnych obcych pod karą przykładną nie wprowadzać tronków, ale raczey o iak naywiększy Wo Dziedzica propinacyi odchód starać się... ”. Rel. Cost. nr 191, r. 1756, fol. 94, Świącyńskie OI.: ,,I to sobie także warują, aby pod sztrafem nie godzieło się żadnemu na cudze piwo chodzić, dopieroż cudze trunki do domów swoich skądkolwiek sprowadzać”. Rel. Posn. nr 626, r. 1788, fol. 407, Zakrzewo OI.: „Piwa, gorzałki y cokolwick w karczmach znayduie się do szynkowania, nie powinni brać gdzieindzicy, tylko u pana, albo w pańskich karczmach”.
-[^93-10]: AW. Paproć, C. 2, fol. 257, Różyńskie OI. Rel. Posn. nr 640, r. 1791, fol. 268, Paproć PI.: „będzie im tcż wolno robić trunek konwentowy alias cienkusz w ich domach dla siebie 1 w swojej czeladzi, wszakże jednak, jeżeliby wesele albo krzciny y insze uczciwe uciechy swoje wyprawiać chcicli y piwa do tegoż potrzebowali, więc to z mielcucha mego brać będą powinni”. Itega': Rel. Posn. nr 435, r. 1742, fol. 230, Chełmskie OI.; tamże nr 645, r. 1793, fol. 101, Komorowskie Ol.; AW. Koziclaski, A.1; AGH sąd Poznań, Naramowice, t. 1, fol. 5; Rel. Posn. nr 043, r. 1792, fol. 54, Sękowo OI.; tamże nr 641, r. 1792, fol. 824, Węgielna OI.
+[^93-5]: AW. Białokosz, B. 1; AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 35, Stodólsko Ol.
+[^93-6]: AW. Borkowskie Ol., A. I: „Ludzi obcych, którzyby bez kwitów, lub inszego znaku starościńskiego ważyli się na bór Jechać, wolne mają zabieranie, y owszem obligują się takich y z wozem do dworu odprowadzić. Podobnie: AW, Krosna Ol., A. I (Krosińskie Ol.) i A. 2;
+[^93-7]: AW. Stare Łoskońskie Ol., A. 1.
+[^93-8]: Kl. XII 6 V, fol. 116, Lubaskie Ol.; AW. Ludomskie Ol., B. 394; Rel. Cost. nr 164, r. 1729, fol. 177 d, Podgradowice i Rakoniewice; Rel. Cost. nr 155, r. 1719—20, fol. 145, Tarnowa Ol.
+[^93-9]: Rel. Cost. nr 220, r. 1787, fol. 372, Ostrowo: szynk winni gospodarze ,iak nayistotni sprawować, żadnych obcych pod karą przykładną nie wprowadzać tronków, ale raczey o iak naywiększy Wo Dziedzica propinacyi odchód starać się... ”. Rel. Cost. nr 191, r. 1756, fol. 94, Świącyńskie Ol.: ,,I to sobie także warują, aby pod sztrafem nie godzieło się żadnemu na cudze piwo chodzić, dopieroż cudze trunki do domów swoich skądkolwiek sprowadzać”. Rel. Posn. nr 626, r. 1788, fol. 407, Zakrzewo Ol.: „Piwa, gorzałki y cokolwick w karczmach znayduie się do szynkowania, nie powinni brać gdzieindzicy, tylko u pana, albo w pańskich karczmach”.
+[^93-10]: AW. Paproć, C. 2, fol. 257, Różyńskie Ol. Rel. Posn. nr 640, r. 1791, fol. 268, Paproć PI.: „będzie im tcż wolno robić trunek konwentowy alias cienkusz w ich domach dla siebie 1 w swojej czeladzi, wszakże jednak, jeżeliby wesele albo krzciny y insze uczciwe uciechy swoje wyprawiać chcicli y piwa do tegoż potrzebowali, więc to z mielcucha mego brać będą powinni”. Itega': Rel. Posn. nr 435, r. 1742, fol. 230, Chełmskie Ol.; tamże nr 645, r. 1793, fol. 101, Komorowskie Ol.; AW. Koziclaski, A.1; AGH sąd Poznań, Naramowice, t. 1, fol. 5; Rel. Posn. nr 043, r. 1792, fol. 54, Sękowo Ol.; tamże nr 641, r. 1792, fol. 824, Węgielna Ol.
 
 [p. 94]
 
@@ -1847,11 +1847,11 @@ Od przymusu propinacyjnego, ograniczającego konsumcję do trunków pańskich, p
 O ile w pańskiej karczmie, lub mielcuchu nie było wystarczającej ilości trunków, olędrzy mogli je brać skąd inąd, zazwyczaj za wiadomością[^94-11] lub nawet za zgodą[^94-12] dworu.
 
 [^94-1]: J. w.
-[^94-2]: Rel. Posn. nr 638, r. 1791, fol. 597, Róża OI.: „Dopuszcza się im też wolne piwa rabianie dla domowych swoich potrzeb y wyszynkowanie w karczmie swoicy okrom wszelkich szkód karczem moich”. Rel. Posn. nr 140, r. 1602, fol. 600, Nowe Dwory: ,,Wolno im też będzie piwo do swy potrzeby robić, ale na insze wsi nie dawać”.
+[^94-2]: Rel. Posn. nr 638, r. 1791, fol. 597, Róża Ol.: „Dopuszcza się im też wolne piwa rabianie dla domowych swoich potrzeb y wyszynkowanie w karczmie swoicy okrom wszelkich szkód karczem moich”. Rel. Posn. nr 140, r. 1602, fol. 600, Nowe Dwory: ,,Wolno im też będzie piwo do swy potrzeby robić, ale na insze wsi nie dawać”.
 [^94-3]: Tak było w Skrzydlewie (AGH sąd Międzychód, majętn. Skrzydlewo, vol. I, fol. 27).
-[^94-4]: W OI. Milczewskich (AW. A. 1), Strzeleckich (AW. C. 3, fol. 8), Stróżewskich (AW. A. I) płacono 15 groszy od każdego morgu roli. W OI. Kuślińskich (Rel. Posn. nr 430, r. 1741, fol. 234) opłata wliczona została do czynszu, podobnie w OI. Szklana Huta i Wizany (AM. Wieleń, G. 250, fol. 22—3).
-[^94-5]: W OI. Ujskich (Inscr. Valc. nr 85, r. 1663—-74, fol. 402).
-[^94-6]: Osady późniejsze obowiązek ten przyjęły na siebie już w przywileju lokacyjnym (Q nr 47, Łokacz OI.).
+[^94-4]: W Ol. Milczewskich (AW. A. 1), Strzeleckich (AW. C. 3, fol. 8), Stróżewskich (AW. A. I) płacono 15 groszy od każdego morgu roli. W Ol. Kuślińskich (Rel. Posn. nr 430, r. 1741, fol. 234) opłata wliczona została do czynszu, podobnie w Ol. Szklana Huta i Wizany (AM. Wieleń, G. 250, fol. 22—3).
+[^94-5]: W Ol. Ujskich (Inscr. Valc. nr 85, r. 1663—-74, fol. 402).
+[^94-6]: Osady późniejsze obowiązek ten przyjęły na siebie już w przywileju lokacyjnym (Q nr 47, Łokacz Ol.).
 [^94-7]: AM. Wieleń, C. 250, fol. 20 —2, Folsztyn, Herbardowo, Marianowo, Nowe Dwory.
 [^94-8]: Por. Rutkowski, Badania nad podziałem dochodów, s. 197.
 [^94-9]: AW. Sikorce, B. 911.
@@ -1872,7 +1872,7 @@ c. Służebności dworskie na gruntach olędrów. W nielicznych wypadkach pan mi
 
 [^95-1]: AW. Sikorce, B. 911: „żaden nigdzie nie powinien wieźć zboża, tylko tu do mły- narzy tey majętności, a to pod sztrafą dwóch talarów, gdyby ktoś był przekonany. Zabiegając zaś, aby młynarze nie wytrzymywali na młynach, gdyby mu we dniach trzech nie zmeł zboża, Wolno mu będzie na te czasy z młyna wziąść zboże i gdzie mu się będzie podobało zawieźć”. Poza tym przymus mlewa spotykamy tylko w osadach majętn. wieleńskiej (według przyw. z r. 1677), dalej w Kiszewku (AW. B. 339) i Sowicjgórze (AW. B. 2, fol. 2).
 [^95-2]: AW. Kiełczynek, A. 1. Być może, że dochody stąd czerpał wyłącznie karczmarz, wobec czego mielibyśmy tutaj do czynienia z obciążeniem osadników nie na rzecz pana, lecz osób trzecich w obrębie społeczności gminnej.
-[^95-3]: AW. Trojanowo OI., B. 1037: „„«+.(owce) paść po boru trojanowskim wolno im będzie, Jako też owczarzowi trojanowskcimu po hubach olęderskich paść będzie wolno bez szkody Jednakże obydwóch stron”. Podobnie: Rel. Posn. nr 640, r. 1791, fol. 248, Rataje OI.; AW. Szklarka Trzcielska, A. 1, Szklanohuckie Ol.
+[^95-3]: AW. Trojanowo Ol., B. 1037: „„«+.(owce) paść po boru trojanowskim wolno im będzie, Jako też owczarzowi trojanowskcimu po hubach olęderskich paść będzie wolno bez szkody Jednakże obydwóch stron”. Podobnie: Rel. Posn. nr 640, r. 1791, fol. 248, Rataje Ol.; AW. Szklarka Trzcielska, A. 1, Szklanohuckie Ol.
 [^95-4]: Die Haulinder s. 251 : ,,...da es denn auch nicht an unberufnen Dienern, weltlichen und geistlichen Standes, fehlte, die ihnen zu Munde redeten, so liessen sie es beinah' jedes mał auf das ilusserste ankommen, ohne zwischen guten und bosen HerrschafIten einen Unter- Schied zu machen. Fs steht mir besonders ein Biespiel lebhaft vor, wo zwey grosse Hauldnder- Gemeinen ihren Herrn verklagten, die nur 10 Tage jahrlich dienten, recht wohlhabend sind und selbst cingestehen miissen, dass sie den besten Herrn von der Welt haben. Dennoch ver- tolgten sie ihn mit einer ausgesuchten Bosheit, stellten sich blutarm, und dichteten ihm Hand- , ą PY lungen an, deren nur der ganz bóse und gemeine Tyrann fahig gewesen seyn wiirde”.
 
 [p. 96]
@@ -1933,7 +1933,7 @@ które odprawiali już w r. 1653.
 [^99-2]: Por. J. u. W. Grimm, Deutsches Wórterbuch, pod słowami Bede i Bitte,
 [^99-3]: Der Bauer in Posen, s. 296: „Ab und zu bestanden , „Bittdienste” (tłuki) von 3—30 Ścharwerkstagen. Dies sind wohl nicht ,,urspringlich freiwillig geleistete”, sondern vermehrte Dienste zur Erntezeit, in Siidpreusscn oft Gewaltdienste (gwałty) genannt. Man denke an den Ausdruck ,„Bete” oder Bede fiir Steuer, wo doch auch eine urspringliche Freiwilligkeit der Leistung kaum vorliegen kann”.
 [^99-4]: Por. m. i. Schulz W., Die zweite deutsche Ostsiedlung, s. 59. Jedynie Schulz C. (Quellen u. Urkunden, I, s. XV) zwraca obiektywnie uwagę na zdanie przytoczone w po- przednim przypisie, uważając pochodzenie tlok za niejasne.
-[^99-5]: Rok 1597, OI. Ujskie. 6 Gumowski, Podręcznik numizmatyki. 7%
+[^99-5]: Rok 1597, Ol. Ujskie. 6 Gumowski, Podręcznik numizmatyki. 7%
 
 [p. 100]
 
@@ -1942,36 +1942,36 @@ Właściwy pogląd na rozwój powinności dworskich olędrów możliwy jest dopi
 
 [^100-1]: W skład okręgu noteckiego weszła część powiatu poznańskiego zabrana w pierwszym rozbiorze.
 [^100-2]: Kniat, Gospodarcze znaczenie ciężarów, s. 38—41.
-[^100-3]: Por. np. AGH sąd Pnicwy, majętn. Psarskie, Tąx Acten vol. IL, Psarskie Wielkie i Małe OI.; Rel. Cost. nr 217, r. 1784, fol. 429, Pecna OI.; AGH sąd i majętn. Międzychód, vol. IT, fol. 195, Drzewce Ol.
-[^100-4]: Np. AW. Dziewczastruga, B. 1029; AGH sąd Rogoźno, majętn. Wełna, vol. LI, fol. 297, Jaracz Ol.; AGH sąd Międzychód, majętn. Białokosz, vol. I fol. 16 i vol. IT, fol. 19, Białokoskie OI.
+[^100-3]: Por. np. AGH sąd Pnicwy, majętn. Psarskie, Tąx Acten vol. IL, Psarskie Wielkie i Małe Ol.; Rel. Cost. nr 217, r. 1784, fol. 429, Pecna Ol.; AGH sąd i majętn. Międzychód, vol. IT, fol. 195, Drzewce Ol.
+[^100-4]: Np. AW. Dziewczastruga, B. 1029; AGH sąd Rogoźno, majętn. Wełna, vol. LI, fol. 297, Jaracz Ol.; AGH sąd Międzychód, majętn. Białokosz, vol. I fol. 16 i vol. IT, fol. 19, Białokoskie Ol.
 [^100-5]: Rutkowski, Zarys dziejów, s. 150 nast. W dosadnej formie podkreśla to Zimmer- mann (Fryderyk Wielki, II, s. 306) : „podróżni, zwiedzający Polskę, zaskoczeni byli różnicą położenia, w jakim się znajdował chłop niemiecki w stosunku do polskiego. Tamten był pod każdym względem uprzywilejowany, ten bezprawny, niegodny człowieka pędził żywot. Tamten szczęśliwy, tuczył się ną polskiej ziemi, ten ledwo tyle zatrzymać mógł, iżby nie umarł z głodu”.
 [^100-6]: ])wa takie wypadki z czasów polskich przytoczyliśmy na s. 39 i 69. Już za czasów pruskich Melchior Łącki procesuje się z olędrami Węgielnej o odszkodowanie za nieprawniec wycięte dęby, należące do dworu (AW. Węglewo, C. 1).
 
 [p. 101]
 
 
-Niejasna, często dwuznaczna treść przywilejów, stwarzała wielu wypadkach okazję do sporów i pieniactwa. W przywileju dla OI. Cisiogórskich spotykamy np. następujące, niejasno zredagowane postanowienie: „We żniwa pomagać w robocie według potrzeby jak inni olędrzy będą, w prawie zaś dni tyle się wyrazi, jak zwyczaj jest olędrów... Drzewo na potrzebę pańską, jako to i do kuchni mają wozić jak insi olędrzy 1””. Jest rzeczą oczywistą, że „zwyczaj olędrów” można interpretować bardzo szeroko. Gdzie indziej zrowu olędrzy mają się stawić do robót na zawołanie, a przy żniwach mają pracowzć tak długo, aż wszystko zostanie sprzątnięte %. Również niejasro określany był zakres serwitutów; np. postanowienie: „owce[^101-1] inne bydło pomierkowanie chować będą, aby pańskie inwentzrze swoją wygodę misły” 3, zachęca wprost do pieniactwa f. :
+Niejasna, często dwuznaczna treść przywilejów, stwarzała wielu wypadkach okazję do sporów i pieniactwa. W przywileju dla Ol. Cisiogórskich spotykamy np. następujące, niejasno zredagowane postanowienie: „We żniwa pomagać w robocie według potrzeby jak inni olędrzy będą, w prawie zaś dni tyle się wyrazi, jak zwyczaj jest olędrów... Drzewo na potrzebę pańską, jako to i do kuchni mają wozić jak insi olędrzy 1””. Jest rzeczą oczywistą, że „zwyczaj olędrów” można interpretować bardzo szeroko. Gdzie indziej zrowu olędrzy mają się stawić do robót na zawołanie, a przy żniwach mają pracowzć tak długo, aż wszystko zostanie sprzątnięte %. Również niejasro określany był zakres serwitutów; np. postanowienie: „owce[^101-1] inne bydło pomierkowanie chować będą, aby pańskie inwentzrze swoją wygodę misły” 3, zachęca wprost do pieniactwa f. :
 
 Spory wypływające z chęci podwyższenia olędrom dotychczasowych powinności, a ograniczenia uprawnień, starowią poważny odsetek wszystkich zatargów pana z olędrze mi. Pretensje dworu, jakkol-[^101-2] wiek po największej części, Jak to zostało wykazane poprzednio, usprawiedliwione gospodarczo, stały często w sprzeczności z przyrzeczeniami danymi olędrom W przywileju[^101-3] stąd z punktu widzenia prawnego zakwalifikowane być muszą ujemnie. Sprawa ta zresztą, jak wynika z wynurzeń ówczesnego sędziego pruskiego Stengera, sprawiała wielkie kłopoty sądownictwu, które mimo, że staręło na gruncie całkowitego respektowania postarowień przywilejów, nie mogło tutaj nie spostrzec rozdźwięku między prawem a słuszrością[^101-4]. Zdarzały się też, wprawdzie dosyć rzadko, żądania dworu, noszące na sobie już piętro wyzysku. Do takich np. należały wspomniane przez Schmidta (s. 382) opłaty dodatkowe, nałożone przez Szpiehów olędrom majętn. wieleńskiej. Podobnie w r. 1791 Ignacy Bniński próboweł Ol. Jaromierskim Starym oraz Ujskim Starym 1 Nowym narzucić rowe przywileje, w których[^101-5] wyraźnie podwyższał ich dotychczasowe powinrości, przy tym ustenawiał dziedzicznych sołtysów[^101-6]. W Wielkich Budziszewskich Ol. Tomiccy dwukrotnie w I. 1759 i 1770 podwyższyli świedczenia i dodali robocizny ”. Radca pruski v. Zacha wbrew przywilejowi znacznie
 
 [^101-1]: Rel. Cost. nr 224, r. 1788, fol. 379.
 [^101-2]: AW. Blinek, A. 1.
 [^101-3]: AW. Karpicko, A. 1.
-[^101-4]: Spór O serwituty leśne na tle odmiennej interpretacji przywileju wynikł między OI. Popowo a ich dominium Biezdrowo (AGH sąd Wronki, majęga. Biezdrowo, vol. V fol. 146). Ostatecznie sąd zajął stanowisko pośrednie, a koszty poniosły strony po połowie.
+[^101-4]: Spór O serwituty leśne na tle odmiennej interpretacji przywileju wynikł między Ol. Popowo a ich dominium Biezdrowo (AGH sąd Wronki, majęga. Biezdrowo, vol. V fol. 146). Ostatecznie sąd zajął stanowisko pośrednie, a koszty poniosły strony po połowie.
 [^101-5]: Stenger, Von den Haulindern, s. 251 i nast.
 [^101-6]: AW. Jaromicrz, B. ].
-[^101-7]: AW. Budziszewskie OI., B. 108 i 110.
+[^101-7]: AW. Budziszewskie Ol., B. 108 i 110.
 
 [p. 102]
 
 
-podwyższył[^101-7] w r. 1793 powinności OI. Strzeleckich l. Również w OI. Dziewcza-[^102-1] struga w r. 1796 powinności zostały niewspółmiernie podwyższone przez zarządcę dóbr Wełna, v. Braunecka (właścicielką była Goetzendort Grabowska). Na ogół jednak wypadki istotnego zwiększania powinności olęderskich zdarzały się rzadko %. W chwili uwłaszczenia,[^102-2] jak to wynika z akt hipotecznych, w przeważającej większości wypadków obowiązywały powinności ustalone w przywilejach lokacyjnych. Podkreślone jest to wyraźnie w recesie dla Ol. Stodólsko 4: „Die Wirthe,[^102-3][^102-4] welche aus der Stelle der Stiftungs-Urkunde „Jeżeliby zaś od kogo mieli mieć jaką oppressyą etc” die Verbindlichkeit der Gutsherrschaft zum Schutz und zur Vertretung| ihres Eigenthums herleiten wollten, erkennen nunmchr an, dass sie im vollstandigen Besitze der Ihnen vermóge der, Stiftungsurkunde verliehenen Grundstiicke und Rechte sind, und dass dec ihnen verheissene Schutz und die Vertretung daher erfullt, und nicht weiter zu beanspruchen sind”. Wyjątkowo nawet zdarzało się, że panowie olędrom w późniejszych przywilejach powinności zmniejszali, jak to miało miejsce w Ol. Chełmskich[^102-5], va prawdopodobnie i w Ol. Lubaskich8. Wypada w końcu zauważyć, że przedstawione wyżej stosunki wyrazem „polskiego systemu”, jak to chce Schmidt, być nie mogą, chociażby dla tego, że rzeczywisty ucisk gospodarczy Holendrów zainicjował całe 200 lat wcześniej Albrecht Hohenzollern w Prusach Wschodnich[^102-6].
+podwyższył[^101-7] w r. 1793 powinności Ol. Strzeleckich l. Również w Ol. Dziewcza-[^102-1] struga w r. 1796 powinności zostały niewspółmiernie podwyższone przez zarządcę dóbr Wełna, v. Braunecka (właścicielką była Goetzendort Grabowska). Na ogół jednak wypadki istotnego zwiększania powinności olęderskich zdarzały się rzadko %. W chwili uwłaszczenia,[^102-2] jak to wynika z akt hipotecznych, w przeważającej większości wypadków obowiązywały powinności ustalone w przywilejach lokacyjnych. Podkreślone jest to wyraźnie w recesie dla Ol. Stodólsko 4: „Die Wirthe,[^102-3][^102-4] welche aus der Stelle der Stiftungs-Urkunde „Jeżeliby zaś od kogo mieli mieć jaką oppressyą etc” die Verbindlichkeit der Gutsherrschaft zum Schutz und zur Vertretung| ihres Eigenthums herleiten wollten, erkennen nunmchr an, dass sie im vollstandigen Besitze der Ihnen vermóge der, Stiftungsurkunde verliehenen Grundstiicke und Rechte sind, und dass dec ihnen verheissene Schutz und die Vertretung daher erfullt, und nicht weiter zu beanspruchen sind”. Wyjątkowo nawet zdarzało się, że panowie olędrom w późniejszych przywilejach powinności zmniejszali, jak to miało miejsce w Ol. Chełmskich[^102-5], va prawdopodobnie i w Ol. Lubaskich8. Wypada w końcu zauważyć, że przedstawione wyżej stosunki wyrazem „polskiego systemu”, jak to chce Schmidt, być nie mogą, chociażby dla tego, że rzeczywisty ucisk gospodarczy Holendrów zainicjował całe 200 lat wcześniej Albrecht Hohenzollern w Prusach Wschodnich[^102-6].
 
 [^102-1]: AGH sąd Chodzież, majętn. Strzelce, vol. A, fol. 72.
 [^102-2]: AW. Dziewczastruga, B. 1029. !
 [^102-3]: Schmidt (Geschichte, s. 392) twierdzi, że wskutek powszechnego ucisku olędrów, kolonizacja olęderska w połowie XVIII w. ustała, a nawet. zaznaczył się odpływ osadników. Do jakiego stopnia zdanie to mija się z prawdą, wykazuje aneks I, gdzie wyszczególniony jest cały szerg osad lokowanych właśnie w drugicj połowie XVIII w. 4 AGH sąd Wolsztyn, majętn. Gościeszyn, vol. V (kart 334), fol. 35.
 [^102-4]: Rel. Posn. nr 435, r. 1742, fol. 230 i nr 503, r. 1753, fol. 183. Czynsz wynoszący w r. 1732 12 talarów z huby, w r. 1740 obniżony został na 10 talarów.
-[^102-5]: W r. 1773 Franciszek Miaskowski wydaje nowy przywilej dla OI. Lubaskich, zazna- czając, że czyni to na życzenie olędrów, dla których przywilej lokacyjny z r. 1760 był zbyt niekorzystny i uciążliwy. Nie podaje jednak treści postanowień pierwszego przywileju. (KI. XII 6 V, fol. 110).
+[^102-5]: W r. 1773 Franciszek Miaskowski wydaje nowy przywilej dla Ol. Lubaskich, zazna- czając, że czyni to na życzenie olędrów, dla których przywilej lokacyjny z r. 1760 był zbyt niekorzystny i uciążliwy. Nie podaje jednak treści postanowień pierwszego przywileju. (Kl. XII 6 V, fol. 110).
 [^102-6]: Schumacher, Niederlindische Ansiedlungen, s. 37, 93 i nast.
 [^102-7]: Por. Uber Ursprung, s. 31 i nast.
 
@@ -2000,10 +2000,10 @@ G. Powinności kościelne
 [^104-2]: Dom. P. 5209, fol. 0 i nast.
 [^104-3]: AW. Meryń Stary, C. 2 i 3 b, Meryń Nowy, CG. 2—7.
 [^104-4]: Zdaje się, że najwcześniejsze osady początkowo były zwolnione od opłat na rzecz kościoła.
-[^104-5]: Rel. Posn. nr 626, r. 1788, fol. 406, Zakrzewo OI. : ,„do kościoła skórzewskiego według kompozyty od chrztów, ślubów, wywodów, pogrzebów, mesznego, dziesięcin, po złotych ośm z huby dawać powinni, z puł huby po złotych cztery, za co chrzty, śluby, wywody w kościele parochialnym administrowane bez rekompensy być powinny”.
+[^104-5]: Rel. Posn. nr 626, r. 1788, fol. 406, Zakrzewo Ol. : ,„do kościoła skórzewskiego według kompozyty od chrztów, ślubów, wywodów, pogrzebów, mesznego, dziesięcin, po złotych ośm z huby dawać powinni, z puł huby po złotych cztery, za co chrzty, śluby, wywody w kościele parochialnym administrowane bez rekompensy być powinny”.
 [^104-6]: O charakterze tych opłat pisze Wyszyński Michał ks. (Ze studiów nad historią dziesięciny w Polsce średniowiecznej, I, s. 40 i nast.), oraz Łukowski Jan ks., w komentarzach do Jana Łaskiego Liber Beneficiorum archidiecezji gnieźnieńskiej, Gniezno 1881, II, s. LXXXIV.
-[^104-7]: Rel. Posn. nr 430, r. 1741, fol. 233, Kuślińskie OI. : „Tytułem dziesięciny y mesznego według dawney ugody będą płacili do kościoła michorzewskiego zł 50...”.
-[^104-8]: Rel. Cost. nr 217, r. 1784, fol. 78, Włościejewskie OI.; AGH sąd Śrem, majętn. Książ, vol. I, fol. 143, Zakrzewko OI.; KI. XII 6 V, fol. 135, Bielawy ,fol. 140, Jasionna.
+[^104-7]: Rel. Posn. nr 430, r. 1741, fol. 233, Kuślińskie Ol. : „Tytułem dziesięciny y mesznego według dawney ugody będą płacili do kościoła michorzewskiego zł 50...”.
+[^104-8]: Rel. Cost. nr 217, r. 1784, fol. 78, Włościejewskie Ol.; AGH sąd Śrem, majętn. Książ, vol. I, fol. 143, Zakrzewko Ol.; Kl. XII 6 V, fol. 135, Bielawy ,fol. 140, Jasionna.
 [^104-9]: AW. Huta (Knarrhitte), C. 1, fol. 21; AW. Tuchorskie Nowe Ol., A. I.
 
 [p. 105]
@@ -2014,10 +2014,10 @@ G. Powinności kościelne
 [^105-1]: AW. Gębickie Ol., A. 1: „Śluby, krzciny, pogrzeby, kolędy y cokolwiek do kościoła należy, powinien każdy dać na rok złotych dwa”.
 [^105-2]: Rel. Posn. nr 430, r. 1741, fol. 233.
 [^105-3]: Por. przywileje dla olędrów majętn. sierakowskicj.
-[^105-4]: Rel. Posn. nr 035, r. 1790, fol. 316, OI. Słonawskie: ,sie haben auch frey ihre Kinder tauffien zu lassen an welchem Ort es ihnen beliebet, wenn sie vorher dem Herrn Probst in Obornik seine Gebiihre und wass rachtmissige Satzung ist, erlegen. Item mit der 'Traung wird es eben so gehalten. Item ihre Todten mógen sie begraben dahin sie wollen”.
+[^105-4]: Rel. Posn. nr 035, r. 1790, fol. 316, Ol. Słonawskie: ,sie haben auch frey ihre Kinder tauffien zu lassen an welchem Ort es ihnen beliebet, wenn sie vorher dem Herrn Probst in Obornik seine Gebiihre und wass rachtmissige Satzung ist, erlegen. Item mit der 'Traung wird es eben so gehalten. Item ihre Todten mógen sie begraben dahin sie wollen”.
 [^105-5]: Kośc., fol. 71 i 73: Proboszcz z Trzcianki w liście z dn. 14 II 1773 do pruskiego ministra finansów pisze co następuje: ,„Die mehresten Protestanten in dieser Gegend sind vor Jahren Einkómlinge aus Deutschland gewesen, die sich auf catholischen Platzen niederge- lassen und mithin denen Juribus Stolae freywillig uniterworfen, daher es auch gekommen, als durch ihre Ausbreitung sich die Catholiken verminderten und sie durch Schwedischen Schutz Kirchen und Prediger erhielten, dass sie dennoch dennen catholischen Pfarrern einen gewissen Canon oder so genannte Compositam wie noch in Polen wo evangelische Kirchen und Prediger sind, beobachtet wird. Dass dieses kein unrechtmassiges Verfahren, wird durch die Gewohnhcit in protestantischen Lindern bewiesen, wo die ankommende Catholicken, wenn sie sich auch vermehren und catholische Priester haben, dennoch dem alten Stamm, denen protestantischen Predigern die Jura Stolae erlegen miissen, wie in Berlin, Stettin und in anderen Liindern zu schen”. W odpowiedzi (fol. 73) władze pruskie argumentują następu- jąco: „Der Satz, dass in protestantischen Landen die darin befindliche catholische Gemeinden, dennoch die Jura Stolae denen protestantischen Predigern erlegen massen, hier keine Anwen- dung findet, weil dort die catholische Religion blos gedułdct wird”.
 [^105-6]: AGH sąd Wolsztyn, majętn. Ruchocice, vol. I, fol. 95, Góździno Ol.; AGH sąd Śrem, majętn. Książ, vol. I, fol. 142, Kiączyńskie Ol.: „gmina okupna Olęarów Kiełczyna do majęt- ności Xiąża należąca, płaci każdorocznie proboszczowi w Xiążu kompozyty pieniężne w kwocie ogólnej talarów 19”.
-[^105-7]: KI. M. Suchylas: „„Kościołowi rzymskiemu katolickiemu meszne, czyli kompozytę z dawna ułożoną, y do nich przyjętą, oddawać dokoniecznie powinni będą”.
+[^105-7]: Kl. M. Suchylas: „„Kościołowi rzymskiemu katolickiemu meszne, czyli kompozytę z dawna ułożoną, y do nich przyjętą, oddawać dokoniecznie powinni będą”.
 [^105-8]: AW. Niwka, A. 1.
 
 [p. 106]
@@ -2026,17 +2026,17 @@ G. Powinności kościelne
 Osady olęderskie z chwilą założenia wchodziły w obręb zdministracji parafialnej kościoła katolickiego. W związku z tym po największej części[^104-4] na równi z innymi parafianami olędrzy zobowiązani byli do uiszczania kościołowi parafialnemu pewnych opłat. Do opłat tych pociągano zarówno katolików, jak i ewangelików. Ci ostatni w zamian to mieli tak samo jak ludność katolicka, do posług religijnych za prawo ze strony proboszczów[^104-5]. Opłaty kościelne uiszczane przez olędrów dadzą się podzielić na opłaty stałe i opłaty od poszczególnych usług religijnych. Stałą opłatą była dziesięcina i meszne[^104-6]. Zazwyczaj płacoro albo dziesięcinę, albo meszne, wyjątkowo uiszczaro pewną kwotę tytułem obu opłat równocześnie[^104-7]. Zarówno dziesięcina jaki meszne uiszczane były bądź w zbożu (ziarnie)[^104-8], bądź w pieniądzach[^104-9]. Źródła wspominają również o kolędach[^105-1]. Opłaty doraźne pobierano od chrztów, ślubów, wywodów, pogrzebów[^105-2]. Były to tzw. iura stolae[^105-3], Opłaty te olędrzy ewangelicy zobowiązani byli często uiszczać również wtedy, gdy korzystali z usług księży ewangelickich[^105-4]. Traktowano je wtedy widocznie jako odszkodowanie za uszczerbek w dochodach kościelnych. Nie było to zresztą czymś wyjątkowym; w Prusach postępowano tak samo wobec katolików[^105-5]. W wielu wypadkach, gdy olędrzy uiszczali opłaty stałe, nie pobierano opłat od poszczególnych usług. Najczęściej jednak wszystkie dotychczas wymienione opłaty wliczano w jedną, ustalając pewną stałą opłatę ryczałtową. Jako ustaloną w drodze umowy panem lub osadnikami zwano ją czasem kompozytą[^105-6], chociaż niekiedy kompozyta dotyczyła tylko mesznego[^105-7]. Wyjątkowo na określenie powinności kościelnych spotykamy termin Gottespfennig[^105-8]. Opłaty stałe płacili olędrzy bądź od jednostki gruntu, bądź też cała gmina uiszczała opłatę zbiorową. Powinności kościelne określał pan w przywileju na podstawie poprzedniego porozumienia się z właściwym proboszczem[^106-1], albo też zobowiązywał olędrów od porozumienia się z władzą kościelną w najbliższym czasie. Z reguły, jeśli osada powstała na miejscu innej, poprzednio istniejącej osady, obowiązywały ją powinności płacone dawniej[^106-2]. To samo oczywiście odnosi się do osad przeniesionych na prawo olęderskie bez zmiany dotychczasowych mieszkańców[^106-3]. Dwór niekiedy całkowicie[^106-4], lub częściowo[^106-5] przejmował na siebie obowiązek uiszczania należnych od osady powinności kościelnych, albo też tytułem częściowego zwrotu opłat zobowiązywał się po dostarczeniu mu ziarna wywarzyć olędrom bezpłatnie pewną ilość piwa[^106-6]. W innych znowu wypadkach olędrzy otrzymywali zaręczenie, że „proteccyą od ;pana zawsze mieć będą, żeby więcey nie dawali, tylko co słuszność każe, i co zwierzchność kościoła postanowiła”??”. Czasem też[^106-7] alędrzy mieli obowiązek uiszczać powinności kościelne za pośrednictwem dworu[^106-8], Wysokość opłat kształtowała się różnie. Opłaty stałe, wymierzane od jednostki gruntu, wynosiły z huby 2—8 zł[^106-9], lub korzec żyta i korzec owsa[^106-10], Opłata ryczałtowa natomiast nie przenosiła zazwyczaj 50 zł[^106-11], lub odpowiedniej ilości zboża[^106-12], wyjątkowo przekraczała nawet 100 zł[^106-13], Przypuszczać należy, że przy jej ustalaniu decydującą rolę odgrywał obszar wsi i liczba osadników.
 
 [^106-1]: AW. Strzelce, C. 3, fol. 9.
-[^106-2]: AW. Góździn, A. 1; AW. Krosna, A. 2; Rel. Cost, nr 190, r. 1755, fol. 33, Krzemie- niewo; KI. XII 6 I, Ostrówek.
+[^106-2]: AW. Góździn, A. 1; AW. Krosna, A. 2; Rel. Cost, nr 190, r. 1755, fol. 33, Krzemie- niewo; Kl. XII 6 I, Ostrówek.
 [^106-3]: AM. Sieraków, C. 53, r. 1759, fol. 167, Chorzępowa.
 [^106-4]: AW. Karpicko, A. 2.
 [^106-5]: AW. Kiszewko, B. 339: ,,z tych gruntów okupnych powinni corocznic dawać żyta ćwiercień dwie i owsa dwie, resztę zaś, jeżeli będzie należało, dawać obiecuję”. Item AW. Głęboczek, A. 2.
 [^106-6]: Rel. Cost. nr 164, r. 1729, fol. 484, Kotusz ; nr 155, r. 1719—20, fol. 141, Tarnowa,
-[^106-7]: AW. Stobnickie OI., B. 991.
-[^106-8]: AW. Chodzież, C. 1, fol. 50, Kamionka; AW. Proszkowskie OIL., A. 1.
-[^106-9]: Np. w Ol. Grabowiec (KI. XIL6 V, fol. 56) 1 talar (8 zł), w Ol. Puszczykowskich (AW. A. 1) 8 zł, w OI. Gębickich (AW. A. 1) każdy gospodarz płacił 2 zł, w OI. Milczewskich
-[^106-10]: KI. XII 6 V, fol. 135, Bielawy, fol. 140, Jasionna; Rel. Gost. nr 217, r. 1784, fol. 78. Włościejewskie OI.
+[^106-7]: AW. Stobnickie Ol., B. 991.
+[^106-8]: AW. Chodzież, C. 1, fol. 50, Kamionka; AW. Proszkowskie Ol.., A. 1.
+[^106-9]: Np. w Ol. Grabowiec (Kl. XIL6 V, fol. 56) 1 talar (8 zł), w Ol. Puszczykowskich (AW. A. 1) 8 zł, w Ol. Gębickich (AW. A. 1) każdy gospodarz płacił 2 zł, w Ol. Milczewskich
+[^106-10]: Kl. XII 6 V, fol. 135, Bielawy, fol. 140, Jasionna; Rel. Gost. nr 217, r. 1784, fol. 78. Włościejewskie Ol.
 [^106-11]: Np. w Ol. Huta (AW. Knarrhiitte, C. 1) 4 talary pruskie (r. 1778), w Ol. Zdrogowo (AGH sąd Wolsztyn, majętn. Gościeszyn, t. z r. 1823, fol. 86) 40 zł.
-[^106-12]: W OI. Zakrzewko (AGH sąd Śrem, majętn. Książ, vol. I, fol. 143) 36 zł, oraz 6 wier- teli żyta i O wierteli owsa; w Ol. Radoszkowskich (AGH sąd Śrem, majętn. Książ, t. z r. 1823, fol. 144) 14 wierteli żyta wielkiej miary; w Skrzydlewie (AGH sąd Międzychód, majętn. Skrzy- dlewo, vol. I, fol. 28) 4 wiertele żyta i 4 wiertele owsa, licząc na wiertel 16 garncy miary mię- dzychodzkiej; w Ol. Obelżanki (KI. XII 6 V, fol. 145) 6 korcy żyta i O korcy owsa.
+[^106-12]: W Ol. Zakrzewko (AGH sąd Śrem, majętn. Książ, vol. I, fol. 143) 36 zł, oraz 6 wier- teli żyta i O wierteli owsa; w Ol. Radoszkowskich (AGH sąd Śrem, majętn. Książ, t. z r. 1823, fol. 144) 14 wierteli żyta wielkiej miary; w Skrzydlewie (AGH sąd Międzychód, majętn. Skrzy- dlewo, vol. I, fol. 28) 4 wiertele żyta i 4 wiertele owsa, licząc na wiertel 16 garncy miary mię- dzychodzkiej; w Ol. Obelżanki (Kl. XII 6 V, fol. 145) 6 korcy żyta i O korcy owsa.
 [^106-13]: Rel. Cost. nr 167, r. 1732, fol. 205, Ręcko — 100 zł; Rel. Cost. nr 164, r. 1729, fol. 177, Podgradowice — 120 zł.
 
 [p. 107]
@@ -2052,8 +2052,8 @@ Olędrzy, podobnie jak inni włościanie, zobowiązani byli uiszczać pewne świ
 
 [^107-1]: AW. Rożnowskie Ol, B. 770: ,,Imć XNiędzu Proboszczowi rożnowskiemu według dawnego prawa płacili co rok każdy po zł 4, z czego się na fundamencie nowego prawa wy- łamuią, więc 10 opłacanie do dalszego w tcy mierze Rzplitcj rozrządzenia zostawuie się”. Por. też s. 32, przypis 3.
 [^107-2]: Gospodarcze znaczenie ciężarów, s. 40—1.
-[^107-3]: W OI. Bronice każdy z osadników oddawał pastorowi cwangelickiemu l korzec żyta miary berlińskiej.
-[^107-4]: W OI. Meryń Nowy każdy z osadników zobowiązany był tak proboszczowi kato- lickiemu, jak cwangelickiemu uiszczać 7 tynfów. Fu
+[^107-3]: W Ol. Bronice każdy z osadników oddawał pastorowi cwangelickiemu l korzec żyta miary berlińskiej.
+[^107-4]: W Ol. Meryń Nowy każdy z osadników zobowiązany był tak proboszczowi kato- lickiemu, jak cwangelickiemu uiszczać 7 tynfów. Fu
 [^107-5]: Według wzmianki w księdze gminnej Folsztyna (AW. dep. G. 5, por. również Schmidt, Geschichte, s. 403) olędrzy winni byli oddawać pastorowi: 1 zł z huby (częścią w dobrej monccie, częścią w szelężnej), z każdych 2 hub 1 wóz siana, datek noworoczny, daninę w jajach na Wielkanoc. Poza tym na każde z 3 świąt: Boże Narodzenie, Wielkanoc i Zielone Świątki, każdy gospodarz winien był dać w ofierze 1!/s gr. Niezależnie od tego za poszczególne usługi religijne obowiązywały dość wysokie opłaty.
 
 [p. 108]
@@ -2062,12 +2062,12 @@ Olędrzy, podobnie jak inni włościanie, zobowiązani byli uiszczać pewne świ
 
 
 [^108-1]: AW. Góździn, A. 1.
-[^108-2]: AW. Nieszawskie Ol., B. 15 (r. 1723): „Także onych i potomków ich... od podat- ków wszelkich... tak pogłównego, jak hyberny, wolnymi ich czynię...”. Item: Rel. Posn. nr 628, r. 1789, fol. 578, Konarskie Ol.; AW. Borkowskie Ol., A. 1; AW. Chromiec OI., A. 2; AW. Kozielaski Ol., A. 1; AW. Krosna, A. 1, Krosinskie OI.; AW. Paproć, C. 2, fol. 256, Różyńskie OI.
+[^108-2]: AW. Nieszawskie Ol., B. 15 (r. 1723): „Także onych i potomków ich... od podat- ków wszelkich... tak pogłównego, jak hyberny, wolnymi ich czynię...”. Item: Rel. Posn. nr 628, r. 1789, fol. 578, Konarskie Ol.; AW. Borkowskie Ol., A. 1; AW. Chromiec Ol., A. 2; AW. Kozielaski Ol., A. 1; AW. Krosna, A. 1, Krosinskie Ol.; AW. Paproć, C. 2, fol. 256, Różyńskie Ol.
 [^108-3]: Rel. Posn. nr 140, r. 1602, fol. 659.
-[^108-4]: Rel. Cost. nr 165, r. 1730, s. 823, Pecna: ,,Dymowe według dawney taryffy odwozić (powinni)”. Tamże, nr 155, r. 1719—-20, fol. 143, Tarnowa: ,„Ponieważ też podymne według starcy taryffy, tedy y do tego zapłacenia według uchwały seymowey y semikowcy należeć zawsze będą powinni”. Item AW. Puszczykowskie OI., A. ].
-[^108-5]: KI. XII6 III, fol. 40, Brzekiniec, Ol.; Rel. Posn. nr 635, r. 1790, fol. 316, Słonawskie OJ ; Dom. P. 6755, fol. 16, Uścikowskie OI.
-[^108-6]: Rel. Cost. nr 164, r. 1729, s. 177 b, Podgradowice, s. 486, Kotusz. W OI. Króteckich zebraniem pogłównego i oddanicm gdzie należy, zobowiązany był zająć się sołtys (KI. XII 6 V, fol. 30). |
-[^108-7]: W OI. Nowy Zatom 140'/, zł, w Ol. Chorzępowa 127!/, zł, w OI. Tuchola 114 zł. 22 gr (AM. Sieraków, C. 53, fol. 133, 165, 90).
+[^108-4]: Rel. Cost. nr 165, r. 1730, s. 823, Pecna: ,,Dymowe według dawney taryffy odwozić (powinni)”. Tamże, nr 155, r. 1719—-20, fol. 143, Tarnowa: ,„Ponieważ też podymne według starcy taryffy, tedy y do tego zapłacenia według uchwały seymowey y semikowcy należeć zawsze będą powinni”. Item AW. Puszczykowskie Ol., A. ].
+[^108-5]: Kl. XII6 III, fol. 40, Brzekiniec, Ol.; Rel. Posn. nr 635, r. 1790, fol. 316, Słonawskie OJ ; Dom. P. 6755, fol. 16, Uścikowskie Ol.
+[^108-6]: Rel. Cost. nr 164, r. 1729, s. 177 b, Podgradowice, s. 486, Kotusz. W Ol. Króteckich zebraniem pogłównego i oddanicm gdzie należy, zobowiązany był zająć się sołtys (Kl. XII 6 V, fol. 30). |
+[^108-7]: W Ol. Nowy Zatom 140'/, zł, w Ol. Chorzępowa 127!/, zł, w Ol. Tuchola 114 zł. 22 gr (AM. Sieraków, C. 53, fol. 133, 165, 90).
 [^108-8]: Rybarski, Skarbowość, s. 228, 336.
 
 [p. 109]
@@ -2079,20 +2079,20 @@ Powinność o charakterze wojskowym spotykamy tylko Króraz, w teckich Ol. Wedł
 
 Sędzia Stenger, który uwagi swe na temat olędrów napisał na podstawie osobistych obserwacji osad w okolicy Trzciela, Nowego Tomyśla, Zbąszynia, stwierdza że w tych olędrach panował względny dobrobyt: „W ogóle olęder lubi się przedstawiać jako całkiem biedny i cierpiący nędzę; ogólnie biorąc, nie jest on bogaty, ale bynajmniej nie biedny”[^109-6]. To samo stwierdza Holsche: „Ci ludzie tu i ówdzie mają się zupełnie dobrze”[^109-7]. Autor broszury „Uber Ursprung u. Verbreitung” (s. 33) idzie za zdaniem poprzednio wymienionych pisarzy, dodaje jednak zastrzeżenie: „Co prawda, ujemny fakt, że wiele z tych osad olęderskich założonych zostało na zbyt lekkim, piaszczystym gruncie leśnym i nie otrzymało łąk, przeszkodził im często w osiągnięciu dobrobytu”. Szczupłe materiały źródłowe, jakie dochowały się w odniesieniu do tego zagadnienia, przemawiają za prawdziwością cytowanych wyżej opinii. Na ogół położenie gospodarcze olędrów, mimo złej gleby, było zadawalające, istniały jednak różnice w sytuacji gospodarczej poszczególnych osad. Wydaje się, że najlepiej usytuowani byli olędrzy okolicy Trzciela i Nowego Tomyśla; ziemia dochodziła tam do jakości średniej, powinności były ra ogół niskie. Potwierdza to
 
-[^109-1]: AW. Rożnowskie OI., B. 770, r. 1777; AGH sąd Międzychód, majętn. Skrzydlewo, vol. I, fol. 28, Skrzydlewo Ol., r. 1785.
+[^109-1]: AW. Rożnowskie Ol., B. 770, r. 1777; AGH sąd Międzychód, majętn. Skrzydlewo, vol. I, fol. 28, Skrzydlewo Ol., r. 1785.
 [^109-2]: Rybarski, Skarbowość, s. 124. z
 [^109-3]: AW. Wilcz OI, C. II.
-[^109-4]: KI. XII O V, fol. 3s3.
-[^109-5]: KI. XII 6 V, fol. 33.
+[^109-4]: Kl. XII O V, fol. 3s3.
+[^109-5]: Kl. XII 6 V, fol. 33.
 [^109-6]: Von den Haulindern, s. 252.
 [^109-7]: Netzdistrikt, s. 223.
 
 [p. 110]
 
 
-również fakt, że osady wcześniej lokowane Costarczyły pewrego kontyngentu osadników dla osad późniejszych; a jak wiadomo, okupienie się w nowo zakładanych osadach wymagało pewrego zapasu gotówki. Nieźle też, jak możra wywnioskować ze staru inwentarza, powodziło się olędrom w majętn. sierakowskiej. Najgorzej przedstawiała się spraw a w osadach północnej i zachodniej części powiatu pozrańskiego. Większość osadników z powodu nędznej gleby skazana była tylko na wegetację !. Pewne dochody dawał jedynie chów bydła i owiec w oparciu o serwituty pastwiskowe, oraz, w nielicznych wypedkach, hodowla roślin ogrodowych (jarzyn, okopowizny). Poziom życia olędrów nie różnił się wcale od skali życiowej pozostałej ludności wiejskiej. W jednym i drugim wypadku podstawą wyżywienia było zboże i jego przetwory. Według akt klasyfikacyjnych w OI. Stróżewskich, gdzie jakość gleby była jeszcze zrośna, roczne spożycie na osobę wyrosiło[^110-1] korcy żyta, | korzec jęczmienia i 1/, korca grochu, w OI. Bronice 4 korce żyta 1 I korzec jęczmienia. O spożyciu mięsa przez osadników trudno powiedzieć coś konkretnego ; stwierdzić trzeba w każdym razie, że hodowla nierogacizny nie była tutej wcale znaczniejsza, niż we wsiach pańszczyźnianych. Na ogół jednak gospodarstwo olęderskie rozwijało się w lepszych warunkach, niż gospodarstwo włościan pańszczyźnianych. Położenie gospodarcze olędrów było uprzywilejowane, jeśli weźmiemy pod uwagę chociażby ich niezależrość osobistą, własrość gruntów, budynków i inwentarza, możność swobodnego dysponowania plonem swej pracy (swoboda handlu), niskie czynsze, minimalne robocizny, Olęder więc, mimo że siedział na ziemi nieurodzajnej, w porównaniu z kmieciem pańszczyźnianym miał większe szanse osiągnięcia dobrobytu.
+również fakt, że osady wcześniej lokowane Costarczyły pewrego kontyngentu osadników dla osad późniejszych; a jak wiadomo, okupienie się w nowo zakładanych osadach wymagało pewrego zapasu gotówki. Nieźle też, jak możra wywnioskować ze staru inwentarza, powodziło się olędrom w majętn. sierakowskiej. Najgorzej przedstawiała się spraw a w osadach północnej i zachodniej części powiatu pozrańskiego. Większość osadników z powodu nędznej gleby skazana była tylko na wegetację !. Pewne dochody dawał jedynie chów bydła i owiec w oparciu o serwituty pastwiskowe, oraz, w nielicznych wypedkach, hodowla roślin ogrodowych (jarzyn, okopowizny). Poziom życia olędrów nie różnił się wcale od skali życiowej pozostałej ludności wiejskiej. W jednym i drugim wypadku podstawą wyżywienia było zboże i jego przetwory. Według akt klasyfikacyjnych w Ol. Stróżewskich, gdzie jakość gleby była jeszcze zrośna, roczne spożycie na osobę wyrosiło[^110-1] korcy żyta, | korzec jęczmienia i 1/, korca grochu, w Ol. Bronice 4 korce żyta 1 I korzec jęczmienia. O spożyciu mięsa przez osadników trudno powiedzieć coś konkretnego ; stwierdzić trzeba w każdym razie, że hodowla nierogacizny nie była tutej wcale znaczniejsza, niż we wsiach pańszczyźnianych. Na ogół jednak gospodarstwo olęderskie rozwijało się w lepszych warunkach, niż gospodarstwo włościan pańszczyźnianych. Położenie gospodarcze olędrów było uprzywilejowane, jeśli weźmiemy pod uwagę chociażby ich niezależrość osobistą, własrość gruntów, budynków i inwentarza, możność swobodnego dysponowania plonem swej pracy (swoboda handlu), niskie czynsze, minimalne robocizny, Olęder więc, mimo że siedział na ziemi nieurodzajnej, w porównaniu z kmieciem pańszczyźnianym miał większe szanse osiągnięcia dobrobytu.
 
-[^110-1]: KI. XII 6 V, fol. 134, Bielawy: ,,Weil der Acker von solcher schlechten Beschaffen- heit sey, so kónnten dieselben selten das 3-te Korn gewinnen, und wiirden sie auch hieselbst ihr nótiges Auskommen nicht finden, wenn sie sich nicht durch Holtz Verkauf bishero ernihret hitten; da ihnen aber diese Freyheit anjetzo benommen wśre, so wiirden sie sich wohl an diesem Orte in der Folge nicht erhalten kónnen”. To samo fol. 139, Jasionna.
+[^110-1]: Kl. XII 6 V, fol. 134, Bielawy: ,,Weil der Acker von solcher schlechten Beschaffen- heit sey, so kónnten dieselben selten das 3-te Korn gewinnen, und wiirden sie auch hieselbst ihr nótiges Auskommen nicht finden, wenn sie sich nicht durch Holtz Verkauf bishero ernihret hitten; da ihnen aber diese Freyheit anjetzo benommen wśre, so wiirden sie sich wohl an diesem Orte in der Folge nicht erhalten kónnen”. To samo fol. 139, Jasionna.
 
 [p. 111]
 
@@ -2124,22 +2124,22 @@ Według akt klasyfikacyjnych pruskich dla części powiatu poznańskiego zabrane
 
 [^113-1]: Schmidt (Geschichte, s. 399) utrzymuje, że nauczyciela miała każda osada. Twier- dzenia swego nie: poparł jednak przykładami. s
 [^113-2]: Wyjątek stanowiła osada Chromiec.
-[^113-3]: AW. Gębiczyn A. 2, Gębickie OI.: ,„A ponieważ ci olędrzy są wiary ewangelickiej, więc pozwalam im chować bakałarza wiary ich do przeczytania cwangelii””. Rel. Posn, nr 645, r. 1793, fol. 320, Jasionowe OI.: Dodatek z r. 1780 do przywileju z r. 1701 potwierdza gminie prawo trzymania „,forlezera”. Podobnie Rel. Cost. nf 164, r. 1729, s. 485, Kotusz Ol.; AW. Krosno OI., A. 1, Krosińskie OI.: „,„Bakałarza dla nabożeństwa pozwala im się”. Rel. Posn. nr 430, r. 1741, fol. 230, Kuślińskie OIl.: Wolno olędrom zbudować szkołę i trzymać nauczyciela ,„do odprawienia nabożeństwa w teyże szkole”. AW. Lubicńskie OI., B. 1: ,,...soll dicsc Gemeine ihre Schule zum Gottes-Dienst mit den Hutten Hollindern haben und halten, und auch darzu hegen und ee AW. Nieszawskie OI., B. 15; „„Bakałarza, któryby im ECwangelium czytał, pozwalam...
+[^113-3]: AW. Gębiczyn A. 2, Gębickie Ol.: ,„A ponieważ ci olędrzy są wiary ewangelickiej, więc pozwalam im chować bakałarza wiary ich do przeczytania cwangelii””. Rel. Posn, nr 645, r. 1793, fol. 320, Jasionowe Ol.: Dodatek z r. 1780 do przywileju z r. 1701 potwierdza gminie prawo trzymania „,forlezera”. Podobnie Rel. Cost. nf 164, r. 1729, s. 485, Kotusz Ol.; AW. Krosno Ol., A. 1, Krosińskie Ol.: „,„Bakałarza dla nabożeństwa pozwala im się”. Rel. Posn. nr 430, r. 1741, fol. 230, Kuślińskie OIl.: Wolno olędrom zbudować szkołę i trzymać nauczyciela ,„do odprawienia nabożeństwa w teyże szkole”. AW. Lubicńskie Ol., B. 1: ,,...soll dicsc Gemeine ihre Schule zum Gottes-Dienst mit den Hutten Hollindern haben und halten, und auch darzu hegen und ee AW. Nieszawskie Ol., B. 15; „„Bakałarza, któryby im ECwangelium czytał, pozwalam...
 
 [p. 114]
 
 
 Szkoła mieściła się zwykle w osobnym budynku, zbudowanym za zgodą pana. Budynek ten był jednocześnie miejscowym domem modlitwy. Jedynie w majętn. sierakowskiej olędrom w myśl postanowienia ówczesnego właściciela Henryka Bruhla nie wolno było mieć osobnych budynków szkolnych, a nauka mogła się odbywać tylko w izbie któu regoś. z gospodarzy[^114-1]. Utrzymanie nauczyciela umożliwiał pan, przydzielając szkole pewien obszar roli wolnej od wszelkich czynszów.
 
-Grunt szkolny wyrosił zazwyczaj !/,, rzadziej 1/4 wł., wyjątkowo jeszcze mniej[^114-2]. W OI. Ujskich na szkołę wyznaczono I włókę, od której jednak olędrzy zobowiązani byli płacić połowę czynszu. Jeżeli pan osadzał olędrów na miejscu gdzie istniały jeszcze budynki po innej wsi, względnie folwarku, ofiarowywał na szkołę bezpłatnie jeden z budynków %. Poza[^114-3] dochodami gruntu szkolnego nauczyciel czerpał dochody również ze składek gminy. W tych ostatnich najpowszechniejszą, ale zarazem najbardziej płynną pozycję tworzyły opłaty od każdego dziecka korzystającego z nauki szkolnej, na resztę składały się pewne ustalone w umowie z nauczycielem datki w pieniądzu i w naturze. Przykładowo podajemy, że np. na dochody nauczyciela w OI. Siereckich w r. 1793[^114-4] składały się: 1) korzyści z użytkowania 1/, włóki gruntu szkolnego, 2) danina w wysokości 16!/, talara, 3) 4 składki (Opfer), bliżej nie określone, 4) od każdego gospodarza I chleb, 5) I funt masła i 4 sery z każdej huby, 6) od każdego gospodarza furę drzewa, 7) opłaty według osobnej taksy za śpiewanie przy pogrzebach oraz 8) opłaty od uczniów w wysokości 6 zł od dzieci większych i 3 zł od dzieci mniejszych.
+Grunt szkolny wyrosił zazwyczaj !/,, rzadziej 1/4 wł., wyjątkowo jeszcze mniej[^114-2]. W Ol. Ujskich na szkołę wyznaczono I włókę, od której jednak olędrzy zobowiązani byli płacić połowę czynszu. Jeżeli pan osadzał olędrów na miejscu gdzie istniały jeszcze budynki po innej wsi, względnie folwarku, ofiarowywał na szkołę bezpłatnie jeden z budynków %. Poza[^114-3] dochodami gruntu szkolnego nauczyciel czerpał dochody również ze składek gminy. W tych ostatnich najpowszechniejszą, ale zarazem najbardziej płynną pozycję tworzyły opłaty od każdego dziecka korzystającego z nauki szkolnej, na resztę składały się pewne ustalone w umowie z nauczycielem datki w pieniądzu i w naturze. Przykładowo podajemy, że np. na dochody nauczyciela w Ol. Siereckich w r. 1793[^114-4] składały się: 1) korzyści z użytkowania 1/, włóki gruntu szkolnego, 2) danina w wysokości 16!/, talara, 3) 4 składki (Opfer), bliżej nie określone, 4) od każdego gospodarza I chleb, 5) I funt masła i 4 sery z każdej huby, 6) od każdego gospodarza furę drzewa, 7) opłaty według osobnej taksy za śpiewanie przy pogrzebach oraz 8) opłaty od uczniów w wysokości 6 zł od dzieci większych i 3 zł od dzieci mniejszych.
 
-[^114-1]: Por. przywileje dla Bucharzewa, Bukowca, Chorzępowej, Dębowskich, Radoskich OI., Tucholi, Zatomia Nowego i Zwierzyńca (sygn. w aneksie I).
-[^114-2]: AW. Blinek OI., A. I — 4 morgi, AW. Szklarka Trzcielska, A. 1 i AW. Drzewce, B. 2 — 3 morgi.
-[^114-3]: Rel. Posn. nr 641, r. 1792, fol. 451, Miłostowo; KI. XII 6 I, Ostrówek; Rel. Posn. nr 641, fol. 163, Zamorze.
+[^114-1]: Por. przywileje dla Bucharzewa, Bukowca, Chorzępowej, Dębowskich, Radoskich Ol., Tucholi, Zatomia Nowego i Zwierzyńca (sygn. w aneksie I).
+[^114-2]: AW. Blinek Ol., A. I — 4 morgi, AW. Szklarka Trzcielska, A. 1 i AW. Drzewce, B. 2 — 3 morgi.
+[^114-3]: Rel. Posn. nr 641, r. 1792, fol. 451, Miłostowo; Kl. XII 6 I, Ostrówek; Rel. Posn. nr 641, fol. 163, Zamorze.
 [^114-4]: Szk. nr 47 a, fol. 4.
-[^114-5]: KI. XII 13, fol. 239, Jędrzejewskie OI.; AW. Milczewskie OIl., A. 1; AW. Stróżewice, A. 1; AW. Strzeleckie OI., C. 3, fol. 9.
+[^114-5]: Kl. XII 13, fol. 239, Jędrzejewskie Ol.; AW. Milczewskie OIl., A. 1; AW. Stróżewice, A. 1; AW. Strzeleckie Ol., C. 3, fol. 9.
 [^114-6]: Rel. Cost. nr 224, r. 1788, fol. 379, Cisiogórskie Ol.; AW. Kąkolewo, A. I oraz. Rel. Cost. nr 217, r. 1784, fol. 230.
-[^114-7]: KI. XII 13, fol. 238, Jędrzejewskie OI.
+[^114-7]: Kl. XII 13, fol. 238, Jędrzejewskie Ol.
 [^114-8]: AW. Budziszewskie Wielkie Ol., B. 108.
 [^114-9]: Von den Haulindern, s. 254.
 
@@ -2158,7 +2158,7 @@ gar abgesetzt seyn wollte. Ich kenne einen sehr rechtschafnen Schulhalter, der n
 signirte, und mir mit Thrinen gestand, dass er lieber die S.... hiiten wolle, als linger Hau-
 linder — Schulhalter seyn”.
 [^115-2]: Szk. nr 47 a, fol. 5.
-[^115-3]: Von den Haulindern s. 255: „cin solcher Schulhalter musste dann auch fein den Winken der Haulinder gehorchen, wenn er nicht in seinen Reveniien verkirzt, und endlich gar abgesetzt seyn wollte. Ich kenne einen sehr rechtschafnen Schulhalter, der neuerlich re- signirte, und mir mit Thrźnen gestand, dass er lieber die S.... hiiten wolle, als linger Hau- linder — Schulhalter seyn”. 4 OI. Stróżewscy (AW. C. 2) zapytani o powody wydajenia nauczyciela, podali m. i. że w kazaniu niedzielnym uczynił złośliwą aluzję do obecnych (mianowicie modlił się o na- wrócenie grzeszników, co gmina uznała za wycieczkę pod swym adresem).
+[^115-3]: Von den Haulindern s. 255: „cin solcher Schulhalter musste dann auch fein den Winken der Haulinder gehorchen, wenn er nicht in seinen Reveniien verkirzt, und endlich gar abgesetzt seyn wollte. Ich kenne einen sehr rechtschafnen Schulhalter, der neuerlich re- signirte, und mir mit Thrźnen gestand, dass er lieber die S.... hiiten wolle, als linger Hau- linder — Schulhalter seyn”. 4 Ol. Stróżewscy (AW. C. 2) zapytani o powody wydajenia nauczyciela, podali m. i. że w kazaniu niedzielnym uczynił złośliwą aluzję do obecnych (mianowicie modlił się o na- wrócenie grzeszników, co gmina uznała za wycieczkę pod swym adresem).
 [^115-4]: Schulz W., Die zweite deutsche Ostsiedlung, I, s. 23.
 
 [p. 116]
@@ -2170,7 +2170,7 @@ Wypada z kolei omówić zasięg, poziom i znaczenie szkolnictwą w olędrach. No
 [^116-2]: III 93, fol. 7).
 [^116-3]: Szk. nr 47 a, fol. 5. Podobnie stosunek olędrów do szkoły charakteryzuje Stenger (Von den Haulindern, s. 254—5). 3 Szk., J. w. 1 Pod sygn. AW. Reńsko, C. 1, przechował się protokół inspekcji szkoły w Ręcku z r. 1798, a więc po 5-letnim istnieniu szkoły pod opieką władz pruskich. Uczęszczało do szkoły
 [^116-4]: dzieci (10 chłopców, 8 dziewcząt), z tego 4 chłopców umiało pisać kredą na tablicy.
-[^116-5]: W aktach dotyczących Stróżewskich OI. na 11 podpisujących 10 stawiło znaki "odręczne (AW. Stróżewskie OI., C. 2), w Ujskich OI. na ogólną liczbę 31 osadników tylko 2 umiało się podpisać (AW. Ujskie OI., C. 2, I, fol. 160). Umowę z r. 1798 między dziedzicem Gajewskim a gminą OI. Tłockich wszyscy olędrzy w liczbie 13 podpisali krzyżykami (AW. Tłockie Ol., dep. A. I, fol. 4). Także w Złotkowie, którego monografię opracował Branden- burger (Das Flaulinder — Dorf Goldau), wszyscy mieszkańcy w liczbie 12 byli niepiśmienni (AW. B. 14- --15). Wielką liczbę niepiśmiennych olędrów wykazują równicż najwcześniejsze
+[^116-5]: W aktach dotyczących Stróżewskich Ol. na 11 podpisujących 10 stawiło znaki "odręczne (AW. Stróżewskie Ol., C. 2), w Ujskich Ol. na ogólną liczbę 31 osadników tylko 2 umiało się podpisać (AW. Ujskie Ol., C. 2, I, fol. 160). Umowę z r. 1798 między dziedzicem Gajewskim a gminą Ol. Tłockich wszyscy olędrzy w liczbie 13 podpisali krzyżykami (AW. Tłockie Ol., dep. A. I, fol. 4). Także w Złotkowie, którego monografię opracował Branden- burger (Das Flaulinder — Dorf Goldau), wszyscy mieszkańcy w liczbie 12 byli niepiśmienni (AW. B. 14- --15). Wielką liczbę niepiśmiennych olędrów wykazują równicż najwcześniejsze
 metryki protestanckie Lwówka (Archiwum Państwowe w Poznaniu, Metryki 441 C). Nawet
 aktach regulacyjnych sporządzonych przeważnie w latach 1830—40, osadnicy, mimo że
 w
@@ -2185,8 +2185,8 @@ W starszym. pokoleniu olędrów umiejętność pisania należała do rzadkości.
 
 C. Kult religijny
 
-[^117-1]: AW. Wielkokrobielewskie OI., B. 1 b: „Religia im ma być wolna, nie mają być do żadnej przymuszani”. Tak samo Rel. Posn. nr 549, r. 1767, fol. 442, Daleszyno; AW. Jaro- mierz B. 4, fol. 63; Rel. Cost. nr 214, r. 1781, fol. 82, Kąkolewskie OI.; AW. Chodzież, C. 1, fol. 1, Krystynka OI.; AW. Lewickie OI. dep. A.1; AW. Lubieńskie OI., B. 1; AW. Marien- wala, B. I; AW. Meryń Nowy, C. 7, fol. 101 ; Rel. Posn. nr 038, r. 1791, fol. 602, Róża OI.; AW. Nowe Tuchorskie Ol., A. 1; AW. Stare Tuchorskie OI., dep. A. 1; Q nr 38 i sygn. w anc- ksie I b, Ujskie OI.
-[^117-2]: Rel. Posn. nr 430, r. 1741, fol. 230, Kuślińskie OI. : „Szkołę im wolno postawić y na- bożeństwa według zwyczaju holenderskiego w nicy im będzie odprawiać bez wszelkiey kłótni tak duchownych iako y inszych”. Rel. Posn. nr 140, r. 1602, fol. 660, Nowe Dwory: ,„Wolno im też będzie nabożeństwo podług swey wiary odprawować y Xiędza swym kosztem chować”. Rel. Posn. nr 549, r. 1767, fol. 442: „Pozwalam im też szkołę budować, y drzewo dawać, żeby ich nabożeństwo mogli odprawiać, y sobie prolektora trzymać..., którzy tcż od nikogo, ani od żadnego duchownego turbowani być nie powinni”.
+[^117-1]: AW. Wielkokrobielewskie Ol., B. 1 b: „Religia im ma być wolna, nie mają być do żadnej przymuszani”. Tak samo Rel. Posn. nr 549, r. 1767, fol. 442, Daleszyno; AW. Jaro- mierz B. 4, fol. 63; Rel. Cost. nr 214, r. 1781, fol. 82, Kąkolewskie Ol.; AW. Chodzież, C. 1, fol. 1, Krystynka Ol.; AW. Lewickie Ol. dep. A.1; AW. Lubieńskie Ol., B. 1; AW. Marien- wala, B. I; AW. Meryń Nowy, C. 7, fol. 101 ; Rel. Posn. nr 038, r. 1791, fol. 602, Róża Ol.; AW. Nowe Tuchorskie Ol., A. 1; AW. Stare Tuchorskie Ol., dep. A. 1; Q nr 38 i sygn. w anc- ksie I b, Ujskie Ol.
+[^117-2]: Rel. Posn. nr 430, r. 1741, fol. 230, Kuślińskie Ol. : „Szkołę im wolno postawić y na- bożeństwa według zwyczaju holenderskiego w nicy im będzie odprawiać bez wszelkiey kłótni tak duchownych iako y inszych”. Rel. Posn. nr 140, r. 1602, fol. 660, Nowe Dwory: ,„Wolno im też będzie nabożeństwo podług swey wiary odprawować y Xiędza swym kosztem chować”. Rel. Posn. nr 549, r. 1767, fol. 442: „Pozwalam im też szkołę budować, y drzewo dawać, żeby ich nabożeństwo mogli odprawiać, y sobie prolektora trzymać..., którzy tcż od nikogo, ani od żadnego duchownego turbowani być nie powinni”.
 [^117-3]: "Tego rodzaju ograniczenie spotkaliśmy tylko raz w odniesieniu do olędrów Bukowca (przyw. z I. 1692, AW. Bukowiec, A. 1): „ani chować predikanta, ani go zwozić do wsi, ale icżeliby in była naiwiększa potrzeba, do predikanta wolno im jeździć. Chrzest iednak w kościele sierakowskim y śluby brać powinni”. Powyższy zakaz, wstawiony do przywileju zapewne na skutek remonstracji proboszcza sierakowskiego, przetrwał tylko do r. 1751. W przywileju z tego roku już nie figuruje. Być może, że w praktyce przestrzegano go jeszcze krótszy przeciąg czasu.
 
 [p. 118]
@@ -2199,13 +2199,13 @@ więcej sobie postępować nie powinien, tylko jako bakałarzowi należy dyssyde
 kazania i śpiewania”.
 [^118-2]: AW. Góździn, A. I, fol. 71: ,„Item pozwala się im wiecznymi czasy chować szkol- nego, to iest aby uczył dzieci czytania, pisania. Ale żeby żadnego Pisma, ani Ewangelii gminie czytać się nic ważył”.
 [^118-3]: Wyjątek stanowi wypadek przytoczony w przypisie 3 na s. poprzedniej.
-[^118-4]: Dom. P. 6755, fol. 16, Uścikowskie OI.: ,,W religii swoiey tak sobie postępować będą, iako Rzeczpospolita pozwala”. Item AW. Białężyńskie OI., B. 59—60.
-[^118-5]: Rel. Posn. nr 140, r. 1602, fol. 660, Nowe Dwory. Zezwolenie takie spotykamy rów- nież w przywilejach z r. 1677 dla pozostałych osad majętności wieleńskicj. Werner Steffani (Geschichte der: ewangelischen Parochieen) wymienia następujące kościoły istniejące w osa- dach w czasach dawnej Rzeczypospolitej: w Folsztynie, Gębickich Ol., Herbardowie (mc- tryki od r. 1692, por. Jahrbuch der Historischen Gesellschaft f. d. Netzedistrikt, r. 1898, s. 24—5), Krośnie, Lewickich OI., Łokaczu, Nowych Dworach, Szklanej Hucie, Wielkokro- bielewskich OI.
+[^118-4]: Dom. P. 6755, fol. 16, Uścikowskie Ol.: ,,W religii swoiey tak sobie postępować będą, iako Rzeczpospolita pozwala”. Item AW. Białężyńskie Ol., B. 59—60.
+[^118-5]: Rel. Posn. nr 140, r. 1602, fol. 660, Nowe Dwory. Zezwolenie takie spotykamy rów- nież w przywilejach z r. 1677 dla pozostałych osad majętności wieleńskicj. Werner Steffani (Geschichte der: ewangelischen Parochieen) wymienia następujące kościoły istniejące w osa- dach w czasach dawnej Rzeczypospolitej: w Folsztynie, Gębickich Ol., Herbardowie (mc- tryki od r. 1692, por. Jahrbuch der Historischen Gesellschaft f. d. Netzedistrikt, r. 1898, s. 24—5), Krośnie, Lewickich Ol., Łokaczu, Nowych Dworach, Szklanej Hucie, Wielkokro- bielewskich Ol.
 
 [p. 119]
 
 
-Gdzie były szczególnie liczne skupienia osad olęderskich z ludnością ewangelicką, tam olędrzy za zezwoleniem dworu budowali sobie kościoły i utrzymywali własnym kosztem duchownych swego wyznania 5. Na ogół jednak kościoły ewangelickie w osadach olęderskich były nieliczne, już to dlatego, że prawa dawnej Rzeczypospolitej (przed r. 1768) ograniczały swobodę stawiania świątyń dysydenckich, już znowu z tej przyczyny, że olędrzy nie byli w stanie pobudować świątyni własnym sumptem lub utrzymać pastora, albo też, co miało najczęściej. miejsce, normąlnę ich potrzeby religijne zaspakajał w zupełności miejscowy nauczyciel, w wyjątkowych zaś wypadkach mieli możność skomunikowania się z najbliższym pastorem. Źródła nie zawierają bliższych danych dotyczących pastorów, przypuszczać jednak nalcży, że były to osoby na ogółświatłe i przygotowane do pełnienia funkcji duchownych. Oczywiście i tu zdarzały się wyjątki[^119-1]. Stosunki pastorów z gminą nie zawsze układały się zadawalająco. Poprzednio już wspominano o procesach gminy Herbardowo z miejscowym duchownym. Zupełnie ujemne świadectwo wystawił swym parafianom pastor gminy ewangelickiej Piotrowa, do której należały również Króteckie i Miłkowskie OI.[^119-2].
+Gdzie były szczególnie liczne skupienia osad olęderskich z ludnością ewangelicką, tam olędrzy za zezwoleniem dworu budowali sobie kościoły i utrzymywali własnym kosztem duchownych swego wyznania 5. Na ogół jednak kościoły ewangelickie w osadach olęderskich były nieliczne, już to dlatego, że prawa dawnej Rzeczypospolitej (przed r. 1768) ograniczały swobodę stawiania świątyń dysydenckich, już znowu z tej przyczyny, że olędrzy nie byli w stanie pobudować świątyni własnym sumptem lub utrzymać pastora, albo też, co miało najczęściej. miejsce, normąlnę ich potrzeby religijne zaspakajał w zupełności miejscowy nauczyciel, w wyjątkowych zaś wypadkach mieli możność skomunikowania się z najbliższym pastorem. Źródła nie zawierają bliższych danych dotyczących pastorów, przypuszczać jednak nalcży, że były to osoby na ogółświatłe i przygotowane do pełnienia funkcji duchownych. Oczywiście i tu zdarzały się wyjątki[^119-1]. Stosunki pastorów z gminą nie zawsze układały się zadawalająco. Poprzednio już wspominano o procesach gminy Herbardowo z miejscowym duchownym. Zupełnie ujemne świadectwo wystawił swym parafianom pastor gminy ewangelickiej Piotrowa, do której należały również Króteckie i Miłkowskie Ol.[^119-2].
 
 [^119-1]: W Rel. Cost. nr 217, r. 1784, fol. 234 znajdujemy oblatę manifestu, według którego „Obywatele Rostarzewscy... uczciwego Boyle dawniey Olędra na Olędrach do Miasteczka Grodziska należących, potem Bakałarza na Olędrach Kąkolewskich... do Rostarzewa spro- wadzili y tego sobie Pastorem ogłosili, y ten od dwóch lat dopiero sprowadzony wszystkich sakramentów administrowanie rozpoczął y zabronienie Gminom Rostarzewskim do innych uczęszczania kościołów wystarał się”.
 [^119-2]: Komisja pruska z r. 1794 (Szk. nr 65, fol. 17) na podstawie zeznań pastora stwierdza co następuje: ,„Carl Wilhelm Miller aus Reppen in der Neumarkt gebirtig, stehet bereits Jahre als Prediger hier im Amie. Hat aber wihrend dieser kurzen Zeit schon enizetzlich viele Krinkungen von der Gemcine erdulden miissen. Sie lassen alles, da die Kirche arm ist, eingchen, repariren nichts an derselben und an den zur Kirche gehórigen Gebiiuden, Zaunen und Stóllen, und halten ihm in vielen $ticken dic Vocation nicht. Es ist bekannt, dass diese Pie- trover Gemeine sich von je her so betragen, und in Zeit von 20 Jahren, 3 Prediger hinter- einander zu Todc geźrgert hat, mir gehet es nicht besser, und ich stehe schon bereits ein ganzes Jahr unter den Hinden des Arztes. Es hat sich diese Gemeine auch von Je her aller guten Ordnung des Consistorii widersetzt, weshalb die hiesige Kirch 7 Jahre ohne Prediger gewe- sen. Es ist die aller schlechteste Stelle, wie cs Gott und der ganzen umlicgenden Christenhcit bekannt ist, und nicht móglich, dass cin rechtschaflener Mann, wenn keine Verbesserung geschehet, linger dabey bestehen kann”.
@@ -2241,656 +2241,852 @@ ANEKS I
 
 
 
-<!-- annex sheet 0139, tier mix -->
+<!-- annex sheet 0139 -->
 
 
-1. I | Albertowskie Olędry Bukowiec Albertowsko _— 60 348 — — — —  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-2. | Amtskasnerowskie Olędry | Zbąszyń Toczeń 18 _— — — — _ _—  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-3. | Baranowskie Olędry Mosina Baranówko 17 87 = _ — — =  
+| 1 | Albertowskie Olędry | Bukowiec | Albertowsko | — | — | — | — | 60 | — | 348 |
 
-4. | Barłożna Olędry I Gościeszyn Barłożna Go- _— 5 18 — — — — ścieszyńska  
+| 2 | Amtskasnerowskie Olędry | Zbąszyń | Toczeń | — | — | — | — | 18 | — | — |
 
-5. | Barłożna Olędry II Wolsztyn Barłożna Wol- | e) 29 — _ — _ — sztyńska |  
+| 3 | Baranowskie Olędry | Mosina | Baranówko | — | — | — | — | 17 | — | 7 |
 
-6. | Białe Olędry Bukowiec Biała Wieś ==" 34 178 — - — —  
+| 4 | Barłożna Olędry I | Gościeszyn | Barłożna Goscieszyńska | — | — | — | — | D | — | 18 |
 
-7. | Blinek Olędry Gnin Blinek 1720 las AW. Blinek,A.1/11 XI1720| 23 126 —  
+| 5 | Barłożna Olędry II | Wolsztyn | Barłożna Wolsztyńska |   | — | — | — | e) | — | 29 |
 
-8. | Błonie Olędry al. Żdżar | Gnin Błońsko — 511 | 229 — _ = —  
+| 6 | Białe Olędry | Bukowiec | Biała Wieś | — | azer % rzy | — | — | 34 | — | 178 |
 
-9. | Boguszyńskie Olędry Panienka Boguszynek 1762 (?) AGH sąd Jaro-6 VII11762| 20*| — — _— cin, maj.Bogu- szyn, vol. II, fol. 74  
+| 7 | Blinek Olędry | Gnin | Blinek | 1720 | las | AW.Blinek, A. 1 | 11 XI1720 | 23 | — | 126 |
 
-10. [| Bolewiny Olędry Dąbrówka Bolewiny —_ 4 17 — — — —  
+| 8 | Błonie Olędry al. Źdżar | Gnin | Błońsko | — | S-——" | — | — | Jl I | — | 229 |
 
-11. | Borgowo Śrem Borgowo 1785 wieś | Rel. Cost. [18IV1785| Ii 43 ta sama nr — i mieszk. - | 220, r. 1787, folw. dworski | fol. 371/2  
+| 9 | Boguszyńskie Olędry | Panienka | Boguszynek | 1762 (?) | — | AGH sąd Jarocin, maj.Boguszyn, vol. II, fol. 74 | 6 VII1762 | 20 | — | — |
 
-12. | Borkowskie Olędry Mosina Borkowice 1750. las AW. Borek 6V1750| 14 : — — Ol, A. 1  
+| 10 | Bolewiny Olędry | Dąbrówka | Bolewiny | — | — | — |   | 4 | — | 17 |
 
-13. | Boruja Zbąszyń Boruja 1785 ta wieś | Rel. Cost. | 1 V 1785 48 213 sama nr — 1 mieszkańcy 218, r. 1785, fol. 221  
+| 11 | Borgowo | Śr cmni | Borgowo | 1785 | ta sama wieś 1 mieszk. +- folw. dworski | Rel. Gost. nr 220, r. 1787, fol. 371/2 | 18IV 1785 | 11 | — | 43 |
 
+| 12 | Borkowskie Olędry | Mosina | Borkowice | 1750 | las | AW. Borek Ol, A. 1 | 6 V 1750 | — | 14 | — |
 
-<!-- annex sheet 0140, tier mix -->
+| 13 | Boruja | Zbąszyń | Boruja | 1785 | ta sama wieś 1 mieszkańcy | Rel. Cost. nr 218, r. 1785, fol. 221 | 1 V 1785 | 48 | — | 273 |
 
 
-14. Borujskie Nowe Olędry | Zbąszyń Nowa Boruja | —  
 
-15. Borujskie Stare Olędry Zbąszyń Stara Boruja 1705(?) Goldmann s. 425  
 
-16. Brodnickie Olędry Brodnica Brodniczka = —— =  
 
-17. Bystrek Olędry Śrem Bystrzek 1757 (?) AGH. Śrem, 2 IV 1757 s. maj. Łąg, vol. III, fol. 143  
 
-18. Cegielskie Olędry Wolsztyn Cegielsko 1729 AW. dep. A. I 10 XI 1729 23  
+<!-- annex sheet 0140 -->
 
-19. Charłub Olędry Mchy Charłub 1787 | las Rel. Cost. nr 4 VI1787 73 223, r. 1790; fol. 182  
 
-20. Chojnickie Olędry Zbąszyń Ghojnik 16 107  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-21. Chromieckie Olędry Książ Chromiec 1748 AW. A. 2 18 XI1748 22 *  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-22. Chrząstowskie Olędry Wieszczyczyn Olsze 1747 Rel. Cost. nr 251111747 220, r. 1787, fol. 524  
+| 14 | Borujskie Nowe Olędry | Zbąszyń | Nowa Boruja |   |   | l . b |   | k! IĄK 2 |   | Il |
 
-23. Cisiogórskie Olędry Bukowiec Cicha Góra Rel. Cost. 11 X11757 48 406 nr 224, r. 1791, fol. 379  
+| 15 | Borujskie Stare Olędry | Zbąszyń | Stara Boruja | 1705(?) |   | Goldmann s. 425 |   | ” |   | PO |
 
-24. Czarne Olędry Grodzisk Czarna Wieś 44 243  
+| 16 | Brodnickie Olędry | Brodnica | Brodniczka | — | — | hi |   | I |   | 70 |
 
-25. Czeskie al. Polsko- Zbąszyń Czeskie Stare 17 122 Czeskie Olędry  
+| 17 | Bystrek Olędry | Śrem | Bystrzek | 1757 (?) | — | AGH. s. Śrem, maj. Łąg, vol. III, fol. 143 | 5 | 11 3 | 7 |   |
 
-26. Daieszyno Gostyń Stary Daleszyn role kmiece Rel. Posn. nr 13 X 1765 12* 549, r. 1767, fol. 442  
+| 18 | Cegielskie Olędry | Wolsztyn | Cegielsko | 1729 | — | AW. dep. A. I | 10 X1172£ | 4 |   | 23 |
 
-27. Dąbrówka Olędry Gnin Dąbrowiecka Wola — 14 82 —  
+| 19 | Charłub Olędry | Mchy | Charłub | 1787 | las | Rel. Cost. nr 223, r. 1790; fol. 182 | 4 VI 1787 | 9 |   | BB |
 
-28. Dymaczewskie Nowe OI. Łódź N. Dymaczewo | —— 48 266  
+| 20 | Chojnickie Olędry | Zbąszyń | Chojnik |   | — | — | — | 10 | — | 107 |
 
-29. Dymaczewskie Stare Ol. Łódź St. Dymaczewo 1751 las Rel. Posn. nr 13 V 1751 489, r. 1751, fol. 69  
+| 21 | Chromieckie Olędry | Książ | Chromicc | 1748 | las | AW. A. 2 | 18 XI1748 | 22 | — | — |
 
+| 22 | Chrząstowskie Olędry | Wieszczyczyn | Olsze | 1747 | las | Rel. Cost. nr 220, r. 1787, fol. 524 | 251111747 | 19 | — | — |
 
-<!-- annex sheet 0141, tier mix -->
+| 23 | Cisiogórskie Olędry | Bukowiec | Cicha Góra | 1757 | las | Rel. Cost. nr 224, r. 1791, fol. 379 | 11 X11757 | 48 | — | 406 |
 
+| 24 | Czarne Olędry | Grodzisk | Czarna Wieś | — | — | — | — | 44 | — | 243 |
 
-30. | Głodno Olędry Wolsztyn Głodno 1717 AW. C. I 37 Ó 221 — _ (str. tyt.)  
+| 25 | Czeskie al. Polsko- Czeskie Olędry | Zbąszyń | Czeskie Stare | — | — | ip » | — | 17 | — | 1 22 |
 
-31. | Gogolewskie Olędry Gogolewo Gogolewko 1746 las Rel. Cost. [10 X11746, 10 15 nr — 222, r. 1789, fol. 348  
+| 26 | Daieszyno | Gostyń Stary | Daleszyn | 1765 | role kmiece | Rel. Posn. nr 549, r. 1767, fol. 442 | 13 X 1705 | 12 | — | — |
 
-32. | Gola Olędry Gościeszyn Gola 21 12] — = — — _  
+| 27 | Dąbrówka Olędry | Gnin | Dabrowiecka Wola | — | U | r | — | 14 | — | 82 |
 
-33. | Góry Olędry Siedlec Tuchorza Górna| _— _— — — — — —  
+| 28 | Dymaczewskie Nowe Ol | Łódź | N. Dymaczewo | — | — | — |   | l o |   | l ose] |
 
-34. | Góździno Olędry Ruchocice Goździn 1735 las AW. A. I 10X11735| 41 176 —  
+| 29 | Dymaczewskie Stare Ol. . 1 Razem z Mostowskim | Łódź OI | St. Dymaczewo 2 Razem z C | 1751 . Szarki | las | Rel. Posn. nr fol. 69 3 Razem | 13 V 1751 Ol. Sosn« | " wiec | H |   |
 
-35. | Grubskie Olędry Zbąszyń Grubsko 35 _— 277 — — — _  
 
-36. | Jabłonna Nowa Gnin Jabłonna —_ 38*| — — — — —  
 
-37. | Jaromierskie Nowe OI. Gnin, Kopanica | Nowy | 1719 las 7 AW. B. 4 2 IL 1719 15 —_ Jaromierz —  
 
-38. | Jaromierskie Stare Olędry | Kopanica Stary Jaromierz | 1709 zarośla AW.dep.A.I1 21 V1709| 44 — —  
 
-39. | Karpickie Olędry Wolsztyn Karpicko 1729 | wieś częśc. AW. A. 1—2 [20X11729] | 22 127 zarosła — 120 I 1749  
 
-40. | Kawczyn Olędry Oborzyska -Kawczyn 1741 wieś opusto- | Rel. Cost. 115 X 1741 16 nr — 101 szała 177, r. 1742, fol. 210  
+<!-- annex sheet 0141 -->
 
-41. | Kąkolewskie Olędry Bukowiec Kąkolewo 1720 wieś z bud. Rel. Cost. |10 X1720| 59 nr — 335 | 214, r. 1781, fol. 81 i AW. TA. 1  
 
-42. | Kiączyńskie Olędry Książ Kiełczynek 1772 | las AW. A. 1 | 17Xrt772| 20 152 —  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-43. | Komorowo Olędry Gnin Komorówko _— 37 190 — — — —  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-44. | Konarskie Olędry Książ Konarzyce 1735 las Rel. Posn. nr [14 X11735| 26 198 = : 628, r. 1789, fol. 578  
+| 30 | Głodno Olędry | Wolsztyn | Głodno | 177 |   | AW. C. 1 (str. tyt.) |   | 37 |   | 221 |
 
+| 31 | Gogolewskie Olędry | Gogolewo | Gogolewko | 1746 | las | Rel. Cost. nr 222, r. 1789, fol. 348 | [ou | 10 | — | 15 |
 
-<!-- annex sheet 0142, tier mix -->
+| 32 | Gola Olędry | Gościeszyn | Gola |   |   | — | — | 21 | — | 121 |
 
+| 33 | Góry Olędry | Siedlec | Tuchorza Górna | — | — | — | — | — | — | — |
 
-45. Kopanki Olędry Opalenica Kopanki — — 24 130  
+| 34 | Góżdzino Olędry | Ruchocice | Goździn | 1735 | las | AW. A. I | 10 XI 1735 | 41 | — | 176 |
 
-46. Kotusz Olędry Wilkowo Kotusz 1729 wieś z bud. Rel. Cost. nr 25 X 1729 23 159 Polskie 164, 1729, r. fol. 484  
+| 35 | Grubskie Olędry | Zbąszyń | Grubsko | — | — | — | — | 35 | — | 77 |
 
-47. Krosna Olędry Mosina Krosno 1780 wieś opusto- AW. A. I i V 1781 szała  
+| 36 | Jabłonna Nowa | Gnin | Jabłonna | — | — | — | — | 30 | — | — |
 
-48. Kruczyńskie Olędry Nowemiasto Kruczynek —— — ——— 21 * 121  
+| 37 | Jaromierskie Nowe OI | Gnin, Kopanica | Nowy Jaromierz | 1719 | las | AW. B. 4 | 2 II 1719 | 15 | — | — |
 
-49. Krzemieniewo Oporowo Krzemieniewo 1754 wieś 1 folw. Rel. Cost. nr TVII 1754 44 284 z budynkami 190, r. 1755, fol. 33  
+| 38 | Jaromierskie Stare Olędry | Kopanica | Stasy Jaromierz | 1709 | zaroślą | AW. dep.A. I | 21 V 1709 | 44 | — | — |
 
-50. Krzyż Olędry Kębłowo Krzyż — — = 31 174  
+| 39 | Karpickie Olędry | Wolsztyn | Karpicko | 1729 | wieś częśc. zarosła | AW. A. 1—2 | 20XI1729 120 I 1749 | 22 | — | 127 |
 
-51. Kuślińskie Olędry Michorzewo Kuślin 1741 1 wieś z bud. Rel. Posn. nr 30 V 1741 31 168 430, r. 1741, fol. 229  
+| 40 | Kawczyn Olędry | Oborzyska | Kawczyn | 1741 | wieś opustoszała | Rei. Cost. nr 177, r. 1742, fol. 210 | 15 X 1741 | 16 | — | 101 |
 
-52. Łęczne Olędry Zbąszyń Łęczno = — 29 166  
+| 41 | Kąkolewskie Olędry | Bukowiec | Kąkolewo | 1720 | wieś z bud | Rel. Cost. nr 214, r. 1781, fol. 81 i AW. A. 1 | 10 X 1720 | 59 | — | 330 |
 
-53. Łęskie Olędry Opalenica Łęczyce — — 25 192  
+| 42 | Kiączyńskie Olędry | Książ | Kiełczynek | 1772 | las | AW. A. I | 17 X1H772 | 20 | — | 152 |
 
-54. Maryanowo Zbąszyń Mariankowo — =— 7*  
+| 43 | Komorowo Olędry | Gnin | Komorówko | — | — | — | — | 31 | — | 190 |
 
-55. Michorzewskie Olędry Michorzewo Dąbrową razem z  
+| 44 | Konarskie Olędry | Książ | Konarzyce | 1135 | las | Rel. Posn. nr 628, r. 1789, fol, 578 | ” X11735 | 20 | — | 198 |
 
-56. Młyńskie al. Borowe Wolsztyn Młyńsko AW.dep.C.1, obow. 10 58 Olędry fol. 3 przyw. dla Kar- picka  
 
-57. Mostowskie Olędry Gnin Mościska al. Żdżar -—  
 
-58. Narożnik Mały OI. Ruchocice Narożnik 1737 AGH s. Wolsz- 10 XI 1737 30  
 
-59. tyn, maj. Ru- Narożnik Wiełki OIL. Ruchocice Narożnik chocice, vot. 50 =— III, fol. 41  
 
-60. Niemiecko-Czeskie OI. Zbąszyń Czeskie Nowe — —— 117  
 
-61. Nowawieś Śmigiel Nowawieś 1743 AGH. s. i maj. 5XII 1743 41 Śmigiel, vol.IV ŁGI:  
+<!-- annex sheet 0142 -->
 
 
-<!-- annex sheet 0143, tier mix -->
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-62. | Nowe Olędry Mosina Nowinki — — 10 — — — —  
+| 45 | Kopanki Olędry | Opalenica | Kopanki |   | — | — | — | 24 | — | 120 |
 
-63. | Nowodąbrowskie al. Opalenica Nowa Dąbrowa | 11 86 — — _ — — Jastrzębnickie OI.  
+| 46 | Kotusz Olędry | Wilkowo Polskie | Kotusz | 1729 | wieś z bud | Rel. Cost. nr 164, r. 1729, fol. 484 | 25 X 1729 | 23 | — | 159 |
 
-64. Nowojastrzębskie Ol. Zbąszyń Nowe Jastrzębsko —_— — 30 — 196 — —  
+| 47 | Krosna Olędry | Mosina | Krosno | 1780 | wieś opustoszała | AW. A. I | I V 1781 | — | 28 | — |
 
-65. | Oberskie Nowe OI. Obra Nowa Obra ok. 1762 AGH.s. Wolsz- UJ 19 _— 120 = tyn, maj. Obra, vol. 3. O. 10, fol. 13, 35  
+| 48 | Kruczyńskie Olędry | Nowemiasto | Kruczynek | — | — | — | — | ole | — | 121 |
 
-66. | Oberskie Stare OI. Obra Dolna Obra 1713 (?) AGH.s. Wolsz-| 1 V 1713 31 _ 199 _ tyn bra, v. IV, fol. 137  
+| 49 | Krzemieniewo | Oporowo | Krzemieniewo | 1754 | wieś 1 folw. z budynkami | Rel. Cost. nr 190, r. 1755, fol. 33 | TVII 1754 | 4 | — | 284 |
 
-67. | Ostrowo Śrem Ostrowo 1785 ta sama wieś | Rel. Cost. nr ||8IV 1785 17 104 — i mieszkańcy | 220, r. 1787, fol. 371  
+| 50 | Krzyż Olędry | Kębłowo | Krzyż |   | — | — | — | 31 | — | 174 |
 
-68. | | Książ Zakrzewice —_ 14 _ 114 Ostrowskie al. Zakrzew- — — — skie Olędry  
+| 51 | Kuślińskie Olędry | Michorzewo | Kuślin | 1741 | wies z bud | Rel. Posn. nr 430, r. 1741, fol, 229 | 30 V 1741 | 31 | Li | 168 |
 
-69. | Pecna Olędry Iłowiec Pecna 1729 las, zarośla Rel. Cost. |11 XI1729| 24 115 nr _ 165, r. 1730, fol. 823  
+| 52 | Łęczne Olędry | Zbąszyń | Łęczno | — | — | — | — | 29 | — | 166 |
 
-70. | Podgradowice Rakoniewice | Podgradowice |1729 gotowa rola Rel. Cost. nr | 27 VII 17 110 — 167, r. 1729, 1729 fol. 177  
+| 53 | Łęskie Olędry | Opalenica | Łęczyce | — | — | — | — | 25 | — | 109 |
 
-71. | Popowo Wilkowo Stare Popowo |1736(?) | wieś i folw. Rel. Cost. nr | 18 VIII 19 129 — Polskie z budynkami | 174, r. 1739, 1736 fol. 1118  
+| 54 | Maryanowo | Zbąszyń | Mariankowo | — | — | — | — | 7 | — | 4a u zac |
 
-72. | Pożegowskie Olędry ! Mosina Pożegowo — 9 = _— — — —  
+| 55 | Michorzewskie Olędry | Michorzewo | razem z Dąbrową | — | — | — | — | 3 | — | oO |
 
-73. | Proszkowo Olędry Prochy Pruszkowo 1746 wieś opusto- | AW. A. I 17 V1746| 13 83 _ szała  
+| 56 | Młyńskie al. Borowe Olędry | Wolsztyn | Młyńsko | — | — | AW.dep.C.1, fol. 3 | obow. przyw. dla Karnicka | 10 | — | 58 |
 
+| 57 | Mostowskie Olędry al. Żdżar | Gnin | Mościska | — | — | — | eye | — | — |   |
 
-<!-- annex sheet 0144, tier mix -->
+| 58 | Narożnik Mały OI | Ruchocice | Narożnik | 1737 | — | AGH s. Wolsz | 10 XI 1737 | 7 | — | 30 |
 
+| 59 | Narożnik Wiełki Ol. | Ruchocice | Narożnik | — | — | vyll, lila]. INuchocice, vol. III, fol. 41 |   | 3 |   | so |
 
-74. 14 14 Przychodzkie al. Bielaw- Zbąszyń Przychodzko 41 188 skie Olędry  
+| 60 | Niemiecko-Czeskie OI | Zbąszyń | Czeskie Nowe | — | — | — |   | zy | zzz | 1] |
 
-75. stwo 75 Puszczykowskie Olędry Parzęczewo Puszczykowiec 1746 gotowa rola I I AW. A. 12 1746 10 49  
+| 61 | Nowawieś | Śmigiel | Nowawieś | 1743 | — | AGH. s. i maj. Śmigiel, vol.IV | XII 1743 |   |   | a |
 
-76. Radoszkowskie Olędry Książ Radosz- 1753 las, zarośla Rel. Cost. 12111781 razem z nr 12 36 nsejzy kowem 215, r. 1782, fol. 351  
 
-77. Rakoniewice Rakonicwice Rakconicwicec- 1729 wieś Rel. Cost. 27 VII 5* | 814 opusto- nr Wieś szałą 164, r. 1729, 1729 fol. 177  
 
-78. 'Pis[og 78 Rataje Olędry Gnin Rataje 1740 wieś, częśc. Rel. Posn. 10 XI 17* nr zarosła 640, r. 1791, 1740 'z fol. 247 G 79  
 
-79. Reklińskic Olędry Siedlec Reklinek _. 21 130  
 
-80. Ręcko Wilkowo Reńsko 1728 wieś 1 folw. Rel. Cost. 29 X 1728 20 nr 115 Polskie z budynkami 167, r. 1732, fol. 205  
 
-81. Rojewskie Olędry Bukowicc Rojewo 11 13 — =  
+<!-- annex sheet 0143 -->
 
-82. Rudna. Olędry Kębłowo Rudno 20 109 — —  
 
-83. Słocińskie Olędry Grodzisk Słociniec 7 34 —— = —  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-84. Snowidowo Piaszkowo Snowidowo wieś bud. Rel. Posn. 3 VIT1760 18 106 z nr N 620, r. 1787, fol. 26  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-85. Soleckie Olędry Kębłowo Solec Nowy 24 117 = —  
+| 62 | Nowe Olędry | Mosina | Nowinki | — | — | — | — | o | Mm | p p" |
 
-86. Sosnowiec Olędry Śrem Sosnowiec — = —  
+| 63 | Nowodąbrowskie al. Jastrzębnickie OI | Opalenica | Nowa Dąbrowa | — | — | — | — | il | — | s |
 
+| 64 | Nowojastrzębskie OI | Zbąszyń | NoWe Jastrzębsko | — | — | — | — | JU | — |   |
 
-<!-- annex sheet 0145, tier mix -->
+| 65 | Oberskie Nowe Ol | Obra | Nowa Obra | ok. 1702 | — | AGH.s. Wolsztyn, maj. Obra, vol. 3. O. 10, fol. 13, 35 | sa Hm z „u g-— . di | 19 | — | 12U |
 
+| 66 | Oberskie Stare Ol | Obra | Dolna Obra | 1713 (?) | — | AGH.s. Wolsztyn, m. Obra, v. IV, fol. 137 | ł YN 1/15 | JI | — | 199 |
 
-87. | Sowińskie Olędry Mosina Sowinki 1742 las DWZP nr29,| 1742 _— 17 — s. 211  
+| 67 | Ostrowo | Śrem | Ostrowo | 1785 | ta sama wieś 1 mieszkańcy | Rel. Cost. nr 220, r. 1787, fol. 371 | LOLLY 1/89 | 1/ |   | 1U4 |
 
-88. | Olędry ! Książ Sroczewo 1743 role częścią Rel. Posn. nr '1 IIL1743] 22 —_ 139 Sroczewo zarosłe 633, r. 1790, fol. 270  
+| 68 | Ostrowskie al. Zakrzewskie Olędry | Książ | Zakrzewice | — | — | — | Swe uk 2 pe W due a in a | l4 | — | 114 |
 
-89. | Starodąbrowskie Olędry Opalenica Dąbrowa _— 25 154 — — — —  
+| 69 | Pecna Olędry | Iłowiec | Pecna | 1729 | las, zarośla | Rel. Cost. nr 165, r. 1730, fol. 823 | IL XLI(ZY | 24 | — | 119 |
 
-90. I Starojastrzębskie Olędry Zbąszyń Jastrzębsko 1710 Posener Tage-! 1712 45 — 282 — — Stare 12 (?) blatt z dn. | 18 III 1934  
+| 70 | Podgradowice | Rakoniewice | Podgradowice | 1729 | gotowa rola | Rel. Cost. nr 167, r. 1729, fol. 177 | 4ł Vlil 1729 | li | — | LIU |
 
-91. | Stefanowskie Olędry Zbąszyń Stefanowice 11 _— 36 — — — —  
+| 71 | Popowo | Wilkowo Polskie | Stare Popowo | 1730(?) | wieś 1 folw. z budynkami | Rel. (Cost. nr 174, r. 1739, fol. 1118 | lo VIII 1736 | 1Y | — | 1ZY |
 
-92. | Stodólsko Olędry Gościcszyn Stodolsko 1742 AGH s. Wolsz- [20 II 1742 18 — 90 = tyn, maj. Go- ścieszyn, vol. V  
+| 72 | Pożegowskie Olędry 1 | Mosina | Pożegowo | — | — | — | ny. PRE we e TT YN | Y | gaz | jęz MIR |
 
-93. | Strumiany Olędry Jeżewo Strumiany — 18 — 115 — =  
+| 73 | Proszkowo Olędry | Prochy | Pruszkowo | 1746 | wieś opustoszała | AW. A. 1 | 1/ Y 1140 | 15 | — | OJ |
 
-94. | Sucha Dębina Gnin Wola Ja- 1738 las, zarośla AW. Wioska |29.X 1738| 31 159 = błońska OI. B. 1  
 
-95. | Szarki Olędry Zbąszyń Szarki 1724 (?) nota w repert.| 6 VIII — — - — | arch.; dok. 1724 brak | Świącyńskie Gogolewo Świączyń 1745 zarośla Rel Cost. nr. | 1 I 1750 16 97  
 
-96. Olędry — 191, r. 1756, fol. 82  
 
-97. | Świętne Olędry Kębłowo Świętno 31 23 356 _ — — —  
 
-98. | Prochy Tarnowa 1712 gotowa rola | Rel. Cost. nr |5 VI 1712| 44 265 98 Tarnowa — 155, r. 1719/20, fol. 141  
 
+<!-- annex sheet 0144 -->
 
-<!-- annex sheet 0146, tier mix -->
 
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-99. Terespotockic Olędry Opalenica | Terespotockie _— | 22 178 — —  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-100. Tłockie Oledrv Wolsztyn i Nowe Tłoki 1751 (?) AGH Wolsz-| 15 VII 13 74 s. — tyn,maj.Tłoki,| 1751 v. I ,fol. 166  
+| 74 | Przychodzkie al. Bielawskie Olędry | Zbąszyń | Przychodzko | n | 7] | — | — | 41 | — | 165 |
 
-101. Troszczyńskie Olędry Opalenica Troszczyn _— 16 _— 122 — —  
+| 75 | Puszczykowskie Olędry | Parzęczewo | Puszczykowiec | 1746 | gotowa rola | AW. A | 12 I 1746 | 10 | — | 49 |
 
-102. Nowe Olędry Siedlec Nowa Tuchorza 1744 * zarośla AW. A. I 21 X 1744) 258 | — 206  
+| 76 | Radoszkowskie Olędry | Książ | razem z Radoszkowem | 1753 | las, zarośla | Rel. Cost. nr 215, r. 1782, fol. 351 | 12111781 | 12 | — | 36 |
 
-103. Stare Olędry Siedlec Stara Tuchorza 1703 zarośla, las AW. A. I] 2 II 1703 32 _— 176  
+| 77 | Rakoniewice | Rakonicwice | Rakcniewice- Wieś | 1729 | wieś opustoszałą | Rel. Cost. nr 164, r. 1729 | 27 vuI 1729 | 3 |   | — |
 
-104. Ujście Nowe Kopanica Nowe Uście 1719 ta sama wieś AW. Jaromicrz| 1 XI11719| 25 73 — 1 mieszkańcy B. 4 l )  
+| 78 | Rataje Olędry | Gnin | Ratajc | 1740 | wiICś, Częśc. zarosła | 1UoI. lili Rel. Posn. nr 040, r. 1791, fol. 247 | 10 XI 1740 | 17 | — | — |
 
-105. Ujście Stare Kopanica Stare Uście 1712 dto dto 1712 23 7 _—  
+| 79 | Reklińskie Olędry | Siedlec | Reklinek | — | LL 7 | — | — | 21 | — | 130 |
 
-106. Wilcz Olędry Obra Wilcze ok. 1762 _— 14 — 82 = —  
+| 80 | Ręcko | Wilkowo Polskie | Reńsko | 1728 | wieś 1 folw. z budynkami | Rel. Cost. nr 167, r. 1732, fol. 205 | e | 20 | — | 115 |
 
-107. Włościejewskie Olędry Włościcjewki Włościejewice 1783 las Rel. Cost. | 15 HI 15 — 130 nr 217, r. 1784, 1783 fol. 78  
+| 81 | Rojewskie Olędry | Bukowicc | Rojewo | — | — | — |   | 11 | cy | 73 |
 
-108. Zaborowo Dubin Zaborowo _— 10 _— 87 —  
+| 82 | Rudna. Olędry | Kębłowo | Rudno | — | — | — |   | 20 | — | 109 |
 
-109. Zakrzewko Olędry Zbąszyń Zakrzewko 16 | — = _ _— | |  
+| 83 | Słocińskie Olędry | Grodzisk | Słociniec | — | — | — |   | 7 | — | 34 |
 
-110. .Zdrogową Olędry Gościeszyn Zdrogowo _ 13 — 71 —  
+| 84 | Snowidowo N | Piaszkowo | Snowidowo | 1755 | wieś z bud | Rel. Posn. nr 620, r. 1787, fol. 26 | 3 VII1760 | 18 | — | 106 |
 
-111. Żabińskie Olędry Żabno Żabinko 1778 Cieplucha, 37 226 — — s. 283  
+| 85 | Soleckie Olędry | Kębłowo | Solec Nowy |   | — | — | — | 24 | — | 117 |
 
+| 86 | Sosnowiec Olędry | Śrem | Sosnowiec |   | — | — | — | — | — |   |
 
-<!-- annex sheet 0147, tier mix -->
 
 
-1. Barcinek Wierzenica Barcinek 1781 ta sama wieś AW. B. 1 1781 4 * 1 mieszkańcy  
 
-2. Białężyńskie Olędry Białężyn Białęgi 1748 las AW. B.59—60 29 TV 1748  
 
-3. Białokoskie Olędry Psarskie Białokoszyce las AW. B. 1 1792 ——  
 
-4. Bielawy Olędry Wronki Bielawy 1747 wieś zarosła AGH. s. Wron-| 28 III ki, m. Bielawy 1747 fol. 5ł  
+<!-- annex sheet 0145 -->
 
-5. Bolewickie Olędry Lwówek Bołewicko  
 
-6. Bronice Olędry Piłka Bronice las KI. XII. 6 II [16 II 1753 fol. 55  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-7. Brzekiniec Olędry Budzyń. Brzekińcem razem z  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-8. Bucharzewo Olędry Sieraków Bucharzewo zarośla AM. Sieraków,|] XI 1751 C.53, fol. 120  
+| 87 | Sowińskie Olędry | Mosina | Sowinki | 1742 | las | DWZP nr ZY, s. 211 | LI4Żż | p | li | 2 ge dg |
 
-9. Budziszewskic Wielkie Budziszewko Budziszewice las AW. B. 108 [2 IV 1746 31! Olędry  
+| 88 | Sroczewo Olędry ! | Książ | Sroczewo | 1/45 | role częścią zarosłe | Rei. Posn. nr 633, r. 1790, fol. 270 | b LIL 1145 | 2h | — | x |
 
-10. Bukowiec Olędry Sieraków Bukowce wieś opustO- AW. A.1i 18 IV 1692 szała AM. Sieraków, 1 C. 53, fol. 103] 1 XT 1751  
+| 89 | Starodąbrowskie Olędry | Opalenica | Dąbrowa |   | — |   | << „5 ie 4 c" | 40 | — |   |
 
-11. Trzciel Prądówka 1740 las: AM. Trzciel, [24 V 1740 Cegielskie Olędry A. 1  
+| 90 | Starojastrzębskie Olędry | Zbąszyń | Jastrzębsko Stare | 1/10 12 (?) | O NO | Posener laągeblatt z dn. 18 III 1934 | Lilź | 40 | — | ZOÓĆ |
 
-12. Chełmskie Olędry Pniewy Chełminko 1732 las Rel. Posn. 2 III 1732 24 * nr 435, fol. 230 i i nr503, fol. 183 11 XT1740  
+| 91 | Stefanowskie Olędry | Zbąszyń | Stefanowice | guszwęnnł p wo dA „jum | — | z z UP u mo a w LJ | —< TR LP Pw 4 guy A | il | — | JO |
 
-13. Chmielinka Lwówek Chmielinko 1776 wieś 1 folw. Rel. Cost. nr 28III m 50 z zasiewami 209, fol. 223  
+| 92 | Stodólsko Olędry | Gościcszyn | Stodolsko | L/4Ż | — | AGF s. WOIsztyn, maj. Gościeszyn, vol. V | ZU 111144 | 1O | — | JU |
 
+| 93 | Strumiany Olędry | Jeżewo | Strumiany | — |   |   | Pata . << py FL | Ke | — | 119 |
 
-<!-- annex sheet 0148, tier mix -->
+| 94 | Sucha Dębina | Gnin | Wola Jabłońska | I [38 | las, zarośla | AW. Wioska Ol. B. 1 | ZY MA 11350 | JI | — | 15Y |
 
+| 95 | Szarki Olędry | Zbąszyń | Szarki | 1/24 (*) |   | nota w repert. arch.; dok. brak | O Viil 1724 | 4d „g | — | £gYry |
 
-14. Chorzępowa Sieraków Chorzępowo 1753 wieś AM. Sieraków, 24 VI ta sama i mieszkańcy C. 6, fol. 161 1753  
+| 96 | Świącyńskie Olędry | Gogolewo | Swiączyń | I (40 | zarosla | Kel (ost. nr. 191, r. 1756, fol. 82 | 11 1iDv | 10 | /a a | o I a -bm |
 
-15. Czarne Olędry | "Trzciel Czarne 5 * — =  
+| 97 | Świętne Olędry | Kębłowo | Swiętno | po oą |   | HH pzm L I FZ p | nm wr w 4 e 4 LD | JI 4 4 | pw | JJU Ore |
 
-16. Czarne Olędry Mur. Goślina Czernice 12 — m  
+| 98 | Tarnowa | Prochy | Tarnowa | L/IŻ | gotowa rola | Kel. LGoOst. nr 155, r. 1719/20, fol. 141 | OJ VIIII1Z | 4 | — | 4ZVJ |
 
-17. Czerwonak Olędry Kicin Czerwonczyn AW. Kliny,C.3 1LIV1781 13'* =—  
 
-18. Daleszynko Lubosz Daleszynek TE  
 
-19. Dębowskie Olędry Sieraków Dębowicc ok. 1722 nieużytki AM. Sieraków, l XI 1751 11 C. 53, fol. 156  
 
-20. Dłuskie Nowe Olędry Przytoczna Nowe Dłusko 15 = —  
 
-21. Dłuskie Stare Olędry Przytoczna Stare Dłusko 1668, las AW. I 5 1688 A. VI  
 
-22. Drzewce Olędry Międzychód Drzewce 1724, las, zarośla AW. B. 2 2 11 1724 22 *  
+<!-- annex sheet 0146 -->
 
-23. Dziewczastruga Hgrkowo Dziewcza Struga 1745 las AW. B. 1028 1746 14  
 
-24. Filipowo Olędry Ryczywół razem Wy- 8 * z — szynkami  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-25. Folsztyn Wieleń Folsztyn ok. 1600; mokradła (?) AW. B. 2 l V 1677  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-26. Garganowo Mur. Goślina Garganowo ok. 1785 zarośla p ——  
+| 99 | Tcrespotockic Olędry | Opalenica | Terespotockie | — | — | pm | — | 22 | — | 175 |
 
-27. Gębickie Olędry Ryczywół Gębiczyn 1735 las, zarośla AW. A. I 11 XI 1735 42 120X 1744  
+| 100 | Tłockie Oledrv | Wolsztyn | Nowe Tłoki | 1751 (?) | — | AGH s. Wolsztyn, maj. Tłoki, v. I fol. 166 | 15 VII 1751 | 13 | — | 14 |
 
-28. Glinki Olędry Wytomyśl Glinno 1701 gotowa rola Rel. Posn. nr 11 XI 59 640, r. 1791, 1701 fol. 270  
+| 101 | Troszczyńskie Olędry | Opalenica | Troszczyn | — | — | — | — | 16 | — | 122 |
 
-29. Główno Olędry Poznań,św. Jan Główieniec  
+| 102 | Nowe Olędry | Siedlec | Nowa Tuchorza | 1744 | zarosla | AW. A. I | 21 X 1744 | 29 3 |   | 200 |
 
-30. Gogolice Olędry Biezdrowo Gogolice  
+| 103 | Stare Olędry | Siedlec | Stara Tuchorza | 1703 | zarośla, las | AW. A. ] | 2 II 1703 | 32 | — | 176 |
 
-31. Gorgoszewo Olędry Bytyń Gorgoszc wo  
+| 104 | Ujście Nowe | Kopanica | Nowe Uście | 1719 | ta sama wieś 1 mieszkańcy l ) | AW. Jaromicrz B. 4 | I XI 1719 | 29 | — | 13 |
 
-32. Grabowiec al. Nowina Lubasz Nowinv zarośla 5 VIII | Olędry 1765  
+| 105 | Ujście Stare | Kopanica | Stare Uście | 1712 | dto | dto | 1712 | 23 | — |   |
 
-33. | Grudzianki Olędry Lwówek Grydzianka l Razem z OIl.: Kolędzin, Wiewierczyn i Władyszyn.  
+| 106 | Wilcz Olędry | Obra | Wilcze | ok. 1762 | — | — |   | 14 | — | 82 |
 
+| 107 | Włościejewskie Olędry | Włościcjewki | Włościejewice | 1783 | las | Rel. Cost. nr 217, r. 1784, fol. 78 | 15 HI 1783 | 15 | — | 130 |
 
-<!-- annex sheet 0149, tier mix -->
+| 108 | Zaborowo | Dubin | Zaborowo | — | — | — | — | 10 | — | 87 |
 
+| 109 | Zakrzewko Olędry € | Zbąszyń | Zakrzewko | — | — | — | — | 16 | — | — |
 
-34. — — DWZP. 34 | Olędry Chodzież Trzaskowiec 1730 folwark AW. C. 3 3 XT 1730 _— 11  
+| 110 | Zdrogową Olędry | Gosścieszyn | Zdrogowo | — | — | mc | z—e 0 | 13 | — | 11 |
 
-35. | Olędry Chodzież Trzaskowiec 1730 folwark AW. C. 3 3 XT 1730 _— 11 35 Huta —  
+| 111 | Żabińskie Olędry | Żabno | Żabinko | 1778 | — | Cieplucha, s. 283 | Gym A cMceJZJZJZJcijzru Z ZŻZAX3ZZJZZ vo | 31 |   | 2206 |
 
-36. | Hutskie Olędryv Trzciel Zacłiodzko _ _ 30 — — m m Goślina ; Huciska _— 4  
 
-37. | Hutskie Olędry Mur. — _- — m  
 
-38. | Igrzna Ryczywół Igrzyna 1746 (?) AW. A. I 1746 12 _- — — | Jastrzębiec Parkowo Jaracz 1744 las AW. B. 2096 |5 XI 1744 16  
 
-39. Jarackie al. — — Olędry _—_—-T  
 
-40. | Jarosławiec Łódź Jarosławiec . — 3 — _— — — _  
 
-41. | Jasionna Olędry Wronki Jasionna 1735 (?) AGH.s. Wron-| 20 TV 24 _ = — | ki,maj.Jasion-| 1735 na, fol. 59  
+<!-- annex sheet 0147 -->
 
-42. | Jasionowe Olędry Trzciel Jasienicc 1701 las AW. A. I 2 II 1701 36 — <1 —  
 
-43. | Olędry Czarnków Gajewo 1763 KI. XII 13, 10 XII 16 43 Jędrzejewskie — — — fol. 239 1763  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-44. | Józefowo Olędry Ryczywół razem z Wy- 6*| — _ — — — - szynkami | | Goślina | Kamińsko _— 24  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-45. Kamińskie al. Pławińskie Mur. — — — m m Olędry  
+| 1 | Barcinek | Wierzenica | Barcinek | 1781 | ta sama wieś 1 mieszkańcy | AW. B. I | 1/6] | 4 | — | — |
 
-46. | Kamionka Olędry Chodzież Kamionka przed r.| rola częścią | AW. A. I 28 III — 14 — 1748 zarosła 1748  
+| 2 | Białężyńskie Olędry | Białężyn | Białęgi | 1748 | las | AW. B.99—6U | 49 TV 17/48 | 9 | — | — |
 
-47. | Kałędek Wieleń Kałędek 1714 folwark Landr. Czarn-| 26 IV 17 — — ków 3a, fol.25| 1714 | Katarzynki al. Uzarzew- | Uzarzewo Uza- 4* | —  
+| 3 | Białokoskie Olędry | Psarskie | Białokoszyce | — | las | AW. B. 1 | 1792 | o | — | — |
 
-48. | Katarzynki al. Uzarzew- | Uzarzewo Uza- 4* | — 48 razem z = — = — — skie Olędry rzewem  
+| 4 | Bielawy Olędry | Wronki | Bielawy | 1747 | wieś zarosła | AGH. s. Wronki, m. Bielawy, fol. 5ł | 26 III 1747 | 10 | — |   |
 
+| 5 | Bolewickie Olędry | Lwówek | Bołewicko | — | szatyn" | — |   | 19 |   |   |
 
-<!-- annex sheet 0150, tier mix -->
+| 6 | Bronice Olędry | Piłka | Bronice | 1753 | las | Kl. XII. O II, fol. 55 | 10 II 1/95 | — | — | O |
 
+| 7 | Brzekiniec Olędry | Budzyń | razem z Przekińcem | — | — | — | a p NU | — | — | 20 |
 
-49. Kaźmierzowskie al. Staj- Lubasz Pieczyska kowo Olędry  
+| 8 | Bucharzewo Olędry | Sieraków | Bucharzewo | 1/22 | zarośla | AM. Sieraków, C.53 fol. 120 | l XI 17/91 | O | — | — |
 
-50. Kliny Olędry Kicin Kliny ——  
+| 9 | Budziszewskic Wielkie Olędry | Budziszewko | Budziszewice | 1746 | las | AW. B. 106 | 4 IV 1/40 | SI" | — | — |
 
-51. Kobus Olędry Biezdrowo Kobus AGH.s. Wron- 1738 i ki,maj. Kobus, 8 I 1746 XIX.430,fol. 13  
+| 10 | Bukowiec Olędry | Sieraków | Bukowce | 1091 | wieś opustoszała | AW. A. 1 i AM. Sieraków, C. 53, fol. 103 | 18 IN 1092 1 XI 1751 | 1 | — | — |
 
-52. Kolędzin Olędry! Budziszewko Kołędzin  
+| 11 | Cegielskie Olędry | Trzciel | Prądówka | 1740 | las | AM. Trzciel, A. 1 | 24 V 1740 | 21 | — | — |
 
-53. Komorowskie Olędry Lwówek Komorowice las Rel. Posn. nr 19 VI 645, r. 1793, 1707 fol. 101  
+| 12 | Chełmskie Olędry | Pniewy | Chełminko | 1732 | las | Rel. Posn. nr 435, fol. 230 i nr503, fol. 183 | 2 ITI 1732 l 11 XT1740 | 24 | — | — |
 
-54. Kozielaski Olędry Wytomyśl Kozielaski Fd wies, . . gotowa AW. A. I 18 XI rola 1772  
+| 13 | Chmielinka | Lwówck | Chmielinko | 776 | wieś 1 folw. z zasiewami | Rel. Cost. nr 209, fol. 223 | 28T1I 1776 | 50 | — | — |
 
-55. Kozy Olędry Goraj Koza  
 
-56. Krosińskie Olędry Mosina Krosinko las AW. A. ] 30TX 1744  
 
-57. Krynica Olędry Przytoczna Skrzynice  
 
-58. Krystynka Chodzież Krystynka las, zarośla AW.Chodzież, 3 X1T1730 GC. 1  
 
-59. Krzywoleśne Olędry Lwówek Krzywy Las —  
 
-60. Kwiejcę Nowe Piłka Nowe Kwiejce KI. XII. 6.11, 8 XII fol. 48 1742 .  
+<!-- annex sheet 0148 -->
 
-61. Lasek Olędry Wiry Lasek 24  
 
-62. Lewickie Olędry Lewice Lewiczynek AW. A. I 2 II 1732 36 *  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-63. Lipie Olędry Wytomyśl Iipka Mała AW. Paproć, 1783 C. 2  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-64. Lipie Olędry Lwówek Lipka Wielka 22 ——  
+| 14 | Chorzępowa | Sieraków | Chorzępowo | 1753 | ta sama wieś 1 mieszkańcy | AM. Sieraków, C. 6, fol. 161 | 24 VI 1753 | 12 | — | — |
 
-65. Lubaskie Olędry Lubasz Miłkówko KI. XII.6.V, 1760 i fol. 116 10111773  
+| 15 | Czarne Olędry | Trzciel | Czarne | — | — | — | — | 5 | — | — |
 
-66. Lubieńskie Olędry | Trzciel Lubień | 1736 zarośla AW. B. I 6 V 1736 21 I  
+| 16 | Czarne Olędry | Mur. Goślina | Czernice | — | — | — | — | 12 | — | — |
 
+| 17 | Czerwonak Olędry | Kicin | Czerwonczyn | — | — | AW. Kliny,C.3 | ILIV1781 | 13 | — | — |
 
-<!-- annex sheet 0151, tier mix -->
+| 18 | Daleszynko | Lubosz | Daleszynek | r | — | — | — | 9 | — |   |
 
+| 19 | Dębowskie Olędry | Sieraków | Dębowicc | ok.17221 | nieużytki | AM. Sieraków, C. 53, fol. 156 | I XI 1751 | 11 | — | T |
 
-67. | Lubowo Biezdrowo 1764 AGH.s. 1764 | — maj. 28! | Łubowo ki, Poża- —  
+| 20 | Dłuskie Nowe Olędry | Przytoczna | Nowe Dłusko |   | — | — | — | 15 | — |   |
 
-68. | Lubowo Zarzeczne Biezdrowo | 1737 rowo, vol. III [24 V11737 %  
+| 21 | Dłuskie Stare Olędry | Przytoczna | Stare Dłusko | 1668 | las | AW. A. I | 5 VI 1688 | e) | — | — |
 
-69. | Łokacz Wieleń Łokacz | 1701 zarośla, łąki |Kat. XIII. IT, 9VTI170]) — 40 — — | fol. 420  
+| 22 | Drzewce Olędry | Międzychód | Drzewce | 1724 | las, zarośla | AW. B. 2 | 2 II 1724 | 22 | — | — |
 
-70. | Łoskońskie Stare Olędry | Długa Stary Łoskoń ; 1763(?) AW. B. 365 14IV1763) 5 — — Goślina i 1782  
+| 23 | Dziewczastruga | Hgrkowo | Dziewcza Struga | 1745 | las | ĄW. B. 1028 | 1746 | 14 | — |   |
 
-71. | Marienwald Przytoczna Gaj 1701 AW. B. I 26 1 1701 14 ' _ —  
+| 24 | Filipowo Olędry | Ryczywół | razem z Wyszynkami | o | — | — | — | $ | — | — |
 
-72. | Marianowo Olędry Wieleń Marianowo ; 1614 (?) | zarośla, łąki-- | Schulz W. II, [3 III 1614 _— _— s. 140; Kat. |i1V1677 II, fol. 593 |  
+| 25 | Folsztyn | Wieleń | Folsztyn | ok. 1600 | mokradła (?) | AW. B. 2 | l V 1677 | — | — | 57 |
 
-73. | Marlcwo Głuszyna Marlewo —_ — | 5 -— — _—  
+| 26 | Garganowo | Mur. Goślina | Garganowo | ok. 1785 | zarośla | — | — | 2 | — |   |
 
-74. | Marszewicc Rożno vo Marszewicc — i 8*| — — — -—  
+| 27 | Gębickie Olędry | Ryczywół | Gębiczyn | 1735 | las, zarośla | AW. A. I | 11 XI 1735 120X 1744 | 42 | — |   |
 
-75. | ; i 1784 _— AGH. Mię- |4 VI 1784. 22*+| Mechnacz Olędry Kwilcz Mechnacz s. — | dzychód, maj. | i Rozbitek, vol. | | II, fol. 32 |  
+| 28 | Glinki Olędry | Wy tomyśl | Glinno | 1701 | gotowa rola | Rel. Posn. nr 640, r. 1791, fol. 270 | 11 XI 1701 | 59 | " | 7 |
 
-76. | Mechocińskic Olędry Międzychód Muchocinek | 10 | — -— — — —  
+| 29 | Główno Olędry | Poznań,św. Jan | Główieniec |   | — | — | — | — | 12 |   |
 
-77. | Międzychód Mierzynck ' 1713 folw. częścią | AW. Meryń |21I11713| 21*| Meryń Nowy — zarosły Stary, B. 2  
+| 30 | Gogolice Olędry | Biezdrowo | Gogolice | — | — | — | — | 7 |   |   |
 
-78. | Meryń Stary Międzychód Mierzyn 1695 zarośla AW. B. I 14 III Qg*| -— 1695  
+| 31 | Gorgoszewo Olędry | Bytyń | Gorgoszc wo | — | — | — | — | 7 | l ' LI |   |
 
-79. | Miękowskie Olędry Owińska Miękówko _— 2* — — _- —  
+| 32 | Grabowiec al. Nowina Olędry | Lubasz | Nowinv | 1765 | zarośla | Kl. XII.6. V, fol. 56 | 5 VIII 1705 |   |   |   |
 
-80. | Milczewskie Olędry Chodzież Milcz 1730 las AW. A. I 1 V 1753 _ =  
+| 33 | Grudzianki Olędry l Razem z Ol.: Kolędzi | Lwówek n, Wiewierczyn | Grydzianka 1 Władyszyn | — | — | — | — | 10 |   | " |
 
-81. | Młyńskie Olędry Goraj Zamyślin — = = 13 _ —  
 
 
-<!-- annex sheet 0152, tier mix -->
 
 
-82. Naramowskie Olędry Poznań, św. Naramowice ok. 1760 AGH. s. Po- odpis przy- 7 * Wojciech znań, maj. wileju bez Naramowice, daty (pr. vol. I, fol. 5 1760)  
 
-83. Nieszawskie Olędry Białężyn Nicszawka 1723 AW. B. 1—5 11 XI1723 10 * e  
+<!-- annex sheet 0149 -->
 
-84. Nicwiemko Nowc Ryczywół 10 * u Niewicinko — ——  
 
-85. ee) Niewicmko K739 Stare Ryczywół ok. AG. r. 1739— 5* 40,f.686 (AW. Gębickie OI., A. 3)  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-86. Niwka Olędry Mosina Niwka 1776 ; wieś z bu- AW. A. I 6 VIII | l dynkami 1776 7  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-87. Nowawieś Olędry Poznań, św. Nowawieś 1748 (?) ! AGH. Poznań, 6IV1748 5* Wojciech Dolna m. Nowawieś, vol.IV,fol.11  
+| 34 | Herbardowo Olędry | Mielecn | Fierburtowo | OUI (7) | mokracdia (!) | AYY. D. 2, DpUOr. DWZP. 34 | 2 5 1UIilH PRD | — | — | 4Y |
 
-88. Nowe al. Wielłkokrobic- Goraj Krobielewo AW. A. 1-6 18 VII 1661; 29 lewskie Olędry ? 81 II! 1672; 23 II 1691; XM 1700 i 1 JIL 1701  
+| 35 | Huta Olędry | Chodzież | IrzasKOWIec | I /5U | Lolwark |   | O Al IFDOU | (a Tal | — | I I |
 
-89. Nowe Olędry (Oborniki Nowołoskoniec 1746 | zarośla i AW. B. 154 1746 15  
+| 36 | Hutskie Olędrv | I rzciel | ZŁ.aCNOGZKO | e | — | — | — | JU A | — | — |
 
-90. Nowe JD wory Olędry Wieleń Nowe Dwory 1601 las, łąki, i Rel. Posn. 21 IT 1601 64 nr zarośla | 140, r. 1601/2, i I V1677 'L659i1 AW.A. I  
+| 37 | Hutskie Olędry | Mur. Goshna | IlucCisKa | Fw 2 [me 2 "LL | — | 2 a .. A $ | 4 je 4 | 4 £% | — | — |
 
-91. Nowosileńskic Olędry Pszczew | Nowa Silna 38 * ! —  
+| 38 | Igrzna | Kyczywół | igrzyna | L/40(*) | — | AW. A. I | i (40 me rw 4 4 dd | 14 4 | — | — |
 
-92. | Nowydom Skwierzyna i Nowy Dwór i —  
+| 39 | Jarackie al. Jasurzębiec Olędry | Parkowo | Jaracz | 1/44 | las | AW. BD. 290 | J Al i it | Lo | — | — |
 
+| 40 | Jarosławicc | Łódź | Jarosławiec | dd gee A Mm 6 | — | p—<="ce 2 gim p war | /alVeat >... ej | O | — | — |
 
-<!-- annex sheet 0153, tier mix -->
+| 41 | Jasionna Olędry | Wronki R | Jasionna | LIDD ") | — | ZM 1, S. YYTON- ki,maj. Jasionna, fol. 59 | ZU IN 1735 | LT Paa | — | — |
 
+| 42 | Jasionowe Olędry | Trzciel | Jasieniec i | L/UI | las | AW. A. I | 4 LI 1łU1 45 WY Y | JU | — | 4 |
 
-93. | Obelżanki Wronki Obelżanki 9 — _— — — _ _  
+| 43 | Jędrzejewskie Olędry | Czarnków | Gajewo | i/ OŚ | — | Kl. XII 15, fol. 239 | IU Ali 1703 | fe «al | — | 1U |
 
-94. | Olszewniak al. Chmie- Ryczywół Chmielewo 9 — — — — — — lewo Olędry  
+| 44 | Józefowo Olędry | Ryczywół | razem z Wyszynkani | — | — | — | — | o” O 4 | — | — |
 
-95. | Orłowiec Goraj Orłowce 1723 las AW. A. 1 4 TX 1723 10 — —  
+| 45 | Kamińskie al. Pławiśńskie Olędry | Mur. Goślina | KaminskoOo |   |   |   | /ale sil. dd | 2 | — | 4 4a |
 
-96. | Wytomyśl Paproć 1701 las Rel. Posn. 11 XI 77 _— 96 Paproć Olędry nr — 640, r. 1791, 1701 fol. 270  
+| 46 | Kamionka Olędry | Chodzież | Kamionka | przed r. 1748 | rola częścią zarosła | AW. A. I | 40 Lil 1748 | — | — | l4 4 |
 
-97. | Pącheńskie Olędry Pszczew Pąchy _— — 38 — — _ —  
+| 47 | Kałędek | Wieleń | Kałędek | 1/14 | folwark | Landr. Czarnków 3a, fol. 25 | 20 IN 1714 | 4 «> | — | z |
 
-98. | Piaski Stary Dwór | Piaski 1730 las ——- | Rel. Posn. nr [20 V 1730| | 4 — — 641, r. 1792, | fol. 246 , — 14  
+| 48 | Katarzynki al. Uzarzewskie Olędry | Uza rze O | razem z Uzarzewem | — | — | — | — | 44 U | — | — |
 
-99. | Pilskie Olędry Goraj Piłka — _ — —_ _  
 
-100. | Piłka Parkowo razem Ja- 2 — — z — — — — , raczem  
 
-101. | Olędry Cihodzicż Pietronki 1772 KI. XII.6.T, 2 Piotronki — _ -— fol. 124/5  
 
-102. | Połajewskie Olędry Czarnków Połajewice ok. 1760 Dom.P.10820, 1766 6 -— — — fol. 39  
 
-103. | Popowo Biezdrowo Popowo 1708 wieś bud. |AGH.s. Wron- 1 IV1708) | 13* | -- = z ki, maj. Popo-| - wo, v. XIX. 199, fol. 32  
 
-104. | Przyborowo | Kaźmierz Przyl.orowo 1736 (?) AGH.s.Szamo- 20 VI 16 _— — tuły,maj. Mysz-| 1736 kowo, Tax Acten, fol. 44  
+<!-- annex sheet 0150 -->
 
 
-<!-- annex sheet 0154, tier mix -->
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-105. Psarskie Małe | wy, maj. Psar- 1748 skie, Tax Ac- . | ten, v. II, ' fol. 88—94  
+| 49 | Kaźmierzowskie al. Stajkowo Olędry | Lubasz | Pieczyska | — | — | — | — | d |   | — |
 
-106. Olędry Psarskie Psarce 1749 (?) dto 1749 16 106 Psarskie Wielkie Ryczywół Wy- 1744 (?) Repertorium 1744 39 *  
+| 50 | Kliny Olędry | Kicin | Kliny |   | — |   | $oz—"t dl guy / | 11” | — | — |
 
-107. Ryczywół Wy- 1744 (?) Repertorium 1744 39 * 107 Raczyńskie Olędry razem z szynkami Arch. P. w Po- znaniu; dok. brak  
+| 51 | Kobus Olędry | Biezdrowo | Kobus | I (36 e | — | AGH£l.s. Wronki,maj. Kobus, XIX.430 fol. 13 | L(JO 1 8 I 1746 | 0 | — | — |
 
-108. Sieraków Radusz 1700 AM. Sieraków, 1 XT 1751 35 108 Radoskie Olędry C. 53, fol. 78  
+| 52 | Kolędzin Olędry ! | Budziszewko | Kołędzin | — | — |   | y=" 2 a u © c | FL p | — | — |
 
-109. Rońskie Olędry Trzciel Rańsko z  
+| 53 | Komorowskie Olędry | Lwówek | Komorowice | 1707 | las | Kel. Fosn. nr 645, r. 1793, fol. 101 | 9 VI 1707 | 4 l | — | — |
 
-110. Komorniki Rcsnówko 21 110 Rosnowskie Olędry Roż- AW. B. 770 20 III 13 *  
+| 54 | Kozielaski Ołędry | Wytomyśl | Kozielaski | 1767 | wieś, gotowa rola | AW. A. I | Io XI 1772 | JŹ |   | gu |
 
-111. Roż- AW. B. 770 20 III 13 * 111 Rożnowskie Olędry Rożnowo razem z 1777 nowem  
+| 55 | Kozy Olędry | Goraj | Koza |   | — | c A UE po p" I | yno M MĘ zm mn zo il me . 4 | O | — | — |
 
-112. Olędry Przytoczna Poręba 1624 Rel. Posn. nr 1 I 1624 Róża 638, r. 1791, fol. 597 i l  
+| 56 | Krosińskie Olędry | Mosina | Krosinko | 1744 | las | AW. A. I | JVULX 1 (44 | 1 | — | — |
 
-113. Olędry Wytomyśl | Róża 1765 AW. Paproć, 21 XI 28 Różyńskie Nowa | G. 2, fol. 256 1767 : Rudka pod 1775 Rel. Posn. nr' 22 V 1775 16 *  
+| 57 | Krynica Olędry | Przytoczna | Skrzynice |   | — | Sz=—=—— < pw p pw «z p" | € p mo mm EP „I q— A" | 9 | — | zz] ne |
 
-114. Rudka Olędry Pniewy Pniewami 641, r. 1792, fol. 127 :  
+| 58 | Krystynka | Chodzież | Krystynka | 1730 | las, zarośla | AW .UChodzież, C. I | 3 XK11/OU |   | — | O |
 
-115. Sąpoln'a Olędry Lwówek Sępolno 11 115 Stare Górzyc- Wytomyśl Sękowo Rel. Posn. nr 11 XI 38  
+| 59 | Krzywoleśne Olędry | Lwówek | Krzywy Las |   | — | Eine p py p p zn nn | " et p" „e sin NH Ue | li | — | yny W pm |
 
-116. Stare Górzyc- Wytomyśl Sękowo Rel. Posn. nr 11 XI 38 116 Sękowo al. kie Olędry 643, r. 1792, 1700 i fol. 53 i  
+| 60 | Kwiejcę Nowe | Piłka | Nowe Kwiejce | 1742 | las | Ki. X11.0.11, fol. 48 | O AlI . 1742 | " go £ | — | li |
 
-117. Olędry Trzciel | Sierczynck 43 117 Siereckie —  
+| 61 | Lasek Olędry | Wiry | Lasek |   | — | Fz=—=—=— me z co z PI | ——<€< € Ps uu" U s A s" | L4 | — | — |
 
-118. Olędry Mur. Goślina brak AW. B. 911 24 XI 66I 118 Sikorce 1791  
+| 62 | Lewickie Olędry | Lewice | Lewiczynek | 1732 | las | AW. A. I | 4 IL 1D5Z | 50” | — | — |
 
+| 63 | Lipie Olędry | Wytomyśl | lipka Mała | 7 | las | AW. Faproc, C. 2 | l (3 | LD | — | — |
 
-<!-- annex sheet 0155, tier mix -->
+| 64 | Lipie Olędry | Lwówek | Lipka Wielka | — | — | nm Um m c ww au a | d guy R o | Li | — | — |
 
+| 65 | Lubaskie Olędry | Lubasz | Miłkówko | 1755 | — | Kl. X11.0.Y, fol. 116 | I [OU 1 KULE | i 4 PAST! | — | — |
 
-119. | Skrzvdlewo Karionna Skrzydlewo ta wieś | AGH. Mic-| 29 IV 22*+ | - sama s. — i mieszkańcy | dzychód, maj.| 1785 Skrzydlewo, v. I, fol. 27  
+| 66 | Lubieńskie Olędry 1 Osada powstała przez | Trzciel odłączenie się « | Lubień d Budziszewskich | 1730 Olędrów | zarośla | AW. D. I | LO r 1/50 | 41 | — | — |
 
-120. | Sławice Łopuchowo Sławica _— Q _ — _—  
 
-121. | Słonawskie Olędry Oborniki Słonawy las, zarośla Rel. Posn. | 1 I 1707 Y nr — 635; r. 1790, fol. 316  
 
-122. | Smolary Olędry ! Budziszewko Smolarki 20 — — — —  
 
-123. | Sowiagóra Olędry Międzychód Sowia Góra AW. B. 2,C. 216 111702| 12*; — __  
 
-124. | Stary Folwark Olędry Trzciel Stary Folwark 10 _ = — —  
 
-125. | Stobnickie al. Borownic- | Stobnica Stobnicko las (?) 991 20 VI 14 AW. B. kie Olędry 1744 —  
+<!-- annex sheet 0151 -->
 
-126. | Stróżewskie Olędry Chodzież Stróżcwice las I 4 V 1730 AW. A. _ _—  
 
-127. | Strychowskie Oiędry Międzychód Stryszyn las Rel. Posn. ! 11 XI 15*| ne — 638, r. 1791, 1686 fol. 908 ,  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-128. | Strzeleckie Olędry Chodzicż Strzelczyki las AW. C.3,f.9! 1 V 1753 — —  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-129. | Suchc Olędry Lwówek Błaki 19 _ _ — —  
+| 67 | Lubowo | Biezdrowo | Łubowo | 1764 | — | AGH.s. Wronki, maj. Poża | 160ITV 17604 | 28 1 | — | — |
 
-130. | Szklana Huta Olędry Wielcń Huta Szklana zarośla Kat. II. fol. 18 IV — — 242 1716  
+| 68 | Lubowo Zarzeczne | Biezdrowo |   | 1737 | — | rowo, vol. III | 24 V11737 |   |   |   |
 
-131. | Szklana Huta Olędry Ryczywół razem Wy- AC.r. 1739/40, 7+ | z — _ — szynkami fol. 686  
+| 69 | Łokacz | Wieleń | Łokacz | 1701 | zarośla, łąki | Kat. XIII. II, fol. 420 | 9 VII1701 | — | — | 40 |
 
-132. | Szklanohutskic Olędry Trzciel Szklarka zarośla AW. A I. 2 11 1720 19 _— Trzcielska 12 X 1720  
+| 70 | Łoskońskie Stare Olędry | Długa Goślina | Stary Łoskoń | 1763 (?) | — | AW. B. 365 | 14TV 1763 i 1782 | — | I | — |
 
+| 71 | Mariecnwald | Przytoczna | Gaj | 1701 | — | AW. B. I | 20 1 1701 | 14 | — | — |
 
-<!-- annex sheet 0156, tier mix -->
+| 72 | Marianowo Olędry | Wieleń | Marianowo | 1614 (?) | zarośla, łąkai | Schulz W. II, s. 140; Kat. II, fol. 593 | 3 III 1614 1 V1077 | — | — | 24 |
 
+| 73 | Marlcwo | Głuszyna | Marlewo | — | — | — | — | D | — | — |
 
-133. Świniary Olędry | Skwierzyna Świniarki | 1619 Werner, Steffa- | 28 ni, s. 372  
+| 74 | Marszewicc | Rożno vo | Marszcwice | — | — | — | — | 8 ' | — | — |
 
-134. | Tarnowiec Lwówek Tarnowiec —  
+| 75 | Mechnacz Olędry | Kwilcz | Mechnacz | 1784 | — | AGH. s. Micdzychód, maj. Rozbitek, vol. II, fol. 32 | 4 VI 1754 | 22 |   |   |
 
-135. Teressowo al. Ludomskic Ludomy Ludomicko 1748 AW. Ludeom, 28 VI Olędry B. 394 1754 |  
+| 76 | Mechocińskic Olędry | Międzychód | Muchocinek | — | — | — | — | 10 | — | — |
 
-136. Tuchola Olędry | Sieraków Tuchola 1740 las AM. Sieraków, I XI 1751 C. 53, fol. 95  
+| 77 | Meryń Nowy | Międzychód | Mierzynck | 1713 | folw. częścią zarosły | AW. Meryń Stary, B. 2 | 2 I1 1713 | 21 | — | — |
 
-137. Twardowo Olędry Skórzewko Twardowo , — — ———  
+| 78 | Meryń Stary | Międzychód | Mierzyn | 1695 | zarosla | AW. B. I | 14 III 1095 | Y | — | — |
 
-138. Ujskie Olędry ' Ujście Ługi Ujskie 1597 zarośla, AW.CG.2.1, 16 IV 41 mo- kradła fol. 29; Inscr. 1597; Valc. nr 85, 20 I 1637; r. 1663—74, 4 I 1701 402. AW. C. I i 1763  
+| 79 | Miękowskie Olędry | Owińska | Miękówko | — | — | — | — | 2 | — | — |
 
-139. Uścikowskie Olędry ; Oborniki Uścikowiec 1714: zarośla, las Dom. P. 6755, 1714 fol. 15  
+| 80 | Milczewskie Olędry | Chodzież | Milcz | 1730 | las |   | 1 V 1753 | — | — | 12 |
 
-140. Węgielna Olędry i Lwówek Węgiclna 1718 las Rel. Posn. nr 10 XI 641, r. 1792, 1718 1 h fol. 823 i h  
+| 81 | Młyńskie Olędry | Goraj | Zamyślin | — | — | — | — | 13 | — | — |
 
-141. Wiewierczyn Olędry ! i Budziszcwko Bu- i razem z _— . dziszewicami  
 
-142. N 42 Wizany ' Wieleń Wizany między 17 r. 1718 a 1741  
 
-143. Władyszyn Olędry ! Budziszewko Władyszyn ——  
 
-144. Wojnowskie Olędry Długa Goślina Wojnówko ok. 1731 Rel. Posn. nr 393, r. 1732, fol. 57  
 
-145. Wymyślanka Olędry Lwówck Wymyślanka 1721 las Rel. Posn. M XI nr 641, r. 1792, 1721 fol. 260  
 
+<!-- annex sheet 0152 -->
 
-<!-- annex sheet 0157, tier mix -->
 
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-146. Wyssogotowo = — — — Olędry | Olędry Skórzewko Zakrzewo 1742 grunty opu- | Rel. Posn. nr | 11 XI 27 _ —  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-147. | Olędry Skórzewko Zakrzewo 1742 grunty opu- | Rel. Posn. nr | 11 XI 27 _ — 147 Zakrzewo stoszałe 626, r. 1788, 1747 fol. 404  
+| 82 | Naramowskie Olędry | Poznań, św. Wojciech | Naramowice | ok. 1760 | — | AGH. s. Poznań, maj. Naramowice, vol. IT, fol. 5 | odpis przywileju bez daty (pr. 1760) |   | — | — |
 
-148. | Pnicwy Zamorze 1771 wieś bud. Rel. Posn. nr |4 VI 1771 20 _— 148 Zamorze z — 641, r. 1792, fol. 163 I | Olędry Sieraków Zatom Nowy |1751 zarośla AM. Sieraków, I X1 1751 16 —  
+| 83 | Nieszawskie Olędry | Białężyn | Nicszawka | 1723 | las | AW. B. 1-5 | 11 XI1723 | 10 | — | — |
 
-149. | Olędry Sieraków Zatom Nowy |1751 zarośla AM. Sieraków, I X1 1751 16 — 149 Zatom Nowy | — C.53,fol. 131 | | Zawadzkie al. Gościcjew- | Ryczywół Zawady 1745 grunty AW.B.253—6| 29 VI 91| _  
+| 84 | Nicwiemko Nowc | Ryczywół | RY ery I | — | — | — | — | 10 | — | — |
 
-150. za- _— skie. Olędry rosłe 1745  
+| 85 | Niewienko Stare | Ryczywół | J a VZ PYZY zz | ok. [739 | — | AG. r. 1739— 40,f.686 (AW. Gębickie Ol., A. 3) | — | 5 *« | — | — |
 
-151. | Zdroje Olędry Biezdrowo Zdroje — - — = — — — | Wytomyśl' Przyłęk 1704 las Rel. Posn. nr 1704 48  
+| 86 | Niwka Olędry | Mosina | Niwka | 1776 ? | Ą ę wies z budynkami | AW. A. I | 0 VIII 1770 | 10 |   | — |
 
-152. | Wytomyśl' Przyłęk 1704 las Rel. Posn. nr 1704 48 152 Zielonka al. Przyłęk — — Olędry 642, r. 1792, fol. 7 | | Mur. Goślina | brak T =  
+| 87 | Nowawieś Olędry | Poznań, św. Wojciech | Nowawieś Dolna | 1748 (?) | — | AGH. Poznań, m. Nowawieś, vol.IV,fol.11 | 6 IV 1748 | h | — |   |
 
-153. Zielończane al. Traktowe — — — — —  
+| 88 | Nowe al. Wielkokrobiclewskie Olędry ? | Goraj | Krobielewo | EE | — | AW. A. 1-0 | 18 VII 1661; 81 II! 1672; 23 II 1691; XM 1700 i 1 JIL1701 | 29 | — | — |
 
-154. | Sobota Złotkowo 1751 „grunt zarośla-| AW. A. I 26 III 14 154 Złotkowo Olędry = — mi zarosły” 1752 | Goślińczane | Mur. Goślina | Złotoryjsko 13 —  
+| 89 | Nowe Olędry | (Jborniki | Nowołoskoniec | 1746 | zarośla | AW. B. 154 | 1746 | 15 | — | — |
 
-155. Złotoryja al. — — — — . —  
+| 90 | Nowe 4Dwory Olędry | Wieleń | Nowe Dwory | 1601 | las, łąki, zarośla | Rel. Posn. nr 140, r. 1601/2, f 6591 AW.A. I | 21 IT 1601 i I V 1677 | yz |   | 64 |
 
-156. | Zwierzyniec Olędry Sieraków — — C. 53, fol. 144  
+| 91 | Nowosileńskie Olędry | Pszczew | w L] Nowa Silna | l | — | — | — | 38 | — | — |
 
+| 92 | Nowydom | Skwierzyna | Y 2 NoOwy Dwór | m | — | — | — | — | Ó | — |
 
-<!-- annex sheet 0158, tier mix -->
 
 
-1. | Czapury? Głuszyna 1747  
 
-2. Goślina Głębocko 1743 wICŚ AW. A.1—2 2 XI1743 11 2 | Głębockic Olędry 9 Mur. i11 X 1744  
 
-3. | Kiszewo Kiszewko 1697 gotowa rola AW. B. 339 20 XII 3 Kiszewko* 1697  
 
-4. | Lubasz Kruteczck 1727 las KI. XII. 6. V, 11 X 1727 4 Króteckie Olędry * fol. 36  
+<!-- annex sheet 0153 -->
 
-5. | Kiekrz Krzyżowniki KI. M. 10 XI Krzyżewniki5 1786 Ostrówki 1750 folwark KI. XII.6.1, 1 VI11750 21  
 
-6. | Ostrówek © Chodzież | fol. 62  
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
-7. | Wronki Rzecień 1697 las AGH. sąd 8 V 1697 7 Rzecień Olędzry ? | Wronki, naj. | Rzecień, f. 40  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-8. | Suchylas Chojnica Suchy Las KI. M. i Dom. 11 XI P. 8515 1781  
+| 93 | Obelżanki | Wronki | Obelżanki | — | — | — | — | y | ” | — |
 
-9. | Trojanowskic Olędry 3 Mur. Goślina | Głę- AW. B. 1037 5 V111788 razem z bockiem 1 Razem z olędrem zamieszkałym za wsią na miejscu Trzy Góry.  
+| 94 | Olszewniak al. Chmielewo Olędry | Ryczywół | Chmielewo | — | — | zy, p me wm po p | e SĄ FI pon «aż u J dd | " POZY | m4 w | — |
 
+| 95 | Orłowiec | Goraj | Orłowce | 1/23 | las | AW. A. 1 | 41a 1/29 | IU | — | — |
 
-<!-- annex sheet 0159, tier mix -->
+| 96 | Paproć Olędry | Wytomyśl | Paproć | 1701 | las | IKel. Posn. nr 640, r. 1791, fol. 270 | I] Ai 1701 | li | — | — |
 
+| 97 | Pącheńskie Olędry | Pszczew | Pąchv | — | — |   | Fu" "c p. e m EE e "o | JO |   | — |
 
-1. | Janikowo3 | Kicin Janikowo | — — | 9*+] — — — =  
+| 98 | Piaski | Stary Dwór | Piaski | 1730 | las _——" | Kel. Fosn. nr 641, r. 1792, fol. 246 | ZU V I/3U |   | Ł | — |
 
-2. | Jasień * Swarzędz Jasin 20 — — — — — —  
+| 99 | Pilskie Olędry | Gora) | Piłka | — | — | — | — | i4 | — | — |
 
-3. | Łoskońskie Nowe OI. 5 Długa Goślina | Stary Łoskoń 1733 (?) | las AW. B.366—7 | 1793 7* | — — 4 | Tuczno Olędry $ Mur. Goślina | Tuczno | 0 2  
+| 100 | Piłka | Parkowo | razem z Jaraczem | — | — | do" ee e pepe p o | — | Ź | — | ” a |
 
-4. | Tuczno Olędry $ Mur. Goślina | Tuczno | 0 2 — — — — — | | Ogółem | 2.216 38 514 | |  
+| 101 | Piotronki Olędry | (ihodzicż | Pietronki | 1772 | — | Kl. X11.0.1, fol. 124/5 | SS=" di dim R Ji | MZ | — | l |
 
-10. | Trzydomy I! : Trzy Domy zarośla AW. CG. 1, 15 IV = = — ; fol. 13 1755  
+| 102 | Połajewskie Ołlędry | Czarnków | Połajewice | ok. 1760 | — | Dom.P.108ZU, fol. 39 | i (OO | 6) | — | — |
 
-11. ; Wiorek? Głuszyna Wiorck 1754 (?) | Bór., s. 308 |4 III 1754, 11 _— — _— |  
+| 103 | Popowo | Biezdrowo | Popowo | 1708 | wieś z bud | AGfl.s. Wronki, maj. Popowo, v. XIX. 199, fol. 32 | FIN 1106 | 15” | — | — |
 
-| Razem z poprzedn. |2.178 38 514 | |  
+| 104 | Przyborowo | Kaźmierz | PrzyLosrowo | 1736 | — | AGrFEI.s.>zamotuły,maj. Myszkowo, Tax Acren, fol. 44 | 20 VI 1730 | 10 | — | — |
 
-Osady o charakterze nieokreślonym  
+
+
+
+
+
+<!-- annex sheet 0154 -->
+
+
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| 105 | Psarskie Maie Ulędry | r'sSarsKie | PsSarKI | SNY | — | ZMITLIZe"- 5a. Z LIU" wy, maj. Psarskie, Tax Acten, v. I], fol. 88—94 | 1748 | a” 4 > |   |   |
+
+| 106 | Psarskie Wielkie Olędry | Psarskie | Psarce | 1/4Y(*) | — | dalo | 1:40 4 Fry 4 4 | Lo aa | 'a' | — |
+
+| 107 | Raczyńskie Olędry | Ryczywół | razem z Wyszynkami | 1/44(") | — | Kepertorium Arch. P. w Poznaniu; dok. brak | l [+4 4% <y7TY 1rmą | JI p | < | — |
+
+| 108 | Radoskie Olędry | Sieraków | Kadusz | 1 (VU ś | — | ZM. SICTAKOW, C. 53, fol. 78 | I Ak GEJI | JJ 4 p | — | — |
+
+| 109 | Rońskie Olędry | Trzciel i | KRańsko |   | — | — | — | lo a | — | 5 |
+
+| 110 | Rosnowskie Olędry | Komorniki | Rcsnówko |   | — | —"" s €waY u py p | «> YTY | 1 1% 4% | — | — |
+
+| 111 | Rożnowskie Olędry | Rożnowo ! | razem Zz KRożnowem | pozy " M dB | — | 4VY. Db. FU | ZY Lli1 1777 | ID” O | ZA | — |
+
+| 112 | Róża Olędry | Przytoczna | Poręba | l1024 o | — | KXEI. FOSNn. NT 638, r. 1791, fol. 597 | l i 102% | pe 0 |   |   |
+
+| 113 | Różyńskie Olędry | Wytomysl | NoOwa Róża | 1705 | las | AW. Faproc, C. 2, fol. 256 | 41 Al 1707 | 4Ó 1+>w% | — | — |
+
+| 114 | Rudka Olędry | Pniewv | Rudka rod Pniewami | L//D | las | IKei. Fosn. nr 641, r. 1792, fol. 127 | 44 NY 1410 | lo 4% | — | — |
+
+| 115 | Sąpoln'a Olędry | Lwówek | Sępolno | „dB ge AU | —c= z p" | Giszy z a zu" | 44 7 | li zie) | — | — |
+
+| 116 | Sękowo al. Stare Górzyckie Olędry | W vtomyśl | Sękowo | IL /UU | wWIES | el. FOsn. nr 643, r. 1792, fol. 53 | 1ź 4<xL 1700 | JO A | — | — |
+
+| 117 | Siereckie Olędry | Trzciel | Sierczyncek | — | — | w. v. 2 m 4 4 | 4 <<" T | O O | — | — |
+
+| 118 | Sikorce Olędry | Mur. Goślina | brak |   | — | AW. Db. YI | 4% 41 1791 | 7h |   | — |
+
+
+
+
+
+
+<!-- annex sheet 0155 -->
+
+
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| 119 | Skrzydlewo | Kamionna | Skrzydlcwo | 1785 | ta sama wieś i mieszkańcy | AGH. s. Międzychód, maj. Skrzydlewo, v. I, fol. 27 | 29 IV 1785 | 22 | — | — |
+
+| 120 | Sławice | Łopuchowo | Sławica | — | — | — | — | e | — | — |
+
+| 121 | Słonawskie Olędry | Oborniki | Słonawy | 1700 | las, zarosła | Rel. Posn. nr 635; r. 1790, fol. 316 | I I 1707 | 9 | — | — |
+
+| 122 | S$molary Olędry ! | Budziszewko | Smolarki | — | eny o | — | — | 20 | — | — |
+
+| 123 | Sowiagóra Olędry | Międzychód | Sowia Góra | 1702 ?) | — | AW. B.2,C.2 | 16 II 1702 | 12 | — | — |
+
+| 124 | Stary Folwark Olędry | Trzciel | Stary Folwark | — | — | — | — | 10 | — | — |
+
+| 125 | Stobnickie al. Borownickie Olędry | Stobnica | Stobnicko | 1737 | las (?) | AW. B. 991 | 20 VI 1744 | 14 | — | — |
+
+| 126 | Stróżewskie Olędry | Chodzicż | Stróżewice | 1730 | las | AW. A. I | 4 V 1730 | — | — | 49 |
+
+| 127 | Strychowskie Oiędry | Międzychód | Stryszyn | 1080 | las | Recl. Posn. nr 038, r. 1791, fol. 908 | IIXI 1086 | 15 | — | — |
+
+| 128 | Strz:leckie Olędry | Chodzicż | Strzelczyki | 1735 | las | AW. GC. 3, f. 9 | I V 1753 | — | — | 11 |
+
+| 129 | Suche Olędry | Lwówek | Błaki | — | — | — | — | 19 | — | — |
+
+| 130 | Szklana Huta Olędry | Wielcń | Huta Szklana | 1716 | zarośla | Kat. II. fol. 242 | 18 IV 1716 | — | — | 33 |
+
+| 131 | Szklana Huta Olędry | Ryczywół | razem z Wyszynkami | ok. 1739 | — | fol. 686 | — | 7 | — | — |
+
+| 132 | Szklanohutskic Olędry | Trzciel | Szklarka Trzcielska | 1720 | zarośla | AW. A I | 2 111720 12 X 1720 | 19 | — | — |
+
+
+
+
+
+
+<!-- annex sheet 0156 -->
+
+
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| 133 | Świniary Olędry | Skwierzyna | Świniarki | 1619 | — | Werner, Steffani, s. 372 |   | 28 |   |   |
+
+| 134 | Tarnowiec | Lwówek | Tarnowiec | — | — |   |   | g |   |   |
+
+| 135 | Teressowo al. Ludomskic Olędry | Ludomy | Ludomicko | 1748 | — | AW. Ludem, B. 394 | 28 VI 1754 | 11 |   |   |
+
+| 136 | Tuchola Olędry | Sieraków | Tuchola | 1740 | las | AM. Sieraków, C. 53, fol. 95 | I XI1751 | 13 |   | gz=— |
+
+| 137 | Twardowo Olędry | Skórzewko | Twardowo | 4 | — | — | — | a | — | — |
+
+| 138 | Ujskie Olędry | Ujście | Ługi Ujskie | 1597 | zarośla, mokradła | AW.C.2.1, fol. 29; Inscr. Valc. nr 85, r. 10663—=74, 402. AW. C. I | 16 IV I 597; 20 I 1637; 4 I 1701 i 1763 | — | — | 41 |
+
+| 139 | Uścikowskic Olędry | Oborniki | Uścikowiec | 1714 | zarośla, las | Dom. P. 6755, fol. 15 | 1714 | 15 | — | — |
+
+| 140 | Węgielna Olędry | Lwówek | Węgielna | 1718 | las | Rel. Posn. nr 641, r. 1792, fol. 823 | 10 XI 17186 | 34 | — | — |
+
+| 141 | Wiewierczyn Olędry ! | Budziszewko | razem z Budziszewicami |   | — | — | — | — | — | — |
+
+| 142 | Wizany | Wieleń | Wizany | między r. 1718 a 1741 | — | — | — | — | — | 17 |
+
+| 143 | Władyszyn Olędry ! | Budziszewko | Władyszyn | — | — | — | — | — | — | — |
+
+| 144 | Wojnowskie Olędry | Długa Goślina | Wojnówko i | ok. u | — | Rel. Posn. nr 393, r. 1732, fol. 57 | — | T | — | — |
+
+| 145 | W ymyślanka Olędry | Lwówek | Wymyślanka | 1721 | las | Recl. Posn. nr 641, r. 1792, fol. 260 | M XI 1721 | 12 ed | — | ” |
+
+
+
+
+
+
+<!-- annex sheet 0157 -->
+
+
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| 146 | Wyssogotowo al. Czarne Olędry | Skórzewko | Wysogotowo | pozy lil mr £ | — | b sz b s I | 44 7% 'vY | 1i yy | — | Uzgyzo RY > |
+
+| 147 | Zakrzewo Olędry | Skórzewko | Zakrzewo | L(A42 | grunty Opustoszałe | IXCI. IOS5II. IU 626, r. 1788, fol. 404 | 1l xl 1747 A Tt YYY 4077794 | 4a ł /a a! | — | — |
+
+| 148 | Zamorze | Pnicwy | Zamorze | Lili] | wies Zz DUM | IXCI. LUOSN. I 641, r. 1792, fol. 163 | VILLI 4+ 477 dirt | U 141 | — | — |
+
+| 149 | Zatom Nowy Olędry | Sieraków | ZLatom iNOwy | I/O] | zarosla | LVL. JICIAKÓOW, C.53,fol.131 | I <xLIIEvEJI aTa 22 | iv O 1 | — | — |
+
+| 150 | Zawadzkie al. Gościejewskie. Olędry | Kyczywói | Zawady | 1/40 | gruniy zZarosłe |   | «43 YI 1745 | dg | — | — |
+
+| 151 | Zdroje Olędry | Biezdrowo | Zdroje | mm e. dd due „e a |   | em u" b >» s 7 R | 4 r A | AO | — | — |
+
+| 152 | Zielonka al. Przyłęk Olędry | Wytomysś!' | Przyłęk | l (U4 | las | IXCil. KOSIi. IlIi 642, r. 1792, fol. 7 | 1iv% | %O ry | — | — |
+
+| 153 | Zielończane al. Traktowe | Mur. Goslina | brak | — | — | — | — | i | — | — |
+
+| 154 | Złotkowo Olędry | Sobota | Ziotkowo | l (91 | „grunt zarosiami zarosły” |   | ŁZY 111 1752 | 1 *% 44 | — | — |
+
+| 155 | Złotoryja al. Goślińczane | Mur. Goslina | ZAOtOryJjsko | — | — | — | — | 1O | — | — |
+
+| 156 | Zwierzyniec Olędry | Sieraków | Z.wierzenicc | L/9] | zarosia | AM. 5ICTaKOW, C. 53, fol. 144 | IL ZEL l1iJI | SE R R" ŚĆ TN """R"" po pz | Geno R "ZJ :IŻ R FR | gazo Z ZE 2. A gs. 1 |
+
+
+
+
+
+
+<!-- annex sheet 0158 -->
+
+
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| 1 | Czapury”? | Głuszyna | Czapury | Ok. TT | LL] g | A«xYY. D. id s %.a" 4 4 (a' | śś vYAKLŻZ 1747 *y STY 5P7TASY | Z dd i 11 | — | — |
+
+| 2 | Głębockic Olędry | Mur. Goślina | Giębocko | 1/4) | WICS R b | MY. AM. o. av.” TE > ">> | 44 4x1 Li'TO 111 X 1744 JO SZTT | zl 'a' |   | — |
+
+| 3 | Kiszewko 4 | Kiszewo | KIszewko | 1091 | gotowa Iola | AYvwWY. D. JQJDJI "e. ZY 4 4 | SALI 1697 14 s 179077 | DU 1*+0 |   |   |
+
+| 4 | Króteckie Olędry | Lubasz | Kruteczck | LiZl | ias | IXI. MII.U. Y, fol. 36 | LI AMillElI 4/5 77 TY | 1J s | — | ZZRZŹDZZZIIY _————< |
+
+| 5 | Krzyżcwniki? | Kiekrz | Krzyżowniki | ” | ZZ e ft I | Kl. M. +1 TT ŻĘ ŻA | IU Ai 1786 1 vT17TEN | dd 1 | — | sy" I |
+
+| 6 | Ostrówek | Chodzież | UstrowkKi | k(DU | IOIWalIkK | KAMl. 422.0. 1,9 fol. 02 2. TY SB ) | Z VYŁkejyvU > %7 4 OO7 | ta | — | S |
+
+| 7 | Rzecień Olędry ” | Wronki | Rzecicn | 1097 | laS | ZAU Kl. SąU Wronki, aj. Rzecień, f. 40 | O Y iwWI 44 <<. FT | 10 F gą | — | — |
+
+| 8 | Suchylas 9 | Chojnica | Suchy Las | — | — | BMI. M.117om. P. 8515 | ll xl 1781 mm o rrr 4 rl | vo [e] | — | — |
+
+| 9 | Trojanowskie Olędry ⁹ | Mur. Goślina | razem z Głębockiem a na miejscu Trzcianki | las | — | AW. B. 1037 | 5 VIII 1788 | — | — | — |
+
+
+
+przywilejem. Ustanawia dwór. Kompetencje jednak zwyczajne, powinnościami dworskimi nic różni się
+
+5 Sołtys za osobnym go ma
+
+od reszty mieszkańców.
+
+8 Sołtys stały, wybieralni 2 ławnicy.
+
+zasadach niemieckiego (jako wieś sołtysia — sołtys otrzymał stanowisko nadrzędne w gminie).
+
+Osada lokowana na prawa tzw.
+
+| dodatkowy przywilej 1736 mieszkąńców olędrami i traktuje ich równorzędnie. Sołtys prawdopodobnie pozostał nadal SYI
+
+Dopiero z r. nazywa
+
+dziedziczny.
+
+
+
+
+
+
+<!-- annex sheet 0159 -->
+
+
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| 10 | Trzydomy ! | Chodzież | Trzy Domy | I /DO | zarośla | AW. CG. I, fol. 13 | lo IV 1755 | — | — | — |
+
+| 11 | Wiorek *? | Głuszyna | Wiorek | 1754 (?) | — | Bór., s. 30$ | 4 TIL1754 | 11 | t=——Hw ZZ ZZ |   |
+
+
+
+*Razem z poprzedn. 2.178 38 514*
+
+
+**Osady o charakterze nieokreślonym**
+
+
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| 1 | Janikowo Ś | Kicin | Janikowo | — | — | — | — | O | — | — |
+
+| 2 | Jasień | Swarzędz | Jasin | — | — | — | — | 20 | — | — |
+
+| 3 | Łoskońskie Nowe Ol. 5 | Długa Goślina | Stary Łoskoń | 1733 (?) | las | AW. B.366—7 | 1793 | 7 | — | — |
+
+| 4 | Tuczno Olędry $ | Mur. Goslhna | Tuczno | — | — | u==—<ŹMHY ZZ ZZ ZZ Z ZZA ZAZZ:O.Z:A:. UU—— > III EEEE EEEE CH —< > > HH up CE | Ogółem | 2 2.210 | 38 | 514 |
+
+
+
+
 
 [p. 145]
 

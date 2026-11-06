@@ -399,6 +399,14 @@ def main():
                         'Haulindern, s. 254.')))
     ok.append(('0108 #1 F787',
                note_fix('0108', 1, 'r. F787', 'r. 1787')))
+    # 0041 (p. 26) note 2: the print cites 'Tp. 72' - no such siglum
+    # exists in the Wykaz (Tp. alone = the 1793 Topographisches
+    # Verzeichniss); TKS. 72 (the 1772 wypis, Wykaz p. VI) is the
+    # intended source. Editor's convention: [sic] + the correction in
+    # square brackets
+    ok.append(('0041 #2 Tp. 72 [sic]',
+               note_fix('0041', 2, 'w Tp. 72 i Tp. 89',
+                        'w Tp. 72 [sic; TKS. 72] i Tp. 89')))
     # 0057: the print has SIX notes - the strip merged note 4
     # ('Szczególnie ciekawe pod tym względem są oblaty inwentarzy
     # wiejskich w aktach grodzkich.', its '4' misread) into note 3

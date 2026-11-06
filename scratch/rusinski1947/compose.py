@@ -145,33 +145,91 @@ def main():
         if notes:
             parts.append('\n'.join(notes))
     # ---- ANEKS I tables (printed pp. 123-144) ---------------------------
-    # rendered as the print-faithful raw row text (the editor-reviewed
-    # format); the per-column parse (annex_cells.json + RULES_SHEET.html)
-    # is available for a future cell-table rendering on the editor's
-    # word - the dash-cells OCR as junk ('Sz=—=—') that would take
-    # hundreds of spot answers to certify
+    # real Markdown tables (the editor's ruling): per-column cells from
+    # annex_md.json (pixel-classified dash/empty cells + cleaned OCR
+    # text); furniture rows (the series-c title, the b-series totals
+    # line) as plain lines outside the tables
+    amd_path = os.path.join(OCR, 'annex_md.json')
+    amd = json.load(open(amd_path, encoding='utf-8')) \
+        if os.path.isfile(amd_path) else None
+    # the series-c OCR noise cells (0158 row 9's Nazwa/Parafia are the
+    # one bad multi-line cell pair) - the strip's row text is
+    # print-verified for this row; substituted at compose time
+    NOISE_FIX = {
+        ('0158', 9): ['Trojanowskie Olędry ⁹', 'Mur. Goślina',
+                      'razem z Głębockiem a na miejscu Trzcianki',
+                      'las', '—', 'AW. B. 1037', '5 VIII 1788',
+                      '—', '—', '—'],
+    }
+    if amd:
+        for n in amd:
+            for r in amd[n]['rows']:
+                fix = NOISE_FIX.get((n, r['num']))
+                if fix:
+                    r['cells'] = [r['cells'][0]] + fix
     parts.append('[p. 123]\n\nANEKS I\n')
-    at = json.load(open(os.path.join(OCR, 'annex_table.json'),
-                        encoding='utf-8'))
+    HEAD = ('Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | '
+            'Nazwa dzisiejsza | Rok założ. osady | Charakter terenu '
+            'przed założ. osady | Przywilej lub wzmianka — sygn. źródła | '
+            'data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. '
+            'szacunkowo | Ludn. osad wg Tołł.')
+    SEP = ' | '.join(['---'] * 11)
     for n in [f'{i:04d}' for i in range(139, 160)]:
-        rows = at[n]['rows']
-        parts.append(f'\n<!-- annex sheet {n}, tier mix -->\n')
-        unnum = [(rows[k].get('y', [10 ** 9])[0], k)
-                 for k in rows if not k.isdigit()]
-        for num in sorted(int(k) for k in rows if k.isdigit()):
-            r = rows[str(num)]
-            if r['tier'] in ('A', 'B') and r.get('cells'):
-                cells = r['cells']
-                cells = [c for c in cells if c.strip()]
-                cells[0] = re.sub(r'^\|?\s*' + str(num) + r'\s*\|?\s*',
-                                  '', cells[0])
-                parts.append(f"{num}. " + ' | '.join(cells) + '  ')
-            else:
-                raw = r.get('raw') or ' '.join(r.get('cells', []))
+        parts.append(f'\n<!-- annex sheet {n} -->\n')
+        if amd and n in amd:
+            sh = amd[n]
+            # the print's order: rows and furniture interleaved by
+            # y (0159: rows 10-11, the totals line, the sub-table
+            # title, then sub-rows 1-4 - two tables on one sheet)
+            items = ([{'kind': 'row', 'y': r['y'][0], 'r': r}
+                      for r in sh['rows']]
+                     + [{'kind': 'furn', 'y': f['y'][0], 'f': f}
+                        for f in sh['furniture']])
+            items.sort(key=lambda x: x['y'])
+            table = []
+            for it in items:
+                if it['kind'] == 'furn':
+                    if table:
+                        parts.append(HEAD)
+                        parts.append(SEP)
+                        parts.extend(table)
+                        table = []
+                        parts.append('')
+                    f = it['f']
+                    if f['key'] == 'u1':
+                        parts.append('**Osady o charakterze '
+                                     'nieokreślonym**\n')
+                    else:
+                        parts.append('*%s*\n' % f['text'].strip())
+                    continue
+                r = it['r']
+                cells = [c if c.strip() else ' '
+                         for c in r['cells'][1:]]
+                table.append(f"| {r['num']} | " + ' | '.join(cells)
+                             + ' |')
+            if table:
+                parts.append(HEAD)
+                parts.append(SEP)
+                parts.extend(table)
+                parts.append('')
+            if n == '0158':
+                # the series-c footnotes (the sołtys remarks): the
+                # strip's lines carry them but the table cut excludes
+                # them - emit from structure4
+                _s = json.load(open(os.path.join(OCR, 'structure4.json'),
+                                    encoding='utf-8'))
+                for l in sorted(_s['0158']['lines'], key=lambda x: x['top']):
+                    if 2690 <= l['top'] <= 3160 and l['text'].strip():
+                        parts.append(l['text'].strip())
+                parts.append('')
+        else:
+            # fallback: the raw-row rendering
+            rows = json.load(open(os.path.join(OCR, 'annex_table.json'),
+                                  encoding='utf-8'))[n]['rows']
+            for num in sorted(int(k) for k in rows if k.isdigit()):
+                raw = rows[str(num)].get('raw') or ''
                 parts.append(f"{num}. {raw}  ")
-        for _, k in sorted(unnum):
-            raw = rows[k].get('raw') or ''
-            parts.append(f"{raw}  ")
+        parts.append('')
     # ---- ANEKS II and III (printed sources, pp. 145-150, 151-156) -------
     for group in (ANEX2, ANEX3):
         for n in group:
@@ -195,6 +253,16 @@ Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
     # the print sets its markers tight to the word ('lata³,'): remove
     # the space the token replacement leaves before a label
     text = re.sub(r' +(\[\^)', r'\1', text)
+    # the strip's systemic lowercase-l -> capital-I artifact (editor
+    # ruling): 'Kl.' (Klassifikationsanschlaege) read as 'KI.', 'Ol.'
+    # (Olendry) as 'OI.'/'OIL' - restore the print's sigla everywhere
+    # (word-boundary guarded; single-letter Roman numerals untouched)
+    for pat, rep in ((r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])KI\.', 'Kl.'),
+                     (r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])OIL\b', 'Ol.'),
+                     (r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])OI\.', 'Ol.')):
+        n = len(re.findall(pat, text))
+        text = re.sub(pat, rep, text)
+        print('normalize %s -> %s: %d' % (pat, rep, n))
     with open(OUT, 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(text)
     print('written', os.path.abspath(OUT), len(text), 'chars')

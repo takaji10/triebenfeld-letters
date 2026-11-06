@@ -59,52 +59,84 @@ def detect(n, y_lo, y_hi):
 
 
 def fit(runs):
-    """Fit the template ladder to the sheet's detected rules. Returns
-    (residual, ladder in pixels) or None if no hypothesis is sane."""
-    tn = [(x - TPL[0]) / (TPL[-1] - TPL[0]) for x in TPL]
+    """Fit the template ladder to the sheet's detected rules. Every
+    (i0, i1) detection pair is hypothesized as EVERY (j0, j1) template
+    pair (j1-j0 >= 8 - a sane frame span); the interior detections
+    match monotonically to the sub-template ladder and the least-
+    squares residual ranks the hypotheses. A perfect detection
+    reproduces itself exactly; sheets with a faint/missing outer rule
+    (0152) get the right pairing because the interior must align."""
+    tn_full = [(x - TPL[0]) / (TPL[-1] - TPL[0]) for x in TPL]
     best = None
+    nj = len(TPL)
     for i0 in range(len(runs)):
         for i1 in range(i0 + 1, len(runs)):
             span = runs[i1] - runs[i0]
             if span < 3800:
-                continue  # cannot be the outer frame at any sane scale
+                continue
             rn = [(x - runs[i0]) / span for x in runs]
-            pairs = []
-            j = 0
-            for rv in rn:
-                while j + 1 < len(tn) and abs(tn[j + 1] - rv) \
-                        < abs(tn[j] - rv):
-                    j += 1
-                if pairs and j <= pairs[-1][0]:
-                    if abs(tn[j] - rv) > 0.04:
+            for j0 in range(nj - 1):
+                for j1 in range(j0 + 8, nj):
+                    tspan = TPL[j1] - TPL[j0]
+                    tn = [(x - TPL[j0]) / tspan
+                          for x in TPL[j0:j1 + 1]]
+                    pairs = []
+                    j = 0
+                    skips = 0
+                    ok = True
+                    for rv in rn:
+                        while j + 1 < len(tn) and abs(tn[j + 1] - rv) \
+                                < abs(tn[j] - rv):
+                            j += 1
+                        j = min(j, len(tn) - 1)
+                        if abs(tn[j] - rv) > 0.05:
+                            # try the next slot, then give up on this
+                            # run (a spurious detection - a scan
+                            # blemish, a leader stroke)
+                            if j + 1 < len(tn) and \
+                                    abs(tn[j + 1] - rv) <= 0.05:
+                                j += 1
+                            else:
+                                skips += 1
+                                if skips > 2:
+                                    ok = False
+                                    break
+                                continue
+                        if pairs and j <= pairs[-1][0]:
+                            ok = False
+                            break
+                        pairs.append((tn[j], rv))
                         j += 1
-                        if j >= len(tn) or abs(tn[j] - rv) > 0.04:
-                            continue  # spurious run - skip it
-                    else:
+                    if not ok or len(pairs) < 7:
                         continue
-                pairs.append((tn[j], rv))
-            if len(pairs) < 7:
-                continue
-            n_ = len(pairs)
-            st = sum(t for t, _ in pairs)
-            sr = sum(r for _, r in pairs)
-            stt = sum(t * t for t, _ in pairs)
-            str_ = sum(t * r for t, r in pairs)
-            den = n_ * stt - st * st
-            if abs(den) < 1e-9:
-                continue
-            scale = (n_ * str_ - st * sr) / den
-            off = (sr - scale * st) / n_
-            resid = sum(abs(scale * t + off - r)
-                        for t, r in pairs) / n_
-            cand = (resid, i0, i1, scale, off, len(pairs))
-            if best is None or cand[0] < best[0]:
-                best = cand
+                    n_ = len(pairs)
+                    st = sum(t for t, _ in pairs)
+                    sr = sum(r for _, r in pairs)
+                    stt = sum(t * t for t, _ in pairs)
+                    str_ = sum(t * r for t, r in pairs)
+                    den = n_ * stt - st * st
+                    if abs(den) < 1e-9:
+                        continue
+                    scale = (n_ * str_ - st * sr) / den
+                    off = (sr - scale * st) / n_
+                    resid = sum(abs(scale * t + off - r)
+                                for t, r in pairs) / n_
+                    cand = (resid, i0, i1, j0, j1, scale, off, len(pairs))
+                    if best is None or cand[0] < best[0]:
+                        best = cand
     if best is None or best[0] > 0.02:
         return None
-    _, i0, i1, scale, off, npair = best
+    _, i0, i1, j0, j1, scale, off, npair = best
     span = runs[i1] - runs[i0]
-    return best[0], [runs[i0] + (t * scale + off) * span for t in tn]
+    tspan = TPL[j1] - TPL[j0]
+    # the full ladder in pixels: template k -> runs[i0] +
+    # ((TPL[k]-TPL[j0])/tspan * scale + off) * span
+    ladder = [runs[i0] + ((TPL[k] - TPL[j0]) / tspan * scale + off)
+              * span for k in range(nj)]
+    # snap to detections (perfect detections reproduce themselves)
+    ladder = [d if any(abs(d - r) <= 25 for r in runs) else d
+              for d in ladder]
+    return best[0], ladder
 
 
 def ocr_cell(im, x0, x1, y0, y1):

@@ -51,15 +51,29 @@ check('def blocks all line-initial', not bad_defs)
 dead = re.findall(r'\[p\. [^\]]+\]\n\n\n+\[p\.', t)
 check('no empty pages (%d)' % len(dead), not dead)
 
-# 8. the four annex furniture rows + all 282 annex rows
+# 8. the annex as Markdown tables: 282 data rows + the series spans
 at = t[t.find('ANEKS I'):t.find('[p. 145]')]
-nums = re.findall(r'^(\d+)\. ', at, re.M)
-check('annex rows 282', len(nums) == 282)
-check('annex numbering spans a1-111 b1-156 c1-9',
-      '111. ' in at and '156. ' in at and 'Trojanowskic' in at)
+nums = re.findall(r'^\| (\d+) \|', at, re.M)
+check('annex md rows 282', len(nums) == 282)
+check('annex spans a1-111 b1-156 c1-9',
+      '| 111 |' in at and '| 156 |' in at and 'Trojanowskie' in at)
+# the print repeats its table header on every sheet, and sheet 0159
+# carries a second table (the sub-table 'Osady o charakterze
+# nieokreslonym') - 22 headers total
+check('table headers 22', at.count('Lp. | Nazwa osady') == 22)
+
+# 10b. the series-c footnote block (0158's sołtys remarks) present
+# below its table
+check('series-c notes present', 'Sołtys za osobnym' in at
+      and 'dziedziczny' in at)
 
 # 9. the S09 [sic] markers (the book's own 1889/1890 error)
 check('S09 [sic] present', '1889 [sic]' in t and '1890 [sic]' in t)
+check('Tp. 72 [sic] present', 'Tp. 72 [sic; TKS. 72]' in t)
+
+# 10. the l->I normalization (editor ruling): no KI./OI./OIL sigla left
+left = re.findall(r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])(KI\.|OIL\b|OI\.)', t)
+check('no KI./OI. residue (%d)' % len(left), not left)
 
 print('---')
 print('QA', 'ALL PASS' if ok else 'FAILURES PRESENT')
