@@ -2325,6 +2325,12 @@ cloud branches").
   its last good version. Start only the failed step again with `gh run rerun
   <id> --failed`; if GitHub is still degraded, leave it, since the next push
   rebuilds everything.
+- **The deploy step can time out on its own** (2026-11-06): build and
+  verify had passed, and actions/deploy-pages then aborted after ten
+  minutes of polling GitHub Pages' "syncing_files". A re-run of the whole
+  run (`gh run rerun <id>`, not --failed, the failure being in the deploy
+  job) succeeded in the normal few minutes; the live page was checked
+  after.
 - The "Build and deploy" run can take ten minutes. Watch it in the
   background (`gh run watch <id> --exit-status`) and then fetch one page of
   each kind from the live site: a document is `/documents/<slug>/<n>/`, a
