@@ -22,6 +22,8 @@ const STRINGS = {
     surname_count: 'people', back: 'Back',
     privacy_note: 'Living person: details are not published.',
     in_tree: 'In the tree',
+    boot_loading: 'Loading the family database …',
+    boot_slow: 'Still loading — a slow connection, or a content blocker (tracking protection, ad blocker), can hold the database back.',
   },
   de: {
     app: 'Zelmer-Familien-Explorer',
@@ -43,6 +45,8 @@ const STRINGS = {
     surname_count: 'Personen', back: 'Zurück',
     privacy_note: 'Lebende Person: Details werden nicht veröffentlicht.',
     in_tree: 'Im Baum',
+    boot_loading: 'Die Familiendatenbank wird geladen …',
+    boot_slow: 'Es wird noch geladen – eine langsame Verbindung oder ein Inhaltsblocker (Tracking-Schutz, Adblocker) kann die Datenbank aufhalten.',
   },
   pl: {
     app: 'Eksplorator rodziny Zelmer',
@@ -64,6 +68,8 @@ const STRINGS = {
     surname_count: 'osób', back: 'Wstecz',
     privacy_note: 'Osoba żyjąca: szczegóły nie są publikowane.',
     in_tree: 'W drzewie',
+    boot_loading: 'Wczytywanie bazy rodzinnej …',
+    boot_slow: 'Nadal wczytywanie – wolne połączenie lub bloker treści (ochrona przed śledzeniem, bloker reklam) może opóźniać bazę.',
   },
 }
 

@@ -14,6 +14,14 @@
 
   let route = $state(parse(location.hash))
   let tick = $state(0)   // bumped on language change so the strings re-render
+  let slow = $state(false)   // the database is taking unusually long
+
+  // Shown once, after a wait no honest connection needs; content blockers
+  // and throttled networks land here.
+  $effect(() => {
+    const id = setTimeout(() => { slow = true }, 8000)
+    return () => clearTimeout(id)
+  })
 
   function parse(h) {
     const s = (h || '').replace(/^#\/?/, '')
@@ -62,7 +70,16 @@
 <main>
   {#key tick}
   {#if !db.ready}
-    <div class="boot"><span>Loading the family database …</span></div>
+    <div class="boot">
+      <span>{i18n.t('boot_loading')}</span>
+      <div class="bar" role="progressbar"
+           aria-valuemin="0" aria-valuemax={db.progress.total}
+           aria-valuenow={db.progress.done}>
+        <div class="fill"
+             style={`width:${(100 * db.progress.done / db.progress.total).toFixed(1)}%`}></div>
+      </div>
+      {#if slow}<p class="slow">{i18n.t('boot_slow')}</p>{/if}
+    </div>
   {:else if db.error}
     <div class="boot error">{db.error}</div>
   {:else if route.parts[0] === 'person'}
@@ -104,6 +121,12 @@
   main { max-width: 58rem; margin: 0 auto; padding: 1.2rem 1rem 4rem; }
   .boot { display: grid; place-items: center; min-height: 50vh;
     color: var(--faint); font-family: var(--serif); }
+  .boot .bar { width: 13rem; height: 3px; margin-top: .8rem;
+    background: var(--rule); border-radius: 2px; overflow: hidden; }
+  .boot .fill { height: 100%; background: var(--accent);
+    transition: width .3s ease; }
+  .boot .slow { max-width: 26rem; margin-top: 1rem; font-size: .84rem;
+    text-align: center; line-height: 1.5; }
   .boot.error { color: var(--warn); white-space: pre-wrap; padding: 1rem; }
   @media (max-width: 640px) {
     nav { order: 3; flex-basis: 100%; gap: 1rem; }

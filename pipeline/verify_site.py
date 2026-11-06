@@ -142,7 +142,7 @@ def main():
             if fn.endswith('.html'):
                 pages.append(os.path.join(dirpath, fn))
 
-    def exists(url):
+    def exists(url, page=''):
         u = url.split('#')[0].split('?')[0]
         if BASEURL:
             if u == BASEURL:
@@ -151,8 +151,17 @@ def main():
                 u = u[len(BASEURL):]
         if not u or u == '/':
             return os.path.isfile(os.path.join(SITE, 'index.html'))
+        # A URL the browser resolves against the page's own directory - not
+        # starting with / (site root) or ./ ../ (explicitly relative) - is
+        # resolved there too. The genealogy explorer's shell loads its
+        # bundle as ./assets/app.js precisely so the same built file works
+        # under a user-site and a project-site prefix.
+        base = SITE
+        if not u.startswith('/') and (u.startswith('./') or
+                                      u.startswith('../')):
+            base = os.path.dirname(os.path.join(SITE, page))
         rel = u.strip('/').replace('/', os.sep)
-        target = os.path.join(SITE, rel)
+        target = os.path.join(base, rel)
         return (os.path.isfile(target)
                 or os.path.isfile(target + '.html')
                 or os.path.isfile(os.path.join(target, 'index.html')))
@@ -162,11 +171,12 @@ def main():
     for p in pages:
         with open(p, encoding='utf-8') as f:
             content = f.read()
+        page = os.path.relpath(p, SITE)
         for url in re.findall(r'(?:href|src)="([^"]+)"', content):
             if url.startswith(('http://', 'https://', 'mailto:', 'data:', '#')):
                 continue
             checked += 1
-            if not exists(url):
+            if not exists(url, page):
                 broken[url] += 1
     if broken:
         for url, n in broken.most_common(15):

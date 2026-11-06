@@ -3220,3 +3220,28 @@ Lessons:
   and plumbing separable like this - the judgement about the method (the
   polygons drifted from the parcels) need not burn the work that fed it
   (the drawing tool and its JSON stay in scratch/map4456/ as the record).
+
+## The genealogy explorer and the deployment prefix (2026-11-06)
+
+The explorer hung on "Loading the family database" for a visitor while the
+site built and verified clean. The cause was a deployment-shape assumption
+that no check covered: the vite build carried `base: '/genealogy/'`, an
+absolute bundle path that is correct only when the site is published at a
+domain root. This repository is published as a project site
+(takaji10.github.io/triebenfeld-letters/), so the browser asked for
+/genealogy/assets/app.js one level too high, got the server's HTML 404
+page back, and the module load died on the disallowed text/html MIME type
+- Firefox's console names the MIME, not the missing path behind it. The
+lesson generalises: **a hard-coded absolute path in a built asset is a
+silent bet on where the site is published; every reference a build tool
+emits should be relative (base './') or templated from the baseurl, and a
+link checker that wants to catch this class of bug must resolve relative
+URLs the way a browser does - against the page's own directory - and be
+run once with the project baseurl and once without.** A missing module
+also never reaches the application's own error handling, so the static
+boot page carries the guidance (shell.html's inline watch: script error or
+15 s timeout, hard-reload, blockers, settings, a link home), and the
+application's boot screen reports progress over the eight opening files
+and after eight seconds admits that a blocker or a slow connection can be
+holding the database back. Found by the editor's Firefox console; the fix
+and the checks are recorded in docs/CHANGELOG.md (2026-11-06).

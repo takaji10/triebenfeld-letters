@@ -4735,3 +4735,44 @@ footer on every page. Changed, in both languages:
   the tables below now brings the map into view as it flies (the viewer
   scrolls into view; a farm Locate no longer scrolls the page to the row
   it came from).
+
+## 2026-11-06: the genealogy explorer loads on a project-site deployment
+
+- The explorer hung forever on "Loading the family database …": its built
+  shell asked for the bundle at the absolute /genealogy/assets/app.js,
+  which only exists when the site is published at a domain root. Published
+  as a project site (takaji10.github.io/triebenfeld-letters/), that URL
+  fell to the server's HTML 404 page, the browser refused the module
+  (Firefox: "disallowed MIME type (text/html)"), and nothing replaced the
+  boot screen. The top-bar link and every data fetch already resolved
+  relative to the page; the bundle reference alone was absolute.
+- The fix (site/genealogy/vite.config.js): base is './', so the built
+  shell references ./assets/app.js and ./assets/index.css and the same
+  committed build serves under a user site, a project site or any other
+  prefix. The committed assets (assets/app.js, index.css, index.html)
+  were rebuilt with it.
+- verify_site.py's link check resolved every URL against the site root,
+  so a document-relative reference read as broken. It now resolves
+  ./- and ../-prefixed URLs against the page's own directory - the
+  browser's own rule - and passes with the project baseurl as with none.
+- The loading page now speaks when the application never arrives
+  (shell.html, the source of the built index.html): a plain inline watch
+  shows troubleshooting guidance the moment the module script fails to
+  load, and after 15 s at the latest - a wrong address, a connection
+  problem, a content blocker or browser settings that block scripts -
+  with a hard-reload reminder and a link back to the archive home,
+  English with German beneath (the visitor's browser language picks the
+  lead). The application module stands the watch down the moment it runs
+  (window.__zfBooted in src/main.js).
+- Inside the application the boot screen gained a progress bar - the
+  eight opening files of the database fetch tick it along
+  (db.progress in src/lib/db.svelte.js) - and after eight seconds a
+  quiet hint that a slow connection or a content blocker can hold the
+  database back, in all three interface languages (boot_loading,
+  boot_slow in src/lib/i18n.js).
+- Built clean and checked: jekyll build and verify_site ALL CHECKS PASSED
+  twice over, once with the default baseurl and once with
+  /triebenfeld-letters (63,294 internal links each), and the built
+  genealogy page and its bundle served and fetched through a local
+  server under a nested prefix, the bundle answering text/javascript.
+

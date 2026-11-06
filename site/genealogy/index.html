@@ -10,11 +10,61 @@
   #boot{display:grid;place-items:center;min-height:60vh;font-family:Georgia,serif;color:#55504a}
   #boot .b{animation:pulse 1.2s ease-in-out infinite}
   @keyframes pulse{50%{opacity:.35}}
+  #boot .fallback{max-width:34rem;margin:0 1.2rem;line-height:1.55;font-size:.95rem}
+  #boot .fallback h2{font-size:1.05rem;margin:0 0 .6rem}
+  #boot .fallback ul{margin:.5rem 0 1rem;padding-left:1.2rem}
+  #boot .fallback li{margin:.25rem 0}
+  #boot .fallback a{color:#7a4a12}
+  #boot .fallback .de{margin-top:1rem;padding-top:.9rem;border-top:1px solid #ddd5c8}
+  #boot .fallback .de h2{font-size:.95rem}
 </style>
-  <script type="module" crossorigin src="/genealogy/assets/app.js"></script>
-  <link rel="stylesheet" crossorigin href="/genealogy/assets/index.css">
+  <script type="module" crossorigin src="./assets/app.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index.css">
 </head>
 <body>
 <div id="app"><div id="boot"><span class="b">Loading the family database &hellip;</span></div></div>
+<script>
+// Guidance for the case where the application module never arrives - a
+// wrong address (the server answers with its HTML 404 page, which the
+// browser refuses to run as a module), a network problem, or a browser
+// setting or extension that blocks scripts. The module clears this watch
+// itself the moment it starts (window.__zfBooted).
+(function () {
+  var boot = document.getElementById('boot');
+  var warned = false;
+  function show() {
+    if (warned || window.__zfBooted) return;
+    warned = true;
+    var de = (navigator.language || '').toLowerCase().indexOf('de') === 0;
+    boot.innerHTML =
+      '<div class="fallback">' +
+      (de
+        ? '<h2>Der Familien-Explorer konnte nicht geladen werden.</h2>' +
+          '<ul>' +
+          '<li>Laden Sie die Seite neu &ndash; im Zweifel hart (Strg+F5, Mac: Befehl+Umschalt+R), damit keine alte Kopie aus dem Zwischenspeicher kommt.</li>' +
+          '<li>Pr&uuml;fen Sie die Internetverbindung.</li>' +
+          '<li>Inhaltsblocker, Datenschutz-Erweiterungen (z.&nbsp;B. Tracking-Schutz, Adblocker) oder restriktive Browser-Einstellungen k&ouml;nnen Skripte blockieren &ndash; deaktivieren Sie sie f&uuml;r diese Seite oder probieren Sie ein privates Fenster bzw. einen anderen Browser.</li>' +
+          '</ul>' +
+          '<a href="../">&larr; Zur&uuml;ck zur Startseite des Archivs</a>' +
+          '<div class="de"><h2>English</h2><p>The family explorer failed to load &ndash; usually a connection problem, a content blocker, or browser settings that block scripts. Reload the page (hard reload: Ctrl+F5), allow scripts for this site, or try another browser.</p><a href="../">&larr; Back to the archive home page</a></div>'
+        : '<h2>The family explorer could not be loaded.</h2>' +
+          '<ul>' +
+          '<li>Reload the page &ndash; if in doubt hard-reload (Ctrl+F5, Mac: Cmd+Shift+R), so no stale cached copy is reused.</li>' +
+          '<li>Check your internet connection.</li>' +
+          '<li>Content blockers, privacy extensions (tracking protection, ad blockers) or restrictive browser settings can stop scripts from running &ndash; turn them off for this site, or try a private window or another browser.</li>' +
+          '</ul>' +
+          '<a href="../">&larr; Back to the archive home page</a>' +
+          '<div class="de"><h2>Deutsch</h2><p>Der Familien-Explorer konnte nicht geladen werden &ndash; meist ein Verbindungsproblem, ein Inhaltsblocker oder Browsereinstellungen, die Skripte blockieren. Seite neu laden (Strg+F5), Skripte f&uuml;r diese Seite zulassen oder einen anderen Browser versuchen.</p><a href="../">&larr; Zur&uuml;ck zur Startseite des Archivs</a></div>');
+  }
+  // A module that fails to load (404 served as HTML, blocked by an
+  // extension, strict MIME handling) reports an error immediately.
+  addEventListener('error', function (e) {
+    var t = e.target;
+    if (t && t.tagName === 'SCRIPT') show();
+  }, true);
+  // Anything slower than this is not worth a silent spinner either.
+  setTimeout(show, 15000);
+})();
+</script>
 </body>
 </html>

@@ -3,6 +3,7 @@ import * as api from './data.js'
 
 export const db = $state({
   ready: false,
+  progress: { done: 0, total: 8 },  // files of the opening fetch finished
   index: null,        // id -> {n, sn, gn, sx, b, d, L, M}
   families: null,     // id -> {husb, wife, chil, marr?}
   sources: null,      // id -> {title, author, pub, repo, callno}
@@ -18,11 +19,13 @@ let started = false
 export function initDB() {
   if (started) return
   started = true
+  const tick = p => p.then(v => { db.progress.done++; return v })
+  // Optional files resolve to {} when absent, so the count stays honest.
   Promise.all([
-    api.index(), api.families(), api.sources(), api.repos(),
-    api.places(), api.mediaFiles(),
-    api.getJSON('data/media.json').catch(() => ({})),
-    api.meta(),
+    tick(api.index()), tick(api.families()), tick(api.sources()),
+    tick(api.repos()), tick(api.places()), tick(api.mediaFiles()),
+    tick(api.getJSON('data/media.json').catch(() => ({}))),
+    tick(api.meta()),
   ]).then(([index, families, sources, repos, places, mediaFiles,
             mediaInfo, meta]) => {
     mediaFiles.__base__ = meta.media_base || ''
