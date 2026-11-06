@@ -392,3 +392,16 @@ Also this round: S09 marked [sic] per the editor (the book's own
 1889/1890 error); the S04 crop rebuilt as three stacked 3x line
 fragments (the previous crops kept missing the '514' line at y 3293);
 SPOT_SHEET.html = the single open item.
+
+## S04 resolved - the spot sheet is empty
+
+The editor read the print: 514 and 3.122 are what the page shows; the
+discrepancy (514 x 6.05 = 3.110.7) is the book's own arithmetic slip.
+The draft already carried both numbers unchanged (faithful
+transcription); no [sic] was requested (contrast S09, where the
+impossible dates 1889/1890 were marked). If the editor wants a [sic]
+there, it is a one-token edit.
+
+SPOT_SHEET.html regenerated with zero items (a 'no open items' banner;
+the audit tables stay). All 23+ spot items from the three review
+rounds are now applied.

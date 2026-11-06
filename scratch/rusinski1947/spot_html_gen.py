@@ -23,13 +23,9 @@ def datauri(name):
 
 
 # ---------------- the decision items -------------------------------------
-ITEMS = [
-    ('S04', 'B', 'p. 26', '514 dymów × 6,05 = 3.122? (crop rebuilt: the three lines, stacked, 3x)',
-     'Line 1: "Ostatnia rubryka aneksu I b wykazuje 514 dymów olęderskich zakordonowanych." Line 2: "Po pomnożeniu ich przez ustalony poprzednio współczynnik" Line 3: "6.05, otrzymamy 3.122 osoby."',
-     '514 × 6,05 = 3.110, not 3.122 — one of the two digits must differ in the print. The previous two crops missed the "514" line; this one is the three lines stacked at 3x.',
-     'Either "516 dymów" or "3.110 osób" — which does the print show?',
-     'S04_p26_514_dymow.png'),
-]
+# All spot items resolved (S01-S23); the sheet remains as the review
+# harness - it is regenerated whenever a new open item appears.
+ITEMS = []
 
 # ---------------- the tables ----------------------------------------------
 def read_csv(name):
