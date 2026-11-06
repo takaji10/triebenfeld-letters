@@ -303,7 +303,10 @@ Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
     # (word-boundary guarded; single-letter Roman numerals untouched)
     for pat, rep in ((r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])KI\.', 'Kl.'),
                      (r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])OIL\b', 'Ol.'),
-                     (r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])OI\.', 'Ol.')):
+                     (r'(?<![A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż])OI\.', 'Ol.'),
+                     # note-layer l->I residue
+                     (r'\bNickiedy\b', 'Niekiedy'),
+                     (r'Ilolendry', 'Holendry')):
         n = len(re.findall(pat, text))
         text = re.sub(pat, rep, text)
         print('normalize %s -> %s: %d' % (pat, rep, n))

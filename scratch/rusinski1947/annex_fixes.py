@@ -342,6 +342,264 @@ CELL_FIXES = {
     ('0158', 6, 4): '1750',
     ('0158', 6, 7): '1 VI 1750',     # strip r5 tail '1 VI11750'
     ('0158', 7, 4): '1697',          # strip 'Rzecień 1697'
+    # ---- junk pass: numeric cells (strip + matcher + top-alignment) ----
+    ('0140', 14, 9): '—',            # obl dash y549 (Lp-line zone)
+    ('0140', 15, 9): '—',            # obl dash y655
+    ('0142', 60, 10): '117',         # 1,1,7 matcher; strip '117'
+    ('0145', 91, 8): '11',           # 1,1 matcher y2104; strip '11'
+    ('0145', 97, 8): '31',           # 3,1 matcher y3284; strip '31'
+    ('0148', 21, 8): '5',            # 5@0.96 y1282; strip '5'
+    ('0149', 43, 4): '1763',         # strip tail '1763'; draft 'i/ OŚ'
+    ('0149', 43, 7): '10 XII 1763',  # draft 1643 = 6-as-4 glitch; strip
+    ('0150', 54, 8): '23',           # 2,3 matcher y1288 (r53-window clip
+                                     # caused the 9,9 misread)
+    ('0150', 54, 10): '—',           # dash y1326
+    ('0151', 73, 8): '5',            # 9@0.95 = 5 via 5->9 bias; strip '5'
+    ('0153', 93, 8): '9',            # 9@0.82 y1322; strip '9'
+    ('0154', 115, 8): '11',          # 1,1 matcher y2519; strip '11'
+    ('0154', 116, 8): '38',          # 3,8 matcher y2616; strip '38'
+    # ---- junk pass 2: figure cells (strip + census + ratio law) ----
+    ('0140', 9, 10): '—',            # census px=DASH; draft junk
+    ('0140', 14, 8): '165 3',        # brace-pair figure between r14/r15
+                                     # + small raised mark (SPOT semantics)
+    ('0140', 14, 10): '1152',        # pair ludn, same between-line
+    ('0140', 15, 8): '',             # pair 2nd row: print blank (strokes)
+    ('0140', 15, 10): '',
+    ('0140', 29, 8): '',             # Dymaczewskie pair 2nd row: blank
+    ('0140', 29, 9): '—',            # obl dash verified y2936
+    ('0140', 29, 10): '',
+    ('0141', 31, 10): '75',          # census 7,5 + law (75/10=7.5);
+                                     # strip '15' = 7-as-1 (15/10 absurd)
+    ('0141', 35, 10): '277',         # strip '35 _— 277'; draft 77 truncated
+    ('0141', 41, 10): '335',         # strip + 12x eyes; draft 330
+    ('0141', 43, 8): '37',           # strip + census; draft 31
+    ('0141', 44, 8): '26',           # strip + census; draft 20
+    ('0142', 53, 10): '192',         # strip '25 192' + 12x eyes; draft 109
+    ('0142', 55, 10): '9',           # between-figure ludn (dym 3 kept)
+    ('0142', 61, 8): '8',            # full-size 8@0.92 x4704; OCR missed;
+                                     # draft had 41 shifted into ludn
+    ('0142', 61, 9): '—',            # dash y3051
+    ('0143', 64, 10): '196',         # strip '30 — 196'; draft empty
+    ('0143', 69, 10): '115',         # strip + census; draft 119 (5->9 bias)
+    ('0143', 73, 8): '13',           # strip + census; draft 15
+    ('0144', 74, 4): '—',            # dash y415; draft junk 'n'
+    ('0144', 74, 5): '—',            # dash y423; draft junk '7]'
+    ('0144', 74, 10): '188',         # strip '41 188' + row_zoom; draft 165
+    ('0145', 89, 8): '25',           # strip '_— 25 154' + census T25;
+                                     # draft 40; law 154/25=6.16
+    ('0145', 89, 10): '154',         # strip + census; draft empty
+    ('0145', 92, 8): '18',           # strip '18' + census + 12x (8-waist)
+    ('0145', 92, 10): '90',          # census + 12x (9-loop); 90/18=5.0
+    ('0145', 98, 8): '44',           # strip '44 265' + unclipped census
+    ('0145', 98, 10): '265',         # strip + unclipped; 265/44=6.02 law
+    ('0146', 104, 8): '25',          # strip '25 73'; draft 29 (5->9 bias)
+    ('0146', 104, 10): '73',         # strip + census; 73/25=2.9 (wieś)
+    ('0142', 45, 10): '130',         # x-order 1,3,0 matcher 3@0.95 + strip
+                                     # '24 130'; draft 120
+    ('0146', 110, 10): '71',         # strip '_ 13 — 71 —'; the 7 hid under
+                                     # the tall mark (census read '11');
+                                     # 71/13 = 5.5 law (draft 11 = 0.85!)
+    # ---- junk pass 3: b/c-series figures ----
+    ('0147', 147, 8): '27',          # blobs 2,7 y1494 (r147 top) + strip
+                                     # '11 XI 27'; draft junk
+    ('0150', 49, 8): '7',            # 7@0.94 w30 y379 at r49 top; strip
+                                     # missed it (r109 precedent)
+    ('0155', 120, 8): '9',           # 0@0.71(w16)+9@0.86(w29) x-order
+                                     # 0,9?? hmm - see junkdec; strip 'Q'
+    ('0157', 146, 8): '17',          # blobs 1(w14),7(w18) y1325 at r146 top;
+                                     # strip missed (r109 precedent)
+    ('0157', 150, 8): '9 1',         # 9@0.95(w32) + raised small 1(w20h22)
+                                     # at the data-line height; strip missed
+    ('0157', 151, 8): '—',           # dash y2382 at r151 top; 4,8 = r152's
+    ('0157', 155, 8): '13',          # 1,3 y3075 at r155 top; strip '13 —'
+    ('0157', 156, 9): '—',           # dash y3275
+    ('0157', 156, 10): '—',          # dash y3272
+    ('0158', 2, 8): '11',            # 1,1 y679 at r2 top; strip '2 XI1743 11'
+    ('0158', 4, 10): '—',            # dash y1084; draft junk
+    ('0158', 5, 8): '21',            # 2,1 y1266 at r5 top; strip tail '21'
+    ('0158', 5, 10): '—',            # dash y1276
+    # ---- junk pass 4: final decode-backed fixes (amb_scan/amb_grid/
+    # amb_corr: 9-family = ring + curled tail, verified vs 0153 r93;
+    # 5-ref 0151 r73 has flat top bar - none of the suspects do) ----
+    ('0149', 34, 10): '25',          # 2,5 y1318 at r34 top; 1,1 y1516 =
+                                     # r35's line (top-alignment)
+    ('0149', 35, 10): '11',          # 1,1 y1516 at r35 top (y1526)
+    ('0149', 43, 10): '16',          # 1(w11),6@0.96(w32) y2587 at r43 top
+    ('0149', 47, 10): '17',          # 1(w16),7@0.95(w28) y3302 at r47 top
+    ('0150', 53, 8): '21',           # 2,1 y1040 at r53 top (y1049);
+                                     # 9,9 y1288 = r54's line
+    ('0150', 55, 8): '6',            # 6@0.95 y1465 at r55 top (y1474)
+    ('0150', 58, 10): '5',           # 5@0.93 y1781 at r58 top (y1791)
+    ('0150', 59, 10): '—',           # dash y1984 at r59 top (y1968)
+    ('0150', 60, 10): '71',          # 7@0.98(w31),1@0.97(w15) y2059 at
+                                     # r60 top (y2071)
+    ('0150', 63, 8): '51',           # 5@0.94(w33),1@0.95(w14) y2450 at
+                                     # r63 top (y2462); 9,2 y2624 = r64's
+    ('0150', 65, 8): '7',            # 7@0.97(w30) y2730 at r65 top (y2741)
+    ('0151', 70, 9): '5',            # 5@0.96(w32) y1773 at r70 top (y1765)
+    ('0151', 78, 8): '9 4',          # 9 ring+curl (grid) + small 4 mark
+                                     # (crossbar+stem, h30 = mark size)
+    ('0153', 94, 9): '2',            # 2@0.90 y1426 at r94 top (y1438)
+    ('0153', 96, 8): '77',           # 7,7 both w31 y1716 at r96 top (y1723)
+    ('0153', 98, 9): '4',            # 4@0.97(w32) y2073 at r98 top (y2081)
+    ('0153', 101, 10): '2',          # 2@0.95(w31) y2603 at r101 top (y2615)
+    ('0154', 105, 8): '9',           # 9@0.92(w31h46) y371; wide-window
+                                     # rescan (blob was window-clipped)
+    ('0154', 107, 9): '9',           # 9@0.96(w30) y900 at r107 top (y912)
+    ('0154', 112, 8): '9',           # 9@0.95(w31h50) y1792 at r112 top
+    ('0154', 118, 8): '2',           # 2@0.94(w29) y2990 at r118 top (y3002)
+    ('0156', 134, 8): '9',           # 9@0.78(w35) y591; grid = ring+curl
+    ('0156', 136, 10): '—',          # dash y904 (r136's only ink)
+    ('0156', 137, 8): '9',           # 9@0.88(w32h40) y1058; grid = 9 family
+    ('0156', 144, 8): '7 4',         # 7 (top bar + diagonal, w30) + small
+                                     # 4 mark (w27h29, same shape as r78's)
+    ('0156', 145, 8): '12',          # 1(w12),2@0.94(w30) y2786 in r145 band
+    ('0156', 145, 10): '—',          # dash y2818; 7-tall = stroke
+    ('0157', 146, 10): '—',          # dashes y1339/y1514; draft junk
+    ('0157', 147, 8): '27',          # 2,7 both w31 FULL y1494 at r147 top
+                                     # (y1516); r146's line = 1,7 y1325
+    ('0157', 153, 8): '7',           # 7@0.93(w18) y2719 at r153 top (y2731)
+    ('0157', 154, 8): '14',          # 1(w13),4(w33) y2897 at r154 top;
+                                     # 1,3 y3066 = r155's line (13 fixed)
+    ('0157', 156, 8): '7',           # 7@0.93(w19) y3254 at r156 top (y3266)
+    ('0158', 3, 8): '9',             # 9@0.93(w31h50) y863 at r3 top (y890)
+    ('0158', 4, 8): '19',            # 1(w13),9@0.93(w31) y1057 at r4 top
+    ('0158', 6, 8): '—',             # dash y1480 at r6 top (y1482)
+    ('0158', 6, 10): '—',            # grid: single torn dash x4855-4925
+    ('0158', 7, 8): '10',            # 1(w12),0@0.95(w33) y1626 at r7 top
+                                     # (y1654); draft had '10 F gą'
+    ('0158', 8, 8): '6',             # 6@0.92: diagonal top-right sweep +
+                                     # bottom loop (no top ring - not 9/0)
+    # ---- ratio-flag truncations (ratio_audit round 2) ----
+    ('0146', 100, 10): '74',         # 1@1.00 + 4@1.00 y518 at r100 top;
+                                     # strip '15 VII 13 74 s.'; draft 14
+    ('0148', 28, 10): '—',           # dash y2217 at r28's line (y2180-2230,
+                                     # Lp anchor y2158); draft 7 = glue
+                                     # phantom from '640' signature
+    ('0149', 42, 10): '—',           # dash y2503 at r42 top (y2492);
+                                     # the 1,6 y2578 = r43's line (fixed);
+                                     # draft 4 = phantom (strip '<1' glue)
+    # ---- a-audit round: obl law closes at 92 exact ----
+    ('0140', 16, 9): '—',            # dash at r16's line (a_audit);
+                                     # draft had empty
+    ('0140', 17, 9): '—',            # dash y940 x4926 (c9 only ink);
+                                     # draft 7 = column-shift phantom of
+                                     # c10's 7 (original OCR shift)
+    ('0140', 17, 10): '72',          # 7 (top bar + diagonal, corr 0.75 vs
+                                     # date-7) + 2 (corr 0.91) y908-960;
+                                     # 72/11 = 6.5 law
+    ('0145', 87, 9): '17',           # 1@0.96 + 7@0.98 y1316-1367 at r87's
+                                     # line; draft 11 (7-as-1)
+    ('0145', 88, 10): '139',         # 1,3,9 x-sorted y1500-1552 (3-ref
+                                     # structure match); draft 159;
+                                     # 139/22 = 6.3 law
+    ('0145', 93, 10): '115',         # 3rd digit = 5 (flat top bar, grid);
+                                     # draft 119; 115/18 = 6.4 law
+    ('0145', 97, 9): '23',           # 2@0.96 + 3@0.96 x-sorted y3280-3330;
+                                     # draft 22; closes obl sum = 92 EXACT
+    # ---- text pass: b/c-series rok/char/zrodlo cells (strip raws) ----
+    ('0147', 1, 5): 'ta sama wieś i mieszkańcy',   # strip; '1'->'i'
+    ('0148', 14, 5): 'ta sama wieś i mieszkańcy',  # strip glue
+    ('0148', 19, 4): 'ok. 1722',     # strip 'ok. 1722'; draft 'ok.17221'
+    ('0148', 23, 6): 'AW. B. 1028',  # strip; draft 'ĄW.'
+    ('0149', 34, 4): '1730 (?)',     # strip '1730'; draft 'OUI (7)'
+    ('0149', 34, 5): 'folwark',      # strip; draft 'mokracdia (!)'
+    ('0149', 34, 6): 'AW. C. 3',     # strip; draft junk
+    ('0149', 35, 4): '—',            # strip pair-row dashes
+    ('0149', 35, 5): 'folwark',      # strip 'folwark'; draft 'Lolwark'
+    ('0149', 36, 4): '—',            # strip '_ _'
+    ('0149', 37, 4): '—',            # strip
+    ('0149', 37, 6): '—',            # strip
+    ('0149', 40, 4): '—',            # strip
+    ('0149', 40, 6): '—',            # strip
+    ('0149', 41, 4): '1735 (?)',     # strip; draft 'LIDD ")'
+    ('0149', 41, 6): 'AGH. s. Wronki, maj. Jasionna, fol. 59',  # strip
+    ('0150', 51, 4): '1738',         # strip; draft 'I (36 e'
+    ('0150', 51, 6): 'AGH. s. Wronki, maj. Kobus, XIX. 430, fol. 13',
+    ('0150', 53, 6): 'Rel. Posn. nr 645, r. 1793, fol. 101',
+                                     # draft 'Kel. Fosn.' (R->K, P->F)
+    ('0150', 55, 6): '—',            # strip: no zrodlo
+    ('0150', 57, 6): '—',            # strip: no zrodlo
+    ('0150', 58, 6): 'AW. Chodzież, C. 1',   # strip; draft 'AW .UChodzież'
+    ('0150', 59, 6): '—',            # strip: no zrodlo
+    ('0150', 60, 6): 'Kl. XII 6 II, fol. 48',  # strip 'KI. XII. 6.11';
+                                     # body form 'Kl. XII 6 I/II'
+    ('0150', 61, 6): '—',            # strip: no zrodlo
+    ('0150', 64, 6): '—',            # strip: no zrodlo
+    ('0150', 65, 6): 'Kl. XII 6 V, fol. 116',  # strip 'KI. XII.6.V'
+    ('0150', 66, 4): '1736',         # strip; draft '1730 Olędrów' glue
+    ('0151', 72, 5): 'zarośla, łąki',          # draft 'łąkai'
+    ('0152', 85, 4): 'ok. 1739',     # strip 'K739'
+    ('0152', 85, 6): 'AG. r. 1739/40, fol. 686 (AW. Gębickie Ol., A. 3)',
+                                     # strip; draft '— 40,f.686'
+    ('0152', 86, 5): 'wieś z budynkami',       # strip 'wieś z bu- dynkami'
+    ('0152', 88, 4): '—',            # strip: rok not printed
+    ('0152', 91, 4): '—',            # strip
+    ('0152', 92, 4): '—',            # strip
+    ('0153', 94, 6): '—',            # strip: no zrodlo
+    ('0153', 96, 6): 'Rel. Posn. nr 640, r. 1791, fol. 270',
+    ('0153', 98, 6): 'Rel. Posn. nr 641, r. 1792, fol. 246',
+    ('0153', 100, 6): '—',           # strip: no zrodlo ('razem Ja..raczem'
+                                     # glue = char of the row)
+    ('0153', 101, 6): 'Kl. XII 6 I, fol. 124/5',   # strip 'KI. XII.6.T'
+    ('0153', 103, 6): 'AGH. s. Wronki, maj. Popowo, v. XIX. 199, fol. 32',
+    ('0153', 104, 6): 'AGH. s. Szamotuły, maj. Myszkowo, Tax Acten, fol. 44',
+                                     # strip 'Szamo-tuły'; draft 'AGrFEI'
+    ('0154', 105, 4): '1748',        # strip; draft 'SNY'
+    ('0154', 106, 4): '1749 (?)',    # strip; draft '1/4Y(*)'
+    ('0154', 106, 6): 'dto',         # strip 'dto' (ditto of r105's zrodlo)
+    ('0154', 107, 4): '1744 (?)',    # strip; draft '1/44(")'
+    ('0154', 107, 6): 'Repertorium Arch. P. w Poznaniu; dok. brak',
+    ('0154', 108, 6): 'AM. Sieraków, C. 53, fol. 78',  # 'ZM. SICTAKOW'
+    ('0154', 110, 6): 'AW. B. 770',  # strip; draft junk
+    ('0154', 112, 6): 'Rel. Posn. nr 638, r. 1791, fol. 597 i l',
+                                     # strip same incl. tail 'i l'
+    ('0154', 114, 6): 'Rel. Posn. nr 641, r. 1792, fol. 127',
+    ('0154', 116, 6): 'Rel. Posn. nr 643, r. 1792, fol. 53',
+    ('0154', 117, 6): '—',           # strip
+    ('0155', 122, 5): '—',           # strip
+    ('0155', 127, 6): 'Rel. Posn. nr 638, r. 1791, fol. 908',
+                                     # draft 'Recl. ... nr 038'
+    ('0155', 131, 6): 'AG. r. 1739/40, fol. 686',  # strip 'AC.r.'
+    ('0156', 144, 4): 'ok. 1731',    # strip; draft 'ok. u'
+    ('0156', 145, 6): 'Rel. Posn. nr 641, r. 1792, fol. 260',
+    ('0157', 147, 4): '1747',        # strip; draft 'L(A42'
+    ('0157', 147, 5): 'grunty opustoszałe',    # draft case garble
+    ('0157', 147, 6): 'Rel. Posn. nr 626, r. 1788, fol. 404',
+                                     # garble 'IXCI. IOS5II. IU' pattern =
+                                     # 'Rel. Posn. nr' (cf. r148)
+    ('0157', 148, 6): 'Rel. Posn. nr 641, r. 1792, fol. 163',
+    ('0157', 149, 6): 'AM. Sieraków, C. 53, fol. 131',
+    ('0157', 150, 5): 'grunty zarosłe',        # draft 'gruniy zZarosłe'
+    ('0157', 151, 6): '—',           # strip
+    ('0157', 152, 6): 'Rel. Posn. nr 642, r. 1792, fol. 7',
+    ('0157', 154, 5): '„grunt zarosłami zarosły”',  # draft 'zarosiami'
+    ('0157', 156, 5): 'zarośla',     # draft 'zarosia'
+    ('0158', 2, 5): 'wieś',          # strip 'wIC?s'
+    ('0158', 7, 5): 'las',           # draft 'laS'
+    ('0158', 3, 5): 'gotowa rola',   # draft 'gotowa Iola'
+    ('0158', 3, 6): 'AW. B. 339',    # strip; draft junk
+    ('0158', 4, 5): 'las',           # draft 'ias'
+    ('0158', 4, 6): 'Kl. XII 6 V, fol. 36',    # strip 'KI. XII. 6. V'
+    ('0158', 6, 5): 'folwark',       # draft 'IOIWalIkK' (f/l->I)
+    ('0158', 6, 6): 'Kl. XII 6 I, fol. 62',    # '422.0. 1,9 fol. 02'
+    ('0158', 7, 6): 'AGH. sąd Wronki, naj. Rzecień, f. 40',
+                                     # 's.d'='sąd' cf. 0139 r9 'AGH sąd
+                                     # Jarocin'; draft 'ZAU Kl. SąU'
+    ('0158', 8, 6): 'Kl. M. i Dom. P. 8515',   # draft 'BMI. M.117om.'
+    ('0159', 11, 6): 'Bór., s. 308', # draft '30$'
+    # ---- knot cleanups (0154 r108-r111; figures pixel-confirmed
+    # unchanged: 35/15/21/13*) ----
+    ('0154', 108, 3): 'Radusz',      # strip 'Radusz'; draft 'Kadusz'
+    ('0154', 109, 2): 'Trzciel',     # draft 'Trzciel i' (stray glue 'i')
+    ('0154', 109, 3): 'Rańsko',      # draft 'KRańsko'
+    ('0154', 110, 3): 'Rożnowko',    # strip 'Rcsnówko' (c->ż, s->n jumble)
+    ('0154', 111, 2): 'Rożnowo',     # draft 'Rożnowo !' (stray '!')
+    ('0154', 111, 3): 'razem z Rożnowem',   # draft 'razem Zz KRożnowem'
+    ('0154', 116, 5): 'wieś',        # draft 'wWIES' (w-W garble)
+    ('0151', 78, 5): 'zarośla',      # draft 'zarosla' (missing diacritic)
+    ('0157', 148, 5): 'wieś z bud.', # strip 'wieś bud.'; draft 'wies Zz DUM'
+    ('0157', 149, 5): 'zarośla',     # strip; draft 'zarosla'
     # the print's '*' markers (body p. 23-24: dymy given 'zbiorowo' in
     # Tp. 89, estimated per Tp. 90) - star on the dymyTp value
     ('0139', 9, 8): '20 *',

@@ -24,6 +24,8 @@ for ln in t.splitlines():
             v = c[ci]
             if v in ('—', '') or re.fullmatch(r'\d+(?: \*)?', v):
                 continue
+            if re.fullmatch(r'\d+ \d', v):      # raised small mark (SPOT)
+                continue
             raw = (at.get(cur, {}).get('rows', {})
                    .get(m.group(1), {}) or {}).get('raw') or ''
             out.append('%s r%s c%d %s=%r RAW %s'
