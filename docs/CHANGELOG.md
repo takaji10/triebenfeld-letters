@@ -4954,6 +4954,51 @@ footer on every page. Changed, in both languages:
   1,083 places), jekyll and verify_site ALL CHECKS PASSED with the
   project baseurl and with none (63,294 internal links each).
 
+## 2026-11-06: the person page's grey film lifted; the tree re-laid on
+## d3-flextree and re-interacted
+
+- **The grey screen over the whole person page was the media viewer's
+  dimming halo.** When the editor has drawn a Gramps focus rectangle on
+  an image, the viewer dims the photo around it with a box-shadow whose
+  spread is 9999px - meant to darken the photograph outside the region,
+  but .frame did not clip, so the halo painted a grey film over the
+  entire page (the header, the tree, everything; I1751 Anna Hrycyna's
+  birth record C1805 was the one seen). It had been latent since the
+  viewer was written: until the morning's media-base fix every image
+  404ed and no figure ever rendered. .frame now carries
+  overflow: hidden, the halo stays inside the photograph where it
+  belongs, and the region outline keeps drawing.
+- **The tree layout now comes from d3-flextree** (WTFPL, the standard
+  tidy-tree algorithm - Reingold-Tilford 1981 in van der Ploeg's 2013
+  linear-time form - extended to variable node sizes), bundled locally
+  like every dependency: the site keeps its zero-CDN rule. The
+  hand-rolled layout it replaces could not keep couples from
+  overlapping the neighbouring cards (the same page, Anna Hrycyna's
+  hourglass, showed Josephus Zieliński's card across hers). The
+  genealogy semantics stay in tree.js: upward, every parent is a node
+  of its own so both blood lines walk to their depth; downward, the
+  spouse sits beside the person and the children hang beneath the
+  couple; the hourglass aligns the two tidy trees on the focus row.
+  Limits widened to five generations up, four down.
+- **The interaction follows the editor's description**: scroll zooms
+  the chart (wheel, and pinch on touch; no more Ctrl-only on the
+  embedded chart), drag pans, and clicking a card brings that person
+  into view and expands their tree around them - re-rooting in place on
+  the person page (local state) and through the URL on the tree route
+  (the mode rides along in the query). The corner chevron opens the
+  person's page. A hint line under the chart says so, in all three
+  interface languages (tree_hint in i18n.js).
+- One API trap recorded: d3-flextree's layout function wants hierarchy
+  nodes - calling it on raw data wraps them halfway and the nodeSize
+  accessor then meets a node without .data. layout.hierarchy(data) then
+  layout(tree) is the sequence.
+- Checked: a headless layout battery over five people in all three
+  modes (check_tree_layout.mjs in site/genealogy) - no card overlaps
+  anywhere, every link endpoint lands on a card edge; jekyll and
+  verify_site ALL CHECKS PASSED with the project baseurl and with none
+  (63,294 internal links each); bundle rebuilt (84.7 KB gzipped).
+
+
 
 
 - The starred readings' note shows at once (2026-11-06, the editor's

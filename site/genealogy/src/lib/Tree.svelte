@@ -1,14 +1,14 @@
 <script>
   // The family trees: hourglass (default), pedigree (ancestors only) and
-  // descendants. The layout is pure (tree.js); this component draws it and
-  // handles pan (drag), zoom (wheel / pinch) and the two click targets
-  // (chevron: recenter the chart there; card: open the person page).
+  // descendants. The layout is d3-flextree's tidy-tree algorithm
+  // (tree.js); this component draws it and handles the interaction:
+  // scroll to zoom, drag (or pinch) to pan, and the two click targets -
+  // a card brings that person into view and expands their tree around
+  // them, the corner chevron opens their person page.
   //
-  // Embedded on the person page (embed): the mode pills switch a local
-  // mode and the chevron re-roots the chart locally - both without
-  // leaving the page; clicking a card still opens that person's page,
-  // which is the move up or down the tree. On the tree route the pills
-  // and chevron drive the URL as before.
+  // Embedded on the person page (embed): the mode pills and the
+  // re-rooting act on local state, so moving around the tree never
+  // leaves the page. On the tree route both drive the URL.
   import { db, goto } from './db.svelte.js'
   import { i18n } from './i18n.js'
   import { layout, CARD_W, CARD_H, CELL, ROW_H } from './tree.js'
@@ -22,9 +22,8 @@
   const effMode = $derived(embed ? localMode : mode)
 
   const chart = $derived(db.ready && focusId ? layout(db, focusId, effMode) : null)
-  const links = $derived(chart ? chart.links : [])
-  const W = $derived(chart ? chart.totalW * CELL + 40 : 800)
-  const H = $derived(chart ? chart.rows * ROW_H + 60 : 400)
+  const W = $derived(chart ? chart.width : 800)
+  const H = $derived(chart ? chart.height : 400)
 
   // ---- pan & zoom -------------------------------------------------------
 
@@ -35,14 +34,13 @@
   let pinch = null
 
   function onWheel(e) {
-    // embedded on the person page: a plain wheel scroll moves the page,
-    // Ctrl+wheel zooms the chart (pinch always zooms)
-    if (embed && !e.ctrlKey) return
+    // scroll zooms the chart (the hint below the chart says so); pinch
+    // zooms on touch
     e.preventDefault()
     const k = e.deltaY < 0 ? 1.12 : 1 / 1.12
     const rect = el.getBoundingClientRect()
     const mx = e.clientX - rect.left, my = e.clientY - rect.top
-    scale = Math.min(2.2, Math.max(0.35, scale * k))
+    scale = Math.min(2.2, Math.max(0.3, scale * k))
     tx = mx - (mx - tx) * k
     ty = my - (my - ty) * k
   }
@@ -66,7 +64,7 @@
     if (pointers.size === 2 && pinch) {
       const [a, b] = [...pointers.values()]
       const k = Math.hypot(a.x - b.x, a.y - b.y) / pinch.d
-      scale = Math.min(2.2, Math.max(0.35, pinch.s0 * k))
+      scale = Math.min(2.2, Math.max(0.3, pinch.s0 * k))
       tx = pinch.mx - (pinch.mx - pinch.tx0) * k
       ty = pinch.my - (pinch.my - pinch.ty0) * k
     } else if (dragging) {
@@ -90,23 +88,31 @@
     }
   })
 
-  function center() {
+  // centre the content on the focus person, both ways
+  function center(fitScale = null) {
     if (!el || !chart) return
-    scale = 1
     const rect = el.getBoundingClientRect()
     if (rect.width <= 0) return
-    // the focus card, centred both ways: the ancestors sit above it, the
-    // descendants below, so the move up and down starts from the middle
-    const f = chart.nodes.find(n => n.focus)
-    const fx = (f ? f.x : chart.totalW / 2) * CELL + CARD_W / 2
-    const fy = chart.focusY * ROW_H + CARD_H / 2
-    tx = rect.width / 2 - fx
-    ty = Math.max(12, rect.height / 2 - fy)
+    if (fitScale) scale = fitScale
+    tx = rect.width / 2 - chart.cx * scale
+    ty = rect.height / 2 - chart.cy * scale
   }
 
-  function recenter(pid) {
+  // fit the whole chart inside the viewport
+  function fit() {
+    if (!el || !chart) return
+    const rect = el.getBoundingClientRect()
+    if (rect.width <= 0) return
+    const s = Math.min(2.2, Math.max(0.3,
+      Math.min(rect.width / chart.width, rect.height / chart.height)))
+    center(s)
+  }
+
+  // clicking a card: that person becomes the focus and their tree
+  // expands around them, centred in view
+  function reroot(pid) {
     if (embed) localId = pid
-    else goto('tree/' + pid)
+    else goto('tree/' + pid + (effMode !== 'hourglass' ? '?mode=' + effMode : ''))
   }
   function gotoPerson(pid) { goto('person/' + pid) }
 </script>
@@ -127,55 +133,77 @@
       <a class="pill" class:acc={effMode === 'pedigree'} href={'#/tree/' + focusId + '?mode=pedigree'}>↑</a>
       <a class="pill" class:acc={effMode === 'descendants'} href={'#/tree/' + focusId + '?mode=descendants'}>↓</a>
     {/if}
-    <span class="stat"><button onclick={center}>⤢ fit</button></span>
+    <span class="stat"><button onclick={fit}>⤢ fit</button></span>
   </div>
   <div class="viewport" class:embed bind:this={el}
        onwheel={onWheel} onpointerdown={down} onpointermove={move}
        onpointerup={up} onpointercancel={up}>
     <svg width={W} height={H}>
       <g transform="translate({tx},{ty}) scale({scale})">
-        {#each links as [x1, y1, x2, y2]}
-          {@const my = (y1 + y2) / 2}
-          <path d="M {x1} {y1} L {x1} {my} L {x2} {my} L {x2} {y2}"
-                fill="none" stroke="var(--rule)" stroke-width="1.5" />
-        {/each}
-        {#each chart.nodes as n (n.id + '@' + n.y)}
-          {@const cx = n.x * CELL}
-          {@const cy = n.y * ROW_H}
-          {@const v = db.index[n.id]}
-          {@const isFocus = n.id === focusId && n.y === chart.focusY}
-          <g class="node" class:living={v?.L}
-             transform="translate({cx},{cy})">
-            <rect width={CARD_W} height={CARD_H} rx="4"
-                  stroke={isFocus ? 'var(--accent)'
-                    : v?.sx === 'F' ? '#9c5470'
-                    : v?.sx === 'M' ? '#46618a' : 'var(--rule)'}
-                  stroke-width={isFocus ? 2 : 1} fill="var(--card)" />
-            <text x={CARD_W / 2} y="16" text-anchor="middle" class="nm">
-              {(v?.n || n.id).slice(0, 22)}
-            </text>
-            <text x={CARD_W / 2} y="31" text-anchor="middle" class="yrs">
-              {v?.L ? i18n.t('living')
-                : (v?.b || v?.d ? `${v?.b ?? ''}–${v?.d ?? ''}` : '')}
-            </text>
-            <text x={CARD_W / 2} y="45" text-anchor="middle" class="pid">
-              {n.id}
-            </text>
-            {#if !isFocus}
-              <g class="chev" onpointerup={(e) => { e.stopPropagation(); recenter(n.id) }}>
-                <circle cx={CARD_W - 6} cy={CARD_H + 2} r="9"
-                        fill="var(--accent)" opacity="0.85" />
-                <text x={CARD_W - 6} y={CARD_H + 6} text-anchor="middle"
-                      fill="#fff" class="che">›</text>
-              </g>
-            {/if}
-            <rect width={CARD_W} height={CARD_H} fill="transparent"
-                  class="hit" onpointerup={(e) => { e.stopPropagation(); gotoPerson(n.id) }} />
-          </g>
-        {/each}
+        <g transform="translate({chart.baseX},{chart.baseY})">
+          {#each chart.links as d}
+            <path d={d} fill="none" stroke="var(--rule)" stroke-width="1.5" />
+          {/each}
+          {#each chart.splices as [x1, y1, x2, y2]}
+            <line x1={x1} y1={y1} x2={x2} y2={y2}
+                  stroke="var(--rule)" stroke-width="1.5" />
+          {/each}
+          {#each chart.nodes as n (n.id + '@' + n.y)}
+            {@const v = db.index[n.id]}
+            <g class="node" class:living={v?.L}
+               transform="translate({n.x},{n.y})">
+              <rect width={CARD_W} height={CARD_H} rx="4"
+                    stroke={n.focus ? 'var(--accent)'
+                      : v?.sx === 'F' ? '#9c5470'
+                      : v?.sx === 'M' ? '#46618a' : 'var(--rule)'}
+                    stroke-width={n.focus ? 2 : 1} fill="var(--card)" />
+              <text x={CARD_W / 2} y="16" text-anchor="middle" class="nm">
+                {(v?.n || n.id).slice(0, 22)}
+              </text>
+              <text x={CARD_W / 2} y="31" text-anchor="middle" class="yrs">
+                {v?.L ? i18n.t('living')
+                  : (v?.b || v?.d ? `${v?.b ?? ''}–${v?.d ?? ''}` : '')}
+              </text>
+              <text x={CARD_W / 2} y="45" text-anchor="middle" class="pid">
+                {n.id}
+              </text>
+              {#if n.spouse}
+                <g transform="translate({CELL},0)">
+                  <rect width={CARD_W} height={CARD_H} rx="4"
+                        stroke={db.index[n.spouse]?.sx === 'F' ? '#9c5470'
+                          : db.index[n.spouse]?.sx === 'M' ? '#46618a'
+                          : 'var(--rule)'}
+                        stroke-width="1" fill="var(--card)" />
+                  <text x={CARD_W / 2} y="16" text-anchor="middle" class="nm">
+                    {(db.index[n.spouse]?.n || n.spouse).slice(0, 22)}
+                  </text>
+                  <text x={CARD_W / 2} y="31" text-anchor="middle" class="yrs">
+                    {db.index[n.spouse]?.L ? i18n.t('living')
+                      : (db.index[n.spouse]?.b || db.index[n.spouse]?.d
+                        ? `${db.index[n.spouse]?.b ?? ''}–${db.index[n.spouse]?.d ?? ''}` : '')}
+                  </text>
+                  <text x={CARD_W / 2} y="45" text-anchor="middle" class="pid">
+                    {n.spouse}
+                  </text>
+                </g>
+              {/if}
+              {#if !n.focus}
+                <g class="chev" onpointerup={(e) => { e.stopPropagation(); gotoPerson(n.id) }}>
+                  <circle cx={CARD_W - 4} cy={CARD_H + 1} r="9"
+                          fill="var(--accent)" opacity="0.85" />
+                  <text x={CARD_W - 4} y={CARD_H + 5} text-anchor="middle"
+                        fill="#fff" class="che">›</text>
+                </g>
+              {/if}
+              <rect width={n.w * CELL} height={CARD_H} fill="transparent"
+                    class="hit" onpointerup={(e) => { e.stopPropagation(); if (!n.focus) reroot(n.id) }} />
+            </g>
+          {/each}
+        </g>
       </g>
     </svg>
   </div>
+  <p class="hint">{i18n.t('tree_hint')}</p>
 {/if}
 
 <style>
@@ -198,4 +226,5 @@
   .node .hit { cursor: pointer; }
   .chev { cursor: pointer; }
   .che { font-size: 12px; }
+  .hint { font-size: .74rem; color: var(--faint); margin: .3rem 0 0; }
 </style>

@@ -69,8 +69,12 @@
 
 <style>
   figure { margin: 0; }
-  .frame { position: relative; border: 1px solid var(--rule);
+  .frame { position: relative; overflow: hidden; border: 1px solid var(--rule);
     background: #fff; line-height: 0; }
+  /* overflow:hidden keeps the region outline's dimming halo - a
+     box-shadow with a 9999px spread - inside the photograph. Unclipped,
+     it painted a grey film over the entire page (found 2026-11-06, the
+     first person page seen with a working image and a drawn region). */
   img { width: 100%; height: auto; display: block; }
   img.dimmed { opacity: .82; }
   .region { position: absolute; border: 2px solid var(--accent);

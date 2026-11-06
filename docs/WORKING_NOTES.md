@@ -3302,4 +3302,21 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   honest tool is an explicit named list in the config (exclusion.people),
   reported like every other removal; a surname heuristic would have
   been neither visible nor reversible.
+- **A decorative effect with an unbounded spread is a page-wide
+  overlay waiting to happen.** The media viewer dimmed the photo around
+  a focus rectangle with a 9999px box-shadow and no clipping ancestor -
+  correct-looking while no image ever loaded, then a grey film over the
+  whole page the day images worked. Any "dim everything but X" effect
+  must be clipped to the container it belongs to (overflow: hidden on
+  the frame), and ideally seen once with real data before shipping.
+- **d3-flextree for anything tree-shaped.** The hand-rolled genealogy
+  layout drowned in its own special cases (couples, focus rows,
+  hourglass folding) and still overlapped cards. The standard
+  tidy-tree algorithm with variable node sizes (d3-flextree, WTFPL,
+  bundles clean with Vite) takes the geometry; only the genealogy
+  semantics (who is a child, where spouses sit) belong in our code.
+  API trap: call layout.hierarchy(data) then layout(tree) - the layout
+  function on raw data wraps it halfway and the nodeSize accessor meets
+  a node without .data.
+
 
