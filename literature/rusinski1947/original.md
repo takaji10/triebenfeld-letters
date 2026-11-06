@@ -2262,7 +2262,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 7 | Blinek Olędry | Gnin | Blinek | 1720 | las | AW.Blinek, A. 1 | 11 XI 1720 | 23 | — | 126 |
 
-| 8 | Błonie Olędry al. Źdżar | Gnin | Błońsko | — | S-——" | — | — | 51 | — | 229 |
+| 8 | Błonie Olędry al. Źdżar | Gnin | Błońsko | — | S-——" | — | — | 51[^125-1] | — | 229 |
 
 | 9 | Boguszyńskie Olędry | Panienka | Boguszynek | 1762 (?) | — | AGH sąd Jarocin, maj.Boguszyn, vol. II, fol. 74 | 6 VII 1702 | 20 * | — | — |
 
@@ -2286,7 +2286,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 14 | Borujskie Nowe Olędry | Zbąszyń | Nowa Boruja | — | — | — | — | 165 3 | — | 1152 |
+| 14 | Borujskie Nowe Olędry | Zbąszyń | Nowa Boruja | — | — | — | — | 165[^125-2] | — | 1152 |
 
 | 15 | Borujskie Stare Olędry | Zbąszyń | Stara Boruja | 1705(?) |   | Goldmann s. 425 |   |   | — |   |
 
@@ -2594,7 +2594,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 4 | Bielawy Olędry | Wronki | Bielawy | 1747 | wieś zarosła | AGH. s. Wronki, m. Bielawy, fol. 5ł | 26 III 1747 | 10 | — |   |
 
-| 5 | Bolewickie Olędry | Lwówek | Bołewicko | — | szatyn" | — |   | 19 |   |   |
+| 5 | Bolewickie Olędry | Lwówek | Bołewicko | — | — | — |   | 19 |   |   |
 
 | 6 | Bronice Olędry | Piłka | Bronice | 1753 | las | Kl. XII. O II, fol. 55 | 16 II 1753 | — | — | 9 |
 
@@ -2632,7 +2632,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 17 | Czerwonak Olędry | Kicin | Czerwonczyn | — | — | AW. Kliny,C.3 | 1 IV 1781 | 13 * | — | — |
 
-| 18 | Daleszynko | Lubosz | Daleszynek | r | — | — | — | 9 | — |   |
+| 18 | Daleszynko | Lubosz | Daleszynek | — | — | — | — | 9 | — |   |
 
 | 19 | Dębowskie Olędry | Sieraków | Dębowicc | ok. 1722 | nieużytki | AM. Sieraków, C. 53, fol. 156 | 1 XI 1751 | 11 | — | — |
 
@@ -2644,7 +2644,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 23 | Dziewczastruga[^137-1] | Hgrkowo | Dziewcza Struga | 1745 | las | AW. B. 1028 | 1746 | 14 | — |   |
 
-| 24 | Filipowo Olędry | Ryczywół | razem z Wyszynkami | o | — | — | — | 8 * | — | — |
+| 24 | Filipowo Olędry | Ryczywół | razem z Wyszynkami | — | — | — | — | 8 * | — | — |
 
 | 25 | Folsztyn | Wieleń | Folsztyn | ok. 1600 | mokradła (?) | AW. B. 2 | 1 V 1677 | — | — | 57 |
 
@@ -2768,7 +2768,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 67 | Lubowo | Biezdrowo | Łubowo | 1764 | — | AGH.s. Wronki, maj. Poża | 16 IV 1764 | 28 | — | — |
 
-| 68 | Lubowo Zarzeczne | Biezdrowo |   | 1737 | — | rowo, vol. III | 24 V 1737 |   |   |   |
+| 68 | Lubowo Zarzeczne | Biezdrowo |   | 1737 | — | AGH. s. Wronki, maj. Pożarowo, vol. III | 24 V 1737 |   |   |   |
 
 | 69 | Łokacz | Wieleń | Łokacz | 1701 | zarośla, łąki | Kat. XIII. II, fol. 420 | 9 VII 1701 | — | — | 40 |
 
@@ -2884,7 +2884,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 105 | Psarskie Maie Ulędry | r'sSarsKie | PsSarKI | 1748 | — | ZMITLIZe"- 5a. Z LIU" wy, maj. Psarskie, Tax Acten, v. I], fol. 88—94 | 1748 | 9 |   |   |
+| 105 | Psarskie Maie Ulędry | r'sSarsKie | PsSarKI | 1748 | — | AGH. s. Pniewy, maj. Psarskie, Tax Acten, v. II, fol. 88—94 | 1748 | 9 |   |   |
 
 | 106 | Psarskie Wielkie Olędry | Psarskie | Psarce | 1749 (?) | — | dto | 1749 | 16 | — | — |
 
@@ -2894,9 +2894,9 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 109 | Rońskie Olędry | Trzciel | Rańsko |   | — | — | — | 15 | — | — |
 
-| 110 | Rosnowskie Olędry | Komorniki | Rożnowko | — | — | AW. B. 770 | — | 21 | — | — |
+| 110 | Rosnowskie Olędry | Komorniki | Rożnowko | — | — | — | — | 21 | — | — |
 
-| 111 | Rożnowskie Olędry | Rożnowo | razem z Rożnowem | — | — | 4VY. Db. FU | 20 III 1777 | 13 * | — |   |
+| 111 | Rożnowskie Olędry | Rożnowo | razem z Rożnowem | — | — | AW. B. 770 | 20 III 1777 | 13 * | — |   |
 
 | 112 | Róża Olędry | Przytoczna | Poręba | 1624 | — | Rel. Posn. nr 638, r. 1791, fol. 597 i l | 1 I 1624 | 9 |   |   |
 
@@ -3006,7 +3006,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 146 | Wyssogotowo al. Czarne Olędry | Skórzewko | Wysogotowo | pozy lil mr £ | — | b sz b s I | — | 17 | — | — |
+| 146 | Wysogotowo | — | — | — | — | — | — | 17 | — | — |
 
 | 147 | Zakrzewo Olędry | Skórzewko | Zakrzewo | 1747 | grunty opustoszałe | Rel. Posn. nr 626, r. 1788, fol. 404 | 11 XI 1747 | 27 | — | — |
 
@@ -3028,7 +3028,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 156 | Zwierzyniec Olędry | Sieraków | Z.wierzenicc | — | zarośla | AM. 5ICTaKOW, C. 53, fol. 144 | — | 7 | — | — |
 
-| **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.071 | 38 | 4.484 |
+| **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.071 | 38 | 484 |
 
 
 
@@ -3042,9 +3042,9 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 1 | Czapury[^143-2] | Głuszyna | Czapury | 1747 | LL] g | A«xYY. D. id s %.a" 4 4 (a' | 1747 | 12 * | — | — |
+| 1 | Czapury[^143-2] | Głuszyna | Czapury | ok. 1745 | — | AW. B. 1a | 2 VIII 1747 | 12 * | — | — |
 
-| 2 | Głębockic Olędry[^143-3] | Mur. Goślina | Giębocko | 1743 | wieś | MY. AM. o. av.” TE > ">> | 2 XI 1743 | 11 |   | — |
+| 2 | Głębockie Olędry[^143-3] | Mur. Goślina | Giębocko | 1743 | wieś | MY. AM. o. av.” TE > ">> | 2 XI 1743 | 11 |   | — |
 
 | 3 | Kiszewko[^143-4] | Kiszewo | KIszewko | 1697 | gotowa rola | AW. B. 339 | 20 XII 1697 | 9 |   |   |
 
@@ -3088,7 +3088,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 10 | Trzydomy[^144-1] | Chodzież | Trzy Domy | I /DO | zarośla | AW. CG. I, fol. 13 | 15 IV 1755 | — | — | — |
+| 10 | Trzydomy[^144-1] | Chodzież | Trzy Domy | — | zarośla | AW. CG. I, fol. 13 | 15 IV 1755 | — | — | — |
 
 | 11 | Wiorek[^144-2] | Głuszyna | Wiorek | 1754 (?) | — | Bór., s. 308 | 4 III 1754 | 11 | — |   |
 

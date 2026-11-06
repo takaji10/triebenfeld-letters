@@ -825,3 +825,44 @@ Text cells (15, strip-deep-garble): 0147 r5 char; 0148 r18/r24 rok;
 0151 r68 zrodlo prefix; 0154 r105 zrodlo prefix, r111 zrodlo,
 r115 char+zrodlo; 0157 r146 rok+zrodlo; 0158 r1 char+zrodlo,
 r2 zrodlo, r5 char; 0159 r10 rok.
+
+## SPOT ANSWERS round 1 applied (S23-S35, editor rulings)
+
+- S23 ok: a-RAZEM stays 2.386/92/12.967 (a-ludn d9 residue documented).
+- S24 other: the b-RAZEM ludn prints **484**, not 4.484 (annex_notes
+  RAZEM fixed). New arithmetic: pixel b-ludn 538 vs printed 484
+  (Delta -54, column over the total) - open.
+- S25/S26 DECISIVE: the small raised digits after dymy values are
+  FOOTNOTE REFERENCES, not values. Ruled: 0139 r8 `51[^125-1]`,
+  0140 r14 `165[^125-2]` (note 2 = "Razem z Ol. Szarki." - matches
+  the brace-pair: the brace spans r14/r15 and 1152 sits two columns
+  over under the same brace). The other marks (0140 r17 `11 3`,
+  0146 r102 `29 3`, 0151 r67 `28 1`) make no sense to the editor
+  either - left inline, pending. NOTE: with refs removed the a-dymy
+  value sum = 2338 (+11+29 if r17/r102 are refs = 2378) vs printed
+  2386 - the old Delta-1 fit was coincidence of the ref digits.
+- S27: the "Razem z..." block IS a footnote section (confirmed);
+  refs 1/2 now wired, 125-3 still unwired (qa whitelist).
+- S28: `szatyn"` is NOT on 0147 r5's line (glue) -> charakter `—`.
+  The orphan fragment noted here; if it belongs to a neighbour row
+  the editor will say so.
+- S29 ok: 0148 r18/r24 rok -> `—`.
+- S30: 0151 r68 zrodlo = `AGH. s. Wronki, maj. Pożarowo, vol. III`
+  (the tail `rowo` was Pożarowo, not Lubowo!).
+- S31: 0154 r105 zrodlo = `AGH. s. Pniewy, maj. Psarskie, Tax
+  Acten, v. II, fol. 88—94`.
+- S32: 0154 r110 ruled verbatim: `Rosnowskie Olędry | Komorniki |
+  Rosnówko | — | — | — | — | 21 | — | —` (my `Rożnowskie` proposal
+  REJECTED; dzisiejsza = Rosnówko; zrodlo = dash). Consequence:
+  AW. B. 770 belongs to r111's print line -> r111 zrodlo = `AW. B.
+  770` (strip-derived; flagged to the editor for veto). r115 NOT
+  ruled - garbles left, re-asked.
+- S33: 0157 r146 ruled verbatim: `Wysogotowo | — ... | 17 | — | —`
+  (nazwa plain single-s; `al. Czarne Olędry`/`Skórzewko` were glue
+  from r147; parafia AND dzisiejsza dashes).
+- S34: 0158 r1 ruled verbatim: rok `ok. 1745`, char `—`, zrodlo
+  `AW. B. 1a`, data `2 VIII 1747`. r2 nazwa = `Głębockie Olędry`
+  (editor spelling; ref [^143-3] via REFS). All 0158 nazwas carry
+  refs (verified r1-r9). r2 zrodlo / r5 charakter await the
+  editor's offered rows.
+- S35 ok: 0159 r10 rok -> `—`.

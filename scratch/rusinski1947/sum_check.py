@@ -21,6 +21,7 @@ def parse(seg):
 
 def val(cells, k):
     v = cells[k].replace('*', '').strip()
+    v = re.sub(r'\[\^\d+-\d+\]', '', v)     # footnote refs are not values
     if re.fullmatch(r'[\d.]+', v):
         return float(v.replace('.', ''))
     return None
@@ -30,7 +31,7 @@ a = parse(t[i0:i1])
 b = parse(t[i1:i2])
 c = parse(t[i2:i3])
 for tag, rows, tot in (('a', a, (2386, 92, 12967)),
-                       ('b', b, (2071, 38, 4484)),
+                       ('b', b, (2071, 38, 484)),
                        ('c', c, None)):
     print('===', tag, len(rows), 'rows')
     for k, want in ((8, tot[0] if tot else None),

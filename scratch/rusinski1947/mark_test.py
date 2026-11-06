@@ -24,6 +24,7 @@ for ln in t.splitlines():
         rows.append((cur, int(c[0]), c[8], c[10]))
 
 def digits(v):
+    v = re.sub(r'\[\^\d+-\d+\]', '', v)   # footnote refs are not values
     return [int(d) for d in re.findall(r'\d+', v)]
 
 for ci, name, want in ((2, 'dymy', 2386), (3, 'ludn', 12967)):

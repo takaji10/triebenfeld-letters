@@ -577,6 +577,35 @@ CELL_FIXES = {
     ('0157', 156, 5): 'zarośla',     # draft 'zarosia'
     ('0158', 2, 5): 'wieś',          # strip 'wIC?s'
     ('0158', 7, 5): 'las',           # draft 'laS'
+    # ---- SPOT ANSWERS round 1 (editor rulings on S23-S35) ----
+    ('0139', 8, 8): '51[^125-1]',    # S26: the small glyph = footnote
+                                     # ref 1 ('Razem z Mostowskimi Ol.')
+    ('0140', 14, 8): '165[^125-2]',  # S25: footnote ref 2 ('Razem z
+                                     # Ol. Szarki.'); brace spans r14/r15
+    ('0147', 5, 5): '—',             # S28: no such text on r5's line
+    ('0148', 18, 4): '—',            # S29: ok
+    ('0148', 24, 4): '—',            # S29: ok
+    ('0151', 68, 6): 'AGH. s. Wronki, maj. Pożarowo, vol. III',
+                                     # S30: editor's line breaks
+    ('0154', 105, 6): 'AGH. s. Pniewy, maj. Psarskie, Tax Acten, '
+                      'v. II, fol. 88—94',   # S31
+    ('0154', 110, 3): 'Rosnówko',    # S32: editor's verbatim row
+    ('0154', 110, 6): '—',           # S32: źródło is a dash; AW. B. 770
+    ('0154', 111, 6): 'AW. B. 770',  #       sits on r111's print line
+    ('0157', 146, 1): 'Wysogotowo',  # S33: editor's verbatim nazwa
+                                     # (plain, single-s; 'al. Czarne
+                                     # Olędry' + 'Skórzewko' were glue)
+    ('0157', 146, 2): '—',           # S33: parafia dash
+    ('0157', 146, 3): '—',           # S33: dzisiejsza dash
+    ('0157', 146, 4): '—',           # S33: rok dash
+    ('0157', 146, 6): '—',           # S33: źródło dash
+    ('0158', 1, 4): 'ok. 1745',      # S34: editor's verbatim row
+    ('0158', 1, 5): '—',             # S34
+    ('0158', 1, 6): 'AW. B. 1a',     # S34 (editor 'A.W. B. 1a')
+    ('0158', 1, 7): '2 VIII 1747',   # S34
+    ('0158', 2, 1): 'Głębockie Olędry',   # S34: editor's spelling;
+                                     # REFS appends [^143-3]
+    ('0159', 10, 4): '—',            # S35: ok
     ('0158', 3, 5): 'gotowa rola',   # draft 'gotowa Iola'
     ('0158', 3, 6): 'AW. B. 339',    # strip; draft junk
     ('0158', 4, 5): 'las',           # draft 'ias'
