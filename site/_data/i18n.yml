@@ -173,6 +173,7 @@ en:
   map_farms_h2: Farmsteads
   map_morgen_note: Hectares convert the 1868 Morgen at the Polish morga of 1819 (1 morga = 0.56 ha). The survey of 1896 found the holdings larger; its figures are the desyatinas given first.
   map_farm_no: No.
+  map_farm_conj_note: "* Marks a reading the sources leave in doubt - rest on a name to see why."
   map_farm_settler: Settler
   map_farm_size: Holding
   map_farm_details: Full details
@@ -590,6 +591,7 @@ de:
   map_farms_h2: Gehöfte
   map_morgen_note: Die Hektar rechnen die Morgen von 1868 nach der polnischen Morga von 1819 um (1 Mórg = 0,56 ha). Die Vermessung von 1896 ergab mehr Land; ihre Zahlen sind die Desjatinen, die zuerst stehen.
   map_farm_no: Nr.
+  map_farm_conj_note: "* Kennzeichnet eine Lesung, die die Quellen offenlassen - der Hinweis erscheint, solange der Zeiger auf dem Namen steht."
   map_farm_settler: Siedler
   map_farm_size: Besitz
   map_farm_details: Vollständige Angaben

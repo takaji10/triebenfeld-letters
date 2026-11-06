@@ -168,9 +168,23 @@ def main():
             "document.querySelectorAll('.farm-conj').length")
         check('conjectural rows carry the asterisk mark (%d)' % conj,
               conj > 10, '%d marked' % conj)
+        # the note shows at once on hover (the native title tooltip needed
+        # a long rest and read as doing nothing)
+        cspan = page.locator('.farm-conj').first
+        cspan.hover()
+        time.sleep(0.3)
+        check('hovering a starred name shows its note at once',
+              page.evaluate(
+                  "(() => { const e = document.querySelector('.farm-conj');"
+                  " return getComputedStyle(e, '::after').display;"
+                  "})()") == 'block')
+        check('the asterisk explains itself under the table',
+              'leave in doubt' in page.locator(
+                  '.map-pane[data-pane="farms"] .map-farms-note').first
+              .inner_text())
         check('the morgen note stands under the table',
               'morga of 1819' in page.locator(
-                  '.map-pane[data-pane="farms"] .map-farms-note')
+                  '.map-pane[data-pane="farms"] .map-farms-note').nth(1)
               .inner_text())
         check('no hide-linked button', page.locator('#reds-linked').count() == 0)
 

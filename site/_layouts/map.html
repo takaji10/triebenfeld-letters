@@ -252,7 +252,7 @@ layout: default
       {%- for s in m.farms.rows %}
       <tr id="farm-{{ s.n }}" data-farm="{{ s.n }}" class="{% unless s.mark %}farm-nomark{% endunless %}">
         <td class="num">{{ s.n }}</td>
-        <td>{% if s.institution %}{% if lang == 'de' %}{{ s.name_de }}{% else %}{{ s.name }}{% endif %}{% else %}{% if s.name_norm %}{% if s.norm_conf == 'conjectural' %}<span class="farm-conj" title="{{ s.norm_note | escape }}">{{ s.name_norm }}*</span>{% else %}{{ s.name_norm }}{% endif %}{% endif %}{% endif %}</td>
+        <td>{% if s.institution %}{% if lang == 'de' %}{{ s.name_de }}{% else %}{{ s.name }}{% endif %}{% else %}{% if s.name_norm %}{% if s.norm_conf == 'conjectural' %}<span class="farm-conj" tabindex="0" data-note="{{ s.norm_note | escape }}">{{ s.name_norm }}*</span>{% else %}{{ s.name_norm }}{% endif %}{% endif %}{% endif %}</td>
         <td>{{ s.total }}{% if s.morgen %} <span class="farm-old">{{ s.morgen }}&nbsp;M{% if s.rods %}&nbsp;{{ s.rods }}&nbsp;r{% endif %}, 1868{% if s.ha %} ({{ s.ha }}&nbsp;ha){% endif %}</span>{% endif %}</td>
         <td class="farm-do">
           {%- if s.mark %}<a class="map-chip" href="#farm-{{ s.n }}" data-farm="{{ s.n }}">{{ t.map_locate }}</a>{% endif %}
@@ -263,6 +263,10 @@ layout: default
       </tbody>
     </table>
     </div>
+    {%- assign n_conj = m.farms.rows | where: "norm_conf", "conjectural" | size %}
+    {%- if n_conj > 0 %}
+    <p class="map-farms-note">{{ t.map_farm_conj_note }}</p>
+    {%- endif %}
     {%- if m.farms.rows[0].ha %}
     <p class="map-farms-note">{{ t.map_morgen_note }}</p>
     {%- endif %}
@@ -452,9 +456,22 @@ html[data-maptab="farms"] .map-pane[data-pane="farms"] { display: block; }
    uncertain readings marked by their own [?] and tooltip, not by colour */
 .red-tag { font-family: var(--sans); font-size: 10px; line-height: 1.2; padding: 1px 5px; background: rgba(96, 96, 100, .88); color: #fff; border-radius: 8px; white-space: nowrap; box-shadow: 0 1px 2px rgba(0, 0, 0, .25); pointer-events: auto; }
 .red-tag.unsure { background: rgba(96, 96, 100, .88); }
-/* the settler column: the conjectural readings carry an asterisk with
-   the note as a tooltip */
-.farm-conj { font-weight: 400; cursor: help; }
+/* the settler column: the conjectural readings carry an asterisk, and
+   the note on the reading shows at once on hover or focus - the native
+   title tooltip needed a long rest before Windows showed it, which read
+   as doing nothing (the editor, 2026-11-06) */
+.farm-conj { cursor: help; position: relative; }
+.farm-conj::after {
+  content: attr(data-note);
+  position: absolute; left: 0; top: 1.5em; z-index: 40;
+  display: none; width: max-content; max-width: 20rem;
+  background: var(--paper); border: 1px solid var(--rule);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .18);
+  padding: .4rem .6rem;
+  font-family: var(--sans); font-size: .78rem; line-height: 1.35;
+  font-weight: 400; text-align: left; color: var(--ink-soft);
+}
+.farm-conj:hover::after, .farm-conj:focus::after { display: block; }
 @media (max-width: 48rem) {
   .map-text-pair { grid-template-columns: 1fr; }
 }
