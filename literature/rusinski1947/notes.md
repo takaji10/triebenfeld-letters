@@ -346,3 +346,49 @@ fixes) -> compose (join v2 + the label-space polish 'word [^x]' ->
 'word[^x]'). Draft 408.9 kB; 534 body labels all def-paired, 0
 dangling, 0 duplicates; 113 defs unanchored (audit residue). The four
 unruled number items stay open with fixed crops.
+
+## The annex rebuild from the editor's separator lines (rowlines.json)
+
+The editor drew the row separators on Tabela V + the 21 ANEKS I sheets;
+their y-coordinates (scan pixels) drove the row rebuild
+(annex_rows2.py, v10). What the sheets actually are:
+
+- The print's rows are NOT spaced apart - a new row is a text line in
+  the number/name column. Boundaries: number lines (NUMHINT, left <
+  1300) + name-column candidates (the sheet's own number/name
+  separator rule x + 35..95, gap above >= 55, uppercase start) +
+  editor-line repairs (the lines repair rows whose numbers OCR lost).
+- The annex has THREE numbering series (each from 1): a = sheets
+  0139-0146 (rows 1-111), b = 0147-0157 (1-156), c = 0158-0159
+  ('Osady typu przejściowego', 1-9 + 10-11) plus a 4-row sub-table
+  (Janikowo/Jasień/Łoskońskie Nowe/Tuczno, numbered 1-4) - the old
+  table's 'row identity faults' (S20-22) were largely artifacts of
+  not knowing this.
+- Numbering: COUNT within the series; the print's hints validate.
+  Repairs in the loop: phantom drops (hint == counted-1 -> the
+  preceding start), drift-k drops (hintless/dup-hinted predecessors),
+  the systematic-shift fix (a constant hint-count offset over >= 3
+  disputes - 0145/0146 -2, the 0159 sub-table -11), the cross-sheet
+  tail trim, the in-band rescue, cell-arbitration of misread hints
+  (the zoomed number-cell read outranks the line read: 87 Not '81',
+  102 Połajewskie Not the 'doubled 103' - the print has NO numbering
+  defect there), the note filter (a hard-backward hint whose text is
+  prose - 2nd token lowercase - is a footnote, cut from the rows;
+  the sheet-bottom notes no longer pose as rows), sliver/junk row
+  drops, and OVERRIDES for series c (eyeball-verified starts; the
+  sub-table's restart handled by hint-aware numbering for overrides).
+
+RESULT: all 21 sheets' row spans now match the print exactly
+(0139: 1-13 ... 0146: 99-111; 0147: 1-13 ... 0157: 146-156; 0158: 1-9;
+0159: 10-11 + the sub-table 1-4). compose emits one line per row
+(numbered; totals/unnumbered rows after). Known residue: on 4 sheets
+(0144, 0152, 0154, 0156) one row boundary could not be recovered (the
+lineation has no line there and no editor mark) - the affected band's
+text carries two rows' content; the numbering is unaffected. Column
+splitting into cells remains open (the vertical rules are
+row-inconsistent in OCR).
+
+Also this round: S09 marked [sic] per the editor (the book's own
+1889/1890 error); the S04 crop rebuilt as three stacked 3x line
+fragments (the previous crops kept missing the '514' line at y 3293);
+SPOT_SHEET.html = the single open item.

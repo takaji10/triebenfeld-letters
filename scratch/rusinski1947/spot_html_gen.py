@@ -24,22 +24,11 @@ def datauri(name):
 
 # ---------------- the decision items -------------------------------------
 ITEMS = [
-    ('S04', 'B', 'p. 26', '514 dymów × 6,05 (crop redone — the numbers are now legible)',
-     '"Ostatnia rubryka aneksu I b wykazuje 514 dymów … współczynnik 6.05, otrzymamy 3.122 osoby"',
-     '514 × 6,05 = 3.110, not 3.122. Either "516 dymów" or "3.110 osób". The draft still reads 514/3.122 — say which digit the print shows.',
-     'Either "516 dymów" or "3.110 osób" (the crop now shows both numbers)', 'S04_p26_514_dymow.png'),
-    ('S07', 'B', 'p. 43, note 5', 'r. 1043 (crop redone)',
-     'Note 5 of p. 43: "W r. 1043 olędrom Marianowa przedłużono dzierżawę na lat 30 (Q, I, nr 25)."',
-     'Impossible year (the note block is the 1597-1677 era). I applied "r. 1643" on internal evidence; the crop now shows the year — confirm or correct.',
-     '"r. 1643" (applied; confirm from the crop)', 'S07_p43fn_r1643.png'),
-    ('S09', 'B', 'p. 16, note 1', 'Wymysłowo 1889/1890 (crop redone)',
-     'The sigla note: "Tp. 89, 90 — Wymysłowo, 1889 — 1 dym, 1890 — 1 dym"',
-     'Impossible years; the passage is about Tp. 89/90 = 1789/1790. The crop now shows the line.',
-     '"1789 — 1 dym, 1790 — 1 dym"', 'S09_p16_wysylowo.png'),
-    ('S14', 'B', 'p. 68', 'The inline table (crop redone)',
-     'Was: "wyniesie 16,80 ha ,, „ U ) „„ ) 19, 10 H 1) ”» ” ,) 81/, x ) ,) ,, , 7 » » „ 24 20". Now rebuilt as: "prętem 7½-łokciowym wyniesie 16,80 ha; 8 łokci — 19,10 ha; 8½ łokci — 21,60 ha; 9 łokci — 24,20 ha."',
-     'The crop shows the print\'s table. Math: 7½→16,80; 8→19,10; 8½→21,58; 9→24,20. The print reads 21,60 (per the 3x read) — confirm the four pairs and whether the third is 21,58 or 21,60.',
-     'confirm the four pairs (the draft has 16,80 / 19,10 / 21,60 / 24,20)', 'S14_p68_wloka_table.png'),
+    ('S04', 'B', 'p. 26', '514 dymów × 6,05 = 3.122? (crop rebuilt: the three lines, stacked, 3x)',
+     'Line 1: "Ostatnia rubryka aneksu I b wykazuje 514 dymów olęderskich zakordonowanych." Line 2: "Po pomnożeniu ich przez ustalony poprzednio współczynnik" Line 3: "6.05, otrzymamy 3.122 osoby."',
+     '514 × 6,05 = 3.110, not 3.122 — one of the two digits must differ in the print. The previous two crops missed the "514" line; this one is the three lines stacked at 3x.',
+     'Either "516 dymów" or "3.110 osób" — which does the print show?',
+     'S04_p26_514_dymow.png'),
 ]
 
 # ---------------- the tables ----------------------------------------------

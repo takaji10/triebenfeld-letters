@@ -178,6 +178,17 @@ def main():
                note_fix('0058', 5, 'r. 1043', 'r. 1643')))
     ok.append(('0058 #6 na 00 lat->60 lat',
                note_fix('0058', 6, 'na 00 lat', 'na 60 lat')))
+    # S09 (editor): the 1889/1890 datings are the book's own error -
+    # marked [sic]
+    for x in s['0031']['notes']:
+        if '1889 — 1 dym, 1890 — 1 dym' in x['text']:
+            x['text'] = x['text'].replace(
+                '1889 — 1 dym, 1890 — 1 dym',
+                '1889 [sic] — 1 dym, 1890 [sic] — 1 dym', 1)
+            ok.append(('0031 #1 1889/1890 [sic]', True))
+            break
+    else:
+        ok.append(('0031 #1 1889/1890 [sic]', False))
     ok.append(('0113 #1 377 1 nast.->377 i nast.',
                note_fix('0113', 1, '377 1 nast.', '377 i nast.')))
     ok.append(('0113 #2 KI./tol.->Kl./fol.',

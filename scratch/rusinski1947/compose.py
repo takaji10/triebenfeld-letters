@@ -151,7 +151,9 @@ def main():
     for n in [f'{i:04d}' for i in range(139, 160)]:
         rows = at[n]['rows']
         parts.append(f'\n<!-- annex sheet {n}, tier mix -->\n')
-        for num in sorted(int(k) for k in rows):
+        unnum = [(rows[k].get('y', [10 ** 9])[0], k)
+                 for k in rows if not k.isdigit()]
+        for num in sorted(int(k) for k in rows if k.isdigit()):
             r = rows[str(num)]
             if r['tier'] in ('A', 'B') and r.get('cells'):
                 cells = r['cells']
@@ -162,6 +164,9 @@ def main():
             else:
                 raw = r.get('raw') or ' '.join(r.get('cells', []))
                 parts.append(f"{num}. {raw}  ")
+        for _, k in sorted(unnum):
+            raw = rows[k].get('raw') or ''
+            parts.append(f"{raw}  ")
     # ---- ANEKS II and III (printed sources, pp. 145-150, 151-156) -------
     for group in (ANEX2, ANEX3):
         for n in group:

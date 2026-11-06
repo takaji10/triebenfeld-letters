@@ -325,7 +325,7 @@ kustosza katedralnego Poznań”; Tod. 89 — ,,Wymysłowo, dawniej Czar-
 kowskie Olędry zwane, d. 1.” (1 chałupa z gruntem, 1 gospodarz);
 Tol. Wymysłowo, dusz 7 (m. 4, kob. 3 karczmarz, żona, 3 synów,
 — —
-2 córki); Tp. 89, 90 Wymysłowo, 1889 — 1 dym, 1890 — 1 dym;
+2 córki); Tp. 89, 90 Wymysłowo, 1889 [sic] — 1 dym, 1890 [sic] — 1 dym;
 —
 TV — Karczma w Czarkowie”, d. 1; SPTV karczma w Czarkowie”,
 —
@@ -1922,753 +1922,649 @@ ANEKS I
 <!-- annex sheet 0139, tier mix -->
 
 
-1. ['mieszkańcy', '218, r. 1785,', 'fol. 221']  
+1. Nazwa osady okresie Ówczesna Rok w Nazwa terenu przed źródł, lokacji mów WB| mow | osad L. b założ, o Tp.89 loblicz. rozbiorów . Polski , parafia dzisiejsza .. . założ. , na nim . W8 , osady data lub 90 Iszacun-| osady sygn. źródła 7 (z*) | kowo | Tol. Drzyw,  
 
-2.  | Olędry Amtskasnerowskie | Zbąszyń | Toczeń | — | — | — | _ | 18 | _— | _—  
+2. | Amtskasnerowskie Olędry | Zbąszyń Toczeń 18 _— — — — _ _—  
 
-3.  | Baranowskie Olędry | Mosina | Baranówko | = | _ | — | — | 17 | = | 87  
+3. | Baranowskie Olędry Mosina Baranówko 17 87 = _ — — =  
 
-4.  | Barłożna Olędry I | Gościeszyn | Barłożna Go- ścieszyńska | — | — | _— | — | 5 | — | 18  
+4. | Barłożna Olędry I Gościeszyn Barłożna Go- _— 5 18 — — — — ścieszyńska  
 
-5.  | Barłożna Olędry II | Wolsztyn | Barłożna Wol- sztyńska | — | _ | — | _ | e) | — | 29  
+5. | Barłożna Olędry II Wolsztyn Barłożna Wol- | e) 29 — _ — _ — sztyńska |  
 
-6.  | Białe Olędry | Bukowiec | Biała Wieś | — | ==" | - | — | 34 | — | 178  
+6. | Białe Olędry Bukowiec Biała Wieś ==" 34 178 — - — —  
 
-7.  | Blinek Olędry   Żdżar | Gnin | Blinek | 1720 | las | Blinek,A.1/11 AW. | XI1720 | 23 | — | 126  
+7. | Blinek Olędry Gnin Blinek 1720 las AW. Blinek,A.1/11 XI1720| 23 126 —  
 
-8.  | Olędry al. Błonie | Gnin | Błońsko | — | — | _ | = | 511 | — | 229  
+8. | Błonie Olędry al. Żdżar | Gnin Błońsko — 511 | 229 — _ = —  
 
-9. [  10 | Boguszyńskie Olędry Bolewiny Olędry | Panienka Dąbrówka Śrem | Boguszynek Bolewiny | 1762 (?) — | — — | AGH sąd Jaro-6 cin, maj.Bogu- vol. II, szyn, 74 fol. —_ | VII11762  — | 20*  4 | — — | _— 17  
+9. | Boguszyńskie Olędry Panienka Boguszynek 1762 (?) AGH sąd Jaro-6 VII11762| 20*| — — _— cin, maj.Bogu- szyn, vol. II, fol. 74  
 
-10. Bolewiny Olędry Dąbrówka Bolewiny — = — 4 — 17 ll | Borgowo Śrem Borgowo 1785 ta sama wieś | Rel. Cost. nr 18IV1785 | 11 — 43  
+10. [| Bolewiny Olędry Dąbrówka Bolewiny —_ 4 17 — — — —  
 
-11. Borgowo Śrem Borgowo 1785 ta sama wieś | Rel. Cost. nr [18IV1785 Ii — 43 i mieszk. -  
+11. | Borgowo Śrem Borgowo 1785 wieś | Rel. Cost. [18IV1785| Ii 43 ta sama nr — i mieszk. - | 220, r. 1787, folw. dworski | fol. 371/2  
 
-12. Borkowskie Olędry Mosina | Borkowice 1750. las AW. Borek ;6V1750 —  
+12. | Borkowskie Olędry Mosina Borkowice 1750. las AW. Borek 6V1750| 14 : — — Ol, A. 1  
 
-13. ['Boruja Zbąszyń Boruja 1785 ta sama wieś', 'Rel. Cost. nr', '1 V 1785 48 — 213']  
+13. | Boruja Zbąszyń Boruja 1785 ta wieś | Rel. Cost. | 1 V 1785 48 213 sama nr — 1 mieszkańcy 218, r. 1785, fol. 221  
 
 
 <!-- annex sheet 0140, tier mix -->
 
 
-1. % Razem 1 Mostowskimi OI. Ol. Razem z z | Szarki. | 3 Razem z | OI. Sosnowiec.  
+14. Borujskie Nowe Olędry | Zbąszyń Nowa Boruja | —  
 
-14. Borujskie Nowe Olędry | -Zbąszyń Nowa Boruja | — I pos — asel ( | 1152  
+15. Borujskie Stare Olędry Zbąszyń Stara Boruja 1705(?) Goldmann s. 425  
 
-15. ['Borujskie Stare Olędry Zbąszyń Stara Boruja 1705(?) — Goldmann — r, j i s. 425']  
+16. Brodnickie Olędry Brodnica Brodniczka = —— =  
 
-16. ['Brodnickie Olędry Brodnica Brodniczka — 7 — —— 11 — 70']  
+17. Bystrek Olędry Śrem Bystrzek 1757 (?) AGH. Śrem, 2 IV 1757 s. maj. Łąg, vol. III, fol. 143  
 
-17. Bystrzek Olędry Bystrek | 1757 | s. maj. Łąg, vol. fol. 143 III, | 2 1757 IV  
+18. Cegielskie Olędry Wolsztyn Cegielsko 1729 AW. dep. A. I 10 XI 1729 23  
 
-18. ['Cegielskie Olędry Wolsztyn Cegielsko 1729 — AW. dep. A. 1 [10 X1 1729 4 — 23']  
+19. Charłub Olędry Mchy Charłub 1787 | las Rel. Cost. nr 4 VI1787 73 223, r. 1790; fol. 182  
 
-19. ['Charłub Olędry Mchy Charłub 1787', 'las Rel. Cost. nr', '4 VI 1787 9 _ 13 223, r. 1790; fol. 182']  
+20. Chojnickie Olędry Zbąszyń Ghojnik 16 107  
 
-20. ['Chojnickie Olędry Zbąszyń Chojnik r_-> _— _ _— 16 ą 107']  
+21. Chromieckie Olędry Książ Chromiec 1748 AW. A. 2 18 XI1748 22 *  
 
-21. ['Chromieckie Olędry Książ Chromicc 1748 las AW. A. 2 I8X11748', '22*', '— —']  
+22. Chrząstowskie Olędry Wieszczyczyn Olsze 1747 Rel. Cost. nr 251111747 220, r. 1787, fol. 524  
 
-22. ['Chrząstowskie Olędry Wieszczyczyn', 'Olsze 1747 las Rel. Cost. nr [25I1I11747] 19 —_', '- — 220, r. 1787, fol. 524']  
+23. Cisiogórskie Olędry Bukowiec Cicha Góra Rel. Cost. 11 X11757 48 406 nr 224, r. 1791, fol. 379  
 
-23. Góra Bukowiec Cisiogórskie Olędry Cicha | Cost. Rel. nr 224, 1791, r. 379 fol. | 406 48 11  
+24. Czarne Olędry Grodzisk Czarna Wieś 44 243  
 
-24. ['Czarne Olędry Grodzisk Czarna Wieś _ _ _ — 44 — 243']  
+25. Czeskie al. Polsko- Zbąszyń Czeskie Stare 17 122 Czeskie Olędry  
 
-25. ['Czeskie al. Polsko- Zbąszyń Czeskie Stare _— I — _— 17 I 22 Czeskie Olędry']  
+26. Daieszyno Gostyń Stary Daleszyn role kmiece Rel. Posn. nr 13 X 1765 12* 549, r. 1767, fol. 442  
 
-26. Daieszyno Stary Gostyń Daleszyn | kmiece role | Rel. Posn. nr 549, 1767, r. 442 fol. | X 13 1765 12*  
+27. Dąbrówka Olędry Gnin Dąbrowiecka Wola — 14 82 —  
 
-27. Gnin Olędry Dąbrówka Dąbrowiecka Wola Łódź | — | 82 14 —  
+28. Dymaczewskie Nowe OI. Łódź N. Dymaczewo | —— 48 266  
 
-28. OI. Dymaczewo Nowe N. Dymaczewskie | —— | 266 48  
-
-29. Ol. Dymaczewskie Łódź St. Dymaczewo Stare | 1751 | las | Rel. Posn. nr r. 489, 1751, 69 fol. | 13 1751 V GGI  
+29. Dymaczewskie Stare Ol. Łódź St. Dymaczewo 1751 las Rel. Posn. nr 13 V 1751 489, r. 1751, fol. 69  
 
 
 <!-- annex sheet 0141, tier mix -->
 
 
-30. Wolsztyn 30 Głodno Olędry | Głodno 1717 — | AW. I C. _ (str. tyt.) | 37 | Ó | 221  
+30. | Głodno Olędry Wolsztyn Głodno 1717 AW. C. I 37 Ó 221 — _ (str. tyt.)  
 
-31. Gogolewskie Gogolewo Olędry | Gogolewko 1746 las | [10 X11746, Rel. Cost. nr 222, 1789, r. fol. 348 | 10 | — | 15  
+31. | Gogolewskie Olędry Gogolewo Gogolewko 1746 las Rel. Cost. [10 X11746, 10 15 nr — 222, r. 1789, fol. 348  
 
-32. Gościeszyn Gola Olędry | Gola = — | — — | 21 | _ | 12]  
+32. | Gola Olędry Gościeszyn Gola 21 12] — = — — _  
 
-33. Góry Olędry Siedlec | Górna  Tuchorza — — | _— — | _— | — | —  
+33. | Góry Olędry Siedlec Tuchorza Górna| _— _— — — — — —  
 
-34. Ruchocice 34 Góździno Olędry | Goździn las 1735 | AW. A. I 10X11735 | 41 | — | 176  
+34. | Góździno Olędry Ruchocice Goździn 1735 las AW. A. I 10X11735| 41 176 —  
 
-35. Grubskie Olędry Zbąszyń | Grubsko — — | — _ | 35 | _— | 277  
+35. | Grubskie Olędry Zbąszyń Grubsko 35 _— 277 — — — _  
 
-36. Jabłonna Nowa Gnin | Jabłonna — — | —_ — | 38* | — | —  
+36. | Jabłonna Nowa Gnin Jabłonna —_ 38*| — — — — —  
 
-37. Jaromierskie Nowe   OI. Gnin, Kopanica | 7   las 1719 Nowy Jaromierz | AW. 4 B. 2 1719 IL | 15 | —_ | —  
+37. | Jaromierskie Nowe OI. Gnin, Kopanica | Nowy | 1719 las 7 AW. B. 4 2 IL 1719 15 —_ Jaromierz —  
 
-38. Jaromierskie Stare Kopanica Olędry   Wolsztyn | zarośla   1709 Stary Jaromierz Karpicko | AW.dep.A.I1 21 V1709 | 44 | — | —  
+38. | Jaromierskie Stare Olędry | Kopanica Stary Jaromierz | 1709 zarośla AW.dep.A.I1 21 V1709| 44 — —  
 
-39. ['Karpickie Olędry Wolsztyn Karpicko 1729 wieś częśc. AW. A. 1—2', '20X11729] 22 _— 127 zarosła i 20 I 1749']  
+39. | Karpickie Olędry Wolsztyn Karpicko 1729 | wieś częśc. AW. A. 1—2 [20X11729] | 22 127 zarosła — 120 I 1749  
 
-40. ['Kawczyn Olędry Oborzyska Kawczyn 1741 wieś opusto-', 'Rel. Cost. nr', '15 X 1741 16 — 101 szała 177, r. 1742, fol. 210']  
+40. | Kawczyn Olędry Oborzyska -Kawczyn 1741 wieś opusto- | Rel. Cost. 115 X 1741 16 nr — 101 szała 177, r. 1742, fol. 210  
 
-41. ['Kąkolewskie Olędry Bukowiec Kąkolewo 1720 wieś z bud. Rel. Cost. nr', '10 X 1720', '59 — 330 214, r. 1781, fol. 81 i AW. IA T1']  
+41. | Kąkolewskie Olędry Bukowiec Kąkolewo 1720 wieś z bud. Rel. Cost. |10 X1720| 59 nr — 335 | 214, r. 1781, fol. 81 i AW. TA. 1  
 
-42. ['Kiączyńskie Olędry Książ Kiełczynek 1772 las AW. A. I t7X1t1772) 20 —', '152']  
+42. | Kiączyńskie Olędry Książ Kiełczynek 1772 | las AW. A. 1 | 17Xrt772| 20 152 —  
 
-43. ['Komorowo Olędry Gnin Komorówko _ — — e 37 —', '190']  
+43. | Komorowo Olędry Gnin Komorówko _— 37 190 — — — —  
 
-44. Olędry Książ | las Konarzyce 1735 : | Rel. Posn. [14 X11735  nr 628, 1789, r. 578 fol. | 26 | = | 198  
+44. | Konarskie Olędry Książ Konarzyce 1735 las Rel. Posn. nr [14 X11735| 26 198 = : 628, r. 1789, fol. 578  
 
 
 <!-- annex sheet 0142, tier mix -->
 
 
-45.  | Kopanki Olędry | Opalenica | Kopanki | — | — | 24 | 130  
+45. Kopanki Olędry Opalenica Kopanki — — 24 130  
 
-46.  | Kotusz Olędry | Wilkowo Polskie | Kotusz | 1729 | wieś bud. z | Rel. Cost. nr 164, 1729, r. 484 fol. | 25 1729 X | 23 | 159  
+46. Kotusz Olędry Wilkowo Kotusz 1729 wieś z bud. Rel. Cost. nr 25 X 1729 23 159 Polskie 164, 1729, r. fol. 484  
 
-47.  | Krosna Olędry | Mosina | Krosno | 1780 | wieś opusto- szała | AW. I A. | i 1781 V  
+47. Krosna Olędry Mosina Krosno 1780 wieś opusto- AW. A. I i V 1781 szała  
 
-48. 49 50 | Kruczyńskie Olędry Krzemieniewo Krzyż Olędry | Nowemiasto Oporowo Kębłowo | Kruczynek Krzemieniewo Krzyż | 1754 | —— 1 wieś folw. budynkami z — | — Rel. Cost. nr r. 190, 1755, 33 fol. — | ——— 1754 TVII = | 21 * 44 31 | 121 284 174  
+48. Kruczyńskie Olędry Nowemiasto Kruczynek —— — ——— 21 * 121  
 
-49. Krzemieniewo Oporowo Krzemieniewo | 1754 wieś 1 folw. | Rel. Cost. nr [7VII 1754] 44 _ 284 ś z budynkami  
+49. Krzemieniewo Oporowo Krzemieniewo 1754 wieś 1 folw. Rel. Cost. nr TVII 1754 44 284 z budynkami 190, r. 1755, fol. 33  
 
-50. ['Młyńskie al. Borowe Wolsztyn Młyńsko _ = AW.dep.C.1,', 'obow. 10 _— 98 Olędry fol. 3 przyw. dla Kar- x picka']  
+50. Krzyż Olędry Kębłowo Krzyż — — = 31 174  
 
-51.  | Kuślińskie Olędry | Michorzewo | Kuślin | 1741 1 | wieś bud. z | Rel. Posn. nr 430, 1741, r. 229 fol. | V 30 1741 | 31 | 168  
+51. Kuślińskie Olędry Michorzewo Kuślin 1741 1 wieś z bud. Rel. Posn. nr 30 V 1741 31 168 430, r. 1741, fol. 229  
 
-52.  | Łęczne Olędry | Zbąszyń | Łęczno | = | — | 29 | 166  
+52. Łęczne Olędry Zbąszyń Łęczno = — 29 166  
 
-53.  | Łęskie Olędry | Opalenica | Łęczyce | — | — | 25 | 192  
+53. Łęskie Olędry Opalenica Łęczyce — — 25 192  
 
-54.  | Maryanowo | Zbąszyń | Mariankowo | — | =— | 7*  
+54. Maryanowo Zbąszyń Mariankowo — =— 7*  
 
-55.  | Michorzewskie Olędry | Michorzewo | Dąbrową razem z  
+55. Michorzewskie Olędry Michorzewo Dąbrową razem z  
 
-56.  | Młyńskie al. Borowe Olędry | Wolsztyn | Młyńsko | AW.dep.C.1, fol. 3 | obow. przyw. dla Kar- picka | 10 | 58  
+56. Młyńskie al. Borowe Wolsztyn Młyńsko AW.dep.C.1, obow. 10 58 Olędry fol. 3 przyw. dla Kar- picka  
 
-57. 58 59 | Mostowskie Olędry Żdżar al. Narożnik Mały OI. Narożnik Wiełki OIL. Niemiecko-Czeskie OI. | Gnin Ruchocice Ruchocice Zbąszyń | Mościska Narożnik Narożnik Czeskie Nowe | 1737 | AGH Wolsz- s. maj. Ru- tyn, chocice, vot. III, fol. 41 — | -— 10 XI 1737 =— —— | 30 50 117  
+57. Mostowskie Olędry Gnin Mościska al. Żdżar -—  
 
-58.   
+58. Narożnik Mały OI. Ruchocice Narożnik 1737 AGH s. Wolsz- 10 XI 1737 30  
 
-59. 61 Kopanki Olędry Kotusz Olędry Krosna Olędry Kruczyńskie Olędry Krzemieniewo Krzyż Olędry Kuślińskie Olędry Łęczne Olędry Łęskie Olędry Maryanowo Michorzewskie Olędry Młyńskie al. Borowe Olędry Mostowskie Olędry al. Żdżar Narożnik Mały OI. Narożnik Wiełki OIL. Niemiecko-Czeskie OI. Nowawieś Opalenica Wilkowo Polskie Mosina Nowemiasto Oporowo Kębłowo Michorzewo Zbąszyń Opalenica Zbąszyń Michorzewo Wolsztyn Gnin Ruchocice Ruchocice Zbąszyń Śmigiel Kopanki Kotusz Krosno Kruczynek Krzemieniewo Krzyż Kuślin Łęczno Łęczyce Mariankowo razem z Dąbrową Młyńsko Mościska Narożnik Narożnik Czeskie Nowe Nowawieś 1729 1780 1737 1743 — wieś z bud. wieś opusto- szała —— wieś 1 folw. z budynkami — 1 wieś z bud. Rel. Cost. nr | 25 X 1729 164, r. 1729, fol. 484 AW. A. I IV 1781 — ——— Rel. Cost. nr [7 VII 1754 190, r. 1755, fol. 33 Rel. Posn. nr | 30 V 1741 430, r. 1741, fol. 229 — — AW.dep.C.1, | obow. fol. 3 przyw. dla Kar- picka -— AGHs. Wolsz- 10 X11737 tyn, maj. Ru- chocice, vot. — III, fol. 41 —— —— AGH. s. i maj. 5XII 1743 Śmigiel, vol.IV 24 23 21 * 44 31 31 29 25 7* 10 13 21 — 130 159 121 284 174 168 166 192 58 30 50 117 41  
+59. tyn, maj. Ru- Narożnik Wiełki OIL. Ruchocice Narożnik chocice, vot. 50 =— III, fol. 41  
 
-60. ['Niemiecko-Czeskie OI. Zbąszyń Czeskie Nowe', '— — = _— 21', '_ 117']  
-
-61.  | Nowawieś | Śmigiel | Nowawieś | 1743 | AGH. i maj. s. Śmigiel, vol.IV | 5XII 1743 | 41 ŁGI:  
+60. Niemiecko-Czeskie OI. Zbąszyń Czeskie Nowe — —— 117 61 Nowawieś Śmigiel Nowawieś 1743 AGH. s. i maj. 5XII 1743 41 Śmigiel, vol.IV ŁGI:  
 
 
 <!-- annex sheet 0143, tier mix -->
 
 
-60. ['Oberskie Stare OI. Obra Dolna Obra 1713 (?) 7 AGH.s. Wolsz-', '1 V 1713 31 — [', '199 tyn, m. Obra, Iv, TV, fol. 137']  
+61. rozbiorów . Polski parafia założ. na nim data lub 90 :szacun-| osady źródła — osady sygn. (z*) kowo Tol. przyw.  
 
-62.  | Olędry Nowe | Opalenica | Dąbrowa | — | — | — | — | — 11 | — 86  
+62. | Nowe Olędry Mosina Nowinki — — 10 — — — —  
 
-63. ['Nowodąbrowskie al. Opalenica Nowa Dąbrowa', '— — vy — 11 86 Jastrzębnickie OI.']  
+63. | Nowodąbrowskie al. Opalenica Nowa Dąbrowa | 11 86 — — _ — — Jastrzębnickie OI.  
 
-64. ['Nowojastrzębskie OI. Zbąszyń Nowe Jastrzębsko', '— _— — —_ 30 — 196']  
+64. Nowojastrzębskie Ol. Zbąszyń Nowe Jastrzębsko —_— — 30 — 196 — —  
 
-65. ['Oberskie Nowe OI. Obra Nowa Obra ok. 1762 — AGH.s. Wolsz- — 19 __— 120 tyn, maj. Obra, vol. 3. O. 10, fol. 13, 35']  
+65. | Oberskie Nowe OI. Obra Nowa Obra ok. 1762 AGH.s. Wolsz- UJ 19 _— 120 = tyn, maj. Obra, vol. 3. O. 10, fol. 13, 35  
 
-66.  | OI. Oberskie Stare | Obra Śrem | Dolna Obra | 1785 | _   wieś | bra, tyn 137 fol. IV, v. Rel. Cost. | 8IV 1785 | 17 | _ | 104  
+66. | Oberskie Stare OI. Obra Dolna Obra 1713 (?) AGH.s. Wolsz-| 1 V 1713 31 _ 199 _ tyn bra, v. IV, fol. 137  
 
-67.  | Ostrowo | Ostrowo | ta sama   i mieszkańcy | nr 220, 1787, r. 371 fol. | —_ | 14 | — _ | 114  
+67. | Ostrowo Śrem Ostrowo 1785 ta sama wieś | Rel. Cost. nr ||8IV 1785 17 104 — i mieszkańcy | 220, r. 1787, fol. 371  
 
-68.  | Ostrowskie al. Zakrzew- Olędry skie | Książ | Zakrzewice Pecna | — 1729 | — zarośla las, | — Cost. Rel. | 11 XI1729 | 24 | 115  
+68. | | Książ Zakrzewice —_ 14 _ 114 Ostrowskie al. Zakrzew- — — — skie Olędry  
 
-69.  | Olędry Pecna | Iłowiec | 1729 | rola | nr r. 165, 1730, 823 fol.   Cost. Rel. | 27 VII | 17 | _ | 110  
+69. | Pecna Olędry Iłowiec Pecna 1729 las, zarośla Rel. Cost. |11 XI1729| 24 115 nr _ 165, r. 1730, fol. 823  
 
-70.  | Podgradowice | Rakoniewice | Podgradowice | 1736(?) | gotowa folw. wieś i | nr 1729, 167, r. 177 fol.   Cost. Rel. | 1729 18 VIII | 19 | — | 129  
+70. | Podgradowice Rakoniewice | Podgradowice |1729 gotowa rola Rel. Cost. nr | 27 VII 17 110 — 167, r. 1729, 1729 fol. 177  
 
-71.  | Popowo | Wilkowo Polskie Mosina | Popowo Stare | budynkami z | nr 1739, 174, r. 1118 fol. | 1736 | 9 | —  
+71. | Popowo Wilkowo Stare Popowo |1736(?) | wieś i folw. Rel. Cost. nr | 18 VIII 19 129 — Polskie z budynkami | 174, r. 1739, 1736 fol. 1118  
 
-72. 73 | Pożegowskie Olędry ! Proszkowo Olędry | Prochy | Pożegowo Pruszkowo | — 1746 | —   wieś opusto- szała | — I AW. A. | — V1746  17 | 13 | = _ | _— 83  
+72. | Pożegowskie Olędry ! Mosina Pożegowo — 9 = _— — — —  
 
-73. Proszkowo Olędry | Prochy Pruszkowo | 1746 wieś opusto- | AW. A. I 17 V1746  
+73. | Proszkowo Olędry Prochy Pruszkowo 1746 wieś opusto- | AW. A. I 17 V1746| 13 83 _ szała  
 
 
 <!-- annex sheet 0144, tier mix -->
 
 
-1. Nie jest całkiem osada Pożegowskie OI. rzeczą pewną, czy Hol. — wiają się następująco: MP: Pożegowskie. MG i tu MGd: — VO Holędry Pożegowskie. 84 (16—19. 1783): II „„wieś folwarkiem, z Rel. 222, Cost. 1789, 258, fol. osada wsi: Walenty komornik, nr r. łupnik, Maciejowa Jan komornica, sołtys Antoni chałupnik, komornik, — Sobestyan komornik. Pożegowe, wieś, folw., owczarnia, TV: być uczyniono może, tutaj próbę skolonizowania wsi prawie olęderski na 1793 około (TV) część wiejskich ról obrócono folwark. r. znowu na | należała Poż egowo 4 Inquilini... komornica karczma „d. m, | do osad typu 75: (wieś). Tp. — agros Magdalena, Mikołay gcścinny, 9. Ciągłe zmniejszanie jednak nicwiadcmych z | olęderskiego. Olędry Pożegowskie, — colentes””. Tol., Sebestyan chałupnik, kcmornica się dymów przyczyn | Wiadcmcści d. 89 Tod. Jan owczarz, Naganianka, wskazywał wic$ powoli | źródłowe — 0 18. 89: i OWK Łukasz Stanisław Ły pustoszała, | przedsta- 83, XVIII: brak. rybak, to, na | — cha- że aż  
+74. 14 14 Przychodzkie al. Bielaw- Zbąszyń Przychodzko 41 188 skie Olędry  
 
-74. ['Przychodzkie al. Bielaw-', 'Zbąszyń Przychodzko = = — = 41 — 188 skie Olędry']  
+75. stwo 75 Puszczykowskie Olędry Parzęczewo Puszczykowiec 1746 gotowa rola I I AW. A. 12 1746 10 49  
 
-75. o 15 | Puszczykowskie Olędry Parzęczewo Puszczykowiec | 1746 gotowa rola | AW. A. | 12 I 1746 10 _ 49
-s. 70 | Radoszkowskie Olędry Książ razem z Radosz- | 1753 las, zarośla Rel. Cost. nr |12 11 1781 12 = 30
-> kowem 215, r. 1782,
+76. Radoszkowskie Olędry Książ Radosz- 1753 las, zarośla Rel. Cost. 12111781 razem z nr 12 36 nsejzy kowem 215, r. 1782, fol. 351  
 
-z | fol. 351  
+77. Rakoniewice Rakonicwice Rakconicwicec- 1729 wieś Rel. Cost. 27 VII 5* | 814 opusto- nr Wieś szałą 164, r. 1729, 1729 fol. 177  
 
-76. Radoszkowskie Olędry Książ razem z Radosz- | 1753 las, zarośla Rel. Cost. nr | 12 11 1781 12 — 36 kowem 215, r. 1782, fol. 351 17 Rakoniewice Rakonicwice Rakcniewicc- 1729 wieś opusto- Rel. Cost. nr 27 VII 5* — — Wieś szałą 164, r. 1729, 1729 , fol. 177 78 Rataje Olędry Gnin Rataje 1740 wieś, częśc. Rel. Posn. nr 10 XI 17* -- _ zarosła 640, r. 1791, 1740 fol. 247 79 Reklińskie Olędry Siedlec Reklinek _ _Ł — — 21 _ 130 80 Ręcko Wilkowo Reńsko 1728 wieś i folw. Rel. Cost. nr 29X1728 20 _ 115 „Polskie z budynkami 167, r. 1732, fol. 205 81 Rojewskie Olędry Bukowice Rojewo — — — — 11 — 13 82 Rudna. Olędry Kębłowo Rudno — — _— — 20 — 109 83 Słocińskie Olędry Grodzisk Słociniec = = _— — 7 — 34 84 Snowidowo Ptaszkowo Snowidowo 1755 wieś z bud. Rel. Posn. nr 3VIT1760 | — 18 — 106 N 620, r. 1787, _ fol. 26 85 | Sosnowiec Olędry Śrem Sosnowiec _— — — — — — — 1 Nie jest rzeczą całkiem pewną, czy osada Pożegowskie OI. należała do osad typu olęderskiegoc. Wiadcmcści źródłowe przedsta- wiają się tu następująco: MP: Hol. Pożegowskie. — MG i MGd : Pożegowo (wieś). — Tp. 75: Olędry Pożegowskie, d. 18. — 0 83, XVIII: Holędry Pożegowskie. — VO 84 (16—19. II 1783): ,„wieś z folwarkiem, 4 Inquilini... agros colentes”. — Tol., Tod. 89 i OWK 89: brak. — Rel. Cost. nr 222, r. 1789, fol. 258, osada wsi: Walenty komornik, komornica Magdalena, Sebestyan chałupnik, Jan owczarz, Łukasz cha- łupnik, Maciejowa komornica, Antoni sołtys chałupnik, Jan komornik, Mikołay gcścinny, kcmornica Naganianka, Stanisław rybak, Sobestyan komornik. — TV: Pożegowe, wieś, folw., owczarnia, karczma, d. 9. Ciągłe zmniejszanie się dymów wskazywał Ły na to, że być może, uczyniono tutaj próbę skolonizowania wsi na prawie olęderskim, jednak z nicwiadcmych przyczyn wic$ powoli pustoszała, aż około r. 1793 (TV) znowu część ról wiejskich obrócono na folwark.  
+78. 'Pis[og 78 Rataje Olędry Gnin Rataje 1740 wieś, częśc. Rel. Posn. 10 XI 17* nr zarosła 640, r. 1791, 1740  
 
-77. : 17 | Rakoniewice Rakonicwice | Rakoniewicc- 1729 wieś opusto- Rel. Cost. nr | 27 VII 5* | — —
-=: Wieś szałą 164, r. 1729, | 1729
+79. 'z fol. 247 G 79 Reklińskic Olędry Siedlec Reklinek _. 21 130  
 
-i | fol. 177
+80. Ręcko Wilkowo Reńsko 1728 wieś 1 folw. Rel. Cost. 29 X 1728 20 nr 115 Polskie z budynkami 167, r. 1732, fol. 205  
 
-78 | Rataje Olędry Gnin | Rataje 1740 WICŚ, Częśc. Rel. Posn. nr | 10 XI 17*| — _  
+81. Rojewskie Olędry Bukowicc Rojewo 11 13 — =  
 
-78. 'z G | 78 Rataje Olędry Gnin Rataje | 1740 | wieś, częśc. zarosła | Rel. Posn. nr 640, 1791, r. 247 fol. | 10 XI 1740 | 17*  
+82. Rudna. Olędry Kębłowo Rudno 20 109 — —  
 
-79. Reklińskic Olędry Siedlec Reklinek | _. | 21 | 130  
+83.   
 
-80. 80 | Ręcko Wilkowo Reńsko 72a wieś 1 folw. Rel. Cost. nr [29X1728] 20 _ 115
-Polskie z budynkami | 167, r. 1732,
-' fol. 205
-81 | Rojewskie Olędry Bukowicc Rojewo __ _— | _— 7Ż 11 —_ 13  
+84. Słocińskie Olędry Grodzisk Słociniec 7 34 —— = —  
 
-81. | | | fol. 205 | | |
-81 | Rojewskie Olędry Bukowicc Rojewo _ — | — __ 11 —_ 73
-82 | Rudna. Olędry Kębłowo Rudno | _ _— - 3 20 — 109
-Q%? | GI szc in (lay. F'enAch GŁ Lt | m O  
+85. Soleckie Olędry Kębłowo Solec Nowy 24 117 = —  
 
-82. = > i bd | H HU | a z vw
-82 | Rudna. Olędry Kębłowo Rudno _ _— - 3 20 — 109
-33 | Słocińskie Olędry Grodzisk Słociniec _— — = > 7 — 34
-84 | Snowidowo Ptaszkowo Snowidowo 1755 wieś z bud. | Rel. Posn. nr |3VIT1760| 18 __ 106  
-
-83. 93 | 5iocinskie UOlędry Grrodzisk JŁOCINICC _— _— | _=Ć _— 7 — 34
-84 | Snowidowo Piaszkowo Snowidowo 1755 wieś z bud. ; Rel. Posn. nr |3VII1760 18 _ 106
-N 620, r. 1787,
-_ fol. 26  
-
-84. N | — Jeworien| | O
-
-- fol. 26
-65 | Soleckie Olędry Kębłowo Solec Nowv _— — | _—_ — 24 _ 117
-80 | Sosnowiec Olędry Śrem SOSNOWIec _— _ | — _ _ _ ne  
-
-85. Soleckie Olędry Kębłowo Solec Nowy | = | — | 24 | 117  
-
-86. Śrem 86 Sosnowiec Olędry Sosnowiec | — | = | —  
+86. Sosnowiec Olędry Śrem Sosnowiec — = —  
 
 
 <!-- annex sheet 0145, tier mix -->
 
 
-87.  | Sowińskie Olędry | Książ | Sroczewo | 1743 | częścią role | 211 s. Rel. Posn. | IIL1743] '1 | 22 | —_ | — 139  
+87. | Sowińskie Olędry Mosina Sowinki 1742 las DWZP nr29,| 1742 _— 17 — s. 211  
 
-88.  | ! Olędry Sroczewo | Opalenica | Dąbrowa | zarosłe | nr 1790, 633, r. 270 fol. | _— | 25 | 154  
+88. | Olędry ! Książ Sroczewo 1743 role częścią Rel. Posn. nr '1 IIL1743] 22 —_ 139 Sroczewo zarosłe 633, r. 1790, fol. 270  
 
-89. I 90 | Olędry Starodąbrowskie Olędry Starojastrzębskie | Zbąszyń Zbąszyń | Jastrzębsko Stare Stefanowice | — 1710 — 12 (?) | — — | — Tage-! Posener dn. blatt z 1934 18 III | 1712 | 45 11 | — — _— | 282 36  
+89. | Starodąbrowskie Olędry Opalenica Dąbrowa _— 25 154 — — — —  
 
-90. ['Starojastrzębskie Olędry', 'Zbąszyń Jastrzębsko 1710 — 7% Posener Tage-! 1712 45 — 282 Stare 12 (?) blatt z dn.']  
+90. I Starojastrzębskie Olędry Zbąszyń Jastrzębsko 1710 Posener Tage-! 1712 45 — 282 — — Stare 12 (?) blatt z dn. | 18 III 1934  
 
-91.  | Olędry Stefanowskie | Gościcszyn | Stodolsko | — 1742 | — | — Wolsz- AGH | — 1742 [20 II | 18 | 90  
+91. | Stefanowskie Olędry Zbąszyń Stefanowice 11 _— 36 — — — —  
 
-92. ['Stodólsko Olędry Gościcszyn Stodolsko 1742 _—?Ć', 'AGH s. Wolsz- [20 II 1742 18 z. 90 tyn, maj. Go- ścieszyn, vol. V']  
+92. | Stodólsko Olędry Gościcszyn Stodolsko 1742 AGH s. Wolsz- [20 II 1742 18 — 90 = tyn, maj. Go- ścieszyn, vol. V  
 
-93. ['Strumiany Olędry Jeżewo', 'Strumiany — — — — 18 _— 115']  
+93. | Strumiany Olędry Jeżewo Strumiany — 18 — 115 — =  
 
-94. ['Sucha Dębina i Gnin Wola Ja- 1738 las, zarośla AW. Wioska [29.X 1738] 31 _ 159 błońska Ol. B. 1']  
+94. | Sucha Dębina Gnin Wola Ja- 1738 las, zarośla AW. Wioska |29.X 1738| 31 159 = błońska OI. B. 1  
 
-95.  | Szarki Olędry Świącyńskie | Zbąszyń | Świączyń | 1745 | - zarośla | w dok. arch.; brak   Cost. Rel | 1724 1750 1 I | — 16 | — | — 97  
+95. | Szarki Olędry Zbąszyń Szarki 1724 (?) nota w repert.| 6 VIII — — - — | arch.; dok. 1724 brak | Świącyńskie Gogolewo Świączyń 1745 zarośla Rel Cost. nr. | 1 I 1750 16 97  
 
-96.  | Olędry Świętne | Gogolewo | Świętno | nr. 1756, 191, r. 82 fol. | 31 | — 23 | 356  
+96. Olędry — 191, r. 1756, fol. 82  
 
-97.  | Olędry | Kębłowo | Tarnowa | _ 1712 | —   rola | — Rel. Cost. nr | —  5 1712  VI | 44 | 265  
+97. | Świętne Olędry Kębłowo Świętno 31 23 356 _ — — —  
 
-98.  | Tarnowa | Prochy | gotowa | 1719/20, 155, r. 141 fol. | —  
+98. | Prochy Tarnowa 1712 gotowa rola | Rel. Cost. nr |5 VI 1712| 44 265 98 Tarnowa — 155, r. 1719/20, fol. 141  
 
 
 <!-- annex sheet 0146, tier mix -->
 
 
-1. wsi Sroczewa dawnej i 1 Sroczewskie Olędry powstały osadzonej z zostali 1789 prawdopodobnie mieszkańcy mieszaną. Przed osadą starzy r. 78 Colonia Sroczewskie VO —,,Nova Wynika wzmianek źródłowych: to z | Holędry | części jej gruntów na przeniesieni na prawo i Sroczewo | Były kolonii olęderskiej. i przyłączeni olęderskie colonistis molendino et cum cum — Hol. | więc do gminy | początku z olędrów. aquatico”;  
+99. Terespotockic Olędry Opalenica | Terespotockie _— | 22 178 — —  
 
-2.   
+100. Tłockie Oledrv Wolsztyn i Nowe Tłoki 1751 (?) AGH Wolsz-| 15 VII 13 74 s. — tyn,maj.Tłoki,| 1751 v. I ,fol. 166  
 
-83. 89 83 Olędrami”; Tod. Sroczewo O wioska XX Sroczewo z — — Holendry Olędry Sroczewskie: wieś czyli dziedziczne”; MP czewo x6 mieszkańcy Książ, I, oczynszowani majętn. vol. fol. nast.) XVI i wszyscy są | Olędry MG | 22; d. Tp. 89 i — i MGd. Sroczewo i siedzą równych na | 90 d. 22; Sroczewo Holl. W chwili regulacji prawzch. | OWK (AGH | 89 „„Sro- — Śrem, sąd | cl  
+101. Troszczyńskie Olędry Opalenica Troszczyn _— 16 _— 122 — —  
 
-99. Terespotockie Olędry | Opalenica | Terespotockie _— _ — | — 22 — 178  
+102. Nowe Olędry Siedlec Nowa Tuchorza 1744 * zarośla AW. A. I 21 X 1744) 258 | — 206  
 
-100. Tłockie Oledrv Wolsztyn | Nowe Tłoki 1751 (?) — AGH s. Wolsz-  
+103. Stare Olędry Siedlec Stara Tuchorza 1703 zarośla, las AW. A. I] 2 II 1703 32 _— 176  
 
-101. ['Troszczyńskie Olędry Opalenica Troszczyn u — _— — 16 _ 122']  
+104. Ujście Nowe Kopanica Nowe Uście 1719 ta sama wieś AW. Jaromicrz| 1 XI11719| 25 73 — 1 mieszkańcy B. 4 l )  
 
-102. Nowe Olędry Siedlec Nowa Tuchorza | 1744 * | zarośla AW. A. I 21 X 1744) 253 | — 206  
+105. Ujście Stare Kopanica Stare Uście 1712 dto dto 1712 23 7 _—  
 
-103. Stare Olędry Siedlec | Stara Tuchorza 1703 zarośla, las AW. A. ] 2 II 1703  
+106. Wilcz Olędry Obra Wilcze ok. 1762 _— 14 — 82 = —  
 
-104. Ujście Nowe Kopanica | Nowe Uście | 1719 ta sama wieś | AW. Jaromicrz  
+107. Włościejewskie Olędry Włościcjewki Włościejewice 1783 las Rel. Cost. | 15 HI 15 — 130 nr 217, r. 1784, 1783 fol. 78  
 
-105. [': Ujście Stare Kopanica', 'Stare Uście 1712 dto dto 1712 23 = — 1.']  
+108. Zaborowo Dubin Zaborowo _— 10 _— 87 —  
 
-106. Wilcz Obra Wilcze Olędry | ok. 1762 | = | — | 14 | — | 82 130  
+109. Zakrzewko Olędry Zbąszyń Zakrzewko 16 | — = _ _— | |  
 
-107. Włościcjewki Włościejewice Włościejewskie Olędry | 1783 | las | 15 Rel. HI Cost. nr 217, 1784, 1783 r. 78 fol. _— | 15 | — _—  
+110. .Zdrogową Olędry Gościeszyn Zdrogowo _ 13 — 71 —  
 
-108. Zaborowo Zaborowo Dubin | — | 10 | 87  
-
-109. Zakrzewko Olędry Zakrzewko Zbąszyń | — = | 16 | _ | _—  
-
-110. Zdrogowo .Zdrogową Olędry Gościeszyn Żabinko | _ — | 13 | — | 71  
-
-111. Żabińskie Żabno 111 Olędry | 1778 | Cieplucha, — 283 s. Razem | 37  2.386 | — 92 | 226 12.967  
+111. Żabińskie Olędry Żabno Żabinko 1778 Cieplucha, 37 226 — — s. 283  
 
 
 <!-- annex sheet 0147, tier mix -->
 
 
-1. ['mieszkańcy']  
+1. Nazwa osady okresie Ówczesna Nazwa przed mów wg mów osad w terenu źródł. o lokacji I lub L.b założ. Tp. 89 oblicz. parafia dzisiejsza założ. nim | w rozbiorów Polski na data lub szacun- Dymy G osady osady | źródł. z _przyw. zabr, sygn. . kowo wg  
 
-2. ['Białężyńskie Olędry Białężyn Białęgi 1748 las AW. B.59—60 29 IV 1748 9 _— _—']  
+2. Barcinek Wierzenica Barcinek 1781 ta sama wieś AW. B. 1 1781 4 * 1 mieszkańcy  
 
-3. ['! Białokoskie Olędry Psarskie Białokoszyce _ las AW. B.', '1792 5 _ —']  
+3. Białokoskie Olędry Psarskie Białokoszyce las AW. B. 1 1792 ——  
 
-4. ['Bielawy Olędry Wronki Bielawy 1747 wieś zarosła AGH. s. Wron-', '28 III 10 _ — ki, m.Bielawyj 1747 fol. 5ł']  
+4. Bielawy Olędry Wronki Bielawy 1747 wieś zarosła AGH. s. Wron-| 28 III ki, m. Bielawy 1747 fol. 5ł  
 
-5. ['Bolewickie Olędry Lwówek Bołewicko — _— _— —_ 19 _— 7']  
+5. Bolewickie Olędry Lwówek Bołewicko  
 
-6. ['Bronice Olędry Piłka Bronice 1753 las KI. XII. 6 IL [10 11 1753) — - D fol. 55']  
+6. Bronice Olędry Piłka Bronice las KI. XII. 6 II [16 II 1753 fol. 55  
 
-7. ['Brzekiniec Olędry Budzyń. razem z Przekińcem! — — — pu — — 20)']  
+7. Brzekiniec Olędry Budzyń. Brzekińcem razem z  
 
-8. ['Bucharzewo Olędry Sieraków Bucharzewo 1722 zarośla AM. Sieraków,[]1 XI 1751 5 = = C.53 fol. 120']  
+8. Bucharzewo Olędry Sieraków Bucharzewo zarośla AM. Sieraków,|] XI 1751 C.53, fol. 120  
 
-9. Budziszewskic Wielkie Budziszewko | Budziszewice 1746 las AW. B. 108 [2 IV 1746  
+9. Budziszewskic Wielkie Budziszewko Budziszewice las AW. B. 108 [2 IV 1746 31! Olędry  
 
-10. ['Bukowiec Olędry Sieraków Bukowce 1091 wieś opusto-', 'AW. A. 1 i', 'I8TV 1692 7 — szała AM. Sieraków, C. 53, fol. 103/11 X1 1751']  
+10. Bukowiec Olędry Sieraków Bukowce wieś opustO- AW. A.1i 18 IV 1692 szała AM. Sieraków, 1 C. 53, fol. 103] 1 XT 1751  
 
-11. ['Cegielskie Olędry Trzciel Prądówka 1740 las: AM. Trzciel, [24 V 1740 21 — _— a A.']  
+11. Trzciel Prądówka 1740 las: AM. Trzciel, [24 V 1740 Cegielskie Olędry A. 1  
 
-12. ['Chełmskie Olędry Pniewy Chełminko 1732 las Rel. Posn. nr [2 ITI 1732 24%', '— =. 435, fol. 230 i 1 nr503, fol. 183 11 XT1740']  
+12. Chełmskie Olędry Pniewy Chełminko 1732 las Rel. Posn. 2 III 1732 24 * nr 435, fol. 230 i i nr503, fol. 183 11 XT1740  
 
-13. ['Chmielinka Lwówek Chmielinko 1776 wieś i folw. Rel. Cost. nr [281111776] 50 — — z zasiewami', '209, fol. 223']  
+13. Chmielinka Lwówek Chmielinko 1776 wieś 1 folw. Rel. Cost. nr 28III m 50 z zasiewami 209, fol. 223  
 
 
 <!-- annex sheet 0148, tier mix -->
 
 
-14.  | Chorzępowa Czarne Olędry | Sieraków "Trzciel | Chorzępowo Czarne | 1753 — | wieś ta sama i mieszkańcy | Sieraków, AM. 6, fol. 161 C. | 24 VI 1753 = | 5 *  
+14. Chorzępowa Sieraków Chorzępowo 1753 wieś AM. Sieraków, 24 VI ta sama i mieszkańcy C. 6, fol. 161 1753  
 
-15. ['Czarne Olędry', 'Trzciel Czarne — _— _— — 5*', '— —']  
+15. Czarne Olędry | "Trzciel Czarne 5 * — =  
 
-16.  | Czarne Olędry | Goślina Mur. | Czernice | — | m | 12  
+16. Czarne Olędry Mur. Goślina Czernice 12 — m  
 
-17.  | Czerwonak Olędry | Kicin | Czerwonczyn | =— | Kliny,C.3 AW. | 1LIV1781 | 13'*  
+17. Czerwonak Olędry Kicin Czerwonczyn AW. Kliny,C.3 1LIV1781 13'* =—  
 
-18.  | Daleszynko | Lubosz | Daleszynek | TE  
+18. Daleszynko Lubosz Daleszynek TE  
 
-19.  | Dębowskie Olędry | Sieraków | Dębowicc | 1722 ok. | nieużytki | Sieraków, AM. 53, 156 fol. C. | l 1751 XI | 11  
+19. Dębowskie Olędry Sieraków Dębowicc ok. 1722 nieużytki AM. Sieraków, l XI 1751 11 C. 53, fol. 156  
 
-20.  | Dłuskie Olędry Nowe | Przytoczna | Nowe Dłusko | — 5 | 15 =  
+20. Dłuskie Nowe Olędry Przytoczna Nowe Dłusko 15 = —  
 
-21. 22 | Dłuskie Stare Olędry Drzewce Olędry | Przytoczna Międzychód | Stare Dłusko Drzewce | 1668, 1724, | las zarośla las, | I AW. A. 2 AW. B. | 1688 VI 1724 2 11 | * 22  
+21. Dłuskie Stare Olędry Przytoczna Stare Dłusko 1668, las AW. I 5 1688 A. VI  
 
-22. Drzewce Olędry Międzychód | Drzewce 1724 | las, zarośla AW. B. 2 2111724  
+22. Drzewce Olędry Międzychód Drzewce 1724, las, zarośla AW. B. 2 2 11 1724 22 *  
 
-23.  | Dziewczastruga | Hgrkowo | Dziewcza Struga | 1745 | las | 1028 AW. B. | 1746 | 14  
+23. Dziewczastruga Hgrkowo Dziewcza Struga 1745 las AW. B. 1028 1746 14  
 
-24.  | Filipowo Olędry | Ryczywół | Wy- razem z szynkami | — | 8 *  
+24. Filipowo Olędry Ryczywół razem Wy- 8 * z — szynkami  
 
-25.  | Folsztyn | Wieleń | Folsztyn | 1600; ok. | mokradła (?) | 2 AW. B. | l 1677 V  
+25. Folsztyn Wieleń Folsztyn ok. 1600; mokradła (?) AW. B. 2 l V 1677  
 
-26. 27 | Garganowo Gębickie Olędry Glinki | Mur. Goślina Ryczywół | Garganowo Gębiczyn | 1785 ok. 1735 | zarośla zarośla las, | p I AW. A. | —— 11 XI 1735 120X 1744 | 42  
+26. Garganowo Mur. Goślina Garganowo ok. 1785 zarośla p ——  
 
-27. ['hy']  
+27. Gębickie Olędry Ryczywół Gębiczyn 1735 las, zarośla AW. A. I 11 XI 1735 42 120X 1744  
 
-28.  | Olędry | Wytomyśl | Glinno | 1701 | rola gotowa | Rel. Posn. nr 640, 1791, r. 270 fol. | 11 XI 1701 | 59  
+28. Glinki Olędry Wytomyśl Glinno 1701 gotowa rola Rel. Posn. nr 11 XI 59 640, r. 1791, 1701 fol. 270  
 
-29. 30 31 | Główno Olędry Gogolice Olędry Gorgoszewo Olędry | Jan Poznań,św. Biezdrowo Bytyń | Główieniec Gogolice Gorgoszc wo  
+29. Główno Olędry Poznań,św. Jan Główieniec  
 
-30. ['Gogolice Olędry Biezdrowo Gogolice _— — = = 1 _— —']  
+30. Gogolice Olędry Biezdrowo Gogolice  
 
-31.   
+31. Gorgoszewo Olędry Bytyń Gorgoszc wo  
 
-32.  | Grabowiec al. Nowina Olędry | Lubasz | Nowinv | zarośla | 5 VIII 1765  
+32. Grabowiec al. Nowina Lubasz Nowinv zarośla 5 VIII | Olędry 1765  
 
-33.  | Grudzianki Olędry l Razem OIl.: Kolędzin, z | Lwówek Wiewierczyn | Grydzianka i Władyszyn.  
+33. | Grudzianki Olędry Lwówek Grydzianka l Razem z OIl.: Kolędzin, Wiewierczyn i Władyszyn.  
 
 
 <!-- annex sheet 0149, tier mix -->
 
 
-30. ['Hutskie Olędry Trzciel Zachodzko = — _ — 30 _ _']  
+34. — — DWZP. 34 | Olędry Chodzież Trzaskowiec 1730 folwark AW. C. 3 3 XT 1730 _— 11  
 
-34. Herbardowo 34   Olędry | Chodzież | Trzaskowiec | 1730 | folwark | 34 DWZP. 3 AW. C. | 3 1730 XT | — _— | — | 11  
+35. | Olędry Chodzież Trzaskowiec 1730 folwark AW. C. 3 3 XT 1730 _— 11 35 Huta —  
 
-35. Huta   Olędryv | Trzciel | Zacłiodzko | 30 | —  
+36. | Hutskie Olędryv Trzciel Zacłiodzko _ _ 30 — — m m Goślina ; Huciska _— 4  
 
-36. Hutskie 36   Olędry | ; Goślina Mur. | Huciska | — | — | _ | _ _— | 4 | m | m  
+37. | Hutskie Olędry Mur. — _- — m  
 
-37. Hutskie 37 | Ryczywół | Igrzyna | — 1746 (?) | _- | — I A. AW. | 1746 | 12 | m  
+38. | Igrzna Ryczywół Igrzyna 1746 (?) AW. A. I 1746 12 _- — — | Jastrzębiec Parkowo Jaracz 1744 las AW. B. 2096 |5 XI 1744 16  
 
-38. Igrzna   Jastrzębiec | Parkowo | Jaracz | 1744 | _- las | 5 2096 AW. B. | 1744 XI | 16 | — | —  
+39. Jarackie al. — — Olędry _—_—-T  
 
-39. al. Jarackie 39 Olędry | Łódź | . Jarosławiec | _—_—-T | 3 | — | —  
+40. | Jarosławiec Łódź Jarosławiec . — 3 — _— — — _  
 
-40. Jarosławiec 40 | Wronki | Jasionna | _— 1735 (?) | — | — Wron-  AGH.s. | — 20 TV | 24 | _ | —  
+41. | Jasionna Olędry Wronki Jasionna 1735 (?) AGH.s. Wron-| 20 TV 24 _ = — | ki,maj.Jasion-| 1735 na, fol. 59  
 
-41. Olędry 41 Jasionna | Trzciel | Jasienicc | 1701 | _ las | ki,maj.Jasion-  59 fol. na, I AW. A. | 1735 1701 2 II | 36 | = | —  
+42. | Jasionowe Olędry Trzciel Jasienicc 1701 las AW. A. I 2 II 1701 36 — <1 —  
 
-42. Olędry 42 Jasionowe | Czarnków | <1 Gajewo | 1763 | 13, XII KI. | 10 XII | — | — 16  
+43. | Olędry Czarnków Gajewo 1763 KI. XII 13, 10 XII 16 43 Jędrzejewskie — — — fol. 239 1763  
 
-43. Olędry Jędrzejewskie 43 | Ryczywół | Wy- | — | 239 fol. | 1763 | — 6* | — | _  
+44. | Józefowo Olędry Ryczywół razem z Wy- 6*| — _ — — — - szynkami | | Goślina | Kamińsko _— 24  
 
-44. ['Józefowo Olędry Ryczywół razem z Wy- — — — — G*', '_. — szynkani']  
+45. Kamińskie al. Pławińskie Mur. — — — m m Olędry  
 
-45. ['Kamińskie al. Pławińskie', 'Mur. Goślina', 'Kamińsko I — _ — 24 _— _— Olędry']  
+46. | Kamionka Olędry Chodzież Kamionka przed r.| rola częścią | AW. A. I 28 III — 14 — 1748 zarosła 1748  
 
-46. ['Kamionka Olędry Chodzież Kamionka przed r.', 'rola częścią AW. A. I 28 III — _ 14']  
+47. | Kałędek Wieleń Kałędek 1714 folwark Landr. Czarn-| 26 IV 17 — — ków 3a, fol.25| 1714 | Katarzynki al. Uzarzew- | Uzarzewo Uza- 4* | —  
 
-47. ['Kałędek Wieleń Kałędek 1714 folwark Landr. Czarn-', '26 IV = 17 ków 3a, fol.25', '1714']  
-
-48. Katarzynki al. Uzarzew- Uzarzewo razem z Uza- — _ — 4* — _— skie Olędry rzewem  
+48. | Katarzynki al. Uzarzew- | Uzarzewo Uza- 4* | — 48 razem z = — = — — skie Olędry rzewem  
 
 
 <!-- annex sheet 0150, tier mix -->
 
 
-1.   
+49. Kaźmierzowskie al. Staj- Lubasz Pieczyska kowo Olędry  
 
-49. Kaźmierzowskie al. Staj- | Lubasz | Pieczyska — 1 — — kowo Olędry  
+50. Kliny Olędry Kicin Kliny ——  
 
-50. ['Kliny Olędry Kicin Kliny — — — — uH*', '—', '—']  
+51. Kobus Olędry Biezdrowo Kobus AGH.s. Wron- 1738 i ki,maj. Kobus, 8 I 1746 XIX.430,fol. 13  
 
-51. ['Kobus Olędry Biezdrowo K obus 1738 - AGH.s. Wron-', '1738 i 6 __ — ki, maj. Kobus,', '8 T 1746 , XTIX.430,fol.13']  
+52. Kolędzin Olędry! Budziszewko Kołędzin  
 
-52. ['Kolędzin Olędry! Budziszewko', 'Kołędzin — — = — _— — _—']  
+53. Komorowskie Olędry Lwówek Komorowice las Rel. Posn. nr 19 VI 645, r. 1793, 1707 fol. 101  
 
-53. ['i Komorowskie Olędry Lwówek Komorowice 1707 las Rel. Posn. nr', '19 VI 27 — m 645, r. 1793, 1707 fol. 101']  
+54. Kozielaski Olędry Wytomyśl Kozielaski Fd wies, . . gotowa AW. A. I 18 XI rola 1772  
 
-54. ['Kozielaski Ołędry Wytomyśl Kozielaski 1767 [ wieś, gotowa', 'AW. A. I 18 XI 32 — — rola 1772 „']  
+55. Kozy Olędry Goraj Koza  
 
-55. Koza Goraj 55 Olędry Kozy Krosinko | las | ] AW. A. | 1744 30TX  
+56. Krosińskie Olędry Mosina Krosinko las AW. A. ] 30TX 1744  
 
-56. ['Krosińskie Olędry Mosina Krosinko 1744 las AW. A. I 30TX 1744 18 _ _—']  
+57. Krynica Olędry Przytoczna Skrzynice  
 
-57. ['Krynica Olędry Przytoczna Skrzynice _ = = 9 — —']  
+58. Krystynka Chodzież Krystynka las, zarośla AW.Chodzież, 3 X1T1730 GC. 1  
 
-58. ['Krystynka Chodzież Krystynka 1730 las, zarośla AW.Chodzież,[3 X11730', '— _— 5 C. 1 SQ. Krzywoleśne Olędry Lwówek Krzywy Las = _— — 17 _— —']  
+59. Krzywoleśne Olędry Lwówek Krzywy Las —  
 
-59. SĘ. Krzywolesne Olędry Lwówek Krzywy Las — e — — 17 _— —
+60. Kwiejcę Nowe Piłka Nowe Kwiejce KI. XII. 6.11, 8 XII fol. 48 1742 .  
 
-60 | Kwiejce Nowe Piłka Nowe Kwiejce |1742 las Kl. XII.6.II,| 8 XII _— o 17
-fol. 48 . 1742
+61. Lasek Olędry Wiry Lasek 24  
 
-Fa sy 9) ge |Ź Taro TYT ..  . ? o _ JA =" o——  
+62. Lewickie Olędry Lewice Lewiczynek AW. A. I 2 II 1732 36 *  
 
-60. Nowe Kwiejce 60 Piłka Kwiejcę Nowe | 48 fol. | 1742 . | 24  
+63. Lipie Olędry Wytomyśl Iipka Mała AW. Paproć, 1783 C. 2  
 
-61. Lasek Wiry 61 Olędry Lasek Lewiczynek Lewice | I AW. A. | 1732 2 II | 36 *  
+64. Lipie Olędry Lwówek Lipka Wielka 22 ——  
 
-62. 62 | Lewickie Olędry Lewice Lewiczynek 1732 las AW. A. I Ź Ik H5Z JO" | —
+65. Lubaskie Olędry Lubasz Miłkówko KI. XII.6.V, 1760 i fol. 116 10111773  
 
-63 | Lipie Olędry Wytomyśl Lipka Mała _— las AW. Paproć, 1783 15 — _
-C. 2
-
-64 | Lipie Oledrv JL.wówek Lipka Wielka _ I ą - 22 —  
-
-63. Olędry Lipie Lipka Lwówek Wielka | 2 C. | 22  
-
-64. 64 | Lipie Olędry Lwówek Lipka Wielka _— — __ _—— LL om —
-65 | Lubaskie Olędry Lubasz Miłkówko 1755 e KI. XII.6. V, | 1760 i 7 -— —
-fol. 116 10 II 1773
-| 66 | Lubieńskie Oledry | Trzciel Lubień 11736 | zarośla | AW. B. I 6 V1736| 21 m I =  
-
-65. Lubasz 65 Olędry Lubaskie Lubień Trzciel | 1736 zarośla | 116 fol. I AW. B. | 10111773 1736 6 V | 21  
-
-66. Olędry Lubieńskie   Budziszewskich od się odłączenie | Olędrów, | I €  
+66. Lubieńskie Olędry | Trzciel Lubień | 1736 zarośla AW. B. I 6 V 1736 21 I  
 
 
 <!-- annex sheet 0151, tier mix -->
 
 
-67.  | Lubowo | Biezdrowo | 1764   Łubowo | — | maj. Poża- ki, | [24 V11737 | 28! | —  
+67. | Lubowo Biezdrowo 1764 AGH.s. 1764 | — maj. 28! | Łubowo ki, Poża- —  
 
-68.  | Zarzeczne Lubowo | Biezdrowo | 1737     Łokacz | % | vol. III rowo, | 9VTI170]) | —  
+68. | Lubowo Zarzeczne Biezdrowo | 1737 rowo, vol. III [24 V11737 %  
 
-69.  | Łokacz | Wieleń | 1701   ; | łąki zarośla, | XIII. IT,  Kat. fol. 420 365 | 14IV1763) | — | — | 40  
+69. | Łokacz Wieleń Łokacz | 1701 zarośla, łąki |Kat. XIII. IT, 9VTI170]) — 40 — — | fol. 420  
 
-70.  | Olędry Łoskońskie Stare | Długa Goślina | Stary Łoskoń 1763(?) Gaj | — | AW. B. I | 1782 i 26 1701 | — 14 | 5  
+70. | Łoskońskie Stare Olędry | Długa Stary Łoskoń ; 1763(?) AW. B. 365 14IV1763) 5 — — Goślina i 1782  
 
-71.  | Marienwald | Przytoczna | 1701 '   ; | _ | AW. B. | 1 1614 [3 III | _— | —  
+71. | Marienwald Przytoczna Gaj 1701 AW. B. I 26 1 1701 14 ' _ —  
 
-72.  | Olędry Marianowo Marlcwo | Wieleń | 1614 Marianowo (?) | zarośla, łąki-- | II, Schulz W. 140; Kat. s. 593 II, fol. | i1V1677 | _—  
+72. | Marianowo Olędry Wieleń Marianowo ; 1614 (?) | zarośla, łąki-- | Schulz W. II, [3 III 1614 _— _— s. 140; Kat. |i1V1677 II, fol. 593 |  
 
-73.  | Głuszyna | Marlewo -— — | — | —_ | — | 5 | _—  
+73. | Marlcwo Głuszyna Marlewo —_ — | 5 -— — _—  
 
-74.  | Marszewicc | Rożno vo | Marszewicc i | — _— | —  4 | i — 1784. | 8* | -—  
+74. | Marszewicc Rożno vo Marszewicc — i 8*| — — — -—  
 
-75.  | Olędry Mechnacz | ; Kwilcz | 1784 Mechnacz i | Mię- AGH. s. dzychód, maj. Rozbitek, vol. 32 II, fol. | VI | 22*+ | —  
+75. | ; i 1784 _— AGH. Mię- |4 VI 1784. 22*+| Mechnacz Olędry Kwilcz Mechnacz s. — | dzychód, maj. | i Rozbitek, vol. | | II, fol. 32 |  
 
-76.  | Mechocińskic Olędry | Międzychód | Muchocinek — ' | -— | — | —  21I11713 | 10 21* | —  
+76. | Mechocińskic Olędry Międzychód Muchocinek | 10 | — -— — — —  
 
-77.  | Nowy Meryń | Międzychód | 1713 Mierzynck Mierzyn | folw. częścią zarosły | AW. Meryń 2 Stary, B. | 14 | —  
+77. | Międzychód Mierzynck ' 1713 folw. częścią | AW. Meryń |21I11713| 21*| Meryń Nowy — zarosły Stary, B. 2  
 
-78.  | Stary Meryń | Międzychód | 1695 | zarośla | I AW. B. | III 1695 _— | Qg* | -—  
+78. | Meryń Stary Międzychód Mierzyn 1695 zarośla AW. B. I 14 III Qg*| -— 1695  
 
-79. 80 | Miękowskie Olędry Milczewskie Olędry | Owińska Chodzież | Miękówko — Milcz 1730 Zamyślin | — las | _- I AW. A. | 1753 1 V | 2* = 13 | — _  
+79. | Miękowskie Olędry Owińska Miękówko _— 2* — — _- —  
 
-80. ['Milczewskie Olędry Chodzież Milcz 1730 las AW. A. I 1 V 1753 — — 12']  
+80. | Milczewskie Olędry Chodzież Milcz 1730 las AW. A. I 1 V 1753 _ =  
 
-81.  | Młyńskie Olędry | Goraj | — | — | = | = | _  
+81. | Młyńskie Olędry Goraj Zamyślin — = = 13 _ —  
 
 
 <!-- annex sheet 0152, tier mix -->
 
 
-1.   
+82. Naramowskie Olędry Poznań, św. Naramowice ok. 1760 AGH. s. Po- odpis przy- 7 * Wojciech znań, maj. wileju bez Naramowice, daty (pr. vol. I, fol. 5 1760)  
 
-80. Niwka Olcdry | Mosina Niwka | 1776 ; wieś z bu- | AW. A. I 6 VIII | 1770  
+83. Nieszawskie Olędry Białężyn Nicszawka 1723 AW. B. 1—5 11 XI1723 10 * e  
 
-81. 87 | Nowawieś Olędry | Poznań, św. Nowawieś 1748 (?) : — AGH. Poznań, ! 6 IV 1748 J* 1 — —
-Wojciech Dolna i m. Nowawieś,
-' vol.IV,;fol.11
+84. Nicwiemko Nowc Ryczywół 10 * u Niewicinko — —— ee) Niewicmko K739 Stare Ryczywół ok. AG. r. 1739— 5* 40,f.686 (AW. Gębickie OI., A. 3)  
 
-68 | Nowe al. Wielkokrobic- | Gora) Krobielewo — | _— AW. A. 16 | 18VII 1661; 29 | — —  
+85.   
 
-82. 80 | Niwka Olędry | Mosina Niwka | 1776 wieś z bu- | AW. A. I 6VIIL | 10 | —-
-| ,, dynkami | 1770  
+86. Niwka Olędry Mosina Niwka 1776 ; wieś z bu- AW. A. I 6 VIII |  
 
-83. OŚ | Nieszawskie Olędry Białężyn Nicszawka | 1723 | las AW. B. 1—5 11 XI 1723 10 * | — | _
+87. Nowawieś Olędry Poznań, św. Nowawieś 1748 (?) ! AGH. Poznań, 6IV1748 5* Wojciech Dolna m. Nowawieś, vol.IV,fol.11  
 
-84 , Nicwiemko Nowe | Ryczywół | _ | _ — — | 10*| -- —
+88. Nowe al. Wielłkokrobic- Goraj Krobielewo AW. A. 1-6 18 VII 1661; 29 lewskie Olędry ? 81 II! 1672; 23 II 1691; XM 1700 i 1 JIL 1701  
 
-, | e , | Niewicinko | !
+89. Nowe Olędry (Oborniki Nowołoskoniec 1746 | zarośla i AW. B. 154 1746 15  
 
-09  Niewicmko Stare ' Ryczywół j ok. l/39 = AG. r. 1739— — | 5% | — o
-| | | AO CSRO /AW | |  
+90. Nowe JD wory Olędry Wieleń Nowe Dwory 1601 las, łąki, i Rel. Posn. 21 IT 1601 64 nr zarośla | 140, r. 1601/2, i I V1677 'L659i1 AW.A. I  
 
-84. Niewiemko Nowe | Ryczywół | . . _— _ — — 10* -- — » | O , , Niewicmko © OD  Niewicmko Stare ' Ryczywół f ok. 1/39 -— AG. r. 1739— — S* | — —  
+91. Nowosileńskic Olędry Pszczew | Nowa Silna 38 * ! —  
 
-85. | 40,1.060 (AW. | |
-: Gębickie Ol., | |
-
-80 | Niwka Olędry | Mosina Niwka | 1776 ; wieś z bu- | AW. A. I | 6 VIIL | 10 —| —-
-| ,' p R | 1"7"7 A A |  
-
-86. 80 | Niwka Olędry | Mosina Niwka | 1776; wieś z bu- | AW. A. I | 6 VIII | 10 — | —
-i , dynkami : 1770 |
-
-87 | Nowawieś Olędry | Poznań, św. Nowawieś 1748 (?) ! — AGH. Poznań, |61V 1748 5 * — —
-| Wojciech Dolna | m. Nowawieś, |  
-
-87. Nowawieś Olędry | Poznań, św. Nowawieś 1748 (?) | AGH. Poznań,! 6 IV 1748 5 * — — Wojciech Dolna i m. Nowawieś, !  vol.IV,fol.11  
-
-88. Nowe al. Wielkokrobic- Goraj K robielewo — | __ AW. A. 1-6 | 18VII 1661; 29 | 81 II! 1672; i : 23 II 1691; : i  
-
-89. Nowe Olędry | Jborniki Nowołoskoniec ; 1746 | AW. B. 154 1746 15 — I i  
-
-90. Nowe JDwory Olędry | Wieleń Nowe Dwory | ! 1601 las, łąki, i Rel. Posn. nr 21 IT 1601 _— _— 64 zarośla | 140, r. 1601/2, Ji 1 V 1677 | f659i AW.A. I i !  
-
-91. Nowosileńskie Olędry | Pszczew | Nowa Silna i — i _— — % 38* — _— V  
-
-92. Nowydom | Skwierzyna | Nowy Dwór — _— — — | -- Ó — l Jest rzeczą wątpliwą, czy były to dwie odrębne osady. * Osada wyrosła z dwóch odrębnych osiedli: 1. Olędrów Krobielewskich powstałych na micjscu dawnego Krobiclewa. Pierwszy przy- wilej datuje się z r. 1601 -— przywilej z r. 1672 jest przywilejem późniejszym dla tej samej osady. A. O. Nath, Die Griindung der Gemeinde Grosskrebbel. Grenzmśrkische Heimatblitter, roczn. 14, s. 115, niesłusznie łączy z nim powstanie olędrów. Zaznaczyć należy, że autor ten, pu- blikując przywilej w j. niemieckim, przemilczał, że oryginał wystawiony został w j. polskim; 2. Olędrów założonych na miejscu dawnej wsi Baba i tak też nazwanych przez założyciela. Ta ostatnia nazwa nie utrzymała się, a osady złały się w jedną, przyjmując wspólną nazwę _ Nowe al. Wielkokrobielewskie Olędry. I  
+92. | Nowydom Skwierzyna i Nowy Dwór i —  
 
 
 <!-- annex sheet 0153, tier mix -->
 
 
-9. , Polski 9 rozbiorów | Wronki | osady   Obelżanki | osady | Ta źrodia sygn. | dzia przyw. | lub   (z*) 9 | szącum kowo | 5s3%  
+93. | Obelżanki Wronki Obelżanki 9 — _— — — _ _  
 
-93. Obelżanki | Ryczywół | — Chmielewo | — | _ | _ | — 9 | _—  
+94. | Olszewniak al. Chmie- Ryczywół Chmielewo 9 — — — — — — lewo Olędry  
 
-94. Chmie- 94 Olszewniak al. Olędry lewo | Goraj | — 1723 Orłowce | — las | — 1 AW. A. | — 1723 4 TX | — 10 | —  
+95. | Orłowiec Goraj Orłowce 1723 las AW. A. 1 4 TX 1723 10 — —  
 
-95. Orłowiec | Wytomyśl | 1701 | las | Rel. Posn. | 11 XI | 77 | — _— | —  
+96. | Wytomyśl Paproć 1701 las Rel. Posn. 11 XI 77 _— 96 Paproć Olędry nr — 640, r. 1791, 1701 fol. 270  
 
-96. Olędry Paproć | Paproć Pąchy | _— | nr 640, 1791, r. 270 fol. | 1701 | 38 | —  
+97. | Pącheńskie Olędry Pszczew Pąchy _— — 38 — — _ —  
 
-97. Olędry Pącheńskie | Pszczew | _ 1730 Piaski | las | — Rel. Posn. | — 1730  [20 V | — 4 | —  
+98. | Piaski Stary Dwór | Piaski 1730 las ——- | Rel. Posn. nr [20 V 1730| | 4 — — 641, r. 1792, | fol. 246 , — 14  
 
-98. Piaski , | Stary Dwór Goraj | Piłka | ——- | nr 641, 1792, r. 246 fol. | — | — 14 | —  
+99. | Pilskie Olędry Goraj Piłka — _ — —_ _  
 
-99. Pilskie Olędry | _ | — | _ | 2 | — | —_  
+100. | Piłka Parkowo razem Ja- 2 — — z — — — — , raczem  
 
-100. Piłka | Parkowo , | Ja- razem z — raczem 1772 | — | — KI. XII.6.T, | — | — | — 2  
+101. | Olędry Cihodzicż Pietronki 1772 KI. XII.6.T, 2 Piotronki — _ -— fol. 124/5  
 
-101. Olędry Piotronki | Cihodzicż | Pietronki 1760 ok. | — | 124/5 fol. Dom.P.10820, | _ 1766 | 6 | -—  
+102. | Połajewskie Olędry Czarnków Połajewice ok. 1760 Dom.P.10820, 1766 6 -— — — fol. 39  
 
-102. ['Połajewskie Olędry Czarnków Połajewice ok. 1760 — Dom.P.10820, 1766', '6 _— — fol. 39']  
+103. | Popowo Biezdrowo Popowo 1708 wieś bud. |AGH.s. Wron- 1 IV1708) | 13* | -- = z ki, maj. Popo-| - wo, v. XIX. 199, fol. 32  
 
-103. ['Popowo Biezdrowo Popowo 1708 wieś z bud.', 'AGH.s. Wron- 1 IV ros 13%] -- = ki, maj. Popo-', '- wo, v. XIX.']  
-
-104. Przyborowo | Kaźmierz Przyl.orowo 1736 (?) — AGH.s.Szamo- 20 VI 16 _— tuły,maj. Mysz- | .  
+104. | Przyborowo | Kaźmierz Przyl.orowo 1736 (?) AGH.s.Szamo- 20 VI 16 _— — tuły,maj. Mysz-| 1736 kowo, Tax Acten, fol. 44  
 
 
 <!-- annex sheet 0154, tier mix -->
 
 
-105. Psarskie Małe Olędry Psarskie Psarki ' 1748 (7) — | AGH. s. Pnie-  
+105. Psarskie Małe | wy, maj. Psar- 1748 skie, Tax Ac- . | ten, v. II, ' fol. 88—94  
 
-106. ['Psarskie Wielkie Olędry', 'Psarskie : Psarce 1749 (?) _ dto 1749 16 _— ZE']  
+106. Olędry Psarskie Psarce 1749 (?) dto 1749 16 106 Psarskie Wielkie Ryczywół Wy- 1744 (?) Repertorium 1744 39 *  
 
-107. ['Raczyńskie Olędry', 'Ryczywół ! razem z Wy- 1744 (?) —  Repertorium 1744 39 * e — szynkami . ; Arch. P. w Po-', '. znaniu; dok. i brak :']  
+107. Ryczywół Wy- 1744 (?) Repertorium 1744 39 * 107 Raczyńskie Olędry razem z szynkami Arch. P. w Po- znaniu; dok. brak  
 
-108. Radoskie Olędry | Sieraków | Radusz 1700 = , AM. Sieraków, | 1 XI 1751 35 _ = . C. 53, fol. 78 i  
+108. Sieraków Radusz 1700 AM. Sieraków, 1 XT 1751 35 108 Radoskie Olędry C. 53, fol. 78  
 
-109. ['Rońskie Olędry Trzciel Rańsko _—', '_', '— _— 15 — _']  
+109. Rońskie Olędry Trzciel Rańsko z  
 
-110. Rosnowskie Olędry | Komorniki | Rcsnówko _— ą — _— 21 — Ta  
+110. Komorniki Rcsnówko 21 110 Rosnowskie Olędry Roż- AW. B. 770 20 III 13 *  
 
-111. I Rożnowskie Olędry | Rożnowo | razem z Roż- — i AW. B. 770 20 III 13* — _ nowem | 1777  
+111. Roż- AW. B. 770 20 III 13 * 111 Rożnowskie Olędry Rożnowo razem z 1777 nowem  
 
-112. Róża Olędry | Przytoczna ! Poręba 1624 | 1 I 1624 0 —_— —  
+112. Olędry Przytoczna Poręba 1624 Rel. Posn. nr 1 I 1624 Róża 638, r. 1791, fol. 597 i l  
 
-113. Różyńskie Olędry Wytomyśl Nowa Róża 1765 las AW. Paproć,  
+113. Olędry Wytomyśl | Róża 1765 AW. Paproć, 21 XI 28 Różyńskie Nowa | G. 2, fol. 256 1767 : Rudka pod 1775 Rel. Posn. nr' 22 V 1775 16 * Rudka Olędry Pniewy Pniewami 641, r. 1792, fol. 127 :  
 
-114. Rudka Olędry | Pniewy : Rudka pod 1775 las | Rel. Posn. nr' 22 V 1775 16* — — i  
+114.   
 
-115. Sąpoln'a Olędry | Lwówek | Sępolno o — — _— 11 _ —  
+115. Sąpoln'a Olędry Lwówek Sępolno 11 115  
 
-116. Sękowo al. Stare Górzyc- | Wytomyśl | Sękowo 1700 wieś ' Rel. Posn. nr IT XI 38 _— _' kie Olędry i  
+116. Stare Górzyc- Wytomyśl Sękowo Rel. Posn. nr 11 XI 38 116 Sękowo al. kie Olędry 643, r. 1792, 1700 i fol. 53 i  
 
-117. Siereckie Olędry Trzciel | Sierczynck | — _ — _ 43 — —  
+117. Olędry Trzciel | Sierczynck 43 117 Siereckie —  
 
-118. Sikorce Olędry Mur. Goślina : brak — | _ | AW. B. 911 24 XI 2 = — o I  
+118. Olędry Mur. Goślina brak AW. B. 911 24 XI 66I 118 Sikorce 1791  
 
 
 <!-- annex sheet 0155, tier mix -->
 
 
-119.  | Skrzvdlewo - | Karionna | Skrzydlewo | wieś ta sama   i mieszkańcy | AGH. Mic-  s. dzychód, maj.  Skrzydlewo, 27 I, fol. v. | 29 IV 1785 | 22*+ | —  
+119. | Skrzvdlewo Karionna Skrzydlewo ta wieś | AGH. Mic-| 29 IV 22*+ | - sama s. — i mieszkańcy | dzychód, maj.| 1785 Skrzydlewo, v. I, fol. 27  
 
-120.  | Sławice | Łopuchowo | Sławica | _ | — | _— | Q | _—  
+120. | Sławice Łopuchowo Sławica _— Q _ — _—  
 
-121.  | Słonawskie Olędry | Oborniki | Słonawy | zarośla las, | Rel. Posn. nr 635; 1790, r. 316 fol. | 1 1707 I | Y | —  
+121. | Słonawskie Olędry Oborniki Słonawy las, zarośla Rel. Posn. | 1 I 1707 Y nr — 635; r. 1790, fol. 316  
 
-122.  | ! Olędry Smolary | Budziszewko | Smolarki | — | — | — | 20 | —  
+122. | Smolary Olędry ! Budziszewko Smolarki 20 — — — —  
 
-123.  | Olędry Sowiagóra | Międzychód | Sowia Góra | — | 216 2,C. B. AW. | 111702 | 12*; | __  
+123. | Sowiagóra Olędry Międzychód Sowia Góra AW. B. 2,C. 216 111702| 12*; — __  
 
-124.  | Folwark Olędry Stary | Trzciel | Stary Folwark | _ | = | — | 10 | —  
+124. | Stary Folwark Olędry Trzciel Stary Folwark 10 _ = — —  
 
-125.  | al. Stobnickie Borownic- kie Olędry | Stobnica | Stobnicko | (?) las | 991 AW. B. | 20 VI 1744 | 14 | —  
+125. | Stobnickie al. Borownic- | Stobnica Stobnicko las (?) 991 20 VI 14 AW. B. kie Olędry 1744 —  
 
-126.  | Stróżewskie Olędry | Chodzież | Stróżcwice | las | I AW. A. | 1730 4 V | _ | _—  
+126. | Stróżewskie Olędry Chodzież Stróżcwice las I 4 V 1730 AW. A. _ _—  
 
-127.  | Strychowskie Oiędry | Międzychód | Stryszyn | las | ! Rel. Posn. ne 638, 1791, r. 908 fol. | 11 XI 1686 , | 15* | —  
+127. | Strychowskie Oiędry Międzychód Stryszyn las Rel. Posn. ! 11 XI 15*| ne — 638, r. 1791, 1686 fol. 908 ,  
 
-128. 129   130 | Strzeleckie Olędry Suchc Olędry Szklana Olędry Huta | Chodzicż Lwówek Wielcń | Strzelczyki Błaki Huta Szklana | las _ zarośla | C.3,f.9! AW. _ fol. II. Kat. 242 | 1753 1 V — 18 IV 1716 | — 19 — | — — —  
+128. | Strzeleckie Olędry Chodzicż Strzelczyki las AW. C.3,f.9! 1 V 1753 — —  
 
-129. 129 | Suche Olędry Lwówek Błaki | _ _ — | _ 19 — _—
-130 | Szklana Huta Olędry Wielcń Huta Szklana | 1716 zarośla | Kat. II. fol. I8 IV — _ 33
+129. | Suchc Olędry Lwówek Błaki 19 _ _ — —  
 
-: | 242 | 1716 O
-131 G-l-lana MMiuta (Dledyv R ryc hł ryza >; Ai- | 1770 O : Ą(' qe 1720/40 | O "7 s |  
+130. | Szklana Huta Olędry Wielcń Huta Szklana zarośla Kat. II. fol. 18 IV — — 242 1716  
 
-130. Szklana Huta Olędry Wielcń Huta Szklana 1716 zarośla | Kat. II. fol. I8 IV 33 e i _=  
+131. | Szklana Huta Olędry Ryczywół razem Wy- AC.r. 1739/40, 7+ | z — _ — szynkami fol. 686  
 
-131. 132 | Szklana Olędry Huta Szklanohutskic Olędry | Ryczywół Trzciel | Wy- razem z szynkami Szklarka Trzcielska | — zarośla | 1739/40, AC.r. fol. 686 I. AW. A | _ 1720 2 11 12 1720 X | 7+ 19 | — _—  
-
-132. i 132 | Szklanohutskie Olędry | | Trzciel | Szklarka 1720 | zarośla IAW. AI. 2411720! 19 boo
-| Trzcielska | | ; 2X 1720 |  
+132. | Szklanohutskic Olędry Trzciel Szklarka zarośla AW. A I. 2 11 1720 19 _— Trzcielska 12 X 1720  
 
 
 <!-- annex sheet 0156, tier mix -->
 
 
-1.   
+133. Świniary Olędry | Skwierzyna Świniarki | 1619 Werner, Steffa- | 28 ni, s. 372  
 
-42. Wizany Wieleń Wizany | między 1718 r. 1741 a | 17  
+134. | Tarnowiec Lwówek Tarnowiec —  
 
-133. Świniarki Olędry Skwierzyna | 1619 | Werner, Steffa-   372 ni, s. | 28  
+135. Teressowo al. Ludomskic Ludomy Ludomicko 1748 AW. Ludeom, 28 VI Olędry B. 394 1754 |  
 
-134. ['Tarnowiec', 'Lwówek', 'Tarnowiec — _— 9 — —']  
+136. Tuchola Olędry | Sieraków Tuchola 1740 las AM. Sieraków, I XI 1751 C. 53, fol. 95  
 
-135. Teressowo Ludomskic al. Ludomy Ludomicko Olędry | 1748 | AW. Ludeom, 394 B. | 28 VI 1754  
+137. Twardowo Olędry Skórzewko Twardowo , — — ———  
 
-136. ['Tuchola Olędry', 'Sieraków Tuchola 1740 las AM. Sieraków,', '1 XT 1751 13 — — C. 53, fol. 95']  
+138. Ujskie Olędry ' Ujście Ługi Ujskie 1597 zarośla, AW.CG.2.1, 16 IV 41 mo- kradła fol. 29; Inscr. 1597; Valc. nr 85, 20 I 1637; r. 1663—74, 4 I 1701 402. AW. C. I i 1763  
 
-137. ['Twardowo Olędry , Skórzewko Twardowo = — _ _ Q =', '—']  
+139. Uścikowskie Olędry ; Oborniki Uścikowiec 1714: zarośla, las Dom. P. 6755, 1714 fol. 15  
 
-138. Ujskie Olędry Ujście Ługi Ujskie 1597 zarośla, mo- | AW.C.2.1, 16 IV _ == | 4 kradła fol. 29; Inscr. | 1597: Valc. nr 85, [20 I 1637; | 4 I 1701 ” 402. AW.C.1  
+140. Węgielna Olędry i Lwówek Węgiclna 1718 las Rel. Posn. nr 10 XI 641, r. 1792, 1718 1 h fol. 823 i h  
 
-139. Uścikowskie Olędry Oborniki Uścikowiec | 1714: | zarośla, las | Dom. 6755, P. fol. 15 | 1714  
+141.   
 
-140. Węgielna Olędry Lwówek i Węgiclna h 1 i h | 1718 | las | Rel. Posn. nr 641, 1792, r. 823 fol. | 10 XI 1718  
+142. Wiewierczyn Olędry ! i Budziszcwko Bu- i razem z _— . dziszewicami N 42 Wizany ' Wieleń Wizany między 17 r. 1718 a 1741  
 
-141. ["Wiewierczyn Olędry ! ' Budziszewko razem z Bu- — = — _— _— — = dziszewicami N 42 Wizany", 'Wieleń Wizany między — _ — — — po W - r. 1718', 'a 1741']  
+143. Władyszyn Olędry ! Budziszewko Władyszyn ——  
 
-142. | TA I) vYvIZalLINY | VWYICiCcCII Yvizany między | _—— _— — _— — | M
-") r. 1718 |
-|
-| 1453 | Władyszyn Olędry ! | Budziszewko | Władyszyn I — — _ _ _— —  
+144. Wojnowskie Olędry Długa Goślina Wojnówko ok. 1731 Rel. Posn. nr 393, r. 1732, fol. 57  
 
-143. ['! Władyszyn Olędry ?', 'Budziszewko', 'Władyszyn — _— _— — — — _']  
-
-144. Wojnowskie Olędry | Długa Goślina; Wojnówko ok. 1731 _ Rel. Posn. nr — 7* — — !  
-
-145. Wymyślanka Olcdrv | Lwówek Wymyślanka 1721 | las Rcl. Posn. nr | tł XI 12 — _ 641, r. 1792, 1721  
+145. Wymyślanka Olędry Lwówck Wymyślanka 1721 las Rel. Posn. M XI nr 641, r. 1792, 1721 fol. 260  
 
 
 <!-- annex sheet 0157, tier mix -->
 
 
-146. al. Czarne 146 Wyssogotowo Olędry   Olędry | Skórzewko | Zakrzewo | = 1742 | —   grunty opu- | —   Rel. Posn. nr | — 11 XI | 27 | _ | —  
+146. Wyssogotowo = — — — Olędry | Olędry Skórzewko Zakrzewo 1742 grunty opu- | Rel. Posn. nr | 11 XI 27 _ —  
 
-147. Zakrzewo 147 | Pnicwy | Zamorze | 1771 | stoszałe bud. wieś | 1788, 626, r. 404 fol. Rel. Posn. nr | 1747 1771  4 VI | 20 | _— | —  
+147. | Olędry Skórzewko Zakrzewo 1742 grunty opu- | Rel. Posn. nr | 11 XI 27 _ — 147 Zakrzewo stoszałe 626, r. 1788, 1747 fol. 404  
 
-148. Zamorze   Olędry | Sieraków | Nowy Zatom | 1751 | z zarośla | 1792, 641, r. 163 fol. Sieraków, AM. | I 1751 I X1 | 16 | —  
+148. | Pnicwy Zamorze 1771 wieś bud. Rel. Posn. nr |4 VI 1771 20 _— 148 Zamorze z — 641, r. 1792, fol. 163 I | Olędry Sieraków Zatom Nowy |1751 zarośla AM. Sieraków, I X1 1751 16 —  
 
-149. Nowy Zatom 149     Gościcjew- Zawadzkie al. | Ryczywół | Zawady | 1745 | grunty | 131 C.53,fol. AW.B.253—6 | 29 VI | 91 | — | _  
+149. | Olędry Sieraków Zatom Nowy |1751 zarośla AM. Sieraków, I X1 1751 16 — 149 Zatom Nowy | — C.53,fol. 131 | | Zawadzkie al. Gościcjew- | Ryczywół Zawady 1745 grunty AW.B.253—6| 29 VI 91| _  
 
-150. Olędry skie.   Olędry | Biezdrowo | Zdroje | za- rosłe | 1745 | — | _— | —  
+150. za- _— skie. Olędry rosłe 1745  
 
-151. Zdroje 151   Przyłęk | Wytomyśl' | Przyłęk | — 1704 | - las | — Rel. Posn. nr | = 1704 | 48 | —  
+151. | Zdroje Olędry Biezdrowo Zdroje — - — = — — — | Wytomyśl' Przyłęk 1704 las Rel. Posn. nr 1704 48  
 
-152. al. Zielonka 152 Olędry | Goślina Mur. | brak | 1792, 642, r. 7 fol. | T | — | — =  
+152. | Wytomyśl' Przyłęk 1704 las Rel. Posn. nr 1704 48 152 Zielonka al. Przyłęk — — Olędry 642, r. 1792, fol. 7 | | Mur. Goślina | brak T =  
 
-153. ['Zielończane al. Traktowe', 'Mur. Goślina', "brak — — — — 7 —_ p —' Olędry"]  
+153. Zielończane al. Traktowe — — — — —  
 
-154. ['Złotkowo Olędry Sobota Złotkowo 1751 „grunt zarośla-', 'AW. A. I 26 III 14 —', '- mi zarosły” 1752']  
+154. | Sobota Złotkowo 1751 „grunt zarośla-| AW. A. I 26 III 14 154 Złotkowo Olędry = — mi zarosły” 1752 | Goślińczane | Mur. Goślina | Złotoryjsko 13 —  
 
-155. ['Złotoryja al. Goślińczane', 'Mur. Goślina Złotoryjsko m — _ — 13 —', '— Olędry']  
+155. Złotoryja al. — — — — . —  
 
-156. ['Zwierzyniec Olędry Sieraków Zwierzenicc 1751 zarośla AM. Sieraków,', 'I XI 1751 7 — — C. 53, fol. 144 Razem 20 ]', '38 484']  
+156. | Zwierzyniec Olędry Sieraków — — C. 53, fol. 144  
 
 
 <!-- annex sheet 0158, tier mix -->
 
 
-1. Czapury? Głuszyna Czapury ok. 1745 — | AW. B. la 2 VIII 12*+ | — | -- 1747  
+1. | Czapury? Głuszyna 1747  
 
-2. ['Osadnicy mają własny samorząd z wybieralnym sołtysem, jednak równorzędność i solidarność w stosunku do pana nie jest całko- wicie zachowana wskutek tego, że powinności dworskie wymierzone są od poszczególnych gospodarstw, a nie od jednostki gruntu.']  
+2. Goślina Głębocko 1743 wICŚ AW. A.1—2 2 XI1743 11 2 | Głębockic Olędry 9 Mur. i11 X 1744  
 
-3. ['Sołtys z nominacji pańskiej, ale kompetencje ma takie same, jak w innych wsiach olęderskich. "']  
+3. | Kiszewo Kiszewko 1697 gotowa rola AW. B. 339 20 XII 3 Kiszewko* 1697  
 
-4. ['Nie wiadomo, czy osadnicy mieli własne sądownictwo. (W przywileju znajduje się tylko postanowienie, że gdyby się powaśnil!, winny podpadnie karze). I O']  
+4. | Lubasz Kruteczck 1727 las KI. XII. 6. V, 11 X 1727 4 Króteckie Olędry * fol. 36  
 
-5. ['Sołtys za osobnym przywilejem. Ustanawia go dwór. Kompetencje jednak ma zwyczajne, powinnościami dworskimi nic fóżni Się od reszty mieszkańców. $ Sołtys stały, wybieralni 2 ławnicy.']  
+5. | Kiekrz Krzyżowniki KI. M. 10 XI Krzyżewniki5 1786 Ostrówki 1750 folwark KI. XII.6.1, 1 VI11750 21  
 
-6. Ostrówek $ Chodzież | Ostrówki 1750 folwark KI. XII.6. L  
+6. | Ostrówek © Chodzież | fol. 62  
 
-7. ['? Osada łokowana na zasadach prawa niemieckiego (jako tzw. wieś sołtysia — sołtys otrzymał stanowisko nadrzędne w gminie). Dopiero dodatkowy przywilej z r. 1736 nazywa mieszkąńców olędremi i traktuje ich równorzędnie. Sołtys prawdopodobnie pozostał nadal _- dziedziczny. s']  
+7. | Wronki Rzecień 1697 las AGH. sąd 8 V 1697 7 Rzecień Olędzry ? | Wronki, naj. | Rzecień, f. 40  
 
-8. ['Suchylas 5 Chojnica Suchy Las — : — KI. M.iDom.', '11 XI 6 : — _', 'P. 8515 1781']  
+8. | Suchylas Chojnica Suchy Las KI. M. i Dom. 11 XI P. 8515 1781  
 
-9. Trojanowskic Olędry * Mur. Goślina i razem z Gł- — | — AW. B. 1037 I5 VII1788; 8 — — N bockiem l Razem z olędrem zamieszkałym za wsią na miejscu Trzy Góry. 9  
+9. | Trojanowskic Olędry 3 Mur. Goślina | Głę- AW. B. 1037 5 V111788 razem z bockiem 1 Razem z olędrem zamieszkałym za wsią na miejscu Trzy Góry.  
 
 
 <!-- annex sheet 0159, tier mix -->
 
 
-1. ['Przywilej indywidualny dla 1 osadnika z r. 1755. Później widocznie na tych samych warunkach zostali osadzeni inni osadnicy. Według KI. XII 6 IT, fol. 118, dzierżą gospodarstwa na tych samych warunkach. Nazywani są tam olędrami.']  
+1. | Janikowo3 | Kicin Janikowo | — — | 9*+] — — — = 2 | Jasień * Swarzędz Jasin 20  
 
-2. ['Osadnicy mają własny samorząd z wybieralnym sołtysem, jednak równorzędność 1 solidarność w stosunku do pana nie jest całko- wicie zachowana wskutek tego, że powinności dworskie wymierzone są od poszczególnych gospcdarstw, a nie cd jednostki gruntu.']  
+2. | Jasień * Swarzędz Jasin 20 — — — — — — 3 | Łoskońskie Nowe OI. 5 Długa Goślina | Stary Łoskoń 1733 (?) | las AW. B.366—7 | 1793 7* |  
 
-3. ['Charakter osady w źródłach występuje niejasno: MP podaje: ,,Hollendry Janikowo”, inne źródła, jak MG, Tp. 89, 90, O 83, VO 84 (2 IV 1778) i TV określają osadę jako wieś. Przywilej generalny dla okupników klucza kicińskiego (por. aneks II, s. 121) wyłliczając wszystkich„okupników, OI. Janikowo nie wymienia, natomiast w dalszej treści przywileju mamy wzmiankę: ,„Janikoscy Hollendrzy”. : 4 Wszystkie dane źródłowe ograniczają się tu do następujących wzmianek: MP — Jasien, MG — Jasienie od. Jaszin, Tp. 89, 90 — Jasion, O 83 — Jasien, wieś cała okupna, VO 84 (29 IX 1777) —,,Coloni”, niegdyś 10 kmieci.']  
+3. | Łoskońskie Nowe OI. 5 Długa Goślina | Stary Łoskoń 1733 (?) | las AW. B.366—7 | 1793 7* | — — 4 | Tuczno Olędry $ Mur. Goślina | Tuczno | 0 2  
 
-4. Tuczno Olędry 8 Mur. Gina Tuczno — * — | = 2 | _ _ Z o ZO O e SOO PODODNONNN DORRRNNNNNA Ogółem | 2.216 38 514  
+4. | Tuczno Olędry $ Mur. Goślina | Tuczno | 0 2 — — — — — | | Ogółem | 2.216 38 514 | |  
 
-5. ['Zachowały się 2 przywileje indywidualne dla 2 osadników, które z olęderskimi mało mają cech wspólnych, jednak Tp. 90 wykazuje dla tej osady 7 dymów, co dowodzi, że siedzieli tam 1 inni osadnicy. O ich sytuacji gospodarczo-prawnej brak jakichkolwiek danych źródłowych, natomiast w źródłach osada nazywana jest stale olędrami.']  
+10. | Trzydomy I! : Trzy Domy zarośla AW. CG. 1, 15 IV = = — ; fol. 13 1755 11 ; Wiorek? Głuszyna Wiorck 1754 (?) | Bór., s. 308 |4 III 1754, 11 _—  
 
-6. ['Osada stale nazywana olędrami, liczy jednak zaledwie 2 dymy, a w TV jako mieszkańcy podani 1 olęder i 1 chałupnik (Bidner). Czy w tym stanie rzeczy mogła istnieć osada olęderska, wydaje się rzeczą wątpliwą.']  
-
-10. Trzydomy ! | Chodzież Trzy Domy 1755 | zarośla AW.CG.I,  
-
-11. i Wiorck *? : Głuszyna Wiorek | 1754 U — Bór., s. 308 [4 LH 1754; II  
-
-83. 84 Jasion, O Jasien, wieś cała VO okupna, — | (29 1777) IX —.,Coloni”, | 10 niegdyś kmieci.  
-
-84. (2 1778) VO wieś. IV i określają osadę TV jako wszystkich.okupników, wymienia, OI. Janikowo nie | Przywilej generalny natomiast | 121) wyłliczając dla klucza kicińskiego (por. okupników aneks II, s. dalszej Hollendrzy””. treści przywileju ,„Janikoscy wzmiankę: w mamy  
-
-86. jednak Osada ołędrami, stale liczy nazywana Czy istnieć osada olęderska, stanie mogła tym w rzeczy | 2 zaledwie wydaje się | (Bidner). podani 1 chałupnik jako olęder i dymy, TV mieszkańcy a w wątpliwą. rzeczą  
+11. ; Wiorek? Głuszyna Wiorck 1754 (?) | Bór., s. 308 |4 III 1754, 11 _— — _— | | Razem z poprzedn. |2.178 38 514 | | Osady o charakterze nieokreślonym 1 | Janikowo3 | Kicin Janikowo | — — | 9*+]  
 
 [p. 145]
 
