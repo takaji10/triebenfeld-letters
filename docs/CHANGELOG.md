@@ -4826,7 +4826,26 @@ footer on every page. Changed, in both languages:
   letter buttons under the form field inserts at the cursor without taking
   the focus. Plain letters always type as themselves (the mapping runs only
   under the held modifier), so a form as written without diacritics stays
-  as written.
+  as written. RETIRED the same sitting at the editor's clarification: the
+  want was accent-insensitive matching (typing Trabczyn finds Trąbczyn),
+  not letter insertion — the buttons and the AltGr mapping are off the
+  page.
+- **The Drzewce NMP entry re-read from the editor's page image**
+  (2026-11-06): the editor's question (is Nazwy miejscowe Polski in the
+  edition? — yes: literature/nmpol, the 23 cited entries, visible: false,
+  no site page) led to the root cause of the gazetteer's garbled forms —
+  the OCR'd citation text itself, whose special characters (ḑ, ž, ṽ, ḱ) had
+  defeated the three-witness pass. The editor's page image of vol. 2,
+  p. 443 (the locator p. 444 was a page off) settled it: Drzevvyc7a was
+  **Drzewycza** (1418, AC II nr 117) and VCe was **Drzewce** (1881,
+  SG II 182); the citation text in original.md re-read, english.md's
+  summary corrected, the gazetteer's two forms restored with the true
+  readings, footnote 16's locator corrected and its note carrying the
+  record. The dialect line is Claude's best reading, flagged for the
+  editor's confirmation; the other 22 NMP locators may carry the same page
+  shift (NEEDS_CONFIRMATION); and the garble-class scan over the
+  gazetteer's forms found one more suspect: czarnybrod's "CzanlY Bród"
+  (1921), flagged, not corrected.
 - **Mapa dróg 1890 marked, OCR'd and georeferenced** (2026-11-06): the
   editor's 37 labels imported (35 gazetteer places and two new places,
   Stara Huta and Świątniki, waiting on the editor's entries); the batch's

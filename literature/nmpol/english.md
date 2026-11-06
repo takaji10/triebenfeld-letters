@@ -40,9 +40,9 @@ The entry records it as a village, gmina Grodziec, powiat koniński; the forms r
 
 The entry records it as a village, gmina Zagórów, powiat koniński
 
-## Drzewce [Nazwy miejscowe Polski, t. 2, p. 444]
+## Drzewce [Nazwy miejscowe Polski, t. 2, p. 443]
 
-The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Drzevvyc7a* (1418) to *VCe* (1881)
+The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Drzewycz* (1411, an alias) to *Drzewce, -wiec* (1980)
 
 ## Chruściki [Nazwy miejscowe Polski, t. 2, p. 93]
 

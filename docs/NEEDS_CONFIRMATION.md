@@ -1099,13 +1099,21 @@ questions the batch leaves:
 
 ### The gazetteer's bad OCR readings (2026-11-06)
 
-- **drzewce.yml, footnote 16 (Nazwy miejscowe Polski, t. 2, p. 444, status
-  missing)**: two of the NMP forms as first entered were OCR-garbled —
-  *Drzevvyc7a* (1418) and *VCe* (1881). Dropped from the entry at the
-  editor's word (the sentence citing the 1418 form out of the text, the two
-  name rows off the list; the footnote's note records the dropping and
-  points the re-check). **When NMP t. 2, p. 444 is obtained**, the 1418 and
-  1881 forms are re-read from it and restored.
+- **SETTLED — drzewce.yml, footnote 16 (Nazwy miejscowe Polski)**: the
+  editor supplied the page image of **vol. 2, p. 443** (the locator in the
+  edition's records, p. 444, was a page off). The garbled readings came
+  from the OCR'd citation text in `literature/nmpol/original.md` (the work
+  IS in the edition — 23 cited entries, `visible: false`, no site page):
+  its *Drzevvyc7a* was **Drzewycza** (1418, AC II nr 117) and its *VCe*
+  was **Drzewce** (1881, SG II 182). The citation text re-read from the
+  image; the gazetteer's two forms restored with the true readings; the
+  summary in `english.md` corrected. The dialect line
+  ("gw. ḑžyṽće, -cuṽ, ḑžyṽeckḱ") is Claude's best reading of the image —
+  **for the editor's confirmation** against it.
+- **The other 22 NMP entries' locators may be a page off like Drzewce's**
+  (444 → 443): the locators came from the place-name repository's
+  metadata, which apparently counts differently from the printed pages.
+  Check them against the sources when next at hand.
 - **The German-named colonies' types** (the editor's word: "Ludwigslust,
   Sophienthal, Ingelfingen, Friedrichsfeld, Emilienheim, are all Olędry"):
   **ludwigslust**'s kind is corrected (hamlet → oleder-settlement; the

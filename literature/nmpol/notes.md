@@ -38,3 +38,20 @@ Kept from the work's account, which said it on the page until the voice review o
 > name repository. No page of text on the site: the works are reference, not
 > narrative, and the gazetteer's footnotes stay unresolved until the editor
 > decides otherwise.
+
+## The Drzewce entry re-read from the page image (2026-11-06)
+
+The editor supplied the page image of vol. 2, p. 443 (the entry's locator in
+the edition's records, p. 444, was a page off). The three-witness OCR text
+of 2026-10-27 had garbled the entry's special characters — d with a dot
+below (ḑ), z with a caron (ž), v with an accent (ṽ), k with an accent (ḱ) —
+which is where the gazetteer's "Drzevvyc7a" and "VCe" came from: the OCR's
+Drzevvyc7a was **Drzewycza** (de Drzewycza 1418 AC II nr 117) and its
+DrLe\VCe was **Drzewce** (1881 SG II 182). The section in `original.md` is
+re-read from the image (the (6) fragment of the next Drzewce, gm. Poniec,
+kept as the citation text ran to the page's end there); the gazetteer's
+drzewce.yml carries the corrected forms. The dialect line
+("gw. ḑžyṽće, -cuṽ, ḑžyṽeckḱ") is Claude's best reading of the image with
+those special characters — **the one line for the editor's confirmation**
+against the image. The other 22 entries' locators may carry the same
+page-number shift (NEEDS_CONFIRMATION).
