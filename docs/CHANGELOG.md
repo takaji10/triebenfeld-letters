@@ -4819,3 +4819,11 @@ footer on every page. Changed, in both languages:
   pause, the form still to be typed), by a type key pressed in the EMPTY
   form field, and by a type key on a selected saved label — the help carries
   the whole workflow. All 23 sheets rebuilt.
+- Polish letters without a layout switch (the editor's request of the same
+  sitting): the form and note fields take Right Alt/AltGr + a letter as its
+  Polish form (a→ą, c→ć, e→ę, l→ł, n→ń, o→ó, s→ś, x→ź, z→ż, Shift for the
+  capital — the Polish-programmer keyboard's own mapping), and a row of
+  letter buttons under the form field inserts at the cursor without taking
+  the focus. Plain letters always type as themselves (the mapping runs only
+  under the held modifier), so a form as written without diacritics stays
+  as written.
