@@ -48,6 +48,9 @@
     <a data-i18n="nav_maps" data-href-en="{{ '/maps/' | relative_url }}"
        data-href-de="{{ '/de/karten/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/karten/' | relative_url }}{% else %}{{ '/maps/' | relative_url }}{% endif %}">{{ t.nav.maps }}</a>
+    <a data-i18n="nav_genealogy" data-href-en="{{ '/genealogy/' | relative_url }}"
+       data-href-de="{{ '/genealogy/' | relative_url }}"
+       href="{{ '/genealogy/' | relative_url }}">{{ t.nav.genealogy }}</a>
     <a data-i18n="nav_glossary" data-href-en="{{ '/glossary/' | relative_url }}"
        data-href-de="{{ '/de/glossar/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/glossar/' | relative_url }}{% else %}{{ '/glossary/' | relative_url }}{% endif %}">{{ t.nav.glossary }}</a>

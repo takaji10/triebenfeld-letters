@@ -1,0 +1,39 @@
+# The genealogy explorer's build configuration (PLAN.md).
+#
+# The inputs are the editor's own files and stay on this machine; only the
+# redacted JSON and the web media derivatives are ever published. To update
+# the database, export a fresh GEDCOM and gpkg from Gramps anywhere on disk
+# and point the build at them:
+#
+#   python pipeline/genealogy/build.py --ged J:\Zelmer\new.ged --gpkg J:\Zelmer\new.gpkg
+#
+# or edit the defaults here. The build writes its review reports to
+# review/genealogy/ (gitignored) and its public JSON to site/genealogy/data/.
+
+inputs:
+  ged: "J:/Zelmer/Zelmer.ged"
+  gpkg: "J:/Zelmer/Zelmer.gpkg"
+  # Where the build caches data.gramps and, later, the extracted media.
+  cache: "J:/Zelmer/.cache"
+
+media:
+  # The published web derivatives (repo B). The site's pages join this
+  # base with the manifest's file names; empty until the repo is live.
+  base: "https://takaji10.github.io/genealogy-media/"
+  # The local working copy media_build.py writes into (git init'ed, pushed
+  # to repo B).
+  dest: "J:/Zelmer/genealogy-media"
+
+exclusion:
+  # Larry Charles Lacko (@I0005@): his parents, their ancestors, and the
+  # descendants of all of them (his siblings and their lines, the Lacho
+  # branch) leave the database; Larry, his family and the Zelmer side stay.
+  # The plan's section 4.3 carries the exact semantics.
+  roots: ["I0005"]
+
+privacy:
+  # A person is treated as living when their latest plausible birth year is
+  # on or after this age limit counted back from today, or when the evidence
+  # is missing but a close relative is treated as living. The GEDCOM's own
+  # "[Living]" name marker always wins.
+  age_limit: 100

@@ -129,6 +129,15 @@ exclude:
   - Gemfile.lock
   - vendor
   - README.md
+  # the genealogy explorer's sources and manifests: only the built assets
+  # (assets/, index.html) and the generated data (data/) are served
+  - genealogy/src
+  - genealogy/scripts
+  - genealogy/shell.html
+  - genealogy/package.json
+  - genealogy/package-lock.json
+  - genealogy/vite.config.js
+  - genealogy/node_modules
 
 sass:
   style: compressed

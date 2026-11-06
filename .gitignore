@@ -65,6 +65,10 @@ __pycache__/
 # API credential
 .anthropic_key
 
+# The genealogy explorer's node project: dependencies stay out, the built
+# assets under site/genealogy/assets/ are committed (CI builds Jekyll only).
+site/genealogy/node_modules/
+
 # OS noise
 Thumbs.db
 desktop.ini
