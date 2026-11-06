@@ -198,6 +198,7 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
     <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. When the place is one the gazetteer knows, the type is filled in for you from its entry (a village for a village, water for a stream); the page still pauses with the <b>form as written on the map</b> open and focused — type what the map's lettering says if it differs from the place's name, then <kbd>Enter</kbd> saves and moves to the next place. A type key overrides what the gazetteer filled in.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
+    <p><b>Changing a label already made:</b> click it in the list or on the map, edit the <b>form</b> (or re-trace it, or change what it shows), then press <kbd>Enter</kbd> in the field &mdash; or click an empty spot on the map, or press <kbd>Esc</kbd>. The label is released and its name shows on the map again; every keystroke is kept by the browser as you type. (A label marked <b>N</b> with its trace skipped has no place on the map, so it draws no name &mdash; it lives in the lists; give it a point with <b>Redo point</b> if you want its name shown.)</p>
     <p><b>The boundary walk</b> (where the map's texts carry the adjoining-lands list): <b>Mark the letters</b> — the letter to mark is shown in the box; click its stamp on the map, repeat (edit the letter in the box for a stamp the sequence doesn't name, <kbd>S</kbd> to leave one unmarked). <b>Walk the boundary</b> — each stretch of the list in order: trace the line from its first letter to its last (click the start, each bend, double-click the end), or <kbd>S</kbd> skips the stretch (a stretch drawn in the sub-map: skip it). Click a stretch in the list to draw it again.</p>
     <p>Your work is kept in this browser as you go. Press <b>Save</b> to download a file to bring into the edition.</p>
   </details>
@@ -791,7 +792,9 @@ viewer.addHandler("canvas-click",function(e){
     if(pendingBreak){ if(tmp.length) tmpBreaks.push(tmp.length); pendingBreak=false; }
     tmp.push(s2i(e.position)); tmpPx.push([e.position.x,e.position.y]); draw(); setStatus(stepText()+traceInfo());
   } else if(!cur||step===null){
-    var l=hit(e.position); if(l) selectLabel(l);
+    var l=hit(e.position);
+    if(l) selectLabel(l);
+    else if(cur){ cur=null; render(); }   // a click on empty map: done with this label
   }
 });
 viewer.addHandler("canvas-double-click",function(e){
@@ -813,6 +816,17 @@ viewer.addHandler("canvas-double-click",function(e){
 document.addEventListener("keydown",function(e){
   var t=e.target, tag=t&&t.tagName;
   if(tag==="INPUT"||tag==="TEXTAREA"||tag==="SELECT"){
+    // Enter in the form or note field of an existing label commits the
+    // edit: the label is deselected and its name shows on the map again
+    // (the editor's report, 2026-11-06: an edit seemed unsavable and the
+    // name did not appear — a selected label draws no name, and nothing
+    // deselected it).
+    if(e.key==="Enter" && cur && !isDraft && (t.id==="f-form"||t.id==="f-note")){
+      e.preventDefault();
+      cur=null; step=null; persist(); render();
+      setStatus("Saved. The label's name shows on the map now; the browser keeps the change, and <b>Save</b> downloads the file.");
+      return;
+    }
     // Enter in the form field saves the label whose type the gazetteer filled in
     if(e.key==="Enter" && cur && step==="shows" && cur.autoShows && t.id==="f-form"){}
     else return;
@@ -821,7 +835,11 @@ document.addEventListener("keydown",function(e){
   var k=e.key, lk=k.length===1?k.toLowerCase():k;
   if(k===","){rotateBy(-90);return;}
   if(k==="."){rotateBy(90);return;}
-  if(k==="Escape"){cancelStep();return;}
+  if(k==="Escape"){
+    if(cur && !isDraft && step===null){ cur=null; render(); }   // nothing in progress: release the label
+    else cancelStep();
+    return;
+  }
   if(!cur) return;
   if(k==="["||k==="]"){
     cur.height=Math.max(10,(cur.height||80)+(k==="]"?20:-20));
