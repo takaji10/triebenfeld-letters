@@ -1226,6 +1226,23 @@ cloud branches").
   self-match check (a content patch against the whole, peak at 0,0 with NCC
   ≈ 1) catches both this and the numerator form's errors — run it before
   any score is believed (the standing rule, "Correlation matchers").
+- **A georeference made on one version of a map cannot be transferred to
+  another version — and the tell is the total correlation failure**
+  (2026-11-06, Gilly 1802). BII.jpg matched neither of the folder's other
+  Gilly images nor any warped tiles, at every scale and turn of
+  translation-only search, while the matcher itself was proven on a
+  self-match: not a tooling miss but a fact about the images. The editor
+  confirmed it: the MapWarper reference was made on a different version.
+  Two lessons: (a) when a correlation "cannot fail" yet finds nothing,
+  suspect the VERSION before the method — re-engraved states of one map do
+  not correlate; (b) before concluding anything, search ROTATION as well as
+  scale: old survey sheets are commonly drawn with the meridian tilted
+  (Gilly's sheet sits at ~16 deg), which no translation-only search can
+  bridge. The joint search (rotation every 5 deg at a coarse frame, then a
+  fine pass) found the match at once. Scale ranges must be reasoned from
+  the images' coverage — a wrong guess about what a scan spans sends the
+  search to the wrong octave entirely (the first pass searched k 0.3-0.6
+  when the answer was 0.65 on another frame).
 - A heredoc in the Bash tool fails on an unbalanced apostrophe even when it
   is quoted. Write any script that holds prose with the Write tool and run
   the file.

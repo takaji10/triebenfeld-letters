@@ -4786,3 +4786,20 @@ footer on every page. Changed, in both languages:
   second files, the unconfirmed orientations); MISSING_SOURCES carries the
   Bildplan's open source. in_project stays false everywhere until the marks
   are imported (map_pages.py needs labels.yml).
+- The same sitting, the editor's rulings by return: the four dates settled
+  from the editor's bibliographic references (Blaeu ca. 1664, Pambo 1801
+  "after Pambo", Hollring 1805, Królików 1800-1815 — the `year:` fields
+  carry them, the slugs and short forms keep the register's years, because
+  the gazetteer cites those forms and the parser matches them); Gilly
+  georeferenced without MapWarper at the editor's word (the 83446 reference
+  was a different version): BII.jpg correlated against the warped tiles of
+  MapWarper 63625 (the same cartography, served openly, exact Web-Mercator
+  geometry) with a JOINT scale-and-rotation search — BII's meridian is
+  tilted ~16 deg, which is why every translation-only search (against 83446,
+  against img_65802) had found nothing; 43 synthetic control points,
+  affine RMS 132 m, the fit's RMS 165 m (scratch/maps_bulk/gilly63625.py,
+  gilly63625_fine.py; georef.yml `from: synthetic`). The batch's labelling
+  index (a table of the twenty sheets with links, statuses and the notes to
+  address — the Richter mw759848 reminder among them) is built by
+  scratch/maps_bulk/build_index.py to review/maps/index.html, served at the
+  server root (http://localhost:8780/).
