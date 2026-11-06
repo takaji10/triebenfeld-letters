@@ -9,14 +9,11 @@ location:
   relation: southwest-of
   relative_to: lukom
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.104109
   lon: 17.80693
-text_en: Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded
-  as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen
-  (1746-1818) who named it after his family name. Renamed to Anielewo in 1891 as part
-  of efforts by the Polish authorities to remove traces of previous Prussian occupation.
-  Nazwy miejscowe Polski records *Ingelfingen* (1900).[^1]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Anielewo, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after his family name. Renamed to Anielewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. Nazwy miejscowe Polski records *Ingelfingen* (1900).[^1]
 names:
 - form: Anielewo
   year: null
@@ -40,7 +37,11 @@ names:
   footnote: 1
 aliases:
 - Ingelfingen, Kolonia
-maps: []
+maps:
+- map: mapadrogi1890
+  form: Колонія Ингельфингенъ
+  note: null
+  label: mapadrogi1890-030
 footnotes:
 - n: 1
   text: Nazwy miejscowe Polski, t. 1, p. 67

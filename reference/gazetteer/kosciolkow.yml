@@ -9,11 +9,11 @@ location:
   relation: south-of
   relative_to: wrabczyn
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.159822
   lon: 17.863937
-text_en: Village south of Wrąbczyn. *Koscialkowo* (Gilly 1802); *Kosciółki* (Reymann
-  1834); *Kościołków* (Zagórów 1841).
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Kościołków, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village south of Wrąbczyn. *Koscialkowo* (Gilly 1802); *Kosciółki* (Reymann 1834); *Kościołków* (Zagórów 1841).
 names:
 - form: Kościołków
   year: null
@@ -30,5 +30,9 @@ maps:
 - map: zagorow1841
   form: Kościołków
   note: null
+- map: mapadrogi1890
+  form: Косьцёлковъ
+  note: null
+  label: mapadrogi1890-012
 footnotes: []
 review: []

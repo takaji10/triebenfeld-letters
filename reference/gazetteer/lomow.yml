@@ -9,15 +9,11 @@ location:
   relation: south-of
   relative_to: lukom
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.118009
   lon: 17.85095
-text_en: Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege document
-  where Ląd Abbey received Łomów for *Pustkowie Grądziem*.[^41] *Lomaw* (Łukom 1766);
-  *Lumowo* (von Pfau 1770); *Lumow* (Perthées 1798); with a windmill (Gilly 1802);
-  *Łamowo* (Reymann 1834). The Słownik geograficzny records it as a village, in gmina
-  Trąbczyn, parish of Zagórów, powiat słupecki.[^42] Nazwy miejscowe Polski records
-  the name as *Lomowo* by 1462, later as *Łomowo wś* (1884).[^43]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Łomów, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege document where Ląd Abbey received Łomów for *Pustkowie Grądziem*.[^41] *Lomaw* (Łukom 1766); *Lumowo* (von Pfau 1770); *Lumow* (Perthées 1798); with a windmill (Gilly 1802); *Łamowo* (Reymann 1834). The Słownik geograficzny records it as a village, in gmina Trąbczyn, parish of Zagórów, powiat słupecki.[^42] Nazwy miejscowe Polski records the name as *Lomowo* by 1462, later as *Łomowo wś* (1884).[^43]
 names:
 - form: Łomów
   year: null
@@ -57,6 +53,10 @@ maps:
 - map: reymann1834
   form: Łamowo
   note: null
+- map: mapadrogi1890
+  form: Ломувъ
+  note: null
+  label: mapadrogi1890-026
 footnotes:
 - n: 41
   text: Klasztor cystersów w Lądzie 13-14

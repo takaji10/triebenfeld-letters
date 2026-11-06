@@ -9,17 +9,11 @@ location:
   relation: southwest-of
   relative_to: zagorowo
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.13301
   lon: 17.84485
-text_en: Village southwest of Zagórów. First mentioned as *Lukome* in a 1240 document
-  where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd
-  Abbey.[^42] Łukom was also an estate owned by the Ścibor-Chełmski family roughly
-  from the 15th to 19th centuries. In 1884 it was 204 *włóka* (5,850 morgen or 33
-  km²) in size and included the settlements of Łukom, Łukomska Huta, Bukowe, Imielno,
-  Małgorzatów, Myszaków, and Adamierz.[^43] *Lukom* (Łukom 1766); with a chapel and
-  water mill (Gilly 1802); with a tavern (Reymann 1834); with a manor house (Richter
-  1843). Also see *Koczogowa*.
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Łukom, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village southwest of Zagórów. First mentioned as *Lukome* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^42] Łukom was also an estate owned by the Ścibor-Chełmski family roughly from the 15th to 19th centuries. In 1884 it was 204 *włóka* (5,850 morgen or 33 km²) in size and included the settlements of Łukom, Łukomska Huta, Bukowe, Imielno, Małgorzatów, Myszaków, and Adamierz.[^43] *Lukom* (Łukom 1766); with a chapel and water mill (Gilly 1802); with a tavern (Reymann 1834); with a manor house (Richter 1843). Also see *Koczogowa*.
 names:
 - form: Łukom
   year: null
@@ -44,6 +38,10 @@ maps:
 - map: richter1843
   form: null
   note: with a manor house
+- map: mapadrogi1890
+  form: Лукомъ
+  note: null
+  label: mapadrogi1890-020
 footnotes:
 - n: 42
   text: Zakrzewski, vol. 1, No. 222

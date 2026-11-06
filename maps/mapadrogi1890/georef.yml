@@ -1,0 +1,54 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). mapadrogi1890 has no MapWarper
+# georeference: the map is placed from the editor's marks alone (MAPS_PLAN,
+# section 5 - "the maps not on MapWarper are georeferenced by the marking
+# alone"), which georef.py appends here as mk-* rows. Rows with `from:
+# mapwarper` would be replaced on every fetch (none here); any other rows are
+# kept. `fit:` is written by pipeline/maps/georef.py.
+map: mapadrogi1890
+fetched: '2026-11-06'
+width: 11009
+height: 14250
+gcps: []
+fit:
+  transformation: polynomial
+  order: 1
+  n: 35
+  rms_m: 830.21
+  inverse_rms_px: 148.5
+  residuals_m:
+    mk-mapadrogi1890-002: 338.16
+    mk-mapadrogi1890-004: 440.13
+    mk-mapadrogi1890-008: 2371.4
+    mk-mapadrogi1890-010: 483.09
+    mk-mapadrogi1890-012: 542.11
+    mk-mapadrogi1890-014: 252.63
+    mk-mapadrogi1890-016: 180.76
+    mk-mapadrogi1890-018: 279.11
+    mk-mapadrogi1890-020: 162.24
+    mk-mapadrogi1890-022: 336.92
+    mk-mapadrogi1890-024: 391.62
+    mk-mapadrogi1890-026: 253.55
+    mk-mapadrogi1890-028: 1116.9
+    mk-mapadrogi1890-030: 1096.07
+    mk-mapadrogi1890-032: 424.55
+    mk-mapadrogi1890-034: 2873.58
+    mk-mapadrogi1890-038: 1420.27
+    mk-mapadrogi1890-040: 370.68
+    mk-mapadrogi1890-042: 581.88
+    mk-mapadrogi1890-044: 220.4
+    mk-mapadrogi1890-046: 140.07
+    mk-mapadrogi1890-048: 103.37
+    mk-mapadrogi1890-050: 198.79
+    mk-mapadrogi1890-052: 445.32
+    mk-mapadrogi1890-054: 376.57
+    mk-mapadrogi1890-056: 509.23
+    mk-mapadrogi1890-058: 532.75
+    mk-mapadrogi1890-062: 614.14
+    mk-mapadrogi1890-064: 384.11
+    mk-mapadrogi1890-066: 445.38
+    mk-mapadrogi1890-068: 400.31
+    mk-mapadrogi1890-070: 613.84
+    mk-mapadrogi1890-072: 421.66
+    mk-mapadrogi1890-074: 949.73
+    mk-mapadrogi1890-076: 641.47

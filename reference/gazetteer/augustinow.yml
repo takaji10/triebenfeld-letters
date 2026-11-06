@@ -9,20 +9,11 @@ location:
   relation: south-of
   relative_to: zagorowo
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.13698
   lon: 17.87681
-text_en: Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded
-  as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen
-  (1746-1818) who named it after one of his children. Augustinhof was established
-  on March 21, 1806, when the Trąbczyn Patrimonial Court issued an agreement between
-  Hohenlohe-Ingelfingen and eighteen German colonists to settle on 100 *Hüfen* (766
-  ha, or 7.7 km²) of woodland on the Drzewce estate.[^3] Renamed to Augustynów in
-  1891 as part of efforts by the Polish authorities to remove traces of previous Prussian
-  occupation. *Hol. Augustinow* (Reymann 1834). The Słownik geograficzny records it
-  as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 358
-  inhabitants at the time of the Słownik.[^4] Nazwy miejscowe Polski records the name
-  as *Augustynowo* by 1827, later as *Augustynów* (1839).[^5]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Augustynów, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Augustinhof was established on March 21, 1806, when the Trąbczyn Patrimonial Court issued an agreement between Hohenlohe-Ingelfingen and eighteen German colonists to settle on 100 *Hüfen* (766 ha, or 7.7 km²) of woodland on the Drzewce estate.[^3] Renamed to Augustynów in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Augustinow* (Reymann 1834). The Słownik geograficzny records it as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 358 inhabitants at the time of the Słownik.[^4] Nazwy miejscowe Polski records the name as *Augustynowo* by 1827, later as *Augustynów* (1839).[^5]
 names:
 - form: Augustynów
   year: null
@@ -50,10 +41,13 @@ maps:
 - map: reymann1834
   form: Hol. Augustinow
   note: null
+- map: mapadrogi1890
+  form: Августинувъ
+  note: null
+  label: mapadrogi1890-016
 footnotes:
 - n: 3
-  text: “[Odpis dokumentów w sprawie parcelacji majątków Zagórowo, Witów i Trąbczyn
-    z lat 1805-1806] - woj. poznańskie,” 7-16
+  text: “[Odpis dokumentów w sprawie parcelacji majątków Zagórowo, Witów i Trąbczyn z lat 1805-1806] - woj. poznańskie,” 7-16
   refs:
   - source: app539680801
     locator: null

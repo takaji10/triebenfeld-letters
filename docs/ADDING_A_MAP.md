@@ -99,7 +99,14 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
 7. **The fit again.** `python pipeline/maps/georef.py <map>`: the marks of
    places that have coordinates join the control points, and every marked
    place gets a position (`maps/<map>/positions.yml`). A point flagged as a
-   misfit is a question for the editor, not a correction.
+   misfit is a question for the editor, not a correction. A map not on
+   MapWarper has no georef.yml yet: create it empty (the header comment,
+   `gcps: []`) and the marks fit alone — the mk-* rows are the only control
+   points (mapadrogi1890, 2026-11-06). That needs the marked places'
+   coordinates: a mark whose gazetteer place has no `surveyed` point joins
+   nothing, so the plan's section-6 OSM lookups (GAZETTEER_PLAN) run first,
+   every written coordinate carrying `location.check` with what the lookup
+   found.
 8. **Record.** `maps/<map>/notes.md` (what came in, how it is drawn, what
    was settled); set `in_project: true`; `python pipeline/gazetteer/
    gazetteer.py --missing` (the map leaves the list of maps cited);

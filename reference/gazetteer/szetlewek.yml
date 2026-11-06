@@ -9,9 +9,10 @@ location:
   relation: east-of
   relative_to: stanislawow
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.11667
   lon: 18.0
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Szetlewek, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
 text_en: Village east of Stanisławów. Szetlewek, or *Szetlewo Kątne*[^76] was first pawned (used as a collateral for a loan) to Jan Goliński. Later in 1671, the property was fully sold to Goliński by the heirs of former owner Martin Strzałkowski. It eventually descended by hereditary succession to Krzysztof Prusimski and his wife Teresa Łoś-Golińska, as well as Łoś-Golińska’s mother Konstancja Krusińska and her husband Marcin Katowski.[^77] Mentioned as *Szetlewko* in a 1685 marriage record from Trąbczyn Catholic parish metrical records.[^78] Sebastjan Szetlewicz from Szetlewko was mentioned in Kalisz municipal court records from 1727.[^79] *Szetlewka* (von Pfau 1770); *Szelkowek* (Trąbczyn 1790); *Szedlewek* (Gilly 1802). The Słownik geograficzny records the settlement.[^80]
 names:
 - form: Szetlewek
@@ -37,6 +38,10 @@ maps:
   form: Szetlewek
   note: null
   label: kozlowski1861-030
+- map: mapadrogi1890
+  form: Шетлевекъ
+  note: null
+  label: mapadrogi1890-058
 footnotes:
 - n: 76
   text: “Relationes [protocollon],” 1786, 163v

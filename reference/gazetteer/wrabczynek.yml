@@ -9,18 +9,11 @@ location:
   relation: northwest-of
   relative_to: wrabczyn
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.17834
   lon: 17.82236
-text_en: Village northwest of Wrąbczyn. First mentioned as *Parvum Vronchin* (Latin
-  for “Small Wrąbczyn”) in an 1173 document where Mieszko I granted the village to
-  Ląd Abbey which included “salt, lakes, fishing, hunting, and other uses.”[^109]
-  Wrąbczynek was traded in 1362 by Ląd Abbey to Casimir III the Great in exchange
-  for part of the forest called *Czirnetz* near Kazimierz.[^110] Mentioned as *Wraczina*
-  in a 1440 document where Władysław III bequeathed Stanisław the Black 500 grzywny
-  from Wrąbczynek and other villages.[^111] Re-established as a settlement around
-  1770 by Szczepan Turno, starost of Pietrzyków.[^112] *Wromsziniek* (von Pfau 1770);
-  with a windmill (Wreschen 1901).
+  check: 'OSM (Nominatim) 2026-11-06: Wrąbczynek, gmina Pyzdry, powiat wrzesiński, 62-311, Polska — the entry''s own point confirmed to the meter'
+text_en: Village northwest of Wrąbczyn. First mentioned as *Parvum Vronchin* (Latin for “Small Wrąbczyn”) in an 1173 document where Mieszko I granted the village to Ląd Abbey which included “salt, lakes, fishing, hunting, and other uses.”[^109] Wrąbczynek was traded in 1362 by Ląd Abbey to Casimir III the Great in exchange for part of the forest called *Czirnetz* near Kazimierz.[^110] Mentioned as *Wraczina* in a 1440 document where Władysław III bequeathed Stanisław the Black 500 grzywny from Wrąbczynek and other villages.[^111] Re-established as a settlement around 1770 by Szczepan Turno, starost of Pietrzyków.[^112] *Wromsziniek* (von Pfau 1770); with a windmill (Wreschen 1901).
 names:
 - form: Wrąbczynek
   year: null
@@ -42,6 +35,10 @@ maps:
 - map: wreschen1901
   form: null
   note: with a windmill
+- map: mapadrogi1890
+  form: Вромбчинекъ
+  note: null
+  label: mapadrogi1890-010
 footnotes:
 - n: 109
   text: Zakrzewski, vol. 1, No. 20

@@ -485,7 +485,7 @@ maps:
     height: 14250
     crop: null
     tiles: "https://takaji10.github.io/triebenfeld-maps/mapadrogi1890/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true    # the editor's 37 marks imported 2026-11-06, the OCR's forms filled, the fit from the marks alone (RMS 830 m); maps/mapadrogi1890/notes.md
   trojwiorstowki1914:
     cited_as: "Trójwiorstówki 1914"
     year: 1914

@@ -9,9 +9,10 @@ location:
   relation: east-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.130278
   lon: 17.966944
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Mariantów, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
 text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]
 names:
 - form: Mariantów
@@ -35,6 +36,10 @@ maps:
   form: Maryantów
   note: null
   label: kozlowski1861-065
+- map: mapadrogi1890
+  form: Марьяновъ
+  note: null
+  label: mapadrogi1890-054
 footnotes:
 - n: 1
   text: Nazwy miejscowe Polski, t. 6, p. 524

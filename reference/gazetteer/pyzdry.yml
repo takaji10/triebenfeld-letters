@@ -9,25 +9,22 @@ location:
   relation: west-of
   relative_to: zagorowo
   belongs_to: null
-  precision: identified
-  lat: 52.169433
+  precision: surveyed
+  lat: 52.1694332
   lon: 17.687134
-text_en: Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the
-  army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch
-  of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established
-  here in 1842. A document of 14 October 1341 records Casimir the Great granting Jakub,
-  a burgher of Pyzdry, a third part of a mill on the Warta below the castle of Pyzdry.[^1]
-  The Słownik geograficzny records it as a town on the Warta, powiat słupecki, gmina
-  and parish of Pyzdry, with 232 houses and 3151 inhabitants at the time of the Słownik.[^2]
-  A Słownik supplement adds that Mieszko of Poland stayed here in 1186 and issued
-  an act for Ląd Abbey from Pyzdry, and that the town received German law early.[^3]
+  check: 'OSM (Nominatim) 2026-11-06: Pyzdry, gmina Pyzdry, powiat wrzesiński, Polska — the entry''s own point confirmed to the meter'
+text_en: Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established here in 1842. A document of 14 October 1341 records Casimir the Great granting Jakub, a burgher of Pyzdry, a third part of a mill on the Warta below the castle of Pyzdry.[^1] The Słownik geograficzny records it as a town on the Warta, powiat słupecki, gmina and parish of Pyzdry, with 232 houses and 3151 inhabitants at the time of the Słownik.[^2] A Słownik supplement adds that Mieszko of Poland stayed here in 1186 and issued an act for Ląd Abbey from Pyzdry, and that the town received German law early.[^3]
 names:
 - form: Pyzdry
   year: null
   note: heading
   footnote: null
 aliases: []
-maps: []
+maps:
+- map: mapadrogi1890
+  form: Пиздры
+  note: null
+  label: mapadrogi1890-076
 footnotes:
 - n: 1
   text: Kodeks Dyplomatyczny Wielkopolski, vol. 2, no. None

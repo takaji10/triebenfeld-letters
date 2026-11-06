@@ -1072,6 +1072,41 @@ questions the batch leaves:
   view_rotation change, and the tiles are re-cut if the map of record
   changes).
 
+### Mapa dróg 1890 — marked and OCR'd (2026-11-06)
+
+- **Two new places** the editor marked (`new_place`, no gazetteer entry
+  yet): **Stara Huta** (label mapadrogi1890-036, an Olęder settlement, on
+  the map Стара Гута) and **Świątniki** (label mapadrogi1890-060, a
+  village, on the map Свентники). **For the editor**: their gazetteer
+  entries — and, if they are the edition's places under other names, the
+  match.
+- **The OCR's readings** are Claude's read of the label crops (the method
+  in maps/mapadrogi1890/notes.md): 25 high, 11 medium, **one low —
+  mapadrogi1890-064, read as Скукумъ (the editor's Skokum)** — the
+  editor's eye settles it (the crop is in site/assets/maps/crops/
+  mapadrogi1890/mapadrogi1890-064.jpg). The medium readings stand as read;
+  any the editor corrects is corrected in labels.yml and the gazetteer.
+- **The gazetteer's coordinates**: the marking exposed that the marked
+  places had no `surveyed` coordinates (the entries carried `identified`,
+  a vocabulary the plan's four degrees do not know). The plan's section-6
+  OSM lookups ran for the 35 marked places: 34 confirmed (29 against the
+  entries' own points, 3 to the meter under corrected queries), and two
+  `described` entries took OSM's matching point — **lazinskie-oledry**
+  (the modern Łazińsk Drugi's point, taken for the combined pre-split
+  settlement; the entry's "south of Łazy" holds, 2.7 km south) and **budy**
+  (the hamlet in Grądzeń, as the entry describes). **For the editor**: both
+  choices, and whether `identified` becomes `surveyed` for the other
+  gazetteer places too (the plan's word for today-coordinates is
+  `surveyed`; the site renders no difference; only georef.py's gate reads
+  it).
+- **The fit's outliers** (RMS 830 m over 35 points, the class of a
+  schematic roads map): mk-mapadrogi1890-034 (Olędry Michalinówo, 2.9 km),
+  mk-mapadrogi1890-038 (Łazińskie Olędry, 1.4 km) — both at the map's east
+  edge — and mk-mapadrogi1890-008 (Kolonia Wrąbczyn, 2.4 km, whose saved
+  trace carried a doubled point). A misfit is a question, not a correction:
+  the editor's eye at the overlay settles whether the mark, the modern
+  coordinates, or the map's schematic road geometry is the mover.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as

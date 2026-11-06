@@ -9,9 +9,10 @@ location:
   relation: east-of
   relative_to: myszakow
   belongs_to: myszakow
-  precision: identified
+  precision: surveyed
   lat: 52.139167
   lon: 17.8175
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Małgorzatów, Myszaków, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
 text_en: Hamlet east of and belonging to Myszaków. First appeared on Richter 1843.
 names:
 - form: Małgorzatów
@@ -23,5 +24,9 @@ maps:
 - map: richter1843
   form: null
   note: First appeared on
+- map: mapadrogi1890
+  form: Малгожатовъ
+  note: null
+  label: mapadrogi1890-024
 footnotes: []
 review: []

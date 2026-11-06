@@ -9,17 +9,11 @@ location:
   relation: east-of
   relative_to: lukom
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.130685
   lon: 17.862187
-text_en: Village east of Łukom. The name is an adjective for beech trees (*Buk*).
-  According to Chodyła, *Bukowo*/*Bukowe* (which may have existed previously as a
-  medieval-era village) or *Olędry Łomowskie* was established on the initiative of
-  the owner of the Łukom/Łomów estates before 1789,[^6] either through a change in
-  its legal status or by clearing land which had been long-since abandoned.[^7] It
-  is illustrated as an Olęder settlement on a sketch of Zagórów parish from circa
-  1790 by Karól Perthées (Fig. 74).[^8] *Bukower Hol.* (Gilly 1802). Nazwy miejscowe
-  Polski records the name as *Bukowo* by 1827, later as *Bukowe* (1839).[^9]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Bukowe, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village east of Łukom. The name is an adjective for beech trees (*Buk*). According to Chodyła, *Bukowo*/*Bukowe* (which may have existed previously as a medieval-era village) or *Olędry Łomowskie* was established on the initiative of the owner of the Łukom/Łomów estates before 1789,[^6] either through a change in its legal status or by clearing land which had been long-since abandoned.[^7] It is illustrated as an Olęder settlement on a sketch of Zagórów parish from circa 1790 by Karól Perthées (Fig. 74).[^8] *Bukower Hol.* (Gilly 1802). Nazwy miejscowe Polski records the name as *Bukowo* by 1827, later as *Bukowe* (1839).[^9]
 names:
 - form: Bukowe
   year: null
@@ -39,6 +33,10 @@ maps:
 - map: gilly1802
   form: Bukower Hol.
   note: null
+- map: mapadrogi1890
+  form: Букове
+  note: null
+  label: mapadrogi1890-018
 footnotes:
 - n: 6
   text: Chodyła 70
@@ -57,8 +55,7 @@ footnotes:
     status: linked
   note: null
 - n: 8
-  text: Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w
-    roku 1796," 125 (Image 251)
+  text: Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w roku 1796," 125 (Image 251)
   refs:
   - source: perthees1796
     locator: p. 125 (image 251)

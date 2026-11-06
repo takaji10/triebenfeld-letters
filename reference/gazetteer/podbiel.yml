@@ -9,15 +9,11 @@ location:
   relation: east-of
   relative_to: trabczyn
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.135513
   lon: 17.991958
-text_en: Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew
-  were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska
-  who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the
-  18th century.[^59] Depicted as a folwark on Wreschen 1901. Nazwy miejscowe Polski
-  traces the name through medieval forms *Polyebyele* (1445), *Podbiele* (1579) and
-  *Podbyelye* (1511-23), from the prepositional phrase *podle bieli* 'by the wet marsh'.[^60]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Podbiel, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the 18th century.[^59] Depicted as a folwark on Wreschen 1901. Nazwy miejscowe Polski traces the name through medieval forms *Polyebyele* (1445), *Podbiele* (1579) and *Podbyelye* (1511-23), from the prepositional phrase *podle bieli* 'by the wet marsh'.[^60]
 names:
 - form: Podbiel
   year: null
@@ -28,6 +24,10 @@ maps:
 - map: wreschen1901
   form: null
   note: Depicted as a folwark on
+- map: mapadrogi1890
+  form: Подбель
+  note: null
+  label: mapadrogi1890-052
 footnotes:
 - n: 59
   text: Ibid 659

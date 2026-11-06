@@ -9,20 +9,11 @@ location:
   relation: south-of
   relative_to: zagorowo
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.14088
   lon: 17.89138
-text_en: Village south of Zagórów. First mentioned in a privilege document from Ląd
-  Abbey in 1362.[^12] Drzewce (*Drzewycz*) was mentioned as an alias of *Nouo Sagorowo*
-  (Pl. *Zagórowo Nowe*) in 1411, when the monastery’s abbott Gerhard exchanged a scullery
-  in Drzewce with a scullery in Kownaty.[^13] Possibly mentioned in a 1418 document
-  concerning the abbey’s trading of Wrąbczyn to Laurencius Yelonouicz in exchange
-  for Drzewce (*Drzewcza*), although the source expressed uncertainty as to which
-  Drzewce was being referenced. The document stated that Drzewce had been purchased
-  by Yelonouicz from the monastery’s previous abbot Heinrich.[^14] Breyer noted that
-  the estate was parceled around 1900 and that German settlers claimed some of the
-  land.[^15] *Drziwza* (von Pfau 1770). Nazwy miejscowe Polski records the name as
-  *Drzevvyc7a* by 1418.[^16]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Drzewce, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village south of Zagórów. First mentioned in a privilege document from Ląd Abbey in 1362.[^12] Drzewce (*Drzewycz*) was mentioned as an alias of *Nouo Sagorowo* (Pl. *Zagórowo Nowe*) in 1411, when the monastery’s abbott Gerhard exchanged a scullery in Drzewce with a scullery in Kownaty.[^13] Possibly mentioned in a 1418 document concerning the abbey’s trading of Wrąbczyn to Laurencius Yelonouicz in exchange for Drzewce (*Drzewcza*), although the source expressed uncertainty as to which Drzewce was being referenced. The document stated that Drzewce had been purchased by Yelonouicz from the monastery’s previous abbot Heinrich.[^14] Breyer noted that the estate was parceled around 1900 and that German settlers claimed some of the land.[^15] *Drziwza* (von Pfau 1770). Nazwy miejscowe Polski records the name as *Drzevvyc7a* by 1418.[^16]
 names:
 - form: Drzewce
   year: null
@@ -49,6 +40,10 @@ maps:
 - map: vonpfau1770
   form: Drziwza
   note: null
+- map: mapadrogi1890
+  form: Джевце
+  note: null
+  label: mapadrogi1890-014
 footnotes:
 - n: 12
   text: Klasztor cystersów w Lądzie 25-26

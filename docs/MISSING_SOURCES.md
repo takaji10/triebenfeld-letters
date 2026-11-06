@@ -233,22 +233,22 @@ The maps the gazetteer cites and the edition does not hold. They are not all wan
 | Zagorowo 1799 | 1 | Wymysłów |
 | Królików 1800 | 2 | Cygany, Rosciszewo |
 | Slupetsk 1800 | 1 | Michalinów Trąbczyński |
-| Gilly 1802 | 29 | Beźsług, Biskupice, Bukowe, Czarna Struga, Czarnybród, Długa Górka, Dziadolina, Grądzeń, Huta Łukomska, Koczogowa, Kopojno, Kościołków, Koszelewska Łąka, Łomów, Łukom, Łukomskie Olędry, Mariantów, Myszakówek, Oleśnica, Sklanna Huta, Szetlewek, Tarszew, Trąbczyn, Trąbczyńskie Nowe Olędry, Trąbczyńskie Stare Olędry, Wrąbczyn, Wymysłów, Zagórów, Zagórowskie Olędry |
 | Pambo 1803 | 2 | Biskupice, Rosciszewo |
-| Hollring 1804 | 2 | Budy, Grądzeń |
+| Gilly 1802 | 29 | Beźsług, Biskupice, Bukowe, Czarna Struga, Czarnybród, Długa Górka, Dziadolina, Grądzeń, Huta Łukomska, Koczogowa, Kopojno, Kościołków, Koszelewska Łąka, Łomów, Łukom, Łukomskie Olędry, Mariantów, Myszakówek, Oleśnica, Sklanna Huta, Szetlewek, Tarszew, Trąbczyn, Trąbczyńskie Nowe Olędry, Trąbczyńskie Stare Olędry, Wrąbczyn, Wymysłów, Zagórów, Zagórowskie Olędry |
 | Weydner 1804 | 2 | Koszelewska Łąka, Ostrowiec |
+| Hollring 1804 | 2 | Budy, Grądzeń |
 | Colberg 1827 | 1 | Michalinów Trąbczyński |
 | Reymann 1834 | 13 | Augustynów, Drzęzgi, Kościołków, Łazińskie Olędry, Łomów, Łukom, Maly, Michalinów Oleśnicki, Olchowo, Ryjew, Skokamskie Olędry, Tarczewo, Zagórów |
 | Zagórów 1841 | 1 | Kościołków |
 | Richter 1843 | 29 | Beźsług, Bieganszczyzna, Osada, Budy, Czarnybród, Długa Górka, Grabina, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Imielanka, Imielno, Jeziorko, Koszelewska Łąka, Łazińskie Olędry, Łukom, Łutow, Małgorzatów, Michalinów Trąbczyński, Oleśnica, Przybysław, Rosciszewo, Skokamskie Olędry, Stawisko, Tarszew, Trąbczyn Dworski, Włodzimirów, Wrąbczyn, Wygoda, Zagórów |
 | Chrzanowski 1858 | 6 | Biskupice, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Kopojno, Koszelewska Łąka |
-| Pełzucki 1896 | 6 | Dziadolina, Glinianki, Grabina, Noga, Studzianka, Trąbczyńskie Nowe Olędry |
 | Pełzucki 1901 | 5 | Przybysław, Trąbczyn F, Trąbczyn G, Trąbczyn, Włodzimirów |
 | Wreschen 1901 | 5 | Kopojno, Myszaków, Podbiel, Stanisławów, Wrąbczynek |
 | Trójwiorstówki 1914 | 1 | Dziadolina |
 | Wojskowy Instytut Geograficzny 1933 | 1 | Wincentowo |
 | Messtischblatt 1940 | 11 | Grądzeń-Las, Huta Trąbczyńska, Imielanka, Kirchol, Łazińskie Olędry, Mały Las, Maradz, Michalinów Trąbczyński, Rydlowa Góra, Stanisławów, Wincentowo |
 | Hohensalza 1942 | 3 | Oleśnica, Trąbczyn, Zagórów |
+| Bildplan 1944 | 0 |  |
 | Słupca 1957 | 5 | Budy, Kopojno-Parcele, Królestwo, Oleśnica-Folwark, Wrąbczyn Górski |
 | Army Map Service 1962 | 1 | Stawisko |
 

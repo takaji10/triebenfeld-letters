@@ -9,10 +9,11 @@ location:
   relation: north-of
   relative_to: gradzyn
   belongs_to: gradzyn
-  precision: described
-text_en: Hamlet north of and belonging to Grądzeń. *Budy do Huty* (Łukom 1766); *Budy
-  Łukomskie* (Hollring 1804); *Lukamske Budy* (Richter 1843); as part of Huta Łukomska
-  (Słupca 1957).
+  precision: surveyed
+  lat: 52.1188889
+  lon: 17.8147222
+  check: 'OSM (Nominatim) 2026-11-06: Budy, Grądzeń, gmina Zagórów, powiat słupecki, 62-410, Polska — the hamlet in Grądzeń, matching the entry''s north of and belonging to Grądzeń'
+text_en: Hamlet north of and belonging to Grądzeń. *Budy do Huty* (Łukom 1766); *Budy Łukomskie* (Hollring 1804); *Lukamske Budy* (Richter 1843); as part of Huta Łukomska (Słupca 1957).
 names:
 - form: Budy
   year: null
@@ -33,5 +34,9 @@ maps:
 - map: slupca1957
   form: null
   note: as part of Huta Łukomska
+- map: mapadrogi1890
+  form: Лукомские Буды
+  note: null
+  label: mapadrogi1890-028
 footnotes: []
 review: []

@@ -9,9 +9,10 @@ location:
   relation: southwest-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.119801
   lon: 17.932797
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Michalinów Trąbczyński, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
 text_en: Village southwest of Łazy. Michalinów Trąbczyński was first mentioned as *Cholędry Michalinowo* in a 1809 birth record from Trąbczyn Catholic parish metrical records.[^48] Possibly named after Michalina Prusimska (1778-1851), who was owner of the Trąbczyn estate in the first half of the 19th century. In the 20th century, Michalinów Olędry became known as Michalinów Trąbczyński. *Michalinowo* (Colberg 1827); *Hol. Michalinowo* (with its location erroneously switched with Łazińskie Olędry on Richter 1843 and Slupetsk 1800); *[Kolonia]* *Michalinow* (Kozłowski 1861); *Michalinów* (Messtischblatt 1940).
 names:
 - form: Michalinów Trąbczyński
@@ -45,6 +46,10 @@ maps:
 - map: messtischblatt1940
   form: Michalinów
   note: null
+- map: mapadrogi1890
+  form: Олендры Михалиново
+  note: null
+  label: mapadrogi1890-034
 footnotes:
 - n: 48
   text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, Page 45/Image 264'

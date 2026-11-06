@@ -9,9 +9,10 @@ location:
   relation: south-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: described
-  lat: null
-  lon: null
+  precision: surveyed
+  lat: 52.1013889
+  lon: 17.95
+  check: 'OSM (Nominatim) 2026-11-06: Łazińsk Drugi, gmina Zagórów, powiat słupecki, 62-410, Polska — the point of the modern Łazińsk Drugi, taken for the combined pre-split settlement (the entry says south of Łazy, and this point is 2.7 km south of Łazy); the editor''s own GPS replaces it'
 text_en: Olęder settlement which existed south of Łazy. Created after the amalgamation of Trąbczyńskie Stare Olędry and Trąbczyńskie Nowe Olędry. First mentioned in Trąbczyn Catholic parish metrical records in 1822. At some point in the later half of the 20th century, Łazińskie Olędry was separated into the villages of Łazińsk Pierwszy (the area which contained Trąbczyńskie Stare Olędry) and Łazińsk Drugi (the area which contained Trąbczyńskie Nowe Olędry). *Lazinskie Hol.* (Reymann 1834); *Hol. Lazinskie* (location erroneously switched with *Michalinów Olędry*) (Richter 1843); *Łazinskie [Kolonie]* (Kozłowski 1861); *Łazińska Kolonja* (Messtischblatt 1940 and Fig. 75).
 names:
 - form: Łazińskie Olędry
@@ -43,6 +44,10 @@ maps:
 - map: messtischblatt1940
   form: Łazińska Kolonja
   note: null
+- map: mapadrogi1890
+  form: Лазинскіе Олендры
+  note: null
+  label: mapadrogi1890-038
 footnotes: []
 review:
 - 'maps: more than one italic form in the clause of Richter 1843 (Hol. Lazinskie; Michalinów Olędry)'

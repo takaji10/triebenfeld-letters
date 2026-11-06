@@ -9,9 +9,10 @@ location:
   relation: west-of
   relative_to: lazy-trabczyn
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.12586
   lon: 17.93077
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Osiny, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
 text_en: Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn Catholic parish metrical records as *Osynÿ*.[^56] Mentioned as a mill in a 1784 court document which challenged the inheritance of the Trąbczyn estate and other assets by Antoni Prusimski (1744-1806).[^57] *Oszin* (von Pfau 1770), *Ossiny* (Perthées 1798). Nazwy miejscowe Polski records the name as *Ossyny* by 1475.[^58]
 names:
 - form: Osiny
@@ -46,6 +47,10 @@ maps:
   form: Osiny
   note: null
   label: kozlowski1861-039
+- map: mapadrogi1890
+  form: Осины
+  note: null
+  label: mapadrogi1890-042
 footnotes:
 - n: 56
   text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 8/Image 342'

@@ -4827,3 +4827,22 @@ footer on every page. Changed, in both languages:
   the focus. Plain letters always type as themselves (the mapping runs only
   under the held modifier), so a form as written without diacritics stays
   as written.
+- **Mapa dróg 1890 marked, OCR'd and georeferenced** (2026-11-06): the
+  editor's 37 labels imported (35 gazetteer places and two new places,
+  Stara Huta and Świątniki, waiting on the editor's entries); the batch's
+  exception worked as agreed — the editor's Polish standards kept verbatim
+  in `form_standard:`, Claude's OCR of the crops filling the Russian as
+  written into `form:` (25 high, 11 medium, one low flagged: Скукумъ for
+  Skokum; the method in maps/mapadrogi1890/notes.md — the crops read by
+  Claude directly, the lunaroute converter unable to reach localhost and
+  no Russian Tesseract installed), the gazetteer's appearances carrying
+  the Russian. The marking exposed that the marked places had no
+  `surveyed` coordinates: the plan's section-6 OSM lookups ran (34 places
+  confirmed; the two described entries lazinskie-oledry and budy taking
+  OSM's matching points, the choices in NEEDS_CONFIRMATION), every written
+  coordinate carrying `location.check`; and the fit from the marks alone
+  closed at RMS 830 m over 35 points (the class of a schematic roads map;
+  three outliers flagged). `in_project: true`; the map's warp is live at
+  takaji10.github.io/triebenfeld-maps/warp.html?map=mapadrogi1890. The
+  mark-only fit path (georef.yml created empty, the marks as mk-* rows) is
+  now written into docs/ADDING_A_MAP.md step 7.

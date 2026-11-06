@@ -9,16 +9,11 @@ location:
   relation: northwest-of
   relative_to: nowawies-trabczyn
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.145075
   lon: 17.927257
-text_en: Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and
-  founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen
-  and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie
-  in 1891 as part of efforts by the Polish authorities to remove traces of previous
-  Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica,
-  parish of Sarnowo, powiat słupecki, with 5 houses and 59 inhabitants at the time
-  of the Słownik.[^1]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Zalesie, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica, parish of Sarnowo, powiat słupecki, with 5 houses and 59 inhabitants at the time of the Słownik.[^1]
 names:
 - form: Zalesie
   year: null
@@ -38,7 +33,11 @@ names:
   footnote: null
 aliases:
 - Adolfsberg, Kolonia
-maps: []
+maps:
+- map: mapadrogi1890
+  form: Колонія Адольфсбергъ
+  note: null
+  label: mapadrogi1890-048
 footnotes:
 - n: 1
   text: Słownik geograficzny, t. XVI, p. 711, sub 1
