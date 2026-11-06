@@ -5212,6 +5212,37 @@ footer on every page. Changed, in both languages:
 - Data rebuilt (1,077 face avatars in the index); jekyll and
   verify_site ALL CHECKS PASSED with the project baseurl and with
   none; the layout battery passes.
+
+## 2026-11-06: the master tree as a window, the expanding card
+
+- **The tree renders in parts now** (the editor: the whole graph at
+  once becomes impossibly wide - I2867's chart measured 852 cards over
+  a 117,000-px canvas). The chart is a two-generation window: the
+  focus's parents and grandparents above, children and grandchildren
+  below - I2867's window is 31 cards. The navigation arrows below the
+  chart ("↑ ancestors" / "↓ descendants", shown only when more tree
+  exists beyond the window - hasMoreUp/hasMoreDown in tree.js) slide
+  the window one generation: the next step renders while the far row
+  derenders, the layout recomputed from the new focus. Clicking a card
+  no longer navigates (that took the user away from the master view
+  unexpectedly); the mode pills on the tree route re-root by URL, and
+  the detail panel's "Centre the tree here" re-roots in place.
+- **The card expands in place**: a click opens a detail panel over the
+  viewport at the card's screen position - avatar, name, ID, born
+  date + place, died date + place, the privacy note for the living -
+  with two actions: "Go to the person's page →" and "Centre the tree
+  here". It closes on its ×, a second click on the card, or when
+  another card opens (the panel rides the current transform, so it
+  stays on its card while you pan - and is recomputed from the chart
+  on any re-layout). The HTML panel sits over the SVG (positioned from
+  the chart coordinates through the current pan and zoom), which keeps
+  the text selectable and the layout in CSS rather than foreignObject.
+- The layout battery now asserts the window radius (no card further
+  than the window's rows from the focus) alongside the overlap, link
+  and focus checks; the arrow booleans exercised per person (I2867:
+  down only - his ancestors stop with him; I0003/I0007/I3131: up).
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none (63,294 internal links each).
 - **The tree's clicks were swallowed by the pan's pointer capture** (the
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what

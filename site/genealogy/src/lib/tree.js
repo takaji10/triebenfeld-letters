@@ -25,13 +25,14 @@ export const CARD_H = 56
 export const GAP_X = 16
 export const CELL = CARD_W + GAP_X
 export const ROW_H = 96
-// the person page's embedded chart keeps a small radius; the dedicated
-// tree page (big mode) walks much further - the oldest-known ancestor's
-// family read at a glance, clicked through generation by generation
-export const MAX_UP = 5
-export const MAX_DOWN = 4
-export const BIG_UP = 14
-export const BIG_DOWN = 10
+// The chart is a window, not the whole graph: the focus's parents and
+// grandparents above, children and grandchildren below (the editor:
+// render it in parts, or the oldest-known ancestor's chart becomes
+// impossibly wide). The navigation arrows re-centre the window on a
+// frontier person - the next render drops the rows that left the
+// window, so the chart never grows past its two-step radius.
+export const WINDOW_UP = 2
+export const WINDOW_DOWN = 2
 
 const makeTree = flextree({
   nodeSize: n => [n.data.w, 1],
@@ -68,7 +69,7 @@ function unionsOf(db, pid) {
 // becomes a node of its own - no spouse folding - so the father's line
 // and the mother's line both walk to their full depth, and couples that
 // share a child end up adjacent wherever the layout puts them.
-function upTree(db, pid, depth, seen, maxUp = MAX_UP) {
+function upTree(db, pid, depth, seen, maxUp = WINDOW_UP) {
   seen.add(pid)
   const children = []
   if (depth < maxUp) {
@@ -83,7 +84,7 @@ function upTree(db, pid, depth, seen, maxUp = MAX_UP) {
 
 // The descendant half: the person, the spouse their children share
 // beside them (a card each), the children beneath the couple.
-function downTree(db, pid, depth, seen, maxDown = MAX_DOWN) {
+function downTree(db, pid, depth, seen, maxDown = WINDOW_DOWN) {
   seen.add(pid)
   const spouses = []
   const children = []
@@ -105,6 +106,42 @@ function downTree(db, pid, depth, seen, maxDown = MAX_DOWN) {
            root: depth === 0, children }
 }
 
+// does more tree exist beyond the window? (whether the arrows show)
+export function hasMoreUp(db, pid, gens = WINDOW_UP) {
+  const seen = new Set([pid])
+  let frontier = [pid]
+  for (let d = 0; d < gens; d++) {
+    const next = []
+    for (const x of frontier)
+      for (const par of parentsOf(db, x))
+        if (!seen.has(par) && db.index[par]) { seen.add(par); next.push(par) }
+    if (!next.length) return false
+    frontier = next
+  }
+  // one more generation beyond the window?
+  for (const x of frontier)
+    if (parentsOf(db, x).some(p => db.index[p] && !seen.has(p))) return true
+  return false
+}
+
+export function hasMoreDown(db, pid, gens = WINDOW_DOWN) {
+  const seen = new Set([pid])
+  let frontier = [pid]
+  for (let d = 0; d < gens; d++) {
+    const next = []
+    for (const x of frontier)
+      for (const u of unionsOf(db, x))
+        for (const c of u.children)
+          if (!seen.has(c) && db.index[c]) { seen.add(c); next.push(c) }
+    if (!next.length) return false
+    frontier = next
+  }
+  for (const x of frontier)
+    for (const u of unionsOf(db, x))
+      if (u.children.some(c => db.index[c] && !seen.has(c))) return true
+  return false
+}
+
 function elbow(x1, y1, x2, y2) {
   const my = (y1 + y2) / 2
   return `M ${x1} ${y1} L ${x1} ${my} L ${x2} ${my} L ${x2} ${y2}`
@@ -112,11 +149,12 @@ function elbow(x1, y1, x2, y2) {
 
 export function layout(db, id, mode = 'hourglass') {
   if (!id || !db.index || !db.index[id]) return null
-  const big = mode === 'big'
+  // every mode renders the same two-step window now - the modes differ
+  // only in which half they show
   const up = (mode !== 'descendants')
-    ? runTree(upTree(db, id, 0, new Set(), big ? BIG_UP : MAX_UP)) : null
+    ? runTree(upTree(db, id, 0, new Set(), WINDOW_UP)) : null
   const down = (mode !== 'pedigree')
-    ? runTree(downTree(db, id, 0, new Set(), big ? BIG_DOWN : MAX_DOWN)) : null
+    ? runTree(downTree(db, id, 0, new Set(), WINDOW_DOWN)) : null
 
   // both roots are the focus: align their centres on x=0, and let the
   // ancestor rows run upward (negative y), the descendant rows downward

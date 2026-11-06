@@ -1,20 +1,22 @@
-/* Headless check of the flextree-based layout against the real database:
-   no two cards overlap, the focus is centred, links connect card edges. */
+/* Headless check of the windowed flextree layout against the real
+   database: no card overlaps, links land on card edges, the focus is
+   centred on its card, and the window stays within its two-step radius
+   (the editor: render the big tree in parts). */
 import { readFileSync } from 'fs'
-import { layout, CARD_W, CARD_H, CELL, ROW_H } from './src/lib/tree.js'
+import { layout, hasMoreUp, hasMoreDown, WINDOW_UP, WINDOW_DOWN,
+         CARD_W, CARD_H, CELL, ROW_H } from './src/lib/tree.js'
 
 const db = {
   index: JSON.parse(readFileSync('data/index.json', 'utf8')),
   families: JSON.parse(readFileSync('data/families.json', 'utf8')),
 }
 
-const ids = ['I1751', 'I3131', 'I0005', 'I0007', 'I0003']
+const ids = ['I2867', 'I1751', 'I0005', 'I0007', 'I0003', 'I3131']
 let bad = 0
 for (const id of ids) {
   for (const mode of ['hourglass', 'pedigree', 'descendants']) {
     const c = layout(db, id, mode)
     if (!c) { console.log(id, mode, 'NO LAYOUT'); bad++; continue }
-    // overlap check: every pair of cards on the same row must not overlap
     const rows = new Map()
     for (const n of c.nodes) {
       const key = Math.round(n.y)
@@ -28,9 +30,6 @@ for (const id of ids) {
         if (row[i].x < row[i - 1].x + row[i - 1].w * CELL - 0.5) overlaps++
       }
     }
-    // every link endpoint must land on a card edge: first point = the
-    // parent side, last point = the child side (the elbow's middle
-    // waypoints sit between rows by design and are not checked)
     const tops = new Set(c.nodes.map(n => Math.round(n.y)))
     let dangling = 0
     for (const d of c.links) {
@@ -42,21 +41,25 @@ for (const id of ids) {
         if (!onTop && !onBottom) dangling++
       }
     }
-    const status = (overlaps || dangling) ? 'FAIL' : 'ok'
-    if (overlaps || dangling) bad++
-    // the focus must exist, sit on a card, and lie inside the chart box
-    // (cards store pre-base x; the focus point is post-base)
     const focus = c.nodes.filter(n => n.focus)
     const fx = c.focusX, fy = c.focusY
     const focusOK = focus.length === 1 &&
       fx >= 0 && fx <= c.width && fy >= 0 && fy <= c.height &&
       fx >= focus[0].x + c.baseX &&
       fx <= focus[0].x + focus[0].w * CELL + c.baseX
-    if (!focusOK) bad++
-    console.log(`${id} ${mode}: nodes=${c.nodes.length} links=${c.links.length} ` +
-      `splices=${c.splices.length} overlaps=${overlaps} dangling=${dangling} ` +
-      `focus=${focusOK ? 'centred' : 'BAD'} ${focusOK && status === 'ok' ? 'ok' : 'FAIL'}`)
+    // window radius: no card sits further than the window's rows from
+    // the focus row
+    const focusRowY = focus[0].y
+    const maxRowDist = Math.max(
+      Math.abs(Math.min(...c.nodes.map(n => n.y)) - focusRowY),
+      Math.abs(Math.max(...c.nodes.map(n => n.y)) - focusRowY))
+    const withinWindow = maxRowDist <= (WINDOW_UP + WINDOW_DOWN + 1) * 100 + 10
+    if (overlaps || dangling || !focusOK || !withinWindow) bad++
+    console.log(`${id} ${mode}: nodes=${c.nodes.length} rowspread=${Math.round(maxRowDist / 100)} ` +
+      `overlaps=${overlaps} dangling=${dangling} focus=${focusOK ? 'ok' : 'BAD'} ` +
+      `${overlaps || dangling || !focusOK || !withinWindow ? 'FAIL' : 'ok'}`)
   }
+  console.log(`  arrows: up=${hasMoreUp(db, id)} down=${hasMoreDown(db, id)}`)
 }
 console.log(bad ? 'FAILURES: ' + bad : 'ALL LAYOUT CHECKS PASSED')
 process.exit(bad ? 1 : 0)

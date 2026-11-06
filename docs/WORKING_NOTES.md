@@ -3375,5 +3375,13 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   in other people's rows and 43 in the right ones, all plausibly
   looking like "some people have pictures". Bind the target before any
   conditional writes, or the previous person's row inherits them.
-
-
+- **A genealogy viewer wants a window, not a canvas.** Rendering the
+  whole descendant forest of the oldest-known ancestor made a
+  117,000-px SVG that no browser pans comfortably; the editor's model
+  - show children and grandchildren, an arrow renders the next step
+  while the previous derenders - keeps the chart at ~30 cards and the
+  navigation honest (the arrows advance one generation; specific
+  branching goes through the card's detail panel, whose "centre here"
+  re-roots in place). The general shape: a view window plus frontier
+  queries (hasMoreUp/hasMoreDown decide whether the arrows show at
+  all), never a full-graph layout.

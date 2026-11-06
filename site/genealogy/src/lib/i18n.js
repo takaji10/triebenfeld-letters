@@ -44,7 +44,9 @@ const STRINGS = {
     siblings: 'Siblings',
     sort_az: 'A–Z', sort_za: 'Z–A',
     sort_count: 'by count',
-    tree_hint: 'Click a person to open their page · scroll to zoom · drag to pan',
+    tree_hint: 'Click a person to see their dates and a link to their page · scroll to zoom · drag to pan',
+    show_ancestors: 'ancestors', show_descendants: 'descendants',
+    centre_here: 'Centre the tree here',
   },
   de: {
     app: 'Zelmer-Familien-Explorer',
@@ -88,7 +90,9 @@ const STRINGS = {
     siblings: 'Geschwister',
     sort_az: 'A–Z', sort_za: 'Z–A',
     sort_count: 'nach Anzahl',
-    tree_hint: 'Klicken Sie auf eine Person, um ihre Seite zu öffnen · scrollen zum Vergrößern · ziehen zum Verschieben',
+    tree_hint: 'Klicken Sie auf eine Person, um ihre Daten und einen Link zu ihrer Seite zu sehen · scrollen zum Vergrößern · ziehen zum Verschieben',
+    show_ancestors: 'Vorfahren', show_descendants: 'Nachfahren',
+    centre_here: 'Den Baum hier zentrieren',
   },
   pl: {
     app: 'Eksplorator rodziny Zelmer',
@@ -132,7 +136,9 @@ const STRINGS = {
     siblings: 'Rodzeństwo',
     sort_az: 'A–Z', sort_za: 'Z–A',
     sort_count: 'według liczby',
-    tree_hint: 'Kliknij osobę, aby otworzyć jej stronę · kółko = powiększanie · przeciąganie = przesuwanie',
+    tree_hint: 'Kliknij osobę, aby zobaczyć jej daty i link do jej strony · kółko = powiększanie · przeciąganie = przesuwanie',
+    show_ancestors: 'przodków', show_descendants: 'potomków',
+    centre_here: 'Wyśrodkuj drzewo tutaj',
   },
 }
 

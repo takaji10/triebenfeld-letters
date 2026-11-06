@@ -13,7 +13,9 @@
   // leaves the page. On the tree route both drive the URL.
   import { db, goto } from './db.svelte.js'
   import { i18n } from './i18n.js'
-  import { layout, CARD_W, CARD_H, CELL, ROW_H } from './tree.js'
+  import { fmtDate } from './dates.js'
+  import { layout, hasMoreUp, hasMoreDown,
+           CARD_W, CARD_H, CELL, ROW_H, WINDOW_UP, WINDOW_DOWN } from './tree.js'
 
   let { id, mode = 'hourglass', embed = false } = $props()
 
@@ -102,7 +104,7 @@
     if (e.type !== 'pointerup' || !was) return
     // a click: pointer stayed under 6px from press to release
     if (Math.hypot(e.clientX - was.x, e.clientY - was.y) < 6) {
-      reroot(was.id)
+      cardClick(was.id)
     }
   }
 
@@ -137,20 +139,88 @@
     center(s)
   }
 
-  // clicking a card opens that person's page - the editor's ruling
-  // (2026-11-06): the move through the tree is a navigation, not a
-  // re-layout; the mode pills and the URL carry the re-rooting. The
-  // flash marks the clicked card for the moment before the page turns.
-  let flash = $state(false)
-  let flashTimer = null
-  function reroot(pid) {
-    flash = false
-    clearTimeout(flashTimer)
-    requestAnimationFrame(() => { flash = true })
-    flashTimer = setTimeout(() => { flash = false }, 1600)
-    setTimeout(() => goto('person/' + pid), 250)
+  // clicking a card expands it in place - the detail panel (birth
+  // date+place, death date+place, a link to the person page) opens over
+  // the card; the click that took the user away from the master view
+  // was unexpected (the editor, 2026-11-06). The panel closes on a
+  // second click, on its ×, or when another card is opened.
+  let openCard = $state(null)
+
+  function cardClick(pid) {
+    openCard = openCard === pid ? null : pid
   }
+
   function gotoPerson(pid) { goto('person/' + pid) }
+
+  // the expanded card's screen position and data - computed from the
+  // card's chart coordinates through the current transform
+  const detail = $derived.by(() => {
+    if (!openCard || !chart || !el) return null
+    const n = chart.nodes.find(x => x.id === openCard)
+    if (!n) return null
+    const v = db.index[n.id]
+    if (!v) return null
+    const rect = el.getBoundingClientRect()
+    const fmtD = (raw, y) => raw ? fmtDate(raw, i18n.lang) : (y != null ? String(y) : '')
+    return {
+      id: n.id,
+      name: v.n,
+      avatar: v.pt && db.meta?.media_base ? db.meta.media_base + v.pt : null,
+      b: fmtD(v.br, v.b), d: fmtD(v.dr, v.d),
+      bp: v.bp || '', dp: v.dp || '',
+      L: !!v.L,
+      // the card's top-left in the viewport's coordinate space: the
+      // chart base, then the card, then the pan and zoom
+      x: (chart.baseX + n.x) * scale + tx,
+      y: (chart.baseY + n.y) * scale + ty,
+      w: n.w * CELL * scale,
+      h: CARD_H * scale,
+      rectW: rect.width, rectH: rect.height,
+    }
+  })
+
+  // the navigation arrows: does more tree exist beyond the window?
+  const moreUp = $derived(db.ready && focusId ? hasMoreUp(db, focusId) : false)
+  const moreDown = $derived(db.ready && focusId ? hasMoreDown(db, focusId) : false)
+
+  // step: slide the window one generation out - the next step renders
+  // while the far row derenders (the editor's model of the master tree)
+  function step(dir) {
+    const dbi = db
+    if (dir === 'up') {
+      // a parent of the focus: the window slides one row up
+      const par = parentsOf(dbi, focusId).find(p => dbi.index[p])
+      if (par) setFocus(par)
+    } else {
+      // a child with recorded descendants
+      const child = unionsOf(dbi, focusId)
+        .flatMap(u => u.children)
+        .find(c => dbi.index[c])
+      if (child) setFocus(child)
+    }
+  }
+
+  function parentsOf(dbi, pid) {
+    const p = dbi.index[pid]
+    const f = p && p.fc && p.fc.length ? dbi.families[p.fc[0]] : null
+    if (!f) return []
+    return [f.husb, f.wife].filter(Boolean)
+  }
+  function unionsOf(dbi, pid) {
+    const p = dbi.index[pid]
+    if (!p) return []
+    return (p.fs || []).map(f => dbi.families[f]).filter(Boolean)
+      .map(f => ({ spouse: f.husb === pid ? f.wife : f.husb,
+                   children: f.chil || [] }))
+  }
+
+  // setFocus: the window's centre changes (embed: local state; route:
+  // the URL)
+  function setFocus(pid) {
+    openCard = null
+    if (embed) localId = pid
+    else goto('tree/' + pid + (effMode !== 'hourglass' ? '?mode=' + effMode : ''))
+  }
 
   // the card's name line: fitted into the card's width, two lines when
   // needed - SVG text does not wrap, so the words are laid by hand. A
@@ -236,13 +306,13 @@
               ? db.meta.media_base + v.pt : null}
             <g class="node" class:living={v?.L}
                data-pid={n.id}
-               class:flash={n.focus && flash}
+               class:open={openCard === n.id}
                transform="translate({n.x},{n.y})">
               <rect width={CARD_W} height={CARD_H} rx="4"
-                    stroke={n.focus ? 'var(--accent)'
+                    stroke={n.focus || openCard === n.id ? 'var(--accent)'
                       : v?.sx === 'F' ? '#9c5470'
                       : v?.sx === 'M' ? '#46618a' : 'var(--rule)'}
-                    stroke-width={n.focus ? 2 : 1} fill="var(--card)" />
+                    stroke-width={n.focus || openCard === n.id ? 2 : 1} fill="var(--card)" />
               {#if avatar}
                 <clipPath id="av-{n.id}">
                   <circle cx="21" cy="21" r="13" />
@@ -338,6 +408,45 @@
         </g>
       </g>
     </svg>
+    {#if openCard && detail}
+      <!-- the expanded card: an HTML panel positioned over the viewport
+           at the card's screen position, closing on its own button -->
+      <div class="detail" style:left="{detail.x}px" style:top="{detail.y}px">
+        <button class="dclose" onclick={() => { openCard = null }} aria-label="close">×</button>
+        <div class="dhead">
+          {#if detail.avatar}
+            <img class="dav" src={detail.avatar} alt="">
+          {:else}
+            <svg class="dav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
+          {/if}
+          <div>
+            <div class="dname">{detail.name}</div>
+            <div class="dpid">{detail.id}</div>
+          </div>
+        </div>
+        {#if detail.b || detail.bp}<div class="drow"><span class="dlab">born</span> {detail.b}{#if detail.bp} · {detail.bp}{/if}</div>{/if}
+        {#if detail.d || detail.dp}<div class="drow"><span class="dlab">died</span> {detail.d}{#if detail.dp} · {detail.dp}{/if}</div>{/if}
+        {#if detail.L}<div class="drow"><span class="dlab">·</span> {i18n.t('privacy_note')}</div>{/if}
+        <div class="dacts">
+          <a class="dlink" href={'#/person/' + detail.id}>{i18n.t('go_to_person')} →</a>
+          {#if detail.id !== focusId}
+            <button class="dcentre" onclick={() => { setFocus(detail.id) }}>
+              {i18n.t('centre_here')}
+            </button>
+          {/if}
+        </div>
+      </div>
+    {/if}
+  </div>
+  <div class="navarrows">
+    {#if moreUp}
+      <button class="narr" title={i18n.t('show_ancestors')}
+              onclick={() => step('up')}>↑ {i18n.t('show_ancestors')}</button>
+    {/if}
+    {#if moreDown}
+      <button class="narr" title={i18n.t('show_descendants')}
+              onclick={() => step('down')}>↓ {i18n.t('show_descendants')}</button>
+    {/if}
   </div>
   <p class="hint">{i18n.t('tree_hint')}</p>
 {/if}
@@ -350,15 +459,9 @@
   .who { font-size: .8rem; color: var(--ink); font-weight: 600; }
   .pidtxt { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
     color: var(--faint); font-weight: 400; margin-left: .2rem; }
-  .node.flash rect:first-of-type { animation: focuspulse 1.5s ease; }
-  @keyframes focuspulse {
-    0% { stroke: var(--accent); stroke-width: 4; }
-    70% { stroke-width: 3; }
-    100% { stroke-width: 2; }
-  }
-  .viewport { overflow: hidden; border: 1px solid var(--rule); border-radius: 3px;
-    background: var(--paper2); touch-action: none; cursor: grab;
-    user-select: none; max-height: 78vh; }
+  .viewport { position: relative; overflow: hidden; border: 1px solid var(--rule);
+    border-radius: 3px; background: var(--paper2); touch-action: none;
+    cursor: grab; user-select: none; max-height: 78vh; }
   .viewport.embed { max-height: 26rem; }
   .viewport:active { cursor: grabbing; }
   svg { display: block; }
@@ -369,6 +472,38 @@
     fill: var(--faint); }
   .node.living rect { stroke-dasharray: 3 2; }
   .node .hit { cursor: pointer; }
-    .che { font-size: 12px; }
+  .che { font-size: 12px; }
   .hint { font-size: .74rem; color: var(--faint); margin: .3rem 0 0; }
+  /* the expanded card: an HTML panel over the viewport at the card's
+     screen position - the "card expands slightly" the editor asked for */
+  .detail { position: absolute; z-index: 40; width: 16rem;
+    background: var(--card); border: 1px solid var(--accent);
+    border-radius: 5px; box-shadow: 0 6px 24px rgba(40, 32, 26, .18);
+    padding: .6rem .7rem; font-size: .8rem; cursor: default; }
+  .dclose { position: absolute; top: .2rem; right: .3rem; border: 0;
+    background: none; font: inherit; font-size: 1rem; color: var(--faint);
+    cursor: pointer; padding: .1rem .3rem; }
+  .dclose:hover { color: var(--ink); }
+  .dhead { display: flex; gap: .55rem; align-items: center; margin-bottom: .45rem; }
+  .dav { width: 38px; height: 38px; border-radius: 50%; object-fit: cover;
+    border: 1px solid var(--rule); flex: none; }
+  .dname { font-weight: 600; line-height: 1.2; }
+  .dpid { font-family: ui-monospace, Consolas, monospace; font-size: .7rem;
+    color: var(--faint); }
+  .drow { margin: .12rem 0; color: var(--soft); line-height: 1.35; }
+  .dlab { display: inline-block; min-width: 2.4rem; color: var(--faint);
+    font-size: .72rem; text-transform: uppercase; letter-spacing: .04em; }
+  .dlink { display: inline-block; color: var(--accent); font-weight: 600; }
+  .dlink:hover { text-decoration: underline; }
+  .dacts { display: flex; gap: .7rem; align-items: center; margin-top: .45rem; }
+  .dcentre { font: inherit; font-size: .74rem; padding: .12rem .5rem;
+    border: 1px solid var(--rule); border-radius: 3px; background: var(--paper2);
+    color: var(--soft); cursor: pointer; }
+  .dcentre:hover { border-color: var(--accent); color: var(--accent); }
+  /* the navigation arrows: render the next step, derender the previous */
+  .navarrows { display: flex; gap: .5rem; margin-top: .4rem; }
+  .narr { font: inherit; font-size: .78rem; padding: .2rem .7rem;
+    border: 1px solid var(--accent); border-radius: 3px;
+    background: var(--card); color: var(--accent); cursor: pointer; }
+  .narr:hover { background: var(--accent); color: #fff; }
 </style>
