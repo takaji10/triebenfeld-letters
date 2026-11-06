@@ -7,21 +7,48 @@ from num_read import RULES, SRC, OCR
 import digit_read
 from PIL import Image
 
-JOBS = [('0145', 88, 9), ('0145', 94, 11), ('0148', 31, 10),
-        ('0148', 33, 11), ('0149', 34, 11), ('0149', 43, 11),
-        ('0149', 46, 11), ('0150', 61, 9),
-        ('0140', 14, 9), ('0140', 29, 9),
-        ('0149', 44, 9), ('0153', 94, 10), ('0157', 146, 9),
-        ('0158', 4, 9), ('0154', 105, 9), ('0154', 110, 9),
-        ('0154', 113, 9), ('0154', 114, 9), ('0154', 118, 9),
-        ('0157', 147, 9), ('0157', 152, 9), ('0157', 154, 9),
-        ('0157', 155, 9), ('0157', 156, 9), ('0158', 2, 9),
-        ('0156', 136, 11), ('0154', 106, 10), ('0154', 107, 10)]
+JOBS = None  # filled from the draft's junk census when run with 'auto'
+
+
+def census():
+    """Enumerate the draft's junk numeric cells (non-digit, non-dash)
+    in cols 9/10/11 (0-based 8/9/10) per series."""
+    import re
+    t = open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                          '..', '..', 'literature', 'rusinski1947',
+                          'original.md'), encoding='utf-8').read()
+    marks = [m.start() for m in
+             re.finditer(r'<!-- annex sheet 0(1\d\d) -->', t)]
+    segs = []
+    for i, s in enumerate(marks):
+        e = marks[i + 1] if i + 1 < len(marks) else t.find('[p. 145]')
+        segs.append((t[s:e], '015' + '' if False else None))
+    # simpler: sheet-tagged segments
+    out = []
+    cur = None
+    for ln in t.splitlines():
+        m = re.match(r'<!-- annex sheet (0\d+) -->', ln)
+        if m:
+            cur = m.group(1)
+            continue
+        m = re.match(r'\| (\d+) \| ', ln)
+        if m and cur:
+            cells = [c.strip(' |') for c in ln.split(' | ')]
+            for k in (8, 9, 10):
+                v = cells[k].replace('*', '').strip()
+                if re.fullmatch(r'[\d.]+', v) or v in ('—', '-', ''):
+                    continue
+                out.append((cur, int(m.group(1)), k + 1))
+    return out
 
 
 def main():
     lib = digit_read.digit_lib()
-    for n, num, col in JOBS:
+    jobs = census() if len(sys.argv) > 1 and sys.argv[1] == 'auto' \
+        else [tuple(a if i == 2 else int(a) if i else a
+                    for i, a in enumerate(a.split(':')))
+              for a in sys.argv[1:]]
+    for n, num, col in jobs:
         if n not in digit_read._ims:
             with open(os.path.join(SRC, 'tom5_%s.tif' % n), 'rb') as fh:
                 im = Image.open(io.BytesIO(fh.read())).convert('L')
