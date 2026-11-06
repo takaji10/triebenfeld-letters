@@ -3363,4 +3363,17 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   scripted edit touches a file with non-ASCII text, list the file's
   non-ASCII character set afterwards; encode-cp1252/decode-utf-8
   reverses this particular corruption.
+- **Two id dialects meet at every Gramps join: @I0001@ (GEDCOM) vs
+  I0001 (data.gramps XML).** The avatar pass found zero candidates with
+  a plain membership test that "looked" right both sides. Strip at the
+  boundary (one .strip('@') at the join) and assert the join's yield
+  ("1077 avatars to crop" - a zero that should not be zero is the bug
+  speaking).
+- **A reused variable from a previous loop iteration is a silent
+  cross-talk bug.** The index avatar assignment wrote into `row`, which
+  was only assigned when a photo entry existed - 1,034 avatars landed
+  in other people's rows and 43 in the right ones, all plausibly
+  looking like "some people have pictures". Bind the target before any
+  conditional writes, or the previous person's row inherits them.
+
 

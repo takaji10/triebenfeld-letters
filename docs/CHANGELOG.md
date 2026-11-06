@@ -5157,6 +5157,61 @@ footer on every page. Changed, in both languages:
   CHECKS PASSED with the project baseurl and with none (63,294
   internal links each); the layout battery passes; the big chart
   exercised headlessly (852 nodes, zero overlaps, 6 ms).
+
+## 2026-11-06: the face avatars, the relations as cards, and the People
+## page refined
+
+- **The avatars are the editor's region-box crops** (1,077 of them):
+  the focus rectangles the editor drew on the media references mark the
+  person's head, so the media build now crops the avatar square around
+  the box's centre (the box's own extent, a 15% margin, 96 px JPEG,
+  content-hash name with the `_a` suffix) and writes avatars.json
+  beside the manifest; the site build resolves each person's avatar
+  through it - the avatar is the face, not the whole scan. Privacy
+  holds: living people and the excluded branch are never cropped. Two
+  bugs fixed on the way: the region ids come from data.gramps bare
+  (I0001) while the GEDCOM xrefs are wrapped (@I0001@), so the first
+  pass found no candidates at all; and the index's avatar assignment
+  reused a `row` variable that only existed when a photo had been
+  chosen, silently writing 43 of 1,077 avatars into other people's
+  rows.
+- **The relations are cards, without drawing cards** (the editor's
+  wording): avatar left, then two lines - name and ID on the first,
+  "born March 12, 1879 · Olesko" and "died August 7, 1875 ·
+  Angelówka" on the second (the index's bp/dp places ride beside the
+  formatted dates). The parents' marriage/divorce lines carry a bullet
+  and stand spaced between the parents and the siblings; the siblings
+  hang indented from the parents - the vertical bar is gone everywhere
+  (parents/siblings, spouses' children, the partnership rows).
+- **The tree is back on the person page** under a "Family tree"
+  heading - the editor: removing the pills had removed the chart with
+  it; the pills live on the tree route only now, the embedded chart
+  shows plain.
+- **The People page refined**: group names no longer bold (the
+  person-page type scale), the counts quiet in parentheses after the
+  name instead of a large badge, the drop-down arrow moved to the
+  right edge of the row; sort controls beside Expand all (A-Z, Z-A,
+  by count with a high/low toggle on re-click); a small column-head
+  row (Last name / First name(s) / ID / ♀♂ / Born / Died) opens with
+  each expanded group; the main column holds the site's content width
+  (58rem) with the sidebar free beyond it to the right; the
+  colspan="5"/six-column mismatch that squeezed the expanded tables
+  narrower than the surname rows is fixed (colspan 6).
+- **The lightbox shows the derivative at its natural size** - the
+  editor zooms into record scans to read them; the 96vw cap that
+  shrank a 2000-px scan to a third of its pixels is gone (the overlay
+  scrolls), and the citation images render at display size from the
+  previous round already.
+- **Navigation reshaped** (the editor's remarks): "Family tree"
+  renamed Tree and moved to second after Home; the Search page
+  removed (People's sidebar covers it - the route still answers for
+  old links but no nav item carries it); the Map link removed - the
+  Places page's map is the map now, rendered full-bleed (wider than
+  the content column, edge to edge) and taller; the tree route's
+  main column drops its 58rem cap so the big chart spans the page.
+- Data rebuilt (1,077 face avatars in the index); jekyll and
+  verify_site ALL CHECKS PASSED with the project baseurl and with
+  none; the layout battery passes.
 - **The tree's clicks were swallowed by the pan's pointer capture** (the
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what

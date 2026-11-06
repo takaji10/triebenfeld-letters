@@ -113,10 +113,13 @@
   .missing { color: var(--faint); }
   .frame { cursor: zoom-in; }
   .lightbox { position: fixed; inset: 0; z-index: 1000; background: rgba(20, 18, 16, .92);
-    display: grid; place-items: center; cursor: zoom-out; padding: 2rem; }
-  .lightbox img { max-width: 96vw; max-height: 88vh; width: auto; height: auto;
+    display: grid; place-items: center; cursor: zoom-out; padding: 2rem; overflow: auto; }
+  .lightbox img { max-width: none; max-height: none; width: auto; height: auto;
+    /* shown at its natural size (the derivative runs to 2000 px on the
+       long edge) so the record's details are readable; the overlay
+       scrolls when the image outgrows the screen */
     box-shadow: 0 8px 40px rgba(0,0,0,.6); }
-  .lightbox .cap { position: absolute; bottom: 1.2rem; left: 0; right: 0;
+  .lightbox .cap { position: fixed; bottom: 1.2rem; left: 0; right: 0;
     text-align: center; color: #d8d2c8; font-size: .8rem; padding: 0 2rem;
-    word-break: break-word; }
+    word-break: break-word; pointer-events: none; }
 </style>

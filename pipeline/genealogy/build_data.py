@@ -223,7 +223,7 @@ def family_json(model, fam, withheld=None) -> dict:
 def build_all(model, out_dir: str, regions=None, withheld=None,
               excluded_media=None, excluded_people=None, excluded_families=None,
               media_version="", media_base="", available=None,
-              media_manifest=None) -> dict:
+              media_manifest=None, avatars=None) -> dict:
     out = Path(out_dir)
     (out / "people").mkdir(parents=True, exist_ok=True)
     withheld = withheld or set()
@@ -231,6 +231,10 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
     excluded_people = excluded_people or set()
     excluded_families = excluded_families or set()
     media_manifest = media_manifest or {}
+    avatars = avatars or {}
+    # the media build keys the avatars by the raw GEDCOM xref (@I0001@);
+    # the index is keyed bare
+    avatars = {k.strip("@"): v for k, v in avatars.items()}
     skip_media = withheld | excluded_media
     # when the media repo's manifest is known, a path outside it cannot be
     # served: treat it as unavailable everywhere (the gpkg mismatches)
@@ -313,12 +317,18 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
                            or re.search(r"photo|portrait|porträt",
                                         m.path, re.I)), None)
             entry = media_manifest.get(chosen.path) if chosen else None
+            row = index[x.strip("@")]
             if entry:
-                row = index[x.strip("@")]
                 if entry.get("file"):
                     row["pd"] = entry["file"]
                 if entry.get("thumb"):
                     row["pt"] = entry["thumb"]
+            # the cropped face avatar from the media build (the region
+            # box the editor drew, cropped square and scaled to 96 px);
+            # falls back to the plain thumb when no avatar was cropped
+            av = avatars.get(x.strip("@"))
+            if av:
+                row["pt"] = av
 
     # ---- surname index with variant groups ----------------------------
     by_surname = defaultdict(list)

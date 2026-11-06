@@ -215,13 +215,18 @@ def main() -> int:
         available = None
         if manifest_path.exists():
             available = json.loads(manifest_path.read_text(encoding="utf-8"))
+        avatars = {}
+        avatars_path = (Path(cfg.get("media", {}).get("dest", "")) /
+                        "avatars.json")
+        if avatars_path.exists():
+            avatars = json.loads(avatars_path.read_text(encoding="utf-8"))
         meta = build_data.build_all(
             model, str(out_dir), regions=regions, withheld=withheld,
             excluded_media=ex.removed_media,
             excluded_people=ex.removed_people,
             excluded_families=ex.removed_families,
             media_base=media_base, available=available,
-            media_manifest=available)
+            media_manifest=available, avatars=avatars)
         # drop stale shards from previous builds
         people_dir = out_dir / "people"
         live = {f"{x.strip('@')}.json" for x in model.people

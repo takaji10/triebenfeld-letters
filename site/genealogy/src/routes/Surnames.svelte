@@ -122,6 +122,9 @@
   // ---- collapsible groups -------------------------------------------------
   let expanded = $state({})
   let anyOpen = $state(false)
+  // the group order: A-Z, Z-A, or by count (high/low toggling)
+  let sort = $state('az')
+  let countHi = $state(true)
 
   function toggle(sn) { expanded = { ...expanded, [sn]: !expanded[sn] } }
   function expandAll() {
@@ -131,6 +134,12 @@
     anyOpen = true
   }
   function collapseAll() { expanded = {}; anyOpen = false }
+
+  function setSort(s) {
+    if (sort === s && s === 'count') countHi = !countHi
+    else if (sort === s && s === 'az') sort = 'za'
+    else { sort = s; if (s === 'count') countHi = true }
+  }
 
   const fmt = (raw) => fmtDate(raw, i18n.lang)
 
@@ -143,8 +152,15 @@
     }
   }
 
-  const shownGroups = $derived(filtered().filter(([, rows]) =>
-    !applied?.ev || rows.some(([id]) => shardCache[id])))
+  const shownGroups = $derived.by(() => {
+    let rows = filtered().filter(([, rows]) =>
+      !applied?.ev || rows.some(([id]) => shardCache[id]))
+    if (sort === 'az') rows.sort((a, b) => a[0].localeCompare(b[0]))
+    else if (sort === 'za') rows.sort((a, b) => b[0].localeCompare(a[0]))
+    else rows.sort((a, b) => (countHi ? b[1].length - a[1].length
+                              : a[1].length - b[1].length))
+    return rows
+  })
 </script>
 
 <div class="layout">
@@ -154,6 +170,13 @@
       <button onclick={anyOpen ? collapseAll : expandAll}>
         {anyOpen ? '⤡ ' + i18n.t('collapse_all') : '⤢ ' + i18n.t('expand_all')}
       </button>
+      <span class="sortbtns">
+        <button class:active={sort === 'az'} onclick={() => setSort('az')}>A–Z</button>
+        <button class:active={sort === 'za'} onclick={() => setSort('za')}>Z–A</button>
+        <button class:active={sort === 'count'} onclick={() => setSort('count')}>
+          {i18n.t('sort_count')} {sort === 'count' ? (countHi ? '↓' : '↑') : ''}
+        </button>
+      </span>
       <span class="stat">{shownGroups.reduce((s, [, r]) => s + r.length, 0)} people</span>
     </div>
 
@@ -161,14 +184,22 @@
       {#each shownGroups as [sn, rows] (sn)}
         <tbody>
           <tr class="group" onclick={() => toggle(sn)}>
-            <td colspan="5">
+            <td colspan="6">
               <button class="ghead" aria-expanded={!!expanded[sn]}>
+                <span class="gname">{sn} <span class="gcount">({rows.length})</span></span>
                 <span class="arrow" class:open={!!expanded[sn]}>▸</span>
-                <b>{sn}</b> <span class="pill acc">{rows.length}</span>
               </button>
             </td>
           </tr>
           {#if expanded[sn]}
+            <tr class="ghead-row">
+              <th class="c-ln">{i18n.t('col_lastname')}</th>
+              <th class="c-fn">{i18n.t('col_firstnames')}</th>
+              <th class="c-id">ID</th>
+              <th class="c-sex">♀/♂</th>
+              <th class="c-b">{i18n.t('born')}</th>
+              <th class="c-d">{i18n.t('died')}</th>
+            </tr>
             {#each rows as [id, v] (id)}
               <tr>
                 <td class="ln">{v.sn}</td>
@@ -240,11 +271,13 @@
 </div>
 
 <style>
+  /* the main column is the site's content width; the sidebar hangs to
+     the right of it, free to exceed */
   .layout { display: flex; gap: 1.4rem; align-items: flex-start; }
-  main { flex: 1; min-width: 0; }
-  aside { width: 17rem; flex: none; position: sticky; top: 3.2rem;
-    border: 1px solid var(--rule); border-radius: 4px; background: var(--card);
-    padding: .8rem .9rem; }
+  main { flex: 1; min-width: 0; max-width: 58rem; }
+  aside { width: 17rem; flex: none; margin-left: auto; position: sticky;
+    top: 3.2rem; border: 1px solid var(--rule); border-radius: 4px;
+    background: var(--card); padding: .8rem .9rem; }
   aside h2 { font-size: .8rem; margin: 0 0 .6rem; color: var(--soft);
     text-transform: uppercase; letter-spacing: .05em; }
   aside label { display: block; font-size: .74rem; color: var(--soft);
@@ -265,18 +298,30 @@
   .fbtns .primary { background: var(--accent); color: #fff;
     border-color: var(--accent); }
   .toolbar { display: flex; gap: .7rem; align-items: center; margin: .4rem 0 .6rem; }
-  .toolbar .stat { font-size: .78rem; color: var(--faint); }
-  table.plist { width: 100%; }
+  .toolbar .stat { font-size: .78rem; color: var(--faint); margin-left: auto; }
+  .sortbtns { display: flex; gap: .25rem; }
+  .sortbtns button { font: inherit; font-size: .74rem; padding: .15rem .5rem;
+    border: 1px solid var(--rule); border-radius: 3px; background: var(--card);
+    color: var(--soft); cursor: pointer; }
+  .sortbtns button.active { background: var(--accent); border-color: var(--accent);
+    color: #fff; }
+  table.plist { width: 100%; border-collapse: collapse; }
   tr.group td { padding: 0; border-bottom: 1px solid var(--rule);
     background: var(--card); }
-  .ghead { display: flex; gap: .5rem; align-items: center; width: 100%;
-    background: none; border: 0; font: inherit; padding: .4rem .5rem;
-    cursor: pointer; text-align: left; color: var(--ink); }
+  .ghead { display: flex; justify-content: space-between; align-items: center;
+    width: 100%; background: none; border: 0; font: inherit;
+    padding: .4rem .5rem; cursor: pointer; text-align: left;
+    color: var(--ink); }
   .ghead:hover { background: #f6f1e8; }
+  .gname { font-weight: 400; }
+  .gcount { color: var(--faint); font-size: .8rem; }
   .arrow { display: inline-block; transition: transform .15s ease;
     color: var(--faint); }
   .arrow.open { transform: rotate(90deg); }
-  td.ln { color: var(--soft); }
+  tr.ghead-row th { font-size: .68rem; color: var(--faint); font-weight: 400;
+    text-align: left; padding: .3rem .5rem; border-bottom: 1px solid var(--rule);
+    text-transform: uppercase; letter-spacing: .04em; }
+  td.ln { color: var(--ink); }
   td.pid { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
     color: var(--faint); white-space: nowrap; }
   td.sex { color: var(--faint); width: 2rem; }

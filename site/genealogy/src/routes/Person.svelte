@@ -4,6 +4,7 @@
   import { fmtDate } from '../lib/dates.js'
   import { person, mediaURL } from '../lib/data.js'
   import MediaViewer from '../lib/MediaViewer.svelte'
+  import Tree from '../lib/Tree.svelte'
 
   let { id } = $props()
 
@@ -92,15 +93,20 @@
     return v?.pt && db.meta?.media_base ? db.meta.media_base + v.pt : null
   }
 
-  // a relation row's life line: dates and places - "March 12, 1879 ·
-  // Zabuże" (the index carries the birth/death places beside the dates)
-  function lifePlace(x) {
+  // a relation "card": name and ID on the first line, birth date +
+  // place and death date + place on the second - the layout the editor
+  // asked for (avatar outside, the two lines beside it)
+  function relCard(x) {
     const v = db.index?.[x]
-    if (!v) return ''
-    const parts = [life(v)]
-    if (v.bp) parts.push(v.bp)
-    if (v.dp) parts.push('† ' + v.dp)
-    return parts.filter(Boolean).join(' · ')
+    if (!v) return { name: personName(x), id: x, b: '', d: '' }
+    if (v.L) return { name: v.n, id: x, b: '', d: '' }
+    const b = v.br ? fmt(v.br) : (v.b != null ? String(v.b) : '')
+    const d = v.dr ? fmt(v.dr) : (v.d != null ? String(v.d) : '')
+    return {
+      name: v.n, id: x,
+      b: [b, v.bp].filter(Boolean).join(' · '),
+      d: [d, v.dp].filter(Boolean).join(' · '),
+    }
   }
 
   function label(ev) {
@@ -158,13 +164,18 @@
       </div>
     </header>
 
-    {#if parents.length}
+    <section>
+      <h2>{i18n.t('family_tree')}</h2>
+      <Tree {id} embed />
+    </section>
+
+    {#if parents.length || siblings.length}
       <section>
         <h2>{i18n.t('parents_siblings')}</h2>
         {#if parents.length}
           <ul class="people parents">
             {#each parents as pid}
-              {@const v = db.index?.[pid]}
+              {@const c = relCard(pid)}
               <li>
                 {#if avatar(pid)}
                   <img class="mav" src={avatar(pid)} alt="">
@@ -172,9 +183,12 @@
                   <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
                 {/if}
                 <span class="who">
-                  <a href={'#/person/' + pid}>{personName(pid)}</a>
-                  <span class="pid">{pid}</span>
-                  {#if v}<span class="yrs">{lifePlace(pid)}</span>{/if}
+                  <span class="l1"><a href={'#/person/' + pid}>{c.name}</a>
+                    <span class="pid">{c.id}</span></span>
+                  <span class="l2">
+                    {#if c.b}<span>born {c.b}</span>{/if}
+                    {#if c.d}<span>died {c.d}</span>{/if}
+                  </span>
                 </span>
               </li>
             {/each}
@@ -182,18 +196,24 @@
           {#if shard.famc?.length && fam(shard.famc[0])}
             {@const pf = fam(shard.famc[0])}
             {#if pf.marr?.date || pf.div?.date || pf.anul?.date}
-              <p class="pcouple">
-                {#if pf.marr?.date}{i18n.t('married')} {fmt(pf.marr.date.raw)}{#if pf.marr.place} — {pf.marr.place}{/if}{/if}
-                {#if pf.div?.date} · {i18n.t('divorced')} {fmt(pf.div.date.raw)}{/if}
-                {#if pf.anul?.date} · {i18n.t('annulled')} {fmt(pf.anul.date.raw)}{/if}
-              </p>
+              <ul class="pcouple">
+                {#if pf.marr?.date}
+                  <li>• {i18n.t('married')} {fmt(pf.marr.date.raw)}{#if pf.marr.place} — {pf.marr.place}{/if}</li>
+                {/if}
+                {#if pf.div?.date}
+                  <li>• {i18n.t('divorced')} {fmt(pf.div.date.raw)}</li>
+                {/if}
+                {#if pf.anul?.date}
+                  <li>• {i18n.t('annulled')} {fmt(pf.anul.date.raw)}</li>
+                {/if}
+              </ul>
             {/if}
           {/if}
         {/if}
         {#if siblings.length}
           <ul class="people kids">
             {#each siblings as sid}
-              {@const v = db.index?.[sid]}
+              {@const c = relCard(sid)}
               <li>
                 {#if avatar(sid)}
                   <img class="mav" src={avatar(sid)} alt="">
@@ -201,35 +221,17 @@
                   <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
                 {/if}
                 <span class="who">
-                  <a href={'#/person/' + sid}>{personName(sid)}</a>
-                  <span class="pid">{sid}</span>
-                  {#if v}<span class="yrs">{lifePlace(sid)}</span>{/if}
+                  <span class="l1"><a href={'#/person/' + sid}>{c.name}</a>
+                    <span class="pid">{c.id}</span></span>
+                  <span class="l2">
+                    {#if c.b}<span>born {c.b}</span>{/if}
+                    {#if c.d}<span>died {c.d}</span>{/if}
+                  </span>
                 </span>
               </li>
             {/each}
           </ul>
         {/if}
-      </section>
-    {:else if siblings.length}
-      <section>
-        <h2>{i18n.t('siblings')}</h2>
-        <ul class="people">
-          {#each siblings as sid}
-            {@const v = db.index?.[sid]}
-            <li>
-              {#if avatar(sid)}
-                <img class="mav" src={avatar(sid)} alt="">
-              {:else}
-                <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
-              {/if}
-              <span class="who">
-                <a href={'#/person/' + sid}>{personName(sid)}</a>
-                <span class="pid">{sid}</span>
-                {#if v}<span class="yrs">{lifePlace(sid)}</span>{/if}
-              </span>
-            </li>
-          {/each}
-        </ul>
       </section>
     {/if}
 
@@ -238,28 +240,32 @@
         <h2>{i18n.t('spouses_children')}</h2>
         {#each partners as p, i}
           <div class="union">
-            <div class="spouserow">
-              {#if p.spouse}
+            {#if p.spouse}
+              {@const c = relCard(p.spouse)}
+              <div class="spouserow">
                 {#if avatar(p.spouse)}
                   <img class="mav" src={avatar(p.spouse)} alt="">
                 {:else}
                   <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
                 {/if}
                 <span class="who">
-                  <a href={'#/person/' + p.spouse}>{personName(p.spouse)}</a>
-                  <span class="pid">{p.spouse}</span>
-                  {#if db.index?.[p.spouse]}<span class="yrs">{lifePlace(p.spouse)}</span>{/if}
+                  <span class="l1"><a href={'#/person/' + p.spouse}>{c.name}</a>
+                    <span class="pid">{p.spouse}</span></span>
+                  <span class="l2">
+                    {#if c.b}<span>born {c.b}</span>{/if}
+                    {#if c.d}<span>died {c.d}</span>{/if}
+                  </span>
                   {#if p.marr?.date}
-                    <span class="marr">· {i18n.t('married')} {fmt(p.marr.date.raw)}
+                    <span class="marr">• {i18n.t('married')} {fmt(p.marr.date.raw)}
                       {#if p.marr.place} — {p.marr.place}{/if}</span>
                   {/if}
                 </span>
-              {:else}—{/if}
-            </div>
+              </div>
+            {:else}—{/if}
             {#if p.children.length}
               <ul class="people kids">
                 {#each p.children as cid}
-                  {@const v = db.index?.[cid]}
+                  {@const c = relCard(cid)}
                   <li>
                     {#if avatar(cid)}
                       <img class="mav" src={avatar(cid)} alt="">
@@ -267,9 +273,12 @@
                       <svg class="mav" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" /><g fill="#b3a897"><circle cx="24" cy="18.5" r="9" /><path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" /></g></svg>
                     {/if}
                     <span class="who">
-                      <a href={'#/person/' + cid}>{personName(cid)}</a>
-                      <span class="pid">{cid}</span>
-                      {#if v}<span class="yrs">{lifePlace(cid)}</span>{/if}
+                      <span class="l1"><a href={'#/person/' + cid}>{c.name}</a>
+                        <span class="pid">{cid}</span></span>
+                      <span class="l2">
+                        {#if c.b}<span>born {c.b}</span>{/if}
+                        {#if c.d}<span>died {c.d}</span>{/if}
+                      </span>
                     </span>
                   </li>
                 {/each}
@@ -379,26 +388,35 @@
   .sxline { color: var(--soft); font-size: 1rem; }
   .pills { display: flex; flex-wrap: wrap; gap: .35rem; align-items: center; }
   section { margin-top: 1.6rem; }
-  .mav { width: 28px; height: 28px; border-radius: 50%; object-fit: cover;
+  .mav { width: 34px; height: 34px; border-radius: 50%; object-fit: cover;
     border: 1px solid var(--rule); flex: none; }
-  .who { display: inline-flex; flex-wrap: wrap; gap: .3rem; align-items: baseline; }
-  ul.parents { margin-bottom: .2rem; }
-  ul.kids { margin: .2rem 0 .2rem 1.1rem; padding-left: .7rem;
-    border-left: 2px solid var(--rule); }
-  .pcouple { color: var(--faint); font-size: .8rem; margin: .1rem 0 .3rem 1.1rem; }
+  .who { display: inline-flex; flex-direction: column; gap: .1rem;
+    min-width: 0; }
+  .who .l1 { display: flex; gap: .4rem; align-items: baseline; }
+  .who .l2 { display: flex; flex-wrap: wrap; gap: .3rem 1rem;
+    font-size: .78rem; color: var(--faint); }
+  ul.parents { margin-bottom: 0; }
+  /* the sub-groups hang indented from the parents - no vertical bar */
+  ul.kids { margin: .3rem 0 .2rem 2.4rem; padding: 0; }
+  ul.kids li { padding: .25rem 0; }
+  /* the parents' marriage/divorce lines: bullet, spaced from the
+     parents above and the siblings below */
+  ul.pcouple { list-style: none; margin: .55rem 0 .55rem 2.4rem;
+    padding: 0; color: var(--soft); font-size: .82rem; }
+  ul.pcouple li { margin: .15rem 0; }
   .spouserow { display: flex; gap: .6rem; align-items: center;
     padding: .15rem 0; }
   .spouserow .who { display: inline-flex; }
+  .spouserow .marr { flex-basis: 100%; margin-left: 2.9rem; }
   h2 { font-size: .95rem; margin: 0 0 .5rem; color: var(--soft);
     text-transform: uppercase; letter-spacing: .05em; font-family: var(--sans);
     font-weight: 600; font-size: .74rem; }
   ul.people { list-style: none; margin: 0; padding: 0; }
-  ul.people li { padding: .2rem 0; display: flex; gap: .6rem; align-items: center; }
+  ul.people li { padding: .3rem 0; display: flex; gap: .6rem; align-items: center; }
   .pid { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
-    color: var(--faint); margin-left: .35rem; white-space: nowrap; }
-  .yrs { color: var(--faint); font-size: .8rem; margin-left: .45rem;
-    white-space: nowrap; }
-  .union { border-left: 3px solid var(--rule); padding-left: .8rem; margin: 0 0 .8rem; }
+    color: var(--faint); white-space: nowrap; }
+  .yrs { color: var(--faint); font-size: .8rem; }
+  .union { margin: 0 0 1rem; }
   .spouse { margin: .1rem 0 .3rem; }
   .marr { color: var(--faint); font-size: .84rem; }
   /* citation media renders at display size: the 400px thumb the viewer

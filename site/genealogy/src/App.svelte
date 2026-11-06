@@ -3,7 +3,6 @@
   import { i18n } from './lib/i18n.js'
   import Home from './routes/Home.svelte'
   import Person from './routes/Person.svelte'
-  import Search from './routes/Search.svelte'
   import Surnames from './routes/Surnames.svelte'
   import Places from './routes/Places.svelte'
   import Place from './routes/Place.svelte'
@@ -38,9 +37,8 @@
   $effect(() => { document.title = i18n.t('app') + ' · Trąbczyn Archive' })
 
   const tabs = [
-    ['home', 'nav_home'], ['search', 'nav_search'],
-    ['surnames', 'nav_surnames'], ['places', 'nav_places'],
-    ['map', 'nav_map'],
+    ['home', 'nav_home'], ['tree', 'nav_tree'], ['surnames', 'nav_surnames'],
+    ['places', 'nav_places'],
   ]
 
   // the start person: the oldest-known Zelmer, where the big family
@@ -51,7 +49,7 @@
     const p = route.parts[0] || 'home'
     if (p === 'person' || p === 'surname') return 'surnames'
     if (p === 'place') return 'places'
-    if (p === 'map') return 'map'
+    if (p === 'map') return 'places'
     if (p === 'tree') return 'tree'
     return p
   }
@@ -64,8 +62,6 @@
     {#each tabs as [key, label]}
       <a href={'#/' + key} class:active={activeTab() === key}>{i18n.t(label)}</a>
     {/each}
-    <a href={'#/tree/' + START_PERSON + '?mode=big'}
-       class:active={activeTab() === 'tree'}>{i18n.t('nav_tree')}</a>
   </nav>
   <select class="lang" value={i18n.lang}
           onchange={(e) => { i18n.lang = e.target.value }}>
@@ -74,7 +70,7 @@
 </header>
 {/key}
 
-<main>
+<main class:wide={route.parts[0] === 'tree'}>
   {#key tick}
   {#if !db.ready}
     <div class="boot">
@@ -91,8 +87,6 @@
     <div class="boot error">{db.error}</div>
   {:else if route.parts[0] === 'person'}
     <Person id={route.parts[1]} />
-  {:else if route.parts[0] === 'search'}
-    <Search q={route.q.get('q') || ''} />
   {:else if route.parts[0] === 'surnames'}
     <Surnames />
   {:else if route.parts[0] === 'surname'}
@@ -102,7 +96,8 @@
   {:else if route.parts[0] === 'map'}
     <Map />
   {:else if route.parts[0] === 'tree'}
-    <Tree id={route.parts[1]} mode={route.q.get('mode') || 'hourglass'} />
+    <Tree id={route.parts[1] || START_PERSON}
+          mode={route.parts[1] ? (route.q.get('mode') || 'hourglass') : 'big'} />
   {:else if route.parts[0] === 'place'}
     <Place name={decodeURIComponent(route.parts[1] || '')} />
   {:else}
@@ -126,6 +121,7 @@
   .lang { font: inherit; font-size: .74rem; padding: .2rem .3rem;
     border: 1px solid var(--rule); border-radius: 3px; background: var(--card); }
   main { max-width: 58rem; margin: 0 auto; padding: 1.2rem 1rem 4rem; }
+  main.wide { max-width: none; padding: 1.2rem 1.5rem 4rem; }
   .boot { display: grid; place-items: center; min-height: 50vh;
     color: var(--faint); font-family: var(--serif); }
   .boot .bar { width: 13rem; height: 3px; margin-top: .8rem;

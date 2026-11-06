@@ -39,7 +39,7 @@
 <h1>{i18n.t('nav_places')}</h1>
 
 {#if db.places}
-  <MapView points={mapPoints} height="22rem" zoom={6} />
+  <MapView points={mapPoints} height="34rem" zoom={6} wide />
 {/if}
 
 <p>

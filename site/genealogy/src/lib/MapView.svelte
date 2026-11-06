@@ -7,7 +7,7 @@
   import * as L from 'leaflet'
   import 'leaflet/dist/leaflet.css'
 
-  let { points = [], height = '60vh', focus = null, zoom = 5 } = $props()
+  let { points = [], height = '60vh', focus = null, zoom = 5, wide = false } = $props()
 
   let el
   let map
@@ -70,7 +70,7 @@
   })
 </script>
 
-<div class="wrap" style:height>
+<div class="wrap" class:wide style:height>
   <div bind:this={el} class="map"></div>
   <div class="layers">
     <button class:active={layer === 'osm'} onclick={() => { layer = 'osm' }}>Map</button>
@@ -80,6 +80,8 @@
 
 <style>
   .wrap { position: relative; }
+  /* wide: break out of the content column to the page's full width */
+  .wrap.wide { width: 100vw; margin-left: calc(50% - 50vw); }
   .map { height: 100%; border: 1px solid var(--rule);
     border-radius: 3px; background: #dfe8ef; }
   .layers { position: absolute; top: .5rem; right: .5rem; z-index: 500;
