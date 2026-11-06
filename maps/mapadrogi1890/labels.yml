@@ -7,8 +7,7 @@
 # conventions of the Pełzucki 1896 plan); `form_standard:` is the
 # editor's own Polish reading of the same name, kept verbatim;
 # `form_map_conf:` is the reading's confidence (low = flagged for the
-# editor's eye). scratch/maps_bulk/ocr_mapadrogi.py.
-map: mapadrogi1890
+# editor's eye). scratch/maps_bulk/ocr_mapadrogi.py.map: mapadrogi1890
 width: 11009
 height: 14250
 saved: '2026-11-06T18:29:56.942Z'
@@ -579,7 +578,7 @@ labels:
   role: place
   place: trabczyn
   new_place: null
-  form: Тромчинъ
+  form: Тромбчинъ
   point:
   - 4825
   - 9739
@@ -751,7 +750,7 @@ labels:
   role: place
   place: skokum
   new_place: null
-  form: Скукумъ
+  form: Скокумъ
   point:
   - 4768
   - 9259
@@ -769,7 +768,7 @@ labels:
   to: null
   n: null
   skipped: null
-  form_map_conf: low
+  form_map_conf: high
   form_standard: Skokum
 - id: mapadrogi1890-066
   role: place

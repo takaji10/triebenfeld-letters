@@ -1,0 +1,85 @@
+# The editor's marks on the map pelzucki1901, from the labelling page, imported from
+# labels_pelzucki1901_20261106-1951.json on 2026-11-06 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.# The form readings added 2026-11-06: `form:` is the Russian as written
+# on the map (Claude's read of the label crops, the б of Тромбчинъ agreeing
+# with the editor's correction of mapadrogi1890's Trąbczyn the same evening);
+# `form_standard:` is the editor's own Polish reading, kept verbatim;
+# `form_map_conf:` the reading's confidence. scratch/maps_bulk/ocr_pelzucki1901.py.
+map: pelzucki1901
+width: 9442
+height: 6629
+saved: '2026-11-06T18:51:45.988Z'
+labels:
+- id: pelzucki1901-003
+  role: place
+  place: trabczyn
+  new_place: null
+  form: Тромбчинъ
+  point:
+  - 5933
+  - 4177
+  trace:
+  - - 5774
+    - 4331
+  - - 6163
+    - 4324
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Trąbczyn
+- id: pelzucki1901-006
+  role: place
+  place: trabczyn-g
+  new_place: null
+  form: Тромбчинъ Г
+  point:
+  - 9012
+  - 3083
+  trace:
+  - - 8824
+    - 3076
+  - - 9052
+    - 2730
+  height: 120
+  shows: folwark
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Trąbczyn G
+- id: pelzucki1901-008
+  role: place
+  place: trabczyn-f
+  new_place: null
+  form: Тромбчинъ Ф
+  point:
+  - 6257
+  - 5094
+  trace:
+  - - 6183
+    - 4951
+  - - 6490
+    - 5058
+  height: 80
+  shows: folwark
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+  form_map_conf: high
+  form_standard: Trąbczyn F

@@ -12,9 +12,7 @@ location:
   precision: identified
   lat: 52.143178
   lon: 17.958447
-text_en: Locale which existed northeast of Trąbczyn. Likely created after the parcelling
-  of Trąbczyn estate property in the late 19th century. Only one map noted this feature
-  (Pełzucki 1901).
+text_en: Locale which existed northeast of Trąbczyn. Likely created after the parcelling of Trąbczyn estate property in the late 19th century. Only one map noted this feature (Pełzucki 1901).
 names:
 - form: Trąbczyn G
   year: null
@@ -23,7 +21,8 @@ names:
 aliases: []
 maps:
 - map: pelzucki1901
-  form: null
+  form: Тромбчинъ Г
   note: Only one map noted this feature
+  label: pelzucki1901-006
 footnotes: []
 review: []

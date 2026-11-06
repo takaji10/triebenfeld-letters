@@ -4846,3 +4846,20 @@ footer on every page. Changed, in both languages:
   takaji10.github.io/triebenfeld-maps/warp.html?map=mapadrogi1890. The
   mark-only fit path (georef.yml created empty, the marks as mk-* rows) is
   now written into docs/ADDING_A_MAP.md step 7.
+- The evening's rulings and markings (2026-11-06): the editor's two OCR
+  corrections (Скукумъ → Скокумъ, Тромчинъ → Тромбчинъ — the б noting the
+  two maps' shared transliteration); pelzucki1901 imported (3 labels, the
+  Russian forms read — Тромбчинъ, Тромбчинъ Г, Тромбчинъ Ф), fitted at RMS
+  42.7 m (one residual flagged: the Trąbczyn mark at 130 m), in_project:
+  true; and zagorow1841 re-backed on 001.jpg at the editor's word (the map
+  as drawn) — the rotated derivative proved a different version from
+  001.jpg (five probes: whole-image template match, patch NCC at the SIFT
+  consensus's positions, a rotated-canvas template match, a per-GCP patch
+  search over the whole original at all angles and scales, and the SIFT
+  lattice's own GCP test landing in white margin), so the MapWarper 75688
+  points are off the record, the tiles were re-cut, the stale annotation
+  removed, and the map georeferences from the editor's marks alone once
+  they mark it. WORKING_NOTES carries the lattice-consensus lesson (SIFT's
+  inlier count proves nothing about photometric correspondence; verify with
+  patch NCC; suspect the VERSION when rotation is right and phase is
+  wrong).

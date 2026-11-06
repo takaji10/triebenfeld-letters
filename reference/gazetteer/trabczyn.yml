@@ -36,8 +36,9 @@ aliases:
 - Drommin
 maps:
 - map: pelzucki1901
-  form: null
+  form: Тромбчинъ
   note: In the early 20th century, Trąbczyn was surrounded by a folwark with the same name as the town
+  label: pelzucki1901-003
 - map: hohensalza1942
   form: Drommin
   note: Renamed to during Nazi Germany occupation
@@ -58,7 +59,7 @@ maps:
   note: null
   label: kozlowski1861-045
 - map: mapadrogi1890
-  form: Тромчинъ
+  form: Тромбчинъ
   note: null
   label: mapadrogi1890-050
 footnotes:

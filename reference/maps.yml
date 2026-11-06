@@ -320,25 +320,35 @@ maps:
     cited_as: "Zagórów 1841"
     year: 1841
     kind: estate
-    # Brought in with the bulk batch of 2026-11-06; docs/ADDING_A_MAP.md. The
-    # map of record is the editor's copy turned north-up, the image
-    # georeferenced on MapWarper (75688, same 9364 x 8637) - the Łukom
-    # pattern; the lettering's turn is ruled at the marking. The folder's
-    # 39_98_0_0_9856_002.jpg is left out (the editor's word, 2026-11-06).
+    # Brought in with the bulk batch of 2026-11-06; docs/ADDING_A_MAP.md.
+    # The map of record is 39_98_0_0_9856_001.jpg, the map AS DRAWN (the
+    # editor's word, 2026-11-06: "001.jpg is the correct map to use, not
+    # 001_rotated.jpg ... so that we can work with the straight map and not
+    # the one at a weird angle"). The map's own tilt (north not upright) is
+    # carried by the georeference once the marks come; no view_rotation.
+    # The folder's 39_98_0_0_9856_002.jpg is left out (the editor's word).
+    # NO MAPWARPDER POINTS: the editor's georeference (75688, 11 points)
+    # was made on the rotated derivative, and that file proved to be a
+    # DIFFERENT VERSION from 001.jpg — five independent probes (whole-image
+    # template match, patch NCC at the SIFT consensus's positions, a
+    # rotated-canvas template match, a per-GCP patch search over all of
+    # 001.jpg at all angles and scales, the SIFT lattice's own GCP test)
+    # found no content transfer (scratch/maps_bulk/zagorow_*.py,
+    # 2026-11-06). The map is georeferenced from the editor's marks alone
+    # (MAPS_PLAN, section 5), as mapadrogi1890 was.
     title: "Mappa nowo uregulowanych granic między miastem Zagórów a wsiami Wrąbaczynem, Augustianowem, Drzewcami i Oleśnicą położonych w obwodzie Konińskim"
     title_en: "Map of the newly settled boundaries between the town of Zagórów and the villages Wrąbaczyn, Augustianów, Drzewce and Oleśnica in the Konin obwód"
     holder: "Archiwum Państwowe w Łodzi (APŁ)"
     reference: "39/98/0/-/9856"
     url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/29628413"
-    orientation: north-up
+    orientation: as-drawn  # the map's own tilt; the editor rules the reading turn at the marking
     view_rotation: 0
-    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Mappa nowo uregulowanych granic między miastem Zagórów (39.98.0.-.9856)/39_98_0_0_9856_001_rotated.jpg'
-    width: 9364
-    height: 8637
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/Congress Poland (1815-1915)/Mappa nowo uregulowanych granic między miastem Zagórów (39.98.0.-.9856)/39_98_0_0_9856_001.jpg'
+    width: 8916
+    height: 5470
     crop: null
-    mapwarper: 75688
     tiles: "https://takaji10.github.io/triebenfeld-maps/zagorow1841/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: false   # tiles re-cut on 001.jpg; the editor's marks pending (2026-11-06)
   richter1843:
     cited_as: "Richter 1843"
     year: 1843
@@ -456,7 +466,7 @@ maps:
     crop: null
     mapwarper: 75703
     tiles: "https://takaji10.github.io/triebenfeld-maps/pelzucki1901/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true    # the editor's 3 marks imported 2026-11-06, the OCR's Russian forms filled, RMS 42.7 m; maps/pelzucki1901/notes.md
   wreschen1901:
     cited_as: "Wreschen 1901"
     year: 1901

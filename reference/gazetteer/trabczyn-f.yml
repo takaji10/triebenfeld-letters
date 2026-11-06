@@ -12,9 +12,7 @@ location:
   precision: identified
   lat: 52.143178
   lon: 17.958447
-text_en: Locale which bordered the southern part of Trąbczyn. Likely created after
-  the parcelling of Trąbczyn estate property in the late 19th century. Only one map
-  noted this feature (Pełzucki 1901).
+text_en: Locale which bordered the southern part of Trąbczyn. Likely created after the parcelling of Trąbczyn estate property in the late 19th century. Only one map noted this feature (Pełzucki 1901).
 names:
 - form: Trąbczyn F
   year: null
@@ -23,8 +21,9 @@ names:
 aliases: []
 maps:
 - map: pelzucki1901
-  form: null
+  form: Тромбчинъ Ф
   note: Only one map noted this feature
+  label: pelzucki1901-008
 footnotes: []
 review:
 - 'location: "bordered the southern part of" read as near'

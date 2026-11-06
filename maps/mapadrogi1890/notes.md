@@ -28,12 +28,14 @@ witnessed on the Pełzucki 1896 plan's own title (Тромчинъ for Trąbczyn
 - `form:` — the Russian **as written on the map** (what every other map's
   form field holds; the gazetteer's map appearances carry it too);
 - `form_standard:` — the editor's Polish reading, kept verbatim;
-- `form_map_conf:` — high / medium / low. One reading is flagged **low**:
-  `mapadrogi1890-064` read as Скукумъ (the editor's Skokum) — the editor's
-  eye settles it.
+- `form_map_conf:` — high / medium / low. The one low reading was settled
+  by the editor (2026-11-06): Скукумъ read again as **Скокумъ** (Skokum);
+  and Тромчинъ corrected to **Тромбчинъ** (Trąbczyn) at the editor's word.
 
-Two readings worth noting: Trąbczyn is Тромчинъ on this map (the same form
-the 1896 plan's title carries), and the German-named colonies keep their
+Two readings worth noting: Trąbczyn is Тромбчинъ on this map (the editor's
+correction of Claude's Тромчинъ, 2026-11-06 — the б of the Polish b
+transliterated where the 1896 plan's title has Тромчинъ; the two maps
+transliterate differently), and the German-named colonies keep their
 German names in Russian transliteration (Эмилиенгейм, Колонія Адольфсбергъ,
 Колонія Людвигслюстъ, Колонія Софиенталь, Колонія Фридрихсфельдъ,
 Колонія Ингельфингенъ).

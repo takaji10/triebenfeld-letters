@@ -1072,6 +1072,31 @@ questions the batch leaves:
   view_rotation change, and the tiles are re-cut if the map of record
   changes).
 
+### The editor's rulings and markings of the evening (2026-11-06)
+
+- **SETTLED**: the two OCR readings the editor corrected — mapadrogi1890's
+  Скукумъ read again as **Скокумъ** (Skokum) and Тромчинъ as **Тромбчинъ**
+  (Trąbczyn; the б of the Polish b transliterated; labels.yml, the
+  gazetteer and the map's notes corrected).
+- **pelzucki1901 marked** (labels_pelzucki1901_20261106-1951.json): three
+  labels — the colony's name and its sections G and F — with the Polish
+  standard in the form field, the same treatment as mapadrogi1890; the
+  crops read (Тромбчинъ, Тромбчинъ Г, Тромбчинъ Ф, all high confidence —
+  the б agreeing with the editor's correction). The fit: the editor's 10
+  MapWarper points plus the 3 marks, **RMS 42.7 m**; one residual flagged:
+  mk-pelzucki1901-003 (the Trąbczyn mark, 130 m — the survey covers the
+  colony's lands, and the village's mark may sit where the colony's label
+  was drawn). `in_project: true`.
+- **SETTLED: zagorow1841's map of record is 39_98_0_0_9856_001.jpg, the
+  map as drawn** (the editor's word — work with the straight map, not the
+  one at a weird angle). The rotated derivative proved a DIFFERENT VERSION
+  from 001.jpg (five probes, no content transfer — the method in
+  WORKING_NOTES): the MapWarper 75688 points cannot be transferred and are
+  off the record; the tiles were re-cut on 001.jpg (8916 × 5470) and the
+  stale annotation removed from triebenfeld-maps. **The map georeferences
+  from the editor's marks alone** — it waits for the editor's marking (the
+  labelling page serves the new original).
+
 ### Mapa dróg 1890 — marked and OCR'd (2026-11-06)
 
 - **Two new places** the editor marked (`new_place`, no gazetteer entry

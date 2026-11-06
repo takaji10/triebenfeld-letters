@@ -1,114 +1,14 @@
 # Control points of one map: a pixel of the original image tied to a point on
-# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
-# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
-# those of the file uploaded there, which is the map's `original` in
-# reference/maps.yml (for pelzucki1896 the sheet named by `mapwarper_image`,
-# moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
-# are replaced on every fetch; any other rows are kept. `fit:` is written by
-# pipeline/maps/georef.py.
+# the ground (docs/MAPS_PLAN.md, section 5). zagorow1841 has no MapWarper
+# georeference on this map of record: the editor's 75688 points are in the
+# rotated derivative's pixels, and that file proved to be a different version
+# from 001.jpg (five probes, scratch/maps_bulk/zagorow_*.py, 2026-11-06) — the
+# points cannot be transferred. The map is placed from the editor's marks
+# alone (MAPS_PLAN, section 5), which georef.py appends here as mk-* rows.
+# Rows with `from: mapwarper` would be replaced on every fetch (none here);
+# any other rows are kept. `fit:` is written by pipeline/maps/georef.py.
 map: zagorow1841
-mapwarper: 75688
 fetched: '2026-11-06'
-mapwarper_title: Plan of Zagórów Estate
-source_uri: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/29628413
-bbox: 17.7804445,52.1033747,18.0011883,52.2278244
-mapwarper_image: null
-mapwarper_fit: null
-width: 9364
-height: 8637
-gcps:
-- id: mw691994
-  x: 4697.98
-  y: 5428.08
-  lon: 17.8949367994
-  lat: 52.1531483486
-  error_mapwarper: 8.9
-  from: mapwarper
-- id: mw691996
-  x: 3639.34
-  y: 5470.02
-  lon: 17.8752815717
-  lat: 52.1499490369
-  error_mapwarper: 19.0
-  from: mapwarper
-- id: mw691997
-  x: 5536.9
-  y: 4844.83
-  lon: 17.9077684873
-  lat: 52.1620736075
-  error_mapwarper: 12.7
-  from: mapwarper
-- id: mw691998
-  x: 3064.07
-  y: 5979.37
-  lon: 17.8671705717
-  lat: 52.1424040708
-  error_mapwarper: 6.7
-  from: mapwarper
-- id: mw691999
-  x: 3932.96
-  y: 5194.38
-  lon: 17.8795516485
-  lat: 52.1538197799
-  error_mapwarper: 9.4
-  from: mapwarper
-- id: mw692243
-  x: 3989.89
-  y: 4137.23
-  lon: 17.8747075791
-  lat: 52.1659038113
-  error_mapwarper: 30.1
-  from: mapwarper
-- id: mw692244
-  x: 1813.68
-  y: 2892.83
-  lon: 17.8281229729
-  lat: 52.1739053725
-  error_mapwarper: 6.9
-  from: mapwarper
-- id: mw692245
-  x: 6445.24
-  y: 3487.07
-  lon: 17.9185134167
-  lat: 52.1802345355
-  error_mapwarper: 25.6
-  from: mapwarper
-- id: mw692246
-  x: 1065.63
-  y: 4411.38
-  lon: 17.8221255536
-  lat: 52.1544714535
-  error_mapwarper: 12.7
-  from: mapwarper
-- id: mw692247
-  x: 2411.91
-  y: 5370.65
-  lon: 17.8523808713
-  lat: 52.1471905982
-  error_mapwarper: 28.9
-  from: mapwarper
-- id: mw692248
-  x: 4413.34
-  y: 2218.69
-  lon: 17.8735113139
-  lat: 52.1888649568
-  error_mapwarper: 2.5
-  from: mapwarper
-fit:
-  transformation: polynomial
-  order: 1
-  n: 11
-  rms_m: 23.03
-  inverse_rms_px: 17.4
-  residuals_m:
-    mw691994: 11.45
-    mw691996: 24.68
-    mw691997: 16.36
-    mw691998: 8.56
-    mw691999: 12.15
-    mw692243: 39.98
-    mw692244: 9.66
-    mw692245: 34.05
-    mw692246: 16.58
-    mw692247: 38.33
-    mw692248: 3.38
+width: 8916
+height: 5470
+gcps: []

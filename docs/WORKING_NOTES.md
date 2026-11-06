@@ -1253,6 +1253,30 @@ cloud branches").
   session** — for a batch of small crops (label bands), reading them
   directly beats any OCR pipeline, with the extra check of the editor's own
   standards to read each result against.
+- **The rotated file of Zagórów 1841 is a different version — five probes,
+  no content transfer** (2026-11-06, the editor's ruling to use 001.jpg "so
+  that we can work with the straight map and not the one at a weird
+  angle"). The MapWarper 75688 points live in the rotated derivative's
+  pixels; transferring them needed the rotated→orig transform, which five
+  independent methods refused to find: (1) whole-image template match at
+  the consensus angle (330°/scale 1): peak −0.45; (2) patch NCC at the
+  SIFT consensus's own inlier positions: 0.05–0.26; (3) template matching
+  the whole rotated file inside the rotated canvas: peak −0.45; (4) the 11
+  GCP patches searched over all of 001.jpg at all angles and scales: 9 of
+  11 collapsed onto ONE generic location with scattered angles; (5) the
+  SIFT model itself (5328 inliers, RMS 0.17 px, rotation 30.2°, scale
+  1.00000) mapped a control point into the original's white margin — a
+  lattice consensus of the map's regular hatching, right rotation,
+  arbitrary phase. The lesson stack: a repetitive-texture image defeats
+  RANSAC's global consensus (thousands of identical glyphs agree on many
+  rigid models); SIFT's inlier count and RMS prove NOTHING about
+  photometric correspondence — verify with patch NCC at inlier positions
+  before believing any transform; and when "the rotation is right but the
+  phase is wrong" survives every check, suspect the VERSION first (the
+  Gilly lesson, met twice in one sitting). zagorow1841 is now registered on
+  001.jpg (8916 × 5470, the map as drawn, its tilt to be carried by the
+  georeference) with no MapWarper points; it georeferences from the
+  editor's marks alone.
 - A heredoc in the Bash tool fails on an unbalanced apostrophe even when it
   is quoted. Write any script that holds prose with the Write tool and run
   the file.
