@@ -4810,3 +4810,12 @@ footer on every page. Changed, in both languages:
   warp.html?map=<key>[&base=satellite]), shown only where a georeference
   exists — the maps without points yet show "with the georef" until their
   marks georeference them.
+- The labelling page's editing finished at the editor's two reports of the
+  marking session (the name that would not come back; the type that could
+  not be changed): Enter commits an existing label's edit and releases it,
+  a click on empty map space releases the selection, Esc does the same when
+  nothing is in progress; the type the gazetteer filled in is overridden by
+  the type buttons now standing in the auto-fill pause (a click keeps the
+  pause, the form still to be typed), by a type key pressed in the EMPTY
+  form field, and by a type key on a selected saved label — the help carries
+  the whole workflow. All 23 sheets rebuilt.

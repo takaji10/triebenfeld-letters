@@ -3212,6 +3212,17 @@ Lessons:
   general rule for any marking page: **every editing action needs a visible
   commit that returns the page to the state the editor expects to see**, or
   the silent persistence reads as failure.
+- **A hint that says "press a key" is void while a text field holds the
+  focus** (2026-11-06, the same session's second report: the auto-fill
+  pause's "a type key overrides" — with the form field focused, the key
+  typed its character into the form, and on a saved label the type keys did
+  nothing at all; the only path ran through the unlabelled "Change what it
+  shows" button). The fix: the type buttons stand in the pause itself
+  (clicking one keeps the pause, the form still to be typed), a type key
+  overrides when pressed in the EMPTY form field or on a selected saved
+  label, and the help carries the whole workflow. The general rule: a
+  keyboard hint must name where the focus has to be, and every hinted
+  action needs a mouse path beside it.
 
 
 - **A state endpoint needs `Cache-Control: no-store`, or the browser edits
