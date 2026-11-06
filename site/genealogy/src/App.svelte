@@ -45,6 +45,15 @@
   // tree begins (the editor's ruling, 2026-11-06)
   const START_PERSON = 'I2867'
 
+  // back to the archive: two levels up from the app's own directory -
+  // /<repo>/genealogy/ -> /<repo>/ - computed from the document URL so
+  // the same build serves under any prefix (an absolute path here was
+  // the very first bug this explorer had)
+  const siteHome = (() => {
+    const dir = document.URL.replace(/#.*$/, '').replace(/[^/]*$/, '')
+    return new URL('../', dir).href
+  })()
+
   function activeTab() {
     const p = route.parts[0] || 'home'
     if (p === 'person' || p === 'surname') return 'surnames'
@@ -62,6 +71,7 @@
     {#each tabs as [key, label]}
       <a href={'#/' + key} class:active={activeTab() === key}>{i18n.t(label)}</a>
     {/each}
+    <a class="home" href={siteHome}>{i18n.t('back_to_site')}</a>
   </nav>
   <select class="lang" value={i18n.lang}
           onchange={(e) => { i18n.lang = e.target.value }}>
@@ -113,6 +123,7 @@
     padding: .55rem 1rem; }
   .brand h1 { font-size: 1.02rem; margin: 0; }
   .brand { color: inherit; }
+  nav a.home { color: var(--accent); font-weight: 600; }
   nav { display: flex; gap: .8rem; flex: 1; }
   nav a { font-size: .86rem; color: var(--soft); padding: .15rem .2rem;
     border-bottom: 2px solid transparent; }

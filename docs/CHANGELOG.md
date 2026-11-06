@@ -5273,6 +5273,15 @@ footer on every page. Changed, in both languages:
   kept where the record gives one.
 - jekyll and verify_site ALL CHECKS PASSED with the project baseurl
   and with none; the layout battery passes.
+
+## 2026-11-06: the way home in the explorer's navbar
+
+- The navbar carries a "← Traces in the Sand" link after the app's own
+  tabs (accent-weighted, so it reads as a way out, not a section). The
+  target is computed from the document URL - two levels up from the
+  app's directory - not hard-coded, the same prefix-independence the
+  rest of the shell already observes (an absolute path here would have
+  been this explorer's first bug once more).
 - **The tree's clicks were swallowed by the pan's pointer capture** (the
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what
