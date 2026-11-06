@@ -866,3 +866,69 @@ r2 zrodlo, r5 char; 0159 r10 rok.
   refs (verified r1-r9). r2 zrodlo / r5 charakter await the
   editor's offered rows.
 - S35 ok: 0159 r10 rok -> `—`.
+
+## The footnote-marker audit (SPOT round 2 prep)
+
+Three scanners built: sup_scan.py (letter+digit remnants in prose),
+fused_scan.py ('. N Capital' = the next print note glued inside a
+def), and the dup-tail check (def N's tail == def N+1's head = the
+OCR duplicated the next note into this def). Global state after the
+fixes: 680 refs / 676 defs; only 125-3 unwired (pending); the 4
+count-mismatches = legitimate j.w. ditto refs (137-1, 141-1, 143-3,
+143-5). No page has more print notes than transcribed defs
+(markers.json vs structure4.json counts equal everywhere).
+
+DECISIVE fixes applied (BODY_FIXES/NOTE_REBUILD/NOTE_FIXES in
+compose.py, 56 replacements):
+- p. 1: markers 1-6 located at their visible digits (Baranowski 1,
+  Inglota?, Schmidta *, Maasa4, Schulza 5, Polski 6); the old
+  pattern-guessed wirings (a wiec/Wschowska/dotyczacym/Prace) removed;
+  def 1-1 split (print notes 1+2 fused: 'Wsie holenderskie. 2 Problem
+  kolonizacji...'), defs renumbered 1..6.
+- p. 2: 'akta gruntowe i hipoteczne' (i->1 garbles); [^2-2] -> the
+  wschowska tabela 1789; new [^2-3] at 'spisu ludności %' (Korzon);
+  def 2-2 split (note 3 = Korzon fused).
+- p. 30: all five markers located: Ujskich1 / Nowe Dwory? (the ? =
+  superscript 2) / osadników (note 3 = the settler lists, fused) /
+  wieleńskiej4 / Niemcom 5; defs rebuilt 1..5; the old miswires
+  (otrzymują/flamandzko-holenderskie/przeciwstawiając/gegeben) removed.
+- p. 66: def 1 split (Maas / Zmiany krajobrazu = Hładyłowicz), defs
+  renumbered 1..4; refs moved to nowozytna1/Hładyłowicza2/gruntów3/
+  cudzy4 (the old stacking at Hładyłowicza unstacked).
+- p. 70: markers 8/9 at their $/? remnants ('gruntów$' = the Jaracz
+  opposite-case note; 'miedze?' = the Göździn/Karpicko note); the old
+  miswires (kawałek/grunty osady) removed; defs 7/9 dup-tails trimmed.
+- p. 85/86: the whole czynsz marker map decoded: polskie1 (the
+  numismatics note), 30-morgowej? (Ujskie source), 60-morgowej%
+  (Nowe Dwory + pomiar), Róża's czynsz = 36 RESTORED (forced by
+  note 4's '36-zlotowy czynsz mamy w...' phrasing), w. XVII[4] (the
+  5 = a 4-as-5 small-type tie), Dłuskich (r. 1688)[5], obniżką
+  czynszu$ [6], dobrej monecie? [7], 8-12 talarów* [8]; the triple
+  stack at 'zdewaluowanych' unstacked; 'od każdej huby płacono
+  1 zł[86-10]' (the * sat inside 'każdej', I = 1); def 86-9 repaired
+  (was a full duplicate of note 8 + the fused note 9 'AW. Zielonka...
+  2 talary' - the print's own inline '9' label visible); def 86-8's
+  'Rel. Gost.' -> 'Rel. Cost.'.
+- p. 89: markers: opłat targowych[^89-1] (best-guess position, the
+  cła note - SPOT-confirm), aktu*% [2], gruncie% [3] (the Anerkennung
+  quote), nieporozumieniu f. [4] (the f = the superscript; note 4 =
+  Maas's Entstehung), Wartę5 [5] (note 5 = Rel. Posn. nr 038/638 =
+  the Róża privilege!); defs: 89-3+89-4 MERGED (the 'IV, fol. 1137'
+  fragment = note 3's wrapped tail), renumbered 1..5; 'Entstchung' ->
+  'Entstehung', 'Kytrzeby' -> 'Kutrzeby', Wertę -> Wartę.
+- p. 107: markers: olędrzy1 [1], Kniata[2] (kept), katolickiego* [3],
+  równocześnie 4 [4], wysokości 5 [5]; the value-wirings (7/42/30)
+  removed - 'w dobrach duchownych 7 talarów 42 gr' = values; p. 30's
+  Folsztyn 'gegeben[^30-4]' miswire removed.
+- Three remnants sitting directly at their wired refs deleted
+  (pola*[^82-5], przeciętna*[^100-5], charakteru$[^112-4]).
+
+REMAINING (SPOT round 2): 22 superscript remnants whose NUMBERS need
+the print (rem_class.py list - the OCR rendered the tiny digits as
+* % $ glyphs); 6 missing amounts (p. 89 pobierał X tynfów / co X lat
+Y zł; p. 107 państwowe X gr; p. 86 Ujskie wyrosił X zł; p. 86 note 4
+Skrzydlewie X talarów w dukatach; p. 30 Folsztyn gegeben X
+Reichstaler); TABELA III (p. 62) = a garbled table WITH an unlinked
+note apparatus (notes 1-4 visible: chałupnicy1, '2 Karczmarze i
+młynarze.', '3 nauczyciel, 4 lektorów (Vorleser)'); p. 1's odd note
+4/5 texts (Patrz wykaz skrótów @Maas4? Tamże @Schulz5?).

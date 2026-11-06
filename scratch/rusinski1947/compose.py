@@ -28,6 +28,235 @@ def label(n):
     return str(int(n) - 15)
 
 
+# ---- SPOT ANSWERS round 2: the footnote-marker audit ---------------------
+# sup_scan (letter+digit), fused_scan ('. N Capital' inside defs) and
+# the dup-tail scan located the print's true superscript positions:
+# miswired refs moved, fused note-splits + renumberings applied here.
+# Keyed by scan number (label + 15).
+BODY_FIXES = {
+    '0016': [   # p. 1: markers 1-6 at their visible digits
+        ('a więc[^1-1]', 'a więc'),
+        ('Wschowską.[^1-2]', 'Wschowską.'),
+        ('dotyczącym[^1-3]', 'dotyczącym'),
+        ('Prace[^1-4][^1-5] tę', 'Prace tę'),
+        ('Baranowskiego 1 wydana', 'Baranowskiego[^1-1] wydana'),
+        ('Inglota? daje', 'Inglota[^1-2] daje'),
+        ('Schmidta * wymienić', 'Schmidta[^1-3] wymienić'),
+        ('Maasa4 i', 'Maasa[^1-4] i'),
+        ('Schulza 5. Prace', 'Schulza[^1-5]. Prace'),
+        ('Atlasu Historycznego Polski 6,',
+         'Atlasu Historycznego Polski[^1-6],'),
+    ],
+    '0017': [   # p. 2: i->1 garbles; markers 2/3 at their sentences
+        ('akta gruntowe 1[^2-2] hipoteczne 1,',
+         'akta gruntowe i hipoteczne,'),
+        ('ziemi wschowskiej z r. 1789. Ze zbiorów',
+         'ziemi wschowskiej z r. 1789[^2-2]. Ze zbiorów'),
+        ('spisu ludności %. Niestety', 'spisu ludności[^2-3]. Niestety'),
+    ],
+    '0045': [   # p. 30: markers 1-5 all at visible digits
+        ('otrzymują[^30-1] grunty', 'otrzymują grunty'),
+        ('brzmienie flamandzko-holenderskie[^30-2],',
+         'brzmienie flamandzko-holenderskie,'),
+        ('dla Ol. Ujskich1 1 Ol. Nowe Dwory ?,',
+         'dla Ol. Ujskich[^30-1] i Ol. Nowe Dwory[^30-2],'),
+        ('nazwiska osadników. Większość',
+         'nazwiska osadników[^30-3]. Większość'),
+        ('inwentarze majętności wieleńskiej4, '
+         'przeciwstawiając ich[^30-3] osadnikom Niemcom 5.',
+         'inwentarze majętności wieleńskiej[^30-4], '
+         'przeciwstawiając ich osadnikom Niemcom[^30-5].'),
+    ],
+    '0081': [   # p. 66: split note 1 (Maas/Hładyłowicz), renumber 2-4
+        ('nowożytną!, a uzasadniają krytyczne stanowisko '
+         'Hładyłowicza ?.[^66-1]',
+         'nowożytną[^66-1], a uzasadniają krytyczne stanowisko '
+         'Hładyłowicza[^66-2].'),
+        ('gruntów[^66-2]. Wyjątkowo', 'gruntów[^66-3]. Wyjątkowo'),
+        ('grunt cudzy[^66-3]. Karczowanie', 'grunt cudzy[^66-4]. Karczowanie'),
+    ],
+    '0085': [   # p. 70: markers 8/9 at their '$'/'?' remnants
+        ('w rozmiar gruntów$, tak samo', 'w rozmiar gruntów[^70-8], tak samo'),
+        ('granice i miedze?. Niekiedy', 'granice i miedze[^70-9]. Niekiedy'),
+        ('dodawał kawałek[^70-9] pan', 'dodawał kawałek pan'),
+    ],
+    '0104': [   # p. 89: markers 2/3/4/5 at their remnants; note 3+4 merged
+        ('pan pobierał[^89-1] tynfów', 'pan pobierał tynfów'),
+        ('od uiszczania opłat targowych w miastach',
+         'od uiszczania opłat targowych[^89-1] w miastach'),
+        ('od każdego aktu *%.', 'od każdego aktu[^89-2].'),
+        ('opłatę for-[^89-2] malnie', 'opłatę formalnie'),
+        ('Uiszczali ją olędrzy co[^89-3] lat w wysokości[^89-4] zł z huby',
+         'uiszczali ją olędrzy co lat w wysokości zł z huby'),
+        ('na posiedanym gruncie %.', 'na posiedanym gruncie[^89-3].'),
+        ('przy wydawa-[^89-5] niu córek', 'przy wydawaniu córek'),
+        ('polega na nieporozumieniu f.[^89-6]',
+         'polega na nieporozumieniu[^89-4]'),
+        ('przez rzekę Wertę5,', 'przez rzekę Wartę[^89-5],'),
+    ],
+    '0122': [   # p. 107: markers 1/3/4/5 at their digits/remnants
+        ('Skorzystali z niego olędrzy1, Według obliczeń[^107-1] '
+         'Kniata[^107-2]',
+         'Skorzystali z niego olędrzy[^107-1]. Według obliczeń '
+         'Kniata[^107-2]'),
+        ('w dobrach państwowych[^107-3] gr', 'w dobrach państwowych gr'),
+        ('w dobrach duchownych 7[^107-4] talarów 42[^107-5] gr',
+         'w dobrach duchownych 7 talarów 42 gr'),
+        ('kościoła parafialnego katolickiego *. Zdarzało',
+         'kościoła parafialnego katolickiego[^107-3]. Zdarzało'),
+        ('obu kościołów równocześnie 4, Świadczenia',
+         'obu kościołów równocześnie[^107-4]. Świadczenia'),
+        ('do znacznej wysokości 5,', 'do znacznej wysokości[^107-5].'),
+    ],
+}
+# NOTE_FIXES: full ordered rebuild of a page's note list (num, text);
+# the fused-note splits renumber the defs to the print's numbering.
+NOTE_REBUILD = {
+    '0016': [
+        (1, 'Wsie holenderskie.'),
+        (2, 'Problem kolonizacji flamandzko-holenderskiej.'),
+        (3, 'Geschichte des Deutschtums im Lande Posen.'),
+        (4, 'Patrz wykaz skrótów.'),
+        (5, 'Tamże.'),
+        (6, 'Por. Wojciechowska M., Sprawozdanie z prac nad mapą woj. '
+            'poznańskiego w dobie Sejmu czteroletniego. Poznań 1934. '
+            'Odbitka ze Sprawozdań Poznańskiego Tow. Przyjaciół Nauk '
+            'nr 3 za r. 1933. Tamże scharakteryzowane zostały bliżej '
+            'niektóre zużytkowane tutaj materiały źródłowe.'),
+    ],
+    '0017': [
+        (1, 'Cytowanie tych akt nasuwa pewne trudności. Zostały one '
+            'przekazane przez poszcze- gólne sądy do depozytu '
+            'archiwalnego tylko częściowo, stąd nie mogła być narazie '
+            'przepro- wadzona numeracja poszczególnych tomów. Cytowane '
+            'więc są według numeracji sądowej, a w razie szeregu tych '
+            'samych sygli lub w ogóle braku Jakichkolwiek, dla '
+            'odróżnienia podana jest przy każdym tomie ilość stron '
+            'wzgl. kart.'),
+        (2, 'Tabela sporządzona niezależnie od tabeli z tego samego '
+            'roku, wymienionej poprzednio.'),
+        (3, 'Korzon T., Wewnętrzne dzieje Polski, t. I, s. 68.'),
+    ],
+    '0045': [
+        (1, 'Z 16 IV 1597 (Inscr. Valc. nr 85, r. 1663—4, fol. 402).'),
+        (2, 'Z 21 II 1601 (Rel. Posn. nr 140, r. 1601—2, fol. 659).'),
+        (3, 'Ujskie Ol.: Jan Borth, Marcin Schueneke, Michał Boleman, '
+            'Krystian Paul, Joachim Bartz, Joachim Schmiket, Jan '
+            'Werner, Andrzej Dumken, Jan Elwig. Nowe Dwory Ol.: '
+            'Barthlomicy Unswaldt, Hanus Renik, Andreas Brozy, Krystow '
+            'Olemborg, Peter Barkaw, Peter Wanczlaw, Henrik Carstan, '
+            'Jakub Hanik, Michael Hoffman, Philyp Bem (wzgl. Bein). '
+            'Transkrypcja polska.'),
+        (4, 'Inwentarz z r. 1630 (Rel. Posn. nr 157, r. 1632, fol. '
+            '169—178) oraz z r. 1653 (Rel. Posn. nr 179, r. 1654, fol. '
+            '718—779).'),
+        (5, 'Inwentarz z r. 1653 odróżnia wsie polskie, niemieckie '
+            '(wzgl. mieszane), oraz „olęderskie”.'),
+    ],
+    '0081': [
+        (1, 'Maas, Entwaldung, s. 23—5.'),
+        (2, 'Zmiany krajobrazu, s. 19—20.'),
+        (3, 'Np. w przywileju dla Milczewskich Ol. (AW. A. 1).'),
+        (4, 'Takie postanowienie spotykamy w przywilejach z r. 1677 '
+            'dla olędrów majętności wieleńskiej.'),
+    ],
+    '0104': [
+        (1, 'Zwolnieni od ceł byli olędrzy majętn. wieleńskiej. Por. '
+            'przywileje z r. 1677.'),
+        (2, 'AW. Milczewskie Ol., A. 1 i Kl. XII 6 V, fol. 116, '
+            'Lubaskie Ol.'),
+        (3, 'zur Anerkennung des Ober Eigenthums jedes mal nach '
+            'Verlauf von finfzig Jahren, zwei Dukaten zu achtzehn '
+            'polskie Gulden” (AGH sąd Wolsztyn, majętn. Obra, vol. '
+            'IV, fol. 1137, reces z r. 1843).'),
+        (4, 'Entstehung, s. 84. Autor tłumacząc tekst pracy Stan. '
+            'Kutrzeby, Historia ustroju Polski w zarysie, gdzie w t.I, '
+            'nas. 236 (wydanie z r. 1931) znajduje się zwrot dotyczący '
+            'olędrów, nie spostrzegł, że dalsze rozważania Kutrzeby '
+            'dotyczą już ogółu ludności włościańskiej. Wypadło stąd, '
+            'że olędrzy nie tylko uiszczają wspomnianą wyżej opłatę, '
+            'ale nadto na żądanie pańskie muszą stawać do służby we '
+            'dworze.'),
+        (5, 'Rel. Posn. nr 038, r. 1791, fol. 602.'),
+    ],
+}
+# NOTE_FIXES: text overrides without renumbering (the dup-tail trims:
+# the OCR duplicated the next note's text into this def's tail)
+NOTE_FIXES = {
+    '0085': {
+        7: 'Według przywileju dla Ol. Żamorze główna droga wiejska '
+           'winna mieć 2 pręty, a drogi boczne 1 pręt szerokości. '
+           'Sołtys winien dbać o to, aby nikt dróg nie podorywał '
+           '(Rel. Posn. nr 641, r. 1792, fol. 164).',
+        9: 'Góździn, AW. A. 1: „Pozwala im się też... miedze wolne '
+           'przy każdej hubie całej potrzebne”. Karpicko, AW. A. 1: '
+           '„Miedze, drogi, wygoniska nie wchodzą w rozmierzenie '
+           'hubów”.',
+    },
+    '0101': {
+        8: 'Rel. Cost. nr 164, r. 1729, Podgradowice: „corocznie '
+           'powinni dawać do dworu od każdej huby po 60 tynfów, '
+           'rachując i od owiec”. Item Rel. Cost. nr 190, r. 1755, '
+           'fol. 33, Krzemieniewo.',
+        9: 'AW. Zielonka, A. 1 (r. 1704). Opłata wynosiła 2 talary.',
+    },
+    '0107': {
+        3: 'Rel. Cost. nr 220, r. 1787, fol. 182, Charłub Ol.',
+    },
+}
+
+# p. 85 (= scan 0100) / p. 86 (= scan 0101) body fixes: the whole
+# marker map was decodable (the czynsz paragraph spans the leaf break)
+BODY_FIXES['0100'] = [
+    # marker 1 at its visible digit ('polskie1.'); note 1 = the
+    # numismatics literature (Gumowski/Rutkowski) - the conversion basis
+    ('złote polskie1. Często', 'złote polskie[^85-1]. Często'),
+    ('alternatywnie[^85-1] w dwóch', 'alternatywnie w dwóch'),
+]
+BODY_FIXES['0101'] = [
+    # marker 2 = the '?' remnant after '30-morgowej' (note 2 = the
+    # Ujskie privilege source)
+    ('wyrosił[^85-2] zł z huby 30-morgowej ?,',
+     'wyrosił zł z huby 30-morgowej[^85-2],'),
+    # marker 3 = the '%' remnant after '60-morgowej' (note 3 = the
+    # Nowe Dwory + Róża/pomiar sources)
+    ('jak[^85-3] wynika z późniejszych pomiarów, 60-morgowej %.',
+     'jak wynika z późniejszych pomiarów, 60-morgowej[^85-3].'),
+    # Róża's czynsz = 36 (forced by note 4's '36-zlotowy czynsz mamy
+    # w...' phrasing); marker 4 = the '5' digit after 'w. XVII'
+    # (small-type 4-as-5 tie)
+    ('był nieco wyższyi wynosił[^85-4] zł z huby[^85-5],',
+     'był nieco wyższy i wynosił 36 zł z huby,'),
+    ('przez cały w. XVII 5.', 'przez cały w. XVII[^85-4].'),
+    # marker 5 = note 5 (the Dłuskie source + Schmidt's misreading)
+    ('w Dłuskich Starych Ol. (r. 1688) czynsz',
+     'w Dłuskich Starych Ol. (r. 1688)[^85-5] czynsz'),
+    # marker 6 = '$' after 'obniżką czynszu' (note 6 = Jasionowe/
+    # Glinki 1701 - the first tynf-era settlements)
+    ('obniżką czynszu $. W pierwszej', 'obniżką czynszu[^85-6]. W pierwszej'),
+    # marker 7 = '?' after 'dobrej monecie' (note 7 = J.w. + 1709/1713)
+    ('„dobrej monecie” ?, tzn.', '„dobrej monecie”[^85-7], tzn.'),
+    # marker 8 = '*' after '8—12 talarów' (note 8 = the talar-list)
+    ('względnie 8—12 talarów *—', 'względnie 8—12 talarów[^85-8]—'),
+    # unstack the triple miswire
+    ('w zdewaluowanych[^85-6][^85-7][^85-8] złotówkach',
+     'w zdewaluowanych złotówkach'),
+    # the stróżowe garble (the '*' sat inside 'każdej')
+    ('od każ. * dej huby płacono I zł[^86-10]',
+     'od każdej huby płacono 1 zł[^86-10]'),
+    # p. 30: the old miswire inside the Folsztyn quote
+    ('wier gegeben[^30-4] Rechstaler', 'wier gegeben Rechstaler'),
+    # p. 70: the old miswire on the drogi sentence
+    ('biegnących[^70-6] przez grunty osady[^70-8].',
+     'biegnących[^70-6] przez grunty osady.'),
+    # remnants sitting directly at their wired refs: the glyph was the
+    # superscript the ref now represents
+    ('zagrabieniem pola *.[^82-5]', 'zagrabieniem pola[^82-5].'),
+    ('przeciętnej *.[^100-5]', 'przeciętnej[^100-5].'),
+    ('charakteru $.[^112-4]', 'charakteru[^112-4].'),
+]
+
+
 def main():
     spath = os.path.join(OCR, 'structure4.json')
     if not os.path.isfile(spath):
@@ -84,6 +313,19 @@ def main():
                          for p in assemble_marked(n)]
         for note in struct[n]['notes']:
             note['text'] = fix_toks(readability.apply(note['text']))
+        # SPOT ANSWERS round 2: the footnote-marker audit - full note
+        # rebuilds (fused splits + renumberings), text overrides
+        # (dup-tail trims) and body-ref rewires to the print's true
+        # superscript positions
+        nr = NOTE_REBUILD.get(n)
+        if nr:
+            struct[n]['notes'] = [{'num': k, 'text': v}
+                                  for k, v in nr]
+        nf = NOTE_FIXES.get(n)
+        if nf:
+            for note in struct[n]['notes']:
+                if note['num'] in nf:
+                    note['text'] = nf[note['num']]
     order = BODY + ANEX2 + ANEX3
     LABEL_RE = re.compile(r'\[\^[^\]]+\]')
     TERM = ('.', '!', '?', '…', '”', '»', ':', ';')
@@ -310,6 +552,18 @@ Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
         n = len(re.findall(pat, text))
         text = re.sub(pat, rep, text)
         print('normalize %s -> %s: %d' % (pat, rep, n))
+    # SPOT ANSWERS round 2: the footnote-marker audit's ref rewires -
+    # applied here on the final text, AFTER the OI./KI. normalizers
+    # (several search strings contain 'Ol.')
+    nfix = 0
+    for n in sorted(BODY_FIXES):
+        for old, new in BODY_FIXES[n]:
+            if old in text:
+                text = text.replace(old, new)
+                nfix += 1
+            else:
+                print('WARN body fix miss %s: %r' % (n, old[:60]))
+    print('body marker fixes applied:', nfix)
     with open(OUT, 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(text)
     print('written', os.path.abspath(OUT), len(text), 'chars')
