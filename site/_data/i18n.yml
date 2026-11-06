@@ -148,6 +148,8 @@ en:
   map_kind: Kind
   map_source_link: The map at the archive
   map_marks_h2: Index
+  map_marks_place: Place
+  map_marks_shows: On the sheet
   map_fit_label: Georeference
   map_today: OSM
   map_locate: Locate
@@ -168,13 +170,7 @@ en:
   map_lang_de: German
   map_tab_ru: Russian
   map_tab_pl: Polish
-  map_farms_h2: The farmsteads
-  map_farms_note: >-
-    The settlers of the liquidation and their holdings, under the farm's
-    number as the plan carries it. Locate takes the map to the farm's mark;
-    Full details opens the liquidation holding's statement, where the
-    farm's land reads kind by kind. A farmstead without a Locate chip has
-    no mark on the plan yet.
+  map_farms_h2: Farmsteads
   map_morgen_note: Hectares convert the 1868 Morgen at the Polish morga of 1819 (1 morga = 0.56 ha). The survey of 1896 found the holdings larger; its figures are the desyatinas given first.
   map_farm_no: No.
   map_farm_settler: Settler
@@ -182,7 +178,6 @@ en:
   map_farm_details: Full details
   map_farms_layer: Farmsteads
   map_reds_layer: Field numbers
-  map_reds_hide_linked: Hide linked
   place_maps_h2: On the maps
   place_on_maps: on
   nav_archival: Archival order
@@ -570,6 +565,8 @@ de:
   map_kind: Art
   map_source_link: Die Karte im Archiv
   map_marks_h2: Register
+  map_marks_place: Ort
+  map_marks_shows: Auf dem Plan
   map_fit_label: Georeferenz
   map_today: OSM
   map_locate: Zeigen
@@ -590,14 +587,7 @@ de:
   map_lang_de: Deutsch
   map_tab_ru: Russisch
   map_tab_pl: Polnisch
-  map_farms_h2: Die Gehöfte
-  map_farms_note: >-
-    Die Siedler der Liquidation und ihre Besitze, unter der Nummer des
-    Gehöfts, wie der Plan sie trägt. Zeigen führt die Karte
-    zur Markierung des Gehöfts; Vollständige Angaben öffnet
-    das Verzeichnis des Liquidationsbestands, auf dem das Land des
-    Gehöfts Art für Art zu lesen ist. Ein Gehöft ohne
-    Zeigen-Marke hat noch keine Markierung auf dem Plan.
+  map_farms_h2: Gehöfte
   map_morgen_note: Die Hektar rechnen die Morgen von 1868 nach der polnischen Morga von 1819 um (1 Mórg = 0,56 ha). Die Vermessung von 1896 ergab mehr Land; ihre Zahlen sind die Desjatinen, die zuerst stehen.
   map_farm_no: Nr.
   map_farm_settler: Siedler
@@ -605,7 +595,6 @@ de:
   map_farm_details: Vollständige Angaben
   map_farms_layer: Gehöfte
   map_reds_layer: Flurnummern
-  map_reds_hide_linked: Verknüpfte ausblenden
   place_maps_h2: Auf den Karten
   place_on_maps: auf
   nav_archival: Archivalische Ordnung

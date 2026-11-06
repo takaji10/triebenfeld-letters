@@ -4722,3 +4722,16 @@ footer on every page. Changed, in both languages:
   A short note under the table says the same in plain language, in the
   reader's language (map_morgen_note in i18n.yml): what the hectares are
   converted at, and that the survey's own figures are the desyatinas.
+- The map page cleaned up at the editor's word (2026-11-06), to read like
+  the other source pages: the prose note under the Farmsteads heading is
+  gone (the hectares note stays); "The farmsteads" reads Farmsteads
+  (Gehöfte); the Hide linked button is off the site page - the layer
+  toggles are all it needs, the working page keeps its switch; the
+  language tabs wear the site's own .vbtn button (the pill they wore read
+  as a different kind of control); and the index of places moved out of
+  the narrow sidebar into a full-width table below the Farmsteads
+  (Place / On the sheet / Locate-Today), the sidebar keeping the facts,
+  the boundary walk and the legend beside the map. A Locate called from
+  the tables below now brings the map into view as it flies (the viewer
+  scrolls into view; a farm Locate no longer scrolls the page to the row
+  it came from).

@@ -135,40 +135,26 @@ def main():
             page.goto(site_root + '/maps/pelzucki1896/')
             page.wait_for_selector('.farm-tag', state='attached', timeout=30000)
             ft = page.locator('.farm-tag[data-farm="1"]').first
-            # the layer starts hidden; turn it on
-            page.click('#farm-layer')
-            time.sleep(0.3)
+            # the names layer is ON by default now; Hide linked is gone
+            # (the editor, 2026-11-06)
+            check('site: no hide-linked button on the page',
+                  page.locator('#reds-linked').count() == 0)
             check('site: the farm pill shows with its layer on', ft.is_visible())
             page.click('#reds-layer')
             time.sleep(0.3)
             sred1 = page.locator('.red-tag').filter(has_text=re.compile(r'^1$')).first
             check('site: the red numbers show with their layer on',
                   sred1.count() == 0 or sred1.is_visible())
-            page.click('#reds-linked')
-            time.sleep(0.3)
-            check('site: Hide linked hides the linked pill', not ft.is_visible())
             poke_and_zoom(page)
-            check('site: the pill stays hidden through zooming/panning',
-                  not ft.is_visible())
-            check('site: the red numbers stay hidden through zooming',
-                  sred1.count() == 0 or not sred1.is_visible())
-            s_unsure = page.locator('.red-tag.unsure').first
-            check('site: an unsure reading is never hidden by Hide linked',
-                  s_unsure.count() > 0
-                  and 'gone' not in (s_unsure.get_attribute('class') or '')
-                      .split(),
-                  s_unsure.get_attribute('class'))
-            page.click('#farm-layer')   # layer off then on again with hide on
-            time.sleep(0.2)
+            check('site: the pill survives zooming/panning', ft.is_visible())
+            check('site: the red numbers survive zooming',
+                  sred1.count() == 0 or sred1.is_visible())
             page.click('#farm-layer')
             time.sleep(0.3)
-            check('site: toggling the names layer keeps the hide',
-                  not ft.is_visible())
-            page.click('#reds-linked')
+            check('site: the names layer toggles off', not ft.is_visible())
+            page.click('#farm-layer')
             time.sleep(0.3)
-            check('site: hide off restores the pill', ft.is_visible())
-            poke_and_zoom(page)
-            check('site: the restored pill survives zooming', ft.is_visible())
+            check('site: the names layer toggles back on', ft.is_visible())
             check('no page errors', not errors, '; '.join(errors[:2]))
             browser.close()
     finally:

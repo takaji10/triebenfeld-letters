@@ -103,7 +103,7 @@ def main():
         heads = page.eval_on_selector_all(
             '.farm-table th', 'els => els.map(e => e.textContent.trim())')
         check('the table is No. / Settler / Holding (no documentary names)',
-              str(heads) == "['No.', 'Settler', 'Holding', 'The farmsteads']",
+              str(heads) == "['No.', 'Settler', 'Holding', 'Farmsteads']",
               str(heads))
         row2 = page.locator('#farm-2').inner_text()
         check('row 2 shows Gibel Martin with hectares',
@@ -121,6 +121,32 @@ def main():
             "document.querySelectorAll('.farm-conj').length")
         check('conjectural rows carry the asterisk mark (%d)' % conj,
               conj > 10, '%d marked' % conj)
+
+        # the cleanup of 2026-11-06: no prose note under the heading, the
+        # heading plain "Farmsteads", no Hide linked, site-style tabs, the
+        # place index a full-width table below
+        check('the section reads Farmsteads, no prose note under it',
+              page.locator('.map-farms h2').inner_text() == 'Farmsteads'
+              and 'morga of 1819' not in
+              (page.locator('.map-farms h2').inner_text() or ''))
+        check('the morgen note stands under the table',
+              'morga of 1819' in page.locator(
+                  '.map-farms .map-farms-note').inner_text())
+        check('no hide-linked button', page.locator('#reds-linked').count() == 0)
+        check('the language tabs wear the site’s button style',
+              page.evaluate("(() => { const t = "
+                            "[...document.querySelectorAll('.ml-tab')];"
+                            " return t.length >= 6 && "
+                            "t.every(e => e.classList.contains('vbtn'));"
+                            "})()"))
+        n_marks = page.evaluate(
+            "document.querySelectorAll('.mark-table tbody tr').length")
+        check('the place index is a table below (%d rows)' % n_marks,
+              n_marks >= 7, '%d rows' % n_marks)
+        mh = page.eval_on_selector_all(
+            '.mark-table th', 'els => els.map(e => e.textContent.trim())')
+        check('the index reads Place / On the sheet',
+              'Place' in str(mh) and 'On the sheet' in str(mh), str(mh))
 
         check('EN map page: no page errors', not errs, '; '.join(errs[:2]))
         page.close()
@@ -148,6 +174,15 @@ def main():
               and 'Dorfschule' in page.locator('#farm-92').inner_text()
               and 'ha)' in page.locator('#farm-2').inner_text(),
               str(heads))
+        check('DE page: the section reads Gehöfte, the index Ort / '
+              'Auf dem Plan',
+              page.locator('.map-farms h2').inner_text() == 'Gehöfte'
+              and 'Ort' in str(page.eval_on_selector_all(
+                  '.mark-table th',
+                  'els => els.map(e => e.textContent.trim())'))
+              and 'Auf dem Plan' in str(page.eval_on_selector_all(
+                  '.mark-table th',
+                  'els => els.map(e => e.textContent.trim())')))
         check('DE map page: no page errors', not errs, '; '.join(errs[:2]))
         page.close()
 

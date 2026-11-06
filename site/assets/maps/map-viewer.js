@@ -145,15 +145,11 @@ better scan does not move them.
   // row's Locate takes the map to the label.
   var farmLayerBtn = document.getElementById('farm-layer');
   var redsLayerBtn = document.getElementById('reds-layer');
-  var redsLinkedBtn = document.getElementById('reds-linked');
-  var redOn = false, hideLinked = false;
-  // The two layers and the hide-linked switch in one place: a name label
-  // shows when the farmsteads' layer is on and Hide linked is off (Hide
-  // linked clears the linked farms - names with their red numbers - so the
-  // farmsteads still without a label stand alone); a red number shows when
-  // its layer is on and, with Hide linked pressed, its farm carries no name
-  // label. An unsure reading (3[7?]) counts as not linked - a doubtful
-  // number is not hidden on a say-so.
+  var redOn = false;
+  // The two layers in one place: a name label shows when the farmsteads'
+  // layer is on; a red number when its own is. An unsure reading (3[7?])
+  // shows like any other - a doubtful number is marked by its brackets,
+  // never hidden on a say-so.
   //
   // The visibility is a class, not an inline style: the viewer's own
   // drawHTML writes style.display="block" on every redraw - every zoom and
@@ -164,14 +160,11 @@ better scan does not move them.
       farmLayerBtn.getAttribute('aria-pressed') === 'true';
     Object.keys(farmTags).forEach(function (k) {
       farmTags[k].forEach(function (d) {
-        d.classList.toggle('gone', !(namesOn && !hideLinked));
+        d.classList.toggle('gone', !namesOn);
       });
     });
     redTags.forEach(function (t) {
-      // an unsure reading (3[7?]) is never hidden, whatever it carries:
-      // only a firm reading whose farm has a mark goes
-      var linked = hideLinked && !t.unsure && t.n != null && farmTags[t.n];
-      t.el.classList.toggle('gone', !(redOn && !linked));
+      t.el.classList.toggle('gone', !redOn);
     });
   }
   function farmLayerOn(on) {
@@ -261,13 +254,6 @@ better scan does not move them.
     redsLayerBtn.addEventListener('click', function () {
       redsLayerOn(redsLayerBtn.getAttribute('aria-pressed') !== 'true');
     });
-    if (redsLinkedBtn) {
-      redsLinkedBtn.addEventListener('click', function () {
-        hideLinked = !hideLinked;
-        layerOn(redsLinkedBtn, hideLinked);
-        applyLayers();
-      });
-    }
   }
 
   // ---- the boundary walk, drawn on the map --------------------------------
@@ -323,7 +309,7 @@ better scan does not move them.
     Object.keys(marks).forEach(function (k) {
       marks[k].classList.toggle('is-on', k === id);
     });
-    document.querySelectorAll('.map-mark-list li').forEach(function (li) {
+    document.querySelectorAll('.map-marks tr[data-label]').forEach(function (li) {
       li.classList.toggle('is-on', li.getAttribute('data-label') === id);
     });
   }
@@ -380,7 +366,7 @@ better scan does not move them.
     });
   }
 
-  function focusFarm(n) {
+  function focusFarm(n, opts) {
     var f = null;
     (farms.marks || []).forEach(function (x) { if (String(x.n) === String(n)) f = x; });
     if (!f || f.x == null) return;
@@ -398,7 +384,7 @@ better scan does not move them.
     }
     highlightFarm(n);
     var row = document.getElementById('farm-' + n);
-    if (row && row.scrollIntoView) {
+    if (row && row.scrollIntoView && (!opts || opts.row !== false)) {
       row.scrollIntoView({ block: 'center', behavior: 'smooth' });
     }
     history.replaceState(null, '', '#farm-' + n);
@@ -411,23 +397,36 @@ better scan does not move them.
   }
   window.addEventListener('hashchange', focusFromHash);
 
+  // The map lives above these tables; a Locate called from down here
+  // brings it into view as it flies to the mark (the index moved below
+  // the map, 2026-11-06 - without this the reader saw the page scroll
+  // nowhere and the map move off screen).
+  var viewerEl = document.getElementById('map-viewer');
+  function showMap() {
+    if (viewerEl && viewerEl.scrollIntoView) {
+      viewerEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    }
+  }
+
   // A farm row's Locate chip takes the map to the farm's mark.
   document.querySelectorAll('.farm-do a[data-farm]').forEach(function (el) {
     el.addEventListener('click', function (ev) {
       ev.preventDefault();
-      focusFarm(el.getAttribute('data-farm'));
+      focusFarm(el.getAttribute('data-farm'), { row: false });
+      showMap();
     });
   });
 
-  // A row's crop (the [data-label] links of the list) takes the map to its
-  // mark; the row's other links (the place's page) navigate as usual.
-  document.querySelectorAll('.map-mark-list a[data-label], .map-boundary-letters a[data-label], .map-boundary-list a[data-label]').forEach(function (el) {
+  // A row's Locate (the [data-label] links of the index and the boundary)
+  // takes the map to its mark; the row's other links navigate as usual.
+  document.querySelectorAll('.map-mark-list a[data-label], .mark-table a[data-label], .map-boundary-letters a[data-label], .map-boundary-list a[data-label]').forEach(function (el) {
     el.addEventListener('click', function (ev) {
       var lid = el.getAttribute('data-label');
       if (byId[lid] && byId[lid].point) {
         ev.preventDefault();
         history.replaceState(null, '', '#' + lid);
         focusLabel(lid);
+        showMap();
       }
     });
   });
