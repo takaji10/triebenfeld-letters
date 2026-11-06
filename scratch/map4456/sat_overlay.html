@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pełzucki 1896 over satellite — Łazińskie Holendry</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  body { margin: 0; font: 14px/1.4 system-ui, sans-serif; }
+  #bar { padding: 6px 10px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+  #bar .title { font-weight: 600; }
+  #bar .note { color: #666; font-size: .82rem; }
+  #bar a { color: #33628f; }
+  #map { height: calc(100vh - 44px); background: #24241f; }
+  button { font: inherit; font-size: .82rem; padding: .25rem .7rem;
+           border: 1px solid #bbb; border-radius: 4px; background: #fff;
+           cursor: pointer; }
+  button[aria-pressed="true"] { border-color: #7a3b2e; color: #7a3b2e; font-weight: 600; }
+  /* the farm pills, the site's own farm-tag shape (site/_layouts/map.html) */
+  .farm-tag { font: 11px/1.25 system-ui, sans-serif; padding: 2px 8px;
+              background: rgba(122, 59, 46, .92); color: #fff;
+              border-radius: 10px; white-space: nowrap;
+              box-shadow: 0 1px 3px rgba(0, 0, 0, .4); }
+  .leaflet-control-attribution { font-size: 10px; }
+</style>
+</head>
+<body>
+<div id="bar">
+  <span class="title">Pełzucki 1896 over satellite imagery</span>
+  <label>Plan opacity <input id="op" type="range" min="0" max="1" step="0.05" value="0.7"></label>
+  <button id="labels" aria-pressed="true">Farm labels</button>
+  <span class="note">the plan warped over Esri World Imagery; labels from the
+  liquidation's farmsteads (fit RMS <span id="rms"></span> m) — the plan's own
+  page: <a id="pagelink" href="#">/maps/pelzucki1896/</a></span>
+</div>
+<div id="map"></div>
+<script type="module">
+import L from 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/+esm'
+import { WarpedMapLayer } from 'https://cdn.jsdelivr.net/npm/@allmaps/leaflet@1.0.0-beta.54/+esm'
+
+const D = {"georef": "https://takaji10.github.io/triebenfeld-maps/pelzucki1896/georef.json", "rms": 2.71, "marks": [{"n": 1, "lat": 52.116904, "lon": 17.905472, "label": "№ 1 · Konchinskii Iakov", "tip": "№ 1 — 10 des 2048 saz"}, {"n": 2, "lat": 52.114699, "lon": 17.903215, "label": "№ 2 · Martin Gibel", "tip": "№ 2 — 16 des 844 saz"}, {"n": 3, "lat": 52.111209, "lon": 17.906504, "label": "№ 3 · Merts Karl", "tip": "№ 3 — 27 des 2002 saz"}, {"n": 3, "lat": 52.110129, "lon": 17.908223, "label": "№ 3 · Merts Karl", "tip": "№ 3 — 27 des 2002 saz"}, {"n": 4, "lat": 52.10828, "lon": 17.896911, "label": "№ 4 · Daniel Holm", "tip": "№ 4 — 22 des 1156 saz"}, {"n": 4, "lat": 52.106588, "lon": 17.898259, "label": "№ 4 · Daniel Holm", "tip": "№ 4 — 22 des 1156 saz"}, {"n": 5, "lat": 52.106346, "lon": 17.893912, "label": "№ 5 · Merts Gotlib", "tip": "№ 5 — 6 des 187 saz"}, {"n": 6, "lat": 52.109331, "lon": 17.897623, "label": "№ 6 · Girsh Kristiian", "tip": "№ 6 — 11 des 1708 saz"}, {"n": 7, "lat": 52.110516, "lon": 17.896183, "label": "№ 7 · Wilhelm Kinast", "tip": "№ 7 — 10 des 281 saz"}, {"n": 8, "lat": 52.114178, "lon": 17.890999, "label": "№ 8 · Strzhizhikovskii Frants", "tip": "№ 8 — 7 des 1085 saz"}, {"n": 9, "lat": 52.11087, "lon": 17.891823, "label": "№ 9 · Sanikovskii Martin", "tip": "№ 9 — 11 des 1628 saz"}, {"n": 10, "lat": 52.107081, "lon": 17.889241, "label": "№ 10 · Wilhelm Marek", "tip": "№ 10 — 19 des 560 saz"}, {"n": 11, "lat": 52.110708, "lon": 17.88657, "label": "№ 11 · Christoph Grünwald", "tip": "№ 11 — 14 des 1949 saz"}, {"n": 13, "lat": 52.110122, "lon": 17.884709, "label": "№ 13 · Shteinbord Iulian", "tip": "№ 13 — 11 des 103 saz"}, {"n": 14, "lat": 52.10791, "lon": 17.877919, "label": "№ 14 · Wilhelm Holm", "tip": "№ 14 — 11 des 195 saz"}, {"n": 15, "lat": 52.106259, "lon": 17.879402, "label": "№ 15 · August Falk", "tip": "№ 15 — 4 des 1314 saz"}, {"n": 16, "lat": 52.10306, "lon": 17.91882, "label": "№ 16 · Merts Kristiian", "tip": "№ 16 — 15 des 973 saz"}, {"n": 17, "lat": 52.107564, "lon": 17.882135, "label": "№ 17 · Merts Martin", "tip": "№ 17 — 6 des 1107 saz"}, {"n": 18, "lat": 52.111934, "lon": 17.894254, "label": "№ 18 · Sanikovskii Osip", "tip": "№ 18 — 15 des 1303 saz"}, {"n": 19, "lat": 52.105213, "lon": 17.888902, "label": "№ 19 · Stirtsenbeker Kristiian", "tip": "№ 19 — 9 des 1538 saz"}, {"n": 20, "lat": 52.104207, "lon": 17.898036, "label": "№ 20 · Sanikovskii Ian", "tip": "№ 20 — 14 des 1602 saz"}, {"n": 21, "lat": 52.10201, "lon": 17.901137, "label": "№ 21 · heirs of Karl Goske", "tip": "№ 21 — 14 des 1952 saz"}, {"n": 22, "lat": 52.10136, "lon": 17.904018, "label": "№ 22 · Jan Bludziński", "tip": "№ 22 — 7 des 646 saz"}, {"n": 23, "lat": 52.098474, "lon": 17.897052, "label": "№ 23 · Wilhelm Śmigelski", "tip": "№ 23 — 27 des 874 saz"}, {"n": 23, "lat": 52.104028, "lon": 17.916824, "label": "№ 23 · Wilhelm Śmigelski", "tip": "№ 23 — 27 des 874 saz"}, {"n": 24, "lat": 52.102433, "lon": 17.892539, "label": "№ 24 · heirs of Piotr Rogacki", "tip": "№ 24 — 17 des 892 saz"}, {"n": 26, "lat": 52.103012, "lon": 17.880488, "label": "№ 26 · Wojciech Runge", "tip": "№ 26 — 21 des 401 saz"}, {"n": 26, "lat": 52.102007, "lon": 17.887012, "label": "№ 26 · Wojciech Runge", "tip": "№ 26 — 21 des 401 saz"}, {"n": 26, "lat": 52.112217, "lon": 17.902516, "label": "№ 26 · Wojciech Runge", "tip": "№ 26 — 21 des 401 saz"}, {"n": 27, "lat": 52.097789, "lon": 17.890929, "label": "№ 27 · heirs of Gottfried Runge", "tip": "№ 27 — 11 des 1759 saz"}, {"n": 29, "lat": 52.100904, "lon": 17.878852, "label": "№ 29 · Goska Osip", "tip": "№ 29 — 11 des 1400 saz"}, {"n": 29, "lat": 52.101168, "lon": 17.882003, "label": "№ 29 · Goska Osip", "tip": "№ 29 — 11 des 1400 saz"}, {"n": 31, "lat": 52.097134, "lon": 17.886873, "label": "№ 31 · Knafkus Vilgelm", "tip": "№ 31 — 2 des 1493 saz"}, {"n": 32, "lat": 52.096746, "lon": 17.887462, "label": "№ 32 · heirs of Wojciech Runge", "tip": "№ 32 — 4 des 1248 saz"}, {"n": 33, "lat": 52.099339, "lon": 17.884919, "label": "№ 33 · heirs of Gottfried Runge", "tip": "№ 33 — 15 des 566 saz"}, {"n": 34, "lat": 52.098032, "lon": 17.889189, "label": "№ 34 · Martin Runge", "tip": "№ 34 — 3 des 721 saz"}, {"n": 35, "lat": 52.094852, "lon": 17.895916, "label": "№ 35 · Kitke Kristiian", "tip": "№ 35 — 5 des 860 saz"}, {"n": 36, "lat": 52.098209, "lon": 17.900526, "label": "№ 36 · Christoph Friedenberg", "tip": "№ 36 — 11 des 1113 saz"}, {"n": 37, "lat": 52.09756, "lon": 17.9033, "label": "№ 37 · Gottfried Zellmer", "tip": "№ 37 — 15 des 1157 saz"}, {"n": 37, "lat": 52.099777, "lon": 17.903358, "label": "№ 37 · Gottfried Zellmer", "tip": "№ 37 — 15 des 1157 saz"}, {"n": 37, "lat": 52.098011, "lon": 17.906159, "label": "№ 37 · Gottfried Zellmer", "tip": "№ 37 — 15 des 1157 saz"}, {"n": 38, "lat": 52.095084, "lon": 17.898261, "label": "№ 38 · Piotr Malinowski", "tip": "№ 38 — 5 des 78 saz"}, {"n": 39, "lat": 52.094813, "lon": 17.900997, "label": "№ 39 · Christian Haupt", "tip": "№ 39 — 8 des 2238 saz"}, {"n": 40, "lat": 52.094873, "lon": 17.90789, "label": "№ 40 · Shvebs Karl Veniiamin", "tip": "№ 40 — 4 des 776 saz"}, {"n": 41, "lat": 52.09326, "lon": 17.911586, "label": "№ 41 · Shtirtsenbeker Karl", "tip": "№ 41 — 5 des 2285 saz"}, {"n": 42, "lat": 52.092846, "lon": 17.91362, "label": "№ 42 · heirs of Christian Betke", "tip": "№ 42 — 6 des 683 saz"}, {"n": 42, "lat": 52.092577, "lon": 17.914267, "label": "№ 42 · heirs of Christian Betke", "tip": "№ 42 — 6 des 683 saz"}, {"n": 44, "lat": 52.093964, "lon": 17.909936, "label": "№ 44 · Friedrich Rasch", "tip": "№ 44 — 28 des 666 saz"}, {"n": 44, "lat": 52.094508, "lon": 17.913401, "label": "№ 44 · Friedrich Rasch", "tip": "№ 44 — 28 des 666 saz"}, {"n": 44, "lat": 52.094558, "lon": 17.918951, "label": "№ 44 · Friedrich Rasch", "tip": "№ 44 — 28 des 666 saz"}, {"n": 44, "lat": 52.0969, "lon": 17.921761, "label": "№ 44 · Friedrich Rasch", "tip": "№ 44 — 28 des 666 saz"}, {"n": 45, "lat": 52.098794, "lon": 17.92142, "label": "№ 45 · Bandzert Emanuil", "tip": "№ 45 — 4 des 1020 saz"}, {"n": 46, "lat": 52.101214, "lon": 17.919539, "label": "№ 46 · Kun Gotfrid", "tip": "№ 46 — 20 des 2209 saz"}, {"n": 47, "lat": 52.099622, "lon": 17.909391, "label": "№ 47 · Zeer Kristiian", "tip": "№ 47 — 26 des 1922 saz"}, {"n": 47, "lat": 52.100514, "lon": 17.913233, "label": "№ 47 · Zeer Kristiian", "tip": "№ 47 — 26 des 1922 saz"}, {"n": 49, "lat": 52.106258, "lon": 17.911483, "label": "№ 49 · Merts Avgust", "tip": "№ 49 — 18 des 909 saz"}, {"n": 50, "lat": 52.105735, "lon": 17.906434, "label": "№ 50 · Heinrich Zellmer", "tip": "№ 50 — 20 des 416 saz"}, {"n": 51, "lat": 52.109409, "lon": 17.913502, "label": "№ 51 · Karl Gibel", "tip": "№ 51 — 9 des 1567 saz"}, {"n": 52, "lat": 52.112621, "lon": 17.915906, "label": "№ 52 · Samuel Śmigelski", "tip": "№ 52 — 9 des 1125 saz"}, {"n": 53, "lat": 52.109365, "lon": 17.918292, "label": "№ 53 · heirs of Daniel Zellmer", "tip": "№ 53 — 8 des 1888 saz"}, {"n": 54, "lat": 52.091551, "lon": 17.916542, "label": "№ 54 · Andreas Bitner", "tip": "№ 54 — 17 des 1475 saz"}, {"n": 54, "lat": 52.097016, "lon": 17.929826, "label": "№ 54 · Andreas Bitner", "tip": "№ 54 — 17 des 1475 saz"}, {"n": 55, "lat": 52.094077, "lon": 17.925882, "label": "№ 55 · Rytamer Anton", "tip": "№ 55 — 8 des 2112 saz"}, {"n": 56, "lat": 52.094074, "lon": 17.930572, "label": "№ 56 · Przhistanskii Anton", "tip": "№ 56 — 4 des 1708 saz"}, {"n": 57, "lat": 52.092982, "lon": 17.933793, "label": "№ 57 · Karl Ludwig Bartel", "tip": "№ 57 — 5 des 1561 saz"}, {"n": 58, "lat": 52.093642, "lon": 17.935944, "label": "№ 58 · Wojciech Goske", "tip": "№ 58 — 10 des 306 saz"}, {"n": 59, "lat": 52.097384, "lon": 17.934342, "label": "№ 59 · Gints Liudvik", "tip": "№ 59 — 11 des 1856 saz"}, {"n": 60, "lat": 52.098638, "lon": 17.945752, "label": "№ 60 · Daniel Stark", "tip": "№ 60 — 6 des 994 saz"}, {"n": 61, "lat": 52.101045, "lon": 17.946405, "label": "№ 61 · Wojciech Kinast", "tip": "№ 61 — 28 des 427 saz"}, {"n": 61, "lat": 52.10176, "lon": 17.948677, "label": "№ 61 · Wojciech Kinast", "tip": "№ 61 — 28 des 427 saz"}, {"n": 61, "lat": 52.099195, "lon": 17.949575, "label": "№ 61 · Wojciech Kinast", "tip": "№ 61 — 28 des 427 saz"}, {"n": 61, "lat": 52.101226, "lon": 17.950718, "label": "№ 61 · Wojciech Kinast", "tip": "№ 61 — 28 des 427 saz"}, {"n": 62, "lat": 52.096487, "lon": 17.888621, "label": "№ 62 · Kusman Gotlib", "tip": "№ 62 — 2 des 2235 saz"}, {"n": 63, "lat": 52.098488, "lon": 17.956765, "label": "№ 63 · heirs of Wojciech Kinast", "tip": "№ 63 — 13 des 292 saz"}, {"n": 65, "lat": 52.099224, "lon": 17.955194, "label": "№ 65 · Michael Zellmer", "tip": "№ 65 — 20 des 1412 saz"}, {"n": 66, "lat": 52.097245, "lon": 17.957633, "label": "№ 66 · August Stark", "tip": "№ 66 — 12 des 1967 saz"}, {"n": 67, "lat": 52.095546, "lon": 17.957681, "label": "№ 67 · August Zellmer", "tip": "№ 67 — 13 des 1528 saz"}, {"n": 68, "lat": 52.095637, "lon": 17.951391, "label": "№ 68 · Martin Liepelt", "tip": "№ 68 — 9 des 1581 saz"}, {"n": 69, "lat": 52.093685, "lon": 17.951698, "label": "№ 69 · August Gotter", "tip": "№ 69 — 11 des 1971 saz"}, {"n": 70, "lat": 52.094184, "lon": 17.958911, "label": "№ 70 · Gottfried Moritz", "tip": "№ 70 — 30 des 1438 saz"}, {"n": 71, "lat": 52.092187, "lon": 17.958872, "label": "№ 71 · Wilhelm Obst", "tip": "№ 71 — 4 des 2320 saz"}, {"n": 72, "lat": 52.096513, "lon": 17.96527, "label": "№ 72 · Christian Reich", "tip": "№ 72 — 16 des 955 saz"}, {"n": 73, "lat": 52.097886, "lon": 17.964558, "label": "№ 73 · Shvebs Ivan", "tip": "№ 73 — 8 des 2030 saz"}, {"n": 74, "lat": 52.105293, "lon": 17.950317, "label": "№ 74 · Gottlieb Haupt", "tip": "№ 74 — 6 des 531 saz"}, {"n": 75, "lat": 52.103988, "lon": 17.949147, "label": "№ 75 · Gottfried Haupt", "tip": "№ 75 — 18 des 79 saz"}, {"n": 76, "lat": 52.100562, "lon": 17.962885, "label": "№ 76 · Christian Haupt", "tip": "№ 76 — 8 des 1715 saz"}, {"n": 77, "lat": 52.100249, "lon": 17.964067, "label": "№ 77 · Gebel Kristiian", "tip": "№ 77 — 8 des 1082 saz"}, {"n": 78, "lat": 52.102618, "lon": 17.960672, "label": "№ 78 · Zelchak Foma", "tip": "№ 78 — 5 des 897 saz"}, {"n": 80, "lat": 52.097515, "lon": 17.88382, "label": "№ 80 · Wilhelm Vogel", "tip": "№ 80 — 3 des 1113 saz"}, {"n": 81, "lat": 52.108465, "lon": 17.927004, "label": "№ 81 · Wilhelm Schönfisch", "tip": "№ 81 — 30 des 459 saz"}, {"n": 81, "lat": 52.107734, "lon": 17.930243, "label": "№ 81 · Wilhelm Schönfisch", "tip": "№ 81 — 30 des 459 saz"}, {"n": 82, "lat": 52.108107, "lon": 17.886796, "label": "№ 82 · Stanisław Rogacki", "tip": "№ 82 — 10 des 19 saz"}, {"n": 83, "lat": 52.107885, "lon": 17.881099, "label": "№ 83 · Fetter Ivan", "tip": "№ 83 — 3 des 1150 saz"}, {"n": 84, "lat": 52.100681, "lon": 17.877111, "label": "№ 84 · heirs of Shtirtsenbekera", "tip": "№ 84 — 4 des 1684 saz"}, {"n": 86, "lat": 52.099515, "lon": 17.876675, "label": "№ 86 · Gottfried Haupt", "tip": "№ 86 — 4 des 588 saz"}, {"n": 87, "lat": 52.099347, "lon": 17.878766, "label": "№ 87 · Wilhelm Haupt", "tip": "№ 87 — 7 des 2330 saz"}, {"n": 89, "lat": 52.092038, "lon": 17.91566, "label": "№ 89 · heirs of Michał Tarnowski", "tip": "№ 89 — 2 des 1774 saz"}, {"n": 90, "lat": 52.109248, "lon": 17.925639, "label": "№ 90 · Rogovich Martin", "tip": "№ 90 — 2 des 749 saz"}, {"n": 91, "lat": 52.109261, "lon": 17.924158, "label": "№ 91 · Jan Marylski", "tip": "№ 91 — 4 des 2003 saz"}, {"n": 92, "lat": 52.10307, "lon": 17.911603, "label": "№ 92 · Village school", "tip": "№ 92 — 9 des 2219 saz"}, {"n": 93, "lat": 52.102687, "lon": 17.912052, "label": "№ 93 · Common cemetery", "tip": "№ 93 — 1 des 1320 saz"}], "page": "https://takaji10.github.io/triebenfeld-letters/maps/pelzucki1896/"};
+document.getElementById('rms').textContent = D.rms.toFixed(2);
+document.getElementById('pagelink').href = D.page;
+
+const map = L.map('map', { zoomAnimationThreshold: 1, maxZoom: 20 })
+window.map = map
+// the satellite base: Esri World Imagery (the image serves to z19 here;
+// deeper zoom upscales it)
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  maxZoom: 20, maxNativeZoom: 19,
+  attribution: 'Imagery &copy; <a href="https://www.esri.com/">Esri</a>, Maxar, Earthstar Geographics'
+}).addTo(map)
+
+// the warped plan, the annotation the editor has checked (georef.json)
+const layer = new WarpedMapLayer().addTo(map)
+window.warpLayer = layer
+const annotation = await (await fetch(D.georef)).json()
+await layer.addGeoreferenceAnnotation(annotation)
+layer.setOpacity(0.7)
+document.getElementById('op').addEventListener('input', e => layer.setOpacity(+e.target.value))
+try { const b = layer.getBounds(); if (b) map.fitBounds(b) } catch (e) {}
+
+// the farmsteads' labels: the committed marks of farms.yml, carried onto
+// the ground by the map's fit (the builder's note above)
+const group = L.layerGroup().addTo(map)
+D.marks.forEach(m => {
+  L.marker([m.lat, m.lon], {
+    icon: L.divIcon({ className: '', html: '<div class="farm-tag">' + m.label + '</div>', iconSize: null }),
+    keyboard: false
+  }).bindTooltip(m.tip).addTo(group)
+})
+const btn = document.getElementById('labels')
+btn.addEventListener('click', () => {
+  const on = btn.getAttribute('aria-pressed') !== 'true'
+  btn.setAttribute('aria-pressed', String(on))
+  if (on) group.addTo(map); else map.removeLayer(group)
+})
+</script>
+</body>
+</html>

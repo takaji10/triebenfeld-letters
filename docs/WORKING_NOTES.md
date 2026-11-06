@@ -3229,6 +3229,13 @@ Lessons:
   Morgen column's `1,643 M 138 r` was safe for exactly that reason).
   The general form: when two programs read one generated file, test the
   round trip through the SECOND reader, not the one that wrote it.
+- **A headless browser's failed-resource console error names no URL.**
+  The page's own favicon 404 read in the console exactly like a page
+  resource failing, and a filter on the message's text could not tell
+  them apart - the message carries no address at all. Watch the
+  responses instead (`page.on('response')`, status 400 and up, by URL)
+  and leave the console for exceptions and script errors
+  (scratch/map4456/check_sat_overlay.py).
 
 ## The genealogy explorer and the deployment prefix (2026-11-06)
 

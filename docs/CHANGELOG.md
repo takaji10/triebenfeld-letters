@@ -5020,3 +5020,21 @@ footer on every page. Changed, in both languages:
   sources leave in doubt, the reasoned-but-unsettled normalisations
   among them. jekyll and verify_site ALL CHECKS PASSED, the browser
   checks re-run (47/47, the hover and the explanation line among them).
+
+- The Pełzucki 1896 plan overlays a satellite image (2026-11-06, the
+  editor's ask: "an overlay on a satellite image instead of a vector map,
+  and include the farm labels"): scratch/map4456/sat_overlay.html, built
+  by build_sat_overlay.py, is the tiles repository's warp test
+  (warp.html, the Allmaps warp over OpenStreetMap) with the base changed
+  to Esri World Imagery and the 101 farmstead labels of farms.yml laid
+  over it - each mark's mosaic pixel carried to lat/lon by the map's own
+  order-1 fit (re-derived from georef.yml's control points; the fit block
+  carries no coefficients), the fit's RMS 2.71 m standing in the page's
+  note. The pills keep the site's farm layer's shape and naming rule
+  (the normalised spelling where the editor's reading is firm, the
+  transliteration where it is conjectural; the 1896 extent on hover).
+  A working page, not published; the headless check
+  (check_sat_overlay.py) loads it, counts the 101 pills and keeps the
+  screenshot. If the editor wants it on the site, it becomes a second
+  overlay link beside "Map over OpenStreetMap" (MAPS_SITE_PLAN, the
+  warp link) and the labels' conversion moves into the pipeline.
