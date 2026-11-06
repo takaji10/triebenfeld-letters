@@ -30,9 +30,17 @@
   let el
   let tx = $state(0), ty = $state(0), scale = $state(1)
   let dragging = null
-  let moved = 0   // pointer travel since pointerdown: a click is < 6px
   const pointers = new Map()
   let pinch = null
+  // what a press landed on, decided at pointerdown: the viewport keeps
+  // the pointer captured while it pans (that is what makes a drag track
+  // outside the frame), and a captured pointer retargets every later
+  // pointer event AND the click that follows it to the capture element -
+  // so neither pointerup nor click ever reaches the cards in Firefox or
+  // any other spec-following browser. The card under the press is read
+  // here (data-pid attributes on the card groups), and the action runs
+  // at pointerup when the pointer travelled less than a click's worth.
+  let press = null
 
   function onWheel(e) {
     // scroll zooms the chart (the hint below the chart says so); pinch
@@ -48,8 +56,14 @@
   function down(e) {
     el.setPointerCapture?.(e.pointerId)
     pointers.set(e.pointerId, { x: e.clientX, y: e.clientY })
-    moved = 0
+    const card = e.target?.closest?.('[data-pid]')
+    press = pointers.size === 1 && card
+      ? { id: card.getAttribute('data-pid'),
+          chev: !!e.target.closest('.chev'),
+          x: e.clientX, y: e.clientY }
+      : null   // two fingers is a pinch, never a click
     if (pointers.size === 2) {
+      press = null
       const [a, b] = [...pointers.values()]
       pinch = { d: Math.hypot(a.x - b.x, a.y - b.y), s0: scale, tx0: tx, ty0: ty,
                 mx: (a.x + b.x) / 2 - el.getBoundingClientRect().left,
@@ -72,14 +86,24 @@
     } else if (dragging) {
       tx += e.clientX - prev.x
       ty += e.clientY - prev.y
-      moved += Math.abs(e.clientX - prev.x) + Math.abs(e.clientY - prev.y)
+      // a drag cancels the press: this was a pan, not a click
+      if (press && Math.hypot(e.clientX - press.x,
+                              e.clientY - press.y) >= 6) press = null
     }
   }
   function up(e) {
-    pointers.delete(e.pointerId)
+    const was = press
+    if (pointers.get(e.pointerId)) pointers.delete(e.pointerId)
     if (pointers.size < 2) pinch = null
-    if (pointers.size) return
+    if (pointers.size) { press = null; return }
     dragging = null
+    press = null
+    if (e.type !== 'pointerup' || !was) return
+    // a click: pointer stayed under 6px from press to release
+    if (Math.hypot(e.clientX - was.x, e.clientY - was.y) < 6) {
+      if (was.chev) gotoPerson(was.id)
+      else reroot(was.id)
+    }
   }
 
   let lastKey = ''
@@ -156,6 +180,7 @@
           {#each chart.nodes as n (n.id + '@' + n.y)}
             {@const v = db.index[n.id]}
             <g class="node" class:living={v?.L}
+               data-pid={n.id}
                transform="translate({n.x},{n.y})">
               <rect width={CARD_W} height={CARD_H} rx="4"
                     stroke={n.focus ? 'var(--accent)'
@@ -172,8 +197,10 @@
               <text x={CARD_W / 2} y="45" text-anchor="middle" class="pid">
                 {n.id}
               </text>
+              <rect width={CARD_W} height={CARD_H} fill="transparent"
+                    class="hit" />
               {#if n.spouse}
-                <g transform="translate({CELL},0)">
+                <g transform="translate({CELL},0)" data-pid={n.spouse}>
                   <rect width={CARD_W} height={CARD_H} rx="4"
                         stroke={db.index[n.spouse]?.sx === 'F' ? '#9c5470'
                           : db.index[n.spouse]?.sx === 'M' ? '#46618a'
@@ -190,18 +217,18 @@
                   <text x={CARD_W / 2} y="45" text-anchor="middle" class="pid">
                     {n.spouse}
                   </text>
+                  <rect width={CARD_W} height={CARD_H} fill="transparent"
+                        class="hit" />
                 </g>
               {/if}
               {#if !n.focus}
-                <g class="chev" onclick={(e) => { e.stopPropagation(); if (moved < 6) gotoPerson(n.id) }}>
+                <g class="chev">
                   <circle cx={CARD_W - 4} cy={CARD_H + 1} r="9"
                           fill="var(--accent)" opacity="0.85" />
                   <text x={CARD_W - 4} y={CARD_H + 5} text-anchor="middle"
                         fill="#fff" class="che">›</text>
                 </g>
               {/if}
-              <rect width={n.w * CELL} height={CARD_H} fill="transparent"
-                    class="hit" onclick={(e) => { e.stopPropagation(); if (!n.focus && moved < 6) reroot(n.id) }} />
             </g>
           {/each}
         </g>

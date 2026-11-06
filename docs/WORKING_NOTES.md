@@ -3326,13 +3326,17 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   function on raw data wraps it halfway and the nodeSize accessor meets
   a node without .data.
 - **setPointerCapture retargets every later pointer event to the
-  capture element, killing all child pointerup handlers.** The tree
-  viewport captured the pointer for panning and the cards' onpointerup
-  never fired - clicks did nothing while drags worked, the inverse of
-  what a user expects. Route clicks through the click event (unretar-
-  geted), and separate click from drag by pointer travel (< 6px).
-  General rule: within a pan/zoom surface, never hang interaction on
-  pointerup of a child element.
+  capture element - click included.** The tree viewport captured the
+  pointer for panning and the cards' onpointerup never fired. Moving
+  the handlers onto click failed the same way: the Pointer Events spec
+  retargets the compatibility mouse events (click, auxclick,
+  contextmenu) to the capture element too, and Firefox follows the
+  spec. When a surface must both pan and host clickable children, do
+  not hang the clicks on the children's events at all: read the target
+  under the press at pointerdown (closest on data attributes), decide
+  click-vs-drag by pointer travel at pointerup, and run the action from
+  the container's own handlers - capture then harms nothing.
+
 
 
 

@@ -5009,12 +5009,20 @@ footer on every page. Changed, in both languages:
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what
   keeps a drag tracking outside the viewport - and a captured pointer
-  retargets every later pointer event to the viewport, so the cards'
-  onpointerup never fired: neither the card's re-root nor the corner
-  chevron's jump to the person page. Both targets now listen to click,
-  which pointer capture does not retarget, and a card click only counts
-  when the pointer travelled under 6px between press and release - a
-  drag ending on a card pans, it does not navigate.
+  retargets every later pointer event to the viewport. The first fix
+  moved the handlers to click - which per the Pointer Events spec is
+  retargeted to the capture element as well (it is a compatibility
+  mouse event derived from the captured pointerdown/up), so Firefox
+  swallowed it too and the editor reported the clicks still dead. The
+  working design hangs no interaction on the cards at all: the viewport
+  reads, at pointerdown, which card the press landed on (data-pid
+  attributes on the card groups, found with closest) and whether it was
+  the corner chevron; at pointerup, if the pointer travelled under 6px,
+  the recorded card's action runs - re-root-and-centre, or open the
+  person page. A drag cancels the press (6px threshold), a second
+  finger cancels it (pinch), pointercancel cancels it. Each card now
+  carries its own hit rect, so the spouse card is its own click target
+  instead of being covered by the couple's shared one.
 
 
 
