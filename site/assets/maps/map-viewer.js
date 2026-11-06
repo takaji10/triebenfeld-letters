@@ -40,7 +40,6 @@ better scan does not move them.
   var reds = M.reds || [];
   var farmTags = {};
   var redTags = [];
-  var plotsSvg = null;     // the farm plots' SVG overlay, toggled whole
   // the page's language (the DE pages are separate pages): the
   // institution labels speak it
   var ML = document.documentElement.lang || 'en';
@@ -174,11 +173,6 @@ better scan does not move them.
       var linked = hideLinked && !t.unsure && t.n != null && farmTags[t.n];
       t.el.classList.toggle('gone', !(redOn && !linked));
     });
-    if (plotsSvg) {
-      var plotsOn = plotsLayerBtn &&
-        plotsLayerBtn.getAttribute('aria-pressed') === 'true';
-      plotsSvg.classList.toggle('gone', !plotsOn);
-    }
   }
   function farmLayerOn(on) {
     if (!farmLayerBtn) return;
@@ -274,54 +268,6 @@ better scan does not move them.
         applyLayers();
       });
     }
-  }
-
-  // ---- the farm plots, drawn as one SVG over the whole mosaic -------------
-  // The editor's outlines of each owner's land (maps/<key>/polygons.yml),
-  // scaled to the image exactly: the SVG's viewBox is the mosaic's pixel
-  // box, so a polygon's points in image pixels land on the map at every
-  // zoom. A quiet fill; the stroke keeps its screen width (vector-effect).
-  // A layer of its own beside the names and the red numbers, on by default.
-  var plotsLayerBtn = document.getElementById('plots-layer');
-  var plots = (farms.polygons || []);
-  if (plots.length && plotsLayerBtn) {
-    viewer.addHandler('open', function () {
-      var NS = 'http://www.w3.org/2000/svg';
-      var svg = document.createElementNS(NS, 'svg');
-      svg.setAttribute('class', 'map-plots-svg');
-      svg.setAttribute('viewBox', '0 0 ' + M.width + ' ' + M.height);
-      svg.setAttribute('preserveAspectRatio', 'none');
-      var nmByN = {};
-      (farms.marks || []).forEach(function (f) { nmByN[f.n] = f; });
-      plots.forEach(function (p) {
-        var poly = document.createElementNS(NS, 'polygon');
-        poly.setAttribute('class', 'plot');
-        poly.setAttribute('points',
-          p.pts.map(function (pt) { return pt[0] + ',' + pt[1]; }).join(' '));
-        if (p.farm) {
-          poly.setAttribute('data-farm', p.farm);
-          var f = nmByN[p.farm];
-          var label = '\u2116 ' + p.farm +
-            (f && (f.name_norm || f.name) ? ' \u00b7 ' + (f.name_norm || f.name) : '');
-          var ti = document.createElementNS(NS, 'title');
-          ti.textContent = label;
-          poly.appendChild(ti);
-        }
-        svg.appendChild(poly);
-      });
-      var ir = new OpenSeadragon.Rect(0, 0, M.width, M.height);
-      viewer.addOverlay({
-        element: svg,
-        location: viewer.viewport.imageToViewportRectangle(ir),
-        rotationMode: OpenSeadragon.OverlayRotationMode.NO_ROTATION
-      });
-      plotsSvg = svg;
-      applyLayers();   // the SVG takes the button's state (on by default)
-    });
-    plotsLayerBtn.addEventListener('click', function () {
-      layerOn(plotsLayerBtn, plotsLayerBtn.getAttribute('aria-pressed') !== 'true');
-      applyLayers();
-    });
   }
 
   // ---- the boundary walk, drawn on the map --------------------------------

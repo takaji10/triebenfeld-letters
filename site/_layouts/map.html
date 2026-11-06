@@ -169,9 +169,6 @@ layout: default
       {%- if m.farms and m.farms.marks.size > 0 %}
       <button type="button" class="vbtn" id="farm-layer" aria-pressed="true">{{ t.map_farms_layer }}</button>
       {%- endif %}
-      {%- if m.farms and m.farms.polygons and m.farms.polygons.size > 0 %}
-      <button type="button" class="vbtn" id="plots-layer" aria-pressed="true">{{ t.map_plots_layer }}</button>
-      {%- endif %}
       {%- if m.reds and m.reds.size > 0 %}
       <button type="button" class="vbtn" id="reds-layer" aria-pressed="false">{{ t.map_reds_layer }}</button>
       {%- if m.farms and m.farms.marks.size > 0 %}
@@ -469,7 +466,7 @@ html[data-ml="de"] .ml-pl { display: none; }
 .farm-tag { font-family: var(--sans); font-size: 11px; line-height: 1.25; padding: 2px 8px; background: rgba(122, 59, 46, .92); color: #fff; border-radius: 10px; cursor: pointer; white-space: nowrap; box-shadow: 0 1px 3px rgba(0, 0, 0, .3); }
 .farm-tag:hover, .farm-tag.is-on { background: #4d241b; }
 .farm-tag:focus-visible { outline: 2px solid #fff; outline-offset: 1px; }
-#farm-layer[aria-pressed="true"], #plots-layer[aria-pressed="true"], #reds-layer[aria-pressed="true"], #reds-linked[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+#farm-layer[aria-pressed="true"], #reds-layer[aria-pressed="true"], #reds-linked[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
 /* A hidden overlay: a class with !important, because the viewer's own
    drawHTML writes style.display="block" on every redraw - an inline none
    did not survive the first zoom, and the hidden labels came back. */
@@ -480,12 +477,6 @@ html[data-ml="de"] .ml-pl { display: none; }
    uncertain readings marked by their own [?] and tooltip, not by colour */
 .red-tag { font-family: var(--sans); font-size: 10px; line-height: 1.2; padding: 1px 5px; background: rgba(96, 96, 100, .88); color: #fff; border-radius: 8px; white-space: nowrap; box-shadow: 0 1px 2px rgba(0, 0, 0, .25); pointer-events: auto; }
 .red-tag.unsure { background: rgba(96, 96, 100, .88); }
-/* the farm plots: the editor's outlines of each owner's land, one SVG
-   overlay scaled to the whole mosaic - a quiet fill, a line that keeps
-   its screen width at every zoom (vector-effect), and a native tooltip */
-.map-plots-svg { position: absolute; inset: 0; overflow: visible; }
-.map-plots-svg polygon.plot { fill: rgba(122, 59, 46, .07); stroke: rgba(122, 59, 46, .55); stroke-width: 1.5px; vector-effect: non-scaling-stroke; }
-.map-plots-svg polygon.plot:hover { fill: rgba(122, 59, 46, .16); }
 /* the table's proper-spelling column: the conjectural rows carry an
    asterisk with the note as a tooltip */
 .farm-norm { font-weight: 600; }

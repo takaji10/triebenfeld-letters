@@ -4,10 +4,10 @@ and document 6's translation table with the proper names.
 
 Serves site/_site statically, drives it in headless Edge, and checks:
   - the map page's layer buttons and their defaults (farm names ON,
-    farm plots ON, red numbers OFF)
+    red numbers OFF; the farm-plots layer is GONE - the editor retired
+    the drawn polygons, 2026-11-06)
   - the farm pills carry the proper spellings; institutions speak the
     page's language
-  - the plots SVG renders 44 polygons; toggling works
   - red pills are grey; toggling them on works
   - the settlers' table has the Proper spelling column, conjectural rows
     marked with *
@@ -64,19 +64,14 @@ def main():
             return page.locator('#' + pid).get_attribute('aria-pressed')
 
         check('farm names layer is ON by default', pressed('farm-layer') == 'true')
-        check('farm plots layer is ON by default', pressed('plots-layer') == 'true')
+        check('the farm-plots layer is gone (retired 2026-11-06)',
+              page.locator('#plots-layer').count() == 0
+              and page.evaluate(
+                  "document.querySelectorAll('.map-plots-svg').length") == 0)
         check('red numbers layer is OFF by default',
               pressed('reds-layer') == 'false')
         n_pills = page.evaluate("document.querySelectorAll('.farm-tag').length")
         check('farm pills render (%d)' % n_pills, n_pills == 101)
-        n_plots = page.evaluate(
-            "document.querySelectorAll('.map-plots-svg polygon.plot').length")
-        check('the plots SVG renders 44 polygons', n_plots == 44,
-              '%d polygons' % n_plots)
-        plots_visible = page.evaluate(
-            "!document.querySelector('.map-plots-svg')"
-            ".classList.contains('gone')")
-        check('the plots SVG is visible by default', plots_visible)
 
         # proper spellings on the pills
         pill2 = page.locator('.farm-tag[data-farm="2"]').first
@@ -115,14 +110,6 @@ def main():
         check('conjectural rows carry the asterisk mark (%d)' % conj,
               conj > 10, '%d marked' % conj)
 
-        # plots toggle off hides the SVG
-        page.click('#plots-layer')
-        time.sleep(0.4)
-        check('the plots toggle hides the SVG',
-              page.evaluate("document.querySelector('.map-plots-svg')"
-                            ".classList.contains('gone')"))
-        page.click('#plots-layer')
-
         check('EN map page: no page errors', not errs, '; '.join(errs[:2]))
         page.close()
 
@@ -141,9 +128,6 @@ def main():
         t92 = inst.inner_text() or ''
         check('DE page: the school’s pill speaks German (Dorfschule)',
               'Dorfschule' in t92, t92[:60])
-        btn = page.locator('#plots-layer').inner_text()
-        check('DE page: the plots button reads Grundstücke',
-              'Grundstücke' in btn, btn)
         heads = page.eval_on_selector_all(
             '.farm-table th', 'els => els.map(e => e.textContent.trim())')
         check('DE page: the proper-spelling column reads '

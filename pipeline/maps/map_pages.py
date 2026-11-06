@@ -258,15 +258,6 @@ def main():
                 'marks': marks,
                 'rows': rows,
             }
-        # The farm plots (maps/<key>/polygons.yml): the outlines the editor
-        # drew of each owner's land, drawn on the map's page as an SVG
-        # overlay scaled to the whole mosaic, a layer of its own.
-        polys_p = os.path.join(MAPS_DIR, key, 'polygons.yml')
-        if os.path.isfile(polys_p):
-            polys = read_yaml(polys_p)
-            out_maps[key]['farms']['polygons'] = polys.get('polygons') or []
-            out_maps[key]['farms']['poly_calibration'] = \
-                polys.get('calibration') or {}
         # The red numbers, the statement's row numbers on each parcel
         # (maps/<key>/reds.yml): shown as a second layer of the map's page,
         # toggleable beside the farmsteads' name labels.

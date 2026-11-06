@@ -3211,3 +3211,12 @@ Lessons:
   (2026-11-06): the imported labels and field numbers, the plots layer, the
   grey ruling, the proper names on the map and in document 6's translation,
   the 14-suite battery and the real-browser check of the built site.
+- **Retiring a feature the editor drew by hand is a one-line revert if the
+  data file stayed separate.** The farm plots lived in their own
+  maps/pelzucki1896/polygons.yml with the carry-through isolated in one
+  `if os.path.isfile` block, so the editor's "this method wasn't reliable,
+  take it off the map" cost: delete the file, drop the block, lift the
+  button/CSS/JS out, rerun the builder. Keep each experimental layer's data
+  and plumbing separable like this - the judgement about the method (the
+  polygons drifted from the parcels) need not burn the work that fed it
+  (the drawing tool and its JSON stay in scratch/map4456/ as the record).

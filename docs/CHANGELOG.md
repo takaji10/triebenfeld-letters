@@ -4690,3 +4690,16 @@ footer on every page. Changed, in both languages:
   the three layers' defaults, the 44 polygons, the grey pills, the proper
   spellings on both language pages, the proper-spelling column, document
   6's translation table and its untouched Cyrillic).
+- Retired at the editor's word (the same day, 2026-11-06): the farm plots
+  layer. The polygons she drew over the mosaic proved an unreliable way to
+  carry the farm boundaries, and the page shows them no longer -
+  maps/pelzucki1896/polygons.yml deleted, the plots toggle, its SVG overlay
+  and its styles lifted out of the map layout and viewer, the
+  polygons/poly_calibration keys out of map_pages.py and site/_data/
+  maps.yml, the map_plots_layer strings out of i18n.yml. The farm names
+  and the grey field numbers stand as before (names on, numbers off by
+  default); the drawing tool itself remains under scratch/map4456/ as the
+  record of the attempt. Verified as the whole map page was: jekyll,
+  verify_site ALL CHECKS PASSED (61,775 links), and the real-browser
+  checks - the plots button and SVG asserted absent, everything else
+  unchanged (22/22).
