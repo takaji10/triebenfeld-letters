@@ -2320,6 +2320,14 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 
 
+[^125-1]: Razem z Mostowskimi Ol.
+
+[^125-2]: Razem z Ol. Szarki.
+
+[^125-3]: Razem z Ol. Sosnowiec.
+
+
+
 
 
 

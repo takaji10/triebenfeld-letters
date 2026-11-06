@@ -55,6 +55,16 @@ RAZEM = {
 }
 
 NOTES = {
+    # the block prints directly below sheet 0140's table (glued into
+    # r29's cells by the OCR). The superscript refs 1/2/3 were not
+    # found in the scan (candidates: r14/r15 Borujskie - Szarki per
+    # [^91-7]; r27 Dąbrówka - Mostowskie, both Gnin parish; r17
+    # Bystrek - Sosnowiec, both Śrem parish) -> SPOT item.
+    '0140': [
+        (1, 'Razem z Mostowskimi Ol.'),
+        (2, 'Razem z Ol. Szarki.'),
+        (3, 'Razem z Ol. Sosnowiec.'),
+    ],
     '0144': [
         (1, 'Nie jest rzeczą całkiem pewną, czy osada Pożegowskie Ol. '
             'należała do osad typu olęderskiego. Wiadomości źródłowe '
