@@ -4744,6 +4744,21 @@ footer on every page. Changed, in both languages:
   a farm Locate from the farmsteads pane still flies the map, and a
   farm focus brings its tab forward first. jekyll and verify_site ALL
   CHECKS PASSED (61,294 links), the real-browser checks re-run (41/41).
+- The legend trimmed and the settlers' names re-formed, at the editor's
+  word (2026-11-06): the legend's own title ("Explanation of the signs" /
+  Erklärung der Zeichen) shows no longer - the section heading and the
+  language tabs say what is what, so the legend table needs no language
+  column of its own either; and every settler's name now reads given
+  name, surname (Jakub Kończyński, Martin Gibel, Karl Benjamin Schwebs),
+  the Russian transliterations' surname-first order not carried into the
+  display - 82 rows re-formed in farms.yml, the map's pills and document
+  6's translation table following (apply_doc6_names.py re-run, 82 names
+  synced). The bracketed markers are off the display names too: rows 12
+  and 25 read Gottlieb Śliwiński and Szczepan Promins, row 77 Christian
+  Haupt - the doubt stays where it belongs, in the conjectural asterisk
+  and the row's note; row 12's collation had found all three witnesses
+  agreeing, so the display ruling lifts the pending doubt there (its
+  norm_note records it), while 25 and 77 keep their asterisks.
 - The page restructured to the editor's tab plan (2026-11-06): the index
   of places back in the sidebar, close to the top as on the other maps'
   pages, and everything below the map under four tabs - Texts on the

@@ -77,14 +77,14 @@ def main():
         n_pills = page.evaluate("document.querySelectorAll('.farm-tag').length")
         check('farm pills render (%d)' % n_pills, n_pills == 101)
 
-        # proper spellings on the pills
+        # proper spellings on the pills, given name first
         pill2 = page.locator('.farm-tag[data-farm="2"]').first
-        check('farm 2’s pill carries the proper spelling',
-              'Gibel' in (pill2.inner_text() or ''),
+        check('farm 2’s pill reads Martin Gibel',
+              'Martin Gibel' in (pill2.inner_text() or ''),
               (pill2.inner_text() or '')[:60])
         pill81 = page.locator('.farm-tag[data-farm="81"]').first
-        check('farm 81’s pill reads Schönfisch',
-              'Schönfisch' in (pill81.inner_text() or ''),
+        check('farm 81’s pill reads Wilhelm Schönfisch',
+              'Wilhelm Schönfisch' in (pill81.inner_text() or ''),
               (pill81.inner_text() or '')[:60])
 
         # red pills grey, off by default, come on with the toggle
@@ -101,6 +101,18 @@ def main():
         check('the red pills are grey now', bg in
               ('rgba(96, 96, 100, 0.88)', 'rgb(96, 96, 100)'), str(bg))
         page.click('#reds-layer')
+
+        # the legend: no "Explanation of the signs" line, no language
+        # column under the items - the tabs carry the language
+        check('the legend has no title line and no language column',
+              page.locator('.map-legend-title').count() == 0
+              and page.evaluate(
+                  "document.querySelectorAll('.legend-table thead').length")
+              == 0)
+        check('the legend still shows its items',
+              page.evaluate(
+                  "document.querySelector('.legend-table')"
+                  ".textContent.includes('Buildings')"))
 
         # ---- the tab system ---------------------------------------------
         tabs = page.eval_on_selector_all(
@@ -133,13 +145,21 @@ def main():
               str(heads) == "['No.', 'Settler', 'Holding', 'Farmsteads']",
               str(heads))
         row2 = page.locator('#farm-2').inner_text()
-        check('row 2 shows Gibel Martin with hectares',
-              'Gibel Martin' in row2 and 'Gebel' not in row2
+        check('row 2 shows Martin Gibel with hectares',
+              'Martin Gibel' in row2 and 'Gebel' not in row2
               and '(16.7 ha)' in row2.replace('\u00a0', ' '),
               row2.replace('\n', ' | ')[:110])
         row1 = page.locator('#farm-1').inner_text()
-        check('row 1 keeps its conjectural asterisk and tooltip',
-              'Kończyński Jakub*' in row1, row1[:80])
+        check('row 1 reads given name first (Jakub Kończyński)',
+              'Jakub Kończyński' in row1 and 'Kończyński Jakub' not in row1,
+              row1[:80])
+        row12 = page.locator('#farm-12').inner_text()
+        check('row 12 shows the settled reading, no brackets',
+              'Gottlieb Śliwiński' in row12 and 'uncertain' not in row12
+              and '[' not in row12, row12[:80])
+        row25 = page.locator('#farm-25').inner_text()
+        check('row 25 keeps its asterisk, brackets gone',
+              'Szczepan Promins*' in row25 and '[' not in row25, row25[:80])
         row92 = page.locator('#farm-92').inner_text()
         check('row 92 shows the school’s English label',
               'Village school' in row92 and 'Szkoła' not in row92,

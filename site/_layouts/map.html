@@ -124,17 +124,15 @@ layout: default
         <button type="button" class="vbtn ml-tab" data-ml="{{ orig_lang }}" aria-pressed="{% if ml_default == orig_lang %}true{% else %}false{% endif %}">{% if orig_lang == 'ru' %}{{ t.map_tab_ru }}{% else %}{{ t.map_tab_pl }}{% endif %}</button>
         <button type="button" class="vbtn ml-tab" data-ml="de" aria-pressed="{% if ml_default == 'de' %}true{% else %}false{% endif %}">{{ t.map_lang_de }}</button>
       </div>
-      <p class="map-legend-title">
-        {%- for pane in panes %}
-        {%- if pane == orig_lang %}{% assign lt = m.legend.title.orig | default: m.legend.title[pane] %}{% else %}{% assign lt = m.legend.title[pane] %}{% endif %}
-        <span class="ml ml-{{ pane }}"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>{{ lt }}</span>
-        {%- endfor %}
-      </p>
+      {%- comment -%}
+        The legend title as the sheet carries it (the title in
+        legend.yml) stays part of the sheet's record but does not show:
+        the section heading says Legend, the language tabs say which
+        reading is which (the editor, 2026-11-06), and the translation
+        panes' table carries no language column of its own.
+      {%- endcomment -%}
       {%- for pane in panes %}
       <table class="legend-table ml ml-{{ pane }}"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>
-        {%- if pane != orig_lang %}
-        <thead><tr><th scope="col"><span class="visually-hidden">{{ t.map_legend_h2 }}</span></th><th scope="col">{% if pane == 'en' %}{{ t.map_lang_en }}{% else %}{{ t.map_lang_de }}{% endif %}</th></tr></thead>
-        {%- endif %}
         <tbody>
         {%- assign prev_grouped = false -%}
         {%- for row in m.legend.rows %}
@@ -343,11 +341,8 @@ layout: default
    thinner darker line on the remaining sides) */
 .map-legend { margin: 1.6rem 0 1.6rem; }
 .map-legend h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
-.map-legend-title { margin: 0 0 .5rem; font-size: .92rem; }
 .legend-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .legend-table th, .legend-table td { padding: .28rem .4rem; text-align: left; vertical-align: middle; }
-.legend-table thead th { font-family: var(--sans); font-size: .72rem; font-weight: 400; color: var(--thead-ink); border-bottom: 1px solid var(--rule); }
-.legend-table thead th:first-child { width: 3.8rem; }
 .legend-group th { padding-top: .8rem; font-weight: 600; border-bottom: 1px solid var(--rule); }
 .legend-solo td, .legend-solo th { padding-top: .8rem; border-bottom: 1px solid var(--rule); }
 .legend-gap td { padding: .5rem 0 0; border-bottom: 1px solid var(--rule); }
