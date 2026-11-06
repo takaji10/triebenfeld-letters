@@ -77,5 +77,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # timeout: the Pages backend slowed (2026-11-06) and the action's
+      # 5-minute status poll gave up while the deployment was still
+      # syncing_files - four deploys in a row died at the same step, the
+      # reruns included. 20 minutes lets a slow sync finish.
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1200000
