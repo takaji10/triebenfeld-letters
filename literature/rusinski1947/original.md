@@ -2438,7 +2438,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 71 | Popowo | Wilkowo Polskie | Stare Popowo | 1730(?) | wieś 1 folw. z budynkami | Rel. (Cost. nr 174, r. 1739, fol. 1118 | lo VIII 1736 | 1Y | — | 1ZY |
 
-| 72 | Pożegowskie Olędry 1 | Mosina | Pożegowo | — | — | — | ny. PRE we e TT YN | Y | gaz | jęz MIR |
+| 72 | Pożegowskie Olędry[^129-1] | Mosina | Pożegowo | — | — | — | ny. PRE we e TT YN | Y | gaz | jęz MIR |
 
 | 73 | Proszkowo Olędry | Prochy | Pruszkowo | 1746 | wieś opustoszała | AW. A. 1 | 1/ Y 1140 | 15 | — | OJ |
 
@@ -2482,6 +2482,10 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 
 
+[^129-1]: Nie jest rzeczą całkiem pewną, czy osada Pożegowskie Ol. należała do osad typu olęderskiego. Wiadomości źródłowe przedstawiają się tu następująco: MP: Hol. Pożegowskie. — MG i MGd: Pożegowo (wieś). — Tp. 75: Olędry Pożegowskie, d. 18. — O 83, XVIII: Holędry Pożegowskie. — VO 84 (16—19. II 1783): „wieś z folwarkiem, 4 inquilini... agros colentes”. — Toł., Tp. 89 i OWK 89: brak. — Rel. Cost. nr 222, r. 1789, fol. 258, osada wsi: Walenty komornik, komornica Magdalena, Sebestyan chałupnik, Jan owczarz, Łukasz chałupnik, Maciejowa komornica, Antoni sołtys chałupnik, Jan komornik, Mikołaj gościnny, komornica Naganianka, Stanisław rybak, Sobestyan komornik. — TV: Pożegowe, wieś, folw., owczarnia, karczma, d. 9. Ciągłe zmniejszanie się dymów wskazywałyby na to, że być może, uczyniono tutaj próbę skolonizowania wsi na prawie olęderskim, jednak z niewiadomych przyczyn wieś powoli pustoszała, aż około r. 1793 (TV) znowu część ról wiejskich obrócono na folwark.
+
+
+
 
 
 
@@ -2494,7 +2498,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 87 | Sowińskie Olędry | Mosina | Sowinki | 1742 | las | DWZP nr ZY, s. 211 | LI4Żż | p | li | 2 ge dg |
 
-| 88 | Sroczewo Olędry ! | Książ | Sroczewo | 1/45 | role częścią zarosłe | Rei. Posn. nr 633, r. 1790, fol. 270 | b LIL 1145 | 2h | — | x |
+| 88 | Sroczewo Olędry[^131-1] | Książ | Sroczewo | 1/45 | role częścią zarosłe | Rei. Posn. nr 633, r. 1790, fol. 270 | b LIL 1145 | 2h | — | x |
 
 | 89 | Starodąbrowskie Olędry | Opalenica | Dąbrowa |   | — |   | << „5 ie 4 c" | 40 | — |   |
 
@@ -2553,6 +2557,14 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 | 110 | Zdrogową Olędry | Gosścieszyn | Zdrogowo | — | — | mc | z—e 0 | 13 | — | 11 |
 
 | 111 | Żabińskie Olędry | Żabno | Żabinko | 1778 | — | Cieplucha, s. 283 | Gym A cMceJZJZJZJcijzru Z ZŻZAX3ZZJZZ vo | 31 |   | 2206 |
+
+| **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.386 | 92 | 12.967 |
+
+
+
+[^131-1]: Sroczewskie Olędry powstały z dawnej wsi Sroczewa i osadzonej na części jej gruntów kolonii olęderskiej. Były więc z początku osadą mieszaną. Przed r. 1789 starzy mieszkańcy zostali prawdopodobnie przeniesieni na prawo olęderskie i przyłączeni do gminy olędrów. Wynika to z wzmianek źródłowych: VO 78 — „Nova Colonia Sroczewskie Holędry i Sroczewo cum colonistis et cum molendino aquatico”; O 83 XX — „Sroczewo wioska z Olędrami”; Tp. 89 — Sroczewo Olędry d. 22; Tp. 89 i 90 — Hol. Sroczewo d. 22; OWK 89 — „Sroczewo wieś czyli Olędry dziedziczne”; MP — Holendry Sroczewskie; MG i MGd. — Sroczewo Holl. W chwili regulacji (AGH sąd Śrem, majętn. Książ, vol. I, fol. XVI i nast.) wszyscy mieszkańcy są oczynszowani i siedzą na równych prawach.
+
+[^131-2]: Razem z Ol. Góry.
 
 
 
@@ -2704,7 +2716,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 51 | Kobus Olędry | Biezdrowo | Kobus | I (36 e | — | AGH£l.s. Wronki,maj. Kobus, XIX.430 fol. 13 | L(JO 1 8 I 1746 | 0 | — | — |
 
-| 52 | Kolędzin Olędry ! | Budziszewko | Kołędzin | — | — |   | y=" 2 a u © c | FL p | — | — |
+| 52 | Kolędzin Olędry[^137-1] | Budziszewko | Kołędzin | — | — |   | y=" 2 a u © c | FL p | — | — |
 
 | 53 | Komorowskie Olędry | Lwówek | Komorowice | 1707 | las | Kel. Fosn. nr 645, r. 1793, fol. 101 | 9 VI 1707 | 4 l | — | — |
 
@@ -2800,7 +2812,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 87 | Nowawieś Olędry | Poznań, św. Wojciech | Nowawieś Dolna | 1748 (?) | — | AGH. Poznań, m. Nowawieś, vol.IV,fol.11 | 6 IV 1748 | h | — |   |
 
-| 88 | Nowe al. Wielkokrobiclewskie Olędry ? | Goraj | Krobielewo | EE | — | AW. A. 1-0 | 18 VII 1661; 81 II! 1672; 23 II 1691; XM 1700 i 1 JIL1701 | 29 | — | — |
+| 88 | Nowe al. Wielkokrobiclewskie Olędry[^137-2] | Goraj | Krobielewo | EE | — | AW. A. 1-0 | 18 VII 1661; 81 II! 1672; 23 II 1691; XM 1700 i 1 JIL1701 | 29 | — | — |
 
 | 89 | Nowe Olędry | (Jborniki | Nowołoskoniec | 1746 | zarośla | AW. B. 154 | 1746 | 15 | — | — |
 
@@ -2809,6 +2821,12 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 | 91 | Nowosileńskie Olędry | Pszczew | w L] Nowa Silna | l | — | — | — | 38 | — | — |
 
 | 92 | Nowydom | Skwierzyna | Y 2 NoOwy Dwór | m | — | — | — | — | Ó | — |
+
+
+
+[^137-1]: Jest rzeczą wątpliwą, czy były to dwie odrębne osady.
+
+[^137-2]: Osada wyrosła z dwóch odrębnych osiedli: 1. Olędrów Krobielewskich powstałych na miejscu dawnego Krobielewa. Pierwszy przywilej datuje się z r. 1661 — przywilej z r. 1672 jest przywilejem późniejszym dla tej samej osady. A.O. Nath, Die Gründung der Gemeinde Grosskrebbel. Grenzmärkische Heimatblätter, roczn. 14, s. 115, niesłusznie łączy z nim powstanie olędrów. Zaznaczyć należy, że autor ten, publikując przywilej w j. niemieckim, przemilczał, że oryginał wystawiony został w j. polskim; 2. Olędrów założonych na miejscu dawnej wsi Baba i tak też nazwanych przez założyciela. Ta ostatnia nazwa nie utrzymała się, a osady zlały się w jedną, przyjmując wspólną nazwę Nowe al. Wielkokrobielewskie Olędry.
 
 
 
@@ -2904,7 +2922,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 121 | Słonawskie Olędry | Oborniki | Słonawy | 1700 | las, zarosła | Rel. Posn. nr 635; r. 1790, fol. 316 | I I 1707 | 9 | — | — |
 
-| 122 | S$molary Olędry ! | Budziszewko | Smolarki | — | eny o | — | — | 20 | — | — |
+| 122 | S$molary Olędry[^141-1] | Budziszewko | Smolarki | — | eny o | — | — | 20 | — | — |
 
 | 123 | Sowiagóra Olędry | Międzychód | Sowia Góra | 1702 ?) | — | AW. B.2,C.2 | 16 II 1702 | 12 | — | — |
 
@@ -2954,15 +2972,19 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 140 | Węgielna Olędry | Lwówek | Węgielna | 1718 | las | Rel. Posn. nr 641, r. 1792, fol. 823 | 10 XI 17186 | 34 | — | — |
 
-| 141 | Wiewierczyn Olędry ! | Budziszewko | razem z Budziszewicami |   | — | — | — | — | — | — |
+| 141 | Wiewierczyn Olędry[^141-1] | Budziszewko | razem z Budziszewicami |   | — | — | — | — | — | — |
 
 | 142 | Wizany | Wieleń | Wizany | między r. 1718 a 1741 | — | — | — | — | — | 17 |
 
-| 143 | Władyszyn Olędry ! | Budziszewko | Władyszyn | — | — | — | — | — | — | — |
+| 143 | Władyszyn Olędry[^141-1] | Budziszewko | Władyszyn | — | — | — | — | — | — | — |
 
 | 144 | Wojnowskie Olędry | Długa Goślina | Wojnówko i | ok. u | — | Rel. Posn. nr 393, r. 1732, fol. 57 | — | T | — | — |
 
 | 145 | W ymyślanka Olędry | Lwówek | Wymyślanka | 1721 | las | Recl. Posn. nr 641, r. 1792, fol. 260 | M XI 1721 | 12 ed | — | ” |
+
+
+
+[^141-1]: Osada powstała przez odłączenie się od Budziszewskich Olędrów.
 
 
 
@@ -2998,6 +3020,8 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 156 | Zwierzyniec Olędry | Sieraków | Z.wierzenicc | L/9] | zarosia | AM. 5ICTaKOW, C. 53, fol. 144 | IL ZEL l1iJI | SE R R" ŚĆ TN """R"" po pz | Geno R "ZJ :IŻ R FR | gazo Z ZE 2. A gs. 1 |
 
+| **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.071 | 38 | 4.484 |
+
 
 
 
@@ -3010,43 +3034,39 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 1 | Czapury”? | Głuszyna | Czapury | Ok. TT | LL] g | A«xYY. D. id s %.a" 4 4 (a' | śś vYAKLŻZ 1747 *y STY 5P7TASY | Z dd i 11 | — | — |
+| 1 | Czapury[^143-2] | Głuszyna | Czapury | Ok. TT | LL] g | A«xYY. D. id s %.a" 4 4 (a' | śś vYAKLŻZ 1747 *y STY 5P7TASY | Z dd i 11 | — | — |
 
-| 2 | Głębockic Olędry | Mur. Goślina | Giębocko | 1/4) | WICS R b | MY. AM. o. av.” TE > ">> | 44 4x1 Li'TO 111 X 1744 JO SZTT | zl 'a' |   | — |
+| 2 | Głębockic Olędry[^143-3] | Mur. Goślina | Giębocko | 1/4) | WICS R b | MY. AM. o. av.” TE > ">> | 44 4x1 Li'TO 111 X 1744 JO SZTT | zl 'a' |   | — |
 
-| 3 | Kiszewko 4 | Kiszewo | KIszewko | 1091 | gotowa Iola | AYvwWY. D. JQJDJI "e. ZY 4 4 | SALI 1697 14 s 179077 | DU 1*+0 |   |   |
+| 3 | Kiszewko[^143-4] | Kiszewo | KIszewko | 1091 | gotowa Iola | AYvwWY. D. JQJDJI "e. ZY 4 4 | SALI 1697 14 s 179077 | DU 1*+0 |   |   |
 
-| 4 | Króteckie Olędry | Lubasz | Kruteczck | LiZl | ias | IXI. MII.U. Y, fol. 36 | LI AMillElI 4/5 77 TY | 1J s | — | ZZRZŹDZZZIIY _————< |
+| 4 | Króteckie Olędry[^143-3] | Lubasz | Kruteczck | LiZl | ias | IXI. MII.U. Y, fol. 36 | LI AMillElI 4/5 77 TY | 1J s | — | ZZRZŹDZZZIIY _————< |
 
-| 5 | Krzyżcwniki? | Kiekrz | Krzyżowniki | ” | ZZ e ft I | Kl. M. +1 TT ŻĘ ŻA | IU Ai 1786 1 vT17TEN | dd 1 | — | sy" I |
+| 5 | Krzyżcwniki[^143-5] | Kiekrz | Krzyżowniki | ” | ZZ e ft I | Kl. M. +1 TT ŻĘ ŻA | IU Ai 1786 1 vT17TEN | dd 1 | — | sy" I |
 
-| 6 | Ostrówek | Chodzież | UstrowkKi | k(DU | IOIWalIkK | KAMl. 422.0. 1,9 fol. 02 2. TY SB ) | Z VYŁkejyvU > %7 4 OO7 | ta | — | S |
+| 6 | Ostrówek[^143-6] | Chodzież | UstrowkKi | k(DU | IOIWalIkK | KAMl. 422.0. 1,9 fol. 02 2. TY SB ) | Z VYŁkejyvU > %7 4 OO7 | ta | — | S |
 
-| 7 | Rzecień Olędry ” | Wronki | Rzecicn | 1097 | laS | ZAU Kl. SąU Wronki, aj. Rzecień, f. 40 | O Y iwWI 44 <<. FT | 10 F gą | — | — |
+| 7 | Rzecień Olędry[^143-7] | Wronki | Rzecicn | 1097 | laS | ZAU Kl. SąU Wronki, aj. Rzecień, f. 40 | O Y iwWI 44 <<. FT | 10 F gą | — | — |
 
-| 8 | Suchylas 9 | Chojnica | Suchy Las | — | — | BMI. M.117om. P. 8515 | ll xl 1781 mm o rrr 4 rl | vo [e] | — | — |
+| 8 | Suchylas[^143-5] | Chojnica | Suchy Las | — | — | BMI. M.117om. P. 8515 | ll xl 1781 mm o rrr 4 rl | vo [e] | — | — |
 
-| 9 | Trojanowskie Olędry ⁹ | Mur. Goślina | razem z Głębockiem a na miejscu Trzcianki | las | — | AW. B. 1037 | 5 VIII 1788 | — | — | — |
+| 9 | Trojanowskie Olędry[^143-1] | Mur. Goślina | razem z Głębockiem a na miejscu Trzcianki | las | — | AW. B. 1037 | 5 VIII 1788 | — | — | — |
 
 
 
-przywilejem. Ustanawia dwór. Kompetencje jednak zwyczajne, powinnościami dworskimi nic różni się
+[^143-1]: Razem z olędrem zamieszkałym za wsią na miejscu Trzy Góry.
 
-5 Sołtys za osobnym go ma
+[^143-2]: Osadnicy mają własny samorząd z wybieralnym sołtysem, jednak równorzędność i solidarność w stosunku do pana nie jest całkowicie zachowana wskutek tego, że powinności dworskie wymierzone są od poszczególnych gospodarstw, a nie od jednostki gruntu.
 
-od reszty mieszkańców.
+[^143-3]: Sołtys z nominacji pańskiej, ale kompetencje ma takie same, jak w innych wsiach olęderskich.
 
-8 Sołtys stały, wybieralni 2 ławnicy.
+[^143-4]: Nie wiadomo, czy osadnicy mieli własne sądownictwo. (W przywileju znajduje się tylko postanowienie, że gdyby się powaśnili, winny podpadać karze).
 
-zasadach niemieckiego (jako wieś sołtysia — sołtys otrzymał stanowisko nadrzędne w gminie).
+[^143-5]: Sołtys za osobnym przywilejem. Ustanawia go dwór. Kompetencje jednak ma zwyczajne, powinnościami dworskimi niczym nie różni się od reszty mieszkańców.
 
-Osada lokowana na prawa tzw.
+[^143-6]: Sołtys stały, wybieralni 2 ławnicy.
 
-| dodatkowy przywilej 1736 mieszkąńców olędrami i traktuje ich równorzędnie. Sołtys prawdopodobnie pozostał nadal SYI
-
-Dopiero z r. nazywa
-
-dziedziczny.
+[^143-7]: Osada lokowana na zasadach prawa niemieckiego (jako tzw. wieś sołtysia — sołtys otrzymał stanowisko nadrzędne w gminie). Dopiero dodatkowy przywilej z r. 1736 nazywa mieszkańców olędrami i traktuje ich równorzędnie. Sołtys prawdopodobnie pozostał nadal dziedziczny.
 
 
 
@@ -3060,13 +3080,18 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 10 | Trzydomy ! | Chodzież | Trzy Domy | I /DO | zarośla | AW. CG. I, fol. 13 | lo IV 1755 | — | — | — |
+| 10 | Trzydomy[^144-1] | Chodzież | Trzy Domy | I /DO | zarośla | AW. CG. I, fol. 13 | lo IV 1755 | — | — | — |
 
-| 11 | Wiorek *? | Głuszyna | Wiorek | 1754 (?) | — | Bór., s. 30$ | 4 TIL1754 | 11 | t=——Hw ZZ ZZ |   |
+| 11 | Wiorek[^144-2] | Głuszyna | Wiorek | 1754 (?) | — | Bór., s. 30$ | 4 TIL1754 | 11 | t=——Hw ZZ ZZ |   |
 
 
 
-*Razem z poprzedn. 2.178 38 514*
+Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
+
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+| **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.178 | 38 | 4.514 |
+
 
 
 **Osady o charakterze nieokreślonym**
@@ -3076,13 +3101,27 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 1 | Janikowo Ś | Kicin | Janikowo | — | — | — | — | O | — | — |
+| 1 | Janikowo[^144-3] | Kicin | Janikowo | — | — | — | — | O | — | — |
 
-| 2 | Jasień | Swarzędz | Jasin | — | — | — | — | 20 | — | — |
+| 2 | Jasień[^144-4] | Swarzędz | Jasin | — | — | — | — | 20 | — | — |
 
-| 3 | Łoskońskie Nowe Ol. 5 | Długa Goślina | Stary Łoskoń | 1733 (?) | las | AW. B.366—7 | 1793 | 7 | — | — |
+| 3 | Łoskońskie Nowe Ol.[^144-5] | Długa Goślina | Stary Łoskoń | 1733 (?) | las | AW. B.366—7 | 1793 | 7 | — | — |
 
-| 4 | Tuczno Olędry $ | Mur. Goslhna | Tuczno | — | — | u==—<ŹMHY ZZ ZZ ZZ Z ZZA ZAZZ:O.Z:A:. UU—— > III EEEE EEEE CH —< > > HH up CE | Ogółem | 2 2.210 | 38 | 514 |
+| 4 | Tuczno Olędry[^144-6] | Mur. Goslhna | Tuczno | — | — | u==—<ŹMHY ZZ ZZ ZZ Z ZZA ZAZZ:O.Z:A:. UU—— > III EEEE EEEE CH —< > > HH up CE | Ogółem | 2 2.210 | 38 | 514 |
+
+
+
+[^144-1]: Przywilej indywidualny dla 1 osadnika z r. 1755. Później widocznie na tych samych warunkach zostali osadzeni inni osadnicy. Według Kl. XII 6 I, fol. 118, dzierżą gospodarstwa na tych samych warunkach. Nazywani są tam olędrami.
+
+[^144-2]: Osadnicy mają własny samorząd z wybieralnym sołtysem, jednak równorzędność i solidarność w stosunku do pana nie jest całkowicie zachowana wskutek tego, że powinności dworskie wymierzone są od poszczególnych gospodarstw, a nie od jednostki gruntu.
+
+[^144-3]: Charakter osady w źródłach występuje niejasno: MP podaje: „Hollendry Janikowo”, inne źródła, jak MG, Tp. 89, 90, O 83, VO 84 (2 IV 1778) i TV określają osadę jako wieś. Przywilej generalny dla okupników klucza kicińskiego (por. aneks II, s. 121) wyliczając wszystkich okupników, Ol. Janikowo nie wymienia, natomiast w dalszej treści  przywileju mamy wzmiankę: „Janikoscy Hollendrzy”.
+
+[^144-4]: Wszystkie dane źródłowe ograniczają się tu do następujących wzmianek: MP — Jasien, MG — Jasienie od. Jaszin, Tp. 89, 90 — Jasion, O 83 — Jasien, wieś cała okupna, VO 84 (29 IX 1777) — „Coloni”, niegdyś 10 kmieci.
+
+[^144-5]: Zachowały się 2 przywileje indywidualne dla 2 osadników, które z olęderskimi mało mają cech wspólnych, jednak Tp. 90 wykazuje dla tej osady 7 dymów, co dowodzi, że siedzieli tam i inni osadnicy. O ich sytuacji gospodarczo-prawnej brak jakichkolwiek danych źródłowych, natomiast w źródłach osada nazywana jest stale olędrami.
+
+[^144-6]: Osada stale nazywana olędrami, liczy jednak zaledwie 2 dymy, a w TV jako mieszkańcy podani 1 olęder i chałupnik (Bidner). Czy w tym stanie rzeczy mogła istnieć osada olęderska, wydaje się rzeczą wątpliwą.
 
 
 

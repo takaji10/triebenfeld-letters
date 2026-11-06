@@ -547,3 +547,72 @@ for 'AW. B. 99-60', '291V 1/40' for '29 IV 1748', 0152 row 90
 name columns are clean. Suspicious prose cells can be listed for spot
 answers on demand; the tier-C raw row text (the previous rendering,
 still in annex_table.json) remains the cross-check source.
+
+## The annex tables' footnote apparatus (discovered in the noise sweep)
+
+The print attaches numbered footnotes to the ANEKS I tables - a layer
+the first compose pass never captured (0158's block leaked in as
+garbled furniture paragraphs; the other sheets' blocks were simply
+missing). Structure, established by pixel work (mark_scan2.py,
+note_inv2.py, per-glyph ASCII/OCR):
+
+- Refs: superscript digits after the Nazwa cell's text (the draft's
+  junk chars '!', '?', the quote marks, '$', 'S', stray digits were
+  the misread marks). Blocks print below a sheet's table and are
+  numbered from 1 EACH; a ref resolves to the nearest block below its
+  own sheet. Duplicate refs are normal (0158: r2/r4 both -> note 3,
+  r5/r8 both -> note 5).
+- Blocks found: 0144 (n1 Pożegowskie), 0146 (n1 Sroczewskie, n2
+  'Razem z Ol. Góry.'), 0152 (n1 'Jest rzeczą wątpliwą...', n2 the
+  long Wielkokrobielewskie note), 0156 (n1 'odłączenie się od
+  Budziszewskich Olędrów'), 0158 (n1-n7, the sołtys/samorząd block),
+  0159 (n1-n6). Sheets 0139-0143, 0145, 0147-0151, 0153-0155, 0157
+  have NO blocks (page bottoms verified empty by ink profiling).
+- The mark on 0150 r52 (Kolędzin Olędry) and on 0148 r23
+  (Dziewczastruga) both resolve to 0152's note 1 - the nearest block
+  below is three sheets down (0149-0151 verified empty). Semantics
+  fit: both are 'doubtful whether two separate settlements' cases.
+- The Budziszewko offshoots (b-r52 Kolędzin? no - r122 Smolary,
+  r141 Wiewierczyn, r143 Władyszyn; all par. Budziszewko) share
+  0156's note 1. b-r33 Grudzianki's raw 'l' is junk (nazwa tail
+  pixel-checked: no mark; the name's second line reads 'Razem z
+  Ol.: Kolędzin, Wiewierczyn i Władyszyn.' - the a-series r33 merge
+  covers the same group).
+- The asterisks in the dymy cells (b-r48 4*, r84 10*, r85 5*, c-r1
+  12* etc.) are NOT note refs: the body (p. 23-24) explains them
+  (dymy given zbiorowo in Tp. 89, estimated per Tp. 90). They must
+  survive in the cells (cell-fix pass item).
+- Series totals rows: a-series 'Razem z poprzedn. 2.386 92 12.967'
+  (below 0146), b-series 'Razem z poprzedn. 2.071 38 4.484' (below
+  0157) - both were missing from the draft entirely; the label zones
+  print faint (OCR-blind, ink profiled) - labels taken in parallel
+  with the c-series' readable u0 'Razem z poprzedn.'. The c-series
+  u0/u2 render as real table rows now (u0 2.178 38 4.514; u2 Ogółem
+  2.216 38 4.514 - the leading '4.' of the Ludn figures
+  pixel-verified; arithmetic self-certifies: 2.178 + 38 sub = 2.216).
+
+SPOT items for the editor (apparatus):
+1. a-series razem row: label reads faint; taken as 'Razem z
+   poprzedn.' with the sup 2 ref to n2 'Razem z Ol. Góry.' - please
+   confirm the label wording and the ref.
+2. 0158's mark digits (r1=2, r2=3, r3=4, r4=3, r5=5, r6=6, r7=7,
+   r8=5, r9=1): r4 and r8 duplicates of r2's/r5's notes; r9's '1'
+   inferred (the mark glyph sits in a noisy multi-line cell; note 1
+   'Razem z olędrem...' fits Trojanowskie alone).
+3. 0159 sub-table: s1-s4 mapped to notes 3-6 in row order; r10/r11
+   to notes 1-2 ('Trzydomy !'/'Wiorek *?' junk = the misread marks).
+4. 0152 note 1's anchor: taken as the sup marks on r23/r52; r84/r85
+   (Niewiemko Nowe/Stare) show no nazwa marks - their 10*/5* dymy
+   asterisks are the body's zbiorowo convention.
+5. 0144 note 1 details to eyeball: 'komornica Naganianka' (odd
+   name), 'Sobestyan komornik' (Sebestyan appears twice), 'karczma,
+   d. 9.', 'wskazywałyby na to, że być może, uczyniono'.
+6. 0159 note 5: 'Zachowały się 2 przywileje indywidualne dla 2
+   osadników' (the two 2s per the print reads) and 'jednak Tp. 90
+   wykazuje dla tej osady 7 dymów'.
+
+compose.py now: emits the refs into the Nazwa cells ([^page-n]
+labels), renders the blocks as footnote defs after each sheet's
+table, injects the a/b totals rows, renders u0/u2 as table rows,
+and no longer leaks 0158's note lines as furniture paragraphs.
+annex_notes.py holds NOTES/REFS/RAZEM.

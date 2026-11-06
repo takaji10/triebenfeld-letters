@@ -167,6 +167,20 @@ def main():
                 fix = NOISE_FIX.get((n, r['num']))
                 if fix:
                     r['cells'] = [r['cells'][0]] + fix
+    # the annex tables' footnote apparatus (annex_notes.py: the print's
+    # superscript refs in the Nazwa cells and the note blocks below the
+    # sheets' tables; blocks numbered from 1, a ref resolves to the
+    # nearest block below its own sheet)
+    import annex_notes
+    # the c-series totals rows: real table rows in the print (the
+    # values pixel-verified; the leading '4.' of the Ludn figures sits
+    # tight to the column rule and was lost in the first reads)
+    C_TOTALS = {
+        'u0': ['Razem z poprzedn.', '—', '—', '—', '—', '—', '—', '—',
+               '2.178', '38', '4.514'],
+        'u2': ['Ogółem', '—', '—', '—', '—', '—', '—', '—',
+               '2.216', '38', '4.514'],
+    }
     parts.append('[p. 123]\n\nANEKS I\n')
     HEAD = ('Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | '
             'Nazwa dzisiejsza | Rok założ. osady | Charakter terenu '
@@ -186,41 +200,61 @@ def main():
                      + [{'kind': 'furn', 'y': f['y'][0], 'f': f}
                         for f in sh['furniture']])
             items.sort(key=lambda x: x['y'])
+            page = label(n)
+            nums = sorted(r['num'] for r in sh['rows'])
+            last_num = nums[-1] if nums else None
+
+            def flush(table):
+                if table:
+                    parts.append(HEAD)
+                    parts.append(SEP)
+                    parts.extend(table)
+                    parts.append('')
+                    return []
+                return table
+
             table = []
             for it in items:
                 if it['kind'] == 'furn':
-                    if table:
-                        parts.append(HEAD)
-                        parts.append(SEP)
-                        parts.extend(table)
-                        table = []
-                        parts.append('')
+                    table = flush(table)
                     f = it['f']
-                    if f['key'] == 'u1':
-                        parts.append('**Osady o charakterze '
-                                     'nieokreślonym**\n')
+                    if f['key'] in C_TOTALS:
+                        cells = ['**%s**' % C_TOTALS[f['key']][0]] + \
+                            C_TOTALS[f['key']][1:]
+                        table.append('| ' + ' | '.join(cells) + ' |')
+                    elif f['key'] == 'u1':
+                        parts.append('**%s**\n' % f['text'].strip())
                     else:
                         parts.append('*%s*\n' % f['text'].strip())
                     continue
                 r = it['r']
                 cells = [c if c.strip() else ' '
                          for c in r['cells'][1:]]
+                ref = annex_notes.REFS.get((n, r['num']))
+                if ref:
+                    note_num, ref_page, junk = ref
+                    naz = cells[0]
+                    if junk and naz.endswith(junk):
+                        naz = naz[:-len(junk)]
+                    else:
+                        # fall back to a targeted strip of the common
+                        # artifacts the superscript left behind
+                        naz = re.sub(r'\s*[!?„”"$Ś9⁹*]+$', '', naz)
+                    cells[0] = naz + f'[^{ref_page}-{note_num}]'
                 table.append(f"| {r['num']} | " + ' | '.join(cells)
                              + ' |')
-            if table:
-                parts.append(HEAD)
-                parts.append(SEP)
-                parts.extend(table)
-                parts.append('')
-            if n == '0158':
-                # the series-c footnotes (the sołtys remarks): the
-                # strip's lines carry them but the table cut excludes
-                # them - emit from structure4
-                _s = json.load(open(os.path.join(OCR, 'structure4.json'),
-                                    encoding='utf-8'))
-                for l in sorted(_s['0158']['lines'], key=lambda x: x['top']):
-                    if 2690 <= l['top'] <= 3160 and l['text'].strip():
-                        parts.append(l['text'].strip())
+                if n in annex_notes.RAZEM and r['num'] == last_num:
+                    # the series' totals row prints after the last
+                    # numbered row (0146: after r111; 0157: after r156)
+                    cells = ['**%s**' % annex_notes.RAZEM[n][0]] + \
+                        annex_notes.RAZEM[n][1:]
+                    table.append('| ' + ' | '.join(cells) + ' |')
+            table = flush(table)
+            # the sheet's note block (the print sets it below the
+            # sheet's table)
+            for num, ntext in annex_notes.NOTES.get(n, []):
+                parts.append(f'[^{page}-{num}]: {ntext}')
+            if annex_notes.NOTES.get(n):
                 parts.append('')
         else:
             # fallback: the raw-row rendering

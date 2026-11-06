@@ -78,7 +78,7 @@ OVERRIDES = {
     # the table's continuation (10-11), the 4-row sub-table (1-4),
     # then the sub-table's notes (excluded)
     '0159': [(1339, 10), (1496, 11), (1660, 'T'), (1810, 'H'),
-             (1917, 1), (2024, 2), (2124, 3), (2250, 4)],
+             (1917, 1), (2024, 2), (2124, 3), (2250, 4), (2394, 'G')],
 }
 # a text cut per sheet: row texts stop above it (the notes zone)
 CUTS = {'0158': 2350, '0159': 2600,
