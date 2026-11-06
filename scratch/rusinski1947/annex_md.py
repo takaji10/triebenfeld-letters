@@ -51,8 +51,11 @@ def clean(txt):
             continue  # a dash/punct run the pixel pass will decide on
         toks.append(tok)
     t = ' '.join(toks)
+    # the trailing '*' is content (the body p. 23-24: dymy given
+    # 'zbiorowo' in Tp. 89 are starred); keep it through the strip
+    star = ' *' if t.rstrip().endswith('*') else ''
     t = re.sub(r'\s+', ' ', t).strip(' .,;:-_=+*')
-    return t
+    return t + star
 
 
 def main():

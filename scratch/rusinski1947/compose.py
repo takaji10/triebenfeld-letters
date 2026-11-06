@@ -172,6 +172,10 @@ def main():
     # sheets' tables; blocks numbered from 1, a ref resolves to the
     # nearest block below its own sheet)
     import annex_notes
+    import annex_fixes
+    if amd:
+        nf = annex_fixes.apply(amd)
+        print('annex_fixes applied:', nf)
     # the c-series totals rows: real table rows in the print (the
     # values pixel-verified; the leading '4.' of the Ludn figures sits
     # tight to the column rule and was lost in the first reads)
@@ -216,13 +220,16 @@ def main():
             table = []
             for it in items:
                 if it['kind'] == 'furn':
-                    table = flush(table)
                     f = it['f']
                     if f['key'] in C_TOTALS:
+                        # the print's totals row belongs to the table
+                        # it follows (no header of its own)
                         cells = ['**%s**' % C_TOTALS[f['key']][0]] + \
                             C_TOTALS[f['key']][1:]
                         table.append('| ' + ' | '.join(cells) + ' |')
-                    elif f['key'] == 'u1':
+                        continue
+                    table = flush(table)
+                    if f['key'] == 'u1':
                         parts.append('**%s**\n' % f['text'].strip())
                     else:
                         parts.append('*%s*\n' % f['text'].strip())
@@ -234,8 +241,8 @@ def main():
                 if ref:
                     note_num, ref_page, junk = ref
                     naz = cells[0]
-                    if junk and naz.endswith(junk):
-                        naz = naz[:-len(junk)]
+                    if junk and naz.rstrip().endswith(junk):
+                        naz = naz.rstrip()[:-len(junk)].rstrip()
                     else:
                         # fall back to a targeted strip of the common
                         # artifacts the superscript left behind
@@ -246,8 +253,11 @@ def main():
                 if n in annex_notes.RAZEM and r['num'] == last_num:
                     # the series' totals row prints after the last
                     # numbered row (0146: after r111; 0157: after r156)
-                    cells = ['**%s**' % annex_notes.RAZEM[n][0]] + \
-                        annex_notes.RAZEM[n][1:]
+                    rz = annex_notes.RAZEM[n]
+                    cells = ['**%s**' % rz['cells'][0]] + rz['cells'][1:]
+                    if rz.get('ref'):
+                        nn_, pg_ = rz['ref']
+                        cells[0] += f'[^{pg_}-{nn_}]'
                     table.append('| ' + ' | '.join(cells) + ' |')
             table = flush(table)
             # the sheet's note block (the print sets it below the

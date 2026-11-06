@@ -2260,15 +2260,15 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 6 | Białe Olędry | Bukowiec | Biała Wieś | — | azer % rzy | — | — | 34 | — | 178 |
 
-| 7 | Blinek Olędry | Gnin | Blinek | 1720 | las | AW.Blinek, A. 1 | 11 XI1720 | 23 | — | 126 |
+| 7 | Blinek Olędry | Gnin | Blinek | 1720 | las | AW.Blinek, A. 1 | 11 XI 1720 | 23 | — | 126 |
 
 | 8 | Błonie Olędry al. Źdżar | Gnin | Błońsko | — | S-——" | — | — | Jl I | — | 229 |
 
-| 9 | Boguszyńskie Olędry | Panienka | Boguszynek | 1762 (?) | — | AGH sąd Jarocin, maj.Boguszyn, vol. II, fol. 74 | 6 VII1762 | 20 | — | — |
+| 9 | Boguszyńskie Olędry | Panienka | Boguszynek | 1762 (?) | — | AGH sąd Jarocin, maj.Boguszyn, vol. II, fol. 74 | 6 VII 1702 | 20 * | — | — |
 
 | 10 | Bolewiny Olędry | Dąbrówka | Bolewiny | — | — | — |   | 4 | — | 17 |
 
-| 11 | Borgowo | Śr cmni | Borgowo | 1785 | ta sama wieś 1 mieszk. +- folw. dworski | Rel. Gost. nr 220, r. 1787, fol. 371/2 | 18IV 1785 | 11 | — | 43 |
+| 11 | Borgowo | Śr cmni | Borgowo | 1785 | ta sama wieś 1 mieszk. +- folw. dworski | Rel. Gost. nr 220, r. 1787, fol. 371/2 | 18 IV 1785 | 11 | — | 43 |
 
 | 12 | Borkowskie Olędry | Mosina | Borkowice | 1750 | las | AW. Borek Ol, A. 1 | 6 V 1750 | — | 14 | — |
 
@@ -2294,23 +2294,23 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 17 | Bystrek Olędry | Śrem | Bystrzek | 1757 (?) | — | AGH. s. Śrem, maj. Łąg, vol. III, fol. 143 | 5 | 11 3 | 7 |   |
 
-| 18 | Cegielskie Olędry | Wolsztyn | Cegielsko | 1729 | — | AW. dep. A. I | 10 X1172£ | 4 |   | 23 |
+| 18 | Cegielskie Olędry | Wolsztyn | Cegielsko | 1729 | — | AW. dep. A. I | 10 X 1721 | 4 |   | 23 |
 
 | 19 | Charłub Olędry | Mchy | Charłub | 1787 | las | Rel. Cost. nr 223, r. 1790; fol. 182 | 4 VI 1787 | 9 |   | BB |
 
 | 20 | Chojnickie Olędry | Zbąszyń | Chojnik |   | — | — | — | 10 | — | 107 |
 
-| 21 | Chromieckie Olędry | Książ | Chromicc | 1748 | las | AW. A. 2 | 18 XI1748 | 22 | — | — |
+| 21 | Chromieckie Olędry | Książ | Chromicc | 1748 | las | AW. A. 2 | 18 XI 1748 | 22 * | — | — |
 
 | 22 | Chrząstowskie Olędry | Wieszczyczyn | Olsze | 1747 | las | Rel. Cost. nr 220, r. 1787, fol. 524 | 251111747 | 19 | — | — |
 
-| 23 | Cisiogórskie Olędry | Bukowiec | Cicha Góra | 1757 | las | Rel. Cost. nr 224, r. 1791, fol. 379 | 11 X11757 | 48 | — | 406 |
+| 23 | Cisiogórskie Olędry | Bukowiec | Cicha Góra | 1757 | las | Rel. Cost. nr 224, r. 1791, fol. 379 | 11 X 1757 | 48 | — | 406 |
 
 | 24 | Czarne Olędry | Grodzisk | Czarna Wieś | — | — | — | — | 44 | — | 243 |
 
 | 25 | Czeskie al. Polsko- Czeskie Olędry | Zbąszyń | Czeskie Stare | — | — | ip » | — | 17 | — | 1 22 |
 
-| 26 | Daieszyno | Gostyń Stary | Daleszyn | 1765 | role kmiece | Rel. Posn. nr 549, r. 1767, fol. 442 | 13 X 1705 | 12 | — | — |
+| 26 | Daieszyno | Gostyń Stary | Daleszyn | 1765 | role kmiece | Rel. Posn. nr 549, r. 1767, fol. 442 | 13 X 1705 | 12 * | — | — |
 
 | 27 | Dąbrówka Olędry | Gnin | Dabrowiecka Wola | — | U | r | — | 14 | — | 82 |
 
@@ -2342,13 +2342,13 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 35 | Grubskie Olędry | Zbąszyń | Grubsko | — | — | — | — | 35 | — | 77 |
 
-| 36 | Jabłonna Nowa | Gnin | Jabłonna | — | — | — | — | 30 | — | — |
+| 36 | Jabłonna Nowa | Gnin | Jabłonna | — | — | — | — | 38 * | — | — |
 
 | 37 | Jaromierskie Nowe OI | Gnin, Kopanica | Nowy Jaromierz | 1719 | las | AW. B. 4 | 2 II 1719 | 15 | — | — |
 
 | 38 | Jaromierskie Stare Olędry | Kopanica | Stasy Jaromierz | 1709 | zaroślą | AW. dep.A. I | 21 V 1709 | 44 | — | — |
 
-| 39 | Karpickie Olędry | Wolsztyn | Karpicko | 1729 | wieś częśc. zarosła | AW. A. 1—2 | 20XI1729 120 I 1749 | 22 | — | 127 |
+| 39 | Karpickie Olędry | Wolsztyn | Karpicko | 1729 | wieś częśc. zarosła | AW. A. 1—2 | 20 XI 1729 20 I 1749 | 22 | — | 127 |
 
 | 40 | Kawczyn Olędry | Oborzyska | Kawczyn | 1741 | wieś opustoszała | Rei. Cost. nr 177, r. 1742, fol. 210 | 15 X 1741 | 16 | — | 101 |
 
@@ -2358,7 +2358,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 43 | Komorowo Olędry | Gnin | Komorówko | — | — | — | — | 31 | — | 190 |
 
-| 44 | Konarskie Olędry | Książ | Konarzyce | 1135 | las | Rel. Posn. nr 628, r. 1789, fol, 578 | ” X11735 | 20 | — | 198 |
+| 44 | Konarskie Olędry | Książ | Konarzyce | 1135 | las | Rel. Posn. nr 628, r. 1789, fol, 578 | 14 X 1735 | 20 | — | 198 |
 
 
 
@@ -2378,7 +2378,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 47 | Krosna Olędry | Mosina | Krosno | 1780 | wieś opustoszała | AW. A. I | I V 1781 | — | 28 | — |
 
-| 48 | Kruczyńskie Olędry | Nowemiasto | Kruczynek | — | — | — | — | ole | — | 121 |
+| 48 | Kruczyńskie Olędry | Nowemiasto | Kruczynek | — | — | — | — | 21 * | — | 121 |
 
 | 49 | Krzemieniewo | Oporowo | Krzemieniewo | 1754 | wieś 1 folw. z budynkami | Rel. Cost. nr 190, r. 1755, fol. 33 | TVII 1754 | 4 | — | 284 |
 
@@ -2390,7 +2390,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 53 | Łęskie Olędry | Opalenica | Łęczyce | — | — | — | — | 25 | — | 109 |
 
-| 54 | Maryanowo | Zbąszyń | Mariankowo | — | — | — | — | 7 | — | 4a u zac |
+| 54 | Maryanowo | Zbąszyń | Mariankowo | — | — | — | — | 7 * | — | 4a u zac |
 
 | 55 | Michorzewskie Olędry | Michorzewo | razem z Dąbrową | — | — | — | — | 3 | — | oO |
 
@@ -2460,9 +2460,9 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 76 | Radoszkowskie Olędry | Książ | razem z Radoszkowem | 1753 | las, zarośla | Rel. Cost. nr 215, r. 1782, fol. 351 | 12111781 | 12 | — | 36 |
 
-| 77 | Rakoniewice | Rakonicwice | Rakcniewice- Wieś | 1729 | wieś opustoszałą | Rel. Cost. nr 164, r. 1729 | 27 vuI 1729 | 3 |   | — |
+| 77 | Rakoniewice | Rakonicwice | Rakcniewice- Wieś | 1729 | wieś opustoszałą | Rel. Cost. nr 164, r. 1729 | 27 vuI 1729 | 5 * |   | — |
 
-| 78 | Rataje Olędry | Gnin | Ratajc | 1740 | wiICś, Częśc. zarosła | 1UoI. lili Rel. Posn. nr 040, r. 1791, fol. 247 | 10 XI 1740 | 17 | — | — |
+| 78 | Rataje Olędry | Gnin | Ratajc | 1740 | wiICś, Częśc. zarosła | 1UoI. lili Rel. Posn. nr 040, r. 1791, fol. 247 | 10 XI 1740 | 17 * | — | — |
 
 | 79 | Reklińskie Olędry | Siedlec | Reklinek | — | LL 7 | — | — | 21 | — | 130 |
 
@@ -2474,7 +2474,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 83 | Słocińskie Olędry | Grodzisk | Słociniec | — | — | — |   | 7 | — | 34 |
 
-| 84 | Snowidowo N | Piaszkowo | Snowidowo | 1755 | wieś z bud | Rel. Posn. nr 620, r. 1787, fol. 26 | 3 VII1760 | 18 | — | 106 |
+| 84 | Snowidowo N | Piaszkowo | Snowidowo | 1755 | wieś z bud | Rel. Posn. nr 620, r. 1787, fol. 26 | 3 VII 1760 | 18 | — | 106 |
 
 | 85 | Soleckie Olędry | Kębłowo | Solec Nowy |   | — | — | — | 24 | — | 117 |
 
@@ -2558,7 +2558,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 111 | Żabińskie Olędry | Żabno | Żabinko | 1778 | — | Cieplucha, s. 283 | Gym A cMceJZJZJZJcijzru Z ZŻZAX3ZZJZZ vo | 31 |   | 2206 |
 
-| **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.386 | 92 | 12.967 |
+| **Razem z poprzedn.**[^131-2] | — | — | — | — | — | — | — | 2.386 | 92 | 12.967 |
 
 
 
@@ -2578,7 +2578,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 1 | Barcinek | Wierzenica | Barcinek | 1781 | ta sama wieś 1 mieszkańcy | AW. B. I | 1/6] | 4 | — | — |
+| 1 | Barcinek | Wierzenica | Barcinek | 1781 | ta sama wieś 1 mieszkańcy | AW. B. I | 1/6] | 4 * | — | — |
 
 | 2 | Białężyńskie Olędry | Białężyn | Białęgi | 1748 | las | AW. B.99—6U | 49 TV 17/48 | 9 | — | — |
 
@@ -2600,9 +2600,9 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 11 | Cegielskie Olędry | Trzciel | Prądówka | 1740 | las | AM. Trzciel, A. 1 | 24 V 1740 | 21 | — | — |
 
-| 12 | Chełmskie Olędry | Pniewy | Chełminko | 1732 | las | Rel. Posn. nr 435, fol. 230 i nr503, fol. 183 | 2 ITI 1732 l 11 XT1740 | 24 | — | — |
+| 12 | Chełmskie Olędry | Pniewy | Chełminko | 1732 | las | Rel. Posn. nr 435, fol. 230 i nr503, fol. 183 | 2 ITI 1732 l 11 XT1740 | 24 * | — | — |
 
-| 13 | Chmielinka | Lwówck | Chmielinko | 776 | wieś 1 folw. z zasiewami | Rel. Cost. nr 209, fol. 223 | 28T1I 1776 | 50 | — | — |
+| 13 | Chmielinka | Lwówck | Chmielinko | 776 | wieś 1 folw. z zasiewami | Rel. Cost. nr 209, fol. 223 | 28 VII 1776 | 50 | — | — |
 
 
 
@@ -2618,11 +2618,11 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 14 | Chorzępowa | Sieraków | Chorzępowo | 1753 | ta sama wieś 1 mieszkańcy | AM. Sieraków, C. 6, fol. 161 | 24 VI 1753 | 12 | — | — |
 
-| 15 | Czarne Olędry | Trzciel | Czarne | — | — | — | — | 5 | — | — |
+| 15 | Czarne Olędry | Trzciel | Czarne | — | — | — | — | 5 * | — | — |
 
 | 16 | Czarne Olędry | Mur. Goślina | Czernice | — | — | — | — | 12 | — | — |
 
-| 17 | Czerwonak Olędry | Kicin | Czerwonczyn | — | — | AW. Kliny,C.3 | ILIV1781 | 13 | — | — |
+| 17 | Czerwonak Olędry | Kicin | Czerwonczyn | — | — | AW. Kliny,C.3 | 1 IV 1781 | 13 * | — | — |
 
 | 18 | Daleszynko | Lubosz | Daleszynek | r | — | — | — | 9 | — |   |
 
@@ -2632,17 +2632,17 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 21 | Dłuskie Stare Olędry | Przytoczna | Stare Dłusko | 1668 | las | AW. A. I | 5 VI 1688 | e) | — | — |
 
-| 22 | Drzewce Olędry | Międzychód | Drzewce | 1724 | las, zarośla | AW. B. 2 | 2 II 1724 | 22 | — | — |
+| 22 | Drzewce Olędry | Międzychód | Drzewce | 1724 | las, zarośla | AW. B. 2 | 2 II 1724 | 22 * | — | — |
 
-| 23 | Dziewczastruga | Hgrkowo | Dziewcza Struga | 1745 | las | ĄW. B. 1028 | 1746 | 14 | — |   |
+| 23 | Dziewczastruga[^137-1] | Hgrkowo | Dziewcza Struga | 1745 | las | ĄW. B. 1028 | 1746 | 14 | — |   |
 
-| 24 | Filipowo Olędry | Ryczywół | razem z Wyszynkami | o | — | — | — | $ | — | — |
+| 24 | Filipowo Olędry | Ryczywół | razem z Wyszynkami | o | — | — | — | 8 * | — | — |
 
 | 25 | Folsztyn | Wieleń | Folsztyn | ok. 1600 | mokradła (?) | AW. B. 2 | l V 1677 | — | — | 57 |
 
 | 26 | Garganowo | Mur. Goślina | Garganowo | ok. 1785 | zarośla | — | — | 2 | — |   |
 
-| 27 | Gębickie Olędry | Ryczywół | Gębiczyn | 1735 | las, zarośla | AW. A. I | 11 XI 1735 120X 1744 | 42 | — |   |
+| 27 | Gębickie Olędry | Ryczywół | Gębiczyn | 1735 | las, zarośla | AW. A. I | 11 XI 1735 20 X 1744 | 42 | — |   |
 
 | 28 | Glinki Olędry | Wy tomyśl | Glinno | 1701 | gotowa rola | Rel. Posn. nr 640, r. 1791, fol. 270 | 11 XI 1701 | 59 | " | 7 |
 
@@ -2688,7 +2688,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 43 | Jędrzejewskie Olędry | Czarnków | Gajewo | i/ OŚ | — | Kl. XII 15, fol. 239 | IU Ali 1703 | fe «al | — | 1U |
 
-| 44 | Józefowo Olędry | Ryczywół | razem z Wyszynkani | — | — | — | — | o” O 4 | — | — |
+| 44 | Józefowo Olędry | Ryczywół | razem z Wyszynkani | — | — | — | — | 6 * | — | — |
 
 | 45 | Kamińskie al. Pławiśńskie Olędry | Mur. Goślina | KaminskoOo |   |   |   | /ale sil. dd | 2 | — | 4 4a |
 
@@ -2696,7 +2696,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 47 | Kałędek | Wieleń | Kałędek | 1/14 | folwark | Landr. Czarnków 3a, fol. 25 | 20 IN 1714 | 4 «> | — | z |
 
-| 48 | Katarzynki al. Uzarzewskie Olędry | Uza rze O | razem z Uzarzewem | — | — | — | — | 44 U | — | — |
+| 48 | Katarzynki al. Uzarzewskie Olędry | Uza rze O | razem z Uzarzewem | — | — | — | — | 4 * | — | — |
 
 
 
@@ -2736,7 +2736,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 61 | Lasek Olędry | Wiry | Lasek |   | — | Fz=—=—=— me z co z PI | ——<€< € Ps uu" U s A s" | L4 | — | — |
 
-| 62 | Lewickie Olędry | Lewice | Lewiczynek | 1732 | las | AW. A. I | 4 IL 1D5Z | 50” | — | — |
+| 62 | Lewickie Olędry | Lewice | Lewiczynek | 1732 | las | AW. A. I | 4 IL 1D5Z | 36 * | — | — |
 
 | 63 | Lipie Olędry | Wytomyśl | lipka Mała | 7 | las | AW. Faproc, C. 2 | l (3 | LD | — | — |
 
@@ -2760,29 +2760,29 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 67 | Lubowo | Biezdrowo | Łubowo | 1764 | — | AGH.s. Wronki, maj. Poża | 160ITV 17604 | 28 1 | — | — |
 
-| 68 | Lubowo Zarzeczne | Biezdrowo |   | 1737 | — | rowo, vol. III | 24 V11737 |   |   |   |
+| 68 | Lubowo Zarzeczne | Biezdrowo |   | 1737 | — | rowo, vol. III | 24 V 1737 |   |   |   |
 
-| 69 | Łokacz | Wieleń | Łokacz | 1701 | zarośla, łąki | Kat. XIII. II, fol. 420 | 9 VII1701 | — | — | 40 |
+| 69 | Łokacz | Wieleń | Łokacz | 1701 | zarośla, łąki | Kat. XIII. II, fol. 420 | 9 VII 1701 | — | — | 40 |
 
 | 70 | Łoskońskie Stare Olędry | Długa Goślina | Stary Łoskoń | 1763 (?) | — | AW. B. 365 | 14TV 1763 i 1782 | — | I | — |
 
 | 71 | Mariecnwald | Przytoczna | Gaj | 1701 | — | AW. B. I | 20 1 1701 | 14 | — | — |
 
-| 72 | Marianowo Olędry | Wieleń | Marianowo | 1614 (?) | zarośla, łąkai | Schulz W. II, s. 140; Kat. II, fol. 593 | 3 III 1614 1 V1077 | — | — | 24 |
+| 72 | Marianowo Olędry | Wieleń | Marianowo | 1614 (?) | zarośla, łąkai | Schulz W. II, s. 140; Kat. II, fol. 593 | 3 III 1614 1 V 1677 | — | — | 24 |
 
 | 73 | Marlcwo | Głuszyna | Marlewo | — | — | — | — | D | — | — |
 
-| 74 | Marszewicc | Rożno vo | Marszcwice | — | — | — | — | 8 ' | — | — |
+| 74 | Marszewicc | Rożno vo | Marszcwice | — | — | — | — | 8 * | — | — |
 
-| 75 | Mechnacz Olędry | Kwilcz | Mechnacz | 1784 | — | AGH. s. Micdzychód, maj. Rozbitek, vol. II, fol. 32 | 4 VI 1754 | 22 |   |   |
+| 75 | Mechnacz Olędry | Kwilcz | Mechnacz | 1784 | — | AGH. s. Micdzychód, maj. Rozbitek, vol. II, fol. 32 | 4 VI 1754 | 22 * |   |   |
 
 | 76 | Mechocińskic Olędry | Międzychód | Muchocinek | — | — | — | — | 10 | — | — |
 
-| 77 | Meryń Nowy | Międzychód | Mierzynck | 1713 | folw. częścią zarosły | AW. Meryń Stary, B. 2 | 2 I1 1713 | 21 | — | — |
+| 77 | Meryń Nowy | Międzychód | Mierzynck | 1713 | folw. częścią zarosły | AW. Meryń Stary, B. 2 | 2 I1 1713 | 21 * | — | — |
 
 | 78 | Meryń Stary | Międzychód | Mierzyn | 1695 | zarosla | AW. B. I | 14 III 1095 | Y | — | — |
 
-| 79 | Miękowskie Olędry | Owińska | Miękówko | — | — | — | — | 2 | — | — |
+| 79 | Miękowskie Olędry | Owińska | Miękówko | — | — | — | — | 2 * | — | — |
 
 | 80 | Milczewskie Olędry | Chodzież | Milcz | 1730 | las |   | 1 V 1753 | — | — | 12 |
 
@@ -2800,17 +2800,17 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 82 | Naramowskie Olędry | Poznań, św. Wojciech | Naramowice | ok. 1760 | — | AGH. s. Poznań, maj. Naramowice, vol. IT, fol. 5 | odpis przywileju bez daty (pr. 1760) |   | — | — |
+| 82 | Naramowskie Olędry | Poznań, św. Wojciech | Naramowice | ok. 1760 | — | AGH. s. Poznań, maj. Naramowice, vol. IT, fol. 5 | odpis przywileju bez daty (pr. 1760) | 7 * | — | — |
 
-| 83 | Nieszawskie Olędry | Białężyn | Nicszawka | 1723 | las | AW. B. 1-5 | 11 XI1723 | 10 | — | — |
+| 83 | Nieszawskie Olędry | Białężyn | Nicszawka | 1723 | las | AW. B. 1-5 | 11 XI 1723 | 10 * | — | — |
 
-| 84 | Nicwiemko Nowc | Ryczywół | RY ery I | — | — | — | — | 10 | — | — |
+| 84 | Nicwiemko Nowc | Ryczywół | RY ery I | — | — | — | — | 10 * | — | — |
 
-| 85 | Niewienko Stare | Ryczywół | J a VZ PYZY zz | ok. [739 | — | AG. r. 1739— 40,f.686 (AW. Gębickie Ol., A. 3) | — | 5 *« | — | — |
+| 85 | Niewienko Stare | Ryczywół | J a VZ PYZY zz | ok. [739 | — | AG. r. 1739— 40,f.686 (AW. Gębickie Ol., A. 3) | — | 5 * | — | — |
 
 | 86 | Niwka Olędry | Mosina | Niwka | 1776 ? | Ą ę wies z budynkami | AW. A. I | 0 VIII 1770 | 10 |   | — |
 
-| 87 | Nowawieś Olędry | Poznań, św. Wojciech | Nowawieś Dolna | 1748 (?) | — | AGH. Poznań, m. Nowawieś, vol.IV,fol.11 | 6 IV 1748 | h | — |   |
+| 87 | Nowawieś Olędry | Poznań, św. Wojciech | Nowawieś Dolna | 1748 (?) | — | AGH. Poznań, m. Nowawieś, vol.IV,fol.11 | 6 IV 1748 | 5 * | — |   |
 
 | 88 | Nowe al. Wielkokrobiclewskie Olędry[^137-2] | Goraj | Krobielewo | EE | — | AW. A. 1-0 | 18 VII 1661; 81 II! 1672; 23 II 1691; XM 1700 i 1 JIL1701 | 29 | — | — |
 
@@ -2818,7 +2818,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 90 | Nowe 4Dwory Olędry | Wieleń | Nowe Dwory | 1601 | las, łąki, zarośla | Rel. Posn. nr 140, r. 1601/2, f 6591 AW.A. I | 21 IT 1601 i I V 1677 | yz |   | 64 |
 
-| 91 | Nowosileńskie Olędry | Pszczew | w L] Nowa Silna | l | — | — | — | 38 | — | — |
+| 91 | Nowosileńskie Olędry | Pszczew | w L] Nowa Silna | l | — | — | — | 38 * | — | — |
 
 | 92 | Nowydom | Skwierzyna | Y 2 NoOwy Dwór | m | — | — | — | — | Ó | — |
 
@@ -2860,7 +2860,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 102 | Połajewskie Ołlędry | Czarnków | Połajewice | ok. 1760 | — | Dom.P.108ZU, fol. 39 | i (OO | 6) | — | — |
 
-| 103 | Popowo | Biezdrowo | Popowo | 1708 | wieś z bud | AGfl.s. Wronki, maj. Popowo, v. XIX. 199, fol. 32 | FIN 1106 | 15” | — | — |
+| 103 | Popowo | Biezdrowo | Popowo | 1708 | wieś z bud | AGfl.s. Wronki, maj. Popowo, v. XIX. 199, fol. 32 | FIN 1106 | 13 * | — | — |
 
 | 104 | Przyborowo | Kaźmierz | PrzyLosrowo | 1736 | — | AGrFEI.s.>zamotuły,maj. Myszkowo, Tax Acren, fol. 44 | 20 VI 1730 | 10 | — | — |
 
@@ -2916,7 +2916,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 119 | Skrzydlewo | Kamionna | Skrzydlcwo | 1785 | ta sama wieś i mieszkańcy | AGH. s. Międzychód, maj. Skrzydlewo, v. I, fol. 27 | 29 IV 1785 | 22 | — | — |
+| 119 | Skrzydlewo | Kamionna | Skrzydlcwo | 1785 | ta sama wieś i mieszkańcy | AGH. s. Międzychód, maj. Skrzydlewo, v. I, fol. 27 | 29 IV 1785 | 22 * | — | — |
 
 | 120 | Sławice | Łopuchowo | Sławica | — | — | — | — | e | — | — |
 
@@ -2924,7 +2924,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 122 | S$molary Olędry[^141-1] | Budziszewko | Smolarki | — | eny o | — | — | 20 | — | — |
 
-| 123 | Sowiagóra Olędry | Międzychód | Sowia Góra | 1702 ?) | — | AW. B.2,C.2 | 16 II 1702 | 12 | — | — |
+| 123 | Sowiagóra Olędry | Międzychód | Sowia Góra | 1702 ?) | — | AW. B.2,C.2 | 16 II 1702 | 12 * | — | — |
 
 | 124 | Stary Folwark Olędry | Trzciel | Stary Folwark | — | — | — | — | 10 | — | — |
 
@@ -2932,7 +2932,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 126 | Stróżewskie Olędry | Chodzicż | Stróżewice | 1730 | las | AW. A. I | 4 V 1730 | — | — | 49 |
 
-| 127 | Strychowskie Oiędry | Międzychód | Stryszyn | 1080 | las | Recl. Posn. nr 038, r. 1791, fol. 908 | IIXI 1086 | 15 | — | — |
+| 127 | Strychowskie Oiędry | Międzychód | Stryszyn | 1080 | las | Recl. Posn. nr 038, r. 1791, fol. 908 | IIXI 1086 | 15 * | — | — |
 
 | 128 | Strz:leckie Olędry | Chodzicż | Strzelczyki | 1735 | las | AW. GC. 3, f. 9 | I V 1753 | — | — | 11 |
 
@@ -2962,7 +2962,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 135 | Teressowo al. Ludomskic Olędry | Ludomy | Ludomicko | 1748 | — | AW. Ludem, B. 394 | 28 VI 1754 | 11 |   |   |
 
-| 136 | Tuchola Olędry | Sieraków | Tuchola | 1740 | las | AM. Sieraków, C. 53, fol. 95 | I XI1751 | 13 |   | gz=— |
+| 136 | Tuchola Olędry | Sieraków | Tuchola | 1740 | las | AM. Sieraków, C. 53, fol. 95 | 1 XI 1751 | 13 |   | gz=— |
 
 | 137 | Twardowo Olędry | Skórzewko | Twardowo | 4 | — | — | — | a | — | — |
 
@@ -3034,7 +3034,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 1 | Czapury[^143-2] | Głuszyna | Czapury | Ok. TT | LL] g | A«xYY. D. id s %.a" 4 4 (a' | śś vYAKLŻZ 1747 *y STY 5P7TASY | Z dd i 11 | — | — |
+| 1 | Czapury[^143-2] | Głuszyna | Czapury | Ok. TT | LL] g | A«xYY. D. id s %.a" 4 4 (a' | śś vYAKLŻZ 1747 *y STY 5P7TASY | 12 * | — | — |
 
 | 2 | Głębockic Olędry[^143-3] | Mur. Goślina | Giębocko | 1/4) | WICS R b | MY. AM. o. av.” TE > ">> | 44 4x1 Li'TO 111 X 1744 JO SZTT | zl 'a' |   | — |
 
@@ -3082,13 +3082,7 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 | 10 | Trzydomy[^144-1] | Chodzież | Trzy Domy | I /DO | zarośla | AW. CG. I, fol. 13 | lo IV 1755 | — | — | — |
 
-| 11 | Wiorek[^144-2] | Głuszyna | Wiorek | 1754 (?) | — | Bór., s. 30$ | 4 TIL1754 | 11 | t=——Hw ZZ ZZ |   |
-
-
-
-Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
-
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+| 11 | Wiorek[^144-2] | Głuszyna | Wiorek | 1754 (?) | — | Bór., s. 30$ | 4 TIL1754 | 11 | pz ZZ ZZ i] Z |   |
 
 | **Razem z poprzedn.** | — | — | — | — | — | — | — | 2.178 | 38 | 4.514 |
 
@@ -3101,13 +3095,15 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
-| 1 | Janikowo[^144-3] | Kicin | Janikowo | — | — | — | — | O | — | — |
+| 1 | Janikowo[^144-3] | Kicin | Janikowo | — | — | — | — | 9 * | — | — |
 
 | 2 | Jasień[^144-4] | Swarzędz | Jasin | — | — | — | — | 20 | — | — |
 
-| 3 | Łoskońskie Nowe Ol.[^144-5] | Długa Goślina | Stary Łoskoń | 1733 (?) | las | AW. B.366—7 | 1793 | 7 | — | — |
+| 3 | Łoskońskie Nowe Ol.[^144-5] | Długa Goślina | Stary Łoskoń | 1733 (?) | las | AW. B.366—7 | 1793 | 7 * | — | — |
 
-| 4 | Tuczno Olędry[^144-6] | Mur. Goslhna | Tuczno | — | — | u==—<ŹMHY ZZ ZZ ZZ Z ZZA ZAZZ:O.Z:A:. UU—— > III EEEE EEEE CH —< > > HH up CE | Ogółem | 2 2.210 | 38 | 514 |
+| 4 | Tuczno Olędry[^144-6] | Mur. Goslhna | Tuczno | — | — |   | ZZMJO.I | 2 |   |   |
+
+| **Ogółem** | — | — | — | — | — | — | — | 2.216 | 38 | 4.514 |
 
 
 

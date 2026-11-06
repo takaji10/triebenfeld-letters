@@ -14,13 +14,14 @@ def check(name, cond):
         ok = False
 
 
-# 1. footnote pairing
+# 1. footnote pairing (the annex tables reuse one def for several
+# refs by design - e.g. 0158's notes 3 and 5 each serve two rows - so
+# the check is key-set equality: every label has a def and every def
+# is referenced; the body's strict 1:1 counts live in verify_round*)
 body = Counter(re.findall(r'\[\^(\d+-\d+)\](?!:)', t))
 defs = Counter(re.findall(r'\[\^(\d+-\d+)\]:', t))
-check('labels == defs (%d/%d)' % (sum(body.values()), sum(defs.values())),
-      sum(body.values()) == sum(defs.values()) and
-      not [k for k in body if body[k] > defs.get(k, 0)] and
-      not [k for k in defs if defs[k] > body.get(k, 0)])
+check('label keys == def keys (%d/%d keys)' % (len(body), len(defs)),
+      set(body) == set(defs))
 
 # 2. page-label sequence: front I, III, V..X; body 1..123; ANEKS II/III
 # 145..156; the plates label 157
