@@ -3349,3 +3349,18 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   means pictures - photo/portrait-titled media only (51 people here),
   placeholder disc for everyone else. When a rule maps a class to a
   representation, check what the representative actually is.
+- **SVG text does not wrap; textLength is the fitter.** For card
+  layouts with variable names, lay the words by hand into lines and let
+  textLength/lengthAdjust="spacingAndGlyphs" compress any line that
+  would still overflow - character-count estimates alone stay estimates
+  (fonts vary by script and weight). A single unbreakable token needs
+  its own ellipsis; wrap-then-compress-then-ellipsis covers every name
+  shape.
+- **A PowerShell round-trip can silently mojibake a source file.**
+  Reading UTF-8 bytes as cp1252 (the console's default codepage) and
+  writing UTF-8 back turns every … › – into â€¦ â€º Ã¢ - the build
+  still succeeds, the damage only shows in the rendered glyphs. When a
+  scripted edit touches a file with non-ASCII text, list the file's
+  non-ASCII character set afterwards; encode-cp1252/decode-utf-8
+  reverses this particular corruption.
+

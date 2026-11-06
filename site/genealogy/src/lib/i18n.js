@@ -30,7 +30,7 @@ const STRINGS = {
     siblings: 'Siblings',
     sort_az: 'A–Z', sort_za: 'Z–A',
     sort_count: 'by count',
-    tree_hint: 'Click a person to bring their tree into view · scroll to zoom · drag to pan',
+    tree_hint: 'Click a person to open their page · scroll to zoom · drag to pan',
   },
   de: {
     app: 'Zelmer-Familien-Explorer',
@@ -60,7 +60,7 @@ const STRINGS = {
     siblings: 'Geschwister',
     sort_az: 'A–Z', sort_za: 'Z–A',
     sort_count: 'nach Anzahl',
-    tree_hint: 'Klicken Sie auf eine Person, um ihren Baum zu zentrieren · scrollen zum Vergrößern · ziehen zum Verschieben',
+    tree_hint: 'Klicken Sie auf eine Person, um ihre Seite zu öffnen · scrollen zum Vergrößern · ziehen zum Verschieben',
   },
   pl: {
     app: 'Eksplorator rodziny Zelmer',
@@ -90,7 +90,7 @@ const STRINGS = {
     siblings: 'Rodzeństwo',
     sort_az: 'A–Z', sort_za: 'Z–A',
     sort_count: 'według liczby',
-    tree_hint: 'Kliknij osobę, aby wyśrodkować jej drzewo · kółko = powiększanie · przeciąganie = przesuwanie',
+    tree_hint: 'Kliknij osobę, aby otworzyć jej stronę · kółko = powiększanie · przeciąganie = przesuwanie',
   },
 }
 

@@ -5061,6 +5061,39 @@ footer on every page. Changed, in both languages:
   PASSED with the project baseurl and with none (63,294 internal links
   each); the date formatter exercised headlessly in all three
   languages; the layout battery passes.
+
+## 2026-11-06: tree cards, avatars and the header, refined
+
+- **Long names no longer cut off** (the editor, on Jan Fryderyk
+  Zelmer): the card's name line wraps to two lines when needed - SVG
+  text does not wrap, so the words are laid by hand (nameLines in
+  Tree.svelte) - and a line that would still overflow is compressed to
+  the card's text width with SVG's textLength/lengthAdjust, the
+  browser's own fitting; a single unbreakable token (a name written
+  without spaces) loses its end to an ellipsis. The card grew its
+  lines to make room (name at y 14/27 or 21, years at 40, ID at 52).
+- **Clicking a person in the tree now opens their page** (the editor's
+  preference): the move through the tree is a navigation, not a
+  re-layout - the card flash marks the click for a quarter second
+  before the page turns, and the mode pills remain the way to re-root
+  the chart in place. The corner chevron (which had opened the same
+  page) is retired with its plumbing, the click behaviour being
+  identical; the hint line says "Click a person to open their page".
+- **The placeholder avatar is a silhouette** - a head-and-shoulders
+  figure on the tinted disc, drawn once as an SVG snippet and reused -
+  instead of the sex symbol; the sex remains on the card border's
+  colour and in the header.
+- **The person header gains the life dates after the sex symbol** -
+  the same formatted life line the relations show (12 MAR 1879 renders
+  as March 12, 1879).
+- Also repaired on the way: an encoding round-trip through a
+  cp1252-decoded write had mojibake'd Tree.svelte's non-ASCII
+  characters (… › and friends); detected by listing the file's
+  non-ASCII set and reversed by encode-cp1252/decode-utf-8.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none (63,294 internal links each); the layout battery
+  passes; the name-fitting checked over the whole index (the 43-char
+  longest name renders as two compressed lines, no overflow).
 - **The tree's clicks were swallowed by the pan's pointer capture** (the
   editor: clicking others in the tree does nothing). The viewport
   captures the pointer when a press starts - setPointerCapture is what

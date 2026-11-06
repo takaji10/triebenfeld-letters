@@ -2,9 +2,11 @@
   // The family trees: hourglass (default), pedigree (ancestors only) and
   // descendants. The layout is d3-flextree's tidy-tree algorithm
   // (tree.js); this component draws it and handles the interaction:
-  // scroll to zoom, drag (or pinch) to pan, and the two click targets -
-  // a card brings that person into view and expands their tree around
-  // them, the corner chevron opens their person page.
+  // scroll to zoom, drag (or pinch) to pan, and clicking a card opens
+  // that person's page (the editor's ruling, 2026-11-06: the move
+  // through the tree is a navigation). The mode pills re-root the chart
+  // in place on the person page (embed) and through the URL on the tree
+  // route.
   //
   // Embedded on the person page (embed): the mode pills and the
   // re-rooting act on local state, so moving around the tree never
@@ -59,7 +61,6 @@
     const card = e.target?.closest?.('[data-pid]')
     press = pointers.size === 1 && card
       ? { id: card.getAttribute('data-pid'),
-          chev: !!e.target.closest('.chev'),
           x: e.clientX, y: e.clientY }
       : null   // two fingers is a pinch, never a click
     if (pointers.size === 2) {
@@ -101,8 +102,7 @@
     if (e.type !== 'pointerup' || !was) return
     // a click: pointer stayed under 6px from press to release
     if (Math.hypot(e.clientX - was.x, e.clientY - was.y) < 6) {
-      if (was.chev) gotoPerson(was.id)
-      else reroot(was.id)
+      reroot(was.id)
     }
   }
 
@@ -137,20 +137,49 @@
     center(s)
   }
 
-  // clicking a card: that person becomes the focus and their tree
-  // expands around them, centred in view. The flash marks the new focus
-  // card so the change reads at a glance, and the caption names it.
+  // clicking a card opens that person's page - the editor's ruling
+  // (2026-11-06): the move through the tree is a navigation, not a
+  // re-layout; the mode pills and the URL carry the re-rooting. The
+  // flash marks the clicked card for the moment before the page turns.
   let flash = $state(false)
   let flashTimer = null
   function reroot(pid) {
-    if (embed) localId = pid
-    else goto('tree/' + pid + (effMode !== 'hourglass' ? '?mode=' + effMode : ''))
     flash = false
     clearTimeout(flashTimer)
     requestAnimationFrame(() => { flash = true })
     flashTimer = setTimeout(() => { flash = false }, 1600)
+    setTimeout(() => goto('person/' + pid), 250)
   }
   function gotoPerson(pid) { goto('person/' + pid) }
+
+  // the card's name line: fitted into the card's width, two lines when
+  // needed - SVG text does not wrap, so the words are laid by hand. A
+  // name that still does not fit loses its end to an ellipsis; the ID
+  // below the lines is the identity anyway.
+  const NAME_W = CARD_W - 50
+  function nameLines(full) {
+    const words = String(full || '').split(/\s+/).filter(Boolean)
+    const lines = []
+    let cur = ''
+    for (const w of words) {
+      const next = cur ? cur + ' ' + w : w
+      if (next.length > 18 && cur) {
+        lines.push(cur)
+        cur = w
+      } else {
+        cur = next
+      }
+    }
+    if (cur) lines.push(cur)
+    if (lines.length > 2) {
+      lines.length = 2
+      lines[1] = lines[1].replace(/\s*\S*$/, '') + '…'
+    }
+    // a single unbreakable word longer than the line (a name written
+    // without spaces) loses its end to an ellipsis as well
+    if (lines[0].length > 18) lines[0] = lines[0].slice(0, 18) + '…'
+    return lines.length ? lines : ['']
+  }
 </script>
 
 {#if !chart}
@@ -178,6 +207,17 @@
     <svg width={W} height={H}>
       <g transform="translate({tx},{ty}) scale({scale})">
         <g transform="translate({chart.baseX},{chart.baseY})">
+          {#snippet silhouette(cx, cy, r)}
+            <!-- the placeholder: a head-and-shoulders silhouette on the
+                 tinted disc, the same for everyone whose picture the
+                 database lacks -->
+            <circle cx={cx} cy={cy} r={r} fill="#e8e2d6" stroke="var(--rule)" />
+            <g fill="#b3a897">
+              <circle cx={cx} cy={cy - r * 0.38} r={r * 0.42} />
+              <path d={`M ${cx - r * 0.78} ${cy + r * 0.92}
+                       a ${r * 0.78} ${r * 0.62} 0 0 1 ${r * 1.56} 0 Z`} />
+            </g>
+          {/snippet}
           {#each chart.links as d}
             <path d={d} fill="none" stroke="var(--rule)" stroke-width="1.5" />
           {/each}
@@ -208,20 +248,31 @@
                 <circle cx="21" cy="21" r="13" fill="none"
                         stroke="var(--rule)" />
               {:else}
-                <circle cx="21" cy="21" r="13"
-                        fill={v?.sx === 'F' ? '#f0e4e9' : '#e5eaf2'}
-                        stroke="var(--rule)" />
-                <text x="21" y="26" text-anchor="middle" class="avsym">
-                  {v?.sx === 'F' ? '♀' : v?.sx === 'M' ? '♂' : '?'}</text>
+                {@render silhouette(21, 21, 13)}
               {/if}
-              <text x="42" y="16" text-anchor="start" class="nm">
-                {(v?.n || n.id).slice(0, 18)}
-              </text>
-              <text x="42" y="31" text-anchor="start" class="yrs">
+              {#if nameLines(v?.n || n.id).length === 2}
+                <text x="42" y="14" text-anchor="start" class="nm"
+                      textLength={nameLines(v?.n || n.id)[0].length > 18 ? NAME_W : undefined}
+                      lengthAdjust="spacingAndGlyphs">
+                  {nameLines(v?.n || n.id)[0]}
+                </text>
+                <text x="42" y="27" text-anchor="start" class="nm"
+                      textLength={nameLines(v?.n || n.id)[1].length > 18 ? NAME_W : undefined}
+                      lengthAdjust="spacingAndGlyphs">
+                  {nameLines(v?.n || n.id)[1]}
+                </text>
+              {:else}
+                <text x="42" y="21" text-anchor="start" class="nm"
+                      textLength={nameLines(v?.n || n.id)[0].length > 18 ? NAME_W : undefined}
+                      lengthAdjust="spacingAndGlyphs">
+                  {nameLines(v?.n || n.id)[0]}
+                </text>
+              {/if}
+              <text x="42" y="40" text-anchor="start" class="yrs">
                 {v?.L ? i18n.t('living')
                   : (v?.b || v?.d ? `${v?.b ?? ''}–${v?.d ?? ''}` : '')}
               </text>
-              <text x="42" y="45" text-anchor="start" class="pid">
+              <text x="42" y="52" text-anchor="start" class="pid">
                 {n.id}
               </text>
               <rect width={CARD_W} height={CARD_H} fill="transparent"
@@ -246,33 +297,35 @@
                     <circle cx="21" cy="21" r="13" fill="none"
                             stroke="var(--rule)" />
                   {:else}
-                    <circle cx="21" cy="21" r="13"
-                            fill={sv?.sx === 'F' ? '#f0e4e9' : '#e5eaf2'}
-                            stroke="var(--rule)" />
-                    <text x="21" y="26" text-anchor="middle" class="avsym">
-                      {sv?.sx === 'F' ? '♀' : sv?.sx === 'M' ? '♂' : '?'}</text>
+                    {@render silhouette(21, 21, 13)}
                   {/if}
-                  <text x="42" y="16" text-anchor="start" class="nm">
-                    {(sv?.n || n.spouse).slice(0, 18)}
-                  </text>
-                  <text x="42" y="31" text-anchor="start" class="yrs">
+                  {#if nameLines(sv?.n || n.spouse).length === 2}
+                    <text x="42" y="14" text-anchor="start" class="nm"
+                          textLength={nameLines(sv?.n || n.spouse)[0].length > 18 ? NAME_W : undefined}
+                          lengthAdjust="spacingAndGlyphs">
+                      {nameLines(sv?.n || n.spouse)[0]}
+                    </text>
+                    <text x="42" y="27" text-anchor="start" class="nm"
+                          textLength={nameLines(sv?.n || n.spouse)[1].length > 18 ? NAME_W : undefined}
+                          lengthAdjust="spacingAndGlyphs">
+                      {nameLines(sv?.n || n.spouse)[1]}
+                    </text>
+                  {:else}
+                    <text x="42" y="21" text-anchor="start" class="nm"
+                          textLength={nameLines(sv?.n || n.spouse)[0].length > 18 ? NAME_W : undefined}
+                          lengthAdjust="spacingAndGlyphs">
+                      {nameLines(sv?.n || n.spouse)[0]}
+                    </text>
+                  {/if}
+                  <text x="42" y="40" text-anchor="start" class="yrs">
                     {sv?.L ? i18n.t('living')
                       : (sv?.b || sv?.d ? `${sv?.b ?? ''}–${sv?.d ?? ''}` : '')}
                   </text>
-                  <text x="42" y="45" text-anchor="start" class="pid">
+                  <text x="42" y="52" text-anchor="start" class="pid">
                     {n.spouse}
                   </text>
                   <rect width={CARD_W} height={CARD_H} fill="transparent"
                         class="hit" />
-                </g>
-              {/if}
-              {#if !n.focus}
-                <g class="chev" data-chev="1">
-                  <title>{i18n.t('go_to_person')}</title>
-                  <circle cx={CARD_W - 4} cy={CARD_H + 1} r="9"
-                          fill="var(--accent)" opacity="0.85" />
-                  <text x={CARD_W - 4} y={CARD_H + 5} text-anchor="middle"
-                        fill="#fff" class="che">›</text>
                 </g>
               {/if}
             </g>
@@ -298,7 +351,6 @@
     70% { stroke-width: 3; }
     100% { stroke-width: 2; }
   }
-  .avsym { font-size: 13px; fill: var(--faint); }
   .viewport { overflow: hidden; border: 1px solid var(--rule); border-radius: 3px;
     background: var(--paper2); touch-action: none; cursor: grab;
     user-select: none; max-height: 78vh; }
@@ -306,14 +358,12 @@
   .viewport:active { cursor: grabbing; }
   svg { display: block; }
   text { font-family: var(--sans); pointer-events: none; }
-  .nm { font-size: 11px; fill: var(--ink); }
+  .nm { font-size: 10.5px; fill: var(--ink); }
   .yrs { font-size: 9.5px; fill: var(--faint); }
   .pid { font-family: ui-monospace, Consolas, monospace; font-size: 8px;
     fill: var(--faint); }
   .node.living rect { stroke-dasharray: 3 2; }
   .node .hit { cursor: pointer; }
-  .chev { cursor: pointer; opacity: 0; transition: opacity .15s ease; }
-  .node:hover .chev { opacity: 1; }
-  .che { font-size: 12px; }
+    .che { font-size: 12px; }
   .hint { font-size: .74rem; color: var(--faint); margin: .3rem 0 0; }
 </style>

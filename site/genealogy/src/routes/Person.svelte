@@ -118,12 +118,19 @@
         {#if avatar(id)}
           <img class="avatar" src={avatar(id)} alt="">
         {:else}
-          <span class="avatar ph">{shard.sex === 'F' ? '♀' : shard.sex === 'M' ? '♂' : '?'}</span>
+          <svg class="avatar" viewBox="0 0 48 48" aria-hidden="true">
+            <circle cx="24" cy="24" r="23" fill="#e8e2d6" stroke="var(--rule)" />
+            <g fill="#b3a897">
+              <circle cx="24" cy="18.5" r="9" />
+              <path d="M 8 41 a 16 12.5 0 0 1 32 0 Z" />
+            </g>
+          </svg>
         {/if}
         <div>
           <h1>{shard.name} <span class="idn">{id}</span></h1>
           <div class="pills">
             <span class="sxline">{shard.sex === 'F' ? '♀' : shard.sex === 'M' ? '♂' : ''}</span>
+            {#if db.index?.[id]}<span class="headlife">{life(db.index[id])}</span>{/if}
             {#if shard.living}<span class="pill warn">{i18n.t('privacy_note')}</span>{/if}
             {#each shard.names as alt}
               {#if alt.type}<span class="pill dim">{alt.type}: {alt.given} {alt.surname}</span>{/if}
@@ -292,6 +299,7 @@
     border: 1px solid var(--rule); background: var(--card); flex: none; }
   .avatar.ph { display: grid; place-items: center; font-size: 1.6rem;
     color: var(--faint); }
+  .headlife { color: var(--faint); font-size: .84rem; }
   .idn { font-family: ui-monospace, Consolas, monospace; font-size: .82rem;
     color: var(--faint); font-weight: 400; margin-left: .35rem; }
   .sxline { color: var(--soft); font-size: 1rem; }
