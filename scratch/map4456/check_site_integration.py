@@ -9,8 +9,9 @@ Serves site/_site statically, drives it in headless Edge, and checks:
   - the farm pills carry the proper spellings; institutions speak the
     page's language
   - red pills are grey; toggling them on works
-  - the settlers' table has the Proper spelling column, conjectural rows
-    marked with *
+  - the settlers' table: one Settler column with the proper names only
+    (institutions speaking the page's language), conjectural rows marked
+    with *, and hectares in parentheses after the 1868 Morgen
   - document 6: the translation view's table shows the proper names;
     diplomatic view keeps the Cyrillic
 """
@@ -97,14 +98,25 @@ def main():
         check('the red pills are grey now', bg in
               ('rgba(96, 96, 100, 0.88)', 'rgb(96, 96, 100)'), str(bg))
 
-        # the settlers' table: the Proper spelling column
+        # the settlers' table: the single Settler column carries the proper
+        # names only; the holdings carry hectares after the 1868 Morgen
         heads = page.eval_on_selector_all(
             '.farm-table th', 'els => els.map(e => e.textContent.trim())')
-        check('the table has the Proper spelling column',
-              any('Proper spelling' in h for h in heads), str(heads))
+        check('the table is No. / Settler / Holding (no documentary names)',
+              str(heads) == "['No.', 'Settler', 'Holding', 'The farmsteads']",
+              str(heads))
         row2 = page.locator('#farm-2').inner_text()
-        check('row 2 shows Gibel in the proper-spelling column',
-              'Gibel' in row2, row2[:80])
+        check('row 2 shows Gibel Martin with hectares',
+              'Gibel Martin' in row2 and 'Gebel' not in row2
+              and '(16.7 ha)' in row2.replace('\u00a0', ' '),
+              row2.replace('\n', ' | ')[:110])
+        row1 = page.locator('#farm-1').inner_text()
+        check('row 1 keeps its conjectural asterisk and tooltip',
+              'Kończyński Jakub*' in row1, row1[:80])
+        row92 = page.locator('#farm-92').inner_text()
+        check('row 92 shows the school’s English label',
+              'Village school' in row92 and 'Szkoła' not in row92,
+              row2[:60])
         conj = page.evaluate(
             "document.querySelectorAll('.farm-conj').length")
         check('conjectural rows carry the asterisk mark (%d)' % conj,
@@ -130,9 +142,12 @@ def main():
               'Dorfschule' in t92, t92[:60])
         heads = page.eval_on_selector_all(
             '.farm-table th', 'els => els.map(e => e.textContent.trim())')
-        check('DE page: the proper-spelling column reads '
-              'Richtige Schreibweise',
-              any('Richtige Schreibweise' in h for h in heads), str(heads))
+        check('DE page: the settler column reads Siedler, the school '
+              'speaks German, holdings carry ha',
+              'Siedler' in str(heads)
+              and 'Dorfschule' in page.locator('#farm-92').inner_text()
+              and 'ha)' in page.locator('#farm-2').inner_text(),
+              str(heads))
         check('DE map page: no page errors', not errs, '; '.join(errs[:2]))
         page.close()
 

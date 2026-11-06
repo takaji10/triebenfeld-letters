@@ -252,7 +252,18 @@ def main():
             marked = {mk['n'] for mk in marks}
             rows = []
             for s in (farms.get('settlers') or []):
-                rows.append(dict(s, mark=s['n'] in marked))
+                # the 1868 statement's Morgen and rods in hectares, for the
+                # table's parenthetical after the morgen figures: the mórg
+                # nowopolski, the Królestwo's official morga of 1819 (0.5598
+                # ha, 300 square rods - the table's own rods run to 295, so
+                # the 300-rod mórg is the unit it writes in). The survey of
+                # 1896 measured the holding anew and found it larger; the
+                # hectares convert the 1868 figures alone, beside them.
+                ha = None
+                if s.get('morgen') is not None:
+                    ha = round((s['morgen'] + (s.get('rods') or 0) / 300.0)
+                               * 0.5598, 1)
+                rows.append(dict(s, mark=s['n'] in marked, ha=ha))
             out_maps[key]['farms'] = {
                 'source': farms.get('source') or {},
                 'marks': marks,

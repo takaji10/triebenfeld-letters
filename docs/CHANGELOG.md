@@ -4703,3 +4703,19 @@ footer on every page. Changed, in both languages:
   verify_site ALL CHECKS PASSED (61,775 links), and the real-browser
   checks - the plots button and SVG asserted absent, everything else
   unchanged (22/22).
+- The settlers' table re-worked at the editor's word (2026-11-06): one
+  Settler column, carrying the proper names alone - the documentary
+  transliterations (Gebel Martin) are off the table, the map's pills
+  already showed the proper spellings - the institutional rows speaking
+  the page's language (Village school / Dorfschule); and the 1868
+  statement's Morgen and rods now carry hectares in parentheses
+  ("29 M 262 r, 1868 (16.7 ha)"), converted at the mórg nowopolski, the
+  Królestwo's official morga of 1819-1849 and the one used in practice to
+  the mid-twentieth century (0.5598 ha, 300 square rods - the table's own
+  rods run to 295, so the 300-rod mórg is the unit it writes in; the
+  Prussian small Morgen of 0.2553 ha is ruled out by the same figures).
+  The survey of 1896 measured the holding anew and found it larger
+  (5-21% on every row checked), so the hectares convert the 1868 figures
+  alone and stand beside the 1896 desyatinas, not against them. The
+  conversion is computed per row in pipeline/maps/map_pages.py; the
+  Proper spelling header string is retired from i18n.yml.

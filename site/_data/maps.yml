@@ -2865,6 +2865,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: 'Кончинскій: the stem could be Kończyn- or Koncin- (also possible: Konchiński)'
       mark: true
+      ha: 9.7
     - n: 2
       name: Gebel Martin
       name_1868: Gebel Martin
@@ -2879,6 +2880,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: Gibel, not Göbel — seen in other records (editor, 2026-11-05)
       mark: true
+      ha: 16.7
     - n: 3
       name: Merts Karl
       name_1868: Merts Karl
@@ -2893,6 +2895,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
       mark: true
+      ha: 27.0
     - n: 4
       name: Kholm Daniil
       name_1868: Kholm Daniel
@@ -2906,6 +2909,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 22.7
     - n: 5
       name: Merts Gotlib
       name_1868: Merts Gotlib
@@ -2920,6 +2924,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
       mark: true
+      ha: 4.5
     - n: 6
       name: Girsh Kristiian
       name_1868: Girsh Kristiian
@@ -2934,6 +2939,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Giersz (Polish))'
       mark: true
+      ha: 10.0
     - n: 7
       name: Kinast Vilgelm
       name_1868: Kinast Vilgelm
@@ -2947,6 +2953,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 8.6
     - n: 8
       name: Strzhizhikovskii Frants
       name_1868: Strzhizhikovskii Frants
@@ -2961,6 +2968,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: 'from strzyżyk (the wren) or the place Strzyżów (also possible: Strzyżowski)'
       mark: true
+      ha: 6.4
     - n: 9
       name: Sanikovskii Martin
       name_1868: Sanikovskii Martsin — 18 282
@@ -2975,6 +2983,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Sannikowski)'
       mark: true
+      ha: 10.7
     - n: 10
       name: Marek Vilgelm
       name_1868: Marek Vilgelm — 22 277
@@ -2989,6 +2998,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: 'the surname is Polish as spelt; Breyer''s 1875 pencil note: a Merz farmed it'
       mark: true
+      ha: 18.2
     - n: 11
       name: Grunvald Kristof
       name_1868: Grunvald Kristof
@@ -3002,6 +3012,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 12.8
     - n: 12
       name: '[uncertain: Slivinskii] Gotlib'
       name_1868: Slivinskii Gotlib
@@ -3017,6 +3028,7 @@ pelzucki1896:
       norm_note: 'collation: the 1868, 1869 and Breyer readings agree plainly - the 1896 uncertainty can
         be lifted (ruling pending)'
       mark: false
+      ha: 8.1
     - n: 13
       name: Shteinbord Iulian
       name_1868: Shteinbord Iulian
@@ -3031,6 +3043,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Steinbord, Steinbardt)'
       mark: true
+      ha: 9.7
     - n: 14
       name: Kholm Vilgelm
       name_1868: Kholm Vilgelm
@@ -3044,6 +3057,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 7.8
     - n: 15
       name: Falk Avgust
       name_1868: Falk Avgust
@@ -3057,6 +3071,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 2.8
     - n: 16
       name: Merts Kristiian
       name_1868: Merts Kristiian
@@ -3071,6 +3086,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
       mark: true
+      ha: 13.1
     - n: 17
       name: Merts Martin
       name_1868: Merts Martsin
@@ -3085,6 +3101,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
       mark: true
+      ha: 5.0
     - n: 18
       name: Sanikovskii Osip
       name_1868: Sanikovskii Osip
@@ -3099,6 +3116,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Sannikowski)'
       mark: true
+      ha: 15.6
     - n: 19
       name: Stirtsenbeker Kristiian
       name_1868: '[uncertain: Sturtsenbekher] Kristiian'
@@ -3114,6 +3132,7 @@ pelzucki1896:
       norm_note: the three Russian spellings (Sturtsenbekher, Shtirtsenbeker, Stirtsenbeker) all point
         here; a documented Olęder surname - confirm
       mark: true
+      ha: 8.4
     - n: 20
       name: Sanikovskii Ian
       name_1868: Sanikovskii Ivan
@@ -3128,6 +3147,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Sannikowski)'
       mark: true
+      ha: 13.8
     - n: 21
       name: heirs of Goske Karla
       name_1868: heirs of Goske Karla
@@ -3142,6 +3162,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: the heirs rows reorder to the given name first, as their own languages write them
       mark: true
+      ha: 14.2
     - n: 22
       name: Bludzinskii Ivan
       name_1868: Bludzinskii Ivan
@@ -3155,6 +3176,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 5.6
     - n: 23
       name: Shmigelskii Vilgelm
       name_1868: Shmigelskii Vilgelm
@@ -3168,6 +3190,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 27.6
     - n: 24
       name: heirs of Rogatskago Petra
       name_1868: heirs of Rogatskago Petra
@@ -3181,6 +3204,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 17.2
     - n: 25
       name: '[uncertain: Promins] Shchepan'
       name_1868: Promist Shchepan
@@ -3195,6 +3219,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: all four witnesses hesitate on the same word (Promist/Promins) - stays uncertain
       mark: false
+      ha: 7.4
     - n: 26
       name: Runga Voitsekh
       name_1868: Runga Voitsekh
@@ -3209,6 +3234,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: the given name is Polish (Wojciech) - normalised per element
       mark: true
+      ha: 20.6
     - n: 27
       name: heirs of Runga Gotfrida
       name_1868: heirs of Runga Gotfrida
@@ -3222,6 +3248,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 10.2
     - n: 28
       name: Falkenberg Martin
       name_1868: Falkenberg Martsin
@@ -3235,6 +3262,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: false
+      ha: 23.1
     - n: 29
       name: Goska Osip
       name_1868: Goska Osip
@@ -3249,6 +3277,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: 'Goska → Goske: the 1868 genitive (Госкѣ) spells it with e'
       mark: true
+      ha: 8.7
     - n: 30
       name: Shults Kristiian
       name_1868: Shults Kristiian
@@ -3262,6 +3291,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: false
+      ha: 4.3
     - n: 31
       name: Knafkus Vilgelm
       name_1868: Knafkus Vilgelm
@@ -3276,6 +3306,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Knaufkus)'
       mark: true
+      ha: 0.9
     - n: 32
       name: heirs of Rungi Voitsekha
       name_1868: heirs of Runge Voitsekha
@@ -3290,6 +3321,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: Рунги is the genitive of Runge
       mark: true
+      ha: 3.1
     - n: 33
       name: heirs of Rungi Gotfrida
       name_1868: heirs of Runge Gotfrida
@@ -3303,6 +3335,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 14.6
     - n: 34
       name: Runge Martin
       name_1868: Runge Martin
@@ -3316,6 +3349,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 1.3
     - n: 35
       name: Kitke Kristiian
       name_1868: Kitke Kristiian
@@ -3330,6 +3364,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Kietke)'
       mark: true
+      ha: 3.4
     - n: 36
       name: Fridenberg Kristof
       name_1868: Fridenberg Kristof
@@ -3343,6 +3378,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 11.0
     - n: 37
       name: Tselmer Gotfrid
       name_1868: Tselmer Gotfrid
@@ -3357,6 +3393,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
       mark: true
+      ha: 14.6
     - n: 38
       name: Malinovskii Petr
       name_1868: Malinovskii Petr
@@ -3370,6 +3407,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 3.3
     - n: 39
       name: Khaupt Kristiian
       name_1868: Khaupt Frants Kristiian
@@ -3384,6 +3422,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: 1868 reads Haupt Franz Christian - the 1896 clerk dropped the middle name
       mark: true
+      ha: 7.6
     - n: 40
       name: Shvebs Karl Veniiamin
       name_1868: Shvebs Karl Veniiamin
@@ -3398,6 +3437,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Schwabs)'
       mark: true
+      ha: 2.6
     - n: 41
       name: Shtirtsenbeker Karl
       name_1868: Shtirtsenbekher Karl
@@ -3412,6 +3452,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: as farm 19
       mark: true
+      ha: 4.6
     - n: 42
       name: heirs of Betke Kristiiana
       name_1868: heirs of Betke Kristiiana
@@ -3425,6 +3466,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 4.8
     - n: 43
       name: Kinast Mateush
       name_1868: Kinast Mateush
@@ -3438,6 +3480,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: false
+      ha: 2.1
     - n: 44
       name: Rash Friderik
       name_1868: Rash Friderik Ivan
@@ -3452,6 +3495,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: 1868 reads Rasch Friedrich Ivan - the 1896 clerk dropped Ivan (Johann)
       mark: true
+      ha: 30.0
     - n: 45
       name: Bandzert Emanuil
       name_1868: Bandzert Emanuil
@@ -3466,6 +3510,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Bandzert, Bansert)'
       mark: true
+      ha: 2.3
     - n: 46
       name: Kun Gotfrid
       name_1868: Kun Gotfrid
@@ -3480,6 +3525,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Kühn, Kun)'
       mark: true
+      ha: 21.4
     - n: 47
       name: Zeer Kristiian
       name_1868: Zeer Kristiian
@@ -3494,6 +3540,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Seher)'
       mark: true
+      ha: 23.7
     - n: 48
       name: Bandzert Morits
       name_1868: Bandzert Morits
@@ -3508,6 +3555,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Bandzert, Bansert)'
       mark: false
+      ha: 20.4
     - n: 49
       name: Merts Avgust
       name_1868: Merts Avgust
@@ -3522,6 +3570,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
       mark: true
+      ha: 18.6
     - n: 50
       name: Tselmer Genrikh
       name_1868: Tselmer Genrikh
@@ -3536,6 +3585,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
       mark: true
+      ha: 19.7
     - n: 51
       name: Gebel Karl
       name_1868: Gebel Karl
@@ -3550,6 +3600,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: 'editor''s ruling 2026-11-05: Gibel in other records (not Göbel)'
       mark: true
+      ha: 8.0
     - n: 52
       name: Shmigelskii Samuil
       name_1868: Shmigelskii Samuil
@@ -3563,6 +3614,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 7.9
     - n: 53
       name: heirs of Tselmera Daniila
       name_1868: heirs of Tselmera Daniila
@@ -3577,6 +3629,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
       mark: true
+      ha: 6.8
     - n: 54
       name: Bitner Andrei
       name_1868: Bitner Andrei
@@ -3591,6 +3644,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: Bitner, not Büttner — seen in other records (editor, 2026-11-05)
       mark: true
+      ha: 17.0
     - n: 55
       name: Rytamer Anton
       name_1868: Rytamer Anton
@@ -3605,6 +3659,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Rytamer, Riedamer)'
       mark: true
+      ha: 7.5
     - n: 56
       name: Przhistanskii Anton
       name_1868: Przhistanskii Anton
@@ -3619,6 +3674,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: 'прж renders the Polish prz- (also possible: Przystalski, Przytański)'
       mark: true
+      ha: 2.9
     - n: 57
       name: Bartel Karl Liudvik
       name_1868: Bartel Karl Liudvik
@@ -3632,6 +3688,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 3.5
     - n: 58
       name: Goske Voitsekh
       name_1868: Goske Voitsekh
@@ -3646,6 +3703,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: the given name is Polish
       mark: true
+      ha: 9.2
     - n: 59
       name: Gints Liudvik
       name_1868: Gints Liudvik
@@ -3661,6 +3719,7 @@ pelzucki1896:
       norm_note: 'cf. Hintz in Breyer''s tables of the neighbouring colonies (APP 716, doc 5160) (also
         possible: Hinz, Ginz)'
       mark: true
+      ha: 9.5
     - n: 60
       name: Shtark Daniil
       name_1868: Shtark Daniil
@@ -3674,6 +3733,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 4.8
     - n: 61
       name: Kinast Voitsekh
       name_1868: Kinast Voitsekh
@@ -3688,6 +3748,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: the given name is Polish
       mark: true
+      ha: 29.3
     - n: 62
       name: Kusman Gotlib
       name_1868: Kusman Gotlib
@@ -3702,6 +3763,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Kusman, Kußmann)'
       mark: true
+      ha: 1.2
     - n: 63
       name: heirs of Kinasta Voitsekha
       name_1868: heirs of Kinasta Voitsekha
@@ -3716,6 +3778,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: the given name is Polish
       mark: true
+      ha: 8.8
     - n: 64
       name: Gerke Gotfrid
       name_1868: Gerke Gotfrid
@@ -3729,6 +3792,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: false
+      ha: 3.3
     - n: 65
       name: Tselmer Mikhail
       name_1868: Tselmer Mikhail
@@ -3743,6 +3807,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
       mark: true
+      ha: 20.6
     - n: 66
       name: Shtark Avgust
       name_1868: Shtark Avgust
@@ -3756,6 +3821,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 10.5
     - n: 67
       name: Tselmer Avgust
       name_1868: Tselmer Avgust
@@ -3770,6 +3836,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
       mark: true
+      ha: 12.7
     - n: 68
       name: Lipelt Martin
       name_1868: Lipelt Martsin
@@ -3783,6 +3850,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 8.1
     - n: 69
       name: Gotter Avgust
       name_1868: Gotter Avgust
@@ -3796,6 +3864,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 10.8
     - n: 70
       name: Morits Gotfrid
       name_1868: Morits Gotfrid
@@ -3810,6 +3879,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: the surname here is Moritz (Морицъ), the given name Gottfried
       mark: true
+      ha: 30.8
     - n: 71
       name: Obst Vilgelm
       name_1868: Obst Vilgelm
@@ -3823,6 +3893,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 3.3
     - n: 72
       name: Reikh Kristiian
       name_1868: Reikh Kristiian
@@ -3836,6 +3907,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 16.2
     - n: 73
       name: Shvebs Ivan
       name_1868: Shvebs Ivan
@@ -3850,6 +3922,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Schwabs)'
       mark: true
+      ha: 7.1
     - n: 74
       name: Khaupt Gotlib
       name_1868: Khaupt Gotlib
@@ -3863,6 +3936,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 4.7
     - n: 75
       name: Khaupt Gotfrid
       name_1868: Khaupt Gotfrid Kristiian
@@ -3878,6 +3952,7 @@ pelzucki1896:
       norm_note: 1868 reads Haupt Gottfried Christian - the middle name distinguishes him from the Christian
         Haupt of farm 76 (father and son); the 1896 clerk dropped it
       mark: true
+      ha: 17.5
     - n: 76
       name: Khaupt Kristiian
       name_1868: Khaupt Kristiian Kristiianov
@@ -3893,6 +3968,7 @@ pelzucki1896:
       norm_note: 1868 reads Khaupt Kristiian Kristiianov = Christian, son of Christian - the patronymic
         is what tells him from farm 75; the 1896 clerk dropped it
       mark: true
+      ha: 7.3
     - n: 77
       name: Gebel Kristiian
       name_1868: Khaupt Gotfridov Kristiian
@@ -3909,6 +3985,7 @@ pelzucki1896:
         1868 table, the 1869 copy and Breyer all read Khaupt Gotfridov Kristiian (Haupt, Gottfried''s
         son). Rule: clerk''s error, or the farm changed hands (docs 4-5)?'
       mark: true
+      ha: 6.8
     - n: 78
       name: Zelchak Foma
       name_1868: Zelchak Foma
@@ -3923,6 +4000,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Zelczak, Selczak)'
       mark: true
+      ha: 3.6
     - n: 79
       name: Shchepinskii Petr
       name_1868: Shchepinskii Petr
@@ -3936,6 +4014,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: false
+      ha: 3.3
     - n: 80
       name: Fogel Vilgelm
       name_1868: Fogel Vilgelm
@@ -3949,6 +4028,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 1.5
     - n: 81
       name: Sheinfish Vilgelm
       name_1868: Sheinfish Vilgelm
@@ -3963,6 +4043,7 @@ pelzucki1896:
       norm_conf: firm
       norm_note: Schönfisch, not Scheinfisch (editor, 2026-11-05)
       mark: true
+      ha: 30.6
     - n: 82
       name: Rogatskii Stanislav
       name_1868: Rogatskii Stanislav
@@ -3976,6 +4057,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 9.5
     - n: 83
       name: Fetter Ivan
       name_1868: Fetter Ivan
@@ -3990,6 +4072,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Vetter)'
       mark: true
+      ha: 1.5
     - n: 84
       name: heirs of Shtirtsenbekera
       name_1868: heirs of Shtirtsenbekhera Ivana
@@ -4005,6 +4088,7 @@ pelzucki1896:
       norm_note: '1868 names the deceased: Ivan (Johann); the 1896 clerk dropped the given name - restored
         here from the 1868 witness'
       mark: true
+      ha: 2.9
     - n: 85
       name: Kinast Kristiian
       name_1868: Kinast Kristiian
@@ -4018,6 +4102,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: false
+      ha: 1.1
     - n: 86
       name: Khaupt Gotfrid
       name_1868: Khaupt Gotfrid
@@ -4031,6 +4116,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 2.3
     - n: 87
       name: Khaupt Vilgelm
       name_1868: Khaupt Vilgelm
@@ -4044,6 +4130,7 @@ pelzucki1896:
       name_lang: de
       norm_conf: firm
       mark: true
+      ha: 8.2
     - n: 88
       name: German Voitsekh
       name_1868: German Voitsekh
@@ -4058,6 +4145,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: Германъ as surname → Hermann; the given name is Polish (Wojciech)
       mark: false
+      ha: 1.1
     - n: 89
       name: heirs of Tarnovskago Mikhaila
       name_1868: heirs of Tarnovskago Mikhaila
@@ -4071,6 +4159,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 1.2
     - n: 90
       name: Rogovich Martin
       name_1868: Martsin Rogovich
@@ -4085,6 +4174,7 @@ pelzucki1896:
       norm_conf: conjectural
       norm_note: '(also possible: Rogowitz)'
       mark: true
+      ha: null
     - n: 91
       name: Marylskii Ivan
       name_1868: Marylskii Ivan
@@ -4098,6 +4188,7 @@ pelzucki1896:
       name_lang: pl
       norm_conf: firm
       mark: true
+      ha: 3.0
     - n: 92
       name: Village school
       name_1868: Farmstead of the village school
@@ -4114,6 +4205,7 @@ pelzucki1896:
       norm_conf: firm
       institution: true
       mark: true
+      ha: 11.6
     - n: 93
       name: Common cemetery
       name_1868: Common cemetery
@@ -4130,6 +4222,7 @@ pelzucki1896:
       norm_conf: firm
       institution: true
       mark: true
+      ha: 1.6
     - n: 94
       name: Plot of common land
       name_1868: Plot of common land
@@ -4146,6 +4239,7 @@ pelzucki1896:
       norm_conf: conjectural
       institution: true
       mark: false
+      ha: 0.7
     - n: 95
       name: The village headman's plot
       name_1868: The village headman's plot
@@ -4162,6 +4256,7 @@ pelzucki1896:
       norm_conf: firm
       institution: true
       mark: false
+      ha: 1.6
     - n: 96
       name: Reikh Kristiian
       name_1868: Reikh Kristiian
@@ -4177,6 +4272,7 @@ pelzucki1896:
       norm_note: the 1896 columns are dotted (..) and the name duplicates farm 72 - the same man's second
         plot, or a clerical repetition; check the scan
       mark: false
+      ha: 0.6
     - n: 97
       name: Roads
       name_1868: Under roads
@@ -4193,6 +4289,7 @@ pelzucki1896:
       norm_conf: firm
       institution: true
       mark: false
+      ha: 3.8
   reds:
   - n: '56'
     x: 13055

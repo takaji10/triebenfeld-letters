@@ -201,7 +201,6 @@ layout: default
     <thead><tr>
       <th scope="col" class="num">{{ t.map_farm_no }}</th>
       <th scope="col">{{ t.map_farm_settler }}</th>
-      <th scope="col">{{ t.map_farm_norm }}</th>
       <th scope="col">{{ t.map_farm_size }}</th>
       <th scope="col"><span class="visually-hidden">{{ t.map_farms_h2 }}</span></th>
     </tr></thead>
@@ -209,9 +208,8 @@ layout: default
     {%- for s in m.farms.rows %}
     <tr id="farm-{{ s.n }}" data-farm="{{ s.n }}" class="{% unless s.mark %}farm-nomark{% endunless %}">
       <td class="num">{{ s.n }}</td>
-      <td>{{ s.name }}{% if s.changed and s.name_1868 %} <span class="farm-old">({{ s.name_1868 }})</span>{% endif %}</td>
-      <td class="farm-norm">{% if s.name_norm %}{% if s.norm_conf == 'conjectural' %}<span class="farm-conj" title="{{ s.norm_note | escape }}">{{ s.name_norm }}*</span>{% else %}{{ s.name_norm }}{% endif %}{% endif %}</td>
-      <td>{{ s.total }}{% if s.morgen %} <span class="farm-old">{{ s.morgen }}&nbsp;M&nbsp;{{ s.rods }}&nbsp;r, 1868</span>{% endif %}</td>
+      <td>{% if s.institution %}{% if lang == 'de' %}{{ s.name_de }}{% else %}{{ s.name }}{% endif %}{% else %}{% if s.name_norm %}{% if s.norm_conf == 'conjectural' %}<span class="farm-conj" title="{{ s.norm_note | escape }}">{{ s.name_norm }}*</span>{% else %}{{ s.name_norm }}{% endif %}{% endif %}{% endif %}</td>
+      <td>{{ s.total }}{% if s.morgen %} <span class="farm-old">{{ s.morgen }}&nbsp;M{% if s.rods %}&nbsp;{{ s.rods }}&nbsp;r{% endif %}, 1868{% if s.ha %} ({{ s.ha }}&nbsp;ha){% endif %}</span>{% endif %}</td>
       <td class="farm-do">
         {%- if s.mark %}<a class="map-chip" href="#farm-{{ s.n }}" data-farm="{{ s.n }}">{{ t.map_locate }}</a>{% endif %}
         <a class="map-chip" href="{{ '/documents/' | relative_url }}{{ m.farms.source.unit }}/{{ m.farms.source.doc }}/" rel="noopener">{{ t.map_farm_details }}</a>
@@ -477,9 +475,8 @@ html[data-ml="de"] .ml-pl { display: none; }
    uncertain readings marked by their own [?] and tooltip, not by colour */
 .red-tag { font-family: var(--sans); font-size: 10px; line-height: 1.2; padding: 1px 5px; background: rgba(96, 96, 100, .88); color: #fff; border-radius: 8px; white-space: nowrap; box-shadow: 0 1px 2px rgba(0, 0, 0, .25); pointer-events: auto; }
 .red-tag.unsure { background: rgba(96, 96, 100, .88); }
-/* the table's proper-spelling column: the conjectural rows carry an
-   asterisk with the note as a tooltip */
-.farm-norm { font-weight: 600; }
+/* the settler column: the conjectural readings carry an asterisk with
+   the note as a tooltip */
 .farm-conj { font-weight: 400; cursor: help; }
 @media (max-width: 48rem) {
   .map-text-pair { grid-template-columns: 1fr; }
