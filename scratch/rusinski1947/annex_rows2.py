@@ -77,13 +77,32 @@ OVERRIDES = {
              (1494, 6), (1666, 7), (1909, 8), (2082, 9)],
     # the table's continuation (10-11), the 4-row sub-table (1-4),
     # then the sub-table's notes (excluded)
-    '0159': [(1339, 10), (1515, 11), (1929, 1), (2036, 2), (2143, 3),
-             (2250, 4)],
+    '0159': [(1339, 10), (1496, 11), (1660, 'T'), (1810, 'H'),
+             (1917, 1), (2024, 2), (2124, 3), (2250, 4)],
 }
 # a text cut per sheet: row texts stop above it (the notes zone)
 CUTS = {'0158': 2350, '0159': 2600,
         # the sheet footnotes leaked into the last row's span
         '0144': 2553, '0152': 2630, '0156': 3049}
+# start-list patches for the digit-audit findings (the print's own
+# number-column digits arbitrate): 'drop_y' = a pseudo-row (the table
+# header filed as a row), 'insert_before_y' = a row the lineation
+# start detectors missed, 'append_row' = a swallowed last row
+PATCHES = {
+    # p. 123: the header span [1178,1538] is print furniture; the
+    # print's row 1 = Albertowskie (line 1546, digit band verified)
+    '0139': [('drop_y', 1190), ('insert_before_y', 1653, 1546)],
+    # p. 127: the last slot swallowed print row 61 (Nowawieś, line
+    # 2968; digit bands 2864-2916='60' / 2970-3020='61')
+    '0142': [('append_row', 2968)],
+    # p. 131: the sheet opens with the repeated table header (the
+    # print's rows here are 62-73; row 61 sits on 0142)
+    '0143': [('drop_y', 1057)],
+    # p. 132: the header span [1074,1436] + the missed row 2
+    # Białężyńskie (line 1622; print digits Barcinek=1, Białężyńskie=2,
+    # Białokoskie=3 ... Chmielinka=13, Chorzępowa=14 on 0148)
+    '0147': [('drop_y', 1086), ('insert_before_y', 1728, 1622)],
+}
 
 NUMHINT = re.compile(r'^[lI|]?\s*(\d{1,3})[.)]?\s+\S')
 TOTALS = re.compile(r'^(Razem|Uwagi|Wszelkie|Og[oó]łem|W tym)\b')
@@ -213,6 +232,16 @@ for n in SHEETS:
     if n in OVERRIDES:
         starts = [{'top': t, 'hint': h, 'src': 'override'}
                   for (t, h) in OVERRIDES[n]]
+    for op in PATCHES.get(n, []):
+        if op[0] == 'drop_y':
+            starts = [st for st in starts if st['top'] != op[1]]
+        elif op[0] == 'insert_before_y':
+            i = next((j for j, st in enumerate(starts)
+                      if st['top'] == op[1]), len(starts))
+            starts.insert(i, {'top': op[2], 'hint': None,
+                              'src': 'patch'})
+        elif op[0] == 'append_row':
+            starts.append({'top': op[1], 'hint': None, 'src': 'patch'})
     l_text_by_top = {l['top']: l['text'] for l in lines}
     # hint-chain validation (false lines dropped, misreads corrected,
     # notes dropped with a text cut)
@@ -410,6 +439,11 @@ for n in SHEETS:
     if n in OVERRIDES:
         p = p0
         for r in rows:
+            if r['src'] == 'override' and isinstance(r['hint'], str):
+                # 'T' = the series totals row, 'H' = a section title:
+                # print furniture, unnumbered
+                r['num'], r['how'] = None, 'furniture'
+                continue
             if r['num'] is None:
                 continue
             if r['src'] == 'override' and r['hint'] is not None:
