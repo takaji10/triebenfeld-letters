@@ -175,6 +175,7 @@ en:
     Full details opens the liquidation holding's statement, where the
     farm's land reads kind by kind. A farmstead without a Locate chip has
     no mark on the plan yet.
+  map_morgen_note: Hectares convert the 1868 Morgen at the Polish morga of 1819 (1 morga = 0.56 ha). The survey of 1896 found the holdings larger; its figures are the desyatinas given first.
   map_farm_no: No.
   map_farm_settler: Settler
   map_farm_size: Holding
@@ -597,6 +598,7 @@ de:
     das Verzeichnis des Liquidationsbestands, auf dem das Land des
     Gehöfts Art für Art zu lesen ist. Ein Gehöft ohne
     Zeigen-Marke hat noch keine Markierung auf dem Plan.
+  map_morgen_note: Die Hektar rechnen die Morgen von 1868 nach der polnischen Morga von 1819 um (1 Mórg = 0,56 ha). Die Vermessung von 1896 ergab mehr Land; ihre Zahlen sind die Desjatinen, die zuerst stehen.
   map_farm_no: Nr.
   map_farm_settler: Siedler
   map_farm_size: Besitz

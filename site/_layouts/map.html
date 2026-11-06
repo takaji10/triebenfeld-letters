@@ -219,6 +219,9 @@ layout: default
     </tbody>
   </table>
   </div>
+  {%- if m.farms.rows[0].ha %}
+  <p class="map-farms-note">{{ t.map_morgen_note }}</p>
+  {%- endif %}
 </section>
 {%- endif %}
 

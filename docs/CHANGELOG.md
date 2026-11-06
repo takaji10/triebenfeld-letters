@@ -4719,3 +4719,6 @@ footer on every page. Changed, in both languages:
   alone and stand beside the 1896 desyatinas, not against them. The
   conversion is computed per row in pipeline/maps/map_pages.py; the
   Proper spelling header string is retired from i18n.yml.
+  A short note under the table says the same in plain language, in the
+  reader's language (map_morgen_note in i18n.yml): what the hectares are
+  converted at, and that the survey's own figures are the desyatinas.
