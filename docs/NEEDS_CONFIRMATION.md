@@ -1111,10 +1111,20 @@ questions the batch leaves:
   ("gw. ḑžyfće, -cuf, ḑžyṽecḱi") is the editor's reading of the image,
   correcting Claude's first take (ṽ → f twice, -ḱi for -ḱ) — settled
   2026-11-06.
-- **The other 22 NMP entries' locators may be a page off like Drzewce's**
-  (444 → 443): the locators came from the place-name repository's
-  metadata, which apparently counts differently from the printed pages.
-  Check them against the sources when next at hand.
+- **The other 22 NMP entries' locators — SETTLED as applied (2026-11-06)**:
+  a second page image (Czarnybród, vol. 2, **p. 196**, against the records'
+  p. 197) confirmed the shift systematic — the place-name repository's page
+  counting is one off against print. Per the editor's word, every NMP
+  locator was shifted −1 (nmpol's and english.md's 23 headings, the
+  gazetteer's 23 footnote texts and locators; drzewce exempt,
+  image-corrected). **Residual**: the two image confirmations are both
+  t. 2; vols 1-6 came from the clean transcription and vols 7-18 from
+  RCIN, whose offsets could differ — the non-t.-2 shifts (t. 14, t. 15
+  among them, from RCIN) stand on the inference and are verified against
+  the sources when images come to hand. The Czarnybród dialect line is
+  settled from the image at the editor's reading: «gw. čorny brut, -ygo
+  -du, čornobrocḱi.» (the c with a caron, the k with an accent — the same
+  ḱi ending as Drzewce's).
 - **The German-named colonies' types** (the editor's word: "Ludwigslust,
   Sophienthal, Ingelfingen, Friedrichsfeld, Emilienheim, are all Olędry"):
   **ludwigslust**'s kind is corrected (hamlet → oleder-settlement; the

@@ -12,19 +12,8 @@ location:
   precision: identified
   lat: 52.10934
   lon: 17.82053
-text_en: Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege
-  document from Ląd Abbey, which was sold by the German Bochneth family to the monastery
-  for the sum of 400 Cologne marks.[^21] *Pustkowie Grądziem* included three farms
-  in Łukom, the forests of *Grądziem*, *Chmielniki*, and *Łome* (the latter forest
-  which extended up to the road known as *Rosaszewska* that ran from Łukom and Łomow
-  to the inns known as *Karczemne Gory* and *Karczemne Ługi*), the Pyzdry crag/cliff,
-  and the meadow above Imielno.[^22] *Grązien* (Łukom 1766); *Pustkowie Grądzin* (Perthées
-  1798); *Grondzyn* (Gilly 1802); *Haulanderei Grądzyn* as part of the Kopojno estate
-  (Hollring 1804); with a customs office as *Grazin* (Richter 1843); *Hol. Grądzeń*
-  (Chrzanowski 1858). The Słownik geograficzny records it as a village, in gmina Emilienheim,
-  parish of Zagórów, powiat słupecki, with 10 houses and 80 inhabitants at the time
-  of the Słownik.[^23] Nazwy miejscowe Polski records the name as *Grzandzen* by 1365,
-  later as *Grądzeń* (1827).[^24]
+text_en: Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege document from Ląd Abbey, which was sold by the German Bochneth family to the monastery for the sum of 400 Cologne marks.[^21] *Pustkowie Grądziem* included three farms in Łukom, the forests of *Grądziem*, *Chmielniki*, and *Łome* (the latter forest which extended up to the road known as *Rosaszewska* that ran from Łukom and Łomow to the inns known as *Karczemne Gory* and *Karczemne Ługi*), the Pyzdry crag/cliff, and the meadow above Imielno.[^22] *Grązien* (Łukom 1766); *Pustkowie Grądzin* (Perthées 1798); *Grondzyn* (Gilly 1802); *Haulanderei Grądzyn* as part of the Kopojno estate (Hollring 1804); with a customs office as *Grazin* (Richter 1843); *Hol. Grądzeń* (Chrzanowski 1858). The Słownik geograficzny records it as a village, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 10 houses and 80 inhabitants at the time of the Słownik.[^23] Nazwy miejscowe Polski records the name as *Grzandzen*
+  by 1365, later as *Grądzeń* (1827).[^24]
 names:
 - form: Grądzeń
   year: null
@@ -100,10 +89,10 @@ footnotes:
     status: missing
   note: null
 - n: 24
-  text: Nazwy miejscowe Polski, t. 3, p. 363
+  text: Nazwy miejscowe Polski, t. 3, p. 362
   refs:
   - source: nmpol
-    locator: t. 3, p. 363
+    locator: t. 3, p. 362
     status: missing
   note: null
 review: []

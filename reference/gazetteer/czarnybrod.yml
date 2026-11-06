@@ -12,12 +12,7 @@ location:
   precision: identified
   lat: 52.083274
   lon: 17.957606
-text_en: Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an
-  Olęder settlement which likely belonged to the Biskupice estate. Notes on the Grodziec
-  Catholic parish taken by geographer Karól Perthées mentioned a possible alternative
-  name of Czarnybród as *Stary Młyn*.[^10] *Czarnybrod Hol.* (Gilly 1802); *Kol. Czarnybrod*
-  (Richter 1843). Nazwy miejscowe Polski records the name as *Czarny Brod* by 1802,
-  later as *Czarnybród Czarnegobrodu* (1980).[^11]
+text_en: Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an Olęder settlement which likely belonged to the Biskupice estate. Notes on the Grodziec Catholic parish taken by geographer Karól Perthées mentioned a possible alternative name of Czarnybród as *Stary Młyn*.[^10] *Czarnybrod Hol.* (Gilly 1802); *Kol. Czarnybrod* (Richter 1843). Nazwy miejscowe Polski records the name as *Czarny Brod* by 1802, later as *Czarnybród Czarnegobrodu* (1980).[^11]
 names:
 - form: Czarnybród
   year: null
@@ -45,8 +40,7 @@ maps:
   note: null
 footnotes:
 - n: 10
-  text: '*Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego
-    w roku 1796,"* 127 (Image 255)'
+  text: '*Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w roku 1796,"* 127 (Image 255)'
   refs:
   - source: perthees1796
     locator: p. 127 (image 255)
@@ -54,10 +48,10 @@ footnotes:
     status: missing
   note: null
 - n: 11
-  text: Nazwy miejscowe Polski, t. 2, p. 197
+  text: Nazwy miejscowe Polski, t. 2, p. 196
   refs:
   - source: nmpol
-    locator: t. 2, p. 197
+    locator: t. 2, p. 196
     status: missing
-  note: null
+  note: The entry read from the editors page image of vol. 2, p. 196 (2026-11-06; the locator the edition carried, p. 197, was one page off - the shift is systematic, see literature/nmpol/notes.md). The image confirms the 1921 form Czarny Bród (the editors correction of the OCRs CzanlY Bród) and settles the dialect line as «gw. čorny brut, -ygo -du, čornobrocḱi.» - the editor saw the c with a caron and the k with an accent, as in the Drzewce entry; the citation texts leading «BCz» was the previous entrys signature glued on by the OCR, and is off the record.
 review: []

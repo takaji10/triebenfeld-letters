@@ -12,9 +12,7 @@ location:
   precision: identified
   lat: 52.119624
   lon: 17.790422
-text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where
-  tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe
-  Polski records the name as *Łukomiem a Myszkowem* by 1578.[^68]
+text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records the name as *Łukomiem a Myszkowem* by 1578.[^68]
 names:
 - form: Smoleniec
   year: null
@@ -43,10 +41,10 @@ footnotes:
     status: linked
   note: null
 - n: 68
-  text: Nazwy miejscowe Polski, t. 14, p. 177
+  text: Nazwy miejscowe Polski, t. 14, p. 176
   refs:
   - source: nmpol
-    locator: t. 14, p. 177
+    locator: t. 14, p. 176
     status: missing
   note: null
 review: []

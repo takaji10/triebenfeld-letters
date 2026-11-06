@@ -12,15 +12,7 @@ location:
   precision: identified
   lat: 52.108889
   lon: 17.868889
-text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp
-  crossing existed west from here called *Brod Kaliski* and was shown on a map of
-  the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In
-  Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied
-  by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for
-  peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny
-  records it as a village, in gmina Trąbczyn, parish of Zagórów, powiat słupecki,
-  with 6 houses and 381 inhabitants at the time of the Słownik.[^69] Nazwy miejscowe
-  Polski records the name as *Stawisku* by 1834, later as *Stawisko* (1839).[^70]
+text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny records it as a village, in gmina Trąbczyn, parish of Zagórów, powiat słupecki, with 6 houses and 381 inhabitants at the time of the Słownik.[^69] Nazwy miejscowe Polski records the name as *Stawisku* by 1834, later as *Stawisko* (1839).[^70]
 names:
 - form: Stawisko
   year: null
@@ -41,8 +33,7 @@ maps:
   note: Appeared as a folwark
 - map: ams1962
   form: null
-  note: The low-lying, marshy area north of Stawisko was being used for peat cuttings
-    as late as the 1960s
+  note: The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s
 footnotes:
 - n: 68
   text: Arct, “Stawisko,” 774
@@ -60,10 +51,10 @@ footnotes:
     status: missing
   note: null
 - n: 70
-  text: Nazwy miejscowe Polski, t. 15, p. 224
+  text: Nazwy miejscowe Polski, t. 15, p. 223
   refs:
   - source: nmpol
-    locator: t. 15, p. 224
+    locator: t. 15, p. 223
     status: missing
   note: null
 review: []
