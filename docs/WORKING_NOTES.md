@@ -3310,3 +3310,35 @@ Lessons:
   and plumbing separable like this - the judgement about the method (the
   polygons drifted from the parcels) need not burn the work that fed it
   (the drawing tool and its JSON stay in scratch/map4456/ as the record).
+
+## The bulk maps batch and the Łukom re-backing (2026-11-06)
+
+- **Łukom 1766 re-backed onto the archive's JPG (2026-11-06).** The editor's
+  word: the map of record is 1_407_0_0_283-29_0001.jpg as drawn, not the
+  rotated north-up PNG they had georeferenced. The transfer probes ran the
+  full ladder - SIFT full-affine, whole-image rot180 at matched scales,
+  anisotropic rescale, centred paste, a local discrepancy grid, a GCP-patch
+  sweep (72 angles x 3 scales), all 8 dihedral orientations - and every one
+  failed photometric verification: the PNG is a different raster, not a
+  transform of the JPG, so the eleven marks cannot carry over and the editor
+  re-marks (their offer stood). Recorded in maps/lukom1766/notes.md; the
+  PNG-era labels/positions/georef archived in png-record/; the register now
+  has view_rotation 0 (the JPG's lettering reads upright as drawn) and no
+  mapwarper field; tiles re-cut (346 files), georef.json removed, the
+  labelling page rebuilt - the map waits for the editor's marks on the JPG.
+- **A helper copied without its guards is a bug factory.** The GCP sweep's
+  fft_ncc was re-typed from lukom_affine.py without the two float32 casts
+  added there after the float32-integral lesson: with uint8 input, img*img
+  overflowed (255^2 mod 256 = 33), the local-variance term went negative
+  everywhere and the low-variance guard zeroed the whole output - the sweep
+  'found nothing' because the correlator was broken, not because the maps
+  disagreed. Copy the function, not a paraphrase of it; run the self-match
+  check (a template taken from the search image must come back ~1.0) before
+  reading any sweep's result as a negative.
+- **Env-dependent output paths bite across shells.** tiles.py cuts into
+  TRIEBENFELD_MAPS if set, else ROOT/../triebenfeld-maps - a fresh shell
+  without the variable silently tiled 15 MB into an unversioned folder
+  beside the worktree while the git repo kept the old tiles. Check where a
+  pipeline script's output actually landed (timestamps in the target repo)
+  before believing its success line; export TRIEBENFELD_MAPS in every shell
+  that runs tiles.py.

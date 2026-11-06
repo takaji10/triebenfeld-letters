@@ -1,0 +1,62 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). Made by pipeline/maps/mapwarper.py
+# from the editor's georeferencing on MapWarper (mapwarper.net); the pixels are
+# those of the file uploaded there, which is the map's `original` in
+# reference/maps.yml. Rows with `from: mapwarper` are replaced on every fetch;
+# any other rows are kept. `fit:` is written by pipeline/maps/georef.py.
+map: lukom1766
+mapwarper: 75552
+fetched: '2026-10-23'
+mapwarper_title: Map of Łukom Estate
+source_uri: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17930967
+bbox: 17.7465048,52.066698,17.8900223,52.1697653
+width: 10280
+height: 8523
+gcps:
+- id: mw690527
+  x: 2338.06
+  y: 5074.74
+  lon: 17.7831173344
+  lat: 52.1072539637
+  error_mapwarper: 296.7
+  from: mapwarper
+- id: mw690528
+  x: 4035.56
+  y: 4677.0
+  lon: 17.805261652
+  lat: 52.1149761811
+  error_mapwarper: 235.1
+  from: mapwarper
+- id: mw690759
+  x: 5381.49
+  y: 6410.55
+  lon: 17.8119021711
+  lat: 52.0916580804
+  error_mapwarper: 573.9
+  from: mapwarper
+- id: mw690763
+  x: 7118.46
+  y: 3202.48
+  lon: 17.8445178327
+  lat: 52.1306644593
+  error_mapwarper: 175.5
+  from: mapwarper
+- id: mw690764
+  x: 8704.77
+  y: 7491.72
+  lon: 17.8682071027
+  lat: 52.0829033142
+  error_mapwarper: 266.0
+  from: mapwarper
+fit:
+  transformation: polynomial
+  order: 1
+  n: 5
+  rms_m: 335.74
+  inverse_rms_px: 338.9
+  residuals_m:
+    mw690527: 210.78
+    mw690528: 264.43
+    mw690759: 593.85
+    mw690763: 99.13
+    mw690764: 294.59

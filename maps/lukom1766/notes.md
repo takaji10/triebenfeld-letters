@@ -10,23 +10,49 @@ do this one map for now"). The procedure it settled is
 
 ## The image
 
+- **The map of record changed to the archive's JPG as drawn**
+  (2026-11-06, the editor's word: use `1_407_0_0_283-29_0001.jpg`, "not the
+  rotated image"). Its lettering reads upright, so `view_rotation: 0` and the
+  viewer's north-up button carries the turn (the editor: "the map will be
+  turned upside down and rotated [for the georeferencing], but for the
+  purposes of the map page itself, it will be shown with the labels right
+  side up"). The tiles were re-cut on it (346 files, 14.9 MB), the stale
+  `georef.json` removed, `in_project: false` until the re-marking.
+- **The former record, the editor's north-up PNG (10,280 × 8,523), is a
+  DIFFERENT RASTER, not a rotated copy**: no rotation, mirror, scale or
+  affine carries the marks across. The probes (2026-11-06,
+  `scratch/maps_bulk/lukom_*.py`): SIFT full-affine locked a lattice (5,652
+  "inliers", rotation 171.2°) with zero photometric agreement — patch NCC
+  0.077, the Zagórów signature; whole-image rot180 matches peaked 0.43 but
+  that was the two white margins correlating (content-only 0.088);
+  anisotropic rescale 0.066; centred unscaled paste 0.11; a local
+  discrepancy grid matched only 5 weak patches with no consistent offset;
+  the five MapWarper GCP patches swept over all of the JPG at 72 angles ×
+  3 scales gave no consistent angle or position (three near 180–190° at
+  scattered places, two at 0/10° — one pair on the *same* pixel at
+  different angles), all NCC ≤ 0.46; and all 8 dihedral orientations of the
+  JPG against the PNG sit under 0.09. The PNG-era files (labels.yml,
+  positions.yml, georef.yml — the eleven marks of 2026-10-23, the MapWarper
+  75552 points) are archived in `png-record/`; the register's `mapwarper`
+  field is gone (those points are in the PNG's pixels). The *readings* and
+  the gazetteer decisions of 2026-10-23 stand — they live in the gazetteer,
+  not in the labels file — and the map is re-marked on the JPG (the
+  editor's offer: "If that means I need to redo the labels, I can").
 - **Drawn with south at the top** (the editor, 2026-10-23: "it was drawn
   upside-down, with south facing up - so to show it correctly on the globe,
   it needs to be shown with the labels upside-down. The PNG has the map
   rotated to have north at the top").
-- **The original is the editor's north-up PNG** (10,280 × 8,523 pixels),
-  the image they georeferenced on MapWarper (75552). The JPG beside it on J:
-  (8,808 × 7,052) is the archive's download as drawn, and
-  "(Rotated).jpg" (8,386 × 6,748) another copy; neither matches MapWarper's
-  control points. Every mark is in the PNG's pixels.
-- `view_rotation: 180` in `reference/maps.yml`: the labelling page opens the
-  map turned so the lettering reads upright. The editor traces each name in
-  reading order, and the crop comes out upright whatever the turn.
-- The whole sheet is tiled (no crop): 502 tiles, 15.8 MB, in
-  triebenfeld-maps/lukom1766/, info.json id
-  https://takaji10.github.io/triebenfeld-maps/lukom1766.
+- **The former original, the editor's north-up PNG** (10,280 × 8,523
+  pixels), was the image georeferenced on MapWarper (75552). The JPG beside
+  it on J: (8,808 × 7,052) is the archive's download as drawn, and
+  "(Rotated).jpg" (8,386 × 6,748) another copy; neither matched MapWarper's
+  control points [2026-11-06: the JPG is now the map of record — see above].
 
 ## The georeference
+
+[2026-11-06: this section describes the PNG era, archived in `png-record/`;
+the JPG is placed from the editor's marks alone — empty `georef.yml`,
+`mk-*` rows only, like zagorow1841 — once they re-mark.]
 
 - **Five control points** from the editor's MapWarper georeference
   (`georef.yml`, read from MapWarper's API on 2026-10-23; MapWarper's own

@@ -55,20 +55,30 @@ maps:
     holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
     reference: "1/407/0/-/283, sheet 29"
     url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17930967"
-    # Drawn with south at the top (the editor, 2026-10-23). The original here
-    # is the editor's copy turned so that north is up, the image they
-    # georeferenced on MapWarper: its lettering is therefore upside down, and
-    # the labelling page and the viewer turn it by view_rotation so that it
-    # reads upright. Every mark is in this image's pixels.
+    # Drawn with south at the top (the editor, 2026-10-23). The map of record
+    # is the archive's JPG AS DRAWN (the editor's word, 2026-11-06: use
+    # 1_407_0_0_283-29_0001.jpg, "not the rotated image"); its lettering reads
+    # upright, so the page needs no turn (view_rotation: 0) and the viewer's
+    # north-up button carries the turn. The former record, the editor's
+    # north-up PNG (the image georeferenced on MapWarper 75552, every mark of
+    # 2026-10-23 in its pixels), is a DIFFERENT RASTER: no rotation, mirror,
+    # scale or affine carries the marks across (verified 2026-11-06,
+    # scratch/maps_bulk/ — a SIFT lattice consensus with zero photometric
+    # agreement, whole-image content NCC 0.09 at best, all 8 dihedral
+    # orientations under 0.09, the five MapWarper GCP patches with no
+    # consistent angle or position). The PNG-era labels, positions and
+    # georef.yml are archived in maps/lukom1766/png-record/; the readings and
+    # the gazetteer decisions of 2026-10-23 stand (they are in the gazetteer),
+    # and the map is re-marked on the JPG (the editor's offer: "If that means
+    # I need to redo the labels, I can").
     orientation: south-up
-    view_rotation: 180
-    original: 'J:/Documents/Archive/Genealogy/References/Maps/First Polish Republic (1314-1793)/Plan dóbr Łukom, 1766 (1.407.0.-.283 - 29)/1_407_0_0_283-29_0001.png'
-    width: 10280
-    height: 8523
+    view_rotation: 0
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/First Polish Republic (1314-1793)/Plan dóbr Łukom, 1766 (1.407.0.-.283 - 29)/1_407_0_0_283-29_0001.jpg'
+    width: 8808
+    height: 7052
     crop: null          # [left, top, width, height] in original pixels; null for the whole map
-    mapwarper: 75552
     tiles: "https://takaji10.github.io/triebenfeld-maps/lukom1766/info.json"
-    in_project: true    # its tiles published, its viewer page built (2026-10-27, docs/MAPS_SITE_PLAN.md)
+    in_project: false   # the map of record changed to the JPG (2026-11-06); re-marking pending
   vonpfau1770:
     cited_as: "von Pfau 1770"
     year: 1770
