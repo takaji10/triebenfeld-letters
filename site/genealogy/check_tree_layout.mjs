@@ -44,8 +44,18 @@ for (const id of ids) {
     }
     const status = (overlaps || dangling) ? 'FAIL' : 'ok'
     if (overlaps || dangling) bad++
+    // the focus must exist, sit on a card, and lie inside the chart box
+    // (cards store pre-base x; the focus point is post-base)
+    const focus = c.nodes.filter(n => n.focus)
+    const fx = c.focusX, fy = c.focusY
+    const focusOK = focus.length === 1 &&
+      fx >= 0 && fx <= c.width && fy >= 0 && fy <= c.height &&
+      fx >= focus[0].x + c.baseX &&
+      fx <= focus[0].x + focus[0].w * CELL + c.baseX
+    if (!focusOK) bad++
     console.log(`${id} ${mode}: nodes=${c.nodes.length} links=${c.links.length} ` +
-      `splices=${c.splices.length} overlaps=${overlaps} dangling=${dangling} ${status}`)
+      `splices=${c.splices.length} overlaps=${overlaps} dangling=${dangling} ` +
+      `focus=${focusOK ? 'centred' : 'BAD'} ${focusOK && status === 'ok' ? 'ok' : 'FAIL'}`)
   }
 }
 console.log(bad ? 'FAILURES: ' + bad : 'ALL LAYOUT CHECKS PASSED')

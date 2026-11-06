@@ -4997,6 +4997,15 @@ footer on every page. Changed, in both languages:
   anywhere, every link endpoint lands on a card edge; jekyll and
   verify_site ALL CHECKS PASSED with the project baseurl and with none
   (63,294 internal links each); bundle rebuilt (84.7 KB gzipped).
+- **Centring corrected the same day** (the editor: on refresh the tree
+  did not sit on its person): the view had been centred on the chart's
+  bounding box - the middle of everything drawn, not the person - and
+  the transform's base shift was left out of the arithmetic besides.
+  The layout now reports the focus card's own centre (focusX/focusY,
+  base included) and center() aims there; "fit" keeps using the whole
+  box. The battery asserts the focus point lies on the focus card and
+  inside the chart for every case.
+
 
 
 

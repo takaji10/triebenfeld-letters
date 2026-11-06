@@ -88,14 +88,16 @@
     }
   })
 
-  // centre the content on the focus person, both ways
+  // centre the view on the focus person, both ways. The content point
+  // p renders at tx + scale*(baseX + p), so the focus centre needs the
+  // base shift included - chart.focusX/focusY already carry it.
   function center(fitScale = null) {
     if (!el || !chart) return
     const rect = el.getBoundingClientRect()
     if (rect.width <= 0) return
     if (fitScale) scale = fitScale
-    tx = rect.width / 2 - chart.cx * scale
-    ty = rect.height / 2 - chart.cy * scale
+    tx = rect.width / 2 - chart.focusX * scale
+    ty = rect.height / 2 - chart.focusY * scale
   }
 
   // fit the whole chart inside the viewport

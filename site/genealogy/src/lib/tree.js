@@ -123,6 +123,7 @@ export function layout(db, id, mode = 'hourglass') {
   const splices = []
   let minX = Infinity, maxX = -Infinity
   let minY = Infinity, maxY = -Infinity
+  let focusCX = 0, focusCY = CARD_H / 2   // the focus card's own centre
 
   function grow(min, max) {
     if (min < minX) minX = min
@@ -136,6 +137,10 @@ export function layout(db, id, mode = 'hourglass') {
     const blockLeft = px - w * CELL / 2
     nodes.push({ id: data.id, x: blockLeft, y: py, w,
                  spouse: data.spouses?.[0] || null, focus: isFocus })
+    if (isFocus) {
+      focusCX = blockLeft + w * CELL / 2
+      focusCY = py + CARD_H / 2
+    }
     if (data.spouses?.length) {
       splices.push([blockLeft + CARD_W, py + CARD_H / 2,
                     blockLeft + CELL, py + CARD_H / 2])
@@ -168,12 +173,18 @@ export function layout(db, id, mode = 'hourglass') {
   }
 
   const pad = 24
+  const baseX = -minX + pad
+  const baseY = -minY + pad
   return {
     nodes, links, splices,
-    baseX: -minX + pad, baseY: -minY + pad,
+    baseX, baseY,
+    // the whole chart's bounding box (what "fit" needs) ...
     cx: (minX + maxX) / 2, cy: (minY + maxY) / 2,
     width: maxX - minX + pad * 2,
     height: maxY - minY + pad * 2,
-    focusRow: 0,
+    // ... and the focus person's centre, post-base - what centring on
+    // the person needs (the bounding box centre is not the person when
+    // one half of the hourglass spreads wider or deeper than the other)
+    focusX: focusCX + baseX, focusY: focusCY + baseY,
   }
 }
