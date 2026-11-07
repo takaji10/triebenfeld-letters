@@ -300,7 +300,7 @@ layout: default
       {%- for kv in d -%}
         {%- if kv[0] != 'nav' -%}"{{ kv[0] }}": {{ kv[1] | strip | jsonify }},{%- endif -%}
       {%- endfor -%}
-      "nav_story": {{ d.nav.story | jsonify }},
+      "nav_introduction": {{ d.nav.introduction | jsonify }},
       "nav_browse": {{ d.nav.browse | jsonify }},
       "nav_timeline": {{ d.nav.timeline | jsonify }},
       "nav_people": {{ d.nav.people | jsonify }},

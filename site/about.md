@@ -16,7 +16,7 @@ Hohenlohe-Ingelfingen. Some of them had been confiscated from a Polish nobleman,
 Prusimski. Hohenlohe-Ingelfingen's agent, Peter Friedrich von Triebenfeld, managed the
 estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807, and the
 disputes over them and over the debts he had secured on them ran on until 1832.
-[The story]({{ '/the-story/' | relative_url }}) tells this in order.
+[The timeline]({{ '/timeline/' | relative_url }}) tells this in order.
 
 There are 630 documents on 2,103 pages, dated from 1173 to 1936. The oldest are  
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition

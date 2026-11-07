@@ -37,6 +37,17 @@ eras:
     order: 0
     status: populated
     label_en: "Trąbczyn in the Middle Ages"
+    intro_en: >-
+      Land in this part of Europe changed hands by document, and Trąbczyn's
+      documents begin with gifts. In 1173 Duke Mieszko gives the hamlet of Wrąbczynek to
+      the new Cistercian abbey at Ląd; in 1240 Archbishop Fulko attaches the tithes of
+      Zagórów, Skokum, Kopojno, Trąbczyn and their neighbours to the same abbey; in 1276
+      the duke gives Trąbczyn itself to Count Mikołaj, his treasurer at Ląd. The place
+      grows up with two lords — the abbey holding tithes and the neighbouring land,
+      knights holding Trąbczyn itself — and in 1407 the abbey's village of Zagórów becomes
+      a town under Magdeburg law. The Middle Ages close with Trąbczyn in the hands of a
+      family of knights whose heirs are already in lawsuits by 1346.
+    page_en: true
     label_de: "Trąbczyn im Mittelalter"
     ownership_en: "The Cistercian abbey of Ląd, which held the villages around
       Trąbczyn, and the knights who held Trąbczyn itself. 1173 to 1440"
@@ -62,6 +73,16 @@ eras:
     order: 1
     status: populated
     label_en: "The Trąbczyn and Łukom boundary dispute"
+    intro_en: >-
+      From 1589 the estate belongs to families that fight over it — first with
+      their neighbours, then with each other. Trąbczyn and Łukom are two estates whose
+      boundary nobody had fixed with care, and for two hundred years the argument about
+      mounds, notched trees and a flooded wood runs through the courts at Konin, Pyzdry
+      and Kalisz, ending only in 1782, when the Crown Tribunal has forty-one mounds thrown
+      up along a line drawn on the map. The same years bring the succession of the
+      childless Prusimski brothers, adjudged on the Trąbczyn grounds in 1784, and a parish
+      of 760 souls whose dissidents live almost all in the Olęder settlements.
+    page_en: true
     label_de: "Der Grenzstreit zwischen Trąbczyn und Łukom"
     ownership_en: "The Prusimski family, who held Trąbczyn, against the Chełmski
       family of Łukom next door. c. 1589 to 1788"
@@ -105,6 +126,14 @@ eras:
     order: 2
     status: populated
     label_en: "The insurgency and the emigration"
+    intro_en: >-
+      In 1794 Antoni Prusimski joins the Kościuszko uprising against the
+      partitioning powers and loses what his family had held for two centuries: Prussia
+      confiscates Trąbczyn, Kamionna and Kolno. The last Polish owner spends the years
+      that follow abroad, ill and broken, reaching Venice in 1796 to beg a certificate
+      that he cannot travel home. In Paris in 1798 the uprising's commander, Kościuszko,
+      writes the letter whose copy opens this era.
+    page_en: true
     label_de: "Der Aufstand und die Emigration"
     ownership_en: "Antoni Prusimski, Starost of Niszczewice, the last Polish
       owner: the uprising of 1794, the confiscation of his estates, and the
@@ -140,6 +169,19 @@ eras:
     order: 3
     status: populated
     label_en: "The Hohenlohe-Ingelfingen years"
+    intro_en: >-
+      In 1796 the King of Prussia gives the confiscated estates to Friedrich
+      Ludwig, Prince of Hohenlohe-Ingelfingen, a general who already owes more than they
+      earn. What follows is eleven years of trying to turn Polish land into Prussian money
+      — the demesne farms broken into hereditary leases for settlers, the lordships sold
+      piece by piece, debts raised faster than rents come in — and then war: Jena, the
+      surrender at Prenzlau, and the Duchy of Warsaw, which in 1807 hands the estates back
+      to the daughter of the man they were taken from. The Prince never gets them back.
+      For nine more years his agent Peter Friedrich von Triebenfeld, who signed for his
+      debts personally, petitions, sues and travels — to Vienna, and finally to the
+      grave.
+    page_en: true
+    page_de: true
     label_de: "Die Hohenlohe-Ingelfingener Jahre"
     ownership_en: "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, a Prussian
       general given the estate by the King. 1796 to 1807"
@@ -168,6 +210,15 @@ eras:
     order: 4
     status: populated
     label_en: "The Miączyńska restitution"
+    intro_en: >-
+      Michalina Miączyńska got her father's estates back in 1807 without a
+      judgment, and spent the next thirty years in court over what came with them: the
+      mortgages Hohenlohe-Ingelfingen had raised on the land. Prussia's courts, Russia's
+      Tsar and Poland's tribunals each take a turn at the question — whether the
+      restitution reinstated the owner free of the debts the intervening owner had loaded
+      on his grant — and the Polish Supreme Tribunal's answer of 1826, that it did, is
+      confirmed, protested and litigated until the files run out in 1834.
+    page_en: true
     label_de: "Die Restitution der Miączyńska"
     ownership_en: "Michalina Prusimska, married name Dąbska and later Miączyńska, the
       daughter of the last Polish owner. 1807 onward"
@@ -201,6 +252,16 @@ eras:
     order: 5
     status: populated
     label_en: "The colonists' land and forest rights"
+    intro_en: >-
+      Michalina's son Count Włodzimierz Miączyński inherits an estate whose
+      colonists hold their farms on contracts his family never signed. They sue him in
+      1859 over pasture and wood in his forest; he answers with a counterclaim against
+      ninety-seven of them, that the Hohenlohe contracts do not bind him. The Russian
+      reform of 1864 then makes the peasants owners of the land they farm and fixes what
+      remains owed to the manor — and what remains of the colonists' forest rights is
+      fenced into numbers: pasture and fallen wood twice a week, until in 1892 they give
+      even that up for 393 Morgen of land.
+    page_en: true
     label_de: "Das Land und die Waldrechte der Kolonisten"
     ownership_en: "Count Włodzimierz Miączyński, Michalina's son, from her death
       in 1851 to his own in 1879; then his nephew Władysław Miączyński, and by
@@ -245,6 +306,15 @@ eras:
     order: 6
     status: populated
     label_en: "The twentieth century"
+    intro_en: >-
+      By the twentieth century the manor is gone: the land parcelled
+      out, the German settlements of Łazińsk and Emilienheim villages of the Polish
+      commune of Trąbczyn. The historian Albert Breyer visits them in 1935 and 1936 and
+      writes down what the settlers remember — their farms and schools, who went to
+      Volhynia, America or Brazil, how they spoke and marked their graves. His notebooks
+      are the last account of a world the coming war would erase; in 1940 the occupation
+      renames the commune Drommin.
+    page_en: true
     label_de: "Das zwanzigste Jahrhundert"
     ownership_en: "The manor parcelled out; the German settlements of the
       commune of Trąbczyn. 1900 onward"

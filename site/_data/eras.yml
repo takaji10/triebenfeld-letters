@@ -13,6 +13,8 @@
   blurb_de: "Einundzwanzig mittelalterliche Urkunden aus der gedruckten Edition der großpolnischen Urkunden, dem Kodeks Dyplomatyczny Wielkopolski: die Schenkungen, Zehnten und Tauschgeschäfte, durch die das Kloster Ląd Wrąbczynek, Kopojno, Zagórów und den Zehnten von Trąbczyn erwarb, die Gründung der Stadt Zagórów 1407, die Schenkung Trąbczyns an den Grafen Mikołaj 1276 und die Ritter und Erben von Trąbczyn in Prozessen und Urkunden bis 1434."
   ownership_en: "The Cistercian abbey of Ląd, which held the villages around Trąbczyn, and the knights who held Trąbczyn itself. 1173 to 1440"
   ownership_de: "Das Zisterzienserkloster Ląd, dem die Dörfer um Trąbczyn gehörten, und die Ritter, denen Trąbczyn selbst gehörte. 1173 bis 1440"
+  intro_en: "Land in this part of Europe changed hands by document, and Trąbczyn's documents begin with gifts. In 1173 Duke Mieszko gives the hamlet of Wrąbczynek to the new Cistercian abbey at Ląd; in 1240 Archbishop Fulko attaches the tithes of Zagórów, Skokum, Kopojno, Trąbczyn and their neighbours to the same abbey; in 1276 the duke gives Trąbczyn itself to Count Mikołaj, his treasurer at Ląd. The place grows up with two lords — the abbey holding tithes and the neighbouring land, knights holding Trąbczyn itself — and in 1407 the abbey's village of Zagórów becomes a town under Magdeburg law. The Middle Ages close with Trąbczyn in the hands of a family of knights whose heirs are already in lawsuits by 1346."
+  page_en: true
 - slug: "prusimski-boundary"
   order: 1
   status: "populated"
@@ -25,6 +27,8 @@
   blurb_de: "Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das andere begann. Dreiundzwanzig Bestände liegen vor: gerichtliche Anordnungen und Urteile seit 1589, das Dekret der Kommission von 1775, die Einträge der Gerichtsregister von Konin und Kalisch, die dem Streit von 1754 bis 1788 folgen, ein Botenbericht von 1727 über eine in Szetlew zugestellte Ladung, das Dekret von 1782, mit dem das Krontribunal die Grenze festlegte, ein Zeitungsbericht von 1754 über das Begräbnis Paweł Prusimskis; und aus den letzten Jahren vor der Teilung ein Register der Rauchfangsteuer von 1789, die Visitation der Pfarrei Trąbczyn von 1791 und die Tabelle der Rauchfangstände und Abgaben der Pfarrei auf einer Seite des Pyzdryner Gerichtsregisters von 1791 bis 1792."
   ownership_en: "The Prusimski family, who held Trąbczyn, against the Chełmski family of Łukom next door. c. 1589 to 1788"
   ownership_de: "Die Familie Prusimski, der Trąbczyn gehörte, gegen die Familie Chełmski im benachbarten Łukom. ca. 1589 bis 1788"
+  intro_en: "From 1589 the estate belongs to families that fight over it — first with their neighbours, then with each other. Trąbczyn and Łukom are two estates whose boundary nobody had fixed with care, and for two hundred years the argument about mounds, notched trees and a flooded wood runs through the courts at Konin, Pyzdry and Kalisz, ending only in 1782, when the Crown Tribunal has forty-one mounds thrown up along a line drawn on the map. The same years bring the succession of the childless Prusimski brothers, adjudged on the Trąbczyn grounds in 1784, and a parish of 760 souls whose dissidents live almost all in the Olęder settlements."
+  page_en: true
 - slug: "insurgency"
   order: 2
   status: "populated"
@@ -37,6 +41,8 @@
   blurb_de: "Die Papiere des Aufstandes von 1794 und der Jahre im Ausland, die folgten, bisher in einem Bestand: der Sammelband von Abschriften \"Listy, dokumenty i wiersze z lat 1697-1798\", überwiegend von Stanisław Przyłęcki geschrieben (B. Ossol. rkp. 2289 II), in den das bislang einzige transkribierte Dokument fällt - Kościuszkos Antwort vom 3. September 1798 aus Paris an einen emigrierten Korrespondenten, der ihm im August aus Dresden geschrieben hatte; die Abschrift nennt den Adressaten nicht. Die preußischen Akten derselben Jahre - die Konfiskation von 1796, die Depeschen des Residenten aus Venedig - stehen in der Epoche der preußischen Jahre des Gutes, deren Geschichte sie sind."
   ownership_en: "Antoni Prusimski, Starost of Niszczewice, the last Polish owner: the uprising of 1794, the confiscation of his estates, and the years abroad that ended in the family's recovery of them. 1794 to 1798"
   ownership_de: "Antoni Prusimski, Starost von Niszczewice, der letzte polnische Besitzer: der Aufstand von 1794, die Einziehung seiner Güter und die Jahre im Ausland, die in der Rückgabe der Güter endeten. 1794 bis 1798"
+  intro_en: "In 1794 Antoni Prusimski joins the Kościuszko uprising against the partitioning powers and loses what his family had held for two centuries: Prussia confiscates Trąbczyn, Kamionna and Kolno. The last Polish owner spends the years that follow abroad, ill and broken, reaching Venice in 1796 to beg a certificate that he cannot travel home. In Paris in 1798 the uprising's commander, Kościuszko, writes the letter whose copy opens this era."
+  page_en: true
 - slug: "hohenlohe"
   order: 3
   status: "populated"
@@ -49,6 +55,9 @@
   blurb_de: "Preußen nahm die Gegend 1793 in der Zweiten Teilung Polens, und 1796 schenkte der König das konfiszierte Gut eines polnischen Aufständischen einem preußischen General. Er besaß es elf Jahre, verkaufte Teile davon, tat den Rest in Erbpacht an Siedler aus und verlor es 1807; um seinen Anspruch wurde bis 1820 gestritten. Hier liegen die Schenkungsurkunden, die Verträge, die Briefe des Bevollmächtigten, der die Güter verwaltete, und die Akten der preußischen Ministerien. Eines der Güter hat zwei Namen: Pszczew, in den deutschen Akten Betsche."
   ownership_en: "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, a Prussian general given the estate by the King. 1796 to 1807"
   ownership_de: "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, ein preußischer General, dem der König das Gut schenkte. 1796 bis 1807"
+  intro_en: "In 1796 the King of Prussia gives the confiscated estates to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, a general who already owes more than they earn. What follows is eleven years of trying to turn Polish land into Prussian money — the demesne farms broken into hereditary leases for settlers, the lordships sold piece by piece, debts raised faster than rents come in — and then war: Jena, the surrender at Prenzlau, and the Duchy of Warsaw, which in 1807 hands the estates back to the daughter of the man they were taken from. The Prince never gets them back. For nine more years his agent Peter Friedrich von Triebenfeld, who signed for his debts personally, petitions, sues and travels — to Vienna, and finally to the grave."
+  page_en: true
+  page_de: true
 - slug: "restitution"
   order: 4
   status: "populated"
@@ -61,6 +70,8 @@
   blurb_de: "Die Tochter des letzten polnischen Besitzers erhielt die Güter 1807 durch die Regierungskommission des Herzogtums Warschau zurück und verbrachte die folgenden dreißig Jahre mit Prozessen um das, was von ihnen übrig war. Der Bericht von 1834, in dem die Instruktionskommission des Staatsrats des Königreichs Polen den Kompetenzkonflikt um die Trąbczyner Hypothek abwog, liegt in Warschau und ist hier; die weiteren Akten des Streits liegen in Warschau und Berlin."
   ownership_en: "Michalina Prusimska, married name Dąbska and later Miączyńska, the daughter of the last Polish owner. 1807 onward"
   ownership_de: "Michalina Prusimska, verheiratet Dąbska, später Miączyńska, die Tochter des letzten polnischen Besitzers. ab 1807"
+  intro_en: "Michalina Miączyńska got her father's estates back in 1807 without a judgment, and spent the next thirty years in court over what came with them: the mortgages Hohenlohe-Ingelfingen had raised on the land. Prussia's courts, Russia's Tsar and Poland's tribunals each take a turn at the question — whether the restitution reinstated the owner free of the debts the intervening owner had loaded on his grant — and the Polish Supreme Tribunal's answer of 1826, that it did, is confirmed, protested and litigated until the files run out in 1834."
+  page_en: true
 - slug: "wlodzimierz"
   order: 5
   status: "populated"
@@ -73,6 +84,8 @@
   blurb_de: "Nach dem Tod Michalina Miączyńskas 1851 besaß ihr Sohn, Graf Włodzimierz Miączyński, das Gut Trąbczyn bis zu seinem Tod 1879. Die Kolonisten des Gutes verklagten ihn 1859 wegen ihrer Weide- und Holzrechte in seinem Wald, und er antwortete mit einer Widerklage, die auf das Privileg von 1746 und die Verträge aus den Jahren Hohenlohe-Ingelfingens zurückging. Die russische Reform von 1864 machte dann die Bauern des Königreichs Polen zu Eigentümern des Landes, das sie bewirtschafteten; die Gutsherrschaft behielt ihr eigenes Land und ihren Wald. Eine Liquidationstabelle setzte für jedes Dorf die Höfe, ihr Land und das Kapital fest, mit dem die Regierung den früheren Besitzer für die Abgaben der Bauern entschädigte, und ließ den Bauern ihre Weide- und Holzrechte im herrschaftlichen Wald. Für die Kolonie Łazińsk wurde die Tabelle 1868 bestätigt; ihre Rechte im Wald „Studzianka“ wurden 1882 bis 1884 neu festgesetzt und 1892 gegen 393 Morgen herrschaftliches Land aufgegeben, und 1896 wurde der ganze Anteil vermessen."
   ownership_en: "Count Włodzimierz Miączyński, Michalina's son, from her death in 1851 to his own in 1879; then his nephew Władysław Miączyński, and by 1892 Countess Maria Wielopolska. 1851 to 1901"
   ownership_de: "Graf Włodzimierz Miączyński, Michalinas Sohn, von ihrem Tod 1851 bis zu seinem eigenen 1879; dann sein Neffe Władysław Miączyński und spätestens 1892 Gräfin Maria Wielopolska. 1851 bis 1901"
+  intro_en: "Michalina's son Count Włodzimierz Miączyński inherits an estate whose colonists hold their farms on contracts his family never signed. They sue him in 1859 over pasture and wood in his forest; he answers with a counterclaim against ninety-seven of them, that the Hohenlohe contracts do not bind him. The Russian reform of 1864 then makes the peasants owners of the land they farm and fixes what remains owed to the manor — and what remains of the colonists' forest rights is fenced into numbers: pasture and fallen wood twice a week, until in 1892 they give even that up for 393 Morgen of land."
+  page_en: true
 - slug: "twentieth-century"
   order: 6
   status: "populated"
@@ -85,3 +98,5 @@
   blurb_de: "Im zwanzigsten Jahrhundert war der Gutshof Trąbczyn parzelliert, und die deutschen Siedlungen auf seinem früheren Land, darunter Łazińsk und Emilienheim, waren Dörfer der Gemeinde Trąbczyn im polnischen Staat. Der Historiker Albert Breyer besuchte sie 1935 und 1936 und schrieb auf, woran sich die Siedler erinnerten, und zählte ihre Höfe. Bisher liegen drei seiner Notizhefte vor; seine Abschriften älterer Papiere darin stehen bei der Epoche dieser Papiere."
   ownership_en: "The manor parcelled out; the German settlements of the commune of Trąbczyn. 1900 onward"
   ownership_de: "Der Gutshof parzelliert; die deutschen Siedlungen der Gemeinde Trąbczyn. ab 1900"
+  intro_en: "By the twentieth century the manor is gone: the land parcelled out, the German settlements of Łazińsk and Emilienheim villages of the Polish commune of Trąbczyn. The historian Albert Breyer visits them in 1935 and 1936 and writes down what the settlers remember — their farms and schools, who went to Volhynia, America or Brazil, how they spoke and marked their graves. His notebooks are the last account of a world the coming war would erase; in 1940 the occupation renames the commune Drommin."
+  page_en: true

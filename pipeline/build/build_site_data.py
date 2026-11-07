@@ -1180,9 +1180,13 @@ def main():
                 f.write('  first: %s\n' % yaml_str(yrs[0] if yrs else ''))
                 f.write('  last: %s\n' % yaml_str(yrs[-1] if yrs else ''))
                 for k in ('label_en', 'label_de', 'blurb_en', 'blurb_de',
-                          'ownership_en', 'ownership_de'):
+                          'ownership_en', 'ownership_de',
+                          'intro_en', 'intro_de'):
                     if e.get(k):
                         f.write('  %s: %s\n' % (k, yaml_str(' '.join(str(e[k]).split()))))
+                for k in ('page_en', 'page_de'):
+                    if e.get(k):
+                        f.write('  %s: true\n' % k)
 
     years = Counter(r['date_iso'][:4] for r in recs if r['date_iso'])
     with open(os.path.join(DATA_DIR, 'stats.yml'), 'w', encoding='utf-8', newline='\n') as f:

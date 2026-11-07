@@ -5704,3 +5704,56 @@ footer on every page. Changed, in both languages:
   re-confirmed 0 overflows on 2,490 pages at 320. Needs node on PATH;
   puppeteer-core installs into a persistent cache under the system temp,
   never into the repository.
+
+## 2026-11-07: the Timeline rebuilt — the eras and the timeline are one page, the era pages born, the story page retired
+
+- **The editor's design** (their brief, questions asked first): one Timeline
+  page where the eras are introduced — one narrative paragraph each, a Read
+  more link to a proper era page with a much more detailed description
+  quoting its sources inline — and under each a brief timeline of the events
+  relevant to Trąbczyn (primary) and Zagórów (secondary). The timelines
+  rebuilt completely: no document counts, no skips between years, 1-2
+  compact sources for further reading per event. The story page removed
+  (the home page keeps its brief introduction; the nav's first item, renamed
+  Introduction, points there). English first, German after approval. Era
+  pages at /eras/<slug>/; the eras.yml blurbs rewritten for the page (the
+  originals stay in the register).
+- **site/_data/timeline.yml rebuilt** from 102 events to 69, a new schema:
+  `era` per event (editorial, like the documents'), `when` display date, a
+  concise note, and `sources` of text+url linked to the edition's own
+  document, literature and newspaper pages. Dropped by the importance rule:
+  the Ląd-internal events (1362, 1447, 1461 — the editor's own examples),
+  the purely personal, and the procedural sub-steps (their substance lives
+  in the era pages). Added: the twentieth century's four events (the 1911
+  parceling of Włodzimierow, Breyer's visits of 1935 and 1936, the 1940
+  Drommin renaming). The German event notes are gone with the rewrite and
+  fall back to English until the German pass.
+- **The Timeline page** (timeline.html include rewritten): per era the
+  label, the holder line, the intro paragraph (new `intro_en` field in
+  reference/eras.yml; German falls back to the editor's blurb_de), the Read
+  more link driven by new `page_en`/`page_de` flags, the events
+  (era-events.html, shared with the era pages), and the standing link to
+  the era's documents on the browse page.
+- **Seven era pages** at /eras/<slug>/ (and the German hohenlohe page moved
+  to /de/epochen/hohenlohe/): six written new in the story page's narrative
+  voice with inline source links and glossary links; the Hohenlohe page
+  moved from /hohenlohe/ with its stale pointers fixed and the events block
+  added. Each foot carries the era's events and its documents link.
+- **Redirects, no plugins**: a `redirect` layout (meta refresh, canonical,
+  location.replace); /the-story/ and /de/die-geschichte/ → the home pages,
+  /eras/ and /de/epochen/ → the Timeline, /hohenlohe/ and /de/hohenlohe/ →
+  the era pages' new addresses. The navbar reordered (Introduction,
+  Timeline, Sources, People, Places, Genealogy, Glossary, About) with the
+  i18n nav keys updated in both languages; about.md and de/ueber.md point
+  at the Timeline; urls.html lost u_story and u_eras.
+- **Verified**: build_site_data passes again (it had been failing on main —
+  the correspondent entry for Tadeusz Kościuszko, sender of the Ossolineum
+  copy collection's letter, was missing from reference/correspondents.yml;
+  added with the title the documents and the people bio give);
+  gazetteer --check passes; Jekyll builds; verify_site passes (its era
+  check retargeted to /timeline/); the mobile check passes on all eleven
+  new and redirected pages; the Timeline and an era page checked by eye in
+  screenshots.
+- **Open**: the German pass (intro paragraphs, six era-page mirrors, the
+  events' German fields — the German story page is a redirect meanwhile);
+  NEEDS_CONFIRMATION to carry the curation's judgement calls.

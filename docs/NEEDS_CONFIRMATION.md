@@ -9,6 +9,27 @@ reason to change the text without the editor.
 The `review/<slug>/` files named below are generated and not in the
 repository; they are on the working machine.
 
+## The Timeline rebuild's judgement calls (2026-11-07)
+
+- **The events dropped from the rebuilt timeline.yml** (102 → 69) left the
+  list by the editor's importance rule; the ones dropped on finer judgement
+  — the 1777 order to enter the boundary decree at Konin, the Pszczew
+  sale and its refused permission, the Oleśnica court administration, the
+  Erbet lease, Humboldt's taking up the case, the Kammergericht
+  proceedings, the widow von Brehmer's petition, the 1827 striking of the
+  Lichnowski and Grotowski mortgages, the 1830 Finance Commission's report
+  — survive in git history and in the era pages' prose where they carry
+  the story. If any should return as an event, say so.
+- **The new events' notes and sources are Claude's writing** (condensed
+  from the events' old notes, which cited their sources in full sentences;
+  the facts and the document links are the old events'). The German event
+  notes of the old file are gone with the rewrite — they return in the
+  German pass, translated fresh from the new English.
+- **The era intro paragraphs (intro_en in reference/eras.yml) are new
+  text**, written to the editor's voice brief; the editor's blurbs remain
+  in the register as blurb_en/blurb_de and render on /de/zeitleiste/
+  (fallback) until the German pass.
+
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;

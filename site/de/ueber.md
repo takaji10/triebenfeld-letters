@@ -17,7 +17,7 @@ konfisziert worden. Hohenlohe-Ingelfingens Bevollmächtigter, Peter Friedrich vo
 Triebenfeld, verwaltete die Güter und teilte sie unter Siedler auf. Hohenlohe-Ingelfingen
 verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufgenommen
 hatte, dauerte bis 1832.
-[Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
+[Die Zeitleiste]({{ '/de/zeitleiste/' | relative_url }}) erzählt das der Reihe nach.
 
 Es sind 630 Dokumente auf 2.103 Seiten aus den Jahren 1173 bis 1936. Die      
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der

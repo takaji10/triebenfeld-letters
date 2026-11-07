@@ -3514,6 +3514,85 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
 
 
 
+## The Timeline rebuilt, the eras as pages, the story page retired (2026-11-07)
+
+The editor's brief: combine the eras and timeline pages into one Timeline
+page — the eras introduced, under each a brief timeline of the events that
+matter to Trąbczyn (primary) and Zagórów (secondary); each era's introduction
+one paragraph with a Read more link to a proper era page, whose detailed
+narrative quotes its sources inline; the timelines completely rebuilt, no
+document counts, 1-2 compact sources per event, no skips between years; a
+link to each era's documents kept. Questions asked and answered first: the
+story page is REMOVED (a brief introduction stays on the home page, which
+already had one in the right voice; the nav's first item, renamed
+Introduction, points at the home page); English first, German after approval;
+era pages at /eras/<slug>/; the editor's eras.yml blurbs rewritten for the
+Timeline page (their text stays in the register and git history).
+
+- **The events data rebuilt** (site/_data/timeline.yml, rewritten from 102
+  events to 69): each event carries `era` (an editorial assignment like the
+  documents' — the insurgency years sit inside the Hohenlohe ones), `when`
+  (display date; `when_de` later), a concise note, and `sources` (1-2, as
+  text+url, linked to our document, literature or newspaper pages; the
+  territorial.de link for the Drommin renaming is the one external). Dropped
+  by the importance rule: the Ląd-internal events (the 1362 Drzewce forest
+  exchange, the 1447 and 1461 Łukomia purchases — the editor's own
+  examples), the purely personal ones (the marriage separation, the burial,
+  the daughter's death), and the sub-steps whose substance lives in the
+  era pages (the 1777 decree-entry order, Pszczew, Oleśnica, the Erbet
+  lease, Humboldt, the Kammergericht). Added: the twentieth century had no
+  events — the 1911 parceling of Włodzimierow, Breyer's 1935/1936 visits,
+  and the 1940 Drommin renaming (from the estates.yml renamed field's
+  citation). The old German notes are gone with the rewrite; /de/zeitleiste/
+  falls back to the English notes until the German pass — reported to the
+  editor.
+- **The Timeline page** (site/_includes/timeline.html, rewritten): per era —
+  label, who held the estate, the narrative intro (intro_en, new field in
+  reference/eras.yml; German falls back to the editor's blurb_de), Read more
+  where an era page exists (page_en/page_de flags), the era's events
+  (era-events.html, shared with the era pages), the documents link
+  (?era=). The per-year bar chart, its counts and its ⋮ skips are gone.
+- **Seven era pages** at /eras/<slug>/ (site/eras/*.md): the Hohenlohe page
+  moved from /hohenlohe/ (its stale pointers fixed, the events block added
+  at the foot), six written new — narrative prose in the story page's
+  voice, inline links to every source quoted, glossary links on first use
+  (Olęder → /glossary/#haulaender, Morgen, starost, South Prussia), and
+  each foot carrying the era's events and its documents link. The honesty
+  markers stay where the corpus is thin ("A fuller account of these years
+  is still to be written"; "this era is one document deep").
+- **The story page retired**: site/the-story.md and site/de/die-geschichte.md
+  are redirect stubs to the home pages (a new `redirect` layout, meta
+  refresh + canonical + location.replace, no plugins); /eras/ and
+  /de/epochen/ redirect to the Timeline; /hohenlohe/ and /de/hohenlohe/
+  redirect to the era pages' new addresses. The navbar: Introduction
+  (home), Timeline, Sources, People, Places, Genealogy, Glossary, About —
+  Sources moved up to third; nav.story/nav.eras gone from the i18n
+  (letter.html's i18n dict carries nav_introduction now); urls.html lost
+  u_story and u_eras; about.md and de/ueber.md point their "tells this in
+  order" sentence at the Timeline.
+- **Verified**: build_site_data passes (the run had been broken on main —
+  the Ossolineum holding's correspondent Tadeusz Kościuszko had no entry in
+  reference/correspondents.yml; added, title "General, in exile in Paris"
+  per the documents-first rule); gazetteer --check passes; Jekyll build;
+  verify_site passes (its era check retargeted from /eras/ to
+  /timeline/); the mobile check passes on all eleven new and redirected
+  pages at 390/360/320; screenshots of the Timeline and an era page
+  checked by eye.
+- **Two traps, both PowerShell's**: Get-Content -Raw without -Encoding
+  reads UTF-8 as ANSI, so a `-replace | Set-Content` round-trip mojibake'd
+  the moved Hohenlohe pages (Jekyll then demoted them to static copies —
+  the build "succeeded" while dropping two pages; only verify_site's broken
+  links exposed it). And Set-Content on Get-Content-catenated UTF-8 parts
+  mangles the same way — file concatenation for the repo belongs to Python
+  or the edit tool, never the shell pipeline. Liquid's `sort` on the
+  events' `date` needed uniform types: Psych reads `1173-08-31` as a Date
+  and `1814-09` as a String, so the dates are quoted strings now.
+- **Still open**: the German pass (the Timeline's intro paragraphs, the six
+  era pages' German mirrors, the events' when_de/title_de/note_de — the
+  German story page is a redirect meanwhile, so German readers have lost
+  the narratives until it lands); the nav labels' German ("Einführung"
+  set); NEEDS_CONFIRMATION entries for the curation judgement calls.
+
 ## The mobile-readiness re-check (2026-11-07)
 
 The editor asked for a mobile/responsiveness check of the whole site

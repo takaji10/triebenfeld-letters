@@ -30,15 +30,15 @@
     when the reader switches.
   {% endcomment %}
   <nav>
-    <a data-i18n="nav_story" data-href-en="{{ '/the-story/' | relative_url }}"
-       data-href-de="{{ '/de/die-geschichte/' | relative_url }}"
-       href="{% if lang == 'de' %}{{ '/de/die-geschichte/' | relative_url }}{% else %}{{ '/the-story/' | relative_url }}{% endif %}">{{ t.nav.story }}</a>
-    <a data-i18n="nav_eras" data-href-en="{{ '/eras/' | relative_url }}"
-       data-href-de="{{ '/de/epochen/' | relative_url }}"
-       href="{% if lang == 'de' %}{{ '/de/epochen/' | relative_url }}{% else %}{{ '/eras/' | relative_url }}{% endif %}">{{ t.nav.eras }}</a>
+    <a data-i18n="nav_introduction" data-href-en="{{ '/' | relative_url }}"
+       data-href-de="{{ '/de/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">{{ t.nav.introduction }}</a>
     <a data-i18n="nav_timeline" data-href-en="{{ '/timeline/' | relative_url }}"
        data-href-de="{{ '/de/zeitleiste/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/zeitleiste/' | relative_url }}{% else %}{{ '/timeline/' | relative_url }}{% endif %}">{{ t.nav.timeline }}</a>
+    <a data-i18n="nav_sources" data-href-en="{{ '/sources/' | relative_url }}"
+       data-href-de="{{ '/de/quellen/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/quellen/' | relative_url }}{% else %}{{ '/sources/' | relative_url }}{% endif %}">{{ t.nav.sources }}</a>
     <a data-i18n="nav_people" data-href-en="{{ '/people/' | relative_url }}"
        data-href-de="{{ '/de/personen/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/personen/' | relative_url }}{% else %}{{ '/people/' | relative_url }}{% endif %}">{{ t.nav.people }}</a>
@@ -51,9 +51,6 @@
     <a data-i18n="nav_glossary" data-href-en="{{ '/glossary/' | relative_url }}"
        data-href-de="{{ '/de/glossar/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/glossar/' | relative_url }}{% else %}{{ '/glossary/' | relative_url }}{% endif %}">{{ t.nav.glossary }}</a>
-    <a data-i18n="nav_sources" data-href-en="{{ '/sources/' | relative_url }}"
-       data-href-de="{{ '/de/quellen/' | relative_url }}"
-       href="{% if lang == 'de' %}{{ '/de/quellen/' | relative_url }}{% else %}{{ '/sources/' | relative_url }}{% endif %}">{{ t.nav.sources }}</a>
     <a data-i18n="nav_about" data-href-en="{{ '/about/' | relative_url }}"
        data-href-de="{{ '/de/ueber/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/ueber/' | relative_url }}{% else %}{{ '/about/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>

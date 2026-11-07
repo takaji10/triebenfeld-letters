@@ -1,2005 +1,889 @@
-# Historical events shown alongside the correspondence.
+﻿# Historical events of the Timeline, era by era.
 #
-# Hand-maintained - add events freely. Fields:
-#   date  : YYYY, YYYY-MM or YYYY-MM-DD (controls placement)
-#   end   : optional, for events spanning a period
-#   title : short label
-#   note  : one or two sentences of context
-#   kind  : war | estate | personal | political  (controls the colour)
-#   source: where the date comes from, shown to the reader
+# Rebuilt 2026-11-07 (the editor: the eras and the timeline are one page; the
+# Trąbczyn estate is the primary focus, Zagórów secondary; an event belongs
+# only if it is directly related to one of the two places). The old per-year
+# chart with its document counts is gone; each event carries 1-2 sources for
+# further reading, linked where the edition has the work, and a concise note.
 #
-#   title_de / note_de / source_de : the German rendering, shown on /de/zeitleiste/.
-#   If an event has no _de field the include falls back to the English one, so a new
-#   event can be added in English alone and translated later.
+# Fields:
+#   date  : YYYY, YYYY-MM or zero-padded YYYY-MM-DD; sorts the list (its
+#           plain-text order is chronological order)
+#   when  : the display date (en); when_de the German one (optional until the
+#           German pass)
+#   era   : the era the event belongs to - an editorial assignment like the
+#           documents', because the eras' spans overlap (the insurgency years
+#           sit inside the Hohenlohe ones)
+#   title : short label; title_de optional
+#   note  : one or two sentences; note_de optional
+#   sources: one or two, as {text, url?} - url is an internal page of this
+#           site (/documents/, /literature/, /newspapers/, /sources/); without
+#           url the text is a bare citation
 #
-# "Seidel 2018" = Ulrich Seidel, "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen".
-# Facts are cited; the book's text is not reproduced here. Seidel is a secondary
-# source: the documents in this edition come first, and where they disagree they
-# decide. He covers the South Prussian estates only briefly and makes assumptions
-# the documents correct, so a fact from him alone is used with care and cited to
-# him (editor, 2026-10-03).
-#
-#   refs  : optional, the documents the event rests on, as "<holding>/<number>";
-#           shown as links under the event.
+# Facts are cited; where a fact rests on a secondary source (Seidel 2018), the
+# documents come first and decide.
 
-# The Middle Ages (added 2026-10-16): from the entries of the Kodeks Dyplomatyczny Wielkopolski
-# (units/kdw), one entry per matter.
+# --- Trąbczyn in the Middle Ages ------------------------------------------------
 
-- date: 1173-08-31
+- date: "1173-08-31"
+  when: "31 August 1173"
+  era: medieval
   title: "Wrąbczynek is given to the Cistercians of Ląd"
   note: >-
-    Duke Mieszko gives "parvum Vronchin", little Wrąbczynek, to the Cistercian abbey of Ląd on the
-    Warta, which he had founded, with its salt, lakes, fishing and hunting, free of all Polish dues.
-  kind: estate
-  source: "charter of Duke Mieszko, Gniezno, 31 August 1173 (Kodeks Dyplomatyczny Wielkopolski I, no. 20)"
-  title_de: "Wrąbczynek wird den Zisterziensern von Ląd geschenkt"
-  note_de: >-
-    Herzog Mieszko schenkt „parvum Vronchin“, das kleine Wrąbczynek, dem von ihm gegründeten
-    Zisterzienserkloster Ląd an der Warthe, mit Salz, Seen, Fischerei und Jagd, frei von allen
-    polnischen Abgaben.
-  source_de: "Urkunde Herzog Mieszkos, Gnesen, 31. August 1173 (Kodeks Dyplomatyczny Wielkopolski I, Nr. 20)"
-  refs:
-    - kdw/1
+    Duke Mieszko gives "little Wrąbczynek", the hamlet by Trąbczyn, to the Cistercian
+    abbey he has founded at Ląd on the Warta, with its salt, lakes, fishing and hunting,
+    free of all Polish dues.
+  sources:
+    - text: "KDW I, no. 20"
+      url: /documents/kdw/1/
 
-- date: 1240-09-30
+- date: "1240-09-30"
+  when: "1240"
+  era: medieval
   title: "The tithes of Trąbczyn and its neighbours go to Ląd"
   note: >-
-    Archbishop Fulko of Gniezno gives the abbey of Ląd the tithes of the chapels of St Peter and St
-    Andrew, from Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom and Wrąbczyn, "whether the
-    villages are divided or moved or called by another name". The year, 1240, is the document's,
-    marked by its editors as doubtful.
-  kind: estate
-  source: "charter of Archbishop Fulko, dated 30 September 1240 (Kodeks Dyplomatyczny Wielkopolski I, no. 222)"
-  title_de: "Die Zehnten von Trąbczyn und seinen Nachbarn gehen an Ląd"
-  note_de: >-
-    Erzbischof Fulko von Gnesen gibt dem Kloster Ląd die Zehnten der Kapellen St. Peter und St.
-    Andreas aus Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom und Wrąbczyn, „ob die Dörfer
-    geteilt oder verlegt oder anders genannt werden“. Das Jahr 1240 ist das der Urkunde, von ihren
-    Herausgebern als zweifelhaft bezeichnet.
-  source_de: "Urkunde Erzbischof Fulkos, datiert 30. September 1240 (Kodeks Dyplomatyczny Wielkopolski I, Nr. 222)"
-  refs:
-    - kdw/2
+    Archbishop Fulko of Gniezno gives the abbey the tithes of the chapels of Zagórów,
+    Skokum, Kopojno, Trąbczyn, Szetlew, Łukom and Wrąbczyn, "whether the villages are
+    divided or moved or called by another name". The year is the document's own, marked
+    doubtful by its editors.
+  sources:
+    - text: "KDW I, no. 222"
+      url: /documents/kdw/2/
 
-- date: 1276-03-27
+- date: "1276-03-27"
+  when: "27 March 1276"
+  era: medieval
   title: "Duke Bolesław gives Trąbczyn to Count Mikołaj"
   note: >-
-    The village of Trąbczyn, "Trupcino", had been the duke's to give: first to Count Janko son of
-    Szymon, then to a priest Mikołaj, both dead without heirs. Now Duke Bolesław gives it to Count
-    Mikołaj, his treasurer at Ląd, and his heirs, free of the ducal dues.
-  kind: estate
-  source: "charter of Duke Bolesław, Dłusk, 27 March 1276 (Kodeks Dyplomatyczny Wielkopolski I, no. 460)"
-  title_de: "Herzog Bolesław gibt Trąbczyn dem Grafen Mikołaj"
-  note_de: >-
-    Das Dorf Trąbczyn, „Trupcino“, hatte der Herzog zu vergeben: zuerst an den Grafen Janko, Sohn des
-    Szymon, dann an einen Priester Mikołaj, beide ohne Erben gestorben. Nun gibt Herzog Bolesław es
-    dem Grafen Mikołaj, seinem Schatzmeister in Ląd, und dessen Erben, frei von den herzoglichen
-    Abgaben.
-  source_de: "Urkunde Herzog Bolesławs, Dłusk, 27. März 1276 (Kodeks Dyplomatyczny Wielkopolski I, Nr. 460)"
-  refs:
-    - kdw/5
+    Twice left without heirs — first to Count Janko, then to a priest Mikołaj — the
+    village passes to Count Mikołaj, the duke's treasurer at Ląd, and his heirs, free of
+    the ducal dues: the first owners of Trąbczyn whose line the record follows.
+  sources:
+    - text: "KDW I, no. 460"
+      url: /documents/kdw/5/
 
-- date: 1346-11-13
+- date: "1346-11-13"
+  when: "13 November 1346"
+  era: medieval
   title: "The heirs of Trąbczyn lose their suit"
   note: >-
-    At Pyzdry the land judge of Gniezno and Kalisz adjudges Stropiszyn and Pępocin to the church of
-    Gniezno against the brothers Jan and Przedpełk, heirs of Trąbczyn, and against Andrzej of
-    Trąbczyn and all his kin, and puts them to perpetual silence.
-  kind: estate
-  source: "two judgments of the land judge, Pyzdry, 13 November 1346 (Kodeks Dyplomatyczny Wielkopolski II, nos 1252, 1253)"
-  title_de: "Die Erben von Trąbczyn verlieren ihren Prozess"
-  note_de: >-
-    In Pyzdry spricht der Landrichter von Gnesen und Kalisch Stropiszyn und Pępocin der Kirche von
-    Gnesen zu, gegen die Brüder Jan und Przedpełk, Erben von Trąbczyn, und gegen Andrzej von Trąbczyn
-    und seine ganze Verwandtschaft, und erlegt ihnen ewiges Schweigen auf.
-  source_de: "zwei Urteile des Landrichters, Pyzdry, 13. November 1346 (Kodeks Dyplomatyczny Wielkopolski II, Nr. 1252, 1253)"
-  refs:
-    - kdw/9
-    - kdw/10
+    At Pyzdry the land judge adjudges Stropiszyn and Pępocin to the church of Gniezno
+    against the brothers Jan and Przedpełk, heirs of Trąbczyn, and puts them to perpetual
+    silence.
+  sources:
+    - text: "KDW II, nos 1252–1253"
+      url: /documents/kdw/9/
 
-- date: 1362-01-18
-  title: "Ląd exchanges Little Wronczyn for the forest where Drzewce was founded"
-  note: >-
-    King Kazimierz takes the abbey of Ląd's village of Little Wronczyn near Pyzdry and its mill below
-    Pyzdry castle, and gives the abbey in return sixty Franconian mansi of his forest Czirnetz in the
-    district of Konin, to settle with villages under Polish or German law. The copyist of the abbey's
-    privileges notes that the village of Drzewce was later founded in that forest.
-  kind: estate
-  source: "King Kazimierz's charter, Pyzdry, 18 January 1362, in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, pp. 25-26)"
-  title_de: "Ląd tauscht Klein-Wronczyn gegen den Wald, in dem Drzewce gegründet wurde"
-  note_de: >-
-    König Kasimir nimmt das Dorf Klein-Wronczyn des Klosters Ląd bei Pyzdry und seine Mühle unter der
-    Burg Pyzdry und gibt dem Kloster dafür sechzig fränkische Hufen seines Waldes Czirnetz im Bezirk
-    Konin, um dort Dörfer nach polnischem oder deutschem Recht anzulegen. Der Abschreiber der
-    Privilegien des Klosters vermerkt, dass in diesem Wald später das Dorf Drzewce angelegt wurde.
-  source_de: "Urkunde König Kasimirs, Pyzdry, 18. Januar 1362, im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 25-26)"
-  refs:
-    - app5314550221/4
-    - app5314550221/5
-
-- date: 1399-10-13
+- date: "1399-10-13"
+  when: "13 October 1399"
+  era: medieval
   title: "The tithe of Trąbczyn is adjudged to Ląd"
   note: >-
-    In the abbey of Ląd the Archbishop of Gniezno decides between the abbot and Jan, parish priest of
-    Trąbczyn: the sheaf tithe of the fields of Trąbczyn belongs to the abbey.
-  kind: estate
-  source: "judgment of Archbishop Dobrogost, Ląd, 13 October 1399 (Kodeks Dyplomatyczny Wielkopolski III, no. 2014)"
-  title_de: "Der Zehnte von Trąbczyn wird Ląd zugesprochen"
-  note_de: >-
-    Im Kloster Ląd entscheidet der Erzbischof von Gnesen zwischen dem Abt und Jan, dem Pfarrer von
-    Trąbczyn: der Garbenzehnte der Felder von Trąbczyn gehört dem Kloster.
-  source_de: "Urteil Erzbischof Dobrogosts, Ląd, 13. Oktober 1399 (Kodeks Dyplomatyczny Wielkopolski III, Nr. 2014)"
-  refs:
-    - kdw/13
+    At Ląd itself the Archbishop of Gniezno decides between the abbot and the parish
+    priest of Trąbczyn: the sheaf tithe of Trąbczyn's fields belongs to the abbey.
+  sources:
+    - text: "KDW III, no. 2014"
+      url: /documents/kdw/13/
 
-- date: 1407-11-19
+- date: "1407-11-19"
+  when: "19 November 1407"
+  era: medieval
   title: "Zagórów becomes a town"
   note: >-
-    King Władysław allows the abbey of Ląd to found a town at its village of Zagórów under the law of
-    Magdeburg, with a weekly market on Wednesdays.
-  kind: estate
-  source: "privilege of King Władysław, Niepołomice, 19 November 1407 (Kodeks Dyplomatyczny Wielkopolski V, no. 117)"
-  title_de: "Zagórów wird Stadt"
-  note_de: >-
-    König Władysław erlaubt dem Kloster Ląd, in seinem Dorf Zagórów eine Stadt nach Magdeburger Recht
-    zu gründen, mit einem Wochenmarkt am Mittwoch.
-  source_de: "Privileg König Władysławs, Niepołomice, 19. November 1407 (Kodeks Dyplomatyczny Wielkopolski V, Nr. 117)"
-  refs:
-    - kdw/14
+    King Władysław allows the abbey to found a town at its village of Zagórów under the
+    law of Magdeburg, with a weekly market on Wednesdays.
+  sources:
+    - text: "KDW V, no. 117"
+      url: /documents/kdw/14/
 
-# The Prusimski era, 1589 to 1788 (added 2026-10-07): one entry per matter, not per document, each resting on
-# the court-book holdings named in refs. Years before 1794 are shown on the page only where they have
-# documents or an event (site/_includes/timeline.html).
+# --- The Trąbczyn and Łukom boundary dispute ------------------------------------
 
-- date: 1447-08-08
-  title: "King Kazimierz confirms Ląd's purchase of land at Łukom with the forest of Grądzyń"
+- date: "1589-06-12"
+  when: "June 1589"
+  era: prusimski-boundary
+  title: "Trąbczyn sues its neighbour at Łukom over a flooded wood"
   note: >-
-    At Gniezno King Kazimierz confirms the contract by which Abbot Maciej of Ląd bought three mansi in
-    Łukomia, in the district of Konin, and the forest of Grądzyń from the brothers Mikołaj, Jan and Warsz
-    of Koscielec and their stepson, because the monastery lacked forests with which it might be restored.
-    The year in the copy is written over and read as 1447.
-  kind: estate
-  source: "King Kazimierz's charter, Gniezno, the Tuesday before St Lawrence [1447], in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, pp. 14-15)"
-  title_de: "König Kasimir bestätigt den Kauf von Land in Łukom mit dem Wald Grądzyń durch Ląd"
-  note_de: >-
-    In Gnesen bestätigt König Kasimir den Vertrag, mit dem Abt Maciej von Ląd drei Hufen in Łukomia im
-    Bezirk Konin und den Wald Grądzyń von den Brüdern Mikołaj, Jan und Warsz von Koscielec und ihrem
-    Stiefsohn kaufte, weil dem Kloster Wälder fehlten, mit denen es wiederhergestellt werden könnte. Das
-    Jahr ist in der Abschrift überschrieben und wird als 1447 gelesen.
-  source_de: "Urkunde König Kasimirs, Gnesen, Dienstag vor Laurentius [1447], im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 14-15)"
-  refs:
-    - app5314550221/3
+    Albertus Trąmpczyński charges Thomas Łukomski before the land court at Konin: a pond
+    raised at Łukom has flooded woodland and meadow of Trąbczyn, Nowa Wieś and Osiny. The
+    court orders an inspection — the first document of a quarrel the two estates will
+    carry on for two hundred years.
+  sources:
+    - text: "land court of Konin, 1589"
+      url: /documents/app536017/1/
 
-- date: 1461-09-21
-  title: "Three mansi of Łukom and the forest Grądzyń are sold to Ląd"
-  note: >-
-    The Wochneth brothers and their nephews, the Bochneths, resign three mansi with gardens in Łukom,
-    in the parish of Zagórów, with the forest Grądzyń, the forests Chmielniki and Lome and a field
-    above Imielno, to the abbot and convent of Ląd for 400 marks, with King Kazimierz's consent,
-    before Piotr of Szamotuły, general captain of Greater Poland.
-  kind: estate
-  source: "Piotr of Szamotuły's charter, Pyzdry, 21 September 1461, in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, pp. 13-14)"
-  title_de: "Drei Hufen in Łukom und der Wald Grądzyń werden an Ląd verkauft"
-  note_de: >-
-    Die Brüder Wochneth und ihre Neffen, die Bochneth, lassen dem Abt und Konvent von Ląd drei Hufen
-    mit Gärten in Łukom, in der Pfarrei Zagórów, mit dem Wald Grądzyń, den Wäldern Chmielniki und
-    Lome und einem Feld oberhalb von Imielno für 400 Mark auf, mit Zustimmung König Kasimirs, vor
-    Piotr von Szamotuły, dem Generalstarosten von Großpolen.
-  source_de: "Urkunde Piotrs von Szamotuły, Pyzdry, 21. September 1461, im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 13-14)"
-  refs:
-    - app5314550221/2
-
-- date: 1589-06-12
-  title: "The heir of Trąbczyn sues his neighbour at Łukom over a flooded wood"
-  note: >-
-    Albertus Trąmpczyński Otha, of Trąbczyn, charges Thomas Łukomski before the land court at Konin
-    with building a pond at Łukom that flooded woodland and meadow of Trąbczyn, Nowa Wieś and Osiny.
-    The court orders an inspection of the place. It is the earliest document of the quarrel between
-    the two estates, which later owners carried on for two hundred years.
-  kind: estate
-  source: "land court of Konin, entry of 1589"
-  title_de: "Der Erbherr von Trąbczyn verklagt seinen Nachbarn in Łukom wegen eines überschwemmten Waldes"
-  note_de: >-
-    Albertus Trąmpczyński Otha von Trąbczyn wirft Thomas Łukomski vor dem Landgericht in Konin vor, in
-    Łukom einen Teich angelegt zu haben, der Wald und Wiesen von Trąbczyn, Nowa Wieś und Osiny
-    überschwemmt habe. Das Gericht ordnet eine Besichtigung des Ortes an. Es ist das früheste Dokument
-    des Streits zwischen den beiden Gütern, den spätere Besitzer zweihundert Jahre lang fortführten.
-  source_de: "Landgericht Konin, Eintrag von 1589"
-  refs:
-    - app536017/1
-
-- date: 1644
+- date: "1644"
+  when: "1644"
+  era: prusimski-boundary
   title: "Boundary marks cut in the Łukom wood"
   note: >-
-    Jerzy Chełmski, now owner of Łukom, charges the Trąmpczyński brothers of Trąbczyn with sending
-    their subjects into his wood to cut about eighty boundary marks into trees, so as to take a large
-    part of his ground, and with felling about a hundred building trees. They do not appear, and the
-    land court at Konin condemns them by default. From here on the quarrel is about where the boundary
-    runs.
-  kind: estate
-  source: "land court of Konin, two judgments by default of 1644"
-  title_de: "Grenzzeichen im Wald von Łukom"
-  note_de: >-
-    Jerzy Chełmski, nun Besitzer von Łukom, wirft den Brüdern Trąmpczyński von Trąbczyn vor, sie
-    hätten ihre Untertanen in seinen Wald geschickt und etwa achtzig Grenzzeichen in Bäume hauen
-    lassen, um einen großen Teil seines Grundes an sich zu ziehen, und etwa hundert Bauhölzer fällen
-    lassen. Sie erscheinen nicht, und das Landgericht in Konin verurteilt sie in Abwesenheit. Von nun
-    an geht der Streit darum, wo die Grenze verläuft.
-  source_de: "Landgericht Konin, zwei Versäumnisurteile von 1644"
-  refs:
-    - app536036/1
-    - app536036/2
+    Jerzy Chełmski charges the Trąmpczyński brothers with sending their men to cut some
+    eighty boundary marks into his trees and fell a hundred building oaks; they do not
+    appear, and the court condemns them by default. From here the quarrel is about where
+    the boundary runs.
+  sources:
+    - text: "land court of Konin, judgments by default"
+      url: /documents/app536036/1/
 
-- date: 1728-01-26
-  title: "The Chełmskis sue Krzysztof Prusimski; a commissioner is sent to the ground"
+- date: "1728-01-26"
+  when: "January 1728"
+  era: prusimski-boundary
+  title: "A commissioner is sent onto the disputed ground"
   note: >-
-    The Prusimski family now holds Trąbczyn. Franciszek and Józef Chełmski of Łukom charge Krzysztof
-    Prusimski, his son Antoni and their men with burning shingles and a hut on their ground, seizing
-    four oxen in an armed raid and carting off hay. The land court at Konin sends a sworn commissioner
-    onto the disputed ground to examine old witnesses on oath about who owns it.
-  kind: estate
-  source: "land court of Konin, decree of 1728"
-  title_de: "Die Chełmski verklagen Krzysztof Prusimski; ein Kommissar wird auf den Grund geschickt"
-  note_de: >-
-    Trąbczyn gehört nun der Familie Prusimski. Franciszek und Józef Chełmski von Łukom werfen
-    Krzysztof Prusimski, seinem Sohn Antoni und ihren Leuten vor, auf ihrem Grund Schindeln und eine
-    Hütte verbrannt, bei einem bewaffneten Überfall vier Ochsen weggenommen und Heu abgefahren zu
-    haben. Das Landgericht in Konin schickt einen vereidigten Kommissar auf den strittigen Grund, der
-    alte Zeugen unter Eid darüber vernehmen soll, wem er gehört.
-  source_de: "Landgericht Konin, Dekret von 1728"
-  refs:
-    - app536040/1
+    The Chełmski brothers charge Krzysztof Prusimski and his son Antoni with burning
+    shingles, an armed raid and carting off hay; the court sends a sworn commissioner to
+    examine old witnesses on oath about who owns the ground.
+  sources:
+    - text: "land court of Konin, decree of 1728"
+      url: /documents/app536040/1/
 
-- date: 1754-07-09
-  title: "Paweł Prusimski is dead; his widow has Trąbczyn inspected"
-  note: >-
-    Katarzyna Prusimska, born Rozdrażewska, widow of Paweł Prusimski and holder of his estates for her
-    life, has the manor farm, the villages and the woods of Trąbczyn inspected and described. Two
-    noblemen state that the better pines and oaks have been felled. Paweł was the uncle of Antoni
-    Prusimski, who had the estate by 1767; the papers he left stayed with the widow's heirs, and
-    Antoni says in 1778 that he has sued for them and not yet received them.
-  kind: personal
-  source: "municipal court of Konin, inspection entered 12 July 1754"
-  title_de: "Paweł Prusimski ist tot; seine Witwe lässt Trąbczyn besichtigen"
-  note_de: >-
-    Katarzyna Prusimska, geborene Rozdrażewska, Witwe von Paweł Prusimski und auf Lebenszeit Inhaberin
-    seiner Güter, lässt das Vorwerk, die Dörfer und die Wälder von Trąbczyn besichtigen und
-    beschreiben. Zwei Adlige erklären, die besseren Kiefern und Eichen seien gefällt. Paweł war der
-    Onkel von Antoni Prusimski, der das Gut spätestens 1767 besaß; die Urkunden, die er hinterließ,
-    blieben bei den Erben der Witwe, und Antoni erklärt 1778, er habe auf ihre Herausgabe geklagt und
-    sie noch nicht erhalten.
-  source_de: "Burggericht Konin, Besichtigung, eingetragen am 12. Juli 1754"
-  refs:
-    - app53170koningr136/1
-    - app53170koningr117/3
-
-- date: 1754-12-05
+- date: "1754-12-05"
+  when: "December 1754"
+  era: prusimski-boundary
   title: "Paweł Prusimski's funeral at Trąbczyn"
   note: >-
-    The Warsaw newspaper Kuryer Polski reports from Kalisz the funeral held at Trąbczyn for Paweł
-    Prusimski, the King's chamberlain. The abbot of Ląd, invited to sing the High Mass, is kept away
-    by frost on the Warta; his nephew Antoni Prusimski gives the funeral oration; and his widow
-    Katarzyna has exequies said the same day at Pyzdry, Konin and Kaźmierz, as the parish church is
-    too small.
-  kind: personal
-  source: "Kuryer Polski 1754, nr 75 (25 December), report from Kalisz of 5 December"
-  title_de: "Paweł Prusimskis Begräbnis in Trąbczyn"
-  note_de: >-
-    Die Warschauer Zeitung Kuryer Polski berichtet aus Kalisch über das Begräbnis des königlichen
-    Kammerherrn Paweł Prusimski in Trąbczyn. Der Abt von Ląd, zum Hochamt eingeladen, wird durch
-    Frost auf der Warthe aufgehalten; sein Neffe Antoni Prusimski hält die Leichenrede; und seine
-    Witwe Katarzyna lässt am selben Tag in Pyzdry, Konin und Kaźmierz Exequien halten, weil die
-    Pfarrkirche zu klein ist.
-  source_de: "Kuryer Polski 1754, Nr. 75 (25. Dezember), Bericht aus Kalisch vom 5. Dezember"
-  refs:
-    - kuryerpolski1754075
+    Kuryer Polski reports the funeral of the King's chamberlain: the abbot of Ląd kept
+    away by frost on the Warta, the oration given by his nephew Antoni, and exequies the
+    same day at Pyzdry, Konin and Kaźmierz because the parish church is too small.
+  sources:
+    - text: "Kuryer Polski 1754, no. 75"
+      url: /newspapers/kuryerpolski1754075/
 
-- date: 1761-04-10
-  title: "The mounds between Łukom, Zagórów and Drzewce are renewed"
+- date: "1767-04-22"
+  when: "April 1767"
+  era: prusimski-boundary
+  title: "Antoni Prusimski's Olęder settlers are flooded"
   note: >-
-    A compromissory court, deciding on a piece of Łukom's ground beside Drzewce ceded to the convent
-    of Ląd, counts the mounds along the roads from Huta, Łukom and Tomice,
-    finds nothing in two hills the convent claimed as old mounds, and on the next day renews the
-    mounds between the estate of Łukom, the town of Zagórów and Drzewce. The decree was entered at
-    Kalisz castle on 20 April 1761.
-  kind: estate
-  source: "the court's decree, copied in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, p. 66; the heading on p. 63)"
-  title_de: "Die Grenzhügel zwischen Łukom, Zagórów und Drzewce werden erneuert"
-  note_de: >-
-    Ein Schiedsgericht, das über ein Stück Grund von Łukom bei Drzewce entscheidet, das dem Konvent
-    von Ląd abgetreten wurde, zählt die Grenzhügel an den Wegen von Huta, Łukom und
-    Tomice, findet nichts in zwei Hügeln, die der Konvent als alte Grenzhügel beanspruchte, und
-    erneuert am nächsten Tag die Hügel zwischen dem Gut Łukom, der Stadt Zagórów und Drzewce. Das
-    Dekret wurde am 20. April 1761 in der Burg Kalisch eingetragen.
-  source_de: "das Dekret des Gerichts, abgeschrieben im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 66; die Überschrift auf S. 63)"
-  refs:
-    - app5314550221/6
+    The new heir's court messenger reports that an embankment raised by the people of
+    Łukom, on their lord's order, has backed the water up and flooded the Olęder settlers
+    in the Trąbczyn woods, with their fields and meadows.
+  sources:
+    - text: "municipal court of Konin, two reports"
+      url: /documents/app53170koningr114/1/
 
-- date: 1763
-  title: "A case that cannot be judged until the boundary is fixed"
+- date: "1771-11-04"
+  when: "November 1771"
+  era: prusimski-boundary
+  title: "Chełmski takes the Lusnia wood; the dam is broken within weeks"
   note: >-
-    Stanisław Chełmski had seized potash that the widow Prusimska's burners were taking to Gdańsk. The
-    land court at Konin hears the witnesses and then suspends its judgment: the boundary between
-    Trąbczyn and Łukom is still before the Crown Tribunal, and only the boundary will show on whose
-    ground the potash was made.
-  kind: estate
-  source: "land court of Konin, decree of 1763"
-  title_de: "Eine Sache, die erst entschieden werden kann, wenn die Grenze feststeht"
-  note_de: >-
-    Stanisław Chełmski hatte Pottasche beschlagnahmen lassen, die die Sieder der Witwe Prusimska nach
-    Danzig brachten. Das Landgericht in Konin hört die Zeugen und setzt dann sein Urteil aus: Die
-    Grenze zwischen Trąbczyn und Łukom ist noch vor dem Krontribunal anhängig, und erst die Grenze
-    wird zeigen, auf wessen Grund die Pottasche hergestellt wurde.
-  source_de: "Landgericht Konin, Dekret von 1763"
-  refs:
-    - app536045/1
+    A commissioner hands Stanisław Chełmski the pine wood called Lusnia with the Olęder
+    settlement in it — a tavern and twelve settlers ordered to obey him. Six weeks later
+    his messenger reports the pond dam dug through and the fish let out, the tavern's
+    windows shot to pieces, more than thirty Trąbczyn subjects at the work in Prusimski's
+    presence.
+  sources:
+    - text: "the delivery of possession"
+      url: /documents/app53150kaliszgr414/1/
+    - text: "the reports of December 1771"
+      url: /documents/app53170koningr115/5/
 
-- date: 1767-04-22
-  title: "Antoni Prusimski, heir of Trąbczyn: his Olęder settlers are flooded"
+- date: "1775-09-13"
+  when: "September 1775"
+  era: prusimski-boundary
+  title: "A parliamentary commission ends in two decrees"
   note: >-
-    Antoni Prusimski of Kolno appears as heir of Trąbczyn. His court messenger reports that an
-    embankment newly raised by the people of Łukom, on their lord's order, has backed up the water and
-    flooded the Olęder settlers in the Trąbczyn woods, with their fields and meadows. A second report
-    follows in August.
-  kind: estate
-  source: "municipal court of Konin, two reports of 1767"
-  title_de: "Antoni Prusimski, Erbherr von Trąbczyn: seine Olęder werden überschwemmt"
-  note_de: >-
-    Antoni Prusimski von Kolno tritt als Erbherr von Trąbczyn auf. Sein Gerichtsbote berichtet, ein
-    von den Leuten von Łukom auf Befehl ihres Herrn neu aufgeworfener Damm habe das Wasser gestaut und
-    die Olęder in den Wäldern von Trąbczyn samt ihren Feldern und Wiesen überschwemmt. Ein zweiter
-    Bericht folgt im August.
-  source_de: "Burggericht Konin, zwei Berichte von 1767"
-  refs:
-    - app53170koningr114/1
-    - app53170koningr114/2
+    The commission the Polish parliament sent to end the dispute splits: Dąmbski's
+    commissioners find for Prusimski and sentence Chełmski to the tower; the commissioners
+    Chełmski had brought decree for his own line. Each side protests against the other's
+    decree, and nothing is settled.
+  sources:
+    - text: "the commission's decree"
+      url: /documents/app53170koningr145/1/
 
-- date: 1771-11-04
-  title: "Chełmski is put in possession of the Lusnia wood and its settlers"
+- date: "1778-03-30"
+  when: "1778"
+  era: prusimski-boundary
+  title: "A second front: the debt Chełmski bought"
   note: >-
-    Stanisław Chełmski has won before the Crown Tribunal: three decrees of 1766 to 1768 and a
-    condemnation of Antoni Prusimski in 1770. A commissioner hands over to him the pine wood called
-    Lusnia as belonging to Łukom from of old, with the Olęder settlement lately founded in it: a
-    tavern and twelve settlers, who are ordered to obey him. These are the settlers whom the Tribunal
-    gave back to Prusimski in 1782, all but one.
-  kind: estate
-  source: "municipal court of Kalisz, delivery of possession entered 9 November 1771"
-  title_de: "Chełmski wird in den Besitz des Waldes Lusnia und seiner Siedler eingewiesen"
-  note_de: >-
-    Stanisław Chełmski hat vor dem Krontribunal gewonnen: drei Dekrete von 1766 bis 1768 und eine
-    Verurteilung Antoni Prusimskis von 1770. Ein Kommissar übergibt ihm den Kiefernwald Lusnia als von
-    alters her zu Łukom gehörig, samt der kürzlich darin angelegten Olęder-Siedlung: einem Krug und
-    zwölf Siedlern, denen Gehorsam ihm gegenüber befohlen wird. Es sind die Siedler, die das Tribunal
-    1782 Prusimski zurückgab, bis auf einen.
-  source_de: "Burggericht Kalisz, Besitzeinweisung, eingetragen am 9. November 1771"
-  refs:
-    - app53150kaliszgr414/1
-    - app53170koningr115/4
+    Chełmski has taken over a merchant's claim against Antoni's late uncle Paweł, from a
+    sale of Trąbczyn timber, and sues on it; Prusimski protests that the papers he needs
+    lie with his uncle's widow's heirs and that it was the merchant who owed the uncle.
+    The suit still runs in 1786.
+  sources:
+    - text: "land and municipal court of Konin"
+      url: /documents/app536046/2/
 
-- date: 1771-12-20
-  title: "A broken dam and shots at the Lusnia tavern"
-  note: >-
-    Six weeks after the delivery, Chełmski's court messenger lays weapons before the office at Konin
-    and reports what he saw: the embankment at the Łukom pond dug through and the water let out with
-    the fish, loopholes cut in the walls of the Lusnia tavern and its windows shot out. He says more
-    than thirty Trąbczyn subjects did it in Prusimski's presence. Chełmski protests again in 1773 that
-    Prusimski's steward and servants rode upon the tavern and the settlers.
-  kind: estate
-  source: "municipal court of Konin, reports and a protest of 1771 to 1773"
-  title_de: "Ein durchstochener Damm und Schüsse auf den Krug von Lusnia"
-  note_de: >-
-    Sechs Wochen nach der Einweisung legt Chełmskis Gerichtsbote dem Amt in Konin Waffen vor und
-    berichtet, was er gesehen hat: den Damm am Teich von Łukom durchstochen und das Wasser samt den
-    Fischen abgelassen, Schießscharten in den Wänden des Krugs von Lusnia und dessen Fenster
-    zerschossen. Er sagt, mehr als dreißig Untertanen von Trąbczyn hätten es in Prusimskis Gegenwart
-    getan. Chełmski protestiert 1773 erneut, Prusimskis Verwalter und Diener seien über den Krug und
-    die Siedler hergefallen.
-  source_de: "Burggericht Konin, Berichte und ein Protest von 1771 bis 1773"
-  refs:
-    - app53170koningr115/5
-    - app53170koningr115/6
-    - app53170koningr115/9
-    - app53170koningr115/10
-
-- date: 1784-03-29
-  title: "The castellany court adjudges the Prusimski succession at Trąbczyn"
-  note: >-
-    The condescensio on the ultimate limitation of the succession the sterile
-    brothers Antoni and Paweł Prusimski left is held at the Trąbczyn grounds.
-    The court recites the division of 1740 with its three schedas and the
-    loads, and decides: the clean maternal fortune of 98,379 florins Polish
-    divided among the three brothers and three sisters at 16,396 florins each;
-    the paternal substance adjudged to Antoni in
-    Kolno Prusimski, starost of Niszczewice, as his uncles' heir. The Radoliński
-    successors' claim of 43,000 florins Polish stays undecided, remanded to
-    Gniezno since 1777.
-  kind: estate
-  source: "decree of the condescensio (register of the castellany court of Poznań, 53/20/0/-/Gr.1181)"
-  refs: ["app5320pozgr1181/1"]
-  title_de: "Das Kastellangericht spricht die Prusimski-Erbschaft auf Trąbczyn zu"
-  note_de: >-
-    Die Kondeszension über die ultimative Limitation der Erbschaft der
-    kinderlosen Brüder Antoni und Paweł Prusimski wird auf dem Grund von
-    Trąbczyn gehalten. Das Gericht rezitiert die Teilung von 1740 mit ihren
-    drei Lotschechten und den Lasten und entscheidet: die reine mütterliche
-    Masse von 98 379 Florin polnisch, geteilt unter die drei Brüder und drei
-    Schwestern zu je 16 396 Florin; die väterliche Substanz, Antoni in Kolno
-    Prusimski, Starost von Niszczewice, als Erben seiner Onkel zugesprochen. Die Forderung der Nachfolger Radolińskis
-    von 43 000 Florin polnisch bleibt unentschieden, seit 1777 an Gniezno
-    verwiesen.
-
-- date: 1775-09-13
-  title: "A commission of the parliament sits on the boundary and ends in two decrees"
-  note: >-
-    A commission appointed by the Polish parliament to end the dispute meets in the forest between
-    Trąbczyn and Łukomia. It splits. The commissioners under Ludwik Dąmbski, voivode of Brześć
-    Kujawski, find Antoni Prusimski's boundary line the better, have mounds raised along it and
-    sentence Stanisław Chełmski to the tower and to damages. The commissioners Chełmski had brought
-    give a decree of their own for his line. Each side protests against the other's decree, and
-    nothing is settled.
-  kind: estate
-  source: "decree of the boundary commission (court book of Konin, 1776); register of the municipal court of Konin"
-  title_de: "Eine Kommission des Reichstags tagt an der Grenze und endet in zwei Dekreten"
-  note_de: >-
-    Eine vom polnischen Reichstag eingesetzte Kommission, die den Streit beenden soll, tritt im Wald
-    zwischen Trąbczyn und Łukomia zusammen. Sie spaltet sich. Die Kommissare unter Ludwik Dąmbski,
-    Woiwode von Brześć Kujawski, erkennen Antoni Prusimskis Grenzlinie als die bessere an, lassen
-    entlang ihr Grenzhügel aufwerfen und verurteilen Stanisław Chełmski zu Turmhaft und Schadenersatz.
-    Die Kommissare, die Chełmski beigezogen hatte, erlassen ein eigenes Dekret für seine Linie. Jede
-    Seite protestiert gegen das Dekret der anderen, und nichts ist entschieden.
-  source_de: "Dekret der Grenzkommission (Gerichtsbuch von Konin, 1776); Register des Burggerichts Konin"
-  refs:
-    - app53170koningr145/1
-    - app53170koningr116/3
-    - app53170koningr116/7
-    - app53170koningr117/4
-
-- date: 1777-10-20
-  title: "Prusimski is ordered to enter his boundary decree at Konin"
-  note: >-
-    Prusimski had entered the decree given for him at Brześć Kujawski, in another province. Chełmski
-    shows by three searches that it is not in the records of its own province. The land court at Konin
-    orders Prusimski to bring it to the municipal court records there within four weeks, on pain of outlawry.
-    That is the likely reason the decree survives in the Konin book.
-  kind: estate
-  source: "land court of Konin, decree of the sitting that opened on 20 October 1777"
-  title_de: "Prusimski wird verpflichtet, sein Grenzdekret in Konin einzutragen"
-  note_de: >-
-    Prusimski hatte das für ihn ergangene Dekret in Brześć Kujawski eingetragen, in einer anderen
-    Woiwodschaft. Chełmski weist durch drei Nachsuchen nach, dass es nicht in den Akten der eigenen
-    Woiwodschaft steht. Das Landgericht in Konin verpflichtet Prusimski, es binnen vier Wochen zu den
-    dortigen Burgakten zu bringen, bei Strafe der Acht. Das ist wahrscheinlich der Grund, weshalb das
-    Dekret im Koniner Buch erhalten ist.
-  source_de: "Landgericht Konin, Dekret der Sitzung, die am 20. Oktober 1777 begann"
-  refs:
-    - app536046/1
-    - app53150kaliszgr424/1
-    - app53170koningr116/12
-
-- date: 1778-03-30
-  title: "A second front: the debt Chełmski bought from the merchant Tracholz"
-  note: >-
-    Chełmski had taken over in 1768 a merchant's claim against Antoni Prusimski's late uncle Paweł,
-    from a sale of Trąbczyn timber, and sues Antoni on it. In October 1777 the land court fixes a
-    hearing on the ground of Trąbczyn. In March and April 1778 Prusimski protests and has Chełmski and
-    the judges cited before the Crown Tribunal: the papers he needs are with the heirs of his uncle's
-    widow, and it was the merchant who owed the uncle. The suit is still running in 1786.
-  kind: estate
-  source: "land court and municipal court of Konin, 1777 to 1786"
-  title_de: "Eine zweite Front: die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hat"
-  note_de: >-
-    Chełmski hatte 1768 die Forderung eines Kaufmanns gegen Antoni Prusimskis verstorbenen Onkel Paweł
-    übernommen, aus einem Verkauf von Trąbczyner Holz, und verklagt Antoni daraus. Im Oktober 1777
-    setzt das Landgericht einen Ortstermin auf dem Grund von Trąbczyn an. Im März und April 1778
-    protestiert Prusimski und lässt Chełmski und die Richter vor das Krontribunal laden: Die Urkunden,
-    die er braucht, liegen bei den Erben der Witwe seines Onkels, und der Kaufmann sei dem Onkel
-    schuldig gewesen. Der Prozess läuft noch 1786.
-  source_de: "Landgericht und Burggericht Konin, 1777 bis 1786"
-  refs:
-    - app536046/2
-    - app53170koningr117/1
-    - app53170koningr117/3
-    - app53170koningr117/7
-    - app53170koningr117/8
-    - app53170koningr120/2
-
-- date: 1782-01-23
+- date: "1782-01-23"
+  when: "23 January 1782"
+  era: prusimski-boundary
   title: "The Crown Tribunal decides between the two decrees"
   note: >-
-    A law of 1776 had sent causes left with two contradictory commission decrees to the Crown
-    Tribunal. Its decree of 23 January 1782 fixes the corner of Trąbczyn, Łukom and Drzewce and the
-    end point at Biskupice as the commissioners on Prusimski's side had them, and draws a straight
-    line between the two on the map. The Olęder settlers Chełmski had taken are to go back to
-    Prusimski, all but one, Martin Hunt; that is done on 6 March.
-  kind: estate
-  source: "the Tribunal's decree, as recited in the boundary decree of 1782 (court book of Konin)"
-  title_de: "Das Krontribunal entscheidet zwischen den beiden Dekreten"
-  note_de: >-
-    Ein Gesetz von 1776 hatte Sachen, die mit zwei einander widersprechenden Kommissionsdekreten
-    liegen geblieben waren, an das Krontribunal verwiesen. Sein Dekret vom 23. Januar 1782 bestimmt
-    den Eckpunkt von Trąbczyn, Łukom und Drzewce und den Endpunkt bei Biskupice so, wie die Kommissare
-    der Seite Prusimskis sie hatten, und zieht zwischen beiden auf der Karte eine gerade Linie. Die
-    Olęder, die Chełmski an sich genommen hatte, sollen an Prusimski zurückgehen, bis auf einen,
-    Martin Hunt; das geschieht am 6. März.
-  source_de: "Dekret des Tribunals, wiedergegeben im Grenzdekret von 1782 (Gerichtsbuch von Konin)"
-  refs:
-    - app53170koningr153/1
-    - app53170koningr118/11
+    The Tribunal fixes the corner of Trąbczyn, Łukom and Drzewce as Prusimski's
+    commissioners had it and draws a straight line between the two points on the map; the
+    Olęder settlers Chełmski had taken go back to him, all but one, Martin Hunt.
+  sources:
+    - text: "the Tribunal's decree"
+      url: /documents/app53170koningr153/1/
 
-- date: 1782-05-27
+- date: "1782-05-27"
+  when: "May 1782"
+  era: prusimski-boundary
   title: "The first attempt to mark the line breaks down"
   note: >-
-    Two boundary chamberlains come to the ground, one engaged by each side. The surveyor draws the
-    Tribunal's line, and Hunt's holding turns out not to lie on Chełmski's side of it. The
-    chamberlains disagree about what to do. Chełmski in person pushes away the man with the surveyor's
-    chain and kicks the chain off the line; the chamberlain engaged by Prusimski, Jakub Górski, stops
-    and asks the War Department for soldiers.
-  kind: estate
-  source: "municipal court of Konin, protests of June 1782; the boundary decree of 1782"
-  title_de: "Der erste Versuch, die Linie zu bezeichnen, scheitert"
-  note_de: >-
-    Zwei Grenzkämmerer kommen auf den Grund, jeder von einer Seite beigezogen. Der Geometer zieht die
-    Linie des Tribunals, und es zeigt sich, dass Hunts Stelle nicht auf Chełmskis Seite liegt. Die
-    Kämmerer sind uneins, was zu tun ist. Chełmski selbst stößt den Mann mit der Messkette weg und
-    tritt die Kette von der Linie; der von Prusimski beigezogene Kämmerer Jakub Górski bricht ab und
-    bittet das Kriegsdepartement um Soldaten.
-  source_de: "Burggericht Konin, Proteste vom Juni 1782; das Grenzdekret von 1782"
-  refs:
-    - app53170koningr118/17
-    - app53170koningr118/19
-    - app53170koningr153/1
+    Two boundary chamberlains come to the ground, one engaged by each side, and disagree;
+    Chełmski in person pushes away the man with the surveyor's chain and kicks the chain
+    off the line, and the chamberlain on Prusimski's side stops and asks the War
+    Department for soldiers.
+  sources:
+    - text: "the protests of June 1782"
+      url: /documents/app53170koningr118/17/
 
-- date: 1782-11-28
-  end: 1782-12-03
-  title: "The boundary of Trąbczyn and Łukom is marked: forty-one mounds"
+- date: "1782-11-28"
+  when: "November 1782"
+  era: prusimski-boundary
+  title: "The boundary is marked: forty-one mounds"
   note: >-
-    On 17 October 1782 the Tribunal rules that its line cannot be changed, quashes the acts of both
-    chamberlains and sentences Górski to a week in the tower for trying to correct it. The boundary
-    chamberlain of Gniezno, Franciszek Ksawery Jasiński, then carries it out: forty-one mounds are
-    thrown up along the line and thirty-one stakes driven into the marsh, the older mounds of both
-    sides are levelled, and Martin Hunt is delivered to Prusimski. The boundary dispute of two
-    centuries is decided.
-  kind: estate
-  source: "decree of the boundary chamberlain of Gniezno (court book of Konin, 1782)"
-  title_de: "Die Grenze zwischen Trąbczyn und Łukom wird bezeichnet: einundvierzig Hügel"
-  note_de: >-
-    Am 17. Oktober 1782 entscheidet das Tribunal, dass seine Linie nicht geändert werden kann, hebt
-    die Akten beider Kämmerer auf und verurteilt Górski zu einer Woche Turmhaft, weil er sie
-    verbessern wollte. Der Grenzkämmerer von Gnesen, Franciszek Ksawery Jasiński, vollzieht es darauf:
-    Einundvierzig Hügel werden entlang der Linie aufgeworfen und einunddreißig Pfähle in den Sumpf
-    geschlagen, die älteren Hügel beider Seiten werden geschleift, und Martin Hunt wird Prusimski
-    übergeben. Der Grenzstreit zweier Jahrhunderte ist entschieden.
-  source_de: "Dekret des Grenzkämmerers von Gnesen (Gerichtsbuch von Konin, 1782)"
-  refs:
-    - app53170koningr153/1
-    - app53170koningr153/2
-    - app53170koningr118/28
-    - app53170koningr118/29
+    The boundary chamberlain of Gniezno throws up forty-one mounds along the Tribunal's
+    line, drives thirty-one stakes into the marsh, levels the older mounds of both sides
+    and delivers Martin Hunt. Two centuries of dispute are decided.
+  sources:
+    - text: "the chamberlain's decree"
+      url: /documents/app53170koningr153/2/
 
-- date: 1783-03-10
-  title: "The line is drawn, the quarrel goes on"
+- date: "1783-03-10"
+  when: "1783"
+  era: prusimski-boundary
+  title: "The line is drawn; the quarrel goes on"
   note: >-
-    On the day the chamberlain's court opened, Chełmski's people felled 221 pines on Trąbczyn's side
-    of the new line; Prusimski's steward protests. In 1783 Chełmski has Prusimski and his steward
-    cited before the municipal court of Kalisz for seizing oxen, carts and axes in the wood, and
-    Prusimski cites him in turn. In the autumn the land court finds that men of Prusimski's household
-    beat one of Chełmski's settlers and puts Prusimski to an oath. The boundary is fixed; the
-    neighbours are not reconciled.
-  kind: estate
-  source: "municipal court and land court of Konin, 1782 and 1783"
-  title_de: "Die Linie ist gezogen, der Streit geht weiter"
-  note_de: >-
-    An dem Tag, an dem das Gericht des Kämmerers eröffnet wurde, fällten Chełmskis Leute 221 Kiefern
-    auf der Trąbczyner Seite der neuen Linie; Prusimskis Verwalter protestiert. 1783 lässt Chełmski
-    Prusimski und dessen Verwalter vor das Burggericht Kalisz laden, weil sie im Wald Ochsen, Wagen
-    und Äxte weggenommen hätten, und Prusimski lädt ihn seinerseits. Im Herbst stellt das Landgericht
-    fest, dass Leute vom Hof Prusimskis einen Siedler Chełmskis geschlagen haben, und legt Prusimski
-    einen Eid auf. Die Grenze steht fest; versöhnt sind die Nachbarn nicht.
-  source_de: "Burggericht und Landgericht Konin, 1782 und 1783"
-  refs:
-    - app53170koningr118/26
-    - app53170koningr118/27
-    - app53170koningr119/1
-    - app53170koningr119/4
-    - app536047/1
+    On the day the chamberlain's court opened, Chełmski's people felled 221 pines on
+    Trąbczyn's side of the new line; suits and counter-suits follow through the year. The
+    boundary is fixed; the neighbours are not reconciled.
+  sources:
+    - text: "the courts at Konin, 1782–1783"
+      url: /documents/app53170koningr119/1/
 
-- date: 1788-06-09
+- date: "1784-03-29"
+  when: "29 March 1784"
+  era: prusimski-boundary
+  title: "The succession is adjudged on the Trąbczyn grounds"
+  note: >-
+    The condescensio divides the childless brothers' maternal fortune among six heirs and
+    adjudges the paternal substance to their nephew Antoni in Kolno, starost of
+    Niszczewice — the last Polish owner of Trąbczyn.
+  sources:
+    - text: "the decree"
+      url: /documents/app5320pozgr1181/1/
+
+- date: "1788-06-09"
+  when: "9 June 1788"
+  era: prusimski-boundary
   title: "The last entry: a cart stopped in the Trąbczyn wood"
   note: >-
-    Prusimski's forest keeper stops a peasant of Łomowo, one of Chełmski's villages, carting a felled
-    building tree out of the pine wood of Trąbczyn; his cart, two oxen, a cow and a mare are shown to
-    the office at Konin and given back. It is the last entry of the court books. Six
-    years later the estates were confiscated.
-  kind: estate
-  source: "municipal court of Konin, entry of 9 June 1788"
-  title_de: "Der letzte Eintrag: ein Wagen, im Wald von Trąbczyn angehalten"
-  note_de: >-
-    Prusimskis Waldwärter hält einen Bauern aus Łomowo an, einem Dorf Chełmskis, der einen gefällten
-    Baustamm aus dem Kiefernwald von Trąbczyn fährt; sein Wagen, zwei Ochsen, eine Kuh und eine Stute
-    werden dem Amt in Konin vorgezeigt und zurückgegeben. Es ist der letzte Eintrag der Gerichtsbücher. Sechs Jahre später wurden die Güter eingezogen.
-  source_de: "Burggericht Konin, Eintrag vom 9. Juni 1788"
-  refs:
-    - app53170koningr121/1
+    Prusimski's forest keeper stops a peasant of Łomowo carting a felled building tree out
+    of the pine wood; cart, oxen, cow and mare are shown to the office and given back. It
+    is the last entry of the court books; six years later the estates were confiscated.
+  sources:
+    - text: "municipal court of Konin"
+      url: /documents/app53170koningr121/1/
 
-- date: 1791
-  title: "The visitation of the parish of Trąbczyn: 760 souls"
+- date: "1791"
+  when: "1791"
+  era: prusimski-boundary
+  title: "The visitation counts 760 souls"
   note: >-
-    The record of the visitation of the Konin deanery describes the parish of Trąbczyn under Antoni
-    Prusimski, its heir and patron: the priest Józef Zurkowski, instituted on Prusimski's presentation
-    in 1785; the church of St Martin, consecrated in 1546, built in part by the Trąmpczyński family and
-    enlarged by Katarzyna Prusimska; and 760 souls in the villages of the parish, the dissidents among
-    them living almost all in the Olęder settlements.
-  kind: estate
-  source: "the visitation of the Konin deanery, 1790 and 1791 (Diocesan Archive in Włocławek)"
-  title_de: "Die Visitation der Pfarrei Trąbczyn: 760 Seelen"
-  note_de: >-
-    Der Bericht über die Visitation des Dekanats Konin beschreibt die Pfarrei Trąbczyn unter Antoni
-    Prusimski, ihrem Erbherrn und Patron: den Pfarrer Józef Zurkowski, 1785 auf Prusimskis
-    Präsentation eingesetzt; die Kirche des heiligen Martin, 1546 geweiht, zum Teil von der Familie
-    Trąmpczyński erbaut und von Katarzyna Prusimska erweitert; und 760 Seelen in den Dörfern der
-    Pfarrei, deren Dissidenten fast alle in den Olęder-Siedlungen leben.
-  source_de: "Visitation des Dekanats Konin, 1790 und 1791 (Diözesanarchiv Włocławek)"
-  refs:
-    - adwl85/1
+    The visitation of the Konin deanery describes the parish of Trąbczyn: the church of
+    St Martin of 1546, built in part by the Trąmpczyński family and enlarged by the widow
+    Prusimska, and 760 souls, the dissidents living almost all in the Olęder settlements.
+  sources:
+    - text: "the visitation of the Konin deanery"
+      url: /documents/adwl85/1/
 
-- date: 1794
-  title: The Kościuszko uprising; the Prusimski estates are confiscated
+# --- The insurgency and the emigration ------------------------------------------
+
+- date: "1794"
+  when: "1794"
+  era: insurgency
+  title: "The Kościuszko uprising; the Prusimski estates are confiscated"
   note: >-
-    Antoni Prusimski, Starost and owner of Trąbczyn, Kamionna and Kolno, joins the uprising
-    against the partitioning powers. Prussia afterwards confiscates his property. These are the estates Prince Friedrich Ludwig of Hohenlohe-Ingelfingen will be given two years later.
-  kind: political
-  source: "mortgage certificate for Kolno (deeds of grant, 12)"
-  title_de: Der Kościuszko-Aufstand; die Güter Prusimskis werden konfisziert
-  note_de: >-
-    Antoni Prusimski, Starost und Besitzer von Trąbczyn, Kamionna und Kolno, schließt sich dem
-    Aufstand gegen die Teilungsmächte an. Preußen konfisziert danach sein Vermögen. Es sind die Güter, die Fürst Friedrich Ludwig von Hohenlohe-Ingelfingen zwei Jahre später erhält.
-  source_de: "Hypothekenschein für Kolno (Verleihungsurkunden, 12)"
-  refs: ["oe1bu14525/12"]
+    Antoni Prusimski, starost and owner of Trąbczyn, Kamionna and Kolno, joins the rising
+    against the partitioning powers; Prussia confiscates his property. These are the
+    estates a Prussian prince will be given two years later.
+  sources:
+    - text: "the mortgage certificate for Kolno"
+      url: /documents/oe1bu14525/12/
 
-- date: 1795
-  title: Third Partition of Poland; Peace of Basel
+- date: "1795"
+  when: "1795"
+  era: insurgency
+  title: "The Third Partition; South Prussia"
   note: >-
-    In April Prussia makes a separate peace with France at Basel and leaves the war against the
-    French Republic. In October the three partitioning powers divide what remains of Poland, and
-    Prussia annexes the territory it calls South Prussia. In the two years that follow Friedrich
-    Ludwig is granted estates there, Zagórów, Trąbczyn, Kamionna and others, which become the
-    subject of most of this correspondence.
-  kind: political
-  source: "general history; the charters of 1796 and 1797"
-  title_de: Dritte Teilung Polens; Friede von Basel
-  note_de: >-
-    Im April schließt Preußen in Basel einen Sonderfrieden mit Frankreich und scheidet aus dem
-    Krieg gegen die Französische Republik aus. Im Oktober teilen die drei Teilungsmächte den
-    Rest Polens unter sich auf, und Preußen annektiert das Gebiet, das es Südpreußen nennt. In
-    den beiden folgenden Jahren erhält Friedrich Ludwig dort Güter, Zagórów, Trąbczyn, Kamionna
-    und andere, die den Gegenstand des größten Teils dieser Korrespondenz bilden.
-  source_de: "allgemeine Geschichte; die Urkunden von 1796 und 1797"
+    Prussia makes peace at Basel in April; in October the three powers divide what remains
+    of Poland, and Prussia annexes the province it calls South Prussia — Trąbczyn,
+    Zagórów and their neighbours are now on the map of the Prussian state.
 
-- date: 1796-08-09
-  title: The King grants the Prusimski estates
+- date: "1796-12-14"
+  when: "December 1796"
+  era: insurgency
+  title: "Prusimski at Venice"
   note: >-
-    On the proposal of Karl Georg von Hoym, the minister responsible for Silesia and South
-    Prussia, made on 14 July, and a cabinet order of 23 July, Friedrich Wilhelm II grants
-    Hohenlohe-Ingelfingen Kamionna and Kolno, Trąbczyn with its villages, and Brzyce. Six
-    officers receive other confiscated estates by charters of the same day. Hoym puts
-    Hohenlohe-Ingelfingen's yearly income from them at 4,000 Thaler.
-  kind: estate
-  source: "the ministry's file on the charters; the charter in three copies; Hoym's letter"
-  title_de: Der König verleiht die Güter Prusimskis
-  note_de: >-
-    Auf Vorschlag Karl Georg von Hoyms, des für Schlesien und Südpreußen zuständigen Ministers,
-    vom 14. Juli und eine Kabinettsorder vom 23. Juli verleiht Friedrich Wilhelm II.
-    Hohenlohe-Ingelfingen Kamionna und Kolno, Trąbczyn mit seinen Dörfern und Brzyce. Sechs
-    Offiziere erhalten durch Urkunden vom selben Tag andere konfiszierte Güter. Hoym
-    veranschlagt Hohenlohe-Ingelfingens Jahresertrag daraus auf 4.000 Thaler.
-  source_de: die Akte des Ministeriums über die Urkunden; die Urkunde in drei Abschriften; Hoyms Schreiben
-  refs: ["ihagrrep7cnr3570/1", "oe1bu14525/1", "oe1bu14525/39"]
+    Ill and broken by his wife's death, the dispossessed owner reaches the Prussian
+    resident at Venice, who certifies that he cannot travel; by his daughter's later
+    account the certificate was to excuse him to the authorities who had summoned him to
+    justify leaving the country.
+  sources:
+    - text: "the resident's dispatch"
+      url: /documents/ihagrrep7cnr1414/2/
 
-- date: 1796-12-14
-  title: Prusimski at Venice
+- date: "1798-09-03"
+  when: "3 September 1798"
+  era: insurgency
+  title: "Kościuszko writes from Paris"
   note: >-
-    Count Cattaneo, the Prussian resident at Venice, reports that Antoni Prusimski, whose
-    estates Hohenlohe-Ingelfingen now holds, has come to him ill and broken by the death of his
-    wife, and that he has given him a certificate that he cannot travel. In January 1797 the
-    department of foreign affairs passes the report to the ministers Hoym and Schroetter and to
-    the Grand Chancellor. By his daughter's later account he wanted the certificate to excuse
-    himself to the Prussian authorities, who had summoned him to justify his leaving the country.
-  kind: personal
-  source: "an extract of the resident's dispatch and the department's letters, in a file of the central administration for South Prussia"
-  title_de: Prusimski in Venedig
-  note_de: >-
-    Graf Cattaneo, der preußische Resident in Venedig, berichtet, Antoni Prusimski, dessen
-    Güter nun Hohenlohe-Ingelfingen besitzt, sei krank und durch den Tod seiner Frau gebrochen
-    zu ihm gekommen, und er habe ihm bescheinigt, dass er nicht reisen könne. Im Januar 1797
-    gibt das Departement der auswärtigen Angelegenheiten den Bericht an die Minister Hoym und
-    Schroetter und an den Großkanzler weiter. Nach der späteren Darstellung seiner Tochter
-    brauchte er das Attest, um sich bei den preußischen Behörden zu entschuldigen, die ihn
-    aufgefordert hatten, seine Ausreise zu rechtfertigen.
-  source_de: "ein Auszug aus der Depesche des Residenten und die Schreiben des Departements in einer Akte der Zentralverwaltung für Südpreußen"
-  refs: ["ihagrrep7cnr1414/2", "ihagrrep7cnr1414/1", "iiihamdaiiinr12366/2"]
+    In exile after the uprising's defeat, its commander writes to an émigré correspondent
+    who had written to him from Dresden in August. The letter survives in the copy
+    collection of the Lwów bibliographer Przyłęcki — the first document of this era.
+  sources:
+    - text: "the letter in copy"
+      url: /documents/ossol2289/1/
 
-- date: 1797-06-19
-  title: "A second grant: Zagórów, Pszczew and the church villages"
+# --- The Hohenlohe-Ingelfingen years --------------------------------------------
+
+- date: "1796-08-09"
+  when: "9 August 1796"
+  era: hohenlohe
+  title: "The King grants the Prusimski estates"
   note: >-
-    The Prusimski estates prove heavily indebted, so the King grants sixteen villages formerly
-    owned by the church, among them Pszczew, Zagórów, Kopojno and Drzewce. A declaration of 1
-    December 1797 adds their outlying parts.
-  kind: estate
-  source: "the charters of 19 June and 1 December 1797 (deeds of grant, 5 and 6)"
-  title_de: "Eine zweite Verleihung: Zagórów, Pszczew und die geistlichen Dörfer"
-  note_de: >-
-    Die Güter Prusimskis erweisen sich als hoch verschuldet; der König verleiht deshalb sechzehn
-    vormals geistliche Dörfer, darunter Pszczew, Zagórów, Kopojno und Drzewce. Eine Deklaration
-    vom 1. Dezember 1797 fügt deren Zubehörungen hinzu.
-  source_de: "die Urkunden vom 19. Juni und 1. Dezember 1797 (Verleihungsurkunden, 5 und 6)"
-  refs: ["oe1bu14525/5", "oe1bu14525/6"]
+    On minister von Hoym's proposal, Friedrich Wilhelm II grants Friedrich Ludwig, Prince
+    of Hohenlohe-Ingelfingen, Kamionna and Kolno, Trąbczyn with its villages and Brzyce —
+    confiscated from the fugitive owner — and reckons the Prince's yearly income from them
+    at 4,000 Thaler.
+  sources:
+    - text: "the charter"
+      url: /documents/oe1bu14525/1/
 
-- date: 1797-10-20
-  title: The King orders the estates handed over in earnest
+- date: "1797-06-19"
+  when: "19 June 1797"
+  era: hohenlohe
+  title: "A second grant: the church villages"
   note: >-
-    The estates had been handed over on paper only: people who had lent money on them and held
-    them as security, and tenants with leases, were still in possession and kept the income. A
-    royal order to the War and Domains Chambers at Poznań and Piotrków, the provincial
-    administrations, finds that this handover was a formality. The holders' claims are to be
-    examined and Hohenlohe-Ingelfingen's agents put in actual possession.
-  kind: estate
-  source: "royal order (deeds of grant, 40)"
-  title_de: Der König befiehlt die tatsächliche Übergabe der Güter
-  note_de: >-
-    Die Güter waren nur auf dem Papier übergeben worden: Wer Geld auf sie geliehen hatte und sie
-    als Sicherheit innehatte, und Pächter mit Verträgen blieben im Besitz und behielten die
-    Einkünfte. Ein königlicher Befehl an die Kriegs- und Domänenkammern in Poznań und Piotrków,
-    die Provinzialverwaltungen, stellt fest, die Übergabe sei eine bloße Förmlichkeit gewesen.
-    Die Ansprüche der Inhaber sollen geprüft und die Bevollmächtigten Hohenlohe-Ingelfingens
-    tatsächlich in den Besitz gesetzt werden.
-  source_de: "königlicher Befehl (Verleihungsurkunden, 40)"
-  refs: ["oe1bu14525/40"]
+    The estates prove heavily mortgaged, so the King adds sixteen villages formerly owned
+    by the church — among them Zagórów, Kopojno and Drzewce.
+  sources:
+    - text: "the charters of 19 June and 1 December"
+      url: /documents/oe1bu14525/5/
 
-- date: 1797-11
-  title: Friedrich Wilhelm III accedes to the Prussian throne
+- date: "1798-04-01"
+  when: "1 April 1798"
+  era: hohenlohe
+  title: "The correspondence opens"
   note: >-
-    Friedrich Wilhelm III succeeds his father. He is the King to whom Hohenlohe-Ingelfingen
-    petitions again and again in these letters, usually through the King's adjutant-general, von
-    Köckritz.
-  kind: political
-  source: general history
-  title_de: Friedrich Wilhelm III. besteigt den preußischen Thron
-  note_de: >-
-    Friedrich Wilhelm III. folgt seinem Vater. An ihn wendet sich Hohenlohe-Ingelfingen in
-    diesen Briefen immer wieder, zumeist über den Generaladjutanten des Königs, von Köckritz.
-  source_de: allgemeine Geschichte
+    Triebenfeld is in Berlin, working to exchange Hohenlohe-Ingelfingen's South Prussian
+    estates for two crown domains, to clear his principal's debts.
+  sources:
+    - text: "letter 75"
+      url: /documents/oe1bu9454/75/
 
-- date: 1798-04-01
-  title: The correspondence opens
+- date: "1798-10"
+  when: "October 1798"
+  era: hohenlohe
+  title: "The exchange for Krotoszyn and Polajewo is refused"
   note: >-
-    Triebenfeld is in Berlin, working to exchange Hohenlohe-Ingelfingen's South Prussian estates
-    for the Prussian crown domains of Krotoszyn and Polajewo in order to clear his debts.
-  kind: estate
-  source: letter 75
-  title_de: Die Korrespondenz beginnt
-  note_de: >-
-    Triebenfeld ist in Berlin und arbeitet daran, die südpreußischen Güter
-    Hohenlohe-Ingelfingens gegen die preußischen Krondomänen Krotoszyn und Polajewo
-    einzutauschen, um dessen Schulden zu tilgen.
-  source_de: Brief 75
-  refs: ["oe1bu9454/75"]
+    Minister von Voss reports that the state would lose 17,400 Thaler a year by the
+    exchange, on a valuation made without anyone inspecting the land; the King refuses,
+    and Hohenlohe-Ingelfingen is still petitioning against the refusal in 1800.
+  sources:
+    - text: "letters 77 and 85"
+      url: /documents/oe1bu9454/77/
 
-- date: 1798-10
-  end: 1800
-  title: The exchange for Krotoszyn and Polajewo is refused
+- date: "1798-10-01"
+  when: "1 October 1798"
+  era: hohenlohe
+  title: "Szetlewek is sold"
   note: >-
-    In Berlin Triebenfeld works on the King's cabinet councillor Beyme, the finance minister
-    Struensee, the minister Hoym and the adjutant-general Köckritz to have the estates exchanged
-    for two crown domains. Minister von Voss reports that the state would lose 17,400 Rthl a
-    year by the exchange, on a valuation made without anyone inspecting the land, and the King
-    refuses. Hohenlohe-Ingelfingen is still petitioning against the refusal in 1800.
-  kind: estate
-  source: "letters 77, 85, 87, 101"
-  title_de: Der Tausch gegen Krotoszyn und Polajewo wird abgelehnt
-  note_de: >-
-    In Berlin bemüht sich Triebenfeld beim Kabinettsrat des Königs Beyme, beim Finanzminister
-    Struensee, beim Minister Hoym und beim Generaladjutanten Köckritz, die Güter gegen zwei
-    Krondomänen einzutauschen. Minister von Voss berichtet, der Staat verlöre durch den Tausch
-    jährlich 17.400 Rthl, nach einer Taxe, die gemacht war, ohne dass jemand das Land besichtigt
-    hätte, und der König lehnt ab. Noch 1800 bittet Hohenlohe-Ingelfingen gegen die Ablehnung.
-  source_de: "Briefe 77, 85, 87, 101"
-  refs: ["oe1bu9454/77", "oe1bu9454/85", "oe1bu9454/87", "oe1bu9454/101"]
+    The first sale: the demesne farm of Szetlewek near Trąbczyn, 1,000 Morgen, goes to the
+    miller Samuel Lucke for 12,333 Thaler, of which 8,333 go straight to a creditor who
+    held the farm in mortgage.
+  sources:
+    - text: "contract 25 of the deeds"
+      url: /documents/oe1bu14526/25/
 
-- date: 1798-10-01
-  title: Szetlewek sold
+- date: "1800-06-18"
+  when: "June 1800"
+  era: hohenlohe
+  title: "The owner's daughter sues"
   note: >-
-    Glenck sells the demesne farm of Szetlewek near Trąbczyn, 1,000 Morgen, to the miller Samuel
-    Lucke for 12,333 Rthl and 500 a year in ground rent. Of the price, 8,333 Rthl go to Ignatz von Radzinski, who had lent money on the farm and held it as security until he was repaid, and is to vacate it once paid.
-  kind: estate
-  source: contract 25 of the deeds
-  title_de: Szetlewek wird verkauft
-  note_de: >-
-    Glenck verkauft das Vorwerk Szetlewek bei Trąbczyn, 1.000 Morgen, an den Müller Samuel Lucke
-    für 12.333 Rthl und 500 jährlich an Grundzins. Davon erhält Ignatz von Radzinski 8.333 Rthl: er hatte Geld auf das Vorwerk geliehen und es
-    bis zur Rückzahlung als Pfand inne, und mit der Zahlung muss er es räumen.
-  source_de: Vertrag 25 der Urkunden
-  refs: ["oe1bu14526/25"]
+    Michalina Prusimska, still a minor, sues the Prince for the Brzyce estates as her
+    mother's property; the King orders the case hurried, judgment is given against her at
+    Poznań in December, and by 1802 she is petitioning the King to hasten the appeal.
+  sources:
+    - text: "the King's order of June 1800"
+      url: /documents/ihagrrep7cnr3709/2/
 
-- date: 1798-12-28
-  end: 1803
-  title: The courts press Hohenlohe-Ingelfingen to prove his title
+- date: "1804-04-02"
+  when: "April 1804"
+  era: hohenlohe
+  title: "Settlers are sought"
   note: >-
-    From December 1798 the provincial courts at Kalisz and Poznań (in Prussia called
-    "governments") set deadlines for entering Hohenlohe-Ingelfingen as owner in the mortgage
-    books, the land registers, and threaten proceedings if he does not. For Trąbczyn they demand
-    the judgment that confiscated Prusimski's property, which had been given at Toruń; the
-    request for a copy of it is refused at Poznań.
-  kind: estate
-  source: "orders and replies (deeds of grant, 42, 30, 31, 43)"
-  title_de: "Die Gerichte drängen Hohenlohe-Ingelfingen, seinen Besitztitel nachzuweisen"
-  note_de: >-
-    Ab Dezember 1798 setzen die Provinzialgerichte in Kalisz und Poznań (in Preußen
-    "Regierungen" genannt) Fristen, Hohenlohe-Ingelfingen als Eigentümer in die
-    Hypothekenbücher, die Grundbücher, eintragen zu lassen, und drohen sonst mit Verfahren. Für
-    Trąbczyn verlangen sie das Urteil, mit dem das Vermögen Prusimskis konfisziert wurde; es war
-    in Toruń (Thorn) ergangen, und die Bitte um eine Abschrift wird in Poznań abgelehnt.
-  source_de: "Verfügungen und Bescheide (Verleihungsurkunden, 42, 30, 31, 43)"
-  refs: ["oe1bu14525/42", "oe1bu14525/30", "oe1bu14525/31", "oe1bu14525/43"]
+    Moravian Brethren from Bohemia look at the land, offered at 300 Thaler a Hufe, and go
+    home to fetch their fellow believers; in November Mennonites from West Prussia offer
+    to buy Zagórów and Trąbczyn entire and divide them among themselves.
+  sources:
+    - text: "letters 120 and 126"
+      url: /documents/oe1bu9454/120/
 
-- date: 1799
-  end: 1804
-  title: Separation from Marianne
+- date: "1804-08-30"
+  when: "August 1804"
+  era: hohenlohe
+  title: "Kamionna and Kolno are sold"
   note: >-
-    Hohenlohe-Ingelfingen's marriage to Marianne, née Countess von Hoym, breaks down. The
-    agreement settling their affairs (the "Transact") is not concluded until 1804.
-  kind: personal
-  source: "Seidel 2018, ch. 7.1"
-  title_de: Trennung von Marianne
-  note_de: >-
-    Die Ehe Hohenlohe-Ingelfingens mit Marianne, geb. Gräfin von Hoym, zerbricht. Der Vergleich,
-    der ihre Angelegenheiten regelt (der "Transact"), kommt erst 1804 zustande.
-  source_de: "Seidel 2018, Kap. 7.1"
+    The first large sale to pay debts: the two lordships go to a bank official from
+    Frankfurt an der Oder for 142,000 Thaler, and he means to divide the land and sell it
+    in parcels.
+  sources:
+    - text: "contracts 4 and 5 of the deeds"
+      url: /documents/oe1bu14526/5/
 
-- date: 1800-06-18
-  end: 1802
-  title: "Prusimski's daughter sues for the Brzyce estates"
-  note: >-
-    Michalina Prusimska, daughter of the former owner and still a minor, was suing
-    Hohenlohe-Ingelfingen before the Government at Poznań for the Brzyce estates, which she
-    claimed as her mother's property. On her complaint the King called in the files in June
-    1800 and ordered the case hurried. In November Hohenlohe-Ingelfingen asked for other
-    judges; the order giving the case to Warsaw reached Poznań after it had given judgment on
-    9 December 1800. In January 1802 she petitioned the King to hasten the appeal.
-  kind: estate
-  source: "the King's orders of June and July 1800, the Prince's petition, the Government's report, her petition of 1802"
-  title_de: Die Tochter Prusimskis klagt auf die Güter Brzyce
-  note_de: >-
-    Michalina Prusimska, die noch minderjährige Tochter des früheren Besitzers, klagte vor der
-    Regierung in Poznań (Posen) gegen Hohenlohe-Ingelfingen auf die Güter Brzyce, die sie als
-    mütterliches Vermögen beanspruchte. Auf ihre Beschwerde forderte der König im Juni 1800 die
-    Akten ein und befahl, die Sache zu beschleunigen. Im November bat Hohenlohe-Ingelfingen um
-    andere Richter; die Verfügung, die den Prozess nach Warschau gab, traf in Poznań ein, als
-    dort am 9. Dezember 1800 schon geurteilt war. Im Januar 1802 bat sie den König, die
-    Appellation zu beschleunigen.
-  source_de: "die Kabinettsordres vom Juni und Juli 1800, die Eingabe des Fürsten, der Bericht der Regierung, ihre Bittschrift von 1802"
-  refs: ["ihagrrep7cnr3709/2", "ihagrrep7cnr3709/4", "ihagrrep7cnr3709/5", "ihagrrep7cnr3709/12", "ihagrrep7cnr3709/15"]
-
-- date: 1804-04-02
-  title: "Settlers sought: Hussites and Mennonites"
-  note: >-
-    Moravian Brethren from Bohemia, whom the letters call Hussites, come to look at the estates'
-    land, offered at 300 Rthl a Hufe (a farm holding of about 30 Morgen), and go home to fetch
-    their fellow believers. In November Mennonites from West Prussia offer to buy Zagórów and
-    Trąbczyn entire and divide them among themselves.
-  kind: estate
-  source: "letters 120, 126, 146"
-  title_de: "Siedler werden gesucht: Hussiten und Mennoniten"
-  note_de: >-
-    Mährische Brüder aus Böhmen, die die Briefe Hussiten nennen, besehen das Land der Güter, das
-    zu 300 Rthl die Hufe (ein Bauernhof von etwa 30 Morgen) angeboten wird, und reisen heim, um
-    ihre Glaubensgenossen zu holen. Im November bieten Mennoniten aus Westpreußen an, Zagórów
-    und Trąbczyn im Ganzen zu kaufen und unter sich aufzuteilen.
-  source_de: "Briefe 120, 126, 146"
-  refs: ["oe1bu9454/120", "oe1bu9454/126", "oe1bu9454/146"]
-
-- date: 1804-04-24
-  title: "Triebenfeld's wife is buried"
-  note: >-
-    Triebenfeld sends a draft reply for approval and asks that someone else make the fair
-    copies, since his wife is being buried that day and he has gone with the children to his
-    brother-in-law's.
-  kind: personal
-  source: letter 124
-  title_de: Triebenfelds Frau wird beerdigt
-  note_de: >-
-    Triebenfeld schickt einen Antwortentwurf zur Genehmigung und bittet, die Reinschriften
-    jemand anderen machen zu lassen, da seine Frau an diesem Tag beerdigt wird und er sich mit
-    den Kindern zu seinem Schwager zurückgezogen hat.
-  source_de: Brief 124
-  refs: ["oe1bu9454/124"]
-
-- date: 1804-07-28
-  title: Pszczew is made over to its inhabitants
-  note: >-
-    Hohenlohe-Ingelfingen makes over the whole lordship of Pszczew, in hereditary lease and
-    sale, to the townspeople and six villages, for 180,000 Rthl and a yearly ground rent of
-    1,000 Rthl; 137,000 Rthl of the price is paid by the buyers taking over debts mortgaged on
-    the lordship. In 1805 the King refuses to allow it, because the nobility's estates in the
-    province would be diminished if lords could sell their land to their peasants, and because
-    of the forest. A royal approval follows in 1806.
-  kind: estate
-  source: "the contract in two copies, and the refusal (deeds, 18, 19, 24)"
-  title_de: Pszczew wird seinen Bewohnern überlassen
-  note_de: >-
-    Hohenlohe-Ingelfingen überlässt die ganze Herrschaft Pszczew in Erbpacht und Kauf den
-    Bürgern und sechs Dörfern, für 180.000 Rthl und einen jährlichen Grundzins von 1.000 Rthl;
-    137.000 Rthl des Preises zahlen die Käufer, indem sie auf der Herrschaft eingetragene
-    Schulden übernehmen. 1805 versagt der König die Genehmigung, weil der Grundbesitz des Adels
-    in der Provinz geschmälert würde, wenn Grundherren ihr Land an ihre Bauern verkaufen
-    könnten, und wegen des Forsts. 1806 folgt eine königliche Genehmigung.
-  source_de: "der Vertrag in zwei Abschriften und die Ablehnung (Urkunden, 18, 19, 24)"
-  refs: ["oe1bu14526/18", "oe1bu14526/19", "oe1bu14526/24"]
-
-- date: 1804-08-30
-  end: 1805-01
-  title: Kamionna and Kolno sold
-  note: >-
-    The first large sale of estate land to pay debts. Kamionna and Kolno go to George Conrad
-    Leixner, an official of the bank at Frankfurt an der Oder, for 142,000 Rthl, by a contract
-    of August 1804 and a second of January 1805. Leixner means to divide the land and sell it in
-    parcels.
-  kind: estate
-  source: "letters 135, 136; contracts 5 and 4 of the deeds"
-  title_de: Kamionna und Kolno werden verkauft
-  note_de: >-
-    Der erste größere Verkauf von Gutsland zur Schuldentilgung. Kamionna und Kolno gehen an
-    George Conrad Leixner, einen Beamten der Bank in Frankfurt an der Oder, für 142.000 Rthl,
-    durch einen Vertrag vom August 1804 und einen zweiten vom Januar 1805. Leixner will das Land
-    aufteilen und stückweise verkaufen.
-  source_de: "Briefe 135, 136; Verträge 5 und 4 der Urkunden"
-  refs: ["oe1bu14526/5", "oe1bu14526/4", "oe1bu9454/135", "oe1bu9454/136"]
-
-- date: 1805-01-26
+- date: "1805-01-28"
+  when: "28 January 1805"
+  era: hohenlohe
   title: "The Invalids' Fund lends on the estates"
   note: >-
-    Hohenlohe-Ingelfingen's debts grow faster than the estates' rents. Countess Schlabrendorff,
-    one of his creditors, will not wait past the new year for the 50,000 Rthl he owes her.
-    Through Köckritz the Invalids' Fund, the Prussian military pension fund, promises a loan of
-    150,000 Rthl, the first 50,000 against a mortgage on the estates, with Triebenfeld signing
-    personally for the debt. He signs the bond at Berlin on 28 January and pledges a fifth of the
-    250,000 Rthl that Hohenlohe-Ingelfingen owes him on Zagórów; in March the pledge is entered in
-    the mortgage book at Kalisz.
-  kind: estate
-  source: "letters 118b, 158; the Zagórów mortgage register (deeds of grant, 21); copies of the bond and of the mortgage certificate in the state treasury's file"
-  title_de: Die Invaliden-Casse leiht auf die Güter
-  note_de: >-
-    Hohenlohe-Ingelfingens Schulden wachsen schneller als die Einkünfte der Güter. Gräfin
-    Schlabrendorff, eine seiner Gläubigerinnen, will auf die 50.000 Rthl, die er ihr schuldet,
-    nicht über Neujahr hinaus warten. Über Köckritz sagt die Invaliden-Casse, die preußische
-    Militärversorgungskasse, ein Darlehen von 150.000 Rthl zu, die ersten 50.000 gegen eine
-    Hypothek auf die Güter, wobei Triebenfeld persönlich für die Schuld unterschreibt. Am
-    28. Januar unterzeichnet er in Berlin die Schuldverschreibung und verpfändet ein Fünftel der
-    250.000 Rthl, die Hohenlohe-Ingelfingen ihm auf Zagórów schuldet; im März wird die Verpfändung
-    in Kalisch ins Hypothekenbuch eingetragen.
-  source_de: "Briefe 118b, 158; das Hypothekenbuch von Zagórów (Verleihungsurkunden, 21); Abschriften der Schuldverschreibung und des Hypothekenscheins in der Akte der Staatsschatzverwaltung"
-  refs: ["oe1bu9454/118b", "oe1bu9454/158", "oe1bu14525/21", "iharep162nr295/1", "iharep162nr295/3"]
+    The debts grow faster than the rents; the Prussian military pension fund promises
+    150,000 Thaler against a mortgage on the estates, with Triebenfeld signing personally
+    for the debt — the signature that will follow him for the rest of his life.
+  sources:
+    - text: "letter 158"
+      url: /documents/oe1bu9454/158/
 
-- date: 1805-02-19
-  title: Triebenfeld receives the general power of attorney
+- date: "1805-02-19"
+  when: "19 February 1805"
+  era: hohenlohe
+  title: "Triebenfeld receives the general power of attorney"
   note: >-
-    Hohenlohe-Ingelfingen gives Triebenfeld full power to act for him in everything concerning
-    Zagórów, Witów and Trąbczyn. Every contract Triebenfeld signs from now on rests on this
-    power of attorney, and a certified copy of it is filed with each.
-  kind: estate
-  source: certified copies filed with the leases
-  title_de: Triebenfeld erhält die Generalvollmacht
-  note_de: >-
-    Hohenlohe-Ingelfingen gibt Triebenfeld Vollmacht, in allem, was Zagórów, Witów und Trąbczyn
-    betrifft, für ihn zu handeln. Jeder Vertrag, den Triebenfeld von nun an unterzeichnet,
-    beruht auf dieser Vollmacht, und jedem liegt eine beglaubigte Abschrift davon bei.
-  source_de: beglaubigte Abschriften bei den Erbpachtverträgen
-  refs: ["oe1bu14526/6", "app5371057/1", "app539680801/1"]
+    Full power to act for the Prince in everything concerning Zagórów, Witów and Trąbczyn;
+    every contract he signs from now on rests on it.
+  sources:
+    - text: "the certified copy filed with the leases"
+      url: /documents/app5371057/1/
 
-- date: 1805-04-06
-  title: 270 Hufen let to settlers
+- date: "1805-04-06"
+  when: "6 April 1805"
+  era: hohenlohe
+  title: "270 Hufen let to settlers"
   note: >-
-    Triebenfeld signs a preliminary agreement letting 270 Hufen at Trąbczyn, Łazy, Osiny,
-    Neudorff and Przybysław in hereditary lease to settlers named in it, at 300 Rthl a Hufe on
-    entry and 15 Rthl a Hufe a year in rent. Through the following spring the estates' court at
-    Mariantów records one lease after another on the same terms.
-  kind: estate
-  source: "contract 15 of the deeds; a court file of one such lease, 31 March 1806"
-  title_de: 270 Hufen an Siedler ausgetan
-  note_de: >-
-    Triebenfeld unterzeichnet eine Punktation, die 270 Hufen in Trąbczyn, Łazy, Osiny, Neudorff
-    und Przybysław an darin namentlich genannte Siedler in Erbpacht austut, zu 300 Rthl die Hufe
-    beim Antritt und 15 Rthl die Hufe jährlich an Zins. Bis ins folgende Frühjahr nimmt das
-    Gericht der Güter in Mariantów einen Vertrag nach dem anderen zu denselben Bedingungen auf.
-  source_de: Vertrag 15 der Urkunden; eine Gerichtsakte über eine solche Erbpacht vom 31. März 1806
-  refs: ["oe1bu14526/15", "app5371057/1"]
+    Triebenfeld lets 270 Hufen at Trąbczyn, Łazy, Osiny, Neudorff and Przybysław in
+    hereditary lease, at 300 Thaler a Hufe on entry and 15 a year in rent; through the
+    following spring the estates' court at Mariantów records one lease after another on
+    the same terms.
+  sources:
+    - text: "contract 15 of the deeds"
+      url: /documents/oe1bu14526/15/
 
-- date: 1805-09-18
-  title: Petition to take Oleśnica into court administration
+- date: "1806-01-28"
+  when: "28 January 1806"
+  era: hohenlohe
+  title: "The King consents to the parcelling"
   note: >-
-    Oleśnica had been let in February 1804 to three townsmen, who were to pay 20,000 Rthl on
-    taking it up. They paid half, then neither rent nor taxes, and sold off parts of the estate.
-    Triebenfeld asks for the estate to be taken out of their hands and run by an administrator
-    appointed by the court; the government at Kalisz refuses, and he petitions the King in
-    Hohenlohe-Ingelfingen's name.
-  kind: estate
-  source: "the petition, in the ministry's file"
-  title_de: "Bittschrift, Oleśnica unter gerichtliche Verwaltung zu stellen"
-  note_de: >-
-    Oleśnica war im Februar 1804 an drei Bürger verpachtet worden, die beim Antritt 20.000 Rthl
-    zahlen sollten. Sie zahlten die Hälfte, danach weder Pacht noch Abgaben, und verkauften
-    Teile des Gutes. Triebenfeld beantragt, ihnen das Gut zu nehmen und es von einem gerichtlich
-    bestellten Verwalter führen zu lassen; die Regierung in Kalisz lehnt ab, und er wendet sich
-    im Namen Hohenlohe-Ingelfingens an den König.
-  source_de: die Bittschrift in der Akte des Ministeriums
-  refs: ["ihagrrep7cnr3705/1"]
+    The chamber at Kalisz allows the demesne farms of both lordships to be divided into
+    holdings and the labour services turned into a money rent — keeping back part of
+    Trąbczyn and part of the forest, and requiring compensation for the subjects' rights
+    of pasture and wood.
+  sources:
+    - text: "the consent, in two copies"
+      url: /documents/oe1bu14526/8/
 
-- date: 1805-12-19
-  title: "The King confirms Hohenlohe-Ingelfingen's family entail"
-  note: >-
-    In his will of 7 October 1805 Hohenlohe-Ingelfingen ties his houses in Wrocław, his Silesian
-    estates and ironworks and the South Prussian lordships, Trąbczyn and Zagórów among them, to
-    his family: they are to pass whole from one heir to the next in a fixed order and may not be
-    sold or divided. If the male line ends, the South Prussian estates go to his daughter
-    Auguste. The King confirms the arrangement.
-  kind: personal
-  source: the royal charter
-  title_de: Der König bestätigt das Familienmajorat Hohenlohe-Ingelfingens
-  note_de: >-
-    In seinem Testament vom 7. Oktober 1805 bindet Hohenlohe-Ingelfingen seine Häuser in
-    Wrocław, seine schlesischen Güter und Hüttenwerke und die südpreußischen Herrschaften,
-    darunter Trąbczyn und Zagórów, an seine Familie: Sie sollen ungeteilt in fester Folge von
-    einem Erben auf den nächsten übergehen und dürfen weder verkauft noch geteilt werden.
-    Erlischt der Mannesstamm, fallen die südpreußischen Güter an seine Tochter Auguste. Der
-    König bestätigt diese Ordnung.
-  source_de: die königliche Urkunde
-  refs: ["oe1u199/1"]
-
-- date: 1806
-  end: 1808
-  title: House arrest at Öhringen
-  note: >-
-    After his surrender at Prenzlau, Hohenlohe-Ingelfingen is held as a French prisoner of war
-    in his own residence at Öhringen.
-  kind: personal
-  source: "Seidel 2018, Zeittafel"
-  title_de: Hausarrest in Öhringen
-  note_de: >-
-    Nach seiner Kapitulation bei Prenzlau wird Hohenlohe-Ingelfingen als französischer
-    Kriegsgefangener in seiner eigenen Residenz in Öhringen festgehalten.
-  source_de: "Seidel 2018, Zeittafel"
-
-- date: 1806-01-28
-  title: The King consents to the parcelling of Zagórów and Trąbczyn
-  note: >-
-    In the King's name the War and Domains Chamber at Kalisz, the provincial administration,
-    allows Hohenlohe-Ingelfingen to divide the demesne farms of both lordships into holdings, to
-    let Oleśnica and Szetlewek in hereditary lease, and to turn the labour services of all his
-    subjects into a fixed money rent. He keeps back part of Trąbczyn, the land at Mariantów and
-    a part of the forest. No peasant holding may lapse, and the subjects are to be compensated
-    for their rights of pasture and wood.
-  kind: estate
-  source: "two copies of the consent: one among the deeds, one made about 1930"
-  title_de: Der König genehmigt die Parzellierung von Zagórów und Trąbczyn
-  note_de: >-
-    Im Namen des Königs erlaubt die Kriegs- und Domänenkammer in Kalisch, die
-    Provinzialverwaltung, Hohenlohe-Ingelfingen, die Vorwerke beider Herrschaften in Stellen
-    aufzuteilen, Oleśnica und Szetlewek zu vererbpachten und die Dienste aller Untertanen in
-    einen festen Geldzins zu verwandeln. Er behält einen Teil von Trąbczyn, die Grundstücke in
-    Mariantów und einen Teil des Forstes zurück. Keine Bauernstelle darf eingehen, und die
-    Untertanen sind für ihre Hütungs- und Holzungsrechte zu entschädigen.
-  source_de: "zwei Abschriften des Konsenses: eine bei den Urkunden, eine um 1930 angefertigte"
-  refs: ["oe1bu14526/8", "app539680801/2"]
-
-- date: 1806-03-21
-  title: A hundred Hufen of the Drzewce forest let to eighteen settlers
-  note: >-
-    The estates' court at Mariantów engrosses a contract by which Triebenfeld lets 100 Hufen of
-    the forest of Drzewce, in the lordship of Zagórów, to eighteen named settlers in hereditary
-    lease. The land is still to be cleared, so they pay nothing on entry and no rent until
-    Christmas 1808; after that 30 Rthl a Hufe a year, 3,000 Rthl in all, half of which they may
-    redeem. Eleven of the eighteen sign with three crosses.
-  kind: estate
-  source: "a copy of the contract made about 1930, in the State Archive in Poznań"
-  title_de: Hundert Hufen des Waldes von Drzewce an achtzehn Siedler ausgetan
-  note_de: >-
-    Das Gericht der Güter in Mariantów fertigt einen Vertrag aus, mit dem Triebenfeld 100 Hufen
-    des Waldes von Drzewce in der Herrschaft Zagórów achtzehn namentlich genannten Siedlern in
-    Erbpacht überlässt. Das Land ist erst zu roden; sie zahlen deshalb kein Einkaufsgeld und bis
-    Weihnachten 1808 keinen Zins, danach 30 Rthl die Hufe jährlich, zusammen 3.000 Rthl, wovon
-    sie die Hälfte ablösen können. Elf der achtzehn unterzeichnen mit drei Kreuzen.
-  source_de: "eine um 1930 angefertigte Abschrift des Vertrags im Staatsarchiv Poznań"
-  refs: ["app539680801/3"]
-
-- date: 1806-03-31
-  title: "One lease followed into court: Christoph Erbet"
-  note: >-
-    The estates' court, sitting at Mariantów, records that Triebenfeld has let one Hufe of the
-    Trąbczyn forest in hereditary lease to Christoph Erbet of the Trąbczyn Hauland, the
-    settlement of colonists on cleared forest land, for 100 Rthl on entry and 30 a year, the
-    first three years free. In 1811 the estate official Hawich sends the record to the peace
-    court at Konin and asks it to make Erbet pay the costs of drawing up his contract, 9 Thaler
-    18 groschen, by distraint.
-  kind: estate
-  source: "the court record, in the State Archive in Poznań"
-  title_de: "Eine Erbpacht vor Gericht: Christoph Erbet"
-  note_de: >-
-    Das Gericht der Güter, das in Mariantów sitzt, verzeichnet, dass Triebenfeld eine Hufe des
-    Trąbczyner Forsts an Christoph Erbet aus dem Trąbczyner Hauland, der Kolonistensiedlung auf
-    gerodetem Waldland, in Erbpacht ausgetan hat, für 100 Rthl Einkaufsgeld und 30 jährlich, die
-    ersten drei Jahre frei. 1811 schickt der Gutsbeamte Hawich die Akte an das Friedensgericht
-    in Konin und beantragt, von Erbet die Kosten für die Ausfertigung seines Vertrags, 9 Taler
-    18 Groschen, im Wege der Exekution einzutreiben.
-  source_de: die Gerichtsakte im Staatsarchiv Poznań
-  refs: ["app5371057/1"]
-
-- date: 1806-04-25
+- date: "1806-04-25"
+  when: "April 1806"
+  era: hohenlohe
   title: "A plan to clear the debts with a royal loan"
   note: >-
-    Triebenfeld draws up a petition to the King. On a survey certified by the chamber at Kalisz,
-    Trąbczyn and Zagórów now yield 40,260 Rthl a year, and sixteen new villages with five
-    hundred families have been settled on them. Hohenlohe-Ingelfingen's debts come to 698,000
-    Rthl. He asks the King to lend him that sum in treasury notes, secured as the only mortgage
-    on the two lordships and paid off from their revenue, so that he is free of all his other
-    creditors.
-  kind: estate
-  source: letter 179a
-  title_de: Ein Plan, die Schulden mit einem königlichen Darlehen zu tilgen
-  note_de: >-
-    Triebenfeld entwirft eine Bittschrift an den König. Nach einem von der Kammer in Kalisz
-    beglaubigten Anschlag bringen Trąbczyn und Zagórów jetzt 40.260 Rthl jährlich, und sechzehn
-    neue Dörfer mit fünfhundert Familien sind auf ihnen angesiedelt. Hohenlohe-Ingelfingens
-    Schulden betragen 698.000 Rthl. Er bittet den König, ihm diese Summe in Tresorscheinen zu
-    leihen, gesichert als einzige Hypothek auf den beiden Herrschaften und aus ihren Einkünften
-    zu tilgen, damit er von allen übrigen Gläubigern frei wird.
-  source_de: Brief 179a
-  refs: ["oe1bu9454/179a"]
+    Trąbczyn and Zagórów now yield 40,260 Thaler a year, and sixteen new villages with
+    five hundred families are settled on them; the debts stand at 698,000 Thaler.
+    Triebenfeld asks the King to lend the sum in treasury notes against the two lordships
+    as the only mortgage.
+  sources:
+    - text: "letter 179a"
+      url: /documents/oe1bu9454/179a/
 
-- date: 1806-10-14
-  title: Jena and Auerstädt
+- date: "1806-10-14"
+  when: "14 October 1806"
+  era: hohenlohe
+  title: "Jena and Auerstädt; the surrender at Prenzlau"
   note: >-
-    The Prussian and Saxon armies are destroyed. Friedrich Ludwig commands the left wing and,
-    after the Duke of Brunswick's death, is briefly commander-in-chief.
-  kind: war
-  source: "Seidel 2018, Zeittafel"
-  title_de: Jena und Auerstädt
-  note_de: >-
-    Das preußische und das sächsische Heer werden vernichtet. Friedrich Ludwig befehligt den
-    linken Flügel und ist nach dem Tod des Herzogs von Braunschweig kurzzeitig Oberbefehlshaber.
-  source_de: "Seidel 2018, Zeittafel"
+    The Prussian armies are destroyed: Hohenlohe-Ingelfingen commands the left wing,
+    briefly succeeds the fallen Duke of Brunswick, and two weeks later surrenders his
+    corps and resigns all military offices. Triebenfeld writes the same day that malicious
+    rumours are already making the surrender look a million times worse than it was.
+  sources:
+    - text: "letter 26"
+      url: /documents/oe1bu9454/26/
+    - text: "Seidel 2018"
+      url: /literature/seidel2018/
 
-- date: 1806-10-28
-  title: Capitulation at Prenzlau
+- date: "1807-07"
+  when: "July 1807"
+  era: hohenlohe
+  title: "Tilsit: the Duchy of Warsaw"
   note: >-
-    Friedrich Ludwig surrenders with his army corps and resigns all military offices.
-    Triebenfeld's letter of the same day says that malicious rumours are already making the
-    surrender look a million times worse than it was.
-  kind: war
-  source: "Seidel 2018, Zeittafel; letter 26"
-  title_de: Kapitulation bei Prenzlau
-  note_de: >-
-    Friedrich Ludwig ergibt sich mit seinem Armeekorps und legt alle militärischen Ämter nieder.
-    Triebenfeld schreibt am selben Tag, boshafte Gerüchte ließen die Kapitulation schon jetzt
-    millionenmal schlimmer erscheinen, als sie war.
-  source_de: "Seidel 2018, Zeittafel; Brief 26"
-  refs: ["oe1bu9454/26"]
+    South Prussia becomes the Duchy of Warsaw under the King of Saxony, and
+    Hohenlohe-Ingelfingen's estates lie in a foreign state.
 
-- date: 1807-07
-  title: Peace of Tilsit; the Duchy of Warsaw
+- date: "1807-07-21"
+  when: "21 July 1807"
+  era: hohenlohe
+  title: "The estates are returned to Prusimski's daughter"
   note: >-
-    South Prussia becomes the Duchy of Warsaw under the King of Saxony. Hohenlohe-Ingelfingen's
-    estates now lie in a foreign state.
-  kind: political
-  source: "general history"
-  title_de: Friede von Tilsit; das Herzogtum Warschau
-  note_de: >-
-    Südpreußen wird zum Herzogtum Warschau unter dem König von Sachsen. Die Güter
-    Hohenlohe-Ingelfingens liegen nun in einem fremden Staat.
-  source_de: "allgemeine Geschichte"
+    Michalina Dąbska, born Prusimska, petitions the Governing Commission at Dresden, which
+    extends Napoleon's decree for Wybicki to her: the estates are to return to their true
+    owners — naming none, and saying nothing of the debts secured on them. In October a
+    judge takes Trąbczyn from Hohenlohe-Ingelfingen's officials, without any court's
+    judgment. He never gets it back.
+  sources:
+    - text: "the commission's papers"
+      url: /documents/agad11740273/2/
+    - text: "letter 28"
+      url: /documents/oe1bu9454/28/
 
-- date: 1807-07-21
-  title: "The Governing Commission returns the estates to Prusimski's daughter"
+- date: "1808-03-14"
+  when: "March 1808"
+  era: hohenlohe
+  title: "Triebenfeld under arrest"
   note: >-
-    Michalina Dąbska, born Prusimska, is at Dresden, where the provisional Polish government is
-    meeting Napoleon. She petitions the commission and the Emperor for her father's confiscated
-    estates and points to Napoleon's decree of 5 June, which gave Józef Wybicki his estates back.
-    On 21 July the commission extends that decree to her: the estates are to return to their
-    true owners. The resolution names no estate and says nothing of the debts
-    Hohenlohe-Ingelfingen has secured on them.
-  kind: estate
-  source: "the Governing Commission's papers from Dresden, 1 to 4, and its register, 2"
-  title_de: Die Regierungskommission gibt die Güter der Tochter Prusimskis zurück
-  note_de: >-
-    Michalina Dąbska, geborene Prusimska, ist in Dresden, wo die provisorische polnische
-    Regierung mit Napoleon zusammentrifft. Sie bittet die Kommission und den Kaiser um die
-    konfiszierten Güter ihres Vaters und beruft sich auf Napoleons Dekret vom 5. Juni, das
-    Józef Wybicki seine Güter zurückgab. Am 21. Juli dehnt die Kommission dieses Dekret auf
-    sie aus: Die Güter sollen an ihre wahren Eigentümer zurückfallen. Der Beschluss nennt
-    kein Gut und sagt nichts über die Schulden, die Hohenlohe-Ingelfingen darauf hat
-    eintragen lassen.
-  source_de: "die Dresdner Akten der Regierungskommission, 1 bis 4, und ihr Register, 2"
-  refs: ["agad11740273/2", "agad11740273/3", "agad11740273/1", "agad11740273/4", "agad1174016/2"]
+    Held in Berlin for the arrears of interest on the loan he had signed for personally,
+    arrested again in January 1809, he leaves the city in February to escape a third
+    judgment — and is robbed on the road of a trunk worth 800 Thaler.
+  sources:
+    - text: "letters 30, 42 and 45"
+      url: /documents/oe1bu9454/30/
 
-- date: 1807-10-05
-  title: "Trąbczyn is handed to Prusimski's daughter"
+- date: "1811-01-01"
+  when: "1 January 1811"
+  era: hohenlohe
+  title: "Thirty-one lawsuits"
   note: >-
-    On the order of the governing commission of the new Duchy, a judge of the appeal court takes
-    the Trąbczyn estates from Hohenlohe-Ingelfingen's officials and gives them to the agent of
-    Michalina Dąbska, born Prusimska. No court has ruled. Kamionna is taken in the same way.
-    Hohenlohe-Ingelfingen never gets them back.
-  kind: estate
-  source: "letters 28 and 27; the later petitions in the foreign ministry's file"
-  title_de: Trąbczyn wird der Tochter Prusimskis übergeben
-  note_de: >-
-    Auf Anordnung der regierenden Kommission des neuen Herzogtums nimmt ein Richter des
-    Appellationsgerichts die Trąbczyner Güter den Beamten Hohenlohe-Ingelfingens ab und übergibt
-    sie dem Bevollmächtigten der Michalina Dąbska, geborenen Prusimska. Ein Gericht hat nicht
-    entschieden. Kamionna wird auf dieselbe Weise genommen. Hohenlohe-Ingelfingen erhält sie nie
-    zurück.
-  source_de: Briefe 28 und 27; die späteren Eingaben in der Akte des Außenministeriums
-  refs: ["oe1bu9454/28", "oe1bu9454/27", "iiihamdaiiinr12765/4"]
+    From a peasant's hut at Świątniki, after serious illness, Triebenfeld reports that
+    nobody is paying: the colonists rely on edicts giving them six free years, thirty-one
+    suits are pending to make them, and taxes, interest and costs fall due faster than
+    anything comes in. The tribunal at Kalisz has declared it cannot set the commission's
+    order of 1807 aside.
+  sources:
+    - text: "letter 212"
+      url: /documents/oe1bu9454/212/
 
-- date: 1808-01-28
-  title: "The estates' court still issues papers"
+- date: "1811-08-15"
+  when: "15 August 1811"
+  era: hohenlohe
+  title: "How the handover of 1807 really came about"
   note: >-
-    Zagórów was not taken in 1807, and its court went on working in Hohenlohe-Ingelfingen's
-    name. Three months after Trąbczyn was seized, the court, now signing as the patrimonial
-    court of Zagórów under Hawich, issues official copies of two contracts made at Trąbczyn in
-    July 1806: the sale of a Hufe at Osiny to the farmer Blazy Kukulski, and the hereditary
-    lease of a Hufe and a half of cleared forest to Gottlieb Sarre of the Pyzdry Hauland. The
-    copies are made out at Alexandrien and at Pyzdry.
-  kind: estate
-  source: contracts 6 and 7 of the deeds
-  title_de: Das Gericht der Güter fertigt noch Urkunden aus
-  note_de: >-
-    Zagórów war 1807 nicht genommen worden, und sein Gericht arbeitete im Namen
-    Hohenlohe-Ingelfingens weiter. Drei Monate nach der Wegnahme Trąbczyns fertigt das Gericht,
-    das nun als Patrimonialgericht von Zagórów unter Hawich zeichnet, amtliche Abschriften
-    zweier Verträge aus, die im Juli 1806 in Trąbczyn geschlossen worden waren: den Verkauf
-    einer Hufe in Osiny an den Bauern Blazy Kukulski und die Erbpacht von anderthalb Hufen
-    gerodeten Forsts an Gottlieb Sarre aus dem Pyzdrer Hauland. Die Abschriften werden in
-    Alexandrien und in Pyzdry ausgefertigt.
-  source_de: Verträge 6 und 7 der Urkunden
-  refs: ["oe1bu14526/6", "oe1bu14526/7"]
+    Another of the officers granted estates in 1796 learns from the Saxon court the fact
+    the petitions needed: Michalina had petitioned Napoleon, he had merely passed her
+    petition on to the Polish commission, and the commission ordered the return — there
+    was no order from Napoleon himself.
+  sources:
+    - text: "letter 217"
+      url: /documents/oe1bu9454/217/
 
-- date: 1808-03-14
-  end: 1809
-  title: Triebenfeld arrested by French gendarmes
-  note: >-
-    As Hohenlohe-Ingelfingen's general agent, and because he had signed for the Invalids' Fund
-    loan himself, Triebenfeld is held under arrest in Berlin for its arrears of interest in
-    March 1808, and again in January 1809. In February 1809 he leaves Berlin to escape another
-    judgment, and in May he is robbed on the road of a trunk worth 800 Rthl.
-  kind: personal
-  source: "letters 30, 42, 45, 57"
-  title_de: Triebenfeld von französischen Gendarmen verhaftet
-  note_de: >-
-    Als Generalbevollmächtigter Hohenlohe-Ingelfingens, und weil er für das Darlehen der
-    Invaliden-Casse selbst unterschrieben hatte, wird Triebenfeld im März 1808 und erneut im
-    Januar 1809 in Berlin wegen der Zinsrückstände festgehalten. Im Februar 1809 verlässt er
-    Berlin, um einem weiteren Urteil zu entgehen, und im Mai wird ihm unterwegs ein Koffer im
-    Wert von 800 Rthl gestohlen.
-  source_de: "Briefe 30, 42, 45, 57"
-  refs: ["oe1bu9454/30", "oe1bu9454/42", "oe1bu9454/45", "oe1bu9454/57"]
-
-- date: 1809-03-07
-  title: The instructions from Konotop
-  note: >-
-    From Konotop, Triebenfeld sends the estate official Hawich powers of attorney to act for
-    Hohenlohe-Ingelfingen in the Duchy of Warsaw: above all, to sue to recover Trąbczyn from
-    Michalina Dąbska (Prusimska), to have the court administration put on the remaining estates
-    lifted, and to collect the arrears.
-  kind: estate
-  source: letters 48 and 302
-  title_de: Die Instruktionen von Konotop
-  note_de: >-
-    Aus Konotop schickt Triebenfeld dem Gutsbeamten Hawich Vollmachten, um im Herzogtum Warschau
-    für Hohenlohe-Ingelfingen zu handeln: vor allem auf die Rückgabe Trąbczyns durch Michalina
-    Dąbska (Prusimska) zu klagen, die gerichtliche Verwaltung der übrigen Güter aufheben zu lassen
-    und die Rückstände einzutreiben.
-  source_de: Briefe 48 und 302
-  refs: ["oe1bu9454/48", "oe1bu9454/302"]
-
-- date: 1811-01-01
-  title: Thirty-one lawsuits
-  note: >-
-    Writing from a peasant's hut at Świątniki after a serious illness, Triebenfeld reports that
-    nobody on the estates is paying Hohenlohe-Ingelfingen what they owe him. The German
-    colonists, who hold their farms in hereditary lease, pay none of their yearly rent, relying on
-    new edicts that give colonists six free years; the tenants of Oleśnica, Kopojno and Drzewce pay
-    no lease money. Thirty-one lawsuits are pending to make them pay. Meanwhile about 8,657
-    Reichsthaler in taxes, 7,500 Reichsthaler of interest to the Invalids' Fund and further interest
-    and costs fall due, and he doubts he will take in enough to cover them. The tribunal at Kalisz
-    has declared that it has no authority to set aside the commission's order of 1807.
-  kind: estate
-  source: letter 212; the petition of March 1815
-  title_de: Einunddreißig Prozesse
-  note_de: >-
-    Aus einer Bauernhütte in Świątniki schreibt Triebenfeld nach schwerer Krankheit, niemand auf
-    den Gütern zahle Hohenlohe-Ingelfingen, was er ihm schulde. Die deutschen Kolonisten, die ihre
-    Höfe in Erbpacht haben, zahlen keinen Jahreszins und berufen sich auf neue Edikte, die
-    Kolonisten sechs Freijahre gewähren; die Pächter von Oleśnica, Kopojno und Drzewce zahlen keine
-    Pacht. Einunddreißig Prozesse sind anhängig, um sie zur Zahlung zu zwingen. Zugleich sind etwa
-    8.657 Reichsthaler Steuern, 7.500 Reichsthaler Zinsen an die Invalidenkasse und weitere Zinsen
-    und Kosten fällig, und er bezweifelt, dass er genug einnimmt, um sie zu decken. Das Tribunal in
-    Kalisz hat sich für unzuständig erklärt, die Anordnung der Kommission von 1807 aufzuheben.
-  source_de: Brief 212; die Eingabe vom März 1815
-  refs: ["oe1bu9454/212", "iiihamdaiiinr12765/4"]
-
-- date: 1811-07
-  title: Rent remission and eviction proposed
-  note: >-
-    The colonists on the Zagórów estates, who hold their farms in hereditary lease, cannot pay
-    their yearly rent (the "interest" of their contracts). Triebenfeld proposes remitting a third
-    of it for the year as an act of princely grace, so that they pay sixteen groschen in every
-    Reichsthaler; otherwise, he writes, the people out of obstinacy will give nothing at all. In
-    the same weeks he puts the opposite course to Hohenlohe-Ingelfingen: if he means to keep the
-    estates, most of the colonists are to be removed by court judgments and their land turned back
-    into demesne farms worked for the estate.
-  kind: estate
-  source: "letters 215, 216"
-  title_de: Zinsnachlass und Vertreibung vorgeschlagen
-  note_de: >-
-    Die Kolonisten auf den Gütern von Zagórów, die ihre Höfe in Erbpacht haben, können ihren
-    Jahreszins nicht zahlen. Triebenfeld schlägt vor, ihnen ein Drittel davon für dieses Jahr als
-    fürstliche Gnade zu erlassen, sodass sie statt eines Reichsthalers sechzehn gute Groschen zahlen;
-    sonst, schreibt er, geben die Leute aus Halsstarrigkeit gar nichts. In denselben Wochen legt er
-    Hohenlohe-Ingelfingen den umgekehrten Weg vor: wolle er die Güter behalten, seien die Kolonisten
-    größtenteils durch gerichtliche Erkenntnisse zu entfernen und ihr Land wieder in Vorwerke zu
-    verwandeln.
-  source_de: "Briefe 215, 216"
-  refs: ["oe1bu9454/215", "oe1bu9454/216"]
-
-- date: 1811-07-30
-  title: Proceedings before the Prussian Kammergericht
-  note: >-
-    The Invalids' Fund asks the Kammergericht, the high court at Berlin, to make Triebenfeld
-    repay its loan of 50,000 Rthl, for which he had signed personally. The loan was secured by
-    Hohenlohe-Ingelfingen's mortgage bond for 250,000 Rthl on Zagórów, and 9,375 Rthl of
-    interest has been unpaid since 1807. On 1 August 1811 the court orders the 80,000 Rthl that
-    Princess von Sacken, the mother of Hohenlohe-Ingelfingen's wife, had left him in her will to
-    be held back for the Fund, and summons Triebenfeld to answer.
-  kind: estate
-  source: "letters 74a and 74d"
-  title_de: Verfahren vor dem preußischen Kammergericht
-  note_de: >-
-    Die Invaliden-Casse beantragt beim Kammergericht, dem obersten Gericht in Berlin,
-    Triebenfeld zur Rückzahlung ihres Darlehens von 50.000 Rthl anzuhalten, für das er
-    persönlich unterschrieben hatte. Es war durch Hohenlohe-Ingelfingens Schuldverschreibung
-    über 250.000 Rthl auf Zagórów gesichert, und seit 1807 sind 9.375 Rthl Zinsen rückständig.
-    Am 1. August 1811 lässt das Gericht die 80.000 Rthl, die die Fürstin von Sacken, die Mutter
-    von Hohenlohe-Ingelfingens Frau, ihm vermacht hatte, für die Casse mit Arrest belegen und
-    lädt Triebenfeld vor.
-  source_de: "Briefe 74a und 74d"
-  refs: ["oe1bu9454/74a", "oe1bu9454/74d"]
-
-- date: 1811-08-15
-  title: How Trąbczyn came to be handed over in 1807
-  note: >-
-    Colonel von Sanitz, another of the officers granted estates in 1796, who is trying to recover
-    his own, learns from the Saxon court how the handover of 1807 came about: Michalina Dąbska
-    (Prusimska) had petitioned Napoleon for the estates' return, he merely passed her petition on
-    to the Polish governing commission, and the commission ordered them given back to her. There
-    was no order from Napoleon himself. Sanitz sends word so that Hohenlohe-Ingelfingen can make
-    use of it.
-  kind: estate
-  source: letter 217
-  title_de: Wie es 1807 zur Übergabe Trąbczyns kam
-  note_de: >-
-    Oberst von Sanitz, ein anderer der 1796 beschenkten Offiziere, der seine eigenen Güter
-    zurückzuerlangen sucht, erfährt vom sächsischen Hof, wie es zur Übergabe von 1807 kam:
-    Michalina Dąbska (Prusimska) hatte Napoleon um die Rückgabe der Güter gebeten, er hatte ihre
-    Bittschrift nur an die polnische Regierungskommission weitergeleitet, und die Kommission ordnete
-    die Rückgabe an sie an. Einen Befehl Napoleons selbst gab es nicht. Sanitz gibt Nachricht, damit
-    Hohenlohe-Ingelfingen davon Gebrauch machen kann.
-  source_de: Brief 217
-  refs: ["oe1bu9454/217"]
-
-- date: 1812
+- date: "1812"
+  when: "1812"
+  era: hohenlohe
   title: "Napoleon's Russian campaign"
   note: >-
     The Grande Armée marches east through the very districts where the estates lie.
-  kind: war
-  source: general history
-  title_de: Napoleons Russlandfeldzug
-  note_de: >-
-    Die Grande Armée zieht ostwärts genau durch die Kreise, in denen die Güter liegen.
-  source_de: allgemeine Geschichte
 
-- date: 1813
-  title: The Wars of Liberation
+- date: "1814-09"
+  when: "September 1814"
+  era: hohenlohe
+  title: "Triebenfeld to Vienna"
   note: >-
-    Prussia turns against France. In June Triebenfeld writes to Hohenlohe-Ingelfingen from Nysa,
-    which gout had kept him from reaching sooner: on the way he had spent a night in the open in
-    pouring rain, sheltering behind some stones.
-  kind: war
-  source: letter 239
-  title_de: Die Befreiungskriege
-  note_de: >-
-    Preußen wendet sich gegen Frankreich. Im Juni schreibt Triebenfeld an Hohenlohe-Ingelfingen
-    aus Nysa (Neisse), das er wegen der Gicht nicht eher erreicht hatte: Unterwegs hatte er eine
-    Nacht bei strömendem Regen im Freien hinter ein paar Steinen zugebracht.
-  source_de: Brief 239
-  refs: ["oe1bu9454/239"]
+    Sent to petition for the estates' return while the Congress decides the map, he
+    arrives without money and reports what he hears of the negotiations; Hardenberg holds
+    back the Prince's letter to the Tsar until the Duchy's fate is settled.
+  sources:
+    - text: "letter 242"
+      url: /documents/oe1bu9454/242/
+    - text: "the foreign ministry's file"
+      url: /documents/iiihamdaiiinr12765/3/
 
-- date: 1814-05-14
-  title: "Hardenberg holds back Hohenlohe-Ingelfingen's letter to the Tsar"
+- date: "1815-01"
+  when: "January 1815"
+  era: hohenlohe
+  title: "Where the new frontier will run"
   note: >-
-    In Paris Triebenfeld hands the State Chancellor a letter from Hohenlohe-Ingelfingen to the
-    Russian Emperor about Trąbczyn and Kamionna. Hardenberg keeps it: nothing can be asked until
-    the fate of the Duchy of Warsaw is settled. The foreign ministry's file on the claim begins
-    here.
-  kind: political
-  source: "the foreign ministry's file, 3 and 1"
-  title_de: Hardenberg hält den Brief Hohenlohe-Ingelfingens an den Zaren zurück
-  note_de: >-
-    In Paris übergibt Triebenfeld dem Staatskanzler einen Brief Hohenlohe-Ingelfingens an den
-    russischen Kaiser wegen Trąbczyn und Kamionna. Hardenberg behält ihn: Bevor über das
-    Herzogtum Warschau entschieden sei, lasse sich nichts verlangen. Hier beginnt die Akte des
-    Außenministeriums über den Anspruch.
-  source_de: "die Akte des Außenministeriums, 3 und 1"
-  refs: ["iiihamdaiiinr12765/3", "iiihamdaiiinr12765/1"]
-
-- date: 1814-09
-  title: The Congress of Vienna opens
-  note: >-
-    Triebenfeld is sent to Vienna to petition for the return of the estates. He arrives in
-    October 1814 and stays into 1815, without money and begging Hohenlohe-Ingelfingen for enough
-    to live on, and reports what he hears of the negotiations among the powers.
-  kind: political
-  source: "letters 242, 243 onward"
-  title_de: Der Wiener Kongress wird eröffnet
-  note_de: >-
-    Triebenfeld wird nach Wien geschickt, um die Rückgabe der Güter zu betreiben. Er trifft im
-    Oktober 1814 ein und bleibt bis ins Jahr 1815, mittellos und Hohenlohe-Ingelfingen um Geld
-    zum Leben bittend, und berichtet, was er von den Verhandlungen der Mächte hört.
-  source_de: "Briefe 242, 243 ff."
-  refs: ["oe1bu9454/242", "oe1bu9454/243"]
-
-- date: 1814-11-05
-  title: Humboldt takes up the case
-  note: >-
-    Wilhelm von Humboldt acknowledges Triebenfeld's memorial and asks for copies of everything.
-    In December Hardenberg is reported to have promised to take the case up actively, calling
-    Hohenlohe-Ingelfingen the worst-treated of men.
-  kind: political
-  source: "letters 250, 262"
-  title_de: Humboldt nimmt sich der Sache an
-  note_de: >-
-    Wilhelm von Humboldt bestätigt Triebenfelds Denkschrift und erbittet Abschriften von allem.
-    Im Dezember soll Hardenberg versprochen haben, die Sache tätig zu betreiben; er nenne
-    Hohenlohe-Ingelfingen den am schlimmsten behandelten Menschen.
-  source_de: "Briefe 250, 262"
-  refs: ["oe1bu9454/250", "oe1bu9454/262"]
-
-- date: 1815-01
-  end: 1815-02-13
-  title: Where the new frontier will run
-  note: >-
-    The Congress has to decide where the new frontier between Prussia and the Kingdom of Poland
-    under the Russian Emperor will run. Russia presses for a line along the river Prosna that
-    would place Trąbczyn and Blizanów on its side, beyond the reach of any Prussian court. In
-    February 1815 Triebenfeld reports the matter settled against Hohenlohe-Ingelfingen: the
+    Russia presses for a line along the Prosna that would put Trąbczyn beyond the reach of
+    any Prussian court; in February Triebenfeld reports it settled against them: the
     district of Konin, where the estates lie, goes to the Kingdom of Poland.
-  kind: political
-  source: "letters 266, 271"
-  title_de: Wo die neue Grenze verlaufen soll
-  note_de: >-
-    Der Kongress muss entscheiden, wo die neue Grenze zwischen Preußen und dem Königreich Polen
-    unter dem russischen Kaiser verlaufen soll. Russland drängt auf eine Linie entlang der
-    Prosna, die Trąbczyn und Blizanów auf seine Seite brächte, außer Reichweite jedes
-    preußischen Gerichts. Im Februar 1815 meldet Triebenfeld, die Sache sei gegen
-    Hohenlohe-Ingelfingen entschieden: der Kreis Konin, in dem die Güter liegen, fällt an das
-    Königreich Polen.
-  source_de: "Briefe 266, 271"
-  refs: ["oe1bu9454/266", "oe1bu9454/271"]
+  sources:
+    - text: "letter 266"
+      url: /documents/oe1bu9454/266/
 
-- date: 1815-03
-  title: Napoleon returns from Elba
+- date: "1815-06-09"
+  when: "9 June 1815"
+  era: hohenlohe
+  title: "The Final Act of the Congress of Vienna"
   note: >-
-    The Congress's business is interrupted while the powers turn to the war against Napoleon,
-    and Hohenlohe-Ingelfingen's case waits with it.
-  kind: war
-  source: "letters 4, 286"
-  title_de: Napoleon kehrt von Elba zurück
-  note_de: >-
-    Die Arbeit des Kongresses wird unterbrochen, während sich die Mächte dem Krieg gegen
-    Napoleon zuwenden, und die Sache Hohenlohe-Ingelfingens wartet mit ihr.
-  source_de: "Briefe 4, 286"
-  refs: ["oe1bu9454/4", "oe1bu9454/286"]
+    The frontier runs by Słupca, the Warta and the Prosna; the estates around Trąbczyn and
+    Zagórów fall to the Kingdom of Poland under the Russian Emperor. In March Triebenfeld
+    had laid the whole case before Hardenberg — the grants, the seizure without judgment,
+    the tribunal's refusal — and asked for the estates with nine years' revenue.
+  sources:
+    - text: "letter 271"
+      url: /documents/oe1bu9454/271/
+    - text: "the petition of March 1815"
+      url: /documents/iiihamdaiiinr12765/4/
 
-- date: 1815-03-02
-  title: The petition of March 1815
+- date: "1815-11-02"
+  when: "2 November 1815"
+  era: hohenlohe
+  title: "Zerboni reports against the claim"
   note: >-
-    Triebenfeld sets out the whole case for Hardenberg: the grants of 1796 and 1797, the seizure
-    of 1807 by a commission without any court's judgment, and the tribunal's refusal to act. He
-    asks for the return of the Trąbczyn estates with nine years' revenue, 36,500 Rthl.
-  kind: political
-  source: "the foreign ministry's file, 4"
-  title_de: Die Eingabe vom März 1815
-  note_de: >-
-    Triebenfeld legt Hardenberg den ganzen Fall dar: die Verleihungen von 1796 und 1797, die
-    Besitznahme von 1807 durch eine Kommission ohne Urteil eines Gerichts und die Weigerung des
-    Tribunals. Er bittet um Rückgabe der Trąbczyner Güter mit neun Jahren Ertrag, 36.500 Rthl.
-  source_de: "die Akte des Außenministeriums, 4"
-  refs: ["iiihamdaiiinr12765/4"]
+    The Chief President at Poznań rejects the figures put forward, says Hohenlohe-Ingelfingen
+    let Trąbczyn run down and loaded it with debt, and advises that Prussia can do no more
+    than ask Russia to decide.
+  sources:
+    - text: "the report"
+      url: /documents/iiihamdaiiinr12765/14/
 
-- date: 1815-03-20
-  title: "Triebenfeld's daughter Charlotte writes"
-  note: >-
-    Charlotte von Triebenfeld writes to Hohenlohe-Ingelfingen from Wrocław for the third time,
-    unanswered, asking for her father's address: she does not know where he is.
-  kind: personal
-  source: letter 7
-  title_de: Triebenfelds Tochter Charlotte schreibt
-  note_de: >-
-    Charlotte von Triebenfeld schreibt Hohenlohe-Ingelfingen zum dritten Mal aus Wrocław, ohne
-    Antwort, und bittet um die Adresse ihres Vaters: sie weiß nicht, wo er ist.
-  source_de: Brief 7
-  refs: ["oe1bu9454/7"]
-
-- date: 1815-05-12
-  title: Hohenlohe-Ingelfingen asks for Sokolnik instead
-  note: >-
-    Trąbczyn will lie under Russian rule, and Hohenlohe-Ingelfingen counts it lost. He writes to
-    Baron vom Stein, the Tsar's adviser, in April and to Hardenberg in May, puts his loss at
-    more than 261,000 Rthl, and asks them to intercede with the Tsar for the small crown estate
-    of Sokolnik near Bolesławiec, worth 8,000 to 10,000 Rthl a year in rent, as compensation.
-  kind: estate
-  source: "Hohenlohe-Ingelfingen's two letters in the foreign ministry's file, 6 and 8"
-  title_de: Hohenlohe-Ingelfingen bittet stattdessen um Sokolnik
-  note_de: >-
-    Trąbczyn wird unter russischer Herrschaft liegen, und Hohenlohe-Ingelfingen gibt es
-    verloren. Er schreibt im April an den Freiherrn vom Stein, den Berater des Zaren, und im Mai
-    an Hardenberg, beziffert seinen Verlust auf über 261.000 Rthl und bittet sie, sich beim
-    Zaren dafür zu verwenden, dass er zur Entschädigung das kleine Amt Sokolnik bei Bolesławiec
-    erhalte, das 8.000 bis 10.000 Rthl Pacht im Jahr bringt.
-  source_de: "die beiden Briefe Hohenlohe-Ingelfingens in der Akte des Außenministeriums, 6 und 8"
-  refs: ["iiihamdaiiinr12765/6", "iiihamdaiiinr12765/8"]
-
-- date: 1815-06-09
-  title: Final Act of the Congress of Vienna
-  note: >-
-    The new frontier runs by Słupca, the Warta and the Prosna, as Triebenfeld reported in
-    February. The estates around Trąbczyn and Zagórów fall to the Kingdom of Poland under the
-    Russian Emperor.
-  kind: political
-  source: "general history; letter 271"
-  title_de: Schlussakte des Wiener Kongresses
-  note_de: >-
-    Die neue Grenze verläuft über Słupca, die Warthe und die Prosna, wie Triebenfeld im Februar
-    gemeldet hatte. Die Güter um Trąbczyn und Zagórów fallen an das Königreich Polen unter dem
-    russischen Kaiser.
-  source_de: "allgemeine Geschichte; Brief 271"
-  refs: ["oe1bu9454/271"]
-
-- date: 1815-11-02
-  title: Zerboni reports against the claim
-  note: >-
-    Asked by Hardenberg for an opinion, Joseph Zerboni di Sposetti, the Chief President at
-    Poznań, rejects the figures put forward for Hohenlohe-Ingelfingen, says he let Trąbczyn run
-    down and loaded it with debt, and advises that Prussia can do no more than ask Russia to
-    decide.
-  kind: estate
-  source: "the report, in the foreign ministry's file, 14"
-  title_de: Zerboni berichtet gegen den Anspruch
-  note_de: >-
-    Von Hardenberg um ein Gutachten gebeten, verwirft Joseph Zerboni di Sposetti, der
-    Oberpräsident in Poznań, die für Hohenlohe-Ingelfingen vorgelegten Zahlen, erklärt, dieser
-    habe Trąbczyn verfallen lassen und mit Schulden belastet, und rät, Preußen könne nicht mehr
-    tun, als Russland um eine Entscheidung zu bitten.
-  source_de: "der Bericht in der Akte des Außenministeriums, 14"
-  refs: ["iiihamdaiiinr12765/14"]
-
-- date: 1815-12
-  title: "Triebenfeld's daughter dies"
-  note: >-
-    Triebenfeld's daughter dies four days after giving birth. In the same weeks he hears that
-    Barbe has died, the court councillor in Hardenberg's chancery who had advised him in Vienna,
-    put his petitions forward and lent him money. Triebenfeld himself falls dangerously ill with
-    gout at Pszczew and has to be taken to Poznań for treatment.
-  kind: personal
-  source: letter 297
-  title_de: Triebenfelds Tochter stirbt
-  note_de: >-
-    Triebenfelds Tochter stirbt vier Tage nach der Entbindung. In denselben Wochen erfährt er
-    vom Tod Barbes, des Hofrats in Hardenbergs Kanzlei, der ihn in Wien beraten, seine Eingaben
-    vorgebracht und ihm Geld geliehen hatte. Triebenfeld selbst erkrankt in Pszczew schwer an der
-    Gicht und muss sich zur Behandlung nach Poznań bringen lassen.
-  source_de: Brief 297
-  refs: ["oe1bu9454/297"]
-
-- date: 1816-01-31
+- date: "1816-01-31"
+  when: "31 January 1816"
+  era: hohenlohe
   title: "Triebenfeld's last letter; he is dead by April"
   note: >-
-    The correspondence ends with a letter from Blizanów. A note written on 13 April 1816 in the
-    margin of Zerboni's report calls him the late von Triebenfeld. No document here records his
+    The correspondence ends with a letter from Blizanów. A note of 13 April in the margin
+    of Zerboni's report calls him the late von Triebenfeld; no document here records his
     death itself.
-  kind: personal
-  source: "letter 301; the margin of Zerboni's report"
-  title_de: Triebenfelds letzter Brief; im April ist er tot
-  note_de: >-
-    Die Korrespondenz endet mit einem Brief aus Blizanów. Ein Vermerk vom 13. April 1816 am Rand
-    von Zerbonis Bericht nennt ihn den verstorbenen von Triebenfeld. Seinen Tod selbst
-    verzeichnet kein Dokument hier.
-  source_de: Brief 301; der Rand von Zerbonis Bericht
-  refs: ["oe1bu9454/301", "iiihamdaiiinr12765/14"]
+  sources:
+    - text: "letter 301"
+      url: /documents/oe1bu9454/301/
 
-- date: 1816-04-20
-  title: "Prussia raises the claim at St Petersburg, without pressing it"
+- date: "1816-11-23"
+  when: "23 November 1816"
+  era: hohenlohe
+  title: "Russia refuses"
   note: >-
-    On Zerboni's advice the foreign ministry instructs its envoy, General von Schöler, to bring
-    Hohenlohe-Ingelfingen's wish to the Tsar's notice in general terms only, since compensation
-    would be a favour and not a right.
-  kind: political
-  source: "the foreign ministry's file, 15 and 17"
-  title_de: "Preußen bringt den Anspruch in St. Petersburg vor, ohne Nachdruck"
-  note_de: >-
-    Auf Zerbonis Rat weist das Außenministerium seinen Gesandten, General von Schöler, an, den
-    Wunsch Hohenlohe-Ingelfingens dem Zaren nur im Allgemeinen zur Kenntnis zu bringen, da eine
-    Entschädigung Gnade und kein Recht sei.
-  source_de: "die Akte des Außenministeriums, 15 und 17"
-  refs: ["iiihamdaiiinr12765/15", "iiihamdaiiinr12765/17"]
+    The Russian ministry answers the envoy's notes with a refusal, and Prussia sends
+    Hohenlohe-Ingelfingen a copy with its regrets — having been advised to raise the claim
+    only in general terms, since compensation would be a favour and not a right.
+  sources:
+    - text: "the file"
+      url: /documents/iiihamdaiiinr12765/25/
 
-- date: 1816-04-26
-  title: A creditor asks to be paid from any compensation
+- date: "1818-02-15"
+  when: "15 February 1818"
+  era: hohenlohe
+  title: "Friedrich Ludwig dies at Sławięcice"
   note: >-
-    The widow von Brehmer asks Hardenberg for the 5,000 Rthl her brother lent
-    Hohenlohe-Ingelfingen in 1803 on Szetlewek, of which neither capital nor interest has been
-    paid. A note on her petition holds that anything Russia grants should go to the creditors
-    registered on the estates.
-  kind: estate
-  source: "the foreign ministry's file, 19"
-  title_de: "Eine Gläubigerin bittet, aus einer Entschädigung bezahlt zu werden"
-  note_de: >-
-    Die Witwe von Brehmer bittet Hardenberg um die 5.000 Rthl, die ihr Bruder
-    Hohenlohe-Ingelfingen 1803 auf Szetlewek geliehen hat und von denen weder Kapital noch
-    Zinsen bezahlt sind. Ein Vermerk auf ihrer Bittschrift hält fest, dass alles, was Russland
-    gewährt, den auf den Gütern eingetragenen Gläubigern zustehe.
-  source_de: "die Akte des Außenministeriums, 19"
-  refs: ["iiihamdaiiinr12765/19"]
+    Two years after the last letter of the collection; his heirs take up the claim, bound
+    by the family entail that forbids them to sell or divide what is left of it.
+  sources:
+    - text: "Seidel 2018"
+      url: /literature/seidel2018/
 
-- date: 1816-11-23
-  title: Russia refuses
-  note: >-
-    Schöler reports from St Petersburg that the Russian ministry has answered his notes with a
-    refusal. The ministry sends Hohenlohe-Ingelfingen a copy in December, with its regrets.
-  kind: political
-  source: "the foreign ministry's file, 25 and 26"
-  title_de: Russland lehnt ab
-  note_de: >-
-    Schöler berichtet aus St. Petersburg, das russische Ministerium habe seine Noten mit einer
-    Ablehnung beantwortet. Das Ministerium sendet Hohenlohe-Ingelfingen im Dezember eine
-    Abschrift, mit seinem Bedauern.
-  source_de: "die Akte des Außenministeriums, 25 und 26"
-  refs: ["iiihamdaiiinr12765/25", "iiihamdaiiinr12765/26"]
-
-- date: 1818-02-15
-  title: Friedrich Ludwig dies at Sławięcice
-  note: >-
-    He dies at Sławięcice in Upper Silesia, two years after the last letter in this collection.
-    His heirs take up the claim.
-  kind: personal
-  source: "Seidel 2018, ch. 20.1"
-  title_de: Friedrich Ludwig stirbt in Sławięcice
-  note_de: >-
-    Er stirbt in Sławięcice in Oberschlesien, zwei Jahre nach dem letzten Brief dieser Sammlung.
-    Seine Erben nehmen den Anspruch auf.
-  source_de: "Seidel 2018, Kap. 20.1"
-
-- date: 1819-01-20
-  title: "Prusimski's daughter asks Prussia to pay the debts"
-  note: >-
-    Michalina Miączyńska, the daughter of the former owner Prusimski, has held the Trąbczyn
-    estates again since 1807, but the mortgages Hohenlohe-Ingelfingen raised on them are still
-    registered: 156,000 Reichsthaler by her count. Through the Russian envoy in Berlin she asks Prussia,
-    which confiscated the estates and gave them away, to pay these debts off. The Prussian
-    foreign ministry refuses on 11 May 1819.
-  kind: political
-  source: "the foreign ministry's file on Miączyńska's claim, 1 to 3"
-  title_de: Prusimskis Tochter verlangt von Preußen die Tilgung der Schulden
-  note_de: >-
-    Michalina Miączyńska, die Tochter des früheren Besitzers Prusimski, besitzt die Güter um
-    Trąbczyn seit 1807 wieder, doch die Hypotheken, die Hohenlohe-Ingelfingen darauf aufgenommen
-    hat, sind noch eingetragen: nach ihrer Rechnung 156.000 Taler. Über den russischen Gesandten
-    in Berlin verlangt sie von Preußen, das die Güter konfisziert und verschenkt hat, diese
-    Schulden zu tilgen. Das preußische Außenministerium lehnt am 11. Mai 1819 ab.
-  source_de: "die Akte des Außenministeriums über die Forderung der Miączyńska, 1 bis 3"
-  refs: ["iiihamdaiiinr12366/1", "iiihamdaiiinr12366/2", "iiihamdaiiinr12366/3"]
-
-- date: 1820-01-31
+- date: "1820-01-31"
+  when: "31 January 1820"
+  era: hohenlohe
   title: "The heirs' claim is refused"
   note: >-
-    After Hohenlohe-Ingelfingen's death his heirs have Duke Eugen of Württemberg recommend their
-    claim to the Russian government. The Russian envoy in Berlin answers that the matter was
-    decided in 1816 and the Tsar cannot act on the recommendation. The Prussian ministry takes
-    no further step.
-  kind: political
-  source: "the foreign ministry's file, 27 and 29"
-  title_de: Der Anspruch der Erben wird abgelehnt
-  note_de: >-
-    Nach dem Tod Hohenlohe-Ingelfingens lassen seine Erben ihren Anspruch durch Herzog Eugen von
-    Württemberg bei der russischen Regierung empfehlen. Der russische Gesandte in Berlin
-    antwortet, die Sache sei 1816 entschieden und der Zar könne der Empfehlung nicht folgen. Das
-    preußische Ministerium unternimmt nichts weiter.
-  source_de: "die Akte des Außenministeriums, 27 und 29"
-  refs: ["iiihamdaiiinr12765/27", "iiihamdaiiinr12765/29"]
+    Through Duke Eugen of Württemberg the heirs recommend their claim to the Russian
+    government; the answer is that the matter was decided in 1816 and the Tsar cannot act
+    on the recommendation.
+  sources:
+    - text: "the file"
+      url: /documents/iiihamdaiiinr12765/27/
 
-- date: 1820-11-09
-  title: "The Court of Appeal keeps the courts competent"
+# --- The Miączyńska restitution -------------------------------------------------
+
+- date: "1819-01-20"
+  when: "20 January 1819"
+  era: restitution
+  title: "Prusimski's daughter demands that Prussia pay the debts"
   note: >-
-    Hearing Miączyńska's objection of incompetence, the Court of Appeal of the Department of Posen
-    rejects it: a claim arising from a mortgage obligation is for the courts, all the more so since she had
-    herself brought the demand for cancellation before them. On the merits it annuls the judgment of the
-    Tribunal of Kalisz and orders the personal debtor, Prince Hohenlohe-Ingelfingen, summoned.
-  kind: estate
-  source: "the report of 28 October 1834 (1/185/0/1/169)"
-  refs: ["agad118501169/1"]
-  title_de: Das Appellationsgericht hält die Gerichte für zuständig
-  note_de: >-
-    Auf die Einrede der Unzuständigkeit, die Miączyńska erhebt, entscheidet das Appellationsgericht
-    des Departements Posen: eine aus einer Hypothekenverbindlichkeit entstandene Forderung gehöre vor die
-    Gerichte, zumal sie selbst die Klage auf Löschung vor sie gebracht habe. In der Sache selbst hebt es das
-    Urteil des Tribunals in Kalisz auf und ordnet an, den persönlichen Schuldner, Fürst
-    Hohenlohe-Ingelfingen, zu laden.
-  source_de: "der Bericht vom 28. Oktober 1834 (1/185/0/1/169)"
-- date: 1821-09-04
+    Michalina Miączyńska has held the estates again since 1807, but the mortgages
+    Hohenlohe-Ingelfingen raised on them still stand in the registers — 156,000 Thaler by
+    her count. Through the Russian envoy in Berlin she demands that Prussia, which
+    confiscated the estates and gave them away, pay them off; the ministry refuses in May.
+  sources:
+    - text: "the ministry's file on her claim"
+      url: /documents/iiihamdaiiinr12366/1/
+
+- date: "1820-11-09"
+  when: "9 November 1820"
+  era: restitution
+  title: "The Court of Appeal keeps the case before the courts"
+  note: >-
+    Rejecting her objection of incompetence, the Court of Appeal at Poznań holds that a
+    claim arising from a mortgage obligation belongs before the courts — and in the matter
+    itself annuls the Tribunal of Kalisz's judgment, ordering the personal debtor
+    summoned.
+  sources:
+    - text: "the report of 1834"
+      url: /documents/agad118501169/1/
+
+- date: "1821-09-04"
+  when: "4 September 1821"
+  era: restitution
   title: "The Tsar orders the judicial course not obstructed"
   note: >-
-    The Supreme decision of Emperor Alexander of 4 September 1821 declares that the course of the proceedings
-    in Weigel's affair against Miączyńska is not to be obstructed. It follows the Commission of
-    Justice's report of January, which saw only two ways of resolving the affair, the political and the
-    judicial, and left the decision to the civil courts where diplomacy failed.
-  kind: political
-  source: "the report of 28 October 1834 (1/185/0/1/169)"
-  refs: ["agad118501169/1"]
-  title_de: Der Zar gebietet, den Rechtsweg nicht zu hemmen
-  note_de: >-
-    Die oberste Entscheidung Kaiser Alexanders vom 4. September 1821 erklärt, daß das Verfahren in der
-    Sache Weigels gegen Miączyńska nicht gehemmt werden dürfe. Sie folgt dem Bericht der
-    Justizkommission vom Januar, der nur zwei Wege sah, den politischen und den gerichtlichen, und wo die
-    Diplomatie versagte, die Entscheidung den Zivilgerichten überließ.
-  source_de: "der Bericht vom 28. Oktober 1834 (1/185/0/1/169)"
-- date: 1826-07-17
-  title: "The Supreme Tribunal confirms the Kalisz judgment"
-  note: >-
-    By its definitive sentence of 15 and 17 July 1826 the Supreme Tribunal admits Miączyńska's recourse
-    and confirms the judgment that struck Weigel's claim from the registers. Its grounds: confiscation and
-    donation lasted only as long as the order that produced them, and the restitution was to reinstate the
-    owner in the fullness of his rights, not burden him with debts he had not contracted.
-  kind: estate
-  source: "the report of 28 October 1834 (1/185/0/1/169)"
-  refs: ["agad118501169/1"]
-  title_de: Das Oberste Gericht bestätigt das Kalischer Urteil
-  note_de: >-
-    Durch sein endgültiges Urteil vom 15. und 17. Juli 1826 läßt das Oberste Gericht den Rekurs
-    Miączyńskas zu und bestätigt das Urteil, das Weigels Forderung aus den Registern streichte. Seine
-    Gründe: Konfiskation und Schenkung dauerten nur, solange die Ordnung dauerte, die sie hervorbrachte, und
-    die Restitution sollte den Besitzer in die Fülle seiner Rechte zurücksetzen, nicht mit Schulden
-    belasten, die er nicht geschlossen hatte.
-  source_de: "der Bericht vom 28. Oktober 1834 (1/185/0/1/169)"
-- date: 1827-02-10
-  title: Prussia protests for a creditor of Hohenlohe-Ingelfingen
-  note: >-
-    The merchant Weigel of Wrocław holds a mortgage of 30,000 Reichsthaler that Hohenlohe-Ingelfingen
-    raised on Trąbczyn. The civil tribunal at Kalisz ordered it struck out in 1819, on the ground
-    that the return of the estates to Miączyńska cancelled the debts of the years between, and
-    the high tribunal at Warsaw confirmed this in 1826. The Prussian envoy at St Petersburg
-    asks the Russian foreign minister to have the judgment annulled. The file holds no answer.
-  kind: political
-  source: "the foreign ministry's file on Miączyńska's claim, 5"
-  title_de: Preußen protestiert für einen Gläubiger Hohenlohe-Ingelfingens
-  note_de: >-
-    Der Kaufmann Weigel in Wrocław (Breslau) besitzt eine Hypothek von 30.000 Talern, die
-    Hohenlohe-Ingelfingen auf Trąbczyn aufgenommen hat. Das Ziviltribunal in Kalisz (Kalisch)
-    ließ sie 1819 löschen, weil die Rückgabe der Güter an die Miączyńska die Schulden der
-    Zwischenzeit aufgehoben habe, und das Obertribunal in Warschau bestätigte dies 1826. Der
-    preußische Gesandte in St. Petersburg bittet den russischen Außenminister, das Urteil
-    aufheben zu lassen. Eine Antwort enthält die Akte nicht.
-  source_de: "die Akte des Außenministeriums über die Forderung der Miączyńska, 5"
-  refs: ["iiihamdaiiinr12366/5"]
+    The Supreme decision follows a report that saw only two ways of resolving the affair,
+    the political and the judicial, and left it to the civil courts where diplomacy
+    failed.
+  sources:
+    - text: "the report of 1834"
+      url: /documents/agad118501169/1/
 
-- date: 1827-07-30
-  title: A Polish court strikes out two more mortgages on Trąbczyn
+- date: "1826-07-17"
+  when: "July 1826"
+  era: restitution
+  title: "The Supreme Tribunal confirms: the restitution cancelled the debts"
   note: >-
-    At the suit of Miączyńska the civil tribunal at Kalisz orders the mortgages of the Lichnowski
-    brothers and of the widow of Franciszek Grotowski struck out of the register of Trąbczyn and
-    Szetlewek. Both were debts of Hohenlohe-Ingelfingen. The court holds that he possessed the
-    estates only while the confiscation stood, and that his debts fell with his title.
-  kind: estate
-  source: "the foreign ministry's file on Miączyńska's claim, 6"
-  title_de: Ein polnisches Gericht lässt zwei weitere Hypotheken auf Trąbczyn löschen
-  note_de: >-
-    Auf Klage der Miączyńska lässt das Ziviltribunal in Kalisz (Kalisch) die Hypotheken der
-    Brüder Lichnowski und der Witwe des Franciszek Grotowski aus dem Hypothekenbuch von Trąbczyn
-    und Szetlewek löschen. Beide waren Schulden Hohenlohe-Ingelfingens. Das Gericht nimmt an, er
-    habe die Güter nur besessen, solange die Konfiskation bestand, und seine Schulden seien mit
-    seinem Titel hinfällig geworden.
-  source_de: "die Akte des Außenministeriums über die Forderung der Miączyńska, 6"
-  refs: ["iiihamdaiiinr12366/6"]
+    Its definitive sentence admits Miączyńska's recourse and confirms the striking of the
+    mortgage from the registers: confiscation and donation lasted only as long as the
+    order that produced them, and the restitution was to reinstate the owner in the
+    fullness of his rights, not burden him with debts he had never contracted.
+  sources:
+    - text: "the report of 1834"
+      url: /documents/agad118501169/1/
 
-- date: 1829-10-04
-  title: "The Council of Administration authorises a conflict of jurisdiction"
+- date: "1827-02-10"
+  when: "10 February 1827"
+  era: restitution
+  title: "Prussia protests for its creditor"
   note: >-
-    After long debates the former Council of Administration, adopting Prince Lubecki's proposal, authorises by
-    its decision of 4 October 1829 the Commission of Finances and the Treasury to raise a conflict of
-    jurisdiction on the ground of the courts' incompetence in the Weigel affair.
-  kind: political
-  source: "the report of 28 October 1834 (1/185/0/1/169)"
-  refs: ["agad118501169/1"]
-  title_de: Der Verwaltungsrat ermächtigt zu einem Kompetenzkonflikt
-  note_de: >-
-    Nach langen Verhandlungen ermächtigt der alte Verwaltungsrat, den Antrag Fürst Lubeckis annehmend,
-    durch seinen Beschluß vom 4. Oktober 1829 die Finanz- und Schatzkommission, wegen der Unzuständigkeit
-    der Gerichte in der Sache Weigels einen Kompetenzkonflikt zu erheben.
-  source_de: "der Bericht vom 28. Oktober 1834 (1/185/0/1/169)"
-- date: 1830-02-20
-  title: The Polish government questions its courts' judgment against Weigel
-  note: >-
-    Baron Mohrenheim, who directs Grand Duke Constantine's diplomatic chancellery at Warsaw,
-    tells the Prussian consul general Schmidt that the Administrative Council has recognised
-    that the competence of the courts which struck out Weigel's mortgage is open to question,
-    because the case can be resolved only by diplomatic means. The Council has authorised the
-    finance commission to declare a conflict of jurisdiction. An undated note from him says
-    the council agreed unanimously that payment must be made.
-  kind: political
-  source: "the second volume of the foreign ministry's file on Miączyńska's claim, 2 and 4"
-  title_de: Die polnische Regierung stellt das Urteil ihrer Gerichte gegen Weigel in Frage
-  note_de: >-
-    Baron Mohrenheim, der in Warschau die diplomatische Kanzlei des Großfürsten Konstantin
-    leitet, teilt dem preußischen Generalkonsul Schmidt mit, der Administrationsrat habe
-    anerkannt, dass die Zuständigkeit der Gerichte, die Weigels Hypothek löschen ließen, in
-    Frage gestellt werden könne, weil der Fall nur auf diplomatischem Weg zu lösen sei. Der Rat
-    hat die Finanzkommission ermächtigt, einen Zuständigkeitskonflikt zu erklären. Ein
-    undatiertes Billett von ihm sagt, der Rat habe einstimmig anerkannt, dass gezahlt werden
-    müsse.
-  source_de: "der zweite Band der Akte des Außenministeriums über die Forderung der Miączyńska, 2 und 4"
-  refs: ["iiihamdaiiinr12367/2", "iiihamdaiiinr12367/4"]
+    The merchant Weigel of Wrocław held 30,000 Thaler of mortgages Hohenlohe-Ingelfingen
+    raised on Trąbczyn, struck out in 1819 and confirmed struck in 1826; the Prussian
+    envoy asks the Russian foreign minister to have the judgment annulled. The file holds
+    no answer.
+  sources:
+    - text: "the ministry's file on her claim"
+      url: /documents/iiihamdaiiinr12366/5/
 
-- date: 1830-07
-  title: "The Finance Commission's report reaches the Council of State"
+- date: "1829-10-04"
+  when: "4 October 1829"
+  era: restitution
+  title: "A conflict of jurisdiction is authorised"
   note: >-
-    By virtue of the authorisation the Commission of Finances and the Treasury lays before the Council of State
-    its report on the affair. Two arguments carry it: that the courts gave an ironical interpretation of the
-    restitution decree and infringed the Treaty of the State, and that they exceeded their powers by taking the
-    decree as the basis of a civil judgment.
-  kind: political
-  source: "the report of 28 October 1834 (1/185/0/1/169)"
-  refs: ["agad118501169/1"]
-  title_de: Der Bericht der Finanzkommission gelangt an den Staatsrat
-  note_de: >-
-    Vermöge der Ermächtigung legt die Finanz- und Schatzkommission dem Staatsrat ihren Bericht über
-    die Sache vor. Zwei Argumente tragen ihn: daß die Gerichte den Restitutionsbeschluß ironisch
-    ausgelegt und den Vertrag des Staates verletzt hätten, und daß sie ihre Grenzen überschritten
-    hätten, indem sie den Beschluß zur Grundlage eines bürgerlichen Urteils nahmen.
-  source_de: "der Bericht vom 28. Oktober 1834 (1/185/0/1/169)"
-- date: 1830-09-22
-  title: The Polish finance minister disputes the sum Weigel asks
-  note: >-
-    Weigel asks the Kingdom of Poland for 63,100 thalers: the 30,000 he lent
-    Hohenlohe-Ingelfingen on Trąbczyn, with interest and costs. The minister of finance, Prince
-    Lubecki, finds the sum excessive and has the estates valued, to compensate the loss really
-    suffered. Weigel answers from Wrocław that by the mortgage certificate and the court
-    valuation of 1803 his loan was fully covered. On 27 November Lubecki replies that land was
-    overvalued in 1803 and that he will wait for the new valuation.
-  kind: estate
-  source: "the second volume of the foreign ministry's file on Miączyńska's claim, 6 to 8"
-  title_de: Der polnische Finanzminister bestreitet die Summe, die Weigel verlangt
-  note_de: >-
-    Weigel verlangt vom Königreich Polen 63.100 Taler: die 30.000, die er Hohenlohe-Ingelfingen
-    auf Trąbczyn geliehen hat, mit Zinsen und Kosten. Der Finanzminister, Fürst Lubecki, hält
-    die Summe für überhöht und lässt die Güter schätzen, um den wirklich erlittenen Verlust zu
-    ersetzen. Weigel antwortet aus Wrocław (Breslau), nach dem Hypothekenschein und der
-    gerichtlichen Taxe von 1803 sei sein Darlehen voll gedeckt gewesen. Am 27. November
-    erwidert Lubecki, 1803 sei Land zu hoch geschätzt worden, und er warte die neue Schätzung
-    ab.
-  source_de: "der zweite Band der Akte des Außenministeriums über die Forderung der Miączyńska, 6 bis 8"
-  refs: ["iiihamdaiiinr12367/6", "iiihamdaiiinr12367/7", "iiihamdaiiinr12367/8"]
+    The Council of Administration adopts Prince Lubecki's proposal and authorises the
+    finance commission to raise a conflict of jurisdiction over the courts' competence —
+    while telling the Prussian consul that the Council had agreed unanimously that payment
+    must be made.
+  sources:
+    - text: "the report of 1834"
+      url: /documents/agad118501169/1/
 
-- date: 1832-03-20
-  title: Trąbczyn is to be valued again after the rising
+- date: "1830-09-22"
+  when: "22 September 1830"
+  era: restitution
+  title: "Lubecki disputes the sum Weigel asks"
   note: >-
-    After the Polish rising of 1830 and 1831 the Prussian consul general takes up Weigel's
-    claim again. The head of the finance commission at Warsaw reports that a commissioner of
-    the state domains, Drake, was charged on 29 February with valuing the Trąbczyn estates.
-    A week earlier the president of the provisional government, Engel, wrote that the
-    president of the Bank of Poland, Lubowidzki, had been charged with settling the claim.
-    The scans end here and do not show whether Weigel was paid.
-  kind: political
-  source: "the second volume of the foreign ministry's file on Miączyńska's claim, 9 to 11"
-  title_de: Trąbczyn soll nach dem Aufstand erneut geschätzt werden
-  note_de: >-
-    Nach dem polnischen Aufstand von 1830 und 1831 nimmt der preußische Generalkonsul Weigels
-    Forderung wieder auf. Der Leiter der Finanzkommission in Warschau berichtet, ein Kommissar
-    der Staatsdomänen, Drake, sei am 29. Februar mit der Schätzung der Güter von Trąbczyn
-    beauftragt worden. Eine Woche zuvor hatte der Präsident der Provisorischen Regierung,
-    Engel, geschrieben, der Präsident der Bank von Polen, Lubowidzki, sei mit der Regelung
-    der Forderung beauftragt. Hier enden die Aufnahmen; sie zeigen nicht, ob Weigel bezahlt
-    wurde.
-  source_de: "der zweite Band der Akte des Außenministeriums über die Forderung der Miączyńska, 9 bis 11"
-  refs: ["iiihamdaiiinr12367/9", "iiihamdaiiinr12367/10", "iiihamdaiiinr12367/11"]
+    Weigel asks the Kingdom of Poland for 63,100 Thaler, the loan with interest and costs;
+    the finance minister finds the sum excessive, has the estates valued to compensate the
+    loss really suffered, and answers that land was overvalued in 1803.
+  sources:
+    - text: "the second volume of the file"
+      url: /documents/iiihamdaiiinr12367/6/
 
-- date: 1834-10-28
-  title: "The Instruction Commission advises setting the conflict aside"
+- date: "1832-03-20"
+  when: "March 1832"
+  era: restitution
+  title: "Trąbczyn is to be valued again after the rising"
   note: >-
-    The Commission of Instruction of the Council of State reports on the conflict: no conflict of jurisdiction
-    existed or exists, the recourse is in substance an appeal in cassation, which the Council of State by its
-    organisation is not; the demand should be set aside as based on no legal principle. It hands in a draft
-    decree to that effect.
-  kind: political
-  source: "the report of 28 October 1834 (1/185/0/1/169)"
-  refs: ["agad118501169/1"]
-  title_de: Die Instruktionskommission rät, den Konflikt abzuweisen
-  note_de: >-
-    Die Instruktionskommission des Staatsrats berichtet über den Konflikt: ein Kompetenzkonflikt habe nicht
-    bestanden und bestehe nicht, der Rekurs sei in der Sache eine Kassationsbeschwerde, als deren Gericht der
-    Staatsrat nach seiner Organisation nicht gilt; das Begehren sei als auf keinem Rechtssatz beruhend
-    abzuweisen. Sie reicht einen entsprechenden Gesetzentwurf ein. Der Bericht liegt in der Sammlung.
-  source_de: "der Bericht vom 28. Oktober 1834 (1/185/0/1/169)"
-- date: 1860-10-19
-  title: The owner of Trąbczyn goes to court against the colonists over the forest
-  note: >-
-    Count Włodzimierz Miączyński, who now holds Trąbczyn, has been sued by the colonists of
-    his estate. He counterclaims before the Civil Tribunal at Kalisz and has 97 of them
-    summoned, from the Staro-Łazińska and Nowo-Łazińska colonies. He asks the court to hold
-    that the contract Hohenlohe-Ingelfingen made with fourteen colonists on 18 May 1805 does
-    not bind him, because the return of the estate in 1807 cancelled what Hohenlohe-Ingelfingen
-    had undertaken, and to allow pasture and the gathering of wood in his forest only to seven,
-    or at most fourteen, holdings. The paper is his summons; what the court decided is not included.
-  kind: estate
-  source: "the printed summons served on Karolina Fridenberg"
-  title_de: Der Besitzer von Trąbczyn klagt gegen die Kolonisten um den Wald
-  note_de: >-
-    Graf Włodzimierz Miączyński, dem Trąbczyn nun gehört, ist von den Kolonisten seines Gutes
-    verklagt worden. Er erhebt vor dem Zivilgericht in Kalisch Widerklage und lässt 97 von
-    ihnen laden, aus den Kolonien Staro-Łazińska und Nowo-Łazińska. Das Gericht soll
-    feststellen, dass der Vertrag, den Hohenlohe-Ingelfingen am 18. Mai 1805 mit vierzehn
-    Kolonisten schloss, ihn nicht bindet, weil die Rückgabe des Gutes 1807 aufgehoben habe,
-    was Hohenlohe-Ingelfingen eingegangen war, und Weide und Holzsammeln in seinem Wald nur
-    sieben, höchstens vierzehn Stellen gestatten. Das Schriftstück ist seine Vorladung; wie das Gericht entschied, ist nicht überliefert.
-  source_de: "die gedruckte Vorladung, die Karolina Fridenberg zugestellt wurde"
-  refs: ["app539680783/1"]
+    After the November Uprising the claim is taken up again: a commissioner of the state
+    domains is charged with valuing Trąbczyn, and the president of the Bank of Poland with
+    settling it. The scans end here, and do not show whether Weigel was ever paid.
+  sources:
+    - text: "the second volume of the file"
+      url: /documents/iiihamdaiiinr12367/9/
 
-- date: 1868-02-08
-  title: The colonists of Łazińsk are given their land
+- date: "1834-10-28"
+  when: "28 October 1834"
+  era: restitution
+  title: "The conflict is advised away"
   note: >-
-    Under the Russian reform of 1864 the land the peasants farmed became their own, and each
-    village was given a liquidation table. The Central Commission for Peasant Affairs confirms
-    that of the Łazińsk colony: 91 farmsteads, the school, the cemetery, the common land and the
-    roads, 1,691 Morgen 219 rods in all, and a liquidation capital of 10,055 roubles 70 kopecks
-    for the former owner. Its copy of 1869 leaves the settlers the right to graze their cattle in
-    the forest "Studzianka" and gather fallen wood there twice a week, and no other servitudes.
-    Albert Breyer copied the table in the 1930s from a copy dated at Słupca on 29 June 1868.
-  kind: estate
-  source: "the liquidation table of the Łazińsk colony and its copy of 1869; Breyer's copies"
-  title_de: Die Kolonisten von Łazińsk erhalten ihr Land
-  note_de: >-
-    Nach der russischen Reform von 1864 wurde das Land, das die Bauern bewirtschafteten, ihr
-    Eigentum, und jedes Dorf erhielt eine Liquidationstabelle. Die Zentrale Kommission für
-    Bauernangelegenheiten bestätigt die der Kolonie Łazińsk: 91 Höfe, die Schule, den Friedhof,
-    das Gemeindeland und die Wege, zusammen 1691 Morgen 219 Ruten, und ein Liquidationskapital
-    von 10.055 Rubel 70 Kopeken für den früheren Besitzer. Ihre Abschrift von 1869 lässt den
-    Siedlern das Recht, ihr Vieh im Wald „Studzianka“ zu weiden und dort zweimal in der Woche
-    Leseholz zu sammeln, und keine anderen Servitute. Albert Breyer schrieb die Tabelle in den
-    1930er Jahren nach einer Abschrift ab, datiert Słupca, 29. Juni 1868.
-  source_de: "die Liquidationstabelle der Kolonie Łazińsk und ihre Abschrift von 1869; Breyers Abschriften"
-  refs: ["apl399806603/1", "apl399806603/2", "app539680716/4", "app539680716/5"]
+    The Council of State's Instruction Commission reports that no conflict of jurisdiction
+    existed or exists: the recourse was in substance an appeal in cassation, which the
+    Council by its organisation is not, and the demand should be set aside as based on no
+    legal principle.
+  sources:
+    - text: "the report"
+      url: /documents/agad118501169/1/
 
-- date: 1894-10-12
-  title: The colonists give up their rights in the forest for land
+# --- The colonists' land and forest rights --------------------------------------
+
+- date: "1860-10-19"
+  when: "19 October 1860"
+  era: wlodzimierz
+  title: "The owner counterclaims against 97 colonists"
   note: >-
-    By a voluntary transaction of 14 June 1892, confirmed in April 1894, the colonists of
-    Łazińsk give up once and for all their pasture and wood-gathering in the forest "Studzianka"
-    to the owner of Trąbczyn, Countess Maria Wielopolska. In return they receive 393 Morgen
-    154 rods of manor land: 4 Morgen to most farmsteads, 6 to seven of them. The governorate
-    board for peasant affairs enters the transaction in the liquidation table.
-  kind: estate
-  source: "the certified copy of the inscription in the liquidation table"
-  title_de: Die Kolonisten geben ihre Rechte im Wald gegen Land auf
-  note_de: >-
-    Durch einen freiwilligen Vertrag vom 14. Juni 1892, im April 1894 bestätigt, geben die
-    Kolonisten von Łazińsk ihre Weide und ihr Holzsammeln im Wald „Studzianka“ ein für allemal
-    an die Besitzerin von Trąbczyn, Gräfin Maria Wielopolska, auf. Dafür erhalten sie 393 Morgen
-    154 Ruten herrschaftliches Land: 4 Morgen die meisten Höfe, 6 Morgen sieben von ihnen. Die
-    Gouvernementsbehörde für Bauernangelegenheiten trägt den Vertrag in die Liquidationstabelle
-    ein.
-  source_de: "die beglaubigte Abschrift der Eintragung in die Liquidationstabelle"
-  refs: ["apl399806603/4"]
+    Sued by the colonists over their rights in his forest, Count Włodzimierz Miączyński
+    summons 97 of them before the Civil Tribunal at Kalisz and asks it to hold that the
+    contract Hohenlohe-Ingelfingen made with fourteen colonists in 1805 does not bind him
+    — the return of the estate in 1807 cancelled what Hohenlohe-Ingelfingen had
+    undertaken. What the court decided is not in the papers.
+  sources:
+    - text: "the printed summons"
+      url: /documents/app539680783/1/
+
+- date: "1868-02-08"
+  when: "8 February 1868"
+  era: wlodzimierz
+  title: "The colonists of Łazińsk are given their land"
+  note: >-
+    Under the Russian reform of 1864, which made the peasants owners of the land they
+    farmed, the liquidation table confirmed for the colony lists its 91 farmsteads, the
+    school, the cemetery and the common land, and a liquidation capital of 10,055 roubles
+    for the former owner; its copy leaves the settlers pasture and fallen wood in the
+    forest "Studzianka", twice a week, and nothing else.
+  sources:
+    - text: "the liquidation table"
+      url: /documents/apl399806603/1/
+    - text: "its copy of 1869"
+      url: /documents/apl399806603/2/
+
+- date: "1894-10-12"
+  when: "12 October 1894"
+  era: wlodzimierz
+  title: "The forest rights are given up for land"
+  note: >-
+    By a voluntary transaction of 1892, confirmed in 1894, the colonists give up their
+    rights in "Studzianka" once and for all to the owner of Trąbczyn, Countess Maria
+    Wielopolska, for 393 Morgen of manor land — four Morgen to most farmsteads, six to
+    seven of them.
+  sources:
+    - text: "the inscription in the liquidation table"
+      url: /documents/apl399806603/4/
+
+# --- The twentieth century ------------------------------------------------------
+
+- date: "1911"
+  when: "about 1911"
+  era: twentieth-century
+  title: "Włodzimierow is parcelled out"
+  note: >-
+    The manor's remaining land, bought by a man named Jesse and called Włodzimierow, is
+    parcelled out, almost all of it to German settlers.
+  sources:
+    - text: "Breyer's second notebook"
+      url: /documents/app539680669/2/
+
+- date: "1935"
+  when: "1935"
+  era: twentieth-century
+  title: "Albert Breyer visits the German settlements"
+  note: >-
+    The Königsberg historian begins his tours of the German villages of the commune of
+    Trąbczyn, writing down what the settlers remember and counting their farms: Łazińsk's
+    farmers, 87 in 1840, are 146 by 1935.
+  sources:
+    - text: "his notebook"
+      url: /documents/app539680716/7/
+
+- date: "1936-07"
+  when: "July 1936"
+  era: twentieth-century
+  title: "Breyer in Łazińsk and Emilienheim"
+  note: >-
+    He records their land and their schools, who went to Volhynia, Russia, America or
+    Brazil, how they spoke and how they marked their graves — the last account of the
+    settlements before their world ended.
+  sources:
+    - text: "his notebooks"
+      url: /sources/app539680669/
+
+- date: "1940-04-01"
+  when: "1 April 1940"
+  era: twentieth-century
+  title: "The commune of Trąbczyn becomes the Amtsbezirk Drommin"
+  note: >-
+    The German occupation renames the rural commune — provisionally from November 1939,
+    confirmed on 18 May 1943 — and runs it from an Amtskommissar at Grabina.
+  sources:
+    - text: "Rolf Jehke, s.v. Amtsbezirk Drommin"
+      url: https://www.territorial.de/wart//konin/drommin.htm

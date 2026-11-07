@@ -19,8 +19,7 @@ en:
   brand: Traces in the Sand
   skip: Skip to content
   nav:
-    story: The story
-    eras: Eras
+    introduction: Introduction
     timeline: Timeline
     people: People
     places: Places
@@ -280,18 +279,13 @@ en:
   people_h1: People in the documents
   places_h1: Places of writing
   timeline_h1: Timeline
-  tl_era_note_medieval: >-
-    1173 to 1444. Trąbczyn and its neighbours in the medieval charters of Greater Poland: the Cistercian abbey of Ląd, which came to hold Wrąbczynek, Kopojno, Zagórów and the tithe of Trąbczyn, and the knights and heirs who held Trąbczyn itself.
-  tl_era_note_prusimski: >-
-    1589 to 1794. Trąbczyn under its Polish owners, the Trąmpczyński and then the Prusimski family, and their two centuries of quarrel with Łukom next door. It ends when Antoni Prusimski flees after the failed Kościuszko Uprising.
-  tl_era_note_hohenlohe: >-
-    1794 to 1807. Prussia confiscates the estates of the fugitive Prusimski, and the King gives them to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, who holds them until the Duchy of Warsaw takes them away.
-  tl_era_note_restitution: >-
-    From 1807. The estates go back to Prusimski's daughter. Hohenlohe-Ingelfingen's claim to them, and the claims of his creditors, are argued for another twenty-five years.
-  tl_era_note_wlodzimierz: >-
-    Michalina Miączyńska dies in 1851, and her son, Count Włodzimierz Miączyński, holds the estate until his death in 1879. In 1859 and 1860 he and its colonists go to law over their rights in his forest. After the reform of 1864 the colonists of Łazińsk are given their land in 1868; their rights in the manor forest are fixed in 1884 and exchanged for land in 1892.
-  tl_era_note_twentieth: >-
-    The manor has been parcelled out, and its former land holds German settlements of the commune of Trąbczyn. In 1935 and 1936 Albert Breyer writes down what their people remember.
+  timeline_standfirst: >-
+    Seven and a half centuries in the order they happened, told era by era:
+    what each age of the estate was, and the events in it that mattered to
+    Trąbczyn and Zagórów. Each era's papers are one link away.
+  tl_read_more: Read more about this era
+  tl_further: Further reading
+  tl_era_docs: Read the documents of this era
   sort: Sort
   sort_most_mentions: Most mentions
   sort_fewest_mentions: Fewest mentions
@@ -437,8 +431,7 @@ de:
   brand: Spuren im Sand
   skip: Zum Inhalt springen
   nav:
-    story: Die Geschichte
-    eras: Epochen
+    introduction: Einführung
     timeline: Zeitleiste
     people: Personen
     places: Orte
@@ -699,18 +692,13 @@ de:
   people_h1: Personen in den Dokumenten
   places_h1: Ausstellungsorte
   timeline_h1: Zeitleiste
-  tl_era_note_medieval: >-
-    1173 bis 1444. Trąbczyn und seine Nachbarn in den mittelalterlichen Urkunden Großpolens: das Zisterzienserkloster Ląd, das Wrąbczynek, Kopojno, Zagórów und den Zehnten von Trąbczyn erwarb, und die Ritter und Erben, die Trąbczyn selbst besaßen.
-  tl_era_note_prusimski: >-
-    1589 bis 1794. Trąbczyn unter seinen polnischen Besitzern, den Familien Trąmpczyński und dann Prusimski, und ihr zweihundertjähriger Streit mit dem benachbarten Łukom. Die Zeit endet, als Antoni Prusimski nach dem gescheiterten Kościuszko-Aufstand flieht.
-  tl_era_note_hohenlohe: >-
-    1794 bis 1807. Preußen zieht die Güter des geflohenen Prusimski ein, und der König schenkt sie Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, der sie besitzt, bis das Herzogtum Warschau sie ihm nimmt.
-  tl_era_note_restitution: >-
-    Ab 1807. Die Güter gehen an Prusimskis Tochter zurück. Um den Anspruch Hohenlohe-Ingelfingens und um die Forderungen seiner Gläubiger wird noch fünfundzwanzig Jahre gestritten.
-  tl_era_note_wlodzimierz: >-
-    Michalina Miączyńska stirbt 1851, und ihr Sohn, Graf Włodzimierz Miączyński, besitzt das Gut bis zu seinem Tod 1879. 1859 und 1860 streiten er und die Kolonisten des Gutes vor Gericht um ihre Rechte in seinem Wald. Nach der Reform von 1864 erhalten die Kolonisten von Łazińsk 1868 ihr Land; ihre Rechte im herrschaftlichen Wald werden 1884 festgesetzt und 1892 gegen Land getauscht.
-  tl_era_note_twentieth: >-
-    Der Gutshof ist parzelliert, und auf seinem früheren Land liegen deutsche Siedlungen der Gemeinde Trąbczyn. 1935 und 1936 schreibt Albert Breyer auf, woran sich ihre Bewohner erinnern.
+  timeline_standfirst: >-
+    Siebeneinhalb Jahrhunderte, Epoche für Epoche: was jede Zeit des Guts war,
+    und die Ereignisse darin, die für Trąbczyn und Zagórów zählten. Die
+    Dokumente jeder Epoche sind einen Klick entfernt.
+  tl_read_more: Mehr zu dieser Epoche
+  tl_further: Weiterführend
+  tl_era_docs: Die Dokumente dieser Epoche lesen
   sort: Sortieren
   sort_most_mentions: Meiste Nennungen
   sort_fewest_mentions: Wenigste Nennungen

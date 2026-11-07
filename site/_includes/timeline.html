@@ -1,155 +1,63 @@
 {% include urls.html %}
+{%- comment -%}
+  The Timeline page (2026-11-07: rebuilt — the eras and the timeline are one
+  page now, the editor's word: "the eras are introduced, and under each
+  there's a brief timeline covering the most relevant events from the era";
+  the Trąbczyn estate is the primary focus, Zagórów secondary). The old
+  per-year chart with its document-count bars and its skips between years is
+  gone. In the eras' editorial order (reference/eras.yml): the era's name, who
+  held the estate, one narrative paragraph, a Read more link to the era's own
+  page (where it exists — the flag comes from reference/eras.yml), the era's
+  events (era-events.html), and the standing link to the era's documents
+  (the browse filter reads ?era=). German: the intro paragraphs fall back to
+  the editor's blurb_de until the German pass, and the Read more link shows
+  only where a German era page exists (page_de).
+{%- endcomment -%}
 <div class="prose">
   <h1>{{ t.timeline_h1 }}</h1>
+  <p class="tl-standfirst">{{ t.timeline_standfirst }}</p>
 </div>
 
-{% assign maxc = 0 %}
-{% for y in site.data.stats.years %}{% if y.count > maxc %}{% assign maxc = y.count %}{% endif %}{% endfor %}
-
-{%- comment -%}
-  The edition runs from 1173 to 1936 (from 1589 before the Kodeks Dyplomatyczny Wielkopolski came in,
-  2026-10-16), but before 1794 and after 1834 only a few years have anything.
-  From 1794 to 1834 every year is a row; outside those years a year is a row only if it has documents
-  or an event, and a mark stands where years are passed over.
-{%- endcomment -%}
-{% assign evyears = ',' %}
-{% for e in site.data.timeline %}{% assign ey = e.date | slice: 0, 4 %}{% assign evyears = evyears | append: ey | append: ',' %}{% endfor %}
-{% assign prev = 0 %}
-
-<div class="timeline">
-  {% for year in (1173..1936) %}
-    {% assign ys = year | append: '' %}
-    {% assign yrec = site.data.stats.years | where: "year", ys | first %}
-    {% assign count = 0 %}
-    {% if yrec %}{% assign count = yrec.count %}{% endif %}
-    {% assign shown = true %}
-    {% assign thin = false %}
-    {% if year < 1794 or year > 1832 %}{% assign thin = true %}{% endif %}
-    {% if thin and count == 0 %}
-      {% assign key = ',' | append: ys | append: ',' %}
-      {% unless evyears contains key %}{% assign shown = false %}{% endunless %}
-    {% endif %}
-    {% if shown %}
-    {% assign step = year | minus: prev %}
-    {% if prev > 0 and step > 1 %}<div class="tl-skip" aria-hidden="true">&#8942;</div>{% endif %}
-    {% assign prev = year %}
-    {%- comment -%} A band where an era begins (the editor, 2026-10-07). The eras are those of reference/eras.yml;
-      the Prusimski years end and the Hohenlohe-Ingelfingen years begin with Prusimski's flight in 1794. {%- endcomment -%}
-    {% assign era_slug = '' %}
-    {% if year == 1173 %}{% assign era_slug = 'medieval' %}{% assign era_note = t.tl_era_note_medieval %}{% endif %}
-    {% if year == 1589 %}{% assign era_slug = 'prusimski-boundary' %}{% assign era_note = t.tl_era_note_prusimski %}{% endif %}
-    {% if year == 1794 %}{% assign era_slug = 'hohenlohe' %}{% assign era_note = t.tl_era_note_hohenlohe %}{% endif %}
-    {% if year == 1807 %}{% assign era_slug = 'restitution' %}{% assign era_note = t.tl_era_note_restitution %}{% endif %}
-    {%- comment -%} The eras of 2026-10-14 begin at the first year shown that has their documents; move the
-      band if an earlier document of the era is added. The liquidation was its own era until 2026-10-20. {%- endcomment -%}
-    {% if year == 1858 %}{% assign era_slug = 'wlodzimierz' %}{% assign era_note = t.tl_era_note_wlodzimierz %}{% endif %}
-    {% if year == 1935 %}{% assign era_slug = 'twentieth-century' %}{% assign era_note = t.tl_era_note_twentieth %}{% endif %}
-    {% if era_slug != '' %}
-      {% assign era = site.data.eras | where: "slug", era_slug | first %}
-      <div class="tl-era">
-        <h2>{% if lang == 'de' %}{{ era.label_de }}{% else %}{{ era.label_en }}{% endif %}</h2>
-        <p>{{ era_note }}</p>
-      </div>
-    {% endif %}
-
-    <div class="tl-year{% if count == 0 %} tl-quiet{% endif %}">
-      <div class="tl-label">
-        {% if count > 0 %}
-          <a href="{{ u_browse | relative_url }}?year={{ year }}">{{ year }}</a>
-        {% else %}
-          <span>{{ year }}</span>
-        {% endif %}
-      </div>
-
-      <div class="tl-bar" title="{{ count }} {% if count == 1 %}{{ t.doc_one }}{% else %}{{ t.doc_many }}{% endif %}">
-        {% if count > 0 %}
-          {% assign pct = count | times: 100 | divided_by: maxc %}
-          <span style="width:{{ pct }}%"></span>
-          <em>{{ count }}</em>
-        {% endif %}
-      </div>
-
-      <div class="tl-events">
-        {% for e in site.data.timeline %}
-          {% assign eyear = e.date | slice: 0, 4 %}
-          {% if eyear == ys %}
-            {% if lang == 'de' %}
-              {% assign e_title = e.title_de | default: e.title %}
-              {% assign e_note = e.note_de | default: e.note %}
-              {% assign e_src = e.source_de | default: e.source %}
-            {% else %}
-              {% assign e_title = e.title %}
-              {% assign e_note = e.note %}
-              {% assign e_src = e.source %}
-            {% endif %}
-            <div class="tl-event kind-{{ e.kind }}">
-              <h3>{{ e_title }}</h3>
-              <p>{{ e_note }}</p>
-              <p class="tl-src">{{ e.date }}{% if e.end %}-{{ e.end }}{% endif %} &middot; {{ e_src }}</p>
-              {%- comment -%}
-                The documents the event rests on, named by holding and number.
-                A ref that names an item of the newspapers (a bare slug, no
-                "/number") links the item's page instead
-                (docs/NEWSPAPERS_PLAN.md).
-              {%- endcomment -%}
-              {% if e.refs %}
-              <p class="tl-src tl-refs">
-                {%- for r in e.refs -%}
-                  {%- assign np_item = site.data.newspapers | where: "slug", r | first -%}
-                  {%- if np_item -%}
-                  <a href="{{ u_np | append: np_item.slug | append: '/' | relative_url }}">{{ np_item.ref }}</a>{% unless forloop.last %} &middot; {% endunless %}
-                  {%- else -%}
-                  {%- assign rp = r | split: '/' -%}
-                  {%- assign ru = site.data.units | where: "slug", rp[0] | first -%}
-                  <a href="{{ '/documents/' | append: r | append: '/' | relative_url }}">{{ ru.ref }}, {{ rp[1] }}</a>{% unless forloop.last %} &middot; {% endunless %}
-                  {%- endif -%}
-                {%- endfor -%}
-              </p>
-              {% endif %}
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
+<div class="eras-tl">
+  {% for e in site.data.eras %}
+  <section class="era-block" id="{{ e.slug }}">
+    <h2>{% if lang == 'de' %}{{ e.label_de }}{% else %}{{ e.label_en }}{% endif %}</h2>
+    {%- assign own = e.ownership_en -%}
+    {%- if lang == 'de' and e.ownership_de != '' -%}{%- assign own = e.ownership_de -%}{%- endif -%}
+    {%- if own %}<p class="era-held">{{ own }}</p>{% endif -%}
+    {%- assign intro = e.intro_en -%}
+    {%- if lang == 'de' -%}
+      {%- assign intro = e.intro_de -%}
+      {%- unless intro %}{%- assign intro = e.blurb_de -%}{%- endunless -%}
+    {%- endif -%}
+    {%- unless intro %}{%- assign intro = e.blurb_en -%}{%- endunless -%}
+    {%- if intro %}<p class="era-intro">{{ intro }}</p>{% endif -%}
+    {%- assign has_page = e.page_en -%}
+    {%- if lang == 'de' %}{%- assign has_page = e.page_de -%}{%- endif -%}
+    {%- if has_page %}
+    <p class="era-more"><a href="{% if lang == 'de' %}/de/epochen/{{ e.slug }}/{% else %}/eras/{{ e.slug }}/{% endif %}">{{ t.tl_read_more }}</a></p>
+    {%- endif %}
+    {% include era-events.html era=e.slug %}
+    {%- if e.count > 0 %}
+    <p class="era-docs"><a href="{{ u_browse | relative_url }}?era={{ e.slug }}">{{ t.tl_era_docs }}</a></p>
+    {%- endif %}
+  </section>
   {% endfor %}
 </div>
 
 <style>
-.timeline { max-width: 68rem; margin: 2rem 0 3rem; }
-.tl-year {
-  display: grid; grid-template-columns: 4rem minmax(6rem, 14rem) minmax(0, 1fr);
-  gap: 1rem; align-items: start;
-  padding: .55rem 0; border-top: 1px solid var(--rule);
-}
-.tl-quiet { opacity: .62; }
-.tl-era { margin: 1.8rem 0 .3rem; padding: .7rem 1rem; background: var(--paper-2); border-left: 4px solid var(--accent); border-radius: 2px; }
-.tl-era:first-child { margin-top: 0; }
-.tl-era h2 { margin: 0; font-size: 1.1rem; }
-.tl-era p { margin: .25rem 0 0; font-size: .9rem; color: var(--ink-soft); max-width: 46rem; }
-.tl-skip { text-align: left; padding: .1rem 0 .1rem 1.2rem; color: var(--ink-faint); border-top: 1px solid var(--rule); font-size: 1rem; line-height: 1.2; }
-.tl-label { font-family: var(--sans); font-weight: 600; font-size: .9rem; padding-top: .1rem; }
-.tl-label a { text-decoration: none; }
-.tl-label a:hover { text-decoration: underline; }
-.tl-bar { position: relative; height: 1.15rem; background: var(--paper-2); border-radius: 2px; margin-top: .1rem; }
-.tl-bar span { position: absolute; inset: 0 auto 0 0; background: var(--accent); opacity: .34; border-radius: 2px; }
-.tl-bar em {
-  position: relative; font-style: normal; font-family: var(--sans);
-  font-size: .7rem; color: var(--ink-soft); padding-left: .4rem; line-height: 1.15rem;
-}
-.tl-events { display: flex; flex-direction: column; gap: .55rem; }
-.tl-event { border-left: 3px solid var(--rule); padding: .1rem 0 .1rem .8rem; }
-.tl-event h3 { margin: 0; font-size: .95rem; }
-.tl-event p { margin: .2rem 0 0; font-size: .87rem; color: var(--ink-soft); max-width: 34rem; }
-.tl-event .tl-src { font-family: var(--sans); font-size: .7rem; color: var(--ink-faint); }
-.tl-event .tl-refs { margin-top: .1rem; }
-.tl-event .tl-refs a { color: inherit; }
-.kind-war { border-left-color: #a8402c; }
-.kind-political { border-left-color: #46618a; }
-.kind-estate { border-left-color: #7a6220; }
-.kind-personal { border-left-color: #5c6b4a; }
-@media (max-width: 44rem) {
-  .tl-year { grid-template-columns: 3.2rem minmax(0, 1fr); }
-  .tl-events { grid-column: 1 / -1; }
-}
+.eras-tl { max-width: var(--measure); }
+.era-block { border-top: 2px solid var(--rule); padding: 1.6rem 0 1.8rem; }
+.era-block h2 { margin: 0; font-size: 1.35rem; }
+.era-held { margin: .5rem 0 0; font-family: var(--sans); font-size: .9rem; color: var(--ink-soft); }
+.era-intro { margin: .8rem 0 0; }
+.era-more, .era-docs { font-family: var(--sans); font-size: .9rem; margin: .8rem 0 0; }
+.tl-events { margin: 1.2rem 0 0; padding-left: 1.2rem; }
+.tl-events li { margin: 0 0 1rem; }
+.tl-events li:last-child { margin-bottom: 0; }
+.tl-when { margin: 0; font-family: var(--sans); font-size: .82rem; color: var(--ink-faint); }
+.tl-head { margin: .1rem 0 0; font-weight: 600; }
+.tl-note { margin: .15rem 0 0; }
+.tl-src { margin: .3rem 0 0; font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); }
+.tl-standfirst { max-width: var(--measure); }
 </style>
