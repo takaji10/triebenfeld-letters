@@ -66,6 +66,23 @@ code { font-family: var(--mono); font-size: 0.9em; }
 }
 .skip:focus { left: .5rem; top: .5rem; z-index: 10; }
 
+/* ---------------------------------------------------------- timeline
+   The events of the Timeline and of the era pages (2026-11-07; the styling
+   is the old timeline's, restored at the editor's word: the entries smaller
+   than the surrounding text, the kind giving the entry's left border its
+   colour). */
+
+.tl-events { display: flex; flex-direction: column; gap: .55rem; margin: 1rem 0 0; }
+.tl-event { border-left: 3px solid var(--rule); padding: .1rem 0 .1rem .8rem; }
+.tl-event h3 { margin: 0; font-size: .95rem; }
+.tl-event p { margin: .2rem 0 0; font-size: .87rem; color: var(--ink-soft); max-width: 46rem; }
+.tl-event .tl-src { font-family: var(--sans); font-size: .7rem; color: var(--ink-faint); }
+.tl-event .tl-src a { color: inherit; }
+.kind-war { border-left-color: #a8402c; }
+.kind-political { border-left-color: #46618a; }
+.kind-estate { border-left-color: #7a6220; }
+.kind-personal { border-left-color: #5c6b4a; }
+
 /* ---------------------------------------------------------- chrome */
 
 .site-head {

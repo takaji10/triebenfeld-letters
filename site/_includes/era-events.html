@@ -1,34 +1,27 @@
 {% include urls.html %}
 {%- comment -%}
-  The events of ONE era, as a compact list (2026-11-07: the timeline rebuilt —
-  the eras are introduced and each carries its events; no document counts, no
-  per-year bars). Include with era=<slug>; used by the Timeline page for every
-  era and by each era's own page at the foot. The events are those of
-  site/_data/timeline.yml whose `era` matches — the assignment is editorial,
-  like the documents', because the eras' spans overlap (the insurgency years
-  sit inside the Hohenlohe ones). Sorted by `date`, a zero-padded ISO-ish
-  string whose plain-text order is chronological order; `when` is the display
-  form. Each event: the date, the title, one or two sentences, and one or two
-  sources for further reading, linked where the edition has the work. German:
-  an event without _de fields falls back to the English one (the convention of
-  the old timeline), so a new event can be added in English alone.
+  The events of ONE era, in the styling of the old timeline (2026-11-07,
+  restored at the editor's word: entries smaller than the surrounding text,
+  the kind giving the left border its colour, the date and the sources on one
+  small line under the note). Include with era=<slug>; used by the Timeline
+  page for every era and by each era's page at the foot. The events are those
+  of site/_data/timeline.yml whose `era` matches — the assignment is
+  editorial, like the documents', because the eras' spans overlap. The styles
+  live in style.css (.tl-events, .tl-event, .kind-*). German: an event
+  without _de fields falls back to the English one, so a new event can be
+  added in English alone and translated later.
 {%- endcomment -%}
 {%- assign evs = site.data.timeline | where: 'era', include.era | sort: 'date' -%}
 {%- if evs.size > 0 -%}
-<ol class="tl-events">
+<div class="tl-events">
   {%- for ev in evs -%}
-  <li>
-    <p class="tl-when">{% if lang == 'de' and ev.when_de %}{{ ev.when_de }}{% else %}{{ ev.when | default: ev.date }}{% endif %}</p>
-    <p class="tl-head">{% if lang == 'de' and ev.title_de %}{{ ev.title_de }}{% else %}{{ ev.title }}{% endif %}</p>
+  <div class="tl-event kind-{{ ev.kind }}">
+    <h3>{% if lang == 'de' and ev.title_de %}{{ ev.title_de }}{% else %}{{ ev.title }}{% endif %}</h3>
     {%- assign ev_note = ev.note -%}
     {%- if lang == 'de' and ev.note_de %}{%- assign ev_note = ev.note_de -%}{%- endif -%}
-    {%- if ev_note %}<p class="tl-note">{{ ev_note }}</p>{% endif -%}
-    {%- if ev.sources %}
-    <p class="tl-src">{{ t.tl_further }}:
-      {%- for s in ev.sources %}{% if s.url %} <a href="{{ s.url | relative_url }}">{{ s.text }}</a>{% else %} {{ s.text }}{% endif %}{% unless forloop.last %} ·{% endunless %}{% endfor -%}
-    </p>
-    {%- endif -%}
-  </li>
+    {%- if ev_note %}<p>{{ ev_note }}</p>{% endif -%}
+    <p class="tl-src">{% if lang == 'de' and ev.when_de %}{{ ev.when_de }}{% else %}{{ ev.when | default: ev.date }}{% endif %}{% if ev.sources %} &middot; {% for s in ev.sources %}{% if s.url %}<a href="{{ s.url | relative_url }}">{{ s.text }}</a>{% else %}{{ s.text }}{% endif %}{% unless forloop.last %} &middot; {% endunless %}{% endfor %}{% endif %}</p>
+  </div>
   {%- endfor -%}
-</ol>
+</div>
 {%- endif -%}
