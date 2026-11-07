@@ -932,3 +932,43 @@ Reichstaler); TABELA III (p. 62) = a garbled table WITH an unlinked
 note apparatus (notes 1-4 visible: chałupnicy1, '2 Karczmarze i
 młynarze.', '3 nauczyciel, 4 lektorów (Vorleser)'); p. 1's odd note
 4/5 texts (Patrz wykaz skrótów @Maas4? Tamże @Schulz5?).
+
+## The rotated top-bands (the annex's page-top furniture) - DISCOVERY
+
+The annex table pages are PORTRAIT pages with the table printed
+SIDEWAYS (Querdruck); the scans are landscape, so each page's top
+band (running head + folio + TABELA title + the column header + the
+table's notes) sits ROTATED in the scan's right margin (x5290-5936;
+rotate -90 to read). The first OCR never read these bands - the
+transcription's annex section had NO running heads, NO table titles,
+NO 'ciag dalszy' markers and was missing several NOTES.
+
+Band inventory (all 21 sheets read; folios verified = our labels):
+- EVERY page: running head 'Osady tzw. "oledrow" w dawnem
+  wojewodztwie poznanskim' + the folio (= label(scan) - all 21
+  verified by eye: 124-144, incl. 129 AND 130 on the spread).
+- p. 124: TABELA VI + the a-table's title + the column header WITH
+  the asterisk: 'L. dymow wg Tp. 89 lub 90*' (the '*' now added to
+  our markdown header).
+- p. 125: header + NOTES 1-3 (the 'Razem z...' notes - already
+  transcribed; verified verbatim against the band).
+- pp. 126-128: header only.
+- p. 129: header + THE ASTERISK NOTE (the '*' explanation) - text
+  marginal in the scan -> SPOT (S43 crop = the band).
+- p. 130: '(ciag dalszy)'? + header -> SPOT-confirm.
+- p. 131: header + NOTES 1-2 - text marginal -> SPOT (S44 crop).
+- p. 132: TABELA VII + the b-table's title + header (S46 crop; exact
+  title wording -> SPOT).
+- pp. 133-142: header only.
+- p. 143: the c-table's title line (S47 crop -> SPOT).
+- p. 144: header only.
+
+SHEET 0144 = A TWO-PAGE SPREAD (print pp. 129 + 130 side by side,
+rotated): the upper block = p. 129's rows 74-86; the lower block =
+p. 130 (its own repeated header, rows 87-98, no interior rules across
+the gutter, denser pitch); sheet 0145 = p. 130 RE-PHOTOGRAPHED solo
+(better quality - our rows 87-98 came from it, so no data loss and
+no duplication; the 0144-lower copy simply went unused). The printed
+folios in the bands (129 on the upper half, 130 on the lower half of
+0144's band; 130 again on 0145's band) PROVE the mapping - our page
+labels are correct as they stand.
