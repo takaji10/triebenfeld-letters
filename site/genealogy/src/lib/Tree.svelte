@@ -431,15 +431,19 @@
               {#if n.kc > 0 && !n.focus}
                 <!-- the branch badge: +n opens this person's hidden
                      children, − closes them (one branch open at a
-                     time). Above the hit rect so the press lands here. -->
+                     time). Its own line below the card, right-aligned
+                     to the block's right edge - over the name it was
+                     in the way (the editor, 2026-11-07). Above the hit
+                     rect so the press lands here. -->
+                {@const bX = (n.w > 1 ? CELL + CARD_W : CARD_W) - 38}
                 <g class="badge" data-expand={n.id} role="button"
                    tabindex="-1">
                   <title>{n.on ? i18n.t('collapse_branch')
                           : i18n.t('expand_branch')}</title>
-                  <rect x={CARD_W - 40} y="4" width="36" height="15"
+                  <rect x={bX} y={CARD_H + 3} width="36" height="15"
                         rx="7.5" fill={n.on ? 'var(--accent)' : 'var(--paper2)'}
                         stroke="var(--accent)" stroke-width="1" />
-                  <text x={CARD_W - 22} y="15" text-anchor="middle"
+                  <text x={bX + 18} y={CARD_H + 14} text-anchor="middle"
                         class="btxt" fill={n.on ? '#fff' : 'var(--accent)'}>
                     {n.on ? '−' : '+' + n.nk}
                   </text>

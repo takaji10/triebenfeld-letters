@@ -5450,6 +5450,15 @@ footer on every page. Changed, in both languages:
   and with none; the layout battery passes; the rendered chart
   verified unchanged with a headless Edge screenshot.
 
+## 2026-11-07: the badge on its own line
+
+- **The +n badge moved out of the card** (the editor: it sat on top of
+  the names): it is now its own line **below the card, right-aligned
+  to the block's right edge** - under the spouse card when the person
+  has one drawn beside them - so no name, year or id ever sits under
+  it. It still reads +n to open, − to close, and the press-detection
+  treats it as before.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own
