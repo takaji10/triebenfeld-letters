@@ -4937,3 +4937,30 @@ footer on every page. Changed, in both languages:
   source-thumb.html); each kind's heading includes it, and the page's
   styles size it. The geometry rendered and checked before committing
   (scratch/maps_bulk/sources_icons_check.html).
+
+## 2026-11-07: the mobile-readiness re-check of the whole site (genealogy excluded)
+
+- **The site is mobile-clean at 390, 360 and 320 px**: all 2,490 built
+  pages crawled (puppeteer-core + Edge, 6 in parallel, ~4 minutes per
+  width) — zero horizontal overflow at 390 and 360; at 320 exactly one
+  defect, the German Pełzucki 1896 map page (15 px). Root cause:
+  `.map-tools` (the map toolbar flex row) did not wrap, and the German
+  overlay link "Kartenüberlagerung auf OpenStreetMap ansehen" was squeezed
+  to its min-content, pushing the row's total min-content past the
+  viewport — the English page passed because its text is shorter (the
+  2026-11-01 nowrap trap in a new dress: not nowrap on the link, but a
+  non-wrapping flex row whose item floor is the longest word). Fix:
+  `flex-wrap: wrap` on `.map-tools`; re-crawl clean at all three widths;
+  the wrapped toolbar visually checked at 320 (two deliberate lines, the
+  link on its own).
+- The crawler's three error lines (a navigation race, a null
+  documentElement) re-checked individually — all clean at all widths;
+  crawler errors are noise to re-run, never findings. The overflow
+  report's own offender list pointed at the farm table, but that table's
+  wrap clips correctly (a clipped descendant still reports its full
+  layout rect); the real extender was found by listing only elements
+  outside every clipping container — its right edge matched
+  `scrollWidth` exactly. Screenshots of the representative page types at
+  390 (home, sources, letter, places, literature, map) show no visual
+  defect: the navbar wraps, cards stack, the letter viewer adapts, the
+  Sources icons render beside their headings.

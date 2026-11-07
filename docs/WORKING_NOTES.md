@@ -3311,6 +3311,39 @@ Lessons:
   polygons drifted from the parcels) need not burn the work that fed it
   (the drawing tool and its JSON stay in scratch/map4456/ as the record).
 
+## The mobile-readiness re-check (2026-11-07)
+
+The editor asked for a mobile/responsiveness check of the whole site
+(excluding the genealogy section). The 2026-11-01 crawler was rebuilt
+(puppeteer-core + Edge, `$TEMP/opencode/mobilecheck/`): all 2,490 built
+pages at 390, 360 and 320 px, served from `site/_site`, measuring
+`documentElement.scrollWidth` after load + 250 ms, 6 pages in parallel
+(the full sweep is ~4 minutes per width; 2,490 pages ≈ 25 s/100).
+
+- **The site is mobile-clean**: 0 overflows at 390 and 360; at 320 exactly
+  one defect — the German Pełzucki 1896 map page overflowed 15 px. The
+  fix: `flex-wrap: wrap` on `.map-tools` (the German overlay link
+  "Kartenüberlagerung auf OpenStreetMap ansehen" was squeezed to its
+  min-content and the bar's total min-content exceeded 320 by exactly the
+  link's overshoot; the English page passed because its text is shorter —
+  the same trap, the language decides). Re-crawl: 0 problems at all three
+  widths. Re-checked the three crawler "errors" individually — all clean;
+  they are races (a navigation destroying the execution context,
+  documentElement briefly null), so the crawler's error lines are noise to
+  re-run, never findings.
+- **Reading an overflow report needs the ancestor walk.** The 320 report
+  named the farm table (456 px) as the offender, but its wrap clips
+  correctly — a clipped element's rect still reports its layout width, so
+  offenders lists name clipped descendants that cannot extend the
+  document. The real extender was found by walking the ancestor chain and
+  then listing only elements *outside* every clipping container; its right
+  edge matched `scrollWidth` exactly.
+- **Screenshots at 390** (home, sources, letter, places, literature, the
+  map page): the navbar wraps to two rows, cards stack, the letter viewer
+  adapts, the Sources icons sit beside their headings, the wrapped
+  `.map-tools` reads as two deliberate lines, the farm table scrolls
+  within its wrap. No visual defect found.
+
 ## The bulk maps batch and the Łukom re-backing (2026-11-06)
 
 - **Łukom 1766 re-backed onto the archive's JPG (2026-11-06).** The editor's
