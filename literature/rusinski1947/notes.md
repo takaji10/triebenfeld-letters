@@ -1127,3 +1127,50 @@ pp. 24-25 needed the ladder layout.
 
 verify_round/verify_span2's join-expectation checks rewritten to the
 leaf-split state (both ALL PASS).
+
+## SPOT ANSWERS round 5 applied (S52-S54, editor rulings)
+
+S52 (p. 23, the Δ9): editor agrees - keep both figures as the print
+has them (note total 24.667, body 15.831; the discrepancy is the
+author's own slip). No [sic], no correcting note.
+
+S53 (pp. 38-39) and S54 (pp. 116-117): the editor asked whether the
+mid-page note-size inserts on the receiving pages might be the
+RECEIVING pages' own notes instead of continuations. Verified they
+are continuations of the PREVIOUS page's notes - four independent
+proofs each:
+1. SEAMLESS TEXT across the leaf: p. 38's note block ends '...za
+   sume tylko 2.300 talerow' and the p. 39 insert opens 'sprzedali,
+   inwentarz zabrali...' (one sentence); p. 116's note 5 ends
+   '...najwczesniejsze' and the p. 117 insert opens 'metryki
+   protestanckie Lwowka...' (one phrase).
+2. The receiving pages ALREADY have their own complete, numbered
+   note blocks elsewhere on the page: p. 39's own notes 1-6 sit at
+   y4185-5049 (numbers at x590-594: Rafacz, Kutrzeba, 'Ta ostatnia',
+   Rel. Cost. 223/164/224 = exactly our [^39-1..6]); p. 117's own
+   notes start at y3213 ('1'@x600 AW. Wielkokrobielewskie... = our
+   [^117-1]). The inserts are OUTSIDE and BEFORE those blocks.
+3. The inserts are UNNUMBERED: the word scans of the insert opening
+   lines (0054 y2990-3060, 0132 y2820-2880) show NO ink left of the
+   first token (x372/x388) - no note-number digit - and both open
+   lowercase mid-sentence.
+4. TYPE SIZE: note-size on the receiving page too (the 0054
+   narrative's median glyph height 58 vs the body's 75-81).
+Also: no other word in any p. 116 note could precede 'metryki
+protestanckie'. RULING: keep both notes WHOLE on their referencing
+page (the current state - no change needed).
+
+Verification BONUS find (fixed): inside [^38-3], the 'Na skutek
+pozwu...' narrative had a scrambled line ('patrywana' stranded after
+'twier-'); the raw x-order reconstructs the true print lines:
+'...gdzie byla roz- / patrywana w trzech terminach (Decr. Posn. nr
+137, fol. 303, 485 i 597-600). Pozwani twier- / dzili, ze cala
+kwote uzyskana ze sprzedazy obrócili na splacenie dlugów powoda,
+których / zdaniem ich było znacznie wiecej, niz to powód podał. Jak
+sprawa ostatecznie została roz- / strzygnieta, nie wiadomo, gdyz
+dalsze zbiory dekretów nic dochowały się.' Fixed via STRAY_FIXES
+(also 'gdzic' -> 'gdzie', the only occurrence). Battery re-run:
+QA ALL PASS, closure 0/0/0, 45/45 spot checks.
+
+SPOT sheet regenerated with zero open items (the review harness
+state).

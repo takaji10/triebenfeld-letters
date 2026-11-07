@@ -30,56 +30,6 @@ def pg(sheet):
 
 
 ITEMS = [
-    # ---- round 5 (the footnote-page pass): the open ruling items
-    ('S52', 'B', 'p. 23',
-     'note 4 total: 24.667 vs the body\'s 15.831 (Δ9)',
-     '[^23-4]: "Tj. wykazane w Tod. 89 summa summarum 24.667 dymów, '
-     'mniej 8.520 dymów miejskich … mniej 225 dymów … wreszcie mniej 82 '
-     'dymy osad wymienionych w przypisie poprzednim.'
-     '   → 24.667 − 8.520 − 225 − 82 = 15.840, but the body prints '
-     '"15.831 dymów" (Δ9)',
-     'keep both figures as the print has them (every figure '
-     'pixel-verified: the note total reads 24.667 in both OCR passes '
-     'and in the glyph render; the body reads 15.831) — this looks '
-     'like the AUTHOR\'s own slip, not an OCR one',
-     'Top strip: the body line "Tod. 89 dla tychże osad podaje '
-     '15.831 dymów" (scan 0038 y3375-3450). Bottom strip: the note-4 '
-     'block (24.667 / mniej 8.520 / mniej 225 / mniej 82). If you '
-     'prefer a [sic] after 15.831, or a correcting note, say so — '
-     'otherwise the discrepancy stands as the print\'s own.',
-     'S52_p23_delta9.png'),
-    ('S53', 'A', 'pp. 38–39',
-     'note 38-3: the manifest quote CONTINUES on print p. 39',
-     '[^38-3] on p. 38 ends "…Grunta za sumę tylko 2.300 talerów '
-     'sprzedali, inwentarz zabrali … s. Johann Bóhme”. Na skutek '
-     'pozwu olędra sprawa oparła się o sąd ziemski poznański…" — '
-     'ALL inside the note def on p. 38',
-     'keep the note WHOLE on p. 38 (content complete; the placement '
-     'is the print\'s own quirk)',
-     'The print fills p. 38\'s note block to the page bottom (top '
-     'strip) and then continues the SAME note mid-page on p. 39 in '
-     'note-size type (bottom strip: "sprzedali, inwentarz zabrali…" '
-     'through "s. Johann Bóhme\"", followed by the note-size "Na '
-     'skutek pozwu…" narrative — both at y3024-4104, well above '
-     'p. 39\'s own notes). Our def holds the whole text in order. '
-     'Options: (a) as transcribed, (b) add a printed-page note like '
-     '[continuation on s. 39], (c) split the def with a marker. '
-     'A def-tail physical sweep found no other such case in the book.',
-     'S53_note38_overflow.png'),
-    ('S54', 'A', 'pp. 116–117',
-     'note 116-5: the tail CONTINUES on print p. 117',
-     '[^116-5] on p. 116 runs "…wielką liczbę niepiśmiennych olędrów '
-     'wykazują również najwcześniejsze metryki protestanckie Lwówka '
-     '(Archiwum Państwowe w Poznaniu, Metryki 441 C). Nawet w aktach '
-     'regulacyjnych … nie umieli się podpisać."',
-     'keep the note WHOLE on p. 116 (content complete; the placement '
-     'is the print\'s own quirk)',
-     'Same class as S53: the note fills p. 116\'s note block to the '
-     'bottom (top strip) and its tail prints mid-page on p. 117 in '
-     'note-size type (bottom strip: y2835-3105, BEFORE p. 117\'s own '
-     'notes). Our def holds the whole text. Options as in S53. No '
-     'other case exists (sweep-verified).',
-     'S54_note116_overflow.png'),
 ]
 # ---------------- the tables ----------------------------------------------
 def read_csv(name):

@@ -443,6 +443,15 @@ STRAY_FIXES = [
     # internal Delta 9, flagged in the SPOT sheet)
     ('Jaromierskich Nowych 1 Starych', 'Jaromierskich Nowych i Starych'),
     ('summa summarum 24.067 dymów', 'summa summarum 24.667 dymów'),
+    ('poznański, gdzic była', 'poznański, gdzie była'),
+    # ---- S53 verification find: the note 38-3 narrative's line order
+    # was scrambled ('patrywana' stranded after 'twier-'); the raw
+    # x-order reconstructs: 'gdzie byla roz- / patrywana w trzech
+    # terminach (...) Pozwani twier- / dzili, ze cala kwote ...'
+    ('gdzie była roz-\nw trzech terminach (Decr. Posn. nr 137, fol. 303, '
+     '485 i 597—600). Pozwani twier-\npatrywana\ndzili',
+     'gdzie była roz-\npatrywana w trzech terminach (Decr. Posn. nr 137, '
+     'fol. 303, 485 i 597—600). Pozwani twier-\ndzili'),
 ]
 
 # ---- the body tables rebuilt from the editor's corrected grids

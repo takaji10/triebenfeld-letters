@@ -994,9 +994,8 @@ nikom Hollendrów Essenwaldskich, tudzież i posiedzicielom gruntu własnego ża
 nieprawnie posiadającym zażala się, chcąc pokrzywdzeń swoich prawnie w sądzie przyzwoitym
 dochodzić.
 s. Johann Bóhme”
-Na skutek pozwu olędra sprawa oparła się o sąd ziemski poznański, gdzic była roz-
-w trzech terminach (Decr. Posn. nr 137, fol. 303, 485 i 597—600). Pozwani twier-
-patrywana
+Na skutek pozwu olędra sprawa oparła się o sąd ziemski poznański, gdzie była roz-
+patrywana w trzech terminach (Decr. Posn. nr 137, fol. 303, 485 i 597—600). Pozwani twier-
 dzili, że całą kwotę uzyskaną ze sprzedaży obrócili na spłacenie długów powoda, których
 zdaniem ich było znacznie więcej, niż to powód podał. Jak sprawa ostatecznie została roz-
 strzygnięta, nie wiadomo, gdyż dalsze zbiory dekretów nic dochowały się.
