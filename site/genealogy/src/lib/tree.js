@@ -254,8 +254,12 @@ export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
       // target = their ancestor (higher on screen)
       const s = l.source, t = l.target
       const sx = s.data.root ? s.px - focusShift : s.px
-      links.push(elbow(sx, -s.y * ROW_H,
-                       t.px, -t.y * ROW_H + CARD_H))
+      // the key rides with the path: the component keys the drawn
+      // elements on it, so a link persists across re-layouts and can
+      // morph (or fade in when it is new) instead of teleporting
+      links.push({ id: 'u' + s.data.id + '>' + t.data.id,
+                   d: elbow(sx, -s.y * ROW_H,
+                            t.px, -t.y * ROW_H + CARD_H) })
     }
   }
   if (down) {
@@ -269,8 +273,9 @@ export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
       // screenshot: Krystyna Celmer and Bogusław Stark)
       const sx = s.px - blockShift(s.data.w)
       const tx2 = t.px - blockShift(t.data.w)
-      links.push(elbow(sx, s.y * ROW_H + CARD_H,
-                       tx2, t.y * ROW_H))
+      links.push({ id: 'd' + s.data.id + '>' + t.data.id,
+                   d: elbow(sx, s.y * ROW_H + CARD_H,
+                            tx2, t.y * ROW_H) })
     }
   }
 

@@ -32,8 +32,8 @@ for (const id of ids) {
     }
     const tops = new Set(c.nodes.map(n => Math.round(n.y)))
     let dangling = 0
-    for (const d of c.links) {
-      const nums = d.match(/-?\d+(?:\.\d+)?/g).map(Number)
+    for (const l of c.links) {
+      const nums = l.d.match(/-?\d+(?:\.\d+)?/g).map(Number)
       const pts = [[nums[0], nums[1]], [nums[nums.length - 2], nums[nums.length - 1]]]
       for (const [x, y] of pts) {
         const onTop = tops.has(Math.round(y))
@@ -87,8 +87,8 @@ function checkOpen(root, openId, label) {
   }
   const tops = new Set(c.nodes.map(n => Math.round(n.y)))
   let dangling = 0
-  for (const d of c.links) {
-    const nums = d.match(/-?\d+(?:\.\d+)?/g).map(Number)
+  for (const l of c.links) {
+    const nums = l.d.match(/-?\d+(?:\.\d+)?/g).map(Number)
     const pts = [[nums[0], nums[1]], [nums[nums.length - 2], nums[nums.length - 1]]]
     for (const [x, y] of pts) {
       if (!tops.has(Math.round(y)) && !tops.has(Math.round(y - CARD_H))) dangling++

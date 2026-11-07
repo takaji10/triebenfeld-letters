@@ -78,6 +78,7 @@
 <p>
   <input type="search" placeholder="filter …" bind:value={filter}>
   <span class="stat">{shown.length} · {geoCount} {i18n.t('geocoded_count')}</span>
+  <span class="legend"><span class="dot"></span> = {i18n.t('geo_legend')}</span>
 </p>
 
 <div class="letters">
@@ -89,12 +90,17 @@
 
 {#if db.places}
   <table>
-    <thead><tr><th>{i18n.t('nav_places')}</th><th class="n">{i18n.t('events_at')}</th></tr></thead>
+    <thead><tr><th colspan="2">{i18n.t('nav_places')}</th><th class="n">{i18n.t('events_at')}</th></tr></thead>
     {#each groups as [c, rows] (c)}
       <tbody>
-        <tr class="ltrrow"><td colspan="2">{c}</td></tr>
+        <tr class="ltrrow"><td colspan="3">{c}</td></tr>
         {#each rows as [name, v] (name)}
           <tr>
+            <!-- the geolocated mark: a plain round dot in its own
+                 column, legend at the top of the page (the editor
+                 brought it back, 2026-11-07: small and self-explained
+                 rather than a pill) -->
+            <td class="geo">{#if v.c}<span class="dot"></span>{/if}</td>
             <td><a href={'#/place/' + encodeURIComponent(name)}
                    onclick={rememberScroll}>{name}</a></td>
             <td class="n">{v.n}</td>
@@ -115,6 +121,14 @@
   .letters button.active { background: var(--accent); border-color: var(--accent);
     color: #fff; }
   .n { text-align: right; font-variant-numeric: tabular-nums; width: 6rem; }
+  /* the geolocated mark: a plain round dot in the palette's green,
+     small and quiet - the legend at the top of the page says what it
+     means, so no pill, no border, no guessing */
+  .geo { width: 1.4rem; text-align: center; }
+  .dot { display: inline-block; width: .55rem; height: .55rem;
+    border-radius: 50%; background: var(--ok); vertical-align: middle; }
+  .legend { font-size: .78rem; color: var(--faint); margin-left: .8rem; }
+  .legend .dot { margin-right: .15rem; }
   /* the letter subheader inside the list - quiet, spaced from the
      letter above */
   tr.ltrrow td { padding: .9rem .4rem .25rem; font-size: .8rem;

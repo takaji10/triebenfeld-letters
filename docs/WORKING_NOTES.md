@@ -3536,6 +3536,13 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   its previous viewport position (record before, re-read the derived
   layout after, solve the transform) is what "the view does not
   change" actually means.
+- **Key the drawn elements, not just the data.** An animation between
+  two layouts needs DOM elements that survive the re-layout: nodes
+  keyed by person, links keyed by their parent>child identity. Without
+  link keys the each-block patches by index and a surviving path is
+  assigned a different link's geometry - morphing across the chart.
+  Enter/exit fades on the same keys are what make newly revealed rows
+  appear as part of the movement rather than popping in after it.
 
 
 

@@ -5491,6 +5491,24 @@ footer on every page. Changed, in both languages:
   and with none; the layout battery passes; all three pages verified
   with headless Edge screenshots.
 
+## 2026-11-07: one slow beat for the whole branch change; the dot explained
+
+- **Newly revealed cards and links now fade in over the same slow beat
+  the cards glide on** (the editor: the row underneath/above
+  materialised instantly, and the user might get confused): the card
+  and link elements are keyed (links now carry their identity - a row
+  letter and the parent>child pair - from the layout), so Svelte can
+  run enter and exit fades on exactly the elements a branch change
+  adds or removes, while the surviving elements keep their glide. The
+  whole choreography slowed to 0.8 s, transforms and fades alike.
+- **The geolocated mark is back on the Places list, self-explained**:
+  a plain round green dot in its own column before the place name (no
+  pill), and a legend beside the filter at the top of the page -
+  "● = geolocated place" (Ort mit Koordinaten, miejsce zlokalizowane).
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes; both pages verified with
+  headless Edge screenshots.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own

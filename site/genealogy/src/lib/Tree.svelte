@@ -14,6 +14,7 @@
   import { db, goto } from './db.svelte.js'
   import { i18n } from './i18n.js'
   import { fmtDate } from './dates.js'
+  import { fade } from 'svelte/transition'
   import { layout, descendantPath, hasMoreUp, hasMoreDown,
            CARD_W, CARD_H, CELL, ROW_H, WINDOW_UP, WINDOW_DOWN } from './tree.js'
 
@@ -212,6 +213,12 @@
   // otherwise sits cut off at the viewport's edge (the editor,
   // 2026-11-06). The panel closes on a second click, on its ×, or when
   // another card is opened.
+  // the expansion animation length, shared by the CSS transitions
+  // (transform glide) and the enter/exit fades (new cards and links):
+  // one slow beat, so everything the branch change moves or reveals
+  // takes the same time (the editor, 2026-11-07)
+  const ANIM_MS = 800
+
   let openCard = $state(null)
 
   function cardClick(pid) {
@@ -383,13 +390,17 @@
                        a ${r * 0.85} ${r * 0.62} 0 0 1 ${r * 1.7} 0 Z`} />
             </g>
           {/snippet}
-          {#each chart.links as d}
+          {#each chart.links as l (l.id)}
             <!-- d carries both the attribute and the CSS property: the
                  property transitions where the browser supports it
                  (Chrome, Edge, Firefox), the attribute stands where it
-                 does not - the links morph instead of snapping -->
-            <path d={d} style:d={`path("${d}")`} fill="none"
-                  stroke="var(--rule)" stroke-width="1.5" />
+                 does not - the links morph instead of snapping, and a
+                 link that appears with a branch fades in over the same
+                 slow beat as the cards -->
+            <path d={l.d} style:d={`path("${l.d}")`} fill="none"
+                  stroke="var(--rule)" stroke-width="1.5"
+                  in:fade={{ duration: ANIM_MS }}
+                  out:fade={{ duration: ANIM_MS }} />
           {/each}
           {#each chart.splices as s (s.id + (s.y < 0 ? '@u' : '@d'))}
             <g style:transform={`translate(${s.x}px, ${s.y}px)`}
@@ -405,11 +416,14 @@
             <!-- keyed by the person (row letters distinguish the two
                  hourglass halves), positioned by a transitioning
                  transform: the cards glide to their new places when a
-                 branch opens, so the reader sees what moved (the
-                 editor, 2026-11-07) -->
+                 branch opens, and a card that appears with the branch
+                 fades in over the same beat instead of materialising
+                 instantly (the editor, 2026-11-07) -->
             <g class="node" class:living={v?.L}
                data-pid={n.id}
                class:open={openCard === n.id}
+               in:fade={{ duration: ANIM_MS }}
+               out:fade={{ duration: ANIM_MS }}
                style:transform={`translate(${n.x}px, ${n.y}px)`}>
               <rect width={CARD_W} height={CARD_H} rx="4"
                     stroke={n.focus || openCard === n.id ? 'var(--accent)'
@@ -630,14 +644,17 @@
   .badge { cursor: pointer; }
   .node.living rect { stroke-dasharray: 3 2; }
   /* the expansion animation: cards, marriage lines, links and the open
-     panel glide to their new places over half a second - the editor
-     asked to see what happens when a branch opens (2026-11-07). The
-     transforms are CSS properties (style:transform), which transition;
-     the link paths morph through the CSS d property where supported. */
-  .node { transition: transform .5s ease; }
-  .spl { transition: transform .5s ease; }
-  .detailspace { transition: transform .5s ease; }
-  path { transition: d .5s ease; }
+     panel glide to their new places over the shared slow beat - the
+     editor asked to see what happens when a branch opens, and asked
+     again for the newly revealed rows not to materialise instantly
+     (2026-11-07). The transforms are CSS properties (style:transform),
+     which transition; new cards and links fade in and out over the
+     same ANIM_MS; the link paths morph through the CSS d property
+     where supported. */
+  .node { transition: transform .8s ease; }
+  .spl { transition: transform .8s ease; }
+  .detailspace { transition: transform .8s ease; }
+  path { transition: d .8s ease; }
   /* the chart SVG is the size of the whole layout, but the pan/zoom
      transform must be free to carry the cards anywhere in the frame -
      an SVG clips its children to its own box by default, which emptied
