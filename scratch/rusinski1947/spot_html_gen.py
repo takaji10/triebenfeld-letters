@@ -30,33 +30,6 @@ def pg(sheet):
 
 
 ITEMS = [
-    ('S50', 'B', '?', 'the Ujskie czynsz amount - which print page?',
-     'our p. 86 reads: "W najwcze\u015bniejszych osadach by\u0142 '
-     'on bardzo niski: w Ujskich Ol. (r. 1597) wyrosi\u0142 ___ '
-     'z\u0142 z huby 30-morgowej, w Ol. Nowe Dwory (r. 1601) 25 '
-     'z\u0142 z huby..."',
-     'the crop shows our pp. 85 + 86 in full (left/right), plus '
-     'zoomed strips of the page junction below. Please find the '
-     'sentence and tell me which PRINT page it sits on (and the '
-     'amount while you are there). If it is NOT on either page, the '
-     'neighbouring pages (84 / 87) will pin down where our labels '
-     'drift from the print\'s folios.',
-     'the sentence opens the czynsz-gruntowy discussion, right '
-     'after the numizmatyka paragraph; on our p. 86 it is the '
-     'second sentence of the paragraph starting "W\u015br\u00f3d '
-     'czynsz\u00f3w pieni\u0119\u017cnych".',
-     'S50_p85_p86.png'),
-    ('S51', 'B', 'p. 62', 'TABELA III - the repair pass (planned)',
-     'the occupational table (Sk\u0142ad zawodowy ludno\u015bci 36 '
-     'osad ol\u0119derskich powiatu pozna\u0144skiego) is '
-     'garbled; its four table-notes are unlinked.',
-     'no answer needed - I will do a dedicated pixel-level repair '
-     'pass and then wire your marker info (b. cha\u0142upnicy[^1]; '
-     'the Rolnictwo line: 60[^2] and 13[^2]; the O\u015bw. line: '
-     '5[^3]). Shown here only so you know it is on the worklist; '
-     'skip this item.',
-     'the table spans most of p. 62.',
-     None),
 ]
 # ---------------- the tables ----------------------------------------------
 def read_csv(name):
