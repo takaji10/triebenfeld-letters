@@ -21,9 +21,9 @@ def check(name, cond):
 body = Counter(re.findall(r'\[\^(\d+-\d+)\](?!:)', t))
 defs = Counter(re.findall(r'\[\^(\d+-\d+)\]:', t))
 # print-verified defs whose call-site superscripts the scan does not
-# resolve - 125-3 pending the editor's S25 follow-up (refs 1 and 2
-# were ruled by the editor: 0139 r8 `51[^1]`, 0140 r14 `165[^2]`)
-UNWIRED_OK = {'125-3'}
+# resolve - none left: the editor wired 125-1 (0139 r8), 125-2
+# (0140 r14) and 125-3 (0140 r17) in SPOT rounds 1-2
+UNWIRED_OK = set()
 check('label keys == def keys (%d/%d keys)' % (len(body), len(defs)),
       set(body) == set(defs) or set(defs) - set(body) == UNWIRED_OK)
 

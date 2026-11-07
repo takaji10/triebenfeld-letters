@@ -606,6 +606,21 @@ CELL_FIXES = {
     ('0158', 2, 1): 'Głębockie Olędry',   # S34: editor's spelling;
                                      # REFS appends [^143-3]
     ('0159', 10, 4): '—',            # S35: ok
+    # ---- SPOT ANSWERS round 2 (S40/S41/S42) ----
+    ('0154', 115, 1): 'Sąpolna Olędry',   # S40: editor verbatim
+    ('0154', 115, 4): '—',           # S40: rok dash
+    ('0154', 115, 5): '—',           # S40: char dash
+    ('0154', 115, 6): '—',           # S40: zrodlo dash
+    ('0158', 2, 3): 'Głębocko',      # S41: editor verbatim row
+    ('0158', 2, 6): 'AW. A. 1-2',    # S41
+    ('0158', 2, 7): '2 XI 1743 i 11 X 1744',   # S41: dual date
+    ('0158', 5, 1): 'Krzyżewniki',   # S41: editor spelling
+    ('0158', 5, 4): '—',             # S41: rok dash in print
+    ('0158', 5, 5): '—',             # S41
+    ('0158', 5, 6): 'Kl. M.',        # S41
+    ('0140', 17, 8): '11[^125-3]',   # S42: the raised 3 = note 3's ref
+                                     # ('Razem z Ol. Sosnowiec.'); wires
+                                     # the last unwired def
     ('0158', 3, 5): 'gotowa rola',   # draft 'gotowa Iola'
     ('0158', 3, 6): 'AW. B. 339',    # strip; draft junk
     ('0158', 4, 5): 'las',           # draft 'ias'

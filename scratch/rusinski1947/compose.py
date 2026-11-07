@@ -202,6 +202,12 @@ NOTE_FIXES = {
     },
     '0107': {
         3: 'Rel. Cost. nr 220, r. 1787, fol. 182, Charłub Ol.',
+        4: 'Z. huby płacono: w Ostrowie i Borgowie (r. 1785) — '
+           '126 zł, w Skrzydlewie (r. 1785) — 16',
+    },
+    '0066': {
+        6: 'W Ol. Charłub, Komorowskich, Włościejewskich '
+           '(sygn. w aneksie I).',
     },
 }
 
@@ -254,6 +260,72 @@ BODY_FIXES['0101'] = [
     ('zagrabieniem pola *.[^82-5]', 'zagrabieniem pola[^82-5].'),
     ('przeciętnej *.[^100-5]', 'przeciętnej[^100-5].'),
     ('charakteru $.[^112-4]', 'charakteru[^112-4].'),
+    # ---- SPOT ANSWERS round 2 (S36): the marker numbers, editor-read ----
+    ('Zajączkowo Wielkie i Małe *, dalej',
+     'Zajączkowo Wielkie i Małe[^5-4], dalej'),
+    ('Szóstaki par. Sieraków %;', 'Szóstaki par. Sieraków[^18-3];'),
+    ('czyńskie %, Ol. Włościejewskie', 'czyńskie, Ol. Włościejewskie'),
+    ('była protestancka *.', 'była protestancka[^36-4].'),
+    ('np. tymczasowa umowa wstępna *,',
+     'np. tymczasowa umowa wstępna[^40-3],'),
+    ('32 w języku niemieckim %, a', '32 w języku niemieckim[^40-6], a'),
+    ('przez grunt olęderski *.', 'przez grunt olęderski[^48-9].'),
+    ('wybierana była dożywotnio %,', 'wybierana była dożywotnio,'),
+    ('nazwiska wszystkich osadników $.',
+     'nazwiska wszystkich osadników[^51-6].'),
+    ('olędrom Starego i Nowego Ujścia %.',
+     'olędrom Starego i Nowego Ujścia[^51-3].'),
+    ('od której klucz mieli ławnicy $,',
+     'od której klucz mieli ławnicy[^54-6],'),
+    ('pan zastrzegał sobie tylko część dochodów *,',
+     'pan zastrzegał sobie tylko część dochodów[^54-9],'),
+    ('prawo łowiectwa było nieograniczone *.',
+     'prawo łowiectwa było nieograniczone[^74-9].'),
+    ('uciążliwym obowiązkiem *.', 'uciążliwym obowiązkiem.'),
+    ('wyjaśnił już kilka lat przed tym %.',
+     'wyjaśnił już kilka lat przed tym[^99-3].'),
+    ('chociaż bywało: i odwrotnie %.', 'chociaż bywało: i odwrotnie[^100-6].'),
+    ('aż wszystko zostanie sprzątnięte %.',
+     'aż wszystko zostanie sprzątnięte[^101-2].'),
+    ('zdarzały się rzadko %.', 'zdarzały się rzadko[^102-3].'),
+    ('omówiona została już poprzednio *.',
+     'omówiona została już poprzednio[^112-2].'),
+    ('się z jednej osady do innej *.',
+     'się z jednej osady do innej[^112-4].'),
+    ('bezpłatnie jeden z budynków %.',
+     'bezpłatnie jeden z budynków[^114-3].'),
+    ('swobodę wyznania[^117-1] i praktyk religijnych %.',
+     'swobodę wyznania[^117-1] i praktyk religijnych.'),
+    # ---- the old compositor miswires of the same markers (the editor
+    # ruled the true positions above; these copies must go) ----
+    ('procesem ciągłego[^100-6] zwiększania',
+     'procesem ciągłego zwiększania'),
+    ('jakkol-[^101-2] wiek', 'jakkolwiek'),
+    ('„Die Wirthe,[^102-3][^102-4]', '„Die Wirthe,[^102-4]'),
+    ('wśród olędrów nałogowo[^112-2].', 'wśród olędrów nałogowo.'),
+    ('i charakteru[^112-4].', 'i charakteru.'),
+    ('Poza[^114-3] dochodami', 'Poza dochodami'),
+    ('w par. Brody[^18-3];', 'w par. Brody;'),
+    ('czy do[^36-4] opuszczenia', 'czy do opuszczenia'),
+    (' przywilej innej gminy[^40-3].', ' przywilej innej gminy.'),
+    ('a 2[^40-6] w języku', 'a 2 w języku'),
+    ('pojawiały[^48-9] się rzadko', 'pojawiały się rzadko'),
+    ('wyrasta[^5-4] też cały', 'wyrasta też cały'),
+    ('powinności dworskie[^51-3].', 'powinności dworskie.'),
+    ('Przed[^54-6] upływem', 'Przed upływem'),
+    ('lub też[^54-9] przeznaczał', 'lub też przeznaczał'),
+    ('Dochód[^74-9] olędrów', 'Dochód olędrów'),
+    ('wyników[^99-3] pracy Fr. Guradze', 'wyników pracy Fr. Guradze'),
+]
+
+# BODY_FIXES2: amount restorations that depend on the wirings above
+# having run first (the search strings exist only after them)
+BODY_FIXES2 = [
+    ('pan pobierał tynfów (14 zł)', 'pan pobierał 11 tynfów (14 zł)'),
+    ('uiszczali ją olędrzy co lat w wysokości zł z huby',
+     'uiszczali ją olędrzy co 50 lat w wysokości 36 zł z huby'),
+    ('w dobrach państwowych gr,', 'w dobrach państwowych 19 gr,'),
+    ('wier gegeben Rechstaler', 'wier gegeben 18 Rechstaler'),
 ]
 
 
@@ -323,9 +395,14 @@ def main():
                                   for k, v in nr]
         nf = NOTE_FIXES.get(n)
         if nf:
+            have = {note['num'] for note in struct[n]['notes']}
             for note in struct[n]['notes']:
                 if note['num'] in nf:
                     note['text'] = nf[note['num']]
+            for k, v in nf.items():          # notes the OCR dropped
+                if k not in have:
+                    struct[n]['notes'].append({'num': k, 'text': v})
+                    struct[n]['notes'].sort(key=lambda x: x['num'])
     order = BODY + ANEX2 + ANEX3
     LABEL_RE = re.compile(r'\[\^[^\]]+\]')
     TERM = ('.', '!', '?', '…', '”', '»', ':', ';')
@@ -431,7 +508,7 @@ def main():
     HEAD = ('Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | '
             'Nazwa dzisiejsza | Rok założ. osady | Charakter terenu '
             'przed założ. osady | Przywilej lub wzmianka — sygn. źródła | '
-            'data | L. dymów wg Tp. 89 lub 90 | dymów oblicz. '
+            'data | L. dymów wg Tp. 89 lub 90 * | dymów oblicz. '
             'szacunkowo | Ludn. osad wg Tołł.')
     SEP = ' | '.join(['---'] * 11)
     for n in [f'{i:04d}' for i in range(139, 160)]:
@@ -564,6 +641,14 @@ Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
             else:
                 print('WARN body fix miss %s: %r' % (n, old[:60]))
     print('body marker fixes applied:', nfix)
+    nfix2 = 0
+    for old, new in BODY_FIXES2:
+        if old in text:
+            text = text.replace(old, new)
+            nfix2 += 1
+        else:
+            print('WARN body fix2 miss: %r' % old[:60])
+    print('body amount fixes applied:', nfix2)
     with open(OUT, 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(text)
     print('written', os.path.abspath(OUT), len(text), 'chars')
