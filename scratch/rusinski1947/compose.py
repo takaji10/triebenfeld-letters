@@ -505,6 +505,24 @@ def main():
                '2.216', '38', '4.514'],
     }
     parts.append('[p. 123]\n\nANEKS I\n')
+    # the print's page-top furniture (the rotated top-bands): the
+    # tables carry titles on their first pages; exact wording of the
+    # title lines SPOT-pending (S45/S46/S47 crops). The p. 129 band
+    # also carries the asterisk note (the '*' explanation for the
+    # dymy column) - it prints ABOVE the table on the page.
+    PRELUDES = {
+        '0139': ['TABELA VI',
+                 'Osady olęderskie w byłym powiecie kościańskim '
+                 'w okresie rozbiorów'],
+        '0144': ['* Dymy niektórych osad podane są w Tp. 89 zbiorowo '
+                 'dla całej osady; wysokość ich na poszczególne '
+                 'zagrody przeliczona została według Tp. 90.'],
+        '0147': ['TABELA VII',
+                 'Osady olęderskie w byłym powiecie poznańskim '
+                 'w okresie rozbiorów'],
+        '0158': ['Osady olęderskie w ziemi wschowskiej w okresie '
+                 'rozbiorów'],
+    }
     HEAD = ('Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | '
             'Nazwa dzisiejsza | Rok założ. osady | Charakter terenu '
             'przed założ. osady | Przywilej lub wzmianka — sygn. źródła | '
@@ -524,6 +542,10 @@ def main():
                         for f in sh['furniture']])
             items.sort(key=lambda x: x['y'])
             page = label(n)
+            for pl in PRELUDES.get(n, []):
+                parts.append(pl)
+            if n in PRELUDES:
+                parts.append('')
             nums = sorted(r['num'] for r in sh['rows'])
             last_num = nums[-1] if nums else None
 

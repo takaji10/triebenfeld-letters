@@ -30,115 +30,73 @@ def pg(sheet):
 
 
 ITEMS = [
-    ('S36', 'B', 'various', '22 superscript markers - the NUMBERS',
-     'the print has superscript note-markers at 22 places the scan '
-     'renders only as a * / % / $ glyph (the digit itself is below '
-     'scan resolution). The places, in reading order:\n'
-     'p. 5: "Zajączkowo Wielkie i Małe *"\n'
-     'p. 18: "10. Szóstaki par. Sieraków %;"\n'
-     'p. 29: "Ol. Troszczyńskie %"\n'
-     'p. 36: "znaczna część szlachty ... była protestancka *"\n'
-     'p. 40: "np. tymczasowa umowa wstępna *"\n'
-     'p. 40: "32 w języku niemieckim %"\n'
-     'p. 48: "prawo przegonu swej trzody przez grunt olęderski *"\n'
-     'p. 51: "cała ława gminna wybierana była dożywotnio %"\n'
-     'p. 51: "podawać do dworu imiona i nazwiska wszystkich '
-     'osadników $"\n'
-     'p. 51: "olędrom Starego i Nowego Ujścia %"\n'
-     'p. 54: "od której klucz mieli ławnicy $"\n'
-     'p. 54: "pan zastrzegał sobie tylko część dochodów *"\n'
-     'p. 74: "w Ol. Ujskich prawo łowiectwa było nieograniczone *"\n'
-     'p. 78: "sprzedaż trunków mogła być ... uciążliwym obowiązkiem *"\n'
-     'p. 99: "sprawę tę wyczerpująco wyjaśnił już kilka lat przed '
-     'tym %"\n'
-     'p. 100: "chociaż bywało: i odwrotnie %"\n'
-     'p. 101: "aż wszystko zostanie sprzątnięte %"\n'
-     'p. 102: "zwiększania powinności olęderskich zdarzały się '
-     'rzadko %"\n'
-     'p. 112: "Ta sprawa omówiona została już poprzednio *"\n'
-     'p. 112: "skłonność do przenoszenia się z jednej osady do '
-     'innej *"\n'
-     'p. 114: "ofiarowywał na szkołę bezpłatnie jeden z budynków %"\n'
-     'p. 118: "i praktyk religijnych %"',
-     'I will wire each to its note as soon as you give the numbers '
-     '(a simple list: p. 5 = n, p. 18 = n, ...).',
-     'the glyphs are unreadable at scan resolution; the marker '
-     'numbers follow each page\'s own sequence, which the print '
-     'shows directly.',
+    ('S43', 'B', 'p. 129', 'the asterisk note above the table',
+     '* Dymy niekt\u00f3rych osad podane s\u0105 w Tp. 89 zbiorowo '
+     'dla ca\u0142ej osady; wysoko\u015b\u0107 ich na '
+     'poszczeg\u00f3lne zagrody przeliczona zosta\u0142a '
+     'wed\u0142ug Tp. 90.',
+     'confirm or correct the wording (the scan is marginal)',
+     'the band = the print page\'s top strip (rotated in the scan); '
+     'the note sits under the column header.',
+     'S43_p129_band.png'),
+    ('S44', 'B', 'p. 131', 'the two notes on p. 131 - do they match '
+     'the transcription?',
+     'transcribed: 131-1 = "Sroczewskie Ol\u0119dry powsta\u0142y z '
+     'dawnej wsi Sroczewa..." (long); 131-2 = "Razem z Ol. '
+     'G\u00f3ry."',
+     'confirm the band\'s two note lines are these two notes (and '
+     'their order)',
+     'the band shows the notes small; the transcription came from '
+     'the strip OCR.',
+     'S44_p131_band.png'),
+    ('S45', 'B', 'p. 124', 'TABELA VI + the a-table\'s title',
+     'TABELA VI / Osady ol\u0119derskie w by\u0142ym powiecie '
+     'ko\u015bcia\u0144skim w okresie rozbior\u00f3w',
+     'confirm the exact wording of the title line',
+     'the band\'s second and third lines.',
+     'S45_p124_band.png'),
+    ('S46', 'B', 'p. 132', 'TABELA VII + the b-table\'s title',
+     'TABELA VII / Osady ol\u0119derskie w by\u0142ym powiecie '
+     'pozna\u0144skim w okresie rozbior\u00f3w',
+     'confirm the exact wording (does it mention ziemia wschowska '
+     'too?)',
+     'the band\'s second and third lines.',
+     'S46_p132_band.png'),
+    ('S47', 'B', 'p. 143', 'the c-table\'s title',
+     'Osady ol\u0119derskie w ziemi wschowskiej w okresie '
+     'rozbior\u00f3w (no TABELA number seen)',
+     'confirm the exact wording and whether a TABELA number '
+     'precedes it',
+     'the band\'s second line.',
+     'S47_p143_band.png'),
+    ('S48', 'B', 'p. 130', 'the p. 130 band: is there a continuation '
+     'marker?',
+     '(nothing transcribed)',
+     'does the print carry a "(ci\u0105g dalszy)" or similar '
+     'marker on p. 130 (and the other continuation pages)?',
+     'the band between the running head and the column header.',
+     'S48_p130_band.png'),
+    ('S49', 'B', 'p. 62', 'TABELA III - the repair pass',
+     'the table is garbled; the notes are unlinked',
+     'your marker info is logged (b. cha\u0142upnicy[^1]; the '
+     'Rolnictwo line: 60[^2] and 13[^2]; the O\u015bw. line: '
+     '5[^3]). I will do a dedicated pixel-level repair pass of the '
+     'table and then wire the four notes - no answer needed now, '
+     'unless you want to prioritize it.',
+     'the table spans most of p. 62.',
      None),
-    ('S37', 'B', 'various', '6 missing amounts (dropped digits)',
-     'the OCR lost these figures; the sentences now read with a '
-     'gap:\n'
-     'p. 86: "w Ujskich Ol. (r. 1597) wyrosił ___ zł z huby '
-     '30-morgowej"\n'
-     'p. 86: "...w Skrzydlewie (r. 1785) — ___ talarów w dukatach, '
-     'licząc na dukata 3 talary (== 90 zł)" (in note 4)\n'
-     'p. 89: "pan pobierał ___ tynfów (14 zł) od każdegoaktu" (my '
-     'guess: 2)\n'
-     'p. 89: "uiszczali ją olędrzy co ___ lat w wysokości ___ zł z '
-     'huby"\n'
-     'p. 107: "w dobrach państwowych ___ gr" (between 26—66 gr and '
-     '7 talarów 42 gr)\n'
-     'p. 30: "Dem Zimer man haben wier gegeben ___ Reichstaler, '
-     'drey tohn bier"',
-     'fill the gaps from your print copy.',
-     'the digits were lost in the scan (likely small/crowded '
-     'type); everything else in those sentences is verified.',
+    ('S50', 'B', '?', 'the Ujskie czynsz amount - which print page?',
+     'our p. 86 reads: "W najwcze\u015bniejszych osadach by\u0142 '
+     'on bardzo niski: w Ujskich Ol. (r. 1597) wyrosi\u0142 ___ '
+     'z\u0142 z huby 30-morgowej, w Ol. Nowe Dwory (r. 1601) 25 '
+     'z\u0142 z huby..."',
+     'you marked this "not on page 86" - which print page holds '
+     'this sentence? (our page labels may drift from the print\'s '
+     'folios in the body; the sentence\'s true page would '
+     'recalibrate them)',
+     'the sentence opens the czynsz-gruntowy discussion.',
      None),
-    ('S38', 'B', pg('0077'), 'TABELA III (p. 62): garbled table + its '
-     'unlinked notes',
-     'the occupational table (Skład zawodowy ludności 36 osad '
-     'olęderskich powiatu poznańskiego) is heavily garbled, and its '
-     'four table-notes are unlinked: note 1 glued into the Razem '
-     'row ("Źródło miesza chałupników z komornikami..."), then '
-     '"2 Karczmarze i młynarze.", "3 nauczyciel, 4 lektorów '
-     '(Vorleser)." as stray lines.',
-     'TABELA III needs its own repair pass (like ANEKS I got). '
-     'Confirm from your print: the table\'s row/column structure '
-     'and where the four note-markers sit (the scan shows one: '
-     '"b. chałupnicy!" = note 1).',
-     'the table spans most of p. 62; the notes print below it. The '
-     'row data need a pixel-level re-read.',
-     None),
-    ('S39', 'B', pg('0016'), 'p. 1: notes 4 and 5 look swapped',
-     'after the split the notes read: 4 = "Patrz wykaz skrótów.", '
-     '5 = "Tamże." - but their markers sit at Maas⁴ and Schulz⁵ '
-     '(visible digits in the print).',
-     'if your print shows e.g. note 4 = "Tamże." and note 5 = '
-     '"Patrz wykaz skrótów." (or different texts), tell me - the '
-     'def ORDER should follow the print\'s note block.',
-     'the print\'s note block at the page bottom: read notes 4 and '
-     '5 verbatim.',
-     'S39_p1_full.png'),
-    ('S40', 'B', pg('0154'), 'row 115 (Sępolno): Charakter + Źródło '
-     '(re-ask)',
-     'Charakter `—c= z p"`, Źródło `Giszy z a zu"` (both garbage).',
-     'need your print copy\'s row 115 line (p. 139, Sępolno).',
-     'the row sits under glue from r116; the figures (11) are '
-     'verified.',
-     'S32_0154_r109_r115.png'),
-    ('S41', 'B', pg('0158'), 'rows 2 and 5 of the c-series (re-ask)',
-     'r2 Źródło `MY. AM. o. av..." TE > ">>`; r5 Charakter '
-     '`ZZ e ft I` (garbage).',
-     'you offered the rows - here they are needed: r2 (Głębockie '
-     'Olędry) Źródło and r5 (Krzyżowniki) Charakter.',
-     'the crops show both rows in context.',
-     'S34_0158_r1_r5.png'),
-    ('S42', 'B', pg('0140'), 'the three remaining raised digits: '
-     'note refs?',
-     '0140 r17 dymy `11 3`; p. 131 r102 dymy `29 3`; p. 136 r67 '
-     'dymy `28 1`.',
-     'if your print shows a superscript there (note 3 = "Razem z '
-     'Ol. Sosnowiec."?), give me the rows and I will convert them '
-     'to refs like 51[^1] and 165[^2].',
-     'r17\'s Dymy cell in the crop; the other two cells show the '
-     'same pattern (a big value + a small raised digit).',
-     'S42_0140_r17.png'),
 ]
-def pg(sheet):
-    return 'p. %d' % (int(sheet) - 15)
-
-
 # ---------------- the tables ----------------------------------------------
 def read_csv(name):
     p = os.path.join(HERE, name)

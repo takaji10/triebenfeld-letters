@@ -2244,6 +2244,12 @@ ANEKS I
 <!-- annex sheet 0139 -->
 
 
+TABELA VI
+
+Osady olęderskie w byłym powiecie kościańskim w okresie rozbiorów
+
+
+
 Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 * | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -2458,6 +2464,10 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 <!-- annex sheet 0144 -->
 
 
+* Dymy niektórych osad podane są w Tp. 89 zbiorowo dla całej osady; wysokość ich na poszczególne zagrody przeliczona została według Tp. 90.
+
+
+
 Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 * | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -2580,6 +2590,12 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 
 <!-- annex sheet 0147 -->
+
+
+TABELA VII
+
+Osady olęderskie w byłym powiecie poznańskim w okresie rozbiorów
+
 
 
 Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 * | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.
@@ -3036,6 +3052,10 @@ Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | 
 
 
 <!-- annex sheet 0158 -->
+
+
+Osady olęderskie w ziemi wschowskiej w okresie rozbiorów
+
 
 
 Lp. | Nazwa osady w okresie rozbiorów | Ówczesna parafia | Nazwa dzisiejsza | Rok założ. osady | Charakter terenu przed założ. osady | Przywilej lub wzmianka — sygn. źródła | data | L. dymów wg Tp. 89 lub 90 * | dymów oblicz. szacunkowo | Ludn. osad wg Tołł.

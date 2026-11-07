@@ -972,3 +972,39 @@ no duplication; the 0144-lower copy simply went unused). The printed
 folios in the bands (129 on the upper half, 130 on the lower half of
 0144's band; 130 again on 0145's band) PROVE the mapping - our page
 labels are correct as they stand.
+
+## SPOT ANSWERS round 2 applied + the closing state
+
+S36: 18 marker numbers wired at the ruled positions; the 4
+"can't find" glyphs deleted (the print shows no marker there).
+S37: 16 talarow (note 86-4), 11 tynfow + co 50 lat / 36 zl (p. 89 -
+consistent with note 89-3's "nach Verlauf von finfzig Jahren, zwei
+Dukaten zu achtzehn polnische Gulden" = 2x18 = 36 zl!), 19 gr
+(p. 107), 18 Reichstaler (the Folsztyn quote). The Ujskie "wyrosil
+___ zl" = NOT ON the editor's p. 86 -> our body page labels may
+drift from the print's folios (S50 re-ask).
+S39: the editor confirms note 4 = "Patrz wykaz skrotow." / note 5 =
+"Tamze." = our rebuild exactly.
+S40/S41: rows verbatim (0154 r115 Sąpolna + dashes; 0158 r2
+Głebocko/AW. A. 1-2/dual date "2 XI 1743 i 11 X 1744"; r5
+Krzyzewniki/rok dash/char dash/Kl. M.).
+S42: 0140 r17 = 11[^125-3] - the footnote graph is now FULLY closed
+(699 refs / 677 defs, zero unwired, zero orphans). The r21/r26
+stars confirmed as estimate-markers. The r14/r15 brace + 1152
+structure confirmed.
+NEW DISCOVERY (this round's footnote audit extension): the annex
+pages are portrait pages with the table printed sideways; the
+page-top furniture (running heads, folios, TABELA VI/VII titles,
+the column header's asterisk, the p. 129 asterisk-note) sat ROTATED
+in the scan margins and was missing from the transcription. Added:
+the two TABELA titles + the c-title (wording SPOT-pending), the
+header's '*', and the p. 129 asterisk-note (wording SPOT-pending).
+The "missing" p. 129/131 notes (Pożegowskie, Sroczewskie, Razem z
+Ol. Gory) turned out to be ALREADY transcribed and wired (defs
+129-1, 131-1, 131-2, 137-1, 137-2 from the earlier strip work).
+Also: sheet 0144 = a two-page spread (print pp. 129+130); 0145 =
+p. 130 re-photographed; folios read from the bands prove our page
+labels.
+DELIVERABLE: aneks_i.xlsx - ANEKS I laid out for the editor's
+formatting pass (282 rows, the print's segment structure marked,
+the annex notes on a second sheet).
