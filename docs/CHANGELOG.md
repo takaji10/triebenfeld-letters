@@ -5321,6 +5321,28 @@ footer on every page. Changed, in both languages:
   the couple-link shift formula, the altname line, the back link, the
   two-classed indentation rules - all present in the served CSS/JS.
 
+## 2026-11-06: the People list on a phone
+
+- **The six-column list scrolls sideways on a narrow screen instead of
+  overflowing it**: the table sits in a `.tscroll` wrapper
+  (`overflow-x: auto`, momentum scrolling on iOS) - the ID column
+  never hides to make it fit, the Gramps id appearing wherever a
+  person does being the editor's standing ruling, so the phone pays
+  with a swipe rather than the data with its absence.
+- **The Tree page's frame height follows the small viewport**
+  (`80svh`, the plain `80vh` standing first for older browsers): a
+  phone's URL bar collapsing and expanding no longer jitters the chart
+  frame, which otherwise breathed every time the bar hid.
+- Everything else the mobile audit found was already in place from
+  earlier rounds - the correct viewport meta, touch-first tree (drag
+  pans, two-finger pinch zooms, taps distinguished from drags by the
+  6px travel threshold, `touch-action: none`), the header nav dropping
+  to its own row below 640px, the search sidebar stacking under the
+  list below 900px, and wrapping flex/auto-fit grids on the person and
+  home pages.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own

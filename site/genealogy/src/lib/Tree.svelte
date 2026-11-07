@@ -488,8 +488,11 @@
     border-radius: 3px; background: var(--paper2); touch-action: none;
     cursor: grab; user-select: none; max-height: 78vh; }
   /* the dedicated tree page: a window on the page, not a strip - 80%
-     of the window's width and height (the editor's measure) */
-  .viewport:not(.embed) { width: 80vw; height: 80vh; max-height: none;
+     of the window's width and height (the editor's measure). svh is
+     the small-viewport height: a phone's URL bar collapsing no longer
+     jitters the frame (the plain vh stands first, for older browsers) */
+  .viewport:not(.embed) { width: 80vw; height: 80vh; height: 80svh;
+    max-height: none;
     margin: 0 auto; }
   .viewport.embed { max-height: 34rem; }
   .viewport:active { cursor: grabbing; }

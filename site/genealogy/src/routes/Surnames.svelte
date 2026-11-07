@@ -180,17 +180,22 @@
       <span class="stat">{shownGroups.reduce((s, [, r]) => s + r.length, 0)} people</span>
     </div>
 
-    <table class="plist">
-      {#each shownGroups as [sn, rows] (sn)}
-        <tbody>
-          <tr class="group" onclick={() => toggle(sn)}>
-            <td colspan="6">
-              <button class="ghead" aria-expanded={!!expanded[sn]}>
-                <span class="gname">{sn} <span class="gcount">({rows.length})</span></span>
-                <span class="arrow" class:open={!!expanded[sn]}>▸</span>
-              </button>
-            </td>
-          </tr>
+    <!-- the horizontal scroll the narrow screens need: the table keeps
+         all six columns (the ID column stays - the Gramps id appears
+         wherever a person does, the editor's ruling), the phone scrolls
+         sideways rather than the page overflowing -->
+    <div class="tscroll">
+      <table class="plist">
+        {#each shownGroups as [sn, rows] (sn)}
+          <tbody>
+            <tr class="group" onclick={() => toggle(sn)}>
+              <td colspan="6">
+                <button class="ghead" aria-expanded={!!expanded[sn]}>
+                  <span class="gname">{sn} <span class="gcount">({rows.length})</span></span>
+                  <span class="arrow" class:open={!!expanded[sn]}>▸</span>
+                </button>
+              </td>
+            </tr>
           {#if expanded[sn]}
             <tr class="ghead-row">
               <th class="c-ln">{i18n.t('col_lastname')}</th>
@@ -211,9 +216,10 @@
               </tr>
             {/each}
           {/if}
-        </tbody>
-      {/each}
-    </table>
+          </tbody>
+        {/each}
+      </table>
+    </div>
   </main>
 
   <aside>
@@ -306,6 +312,10 @@
   .sortbtns button.active { background: var(--accent); border-color: var(--accent);
     color: #fff; }
   table.plist { width: 100%; border-collapse: collapse; }
+  /* the list scrolls sideways on a phone instead of the page
+     overflowing - the ID column never hides (the Gramps id appears
+     wherever a person does, the editor's ruling) */
+  .tscroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
   tr.group td { padding: 0; border-bottom: 1px solid var(--rule);
     background: var(--card); }
   .ghead { display: flex; justify-content: space-between; align-items: center;

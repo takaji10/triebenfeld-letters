@@ -3405,4 +3405,10 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   when the run dies of a service error mid-flight; it does nothing when
   every attempt dies of the same built-in deadline. The action exposed
   a `timeout` input all along - raising it to 20 minutes fixed it.
+- **Don't hide the ID column to fit a screen.** The mobile audit's
+  tempting fix for the six-column People table was dropping the Gramps
+  id on narrow screens - but the editor's standing ruling is that the
+  id appears wherever a person does. A sideways scroll inside a
+  wrapper keeps both: the data intact, the page unbroken. When space
+  and a ruling conflict, scroll beats omission.
 
