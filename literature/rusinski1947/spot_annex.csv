@@ -1,10 +1,2 @@
 sheet,issue,detail
-0139-0146 (a),RESOLVED: series identity,a-series = powiat kościański: column sums 2386+92=2478 and ludn 12.967 match the body's p. 23 figures exactly
-0147-0157 (b),RESOLVED: series identity,"b-series = powiat poznański: 2071+38=2109 matches body p. 26; the body's 12.759 ludn is an ESTIMATE (2109 x 6.05), not the column sum"
-0140 r14/r15,RESOLVED: brace-pair row,"Borujskie Nowe/Stare figures print BETWEEN the two Lp lines (brace marks x4815/x5038); figures `165 3`/`1152` assigned to r14, r15 blank"
-0142 r54/r55,RESOLVED: continuation row,"r55 ""razem z"" is the continuation of r54's nazwa cell (Michorzewskie Olędry razem z Michorzewem); figures split per pixels"
-0144 r75-r86,RESOLVED: the 0144 dupe knot,rows re-established by Lp anchors + top-alignment; the doubled/bogus rows of the first OCR gone
-0154 r109-r111,OPEN: nazwa/parafia knot,figures pixel-confirmed (15/21/13*) but the nazwa/parafia/dzisiejsza distribution across the three rows sits under multi-line glue; r110 nazwa/parafia SPOT
-0146 + 0157 totals,OPEN: print RAZEM arithmetic,"a: 2386/92/12.967 vs pixels 2387/92/12958 (dymy mark-law, ludn d9); b: 2071/38/4.484 vs pixels 2059/38/~538 (ludn RAZEM aggregates beyond the column)"
-0158-0159 (c),RESOLVED: totals rows,"c-series ""Razem z poprzedn."" 2.178/38/4.514 and ""Ogółem"" 2.216/38/4.514 re-set as real rows (the leading ""4."" lost in the first reads)"
-all sheets,RESOLVED: star markers,"the print's `*` on dymy values = Tp. 89 ""zbiorowo"" estimates per Tp. 90 (body pp. 23-24); preserved on every starred cell"
+0139-0159 (ANEKS I),OUT OF SCOPE for now,"the editor will edit aneks_i.xlsx (282 rows, print segment structure marked) and reinsert the tables later; the markdown transcription is frozen as-is until then"
