@@ -4722,6 +4722,65 @@ footer on every page. Changed, in both languages:
   A short note under the table says the same in plain language, in the
   reader's language (map_morgen_note in i18n.yml): what the hectares are
   converted at, and that the survey's own figures are the desyatinas.
+- The page restructured to the editor's tab plan (2026-11-06): the index
+  of places back in the sidebar, close to the top as on the other maps'
+  pages, and everything below the map under four tabs - Texts on the
+  sheet (the title block and the certification), Adjoining lands (the
+  boundary table), The land-area table, Farmsteads - one pane at a time
+  on html[data-maptab] set before anything renders, every pane showing
+  without JS, the language tabs riding the same bar in the site's button
+  style. The land-area table loses the word explication (the editor: it
+  confuses) - the tab and the heading read "The land-area table" - and
+  gains Morgen and hectares beside the desiatinas: computed per row in
+  map_pages.py at one desyatina = 2400 square sazhens of 4.5522 m2
+  (about 1.09 ha) and the mórg nowopolski of the farmsteads' table
+  (0.5598 ha), the original-language pane keeping the table as written.
+  The figures corroborate the conversion independently: the basic
+  allotment's 870 des 1454 saz read back as 1,699 M 33 r against the
+  1868 statement's own 1,691 M 219 r - the same land within half a
+  percent - while the total of 2,085 M 116 r (1,167 ha) carries the
+  survey's ~23% growth in the additional allotment. The block's shared
+  rendering moved to an include (site/_includes/map-text-block.html);
+  a farm Locate from the farmsteads pane still flies the map, and a
+  farm focus brings its tab forward first. jekyll and verify_site ALL
+  CHECKS PASSED (61,294 links), the real-browser checks re-run (41/41).
+- The legend trimmed and the settlers' names re-formed, at the editor's
+  word (2026-11-06): the legend's own title ("Explanation of the signs" /
+  Erklärung der Zeichen) shows no longer - the section heading and the
+  language tabs say what is what, so the legend table needs no language
+  column of its own either; and every settler's name now reads given
+  name, surname (Jakub Kończyński, Martin Gibel, Karl Benjamin Schwebs),
+  the Russian transliterations' surname-first order not carried into the
+  display - 82 rows re-formed in farms.yml, the map's pills and document
+  6's translation table following (apply_doc6_names.py re-run, 82 names
+  synced). The bracketed markers are off the display names too: rows 12
+  and 25 read Gottlieb Śliwiński and Szczepan Promins, row 77 Christian
+  Haupt - the doubt stays where it belongs, in the conjectural asterisk
+  and the row's note; row 12's collation had found all three witnesses
+  agreeing, so the display ruling lifts the pending doubt there (its
+  norm_note records it), while 25 and 77 keep their asterisks.
+- The page restructured to the editor's tab plan (2026-11-06): the index
+  of places back in the sidebar, close to the top as on the other maps'
+  pages, and everything below the map under four tabs - Texts on the
+  sheet (the title block and the certification), Adjoining lands (the
+  boundary table), The land-area table, Farmsteads - one pane at a time
+  on html[data-maptab] set before anything renders, every pane showing
+  without JS, the language tabs riding the same bar in the site's button
+  style. The land-area table loses the word explication (the editor: it
+  confuses) - the tab and the heading read "The land-area table" - and
+  gains Morgen and hectares beside the desiatinas: computed per row in
+  map_pages.py at one desyatina = 2400 square sazhens of 4.5522 m2
+  (about 1.09 ha) and the mórg nowopolski of the farmsteads' table
+  (0.5598 ha), the original-language pane keeping the table as written.
+  The figures corroborate the conversion independently: the basic
+  allotment's 870 des 1454 saz read back as 1,699 M 33 r against the
+  1868 statement's own 1,691 M 219 r - the same land within half a
+  percent - while the total of 2,085 M 116 r (1,167 ha) carries the
+  survey's ~23% growth in the additional allotment. The block's shared
+  rendering moved to an include (site/_includes/map-text-block.html);
+  a farm Locate from the farmsteads pane still flies the map, and a
+  farm focus brings its tab forward first. jekyll and verify_site ALL
+  CHECKS PASSED (61,294 links), the real-browser checks re-run (41/41).
 - The map page cleaned up at the editor's word (2026-11-06), to read like
   the other source pages: the prose note under the Farmsteads heading is
   gone (the hectares note stays); "The farmsteads" reads Farmsteads
@@ -4735,6 +4794,670 @@ footer on every page. Changed, in both languages:
   the tables below now brings the map into view as it flies (the viewer
   scrolls into view; a farm Locate no longer scrolls the page to the row
   it came from).
+
+## 2026-11-06: the genealogy explorer loads on a project-site deployment
+
+- The explorer hung forever on "Loading the family database …": its built
+  shell asked for the bundle at the absolute /genealogy/assets/app.js,
+  which only exists when the site is published at a domain root. Published
+  as a project site (takaji10.github.io/triebenfeld-letters/), that URL
+  fell to the server's HTML 404 page, the browser refused the module
+  (Firefox: "disallowed MIME type (text/html)"), and nothing replaced the
+  boot screen. The top-bar link and every data fetch already resolved
+  relative to the page; the bundle reference alone was absolute.
+- The fix (site/genealogy/vite.config.js): base is './', so the built
+  shell references ./assets/app.js and ./assets/index.css and the same
+  committed build serves under a user site, a project site or any other
+  prefix. The committed assets (assets/app.js, index.css, index.html)
+  were rebuilt with it.
+- verify_site.py's link check resolved every URL against the site root,
+  so a document-relative reference read as broken. It now resolves
+  ./- and ../-prefixed URLs against the page's own directory - the
+  browser's own rule - and passes with the project baseurl as with none.
+- The loading page now speaks when the application never arrives
+  (shell.html, the source of the built index.html): a plain inline watch
+  shows troubleshooting guidance the moment the module script fails to
+  load, and after 15 s at the latest - a wrong address, a connection
+  problem, a content blocker or browser settings that block scripts -
+  with a hard-reload reminder and a link back to the archive home,
+  English with German beneath (the visitor's browser language picks the
+  lead). The application module stands the watch down the moment it runs
+  (window.__zfBooted in src/main.js).
+- Inside the application the boot screen gained a progress bar - the
+  eight opening files of the database fetch tick it along
+  (db.progress in src/lib/db.svelte.js) - and after eight seconds a
+  quiet hint that a slow connection or a content blocker can hold the
+  database back, in all three interface languages (boot_loading,
+  boot_slow in src/lib/i18n.js).
+- Built clean and checked: jekyll build and verify_site ALL CHECKS PASSED
+  twice over, once with the default baseurl and once with
+  /triebenfeld-letters (63,294 internal links each), and the built
+  genealogy page and its bundle served and fetched through a local
+  server under a nested prefix, the bundle answering text/javascript.
+- Found on the live site the same day, once the application finally
+  loaded for a visitor: the static boot placeholder survived the mount,
+  the "Loading the family database" line sitting above the rendered
+  application. Svelte 5's mount() appends to its target - it does not
+  replace what is inside (the clear the old shell design leaned on runs
+  only in the hydration error path) - so src/main.js now clears #app by
+  hand before mounting, and if the mount itself throws it leaves a word
+  on the page instead of a blank one. Rebuilt and re-checked the same
+  way (both baseurls, ALL CHECKS PASSED).
+
+## 2026-11-06: the genealogy explorer - the Lacho branch finished, the
+## media URLs repaired, sorting and IDs on the people lists, the tree on
+## the person page
+
+- **The exclusion now removes what it always said it would.** The old
+  fixpoint's rule - a child with one kept parent stays - deadlocked
+  against itself: a removed sibling's children kept the outsider spouse
+  alive (the spouse was the kept parent), and the spouse kept the
+  children alive, so the sibling's whole line survived the cut it was
+  ruled out of. The published database carried Larry's siblings'
+  descendants (I2190-I2192 through their mother I2189, I2202-I2203
+  through I2201, I2194 through I2243). prune.py now computes the ruling
+  of PLAN.md 4.3 as three passes: the seed (the blood ancestors of the
+  roots), the protected line (the roots and their blood descendants -
+  the "except through I0005"), and the branch (every blood descendant of
+  the seed the walk reaches without passing the protected line); then
+  the old fixpoint sweeps the hangers-on, spouses married only into
+  removed lines now going regardless of their own natal family (the
+  ruling removes the spouse; their parents and siblings married into
+  nothing). Measured: 328 people, 245 media, 115 families removed (was
+  78/70/19); 4,111 people published (was 4,361). Checked on the real
+  data: no protected person is removed, Larry stays, and none of the
+  170 blood-removed people has a kept co-parent - the plan's mixed-
+  marriage ambiguity never arises in this database. The build's two
+  remaining "note mentions an excluded person" items (I0486, I2073) are
+  the standing editor's-call class.
+- **Every image on the site was broken, shown as "image not
+  published".** The manifest's file fields are relative to the media
+  repo's media/ directory (the docx entries' originals/ prefix shows the
+  convention), but config.yml's media.base lacked the media/ segment, so
+  the viewer asked takaji10.github.io/genealogy-media/<hash>.jpg for a
+  file that lives at .../media/<hash>.jpg - 404, the img's onerror fired,
+  and the viewer fell back to its missing-note. Found on I3131 (Andreas
+  Landkammer, his birth record C1796 and death record C0707); every one
+  of the 1,698 published items was affected. The base now carries the
+  segment (config.yml), the data rebuilt, and the URLs verified against
+  the live repo B (200 for the display and thumbnail shapes).
+- **The tree route was dead code: it threw on render.** Tree.svelte
+  iterated a `links` identifier it never declared - the layout returns
+  {nodes, links, ...} but the component never derived it - so
+  #/tree/<id> died with a ReferenceError the moment it rendered. Fixed
+  (links is a derived of the chart now), and the component gained what
+  the fix exposed as missing: the cards carry the person's ID (the cards
+  grew a third line), the chart centres on the focus person instead of
+  top-aligning, and an embed mode for the person page - the mode pills
+  switch a local state and the chevron re-roots the chart locally, both
+  without leaving the page, and a plain wheel scroll moves the page
+  while Ctrl+wheel zooms (pinch always zooms).
+- **The person page shows the tree.** An interactive hourglass chart
+  (pedigree and descendants one pill away) sits under the header:
+  clicking a card opens that person's page - the move up and down the
+  tree - and the chevron re-centers the chart on them in place.
+- **IDs are shown wherever people are listed** (the editor's ruling:
+  Gramps IDs are the join key of the whole project): the surname page's
+  people table gained an ID column, search results and the place pages'
+  event tables carry the ID beside the name, the person page's relations
+  (parents, siblings, spouses, children) carry it, the header shows the
+  person's own ID as a pill, and the tree cards show it under the years.
+- **The surname index sorts.** Three orders on the index - by count
+  (the old default, ties broken A-Z), A-Z, Z-A - and two on a surname's
+  people table (A-Z, Z-A, by display name; the old sort was by given
+  name alone). Buttons on the page, labels in all three interface
+  languages (sort_az, sort_za, sort_count, siblings new in i18n.js).
+- **Parents and siblings on the person page carry life dates** - the
+  parents section shows each parent's years beside the ID, the new
+  siblings section (the other children of the same parent family) shows
+  the same, and the spouses and children under partnerships show theirs.
+- Built: data from the 5 NOV 2026 GEDCOM (4,111 people, 1,440 families,
+  1,698 media, 1,105 places), app rebuilt, jekyll and verify_site ALL
+  CHECKS PASSED with the project baseurl and with none (63,294 internal
+  links each), the new data and shards served and fetched through a
+  local server, and the tree layout exercised headlessly against the
+  new families (I3131's six siblings render, I0005's cut famc renders
+  honestly without parents).
+
+## 2026-11-06: the exclusion widened to the ancestors' whole world
+
+- The editor found Trzeciaks, Chikowskis and Klowaks still in the
+  database and ruled: everything connected to Larry only through his
+  ancestors goes, in all directions. The morning's cut had followed
+  blood alone, which left the in-laws' own families standing behind the
+  removed spouses - Tatianna Trzeciak (married into the Lechów line)
+  was gone but her father and siblings stayed; a branch Rychlicki's
+  Klowak-named children stayed where their father link was unrecorded;
+  the Roths sat behind a living Lacko in-law. prune.py now partitions
+  the database by connectivity instead of running a rule fixpoint: the
+  seed (Larry's blood ancestors), the kept world (everything reachable
+  from Larry through ANY family link without entering the seed - his
+  descendants, their spouses' families, the Zelmer side entire), and
+  the removed world (the seed plus everything reachable from it without
+  entering the kept set). A person reachable from both worlds stays -
+  a branch member who married back into Larry's world belongs to both,
+  and in this database there are none. Measured: 418 people, 279 media,
+  146 families removed (was 328/245/115); 4,021 people published (was
+  4,111). Checked: Trzeciak, Chikowski, Rychlicki, Klowak, Roth, Masluk,
+  Ribachuk, McKay, Vogt, Sawuła and Lacho at zero in the published
+  index; no one removed by the previous cut comes back; no core
+  Zelmer-side surname (Zelmer/Zellmer/Celmer/Cellmer, Flatt, Fengler/
+  Fingler, Koss, Strecker, Schmidt) is touched.
+- Two [Living] Trzeciak placeholders (I1232, I1235) are an island: a
+  husband and wife married to each other with no parents, children or
+  events, and no recorded link to any other person - no walk can reach
+  them. The config gains exclusion.people, an explicit list for such
+  islands, named by the editor's ruling and reported like the rest of
+  the cut; build.py and media_build.py pass it so both builds exclude
+  the same set.
+- Built: data rebuilt (4,021 people, 1,408 families, 1,666 media,
+  1,083 places), jekyll and verify_site ALL CHECKS PASSED with the
+  project baseurl and with none (63,294 internal links each).
+
+## 2026-11-06: the person page's grey film lifted; the tree re-laid on
+## d3-flextree and re-interacted
+
+- **The grey screen over the whole person page was the media viewer's
+  dimming halo.** When the editor has drawn a Gramps focus rectangle on
+  an image, the viewer dims the photo around it with a box-shadow whose
+  spread is 9999px - meant to darken the photograph outside the region,
+  but .frame did not clip, so the halo painted a grey film over the
+  entire page (the header, the tree, everything; I1751 Anna Hrycyna's
+  birth record C1805 was the one seen). It had been latent since the
+  viewer was written: until the morning's media-base fix every image
+  404ed and no figure ever rendered. .frame now carries
+  overflow: hidden, the halo stays inside the photograph where it
+  belongs, and the region outline keeps drawing.
+- **The tree layout now comes from d3-flextree** (WTFPL, the standard
+  tidy-tree algorithm - Reingold-Tilford 1981 in van der Ploeg's 2013
+  linear-time form - extended to variable node sizes), bundled locally
+  like every dependency: the site keeps its zero-CDN rule. The
+  hand-rolled layout it replaces could not keep couples from
+  overlapping the neighbouring cards (the same page, Anna Hrycyna's
+  hourglass, showed Josephus Zieliński's card across hers). The
+  genealogy semantics stay in tree.js: upward, every parent is a node
+  of its own so both blood lines walk to their depth; downward, the
+  spouse sits beside the person and the children hang beneath the
+  couple; the hourglass aligns the two tidy trees on the focus row.
+  Limits widened to five generations up, four down.
+- **The interaction follows the editor's description**: scroll zooms
+  the chart (wheel, and pinch on touch; no more Ctrl-only on the
+  embedded chart), drag pans, and clicking a card brings that person
+  into view and expands their tree around them - re-rooting in place on
+  the person page (local state) and through the URL on the tree route
+  (the mode rides along in the query). The corner chevron opens the
+  person's page. A hint line under the chart says so, in all three
+  interface languages (tree_hint in i18n.js).
+- One API trap recorded: d3-flextree's layout function wants hierarchy
+  nodes - calling it on raw data wraps them halfway and the nodeSize
+  accessor then meets a node without .data. layout.hierarchy(data) then
+  layout(tree) is the sequence.
+- Checked: a headless layout battery over five people in all three
+  modes (check_tree_layout.mjs in site/genealogy) - no card overlaps
+  anywhere, every link endpoint lands on a card edge; jekyll and
+  verify_site ALL CHECKS PASSED with the project baseurl and with none
+  (63,294 internal links each); bundle rebuilt (84.7 KB gzipped).
+- **Centring corrected the same day** (the editor: on refresh the tree
+  did not sit on its person): the view had been centred on the chart's
+  bounding box - the middle of everything drawn, not the person - and
+  the transform's base shift was left out of the arithmetic besides.
+  The layout now reports the focus card's own centre (focusX/focusY,
+  base included) and center() aims there; "fit" keeps using the whole
+  box. The battery asserts the focus point lies on the focus card and
+  inside the chart for every case.
+- **The person page, the places pages and the dates, reworked to the
+  editor's remarks of 2026-11-06:**
+  - the tree's re-rooting made visible: the new focus card pulses
+    (a stroke animation for a second and a half), the chart carries a
+    caption naming the centred person with their ID, and the corner
+    chevron (which opens the person's page) appears on hover with the
+    tooltip "Go to the person's page";
+  - round avatars for everyone: a male/female placeholder disc (♀/♂ on
+    the tinted field) on every tree card and at the head of the person
+    page, replaced by the person's actual photograph where the database
+    has one (51 people have a picture: a photo- or portrait-named media
+    file, person-level or hanging off a citation - a birth record is a
+    document about the person, not a picture of them, so documents do
+    not serve as portraits); the tree cards carry the portrait as a
+    clipped circle;
+  - the person's ID sits beside their name in the header (small
+    monospace after the name), not as a badge underneath; the sex is a
+    bare symbol with no pill and no label;
+  - "Partnerships" reads "Spouses and children" (Ehepartner und
+    Kinder / Małżonkowie i dzieci);
+  - dates standardised: a new lib/dates.js renders the GEDCOM raw texts
+    into the interface language - "13 MAR 1905" becomes March 13, 1905,
+    13. März 1905, 13 marca 1905; qualifiers speak ("about 1874" /
+    etwa / ok.); ranges join with a dash; anything unrecognised falls
+    back to the raw text. Parents, siblings, spouses and children show
+    their full formatted life dates (the index now carries the raw
+    birth and death texts beside the years), as do the timeline, the
+    marriage line and the place pages' event lists;
+  - the life events timeline includes the person's marriages, divorces
+    and annulments (the editor: everything belongs in the timeline),
+    each row naming the spouse - "married March 13, 1905 with X" -
+    with the link and the spouse's ID; the place of every event stands
+    inline in the row beside the date, as with marriages;
+  - the media opens: a click on a thumbnail (or Enter on it) opens the
+    full image in a lightbox - dark overlay, the display-size
+    derivative, caption, Escape or click to close (the thumbnail had
+    been inert since the viewer was written);
+  - the Places page gained the map of its geocoded places above the
+    list, and A–Z navigation buttons (the letters actually present,
+    toggle behaviour, All to clear) beside the text filter;
+  - the map gained a layer switch - Map (OpenStreetMap) and Satellite
+    (Esri World Imagery), both keyless raster tiles - built into
+    MapView, so the Places page, the Place pages and the full map route
+    all carry it;
+  - the place pages speak: event labels are written out (Marriage, not
+    MARR; the tags were the database's codes), family events name the
+    couple ("Marriage · Joannes Thomas Zieliński & Catharina Hrycyna")
+    with links and IDs instead of "family F1326", and the date column
+    shows the formatted full date, not just the year.
+- Data rebuilt for it: the index carries the raw life dates and the
+  portrait pointers (resolved through the media manifest at build
+  time), the person shards the family events with the spouse's id and
+  name; 4,021 people, 51 portraits. jekyll and verify_site ALL CHECKS
+  PASSED with the project baseurl and with none (63,294 internal links
+  each); the date formatter exercised headlessly in all three
+  languages; the layout battery passes.
+
+## 2026-11-06: tree cards, avatars and the header, refined
+
+- **Long names no longer cut off** (the editor, on Jan Fryderyk
+  Zelmer): the card's name line wraps to two lines when needed - SVG
+  text does not wrap, so the words are laid by hand (nameLines in
+  Tree.svelte) - and a line that would still overflow is compressed to
+  the card's text width with SVG's textLength/lengthAdjust, the
+  browser's own fitting; a single unbreakable token (a name written
+  without spaces) loses its end to an ellipsis. The card grew its
+  lines to make room (name at y 14/27 or 21, years at 40, ID at 52).
+- **Clicking a person in the tree now opens their page** (the editor's
+  preference): the move through the tree is a navigation, not a
+  re-layout - the card flash marks the click for a quarter second
+  before the page turns, and the mode pills remain the way to re-root
+  the chart in place. The corner chevron (which had opened the same
+  page) is retired with its plumbing, the click behaviour being
+  identical; the hint line says "Click a person to open their page".
+- **The placeholder avatar is a silhouette** - a head-and-shoulders
+  figure on the tinted disc, drawn once as an SVG snippet and reused -
+  instead of the sex symbol; the sex remains on the card border's
+  colour and in the header.
+- **The person header gains the life dates after the sex symbol** -
+  the same formatted life line the relations show (12 MAR 1879 renders
+  as March 12, 1879).
+- Also repaired on the way: an encoding round-trip through a
+  cp1252-decoded write had mojibake'd Tree.svelte's non-ASCII
+  characters (… › and friends); detected by listing the file's
+  non-ASCII set and reversed by encode-cp1252/decode-utf-8.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none (63,294 internal links each); the layout battery
+  passes; the name-fitting checked over the whole index (the 43-char
+  longest name renders as two compressed lines, no overflow).
+
+## 2026-11-06: the People page, the big family tree, and the person
+## page's relations re-drawn
+
+- **The Surnames page is now People** (nav label in all three
+  languages): the surnames stand as collapsible groups - the row
+  carries the name, the count and a turning drop-down arrow, the
+  click expands the surname's full list; an expand/collapse-all button
+  sits above the table. The list columns are Lastname, Firstname(s);
+  ID; gender; birth date; death date (the dates formatted).
+- **The search sidebar** stands on the right of the People page:
+  name, ID, gender (drop-down), birth-year from/to, birth place with
+  autocomplete over the database's places, death-year from/to, death
+  place with autocomplete, and the event type as a drop-down. Find
+  filters the list and opens every group with hits; Clear resets.
+  The event-type filter checks each candidate's person shard (lazy,
+  batched) for an event of that tag.
+- **The big family tree**: the nav gains "Family tree" and the home
+  page a start card, both aimed at the start person I2867 - Boguslaus
+  Celmer, the oldest-known Zelmer, named so by the editor - whose
+  chart opens in a new "big" mode: fourteen generations up, ten down
+  (the embedded chart keeps its small radius; the tree route's mode
+  pills gain a ⊞ big view). The layout of I2867's big chart measures
+  852 cards over a 117,000-px canvas, laid in 6 ms with zero overlaps;
+  scroll zooms, drag pans, and clicking a card opens the person.
+- **The person page's relations re-drawn** (the editor's remarks):
+  - the "In the tree" section and its embedded chart are gone - the
+    header's "In the tree" pill was retired earlier; the person page
+    reads as a record now, the tree lives on the Family tree page and
+    the tree route;
+  - the person's name is no longer bold (font-weight 400);
+  - every relation row carries a small round avatar - the person's
+    picture, or the silhouette placeholder;
+  - parents and siblings are one section, "Parents and siblings"
+    (Eltern und Geschwister / Rodzice i rodzeństwo): the parents first,
+    the couple's marriage (and divorce/annulment, with dates and
+    place) named beneath them, the siblings hanging beneath as
+    sub-items on an indented rule; a person with siblings but no
+    recorded parents keeps a plain Siblings section;
+  - parents and siblings show their birth and death places beside
+    their dates (the index now carries bp/dp - 1,599 people with a
+    recorded birth place, 925 with a death place; index.json grows
+    574 to 759 KB);
+  - "Spouses and children" delineated: the spouse stands as its own
+    row with avatar, life line and the marriage line, and the children
+    hang beneath as sub-items on an indented rule - plainly the
+    spouse's, not a flat list.
+- **The citation images render at display size**: the media viewer's
+  default src was the 400-px thumbnail - the record photographs inside
+  the opened citations were pixelated (the editor, 2026-11-06). The
+  viewer now shows the display derivative by default (the thumbnail
+  remains for the index's portrait pointers); the lightbox and the
+  region toggle behave as before.
+- **Links in the citations are clickable**: a URL inside the source's
+  publication string is rendered as a link on the source title (target
+  _blank).
+- Also fixed: the silhouette placeholder's shoulders arc is clipped to
+  its disc now (a per-card clipPath; the arc is deliberately wider
+  than the circle, and unclipped it painted outside the round frame).
+- Data rebuilt for the index's new fields; jekyll and verify_site ALL
+  CHECKS PASSED with the project baseurl and with none (63,294
+  internal links each); the layout battery passes; the big chart
+  exercised headlessly (852 nodes, zero overlaps, 6 ms).
+
+## 2026-11-06: the face avatars, the relations as cards, and the People
+## page refined
+
+- **The avatars are the editor's region-box crops** (1,077 of them):
+  the focus rectangles the editor drew on the media references mark the
+  person's head, so the media build now crops the avatar square around
+  the box's centre (the box's own extent, a 15% margin, 96 px JPEG,
+  content-hash name with the `_a` suffix) and writes avatars.json
+  beside the manifest; the site build resolves each person's avatar
+  through it - the avatar is the face, not the whole scan. Privacy
+  holds: living people and the excluded branch are never cropped. Two
+  bugs fixed on the way: the region ids come from data.gramps bare
+  (I0001) while the GEDCOM xrefs are wrapped (@I0001@), so the first
+  pass found no candidates at all; and the index's avatar assignment
+  reused a `row` variable that only existed when a photo had been
+  chosen, silently writing 43 of 1,077 avatars into other people's
+  rows.
+- **The relations are cards, without drawing cards** (the editor's
+  wording): avatar left, then two lines - name and ID on the first,
+  "born March 12, 1879 · Olesko" and "died August 7, 1875 ·
+  Angelówka" on the second (the index's bp/dp places ride beside the
+  formatted dates). The parents' marriage/divorce lines carry a bullet
+  and stand spaced between the parents and the siblings; the siblings
+  hang indented from the parents - the vertical bar is gone everywhere
+  (parents/siblings, spouses' children, the partnership rows).
+- **The tree is back on the person page** under a "Family tree"
+  heading - the editor: removing the pills had removed the chart with
+  it; the pills live on the tree route only now, the embedded chart
+  shows plain.
+- **The People page refined**: group names no longer bold (the
+  person-page type scale), the counts quiet in parentheses after the
+  name instead of a large badge, the drop-down arrow moved to the
+  right edge of the row; sort controls beside Expand all (A-Z, Z-A,
+  by count with a high/low toggle on re-click); a small column-head
+  row (Last name / First name(s) / ID / ♀♂ / Born / Died) opens with
+  each expanded group; the main column holds the site's content width
+  (58rem) with the sidebar free beyond it to the right; the
+  colspan="5"/six-column mismatch that squeezed the expanded tables
+  narrower than the surname rows is fixed (colspan 6).
+- **The lightbox shows the derivative at its natural size** - the
+  editor zooms into record scans to read them; the 96vw cap that
+  shrank a 2000-px scan to a third of its pixels is gone (the overlay
+  scrolls), and the citation images render at display size from the
+  previous round already.
+- **Navigation reshaped** (the editor's remarks): "Family tree"
+  renamed Tree and moved to second after Home; the Search page
+  removed (People's sidebar covers it - the route still answers for
+  old links but no nav item carries it); the Map link removed - the
+  Places page's map is the map now, rendered full-bleed (wider than
+  the content column, edge to edge) and taller; the tree route's
+  main column drops its 58rem cap so the big chart spans the page.
+- Data rebuilt (1,077 face avatars in the index); jekyll and
+  verify_site ALL CHECKS PASSED with the project baseurl and with
+  none; the layout battery passes.
+
+## 2026-11-06: the master tree as a window, the expanding card
+
+- **The tree renders in parts now** (the editor: the whole graph at
+  once becomes impossibly wide - I2867's chart measured 852 cards over
+  a 117,000-px canvas). The chart is a two-generation window: the
+  focus's parents and grandparents above, children and grandchildren
+  below - I2867's window is 31 cards. The navigation arrows below the
+  chart ("↑ ancestors" / "↓ descendants", shown only when more tree
+  exists beyond the window - hasMoreUp/hasMoreDown in tree.js) slide
+  the window one generation: the next step renders while the far row
+  derenders, the layout recomputed from the new focus. Clicking a card
+  no longer navigates (that took the user away from the master view
+  unexpectedly); the mode pills on the tree route re-root by URL, and
+  the detail panel's "Centre the tree here" re-roots in place.
+- **The card expands in place**: a click opens a detail panel over the
+  viewport at the card's screen position - avatar, name, ID, born
+  date + place, died date + place, the privacy note for the living -
+  with two actions: "Go to the person's page →" and "Centre the tree
+  here". It closes on its ×, a second click on the card, or when
+  another card opens (the panel rides the current transform, so it
+  stays on its card while you pan - and is recomputed from the chart
+  on any re-layout). The HTML panel sits over the SVG (positioned from
+  the chart coordinates through the current pan and zoom), which keeps
+  the text selectable and the layout in CSS rather than foreignObject.
+- The layout battery now asserts the window radius (no card further
+  than the window's rows from the focus) alongside the overlap, link
+  and focus checks; the arrow booleans exercised per person (I2867:
+  down only - his ancestors stop with him; I0003/I0007/I3131: up).
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none (63,294 internal links each).
+
+## 2026-11-06: the avatars corrected to photos only; the person page
+## and the tree fixed
+
+- **The avatars were mostly crops of handwriting** (the editor caught
+  it: "you appear to have just taken whatever image is in a person's
+  folder" - I1706's avatar was a slice of his population register): the
+  region boxes on record scans mark where the person's *name sits on
+  the form*, not their face, so 1,037 of the 1,077 avatar crops were
+  meaningless slivers of documents. The media build now crops an avatar
+  only from photo/portrait-named media - a drawn region crops the face
+  (40 people), a photo without one centre-crops square on the whole
+  picture (12 more, e.g. I0076's obituary photo); everyone else wears
+  the silhouette, as it should be. 51 avatars in the rebuilt index;
+  repo B republished.
+- **The indentation that wasn't**: `ul.people { margin: 0 }` stood
+  after `ul.kids { margin-left: 2.4rem }` in the style block and, at
+  equal specificity with Svelte's scoping preserved, zeroed the
+  sub-groups' indent - the siblings under parents and children under
+  spouses had rendered flush. The relation rules now carry two classes
+  each (ul.people.kids) so they win on specificity, not order.
+- The embedded family tree on the person page grew taller
+  (max-height 26rem to 34rem).
+- **The alternative names are their own line under the header** - the
+  GEDCOM's second NAME records ("birth: Gottlieb Celmer" on I1706)
+  had worn pills that read as nonsense; the pill is gone, the line
+  quiet beneath the name/ID (altname in Person.svelte), the type word
+  kept where the record gives one.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes.
+
+## 2026-11-06: the tree page sized, the couple links landing true
+
+- **The Tree page's chart is a window on the page**: 80% of the
+  window's width and 80% of the viewport's height, centred (the
+  editor's measure); the embedded chart on the person pages keeps its
+  own size.
+- **Opening a card centres the view on it** - the panel opened at the
+  viewport's edge was cut off; the click now also pans so the card
+  sits mid-viewport.
+- **The expanded card renders inside the chart** (a foreignObject at
+  the card's chart coordinates) instead of an HTML overlay positioned
+  by the current transform: it pans and zooms with the tree like every
+  other piece, which is what the editor asked for. The pointer handler
+  stands down for presses inside the panel so its links and buttons
+  survive the pointer capture (the Firefox lesson again).
+- **The couple links land on the blood person's card** (the editor's
+  screenshot: the line into Krystyna Celmer and Bogusław Stark landed
+  between the spouses, unreadable as to who married in): the endpoint
+  shifts from the block's centre to the blood card's centre by
+  (w·CELL − CARD_W)/2 where the node renders a spouse - computed for
+  the child side and the parent side of every descendant link, and for
+  the focus row's upward links (whose spouse the ancestor tree's own
+  nodes do not know about). Verified on I2889: both the link in from
+  her parents and the links out to her children start and end at her
+  card's centre, x = −91 in chart units.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes.
+
+## 2026-11-06: the deploy step given time to breathe
+
+- **The Pages backend slowed and the deploy action's own timeout gave
+  up**: the deploy for the tree-page round (cecfe0a5c) failed four
+  times in a row at `actions/deploy-pages@v4` - the run, two
+  `gh run rerun --failed` attempts, and a fresh empty-commit head -
+  each dying with "Timeout reached, aborting!" while polling the
+  deployment status. The logs told the story: the first attempts polled
+  an *empty* status for five minutes, but the fresh head reached
+  `syncing_files` - real progress - and was cancelled by the action's
+  5-minute default anyway. The fix was patience: the action's `timeout`
+  input now allows 20 minutes (pages.yml), and the next deploy passed.
+  Rerunning a failed deploy was the wrong lever here; reading the log
+  first found it.
+- The tree-page work rode out unchanged on the successful deploy and
+  was verified live: 80vw/80vh viewport, foreignObject detail panel,
+  the couple-link shift formula, the altname line, the back link, the
+  two-classed indentation rules - all present in the served CSS/JS.
+
+## 2026-11-06: the People list on a phone
+
+- **The six-column list scrolls sideways on a narrow screen instead of
+  overflowing it**: the table sits in a `.tscroll` wrapper
+  (`overflow-x: auto`, momentum scrolling on iOS) - the ID column
+  never hides to make it fit, the Gramps id appearing wherever a
+  person does being the editor's standing ruling, so the phone pays
+  with a swipe rather than the data with its absence.
+- **The Tree page's frame height follows the small viewport**
+  (`80svh`, the plain `80vh` standing first for older browsers): a
+  phone's URL bar collapsing and expanding no longer jitters the chart
+  frame, which otherwise breathed every time the bar hid.
+- Everything else the mobile audit found was already in place from
+  earlier rounds - the correct viewport meta, touch-first tree (drag
+  pans, two-finger pinch zooms, taps distinguished from drags by the
+  6px travel threshold, `touch-action: none`), the header nav dropping
+  to its own row below 640px, the search sidebar stacking under the
+  list below 900px, and wrapping flex/auto-fit grids on the person and
+  home pages.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes.
+
+## 2026-11-07: the empty big tree found and fixed
+
+- **The big tree loaded with nothing in it** (the editor, this
+  morning): the chart SVG is sized to the whole layout (the I2867
+  window is 8,630×296), and an SVG clips its children to its own box
+  by default. The load-time centring translates the focus to the
+  middle of the *viewport div* - with the div now 80vh tall, that
+  landing point (y≈308) sat below the SVG's own 296px bottom edge, so
+  every card was clipped away and the frame showed tan emptiness. The
+  old content-sized viewport had accidentally kept the landing point
+  inside the box; the explicit height exposed the design's hidden
+  assumption. The fix is the standard pan/zoom setup: `overflow:
+  visible` on the SVG - the viewport div's `overflow: hidden` is the
+  one clip that matters - and the transform is now free to carry cards
+  anywhere in the frame (the foreignObject detail panel included, which
+  the same clip would have cut when panned below the chart).
+- The frame is **70svh** tall now (the plain 70vh standing first for
+  older browsers), the editor's measure.
+- **Centring on load is guaranteed**: the effect that centres the
+  focus retries on the next animation frame when the viewport has no
+  layout yet (the data can arrive before the CSS has sized the frame),
+  which previously would have silently left the view at the origin.
+- Verified with headless Edge screenshots against the local build: the
+  tree route shows the hourglass centred on Boguslaus Celmer at
+  desktop and phone widths; the person-page embed still centres on its
+  person. jekyll and verify_site ALL CHECKS PASSED with the project
+  baseurl and with none; the layout battery passes.
+
+## 2026-11-07: the tree page dressed, the fit button honest
+
+- **The page has its title** - "Tree view" (Baumansicht, Widok
+  drzewa) above the chart on the tree route; the person-page embed
+  keeps its "Family tree" heading.
+- **Everything the tree owns is edge-aligned**: title, mode buttons,
+  chart frame, navigation arrows and hint text sit in one 80vw column
+  (`.treewrap.route`), so the buttons no longer ran past the chart's
+  edges - they had spanned the full page width while the frame was
+  80vw centred.
+- **The fit button fits.** It scaled the chart to the frame but clamped
+  the result at the 0.3 interactive-zoom floor - on a wide chart that
+  left the chart larger than the frame and the button looked like it
+  only centred (the editor's suspicion was right). Fit now computes its
+  scale without the floor (the interactive floor drops to 0.05 so the
+  fitted scale is not snapped back), and a new **⌖ button returns to
+  the focus person at reading size** after a fit. Both carry tooltips.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes; verified with a headless
+  Edge screenshot of the aligned page.
+
+## 2026-11-06: the way home in the explorer's navbar
+
+- The navbar carries a "← Traces in the Sand" link after the app's own
+  tabs (accent-weighted, so it reads as a way out, not a section). The
+  target is computed from the document URL - two levels up from the
+  app's directory - not hard-coded, the same prefix-independence the
+  rest of the shell already observes (an absolute path here would have
+  been this explorer's first bug once more).
+- **The tree's clicks were swallowed by the pan's pointer capture** (the
+  editor: clicking others in the tree does nothing). The viewport
+  captures the pointer when a press starts - setPointerCapture is what
+  keeps a drag tracking outside the viewport - and a captured pointer
+  retargets every later pointer event to the viewport. The first fix
+  moved the handlers to click - which per the Pointer Events spec is
+  retargeted to the capture element as well (it is a compatibility
+  mouse event derived from the captured pointerdown/up), so Firefox
+  swallowed it too and the editor reported the clicks still dead. The
+  working design hangs no interaction on the cards at all: the viewport
+  reads, at pointerdown, which card the press landed on (data-pid
+  attributes on the card groups, found with closest) and whether it was
+  the corner chevron; at pointerup, if the pointer travelled under 6px,
+  the recorded card's action runs - re-root-and-centre, or open the
+  person page. A drag cancels the press (6px threshold), a second
+  finger cancels it (pinch), pointercancel cancels it. Each card now
+  carries its own hit rect, so the spouse card is its own click target
+  instead of being covered by the couple's shared one.
+
+
+
+
+
+- The starred readings' note shows at once (2026-11-06, the editor's
+  question: the help cursor appeared but the note did nothing): the note
+  rode on the browser's native title tooltip, which Windows shows only
+  after a second or more of rest - a quick hover read as doing nothing.
+  The note is now the page's own tooltip, drawn the moment the pointer
+  (or a keyboard focus) reaches the name, and a line under the table
+  explains the asterisk itself in both languages: it marks a reading the
+  sources leave in doubt, the reasoned-but-unsettled normalisations
+  among them. jekyll and verify_site ALL CHECKS PASSED, the browser
+  checks re-run (47/47, the hover and the explanation line among them).
+
+- The Pełzucki 1896 plan overlays a satellite image (2026-11-06, the
+  editor's ask: "an overlay on a satellite image instead of a vector map,
+  and include the farm labels"): scratch/map4456/sat_overlay.html, built
+  by build_sat_overlay.py, is the tiles repository's warp test
+  (warp.html, the Allmaps warp over OpenStreetMap) with the base changed
+  to Esri World Imagery and the 101 farmstead labels of farms.yml laid
+  over it - each mark's mosaic pixel carried to lat/lon by the map's own
+  order-1 fit (re-derived from georef.yml's control points; the fit block
+  carries no coefficients), the fit's RMS 2.71 m standing in the page's
+  note. The pills keep the site's farm layer's shape and naming rule
+  (the normalised spelling where the editor's reading is firm, the
+  transliteration where it is conjectural; the 1896 extent on hover).
+  A working page first (this morning's commit); **published at the
+  editor's word the same day** ("Publish! Looks great."): the builder
+  moved into the pipeline (pipeline/maps/sat_overlay.py <map>; a map
+  needs farms.yml, and a rebuild after every import_farms.py bakes the
+  marks anew), the page lives in the tiles repository beside the map's
+  tiles (pelzucki1896/sat_overlay.html, its annotation fetched
+  relatively, the way warp.html does), and the map's page links it
+  beside the OSM overlay (map_over_sat in i18n, both languages;
+  map_pages.py writes sat_warp when the page exists). The headless check
+  (check_sat_overlay.py) now serves the tiles repository and loads the
+  page as its Pages will, counting the 101 pills and keeping the
+  screenshot; jekyll and verify_site ALL CHECKS PASSED.
 
 ## 2026-11-06: twenty maps brought in at once - the bulk batch
 

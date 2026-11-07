@@ -309,7 +309,7 @@ better scan does not move them.
     Object.keys(marks).forEach(function (k) {
       marks[k].classList.toggle('is-on', k === id);
     });
-    document.querySelectorAll('.map-marks tr[data-label]').forEach(function (li) {
+    document.querySelectorAll('.map-mark-list li').forEach(function (li) {
       li.classList.toggle('is-on', li.getAttribute('data-label') === id);
     });
   }
@@ -382,6 +382,9 @@ better scan does not move them.
     if (farmLayerBtn && farmLayerBtn.getAttribute('aria-pressed') !== 'true') {
       farmLayerOn(true);
     }
+    // the farmsteads are a tab below the map now: bring the pane forward
+    // before any scroll into it
+    if (window.__mapTab) window.__mapTab('farms');
     highlightFarm(n);
     var row = document.getElementById('farm-' + n);
     if (row && row.scrollIntoView && (!opts || opts.row !== false)) {

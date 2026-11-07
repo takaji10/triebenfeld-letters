@@ -157,7 +157,8 @@ def main() -> int:
               f"data.gramps (see the report)")
 
     print("[3/6] pruning the excluded branch")
-    ex = prune.prune(model, cfg["exclusion"]["roots"])
+    ex = prune.prune(model, cfg["exclusion"]["roots"],
+                     extra_people=cfg["exclusion"].get("people"))
     print(f"      {len(ex.removed_people)} people, "
           f"{len(ex.removed_media)} media files, "
           f"{len(ex.removed_families)} families removed")
@@ -213,13 +214,19 @@ def main() -> int:
         manifest_path = Path(cfg.get("media", {}).get("dest", "")) / "manifest.json"
         available = None
         if manifest_path.exists():
-            available = set(json.loads(manifest_path.read_text(encoding="utf-8")))
+            available = json.loads(manifest_path.read_text(encoding="utf-8"))
+        avatars = {}
+        avatars_path = (Path(cfg.get("media", {}).get("dest", "")) /
+                        "avatars.json")
+        if avatars_path.exists():
+            avatars = json.loads(avatars_path.read_text(encoding="utf-8"))
         meta = build_data.build_all(
             model, str(out_dir), regions=regions, withheld=withheld,
             excluded_media=ex.removed_media,
             excluded_people=ex.removed_people,
             excluded_families=ex.removed_families,
-            media_base=media_base, available=available)
+            media_base=media_base, available=available,
+            media_manifest=available, avatars=avatars)
         # drop stale shards from previous builds
         people_dir = out_dir / "people"
         live = {f"{x.strip('@')}.json" for x in model.people

@@ -19,6 +19,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -56,6 +57,39 @@ def _jpeg_bytes(img: Image.Image) -> bytes:
     img.save(out, "JPEG", quality=JPEG_QUALITY, progressive=True,
              optimize=True)
     return out.getvalue(), img.size
+
+
+def _avatar_bytes(img: Image.Image, region=None) -> bytes:
+    """A face avatar, 96 px. With a region (the editor's focus rectangle,
+    percent coordinates) the crop squares on the box's centre - the
+    face; without one the whole photo centre-crops square (a photo is a
+    portrait by name)."""
+    w, h = img.size
+    if region:
+        x1, y1, x2, y2 = region
+        cx = (min(x1, x2) + max(x1, x2)) / 200   # percent -> centre
+        cy = (min(y1, y2) + max(y1, y2)) / 200
+        box_w = abs(max(x1, x2) - min(x1, x2)) / 100 * w
+        box_h = abs(max(y1, y2) - min(y1, y2)) / 100 * h
+        # square around the box centre, at least the box's own extent
+        side = max(box_w, box_h) * 1.15
+        side = min(side, min(w, h))
+        left = max(0, min(w - side, cx * w - side / 2))
+        top = max(0, min(h - side, cy * h - side / 2))
+        img = img.crop((int(left), int(top),
+                        int(left + side), int(top + side)))
+    else:
+        side = min(w, h)
+        left = (w - side) // 2
+        top = (h - side) // 2
+        img = img.crop((left, top, left + side, top + side))
+    img = ImageOps.exif_transpose(img)
+    if img.mode not in ("RGB", "L"):
+        img = img.convert("RGB")
+    img = img.resize((96, 96), Image.LANCZOS)
+    out = BytesIO()
+    img.save(out, "JPEG", quality=82, optimize=True)
+    return out.getvalue()
 
 
 def _thumb_bytes(img: Image.Image) -> bytes:
@@ -104,12 +138,51 @@ def main() -> int:
     print(f"      {len(model.media_by_xref)} media objects")
 
     print("[2/4] exclusion + privacy filters")
-    ex = prune.prune(model, cfg["exclusion"]["roots"])
+    ex = prune.prune(model, cfg["exclusion"]["roots"],
+                     extra_people=cfg["exclusion"].get("people"))
     living = privacy.living_set(model, cfg["privacy"]["age_limit"])
     withheld = privacy.media_privacy(model, living)
     skip = ex.removed_media | withheld
     print(f"      {len(ex.removed_media)} excluded, "
           f"{len(withheld)} withheld -> {len(model.media)} to build")
+
+    # the avatar crops: person -> (media path, region rect). Only a
+    # photo-named picture serves - a birth register's region box marks
+    # where the name sits on the form, not a face, and cropping it
+    # produced 1,037 avatars of handwriting (the editor caught it,
+    # 2026-11-06: "you appear to have just taken whatever image is in a
+    # person's folder"). A photo with a drawn region crops the face; a
+    # photo without one centre-crops square on the whole picture.
+    avatar_jobs = {}
+    title_re = re.compile(r"photo|portrait|porträt", re.I)
+    for x, p in model.people.items():
+        if x in ex.removed_people or x in living:
+            continue
+        bare = x.strip("@")
+        cands = []
+        for m in p.media:
+            if m.path and m.path not in skip:
+                cands.append(m)
+        for e in p.events:
+            for cit in e.citations:
+                for m in cit.media:
+                    if m.path and m.path not in skip:
+                        cands.append(m)
+        for m in cands:
+            if not (title_re.search(m.path) or
+                    (m.title and title_re.search(m.title))):
+                continue   # a record scan is never a portrait
+            region = None
+            entries = info["regions"].get(m.path, [])
+            for entry in entries:
+                if bare in entry["persons"]:
+                    region = entry["region"]
+                    break
+            avatar_jobs[x] = (m.path, region)
+            break
+    print(f"      {len(avatar_jobs)} avatars from photo-named media "
+          f"(with a region: "
+          f"{sum(1 for _, r in avatar_jobs.values() if r)})")
 
     # what to build: path -> primary Media (title, form, oid)
     wanted = {}
@@ -127,6 +200,12 @@ def main() -> int:
     total_bytes = 0
     errors = []
     docx_pending = []
+    # the avatar crops, harvested in the same single tar scan: for every
+    # wanted file, the persons whose face regions name it
+    crop_wanted = {}
+    for x, (path, region) in avatar_jobs.items():
+        crop_wanted.setdefault(path, []).append((x, region))
+    avatars = {}   # person xref -> avatar file name
     # stream the tar once; extract only the members we want
     norm = lambda name: grampsxml._strip_drive(name)
     with tarfile.open(gpkg_path, "r|gz") as tf:
@@ -156,6 +235,16 @@ def main() -> int:
                         "orig": form,
                     }
                     total_bytes += len(disp) + len(tsize) + len(data)
+                    # the face avatars for this file's persons
+                    for x, region in crop_wanted.get(path, []):
+                        try:
+                            av = _avatar_bytes(img, region)
+                            aname = _hash_name(av, "jpg", "_a")
+                            (media_dir / aname).write_bytes(av)
+                            avatars[x] = aname
+                            total_bytes += len(av)
+                        except Exception as exc:   # noqa: BLE001
+                            errors.append(f"avatar {x} from {path}: {exc}")
                     del img
                 elif form == "txt":
                     name = _hash_name(data, "txt")
@@ -209,6 +298,8 @@ def main() -> int:
     print("[4/4] writing manifest + report")
     (dest / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
+    (dest / "avatars.json").write_text(
+        json.dumps(avatars, ensure_ascii=False, indent=1), encoding="utf-8")
     lines = [
         f"Media build - {date.today().isoformat()}",
         f"Files built: {len(manifest)}",

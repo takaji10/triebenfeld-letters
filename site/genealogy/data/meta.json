@@ -2,13 +2,13 @@
  "built": "5 NOV 2026",
  "source": "Gramps",
  "media_version": "",
- "media_base": "https://takaji10.github.io/genealogy-media/",
+ "media_base": "https://takaji10.github.io/genealogy-media/media/",
  "counts": {
-  "people": 4361,
-  "families": 1536,
+  "people": 4021,
+  "families": 1408,
   "sources": 440,
-  "media": 1872,
-  "places": 1174,
-  "geocoded_places": 657
+  "media": 1664,
+  "places": 1083,
+  "geocoded_places": 625
  }
 }

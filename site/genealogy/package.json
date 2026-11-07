@@ -9,6 +9,7 @@
     "build": "node scripts/prepare.cjs && vite build"
   },
   "dependencies": {
+    "d3-flextree": "^2.1.2",
     "leaflet": "^1.9.4",
     "minisearch": "^7.1.0"
   },

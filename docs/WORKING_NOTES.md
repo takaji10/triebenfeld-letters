@@ -2390,6 +2390,12 @@ cloud branches").
   its last good version. Start only the failed step again with `gh run rerun
   <id> --failed`; if GitHub is still degraded, leave it, since the next push
   rebuilds everything.
+- **The deploy step can time out on its own** (2026-11-06): build and
+  verify had passed, and actions/deploy-pages then aborted after ten
+  minutes of polling GitHub Pages' "syncing_files". A re-run of the whole
+  run (`gh run rerun <id>`, not --failed, the failure being in the deploy
+  job) succeeded in the normal few minutes; the live page was checked
+  after.
 - The "Build and deploy" run can take ten minutes. Watch it in the
   background (`gh run watch <id> --exit-status`) and then fetch one page of
   each kind from the live site: a document is `/documents/<slug>/<n>/`, a
@@ -3310,6 +3316,203 @@ Lessons:
   and plumbing separable like this - the judgement about the method (the
   polygons drifted from the parcels) need not burn the work that fed it
   (the drawing tool and its JSON stay in scratch/map4456/ as the record).
+- **A computed string can change type between two YAML readers.**
+  PyYAML writes the string `1,167` unquoted (legal, and PyYAML itself
+  re-reads it as a string); Jekyll's Ruby YAML takes the same plain
+  scalar for the integer 1167 - the comma silently gone by render time.
+  A generated value that one language's YAML may read as a number must
+  not dress as one: plain digits, or a string with a letter in it (the
+  Morgen column's `1,643 M 138 r` was safe for exactly that reason).
+  The general form: when two programs read one generated file, test the
+  round trip through the SECOND reader, not the one that wrote it.
+- **A headless browser's failed-resource console error names no URL.**
+  The page's own favicon 404 read in the console exactly like a page
+  resource failing, and a filter on the message's text could not tell
+  them apart - the message carries no address at all. Watch the
+  responses instead (`page.on('response')`, status 400 and up, by URL)
+  and leave the console for exceptions and script errors
+  (scratch/map4456/check_sat_overlay.py).
+
+## The genealogy explorer and the deployment prefix (2026-11-06)
+
+The explorer hung on "Loading the family database" for a visitor while the
+site built and verified clean. The cause was a deployment-shape assumption
+that no check covered: the vite build carried `base: '/genealogy/'`, an
+absolute bundle path that is correct only when the site is published at a
+domain root. This repository is published as a project site
+(takaji10.github.io/triebenfeld-letters/), so the browser asked for
+/genealogy/assets/app.js one level too high, got the server's HTML 404
+page back, and the module load died on the disallowed text/html MIME type
+- Firefox's console names the MIME, not the missing path behind it. The
+lesson generalises: **a hard-coded absolute path in a built asset is a
+silent bet on where the site is published; every reference a build tool
+emits should be relative (base './') or templated from the baseurl, and a
+link checker that wants to catch this class of bug must resolve relative
+URLs the way a browser does - against the page's own directory - and be
+run once with the project baseurl and once without.** A missing module
+also never reaches the application's own error handling, so the static
+boot page carries the guidance (shell.html's inline watch: script error or
+15 s timeout, hard-reload, blockers, settings, a link home), and the
+application's boot screen reports progress over the eight opening files
+and after eight seconds admits that a blocker or a slow connection can be
+holding the database back. Found by the editor's Firefox console; the fix
+and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
+- **Svelte 5's mount() appends to its target; it does not replace what is
+  inside.** The static boot placeholder inside `#app` therefore survives
+  the mount and sits above the rendered application - invisible until the
+  application first really loaded in production, then unmistakable. Clear
+  the target by hand (`target.textContent = ''`) before `mount()`, and
+  wrap the mount in a try/catch that leaves a word on the page if the
+  component itself fails to start - after the clear, a thrown mount leaves
+  a blank page with the watch already stood down.
+- **A fixpoint of pairwise rules can deadlock against itself.** The
+  exclusion's old rule (b) kept a child with one kept parent, and the
+  spouse was that kept parent - so a removed sibling's line survived its
+  own removal, each rule holding the other's subject alive. When a cut
+  has an "except through X" clause, compute the two reachable sets
+  (from the cut seed, from the protected root) and subtract - walks
+  cannot deadlock, and the invariant (nothing protected is ever removed)
+  is checkable in one line. The sibling lesson: when a graph rule keeps
+  failing to remove what it names, suspect two rules leaning on each
+  other, not one rule applied wrongly.
+- **A URL join is only as right as its shortest test.** The media
+  manifest's file fields were relative to the repo's media/ directory,
+  the config base omitted media/, and every image on the site 404ed into
+  the viewer's "image not published" fallback - visible for days,
+  reported for one person's two records. Assert one built URL per shape
+  (image, thumb, originals/) against the live host in the site checks;
+  a join that no test ever fetches is a join nobody has run.
+- **Svelte 5 template identifiers must be declared, but the compiler
+  only warns for some.** Tree.svelte iterated an undeclared `links` and
+  compiled clean - the route threw a ReferenceError at first render,
+  invisible until someone opened it. When a component compiles but a
+  route has never been seen working, render it once headlessly (or read
+  the compiled output for the bare identifier) before trusting it.
+- **The second failure of the exclusion cut was the mirror of the
+  first.** The fixpoint kept a removed line alive through its kept
+  spouse; replacing it with a blood-only walk then left the in-laws'
+  natal families standing behind the removed spouses - the editor
+  found Trzeciaks and Klowaks the ruling had clearly named. Blood is
+  not connectivity: a marriage is a real edge and the families behind
+  it are real members of the world being cut. When a cut is defined by
+  belonging ("everyone connected to X only through Y"), partition by
+  reachability in BOTH worlds and subtract - and check the result by
+  asking the data the question the editor will ask ("is any of these
+  surnames still there?"), not by trusting the algorithm's own count.
+- **Islands need naming, not walking.** Two [Living] Trzeciak
+  placeholders had no recorded link to any person - unreachable by any
+  graph rule, invisible to every check that reasons over edges. The
+  honest tool is an explicit named list in the config (exclusion.people),
+  reported like every other removal; a surname heuristic would have
+  been neither visible nor reversible.
+- **A decorative effect with an unbounded spread is a page-wide
+  overlay waiting to happen.** The media viewer dimmed the photo around
+  a focus rectangle with a 9999px box-shadow and no clipping ancestor -
+  correct-looking while no image ever loaded, then a grey film over the
+  whole page the day images worked. Any "dim everything but X" effect
+  must be clipped to the container it belongs to (overflow: hidden on
+  the frame), and ideally seen once with real data before shipping.
+- **d3-flextree for anything tree-shaped.** The hand-rolled genealogy
+  layout drowned in its own special cases (couples, focus rows,
+  hourglass folding) and still overlapped cards. The standard
+  tidy-tree algorithm with variable node sizes (d3-flextree, WTFPL,
+  bundles clean with Vite) takes the geometry; only the genealogy
+  semantics (who is a child, where spouses sit) belong in our code.
+  API trap: call layout.hierarchy(data) then layout(tree) - the layout
+  function on raw data wraps it halfway and the nodeSize accessor meets
+  a node without .data.
+- **setPointerCapture retargets every later pointer event to the
+  capture element - click included.** The tree viewport captured the
+  pointer for panning and the cards' onpointerup never fired. Moving
+  the handlers onto click failed the same way: the Pointer Events spec
+  retargets the compatibility mouse events (click, auxclick,
+  contextmenu) to the capture element too, and Firefox follows the
+  spec. When a surface must both pan and host clickable children, do
+  not hang the clicks on the children's events at all: read the target
+  under the press at pointerdown (closest on data attributes), decide
+  click-vs-drag by pointer travel at pointerup, and run the action from
+  the container's own handlers - capture then harms nothing.
+- **A portrait is a picture of the person, not a document about
+  them.** The avatar pass first fell back to "first publishable media",
+  which would have dressed hundreds of people in their birth
+  certificates; the editor's "some people will have actual pictures"
+  means pictures - photo/portrait-titled media only (51 people here),
+  placeholder disc for everyone else. When a rule maps a class to a
+  representation, check what the representative actually is.
+- **SVG text does not wrap; textLength is the fitter.** For card
+  layouts with variable names, lay the words by hand into lines and let
+  textLength/lengthAdjust="spacingAndGlyphs" compress any line that
+  would still overflow - character-count estimates alone stay estimates
+  (fonts vary by script and weight). A single unbreakable token needs
+  its own ellipsis; wrap-then-compress-then-ellipsis covers every name
+  shape.
+- **A PowerShell round-trip can silently mojibake a source file.**
+  Reading UTF-8 bytes as cp1252 (the console's default codepage) and
+  writing UTF-8 back turns every … › – into â€¦ â€º Ã¢ - the build
+  still succeeds, the damage only shows in the rendered glyphs. When a
+  scripted edit touches a file with non-ASCII text, list the file's
+  non-ASCII character set afterwards; encode-cp1252/decode-utf-8
+  reverses this particular corruption.
+- **Two id dialects meet at every Gramps join: @I0001@ (GEDCOM) vs
+  I0001 (data.gramps XML).** The avatar pass found zero candidates with
+  a plain membership test that "looked" right both sides. Strip at the
+  boundary (one .strip('@') at the join) and assert the join's yield
+  ("1077 avatars to crop" - a zero that should not be zero is the bug
+  speaking).
+- **A reused variable from a previous loop iteration is a silent
+  cross-talk bug.** The index avatar assignment wrote into `row`, which
+  was only assigned when a photo entry existed - 1,034 avatars landed
+  in other people's rows and 43 in the right ones, all plausibly
+  looking like "some people have pictures". Bind the target before any
+  conditional writes, or the previous person's row inherits them.
+- **A genealogy viewer wants a window, not a canvas.** Rendering the
+  whole descendant forest of the oldest-known ancestor made a
+  117,000-px SVG that no browser pans comfortably; the editor's model
+  - show children and grandchildren, an arrow renders the next step
+  while the previous derenders - keeps the chart at ~30 cards and the
+  navigation honest (the arrows advance one generation; specific
+  branching goes through the card's detail panel, whose "centre here"
+  re-roots in place). The general shape: a view window plus frontier
+  queries (hasMoreUp/hasMoreDown decide whether the arrows show at
+  all), never a full-graph layout.
+- **A region box means what the drawer used it for.** The Gramps focus
+  rectangles on record scans mark where the person's name sits on the
+  form (a finding aid for the reader), not where their face is - only
+  on photographs do they mark the face. Cropping "whatever has a
+  region" turned 1,037 avatars into slivers of handwriting before the
+  editor caught I1706. Before reusing any annotation as geometry, ask
+  what kind of media it was drawn on: the same gesture means different
+  things on a photograph and on a register.
+- **Equal-specificity rules fight by source order, and the loser is
+  whichever came first.** `ul.people { margin: 0 }` after
+  `ul.kids { margin-left: 2.4rem }` silently zeroed the indent. When a
+  variant must override a base rule in Svelte-scoped CSS, give it more
+  specificity (two classes), not a later position.
+- **Read the deploy log before rerunning.** Four identical-looking
+  failures at deploy-pages were not four transient blips: the action's
+  own 5-minute status-poll timeout was killing a deployment that (by
+  the fourth attempt's log) was genuinely still syncing. Rerun helps
+  when the run dies of a service error mid-flight; it does nothing when
+  every attempt dies of the same built-in deadline. The action exposed
+  a `timeout` input all along - raising it to 20 minutes fixed it.
+- **Don't hide the ID column to fit a screen.** The mobile audit's
+  tempting fix for the six-column People table was dropping the Gramps
+  id on narrow screens - but the editor's standing ruling is that the
+  id appears wherever a person does. A sideways scroll inside a
+  wrapper keeps both: the data intact, the page unbroken. When space
+  and a ruling conflict, scroll beats omission.
+- **An SVG clips its children to its own box.** The tree's pan/zoom
+  transform lives *inside* the SVG, so any translated content outside
+  the SVG's width/height vanished - invisible, not merely off-screen.
+  The empty big tree (2026-11-07) was exactly this: the viewport grew
+  to 80vh, the load centring put the focus at y≈308 in SVG
+  coordinates, the SVG was 296 tall, and every card clipped away. The
+  standard pan/zoom setup is `overflow: visible` on the SVG with the
+  clipping left to the wrapper element; design a chart so the transform
+  can move its content anywhere, not so the initial view happens to
+  fall inside the canvas.
+
+
 
 ## The mobile-readiness re-check (2026-11-07)
 

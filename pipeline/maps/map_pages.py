@@ -40,7 +40,8 @@ import yaml
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-from common import GAZETTEER_DIR, MAPS_YML, ROOT, die, read_yaml  # noqa: E402
+from common import (GAZETTEER_DIR, MAPS_REPO, MAPS_YML, ROOT, die,
+                    read_yaml)  # noqa: E402
 
 SITE = os.path.join(ROOT, 'site')
 MAPS_DIR = os.path.join(ROOT, 'maps')
@@ -201,6 +202,14 @@ def main():
             'url': m.get('url'),
             'tiles': m.get('tiles'),
             'warp': f'{TILE_BASE}/warp.html?map={key}',
+            # the satellite overlay page (pipeline/maps/sat_overlay.py,
+            # beside the map's tiles in the tiles repository), linked from
+            # the map's page when it has been built - a map with no farms.yml
+            # has none
+            'sat_warp': (f'{TILE_BASE}/{key}/sat_overlay.html'
+                         if os.path.isfile(os.path.join(MAPS_REPO, key,
+                                                        'sat_overlay.html'))
+                         else None),
             'view_rotation': m.get('view_rotation') or 0,
             'width': disp_w,
             'height': disp_h,
@@ -220,7 +229,36 @@ def main():
             out_maps[key]['orig_lang'] = 'pl'
         texts_p = os.path.join(MAPS_DIR, key, 'texts.yml')
         if os.path.isfile(texts_p):
-            out_maps[key]['texts'] = read_yaml(texts_p).get('blocks') or []
+            blocks = read_yaml(texts_p).get('blocks') or []
+            # The land-area table's figures in Morgen and hectares as well
+            # (the editor, 2026-11-06): a desyatina is 2400 square sazhens
+            # and the square sazhen 4.5522 m² (2.1336 m to the sazhen), so
+            # the desiatina is about 1.0925 ha; the Morgen are the hectares
+            # at the mórg nowopolski (0.5598 ha, the conversion the
+            # farmsteads' table carries). The original-language pane keeps
+            # the table as written; the translation panes gain the columns.
+            for b in blocks:
+                if not b.get('land_table'):
+                    continue
+                for r in (b.get('rows') or []):
+                    nm = r.get('sum') or r.get('total') or r
+                    des, saz = nm.get('des'), nm.get('saz')
+                    if des in (None, ''):
+                        continue
+                    saz_n = int(saz) if saz else 0
+                    ha = (int(des) * 2400 + saz_n) * 4.5522e-4
+                    # plain digits: a thousands comma would ride in a
+                    # string that reads as a number to one YAML reader
+                    # and a string to another (PyYAML writes 1,167
+                    # unquoted; Jekyll's Ruby YAML takes it for 1167)
+                    nm['ha'] = str(round(ha))
+                    m_tot = ha / 0.5598
+                    m_whole = int(m_tot)
+                    rods = int(round((m_tot - m_whole) * 300))
+                    if rods == 300:
+                        m_whole, rods = m_whole + 1, 0
+                    nm['morgen'] = '{:,} M {} r'.format(m_whole, rods)
+            out_maps[key]['texts'] = blocks
         # The farmsteads of the liquidation and the editor's labels on the
         # plan (maps/<key>/farms.yml): the settlers' table rows and one mark
         # per farm the map's page shows as a layer of name labels

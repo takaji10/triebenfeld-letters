@@ -1,0 +1,92 @@
+{%- comment -%}
+  One block of a map's own texts (maps/<map>/texts.yml), as the map page's
+  tab panes render it: the heading, the margin note, the lines in the
+  sheet's language and the page's (the choice is the page-wide one,
+  html[data-ml]), and, where the block is a table, the table per language
+  pane. The land-area table's translation panes carry the Morgen and
+  hectare columns the pipeline computes; the original pane keeps the
+  table as written. b comes in as include.b; the rest of the context
+  (lang, orig_lang, panes, t) the including template supplies.
+{%- endcomment -%}
+{%- assign b = include.b -%}
+<div class="map-text-block" id="text-{{ b.id }}">
+  <h3>{{ b.names[lang] | default: b.names.en }}</h3>
+  {%- if b.margin %}
+  <p class="map-text-margin"><span class="map-text-label">{{ t.map_text_margin }}:</span> {{ b.margin[lang] | default: b.margin.en }}</p>
+  {%- endif %}
+  {%- for g in b.groups %}
+    <div class="map-text-lines ml ml-{{ orig_lang }}" lang="{{ orig_lang }}">
+      {%- for line in g.lines %}<p>{{ line }}</p>{% endfor -%}
+    </div>
+    <div class="map-text-lines ml ml-en" lang="en">
+      {%- assign trl = g.translation.en %}{% for line in trl %}<p>{{ line }}</p>{% endfor -%}
+    </div>
+    <div class="map-text-lines ml ml-de" lang="de">
+      {%- assign trl = g.translation.de | default: g.translation.en %}{% for line in trl %}<p>{{ line }}</p>{% endfor -%}
+    </div>
+  {%- endfor %}
+  {%- if b.heading_ru %}
+  <p class="map-text-heading ml ml-{{ orig_lang }}" lang="{{ orig_lang }}">{{ b.heading_ru }}</p>
+  {%- for pane in panes %}
+  {%- assign hp = b.head[pane] | default: b.head.en %}
+  {%- if b.boundary %}
+  <table class="map-text-table map-text-boundary ml ml-{{ pane }}"{% if pane == orig_lang %} lang="{{ pane }}"{% endif %}>
+    <thead><tr>
+      {%- for h in hp %}<th scope="col">{{ h }}</th>{% endfor %}
+    </tr></thead>
+    <tbody>
+    {%- for row in b.rows %}
+      {%- if row.section %}
+      {%- if pane == orig_lang %}{% assign st = row.section.ru | default: row.section[pane] %}{% else %}{% assign st = row.section[pane] %}{% endif %}
+      <tr class="text-section"><th scope="colgroup" colspan="{{ hp.size }}">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ st }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
+      {%- elsif row.group %}
+      {%- if pane == orig_lang %}{% assign gt = row.group.ru | default: row.group[pane] %}{% else %}{% assign gt = row.group[pane] %}{% endif %}
+      <tr class="text-group"><th scope="colgroup" colspan="{{ hp.size }}">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ gt }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
+      {%- else %}
+      <tr>
+        <td class="num">{{ row.n }}</td>
+        <td><span lang="{{ orig_lang }}">{{ row.from }}</span></td>
+        <td><span lang="{{ orig_lang }}">{{ row.to }}</span></td>
+        <td>{% if pane == orig_lang %}{{ row.ru }}{% else %}{{ row[pane] | default: row.en }}{% endif %}</td>
+        <td class="map-text-place">{{ row.place }}</td>
+      </tr>
+      {%- endif %}
+    {%- endfor %}
+    </tbody>
+  </table>
+  {%- else %}
+  <table class="map-text-table ml ml-{{ pane }}">
+    <thead><tr>
+      {%- for h in hp %}<th scope="col">{% if pane == orig_lang and forloop.first %}<span lang="{{ orig_lang }}">{{ h }}</span>{% else %}{{ h }}{% endif %}</th>{% endfor %}
+    </tr></thead>
+    <tbody>
+    {%- for row in b.rows %}
+      {%- if row.group %}
+      {%- if pane == orig_lang %}{% assign gt = row.group.ru | default: row.group[pane] %}{% else %}{% assign gt = row.group[pane] %}{% endif %}
+      <tr class="text-group"><th scope="colgroup" colspan="{{ hp.size }}">{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ gt }}{% if pane == orig_lang %}</span>{% endif %}</th></tr>
+      {%- else %}
+      {%- assign name = row.sum | default: row.total | default: row %}
+      {%- if pane == orig_lang %}{% assign ntx = name.ru | default: name[pane] %}{% else %}{% assign ntx = name[pane] %}{% endif %}
+      {%- assign cls = '' %}
+      {%- if row.sum %}{% assign cls = 'text-sum' %}{% endif -%}
+      {%- if row.total %}{% assign cls = 'text-total' %}{% endif -%}
+      <tr{% if cls %} class="{{ cls }}"{% endif %}>
+        <td>{% if pane == orig_lang %}<span lang="{{ orig_lang }}">{% endif %}{{ ntx }}{% if pane == orig_lang %}</span>{% endif %}</td>
+        <td class="num">{{ name.des }}</td>
+        <td class="num">{{ name.saz }}</td>
+        {%- unless pane == orig_lang %}
+        <td class="num">{{ name.morgen }}</td>
+        <td class="num">{{ name.ha }}</td>
+        {%- endunless %}
+      </tr>
+      {%- endif %}
+    {%- endfor %}
+    </tbody>
+  </table>
+  {%- endif %}
+  {%- endfor %}
+  {%- endif %}
+  {%- if b.note %}
+  <p class="map-text-note">{{ b.note[lang] | default: b.note.en }}</p>
+  {%- endif %}
+</div>

@@ -1,29 +1,63 @@
-// The tree layout, pure and testable: no Svelte, no DOM. Reads the app's
-// data stores and returns nodes, links and geometry for the SVG layer.
+// The tree layout.
 //
-// Modes: hourglass (ancestors above, descendants below), pedigree
-// (ancestors only), descendants (below only). Couples are paired into one
-// row slot; every slot keeps the child it was reached through so the link
-// lines can be drawn after all positions are known.
+// The positions come from d3-flextree - the standard tidy-tree algorithm
+// (Reingold-Tilford 1981, in van der Ploeg's 2013 linear-time form for
+// variable node sizes). That is what fixes the spacing: a person with a
+// spouse beside them is simply a two-card-wide node, and the algorithm
+// packs the generations without overlaps - the hand-rolled layout this
+// replaces could not (seen 2026-11-06: spouse cards overlapping the
+// focus card and the siblings' cards).
+//
+// The genealogy semantics stay here: who counts as a child, where
+// spouses sit, and how the hourglass folds two tidy trees around the
+// focus person - ancestors above (every parent a node of its own, so
+// both blood lines walk up), descendants below (spouse beside, children
+// beneath the couple). Coordinates are card units: x in cards, y in rows.
+//
+// Limits: MAX_UP generations of ancestors, MAX_DOWN of descendants. The
+// chart is re-rootable - clicking a card makes that person the focus -
+// so the limits bound a view, not the graph.
+
+import { flextree } from 'd3-flextree'
 
 export const CARD_W = 150
-export const CARD_H = 44
-export const GAP_X = 14
+export const CARD_H = 56
+export const GAP_X = 16
 export const CELL = CARD_W + GAP_X
 export const ROW_H = 96
-export const MAX_UP = 4
-export const MAX_DOWN = 3
+// The chart is a window, not the whole graph: the focus's parents and
+// grandparents above, children and grandchildren below (the editor:
+// render it in parts, or the oldest-known ancestor's chart becomes
+// impossibly wide). The navigation arrows re-centre the window on a
+// frontier person - the next render drops the rows that left the
+// window, so the chart never grows past its two-step radius.
+export const WINDOW_UP = 2
+export const WINDOW_DOWN = 2
+
+const makeTree = flextree({
+  nodeSize: n => [n.data.w, 1],
+  spacing: () => 0.55,
+})
+
+// hierarchy first, then the layout - the layout function wants hierarchy
+// nodes, not raw data (raw input gets halfway wrapped and the nodeSize
+// accessor then meets a node without .data)
+function runTree(data) {
+  const t = makeTree.hierarchy(data)
+  makeTree(t)
+  return t
+}
 
 function fam(db, idf) { return idf ? db.families[idf] || null : null }
 
 function parentsOf(db, pid) {
   const p = db.index[pid]
   const f = p && p.fc && p.fc.length ? fam(db, p.fc[0]) : null
-  if (!f) return null
-  return { father: f.husb || null, mother: f.wife || null }
+  if (!f) return []
+  return [f.husb, f.wife].filter(Boolean)
 }
 
-function marriagesOf(db, pid) {
+function unionsOf(db, pid) {
   const p = db.index[pid]
   if (!p) return []
   return (p.fs || []).map(f => fam(db, f)).filter(Boolean)
@@ -31,163 +65,184 @@ function marriagesOf(db, pid) {
                  children: f.chil || [] }))
 }
 
-function isCouple(db, a, b) {
-  const pa = db.index[a], pb = db.index[b]
-  if (!pa || !pb) return false
-  const fa = new Set(pa.fs || [])
-  return (pb.fs || []).some(f => fa.has(f))
+// The ancestor half: children edges point at the parents. Every parent
+// becomes a node of its own - no spouse folding - so the father's line
+// and the mother's line both walk to their full depth, and couples that
+// share a child end up adjacent wherever the layout puts them.
+function upTree(db, pid, depth, seen, maxUp = WINDOW_UP) {
+  seen.add(pid)
+  const children = []
+  if (depth < maxUp) {
+    for (const par of parentsOf(db, pid)) {
+      if (!db.index[par] || seen.has(par)) continue
+      const t = upTree(db, par, depth + 1, seen, maxUp)
+      if (t) children.push(t)
+    }
+  }
+  return { id: pid, spouses: [], w: 1, root: depth === 0, children }
 }
 
-// ancestor rows, top generation last. Only real parents become slots; each
-// slot keeps the child (on the row below, or the focus for row 0) it was
-// reached through, so the link lines can be drawn after positioning.
-export function ancestorRows(db, pid) {
-  const rows = []
-  let current = [pid]
-  const seen = new Set([pid])
-  for (let g = 0; g < MAX_UP; g++) {
-    const next = []
-    let any = false
-    for (const cid of current) {
-      const par = parentsOf(db, cid)
-      if (!par || (!par.father && !par.mother)) continue
-      any = true
-      const pair = []
-      for (const key of [par.father, par.mother]) {
-        if (key && !seen.has(key)) { seen.add(key); pair.push(key) }
-      }
-      if (pair.length === 2 && isCouple(db, pair[0], pair[1])) {
-        next.push({ id: pair[0], spouse: pair[1], child: cid })
-      } else {
-        for (const key of pair)
-          next.push({ id: key, spouse: null, child: cid })
+// The descendant half: the person, the spouse their children share
+// beside them (a card each), the children beneath the couple.
+function downTree(db, pid, depth, seen, maxDown = WINDOW_DOWN) {
+  seen.add(pid)
+  const spouses = []
+  const children = []
+  for (const u of unionsOf(db, pid)) {
+    if (u.spouse && u.spouse !== pid && db.index[u.spouse] &&
+        !spouses.includes(u.spouse) &&
+        (u.children.length || depth === 0)) {
+      spouses.push(u.spouse)
+    }
+    if (depth < maxDown) {
+      for (const c of u.children) {
+        if (!db.index[c] || seen.has(c)) continue
+        const t = downTree(db, c, depth + 1, seen, maxDown)
+        if (t) children.push(t)
       }
     }
-    if (!next.length) break
-    rows.push(next)
-    current = next.map(s => s.id)
-    if (!any) break
   }
-  return rows
+  return { id: pid, spouses, w: spouses.length ? 2 : 1,
+           root: depth === 0, children }
 }
 
-export function descendantTree(db, pid, depth, seen) {
-  if (depth > MAX_DOWN || seen.has(pid)) return null
-  seen.add(pid)
-  return {
-    id: pid,
-    marriages: marriagesOf(db, pid).map(m => ({
-      spouse: m.spouse,
-      children: m.children.map(c => descendantTree(db, c, depth + 1, seen))
-        .filter(Boolean),
-    })),
+// does more tree exist beyond the window? (whether the arrows show)
+export function hasMoreUp(db, pid, gens = WINDOW_UP) {
+  const seen = new Set([pid])
+  let frontier = [pid]
+  for (let d = 0; d < gens; d++) {
+    const next = []
+    for (const x of frontier)
+      for (const par of parentsOf(db, x))
+        if (!seen.has(par) && db.index[par]) { seen.add(par); next.push(par) }
+    if (!next.length) return false
+    frontier = next
   }
+  // one more generation beyond the window?
+  for (const x of frontier)
+    if (parentsOf(db, x).some(p => db.index[p] && !seen.has(p))) return true
+  return false
 }
 
-export function subWidth(node) {
-  const fams = node.marriages.filter(m => m.children.length)
-  if (!fams.length) return 1
-  let w = 0
-  for (const m of fams) for (const c of m.children) w += subWidth(c)
-  return w
+export function hasMoreDown(db, pid, gens = WINDOW_DOWN) {
+  const seen = new Set([pid])
+  let frontier = [pid]
+  for (let d = 0; d < gens; d++) {
+    const next = []
+    for (const x of frontier)
+      for (const u of unionsOf(db, x))
+        for (const c of u.children)
+          if (!seen.has(c) && db.index[c]) { seen.add(c); next.push(c) }
+    if (!next.length) return false
+    frontier = next
+  }
+  for (const x of frontier)
+    for (const u of unionsOf(db, x))
+      if (u.children.some(c => db.index[c] && !seen.has(c))) return true
+  return false
 }
 
-export function depthOf(node) {
-  let d = 0
-  for (const m of node.marriages) for (const c of m.children)
-    d = Math.max(d, 1 + depthOf(c))
-  return d
+function elbow(x1, y1, x2, y2) {
+  const my = (y1 + y2) / 2
+  return `M ${x1} ${y1} L ${x1} ${my} L ${x2} ${my} L ${x2} ${y2}`
 }
 
 export function layout(db, id, mode = 'hourglass') {
   if (!id || !db.index || !db.index[id]) return null
-  const up = mode !== 'descendants' ? ancestorRows(db, id) : []
-  const down = mode !== 'pedigree'
-    ? descendantTree(db, id, 0, new Set()) : null
+  // every mode renders the same two-step window now - the modes differ
+  // only in which half they show
+  const up = (mode !== 'descendants')
+    ? runTree(upTree(db, id, 0, new Set(), WINDOW_UP)) : null
+  const down = (mode !== 'pedigree')
+    ? runTree(downTree(db, id, 0, new Set(), WINDOW_DOWN)) : null
+
+  // both roots are the focus: align their centres on x=0, and let the
+  // ancestor rows run upward (negative y), the descendant rows downward
+  if (up) up.each(n => { n.px = (n.x - up.x) * CELL })
+  if (down) down.each(n => { n.px = (n.x - down.x) * CELL })
 
   const nodes = []
   const links = []
+  const splices = []
+  let minX = Infinity, maxX = -Infinity
+  let minY = Infinity, maxY = -Infinity
+  let focusCX = 0, focusCY = CARD_H / 2   // the focus card's own centre
 
-  const upWidths = up.map(row =>
-    row.reduce((s, slot) => s + (slot.spouse ? 2 : 1), 0))
-  const downWidth = down ? subWidth(down) : 1
-  const totalW = Math.max(1, ...upWidths, downWidth)
+  function grow(min, max) {
+    if (min < minX) minX = min
+    if (max > maxX) maxX = max
+  }
 
-  // ancestors, oldest generation first
-  for (let r = up.length - 1; r >= 0; r--) {
-    const row = up[r]
-    const w = upWidths[r]
-    let x = (totalW - w) / 2
-    for (const slot of row) {
-      nodes.push({ id: slot.id, x: x + 0.5, y: r })
-      if (slot.spouse)
-        nodes.push({ id: slot.spouse, x: x + 1.5, y: r })
-      x += slot.spouse ? 2 : 1
+  // one card block: the person, plus the spouse card beside them when
+  // the data has one. x/y is the block's top-left.
+  function card(px, py, data, isFocus) {
+    const w = data.w
+    const blockLeft = px - w * CELL / 2
+    nodes.push({ id: data.id, x: blockLeft, y: py, w,
+                 spouse: data.spouses?.[0] || null, focus: isFocus })
+    if (isFocus) {
+      focusCX = blockLeft + w * CELL / 2
+      focusCY = py + CARD_H / 2
+    }
+    if (data.spouses?.length) {
+      splices.push([blockLeft + CARD_W, py + CARD_H / 2,
+                    blockLeft + CELL, py + CARD_H / 2])
+    }
+    grow(blockLeft, blockLeft + w * CELL)
+    if (py < minY) minY = py
+    if (py + CARD_H > maxY) maxY = py + CARD_H
+  }
+
+  if (up) {
+    up.each(n => {
+      if (n.data.root && down) return   // the focus card comes from `down`
+      card(n.px, -n.y * ROW_H, n.data, !down && n.data.root)
+    })
+    // the shift from a block's centre to the blood person's card centre:
+    // the person card sits at the block's left, the spouse beside them
+    const blockShift = w => w > 1 ? (w * CELL - CARD_W) / 2 : 0
+    // the focus row renders the spouse from the down data, which the up
+    // tree's own root node does not know about
+    const focusShift = down && down.data.spouses?.length
+      ? blockShift(down.data.w) : 0
+    for (const l of up.links()) {
+      // source = the person nearer the focus (lower on screen),
+      // target = their ancestor (higher on screen)
+      const s = l.source, t = l.target
+      const sx = s.data.root ? s.px - focusShift : s.px
+      links.push(elbow(sx, -s.y * ROW_H,
+                       t.px, -t.y * ROW_H + CARD_H))
     }
   }
-  const focusY = up.length
-  nodes.push({ id, x: downWidth / 2, y: focusY, focus: true })
+  if (down) {
+    down.each(n => { card(n.px, n.y * ROW_H, n.data, n.data.root) })
+    const blockShift = w => w > 1 ? (w * CELL - CARD_W) / 2 : 0
+    for (const l of down.links()) {
+      const s = l.source, t = l.target
+      // land on the blood person's own card, not the couple block's
+      // middle - otherwise the line lands ambiguously between the
+      // spouses and nobody can tell who married in (the editor's
+      // screenshot: Krystyna Celmer and Bogusław Stark)
+      const sx = s.px - blockShift(s.data.w)
+      const tx2 = t.px - blockShift(t.data.w)
+      links.push(elbow(sx, s.y * ROW_H + CARD_H,
+                       tx2, t.y * ROW_H))
+    }
+  }
 
-  // descendants; the focus row's own spouses are placed beside the focus
-  function place(node, x0, level) {
-    const withKids = node.marriages.filter(m => m.children.length)
-    if (level > 0) {
-      const w = subWidth(node)
-      nodes.push({ id: node.id, x: x0 + w / 2, y: focusY + level })
-    }
-    if (withKids.length >= 1 && withKids[0].spouse) {
-      const w = level > 0 ? subWidth(node) : downWidth
-      nodes.push({ id: withKids[0].spouse, x: x0 + w / 2 + 0.5,
-                   y: focusY + level })
-    }
-    let cx = x0
-    for (const m of withKids) {
-      for (const c of m.children) {
-        const cw = subWidth(c)
-        place(c, cx, level + 1)
-        cx += cw
-      }
-    }
+  const pad = 24
+  const baseX = -minX + pad
+  const baseY = -minY + pad
+  return {
+    nodes, links, splices,
+    baseX, baseY,
+    // the whole chart's bounding box (what "fit" needs) ...
+    cx: (minX + maxX) / 2, cy: (minY + maxY) / 2,
+    width: maxX - minX + pad * 2,
+    height: maxY - minY + pad * 2,
+    // ... and the focus person's centre, post-base - what centring on
+    // the person needs (the bounding box centre is not the person when
+    // one half of the hourglass spreads wider or deeper than the other)
+    focusX: focusCX + baseX, focusY: focusCY + baseY,
   }
-  if (down) place(down, 0, 0)
-
-  // links from ancestor slots down to their children (row r-1, or the
-  // focus for row 0)
-  const posOf = new Map()
-  for (const n of nodes) {
-    const key = n.id + '@' + n.y
-    if (!posOf.has(key)) posOf.set(key, n)
-  }
-  for (let r = 0; r < up.length; r++) {
-    const targetY = r === 0 ? focusY : r - 1
-    for (const slot of up[r]) {
-      if (slot.child == null) continue
-      const child = posOf.get(slot.child + '@' + targetY)
-      if (!child) continue
-      const self = posOf.get(slot.id + '@' + r)
-      if (!self) continue
-      links.push([self.x * CELL + CARD_W / 2, r * ROW_H + CARD_H,
-                  child.x * CELL + CARD_W / 2, targetY * ROW_H])
-    }
-  }
-  // links through the descendant tree
-  function linkDesc(node, level) {
-    const self = posOf.get(node.id + '@' + (focusY + level))
-    if (!self) return
-    for (const m of node.marriages.filter(m => m.children.length)) {
-      for (const c of m.children) {
-        const child = posOf.get(c.id + '@' + (focusY + level + 1))
-        if (child) {
-          links.push([self.x * CELL + CARD_W / 2, self.y * ROW_H + CARD_H,
-                      child.x * CELL + CARD_W / 2, child.y * ROW_H])
-        }
-        linkDesc(c, level + 1)
-      }
-    }
-  }
-  if (down) linkDesc(down, 0)
-
-  const rows = Math.max(focusY + 1,
-                        focusY + (down ? 1 + depthOf(down) : 0))
-  return { nodes, links, rows, totalW, focusY }
 }

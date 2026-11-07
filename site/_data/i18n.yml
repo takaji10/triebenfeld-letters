@@ -147,17 +147,18 @@ en:
   map_kind: Kind
   map_source_link: The map at the archive
   map_marks_h2: Index
-  map_marks_place: Place
-  map_marks_shows: On the sheet
   map_fit_label: Georeference
   map_today: OSM
   map_locate: Locate
   map_refs: "Related:"
   map_over_osm: View map overlay on OpenStreetMap
+  map_over_sat: View map overlay on satellite imagery
   map_north: North up
   map_asdrawn: As drawn
   map_inscription: Inscription
   map_texts_h2: Texts on the sheet
+  map_tab_adjoining: Adjoining lands
+  map_tab_land: The land-area table
   map_text_orig: Russian text
   map_text_tr: English translation
   map_text_margin: On the sheet
@@ -172,6 +173,7 @@ en:
   map_farms_h2: Farmsteads
   map_morgen_note: Hectares convert the 1868 Morgen at the Polish morga of 1819 (1 morga = 0.56 ha). The survey of 1896 found the holdings larger; its figures are the desyatinas given first.
   map_farm_no: No.
+  map_farm_conj_note: "* Marks a reading the sources leave in doubt - rest on a name to see why."
   map_farm_settler: Settler
   map_farm_size: Holding
   map_farm_details: Full details
@@ -563,17 +565,18 @@ de:
   map_kind: Art
   map_source_link: Die Karte im Archiv
   map_marks_h2: Register
-  map_marks_place: Ort
-  map_marks_shows: Auf dem Plan
   map_fit_label: Georeferenz
   map_today: OSM
   map_locate: Zeigen
   map_refs: "Verwandt:"
   map_over_osm: Kartenüberlagerung auf OpenStreetMap ansehen
+  map_over_sat: Kartenüberlagerung auf Satellitenbildern ansehen
   map_north: Norden oben
   map_asdrawn: Wie gezeichnet
   map_inscription: Inschrift
   map_texts_h2: Texte auf dem Blatt
+  map_tab_adjoining: Angrenzende Ländereien
+  map_tab_land: Die Flächentabelle
   map_text_orig: Russischer Text
   map_text_tr: Deutsche Übersetzung
   map_text_margin: Auf dem Blatt
@@ -588,6 +591,7 @@ de:
   map_farms_h2: Gehöfte
   map_morgen_note: Die Hektar rechnen die Morgen von 1868 nach der polnischen Morga von 1819 um (1 Mórg = 0,56 ha). Die Vermessung von 1896 ergab mehr Land; ihre Zahlen sind die Desjatinen, die zuerst stehen.
   map_farm_no: Nr.
+  map_farm_conj_note: "* Kennzeichnet eine Lesung, die die Quellen offenlassen - der Hinweis erscheint, solange der Zeiger auf dem Namen steht."
   map_farm_settler: Siedler
   map_farm_size: Besitz
   map_farm_details: Vollständige Angaben

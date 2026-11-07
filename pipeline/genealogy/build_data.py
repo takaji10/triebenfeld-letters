@@ -12,7 +12,6 @@ import json
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
-
 LIVING_GIVEN = "[Living]"
 
 
@@ -85,7 +84,14 @@ def person_shard(model, xref: str, regions=None, withheld=None) -> dict:
         s = e.date.sort if e.date else None
         return (s is None, s or 0)
 
-    events = []
+    # every event of the person, personal and family, as decorated
+    # (sortkey, dict) pairs so the merged timeline sorts by date
+    decorated = []
+
+    def add(e, ev):
+        s = e.date.sort if e.date else None
+        decorated.append(((s is None, s or 0), ev))
+
     for e in sorted(p.events, key=_sort_key):
         if e.tag == "OCCU" and not (e.value or e.date or e.place):
             continue
@@ -107,7 +113,44 @@ def person_shard(model, xref: str, regions=None, withheld=None) -> dict:
             ev["citations"] = cits
         if e.note:
             ev["note"] = e.note
-        events.append(ev)
+        add(e, ev)
+
+    # the family events of the person's own unions - the marriage in the
+    # life events timeline with everyone else (the editor's ruling,
+    # 2026-11-06: everything belongs in the timeline). Each carries the
+    # spouse's id and name so the row can say who it was with.
+    for fam_xref in p.fams:
+        fam = model.families.get(fam_xref)
+        if not fam:
+            continue
+        spouse = fam.wife if fam.husb == xref else fam.husb
+        spouse_name = None
+        if spouse and spouse in model.people:
+            spouse_name = model.people[spouse].name.display
+        for e in fam.events:
+            if e.tag not in ("MARR", "DIV", "ANUL"):
+                continue
+            ev = {"tag": e.tag}
+            if spouse:
+                ev["sp"] = spouse.strip("@")
+                if spouse_name:
+                    ev["with"] = spouse_name
+            dj = _date_json(e.date)
+            if dj:
+                ev["date"] = dj
+            if e.place:
+                ev["place"] = e.place
+            cj = _coords_json(e.coords)
+            if cj:
+                ev["coords"] = cj
+            cits = [_citation_json(c, withheld) for c in e.citations]
+            if cits:
+                ev["citations"] = cits
+            if e.note:
+                ev["note"] = e.note
+            add(e, ev)
+
+    events = [ev for _, ev in sorted(decorated, key=lambda pair: pair[0])]
 
     media = [_media_json(m, xref, regions) for m in p.media
              if m.path not in withheld]
@@ -179,19 +222,26 @@ def family_json(model, fam, withheld=None) -> dict:
 
 def build_all(model, out_dir: str, regions=None, withheld=None,
               excluded_media=None, excluded_people=None, excluded_families=None,
-              media_version="", media_base="", available=None) -> dict:
+              media_version="", media_base="", available=None,
+              media_manifest=None, avatars=None) -> dict:
     out = Path(out_dir)
     (out / "people").mkdir(parents=True, exist_ok=True)
     withheld = withheld or set()
     excluded_media = excluded_media or set()
     excluded_people = excluded_people or set()
     excluded_families = excluded_families or set()
+    media_manifest = media_manifest or {}
+    avatars = avatars or {}
+    # the media build keys the avatars by the raw GEDCOM xref (@I0001@);
+    # the index is keyed bare
+    avatars = {k.strip("@"): v for k, v in avatars.items()}
     skip_media = withheld | excluded_media
     # when the media repo's manifest is known, a path outside it cannot be
     # served: treat it as unavailable everywhere (the gpkg mismatches)
     unavailable = set()
     if available is not None:
-        unavailable = {p for p in model.media if p and p not in available}
+        keys = available.keys() if isinstance(available, dict) else available
+        unavailable = {p for p in model.media if p and p not in keys}
     skip_media = skip_media | unavailable
 
     # ---- index.json: everyone kept, compact -----------------------------
@@ -202,18 +252,27 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
         name = p.name
         living = name.given == LIVING_GIVEN
         by = dy = None
+        br = dr = None
+        bp = {}
+        dp = {}
         if not living:
             for tag in ("BIRT", "BAPM", "CHR", "BAPL"):
                 ev = next((e for e in p.events if e.tag == tag
                            and e.date and e.date.year), None)
                 if ev:
                     by = ev.date.year
+                    br = ev.date.raw
+                    if ev.place:
+                        bp = {"bp": ev.place}
                     break
             for tag in ("DEAT", "BURI", "CREM"):
                 ev = next((e for e in p.events if e.tag == tag
                            and e.date and e.date.year), None)
                 if ev:
                     dy = ev.date.year
+                    dr = ev.date.raw
+                    if ev.place:
+                        dp = {"dp": ev.place}
                     break
         index[x.strip("@")] = {
             "n": f"Living {name.surname}".strip() if living else name.display,
@@ -221,11 +280,55 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
             "gn": "" if living else name.given,
             "sx": p.sex,
             "b": by, "d": dy,
+            # the raw date texts, for the UI's formatted rendering
+            **({"br": br} if br else {}),
+            **({"dr": dr} if dr else {}),
+            # the birth and death places, for the relations lists
+            **bp,
+            **dp,
             "L": living,
             "M": any(m.path not in skip_media for m in p.media),
             "fc": [f.strip("@") for f in p.famc],
             "fs": [f.strip("@") for f in p.fams],
         }
+        # the portrait: the person's first publishable image, a photo or
+        # portrait by name when there is one - person-level media first,
+        # then anything the person's citations carry (in this database
+        # most media hangs off citations, portraits included) - resolved
+        # through the media manifest to its derivative file names (the
+        # UI joins them with the media base; a person without
+        # publishable media gets the placeholder)
+        if not living:
+            cands = [m for m in p.media
+                     if m.path and m.path not in skip_media]
+            cited = []
+            for e in p.events:
+                for cit in e.citations:
+                    for m in cit.media:
+                        if m.path and m.path not in skip_media:
+                            cited.append(m)
+            pool = cands + [m for m in cited
+                            if m.path not in {c.path for c in cands}]
+            # only a real picture serves as the portrait: a birth record
+            # is a document about the person, not a picture of them
+            chosen = next((m for m in pool if
+                           (m.title and re.search(
+                               r"photo|portrait|porträt", m.title, re.I))
+                           or re.search(r"photo|portrait|porträt",
+                                        m.path, re.I)), None)
+            entry = media_manifest.get(chosen.path) if chosen else None
+            row = index[x.strip("@")]
+            if entry:
+                if entry.get("file"):
+                    row["pd"] = entry["file"]
+                if entry.get("thumb"):
+                    row["pt"] = entry["thumb"]
+            # the cropped face avatar from the media build (the region
+            # box the editor drew, cropped square and scaled to 96 px);
+            # falls back to the plain thumb when no avatar was cropped
+            av = avatars.get(x.strip("@"))
+            if av:
+                row["pt"] = av
 
     # ---- surname index with variant groups ----------------------------
     by_surname = defaultdict(list)

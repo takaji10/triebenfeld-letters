@@ -20,6 +20,7 @@ kozlowski1861:
   url: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24675961
   tiles: https://takaji10.github.io/triebenfeld-maps/kozlowski1861/info.json
   warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=kozlowski1861
+  sat_warp: null
   view_rotation: 0
   width: 15757
   height: 12140
@@ -907,6 +908,7 @@ mapadrogi1890:
   url: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/24675160
   tiles: https://takaji10.github.io/triebenfeld-maps/mapadrogi1890/info.json
   warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=mapadrogi1890
+  sat_warp: null
   view_rotation: 0
   width: 11009
   height: 14250
@@ -1786,6 +1788,7 @@ pelzucki1896:
   url: null
   tiles: https://takaji10.github.io/triebenfeld-maps/pelzucki1896/info.json
   warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=pelzucki1896
+  sat_warp: null
   view_rotation: 0
   width: 21715
   height: 14206
@@ -2356,9 +2359,10 @@ pelzucki1896:
       de: Ländereien der Bauern des Dorfes Huta
       place: Huta (Хута)
   - id: explication
+    land_table: true
     names:
-      en: The explication (the land-area table)
-      de: Die Explication (das Flächenverzeichnis)
+      en: The land-area table
+      de: Die Flächentabelle
     heading_ru: Экспликація
     head:
       ru:
@@ -2369,10 +2373,14 @@ pelzucki1896:
       - Category
       - Des.
       - Saz.
+      - Morgen
+      - ha
       de:
       - Kategorie
       - Des.
       - Saz.
+      - Morgen
+      - ha
     rows:
     - group:
         ru: Основнаго надѣла
@@ -2383,17 +2391,23 @@ pelzucki1896:
       de: Kulturfähiges Land
       des: '842'
       saz: '219'
+      ha: '920'
+      morgen: 1,643 M 138 r
     - ru: Неудобной
       en: Unusable land
       de: Unfähiges Land
       des: '28'
       saz: '1235'
+      ha: '31'
+      morgen: 55 M 195 r
     - sum:
         ru: Итого
         en: Subtotal
         de: Zusammen
         des: '870'
         saz: '1454'
+        ha: '951'
+        morgen: 1,699 M 33 r
     - group:
         ru: Дополнительнаго надѣла
         en: Of the additional allotment
@@ -2403,28 +2417,37 @@ pelzucki1896:
       de: Kulturfähiges Land
       des: '192'
       saz: '1883'
+      ha: '211'
+      morgen: 376 M 74 r
     - ru: Неудобной
       en: Unusable land
       de: Unfähiges Land
       des: '5'
       saz: '335'
+      ha: '6'
+      morgen: 10 M 9 r
     - sum:
         ru: Итого
         en: Subtotal
         de: Zusammen
         des: '197'
         saz: '2218'
+        ha: '216'
+        morgen: 386 M 83 r
     - total:
         ru: Всего
         en: Total
         de: Insgesamt
         des: '1068'
         saz: '1272'
+        ha: '1167'
+        morgen: 2,085 M 116 r
     note:
       en: 'Дес. (десятинъ) is desyatinas, Саж. (квадратныхъ саженъ) square sazhens: one desyatina is 2400
-        square sazhens, about 1.09 hectares, and one square sazhen about 4.55 m².'
+        square sazhens, about 1.09 ha. The Morgen and hectares convert the desiatinas at that figure.'
       de: 'Дес. (десятинъ) heißt Desjatinen, Саж. (квадратныхъ саженъ) Quadratsaschen: eine Desjatina
-        zählt 2400 Quadratsaschen, rund 1,09 Hektar, eine Quadratsasche rund 4,55 m².'
+        zählt 2400 Quadratsaschen, rund 1,09 ha. Morgen und Hektar rechnen die Desjatinen mit diesem Satz
+        um.'
   farms:
     source:
       unit: apl399806603
@@ -2432,7 +2455,7 @@ pelzucki1896:
     marks:
     - n: 1
       name: Konchinskii Iakov
-      name_norm: Kończyński Jakub
+      name_norm: Jakub Kończyński
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2442,7 +2465,7 @@ pelzucki1896:
       note: null
     - n: 2
       name: Gebel Martin
-      name_norm: Gibel Martin
+      name_norm: Martin Gibel
       norm_conf: firm
       name_de: null
       institution: null
@@ -2452,7 +2475,7 @@ pelzucki1896:
       note: null
     - n: 3
       name: Merts Karl
-      name_norm: Mertz Karl
+      name_norm: Karl Mertz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2462,7 +2485,7 @@ pelzucki1896:
       note: null
     - n: 3
       name: Merts Karl
-      name_norm: Mertz Karl
+      name_norm: Karl Mertz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2472,7 +2495,7 @@ pelzucki1896:
       note: null
     - n: 4
       name: Kholm Daniil
-      name_norm: Holm Daniel
+      name_norm: Daniel Holm
       norm_conf: firm
       name_de: null
       institution: null
@@ -2482,7 +2505,7 @@ pelzucki1896:
       note: null
     - n: 4
       name: Kholm Daniil
-      name_norm: Holm Daniel
+      name_norm: Daniel Holm
       norm_conf: firm
       name_de: null
       institution: null
@@ -2492,7 +2515,7 @@ pelzucki1896:
       note: null
     - n: 5
       name: Merts Gotlib
-      name_norm: Mertz Gottlieb
+      name_norm: Gottlieb Mertz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2502,7 +2525,7 @@ pelzucki1896:
       note: null
     - n: 6
       name: Girsh Kristiian
-      name_norm: Hirsch Christian
+      name_norm: Christian Hirsch
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2512,7 +2535,7 @@ pelzucki1896:
       note: null
     - n: 7
       name: Kinast Vilgelm
-      name_norm: Kinast Wilhelm
+      name_norm: Wilhelm Kinast
       norm_conf: firm
       name_de: null
       institution: null
@@ -2522,7 +2545,7 @@ pelzucki1896:
       note: null
     - n: 8
       name: Strzhizhikovskii Frants
-      name_norm: Strzyżykowski Franciszek
+      name_norm: Franciszek Strzyżykowski
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2532,7 +2555,7 @@ pelzucki1896:
       note: null
     - n: 9
       name: Sanikovskii Martin
-      name_norm: Sanikowski Marcin
+      name_norm: Marcin Sanikowski
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2542,7 +2565,7 @@ pelzucki1896:
       note: null
     - n: 10
       name: Marek Vilgelm
-      name_norm: Marek Wilhelm
+      name_norm: Wilhelm Marek
       norm_conf: firm
       name_de: null
       institution: null
@@ -2552,7 +2575,7 @@ pelzucki1896:
       note: null
     - n: 11
       name: Grunvald Kristof
-      name_norm: Grünwald Christoph
+      name_norm: Christoph Grünwald
       norm_conf: firm
       name_de: null
       institution: null
@@ -2562,7 +2585,7 @@ pelzucki1896:
       note: null
     - n: 13
       name: Shteinbord Iulian
-      name_norm: Steinbart Julian
+      name_norm: Julian Steinbart
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2572,7 +2595,7 @@ pelzucki1896:
       note: null
     - n: 14
       name: Kholm Vilgelm
-      name_norm: Holm Wilhelm
+      name_norm: Wilhelm Holm
       norm_conf: firm
       name_de: null
       institution: null
@@ -2582,7 +2605,7 @@ pelzucki1896:
       note: null
     - n: 15
       name: Falk Avgust
-      name_norm: Falk August
+      name_norm: August Falk
       norm_conf: firm
       name_de: null
       institution: null
@@ -2592,7 +2615,7 @@ pelzucki1896:
       note: null
     - n: 16
       name: Merts Kristiian
-      name_norm: Mertz Christian
+      name_norm: Christian Mertz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2602,7 +2625,7 @@ pelzucki1896:
       note: null
     - n: 17
       name: Merts Martin
-      name_norm: Mertz Martin
+      name_norm: Martin Mertz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2612,7 +2635,7 @@ pelzucki1896:
       note: null
     - n: 18
       name: Sanikovskii Osip
-      name_norm: Sanikowski Józef
+      name_norm: Józef Sanikowski
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2622,7 +2645,7 @@ pelzucki1896:
       note: null
     - n: 19
       name: Stirtsenbeker Kristiian
-      name_norm: Stürzenbecker Christian
+      name_norm: Christian Stürzenbecker
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2632,7 +2655,7 @@ pelzucki1896:
       note: null
     - n: 20
       name: Sanikovskii Ian
-      name_norm: Sanikowski Jan
+      name_norm: Jan Sanikowski
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2652,7 +2675,7 @@ pelzucki1896:
       note: null
     - n: 22
       name: Bludzinskii Ivan
-      name_norm: Bludziński Jan
+      name_norm: Jan Bludziński
       norm_conf: firm
       name_de: null
       institution: null
@@ -2662,7 +2685,7 @@ pelzucki1896:
       note: null
     - n: 23
       name: Shmigelskii Vilgelm
-      name_norm: Śmigelski Wilhelm
+      name_norm: Wilhelm Śmigelski
       norm_conf: firm
       name_de: null
       institution: null
@@ -2672,7 +2695,7 @@ pelzucki1896:
       note: null
     - n: 23
       name: Shmigelskii Vilgelm
-      name_norm: Śmigelski Wilhelm
+      name_norm: Wilhelm Śmigelski
       norm_conf: firm
       name_de: null
       institution: null
@@ -2692,7 +2715,7 @@ pelzucki1896:
       note: null
     - n: 26
       name: Runga Voitsekh
-      name_norm: Runge Wojciech
+      name_norm: Wojciech Runge
       norm_conf: firm
       name_de: null
       institution: null
@@ -2702,7 +2725,7 @@ pelzucki1896:
       note: null
     - n: 26
       name: Runga Voitsekh
-      name_norm: Runge Wojciech
+      name_norm: Wojciech Runge
       norm_conf: firm
       name_de: null
       institution: null
@@ -2712,7 +2735,7 @@ pelzucki1896:
       note: null
     - n: 26
       name: Runga Voitsekh
-      name_norm: Runge Wojciech
+      name_norm: Wojciech Runge
       norm_conf: firm
       name_de: null
       institution: null
@@ -2732,7 +2755,7 @@ pelzucki1896:
       note: null
     - n: 29
       name: Goska Osip
-      name_norm: Goske Joseph
+      name_norm: Joseph Goske
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2742,7 +2765,7 @@ pelzucki1896:
       note: null
     - n: 29
       name: Goska Osip
-      name_norm: Goske Joseph
+      name_norm: Joseph Goske
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2752,7 +2775,7 @@ pelzucki1896:
       note: null
     - n: 31
       name: Knafkus Vilgelm
-      name_norm: Knafkus Wilhelm
+      name_norm: Wilhelm Knafkus
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2782,7 +2805,7 @@ pelzucki1896:
       note: null
     - n: 34
       name: Runge Martin
-      name_norm: Runge Martin
+      name_norm: Martin Runge
       norm_conf: firm
       name_de: null
       institution: null
@@ -2792,7 +2815,7 @@ pelzucki1896:
       note: null
     - n: 35
       name: Kitke Kristiian
-      name_norm: Kitke Christian
+      name_norm: Christian Kitke
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2802,7 +2825,7 @@ pelzucki1896:
       note: null
     - n: 36
       name: Fridenberg Kristof
-      name_norm: Friedenberg Christoph
+      name_norm: Christoph Friedenberg
       norm_conf: firm
       name_de: null
       institution: null
@@ -2812,7 +2835,7 @@ pelzucki1896:
       note: null
     - n: 37
       name: Tselmer Gotfrid
-      name_norm: Zellmer Gottfried
+      name_norm: Gottfried Zellmer
       norm_conf: firm
       name_de: null
       institution: null
@@ -2822,7 +2845,7 @@ pelzucki1896:
       note: null
     - n: 37
       name: Tselmer Gotfrid
-      name_norm: Zellmer Gottfried
+      name_norm: Gottfried Zellmer
       norm_conf: firm
       name_de: null
       institution: null
@@ -2832,7 +2855,7 @@ pelzucki1896:
       note: null
     - n: 37
       name: Tselmer Gotfrid
-      name_norm: Zellmer Gottfried
+      name_norm: Gottfried Zellmer
       norm_conf: firm
       name_de: null
       institution: null
@@ -2842,7 +2865,7 @@ pelzucki1896:
       note: null
     - n: 38
       name: Malinovskii Petr
-      name_norm: Malinowski Piotr
+      name_norm: Piotr Malinowski
       norm_conf: firm
       name_de: null
       institution: null
@@ -2852,7 +2875,7 @@ pelzucki1896:
       note: null
     - n: 39
       name: Khaupt Kristiian
-      name_norm: Haupt Christian
+      name_norm: Christian Haupt
       norm_conf: firm
       name_de: null
       institution: null
@@ -2862,7 +2885,7 @@ pelzucki1896:
       note: null
     - n: 40
       name: Shvebs Karl Veniiamin
-      name_norm: Schwebs Karl Benjamin
+      name_norm: Karl Benjamin Schwebs
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2872,7 +2895,7 @@ pelzucki1896:
       note: null
     - n: 41
       name: Shtirtsenbeker Karl
-      name_norm: Stürzenbecker Karl
+      name_norm: Karl Stürzenbecker
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2902,7 +2925,7 @@ pelzucki1896:
       note: null
     - n: 44
       name: Rash Friderik
-      name_norm: Rasch Friedrich
+      name_norm: Friedrich Rasch
       norm_conf: firm
       name_de: null
       institution: null
@@ -2912,7 +2935,7 @@ pelzucki1896:
       note: null
     - n: 44
       name: Rash Friderik
-      name_norm: Rasch Friedrich
+      name_norm: Friedrich Rasch
       norm_conf: firm
       name_de: null
       institution: null
@@ -2922,7 +2945,7 @@ pelzucki1896:
       note: null
     - n: 44
       name: Rash Friderik
-      name_norm: Rasch Friedrich
+      name_norm: Friedrich Rasch
       norm_conf: firm
       name_de: null
       institution: null
@@ -2932,7 +2955,7 @@ pelzucki1896:
       note: null
     - n: 44
       name: Rash Friderik
-      name_norm: Rasch Friedrich
+      name_norm: Friedrich Rasch
       norm_conf: firm
       name_de: null
       institution: null
@@ -2942,7 +2965,7 @@ pelzucki1896:
       note: null
     - n: 45
       name: Bandzert Emanuil
-      name_norm: Banzert Emanuel
+      name_norm: Emanuel Banzert
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2952,7 +2975,7 @@ pelzucki1896:
       note: null
     - n: 46
       name: Kun Gotfrid
-      name_norm: Kuhn Gottfried
+      name_norm: Gottfried Kuhn
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2962,7 +2985,7 @@ pelzucki1896:
       note: null
     - n: 47
       name: Zeer Kristiian
-      name_norm: Zeer Christian
+      name_norm: Christian Zeer
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2972,7 +2995,7 @@ pelzucki1896:
       note: null
     - n: 47
       name: Zeer Kristiian
-      name_norm: Zeer Christian
+      name_norm: Christian Zeer
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2982,7 +3005,7 @@ pelzucki1896:
       note: null
     - n: 49
       name: Merts Avgust
-      name_norm: Mertz August
+      name_norm: August Mertz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -2992,7 +3015,7 @@ pelzucki1896:
       note: null
     - n: 50
       name: Tselmer Genrikh
-      name_norm: Zellmer Heinrich
+      name_norm: Heinrich Zellmer
       norm_conf: firm
       name_de: null
       institution: null
@@ -3002,7 +3025,7 @@ pelzucki1896:
       note: null
     - n: 51
       name: Gebel Karl
-      name_norm: Gibel Karl
+      name_norm: Karl Gibel
       norm_conf: firm
       name_de: null
       institution: null
@@ -3012,7 +3035,7 @@ pelzucki1896:
       note: null
     - n: 52
       name: Shmigelskii Samuil
-      name_norm: Śmigelski Samuel
+      name_norm: Samuel Śmigelski
       norm_conf: firm
       name_de: null
       institution: null
@@ -3032,7 +3055,7 @@ pelzucki1896:
       note: null
     - n: 54
       name: Bitner Andrei
-      name_norm: Bitner Andreas
+      name_norm: Andreas Bitner
       norm_conf: firm
       name_de: null
       institution: null
@@ -3042,7 +3065,7 @@ pelzucki1896:
       note: null
     - n: 54
       name: Bitner Andrei
-      name_norm: Bitner Andreas
+      name_norm: Andreas Bitner
       norm_conf: firm
       name_de: null
       institution: null
@@ -3052,7 +3075,7 @@ pelzucki1896:
       note: null
     - n: 55
       name: Rytamer Anton
-      name_norm: Rittamer Anton
+      name_norm: Anton Rittamer
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3062,7 +3085,7 @@ pelzucki1896:
       note: null
     - n: 56
       name: Przhistanskii Anton
-      name_norm: Przystański Antoni
+      name_norm: Antoni Przystański
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3072,7 +3095,7 @@ pelzucki1896:
       note: null
     - n: 57
       name: Bartel Karl Liudvik
-      name_norm: Bartel Karl Ludwig
+      name_norm: Karl Ludwig Bartel
       norm_conf: firm
       name_de: null
       institution: null
@@ -3082,7 +3105,7 @@ pelzucki1896:
       note: null
     - n: 58
       name: Goske Voitsekh
-      name_norm: Goske Wojciech
+      name_norm: Wojciech Goske
       norm_conf: firm
       name_de: null
       institution: null
@@ -3092,7 +3115,7 @@ pelzucki1896:
       note: null
     - n: 59
       name: Gints Liudvik
-      name_norm: Hintz Ludwig
+      name_norm: Ludwig Hintz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3102,7 +3125,7 @@ pelzucki1896:
       note: null
     - n: 60
       name: Shtark Daniil
-      name_norm: Stark Daniel
+      name_norm: Daniel Stark
       norm_conf: firm
       name_de: null
       institution: null
@@ -3112,7 +3135,7 @@ pelzucki1896:
       note: null
     - n: 61
       name: Kinast Voitsekh
-      name_norm: Kinast Wojciech
+      name_norm: Wojciech Kinast
       norm_conf: firm
       name_de: null
       institution: null
@@ -3122,7 +3145,7 @@ pelzucki1896:
       note: null
     - n: 61
       name: Kinast Voitsekh
-      name_norm: Kinast Wojciech
+      name_norm: Wojciech Kinast
       norm_conf: firm
       name_de: null
       institution: null
@@ -3132,7 +3155,7 @@ pelzucki1896:
       note: null
     - n: 61
       name: Kinast Voitsekh
-      name_norm: Kinast Wojciech
+      name_norm: Wojciech Kinast
       norm_conf: firm
       name_de: null
       institution: null
@@ -3142,7 +3165,7 @@ pelzucki1896:
       note: null
     - n: 61
       name: Kinast Voitsekh
-      name_norm: Kinast Wojciech
+      name_norm: Wojciech Kinast
       norm_conf: firm
       name_de: null
       institution: null
@@ -3152,7 +3175,7 @@ pelzucki1896:
       note: null
     - n: 62
       name: Kusman Gotlib
-      name_norm: Kussmann Gottlieb
+      name_norm: Gottlieb Kussmann
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3172,7 +3195,7 @@ pelzucki1896:
       note: null
     - n: 65
       name: Tselmer Mikhail
-      name_norm: Zellmer Michael
+      name_norm: Michael Zellmer
       norm_conf: firm
       name_de: null
       institution: null
@@ -3182,7 +3205,7 @@ pelzucki1896:
       note: null
     - n: 66
       name: Shtark Avgust
-      name_norm: Stark August
+      name_norm: August Stark
       norm_conf: firm
       name_de: null
       institution: null
@@ -3192,7 +3215,7 @@ pelzucki1896:
       note: null
     - n: 67
       name: Tselmer Avgust
-      name_norm: Zellmer August
+      name_norm: August Zellmer
       norm_conf: firm
       name_de: null
       institution: null
@@ -3202,7 +3225,7 @@ pelzucki1896:
       note: null
     - n: 68
       name: Lipelt Martin
-      name_norm: Liepelt Martin
+      name_norm: Martin Liepelt
       norm_conf: firm
       name_de: null
       institution: null
@@ -3212,7 +3235,7 @@ pelzucki1896:
       note: null
     - n: 69
       name: Gotter Avgust
-      name_norm: Gotter August
+      name_norm: August Gotter
       norm_conf: firm
       name_de: null
       institution: null
@@ -3222,7 +3245,7 @@ pelzucki1896:
       note: null
     - n: 70
       name: Morits Gotfrid
-      name_norm: Moritz Gottfried
+      name_norm: Gottfried Moritz
       norm_conf: firm
       name_de: null
       institution: null
@@ -3232,7 +3255,7 @@ pelzucki1896:
       note: null
     - n: 71
       name: Obst Vilgelm
-      name_norm: Obst Wilhelm
+      name_norm: Wilhelm Obst
       norm_conf: firm
       name_de: null
       institution: null
@@ -3242,7 +3265,7 @@ pelzucki1896:
       note: null
     - n: 72
       name: Reikh Kristiian
-      name_norm: Reich Christian
+      name_norm: Christian Reich
       norm_conf: firm
       name_de: null
       institution: null
@@ -3252,7 +3275,7 @@ pelzucki1896:
       note: null
     - n: 73
       name: Shvebs Ivan
-      name_norm: Schwebs Johann
+      name_norm: Johann Schwebs
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3262,7 +3285,7 @@ pelzucki1896:
       note: null
     - n: 74
       name: Khaupt Gotlib
-      name_norm: Haupt Gottlieb
+      name_norm: Gottlieb Haupt
       norm_conf: firm
       name_de: null
       institution: null
@@ -3272,7 +3295,7 @@ pelzucki1896:
       note: null
     - n: 75
       name: Khaupt Gotfrid
-      name_norm: Haupt Gottfried
+      name_norm: Gottfried Haupt
       norm_conf: firm
       name_de: null
       institution: null
@@ -3282,7 +3305,7 @@ pelzucki1896:
       note: null
     - n: 76
       name: Khaupt Kristiian
-      name_norm: Haupt Christian
+      name_norm: Christian Haupt
       norm_conf: firm
       name_de: null
       institution: null
@@ -3292,7 +3315,7 @@ pelzucki1896:
       note: null
     - n: 77
       name: Gebel Kristiian
-      name_norm: Haupt Christian [conflict]
+      name_norm: Christian Haupt
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3302,7 +3325,7 @@ pelzucki1896:
       note: null
     - n: 78
       name: Zelchak Foma
-      name_norm: Zielczak Tomasz
+      name_norm: Tomasz Zielczak
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3312,7 +3335,7 @@ pelzucki1896:
       note: null
     - n: 80
       name: Fogel Vilgelm
-      name_norm: Vogel Wilhelm
+      name_norm: Wilhelm Vogel
       norm_conf: firm
       name_de: null
       institution: null
@@ -3322,7 +3345,7 @@ pelzucki1896:
       note: null
     - n: 81
       name: Sheinfish Vilgelm
-      name_norm: Schönfisch Wilhelm
+      name_norm: Wilhelm Schönfisch
       norm_conf: firm
       name_de: null
       institution: null
@@ -3332,7 +3355,7 @@ pelzucki1896:
       note: null
     - n: 81
       name: Sheinfish Vilgelm
-      name_norm: Schönfisch Wilhelm
+      name_norm: Wilhelm Schönfisch
       norm_conf: firm
       name_de: null
       institution: null
@@ -3342,7 +3365,7 @@ pelzucki1896:
       note: null
     - n: 82
       name: Rogatskii Stanislav
-      name_norm: Rogacki Stanisław
+      name_norm: Stanisław Rogacki
       norm_conf: firm
       name_de: null
       institution: null
@@ -3352,7 +3375,7 @@ pelzucki1896:
       note: null
     - n: 83
       name: Fetter Ivan
-      name_norm: Fetter Johann
+      name_norm: Johann Fetter
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3372,7 +3395,7 @@ pelzucki1896:
       note: null
     - n: 86
       name: Khaupt Gotfrid
-      name_norm: Haupt Gottfried
+      name_norm: Gottfried Haupt
       norm_conf: firm
       name_de: null
       institution: null
@@ -3382,7 +3405,7 @@ pelzucki1896:
       note: null
     - n: 87
       name: Khaupt Vilgelm
-      name_norm: Haupt Wilhelm
+      name_norm: Wilhelm Haupt
       norm_conf: firm
       name_de: null
       institution: null
@@ -3402,7 +3425,7 @@ pelzucki1896:
       note: null
     - n: 90
       name: Rogovich Martin
-      name_norm: Rogowicz Marcin
+      name_norm: Marcin Rogowicz
       norm_conf: conjectural
       name_de: null
       institution: null
@@ -3412,7 +3435,7 @@ pelzucki1896:
       note: null
     - n: 91
       name: Marylskii Ivan
-      name_norm: Marylski Jan
+      name_norm: Jan Marylski
       norm_conf: firm
       name_de: null
       institution: null
@@ -3450,7 +3473,7 @@ pelzucki1896:
       rods: 84
       dues: 17 r 84 k
       servitudes: 4 Morgen
-      name_norm: Kończyński Jakub
+      name_norm: Jakub Kończyński
       name_lang: pl
       norm_conf: conjectural
       norm_note: 'Кончинскій: the stem could be Kończyn- or Koncin- (also possible: Konchiński)'
@@ -3465,7 +3488,7 @@ pelzucki1896:
       rods: 262
       dues: 29 r 262 k
       servitudes: 4 Morgen
-      name_norm: Gibel Martin
+      name_norm: Martin Gibel
       name_lang: de
       norm_conf: firm
       norm_note: Gibel, not Göbel — seen in other records (editor, 2026-11-05)
@@ -3480,7 +3503,7 @@ pelzucki1896:
       rods: 56
       dues: 48 r 56 k
       servitudes: 4 Morgen
-      name_norm: Mertz Karl
+      name_norm: Karl Mertz
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
@@ -3495,7 +3518,7 @@ pelzucki1896:
       rods: 161
       dues: 40 r 161 k
       servitudes: 4 Morgen
-      name_norm: Holm Daniel
+      name_norm: Daniel Holm
       name_lang: de
       norm_conf: firm
       mark: true
@@ -3509,7 +3532,7 @@ pelzucki1896:
       rods: 289
       dues: 7 r 289 k
       servitudes: 4 Morgen
-      name_norm: Mertz Gottlieb
+      name_norm: Gottlieb Mertz
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
@@ -3524,7 +3547,7 @@ pelzucki1896:
       rods: 233
       dues: 17 r 233 k
       servitudes: 4 Morgen
-      name_norm: Hirsch Christian
+      name_norm: Christian Hirsch
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Giersz (Polish))'
@@ -3539,7 +3562,7 @@ pelzucki1896:
       rods: 112
       dues: 15 r 112 k
       servitudes: 4 Morgen
-      name_norm: Kinast Wilhelm
+      name_norm: Wilhelm Kinast
       name_lang: de
       norm_conf: firm
       mark: true
@@ -3553,7 +3576,7 @@ pelzucki1896:
       rods: 148
       dues: 11 r 148 k
       servitudes: 6 Morgen
-      name_norm: Strzyżykowski Franciszek
+      name_norm: Franciszek Strzyżykowski
       name_lang: pl
       norm_conf: conjectural
       norm_note: 'from strzyżyk (the wren) or the place Strzyżów (also possible: Strzyżowski)'
@@ -3568,7 +3591,7 @@ pelzucki1896:
       rods: 22
       dues: 19 r 22 k
       servitudes: 4 Morgen
-      name_norm: Sanikowski Marcin
+      name_norm: Marcin Sanikowski
       name_lang: pl
       norm_conf: conjectural
       norm_note: '(also possible: Sannikowski)'
@@ -3583,7 +3606,7 @@ pelzucki1896:
       rods: 179
       dues: 32 r 179 k
       servitudes: 4 Morgen
-      name_norm: Marek Wilhelm
+      name_norm: Wilhelm Marek
       name_lang: pl
       norm_conf: firm
       norm_note: 'the surname is Polish as spelt; Breyer''s 1875 pencil note: a Merz farmed it'
@@ -3598,7 +3621,7 @@ pelzucki1896:
       rods: 273
       dues: 22 r 273 k
       servitudes: 4 Morgen
-      name_norm: Grünwald Christoph
+      name_norm: Christoph Grünwald
       name_lang: de
       norm_conf: firm
       mark: true
@@ -3612,11 +3635,11 @@ pelzucki1896:
       rods: 122
       dues: 14 r 122 k
       servitudes: 4 Morgen
-      name_norm: '[uncertain: Śliwiński] Gottlieb'
+      name_norm: Gottlieb Śliwiński
       name_lang: pl
       norm_conf: firm
-      norm_note: 'collation: the 1868, 1869 and Breyer readings agree plainly - the 1896 uncertainty can
-        be lifted (ruling pending)'
+      norm_note: 'collation: the 1868, 1869 and Breyer readings agree plainly - shown without the uncertain
+        marker at the editor''s word (2026-11-06)'
       mark: false
       ha: 8.1
     - n: 13
@@ -3628,7 +3651,7 @@ pelzucki1896:
       rods: 75
       dues: 17 r 75 k
       servitudes: 4 Morgen
-      name_norm: Steinbart Julian
+      name_norm: Julian Steinbart
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Steinbord, Steinbardt)'
@@ -3643,7 +3666,7 @@ pelzucki1896:
       rods: 280
       dues: 13 r 280 k
       servitudes: 6 Morgen
-      name_norm: Holm Wilhelm
+      name_norm: Wilhelm Holm
       name_lang: de
       norm_conf: firm
       mark: true
@@ -3657,7 +3680,7 @@ pelzucki1896:
       rods: 15
       dues: 5 r 15 k
       servitudes: 4 Morgen
-      name_norm: Falk August
+      name_norm: August Falk
       name_lang: de
       norm_conf: firm
       mark: true
@@ -3671,7 +3694,7 @@ pelzucki1896:
       rods: 125
       dues: 23 r 125 k
       servitudes: 4 Morgen
-      name_norm: Mertz Christian
+      name_norm: Christian Mertz
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
@@ -3686,7 +3709,7 @@ pelzucki1896:
       rods: 293
       dues: 8 r 293 k
       servitudes: 4 Morgen
-      name_norm: Mertz Martin
+      name_norm: Martin Mertz
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
@@ -3701,7 +3724,7 @@ pelzucki1896:
       rods: 244
       dues: 27 r 244 k
       servitudes: 4 Morgen
-      name_norm: Sanikowski Józef
+      name_norm: Józef Sanikowski
       name_lang: pl
       norm_conf: conjectural
       norm_note: '(also possible: Sannikowski)'
@@ -3716,7 +3739,7 @@ pelzucki1896:
       rods: 24
       dues: 15 r 24 k
       servitudes: 4 Morgen
-      name_norm: Stürzenbecker Christian
+      name_norm: Christian Stürzenbecker
       name_lang: de
       norm_conf: conjectural
       norm_note: the three Russian spellings (Sturtsenbekher, Shtirtsenbeker, Stirtsenbeker) all point
@@ -3732,7 +3755,7 @@ pelzucki1896:
       rods: 187
       dues: 24 r 187 k
       servitudes: 4 Morgen
-      name_norm: Sanikowski Jan
+      name_norm: Jan Sanikowski
       name_lang: pl
       norm_conf: conjectural
       norm_note: '(also possible: Sannikowski)'
@@ -3762,7 +3785,7 @@ pelzucki1896:
       rods: 294
       dues: 9 r 294 k
       servitudes: 4 Morgen
-      name_norm: Bludziński Jan
+      name_norm: Jan Bludziński
       name_lang: pl
       norm_conf: firm
       mark: true
@@ -3776,7 +3799,7 @@ pelzucki1896:
       rods: 70
       dues: 49 r 70 k
       servitudes: 4 Morgen
-      name_norm: Śmigelski Wilhelm
+      name_norm: Wilhelm Śmigelski
       name_lang: pl
       norm_conf: firm
       mark: true
@@ -3804,7 +3827,7 @@ pelzucki1896:
       rods: 87
       dues: 13 r 87 k
       servitudes: 4 Morgen
-      name_norm: '[uncertain: Promins] Szczepan'
+      name_norm: Szczepan Promins
       name_lang: pl
       norm_conf: conjectural
       norm_note: all four witnesses hesitate on the same word (Promist/Promins) - stays uncertain
@@ -3819,7 +3842,7 @@ pelzucki1896:
       rods: 222
       dues: 36 r 222 k
       servitudes: 4 Morgen
-      name_norm: Runge Wojciech
+      name_norm: Wojciech Runge
       name_lang: de
       norm_conf: firm
       norm_note: the given name is Polish (Wojciech) - normalised per element
@@ -3848,7 +3871,7 @@ pelzucki1896:
       rods: 94
       dues: 41 r 94 k
       servitudes: 4 Morgen
-      name_norm: Falkenberg Martin
+      name_norm: Martin Falkenberg
       name_lang: de
       norm_conf: firm
       mark: false
@@ -3862,7 +3885,7 @@ pelzucki1896:
       rods: 188
       dues: 15 r 188 k
       servitudes: 4 Morgen
-      name_norm: Goske Joseph
+      name_norm: Joseph Goske
       name_lang: de
       norm_conf: conjectural
       norm_note: 'Goska → Goske: the 1868 genitive (Госкѣ) spells it with e'
@@ -3877,7 +3900,7 @@ pelzucki1896:
       rods: 196
       dues: 7 r 196 k
       servitudes: 4 Morgen
-      name_norm: Schulz Christian
+      name_norm: Christian Schulz
       name_lang: de
       norm_conf: firm
       mark: false
@@ -3891,7 +3914,7 @@ pelzucki1896:
       rods: 196
       dues: 1 r 196 k
       servitudes: 4 Morgen
-      name_norm: Knafkus Wilhelm
+      name_norm: Wilhelm Knafkus
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Knaufkus)'
@@ -3935,7 +3958,7 @@ pelzucki1896:
       rods: 115
       dues: 2 r 115 k
       servitudes: 4 Morgen
-      name_norm: Runge Martin
+      name_norm: Martin Runge
       name_lang: de
       norm_conf: firm
       mark: true
@@ -3949,7 +3972,7 @@ pelzucki1896:
       rods: 46
       dues: 6 r 46 k
       servitudes: 4 Morgen
-      name_norm: Kitke Christian
+      name_norm: Christian Kitke
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Kietke)'
@@ -3964,7 +3987,7 @@ pelzucki1896:
       rods: 220
       dues: 19 r 220 k
       servitudes: 4 Morgen
-      name_norm: Friedenberg Christoph
+      name_norm: Christoph Friedenberg
       name_lang: de
       norm_conf: firm
       mark: true
@@ -3978,7 +4001,7 @@ pelzucki1896:
       rods: 14
       dues: 26 r 14 k
       servitudes: 4 Morgen
-      name_norm: Zellmer Gottfried
+      name_norm: Gottfried Zellmer
       name_lang: de
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
@@ -3993,7 +4016,7 @@ pelzucki1896:
       rods: 277
       dues: 5 r 277 k
       servitudes: 4 Morgen
-      name_norm: Malinowski Piotr
+      name_norm: Piotr Malinowski
       name_lang: pl
       norm_conf: firm
       mark: true
@@ -4007,7 +4030,7 @@ pelzucki1896:
       rods: 174
       dues: 13 r 174 k
       servitudes: 4 Morgen
-      name_norm: Haupt Christian
+      name_norm: Christian Haupt
       name_lang: de
       norm_conf: firm
       norm_note: 1868 reads Haupt Franz Christian - the 1896 clerk dropped the middle name
@@ -4022,7 +4045,7 @@ pelzucki1896:
       rods: 168
       dues: 4 r 168 k
       servitudes: 4 Morgen
-      name_norm: Schwebs Karl Benjamin
+      name_norm: Karl Benjamin Schwebs
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Schwabs)'
@@ -4037,7 +4060,7 @@ pelzucki1896:
       rods: 45
       dues: 8 r 45 k
       servitudes: 4 Morgen
-      name_norm: Stürzenbecker Karl
+      name_norm: Karl Stürzenbecker
       name_lang: de
       norm_conf: conjectural
       norm_note: as farm 19
@@ -4066,7 +4089,7 @@ pelzucki1896:
       rods: 248
       dues: 3 r 248 k
       servitudes: 4 Morgen
-      name_norm: Kinast Matthäus
+      name_norm: Matthäus Kinast
       name_lang: de
       norm_conf: firm
       mark: false
@@ -4080,7 +4103,7 @@ pelzucki1896:
       rods: 196
       dues: 53 r 196 k
       servitudes: 4 Morgen
-      name_norm: Rasch Friedrich
+      name_norm: Friedrich Rasch
       name_lang: de
       norm_conf: firm
       norm_note: 1868 reads Rasch Friedrich Ivan - the 1896 clerk dropped Ivan (Johann)
@@ -4095,7 +4118,7 @@ pelzucki1896:
       rods: 48
       dues: 4 r 48 k
       servitudes: 4 Morgen
-      name_norm: Banzert Emanuel
+      name_norm: Emanuel Banzert
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Bandzert, Bansert)'
@@ -4110,7 +4133,7 @@ pelzucki1896:
       rods: 66
       dues: 38 r 66 k
       servitudes: 4 Morgen
-      name_norm: Kuhn Gottfried
+      name_norm: Gottfried Kuhn
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Kühn, Kun)'
@@ -4125,7 +4148,7 @@ pelzucki1896:
       rods: 99
       dues: 42 r 99 k
       servitudes: 5 Morgen
-      name_norm: Zeer Christian
+      name_norm: Christian Zeer
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Seher)'
@@ -4140,7 +4163,7 @@ pelzucki1896:
       rods: 135
       dues: 36 r 135 k
       servitudes: 4 Morgen
-      name_norm: Banzert Moritz
+      name_norm: Moritz Banzert
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Bandzert, Bansert)'
@@ -4155,7 +4178,7 @@ pelzucki1896:
       rods: 93
       dues: 33 r 93 k
       servitudes: 4 Morgen
-      name_norm: Mertz August
+      name_norm: August Mertz
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Merz)'
@@ -4170,7 +4193,7 @@ pelzucki1896:
       rods: 42
       dues: 35 r 42 k
       servitudes: 4 Morgen
-      name_norm: Zellmer Heinrich
+      name_norm: Heinrich Zellmer
       name_lang: de
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
@@ -4185,7 +4208,7 @@ pelzucki1896:
       rods: 105
       dues: 14 r 105 k
       servitudes: 4 Morgen
-      name_norm: Gibel Karl
+      name_norm: Karl Gibel
       name_lang: de
       norm_conf: firm
       norm_note: 'editor''s ruling 2026-11-05: Gibel in other records (not Göbel)'
@@ -4200,7 +4223,7 @@ pelzucki1896:
       rods: 13
       dues: 14 r 13 k
       servitudes: 4 Morgen
-      name_norm: Śmigelski Samuel
+      name_norm: Samuel Śmigelski
       name_lang: pl
       norm_conf: firm
       mark: true
@@ -4229,7 +4252,7 @@ pelzucki1896:
       rods: 115
       dues: 30 r 115 k
       servitudes: 4 Morgen
-      name_norm: Bitner Andreas
+      name_norm: Andreas Bitner
       name_lang: de
       norm_conf: firm
       norm_note: Bitner, not Büttner — seen in other records (editor, 2026-11-05)
@@ -4244,7 +4267,7 @@ pelzucki1896:
       rods: 142
       dues: 13 r 142 k
       servitudes: 4 Morgen
-      name_norm: Rittamer Anton
+      name_norm: Anton Rittamer
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Rytamer, Riedamer)'
@@ -4259,7 +4282,7 @@ pelzucki1896:
       rods: 59
       dues: 5 r 59 k
       servitudes: 4 Morgen
-      name_norm: Przystański Antoni
+      name_norm: Antoni Przystański
       name_lang: pl
       norm_conf: conjectural
       norm_note: 'прж renders the Polish prz- (also possible: Przystalski, Przytański)'
@@ -4274,7 +4297,7 @@ pelzucki1896:
       rods: 68
       dues: 6 r 68 k
       servitudes: 4 Morgen
-      name_norm: Bartel Karl Ludwig
+      name_norm: Karl Ludwig Bartel
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4288,7 +4311,7 @@ pelzucki1896:
       rods: 147
       dues: 16 r 147 k
       servitudes: 4 Morgen
-      name_norm: Goske Wojciech
+      name_norm: Wojciech Goske
       name_lang: de
       norm_conf: firm
       norm_note: the given name is Polish
@@ -4303,7 +4326,7 @@ pelzucki1896:
       rods: 287
       dues: 16 r 287 k
       servitudes: 6 Morgen
-      name_norm: Hintz Ludwig
+      name_norm: Ludwig Hintz
       name_lang: de
       norm_conf: conjectural
       norm_note: 'cf. Hintz in Breyer''s tables of the neighbouring colonies (APP 716, doc 5160) (also
@@ -4319,7 +4342,7 @@ pelzucki1896:
       rods: 157
       dues: 8 r 157 k
       servitudes: 4 Morgen
-      name_norm: Stark Daniel
+      name_norm: Daniel Stark
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4333,7 +4356,7 @@ pelzucki1896:
       rods: 94
       dues: 52 r 94 k
       servitudes: 6 Morgen
-      name_norm: Kinast Wojciech
+      name_norm: Wojciech Kinast
       name_lang: de
       norm_conf: firm
       norm_note: the given name is Polish
@@ -4348,7 +4371,7 @@ pelzucki1896:
       rods: 66
       dues: 2 r 66 k
       servitudes: 4 Morgen
-      name_norm: Kussmann Gottlieb
+      name_norm: Gottlieb Kussmann
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Kusman, Kußmann)'
@@ -4378,7 +4401,7 @@ pelzucki1896:
       rods: 277
       dues: 5 r 277 k
       servitudes: 4 Morgen
-      name_norm: Gehrke Gottfried
+      name_norm: Gottfried Gehrke
       name_lang: de
       norm_conf: firm
       mark: false
@@ -4392,7 +4415,7 @@ pelzucki1896:
       rods: 254
       dues: 36 r 254 k
       servitudes: 4 Morgen
-      name_norm: Zellmer Michael
+      name_norm: Michael Zellmer
       name_lang: de
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
@@ -4407,7 +4430,7 @@ pelzucki1896:
       rods: 241
       dues: 18 r 241 k
       servitudes: 6 Morgen
-      name_norm: Stark August
+      name_norm: August Stark
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4421,7 +4444,7 @@ pelzucki1896:
       rods: 227
       dues: 22 r 227 k
       servitudes: 4 Morgen
-      name_norm: Zellmer August
+      name_norm: August Zellmer
       name_lang: de
       norm_conf: firm
       norm_note: '(also possible: Zöllmer)'
@@ -4436,7 +4459,7 @@ pelzucki1896:
       rods: 121
       dues: 14 r 121 k
       servitudes: 4 Morgen
-      name_norm: Liepelt Martin
+      name_norm: Martin Liepelt
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4450,7 +4473,7 @@ pelzucki1896:
       rods: 64
       dues: 19 r 64 k
       servitudes: 4 Morgen
-      name_norm: Gotter August
+      name_norm: August Gotter
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4464,7 +4487,7 @@ pelzucki1896:
       rods: 292
       dues: 54 r 292 k
       servitudes: 4 Morgen
-      name_norm: Moritz Gottfried
+      name_norm: Gottfried Moritz
       name_lang: de
       norm_conf: firm
       norm_note: the surname here is Moritz (Морицъ), the given name Gottfried
@@ -4479,7 +4502,7 @@ pelzucki1896:
       rods: 272
       dues: 5 r 272 k
       servitudes: 4 Morgen
-      name_norm: Obst Wilhelm
+      name_norm: Wilhelm Obst
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4493,7 +4516,7 @@ pelzucki1896:
       rods: 297
       dues: 28 r 297 k
       servitudes: 4 Morgen
-      name_norm: Reich Christian
+      name_norm: Christian Reich
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4507,7 +4530,7 @@ pelzucki1896:
       rods: 221
       dues: 12 r 221 k
       servitudes: 4 Morgen
-      name_norm: Schwebs Johann
+      name_norm: Johann Schwebs
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Schwabs)'
@@ -4522,7 +4545,7 @@ pelzucki1896:
       rods: 124
       dues: 8 r 124 k
       servitudes: 4 Morgen
-      name_norm: Haupt Gottlieb
+      name_norm: Gottlieb Haupt
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4536,7 +4559,7 @@ pelzucki1896:
       rods: 98
       dues: 31 r 98 k
       servitudes: 6 Morgen
-      name_norm: Haupt Gottfried
+      name_norm: Gottfried Haupt
       name_lang: de
       norm_conf: firm
       norm_note: 1868 reads Haupt Gottfried Christian - the middle name distinguishes him from the Christian
@@ -4552,7 +4575,7 @@ pelzucki1896:
       rods: 33
       dues: 13 r 33 k
       servitudes: 4 Morgen
-      name_norm: Haupt Christian
+      name_norm: Christian Haupt
       name_lang: de
       norm_conf: firm
       norm_note: 1868 reads Khaupt Kristiian Kristiianov = Christian, son of Christian - the patronymic
@@ -4568,7 +4591,7 @@ pelzucki1896:
       rods: 48
       dues: 12 r 48 k
       servitudes: 4 Morgen
-      name_norm: Haupt Christian [conflict]
+      name_norm: Christian Haupt
       name_lang: de
       norm_conf: conjectural
       norm_note: 'CONFLICT: the 1896 statement (the map''s own source) reads Gebel Kristiian, but the
@@ -4585,7 +4608,7 @@ pelzucki1896:
       rods: 104
       dues: 6 r 104 k
       servitudes: 4 Morgen
-      name_norm: Zielczak Tomasz
+      name_norm: Tomasz Zielczak
       name_lang: pl
       norm_conf: conjectural
       norm_note: '(also possible: Zelczak, Selczak)'
@@ -4600,7 +4623,7 @@ pelzucki1896:
       rods: 255
       dues: 5 r 255 k
       servitudes: 4 Morgen
-      name_norm: Szczepiński Piotr
+      name_norm: Piotr Szczepiński
       name_lang: pl
       norm_conf: firm
       mark: false
@@ -4614,7 +4637,7 @@ pelzucki1896:
       rods: 214
       dues: 2 r 214 k
       servitudes: 4 Morgen
-      name_norm: Vogel Wilhelm
+      name_norm: Wilhelm Vogel
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4628,7 +4651,7 @@ pelzucki1896:
       rods: 218
       dues: 54 r 218 k
       servitudes: 4 Morgen
-      name_norm: Schönfisch Wilhelm
+      name_norm: Wilhelm Schönfisch
       name_lang: de
       norm_conf: firm
       norm_note: Schönfisch, not Scheinfisch (editor, 2026-11-05)
@@ -4643,7 +4666,7 @@ pelzucki1896:
       rods: 269
       dues: 16 r 269 k
       servitudes: 4 Morgen
-      name_norm: Rogacki Stanisław
+      name_norm: Stanisław Rogacki
       name_lang: pl
       norm_conf: firm
       mark: true
@@ -4657,7 +4680,7 @@ pelzucki1896:
       rods: 206
       dues: 2 r 206 k
       servitudes: 4 Morgen
-      name_norm: Fetter Johann
+      name_norm: Johann Fetter
       name_lang: de
       norm_conf: conjectural
       norm_note: '(also possible: Vetter)'
@@ -4688,7 +4711,7 @@ pelzucki1896:
       rods: 12
       dues: 2 r 12 k
       servitudes: 4 Morgen
-      name_norm: Kinast Christian
+      name_norm: Christian Kinast
       name_lang: de
       norm_conf: firm
       mark: false
@@ -4702,7 +4725,7 @@ pelzucki1896:
       rods: 37
       dues: 4 r 37 k
       servitudes: 4 Morgen
-      name_norm: Haupt Gottfried
+      name_norm: Gottfried Haupt
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4716,7 +4739,7 @@ pelzucki1896:
       rods: 179
       dues: 14 r 179 k
       servitudes: 4 Morgen
-      name_norm: Haupt Wilhelm
+      name_norm: Wilhelm Haupt
       name_lang: de
       norm_conf: firm
       mark: true
@@ -4730,7 +4753,7 @@ pelzucki1896:
       rods: 288
       dues: 1 r 288 k
       servitudes: 4 Morgen
-      name_norm: Hermann Wojciech
+      name_norm: Wojciech Hermann
       name_lang: de
       norm_conf: conjectural
       norm_note: Германъ as surname → Hermann; the given name is Polish (Wojciech)
@@ -4759,7 +4782,7 @@ pelzucki1896:
       rods: 193
       dues: ''
       servitudes: 4 Morgen
-      name_norm: Rogowicz Marcin
+      name_norm: Marcin Rogowicz
       name_lang: pl
       norm_conf: conjectural
       norm_note: '(also possible: Rogowitz)'
@@ -4774,7 +4797,7 @@ pelzucki1896:
       rods: 98
       dues: 5 r 98 k
       servitudes: 4 Morgen
-      name_norm: Marylski Jan
+      name_norm: Jan Marylski
       name_lang: pl
       norm_conf: firm
       mark: true
@@ -4856,7 +4879,7 @@ pelzucki1896:
       rods: null
       dues: 1 r .. k
       servitudes: 4 Morgen
-      name_norm: Reich Christian
+      name_norm: Christian Reich
       name_lang: de
       norm_conf: firm
       norm_note: the 1896 columns are dotted (..) and the name duplicates farm 72 - the same man's second
@@ -6526,6 +6549,7 @@ pelzucki1901:
   url: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/29753971
   tiles: https://takaji10.github.io/triebenfeld-maps/pelzucki1901/info.json
   warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=pelzucki1901
+  sat_warp: null
   view_rotation: 0
   width: 9442
   height: 6629

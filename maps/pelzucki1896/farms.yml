@@ -32,7 +32,7 @@ settlers:
   rods: 84
   dues: 17 r 84 k
   servitudes: 4 Morgen
-  name_norm: Kończyński Jakub
+  name_norm: Jakub Kończyński
   name_lang: pl
   norm_conf: conjectural
   norm_note: 'Кончинскій: the stem could be Kończyn- or Koncin- (also possible: Konchiński)'
@@ -45,7 +45,7 @@ settlers:
   rods: 262
   dues: 29 r 262 k
   servitudes: 4 Morgen
-  name_norm: Gibel Martin
+  name_norm: Martin Gibel
   name_lang: de
   norm_conf: firm
   norm_note: Gibel, not Göbel — seen in other records (editor, 2026-11-05)
@@ -58,7 +58,7 @@ settlers:
   rods: 56
   dues: 48 r 56 k
   servitudes: 4 Morgen
-  name_norm: Mertz Karl
+  name_norm: Karl Mertz
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Merz)'
@@ -71,7 +71,7 @@ settlers:
   rods: 161
   dues: 40 r 161 k
   servitudes: 4 Morgen
-  name_norm: Holm Daniel
+  name_norm: Daniel Holm
   name_lang: de
   norm_conf: firm
 - n: 5
@@ -83,7 +83,7 @@ settlers:
   rods: 289
   dues: 7 r 289 k
   servitudes: 4 Morgen
-  name_norm: Mertz Gottlieb
+  name_norm: Gottlieb Mertz
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Merz)'
@@ -96,7 +96,7 @@ settlers:
   rods: 233
   dues: 17 r 233 k
   servitudes: 4 Morgen
-  name_norm: Hirsch Christian
+  name_norm: Christian Hirsch
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Giersz (Polish))'
@@ -109,7 +109,7 @@ settlers:
   rods: 112
   dues: 15 r 112 k
   servitudes: 4 Morgen
-  name_norm: Kinast Wilhelm
+  name_norm: Wilhelm Kinast
   name_lang: de
   norm_conf: firm
 - n: 8
@@ -121,7 +121,7 @@ settlers:
   rods: 148
   dues: 11 r 148 k
   servitudes: 6 Morgen
-  name_norm: Strzyżykowski Franciszek
+  name_norm: Franciszek Strzyżykowski
   name_lang: pl
   norm_conf: conjectural
   norm_note: 'from strzyżyk (the wren) or the place Strzyżów (also possible: Strzyżowski)'
@@ -134,7 +134,7 @@ settlers:
   rods: 22
   dues: 19 r 22 k
   servitudes: 4 Morgen
-  name_norm: Sanikowski Marcin
+  name_norm: Marcin Sanikowski
   name_lang: pl
   norm_conf: conjectural
   norm_note: '(also possible: Sannikowski)'
@@ -147,7 +147,7 @@ settlers:
   rods: 179
   dues: 32 r 179 k
   servitudes: 4 Morgen
-  name_norm: Marek Wilhelm
+  name_norm: Wilhelm Marek
   name_lang: pl
   norm_conf: firm
   norm_note: 'the surname is Polish as spelt; Breyer''s 1875 pencil note: a Merz farmed it'
@@ -160,7 +160,7 @@ settlers:
   rods: 273
   dues: 22 r 273 k
   servitudes: 4 Morgen
-  name_norm: Grünwald Christoph
+  name_norm: Christoph Grünwald
   name_lang: de
   norm_conf: firm
 - n: 12
@@ -172,11 +172,11 @@ settlers:
   rods: 122
   dues: 14 r 122 k
   servitudes: 4 Morgen
-  name_norm: '[uncertain: Śliwiński] Gottlieb'
+  name_norm: Gottlieb Śliwiński
   name_lang: pl
   norm_conf: firm
-  norm_note: 'collation: the 1868, 1869 and Breyer readings agree plainly - the 1896 uncertainty can be
-    lifted (ruling pending)'
+  norm_note: 'collation: the 1868, 1869 and Breyer readings agree plainly - shown without the uncertain
+    marker at the editor''s word (2026-11-06)'
 - n: 13
   name: Shteinbord Iulian
   name_1868: Shteinbord Iulian
@@ -186,7 +186,7 @@ settlers:
   rods: 75
   dues: 17 r 75 k
   servitudes: 4 Morgen
-  name_norm: Steinbart Julian
+  name_norm: Julian Steinbart
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Steinbord, Steinbardt)'
@@ -199,7 +199,7 @@ settlers:
   rods: 280
   dues: 13 r 280 k
   servitudes: 6 Morgen
-  name_norm: Holm Wilhelm
+  name_norm: Wilhelm Holm
   name_lang: de
   norm_conf: firm
 - n: 15
@@ -211,7 +211,7 @@ settlers:
   rods: 15
   dues: 5 r 15 k
   servitudes: 4 Morgen
-  name_norm: Falk August
+  name_norm: August Falk
   name_lang: de
   norm_conf: firm
 - n: 16
@@ -223,7 +223,7 @@ settlers:
   rods: 125
   dues: 23 r 125 k
   servitudes: 4 Morgen
-  name_norm: Mertz Christian
+  name_norm: Christian Mertz
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Merz)'
@@ -236,7 +236,7 @@ settlers:
   rods: 293
   dues: 8 r 293 k
   servitudes: 4 Morgen
-  name_norm: Mertz Martin
+  name_norm: Martin Mertz
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Merz)'
@@ -249,7 +249,7 @@ settlers:
   rods: 244
   dues: 27 r 244 k
   servitudes: 4 Morgen
-  name_norm: Sanikowski Józef
+  name_norm: Józef Sanikowski
   name_lang: pl
   norm_conf: conjectural
   norm_note: '(also possible: Sannikowski)'
@@ -262,7 +262,7 @@ settlers:
   rods: 24
   dues: 15 r 24 k
   servitudes: 4 Morgen
-  name_norm: Stürzenbecker Christian
+  name_norm: Christian Stürzenbecker
   name_lang: de
   norm_conf: conjectural
   norm_note: the three Russian spellings (Sturtsenbekher, Shtirtsenbeker, Stirtsenbeker) all point here;
@@ -276,7 +276,7 @@ settlers:
   rods: 187
   dues: 24 r 187 k
   servitudes: 4 Morgen
-  name_norm: Sanikowski Jan
+  name_norm: Jan Sanikowski
   name_lang: pl
   norm_conf: conjectural
   norm_note: '(also possible: Sannikowski)'
@@ -302,7 +302,7 @@ settlers:
   rods: 294
   dues: 9 r 294 k
   servitudes: 4 Morgen
-  name_norm: Bludziński Jan
+  name_norm: Jan Bludziński
   name_lang: pl
   norm_conf: firm
 - n: 23
@@ -314,7 +314,7 @@ settlers:
   rods: 70
   dues: 49 r 70 k
   servitudes: 4 Morgen
-  name_norm: Śmigelski Wilhelm
+  name_norm: Wilhelm Śmigelski
   name_lang: pl
   norm_conf: firm
 - n: 24
@@ -338,7 +338,7 @@ settlers:
   rods: 87
   dues: 13 r 87 k
   servitudes: 4 Morgen
-  name_norm: '[uncertain: Promins] Szczepan'
+  name_norm: Szczepan Promins
   name_lang: pl
   norm_conf: conjectural
   norm_note: all four witnesses hesitate on the same word (Promist/Promins) - stays uncertain
@@ -351,7 +351,7 @@ settlers:
   rods: 222
   dues: 36 r 222 k
   servitudes: 4 Morgen
-  name_norm: Runge Wojciech
+  name_norm: Wojciech Runge
   name_lang: de
   norm_conf: firm
   norm_note: the given name is Polish (Wojciech) - normalised per element
@@ -376,7 +376,7 @@ settlers:
   rods: 94
   dues: 41 r 94 k
   servitudes: 4 Morgen
-  name_norm: Falkenberg Martin
+  name_norm: Martin Falkenberg
   name_lang: de
   norm_conf: firm
 - n: 29
@@ -388,7 +388,7 @@ settlers:
   rods: 188
   dues: 15 r 188 k
   servitudes: 4 Morgen
-  name_norm: Goske Joseph
+  name_norm: Joseph Goske
   name_lang: de
   norm_conf: conjectural
   norm_note: 'Goska → Goske: the 1868 genitive (Госкѣ) spells it with e'
@@ -401,7 +401,7 @@ settlers:
   rods: 196
   dues: 7 r 196 k
   servitudes: 4 Morgen
-  name_norm: Schulz Christian
+  name_norm: Christian Schulz
   name_lang: de
   norm_conf: firm
 - n: 31
@@ -413,7 +413,7 @@ settlers:
   rods: 196
   dues: 1 r 196 k
   servitudes: 4 Morgen
-  name_norm: Knafkus Wilhelm
+  name_norm: Wilhelm Knafkus
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Knaufkus)'
@@ -451,7 +451,7 @@ settlers:
   rods: 115
   dues: 2 r 115 k
   servitudes: 4 Morgen
-  name_norm: Runge Martin
+  name_norm: Martin Runge
   name_lang: de
   norm_conf: firm
 - n: 35
@@ -463,7 +463,7 @@ settlers:
   rods: 46
   dues: 6 r 46 k
   servitudes: 4 Morgen
-  name_norm: Kitke Christian
+  name_norm: Christian Kitke
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Kietke)'
@@ -476,7 +476,7 @@ settlers:
   rods: 220
   dues: 19 r 220 k
   servitudes: 4 Morgen
-  name_norm: Friedenberg Christoph
+  name_norm: Christoph Friedenberg
   name_lang: de
   norm_conf: firm
 - n: 37
@@ -488,7 +488,7 @@ settlers:
   rods: 14
   dues: 26 r 14 k
   servitudes: 4 Morgen
-  name_norm: Zellmer Gottfried
+  name_norm: Gottfried Zellmer
   name_lang: de
   norm_conf: firm
   norm_note: '(also possible: Zöllmer)'
@@ -501,7 +501,7 @@ settlers:
   rods: 277
   dues: 5 r 277 k
   servitudes: 4 Morgen
-  name_norm: Malinowski Piotr
+  name_norm: Piotr Malinowski
   name_lang: pl
   norm_conf: firm
 - n: 39
@@ -513,7 +513,7 @@ settlers:
   rods: 174
   dues: 13 r 174 k
   servitudes: 4 Morgen
-  name_norm: Haupt Christian
+  name_norm: Christian Haupt
   name_lang: de
   norm_conf: firm
   norm_note: 1868 reads Haupt Franz Christian - the 1896 clerk dropped the middle name
@@ -526,7 +526,7 @@ settlers:
   rods: 168
   dues: 4 r 168 k
   servitudes: 4 Morgen
-  name_norm: Schwebs Karl Benjamin
+  name_norm: Karl Benjamin Schwebs
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Schwabs)'
@@ -539,7 +539,7 @@ settlers:
   rods: 45
   dues: 8 r 45 k
   servitudes: 4 Morgen
-  name_norm: Stürzenbecker Karl
+  name_norm: Karl Stürzenbecker
   name_lang: de
   norm_conf: conjectural
   norm_note: as farm 19
@@ -564,7 +564,7 @@ settlers:
   rods: 248
   dues: 3 r 248 k
   servitudes: 4 Morgen
-  name_norm: Kinast Matthäus
+  name_norm: Matthäus Kinast
   name_lang: de
   norm_conf: firm
 - n: 44
@@ -576,7 +576,7 @@ settlers:
   rods: 196
   dues: 53 r 196 k
   servitudes: 4 Morgen
-  name_norm: Rasch Friedrich
+  name_norm: Friedrich Rasch
   name_lang: de
   norm_conf: firm
   norm_note: 1868 reads Rasch Friedrich Ivan - the 1896 clerk dropped Ivan (Johann)
@@ -589,7 +589,7 @@ settlers:
   rods: 48
   dues: 4 r 48 k
   servitudes: 4 Morgen
-  name_norm: Banzert Emanuel
+  name_norm: Emanuel Banzert
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Bandzert, Bansert)'
@@ -602,7 +602,7 @@ settlers:
   rods: 66
   dues: 38 r 66 k
   servitudes: 4 Morgen
-  name_norm: Kuhn Gottfried
+  name_norm: Gottfried Kuhn
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Kühn, Kun)'
@@ -615,7 +615,7 @@ settlers:
   rods: 99
   dues: 42 r 99 k
   servitudes: 5 Morgen
-  name_norm: Zeer Christian
+  name_norm: Christian Zeer
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Seher)'
@@ -628,7 +628,7 @@ settlers:
   rods: 135
   dues: 36 r 135 k
   servitudes: 4 Morgen
-  name_norm: Banzert Moritz
+  name_norm: Moritz Banzert
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Bandzert, Bansert)'
@@ -641,7 +641,7 @@ settlers:
   rods: 93
   dues: 33 r 93 k
   servitudes: 4 Morgen
-  name_norm: Mertz August
+  name_norm: August Mertz
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Merz)'
@@ -654,7 +654,7 @@ settlers:
   rods: 42
   dues: 35 r 42 k
   servitudes: 4 Morgen
-  name_norm: Zellmer Heinrich
+  name_norm: Heinrich Zellmer
   name_lang: de
   norm_conf: firm
   norm_note: '(also possible: Zöllmer)'
@@ -667,7 +667,7 @@ settlers:
   rods: 105
   dues: 14 r 105 k
   servitudes: 4 Morgen
-  name_norm: Gibel Karl
+  name_norm: Karl Gibel
   name_lang: de
   norm_conf: firm
   norm_note: 'editor''s ruling 2026-11-05: Gibel in other records (not Göbel)'
@@ -680,7 +680,7 @@ settlers:
   rods: 13
   dues: 14 r 13 k
   servitudes: 4 Morgen
-  name_norm: Śmigelski Samuel
+  name_norm: Samuel Śmigelski
   name_lang: pl
   norm_conf: firm
 - n: 53
@@ -705,7 +705,7 @@ settlers:
   rods: 115
   dues: 30 r 115 k
   servitudes: 4 Morgen
-  name_norm: Bitner Andreas
+  name_norm: Andreas Bitner
   name_lang: de
   norm_conf: firm
   norm_note: Bitner, not Büttner — seen in other records (editor, 2026-11-05)
@@ -718,7 +718,7 @@ settlers:
   rods: 142
   dues: 13 r 142 k
   servitudes: 4 Morgen
-  name_norm: Rittamer Anton
+  name_norm: Anton Rittamer
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Rytamer, Riedamer)'
@@ -731,7 +731,7 @@ settlers:
   rods: 59
   dues: 5 r 59 k
   servitudes: 4 Morgen
-  name_norm: Przystański Antoni
+  name_norm: Antoni Przystański
   name_lang: pl
   norm_conf: conjectural
   norm_note: 'прж renders the Polish prz- (also possible: Przystalski, Przytański)'
@@ -744,7 +744,7 @@ settlers:
   rods: 68
   dues: 6 r 68 k
   servitudes: 4 Morgen
-  name_norm: Bartel Karl Ludwig
+  name_norm: Karl Ludwig Bartel
   name_lang: de
   norm_conf: firm
 - n: 58
@@ -756,7 +756,7 @@ settlers:
   rods: 147
   dues: 16 r 147 k
   servitudes: 4 Morgen
-  name_norm: Goske Wojciech
+  name_norm: Wojciech Goske
   name_lang: de
   norm_conf: firm
   norm_note: the given name is Polish
@@ -769,7 +769,7 @@ settlers:
   rods: 287
   dues: 16 r 287 k
   servitudes: 6 Morgen
-  name_norm: Hintz Ludwig
+  name_norm: Ludwig Hintz
   name_lang: de
   norm_conf: conjectural
   norm_note: 'cf. Hintz in Breyer''s tables of the neighbouring colonies (APP 716, doc 5160) (also possible:
@@ -783,7 +783,7 @@ settlers:
   rods: 157
   dues: 8 r 157 k
   servitudes: 4 Morgen
-  name_norm: Stark Daniel
+  name_norm: Daniel Stark
   name_lang: de
   norm_conf: firm
 - n: 61
@@ -795,7 +795,7 @@ settlers:
   rods: 94
   dues: 52 r 94 k
   servitudes: 6 Morgen
-  name_norm: Kinast Wojciech
+  name_norm: Wojciech Kinast
   name_lang: de
   norm_conf: firm
   norm_note: the given name is Polish
@@ -808,7 +808,7 @@ settlers:
   rods: 66
   dues: 2 r 66 k
   servitudes: 4 Morgen
-  name_norm: Kussmann Gottlieb
+  name_norm: Gottlieb Kussmann
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Kusman, Kußmann)'
@@ -834,7 +834,7 @@ settlers:
   rods: 277
   dues: 5 r 277 k
   servitudes: 4 Morgen
-  name_norm: Gehrke Gottfried
+  name_norm: Gottfried Gehrke
   name_lang: de
   norm_conf: firm
 - n: 65
@@ -846,7 +846,7 @@ settlers:
   rods: 254
   dues: 36 r 254 k
   servitudes: 4 Morgen
-  name_norm: Zellmer Michael
+  name_norm: Michael Zellmer
   name_lang: de
   norm_conf: firm
   norm_note: '(also possible: Zöllmer)'
@@ -859,7 +859,7 @@ settlers:
   rods: 241
   dues: 18 r 241 k
   servitudes: 6 Morgen
-  name_norm: Stark August
+  name_norm: August Stark
   name_lang: de
   norm_conf: firm
 - n: 67
@@ -871,7 +871,7 @@ settlers:
   rods: 227
   dues: 22 r 227 k
   servitudes: 4 Morgen
-  name_norm: Zellmer August
+  name_norm: August Zellmer
   name_lang: de
   norm_conf: firm
   norm_note: '(also possible: Zöllmer)'
@@ -884,7 +884,7 @@ settlers:
   rods: 121
   dues: 14 r 121 k
   servitudes: 4 Morgen
-  name_norm: Liepelt Martin
+  name_norm: Martin Liepelt
   name_lang: de
   norm_conf: firm
 - n: 69
@@ -896,7 +896,7 @@ settlers:
   rods: 64
   dues: 19 r 64 k
   servitudes: 4 Morgen
-  name_norm: Gotter August
+  name_norm: August Gotter
   name_lang: de
   norm_conf: firm
 - n: 70
@@ -908,7 +908,7 @@ settlers:
   rods: 292
   dues: 54 r 292 k
   servitudes: 4 Morgen
-  name_norm: Moritz Gottfried
+  name_norm: Gottfried Moritz
   name_lang: de
   norm_conf: firm
   norm_note: the surname here is Moritz (Морицъ), the given name Gottfried
@@ -921,7 +921,7 @@ settlers:
   rods: 272
   dues: 5 r 272 k
   servitudes: 4 Morgen
-  name_norm: Obst Wilhelm
+  name_norm: Wilhelm Obst
   name_lang: de
   norm_conf: firm
 - n: 72
@@ -933,7 +933,7 @@ settlers:
   rods: 297
   dues: 28 r 297 k
   servitudes: 4 Morgen
-  name_norm: Reich Christian
+  name_norm: Christian Reich
   name_lang: de
   norm_conf: firm
 - n: 73
@@ -945,7 +945,7 @@ settlers:
   rods: 221
   dues: 12 r 221 k
   servitudes: 4 Morgen
-  name_norm: Schwebs Johann
+  name_norm: Johann Schwebs
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Schwabs)'
@@ -958,7 +958,7 @@ settlers:
   rods: 124
   dues: 8 r 124 k
   servitudes: 4 Morgen
-  name_norm: Haupt Gottlieb
+  name_norm: Gottlieb Haupt
   name_lang: de
   norm_conf: firm
 - n: 75
@@ -970,7 +970,7 @@ settlers:
   rods: 98
   dues: 31 r 98 k
   servitudes: 6 Morgen
-  name_norm: Haupt Gottfried
+  name_norm: Gottfried Haupt
   name_lang: de
   norm_conf: firm
   norm_note: 1868 reads Haupt Gottfried Christian - the middle name distinguishes him from the Christian
@@ -984,7 +984,7 @@ settlers:
   rods: 33
   dues: 13 r 33 k
   servitudes: 4 Morgen
-  name_norm: Haupt Christian
+  name_norm: Christian Haupt
   name_lang: de
   norm_conf: firm
   norm_note: 1868 reads Khaupt Kristiian Kristiianov = Christian, son of Christian - the patronymic is
@@ -998,7 +998,7 @@ settlers:
   rods: 48
   dues: 12 r 48 k
   servitudes: 4 Morgen
-  name_norm: Haupt Christian [conflict]
+  name_norm: Christian Haupt
   name_lang: de
   norm_conf: conjectural
   norm_note: 'CONFLICT: the 1896 statement (the map''s own source) reads Gebel Kristiian, but the 1868
@@ -1013,7 +1013,7 @@ settlers:
   rods: 104
   dues: 6 r 104 k
   servitudes: 4 Morgen
-  name_norm: Zielczak Tomasz
+  name_norm: Tomasz Zielczak
   name_lang: pl
   norm_conf: conjectural
   norm_note: '(also possible: Zelczak, Selczak)'
@@ -1026,7 +1026,7 @@ settlers:
   rods: 255
   dues: 5 r 255 k
   servitudes: 4 Morgen
-  name_norm: Szczepiński Piotr
+  name_norm: Piotr Szczepiński
   name_lang: pl
   norm_conf: firm
 - n: 80
@@ -1038,7 +1038,7 @@ settlers:
   rods: 214
   dues: 2 r 214 k
   servitudes: 4 Morgen
-  name_norm: Vogel Wilhelm
+  name_norm: Wilhelm Vogel
   name_lang: de
   norm_conf: firm
 - n: 81
@@ -1050,7 +1050,7 @@ settlers:
   rods: 218
   dues: 54 r 218 k
   servitudes: 4 Morgen
-  name_norm: Schönfisch Wilhelm
+  name_norm: Wilhelm Schönfisch
   name_lang: de
   norm_conf: firm
   norm_note: Schönfisch, not Scheinfisch (editor, 2026-11-05)
@@ -1063,7 +1063,7 @@ settlers:
   rods: 269
   dues: 16 r 269 k
   servitudes: 4 Morgen
-  name_norm: Rogacki Stanisław
+  name_norm: Stanisław Rogacki
   name_lang: pl
   norm_conf: firm
 - n: 83
@@ -1075,7 +1075,7 @@ settlers:
   rods: 206
   dues: 2 r 206 k
   servitudes: 4 Morgen
-  name_norm: Fetter Johann
+  name_norm: Johann Fetter
   name_lang: de
   norm_conf: conjectural
   norm_note: '(also possible: Vetter)'
@@ -1102,7 +1102,7 @@ settlers:
   rods: 12
   dues: 2 r 12 k
   servitudes: 4 Morgen
-  name_norm: Kinast Christian
+  name_norm: Christian Kinast
   name_lang: de
   norm_conf: firm
 - n: 86
@@ -1114,7 +1114,7 @@ settlers:
   rods: 37
   dues: 4 r 37 k
   servitudes: 4 Morgen
-  name_norm: Haupt Gottfried
+  name_norm: Gottfried Haupt
   name_lang: de
   norm_conf: firm
 - n: 87
@@ -1126,7 +1126,7 @@ settlers:
   rods: 179
   dues: 14 r 179 k
   servitudes: 4 Morgen
-  name_norm: Haupt Wilhelm
+  name_norm: Wilhelm Haupt
   name_lang: de
   norm_conf: firm
 - n: 88
@@ -1138,7 +1138,7 @@ settlers:
   rods: 288
   dues: 1 r 288 k
   servitudes: 4 Morgen
-  name_norm: Hermann Wojciech
+  name_norm: Wojciech Hermann
   name_lang: de
   norm_conf: conjectural
   norm_note: Германъ as surname → Hermann; the given name is Polish (Wojciech)
@@ -1163,7 +1163,7 @@ settlers:
   rods: 193
   dues: ''
   servitudes: 4 Morgen
-  name_norm: Rogowicz Marcin
+  name_norm: Marcin Rogowicz
   name_lang: pl
   norm_conf: conjectural
   norm_note: '(also possible: Rogowitz)'
@@ -1176,7 +1176,7 @@ settlers:
   rods: 98
   dues: 5 r 98 k
   servitudes: 4 Morgen
-  name_norm: Marylski Jan
+  name_norm: Jan Marylski
   name_lang: pl
   norm_conf: firm
 - n: 92
@@ -1248,7 +1248,7 @@ settlers:
   rods: null
   dues: 1 r .. k
   servitudes: 4 Morgen
-  name_norm: Reich Christian
+  name_norm: Christian Reich
   name_lang: de
   norm_conf: firm
   norm_note: the 1896 columns are dotted (..) and the name duplicates farm 72 - the same man's second
