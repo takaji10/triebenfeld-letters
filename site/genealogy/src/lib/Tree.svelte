@@ -14,7 +14,7 @@
   import { db, goto } from './db.svelte.js'
   import { i18n } from './i18n.js'
   import { fmtDate } from './dates.js'
-  import { layout, hasMoreUp, hasMoreDown,
+  import { layout, descendantPath, hasMoreUp, hasMoreDown,
            CARD_W, CARD_H, CELL, ROW_H, WINDOW_UP, WINDOW_DOWN } from './tree.js'
 
   let { id, mode = 'hourglass', embed = false } = $props()
@@ -25,7 +25,19 @@
   const focusId = $derived(embed ? (localId || id) : id)
   const effMode = $derived(embed ? localMode : mode)
 
-  const chart = $derived(db.ready && focusId ? layout(db, focusId, effMode) : null)
+  const chart = $derived(db.ready && focusId
+    ? layout(db, focusId, effMode, openPath) : null)
+
+  // the open branch: one at a time (opening a second collapses the
+  // first, the editor's ruling) - the chart renders the focus-to-leaf
+  // path of the expanded person, so a deep branch keeps its ancestors
+  let expandedId = $state(null)
+  const openPath = $derived(db.ready && focusId && expandedId
+    ? descendantPath(db, focusId, expandedId) : new Set())
+
+  function toggleExpand(pid) {
+    expandedId = expandedId === pid ? null : pid
+  }
   const W = $derived(chart ? chart.width : 800)
   const H = $derived(chart ? chart.height : 400)
 
@@ -64,9 +76,13 @@
     if (e.target?.closest?.('.detail')) return
     el.setPointerCapture?.(e.pointerId)
     pointers.set(e.pointerId, { x: e.clientX, y: e.clientY })
+    const badge = e.target?.closest?.('[data-expand]')
     const card = e.target?.closest?.('[data-pid]')
-    press = pointers.size === 1 && card
-      ? { id: card.getAttribute('data-pid'),
+    press = pointers.size === 1 && (badge || card)
+      ? { id: badge
+            ? badge.getAttribute('data-expand')
+            : card.getAttribute('data-pid'),
+          exp: !!badge,
           x: e.clientX, y: e.clientY }
       : null   // two fingers is a pinch, never a click
     if (pointers.size === 2) {
@@ -106,16 +122,23 @@
     dragging = null
     press = null
     if (e.type !== 'pointerup' || !was) return
-    // a click: pointer stayed under 6px from press to release
+    // a click: pointer stayed under 6px from press to release - on a
+    // +badge it opens or closes that branch, on the card it opens the
+    // detail panel
     if (Math.hypot(e.clientX - was.x, e.clientY - was.y) < 6) {
-      cardClick(was.id)
+      if (was.exp) toggleExpand(was.id)
+      else cardClick(was.id)
     }
   }
 
   let lastKey = ''
+  let lastFocus = ''
   $effect(() => {
-    const key = (focusId || '') + '/' + effMode
+    const key = (focusId || '') + '/' + effMode + '/' + (expandedId || '')
     if (chart && el && key !== lastKey) {
+      // a new focus starts with every branch closed
+      if (focusId !== lastFocus) expandedId = null
+      lastFocus = focusId
       lastKey = key
       center()
       // a frame with no layout yet (the data arrived before the CSS
@@ -201,9 +224,13 @@
              chart.baseY + n.y + CARD_H / 2)
   }
 
-  // the navigation arrows: does more tree exist beyond the window?
+  // the navigation arrows: does more tree exist beyond the window? The
+  // down arrow counts one generation beyond the children row - the
+  // grandchildren now sit behind the branch badges, so "more" means
+  // deeper than what the chart shows
   const moreUp = $derived(db.ready && focusId ? hasMoreUp(db, focusId) : false)
-  const moreDown = $derived(db.ready && focusId ? hasMoreDown(db, focusId) : false)
+  const moreDown = $derived(db.ready && focusId
+    ? hasMoreDown(db, focusId, 1) : false)
 
   // step: slide the window one generation out - the next step renders
   // while the far row derenders (the editor's model of the master tree)
@@ -384,6 +411,23 @@
               </text>
               <rect width={CARD_W} height={CARD_H} fill="transparent"
                     class="hit" />
+              {#if n.kc > 0 && !n.focus}
+                <!-- the branch badge: +n opens this person's hidden
+                     children, − closes them (one branch open at a
+                     time). Above the hit rect so the press lands here. -->
+                <g class="badge" data-expand={n.id} role="button"
+                   tabindex="-1">
+                  <title>{n.on ? i18n.t('collapse_branch')
+                          : i18n.t('expand_branch')}</title>
+                  <rect x={CARD_W - 40} y="4" width="36" height="15"
+                        rx="7.5" fill={n.on ? 'var(--accent)' : 'var(--paper2)'}
+                        stroke="var(--accent)" stroke-width="1" />
+                  <text x={CARD_W - 22} y="15" text-anchor="middle"
+                        class="btxt" fill={n.on ? '#fff' : 'var(--accent)'}>
+                    {n.on ? '−' : '+' + n.nk}
+                  </text>
+                </g>
+              {/if}
               {#if n.spouse}
                 {@const sv = db.index[n.spouse]}
                 {@const sav = sv?.pt && db.meta?.media_base
@@ -531,6 +575,8 @@
   .yrs { font-size: 9.5px; fill: var(--faint); }
   .pid { font-family: ui-monospace, Consolas, monospace; font-size: 8px;
     fill: var(--faint); }
+  .btxt { font-size: 9px; font-weight: 600; pointer-events: none; }
+  .badge { cursor: pointer; }
   .node.living rect { stroke-dasharray: 3 2; }
   /* the chart SVG is the size of the whole layout, but the pan/zoom
      transform must be free to carry the cards anywhere in the frame -

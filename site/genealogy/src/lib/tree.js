@@ -26,11 +26,11 @@ export const GAP_X = 16
 export const CELL = CARD_W + GAP_X
 export const ROW_H = 96
 // The chart is a window, not the whole graph: the focus's parents and
-// grandparents above, children and grandchildren below (the editor:
-// render it in parts, or the oldest-known ancestor's chart becomes
-// impossibly wide). The navigation arrows re-centre the window on a
-// frontier person - the next render drops the rows that left the
-// window, so the chart never grows past its two-step radius.
+// grandparents above, the children below - and the grandchildren behind
+// "+n" badges on the children's cards, one branch open at a time (the
+// editor's ruling, 2026-11-07: render it in parts, or the wide families
+// sprawl past twenty screen widths). The navigation arrows re-centre
+// the window on a frontier person; the badges open a branch in place.
 export const WINDOW_UP = 2
 export const WINDOW_DOWN = 2
 
@@ -84,26 +84,66 @@ function upTree(db, pid, depth, seen, maxUp = WINDOW_UP) {
 
 // The descendant half: the person, the spouse their children share
 // beside them (a card each), the children beneath the couple.
-function downTree(db, pid, depth, seen, maxDown = WINDOW_DOWN) {
+//
+// The window the editor approved (2026-11-07) is expandable: the focus's
+// children always render, but their children (the grandchildren) stay
+// behind a "+n" badge on the child's card until the reader opens that
+// branch - one branch open at a time (opening a second collapses the
+// first), so the chart can never sprawl the ~21 screen widths the
+// always-everything render produced (I0272). A spouse card appears only
+// where the couple's children are visible - a hidden branch's couple is
+// one card, the marriage still on the person page. openSet carries the
+// branch currently open: the ids on the focus-to-leaf path (what
+// descendantPath computes), so a deep branch keeps its ancestors open.
+function downTree(db, pid, depth, seen, openSet) {
   seen.add(pid)
+  const showKids = depth === 0 || openSet.has(pid)
   const spouses = []
   const children = []
+  let kc = 0   // children in the published data, whatever the chart shows
   for (const u of unionsOf(db, pid)) {
-    if (u.spouse && u.spouse !== pid && db.index[u.spouse] &&
-        !spouses.includes(u.spouse) &&
-        (u.children.length || depth === 0)) {
-      spouses.push(u.spouse)
-    }
-    if (depth < maxDown) {
-      for (const c of u.children) {
-        if (!db.index[c] || seen.has(c)) continue
-        const t = downTree(db, c, depth + 1, seen, maxDown)
+    const kids = u.children.filter(c => db.index[c])
+    kc += kids.length
+    if (showKids) {
+      if (u.spouse && u.spouse !== pid && db.index[u.spouse] &&
+          !spouses.includes(u.spouse) &&
+          (kids.length || depth === 0)) {
+        spouses.push(u.spouse)
+      }
+      for (const c of kids) {
+        if (seen.has(c)) continue
+        const t = downTree(db, c, depth + 1, seen, openSet)
         if (t) children.push(t)
       }
     }
   }
   return { id: pid, spouses, w: spouses.length ? 2 : 1,
-           root: depth === 0, children }
+           root: depth === 0, children,
+           kc, nk: showKids ? 0 : kc, on: showKids && depth > 0 }
+}
+
+// the focus-to-leaf path of family-child links: the ids a single open
+// branch needs rendered above its leaf (the leaf's ancestors up to but
+// excluding the focus). Empty when the leaf is not a descendant of the
+// focus - a stale expansion after re-rooting opens nothing.
+export function descendantPath(db, focusId, leafId) {
+  const path = new Set()
+  function walk(pid) {
+    if (pid === focusId) return true
+    if (path.has(pid)) return false
+    path.add(pid)
+    const p = db.index[pid]
+    const f = p && p.fc && p.fc.length ? db.families[p.fc[0]] : null
+    if (f) {
+      for (const par of [f.husb, f.wife]) {
+        if (par && db.index[par] && walk(par)) return true
+      }
+    }
+    path.delete(pid)
+    return false
+  }
+  if (leafId && db.index[leafId]) walk(leafId)
+  return path
 }
 
 // does more tree exist beyond the window? (whether the arrows show)
@@ -147,14 +187,14 @@ function elbow(x1, y1, x2, y2) {
   return `M ${x1} ${y1} L ${x1} ${my} L ${x2} ${my} L ${x2} ${y2}`
 }
 
-export function layout(db, id, mode = 'hourglass') {
+export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
   if (!id || !db.index || !db.index[id]) return null
-  // every mode renders the same two-step window now - the modes differ
-  // only in which half they show
+  // every mode renders the same window now - the modes differ only in
+  // which half they show
   const up = (mode !== 'descendants')
     ? runTree(upTree(db, id, 0, new Set(), WINDOW_UP)) : null
   const down = (mode !== 'pedigree')
-    ? runTree(downTree(db, id, 0, new Set(), WINDOW_DOWN)) : null
+    ? runTree(downTree(db, id, 0, new Set(), openSet)) : null
 
   // both roots are the focus: align their centres on x=0, and let the
   // ancestor rows run upward (negative y), the descendant rows downward
@@ -179,7 +219,8 @@ export function layout(db, id, mode = 'hourglass') {
     const w = data.w
     const blockLeft = px - w * CELL / 2
     nodes.push({ id: data.id, x: blockLeft, y: py, w,
-                 spouse: data.spouses?.[0] || null, focus: isFocus })
+                 spouse: data.spouses?.[0] || null, focus: isFocus,
+                 nk: data.nk || 0, kc: data.kc || 0, on: !!data.on })
     if (isFocus) {
       focusCX = blockLeft + w * CELL / 2
       focusCY = py + CARD_H / 2

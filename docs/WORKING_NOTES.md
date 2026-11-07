@@ -3511,6 +3511,15 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   clipping left to the wrapper element; design a chart so the transform
   can move its content anywhere, not so the initial view happens to
   fall inside the canvas.
+- **Render on demand, not everything that exists.** A genealogy chart
+  that draws every descendant of a prolific family grows past any
+  screen (21 of them for I0272) and zoom-out cannot rescue it - at the
+  scale where it fits, nothing reads. Progressive disclosure (the
+  children visible, the grandchildren behind +badges, one branch open
+  at a time) keeps the chart at reading size and turns "seeing
+  everything" into "walking anywhere", which is what a reader actually
+  does. The bounded resource (screen width) needs a bounded render,
+  not a smaller font.
 
 
 
