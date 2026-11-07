@@ -15,25 +15,42 @@ def check(name, cond, detail=''):
         ok = False
 
 
-# --- joins (no duplication, sentences continuous) ---
-check('sporządzane joined', 'sporządzane w określonej formie' in t)
+# --- SPOT round 5: the cross-page joins were REMOVED - each page's
+# block is the print's leaf-split (the approved p. 85/86 precedent),
+# so the former join-expectations now assert the split state
+def body(label):
+    i = t.find('[p. %s]' % label)
+    j = t.find('\n[^', i)
+    return t[i:j if j > 0 else i + 3000]
+
+
+check('sporządzane split at leaf',
+      'sporzą-' in body('49') and 'dzane w określonej formie' in body('50'))
 check('no sporząz', 'sporząz' not in t)
-check('do 200 talarów', 'do 200 talarów w r. 1773' in t)
-check('podwyższył joined', bool(re.search(r'podwyższył\[\^101-7\] w r\. 1793', t))
-      or bool(re.search(r'podwyższył \[\^101-7\] w r\. 1793', t))
-      or 'podwyższył w r. 1793' in t)
-check('przywileje wystawione', 'przywileje wystawione po tychże latach'
-      in t)
-check('również fakt (page-break split)',
-      'Potwierdza to' in t and 'również fakt, że osady wcześniej' in t)
-check('rzeczy przyczynił', 'stanu rzeczy przyczynił się' in t)
+check('do 200 split at leaf',
+      'podniosła się do 200' in body('99')
+      and 'talarów w r. 1773' in body('100'))
+check('podwyższył split at leaf',
+      'znacznie podwyż-' in body('101') and 'szył w r. 1793' in body('102'))
+check('przywileje split at leaf',
+      '1775[^108-8] przywileje' in body('108')
+      and 'wystawione po tychże latach' in body('109'))
+check('również fakt split at leaf',
+      'Potwierdza to rów-' in body('109')
+      and 'nież fakt, że osady wcześniej' in body('110'))
+check('rzeczy split at leaf',
+      'stanu rzeczy' in body('116')
+      and 'przyczynił się częściowo analfabetyzm' in body('117'))
 check('względnie lektora', 'nauczyciela względnie lektora' in t)
-check('materiał do projektowanej',
-      'uzyskać materiał do projektowanej mapy' in t)
-check('badanie z | interesującego (page-break split)',
-      bool(re.search(r'badanie z\n', t))
-      and bool(re.search(r'\ninteresującego nas tutaj', t)))
-check('bądź nad brzegami', 'bądź nad brzegami wód' in t)
+check('materiał split at leaf',
+      'uzyskać materiał' in body('2')
+      and 'do projektowanej mapy' in body('3'))
+check('badanie z | interesującego split at leaf',
+      'badanie z intere-' in body('1')
+      and 'sującego nas tutaj punktu widzenia' in body('2'))
+check('bądź nad split at leaf',
+      'zawsze bądź nad' in body('3')
+      and 'brzegami wód, bądź na miejscach nizinnych' in body('4'))
 check('no dup: o zadawalające', t.count('o zadawalające') == 1)
 check('no dup: Jak się rzecz', t.count('Jak się rzecz') == 1)
 # 'Potwierdza to' legitimately appears more than once in the book

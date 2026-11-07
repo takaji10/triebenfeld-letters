@@ -64,11 +64,11 @@ check('99-1 = Prawdopodobnie wyrokiem',
       (deftext('99-1') or '').startswith('Prawdopodobnie wyrokiem'))
 check('99-2 Grimm "pod słowami"',
       'pod słowami Bede' in (deftext('99-2') or ''))
-# the print prints the '...a więc i serwitutów. W olędrach
-# Stróżewskich...' paragraph on p. 99, but it ends mid-sentence at the
-# leaf, so the cross-page join (the draft's established convention)
-# renders the whole paragraph under [p. 100]
-check('p.100 body "i serwitutów"', 'i serwitutów' in body('100'))
+# SPOT round 5: the cross-page joins were REMOVED - each page's block
+# is the print's leaf-split (the approved p. 85/86 precedent), so the
+# '...a więc i serwitutów. W olędrach Stróżewskich...' paragraph sits
+# on p. 99, split at the leaf ('do 200 / talarów...')
+check('p.99 body "i serwitutów"', 'i serwitutów' in body('99'))
 check('20-1 = Zagadnienie etymologii',
       (deftext('20-1') or '').startswith('Zagadnienie etymologii'))
 check('118-1 = AW. Krosna',

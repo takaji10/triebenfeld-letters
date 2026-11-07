@@ -112,6 +112,55 @@ BODY_FIXES = {
 # NOTE_FIXES: full ordered rebuild of a page's note list (num, text);
 # the fused-note splits renumber the defs to the print's numbering.
 NOTE_REBUILD = {
+    # ---- SPOT round 5: the pp. 24-25 totals-notes in the print's
+    # line-by-line layout (each figure + its text on its own line;
+    # the arithmetic closes: 16.303-17=16.286, +92+15=16.393,
+    # -2.478=13.915 / 14.489-16-84=14.389)
+    '0039': [
+        (1, 'Do tej cyfry dochodzimy drogą następujących obliczeń: '
+            'Tp. 89 wykazuje dla powiatu kościańskiego\n'
+            '    13.737 dymów szlacheckich\n'
+            '    2.227 dymów duchownych\n'
+            '    339 dymów królewskich\n'
+            '    16.303 dymy\n'
+            '    mniej 17 dymów wsi Orchowo, leżącej w pow. '
+            'pyzdrskim,\n'
+            '    16.286 dymów.\n'
+            '    Dochodzą 92 dymy olęderskie, nie podane w Tp. 89,\n'
+            '    oraz 15 dymów wsi Sowinice,\n'
+            '    razem 16.393 dymy\n'
+            '    mniej 2.478 dymów olęderskich.\n'
+            '    Otrzymujemy w rezultacie 13.915 dymów.'),
+    ],
+    '0040': [
+        (1, 'Tj. podane w Tp. 89\n'
+            '    10.703 dymy szlacheckie\n'
+            '    2.834 dymy duchowne\n'
+            '    952 dymy królewskie\n'
+            '    14.489 dymów\n'
+            '    mniej 16 dymów liczonych w Tp. 89 podwójnie (Ol. '
+            'Psarskie),\n'
+            '    mniej 84 dymy należącej do Kościana majętn. '
+            'Sowinice,\n'
+            '    razem 14.389 dymów.\n'
+            '    Dochodzą 42 dymy opuszczonej w Tp. 89 par. Iwno,\n'
+            '    razem 14.431 dymów. Jak widzimy z zamieszczonej w '
+            'aneksie I rubryki dymów nie uwzględnionych w Tp. 89, to '
+            'ostatnie źródło dla powiatu poznańskiego jest '
+            'niezupełne. Przypuszczać należy, że opuszczenia w Tp. '
+            '89, na które natknęliśmy się przy obliczaniu dymów '
+            'olęderskich, miały miejsce również w odniesieniu do '
+            'pozostałych dymów wiejskich. Ponieważ jednak w ramach '
+            'niniejszej pracy nie jest rzeczą możliwą sprawdzać '
+            'dymy każdej z osobna miejscowości powiatu, '
+            'poprzestać trzeba na powiększeniu dymów wiejskich '
+            'nieolęderskich w tej samej proporcji, jak przy '
+            'olędrach, tj. w proporcji 38 : 2216. Do poprzednio '
+            'podanej cyfry 14431 dymów dojdzie w ten sposób jeszcze '
+            '247 dymów, co uczyni razem 14678 dymów. Po odliczeniu '
+            '2216 dymów przypadających na osady olęderskie, '
+            'otrzymamy ostatecznie 12.462 dymy.'),
+    ],
     '0016': [
         (1, 'Wsie holenderskie.'),
         (2, 'Problem kolonizacji flamandzko-holenderskiej.'),
@@ -244,9 +293,6 @@ BODY_FIXES['0101'] = [
     ('„dobrej monecie” ?, tzn.', '„dobrej monecie”[^85-7], tzn.'),
     # marker 8 = '*' after '8—12 talarów' (note 8 = the talar-list)
     ('względnie 8—12 talarów *—', 'względnie 8—12 talarów[^85-8]—'),
-    # unstack the triple miswire
-    ('w zdewaluowanych[^85-6][^85-7][^85-8] złotówkach',
-     'w zdewaluowanych złotówkach'),
     # the stróżowe garble (the '*' sat inside 'każdej')
     ('od każ. * dej huby płacono I zł[^86-10]',
      'od każdej huby płacono 1 zł[^86-10]'),
@@ -260,6 +306,10 @@ BODY_FIXES['0101'] = [
     ('zagrabieniem pola *.[^82-5]', 'zagrabieniem pola[^82-5].'),
     ('przeciętnej *.[^100-5]', 'przeciętnej[^100-5].'),
     ('charakteru $.[^112-4]', 'charakteru[^112-4].'),
+    # ---- SPOT round 5: the no-move re-slotting re-exposed these
+    # old-miswire copies at their new leaf positions
+    ('w zdewaluowanych[^85-6][^85-7][^85-8', 'w zdewaluowanych'),
+    ('ciężary poja-[^48-9]', 'ciężary poja-'),
     # ---- SPOT ANSWERS round 2 (S36): the marker numbers, editor-read ----
     ('Zajączkowo Wielkie i Małe *, dalej',
      'Zajączkowo Wielkie i Małe[^5-4], dalej'),
@@ -309,7 +359,6 @@ BODY_FIXES['0101'] = [
     ('czy do[^36-4] opuszczenia', 'czy do opuszczenia'),
     (' przywilej innej gminy[^40-3].', ' przywilej innej gminy.'),
     ('a 2[^40-6] w języku', 'a 2 w języku'),
-    ('pojawiały[^48-9] się rzadko', 'pojawiały się rzadko'),
     ('wyrasta[^5-4] też cały', 'wyrasta też cały'),
     ('powinności dworskie[^51-3].', 'powinności dworskie.'),
     ('Przed[^54-6] upływem', 'Przed upływem'),
@@ -328,6 +377,72 @@ BODY_FIXES2 = [
     ('wier gegeben Rechstaler', 'wier gegeben 18 Rechstaler'),
     ('wyrosił zł z huby 30-morgowej', 'wyrosił 20 zł z huby 30-morgowej'),
     ('immuhnitetam1', 'immunitetami'),
+]
+
+# ---- SPOT round 5b: the single-letter debris merges (see the applied
+# block in main() for the per-stray pixel evidence)
+STRAY_FIXES = [
+    # p. 38: 'z' opens the print line 'z calkowitego majatku swego...'
+    ('Gdy tedy żalący się\ncałkowitego majątku swego ogołoconym został, '
+     'nadto i wielc przykrości doznawał, przeto\nz\ndo Xiąg',
+     'Gdy tedy żalący się\nz całkowitego majątku swego ogołoconym został, '
+     'nadto i wielc przykrości doznawał, przeto\ndo Xiąg'),
+    # p. 49: 'w' begins the print line 'w traktuje te sprawe...'
+    ("Nieco inaczej '\nw\ntrąktuje tę sprawę",
+     "Nieco inaczej '\nw trąktuje tę sprawę"),
+    # p. 49: 'z' = 'kto z nich'
+    ('gdyby zaś kto nich miał umrzeć.\nz\nbezpotomnie',
+     'gdyby zaś kto z nich miał umrzeć.\nbezpotomnie'),
+    # p. 49: 'z' = 'ktorykolwiek z naszych Holendrow'
+    ('którykolwiek naszych Holendrów\nz\nczapurskich',
+     'którykolwiek z naszych Holendrów\nczapurskich'),
+    # p. 49: 'w' = 'ze w osadach wczesniej-'
+    ('że osądach wcześniej-\nw\nszych po bezpotomnej',
+     'że w osądach wcześniej-\nszych po bezpotomnej'),
+    # p. 99: 'r.' = 'krotko przed r. 1800'
+    ('krótko przed 1800 (AM. Wieleń, G. 250 fol. 20) powinności olędrów '
+     'składają się tylko\nr.\nz czynszów',
+     'krótko przed r. 1800 (AM. Wieleń, G. 250 fol. 20) powinności olędrów '
+     'składają się tylko\nz czynszów'),
+    # p. 99: 'gr w' = the missing 'gr w' after the first fraction
+    # (print: 3030 zl 20 1/2 gr w Nowych Dworach i 2349 zl 28 1/2 gr
+    # w Folsztynie)
+    ("3030 zł 20'/, Nowych Dworach i 2349 zł 28'/, gr w Folsztynie) "
+     'i z robocizn,\ngr w\nktóre odprawiali',
+     "3030 zł 20'/, gr w Nowych Dworach i 2349 zł 28'/, gr w Folsztynie) "
+     'i z robocizn,\nktóre odprawiali'),
+    # p. 103: 'uns' begins the print line 'uns auf Erbpacht uberlassen'
+    ('erhalten kónnen, Wiesen\nuns\nauf Erbpacht iiberlassen',
+     'erhalten kónnen, Wiesen\nuns auf Erbpacht iiberlassen'),
+    # p. 116: 'w' begins the print line 'w aktach regulacyjnych...'
+    ('Metryki 441 C). Nawet\naktach regulacyjnych',
+     'Metryki 441 C). Nawet\nw aktach regulacyjnych'),
+    # p. 116: 'z' = 'czesc z nich'
+    ('osadnicy, mimo że\nw\nczęść nich korzystała z nauki szkolnej już za '
+     'czasów pruskich, w większości wypadków nie\nz\numieli się podpisać.',
+     'osadnicy, mimo że\nczęść z nich korzystała z nauki szkolnej już za '
+     'czasów pruskich, w większości wypadków nie\numieli się podpisać.'),
+    # ---- p. 25: the phantom markers were the print's INLINE table
+    # number 'Tp. 90' (raw h63 = body height, vs a true superscript's
+    # h30); the only real marker is the raised '1' after '12.462'
+    # (bbox h38, top-aligned) -> and the note block is ONE note: the
+    # totals list plus its prose continuation (no '2' number glyph at
+    # the continuation's line start - ink-checked x540-960)
+    ('względnie[^25-1] (oznaczone gwiazdką)',
+     'względnie 90 (oznaczone gwiazdką)'),
+    ('względne[^25-2] brak', 'względne 90 brak'),
+    ('wynosi tutaj 12.462 1. Przy', 'wynosi tutaj 12.462[^25-1]. Przy'),
+    # the tiny two-mark glyph after '93.518 osob.' - not an 'm' word
+    # (ink = two sparse marks w9/w16, no letter body); debris
+    ('uczyni 93.518 osób. m W ziemi', 'uczyni 93.518 osób. W ziemi'),
+    # ---- p. 23: 'i' misOCR'd as '1' (raw token 'i'@x1690; the body's
+    # parallel list reads 'Jaromierskich Nowych i Starych Ol.'), and
+    # the note-4 total: both OCR passes + the glyph render give
+    # '24.667' (the '6' = wide-top-curl + closed bowl, not a '0');
+    # 24.667 - 8.520 - 225 - 82 = 15.840 vs the body's 15.831 (print-
+    # internal Delta 9, flagged in the SPOT sheet)
+    ('Jaromierskich Nowych 1 Starych', 'Jaromierskich Nowych i Starych'),
+    ('summa summarum 24.067 dymów', 'summa summarum 24.667 dymów'),
 ]
 
 # ---- the body tables rebuilt from the editor's corrected grids
@@ -604,55 +719,17 @@ def main():
     order = BODY + ANEX2 + ANEX3
     LABEL_RE = re.compile(r'\[\^[^\]]+\]')
     TERM = ('.', '!', '?', '…', '”', '»', ':', ';')
-    for a, b in zip(order, order[1:]):
-        pa, pb = page_paras[a], page_paras[b]
-        while pa and not pa[-1].strip():
-            pa.pop()
-        while pb and not pb[0].strip():
-            pb.pop(0)
-        if not pa or not pb:
-            continue
-        tail = pa[-1].rstrip()
-        tail_txt = LABEL_RE.sub(' ', tail).rstrip()
-        head = pb[0].lstrip()
-        joined = None
-        if tail_txt.endswith('-'):
-            toks = tail.split()
-            # the fragment = the last token that is not a parked label;
-            # labels parked after it belong to the joined word
-            fi = len(toks) - 1
-            parked = []
-            while fi >= 0 and LABEL_RE.fullmatch(toks[fi]):
-                parked.insert(0, toks[fi])
-                fi -= 1
-            frag_w = toks[fi] if fi >= 0 else ''
-            base = LABEL_RE.sub('', frag_w).rstrip('-')
-            m = LABEL_RE.search(frag_w)
-            lab = m.group(0) if m else ''
-            # the fragment must be a plausible word-half (lowercase
-            # letters): rejects sliver junk ('Ooz————') and digits
-            if base and re.fullmatch(r'[a-ząćęłńóśźż]+', base) \
-                    and len(base) >= 2 and head[:1].islower():
-                bw = head.split(' ', 1)
-                first = base + bw[0]
-                rest = bw[1] if len(bw) > 1 else ''
-                joined = first + lab
-                if parked:
-                    joined += ' ' + ' '.join(parked)
-                if rest:
-                    joined += ' ' + rest
-                page_paras[a] = pa[:-1] + \
-                    ([' '.join(toks[:fi])] if fi > 0 else [])
-                page_paras[b] = [joined] + pb[1:]
-                continue
-        elif not tail_txt.endswith(TERM) and head[:1].islower() \
-                and not head.startswith('„') and not head.startswith('«'):
-            # plain mid-sentence page break: the print's paragraph
-            # simply continues over the leaf - the whole paragraph
-            # moves to page B (intact, labels included)
-            page_paras[a] = pa[:-1]
-            page_paras[b] = [tail + ' ' + head] + pb[1:]
-            continue
+    # SPOT round 5 (the footnote-page pass): the cross-page joins are
+    # DISABLED. The old logic moved whole paragraphs across leaves
+    # (mid-sentence breaks and hyphenated words alike); in flowing
+    # sections the moves CHAINED and migrated discussions pages
+    # forward (print p. 27's confession text reached our p. 29 block;
+    # p. 85's czynsz paragraph leaked into p. 86). Rule 1 (a page's
+    # markers reference that page's notes) requires each marker to sit
+    # on its true page, so the paragraphs stay where the print breaks
+    # them: assemble_marked already builds each page's block from that
+    # page's own lines - the per-page halves ARE the leaf-split parts,
+    # faithful to the print (cf. the approved p. 85/86 split).
     for n in BODY:
         parts.append(f'[p. {label(n)}]\n')
         parts.append('\n\n'.join(page_paras[n]))
@@ -869,6 +946,40 @@ Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
         else:
             print('WARN body fix2 miss: %r' % old[:60])
     print('body amount fixes applied:', nfix2)
+    # ---- SPOT round 5b: the single-letter debris from the two-column
+    # OCR scatter. Each stray's true slot was determined from the raw
+    # word x/y geometry (x-order inside the print line):
+    #  p. 38  'z'  -> line start 'z calkowitego majatku...' (scan 0053,
+    #                x377 before calkowitego@440; 'Gdy tedy zalacy sie
+    #                z calkowitego majatku swego ogoloconym zostal')
+    #  p. 49  'w'  -> line start 'w traktuje te sprawe' (0064 x369,
+    #                print line begins at the note margin)
+    #  p. 49  'z'  -> 'kto z nich' (0064 x2556 between kto@2436 and
+    #                nich@2616)
+    #  p. 49  'z'  -> 'ktorykolwiek z naszych Holendrow' (0064 x2508
+    #                between ktorykolwiek@2110 and naszych@2560)
+    #  p. 49  'w'  -> 'ze w osadach wczesniej-' (0064 x2505 between
+    #                ze@2416 and osadach@2580)
+    #  p. 99  'r.' -> 'krotko przed r. 1800' (0114 x905 between
+    #                przed@709-869 and 1800@987)
+    #  p. 99  'gr w' -> '3030 zl 20 1/2 gr w Nowych Dworach' (0114:
+    #                the blob after '20' decomposes into small-1/slash/
+    #                small-2 = the fraction 1/2, then 'gr'@1254 'w'@1365)
+    #  p. 103 'uns' -> line start of the 'auf Erbpacht' line (0118
+    #                x366 = note margin; 'Wiesen uns auf Erbpacht
+    #                uberlassen')
+    #  p. 116 'w'  -> 'Nawet w aktach regulacyjnych' (0132 x387 line
+    #                start of the 'aktach' line)
+    #  p. 116 'z'  -> 'czesc z nich' (0132 x570 between czesc@386 and
+    #                nich@634)
+    nfix3 = 0
+    for old, new in STRAY_FIXES:
+        if old in text:
+            text = text.replace(old, new)
+            nfix3 += 1
+        else:
+            print('WARN stray fix miss: %r' % old[:60])
+    print('stray fixes applied:', nfix3)
     # ---- the p. 85 leaf repair (SPOT S50's deeper finding): the
     # czynsz paragraph physically begins on print p. 85 (scan 0100,
     # verified y1617-3210 + the printed folio on 0101 = 86) and the

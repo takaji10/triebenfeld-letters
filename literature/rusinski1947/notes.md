@@ -1054,3 +1054,76 @@ labels.
 DELIVERABLE: aneks_i.xlsx - ANEKS I laid out for the editor's
 formatting pass (282 rows, the print's segment structure marked,
 the annex notes on a second sheet).
+
+## SPOT round 5: the footnote-page pass (the no-move ruling + the debris)
+
+ROOT CAUSE of the whole miswiring class: compose's cross-page join
+logic (the "plain mid-sentence page break" mover + the hyphen
+joiner) moved WHOLE paragraphs across leaves, and in flowing sections
+the moves CHAINED - print p. 27's confession text had migrated into
+our p. 29 block, p. 85's czynsz paragraph into p. 86. REMOVED: the
+per-page blocks from assemble_marked ARE the print's leaf-splits
+(the approved p. 85/86 precedent). After the removal:
+fn_closure = 0 CROSS (except the legitimate p. 123->annex), 0 DEAD,
+0 ORDER; refphys = 197 OK refs, 0 SLOT, 0 MISWIRE (2 false positives
+from duplicate-text artifacts), 0 SPAN.
+
+The pp. 24-25 totals-notes rebuilt line-by-line (4-space indents).
+p. 24 closes: 16.303-17=16.286, +92+15=16.393, -2.478=13.915.
+p. 25 closes: 14.489-16-84=14.389; +42 (Iwno)=14.431; +247 (the
+38:2216 proportion)=14.678; -2.216=12.462.
+
+P. 25 DEEPER FIND (pixel-verified): the old [^25-1]/[^25-2] refs were
+PHANTOMS - the print reads 'Tp. 89 względnie 90' / 'względne 90' with
+'90' as INLINE text (glyph h63 = body height; a true superscript is
+h30). The only real marker on p. 25 is the raised '1' after '12.462'
+(bbox h38, top-aligned) -> wired as 12.462[^25-1]. The note block is
+ONE note: the totals list PLUS its prose continuation ('Dochodzą 42
+dymy ... ostatecznie 12.462 dymy.') - no '2' number glyph at the
+continuation (ink-checked x540-960). The old def split had broken the
+note mid-sentence ('aneksie I / rubryki'). The final figure is 12.462,
+not 12.402 - the glyph render shows the wide-top-curl '6' (same shape
+as the verified '6' elsewhere), and only 12.462 closes the arithmetic
+AND matches the body.
+
+P. 23 fixes (pixel-verified): 'Jaromierskich Nowych 1 Starych' ->
+'i Starych' (raw token 'i'@x1690); note 4's total '24.067' ->
+'24.667' (both OCR passes + the glyph render; the '6' shape again).
+
+The single-letter debris (all merged by the raw x/y geometry, ten
+STRAY_FIXES entries in compose.py):
+- p. 38 'z' -> opens the print line 'z całkowitego majątku swego...';
+- p. 49 'w' -> opens 'w trąktuje tę sprawę'; 'z' -> 'kto z nich';
+  'z' -> 'którykolwiek z naszych Holendrów'; 'w' -> 'że w osądach
+  wcześniej-';
+- p. 99 'r.' -> 'krótko przed r. 1800'; 'gr w' -> the missing 'gr w'
+  after the first fraction - the print reads '3030 zł 20½ gr w
+  Nowych Dworach i 2349 zł 28½ gr w Folsztynie' (the blob after
+  each figure decomposes into small-1/slash/small-2 = the fraction);
+- p. 103 'uns' -> begins the 'uns auf Erbpacht überlassen' line;
+- p. 116 'w' -> 'Nawet w aktach regulacyjnych'; 'z' -> 'część z nich'.
+furn_scan now reports only the legitimate headings (TABELA I/V,
+ANEKS I).
+
+NEW DISCOVERY - the print's note-overflow continuations (two cases,
+content complete, placement is the print's own quirk):
+- note 38-3: the manifest quote fills p. 38's note block to the page
+  bottom ('...Grunta za sumę tylko 2.300 talerów') and CONTINUES on
+  print p. 39 as a note-size insert mid-page (y3024-3645: 'sprzedali,
+  inwentarz zabrali ... s. Johann Bóhme"'), followed by the 'Na skutek
+  pozwu...' narrative (y3726-4104, also note-size). Our [^38-3] holds
+  the whole note (quote + narrative) on p. 38.
+- note 116-5: the tail ('metryki protestanckie Lwówka ... nie umieli
+  się podpisać.') prints on p. 117 mid-page (y2835-3105, note-size,
+  before p. 117's own notes). Our [^116-5] holds the whole note.
+A def-tail physical sweep (def_phys.py) + a note-size-insert sweep
+found NO other cases and NO missing content (all 28 candidate runs
+are block quotes, table text or small-word noise, all covered).
+
+Phase-4 sweep: p. 30 note 3's settler list is RUNNING text in the
+print (structure4/5 line-pass, no gaps) - no per-line formatting
+needed; p. 23's computation notes are running prose too. Only
+pp. 24-25 needed the ladder layout.
+
+verify_round/verify_span2's join-expectation checks rewritten to the
+leaf-split state (both ALL PASS).
