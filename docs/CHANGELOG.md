@@ -5459,6 +5459,38 @@ footer on every page. Changed, in both languages:
   it. It still reads +n to open, − to close, and the press-detection
   treats it as before.
 
+## 2026-11-07: the frozen view kept; the places list organised
+
+- **The badge click now truly keeps the view** (the editor: what is
+  under the mouse should still be the button just clicked): freezing
+  the transform alone was not enough, because a re-layout recomputes
+  the chart's coordinate base (baseX/baseY) and every card's position,
+  so the content under a stationary transform shifted. Toggling a
+  branch now anchors the clicked badge: its viewport position is
+  recorded before the toggle, the recomputed chart is re-read
+  synchronously, and the transform is set so the same badge lands
+  exactly where it was - the branch grows or shrinks around a frozen
+  view, no flash in between.
+- **The Places list is separated into letters**: a quiet accent-weighted
+  subheader row opens each letter's block inside the table (the same
+  pattern as the People page's surname groups).
+- **Returning from a place page lands where the reader left**: the
+  scroll position is saved when a place is opened (sessionStorage) and
+  restored once the list has rendered; the saved position is consumed
+  on the return, so a fresh visit from the nav still starts at the
+  top. Private modes that refuse storage just land high.
+- **The unexplained green dot is gone**: the ◦ pill that marked
+  geocoded places carried no meaning a reader could know (the count in
+  the toolbar still states how many places are geocoded), so the
+  column went with it.
+- **The place page gained an "Events" sub-header** (Ereignisse,
+  Wydarzenia) before the date list, and the map now has breathing room
+  after it (the events table began flush against the map's bottom
+  edge).
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes; all three pages verified
+  with headless Edge screenshots.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own

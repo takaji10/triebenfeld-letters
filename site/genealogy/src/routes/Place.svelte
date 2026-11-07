@@ -44,10 +44,15 @@
     {/if}
   </p>
   {#if coords}
-    <MapView points={[{ name, coords, n: place.n }]} focus={coords}
-             height="18rem" zoom={12} />
+    <!-- the breathing room after the map - the events list began
+         flush against its bottom edge (the editor, 2026-11-07) -->
+    <div class="mapspace">
+      <MapView points={[{ name, coords, n: place.n }]} focus={coords}
+               height="18rem" zoom={12} />
+    </div>
   {/if}
   {#if place.ev}
+    <h2 class="evh">{i18n.t('events')}</h2>
     <table>
       <tbody>
         {#each place.ev as ev}
@@ -70,6 +75,9 @@
 
 <style>
   h1 { font-size: 1.2rem; }
+  .mapspace { margin: 1.1rem 0 1.6rem; }
+  .evh { font-size: 1rem; font-weight: 600; margin: 0 0 .5rem;
+    color: var(--ink); }
   .stat { font-size: .8rem; color: var(--faint); }
   .year { color: var(--faint); white-space: nowrap; width: 14rem;
     font-variant-numeric: tabular-nums; }

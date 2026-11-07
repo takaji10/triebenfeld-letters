@@ -36,7 +36,34 @@
     ? descendantPath(db, focusId, expandedId) : new Set())
 
   function toggleExpand(pid) {
+    // the view anchor: the layout shift (a new baseX/baseY and new card
+    // positions) moves the content even with the transform frozen, so
+    // the badge the reader just clicked drifted away under the mouse
+    // (the editor, 2026-11-07). Record the badge's viewport position
+    // before the toggle, then re-read the recomputed chart and set the
+    // transform so the same badge lands exactly where it was - the
+    // branch grows or shrinks around the frozen view.
+    const before = chart
+    const n = before?.nodes.find(x => x.id === pid)
+    if (!el || !before || !n) {
+      expandedId = expandedId === pid ? null : pid
+      return
+    }
+    const vx = tx + scale * (before.baseX + n.x + badgeCX(n))
+    const vy = ty + scale * (before.baseY + n.y + CARD_H + 10)
     expandedId = expandedId === pid ? null : pid
+    const after = chart
+    const n2 = after?.nodes.find(x => x.id === pid)
+    if (n2) {
+      tx = vx - scale * (after.baseX + n2.x + badgeCX(n2))
+      ty = vy - scale * (after.baseY + n2.y + CARD_H + 10)
+    }
+  }
+
+  // the badge's centre within its card block: right-aligned to the
+  // block's right edge, on its own line below the card
+  function badgeCX(n) {
+    return (n.w > 1 ? CELL + CARD_W : CARD_W) - 38 + 18
   }
   const W = $derived(chart ? chart.width : 800)
   const H = $derived(chart ? chart.height : 400)

@@ -3529,6 +3529,13 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   let the DOM elements persist (key by identity, position by a
   transitioning transform) so the change reads as movement instead of
   a flash.
+- **Freezing the transform is not freezing the view.** When a re-layout
+  recomputes the chart's coordinate base, a stationary transform shows
+  different content - the badge click "moved the view" even after the
+  centring effect stopped running. Anchoring a chosen content point to
+  its previous viewport position (record before, re-read the derived
+  layout after, solve the transform) is what "the view does not
+  change" actually means.
 
 
 

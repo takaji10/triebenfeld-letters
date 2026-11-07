@@ -15,6 +15,18 @@
     return hit.sort((a, b) => a[0].localeCompare(b[0]))
   })
 
+  // the list in letter groups - a subheader row opens each letter
+  // (the editor: separate the long list into letters, 2026-11-07)
+  const groups = $derived.by(() => {
+    const map = new Map()
+    for (const row of shown) {
+      const c = row[0].trim().charAt(0).toUpperCase()
+      if (!map.has(c)) map.set(c, [])
+      map.get(c).push(row)
+    }
+    return [...map.entries()]
+  })
+
   const geoCount = $derived(shown.filter(([, v]) => v.c).length)
   const mapPoints = $derived(shown.filter(([, v]) => v.c)
     .map(([name, v]) => ({ name, coords: v.c, n: v.n })))
@@ -34,6 +46,27 @@
     letter = (letter === c) ? '' : c
     filter = ''
   }
+
+  // returning from a place page lands where the reader left: the
+  // position is saved when a place is opened and restored once the
+  // list has rendered (a fresh visit from the nav starts at the top -
+  // the saved position is consumed once)
+  let pendingScroll = $state(null)
+  function rememberScroll() {
+    try { sessionStorage.setItem('places.scroll', String(window.scrollY)) }
+    catch { /* private modes refuse storage; the back trip just lands high */ }
+  }
+  $effect(() => {
+    if (pendingScroll == null && db.places) {
+      try { pendingScroll = sessionStorage.getItem('places.scroll') } catch {}
+    }
+    if (pendingScroll != null && db.places) {
+      const y = Number(pendingScroll)
+      pendingScroll = null
+      try { sessionStorage.removeItem('places.scroll') } catch {}
+      requestAnimationFrame(() => window.scrollTo(0, y))
+    }
+  })
 </script>
 
 <h1>{i18n.t('nav_places')}</h1>
@@ -56,16 +89,19 @@
 
 {#if db.places}
   <table>
-    <thead><tr><th>{i18n.t('nav_places')}</th><th class="n">{i18n.t('events_at')}</th><th></th></tr></thead>
-    <tbody>
-      {#each shown as [name, v]}
-        <tr>
-          <td><a href={'#/place/' + encodeURIComponent(name)}>{name}</a></td>
-          <td class="n">{v.n}</td>
-          <td class="geo">{#if v.c}<span class="pill ok">◦</span>{/if}</td>
-        </tr>
-      {/each}
-    </tbody>
+    <thead><tr><th>{i18n.t('nav_places')}</th><th class="n">{i18n.t('events_at')}</th></tr></thead>
+    {#each groups as [c, rows] (c)}
+      <tbody>
+        <tr class="ltrrow"><td colspan="2">{c}</td></tr>
+        {#each rows as [name, v] (name)}
+          <tr>
+            <td><a href={'#/place/' + encodeURIComponent(name)}
+                   onclick={rememberScroll}>{name}</a></td>
+            <td class="n">{v.n}</td>
+          </tr>
+        {/each}
+      </tbody>
+    {/each}
   </table>
 {/if}
 
@@ -79,5 +115,11 @@
   .letters button.active { background: var(--accent); border-color: var(--accent);
     color: #fff; }
   .n { text-align: right; font-variant-numeric: tabular-nums; width: 6rem; }
-  .geo { width: 3rem; }
+  /* the letter subheader inside the list - quiet, spaced from the
+     letter above */
+  tr.ltrrow td { padding: .9rem .4rem .25rem; font-size: .8rem;
+    color: var(--accent); font-weight: 600; letter-spacing: .06em;
+    border-bottom: 1px solid var(--rule); }
+  table { border-collapse: collapse; width: 100%; }
+  td { padding: .28rem .4rem; border-bottom: 1px solid var(--rule); }
 </style>
