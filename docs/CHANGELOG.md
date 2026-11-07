@@ -5343,6 +5343,34 @@ footer on every page. Changed, in both languages:
 - jekyll and verify_site ALL CHECKS PASSED with the project baseurl
   and with none; the layout battery passes.
 
+## 2026-11-07: the empty big tree found and fixed
+
+- **The big tree loaded with nothing in it** (the editor, this
+  morning): the chart SVG is sized to the whole layout (the I2867
+  window is 8,630×296), and an SVG clips its children to its own box
+  by default. The load-time centring translates the focus to the
+  middle of the *viewport div* - with the div now 80vh tall, that
+  landing point (y≈308) sat below the SVG's own 296px bottom edge, so
+  every card was clipped away and the frame showed tan emptiness. The
+  old content-sized viewport had accidentally kept the landing point
+  inside the box; the explicit height exposed the design's hidden
+  assumption. The fix is the standard pan/zoom setup: `overflow:
+  visible` on the SVG - the viewport div's `overflow: hidden` is the
+  one clip that matters - and the transform is now free to carry cards
+  anywhere in the frame (the foreignObject detail panel included, which
+  the same clip would have cut when panned below the chart).
+- The frame is **70svh** tall now (the plain 70vh standing first for
+  older browsers), the editor's measure.
+- **Centring on load is guaranteed**: the effect that centres the
+  focus retries on the next animation frame when the viewport has no
+  layout yet (the data can arrive before the CSS has sized the frame),
+  which previously would have silently left the view at the origin.
+- Verified with headless Edge screenshots against the local build: the
+  tree route shows the hourglass centred on Boguslaus Celmer at
+  desktop and phone widths; the person-page embed still centres on its
+  person. jekyll and verify_site ALL CHECKS PASSED with the project
+  baseurl and with none; the layout battery passes.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own

@@ -118,6 +118,11 @@
     if (chart && el && key !== lastKey) {
       lastKey = key
       center()
+      // a frame with no layout yet (the data arrived before the CSS
+      // had sized the viewport) silently skipped the centring and left
+      // the view at the origin - retry once the browser has laid out
+      if (el.getBoundingClientRect().width <= 0)
+        requestAnimationFrame(() => center())
     }
   })
 
@@ -487,11 +492,11 @@
   .viewport { position: relative; overflow: hidden; border: 1px solid var(--rule);
     border-radius: 3px; background: var(--paper2); touch-action: none;
     cursor: grab; user-select: none; max-height: 78vh; }
-  /* the dedicated tree page: a window on the page, not a strip - 80%
+  /* the dedicated tree page: a window on the page, not a strip - 70%
      of the window's width and height (the editor's measure). svh is
      the small-viewport height: a phone's URL bar collapsing no longer
      jitters the frame (the plain vh stands first, for older browsers) */
-  .viewport:not(.embed) { width: 80vw; height: 80vh; height: 80svh;
+  .viewport:not(.embed) { width: 80vw; height: 70vh; height: 70svh;
     max-height: none;
     margin: 0 auto; }
   .viewport.embed { max-height: 34rem; }
@@ -503,6 +508,13 @@
   .pid { font-family: ui-monospace, Consolas, monospace; font-size: 8px;
     fill: var(--faint); }
   .node.living rect { stroke-dasharray: 3 2; }
+  /* the chart SVG is the size of the whole layout, but the pan/zoom
+     transform must be free to carry the cards anywhere in the frame -
+     an SVG clips its children to its own box by default, which emptied
+     the frame the moment the viewport grew taller than the chart
+     (the editor: the big tree loaded with nothing in it, 2026-11-06).
+     The viewport div's overflow:hidden is the one clip that matters. */
+  svg { display: block; overflow: visible; }
   .node .hit { cursor: pointer; }
   .che { font-size: 12px; }
   .hint { font-size: .74rem; color: var(--faint); margin: .3rem 0 0; }

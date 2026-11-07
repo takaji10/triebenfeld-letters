@@ -3411,4 +3411,14 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   id appears wherever a person does. A sideways scroll inside a
   wrapper keeps both: the data intact, the page unbroken. When space
   and a ruling conflict, scroll beats omission.
+- **An SVG clips its children to its own box.** The tree's pan/zoom
+  transform lives *inside* the SVG, so any translated content outside
+  the SVG's width/height vanished - invisible, not merely off-screen.
+  The empty big tree (2026-11-07) was exactly this: the viewport grew
+  to 80vh, the load centring put the focus at y≈308 in SVG
+  coordinates, the SVG was 296 tall, and every card clipped away. The
+  standard pan/zoom setup is `overflow: visible` on the SVG with the
+  clipping left to the wrapper element; design a chart so the transform
+  can move its content anywhere, not so the initial view happens to
+  fall inside the canvas.
 
