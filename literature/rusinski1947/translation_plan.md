@@ -223,24 +223,23 @@ domini sui).
 - Editorial "[sic]" items in the transcription (e.g. "Tp. 72 [sic;
   TKS. 72]") stay exactly as bracketed.
 
-## 9. Open decisions for the editor (blockers for T1)
+## 9. Decisions (editor, 2026-11-07)
 
-- **D1. Quotes:** translate-only, or original+translation in notes?
-  (default: translate-only for Polish quotes, original+translation
-  for the German petition).
-- **D2. English variety:** British or American spelling?
-  (default: British).
-- **D3. "Olęder" terminology:** keep "Olęder(s)" as the ethnic term
-  (default), or "Hollanders"/"Dutch settlers"?
-- **D4. Conversions:** add a metric-gloss translator's note for
-  włóka/morg/huba at first use (default: yes, from the book's own
-  figures) or a conversion appendix?
-- **D5. The five known print-internal numeric discrepancies:**
-  translator's notes, or silent carry-over as in the transcription?
-  (default: silent carry-over; the transcription notes.md already
-  documents them).
-- **D6. ANEKS I:** fold in the editor's edited `aneks_i.xlsx` before
-  T7, or translate the current pixel-reconciled draft tables?
+- **D1. Quotes:** default applied — Polish archival quotes translate
+  only (originals dropped except where the print discusses the
+  wording); the German petition keeps original + translation.
+- **D2. English variety:** **British** spelling and conventions.
+- **D3. "Olęder" terminology:** **keep "Olęder(s)"** as the ethnic
+  term (first-use gloss in T1).
+- **D4. Conversions:** default applied — metric/measure glosses at
+  first use, from the book's own figures.
+- **D5. Numeric discrepancies:** default applied — silent carry-over
+  as in the transcription (documented in notes.md).
+- **D6. ANEKS I:** **SKIP** — the annex tables (pp. 123–144) are NOT
+  translated; `english.md` carries a bracketed translator's note at
+  the ANEKS I position ("[ANEKS I: tables not translated in this
+  edition]"), and stage T7 is dropped. ANEKS II–III (printed
+  sources) still translate (T6).
 
 ## 10. Effort and product
 
