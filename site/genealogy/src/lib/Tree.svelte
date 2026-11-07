@@ -53,7 +53,7 @@
     const k = e.deltaY < 0 ? 1.12 : 1 / 1.12
     const rect = el.getBoundingClientRect()
     const mx = e.clientX - rect.left, my = e.clientY - rect.top
-    scale = Math.min(2.2, Math.max(0.3, scale * k))
+    scale = Math.min(2.2, Math.max(0.05, scale * k))
     tx = mx - (mx - tx) * k
     ty = my - (my - ty) * k
   }
@@ -87,7 +87,7 @@
     if (pointers.size === 2 && pinch) {
       const [a, b] = [...pointers.values()]
       const k = Math.hypot(a.x - b.x, a.y - b.y) / pinch.d
-      scale = Math.min(2.2, Math.max(0.3, pinch.s0 * k))
+      scale = Math.min(2.2, Math.max(0.05, pinch.s0 * k))
       tx = pinch.mx - (pinch.mx - pinch.tx0) * k
       ty = pinch.my - (pinch.my - pinch.ty0) * k
     } else if (dragging) {
@@ -138,13 +138,16 @@
     ty = rect.height / 2 - chart.focusY * scale
   }
 
-  // fit the whole chart inside the viewport
+  // fit the whole chart inside the viewport - truly fit, without the
+  // interactive zoom floor: on a wide descendants window that floor
+  // kept the chart larger than the frame and the button looked like it
+  // did nothing but centre (the editor, 2026-11-07)
   function fit() {
     if (!el || !chart) return
     const rect = el.getBoundingClientRect()
     if (rect.width <= 0) return
-    const s = Math.min(2.2, Math.max(0.3,
-      Math.min(rect.width / chart.width, rect.height / chart.height)))
+    const s = Math.min(2.2,
+      Math.min(rect.width / chart.width, rect.height / chart.height))
     center(s)
   }
 
@@ -274,7 +277,13 @@
 {#if !chart}
   <p class="lead">…</p>
 {:else}
-  <div class="modes">
+  <!-- the tree page's own width: title, buttons, chart, arrows and
+       hint all live in one 80vw column, so the controls sit flush with
+       the chart's edges instead of running past them (the editor,
+       2026-11-07). The embed keeps the page's own flow. -->
+  <div class="treewrap" class:route={!embed}>
+    {#if !embed}<h2 class="ttitle">{i18n.t('tree_view')}</h2>{/if}
+    <div class="modes">
     {#if embed}
       <button class="pill" class:acc={effMode === 'hourglass'}
               onclick={() => { localMode = 'hourglass' }}>⧗</button>
@@ -289,7 +298,11 @@
       <a class="pill" class:acc={effMode === 'big'} href={'#/tree/' + focusId + '?mode=big'}>⊞</a>
     {/if}
     <span class="who">{db.index[focusId]?.n || focusId} <span class="pidtxt">{focusId}</span></span>
-    <span class="stat"><button onclick={fit}>⤢ fit</button></span>
+    <span class="stat">
+      <button title={i18n.t('fit_hint')} onclick={fit}>⤢ fit</button>
+      <button title={i18n.t('centre_hint')}
+              onclick={() => { scale = 1; center() }}>⌖</button>
+    </span>
   </div>
   <div class="viewport" class:embed bind:this={el}
        onwheel={onWheel} onpointerdown={down} onpointermove={move}
@@ -479,13 +492,24 @@
     {/if}
   </div>
   <p class="hint">{i18n.t('tree_hint')}</p>
+  </div>
 {/if}
 
 <style>
   .modes { display: flex; gap: .4rem; align-items: center; margin-bottom: .5rem; }
   .modes .pill { cursor: pointer; }
   .modes button.pill { font: inherit; border: 1px solid var(--rule); }
-  .stat { font-size: .74rem; color: var(--faint); margin-left: auto; }
+  .stat { font-size: .74rem; color: var(--faint); margin-left: auto;
+    display: inline-flex; gap: .25rem; }
+  .stat button { font: inherit; font-size: .74rem; padding: .1rem .45rem;
+    border: 1px solid var(--rule); border-radius: 3px;
+    background: var(--card); color: var(--soft); cursor: pointer; }
+  .stat button:hover { color: var(--accent); border-color: var(--accent); }
+  /* the tree page column: everything the tree owns sits inside the
+     same 80vw the chart frame spans, edge-aligned */
+  .treewrap.route { width: 80vw; margin: 0 auto; }
+  .ttitle { font-size: 1.25rem; font-weight: 400; margin: .2rem 0 .6rem;
+    color: var(--ink); }
   .who { font-size: .8rem; color: var(--ink); font-weight: 600; }
   .pidtxt { font-family: ui-monospace, Consolas, monospace; font-size: .72rem;
     color: var(--faint); font-weight: 400; margin-left: .2rem; }
@@ -493,12 +517,12 @@
     border-radius: 3px; background: var(--paper2); touch-action: none;
     cursor: grab; user-select: none; max-height: 78vh; }
   /* the dedicated tree page: a window on the page, not a strip - 70%
-     of the window's width and height (the editor's measure). svh is
-     the small-viewport height: a phone's URL bar collapsing no longer
+     of the window's height (the editor's measure); the width comes
+     from the .treewrap.route column the frame lives in. svh is the
+     small-viewport height: a phone's URL bar collapsing no longer
      jitters the frame (the plain vh stands first, for older browsers) */
-  .viewport:not(.embed) { width: 80vw; height: 70vh; height: 70svh;
-    max-height: none;
-    margin: 0 auto; }
+  .viewport:not(.embed) { height: 70vh; height: 70svh;
+    max-height: none; }
   .viewport.embed { max-height: 34rem; }
   .viewport:active { cursor: grabbing; }
   svg { display: block; }

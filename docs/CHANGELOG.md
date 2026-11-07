@@ -5371,6 +5371,27 @@ footer on every page. Changed, in both languages:
   person. jekyll and verify_site ALL CHECKS PASSED with the project
   baseurl and with none; the layout battery passes.
 
+## 2026-11-07: the tree page dressed, the fit button honest
+
+- **The page has its title** - "Tree view" (Baumansicht, Widok
+  drzewa) above the chart on the tree route; the person-page embed
+  keeps its "Family tree" heading.
+- **Everything the tree owns is edge-aligned**: title, mode buttons,
+  chart frame, navigation arrows and hint text sit in one 80vw column
+  (`.treewrap.route`), so the buttons no longer ran past the chart's
+  edges - they had spanned the full page width while the frame was
+  80vw centred.
+- **The fit button fits.** It scaled the chart to the frame but clamped
+  the result at the 0.3 interactive-zoom floor - on a wide chart that
+  left the chart larger than the frame and the button looked like it
+  only centred (the editor's suspicion was right). Fit now computes its
+  scale without the floor (the interactive floor drops to 0.05 so the
+  fitted scale is not snapped back), and a new **⌖ button returns to
+  the focus person at reading size** after a fit. Both carry tooltips.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes; verified with a headless
+  Edge screenshot of the aligned page.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own
