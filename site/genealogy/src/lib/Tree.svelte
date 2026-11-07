@@ -14,7 +14,7 @@
   import { db, goto } from './db.svelte.js'
   import { i18n } from './i18n.js'
   import { fmtDate } from './dates.js'
-  import { layout, hasMoreUp, hasMoreDown,
+  import { layout, descendantPath, hasMoreUp, hasMoreDown,
            CARD_W, CARD_H, CELL, ROW_H, WINDOW_UP, WINDOW_DOWN } from './tree.js'
 
   let { id, mode = 'hourglass', embed = false } = $props()
@@ -25,7 +25,19 @@
   const focusId = $derived(embed ? (localId || id) : id)
   const effMode = $derived(embed ? localMode : mode)
 
-  const chart = $derived(db.ready && focusId ? layout(db, focusId, effMode) : null)
+  const chart = $derived(db.ready && focusId
+    ? layout(db, focusId, effMode, openPath) : null)
+
+  // the open branch: one at a time (opening a second collapses the
+  // first, the editor's ruling) - the chart renders the focus-to-leaf
+  // path of the expanded person, so a deep branch keeps its ancestors
+  let expandedId = $state(null)
+  const openPath = $derived(db.ready && focusId && expandedId
+    ? descendantPath(db, focusId, expandedId) : new Set())
+
+  function toggleExpand(pid) {
+    expandedId = expandedId === pid ? null : pid
+  }
   const W = $derived(chart ? chart.width : 800)
   const H = $derived(chart ? chart.height : 400)
 
@@ -64,9 +76,13 @@
     if (e.target?.closest?.('.detail')) return
     el.setPointerCapture?.(e.pointerId)
     pointers.set(e.pointerId, { x: e.clientX, y: e.clientY })
+    const badge = e.target?.closest?.('[data-expand]')
     const card = e.target?.closest?.('[data-pid]')
-    press = pointers.size === 1 && card
-      ? { id: card.getAttribute('data-pid'),
+    press = pointers.size === 1 && (badge || card)
+      ? { id: badge
+            ? badge.getAttribute('data-expand')
+            : card.getAttribute('data-pid'),
+          exp: !!badge,
           x: e.clientX, y: e.clientY }
       : null   // two fingers is a pinch, never a click
     if (pointers.size === 2) {
@@ -106,17 +122,28 @@
     dragging = null
     press = null
     if (e.type !== 'pointerup' || !was) return
-    // a click: pointer stayed under 6px from press to release
+    // a click: pointer stayed under 6px from press to release - on a
+    // +badge it opens or closes that branch, on the card it opens the
+    // detail panel
     if (Math.hypot(e.clientX - was.x, e.clientY - was.y) < 6) {
-      cardClick(was.id)
+      if (was.exp) toggleExpand(was.id)
+      else cardClick(was.id)
     }
   }
 
-  let lastKey = ''
+  let lastNavKey = ''
+  let lastFocus = ''
   $effect(() => {
-    const key = (focusId || '') + '/' + effMode
-    if (chart && el && key !== lastKey) {
-      lastKey = key
+    // only a change of focus or mode recentres the view - opening or
+    // closing a branch must not touch the pan at all (the editor,
+    // 2026-11-07: panned away from the key person, a badge click kept
+    // snapping the view back)
+    const navKey = (focusId || '') + '/' + effMode
+    if (chart && el && navKey !== lastNavKey) {
+      // a new focus starts with every branch closed
+      if (focusId !== lastFocus) expandedId = null
+      lastFocus = focusId
+      lastNavKey = navKey
       center()
       // a frame with no layout yet (the data arrived before the CSS
       // had sized the viewport) silently skipped the centring and left
@@ -201,9 +228,13 @@
              chart.baseY + n.y + CARD_H / 2)
   }
 
-  // the navigation arrows: does more tree exist beyond the window?
+  // the navigation arrows: does more tree exist beyond the window? The
+  // down arrow counts one generation beyond the children row - the
+  // grandchildren now sit behind the branch badges, so "more" means
+  // deeper than what the chart shows
   const moreUp = $derived(db.ready && focusId ? hasMoreUp(db, focusId) : false)
-  const moreDown = $derived(db.ready && focusId ? hasMoreDown(db, focusId) : false)
+  const moreDown = $derived(db.ready && focusId
+    ? hasMoreDown(db, focusId, 1) : false)
 
   // step: slide the window one generation out - the next step renders
   // while the far row derenders (the editor's model of the master tree)
@@ -326,20 +357,33 @@
             </g>
           {/snippet}
           {#each chart.links as d}
-            <path d={d} fill="none" stroke="var(--rule)" stroke-width="1.5" />
-          {/each}
-          {#each chart.splices as [x1, y1, x2, y2]}
-            <line x1={x1} y1={y1} x2={x2} y2={y2}
+            <!-- d carries both the attribute and the CSS property: the
+                 property transitions where the browser supports it
+                 (Chrome, Edge, Firefox), the attribute stands where it
+                 does not - the links morph instead of snapping -->
+            <path d={d} style:d={`path("${d}")`} fill="none"
                   stroke="var(--rule)" stroke-width="1.5" />
           {/each}
-          {#each chart.nodes as n (n.id + '@' + n.y)}
+          {#each chart.splices as s (s.id + (s.y < 0 ? '@u' : '@d'))}
+            <g style:transform={`translate(${s.x}px, ${s.y}px)`}
+               class="spl">
+              <line x2={CELL - CARD_W} stroke="var(--rule)"
+                    stroke-width="1.5" />
+            </g>
+          {/each}
+          {#each chart.nodes as n (n.id + (n.y < 0 ? '@u' : '@d'))}
             {@const v = db.index[n.id]}
             {@const avatar = v?.pt && db.meta?.media_base
               ? db.meta.media_base + v.pt : null}
+            <!-- keyed by the person (row letters distinguish the two
+                 hourglass halves), positioned by a transitioning
+                 transform: the cards glide to their new places when a
+                 branch opens, so the reader sees what moved (the
+                 editor, 2026-11-07) -->
             <g class="node" class:living={v?.L}
                data-pid={n.id}
                class:open={openCard === n.id}
-               transform="translate({n.x},{n.y})">
+               style:transform={`translate(${n.x}px, ${n.y}px)`}>
               <rect width={CARD_W} height={CARD_H} rx="4"
                     stroke={n.focus || openCard === n.id ? 'var(--accent)'
                       : v?.sx === 'F' ? '#9c5470'
@@ -384,6 +428,27 @@
               </text>
               <rect width={CARD_W} height={CARD_H} fill="transparent"
                     class="hit" />
+              {#if n.kc > 0 && !n.focus}
+                <!-- the branch badge: +n opens this person's hidden
+                     children, − closes them (one branch open at a
+                     time). Its own line below the card, right-aligned
+                     to the block's right edge - over the name it was
+                     in the way (the editor, 2026-11-07). Above the hit
+                     rect so the press lands here. -->
+                {@const bX = (n.w > 1 ? CELL + CARD_W : CARD_W) - 38}
+                <g class="badge" data-expand={n.id} role="button"
+                   tabindex="-1">
+                  <title>{n.on ? i18n.t('collapse_branch')
+                          : i18n.t('expand_branch')}</title>
+                  <rect x={bX} y={CARD_H + 3} width="36" height="15"
+                        rx="7.5" fill={n.on ? 'var(--accent)' : 'var(--paper2)'}
+                        stroke="var(--accent)" stroke-width="1" />
+                  <text x={bX + 18} y={CARD_H + 14} text-anchor="middle"
+                        class="btxt" fill={n.on ? '#fff' : 'var(--accent)'}>
+                    {n.on ? '−' : '+' + n.nk}
+                  </text>
+                </g>
+              {/if}
               {#if n.spouse}
                 {@const sv = db.index[n.spouse]}
                 {@const sav = sv?.pt && db.meta?.media_base
@@ -447,8 +512,11 @@
       {@const px = isSpouse ? on.x + CELL : on.x}
       <!-- the expanded card, rendered inside the chart: it pans and
            zooms with everything else, the way the editor asked -->
-      <foreignObject x={px} y={on.y + CARD_H + 6} width="250" height="190"
-                     class="detailspace">
+      <!-- the expanded card, rendered inside the chart: it pans and
+           zooms with everything else, and glides with the cards when
+           the layout moves (the same transitioning transform) -->
+      <foreignObject width="250" height="190" class="detailspace"
+                     style:transform={`translate(${px}px, ${on.y + CARD_H + 6}px)`}>
         <div class="detail" xmlns="http://www.w3.org/1999/xhtml">
           <button class="dclose" onclick={() => { openCard = null }}
                   aria-label="close">×</button>
@@ -531,7 +599,18 @@
   .yrs { font-size: 9.5px; fill: var(--faint); }
   .pid { font-family: ui-monospace, Consolas, monospace; font-size: 8px;
     fill: var(--faint); }
+  .btxt { font-size: 9px; font-weight: 600; pointer-events: none; }
+  .badge { cursor: pointer; }
   .node.living rect { stroke-dasharray: 3 2; }
+  /* the expansion animation: cards, marriage lines, links and the open
+     panel glide to their new places over half a second - the editor
+     asked to see what happens when a branch opens (2026-11-07). The
+     transforms are CSS properties (style:transform), which transition;
+     the link paths morph through the CSS d property where supported. */
+  .node { transition: transform .5s ease; }
+  .spl { transition: transform .5s ease; }
+  .detailspace { transition: transform .5s ease; }
+  path { transition: d .5s ease; }
   /* the chart SVG is the size of the whole layout, but the pan/zoom
      transform must be free to carry the cards anywhere in the frame -
      an SVG clips its children to its own box by default, which emptied

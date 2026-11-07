@@ -5392,6 +5392,73 @@ footer on every page. Changed, in both languages:
   and with none; the layout battery passes; verified with a headless
   Edge screenshot of the aligned page.
 
+## 2026-11-07: the branches open on demand
+
+- **The tree no longer sprawls.** The window had rendered every child
+  and every grandchild side by side, each married person a full couple
+  block - the widest descendant windows in the data measured 21 screen
+  widths (I0272 Christina Ubel: 23,437 px), and zooming out to take it
+  in made every card unreadable. The editor chose the proposal: the
+  chart now shows the ancestors (two generations) and the **children**
+  - and the grandchildren wait behind a **"+n" badge** on each child's
+  card. Clicking a badge opens that branch in place (the chart re-lays
+  out and recentres on the focus); clicking again closes it; and
+  **opening a second branch collapses the first** (the editor's
+  choice), so the open width is bounded - the widest opened branch in
+  the battery measures about five screens, at reading size and
+  pannable, against twenty-one at census zoom.
+- **A spouse card renders only where the couple's children show** -
+  the focus row and open branches; a hidden branch's couple is one
+  card, the marriage still documented on the person page.
+- **Deeper walking stays possible**: a grandchild in an opened branch
+  wears its own +badge, and opening it keeps its ancestors on the path
+  open (descendantPath computes the focus-to-leaf chain). The
+  navigation arrows keep their roles - up beyond the grandparents,
+  down now counting one generation beyond the children row.
+- The badges are part of the press-detection scheme (the badge is
+  read at pointerdown, acted on at pointerup under the 6px travel
+  rule), so a drag never fires one and the Firefox pointer-capture
+  lesson applies to them as to the cards.
+- The layout battery grew the expansion cases: open a branch, open a
+  second (first collapses), open a grandchild's branch beneath an open
+  one - no overlaps, no dangling links, the branch really renders, the
+  width bounded. All pass; jekyll and verify_site ALL CHECKS PASSED
+  with the project baseurl and with none; verified with a headless
+  Edge screenshot of I0272's default view fitting one frame.
+
+## 2026-11-07: the badge click keeps the view; the tree moves slowly
+
+- **Expanding or closing a branch no longer moves the viewport** (the
+  editor, panned away from the key person, a badge click kept snapping
+  the view back): the centring effect had watched the expansion state
+  among its keys, so every toggle re-ran the centring. It now watches
+  only the focus and the mode - the pan and zoom stay exactly where
+  the reader left them; the branch grows or shrinks around the current
+  view. (Opening a detail panel still centres on the card - that is a
+  deliberate act, not a layout change.)
+- **The tree moves in plain sight**: the cards, the marriage lines,
+  the links and the open detail panel glide to their new places over
+  half a second (CSS transitions on the transform) instead of
+  teleporting. The DOM nodes are now keyed by the person (a row letter
+  distinguishing the hourglass halves), so a card keeps its element
+  across a re-layout and the browser can interpolate; the marriage
+  lines became origin-anchored groups (they are always one gap long)
+  so they animate the same way; the link paths morph through the CSS
+  d property where the browser supports it, standing on their
+  attribute where it does not.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes; the rendered chart
+  verified unchanged with a headless Edge screenshot.
+
+## 2026-11-07: the badge on its own line
+
+- **The +n badge moved out of the card** (the editor: it sat on top of
+  the names): it is now its own line **below the card, right-aligned
+  to the block's right edge** - under the spouse card when the person
+  has one drawn beside them - so no name, year or id ever sits under
+  it. It still reads +n to open, − to close, and the press-detection
+  treats it as before.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own
