@@ -1,14 +1,18 @@
-{%- comment -%}
+﻿{%- comment -%}
   One vector icon for the Sources page's four kinds (the editor,
   2026-11-06: "Add a vector icon beside each item in the Sources page that
   matches the item - Archival material gets a parchment, Newspapers gets a
   newspaper, Literature gets a book, Maps gets a map"). Include with
   kind="parchment" | "newspaper" | "book" | "map". The idiom is the site's
   line-icon style (source-thumb.html): fill none, stroke currentColor,
-  stroke-width 1.1, round caps and joins; aria-hidden, focusable=false.
+  round caps and joins — stroke-width 1.6, heavier than source-thumb's 1.1
+  because a hairline light-on-dark loses the apparent weight a dark-on-
+  light stroke gains and all but vanishes on a 1x display (the editor,
+  2026-11-07: "the icons for the sources don't show on a dark background";
+  one currentColor icon adapts to both schemes — no light/dark pair).
   Geometry rendered and checked (scratch/maps_bulk/sources_icons_check.html,
   2026-11-06).
-{%- endcomment -%}<svg class="src-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">{%- if kind == 'parchment' -%}
+{%- endcomment -%}<svg class="src-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">{%- if kind == 'parchment' -%}
   {%- comment -%} a scroll: two rollers, the sheet between, two writing lines {%- endcomment -%}
   <path d="M6.5 3h11a1.5 1.5 0 0 1 0 3h-11a1.5 1.5 0 0 1 0-3z"/><path d="M6.5 16h11a1.5 1.5 0 0 1 0 3h-11a1.5 1.5 0 0 1 0-3z"/><path d="M7 6v10M17 6v10M10 9.5h4M10 12.5h4"/>
 {%- elsif kind == 'newspaper' -%}
