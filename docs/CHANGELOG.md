@@ -5509,6 +5509,21 @@ footer on every page. Changed, in both languages:
   and with none; the layout battery passes; both pages verified with
   headless Edge screenshots.
 
+## 2026-11-07: the surnames in letters
+
+- **The People page's surname list wears the same letter subheaders**
+  as the Places list: a quiet accent-weighted row opens each letter's
+  block of surname groups. The subheaders appear only in the A-Z
+  order - sorted by count or reversed, the letters would interleave
+  and the header would lie - so the other orders keep the plain
+  flowing list.
+- **The Find People sidebar starts below the page's title**: the
+  "Surnames" h1 moved outside the two-column layout, so the sidebar
+  no longer floated up beside it.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes; verified with a headless
+  Edge screenshot.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own

@@ -161,11 +161,29 @@
                               : a[1].length - b[1].length))
     return rows
   })
+
+  // the surname groups in letter blocks - a single-letter subheader
+  // opens each block, the pattern the Places list already wears (the
+  // editor, 2026-11-07). Only in the A-Z order: by count or reversed,
+  // the letters would interleave and the header would lie.
+  const letterGroups = $derived.by(() => {
+    if (sort !== 'az') return null
+    const map = new Map()
+    for (const g of shownGroups) {
+      const c = g[0].trim().charAt(0).toUpperCase()
+      if (!map.has(c)) map.set(c, [])
+      map.get(c).push(g)
+    }
+    return [...map.entries()]
+  })
 </script>
 
+<!-- the page header outside the two-column layout, so the Find
+     People sidebar starts below the "Surnames" title (the editor,
+     2026-11-07) rather than beside it -->
+<h1>{i18n.t('nav_surnames')}</h1>
 <div class="layout">
   <main>
-    <h1>{i18n.t('nav_surnames')}</h1>
     <div class="toolbar">
       <button onclick={anyOpen ? collapseAll : expandAll}>
         {anyOpen ? '⤡ ' + i18n.t('collapse_all') : '⤢ ' + i18n.t('expand_all')}
@@ -186,38 +204,78 @@
          sideways rather than the page overflowing -->
     <div class="tscroll">
       <table class="plist">
-        {#each shownGroups as [sn, rows] (sn)}
-          <tbody>
-            <tr class="group" onclick={() => toggle(sn)}>
-              <td colspan="6">
-                <button class="ghead" aria-expanded={!!expanded[sn]}>
-                  <span class="gname">{sn} <span class="gcount">({rows.length})</span></span>
-                  <span class="arrow" class:open={!!expanded[sn]}>▸</span>
-                </button>
-              </td>
-            </tr>
-          {#if expanded[sn]}
-            <tr class="ghead-row">
-              <th class="c-ln">{i18n.t('col_lastname')}</th>
-              <th class="c-fn">{i18n.t('col_firstnames')}</th>
-              <th class="c-id">ID</th>
-              <th class="c-sex">♀/♂</th>
-              <th class="c-b">{i18n.t('born')}</th>
-              <th class="c-d">{i18n.t('died')}</th>
-            </tr>
-            {#each rows as [id, v] (id)}
-              <tr>
-                <td class="ln">{v.sn}</td>
-                <td><a href={'#/person/' + id}>{v.gn || v.n}</a></td>
-                <td class="pid">{id}</td>
-                <td class="sex">{v.sx === 'F' ? '♀' : v.sx === 'M' ? '♂' : ''}</td>
-                <td class="dates">{years(v).b}</td>
-                <td class="dates">{years(v).d}</td>
+        {#if letterGroups}
+          {#each letterGroups as [c, groups] (c)}
+            <tbody>
+              <!-- the letter subheader: quiet, accent-weighted, the
+                   same row the Places list opens its blocks with -->
+              <tr class="ltrrow"><td colspan="6">{c}</td></tr>
+              {#each groups as [sn, rows] (sn)}
+                <tr class="group" onclick={() => toggle(sn)}>
+                  <td colspan="6">
+                    <button class="ghead" aria-expanded={!!expanded[sn]}>
+                      <span class="gname">{sn} <span class="gcount">({rows.length})</span></span>
+                      <span class="arrow" class:open={!!expanded[sn]}>▸</span>
+                    </button>
+                  </td>
+                </tr>
+                {#if expanded[sn]}
+                  <tr class="ghead-row">
+                    <th class="c-ln">{i18n.t('col_lastname')}</th>
+                    <th class="c-fn">{i18n.t('col_firstnames')}</th>
+                    <th class="c-id">ID</th>
+                    <th class="c-sex">♀/♂</th>
+                    <th class="c-b">{i18n.t('born')}</th>
+                    <th class="c-d">{i18n.t('died')}</th>
+                  </tr>
+                  {#each rows as [id, v] (id)}
+                    <tr>
+                      <td class="ln">{v.sn}</td>
+                      <td><a href={'#/person/' + id}>{v.gn || v.n}</a></td>
+                      <td class="pid">{id}</td>
+                      <td class="sex">{v.sx === 'F' ? '♀' : v.sx === 'M' ? '♂' : ''}</td>
+                      <td class="dates">{years(v).b}</td>
+                      <td class="dates">{years(v).d}</td>
+                    </tr>
+                  {/each}
+                {/if}
+              {/each}
+            </tbody>
+          {/each}
+        {:else}
+          {#each shownGroups as [sn, rows] (sn)}
+            <tbody>
+              <tr class="group" onclick={() => toggle(sn)}>
+                <td colspan="6">
+                  <button class="ghead" aria-expanded={!!expanded[sn]}>
+                    <span class="gname">{sn} <span class="gcount">({rows.length})</span></span>
+                    <span class="arrow" class:open={!!expanded[sn]}>▸</span>
+                  </button>
+                </td>
               </tr>
-            {/each}
-          {/if}
-          </tbody>
-        {/each}
+              {#if expanded[sn]}
+                <tr class="ghead-row">
+                  <th class="c-ln">{i18n.t('col_lastname')}</th>
+                  <th class="c-fn">{i18n.t('col_firstnames')}</th>
+                  <th class="c-id">ID</th>
+                  <th class="c-sex">♀/♂</th>
+                  <th class="c-b">{i18n.t('born')}</th>
+                  <th class="c-d">{i18n.t('died')}</th>
+                </tr>
+                {#each rows as [id, v] (id)}
+                  <tr>
+                    <td class="ln">{v.sn}</td>
+                    <td><a href={'#/person/' + id}>{v.gn || v.n}</a></td>
+                    <td class="pid">{id}</td>
+                    <td class="sex">{v.sx === 'F' ? '♀' : v.sx === 'M' ? '♂' : ''}</td>
+                    <td class="dates">{years(v).b}</td>
+                    <td class="dates">{years(v).d}</td>
+                  </tr>
+                {/each}
+              {/if}
+            </tbody>
+          {/each}
+        {/if}
       </table>
     </div>
   </main>
@@ -312,6 +370,12 @@
   .sortbtns button.active { background: var(--accent); border-color: var(--accent);
     color: #fff; }
   table.plist { width: 100%; border-collapse: collapse; }
+  /* the letter subheader inside the list - the same quiet accent row
+     the Places list opens its blocks with (only in the A-Z order; by
+     count or reversed, the letters would interleave) */
+  tr.ltrrow td { padding: .9rem .4rem .25rem; font-size: .8rem;
+    color: var(--accent); font-weight: 600; letter-spacing: .06em;
+    border-bottom: 1px solid var(--rule); }
   /* the list scrolls sideways on a phone instead of the page
      overflowing - the ID column never hides (the Gramps id appears
      wherever a person does, the editor's ruling) */
