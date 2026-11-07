@@ -1,4 +1,4 @@
-﻿# Historical events of the Timeline, era by era.
+# Historical events of the Timeline, era by era.
 #
 # Rebuilt 2026-11-07 (the editor: the eras and the timeline are one page; the
 # Trąbczyn estate is the primary focus, Zagórów secondary; an event belongs
@@ -7,22 +7,25 @@
 # further reading, linked where the edition has the work, and a concise note.
 #
 # Fields:
-#   date  : YYYY, YYYY-MM or zero-padded YYYY-MM-DD; sorts the list (its
-#           plain-text order is chronological order)
-#   when  : the display date (en); when_de the German one (optional until the
-#           German pass)
+#   date  : YYYY, YYYY-MM or zero-padded YYYY-MM-DD, quoted (a uniform string:
+#           Liquid's sort needs one type); sorts the list, its plain-text
+#           order is chronological order
+#   when  : the display date (en); when_de, title_de, note_de and
+#           sources[].text_de are the German renderings (the German pass of
+#           2026-11-07, written by Claude, awaiting a German reader's review)
 #   era   : the era the event belongs to - an editorial assignment like the
 #           documents', because the eras' spans overlap (the insurgency years
 #           sit inside the Hohenlohe ones)
-#   title : short label; title_de optional
-#   note  : one or two sentences; note_de optional
-#   sources: one or two, as {text, url?} - url is an internal page of this
-#           site (/documents/, /literature/, /newspapers/, /sources/); without
-#           url the text is a bare citation
+#   title : short label
+#   note  : one or two sentences
+#   sources: one or two, as {text, url?, text_de?} - url is an internal page
+#           of this site (/documents/, /literature/, /newspapers/,
+#           /sources/); without url the text is a bare citation
 #
 # Facts are cited; where a fact rests on a secondary source (Seidel 2018), the
 # documents come first and decide.
 
+# --- Trąbczyn in the Middle Ages ---
 - date: '1173-08-31'
   when: 31 August 1173
   era: medieval
@@ -31,7 +34,11 @@
   sources:
   - text: KDW I, no. 20
     url: /documents/kdw/1/
+    text_de: KDW I, Nr. 20
   kind: estate
+  when_de: 31. August 1173
+  title_de: Wrąbczynek wird den Zisterziensern von Ląd geschenkt
+  note_de: Herzog Mieszko gibt „das kleine Wrąbczynek“, den Weiler bei Trąbczyn, dem Zisterzienserkloster, das er an der Warthe zu Ląd gegründet hat, mit Salz, Seen, Fischerei und Jagd, frei von allen polnischen Abgaben.
 - date: '1240-09-30'
   when: '1240'
   era: medieval
@@ -40,7 +47,11 @@
   sources:
   - text: KDW I, no. 222
     url: /documents/kdw/2/
+    text_de: KDW I, Nr. 222
   kind: estate
+  when_de: '1240'
+  title_de: Die Zehnten von Trąbczyn und seinen Nachbarn gehen an Ląd
+  note_de: Erzbischof Fulko von Gniezno gibt dem Kloster die Zehnten der Kapellen von Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom und Wrąbczyn, „ob die Dörfer geteilt oder verlegt oder anders genannt werden“. Das Jahr ist das der Urkunde, von ihren Herausgebern als zweifelhaft bezeichnet.
 - date: '1276-03-27'
   when: 27 March 1276
   era: medieval
@@ -49,7 +60,11 @@
   sources:
   - text: KDW I, no. 460
     url: /documents/kdw/5/
+    text_de: KDW I, Nr. 460
   kind: estate
+  when_de: 27. März 1276
+  title_de: Herzog Bolesław gibt Trąbczyn dem Grafen Mikołaj
+  note_de: 'Zweimal ohne Erben geblieben — zuerst an den Grafen Janko gekommen, dann an einen Priester Mikołaj — fällt das Dorf nun an Graf Mikołaj, den Schatzmeister des Herzogs in Ląd, und seine Erben, frei von den herzoglichen Abgaben: die ersten Besitzer von Trąbczyn, deren Linie die Überlieferung folgt.'
 - date: '1346-11-13'
   when: 13 November 1346
   era: medieval
@@ -58,7 +73,11 @@
   sources:
   - text: KDW II, nos 1252–1253
     url: /documents/kdw/9/
+    text_de: KDW II, Nr. 1252–1253
   kind: estate
+  when_de: 13. November 1346
+  title_de: Die Erben von Trąbczyn verlieren ihren Prozess
+  note_de: In Pyzdry spricht der Landrichter Stropiszyn und Pępocin der Kirche von Gnesen zu gegen die Brüder Jan und Przedpełk, Erben von Trąbczyn, und legt ihnen ewiges Schweigen auf.
 - date: '1399-10-13'
   when: 13 October 1399
   era: medieval
@@ -67,7 +86,11 @@
   sources:
   - text: KDW III, no. 2014
     url: /documents/kdw/13/
+    text_de: KDW III, Nr. 2014
   kind: estate
+  when_de: 13. Oktober 1399
+  title_de: Der Zehnte von Trąbczyn wird Ląd zugesprochen
+  note_de: 'In Ląd selbst entscheidet der Erzbischof von Gnesen zwischen dem Abt und dem Pfarrer von Trąbczyn: der Garbenzehnte der Felder von Trąbczyn gehört dem Kloster.'
 - date: '1407-11-19'
   when: 19 November 1407
   era: medieval
@@ -76,7 +99,13 @@
   sources:
   - text: KDW V, no. 117
     url: /documents/kdw/14/
+    text_de: KDW V, Nr. 117
   kind: estate
+  when_de: 19. November 1407
+  title_de: Zagórów wird Stadt
+  note_de: König Władysław erlaubt dem Kloster, in seinem Dorf Zagórów eine Stadt nach Magdeburger Recht zu gründen, mit einem Wochenmarkt am Mittwoch.
+
+# --- The Trąbczyn and Łukom boundary dispute ---
 - date: '1589-06-12'
   when: June 1589
   era: prusimski-boundary
@@ -85,7 +114,11 @@
   sources:
   - text: land court of Konin, 1589
     url: /documents/app536017/1/
+    text_de: Landgericht Konin, 1589
   kind: estate
+  when_de: Juni 1589
+  title_de: Trąbczyn verklagt seinen Nachbarn in Łukom wegen eines überschwemmten Waldes
+  note_de: Albertus Trąmpczyński wirft Thomas Łukomski vor dem Landgericht in Konin vor, in Łukom einen Teich angelegt zu haben, der Wald und Wiesen von Trąbczyn, Nowa Wieś und Osiny überschwemmt habe. Das Gericht ordnet eine Besichtigung an — das erste Dokument eines Streits, den die beiden Güter zweihundert Jahre lang führen werden.
 - date: '1644'
   when: '1644'
   era: prusimski-boundary
@@ -94,7 +127,11 @@
   sources:
   - text: land court of Konin, judgments by default
     url: /documents/app536036/1/
+    text_de: Landgericht Konin, Versäumnisurteile
   kind: estate
+  when_de: '1644'
+  title_de: Grenzzeichen im Wald von Łukom
+  note_de: Jerzy Chełmski wirft den Brüdern Trąmpczyński vor, sie hätten ihre Leute in seinen Wald geschickt, um etwa achtzig Grenzzeichen in die Bäume zu hauen, und etwa hundert Bauhölzer fällen lassen; sie erscheinen nicht, und das Gericht verurteilt sie in Abwesenheit. Von nun an geht der Streit darum, wo die Grenze verläuft.
 - date: '1728-01-26'
   when: January 1728
   era: prusimski-boundary
@@ -103,7 +140,11 @@
   sources:
   - text: land court of Konin, decree of 1728
     url: /documents/app536040/1/
+    text_de: Landgericht Konin, Dekret von 1728
   kind: estate
+  when_de: Januar 1728
+  title_de: Ein Kommissar wird auf den strittigen Grund geschickt
+  note_de: Die Brüder Chełmski werfen Krzysztof Prusimski und seinem Sohn Antoni vor, Schindeln verbrannt, bei einem bewaffneten Überfall vier Ochsen weggenommen und Heu abgefahren zu haben; das Gericht schickt einen vereidigten Kommissar, der alte Zeugen unter Eid darüber vernehmen soll, wem der Grund gehört.
 - date: '1754-12-05'
   when: December 1754
   era: prusimski-boundary
@@ -112,7 +153,11 @@
   sources:
   - text: Kuryer Polski 1754, no. 75
     url: /newspapers/kuryerpolski1754075/
+    text_de: Kuryer Polski 1754, Nr. 75
   kind: personal
+  when_de: Dezember 1754
+  title_de: Paweł Prusimskis Begräbnis in Trąbczyn
+  note_de: 'Der Kuryer Polski berichtet über das Begräbnis des königlichen Kammerherrn: der Abt von Ląd durch Frost auf der Warthe aufgehalten, die Leichenrede gehalten von seinem Neffen Antoni, und Exequien am selben Tag in Pyzdry, Konin und Kaźmierz, weil die Pfarrkirche zu klein ist.'
 - date: '1767-04-22'
   when: April 1767
   era: prusimski-boundary
@@ -121,7 +166,11 @@
   sources:
   - text: municipal court of Konin, two reports
     url: /documents/app53170koningr114/1/
+    text_de: Burggericht Konin, zwei Berichte
   kind: estate
+  when_de: April 1767
+  title_de: Antoni Prusimskis Olęder werden überschwemmt
+  note_de: Der Gerichtsbote des neuen Erbherrn berichtet, ein von den Leuten von Łukom auf Befehl ihres Herrn aufgeworfener Damm habe das Wasser gestaut und die Olęder in den Wäldern von Trąbczyn samt ihren Feldern und Wiesen überschwemmt.
 - date: '1771-11-04'
   when: November 1771
   era: prusimski-boundary
@@ -130,9 +179,14 @@
   sources:
   - text: the delivery of possession
     url: /documents/app53150kaliszgr414/1/
+    text_de: die Besitzeinweisung
   - text: the reports of December 1771
     url: /documents/app53170koningr115/5/
+    text_de: die Berichte vom Dezember 1771
   kind: estate
+  when_de: November 1771
+  title_de: Chełmski nimmt den Wald Lusnia; binnen Wochen ist der Damm durchstochen
+  note_de: Ein Kommissar übergibt Stanisław Chełmski den Kiefernwald Lusnia samt der darin angelegten Olęder-Siedlung — einem Krug und zwölf Siedlern, denen Gehorsam befohlen wird. Sechs Wochen später berichtet sein Bote, der Damm am Teich sei durchstochen und das Wasser samt den Fischen abgelassen, die Fenster des Krugs zerschossen — das Werk von mehr als dreißig Untertanen aus Trąbczyn in Prusimskis Gegenwart.
 - date: '1775-09-13'
   when: September 1775
   era: prusimski-boundary
@@ -141,7 +195,11 @@
   sources:
   - text: the commission's decree
     url: /documents/app53170koningr145/1/
+    text_de: das Dekret der Kommission
   kind: estate
+  when_de: September 1775
+  title_de: Eine Kommission des Reichstags endet in zwei Dekreten
+  note_de: 'Die vom polnischen Reichstag eingesetzte Kommission spaltet sich: die Kommissare unter Dąmbski erkennen Prusimskis Grenzlinie als die bessere an und verurteilen Chełmski zu Turmhaft; die von Chełmski beigezogenen Kommissare erlassen ein eigenes Dekret für seine Linie. Jede Seite protestiert gegen das Dekret der anderen, und nichts ist entschieden.'
 - date: '1778-03-30'
   when: '1778'
   era: prusimski-boundary
@@ -150,7 +208,11 @@
   sources:
   - text: land and municipal court of Konin
     url: /documents/app536046/2/
+    text_de: Land- und Burggericht Konin
   kind: estate
+  when_de: '1778'
+  title_de: 'Eine zweite Front: die Forderung, die Chełmski gekauft hat'
+  note_de: Chełmski hat die Forderung eines Kaufmanns gegen Antonis verstorbenen Onkel Paweł übernommen, aus einem Verkauf von Trąbczyner Holz, und klagt daraus; Prusimski protestiert, die Urkunden, die er braucht, lägen bei den Erben der Witwe seines Onkels, und der Kaufmann sei dem Onkel schuldig gewesen. Der Prozess läuft noch 1786.
 - date: '1782-01-23'
   when: 23 January 1782
   era: prusimski-boundary
@@ -159,7 +221,11 @@
   sources:
   - text: the Tribunal's decree
     url: /documents/app53170koningr153/1/
+    text_de: das Dekret des Tribunals
   kind: estate
+  when_de: 23. Januar 1782
+  title_de: Das Krontribunal entscheidet zwischen den beiden Dekreten
+  note_de: Das Tribunal bestimmt den Eckpunkt von Trąbczyn, Łukom und Drzewce so, wie Prusimskis Kommissare ihn hatten, und zieht auf der Karte eine gerade Linie zwischen beiden Punkten; die Olęder, die Chełmski an sich genommen hatte, gehen an Prusimski zurück, bis auf einen, Martin Hunt.
 - date: '1782-05-27'
   when: May 1782
   era: prusimski-boundary
@@ -168,7 +234,11 @@
   sources:
   - text: the protests of June 1782
     url: /documents/app53170koningr118/17/
+    text_de: die Proteste vom Juni 1782
   kind: estate
+  when_de: Mai 1782
+  title_de: Der erste Versuch, die Linie zu bezeichnen, scheitert
+  note_de: Zwei Grenzkämmerer kommen auf den Grund, jeder von einer Seite beigezogen, und sind uneins; Chełmski selbst stößt den Mann mit der Messkette weg und tritt die Kette von der Linie, und der Kämmerer auf Prusimskis Seite bricht ab und bittet das Kriegsdepartement um Soldaten.
 - date: '1782-11-28'
   when: November 1782
   era: prusimski-boundary
@@ -177,7 +247,11 @@
   sources:
   - text: the chamberlain's decree
     url: /documents/app53170koningr153/2/
+    text_de: das Dekret des Kämmerers
   kind: estate
+  when_de: November 1782
+  title_de: 'Die Grenze wird bezeichnet: einundvierzig Hügel'
+  note_de: Der Grenzkämmerer von Gnesen wirft einundvierzig Hügel entlang der Linie des Tribunals auf, schlägt einunddreißig Pfähle in den Sumpf, schleift die älteren Hügel beider Seiten und übergibt Martin Hunt. Zweihundert Jahre Streit sind entschieden.
 - date: '1783-03-10'
   when: '1783'
   era: prusimski-boundary
@@ -186,7 +260,11 @@
   sources:
   - text: the courts at Konin, 1782–1783
     url: /documents/app53170koningr119/1/
+    text_de: die Gerichte in Konin, 1782–1783
   kind: estate
+  when_de: '1783'
+  title_de: Die Linie ist gezogen; der Streit geht weiter
+  note_de: An dem Tag, an dem das Gericht des Kämmerers eröffnet wurde, fällten Chełmskis Leute 221 Kiefern auf der Trąbczyner Seite der neuen Linie; Klagen und Gegenklagen folgen durch das Jahr. Die Grenze steht fest; versöhnt sind die Nachbarn nicht.
 - date: '1784-03-29'
   when: 29 March 1784
   era: prusimski-boundary
@@ -195,7 +273,11 @@
   sources:
   - text: the decree
     url: /documents/app5320pozgr1181/1/
+    text_de: das Dekret
   kind: estate
+  when_de: 29. März 1784
+  title_de: Die Erbschaft wird auf dem Grund von Trąbczyn zugesprochen
+  note_de: Die Kondeszension teilt die mütterliche Masse der kinderlosen Brüder unter sechs Erben und spricht die väterliche Substanz ihrem Neffen Antoni in Kolno zu, Starost von Niszczewice — dem letzten polnischen Besitzer von Trąbczyn.
 - date: '1788-06-09'
   when: 9 June 1788
   era: prusimski-boundary
@@ -204,7 +286,11 @@
   sources:
   - text: municipal court of Konin
     url: /documents/app53170koningr121/1/
+    text_de: Burggericht Konin
   kind: estate
+  when_de: 9. Juni 1788
+  title_de: 'Der letzte Eintrag: ein Wagen, im Wald von Trąbczyn angehalten'
+  note_de: Prusimskis Waldwärter hält einen Bauern aus Łomowo an, der einen gefällten Baustamm aus dem Kiefernwald fährt; Wagen, Ochsen, Kuh und Stute werden dem Amt in Konin vorgezeigt und zurückgegeben. Es ist der letzte Eintrag der Gerichtsbücher; sechs Jahre später wurden die Güter eingezogen.
 - date: '1791'
   when: '1791'
   era: prusimski-boundary
@@ -213,7 +299,13 @@
   sources:
   - text: the visitation of the Konin deanery
     url: /documents/adwl85/1/
+    text_de: die Visitation des Dekanats Konin
   kind: estate
+  when_de: '1791'
+  title_de: Die Visitation zählt 760 Seelen
+  note_de: 'Die Visitation des Dekanats Konin beschreibt die Pfarrei Trąbczyn: die Kirche des heiligen Martin von 1546, zum Teil von der Familie Trąmpczyński erbaut und von der Witwe Prusimska erweitert, und 760 Seelen, deren Dissidenten fast alle in den Olęder-Siedlungen leben.'
+
+# --- The insurgency and the emigration ---
 - date: '1794'
   when: '1794'
   era: insurgency
@@ -222,13 +314,20 @@
   sources:
   - text: the mortgage certificate for Kolno
     url: /documents/oe1bu14525/12/
+    text_de: der Hypothekenschein für Kolno
   kind: political
+  when_de: '1794'
+  title_de: Der Kościuszko-Aufstand; die Güter Prusimskis werden konfisziert
+  note_de: Antoni Prusimski, Starost und Besitzer von Trąbczyn, Kamionna und Kolno, schließt sich dem Aufstand gegen die Teilungsmächte an; Preußen zieht sein Vermögen ein. Es sind die Güter, die ein preußischer Fürst zwei Jahre später erhalten wird.
 - date: '1795'
   when: '1795'
   era: insurgency
   title: The Third Partition; South Prussia
   note: Prussia makes peace at Basel in April; in October the three powers divide what remains of Poland, and Prussia annexes the province it calls South Prussia — Trąbczyn, Zagórów and their neighbours are now on the map of the Prussian state.
   kind: political
+  when_de: '1795'
+  title_de: Die Dritte Teilung; Südpreußen
+  note_de: Preußen schließt im April in Basel Frieden; im Oktober teilen die drei Mächte den Rest Polens unter sich auf, und Preußen annektiert die Provinz, die es Südpreußen nennt — Trąbczyn, Zagórów und ihre Nachbarn stehen nun auf der Karte des preußischen Staates.
 - date: '1796-12-14'
   when: December 1796
   era: insurgency
@@ -237,7 +336,11 @@
   sources:
   - text: the resident's dispatch
     url: /documents/ihagrrep7cnr1414/2/
+    text_de: die Depesche des Residenten
   kind: personal
+  when_de: Dezember 1796
+  title_de: Prusimski in Venedig
+  note_de: Krank und durch den Tod seiner Frau gebrochen, erreicht der enteignete Besitzer den preußischen Residenten in Venedig, der ihm bescheinigt, dass er nicht reisen könne; nach der späteren Darstellung seiner Tochter war das Attest für die Behörden bestimmt, die ihn aufgefordert hatten, seine Ausreise zu rechtfertigen.
 - date: '1798-09-03'
   when: 3 September 1798
   era: insurgency
@@ -246,7 +349,13 @@
   sources:
   - text: the letter in copy
     url: /documents/ossol2289/1/
+    text_de: der Brief in der Abschrift
   kind: personal
+  when_de: 3. September 1798
+  title_de: Kościuszko schreibt aus Paris
+  note_de: Im Exil nach der Niederlage des Aufstands schreibt sein Oberbefehlshaber an einen emigrierten Korrespondenten, der ihm im August aus Dresden geschrieben hatte. Der Brief ist in der Abschriftensammlung des Lemberger Bibliografen Przyłęcki erhalten — das erste Dokument dieser Epoche.
+
+# --- The Hohenlohe-Ingelfingen years ---
 - date: '1796-08-09'
   when: 9 August 1796
   era: hohenlohe
@@ -255,7 +364,11 @@
   sources:
   - text: the charter
     url: /documents/oe1bu14525/1/
+    text_de: die Urkunde
   kind: estate
+  when_de: 9. August 1796
+  title_de: Der König verleiht die Güter Prusimskis
+  note_de: Auf Vorschlag des Ministers von Hoym verleiht Friedrich Wilhelm II. Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, Kamionna und Kolno, Trąbczyn mit seinen Dörfern und Brzyce — eingezogen vom geflohenen Besitzer — und veranschlagt den Jahresertrag auf 4.000 Taler.
 - date: '1797-06-19'
   when: 19 June 1797
   era: hohenlohe
@@ -264,7 +377,11 @@
   sources:
   - text: the charters of 19 June and 1 December
     url: /documents/oe1bu14525/5/
+    text_de: die Urkunden vom 19. Juni und 1. Dezember
   kind: estate
+  when_de: 19. Juni 1797
+  title_de: 'Eine zweite Verleihung: die geistlichen Dörfer'
+  note_de: Die Güter erweisen sich als hoch verschuldet, darum fügt der König sechzehn vormals geistliche Dörfer hinzu — darunter Zagórów, Kopojno und Drzewce.
 - date: '1798-04-01'
   when: 1 April 1798
   era: hohenlohe
@@ -273,7 +390,11 @@
   sources:
   - text: letter 75
     url: /documents/oe1bu9454/75/
+    text_de: Brief 75
   kind: estate
+  when_de: 1. April 1798
+  title_de: Die Korrespondenz beginnt
+  note_de: Triebenfeld ist in Berlin und arbeitet daran, die südpreußischen Güter seines Herrn gegen zwei Krondomänen einzutauschen, um dessen Schulden zu tilgen.
 - date: 1798-10
   when: October 1798
   era: hohenlohe
@@ -282,7 +403,11 @@
   sources:
   - text: letters 77 and 85
     url: /documents/oe1bu9454/77/
+    text_de: Briefe 77 und 85
   kind: estate
+  when_de: Oktober 1798
+  title_de: Der Tausch gegen Krotoszyn und Polajewo wird abgelehnt
+  note_de: Minister von Voss berichtet, der Staat verlöre durch den Tausch jährlich 17.400 Taler, nach einer Taxe, die gemacht war, ohne dass jemand das Land besichtigt hätte; der König lehnt ab, und Hohenlohe-Ingelfingen bittet noch 1800 gegen die Ablehnung.
 - date: '1798-10-01'
   when: 1 October 1798
   era: hohenlohe
@@ -291,7 +416,11 @@
   sources:
   - text: contract 25 of the deeds
     url: /documents/oe1bu14526/25/
+    text_de: Vertrag 25 der Urkunden
   kind: estate
+  when_de: 1. Oktober 1798
+  title_de: Szetlewek wird verkauft
+  note_de: 'Der erste Verkauf: das Vorwerk Szetlewek bei Trąbczyn, 1.000 Morgen, geht an den Müller Samuel Lucke für 12.333 Taler, wovon 8.333 geradewegs an einen Gläubiger fallen, der das Vorwerk als Pfand innehatte.'
 - date: '1800-06-18'
   when: June 1800
   era: hohenlohe
@@ -300,7 +429,11 @@
   sources:
   - text: the King's order of June 1800
     url: /documents/ihagrrep7cnr3709/2/
+    text_de: die Kabinettsordres des Königs vom Juni 1800
   kind: estate
+  when_de: Juni 1800
+  title_de: Die Tochter des Besitzers klagt
+  note_de: Die noch minderjährige Michalina Prusimska klagt dem Fürsten die Güter Brzyce als mütterliches Vermögen ab; der König befiehlt, die Sache zu beschleunigen, im Dezember wird in Poznań gegen sie geurteilt, und 1802 bittet sie den König, die Appellation zu beschleunigen.
 - date: '1804-04-02'
   when: April 1804
   era: hohenlohe
@@ -309,7 +442,11 @@
   sources:
   - text: letters 120 and 126
     url: /documents/oe1bu9454/120/
+    text_de: Briefe 120 und 126
   kind: estate
+  when_de: April 1804
+  title_de: Siedler werden gesucht
+  note_de: Mährische Brüder aus Böhmen besehen das Land, das zu 300 Talern die Hufe angeboten wird, und reisen heim, um ihre Glaubensgenossen zu holen; im November bieten Mennoniten aus Westpreußen an, Zagórów und Trąbczyn im Ganzen zu kaufen und unter sich aufzuteilen.
 - date: '1804-08-30'
   when: August 1804
   era: hohenlohe
@@ -318,7 +455,11 @@
   sources:
   - text: contracts 4 and 5 of the deeds
     url: /documents/oe1bu14526/5/
+    text_de: Verträge 4 und 5 der Urkunden
   kind: estate
+  when_de: August 1804
+  title_de: Kamionna und Kolno werden verkauft
+  note_de: 'Der erste größere Verkauf zur Schuldentilgung: die beiden Herrschaften gehen an einen Beamten der Bank in Frankfurt an der Oder für 142.000 Taler, und er will das Land aufteilen und stückweise verkaufen.'
 - date: '1805-01-28'
   when: 28 January 1805
   era: hohenlohe
@@ -327,7 +468,11 @@
   sources:
   - text: letter 158
     url: /documents/oe1bu9454/158/
+    text_de: Brief 158
   kind: estate
+  when_de: 28. Januar 1805
+  title_de: Die Invaliden-Casse leiht auf die Güter
+  note_de: Die Schulden wachsen schneller als die Einkünfte; die preußische Militärversorgungskasse sagt 150.000 Taler gegen eine Hypothek auf die Güter zu, wobei Triebenfeld persönlich für die Schuld unterschreibt — die Unterschrift, die ihn sein Leben lang verfolgen wird.
 - date: '1805-02-19'
   when: 19 February 1805
   era: hohenlohe
@@ -336,7 +481,11 @@
   sources:
   - text: the certified copy filed with the leases
     url: /documents/app5371057/1/
+    text_de: die beglaubigte Abschrift bei den Erbpachtverträgen
   kind: estate
+  when_de: 19. Februar 1805
+  title_de: Triebenfeld erhält die Generalvollmacht
+  note_de: Vollmacht, in allem zu handeln, was Zagórów, Witów und Trąbczyn betrifft; jeder Vertrag, den er von nun an unterzeichnet, beruht darauf.
 - date: '1805-04-06'
   when: 6 April 1805
   era: hohenlohe
@@ -345,7 +494,11 @@
   sources:
   - text: contract 15 of the deeds
     url: /documents/oe1bu14526/15/
+    text_de: Vertrag 15 der Urkunden
   kind: estate
+  when_de: 6. April 1805
+  title_de: 270 Hufen an Siedler ausgetan
+  note_de: Triebenfeld tut 270 Hufen in Trąbczyn, Łazy, Osiny, Neudorff und Przybysław in Erbpacht aus, zu 300 Talern die Hufe beim Antritt und 15 jährlich an Zins; bis ins folgende Frühjahr nimmt das Gericht der Güter in Mariantów einen Vertrag nach dem anderen zu denselben Bedingungen auf.
 - date: '1806-01-28'
   when: 28 January 1806
   era: hohenlohe
@@ -354,7 +507,11 @@
   sources:
   - text: the consent, in two copies
     url: /documents/oe1bu14526/8/
+    text_de: der Konsens, in zwei Abschriften
   kind: estate
+  when_de: 28. Januar 1806
+  title_de: Der König genehmigt die Parzellierung
+  note_de: Die Kammer in Kalisch erlaubt, die Vorwerke beider Herrschaften in Stellen aufzuteilen und die Dienste in einen Geldzins zu verwandeln — behält einen Teil von Trąbczyn und einen Teil des Forsts zurück und verlangt Entschädigung für die Hütungs- und Holzungsrechte der Untertanen.
 - date: '1806-04-25'
   when: April 1806
   era: hohenlohe
@@ -363,7 +520,11 @@
   sources:
   - text: letter 179a
     url: /documents/oe1bu9454/179a/
+    text_de: Brief 179a
   kind: estate
+  when_de: April 1806
+  title_de: Ein Plan, die Schulden mit einem königlichen Darlehen zu tilgen
+  note_de: Trąbczyn und Zagórów bringen jetzt 40.260 Taler jährlich, und sechzehn neue Dörfer mit fünfhundert Familien sind angesiedelt; die Schulden betragen 698.000 Taler. Triebenfeld bittet den König, ihm diese Summe in Tresorscheinen zu leihen, gesichert als einzige Hypothek auf den beiden Herrschaften.
 - date: '1806-10-14'
   when: 14 October 1806
   era: hohenlohe
@@ -372,15 +533,23 @@
   sources:
   - text: letter 26
     url: /documents/oe1bu9454/26/
+    text_de: Brief 26
   - text: Seidel 2018
     url: /literature/seidel2018/
+    text_de: Seidel 2018
   kind: war
+  when_de: 14. Oktober 1806
+  title_de: Jena und Auerstädt; die Kapitulation bei Prenzlau
+  note_de: 'Das preußische Heer wird vernichtet: Hohenlohe-Ingelfingen befehligt den linken Flügel, ist nach dem Tod des Herzogs von Braunschweig kurzzeitig Oberbefehlshaber und ergibt zwei Wochen später sein Armeekorps, alle militärischen Ämter niederlegend. Triebenfeld schreibt am selben Tag, boshafte Gerüchte ließen die Kapitulation schon jetzt millionenmal schlimmer erscheinen, als sie war.'
 - date: 1807-07
   when: July 1807
   era: hohenlohe
   title: 'Tilsit: the Duchy of Warsaw'
   note: South Prussia becomes the Duchy of Warsaw under the King of Saxony, and Hohenlohe-Ingelfingen's estates lie in a foreign state.
   kind: political
+  when_de: Juli 1807
+  title_de: 'Tilsit: das Herzogtum Warschau'
+  note_de: Südpreußen wird zum Herzogtum Warschau unter dem König von Sachsen, und die Güter Hohenlohe-Ingelfingens liegen in einem fremden Staat.
 - date: '1807-07-21'
   when: 21 July 1807
   era: hohenlohe
@@ -389,9 +558,14 @@
   sources:
   - text: the commission's papers
     url: /documents/agad11740273/2/
+    text_de: die Akten der Kommission
   - text: letter 28
     url: /documents/oe1bu9454/28/
+    text_de: Brief 28
   kind: estate
+  when_de: 21. Juli 1807
+  title_de: Die Güter werden der Tochter Prusimskis zurückgegeben
+  note_de: 'Michalina Dąbska, geborene Prusimska, bittet die Regierungskommission in Dresden, die das Dekret Napoleons für Wybicki auf sie ausdehnt: die Güter sollen an ihre wahren Eigentümer zurückfallen — ohne ein Gut zu nennen und ohne ein Wort über die Schulden, die darauf eingetragen sind. Im Oktober nimmt ein Richter Trąbczyn den Beamten Hohenlohe-Ingelfingens ab, ohne dass ein Gericht entschieden hätte. Er erhält es nie zurück.'
 - date: '1808-03-14'
   when: March 1808
   era: hohenlohe
@@ -400,7 +574,11 @@
   sources:
   - text: letters 30, 42 and 45
     url: /documents/oe1bu9454/30/
+    text_de: Briefe 30, 42 und 45
   kind: personal
+  when_de: März 1808
+  title_de: Triebenfeld unter Arrest
+  note_de: Wegen der Zinsrückstände des Darlehens, für das er persönlich unterschrieben hatte, wird er in Berlin festgehalten, im Januar 1809 erneut; im Februar verlässt er die Stadt, um einem dritten Urteil zu entgehen — und wird unterwegs eines Koffers im Wert von 800 Talern beraubt.
 - date: '1811-01-01'
   when: 1 January 1811
   era: hohenlohe
@@ -409,7 +587,11 @@
   sources:
   - text: letter 212
     url: /documents/oe1bu9454/212/
+    text_de: Brief 212
   kind: estate
+  when_de: 1. Januar 1811
+  title_de: Einunddreißig Prozesse
+  note_de: 'Aus einer Bauernhütte in Świątniki, nach schwerer Krankheit, berichtet Triebenfeld, niemand zahle: die Kolonisten berufen sich auf Edikte, die ihnen sechs Freijahre gewähren, einunddreißig Prozesse laufen, um sie zur Zahlung zu zwingen, und Steuern, Zinsen und Kosten werden fällig, schneller als etwas eingeht. Das Tribunal in Kalisch hat sich für unzuständig erklärt, die Anordnung der Kommission von 1807 aufzuheben.'
 - date: '1811-08-15'
   when: 15 August 1811
   era: hohenlohe
@@ -418,13 +600,20 @@
   sources:
   - text: letter 217
     url: /documents/oe1bu9454/217/
+    text_de: Brief 217
   kind: estate
+  when_de: 15. August 1811
+  title_de: Wie es 1807 wirklich zur Übergabe kam
+  note_de: 'Ein anderer der 1796 beschenkten Offiziere erfährt vom sächsischen Hof die Tatsache, die die Eingaben brauchten: Michalina hatte Napoleon gebeten, er hatte ihre Bittschrift nur an die polnische Kommission weitergeleitet, und die Kommission ordnete die Rückgabe an — einen Befehl Napoleons selbst gab es nicht.'
 - date: '1812'
   when: '1812'
   era: hohenlohe
   title: Napoleon's Russian campaign
   note: The Grande Armée marches east through the very districts where the estates lie.
   kind: war
+  when_de: '1812'
+  title_de: Napoleons Russlandfeldzug
+  note_de: Die Grande Armée zieht ostwärts genau durch die Kreise, in denen die Güter liegen.
 - date: 1814-09
   when: September 1814
   era: hohenlohe
@@ -433,9 +622,14 @@
   sources:
   - text: letter 242
     url: /documents/oe1bu9454/242/
+    text_de: Brief 242
   - text: the foreign ministry's file
     url: /documents/iiihamdaiiinr12765/3/
+    text_de: die Akte des Außenministeriums
   kind: political
+  when_de: September 1814
+  title_de: Triebenfeld nach Wien
+  note_de: Er wird hingeschickt, um die Rückgabe der Güter zu betreiben, solange der Kongress die Karte entscheidet, und kommt mittellos an; Hardenberg hält den Brief des Fürsten an den Zaren zurück, bis über das Herzogtum entschieden ist.
 - date: 1815-01
   when: January 1815
   era: hohenlohe
@@ -444,7 +638,11 @@
   sources:
   - text: letter 266
     url: /documents/oe1bu9454/266/
+    text_de: Brief 266
   kind: political
+  when_de: Januar 1815
+  title_de: Wo die neue Grenze verlaufen soll
+  note_de: 'Russland drängt auf eine Linie entlang der Prosna, die Trąbczyn außer Reichweite jedes preußischen Gerichts brächte; im Februar meldet Triebenfeld, es sei gegen sie entschieden: der Kreis Konin, in dem die Güter liegen, fällt an das Königreich Polen.'
 - date: '1815-06-09'
   when: 9 June 1815
   era: hohenlohe
@@ -453,9 +651,14 @@
   sources:
   - text: letter 271
     url: /documents/oe1bu9454/271/
+    text_de: Brief 271
   - text: the petition of March 1815
     url: /documents/iiihamdaiiinr12765/4/
+    text_de: die Eingabe vom März 1815
   kind: political
+  when_de: 9. Juni 1815
+  title_de: Die Schlussakte des Wiener Kongresses
+  note_de: Die Grenze verläuft über Słupca, die Warthe und die Prosna; die Güter um Trąbczyn und Zagórów fallen an das Königreich Polen unter dem russischen Kaiser. Im März hatte Triebenfeld Hardenberg den ganzen Fall dargelegt — die Verleihungen, die Besitznahme ohne Urteil, die Weigerung des Tribunals — und um die Güter mit neun Jahren Ertrag gebeten.
 - date: '1815-11-02'
   when: 2 November 1815
   era: hohenlohe
@@ -464,7 +667,11 @@
   sources:
   - text: the report
     url: /documents/iiihamdaiiinr12765/14/
+    text_de: der Bericht
   kind: estate
+  when_de: 2. November 1815
+  title_de: Zerboni berichtet gegen den Anspruch
+  note_de: Der Oberpräsident in Poznań verwirft die vorgelegten Zahlen, erklärt, Hohenlohe-Ingelfingen habe Trąbczyn verfallen lassen und mit Schulden belastet, und rät, Preußen könne nicht mehr tun, als Russland um eine Entscheidung zu bitten.
 - date: '1816-01-31'
   when: 31 January 1816
   era: hohenlohe
@@ -473,7 +680,11 @@
   sources:
   - text: letter 301
     url: /documents/oe1bu9454/301/
+    text_de: Brief 301
   kind: personal
+  when_de: 31. Januar 1816
+  title_de: Triebenfelds letzter Brief; im April ist er tot
+  note_de: Die Korrespondenz endet mit einem Brief aus Blizanów. Ein Vermerk vom 13. April am Rand von Zerbonis Bericht nennt ihn den verstorbenen von Triebenfeld; seinen Tod selbst verzeichnet kein Dokument hier.
 - date: '1816-11-23'
   when: 23 November 1816
   era: hohenlohe
@@ -482,7 +693,11 @@
   sources:
   - text: the file
     url: /documents/iiihamdaiiinr12765/25/
+    text_de: die Akte
   kind: political
+  when_de: 23. November 1816
+  title_de: Russland lehnt ab
+  note_de: Das russische Ministerium beantwortet die Noten des Gesandten mit einer Ablehnung, und Preußen sendet Hohenlohe-Ingelfingen eine Abschrift mit seinem Bedauern — nachdem es geraten war, den Anspruch nur im Allgemeinen vorzubringen, da eine Entschädigung Gnade und kein Recht sei.
 - date: '1818-02-15'
   when: 15 February 1818
   era: hohenlohe
@@ -491,7 +706,11 @@
   sources:
   - text: Seidel 2018
     url: /literature/seidel2018/
+    text_de: Seidel 2018
   kind: personal
+  when_de: 15. Februar 1818
+  title_de: Friedrich Ludwig stirbt in Sławięcice
+  note_de: Zwei Jahre nach dem letzten Brief der Sammlung; seine Erben nehmen den Anspruch auf, gebunden an das Familienmajorat, das verbietet, zu verkaufen oder zu teilen, was von den Gütern übrig ist.
 - date: '1820-01-31'
   when: 31 January 1820
   era: hohenlohe
@@ -500,7 +719,13 @@
   sources:
   - text: the file
     url: /documents/iiihamdaiiinr12765/27/
+    text_de: die Akte
   kind: political
+  when_de: 31. Januar 1820
+  title_de: Der Anspruch der Erben wird abgelehnt
+  note_de: Durch Herzog Eugen von Württemberg empfehlen die Erben ihren Anspruch der russischen Regierung; die Antwort ist, die Sache sei 1816 entschieden und der Zar könne der Empfehlung nicht folgen.
+
+# --- The Miączyńska restitution ---
 - date: '1819-01-20'
   when: 20 January 1819
   era: restitution
@@ -509,7 +734,11 @@
   sources:
   - text: the ministry's file on her claim
     url: /documents/iiihamdaiiinr12366/1/
+    text_de: die Akte des Ministeriums über ihre Forderung
   kind: political
+  when_de: 20. Januar 1819
+  title_de: Prusimskis Tochter verlangt, dass Preußen die Schulden zahlt
+  note_de: Michalina Miączyńska besitzt die Güter wieder seit 1807, doch die Hypotheken, die Hohenlohe-Ingelfingen darauf aufgenommen hat, stehen noch in den Registern — nach ihrer Rechnung 156.000 Taler. Über den russischen Gesandten in Berlin verlangt sie von Preußen, das die Güter eingezogen und verschenkt hat, sie zu tilgen; das Ministerium lehnt im Mai ab.
 - date: '1820-11-09'
   when: 9 November 1820
   era: restitution
@@ -518,7 +747,11 @@
   sources:
   - text: the report of 1834
     url: /documents/agad118501169/1/
+    text_de: der Bericht von 1834
   kind: estate
+  when_de: 9. November 1820
+  title_de: Das Appellationsgericht hält die Sache vor den Gerichten
+  note_de: 'Mit ihrer Einrede der Unzuständigkeit weist es das Appellationsgericht in Poznań zurück: eine aus einer Hypothekenverbindlichkeit entstandene Forderung gehöre vor die Gerichte — und in der Sache selbst hebt es das Urteil des Tribunals in Kalisch auf und ordnet an, den persönlichen Schuldner zu laden.'
 - date: '1821-09-04'
   when: 4 September 1821
   era: restitution
@@ -527,7 +760,11 @@
   sources:
   - text: the report of 1834
     url: /documents/agad118501169/1/
+    text_de: der Bericht von 1834
   kind: political
+  when_de: 4. September 1821
+  title_de: Der Zar gebietet, den Rechtsweg nicht zu hemmen
+  note_de: Die oberste Entscheidung folgt einem Bericht, der nur zwei Wege sah, die Sache zu lösen, den politischen und den gerichtlichen, und wo die Diplomatie versagte, sie den Zivilgerichten überließ.
 - date: '1826-07-17'
   when: July 1826
   era: restitution
@@ -536,7 +773,11 @@
   sources:
   - text: the report of 1834
     url: /documents/agad118501169/1/
+    text_de: der Bericht von 1834
   kind: estate
+  when_de: Juli 1826
+  title_de: 'Das Oberste Gericht bestätigt: die Restitution hob die Schulden auf'
+  note_de: 'Sein endgültiges Urteil lässt den Rekurs Miączyńskas zu und bestätigt das Löschen der Hypothek aus den Registern: Konfiskation und Schenkung dauerten nur, solange die Ordnung dauerte, die sie hervorbrachte, und die Restitution sollte den Besitzer in die Fülle seiner Rechte zurücksetzen, nicht mit Schulden belasten, die er nie geschlossen hatte.'
 - date: '1827-02-10'
   when: 10 February 1827
   era: restitution
@@ -545,7 +786,11 @@
   sources:
   - text: the ministry's file on her claim
     url: /documents/iiihamdaiiinr12366/5/
+    text_de: die Akte des Ministeriums über ihre Forderung
   kind: political
+  when_de: 10. Februar 1827
+  title_de: Preußen protestiert für seinen Gläubiger
+  note_de: Der Kaufmann Weigel in Wrocław hielt 30.000 Taler an Hypotheken, die Hohenlohe-Ingelfingen auf Trąbczyn aufgenommen hatte, 1819 gelöscht und 1826 bestätigt; der preußische Gesandte bittet den russischen Außenminister, das Urteil aufheben zu lassen. Die Akte enthält keine Antwort.
 - date: '1829-10-04'
   when: 4 October 1829
   era: restitution
@@ -554,7 +799,11 @@
   sources:
   - text: the report of 1834
     url: /documents/agad118501169/1/
+    text_de: der Bericht von 1834
   kind: political
+  when_de: 4. Oktober 1829
+  title_de: Ein Kompetenzkonflikt wird ermächtigt
+  note_de: Der Verwaltungsrat nimmt Lubeckis Antrag an und ermächtigt die Finanzkommission, wegen der Zuständigkeit der Gerichte einen Kompetenzkonflikt zu erheben — während sie dem preußischen Konsul sagt, der Rat habe einstimmig anerkannt, dass gezahlt werden müsse.
 - date: '1830-09-22'
   when: 22 September 1830
   era: restitution
@@ -563,7 +812,11 @@
   sources:
   - text: the second volume of the file
     url: /documents/iiihamdaiiinr12367/6/
+    text_de: der zweite Band der Akte
   kind: estate
+  when_de: 22. September 1830
+  title_de: Lubecki bestreitet die Summe, die Weigel verlangt
+  note_de: Weigel verlangt vom Königreich Polen 63.100 Taler, das Darlehen mit Zinsen und Kosten; der Finanzminister hält die Summe für überhöht, lässt die Güter schätzen, um den wirklich erlittenen Verlust zu ersetzen, und erwidert, 1803 sei Land zu hoch geschätzt worden.
 - date: '1832-03-20'
   when: March 1832
   era: restitution
@@ -572,7 +825,11 @@
   sources:
   - text: the second volume of the file
     url: /documents/iiihamdaiiinr12367/9/
+    text_de: der zweite Band der Akte
   kind: political
+  when_de: März 1832
+  title_de: Trąbczyn soll nach dem Aufstand erneut geschätzt werden
+  note_de: 'Nach dem Novemberaufstand wird die Forderung wieder aufgenommen: ein Kommissar der Staatsdomänen wird mit der Schätzung Trąbczyns beauftragt, der Präsident der Bank von Polen mit der Regelung. Hier enden die Aufnahmen; sie zeigen nicht, ob Weigel je bezahlt wurde.'
 - date: '1834-10-28'
   when: 28 October 1834
   era: restitution
@@ -581,7 +838,13 @@
   sources:
   - text: the report
     url: /documents/agad118501169/1/
+    text_de: der Bericht
   kind: political
+  when_de: 28. Oktober 1834
+  title_de: Der Konflikt wird abgewiesen
+  note_de: 'Die Instruktionskommission des Staatsrats berichtet, ein Kompetenzkonflikt habe nicht bestanden und bestehe nicht: der Rekurs sei in der Sache eine Kassationsbeschwerde, als deren Gericht der Staatsrat nach seiner Organisation nicht gilt, und das Begehren sei als auf keinem Rechtssatz beruhend abzuweisen.'
+
+# --- The colonists' land and forest rights ---
 - date: '1860-10-19'
   when: 19 October 1860
   era: wlodzimierz
@@ -590,7 +853,11 @@
   sources:
   - text: the printed summons
     url: /documents/app539680783/1/
+    text_de: die gedruckte Vorladung
   kind: estate
+  when_de: 19. Oktober 1860
+  title_de: Der Besitzer klagt wider 97 Kolonisten
+  note_de: Von den Kolonisten um ihre Rechte in seinem Wald verklagt, lädt Graf Włodzimierz Miączyński 97 von ihnen vor das Zivilgericht in Kalisz und beantragt festzustellen, dass der Vertrag, den Hohenlohe-Ingelfingen 1805 mit vierzehn Kolonisten schloss, ihn nicht binde — die Rückgabe des Gutes 1807 habe aufgehoben, was Hohenlohe-Ingelfingen eingegangen war. Wie das Gericht entschied, steht in den Akten nicht.
 - date: '1868-02-08'
   when: 8 February 1868
   era: wlodzimierz
@@ -599,9 +866,14 @@
   sources:
   - text: the liquidation table
     url: /documents/apl399806603/1/
+    text_de: die Liquidationstabelle
   - text: its copy of 1869
     url: /documents/apl399806603/2/
+    text_de: ihre Abschrift von 1869
   kind: estate
+  when_de: 8. Februar 1868
+  title_de: Die Kolonisten von Łazińsk erhalten ihr Land
+  note_de: Nach der russischen Reform von 1864, die den Bauern das Land zu Eigentum gab, das sie bewirtschafteten, verzeichnet die bestätigte Liquidationstabelle der Kolonie 91 Höfe, die Schule, den Friedhof und das Gemeindeland sowie ein Liquidationskapital von 10.055 Rubeln für den früheren Besitzer; ihre Abschrift lässt den Siedlern Weide und Leseholz im Wald „Studzianka“, zweimal in der Woche, und nichts darüber hinaus.
 - date: '1894-10-12'
   when: 12 October 1894
   era: wlodzimierz
@@ -610,7 +882,13 @@
   sources:
   - text: the inscription in the liquidation table
     url: /documents/apl399806603/4/
+    text_de: die Eintragung in der Liquidationstabelle
   kind: estate
+  when_de: 12. Oktober 1894
+  title_de: Die Waldrechte werden gegen Land aufgegeben
+  note_de: Durch einen freiwilligen Vertrag von 1892, 1894 bestätigt, geben die Kolonisten ihre Rechte in „Studzianka“ auf ein für allemal der Besitzerin von Trąbczyn, Gräfin Maria Wielopolska, auf für 393 Morgen herrschaftliches Land — vier Morgen die meisten Höfe, sechs Morgen sieben von ihnen.
+
+# --- The twentieth century ---
 - date: '1911'
   when: about 1911
   era: twentieth-century
@@ -619,7 +897,11 @@
   sources:
   - text: Breyer's second notebook
     url: /documents/app539680669/2/
+    text_de: Breyers zweites Notizbuch
   kind: estate
+  when_de: um 1911
+  title_de: Włodzimierow wird parzelliert
+  note_de: Das übrige Land des Gutshofs, von einem Mann namens Jesse gekauft und Włodzimierow genannt, wird parzelliert, fast alles an deutsche Siedler.
 - date: '1935'
   when: '1935'
   era: twentieth-century
@@ -628,7 +910,11 @@
   sources:
   - text: his notebook
     url: /documents/app539680716/7/
+    text_de: sein Notizbuch
   kind: personal
+  when_de: '1935'
+  title_de: Albert Breyer besucht die deutschen Siedlungen
+  note_de: 'Der Königsberger Historiker beginnt seine Gänge durch die deutschen Dörfer der Gemeinde Trąbczyn und schreibt auf, woran sich die Siedler erinnern, und zählt ihre Höfe: die Bauern von Łazińsk, 1840 87, sind 1935 146.'
 - date: 1936-07
   when: July 1936
   era: twentieth-century
@@ -637,7 +923,11 @@
   sources:
   - text: his notebooks
     url: /sources/app539680669/
+    text_de: seine Notizbücher
   kind: personal
+  when_de: Juli 1936
+  title_de: Breyer in Łazińsk und Emilienheim
+  note_de: Er zeichnet ihr Land und ihre Schulen auf, wer nach Wolhynien, Russland, Amerika oder Brasilien ging, wie sie sprachen und wie sie ihre Gräber bezeichneten — der letzte Bericht über die Siedlungen, bevor ihre Welt endete.
 - date: '1940-04-01'
   when: 1 April 1940
   era: twentieth-century
@@ -646,4 +936,8 @@
   sources:
   - text: Rolf Jehke, s.v. Amtsbezirk Drommin
     url: https://www.territorial.de/wart//konin/drommin.htm
+    text_de: Rolf Jehke, s.v. Amtsbezirk Drommin
   kind: political
+  when_de: 1. April 1940
+  title_de: Die Gemeinde Trąbczyn wird zum Amtsbezirk Drommin
+  note_de: Die deutsche Besatzung benennt die Landgemeinde um — vorläufig von November 1939, bestätigt am 18. Mai 1943 — und verwaltet sie von einem Amtskommissar in Grabina aus.

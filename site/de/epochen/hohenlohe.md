@@ -10,8 +10,7 @@ era: hohenlohe
 {%- assign era = site.data.eras | where: "slug", "hohenlohe" | first -%}
 {%- assign era_units = site.data.units | where: "era", "hohenlohe" -%}
 
-*Eine von drei Epochen. Die beiden anderen sind noch nicht veröffentlicht; siehe
-[die Geschichte]({{ '/de/die-geschichte/' | relative_url }}).*
+*Eine der sieben Epochen der [Zeitleiste]({{ '/de/zeitleiste/' | relative_url }}).*
 
 Diese Epoche umfasst {{ era.count }} Dokumente aus den Jahren {{ era.first }} bis
 {{ era.last }}, aus {{ era_units | size }} Archivbeständen.
@@ -318,8 +317,8 @@ vom sächsischen Hof gehört, dass polnische Kommissare auf ihre Bittschrift hin
 [die Rückgabe der Güter an sie angeordnet hätten]({{ '/documents/oe1bu9454/217/' | relative_url }}).
 Triebenfeld wandte stets ein, sie habe die Güter
 [„ohne alle Decrete und Urtels“]({{ '/documents/oe1bu9454/215/' | relative_url }}) in Besitz
-genommen. Ihr eigener Besitz der Güter ist Gegenstand der dritten Epoche dieses Archivs, die
-noch nicht veröffentlicht ist.
+genommen. Ihr eigener Besitz der Güter und ihre dreißig Jahre des Prozesses um die
+Schulden sind der Gegenstand der [nächsten Epoche]({{ '/de/epochen/restitution/' | relative_url }}).
 
 Die Verträge fügen eine Einzelheit hinzu. Am 28. Januar 1808, drei Monate nach der
 Besitznahme, stellte das Gericht der Güter den Siedlern noch ihre Papiere aus. Zwei
@@ -585,3 +584,9 @@ Fünfzehn Dokumente, in der Reihenfolge der Geschichte.
 13. [Die Bittschrift vom März 1815]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }}), der ganze Fall, wie Triebenfeld ihn darstellte
 14. [Zerboni di Sposettis Bericht]({{ '/documents/iiihamdaiiinr12765/14/' | relative_url }}), der Fall aus der Sicht der preußischen Beamten
 15. [Alopeus' Note von 1820]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }}), die endgültige Ablehnung
+
+## Ereignisse dieser Epoche
+
+{% include era-events.html era="hohenlohe" %}
+
+[Die Dokumente dieser Epoche]({{ '/de/dokumente/' | relative_url }}?era=hohenlohe)

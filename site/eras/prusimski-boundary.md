@@ -4,6 +4,7 @@ title: The Trąbczyn and Łukom boundary dispute
 standfirst: Two hundred years of argument between neighbouring estates over where one ended and the other began — mounds, notched trees, a flooded wood, and the Olęder settlers who were annexed along with the land they stood on.
 permalink: /eras/prusimski-boundary/
 lang: en
+alt_url: /de/epochen/prusimski-boundary/
 era: prusimski-boundary
 ---
 *One of the seven eras of the [Timeline]({{ '/timeline/' | relative_url }}).*

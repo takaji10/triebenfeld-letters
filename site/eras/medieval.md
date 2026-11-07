@@ -4,6 +4,7 @@ title: Trąbczyn in the Middle Ages
 standfirst: How Trąbczyn and its neighbours entered the written record — the gifts, tithes and exchanges by which the abbey of Ląd took hold of the country around it, and the knights who held Trąbczyn itself.
 permalink: /eras/medieval/
 lang: en
+alt_url: /de/epochen/medieval/
 era: medieval
 ---
 *One of the seven eras of the [Timeline]({{ '/timeline/' | relative_url }}).*

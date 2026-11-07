@@ -3610,6 +3610,53 @@ Timeline page (their text stays in the register and git history).
   German story page is a redirect meanwhile, so German readers have lost
   the narratives until it lands); the nav labels' German ("Einführung"
   set); NEEDS_CONFIRMATION entries for the curation judgement calls.
+  [SETTLED 2026-11-07, the editor's word after their read of the English
+  ("This is looking much better"): the German pass is done — see the next
+  section.]
+
+## The German pass and the Introduction off the navbar (2026-11-07, afternoon)
+
+The editor's follow-up: remove Introduction from the top navbar; write the
+eras pages for each era (the seven English pages were already in place from
+the morning — verified and kept); the German versions of all the era pages
+and the timeline; the home page updated if necessary; publish.
+
+- **Introduction off the navbar**: the nav opens with Timeline now; the
+  nav_introduction link, the i18n keys (en, de) and letter.html's
+  i18n-dict line are gone. The home page stays as it is (the editor's "if
+  necessary": the hero, the figures, the cards and the About paragraphs
+  carry it, and the brand link still leads home).
+- **The events' German fields** (timeline_german.py): when_de, title_de,
+  note_de and sources[].text_de on all 69 events — fresh translations of
+  the condensed English notes (the old German notes were fuller than the
+  new English ones and no longer matched), with the old file's terminology
+  kept (Burggericht, Landgericht, Krontribunal, Kondeszension, Erbpacht,
+  Vorwerk, Hufe, Turmhaft). The include renders text_de/when_de on the
+  German side; /de/zeitleiste/ is fully German now. The file's section
+  dividers were restored on the rewrite (the previous safe_dump had
+  consumed them) and a BOM that had slipped into the file is gone.
+- **intro_de + page_de: true** for all seven eras (eras_intros_de.py):
+  /de/zeitleiste/ shows the German narrative intros instead of falling back
+  to the editor's blurb_de, and its Read more links open the German era
+  pages.
+- **Six German era pages written** (site/de/epochen/*.md, translations of
+  the English ones with the Liquid links and glossary anchors kept —
+  /de/glossar/#haulaender and friends); the German Hohenlohe page (moved
+  this morning) had its stale pointers fixed ("Eine von drei Epochen" → the
+  Timeline pointer, "die dritte Epoche... noch nicht veröffentlicht" → the
+  link to the restitution page) and its events foot added. The English era
+  pages got their alt_url back (the German counterparts now exist), so the
+  language switch works both ways.
+- **The caveat, recorded in NEEDS_CONFIRMATION**: the editor does not read
+  German, so the German prose (intros, era pages, event notes) is
+  machine-authored and awaits a German reader's review before it is treated
+  as settled. The German terminology follows the site's existing German
+  text throughout.
+- **Verified**: build_site_data, gazetteer --check, Jekyll, verify_site
+  (58,951 internal links, 0 broken — the drop from 60,244 is the removed
+  nav link, ~1,300 counted instances), the mobile check on all nine German
+  and mixed pages at 390/360/320, screenshots of /de/zeitleiste/ and a
+  German era page checked by eye.
 
 ## The mobile-readiness re-check (2026-11-07)
 

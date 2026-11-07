@@ -4,6 +4,7 @@ title: The Miączyńska restitution
 standfirst: Michalina Miączyńska got the estates back in 1807; for thirty years afterwards, the mortgages raised on them were argued from Poznań to Warsaw to St Petersburg.
 permalink: /eras/restitution/
 lang: en
+alt_url: /de/epochen/restitution/
 era: restitution
 ---
 *One of the seven eras of the [Timeline]({{ '/timeline/' | relative_url }}).*

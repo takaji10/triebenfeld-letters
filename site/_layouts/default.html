@@ -30,9 +30,6 @@
     when the reader switches.
   {% endcomment %}
   <nav>
-    <a data-i18n="nav_introduction" data-href-en="{{ '/' | relative_url }}"
-       data-href-de="{{ '/de/' | relative_url }}"
-       href="{% if lang == 'de' %}{{ '/de/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">{{ t.nav.introduction }}</a>
     <a data-i18n="nav_timeline" data-href-en="{{ '/timeline/' | relative_url }}"
        data-href-de="{{ '/de/zeitleiste/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/zeitleiste/' | relative_url }}{% else %}{{ '/timeline/' | relative_url }}{% endif %}">{{ t.nav.timeline }}</a>

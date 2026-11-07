@@ -4,6 +4,7 @@ title: The twentieth century
 standfirst: The manor parcelled out, the German settlements villages of the Polish commune of Trąbczyn, and Albert Breyer's notebooks the last account of them.
 permalink: /eras/twentieth-century/
 lang: en
+alt_url: /de/epochen/twentieth-century/
 era: twentieth-century
 ---
 *One of the seven eras of the [Timeline]({{ '/timeline/' | relative_url }}).*

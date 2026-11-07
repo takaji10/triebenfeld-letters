@@ -20,7 +20,7 @@
     {%- assign ev_note = ev.note -%}
     {%- if lang == 'de' and ev.note_de %}{%- assign ev_note = ev.note_de -%}{%- endif -%}
     {%- if ev_note %}<p>{{ ev_note }}</p>{% endif -%}
-    <p class="tl-src">{% if lang == 'de' and ev.when_de %}{{ ev.when_de }}{% else %}{{ ev.when | default: ev.date }}{% endif %}{% if ev.sources %} &middot; {% for s in ev.sources %}{% if s.url %}<a href="{{ s.url | relative_url }}">{{ s.text }}</a>{% else %}{{ s.text }}{% endif %}{% unless forloop.last %} &middot; {% endunless %}{% endfor %}{% endif %}</p>
+    <p class="tl-src">{% if lang == 'de' and ev.when_de %}{{ ev.when_de }}{% else %}{{ ev.when | default: ev.date }}{% endif %}{% if ev.sources %} &middot; {% for s in ev.sources %}{% assign s_text = s.text %}{% if lang == 'de' and s.text_de %}{% assign s_text = s.text_de %}{% endif %}{% if s.url %}<a href="{{ s.url | relative_url }}">{{ s_text }}</a>{% else %}{{ s_text }}{% endif %}{% unless forloop.last %} &middot; {% endunless %}{% endfor %}{% endif %}</p>
   </div>
   {%- endfor -%}
 </div>

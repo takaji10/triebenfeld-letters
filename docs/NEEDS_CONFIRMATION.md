@@ -28,7 +28,16 @@ repository; they are on the working machine.
 - **The era intro paragraphs (intro_en in reference/eras.yml) are new
   text**, written to the editor's voice brief; the editor's blurbs remain
   in the register as blurb_en/blurb_de and render on /de/zeitleiste/
-  (fallback) until the German pass.
+  (fallback) until the German pass. [2026-11-07: intro_de added for all
+  seven eras in the German pass, and page_de set — /de/zeitleiste/ now
+  shows the German intros; the blurbs remain in the register.]
+- **The German prose of the Timeline pass (2026-11-07): the era
+  intros (intro_de), the six new German era pages and the events'
+  title_de/note_de/text_de are Claude's writing and the editor cannot
+  check them — a German reader should review them before they are treated
+  as settled. The terminology follows the site's existing German text
+  (Burggericht, Landgericht, Krontribunal, Kondeszension, Erbpacht,
+  Vorwerk, Hufe, Turmhaft, Olęder).**
 
 ## Waiting on material
 

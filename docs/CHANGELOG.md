@@ -5824,3 +5824,27 @@ footer on every page. Changed, in both languages:
 - **Open**: the German pass (intro paragraphs, six era-page mirrors, the
   events' German fields — the German story page is a redirect meanwhile);
   NEEDS_CONFIRMATION to carry the curation's judgement calls.
+  [SETTLED 2026-11-07, the editor's word: the German pass followed their
+  approval of the English — see the next section.]
+
+## 2026-11-07: the German pass — the era pages, the Timeline, the events, in German
+
+- **The editor's follow-up** (after their read of the published English:
+  "This is looking much better"): Introduction off the top navbar; the eras
+  pages for each era (the seven English ones already in place — kept);
+  German versions of all the era pages and the timeline; the home page
+  updated if necessary; publish. The home page needed nothing: the brand
+  link leads home, the cards and the About paragraphs carry it.
+- **The events' German fields added to all 69** (when_de, title_de,
+  note_de, sources[].text_de — fresh translations of the condensed English
+  notes; the old German notes no longer matched). /de/zeitleiste/ renders
+  fully German now, intro paragraphs included (intro_de in
+  reference/eras.yml for all seven eras, page_de: true so the Read more
+  links open the German pages).
+- **Six German era pages written** (site/de/epochen/, translations of the
+  English ones; links and glossary anchors kept); the German Hohenlohe
+  page's stale pointers fixed and its events foot added; the English era
+  pages' alt_url restored so the language switch works both ways.
+- **The caveat**: the editor does not read German — the German prose is
+  machine-authored, follows the site's existing German terminology
+  throughout, and awaits a German reader's review (NEEDS_CONFIRMATION).

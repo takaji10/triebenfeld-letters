@@ -4,6 +4,7 @@ title: The colonists' land and forest rights
 standfirst: The colonists who held their farms on contracts the Miączyńskis never signed, the reform of 1864 that made them owners, and the forest rights that ended as numbers and then as land.
 permalink: /eras/wlodzimierz/
 lang: en
+alt_url: /de/epochen/wlodzimierz/
 era: wlodzimierz
 ---
 *One of the seven eras of the [Timeline]({{ '/timeline/' | relative_url }}).*

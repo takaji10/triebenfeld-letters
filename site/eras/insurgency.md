@@ -4,6 +4,7 @@ title: The insurgency and the emigration
 standfirst: The uprising of 1794, the confiscation that followed it, and the years abroad of the last Polish owner.
 permalink: /eras/insurgency/
 lang: en
+alt_url: /de/epochen/insurgency/
 era: insurgency
 ---
 *One of the seven eras of the [Timeline]({{ '/timeline/' | relative_url }}).*
