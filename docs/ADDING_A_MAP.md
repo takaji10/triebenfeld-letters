@@ -111,6 +111,18 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    was settled); set `in_project: true`; `python pipeline/gazetteer/
    gazetteer.py --missing` (the map leaves the list of maps cited);
    NEEDS_CONFIRMATION, TODO, the changelog. Commit both repositories.
+9. **The mobile check.** After the map's pages are built (map_pages.py,
+   then Jekyll): `python pipeline/mobile_check.py --map <map>` — the map's
+   en and de pages measured at 390/360/320 px in the machine's Edge
+   (needs node on PATH; puppeteer-core installs itself into the system
+   temp, never the repository). Exit 1 names the elements outside every
+   clipping container that push the page past the viewport: a map page
+   that overflows on a phone is a build defect — fix it (the known shapes:
+   `min-width: 0` on a grid/flex item, `flex-wrap: wrap` on a toolbar
+   whose link text is data, a wide table inside `overflow-x: auto`),
+   rebuild, re-run. The first pass found exactly this on the German
+   Pełzucki 1896 page (2026-11-07); `--all` checks the whole built site
+   (the genealogy section excluded) in about four minutes per width.
 
 The mechanical steps (2, 3, 6, 7) can be run by a Sonnet sub-agent with this
 file as its brief; reading the fit and the reports stays with the main

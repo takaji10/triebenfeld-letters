@@ -4964,3 +4964,20 @@ footer on every page. Changed, in both languages:
   390 (home, sources, letter, places, literature, map) show no visual
   defect: the navbar wraps, cards stack, the letter viewer adapts, the
   Sources icons render beside their headings.
+- **The check became pipeline** (the editor's word: "New map pages will be
+  added in the future, so can you add to whatever pipeline/process to
+  ensure that they build correctly for mobile?"):
+  `pipeline/mobile_check.py` with `pipeline/mobile_check/crawl.js` lives
+  in the repository now (the temp-folder crawler would have died with the
+  session). Run after a map's pages are built — `python
+  pipeline/mobile_check.py --map <key>` is ADDING_A_MAP step 9 — or with
+  `--pages` (list or file) or `--all` (every built page, the genealogy
+  section excluded). It starts its own server on a free port, measures at
+  390/360/320 in the machine's Edge, retries the two known crawler races
+  internally, and names only the elements outside every clipping container
+  that push the page past the viewport (the real extenders). Exit 1 on any
+  overflow. Proven: the five map pages pass; a planted overflowing
+  self-test page fails with exit 1 and the right offender; `--all`
+  re-confirmed 0 overflows on 2,490 pages at 320. Needs node on PATH;
+  puppeteer-core installs into a persistent cache under the system temp,
+  never into the repository.

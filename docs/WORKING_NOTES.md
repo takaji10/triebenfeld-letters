@@ -3343,6 +3343,23 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   adapts, the Sources icons sit beside their headings, the wrapped
   `.map-tools` reads as two deliberate lines, the farm table scrolls
   within its wrap. No visual defect found.
+- **The check became pipeline (2026-11-07, the editor's word: new map
+  pages will keep coming)**: `pipeline/mobile_check.py` +
+  `pipeline/mobile_check/crawl.js` in the repository — the temp-folder
+  crawler was one editor question away from vanishing. The wrapper starts
+  its own server on a free port, keeps puppeteer-core in a persistent
+  cache under the system temp (never `node_modules` in the repo), copies
+  the crawler out to run it (so `require` resolves), and enumerates pages
+  three ways: `--map <key>` (the map's en + de pages — ADDING_A_MAP
+  step 9, after the pages are built), `--pages` (list or file), `--all`
+  (everything built, the genealogy section excluded). Proven three ways:
+  the five map pages pass, a planted overflowing self-test page fails
+  with exit 1 and the correct offender, and `--all` (2,490 pages,
+  320-only) re-confirms 0 problems. The offender logic now walks the
+  clippers itself (elements with overflow auto/scroll/hidden/clip): only
+  elements outside every clipping container are named, so the report
+  points at the real extender, not at clipped descendants whose rects
+  report their full layout width.
 
 ## The bulk maps batch and the Łukom re-backing (2026-11-06)
 
