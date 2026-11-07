@@ -764,15 +764,15 @@ Rezultaty dotychczasowych obliczeń dedzą się ująć w następujące zestawien
 
 TABELA I
 
-Ludność wiejska W tym ludność olęderska:
+Ludność wiejska; w tym ludność olęderska:
 
-Powiat ogółem w cyfrach absolutn. procentowo kościański . 105.000 14.987 14-3 . .....
+| Powiat | Ludność wiejska ogółem | w tym ludność olęderska, w cyfrach absolutn. | procentowo |
+| --- | --- | --- | --- |
+| kościański | 105.000 | 14.987 | 14,3 |
+| poznański | 93.500 | 13.637 | 14,6 |
+| z wschowski | 10.900 | — | — |
+| **Województwo poznańskie** (w granicach po I rozbiorze) | **209.400** | **28.624** | **13,7** |
 
-poznański 93.500 13.637 14.6 . . . . + + e wschowski 10.900 _ . . . . . . —
-
-Województwo poznańskie 209.400 28.624 13.7 w granicach po I rozb.
-
-pz
 
 Podane cyfry obejmują ludność wszystkich osad powiatu poznańskiego wyszczególnionych w aneksie I b, a więc także osad o charakterze przejściowym i niepewnym. Jeśli pominiemy te osady, pozostanie dymów olęderskich 2.109, a ludność osad uwzględnionych wyniesie 12.759 osób. Ogólna suma ludności wiejskiej powiatu (w granicach po pierwszym rozbiorze) powiększy się do liczby 93.569[^26-1]. Na ludność osad olęderskich przypadnie wtedy 13.6% tej cyfry.
 
@@ -1297,36 +1297,61 @@ TABELA II
 
 Skład zawodowy ludności 94 osad pow. kościańskiego wg Tol.
 
-Osoby trudn. się podanym obok zawodem | o /, zatrudnionych
+| Zawody | osoby trudniące się podanym zawodem, jako zaw. głównym | ubocznie | % zatrudnionych (jako zaw. głównym) | % w obrębie grupy |
+| --- | --- | --- | --- | --- |
+| I. Rolnictwo | 12.643 | 162 | 97,5 | 100,0 |
+| a. gospodarze ol. | 8.805 | — | | 69,6 |
+| b. komornicy | 1.542 | 122 | | 12,2 |
+| c. czeladź | 1.513 | — | | 12,0 |
+| d. luźni za robotą | 491 | — | | 3,9 |
+| e. żebracy | 292 | — | | 2,3 |
+| 2. Karczmarze[^61-1] | 155 | 156 (?) | 1,2 | |
+| 3. Młynarze[^61-2] | 14 | 42 | 0,1 | |
+| 4. Rzemiosło | 142 | — | 1,1 | |
+| 5. Hutnictwo[^61-3] | 7 | — | 0,1 | |
+| 6. Szkolni[^61-4] | 6 | 140 (?) | 0,0 | |
+| **Razem** | **12.967** | **500** | **100,0** | |
 
-Zawody i " jako zaw. głównym ubocznie w zaw. główn.
+łecznym decydował przede wszystkim stopień gospodarczej samodzielności danej jednostki. Z tego punktu widzenia możemy w obrębie każdego stanu przeprowadzić przekrój społeczny w ten sposób, że do war—
 
-I. Rolnictwo. 12.643 162 97:5 1000 a. gospodarze ol... 8.805 69-6 — b. komornicy. 1.542 | 122 . ..
-
-c. czeladź. 1.513 12-0 .. . ... — d. luźni za robotą 491 3:9 . — e. żebracy 292 — 2:3 2. Karczmarze!.... 155 156 12 — 3. Młynarze? 14 42 0.1 ..... | 4. Rzemiosło... 142 1-1 ... _— _ 5. Hutnictwo? 7 0-1 .... = _ 6. Szkolni* 6 140 0-0 ...... _
-
-Razem 12.967 500 100-0 | .. łecznym decydował przede wszystkim stopień gospodarczej samodzielności danej jednostki. Z tego punktu widzenia możemy w obrębie każdego stanu przeprowadzić przekrój społeczny w ten sposób, że do war— l Że karczmarzy było więcej, niż wykazuje ich Tol., można wywnioskować z ilości dymów podanych dla karczem w Tod. 89. Nie ulega wątpliwości, że dla wszystkich karczmarzy podstawą utrzymania były gospodarstwa rolne (częstokroć zwolnione od czynszów). Część karczmarzy w Tol. podana została zapewne w rubryce ,„gospodarze”. Oszacowaliśmy ich, mnożąc nadwyżkę dymów karczmarskich w Tod. 89 przez współczynnik 5, wyrażający liczbę osób przypadających na rodzinę karczmarską według tab. III.
-
-2 Ogółem w osadach znajdował się 1 młyn wodny 1 8 wietrznych (wiatraków). Młyn wodny znajdujący się w Sroczewskich Ol. istniał już przed lokacją olędrów. W 'Tol. podane są tylko rodziny 2 młynarzy. Rodziny pozostałych właścicieli młynów w liczbie 7, podanych w Tod. 89, oszacowaliśmy licząc 6 osób dym młynarski na 42 osoby. Niewątpliwie — na — ich głównym zawodem było rolnictwo.
-
-3 Osoby zaliczone do tej grupy stanowią obsługę hamru znajdującego się w Ol. Borujskich. Hamer ten istniał już przed lokacją olędrów; nie był on objęty przywilejem zapewne lokacyjnym. Przypuszczać jednak można, -że jego pracownicy - składali się z mieszkańców Osady. Źródłowych wiadomości tutaj brak.
-
-4 Nauczycieli wiejskich, jak można wnioskować z różnych przygodnych wzmianek, musiało być więcej niż I rodzina wykazana Tol. Mieszczą się oni zapewne w rubrykach: »Bgospodarze”, komornicy”, i „„rzemieślnicy”. Podana w przedziałce „zajęci ubocznie w danym zawodzie” cyfra osób należących do rodzin nauczycieli obliczoria została szacunkowo na podstawie wyników tabeli III. Na 94 osady powiatu kościańskiego wypadło proporcjonalnie 36 nauczycieli (łącznie lektorami do tab. III), z czego l został już uwzględz — por. uwagę niony, reszta zaś, licząc 4 osoby na nauczyciela wzgl. lektora z rodziną, uczyniła w sumie 140 dusz.
+[^61-1]: Że karczmarzy było więcej, niż wykazuje ich Tol., można wywnioskować z ilości dymów podanych dla karczem w Tol. 89. Nie ulega wątpliwości, że dla wszystkich karczmarzy podstawą utrzymania były gospodarstwa rolne (częstokroć zwolnione od czynszów). Część karczmarzy w Tol. podana została zapewne w rubryce „gospodarze”. Oszacowaliśmy ich, mnożąc nadwyżkę dymów karczmarskich w Tol. 89 przez współczynnik 5, wyrażający liczbę osób przypadających na rodzinę karczmarską według tab. III.
+[^61-2]: Ogółem w osadach znajdował się 1 młyn wodny i 8 wietrznych (wiatraków). Młyn wodny znajdujący się w Sroczewskich Ol. istniał już przed lokacją olędrów. W Tol. podane są tylko rodziny 2 młynarzy. Rodziny pozostałych właścicieli młynów w liczbie 7, podanych w Tol. 89, oszacowaliśmy licząc 6 osób na dym młynarski na 42 osoby. Niewątpliwie ich głównym zawodem było rolnictwo.
+[^61-3]: Osoby zaliczone do tej grupy stanowią obsługę hamru znajdującego się w Ol. Borujskich. Hamer ten istniał już przed lokacją olędrów; nie był on objęty przywilejem lokacyjnym. Przypuszczać jednak można, że jego pracownicy składali się z mieszkańców osady. Źródłowych wiadomości tutaj brak.
+[^61-4]: Nauczycieli wiejskich, jak można wnioskować z różnych przygodnych wzmianek, musiało być więcej niż 1 rodzina wykazana w Tol. Mieszczą się oni zapewne w rubrykach: „gospodarze”, „komornicy”, i „rzemieślnicy”. Podana w przedziałce „zajęci ubocznie w danym zawodzie” cyfra osób należących do rodzin nauczycieli obliczona została szacunkowo na podstawie wyników tabeli III. Na 94 osady powiatu kościańskiego wypadło proporcjonalnie 36 nauczycieli (łącznie z lektorami — por. tab. III), z czego 1 został już uwzględniony, reszta zaś, licząc 4 osoby na nauczyciela wzgl. lektora z rodziną, uczyniła w sumie 140 dusz.
 
 [p. 62]
 
 
-TABELA III Skład zawodowy ludności 36 osad. olęderskich powiatu poznańskiego. Zawodowo czynni i bierni 7 | 8 maj. | 28 wsi klasyfikowa- wsi sieranych w 1773 kowskiej Razem r.
+TABELA III
 
-| 1. osób, dla I. osób, dla | 1. osób, dla | i Kategorie których po- których których czyn po- pozawodów liczba | dany obok |1iczbą | | dany obok |]iczbą | dany obok nych zawód jest zawód jest zawód jest rodzin rodzin rodzin w zaw.
+Skład zawodowy ludności 36 osad olęderskich powiatu poznańskiego (zawodowo czynni i bierni)
 
-głów- 'ubocz- głów- lubocz- głów- głów- | |ubocznym | nym nym | nym nym | nym | nym I. Rolnictwo 653 | 3262 | 100 | 601 | 13: | 753 | 3863 | 73 | 91-9 ...| 602| a. gospodarze ol. | 418 | 2434 | 85 | 454 | | 503 | 2888) | | -——- — — b. chałupnicy! 37 125) 37 | 125| — .| — — _ — — c. komornicy 198 | 429| 15 40 | | 213 | 469 | . .| — — — _—_ d.czeladź....| — 274 | | 107] _— 381 | — — — — — 2. Hodowla 21 92| 11 39 | 32 | 131] 31 . . . .| — — — (pasterze) 3. Kąrczmarze lg 54| 4 13| 14 67| 1-6 | . . — — — l ó| _— _— _— 6| | 4. Młynarze. | — 0-1 . .. — -|5. Rzemiosło 23 86 | 2 9 _— 25 95) ... — — — | a.kowale....| 15 52|/ 15 52| 1-3 — _ — — — b. kołodzieje l 5| _— _— 1 5| 0:1 . . — — — sukiennicy | 6| l 6| 0:2 | c. . . — — — _ — d. półciennicy ] 1l| 1 il 0:0 | «» — _ = — — e.krawcy. 4 19] l 4 | 5 23| 0:5 .. . — — — f. szewcy ] 3| 1 5| 2 8|/ 0:2 + . + + — — — | 6. Przem. leśny . l 41 1 4| 0-1 . — — — — _— (smolarze) 7. Ośw. i kult. rel. 8 28 1 53l 10 13 38 | 0-9 | _ (nauczyciele, lektorzy) | |
+| Kategorie zawodów | 28 wsi klasyfikowanych w r. 1773: rodzin | osób (zawód główny) | osób (zawód uboczny) | 8 wsi maj. sierakowskiej: rodzin | osób (zawód główny) | osób (zawód uboczny) | Razem: rodzin | osób (zawód główny) | osób (zawód uboczny) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I. Rolnictwo | 653 | 3262 | 60[^62-2] | 100 | 601 | 13[^62-2] | 753 | 3863 | 73 |
+| a. gospodarze ol. | 418 | 2434 | — | 85 | 454 | — | 503 | 2888 | — |
+| b. chałupnicy[^62-1] | 37 | 125 | — | — | — | — | 37 | 125 | — |
+| c. komornicy | 198 | 429 | — | 15 | 40 | — | 213 | 469 | — |
+| d. czeladź | — | 274 | — | — | 107 | — | — | 381 | — |
+| 2. Hodowla (pasterze) | 31 | 92 | — | 11 | 39 | — | 32 | 131 | — |
+| 3. Karczmarze | 10 | 54 | — | 4 | 13 | — | 14 | 67 | — |
+| 4. Młynarze | 1 | 6 | — | — | — | — | 1 | 6 | — |
+| 5. Rzemiosło | 23 | 86 | — | 2 | 9 | — | 25 | 95 | — |
+| a. kowale | 15 | 52 | — | — | — | — | 15 | 52 | — |
+| b. kołodzieje | 1 | 5 | — | — | — | — | 1 | 5 | — |
+| c. sukiennicy | 1 | 6 | — | — | — | — | 1 | 6 | — |
+| d. półciennicy | 1 | 1 | — | — | — | — | 1 | 1 | — |
+| e. krawcy | 4 | 19 | — | 1 | 4 | — | 5 | 23 | — |
+| f. szewcy | 1 | 3 | — | 1 | 5 | — | 2 | 8 | — |
+| 6. Przem. leśny (smolarze) | 1 | 4 | — | — | — | — | 1 | 4 | — |
+| 7. Ośw. i kult. rel. (nauczyciele, lektorzy) | 8 | 28 | 1 | 5[^62-3] | 10 | — | 13 | 38 | 1 |
+| **Razem** | **717** | **3532** | **61** | **122** | **672** | **13** | **839** | **4204** | **74** |
 
-Razem 717 | 3532| 61 122 | 672 13 | 839 | 4204 | 74 |100.0 ..| stwy przodującej zaliczymy Jednostki gospodarczo samodzielne, niższą społecznie kategorię będą tworzyły te jednostki, które mając niedosta1 Źródło miesza chałupników z komornikami. Ściśle warstw tych rozgraniczyć na podstawie danych akt klasyfikacyjnych nie można; w tabeli za podstawę rozgraniczenia przyjęto terminologię źródłową.
+stwy przodującej zaliczymy Jednostki gospodarczo samodzielne, niższą społecznie kategorię będą tworzyły te jednostki, które mając niedosta-
 
-2 Karczmarze i młynarze.
-
-3 ] nauczyciel, 4 lektorów (Vorleser).
+[^62-1]: Źródło miesza chałupników z komornikami. Ściśle warstw tych rozgraniczyć na podstawie danych akt klasyfikacyjnych nie można; w tabeli za podstawę rozgraniczenia przyjęto terminologię źródłową.
+[^62-2]: Karczmarze i młynarze.
+[^62-3]: 1 nauczyciel, 4 lektorów (Vorleser).
 
 [p. 63]
 
@@ -1343,25 +1368,25 @@ teczne dochody z własnych warsztatów pracy, zmuszore są uzupełnizć je prac�
 
 TABELA IV
 
-Społeczne uwarstwienie ludności osad olęderskich BN .
+Społeczne uwarstwienie ludności osad olęderskich
 
-Liczba osób
+| Kompleksy terytorialne | Liczba osad | gospod. samodz. (osób) | pośrednich (osób) | niesamodz. (osób) | razem |
+| --- | --- | --- | --- | --- | --- |
+| **Cyfry absolutne** | | | | | |
+| Pow. kościański | 94 | 8.974 | 149 | 3.844 | 12.967 |
+| z powiatu poznańskiego: | | | | | |
+| a. osady klasyfikowane w r. 1773 | 28 | 2.494 | 90 | 948 | 3.532 |
+| b. maj. sierakowska (r. 1759) | 8 | 467 | 9 | 196 | 672 |
+| **Ogółem** | **130** | **11.935** | **248** | **4.988** | **17.171** |
+| **Cyfry procentowe** | | | | | |
+| Pow. kościański | — | 69,2 | 1,1 | 29,7 | 100,00 |
+| a. osady klasyfikowane w r. 1773 | — | 70,7 | 2,5 | 26,8 | 100,00 |
+| b. maj. sierakowska (r. 1759) | — | 69,5 | 1,3 | 29,2 | 100,00 |
+| **Ogółem** | — | **69,5** | **1,4** | **29,1** | **100,00** |
 
-Kompleksy Liczba terytorialne osad gospod. pośred- gospod.
+Z. braku cyfr porównawczych dla innych osad Wielkopolski ograniczymy się do zestawienia otrzymanych tutaj wyników z cyframi dotyczącymi uwarstwienia społecznego ludności królewszczyzn pruskich[^64-1]. Struktura społeczno-zawodowa tej ludności była pod wieloma względami analogiczna do struktury ludności olęderskich osad powiatu kościańskiego i poznańskiego.
 
-samodz. nich niesamodz. razem
-
-Cyfry absolutne Pow. kościański. 94 8.974 149 3.844 12.967 . . ... , Z powiatu poznańskiego: | | a. osady klasyfiko ane wr.1773. 28 2.494 90 948 3.532 b. maj. sierakowska (r. 1759) 8 467 9 196 672
-
-Ogółem..| 130 | 11.935 | | 4,988 248 17.171
-
-Cyfry procentowe Pow. kościański = 692 1:1 297 10000 . . ....
-
-Z pówiatu poznańskiego: a. osady klasyfikowane wr.17733...... — 70:7 2'5 26'8 100:00 b. maj. sierakowska (r. 1759) — 695 1:3 29-2 100-00 ......Ogółem... | | 69'5 | 1:4 | 291 100:00 —
-
-Z. braku cyfr porównawczych dla innych osad Wielkopolski ograniczymy się do zestawienia otrzymanych tutaj wyników z cyframi dotyczącymi uwarstwienia społecznego ludności królewszczyzn pruskich. Struktura społeczno-zawodowa tej ludności przedstawiała się podobnie, jak w Wielkopolsce, jednak wartość porównawczą danych dla Prus Królewskich zmniejsza fakt, że dotyczą one w. XVII (r. 1664). Według tych danych uwarstwienie społeczne ludności w osadach olęderskich nie wiele się różniło od uwarstwienia ogółu ludności wiejskiej królewszczyzn, gdzie jedynie warstwa pośrednich była nieco liczniejsza w związku z większym uprzemysłowieniem wsi królewskich 1.
-
-l Por. Rusiński Władysław, Uwarstwienie ludności wiejskiej w królewszczyznach Prus Królewskich w drugiej połowie XVII w. Roczniki dziejów społecznych i gospodarczych, t. VI, r. 1937, s. 111.
+[^64-1]: Por. Rusiński Władysław, Uwarstwienie ludności wiejskiej w królewszczyznach Prus Królewskich w drugiej połowie XVII w. Roczniki dziejów społecznych i gospodarczych, t. VI, r. 1937, s. 111.
 
 [p. 65]
 
@@ -1382,15 +1407,17 @@ TABELA V
 
 Charakter gruntów, na których powstały osady olęderskie
 
-Ogólna liczba osad zapisanych w źródłach; liczba osad powstałych odpowiednio:
+| Powiaty | Ogólna liczba osad zapisanych w źródłach | osad powstałych na rolach gotowych (uprawnych) | osad powstałych na rolach częścią zarosłych | osad powstałych na rolach zarosłych (wytrzebionych przez olędrów) |
+| --- | --- | --- | --- | --- |
+| **w cyfrach absolutnych** | | | | |
+| kościański | 44 | 20 | 3 | 21 |
+| poznański | 78 | 17 | 3 | 58 |
+| **Razem** | **122** | **37** | **6** | **79** |
+| **procentowo** | | | | |
+| kościański | — | 45,5 | 6,8 | 47,7 |
+| poznański | — | 21,8 | 3,8 | 74,4 |
+| **Razem** | — | **30,3** | **4,9** | **64,8** |
 
-w absolutnych cyfrach = kościański 44 20 3 21 poznański 78 17 3 58
-
-Razem 122 37 6 79 procentowo: kościański 45,5 6,8 47,7 poznański 21,8 3,8 74,4
-
-Razem — 30,3 4,9 64,8 . .
-
-|
 
 W świetle tych cyfr bledną twierdzenia nauki niemieckiej o pionierskiej roli kolonistów narodowości niemieckiej w dziedzinie ukultywowania gleby ziem zachodniej Wielkopolski. Jednocześnie cyfry te podważają twierdzenia Maasa o wielkim zalesieniu krajobrazu wielkopolskiego w okresie przed kolonizacją nowożytną[^66-1], a uzasadniają krytyczne stanowisko Hładyłowicza[^66-2].
 
@@ -1683,19 +1710,22 @@ I. Czynsze. Wszyscy olędrzy byli czynszownikami. Robocizny miały jedynie drobn
 
 8D a. Czynsze pieniężne wymierzane byly w różnych jednostkach monetarnych, których kurs podlegał ciągłym wahaniom, a wskutek tego zmieniała się ciągle ich wzajemna relacja. W dalszych rozważaniach wszystkie czynsze przeliczone zostały na trzydziestogroszowe złote polskie[^85-1]. Często zresztą były one wyznaczane alternatywnie w dwóch odrębnych jednostkach pieniężnych i w związku z tym podawano wartość jednej monety w stosunku do drugiej.
 
+Wśród czynszów pieniężnych najważniejszą, a niekiedy jedyną pozycję tworzył czynsz od gruntu (gruntczynsz). W najwcześniejszych osadach był on bardzo niski: w Ujskich Ol. (r. 1597) wyrosił 20 zł z huby 30-morgowej[^85-2], w Ol. Nowe Dwory (r. 1601) 25 zł z huby, jak wynika z późniejszych pomiarów, 60-morgowej[^85-3]. W Ol. Róża (r. 1624) czynsz nominalnie był nieco wyższy i wynosił 36 zł z huby[^85-4], w gruncie rzeczy jednak na skutek spadku wartości złotego nie był wyższy od czynszów podanych poprzednio. Na tym poziomie utrzym:ł się czynsz przez cały w. XVII[^85-5]. Przy końcu tego wieku zaczęto wyznaczeć należności w tynfach. I tak w Dłuskich Starych Ol. (r. 1688)[^85-8] czynsz ze śladu Określony został na 64 tynfy. Faktyczna wartość tynfa nie wynosiła jednak ani połowy wartości złotego, kursującego dotychczas, tak, że w gruncie tu do czynienia obniżką czynszu[^85-6]. W pierwszej rzeczy mamy z połowie w. XVIII świadczenia wymierza się albo w „dobrej monecie”[^85-7], tzn. w złotych kursujących przed wprowadzeniem tynfa, lub w talarach, licząc początkowo 36 gr, a w miarę spadku wartości złotego 3,6 a nawet 8 zł za talar, i wtedy wartość czynszu wyrosiła jak poprzednio 30—36 zł (srebrnych), względnie 8—12 talarów[^85-9]— albo też w zdewaluowanych
+
 [^85-1]: Opieraliśmy się tutaj na pracach: Gumowski Marian, Podręcznik numizmatyki polskiej, Kraków 1914; tenże, Monety polskie, Warszawa 1924; Rutkowski Zarys dziejów, s. 214 i nast.
 [^85-2]: Inscr. Valc. nr 85, r. 1663—4, fol. 402.
-[^85-3]: Rel. Posn. nr 140, r. 1602, fol. 659 i Kl. XII 7. t Rel. Posn. nr 638, r. 1791, fol. 597.
-[^85-4]: 36-zlotowy czynsz mamy w Wielkokrobielewskich O. (r. 1672) i w Meryniu Starym (T. 1695); w Ol. Sękowo (r. 1700) mamy tylko 30 zł.
-[^85-5]: AW. Dłuskic Stare Ol., A. 1. Nie orientując się widocznie w ówczesnych stosunkach monetarnych, Schmidt (Geschichte, s. 383) uważał ów czynsz za wyjątkowo wysoki.
+[^85-3]: Rel. Posn. nr 140, r. 1602, fol. 659 i Kl. XII 7.
+[^85-4]: Rel. Posn. nr 638, r. 1791, fol. 597.
+[^85-5]: 36-złotowy czynsz mamy w Wielkokrobielewskich O. (r. 1672) i w Meryniu Starym (T. 1695); w Ol. Sękowo (r. 1700) mamy tylko 30 zł.
+[^85-8]: AW. Dłuskic Stare Ol., A. 1. Nie orientując się widocznie w ówczesnych stosunkach monetarnych, Schmidt (Geschichte, s. 383) uważał ów czynsz za wyjątkowo wysoki.
 [^85-6]: Ol. Jasionowe, r. 1701 (Rel. Posn. nr 645, r. 1793, fol. 319), Ol. Glinki, r. 1701 (Rel. Posn. nr 640, r. 1791, fol. 270).
 [^85-7]: J. w. oraz: AW. Jaromierskie Stare OlI., dep. A. I (r. 1709); AW. Meryń Stary, B. 2 (r. 1713). ,
-[^85-8]: AW. Tuchorskie Stare Ol., dep. A. 1 (r. 1703) — 10 talarów; AW. Sowiagóra, B. 2 (r. 1703) — 8 talarów; AW. Zielonka, A. I (r. 1704) — 10 talarów; Rel. Posn. nr 035, r. 1790, fol. 316, Słonawskie Ol. (r. 1707) — 8 talarów; AW. Jaromierz (Nowy), B. 4, fol. 63 (r. 1719) — 12 talarów.
+[^85-9]: AW. Tuchorskie Stare Ol., dep. A. 1 (r. 1703) — 10 talarów; AW. Sowiagóra, B. 2 (r. 1703) — 8 talarów; AW. Zielonka, A. I (r. 1704) — 10 talarów; Rel. Posn. nr 035, r. 1790, fol. 316, Słonawskie Ol. (r. 1707) — 8 talarów; AW. Jaromierz (Nowy), B. 4, fol. 63 (r. 1719) — 12 talarów.
 
 [p. 86]
 
 
-Wśród czynszów pieniężnych najważniejszą, a niekiedy jedyną pozycję tworzył czynsz od gruntu (gruntczynsz). W najwcześniejszych osadach był on bardzo niski: w Ujskich Ol. (r. 1597) wyrosił zł z huby 30-morgowej[^85-2], w Ol. Nowe Dwory (r. 1601) 25 zł z huby, jak wynika z późniejszych pomiarów, 60-morgowej[^85-3]. W Ol. Róża (r. 1624) czynsz nominalnie był nieco wyższy i wynosił 36 zł z huby, w gruncie rzeczy jednak na skutek spadku wartości złotego nie był wyższy od czynszów podanych poprzednio. Na tym poziomie utrzym:ł się czynsz przez cały w. XVII[^85-4]. Przy końcu tego wieku zaczęto wyznaczeć należności w tynfach. I tak w Dłuskich Starych Ol. (r. 1688)[^85-5] czynsz ze śladu Określony został na 64 tynfy. Faktyczna wartość tynfa nie wynosiła jednak ani połowy wartości złotego, kursującego dotychczas, tak, że w gruncie tu do czynienia obniżką czynszu[^85-6]. W pierwszej rzeczy mamy z połowie w. XVIII świadczenia wymierza się albo w „dobrej monecie”[^85-7], tzn. w złotych kursujących przed wprowadzeniem tynfa, lub w talarach, licząc początkowo 36 gr, a w miarę spadku wartości złotego 3,6 a nawet 8 zł talar i wtedy wartość wyrosiła jak poprzednio 30—36. za — czynszu zł (srebrnych) 8, względnie 8—12 talarów[^85-8]— albo też w zdewaluowanych złotówkach tynfowych; w tym ostatnim wypadku ndleżność wynosiłą przeciętnie 50 tynfów, wahając się w poszczególnych wypadkach od 30[^86-1] do 70[^86-2] tynfów. Nieco wyższy czynsz notujemy w osadach lokowanych w latach osiemdziesiątych w. XVIII; wynosi on tam niekiedy 75—88 zł[^86-3], czyli 60—70 tynfów, licząc tynfa po 38 gr. Wyjątkowo niski czynsz w Radoszkowskich Ol. wynosi z huby (włóki) 16 zł (r. 1781), natomiast we Włościejewskich O. (r. 1783) mamy świadczenia dość wysokie, bo wynoszące 100 tynfów z huby. Koło tej sumy waha się czynsz w osadach lokowanych w ostatniej ćwierci w. XVIII[^86-4].
+złotówkach tynfowych; w tym ostatnim wypadku ndleżność wynosiłą przeciętnie 50 tynfów, wahając się w poszczególnych wypadkach od 30[^86-1] do 70[^86-2] tynfów. Nieco wyższy czynsz notujemy w osadach lokowanych w latach osiemdziesiątych w. XVIII; wynosi on tam niekiedy 75—88 zł[^86-3], czyli 60—70 tynfów, licząc tynfa po 38 gr. Wyjątkowo niski czynsz w Radoszkowskich Ol. wynosi z huby (włóki) 16 zł (r. 1781), natomiast we Włościejewskich O. (r. 1783) mamy świadczenia dość wysokie, bo wynoszące 100 tynfów z huby. Koło tej sumy waha się czynsz w osadach lokowanych w ostatniej ćwierci w. XVIII[^86-4].
 
 W pieniądzu po największej części uiszczano też czynsz za serwituty pastwiskowe. Osobne opłaty za pastwisko pojawiają się z końcem w. XVII. Utrzymują się one aż do rozbiorów w wysokości 2 talarów lub 10 tynfów przy stałej opłacie od huby, względnie 6 do 10 gr od każdej sztuki bydła. W Ol. Stodólsko stała opłata wynosiła tylko 1 talar, ale korzystanie z pastwisk było ograniczone czasowo 5. W Ol. Wymy-[^86-5] ślanka olędrzy zobowiązani byli uiszczać oba rodzaje opłat równocześnie[^86-6], Wyraźnie represyjny charakter miała kwota wyznaczona w Ol. Głęboczek. Wolno tam było trzymać bezpłatnie 50 owiec, natomiast od każdej następnej owcy obowiązywała opłata w wysokości aż 1 tynfa[^86-7]. W nielicznych wypadkach opłata za pastwisko wliczona została już do czynszu ogólnego[^86-8]. Niekiedy znowu uiszczano wspólną opłatę za serwituty pastwiskowe i leśne[^86-9].
 
@@ -1891,7 +1921,7 @@ Autor broszury Uber Ursprung u. Verbreitung des Deutschtums .im Lande Posen (r. 
 [p. 97]
 
 
-Skr: jnie traktuje sprawę Schmitt[^96-4]. Przywileje nazywa „germańskimi immuhnitetam1”, które nie odpowiadały „polskiemu systemowi”. Według niego osadników gnębiono wszelkimi sposobami, narzucając im nawet regularną pańszczyznę. Przywileje, nawet królewskie, z zasady nie były respektowane. Jako przykład autor przytacza wypadek, kiedy osadnicy starostwa ujskiego z polecenia starosty zostali wychłostani za to, że zbierali siano z łąk starościńskich. Nie jest jednak wiadomo autorowi, że w sąsiedniej domenie państwowej Podstolice już za czasów pruskich urzędnicy domeny karali chłostą olędrów z Brzekińca, a ci w petycjach do króla pruskiego błagali usilnie, żeby przywrócoro im prawa, którymi cieszyli się pod polskim panowaniem[^96-5]. O to samo zresztą upraszali podani przez autora za przykład olędrzy starostwa ujskiego[^97-1]. Fakt, że w domen:e Podstolice urzędnicy pruscy stosowali chłostę wobec olędrów, nie dowodzi, że tak było we wszystkich domenach, wskazuje jednak, do jakich błędów prowadzi metoda uogólniania wypadków skrajnych. W podobny sposób podchodzą do zagadnienia Brandenburger[^97-2] i Koerth[^97-3]. Dziwnymi drogami idzie rozumowanie tego ostatniego autora. Zarzuca on panom postępowanie wbrew postanowieniom przywilejów, a w dalszym ciągu Jako przykład przytacza spór z panem o serwituty pastwiskowe, przy czym jednak dodaje:: w imieniu króla poleca przychylnie rozpatrzyć petycję gmin i zakazuje kategorycznie bić skarżących. Widocznie jednak położenie osadników nie wiele się poprawiło, gdyż 22 maja' 1782 olędrzy brzekińscy wystosowują nowe (fol. 130), pismo do króla następującej treści: „Nachdem Ihro Majestät aus besonderer Gnadenbezeigung gerichtet haben, uns allergnädigst bey unserer alten Gerechtigkeit, so wie ehemals unter Königlich Pohlnischer Regierung genossen, zu schützen und unverändert dabei zu erhalten; wir aber demohngeachtet nach der Maassgabe des Conducteurs Eichmann, welcher unsere Felder vor zwey Jahren gemessen, in unsern Abgaben sehr erhöhet worden, indem gedachter Conducteur aus unsern Gründen weit mehr gemessen als wir nach altem Königlich Pohlnischen Maasse wirklich besitzen. Da doch unsere Gründe vor wenig Jahren noch durch die ehemalige Pohlnische Obrigkeit aufs allergenauste gemessen wurden und zwar jeden Morgen zu 300 Ruthen, jede Ruthe zu 8 Ellen, jede Elle zu 24 Zoll, die Baustelle wurde aus einem Morgen, darzu Graben, Wege und Triften Zinsfrey gelassen.
+Skr: jnie traktuje sprawę Schmitt[^96-4]. Przywileje nazywa „germańskimi immunitetami”, które nie odpowiadały „polskiemu systemowi”. Według niego osadników gnębiono wszelkimi sposobami, narzucając im nawet regularną pańszczyznę. Przywileje, nawet królewskie, z zasady nie były respektowane. Jako przykład autor przytacza wypadek, kiedy osadnicy starostwa ujskiego z polecenia starosty zostali wychłostani za to, że zbierali siano z łąk starościńskich. Nie jest jednak wiadomo autorowi, że w sąsiedniej domenie państwowej Podstolice już za czasów pruskich urzędnicy domeny karali chłostą olędrów z Brzekińca, a ci w petycjach do króla pruskiego błagali usilnie, żeby przywrócoro im prawa, którymi cieszyli się pod polskim panowaniem[^96-5]. O to samo zresztą upraszali podani przez autora za przykład olędrzy starostwa ujskiego[^97-1]. Fakt, że w domen:e Podstolice urzędnicy pruscy stosowali chłostę wobec olędrów, nie dowodzi, że tak było we wszystkich domenach, wskazuje jednak, do jakich błędów prowadzi metoda uogólniania wypadków skrajnych. W podobny sposób podchodzą do zagadnienia Brandenburger[^97-2] i Koerth[^97-3]. Dziwnymi drogami idzie rozumowanie tego ostatniego autora. Zarzuca on panom postępowanie wbrew postanowieniom przywilejów, a w dalszym ciągu Jako przykład przytacza spór z panem o serwituty pastwiskowe, przy czym jednak dodaje:: w imieniu króla poleca przychylnie rozpatrzyć petycję gmin i zakazuje kategorycznie bić skarżących. Widocznie jednak położenie osadników nie wiele się poprawiło, gdyż 22 maja' 1782 olędrzy brzekińscy wystosowują nowe (fol. 130), pismo do króla następującej treści: „Nachdem Ihro Majestät aus besonderer Gnadenbezeigung gerichtet haben, uns allergnädigst bey unserer alten Gerechtigkeit, so wie ehemals unter Königlich Pohlnischer Regierung genossen, zu schützen und unverändert dabei zu erhalten; wir aber demohngeachtet nach der Maassgabe des Conducteurs Eichmann, welcher unsere Felder vor zwey Jahren gemessen, in unsern Abgaben sehr erhöhet worden, indem gedachter Conducteur aus unsern Gründen weit mehr gemessen als wir nach altem Königlich Pohlnischen Maasse wirklich besitzen. Da doch unsere Gründe vor wenig Jahren noch durch die ehemalige Pohlnische Obrigkeit aufs allergenauste gemessen wurden und zwar jeden Morgen zu 300 Ruthen, jede Ruthe zu 8 Ellen, jede Elle zu 24 Zoll, die Baustelle wurde aus einem Morgen, darzu Graben, Wege und Triften Zinsfrey gelassen.
 
 Darnachst wurde uns zu Pohlnischen Zeiten gestattet freyes Bau-Holz, sowohl zu Reparaturen als auch zu gantz neuem Bau von der Königlichen Heide zu holen, welches uns auch bisher von Ihro Majestät unserm allergnädigsten Könige zwar noch nicht ist gänzlich abgeschlagen, dennoch aber bis dato noch keines erhalten haben, so höchstnöthig es auch bey vielen unserer Einsassen, deren Gebäude alt und baufällig ist, zu gebrauchen wären. Wir sind überzeugt, dass Ihro Majestät, unser allergnädigster König und Herr, uns Landes-Väterlicher Hulde geruhen werden, diese unsere Bitte, so wir denenselben in tiefster Ehrfurcht und Veneration übergeben, allergnädigst von uns auch annehmen werden, und uns in obbemeldten Puncten laut unserm Privilegio bey unsern alten Rechten und Schützen behalten werden, welche uns, seitdem unsere Gründe durch obbemeldten Conducteur gemessen worden, dessen Maassgabe wir unmöglich vor richtig annehmen und erkennen können, sind gesindert und unsere Abgaben erhöhet worden, unangesehen das unsere Gründe schlecht und im gantzen hiesigen Amte den sandigsten und untragbarsten Boden gaben, wenn wir bey Ihro Majestät unserm allergnädigsten Könige die hohe Gnade erhalten, werden wir uns verpflichtet halten dero Leutseligkeit und Gnadenbezeigung lebenslang zu rühmen, und dabei unveränderlich zeigen das wir seyn Eur. Königl. Majestät allerunterthänigste Knechte. Bracknitzer Holl., d. 22-ten May 1782”.
 

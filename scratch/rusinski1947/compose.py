@@ -326,6 +326,204 @@ BODY_FIXES2 = [
      'uiszczali ją olędrzy co 50 lat w wysokości 36 zł z huby'),
     ('w dobrach państwowych gr,', 'w dobrach państwowych 19 gr,'),
     ('wier gegeben Rechstaler', 'wier gegeben 18 Rechstaler'),
+    ('wyrosił zł z huby 30-morgowej', 'wyrosił 20 zł z huby 30-morgowej'),
+    ('immuhnitetam1', 'immunitetami'),
+]
+
+# ---- the body tables rebuilt from the editor's corrected grids
+# (tabele_body.xlsx, SPOT round 4): span replacements on the final
+# line list - lines from the start-anchor through the end-anchor are
+# replaced by the rebuilt table + note defs. Table-note refs wired
+# per the editor's print copy.
+TABLE_SPANS = [
+    ('TABELA I', 'pz', [
+        'TABELA I',
+        '',
+        'Ludność wiejska; w tym ludność olęderska:',
+        '',
+        '| Powiat | Ludność wiejska ogółem | '
+        'w tym ludność olęderska, w cyfrach absolutn. | procentowo |',
+        '| --- | --- | --- | --- |',
+        '| kościański | 105.000 | 14.987 | 14,3 |',
+        '| poznański | 93.500 | 13.637 | 14,6 |',
+        '| z wschowski | 10.900 | — | — |',
+        '| **Województwo poznańskie** (w granicach po I rozbiorze) '
+        '| **209.400** | **28.624** | **13,7** |',
+        '',
+    ]),
+    ('TABELA II', '4 Nauczycieli wiejskich,', [
+        'TABELA II',
+        '',
+        'Skład zawodowy ludności 94 osad pow. kościańskiego wg Tol.',
+        '',
+        '| Zawody | osoby trudniące się podanym zawodem, jako zaw. '
+        'głównym | ubocznie | % zatrudnionych (jako zaw. głównym) | '
+        '% w obrębie grupy |',
+        '| --- | --- | --- | --- | --- |',
+        '| I. Rolnictwo | 12.643 | 162 | 97,5 | 100,0 |',
+        '| a. gospodarze ol. | 8.805 | — | | 69,6 |',
+        '| b. komornicy | 1.542 | 122 | | 12,2 |',
+        '| c. czeladź | 1.513 | — | | 12,0 |',
+        '| d. luźni za robotą | 491 | — | | 3,9 |',
+        '| e. żebracy | 292 | — | | 2,3 |',
+        '| 2. Karczmarze[^61-1] | 155 | 156 (?) | 1,2 | |',
+        '| 3. Młynarze[^61-2] | 14 | 42 | 0,1 | |',
+        '| 4. Rzemiosło | 142 | — | 1,1 | |',
+        '| 5. Hutnictwo[^61-3] | 7 | — | 0,1 | |',
+        '| 6. Szkolni[^61-4] | 6 | 140 (?) | 0,0 | |',
+        '| **Razem** | **12.967** | **500** | **100,0** | |',
+        '',
+        'łecznym decydował przede wszystkim stopień gospodarczej '
+        'samodzielności danej jednostki. Z tego punktu widzenia '
+        'możemy w obrębie każdego stanu przeprowadzić przekrój '
+        'społeczny w ten sposób, że do war—',
+        '',
+        '[^61-1]: Że karczmarzy było więcej, niż wykazuje ich Tol., '
+        'można wywnioskować z ilości dymów podanych dla karczem w '
+        'Tol. 89. Nie ulega wątpliwości, że dla wszystkich '
+        'karczmarzy podstawą utrzymania były gospodarstwa rolne '
+        '(częstokroć zwolnione od czynszów). Część karczmarzy w '
+        'Tol. podana została zapewne w rubryce „gospodarze”. '
+        'Oszacowaliśmy ich, mnożąc nadwyżkę dymów karczmarskich w '
+        'Tol. 89 przez współczynnik 5, wyrażający liczbę osób '
+        'przypadających na rodzinę karczmarską według tab. III.',
+        '[^61-2]: Ogółem w osadach znajdował się 1 młyn wodny i 8 '
+        'wietrznych (wiatraków). Młyn wodny znajdujący się w '
+        'Sroczewskich Ol. istniał już przed lokacją olędrów. W Tol. '
+        'podane są tylko rodziny 2 młynarzy. Rodziny pozostałych '
+        'właścicieli młynów w liczbie 7, podanych w Tol. 89, '
+        'oszacowaliśmy licząc 6 osób na dym młynarski na 42 osoby. '
+        'Niewątpliwie ich głównym zawodem było rolnictwo.',
+        '[^61-3]: Osoby zaliczone do tej grupy stanowią obsługę '
+        'hamru znajdującego się w Ol. Borujskich. Hamer ten istniał '
+        'już przed lokacją olędrów; nie był on objęty przywilejem '
+        'lokacyjnym. Przypuszczać jednak można, że jego pracownicy '
+        'składali się z mieszkańców osady. Źródłowych wiadomości '
+        'tutaj brak.',
+        '[^61-4]: Nauczycieli wiejskich, jak można wnioskować z '
+        'różnych przygodnych wzmianek, musiało być więcej niż 1 '
+        'rodzina wykazana w Tol. Mieszczą się oni zapewne w '
+        'rubrykach: „gospodarze”, „komornicy”, i „rzemieślnicy”. '
+        'Podana w przedziałce „zajęci ubocznie w danym zawodzie” '
+        'cyfra osób należących do rodzin nauczycieli obliczona '
+        'została szacunkowo na podstawie wyników tabeli III. Na 94 '
+        'osady powiatu kościańskiego wypadło proporcjonalnie 36 '
+        'nauczycieli (łącznie z lektorami — por. tab. III), z czego '
+        '1 został już uwzględniony, reszta zaś, licząc 4 osoby na '
+        'nauczyciela wzgl. lektora z rodziną, uczyniła w sumie 140 '
+        'dusz.',
+    ]),
+    ('TABELA III', '3 ] nauczyciel,', [
+        'TABELA III',
+        '',
+        'Skład zawodowy ludności 36 osad olęderskich powiatu '
+        'poznańskiego (zawodowo czynni i bierni)',
+        '',
+        '| Kategorie zawodów | 28 wsi klasyfikowanych w r. 1773: '
+        'rodzin | osób (zawód główny) | osób (zawód uboczny) | '
+        '8 wsi maj. sierakowskiej: rodzin | osób (zawód główny) | '
+        'osób (zawód uboczny) | Razem: rodzin | osób (zawód główny) '
+        '| osób (zawód uboczny) |',
+        '| --- | --- | --- | --- | --- | --- | --- | --- | --- | '
+        '--- |',
+        '| I. Rolnictwo | 653 | 3262 | 60[^62-2] | 100 | 601 | '
+        '13[^62-2] | 753 | 3863 | 73 |',
+        '| a. gospodarze ol. | 418 | 2434 | — | 85 | 454 | — | 503 '
+        '| 2888 | — |',
+        '| b. chałupnicy[^62-1] | 37 | 125 | — | — | — | — | 37 | '
+        '125 | — |',
+        '| c. komornicy | 198 | 429 | — | 15 | 40 | — | 213 | 469 '
+        '| — |',
+        '| d. czeladź | — | 274 | — | — | 107 | — | — | 381 | — |',
+        '| 2. Hodowla (pasterze) | 31 | 92 | — | 11 | 39 | — | 32 '
+        '| 131 | — |',
+        '| 3. Karczmarze | 10 | 54 | — | 4 | 13 | — | 14 | 67 | '
+        '— |',
+        '| 4. Młynarze | 1 | 6 | — | — | — | — | 1 | 6 | — |',
+        '| 5. Rzemiosło | 23 | 86 | — | 2 | 9 | — | 25 | 95 | — |',
+        '| a. kowale | 15 | 52 | — | — | — | — | 15 | 52 | — |',
+        '| b. kołodzieje | 1 | 5 | — | — | — | — | 1 | 5 | — |',
+        '| c. sukiennicy | 1 | 6 | — | — | — | — | 1 | 6 | — |',
+        '| d. półciennicy | 1 | 1 | — | — | — | — | 1 | 1 | — |',
+        '| e. krawcy | 4 | 19 | — | 1 | 4 | — | 5 | 23 | — |',
+        '| f. szewcy | 1 | 3 | — | 1 | 5 | — | 2 | 8 | — |',
+        '| 6. Przem. leśny (smolarze) | 1 | 4 | — | — | — | — | 1 '
+        '| 4 | — |',
+        '| 7. Ośw. i kult. rel. (nauczyciele, lektorzy) | 8 | 28 | '
+        '1 | 5[^62-3] | 10 | — | 13 | 38 | 1 |',
+        '| **Razem** | **717** | **3532** | **61** | **122** | '
+        '**672** | **13** | **839** | **4204** | **74** |',
+        '',
+        'stwy przodującej zaliczymy Jednostki gospodarczo '
+        'samodzielne, niższą społecznie kategorię będą tworzyły te '
+        'jednostki, które mając niedosta-',
+        '',
+        '[^62-1]: Źródło miesza chałupników z komornikami. Ściśle '
+        'warstw tych rozgraniczyć na podstawie danych akt '
+        'klasyfikacyjnych nie można; w tabeli za podstawę '
+        'rozgraniczenia przyjęto terminologię źródłową.',
+        '[^62-2]: Karczmarze i młynarze.',
+        '[^62-3]: 1 nauczyciel, 4 lektorów (Vorleser).',
+    ]),
+    ('TABELA IV', 'l Por. Rusiński', [
+        'TABELA IV',
+        '',
+        'Społeczne uwarstwienie ludności osad olęderskich',
+        '',
+        '| Kompleksy terytorialne | Liczba osad | gospod. samodz. '
+        '(osób) | pośrednich (osób) | niesamodz. (osób) | razem |',
+        '| --- | --- | --- | --- | --- | --- |',
+        '| **Cyfry absolutne** | | | | | |',
+        '| Pow. kościański | 94 | 8.974 | 149 | 3.844 | 12.967 |',
+        '| z powiatu poznańskiego: | | | | | |',
+        '| a. osady klasyfikowane w r. 1773 | 28 | 2.494 | 90 | 948 '
+        '| 3.532 |',
+        '| b. maj. sierakowska (r. 1759) | 8 | 467 | 9 | 196 | 672 '
+        '|',
+        '| **Ogółem** | **130** | **11.935** | **248** | **4.988** '
+        '| **17.171** |',
+        '| **Cyfry procentowe** | | | | | |',
+        '| Pow. kościański | — | 69,2 | 1,1 | 29,7 | 100,00 |',
+        '| a. osady klasyfikowane w r. 1773 | — | 70,7 | 2,5 | 26,8 '
+        '| 100,00 |',
+        '| b. maj. sierakowska (r. 1759) | — | 69,5 | 1,3 | 29,2 | '
+        '100,00 |',
+        '| **Ogółem** | — | **69,5** | **1,4** | **29,1** | '
+        '**100,00** |',
+        '',
+        'Z. braku cyfr porównawczych dla innych osad Wielkopolski '
+        'ograniczymy się do zestawienia otrzymanych tutaj wyników z '
+        'cyframi dotyczącymi uwarstwienia społecznego ludności '
+        'królewszczyzn pruskich[^64-1]. Struktura społeczno-zawodowa '
+        'tej ludności była pod wieloma względami analogiczna do '
+        'struktury ludności olęderskich osad powiatu kościańskiego '
+        'i poznańskiego.',
+        '',
+        '[^64-1]: Por. Rusiński Władysław, Uwarstwienie ludności '
+        'wiejskiej w królewszczyznach Prus Królewskich w drugiej '
+        'połowie XVII w. Roczniki dziejów społecznych i '
+        'gospodarczych, t. VI, r. 1937, s. 111.',
+    ]),
+    ('TABELA V', '|', [
+        'TABELA V',
+        '',
+        'Charakter gruntów, na których powstały osady olęderskie',
+        '',
+        '| Powiaty | Ogólna liczba osad zapisanych w źródłach | '
+        'osad powstałych na rolach gotowych (uprawnych) | osad '
+        'powstałych na rolach częścią zarosłych | osad powstałych '
+        'na rolach zarosłych (wytrzebionych przez olędrów) |',
+        '| --- | --- | --- | --- | --- |',
+        '| **w cyfrach absolutnych** | | | | |',
+        '| kościański | 44 | 20 | 3 | 21 |',
+        '| poznański | 78 | 17 | 3 | 58 |',
+        '| **Razem** | **122** | **37** | **6** | **79** |',
+        '| **procentowo** | | | | |',
+        '| kościański | — | 45,5 | 6,8 | 47,7 |',
+        '| poznański | — | 21,8 | 3,8 | 74,4 |',
+        '| **Razem** | — | **30,3** | **4,9** | **64,8** |',
+        '',
+    ]),
 ]
 
 
@@ -671,6 +869,80 @@ Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
         else:
             print('WARN body fix2 miss: %r' % old[:60])
     print('body amount fixes applied:', nfix2)
+    # ---- the p. 85 leaf repair (SPOT S50's deeper finding): the
+    # czynsz paragraph physically begins on print p. 85 (scan 0100,
+    # verified y1617-3210 + the printed folio on 0101 = 86) and the
+    # print breaks it mid-word after 'w zdewaluowanych'; our assembly
+    # leaked the whole paragraph into the p. 86 block. Also: the
+    # print's p. 85 note block has NINE notes - the OCR fused notes
+    # 3+4 and mis-numbered 5-8; the defs are re-split/renumbered and
+    # the refs re-wired to the print's numbers (marker 5 visible at
+    # 'w. XVII' in the scan).
+    tl = text.split('\n')
+    pi = next((i for i, ln in enumerate(tl)
+               if ln.startswith('Wśród czynszów pieniężnych')), None)
+    di = next((i for i, ln in enumerate(tl)
+               if ln.startswith('[^85-1]:')), None)
+    if pi is None or di is None:
+        print('WARN p85 repair anchors missing', pi, di)
+    else:
+        par = tl[pi]
+        k = par.find('złotówkach tynfowych;')
+        part1, part2 = par[:k].rstrip(), par[k:]
+        tl[pi] = part2                      # p. 86 keeps the tail
+        tl[di:di] = [part1, '']             # p. 85 gains the head
+        print('p85 leaf split applied (parts %d/%d chars)'
+              % (len(part1), len(part2)))
+    text = '\n'.join(tl)
+    nfix3 = 0
+    for old, new in (
+        # def splits/renumbers to the print's 9-note numbering
+        ('[^85-3]: Rel. Posn. nr 140, r. 1602, fol. 659 i Kl. XII 7. '
+         't Rel. Posn. nr 638, r. 1791, fol. 597.',
+         '[^85-3]: Rel. Posn. nr 140, r. 1602, fol. 659 i Kl. XII 7.\n'
+         '[^85-4]: Rel. Posn. nr 638, r. 1791, fol. 597.'),
+        ('[^85-4]: 36-zlotowy czynsz mamy',
+         '[^85-5]: 36-złotowy czynsz mamy'),
+        ('[^85-5]: AW. Dłuskic Stare Ol., A. 1.',
+         '[^85-8]: AW. Dłuskic Stare Ol., A. 1.'),
+        ('[^85-8]: AW. Tuchorskie Stare Ol., dep. A. 1 (r. 1703)',
+         '[^85-9]: AW. Tuchorskie Stare Ol., dep. A. 1 (r. 1703)'),
+        # ref re-wiring to the print's numbers
+        ('przez cały w. XVII[^85-4].', 'przez cały w. XVII[^85-5].'),
+        ('wynosił 36 zł z huby,', 'wynosił 36 zł z huby[^85-4],'),
+        ('(r. 1688)[^85-5] czynsz', '(r. 1688)[^85-8] czynsz'),
+        ('względnie 8—12 talarów[^85-8]—', 'względnie 8—12 talarów[^85-9]—'),
+        # the two-column word-order repair (raw y3000-3240)
+        ('a nawet 8 zł talar i wtedy wartość wyrosiła jak poprzednio '
+         '30—36. za — czynszu zł (srebrnych) 8, względnie 8—12 '
+         'talarów',
+         'a nawet 8 zł za talar, i wtedy wartość czynszu wyrosiła '
+         'jak poprzednio 30—36 zł (srebrnych), względnie 8—12 '
+         'talarów'),
+    ):
+        if old in text:
+            text = text.replace(old, new)
+            nfix3 += 1
+        else:
+            print('WARN p85 fix miss: %r' % old[:60])
+    print('p85 repair fixes applied:', nfix3)
+    # the corrected body tables (SPOT round 4): span replacements
+    tl = text.split('\n')
+    for start_a, end_a, repl in TABLE_SPANS:
+        si = next((i for i, ln in enumerate(tl)
+                   if ln.startswith(start_a)), None)
+        if si is None:
+            print('WARN table span start miss:', start_a)
+            continue
+        ei = next((i for i in range(si, len(tl))
+                   if tl[i].startswith(end_a)), None)
+        if ei is None:
+            print('WARN table span end miss:', end_a)
+            continue
+        tl[si:ei + 1] = repl
+        print('table span %s: lines %d-%d -> %d' % (start_a, si, ei,
+                                                    len(repl)))
+    text = '\n'.join(tl)
     with open(OUT, 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(text)
     print('written', os.path.abspath(OUT), len(text), 'chars')

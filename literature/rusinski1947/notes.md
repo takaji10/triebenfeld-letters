@@ -867,6 +867,52 @@ r2 zrodlo, r5 char; 0159 r10 rok.
   editor's offered rows.
 - S35 ok: 0159 r10 rok -> `—`.
 
+## SPOT ANSWERS round 4: the body tables + the p. 85 leaf repair
+
+- tabele_body.xlsx corrected by the editor; all five body tables
+  (TABELA I-V) rebuilt in the transcription as proper Markdown
+  tables (TABLE_SPANS span-replacer in compose.py). Key corrections:
+  TABELA I wschowski = dashes; TABELA II restructured (%-columns) +
+  table-note refs wired (Karczmarze[^61-1], Mlynarze[^61-2],
+  Hutnictwo[^61-3], Szkolni[^61-4]); TABELA III = the editor's FULL
+  reconstruction (28 wsi 1773 / 8 wsi sierakowska / Razem blocks,
+  the chałupnicy/komornicy/czeladź + Hodowla + Rzemiosło sub-rows)
+  with refs wired (chałupnicy[^62-1]; the uboczne 60/13 = [^62-2];
+  the sierakowska 5 = [^62-3]); TABELA IV confirmed; TABELA V
+  headers per the print (gotowe/czescia zarosle/zarosle).
+- The table-note defs RECOVERED from the two-column OCR scramble
+  (note_recon.py): [^61-1] (karczmarze estimate - was missing
+  entirely!), [^61-2] (mlyny), [^61-3] (hamer), [^61-4]
+  (nauczyciele/140 dusz), [^62-1..3]. [^64-1] (Rusinski
+  królewszczyzny) wired at 'królewszczyzn pruskich'.
+- S50 RESOLVED: 'wyrosił 20 zł' AND the sentence is on print 85 -
+  which exposed a REAL defect: the czynsz paragraph physically
+  begins on scan 0100 (p. 85, y1617-3210) but our assembly had
+  leaked the whole paragraph into the p. 86 block. The print breaks
+  it mid-word after 'w zdewaluowanych' (p. 86 opens 'złotówkach
+  tynfowych;'). REPAIRED: the leaf-split restored (p. 85 = head
+  through 'w zdewaluowanych' + defs; p. 86 = tail). The refs split
+  exactly at the leaf ([^85-2..8] head / [^86-1..4] tail) - the
+  print's per-page numbering confirmed.
+- BONUS find: the print's p. 85 note block has NINE notes; the OCR
+  had fused notes 3+4 and mis-numbered 5-8 (the '9' visible in the
+  note margin). Defs re-split/renumbered (85-4 = Rel. Posn. 638 =
+  Róża; 85-5 = 36-złoty; 85-8 = Dłuskie; 85-9 = the talar-list) and
+  refs re-wired (w. XVII[^85-5] - the marker 5 is VISIBLE in the
+  scan at y2250; 36 zł z huby[^85-4]; (r. 1688)[^85-8];
+  talarów[^85-9]-). The garbled '30—36. za - czynszu' word order
+  repaired from the raw (y3000-3240): '8 zł za talar, i wtedy
+  wartość czynszu wyrosiła jak poprzednio 30—36 zł (srebrnych),
+  względnie 8—12 talarów'.
+- Folio map (folio_map.py): the printed folios match our page
+  labels on ALL body pages (0016-0137) and all annex bands - NO
+  global drift; the p. 85/86 case was a local assembly leak, now
+  fixed. (The 7->1 OCR ties at folios 70-78 resolved by context.)
+- 'immuhnitetam1' -> 'immunitetami' (p. 97).
+- verify_round2's S06 checks updated to the new table format.
+- Final footnote state: 692 refs / 686 defs, zero orphans, zero
+  unwired; mismatches = the 5 legitimate ditto refs.
+
 ## The footnote-marker audit (SPOT round 2 prep)
 
 Three scanners built: sup_scan.py (letter+digit remnants in prose),

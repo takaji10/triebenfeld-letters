@@ -15,12 +15,12 @@ def check(name, cond, detail=''):
         ok = False
 
 
-check('S06 absolute row', 'kościański 44 20 3 21' in t)
-check('S06 poznański row', 'poznański 78 17 3 58' in t)
-check('S06 razem row', 'Razem 122 37 6 79' in t)
-check('S06 percent 47,7', 'kościański 45,5 6,8 47,7' in t)
-check('S06 percent poznański', 'poznański 21,8 3,8 74,4' in t)
-check('S06 razem percent', 'Razem — 30,3 4,9 64,8' in t)
+check('S06 absolute row', '| kościański | 44 | 20 | 3 | 21 |' in t)
+check('S06 poznański row', '| poznański | 78 | 17 | 3 | 58 |' in t)
+check('S06 razem row', '| **Razem** | **122** | **37** | **6** | **79** |' in t)
+check('S06 percent 47,7', '| kościański | — | 45,5 | 6,8 | 47,7 |' in t)
+check('S06 percent poznański', '| poznański | — | 21,8 | 3,8 | 74,4 |' in t)
+check('S06 razem percent', '| **Razem** | — | **30,3** | **4,9** | **64,8** |' in t)
 check('S06 no false table markers', '[^66-1] 20' not in t)
 check('S19 quote starts', '„Nachdem Ihro Majestät aus besonderer '
       'Gnadenbezeigung' in t)
