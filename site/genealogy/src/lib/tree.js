@@ -226,8 +226,11 @@ export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
       focusCY = py + CARD_H / 2
     }
     if (data.spouses?.length) {
-      splices.push([blockLeft + CARD_W, py + CARD_H / 2,
-                    blockLeft + CELL, py + CARD_H / 2])
+      // the marriage line: origin-anchored (its left end) so the
+      // component can animate it with the cards - it is always
+      // GAP_X long, drawn at translate(x, y)
+      splices.push({ x: blockLeft + CARD_W, y: py + CARD_H / 2,
+                     id: data.id })
     }
     grow(blockLeft, blockLeft + w * CELL)
     if (py < minY) minY = py

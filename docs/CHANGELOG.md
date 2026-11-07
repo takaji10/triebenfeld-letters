@@ -5426,6 +5426,30 @@ footer on every page. Changed, in both languages:
   with the project baseurl and with none; verified with a headless
   Edge screenshot of I0272's default view fitting one frame.
 
+## 2026-11-07: the badge click keeps the view; the tree moves slowly
+
+- **Expanding or closing a branch no longer moves the viewport** (the
+  editor, panned away from the key person, a badge click kept snapping
+  the view back): the centring effect had watched the expansion state
+  among its keys, so every toggle re-ran the centring. It now watches
+  only the focus and the mode - the pan and zoom stay exactly where
+  the reader left them; the branch grows or shrinks around the current
+  view. (Opening a detail panel still centres on the card - that is a
+  deliberate act, not a layout change.)
+- **The tree moves in plain sight**: the cards, the marriage lines,
+  the links and the open detail panel glide to their new places over
+  half a second (CSS transitions on the transform) instead of
+  teleporting. The DOM nodes are now keyed by the person (a row letter
+  distinguishing the hourglass halves), so a card keeps its element
+  across a re-layout and the browser can interpolate; the marriage
+  lines became origin-anchored groups (they are always one gap long)
+  so they animate the same way; the link paths morph through the CSS
+  d property where the browser supports it, standing on their
+  attribute where it does not.
+- jekyll and verify_site ALL CHECKS PASSED with the project baseurl
+  and with none; the layout battery passes; the rendered chart
+  verified unchanged with a headless Edge screenshot.
+
 ## 2026-11-06: the way home in the explorer's navbar
 
 - The navbar carries a "← Traces in the Sand" link after the app's own

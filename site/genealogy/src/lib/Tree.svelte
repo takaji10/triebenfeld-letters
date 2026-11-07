@@ -131,15 +131,19 @@
     }
   }
 
-  let lastKey = ''
+  let lastNavKey = ''
   let lastFocus = ''
   $effect(() => {
-    const key = (focusId || '') + '/' + effMode + '/' + (expandedId || '')
-    if (chart && el && key !== lastKey) {
+    // only a change of focus or mode recentres the view - opening or
+    // closing a branch must not touch the pan at all (the editor,
+    // 2026-11-07: panned away from the key person, a badge click kept
+    // snapping the view back)
+    const navKey = (focusId || '') + '/' + effMode
+    if (chart && el && navKey !== lastNavKey) {
       // a new focus starts with every branch closed
       if (focusId !== lastFocus) expandedId = null
       lastFocus = focusId
-      lastKey = key
+      lastNavKey = navKey
       center()
       // a frame with no layout yet (the data arrived before the CSS
       // had sized the viewport) silently skipped the centring and left
@@ -353,20 +357,33 @@
             </g>
           {/snippet}
           {#each chart.links as d}
-            <path d={d} fill="none" stroke="var(--rule)" stroke-width="1.5" />
-          {/each}
-          {#each chart.splices as [x1, y1, x2, y2]}
-            <line x1={x1} y1={y1} x2={x2} y2={y2}
+            <!-- d carries both the attribute and the CSS property: the
+                 property transitions where the browser supports it
+                 (Chrome, Edge, Firefox), the attribute stands where it
+                 does not - the links morph instead of snapping -->
+            <path d={d} style:d={`path("${d}")`} fill="none"
                   stroke="var(--rule)" stroke-width="1.5" />
           {/each}
-          {#each chart.nodes as n (n.id + '@' + n.y)}
+          {#each chart.splices as s (s.id + (s.y < 0 ? '@u' : '@d'))}
+            <g style:transform={`translate(${s.x}px, ${s.y}px)`}
+               class="spl">
+              <line x2={CELL - CARD_W} stroke="var(--rule)"
+                    stroke-width="1.5" />
+            </g>
+          {/each}
+          {#each chart.nodes as n (n.id + (n.y < 0 ? '@u' : '@d'))}
             {@const v = db.index[n.id]}
             {@const avatar = v?.pt && db.meta?.media_base
               ? db.meta.media_base + v.pt : null}
+            <!-- keyed by the person (row letters distinguish the two
+                 hourglass halves), positioned by a transitioning
+                 transform: the cards glide to their new places when a
+                 branch opens, so the reader sees what moved (the
+                 editor, 2026-11-07) -->
             <g class="node" class:living={v?.L}
                data-pid={n.id}
                class:open={openCard === n.id}
-               transform="translate({n.x},{n.y})">
+               style:transform={`translate(${n.x}px, ${n.y}px)`}>
               <rect width={CARD_W} height={CARD_H} rx="4"
                     stroke={n.focus || openCard === n.id ? 'var(--accent)'
                       : v?.sx === 'F' ? '#9c5470'
@@ -491,8 +508,11 @@
       {@const px = isSpouse ? on.x + CELL : on.x}
       <!-- the expanded card, rendered inside the chart: it pans and
            zooms with everything else, the way the editor asked -->
-      <foreignObject x={px} y={on.y + CARD_H + 6} width="250" height="190"
-                     class="detailspace">
+      <!-- the expanded card, rendered inside the chart: it pans and
+           zooms with everything else, and glides with the cards when
+           the layout moves (the same transitioning transform) -->
+      <foreignObject width="250" height="190" class="detailspace"
+                     style:transform={`translate(${px}px, ${on.y + CARD_H + 6}px)`}>
         <div class="detail" xmlns="http://www.w3.org/1999/xhtml">
           <button class="dclose" onclick={() => { openCard = null }}
                   aria-label="close">×</button>
@@ -578,6 +598,15 @@
   .btxt { font-size: 9px; font-weight: 600; pointer-events: none; }
   .badge { cursor: pointer; }
   .node.living rect { stroke-dasharray: 3 2; }
+  /* the expansion animation: cards, marriage lines, links and the open
+     panel glide to their new places over half a second - the editor
+     asked to see what happens when a branch opens (2026-11-07). The
+     transforms are CSS properties (style:transform), which transition;
+     the link paths morph through the CSS d property where supported. */
+  .node { transition: transform .5s ease; }
+  .spl { transition: transform .5s ease; }
+  .detailspace { transition: transform .5s ease; }
+  path { transition: d .5s ease; }
   /* the chart SVG is the size of the whole layout, but the pan/zoom
      transform must be free to carry the cards anywhere in the frame -
      an SVG clips its children to its own box by default, which emptied

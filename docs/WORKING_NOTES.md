@@ -3520,6 +3520,15 @@ and the checks are recorded in docs/CHANGELOG.md (2026-11-06).
   everything" into "walking anywhere", which is what a reader actually
   does. The bounded resource (screen width) needs a bounded render,
   not a smaller font.
+- **Keep the reader's place unless they aimed somewhere.** A control
+  that modifies content (open a branch, close it) must not also move
+  the camera: the centring effect keyed on expansion state and snapped
+  the view back on every badge click. Separate "what is shown" from
+  "where it is shown" - navigation acts re-centre, content acts leave
+  the viewport alone. And when a re-layout moves many things at once,
+  let the DOM elements persist (key by identity, position by a
+  transitioning transform) so the change reads as movement instead of
+  a flash.
 
 
 
