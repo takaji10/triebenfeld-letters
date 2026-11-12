@@ -119,6 +119,20 @@ so check them.
 
 ## Where things stand (2026-11-01)
 
+- **The Trąmpczyński family's person pages** (branch `trampczynski-family`,
+  2026-11-12, **not published**): the editor's family line checked against
+  the boundary decree of 1775 (which recites the title deeds 1522-1698),
+  and person pages built in `reference/genealogy.yml` for Jan the elder,
+  Wojciech, Stanisław, Władysław and Jan Otto-Trąmpczyński, Jan na Kolno
+  Prusimski (the editor's form of his name) and Krzysztof Prusimski, with
+  the family entry's page listing its members. The Teki Dworzaczka regests
+  the editor supplied are a literature work (`tekidworzaczka`, one regest
+  per passage, new ones appended as c05...). Johann von Prusimski of the
+  Kolno mortgage certificate is very probably Jan na Kolno (Claude). Open:
+  NEEDS_CONFIRMATION, "The Trąmpczyński family and Jan na Kolno
+  Prusimski". Read `literature/tekidworzaczka/notes.md` and WORKING_NOTES,
+  "The Trąmpczyński family pages".
+
 - **AGAD 1/432/0/1/139, scans 128-130 - Pastor Erdmann's reports of 1882**
   (slug `agad14320139`, added 2026-11-11, **not published**): two German
   documents on burnt leaves of the Warsaw Evangelical-Augsburg consistory's

@@ -39,6 +39,77 @@ repository; they are on the working machine.
   (Burggericht, Landgericht, Krontribunal, Kondeszension, Erbpacht,
   Vorwerk, Hufe, Turmhaft, Olęder).**
 
+## The Trąmpczyński family and Jan na Kolno Prusimski (2026-11-12, branch `trampczynski-family`, not published)
+
+The person pages of the holders of Trąbczyn before 1698 and of the
+Prusimskis' coming (`reference/genealogy.yml`, from
+`jan-otto-trampczynski-elder` to `prusimski-krzysztof`), built at the
+editor's word from the boundary decree of 1775 (APP 53/17/0/-/Konin
+Gr.145), the decrees of 1589, 1644 and 1784, the citation of 1782, and the
+Teki Dworzaczka regests the editor supplied (`literature/tekidworzaczka`).
+What rests on Claude's reading rather than a document's statement:
+
+- **Johann von Prusimski = Jan na Kolno Prusimski.** The Kolno mortgage
+  certificate (Oe 1 Bü 14525, document 12) carries 1,500 złoty for the
+  parish church of Kamionna "ex Inscriptione des Johann von Prusimski" of
+  the Poznań castellany court, Monday after the Visitation 1673. Claude
+  takes him for Jan na Kolno Prusimski: the charge lies on Kolno, which
+  Jan held ("na Kolnie", "in Kolno"); Kolno passed from Jan to his son
+  Krzysztof by the brothers' divisions of 1700 and 1708 and on to Stefan
+  and Antoni (the decree of 1784; the certificate itself names Antoni
+  "sole male heir of his father Stephan"); the only other Jan of the line,
+  Krzysztof's son, was not born in 1673; Jan had a married daughter in
+  1692, so was of age in 1673. Not stated by any document. The page says
+  "very probably".
+- **Jan's father Krzysztof.** The decree of 1784 has Wierzbno and Brzezno
+  made over in 1676 "pro re olim Magnifici Joannis Prusimski olim
+  Christophori filii". Read as "Jan, son of the late Krzysztof", an elder
+  Krzysztof. The page shows it as a parent with the decree as source.
+- **Wawrzyniec as Jan the elder's son.** He is one of Wojciech's four
+  nephews and wards (1584-1593) and party to the division of 1591, but
+  not named in Szczęsna's settlement of 1596 with Rachwał, Walenty and
+  Stanisław.
+- **Wojciech of 1589 = the father of the Stanisław of 1614.** The decree
+  of 1775 does not say so; the regest of 1614 ("s. o. Wojc. Otha Tr.") and
+  the term of 1616 ("Stanisław od Wojciecha" among the heirs) make it
+  near-certain.
+- **"wyd." in the regest of 1642** read as wyderkaf (a redeemable sale);
+  not checked against the files' list of abbreviations. The page says
+  "most likely".
+- **Maria Otto-Trąmpczyńska, wife of Maciej Debrzyński**, is Minakowska's
+  alone. The documents have Debrzyński only as the man to whom Stanisław
+  made over the estate in 1642 and a "possessor" beside the family in
+  1644. Shown, with Minakowska as the source.
+- **Krzysztof's daughters** Marianna (Tomicka, then Zakrzewska), Wiktoria
+  (Wysocka, then Tworowicz) and Konstancja (Kowalska): the citation of
+  1782 cites their heirs over the succession of the brothers who died
+  childless and invokes the law against daughters dowered by their
+  father; the decree of 1784 speaks of "the last sister". Read as his
+  daughters.
+- **Anna Bojanowska's second husband** is not named. The decree of 1784
+  has "Paweł Goliński" inscribing to "Anna de Bojanowska, his mother" and
+  her passing it to "Apollonia de Golinska ... her own daughter", among
+  the charges on the Golińska inheritance of Krzysztof Prusimski's sons.
+  Teresa Golińska, Krzysztof's wife, was the daughter of Jan Łoś Goliński
+  and Konstancja Krusińska (the same decree), not of Anna.
+- **Not yet in the edition, so not shown** (the editor's tree has them):
+  Ludwika Hozjusz as wife of the younger Władysław (Minakowska 7.885.60);
+  Mikołaj Trąmpczyński (dw.36103) as son of Jan and Teresa, and his
+  marriage to Zofia Bratkowska in 1730 (dw.36080). The edition has
+  Mikołaj only as lessee of Prusinowo from the Prusimskis by a contract
+  of 10 October 1726 (the decree of 1784, p. 165). The regests, if
+  supplied, go into `literature/tekidworzaczka` as c05 onward.
+- **The Teki Dworzaczka work itself**: the imprint (the years of the
+  printed and electronic editions) and the address of the online edition
+  to cite; the host did not answer from the session. Shown in full on the
+  site (four regests, abbreviated abstracts); the editor's word on the
+  rights is wanted before publishing.
+- **The 1522 division** among the brothers Wojciech, Mikołaj and
+  Stanisław Trąmpczyński, heirs of the whole estate (the decree of 1775),
+  and Mikołaj Trąmpczyński, heir of a part of Szetlew in 1589: no page.
+  Whether they are of Jan's and Wojciech's parents' generation is not
+  stated.
+
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
@@ -968,14 +1039,15 @@ read, translate and summarise.
     7,000-zł dowry of Anna Słonecka at her wedding. The register (the
     Pyzdry court books) is not one the edition holds; whether to seek it
     is the editor's.
-  - **The descent against the decree of 1644.** The page's grandchildren
-    (Władysław, Andrzej, Anna, a second Władysław, the second Wojciech)
-    are of the generation of the decree's brothers (the sons of the late
-    Stanisław, with the widow Anna of Słończyce), and the database's
-    Stanisław's wife is Anna Słonecka of Słończyce: the database's
-    Stanisław is the decree's late father. Nothing in the edition's texts
-    is built on it; the person's page carries it with the work as its
-    source.
+  - **The descent against the decree of 1644** (corrected 2026-11-12). The
+    page's grandchildren of Wojciech, Stanisław's children, are Władysław,
+    the second Wojciech and Maria; of these Władysław and Wojciech are
+    two of the decree's four brothers (the sons of the late Stanisław,
+    with the widow Anna of Słończyce). Andrzej, Anna and the second
+    Władysław are a generation further down, Władysław's children. The
+    note written on 2026-10-22 put all of them in the brothers'
+    generation; the person pages now follow the documents (below, "The
+    Trąmpczyński family and Jan na Kolno Prusimski").
   - **The sitting of the relatio of 1727** (APP 53/4/0/-/62, added
     2026-10-26). The entry at the foot of page 222 has no date of its own -
     only "Feria Quinta proxima praeterita", the Thursday next past - and is

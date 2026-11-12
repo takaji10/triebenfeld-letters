@@ -753,7 +753,16 @@ people:
     display: "Antoni Prusimski, Starost of Niszczewice"
     render: "Antoni Prusimski"
     # "Johann von Prusimski", whose inscription of 1673 charges an annuity on
-    # Kolno (14525), is a different and earlier man, and is not matched.
+    # Kolno (14525), is a different and earlier man, and is not matched:
+    # very probably Jan na Kolno Prusimski, the Starost's great-grandfather
+    # (Claude's identification, 2026-11-12; NEEDS_CONFIRMATION, "The
+    # Trąmpczyński family and Jan na Kolno Prusimski").
+    # The buyer of Trąbczyn from Anna Bojanowska and her sons in 1698 (the
+    # decree of 1775, APP 53/17/0/-/Konin Gr.145: "Janem na Kolnie
+    # Prusimskim") is written "Jan na Kolno Prusimski" in the edition's
+    # prose (the editor, 2026-11-12); the transcriptions and the regests
+    # keep their own forms. He is a standalone person page
+    # (reference/genealogy.yml, `jan-prusimski-kolno`), not an entry.
     # The summons of 1860 (APP 53/968/0/-/783) prints the family "Prusiński":
     # "Antoniego Prusińskiego Starosty", "Antoniemu Prusińskiemu".
     # Pachoński (1973), note 10, has "Antoni Prusiński de Nieszczewice" (the literature index).

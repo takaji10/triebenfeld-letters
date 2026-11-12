@@ -5925,3 +5925,44 @@ under a page's text with proposed wording for lost stretches, grade A or B
 only, never in the transcription, translation or summaries. Also fixed: the
 Sources page icons were empty SVGs (`include.kind` in `site/_includes/
 sources-icon.html`).
+
+## 2026-11-12 - the Trąmpczyński family's person pages and the Teki Dworzaczka (branch `trampczynski-family`, not published)
+
+- **The editor's family line checked against the documents** (the
+  boundary decree of 1775 recites the title deeds 1522-1698): Jan the
+  elder and Wojciech are brothers (Wojciech the "stryj" and guardian of
+  Jan's sons, 1584-1593); the Jan who married Teresa Prusimska in 1692 is
+  Władysław's son, the Jan of the partition of 1693 and the sale of 1698,
+  not a grandson; Władysław died before 6 October 1693; his marriage to
+  Anna Bojanowska is "by 1663".
+- **Literature work `tekidworzaczka`** (Teki Dworzaczka): four regests,
+  1614, 1642, 1663, 1692 - three supplied by the editor, one quoted on
+  Minakowska's page - each a passage (c01-c04), cited fact by fact.
+  Index ruled (Trąmpczyńskiego, Trąmpczyn, Nowawieś).
+- **Person pages** (`reference/genealogy.yml`): Jan the elder, Wojciech
+  (rewritten), Stanisław, Władysław, Jan, Jan na Kolno Prusimski
+  (standalone), Krzysztof Prusimski (on his entry), and the family entry
+  `trampczynski` with a list of its members who have pages. Layout: a
+  parent or spouse can link to their page (`link:`), a family page lists
+  `members:`; a stale `linked` value in the children list fixed.
+- **Johann von Prusimski** (the Kolno mortgage certificate, inscription of
+  1673) identified as very probably Jan na Kolno Prusimski (Claude,
+  NEEDS_CONFIRMATION).
+- **Corrected**: Minakowska's 1614 regest misread in the work's notes
+  (Anna Słonecka's father is Jan Słonecki; her grandfather Stanisław
+  Chwalibowski, pantler of Kalisz); the descent's generations in the
+  notes, NEEDS_CONFIRMATION and Wojciech's bio.
+- **verify_site.py**: the life-line check skips standalone blocks (they
+  have no entry on /people/).
+- The literature dataset of `nmpol` rebuilt: its source had changed on
+  2026-11-06 (the locator shift) without the passages being regenerated.
+- The editor's ruling: "Jan na Kolno Prusimski" in the edition's prose
+  (reference/people.yml, the `prusimski` entry's comment).
+- **The header's Sources is a dropdown** (the editor's word): All sources,
+  Archival material, Newspapers, Literature, Maps, in both languages
+  (`site/_layouts/default.html`, `site/assets/nav.js`, styles in
+  `site/assets/style.css`, `sources_nav_all` in i18n). A `<details>`, so it
+  works without script; the script closes it on an outside click or Escape.
+  Checked on desktop and phone width.
+- **Plan for a second family tree**, the owners of Trąbczyn, in the Zelmer
+  explorer's format: `docs/ESTATE_TREE_PLAN.md` (nothing built).

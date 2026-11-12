@@ -33,9 +33,32 @@
     <a data-i18n="nav_timeline" data-href-en="{{ '/timeline/' | relative_url }}"
        data-href-de="{{ '/de/zeitleiste/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/zeitleiste/' | relative_url }}{% else %}{{ '/timeline/' | relative_url }}{% endif %}">{{ t.nav.timeline }}</a>
-    <a data-i18n="nav_sources" data-href-en="{{ '/sources/' | relative_url }}"
-       data-href-de="{{ '/de/quellen/' | relative_url }}"
-       href="{% if lang == 'de' %}{{ '/de/quellen/' | relative_url }}{% else %}{{ '/sources/' | relative_url }}{% endif %}">{{ t.nav.sources }}</a>
+    {% comment %}
+      Sources is a menu of its kinds (the editor, 2026-11-12): the overview,
+      then the four kinds the overview page describes. A <details> opens
+      and closes without script; assets/nav.js closes it on a click
+      elsewhere or Escape.
+    {% endcomment %}
+    <details class="nav-drop">
+      <summary data-i18n="nav_sources">{{ t.nav.sources }}</summary>
+      <div class="nav-drop-menu">
+        <a data-i18n="sources_nav_all" data-href-en="{{ '/sources/' | relative_url }}"
+           data-href-de="{{ '/de/quellen/' | relative_url }}"
+           href="{% if lang == 'de' %}{{ '/de/quellen/' | relative_url }}{% else %}{{ '/sources/' | relative_url }}{% endif %}">{{ t.sources_nav_all }}</a>
+        <a data-i18n="sources_arch_h2" data-href-en="{{ '/sources/archive/' | relative_url }}"
+           data-href-de="{{ '/de/quellen/archiv/' | relative_url }}"
+           href="{% if lang == 'de' %}{{ '/de/quellen/archiv/' | relative_url }}{% else %}{{ '/sources/archive/' | relative_url }}{% endif %}">{{ t.sources_arch_h2 }}</a>
+        <a data-i18n="sources_np_h2" data-href-en="{{ '/newspapers/' | relative_url }}"
+           data-href-de="{{ '/de/zeitungen/' | relative_url }}"
+           href="{% if lang == 'de' %}{{ '/de/zeitungen/' | relative_url }}{% else %}{{ '/newspapers/' | relative_url }}{% endif %}">{{ t.sources_np_h2 }}</a>
+        <a data-i18n="sources_lit_h2" data-href-en="{{ '/literature/' | relative_url }}"
+           data-href-de="{{ '/de/literatur/' | relative_url }}"
+           href="{% if lang == 'de' %}{{ '/de/literatur/' | relative_url }}{% else %}{{ '/literature/' | relative_url }}{% endif %}">{{ t.sources_lit_h2 }}</a>
+        <a data-i18n="sources_maps_h2" data-href-en="{{ '/maps/' | relative_url }}"
+           data-href-de="{{ '/de/karten/' | relative_url }}"
+           href="{% if lang == 'de' %}{{ '/de/karten/' | relative_url }}{% else %}{{ '/maps/' | relative_url }}{% endif %}">{{ t.sources_maps_h2 }}</a>
+      </div>
+    </details>
     <a data-i18n="nav_people" data-href-en="{{ '/people/' | relative_url }}"
        data-href-de="{{ '/de/personen/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/personen/' | relative_url }}{% else %}{{ '/people/' | relative_url }}{% endif %}">{{ t.nav.people }}</a>
@@ -88,5 +111,6 @@
 </footer>
 
 <script src="{{ '/assets/i18n.js' | relative_url }}"></script>
+<script src="{{ '/assets/nav.js' | relative_url }}"></script>
 </body>
 </html>

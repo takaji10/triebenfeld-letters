@@ -3801,3 +3801,37 @@ styling**, and in any include use `include.<name>` for every parameter.
   re-apply it after every corpus change, then `build_db.py`.
 - **A layer the editor rules off the site stays as data** behind a unit flag
   (`show_supplied`), not deleted: the plan and `supplied.yml` remain.
+
+## The Trąmpczyński family pages (2026-11-12)
+
+- **The boundary decree of 1775 (APP 53/17/0/-/Konin Gr.145) is the
+  family's deed chest.** Its Polish recites the Trąmpczyński partitions,
+  decrees and sales from 1522 to 1698 with the kinship words that decide
+  a tree: "stryj" (father's brother) and "synowcy" (brother's sons),
+  "bracia między sobą rodzeni" (full brothers), "pozostała małżonka"
+  (widow). Search its corpus for "Trąpczy" (the decree's spelling, without
+  the m), not "Trąmpczy". The Poznań decree of 1784 (APP 53/20/0/-/Poznań
+  Gr.1181) does the same for the Prusimskis of Kolno and the Golińska
+  inheritance.
+- **A regest is cited as a literature work** (`literature/tekidworzaczka`),
+  one regest per passage cut at an edition-made heading ("# Nr. 1420
+  (1642)"), so a person page can cite it like any passage; a further
+  regest goes at the end (c05...) so the keys already cited stay put.
+  `reference/sources/` is for the glossary's sources; person pages
+  resolve only "work/passage", a document uid, or "editor".
+- **In the Teki Dworzaczka, "s. o." is not "the late"**: the same regests
+  write "ol." for that. Infer no death from "s. o.".
+- **A regest's "ż." dates a settlement, not a wedding**: "Anna Bojanowska
+  ... ż. Władysława" in 1663 means she was already his wife.
+- **Check a tree's generations against the dates before anything else**:
+  the editor's draft had a man marrying in 1692 as the grandson of a man
+  married by 1663 - the same Jan entered twice.
+- **A standalone person page is linked from nowhere by itself.** The
+  People page links an entry's page, not a standalone one; give the
+  family entry a block with `members:` so its page lists them.
+- **verify_site.py's life-line check** compares a block's `life` with the
+  entry on /people/; a standalone block has none, so it is skipped.
+- **The dataset can lag its source**: `build_literature.py` rewrote
+  `dataset/literature/nmpol/` because `literature/nmpol` had been changed
+  (2026-11-06) without a rebuild. Rebuild after any change to a work's
+  original.md or english.md.

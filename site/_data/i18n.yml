@@ -321,6 +321,7 @@ en:
   sources_kind_items: items
   sources_kind_works: works
   sources_kind_maps: maps
+  sources_nav_all: All sources
   sources_arch_h2: Archival material
   sources_arch_go: Browse the holdings
   sources_np_h2: Newspapers
@@ -426,6 +427,7 @@ en:
   gen_parents: Parents
   gen_marriages: Marriage
   gen_children: Children
+  gen_members: Members of the family with a page
   gen_notes: The sources of the database's page
   gen_documents: Documents that name them
   gen_person_page: Their page
@@ -741,6 +743,7 @@ de:
   sources_kind_items: Artikel
   sources_kind_works: Werke
   sources_kind_maps: Karten
+  sources_nav_all: Alle Quellen
   sources_arch_h2: Archivalien
   sources_arch_go: Die Bestände ansehen
   sources_np_h2: Zeitungen
@@ -846,6 +849,7 @@ de:
   gen_parents: Eltern
   gen_marriages: Ehe
   gen_children: Kinder
+  gen_members: Angehörige der Familie mit eigener Seite
   gen_notes: Die Quellen der Seite der Datenbank
   gen_documents: Dokumente, die sie nennen
   gen_person_page: Ihre Seite

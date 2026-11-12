@@ -385,7 +385,10 @@ def main():
                 if 'class="bio"' not in built:
                     fail(f'person page: {base}/{slug}/ shows no biography')
             # the life-line, where the block gives one, is the person's
-            # entry's on /people/
+            # entry's on /people/ - a standalone block has no entry there
+            # (its life-line is its own, shown on its page alone)
+            if block.get('standalone'):
+                continue
             for lang, base, life_key in (('en', 'people', 'life'),
                                          ('de', os.path.join('de', 'personen'), 'life_de')):
                 if not block.get(life_key):

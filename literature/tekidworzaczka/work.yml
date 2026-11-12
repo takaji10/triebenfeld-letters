@@ -1,0 +1,58 @@
+# One work of the literature (docs/LITERATURE_PLAN.md, section 34): the
+# regests of the Teki Dworzaczka that bear on the Trąbczyn estate, as the
+# editor supplied them in chat on 2026-11-12 (three), and the one the
+# Minakowska page sw.35437 quotes in its Uwagi (1614). original.md is the
+# regests as supplied, one passage each, under a heading of the edition's
+# own (the regest's number and year); english.md is Claude's. No page
+# marks: the work is cut at its headings, c01 to c04, in the order of
+# the years. A further regest is added the same way, at the end, and
+# keeps the keys of the ones before it. See notes.md.
+slug: tekidworzaczka
+visible: true
+kind: reference
+title: "Teki Dworzaczka. Materiały historyczno-genealogiczne do dziejów szlachty wielkopolskiej XV–XX wieku"
+title_en: "The Dworzaczek files: historical and genealogical materials for the history of the nobility of Greater Poland, 15th–20th centuries"
+cite: "Teki Dworzaczka"
+author: "Włodzimierz Dworzaczek"
+author_sort: "Dworzaczek, Włodzimierz"
+published: "Biblioteka Kórnicka PAN, the online edition: the regests of the castellany and land court books of Pyzdry and Poznań named here, as consulted in 2026"
+published_card: "Biblioteka Kórnicka PAN, online edition; four regests"
+year: 2026
+language: pl
+english_by: Claude
+pages:
+  # no page marks: cut at each heading, one regest a passage
+  chapter: '^# '
+account_en: >-
+  Włodzimierz Dworzaczek's files are a card index of short abstracts
+  (regests) of the court books of Greater Poland, made for the genealogy of
+  its nobility and published by the Kórnik Library. Each regest gives the
+  date, the parties, the transaction and the leaf of the court book, in a
+  heavily abbreviated Polish. These four concern the Trąmpczyński family,
+  who held Trąbczyn until 1698: Stanisław's promise of a dowry to his bride
+  Anna Słonecka (1614), his conveyance of Trąbczyn, Nowa Wieś, Łazy and
+  Osiny to Maciej Debrzyński (1642), the dowry of Władysław Trąmpczyński's
+  wife Anna Bojanowska (1663), and the dowry of their son Jan's wife Teresa
+  Prusimska (1692), whose father bought Trąbczyn six years later. A regest is
+  an abstract, not the record: the court books themselves decide.
+account_de: >-
+  Włodzimierz Dworzaczeks Mappen sind eine Kartei kurzer Auszüge (Regesten)
+  aus den Gerichtsbüchern Großpolens, angelegt für die Genealogie seines
+  Adels und von der Bibliothek Kórnik herausgegeben. Jedes Regest nennt
+  Datum, Parteien, Geschäft und Blatt des Gerichtsbuchs, in einem stark
+  abgekürzten Polnisch. Diese vier betreffen die Familie Trąmpczyński, der
+  Trąbczyn bis 1698 gehörte: Stanisławs Versprechen einer Mitgift an seine
+  Braut Anna Słonecka (1614), seine Übertragung von Trąbczyn, Nowa Wieś, Łazy
+  und Osiny an Maciej Debrzyński (1642), die Mitgift von Anna Bojanowska, der
+  Frau Władysław Trąmpczyńskis (1663), und die Mitgift von Teresa Prusimska,
+  der Frau ihres Sohnes Jan (1692), deren Vater Trąbczyn sechs Jahre später
+  kaufte. Ein Regest ist ein Auszug, nicht die Aufzeichnung selbst: es
+  entscheiden die Gerichtsbücher.
+
+# The card's own short rendering of the account (the list pages).
+brief_en: >-
+  Four regests of the Greater Poland court books on the Trąmpczyński family
+  of Trąbczyn, 1614–1692.
+brief_de: >-
+  Vier Regesten der großpolnischen Gerichtsbücher zur Familie Trąmpczyński
+  auf Trąbczyn, 1614–1692.

@@ -116,6 +116,9 @@ people:
     # the husband of Teresa Gajewska in the Opaliński genealogy; not shown
     # to be of the edition's family or of the page's line.
     Trąmpczyńskim: "no: Jan Trąmpczyński of the arms Topór (Żychliński 1885, p. 187), the husband of Teresa Gajewska in the Opaliński genealogy; not shown to be of the edition's family or of the page's line"
+    # Teki Dworzaczka c03 (1663): "ż. Władysława Trąmpczyńskiego", Anna
+    # Bojanowska's husband, the family's Władysław who held Trąbczyn.
+    Trąmpczyńskiego: yes
   amelang: {Amelang: yes}
   beguelin: {Beguelin: yes}
   bernhard:
@@ -993,6 +996,15 @@ places:
     # Botkowo und Winiec weit unter Wert wieder verkauft" — the lordship
     # among those the prince sold, the print's own spelling.
     Trobczyn: yes
+    # Teki Dworzaczka c02 (1642: "wsie: Trąmpczyn, Nowawieś, Łazy, Ossiny
+    # p. kon.") and c03 (1663: "na 1/2 d. Trąmpczyn, Łazy, Osiny"): the
+    # estate, named with its villages.
+    Trąmpczyn: yes
+  nowawies-trabczyn:
+    # Teki Dworzaczka c02 (1642): "wsie: Trąmpczyn, Nowawieś, Łazy, Ossiny
+    # p. kon." - the Trąbczyn estate's Nowa Wieś, named among its villages
+    # in the Konin district (a common place name: sure here by its company).
+    Nowawieś: yes
   trabczynskie-stare-oledry:
     # The editor's ruling of 2026-10-22: Kolonia Łazińskie (Mielewczyk 2017,
     # p. 48, among the new villages founded on the parcelled lands of the

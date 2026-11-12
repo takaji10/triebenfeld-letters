@@ -63,7 +63,9 @@ heading, the bio and the life-line from the genealogy block itself.
       {%- for e in g.parents %}
       {%- assign es = e.sources_en -%}{%- assign ns = e.note_sources_en -%}
       {%- if lang == 'de' %}{% assign es = e.sources_de %}{% assign ns = e.note_sources_de %}{% endif -%}
-      <li>{{ e.name }}{% if e.dates %} <span class="life">{{ e.dates }}</span>{% endif %}{% if e.note %} — {{ e.note }}{% endif %}
+      <li>{% assign linked = nil %}{% if e.link %}{%- assign linked = site.data.genealogy.people[e.link] -%}{% endif %}
+        {%- if linked %}<a href="{{ u_people | append: e.link | append: '/' | relative_url }}">{{ e.name }}</a>{% elsif e.link %}<a href="{{ u_people | append: '#' | append: e.link }}">{{ e.name }}</a>{% else %}{{ e.name }}{% endif %}
+        {%- if e.dates %} <span class="life">{{ e.dates }}</span>{% endif %}{% if e.note %} — {{ e.note }}{% endif %}
         {%- for s in es %} <a class="gen-src" href="{{ s.url | relative_url }}">{{ s.text }}</a>{% endfor %}</li>
       {%- endfor %}
     </ul>{% endif -%}
@@ -73,7 +75,9 @@ heading, the bio and the life-line from the genealogy block itself.
       {%- for e in g.marriages %}
       {%- assign es = e.sources_en -%}{%- assign ns = e.note_sources_en -%}
       {%- if lang == 'de' %}{% assign es = e.sources_de %}{% assign ns = e.note_sources_de %}{% endif -%}
-      <li>{{ e.name }}{% if e.dates %} <span class="life">{{ e.dates }}</span>{% endif %}{% if e.note %} — {{ e.note }}{% endif %}
+      <li>{% assign linked = nil %}{% if e.link %}{%- assign linked = site.data.genealogy.people[e.link] -%}{% endif %}
+        {%- if linked %}<a href="{{ u_people | append: e.link | append: '/' | relative_url }}">{{ e.name }}</a>{% elsif e.link %}<a href="{{ u_people | append: '#' | append: e.link }}">{{ e.name }}</a>{% else %}{{ e.name }}{% endif %}
+        {%- if e.dates %} <span class="life">{{ e.dates }}</span>{% endif %}{% if e.note %} — {{ e.note }}{% endif %}
         {%- for s in es %} <a class="gen-src" href="{{ s.url | relative_url }}">{{ s.text }}</a>{% endfor %}</li>
       {%- endfor %}
     </ul>{% endif -%}
@@ -83,7 +87,7 @@ heading, the bio and the life-line from the genealogy block itself.
       {%- for e in g.children %}
       {%- assign es = e.sources_en -%}{%- assign csrc = e.children_sources_en -%}
       {%- if lang == 'de' %}{% assign es = e.sources_de %}{% assign csrc = e.children_sources_de %}{% endif -%}
-      <li>{% if e.link %}{%- assign linked = site.data.genealogy.people[e.link] -%}{% endif %}
+      <li>{% assign linked = nil %}{% if e.link %}{%- assign linked = site.data.genealogy.people[e.link] -%}{% endif %}
         {%- if linked %}<a href="{{ u_people | append: e.link | append: '/' | relative_url }}">{{ e.name }}</a>{% else %}{% if e.link %}<a href="{{ u_people | append: '#' | append: e.link }}">{{ e.name }}</a>{% else %}{{ e.name }}{% endif %}{% endif %}
         {%- if e.dates %} <span class="life">{{ e.dates }}</span>{% endif %}{% if e.note %} — {{ e.note }}{% endif %}
         {%- for s in es %} <a class="gen-src" href="{{ s.url | relative_url }}">{{ s.text }}</a>{% endfor %}
@@ -92,7 +96,7 @@ heading, the bio and the life-line from the genealogy block itself.
           {%- for k in e.children %}
           {%- assign ks = k.sources_en -%}
           {%- if lang == 'de' %}{% assign ks = k.sources_de %}{% endif -%}
-          <li>{% if k.link %}{%- assign linked2 = site.data.genealogy.people[k.link] -%}{% endif %}
+          <li>{% assign linked2 = nil %}{% if k.link %}{%- assign linked2 = site.data.genealogy.people[k.link] -%}{% endif %}
             {%- if linked2 %}<a href="{{ u_people | append: k.link | append: '/' | relative_url }}">{{ k.name }}</a>{% else %}{% if k.link %}<a href="{{ u_people | append: '#' | append: k.link }}">{{ k.name }}</a>{% else %}{{ k.name }}{% endif %}{% endif %}
             {%- if k.dates %} <span class="life">{{ k.dates }}</span>{% endif %}{% if k.note %} — {{ k.note }}{% endif %}
             {%- for s in csrc %} <a class="gen-src" href="{{ s.url | relative_url }}">{{ s.text }}</a>{% endfor %}
@@ -105,6 +109,17 @@ heading, the bio and the life-line from the genealogy block itself.
           {%- endfor %}
         </ul>{% endif -%}
       </li>
+      {%- endfor %}
+    </ul>{% endif -%}
+    {%- if g.members %}
+    <h3>{{ t.gen_members }}</h3>
+    <ul class="gen-list">
+      {%- for e in g.members %}
+      {%- assign es = e.sources_en -%}
+      {%- if lang == 'de' %}{% assign es = e.sources_de %}{% endif -%}
+      <li><a href="{{ u_people | append: e.link | append: '/' | relative_url }}">{{ e.name }}</a>
+        {%- if e.dates %} <span class="life">{{ e.dates }}</span>{% endif %}{% if e.note %} — {{ e.note }}{% endif %}
+        {%- for s in es %} <a class="gen-src" href="{{ s.url | relative_url }}">{{ s.text }}</a>{% endfor %}</li>
       {%- endfor %}
     </ul>{% endif -%}
     {%- if g.notes %}

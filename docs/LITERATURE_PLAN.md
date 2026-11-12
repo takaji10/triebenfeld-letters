@@ -1503,3 +1503,26 @@ pages keep the full titles; the account there already says which part of the
 work the site gives. The Minakowska titles' person IDs (4.285.619 and the
 like) are the database's own identification of the page, not a page span,
 and stay.
+
+## 34. The Teki Dworzaczka (2026-11-12)
+
+`tekidworzaczka`: Włodzimierz Dworzaczek's regests of the Greater Poland
+court books (Biblioteka Kórnicka PAN, online), the ones that bear on the
+Trąbczyn estate, brought in so that the person pages can cite them and the
+bibliography is the work's own entry ("ensuring that any bibliography
+mentions can be easily made since you'll preserve the sources", the editor).
+
+- **One work for the whole files**, not one per regest: each regest is a
+  passage, cut at a heading of the edition's own ("# Nr. 1420 (1642)"),
+  the regest below it as supplied (breadcrumb, number line, text). Keys
+  c01, c02, ... in the order they came in; **a new regest is appended**,
+  never inserted, so the keys already cited do not move.
+- Polish as supplied, Claude's English expanding the abbreviations, the
+  readings that are Claude's in the work's `notes.md` ("s. o.", "wyd.",
+  "pos. i t. w.", "Br.").
+- Visible (four short abstracts); the rights and the imprint wait on the
+  editor (NEEDS_CONFIRMATION).
+- The first four: 1614 (Stanisław's marriage settlement, quoted on
+  Minakowska's page), 1642 (the conveyance to Debrzyński), 1663 (Anna
+  Bojanowska's dowry), 1692 (Teresa Prusimska's dowry). The person pages
+  that cite them are in `reference/genealogy.yml`.

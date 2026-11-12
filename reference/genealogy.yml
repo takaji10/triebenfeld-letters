@@ -29,6 +29,10 @@
 # site/_data/genealogy.yml from it, which the person page renders. A block
 # for a shown person makes that person a page, in both languages, and the
 # entry on /people/ links to it; a standalone block makes the page alone.
+#
+# A family entry's block may carry `members:` (name, link, dates, note):
+# the family's people who have pages of their own, listed on the family's
+# page so the People page leads to them (2026-11-12, the Trąmpczyńskis).
 
 people:
   prusimski:
@@ -363,78 +367,450 @@ people:
       67/1810 mit ihrem Archivverweis. Die ganze Seite, diese eingeschlossen,
       liegt im Ordner des Werks; nichts davon wird hier gezeigt.
 
+
+  # ------------------------------------------------------------------
+  # The holders of Trąbczyn before the Prusimskis, and the Prusimskis'
+  # coming (2026-11-12, the editor: "create people entries for the main
+  # people connected to the Trąbczyn estate, and cite the relevant Teki
+  # Dworzaczka entries"). The Trąmpczyńskis are a family entry of the
+  # edition (people.yml `trampczynski`), its pattern matching the surname
+  # only in five documents; so each person is a standalone block, his own
+  # heading and bio, and every fact cites the document or the regest
+  # (literature `tekidworzaczka`) that states it. The slugs are not
+  # entries' slugs (a standalone block's slug must not be one). Most facts
+  # are from the boundary decree of 1775 (APP 53/17/0/-/Konin Gr.145),
+  # which recites the Trąmpczyński title deeds from 1522 to 1698. What is
+  # inference rather than statement is said in docs/NEEDS_CONFIRMATION.md,
+  # "The Trąmpczyński family and Jan na Kolno Prusimski".
+  # ------------------------------------------------------------------
+
+  trampczynski:
+    # The family entry (people.yml `trampczynski`) given a page of its own,
+    # 2026-11-12: its heading, bio and five documents are the entry's; the
+    # block adds only `members:`, the people of the family who have pages,
+    # so that the People page leads to them (a standalone page is linked
+    # from nowhere else). Not standalone: the collision of 2026-10-22 was a
+    # standalone block's own heading and bio under this slug.
+    members:
+      - name: "Jan Otto-Trąmpczyński (the elder)"
+        link: jan-otto-trampczynski-elder
+        dates: "d. before 1584"
+        note: "co-heir of Trąbczyn; his sons shared it with their uncle Wojciech"
+      - name: "Wojciech Otto-Trąmpczyński"
+        link: wojciech-otto-trampczynski
+        dates: "documented 1584–1595"
+        note: "co-heir of Trąbczyn, Jan's brother and his sons' guardian"
+      - name: "Stanisław Otto-Trąmpczyński"
+        link: stanislaw-otto-trampczynski
+        dates: "d. 1642–1644"
+        note: "Wojciech's son, heir of Trąbczyn"
+      - name: "Władysław Otto-Trąmpczyński"
+        link: wladyslaw-otto-trampczynski
+        dates: "d. before 1693"
+        note: "Stanisław's son, heir of Trąbczyn"
+      - name: "Jan Otto-Trąmpczyński"
+        link: jan-otto-trampczynski
+        dates: "documented 1692–1698"
+        note: "Władysław's son, who with his brother and mother sold Trąbczyn to his father-in-law Jan na Kolno Prusimski in 1698"
+
+  jan-otto-trampczynski-elder:
+    # The four nephews whom Wojciech held in guardianship from 1584
+    # (Wawrzyniec, Rachwał, Walenty, Stanisław) sue him in 1591 for "the
+    # part of Trąbczyn that came to them from their father"; the agreement
+    # of 1596 names Szczęsna z Popowa "widow of the late Jan" and her sons
+    # Rachwał, Walenty and Stanisław; the term of 1616 has "Stanisław son
+    # of Jan" among the heirs. Wawrzyniec's sonship rests on his being one
+    # of the four nephews: he is not in the agreement of 1596.
+    standalone: true
+    heading: "Jan Otto-Trąmpczyński (the elder)"
+    heading_de: "Jan Otto-Trąmpczyński (der Ältere)"
+    life: "d. before 1584"
+    life_de: "gest. vor 1584"
+    bio: >-
+      Jan Otto-Trąmpczyński, co-heir of Trąbczyn in the sixteenth century
+      and brother of Wojciech. He was dead by October 1584, when Wojciech,
+      their uncle, held his sons in guardianship and shared the estate with
+      them. In 1591 the sons, come of age, had Trąbczyn divided with
+      Wojciech to have the part that had come to them from their father,
+      and in 1596 his widow Szczęsna of Popowo settled the division of that
+      part with three of them.
+    bio_de: >-
+      Jan Otto-Trąmpczyński, Miterbe von Trąbczyn im 16. Jahrhundert und
+      Bruder Wojciechs. Er war im Oktober 1584 tot, als Wojciech als ihr
+      Onkel seine Söhne in Vormundschaft hielt und das Gut mit ihnen teilte.
+      1591 ließen die Söhne, volljährig geworden, Trąbczyn mit Wojciech
+      teilen, um den Teil zu erhalten, der ihnen von ihrem Vater zugefallen
+      war, und 1596 regelte seine Witwe Szczęsna aus Popowo die Teilung
+      dieses Teils mit dreien von ihnen.
+    marriages:
+      - name: "Szczęsna née Popowska (Szczęsna z Popowa)"
+        note: "his widow by 1596, when she settled with her sons Rachwał, Walenty and Stanisław the division of their part of Trąbczyn (agreement roborated at Konin on the Monday after the Exaltation of the Cross, 1596)"
+        source: "app53170koningr145-1"
+    children:
+      - name: "Wawrzyniec"
+        note: "with his brothers Wojciech's ward and co-heir from 1584, and party to the division of 1591; not named in his mother's settlement of 1596"
+        source: "app53170koningr145-1"
+      - name: "Rachwał"
+        note: "his son Andrzej was among the heirs of Trąbczyn in 1616"
+        source: "app53170koningr145-1"
+      - name: "Walenty"
+        source: "app53170koningr145-1"
+      - name: "Stanisław"
+        note: "among the heirs of Trąbczyn in 1616, as son of Jan"
+        source: "app53170koningr145-1"
+
   wojciech-otto-trampczynski:
-    # The slug is NOT the family entry's (trampczynski): the family has its
-    # own page (/people/trampczynski/, heading and documents from its
-    # people.yml entry), and this block's page must not collide with it.
-    # The edition's Trąmpczyński family, which held Trąbczyn before the
-    # Prusimskis and took its name from it, with the by-name Otto. Not a
-    # person of the documents: the family is a family entry, and
-    # this page is the sixteenth-century Wojciech whose by-name and whose
-    # son's record (the regest of 1614) are the database's source for the
-    # line. The page's subject is in none of the documents, so the block
-    # stands alone (a standalone person: heading and bio of its own, no
-    # documents, the literature named by hand); its value to the edition is
-    # the family's line: the son Stanisław of the regest of 1614, and the
-    # four brothers of the decree of 1644 who are his sons (Władysław,
-    # Andrzej, Anna and the second Władysław) or of the next generation.
+    # Rewritten 2026-11-12 against the documents: the earlier bio had the
+    # second Wojciech's marriage "carrying the line to the brothers of the
+    # decree of 1644" - but that Wojciech is one of those brothers, the
+    # sons of this Wojciech's son Stanisław. The 1589 Albertus of APP
+    # 53/6/0/-/17 and the "stryj" (paternal uncle) of the decree of 1775
+    # are this man; that he is also the father of the Stanisław of 1614 is
+    # the regest's "Wojc. Otha Tr." and the term of 1616's "Stanisław son
+    # of Wojciech", not a statement of the decree.
     standalone: true
     heading: "Wojciech Otto-Trąmpczyński"
     heading_de: "Wojciech Otto-Trąmpczyński"
+    life: "documented 1584–1595"
+    life_de: "belegt 1584–1595"
     bio: >-
-      Wojciech Otto-Trąmpczyński, of the family that held Trąbczyn before
-      the Prusimskis and took its name from it, with the by-name Otto – the
-      "Otha" of the record of 1614, where his son Stanisław pledges half
-      the estates for the dowry of the bride Anna Słonecka. The database
-      gives him no certain dates – "born probably in 1560" is its estimate,
-      and none is shown here – and no parents; what carries his line is the
-      marriage of about 1590 (again its estimate) to Anna Cerekwicka, their
-      son Stanisław, and the grandchildren through him, among them the
-      second Wojciech, whose marriage to Marianna née Zawadzka carries the
-      line to the brothers of the decree of 1644 that the documents name.
+      Wojciech (Albertus) Otto-Trąmpczyński, co-heir of a part of Trąbczyn
+      in the late sixteenth century, brother of Jan the elder and, after
+      Jan's death, guardian of Jan's sons, who held the estate with him. In
+      1589 he sued the heirs of Łukom, Tomasz Łukomski and Barbara
+      Brodzyńska, because their new pond at Łukom flooded the woods,
+      meadows and pastures of his part of Trąbczyn. The view of the ground
+      taken that July, which he had entered in the court book only in
+      December 1592, while his nephews were suing him for their share,
+      became the chief evidence of the Łukom side in the boundary suit of
+      the 1770s; the heir of Trąbczyn objected that Wojciech had held only
+      a part of the estate and had acted without his wards. In 1591 the
+      nephews, come of age, divided Trąbczyn with him. His son Stanisław
+      carried his line at Trąbczyn.
     bio_de: >-
-      Wojciech Otto-Trąmpczyński, aus der Familie, der Trąbczyn vor den
-      Prusimskis gehörte und die sich nach dem Gut nannte, mit dem Beinamen
-      Otto – dem "Otha" der Aufzeichnung von 1614, in der sein Sohn
-      Stanisław die Hälfte der Güter für die Mitgift der Braut Anna
-      Słonecka verpfändet. Die Datenbank gibt ihm keine sicheren Daten –
-      "vielleicht 1560 geboren" ist ihre Schätzung, und keines wird hier
-      gezeigt – und keine Eltern; was seine Linie trägt, ist die Ehe um
-      1590 (wieder ihre Schätzung) mit Anna Cerekwicka, ihr Sohn Stanisław,
-      und die Enkel durch ihn, unter ihnen der zweite Wojciech, dessen Ehe
-      mit Marianna geb. Zawadzka die Linie zu den Brüdern des Dekrets von
-      1644 trägt, die die Dokumente nennen.
+      Wojciech (Albertus) Otto-Trąmpczyński, Miterbe eines Teils von
+      Trąbczyn im späten 16. Jahrhundert, Bruder Jans des Älteren und nach
+      Jans Tod Vormund von dessen Söhnen, die das Gut mit ihm besaßen. 1589
+      verklagte er die Erben von Łukom, Tomasz Łukomski und Barbara
+      Brodzyńska, weil ihr neuer Teich bei Łukom die Wälder, Wiesen und
+      Weiden seines Teils von Trąbczyn überschwemmte. Die im Juli desselben
+      Jahres aufgenommene Besichtigung, die er erst im Dezember 1592 ins
+      Gerichtsbuch eintragen ließ, als seine Neffen ihn um ihren Anteil
+      verklagten, wurde im Grenzprozess der 1770er Jahre das wichtigste
+      Beweisstück der Seite Łukom; der Erbe von Trąbczyn wandte ein,
+      Wojciech habe nur einen Teil des Guts besessen und ohne seine Mündel
+      gehandelt. 1591 teilten die Neffen, volljährig geworden, Trąbczyn mit
+      ihm. Sein Sohn Stanisław setzte seine Linie auf Trąbczyn fort.
     marriages:
       - name: "Anna Cerekwicka"
-        note: "the database's marriage year (about 1590) is its estimate and is not shown; her dates are the database's estimate (?1570-) and none is shown"
         source: "minakowska2026ottotrampczynski/c01"
     children:
       - name: "Stanisław"
-        note: "the record of 1614 (Teki Dworzaczka, Księgi grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137) has him son of Wojciech Otha Trąmpczyński and marrying Anna, a daughter of Jan Słonecki of the Chełmski marriage's own story's Słończyce, pledging half his estates for her 7,000-zł dowry; the brothers and sisters of the decree of 1644 (the sons Władysław and Andrzej and the daughter Anna of the database's page, with the second Władysław) hang on his line"
-        source: "minakowska2026ottotrampczynski/c01"
-        note_source: "app536036-1"
-    notes: >-
-      The page's Uwagi carry one source, and it is the database's own
-      source for the person: the Teki Dworzaczka regest of the Pyzdry
-      court books (Księgi grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137) of
-      1614 – Stanisław Trąmpczyński, son of Wojciech Otha Trąmpczyński,
-      pledges to Jan Słonecki, son of Marcin, that after the wedding of
-      Anna Słonecka, daughter of the late Stanisław Słonecki, cup-bearer
-      (podstoli) of Kalisz, by Elżbieta Chwalibowska, he will secure her
-      7,000 zł as dowry and warranty on half the estates (fol. 255). The
-      whole page, this included, is kept in the work's folder; none of it
-      is shown here.
-    notes_de: >-
-      Die Uwagi der Seite tragen eine Quelle, und sie ist die eigene Quelle
-      der Datenbank für die Person: das Regest der Teki Dworzaczka aus den
-      Pyzdryer Gerichtsbüchern (Księgi grodzkie pyzdrskie, cz. 1, nr 2152,
-      Nr 137) von 1614 – Stanisław Trąmpczyński, Sohn des Wojciech Otha
-      Trąmpczyński, verpfändet dem Jan Słonecki, Sohn des Marcin, dass er
-      nach der Vermählung der Anna Słonecka, Tochter des verstorbenen
-      Stanisław Słonecki, Untstallmeister (podstoli) von Kalisz, und der
-      Elżbieta Chwalibowska, ihr 7.000 zł als Mitgift und Sicherheit auf
-      die Hälfte der Güter sichern wird (fol. 255). Die ganze Seite, dies
-      eingeschlossen, liegt im Ordner des Werks; nichts davon wird hier
-      gezeigt.
+        link: stanislaw-otto-trampczynski
+        note: "son of 'Wojciech Otha Trąmpczyński' in the record of his marriage settlement of 1614; among the heirs of Trąbczyn in 1616 as son of Wojciech"
+        source: "tekidworzaczka/c01; app53170koningr145-1"
     literature_passages:
       - "minakowska2026ottotrampczynski/c01"
+      - "tekidworzaczka/c01"
+
+  stanislaw-otto-trampczynski:
+    # Died between the conveyance of 1642 (Teki Dworzaczka c02, made with
+    # his wife's consent) and the widow's manifest of the Saturday before
+    # Trinity Sunday 1644, 21 May 1644 (recited in the decree of 1775).
+    # The four sons are named "fratres germanos Ottow Trąmpczyńskich olim
+    # Stanislai filiis" in the decree of 1644 (APP 53/6/0/-/36). Maria is
+    # Minakowska's alone (her husband Maciej Debrzyński is in the documents
+    # as the man to whom Stanisław made over the estate in 1642).
+    standalone: true
+    heading: "Stanisław Otto-Trąmpczyński"
+    heading_de: "Stanisław Otto-Trąmpczyński"
+    life: "d. 1642–1644"
+    life_de: "gest. 1642–1644"
+    died: "between 1642 and 21 May 1644"
+    died_source: "tekidworzaczka/c02; app53170koningr145-1"
+    bio: >-
+      Stanisław Otto-Trąmpczyński, son of Wojciech, heir of Trąbczyn in the
+      first half of the seventeenth century. In 1614, before his wedding to
+      Anna Słonecka, he undertook to secure her dowry on half his estates,
+      and in 1616 he was one of several heirs of Trąbczyn of the family. In
+      1642, his wife consenting, he made over the villages of Trąbczyn, Nowa
+      Wieś, Łazy and Osiny to Maciej Debrzyński for 20,000 złoty, most
+      likely as a sale he could redeem: Debrzyński stood beside the family
+      as a possessor of the estate in 1644, and his son Władysław held it
+      in 1663. He was dead by May 1644, when his widow and their four sons
+      went to law with the heirs of Biskupice over boundary mounds and
+      marked trees on the Trąbczyn ground, and were themselves cited by
+      Jerzy Chełmski of Łukom.
+    bio_de: >-
+      Stanisław Otto-Trąmpczyński, Sohn Wojciechs, Erbe von Trąbczyn in der
+      ersten Hälfte des 17. Jahrhunderts. 1614, vor seiner Hochzeit mit Anna
+      Słonecka, verpflichtete er sich, ihr die Mitgift auf der Hälfte seiner
+      Güter zu sichern, und 1616 war er einer von mehreren Erben von
+      Trąbczyn aus der Familie. 1642 übertrug er mit Zustimmung seiner Frau
+      die Dörfer Trąbczyn, Nowa Wieś, Łazy und Osiny für 20.000 Złoty an
+      Maciej Debrzyński, sehr wahrscheinlich als Verkauf auf Wiederkauf:
+      Debrzyński stand 1644 als Besitzer des Guts neben der Familie, und
+      sein Sohn Władysław hatte es 1663 inne. Im Mai 1644 war er tot, als
+      seine Witwe und ihre vier Söhne gegen die Erben von Biskupice wegen
+      Grenzhügeln und angeschlagener Bäume auf dem Grund von Trąbczyn vor
+      Gericht gingen und selbst von Jerzy Chełmski aus Łukom geladen wurden.
+    parents:
+      - name: "Wojciech Otto-Trąmpczyński"
+        link: wojciech-otto-trampczynski
+        source: "tekidworzaczka/c01; app53170koningr145-1"
+      - name: "Anna née Cerekwicka"
+        source: "minakowska2026ottotrampczynski/c01"
+    marriages:
+      - name: "Anna née Słonecka (Anna z Słończyc)"
+        note: "daughter of Jan Słonecki and Elżbieta née Chwalibowska, granddaughter of Stanisław Chwalibowski, pantler of Kalisz; promised 7,000 złoty of dowry and as much of dower in 1614; consenting to the conveyance of 1642; his widow by 21 May 1644, holding a life interest in his estates"
+        source: "tekidworzaczka/c01; tekidworzaczka/c02; app536036-1; app53170koningr145-1"
+    children:
+      - name: "Marcin"
+        source: "app536036-1"
+      - name: "Wojciech"
+        note: "married Marianna née Zawadzka"
+        source: "app536036-1; minakowska2026ottotrampczynski/c01"
+      - name: "Władysław"
+        link: wladyslaw-otto-trampczynski
+        source: "app536036-1"
+      - name: "Andrzej"
+        source: "app536036-1"
+      - name: "Maria"
+        note: "married Maciej Debrzyński"
+        source: "minakowska2026ottotrampczynski/c01"
+    literature_passages:
+      - "tekidworzaczka/c01"
+      - "tekidworzaczka/c02"
+      - "minakowska2026ottotrampczynski/c01"
+
+  wladyslaw-otto-trampczynski:
+    # Dead before 6 October 1693: the partition of that day is between his
+    # three sons, "bracią między sobą rodzonymi", and by 1698 his widow is
+    # "of the first marriage Trąpczyńska, afterwards Golińska, mother and
+    # widow" (the decree of 1775). The regest of 1663 calls Anna his wife
+    # already: the marriage is by 1663, not of 1663. Her second marriage's
+    # children: the Poznań decree of 1784 records 7,000 zł inscribed by
+    # "the late Paweł Goliński to Anna de Bojanowska, his mother", and
+    # passed by her "into the person of Apollonia de Golinska ... her own
+    # daughter". Which Goliński she married is not named.
+    standalone: true
+    heading: "Władysław Otto-Trąmpczyński"
+    heading_de: "Władysław Otto-Trąmpczyński"
+    life: "d. before 1693"
+    life_de: "gest. vor 1693"
+    died: "before 6 October 1693"
+    died_source: "app53170koningr145-1"
+    bio: >-
+      Władysław Otto-Trąmpczyński, son of Stanisław and Anna of Słończyce,
+      heir of Trąbczyn after his father. With his mother and his brothers
+      Marcin, Wojciech and Andrzej he was cited in 1644 by Jerzy Chełmski
+      of Łukom for cutting boundary marks into the trees of the Łukom forest
+      and felling its timber, and condemned by default. By 1663 he held
+      Trąbczyn, Łazy and Osiny and the mill of Drzazgi, and recorded on half
+      of them the dowry of his wife Anna Bojanowska, 15,000 złoty. He was
+      dead before 6 October 1693, when his three sons divided the estate
+      among themselves; his widow had married again, into the Goliński
+      family.
+    bio_de: >-
+      Władysław Otto-Trąmpczyński, Sohn Stanisławs und Annas aus Słończyce,
+      Erbe von Trąbczyn nach seinem Vater. Mit seiner Mutter und seinen
+      Brüdern Marcin, Wojciech und Andrzej wurde er 1644 von Jerzy Chełmski
+      aus Łukom geladen, weil sie Grenzzeichen in die Bäume des Waldes von
+      Łukom geschlagen und sein Holz gefällt hatten, und in Abwesenheit
+      verurteilt. 1663 besaß er Trąbczyn, Łazy und Osiny und die Mühle
+      Drzazgi und sicherte auf der Hälfte davon die Mitgift seiner Frau Anna
+      Bojanowska, 15.000 Złoty. Vor dem 6. Oktober 1693 war er tot, als seine
+      drei Söhne das Gut unter sich teilten; seine Witwe hatte erneut
+      geheiratet, in die Familie Goliński.
+    parents:
+      - name: "Stanisław Otto-Trąmpczyński"
+        link: stanislaw-otto-trampczynski
+        source: "app536036-1"
+      - name: "Anna née Słonecka (Anna z Słończyc)"
+        source: "app536036-1"
+    marriages:
+      - name: "Anna née Bojanowska"
+        note: "daughter of Mikołaj Bojanowski; his wife by 1663, when with her cousins Stefan and Samuel Bojanowski she sold Baworówko and he recorded her dowry; after his death married to a Goliński, and by him mother of Paweł Goliński and Apollonia Golińska; a widow again by 1698, when she and her sons sold Trąbczyn"
+        source: "tekidworzaczka/c03; app53170koningr145-1; app5320pozgr1181-1"
+    children:
+      - name: "Andrzej"
+        note: "divided Trąbczyn with his brothers on 6 October 1693; sold it with his brother Jan and their mother in 1698"
+        source: "app53170koningr145-1"
+      - name: "Jan"
+        link: jan-otto-trampczynski
+        source: "app53170koningr145-1; tekidworzaczka/c04"
+      - name: "Władysław"
+        note: "divided Trąbczyn with his brothers in 1693; they sold it in his name too in 1698"
+        source: "app53170koningr145-1"
+      - name: "Anna"
+        source: "minakowska2026ottotrampczynski/c01"
+    literature_passages:
+      - "tekidworzaczka/c03"
+      - "tekidworzaczka/c04"
+      - "minakowska2026ottotrampczynski/c01"
+
+  jan-otto-trampczynski:
+    # The Jan of the regest of 1692 ("s. o. Władysława Tr.") is the Jan of
+    # the partition of 1693 and the sale of 1698: Władysław's son, the
+    # brother of Andrzej and the younger Władysław, Anna Bojanowska's son,
+    # and the buyer of 1698 is the bride's father by the regest. Not a
+    # grandson through the younger Władysław (the editor's first tree had
+    # him so; the editor's word 2026-11-12 followed the check).
+    standalone: true
+    heading: "Jan Otto-Trąmpczyński"
+    heading_de: "Jan Otto-Trąmpczyński"
+    life: "documented 1692–1698"
+    life_de: "belegt 1692–1698"
+    bio: >-
+      Jan Otto-Trąmpczyński, son of Władysław and Anna Bojanowska, of the
+      last generation of the family to hold Trąbczyn. In 1692 he recorded
+      the dowry of his wife Teresa Prusimska, daughter of Jan na Kolno
+      Prusimski, on half his estates. On 6 October 1693 he and his brothers
+      Andrzej and Władysław divided Trąbczyn, Nowa Wieś, Osiny and Łazy
+      among themselves, keeping some ponds and the boggy ground of the
+      forest for common use. In 1698 he, Andrzej and their mother, acting
+      for their brother Władysław as well, sold the estate to his
+      father-in-law under a penalty of 90,000 złoty, and Trąbczyn passed
+      to the Prusimskis in one hand.
+    bio_de: >-
+      Jan Otto-Trąmpczyński, Sohn Władysławs und Anna Bojanowskas, aus der
+      letzten Generation der Familie, der Trąbczyn gehörte. 1692 sicherte er
+      die Mitgift seiner Frau Teresa Prusimska, der Tochter des Jan na Kolno
+      Prusimski, auf der Hälfte seiner Güter. Am 6. Oktober 1693 teilten er
+      und seine Brüder Andrzej und Władysław Trąbczyn, Nowa Wieś, Osiny und
+      Łazy unter sich und behielten einige Teiche und den sumpfigen Grund im
+      Wald zur gemeinsamen Nutzung. 1698 verkauften er, Andrzej und ihre
+      Mutter, auch im Namen ihres Bruders Władysław, das Gut unter einer
+      Vertragsstrafe von 90.000 Złoty an seinen Schwiegervater, und Trąbczyn
+      ging in einer Hand an die Prusimskis über.
+    parents:
+      - name: "Władysław Otto-Trąmpczyński"
+        link: wladyslaw-otto-trampczynski
+        source: "tekidworzaczka/c04; app53170koningr145-1"
+      - name: "Anna née Bojanowska"
+        source: "app53170koningr145-1"
+    marriages:
+      - name: "Teresa née Prusimska"
+        note: "daughter of Jan na Kolno Prusimski and Teresa née Gajewska; 6,000 złoty of dowry and as much of dower recorded on half his estates in 1692"
+        source: "tekidworzaczka/c04; app5320pozgr1181-1"
+    literature_passages:
+      - "tekidworzaczka/c04"
+
+  jan-prusimski-kolno:
+    # "Jan na Kolno Prusimski" in the edition's prose (the editor,
+    # 2026-11-12); the decree of 1775 writes "Janem na Kolnie Prusimskim",
+    # the decree of 1784 "Joannis in Kolno Prusimski", the regest of 1692
+    # "Jana z Kolna Br." The Johann von Prusimski of the Kolno mortgage
+    # certificate (Oe 1 Bü 14525, document 12), whose inscription of 1673
+    # charges the market town of Kolno, is identified with him by Claude:
+    # the charge lies on Kolno, which he held and which his son Krzysztof's
+    # line inherited, and the only other Jan of the line, Krzysztof's son,
+    # was not yet born. The decree of 1784 calls the Jan of the purchase of
+    # Wierzbno and Brzezno in 1676 "olim Christophori filii", the son of a
+    # Krzysztof: an elder Krzysztof, his father, since the younger was his
+    # son. Both are flagged in NEEDS_CONFIRMATION.
+    standalone: true
+    heading: "Jan na Kolno Prusimski"
+    heading_de: "Jan na Kolno Prusimski"
+    life: "documented 1673–1698"
+    life_de: "belegt 1673–1698"
+    bio: >-
+      Jan na Kolno Prusimski, of the Prusimski family of Kolno and Kamionna
+      in the district of Poznań, who bought Trąbczyn from the Trąmpczyńskis
+      in 1698 and so brought it to the family that held it until Antoni
+      Prusimski's flight in 1794. He was very probably the "Johann von
+      Prusimski" whose inscription of 1673 charged the market town of Kolno
+      with 1,500 złoty for the parish church of Kamionna, a charge the
+      Prussian mortgage register still carried in 1801. In 1676 Wierzbno and
+      Brzezno were made over to him. His daughter Teresa married Jan
+      Trąmpczyński in 1692, and in 1698 he bought Trąbczyn from his
+      son-in-law, the son-in-law's brother Andrzej and their mother. His
+      sons Sebastian, Krzysztof and Ludwik divided his estates between 1700
+      and 1708, and Kamionna and Kolno came to Krzysztof, who held Trąbczyn
+      by 1713 and was the grandfather of the Starost Antoni.
+    bio_de: >-
+      Jan na Kolno Prusimski, aus der Familie Prusimski auf Kolno und
+      Kamionna im Kreis Posen, der Trąbczyn 1698 von den Trąmpczyńskis
+      kaufte und es so an die Familie brachte, der es bis zur Flucht Antoni
+      Prusimskis 1794 gehörte. Sehr wahrscheinlich war er der „Johann von
+      Prusimski“, dessen Inskription von 1673 den Marktflecken Kolno mit
+      1.500 Złoty für die Pfarrkirche von Kamionna belastete, eine Last, die
+      das preußische Hypothekenbuch noch 1801 führte. 1676 wurden ihm
+      Wierzbno und Brzezno übertragen. Seine Tochter Teresa heiratete 1692 Jan
+      Trąmpczyński, und 1698 kaufte er Trąbczyn von seinem Schwiegersohn,
+      dessen Bruder Andrzej und ihrer Mutter. Seine Söhne Sebastian,
+      Krzysztof und Ludwik teilten seine Güter zwischen 1700 und 1708, und
+      Kamionna und Kolno fielen an Krzysztof, der Trąbczyn 1713 besaß und
+      der Großvater des Starosten Antoni war.
+    parents:
+      - name: "Krzysztof Prusimski"
+        note: "the decree of 1784 names Jan, of the resignation of Wierzbno and Brzezno in 1676, as son of Krzysztof"
+        source: "app5320pozgr1181-1"
+    marriages:
+      - name: "Teresa née Gajewska"
+        note: "dead by 1692"
+        source: "app5320pozgr1181-1; tekidworzaczka/c04; minakowska2026prusimski/c02"
+    children:
+      - name: "Sebastian"
+        note: "made over Kamionna and Kolno to his brother Krzysztof by the brothers' divisions of 1700 and 1708"
+        source: "app5320pozgr1181-1"
+      - name: "Krzysztof"
+        link: prusimski-krzysztof
+        source: "app5320pozgr1181-1; minakowska2026prusimski/c02"
+      - name: "Ludwik"
+        note: "died childless before the brothers' second division, made at Kamionna on 23 July 1708"
+        source: "app5320pozgr1181-1"
+      - name: "Teresa"
+        note: "married Jan Otto-Trąmpczyński, who recorded her dowry in 1692"
+        source: "tekidworzaczka/c04"
+    literature_passages:
+      - "tekidworzaczka/c04"
+      - "minakowska2026prusimski/c02"
+
+  prusimski-krzysztof:
+    # Krzysztof Prusimski, heir of Trąbczyn (people.yml entry, the decrees
+    # of 1728 and 1782). His parents and brothers from the Poznań decree of
+    # 1784; his wife and children from the citation of 1782 (APP
+    # 53/17/0/-/Konin Gr.118, document 23), which names the sons and cites
+    # the heirs of the daughters Marianna, Wiktoria and Konstancja over the
+    # succession of the brothers who died childless; the decree of 1784 has
+    # the sisters too ("hanc ultimam sororem", the Tomicki compromise of
+    # 1737). Teresa Golińska's parents: the decree of 1784.
+    parents:
+      - name: "Jan na Kolno Prusimski"
+        link: jan-prusimski-kolno
+        source: "app5320pozgr1181-1; minakowska2026prusimski/c02"
+      - name: "Teresa née Gajewska"
+        source: "app5320pozgr1181-1; minakowska2026prusimski/c02"
+    marriages:
+      - name: "Teresa née Golińska"
+        note: "daughter of Jan Łoś Goliński, burgrave of Konin, and Konstancja née Krusińska; she brought Oporowo, Prusinowo and Szetlewek to the family"
+        source: "app5320pozgr1181-1; app53170koningr118-23"
+    children:
+      - name: "Jan"
+        note: "died childless before 1738"
+        source: "app53170koningr118-23"
+      - name: "Bogumił"
+        note: "died childless before 1738"
+        source: "app53170koningr118-23"
+      - name: "Antoni"
+        note: "died childless"
+        source: "app53170koningr118-23"
+      - name: "Paweł"
+        link: prusimski-pawel
+        note: "chamberlain, heir of Trąbczyn; died childless in 1754"
+        source: "app53170koningr118-23; app53170koningr136-1"
+      - name: "Stefan"
+        source: "app53170koningr118-23"
+        children:
+          - name: "Antoni Prusimski, Starost of Niszczewice"
+            link: prusimski
+      - name: "Marianna"
+        note: "married first Józef Tomicki, then Kazimierz Zakrzewski"
+        source: "app53170koningr118-23"
+      - name: "Wiktoria"
+        note: "married first a Wysocki, then Michał Tworowicz"
+        source: "app53170koningr118-23"
+      - name: "Konstancja"
+        note: "married Jan Kowalski"
+        source: "app53170koningr118-23"

@@ -18,6 +18,8 @@ that name them. A block for a person of no document of the edition
 (`standalone: true`) makes the page alone: the block carries its own heading
 and biography, the page has no list of documents, and the literature it
 belongs to is named by hand (`literature_passages:`).
+A family entry's block may list `members:`, the family's people who have
+pages of their own, each linked to its page (a link to no page fails).
 The database's estimated dates are never carried
 (reference/genealogy.yml, header; the editor, 2026-10-22).
 
@@ -167,6 +169,11 @@ def main():
         resolve_list(block.get('parents') or [], f'{where}.parents')
         resolve_list(block.get('marriages') or [], f'{where}.marriages')
         resolve_list(block.get('children') or [], f'{where}.children')
+        # a family entry's block: its members who have pages of their own
+        resolve_list(block.get('members') or [], f'{where}.members')
+        for m in block.get('members') or []:
+            if m.get('link') and m['link'] not in genealogy:
+                raise ValueError(f"{where}.members: {m['link']!r} has no page")
         if block.get('literature_passages'):
             for lang in ('en', 'de'):
                 block[f'literature_{lang}'] = [

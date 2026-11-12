@@ -2520,6 +2520,21 @@ person:
     - key: c01
       en: śluby i dzieci, wnuki, i do prawnuków
       de: śluby i dzieci, wnuki, i do prawnuków
+  - work: tekidworzaczka
+    cite: Teki Dworzaczka
+    pages:
+    - key: c01
+      en: Nr 137 (1614)
+      de: Nr 137 (1614)
+    - key: c02
+      en: Nr. 1420 (1642)
+      de: Nr. 1420 (1642)
+    - key: c03
+      en: Nr. 1425 (1663)
+      de: Nr. 1425 (1663)
+    - key: c04
+      en: Nr. 1123 IV (1692)
+      de: Nr. 1123 IV (1692)
   triebenfeld:
   - work: held1801
     cite: Held (1801)
@@ -3428,6 +3443,12 @@ place:
     - key: c03
       en: śluby i dzieci, wnuki, i do prawnuków
       de: śluby i dzieci, wnuki, i do prawnuków
+  - work: tekidworzaczka
+    cite: Teki Dworzaczka
+    pages:
+    - key: c04
+      en: Nr. 1123 IV (1692)
+      de: Nr. 1123 IV (1692)
   kopojno:
   - work: kneifel1937
     cite: Kneifel (1937)
@@ -3941,6 +3962,12 @@ place:
     - key: '84'
       en: p. 84
       de: S. 84
+  - work: tekidworzaczka
+    cite: Teki Dworzaczka
+    pages:
+    - key: c03
+      en: Nr. 1425 (1663)
+      de: Nr. 1425 (1663)
   polajewo:
   - work: held1801
     cite: Held (1801)
@@ -3960,6 +3987,313 @@ place:
     - key: c07
       en: V. Kapitel.
       de: V. Kapitel.
+  pyzdry:
+  - work: feuerbraende1807
+    cite: Neue Feuerbrände (1807)
+    pages:
+    - key: 2-67
+      en: Part 2, p. 67
+      de: Heft 2, S. 67
+    - key: 2-68
+      en: Part 2, p. 68
+      de: Heft 2, S. 68
+  - work: materialien1861
+    cite: Materialien (1861)
+    pages:
+    - key: '143'
+      en: p. 143
+      de: S. 143
+    - key: '144'
+      en: p. 144
+      de: S. 144
+    - key: notes
+      en: Notes
+      de: Anmerkungen
+  - work: werner1904
+    cite: Werner (1904)
+    pages:
+    - key: '422'
+      en: p. 422
+      de: S. 422
+  - work: breyer1935gaue
+    cite: Breyer (1935a)
+    pages:
+    - key: '38'
+      en: p. 38
+      de: S. 38
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '10'
+      en: p. 10
+      de: S. 10
+    - key: '13'
+      en: p. 13
+      de: S. 13
+    - key: '16'
+      en: p. 16
+      de: S. 16
+    - key: '67'
+      en: p. 67
+      de: S. 67
+    - key: '176'
+      en: p. 176
+      de: S. 176
+    - key: '248'
+      en: p. 248
+      de: S. 248
+    - key: '250'
+      en: p. 250
+      de: S. 250
+    - key: '255'
+      en: p. 255
+      de: S. 255
+    - key: '258'
+      en: p. 258
+      de: S. 258
+    - key: '259'
+      en: p. 259
+      de: S. 259
+    - key: '260'
+      en: p. 260
+      de: S. 260
+    - key: '261'
+      en: p. 261
+      de: S. 261
+    - key: '262'
+      en: p. 262
+      de: S. 262
+    - key: '263'
+      en: p. 263
+      de: S. 263
+    - key: '264'
+      en: p. 264
+      de: S. 264
+    - key: '265'
+      en: p. 265
+      de: S. 265
+    - key: '266'
+      en: p. 266
+      de: S. 266
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '1'
+      en: p. 1
+      de: S. 1
+    - key: '12'
+      en: p. 12
+      de: S. 12
+    - key: '16'
+      en: p. 16
+      de: S. 16
+    - key: '20'
+      en: p. 20
+      de: S. 20
+    - key: '29'
+      en: p. 29
+      de: S. 29
+  - work: muszynska1947
+    cite: Muszyńska-Zygmańska (1947)
+    pages:
+    - key: '111'
+      en: p. 111
+      de: S. 111
+    - key: '119'
+      en: p. 119
+      de: S. 119
+  - work: kneifel1964
+    cite: Kneifel (1964)
+    pages:
+    - key: '92'
+      en: p. 92
+      de: S. 92
+    - key: '93'
+      en: p. 93
+      de: S. 93
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '58'
+      en: p. 58
+      de: S. 58
+    - key: '60'
+      en: p. 60
+      de: S. 60
+  - work: szwiec2009
+    cite: Szwiec (2009)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: '6'
+      en: p. 6
+      de: S. 6
+    - key: '8'
+      en: p. 8
+      de: S. 8
+    - key: '11'
+      en: p. 11
+      de: S. 11
+    - key: '91'
+      en: p. 91
+      de: S. 91
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: '5'
+      en: p. 5
+      de: S. 5
+    - key: '11'
+      en: p. 11
+      de: S. 11
+    - key: '12'
+      en: p. 12
+      de: S. 12
+    - key: '13'
+      en: p. 13
+      de: S. 13
+    - key: '15'
+      en: p. 15
+      de: S. 15
+    - key: '16'
+      en: p. 16
+      de: S. 16
+    - key: '17'
+      en: p. 17
+      de: S. 17
+    - key: '20'
+      en: p. 20
+      de: S. 20
+    - key: '31'
+      en: p. 31
+      de: S. 31
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '33'
+      en: p. 33
+      de: S. 33
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '49'
+      en: p. 49
+      de: S. 49
+    - key: '52'
+      en: p. 52
+      de: S. 52
+    - key: '54'
+      en: p. 54
+      de: S. 54
+    - key: '55'
+      en: p. 55
+      de: S. 55
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '57'
+      en: p. 57
+      de: S. 57
+    - key: '58'
+      en: p. 58
+      de: S. 58
+    - key: '65'
+      en: p. 65
+      de: S. 65
+    - key: '66'
+      en: p. 66
+      de: S. 66
+    - key: '70'
+      en: p. 70
+      de: S. 70
+    - key: '73'
+      en: p. 73
+      de: S. 73
+    - key: '74'
+      en: p. 74
+      de: S. 74
+    - key: '82'
+      en: p. 82
+      de: S. 82
+    - key: '83'
+      en: p. 83
+      de: S. 83
+    - key: '84'
+      en: p. 84
+      de: S. 84
+    - key: '85'
+      en: p. 85
+      de: S. 85
+    - key: '86'
+      en: p. 86
+      de: S. 86
+    - key: '87'
+      en: p. 87
+      de: S. 87
+    - key: '91'
+      en: p. 91
+      de: S. 91
+    - key: '98'
+      en: p. 98
+      de: S. 98
+    - key: '110'
+      en: p. 110
+      de: S. 110
+    - key: '113'
+      en: p. 113
+      de: S. 113
+    - key: '115'
+      en: p. 115
+      de: S. 115
+    - key: '116'
+      en: p. 116
+      de: S. 116
+    - key: '117'
+      en: p. 117
+      de: S. 117
+    - key: '120'
+      en: p. 120
+      de: S. 120
+    - key: '121'
+      en: p. 121
+      de: S. 121
+    - key: '125'
+      en: p. 125
+      de: S. 125
+    - key: '129'
+      en: p. 129
+      de: S. 129
+    - key: '133'
+      en: p. 133
+      de: S. 133
+    - key: '140'
+      en: p. 140
+      de: S. 140
+    - key: '148'
+      en: p. 148
+      de: S. 148
+    - key: '152'
+      en: p. 152
+      de: S. 152
+    - key: '154'
+      en: p. 154
+      de: S. 154
+  - work: mielewczyk2017
+    cite: Mielewczyk (2017)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '54'
+      en: p. 54
+      de: S. 54
+    - key: '55'
+      en: p. 55
+      de: S. 55
   rzgow:
   - work: kneifel1937
     cite: Kneifel (1937)
@@ -4411,6 +4745,15 @@ place:
     - key: front
       en: Before the first page
       de: Vor der ersten Seite
+  - work: tekidworzaczka
+    cite: Teki Dworzaczka
+    pages:
+    - key: c02
+      en: Nr. 1420 (1642)
+      de: Nr. 1420 (1642)
+    - key: c03
+      en: Nr. 1425 (1663)
+      de: Nr. 1425 (1663)
   wieniec:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)

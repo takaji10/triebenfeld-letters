@@ -55540,6 +55540,96 @@
   "context": "150. Fragmenty polskiej mapy sztabowej pas 41 słup 26 Kalisz, Wojskowy Instytut Geograficzny, z roku 1936, skala 1:100000"
  },
  {
+  "kind": "person",
+  "entity": "trampczynski",
+  "display": "Trąmpczyński (Otto-Trąmpczyński)",
+  "surface": "Trąmpczyński",
+  "work": "tekidworzaczka",
+  "passage": "c01",
+  "line": 2,
+  "context": "sw.35437 Teki Dworzaczka, Regesty: Księgi grodzkie pyzdrskie, cz. 1: 2152 (Nr 137) 1614: Stanisł. Trąmpczyński, s. o. Wojc. Otha Tr., Janowi Słoneckiemu s. o. Marcina, daje zobow. iż po zaślub. Anny Sł. c. jego z Elżbiety Chwalibowskiej, ol. Stanisł. Chw. podstolego kalis. córki, zrodzonej, na 1/2 dóbr zapewni jej 7.000 zł. pos. i t. w. (f. 255)"
+ },
+ {
+  "kind": "person",
+  "entity": "trampczynski",
+  "display": "Trąmpczyński (Otto-Trąmpczyński)",
+  "surface": "Trąmpczyński",
+  "work": "tekidworzaczka",
+  "passage": "c02",
+  "line": 4,
+  "context": "Stanisł. Otta Trąmpczyński wsie: Trąmpczyn, Nowawieś, Łazy, Ossiny p. kon. Maciejowi Debrzyńskiemu, s. o. Wojc. D. za 20.000 złp. wyd. (f. 1174) Anna z Słonczyc ż. zezn."
+ },
+ {
+  "kind": "place",
+  "entity": "nowawies-trabczyn",
+  "display": "Nowawies",
+  "surface": "Nowawieś",
+  "work": "tekidworzaczka",
+  "passage": "c02",
+  "line": 4,
+  "context": "Stanisł. Otta Trąmpczyński wsie: Trąmpczyn, Nowawieś, Łazy, Ossiny p. kon. Maciejowi Debrzyńskiemu, s. o. Wojc. D. za 20.000 złp. wyd. (f. 1174) Anna z Słonczyc ż. zezn."
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąmpczyn",
+  "work": "tekidworzaczka",
+  "passage": "c02",
+  "line": 4,
+  "context": "Stanisł. Otta Trąmpczyński wsie: Trąmpczyn, Nowawieś, Łazy, Ossiny p. kon. Maciejowi Debrzyńskiemu, s. o. Wojc. D. za 20.000 złp. wyd. (f. 1174) Anna z Słonczyc ż. zezn."
+ },
+ {
+  "kind": "person",
+  "entity": "trampczynski",
+  "display": "Trąmpczyński (Otto-Trąmpczyński)",
+  "surface": "Trąmpczyńskiego",
+  "work": "tekidworzaczka",
+  "passage": "c03",
+  "line": 4,
+  "context": "Anna Bojanowska, c. o. Mikoł., ż. Władysława Trąmpczyńskiego w tow. Stefana i Samuela bci swych stryj. BB., Baworówko p. pozn. sprzed. za 15. 000 złp. Krzysztofowi Kierskiemu (f. 83) a Wład. T. zap. jej pos. na 1/2 d. Trąmpczyn, Łazy, Osiny i mł. Drzazgi w woj. kalis. w s. 15. 000 złp. (f. 86)"
+ },
+ {
+  "kind": "place",
+  "entity": "osiny",
+  "display": "Osiny",
+  "surface": "Osiny",
+  "work": "tekidworzaczka",
+  "passage": "c03",
+  "line": 4,
+  "context": "Anna Bojanowska, c. o. Mikoł., ż. Władysława Trąmpczyńskiego w tow. Stefana i Samuela bci swych stryj. BB., Baworówko p. pozn. sprzed. za 15. 000 złp. Krzysztofowi Kierskiemu (f. 83) a Wład. T. zap. jej pos. na 1/2 d. Trąmpczyn, Łazy, Osiny i mł. Drzazgi w woj. kalis. w s. 15. 000 złp. (f. 86)"
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąmpczyn",
+  "work": "tekidworzaczka",
+  "passage": "c03",
+  "line": 4,
+  "context": "Anna Bojanowska, c. o. Mikoł., ż. Władysława Trąmpczyńskiego w tow. Stefana i Samuela bci swych stryj. BB., Baworówko p. pozn. sprzed. za 15. 000 złp. Krzysztofowi Kierskiemu (f. 83) a Wład. T. zap. jej pos. na 1/2 d. Trąmpczyn, Łazy, Osiny i mł. Drzazgi w woj. kalis. w s. 15. 000 złp. (f. 86)"
+ },
+ {
+  "kind": "person",
+  "entity": "trampczynski",
+  "display": "Trąmpczyński (Otto-Trąmpczyński)",
+  "surface": "Trąmpczyński",
+  "work": "tekidworzaczka",
+  "passage": "c04",
+  "line": 4,
+  "context": "Jan Trąmpczyński, s. o. Władysława Tr., na 1/2 dóbr ż. Teresie Prusimskiej, c. Jana z Kolna Br. z ol. Teresy Gajewskiej zap. 6. 000 złp. pos. i t. w. (f. 73)"
+ },
+ {
+  "kind": "place",
+  "entity": "kolno",
+  "display": "Kolno (Kulm)",
+  "surface": "Kolna",
+  "work": "tekidworzaczka",
+  "passage": "c04",
+  "line": 4,
+  "context": "Jan Trąmpczyński, s. o. Władysława Tr., na 1/2 dóbr ż. Teresie Prusimskiej, c. Jana z Kolna Br. z ol. Teresy Gajewskiej zap. 6. 000 złp. pos. i t. w. (f. 73)"
+ },
+ {
   "kind": "place",
   "entity": "berlin",
   "display": "Berlin",

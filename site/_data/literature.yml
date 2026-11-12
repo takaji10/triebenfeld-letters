@@ -217,6 +217,29 @@
   title_en_card: null
   thumb: null
   pages: 12
+- slug: tekidworzaczka
+  kind: reference
+  title: Teki Dworzaczka. Materiały historyczno-genealogiczne do dziejów szlachty wielkopolskiej XV–XX wieku
+  title_en: 'The Dworzaczek files: historical and genealogical materials for the history of the nobility of Greater Poland, 15th–20th centuries'
+  cite: Teki Dworzaczka
+  author: Włodzimierz Dworzaczek
+  author_sort: Dworzaczek, Włodzimierz
+  published: 'Biblioteka Kórnicka PAN, the online edition: the regests of the castellany and land court books of Pyzdry and Poznań named here, as consulted in 2026'
+  year: 2026
+  language: pl
+  english_by: Claude
+  scan: ''
+  note_en: ''
+  note_de: ''
+  account_en: 'Włodzimierz Dworzaczek''s files are a card index of short abstracts (regests) of the court books of Greater Poland, made for the genealogy of its nobility and published by the Kórnik Library. Each regest gives the date, the parties, the transaction and the leaf of the court book, in a heavily abbreviated Polish. These four concern the Trąmpczyński family, who held Trąbczyn until 1698: Stanisław''s promise of a dowry to his bride Anna Słonecka (1614), his conveyance of Trąbczyn, Nowa Wieś, Łazy and Osiny to Maciej Debrzyński (1642), the dowry of Władysław Trąmpczyński''s wife Anna Bojanowska (1663), and the dowry of their son Jan''s wife Teresa Prusimska (1692), whose father bought Trąbczyn six years later. A regest is an abstract, not the record: the court books themselves decide.'
+  account_de: 'Włodzimierz Dworzaczeks Mappen sind eine Kartei kurzer Auszüge (Regesten) aus den Gerichtsbüchern Großpolens, angelegt für die Genealogie seines Adels und von der Bibliothek Kórnik herausgegeben. Jedes Regest nennt Datum, Parteien, Geschäft und Blatt des Gerichtsbuchs, in einem stark abgekürzten Polnisch. Diese vier betreffen die Familie Trąmpczyński, der Trąbczyn bis 1698 gehörte: Stanisławs Versprechen einer Mitgift an seine Braut Anna Słonecka (1614), seine Übertragung von Trąbczyn, Nowa Wieś, Łazy und Osiny an Maciej Debrzyński (1642), die Mitgift von Anna Bojanowska, der Frau Władysław Trąmpczyńskis (1663), und die Mitgift von Teresa Prusimska, der Frau ihres Sohnes Jan (1692), deren Vater Trąbczyn sechs Jahre später kaufte. Ein Regest ist ein Auszug, nicht die Aufzeichnung selbst: es entscheiden die Gerichtsbücher.'
+  brief_en: Four regests of the Greater Poland court books on the Trąmpczyński family of Trąbczyn, 1614–1692.
+  brief_de: Vier Regesten der großpolnischen Gerichtsbücher zur Familie Trąmpczyński auf Trąbczyn, 1614–1692.
+  published_card: Biblioteka Kórnicka PAN, online edition; four regests
+  title_card: null
+  title_en_card: null
+  thumb: null
+  pages: 0
 - slug: frost2007
   kind: article
   title: The Nobility of Poland–Lithuania, 1569–1795

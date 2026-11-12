@@ -58,20 +58,29 @@ needed.
 
 ## Against the documents (the documents first)
 
-- **The descent fits the decree of 1644.** The database's grandchildren
-  Władysław and Andrzej and Anna (and a second Władysław, and the second
-  Wojciech) are of the generation of the decree's brothers Marcin,
-  Wojciech, Władysław and Andrzej, "sons of the late Stanisław", and
-  their widow Anna of Słończyce; the database's Stanisław's wife is
-  **Anna Słonecka of Słończyce** - the same settlement. The page's
-  Stanisław is the decree's late father. The database's marriage
-  generation fits the documents' one.
+- **The descent fits the decree of 1644** (corrected 2026-11-12). The
+  page's generations are Wojciech; his son Stanisław; Stanisław's
+  children Władysław, the second Wojciech and Maria; and Władysław's
+  children Andrzej, Anna and the second Władysław. Władysław and
+  Wojciech are two of the decree's brothers Marcin, Wojciech, Władysław
+  and Andrzej, "sons of the late Stanisław", with the widow Anna of
+  Słończyce; the database's Stanisław's wife is **Anna Słonecka of
+  Słończyce** - the same settlement. The page's Stanisław is the decree's
+  late father. (Until 2026-11-12 this note put Andrzej, Anna and the
+  second Władysław in the brothers' generation, a generation too high,
+  and the person page said the second Wojciech's marriage "carried the
+  line to the brothers": he is one of them.)
 - **The regest of 1614** (the Uwagi; Teki Dworzaczka, Księgi grodzkie
-  pyzdrskie, cz. 1, nr 2152, Nr 137): Stanisław Trąmpczyński, son of
-  Wojciech Otha Trąmpczyński, promises Jan Słonecki, son of Marcin, that
-  after the wedding of Anna Słonecka (daughter of the late Stanisław
-  Słonecki, cup-bearer of Kalisz, by Elżbieta Chwalibowska) he will
-  secure her 7,000 zł on half the estates (fol. 255). This is the record
+  pyzdrskie, cz. 1, nr 2152, Nr 137; now also passage c01 of
+  `literature/tekidworzaczka`): Stanisław Trąmpczyński, son of Wojciech
+  Otha Trąmpczyński, promises Jan Słonecki, son of Marcin, that after
+  the wedding of Anna Słonecka, Jan's daughter by Elżbieta Chwalibowska,
+  herself the daughter of the late Stanisław Chwalibowski, pantler
+  (podstoli) of Kalisz, he will secure her 7,000 zł of dowry and as much
+  of dower on half the estates (fol. 255). (Corrected 2026-11-12: this
+  note had made Anna the daughter of "the late Stanisław Słonecki,
+  cup-bearer of Kalisz"; "ol. Stanisł. Chw." is Chwalibowski, Elżbieta's
+  father, and a podstoli is a pantler.) This is the record
   behind the marriage the page dates about 1590 - and it names **the
   subject** ("s. o. Wojc. Otha Tr."), so the database's person came from
   it. The register (Pyzdry court books) is not one the edition holds;
