@@ -52,6 +52,8 @@ herrschaftlichen Landes — vier Morgen die meisten Höfe, sechs Morgen sieben v
 Vermessung von 1896 maß den ganzen Anteil und das Land jeder Stelle
 ([die Erklärung]({{ '/documents/apl399806603/6/' | relative_url }})).
 
+Die Gemeinde Zagórów berichtet in denselben Jahren. 1882 beantwortete ihr Pastor E. Erdmann die jährlichen Fragen des Warschauer Konsistoriums für die Gemeinde und für ihr Filial in Pyzdry: eine gemauerte Kirche, der noch Taufstein, Orgel und Glocken fehlen, acht Schulen mit etwa 240 Kindern, acht Friedhöfe und 1.597 Kommunikanten ([der Bericht über die Gemeinde]({{ '/documents/agad14320139/1/' | relative_url }})); in Pyzdry keine eigene Kirche, fünf Schulen mit etwa 120 Kindern und 734 Kommunikanten ([der Bericht über das Filial]({{ '/documents/agad14320139/2/' | relative_url }})). Die Blätter kamen verbrannt an den Rändern aus einem Brand.
+
 Der Historiker Albert Breyer kopierte diese Tabellen in den 1930er Jahren, als die
 Siedlungen noch da waren, um sie zu besuchen; seine Abschriften stehen bei dieser Epoche,
 und seine Besuche bei der nächsten.

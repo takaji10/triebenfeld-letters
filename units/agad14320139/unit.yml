@@ -9,12 +9,12 @@ archive: Archiwum Główne Akt Dawnych, Warszawa (AGAD)
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
   The annual reports for 1882 of Pastor E. Erdmann to the Warsaw consistory on
-  the Evangelical parish of Zagórów and on the filial Lissewo-Pyzdry: their
+  the Evangelical parish of Zagórów and on its filial Lissewo-Pyzdry: their
   church buildings, schools, cemeteries, communicants, confirmands and
   collections, in leaves burnt at the edges.
 title_de: >-
   Die Jahresberichte des Pastors E. Erdmann für 1882 an das Warschauer
-  Konsistorium über die evangelische Gemeinde Zagórów und das Filial
+  Konsistorium über die evangelische Gemeinde Zagórów und ihr Filial
   Lissewo-Pyzdry: Kirchengebäude, Schulen, Friedhöfe, Kommunikanten,
   Konfirmanden und Kollekten, auf an den Rändern verbrannten Blättern.
 # The archive's title of the file, as the editor gave it (2026-11-11), the
@@ -75,7 +75,7 @@ description: >-
   out by its order of 30 October, No. 267, with questions on church buildings,
   worship and communion, schools, missions, poor relief, morals, sects,
   remarkable events, confirmands, candidates and collections. Document 1 is
-  the report on the parish of Zagórów, document 2 the report on the filial
+  the report on the parish of Zagórów, document 2 the report on its filial
   Lissewo-Pyzdry. The leaves were rescued from a fire and are burnt at the
   edges: on the first page of each report the ends of the lines are lost, on
   the second the beginnings, and the lost stretches are marked [...].
@@ -96,10 +96,13 @@ translation_note: >-
 prepared:
   transcription:
   - t-claude-scans
-  - en: A second Claude reading compared every line with the scans; where the two readings differed and the page did not decide, the word stays marked as doubtful. A stretch of text lost to the burn is marked [...] and is never completed in the transcription. For some of those stretches the page shows proposed wording, Claude's, kept apart from the text and based on the other report of the same year, on a word's visible beginning and ending, or on the consistory's form.
-    de: Eine zweite Lesung von Claude verglich jede Zeile mit den Scans; wo die beiden Lesungen abwichen und die Seite nicht entschied, bleibt das Wort als zweifelhaft markiert. Eine durch den Brand verlorene Textstelle ist mit [...] markiert und wird in der Transkription nie ergänzt. Für einige dieser Stellen zeigt die Seite einen vorgeschlagenen Wortlaut von Claude, getrennt vom Text und gestützt auf den anderen Bericht desselben Jahres, auf den sichtbaren Anfang und Schluss eines Wortes oder auf das Formular des Konsistoriums.
+  - en: A second Claude reading compared every line with the scans; where the two readings differed and the page did not decide, the word stays marked as doubtful. A stretch of text lost to the burn is marked [...] and is never completed.
+    de: Eine zweite Lesung von Claude verglich jede Zeile mit den Scans; wo die beiden Lesungen abwichen und die Seite nicht entschied, bleibt das Wort als zweifelhaft markiert. Eine durch den Brand verlorene Textstelle ist mit [...] markiert und wird nie ergänzt.
   translation:
   - l-claude
   - l-auto-check
   - s-claude
+# The proposed-wording panel (supplied.yml) stays off the site (the editor, 2026-11-12:
+# one transcription, one reading, one translation).
+show_supplied: false
 status: translated         # draft | transcribed | translated | published

@@ -107,3 +107,26 @@ Everything else the second reader marked "doubtful" stays doubtful in the text.
   build_site_data, person_pages, place_pages, then jekyll and verify_site).
 - The scans are in `C:\Users\Tersnaus\Downloads\AGAD_1_432_0_1_139\processed`
   (the unit's `raw_dir`), not in the repository.
+
+## The editor's answers (spot sheet, 2026-11-12) and what was applied
+
+Answers in `review/agad14320139/spot_answers.json` (not tracked; script
+`intake/spot_sheet1.py`). **Confirmed and applied:** "nicht" (0322_a l. 2),
+726 (0318_a l. 30), 734 (0322_b l. 27), "werden" (0318_a l. 28, 0322_b l. 22),
+"Religi" (0322_b l. 16), "Kreuzen", "fo" (0318_a l. 10; l. 8's "[Ho?]" stays,
+the sheet asked about both and the answer came for the pair), "Pastor" is
+legible on 0345_a ll. 5-6 (text now "[...] Pastor-Administrator", "[...] Pastor
+Manitius"), "unbewußt", "häusliche", "fast", "bei den Mis-...diensten",
+"gegen über" as two words. **Still doubtful (can't tell):** "[Verlangen?]"
+(0322_a l. 1) and the stroke before "4 Rubel 61" (0322_a l. 18); Manitius one
+man or two. **Note on 0322_b l. 22:** the editor writes that "Kantor" is
+"Kantorat": the B supply "en" for "Kantor[...]" was dropped. **Decisions:**
+the filial is the Zagórów parish's (Kneifel 1964, p. 123 also lists "Zagörow
+mit dem Filial Lissewo-Pyzdry" in the Kalisch diocese, and Boerner as
+superintendent of the Płock diocese); era `wlodzimierz` kept (its span, 1858 to
+1897, covers 1882); no more scans exist; **the supplied-text layer stays off
+the site** ("a single transcription version, a single reading version, a single
+translated version"): `show_supplied: false` in unit.yml, `supplied.yml` kept
+as data (44 A/B rows after the answers). The index (Erdmann, Manitius, Boerner:
+`only_in` these two documents), the timeline event of 1882 and a paragraph in
+the era essay (both languages) were added the same day.

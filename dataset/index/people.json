@@ -73900,6 +73900,93 @@
   ]
  },
  {
+  "entity": "manitius",
+  "display": "Superintendent Pastor Manitius",
+  "count": 2,
+  "documents": [
+   "agad14320139-1",
+   "agad14320139-2"
+  ],
+  "mentions": [
+   {
+    "uid": "agad14320139-1",
+    "surface": "Manitius",
+    "page": 2,
+    "page_id": "0322_a",
+    "scan": "AGAD_1_432_0_1_139_0322_a-L1_02.jpg",
+    "line": 39,
+    "doc_line": 36
+   },
+   {
+    "uid": "agad14320139-2",
+    "surface": "Manitius",
+    "page": 2,
+    "page_id": "0345_a",
+    "scan": "AGAD_1_432_0_1_139_0345_a-L2_02.jpg",
+    "line": 96,
+    "doc_line": 36
+   }
+  ]
+ },
+ {
+  "entity": "boerner",
+  "display": "Superintendent von Boerner",
+  "count": 2,
+  "documents": [
+   "agad14320139-1",
+   "agad14320139-2"
+  ],
+  "mentions": [
+   {
+    "uid": "agad14320139-1",
+    "surface": "Boerner",
+    "page": 2,
+    "page_id": "0322_a",
+    "scan": "AGAD_1_432_0_1_139_0322_a-L1_02.jpg",
+    "line": 54,
+    "doc_line": 51
+   },
+   {
+    "uid": "agad14320139-2",
+    "surface": "Boerner",
+    "page": 2,
+    "page_id": "0345_a",
+    "scan": "AGAD_1_432_0_1_139_0345_a-L2_02.jpg",
+    "line": 111,
+    "doc_line": 51
+   }
+  ]
+ },
+ {
+  "entity": "erdmann",
+  "display": "Pastor E. Erdmann",
+  "count": 2,
+  "documents": [
+   "agad14320139-1",
+   "agad14320139-2"
+  ],
+  "mentions": [
+   {
+    "uid": "agad14320139-1",
+    "surface": "Erdmann",
+    "page": 2,
+    "page_id": "0322_a",
+    "scan": "AGAD_1_432_0_1_139_0322_a-L1_02.jpg",
+    "line": 56,
+    "doc_line": 53
+   },
+   {
+    "uid": "agad14320139-2",
+    "surface": "Erdmann",
+    "page": 2,
+    "page_id": "0345_a",
+    "scan": "AGAD_1_432_0_1_139_0345_a-L2_02.jpg",
+    "line": 112,
+    "doc_line": 52
+   }
+  ]
+ },
+ {
   "entity": "meyer-franz",
   "display": "Franz Meyer",
   "count": 2,

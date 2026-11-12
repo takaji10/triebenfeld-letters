@@ -403,6 +403,30 @@ people:
     match: "H[oö]ym"
     tier: "Book-adjacent (via Marianne's family), individual identity externally plausible but not fully pinned"
     variants: []
+  erdmann:
+    display: "Pastor E. Erdmann"
+    match: "Erdmann"
+    # Only the two reports of 1882: Breyer's list of surnames
+    # (APP 53/968/0/-/545) has another Erdmann.
+    only_in: [agad14320139-1, agad14320139-2]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "E. Erdmann, Pastor-Administrator of the Evangelical-Augsburg parish of Zagórów, who signs the two annual reports of 1882 (AGAD 1/432/0/1/139). His first name is not in the documents."
+  manitius:
+    display: "Superintendent Pastor Manitius"
+    match: "Manitius"
+    only_in: [agad14320139-1, agad14320139-2]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The Superintendent Pastor Manitius at Warsaw to whom the mission collections of Zagórów and Pyzdry were sent in 1882 (AGAD 1/432/0/1/139). Whether he is the Pastor 'Sig. Manitius' who signs the report of Konstantynów in the same file is not settled."
+  boerner:
+    display: "Superintendent von Boerner"
+    match: "Boerner"
+    # Breyer's notebook (APP 53/968/0/-/545) names a Boerner at Zduńska Wola.
+    only_in: [agad14320139-1, agad14320139-2]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The Superintendent von Boerner, at Płock, to whom the collections for the widows' and orphans' fund were sent in 1882 (AGAD 1/432/0/1/139). Kneifel (1964, p. 123) names Ignatius Karl Wilhelm Boerner as superintendent of the Płock diocese; whether it is he in 1882 is not stated in these pages."
   humboldt:
     display: "Wilhelm von Humboldt"
     match: "Humboldt"

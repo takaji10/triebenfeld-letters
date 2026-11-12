@@ -3795,3 +3795,9 @@ styling**, and in any include use `include.<name>` for every parameter.
   hours with no output; `TaskStop` it and start it again.
 - **A "missing icon" is checked in the built HTML first**: the Sources icons
   were empty `<svg>`s because an include reads `include.kind`, not `kind`.
+
+- **A re-import and a rerun of `resolve_linebreaks.py` re-derive the
+  line-break decisions**, undoing a hand ruling (the burnt-edge `split`):
+  re-apply it after every corpus change, then `build_db.py`.
+- **A layer the editor rules off the site stays as data** behind a unit flag
+  (`show_supplied`), not deleted: the plan and `supplied.yml` remain.

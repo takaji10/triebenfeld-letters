@@ -1570,3 +1570,7 @@ transcription; 108 readings settled in session before the first build
       wanted, the era essay; German review by a German reader is still open.
 - [ ] More scans of file 139 (other parishes' reports) would help the
       readings: the plan's section 4, no. 2.
+
+- [x] 2026-11-12: the spot sheet answered and applied; the index, the timeline
+      event of 1882 and the era paragraph added (agad14320139). Open: the
+      remaining readings (NEEDS_CONFIRMATION); a German reader's review.

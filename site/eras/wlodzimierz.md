@@ -48,6 +48,8 @@ four Morgen to most farmsteads, six to seven of them
 of 1896 measured the whole allotment and each farmstead's share
 ([the statement]({{ '/documents/apl399806603/6/' | relative_url }})).
 
+The parish of Zagórów reports in the same years. In 1882 its pastor, E. Erdmann, answered the Warsaw consistory's yearly questions for the parish and for its filial at Pyzdry: a brick church still without font, organ and bells, eight schools with about 240 children, eight cemeteries and 1,597 communicants ([the report on the parish]({{ '/documents/agad14320139/1/' | relative_url }})); at Pyzdry no church of its own, five schools with about 120 children and 734 communicants ([the report on the filial]({{ '/documents/agad14320139/2/' | relative_url }})). The leaves came out of a fire burnt at the edges.
+
 The historian Albert Breyer copied these tables in the 1930s, when the settlements were
 still there to be visited; his copies stand with this era, and his visits with the next.
 

@@ -128,9 +128,10 @@ so check them.
   and never completed in the text. **New: the supplied-text layer** (the
   editor's yes, 2026-11-11): `units/<slug>/supplied.yml`, a collapsed panel
   under a page's text for proposed wording graded A or B (docs/CONSISTORY_1882_PLAN.md);
-  never in the transcription, translation or summaries. Translated and
-  summarised in session. Open: the editor's readings (NEEDS_CONFIRMATION),
-  the claim check's fixes, the index. Read `units/agad14320139/notes.md`
+  never in the transcription, translation or summaries - **ruled off the site
+  2026-11-12** (`show_supplied: false` in the unit.yml; the data stays). Translated and
+  summarised in session. Spot sheet answered and applied 2026-11-12; index, timeline event and era
+  paragraph added. Open: four readings (NEEDS_CONFIRMATION). Read `units/agad14320139/notes.md`
   first, and WORKING_NOTES, "The 1882 consistory reports". The Sources page
   icons fix (`include.kind`) is in the same uncommitted working copy.
 

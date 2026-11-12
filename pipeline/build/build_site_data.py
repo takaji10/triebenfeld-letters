@@ -352,7 +352,12 @@ def supplied_html(unit, p):
         import yaml
         path = os.path.join(ROOT, 'units', unit, 'supplied.yml')
         data = {}
-        if os.path.isfile(path):
+        # Shown only where the unit says so (`show_supplied: true` in its
+        # unit.yml): the editor ruled 2026-11-12 that the layer stays off the
+        # site for now, one transcription, one reading, one translation.
+        with open(os.path.join(ROOT, 'units', unit, 'unit.yml'), encoding='utf-8') as f:
+            _show = (yaml.safe_load(f) or {}).get('show_supplied')
+        if _show and os.path.isfile(path):
             with open(path, encoding='utf-8') as f:
                 data = (yaml.safe_load(f) or {}).get('pages') or {}
         _SUPPLIED[unit] = data

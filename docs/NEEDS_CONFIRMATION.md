@@ -1920,3 +1920,9 @@ to (Kneifel, Werner). The editor's ruling on the supplied-text layer
 (docs/CONSISTORY_1882_PLAN.md): given, 2026-11-11 ("Yes, that layer"), for
 grades A and B only; whether the layer should also show on the German page's
 text view is not asked.
+
+Settled 2026-11-12 (the spot sheet): see `units/agad14320139/notes.md`, "The
+editor's answers". Still open: "[Verlangen?]" (0322_a l. 1), the stroke before
+"4 Rubel 61" (0322_a l. 18), 0318_a l. 8's "[Ho?]", "Kantor"/"Kantorat" in
+0322_b l. 22, and whether the Warsaw Superintendent Manitius is the pastor of
+Konstantynów. The supplied-text layer is ruled off the site for now.

@@ -21,6 +21,11 @@ pages:
     grade: B
     witness_en: The twin (Pyzdry, page 1, line 5) has "Pastor-Administrator" whole; the rest of the line stays lost.
     witness_de: Der Paralleltext (Pyzdry, Seite 1, Zeile 5) hat "Pastor-Administrator" ganz; der Rest der Zeile bleibt verloren.
+  - line: 10
+    supply: lgen-
+    grade: B
+    witness_en: 'The editor read "fo" (2026-11-12); line 11 begins "den", and the other report has "folge[...]" at the same place: "folgen-/den".'
+    witness_de: 'Der Herausgeber las „fo“ (12.11.2026); Zeile 11 beginnt mit „den“, und der andere Bericht hat an derselben Stelle „folge[...]“: „folgen-/den“.'
   - line: 11
     supply: tref-
     grade: B
@@ -123,6 +128,11 @@ pages:
     grade: B
     witness_en: The Zagórów report has "vorzustel-" in the same sentence (page 1, line 12).
     witness_de: Der Bericht von Zagórów hat "vorzustel-" im selben Satz (Seite 1, Zeile 12).
+  - line: 16
+    supply: ons-
+    grade: B
+    witness_en: The editor confirmed the reading "Religi" (2026-11-12); the Zagórów report has "Religions-Schule" in the same place, and the line goes on "Schulen verbunden mit Bethäusern".
+    witness_de: Der Herausgeber bestätigte die Lesung „Religi“ (12.11.2026); der Zagórówer Bericht hat an derselben Stelle „Religions-Schule“, und die Zeile geht weiter mit „Schulen verbunden mit Bethäusern“.
   - line: 17
     supply: nde
     grade: B
@@ -133,11 +143,6 @@ pages:
     grade: B
     witness_en: 'Line 22 begins "digend": the word is "befriedigend", whole on Zagórów page 1, line 28.'
     witness_de: 'Zeile 22 beginnt mit "digend": das Wort ist "befriedigend", ganz auf Seite 1 von Zagórów, Zeile 28.'
-  - line: 22
-    supply: en
-    grade: B
-    witness_en: The word is "Kantoren", whole on line 24 of this page ("von den Kantoren").
-    witness_de: Das Wort ist "Kantoren", ganz in Zeile 24 derselben Seite ("von den Kantoren").
   - line: 23
     supply: ner
     grade: B
@@ -171,12 +176,12 @@ pages:
     witness_en: The Zagórów report has "den Missions-Gottesdiensten" whole (page 2, line 4); line 3 here ends "bei den Mis-".
     witness_de: Der Bericht von Zagórów hat "den Missions-Gottesdiensten" ganz (Seite 2, Zeile 4); Zeile 3 hier endet mit "bei den Mis-".
   - line: 5
-    supply: welche der Pa
+    supply: welche der
     grade: A
     witness_en: 'The Zagórów report has the same clause whole (page 2, line 5: "worden, welche der Pastor-Administrator an den").'
     witness_de: 'Der Bericht von Zagórów hat denselben Satz ganz (Seite 2, Zeile 5: "worden, welche der Pastor-Administrator an den").'
   - line: 6
-    supply: ten Pa
+    supply: ten
     grade: A
     witness_en: The Zagórów report has "Superintendenten Pastor Manitius" whole (page 2, line 6); line 5 here ends "Superintenden-".
     witness_de: Der Bericht von Zagórów hat "Superintendenten Pastor Manitius" ganz (Seite 2, Zeile 6); Zeile 5 hier endet mit "Superintenden-".

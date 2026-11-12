@@ -335,6 +335,18 @@
   bio_de: "Generalmajor von Blücher, dem 1796 durch dieselbe Order wie Hohenlohe-Ingelfingen die konfiszierten Güter Duninów verliehen wurden. Vermutlich Gebhard Leberecht von Blücher, der spätere Feldmarschall, dessen Lebensdaten hier stehen."
   span: "1796"
   letters: [{id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3570", n: 5}]
+- slug: "boerner"
+  name: "Superintendent von Boerner"
+  heading: "Boerner, Superintendent von"
+  heading_de: "Boerner, Superintendent von"
+  count: 2
+  docs: 2
+  life: "documented 1882"
+  life_de: "belegt 1882"
+  bio: "Superintendent von Boerner, at Płock, received the collections for the widows' and orphans' fund from Zagórów and Pyzdry in 1882. Kneifel names Ignatius Karl Wilhelm Boerner as superintendent of the Płock diocese; the identification is not made in the documents."
+  bio_de: "Superintendent von Boerner in Płock erhielt 1882 die Kollekten für die Witwen- und Waisenkasse aus Zagórów und Pyzdry. Kneifel nennt Ignatius Karl Wilhelm Boerner als Superintendenten der Plocker Diözese; die Gleichsetzung wird in den Dokumenten nicht vorgenommen."
+  span: "1882"
+  letters: [{id: "1", uid: "agad14320139-1", url: "/documents/agad14320139/1/", unit_label: "1/432/0/1/139, scans 128-130", n: 1}, {id: "2", uid: "agad14320139-2", url: "/documents/agad14320139/2/", unit_label: "1/432/0/1/139, scans 128-130", n: 1}]
 - slug: "boguslawski"
   name: "Bogusławski"
   heading: "Bogusławski"
@@ -731,6 +743,18 @@
   bio_de: "Christoph Erbet, Siedler im Trąbczyner Hauland, der am 31. März 1806 eine Hufe des Trąbczyner Forstes in Erbpacht nahm. Er unterzeichnete mit einem Kreuz."
   span: "1806"
   letters: [{id: "1", uid: "app5371057-1", url: "/documents/app5371057/1/", unit_label: "APP 53/71/0/-/57", n: 14}]
+- slug: "erdmann"
+  name: "Pastor E. Erdmann"
+  heading: "Erdmann, E., Pastor"
+  heading_de: "Erdmann, E., Pastor"
+  count: 2
+  docs: 2
+  life: "documented 1882"
+  life_de: "belegt 1882"
+  bio: "E. Erdmann, Pastor-Administrator of the Evangelical-Augsburg parish of Zagórów, wrote its annual report for 1882 and that of its filial Lissewo-Pyzdry to the Warsaw consistory. His first name is not in the documents."
+  bio_de: "E. Erdmann, Pastor-Administrator der evangelisch-augsburgischen Gemeinde Zagórów, schrieb deren Jahresbericht für 1882 und den ihres Filials Lissewo-Pyzdry an das Warschauer Konsistorium. Sein Vorname steht nicht in den Dokumenten."
+  span: "1882"
+  letters: [{id: "1", uid: "agad14320139-1", url: "/documents/agad14320139/1/", unit_label: "1/432/0/1/139, scans 128-130", n: 1}, {id: "2", uid: "agad14320139-2", url: "/documents/agad14320139/2/", unit_label: "1/432/0/1/139, scans 128-130", n: 1}]
 - slug: "eysenhardt"
   name: "Eysenhardt"
   heading: "Eysenhardt"
@@ -1899,6 +1923,18 @@
   bio_de: "Stanisław Małachowski, Präsident der Regierungskommission, der provisorischen polnischen Regierung, die Napoleon im Januar 1807 einsetzte. Der Beschluss der Kommission vom 21. Juli 1807, der die konfiszierten Güter der Prusimski an Michalina Dąbska zurückgab, erging unter seinem Namen, und ihre Bittschrift an den Kaiser war an ihn adressiert."
   span: "1807"
   letters: [{id: "1", uid: "agad1174016-1", url: "/documents/agad1174016/1/", unit_label: "AGAD 1/174/0/1/6", n: 1}, {id: "2", uid: "agad1174016-2", url: "/documents/agad1174016/2/", unit_label: "AGAD 1/174/0/1/6", n: 1}, {id: "1", uid: "agad11740273-1", url: "/documents/agad11740273/1/", unit_label: "AGAD 1/174/0/2/73", n: 1}, {id: "3", uid: "agad11740273-3", url: "/documents/agad11740273/3/", unit_label: "AGAD 1/174/0/2/73", n: 2}]
+- slug: "manitius"
+  name: "Superintendent Pastor Manitius"
+  heading: "Manitius, Superintendent Pastor"
+  heading_de: "Manitius, Superintendent Pastor"
+  count: 2
+  docs: 2
+  life: "documented 1882"
+  life_de: "belegt 1882"
+  bio: "Superintendent Pastor Manitius at Warsaw received the mission collections of the parishes of Zagórów and Pyzdry in 1882. Whether he is the Pastor Manitius of Konstantynów is not settled."
+  bio_de: "Superintendent Pastor Manitius in Warschau erhielt 1882 die Missionskollekten der Gemeinden Zagórów und Pyzdry. Ob er der Pastor Manitius von Konstantynów ist, ist nicht geklärt."
+  span: "1882"
+  letters: [{id: "1", uid: "agad14320139-1", url: "/documents/agad14320139/1/", unit_label: "1/432/0/1/139, scans 128-130", n: 1}, {id: "2", uid: "agad14320139-2", url: "/documents/agad14320139/2/", unit_label: "1/432/0/1/139, scans 128-130", n: 1}]
 - slug: "massenbach"
   name: "Massenbach"
   heading: "Massenbach, Christian von"
