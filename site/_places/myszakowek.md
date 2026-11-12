@@ -28,7 +28,7 @@ Village east of Łukom. According to Chodyła, Myszakówek was established as an
 [^51]: Ibid 70
     [The document.](/literature/chodyla2015/#p-70)
 
-[^52]: Nazwy miejscowe Polski, t. 7, p. 310
+[^52]: Nazwy miejscowe Polski, t. 7, p. 309
 
 </div>
 {% endraw %}

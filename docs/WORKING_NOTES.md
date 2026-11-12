@@ -3753,3 +3753,45 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   pipeline script's output actually landed (timestamps in the target repo)
   before believing its success line; export TRIEBENFELD_MAPS in every shell
   that runs tiles.py.
+## A Jekyll include reads its parameters as include.<name> (2026-11-11)
+
+The Sources page icons (`site/_includes/sources-icon.html`) rendered as empty
+`<svg></svg>` on the live site, on light and dark alike: the include tested a
+bare `kind`, which is empty inside a Jekyll include; the parameter passed as
+`kind="book"` is `include.kind`. A first fix on 2026-11-07 diagnosed it as a
+stroke-weight problem and changed nothing that mattered. **Check a "missing
+icon" against the built HTML (`<svg>` with no `<path>`) before touching the
+styling**, and in any include use `include.<name>` for every parameter.
+
+## The 1882 consistory reports: sub-agents and burnt text (2026-11-11)
+
+- **A sub-agent reading a figure can cut digits off it.** The Zagórów reader
+  wrote "72 / 87 / 159" for 726 / 871 / 1597 and noted that the last stroke
+  was "a comma". A second, independent reader (told to read before opening the
+  first reading) found it; arithmetic alone could not (72+87=159 also adds up).
+  Always have figures read twice, and check against the enlarged band yourself.
+- **Two readers, in this order**: first reader writes; second reads the pages
+  *before* opening the first reading, then compares. It caught 30 differences,
+  among them "kirchliche" for "häusliche" and a sentence that read "die ersten"
+  for "diensten".
+- **A builder hook must not emit blank lines.** `body.append(supplied_html(...))`
+  returned "" and added an empty line to all 631 letter pages. Guard with `if`.
+- **A line-end hyphen before a burnt edge must not be joined**
+  (`linebreak_decisions.csv`, `split`); paragraph breaks added by hand need
+  cue `hand` or `resolve_paragraphs.py` drops them on the next run.
+- **`pipeline/regenerate.py` stops at `check_pipeline.py`** (23 "names one
+  holding" problems in old review scripts, present at HEAD): run the steps
+  directly (resolve_linebreaks, resolve_paragraphs, build_db, match_scans
+  for the unit; then merge_corpus, build_dataset, connections_site,
+  build_site_data, person_pages, place_pages; jekyll; verify_site). After them,
+  the repository shows drift in generated files of other holdings (place
+  footnotes in `site/_places/`, the table English of apl399806603-6):
+  committed sources moved since those were last built; review before
+  committing them with this unit.
+- **A summary of a burnt text leaves out any statement whose negation, figure
+  or subject lies in a lost stretch** (the "vices" and "conversions" lines of
+  Zagórów, where "nicht" is lost).
+- **An agent can stall silently**: `ListAgents` showed one "running" after ten
+  hours with no output; `TaskStop` it and start it again.
+- **A "missing icon" is checked in the built HTML first**: the Sources icons
+  were empty `<svg>`s because an include reads `include.kind`, not `kind`.

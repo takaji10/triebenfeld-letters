@@ -338,6 +338,60 @@ def yaml_str(s):
     return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
 
 
+_SUPPLIED = {}
+
+
+def supplied_html(unit, p):
+    """The panel of proposed wording for the lost edges of one page ('' if none).
+
+    units/<unit>/supplied.yml: pages: {<page id>: [{line, supply, grade,
+    witness_en, witness_de, nth}]}. `line` counts from 1 on the page; `supply`
+    replaces the nth (default first) "[...]" of that line, in brackets.
+    """
+    if unit not in _SUPPLIED:
+        import yaml
+        path = os.path.join(ROOT, 'units', unit, 'supplied.yml')
+        data = {}
+        if os.path.isfile(path):
+            with open(path, encoding='utf-8') as f:
+                data = (yaml.safe_load(f) or {}).get('pages') or {}
+        _SUPPLIED[unit] = data
+    rows = _SUPPLIED[unit].get(p.get('page_id') or '')
+    if not rows:
+        return ''
+    lines = p.get('transcription', p['diplomatic']).split('\n')
+    out = ['<details class="supplied"><summary data-i18n="supplied_h">'
+           'Reconstruction of the lost edges (a proposal)</summary>',
+           '<p class="supplied-note" data-i18n="supplied_note">The transcription keeps '
+           'every burnt stretch as [...]. This panel offers wording for some of them, '
+           'each with what it rests on. It is Claude\'s proposal, not read from the '
+           'page, and is not used in the translation or the summaries.</p>',
+           '<table class="supplied-table"><thead><tr>'
+           '<th data-i18n="supplied_line">Line</th>'
+           '<th data-i18n="supplied_text">The line with the proposed words in brackets</th>'
+           '<th data-i18n="supplied_witness">Rests on</th>'
+           '<th data-i18n="supplied_grade">Grade</th></tr></thead><tbody>']
+    for row in sorted(rows, key=lambda x: x['line']):
+        text = lines[row['line'] - 1]
+        marks = [m for m in re.finditer(r'\[\.\.\.\]', text)]
+        k = int(row.get('nth', 1)) - 1
+        if k >= len(marks):
+            sys.exit(f'supplied.yml {unit}: {p.get("page_id")} line {row["line"]} '
+                     f'has no mark number {k + 1}: {text!r}')
+        m = marks[k]
+        shown = (html.escape(text[:m.start()]) + '<span class="sup">['
+                 + html.escape(row['supply']) + ']</span>' + html.escape(text[m.end():]))
+        g = row['grade']
+        out.append(
+            f'<tr><td>{p["doc_line_start"] + row["line"] - 1}</td><td>{shown}</td>'
+            f'<td data-en="{html.escape(row["witness_en"], quote=True)}" '
+            f'data-de="{html.escape(row.get("witness_de") or row["witness_en"], quote=True)}">'
+            f'{html.escape(row["witness_en"])}</td>'
+            f'<td data-i18n="supplied_grade_{g}">{g}</td></tr>')
+    out.append('</tbody></table></details>')
+    return '\n'.join(out)
+
+
 _CORR = None
 _CORR_MISSING = set()
 
@@ -712,6 +766,13 @@ def main():
             # view 3 - translation, filled in from _data/translations later
             body.append(f'<div class="text-view" data-view="translation" hidden '
                         f'data-seg="{p["page"]}"></div>')
+            # The reconstruction of the lost edges (units/<slug>/supplied.yml,
+            # docs/CONSISTORY_1882_PLAN.md): a collapsed panel under the text,
+            # present only on a page that has proposals. Never part of the
+            # transcription, the translation or the summaries.
+            _sup = supplied_html(r['unit'], p)
+            if _sup:
+                body.append(_sup)
             body.append('</div>')     # .pane-text
             body.append('</div>')     # .pane-pair
             body.append('</section>')

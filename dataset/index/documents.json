@@ -32249,6 +32249,99 @@
   "permalink": "/documents/app539680716/3/"
  },
  {
+  "uid": "agad14320139-1",
+  "unit": "agad14320139",
+  "letter_id": "1",
+  "doc_type": "report",
+  "language": "de",
+  "era": "wlodzimierz",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1882",
+  "date_precision": "year",
+  "date_source": "supplied",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 54,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0318_a",
+    "image": "AGAD_1_432_0_1_139_0318_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0322_a",
+    "image": "AGAD_1_432_0_1_139_0322_a-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 60,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 2,
+  "estates": [
+   "zagorowo"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 1",
+  "path": "documents/agad14320139-1.json",
+  "text_path": "text/agad14320139-1.txt",
+  "permalink": "/documents/agad14320139/1/"
+ },
+ {
+  "uid": "agad14320139-2",
+  "unit": "agad14320139",
+  "letter_id": "2",
+  "doc_type": "report",
+  "language": "de",
+  "era": "wlodzimierz",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1882",
+  "date_precision": "year",
+  "date_source": "supplied",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 54,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0322_b",
+    "image": "AGAD_1_432_0_1_139_0322_b-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0345_a",
+    "image": "AGAD_1_432_0_1_139_0345_a-L2_02.jpg"
+   }
+  ],
+  "uncertainty_count": 52,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 2,
+  "estates": [
+   "zagorowo",
+   "pyzdry"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 2",
+  "path": "documents/agad14320139-2.json",
+  "text_path": "text/agad14320139-2.txt",
+  "permalink": "/documents/agad14320139/2/"
+ },
+ {
   "uid": "apl399806603-3",
   "unit": "apl399806603",
   "letter_id": "3",

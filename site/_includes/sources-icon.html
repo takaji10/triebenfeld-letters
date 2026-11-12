@@ -3,7 +3,7 @@
   2026-11-06: "Add a vector icon beside each item in the Sources page that
   matches the item - Archival material gets a parchment, Newspapers gets a
   newspaper, Literature gets a book, Maps gets a map"). Include with
-  kind="parchment" | "newspaper" | "book" | "map". The idiom is the site's
+  kind="parchment" | "newspaper" | "book" | "map" (read inside as include.kind - a bare `kind` is empty in Jekyll, the 2026-11-07 bug: the SVGs rendered with no shapes at all). The idiom is the site's
   line-icon style (source-thumb.html): fill none, stroke currentColor,
   round caps and joins — stroke-width 1.6, heavier than source-thumb's 1.1
   because a hairline light-on-dark loses the apparent weight a dark-on-
@@ -12,16 +12,16 @@
   one currentColor icon adapts to both schemes — no light/dark pair).
   Geometry rendered and checked (scratch/maps_bulk/sources_icons_check.html,
   2026-11-06).
-{%- endcomment -%}<svg class="src-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">{%- if kind == 'parchment' -%}
+{%- endcomment -%}<svg class="src-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">{%- if include.kind == 'parchment' -%}
   {%- comment -%} a scroll: two rollers, the sheet between, two writing lines {%- endcomment -%}
   <path d="M6.5 3h11a1.5 1.5 0 0 1 0 3h-11a1.5 1.5 0 0 1 0-3z"/><path d="M6.5 16h11a1.5 1.5 0 0 1 0 3h-11a1.5 1.5 0 0 1 0-3z"/><path d="M7 6v10M17 6v10M10 9.5h4M10 12.5h4"/>
-{%- elsif kind == 'newspaper' -%}
+{%- elsif include.kind == 'newspaper' -%}
   {%- comment -%} a folded sheet: masthead line, two text lines {%- endcomment -%}
   <path d="M5 19h10a2 2 0 0 0 2-2V5.5H3v11.5A2 2 0 0 0 5 19z"/><path d="M6.5 9h8M6.5 12h8M6.5 15h5"/>
-{%- elsif kind == 'book' -%}
+{%- elsif include.kind == 'book' -%}
   {%- comment -%} an open book: two leaves from one spine {%- endcomment -%}
   <path d="M2 4h6a3.5 3.5 0 0 1 3.5 3.5V20a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a3.5 3.5 0 0 0-3.5 3.5V20a3 3 0 0 1 3-3H22z"/>
-{%- elsif kind == 'map' -%}
+{%- elsif include.kind == 'map' -%}
   {%- comment -%} a folded map: three panels zig-zagging {%- endcomment -%}
   <path d="M3 6l6-2.5 6 2.5 6-2.5V18l-6 2.5-6-2.5-6 2.5z"/><path d="M9 3.5V18M15 6v14.5"/>
 {%- endif -%}</svg>

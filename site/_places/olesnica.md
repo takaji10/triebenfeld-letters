@@ -25,7 +25,7 @@ Village east of Zagórów. First mentioned as *Oleszyno* in a 1261 document wher
 [^55]: Zakrzewski, vol. 1, No. 393
     [The document.](/documents/kdw/4/)
 
-[^56]: Nazwy miejscowe Polski, t. 8, p. 84
+[^56]: Nazwy miejscowe Polski, t. 8, p. 83
 
 </div>
 {% endraw %}

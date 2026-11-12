@@ -119,6 +119,21 @@ so check them.
 
 ## Where things stand (2026-11-01)
 
+- **AGAD 1/432/0/1/139, scans 128-130 - Pastor Erdmann's reports of 1882**
+  (slug `agad14320139`, added 2026-11-11, **not published**): two German
+  documents on burnt leaves of the Warsaw Evangelical-Augsburg consistory's
+  file - the annual reports of the parish of Zagórów and its filial
+  Lissewo-Pyzdry, era `wlodzimierz`. Transcribed by Opus sub-agents from the
+  images, a second independent reading, settled; every lost stretch is `[...]`
+  and never completed in the text. **New: the supplied-text layer** (the
+  editor's yes, 2026-11-11): `units/<slug>/supplied.yml`, a collapsed panel
+  under a page's text for proposed wording graded A or B (docs/CONSISTORY_1882_PLAN.md);
+  never in the transcription, translation or summaries. Translated and
+  summarised in session. Open: the editor's readings (NEEDS_CONFIRMATION),
+  the claim check's fixes, the index. Read `units/agad14320139/notes.md`
+  first, and WORKING_NOTES, "The 1882 consistory reports". The Sources page
+  icons fix (`include.kind`) is in the same uncommitted working copy.
+
 - **The literature's call-outs reworked, and the connections built**
   (branch `related-callouts`, 2026-11-01, **published at your word** — the two commits cherry-picked onto main, the Pełzucki map work beneath the branch left unpublished): the duplicated
   "In the documents" boxes rebuilt as per-passage notes ("Related"/"Bezüge")

@@ -30,7 +30,7 @@ Village east of Łukom. The name is an adjective for beech trees (*Buk*). Accord
 
 [^8]: Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w roku 1796," 125 (Image 251)
 
-[^9]: Nazwy miejscowe Polski, t. 1, p. 492
+[^9]: Nazwy miejscowe Polski, t. 1, p. 491
 
 </div>
 {% endraw %}

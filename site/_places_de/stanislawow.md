@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village west of Szetlewek. Named after Stanisław Miączyński (1780-1845), whose wife Michalina Prusimska (1778-1851) was owner of the Trąbczyn estate. Appeared as a folwark (Wreschen 1901); *Stanisławów* (Messtischblatt 1940). Nazwy miejscowe Polski records *Stanisławowo* (1847).[^1]
 
-[^1]: Nazwy miejscowe Polski, t. 15, p. 140
+[^1]: Nazwy miejscowe Polski, t. 15, p. 139
 
 </div>
 {% endraw %}

@@ -36,7 +36,7 @@ Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where
 
 [^31]: Słownik geograficzny, t. III, p. 276, sub 3
 
-[^32]: Nazwy miejscowe Polski, t. 3, p. 530
+[^32]: Nazwy miejscowe Polski, t. 3, p. 529
 
 </div>
 {% endraw %}

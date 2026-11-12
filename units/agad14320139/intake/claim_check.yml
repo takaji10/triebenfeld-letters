@@ -1,0 +1,260 @@
+# Claim check of the summaries of AGAD 1/432/0/1/139 (agad14320139-001, -002),
+# the EN and DE blocks of intake/write_summaries.py.
+# Claude, an independent Opus pass, 2026-11-12. Checked against the
+# transcriptions only (0318_a, 0322_a for document 1; 0322_b, 0345_a for
+# document 2); supplied.yml not used; the images 0318_a and 0322_a looked at
+# once, for the width of the burnt line ends and the mark before "4 Rubel".
+#
+# Result: document 1, 32 statements: 28 supported, 3 overstated, 1
+# unsupported; document 2, 37 statements: 33 supported, 2 overstated, 2
+# unsupported. The one error both summaries share: "an order of the
+# consistory" - the text reads "In Folge der Anordnung [Ho?][...] / würden
+# vom 30ten October", i.e. almost certainly "Ew. Hochwürden", the order of the
+# General Superintendent addressed (document 2's address line begins
+# "Hochwürden"); no surviving word names the consistory. Otherwise: the
+# "Küster[?]" of document 1 is doubtful and not flagged; document 1's
+# cemeteries "sind [...] in gutem Zustande" have a lost short word before
+# "in gutem" (it could be "alle" or a negation); "candidates of theology"
+# adds "of theology" (the text has only "Candidaten"); document 2's "other
+# sects" is "u. s. w." in the text; document 2's text nowhere names the
+# parish of Zagórow. The negations kept (document 2: no vices, no
+# conversions, the sects; document 1: the sects, the dwelling) stand on
+# legible "nicht"/"keine"; document 1's lost negations (vices, conversions)
+# are rightly left out. The German says the same as the English throughout
+# and needs the same five changes.
+doc1:
+  - statement: 'The report is Pastor E. Erdmann''s annual report.'
+    where: 0318_a line 12 (Jahresbericht); 0322_a lines 23-24 (E. Erdmann / Pastor)
+    verdict: supported
+  - statement: 'It is for 1882.'
+    where: not in the surviving text (the year after "30ten October" is lost, 0318_a line 9); the file's title (unit.yml) and rulings.yml give 1882
+    verdict: supported
+    note: 'Rests on the archive''s file title, not the document.'
+  - statement: 'It is on the Evangelical parish of Zagórow.'
+    where: 0318_a lines 6-7, 11 (gelisch-Augsburgischen ... Zagórow; die Parochie Zagórow)
+    verdict: supported
+  - statement: 'It is in German.'
+    where: the whole text
+    verdict: supported
+  - statement: 'It answers an order of the consistory of 30 October, No. 267.'
+    where: 0318_a lines 8-10 (In Folge der Anordnung [Ho?][...] / würden vom 30ten October [...] / №267)
+    verdict: unsupported
+    fix: 'answering an order of 30 October, No. 267 (whose order is partly lost; the surviving "...würden" points to the General Superintendent himself, "Ew. Hochwürden")'
+    fix_de: 'auf eine Anordnung vom 30. Oktober, Nr. 267'
+  - statement: 'It is addressed to the General Superintendent of the Warsaw Evangelical-Augsburg consistorial district.'
+    where: 0318_a lines 2-4
+    verdict: supported
+  - statement: 'The leaf is burnt; the ends of the lines on the first page and the beginnings on the second are lost.'
+    where: the pattern of [...] in 0318_a (line ends) and 0322_a (line beginnings)
+    verdict: supported
+  - statement: 'The congregation has a brick-built church.'
+    where: 0318_a lines 14-15 (besitzt eine gemauerte Kirche)
+    verdict: supported
+  - statement: 'The church still lacks a baptismal font, organ and bells.'
+    where: 0318_a lines 15-16 (zur völligen Einrichtung derselb[en?] [...] / len noch Taufstein, Orgel und Glocken)
+    verdict: supported
+    note: 'The verb is "[...]len"; "fehlen" is the only completion that fits.'
+  - statement: 'The pastor''s house and the cantor''s house are very small and low.'
+    where: 0318_a lines 16-17 (Sowohl das Pastora[...] / auch das Kantorhaus, sind sehr klein und niedrig)
+    verdict: supported
+  - statement: 'The schoolroom is spacious in proportion to the number of children.'
+    where: 0318_a lines 18-19 (Das Schullokal im Verhältniß [...] / Kinderzahl entsprechend geräumig)
+    verdict: supported
+    note: 'The burnt end of line 18 holds about one short word, which the sentence needs to be "zur"; no room for a negation as well.'
+  - statement: 'Besides the religion school at Zagórow there are 7 more schools with prayer houses.'
+    where: 0318_a lines 19-21 (Außer der Religions-Sch[...] / le in Zagórow, giebt es noch 7 Schulen verbunden mit Beth[...] / in der Gemeinde)
+    verdict: supported
+  - statement: 'Of these one is an elementary school at Michalinowo.'
+    where: 0318_a lines 21-22 (worunter nur eine Elementar-Schule in / Michalinowo)
+    verdict: supported
+  - statement: 'The 8 schools have about 240 children.'
+    where: 0318_a lines 22-23 (Die Zahl der Kinder in den 8 Schulen ... kann sich etwa auf 240 belaufen)
+    verdict: supported
+  - statement: 'The sexton has no dwelling of his own.'
+    where: 0318_a lines 23-24 (Für den Küster[?] / ist keine besondere Wohnung vorhanden)
+    verdict: overstated
+    fix: 'the sexton [the reading "sexton" is uncertain] has no dwelling of his own'
+    fix_de: 'der Küster [die Lesung „Küster“ ist unsicher] hat keine eigene Wohnung'
+  - statement: 'The congregation has 8 cemeteries.'
+    where: 0318_a line 25 (Friedhöfe, deren in der Gemeinde 8 an der Zahl)
+    verdict: supported
+  - statement: 'The cemeteries are in good condition.'
+    where: 0318_a lines 25-26 (sind [...] / in gutem Zustande)
+    verdict: overstated
+    fix: 'the congregation has 8 cemeteries, which are described as in good condition and provided with crosses [a short word before "in good condition" is lost, and the reading "crosses" is doubtful]'
+    fix_de: 'die Gemeinde hat 8 Friedhöfe, die als in gutem Zustande und mit Kreuzen versehen beschrieben werden [ein kurzes Wort vor „in gutem Zustande“ ist verloren, und die Lesung „Kreuzen“ ist zweifelhaft]'
+  - statement: 'The cemeteries are provided with crosses [doubtful, flagged].'
+    where: 0318_a line 26 (mit Kreuzen[?] versehen)
+    verdict: supported
+  - statement: 'Church life is satisfactory.'
+    where: 0318_a lines 27-28 (Kirchlichkeit und Kirchenbesuch / befriedigend)
+    verdict: supported
+  - statement: 'The communicants are 726 men [last digit uncertain], 871 women, 1,597 in all.'
+    where: 0318_a line 30 (Männliche 72[6?] Weibliche 871 Summa 1597)
+    verdict: supported
+  - statement: 'The collection for the heathen mission was 10 roubles 71 kopecks.'
+    where: 0322_a lines 3-4
+    verdict: supported
+  - statement: 'It was passed on to Superintendent Pastor Manitius at Warsaw.'
+    where: 0322_a lines 5-7 (welche der Pastor-Administrator an den / [...] Superintendenten Pastor Manitius nach Warschau über- / [...] hat)
+    verdict: supported
+    note: 'A word before "Superintendenten" is lost (probably "Herrn", as in 0345_a line 5).'
+  - statement: 'There are no Baptists, Irvingians or other sects.'
+    where: 0322_a lines 8-9 (Baptisten, Irvingianer oder / [...]dere Sekten giebt es nicht)
+    verdict: supported
+  - statement: 'No remarkable events took place.'
+    where: 0322_a line 12
+    verdict: supported
+  - statement: '67 were confirmed, 36 boys and 31 girls.'
+    where: 0322_a line 13
+    verdict: supported
+  - statement: 'No candidates of theology live in the congregation.'
+    where: 0322_a line 14 (Candidaten in der Gemeinde lebend.– Nicht vorhanden)
+    verdict: overstated
+    fix: 'no candidates live in the congregation'
+    fix_de: 'in der Gemeinde lebten keine Kandidaten'
+    note: '"of theology" is not in the text (the form''s heading says only "Candidaten").'
+  - statement: 'Nothing was collected for the congregation''s own benefit.'
+    where: 0322_a lines 15-16 (Zum Besten der eigenen Gemeinde wurden nicht / [...]mmelt[?])
+    verdict: supported
+  - statement: 'For other purposes 4 roubles 61 kopecks [first digit uncertain] were collected for grammar-school pupils intending to study theology.'
+    where: 0322_a lines 16-18 (Zur Unterstü- / [...]g von Gymnasiasten, welche Theologie zu studiren gesonnen / [...] –[?] 4 Rubel 61 Kopeken)
+    verdict: supported
+    note: 'The "4" is not marked doubtful; the doubt is the mark before it ("–[?]"), at the burnt line start. Better: "4 roubles 61 kopecks [the mark before the 4 is uncertain]" / "4 Rubel 61 Kopeken [das Zeichen vor der 4 ist unsicher]".'
+  - statement: 'The pastor-administrator sent it to the High Consistory at Warsaw.'
+    where: 0322_a lines 18-19 (Selbige hat der Pastor-Administra- / [...]tor seinem Hohen Consistorium zu Warschau übersandt)
+    verdict: supported
+  - statement: '2 roubles 36 kopecks were collected for the widows'' and orphans'' fund.'
+    where: 0322_a lines 19-21
+    verdict: supported
+  - statement: 'It was sent to Superintendent von Boerner.'
+    where: 0322_a lines 21-22 (an Herrn Superintendenten von Boerner / [...]er[?]gesandt)
+    verdict: supported
+  - statement: 'It is signed E. Erdmann, pastor.'
+    where: 0322_a lines 23-24
+    verdict: supported
+doc2:
+  - statement: 'The report is Pastor E. Erdmann''s annual report.'
+    where: 0322_b line 12 (Jahresbericht); 0345_a lines 22-23
+    verdict: supported
+  - statement: 'It is for 1882.'
+    where: 0322_b lines 27-28 (the comparison with "Jahre 1881"); the file's title (unit.yml)
+    verdict: supported
+  - statement: 'It is on the filial Lissewo-Pyzdry of the parish of Zagórow.'
+    where: 0322_b lines 7, 11 (Lissewo-Pyzdry; das Filial Lissewo-Pyzdry); Zagórow appears nowhere in the surviving text of this document
+    verdict: unsupported
+    fix: 'on the filial Lissewo-Pyzdry (the text does not name its parish)'
+    fix_de: 'über das Filial Lissewo-Pyzdry (der Text nennt seine Gemeinde nicht)'
+    note: 'Only "of the parish of Zagórow" is at issue; the pastor and the heading form being those of document 1 does not put the word in this text.'
+  - statement: 'It is in German.'
+    where: the whole text
+    verdict: supported
+  - statement: 'It answers the same order of the consistory (30 October, No. 267).'
+    where: 0322_b lines 8-10 (In Folge der Anordnung [...] / würden vom 30ten October [...] / №267)
+    verdict: unsupported
+    fix: 'on the same order (30 October, No. 267)'
+    fix_de: 'auf dieselbe Anordnung (30. Oktober, Nr. 267)'
+    note: 'As in document 1, the surviving "würden" points to "Hochwürden", the addressee (0322_b line 2 begins "Hochwürden"); the consistory is not named.'
+  - statement: 'It is in nearly the same words as the report on the parish.'
+    where: comparison of 0322_b/0345_a with 0318_a/0322_a
+    verdict: supported
+  - statement: 'It is addressed to the General Superintendent of the Warsaw Evangelical-Augsburg consistorial district.'
+    where: 0322_b lines 2-4
+    verdict: supported
+  - statement: 'The leaf is burnt; the ends of the lines on the first page and the beginnings on the second are lost.'
+    where: the pattern of [...] in 0322_b and 0345_a
+    verdict: supported
+  - statement: 'The filial has neither a church nor a sexton''s house.'
+    where: 0322_b lines 14-15 (Das Filial besitzt weder Kirch[...] / Küsterhaus)
+    verdict: supported
+  - statement: 'Divine service at Pyzdry is held in a rented room.'
+    where: 0322_b lines 15-16 (in einem gemie[...] / ten Lokale abgehalten)
+    verdict: supported
+  - statement: 'It has five schools combined with prayer houses [the word before "schools" partly lost, flagged].'
+    where: 0322_b lines 16-17 (fünf [Religi?][...] / Schulen verbunden mit Bethäusern)
+    verdict: supported
+  - statement: 'All are in good condition.'
+    where: 0322_b lines 17-18 (die alle in gutem Zusta[...] / sind)
+    verdict: supported
+  - statement: 'They have about 120 children.'
+    where: 0322_b lines 18-19
+    verdict: supported
+  - statement: 'There are five cemeteries, all fenced and provided with crosses.'
+    where: 0322_b lines 19-20
+    verdict: supported
+  - statement: 'Church life is satisfactory.'
+    where: 0322_b lines 21-22
+    verdict: supported
+  - statement: 'The baptisms are performed by the cantors in the prayer houses.'
+    where: 0322_b lines 22-23 (Die Taufen werden von den betreffenden Kantor[...] / in den Bethäusern vollzogen)
+    verdict: supported
+  - statement: 'The sentence goes on about the pastor''s part in them [the rest partly lost, flagged].'
+    where: 0322_b lines 23-25 (der Pastor bestätigt [bei?] sei[...] / Anwesenheit in den Bethäusern, die von den Kantoren voll[...] / genen Taufen)
+    verdict: supported
+    note: 'Cautious; the text would bear "the pastor confirms the baptisms the cantors performed when he is present in the prayer houses", but the weaker wording is allowed.'
+  - statement: 'The communicants are 326 men and 408 women, 734 in all [last digit uncertain].'
+    where: 0322_b line 27 (Männliche 326 Weibliche 408 Summa 73[4?])
+    verdict: supported
+  - statement: 'That is 131 more than in 1881.'
+    where: 0322_b lines 27-28 ([...] / Jahre 1881 gegen über mehr 131)
+    verdict: supported
+  - statement: 'The inhabitants of Pyzdry would gladly set up an Evangelical school of their own [sentence partly lost, flagged].'
+    where: 0322_b lines 28-29 (Die Einwohner [von?] Pyzdry [...] / ten gerne eine Evangelische Schule bei sich ein[...])
+    verdict: supported
+  - statement: 'They are too poor for it [flagged].'
+    where: 0322_b lines 29-30 (sind [...] / zu arm dazu)
+    verdict: supported
+    note: 'A word after "sind" is lost; the "da ... nur 9 Familien" that follows makes a negation unlikely, and the summary flags the sentence.'
+  - statement: 'The town counts only 9 families [reading "counting" flagged].'
+    where: 0322_b line 30 (da der Flecken nur 9 Familien zählt[?])
+    verdict: supported
+  - statement: 'The colonies have their own teachers and prayer houses.'
+    where: 0345_a lines 1-2 (da die / [...]olonien ihre eigenen Lehrer und Bethäuser haben)
+    verdict: supported
+  - statement: 'The mission collection was 3 roubles 40 kopecks.'
+    where: 0345_a lines 3-4
+    verdict: supported
+  - statement: 'It was passed on to Superintendent Pastor Manitius at Warsaw.'
+    where: 0345_a lines 5-6 (an den Herrn Superintenden- / [...]stor Manitius nach Warschau übersandt hat)
+    verdict: supported
+  - statement: 'There are no Baptists, Irvingians or other sects.'
+    where: 0345_a lines 8-9 (Bap- / [...]en, Irwingianer u. s.w. giebt es nicht)
+    verdict: overstated
+    fix: 'there are no Baptists, Irvingians and the like'
+    fix_de: 'es gebe keine Baptisten, Irwingianer usw.'
+    note: 'Document 2 has "u. s. w.", not "oder andere Sekten" (that is document 1''s wording).'
+  - statement: 'No special vices occur in the congregation.'
+    where: 0345_a line 8 (Besondere Laster in der Gemeinde nicht vorhanden)
+    verdict: supported
+  - statement: 'There are no conversions to other confessions.'
+    where: 0345_a lines 9-10 (Uebertritte zu andern / [...]fessionen finden nicht statt)
+    verdict: supported
+  - statement: 'No remarkable events took place.'
+    where: 0345_a line 11
+    verdict: supported
+  - statement: '23 were confirmed, 13 boys and 10 girls.'
+    where: 0345_a line 12
+    verdict: supported
+  - statement: 'No candidates of theology live in the congregation.'
+    where: 0345_a line 13 (Candidaten in der Gemeinde lebend.– Nicht vorhanden)
+    verdict: overstated
+    fix: 'no candidates live in the congregation'
+    fix_de: 'in der Gemeinde lebten keine Kandidaten'
+  - statement: 'Nothing was collected for the congregation''s own benefit.'
+    where: 0345_a lines 14-15
+    verdict: supported
+  - statement: '1 rouble 76 kopecks was collected for pupils intending to study theology.'
+    where: 0345_a lines 15-17 (Gymnasiasten, welche Theologie zu studieren geson- / [...] sind 1 Rubel 76 Kopeken)
+    verdict: supported
+  - statement: 'It was sent to the High Evangelical-Augsburg Consistory at Warsaw.'
+    where: 0345_a lines 17-19
+    verdict: supported
+  - statement: 'For the widows'' and orphans'' fund a sum of which the roubles are lost and 36 kopecks.'
+    where: 0345_a lines 19-20 ([...] Rubel 36 Kopeken)
+    verdict: supported
+  - statement: 'It was sent to Superintendent von Boerner at Plock.'
+    where: 0345_a line 21
+    verdict: supported
+  - statement: 'It is signed E. Erdmann, pastor.'
+    where: 0345_a lines 22-23
+    verdict: supported

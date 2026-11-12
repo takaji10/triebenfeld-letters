@@ -1,0 +1,222 @@
+pages:
+  0318_a:
+  - line: 2
+    supply: Hochwürden dem
+    grade: A
+    witness_en: 'The twin report (Pyzdry, page 1, line 2) has the whole address line: "Hochwürden dem Herrn General-Superinten-".'
+    witness_de: 'Der Paralleltext (Pyzdry, Seite 1, Zeile 2) hat die ganze Zeile der Anrede: "Hochwürden dem Herrn General-Superinten-".'
+  - line: 2
+    nth: 2
+    supply: tendenten
+    grade: B
+    witness_en: The word is "General-Superintendenten" (dative after "dem Herrn"); "Superintendenten" is whole on Zagórów page 2, lines 6 and 21.
+    witness_de: Das Wort ist "General-Superintendenten" (Dativ nach "dem Herrn"); "Superintendenten" steht ganz auf Seite 2 von Zagórów, Zeilen 6 und 21.
+  - line: 3
+    supply: ischen
+    grade: B
+    witness_en: The address reads "Evangelisch-Augsburgischen Consistorial-Bezirks"; the twin (Pyzdry, page 1, line 3) has "Augsburgisch-" and the whole word stands on Pyzdry page 2, line 18.
+    witness_de: Die Anrede lautet "Evangelisch-Augsburgischen Consistorial-Bezirks"; der Paralleltext (Pyzdry, Seite 1, Zeile 3) hat "Augsburgisch-", das ganze Wort steht auf Seite 2 von Pyzdry, Zeile 18.
+  - line: 5
+    supply: or [...]
+    grade: B
+    witness_en: The twin (Pyzdry, page 1, line 5) has "Pastor-Administrator" whole; the rest of the line stays lost.
+    witness_de: Der Paralleltext (Pyzdry, Seite 1, Zeile 5) hat "Pastor-Administrator" ganz; der Rest der Zeile bleibt verloren.
+  - line: 11
+    supply: tref-
+    grade: B
+    witness_en: 'Line 12 begins "fenden": the word is "betreffenden", which stands whole on Pyzdry page 1, line 22; the twin (line 11) has the same "be-".'
+    witness_de: 'Zeile 12 beginnt mit "fenden": das Wort ist "betreffenden", das ganz auf Seite 1 von Pyzdry, Zeile 22 steht; der Paralleltext (Zeile 11) hat dasselbe "be-".'
+  - line: 12
+    supply: len
+    grade: B
+    witness_en: The verb is "vorzustellen"; the twin (Pyzdry, page 1, line 12) has the same sentence ("vorzu-").
+    witness_de: Das Verb ist "vorzustellen"; der Paralleltext (Pyzdry, Seite 1, Zeile 12) hat denselben Satz ("vorzu-").
+  - line: 19
+    supply: u-
+    grade: B
+    witness_en: 'Line 20 begins "le": the word is "Religions-Schule"; "Schule" is whole on line 21 of this page.'
+    witness_de: 'Zeile 20 beginnt mit "le": das Wort ist "Religions-Schule"; "Schule" steht ganz in Zeile 21 derselben Seite.'
+  - line: 20
+    supply: äusern
+    grade: B
+    witness_en: 'The twin (Pyzdry, page 1, line 17) has the same phrase whole: "Schulen verbunden mit Bethäusern".'
+    witness_de: 'Der Paralleltext (Pyzdry, Seite 1, Zeile 17) hat dieselbe Wendung ganz: "Schulen verbunden mit Bethäusern".'
+  - line: 22
+    supply: Ge-
+    grade: B
+    witness_en: 'Line 23 begins "meinde": the word is "Gemeinde", whole on line 21 of this page.'
+    witness_de: 'Zeile 23 beginnt mit "meinde": das Wort ist "Gemeinde", ganz in Zeile 21 derselben Seite.'
+  - line: 24
+    supply: er
+    grade: B
+    witness_en: 'Line 25 begins "Friedhöfe": "Der Zustand der Friedhöfe" (genitive plural); the visible d begins the article.'
+    witness_de: 'Zeile 25 beginnt mit "Friedhöfe": "Der Zustand der Friedhöfe" (Genitiv Plural); das sichtbare d ist der Anfang des Artikels.'
+  - line: 28
+    supply: zogen
+    grade: B
+    witness_en: 'The verb is "vollzogen", whole in the twin (Pyzdry, page 1, line 23: "in den Bethäusern vollzogen").'
+    witness_de: 'Das Verb ist "vollzogen", ganz im Paralleltext (Pyzdry, Seite 1, Zeile 23: "in den Bethäusern vollzogen").'
+  - line: 29
+    supply: er Com-
+    grade: B
+    witness_en: 'Line 30 begins "municanten": "Die Zahl der Communicanten", as the twin has it (Pyzdry, page 1, lines 26-27).'
+    witness_de: 'Zeile 30 beginnt mit "municanten": "Die Zahl der Communicanten", wie im Paralleltext (Pyzdry, Seite 1, Zeilen 26-27).'
+  0322_a:
+  - line: 4
+    supply: Jahres bei
+    grade: A
+    witness_en: 'The twin (Pyzdry, page 2, line 3) has the same sentence whole: "im Laufe des Jahres bei den Missions-".'
+    witness_de: 'Der Paralleltext (Pyzdry, Seite 2, Zeile 3) hat denselben Satz ganz: "im Laufe des Jahres bei den Missions-".'
+  - line: 6
+    supply: Herrn
+    grade: A
+    witness_en: The twin (Pyzdry, page 2, line 5) has "an den Herrn Superintendenten" whole.
+    witness_de: Der Paralleltext (Pyzdry, Seite 2, Zeile 5) hat "an den Herrn Superintendenten" ganz.
+  - line: 7
+    supply: sandt
+    grade: A
+    witness_en: The twin (Pyzdry, page 2, line 6) has "übersandt hat" whole.
+    witness_de: Der Paralleltext (Pyzdry, Seite 2, Zeile 6) hat "übersandt hat" ganz.
+  - line: 8
+    supply: 'im '
+    grade: A
+    witness_en: The twin (Pyzdry, page 2, line 7) has "sind im Allgemeinen".
+    witness_de: Der Paralleltext (Pyzdry, Seite 2, Zeile 7) hat "sind im Allgemeinen".
+  - line: 9
+    supply: an
+    grade: B
+    witness_en: Grammar ("Baptisten, Irvingianer oder andere Sekten") and the same word "andern" on line 10 of this page.
+    witness_de: Grammatik ("Baptisten, Irvingianer oder andere Sekten") und dasselbe Wort "andern" in Zeile 10 derselben Seite.
+  - line: 20
+    supply: die
+    grade: A
+    witness_en: The twin (Pyzdry, page 2, line 19) has "Für die Wittwen und Waisen Casse".
+    witness_de: Der Paralleltext (Pyzdry, Seite 2, Zeile 19) hat "Für die Wittwen und Waisen Casse".
+  - line: 21
+    supply: m
+    grade: B
+    witness_en: 'Line 20 ends "eingesam-": the word is "eingesammelt", whole on Pyzdry page 2, lines 4 and 20.'
+    witness_de: 'Zeile 20 endet mit "eingesam-": das Wort ist "eingesammelt", ganz auf Seite 2 von Pyzdry, Zeilen 4 und 20.'
+  0322_b:
+  - line: 2
+    supply: denten
+    grade: B
+    witness_en: The word is "General-Superintendenten" (dative); "Superintendenten" is whole on Zagórów page 2, lines 6 and 21.
+    witness_de: Das Wort ist "General-Superintendenten" (Dativ); "Superintendenten" steht ganz auf Seite 2 von Zagórów, Zeilen 6 und 21.
+  - line: 3
+    supply: en
+    grade: B
+    witness_en: The whole word "Evangelisch-Augsburgischen" stands on page 2 of this report, line 18; the address goes on "Consistorial-Bezirks".
+    witness_de: Das ganze Wort "Evangelisch-Augsburgischen" steht auf Seite 2 dieses Berichts, Zeile 18; die Anrede geht weiter mit "Consistorial-Bezirks".
+  - line: 10
+    supply: nden
+    grade: B
+    witness_en: 'Line 11 goes on "das Filial ... betreffenden Jahresbericht": the adjective is "folgenden"; the same word stands as "Folgende" on page 2, line 15.'
+    witness_de: 'Zeile 11 geht weiter "das Filial ... betreffenden Jahresbericht": das Adjektiv ist "folgenden"; dasselbe Wort steht als "Folgende" auf Seite 2, Zeile 15.'
+  - line: 11
+    supply: betref-
+    grade: B
+    witness_en: 'Line 12 begins "fenden": the word is "betreffenden", whole on line 22 of this page; the Zagórów report has the same "be-" (page 1, line 11).'
+    witness_de: 'Zeile 12 beginnt mit "fenden": das Wort ist "betreffenden", ganz in Zeile 22 derselben Seite; der Bericht von Zagórów hat dasselbe "be-" (Seite 1, Zeile 11).'
+  - line: 12
+    supply: stellen
+    grade: B
+    witness_en: The Zagórów report has "vorzustel-" in the same sentence (page 1, line 12).
+    witness_de: Der Bericht von Zagórów hat "vorzustel-" im selben Satz (Seite 1, Zeile 12).
+  - line: 17
+    supply: nde
+    grade: B
+    witness_en: The word is "Zustande" ("in gutem Zustande" is read on the page); "Zustande" is whole on Zagórów page 1, lines 18 and 26.
+    witness_de: Das Wort ist "Zustande" ("in gutem Zustande" ist gelesen); "Zustande" steht ganz auf Seite 1 von Zagórów, Zeilen 18 und 26.
+  - line: 21
+    supply: e-
+    grade: B
+    witness_en: 'Line 22 begins "digend": the word is "befriedigend", whole on Zagórów page 1, line 28.'
+    witness_de: 'Zeile 22 beginnt mit "digend": das Wort ist "befriedigend", ganz auf Seite 1 von Zagórów, Zeile 28.'
+  - line: 22
+    supply: en
+    grade: B
+    witness_en: The word is "Kantoren", whole on line 24 of this page ("von den Kantoren").
+    witness_de: Das Wort ist "Kantoren", ganz in Zeile 24 derselben Seite ("von den Kantoren").
+  - line: 23
+    supply: ner
+    grade: B
+    witness_en: 'Line 24 begins "Anwesenheit": "bei seiner Anwesenheit" (dative feminine); the possessive "seinem" stands on Zagórów page 2, line 19.'
+    witness_de: 'Zeile 24 beginnt mit "Anwesenheit": "bei seiner Anwesenheit" (Dativ feminin); das Possessivum "seinem" steht auf Seite 2 von Zagórów, Zeile 19.'
+  - line: 24
+    supply: zo-
+    grade: B
+    witness_en: 'Line 25 begins "genen": the word is "vollzogenen"; "vollzogen" is whole on line 23 of this page.'
+    witness_de: 'Zeile 25 beginnt mit "genen": das Wort ist "vollzogenen"; "vollzogen" steht ganz in Zeile 23 derselben Seite.'
+  - line: 26
+    supply: Die
+    grade: A
+    witness_en: 'The Zagórów report has the same formula (page 1, line 29: "unbewußt.– Die Zahl d[er]").'
+    witness_de: 'Der Bericht von Zagórów hat dieselbe Formel (Seite 1, Zeile 29: "unbewußt.– Die Zahl d[er]").'
+  - line: 26
+    nth: 2
+    supply: der
+    grade: B
+    witness_en: 'Line 27 begins "Communicanten": "Die Zahl der Communicanten"; the article is grammar.'
+    witness_de: 'Zeile 27 beginnt mit "Communicanten": "Die Zahl der Communicanten"; der Artikel folgt aus der Grammatik.'
+  0345_a:
+  - line: 3
+    supply: Für die Heid
+    grade: A
+    witness_en: 'The Zagórów report has the same sentence whole (page 2, line 3: "Für die Heiden-Mission sind im Laufe des").'
+    witness_de: 'Der Bericht von Zagórów hat denselben Satz ganz (Seite 2, Zeile 3: "Für die Heiden-Mission sind im Laufe des").'
+  - line: 4
+    supply: sions-Gottes
+    grade: A
+    witness_en: The Zagórów report has "den Missions-Gottesdiensten" whole (page 2, line 4); line 3 here ends "bei den Mis-".
+    witness_de: Der Bericht von Zagórów hat "den Missions-Gottesdiensten" ganz (Seite 2, Zeile 4); Zeile 3 hier endet mit "bei den Mis-".
+  - line: 5
+    supply: welche der Pa
+    grade: A
+    witness_en: 'The Zagórów report has the same clause whole (page 2, line 5: "worden, welche der Pastor-Administrator an den").'
+    witness_de: 'Der Bericht von Zagórów hat denselben Satz ganz (Seite 2, Zeile 5: "worden, welche der Pastor-Administrator an den").'
+  - line: 6
+    supply: ten Pa
+    grade: A
+    witness_en: The Zagórów report has "Superintendenten Pastor Manitius" whole (page 2, line 6); line 5 here ends "Superintenden-".
+    witness_de: Der Bericht von Zagórów hat "Superintendenten Pastor Manitius" ganz (Seite 2, Zeile 6); Zeile 5 hier endet mit "Superintenden-".
+  - line: 7
+    supply: so wie
+    grade: A
+    witness_en: 'The Zagórów report has the formula whole (page 2, line 7: "Sittlichkeit so wie das häusliche Zusammenleben").'
+    witness_de: 'Der Bericht von Zagórów hat die Formel ganz (Seite 2, Zeile 7: "Sittlichkeit so wie das häusliche Zusammenleben").'
+  - line: 8
+    supply: dige
+    grade: B
+    witness_en: 'Line 7 ends "befrie-": the word is "befriedigend", whole on Zagórów page 1, line 28.'
+    witness_de: 'Zeile 7 endet mit "befrie-": das Wort ist "befriedigend", ganz auf Seite 1 von Zagórów, Zeile 28.'
+  - line: 9
+    supply: tist
+    grade: B
+    witness_en: 'Line 8 ends "Bap-": the word is "Baptisten", whole on Zagórów page 2, line 8.'
+    witness_de: 'Zeile 8 endet mit "Bap-": das Wort ist "Baptisten", ganz auf Seite 2 von Zagórów, Zeile 8.'
+  - line: 10
+    supply: Con
+    grade: B
+    witness_en: 'Line 9 ends "zu andern": the word is "Confessionen", whole on Zagórów page 2, line 10.'
+    witness_de: 'Zeile 9 endet mit "zu andern": das Wort ist "Confessionen", ganz auf Seite 2 von Zagórów, Zeile 10.'
+  - line: 17
+    supply: nen
+    grade: B
+    witness_en: 'Line 16 ends "geson-": the word is "gesonnen", whole on Zagórów page 2, line 17.'
+    witness_de: 'Zeile 16 endet mit "geson-": das Wort ist "gesonnen", ganz auf Seite 2 von Zagórów, Zeile 17.'
+  - line: 18
+    supply: tor
+    grade: B
+    witness_en: 'Line 17 ends "Pastor-Administra-": the word is "Pastor-Administrator", whole on Zagórów page 2, line 5.'
+    witness_de: 'Zeile 17 endet mit "Pastor-Administra-": das Wort ist "Pastor-Administrator", ganz auf Seite 2 von Zagórów, Zeile 5.'
+  - line: 19
+    supply: W
+    grade: B
+    witness_en: The word is "Warschau", whole on line 6 of this page.
+    witness_de: Das Wort ist "Warschau", ganz in Zeile 6 derselben Seite.
+  - line: 21
+    supply: S
+    grade: B
+    witness_en: The word is "Superintendenten" (line 20 ends "an den Herrn"), whole on Zagórów page 2, line 21.
+    witness_de: Das Wort ist "Superintendenten" (Zeile 20 endet mit "an den Herrn"), ganz auf Seite 2 von Zagórów, Zeile 21.

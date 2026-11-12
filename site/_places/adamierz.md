@@ -29,7 +29,7 @@ Village south of Wrąbczynkowskie Holendry. First mentioned as *Nadamirza* in a 
     [The document.](/documents/kdw/20/)
     [The document.](/documents/kdw/21/)
 
-[^3]: Nazwy miejscowe Polski, t. 1, p. 45
+[^3]: Nazwy miejscowe Polski, t. 1, p. 44
 
 [^4]: Słownik geograficzny, t. XV, p. 8
 

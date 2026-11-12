@@ -1904,3 +1904,19 @@ The one finding that touches the edition:
   its filing-label at the 0058 top); 0058 is a further letter-piece
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
+
+## AGAD 1/432/0/1/139: Pastor Erdmann's reports of 1882 (added 2026-11-11, branch `main`, not published)
+
+Read `units/agad14320139/notes.md`, "Open readings", for the lines. For the
+editor, against the scans: (1) 0322_a ll. 1-2, "für [Verlangen?] noch mehr
+Schulen ... nicht[?] vorhanden" (the "nicht" is a negation); (2) the figures
+72[6?] (0318_a l. 30), the stroke before "4 Rubel 61" (0322_a l. 18), 73[4?]
+(0322_b l. 27); (3) "Taufen werden[?]" against "wurden"; (4) "[Religi?]" against
+"Kateg" (0322_b l. 16), "Kreuzen[?]", "gegen über"; (5) 0318_a l. 10 "[Ho?]"
+(the twin's "folge[nden]" suggests "fo"); (6) 0345_a ll. 5-6, a Kurrent P
+before "stor"? (7) whether the Warsaw Superintendent Manitius is the pastor
+"Sig. Manitius" of the Konstantynów sample; (8) which diocese Zagórów belonged
+to (Kneifel, Werner). The editor's ruling on the supplied-text layer
+(docs/CONSISTORY_1882_PLAN.md): given, 2026-11-11 ("Yes, that layer"), for
+grades A and B only; whether the layer should also show on the German page's
+text view is not asked.

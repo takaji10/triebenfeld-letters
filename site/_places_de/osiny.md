@@ -26,7 +26,7 @@ Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn 
 
 [^57]: “Relationes [protocollon],” 1786, 164
 
-[^58]: Nazwy miejscowe Polski, t. 8, p. 179
+[^58]: Nazwy miejscowe Polski, t. 8, p. 178
 
 </div>
 {% endraw %}

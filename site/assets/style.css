@@ -922,3 +922,14 @@ body[data-related="off"] .lit-related { display: none; }
 /* the Places index's "on Łukom 1766" (docs/MAPS_SITE_PLAN.md, section 4) */
 .place-index .on-maps { font-family: var(--sans); font-size: .82rem;
   color: var(--ink-faint); }
+
+/* The reconstruction of the lost edges (a proposal), under a page's text:
+   collapsed, a quiet table; the proposed words stand in brackets in italics.
+   Never part of the transcription (docs/CONSISTORY_1882_PLAN.md). */
+details.supplied { margin: 1rem 0 0; font-family: var(--sans); font-size: .85rem; max-width: calc(var(--measure) + 3.2rem); }
+details.supplied > summary { cursor: pointer; color: var(--ink-faint); }
+details.supplied .supplied-note { margin: .6rem 0; color: var(--ink-faint); }
+details.supplied table { border-collapse: collapse; width: 100%; }
+details.supplied th, details.supplied td { text-align: left; vertical-align: top; padding: .3rem .5rem .3rem 0; border-top: 1px solid var(--rule); }
+details.supplied th { font-weight: 600; color: var(--ink-faint); }
+details.supplied .sup { font-style: italic; color: var(--accent); }

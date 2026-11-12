@@ -1,0 +1,105 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: agad14320139
+ref: 1/432/0/1/139, scans 128-130
+archive: Archiwum Główne Akt Dawnych, Warszawa (AGAD)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The annual reports for 1882 of Pastor E. Erdmann to the Warsaw consistory on
+  the Evangelical parish of Zagórów and on the filial Lissewo-Pyzdry: their
+  church buildings, schools, cemeteries, communicants, confirmands and
+  collections, in leaves burnt at the edges.
+title_de: >-
+  Die Jahresberichte des Pastors E. Erdmann für 1882 an das Warschauer
+  Konsistorium über die evangelische Gemeinde Zagórów und das Filial
+  Lissewo-Pyzdry: Kirchengebäude, Schulen, Friedhöfe, Kommunikanten,
+  Konfirmanden und Kollekten, auf an den Rändern verbrannten Blättern.
+# The archive's title of the file, as the editor gave it (2026-11-11), the
+# archive's own spelling kept ("parafoe", the closing bracket).
+archive_title: >-
+  Opis sytuacji w gminach ewangelicko-augsburskich w 1882 roku - parafoe
+  Chodecz, Sierpc, Zagórów, Prażuchy, Grodziec, Sejny, Duża Paproć, Mariampol,
+  Łomża, Godlewo, Lipno, Przasnysz, Lipiny, Mława, Pułtusk, Sompolno,
+  Aleksandrów, Sobiesęki].
+original_title: >-
+  Opis sytuacji w gminach ewangelicko-augsburskich w 1882 roku - parafoe
+  Chodecz, Sierpc, Zagórów, Prażuchy, Grodziec, Sejny, Duża Paproć, Mariampol,
+  Łomża, Godlewo, Lipno, Przasnysz, Lipiny, Mława, Pułtusk, Sompolno,
+  Aleksandrów, Sobiesęki].
+original_title_card: "Opis sytuacji w gminach ewangelicko-augsburskich w 1882 roku - parafoe Chodecz, Sierpc, Zagórów [...]"
+card_title: "Description of the situation in the Evangelical-Augsburg congregations in 1882 - the parishes of Chodecz, Sierpc, Zagórów [...]"
+card_title_de: "Beschreibung der Lage in den evangelisch-augsburgischen Gemeinden im Jahr 1882 - die Pfarreien Chodecz, Sierpc, Zagórów [...]"
+full_title: "Description of the situation in the Evangelical-Augsburg congregations in 1882 - the parishes of Chodecz, Sierpc, Zagórów, Prażuchy, Grodziec, Sejny, Duża Paproć, Mariampol, Łomża, Godlewo, Lipno, Przasnysz, Lipiny, Mława, Pułtusk, Sompolno, Aleksandrów, Sobiesęki]."
+full_title_de: "Beschreibung der Lage in den evangelisch-augsburgischen Gemeinden im Jahr 1882 - die Pfarreien Chodecz, Sierpc, Zagórów, Prażuchy, Grodziec, Sejny, Duża Paproć, Mariampol, Łomża, Godlewo, Lipno, Przasnysz, Lipiny, Mława, Pułtusk, Sompolno, Aleksandrów, Sobiesęki]."
+short_title: "Pastor Erdmann's reports on Zagórów and Pyzdry 1882"
+short_title_de: "Pastor Erdmanns Berichte über Zagórów und Pyzdry 1882"
+fonds: Konsystorz Kościoła Ewangelicko-Augsburskiego w Warszawie (about 30 % of the consistory's archive survives)
+types: [church-records]
+languages: [de]
+date_span: 1882
+
+# Era (the editor approved, 2026-11-11) and archive (reference/eras.yml,
+# reference/repositories.yml).
+era: wlodzimierz
+repository: agad-warszawa
+
+# Raw scans live outside the project. The four leaves are single pages
+# already cleaned by the editor (processed/): leaf 0322 is one sheet of two
+# written sides, a = the end of the Zagórów report, b = the opening of the
+# Pyzdry report. The file's original three scans (128-130) are the editor's
+# in Downloads\Opis_sytuacji_.../Original.
+scans:
+  raw_dir: C:/Users/Tersnaus/Downloads/AGAD_1_432_0_1_139
+  raw_glob: "1_432_0_1_139_*.jpg"
+  ascii_prefix: AGAD_1_432_0_1_139
+
+# One file per page, named by page id. The transcription is Claude's, read
+# from the images (2026-11-11); lost edges are [...], nothing is completed
+# in the text (docs/CONSISTORY_1882_PLAN.md).
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts.
+description: >-
+  Two reports in German, in one hand, signed by Pastor E. Erdmann, for the
+  year 1882, made on the form the Warsaw Evangelical-Augsburg consistory sent
+  out by its order of 30 October, No. 267, with questions on church buildings,
+  worship and communion, schools, missions, poor relief, morals, sects,
+  remarkable events, confirmands, candidates and collections. Document 1 is
+  the report on the parish of Zagórów, document 2 the report on the filial
+  Lissewo-Pyzdry. The leaves were rescued from a fire and are burnt at the
+  edges: on the first page of each report the ends of the lines are lost, on
+  the second the beginnings, and the lost stretches are marked [...].
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Reports in a late-nineteenth-century German Kurrent hand from the
+  Warsaw consistory district of the Evangelical-Augsburg church in the
+  Congress Kingdom of Poland (Russian partition): Gemeinde, Filial, Pastor-
+  Administrator, Kirchenwesen, Kommunikanten, Confirmirte, Collekten. Sums are
+  in roubles and kopecks (Rubel, Kopeken). The leaves are burnt: [...] marks
+  a stretch lost at the edge of a line, and the same mark stands in the
+  English; never complete a lost word or figure. "Lissewo-Pyzdry" and
+  "Zagorow" are the pastor's forms of Lisewo / Pyzdry and Zagórów.
+
+# What the "How it was prepared" tab says (reference/prepared.yml).
+prepared:
+  transcription:
+  - t-claude-scans
+  - en: A second Claude reading compared every line with the scans; where the two readings differed and the page did not decide, the word stays marked as doubtful. A stretch of text lost to the burn is marked [...] and is never completed in the transcription. For some of those stretches the page shows proposed wording, Claude's, kept apart from the text and based on the other report of the same year, on a word's visible beginning and ending, or on the consistory's form.
+    de: Eine zweite Lesung von Claude verglich jede Zeile mit den Scans; wo die beiden Lesungen abwichen und die Seite nicht entschied, bleibt das Wort als zweifelhaft markiert. Eine durch den Brand verlorene Textstelle ist mit [...] markiert und wird in der Transkription nie ergänzt. Für einige dieser Stellen zeigt die Seite einen vorgeschlagenen Wortlaut von Claude, getrennt vom Text und gestützt auf den anderen Bericht desselben Jahres, auf den sichtbaren Anfang und Schluss eines Wortes oder auf das Formular des Konsistoriums.
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude
+status: translated         # draft | transcribed | translated | published

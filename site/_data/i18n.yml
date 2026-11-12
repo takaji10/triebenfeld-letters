@@ -228,6 +228,14 @@ en:
   sideways: Written sideways on the page
   office_note: Written by the receiving office
   margin_note: Written in the margin
+  supplied_h: Reconstruction of the lost edges (a proposal)
+  supplied_note: The transcription keeps every burnt stretch as [...]. This panel offers wording for some of them, each with what it rests on. It is Claude's proposal, not read from the page, and is not used in the translation or the summaries.
+  supplied_line: Line
+  supplied_text: The line with the proposed words in brackets
+  supplied_witness: Rests on
+  supplied_grade: Grade
+  supplied_grade_A: A - a fixed formula or heading, whole in the twin report or the form
+  supplied_grade_B: B - fixed by the visible letters and the grammar
   forms_medieval: "Medieval:"
   forms_renamed: "Renamed:"
   forms_source: "Source"
@@ -639,6 +647,14 @@ de:
   sideways: Quer auf die Seite geschrieben
   office_note: Vermerk der empfangenden Behörde
   margin_note: Am Rand geschrieben
+  supplied_h: Rekonstruktion der verlorenen Ränder (ein Vorschlag)
+  supplied_note: Die Transkription behält jede verbrannte Stelle als [...]. Diese Tafel bietet für einige davon einen Wortlaut an, jeweils mit seiner Grundlage. Es ist ein Vorschlag von Claude, nicht von der Seite gelesen, und er geht weder in die Übersetzung noch in die Zusammenfassungen ein.
+  supplied_line: Zeile
+  supplied_text: Die Zeile mit den vorgeschlagenen Wörtern in Klammern
+  supplied_witness: Grundlage
+  supplied_grade: Grad
+  supplied_grade_A: A - feste Formel oder Überschrift, vollständig im Parallelbericht oder im Formular
+  supplied_grade_B: B - durch die sichtbaren Buchstaben und die Grammatik festgelegt
   forms_medieval: "Mittelalterlich:"
   forms_renamed: "Umbenannt:"
   forms_source: "Quelle"

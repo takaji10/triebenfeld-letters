@@ -32,9 +32,9 @@ Village west of Wrąbczyn. Established by Szczepan Turno, starost of Pietrzyków
 
 <div class="place-map">
 <div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78%2C52.146666999999994%2C17.82%2C52.186667&amp;layer=mapnik&amp;marker=52.166667%2C17.8" title="Wrąbczynkowskie Holendry" loading="lazy"></iframe>
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78%2C52.1466667%2C17.82%2C52.1866667&amp;layer=mapnik&amp;marker=52.1666667%2C17.8" title="Wrąbczynkowskie Holendry" loading="lazy"></iframe>
 </div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.166667&amp;mlon=17.8#map=15/52.166667/17.8" rel="noopener">{{ t.map_link }}</a></p>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1666667&amp;mlon=17.8#map=15/52.1666667/17.8" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

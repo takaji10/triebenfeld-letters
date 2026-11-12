@@ -22,7 +22,7 @@ hits_docs_count: 15
 
 Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]
 
-[^1]: Nazwy miejscowe Polski, t. 6, p. 524
+[^1]: Nazwy miejscowe Polski, t. 6, p. 523
 
 </div>
 {% endraw %}

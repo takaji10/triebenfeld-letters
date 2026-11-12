@@ -1555,3 +1555,18 @@ transcription; 108 readings settled in session before the first build
 - [ ] Claude, then, at your word: the sweep's next passes — the remaining
       chains the summaries suggest, the per-entity sweeps from the index
       (fewest documents first), then the era essay as a map.
+
+## 61. AGAD 1/432/0/1/139: the 1882 reports (added 2026-11-11, **not published**)
+
+- [x] Two documents, transcribed from the images, second reading, settled,
+      translated and summarised in session (units/agad14320139/notes.md).
+- [x] The supplied-text layer built (`supplied.yml`, the collapsed panel under
+      each page; plan docs/CONSISTORY_1882_PLAN.md).
+- [ ] You: the open readings (NEEDS_CONFIRMATION, "AGAD 1/432/0/1/139"); a spot
+      sheet can be made on request.
+- [ ] Claude: apply the claim check (`intake/claim_check.yml`) to the summaries
+      if it changes any; the index of people and places (Erdmann, Manitius,
+      Boerner, Zagórów, Pyzdry, Lissewo, Michalinowo), a timeline event if
+      wanted, the era essay; German review by a German reader is still open.
+- [ ] More scans of file 139 (other parishes' reports) would help the
+      readings: the plan's section 4, no. 2.

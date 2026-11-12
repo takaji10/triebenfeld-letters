@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Tavern which existed south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn, Biskupice, and Łukom estates. Appeared (erroneously?) north of the southern part of Trąbczyńskie Stare Olędry (*Biskupski*, Perthées 1798); *Biskupicer Kr[ug]* (Gilly 1802); labelled as a tavern and field belonging to Biskupice [estate] (Pambo 1803); *Biskupie* (Chrzanowski 1858). Nazwy miejscowe Polski records the name as *Byschoffdorf* by 1310, later as *Biskupice* (1880).[^1]
 
-[^1]: Nazwy miejscowe Polski, t. 1, p. 248
+[^1]: Nazwy miejscowe Polski, t. 1, p. 247
 
 </div>
 {% endraw %}

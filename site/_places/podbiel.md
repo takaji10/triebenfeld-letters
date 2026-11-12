@@ -25,7 +25,7 @@ Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew we
 [^59]: Ibid 659
     [The document.](/documents/app53170koningr145/1/#p10)
 
-[^60]: Nazwy miejscowe Polski, t. 9, p. 17
+[^60]: Nazwy miejscowe Polski, t. 9, p. 16
 
 </div>
 {% endraw %}

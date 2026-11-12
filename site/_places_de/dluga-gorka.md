@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Isolated dwellings south of and belonging to Wrąbczyn. Possibly appeared as *Siodmagorka* (Gilly 1802); *Osada Dlugagórka* (Richter 1843). Nazwy miejscowe Polski derives the name from the descriptive phrase *długa górka* 'long hill'.[^1]
 
-[^1]: Nazwy miejscowe Polski, t. 2, p. 348
+[^1]: Nazwy miejscowe Polski, t. 2, p. 347
 
 </div>
 {% endraw %}

@@ -5913,3 +5913,15 @@ footer on every page. Changed, in both languages:
 - **The caveat**: the editor does not read German — the German prose is
   machine-authored, follows the site's existing German terminology
   throughout, and awaits a German reader's review (NEEDS_CONFIRMATION).
+
+## 2026-11-11 - AGAD 1/432/0/1/139 added (not published)
+
+Two documents (Erdmann's reports of 1882 on Zagórów and Lissewo-Pyzdry, burnt
+leaves of the Warsaw consistory's file), era `wlodzimierz`, slug
+`agad14320139`. New: the supplied-text layer (`units/<slug>/supplied.yml`,
+`supplied_html()` in `pipeline/build/build_site_data.py`, strings in
+`site/_data/i18n.yml`, styles in `site/assets/style.css`): a collapsed panel
+under a page's text with proposed wording for lost stretches, grade A or B
+only, never in the transcription, translation or summaries. Also fixed: the
+Sources page icons were empty SVGs (`include.kind` in `site/_includes/
+sources-icon.html`).

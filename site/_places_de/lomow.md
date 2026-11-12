@@ -27,7 +27,7 @@ Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege docume
 
 [^42]: Słownik geograficzny, t. V, p. 697
 
-[^43]: Nazwy miejscowe Polski, t. 6, p. 359
+[^43]: Nazwy miejscowe Polski, t. 6, p. 358
 
 </div>
 {% endraw %}

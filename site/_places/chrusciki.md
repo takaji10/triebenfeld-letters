@@ -24,7 +24,7 @@ Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a Ger
 
 [^1]: Słownik geograficzny, t. XV, p. 328
 
-[^2]: Nazwy miejscowe Polski, t. 2, p. 93
+[^2]: Nazwy miejscowe Polski, t. 2, p. 92
 
 </div>
 {% endraw %}

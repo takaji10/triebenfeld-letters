@@ -26,7 +26,7 @@ Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and found
 
 [^2]: Słownik geograficzny, t. XI, p. 8
 
-[^3]: Nazwy miejscowe Polski, t. 8, p. 77
+[^3]: Nazwy miejscowe Polski, t. 8, p. 76
 
 </div>
 {% endraw %}

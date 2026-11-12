@@ -30,7 +30,7 @@ Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege 
 
 [^23]: Słownik geograficzny, t. II, p. 807
 
-[^24]: Nazwy miejscowe Polski, t. 3, p. 363
+[^24]: Nazwy miejscowe Polski, t. 3, p. 362
 
 </div>
 {% endraw %}

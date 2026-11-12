@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after his family name. Renamed to Anielewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. Nazwy miejscowe Polski records *Ingelfingen* (1900).[^1]
 
-[^1]: Nazwy miejscowe Polski, t. 1, p. 67
+[^1]: Nazwy miejscowe Polski, t. 1, p. 66
 
 </div>
 {% endraw %}

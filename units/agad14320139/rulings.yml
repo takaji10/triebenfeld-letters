@@ -1,0 +1,48 @@
+# Editorial rulings for 1/432/0/1/139 (AGAD), scans 128-130.
+#
+# Two documents (the editor, 2026-11-11): Pastor E. Erdmann's annual report
+# for 1882 on the parish of Zagórów (1: pages 0318_a and 0322_a) and his
+# report on the filial Lissewo-Pyzdry (2: pages 0322_b and 0345_a). The
+# leaves are burnt at the edges; every lost stretch is [...] in the text and
+# nothing is completed there (docs/CONSISTORY_1882_PLAN.md).
+
+places:
+  # Neither report shows a dateline in what survives: the place of writing is
+  # not read. (The reports come from the pastor at Zagórów.)
+  overrides: {}
+
+dates:
+  read: {}
+  # No date survives. 1882 is the year the file's title and the reports'
+  # own text give ("Jahre 1881 gegenüber" in document 2); the day and month,
+  # if the pastor gave them, stood in the burnt upper right and are not
+  # known. The reports answer the consistory's order of 30 October (1881),
+  # No. 267.
+  supplied:
+    "1": [1882, null, null, "year"]
+    "2": [1882, null, null, "year"]
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": report
+    "2": report
+
+  language:
+    "1": de
+    "2": de
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The parish of Zagórów (document 1) and its filial Pyzdry (document 2).
+  estates:
+    "1": [zagorowo]
+    "2": [zagorowo, pyzdry]
+
+damage:
+  letters: []

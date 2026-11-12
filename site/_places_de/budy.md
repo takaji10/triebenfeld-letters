@@ -25,5 +25,12 @@ Hamlet north of and belonging to Grądzeń. *Budy do Huty* (Łukom 1766); *Budy 
 </div>
 {% endraw %}
 
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.7947222%2C52.0988889%2C17.834722199999998%2C52.138888900000005&amp;layer=mapnik&amp;marker=52.1188889%2C17.8147222" title="Budy" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1188889&amp;mlon=17.8147222#map=15/52.1188889/17.8147222" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 

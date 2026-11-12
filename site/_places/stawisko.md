@@ -27,7 +27,7 @@ Isolated dwellings southeast of and belonging to Łomów. A significant swamp cr
 
 [^69]: Słownik geograficzny, t. XI, p. 295, sub 2
 
-[^70]: Nazwy miejscowe Polski, t. 15, p. 224
+[^70]: Nazwy miejscowe Polski, t. 15, p. 223
 
 </div>
 {% endraw %}

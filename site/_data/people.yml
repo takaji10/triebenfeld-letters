@@ -1692,14 +1692,14 @@
   name: "Küster"
   heading: "Küster"
   heading_de: "Küster"
-  count: 1
-  docs: 1
-  life: "documented 1814"
-  life_de: "belegt 1814"
+  count: 2
+  docs: 2
+  life: "documented 1814-1882"
+  life_de: "belegt 1814-1882"
   bio: "An official of the State Chancellor's chancery at Vienna, who noted in November 1814 that Triebenfeld's petition had been passed to Stägemann."
   bio_de: "Ein Beamter der Kanzlei des Staatskanzlers in Wien, der im November 1814 vermerkte, dass Triebenfelds Eingabe an Stägemann abgegeben war."
-  span: "1814"
-  letters: [{id: "1", uid: "iiihamdaiiinr12765-1", url: "/documents/iiihamdaiiinr12765/1/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}]
+  span: "1814–1882"
+  letters: [{id: "1", uid: "iiihamdaiiinr12765-1", url: "/documents/iiihamdaiiinr12765/1/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "1", uid: "agad14320139-1", url: "/documents/agad14320139/1/", unit_label: "1/432/0/1/139, scans 128-130", n: 1}]
 - slug: "kwilecki"
   name: "Kwilecki"
   heading: "Kwilecki"

@@ -72503,6 +72503,44 @@
   ]
  },
  {
+  "entity": "kuester",
+  "display": "Küster",
+  "count": 3,
+  "documents": [
+   "agad14320139-1",
+   "iiihamdaiiinr12765-1"
+  ],
+  "mentions": [
+   {
+    "uid": "iiihamdaiiinr12765-1",
+    "surface": "Küster",
+    "page": 1,
+    "page_id": "0003_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "iiihamdaiiinr12765-1",
+    "surface": "Küster",
+    "page": 1,
+    "page_id": "0003_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+    "line": 27,
+    "doc_line": 17
+   },
+   {
+    "uid": "agad14320139-1",
+    "surface": "Küster",
+    "page": 1,
+    "page_id": "0318_a",
+    "scan": "AGAD_1_432_0_1_139_0318_a-L1_01.jpg",
+    "line": 25,
+    "doc_line": 23
+   }
+  ]
+ },
+ {
   "entity": "bertrand",
   "display": "General Bertrand",
   "count": 3,
@@ -73662,34 +73700,6 @@
     "scan": "Oe_1_Bu_9454_0421_a1-L223_06.jpg",
     "line": 16291,
     "doc_line": 179
-   }
-  ]
- },
- {
-  "entity": "kuester",
-  "display": "Küster",
-  "count": 2,
-  "documents": [
-   "iiihamdaiiinr12765-1"
-  ],
-  "mentions": [
-   {
-    "uid": "iiihamdaiiinr12765-1",
-    "surface": "Küster",
-    "page": 1,
-    "page_id": "0003_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "iiihamdaiiinr12765-1",
-    "surface": "Küster",
-    "page": 1,
-    "page_id": "0003_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
-    "line": 27,
-    "doc_line": 17
    }
   ]
  },

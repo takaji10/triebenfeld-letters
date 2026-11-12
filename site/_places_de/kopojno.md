@@ -32,7 +32,7 @@ Village east of Zagórów. First mentioned as *Kopanino* in a 1240 document wher
 
 [^35]: Słownik geograficzny, t. XVI, p. 120
 
-[^36]: Nazwy miejscowe Polski, t. 5, p. 128
+[^36]: Nazwy miejscowe Polski, t. 5, p. 127
 
 </div>
 {% endraw %}

@@ -27,7 +27,7 @@ Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded a
 
 [^4]: Słownik geograficzny, t. XV, p. 51, sub 2
 
-[^5]: Nazwy miejscowe Polski, t. 1, p. 85
+[^5]: Nazwy miejscowe Polski, t. 1, p. 84
 
 </div>
 {% endraw %}

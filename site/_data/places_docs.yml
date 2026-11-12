@@ -2282,7 +2282,7 @@ przycierz:
   span: ''
   letters: []
 pyzdry:
-  docs: 18
+  docs: 19
   span: 1362–1936
   letters:
   - id: '4'
@@ -2370,6 +2370,11 @@ pyzdry:
     url: /documents/oe1bu9454/271/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+  - id: '2'
+    uid: agad14320139-2
+    url: /documents/agad14320139/2/
+    unit_label: 1/432/0/1/139, scans 128-130
+    n: 4
   - id: '1'
     uid: app539680669-1
     url: /documents/app539680669/1/
@@ -12317,8 +12322,8 @@ venedig:
     unit_label: III. HA MdA, III. Nr. 12366
     n: 3
 warschau:
-  docs: 71
-  span: 1292–1834
+  docs: 73
+  span: 1292–1882
   letters:
   - id: '8'
     uid: kdw-8
@@ -12670,6 +12675,16 @@ warschau:
     url: /documents/agad118501169/1/
     unit_label: AGAD 1/185/0/1/169
     n: 3
+  - id: '1'
+    uid: agad14320139-1
+    url: /documents/agad14320139/1/
+    unit_label: 1/432/0/1/139, scans 128-130
+    n: 3
+  - id: '2'
+    uid: agad14320139-2
+    url: /documents/agad14320139/2/
+    unit_label: 1/432/0/1/139, scans 128-130
+    n: 2
   - id: '7'
     uid: app539680545-7
     url: /documents/app539680545/7/

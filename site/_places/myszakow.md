@@ -27,7 +27,7 @@ Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek we
 
 [^50]: Słownik geograficzny, t. VI, p. 838
 
-[^51]: Nazwy miejscowe Polski, t. 7, p. 310
+[^51]: Nazwy miejscowe Polski, t. 7, p. 309
 
 </div>
 {% endraw %}

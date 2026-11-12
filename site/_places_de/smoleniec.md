@@ -25,7 +25,7 @@ Hamlet east of and belonging to Koszelewska Łąka. May have been a place where 
 [^67]: Szwiec 11
     [The document.](/literature/szwiec2009/#p-11)
 
-[^68]: Nazwy miejscowe Polski, t. 14, p. 177
+[^68]: Nazwy miejscowe Polski, t. 14, p. 176
 
 </div>
 {% endraw %}
