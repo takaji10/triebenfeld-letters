@@ -117,7 +117,7 @@ every medium or low reading. Changed:
 | 163 | Daniel Hohm, Wilhelm Moritz | xxx Daniel Hohm, xxx Wilhelm Moritz | image: their marks, three crosses each |
 | 176 | v Dziedzica | b. Dziedzica | image (b. underlined, były) |
 | 176 | przywilejów prowa | przywileju prawa | image |
-| 176 | gając się w Boru Jurami | [gajć?] się w Boru furami | image; "furami", with carts |
+| 176 | gając się w Boru Jurami | gajć się w Boru furami | image; "furami", with carts; "gajć" the editor's reading on the spot sheet (2026-11-13) |
 | 176 | i a prócz | i oprócz | image |
 | 176 | v mórg | 6. mórg | image (high) |
 | 176v | bremior | rewior | the same word "Rewiory" two lines below, "Rewiorże" on 176 |
@@ -134,7 +134,7 @@ every medium or low reading. Changed:
 | 177v | przywraći | przywróci | image; one grammatical reading |
 | 177v | (missing) | O co w najgłębszej pokorze błagamy. — | image: a line above the signatures the transcription leaves out |
 | 177v | Najunizensi | Najuniżensi | image |
-| 163 | u[?]głąbonem | [uszgłębonem?] | image; on the spot sheet |
+| 163 | u[?]głąbonem | najgłębszem | the editor's reading on the spot sheet (2026-11-13) |
 
 Left as transcribed although the image differs in spelling (not glaring):
 "hipotecznej" (written "hyppotecznej"), "w każdym czasie" ("w każdem
@@ -174,7 +174,7 @@ Translated in session, no paid run (`intake/english1333.py`); the index's
 English is a column of `index.csv`. Forms: folwark, servitude, commissioner,
 the Constituent Committee and the Central Commission, Morgen and rods,
 Nowawies (the edition's form for the Nowa Wieś of Trąbczyn), "manorial
-lordship (Dominium)". "smugi" stays Polish. "[gajć?] się" and "ugaj"
+lordship (Dominium)". "smugi" stays Polish. "gajć się" and "ugaj"
 (176-177) are words not understood and stay in Polish in the English. The
 catchwords are not said in the English.
 
@@ -187,15 +187,35 @@ mark of the text is in the English.
 Summaries: `intake/summaries1333.py`, German first, English from the
 German; claim check `intake/claim_check.yml`.
 
-## Open
+## The spot sheet (answered 2026-11-13)
 
-- The spot sheet (`intake/spot_sheet.py`, served by
-  `pipeline/review/queries.py --unit apl399801333`): seven readings of the
-  letters and the office's note.
-- Łazińsk: the register leaves the bare Polish form unmatched until the
-  editor says (reference/places.yml, `trabczynskie-stare-oledry`), so the
-  colonists' letters do not yet link to the colony (NEEDS_CONFIRMATION).
-- People: Krystian Lippeldt, Baron von Rosen, Vladimirov, Daniel and Wilhelm
-  Hohm, Wilhelm Moritz, Ludwig Hintz, Krystyan Sehr, Grodziecki, Swiderski,
-  Rywarski, Libner, Janicki, Sowiński, Czajka: no person entries yet
-  (NEEDS_CONFIRMATION).
+Seven readings (`intake/spot_sheet.py`, served by
+`pipeline/review/queries.py --unit apl399801333`; answers in
+`review/apl399801333/query_answers.json`). The editor's answers:
+
+- q01, 163, the closing formula: **"Z najgłębszem uszanowaniem"** (was
+  "[uszgłębonem?]").
+- q02, 176: **"gajć"** confirmed. What the colonists may do "furami 2 dni w
+  tydzień" is still not understood, so the word stays Polish in the English
+  and the summaries still say nothing of the carts (claim check, 0176_a).
+- q03, 88, the Russian note: the editor unsure; "[обмѣнѣ?]" and "[Комм…?]"
+  stand.
+- q04, 88, the receipt: the editor unsure; "[oddane?]", the date and the
+  signature stand as read.
+- q05, 88v: **"na mylnem przedstawieniu czynu przez włościan"** (the editor's
+  own reading, not one of the options: "czynu", of the fact).
+- q06, 115: **"art 1. 5. 11."** confirmed.
+- q07, 113: **"majem territorium"** as the editor transcribed it.
+
+## Rulings of 2026-11-13 (the editor, on the open questions)
+
+- **Łazińsk** is matched to the colony (`trabczynskie-stare-oledry`): the
+  colonists' letters of 1867 and 1868 link to it.
+- **The index's Russian place names** are matched to the register's places.
+- **Daniel and Wilhelm Hohm** are "probably" the "Холмъ Даніель" and
+  "Холмъ Вильгельмъ" of the Łazińsk liquidation table of 1868
+  ([[apl399806603]]): said as probable, not as fact.
+- **No person entries** for the people of this holding (Krystian Lippeldt,
+  Baron von Rosen, Vladimirov, the Hohms, Wilhelm Moritz, Ludwig Hintz,
+  Krystyan Sehr, Grodziecki, Swiderski, Rywarski, Libner, Janicki, Sowiński,
+  Czajka).

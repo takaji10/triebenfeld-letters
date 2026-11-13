@@ -2,7 +2,7 @@ The first part of the file on the drawing up of the liquidation tables of the Tr
 
 ### Historical background
 
-The ukases of 19 February (2 March) 1864 made the peasants of the Kingdom of Poland owners of the land they farmed, and kept for them their servitudes, the rights of pasture, wood and litter in the manor's land. Commissioners for peasant affairs, each over a district, settled who was entitled to what, and appeals went to the commission at Kalisz and to the Constituent Committee and its Central Commission in Warsaw. The liquidation table of each village recorded the result; the table of the Łazińsk colony, approved in 1868, is in [[unit:apl399806603]]. <!-- context -->
+The ukases of 19 February (2 March) 1864 made the peasants of the Kingdom of Poland owners of the land they farmed, and kept for them their servitudes, the rights of pasture, wood and litter in the manor's land. Commissioners for peasant affairs, each over a district, settled who was entitled to what, and appeals went to the commission at Kalisz and to the Constituent Committee and its Central Commission in Warsaw. The liquidation table of each village recorded the result; the table of the Łazińsk colony, approved in 1868, is in [[unit:apl399806603]]; Daniel and Wilhelm Hohm, who sign and petition here, are probably the Daniel and Wilhelm Холмъ among its colonists. <!-- context -->
 
 ### Contents
 

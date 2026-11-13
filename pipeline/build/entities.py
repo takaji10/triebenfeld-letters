@@ -218,6 +218,13 @@ def place_authority():
             if e.get('not_in'):
                 rx = _Rx(rx, not_in=set(e['not_in']))
             out.append((slug, unitlib.place_label(e) or slug, rx))
+        # `match_in:` a form that is this place only in the documents named:
+        # the bare "Łazińsk" of the colonists' petitions of 1867-1868, matched
+        # there and nowhere else (the editor, 2026-11-13).
+        for extra in e.get('match_in') or []:
+            out.append((slug, unitlib.place_label(e) or slug,
+                        _Rx(re.compile(_ANCHOR % extra['match'], re.UNICODE),
+                            only_in=set(extra['only_in']))))
     return out
 
 

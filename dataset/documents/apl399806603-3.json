@@ -88,7 +88,41 @@
  "mentions": [],
  "mentions_english": [],
  "place_canonical": "Kalisz",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишскаго",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "APL_39_98_0_6603_0028_a-L3_01.jpg",
+   "line": 278,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинская",
+   "page": 2,
+   "page_id": "0030_a",
+   "scan": "APL_39_98_0_6603_0030_a-L3_02.jpg",
+   "line": 283,
+   "doc_line": 6
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишъ",
+   "page": 2,
+   "page_id": "0030_a",
+   "scan": "APL_39_98_0_6603_0030_a-L3_02.jpg",
+   "line": 295,
+   "doc_line": 18
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

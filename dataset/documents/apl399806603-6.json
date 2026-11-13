@@ -163,7 +163,30 @@
  ],
  "mentions_english": [],
  "place_canonical": "Unknown",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупецкаго",
+   "page": 1,
+   "page_id": "0034_a",
+   "scan": "APL_39_98_0_6603_0034_a-L6_01.jpg",
+   "line": 383,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинскіе",
+   "page": 1,
+   "page_id": "0034_a",
+   "scan": "APL_39_98_0_6603_0034_a-L6_01.jpg",
+   "line": 383,
+   "doc_line": 2
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

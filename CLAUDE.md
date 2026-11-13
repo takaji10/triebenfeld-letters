@@ -127,7 +127,9 @@ so check them.
   1865 and the Łazińsk colonists' of 1867 and 1868. The editor's
   transcription of three letters corrected only where the image plainly
   differs; the rest transcribed by two readers each. Era `wlodzimierz`.
-  Open: the spot sheet, Łazińsk matching, Hohm/Холмъ, people
+  The spot sheet and the rulings applied 2026-11-13 (Łazińsk matched in
+  the petitions by a place's `match_in:`, the Russian place names matched,
+  no person entries). Open: the office's note on 88, the connections
   (NEEDS_CONFIRMATION). Read `units/apl399801333/notes.md` first, and
   WORKING_NOTES, "The index of APŁ 39/98/0/-/1333".
 

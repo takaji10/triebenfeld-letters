@@ -51,7 +51,7 @@ Kalisz, 11 [October?]
 
     (3, '0088_b'): '''farmsteads mentioned be left in the ownership of the dominium directum [written "dominii directi"]; in support of which the following grounds are put forward:
 
-The Honourable Commissioner of the 5th District based his ruling on a mistaken account [given?] by the peasants who claim the farmsteads in question, for in the grounds he stated:
+The Honourable Commissioner of the 5th District based his ruling on a mistaken account of the facts by the peasants who claim the farmsteads in question, for in the grounds he stated:
 
 1. That the owner removed six peasants from Nowawies of his own will —
 
@@ -105,7 +105,7 @@ I hold, therefore, that even if Lippeldt proved his use, a servitude can never b
 
     (4, '0115_a'): '''works to the advantage of the peasants of the village in which they grew up — and have well deserved it by their labour.
 
-Finally, Lippeldt cannot prove use: — to hold any rights — one must, under articles 1, 5, [11?] and others of the Supreme Ukase, have been exercising that right at the time the Ukase was issued. Lippeldt used [the pasture] before the Ukase, made a new contract after the Ukase, from which he withdrew of his own accord, — but he never used it at the moment of the Ukase — and that is precisely the chief principle for obtaining any of the rights the Ukase guaranteed to the peasants. —
+Finally, Lippeldt cannot prove use: — to hold any rights — one must, under articles 1, 5, 11 and others of the Supreme Ukase, have been exercising that right at the time the Ukase was issued. Lippeldt used [the pasture] before the Ukase, made a new contract after the Ukase, from which he withdrew of his own accord, — but he never used it at the moment of the Ukase — and that is precisely the chief principle for obtaining any of the rights the Ukase guaranteed to the peasants. —
 
 Since, then, Lippeldt as a stranger cannot draw favours from the village of Włodzimierów. — Since he likewise at the time''',
 
@@ -129,7 +129,7 @@ of the colonists of Łazińsk, in the commune of Trąbczyn, Słupca district, Ka
 
 As the attached postal receipt shows, we submitted this year a petition to the Constituent Committee for the recognition of the servitudes granted and assured to us by the manorial lordship in former years, that is, free pasture in the Trąbczyn forest, the raking of litter, the digging of stumps, etc., and yet we have so far received no decision; we therefore most humbly ask that an impartial official be delegated from the office of the Słupca district to look more closely into our claims, and then to decide how far this right belongs to us, and to send this decision to the hands of the Honourable Chief of the Słupca District.
 
-With [deepest?] respect, in the name of the others —
+With deepest respect, in the name of the others —
 
 faithful subjects —
 
@@ -147,7 +147,7 @@ Most Humble Petition
 
 of the colonists of the Łazińsk colony, in the commune of Trąbczyn, Słupca district, Kalisz governorate, for the recognition and confirmation of the rights named in the privilege
 
-According to the contract of purchase of the farmsteads from Prince Hohenlohe, the former owner of the Trąbczyn estate, and the privilege of rights he granted us in 1805 — we may graze our stock in the forest, in common with the manor's, in the Studzienka forest section as far as the Bishop's boundary — we may also [gajć?] się [a word not understood] in the forest with carts 2 days a week and rake litter every year — and besides the arable land we had 6 Morgen of clay land for a clay pit for our own needs — and all this His Excellency the Commissioner Baron Rosen recognised as lawful for us, and he obliged the owner to supply the evidence we needed and to produce the mortgage''',
+According to the contract of purchase of the farmsteads from Prince Hohenlohe, the former owner of the Trąbczyn estate, and the privilege of rights he granted us in 1805 — we may graze our stock in the forest, in common with the manor's, in the Studzienka forest section as far as the Bishop's boundary — we may also gajć się [a word not understood] in the forest with carts 2 days a week and rake litter every year — and besides the arable land we had 6 Morgen of clay land for a clay pit for our own needs — and all this His Excellency the Commissioner Baron Rosen recognised as lawful for us, and he obliged the owner to supply the evidence we needed and to produce the mortgage''',
 
     (6, '0176_b'): '''map of 1805 by 3/15 August — which we can prove at any time by witnesses under oath. But when the owner drew up a new table in 1838, he divided the forest section on which we had our pasture into 3 sections, and on 2 he forbids the grazing of cattle altogether, and on the third part he made 11 clearings and young plantations, and we have no pasture — he does not allow the [ugaj] and the raking of litter, he takes the clay pit away for his own use — and for the drawing up of the new right and table, at the time of the visit of the Honourable Commissioner Władimirow, he brought forward false witnesses and gave them 12 roubles each to testify as he claims — and to this the witnesses are: 1. Marcin Rywarski and 2. Libner, a joiner, living in the village of Trąbczyn — and even one witness of the owner's, Tomasz Janicki, himself declared it.
 

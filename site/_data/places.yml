@@ -315,10 +315,10 @@
   letters: [{id: "19", uid: "kdw-19", url: "/documents/kdw/19/", unit_label: "Kodeks Dyplomatyczny Wielkopolski"}, {id: "1", uid: "app53170koningr153-1", url: "/documents/app53170koningr153/1/", unit_label: "53/17/0/-/Konin Gr.153"}, {id: "2", uid: "app53170koningr153-2", url: "/documents/app53170koningr153/2/", unit_label: "53/17/0/-/Konin Gr.153"}, {id: "1", uid: "app5320pozgr1181-1", url: "/documents/app5320pozgr1181/1/", unit_label: "53/20/0/-/Poznań Gr.1181"}, {id: "128", uid: "oe1bu9454-128", url: "/documents/oe1bu9454/128/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", unit_label: "Oe 1 Bü 14525"}, {id: "146", uid: "oe1bu9454-146", url: "/documents/oe1bu9454/146/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "147", uid: "oe1bu9454-147", url: "/documents/oe1bu9454/147/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "148", uid: "oe1bu9454-148", url: "/documents/oe1bu9454/148/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "149", uid: "oe1bu9454-149", url: "/documents/oe1bu9454/149/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "16", uid: "oe1bu14526-16", url: "/documents/oe1bu14526/16/", unit_label: "Oe 1 Bü 14526"}, {id: "172", uid: "oe1bu9454-172", url: "/documents/oe1bu9454/172/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "168", uid: "oe1bu9454-168", url: "/documents/oe1bu9454/168/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "15", uid: "oe1bu14526-15", url: "/documents/oe1bu14526/15/", unit_label: "Oe 1 Bü 14526"}, {id: "14", uid: "oe1bu14526-14", url: "/documents/oe1bu14526/14/", unit_label: "Oe 1 Bü 14526"}, {id: "13", uid: "oe1bu14526-13", url: "/documents/oe1bu14526/13/", unit_label: "Oe 1 Bü 14526"}, {id: "11", uid: "oe1bu14526-11", url: "/documents/oe1bu14526/11/", unit_label: "Oe 1 Bü 14526"}, {id: "12", uid: "oe1bu14526-12", url: "/documents/oe1bu14526/12/", unit_label: "Oe 1 Bü 14526"}, {id: "10", uid: "oe1bu14526-10", url: "/documents/oe1bu14526/10/", unit_label: "Oe 1 Bü 14526"}, {id: "166", uid: "oe1bu9454-166", url: "/documents/oe1bu9454/166/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "9", uid: "oe1bu14526-9", url: "/documents/oe1bu14526/9/", unit_label: "Oe 1 Bü 14526"}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", unit_label: "Oe 1 Bü 14526"}, {id: "7", uid: "oe1bu14526-7", url: "/documents/oe1bu14526/7/", unit_label: "Oe 1 Bü 14526"}, {id: "6", uid: "oe1bu14526-6", url: "/documents/oe1bu14526/6/", unit_label: "Oe 1 Bü 14526"}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "192", uid: "oe1bu9454-192", url: "/documents/oe1bu9454/192/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "4", uid: "apl399801333-4", url: "/documents/apl399801333/4/", unit_label: "APŁ 39/98/0/-/1333"}]
 - name: "Trąbczyńskie Stare Olędry"
   slug: "trabczynskie-stare-oledry"
-  count: 1
-  docs: 1
-  span: "1820"
-  letters: [{id: "1", uid: "app539680782-1", url: "/documents/app539680782/1/", unit_label: "APP 53/968/0/-/782"}]
+  count: 3
+  docs: 3
+  span: "1820–1868"
+  letters: [{id: "1", uid: "app539680782-1", url: "/documents/app539680782/1/", unit_label: "APP 53/968/0/-/782"}, {id: "5", uid: "apl399801333-5", url: "/documents/apl399801333/5/", unit_label: "APŁ 39/98/0/-/1333"}, {id: "6", uid: "apl399801333-6", url: "/documents/apl399801333/6/", unit_label: "APŁ 39/98/0/-/1333"}]
 - name: "Venice (Venedig)"
   slug: "venice-venedig"
   count: 1
@@ -369,10 +369,10 @@
   letters: [{id: "167", uid: "oe1bu9454-167", url: "/documents/oe1bu9454/167/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "190", uid: "oe1bu9454-190", url: "/documents/oe1bu9454/190/", unit_label: "HZAN Oe 1 Bü 9454"}, {id: "36", uid: "oe1bu9454-36", url: "/documents/oe1bu9454/36/", unit_label: "HZAN Oe 1 Bü 9454"}]
 - name: "Łazińsk"
   slug: "lazinsk"
-  count: 4
-  docs: 4
-  span: "1867–1936"
-  letters: [{id: "5", uid: "apl399801333-5", url: "/documents/apl399801333/5/", unit_label: "APŁ 39/98/0/-/1333"}, {id: "6", uid: "apl399801333-6", url: "/documents/apl399801333/6/", unit_label: "APŁ 39/98/0/-/1333"}, {id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", unit_label: "APP 53/968/0/-/669"}, {id: "2", uid: "app539680669-2", url: "/documents/app539680669/2/", unit_label: "APP 53/968/0/-/669"}]
+  count: 2
+  docs: 2
+  span: "1936"
+  letters: [{id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", unit_label: "APP 53/968/0/-/669"}, {id: "2", uid: "app539680669-2", url: "/documents/app539680669/2/", unit_label: "APP 53/968/0/-/669"}]
 - name: "Świniary (Schweinern)"
   slug: "swiniary-schweinern"
   count: 3

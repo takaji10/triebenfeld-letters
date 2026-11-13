@@ -60,7 +60,19 @@
  "mentions": [],
  "mentions_english": [],
  "place_canonical": "Unknown",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишск",
+   "page": 1,
+   "page_id": "5165_a1",
+   "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
+   "line": 108,
+   "doc_line": 5
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

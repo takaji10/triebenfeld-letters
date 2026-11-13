@@ -22,7 +22,7 @@ places:
       source: Rolf Jehke, Territoriale Veränderungen in Deutschland und deutsch verwalteten
         Gebieten 1874-1945, s.v. Amtsbezirk Drommin (last changed 7 February 2021)
       url: https://www.territorial.de/wart//konin/drommin.htm
-    match: Tr[ąa][bmp]c?z[yi]n\w*|Tr[ąa]mbczyn\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner
+    match: Tr[ąa][bmp]c?z[yi]n\w*|Tr[ąa]mbczyn\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner|Тромбчин\w*
     tier: Book-confirmed
     variants:
     - Trąbczin
@@ -298,7 +298,7 @@ places:
     german: Marianton
     kind: village
     area: trabczyn-zagorow
-    match: Mariant[oóe][nw]\w*|Maryant[oó][nw]\w*
+    match: Mariant[oóe][nw]\w*|Maryant[oó][nw]\w*|Мар[іи]янтов\w*
     tier: Context-inferred
     variants:
     - Marianton
@@ -364,7 +364,13 @@ places:
     area: trabczyn-zagorow
     tier: Book-confirmed
     match: Staro[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)|Hollendry(?=
-      Luzne Stare i nowe)
+      Luzne Stare i nowe)|Лаз[иіе]нск\w*
+    # The bare Polish form, matched only in the colonists' petitions of 1867
+    # and 1868 (APŁ 39/98/0/-/1333, the editor 2026-11-13); elsewhere it
+    # stays unmatched (open_questions).
+    match_in:
+    - match: Łazi(?:e)?ńsk\w*
+      only_in: [apl399801333-5, apl399801333-6]
     distinct_from:
     - lazy-trabczyn
     - trabczynskie-nowe-oledry
@@ -623,7 +629,7 @@ places:
     german: Kalisch
     kind: city
     area: trabczyn-zagorow
-    match: Kalis(?:z|ch)\w*
+    match: Kalis(?:z|ch)\w*|Калиш\w*
     tier: Established
     variants:
     - form: Kalisch
@@ -637,7 +643,7 @@ places:
     display: Konin
     kind: town
     area: trabczyn-zagorow
-    match: Konin\w*|Konińsk\w*
+    match: Konin\w*|Konińsk\w*|Конин\w*
     not_in:
     - agad1169011745-1
     tier: Established
@@ -1032,7 +1038,7 @@ places:
     display: Osiny
     kind: village
     area: trabczyn-zagorow
-    match: Osin\w*
+    match: Osin\w*|Осин[ыа]
     tier: ''
     variants:
     - Osziny
@@ -1279,7 +1285,7 @@ places:
     display: Słupca
     kind: town
     area: trabczyn-zagorow
-    match: S[łl]upca
+    match: S[łl]upca|Слуп(?:ецк\w*|цк\w*|ц\w*|\.)
     tier: Context-inferred
     variants: []
   gostyszyn:
@@ -1920,7 +1926,7 @@ places:
     display: Nowawies
     kind: village
     area: trabczyn-zagorow
-    match: Nowawie[sś]|Nowa Wie[sś](?= \|| ?\. Wsie)
+    match: Nowawie[sś]|Nowa Wie[sś](?= \|| ?\. Wsie)|Нова(?:я)? [Вв]есь
     tier: Text-confirmed
     variants:
     - Nowa wies

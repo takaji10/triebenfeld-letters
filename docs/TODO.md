@@ -1584,8 +1584,11 @@ transcription; 108 readings settled in session before the first build
       plainly differs; 114v-115v and no. 59 (88-89v) transcribed; the plan as
       an image; English, summaries, claim check, holding page (both
       languages), timeline (1865, 1867-1868), era paragraph.
-- [ ] You: the spot sheet; the questions in NEEDS_CONFIRMATION ("APŁ
-      39/98/0/-/1333"): Łazińsk, Hohm/Холмъ, people, Russian place names,
-      the proposed connections.
+- [x] The spot sheet answered and applied; Łazińsk matched in the two
+      petitions, the index's Russian place names matched, Hohm/Холмъ said as
+      probable, no person entries (the editor, 2026-11-13).
+- [ ] You: the proposed connections (NEEDS_CONFIRMATION, "APŁ
+      39/98/0/-/1333", 3); the office's note on folio 88 stays as read
+      unless you can read it.
 - [ ] Publish at your word.
 

@@ -257,7 +257,52 @@
  ],
  "mentions_english": [],
  "place_canonical": "Słupca",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупецк",
+   "page": 1,
+   "page_id": "5165_a1",
+   "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
+   "line": 116,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Тромбчинъ",
+   "page": 1,
+   "page_id": "5165_a1",
+   "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
+   "line": 116,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинской",
+   "page": 1,
+   "page_id": "5165_a1",
+   "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
+   "line": 116,
+   "doc_line": 2
+  },
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупца",
+   "page": 8,
+   "page_id": "5169_a2",
+   "scan": "APP_53_968_0_716_5169_a2-L5_01.jpg",
+   "line": 226,
+   "doc_line": 105
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

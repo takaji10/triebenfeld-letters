@@ -517,7 +517,12 @@ def main():
         if not _lab and p:
             # a dateline form the authority does not list verbatim
             # (Frankfurth a.d. Oder): the place whose pattern it opens with
-            _lab = next((disp for _s, disp, rx in PLACES_RE if rx.match(p)), None)
+            # A pattern limited to some documents (`match_in:`, `not_in:`) is
+            # asked first: the bare "Łazińsk" of the 1867-1868 petitions is the
+            # colony, Breyer's Łazińsk of 1936 not yet (2026-11-13).
+            _lab = next((disp for _s, disp, rx in PLACES_RE
+                         if (not hasattr(rx, 'applies') or rx.applies(r['uid']))
+                         and rx.match(p)), None)
         p = _lab or p
         # Letters that name no place of writing are grouped under "Unknown"
         # rather than dropped. Many of these genuinely never say where they were

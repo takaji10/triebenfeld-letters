@@ -357,7 +357,96 @@
  ],
  "mentions_english": [],
  "place_canonical": "Kalisz",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинской",
+   "page": 1,
+   "page_id": "0015_a",
+   "scan": "APL_39_98_0_6603_0015_a-L2_01.jpg",
+   "line": 138,
+   "doc_line": 2
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишской",
+   "page": 1,
+   "page_id": "0015_a",
+   "scan": "APL_39_98_0_6603_0015_a-L2_01.jpg",
+   "line": 139,
+   "doc_line": 3
+  },
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупецкаго",
+   "page": 1,
+   "page_id": "0015_a",
+   "scan": "APL_39_98_0_6603_0015_a-L2_01.jpg",
+   "line": 139,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Тромбчинъ",
+   "page": 1,
+   "page_id": "0015_a",
+   "scan": "APL_39_98_0_6603_0015_a-L2_01.jpg",
+   "line": 140,
+   "doc_line": 4
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишской",
+   "page": 1,
+   "page_id": "0015_a",
+   "scan": "APL_39_98_0_6603_0015_a-L2_01.jpg",
+   "line": 142,
+   "doc_line": 6
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинскіе",
+   "page": 2,
+   "page_id": "0016_a",
+   "scan": "APL_39_98_0_6603_0016_a-L2_02.jpg",
+   "line": 163,
+   "doc_line": 26
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинской",
+   "page": 7,
+   "page_id": "0026_a",
+   "scan": "APL_39_98_0_6603_0026_a-L2_07.jpg",
+   "line": 260,
+   "doc_line": 118
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишъ",
+   "page": 8,
+   "page_id": "0028_a",
+   "scan": "APL_39_98_0_6603_0028_a-L3_01.jpg",
+   "line": 272,
+   "doc_line": 129
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

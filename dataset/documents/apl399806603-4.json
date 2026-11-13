@@ -92,7 +92,107 @@
  "mentions": [],
  "mentions_english": [],
  "place_canonical": "Kalisz",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупецкаго",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "APL_39_98_0_6603_0031_a-L4_01.jpg",
+   "line": 303,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Тромбчинъ",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "APL_39_98_0_6603_0031_a-L4_01.jpg",
+   "line": 303,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинская",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "APL_39_98_0_6603_0031_a-L4_01.jpg",
+   "line": 303,
+   "doc_line": 3
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калиш",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "APL_39_98_0_6603_0031_a-L4_01.jpg",
+   "line": 306,
+   "doc_line": 6
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишскаго",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "APL_39_98_0_6603_0031_a-L4_01.jpg",
+   "line": 306,
+   "doc_line": 6
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинской",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "APL_39_98_0_6603_0031_a-L4_01.jpg",
+   "line": 315,
+   "doc_line": 15
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Тромбчинъ",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "APL_39_98_0_6603_0031_a-L4_01.jpg",
+   "line": 317,
+   "doc_line": 17
+  },
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупецкаго",
+   "page": 2,
+   "page_id": "0032_a",
+   "scan": "APL_39_98_0_6603_0032_a-L4_02.jpg",
+   "line": 339,
+   "doc_line": 38
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишъ",
+   "page": 2,
+   "page_id": "0032_a",
+   "scan": "APL_39_98_0_6603_0032_a-L4_02.jpg",
+   "line": 344,
+   "doc_line": 43
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

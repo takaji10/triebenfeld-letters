@@ -3962,3 +3962,18 @@ first and a fine pass at their word. The files are in
   matched `miaczynski` (Stanisław, Michalina's husband); check `people:` in the
   holding's `site/_letters/*.html` after the first build, and fix with
   `only_in`/`not_in` limited to the holding.
+- **A place form to be matched in a few documents only**: places had only
+  `not_in`, people `only_in`. A place in reference/places.yml can now carry
+  `match_in:` (a list of `{match, only_in}`), read by
+  `entities.place_authority`; the bare "Łazińsk" of the colonists' petitions
+  is matched that way, and stays unmatched elsewhere (Breyer's Łazinsk of
+  1936 waits on the editor). Use it rather than widening `match`.
+- **A spot-sheet answer under "Something else" is the editor's own reading**
+  and may be none of the options ("czynu" for "[czynionem?]" / "czynnem"):
+  take it as written, and change the English to follow. An "unsure" answer
+  leaves the doubt mark as it stands; say so in NEEDS_CONFIRMATION.
+- **Russian place names** are matched in the place's own `match` (Тромбчин\w*,
+  Лаз[иіе]нск\w*, ...), parallel to the Polish pattern: where the Polish
+  matches only the noun (Słupca) the Russian adjectives of the district were
+  taken in all the same (Слупецк\w*), the editor having asked for the
+  index's names matched (2026-11-13).

@@ -84,7 +84,19 @@
  "mentions": [],
  "mentions_english": [],
  "place_canonical": "Unknown",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинскiй",
+   "page": 1,
+   "page_id": "5169_a2",
+   "scan": "APP_53_968_0_716_5169_a2-L5_01.jpg",
+   "line": 229,
+   "doc_line": 1
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

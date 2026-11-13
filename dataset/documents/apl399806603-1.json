@@ -257,7 +257,74 @@
  ],
  "mentions_english": [],
  "place_canonical": "Unknown",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинской",
+   "page": 1,
+   "page_id": "0000_a",
+   "scan": "APL_39_98_0_6603_0000_a-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишской",
+   "page": 1,
+   "page_id": "0000_a",
+   "scan": "APL_39_98_0_6603_0000_a-L1_01.jpg",
+   "line": 5,
+   "doc_line": 3
+  },
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупецкаго",
+   "page": 1,
+   "page_id": "0000_a",
+   "scan": "APL_39_98_0_6603_0000_a-L1_01.jpg",
+   "line": 5,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Тромбчинъ",
+   "page": 1,
+   "page_id": "0000_a",
+   "scan": "APL_39_98_0_6603_0000_a-L1_01.jpg",
+   "line": 6,
+   "doc_line": 4
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишской",
+   "page": 1,
+   "page_id": "0000_a",
+   "scan": "APL_39_98_0_6603_0000_a-L1_01.jpg",
+   "line": 8,
+   "doc_line": 6
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Лазинской",
+   "page": 8,
+   "page_id": "0013_a",
+   "scan": "APL_39_98_0_6603_0013_a-L1_08.jpg",
+   "line": 127,
+   "doc_line": 118
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

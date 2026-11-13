@@ -2,7 +2,7 @@ Der erste Teil der Akte über die Aufstellung der Liquidationstabellen des Gutes
 
 ### Historischer Hintergrund
 
-Die Ukase vom 19. Februar (2. März) 1864 machten die Bauern des Königreichs Polen zu Eigentümern des Landes, das sie bewirtschafteten, und erhielten ihnen ihre Servitute, die Rechte auf Weide, Holz und Streu im Land des Gutes. Kommissare für Bauernangelegenheiten, jeder für einen Bezirk, entschieden, wem was zustand; Berufungen gingen an die Kommission in Kalisch und an das Konstituierende Komitee und seine Zentrale Kommission in Warschau. Die Liquidationstabelle jedes Dorfes hielt das Ergebnis fest; die 1868 bestätigte Tabelle der Kolonie Łazińsk steht in [[unit:apl399806603]]. <!-- context -->
+Die Ukase vom 19. Februar (2. März) 1864 machten die Bauern des Königreichs Polen zu Eigentümern des Landes, das sie bewirtschafteten, und erhielten ihnen ihre Servitute, die Rechte auf Weide, Holz und Streu im Land des Gutes. Kommissare für Bauernangelegenheiten, jeder für einen Bezirk, entschieden, wem was zustand; Berufungen gingen an die Kommission in Kalisch und an das Konstituierende Komitee und seine Zentrale Kommission in Warschau. Die Liquidationstabelle jedes Dorfes hielt das Ergebnis fest; die 1868 bestätigte Tabelle der Kolonie Łazińsk steht in [[unit:apl399806603]]; Daniel und Wilhelm Hohm, die hier unterschreiben und Bittschriften einreichen, sind wahrscheinlich die Daniel und Wilhelm Холмъ unter ihren Kolonisten. <!-- context -->
 
 ### Inhalt
 

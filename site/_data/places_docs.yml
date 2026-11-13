@@ -512,8 +512,8 @@ jeziorko:
   span: ''
   letters: []
 kalisz:
-  docs: 104
-  span: 1280–1865
+  docs: 111
+  span: 1280–1897
   letters:
   - id: '6'
     uid: kdw-6
@@ -1035,6 +1035,41 @@ kalisz:
     url: /documents/apl399801333/3/
     unit_label: APŁ 39/98/0/-/1333
     n: 3
+  - id: '1'
+    uid: apl399806603-1
+    url: /documents/apl399806603/1/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
+  - id: '2'
+    uid: app539680716-2
+    url: /documents/app539680716/2/
+    unit_label: APP 53/968/0/-/716
+    n: 1
+  - id: '2'
+    uid: apl399806603-2
+    url: /documents/apl399806603/2/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 3
+  - id: '3'
+    uid: app539680716-3
+    url: /documents/app539680716/3/
+    unit_label: APP 53/968/0/-/716
+    n: 1
+  - id: '3'
+    uid: apl399806603-3
+    url: /documents/apl399806603/3/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
+  - id: '4'
+    uid: apl399806603-4
+    url: /documents/apl399806603/4/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
+  - id: '5'
+    uid: apl399806603-5
+    url: /documents/apl399806603/5/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
 kirchol:
   docs: 0
   span: ''
@@ -1044,7 +1079,7 @@ koczogowa:
   span: ''
   letters: []
 konin:
-  docs: 41
+  docs: 42
   span: 1280–1936
   letters:
   - id: '6'
@@ -1247,6 +1282,11 @@ konin:
     url: /documents/iiihamdaiiinr12366/6/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
+  - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 9
   - id: '1'
     uid: app539680669-1
     url: /documents/app539680669/1/
@@ -1604,8 +1644,8 @@ maradz-oledry:
   span: ''
   letters: []
 mariantow:
-  docs: 15
-  span: 1791–1806
+  docs: 16
+  span: 1791–1870
   letters:
   - id: '1'
     uid: adwl85-1
@@ -1678,6 +1718,11 @@ mariantow:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
   - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 4
+  - id: '1'
     uid: app5321pyzdrygr115-1
     url: /documents/app5321pyzdrygr115/1/
     unit_label: 53/21/0/-/Pyzdry Gr.115
@@ -1725,8 +1770,8 @@ noga:
   span: ''
   letters: []
 nowawies-trabczyn:
-  docs: 22
-  span: 1589–1865
+  docs: 23
+  span: 1589–1870
   letters:
   - id: '1'
     uid: app536017-1
@@ -1833,6 +1878,11 @@ nowawies-trabczyn:
     url: /documents/apl399801333/3/
     unit_label: APŁ 39/98/0/-/1333
     n: 1
+  - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 3
   - id: '1'
     uid: app5321pyzdrygr115-1
     url: /documents/app5321pyzdrygr115/1/
@@ -2160,8 +2210,8 @@ orlina-duza:
   span: ''
   letters: []
 osiny:
-  docs: 16
-  span: 1589–1830
+  docs: 17
+  span: 1589–1870
   letters:
   - id: '1'
     uid: app536017-1
@@ -2238,6 +2288,11 @@ osiny:
     url: /documents/iiihamdaiiinr12367/7/
     unit_label: III. HA MdA, III. Nr. 12367
     n: 1
+  - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 2
   - id: '1'
     uid: app5321pyzdrygr115-1
     url: /documents/app5321pyzdrygr115/1/
@@ -2796,7 +2851,7 @@ szetlewek:
     unit_label: III. HA MdA, III. Nr. 12366
     n: 2
 slupca:
-  docs: 3
+  docs: 11
   span: 1806–1936
   letters:
   - id: '179'
@@ -2808,6 +2863,46 @@ slupca:
     uid: oe1bu9454-271
     url: /documents/oe1bu9454/271/
     unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '1'
+    uid: apl399806603-1
+    url: /documents/apl399806603/1/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '2'
+    uid: app539680716-2
+    url: /documents/app539680716/2/
+    unit_label: APP 53/968/0/-/716
+    n: 1
+  - id: '4'
+    uid: app539680716-4
+    url: /documents/app539680716/4/
+    unit_label: APP 53/968/0/-/716
+    n: 2
+  - id: '2'
+    uid: apl399806603-2
+    url: /documents/apl399806603/2/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 11
+  - id: '4'
+    uid: apl399806603-4
+    url: /documents/apl399806603/4/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
+  - id: '6'
+    uid: apl399806603-6
+    url: /documents/apl399806603/6/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '5'
+    uid: apl399806603-5
+    url: /documents/apl399806603/5/
+    unit_label: APŁ 39/98/0/-/6603
     n: 1
   - id: '1'
     uid: app539680669-1
@@ -2831,7 +2926,7 @@ trzcianne:
   span: ''
   letters: []
 trabczyn:
-  docs: 248
+  docs: 253
   span: 1240–1936
   letters:
   - id: '2'
@@ -4049,11 +4144,36 @@ trabczyn:
     url: /documents/apl399801333/5/
     unit_label: APŁ 39/98/0/-/1333
     n: 1
+  - id: '1'
+    uid: apl399806603-1
+    url: /documents/apl399806603/1/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '4'
+    uid: app539680716-4
+    url: /documents/app539680716/4/
+    unit_label: APP 53/968/0/-/716
+    n: 1
   - id: '6'
     uid: apl399801333-6
     url: /documents/apl399801333/6/
     unit_label: APŁ 39/98/0/-/1333
     n: 4
+  - id: '2'
+    uid: apl399806603-2
+    url: /documents/apl399806603/2/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 3
+  - id: '4'
+    uid: apl399806603-4
+    url: /documents/apl399806603/4/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
   - id: '1'
     uid: app539680669-1
     url: /documents/app539680669/1/
@@ -4118,8 +4238,8 @@ trabczynskie-nowe-oledry:
     unit_label: 53/21/0/-/Pyzdry Gr.115
     n: 1
 trabczynskie-stare-oledry:
-  docs: 4
-  span: 1791–1860
+  docs: 15
+  span: 1791–1897
   letters:
   - id: '1'
     uid: adwl85-1
@@ -4136,6 +4256,61 @@ trabczynskie-stare-oledry:
     url: /documents/app539680783/1/
     unit_label: APP 53/968/0/-/783
     n: 3
+  - id: '5'
+    uid: apl399801333-5
+    url: /documents/apl399801333/5/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 2
+  - id: '5'
+    uid: app539680716-5
+    url: /documents/app539680716/5/
+    unit_label: APP 53/968/0/-/716
+    n: 1
+  - id: '1'
+    uid: apl399806603-1
+    url: /documents/apl399806603/1/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
+  - id: '4'
+    uid: app539680716-4
+    url: /documents/app539680716/4/
+    unit_label: APP 53/968/0/-/716
+    n: 1
+  - id: '6'
+    uid: apl399801333-6
+    url: /documents/apl399801333/6/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 2
+  - id: '2'
+    uid: apl399806603-2
+    url: /documents/apl399806603/2/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 3
+  - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 2
+  - id: '3'
+    uid: apl399806603-3
+    url: /documents/apl399806603/3/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '4'
+    uid: apl399806603-4
+    url: /documents/apl399806603/4/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
+  - id: '6'
+    uid: apl399806603-6
+    url: /documents/apl399806603/6/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '5'
+    uid: apl399806603-5
+    url: /documents/apl399806603/5/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
   - id: '1'
     uid: app5321pyzdrygr115-1
     url: /documents/app5321pyzdrygr115/1/

@@ -6029,6 +6029,21 @@ sources-icon.html`).
   second husband was Teresa Golińska's father; Konstancja Krusińska added
   as Teresa's mother; the person pages say so.
 
+## 2026-11-13 (late) - APŁ 39/98/0/-/1333: the spot sheet and the editor's rulings (branch `trampczynski-family`, not published)
+
+- **The spot sheet applied**: "Z najgłębszem uszanowaniem" (163), "gajć"
+  (176), "na mylnem przedstawieniu czynu" (88v, the editor's own reading),
+  "art 1. 5. 11." (115), "majem" kept (113); the office's note on 88 stands
+  as read (the editor unsure). The English follows.
+- **Places**: "Łazińsk" matched to the colony (`trabczynskie-stare-oledry`) in
+  the colonists' two petitions only, by a new `match_in:` of a place in
+  reference/places.yml (pipeline/build/entities.py); the Russian forms of
+  Trąbczyn, Nowawies, Marianton, Łazińsk, Osiny, Słupca, Konin and Kalisz
+  matched (the index of 1333 and the table of 6603).
+- **Daniel and Wilhelm Hohm** said on the holding page to be probably the
+  Холмъ of the Łazińsk table of 1868; no person entries for the holding's
+  people (the editor).
+
 ## 2026-11-13 (evening) - APŁ 39/98/0/-/1333 added: the liquidation-tables file of Trąbczyn, part I (branch `trampczynski-family`, not published)
 
 - **New holding `apl399801333`**, six documents on 30 pages: the file's

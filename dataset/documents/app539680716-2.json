@@ -99,7 +99,30 @@
  "mentions": [],
  "mentions_english": [],
  "place_canonical": "Unknown",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Калишск",
+   "page": 1,
+   "page_id": "5163_a2",
+   "scan": "APP_53_968_0_716_5163_a2-L2_01.jpg",
+   "line": 55,
+   "doc_line": 1
+  },
+  {
+   "entity": "slupca",
+   "display": "Słupca",
+   "kind": "place",
+   "surface": "Слупецк",
+   "page": 1,
+   "page_id": "5163_a2",
+   "scan": "APP_53_968_0_716_5163_a2-L2_01.jpg",
+   "line": 55,
+   "doc_line": 1
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

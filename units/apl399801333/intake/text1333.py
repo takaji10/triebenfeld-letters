@@ -55,7 +55,7 @@ Kalisz dnia 11 [Paźdz.?]
 [A. Kowal…?]
 osad'''),
         ('0088_b', '''osad pomienionych na własność dominii directi; ku czemu przedstawiają się następujące Zasady:
-Wgo Komisarz 5 Rewiru wyrzeczenie Swe oparł, na mylnem przedstawieniu [czynionem?] przez włościan, prawa do osad quaestionis roszczących, albowiem w motywach wyrzekł:
+Wgo Komisarz 5 Rewiru wyrzeczenie Swe oparł, na mylnem przedstawieniu czynu przez włościan, prawa do osad quaestionis roszczących, albowiem w motywach wyrzekł:
 1° Jakoby właściciel usunął samowolnie z Nowej wsi 6ciu włościan —
 2° Jakoby to uczynił w celu przyłączenia tych osad, do gruntów folwarcznych. —
 W chwili wydania Najwyższego Ukazu z r. 1846 w Nowej wsi znajdowało się ośm osad włościańskich — obejmujących po mórg 5 — jedna mórg 5 prętów 25 i jedna mórg 5 prętów 75 — które były w posiadaniu rolników aż do r. 1856, ta lokacja włościan, naówczas była bardzo wygodna dla właściciela — i nigdy o żadnej zmianie niemyślał. Dopiero sami włościanie Nowej wsi, ponosząc nieustanne klęski w gospodarstwie skutkiem nazbyt niskiego położenia gruntów, w latach mokrych niezdolnego do uprawy, zgłosili się
@@ -89,7 +89,7 @@ Ponieważ jak powiedziałem, to pole ugorowało, więc w następnych latach, Lip
 Z powyższego opisu okazuje się że Lippeldt nie miał żadnych służebności na gruncie moim — że używał go wprawdzie na pastwisko, ale tylko za czasowem dozwoleniem — które nawet dla włościan nie może stanowić tytułu do służebności przeciw dziedzicowi — a cóż dopiero dla człowieka z obcej wsi — który dla gruntu jaki dziś zagarnąć pragnie nic nie uczynił — żadnej nie przyniósł korzyści —
 Sądzę więc że gdyby nawet Lippeldt dowiódł użytkowania to nigdy jednak służebność przyznaną być mu nie może, bo Najwyższy Ukaz obejmując swemi dobrodziejstwami ogół włościan Królestwa — jednak głównie'''),
         ('0115_a', '''działa na korzyść włościan tej wsi, w której wzrasli — i pracą swą dobrze się zasłużyli.
-Wreszcie Lippeldt nie może dowieść używania, — aby posiadać jakie prawa — trzeba podług przepisów art 1. 5. [11.?] i innych Najwyższego Ukazu użytkować z tego prawa w czasie wydania Ukazu. Lippeldt użytkował przed Ukazem zawarł nowy Kontrakt po Ukazie od którego sam dobrowolnie odstąpił, — ale nigdy nie użytkował w chwili Ukazu — a to właśnie jest główną zasadą do pozyskania jakich praw przez Ukaz włościanom zagwarantowanych. —
+Wreszcie Lippeldt nie może dowieść używania, — aby posiadać jakie prawa — trzeba podług przepisów art 1. 5. 11. i innych Najwyższego Ukazu użytkować z tego prawa w czasie wydania Ukazu. Lippeldt użytkował przed Ukazem zawarł nowy Kontrakt po Ukazie od którego sam dobrowolnie odstąpił, — ale nigdy nie użytkował w chwili Ukazu — a to właśnie jest główną zasadą do pozyskania jakich praw przez Ukaz włościanom zagwarantowanych. —
 Ponieważ więc Lippeldt jako obcy nie może czerpać Łask ze wsi Włodzimierowa. — Ponieważ tenże w czasie'''),
         ('0115_b', '''Ukazu nie pasał w miejscu zwanem smugi — przeto mniemam — że tenże i dziś żadnych praw na te Smugi zyskać nie może — upraszam więc Wysokiej Kommissji o zniesienie decyzji Wgo Kommissarza. —
 Trąbczyn
@@ -106,7 +106,7 @@ Do Komitetu Urządzającego w Królestwie Polskiem
 Prózba
 Kolonistów z Łazińska, Gmina Trąbczyn powiecie Słupeckim, Gubernii Kaliskiej zamieszkałych, o przyznanie praw przywilejów nadanych przez dawne Dominium.
 Jak załączony kwit pocztowy przekonywa, w. r. b. podaliśmy prośbą do Komitetu Urządzającego celem przyznania nam serwitutów w dawniejszych latach nam przez Dominium przyznanych i zapewnionych, to jest wolnego pastwiska, w lesie Trąbczyńskim, grabienia ściółki, Kopania pieńków i Sp. a przecież dotąd żadnej nie odebraliśmy decyzji, zatem upraszamy jak najpokorniej, o wydelegowanie Urzędnika bezstronnego z Bióra Powiatu Słupeckiego dla bliższego sprawdzenia naszych pretensji, a następnie zadecydowania o ile nam prawo to służy i Decyzję tą przesłać na ręce Wielmożnego Naczelnika Powiatu Słupeckiego.
-Z [uszgłębonem?] uszanowaniem w imieniu drugich —
+Z najgłębszem uszanowaniem w imieniu drugich —
 wierni poddani —
 xxx Daniel Hohm
 xxx Wilhelm Moritz
@@ -120,7 +120,7 @@ w Łazińsku dnia 6/18 Grudnia 1867 r.'''),
 Do Wysokiego Komitetu Urządzającego w Królestwie Polskiem w Warszawie
 Najpokorniejsza Prośba
 Kolonistów z Kolonii Łazieńskiej Gminy Trąbczyn, powiatu Słupeckiego Gubernii Kaliskiej o przyznanie i zatwierdzenie praw w przywileju wymienionych
-Wedle Kontraktu kupna Osad, od Księcia Hohenlohe b. Dziedzica Dóbr Trąbczyna i nadanego nam przez Niego przywileju prawa, w roku 1805 — wolno nam paść Inwentarze w Leśie wspolnie z dworskiem na Rewiorże Studźienkowskim do granicy Biskupskiej — wolno nam także [gajć?] się w Boru furami 2 dni w tydzień i grabić Ściółką każdego roku — i oprócz gruntu ornego, mieliśmy 6. mórg gruntu gliniastego na kopalnie gliny do swojej potrzeby — i to wszystko J.W. Komisarz Baron Rosen przyznał nam, za prawne i do dostarczenia, nam potrzebnych, dowodów i złożenia Mappy'''),
+Wedle Kontraktu kupna Osad, od Księcia Hohenlohe b. Dziedzica Dóbr Trąbczyna i nadanego nam przez Niego przywileju prawa, w roku 1805 — wolno nam paść Inwentarze w Leśie wspolnie z dworskiem na Rewiorże Studźienkowskim do granicy Biskupskiej — wolno nam także gajć się w Boru furami 2 dni w tydzień i grabić Ściółką każdego roku — i oprócz gruntu ornego, mieliśmy 6. mórg gruntu gliniastego na kopalnie gliny do swojej potrzeby — i to wszystko J.W. Komisarz Baron Rosen przyznał nam, za prawne i do dostarczenia, nam potrzebnych, dowodów i złożenia Mappy'''),
         ('0176_b', '''hipotecznej z roku 1805 na dzień 3/15 Sierpnia Dziedzica zobowiązał — co w każdym czasie Świadkami pod przysięgą udowodnić zdołamy. Lecz kiedy Dziedzic w roku 1838 nową Tabelle ułożył, i rewior na którym, mieliśmy pastwisko na 3 Rewiory podzielił, i na 2ch wcale paść Bydła, zabrania, a na trzeci część i, zrobił 11 porębów i zagaja, a my pastwiska nie mamy — ugaju i grabienia Ściółki nie dozwala, kopalnią gliny na rzecz swoje odbiera — i do ułożenia nowego prawa i Tabeli w czasie przybycia Komisarza Wielmożnego Władimirowa, przedstawił fałszywych Świadków i dał im, po 12 Rubli, za to aby tak świadczyli jak on twierdzi — i nato są Świadkami: 1. Marcin Rywarski i 2 Libner Stolarz w Wsi Trąbczynie zamieszkali — a nawet jeden świadek, dziedzica Tomasz Janicki sam o tem oświadczył.
 Aby więc nie być pozbawionymi tych służebności, zanieśliśmy trzy prośby do J.W. Prezesa Komisji Kaliskiej Spraw Włościańskich, a mianowicie: w dniu 6/18 Czerwca, 30 Czerwca/12 Lipca, i 3/15 Września roku'''),
         ('0177_a', '''zeszłego 1867 a następnie w miesiącu Październiku do Wysokiego Komitetu i załączliśmy na dowod kopią przywileju i nato uzyskaliśmy odpowiedź, z daty 31 Stycznia roku 1868 odsyłajacą nas do Komisji Kaliskiej Spraw Włościańskich.
