@@ -6028,3 +6028,29 @@ sources-icon.html`).
 - **Jan Goliński = Jan Łoś Goliński** (the editor): Anna Bojanowska's
   second husband was Teresa Golińska's father; Konstancja Krusińska added
   as Teresa's mother; the person pages say so.
+
+## 2026-11-13 (evening) - APŁ 39/98/0/-/1333 added: the liquidation-tables file of Trąbczyn, part I (branch `trampczynski-family`, not published)
+
+- **New holding `apl399801333`**, six documents on 30 pages: the file's
+  Russian index of 145 papers, 1864-1870 (a table); the plan of Trąbczyn of
+  15 May 1865 (an image); Count Włodzimierz Miączyński's petitions of 23 July
+  and 10/22 August 1865 against the commissioners' decisions for Krystian
+  Lippeldt and for six farmsteads of Nowawies; the Łazińsk colonists'
+  petitions of 1867 and 1868 for the forest rights of Hohenlohe's privilege
+  of 1805. Era `wlodzimierz`.
+- **The index** read in two passes (four Sonnet readers, then eight, two per
+  page, settled by Claude); months fixed by the offices' own numbering; the
+  editor's rulings: Osiny, the open entries minor.
+- **The letters**: the editor's transcription corrected in 29 places where
+  the image plainly shows another word (a missing line among them, "O co w
+  najgłębszej pokorze błagamy"); folios 114v-115v and the petition no. 59
+  transcribed by two readers each; the office's Russian note on folio 88
+  set apart; catchwords and one page-crossing join ruled. English,
+  summaries (claim-checked, 9 of 87 statements weakened) in session.
+- `reference/people.yml`: Włodzimierz Miączyński tagged in this holding
+  (`miaczynski-wlodzimierz`, with the index's Cyrillic forms), not Stanisław.
+  `reference/glossary.yml`: "Maja" ruled out (the month). `site/_data/i18n.yml`:
+  the document kinds petition and plan. Timeline: 1865 and 1867-1868. Era
+  paragraph (both languages).
+- Open: the spot sheet (seven readings), Łazińsk matching, Hohm/Холмъ,
+  people, Russian place names, connections (NEEDS_CONFIRMATION).

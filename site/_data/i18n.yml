@@ -105,6 +105,8 @@ en:
   memorandum: Memorandum
   note: Note
   draft: Draft
+  petition: Petition
+  plan: Plan
   document: Document          # fallback where doc_type is unset
   part_of_letter: part of
   # How one document stands to another, shown as a link on the page.
@@ -528,6 +530,8 @@ de:
   memorandum: Denkschrift
   note: Notiz
   draft: Konzept
+  petition: Bittschrift
+  plan: Plan
   document: Dokument          # Rückfallwert, wenn doc_type fehlt
   part_of_letter: Teil von
   # Wie ein Dokument zu einem anderen steht, als Link auf der Seite.

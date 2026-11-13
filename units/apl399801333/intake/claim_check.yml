@@ -1,0 +1,123 @@
+# The claim check of the German summaries of APŁ 39/98/0/-/1333, made in
+# session on 2026-11-13 under the rules read_letters.py --verify gives its
+# checker: each summary split into its factual statements, each held to the
+# document (the index entry by number, the letters by page id), verdict
+# supported, overstated or unsupported, and the summary only weakened or cut,
+# never added to. No statement rests on a word marked doubtful ([...?]) or on
+# an index entry whose reading is "open" (nos. 11, 15, 45, 53, 68, 83, 85, 87,
+# 90, 103, 109, 118, 126, 141 are not relied on). Page ids are the folio and
+# side (0088_a = folio 88; 0088_b = 88 verso).
+#
+# Result: 87 statements, 78 supported as first written, 9 corrected (applied
+# 2026-11-13, in the German and the English, the holding page and the timeline;
+# 6 kept the gardens and buildings, which the plan's own labels show -
+# Ogrody włościańskie, Ogród Dworski, Zabudowania dworskie, read on the image by
+# Claude - and dropped the roads):
+# 1. Document 1: 'der Kalischer Behörde für Bauernangelegenheiten über die Liquidationstabellen des Gutes Trąbczyn' -> 'über die Aufstellung der Liquidationstabellen des Gutes Trąbczyn (nach dem Titel der Archiveinheit)'; the issuing office is not in the index.
+# 2. Document 1: 'jeder mit dem Schriftstück, seinem Absender, Datum und Nummer' -> 'jeder mit dem Schriftstück, die meisten mit Absender, Datum und Nummer'.
+# 3. Document 1: cut 'und Witwen' (no entry names a widow).
+# 4. Document 1: 'vom 13./25. Mai 1865' -> 'meist vom 13./25. Mai 1865'.
+# 5. Document 1: 'Die letzten Einträge, 1869 und 1870 von einer zweiten Hand' -> 'Die letzten Einträge, ab Nr. 115 (1869 und 1870) von einer zweiten Hand'; 'sind Reihen von' -> 'sind überwiegend Reihen von' (nos. 115 and 117 are petitions).
+# 6. Document 2: cut 'die Gebäude und Gärten des Dorfes und des Gutshofs und die Wege' (plan not transcribed).
+# 7. Document 4: 'Dort sei seine einzige Weide für das Jungvieh' -> 'Auf dem Vorwerk Włodzimirów habe er seine einzige Weide für das Jungvieh'.
+# 8. Document 4: 'diesen Vertrag gab Lippeldt auf und gab das Original ... zurück' -> 'im selben Jahr habe Lippeldt auch den beigelegten Vertrag geschlossen, ihn aufgegeben und das Original in Gegenwart des früheren Verwalters Swiderski zurückgegeben'.
+# 9. Document 6: cut 'zwei Tage in der Woche mit Fuhren in den Wald und' (the verb is read with doubt); the sentence then reads '... bis zur bischöflichen Grenze weiden und jedes Jahr Streu rechen'.
+
+apl399801333-001:
+- {claim: "Russisches Verzeichnis („Опись“) der Schriftstücke in der Akte Nr. 167", verdict: supported, where: "p. 0001_a, heading: Опись бумагамъ, къ дѣлу № 167"}
+- {claim: "der Kalischer Behörde für Bauernangelegenheiten über die Liquidationstabellen des Gutes Trąbczyn", verdict: overstated, where: "the index names only the file number; the issuing office and the subject come from the archive's folder title (not an index entry); only 'Кал. Комм.' appears as an issuer (no. 9). Weakened to the file number and the archive's title"}
+- {claim: "145 Einträge", verdict: supported, where: "nos. 1 to 145 (0001_a to 0014_a); the 146th row is the secretary's line"}
+- {claim: "jeder mit dem Schriftstück, seinem Absender, Datum und Nummer", verdict: overstated, where: "nos. 2, 4, 10, 30, 38, 47, 48 give no date and no number (4: Списокъ крестьянъ дер. Нова весь; 30: Планъ деревни Тромбчинъ); the column head is 'Отъ кого бумага поступила; число и номеръ бумаги'. Weakened to 'die meisten'"}
+- {claim: "der Zahl seiner Blätter und dem Blatt, auf dem es in der Akte beginnt", verdict: supported, where: "column heads: На сколькихъ листахъ; №№ страницъ въ дѣлѣ; every entry has both figures"}
+- {claim: "die Schriftstücke von 1864 bis 1870", verdict: supported, where: "no. 5: 7/19 Сент. 64; no. 22: 11/23 Дек. 1864; no. 145: 17 Ноября 70"}
+- {claim: "Bittschriften des Bevollmächtigten Grodziecki", verdict: supported, where: "no. 1: Прошеніе уполномоч. Гродзецкаго"}
+- {claim: "Bittschriften der Bauern von Trąbczyn, Nowa Wieś und Marianton", verdict: supported, where: "no. 21: Прошеніе крестьянъ дер. Тромбчинъ; no. 25: крестьянъ Новая Весь; no. 65: крестьянъ дер. Маріян-тово"}
+- {claim: "Bittschriften einzelner Bauern", verdict: supported, where: "no. 18: Прошеніе Антонія Горецкаго; no. 91: Прошеніе Вильгельма Гома"}
+- {claim: "und Witwen", verdict: unsupported, where: "no entry says widow (вдова); no. 9 is only 'по дѣлу Бенигны Зелинской', no. 12 a petition 'ея-же'; cut"}
+- {claim: "Bittschriften des Grafen Włodzimierz Miączyński", verdict: supported, where: "no. 29: Прошеніе Владимира Міончинскаго; no. 81: гр. Міончинскимъ"}
+- {claim: "Bittschriften der Kolonisten von Łazińsk", verdict: supported, where: "no. 112: Прошеніе 2-хъ кол. сел. Лазенск (no. 102 not relied on: its place name is in brackets)"}
+- {claim: "Abschriften und Übersetzungen der Beschlüsse des Kommissars des 5. Bezirks vom 13./25. Mai 1865", verdict: overstated, where: "copies/translations of 13/25 May 65: nos. 26, 39, 49, 54, 57, 60, 66, 73, 76; but no. 5 is of 7/19 Sept 64 and no. 22 of 11/23 Dec 1864. Weakened to 'meist vom'"}
+- {claim: "Entwürfe der Sitzungsprotokolle", verdict: supported, where: "e.g. no. 6: Проектъ журнала засѣданія"}
+- {claim: "Entwürfe der Schreiben an die Militärkreischefs von Konin und Kalisch, an den Kommissar des 5. Bezirks, an die Zentrale Kommission und an die Kalischer Gouvernementsregierung", verdict: supported, where: "no. 7: Черновой отпускъ Кал. В. Уѣздн. Нач.; no. 14: Конинск. В. у. Нач.; no. 33: Комм. V Уч.; no. 94: въ Центр. Комм.; no. 100: въ Кал. Губ. Правл."}
+- {claim: "Weisungen der Zentralen Kommission von 1867 bis 1869", verdict: supported, where: "no. 95: Предлож. Центр. Комм., 9/21 Окт. 67; no. 111: 19 Марта 69г."}
+- {claim: "Berichte des Kommissars Vladimirov", verdict: supported, where: "no. 93: Донесеніе Комм. Владимірова, 15 Янв. 68; no. 96 (no. 83 not relied on: month open)"}
+- {claim: "Berichte des Kommissars des 10. Bezirks", verdict: supported, where: "no. 42: Донесеніе Комм. X Участка, 13 Мая 67"}
+- {claim: "Berichte der Kommission des Kreises Słupca", verdict: supported, where: "no. 99: Донесеніе Комм. Слупецк. Уѣзда, 29 Іюня 68"}
+- {claim: "Nr. 30 ist der Plan des Dorfes Trąbczyn", verdict: supported, where: "no. 30: Планъ деревни Тромбчинъ, 1 leaf, folio 41"}
+- {claim: "Nr. 81 die vom Grafen Miączyński vorgelegte Liquidationstabelle (15./27. November 1865)", verdict: supported, where: "no. 81: Представл. ликв. таб. гр. Міончинскимъ, отъ 15/27 Ноября 65 г."}
+- {claim: "Die letzten Einträge, 1869 und 1870 von einer zweiten Hand", verdict: overstated, where: "a second hand is noted from no. 115 (16 Sept 1869); nos. 109-114 of 1869 are in the first hand. Weakened to 'ab Nr. 115'"}
+- {claim: "sind Reihen von Entwürfen und Antworten im Verkehr mit den Kommissionen der Kreise Słupca und Turek und der Zentralen Kommission", verdict: supported, where: "nos. 126-145: Черн. отпускъ, Отзывъ Коммис. Тур. Уѣзда (142, 144), Отзывъ Центр. Ком. (140), Предсѣд. Коммис. Слупц. Уѣзд.; nos. 115 and 117 are petitions of the peasants of Osiny, hence 'überwiegend' in the corrected sentence"}
+- {claim: "Unterschrieben vom Sekretär", verdict: supported, where: "p. 0014_a, last line: Секретарь (the name [Бер…?] is doubtful and not used)"}
+
+apl399801333-002:
+- {claim: "Lageplan des Dorfes Trąbczyn im Kreis Konin, Gouvernement Warschau", verdict: supported, where: "title of the image: Plan Sytuacyjny Wsi Trąbczyna w Powiecie Konińskim, Gubernii Warszawskiej"}
+- {claim: "angefertigt am 15. Mai 1865", verdict: supported, where: "title: sporządzony dnia 15 Maja 1865 R."}
+- {claim: "Nr. 30 des Verzeichnisses, Blatt 41", verdict: supported, where: "index no. 30: Планъ деревни Тромбчинъ, 1 leaf, folio 41"}
+- {claim: "die Gebäude und Gärten des Dorfes und des Gutshofs und die Wege", verdict: unsupported, where: "the plan is not transcribed; neither its title nor the index says what it shows beyond the village; cut"}
+- {claim: "Als Bild gezeigt, nicht transkribiert", verdict: supported, where: "0041_a: (skipped)"}
+
+apl399801333-003:
+- {claim: "Bittschrift des Gutsbesitzers W. Miączyński an die Kalischer Kommission für Bauernangelegenheiten, Kalisch, 10./22. August 1865 (Nr. 1441)", verdict: supported, where: "0088_a: № 1441 / 10/22 Августа 1865 / Wysokiej Komissji dla spraw włościańskich w Kaliszu; 0089_b: Kalisz dnia 10/22 Sierpnia 1865, W. Miączyński"}
+- {claim: "gegen die Entscheidung des Kommissars des 5. Bezirks vom 13./25. Mai 1865, Nr. 83", verdict: supported, where: "0088_a: Za decyzją zdnia 13/25 Maja 1865 № 83 ... przez Wgo Komisarza 5 Rewiru"}
+- {claim: "die sechs Höfe in Nowa Wieś – in der Abgabentabelle von 1846 Nr. 2, 4, 5, 6, 9 und 10, je 5 Morgen – mit Saaten und Gebäuden den letzten Inhabern oder ihren Nachfolgern zurückzugeben bestimmte", verdict: supported, where: "0088_a: sześć osad ... w tabelli prestacyjnej z r. 1846 zapisanych pod Nmi 2. 4. 5. 6. 9 i 10, po 5 morgów każda; ulegające powrotowi ... gospodarzom, albo ich sukcessorom, wraz z zasiewami i budynkami"}
+- {claim: "er bittet, die Höfe beim Gutseigentum zu lassen", verdict: supported, where: "0088_a-b: z prośbą o jej uchylenie — i pozostawienie osad pomienionych na własność dominii directi"}
+- {claim: "1846 lagen in Nowa Wieś acht Bauernhöfe, die bis 1856 bewirtschaftet wurden", verdict: supported, where: "0088_b: W chwili wydania Najwyższego Ukazu z r. 1846 w Nowej wsi znajdowało się ośm osad włościańskich ... w posiadaniu rolników aż do r. 1856"}
+- {claim: "wegen der zu tiefen, in nassen Jahren nicht bestellbaren Lage baten die Bauern selbst, umgesiedelt zu werden", verdict: supported, where: "0088_b-0089_a: skutkiem nazbyt niskiego położenia gruntów, w latach mokrych niezdolnego do uprawy, zgłosili się z usilną prośbą, o przeniesienie ich w inne miejsce"}
+- {claim: "er wies anderswo Land an und baute Gebäude", verdict: supported, where: "0089_a: powyznaczał gdzieindziej grunta i na takowych pozaprowadzał odpowiednie budynki"}
+- {claim: "noch vorher hätten sechs Wirte ihre Höfe freiwillig verlassen und seien in Dienst gegangen", verdict: supported, where: "0089_a: przed r. 1856, sześciu gospodarzy ... dobrowolnie ... udając się w służbę, swoje opuścili"}
+- {claim: "Nach Art. 2 des Ukases von 1846 habe er neue Bauern suchen müssen", verdict: supported, where: "0089_a: obowiązek w Art. 2 pomienionego prawa na właściciela dóbr włożony, zniewolony był postarać się o innych ludzi"}
+- {claim: "sie hätten Höfe aus dem Vorwerksland erhalten und seien dort schon mit Eigentum ausgestattet", verdict: supported, where: "0089_a: wydzielić dla nich osady z własnych folwarcznych gruntów; 0089_a-b: w nich już uwłaszczeni zostali"}
+- {claim: "das alte Land sei dem Vorwerk zugeschlagen, mit Fruchtwechsel, die Gebäude für das Hofgesinde", verdict: supported, where: "0089_a: obrócić na folwarczne, gdzie obecnie zaprowadzony został płodozmian — a budynki przeznaczone dla dworskiej czeladzi"}
+- {claim: "Der Tausch stehe in der Zusatztabelle von 1846, bestätigt vom Kreischef und der Kommission des Innern", verdict: supported, where: "0089_b: ta zamiana ... zamieszczona w tabelli dodatkowej z r. 1846 i przez Naczelnika Powiatu oraz Komisją Spraw Wewnętrznych — zatwierdzona"}
+- {claim: "nach Art. 6 und 8 des Ukases von 1864 hätten die Weggegangenen kein Recht", verdict: supported, where: "0089_b: Art. 6 Najwyższego Ukazu z r. 1864 ...; Art 8 ... w żadnym wypadku niemają prawa opuszczający gospodarstwa"}
+- {claim: "Er nennt die Zeugen Wawrzeniec Sowiński und Józef Czajka", verdict: supported, where: "0089_b: Wawrzeńca Sowińskiego — 2° Józefa Czajkę"}
+- {claim: "sagt, die Bauern hätten insgesamt mehr Land, als ihnen nach der Abgabentabelle zusteht", verdict: supported, where: "0089_b: włościanie ogółem posiadają więcej gruntów, jak według tabelli prestacyjnej im przypada"}
+- {claim: "Nowa Wieś habe nie gemeinsame Weide mit dem Hof gehabt", verdict: supported, where: "0089_b: włościanie z Nowej wsi nigdy niemieli wspólnego z dworem"}
+- {claim: "vier Beweisstücke liegen bei", verdict: supported, where: "0089_b: Dowody w liczbie sztuk 4 dołącza się"}
+- {claim: "Am Rand ein nur zum Teil gelesener russischer Vermerk der Behörde", verdict: supported, where: "0088_a: the Russian note 'Объ [обмѣнѣ?] признать земли, ...', read in part (office_notes.yml)"}
+- {claim: "und eine Quittung über die Beweisstücke", verdict: supported, where: "0088_a: Dowody ... odebrałem (the doubtful word [oddane?] not used)"}
+
+apl399801333-004:
+- {claim: "Bittschrift des W. Miączyński an die Kommission für Bauernangelegenheiten des Kreises Kalisch, Trąbczyn, 23. Juli 1865 (Nr. 1805)", verdict: supported, where: "0113_a: № 1805 / Do Wysokiej Komisji dla spraw Włościańskich Powiatu Kaliskiego; 0115_b: Trąbczyn dnia 23 Lipca 1865 r. W. Miączyński"}
+- {claim: "Er bittet, die beigelegte Entscheidung des Barons von Rosen aufzuheben", verdict: supported, where: "0113_a: załączająca się decyzja Wielmożnego Barona v Rosen ... o zniesienie tej decyzji"}
+- {claim: "die Krystian Lippeldt aus einem Nachbardorf ein Weiderecht für 2 Pferde und 7 Stück Hornvieh auf dem Vorwerk Włodzimirów zuerkannt hat", verdict: supported, where: "0113_a: przyznane ... Krystianowi Lippeldt służebność pasania 2 koni i 7iu sztuk bydła rogatego ... na folwarku Włodzimirów; Krystjan Lippeldt jest z wsi sąsiedniej"}
+- {claim: "an den „smugi“ genannten Stellen, drei Senken in einem Feld an der Grenze von Emilienhejm", verdict: supported, where: "0113_a: w miejscach zwanych smugi; 0113_b: W jednym polu nad granicą Emilienhejm, znajdują się trzy dołki tak zwane smugi"}
+- {claim: "Dort sei seine einzige Weide für das Jungvieh", verdict: overstated, where: "0113_b: the sole pasture for the young stock is on the folwark Włodzimirów ('Na folwarku Włodzimirów ... posiadam jedyne pastwisko'), not specifically at the smugi. Weakened to 'Auf dem Vorwerk Włodzimirów'"}
+- {claim: "Lippeldt habe dort nur mit seiner schriftlichen Erlaubnis geweidet, zuerst bis zum 1. November gegen Geld, dann gegen Arbeit", verdict: supported, where: "0113_b-0114_a: dozwoliłem mu paść ... ale tylko do 1 Listopada tego roku, na opłatą pieniężną, którą później zmieniłem ... na robociznę ... piśmienne me na to dałem pozwolenie"}
+- {claim: "das Feld habe brach gelegen", verdict: supported, where: "0113_b: to pole ugorowało"}
+- {claim: "Sein Vertrag von 1863 endete am 1. November, also vor dem Allerhöchsten Ukas", verdict: supported, where: "0114_a: kontrakt jego z roku 1863 skończył się 1 Listopada a zatem przed wydaniem Najwyższego Ukazu"}
+- {claim: "die neue schriftliche Vereinbarung wurde am 1. Mai 1864 geschlossen, nach dem Ukas", verdict: supported, where: "0114_a: nową umowę piśmienną zrobiono 1 Maja 1864 roku a zatem po wydaniu Najwyższego Ukazu"}
+- {claim: "diesen Vertrag gab Lippeldt auf und gab das Original in Gegenwart des früheren Verwalters Swiderski zurück", verdict: overstated, where: "0114_b: 'W tym roku zawarł także załączający się kontrakt — którego się zrzekł, i zwrócił oryginał' - the attached contract concluded 'also in this year'; the text does not say it is the agreement of 1 May 1864. Weakened"}
+- {claim: "Eine zeitweilige Erlaubnis sei kein Rechtstitel, schon gar nicht für einen Fremden", verdict: supported, where: "0114_b: tylko za czasowem dozwoleniem — które nawet dla włościan nie może stanowić tytułu do służebności ... a cóż dopiero dla człowieka z obcej wsi"}
+- {claim: "der Ukas begünstige die Bauern des Dorfes, in dem sie aufgewachsen sind", verdict: supported, where: "0114_b-0115_a: głównie działa na korzyść włościan tej wsi, w której wzrasli"}
+- {claim: "und verlange nach seinen Artikeln, dass das Recht zur Zeit des Ukases ausgeübt wurde", verdict: supported, where: "0115_a: podług przepisów art ... Najwyższego Ukazu użytkować z tego prawa w czasie wydania Ukazu (the doubtful article number not used)"}
+
+apl399801333-005:
+- {claim: "Bittschrift der Kolonisten von Łazińsk, Gemeinde Trąbczyn, Kreis Słupca, Gouvernement Kalisch", verdict: supported, where: "0163_a: Kolonistów z Łazińska, Gmina Trąbczyn powiecie Słupeckim, Gubernii Kaliskiej"}
+- {claim: "an das Konstituierende Komitee im Königreich Polen, Łazińsk, 6./18. Dezember 1867 (Nr. 19838/4098)", verdict: supported, where: "0163_a: Do Komitetu Urządzającego w Królestwie Polskiem; № 19838/4098; w Łazińsku dnia 6/18 Grudnia 1867 r."}
+- {claim: "unterzeichnet mit den Kreuzen von Daniel Hohm und Wilhelm Moritz im Namen der anderen", verdict: supported, where: "0163_a: w imieniu drugich — xxx Daniel Hohm / xxx Wilhelm Moritz (the 'xxx' being the crosses of the signatories)"}
+- {claim: "Sie hätten dieses Jahr, wie die beigelegte Postquittung zeige, beim Komitee um die Anerkennung der Servitute gebeten, die ihnen das Gut früher gewährt hatte", verdict: supported, where: "0163_a: Jak załączony kwit pocztowy przekonywa, w. r. b. podaliśmy prośbą do Komitetu Urządzającego celem przyznania nam serwitutów w dawniejszych latach nam przez Dominium przyznanych"}
+- {claim: "freie Weide im Trąbczyner Wald, Streurechen, Stubbenroden", verdict: supported, where: "0163_a: wolnego pastwiska, w lesie Trąbczyńskim, grabienia ściółki, Kopania pieńków"}
+- {claim: "aber noch keine Entscheidung erhalten", verdict: supported, where: "0163_a: dotąd żadnej nie odebraliśmy decyzji"}
+- {claim: "sie bitten, einen unparteiischen Beamten aus dem Kreisamt Słupca zur Prüfung ihrer Ansprüche zu entsenden", verdict: supported, where: "0163_a: o wydelegowanie Urzędnika bezstronnego z Bióra Powiatu Słupeckiego dla bliższego sprawdzenia naszych pretensji"}
+- {claim: "und die Entscheidung dem Kreischef von Słupca zu übersenden", verdict: supported, where: "0163_a: Decyzję tą przesłać na ręce Wielmożnego Naczelnika Powiatu Słupeckiego"}
+
+apl399801333-006:
+- {claim: "Bittschrift der Kolonisten der Kolonie Łazińsk, Gemeinde Trąbczyn, an das Konstituierende Komitee in Warschau, Kolonie Łazińsk, 10./22. August 1868 (Nr. 16658/2133)", verdict: supported, where: "0176_a: № 16658/2133, Do Wysokiego Komitetu Urządzającego w Królestwie Polskiem w Warszawie, Kolonistów z Kolonii Łazieńskiej Gminy Trąbczyn; 0177_b: Kolonia Łazieńska dnia 10/22 Sierpnia, 1868 r."}
+- {claim: "unterzeichnet von Ludwig Hintz und Krystyan Sehr im Namen aller", verdict: supported, where: "0177_b: Ludwig Hintz / Krystyan Sehr / w Imieniu Ogółu"}
+- {claim: "Nach dem Kaufvertrag über die Höfe mit Fürst Hohenlohe, dem früheren Besitzer von Trąbczyn, und seinem Privileg von 1805", verdict: supported, where: "0176_a: Wedle Kontraktu kupna Osad, od Księcia Hohenlohe b. Dziedzica Dóbr Trąbczyna i nadanego nam przez Niego przywileju prawa, w roku 1805"}
+- {claim: "dürften sie ihr Vieh gemeinsam mit dem herrschaftlichen im Studzienka-Revier bis zur bischöflichen Grenze weiden", verdict: supported, where: "0176_a: wolno nam paść Inwentarze w Leśie wspolnie z dworskiem na Rewiorże Studźienkowskim do granicy Biskupskiej"}
+- {claim: "zwei Tage in der Woche mit Fuhren in den Wald", verdict: unsupported, where: "0176_a: 'wolno nam także [gajć?] się w Boru furami 2 dni w tydzień' - the verb is doubtful, so what they may do with carts rests on a doubtful word; cut"}
+- {claim: "und jedes Jahr Streu rechen", verdict: supported, where: "0176_a: i grabić Ściółką każdego roku"}
+- {claim: "und sie hatten 6 Morgen Lehmland für eine Lehmgrube", verdict: supported, where: "0176_a: mieliśmy 6. mórg gruntu gliniastego na kopalnie gliny do swojej potrzeby"}
+- {claim: "Kommissar Baron Rosen habe das anerkannt und den Besitzer verpflichtet, die Hypothekenkarte von 1805 bis zum 3./15. August vorzulegen", verdict: supported, where: "0176_a-b: J.W. Komisarz Baron Rosen przyznał nam, za prawne ... i złożenia Mappy hipotecznej z roku 1805 na dzień 3/15 Sierpnia Dziedzica zobowiązał"}
+- {claim: "1838 habe der Besitzer eine neue Tabelle aufgestellt, das Revier in drei geteilt, auf zweien das Weiden verboten und auf dem dritten 11 Schläge und Schonungen angelegt", verdict: supported, where: "0176_b: w roku 1838 nową Tabelle ułożył, i rewior ... na 3 Rewiory podzielił, i na 2ch wcale paść Bydła, zabrania, a na trzeci część i, zrobił 11 porębów i zagaja"}
+- {claim: "er verbiete das Streurechen und nehme die Lehmgrube für sich", verdict: supported, where: "0176_b: grabienia Ściółki nie dozwala, kopalnią gliny na rzecz swoje odbiera"}
+- {claim: "Beim Besuch des Kommissars Władimirow habe er falsche Zeugen gestellt und jedem 12 Rubel gegeben", verdict: supported, where: "0176_b: w czasie przybycia Komisarza Wielmożnego Władimirowa, przedstawił fałszywych Świadków i dał im, po 12 Rubli"}
+- {claim: "Zeugen dafür seien Marcin Rywarski und der Tischler Libner aus Trąbczyn", verdict: supported, where: "0176_b: 1. Marcin Rywarski i 2 Libner Stolarz w Wsi Trąbczynie zamieszkali"}
+- {claim: "und Tomasz Janicki, ein Zeuge des Besitzers, habe es selbst erklärt", verdict: supported, where: "0176_b: jeden świadek, dziedzica Tomasz Janicki sam o tem oświadczył"}
+- {claim: "1867 hätten sie sich dreimal an den Präsidenten der Kalischer Kommission (6./18. Juni, 30. Juni/12. Juli, 3./15. September) und im Oktober an das Komitee gewandt, mit einer Abschrift des Privilegs", verdict: supported, where: "0176_b-0177_a: zanieśliśmy trzy prośby do J.W. Prezesa Komisji Kaliskiej ... 6/18 Czerwca, 30 Czerwca/12 Lipca, i 3/15 Września roku zeszłego 1867 a następnie w miesiącu Październiku do Wysokiego Komitetu i załączliśmy ... kopią przywileju"}
+- {claim: "die Antwort vom 31. Januar 1868 verwies sie an die Kalischer Kommission", verdict: supported, where: "0177_a: odpowiedź, z daty 31 Stycznia roku 1868 odsyłajacą nas do Komisji Kaliskiej Spraw Włościańskich"}
+- {claim: "eine Entscheidung kam nicht, die Abschrift erhielten sie nicht zurück", verdict: supported, where: "0177_a: ani żadnej Decyzji nie otrzymaliśmy, i Kopia przywileju zwróconą nam nie jest"}
+- {claim: "Sie bitten um eine Untersuchung an Ort und Stelle durch einen Beamten aus Warschau, um die Rückgabe von Lehmgrube und Weide und die Bestätigung ihres alten Rechts", verdict: supported, where: "0177_a-b: wyprowadzenie ścisłego Śledztwa na gruncie zarządził, i ... Urzędnika z Warszawy wydelegował — oraz oddanie nam w posiadanie ... Kopalni, gliny i pastwiska ... dawne prawo ... zatwierdzić"}
+- {claim: "gelänge ihnen der Beweis nicht, trügen sie die Kosten", verdict: supported, where: "0177_b: co gdybyśmy nie udowodnili, koszta prowadzenia Śledztwa na siebie przyjmiemy"}

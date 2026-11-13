@@ -2686,6 +2686,7 @@ entries:
 # Words ruled out, with the reason. glossary_candidates.py does not raise them
 # again.
 excluded:
+  - {word: Maja, reason: "the Polish genitive of the month May in datelines and dates (13/25 Maja 1865, APŁ 39/98/0/-/1333; 18 Maja 1805), plain in English as May; not an abbreviation"}
   - {word: Junii, reason: "the Latin genitive of the month in the date formulas (die 17 Mensis Junii, Poznań Gr.1181), plain in English as of June; the numbered month forms are the months-by-number entry's answer"}
   - {word: Jacobi, reason: "in 53/20/0/-/Poznań Gr.1181 the genitive of the man's name (Generosi Jacobi Rzechicki, p. 166), not the feast of St James the termbase offers; the holding has no feast-day Jacobi"}
   - {word: Graf, reason: "plain in English as Count"}

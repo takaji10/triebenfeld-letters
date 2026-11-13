@@ -727,7 +727,9 @@ people:
     match: "(?<!Madame )(?<!Hrabia )(?:Mi[ąaęe]czy[nń]sk[iyÿ]|Mosci[nń]sk[iy]|Moszy[nń]sk[iy])(?![a-zà-ÿ])|(?<=Stanisława )Mi[ąa]czy[nń]skiego"
     # "Graf Miączyński", owner of Trąbczyn about 1911, in Breyer's notebook of
     # 1936: a later Miączyński, not identified.
-    not_in: [app539680669-2]
+    # In APŁ 39/98/0/-/1333 (1865-1870) the Miączyński of the index and the
+    # petitions is Count Włodzimierz (miaczynski-wlodzimierz).
+    not_in: [app539680669-2, apl399801333-1, apl399801333-3, apl399801333-4]
     tier: "Text-confirmed (as her husband); forename user-provided via the register"
     identity: >-
       Stanisław Miączyński, second husband of Michalina Prusimska (married at
@@ -744,9 +746,13 @@ people:
   miaczynski-wlodzimierz:
     display: "Włodzimierz Miączyński"
     render: "Włodzimierz Miączyński"
-    # Only in the summons of 1860, where the name without a forename is his.
-    match: '(?<!Stanisława )Mi[ąa]czy[nń]sk(?:iego|iemu|i)(?![a-zà-ÿ])'
-    only_in: [app539680783-1]
+    # Only in the summons of 1860, where the name without a forename is his,
+    # and in APŁ 39/98/0/-/1333: the petitions of 1865 signed "W. Miączyński"
+    # (3, 4) and the index (1), which writes him Міончинскаго, Мёнчинскаго
+    # and, of the liquidation table he submitted, "гр. Міончинскимъ"
+    # (2026-11-13).
+    match: '(?<!Stanisława )Mi[ąa]czy[nń]sk(?:iego|iemu|i)(?![a-zà-ÿ])|М(?:іо|ё)нчинск\w*'
+    only_in: [app539680783-1, apl399801333-1, apl399801333-3, apl399801333-4]
     tier: "Text-confirmed"
     variants: []
     identity: "Count Włodzimierz Miączyński, heir of the Trąbczyn estate and living at Trąbczyn in 1860, who counterclaimed before the Civil Tribunal at Kalisz against 97 colonists of the Staro-Łazińska and Nowo-Łazińska colonies over pasture and wood-gathering in the Studzianka district of his forest (APP 53/968/0/-/783: 'Na żądanie Włodzimierza Hrabiego Miączyńskiego, dziedzica dóbr Trąbczyna'). The summons does not say how he was related to Michalina and Stanisław Miączyński; he was Michalina's son (editor, 2026-10-14). Michalina died on 19 January 1851, he on 18 December 1879 (the editor, 2026-11-12; the 20th of 2026-10-15 was the date of the newspaper that printed the death notice), and his nephew Władysław Miączyński became heir of the estate (editor, 2026-10-15)."

@@ -1,0 +1,16 @@
+# Text the receiving office wrote on someone else's paper. Here, on the first
+# page of Miączyński's petition of 10/22 August 1865 (folio 88, left margin):
+# the Commission's resolution in Russian, only partly read, and below it the
+# receipt for the proofs returned, with place, date and signature. The lines
+# are ordinary text in corpus.txt; this file only says which they are, so the
+# site can set them apart. The block stands at the end of its page here,
+# though on the leaf it is written in the margin beside the text.
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found.
+blocks:
+  - letter: '3'
+    page: '0088_a'
+    first: 'Объ [обмѣнѣ?] признать земли, которыя были прежде заняты крестьянами пустками — но такъ какъ ихъ возвратить нельзя, то поручить [Комм…?] добровольную сдѣлку, а потомъ назначить.'
+    lines: 4

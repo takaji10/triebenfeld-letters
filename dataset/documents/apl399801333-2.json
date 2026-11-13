@@ -1,0 +1,82 @@
+{
+ "letter_id": "2",
+ "seq_archival": 2,
+ "parent_letter": "",
+ "unit": "apl399801333",
+ "uid": "apl399801333-2",
+ "pad": "apl399801333-002",
+ "permalink": "/documents/apl399801333/2/",
+ "doc_type": "plan",
+ "era": "wlodzimierz",
+ "themes": [],
+ "date_iso": "1865-05-15",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1865-05-15",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1865,
+ "month": 5,
+ "day": 15,
+ "place": "",
+ "sender": "",
+ "recipient": "",
+ "line_start": 164,
+ "line_end": 166,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "pl",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "entered_in",
+   "target": "1",
+   "note": "no. 30 of the index, folio 41"
+  }
+ ],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 1,
+ "n_lines": 1,
+ "n_pages": 1,
+ "text": "(skipped)",
+ "text_reading": "(skipped)",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0041_a",
+   "line_start": 166,
+   "line_end": 166,
+   "n_lines": 1,
+   "diplomatic": "(skipped)",
+   "transcription": "(skipped)",
+   "reading": "(skipped)",
+   "paragraphs": [
+    "(skipped)"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APL_39_98_0_1333_0041_a-L2_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 1
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "(skipped)"
+  }
+ ],
+ "text_english": "(skipped)",
+ "summary_en": "Site plan of the village of Trąbczyn in the Konin district, Warsaw governorate, drawn on 15 May 1865 (no. 30 of the inventory, folio 41), with the gardens and buildings of the peasants and of the manor. Shown as an image, not transcribed.",
+ "summary_de": "Lageplan des Dorfes Trąbczyn im Kreis Konin, Gouvernement Warschau, angefertigt am 15. Mai 1865 (Nr. 30 des Verzeichnisses, Blatt 41), mit den Gärten und Gebäuden der Bauern und des Gutshofs. Als Bild gezeigt, nicht transkribiert.",
+ "reading": {}
+}

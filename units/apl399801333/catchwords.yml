@@ -1,0 +1,12 @@
+# Catchwords the line-break pass does not find (editor, 2026-10-03: a
+# catchword stays in the transcription, and is not said twice in the reading
+# text or the English). Format: units/oe1bu14526/catchwords.yml.
+#
+# Folio 88v ends with "z usilną" on a line of its own below the text, and 89
+# begins "z usilną prośbą": two words, which the pass does not take for a
+# catchword. The catchwords "osad" (foot of 88) and "uwłaszczeni" (foot of 89)
+# are single words and the pass finds them.
+
+- {letter: "3", page: 2, line: 188, drop: "line",
+   text: "z usilną",
+   next: "z usilną prośbą, o przeniesienie ich w inne miejsce. Właściciel więc, jedynie tylko pragnąc polepszenia bytu swych włościan, i uwzględniając niekorzystne dotychczasowe ich osiedlenie, powyznaczał gdzieindziej grunta i na takowych pozaprowadzał odpowiednie budynki; lecz wprzód już, zanim to nastąpiło to jest przed r. 1856, sześciu gospodarzy, którzy najwięcej podczas lat mokrych ucierpieli, dobrowolnie niezadając nowych osad — i udając się w służbę, swoje opuścili — pozostawiwszy je pustkami; wówczas to właściciel w ścisłem zastosowaniu się do Ukazu Najwyższego z r. 1846 — i spełniając obowiązek w Art. 2 pomienionego prawa na właściciela dóbr włożony, zniewolony był postarać się o innych ludzi, którzyby osady opuszczone w ciągu dwóch lat zajęli; lecz niemogąc wynaleźć takich coby w Nowej wsi — w dawnych miejscach klęsk i niepowodzeń poprzednich posiadaczy, chcieli się osiedlić; był przymuszony za tamte, wydzielić dla nich osady z własnych folwarcznych gruntów, a przez nich zająć się mające — obrócić na folwarczne, gdzie obecnie zaprowadzony został płodozmian — a budynki przeznaczone dla dworskiej czeladzi. Skoro więc włościanie, dziś dochodzący swych praw, dobrowolnie swe osady w Nowej wsi opuścili, (co niepotrzebuje żadnego dowodzenia, albowiem właściciel przemocą niemógłby ich rugować) Skoro dalej w myśl Art. 2 ukazu z r. 1846 — właściciel był wkoniecznym obowiązku postarać się o nowych włościan którzyby opuszczone siedziby zajęli, a ci nowi jako zupełnie reprezentujący poprzednich zgodzili się nawet tego wyraźnie wymagali, aby byli w nowe miejsca przeniesieni, co uskutecznionem zostało, albowiem po dziś dzień takowe zajmują, — i w nich już"}

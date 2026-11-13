@@ -1,0 +1,21 @@
+Der erste Teil der Akte über die Aufstellung der Liquidationstabellen des Gutes Trąbczyn, Besitzer Miączyński, im Kreis Słupca, im Staatsarchiv Łódź (Archiwum Państwowe w Łodzi) im Bestand der Kalischer Gouvernementsbehörde für Bauernangelegenheiten (Urząd Gubernialny Kaliski do Spraw Włościańskich). Die Edition gibt das Verzeichnis der Akte und fünf der darin verzeichneten Schriftstücke: den Plan des Dorfes Trąbczyn, zwei Bittschriften des Besitzers, Graf Włodzimierz Miączyński, und zwei der Kolonisten von Łazińsk. <!-- context -->
+
+### Historischer Hintergrund
+
+Die Ukase vom 19. Februar (2. März) 1864 machten die Bauern des Königreichs Polen zu Eigentümern des Landes, das sie bewirtschafteten, und erhielten ihnen ihre Servitute, die Rechte auf Weide, Holz und Streu im Land des Gutes. Kommissare für Bauernangelegenheiten, jeder für einen Bezirk, entschieden, wem was zustand; Berufungen gingen an die Kommission in Kalisch und an das Konstituierende Komitee und seine Zentrale Kommission in Warschau. Die Liquidationstabelle jedes Dorfes hielt das Ergebnis fest; die 1868 bestätigte Tabelle der Kolonie Łazińsk steht in [[unit:apl399806603]]. <!-- context -->
+
+### Inhalt
+
+Das Verzeichnis, russisch, nennt 145 Schriftstücke mit Datum und Nummer, der Zahl ihrer Blätter und dem Blatt, auf dem jedes beginnt [[1]]. Die ersten stammen von 1864 und 1865: Bittschriften der Bauern von Trąbczyn, Nowawies und Marianton und des Grafen Miączyński, die Beschlüsse des Kommissars des 5. Bezirks vom 13./25. Mai 1865 in Abschriften und Übersetzungen, die Entwürfe der Sitzungsprotokolle der Kommission und ihrer Schreiben an die Militärkreischefs von Konin und Kalisch. Ab 1867 folgen die Weisungen der Zentralen Kommission und die Berichte der Kommissare und der Kommission des Kreises Słupca; die letzten Schriftstücke, von 1869 und 1870, sind von einer zweiten Hand eingetragen [[1]].
+
+Der Plan des Dorfes Trąbczyn, gezeichnet am 15. Mai 1865, zeigt die Gärten und Gebäude der Bauern und des Gutshofs; er ist als Bild wiedergegeben [[2]].
+
+Am 23. Juli 1865 bat Miączyński die Kommission, die Entscheidung des Barons von Rosen aufzuheben, die Krystian Lippeldt aus einem Nachbardorf die Weide für 2 Pferde und 7 Stück Hornvieh auf dem Vorwerk Włodzimirów zuerkannt hatte, an drei „smugi“ genannten Senken an der Grenze von Emilienhejm. Lippeldt hatte dort mit schriftlicher Erlaubnis geweidet, nach einem Vertrag, der am 1. November 1863 endete, und einer neuen Vereinbarung vom 1. Mai 1864, die er aufgegeben hatte; ein Fremder, der die Weide zur Zeit des Ukases nicht nutzte, habe kein Recht daran [[4]]. Am 10./22. August 1865 legte er Berufung gegen die Entscheidung des Kommissars des 5. Bezirks vom 13./25. Mai 1865 ein, die sechs Höfe von Nowawies zu je 5 Morgen den früheren Inhabern zurückzugeben bestimmte. Er schrieb, diese Bauern seien vor 1856 freiwillig fortgegangen, er habe neue Bauern auf Vorwerksland angesetzt, und das alte Land stehe nun im Fruchtwechsel des Vorwerks [[3]].
+
+Die Kolonisten von Łazińsk schrieben am 6./18. Dezember 1867 an das Konstituierende Komitee um die Anerkennung ihrer Servitute an Weide im Trąbczyner Wald, Streu und Stubben und baten um einen unparteiischen Beamten [[5]]. Am 10./22. August 1868 schrieben sie erneut: Nach dem Privileg des Fürsten Hohenlohe von 1805 dürften sie im Studzienka-Revier weiden, Streu rechen und 6 Morgen Lehmland nutzen; der Besitzer habe ihnen das seit 1838 genommen und vor Kommissar Władimirow falsche Zeugen gestellt [[6]].
+
+Das Verzeichnis führt diese Schriftstücke unter seinen Nummern 30, 59, 75, 102 und 112; der Herausgeber hat sie aus der Akte fotografiert [[1]]. Der Beschluss, den die Kommission russisch an den Rand der Bittschrift von 1865 schrieb, ist nur zum Teil gelesen [[3]].
+
+### Verwandte Bestände
+
+Die Liquidationstabelle der Kolonie Łazińsk, mit ihren Weide- und Holzservituten im Wald Studzianka und deren Tausch gegen Land 1892: [[unit:apl399806603]]. Die Ladung von 1860 im früheren Streit der Kolonisten mit Graf Miączyński um denselben Wald: [[unit:app539680783]]. Die Verpachtung von Waldland an Siedler durch Fürst Hohenlohe 1806: [[unit:app539680801]]. <!-- context -->

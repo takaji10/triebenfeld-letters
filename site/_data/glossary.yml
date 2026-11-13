@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 54
+  docs: 56
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -188,7 +188,7 @@
   initial_en: "R"
   sort_de: "ruthe"
   initial_de: "R"
-  docs: 24
+  docs: 25
 - id: "centner"
   kind: "money"
   lang: "de"
@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 44
+  docs: 46
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -397,7 +397,7 @@
   initial_en: "D"
   sort_de: "dominium"
   initial_de: "D"
-  docs: 31
+  docs: 33
 - id: "herrschaft"
   kind: "land"
   lang: "de"
@@ -701,7 +701,7 @@
   initial_en: "I"
   sort_de: "inventarium"
   initial_de: "I"
-  docs: 18
+  docs: 20
 - id: "einsassen"
   kind: "land"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 65
+  docs: 66
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -872,7 +872,7 @@
   initial_en: "M"
   sort_de: "hypothekenbuch"
   initial_de: "H"
-  docs: 81
+  docs: 82
 - id: "intabulation"
   kind: "law"
   lang: "de_la"
@@ -1480,7 +1480,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 101
+  docs: 102
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1537,7 +1537,7 @@
   initial_en: "G"
   sort_de: "gouvernement"
   initial_de: "G"
-  docs: 34
+  docs: 37
 - id: "tribunal"
   kind: "law"
   lang: "de_fr"

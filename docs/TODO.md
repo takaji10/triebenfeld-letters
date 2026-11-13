@@ -1574,3 +1574,18 @@ transcription; 108 readings settled in session before the first build
 - [x] 2026-11-12: the spot sheet answered and applied; the index, the timeline
       event of 1882 and the era paragraph added (agad14320139). Open: the
       remaining readings (NEEDS_CONFIRMATION); a German reader's review.
+
+## 62. APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, **not published**)
+
+- [x] The index read in two passes (rough, then two independent readers per
+      page, settled by Claude); the editor's ruling: the open entries minor,
+      Osiny.
+- [x] The letters: the editor's transcription corrected where the image
+      plainly differs; 114v-115v and no. 59 (88-89v) transcribed; the plan as
+      an image; English, summaries, claim check, holding page (both
+      languages), timeline (1865, 1867-1868), era paragraph.
+- [ ] You: the spot sheet; the questions in NEEDS_CONFIRMATION ("APŁ
+      39/98/0/-/1333"): Łazińsk, Hohm/Холмъ, people, Russian place names,
+      the proposed connections.
+- [ ] Publish at your word.
+

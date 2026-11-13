@@ -512,8 +512,8 @@ jeziorko:
   span: ''
   letters: []
 kalisz:
-  docs: 103
-  span: 1280–1860
+  docs: 104
+  span: 1280–1865
   letters:
   - id: '6'
     uid: kdw-6
@@ -1029,6 +1029,11 @@ kalisz:
     uid: app539680783-1
     url: /documents/app539680783/1/
     unit_label: APP 53/968/0/-/783
+    n: 3
+  - id: '3'
+    uid: apl399801333-3
+    url: /documents/apl399801333/3/
+    unit_label: APŁ 39/98/0/-/1333
     n: 3
 kirchol:
   docs: 0
@@ -1720,8 +1725,8 @@ noga:
   span: ''
   letters: []
 nowawies-trabczyn:
-  docs: 21
-  span: 1589–1830
+  docs: 22
+  span: 1589–1865
   letters:
   - id: '1'
     uid: app536017-1
@@ -1822,6 +1827,11 @@ nowawies-trabczyn:
     uid: iiihamdaiiinr12367-7
     url: /documents/iiihamdaiiinr12367/7/
     unit_label: III. HA MdA, III. Nr. 12367
+    n: 1
+  - id: '3'
+    uid: apl399801333-3
+    url: /documents/apl399801333/3/
+    unit_label: APŁ 39/98/0/-/1333
     n: 1
   - id: '1'
     uid: app5321pyzdrygr115-1
@@ -2821,7 +2831,7 @@ trzcianne:
   span: ''
   letters: []
 trabczyn:
-  docs: 244
+  docs: 248
   span: 1240–1936
   letters:
   - id: '2'
@@ -4024,6 +4034,26 @@ trabczyn:
     url: /documents/app539680783/1/
     unit_label: APP 53/968/0/-/783
     n: 20
+  - id: '4'
+    uid: apl399801333-4
+    url: /documents/apl399801333/4/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 2
+  - id: '3'
+    uid: apl399801333-3
+    url: /documents/apl399801333/3/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 2
+  - id: '5'
+    uid: apl399801333-5
+    url: /documents/apl399801333/5/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 1
+  - id: '6'
+    uid: apl399801333-6
+    url: /documents/apl399801333/6/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 4
   - id: '1'
     uid: app539680669-1
     url: /documents/app539680669/1/
@@ -12322,7 +12352,7 @@ venedig:
     unit_label: III. HA MdA, III. Nr. 12366
     n: 3
 warschau:
-  docs: 73
+  docs: 74
   span: 1292–1882
   letters:
   - id: '8'
@@ -12675,6 +12705,11 @@ warschau:
     url: /documents/agad118501169/1/
     unit_label: AGAD 1/185/0/1/169
     n: 3
+  - id: '6'
+    uid: apl399801333-6
+    url: /documents/apl399801333/6/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 2
   - id: '1'
     uid: agad14320139-1
     url: /documents/agad14320139/1/

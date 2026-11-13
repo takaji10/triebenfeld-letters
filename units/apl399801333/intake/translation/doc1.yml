@@ -1,0 +1,388 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: ',Inventory of the papers in file No. 167,,
+
+    No. in order,From whom the paper came; its date and number,On how many leaves,Folio numbers in the
+    file
+
+    1,"Petition of the plenipotentiary Grodziecki, 8/20 February 1865",2,1
+
+    2,"Cover of the file of the advocate (patron) Grodziecki, with its inventory",1,3
+
+    3,"Letter of Mr. Zielinski, 1 February 1865",1,4
+
+    4,List of peasants of the village Nowawies,1,5
+
+    5,"Copy of a resolution of the Commissioner of the 5th district, 7/19 September 1864, no. 18",2,6
+
+    6,"Draft of the minutes of the sitting, 21 February/5 March 1865",2,8
+
+    7,"Draft of an outgoing letter to the Kalisz Military District Chief, 26 February/10 March 1865, no.
+    211",1,10
+
+    8,Postal receipt for the receipt of 63 kopecks,1,11
+
+    9,"Copy of a resolution of the Kalisz Commission, in the matter of Benigna Zielińska",1,12
+
+    10,Plan of the manorial buildings in the village of Nowawies,1,13'
+  names: []
+  numbers: []
+  flagged: []
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: '11,"Petition of Agata [Liske?], 19/31 May 1865",2,14
+
+    12,"Petition of the same woman [as no. 11], 20 April/2 May 1865, with an endorsement, no. 172",2,16
+
+    13,"Draft of the minutes of the sitting, 20 May/1 June 1865",1,18
+
+    14,"Draft of an outgoing letter to the Konin Military District Chief, 10/22 June 1865, no. 849",2,18
+
+    15,"Petition of Nepomucena [Mikołajewska?], with an endorsement",2,20
+
+    16,"Draft of the minutes of the sitting, 21 June/3 July 1865",1,22
+
+    17,"Draft of an outgoing letter to the Kalisz Military District Chief, 27 June/9 July 1865, no. 914",1,23
+
+    18,"Petition of Antoni Horecki, 4/16 January 1865, with an endorsement, no. 87",2,24
+
+    19,"Draft of the minutes of the sitting, 21 June/3 July 1865",1,25
+
+    20,"Draft of an outgoing letter to the Konin Military District Chief, 29 June/11 July 1865, no. 919",1,26'
+  names: []
+  numbers: []
+  flagged: []
+- page: 3
+  confidence: high
+  marker_count: 0
+  en: '21,"Petition of the peasants of the village Trąbczyn, 18/30 May 1865",2,28
+
+    22,"Copy of a resolution of the Commissioner of the 5th district, 11/23 December 1864, no. 44",2,30
+
+    23,"Draft of the minutes of the sitting, 20 May/1 June 1865",1,32
+
+    24,"Draft of an outgoing letter to the Konin Military District Chief, 30 May/11 June 1865, no. 713",1,33
+
+    25,"Petition of the peasants of Nowawies, 21 May/2 June 1865",2,34
+
+    26,"Copy of a resolution of the Commissioner of the 5th district, 13/25 May 1865, no. 56",1,36
+
+    27,"Draft of the minutes of the sitting, 21 May/2 June 1865",1,37
+
+    28,"Draft of an outgoing letter to the Konin Military District Chief, 30 May/11 June 1865, no. 720",1,38
+
+    29,"Petition of Włodzimierz Miączyński, 19/31 May 1865",2,39
+
+    30,Plan of the village Trąbczyn,1,41'
+  names: []
+  numbers: []
+  flagged: []
+- page: 4
+  confidence: high
+  marker_count: 0
+  en: '31,"Draft of the minutes of the sitting, 19/31 May 1865",1,42
+
+    32,"Draft of an outgoing letter to the Konin Military District Chief, 28 May/9 June 1865, no. 658",1,42
+
+    33,"Draft of an outgoing letter to the Commissioner of the 5th district, 28 May/9 June 1865, no. 659",1,43
+
+    34,"Draft of an outgoing letter to the Konin Military District Chief, 24 June/6 July 1866, no. 1673",1,44
+
+    35,"Draft of an outgoing letter to the Commissioner of the 5th district, 24 June/6 July 1866, no.
+    1674",1,45
+
+    36,"Draft of the minutes of the sitting, 22 September/4 October 1865",2,46
+
+    37,"Petition of Włodzimierz Miączyński, 23 June 1865",5,48
+
+    38,Calculation of the quantity of timber for building [in] the village Trąbczyn,1,53
+
+    39,"Four copies of resolutions of the Commissioner of the 5th district, 13/25 May 1865, nos. 60, 61,
+    62 and 63",5,54
+
+    40,"Petitions of 2 peasants of the village of Marianton, with endorsements, nos. 1531 and 311",2,59'
+  names: []
+  numbers: []
+  flagged: []
+- page: 5
+  confidence: high
+  marker_count: 0
+  en: '41,"Petition of the former peasants of the village of Marianton, with endorsements, nos. 1532 and
+    312",2,61
+
+    42,"Report of the Commissioner of the 10th district, 13 May 1867, no. 32",1,63
+
+    43,"Draft of outgoing letter to the Słupca district chief, 17 May 1867, no. 1652",1,64
+
+    44,"Report of the Commissioner of the 10th district, 18 May 1867, no. 34",1,65
+
+    45,"Draft of an outgoing letter to the Commissioner of the [бер.?] district, [Vladimirov?], 23 May
+    1867, no. 1748",1,66
+
+    46,"Petition of Włodzimierz Miączyński, 23 July 1865",2,67
+
+    47,Valuation table of the house of the [former?] servants in the village of Marianton,4,69
+
+    48,Two plans: of the village of Marianton and of the house of the [former?] servants,4,73
+
+    49,"Copy of a resolution of the Commissioner of the 5th district, 13/25 May 1865, no. 64",2,77
+
+    50,"Draft of the minutes of the sitting, 28 July/9 Aug 1865",1,79'
+  names: []
+  numbers: []
+  flagged: []
+- page: 6
+  confidence: high
+  marker_count: 0
+  en: '51,"Draft of outgoing letter to the Konin military district chief, 10/22 May 1866, no. 1113",1,80
+
+    52,"Draft of outgoing letter to the Commissioner of the 5th district, 10/22 May 1866, no. 1114",1,81
+
+    53,"Petition of [Zaska?] and [Grobar?], 2/14 Aug 1865",1,82
+
+    54,"Translation from the Russian of a resolution of the Commissioner of the 5th district, 13/25 May
+    1865, no. 61",1,83
+
+    55,"Draft of the minutes of the sitting, 22 Sept/4 Oct 1865",1,84
+
+    56,"Petition of [Kemishkowski?] and [Zetinski?], 1/13 August 1865",1,85
+
+    57,"Translation from the Russian of a resolution of the Commissioner of the 5th district, 13/25 May
+    1865, no. 62",1,86
+
+    58,"Draft of the minutes of the sitting, 22 [Sept?]/4 Oct 1865",1,87
+
+    59,"Petition of Włodzimierz Miączyński, 10/22 Aug 1865",2,88
+
+    60,"Copy of a resolution of the Commissioner of the 5th district, 13/25 May 1865, no. 83",2,90'
+  names: []
+  numbers: []
+  flagged: []
+- page: 7
+  confidence: high
+  marker_count: 0
+  en: '61,"Petition of [Fokowski?], 1/13 November 1865",1,92
+
+    62,"Draft of the minutes of the sitting, 23 Sept/5 Oct 1865",2,93
+
+    63,"Draft of outgoing letter to the Konin military district chief, 20 Nov/2 Dec 1865",1,95
+
+    64,"Draft of outgoing letter to the Commissioner of the 5th district, 20 Nov/2 Dec 1865",2,96
+
+    65,"Petition of the peasants of the village of Marianton, 8/20 August 1865",2,98
+
+    66,"Translation from the Russian of a resolution of the Commissioner of the 5th district, 13/25 May
+    1865, no. 64",2,100
+
+    67,"Draft of the minutes of the sitting, 22 Sept/4 Oct 1865",1,102
+
+    68,"Petition of the peasant Ferdinand [Werding?], with a [certificate?] of the gmina''s wójt, 24 Nov/6
+    Dec 1864",2,103
+
+    69,"Two petitions of the same man (Ferdinand of no. 68), 18/30 September 1865, with an endorsement,
+    no. 508",4,105
+
+    70,"Draft of the minutes of the sitting, 27 Jan/8 Feb 1866",1,108'
+  names: []
+  numbers: []
+  flagged: []
+- page: 8
+  confidence: high
+  marker_count: 0
+  en: '71,"Draft of an outgoing letter to the Konin military district chief, 2/14 April 1866, no. 688",1,109
+
+    72,"Petition of Jasińska and [Rymarska?], 1/13 August 1865",1,110
+
+    73,"Translation from the Russian of a resolution of the Commissioner of the 5th district, 13/25 May
+    1865, no. 60",1,111
+
+    74,"Draft of the minutes of the sitting, 22 Sept/4 Oct 1865",1,112
+
+    75,"Petition of Włodzimierz Miączyński, 23 July 1865",4,113
+
+    76,"Copy of a resolution of the Commissioner of the 5th district, 13/25 May 1865, no. 86",2,116
+
+    77,"Draft of the minutes of the sitting, 14/26 December 1865",1,119
+
+    78,"Report of the Commissioner of the 5th district, 31 Jan/12 Feb 1866, no. 41",1,120
+
+    79,"Draft of the minutes of the sitting, 23 May/4 June 1866",1,121
+
+    80,"Draft of an outgoing letter to the Konin military district chief and the Commissioner of the 5th
+    district, 19 June/1 July 1866, nos. 1547 and 1548",1,122'
+  names: []
+  numbers: []
+  flagged: []
+- page: 9
+  confidence: high
+  marker_count: 0
+  en: '81,"Liquidation table submitted by Count Miączyński, 15/27 November 1865",1,123
+
+    82,"Draft of an outgoing receipt, 15/27 November 1865, no. 1798",1,124
+
+    83,"Report of Commissioner Vladimirov, 1 June 1867, no. 60",1,125
+
+    84,"Draft of the minutes of the sitting, 21 August 1867",3,126
+
+    85,"Report of the Commissioner of the 10th district, 1 July 1867, no. 59",1,129
+
+    86,"Draft of an outgoing letter to the Constituent Committee, 23 August 1867, no. 2988",3,129
+
+    87,"Petition of [Sokhinsky?], 18/30 November 1866",1,132
+
+    88,"Order of the Central Commission, 5 February 1868, no. 2120",1,133
+
+    89,"Petition of Zelmer and Hohm, 10 September 1868",1,134
+
+    90,"Petition of Gośka and Hohm, 21 September/3 October 1868",1,135'
+  names: []
+  numbers: []
+  flagged: []
+- page: 10
+  confidence: high
+  marker_count: 0
+  en: '91,"Petition of Wilhelm Hohm, 15/27 January 1868, with documents",10,136
+
+    92,"Order of the Central Commission, 14 December 1867, no. 21188, with endorsement, no. 4127",2,146
+
+    93,"Report of Commissioner Vladimirov, 15 January 1868, no. 3",1,147
+
+    94,"Draft of an outgoing letter to the Central Commission, 31 January 1868, no. 380",1,148
+
+    95,"Order of the Central Commission, 9/21 October 1867, no. 17127, with endorsement, no. 3480",6,150
+
+    96,"Report of Commissioner Vladimirov, 12 January 1868, no. 2",2,155
+
+    97,"Draft of an outgoing letter to the Central Commission, 4 February 1868, no. 309",1,158
+
+    98,"Order of the Central Commission, 18 March 1868, no. 4769",1,159
+
+    99,"Report of the Commission of the Słupca district, 29 June 1868, no. 607",1,160
+
+    100,"Draft of an outgoing letter to the Kalisz Governorate Board, 31 August 1868, no. 3499",1,161'
+  names: []
+  numbers: []
+  flagged: []
+- page: 11
+  confidence: high
+  marker_count: 0
+  en: '101,"Letter of the Kalisz Governorate Board, 17 September 1868, no. 6379",1,162
+
+    102,"Petition of the colonists of the village of [Łazińsk?], with a postal receipt, 6/18 December
+    1867",2,163
+
+    103,"Petition of Stanislav [Bedgarovich?] (perhaps Edgarovich), 3/15 January 1868, with endorsement,
+    no. 2375",2,165
+
+    104,"Petition of the same [person as no. 103], 28 Nov/10 Dec 1867, with endorsement, no. 2377",2,167
+
+    105,"Report of the Commission of the Słupca district, 1 June 1868, no. 568",1,169
+
+    106,"Petition of Ferd. Werdin, 18/30 June 1868, with an endorsement, no. 3912",2,170
+
+    107,"Report of the Commission of the Słupca district, 2 October 1868, no. 832",1,172
+
+    108,"Draft of an outgoing letter to the chief of the Słupca district, 10 October 1868, no. 4638",1,173
+
+    109,"Draft of an outgoing letter to the chancellery of the [administration/commission?], 14 March
+    1869, no. 1461",1,174
+
+    110,"Draft of an outgoing letter to the Commission of the Słupca district, 27 March 1869, no. 1634",1,174'
+  names: []
+  numbers: []
+  flagged: []
+- page: 12
+  confidence: high
+  marker_count: 0
+  en: '111,"Order of the Central Commission, 19 March 1869, no. 5793",1,175
+
+    112,"Petition of 2 colonists of the village of Łazińsk, 10/22 August 1868, with endorsements, nos.
+    3913 and 833",4,176
+
+    113,"Report of the Commission of the Słupca district, 12 June 1869, no. 542",2,180
+
+    114,"Draft of an outgoing letter to the Chancery of the Central Commission, 23 June 1869, no. 3600",1,182
+
+    115,"Petition of the peasants of the village of Osiny, 16 September 1869",2,184
+
+    116,"From the chairman of the Commission of the Słupca district, 30 October 1869, no. 1350",2,185
+
+    117,"Petition of the peasants of the village of Osiny, 7 November 1869",1,186
+
+    118,"Draft of an outgoing letter to the Upr. [Kom.?], 30 April 1869, no. 2731",1,187
+
+    119,"[as no. 118] Draft of an outgoing letter to the ... Commission, 24 July 1869, no. 4386",1,188
+
+    120,"[as no. 118] Draft of an outgoing letter, 24 July 1869, no. 4387",1,189
+
+    121,"[as no. 118] Draft of an outgoing letter, 24 July 1869, no. 4389",1,190
+
+    122,"[as no. 118] Draft of an outgoing letter, 24 July 1869, no. 4390",1,191
+
+    123,"[as no. 118] Draft of an outgoing letter, 24 July 1869, no. 4405",1,192
+
+    124,"[as no. 118] Draft of an outgoing letter, 24 July 1869, no. 4378",1,193
+
+    125,"[as no. 118] Draft of an outgoing letter, 24 July 1869, no. 4379",1,194'
+  names: []
+  numbers: []
+  flagged: []
+- page: 13
+  confidence: high
+  marker_count: 0
+  en: '126,"Draft of an outgoing letter to the [Upr.?] Kom., 24 July 1869, no. 4380",1,195
+
+    127,"[as no. 126] Draft of an outgoing letter to the ... Commission, 30 January 1870, no. 623",1,196
+
+    128,"From the chairman of the Commission of the Słupca district, 4 December 1869, no. 1668",1,197
+
+    129,"[as no. 128] From the chairman of the Commission of the Słupca district, 4 December 1869, no.
+    1667",1,198
+
+    130,"[as no. 128] From the chairman of the Commission of the Słupca district, 4 December 1869, no.
+    1666",1,199
+
+    131,"[as no. 128] From the chairman of the Commission of the Słupca district, 4 December 1869, no.
+    1665",1,200
+
+    132,"[as no. 128] From the chairman of the Commission of the Słupca district, 22 May 1869, no. 794",1,201
+
+    133,"[as no. 128] From the chairman of the Commission of the Słupca district, 22 May 1869, no. 795",1,202
+
+    134,"[as no. 128] From the chairman of the Commission of the Słupca district, 22 May 1869, no. 791",1,203
+
+    135,"[as no. 128] From the chairman of the Commission of the Słupca district, 22 May 1869, no. 792",1,204
+
+    136,"[as no. 128] From the chairman of the Commission of the Słupca district, 22 May 1869, no. 793",1,205
+
+    137,"Draft of an outgoing letter [to] the Commission of the Słupca district, 14 January 1870, no.
+    305",1,206
+
+    138,"Reply of the Commission of the Słupca district, 20 February 1870, no. 242",1,207
+
+    139,"Draft of an outgoing letter to the chancery of the Central Commission, 5 March 1870, no. 1020",1,208
+
+    140,"Reply of the Central Commission, 10 March 1870, no. 4504",1,209
+
+    141,"Draft of an outgoing letter to the chancery of the Central Commission, 14 June 1870, no. 3046",1,210'
+  names: []
+  numbers: []
+  flagged: []
+- page: 14
+  confidence: high
+  marker_count: 0
+  en: '142,"Reply of the Commission of the Turek district, 6 July 1870, no. 806",1,211
+
+    143,"[as no. 142] Reply of the Commission of the Turek district, 2 December 1870, no. 1661",1,212
+
+    144,"[as no. 142] Reply of the Commission of the Turek district, 23 June 1870, no. 801",1,213
+
+    145,"[as no. 142] Reply of the Commission of the Turek district, 17 November 1870, no. 1152",1,214
+
+    ,Secretary [Ber…?],,'
+  names: []
+  numbers: []
+  flagged: []

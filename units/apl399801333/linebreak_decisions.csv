@@ -1,0 +1,4 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+3,1,181,183,,osad,osad,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,osad || osad pomienionych na własność dominii dire
+3,3,191,193,,uwłaszczeni,uwłaszczeni,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,uwłaszczeni || uwłaszczeni zostali — jakimże sposobem pie
+4,1,207,209,-,przedsta,wiam,przedstawiam,join,held,"held: one word divided across the page end, przedstawiam (Claude, 2026-11-13)",True,0,0,0,0,1,231,tej decyzji a w poparciu takowej przedsta- || wiam następujący czyn:

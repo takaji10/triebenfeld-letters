@@ -3926,3 +3926,39 @@ first and a fine pass at their word. The files are in
   (LibreOffice needs `socket.AF_UNIX`): a formula column (here the folio
   check) is written and computes when Excel opens the file; check the same
   logic in Python.
+
+### The letters and the holding (2026-11-13, evening)
+
+- **Checking an editor's transcription without re-reading it.** The editor's
+  word was: correct only a glaring error, from context first. List the
+  suspect words with their context, and give the list to a Sonnet reader
+  *without the suspected correction*, asking only what the page has at each
+  spot; then look yourself at every medium or low answer. Of 29 suspects, 27
+  were real misreadings (zmierciłem/zmieniłem, dałem/dał im — the latter
+  reverses who paid the false witnesses) and a whole line was missing.
+- **A Sonnet claim checker finds what the writer of a summary cannot see.**
+  It cut "with carts two days a week" (the verb is a doubtful reading), a
+  "widows" no entry names, and a date range the index does not hold: 9 of
+  87 statements. Apply its cuts to the English, the holding page and the
+  timeline too, where the same sentence was repeated.
+- **`holding.py --cache` (courtbook.save_cache) reads the merged
+  `dataset/letters.json`**: for a new holding, run `merge_corpus.py` first,
+  or it writes nothing and says nothing.
+- **Running `regenerate.py` past its self-check**: a few lines that import
+  `regenerate`, replace `run()` for `pipeline/check_pipeline.py` only and
+  call `main()` with `--unit <slug> --site` run every other step in order
+  (the self-check's 25 problems are old and not the holding's).
+- **A catchword above an office note is not found**: the line-break pass
+  looks at the page's last line. Put the office's notes before the
+  catchword (the notes are set apart anyway), and list a two-word catchword
+  ("z usilną") in `catchwords.yml`.
+- **`csv.DictWriter(open(path, 'w'))` truncates the file before it fails**:
+  a row with an extra field emptied `index.csv`. Write to a list first and
+  open the file only to write it; keep the script that made the file
+  (`intake/make_index_csv.py`) so it can be made again.
+- **A new document kind needs its label** in `site/_data/i18n.yml`, both
+  languages (`petition`, `plan`), or the page says "Document".
+- **A shared surname pattern tags the wrong man.** "W. Miączyński" in 1865
+  matched `miaczynski` (Stanisław, Michalina's husband); check `people:` in the
+  holding's `site/_letters/*.html` after the first build, and fix with
+  `only_in`/`not_in` limited to the holding.

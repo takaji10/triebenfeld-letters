@@ -1,0 +1,134 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: apl399801333
+ref: 39/98/0/-/1333
+archive: Archiwum Państwowe w Łodzi (APŁ)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as original_title.
+title: >-
+  The Kalisz peasant-affairs office's file on the liquidation tables of the
+  Trąbczyn estate, 1864 to 1870: its index of 145 papers, the plan of the
+  village of 1865, Count Włodzimierz Miączyński's two petitions of 1865
+  against the commissioners' decisions for the peasants of Nowawies and for
+  Krystian Lippeldt of a neighbouring village, and the Łazińsk colonists' petitions of
+  1867 and 1868 for their old rights of pasture, litter and clay.
+title_de: >-
+  Die Akte der Kalischer Behörde für Bauernangelegenheiten über die
+  Liquidationstabellen des Gutes Trąbczyn, 1864 bis 1870: ihr Verzeichnis
+  von 145 Schriftstücken, der Plan des Dorfes von 1865, Graf Włodzimierz
+  Miączyńskis zwei Bittschriften von 1865 gegen die Entscheidungen der
+  Kommissare für die Bauern von Nowawies und für Krystian Lippeldt aus einem
+  Nachbardorf und die Bittschriften der Kolonisten von Łazińsk von 1867 und
+  1868 um ihre alten Weide-, Streu- und Lehmrechte.
+# The holding's titles (editor, 2026-10-29). original_title: the archive's own
+# title, in its own language, whole.
+original_title: >-
+  О составлении ликвидационных табелей по имению Тромбчин владельца
+  Миончинскаго, Слупецкаго уезда ч. I
+archive_title: >-
+  О составлении ликвидационных табелей по имению Тромбчин владельца
+  Миончинскаго, Слупецкаго уезда ч. I
+card_title: "On the drawing up of the liquidation tables of the estate of Trąbczyn, owner Miączyński, Słupca district, part I"
+card_title_de: "Über die Aufstellung der Liquidationstabellen des Gutes Trąbczyn, Besitzer Miączyński, Kreis Słupca, Teil I"
+short_title: "Liquidation tables of Trąbczyn, part I"
+short_title_de: "Liquidationstabellen von Trąbczyn, Teil I"
+fonds: Urząd Gubernialny Kaliski do Spraw Włościańskich (39/98)
+# The kind of material: one or two slugs of reference/unit_types.yml.
+types: [government-files, registers-tables]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [pl, ru]
+date_span: "1864-1870"
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. 1865 to 1870 is
+# Count Włodzimierz Miączyński's ownership and the enfranchisement, the era of
+# the colonists' land and forest rights, as the sibling 39/98/0/-/6603.
+era: wlodzimierz
+
+# Which archive holds it - reference/repositories.yml.
+repository: apl-lodz
+
+# The editor's photographs: the index (39_98_0_0_1333_001 to _014) and some of
+# the papers it lists, named by their number in the index and their folio
+# (No.59_39_98_0_0_1333_88.jpg). intake/holding.py --crop copies them into
+# processed/ under their page ids, the plan turned upright; the folder's
+# _mapa.jpg is not used.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Łódź State Archives/О составлении ликвидационных... Тромбчин, Слупецкаго уезда ч. I (39.98.0.-.1333)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APL_39_98_0_1333
+
+# One file per page, named by page id (0088_a.txt), written by
+# intake/holding.py --write.
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead.
+description: >-
+  Part I of the file of the Kalisz office for peasant affairs on the drawing
+  up of the liquidation tables of the Trąbczyn estate, owner Miączyński,
+  Słupca district (State Archive in Łódź, fonds 39/98): the six papers the
+  editor photographed. The file's index ("Опись бумагамъ, къ дѣлу № 167"), in
+  Russian, lists 145 papers of 1864 to 1870 with their dates, numbers, leaves
+  and folios, and is given as a table. The plan of the village of Trąbczyn of
+  15 May 1865 (index no. 30) is shown as an image. Four petitions in Polish:
+  Count Włodzimierz Miączyński's of 23 July 1865 against Baron von Rosen's
+  decision granting Krystian Lippeldt of a neighbouring village a servitude
+  of pasture at the "smugi" of the folwark Włodzimirów, and his of 10/22
+  August 1865 against the decision of the Commissioner of the 5th District
+  returning six farmsteads of Nowa Wieś to the peasants who left them; and
+  the petitions of the colonists of Łazińsk of 6/18 December 1867 and 10/22
+  August 1868 to the Constituent Committee for the pasture, litter and clay
+  rights granted them under Prince Hohenlohe's privilege of 1805.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  The index is Russian in the old spelling; the clerk's abbreviations stand
+  (Комм. for the commissioner, Черновой отпускъ for the draft of an outgoing
+  letter, Проектъ журнала засѣданія for a draft of the minutes). The
+  petitions are Polish of the 1860s with the writers' own spellings, accents
+  and joined prepositions (zdnia, wkoniecznym, Leśie, śię), and the
+  colonists' of 1868 is in a rough hand with many slips: give them as
+  written. A double date (10/22) is Old Style/New Style. Latin tags (dominii
+  directi, quaestionis) are the writer's. "smugi" is the local name of three
+  hollows in a field and stays in Polish.
+
+# What the "Method" tab says (reference/prepared.yml).
+prepared:
+  transcription:
+  - en: >-
+      The index was read from the scans by two AI readers working
+      independently; where they differed, Claude decided on the image, and
+      the entries that stayed doubtful are marked. The transcription of the
+      petition of 23 July 1865 (in part) and of the colonists' two petitions
+      is the editor's own; Claude corrected it only where the image plainly
+      showed a different word. The rest of the petition of 1865, and the
+      petition of 10/22 August 1865, were read from the scans in the same
+      way as the index.
+    de: >-
+      Das Verzeichnis wurde von zwei unabhängig arbeitenden KI-Lesern von den
+      Scans gelesen; wo sie voneinander abwichen, entschied Claude am Bild,
+      und die zweifelhaft gebliebenen Einträge sind gekennzeichnet. Die
+      Transkription der Bittschrift vom 23. Juli 1865 (zum Teil) und der
+      beiden Bittschriften der Kolonisten stammt vom Herausgeber; Claude
+      korrigierte sie nur, wo das Bild deutlich ein anderes Wort zeigte. Der
+      Rest der Bittschrift von 1865 und die Bittschrift vom 10./22. August
+      1865 wurden auf dieselbe Weise wie das Verzeichnis von den Scans
+      gelesen.
+  translation:
+  - l-claude
+  - s-claude

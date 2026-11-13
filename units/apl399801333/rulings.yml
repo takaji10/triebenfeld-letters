@@ -1,0 +1,92 @@
+# Editorial rulings for 39/98/0/-/1333 (APŁ).
+#
+# Six documents, the editor's choice (2026-11-13): the index of the file (1),
+# the plan of Trąbczyn (2, an image only), Miączyński's petitions of 10/22
+# August 1865 (3) and 23 July 1865 (4), and the Łazińsk colonists' petitions
+# of 1867 (5) and 1868 (6). intake/holding.py lists them with their folios.
+
+places:
+  overrides:
+    # the index names no place; the plan's title names the village it shows,
+    # not a place of writing
+    "1": ""
+    "2": ""
+    "3": Kalisz             # "Kalisz dnia 10/22 Sierpnia 1865." (left margin of 89v)
+    "4": Trąbczyn           # "Trąbczyn dnia 23 Lipca 1865 r."
+    "5": Łazińsk            # "w Łazińsku dnia 6/18 Grudnia 1867 r."
+    "6": Łazińsk            # "Kolonia Łazieńska dnia 10/22 Sierpnia, 1868 r."
+
+dates:
+  read:
+    "2": [1865, 5, 15, "day"]     # "sporządzony dnia 15 Maja 1865 R." (the plan's title)
+    "3": [1865, 8, 22, "day"]     # "Kalisz dnia 10/22 Sierpnia 1865." (New Style)
+    "4": [1865, 7, 23, "day"]     # "Trąbczyn dnia 23 Lipca 1865 r."
+    "5": [1867, 12, 18, "day"]    # "w Łazińsku dnia 6/18 Grudnia 1867 r." (New Style)
+    "6": [1868, 8, 22, "day"]     # "Kolonia Łazieńska dnia 10/22 Sierpnia, 1868 r." (New Style)
+  supplied: {}
+  twin: {}
+  # [year, month, day, precision, basis]
+  inferred:
+    "1": [1870, null, null, "year", "The index of the file, kept as the papers came in: its entries run from 1864 to the last papers of 1870."]
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": register
+    "2": plan
+    "3": petition
+    "4": petition
+    "5": petition
+    "6": petition
+
+  language:
+    "1": "ru"
+    "2": "pl"
+    "3": "pl"
+    "4": "pl"
+    "5": "pl"
+    "6": "pl"
+
+  tables: ["1"]
+
+  duplicate_of: {}
+  split_note: {}
+  relations:
+    "2":
+      - kind: entered_in
+        target: "1"
+        note: "no. 30 of the index, folio 41"
+    "3":
+      - kind: entered_in
+        target: "1"
+        note: "no. 59 of the index, folios 88-89"
+    "4":
+      - kind: entered_in
+        target: "1"
+        note: "no. 75 of the index, folios 113-115"
+    "5":
+      - kind: entered_in
+        target: "1"
+        note: "no. 102 of the index, folio 163"
+    "6":
+      - kind: entered_in
+        target: "1"
+        note: "no. 112 of the index, folios 176-177"
+
+  # The estate the documents are ABOUT.
+  estates:
+    "1": [trabczyn]
+    "2": [trabczyn]
+    "3": [trabczyn]
+    "4": [trabczyn]
+    "5": [trabczyn]
+    "6": [trabczyn]
+
+pages:
+  # The letters are transcribed by paragraph, not by line (intake/text1333.py).
+  by_paragraph: ["0088_a", "0088_b", "0089_a", "0089_b", "0113_a", "0113_b", "0114_a", "0114_b",
+                 "0115_a", "0115_b", "0163_a", "0176_a", "0176_b", "0177_a", "0177_b"]
+
+damage:
+  letters: []

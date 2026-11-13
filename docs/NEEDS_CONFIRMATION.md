@@ -2092,6 +2092,52 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
+## APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, branch `trampczynski-family`, not published)
+
+Read `units/apl399801333/notes.md` first. The index's open entries are not
+asked (the editor, 2026-11-13: minor uncertainties); Osiny is settled.
+
+1. **The spot sheet** (seven rows, `python pipeline/review/queries.py --unit
+   apl399801333`): "Z [uszgłębonem?] uszanowaniem" (163); "[gajć?] się w Boru
+   furami" (176), and what "gajć się" and "ugaj" mean; the Russian note on 88
+   ("[обмѣнѣ?]", the word after "поручить"); the receipt below it ("[oddane?]",
+   the date "11 [Paźdz.?]", the signature "[A. Kowal…?]"); "[czynionem?]"
+   (88v); "art 1. 5. 11." (115); "majem territorium" (113, the editor's
+   reading, kept).
+2. **Łazińsk.** The colonists' petitions are dated "w Łazińsku" and "Kolonia
+   Łazieńska", and the register leaves the bare Polish form unmatched until
+   the editor says (reference/places.yml, `trabczynskie-stare-oledry`,
+   open_questions). Match "Łazińsk"/"Łazieńska" in this holding (only_in) so
+   the two letters link to the colony?
+3. **Hohm and Холмъ.** Daniel Hohm signs the petition of 1867 and Wilhelm Hohm
+   petitions in 1868 (index no. 91, "Гома"); the liquidation table of 1868
+   (APŁ 39/98/0/-/6603) has "Холмъ Даніель" (no. 4) and "Холмъ Вильгельмъ"
+   (no. 14) among the colonists. The same family, Hohm/Holm? Claude's reading
+   of the coincidence, not a ruling.
+4. **People.** No person entries yet for Krystian Lippeldt, Baron von Rosen
+   (the commissioner whose decision of 1865 Miączyński appealed, and who
+   recognised the colonists' rights per the letter of 1868), the
+   commissioner Vladimirov/Władimirow of the 10th district, the colonists
+   Daniel Hohm, Wilhelm Moritz, Ludwig Hintz and Krystyan Sehr, the
+   plenipotentiary Grodziecki, the former steward Swiderski, the witnesses
+   Wawrzeniec Sowiński, Józef Czajka, Marcin Rywarski, Libner (a joiner) and
+   Tomasz Janicki. Which should have entries? (Włodzimierz Miączyński is
+   tagged in this holding now: reference/people.yml, `miaczynski-wlodzimierz`.)
+5. **Places in Russian.** The index's Russian place names (Тромбчинъ, Нова
+   весь, Маріянтовъ, Лазинскъ, Осины, Слупца, Конинъ, Калишъ, Турекъ) match
+   no place, as in 39/98/0/-/6603. Match them?
+6. **Connections proposed** (docs/CONNECTIONS.md; Claude's reading, none
+   written into reference/connections.yml): the petition of 1868 (6) cites
+   "Kontraktu kupna Osad, od Księcia Hohenlohe ... w roku 1805", the contract
+   the summons of 1860 (APP 53/968/0/-/783) argues does not bind the owner;
+   the colonists' servitudes of pasture and litter (5, 6) against the
+   servitudes the copy of the liquidation table states in 1869
+   (39/98/0/-/6603, 2) and their exchange for land in 1892 (6603, 4);
+   the "Rewir Studźienkowski" of 6 against the gazetteer's Studzianka
+   (the Studzienka of the Łukom map of 1766).
+7. **The index's leaves for no. 75**: written 4 over 3; the petition has
+   three leaves (113-115). Kept as written.
+
 ## AGAD 1/432/0/1/139: Pastor Erdmann's reports of 1882 (added 2026-11-11, branch `main`, not published)
 
 Read `units/agad14320139/notes.md`, "Open readings", for the lines. For the

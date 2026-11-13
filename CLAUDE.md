@@ -119,6 +119,18 @@ so check them.
 
 ## Where things stand (2026-11-01)
 
+- **APŁ 39/98/0/-/1333 - the liquidation-tables file of Trąbczyn, part I**
+  (slug `apl399801333`, added 2026-11-13, branch `trampczynski-family`,
+  **not published**): the file's Russian index of 145 papers (a table,
+  read twice by Sonnet readers and settled by Claude), the plan of
+  Trąbczyn of 1865 (an image), Count Włodzimierz Miączyński's petitions of
+  1865 and the Łazińsk colonists' of 1867 and 1868. The editor's
+  transcription of three letters corrected only where the image plainly
+  differs; the rest transcribed by two readers each. Era `wlodzimierz`.
+  Open: the spot sheet, Łazińsk matching, Hohm/Холмъ, people
+  (NEEDS_CONFIRMATION). Read `units/apl399801333/notes.md` first, and
+  WORKING_NOTES, "The index of APŁ 39/98/0/-/1333".
+
 - **The owners' family tree and two trees in the explorer** (branch
   `trampczynski-family`, 2026-11-12, **published 2026-11-13**): /genealogy/zelmer/
   and /genealogy/trabczyn/ ("Owners of Trąbczyn"), the header's Genealogy a
