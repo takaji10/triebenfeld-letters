@@ -6108,4 +6108,8 @@ sources-icon.html`).
   account stays in `units/agad14320139/notes.md`.
 - Published with the readable English, the bracketed completions and the
   Genealogy menu order.
+- The Zagórów report's summary (both languages) and the holding's
+  introduction now carry its vices and conversions lines (no special vices,
+  the reading uncertain; no conversions), resting on the editor's "[not]";
+  the claim check records the two statements. Published the same night.
 
