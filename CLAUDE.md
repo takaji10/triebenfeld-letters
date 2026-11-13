@@ -119,8 +119,18 @@ so check them.
 
 ## Where things stand (2026-11-01)
 
+- **The owners' family tree and two trees in the explorer** (branch
+  `trampczynski-family`, 2026-11-12, **published 2026-11-13**): /genealogy/zelmer/
+  and /genealogy/trabczyn/ ("Owners of Trąbczyn"), the header's Genealogy a
+  dropdown; the tree authored in `reference/estate_tree.yml` and built by
+  `pipeline/genealogy/build_estate.py`; remarriages drawn by the charting
+  standard; holders of Trąbczyn marked. Plan and the editor's charts checked:
+  `docs/ESTATE_TREE_PLAN.md`; open questions: NEEDS_CONFIRMATION, "The
+  owners' family tree". Minakowska pages are fetched through the editor's
+  sign-in (WORKING_NOTES, "The owners' family tree").
+
 - **The Trąmpczyński family's person pages** (branch `trampczynski-family`,
-  2026-11-12, **not published**): the editor's family line checked against
+  2026-11-12, **published 2026-11-13**): the editor's family line checked against
   the boundary decree of 1775 (which recites the title deeds 1522-1698),
   and person pages built in `reference/genealogy.yml` for Jan the elder,
   Wojciech, Stanisław, Władysław and Jan Otto-Trąmpczyński, Jan na Kolno
@@ -693,9 +703,9 @@ so check them.
   Władysław hr. Miączyński of Pawłowa: the press witness of the death the
   wlodzimierz era's ownership line turns on. Read by Tesseract, with the
   WBC's own DjVu fetched again and rendered at 600 dpi where the display
-  capitals and the rough 300 dpi page defeated it; the death date stands
-  against the records' 20th of December (the documents first,
-  NEEDS_CONFIRMATION). Read `newspapers/dziennikpoznanski18791220/notes.md`
+  capitals and the rough 300 dpi page defeated it; its death date, the
+  18th, is the edition's since 2026-11-12 (the earlier "20th" was this
+  issue's date; the parish act agrees on the 18th). Read `newspapers/dziennikpoznanski18791220/notes.md`
   first. Published 2026-10-23.
 - **The parish's own chronicle** (`luteraniezagorow`, added 2026-10-22,
   **published 2026-10-23**): the page "Zagórów filiał Parafii

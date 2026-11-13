@@ -1040,7 +1040,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       the sense allows only the 23rd); "Zmarł" at the body line's left
       edge; "Polskiem" against "Polském"; "Ekspedycya". The list with the
       evidence is in the item's notes.md; a spot sheet can be made.
-- [ ] **You:** the death date, 18 or 20 December 1879 — now with a period
+- [x] **You:** the death date, 18 or 20 December 1879 (settled 2026-11-12: the 18th; the 20th was the issue date) — now with a period
       witness on Żychliński's side.
 - [ ] **You:** "Pawłowa", the nephew's seat — a place of the register or
       not (NEEDS_CONFIRMATION, "The newspapers").

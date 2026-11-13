@@ -190,7 +190,9 @@ named people from the Russian tables in German forms).
 ## Open
 
 - Settled (editor, 2026-10-15): Michalina died on 19 January 1851 and
-  Włodzimierz on 20 December 1879, so 1858 to 1870 are his years. His
+  Włodzimierz on 18 December 1879 (corrected 2026-11-12 from the 20th,
+  the date of the newspaper that printed his death notice), so 1858 to
+  1870 are his years. His
   nephew Władysław Miączyński became heir; the edition has no era for the
   years after 1879 yet, and no document of them.
 

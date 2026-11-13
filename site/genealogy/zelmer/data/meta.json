@@ -1,4 +1,12 @@
 {
+ "tree": "zelmer",
+ "title": {
+  "en": "Zelmer Family Explorer",
+  "de": "Zelmer-Familien-Explorer",
+  "pl": "Eksplorator rodziny Zelmer"
+ },
+ "start": "I2867",
+ "media": true,
  "built": "5 NOV 2026",
  "source": "Gramps",
  "media_version": "",

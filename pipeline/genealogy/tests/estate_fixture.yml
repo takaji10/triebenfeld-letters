@@ -1,0 +1,61 @@
+tree: {start: T003}
+sources:
+  konin145: {title: "Konin Gr.145, boundary decree", kind: document, url: "/documents/app53170koningr145/1/"}
+  tekidworzaczka: {title: "Teki Dworzaczka", author: "Dworzaczek", kind: database, url: "https://teki.bkpan.poznan.pl/"}
+  minakowska: {title: "Minakowska genealogy", author: "Minakowska", kind: literature}
+places:
+  trabczyn: {name: "Trąbczyn, Konin district, Greater Poland", lat: 52.215, lon: 17.83, coord_source: "reference/place_coords.yml"}
+  lukomia: {name: "Łukomia, Greater Poland"}
+  venice: {name: "Venice, Italy", lat: 45.44, lon: 12.33, coord_source: "outside Poland - Gramps"}
+people:
+  T001:
+    given: Jan
+    surname: "Otto-Trąmpczyński"
+    sex: M
+    rule: holder
+    page: "/people/jan/"
+    events:
+      - {type: DEAT, date: "BEF 6 OCT 1693", place: trabczyn, cite: [{source: tekidworzaczka, page: "reg. 12", exact: true}]}
+  T002:
+    given: Anna
+    surname: Chełmska
+    sex: F
+    rule: spouse
+    events:
+      - {type: BIRT, date: "ABT 1620", cite: [{source: minakowska, page: "p. 3"}]}
+  T003:
+    given: Paweł
+    surname: Prusimski
+    sex: M
+    rule: holder
+    notes: ["Starost of Kolno."]
+    events:
+      - {type: EVEN, label: "Held Trąbczyn", date: "FROM 1720 TO 1754", place: trabczyn, note: "Starost.", cite: [{source: konin145, page: "doc 1, p. 2"}]}
+      - {type: DEAT, date: "5 DEC 1754", place: trabczyn, cite: [{source: konin145, page: "doc 1, p. 9"}]}
+      - {type: OCCU, label: "Starost", cite: [{source: konin145}]}
+  T004: {given: Maria, surname: Zielonacka, sex: F, rule: spouse}
+  T005:
+    given: Antoni
+    surname: Prusimski
+    sex: M
+    rule: holder
+    events:
+      - {type: RESI, place: venice, date: "1796", cite: [{source: konin145}]}
+  T006: {given: Helena, surname: Prusimska, sex: F, rule: child}
+  T007: {given: Stefan, surname: Wielopolski, sex: M, rule: connector}
+  T008: {given: Zofia, surname: Wielopolska, sex: F, rule: party}
+  T009: {given: Tomasz, surname: Prusimski, sex: U, rule: child}
+families:
+  F001:
+    husb: T001
+    wife: T002
+    children: [T003]
+    cite: [{source: minakowska, page: "p. 3"}]
+    marr: {date: "1640", place: lukomia, cite: [{source: tekidworzaczka, exact: true}]}
+  F002: {husb: T003, wife: T004, children: [T005, T006], cite: [{source: konin145}]}
+  F003:
+    husb: T007
+    wife: T006
+    children: [T008, T009]
+    cite: [{source: konin145}]
+    marr: {cite: [{source: konin145}]}

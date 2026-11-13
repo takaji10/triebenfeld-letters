@@ -1,10 +1,11 @@
 <script>
-  import { db, personName, goto } from '../lib/db.svelte.js'
+  import { db, personName, goto, resolveUrl, isExternal, hasMedia } from '../lib/db.svelte.js'
   import { i18n, EVENT_LABELS } from '../lib/i18n.js'
   import { fmtDate } from '../lib/dates.js'
   import { person, mediaURL } from '../lib/data.js'
   import MediaViewer from '../lib/MediaViewer.svelte'
   import Tree from '../lib/Tree.svelte'
+  import HolderMark from '../lib/HolderMark.svelte'
 
   let { id } = $props()
 
@@ -109,8 +110,17 @@
     }
   }
 
+  // an EVEN (or FACT) with a TYPE shows that label ("Held Trąbczyn"),
+  // not the bare "event"
   function label(ev) {
+    if ((ev.tag === 'EVEN' || ev.tag === 'FACT') && ev.type) return ev.type
     return i18n.t(EVENT_LABELS[ev.tag] || 'in_tree')
+  }
+
+  // a source's own url (site-relative against the site root, or absolute)
+  // before any URL found in its publication text
+  function sourceHref(s) {
+    return s?.url ? resolveUrl(s.url) : sourceLink(s)
   }
 
   // a citation's source may carry a URL in its publication text - the
@@ -155,8 +165,12 @@
           <div class="pills">
             <span class="sxline">{shard.sex === 'F' ? '♀' : shard.sex === 'M' ? '♂' : ''}</span>
             {#if db.index?.[id]}<span class="headlife">{life(db.index[id])}</span>{/if}
+            {#if db.index?.[id]?.h}<HolderMark label />{/if}
             {#if shard.living}<span class="pill warn">{i18n.t('privacy_note')}</span>{/if}
           </div>
+          {#if shard.page}
+            <div class="editionpage"><a href={resolveUrl(shard.page)}>{i18n.t('edition_page')} →</a></div>
+          {/if}
           {#each shard.names as alt}
             {#if alt.type}
               <div class="altname">{alt.type}: {alt.given} {alt.surname}</div>
@@ -325,7 +339,9 @@
                     <div class="cit">
                       {#if s}
                         <span class="src">
-                          {#if sourceLink(s)}<a href={sourceLink(s)} target="_blank" rel="noopener">{s.title || cit.s}</a>
+                          {#if sourceHref(s)}<a href={sourceHref(s)}
+                              target={s.url ? (isExternal(resolveUrl(s.url)) ? '_blank' : null) : '_blank'}
+                              rel="noopener">{s.title || cit.s}</a>
                           {:else}{s.title || cit.s}{/if}
                         </span>
                         {#if s.author}<span class="dim"> · {s.author}</span>{/if}
@@ -361,7 +377,7 @@
       </section>
     {/if}
 
-    {#if gallery.length}
+    {#if hasMedia() && gallery.length}
       <section>
         <h2>{i18n.t('media')} <span class="pill acc">{gallery.length}</span></h2>
         <div class="gallery">
@@ -378,6 +394,7 @@
 {/if}
 
 <style>
+  .editionpage { margin: .3rem 0; font-size: .86rem; }
   .lead { color: var(--soft); }
   .error { color: var(--warn); }
   .head h1 { font-size: 1.4rem; margin: 0 0 .4rem; font-weight: 400; }

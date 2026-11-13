@@ -111,9 +111,10 @@ OCR.
 
 - The doubtful readings above, the digit of "23" before all — the
   editor's eye (a spot sheet can be made from this list on request).
-- The death date: the press's 18th (and Żychliński's) against the
-  records' 20th of December (NEEDS_CONFIRMATION, "The literature" and
-  "The newspapers").
+- The death date - settled 2026-11-12 at the editor's word: the 18th,
+  as the notice, Żychliński and the parish death act (cited by
+  Minakowska, dw.51602) all give it; the edition's earlier 20th was this
+  issue's date.
 - "Pawłowa" — the nephew's seat: a place of the register or not.
 - Publishing at the editor's word, as always.
 

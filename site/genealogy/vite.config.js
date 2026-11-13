@@ -1,6 +1,12 @@
 import { defineConfig } from 'vite'
 import { svelte } from '@sveltejs/vite-plugin-svelte'
 
+// After vite, scripts/pages.cjs (run by `npm run build`) turns the built
+// index.html into zelmer/index.html and trabczyn/index.html (assets URLs
+// ./assets/ -> ../assets/) and puts the chooser page (chooser.html) at
+// index.html; the tree pages are what is served, so the index.html vite
+// writes here is only an intermediate.
+//
 // Built into this directory and committed: the CI builds Jekyll only, so
 // the compiled app travels with the tree (pipeline/genealogy/README.md).
 // outDir is the project root with emptyOutDir off: vite writes index.html

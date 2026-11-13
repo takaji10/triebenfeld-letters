@@ -24,6 +24,26 @@ What is held, one passage each, in the order of the years:
 | c02 | 10285 (Nr. 1420), 1642 | Grodzkie i ziemskie > Poznań > Rezygnacje > XVII wiek > Część 1 | the editor, in chat |
 | c03 | 415 (Nr. 1425), 1663 | Grodzkie i ziemskie > Poznań > Rezygnacje > XVII wiek > Część 1 | the editor, in chat |
 | c04 | 14143 (Nr. 1123 IV), 1692 | Grodzkie i ziemskie > Poznań > Inskrypcje > XVII/XVIII wiek | the editor, in chat |
+| c05 | 2731 (Nr. 182A), 1658 | Księgi grodzkie poznańskie, Relacje, XVII w. | quoted on Minakowska's page sw.34858 (saved 2026-11-12) |
+| c06 | 4220 (Nr. 15), 1671 | Księgi grodzkie i ziemskie kaliskie, Rezygnacje ("XVI w." so printed) | quoted on sw.31683 |
+| c07 | 3556 (Nr. 68), 1673 | Księgi grodzkie wschowskie, cz. 1 | quoted on sw.36203 |
+| c08 | 8831 (Nr. 309), 1706 | Księgi grodzkie i ziemskie kościańskie, Inskrypcje | quoted on sw.33939 |
+| c09 | 8836 (Nr. 309), 1706 | Księgi grodzkie i ziemskie kościańskie, Inskrypcje | quoted on sw.33957 |
+| c10 | 14988 (Nr. 1176), 1720 | Księgi grodzkie poznańskie, Inskrypcje, XVII-XVIII w. | quoted on sw.250025 |
+
+c05-c10 were added 2026-11-12 for the owners' family tree
+(`reference/estate_tree.yml`), each line as the database's Uwagi quotes it,
+"sw." number and all. What they settle against the documents: Władysław
+Otto-Trąmpczyński was dead by 1671 (c06: his widow's second marriage, to
+Jan Goliński); Jan na Kolno Prusimski was the son of Krzysztof by Teresa
+Grudzińska and was married to Teresa Gajewska by 1673 (c07), the year of
+the Kolno inscription of the Prussian mortgage certificate (Oe 1 Bü 14525,
+doc. 12), which strengthens the identification of "Johann von Prusimski"
+with him; Trąbczyn fell to Sebastian in the brothers' division of 1700 and
+he sold it to Krzysztof in 1720 (c10); Andrzej Otto-Trąmpczyński's wife was
+Róża née Karśnicka (c09). In c05 "małol." (minors) belongs to the
+Lubowiecki children; whether Krzysztof's children were minors in 1658 the
+regest does not say.
 
 ## How the text is kept
 

@@ -5926,7 +5926,7 @@ only, never in the transcription, translation or summaries. Also fixed: the
 Sources page icons were empty SVGs (`include.kind` in `site/_includes/
 sources-icon.html`).
 
-## 2026-11-12 - the Trąmpczyński family's person pages and the Teki Dworzaczka (branch `trampczynski-family`, not published)
+## 2026-11-12 - the Trąmpczyński family's person pages and the Teki Dworzaczka (branch `trampczynski-family`, published 2026-11-13 at the editor's word)
 
 - **The editor's family line checked against the documents** (the
   boundary decree of 1775 recites the title deeds 1522-1698): Jan the
@@ -5966,3 +5966,65 @@ sources-icon.html`).
   Checked on desktop and phone width.
 - **Plan for a second family tree**, the owners of Trąbczyn, in the Zelmer
   explorer's format: `docs/ESTATE_TREE_PLAN.md` (nothing built).
+
+## 2026-11-12 (afternoon) - the owners' family tree, two trees in the explorer (branch `trampczynski-family`, published 2026-11-13 at the editor's word)
+
+- **/genealogy/ split**: the Zelmer tree moved to /genealogy/zelmer/ (its
+  data to `site/genealogy/zelmer/data/`, the pipeline's output path with
+  it); the new tree "Owners of Trąbczyn" at /genealogy/trabczyn/; one app
+  build, two pages (`scripts/pages.cjs`); /genealogy/ a chooser that
+  forwards old hash links to the Zelmer tree. The header's Genealogy is a
+  dropdown of the two trees.
+- **The tree** (`reference/estate_tree.yml`, schema
+  `reference/estate_tree.SCHEMA.md`; built by
+  `pipeline/genealogy/build_estate.py` to GEDCOM `site/genealogy/trabczyn/estate.ged`
+  and the explorer's JSON): 68 people, 22 families, from the 16th-century
+  Otto-Trąmpczyńskis through the Prusimskis to the Miączyński heir who sold
+  in 1892; every fact cited (documents first; database dates only when
+  exact); places with coordinates from the edition's own files.
+- **Teki Dworzaczka c05-c10**: six regests quoted on Minakowska's pages
+  (1658, 1671, 1673, 1706 twice, 1720). Settled by them: Władysław
+  Otto-Trąmpczyński dead by 1671 (his widow's second marriage to Jan
+  Goliński); Jan na Kolno's parents Krzysztof and Teresa Grudzińska;
+  Trąbczyn held by Sebastian Prusimski 1700-1720, sold to Krzysztof.
+- **Włodzimierz Miączyński died 18 December 1879** (the editor's word):
+  changed throughout; the 20th was the death notice's issue date.
+- **Maria Wielopolska**, the buyer of 1892, is Maria hr. Plater-Zyberk
+  (1857-1909), wife of Władysław hr. Wielopolski (the editor's word); no
+  kinship with the families found.
+- **The explorer draws remarriages** by the charting standard: the person
+  once, spouses in marriage order (two: first left, second right; three or
+  more to the right, the marriage lines numbered), each marriage's children
+  from its own line. Fixes the Zelmer tree's 43 people with children by two
+  or more marriages. **The owner mark**: holders of Trąbczyn (rule `holder`)
+  outlined with a key glyph and a legend, in the tree, search, surnames and
+  the person page.
+- The editor's two charts checked (docs/ESTATE_TREE_PLAN.md, section 8).
+
+## 2026-11-13 - Trąbczyn bought back in 1896 (branch `trampczynski-family`, published 2026-11-13 at the editor's word)
+
+- **Tadeusz Miączyński's repurchase of 1896** (the editor's report of the
+  town history sign at Trąbczyn; its primary source not found): recorded
+  in `reference/sources/trabczyn_history_sign_1896.md`, entered in the
+  owners' tree (Tadeusz a holder, with his parents Witold and Klementyna
+  Glińska and his son Władysław Józef) and in the wlodzimierz era's
+  ownership line; supported by Breyer's notebook of 1936 ("Graf
+  Miączyński" owner about 1911). The act is on MISSING_SOURCES.
+- `build_estate.py`: a source kind `report`, for what the editor reports
+  and the edition does not hold.
+
+## 2026-11-13 (later) - the marriage of 1810, the year-only dates, Jan Łoś Goliński (branch `trampczynski-family`, published 2026-11-13 at the editor's word)
+
+- **Michalina and Stanisław Adam married in August 1810**: the Geneteka
+  index of the Warsaw registers has the civil act (ASC Cyrkuł IV 1810 no.
+  67, 17 August) and the church record (St Andrew's 1810 no. 849, 21
+  August); Aleksander born 9 January 1810 (ASC Cyrkuł IV births no. 245).
+  Żychliński's and the PSB's 1809 are a year early. The bios, the identity
+  and the genealogy blocks changed from "about 1814" (documents first).
+- **Year-only database dates** stated without a mark of estimate now stand
+  in the tree (the editor: "why not?"): Michalina b. 1778, Wiktoria
+  Malczewska 1722-1780, Marianna Dąmbska baptised 1763, the marriages of
+  1660, 1671 and 1847. Wieniec added with coordinates.
+- **Jan Goliński = Jan Łoś Goliński** (the editor): Anna Bojanowska's
+  second husband was Teresa Golińska's father; Konstancja Krusińska added
+  as Teresa's mother; the person pages say so.

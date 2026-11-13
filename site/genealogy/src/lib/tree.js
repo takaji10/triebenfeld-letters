@@ -62,7 +62,24 @@ function unionsOf(db, pid) {
   if (!p) return []
   return (p.fs || []).map(f => fam(db, f)).filter(Boolean)
     .map(f => ({ spouse: f.husb === pid ? f.wife : f.husb,
-                 children: f.chil || [] }))
+                 children: f.chil || [],
+                 date: f.marr && f.marr.date && f.marr.date.y
+                   ? [f.marr.date.y, f.marr.date.m || 0, f.marr.date.d || 0]
+                   : null }))
+}
+
+// The person's marriages in marriage order: by the marriage date where
+// the family carries one, otherwise the data's order. A family without
+// a date keeps its place; the dated ones take the dated slots in date
+// order (a total order even when only some marriages are dated).
+export function orderedUnions(db, pid) {
+  const us = unionsOf(db, pid)
+  const slots = []
+  us.forEach((u, i) => { if (u.date) slots.push(i) })
+  const dated = slots.map(i => us[i]).sort((a, b) =>
+    a.date[0] - b.date[0] || a.date[1] - b.date[1] || a.date[2] - b.date[2])
+  slots.forEach((i, k) => { us[i] = dated[k] })
+  return us
 }
 
 // The ancestor half: children edges point at the parents. Every parent
@@ -98,27 +115,36 @@ function upTree(db, pid, depth, seen, maxUp = WINDOW_UP) {
 function downTree(db, pid, depth, seen, openSet) {
   seen.add(pid)
   const showKids = depth === 0 || openSet.has(pid)
-  const spouses = []
-  const children = []
+  const spouses = []   // the marriages drawn, in marriage order
+  const children = []  // child subtrees, grouped by marriage in the same order
   let kc = 0   // children in the published data, whatever the chart shows
-  for (const u of unionsOf(db, pid)) {
+  // The person once, each spouse beside them in marriage order; each
+  // marriage's children hang from that couple's own marriage line, the
+  // groups laid out left to right in marriage order (2026-11-12: the
+  // children of a second marriage stood under the first spouse). A
+  // child of a family with no spouse hangs from the person's card.
+  for (const u of orderedUnions(db, pid)) {
     const kids = u.children.filter(c => db.index[c])
     kc += kids.length
-    if (showKids) {
-      if (u.spouse && u.spouse !== pid && db.index[u.spouse] &&
-          !spouses.includes(u.spouse) &&
-          (kids.length || depth === 0)) {
-        spouses.push(u.spouse)
-      }
-      for (const c of kids) {
-        if (seen.has(c)) continue
-        const t = downTree(db, c, depth + 1, seen, openSet)
-        if (t) children.push(t)
-      }
+    if (!showKids) continue
+    let via = null
+    if (u.spouse && u.spouse !== pid && db.index[u.spouse] &&
+        (kids.length || depth === 0 || spouses.includes(u.spouse))) {
+      via = u.spouse
+      if (!spouses.includes(via)) spouses.push(via)
+    }
+    for (const c of kids) {
+      if (seen.has(c)) continue
+      const t = downTree(db, c, depth + 1, seen, openSet)
+      if (t) { t.via = via; children.push(t) }
     }
   }
-  return { id: pid, spouses, w: spouses.length ? 2 : 1,
-           root: depth === 0, children,
+  // two spouses: the first on the left, the person in the middle, the
+  // second on the right; otherwise the person first, spouses to the right
+  const cards = spouses.length === 2
+    ? [spouses[0], pid, spouses[1]] : [pid, ...spouses]
+  return { id: pid, spouses, cards, pi: cards.indexOf(pid),
+           w: cards.length, root: depth === 0, children,
            kc, nk: showKids ? 0 : kc, on: showKids && depth > 0 }
 }
 
@@ -182,10 +208,14 @@ export function hasMoreDown(db, pid, gens = WINDOW_DOWN) {
   return false
 }
 
-function elbow(x1, y1, x2, y2) {
-  const my = (y1 + y2) / 2
+function elbow(x1, y1, x2, y2, my = (y1 + y2) / 2) {
   return `M ${x1} ${y1} L ${x1} ${my} L ${x2} ${my} L ${x2} ${y2}`
 }
+
+// the bracket of a marriage whose spouse is not the next card over (the
+// third and later spouses): it runs under the cards, level by level
+export const BRACKET_Y = 12
+export const BRACKET_STEP = 8
 
 export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
   if (!id || !db.index || !db.index[id]) return null
@@ -196,10 +226,20 @@ export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
   const down = (mode !== 'pedigree')
     ? runTree(downTree(db, id, 0, new Set(), openSet)) : null
 
-  // both roots are the focus: align their centres on x=0, and let the
-  // ancestor rows run upward (negative y), the descendant rows downward
-  if (up) up.each(n => { n.px = (n.x - up.x) * CELL })
+  // the person's own card centre in a block centred at px
+  const personCX = (px, data) =>
+    px - data.w * CELL / 2 + (data.pi || 0) * CELL + CARD_W / 2
+
+  // both roots are the focus: align the centres of the focus person's
+  // card on x=0 in both halves, and let the ancestor rows run upward
+  // (negative y), the descendant rows downward
   if (down) down.each(n => { n.px = (n.x - down.x) * CELL })
+  if (up) {
+    // an ancestor block is one card (w=1), centred at px: its card
+    // centre is px - CELL/2 + CARD_W/2
+    const shift = down ? personCX(0, down.data) - (CARD_W - CELL) / 2 : 0
+    up.each(n => { n.px = (n.x - up.x) * CELL + shift })
+  }
 
   const nodes = []
   const links = []
@@ -213,25 +253,53 @@ export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
     if (max > maxX) maxX = max
   }
 
-  // one card block: the person, plus the spouse card beside them when
-  // the data has one. x/y is the block's top-left.
-  function card(px, py, data, isFocus) {
+  // one block: the person with each marriage's spouse beside them
+  // (data.cards, left to right). x/y is the block's top-left. The
+  // marriage geometry is kept per spouse, so a child's link can start at
+  // its own couple's line.
+  const marriages = new Map()   // 'blockId>spouseId' -> {mx, my, k}
+  function card(px, py, data, isFocus, row) {
     const w = data.w
     const blockLeft = px - w * CELL / 2
+    const pi = data.pi || 0
     nodes.push({ id: data.id, x: blockLeft, y: py, w,
+                 cards: data.cards || [data.id], pi,
                  spouse: data.spouses?.[0] || null, focus: isFocus,
                  nk: data.nk || 0, kc: data.kc || 0, on: !!data.on })
     if (isFocus) {
-      focusCX = blockLeft + w * CELL / 2
+      focusCX = blockLeft + pi * CELL + CARD_W / 2
       focusCY = py + CARD_H / 2
     }
-    if (data.spouses?.length) {
-      // the marriage line: origin-anchored (its left end) so the
-      // component can animate it with the cards - it is always
-      // GAP_X long, drawn at translate(x, y)
-      splices.push({ x: blockLeft + CARD_W, y: py + CARD_H / 2,
-                     id: data.id })
-    }
+    const multi = (data.spouses?.length || 0) > 1
+    ;(data.spouses || []).forEach((sp, k) => {
+      const si = data.cards.indexOf(sp)
+      const near = Math.abs(si - pi) === 1
+      let sx, sy, d, mx, my, lx, ly
+      if (near) {
+        // the marriage line joins the two neighbouring cards at mid
+        // height; origin-anchored (its left end) so the component can
+        // animate it with the cards - always GAP_X long
+        sx = blockLeft + Math.min(si, pi) * CELL + CARD_W
+        sy = py + CARD_H / 2
+        d = `M 0 0 L ${GAP_X} 0`
+        mx = sx + GAP_X / 2; my = sy
+        lx = GAP_X / 2; ly = -4
+      } else {
+        // a spouse further along: a bracket under the cards from the
+        // person's card to the spouse's (nested by distance)
+        const wd = (si - pi) * CELL
+        const dd = BRACKET_Y + BRACKET_STEP * (si - pi - 2)
+        sx = blockLeft + pi * CELL + CARD_W / 2
+        sy = py + CARD_H
+        d = `M 0 0 L 0 ${dd} L ${wd} ${dd} L ${wd} 0`
+        mx = sx + wd / 2; my = sy + dd
+        lx = wd / 2 + 8; ly = dd - 2
+      }
+      marriages.set(data.id + '>' + sp + '@' + row,
+                    { mx, my, k, py })
+      splices.push({ x: sx, y: sy, id: data.id + '>' + sp, d, lx, ly,
+                     ord: multi ? k + 1 : 0 })
+    })
     grow(blockLeft, blockLeft + w * CELL)
     if (py < minY) minY = py
     if (py + CARD_H > maxY) maxY = py + CARD_H
@@ -240,42 +308,43 @@ export function layout(db, id, mode = 'hourglass', openSet = new Set()) {
   if (up) {
     up.each(n => {
       if (n.data.root && down) return   // the focus card comes from `down`
-      card(n.px, -n.y * ROW_H, n.data, !down && n.data.root)
+      card(n.px, -n.y * ROW_H, n.data, !down && n.data.root, 'u')
     })
-    // the shift from a block's centre to the blood person's card centre:
-    // the person card sits at the block's left, the spouse beside them
-    const blockShift = w => w > 1 ? (w * CELL - CARD_W) / 2 : 0
-    // the focus row renders the spouse from the down data, which the up
-    // tree's own root node does not know about
-    const focusShift = down && down.data.spouses?.length
-      ? blockShift(down.data.w) : 0
     for (const l of up.links()) {
       // source = the person nearer the focus (lower on screen),
       // target = their ancestor (higher on screen)
       const s = l.source, t = l.target
-      const sx = s.data.root ? s.px - focusShift : s.px
+      const sx = s.data.root && down ? personCX(down.px, down.data)
+        : personCX(s.px, s.data)
       // the key rides with the path: the component keys the drawn
       // elements on it, so a link persists across re-layouts and can
       // morph (or fade in when it is new) instead of teleporting
       links.push({ id: 'u' + s.data.id + '>' + t.data.id,
                    d: elbow(sx, -s.y * ROW_H,
-                            t.px, -t.y * ROW_H + CARD_H) })
+                            personCX(t.px, t.data), -t.y * ROW_H + CARD_H) })
     }
   }
   if (down) {
-    down.each(n => { card(n.px, n.y * ROW_H, n.data, n.data.root) })
-    const blockShift = w => w > 1 ? (w * CELL - CARD_W) / 2 : 0
+    down.each(n => { card(n.px, n.y * ROW_H, n.data, n.data.root, 'd') })
     for (const l of down.links()) {
       const s = l.source, t = l.target
-      // land on the blood person's own card, not the couple block's
-      // middle - otherwise the line lands ambiguously between the
-      // spouses and nobody can tell who married in (the editor's
-      // screenshot: Krystyna Celmer and Bogusław Stark)
-      const sx = s.px - blockShift(s.data.w)
-      const tx2 = t.px - blockShift(t.data.w)
-      links.push({ id: 'd' + s.data.id + '>' + t.data.id,
-                   d: elbow(sx, s.y * ROW_H + CARD_H,
-                            tx2, t.y * ROW_H) })
+      const tx2 = personCX(t.px, t.data)
+      const m = t.data.via ? marriages.get(s.data.id + '>' + t.data.via + '@d')
+        : null
+      if (m) {
+        // from the middle of its own couple's marriage line; the
+        // horizontal run is staggered per marriage so two groups'
+        // runs do not merge
+        const my = Math.max(s.y * ROW_H + CARD_H + (ROW_H - CARD_H) / 2 + 3 * m.k,
+                            m.my + 8)
+        links.push({ id: 'd' + s.data.id + '>' + t.data.id,
+                     d: elbow(m.mx, m.my, tx2, t.y * ROW_H, my) })
+      } else {
+        // a child of no recorded spouse hangs from the person's card
+        links.push({ id: 'd' + s.data.id + '>' + t.data.id,
+                     d: elbow(personCX(s.px, s.data), s.y * ROW_H + CARD_H,
+                              tx2, t.y * ROW_H) })
+      }
     }
   }
 

@@ -223,7 +223,7 @@ def family_json(model, fam, withheld=None) -> dict:
 def build_all(model, out_dir: str, regions=None, withheld=None,
               excluded_media=None, excluded_people=None, excluded_families=None,
               media_version="", media_base="", available=None,
-              media_manifest=None, avatars=None) -> dict:
+              media_manifest=None, avatars=None, meta_extra=None) -> dict:
     out = Path(out_dir)
     (out / "people").mkdir(parents=True, exist_ok=True)
     withheld = withheld or set()
@@ -435,6 +435,7 @@ def build_all(model, out_dir: str, regions=None, withheld=None,
         n_shards += 1
 
     meta = {
+        **(meta_extra or {}),
         "built": model.header.get("DATE", ""),
         "source": model.header.get("SOUR", ""),
         "media_version": media_version,

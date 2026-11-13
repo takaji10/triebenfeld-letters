@@ -119,6 +119,9 @@ people:
     # Teki Dworzaczka c03 (1663): "ż. Władysława Trąmpczyńskiego", Anna
     # Bojanowska's husband, the family's Władysław who held Trąbczyn.
     Trąmpczyńskiego: yes
+    # Teki Dworzaczka c09 (1706): "Róży Trąmpczyńskiej, żony Andrzeja Otto
+    # Tr." - Róża née Karśnicka, the family's by marriage.
+    Trąmpczyńskiej: yes
   amelang: {Amelang: yes}
   beguelin: {Beguelin: yes}
   bernhard:
@@ -765,6 +768,15 @@ people:
     Wichrowski: yes
 
 places:
+  popowo:
+    # Teki Dworzaczka c10 (1720): "Popowo i Debrzno z 2-gich [działów] po ... Ludwika", in the district of Poznań: from the same second division as Kamionna and Kolno, so taken for the Popowo bordering Kolno (Claude's identification).
+    Popowo: yes
+  wierzbno:
+    # Teki Dworzaczka c10 (1720): "Wierzbno i Brzezno w p. pozn." - the Prusimski estates of the decree of 1784; the regest puts them in the district of Poznań, which bears on the open question of which Wierzbno (reference/places.yml).
+    Wierzbno: yes
+  jaryszki:
+    # Teki Dworzaczka c10 (1720): "Żerniki, Kunino, Świątniki i Jaryszki w p. pozn." - the same list as the Poznań decree of 1784 (Jaryszki gmina Kórnik).
+    Jaryszki: yes
   # The estates of the edition (shown on the Places page).
   # Kraus (2001) p. 42: "die Herrschaften Betsche, Zogorowo, Trobczyn, Botkowo
   # und Winiec weit unter Wert wieder verkauft" — the lordships the prince
@@ -1000,6 +1012,9 @@ places:
     # p. kon.") and c03 (1663: "na 1/2 d. Trąmpczyn, Łazy, Osiny"): the
     # estate, named with its villages.
     Trąmpczyn: yes
+    # Teki Dworzaczka c10 (1720): "d. Trąpczyn, Nowąwieś, Łazy i Osiny w
+    # p. koniń.", the estate Sebastian Prusimski sold to his brother Krzysztof.
+    Trąpczyn: yes
   nowawies-trabczyn:
     # Teki Dworzaczka c02 (1642): "wsie: Trąmpczyn, Nowawieś, Łazy, Ossiny
     # p. kon." - the Trąbczyn estate's Nowa Wieś, named among its villages

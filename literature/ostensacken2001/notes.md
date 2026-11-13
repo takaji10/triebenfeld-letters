@@ -206,9 +206,10 @@ story: the "Generalinspektion der schlesischen Füsilierbataillone" and the
 governorship of Breslau (pp. 34), and above all p. 42 - the sale of
 "die Herrschaften Betsche, Zogorowo, Trobczyn, Botkowo und Winiec weit unter
 Wert" to come by "baare Mittel". Zogorowo is the edition's Zagórów and
-Trobczyn its Trąbczyn; the sale of both by the prince to Countess Wielopolska
-is witnessed by the edition's documents (Słowo of 4 January 1892 records
-Trąbczyn's sale for 225,000 rubles; the wlodzimierz-era ownership line).
+Trobczyn its Trąbczyn; the book names no buyer. (Corrected 2026-11-12:
+this note had "the sale of both by the prince to Countess Wielopolska",
+mixing the prince's sale of c. 1805-1806 with the sale of Trąbczyn by Count
+Miączyński to Countess Wielopolska in 1892, Słowo of 4 January 1892.)
 This passage answers, from a printed witness, the question the literature
 section exists for: how such estates were valued and sold. The excerpt's
 person story (Marianne, the divorce, the marriage contracts) is the

@@ -2,6 +2,7 @@
   import MiniSearch from 'minisearch'
   import { db, personName } from '../lib/db.svelte.js'
   import { i18n } from '../lib/i18n.js'
+  import HolderMark from '../lib/HolderMark.svelte'
 
   let { q = '' } = $props()
   let input = $state(q)
@@ -47,6 +48,7 @@
           <tr>
             <td>
               <a href={'#/person/' + r.id}>{db.index[r.id]?.n || r.id}</a>
+              {#if db.index[r.id]?.h}<HolderMark />{/if}
               <span class="pid">{r.id}</span>
               {#if db.index[r.id]?.L}<span class="pill dim">{i18n.t('living')}</span>{/if}
             </td>

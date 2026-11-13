@@ -308,6 +308,7 @@ layout: default
       "nav_sources": {{ d.nav.sources | jsonify }},
       "nav_literature": {{ d.nav.literature | jsonify }},
       "f_unit": {{ d.f_unit | jsonify }},
+      "nav_genealogy": {{ d.nav.genealogy | jsonify }},
       "nav_about": {{ d.nav.about | jsonify }}
     }{%- unless forloop.last -%},{%- endunless -%}
   {%- endfor -%}

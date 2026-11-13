@@ -1,0 +1,1934 @@
+# reference/estate_tree.yml - the owners of Trąbczyn (plan: docs/ESTATE_TREE_PLAN.md; schema: reference/estate_tree.SCHEMA.md)
+# Draft of 2026-11-12; review/estate_tree/reconcile_notes.md records every choice made between sources.
+tree:
+  start: T049
+sources:
+  kalisz414:
+    title: 'APP 53/15/0/-/Kalisz Gr.414, doc. 1 (1771), quoting a decree of 1766'
+    url: /documents/app53150kaliszgr414/1/
+    kind: document
+  sign1896:
+    title: 'Town history sign at Trąbczyn, as reported by the editor (2026-11-13); its primary source not yet found'
+    kind: report
+  breyer1936:
+    title: 'APP 53/968/0/-/669, doc. 2: Albert Breyer''s notebook "V. Grodziec", July 1936'
+    url: /documents/app539680669/2/
+    kind: document
+  asc1810m:
+    title: 'Warsaw civil registry (ASC), Cyrkuł IV, marriages 1810, act 67 (Archiwum Państwowe w Warszawie; index: Geneteka)'
+    url: https://szukajwarchiwach.gov.pl/jednostka/-/jednostka/12481353
+    kind: web
+  asc1810b:
+    title: 'Warsaw civil registry (ASC), Cyrkuł IV, births 1810, act 245 (Archiwum Państwowe w Warszawie; index: Geneteka)'
+    url: https://szukajwarchiwach.gov.pl/jednostka/-/jednostka/12481320
+    kind: web
+  standrew1810:
+    title: 'Warsaw, St Andrew''s parish, marriages 1810, no. 849 (Archiwum Archidiecezjalne Warszawskie; index: Geneteka)'
+    kind: web
+  konin145:
+    title: 'APP 53/17/0/-/Konin Gr.145: decree of the boundary of Trąbczyn and Łukomia, 1775 (copy of 1776)'
+    kind: document
+    url: /documents/app53170koningr145/1/
+  pozgr1181:
+    title: 'APP 53/20/0/-/Poznań Gr.1181: decree of 29 March 1784 on the Prusimski succession'
+    kind: document
+    url: /documents/app5320pozgr1181/1/
+  konin118_23:
+    title: 'APP 53/17/0/-/Konin Gr.118, doc. 23: citation of 1782 in the Prusimski succession'
+    kind: document
+    url: /documents/app53170koningr118/23/
+  konin136:
+    title: 'APP 53/17/0/-/Konin Gr.136: inspection of Trąbczyn, 12 July 1754'
+    kind: document
+    url: /documents/app53170koningr136/1/
+  konin115:
+    title: APP 53/17/0/-/Konin Gr.115, doc. 1 (1768)
+    kind: document
+    url: /documents/app53170koningr115/1/
+  dec1644:
+    title: 'APP 53/6/0/-/36, doc. 1: default judgment of the Konin land court, 1644'
+    kind: document
+    url: /documents/app536036/1/
+  suit1763:
+    title: 'APP 53/6/0/-/45, doc. 1: suit of 1763'
+    kind: document
+    url: /documents/app536045/1/
+  suit1728:
+    title: 'APP 53/6/0/-/40, doc. 1: suit of 26 January 1728'
+    kind: document
+    url: /documents/app536040/1/
+  summons1860:
+    title: 'APP 53/968/0/-/783: printed summons of 1860'
+    kind: document
+    url: /documents/app539680783/1/
+  hohenlohe3570:
+    title: 'I. HA GR Rep. 7 C Nr. 3570: the donation of the confiscated estates to Hohenlohe-Ingelfingen, 1796'
+    kind: document
+    url: /documents/ihagrrep7cnr3570/1/
+  venice1414:
+    title: 'I. HA GR Rep. 7 C Nr. 1414, doc. 2: dispatch from Venice, 14 December 1796'
+    kind: document
+    url: /documents/ihagrrep7cnr1414/2/
+  pleading1818:
+    title: 'III. HA MdA III Nr. 12366, doc. 2: memoir of 29 April 1818'
+    kind: document
+    url: /documents/iiihamdaiiinr12366/2/
+  note1819:
+    title: 'III. HA MdA III Nr. 12366, doc. 3: Prussian note of 1819'
+    kind: document
+    url: /documents/iiihamdaiiinr12366/3/
+  judgment1827:
+    title: 'III. HA MdA III Nr. 12366, doc. 6: judgments of 1826-1828'
+    kind: document
+    url: /documents/iiihamdaiiinr12366/6/
+  agad1807:
+    title: 'AGAD 1/174/0/1/6, doc. 2: resolution of the Governing Commission, 21 July 1807'
+    kind: document
+    url: /documents/agad1174016/2/
+  apl6603_4:
+    title: 'APŁ 39/98/0/-/6603, doc. 4: transaction of 14 June 1892'
+    kind: document
+    url: /documents/apl399806603/4/
+  slowo1892:
+    title: 'Słowo, Warsaw, 4 January 1892: sale of Trąbczyn'
+    kind: document
+    url: /newspapers/slowo18920104/
+  death1879:
+    title: 'Dziennik Poznański, 20 December 1879: death notice of Włodzimierz Miączyński'
+    kind: document
+    url: /newspapers/dziennikpoznanski18791220/
+  kuryer1754:
+    title: 'Kuryer Polski 1754, nr 75: funeral of Paweł Prusimski'
+    kind: document
+    url: /newspapers/kuryerpolski1754075/
+  tek_c01:
+    title: 'Teki Dworzaczka, regest of 1614 (Nr 137): Stanisław Trąmpczyński and Anna Słonecka'
+    kind: literature
+    url: /literature/tekidworzaczka/#p-c01
+  tek_c02:
+    title: 'Teki Dworzaczka, regest of 1642 (Nr 1420): Trąbczyn made over to Maciej Debrzyński'
+    kind: literature
+    url: /literature/tekidworzaczka/#p-c02
+  tek_c03:
+    title: 'Teki Dworzaczka, regest of 1663 (Nr 1425): Anna Bojanowska'
+    kind: literature
+    url: /literature/tekidworzaczka/#p-c03
+  tek_c04:
+    title: 'Teki Dworzaczka, regest of 1692 (Nr 1123 IV): Teresa Prusimska'
+    kind: literature
+    url: /literature/tekidworzaczka/#p-c04
+  teki1658:
+    title: 'Teki Dworzaczka, Nr. 182A (1658): the children of the late Krzysztof of Kolno Prusimski'
+    url: /literature/tekidworzaczka/#p-c05
+    kind: literature
+  teki1671:
+    title: 'Teki Dworzaczka, Nr. 15 (1671): Jan Goliński and Anna Bojanowska, widow of Władysław Otto Trąmpczyński'
+    url: /literature/tekidworzaczka/#p-c06
+    kind: literature
+  teki1673:
+    title: 'Teki Dworzaczka, Nr. 68 (1673): Jan of Kolno Prusimski, son of Krzysztof, and his wife Teresa Gajewska''s dowry'
+    url: /literature/tekidworzaczka/#p-c07
+    kind: literature
+  teki1706:
+    title: 'Teki Dworzaczka, Nr. 309 (1706, 8831): Sebastian Prusimski and his wife Zofia Gurowska'
+    url: /literature/tekidworzaczka/#p-c08
+    kind: literature
+  teki1706k:
+    title: 'Teki Dworzaczka, Nr. 309 (1706, 8836): Róża née Karśnicka, wife of Andrzej Otto Trąmpczyński'
+    url: /literature/tekidworzaczka/#p-c09
+    kind: literature
+  teki1720:
+    title: 'Teki Dworzaczka, Nr. 1176 (1720): the Prusimski brothers'' divisions of 1700 and 1708, and Trąbczyn sold by Sebastian to Krzysztof'
+    url: /literature/tekidworzaczka/#p-c10
+    kind: literature
+  zych1885_187:
+    title: Żychliński, Złota księga R. 7 (1885), p. 187 (Prusimski)
+    kind: literature
+    url: /literature/zychlinski1885/#p-187
+  zych1885_188:
+    title: Żychliński, Złota księga R. 7 (1885), p. 188 (Prusimski)
+    kind: literature
+    url: /literature/zychlinski1885/#p-188
+  zych1891_219:
+    title: Żychliński, Złota księga R. 13 (1891), p. 219 (Miączyński)
+    kind: literature
+    url: /literature/zychlinski1891/#p-219
+  zych1891_220:
+    title: Żychliński, Złota księga R. 13 (1891), p. 220 (Miączyński)
+    kind: literature
+    url: /literature/zychlinski1891/#p-220
+  zych1891_221:
+    title: Żychliński, Złota księga R. 13 (1891), p. 221 (Miączyński)
+    kind: literature
+    url: /literature/zychlinski1891/#p-221
+  zych1891_222:
+    title: Żychliński, Złota księga R. 13 (1891), p. 222 (Miączyński)
+    kind: literature
+    url: /literature/zychlinski1891/#p-222
+  psb582:
+    title: Pachoński, Polski Słownik Biograficzny, Prusimski (1982), p. 582
+    kind: literature
+    url: /literature/pachonski1982/#p-582
+  psb583:
+    title: Pachoński, Polski Słownik Biograficzny, Prusimski (1982), p. 583
+    kind: literature
+    url: /literature/pachonski1982/#p-583
+  kneifel251:
+    title: 'Kneifel (1937), p. 251: Michalina Miączyńska, owner of Trąbczyn, 1846'
+    kind: literature
+    url: /literature/kneifel1937/#p-251
+  min_ott:
+    title: Minakowska database, Wojciech Otto-Trąmpczyński and his family (the work in the edition)
+    kind: literature
+    url: /literature/minakowska2026ottotrampczynski/#p-c01
+  min_prus:
+    title: Minakowska database, Antoni Prusimski and his family (the work in the edition)
+    kind: literature
+    url: /literature/minakowska2026prusimski/#p-c02
+  min_miacz:
+    title: Minakowska database, Stanisław Adam Miączyński and his family (the work in the edition)
+    kind: literature
+    url: /literature/minakowska2026miaczynski/#p-c01
+  mdb:
+    title: Minakowska, Wielka genealogia Minakowskiej (sejm-wielki.pl); the person page is named in each citation
+    kind: database
+    author: Maria Jadwiga Minakowska
+    url: https://www.sejm-wielki.pl/
+places:
+  trabczyn:
+    name: Trąbczyn, gmina Zagórów, Greater Poland
+    lat: 52.14318
+    lon: 17.95845
+    coord_source: reference/gazetteer/trabczyn.yml
+  kolno:
+    name: Kolno (Kulm), gmina Międzychód, Greater Poland
+    lat: 52.59492
+    lon: 15.95688
+    coord_source: reference/places_osm.yml
+  kamionna:
+    name: Kamionna (Kaemen), gmina Międzychód, Greater Poland
+    lat: 52.56486
+    lon: 15.95857
+    coord_source: reference/places_osm.yml
+  warsaw:
+    name: Warsaw
+    lat: 52.23337
+    lon: 21.07115
+    coord_source: reference/places_osm.yml
+  berlin:
+    name: Berlin, Germany
+    lat: 52.51739
+    lon: 13.39513
+    coord_source: reference/places_osm.yml (outside Poland)
+  dresden:
+    name: Dresden, Saxony, Germany
+    lat: 51.04933
+    lon: 13.73814
+    coord_source: reference/places_osm.yml (outside Poland)
+  venice:
+    name: Venice, Italy
+    lat: 45.43719
+    lon: 12.33459
+    coord_source: reference/places_osm.yml (outside Poland)
+  wloclawek:
+    name: Włocławek, Kuyavia
+    lat: 52.6483
+    lon: 18.8032
+    coord_source: reference/place_coords.yml
+  pawlowo:
+    name: Pawłowo near Kiszkowo, Grand Duchy of Poznań
+  bedlewo:
+    name: Będlewo, Greater Poland
+  debno:
+    name: Dębno nad Wartą
+  wieniec:
+    name: Wieniec, gmina Brześć Kujawski, Kuyavia
+    lat: 52.64936
+    lon: 18.92966
+    coord_source: reference/places_osm.yml
+people:
+  T001:
+    given: Jan
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    page: /people/jan-otto-trampczynski-elder/
+    events:
+    - type: DEAT
+      date: BEF OCT 1584
+      note: Dead by October 1584, when his brother Wojciech held his sons in guardianship.
+      cite:
+      - source: konin145
+        page: doc 1, pp. 0677_a2-0678_a1
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      note: His share of Trąbczyn passed to his sons.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0677_a2
+    notes:
+    - 'Brother of Wojciech Otto-Trąmpczyński (the tree shows no common parents: the sources name none).'
+  T002:
+    given: Szczęsna
+    surname: z Popowa
+    sex: F
+    rule: spouse
+    events:
+    - type: EVEN
+      label: Settled with her sons the division of their part of Trąbczyn
+      date: '1596'
+      note: Widow of Jan by 1596; the agreement was roborated at Konin on the Monday after the Exaltation of the Cross.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0678_a1
+  T003:
+    given: Wawrzyniec
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: '1591'
+      note: Wojciech's nephew and ward; the division of Trąbczyn with their uncle Wojciech was made on the Monday after Jubilate Sunday 1591.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0677_a2
+    notes:
+    - Named among the four nephews and wards of 1584-1591 but not in his mother's settlement of 1596; his sonship of Jan rests on being one of Wojciech's four nephews.
+  T004:
+    given: Rachwał
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: '1591'
+      note: Wojciech's nephew and ward; the division of Trąbczyn with their uncle Wojciech was made on the Monday after Jubilate Sunday 1591.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0677_a2
+    - type: EVEN
+      label: Party to his mother's settlement of 1596
+      date: '1596'
+      cite:
+      - source: konin145
+        page: doc 1, p. 0678_a1
+  T005:
+    given: Walenty
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: '1591'
+      note: Wojciech's nephew and ward; the division of Trąbczyn with their uncle Wojciech was made on the Monday after Jubilate Sunday 1591.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0677_a2
+    - type: EVEN
+      label: Party to his mother's settlement of 1596
+      date: '1596'
+      cite:
+      - source: konin145
+        page: doc 1, p. 0678_a1
+  T006:
+    given: Stanisław
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: '1591'
+      note: Wojciech's nephew and ward; the division of Trąbczyn with their uncle Wojciech was made on the Monday after Jubilate Sunday 1591.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0677_a2
+    - type: EVEN
+      label: Party to his mother's settlement of 1596
+      date: '1596'
+      cite:
+      - source: konin145
+        page: doc 1, p. 0678_a1
+    - type: EVEN
+      label: Among the heirs of Trąbczyn, as son of Jan
+      date: '1616'
+      cite:
+      - source: konin145
+        page: doc 1
+    notes:
+    - 'Not the Stanisław who was Wojciech''s son: the term of 1616 lists "Stanisław son of Jan" and "Stanisław son of Wojciech" separately.'
+  T007:
+    given: Andrzej
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Among the heirs of Trąbczyn
+      date: '1616'
+      note: Rachwał's son.
+      cite:
+      - source: konin145
+        page: doc 1
+  T008:
+    given: Wojciech (Albertus)
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    page: /people/wojciech-otto-trampczynski/
+    events:
+    - type: EVEN
+      label: Co-heir of a part of Trąbczyn
+      date: '1589'
+      note: Sued the heirs of Łukom over their new pond, on the Monday before Saints Vitus and Modestus 1589; he held only a part of Trąbczyn and was his nephews' guardian.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0669_a2
+    - type: EVEN
+      label: Divided Trąbczyn with his nephews
+      date: '1591'
+      cite:
+      - source: konin145
+        page: doc 1, p. 0677_a2
+    notes:
+    - Brother of Jan the elder; the guardian of Jan's sons.
+  T009:
+    given: Anna
+    surname: Cerekwicka
+    sex: F
+    rule: spouse
+    notes:
+    - Known from the database only (sw.249753).
+  T010:
+    given: Stanisław
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    page: /people/stanislaw-otto-trampczynski/
+    events:
+    - type: EVEN
+      label: Promised Anna Słonecka's dowry on half his estates
+      date: '1614'
+      note: Before the wedding; the regest calls him "son of Wojciech Otha Trąmpczyński".
+      cite:
+      - source: tek_c01
+        page: regest Nr 137 (1614)
+    - type: EVEN
+      label: Among the heirs of Trąbczyn, as son of Wojciech
+      date: '1616'
+      cite:
+      - source: konin145
+        page: doc 1
+    - type: EVEN
+      label: Sold Trąbczyn
+      date: '1642'
+      note: He made Trąbczyn, Nowa Wieś, Łazy and Osiny over to Maciej Debrzyński for 20,000 złp, his wife consenting; most likely a redeemable sale (wyderkaf, the regest's "wyd.").
+      cite:
+      - source: tek_c02
+        page: regest Nr 1420 (1642)
+    - type: DEAT
+      date: BET 1642 AND 21 MAY 1644
+      note: Alive for the conveyance of 1642; dead when his widow and sons went to law in May 1644.
+      cite:
+      - source: tek_c02
+        page: regest Nr 1420 (1642)
+      - source: dec1644
+        page: doc 1
+      - source: konin145
+        page: doc 1
+  T011:
+    given: Anna
+    surname: Słonecka (z Słończyc)
+    sex: F
+    rule: holder
+    events:
+    - type: EVEN
+      label: Held Trąbczyn for life as widow
+      date: 1644
+      note: Stanisław's widow, lady of his estates by dower and life interest ("Dominam Reformatoriam et Advitalem"), holding them with her sons.
+      cite:
+      - source: dec1644
+        page: doc 1
+    - type: EVEN
+      label: Consented to the conveyance of Trąbczyn
+      date: '1642'
+      cite:
+      - source: tek_c02
+        page: regest Nr 1420 (1642)
+    - type: EVEN
+      label: Widow with a life interest in the estates; cited with her sons
+      date: '1644'
+      cite:
+      - source: dec1644
+        page: doc 1
+      - source: konin145
+        page: doc 1
+    notes:
+    - Daughter of Jan Słonecki and Elżbieta Chwalibowska (the regest of 1614).
+  T012:
+    given: Marcin
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: child
+    events:
+    - type: EVEN
+      label: Cited with his mother and brothers by Jerzy Chełmski of Łukom
+      date: '1644'
+      cite:
+      - source: dec1644
+        page: doc 1
+  T013:
+    given: Wojciech
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: child
+    events:
+    - type: EVEN
+      label: Cited with his mother and brothers by Jerzy Chełmski of Łukom
+      date: '1644'
+      cite:
+      - source: dec1644
+        page: doc 1
+    notes:
+    - Not the Wojciech of the elder generation.
+  T014:
+    given: Andrzej
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: child
+    events:
+    - type: EVEN
+      label: Cited with his mother and brothers by Jerzy Chełmski of Łukom
+      date: '1644'
+      cite:
+      - source: dec1644
+        page: doc 1
+  T015:
+    given: Maria
+    surname: Otto-Trąmpczyńska
+    sex: F
+    rule: child
+    notes:
+    - Married Maciej Debrzyński. She is named by the database only; the documents have Debrzyński only as the man to whom Stanisław made over the estate.
+  T016:
+    given: Marianna
+    surname: Zawadzka
+    sex: F
+    rule: spouse
+  T017:
+    given: Maciej
+    surname: Debrzyński
+    sex: M
+    rule: party
+    events:
+    - type: EVEN
+      label: Bought Trąbczyn
+      date: '1642'
+      note: Trąbczyn, Nowa Wieś, Łazy and Osiny for 20,000 złp (most likely a redeemable sale); a "possessor" beside the family in 1644, and in 1663 the estate was held again by Władysław Otto-Trąmpczyński.
+      cite:
+      - source: tek_c02
+        page: regest Nr 1420 (1642)
+      - source: konin145
+        page: doc 1
+    notes:
+    - Son of Wojciech Debrzyński (the regest of 1642).
+  T018:
+    given: Władysław
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    page: /people/wladyslaw-otto-trampczynski/
+    events:
+    - type: EVEN
+      label: Held Trąbczyn
+      date: '1663'
+      place: trabczyn
+      note: Held Trąbczyn, Łazy, Osiny and the mill of Drzazgi; recorded his wife's dowry of 15,000 złp on half of them.
+      cite:
+      - source: tek_c03
+        page: regest Nr 1425 (1663)
+    - type: DEAT
+      date: BET 1663 AND 1671
+      note: Dead by 1671, when his widow Anna Bojanowska is recorded in her second marriage; the decrees speak of him as "the late" Władysław.
+      cite:
+      - source: tek_c03
+        page: regest Nr 1425 (1663)
+      - source: teki1671
+        page: regest Nr 15 (1671)
+      - source: konin145
+        page: doc 1, pp. 0686_a2-0687_a1
+    notes:
+    - Married to Anna Bojanowska by 1663, when the regest already calls her his wife.
+  T019:
+    given: Anna
+    surname: Bojanowska
+    sex: F
+    rule: spouse
+    events:
+    - type: EVEN
+      label: Her dowry of 15,000 złp recorded on half of Trąbczyn
+      date: '1663'
+      note: Daughter of Mikołaj Bojanowski; with her cousins Stefan and Samuel Bojanowski she sold Baworówko that year.
+      cite:
+      - source: tek_c03
+        page: regest Nr 1425 (1663)
+    - type: EVEN
+      label: Sold Trąbczyn
+      date: '1698'
+      note: A widow "of the first marriage Trąmpczyńska, then Golińska"; with her sons Jan and Andrzej, and in the name of her son Władysław, she sold Trąbczyn to Jan na Kolno Prusimski on the Monday after St Margaret 1698, under a penalty of 90,000 złp.
+      cite:
+      - source: konin145
+        page: doc 1, pp. 0686_a2-0687_a1
+    notes:
+    - Second marriage to a Goliński, the database's Jan Goliński.
+  T020:
+    given: Jan (Łoś)
+    surname: Goliński
+    sex: M
+    rule: connector
+    events:
+    - type: EVEN
+      label: Recorded a life estate for Anna Bojanowska, widow of Władysław Otto-Trąmpczyński, in their second marriage
+      date: '1671'
+      cite:
+      - source: teki1671
+        page: regest Nr 15 (1671)
+    - type: OCCU
+      label: Land burgrave (burgrabia ziemski) of Konin
+      cite:
+      - source: mdb
+        page: dw.34113
+    notes:
+    - "Jan Łoś Goliński, son of Stefan, burgrave of Konin; the database's two entries, Jan Goliński (dw.34113) and Jan Łoś-Goliński (sw.33416), are one man (the editor, 2026-11-13). By Anna Bojanowska, widow of Władysław Otto-Trąmpczyński, father of Paweł and Apollonia; by Konstancja Krusińska, father of Teresa, the wife of Krzysztof Prusimski. Which marriage came first is not settled: Anna was his wife by 1671 and is still called Golińska in 1698, and Konstancja, later Kałowska, was alive in 1706."
+  T021:
+    given: Paweł
+    surname: Goliński
+    sex: M
+    rule: party
+    events:
+    - type: EVEN
+      label: Inscribed 7,000 złp to Anna de Bojanowska, his mother
+      note: The decree of 1784 charges the sum, passed by her to Apollonia, on the Golińska inheritance of the Prusimskis. His father is not named there; he is placed under Jan Goliński as Anna's Goliński husband.
+      cite:
+      - source: pozgr1181
+        page: pp. 0166_a-0166_b
+  T022:
+    given: Apollonia
+    surname: Golińska
+    sex: F
+    rule: party
+    events:
+    - type: EVEN
+      label: Received her mother's 7,000 złp
+      note: '"Apolinara de Golinskie", wife of Zygmunt Obiesierski (Objezierski), her mother''s "own daughter".'
+      cite:
+      - source: pozgr1181
+        page: pp. 0166_a-0166_b
+      - source: mdb
+        page: dw.23153
+  T023:
+    given: Andrzej
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: 6 OCT 1693
+      note: Partition of Trąbczyn, Nowa Wieś, Osiny and Łazy among the three brothers, made at Trąbczyn.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0678_a1
+    - type: EVEN
+      label: Sold Trąbczyn
+      date: '1698'
+      cite:
+      - source: konin145
+        page: doc 1, pp. 0686_a2-0687_a1
+  T024:
+    given: Jan
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    page: /people/jan-otto-trampczynski/
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: 6 OCT 1693
+      note: Partition of Trąbczyn, Nowa Wieś, Osiny and Łazy among the three brothers, made at Trąbczyn.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0678_a1
+    - type: EVEN
+      label: Recorded his wife's dowry of 6,000 złp on half his estates
+      date: '1692'
+      cite:
+      - source: tek_c04
+        page: regest Nr 1123 IV (1692)
+    - type: EVEN
+      label: Sold Trąbczyn to his father-in-law
+      date: '1698'
+      note: With his brother Andrzej and their mother; the regest of 1692 calls him son of Władysław.
+      cite:
+      - source: konin145
+        page: doc 1, pp. 0686_a2-0687_a1
+    notes:
+    - The database makes this Jan a son of the younger Władysław; the regest of 1692 and the partition of 1693 make him Władysław's son and the younger Władysław's brother, and the edition keeps to them.
+  T025:
+    given: Władysław
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: 6 OCT 1693
+      note: Partition of Trąbczyn, Nowa Wieś, Osiny and Łazy among the three brothers, made at Trąbczyn.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0678_a1
+    - type: EVEN
+      label: Trąbczyn sold in his name by his brothers
+      date: '1698'
+      cite:
+      - source: konin145
+        page: doc 1, pp. 0686_a2-0687_a1
+    notes:
+    - Called the younger Władysław here to tell him from his father.
+  T026:
+    given: Anna
+    surname: Otto-Trąmpczyńska
+    sex: F
+    rule: child
+    notes:
+    - Married Michał Poniński (the database).
+  T027:
+    given: Ludwika
+    surname: Hozjusz
+    sex: F
+    rule: spouse
+  T028:
+    given: Teresa
+    surname: Prusimska
+    sex: F
+    rule: spouse
+    events:
+    - type: EVEN
+      label: Her dowry of 6,000 złp recorded on half of her husband's estates
+      date: '1692'
+      note: Daughter of Jan of Kolno and the late Teresa Gajewska; the marriage joins the two families.
+      cite:
+      - source: tek_c04
+        page: regest Nr 1123 IV (1692)
+  T029:
+    given: Mikołaj
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: child
+    notes:
+    - Son of Jan and Teresa (the database, dw.36103). A Nicolaus Trąmpczyński leased Prusinowo from the Prusimskis on 10 October 1726 (the decree of 1784, p. 0165_a); the sources do not say that this is Jan's son.
+  T030:
+    given: Krzysztof (the elder)
+    surname: Prusimski
+    sex: M
+    rule: connector
+    events:
+    - type: DEAT
+      date: BEF 1658
+      cite:
+      - source: teki1658
+        page: regest Nr 182A (1658)
+    - type: OCCU
+      label: Lord of Kolno (pan na Kolnie)
+      place: kolno
+      cite:
+      - source: zych1885_187
+        page: p. 187
+    notes:
+    - Jan na Kolno's father. The decree of 1784 calls Jan, of the resignation of 1676, "son of the late Krzysztof"; the regests of 1658 and 1673 name Krzysztof as father of Jan and of Teresa Grudzińska's children.
+  T031:
+    given: Jan na Kolno
+    surname: Prusimski
+    sex: M
+    rule: holder
+    page: /people/jan-prusimski-kolno/
+    events:
+    - type: EVEN
+      label: Bought Trąbczyn
+      date: '1698'
+      note: From Anna Bojanowska and her sons Jan and Andrzej, on the Monday after St Margaret 1698, under a penalty of 90,000 złp. Trąbczyn passed to the Prusimskis in one hand.
+      cite:
+      - source: konin145
+        page: doc 1, pp. 0686_a2-0687_a1
+    notes:
+    - No source states the date of his death; his sons divided his estates among themselves in 1700 and 1708.
+    - Very probably the "Johann von Prusimski" whose inscription of 1673 charged the market town of Kolno with 1,500 złoty for the parish church of Kamionna (the Prussian mortgage certificate of Kolno, 1801-1803).
+  T032:
+    given: Teresa
+    surname: Gajewska
+    sex: F
+    rule: spouse
+    events:
+    - type: DEAT
+      date: BEF 1692
+      note: Called "the late" in the regest of 1692.
+      cite:
+      - source: tek_c04
+        page: regest Nr 1123 IV (1692)
+    notes:
+    - Of Błociszewo (Żychliński, p. 187).
+  T033:
+    given: Sebastian
+    surname: Prusimski
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Held Trąbczyn
+      date: BET 1700 AND 3 AUG 1720
+      place: trabczyn
+      note: Trąbczyn, Nowa Wieś, Łazy and Osiny fell to him in the brothers' division of 1700; he made them over to his brother Krzysztof in the compromise of 3 August 1720.
+      cite:
+      - source: teki1720
+        page: regest Nr 1176 (1720)
+      - source: pozgr1181
+        page: p. 0163_a
+    notes:
+    - His wife Zofia Gurowska (regest of 1706) is not in the tree.
+  T034:
+    given: Ludwik
+    surname: Prusimski
+    sex: M
+    rule: child
+    events:
+    - type: DEAT
+      date: BEF 23 JUL 1708
+      note: Died childless; his brothers' second division, made at Kamionna on 23 July 1708, followed his death.
+      cite:
+      - source: pozgr1181
+        page: p. 0163_a
+      - source: teki1720
+        page: regest Nr 1176 (1720)
+  T035:
+    given: Krzysztof
+    surname: Prusimski
+    sex: M
+    rule: holder
+    page: /people/prusimski-krzysztof/
+    events:
+    - type: EVEN
+      label: Bought Trąbczyn
+      date: 3 AUG 1720
+      note: By compromise with his brother Sebastian; the Teki regest has Sebastian selling him Trąbczyn, Nowa Wieś, Łazy and Osiny for 350,000 złp.
+      cite:
+      - source: pozgr1181
+        page: p. 0163_a
+      - source: teki1720
+        page: regest Nr 1176 (1720)
+    - type: EVEN
+      label: Held Trąbczyn
+      date: FROM 3 AUG 1720
+      place: trabczyn
+      note: Named heir of Trąbczyn in 1724-1725 and 1727, and a party in the Konin suit of 26 January 1728.
+      cite:
+      - source: konin145
+        page: doc 1, pp. 0662_a1, 0663_a2
+      - source: suit1728
+        page: doc 1, p. 0372_a2
+    - type: DEAT
+      date: AFT 26 JAN 1728
+      note: Alive in January 1728. The decree of 1784 has a death dated 12 May 1729 whose subject is uncertain.
+      cite:
+      - source: suit1728
+        page: doc 1, p. 0372_a2
+      - source: pozgr1181
+        page: p. 0163_b
+  T036:
+    given: Teresa
+    surname: Golińska
+    sex: F
+    rule: spouse
+    notes:
+    - Daughter of Jan Łoś Goliński, burgrave of Konin, and Konstancja Krusińska (the decree of 1784); she brought Oporowo, Prusinowo and Szetlewek to the family.
+  T037:
+    given: Jan
+    surname: Prusimski
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: BEF 1740
+      note: With his brothers, heir of their father Krzysztof's estates, Trąbczyn among them, held undivided until the brothers' division of 1740.
+      cite:
+      - source: pozgr1181
+        page: pp. 0164_a-0164_b (the division of 1740)
+    - type: DEAT
+      date: BEF 1738
+      note: Died childless; alive on 24 May 1737. The Teki regest says 1740.
+      cite:
+      - source: konin118_23
+        page: P0623_a1
+      - source: pozgr1181
+        page: pp. 0163_b-0164_a
+    notes:
+    - 'Not Jan na Kolno: the database''s sw.33424 is this Jan, Krzysztof''s son.'
+  T038:
+    given: Bogumił
+    surname: Prusimski
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: BEF 1740
+      note: With his brothers, heir of their father Krzysztof's estates, Trąbczyn among them, held undivided until the brothers' division of 1740.
+      cite:
+      - source: pozgr1181
+        page: pp. 0164_a-0164_b (the division of 1740)
+    - type: DEAT
+      date: BEF 1738
+      note: Died childless. The decree of 1784 calls him Theophilus, the contract of 1736 Deogratus.
+      cite:
+      - source: konin118_23
+        page: P0623_a1
+      - source: pozgr1181
+        page: pp. 0164_a, 0166_b
+  T039:
+    given: Antoni (the elder)
+    surname: Prusimski
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: BEF 1740
+      note: With his brothers, heir of their father Krzysztof's estates, Trąbczyn among them, held undivided until the brothers' division of 1740.
+      cite:
+      - source: pozgr1181
+        page: pp. 0164_a-0164_b (the division of 1740)
+    - type: DEAT
+      date: BET 22 APR 1761 AND 13 SEP 1775
+      note: Died childless; the eldest brother, who kept the third share in 1740.
+      cite:
+      - source: konin145
+        page: doc 1, p. 0712_a1
+      - source: pozgr1181
+        page: p. 0164_a
+  T040:
+    given: Paweł
+    surname: Prusimski
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: BEF 1740
+      note: With his brothers, heir of their father Krzysztof's estates, Trąbczyn among them, held undivided until the brothers' division of 1740.
+      cite:
+      - source: pozgr1181
+        page: pp. 0164_a-0164_b (the division of 1740)
+    - type: OCCU
+      label: Royal chamberlain (szambelan)
+      cite:
+      - source: kuryer1754
+        page: nr 75
+      - source: konin136
+        page: P0123_a2
+    - type: EVEN
+      label: Held Trąbczyn
+      date: FROM 1740 TO 1754
+      place: trabczyn
+      note: In the division of 1740 he took the second share, with Trąbczyn, Nowa Wieś, Łazy, Osiny and Podbiele.
+      cite:
+      - source: pozgr1181
+        page: p. 0164_a
+      - source: konin136
+        page: P0123_a2
+    - type: EVEN
+      label: Granted the Hollanders a privilege for the forests south of Trąbczyn
+      date: '1746'
+      note: With his wife Katarzyna; the founding of Łazińsk.
+      cite:
+      - source: summons1860
+        page: P0006_a1
+      - source: konin145
+        page: doc 1, p. 0692_a2
+    - type: DEAT
+      date: BEF 12 JUL 1754
+      note: '"Not long before" the inspection of 12 July 1754; died childless.'
+      cite:
+      - source: konin136
+        page: P0123_a2
+    - type: BURI
+      date: '1754'
+      place: trabczyn
+      note: The funeral is reported from Kalisz on 5 December.
+      cite:
+      - source: kuryer1754
+        page: nr 75
+    notes:
+    - Żychliński (1885, p. 187) makes him a generation older; the documents make him Krzysztof's son and the Starost's uncle, and the edition keeps to them.
+  T041:
+    given: Katarzyna
+    surname: Rozdrażewska
+    sex: F
+    rule: holder
+    events:
+    - type: EVEN
+      label: Held Trąbczyn for life as widow
+      date: FROM 1754
+      note: Paweł's widow, lady of his estates by dower and life interest (domina reformatoria et advitalitialis); dead by January 1768.
+      cite:
+      - source: konin136
+        page: doc 1 (12 July 1754)
+    - type: EVEN
+      label: Had Trąbczyn inspected as widow
+      date: 12 JUL 1754
+      note: Holding the lordship and a life interest in all her husband's goods; still party in 1763.
+      cite:
+      - source: konin136
+        page: P0123_a2
+      - source: suit1763
+        page: P0673_a1
+    - type: DEAT
+      date: BET 1763 AND 1768
+      note: Dead ("olim") in the register of 1768.
+      cite:
+      - source: suit1763
+        page: P0673_a1
+      - source: konin115
+        page: P0004_a1
+    notes:
+    - Daughter of Karol Rozdrażewski and Joanna Marszłynowna; widow of Aleksander Poniński, łowczy of Wschowa (the decree of 1784, p. 0167_b). Her inscription of 40,000 złp of 1745 was made to her as a future husband's wife, so the marriage with Paweł is after 1745.
+  T042:
+    given: Stefan
+    surname: Prusimski
+    sex: M
+    rule: holder
+    events:
+    - type: EVEN
+      label: Co-heir of Trąbczyn
+      date: BEF 1740
+      note: With his brothers, heir of their father Krzysztof's estates, Trąbczyn among them, held undivided until the brothers' division of 1740.
+      cite:
+      - source: pozgr1181
+        page: pp. 0164_a-0164_b (the division of 1740)
+    - type: EVEN
+      label: Took Kolno and Kamionna in the division of the brothers
+      date: '1740'
+      cite:
+      - source: pozgr1181
+        page: pp. 0164_a, 0162_b
+    notes:
+    - The youngest brother; father of the Starost Antoni.
+  T043:
+    given: Wiktoria
+    surname: Malczewska
+    sex: F
+    rule: spouse
+    events:
+    - type: BIRT
+      date: '1722'
+      cite:
+      - source: mdb
+        page: dw.33787
+        exact: true
+    - type: DEAT
+      date: '1780'
+      cite:
+      - source: mdb
+        page: dw.33787
+        exact: true
+    notes:
+    - Widow of Tomasz Wierusz-Kowalski (PSB, p. 582).
+  T044:
+    given: Marianna
+    surname: Prusimska
+    sex: F
+    rule: child
+    notes:
+    - Married first Józef Tomicki, then Kazimierz Zakrzewski; her sons were parties to the succession of 1784.
+  T045:
+    given: Wiktoria
+    surname: Prusimska
+    sex: F
+    rule: child
+    notes:
+    - Married first Michał Wysocki, then Michał Tworowicz, and a third time an Odechowski (Karol, in two readings); her children Franciszek and Elżbieta Tworowicz were parties of 1784.
+  T046:
+    given: Konstancja
+    surname: Prusimska
+    sex: F
+    rule: child
+    notes:
+    - Married Jan Kowalski; her daughter Kunegunda married Piotr Kołaczkowski.
+  T047:
+    given: Antoni
+    surname: Prusimski
+    sex: M
+    rule: holder
+    page: /people/prusimski/
+    events:
+    - type: BIRT
+      date: 4 MAR 1744
+      note: Born at Kamionna (PSB) or at Bieganowo (the database, after Dworzaczek).
+      cite:
+      - source: mdb
+        page: 4.285.619; Polski Słownik Biograficzny t. 28 s. 582
+        exact: true
+      - source: psb582
+        page: p. 582
+    - type: OCCU
+      label: Starost of Niszczewice
+      cite:
+      - source: konin145
+        page: doc 1, p. 0655_a2
+    - type: EVEN
+      label: Held Trąbczyn
+      date: FROM 1766 TO 1796
+      place: trabczyn
+      note: Heir of Trąbczyn in a decree of 1766 (quoted in 1771), named heir and patron (kollator) in the decree of 1775-1776 and presenting the parish priest in 1785; the decree of 1784 adjudged him his uncles' whole paternal fortune.
+      cite:
+      - source: kalisz414
+        page: doc 1, p. 0402_a2
+      - source: konin145
+        page: doc 1, p. 0655_a2
+      - source: pozgr1181
+        page: p. 0162_b
+    - type: RESI
+      date: BET 1794 AND 1797
+      place: venice
+      note: 'Left for Italy in 1794 (the Warsaw memoir; PSB: at the end of 1794); at Venice in December 1796; left for Mantua in March 1797 (PSB).'
+      cite:
+      - source: pleading1818
+        page: P0004_a1
+      - source: venice1414
+        page: P0004_a2
+      - source: psb583
+        page: p. 583
+    - type: EVEN
+      label: Estates confiscated; Trąbczyn given to Hohenlohe-Ingelfingen
+      date: 9 AUG 1796
+      note: The royal approval of 9 August 1796; the confiscation sentence on Kolno is dated 27 June 1796.
+      cite:
+      - source: hohenlohe3570
+        page: P0005_a-P0006_a
+    - type: DEAT
+      date: '1803'
+      note: '"Died in 1803 in a foreign country" (the Prussian note of 1819). The Warsaw memoir of 1818 implies an earlier death, soon after his wife''s; PSB and the database say about 1806.'
+      cite:
+      - source: note1819
+        page: P0010_a
+      - source: pleading1818
+        page: P0008_a2
+      - source: psb582
+        page: p. 582
+    notes:
+    - 'Only child: Michalina.'
+  T048:
+    given: Marianna
+    surname: Dąmbska
+    sex: F
+    rule: spouse
+    events:
+    - type: EVEN
+      label: Baptised
+      date: '1763'
+      place: wieniec
+      cite:
+      - source: mdb
+        page: 4.285.618 ("Chrzest w roku 1763 - Wieniec")
+        exact: true
+    - type: DEAT
+      date: BEF 14 DEC 1796
+      note: The Venice resident's dispatch of 14 December 1796 speaks of her death. Żychliński (1891, p. 221, n. 1) has her die at Padua on 2 September 1797, aged 38; the documents are taken.
+      cite:
+      - source: venice1414
+        page: P0004_a2
+      - source: zych1891_221
+        page: p. 221, n. 1
+    notes:
+    - Of Lubraniec, arms Godziemba; daughter of Józef Dąmbski, castellan of Kowal, and Barbara Komorowska.
+  T049:
+    given: Michalina
+    surname: Prusimska
+    sex: F
+    rule: holder
+    events:
+    - type: BIRT
+      date: '1778'
+      place: trabczyn
+      cite:
+      - source: mdb
+        page: 4.285.273 ("Urodzona w roku 1778 - Trąbczyn")
+        exact: true
+    - type: EVEN
+      label: Restored to Trąbczyn
+      date: 21 JUL 1807
+      note: The Governing Commission at Dresden returned to her the goods confiscated from her father.
+      cite:
+      - source: agad1807
+        page: doc 2, P0180_a2
+      - source: judgment1827
+        page: P0020_a2
+    - type: EVEN
+      label: Held Trąbczyn
+      date: FROM 21 JUL 1807 TO 19 JAN 1851
+      place: trabczyn
+      note: Named with her husband as lords of Trąbczyn in the judgment of 1827; "Michalina Miączyńska, owner of Trąbczyn" in 1846. Żychliński (p. 221) has Stanisław pass the Trąbczyn estate to his son Mieczysław in 1845; the documents are taken.
+      cite:
+      - source: judgment1827
+        page: P0017_a
+      - source: kneifel251
+        page: p. 251
+      - source: zych1891_221
+        page: p. 221
+    - type: DEAT
+      date: 19 JAN 1851
+      place: trabczyn
+      cite:
+      - source: zych1891_221
+        page: p. 221
+      - source: mdb
+        page: '4.285.273; Akt zgonu: Trąbczyn 1851'
+        exact: true
+    - type: BURI
+      place: trabczyn
+      note: Buried beside her husband.
+      cite:
+      - source: zych1891_221
+        page: p. 221
+    notes:
+    - Called Michalina Prusimska in a letter of January 1802, "Dąmbska" in the petitions of July 1807.
+  T050:
+    given: Józef
+    surname: Dąmbski
+    sex: M
+    rule: spouse
+    events:
+    - type: DEAT
+      date: '1798'
+      note: 'PSB: died 1798. The documents say only that she was his widow by July 1807.'
+      cite:
+      - source: psb583
+        page: p. 583
+    notes:
+    - Voivode's son of Brześć Kujawski, son of Stanisław Dąmbski and Józefa Wesslowna (Żychliński, 1885, p. 188). No source names a child of the marriage.
+  T051:
+    given: Stanisław Adam
+    surname: Miączyński
+    sex: M
+    rule: holder
+    page: /people/miaczynski/
+    events:
+    - type: BIRT
+      date: 24 DEC 1780
+      place: warsaw
+      cite:
+      - source: zych1891_219
+        page: p. 219
+      - source: mdb
+        page: 4.285.278
+        exact: true
+    - type: OCCU
+      label: Colonel, adjutant of Prince Józef Poniatowski
+      cite:
+      - source: zych1891_220
+        page: pp. 220-221
+    - type: EVEN
+      label: Co-lord of Trąbczyn with his wife
+      date: 30 JUL 1827
+      note: The judgment names the couple as "Dziedzicami w wsi Trąpczynie".
+      cite:
+      - source: judgment1827
+        page: P0017_a
+    - type: DEAT
+      date: 12 APR 1845
+      place: berlin
+      note: Żychliński (p. 219) has 22 April.
+      cite:
+      - source: mdb
+        page: 4.285.278; Nekrolog, Kurier Warszawski 111/1845
+        exact: true
+      - source: zych1891_219
+        page: p. 219
+    - type: BURI
+      place: trabczyn
+      cite:
+      - source: zych1891_219
+        page: p. 219
+    notes:
+    - The marriage settlement of 1809 made over Michalina's estates to him (Żychliński, p. 221).
+  T052:
+    given: Aleksander
+    surname: Miączyński
+    sex: M
+    rule: connector
+    events:
+    - type: BIRT
+      date: 9 JAN 1810
+      place: warsaw
+      cite:
+      - source: asc1810b
+        page: act 245, 1810 (index note "Data urodzenia 09.01.1810"; the mother entered as Michalina Zofia Prusimska)
+      - source: zych1891_221
+        page: p. 221
+      - source: mdb
+        page: 9.297.281; Bielecki, Słownik oficerów powstania listopadowego
+        exact: true
+    - type: DEAT
+      date: 31 OCT 1869
+      place: pawlowo
+      note: Heir of Pawłowo; buried at Trąbczyn.
+      cite:
+      - source: zych1891_222
+        page: p. 222
+      - source: mdb
+        page: 9.297.281
+        exact: true
+    notes:
+    - Count by the Prussian rescript of 5 May 1853.
+  T053:
+    given: Bronisława
+    surname: Kalkstein
+    sex: F
+    rule: spouse
+    events:
+    - type: BIRT
+      date: 21 MAR 1825
+      cite:
+      - source: zych1891_221
+        page: pp. 221-222
+    - type: DEAT
+      date: 15 AUG 1858
+      cite:
+      - source: zych1891_221
+        page: pp. 221-222
+    notes:
+    - Daughter of Ferdynand Kalkstein and Paulina Radzimińska; arms Kos.
+  T054:
+    given: Stanisława
+    surname: Miączyńska
+    sex: F
+    rule: child
+    events:
+    - type: BIRT
+      date: '1848'
+      cite:
+      - source: zych1891_222
+        page: p. 222
+    - type: DEAT
+      date: '1860'
+      cite:
+      - source: zych1891_222
+        page: p. 222
+  T055:
+    given: Wanda
+    surname: Miączyńska
+    sex: F
+    rule: child
+    events:
+    - type: BIRT
+      date: 5 DEC 1849
+      cite:
+      - source: zych1891_222
+        page: p. 222
+    - type: DEAT
+      date: 9 APR 1875
+      place: berlin
+      cite:
+      - source: zych1891_222
+        page: p. 222
+    notes:
+    - Married Gustaw Potworowski; childless.
+  T056:
+    given: Stanisław
+    surname: Miączyński
+    sex: M
+    rule: child
+    notes:
+    - Named by the database only; Żychliński lists three children.
+  T057:
+    given: Władysław
+    surname: Miączyński
+    sex: M
+    rule: holder
+    events:
+    - type: BIRT
+      date: 31 JAN 1852
+      cite:
+      - source: zych1891_222
+        page: p. 222
+    - type: EVEN
+      label: Heir of Trąbczyn
+      date: AFT 18 DEC 1879
+      note: Heir of Pawłowo from his father and of the Trąbczyn estate from his uncle Włodzimierz; he signed the death notice of 1879 as the nephew.
+      cite:
+      - source: zych1891_222
+        page: p. 222
+      - source: death1879
+        page: 'notice printed 20 December 1879, "dnia 18go grudnia"'
+    - type: EVEN
+      label: Held Trąbczyn
+      date: BET 1885 AND 4 JAN 1892
+      place: trabczyn
+      note: '"Which his grandson Władysław Count Miączyński holds today" (Żychliński 1885).'
+      cite:
+      - source: zych1885_188
+        page: p. 188
+      - source: slowo1892
+        page: 4 January 1892
+    - type: EVEN
+      label: Sold Trąbczyn
+      date: BEF 4 JAN 1892
+      note: 'Słowo of 4 January 1892: bought "from Count Miączyński" by Countess Władysławowa Wielopolska for 225,000 rubles - Maria Wielopolska, born Plater-Zyberk (1857-1909), wife of Władysław hr. Wielopolski (1860-1928), married at Warsaw on 12 February 1885. The notice does not print the seller''s forename; he was Władysław, heir since 1879. No family link between the buyer and the Miączyńskis, Prusimskis or Dąmbskis has been found; in 1896 his cousin Tadeusz bought the estate back.'
+      cite:
+      - source: slowo1892
+        page: 4 January 1892
+      - source: apl6603_4
+        page: P0031_a
+    notes:
+    - Count; married Helena Potocka at Dresden.
+    - "The buyer of 1892 in Minakowska's database: lu.22334 (Maria hr. Plater-Zyberk) and lu.22335 (Władysław hr. Wielopolski), married at Warsaw, St Alexander's, act 55/1885."
+  T058:
+    given: Helena Maria
+    surname: Potocka
+    sex: F
+    rule: spouse
+    events:
+    - type: BIRT
+      date: 2 NOV 1862
+      place: bedlewo
+      cite:
+      - source: mdb
+        page: 'dw.51613; Uwagi: epoznan.679262'
+        exact: true
+    notes:
+    - Daughter of Bolesław Potocki of Będlewo and Helena Kwilecka (Żychliński, p. 222).
+  T059:
+    given: Elżbieta
+    surname: Miączyńska
+    sex: F
+    rule: child
+    notes:
+    - Elżbieta Marya Helena Felicya Józefa (Żychliński, p. 222).
+  T060:
+    given: Alfred
+    surname: Miączyński
+    sex: M
+    rule: child
+    notes:
+    - Alfred Marya Franciszek Aleksander Feliks (Żychliński, p. 222).
+  T061:
+    given: Maria
+    surname: Miączyńska
+    sex: F
+    rule: child
+    notes:
+    - Marya Józefa Felicya (Żychliński, p. 222).
+  T062:
+    given: Włodzimierz
+    surname: Miączyński
+    sex: M
+    rule: holder
+    events:
+    - type: BIRT
+      date: 29 JUL 1811
+      cite:
+      - source: zych1891_222
+        page: p. 222
+    - type: EVEN
+      label: Held Trąbczyn
+      date: BET 1859 AND 18 DEC 1879
+      place: trabczyn
+      note: Named as lord of Trąbczyn in the colonists' suit of 1859 and the summons of 19 October 1860; Żychliński says he acquired the estate from his brother Mieczysław after returning from emigration.
+      cite:
+      - source: summons1860
+        page: P0005_a
+      - source: zych1891_222
+        page: p. 222
+    - type: DEAT
+      date: 18 DEC 1879
+      place: trabczyn
+      note: The death notice is printed in the issue of 20 December; the 18th is the day of death, the 20th the issue's date.
+      cite:
+      - source: death1879
+        page: 'notice printed 20 December 1879, "dnia 18go grudnia"'
+      - source: zych1891_222
+        page: p. 222
+      - source: mdb
+        page: 'dw.51602; Akt zgonu: Trąbczyn 1879'
+        exact: true
+    - type: BURI
+      place: trabczyn
+      cite:
+      - source: zych1891_222
+        page: p. 222
+    notes:
+    - Unmarried.
+  T063:
+    given: Mieczysław
+    surname: Miączyński
+    sex: M
+    rule: child
+    events:
+    - type: BIRT
+      date: 13 FEB 1818
+      place: trabczyn
+      cite:
+      - source: zych1891_222
+        page: p. 222
+      - source: mdb
+        page: dw.51600
+        exact: true
+    - type: DEAT
+      date: 16 MAR 1887
+      place: wloclawek
+      cite:
+      - source: zych1891_222
+        page: pp. 222-224
+    notes:
+    - Heir of Wieniec and Izbica. Żychliński says his father's division of 1845 gave him the Trąbczyn estate "in the form of a sale" and that he sold it to Włodzimierz; the documents name Michalina as owner in 1846, and the edition takes them.
+  T064:
+    given: Witold Michał
+    surname: Miączyński
+    sex: M
+    rule: connector
+    events:
+    - type: BIRT
+      date: 28 SEP 1823
+      place: trabczyn
+      cite:
+      - source: zych1891_222
+        page: pp. 224-225
+      - source: mdb
+        page: 9.503.471
+        exact: true
+    - type: DEAT
+      date: 20 MAR 1880
+      cite:
+      - source: zych1891_222
+        page: pp. 224-225
+    notes:
+    - Heir of Brzezie.
+  T065:
+    given: Róża
+    surname: Karśnicka
+    sex: F
+    rule: spouse
+    notes:
+    - Daughter of Adam Karśnicki and Barbara née Twardowska of Skrzypno; the regest of 1706 calls her the wife of Andrzej Otto Trąmpczyński.
+  T066:
+    given: N.
+    surname: Otto-Trąmpczyński
+    sex: M
+    rule: connector
+    notes:
+    - The unnamed father of Jan the elder and Wojciech. No source names him; the decree of 1775 makes Wojciech the "stryj" (father's brother) and guardian of Jan's sons, so Jan and Wojciech were brothers. Whether he was one of the brothers Wojciech, Mikołaj and Stanisław of the division of 1522 is not known.
+  T067:
+    given: Teresa
+    surname: Grudzińska
+    sex: F
+    rule: connector
+    events:
+    - type: DEAT
+      date: BEF 1658
+      note: Called "the late" in the regest of 1658, as mother of Jan and Teresa.
+      cite:
+      - source: teki1658
+        page: regest 2731 (Nr. 182A), 1658, f. 244
+  T068:
+    given: Anna
+    surname: Prusimska
+    sex: F
+    rule: child
+    notes:
+    - Married first Maciej Watta-Belęcki, then Jan Dobrogost Brudzewski; died childless, and her Pawłowo (Żerniki) inheritance, charged with 30,000 złoty, fell to her brothers (the decree of 1784, "Anna de Prusimski imo Belęcka ultimo voto Brudzinska").
+  T069:
+    given: Klementyna
+    surname: Glińska
+    sex: F
+    rule: connector
+    notes:
+    - Klementyna Klemencja Cecylia Glińska of Glinki, wife of Witold Miączyński and mother of Tadeusz (the database, 9.503.471).
+  T070:
+    given: Tadeusz Franciszek Władysław
+    surname: Miączyński
+    sex: M
+    rule: holder
+    events:
+    - type: BIRT
+      date: 9 MAR 1857
+      cite:
+      - source: mdb
+        page: dw.51608
+        exact: true
+    - type: EVEN
+      label: Bought Trąbczyn back
+      date: '1896'
+      note: Repurchased the estate sold in 1892 to Countess Maria Wielopolska, bringing it back to the Miączyńskis. The town history sign at Trąbczyn gives this; the act of the purchase has not been found.
+      cite:
+      - source: sign1896
+        page: as reported by the editor, 2026-11-13
+    - type: EVEN
+      label: Owner of Trąbczyn when Włodzimierów was parcelled from it
+      date: ABT 1911
+      note: Breyer, in July 1936, has Włodzimierów parcelled from the Trąbczyn estate "25 years ago", the owner "Graf Miączyński"; no forename is given.
+      cite:
+      - source: breyer1936
+        page: p. 5194_a2
+    - type: DEAT
+      date: 15 SEP 1923
+      place: bedlewo
+      cite:
+      - source: mdb
+        page: dw.51608
+        exact: true
+    notes:
+    - Son of Witold Miączyński, grandson of Michalina née Prusimska, first cousin of Władysław Miączyński, who had sold Trąbczyn in 1892.
+    - The database gives his wife as Maria hr. Miączyńska (1862-1919) but names his own parents as hers; who his wife was is not settled.
+  T071:
+    given: Władysław Józef
+    surname: Miączyński
+    sex: M
+    rule: child
+    notes:
+    - Son of Tadeusz (the database, dw.51608 and dw.59275).
+  T072:
+    given: Konstancja
+    surname: Krusińska
+    sex: F
+    rule: connector
+    notes:
+    - Wife of Jan Łoś Goliński and mother of Teresa Golińska (the decree of 1784); afterwards wife of Marcin Kałowski, with whom she made the complanation of 1706 with Krzysztof Prusimski and Teresa.
+families:
+  F001:
+    husb: T001
+    wife: T002
+    children:
+    - T003
+    - T004
+    - T005
+    - T006
+    cite:
+    - source: konin145
+      page: doc 1, pp. 0677_a2-0678_a1
+  F002:
+    husb: T004
+    children:
+    - T007
+    cite:
+    - source: konin145
+      page: doc 1
+  F003:
+    husb: T010
+    wife: T011
+    children:
+    - T012
+    - T013
+    - T018
+    - T014
+    - T015
+    cite:
+    - source: dec1644
+      page: doc 1
+    - source: konin145
+      page: doc 1
+    - source: tek_c01
+      page: regest Nr 137 (1614)
+  F004:
+    husb: T008
+    wife: T009
+    children:
+    - T010
+    cite:
+    - source: tek_c01
+      page: 'regest Nr 137 (1614): Stanisław "son of Wojciech Otto Trąmpczyński"'
+    - source: min_ott
+      page: c01
+  F005:
+    husb: T013
+    wife: T016
+    cite:
+    - source: min_ott
+      page: c01
+  F006:
+    husb: T017
+    wife: T015
+    cite:
+    - source: min_ott
+      page: c01
+    - source: mdb
+      page: kw.24.16, kw.24.15
+  F007:
+    husb: T018
+    wife: T019
+    children:
+    - T023
+    - T024
+    - T025
+    - T026
+    marr:
+      date: '1660'
+      note: The regest of 1663 already calls her his wife.
+      cite:
+      - source: mdb
+        page: 'dw.34112, dw.34106 ("ślub: w roku 1660")'
+        exact: true
+    cite:
+    - source: konin145
+      page: doc 1, pp. 0686_a2-0687_a1
+    - source: tek_c03
+      page: regest Nr 1425 (1663)
+  F008:
+    husb: T020
+    wife: T019
+    children:
+    - T021
+    - T022
+    marr:
+      date: '1671'
+      note: The regest of 1671 has their mutual life-interest settlement, she already his wife.
+      cite:
+      - source: teki1671
+        page: regest 4220 (Nr. 15), 1671
+      - source: mdb
+        page: 'dw.34106 ("ślub: w roku 1671")'
+        exact: true
+    cite:
+    - source: teki1671
+      page: regest Nr 15 (1671)
+    - source: pozgr1181
+      page: pp. 0166_a-0166_b
+    - source: mdb
+      page: dw.34106, dw.34113
+  F009:
+    husb: T025
+    wife: T027
+    cite:
+    - source: mdb
+      page: 7.885.61, 7.885.60
+    marr:
+      date: 25 SEP 1701
+      place: debno
+      cite:
+      - source: mdb
+        page: 7.885.61, 7.885.60; Boniecki, Herbarz polski VII p. 369; Dworzaczek dw.26734 / dw.26726 (DEM x 1701)
+        exact: true
+  F010:
+    husb: T024
+    wife: T028
+    children:
+    - T029
+    cite:
+    - source: tek_c04
+      page: regest Nr 1123 IV (1692)
+    - source: pozgr1181
+      page: p. 0163_a
+    - source: mdb
+      page: sw.249761, sw.249762, dw.36103
+  F011:
+    husb: T030
+    wife: T067
+    children:
+    - T031
+    cite:
+    - source: pozgr1181
+      page: p. 0163_a
+    - source: teki1673
+      page: regest Nr 68 (1673)
+    - source: zych1885_187
+      page: p. 187
+  F012:
+    husb: T031
+    wife: T032
+    marr:
+      date: BEF 1673
+      note: Married by 1673, when he gave a quittance for the last 12,000 of her 40,000 złoty dowry.
+      cite:
+      - source: teki1673
+        page: regest 3556 (Nr. 68), 1673, f. 720v
+    children:
+    - T033
+    - T035
+    - T034
+    - T028
+    - T068
+    cite:
+    - source: pozgr1181
+      page: p. 0163_a
+    - source: teki1720
+      page: regest Nr 1176 (1720)
+    - source: tek_c04
+      page: regest Nr 1123 IV (1692)
+  F013:
+    husb: T035
+    wife: T036
+    children:
+    - T037
+    - T038
+    - T039
+    - T040
+    - T042
+    - T044
+    - T045
+    - T046
+    cite:
+    - source: konin118_23
+      page: P0622_a2-P0623_a1
+    - source: pozgr1181
+      page: p. 0163_b
+  F014:
+    husb: T040
+    wife: T041
+    cite:
+    - source: pozgr1181
+      page: p. 0167_b
+    - source: summons1860
+      page: P0006_a1
+  F015:
+    husb: T042
+    wife: T043
+    children:
+    - T047
+    cite:
+    - source: konin118_23
+      page: P0623_a1
+    - source: zych1885_188
+      page: p. 188
+    - source: psb582
+      page: p. 582
+  F016:
+    husb: T047
+    wife: T048
+    children:
+    - T049
+    cite:
+    - source: zych1885_188
+      page: p. 188
+    - source: psb583
+      page: p. 583
+    - source: zych1891_221
+      page: p. 221
+  F017:
+    husb: T050
+    wife: T049
+    cite:
+    - source: zych1885_188
+      page: p. 188
+    - source: psb583
+      page: p. 583
+    - source: agad1807
+      page: doc 2
+  F018:
+    husb: T051
+    wife: T049
+    children:
+    - T052
+    - T062
+    - T063
+    - T064
+    cite:
+    - source: zych1891_221
+      page: p. 221
+    - source: psb583
+      page: p. 583
+    marr:
+      date: 17 AUG 1810
+      place: warsaw
+      note: 'Civil marriage at Warsaw (ASC Cyrkuł IV, act 67, 17 August 1810), church wedding at St Andrew''s on 21 August 1810. Żychliński (p. 221) and the PSB have August 1809: a year too early; the month is right. Their son Aleksander was born on 9 January 1810, before the wedding.'
+      cite:
+      - source: asc1810m
+        page: act 67 (index note "karta nr 67, 1810.08.17")
+      - source: standrew1810
+        page: no. 849 (index note "21.08")
+      - source: mdb
+        page: 4.285.278, 4.285.273; Akt małżeństwa Warszawa ASC Cyrkuł IV, 67/1810
+        exact: true
+      - source: zych1891_221
+        page: 'p. 221: August 1809'
+  F019:
+    husb: T052
+    wife: T053
+    children:
+    - T054
+    - T055
+    - T056
+    - T057
+    cite:
+    - source: zych1891_221
+      page: pp. 221-222
+    - source: mdb
+      page: 9.297.281, 9.297.280
+    marr:
+      date: '1847'
+      note: Marriage contract of 16 November 1847 before the court at Wągrowiec (Żychliński); the database has 1846.
+      cite:
+      - source: zych1891_221
+        page: pp. 221-222
+  F020:
+    husb: T057
+    wife: T058
+    children:
+    - T059
+    - T060
+    - T061
+    cite:
+    - source: zych1891_222
+      page: p. 222
+    marr:
+      date: 7 AUG 1883
+      place: dresden
+      note: In the court church at Dresden.
+      cite:
+      - source: zych1891_222
+        page: p. 222
+  F021:
+    husb: T023
+    wife: T065
+    cite:
+    - source: teki1706k
+      page: regest 8836 (Nr. 309), 1706, p. 355
+  F022:
+    husb: T066
+    children:
+    - T001
+    - T008
+    cite:
+    - source: konin145
+      page: doc 1, pp. 0677_a2, 0685_a2-0686_a2 (Wojciech "stryj i opiekun" of Jan's sons)
+  F023:
+    husb: T064
+    wife: T069
+    children:
+    - T070
+    marr:
+      date: '1847'
+      note: At Boniewo (the database).
+      cite:
+      - source: mdb
+        page: '9.503.471 ("ślub: w roku 1847, Boniewo")'
+        exact: true
+    cite:
+    - source: mdb
+      page: 9.503.471, dw.51608
+  F024:
+    husb: T070
+    children:
+    - T071
+    cite:
+    - source: mdb
+      page: dw.51608
+  F025:
+    husb: T020
+    wife: T072
+    children:
+    - T036
+    cite:
+    - source: pozgr1181
+      page: p. 0165_b ("Teresa Golinska, daughter of the late Magnificent Jan Łoso Golinski, burgrave of Konin, begotten with the late Magnificent Konstancja Krusińska")

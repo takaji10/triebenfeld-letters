@@ -39,7 +39,7 @@ repository; they are on the working machine.
   (Burggericht, Landgericht, Krontribunal, Kondeszension, Erbpacht,
   Vorwerk, Hufe, Turmhaft, Olęder).**
 
-## The Trąmpczyński family and Jan na Kolno Prusimski (2026-11-12, branch `trampczynski-family`, not published)
+## The Trąmpczyński family and Jan na Kolno Prusimski (2026-11-12, branch `trampczynski-family`, published 2026-11-13)
 
 The person pages of the holders of Trąbczyn before 1698 and of the
 Prusimskis' coming (`reference/genealogy.yml`, from
@@ -60,11 +60,13 @@ What rests on Claude's reading rather than a document's statement:
   "sole male heir of his father Stephan"); the only other Jan of the line,
   Krzysztof's son, was not born in 1673; Jan had a married daughter in
   1692, so was of age in 1673. Not stated by any document. The page says
-  "very probably".
-- **Jan's father Krzysztof.** The decree of 1784 has Wierzbno and Brzezno
-  made over in 1676 "pro re olim Magnifici Joannis Prusimski olim
-  Christophori filii". Read as "Jan, son of the late Krzysztof", an elder
-  Krzysztof. The page shows it as a parent with the decree as source.
+  "very probably". (Strengthened 2026-11-12: the regest of 1673,
+  Teki Dworzaczka c07, has "Jan z Kolna Prusimski" acting the same year,
+  married to Teresa Gajewska.)
+- **Jan's father Krzysztof** - settled 2026-11-12: the regests of 1658
+  and 1673 (Teki Dworzaczka c05, c07) name Jan the son of the late
+  Krzysztof z Kolna Prusimski by Teresa Grudzińska, as the decree of 1784
+  implied ("olim Christophori filii").
 - **Wawrzyniec as Jan the elder's son.** He is one of Wojciech's four
   nephews and wards (1584-1593) and party to the division of 1591, but
   not named in Szczęsna's settlement of 1596 with Rachwał, Walenty and
@@ -86,7 +88,19 @@ What rests on Claude's reading rather than a document's statement:
   childless and invokes the law against daughters dowered by their
   father; the decree of 1784 speaks of "the last sister". Read as his
   daughters.
-- **Anna Bojanowska's second husband** is not named. The decree of 1784
+- **Anna Bojanowska's second husband** - named 2026-11-12: Jan Goliński,
+  son of Stefan (Teki Dworzaczka c06, 1671, where she is already
+  Władysław's widow; Władysław is therefore dead by 1671, not only by
+  1693). **He is the Jan Łoś Goliński, burgrave of Konin, father of
+  Krzysztof Prusimski's wife Teresa** (the editor, 2026-11-13; the
+  database keeps two entries, dw.34113 and sw.33416). So Teresa Golińska
+  was Anna Bojanowska's stepdaughter, and Paweł and Apollonia Goliński
+  her half-siblings - a second tie between the Trąmpczyńskis and the
+  Prusimskis beside Teresa Prusimska's marriage to Jan Trąmpczyński -
+  which explains why the decree of 1784 charges Anna's and her son's sums
+  on the Golińska inheritance. Open: the order of Jan's two marriages
+  (Anna his wife by 1671 and still Golińska in 1698; Konstancja
+  Krusińska, Teresa's mother, alive in 1706 as Kałowska). The decree of 1784
   has "Paweł Goliński" inscribing to "Anna de Bojanowska, his mother" and
   her passing it to "Apollonia de Golinska ... her own daughter", among
   the charges on the Golińska inheritance of Krzysztof Prusimski's sons.
@@ -104,6 +118,97 @@ What rests on Claude's reading rather than a document's statement:
   to cite; the host did not answer from the session. Shown in full on the
   site (four regests, abbreviated abstracts); the editor's word on the
   rights is wanted before publishing.
+- **The owners' family tree** (`reference/estate_tree.yml`, built to
+  /genealogy/trabczyn/; drafted by a Sonnet sub-agent from the edition's
+  facts and 54 saved Minakowska pages, reviewed and corrected 2026-11-12;
+  the draft's notes are in `review/estate_tree/reconcile_notes.md`, not
+  tracked). For the editor:
+  - **Michalina and Stanisław Adam's marriage**: settled 2026-11-13, 17
+    August 1810 (civil) and 21 August 1810 (church); see "The literature".
+  - **Year-only database dates** - settled 2026-11-13 (the editor: "why
+    not?"): a year the database states without a mark of estimate
+    ("prawdopodobnie", "około", "ca", "?", "przed", "po", a range, a
+    trailing slash) is the database's statement, not its guess, and stands
+    (the plan's rule 2 said so; the drafting brief had been stricter).
+    Added: Michalina born 1778 at Trąbczyn, Wiktoria Malczewska 1722-1780,
+    Marianna Dąmbska baptised 1763 at Wieniec, the marriages of 1660
+    (Władysław and Anna Bojanowska), 1671 (Anna and Jan Goliński) and 1847
+    (Witold and Klementyna Glińska). Children's own marriages (1686, 1730)
+    stay out by the inclusion rule, not the date rule.
+  - **Every database date in the tree has day, month and year**; most also
+    name the record behind them (a death act, the PSB, a necrology).
+    Stanisław Adam's birth, Aleksander's death and Mieczysław's and
+    Witold's births rest on the database page alone.
+  - **Rules given**: Sebastian Prusimski a holder (1700-1720), Aleksander
+    Miączyński a connector, Mieczysław and Witold children; the three
+    Trąmpczyński brothers of 1693 holders.
+  - **Antoni the Starost's death** entered as 1803 (the Prussian note of
+    1819, III. HA MdA III Nr. 12366 doc. 3) with PSB's "ca 1806" and the
+    earlier hints in the note.
+  - **An unnamed father joins Jan the elder and Wojciech** ("N.
+    Otto-Trąmpczyński", rule connector): the decree of 1775 proves them
+    brothers; no source names their father.
+  - **Places without coordinates**: Pawłowo, Będlewo, Dębno nad Wartą;
+    Padua (Marianna Dąmbska's death, Żychliński) left without a place.
+  - **Krzysztof Prusimski's holding** begins at the sale of 1720 (regest
+    c10, the Poznań decree of 1784); the decree of 1775's protests "from
+    1713" by "the late Krzysztof Prusimski, heir of Trąbczyn" are a series
+    beginning in 1713, not shown to be his from that year.
+- **The repurchase of 1896** (the editor, 2026-11-13, from the town history
+  sign at Trąbczyn; `reference/sources/trabczyn_history_sign_1896.md`):
+  Tadeusz Franciszek Władysław Miączyński (9 III 1857 - 15 IX 1923, the
+  database dw.51608), son of Witold, grandson of Michalina, first cousin of
+  the seller of 1892, bought Trąbczyn back in 1896. Entered in the tree
+  (source kind `report`) and in the wlodzimierz era's ownership line.
+  Supported, without a forename, by Breyer's notebook of 1936 (APP
+  53/968/0/-/669, doc. 2: Włodzimierów parcelled about 1911, "Besitzer
+  hiess: Graf Miączyński"). **The primary source is not found** (the
+  mortgage book or the act; MISSING_SOURCES). On the editor's question
+  whether the estate "stayed in the family": by this report it left the
+  family in 1892 for four years and came back in 1896. Also open: the
+  database gives Tadeusz's wife as Maria hr. Miączyńska (1862-1919, 9.503.470)
+  with Witold and Klementyna as her parents too, which would make her his
+  sister; her own page has her married to Władysław Karski on 20 V 1885.
+  His wife is left out of the tree until this is settled.
+- **Włodzimierz Miączyński's death: 18 December 1879, not the 20th**
+  (checked 2026-11-12 at the editor's request; **settled the same day at
+  the editor's word, "Yes, use the 18th", and changed throughout**). Every witness gives the
+  18th: the death notice ("Zmarł ... dnia 18go grudnia rb. w
+  Trąbczynie"), printed in Dziennik Poznański of **20 December** - the
+  issue date; Żychliński (1891, p. 222); and Minakowska's page dw.51602,
+  "zmarł dnia 18 XII 1879 - Trąbczyn", whose sources are the parish death
+  act ("sw.364472 Akt zgonu: Trąbczyn, (Włodzimierz Miączyński)/1879"),
+  her necrology (n.19564) and Dworzaczek's genealogy (rkps. 14411, s.
+  742); the page also gives his birth, 29 VII 1811. No document of the
+  edition has the 20th: the ruling of 2026-10-15 most likely took the
+  newspaper's date. Changed: people.yml, people_bios.yml, genealogy.yml,
+  units/app539680716/notes.md, the item's notes, TODO.md; the timeline
+  and the eras carry the year only. Not checked:
+  the act itself (Minakowska cites it; the scan is not in the edition).
+- **The Wielopolski question** (searched 2026-11-12; **the buyer's
+  identity accepted by the editor the same day**: Maria hr. Plater-Zyberk,
+  1857-1909, married at Warsaw on 12 II 1885 to Władysław hr. Wielopolski,
+  1860-1928, president of the Żyrardów works; recorded in the Słowo item's
+  notes and the wlodzimierz era's ownership line; the kinship question
+  stays open as below). The edition holds
+  only the buyer's name: "hr. Władysławowa Wielopolska" (Słowo, 4 January
+  1892) and "Графини Маріи Велёпольской" (APŁ 39/98/0/-/6603, doc. 4,
+  June 1892). In Minakowska's database the one couple that fits both
+  forms is **Władysław hr. Wielopolski** (lu.22335; b. Kraków 10 VII
+  1860, d. Paris 30 VII 1928; president of the Żyrardów works 1907-1911)
+  and **Maria hr. Plater-Zyberk** (lu.22334; b. IV 1857, d. 30 XI 1909),
+  married at Warsaw, St Alexander's, 12 II 1885 (act 55/1885). Neither
+  page mentions Trąbczyn, so the identification is Claude's and
+  unproved. The database's kinship search (shortest line from her to
+  Władysław Miączyński, dw.51610) finds only a remote chain of marriages:
+  Józefa Wessel's two marriages (Iliński; Stanisław Dąmbski, father of
+  Michalina's first husband Józef) through the Ilińskis and Laskis to the
+  Wielopolskis. **No blood or close marriage kinship** to the Miączyński,
+  Prusimski or Dąmbski lines is shown; the Wielopolskis stay out of the
+  tree. What could still settle it: the notarial or mortgage act of the
+  1892 sale (the buyer's full name and maiden name). Breyer's notes (1936),
+  with a "Graf Miączyński" owning Trąbczyn about 1911, are explained by the
+  repurchase of 1896 (next item).
 - **The 1522 division** among the brothers Wojciech, Mikołaj and
   Stanisław Trąmpczyński, heirs of the whole estate (the decree of 1775),
   and Mikołaj Trąmpczyński, heir of a part of Szetlew in 1589: no page.
@@ -664,7 +769,10 @@ read, translate and summarise.
   - **Michalina's second marriage.** Żychliński (1891, p. 221) has Stanisław
     Miączyński marry her in August 1809, with the marriage settlement; the
     PSB says "from 1809". The bios of `prusimska` and `miaczynski` say
-    "about 1814". Change the bios to 1809?
+    "about 1814". Change the bios to 1809? **Settled 2026-11-13: August
+    1810** (the Warsaw registers by the Geneteka index: civil act 67 of
+    17 August, church record no. 849 of 21 August 1810); Żychliński's 1809
+    is a year early. The bios now say August 1810.
   - **Her mother's death.** Żychliński (1891, p. 221, footnote) has Maryanna
     Dąmbska die at Padua on 2 September 1797. The Prussian resident's
     dispatch from Venice of 14 December 1796 (I. HA GR, Rep. 7 C, Nr. 1414,
@@ -1018,9 +1126,15 @@ read, translate and summarise.
     the identity of `miaczynski` and the genealogy block of `prusimski`
     all carry it, and the new page's marriage line carries the 1810 date
     with the flag beside it, so the site shows both. The act is the
-    stronger source and four years earlier. **Awaiting the editor's
-    ruling; nothing has been changed yet.** If the editor accepts 1810,
-    the bio, the identity and the Prusimski block are corrected at once.
+    stronger source and four years earlier. **Settled 2026-11-13** (asked
+    by the editor, "which is correct?"): the Geneteka index of the Warsaw
+    registers has the civil act (ASC Cyrkuł IV, 1810, no. 67, "1810.08.17")
+    and the church record (St Andrew's, 1810, no. 849, "21.08"); their son
+    Aleksander was born on 9 January 1810 (ASC Cyrkuł IV births 1810, no.
+    245, the mother entered as "Michalina Zofia Prusimska"), before the
+    wedding. The bios, the identity and the genealogy blocks now say August
+    1810. The scans themselves (Szukaj w Archiwach, units 12481353 and
+    12481320) were not read: the dates are the index's.
   - **PSB t. 20 s. 562 (psb.17772.5).** The page's Uwagi cite the Polski
     Słownik Biograficzny's article on Stanisław Adam Miączyński. The
     edition holds no PSB volume as a literature work; whether to seek it
@@ -1438,7 +1552,8 @@ written until there is a witness or a better scan.
   names in `reference/eras.yml` until the editor names them. Breyer's
   copies in -/716 of papers of 1858 to 1892 stand in `wlodzimierz` (a copy
   takes the era of what it copies: editor, 2026-10-14). Michalina died on
-  19 January 1851, Włodzimierz on 20 December 1879; his nephew Władysław
+  19 January 1851, Włodzimierz on 18 December 1879 (the 20th of 2026-10-15
+  corrected 2026-11-12: it was the death notice's issue date); his nephew Władysław
   Miączyński became heir (editor, 2026-10-15). The years after 1879 have no
   era and no document yet.
 

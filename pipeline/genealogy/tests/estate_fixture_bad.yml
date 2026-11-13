@@ -1,0 +1,31 @@
+tree: {start: T099}
+sources:
+  db: {title: "A database", kind: database}
+  nokind: {title: "x", kind: weird, url: "/with space/x"}
+  notitle: {kind: web, url: "ftp://x"}
+places:
+  p1: {name: "Far", lat: 10, lon: 20, coord_source: "x"}
+  p2: {name: "Half", lat: 52.0}
+  p3: {name: "NoSrc", lat: 52.0, lon: 17.0}
+  p4: {lat: "a", lon: 17}
+people:
+  T001:
+    given: A
+    surname: B
+    sex: X
+    rule: king
+    events:
+      - {type: BIRT, date: "ABT 1600?", place: nowhere, cite: [{source: db, page: x}]}
+      - {type: DEAT, date: "ok. 1650", cite: [{source: ghost}]}
+      - {type: BURI}
+      - {type: FOO, cite: [{source: db}]}
+  T002: {given: C, surname: D, sex: M, rule: holder}
+  T003:
+    surname: E
+    sex: M
+    rule: holder
+    events:
+      - {type: BIRT, date: "około 1700", cite: [{source: db, exact: true}]}
+families:
+  F001: {husb: T001, wife: T404, children: [T002, T500]}
+  F002: {husb: T001, cite: [{source: db}], marr: {date: "prawdopodobnie 1650", place: zz}}

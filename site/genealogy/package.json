@@ -6,7 +6,7 @@
   "description": "The Zelmer family database explorer, embedded in the Trabczyn archive site.",
   "scripts": {
     "dev": "node scripts/prepare.cjs && vite",
-    "build": "node scripts/prepare.cjs && vite build"
+    "build": "node scripts/prepare.cjs && vite build && node scripts/pages.cjs"
   },
   "dependencies": {
     "d3-flextree": "^2.1.2",

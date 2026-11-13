@@ -120,7 +120,7 @@ def main() -> int:
     ged_path = args.ged or cfg["inputs"]["ged"]
     gpkg_path = args.gpkg or cfg["inputs"]["gpkg"]
     cache = cfg["inputs"]["cache"]
-    out_dir = ROOT / "site" / "genealogy" / "data"
+    out_dir = ROOT / "site" / "genealogy" / "zelmer" / "data"
     report_dir = ROOT / "review" / "genealogy"
 
     print(f"[1/6] parsing {ged_path}")
@@ -226,7 +226,14 @@ def main() -> int:
             excluded_people=ex.removed_people,
             excluded_families=ex.removed_families,
             media_base=media_base, available=available,
-            media_manifest=available, avatars=avatars)
+            media_manifest=available, avatars=avatars,
+            # per-tree settings the explorer reads (site/genealogy/src)
+            meta_extra={
+                "tree": "zelmer",
+                "title": {"en": "Zelmer Family Explorer",
+                          "de": "Zelmer-Familien-Explorer",
+                          "pl": "Eksplorator rodziny Zelmer"},
+                "start": "I2867", "media": True})
         # drop stale shards from previous builds
         people_dir = out_dir / "people"
         live = {f"{x.strip('@')}.json" for x in model.people

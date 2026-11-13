@@ -37,6 +37,33 @@ export function initDB() {
   })
 }
 
+// Per-tree settings from meta.json (the Zelmer meta may lack them: the
+// fallbacks are the Zelmer values). tree: 'zelmer' | 'trabczyn'.
+export const treeId = () => db.meta?.tree || 'zelmer'
+export const treeTitle = (lang) =>
+  (db.meta?.title && (db.meta.title[lang] || db.meta.title.en)) || null
+export const startPerson = () => db.meta?.start || 'I2867'
+export const hasMedia = () => db.meta?.media !== false
+
+// The folder of the tree's own page, and the site root two levels above
+// it (/<prefix>/genealogy/<tree>/ -> /<prefix>/): computed from the
+// document URL so one build serves under any prefix.
+export const siteRoot = () => {
+  const dir = document.URL.replace(/#.*$/, '').replace(/[^/]*$/, '')
+  return new URL('../../', dir).href
+}
+
+// A url from the data: absolute (https) as is, site-relative ('/people/x/')
+// resolved against the site root, never the domain root.
+export function resolveUrl(u) {
+  if (!u) return null
+  if (/^[a-z][a-z0-9+.-]*:/i.test(u)) return u
+  if (u.startsWith('/')) return new URL(u.replace(/^\/+/, ''), siteRoot()).href
+  return new URL(u, siteRoot()).href
+}
+export const isExternal = (u) => !!u && /^[a-z][a-z0-9+.-]*:/i.test(u) &&
+  !u.startsWith(location.origin + '/')
+
 export function goto(path) {
   location.hash = '#/' + path.replace(/^\/+/, '')
 }

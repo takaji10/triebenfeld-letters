@@ -1,6 +1,7 @@
 <script>
   import { db } from '../lib/db.svelte.js'
   import { i18n } from '../lib/i18n.js'
+  import HolderMark from '../lib/HolderMark.svelte'
   import { fmtDate } from '../lib/dates.js'
 
   let { selected = null } = $props()
@@ -231,7 +232,7 @@
                   {#each rows as [id, v] (id)}
                     <tr>
                       <td class="ln">{v.sn}</td>
-                      <td><a href={'#/person/' + id}>{v.gn || v.n}</a></td>
+                      <td><a href={'#/person/' + id}>{v.gn || v.n}</a>{#if v.h}<HolderMark />{/if}</td>
                       <td class="pid">{id}</td>
                       <td class="sex">{v.sx === 'F' ? '♀' : v.sx === 'M' ? '♂' : ''}</td>
                       <td class="dates">{years(v).b}</td>
@@ -265,7 +266,7 @@
                 {#each rows as [id, v] (id)}
                   <tr>
                     <td class="ln">{v.sn}</td>
-                    <td><a href={'#/person/' + id}>{v.gn || v.n}</a></td>
+                    <td><a href={'#/person/' + id}>{v.gn || v.n}</a>{#if v.h}<HolderMark />{/if}</td>
                     <td class="pid">{id}</td>
                     <td class="sex">{v.sx === 'F' ? '♀' : v.sx === 'M' ? '♂' : ''}</td>
                     <td class="dates">{years(v).b}</td>

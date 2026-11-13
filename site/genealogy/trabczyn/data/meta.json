@@ -1,0 +1,25 @@
+{
+ "built": "13 NOV 2026",
+ "source": "reference/estate_tree.yml",
+ "media_version": "",
+ "media_base": "",
+ "counts": {
+  "people": 72,
+  "families": 25,
+  "sources": 48,
+  "media": 0,
+  "places": 11,
+  "geocoded_places": 8
+ },
+ "tree": "trabczyn",
+ "title": {
+  "en": "Owners of Trąbczyn",
+  "de": "Die Besitzer von Trąbczyn"
+ },
+ "start": "T049",
+ "media": false,
+ "holder_label": {
+  "en": "Held Trąbczyn",
+  "de": "Besitzer von Trąbczyn"
+ }
+}

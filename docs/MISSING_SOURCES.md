@@ -17,6 +17,12 @@ script, and the footnotes that cite it become links.
 
 ## Elsewhere in the project
 
+- **The act of the repurchase of Trąbczyn in 1896** by Tadeusz Miączyński
+  (the editor's report of the town history sign at Trąbczyn, 2026-11-13;
+  `reference/sources/trabczyn_history_sign_1896.md`): the mortgage book of
+  the Trąbczyn estate, the notarial act, or a press notice of the sale
+  (as Słowo carried that of 1892). Also the act of the sale of 1892
+  itself, which would give the buyer's full name.
 - **The German photomap "Bildplan 3973 Białobłoty"** (the folder "Niemieckie
   fotomapy w cięciu TK25 1939 - 1944" on J:; brought in 2026-11-06 as
   `bildplan1944` at the editor's word with its source left open): no

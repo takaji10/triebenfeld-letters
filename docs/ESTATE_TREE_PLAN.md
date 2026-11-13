@@ -6,7 +6,7 @@ sense for the context of the book ... something that reflects roughly when
 each family held the estate, so that the people included in the tree are
 relevant"; the Genealogy page split into two, the Zelmer tree and this one,
 behind a dropdown; the new tree in the same format and experience as the
-Zelmer explorer. Nothing here is built yet. Decisions marked **(editor)**
+Zelmer explorer. Built 2026-11-12 and 2026-11-13, published 2026-11-13. Decisions marked **(editor)**
 wait on the editor; the plan takes the default shown until they rule.
 
 ## 1. What goes in the tree
@@ -169,3 +169,66 @@ non-family owners out (Wielopolska pending the question above); the work
 of the morning committed on `trampczynski-family` and the tree built on the
 same branch. Added: the Zelmer tree at `/genealogy/zelmer/`, coordinates
 for the tree's places.
+
+## 8. The editor's two charts checked (2026-11-12)
+
+The editor sent two charts (the Prusimski line from Jan na Kolno to Antoni
+the Starost; Antoni to the Miączyński grandchildren), red boxes marking
+owners of Trąbczyn, and asked for them to be checked. Against the
+documents, the Teki Dworzaczka regests and Minakowska's pages:
+
+- **Jan na Kolno's children**: the sources give Sebastian, Krzysztof,
+  Ludwik, Teresa (m. Jan Otto-Trąmpczyński) and **Anna** (m. Maciej
+  Watta-Belęcki, then Jan Dobrogost Brudzewski; childless; the decree of
+  1784). The chart's **Konstancja (b. ~1680, d. 1726)** has no source: the
+  only Konstancjas are Krzysztof's daughter (m. Jan Wierusz-Kowalski) and
+  Konstancja Krusińska, Teresa Golińska's mother. **Ludwik** (d. before
+  23 July 1708) is missing from the chart. Anna's "d. 1707" is the
+  database's "1707/", which marks a date she was alive, not her death.
+- **Sebastian should be red**: Trąbczyn fell to him in the division of 1700
+  and he sold it to his elder brother Krzysztof in 1720 (regest c10).
+- **Krzysztof's children**: add **Bogumił** (d. childless before 1738,
+  the citation of 1782); Wiktoria married three times (Wysocki,
+  Odechowski, Tworowicz). **Stefan "b. ~1670"** cannot be (his father was
+  born about 1680 on the same chart); no source dates his birth.
+- **Who held Trąbczyn after 1720**: Krzysztof; then his sons together
+  until the division of 1740, in which **Paweł** took the scheda with
+  Trąbczyn (Antoni the elder took Wierzbno, Brzezno and Szetlewko, Stefan
+  Kolno and Kamionna); Paweł's widow **Katarzyna** held it for life from
+  1754; the Starost **Antoni** was heir by 1766. So Antoni the elder and
+  Stefan held only as co-heirs before 1740.
+- **Marianna Dąmbska's death**: dead before the Venice dispatch of 14
+  December 1796 (I. HA GR Rep. 7 C Nr. 1414, doc. 2): the first chart's
+  "~1804" is wrong, the second's "~1796" right as a bound.
+- **Józef Dąmbski "b. ~1790, d. 1809"**: the database's "około 1790" is
+  an estimate (impossible for a man married in the 1790s), and 1809 is
+  the death year of his **father** Stanisław Dąmbski; the PSB has Józef
+  dying in 1798.
+- **Bronisława Kalkstein "b. 1810, d. 1869"** repeats her husband
+  Aleksander's years; she lived 1825-1858.
+- **Klementyna "Glyńska"** is Glińska (1826-1895).
+- **Tadeusz Miączyński (1857-1923) in red**: right. The editor reported
+  on 2026-11-13 that the town history sign at Trąbczyn has him buying the
+  estate back in 1896; Breyer's notes (1936) have "Graf Miączyński" owning
+  it about 1911. Entered as a holder; the act of 1896 is still to be found.
+- **Stanisław Adam Miączyński in red**: the documents make Michalina the
+  owner (1807, 1827, 1846); the judgment of 1827 has him co-lord with her,
+  and his legitimation of 1838 calls him "dziedzic dóbr Trąbczyn". Kept
+  as a holder.
+
+**The owner mark** (the editor asked whether to keep it): kept, and made
+consistent by deriving it from the data. Every person whose `rule` is
+`holder` in `reference/estate_tree.yml` carries the mark in the explorer,
+with a legend. A holder is anyone the sources show holding Trąbczyn or a
+share of it: heirs and co-heirs, buyers, and widows holding it for life
+(Anna z Słończyc 1644, Katarzyna Rozdrażewska 1754). The Zelmer tree has
+no holders and shows no mark.
+
+**Remarriages** (the editor: "is there a standardised way of showing
+this?"): the standard of genealogical charts, as the editor's second chart
+draws it: the person once, each spouse beside them in marriage order (two:
+first on the left, second on the right; three or more: in order to the
+right, the marriage lines numbered), each marriage's children hanging from
+that couple's own line. The Zelmer tree has 43 people with children by two
+or more marriages and 20 married three times or more; the explorer drew
+all children under one spouse until 2026-11-12.

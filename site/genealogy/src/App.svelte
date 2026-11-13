@@ -1,5 +1,5 @@
 <script>
-  import { initDB, db, goto } from './lib/db.svelte.js'
+  import { initDB, db, goto, treeId, treeTitle, startPerson, siteRoot } from './lib/db.svelte.js'
   import { i18n } from './lib/i18n.js'
   import Home from './routes/Home.svelte'
   import Person from './routes/Person.svelte'
@@ -34,25 +34,23 @@
   addEventListener('hashchange', () => { route = parse(location.hash) })
   i18n.subscribe(() => { tick++ })
 
-  $effect(() => { document.title = i18n.t('app') + ' · Trąbczyn Archive' })
+  $effect(() => { tick; document.title = appTitle() + ' · Trąbczyn Archive' })
+
+  const appTitle = () => treeTitle(i18n.lang) || (db.meta ? i18n.t('app') : '')
+  // the other tree, one folder over
+  const otherTree = $derived(treeId() === 'trabczyn'
+    ? ['../zelmer/', 'tree_zelmer'] : ['../trabczyn/', 'tree_estate'])
 
   const tabs = [
     ['home', 'nav_home'], ['tree', 'nav_tree'], ['surnames', 'nav_surnames'],
     ['places', 'nav_places'],
   ]
 
-  // the start person: the oldest-known Zelmer, where the big family
-  // tree begins (the editor's ruling, 2026-11-06)
-  const START_PERSON = 'I2867'
-
-  // back to the archive: two levels up from the app's own directory -
-  // /<repo>/genealogy/ -> /<repo>/ - computed from the document URL so
-  // the same build serves under any prefix (an absolute path here was
-  // the very first bug this explorer had)
-  const siteHome = (() => {
-    const dir = document.URL.replace(/#.*$/, '').replace(/[^/]*$/, '')
-    return new URL('../', dir).href
-  })()
+  // the start person (meta.start; the oldest-known Zelmer by default, the
+  // editor's ruling, 2026-11-06) and the way back to the archive: two
+  // levels up from the tree's own page, /<prefix>/genealogy/<tree>/ ->
+  // /<prefix>/ (db.svelte.js siteRoot)
+  const siteHome = siteRoot()
 
   function activeTab() {
     const p = route.parts[0] || 'home'
@@ -66,11 +64,12 @@
 
 {#key tick}
 <header>
-  <a class="brand" href="#/home"><h1>{i18n.t('app')}</h1></a>
+  <a class="brand" href="#/home"><h1>{appTitle()}</h1></a>
   <nav>
     {#each tabs as [key, label]}
       <a href={'#/' + key} class:active={activeTab() === key}>{i18n.t(label)}</a>
     {/each}
+    <a class="other" href={otherTree[0]}>{i18n.t(otherTree[1])}</a>
     <a class="home" href={siteHome}>{i18n.t('back_to_site')}</a>
   </nav>
   <select class="lang" value={i18n.lang}
@@ -106,7 +105,7 @@
   {:else if route.parts[0] === 'map'}
     <Map />
   {:else if route.parts[0] === 'tree'}
-    <Tree id={route.parts[1] || START_PERSON}
+    <Tree id={route.parts[1] || startPerson()}
           mode={route.parts[1] ? (route.q.get('mode') || 'hourglass') : 'big'} />
   {:else if route.parts[0] === 'place'}
     <Place name={decodeURIComponent(route.parts[1] || '')} />
@@ -123,6 +122,7 @@
     padding: .55rem 1rem; }
   .brand h1 { font-size: 1.02rem; margin: 0; }
   .brand { color: inherit; }
+  nav a.other { color: var(--soft); font-style: italic; margin-left: auto; }
   nav a.home { color: var(--accent); font-weight: 600; }
   nav { display: flex; gap: .8rem; flex: 1; }
   nav a { font-size: .86rem; color: var(--soft); padding: .15rem .2rem;

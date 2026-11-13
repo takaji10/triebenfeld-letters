@@ -2080,6 +2080,18 @@ person:
     - key: c02
       en: Przodkowie
       de: Przodkowie
+  - work: tekidworzaczka
+    cite: Teki Dworzaczka
+    pages:
+    - key: c07
+      en: Nr. 68 (1673)
+      de: Nr. 68 (1673)
+    - key: c08
+      en: Nr. 309 (1706, 8831)
+      de: Nr. 309 (1706, 8831)
+    - key: c10
+      en: Nr. 1176 (1720)
+      de: Nr. 1176 (1720)
   prusimski-pawel:
   - work: breyer1935gaue
     cite: Breyer (1935a)
@@ -2535,6 +2547,9 @@ person:
     - key: c04
       en: Nr. 1123 IV (1692)
       de: Nr. 1123 IV (1692)
+    - key: c09
+      en: Nr. 309 (1706, 8836)
+      de: Nr. 309 (1706, 8836)
   triebenfeld:
   - work: held1801
     cite: Held (1801)
@@ -3449,6 +3464,18 @@ place:
     - key: c04
       en: Nr. 1123 IV (1692)
       de: Nr. 1123 IV (1692)
+    - key: c05
+      en: Nr. 182A (1658)
+      de: Nr. 182A (1658)
+    - key: c07
+      en: Nr. 68 (1673)
+      de: Nr. 68 (1673)
+    - key: c08
+      en: Nr. 309 (1706, 8831)
+      de: Nr. 309 (1706, 8831)
+    - key: c10
+      en: Nr. 1176 (1720)
+      de: Nr. 1176 (1720)
   kopojno:
   - work: kneifel1937
     cite: Kneifel (1937)
@@ -3968,6 +3995,9 @@ place:
     - key: c03
       en: Nr. 1425 (1663)
       de: Nr. 1425 (1663)
+    - key: c10
+      en: Nr. 1176 (1720)
+      de: Nr. 1176 (1720)
   polajewo:
   - work: held1801
     cite: Held (1801)
@@ -4443,6 +4473,12 @@ place:
     - key: '174'
       en: p. 174
       de: S. 174
+  - work: tekidworzaczka
+    cite: Teki Dworzaczka
+    pages:
+    - key: c10
+      en: Nr. 1176 (1720)
+      de: Nr. 1176 (1720)
   swiechocin:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -4754,6 +4790,9 @@ place:
     - key: c03
       en: Nr. 1425 (1663)
       de: Nr. 1425 (1663)
+    - key: c10
+      en: Nr. 1176 (1720)
+      de: Nr. 1176 (1720)
   wieniec:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)

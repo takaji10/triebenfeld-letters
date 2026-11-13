@@ -23,6 +23,20 @@ the diff, and `index.html`, `excluded.html`, `privacy.html`,
 `build_report.html` for reading - the HTML pages are the ones to review,
 the text files the ones to compare between builds.
 
+## Where it is served
+
+The explorer is one Svelte app (`site/genealogy/src`, built with
+`cd site/genealogy && npm run build`) serving two trees, each on its own
+page next to its data: `/genealogy/zelmer/` (data in
+`site/genealogy/zelmer/data/`, written by `build.py`) and
+`/genealogy/trabczyn/` (`site/genealogy/trabczyn/data/`, written by
+`build_estate.py`). `scripts/pages.cjs` makes both `index.html` from the
+one built shell (assets URLs `./assets/` -> `../assets/`), and
+`/genealogy/` is a chooser page (`chooser.html`) that forwards an old
+`#/person/...` link to `zelmer/`. The app reads title, start person and
+media from each tree's `meta.json`; the layout battery runs on either
+(`node check_tree_layout.mjs [zelmer|trabczyn]`).
+
 ## The files
 
     config.yml        inputs, the exclusion roots, the privacy age limit

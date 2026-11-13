@@ -64,7 +64,7 @@
   // the badge's centre within its card block: right-aligned to the
   // block's right edge, on its own line below the card
   function badgeCX(n) {
-    return (n.w > 1 ? CELL + CARD_W : CARD_W) - 38 + 18
+    return (n.w - 1) * CELL + CARD_W - 38 + 18
   }
   const W = $derived(chart ? chart.width : 800)
   const H = $derived(chart ? chart.height : 400)
@@ -238,7 +238,7 @@
   // is) - the panel renders in chart coordinates
   const openNode = $derived.by(() => {
     if (!openCard || !chart) return null
-    return chart.nodes.find(x => x.id === openCard || x.spouse === openCard)
+    return chart.nodes.find(x => x.cards.includes(openCard))
       || null
   })
 
@@ -253,11 +253,11 @@
 
   function centreOnCard(pid) {
     if (!chart) return
-    const n = chart.nodes.find(x => x.id === pid || x.spouse === pid)
+    const n = chart.nodes.find(x => x.cards.includes(pid))
     if (!n) return
-    // the block centre of the card that was clicked (the spouse card's
-    // centre when the spouse was clicked)
-    const left = n.spouse === pid ? n.x + CELL : n.x
+    // the centre of the card that was clicked (a spouse's card when the
+    // spouse was clicked)
+    const left = n.x + n.cards.indexOf(pid) * CELL
     centreOn(chart.baseX + left + CARD_W / 2,
              chart.baseY + n.y + CARD_H / 2)
   }
@@ -405,59 +405,67 @@
           {#each chart.splices as s (s.id + (s.y < 0 ? '@u' : '@d'))}
             <g style:transform={`translate(${s.x}px, ${s.y}px)`}
                class="spl">
-              <line x2={CELL - CARD_W} stroke="var(--rule)"
+              <path d={s.d} fill="none" stroke="var(--rule)"
                     stroke-width="1.5" />
+              {#if s.ord}
+                <text x={s.lx} y={s.ly} text-anchor="middle"
+                      class="ord">{s.ord}</text>
+              {/if}
             </g>
           {/each}
-          {#each chart.nodes as n (n.id + (n.y < 0 ? '@u' : '@d'))}
-            {@const v = db.index[n.id]}
+          {#snippet pcard(pid, isFocus)}
+            {@const v = db.index[pid]}
             {@const avatar = v?.pt && db.meta?.media_base
               ? db.meta.media_base + v.pt : null}
-            <!-- keyed by the person (row letters distinguish the two
-                 hourglass halves), positioned by a transitioning
-                 transform: the cards glide to their new places when a
-                 branch opens, and a card that appears with the branch
-                 fades in over the same beat instead of materialising
-                 instantly (the editor, 2026-11-07) -->
-            <g class="node" class:living={v?.L}
-               data-pid={n.id}
-               class:open={openCard === n.id}
-               in:fade={{ duration: ANIM_MS }}
-               out:fade={{ duration: ANIM_MS }}
-               style:transform={`translate(${n.x}px, ${n.y}px)`}>
+            {@const lines = nameLines(v?.n || pid)}
+            <g class="pc" class:living={v?.L} class:holder={v?.h}
+               class:open={openCard === pid} data-pid={pid}>
               <rect width={CARD_W} height={CARD_H} rx="4"
-                    stroke={n.focus || openCard === n.id ? 'var(--accent)'
+                    stroke={isFocus || openCard === pid ? 'var(--accent)'
                       : v?.sx === 'F' ? '#9c5470'
                       : v?.sx === 'M' ? '#46618a' : 'var(--rule)'}
-                    stroke-width={n.focus || openCard === n.id ? 2 : 1} fill="var(--card)" />
+                    stroke-width={isFocus || openCard === pid ? 2 : 1} fill="var(--card)" />
+              {#if v?.h}
+                <!-- the owner mark: a quiet accent outline and a small
+                     key in the corner -->
+                <rect x="-2" y="-2" width={CARD_W + 4} height={CARD_H + 4}
+                      rx="6" fill="none" stroke="var(--accent)"
+                      stroke-width="2" class="hmark" />
+                <g class="hkey" transform="translate({CARD_W - 17},3)">
+                  <title>{db.meta?.holder_label?.[i18n.lang] || db.meta?.holder_label?.en || ''}</title>
+                  <circle cx="4" cy="4" r="3" fill="none" stroke="var(--accent)" stroke-width="1.4" />
+                  <path d="M 6.2 6.2 L 12 12 M 9.5 9.5 L 11.5 7.5 M 11 11 L 13 9"
+                        fill="none" stroke="var(--accent)" stroke-width="1.4" />
+                </g>
+              {/if}
               {#if avatar}
-                <clipPath id="av-{n.id}">
+                <clipPath id="av-{pid}">
                   <circle cx="21" cy="21" r="13" />
                 </clipPath>
                 <image href={avatar} x="8" y="8" width="26" height="26"
                        preserveAspectRatio="xMidYMid slice"
-                       clip-path="url(#av-{n.id})" />
+                       clip-path="url(#av-{pid})" />
                 <circle cx="21" cy="21" r="13" fill="none"
                         stroke="var(--rule)" />
               {:else}
-                {@render silhouette(21, 21, 13, n.id)}
+                {@render silhouette(21, 21, 13, pid)}
               {/if}
-              {#if nameLines(v?.n || n.id).length === 2}
+              {#if lines.length === 2}
                 <text x="42" y="14" text-anchor="start" class="nm"
-                      textLength={nameLines(v?.n || n.id)[0].length > 18 ? NAME_W : undefined}
+                      textLength={lines[0].length > 18 ? NAME_W : undefined}
                       lengthAdjust="spacingAndGlyphs">
-                  {nameLines(v?.n || n.id)[0]}
+                  {lines[0]}
                 </text>
                 <text x="42" y="27" text-anchor="start" class="nm"
-                      textLength={nameLines(v?.n || n.id)[1].length > 18 ? NAME_W : undefined}
+                      textLength={lines[1].length > 18 ? NAME_W : undefined}
                       lengthAdjust="spacingAndGlyphs">
-                  {nameLines(v?.n || n.id)[1]}
+                  {lines[1]}
                 </text>
               {:else}
                 <text x="42" y="21" text-anchor="start" class="nm"
-                      textLength={nameLines(v?.n || n.id)[0].length > 18 ? NAME_W : undefined}
+                      textLength={lines[0].length > 18 ? NAME_W : undefined}
                       lengthAdjust="spacingAndGlyphs">
-                  {nameLines(v?.n || n.id)[0]}
+                  {lines[0]}
                 </text>
               {/if}
               <text x="42" y="40" text-anchor="start" class="yrs">
@@ -465,18 +473,38 @@
                   : (v?.b || v?.d ? `${v?.b ?? ''}–${v?.d ?? ''}` : '')}
               </text>
               <text x="42" y="52" text-anchor="start" class="pid">
-                {n.id}
+                {pid}
               </text>
               <rect width={CARD_W} height={CARD_H} fill="transparent"
                     class="hit" />
+            </g>
+          {/snippet}
+          {#each chart.nodes as n (n.id + (n.y < 0 ? '@u' : '@d'))}
+            <!-- keyed by the person (row letters distinguish the two
+                 hourglass halves), positioned by a transitioning
+                 transform: the cards glide to their new places when a
+                 branch opens, and a card that appears with the branch
+                 fades in over the same beat instead of materialising
+                 instantly (the editor, 2026-11-07). The block's cards
+                 run left to right: the person with each marriage's
+                 spouse beside them. -->
+            <g class="node"
+               in:fade={{ duration: ANIM_MS }}
+               out:fade={{ duration: ANIM_MS }}
+               style:transform={`translate(${n.x}px, ${n.y}px)`}>
+              {#each n.cards as cid, ci (cid)}
+                <g transform="translate({ci * CELL},0)">
+                  {@render pcard(cid, cid === n.id && n.focus)}
+                </g>
+              {/each}
               {#if n.kc > 0 && !n.focus}
                 <!-- the branch badge: +n opens this person's hidden
-                     children, − closes them (one branch open at a
+                     children, - closes them (one branch open at a
                      time). Its own line below the card, right-aligned
                      to the block's right edge - over the name it was
                      in the way (the editor, 2026-11-07). Above the hit
                      rect so the press lands here. -->
-                {@const bX = (n.w > 1 ? CELL + CARD_W : CARD_W) - 38}
+                {@const bX = (n.w - 1) * CELL + CARD_W - 38}
                 <g class="badge" data-expand={n.id} role="button"
                    tabindex="-1">
                   <title>{n.on ? i18n.t('collapse_branch')
@@ -490,57 +518,6 @@
                   </text>
                 </g>
               {/if}
-              {#if n.spouse}
-                {@const sv = db.index[n.spouse]}
-                {@const sav = sv?.pt && db.meta?.media_base
-                  ? db.meta.media_base + sv.pt : null}
-                <g transform="translate({CELL},0)" data-pid={n.spouse}>
-                  <rect width={CARD_W} height={CARD_H} rx="4"
-                        stroke={sv?.sx === 'F' ? '#9c5470'
-                          : sv?.sx === 'M' ? '#46618a'
-                          : 'var(--rule)'}
-                        stroke-width="1" fill="var(--card)" />
-                  {#if sav}
-                    <clipPath id="av-{n.spouse}">
-                      <circle cx="21" cy="21" r="13" />
-                    </clipPath>
-                    <image href={sav} x="8" y="8" width="26" height="26"
-                           preserveAspectRatio="xMidYMid slice"
-                           clip-path="url(#av-{n.spouse})" />
-                    <circle cx="21" cy="21" r="13" fill="none"
-                            stroke="var(--rule)" />
-                  {:else}
-                    {@render silhouette(21, 21, 13, n.spouse)}
-                  {/if}
-                  {#if nameLines(sv?.n || n.spouse).length === 2}
-                    <text x="42" y="14" text-anchor="start" class="nm"
-                          textLength={nameLines(sv?.n || n.spouse)[0].length > 18 ? NAME_W : undefined}
-                          lengthAdjust="spacingAndGlyphs">
-                      {nameLines(sv?.n || n.spouse)[0]}
-                    </text>
-                    <text x="42" y="27" text-anchor="start" class="nm"
-                          textLength={nameLines(sv?.n || n.spouse)[1].length > 18 ? NAME_W : undefined}
-                          lengthAdjust="spacingAndGlyphs">
-                      {nameLines(sv?.n || n.spouse)[1]}
-                    </text>
-                  {:else}
-                    <text x="42" y="21" text-anchor="start" class="nm"
-                          textLength={nameLines(sv?.n || n.spouse)[0].length > 18 ? NAME_W : undefined}
-                          lengthAdjust="spacingAndGlyphs">
-                      {nameLines(sv?.n || n.spouse)[0]}
-                    </text>
-                  {/if}
-                  <text x="42" y="40" text-anchor="start" class="yrs">
-                    {sv?.L ? i18n.t('living')
-                      : (sv?.b || sv?.d ? `${sv?.b ?? ''}–${sv?.d ?? ''}` : '')}
-                  </text>
-                  <text x="42" y="52" text-anchor="start" class="pid">
-                    {n.spouse}
-                  </text>
-                  <rect width={CARD_W} height={CARD_H} fill="transparent"
-                        class="hit" />
-                </g>
-              {/if}
             </g>
           {/each}
         </g>
@@ -548,9 +525,8 @@
     </svg>
     {#if openNode}
       {@const on = openNode}
-      {@const isSpouse = on.spouse === openCard}
       {@const dv = db.index[openCard]}
-      {@const px = isSpouse ? on.x + CELL : on.x}
+      {@const px = on.x + on.cards.indexOf(openCard) * CELL}
       <!-- the expanded card, rendered inside the chart: it pans and
            zooms with everything else, the way the editor asked -->
       <!-- the expanded card, rendered inside the chart: it pans and
@@ -601,6 +577,10 @@
     {/if}
   </div>
   <p class="hint">{i18n.t('tree_hint')}</p>
+  {#if db.meta?.holder_label}
+    <p class="legend"><svg width="30" height="20" viewBox="-3 -3 30 20" aria-hidden="true"><rect x="0" y="0" width="24" height="14" rx="3" fill="var(--card)" stroke="var(--accent)" stroke-width="2" /></svg>
+      {db.meta.holder_label[i18n.lang] || db.meta.holder_label.en}</p>
+  {/if}
   </div>
 {/if}
 
@@ -642,7 +622,9 @@
     fill: var(--faint); }
   .btxt { font-size: 9px; font-weight: 600; pointer-events: none; }
   .badge { cursor: pointer; }
-  .node.living rect { stroke-dasharray: 3 2; }
+  .pc.living > rect { stroke-dasharray: 3 2; }
+  .ord { font-size: 9px; font-weight: 600; fill: var(--accent); }
+  .hmark, .hkey { pointer-events: none; }
   /* the expansion animation: cards, marriage lines, links and the open
      panel glide to their new places over the shared slow beat - the
      editor asked to see what happens when a branch opens, and asked
@@ -664,6 +646,8 @@
   svg { display: block; overflow: visible; }
   .node .hit { cursor: pointer; }
   .che { font-size: 12px; }
+  .legend { font-size: .74rem; color: var(--soft); margin: .25rem 0 0;
+    display: flex; align-items: center; gap: .35rem; }
   .hint { font-size: .74rem; color: var(--faint); margin: .3rem 0 0; }
   /* the expanded card, inside the chart: it pans and zooms with the
      tree; foreignObject carries the HTML */

@@ -3835,3 +3835,55 @@ styling**, and in any include use `include.<name>` for every parameter.
   `dataset/literature/nmpol/` because `literature/nmpol` had been changed
   (2026-11-06) without a rebuild. Rebuild after any change to a work's
   original.md or english.md.
+
+## The owners' family tree (2026-11-12, afternoon)
+
+- **Minakowska's database through the editor's sign-in.** The editor signs
+  in in the browser pane; a page script fetches `/b/<ID>` with the
+  session and POSTs the bytes to a local receiver on 127.0.0.1 that writes
+  `review/minakowska/raw/<ID>.html` (gitignored - each page carries the
+  login). Pages are ISO-8859-2; a converter makes `review/minakowska/text/`
+  with every linked person's `{ID}`. This keeps the pages off the chat and
+  out of the repository. The kinship search is
+  `/s/i.php?kolig=<the page's hidden kolig>&koligtroi=<ID>&qt=<other ID>&et=S`.
+- **The database's Uwagi quote Teki Dworzaczka regests**: bring each one a
+  fact rests on into `literature/tekidworzaczka` (appended, c05...), so the
+  tree cites the regest, not the database.
+- **"s. o." again**: a sub-agent read it as "son of the late" twice (a
+  death "before 1706" for a man the regest does not call dead). Check every
+  death bound drawn from a regest against "ol.".
+- **A newspaper's issue date is not the event's date**: the edition carried
+  Włodzimierz Miączyński's death as 20 December 1879, the date of the paper
+  that printed "died on the 18th".
+- **The database's "1707/"** (a trailing slash) marks a date the person was
+  alive, not a death; the editor's chart had read it as a death.
+- **Inserting before a YAML key by replacing "
+families:
+"** drops the
+  newline unless the replacement starts with one: twice a new person landed
+  on the previous line. Write such edits as scripts that find the block
+  bounds.
+- **A colon inside an unquoted YAML value** breaks the file (`page: notice
+  printed 20 December 1879: "..."`): quote values that may hold colons.
+- **The explorer's layout battery** (`node check_tree_layout.mjs <tree>`)
+  covers remarriages since 2026-11-12; run it on both trees after any
+  change to `src/lib/tree.js`.
+
+- **A source the editor reports but the edition does not hold** (a sign, a
+  conversation) goes into `reference/sources/` with the editor's own words,
+  what the edition's sources say against it, and what is still to find; the
+  tree cites it as a source of kind `report`, and MISSING_SOURCES lists the
+  primary source still wanted (the repurchase of 1896, 2026-11-13).
+
+- **Brief a sub-agent with the plan's own rule, not a stricter paraphrase**:
+  the estate tree plan admitted a database year "without '?', 'ok.' ..."; the
+  drafting brief said "day + month + year, or month + year", and the agent
+  dropped years the database states plainly (Michalina's 1778). The editor
+  asked "why not?" (2026-11-13). Copy the rule's words into the brief.
+- **Geneteka** (geneteka.genealodzy.pl, public) indexes the parish and civil
+  registers: `index.php?op=gt&lang=pol&bdm=S|B|D&w=71wa&rid=S|B|D&search_lastname=...&from_date=...&to_date=...`
+  (71wa = Warsaw; 07mz = Mazowieckie). The row's tooltips carry the index's
+  notes (the exact date, "karta nr 67, 1810.08.17") and the Szukaj w
+  Archiwach unit of the scans; read them with a page script. It settled
+  the marriage of 1810 that two printed works put in 1809. Cite the
+  register and act, with the index named; the scans were not read.

@@ -1,5 +1,6 @@
-// Data access. Everything loads from site/genealogy/data (committed by the
-// Python build); media URLs join meta.media_base with the media repo's
+// Data access. Everything loads from the tree's own data/ folder next to its page
+// (site/genealogy/zelmer/data, site/genealogy/trabczyn/data; committed by
+// the Python builds); media URLs join meta.media_base with the media repo's
 // manifest copy. Hash-routed, so relative fetches always resolve here.
 
 const CACHE = new Map()

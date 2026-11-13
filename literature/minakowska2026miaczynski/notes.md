@@ -85,6 +85,9 @@ Marks of the page new here, kept as printed:
   carry "about 1814". The act is the stronger source and four years
   earlier. **Nothing was changed**: the bio, the identity and the
   Prusimski block keep their "about 1814" until the editor rules
+  (settled 2026-11-13: the Geneteka index has the civil act 67 of 17 August
+  1810 and the church record at St Andrew's, no. 849, of 21 August 1810;
+  the entries now say August 1810)
   (NEEDS_CONFIRMATION); the new page's marriage line carries the 1810
   date with its source and the flag beside it, so the site shows both and
   hides nothing.

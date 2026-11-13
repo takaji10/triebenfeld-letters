@@ -62,7 +62,7 @@ people:
     - name: Michalina Zofia
       dates: 1778–1851
       note: Michalina z Prusimskich Dąbska, later Miączyńska, the only child; married first Józef Dąmbski,
-        then, from about 1814, Stanisław Miączyński
+        then, from August 1810, Stanisław Miączyński
       link: prusimska
       source: minakowska2026prusimski/c03; pachonski1982/584
       children:
@@ -80,7 +80,7 @@ people:
           dates: born 1852
       - name: Włodzimierz Miączyński
         dates: 1811–1879
-        note: heir of the Trąbczyn estate; died 20 December 1879
+        note: heir of the Trąbczyn estate; died 18 December 1879
         link: miaczynski-wlodzimierz
         note_source: editor
         note_sources_en:
@@ -422,8 +422,9 @@ people:
     - name: Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz
       dates: 1778–1851
       note: Michalina z Prusimskich Dąbska, later Miączyńska, only daughter of the Starost Antoni Prusimski;
-        married in Warsaw on 17 August 1810, the date of the marriage act the page cites (Warsaw ASC Cyrkuł
-        IV, act 67 of 1810, indexed on geneteka); the letters of 1815 already name him her husband
+        married in Warsaw, civilly on 17 August 1810 (Warsaw ASC Cyrkuł IV, act 67) and in church on 21
+        August 1810 (St Andrew's, no. 849), as the Geneteka index of both registers gives it; Żychliński
+        and the PSB have 1809
       link: prusimska
       source: minakowska2026miaczynski/c03
       note_source: minakowska2026miaczynski
@@ -475,7 +476,7 @@ people:
     - name: Włodzimierz Miączyński
       dates: 1811–1879
       source: minakowska2026miaczynski/c04
-      note: heir of the Trąbczyn estate, living there in 1860; died 20 December 1879
+      note: heir of the Trąbczyn estate, living there in 1860; died 18 December 1879
       link: miaczynski-wlodzimierz
       note_source: editor
       sources_en:
@@ -598,7 +599,7 @@ people:
       note: Wojciech's son, heir of Trąbczyn
     - name: Władysław Otto-Trąmpczyński
       link: wladyslaw-otto-trampczynski
-      dates: d. before 1693
+      dates: d. 1663–1671
       note: Stanisław's son, heir of Trąbczyn
     - name: Jan Otto-Trąmpczyński
       link: jan-otto-trampczynski
@@ -883,24 +884,24 @@ people:
     standalone: true
     heading: Władysław Otto-Trąmpczyński
     heading_de: Władysław Otto-Trąmpczyński
-    life: d. before 1693
-    life_de: gest. vor 1693
-    died: before 6 October 1693
-    died_source: app53170koningr145-1
+    life: d. 1663–1671
+    life_de: gest. 1663–1671
+    died: between 1663 and 1671
+    died_source: tekidworzaczka/c03; tekidworzaczka/c06
     bio: Władysław Otto-Trąmpczyński, son of Stanisław and Anna of Słończyce, heir of Trąbczyn after his
       father. With his mother and his brothers Marcin, Wojciech and Andrzej he was cited in 1644 by Jerzy
       Chełmski of Łukom for cutting boundary marks into the trees of the Łukom forest and felling its
       timber, and condemned by default. By 1663 he held Trąbczyn, Łazy and Osiny and the mill of Drzazgi,
-      and recorded on half of them the dowry of his wife Anna Bojanowska, 15,000 złoty. He was dead before
-      6 October 1693, when his three sons divided the estate among themselves; his widow had married again,
-      into the Goliński family.
+      and recorded on half of them the dowry of his wife Anna Bojanowska, 15,000 złoty. He was dead by
+      1671, when his widow made a settlement with her second husband, Jan Goliński; in 1693 his three
+      sons divided the estate among themselves.
     bio_de: Władysław Otto-Trąmpczyński, Sohn Stanisławs und Annas aus Słończyce, Erbe von Trąbczyn nach
       seinem Vater. Mit seiner Mutter und seinen Brüdern Marcin, Wojciech und Andrzej wurde er 1644 von
       Jerzy Chełmski aus Łukom geladen, weil sie Grenzzeichen in die Bäume des Waldes von Łukom geschlagen
       und sein Holz gefällt hatten, und in Abwesenheit verurteilt. 1663 besaß er Trąbczyn, Łazy und Osiny
       und die Mühle Drzazgi und sicherte auf der Hälfte davon die Mitgift seiner Frau Anna Bojanowska,
-      15.000 Złoty. Vor dem 6. Oktober 1693 war er tot, als seine drei Söhne das Gut unter sich teilten;
-      seine Witwe hatte erneut geheiratet, in die Familie Goliński.
+      15.000 Złoty. 1671 war er tot, als seine Witwe mit ihrem zweiten Mann, Jan Goliński, einen Vertrag
+      schloss; 1693 teilten seine drei Söhne das Gut unter sich.
     parents:
     - name: Stanisław Otto-Trąmpczyński
       link: stanislaw-otto-trampczynski
@@ -922,13 +923,16 @@ people:
     marriages:
     - name: Anna née Bojanowska
       note: daughter of Mikołaj Bojanowski; his wife by 1663, when with her cousins Stefan and Samuel
-        Bojanowski she sold Baworówko and he recorded her dowry; after his death married to a Goliński,
-        and by him mother of Paweł Goliński and Apollonia Golińska; a widow again by 1698, when she and
-        her sons sold Trąbczyn
-      source: tekidworzaczka/c03; app53170koningr145-1; app5320pozgr1181-1
+        Bojanowski she sold Baworówko and he recorded her dowry; his widow by 1671, married then to Jan
+        Łoś Goliński, son of Stefan, burgrave of Konin, and by him mother of Paweł Goliński and Apollonia
+        Golińska (his daughter Teresa by Konstancja Krusińska married Krzysztof Prusimski); a widow again
+        by 1698, when she and her sons sold Trąbczyn
+      source: tekidworzaczka/c03; tekidworzaczka/c06; app53170koningr145-1; app5320pozgr1181-1
       sources_en:
       - text: Teki Dworzaczka, Nr. 1425 (1663)
         url: /literature/tekidworzaczka/#p-c03
+      - text: Teki Dworzaczka, Nr. 15 (1671)
+        url: /literature/tekidworzaczka/#p-c06
       - text: 53/17/0/-/Konin Gr.145, document 1
         url: /documents/app53170koningr145/1/
       - text: 53/20/0/-/Poznań Gr.1181, document 1
@@ -936,6 +940,8 @@ people:
       sources_de:
       - text: Teki Dworzaczka, Nr. 1425 (1663)
         url: /de/literatur/tekidworzaczka/#p-c03
+      - text: Teki Dworzaczka, Nr. 15 (1671)
+        url: /de/literatur/tekidworzaczka/#p-c06
       - text: 53/17/0/-/Konin Gr.145, Dokument 1
         url: /documents/app53170koningr145/1/
       - text: 53/20/0/-/Poznań Gr.1181, Dokument 1
@@ -943,14 +949,18 @@ people:
     children:
     - name: Andrzej
       note: divided Trąbczyn with his brothers on 6 October 1693; sold it with his brother Jan and their
-        mother in 1698
-      source: app53170koningr145-1
+        mother in 1698; married Róża née Karśnicka
+      source: app53170koningr145-1; tekidworzaczka/c09
       sources_en:
       - text: 53/17/0/-/Konin Gr.145, document 1
         url: /documents/app53170koningr145/1/
+      - text: Teki Dworzaczka, Nr. 309 (1706, 8836)
+        url: /literature/tekidworzaczka/#p-c09
       sources_de:
       - text: 53/17/0/-/Konin Gr.145, Dokument 1
         url: /documents/app53170koningr145/1/
+      - text: Teki Dworzaczka, Nr. 309 (1706, 8836)
+        url: /de/literatur/tekidworzaczka/#p-c09
     - name: Jan
       link: jan-otto-trampczynski
       source: app53170koningr145-1; tekidworzaczka/c04
@@ -986,11 +996,15 @@ people:
     - tekidworzaczka/c04
     - minakowska2026ottotrampczynski/c01
     died_sources_en:
-    - text: 53/17/0/-/Konin Gr.145, document 1
-      url: /documents/app53170koningr145/1/
+    - text: Teki Dworzaczka, Nr. 1425 (1663)
+      url: /literature/tekidworzaczka/#p-c03
+    - text: Teki Dworzaczka, Nr. 15 (1671)
+      url: /literature/tekidworzaczka/#p-c06
     died_sources_de:
-    - text: 53/17/0/-/Konin Gr.145, Dokument 1
-      url: /documents/app53170koningr145/1/
+    - text: Teki Dworzaczka, Nr. 1425 (1663)
+      url: /de/literatur/tekidworzaczka/#p-c03
+    - text: Teki Dworzaczka, Nr. 15 (1671)
+      url: /de/literatur/tekidworzaczka/#p-c06
     literature_en:
     - text: Teki Dworzaczka, Nr. 1425 (1663)
       url: /literature/tekidworzaczka/#p-c03
@@ -1076,40 +1090,65 @@ people:
     heading_de: Jan na Kolno Prusimski
     life: documented 1673–1698
     life_de: belegt 1673–1698
-    bio: Jan na Kolno Prusimski, of the Prusimski family of Kolno and Kamionna in the district of Poznań,
+    bio: 'Jan na Kolno Prusimski, of the Prusimski family of Kolno and Kamionna in the district of Poznań,
       who bought Trąbczyn from the Trąmpczyńskis in 1698 and so brought it to the family that held it
-      until Antoni Prusimski's flight in 1794. He was very probably the "Johann von Prusimski" whose inscription
-      of 1673 charged the market town of Kolno with 1,500 złoty for the parish church of Kamionna, a charge
-      the Prussian mortgage register still carried in 1801. In 1676 Wierzbno and Brzezno were made over
-      to him. His daughter Teresa married Jan Trąmpczyński in 1692, and in 1698 he bought Trąbczyn from
-      his son-in-law, the son-in-law's brother Andrzej and their mother. His sons Sebastian, Krzysztof
-      and Ludwik divided his estates between 1700 and 1708, and Kamionna and Kolno came to Krzysztof,
-      who held Trąbczyn by 1713 and was the grandfather of the Starost Antoni.
-    bio_de: Jan na Kolno Prusimski, aus der Familie Prusimski auf Kolno und Kamionna im Kreis Posen, der
-      Trąbczyn 1698 von den Trąmpczyńskis kaufte und es so an die Familie brachte, der es bis zur Flucht
-      Antoni Prusimskis 1794 gehörte. Sehr wahrscheinlich war er der „Johann von Prusimski“, dessen Inskription
-      von 1673 den Marktflecken Kolno mit 1.500 Złoty für die Pfarrkirche von Kamionna belastete, eine
-      Last, die das preußische Hypothekenbuch noch 1801 führte. 1676 wurden ihm Wierzbno und Brzezno übertragen.
-      Seine Tochter Teresa heiratete 1692 Jan Trąmpczyński, und 1698 kaufte er Trąbczyn von seinem Schwiegersohn,
+      until Antoni Prusimski''s flight in 1794. He was very probably the "Johann von Prusimski" whose
+      inscription of 1673 charged the market town of Kolno with 1,500 złoty for the parish church of Kamionna,
+      a charge the Prussian mortgage register still carried in 1801; the same year he gave a quittance
+      for the rest of his wife Teresa Gajewska''s dowry. In 1676 Wierzbno and Brzezno were made over to
+      him. His daughter Teresa married Jan Trąmpczyński in 1692, and in 1698 he bought Trąbczyn from his
+      son-in-law, the son-in-law''s brother Andrzej and their mother. His sons Sebastian, Krzysztof and
+      Ludwik divided his estates in 1700 and 1708: Trąbczyn fell to Sebastian, who in 1720 sold it, with
+      Kamionna and Kolno, to Krzysztof, the grandfather of the Starost Antoni.'
+    bio_de: 'Jan na Kolno Prusimski, aus der Familie Prusimski auf Kolno und Kamionna im Kreis Posen,
+      der Trąbczyn 1698 von den Trąmpczyńskis kaufte und es so an die Familie brachte, der es bis zur
+      Flucht Antoni Prusimskis 1794 gehörte. Sehr wahrscheinlich war er der „Johann von Prusimski“, dessen
+      Inskription von 1673 den Marktflecken Kolno mit 1.500 Złoty für die Pfarrkirche von Kamionna belastete,
+      eine Last, die das preußische Hypothekenbuch noch 1801 führte; im selben Jahr quittierte er den
+      Rest der Mitgift seiner Frau Teresa Gajewska. 1676 wurden ihm Wierzbno und Brzezno übertragen. Seine
+      Tochter Teresa heiratete 1692 Jan Trąmpczyński, und 1698 kaufte er Trąbczyn von seinem Schwiegersohn,
       dessen Bruder Andrzej und ihrer Mutter. Seine Söhne Sebastian, Krzysztof und Ludwik teilten seine
-      Güter zwischen 1700 und 1708, und Kamionna und Kolno fielen an Krzysztof, der Trąbczyn 1713 besaß
-      und der Großvater des Starosten Antoni war.
+      Güter 1700 und 1708: Trąbczyn fiel an Sebastian, der es 1720 mit Kamionna und Kolno an Krzysztof
+      verkaufte, den Großvater des Starosten Antoni.'
     parents:
     - name: Krzysztof Prusimski
-      note: the decree of 1784 names Jan, of the resignation of Wierzbno and Brzezno in 1676, as son of
-        Krzysztof
-      source: app5320pozgr1181-1
+      note: dead by 1658
+      source: tekidworzaczka/c05; tekidworzaczka/c07; app5320pozgr1181-1
       sources_en:
+      - text: Teki Dworzaczka, Nr. 182A (1658)
+        url: /literature/tekidworzaczka/#p-c05
+      - text: Teki Dworzaczka, Nr. 68 (1673)
+        url: /literature/tekidworzaczka/#p-c07
       - text: 53/20/0/-/Poznań Gr.1181, document 1
         url: /documents/app5320pozgr1181/1/
       sources_de:
+      - text: Teki Dworzaczka, Nr. 182A (1658)
+        url: /de/literatur/tekidworzaczka/#p-c05
+      - text: Teki Dworzaczka, Nr. 68 (1673)
+        url: /de/literatur/tekidworzaczka/#p-c07
       - text: 53/20/0/-/Poznań Gr.1181, Dokument 1
         url: /documents/app5320pozgr1181/1/
+    - name: Teresa née Grudzińska
+      note: dead by 1658
+      source: tekidworzaczka/c05; tekidworzaczka/c07
+      sources_en:
+      - text: Teki Dworzaczka, Nr. 182A (1658)
+        url: /literature/tekidworzaczka/#p-c05
+      - text: Teki Dworzaczka, Nr. 68 (1673)
+        url: /literature/tekidworzaczka/#p-c07
+      sources_de:
+      - text: Teki Dworzaczka, Nr. 182A (1658)
+        url: /de/literatur/tekidworzaczka/#p-c05
+      - text: Teki Dworzaczka, Nr. 68 (1673)
+        url: /de/literatur/tekidworzaczka/#p-c07
     marriages:
     - name: Teresa née Gajewska
-      note: dead by 1692
-      source: app5320pozgr1181-1; tekidworzaczka/c04; minakowska2026prusimski/c02
+      note: daughter of Wojciech Gajewski of Błociszewo, castellan of Rogoźno; her dowry of 40,000 złoty
+        paid in full by 1673; dead by 1692
+      source: tekidworzaczka/c07; app5320pozgr1181-1; tekidworzaczka/c04; minakowska2026prusimski/c02
       sources_en:
+      - text: Teki Dworzaczka, Nr. 68 (1673)
+        url: /literature/tekidworzaczka/#p-c07
       - text: 53/20/0/-/Poznań Gr.1181, document 1
         url: /documents/app5320pozgr1181/1/
       - text: Teki Dworzaczka, Nr. 1123 IV (1692)
@@ -1117,6 +1156,8 @@ people:
       - text: Minakowska (2026, Antoni Prusimski), Przodkowie
         url: /literature/minakowska2026prusimski/#p-c02
       sources_de:
+      - text: Teki Dworzaczka, Nr. 68 (1673)
+        url: /de/literatur/tekidworzaczka/#p-c07
       - text: 53/20/0/-/Poznań Gr.1181, Dokument 1
         url: /documents/app5320pozgr1181/1/
       - text: Teki Dworzaczka, Nr. 1123 IV (1692)
@@ -1125,15 +1166,23 @@ people:
         url: /de/literatur/minakowska2026prusimski/#p-c02
     children:
     - name: Sebastian
-      note: made over Kamionna and Kolno to his brother Krzysztof by the brothers' divisions of 1700 and
-        1708
-      source: app5320pozgr1181-1
+      note: held Trąbczyn from the brothers' division of 1700 until 1720, when he sold it, with Kamionna
+        and Kolno, to his elder brother Krzysztof; married Zofia née Gurowska
+      source: tekidworzaczka/c10; app5320pozgr1181-1; tekidworzaczka/c08
       sources_en:
+      - text: Teki Dworzaczka, Nr. 1176 (1720)
+        url: /literature/tekidworzaczka/#p-c10
       - text: 53/20/0/-/Poznań Gr.1181, document 1
         url: /documents/app5320pozgr1181/1/
+      - text: Teki Dworzaczka, Nr. 309 (1706, 8831)
+        url: /literature/tekidworzaczka/#p-c08
       sources_de:
+      - text: Teki Dworzaczka, Nr. 1176 (1720)
+        url: /de/literatur/tekidworzaczka/#p-c10
       - text: 53/20/0/-/Poznań Gr.1181, Dokument 1
         url: /documents/app5320pozgr1181/1/
+      - text: Teki Dworzaczka, Nr. 309 (1706, 8831)
+        url: /de/literatur/tekidworzaczka/#p-c08
     - name: Krzysztof
       link: prusimski-krzysztof
       source: app5320pozgr1181-1; minakowska2026prusimski/c02
@@ -1165,17 +1214,42 @@ people:
       sources_de:
       - text: Teki Dworzaczka, Nr. 1123 IV (1692)
         url: /de/literatur/tekidworzaczka/#p-c04
+    - name: Anna
+      note: married first Maciej Belęcki, then Jan Brudzewski; died childless, her inheritance falling
+        to her brothers
+      source: app5320pozgr1181-1
+      sources_en:
+      - text: 53/20/0/-/Poznań Gr.1181, document 1
+        url: /documents/app5320pozgr1181/1/
+      sources_de:
+      - text: 53/20/0/-/Poznań Gr.1181, Dokument 1
+        url: /documents/app5320pozgr1181/1/
     literature_passages:
     - tekidworzaczka/c04
+    - tekidworzaczka/c05
+    - tekidworzaczka/c07
+    - tekidworzaczka/c10
     - minakowska2026prusimski/c02
     literature_en:
     - text: Teki Dworzaczka, Nr. 1123 IV (1692)
       url: /literature/tekidworzaczka/#p-c04
+    - text: Teki Dworzaczka, Nr. 182A (1658)
+      url: /literature/tekidworzaczka/#p-c05
+    - text: Teki Dworzaczka, Nr. 68 (1673)
+      url: /literature/tekidworzaczka/#p-c07
+    - text: Teki Dworzaczka, Nr. 1176 (1720)
+      url: /literature/tekidworzaczka/#p-c10
     - text: Minakowska (2026, Antoni Prusimski), Przodkowie
       url: /literature/minakowska2026prusimski/#p-c02
     literature_de:
     - text: Teki Dworzaczka, Nr. 1123 IV (1692)
       url: /de/literatur/tekidworzaczka/#p-c04
+    - text: Teki Dworzaczka, Nr. 182A (1658)
+      url: /de/literatur/tekidworzaczka/#p-c05
+    - text: Teki Dworzaczka, Nr. 68 (1673)
+      url: /de/literatur/tekidworzaczka/#p-c07
+    - text: Teki Dworzaczka, Nr. 1176 (1720)
+      url: /de/literatur/tekidworzaczka/#p-c10
     - text: Minakowska (2026, Antoni Prusimski), Przodkowie
       url: /de/literatur/minakowska2026prusimski/#p-c02
   prusimski-krzysztof:
@@ -1207,8 +1281,9 @@ people:
         url: /de/literatur/minakowska2026prusimski/#p-c02
     marriages:
     - name: Teresa née Golińska
-      note: daughter of Jan Łoś Goliński, burgrave of Konin, and Konstancja née Krusińska; she brought
-        Oporowo, Prusinowo and Szetlewek to the family
+      note: daughter of Jan Łoś Goliński, burgrave of Konin, and Konstancja née Krusińska, and so a stepdaughter
+        of Anna Bojanowska, widow of Władysław Otto-Trąmpczyński; she brought Oporowo, Prusinowo and Szetlewek
+        to the family
       source: app5320pozgr1181-1; app53170koningr118-23
       sources_en:
       - text: 53/20/0/-/Poznań Gr.1181, document 1
@@ -1283,7 +1358,7 @@ people:
       - text: 53/17/0/-/Konin Gr.118, Dokument 23
         url: /documents/app53170koningr118/23/
     - name: Wiktoria
-      note: married first a Wysocki, then Michał Tworowicz
+      note: married first a Wysocki, then a Tworowicz, and an Odechowski
       source: app53170koningr118-23
       sources_en:
       - text: 53/17/0/-/Konin Gr.118, document 23

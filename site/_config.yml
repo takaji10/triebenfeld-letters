@@ -134,6 +134,8 @@ exclude:
   - genealogy/src
   - genealogy/scripts
   - genealogy/shell.html
+  - genealogy/chooser.html
+  - genealogy/check_tree_layout.mjs
   - genealogy/package.json
   - genealogy/package-lock.json
   - genealogy/vite.config.js

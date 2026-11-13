@@ -67,8 +67,14 @@ is needed"; Tesseract may be used.
 - **The buyer's name.** The press names the buyer "hr. Władysławowa
   Wielopolska" — by her husband's name (the wife of a Władysław
   Wielopolski) — where the era's ownership line has "Countess Maria
-  Wielopolska". If Maria is the wife the married form points to, the two
-  name one woman. Open (NEEDS_CONFIRMATION, "The newspapers").
+  Wielopolska". They name one woman (the editor, 2026-11-12): **Maria hr.
+  Plater-Zyberk** (1857-1909), married at Warsaw, St Alexander's, on 12
+  February 1885 (act 55/1885) to **Władysław hr. Wielopolski** (1860-1928),
+  later president of the Żyrardów works - the one couple in Minakowska's
+  database that fits both forms (lu.22334, lu.22335). No family link to the
+  Miączyńskis, Prusimskis or Dąmbskis was found: the database's shortest
+  line between her and Władysław Miączyński is a remote chain of marriages
+  (NEEDS_CONFIRMATION, "The Wielopolski question").
 - **The servitude buy-out of 1892.** The era's account has the Łazińsk
   colony's rights in the forest Studzianka given up in 1892 for 393 Morgen
   of manor land. This notice shows the ownership changing hands in the
@@ -86,9 +92,8 @@ is needed"; Tesseract may be used.
 ## Open
 
 - The spot sheet's five rulings (2026-10-22, above) — all worked in.
-- The buyer's name: whether "Władysławowa Wielopolska" of the press and
-  "Countess Maria Wielopolska" of the era's ownership line name one woman
-  (NEEDS_CONFIRMATION, "The newspapers").
+- The buyer's name - settled 2026-11-12 (above): Maria Wielopolska, born
+  Plater-Zyberk, wife of Władysław hr. Wielopolski.
 - Publishing at the editor's word, as always.
 
 ## Why it is here

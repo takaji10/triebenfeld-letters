@@ -1,5 +1,5 @@
 <script>
-  import { db, goto } from '../lib/db.svelte.js'
+  import { db, goto, treeId, treeTitle, startPerson, hasMedia } from '../lib/db.svelte.js'
   import { i18n } from '../lib/i18n.js'
 
   let q = $state('')
@@ -16,11 +16,15 @@
 </script>
 
 <section class="hero">
-  <h1>{i18n.t('app')}</h1>
-  <p class="lead">
-    The Zelmer family and its related lines — the database behind the
-    Trąbczyn archive edition. Living people are shown by surname only.
-  </p>
+  <h1>{treeTitle(i18n.lang) || i18n.t('app')}</h1>
+  {#if db.meta?.lead?.[i18n.lang] || db.meta?.lead?.en}
+    <p class="lead">{db.meta.lead[i18n.lang] || db.meta.lead.en}</p>
+  {:else if treeId() === 'zelmer'}
+    <p class="lead">
+      The Zelmer family and its related lines — the database behind the
+      Trąbczyn archive edition. Living people are shown by surname only.
+    </p>
+  {/if}
   <form onsubmit={(e) => { e.preventDefault(); goto('search?q=' + encodeURIComponent(q)) }}>
     <input type="search" placeholder={i18n.t('search_placeholder')} bind:value={q}>
     <button class="primary">{i18n.t('nav_search')}</button>
@@ -31,15 +35,17 @@
   <div class="counts">
     <div class="count"><b>{db.meta.counts.people.toLocaleString()}</b><span>{i18n.t('people_count')}</span></div>
     <div class="count"><b>{db.meta.counts.families.toLocaleString()}</b><span>{i18n.t('families_count')}</span></div>
-    <div class="count"><b>{db.meta.counts.media.toLocaleString()}</b><span>{i18n.t('media_count')}</span></div>
+    {#if hasMedia()}
+      <div class="count"><b>{db.meta.counts.media.toLocaleString()}</b><span>{i18n.t('media_count')}</span></div>
+    {/if}
     <div class="count"><b>{db.meta.counts.geocoded_places.toLocaleString()}</b>
       <span>{i18n.t('places_count')} · {i18n.t('geocoded_count')}</span></div>
   </div>
   <p class="stamp">{i18n.t('data_as_of')} {db.meta.built}</p>
 {/if}
 
-<a class="startree" href={'#/tree/I2867?mode=big'}>
-  ⧗ {i18n.t('nav_tree')} — {i18n.t('start_tree')}
+<a class="startree" href={'#/tree/' + startPerson() + '?mode=big'}>
+  ⧗ {i18n.t('nav_tree')} — {treeId() === 'zelmer' ? i18n.t('start_tree') : i18n.t('start_tree_generic')}
 </a>
 
 <h2>{i18n.t('nav_surnames')}</h2>

@@ -8,7 +8,9 @@
 #   python pipeline/genealogy/build.py --ged J:\Zelmer\new.ged --gpkg J:\Zelmer\new.gpkg
 #
 # or edit the defaults here. The build writes its review reports to
-# review/genealogy/ (gitignored) and its public JSON to site/genealogy/data/.
+# review/genealogy/ (gitignored) and its public JSON to site/genealogy/zelmer/data/
+# (the Zelmer tree's page is /genealogy/zelmer/; the estate tree has its own
+# build, pipeline/genealogy/build_estate.py, into site/genealogy/trabczyn/).
 
 inputs:
   ged: "J:/Zelmer/Zelmer.ged"
