@@ -1575,7 +1575,7 @@ transcription; 108 readings settled in session before the first build
       event of 1882 and the era paragraph added (agad14320139). Open: the
       remaining readings (NEEDS_CONFIRMATION); a German reader's review.
 
-## 62. APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, **not published**)
+## 62. APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, **published 2026-11-13**)
 
 - [x] The index read in two passes (rough, then two independent readers per
       page, settled by Claude); the editor's ruling: the open entries minor,
@@ -1590,5 +1590,5 @@ transcription; 108 readings settled in session before the first build
 - [ ] You: the proposed connections (NEEDS_CONFIRMATION, "APŁ
       39/98/0/-/1333", 3); the office's note on folio 88 stays as read
       unless you can read it.
-- [ ] Publish at your word.
+- [x] Published at your word (2026-11-13).
 

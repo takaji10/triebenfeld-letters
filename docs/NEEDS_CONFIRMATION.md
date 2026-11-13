@@ -2092,7 +2092,7 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
-## APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, branch `trampczynski-family`, not published)
+## APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, branch `trampczynski-family`, published 2026-11-13)
 
 Read `units/apl399801333/notes.md` first. The index's open entries are not
 asked (the editor, 2026-11-13: minor uncertainties); Osiny is settled.

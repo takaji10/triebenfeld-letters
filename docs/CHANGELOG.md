@@ -6029,7 +6029,7 @@ sources-icon.html`).
   second husband was Teresa Golińska's father; Konstancja Krusińska added
   as Teresa's mother; the person pages say so.
 
-## 2026-11-13 (late) - APŁ 39/98/0/-/1333: the spot sheet and the editor's rulings (branch `trampczynski-family`, not published)
+## 2026-11-13 (late) - APŁ 39/98/0/-/1333: the spot sheet and the editor's rulings (branch `trampczynski-family`, published 2026-11-13 with the holding)
 
 - **The spot sheet applied**: "Z najgłębszem uszanowaniem" (163), "gajć"
   (176), "na mylnem przedstawieniu czynu" (88v, the editor's own reading),

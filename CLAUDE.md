@@ -121,7 +121,7 @@ so check them.
 
 - **APŁ 39/98/0/-/1333 - the liquidation-tables file of Trąbczyn, part I**
   (slug `apl399801333`, added 2026-11-13, branch `trampczynski-family`,
-  **not published**): the file's Russian index of 145 papers (a table,
+  **published 2026-11-13**): the file's Russian index of 145 papers (a table,
   read twice by Sonnet readers and settled by Claude), the plan of
   Trąbczyn of 1865 (an image), Count Włodzimierz Miączyński's petitions of
   1865 and the Łazińsk colonists' of 1867 and 1868. The editor's

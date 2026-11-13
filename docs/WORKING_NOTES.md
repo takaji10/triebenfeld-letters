@@ -3977,3 +3977,12 @@ first and a fine pass at their word. The files are in
   matches only the noun (Słupca) the Russian adjectives of the district were
   taken in all the same (Слупецк\w*), the editor having asked for the
   index's names matched (2026-11-13).
+- **Generated data left behind by an earlier commit.** The Teki Dworzaczka's
+  `work.yml` (e72f2e6ab) and the maps register (bd48f76e3) were committed
+  without the files the build makes from them (`dataset/literature/index.json`,
+  `site/_data/literature.yml`, `site/_data/maps.yml`, `maps_list.yml`), so the
+  next session's rebuild showed them as changes it had not made. Commit the
+  regenerated files with the source edit. A session that finds such
+  changes says what they are and where they come from, keeps them out of its
+  own commit, and commits them separately at the editor's word (done
+  2026-11-13, 2025e0ff0).
