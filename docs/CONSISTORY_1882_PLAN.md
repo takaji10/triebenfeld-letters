@@ -101,6 +101,12 @@ A reconstruction is a *proposal with a witness*, never a reading.
    the surviving page is wrong and is dropped. Where a book disagrees with the
    page, the page stands and the difference is flagged.
 
+**The English, 2026-11-13 (the editor):** the translation bridges the burnt
+edges where the sense is certain - a broken word translated whole, a word from
+the other report or the form in square brackets - so that it reads; what may
+never be supplied (above) stays "[text lost]" in the English too. The
+transcription is not changed (units/agad14320139/notes.md, "English").
+
 ## 4. The witnesses, strongest first
 
 1. **The twin report.** The two reports repeat each other almost word for

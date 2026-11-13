@@ -3801,6 +3801,16 @@ styling**, and in any include use `include.<name>` for every parameter.
   re-apply it after every corpus change, then `build_db.py`.
 - **A layer the editor rules off the site stays as data** behind a unit flag
   (`show_supplied`), not deleted: the plan and `supplied.yml` remain.
+- **A burnt or damaged text's English is for reading** (the editor,
+  2026-11-13): "[text lost]" after every broken word, and broken German words
+  left half-translated, made the 1882 English hard to read. Translate a broken
+  word whole where the legible part fixes its sense; put words taken from a
+  twin text, the form or the grammar in square brackets; keep "[text lost]"
+  only for what would add a fact (figure, name, place, date, negation). The
+  transcription keeps every `[...]`. Clear the marker-check rows this raises
+  in `reference/translation_rulings.json` with the reason, and replace the
+  `l-auto-check` line in the unit's `prepared:`, which says every mark of
+  doubt survives (units/agad14320139/intake/translation/build_docs.py).
 
 ## The Trąmpczyński family pages (2026-11-12)
 

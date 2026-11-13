@@ -2146,3 +2146,11 @@ editor's answers". Still open: "[Verlangen?]" (0322_a l. 1), the stroke before
 "4 Rubel 61" (0322_a l. 18), 0318_a l. 8's "[Ho?]", "Kantor"/"Kantorat" in
 0322_b l. 22, and whether the Warsaw Superintendent Manitius is the pastor of
 Konstantynów. The supplied-text layer is ruled off the site for now.
+
+The English made readable (2026-11-13, the editor's word). Asked: two lost
+negations of document 1, page 2 (0322_a) stay "[text lost]" in the English,
+since a negation is never supplied (CONSISTORY_1882_PLAN, section 3):
+"Particular vices[?] in the congregation are [text lost]t present" (the "t"
+before "vorhanden" is on the page; the Pyzdry report and the form's usual
+answer have "nicht") and "Conversions to other confessions [text lost] take
+place" (Pyzdry: "finden nicht statt"). Should the English read "[not]" in both?

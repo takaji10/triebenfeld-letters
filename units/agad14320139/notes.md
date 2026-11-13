@@ -62,9 +62,19 @@ figures of Erdmann's.
   whose beginning and ending are both legible and whose whole word stands
   elsewhere in the four pages; the A rows are formulas whole in the other report.
 - **English.** Written by Claude in session (no paid run), `intake/translation/
-  build_docs.py` -> `doc1.yml`, `doc2.yml` -> `write_cache.py`; every `[...]`
-  is `[text lost]`, marker counts equal the German on every page. A broken word
-  is kept as written.
+  build_docs.py` -> `doc1.yml`, `doc2.yml` -> `write_cache.py`. First (2026-11-11)
+  every `[...]` was `[text lost]` and a broken word kept as written, half in
+  German ("Herrn General-Superin[text lost]", "vorzustel[text lost]"). **Rewritten
+  2026-11-13 at the editor's word** ("easier to read while still following the
+  transcription ... fill in minor pieces ... keep it light"): a broken word whose
+  sense the legible part fixes is translated whole; words from the twin report,
+  the form or the grammar in square brackets ("[To His] Reverence", "[Your
+  Reverence's] order", "[collected]", "[but]"); a lost figure, name, place, date
+  or negation stays `[text lost]` (the widows' fund roubles of 0345_a, the place
+  Boerner was sent to on 0322_a, the "not" of the vices and conversions lines of
+  0322_a, the year of the order). Marks: 104 in the German, 23 in the English;
+  the four marker-check rows are cleared in `reference/translation_rulings.json`.
+  The transcription is untouched and keeps every `[...]`.
 - **Summaries** (`intake/write_summaries.py`, both languages): written from
   what is legible; statements resting on a lost stretch left out (the "vices"
   and "conversions" lines of document 1). Claim check: `intake/claim_check.yml`.

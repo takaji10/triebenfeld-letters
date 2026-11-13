@@ -6069,3 +6069,18 @@ sources-icon.html`).
   paragraph (both languages).
 - Open: the spot sheet (seven readings), Łazińsk matching, Hohm/Холмъ,
   people, Russian place names, connections (NEEDS_CONFIRMATION).
+
+## 2026-11-13 (night) - AGAD 1/432/0/1/139: the English made readable (branch `claude/genealogy-navbar-link-order-uro98h`, not published)
+
+- At the editor's word ("easier to read while still following the
+  transcription ... keep it light"), the English of Pastor Erdmann's two
+  reports of 1882 rewritten: a word broken at the burnt edge whose sense the
+  legible part fixes is translated whole ("General Superintendent", not
+  "General-Superin[text lost]"); words from the twin report, the form or the
+  grammar in square brackets ("[To His] Reverence", "[collected]"); a lost
+  figure, name, place, date or negation stays "[text lost]". The German
+  transcription is unchanged. 104 marks in the German, 23 in the English;
+  the marker-check rows cleared in `reference/translation_rulings.json`.
+  The "How it was prepared" tab says so. Asked: whether the two lost
+  negations of 0322_a should read "[not]" (NEEDS_CONFIRMATION).
+- The Genealogy menu lists "Owners of Trąbczyn" before "The Zelmer family".
