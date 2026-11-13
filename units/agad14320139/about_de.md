@@ -1,4 +1,4 @@
-Zwei Jahresberichte für 1882 in deutscher Sprache, verwahrt im Hauptarchiv Alter Akten in Warschau (Archiwum Główne Akt Dawnych) unter den Papieren des Konsistoriums der Evangelisch-Augsburgischen Kirche in Warschau. Pastor E. Erdmann in Zagórów schrieb sie auf dem Formular, das das Konsistorium an jede Gemeinde seines Bezirks schickte: einen über die Gemeinde Zagórów, einen über ihr Filial Lissewo-Pyzdry. Die Blätter wurden aus einem Brand gerettet und sind an den Rändern verbrannt, so daß auf der ersten Seite jedes Berichts die Zeilenenden und auf der zweiten die Zeilenanfänge verloren sind. <!-- context -->
+Zwei Jahresberichte für 1882 in deutscher Sprache, verwahrt im Hauptarchiv Alter Akten in Warschau (Archiwum Główne Akt Dawnych) unter den Papieren des Konsistoriums der Evangelisch-Augsburgischen Kirche in Warschau. Pastor E. Erdmann in Zagórów schrieb sie auf dem Formular, das das Konsistorium an jede Gemeinde seines Bezirks schickte: einen über die Gemeinde Zagórów, einen über ihr Filial Lissewo-Pyzdry. <!-- context -->
 
 ### Historischer Hintergrund
 

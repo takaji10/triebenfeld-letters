@@ -175,3 +175,16 @@ before "[...]olonien", the widows' fund roubles of 0345_a. Marks: 104 before,
   (they had split sentences); five more set to `run` by hand so that the
   address and sender blocks read whole.
 
+## No word of the leaves' condition (the editor, 2026-11-13)
+
+"Remove the reference in this unit in the descriptions about burnt pages and
+whatnot; there's no need to describe the physical condition of the texts."
+Taken out: the title's "in leaves burnt at the edges", the description's and
+the introduction's sentence on the fire, the summaries' "the leaf is burnt
+...", the timeline note's and the era essay's last sentence (both languages);
+"How it was prepared" speaks of gaps and missing words, not of the burn. The
+summaries' bracketed notes on single lost words stay (they say what the text
+does not give, not what the paper looks like); "[the word before 'schools' is
+partly lost]" went, the word being supplied now. This file and the plan keep
+the account of the damage, for whoever works the text.
+

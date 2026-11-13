@@ -2125,7 +2125,7 @@ Still open:
 4. **The index's leaves for no. 75**: written 4 over 3; the petition has
    three leaves (113-115). Kept as written.
 
-## AGAD 1/432/0/1/139: Pastor Erdmann's reports of 1882 (added 2026-11-11, branch `main`, not published)
+## AGAD 1/432/0/1/139: Pastor Erdmann's reports of 1882 (added 2026-11-11, published 2026-11-13)
 
 Read `units/agad14320139/notes.md`, "Open readings", for the lines. For the
 editor, against the scans: (1) 0322_a ll. 1-2, "für [Verlangen?] noch mehr

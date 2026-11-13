@@ -3822,6 +3822,12 @@ styling**, and in any include use `include.<name>` for every parameter.
   marker-check rulings are keyed by the German's count, so they must be
   re-keyed after the text changes, and `write_cache.py` run again so the
   cache carries the new German's hash.
+- **A reader's page does not describe the physical state of a source**
+  (the editor, 2026-11-13, of the burnt 1882 reports: "there's no need to
+  describe the physical condition of the texts"). Titles, descriptions,
+  introductions, summaries, timeline notes and era essays say what the
+  documents say; burns, stains and torn edges go in the holding's `notes.md`.
+  Given for that holding; the same restraint suits any new one.
 
 ## The Trąmpczyński family pages (2026-11-12)
 

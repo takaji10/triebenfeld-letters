@@ -6099,3 +6099,13 @@ sources-icon.html`).
   `resolve_paragraphs.py`); no other corpus has such a line. Line-break and
   paragraph decisions ruled by hand for the address blocks.
 - `docs/EDITORIAL_RULES.md`: the ruling, standing for this holding.
+
+## 2026-11-13 (night, last) - AGAD 1/432/0/1/139: the burn no longer described; published (published 2026-11-13 at the editor's word)
+
+- At the editor's word, the sentences on the leaves' fire damage taken out of
+  the holding's title, description, introduction, "How it was prepared", both
+  summaries, the timeline note and the era essay (English and German); the
+  account stays in `units/agad14320139/notes.md`.
+- Published with the readable English, the bracketed completions and the
+  Genealogy menu order.
+

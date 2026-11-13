@@ -1,4 +1,4 @@
-Two annual reports for 1882 in German, kept in the Central Archives of Historical Records in Warsaw (Archiwum Główne Akt Dawnych) among the papers of the consistory of the Evangelical-Augsburg Church in Warsaw. Pastor E. Erdmann of Zagórów wrote them on the form the consistory sent to every parish of its district: one on the parish of Zagórów, one on its filial Lissewo-Pyzdry. The leaves were rescued from a fire and are burnt at the edges, so that the ends of the lines on the first page of each report, and the beginnings of the lines on the second, are lost. <!-- context -->
+Two annual reports for 1882 in German, kept in the Central Archives of Historical Records in Warsaw (Archiwum Główne Akt Dawnych) among the papers of the consistory of the Evangelical-Augsburg Church in Warsaw. Pastor E. Erdmann of Zagórów wrote them on the form the consistory sent to every parish of its district: one on the parish of Zagórów, one on its filial Lissewo-Pyzdry. <!-- context -->
 
 ### Historical background
 
