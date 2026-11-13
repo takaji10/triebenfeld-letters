@@ -149,7 +149,8 @@ def load_corpus():
 
 def _wrap(s):
     s = s.rstrip()
-    return s.endswith('¬') or (re.search(r'\w-$', s) and not s.endswith('--'))
+    return (s.endswith('¬') or (re.search(r'\w-$', s) and not s.endswith('--'))
+            or bool(re.search(r'\w-\]$', s)))   # "fo[lgen-]": corpus_pages._wrap_mark
 
 
 def _short(text, measure):

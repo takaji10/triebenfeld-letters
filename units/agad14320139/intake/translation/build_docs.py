@@ -17,7 +17,9 @@ minor pieces ... keep it light"):
     "[collected]") - the convention of G[oldbeck] (EDITORIAL_RULES).
   * What adds a fact stays "[text lost]": a figure, a name, a place, a date,
     a negation, whether a thing is present or absent, good or bad
-    (docs/CONSISTORY_1882_PLAN.md, section 3). A word-level doubt the editor
+    (docs/CONSISTORY_1882_PLAN.md, section 3), with one exception the editor
+    ruled (2026-11-13): the two negations of 0322_a, "[not]", which the
+    visible "t", the Pyzdry report and the form's answer fix. A word-level doubt the editor
     has not settled stays marked ("[uncertain: ...]", "[?]"); a letter-level
     doubt that does not change the word's sense is not carried.
 
@@ -52,7 +54,7 @@ a.) External church affairs.– The congregation of Zagórow possesses a brick-b
 
 b.) Inner church affairs.– Church spirit and church attendance satisfactory.– Baptisms are mostly performed by the pastor.– Open despisers of the Lord's Supper: none known.– The number of communicants: men 726, women 871, total 1597, [text lost]"""
 
-P_0322a = """[text lost] 45 more.– [uncertain: A demand] for still more schools [text lost] is not present, since almost every larger colony has a [text lost].– For the mission to the heathen, 10 roubles 71 kopecks were [collected] in the course of the year at the mission services, which the Pastor-Administrator sent on to Superintendent Pastor Manitius at Warsaw.– Morality and domestic life are in general very satisfactory.– Baptists, Irvingians or other sects there are none.– Particular vices[?] in the congregation are [text lost]t present. Conversions to other confessions [text lost] take place.–
+P_0322a = """[text lost] 45 more.– [uncertain: A demand] for still more schools [text lost] is not present, since almost every larger colony has a [text lost].– For the mission to the heathen, 10 roubles 71 kopecks were [collected] in the course of the year at the mission services, which the Pastor-Administrator sent on to Superintendent Pastor Manitius at Warsaw.– Morality and domestic life are in general very satisfactory.– Baptists, Irvingians or other sects there are none.– Particular vices[?] in the congregation are [not] present. Conversions to other confessions do [not] take place.–
 
 Remarkable events.– None have taken place.–
 

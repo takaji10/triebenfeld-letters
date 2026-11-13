@@ -247,3 +247,13 @@ than where it sits.
   (`zelmer`, whose `match` already grades the road); a new unit needs no
   further ruling for the name, and a wanted mention of a Zelmer that a build
   does not fetch is a defect in the entry, not in the document.
+- **A burnt text is completed in square brackets where no fact is added**
+  (the editor, 2026-11-13, AGAD 1/432/0/1/139). Words that the twin text, the
+  printed or written form, or the grammar fix are written in the
+  transcription in square brackets with no question mark, "Superin[tendenten]",
+  "[Hochwürden dem]", the G[oldbeck] convention; the English does the same.
+  A lost figure, name, place or date stays `[...]` (in the English "[text
+  lost]"). A negation was supplied there ("[nich]t vorhanden") only at the
+  editor's word, the "t" being on the page and the twin report agreeing: ask
+  before supplying another. The rule was given for that holding; ask before
+  applying it to another.

@@ -57,8 +57,9 @@ scans:
   ascii_prefix: AGAD_1_432_0_1_139
 
 # One file per page, named by page id. The transcription is Claude's, read
-# from the images (2026-11-11); lost edges are [...], nothing is completed
-# in the text (docs/CONSISTORY_1882_PLAN.md).
+# from the images (2026-11-11); lost edges are [...]. Since 2026-11-13 (the
+# editor) words that add no fact are supplied in square brackets
+# (intake/supply_text.py); a lost figure, place or date stays [...].
 transcriptions:
   dir: transcriptions
   glob: "*.txt"
@@ -78,7 +79,8 @@ description: >-
   the report on the parish of Zagórów, document 2 the report on its filial
   Lissewo-Pyzdry. The leaves were rescued from a fire and are burnt at the
   edges: on the first page of each report the ends of the lines are lost, on
-  the second the beginnings, and the lost stretches are marked [...].
+  the second the beginnings. Words the other report, the form or the grammar
+  fix are supplied in square brackets; what would add a fact stays [...].
 
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.
@@ -88,23 +90,24 @@ translation_note: >-
   Congress Kingdom of Poland (Russian partition): Gemeinde, Filial, Pastor-
   Administrator, Kirchenwesen, Kommunikanten, Confirmirte, Collekten. Sums are
   in roubles and kopecks (Rubel, Kopeken). The leaves are burnt: [...] marks
-  a stretch lost at the edge of a line. In the English (the editor,
+  a stretch lost at the edge of a line, and a word in square brackets without
+  a question mark is supplied by the edition, not read. In the English (the editor,
   2026-11-13) a word broken at the edge whose sense the legible part fixes is
   translated whole; a word taken from the other report, the form or the
-  grammar stands in square brackets; a lost figure, name, place, date or
-  negation stays "[text lost]". "Lissewo-Pyzdry" and
+  grammar stands in square brackets; a lost figure, name, place or date
+  stays "[text lost]". "Lissewo-Pyzdry" and
   "Zagorow" are the pastor's forms of Lisewo / Pyzdry and Zagórów.
 
 # What the "How it was prepared" tab says (reference/prepared.yml).
 prepared:
   transcription:
   - t-claude-scans
-  - en: A second Claude reading compared every line with the scans; where the two readings differed and the page did not decide, the word stays marked as doubtful. A stretch of text lost to the burn is marked [...] and is never completed.
-    de: Eine zweite Lesung von Claude verglich jede Zeile mit den Scans; wo die beiden Lesungen abwichen und die Seite nicht entschied, bleibt das Wort als zweifelhaft markiert. Eine durch den Brand verlorene Textstelle ist mit [...] markiert und wird nie ergänzt.
+  - en: A second Claude reading compared every line with the scans; where the two readings differed and the page did not decide, the word stays marked as doubtful. Where the burn took words that the other report, the consistory's form or the grammar fix, they are supplied in square brackets, such as "Superin[tendenten]" or "[nich]t vorhanden"; a lost figure, place or date is marked [...] and is not completed.
+    de: Eine zweite Lesung von Claude verglich jede Zeile mit den Scans; wo die beiden Lesungen abwichen und die Seite nicht entschied, bleibt das Wort als zweifelhaft markiert. Wo der Brand Wörter nahm, die der andere Bericht, das Formular des Konsistoriums oder die Grammatik festlegen, sind sie in eckigen Klammern ergänzt, etwa „Superin[tendenten]“ oder „[nich]t vorhanden“; eine verlorene Zahl, ein Ort oder Datum ist mit [...] markiert und wird nicht ergänzt.
   translation:
   - l-claude
-  - en: The burnt edges are bridged in the English only where the sense is certain. A word broken by the burn whose legible part fixes its sense is translated whole; a word taken from the other report or from the consistory's form stands in square brackets; a lost figure, name, place, date or negation is marked [text lost]. An automatic check confirms that every figure and name survives into the English.
-    de: Die verbrannten Ränder sind im Englischen nur überbrückt, wo der Sinn sicher ist. Ein vom Brand zerrissenes Wort, dessen lesbarer Teil den Sinn festlegt, ist ganz übersetzt; ein Wort aus dem anderen Bericht oder dem Formular des Konsistoriums steht in eckigen Klammern; eine verlorene Zahl, ein Name, Ort, Datum oder eine Verneinung ist als [text lost] markiert. Eine automatische Prüfung bestätigt, dass jede Zahl und jeder Name ins Englische übernommen wurde.
+  - en: The burnt edges are bridged in the English only where the sense is certain. A word broken by the burn whose legible part fixes its sense is translated whole; a word taken from the other report or from the consistory's form stands in square brackets; a lost figure, name, place or date is marked [text lost]. An automatic check confirms that every figure and name survives into the English.
+    de: Die verbrannten Ränder sind im Englischen nur überbrückt, wo der Sinn sicher ist. Ein vom Brand zerrissenes Wort, dessen lesbarer Teil den Sinn festlegt, ist ganz übersetzt; ein Wort aus dem anderen Bericht oder dem Formular des Konsistoriums steht in eckigen Klammern; eine verlorene Zahl, ein Name, Ort oder Datum ist als [text lost] markiert. Eine automatische Prüfung bestätigt, dass jede Zahl und jeder Name ins Englische übernommen wurde.
   - s-claude
 # The proposed-wording panel (supplied.yml) stays off the site (the editor, 2026-11-12:
 # one transcription, one reading, one translation).

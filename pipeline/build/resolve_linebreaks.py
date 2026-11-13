@@ -164,7 +164,7 @@ def build_vocab(letters):
             toks = WORD.findall(s)
             if not toks:
                 continue
-            if s.endswith('¬') or (re.search(r'[^\W\d_]-$', s) and not s.endswith('--')):
+            if s.endswith('¬') or (re.search(r'[^\W\d_]-$', s) and not s.endswith('--')) or re.search(r'[^\W\d_]-\]$', s):
                 toks = toks[:-1]        # last token is a fragment, not a word
             for t in toks:
                 vocab[t.lower().replace('ſ', 's')] += 1
@@ -181,7 +181,10 @@ def collect_wraps(letters):
                 s = text.rstrip()
                 if s.endswith('¬'):
                     mark = '¬'
-                elif re.search(r'[^\W\d_]-$', s) and not s.endswith('--'):
+                elif (re.search(r'[^\W\d_]-$', s) and not s.endswith('--')) \
+                        or re.search(r'[^\W\d_]-\]$', s):
+                    # the second: a hyphen supplied in brackets at a burnt
+                    # line end, "fo[lgen-]" (corpus_pages._wrap_mark)
                     mark = '-'
                 else:
                     continue
@@ -288,7 +291,7 @@ def collect_unmarked_catchwords(letters):
         for pi, page in enumerate(pages[:-1]):
             lineno, text = page[-1]
             s = text.rstrip()
-            if not s or s.endswith('¬') or (re.search(r'[^\W\d_]-$', s) and not s.endswith('--')):
+            if not s or s.endswith('¬') or (re.search(r'[^\W\d_]-$', s) and not s.endswith('--')) or re.search(r'[^\W\d_]-\]$', s):
                 continue
             nxt_lineno, nxt_text = pages[pi + 1][0]
             if len(s.strip()) > 28:

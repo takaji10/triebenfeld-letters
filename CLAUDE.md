@@ -162,8 +162,10 @@ so check them.
   documents on burnt leaves of the Warsaw Evangelical-Augsburg consistory's
   file - the annual reports of the parish of Zagórów and its filial
   Lissewo-Pyzdry, era `wlodzimierz`. Transcribed by Opus sub-agents from the
-  images, a second independent reading, settled; every lost stretch is `[...]`
-  and never completed in the text. **New: the supplied-text layer** (the
+  images, a second independent reading, settled; every lost stretch was `[...]`,
+  and since 2026-11-13 (the editor) the words that add no fact are supplied in
+  square brackets in the text and the English alike (`intake/supply_text.py`;
+  a lost figure, place or date stays `[...]`). **New: the supplied-text layer** (the
   editor's yes, 2026-11-11): `units/<slug>/supplied.yml`, a collapsed panel
   under a page's text for proposed wording graded A or B (docs/CONSISTORY_1882_PLAN.md);
   never in the transcription, translation or summaries - **ruled off the site

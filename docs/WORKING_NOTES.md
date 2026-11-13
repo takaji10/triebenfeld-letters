@@ -3811,6 +3811,17 @@ styling**, and in any include use `include.<name>` for every parameter.
   in `reference/translation_rulings.json` with the reason, and replace the
   `l-auto-check` line in the unit's `prepared:`, which says every mark of
   doubt survives (units/agad14320139/intake/translation/build_docs.py).
+- **Completing a transcription in brackets moves the line machinery**
+  (2026-11-13). A supplied hyphen goes inside the bracket, "fo[lgen-]", and
+  is a wrap only because `corpus_pages._wrap_mark`, `resolve_linebreaks` and
+  `resolve_paragraphs` now accept a line ending "-]"; the resolver still
+  scores such joins "split" (it does not know "lgenden"), so set them to
+  `join` by hand - they are then held. The paragraph step drops the breaks a
+  short burnt line used to cause, and adds wrong ones once the lines are full:
+  read the reading text of every page after the rebuild. The translation's
+  marker-check rulings are keyed by the German's count, so they must be
+  re-keyed after the text changes, and `write_cache.py` run again so the
+  cache carries the new German's hash.
 
 ## The Trąmpczyński family pages (2026-11-12)
 

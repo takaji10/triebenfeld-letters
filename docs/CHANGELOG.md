@@ -6084,3 +6084,18 @@ sources-icon.html`).
   The "How it was prepared" tab says so. Asked: whether the two lost
   negations of 0322_a should read "[not]" (NEEDS_CONFIRMATION).
 - The Genealogy menu lists "Owners of Trąbczyn" before "The Zelmer family".
+
+## 2026-11-13 (night, later) - AGAD 1/432/0/1/139: the transcription completed in brackets (same branch, not published)
+
+- At the editor's word, the German of both reports completed where no fact is
+  added: 61 lines, supplied words in square brackets ("[Sei]ner [Hochwürden
+  dem] Herrn General-Superin[tendenten]"), the A and B rows of `supplied.yml`
+  and the procedural C rows; the two negations of 0322_a "[nich]t" and
+  "[nicht]" and the English "[not]" in both (the editor). A lost figure,
+  place or date stays `[...]`; 104 marks before, 40 after
+  (`units/agad14320139/intake/supply_text.py`).
+- Pipeline: a line ending in a bracketed hyphen ("fo[lgen-]") is a wrap and
+  joins to "fo[lgen]den" (`corpus_pages.py`, `resolve_linebreaks.py`,
+  `resolve_paragraphs.py`); no other corpus has such a line. Line-break and
+  paragraph decisions ruled by hand for the address blocks.
+- `docs/EDITORIAL_RULES.md`: the ruling, standing for this holding.

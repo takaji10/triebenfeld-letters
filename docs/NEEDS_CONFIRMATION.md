@@ -2154,3 +2154,6 @@ since a negation is never supplied (CONSISTORY_1882_PLAN, section 3):
 before "vorhanden" is on the page; the Pyzdry report and the form's usual
 answer have "nicht") and "Conversions to other confessions [text lost] take
 place" (Pyzdry: "finden nicht statt"). Should the English read "[not]" in both?
+**Settled 2026-11-13:** "[not]" in both, and the transcription completed in
+square brackets the same way (units/agad14320139/notes.md, "The text
+completed").
