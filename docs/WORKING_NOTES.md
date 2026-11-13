@@ -3887,3 +3887,42 @@ families:
   Archiwach unit of the scans; read them with a page script. It settled
   the marriage of 1810 that two printed works put in 1809. Cite the
   register and act, with the index named; the scans were not read.
+
+## The index of APŁ 39/98/0/-/1333: two readers and the clerk's numbers (2026-11-13)
+
+The editor asked for the 14-page Russian index (опись) of APŁ 39/98/0/-/1333
+(liquidation tables of Trąbczyn, 1864-1870) as a spreadsheet, a rough pass
+first and a fine pass at their word. The files are in
+`review/apl399801333/` (not in the repository): `index_rough.xlsx`,
+`index_fine.xlsx`, the readings, and the scripts that rebuild them.
+
+- **What worked for the fine pass.** Each page cut into eleven overlapping
+  strips of the text columns at near-full size, and the figure columns in
+  three pieces enlarged 1.5x. Eight Sonnet sub-agents, two independent
+  readers per page **run at the same time**, each forbidden to open the
+  other's folder or the rough pass: independence without waiting for one to
+  finish. A script compares them after normalising spelling trivia (ъ, ѣ/е,
+  "65г"/"65 г"); Claude settles each difference on a montage of the strips
+  (three strips stacked per image cuts the number of image reads to a
+  third). 146 entries: 70 agreed, 59 settled, 17 left open on a "To check"
+  sheet with a picture of each entry.
+- **Two readers can agree on a wrong word.** Both read the minutes entries
+  of nos. 6-36 as "Выписка" and of 74-84 as "Протокъ"; set side by side, the
+  word is the same in all of them, its opening the "Пр" of "Прошеніе"
+  below: "Проектъ журнала засѣданія". Compare a recurring word across the
+  whole document, not entry by entry.
+- **The clerk's own numbering settles months the letters cannot.** Іюня and
+  Іюля (June/July) are indistinguishable in both hands. An office's papers
+  are numbered in sequence, so a number fixes the order: the Central
+  Commission's no. 3600 of 23 June 1869 makes no. 4386 "24 July", not June;
+  the Turek commission's 801 before 806 makes one June and the other July.
+  The same check found that "Владимірова" is the 10th-district commissar
+  Vladimirov (his no. 60 follows that district's no. 59). Look for an
+  office's number series before asking the editor about a month.
+- **Sense words the readers garble are often formulas**: "съ надписями"
+  (with endorsements), "его-же"/"ея-же" (of the same man/woman), "ликв.
+  таб." (liquidation table). Try the formula before calling a word unread.
+- **The xlsx skill's `recalc.py` does not run on this Windows machine**
+  (LibreOffice needs `socket.AF_UNIX`): a formula column (here the folio
+  check) is written and computes when Excel opens the file; check the same
+  logic in Python.
