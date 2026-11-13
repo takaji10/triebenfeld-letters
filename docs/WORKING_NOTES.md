@@ -3828,6 +3828,16 @@ styling**, and in any include use `include.<name>` for every parameter.
   introductions, summaries, timeline notes and era essays say what the
   documents say; burns, stains and torn edges go in the holding's `notes.md`.
   Given for that holding; the same restraint suits any new one.
+- **Python's `textwrap` breaks at hyphens, and a folded YAML scalar (`>-`)
+  then reads "Olędry- Kolonisten"** (2026-11-13, the homepage text in
+  `site/_data/i18n.yml`): a line break inside a `>-` block becomes a space.
+  Wrap prose for YAML with `textwrap.wrap(text, 76, break_on_hyphens=False)`,
+  and load the file back to compare the values before committing.
+- **The homepage** (`site/_includes/home.html`, text in `site/_data/i18n.yml`,
+  keys `home_lede`, `home_h2`, `home_p1`-`home_p4`) introduces the whole
+  edition to a first-time reader (the editor, 2026-11-13: it "still only
+  talk[ed] about the prince"). When a new era or section is added, check that
+  the homepage's short history still covers it.
 
 ## The Trąmpczyński family pages (2026-11-12)
 

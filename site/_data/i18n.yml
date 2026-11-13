@@ -259,32 +259,57 @@ en:
 
   # page prose
   home_lede: >-
-    Trąbczyn is a village and estate in central Poland, in the country between
-    Konin and Kalisz. This is its archive: the papers of the people who owned it,
-    sold it, settled it and went to law over it, in the original German, French
-    and Polish and in English translation. What is published so far covers the
-    eleven years a Prussian prince held the place, the nine he spent trying to
-    get it back, and the dispute over his debts on the estate, which ran on until
-    1832.
+    Trąbczyn is a village in central Poland, in the flat country between Konin
+    and Kalisz, a few kilometres from the small town of Zagórów. This is its
+    archive: the documents that show who held the land, who farmed and settled
+    it, and who went to court over it, from a duke's gift of 1173 to a
+    historian's notebooks of the 1930s, in the original Latin, Polish, German,
+    French and Russian and in English translation.
   fig_documents: documents
   fig_span: span
   fig_people: people identified
   fig_places: places of writing
   card_about: About
-  home_h2: About this project
+  home_h2: The story in brief
   home_p1: >-
-    Poland was partitioned out of existence between 1772 and 1795. Trąbczyn ended
-    up in the Prussian share, and in 1796 the King gave it away, to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, a general who ran it from Silesia and
-    needed it to pay his debts. He sent Peter Friedrich von Triebenfeld, Councillor
-    of War and Forests, to turn land into money.
+    For most of those centuries Trąbczyn was a manor: a lord's house and home
+    farm, with villages that owed him rent and labour. In the Middle Ages the
+    Cistercian abbey of Ląd held much of the land around it, and knights held
+    Trąbczyn itself. From 1589 it belonged to the Prusimski family, who spent
+    two hundred years in the courts with the Chełmskis of neighbouring Łukom
+    over where one estate ended and the other began, until the kingdom's high
+    court, the Crown Tribunal, had forty-one boundary mounds raised in 1782.
+    From the 1740s the estate's wet ground was let to Olęder colonists:
+    Protestant farmers, most of them German-speaking, who cleared and drained
+    land on long, inheritable leases.
   home_p2: >-
-    The way to do that was to break the estate up. The land the lord farmed himself was divided into holdings and let out for good, to farmers and to Hollanders: settlers
-    who held on a Dutch-derived tenure and had been clearing and draining land in
-    this part of Poland for generations. The contracts survive: what each man
-    paid, what he owed every year, and what he gave up to get it.
-  home_p3_pre: >-
-    Prussia lost the war of 1806 and the estate went with it. The letters run on for nine more years, through an arrest, thirty-one lawsuits at once and a winter at the Congress of Vienna, and end with a liquidation register listing debts of Hohenlohe-Ingelfingen of
-  home_p3_sum: 1,414,377 Reichsthaler
+    Between 1772 and 1795 Poland was partitioned out of existence by its
+    neighbours. The last Polish owner, Antoni Prusimski, joined the Kościuszko
+    uprising of 1794 against the partitioning powers, and Prussia confiscated
+    his estates. In 1796 the King of Prussia gave them to one of his generals,
+    Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, whose agent Peter
+    Friedrich von Triebenfeld broke the home farms into hereditary leases for
+    settlers to pay the Prince's debts. After Prussia's defeat by Napoleon the
+    new Duchy of Warsaw returned the estates in 1807 to Prusimski's daughter,
+    Michalina. The Prince spent nine years trying to get them back, and the
+    mortgages he had raised on the land were fought over before Prussian and
+    Polish courts and the Russian tsar until 1834.
+  home_p3: >-
+    After 1815 the region lay in the Kingdom of Poland, under the Russian tsar.
+    Michalina's son, Count Włodzimierz Miączyński, inherited the estate in 1851,
+    and with it colonists whose rights rested on contracts his family had never
+    signed; they sued him in 1859 over pasture and wood in his forest. The
+    reform of 1864 made the peasants owners of the land they farmed, and in 1892
+    the colonists gave up their last rights in the forest for land of their own.
+    By the 1930s the manor had been parcelled out. In 1935 and 1936 the
+    historian Albert Breyer visited the German villages of Łazińsk and
+    Emilienheim and wrote down what their people remembered, a few years before
+    the Second World War destroyed that world.
+  home_p4: >-
+    Beside the documents are the books and articles written about them,
+    newspaper reports from 1754 to 2015, the family trees of the owners, old
+    maps of the estate and its colonies, and a survey of the Evangelical
+    cemeteries of the area.
   people_h1: People in the documents
   places_h1: Places of writing
   timeline_h1: Timeline
@@ -683,34 +708,60 @@ de:
   summary_label: Regest
   # page prose
   home_lede: >-
-    Trąbczyn ist ein Dorf und Gut in Mittelpolen, im Land zwischen Konin und
-    Kalisch. Dies ist sein Archiv: die Akten derer, die es besaßen, verkauften,
-    besiedelten und beklagten, im deutschen, französischen und polnischen
-    Original und in englischer Übersetzung. Veröffentlicht sind bisher die elf
-    Jahre, in denen ein preußischer Fürst das Gut hielt, die neun, die er darauf
-    verwandte, es zurückzugewinnen, und der Streit um seine Schulden auf dem Gut,
-    der bis 1832 andauerte.
+    Trąbczyn ist ein Dorf in Mittelpolen, im flachen Land zwischen Konin und
+    Kalisch, wenige Kilometer von der kleinen Stadt Zagórów. Dies ist sein
+    Archiv: die Dokumente, die zeigen, wer das Land besaß, wer es bebaute und
+    besiedelte und wer darum prozessierte, von der Schenkung eines Herzogs 1173
+    bis zu den Notizbüchern eines Historikers in den 1930er Jahren, im
+    lateinischen, polnischen, deutschen, französischen und russischen Original
+    und in englischer Übersetzung.
   fig_documents: Dokumente
   fig_span: Zeitraum
   fig_people: Personen bestimmt
   fig_places: Ausstellungsorte
   card_about: Über
-  home_h2: Über dieses Projekt
+  home_h2: Die Geschichte in Kürze
   home_p1: >-
-    Polen wurde zwischen 1772 und 1795 aufgeteilt und hörte auf zu bestehen.
-    Trąbczyn fiel an Preußen, und 1796 verschenkte der König es an Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, einen General, der es von Schlesien
-    aus verwaltete und zur Tilgung seiner Schulden brauchte. Er schickte den
-    Kriegs- und Forstrat Peter Friedrich von Triebenfeld, um Land in Geld zu
-    verwandeln.
+    Die meiste Zeit war Trąbczyn ein Gut: ein Herrenhaus mit Vorwerk und
+    Dörfern, die dem Herrn Zins und Dienste schuldeten. Im Mittelalter hielt die
+    Zisterzienserabtei Ląd einen großen Teil des Landes ringsum, Ritter hielten
+    Trąbczyn selbst. Ab 1589 gehörte es der Familie Prusimski, die zweihundert
+    Jahre lang mit den Chełmski im benachbarten Łukom vor Gericht stritt, wo das
+    eine Gut endete und das andere begann, bis das oberste Gericht des
+    Königreichs, das Krontribunal, 1782 einundvierzig Grenzhügel aufschütten
+    ließ. Seit den 1740er Jahren wurde das nasse Land des Gutes an
+    Olęder-Kolonisten ausgetan: evangelische Bauern, die meisten
+    deutschsprachig, die das Land auf lange, erbliche Pacht rodeten und
+    entwässerten.
   home_p2: >-
-    Dazu musste das Gut zerschlagen werden. Das Land, das der Gutsherr selbst bewirtschaftete, wurde in Stellen geteilt und auf ewig ausgetan, an Bauern und an Holländer: Siedler, die nach
-    holländischem Recht saßen und in dieser Gegend seit Generationen Land urbar
-    machten und entwässerten. Die Verträge sind erhalten: was jeder zahlte, was er
-    jährlich schuldete und was er dafür aufgab.
-  home_p3_pre: >-
-    Preußen verlor den Krieg von 1806, und mit ihm ging das Gut. Die Briefe laufen
-    noch neun Jahre weiter, durch eine Verhaftung, einunddreißig Prozesse zugleich und einen Winter auf dem Wiener Kongress, und enden mit einem Liquidationsregister über Schulden Hohenlohe-Ingelfingens von
-  home_p3_sum: 1.414.377 Reichsthalern
+    Zwischen 1772 und 1795 teilten seine Nachbarn Polen auf, bis es nicht mehr
+    bestand. Der letzte polnische Besitzer, Antoni Prusimski, schloss sich 1794
+    dem Kościuszko-Aufstand gegen die Teilungsmächte an, und Preußen zog seine
+    Güter ein. 1796 schenkte der König von Preußen sie einem seiner Generäle,
+    Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, dessen Bevollmächtigter
+    Peter Friedrich von Triebenfeld die Vorwerke in Erbpachtstellen für Siedler
+    zerschlug, um die Schulden des Fürsten zu bezahlen. Nach Preußens Niederlage
+    gegen Napoleon gab das neue Herzogtum Warschau die Güter 1807 Prusimskis
+    Tochter Michalina zurück. Der Fürst versuchte neun Jahre lang, sie
+    zurückzugewinnen, und um die Hypotheken, die er auf das Land aufgenommen
+    hatte, wurde vor preußischen und polnischen Gerichten und beim russischen
+    Zaren bis 1834 gestritten.
+  home_p3: >-
+    Nach 1815 lag die Gegend im Königreich Polen unter dem russischen Zaren.
+    Michalinas Sohn, Graf Włodzimierz Miączyński, erbte das Gut 1851 und mit ihm
+    Kolonisten, deren Rechte auf Verträgen beruhten, die seine Familie nie
+    unterschrieben hatte; sie verklagten ihn 1859 um Weide und Holz in seinem
+    Wald. Die Reform von 1864 machte die Bauern zu Eigentümern des Landes, das
+    sie bebauten, und 1892 gaben die Kolonisten ihre letzten Rechte am Wald
+    gegen eigenes Land auf. In den 1930er Jahren war das Gut aufgeteilt. 1935
+    und 1936 besuchte der Historiker Albert Breyer die deutschen Dörfer Łazińsk
+    und Emilienheim und schrieb auf, woran sich ihre Bewohner erinnerten, wenige
+    Jahre bevor der Zweite Weltkrieg diese Welt zerstörte.
+  home_p4: >-
+    Neben den Dokumenten stehen die Bücher und Aufsätze, die über sie
+    geschrieben wurden, Zeitungsberichte von 1754 bis 2015, die Stammbäume der
+    Besitzer, alte Karten des Gutes und seiner Kolonien und eine Aufnahme der
+    evangelischen Friedhöfe der Gegend.
   people_h1: Personen in den Dokumenten
   places_h1: Ausstellungsorte
   timeline_h1: Zeitleiste

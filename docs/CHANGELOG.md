@@ -6113,3 +6113,17 @@ sources-icon.html`).
   the reading uncertain; no conversions), resting on the editor's "[not]";
   the claim check records the two statements. Published the same night.
 
+## 2026-11-13 (night) - the homepage rewritten (branch `claude/genealogy-navbar-link-order-uro98h`)
+
+- At the editor's word ("still only talk[s] about the prince ... should read as
+  if someone was encountering it for the first time"): the lede and the
+  section under it (now "The story in brief" / "Die Geschichte in Kürze") tell
+  the whole span, 1173 to the 1930s - the abbey of Ląd and the knights, the
+  Prusimskis and the Łukom boundary, the Olęder colonists, the partitions and
+  the uprising of 1794, the Hohenlohe-Ingelfingen years, Michalina's
+  restitution and the mortgage dispute to 1834, Count Włodzimierz Miączyński
+  and the colonists, the reform of 1864, Breyer in the 1930s - and name the
+  literature, newspapers, family trees, maps and cemeteries beside the
+  documents. Facts taken from the era essays (`reference/eras.yml`). The old
+  closing figure (1,414,377 Reichsthaler) dropped with its paragraph.
+
