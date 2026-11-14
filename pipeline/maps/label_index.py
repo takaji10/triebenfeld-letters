@@ -103,7 +103,11 @@ def main():
     rows = []
     left_out = []
     for key, note in ORDER:
-        if key in done:
+        # a map shown without marks (labels: []) is not finished: it stays
+        # on the list until it has marks (Trójwiorstówki 1914, 2026-11-14)
+        lab = ROOT / "maps" / key / "labels.yml"
+        marked = lab.is_file() and bool((yaml.safe_load(lab.read_text(encoding="utf-8")) or {}).get("labels"))
+        if key in done and marked:
             left_out.append(maps[key].get("cited_as") or key)
             continue
         m = maps[key]

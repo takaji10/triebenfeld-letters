@@ -96,7 +96,8 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    configuration of .claude/launch.json): a new map gets a row in its
    `ORDER`, and a map leaves the list by itself once the register on
    origin/main has `in_project: true` for it (the editor, 2026-11-14) -
-   run it after every publish that carries a map.
+   run it after every publish that carries a map. A map published with no marks yet
+   (`labels: []`) stays on the list.
 6. **The marks.** `python pipeline/maps/import_labels.py <map>
    <saved file>`: checks the file, writes `maps/<map>/labels.yml`, cuts the
    crops of the lettering into `site/assets/maps/crops/<map>/`, and links
