@@ -4952,6 +4952,125 @@ lutow:
   docs: 0
   span: ''
   letters: []
+swiatniki:
+  docs: 23
+  span: 1261–1812
+  letters:
+  - id: '4'
+    uid: kdw-4
+    url: /documents/kdw/4/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '6'
+    uid: kdw-6
+    url: /documents/kdw/6/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '1'
+    uid: app5320pozgr1181-1
+    url: /documents/app5320pozgr1181/1/
+    unit_label: 53/20/0/-/Poznań Gr.1181
+    n: 1
+  - id: '1'
+    uid: agad1169011745-1
+    url: /documents/agad1169011745/1/
+    unit_label: AGAD 1/169/0/1/1745
+    n: 1
+  - id: '10'
+    uid: oe1bu14525-10
+    url: /documents/oe1bu14525/10/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '8'
+    uid: oe1bu14525-8
+    url: /documents/oe1bu14525/8/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '9'
+    uid: oe1bu14525-9
+    url: /documents/oe1bu14525/9/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '17'
+    uid: oe1bu14525-17
+    url: /documents/oe1bu14525/17/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '23'
+    uid: oe1bu14525-23
+    url: /documents/oe1bu14525/23/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '5'
+    uid: oe1bu14525-5
+    url: /documents/oe1bu14525/5/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '124'
+    uid: oe1bu9454-124
+    url: /documents/oe1bu9454/124/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '136'
+    uid: oe1bu9454-136
+    url: /documents/oe1bu9454/136/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '22'
+    uid: oe1bu14525-22
+    url: /documents/oe1bu14525/22/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '1'
+    uid: iharep162nr295-1
+    url: /documents/iharep162nr295/1/
+    unit_label: I. HA Rep. 162, Nr. 295
+    n: 1
+  - id: '2'
+    uid: app539680801-2
+    url: /documents/app539680801/2/
+    unit_label: APP 53/968/0/-/801
+    n: 1
+  - id: '8'
+    uid: oe1bu14526-8
+    url: /documents/oe1bu14526/8/
+    unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: 179a
+    uid: oe1bu9454-179a
+    url: /documents/oe1bu9454/179a/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '191'
+    uid: oe1bu9454-191
+    url: /documents/oe1bu9454/191/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '24'
+    uid: oe1bu9454-24
+    url: /documents/oe1bu9454/24/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '32'
+    uid: oe1bu9454-32
+    url: /documents/oe1bu9454/32/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '212'
+    uid: oe1bu9454-212
+    url: /documents/oe1bu9454/212/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '213'
+    uid: oe1bu9454-213
+    url: /documents/oe1bu9454/213/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '18'
+    uid: oe1bu9454-18
+    url: /documents/oe1bu9454/18/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
 alexandrien:
   docs: 2
   span: 1784–1806
@@ -15133,125 +15252,6 @@ schweinern:
   - id: '301'
     uid: oe1bu9454-301
     url: /documents/oe1bu9454/301/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-swiatniki:
-  docs: 23
-  span: 1261–1812
-  letters:
-  - id: '4'
-    uid: kdw-4
-    url: /documents/kdw/4/
-    unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
-  - id: '6'
-    uid: kdw-6
-    url: /documents/kdw/6/
-    unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
-  - id: '1'
-    uid: app5320pozgr1181-1
-    url: /documents/app5320pozgr1181/1/
-    unit_label: 53/20/0/-/Poznań Gr.1181
-    n: 1
-  - id: '1'
-    uid: agad1169011745-1
-    url: /documents/agad1169011745/1/
-    unit_label: AGAD 1/169/0/1/1745
-    n: 1
-  - id: '10'
-    uid: oe1bu14525-10
-    url: /documents/oe1bu14525/10/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '8'
-    uid: oe1bu14525-8
-    url: /documents/oe1bu14525/8/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '9'
-    uid: oe1bu14525-9
-    url: /documents/oe1bu14525/9/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '17'
-    uid: oe1bu14525-17
-    url: /documents/oe1bu14525/17/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '23'
-    uid: oe1bu14525-23
-    url: /documents/oe1bu14525/23/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '5'
-    uid: oe1bu14525-5
-    url: /documents/oe1bu14525/5/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '124'
-    uid: oe1bu9454-124
-    url: /documents/oe1bu9454/124/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '136'
-    uid: oe1bu9454-136
-    url: /documents/oe1bu9454/136/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '22'
-    uid: oe1bu14525-22
-    url: /documents/oe1bu14525/22/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '1'
-    uid: iharep162nr295-1
-    url: /documents/iharep162nr295/1/
-    unit_label: I. HA Rep. 162, Nr. 295
-    n: 1
-  - id: '2'
-    uid: app539680801-2
-    url: /documents/app539680801/2/
-    unit_label: APP 53/968/0/-/801
-    n: 1
-  - id: '8'
-    uid: oe1bu14526-8
-    url: /documents/oe1bu14526/8/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: 179a
-    uid: oe1bu9454-179a
-    url: /documents/oe1bu9454/179a/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '191'
-    uid: oe1bu9454-191
-    url: /documents/oe1bu9454/191/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '24'
-    uid: oe1bu9454-24
-    url: /documents/oe1bu9454/24/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '32'
-    uid: oe1bu9454-32
-    url: /documents/oe1bu9454/32/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '212'
-    uid: oe1bu9454-212
-    url: /documents/oe1bu9454/212/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '213'
-    uid: oe1bu9454-213
-    url: /documents/oe1bu9454/213/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '18'
-    uid: oe1bu9454-18
-    url: /documents/oe1bu9454/18/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 sagan:

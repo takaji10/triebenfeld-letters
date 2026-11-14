@@ -1379,6 +1379,15 @@ questions the batch leaves:
   village, on the map Свентники). **For the editor**: their gazetteer
   entries — and, if they are the edition's places under other names, the
   match.
+  **Świątniki SETTLED 2026-11-14** (the editor: "you need to make a place
+  entry for Świątniki"): `reference/gazetteer/swiatniki.yml`, on the
+  register's `swiatniki` (the village by Rzgów, gmina Rzgów, the OSM
+  point), the label linked. The text is Claude's, from the edition's own
+  documents (KDW 4 and 6, the grant of 1797, the table of about 1797, letter
+  24's list of 1806, letters 212 and 213 written there in 1811); the
+  editor's index has no entry for it, so no other map's form is recorded.
+  **Stara Huta stays open**: which of the edition's Hutas (Huta
+  Trąbczyńska, Huta Łukomska, or another) the roads map's Стара Гута is.
 - **The OCR's readings** are Claude's read of the label crops (the method
   in maps/mapadrogi1890/notes.md): 25 high, 11 medium, **one low —
   mapadrogi1890-064, read as Скукумъ (the editor's Skokum)** — the

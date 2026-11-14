@@ -914,7 +914,7 @@ mapadrogi1890:
   height: 14250
   rms_m: 830.21
   n_labels: 37
-  n_places: 34
+  n_places: 35
   labels:
   - id: mapadrogi1890-002
     role: place
@@ -1562,9 +1562,9 @@ mapadrogi1890:
     skipped: false
   - id: mapadrogi1890-060
     role: place
-    place: null
-    place_name: null
-    name: Świątniki
+    place: swiatniki
+    place_name: Świątniki
+    name: null
     form: Свентники
     shows: village
     shows_en: Village
@@ -1577,7 +1577,7 @@ mapadrogi1890:
     lat: 52.151991
     lon: 18.026582
     refs: []
-    sort_name: Свентники
+    sort_name: Świątniki
     letter: null
     from: null
     to: null

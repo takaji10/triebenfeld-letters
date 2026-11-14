@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site-static",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "4010", "--directory", "site/_site"],
+      "port": 4010
+    },
+    {
+      "name": "map-labelling",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8780", "--bind", "127.0.0.1", "--directory", "review/maps"],
+      "port": 8780,
+      "url": "http://localhost:8780"
+    }
+  ]
+}

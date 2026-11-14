@@ -1,0 +1,105 @@
+# Entered 2026-11-14 at the editor's word ("you need to make a place entry for
+# Świątniki"), when the editor marked it on Mapa dróg 1890 (label
+# mapadrogi1890-060). Not in the editor's "Place Names.md": the text is
+# Claude's, written from the edition's own documents (HOUSE_STYLE, "The
+# documents first"); the point is OpenStreetMap's (reference/places_osm.yml).
+slug: swiatniki
+heading: Świątniki
+register: swiatniki
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Zagórów, just west of Rzgów
+  relation: east-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: surveyed
+  lat: 52.15114
+  lon: 18.02724
+  check: 'OSM (Nominatim) 2026-11-14: Świątniki, gmina Rzgów, powiat koniński, województwo wielkopolskie, 62-586, Polska; the Kodeks editors place it "tuż na zach. od Rzgowa" (KDW 6, note 8), which the point bears out'
+text_en: Village east of Zagórów, just west of Rzgów. The name means the village of the *sanctuarii*, the people who served a church; the Kodeks editors take the *sanctuarii* granted with Rzgów to the abbey of Ląd in 1261 and again in 1280 to be Świątniki.[^1][^2] A former church village, it was one of the sixteen the King granted to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, in 1797, with Zagórów, Skokum, Kopojno and Oleśnica.[^3] The table of the villages around Konin of about 1797 counts 21 houses and 133 people, 61 men and 72 women.[^4] The list of the places of the lordships of Zagórów and Trąbczyn enclosed with a letter of 1806 names it a rent-paying village (*Zins Dorf*),[^5] and in 1811 Triebenfeld wrote two of his letters to the Prince from Świątniki, one of them dated 27 January.[^6] *Свентники* (Mapa dróg 1890).
+names:
+- form: Świątniki
+  year: null
+  note: heading
+  footnote: null
+- form: sanctuarii
+  year: 1261
+  note: Granted with Rzgów as (the Kodeks editors' identification)
+  footnote: 1
+- form: Swiątniki
+  year: 1797
+  note: Recorded as
+  footnote: 3
+- form: Swiątnik
+  year: 1806
+  note: Recorded as
+  footnote: null
+  refs:
+  - source: app539680801
+    locator: document 2
+    link: /documents/app539680801/2/
+    quote: Vorwerker Drzewce, Kopoyno, Świątnik, Święca und Broniki
+aliases:
+- Swiątniki
+- Swiatniki
+maps:
+- map: mapadrogi1890
+  form: Свентники
+  note: null
+  label: mapadrogi1890-060
+footnotes:
+- n: 1
+  text: Zakrzewski, vol. 1, No. 393
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 393
+    link: /documents/kdw/4/
+    status: linked
+  note: Rzgowo cum sanctuariis; the editors' note identifies Świątniki
+- n: 2
+  text: Gąsiorowski and Kowalewicz, vol. 6, No. 27
+  refs:
+  - source: kdw
+    locator: vol. 6, no. 27
+    link: /documents/kdw/6/
+    status: linked
+  note: Irgouo cum sanctuariis; note 8 places Świątniki just west of Rzgów
+- n: 3
+  text: HZAN Oe 1 Bü 14525, document 5 (the deed of grant of 19 June 1797, in a copy of 1803)
+  refs:
+  - source: oe1bu14525
+    locator: document 5
+    link: /documents/oe1bu14525/5/
+    status: linked
+  note: null
+- n: 4
+  text: '"Die neuesten topografischen Nachrichten von Südpreussen," entry 274'
+  refs:
+  - source: agad1745
+    locator: entry 274
+    link: /documents/agad1169011745/1/#p5
+    status: linked
+  note: null
+- n: 5
+  text: HZAN Oe 1 Bü 9454, letter 24
+  refs:
+  - source: oe1bu9454
+    locator: letter 24
+    link: /documents/oe1bu9454/24/
+    status: linked
+  note: Zins Dorf Swiątniki
+- n: 6
+  text: HZAN Oe 1 Bü 9454, letters 212 and 213
+  refs:
+  - source: oe1bu9454
+    locator: letter 212
+    link: /documents/oe1bu9454/212/
+    status: linked
+  - source: oe1bu9454
+    locator: letter 213
+    link: /documents/oe1bu9454/213/
+    status: linked
+  note: written at Świątniki, 1811 (letter 212, dated by the year only) and 27 January 1811 (letter 213)
+review: []

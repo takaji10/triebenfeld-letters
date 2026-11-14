@@ -105,6 +105,8 @@ sources:
       # The three Stara Hutas of Łukom, Grodziec and Trąbczyn, p. 406.
       "entry 281": {document: agad1169011745-1, page: 6}
       "entry 283": {document: agad1169011745-1, page: 6}
+      # Świątniki, p. 405 (the gazetteer's swiatniki, 2026-11-14).
+      "entry 274": {document: agad1169011745-1, page: 5}
     in_project: "pp. 401-406 (agad1169011745)"
 
   visitation-1791:
@@ -168,12 +170,22 @@ sources:
     table:
       "document 8": {document: oe1bu14526-8}
 
+  oe1bu14525:
+    cite: "HZAN Oe 1 Bü 14525, papers on the King's grant of South Prussian estates to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen: the charter and its certified copies, the entries of his title, a valuation, and the official correspondence"
+    kind: archive
+    resolve: table
+    table:
+      "document 5": {document: oe1bu14525-5}
+    in_project: "whole (oe1bu14525)"
+
   oe1bu9454:
     cite: "HZAN Oe 1 Bü 9454, the correspondence of the Prince of Hohenlohe-Ingelfingen with Councillor of War and Forests von Triebenfeld"
     kind: archive
     resolve: table
     table:
       "letter 24": {document: oe1bu9454-24}
+      "letter 212": {document: oe1bu9454-212}
+      "letter 213": {document: oe1bu9454-213}
 
   minakowska-zielonacka:
     cite: 'Maria Jadwiga Minakowska, Wielcy.pl genealogy database (sejm-wielki.pl), "Helena Zielonacka (ID: 2.976.216)"'

@@ -750,6 +750,12 @@ tier1:
   kind_en: Windmills
   kind_de: Windmühlen
   german: ''
+- slug: swiatniki
+  name: Świątniki
+  name_de: Świątniki
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
 tier2:
 - slug: alexandrien
   name: Alexandrien
@@ -1812,12 +1818,6 @@ tier2:
   name_de: Schweinern
   kind_en: Estate
   kind_de: Gut
-  german: ''
-- slug: swiatniki
-  name: Świątniki
-  name_de: Świątniki
-  kind_en: Village
-  kind_de: Dorf
   german: ''
 - slug: sagan
   name: Żagań

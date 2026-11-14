@@ -11,7 +11,10 @@ alone.
 
 The editor marked **37 labels** (35 gazetteer places — Pyzdry included in
 the re-save — and two new places, **Stara Huta** and **Świątniki**, whose
-entries wait on the editor's ruling, NEEDS_CONFIRMATION). The map is
+entries wait on the editor's ruling, NEEDS_CONFIRMATION). Świątniki has
+its gazetteer entry since 2026-11-14 at the editor's word
+(`reference/gazetteer/swiatniki.yml`, label mapadrogi1890-060 linked);
+Stara Huta is still open. The map is
 Russian, so this map is the batch's exception, agreed in advance: the editor
 marked each label with the **Polish standard form** in the form field and
 left the as-written form to Claude's OCR.

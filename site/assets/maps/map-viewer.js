@@ -22,6 +22,10 @@ better scan does not move them.
     showNavigationControl: false,
     tileSources: M.tiles,
     crossOriginPolicy: 'Anonymous',
+    // GitHub Pages answers a request now and then with a passing 503; a
+    // tile that fails is asked for again rather than left blank.
+    tileRetryMax: 3,
+    tileRetryDelay: 2000,
     maxZoomPixelRatio: 4,
     visibilityRatio: 0.5,
     animationTime: 0.6,
@@ -134,8 +138,25 @@ better scan does not move them.
     });
     focusFromHash();
   });
+  // The tiles' info.json can meet a passing 503 from GitHub Pages (the
+  // editor's report on Mapa dróg 1890, 2026-11-14, the file loading fine a
+  // minute later): the opening is tried again three times, after 2, 5 and
+  // 10 seconds, before the reader is told the tiles did not load. A failed
+  // opening has added no marks, so a retry cannot double them.
+  var openTries = 0;
+  var RETRY_MS = [2000, 5000, 10000];
+  viewer.addHandler('open', function () { if (openTries) say(''); });
   viewer.addHandler('open-failed', function (e) {
-    say('The map tiles did not load (' + (e.message || 'error') + ').');
+    if (openTries < RETRY_MS.length) {
+      say(ML === 'de' ? 'Die Karte wird erneut geladen …'
+                      : 'Loading the map again …');
+      setTimeout(function () { viewer.open(M.tiles); }, RETRY_MS[openTries]);
+      openTries += 1;
+      return;
+    }
+    say(ML === 'de'
+      ? 'Die Kartenkacheln wurden nicht geladen (' + (e.message || 'Fehler') + '). Bitte die Seite später neu laden.'
+      : 'The map tiles did not load (' + (e.message || 'error') + '). Please reload the page later.');
   });
 
   // ---- the farmsteads' layer ----------------------------------------------

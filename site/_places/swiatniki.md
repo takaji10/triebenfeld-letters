@@ -15,6 +15,42 @@ hits_docs_count: 23
 
 <section class="place-gaz">
 
+{% raw %}
+<div class="place-desc" lang="en" markdown="1">
+
+*Dated forms of the name:* *Świątniki*; *sanctuarii* 1261 [^1]; *Swiątniki* 1797 [^3]; *Swiątnik* 1806.
+
+Village east of Zagórów, just west of Rzgów. The name means the village of the *sanctuarii*, the people who served a church; the Kodeks editors take the *sanctuarii* granted with Rzgów to the abbey of Ląd in 1261 and again in 1280 to be Świątniki.[^1][^2] A former church village, it was one of the sixteen the King granted to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, in 1797, with Zagórów, Skokum, Kopojno and Oleśnica.[^3] The table of the villages around Konin of about 1797 counts 21 houses and 133 people, 61 men and 72 women.[^4] The list of the places of the lordships of Zagórów and Trąbczyn enclosed with a letter of 1806 names it a rent-paying village (*Zins Dorf*),[^5] and in 1811 Triebenfeld wrote two of his letters to the Prince from Świątniki, one of them dated 27 January.[^6] *Свентники* (Mapa dróg 1890).
+
+[^1]: Zakrzewski, vol. 1, No. 393
+    [The document.](/documents/kdw/4/)
+
+[^2]: Gąsiorowski and Kowalewicz, vol. 6, No. 27
+    [The document.](/documents/kdw/6/)
+
+[^3]: HZAN Oe 1 Bü 14525, document 5 (the deed of grant of 19 June 1797, in a copy of 1803)
+    [The document.](/documents/oe1bu14525/5/)
+
+[^4]: "Die neuesten topografischen Nachrichten von Südpreussen," entry 274
+    [The document.](/documents/agad1169011745/1/#p5)
+
+[^5]: HZAN Oe 1 Bü 9454, letter 24
+    [The document.](/documents/oe1bu9454/24/)
+
+[^6]: HZAN Oe 1 Bü 9454, letters 212 and 213
+    [The document.](/documents/oe1bu9454/212/)
+    [The document.](/documents/oe1bu9454/213/)
+
+</div>
+{% endraw %}
+
+<div class="place-map">
+<div class="place-map-frame">
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.00724%2C52.131139999999995%2C18.04724%2C52.17114&amp;layer=mapnik&amp;marker=52.15114%2C18.02724" title="Świątniki" loading="lazy"></iframe>
+</div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.15114&amp;mlon=18.02724#map=15/52.15114/18.02724" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 <section class="place-docs">

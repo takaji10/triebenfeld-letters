@@ -3753,6 +3753,43 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   pipeline script's output actually landed (timestamps in the target repo)
   before believing its success line; export TRIEBENFELD_MAPS in every shell
   that runs tiles.py.
+- **The bulk labelling pages are rebuilt, not looked for (2026-11-14).** The
+  batch's 23 sheets and their index were built in a side worktree
+  (`review/` and `scratch/` are not committed), whose git link later broke,
+  so the main checkout had only three sheets. To pick the marking up again:
+  `python pipeline/maps/label_page.py <map>` for each map, then
+  `python scratch/maps_bulk/build_index.py` (copied into this checkout's
+  scratch), then serve `review/maps` on **port 8780**, the port the editor
+  marked on: the browser keeps unsaved work per site and port, so a
+  different port shows empty sheets. `.claude/launch.json` has the
+  configuration `map-labelling`. The index does not yet mark which sheets
+  are imported (mapadrogi1890 and pelzucki1901 are), and Łukom 1766 is not
+  in it (its page is http://localhost:8780/lukom1766/).
+- **"The map tiles did not load (HTTP 503 ...)" is GitHub Pages, not the
+  tiles (2026-11-14).** The editor saw it on the published Mapa dróg 1890;
+  the same info.json answered 200 a few minutes later and the page opened.
+  Check the URL with curl before suspecting the tiles or the push. The
+  viewer (`site/assets/maps/map-viewer.js`) now retries the opening three
+  times and each tile (`tileRetryMax`) before it shows the message. To
+  test a change to that path, copy a built map page into `site/_site`
+  with the info.json address changed to a missing map, and remove the
+  copy afterwards.
+- **A script that adds a comment to a labels.yml must not append the file
+  to itself.** `maps/mapadrogi1890/labels.yml` held its 37 labels twice,
+  the stale copy first, and the new header comment ran into the `map:`
+  line, so the key went into the comment (pelzucki1901's header has the
+  same missing line break, its key survived). PyYAML keeps the last of
+  duplicate keys without a word, so nothing failed. After any script
+  writes a labels.yml, load it and check `map` and the label count
+  against the saved file (fixed 2026-11-14).
+- **A place the editor marks as `new_place` that the register already
+  has** (Świątniki, `reference/places.yml` `swiatniki`) gets a gazetteer
+  entry with `register:` set to that slug: the place page already
+  exists from the register, and the entry adds the text, the dated names,
+  the OSM map and the map appearance to it. Write the text from the
+  edition's documents (the place's `places_docs` list), and say where a
+  document's writer or date is uncertain (letter 24 has no writer; letter
+  212 only a year).
 ## A Jekyll include reads its parameters as include.<name> (2026-11-11)
 
 The Sources page icons (`site/_includes/sources-icon.html`) rendered as empty

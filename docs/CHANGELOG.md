@@ -6069,3 +6069,31 @@ sources-icon.html`).
   paragraph (both languages).
 - Open: the spot sheet (seven readings), Łazińsk matching, Hohm/Холмъ,
   people, Russian place names, connections (NEEDS_CONFIRMATION).
+
+## 2026-11-14 - Świątniki in the gazetteer; the map viewer retries a failed load (branch `trampczynski-family`, not published)
+
+- The editor, Mapa dróg 1890 finished: "you need to make a place entry for
+  Świątniki". `reference/gazetteer/swiatniki.yml` written on the register's
+  `swiatniki` (the village just west of Rzgów, OSM's point, the Kodeks
+  editors' note agreeing), the text Claude's, from the edition's documents:
+  the *sanctuarii* granted with Rzgów in 1261 and 1280 (KDW 4, 6), one of
+  the sixteen church villages granted to the Prince in 1797 (Oe 1 Bü 14525,
+  doc. 5), 21 houses and 133 people in the table of about 1797 (entry 274),
+  a *Zins Dorf* of Zagórów in the list of 1806 (letter 24), and letters 212
+  and 213 of 1811 written there. `reference/gazetteer_sources.yml` gained
+  the key `oe1bu14525` and the locators entry 274 and letters 212, 213.
+  Label mapadrogi1890-060 linked to the place; Stara Huta stays open.
+- `maps/mapadrogi1890/labels.yml` held its labels twice (a stale copy
+  before the current one, which won as the later YAML key) and its `map:`
+  key lost inside a comment line: the current copy kept alone, the key
+  restored. No label changed but 060's link.
+- The editor saw "The map tiles did not load (HTTP 503 ...)" on the
+  published Mapa dróg 1890 page; the tiles' info.json answered 200 minutes
+  later - a passing GitHub Pages error. `site/assets/maps/map-viewer.js`
+  now retries the opening three times (after 2, 5 and 10 seconds, saying
+  so) and asks for a failed tile again (`tileRetryMax: 3`); only then the
+  message, now in the page's language. Checked locally with a page whose
+  tile address fails (four tries, then the message) and on the real page
+  (opens, 37 marks).
+- Rebuilt: site data, place pages, map pages, Jekyll; `gazetteer.py --check`
+  and `verify_site.py` pass (639 documents, 69 400 internal links).
