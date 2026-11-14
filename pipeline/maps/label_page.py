@@ -195,7 +195,7 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
   <input type="file" id="fileinput" accept=".json,application/json" style="display:none">
   <details id="help"><summary>How to use this page</summary>
     <p><b>1.</b> Click the place's symbol on the map (a quick click; dragging still moves the map). <kbd>N</kbd> means the map has no symbol there.</p>
-    <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it, press <kbd>[</kbd> or <kbd>]</kbd>, then <b>Save changes</b>.</p>
+    <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. <b>A place with a symbol but no lettering</b> (nothing to trace): after clicking its symbol press <b>Submit</b> beside Cancel; the label is made from the point alone, with the type from the gazetteer (or unsure; change it afterwards with Save changes). The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it, press <kbd>[</kbd> or <kbd>]</kbd>, then <b>Save changes</b>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
     <p><b>3.</b> After the trace the page pauses with no field selected, so <kbd>[</kbd> and <kbd>]</kbd> still change the height of the band. Check the band, click into <b>Form as written on the map</b> if the lettering differs from the place's name, and click a type button to say what the map shows here (when the place is one the gazetteer knows, the type is filled in for you from its entry: a village for a village, water for a stream). A type button only chooses the type; nothing is saved until you press the red <b>Create</b> (or <kbd>Enter</kbd>). The page then goes on to the next place on the list. <b>Cancel</b> drops the label.</p>
@@ -502,7 +502,7 @@ function stepText(){
     return who+"Saved. Use the buttons below to change it.";
   }
   if(step==="point") return who+"Step 1 of 3. Click the place's symbol (<kbd>N</kbd> if there is none).";
-  if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips."+(cur.autoShows?" The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>).":"");
+  if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips the trace. A place with a symbol but no lettering: press <b>Submit</b>."+(cur.autoShows?" The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>).":"");
   if(step==="shows" && isDraft) return who+"Step 3 of 3. <kbd>[</kbd> <kbd>]</kbd> change the band's height ("+(cur.height||80)+"). Correct the form as written on the map if need be, choose the type of place ("+(cur.autoShows?"filled in from the gazetteer: ":"now: ")+"<b>"+esc(cur.shows)+"</b>), then press <b>Create</b>.";
   if(step==="shows") return who+"Click what the map shows here.";
   if(isDirty()) return who+"Changed, <b>not saved yet</b>: press <b>Save changes</b>, or <b>Cancel</b> to put it back.";
@@ -631,6 +631,12 @@ function renderWork(){
   } else if(isDraft){
     if(role==="boundary" && step==="trace"){
       h+='<div><button data-act="skippair">Skip this pair (S)</button><button data-act="cancel">Cancel</button></div>';
+    } else if(role==="place" && step==="trace"){
+      // a place the map marks with a symbol and no lettering (the editor's
+      // word, 2026-11-14): Submit makes the label from the point alone, with
+      // no trace and so no picture of a name
+      h+='<div><button data-act="cancel">Cancel</button><button data-act="submit" class="create">Submit</button></div>';
+      h+='<div class="small">Submit saves the place from its point alone, for a place with no lettering on the map.</div>';
     } else {
       h+='<div><button data-act="cancel">Cancel</button>'+((role==="place" && step==="shows")?'<button data-act="create" class="create">Create</button>':'')+'</div>';
     }
@@ -845,6 +851,7 @@ function cancelStep(){
 function act(a){
   if(a==="cancel") cancelStep();
   else if(a==="create"){ if(cur&&isDraft&&step==="shows") createLabel(); }
+  else if(a==="submit"){ if(cur&&isDraft&&step==="trace"&&roleOf(cur)==="place"){ skipTrace(); createLabel(); } }
   else if(a==="savechg") saveEdit();
   else if(a==="canceledit"){ var was=isDirty(); revertEdit(); cur=null; step=null; editOrig=null; render(); if(was) setStatus("The changes were dropped; the label is as it was."); }
   else if(a==="skippair") skipPair();

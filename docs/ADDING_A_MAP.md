@@ -219,6 +219,10 @@ session (WORKING_NOTES, "Working with the editor").
   with changes not saved asks. The "To find" list shows a found item's
   label as saved (its form and type), not the gazetteer's form. Redo
   point and Redo trace still save when done.
+  **A place with a symbol and no lettering (2026-11-14, the editor's word):**
+  after the symbol is clicked, **Submit** beside Cancel makes the label from
+  the point alone (no trace; the import crops around the point), with the
+  type from the gazetteer or unsure.
   **Types (2026-11-14):** Town and City are types of their own beside Village
   (a gazetteer town or city fills in its own type; before, a town filled in as
   a village). Add a type in `label_page.py` (SHOWS, KIND2SHOWS),
