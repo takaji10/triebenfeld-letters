@@ -6,13 +6,21 @@ The sheet XVII D "Pyzdry, Konin" of the three-verst map, in the editor's file
 ## What the sheet is (researched 2026-11-14)
 
 - The lettering is German with Polish place names (Fähre, Friedhof, Meierhof...):
-  the k.u.k. reprint of the Russian survey, which for the Kingdom of Poland is the
-  *Topograficzna Karta Królestwa Polskiego* 1:126 000 (the Quartermaster's map,
-  Mapster category "Top. Karta Królestwa Polskiego / Топографическая Карта Царства
-  Польского", legends in Polish, Russian and French). Its Konin sheet is
-  Kol. I Sek. II (Mapster, ±1843 and ±1864); the legend ("objaśnienie znaków") is
-  on Kol. II Sek. VIII Sławków. RCIN's "Voenno-topografičeskaâ karta Evropejskoj
-  Rossìi" has no sheet of this area.
+  the k.u.k. reprint ("KuK" in the file name) of a Russian three-verst (1:126 000)
+  sheet. **Which Russian series is not settled (corrected 2026-11-14).** The sheet
+  code XVII D is the Russian three-verst series' Râd/List scheme (RCIN: "Râd XVIII
+  List V"...), not the Kingdom of Poland map's Kolumna/Sekcja scheme, so the
+  original is probably the Russian "Voenno-topografičeskaâ karta" (Râd XVII, List
+  D), not the *Topograficzna Karta Królestwa Polskiego* (1839/1843, Richter; Kol. I
+  Sek. II Konin; legend on Kol. II Sek. VIII Sławków; Mapster has it). RCIN has no
+  Râd XVII sheet of this area. An earlier version of this note said the Kingdom of
+  Poland map: not supported.
+- **Schubert is not confirmed** as the maker. A Habr article (habr.com/en/articles/205310)
+  calls "Schubert's three-verst map" a misconception and credits Maj. Gen. P. A.
+  Tuchkov (Glushkov, *Istoriâ voennoj kartografii v Rossii*; *Zapiski Voenno-
+  topografičeskogo depo* 9-10, 1847); the Polish map is Richter's. Sources to
+  check: Glushkov; the *Zapiski VTD*; *Kartografia Królestwa Polskiego 1815-1915*
+  (PAN 2000).
 - **The date is ca. 1880** (Mapster, "rok wydania ±1880"; the editor's ruling,
   2026-11-14). The short form "Trójwiorstówki 1914" is kept, since the gazetteer
   cites it; whether to rename it is the editor's call.

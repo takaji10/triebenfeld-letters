@@ -3827,6 +3827,20 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   one place, and for a "Kolonia"/"Holendry"/"Olędry" form on an entry of
   another kind; put each to the editor before the map is called finished.
 - **A value set in code must be redrawn where it is shown (2026-11-14).** The labelling page set a label's type from the gazetteer correctly but did not redraw the panel when the Place field was filled in at step 3, so the editor saw "unsure" for Trąbczyn and Nowa Wieś. When a handler changes state, check the visible text and highlighted button, not only the data; I first told the editor Osiny was fine from the data alone and had to look again.
+- **Do not name a map's maker or series from one catalogue line (2026-11-14).**
+  The register called the Pyzdry-Konin sheet "the survey of F. F. Schubert, the
+  1914 printing"; Mapster says ±1880, the sheet code (XVII D) belongs to the Russian
+  three-verst series' scheme, not to the Kingdom of Poland map's (Kol./Sek.), and a
+  Russian article calls "Schubert's map" a misnomer. I first wrote the wrong
+  original into the map's notes. Check a sheet's code scheme against the series
+  before naming the series, and say "not confirmed" in the notes until a source
+  (Glushkov, *Zapiski VTD*, Kartografia Królestwa Polskiego) names it.
+- **Tools for map research (2026-11-14).** RCIN's certificate was expired: the
+  built-in browser and WebFetch refuse it; Claude in Chrome worked in the editor's
+  Chromium once they had loaded the page. Mapster (igrek.amzp.pl) lists every
+  series with its sheets and dates (maplist.php?cat=...) and a record page per sheet;
+  its category list is the quickest way to see which series exist. Large sheets are
+  read from the J: file with pyvips, cut by the georeference's pixel position.
 - **Do not merge two places on a guess from one map** (2026-11-14): Kolonia Wrąbczyn was merged into Wrąbczyn Górski at the editor's yes, and the editor undid it hours later after reading Trójwiorstówki 1914, where the two lie in different places. A later map can overturn an identification made on an earlier one; keep two entries until a map shows the same spot, and say in the text what the place is not.
 - **Check a secondary work's quotation against the work it quotes.**
   Seidel (2018) quotes Breyer (1938) with "Kolonweiler [Wrombczyn]" where
