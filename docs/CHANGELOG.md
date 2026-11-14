@@ -6315,3 +6315,4 @@ sources-icon.html`).
   the Ląd copy-book; the Kodeks decree the editor mentioned was not found in the
   volumes (NEEDS_CONFIRMATION). The mobile check could not start (Edge failed to
   launch in the crawler).
+- The editor: no type for a town or a city on the labelling page. Town and City added beside Village (`label_page.py`, `import_labels.py`, `map_pages.py`: Town/Stadt, City/Großstadt); a gazetteer town or city now fills in its own type, where a town used to fill in as a village. Existing labels are unchanged. All sheets rebuilt.

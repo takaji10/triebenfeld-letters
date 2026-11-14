@@ -49,7 +49,7 @@ MAPS_DIR = os.path.join(ROOT, 'maps')
 # The label's `shows` values (docs/MAPS_PLAN.md, section 4), for the page in
 # both languages. The editor's list, with the simple kinds the marking uses.
 SHOWS_EN = {
-    'village': 'Village', 'town': 'Town', 'oleder-settlement': 'Olęder settlement',
+    'village': 'Village', 'town': 'Town', 'city': 'City', 'oleder-settlement': 'Olęder settlement',
     'folwark': 'Folwark', 'folwark-or-manor': 'Folwark or manor', 'manor': 'Manor',
     'tavern': 'Tavern', 'water-mill': 'Water mill', 'windmill': 'Windmill',
     'mill': 'Mill', 'forest': 'Forest', 'field': 'Field',
@@ -58,7 +58,7 @@ SHOWS_EN = {
     'church': 'Church', 'other': 'Other', 'unsure': 'Unsure',
 }
 SHOWS_DE = {
-    'village': 'Dorf', 'town': 'Stadt', 'oleder-settlement': 'Haulandsiedlung',
+    'village': 'Dorf', 'town': 'Stadt', 'city': 'Großstadt', 'oleder-settlement': 'Haulandsiedlung',
     'folwark': 'Vorwerk', 'folwark-or-manor': 'Vorwerk oder Herrenhaus',
     'manor': 'Herrenhaus', 'tavern': 'Kretscham', 'water-mill': 'Wassermühle',
     'windmill': 'Windmühle', 'mill': 'Mühle', 'forest': 'Wald', 'field': 'Flur',
