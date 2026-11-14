@@ -6914,3 +6914,169 @@ pelzucki1901:
     n: null
     skipped: false
   orig_lang: pl
+zagorow1841:
+  slug: zagorow1841
+  cited_as: Zagórów 1841
+  title: Mappa nowo uregulowanych granic między miastem Zagórów a wsiami Wrąbaczynem, Augustianowem, Drzewcami
+    i Oleśnicą położonych w obwodzie Konińskim
+  title_en: Map of the newly settled boundaries between the town of Zagórów and the villages Wrąbaczyn,
+    Augustianów, Drzewce and Oleśnica in the Konin obwód
+  title_de: null
+  maker: null
+  scale: null
+  year: 1841
+  kind: estate
+  kind_en: Estate plan
+  kind_de: Gutsplan
+  holder: Archiwum Państwowe w Łodzi (APŁ)
+  reference: 39/98/0/-/9856
+  url: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/29628413
+  tiles: https://takaji10.github.io/triebenfeld-maps/zagorow1841/info.json
+  warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=zagorow1841
+  sat_warp: null
+  view_rotation: 0
+  width: 8916
+  height: 5470
+  rms_m: 376.49
+  n_labels: 6
+  n_places: 6
+  labels:
+  - id: zagorow1841-002
+    role: place
+    place: kosciolkow
+    place_name: Kościołków
+    name: null
+    form: Kościołków
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 3765
+    - 3630
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-002.jpg
+    lat: 52.156781
+    lon: 17.864617
+    refs: []
+    sort_name: Kościołków
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: zagorow1841-004
+    role: place
+    place: dluga-gorka
+    place_name: Długa Górka
+    name: null
+    form: Długa Górka
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 3236
+    - 3499
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-004.jpg
+    lat: 52.16025
+    lon: 17.853179
+    refs: []
+    sort_name: Długa Górka
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: zagorow1841-006
+    role: place
+    place: imielno
+    place_name: Imielno
+    name: null
+    form: Imielno
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 3366
+    - 4464
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-006.jpg
+    lat: 52.147353
+    lon: 17.854026
+    refs: []
+    sort_name: Imielno
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: zagorow1841-008
+    role: place
+    place: wymyslow
+    place_name: Wymysłów
+    name: null
+    form: Wymysłów
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 5087
+    - 1194
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-008.jpg
+    lat: 52.183793
+    lon: 17.899021
+    refs: []
+    sort_name: Wymysłów
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: zagorow1841-010
+    role: place
+    place: lipowa-gorka
+    place_name: Lipowa Górka
+    name: null
+    form: Lipowa Górka
+    shows: unsure
+    shows_en: Unsure
+    shows_de: Unsicher
+    note: null
+    point:
+    - 4183
+    - 679
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-010.jpg
+    lat: 52.193481
+    lon: 17.880088
+    refs: []
+    sort_name: Lipowa Górka
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: zagorow1841-012
+    role: place
+    place: zagorowo
+    place_name: Zagórów
+    name: null
+    form: Zagórów
+    shows: town
+    shows_en: Town
+    shows_de: Stadt
+    note: null
+    point:
+    - 5283
+    - 2461
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-012.jpg
+    lat: 52.166775
+    lon: 17.900694
+    refs: []
+    sort_name: Zagórów
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  orig_lang: pl

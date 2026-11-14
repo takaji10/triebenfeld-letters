@@ -9,9 +9,10 @@ location:
   relation: south-of
   relative_to: wrabczyn
   belongs_to: wrabczyn
-  precision: identified
+  precision: surveyed
   lat: 52.163056
   lon: 17.8525
+  check: 'OSM (Nominatim) 2026-11-14 confirms the entry''s point: Długa Górka, Wrąbczyn, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
 text_en: Isolated dwellings south of and belonging to Wrąbczyn. Possibly appeared as *Siodmagorka* (Gilly 1802); *Osada Dlugagórka* (Richter 1843). Nazwy miejscowe Polski derives the name from the descriptive phrase *długa górka* 'long hill'.[^1]
 names:
 - form: Długa Górka
@@ -31,6 +32,10 @@ maps:
 - map: richter1843
   form: Osada Dlugagórka
   note: null
+- map: zagorow1841
+  form: Długa Górka
+  note: null
+  label: zagorow1841-004
 footnotes:
 - n: 1
   text: Nazwy miejscowe Polski, t. 2, p. 347

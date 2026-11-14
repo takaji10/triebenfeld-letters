@@ -1,0 +1,119 @@
+# The editor's marks on the map zagorow1841, from the labelling page, imported from
+# labels_zagorow1841_20261114-1326.json on 2026-11-14 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: zagorow1841
+width: 8916
+height: 5470
+saved: '2026-11-14T12:26:45.327Z'
+labels:
+- id: zagorow1841-002
+  role: place
+  place: kosciolkow
+  new_place: null
+  form: Kościołków
+  point: [3765, 3630]
+  trace:
+  - [3596, 3668]
+  - [3942, 3674]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: zagorow1841-004
+  role: place
+  place: dluga-gorka
+  new_place: null
+  form: Długa Górka
+  point: [3236, 3499]
+  trace:
+  - [2994, 3586]
+  - [3399, 3585]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: zagorow1841-006
+  role: place
+  place: imielno
+  new_place: null
+  form: Imielno
+  point: [3366, 4464]
+  trace:
+  - [3187, 4550]
+  - [3476, 4556]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: zagorow1841-008
+  role: place
+  place: wymyslow
+  new_place: null
+  form: Wymysłów
+  point: [5087, 1194]
+  trace:
+  - [4786, 1293]
+  - [5215, 1305]
+  height: 100
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: zagorow1841-010
+  role: place
+  place: lipowa-gorka
+  new_place: null
+  form: Lipowa Górka
+  point: [4183, 679]
+  trace:
+  - [4107, 718]
+  - [4361, 698]
+  height: 40
+  shows: unsure
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: zagorow1841-012
+  role: place
+  place: zagorowo
+  new_place: null
+  form: Zagórów
+  point: [5283, 2461]
+  trace:
+  - [5407, 2238]
+  - [5554, 2317]
+  - [5642, 2405]
+  - [5689, 2518]
+  height: 80
+  shows: town
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null

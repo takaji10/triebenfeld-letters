@@ -6316,3 +6316,8 @@ sources-icon.html`).
   volumes (NEEDS_CONFIRMATION). The mobile check could not start (Edge failed to
   launch in the crawler).
 - The editor: no type for a town or a city on the labelling page. Town and City added beside Village (`label_page.py`, `import_labels.py`, `map_pages.py`: Town/Stadt, City/Großstadt); a gazetteer town or city now fills in its own type, where a town used to fill in as a village. Existing labels are unchanged. All sheets rebuilt.
+
+## 2026-11-14 (night) - Zagórów 1841 marked and imported; Lipowa Górka (branch `trampczynski-family`, not published)
+
+- The editor's six marks imported; mark-only fit over five points, RMS 376 m, `in_project: true`. Imielno, Wymysłów and Długa Górka confirmed by OSM's lookup (every written coordinate matched) and made surveyed so they join the fit.
+- New gazetteer entry **Lipowa Górka** (`lipowa-gorka`): a hill, placed from the label, the name explained (*lipa* + *górka*); no other record was found. Label type left "unsure" (no hill type). Not published.

@@ -9,13 +9,11 @@ location:
   relation: north-of
   relative_to: zagorowo
   belongs_to: null
-  precision: identified
+  precision: surveyed
   lat: 52.180833
   lon: 17.899722
-text_en: Isolated dwellings north of Zagórów. *Stary Przewoz Wymysław* (Perthées 1798)
-  (may have been an old river crossing point); as a tavern *Wimislaw* (Zagorowo 1799);
-  with a tavern and folwark (Gilly 1802). The Słownik geograficzny records it as a
-  folwark.[^1]
+  check: 'OSM (Nominatim) 2026-11-14 confirms the entry''s point: Wymysłów, Oleśnica, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Isolated dwellings north of Zagórów. *Stary Przewoz Wymysław* (Perthées 1798) (may have been an old river crossing point); as a tavern *Wimislaw* (Zagorowo 1799); with a tavern and folwark (Gilly 1802). The Słownik geograficzny records it as a folwark.[^1]
 names:
 - form: Wymysłów
   year: null
@@ -32,6 +30,10 @@ maps:
 - map: gilly1802
   form: null
   note: with a tavern and folwark
+- map: zagorow1841
+  form: Wymysłów
+  note: null
+  label: zagorow1841-008
 footnotes:
 - n: 1
   text: Słownik geograficzny, t. II, p. 765

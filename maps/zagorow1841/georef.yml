@@ -12,3 +12,15 @@ fetched: '2026-11-06'
 width: 8916
 height: 5470
 gcps: []
+fit:
+  transformation: polynomial
+  order: 1
+  n: 5
+  rms_m: 376.49
+  inverse_rms_px: 223.3
+  residuals_m:
+    mk-zagorow1841-002: 339.32
+    mk-zagorow1841-004: 313.59
+    mk-zagorow1841-006: 569.73
+    mk-zagorow1841-008: 330.71
+    mk-zagorow1841-012: 247.54

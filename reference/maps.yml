@@ -358,7 +358,7 @@ maps:
     height: 5470
     crop: null
     tiles: "https://takaji10.github.io/triebenfeld-maps/zagorow1841/info.json"
-    in_project: false   # tiles re-cut on 001.jpg; the editor's marks pending (2026-11-06)
+    in_project: true    # re-marked on 001.jpg by the editor, imported 2026-11-14
   richter1843:
     cited_as: "Richter 1843"
     year: 1843

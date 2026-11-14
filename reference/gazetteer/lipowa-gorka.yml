@@ -1,0 +1,36 @@
+# Entered 2026-11-14 at the editor's word, when they marked it on Zagórów 1841
+# (label zagorow1841-010): a hill, a topographical feature. Not in the editor's
+# "Place Names.md"; the text is Claude's. No other record of the name was found
+# (a web search in Polish and English, OpenStreetMap's place search, the edition's
+# gazetteer, literature and maps): the entry rests on the 1841 map alone. The
+# point is the label's position on that map (maps/zagorow1841/positions.yml; the
+# map's fit has an RMS error of about 380 m).
+slug: lipowa-gorka
+heading: Lipowa Górka
+register: null
+status: historical
+kind: hill
+kind_text: Hill
+location:
+  text: northwest of Wymysłów
+  relation: northwest-of
+  relative_to: wymyslow
+  belongs_to: null
+  precision: from_map
+  lat: 52.193481
+  lon: 17.880088
+  check: 'Placed by its label on Zagórów 1841 (zagorow1841-010), whose fit has an RMS error of about 380 m; no record of the name was found elsewhere (web search, OpenStreetMap)'
+text_en: Hill northwest of Wymysłów, north of Zagórów. The name is Polish for a small hill of lime trees (*lipa*, lime or linden; *górka*, little hill). It appears on the map of the new boundaries between the town of Zagórów and the villages of Wrąbczyn, Augustynów, Drzewce and Oleśnica (Zagórów 1841) and in no other source the edition holds; whether it is the same as a hill known today has not been found.
+names:
+- form: Lipowa Górka
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: zagorow1841
+  form: Lipowa Górka
+  note: null
+  label: zagorow1841-010
+footnotes: []
+review: []

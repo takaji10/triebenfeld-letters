@@ -263,6 +263,15 @@ dluga-gorka:
     label: null
     crop: null
     refs: []
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    year: 1841
+    in_project: true
+    form: Długa Górka
+    note: null
+    label: zagorow1841-004
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-004.jpg
+    refs: []
   - map: richter1843
     cited_as: Richter 1843
     year: 1843
@@ -272,7 +281,10 @@ dluga-gorka:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    label: zagorow1841-004
 drzewce:
   appearances:
   - map: vonpfau1770
@@ -621,6 +633,15 @@ imielno:
     label: lukom1766-009
     crop: /assets/maps/crops/lukom1766/lukom1766-009.jpg
     refs: []
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    year: 1841
+    in_project: true
+    form: Imielno
+    note: null
+    label: zagorow1841-006
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-006.jpg
+    refs: []
   - map: richter1843
     cited_as: Richter 1843
     year: 1843
@@ -634,6 +655,9 @@ imielno:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-009
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    label: zagorow1841-006
 jeziorko:
   appearances:
   - map: richter1843
@@ -774,11 +798,11 @@ kosciolkow:
   - map: zagorow1841
     cited_as: Zagórów 1841
     year: 1841
-    in_project: false
+    in_project: true
     form: Kościołków
     note: null
-    label: null
-    crop: null
+    label: zagorow1841-002
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-002.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -790,6 +814,9 @@ kosciolkow:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-012.jpg
     refs: []
   maps_on_site:
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    label: zagorow1841-002
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-012
@@ -970,6 +997,21 @@ lazy-trabczyn:
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-040
+lipowa-gorka:
+  appearances:
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    year: 1841
+    in_project: true
+    form: Lipowa Górka
+    note: null
+    label: zagorow1841-010
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-010.jpg
+    refs: []
+  maps_on_site:
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    label: zagorow1841-010
 lomow:
   appearances:
   - map: lukom1766
@@ -2587,7 +2629,19 @@ wymyslow:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    year: 1841
+    in_project: true
+    form: Wymysłów
+    note: null
+    label: zagorow1841-008
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-008.jpg
+    refs: []
+  maps_on_site:
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    label: zagorow1841-008
 zagorowo:
   appearances:
   - map: gilly1802
@@ -2607,6 +2661,15 @@ zagorowo:
     note: with four windmills
     label: null
     crop: null
+    refs: []
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    year: 1841
+    in_project: true
+    form: Zagórów
+    note: null
+    label: zagorow1841-012
+    crop: /assets/maps/crops/zagorow1841/zagorow1841-012.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -2636,6 +2699,9 @@ zagorowo:
     crop: null
     refs: []
   maps_on_site:
+  - map: zagorow1841
+    cited_as: Zagórów 1841
+    label: zagorow1841-012
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-002
