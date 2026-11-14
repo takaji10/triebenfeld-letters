@@ -223,6 +223,9 @@ session (WORKING_NOTES, "Working with the editor").
   after the symbol is clicked, **Submit** beside Cancel makes the label from
   the point alone (no trace; the import crops around the point), with the
   type from the gazetteer or unsure.
+  **A sheet open in the browser keeps the page it loaded:** after the page is
+  rebuilt, reload it (Ctrl+F5) before testing a change; an old page showed no
+  new type buttons.
   **Types (2026-11-14):** Town and City are types of their own beside Village
   (a gazetteer town or city fills in its own type; before, a town filled in as
   a village). Add a type in `label_page.py` (SHOWS, KIND2SHOWS),

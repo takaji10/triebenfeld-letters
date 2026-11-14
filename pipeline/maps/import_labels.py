@@ -19,7 +19,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from common import (GAZETTEER_DIR, ROOT, Flow, die, dump_yaml, header_of, load_gazetteer,
                     load_map, map_dir, read_yaml, utf8_stdout)
 
-SHOWS = {"village", "town", "city", "oleder-settlement", "folwark", "tavern", "water-mill", "windmill", "forest",
+SHOWS = {"village", "town", "city", "oleder-settlement", "folwark", "tavern", "water-mill", "windmill", "forest", "hill",
          "field", "water", "road", "church", "other", "unsure"}
 # `role` is absent (a place label, the original kind) or "letter" / "boundary":
 # the stamped letter of the adjoining-lands list (a point at the stamp) and a

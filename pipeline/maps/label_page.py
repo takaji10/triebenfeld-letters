@@ -231,7 +231,7 @@ var M = DATA.map, KEY = M.key;
 // original's pixels. CX, CY convert between the two at the page's edges.
 var CROP = M.crop || null, CX = CROP ? CROP[0] : 0, CY = CROP ? CROP[1] : 0;
 var SHOWS = [["1","village","Village"],["t","town","Town"],["c","city","City"],["2","oleder-settlement","Olęder settlement"],["3","folwark","Folwark or manor"],
-  ["4","tavern","Tavern"],["5","water-mill","Water mill"],["6","windmill","Windmill"],["7","forest","Forest"],
+  ["4","tavern","Tavern"],["5","water-mill","Water mill"],["6","windmill","Windmill"],["7","forest","Forest"],["h","hill","Hill or mound"],
   ["8","field","Field or meadow"],["9","water","Water"],["0","road","Road or crossing"],["-","church","Church"],
   ["=","other","Other"],["u","unsure","Unsure"]];
 // The gazetteer's kind of a place, filled in as the label's type when the
@@ -239,7 +239,7 @@ var SHOWS = [["1","village","Village"],["t","town","Town"],["c","city","City"],[
 // the type). Kinds the gazetteer holds that no button covers stay "unsure".
 var KIND2SHOWS = {village:"village", hamlet:"village", settlement:"village", town:"town", city:"city",
   "isolated-dwellings":"village", "oleder-settlement":"oleder-settlement", folwark:"folwark",
-  tavern:"tavern", "water-mill":"water-mill", windmills:"windmill", forest:"forest",
+  tavern:"tavern", "water-mill":"water-mill", windmills:"windmill", forest:"forest", hill:"hill", mound:"hill", mounds:"hill",
   "forest-precinct":"forest", river:"water", stream:"water", field:"field"};
 var PLKEYS = null; // retired 2026-11-06 (the editor's clarification: the want was accent-insensitive matching, not letter insertion)
 var LSKEY = "maplabels:" + KEY;
