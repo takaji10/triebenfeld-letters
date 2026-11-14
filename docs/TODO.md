@@ -1172,10 +1172,16 @@ The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
       "The gazetteer" (Noga among Wielki-Bór Obręb's districts).
 - [ ] Map scales: put `scale:` in the register for every map as it comes in
       (your word, 2026-10-30); Łukom 1766 has none recorded.
-- [ ] Pełzucki 1896: your marks on the labelling page
-      (http://localhost:8778/pelzucki1896/ — tiles and the warp are live,
-      the fit RMS 2.7 m), then the import, the georef again with the
-      marks, the page and the checks (maps/pelzucki1896/notes.md).
+- [x] Pełzucki 1896: your marks on the labelling page, imported 2026-10-31
+      (the fit RMS 2.7 m; maps/pelzucki1896/notes.md); the editor confirmed
+      it done, 2026-11-14.
+- [ ] **You:** Zagórów 1841 (`zagorow1841`): the marks. The map of record is
+      001.jpg (8916 x 5470), the tiles are re-cut and the labelling page is
+      rebuilt (2026-11-06); no marks are in the repository, so any marking
+      done since is on your machine (the page's browser storage, or a
+      `labels_zagorow1841_<date>.json` in Downloads). Check which
+      triebenfeld-maps clone is the live one (the remote
+      takaji10/triebenfeld-maps and the newest commit) before going on.
 - [ ] The interactive map (/map/).
 
 
