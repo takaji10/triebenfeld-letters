@@ -6277,3 +6277,18 @@ sources-icon.html`).
   gone, Zagórów 1841's outdated note corrected (001.jpg as drawn), and
   Łukom 1766, waiting for its re-marking, given a row. ADDING_A_MAP step 5
   carries the rule. 19 maps on the list.
+
+## 2026-11-14 (afternoon, later) - the labelling page's step 3 reworked (branch `trampczynski-family`)
+
+- The editor's report on Łukom 1766 (Dezerta Jemielno): after the
+  double-click that ends the trace, the cursor jumped into "Form as written
+  on the map" and the band keys could not be used; choosing a type other
+  than the gazetteer's made the label vanish from the sidebar. The second
+  came from a re-render that swapped in a row of type buttons that saved
+  at once and moved on to the next place. `pipeline/maps/label_page.py`:
+  no field is focused after the trace (or a skipped trace); in step 3 the
+  type buttons only choose, and a red **Create** beside **Cancel** (or
+  Enter) makes the label, the status line naming what was created; the
+  type keys (0-9, -, =, U) removed, with the help and status texts. All
+  sheets rebuilt; tested on a separate port (8791) through the trace,
+  the band key, "Other" and Create, the test's storage cleared.

@@ -203,3 +203,12 @@ session (WORKING_NOTES, "Working with the editor").
   as written on the map'"). The place-name form stands at the top of
   the panel. No editor action needed; the import and the saved format are
   unchanged.
+  **Changed 2026-11-14 (the editor's report on Łukom 1766):** after the
+  trace no field is focused, so <kbd>[</kbd> <kbd>]</kbd> still set the
+  band's height; the form is clicked into only when it needs changing. A
+  type button only chooses the type (the panel stays as it is); the label
+  is made by the red **Create** beside Cancel, or Enter. The type keys
+  (0-9, -, =, U) are gone; a saved label's type is changed through "Change
+  what it shows". A test of the page goes on another port (the
+  `map-labelling-test` configuration, 8791), never on 8780, where the
+  editor's unsaved marks live in the browser.

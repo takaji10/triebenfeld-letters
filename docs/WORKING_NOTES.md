@@ -3767,6 +3767,17 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   published with `in_project: true` (it reads the register on
   origin/main), so run it again after each publish; Łukom 1766 has its row
   since 2026-11-14.
+- **The labelling page: one button saves, and nothing else does (the
+  editor's report, 2026-11-14).** Choosing a type other than the
+  gazetteer's re-rendered step 3 with a second row of type buttons that
+  saved at the next click and jumped to the next place: the editor saw the
+  label "reset". And the trace's end put the cursor in the form field, so
+  [ and ] typed into it instead of setting the band. Rules since: an
+  action that only chooses must never also save; saving has its own
+  visible button (Create); focus is never moved into a field the editor
+  did not click, where the step's keys are wanted. Test the page on port
+  8791 (`map-labelling-test`), not 8780, so the editor's browser storage
+  is not touched, and clear the test origin's storage afterwards.
 - **"The map tiles did not load (HTTP 503 ...)" is GitHub Pages, not the
   tiles (2026-11-14).** The editor saw it on the published Mapa dróg 1890;
   the same info.json answered 200 a few minutes later and the page opened.

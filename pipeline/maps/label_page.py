@@ -161,6 +161,7 @@ button{font:inherit;padding:3px 8px;margin:2px 2px 2px 0;border:1px solid #999;b
 button:hover{background:#eee}
 button.on{background:#c0392b;color:#fff;border-color:#c0392b}
 button.danger{color:#a00}
+button.create{background:#c0392b;color:#fff;border-color:#c0392b;font-weight:600}
 input,select{font:inherit;width:100%;padding:3px 5px;border:1px solid #999;border-radius:3px;margin:1px 0 4px}
 label.f{display:block;font-size:12px;color:#555}
 #status{margin:8px 0;padding:6px 8px;background:#fff8d8;border:1px solid #d9c96a;border-radius:3px;min-height:34px}
@@ -196,8 +197,8 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
     <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
-    <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. When the place is one the gazetteer knows, the type is filled in for you from its entry (a village for a village, water for a stream); the page still pauses with the <b>form as written on the map</b> open and focused — type what the map's lettering says if it differs from the place's name, then <kbd>Enter</kbd> saves and moves to the next place.</p>
-    <p><b>Changing the type of place</b> the gazetteer filled in: click one of the type buttons under the form (the pause stays open, the form still to be typed), or press a type key while the form field is <b>empty</b> — a key pressed in a field with text in it types that character, as anywhere. On a label already saved: select it and press a type key (it keeps the change at once), or use <b>Change what it shows</b>. A type you chose by hand is never overwritten by the gazetteer's fill.</p>
+    <p><b>3.</b> After the trace the page pauses with no field selected, so <kbd>[</kbd> and <kbd>]</kbd> still change the height of the band. Check the band, click into <b>Form as written on the map</b> if the lettering differs from the place's name, and click a type button to say what the map shows here (when the place is one the gazetteer knows, the type is filled in for you from its entry: a village for a village, water for a stream). A type button only chooses the type; nothing is saved until you press the red <b>Create</b> (or <kbd>Enter</kbd>). The page then goes on to the next place on the list. <b>Cancel</b> drops the label.</p>
+    <p><b>Changing the type of a saved label:</b> select it, press <b>Change what it shows</b>, and click the type. A type you chose by hand is never overwritten by the gazetteer's fill.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
     <p><b>The Place field matches without the Polish marks</b> (the editor's word, 2026-11-06): type <i>Trabczyn</i> and the page chooses <i>Trąbczyn</i> — the de-accented spellings are in the suggestions as you type, and a form written with its diacritics (<i>Wrąbczyn</i>) is filled in for you once the place is chosen. The form field takes whatever the map's lettering shows, diacritics included when the map has them.</p>
     <p><b>Changing a label already made:</b> click it in the list or on the map, edit the <b>form</b> (or re-trace it, or change what it shows), then press <kbd>Enter</kbd> in the field &mdash; or click an empty spot on the map, or press <kbd>Esc</kbd>. The label is released and its name shows on the map again; every keystroke is kept by the browser as you type. (A label marked <b>N</b> with its trace skipped has no place on the map, so it draws no name &mdash; it lives in the lists; give it a point with <b>Redo point</b> if you want its name shown.)</p>
@@ -457,9 +458,8 @@ function stepText(){
   }
   if(step==="point") return who+"Step 1 of 3. Click the place's symbol (<kbd>N</kbd> if there is none).";
   if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips."+(cur.autoShows?" The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>).":"");
-  if(step==="shows") return who+(cur.autoShows
-    ? "Step 3 of 3. The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>). Type the form as written on the map if it differs, then press <kbd>Enter</kbd>. To override the type: a button under the form, or a type key while the form field is empty."
-    : "Step 3 of 3. What does the map show here? Press a key or a button.");
+  if(step==="shows" && isDraft) return who+"Step 3 of 3. <kbd>[</kbd> <kbd>]</kbd> change the band's height ("+(cur.height||80)+"). Correct the form as written on the map if need be, choose the type of place ("+(cur.autoShows?"filled in from the gazetteer: ":"now: ")+"<b>"+esc(cur.shows)+"</b>), then press <b>Create</b>.";
+  if(step==="shows") return who+"Click what the map shows here.";
   return who+"Saved. Use the buttons below to change it.";
 }
 function traceInfo(){
@@ -545,20 +545,22 @@ function renderWork(){
   }
   if(role==="place"){
     h+='<label class="f">Form as written on the map</label><input id="f-form" value="'+esc(cur.form)+'">';
-    if(step==="shows"){
-      if(cur.autoShows){
-        h+='<div class="step">The type of place: <b>'+esc(cur.shows)+'</b> <span class="small">(from the gazetteer; a button or a type key overrides)</span></div>';
-        h+='<div class="shows"><button data-act="saveauto">Save (Enter)</button></div>';
-        // the type buttons stay in the pause (the form is still to be typed):
-        // a click sets the type and clears the gazetteer's fill
-        h+='<div class="shows">';
-        SHOWS.forEach(function(s){ h+='<button data-act="setshows" data-code="'+s[1]+'" class="'+(cur.shows===s[1]?"on":"")+'">'+s[0].toUpperCase()+' '+esc(s[2])+'</button>'; });
-        h+='</div>';
-      } else {
-        h+='<div class="step">What does the map show here?</div><div class="shows">';
-        SHOWS.forEach(function(s){ h+='<button data-shows="'+s[1]+'" class="'+(cur.shows===s[1]&&!isDraft?"on":"")+'">'+s[0].toUpperCase()+' '+esc(s[2])+'</button>'; });
-        h+='</div>';
-      }
+    if(step==="shows" && isDraft){
+      // The pause before a new label is made (the editor's report,
+      // 2026-11-14): a type button only chooses the type and the panel stays
+      // as it is; the label is made by Create (or Enter) alone. Before,
+      // choosing another type than the gazetteer's swapped in a second row
+      // of buttons that saved the label at the next click and moved on to
+      // the next place, so the label seemed to vanish.
+      h+='<div class="step">What the map shows here: <b>'+esc(cur.shows)+'</b>'+(cur.autoShows?' <span class="small">(from the gazetteer)</span>':'')+'</div>';
+      h+='<div class="shows">';
+      SHOWS.forEach(function(s){ h+='<button data-act="setshows" data-code="'+s[1]+'" class="'+(cur.shows===s[1]?"on":"")+'">'+esc(s[2])+'</button>'; });
+      h+='</div>';
+    } else if(step==="shows"){
+      // a saved label's type, changed (Change what it shows): a click keeps it
+      h+='<div class="step">What does the map show here?</div><div class="shows">';
+      SHOWS.forEach(function(s){ h+='<button data-shows="'+s[1]+'" class="'+(cur.shows===s[1]?"on":"")+'">'+esc(s[2])+'</button>'; });
+      h+='</div>';
     }
   }
   h+='<label class="f">Note (optional)</label><input id="f-note" value="'+esc(cur.note||"")+'">';
@@ -576,7 +578,7 @@ function renderWork(){
     if(role==="boundary" && step==="trace"){
       h+='<div><button data-act="skippair">Skip this pair (S)</button><button data-act="cancel">Cancel</button></div>';
     } else {
-      h+='<div><button data-act="cancel">Cancel this label</button></div>';
+      h+='<div><button data-act="cancel">Cancel</button>'+((role==="place" && step==="shows")?'<button data-act="create" class="create">Create</button>':'')+'</div>';
     }
   } else {
     h+='<div><button data-act="cancel">Cancel</button></div>';
@@ -717,9 +719,17 @@ function redoPair(i){
   labels=labels.filter(function(l){return !(roleOf(l)==="boundary"&&l.n===p.n);});
   beginPair(i);
 }
+function createLabel(){
+  // the red Create button (and Enter) of step 3: the label is made
+  var ff=$("f-form"); if(ff) cur.form=ff.value;
+  var ss=cur.shows;
+  var name=cur.form||curHeading()||cur.new_place||"label";
+  finishDraft();
+  setStatus("Created <b>"+esc(name)+"</b> ("+esc(ss)+"). "+stepText());
+}
 function chooseShows(code){
   // The type of place, chosen: in the shows step, or on a selected existing
-  // label (step null — the type keys work there too, 2026-11-06). A type the
+  // label (step null; the type keys were retired 2026-11-14). A type the
   // editor chose by hand is never overwritten.
   if(!cur) return;
   if(step!=="shows" && !(step===null && !isDraft)) return;
@@ -758,13 +768,16 @@ function endTrace(){
     step="shows";
   } else { step=null; persist(); }
   render();
-  if(isDraft && cur && cur.autoShows){ var ff=$("f-form"); if(ff){ ff.focus(); } }
+  // nothing is focused (the editor's word, 2026-11-14): [ and ] must still
+  // change the band's height after the trace; the form is clicked into
+  // only when it needs changing
+  var ae=document.activeElement; if(ae && ae.blur && ae!==document.body) ae.blur();
 }
 function skipTrace(){
   cur.trace=null; delete cur.breaks; resetTmp();
   if(isDraft){ step="shows"; } else { step=null; persist(); }
   render();
-  if(isDraft && cur && cur.autoShows){ var ff=$("f-form"); if(ff){ ff.focus(); } }
+  var ae=document.activeElement; if(ae && ae.blur && ae!==document.body) ae.blur();
 }
 function cancelStep(){
   if(!cur) return;
@@ -774,7 +787,7 @@ function cancelStep(){
 }
 function act(a){
   if(a==="cancel") cancelStep();
-  else if(a==="saveauto"){ if(cur&&cur.autoShows) finishDraft(); }
+  else if(a==="create"){ if(cur&&isDraft&&step==="shows") createLabel(); }
   else if(a==="skippair") skipPair();
   else if(a==="goto") goTo(cur);
   else if(a==="redopoint"){step="point";render();}
@@ -861,24 +874,12 @@ document.addEventListener("keydown",function(e){
       setStatus("Saved. The label's name shows on the map now; the browser keeps the change, and <b>Save</b> downloads the file.");
       return;
     }
-    // a type key in the EMPTY form field of the auto-fill pause overrides
-    // the gazetteer's type and stays in the pause (the form is still to be
-    // typed); in a field with text the key types its character, as anywhere
-    // (the editor's report, 2026-11-06: the pause's hint said "a type key
-    // overrides" while the field held the focus, so the key typed a
-    // character into the form instead)
-    if(cur && step==="shows" && cur.autoShows && t.id==="f-form" && !t.value){
-      var code=isTypeKey(e.key);
-      if(code){
-        e.preventDefault();
-        cur.shows=code; cur.showsTouched=true; cur.autoShows=false; render();
-        var ff=$("f-form"); if(ff) ff.focus();
-        return;
-      }
+    // Enter in a field of step 3 makes the label, as Create does. The type
+    // keys are gone (the editor's word, 2026-11-14): the type is a button.
+    if(e.key==="Enter" && cur && isDraft && step==="shows" && (t.id==="f-form"||t.id==="f-note")){
+      e.preventDefault(); createLabel(); return;
     }
-    // Enter in the form field saves the label whose type the gazetteer filled in
-    if(e.key==="Enter" && cur && step==="shows" && cur.autoShows && t.id==="f-form"){}
-    else return;
+    return;
   }
   if(e.ctrlKey||e.metaKey||e.altKey) return;
   var k=e.key, lk=k.length===1?k.toLowerCase():k;
@@ -893,12 +894,6 @@ document.addEventListener("keydown",function(e){
   if(k==="["||k==="]"){
     cur.height=Math.max(10,(cur.height||80)+(k==="]"?20:-20));
     if(!isDraft)persist(); setStatus(stepText()); draw(); return;
-  }
-  // a type key on a selected existing label changes what it shows (the
-  // editor's report, 2026-11-06: no way to change a gazetteer-filled type)
-  if(cur && !isDraft && step===null && roleOf(cur)==="place"){
-    var code2=isTypeKey(k);
-    if(code2){ chooseShows(code2); return; }
   }
   if(step==="point"&&lk==="n"&&cur.role!=="letter"){setPoint(null);return;}
   if(step==="point"&&cur.role==="letter"&&lk==="s"){cancelStep();return;}
@@ -919,10 +914,7 @@ document.addEventListener("keydown",function(e){
     }
     if(lk==="s"){ if(cur.role==="boundary"){ skipPair(); } else { skipTrace(); } return; }
   }
-  if(step==="shows"){
-    if(k==="Enter" && cur.autoShows){ e.preventDefault(); finishDraft(); return; }
-    for(var i=0;i<SHOWS.length;i++) if(SHOWS[i][0]===lk){chooseShows(SHOWS[i][1]);return;}
-  }
+  if(step==="shows" && isDraft && k==="Enter"){ e.preventDefault(); createLabel(); return; }
 });
 function rotateBy(d){ viewer.viewport.setRotation(viewer.viewport.getRotation()+d); }
 
