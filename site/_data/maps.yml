@@ -7039,9 +7039,9 @@ zagorow1841:
     place_name: Lipowa Górka
     name: null
     form: Lipowa Górka
-    shows: unsure
-    shows_en: Unsure
-    shows_de: Unsicher
+    shows: hill
+    shows_en: Hill or mound
+    shows_de: Hügel
     note: null
     point:
     - 4183
