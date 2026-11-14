@@ -61,8 +61,8 @@ augustinow:
 baden:
   heading: Baden
   heading_de: Baden
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -85,15 +85,15 @@ batkowo:
 bayern:
   heading: Bayern
   heading_de: Bayern
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
 bayreuth:
   heading: Bayreuth
   heading_de: Bayreuth
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -101,8 +101,8 @@ bayreuth:
 berlin:
   heading: Berlin
   heading_de: Berlin
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -173,8 +173,8 @@ blizanow:
 boehmen:
   heading: Böhmen
   heading_de: Böhmen
-  standfirst_en: region.
-  standfirst_de: region.
+  standfirst_en: Region.
+  standfirst_de: Region.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -189,8 +189,8 @@ boleslawice:
 bologna:
   heading: Bologna
   heading_de: Bologna
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -213,8 +213,8 @@ boyadel:
 breslau:
   heading: Wrocław
   heading_de: Breslau
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -229,8 +229,8 @@ brieg:
 bruenn:
   heading: Brünn (Brno)
   heading_de: Brünn (Brno)
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -325,8 +325,8 @@ cieszowa:
 coblenz:
   heading: Koblenz
   heading_de: Koblenz
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -381,7 +381,7 @@ czerwonka:
 czestochowa:
   heading: Częstochowa
   heading_de: Czenstochau
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -413,8 +413,8 @@ dormowo:
 dresden:
   heading: Dresden
   heading_de: Dresden
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -453,8 +453,8 @@ embden:
 erfurt:
   heading: Erfurt
   heading_de: Erfurt
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -469,31 +469,31 @@ frankenstein:
 frankfurt-am-main:
   heading: Frankfurt am Main
   heading_de: Frankfurt am Main
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 frankfurt-an-der-oder:
   heading: Frankfurt an der Oder
   heading_de: Frankfurt an der Oder
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 frankreich:
   heading: Frankreich
   heading_de: Frankreich
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
 fuerth:
   heading: Fürth
   heading_de: Fürth
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -533,7 +533,7 @@ glinianki:
 glogau:
   heading: Głogów
   heading_de: Glogau
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -581,16 +581,16 @@ gradzyn:
 graz:
   heading: Graz
   heading_de: Graz
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 grenoble:
   heading: Grenoble
   heading_de: Grenoble
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -605,7 +605,7 @@ grodziec:
 grueneberg:
   heading: Zielona Góra
   heading_de: Grüneberg
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -637,24 +637,24 @@ havelberg:
 heidelberg:
   heading: Heidelberg
   heading_de: Heidelberg
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 heilbronn:
   heading: Heilbronn
   heading_de: Heilbronn
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 holland:
   heading: Holland
   heading_de: Holland
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -701,8 +701,8 @@ ingelfingen:
 italien:
   heading: Italien
   heading_de: Italien
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -717,7 +717,7 @@ jaryszki:
 jena:
   heading: Jena
   heading_de: Jena
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -733,8 +733,8 @@ jeziorko:
 kalisz:
   heading: Kalisz
   heading_de: Kalisch
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -765,16 +765,16 @@ karge:
 karlsruhe:
   heading: Karlsruhe
   heading_de: Karlsruhe
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 kassel:
   heading: Kassel
   heading_de: Kassel
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -789,8 +789,8 @@ kempen:
 kiew:
   heading: Kiew
   heading_de: Kiew
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -829,8 +829,8 @@ koczogowa:
 koenigsberg:
   heading: Königsberg
   heading_de: Königsberg
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -845,7 +845,7 @@ kolno:
 konin:
   heading: Konin
   heading_de: Konin
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -1061,7 +1061,7 @@ leobschuetz:
 liegnitz:
   heading: Legnica
   heading_de: Liegnitz
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -1069,8 +1069,8 @@ liegnitz:
 lille:
   heading: Lille
   heading_de: Lille
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1173,16 +1173,16 @@ lutow:
 lyon:
   heading: Lyon
   heading_de: Lyon
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 magdeburg:
   heading: Magdeburg
   heading_de: Magdeburg
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1229,8 +1229,8 @@ mariantow:
 mecklenburg:
   heading: Mecklenburg
   heading_de: Mecklenburg
-  standfirst_en: region.
-  standfirst_de: region.
+  standfirst_en: Region.
+  standfirst_de: Region.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1245,7 +1245,7 @@ melun:
 memel:
   heading: Memel
   heading_de: Memel
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -1301,7 +1301,7 @@ mollna:
 myslowice:
   heading: Mysłowice
   heading_de: Mysłowice
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -1405,8 +1405,8 @@ oehringen:
 ofen:
   heading: Ofen (Buda)
   heading_de: Ofen (Buda)
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1453,7 +1453,7 @@ oporowo:
 oppeln:
   heading: Opole
   heading_de: Oppeln
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -1509,8 +1509,8 @@ ostrowiec:
 paris:
   heading: Paris
   heading_de: Paris
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1549,8 +1549,8 @@ polajewo:
 pommern:
   heading: Pommern
   heading_de: Pommern
-  standfirst_en: region.
-  standfirst_de: region.
+  standfirst_en: Region.
+  standfirst_de: Region.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1581,8 +1581,8 @@ posada:
 posen:
   heading: Poznań
   heading_de: Posen
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1597,24 +1597,24 @@ potaszniki:
 potsdam:
   heading: Potsdam
   heading_de: Potsdam
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 prag:
   heading: Prag
   heading_de: Prag
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 pressburg:
   heading: Pressburg (Bratislava)
   heading_de: Pressburg (Bratislava)
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1685,8 +1685,8 @@ ruschinowitz:
 russland:
   heading: Russland
   heading_de: Russland
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1717,8 +1717,8 @@ rzgow:
 sachsen:
   heading: Sachsen
   heading_de: Sachsen
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1749,8 +1749,8 @@ schlawenschitz:
 schlesien:
   heading: Schlesien
   heading_de: Schlesien
-  standfirst_en: region.
-  standfirst_de: region.
+  standfirst_en: Region.
+  standfirst_de: Region.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1837,8 +1837,8 @@ sommerfeld:
 st-petersburg:
   heading: St Petersburg
   heading_de: St Petersburg
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1877,8 +1877,8 @@ stawiszyn:
 stettin:
   heading: Szczecin
   heading_de: Stettin
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1917,8 +1917,8 @@ studzianka:
 suedpreussen:
   heading: Südpreußen
   heading_de: Südpreußen
-  standfirst_en: region.
-  standfirst_de: region.
+  standfirst_en: Region.
+  standfirst_de: Region.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -2021,8 +2021,8 @@ tarszewo:
 teutschland:
   heading: Deutschland
   heading_de: Deutschland
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -2037,16 +2037,16 @@ toplitz:
 torun:
   heading: Toruń
   heading_de: Thorn
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 toulon:
   heading: Toulon
   heading_de: Toulon
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -2141,16 +2141,16 @@ ujest:
 ulm:
   heading: Ulm
   heading_de: Ulm
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 ungarn:
   heading: Ungarn
   heading_de: Ungarn
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -2165,16 +2165,16 @@ unruhstadt:
 venedig:
   heading: Venice
   heading_de: Venedig
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
 warschau:
   heading: Warszawa
   heading_de: Warschau
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -2197,7 +2197,7 @@ wartenberg:
 weimar:
   heading: Weimar
   heading_de: Weimar
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -2237,8 +2237,8 @@ wielun:
 wien:
   heading: Wien
   heading_de: Wien
-  standfirst_en: city.
-  standfirst_de: city.
+  standfirst_en: City.
+  standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -2293,7 +2293,7 @@ witow:
 wloclawek:
   heading: Włocławek
   heading_de: Leslau
-  standfirst_en: Town.
+  standfirst_en: City.
   standfirst_de: Stadt.
   intro_en: ''
   intro_de: ''
@@ -2357,8 +2357,8 @@ wrabczynkowskie-holendry:
 wuerttemberg:
   heading: Württemberg
   heading_de: Württemberg
-  standfirst_en: country.
-  standfirst_de: country.
+  standfirst_en: Country.
+  standfirst_de: Land.
   intro_en: ''
   intro_de: ''
   sources: []

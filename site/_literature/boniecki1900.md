@@ -47,7 +47,7 @@ excerpt_separator: ""
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
-<p>Boniecki doubts the old pedigree that makes Jerzy Chełmski the father of Krzysztof Ścibor and Andrzej Ścibor. The edition's judgment of 1644 shows a Jerzy Chełmski holding Łukom in that year — he sues the Trąbczyński brothers for the boundary marks cut into his own wood by the village of Łukom — but it does not say whose father he was.</p>
+<p>Boniecki doubts the old pedigree that makes Jerzy Chełmski the father of Krzysztof Ścibor and Andrzej Ścibor. The Konin land court's judgment of 1644 shows a Jerzy Chełmski holding Łukom in that year — he sues the Trąbczyński brothers for the boundary marks cut into his own wood by the village of Łukom — but it does not say whose father he was.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/app536036/1/' | relative_url }}">53/6/0/-/36, document 1 (1644)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a></p>
 </aside>{% raw %}
 </section>

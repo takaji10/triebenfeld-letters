@@ -1,4 +1,4 @@
-One document of three pages in a book of the municipal court of Kalisz for 1771, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the delivery of possession by which the Lusnia wood and the Olęder settlers living in it were handed to Stanisław Ścibor Chełmski of Łukomia in November 1771. It is in Latin, with the act of delivery itself in Polish. <!-- context -->
+The Lusnia wood, a pine wood with a small Olęder settlement on the disputed ground between Trąbczyn and Łukom, was handed to Stanisław Ścibor Chełmski of Łukomia in November 1771 on the strength of judgments he had won against Antoni Prusimski of Trąbczyn. The record of the handover names the twelve Olęder settlers who passed with the wood to Chełmski, and shows how a party who had won at law in eighteenth-century Poland was put into possession by an officer of the court. <!-- context -->
 
 ### Historical background
 

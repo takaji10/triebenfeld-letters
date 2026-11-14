@@ -3857,6 +3857,96 @@ styling**, and in any include use `include.<name>` for every parameter.
   re-apply it after every corpus change, then `build_db.py`.
 - **A layer the editor rules off the site stays as data** behind a unit flag
   (`show_supplied`), not deleted: the plan and `supplied.yml` remain.
+- **A burnt or damaged text's English is for reading** (the editor,
+  2026-11-13): "[text lost]" after every broken word, and broken German words
+  left half-translated, made the 1882 English hard to read. Translate a broken
+  word whole where the legible part fixes its sense; put words taken from a
+  twin text, the form or the grammar in square brackets; keep "[text lost]"
+  only for what would add a fact (figure, name, place, date, negation). The
+  transcription keeps every `[...]`. Clear the marker-check rows this raises
+  in `reference/translation_rulings.json` with the reason, and replace the
+  `l-auto-check` line in the unit's `prepared:`, which says every mark of
+  doubt survives (units/agad14320139/intake/translation/build_docs.py).
+- **Completing a transcription in brackets moves the line machinery**
+  (2026-11-13). A supplied hyphen goes inside the bracket, "fo[lgen-]", and
+  is a wrap only because `corpus_pages._wrap_mark`, `resolve_linebreaks` and
+  `resolve_paragraphs` now accept a line ending "-]"; the resolver still
+  scores such joins "split" (it does not know "lgenden"), so set them to
+  `join` by hand - they are then held. The paragraph step drops the breaks a
+  short burnt line used to cause, and adds wrong ones once the lines are full:
+  read the reading text of every page after the rebuild. The translation's
+  marker-check rulings are keyed by the German's count, so they must be
+  re-keyed after the text changes, and `write_cache.py` run again so the
+  cache carries the new German's hash.
+- **A reader's page does not describe the physical state of a source**
+  (the editor, 2026-11-13, of the burnt 1882 reports: "there's no need to
+  describe the physical condition of the texts"). Titles, descriptions,
+  introductions, summaries, timeline notes and era essays say what the
+  documents say; burns, stains and torn edges go in the holding's `notes.md`.
+  Given for that holding; the same restraint suits any new one.
+- **Python's `textwrap` breaks at hyphens, and a folded YAML scalar (`>-`)
+  then reads "Olędry- Kolonisten"** (2026-11-13, the homepage text in
+  `site/_data/i18n.yml`): a line break inside a `>-` block becomes a space.
+  Wrap prose for YAML with `textwrap.wrap(text, 76, break_on_hyphens=False)`,
+  and load the file back to compare the values before committing.
+- **The homepage** (`site/_includes/home.html`, text in `site/_data/i18n.yml`,
+  keys `home_lede`, `home_h2`, `home_p1`-`home_p4`) introduces the whole
+  edition to a first-time reader (the editor, 2026-11-13: it "still only
+  talk[ed] about the prince"). When a new era or section is added, check that
+  the homepage's short history still covers it.
+- **Write for a reader who meets the page in pieces** (the editor,
+  2026-11-14): no bare "this", "that", "these", "they" pointing back to an
+  earlier sentence, and every paragraph that follows a heading, figures or
+  buttons names its subject again. The rule and its examples are in
+  HOUSE_STYLE, "Name the subject; do not point back". Read every new
+  paragraph once as if the one before it were not there.
+- **A holding's description opens with the story, not the header**
+  (the editor, 2026-11-14). All 54 opening paragraphs were rewritten that day
+  (English and German): no counts, archive, volume or languages, which the
+  page's header already shows; what the documents are and why they matter.
+  HOUSE_STYLE, "A holding's own page". A new holding's `about.md` starts the
+  same way.
+- **Trąbczyn's owners before 1698 were the Trąmpczyński family**, not the
+  Prusimskis: the court records of 1589 and 1644 name Trąmpczyńskis, and
+  `reference/genealogy.yml` has their sale of Trąbczyn to Jan na Kolno
+  Prusimski in 1698. The homepage and the boundary era's ownership line said
+  "Prusimski from 1589" until 2026-11-14; check the genealogy before writing
+  an ownership line.
+- **No "the edition", "the project", "the site" or "the collection" on a
+  reader's page** (the editor, 2026-11-14; HOUSE_STYLE, "The pages do not
+  talk about themselves"). A sweep that day fixed the homepage, the era pages,
+  holding descriptions, the literature's Related notes, a timeline note, two
+  works' accounts and a newspaper summary. To find new ones, parse the YAML
+  and search only displayed values (a grep also hits comments and the
+  `translation_note` prompts, which no reader sees).
+- **`english_forms.py --apply` also rewrites the English summaries, and
+  damages them** (2026-11-14). Run to apply one page correction from
+  `reference/english_corrections.yml`, it changed 34 summaries in
+  `site/_data/summaries.yml`: years given digit groups ("1,173", "1,399" in
+  the kdw and app5314550221 summaries, "(2,026-11-01)"), écus turned into
+  Reichsthaler, the open "gl." made "Groschen". The summaries file was
+  restored with `git checkout`. After running it, keep only the translation
+  file it was run for and check `git diff site/_data/summaries.yml` before
+  committing.
+- **Look a place up before giving it a descriptor** (the editor, 2026-11-14:
+  "towns" for Konin and Kalisz, both cities). HOUSE_STYLE, "Check what a place
+  is before you call it something"; run
+  `pipeline/review/check_place_descriptors.py` before publishing. Its first run
+  listed 40 descriptors to read; the register itself needs the editor's word
+  where it disagrees with the present day (Konin was `town`).
+  **Corrected the same night** (editor: "correct any other issues relating to
+  place names"): `kind:` in `reference/places.yml` is what the place is today
+  (city: about 50,000 inhabitants or more, or a regional or national
+  capital); 13 towns became cities (Konin, Opole, Legnica, Częstochowa,
+  Głogów, Zielona Góra, Mysłowice, Włocławek, Jena, Weimar, Bayreuth, Fürth,
+  Memel); Ostrów and Neusatz stay open (which place?). **The Places index
+  printed "— city" in lowercase, in English even on the German page, because
+  `_KIND_EN`/`_KIND_DE` in build_site_data.py had no `city`, `country` or
+  `region`**; added. A new kind needs a label in both maps, or the raw word
+  shows.
+- **Do not make the act of writing the news** ("people wrote down who owned
+  ..."): say what the documents show. HOUSE_STYLE, "State the facts, not the
+  fact that they were written down".
 
 ## The Trąmpczyński family pages (2026-11-12)
 

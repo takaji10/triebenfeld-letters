@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Neun Seiten aus einem Band des Diözesanarchivs Włocławek (Archiwum Diecezjalne we Włocławku), Signatur 85, den das Archiv „Akta wizytacji dekanatu konińskiego 1790-1791“ nennt, die Akten der Visitation des Dekanats Konin 1790 und 1791. Die Seiten sind Blatt 23 Rückseite bis 25 Rückseite und 28 Rückseite bis 29 Rückseite, über die Pfarrei Trąbczyn, und Blatt 34a, eine Tabelle der Pfarrei Zagórów. Sie bilden zwei Dokumente. <!-- context -->
+1790 und 1791 ließ die kirchliche Obrigkeit jede Pfarrei des Dekanats Konin visitieren und beschreiben. Die hier ausgewählten Seiten des Visitationsprotokolls beschreiben die Pfarrei Trąbczyn – ihren Pfarrer, ihre Kirche, ihre Seelen Dorf für Dorf gezählt, ihre Bücher und ihre Stiftungen – und geben eine Tabelle der Seelen der benachbarten Pfarrei Zagórów. Das Visitationsprotokoll ist der letzte Bericht über die Pfarrei Trąbczyn aus der Zeit, als die Familie Prusimski das Gut noch besaß, wenige Jahre bevor Preußen die Gegend nahm. <!-- context -->
 
 ### Historischer Hintergrund
 
@@ -17,7 +17,7 @@ Eine Visitation war die Besichtigung einer Pfarrei im Auftrag ihres Bischofs. De
 
 1791 gehörten das Dorf Trąbczyn und die Dörfer seiner Pfarrei Antoni Prusimski, Starost von Niszczewice, der auch Patron der Kirche war und ihren Pfarrer präsentiert hatte <span class="cite">[<a href="{{ '/documents/adwl85/1/' | relative_url }}">1</a>]</span>.
 
-1793 nahm Preußen die Gegend in der Zweiten Teilung Polens, und 1796 schenkte der König Prusimskis konfisziertes Gut dem Fürsten zu Hohenlohe-Ingelfingen. Sie ist der letzte Bericht der Edition über die Pfarrei unter der Familie Prusimski vor den preußischen Jahren. <!-- context -->
+1793 nahm Preußen die Gegend in der Zweiten Teilung Polens, und 1796 schenkte der König Prusimskis konfisziertes Gut dem Fürsten zu Hohenlohe-Ingelfingen. Die Visitation von 1790 und 1791 ist der letzte Bericht über die Pfarrei Trąbczyn aus der Zeit, als die Familie Prusimski das Gut noch besaß. <!-- context -->
 
 ### Inhalt
 

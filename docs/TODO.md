@@ -1591,4 +1591,3 @@ transcription; 108 readings settled in session before the first build
       39/98/0/-/1333", 3); the office's note on folio 88 stays as read
       unless you can read it.
 - [x] Published at your word (2026-11-13).
-

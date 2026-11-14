@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-A file of the Prussian central administration for South Prussia, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. It concerns the estate of Oleśnica, which Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818) had let in hereditary lease. The file contains one document, a petition to the King dated 18 September 1805, on seventeen openings. <!-- context -->
+Prince Friedrich Ludwig of Hohenlohe-Ingelfingen let his estate of Oleśnica in hereditary lease to three townsmen, and the townsmen stopped paying. In September 1805 the Prince's agent, Peter Friedrich von Triebenfeld, petitioned the King of Prussia to have the estate placed under court administration; the petition shows how the Prince's leases could fail. <!-- context -->
 
 ### Historical background
 

@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Vier Seiten aus einer Akte der preußischen Zentralverwaltung für Südpreußen (I. HA Geheimer Rat, Rep. 7 C) im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Das Archiv führt die Akte unter dem Titel „Aufenthalt des Anton v. Prusimski in Venedig“. Die Schriftstücke entstanden zwischen Dezember 1796 und März 1797 im Departement der auswärtigen Angelegenheiten und für dieses. Es sind drei Dokumente: zwei in deutscher und eines in französischer Sprache. <!-- context -->
+Nach dem Scheitern des Aufstands von 1794 ging Antoni Prusimski, der letzte polnische Besitzer von Trąbczyn, ins Ausland, und Preußen zog seine Güter ein. Im Dezember 1796 meldete der preußische Resident in Venedig, er habe bescheinigt, dass Prusimski, krank und vom Tod seiner Frau gebrochen, nicht heimreisen könne. Die drei Stücke des preußischen Departements der auswärtigen Angelegenheiten hier sind dieser Bericht und das, was Berlin damit tat. <!-- context -->
 
 ### Historischer Hintergrund
 

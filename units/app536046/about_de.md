@@ -1,4 +1,4 @@
-Zwei Einträge auf drei Seiten eines Dekretbuchs des Landgerichts in Konin für die Jahre 1773 bis 1777, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Beide sind Dekrete der Sitzung vom Oktober 1777. Das erste entscheidet, wo das Grenzdekret der Kommission einzutragen war. Das zweite verweist eine Geldforderung, die Stanisław Chełmski von einem Kaufmann gekauft hatte, auf einen Ortstermin auf dem Grund von Trąbczyn. Beide sind lateinisch, und jedes bildet ein Dokument. Die Lesung beruht auf einem Mikrofilm und ist stellenweise unsicher. <!-- context -->
+Im Oktober 1777 gab das Landgericht in Konin zwei Dekrete im Streit zwischen Antoni Prusimski aus Trąbczyn und Stanisław Chełmski aus Łukom. Das erste befiehlt Prusimski, das für ihn ergangene Grenzdekret von 1775 binnen vier Wochen in Konin eintragen zu lassen; das zweite verweist eine Geldforderung, die Chełmski dem Kaufmann Tracholz abgekauft hatte, zur Verhandlung auf den Grund von Trąbczyn. Die Lesung beruht auf einem Mikrofilm und ist stellenweise unsicher. <!-- context -->
 
 ### Historischer Hintergrund
 

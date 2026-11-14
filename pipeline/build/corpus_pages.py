@@ -224,6 +224,12 @@ def _wrap_mark(s):
         return '¬'
     if re.search(r'\w-$', s) and not s.endswith('--'):
         return '-'
+    # A hyphen supplied by the edition with the rest of a word lost at a burnt
+    # line end, "fo[lgen-]" before "den" (AGAD 1/432/0/1/139, the editor
+    # 2026-11-13): a wrap like any other; a join drops the hyphen and keeps
+    # the bracket, "fo[lgen]den".
+    if re.search(r'\w-\]$', s):
+        return '-'
     return None
 
 
@@ -323,7 +329,12 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None,
                 s = s[:-1].rstrip()
             s = drop_catchword_words(s, decision)
         elif mark and decision == 'join':
-            s = s[:-1].rstrip() if mark == '¬' else s[:-1]
+            if mark == '¬':
+                s = s[:-1].rstrip()
+            elif s.endswith('-]'):
+                s = s[:-2] + ']'
+            else:
+                s = s[:-1]
         elif mark and decision == 'catchword':
             # The scribe's note of the next page's first word - a navigation
             # device, not text. Drop the fragment and its mark.

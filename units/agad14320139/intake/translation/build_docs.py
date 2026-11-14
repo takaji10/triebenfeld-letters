@@ -1,11 +1,31 @@
 # -*- coding: utf-8 -*-
 """The in-session English of 1/432/0/1/139, as doc<N>.yml (the shape of the
-submit_translation tool), made by Claude in a Claude Code session
-(2026-11-11), no paid run. Every "[...]" of the German is "[text lost]", every
-"[word?]" "[uncertain: word]", and a letter-level "[?]" stays as it is; a
-broken word is kept as written with the mark after it. Nothing lost is
-completed: the reconstruction layer (supplied.yml) is never used here
-(docs/CONSISTORY_1882_PLAN.md).
+submit_translation tool), made by Claude in a Claude Code session, no paid run.
+
+First written 2026-11-11 with every "[...]" of the German as "[text lost]" and
+every broken word kept as written, which made the English hard to read
+("Herrn General-Superin[text lost]"). Rewritten 2026-11-13 at the editor's
+word ("easier to read while still following the transcription ... fill in
+minor pieces ... keep it light"):
+
+  * A word broken at the burnt edge whose sense the legible part fixes is
+    translated whole, with no mark ("Superin[...]" is "Superintendent";
+    "vorzustel[...]" is "submit"). Most of these are the A and B rows of
+    supplied.yml; the transcription keeps its [...].
+  * Whole words taken from the other report, the form or the grammar are in
+    square brackets with no question mark ("[To His Reverence]",
+    "[collected]") - the convention of G[oldbeck] (EDITORIAL_RULES).
+  * What adds a fact stays "[text lost]": a figure, a name, a place, a date,
+    a negation, whether a thing is present or absent, good or bad
+    (docs/CONSISTORY_1882_PLAN.md, section 3), with one exception the editor
+    ruled (2026-11-13): the two negations of 0322_a, "[not]", which the
+    visible "t", the Pyzdry report and the form's answer fix. A word-level doubt the editor
+    has not settled stays marked ("[uncertain: ...]", "[?]"); a letter-level
+    doubt that does not change the word's sense is not carried.
+
+So the English has fewer marks than the German on every page; check_translations
+reports that as marker-check, and the rows are cleared in
+reference/translation_rulings.json with the reason.
 
     python units/agad14320139/intake/translation/build_docs.py
 """
@@ -15,72 +35,68 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DE = re.compile(r'\[[^\]]*\?\]|\[\.\.\.\]')
 EN = re.compile(r'\[illegible\]|\[uncertain(?::[^\]]*)?\]|\[text lost\]|\[[^\]]*\?\]')
 
-P_0318 = """[text lost]ner
-[text lost] Herrn General-Superin[text lost]
-of the Warsaw Evangelical-Augsburg[text lost]
+P_0318 = """[To His] Reverence the General Superintendent
+of the Warsaw Evangelical-Augsburg
 Consistorial District.
 
-Pastor-Administrat[text lost]
-gelical-Augsburg [text lost]
+The Pastor-Administrator [of the]
+Evangelical-Augsburg [congregation of]
 Zagórow.
 
-In consequence of the order [uncertain: Ho][text lost]
-würden of the 30th of October [text lost]
-No. 267, I have the honour fo[text lost]
-den the parish of Zagórow be[text lost]
-fenden annual report vorzustel[text lost]
+In consequence of [Your Reverence's] order
+of the 30th of October [text lost],
+No. 267, I have the honour to submit the following annual report
+concerning the parish of Zagórow.
 
 I. Church affairs.
 
-a.) External church affairs.– The congregation of Zagórow possesses a brick-built church; for the complete furnishing of the same [uncertain: en] [text lost] len still baptismal font, organ and bells.– Both the Pastora[text lost] and the cantor's house are very small and low and in[?] [text lost] very poor condition.– The school room, in proportion to the [text lost] number of children, is correspondingly spacious.– Besides the Religions-Sch[text lost]le in Zagórow there are 7 further schools combined with Beth[text lost] in the congregation, of which only one is an elementary school at Michalinowo.– The number of the children in the 8 schools of the [text lost] congregation may amount to about 240.– For the sexton[?] there is no special dwelling.– The condition of the d[?][text lost] cemeteries, of which there are 8 in the congregation, is [text lost] good and they are provided with crosses.–
+a.) External church affairs.– The congregation of Zagórow possesses a brick-built church; for its complete furnishing it still lacks a baptismal font, an organ and bells.– Both the parsonage and the cantor's house are very small and low, and in very poor condition.– The schoolroom is adequately spacious for the number of children.– Besides the religious school in Zagórow there are 7 more schools combined with prayer houses in the congregation, among them only one elementary school, at Michalinowo.– The number of children in the 8 schools of the congregation may come to about 240.– There is no separate dwelling for the sexton[?].– As for the cemeteries, of which there are 8 in the congregation, they are [text lost] in good condition and provided with crosses.–
 
-b.) Inner church affairs.– Churchliness and church attendance satisfactory.– The baptisms are mostly performed by the pastor voll[text lost] Open despisers of the Lord's Supper unbewußt.– The number of the d[?][text lost] municants: male 726 female 871, total 1597 dar[?] [text lost]"""
+b.) Inner church affairs.– Church spirit and church attendance satisfactory.– Baptisms are mostly performed by the pastor.– Open despisers of the Lord's Supper: none known.– The number of communicants: men 726, women 871, total 1597, [text lost]"""
 
-P_0322a = """[text lost]r more 45.– for [uncertain: Verlangen] still more schools [text lost] not present, since almost every larger colony has a [text lost]lich has.– For the heathen mission there were in the course of the [text lost] the mission services 10 roubles 71 kopecks ge[text lost] worden, which the Pastor-Administrator to the [text lost] Superintendent Pastor Manitius at Warsaw über[text lost] hat.– Morality as well as the domestic living together are [text lost]A[?]llgemeinen very satisfactory.– Baptists, Irvingians or [text lost]dere sects there are none.– Special vices[?] in the congregation [text lost]t present. Conversions to other confessions take place [text lost] statt.–
+P_0322a = """[text lost] 45 more.– [uncertain: A demand] for still more schools [text lost] is not present, since almost every larger colony has a [text lost].– For the mission to the heathen, 10 roubles 71 kopecks were [collected] in the course of the year at the mission services, which the Pastor-Administrator sent on to Superintendent Pastor Manitius at Warsaw.– Morality and domestic life are in general very satisfactory.– Baptists, Irvingians or other sects there are none.– Particular vices[?] in the congregation are [not] present. Conversions to other confessions do [not] take place.–
 
-Remarkable events.– Have not taken place.–
+Remarkable events.– None have taken place.–
 
-Number of the confirmed.– Boys 36 girls 31, together 67.–
+Number of confirmed.– Boys 36, girls 31, together 67.–
 
-Candidates living in the congregation.– None present.–
+Candidates living in the congregation.– None.–
 
-Collections.– For the benefit of the congregation's own were not [text lost]mmelt[?], but for other purposes the following: 1.) For the support [text lost]g of grammar-school pupils who are inclined to study theology [text lost] –[?] 4 roubles 61 kopecks, which the Pastor-Administra[text lost]tor sent to his High Consistory at Warsaw.– 2.) For [text lost] widows' and orphans' fund 2 roubles 36 kopecks were collected [text lost]elt and the same sent to the Superintendent von Boerner [text lost]er[?]gesandt.–
+Collections.– For the benefit of the congregation itself nothing was collected, but for other purposes the following: 1.) For the support of grammar-school pupils who intend to study theology, [text lost] 4 roubles 61 kopecks, which the Pastor-Administrator sent to his High Consistory at Warsaw.– 2.) For the widows' and orphans' fund 2 roubles 36 kopecks were collected, and the same sent [text lost] to Superintendent von Boerner.–
 
 E. Erdmann
 Pastor"""
 
-P_0322b = """[text lost]ner
-Hochwürden dem Herrn General-Superinten[text lost]
-of the Warsaw Evangelical-Augsburgisch[text lost]
+P_0322b = """[To His] Reverence the General Superintendent
+of the Warsaw Evangelical-Augsburg
 Consistorial District.
 
-Pastor-Administrator [text lost]
-gelical-Augsburg [text lost]
+The Pastor-Administrator [of the]
+Evangelical-Augsburg [congregation of]
 Lissewo-Pyzdry.
 
-In consequence of the order [text lost]
-würden of the 30th of October [text lost]
-No. 267, I have the honour folge[text lost]
-das Filial Lissewo-Pyzdry [text lost]
-fenden annual report vorzu[text lost]
+In consequence of [Your Reverence's] order
+of the 30th of October [text lost],
+No. 267, I have the honour to submit the following annual report
+concerning the filial Lissewo-Pyzdry.
 
 I. Church affairs.
 
-a.) External church affairs.– The filial possesses neither a church nor a [text lost] sexton's house.– Divine service in Pyzdry is held in a rented [text lost]ten premises.– In the filial there are five Religi[text lost] schools combined with prayer houses, all in good condi[text lost] sind.– The number of the children in the five schools of the filial [text lost] amounts to about 120.– Cemeteries there are in the filial [text lost] five, all fenced and provided with crosses.–
+a.) External church affairs.– The filial possesses neither a church [text lost] sexton's house.– Divine service in Pyzdry is held in rented premises.– In the filial there are five religious schools combined with prayer houses, all of them in good condition.– The number of children in the five schools of the filial comes to about 120.– There are five cemeteries in the filial, all fenced and provided with crosses.–
 
-b.) Inner church affairs.– Churchliness and church attendance satis[text lost] digend.– The baptisms are performed by the cantors concerned [text lost] in the prayer houses, the pastor confirms [uncertain: bei] his [text lost] presence in the prayer houses, those perfor[text lost] genen baptisms, and holds with the women the church [uncertain: Kirchengan?] gen [text lost] Open despisers of the Lord's Supper unbewußt. [text lost] number [text lost] communicants: male 326 female 408 total 734 [text lost] year 1881 gegen über more 131.– The inhabitants [uncertain: von] of Pyzdry [text lost] ten gladly an Evangelical school for themselves ein[text lost] sind [text lost] too poor for it, since the little town counts only 9 families[?], and [text lost]"""
+b.) Inner church affairs.– Church spirit and church attendance satisfactory.– Baptisms are performed by the cantors concerned in the prayer houses; the pastor, when he is present in the prayer houses, confirms the baptisms performed by the cantors, and holds the churching[?] with the women [text lost].– Open despisers of the Lord's Supper: none known.– The number of communicants: men 326, women 408, total 734, [text lost] compared with the year 1881, 131 more.– The inhabitants of Pyzdry would gladly set up an Evangelical school among themselves, [but] are too poor for it, since the little town counts only 9 families[?], and [text lost]"""
 
-P_0345a = """[text lost]d lay people dazu beigezogen werden können, as the [text lost]olonien have their own teachers and prayer houses.–
+P_0345a = """[text lost] lay people can be brought in for it, since the [text lost] colonies have their own teachers and prayer houses.–
 
-[text lost]en mission were collected in the course of the year at the Mis[text lost]diensten 3 roubles 40 kopecks, [text lost] Pastor-Administrator to the Herr Superintenden[text lost] Pastor Manitius at Warsaw has sent on.– Morality [text lost] das häusliche Zusammenleben are in general satisfac[text lost]nd.– Special vices in the congregation not present.– Bap[text lost]en, Irwingians etc. there are none.– Conversions to other [text lost]fessionen do not take place.–
+For the mission to the heathen, 3 roubles 40 kopecks were collected in the course of the year at the mission services, which the Pastor-Administrator sent on to Superintendent Pastor Manitius at Warsaw.– Morality and domestic life are in general satisfactory.– Particular vices in the congregation not present.– Baptists, Irvingians etc. there are none.– Conversions to other confessions do not take place.–
 
-M[?]erkwürdige events.– Have not taken place.–
+Remarkable events.– None have taken place.–
 
-Number of the confirmed.– Boys 13 girls 10, together 23.–
+Number of confirmed.– Boys 13, girls 10, together 23.–
 
-Candidates living in the congregation.– None present.–
+Candidates living in the congregation.– None.–
 
-Collections.– For the benefit of the congregation's own were not [text lost]sammelt, but for other purposes the following: 1.) For the sup[text lost]zung of grammar-school pupils who are inclined to study theology [text lost] sind 1 rouble 76 kopecks, which the Pastor-Administra[text lost] his High Evangelical-Augsburg Consistory at [text lost]arschau sent.– 2.) For the widows' and orphans' fund [text lost] roubles 36 kopecks collected and the same to the Herr [text lost]uperintendenten of Boerner to Plock sent.–
+Collections.– For the benefit of the congregation itself nothing was collected, but for other purposes the following: 1.) For the support of grammar-school pupils who intend to study theology, 1 rouble 76 kopecks, which the Pastor-Administrator sent to his High Evangelical-Augsburg Consistory at Warsaw.– 2.) For the widows' and orphans' fund [text lost] roubles 36 kopecks were collected, and the same sent to Superintendent von Boerner at Plock.–
 
 E. Erdmann
 Pastor"""
@@ -97,12 +113,12 @@ if __name__ == '__main__':
             de_n = len(DE.findall(open(os.path.join(base, src + '.txt'),
                                        encoding='utf-8').read()))
             en_n = len(EN.findall(en))
-            print(f'doc {doc} page {i} ({src}): German {de_n}, English {en_n}')
-            bad |= en_n != de_n
+            print(f'doc {doc} page {i} ({src}): German {de_n} marks, English {en_n}')
+            bad |= en_n > de_n
             out['pages'].append({'page': i, 'confidence': 'medium',
                                  'marker_count': en_n, 'en': en + '\n'})
         with open(os.path.join(HERE, f'doc{doc}.yml'), 'w', encoding='utf-8',
                   newline='\n') as f:
             yaml.safe_dump(out, f, allow_unicode=True, sort_keys=False, width=1000)
     if bad:
-        print('MARKER COUNTS DIFFER - fix the English')
+        print('MORE MARKS IN THE ENGLISH THAN THE GERMAN - check')

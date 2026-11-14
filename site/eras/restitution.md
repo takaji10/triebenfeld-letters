@@ -60,7 +60,7 @@ and do not show whether Weigel was ever paid.
 
 The records of these years are at the Central Archives of Historical Records in Warsaw
 and in the Prussian foreign ministry's files now at the Geheimes Staatsarchiv in Berlin;
-the edition has both sides of the argument, in the files the two states kept.
+between them the files of the two states give both sides of the argument.
 
 ## Events of this era
 

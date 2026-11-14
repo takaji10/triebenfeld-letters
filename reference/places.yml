@@ -1,3 +1,20 @@
+# The register of the places the documents name.
+#
+# `kind:` is what the place is TODAY, because the prose on the site speaks of
+# the places as they are now ("the cities of Konin and Kalisz"). The classes:
+#   city        about 50,000 or more inhabitants today, or a regional or
+#               national capital
+#   town        a smaller place with town rights or a town's standing
+#   village, settlement, estate, river, region, country   as named
+# A descriptor in the prose is checked against this (HOUSE_STYLE, "Check what a
+# place is before you call it something"; pipeline/review/check_place_descriptors.py).
+# What a place was in the period written about (Zagórów a village before 1407)
+# belongs in the sentence, not in `kind:`. Reclassified 2026-11-14 (the editor:
+# Konin is a city): Konin, Opole, Legnica, Częstochowa, Głogów, Zielona Góra,
+# Mysłowice, Włocławek, Jena, Weimar, Bayreuth, Fürth, Memel (Klaipėda), from
+# town to city. Open: Ostrów, Neusatz (which place?), Teplitz and Emden (about
+# 50,000: left as towns), Charlottenburg (now a district of Berlin).
+
 places:
   trabczyn:
     display: Trąbczyn
@@ -641,7 +658,7 @@ places:
       Not folded in.'
   konin:
     display: Konin
-    kind: town
+    kind: city
     area: trabczyn-zagorow
     match: Konin\w*|Konińsk\w*|Конин\w*
     not_in:
@@ -1373,7 +1390,7 @@ places:
   glogau:
     display: Głogów
     german: Glogau
-    kind: town
+    kind: city
     match: Glogau\w*
     tier: Established
     variants: []
@@ -1420,7 +1437,7 @@ places:
   grueneberg:
     display: Zielona Góra
     german: Grüneberg
-    kind: town
+    kind: city
     match: Grüneberg\w*
     tier: Established
     variants: []
@@ -1528,7 +1545,7 @@ places:
     variants: []
   memel:
     display: Memel
-    kind: town
+    kind: city
     match: Memel(?![a-zà-ÿ])
     tier: Established
     variants: []
@@ -1556,14 +1573,14 @@ places:
   oppeln:
     display: Opole
     german: Oppeln
-    kind: town
+    kind: city
     match: Oppeln(?![a-zà-ÿ])
     tier: Established
     variants: []
   liegnitz:
     display: Legnica
     german: Liegnitz
-    kind: town
+    kind: city
     match: Liegnitz\w*
     tier: Established
     variants: []
@@ -1626,13 +1643,13 @@ places:
     variants: []
   jena:
     display: Jena
-    kind: town
+    kind: city
     match: Jena(?![a-zà-ÿ])
     tier: Established
     variants: []
   weimar:
     display: Weimar
-    kind: town
+    kind: city
     match: Weimar(?![a-zà-ÿ])
     tier: Established
     variants: []
@@ -1663,7 +1680,7 @@ places:
     - Heidelburg
   bayreuth:
     display: Bayreuth
-    kind: town
+    kind: city
     match: Bayreuth
     tier: Established
     variants: []
@@ -1714,7 +1731,7 @@ places:
   czestochowa:
     display: Częstochowa
     german: Czenstochau
-    kind: town
+    kind: city
     match: Czenstochau
     tier: Established
     variants: []
@@ -1801,7 +1818,7 @@ places:
     variants: []
   myslowice:
     display: Mysłowice
-    kind: town
+    kind: city
     match: Mys[łl]owic\w*
     tier: Established
     variants:
@@ -1900,7 +1917,7 @@ places:
     - Weissenfeld
   fuerth:
     display: Fürth
-    kind: town
+    kind: city
     match: Fürth(?![a-zà-ÿ])
     tier: Established
     variants: []
@@ -1945,7 +1962,7 @@ places:
   wloclawek:
     display: Włocławek
     german: Leslau
-    kind: town
+    kind: city
     match: Wroc[łl]awek\b|Wraclawek\b
     tier: Book-confirmed
     variants: []

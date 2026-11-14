@@ -5880,7 +5880,7 @@ Note. These estates, together with those designated under No. 8 in the Departmen
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
-<p>The entry is the one the Materialien reprints: the estates worth about 800,000 Thlr. and yielding 50,000, the exchange for Krotoschin stopped by Beyme, the late King having consented to a gift of 6,000 a year. The edition holds both ends: the dossier of July and August 1796 with Hoym's proposal (a yield of 4 to 6,000 rt) and the deed of 9 August, and the King's refusal of 4 December 1798 with its yield of 40,500 against 8,650.</p>
+<p>The entry is the one the Materialien reprints: the estates worth about 800,000 Thlr. and yielding 50,000, the exchange for Krotoschin stopped by Beyme, the late King having consented to a gift of 6,000 a year. Both ends survive: the dossier of July and August 1796 with Hoym's proposal (a yield of 4 to 6,000 rt) and the deed of 9 August, and the King's refusal of 4 December 1798 with its yield of 40,500 against 8,650.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a></p>
 </aside>{% raw %}
 </section>

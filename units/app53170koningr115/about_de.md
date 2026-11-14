@@ -1,4 +1,4 @@
-Zehn Einträge auf neun Seiten eines Registers des Burggerichts Konin für die Jahre 1768 bis 1774, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Sie folgen dem Streit zwischen Antoni Prusimski von Trąbczyn und Stanisław Ścibor Chełmski von Łukomia von den Ladungen des Jahres 1768 bis zu den Kämpfen um den Wald Lusnia 1771 bis 1773. Sie sind lateinisch, zwei davon mit einer polnischen Stelle, und bilden zehn Dokumente. <!-- context -->
+Zwischen 1768 und 1773 wurde der Streit zwischen Antoni Prusimski aus Trąbczyn und Stanisław Ścibor Chełmski aus Łukomia um den Wald Lusnia gewaltsam, den ein Gerichtsbeamter 1771 Chełmski übergeben hatte. Die zehn aus dem Register des Burggerichts in Konin ausgewählten Einträge verfolgen den Streit von den Vorladungen von 1768 bis zu den Kämpfen nach der Übergabe: ein durchstochener Damm, ein beschossener und ausgeplünderter Krug, weggenommene Waffen und gefälltes Holz. <!-- context -->
 
 ### Historischer Hintergrund
 

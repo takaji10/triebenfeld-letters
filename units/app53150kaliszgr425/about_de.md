@@ -1,4 +1,4 @@
-Ein Dokument von drei Seiten in einem Buch des Burggerichts Kalisz für das Jahr 1776, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Es ist eine Vertagung, die fünf Kommissare am 28. September 1776 in der Grenzsache zwischen Prusimski und Chełmski aussprachen. Es ist polnisch, mit einem lateinischen Eintragungsvermerk. <!-- context -->
+Die Grenzsache zwischen Antoni Prusimski aus Trąbczyn und den Chełmski aus Łukomia endete nicht mit dem Dekret der Kommission von 1775, und noch 1776 traten Kommissare in ihr zusammen. Am 28. September 1776 vertagten fünf Kommissare, die der Reichstag in Warschau und das Tribunal in Piotrków abhielten, ihre Sitzung auf dem Grund von Łukom auf den Januar 1777. Keiner der fünf hatte das Dekret der Kommission unterschrieben. <!-- context -->
 
 ### Historischer Hintergrund
 

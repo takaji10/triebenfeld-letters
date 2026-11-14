@@ -1,4 +1,4 @@
-Two entries on three pages of the register of the municipal court of Konin for 1785 and 1786, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). One records the injuries of a Trąbczyn subject beaten on the road; the other is a late step in Stanisław Ścibor Chełmski's suit against Antoni Prusimski on the Tracholz debt. They are in Latin and are two documents. <!-- context -->
+The quarrel between Antoni Prusimski of Trąbczyn and Stanisław Ścibor Chełmski of Łukomia went on into the later 1780s. In one of the two entries chosen from the Konin register of 1785 and 1786 a subject of the Trąbczyn estate shows the court the injuries of a beating on the road; in the other Chełmski presses on with the suit over the debt he had bought from the merchant Tracholz, begun nine years before. <!-- context -->
 
 ### Historical background
 

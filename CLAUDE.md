@@ -158,20 +158,23 @@ so check them.
   "The Trąmpczyński family pages".
 
 - **AGAD 1/432/0/1/139, scans 128-130 - Pastor Erdmann's reports of 1882**
-  (slug `agad14320139`, added 2026-11-11, **not published**): two German
+  (slug `agad14320139`, added 2026-11-11, **published 2026-11-13**): two German
   documents on burnt leaves of the Warsaw Evangelical-Augsburg consistory's
   file - the annual reports of the parish of Zagórów and its filial
   Lissewo-Pyzdry, era `wlodzimierz`. Transcribed by Opus sub-agents from the
-  images, a second independent reading, settled; every lost stretch is `[...]`
-  and never completed in the text. **New: the supplied-text layer** (the
+  images, a second independent reading, settled; every lost stretch was `[...]`,
+  and since 2026-11-13 (the editor) the words that add no fact are supplied in
+  square brackets in the text and the English alike (`intake/supply_text.py`;
+  a lost figure, place or date stays `[...]`). **New: the supplied-text layer** (the
   editor's yes, 2026-11-11): `units/<slug>/supplied.yml`, a collapsed panel
   under a page's text for proposed wording graded A or B (docs/CONSISTORY_1882_PLAN.md);
   never in the transcription, translation or summaries - **ruled off the site
   2026-11-12** (`show_supplied: false` in the unit.yml; the data stays). Translated and
   summarised in session. Spot sheet answered and applied 2026-11-12; index, timeline event and era
   paragraph added. Open: four readings (NEEDS_CONFIRMATION). Read `units/agad14320139/notes.md`
-  first, and WORKING_NOTES, "The 1882 consistory reports". The Sources page
-  icons fix (`include.kind`) is in the same uncommitted working copy.
+  first, and WORKING_NOTES, "The 1882 consistory reports". The reader's
+  pages say nothing of the burn (the editor, 2026-11-13); the account of the
+  damage is in the notes.
 
 - **The literature's call-outs reworked, and the connections built**
   (branch `related-callouts`, 2026-11-01, **published at your word** — the two commits cherry-picked onto main, the Pełzucki map work beneath the branch left unpublished): the duplicated

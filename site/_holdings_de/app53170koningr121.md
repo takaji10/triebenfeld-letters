@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Ein Eintrag auf zwei Seiten des Registers des Burggerichts Konin für 1787 und 1788, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Am 9. Juni 1788 führte ein Diener Antoni Prusimskis dem Amt Wagen und Tiere eines Bauern von Stanisław Ścibor Chełmski vor, der beim Holzholen im Trąbczyner Wald gefasst worden war. Er ist lateinisch, mit polnischen Glossen, und bildet ein Dokument. <!-- context -->
+Am 9. Juni 1788 brachte ein Diener Antoni Prusimskis Wagen und Tiere eines Bauern Stanisław Ścibor Chełmskis vor das Gerichtsamt, der beim Abfahren eines gefällten Baumes aus dem Trąbczyner Kiefernwald ertappt worden war – der Streit zwischen Trąbczyn und Łukomia lebte sechs Jahre nach der Absteckung der Grenze noch. <!-- context -->
 
 ### Historischer Hintergrund
 

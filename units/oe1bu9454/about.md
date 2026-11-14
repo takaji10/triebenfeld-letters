@@ -1,4 +1,4 @@
-A file of correspondence kept in the Hohenlohe-Zentralarchiv Neuenstein. It consists chiefly of letters written between 1798 and 1816 by Peter Friedrich von Triebenfeld, a Prussian Councillor of War and Forests, to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, whose estates in South Prussia he managed. The file holds 318 documents on 869 pages. About 240 are letters of Triebenfeld; the remainder are letters of other persons, drafts by Hohenlohe-Ingelfingen, and enclosures. <!-- context -->
+Peter Friedrich von Triebenfeld, a Prussian Councillor of War and Forests, managed the estates of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in South Prussia – Prussia's share of partitioned Poland – and wrote to the Prince about them for eighteen years, from 1798 to 1816. Triebenfeld's letters, about 240 of them, tell the story of the Prince's estates: the sales, loans and lawsuits of Trąbczyn, Zagórów and the Prince's other estates, told as they happened. With them are letters of other people, drafts by the Prince, and the papers enclosed with the letters. <!-- context -->
 
 ### Historical background
 

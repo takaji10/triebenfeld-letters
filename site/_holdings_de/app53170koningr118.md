@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Neunundzwanzig Einträge auf siebenunddreißig Seiten des Registers des Burggerichts Konin für 1780 bis 1782, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Sie führen den Streit zwischen Antoni Prusimski von Trąbczyn und Stanisław Ścibor Chełmski von Łukomia bis zur Entscheidung durch das Krontribunal und zum Versuch, die Grenze im Gelände zu bezeichnen, und sie zeigen zwei weitere Prozesse Prusimskis aus denselben Jahren. Sie sind lateinisch, drei davon polnisch, und bilden neunundzwanzig Dokumente. <!-- context -->
+Im Januar 1782 entschied das Krontribunal, das oberste Gericht des polnischen Königreichs, über die Grenze zwischen Trąbczyn und Łukomia. Die aus dem Konin-Register von 1780 bis 1782 ausgewählten Einträge zeigen, wie das Dekret des Tribunals gegen den Widerstand Stanisław Ścibor Chełmskis auf dem Grund vollzogen wurde, und drei andere Prozesse derselben Jahre: Chełmskis Forderung aus der Tracholz-Schuld, die Verteidigung der Abtei Ląd gegen den Vorwurf der Kollusion und den Anspruch der Zakrzewski und anderer Erben auf den Nachlass von Antoni Prusimskis Onkeln. <!-- context -->
 
 ### Historischer Hintergrund
 

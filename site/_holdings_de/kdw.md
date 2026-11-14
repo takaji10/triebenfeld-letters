@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Einundzwanzig Einträge des Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae), der Edition der mittelalterlichen Urkunden Großpolens, aus acht ihrer Bände, erschienen in Posen von 1877 bis 1999. Jeder Eintrag ist hier ein Dokument und wird vollständig wiedergegeben: die Nummer im Kodeks, die Überschrift der Herausgeber, ihr Regest und ihre Quellenangaben, der Text der mittelalterlichen Urkunde und ihre Anmerkungen. Die Einträge hat der Herausgeber ausgewählt, für das, was sie über Trąbczyn und seine Nachbarn sagen; sie reichen von 1173 bis 1440 und stehen in der Folge ihrer Daten. Der Text ist der elektronische Text der Bände in der [Großpolnischen Digitalen Bibliothek](https://www.wbc.poznan.pl/), nach den Exemplaren der Bibliothek Kórnik der Polnischen Akademie der Wissenschaften; die Seite jedes Dokuments nennt Band und Nummer, mit einem Link auf den Band. <!-- context -->
+Die Geschichte von Trąbczyn beginnt in den Urkunden des Mittelalters: Schenkungen an die Zisterzienserabtei Ląd ab 1173, die Schenkung von Trąbczyn selbst an den Grafen Mikołaj 1276, das Stadtrecht von Zagórów 1407. Der Kodeks Dyplomatyczny Wielkopolski, die gedruckte Edition der mittelalterlichen Urkunden Großpolens, veröffentlicht diese Urkunden, und die Einträge hier sind diejenigen, die von Trąbczyn und seinen Nachbarn sprechen. Jeder Eintrag steht vollständig: die Nummer des Kodeks, Überschrift, Regest und Quellenangaben seiner Herausgeber, der mittelalterliche Text und die Anmerkungen der Herausgeber. Der Text ist der elektronische Text jedes Bandes in der [Großpolnischen Digitalen Bibliothek](https://www.wbc.poznan.pl/). <!-- context -->
 
 ### Historischer Hintergrund
 

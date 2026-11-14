@@ -1,13 +1,4 @@
-# APP 53/20/0/-/Poznań Gr.1181
-
-Das Dekret der Kondeszension vom 29. März 1784 [[1]]: die Sitzung, die die
-Kastellaneiämter Großpolens auf dem Grund von Trąbczyn, im dortigen
-Gutshaus, über die ultimative Limitation der Erbschaft abhielten, die die
-kinderlos verstorbenen Brüder Antoni und Paweł Prusimski hinterließen. Ein
-Dokument auf vierzehn Seiten des Relationes-Protokolls des
-Kastellangerichts von Posen, eingerückt unter der Registerüberschrift
-"4ta Martii"; der Eintrag endet am Fuß von Blatt 167v mitten im Satz, und
-nichts folgt ihm im Band [[1]].
+Die Brüder Antoni und Paweł Prusimski starben kinderlos, und ihre Güter mussten zwischen ihrem Neffen Antoni Prusimski, dem Besitzer von Trąbczyn, und den Erben ihrer drei Schwestern geteilt werden. Im März 1784 hielt das Kastellangericht von Posen im Gutshaus von Trąbczyn eine Sitzung ab, um die Teilung endgültig zu regeln, und sein Dekret rekapituliert die Teilungen, Schulden und Besitztitel der Familie bis ins frühe siebzehnte Jahrhundert [[1]]. Der Eintrag endet mitten im Satz am Fuß seiner letzten Seite, und nichts folgt ihm im Band [[1]].
 
 Die Parteien waren Antoni in Kolno Prusimski, Starost von Niszczewice, Ritter
 des St.-Stanislaus-Ordens, der Neffe und Erbe der kinderlosen Brüder,

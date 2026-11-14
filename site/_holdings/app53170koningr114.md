@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Two entries on four pages of a book of reports of the municipal court of Konin for the years 1765 to 1767, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). Both are reports of a court messenger, made in 1767 for Antoni Prusimski, on an embankment that flooded the Olęder settlers of Trąbczyn. They are in Latin, with the thing seen described in Polish, and are two documents. <!-- context -->
+Water was one of the weapons in the quarrel between Trąbczyn and Łukom. In 1767 a court messenger reported twice to the municipal court at Konin, for Antoni Prusimski of Trąbczyn, that the people of Łukom had raised an embankment at the pond on the boundary, and that the water held back by the embankment was flooding the fields and meadows of the Olęder settlers in the woods of Trąbczyn. <!-- context -->
 
 ### Historical background
 

@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Zwölf Einträge auf dreizehn Seiten eines Registers des Burggerichts Konin für die Jahre 1775 bis 1777, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Sie sind das, was das Register zur Kommission enthält, die die Grenze zwischen Trąbczyn und Łukomia festlegte: die Bekanntmachungen ihres Kommens, die Proteste während ihrer Sitzung und die späteren Nachsuchen nach einem Dekret. Sie sind lateinisch, mit polnischen Unterschriften, und bilden zwölf Dokumente. <!-- context -->
+1775 tagte eine Grenzkommission auf dem strittigen Grund zwischen Trąbczyn und Łukomia, um die Linie ein für alle Mal festzulegen. Die zwölf aus dem Register des Burggerichts in Konin ausgewählten Einträge sind alles, was dieses Register über die Kommission enthält: die Ankündigungen ihres Kommens, die Proteste der Kommissare, Antoni Prusimskis und Stanisław Chełmskis während ihrer Sitzung und die Suchen, die beide Seiten danach nach einem Dekret anstellten, das in Konin nicht zu finden war. <!-- context -->
 
 ### Historischer Hintergrund
 

@@ -15,7 +15,7 @@ joined them. The rising failed, and the Prussian crown confiscated the estates o
 who had taken part: Prusimski was named by the Prussian authorities as one of its
 leaders, and he fled
 ([the mortgage certificate that records it]({{ '/documents/oe1bu14525/12/' | relative_url }})).
-These are the estates a Prussian prince will be given two years later.
+Trąbczyn, Kamionna and Kolno, the estates that Prussia took from Prusimski, are the estates that the King of Prussia will give to one of his generals, Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, two years later.
 
 The state that took them was new. Prussia had made its separate peace at Basel in April
 1795, and in October the three partitioning powers divided what remained of Poland;

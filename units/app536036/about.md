@@ -1,4 +1,4 @@
-Two entries on two pages of a book of decrees of the land court at Konin for the years 1641 to 1644, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They are judgments by default which Jerzy Chełmski obtained against the Trąmpczyński family of Trąbczyn at the court's sitting of 1644. They are in Latin and are two documents. <!-- context -->
+In 1644, more than fifty years after the suit over the pond at Łukom, the owners of Łukom were again at law with the Trąmpczyński family, who then owned Trąbczyn. At the land court's sitting at Konin, Jerzy Chełmski of Łukom obtained two judgments by default against the four Trąmpczyński brothers and their widowed mother: one for notches cut into his trees like boundary marks, the other for timber felled in his wood. <!-- context -->
 
 ### Historical background
 

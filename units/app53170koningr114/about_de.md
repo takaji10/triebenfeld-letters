@@ -1,4 +1,4 @@
-Zwei Einträge auf vier Seiten eines Berichtsbuchs des Burggerichts Konin für die Jahre 1765 bis 1767, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Beide sind Berichte eines Gerichtsboten, 1767 für Antoni Prusimski erstattet, über einen Damm, der die Olęder-Siedler von Trąbczyn überschwemmte. Sie sind lateinisch, das Gesehene ist polnisch beschrieben, und sie bilden zwei Dokumente. <!-- context -->
+Wasser war eine der Waffen im Streit zwischen Trąbczyn und Łukom. 1767 meldete ein Gerichtsbote dem Burggericht in Konin zweimal für Antoni Prusimski aus Trąbczyn, dass die Leute von Łukom am Teich an der Grenze einen Damm aufgeworfen hätten und dass das vom Damm gestaute Wasser die Felder und Wiesen der Olęder-Siedler in den Wäldern von Trąbczyn überschwemme. <!-- context -->
 
 ### Historischer Hintergrund
 

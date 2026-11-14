@@ -1,4 +1,4 @@
-Eight entries on eight pages of the register of the municipal court of Konin for 1783 and 1784, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They are from the first two years after the boundary between Trąbczyn and Łukomia was marked on the ground, and show the two owners at law again at once. They are in Latin and are eight documents. <!-- context -->
+Marking the boundary between Trąbczyn and Łukomia on the ground in 1782 did not end the quarrel between the two owners. The entries chosen from the Konin register of 1783 and 1784 show Stanisław Ścibor Chełmski and Antoni Prusimski back in court at once – over a wood cut along the new line, over an inroad at Łomowo, and over the men Prusimski was to produce before the court. <!-- context -->
 
 ### Historical background
 

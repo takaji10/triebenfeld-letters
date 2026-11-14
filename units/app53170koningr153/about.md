@@ -1,4 +1,4 @@
-Two original acts of late 1782 on twenty-six pages, sewn into a book of the municipal court of Konin kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). The first is the decree that marked the boundary between Trąbczyn and Łukomia on the ground and so ended the dispute; it contains the full text of the Crown Tribunal's decree that ordered it. The second delivers one Olęder settler to Antoni Prusimski. They are in Latin and are two documents. <!-- context -->
+In late 1782 the boundary between Trąbczyn and Łukomia was finally marked on the ground, which settled in law a dispute that had lasted nearly two hundred years. The first of the two acts sewn into the Konin court book is the decree of the boundary chamberlain of Gniezno, which copies the Crown Tribunal's judgment and records the forty-one mounds raised along the line. The second act puts an Olęder settler, Martin Hunt, into Antoni Prusimski's possession. <!-- context -->
 
 ### Historical background
 

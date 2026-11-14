@@ -1,4 +1,4 @@
-A volume of deeds and official papers concerning the estates in South Prussia that the Prussian crown granted to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, in 1796 and 1797. It contains 44 documents on 165 pages, dated 1794 to 1804, and is kept in the Hohenlohe-Zentralarchiv Neuenstein. Most of the documents are certified copies. <!-- context -->
+In 1796 and 1797 the Prussian crown gave Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, a Prussian general, estates in South Prussia – Prussia's share of partitioned Poland – that had been confiscated from their Polish owners. The volume of the Prince's own papers on the grant holds the charter and its certified copies, the entries of his title, a valuation, and the official letters that put the grant into effect; most of the documents are certified copies. <!-- context -->
 
 ### Historical background
 

@@ -1,4 +1,4 @@
-A charter of Friedrich Wilhelm III, King of Prussia, issued at Berlin on 19 December 1805. It confirms the family entail founded by Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, in his will of 7 October 1805. The holding consists of this one document, on fifteen pages, and is kept in the Hohenlohe-Zentralarchiv Neuenstein. <!-- context -->
+In his will of 7 October 1805 Prince Friedrich Ludwig of Hohenlohe-Ingelfingen bound his estates in Silesia and South Prussia into a family entail, so that they would pass undivided to one heir. The charter by which Friedrich Wilhelm III, King of Prussia, confirmed the entail on 19 December 1805 sets out the order of succession, two years before the Prince lost the estates in South Prussia. <!-- context -->
 
 ### Historical background
 

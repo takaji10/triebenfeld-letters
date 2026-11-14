@@ -1,4 +1,4 @@
-Ten entries on nine pages of a register of the municipal court of Konin for the years 1768 to 1774, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They follow the quarrel between Antoni Prusimski of Trąbczyn and Stanisław Ścibor Chełmski of Łukomia from the citations of 1768 to the fighting over the Lusnia wood in 1771 to 1773. They are in Latin, two of them with a passage in Polish, and are ten documents. <!-- context -->
+Between 1768 and 1773 the quarrel between Antoni Prusimski of Trąbczyn and Stanisław Ścibor Chełmski of Łukomia turned violent over the Lusnia wood, which a court officer had handed to Chełmski in 1771. The ten entries chosen from the register of the municipal court at Konin follow the quarrel from the citations of 1768 to the fighting that came after the handover: an embankment broken, an inn shot at and stripped, weapons taken and timber felled. <!-- context -->
 
 ### Historical background
 

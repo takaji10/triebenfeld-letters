@@ -1,4 +1,4 @@
-One entry of four pages in a book of the municipal court of Konin for 1754, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the report of an inspection of the Trąbczyn estate made in July 1754 for its widowed owner. It is in Polish, with a Latin record at the end, and is one document. Part of the entry is not transcribed. <!-- context -->
+In July 1754 the widow Katarzyna Prusimska had the Trąbczyn estate inspected, and a court messenger reported the inspection to the municipal court at Konin. The report goes through the buildings of the manor farm one by one, describes the Olęder settlers of Nowa Wieś, counts the peasants who owed labour in four villages, and records two noblemen's statement that the best timber of the estate's woods had been felled. Part of the entry is not transcribed. <!-- context -->
 
 ### Historical background
 

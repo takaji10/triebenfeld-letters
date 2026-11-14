@@ -129,7 +129,7 @@ Reading handwriting by machine gets a share of the characters wrong. Going throu
 text again with a language model, which weighs each word against its context, removes
 many of these errors but not all of them, and it can leave plausible German that is not
 what the page says. Some inaccuracy therefore always remains. Given the number of
-documents, the editor has accepted that for this project.
+documents, the editor has accepted that.
 
 **Anything taken from these texts for academic work should first be checked against the
 original document.** The image of each page is shown beside its text.
@@ -236,5 +236,5 @@ The years after the estates were returned to the Prusimski family in 1807 are st
 
 ## Citing and reusing
 
-[Licences, credits and privacy]({{ '/rights/' | relative_url }}) says who runs the site,
-how to cite a document, and what may be reused.
+[Licences, credits and privacy]({{ '/rights/' | relative_url }}) says who is responsible
+for the transcriptions and translations, how to cite a document, and what may be reused.

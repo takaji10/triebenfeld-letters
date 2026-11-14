@@ -67,6 +67,170 @@ A short entry that leaves the reader asking is worse than a longer one that
 does not. Where an entry cannot be made clear without a paragraph, it belongs
 on the era page, and the timeline keeps the core of it.
 
+## Name the subject; do not point back
+
+The editor, 2026-11-14: "You have a tendency to write this, those, that when
+talking about things and forgetting to state the main topic. You also assume
+that a reader remembers things when they read one paragraph and then they're
+interrupted by a bunch of options or buttons and then a new paragraph
+starts ... Stop trying to be overly succinct and instead guide the reader and
+help them to understand."
+
+The fault has a name: **vague reference**, a pronoun or pointing word ("this",
+"that", "these", "those", "it", "they", "the estates", "the period") whose
+meaning sits in an earlier sentence, often one the reader has already left
+behind. It is made worse by **assumed continuity**: the writer treats a page
+as one unbroken text, when the reader meets it in pieces, with headings,
+figures, buttons and lists between the pieces.
+
+- **Every paragraph names its own subject.** A paragraph opens with the
+  person, place or thing it is about, in full: "Count Włodzimierz Miączyński",
+  "the colonists of Trąbczyn", "the estates Prussia confiscated", not "he",
+  "they", "these".
+- **A paragraph that follows anything other than prose starts again.** After a
+  heading, a row of figures, buttons, a list, a table or a picture, assume the
+  reader has forgotten the paragraph before; restate what the earlier
+  paragraph had established.
+- **"This", "that", "these" and "those" take a noun.** "This decree", "those
+  forest rights", never a bare "this" or "that" standing for a sentence. "It"
+  and "they" only where the noun is in the same sentence or the one directly
+  before it, and only one noun could be meant.
+- **Repeat the noun rather than vary it or drop it.** Saying "the Prince" a
+  third time is better than "he" where a reader could wonder who.
+- **Say what a thing is the first time, even when it costs words.** "The
+  Crown Tribunal, the highest court of the Polish kingdom", "the Duchy of
+  Warsaw, a new Polish state that Napoleon had created". Concision (below)
+  never outranks being understood.
+
+```
+NO   [after the figures and the buttons]  For most of those centuries
+     Trąbczyn was a manor.
+YES  For most of the seven centuries that the documents cover, Trąbczyn
+     was a manor.
+
+NO   These are the estates a Prussian prince will be given two years later.
+YES  Trąbczyn, Kamionna and Kolno, the estates that Prussia took from
+     Prusimski, are the estates that the King of Prussia will give to one
+     of his generals, Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, two
+     years later.
+
+NO   ... contracts his family never signed. They sue him in 1859.
+YES  ... contracts his family never signed. The colonists sue him in 1859.
+```
+
+**The worst case: a sentence made only of pointers.** The editor, 2026-11-14,
+of the homepage's old second sentence: "'this is its archive' - a terrible
+sentence that requires the reader to do mental gymnastics to decipher the
+statement. Avoid these kinds of statements." In "This is its archive" every
+word that carries meaning is a pointer: "this" (the website? the page? the
+paragraph?), "its" (Trąbczyn, two sentences back) and "archive" (used in a
+sense the reader has to work out). A sentence whose subject, object and
+meaning all have to be fetched from elsewhere says nothing on its own. Write
+the things themselves:
+
+```
+NO   This is its archive.
+YES  Traces in the Sand is an archive of the documents written about
+     Trąbczyn and the land around it.
+
+NO   One document of three pages in a book of the municipal court of Kalisz
+     for 1771 ... It is the delivery of possession by which ...
+YES  A book of the municipal court of Kalisz for 1771 records, on three
+     pages, the delivery of possession by which ...
+
+NO   It is the edition's last account of the parish under the Prusimski
+     family.          [after a sentence about Prussia and the Prince]
+YES  The visitation of 1790-1791 is the last account of the parish of
+     Trąbczyn while the Prusimski family still owned it.
+```
+
+The same goes for sentences that begin "It is", "This is", "These are",
+"Here is" or "That was" and only then say what they are about: begin with
+the thing.
+
+## The pages do not talk about themselves
+
+The editor, 2026-11-14: "I also don't want you referring to anything as
+'edition' - don't talk about the site/edition/project." No reader-facing
+sentence speaks of "the edition", "the project", "the site", "this website" or
+"the collection" (German: "die Edition", "diese Ausgabe", "das Projekt", "die
+Website", "die Sammlung") as the holder of the documents. Name the thing
+itself instead: the document, the court book, the file, the letters of
+Triebenfeld, the Kodeks.
+
+```
+NO   The edition's judgment of 1644 shows a Jerzy Chełmski holding Łukom.
+YES  The Konin land court's judgment of 1644 shows a Jerzy Chełmski
+     holding Łukom.
+
+NO   The earliest record of that quarrel in the collection is from 1589.
+YES  The earliest surviving record of that quarrel is from 1589.
+
+NO   Traces in the Sand is an archive of the documents written about
+     Trąbczyn.
+YES  For more than seven hundred years people wrote down who owned the
+     estate of Trąbczyn ... Each of those documents is shown in its
+     original language.
+```
+
+Untouched by the rule: "edition" in its ordinary sense (the Kodeks as "the
+printed edition of the medieval documents of Greater Poland", "the second
+edition of 1776", "the Zagórów edition of Echo Tureckie"), another site that
+is a source ("the website of the Lutheran parish of Konin"), and the
+Licences and privacy page, which has to say what the website does with a
+reader's data. The docs in `docs/` and the notes may speak of the edition;
+they are not read by the reader.
+
+## Check what a place is before you call it something
+
+The editor, 2026-11-14, after the homepage called Konin and Kalisz "towns"
+when both are cities: "Should we implement a rule that place names, when
+mentioned with a descriptor, should always check against how the place is
+classed? That way when mentioning Emilienheim you'll know that it's not a
+city but an Olęder settlement, same with Ingelfingen (Anielewo)?"
+
+The fault was writing a descriptor ("towns", "village", "city") from
+impression. The classification is on record, so the descriptor is looked up
+first:
+
+- **Where it is recorded.** `reference/places.yml` (`kind:`) for the places of
+  the documents, and `reference/gazetteer/<slug>.yml` (`kind:`, `kind_text:`,
+  `aliases:`) for the places around Trąbczyn: Emilienheim is an Olęder
+  settlement, and Anielewo (once *Kolonia Ingelfingen*, renamed in 1891) is a
+  village that began as a German colony.
+- **Look it up for every descriptor**: "the city of", "the town of", "the
+  village of", "the hamlet of", "the colony of", "the settlement of". A
+  sentence that names several ("the cities of Konin and Kalisz") is checked
+  for each.
+- **The register can be wrong or can mean another time.** Its kinds are
+  uneven (in 2026 it still called Konin a town and Częstochowa a town). Where
+  it disagrees with what you know of the place today, say so to the editor
+  and write what is true; do not copy the register's word and do not guess.
+  A descriptor correct for the period written about stays: Zagórów was "its
+  village" before the town charter of 1407.
+- **`pipeline/review/check_place_descriptors.py`** lists every descriptor in
+  the authored prose that differs from the register. Run it before
+  publishing; it changes nothing, and each line is read against its sentence.
+  "Estate of X" is not checked: it names a landholding that carries the
+  place's name.
+
+## State the facts, not the fact that they were written down
+
+The editor, 2026-11-14, of "people wrote down who owned the estate of
+Trąbczyn": "sounds really boring. It's not important that people wrote it
+down, the ownership of the estate was simply documented during that period."
+A sentence about the documents says what the documents show, with the people
+and events as its subject. "People wrote down", "the records show that", "the
+documents tell us" and "it was recorded that" add the act of writing and leave
+the fact in second place.
+
+```
+NO   For more than seven hundred years people wrote down who owned the
+     estate of Trąbczyn.
+YES  From 1173 to the 1930s, the ownership of the estate of Trąbczyn ...
+     were documented in Latin, Polish, German, French and Russian.
+```
+
 ## The documents first
 
 The editor, 2026-10-20: "All facts must be first verified against
@@ -212,6 +376,32 @@ which sheet is the original and which the copy, a spelling the copyist kept.
 The same test applies to every page: say what the reader needs to understand
 the source, not what it looks like.
 
+**The description does not open by repeating the header (the editor,
+2026-11-14).** "'One document of three pages in a book of the municipal court
+of Kalisz for 1771, kept in the State Archive in Poznań' is repeating
+information - this info is already stated above through the document's header
+and metadata. So I wouldn't open with these physical descriptions of items."
+The header of a holding's page already shows the reference, the archive, the
+archive's title, the number of documents and pages, the span and the
+languages, and the title line above them already summarises the contents. The
+description's first paragraph therefore says, in plain sentences, what the
+documents are and why they matter for Trąbczyn: who did what, when, and where
+it fits in the estate's story. It keeps only the facts a reader needs that the
+header does not give (a part not transcribed, a reading from microfilm, a
+copy made long after the original), and it names its subject in full rather
+than with "It is" (see "Name the subject; do not point back").
+
+```
+NO   One document of three pages in a book of the municipal court of Kalisz
+     for 1771, kept in the State Archive in Poznań (Archiwum Państwowe w
+     Poznaniu). It is the delivery of possession by which ... It is in
+     Latin, with the act of delivery itself in Polish.
+YES  The Lusnia wood, a pine wood with a small Olęder settlement on the
+     disputed ground between Trąbczyn and Łukom, was handed to Stanisław
+     Ścibor Chełmski of Łukomia in November 1771 on the strength of
+     judgments he had won against Antoni Prusimski of Trąbczyn.
+```
+
 ## The era essay
 
 An era's page (`site/hohenlohe.md`) is the one place where the edition tells a
@@ -289,7 +479,8 @@ shows, and a fourth view that is not a view.
 
 ## Concision
 
-Do not over-describe. Cut the sentence that counts and classifies what the next
+Concision never outranks being understood ("Name the subject; do not point
+back", above). Do not over-describe. Cut the sentence that counts and classifies what the next
 sentence is about to say.
 
 ```

@@ -259,32 +259,75 @@ en:
 
   # page prose
   home_lede: >-
-    Trąbczyn is a village and estate in central Poland, in the country between
-    Konin and Kalisz. This is its archive: the papers of the people who owned it,
-    sold it, settled it and went to law over it, in the original German, French
-    and Polish and in English translation. What is published so far covers the
-    eleven years a Prussian prince held the place, the nine he spent trying to
-    get it back, and the dispute over his debts on the estate, which ran on until
-    1832.
+    Trąbczyn is a village in central Poland, in the flat farming country between
+    the cities of Konin and Kalisz, a few kilometres from the small town of
+    Zagórów. From 1173 to the 1930s, the ownership of the estate of Trąbczyn,
+    the farming and settlement of its land, and the lawsuits fought over it were
+    documented in Latin, Polish, German, French and Russian. The documents
+    appear here in their original language, each with an English translation
+    beside it.
   fig_documents: documents
   fig_span: span
   fig_people: people identified
   fig_places: places of writing
   card_about: About
-  home_h2: About this project
+  home_h2: The story of Trąbczyn in brief
   home_p1: >-
-    Poland was partitioned out of existence between 1772 and 1795. Trąbczyn ended
-    up in the Prussian share, and in 1796 the King gave it away, to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, a general who ran it from Silesia and
-    needed it to pay his debts. He sent Peter Friedrich von Triebenfeld, Councillor
-    of War and Forests, to turn land into money.
+    For most of the seven centuries that the documents cover, Trąbczyn was a
+    manor: a lord's house with its own home farm, surrounded by villages whose
+    people owed the lord rent and labour. In the Middle Ages the Cistercian
+    monks of the abbey of Ląd held much of the land around Trąbczyn, while a
+    family of knights held Trąbczyn itself. From the sixteenth century Trąbczyn
+    belonged to the Trąmpczyński family, who sold it in 1698 to Jan Prusimski of
+    Kolno. For two hundred years the owners of Trąbczyn – first the
+    Trąmpczyńskis, then the Prusimskis – argued in the courts with the owners of
+    the neighbouring estate of Łukom, from the seventeenth century the Chełmski
+    family, over where the boundary between the two estates ran. The quarrel
+    over the boundary ended only in 1782, when the highest court of the Polish
+    kingdom, the Crown Tribunal, had forty-one boundary mounds raised along the
+    line it had fixed. From the 1740s the owners of Trąbczyn also let the
+    estate's wet, low-lying ground to Olęder colonists: Protestant farmers, most
+    of them German-speaking, who cleared and drained the land and held it on
+    long leases that passed to their children.
   home_p2: >-
-    The way to do that was to break the estate up. The land the lord farmed himself was divided into holdings and let out for good, to farmers and to Hollanders: settlers
-    who held on a Dutch-derived tenure and had been clearing and draining land in
-    this part of Poland for generations. The contracts survive: what each man
-    paid, what he owed every year, and what he gave up to get it.
-  home_p3_pre: >-
-    Prussia lost the war of 1806 and the estate went with it. The letters run on for nine more years, through an arrest, thirty-one lawsuits at once and a winter at the Congress of Vienna, and end with a liquidation register listing debts of Hohenlohe-Ingelfingen of
-  home_p3_sum: 1,414,377 Reichsthaler
+    Between 1772 and 1795 Poland's three neighbours – Prussia, Russia and
+    Austria – divided Poland among themselves until the country no longer
+    existed, and Trąbczyn fell to Prussia. The last Polish owner of Trąbczyn,
+    Antoni Prusimski, fought in the Kościuszko uprising of 1794 against the
+    three powers, and Prussia confiscated his estates. In 1796 the King of
+    Prussia gave the confiscated estates to one of his generals, Prince
+    Friedrich Ludwig of Hohenlohe-Ingelfingen. The Prince was deeply in debt. To
+    raise money for his creditors, the Prince's agent, Peter Friedrich von
+    Triebenfeld, broke up the home farms of the estates into plots and leased
+    the plots to settlers on terms that passed to their heirs. In 1806 Napoleon
+    defeated Prussia, and in 1807 the Duchy of Warsaw, a new Polish state that
+    Napoleon had created, gave the estates back to Antoni Prusimski's daughter,
+    Michalina. The Prince spent the next nine years trying to recover the
+    estates. The loans that the Prince had raised against the land were fought
+    over in the courts of Prussia and Poland, and before the Russian tsar, until
+    1834.
+  home_p3: >-
+    In 1815, after Napoleon's fall, Trąbczyn became part of a new Kingdom of
+    Poland ruled by the Russian tsar. When Michalina died in 1851, her son,
+    Count Włodzimierz Miączyński, inherited the estate. With the estate he
+    inherited the colonists as well. The colonists' rights to graze their
+    animals and gather wood in the estate's forest rested on contracts that
+    Count Miączyński's family had never signed, and in 1859 the colonists took
+    the Count to court over those forest rights. In 1864 a reform decreed by the
+    tsar made the peasants of the Kingdom of Poland the owners of the land they
+    farmed. In 1892 the colonists of Trąbczyn gave up their last rights in the
+    forest in exchange for land of their own. By the 1930s the manor had been
+    divided up. In 1935 and 1936 the historian Albert Breyer visited two
+    German-speaking villages on the old estate – Łazińsk, the oldest of the
+    Olęder colonies, and Emilienheim, a colony founded by the Prince – and wrote
+    down what the villagers remembered of their history, only a few years before
+    the Second World War destroyed their community.
+  home_p4: >-
+    Alongside the archival documents are the books and articles that historians
+    have written about Trąbczyn, newspaper reports about the estate and the area
+    around it from 1754 to 2015, family trees of the estate's owners, old maps
+    of the estate and its colonies, and a survey of the Evangelical (Protestant)
+    cemeteries of the area.
   people_h1: People in the documents
   places_h1: Places of writing
   timeline_h1: Timeline
@@ -683,34 +726,75 @@ de:
   summary_label: Regest
   # page prose
   home_lede: >-
-    Trąbczyn ist ein Dorf und Gut in Mittelpolen, im Land zwischen Konin und
-    Kalisch. Dies ist sein Archiv: die Akten derer, die es besaßen, verkauften,
-    besiedelten und beklagten, im deutschen, französischen und polnischen
-    Original und in englischer Übersetzung. Veröffentlicht sind bisher die elf
-    Jahre, in denen ein preußischer Fürst das Gut hielt, die neun, die er darauf
-    verwandte, es zurückzugewinnen, und der Streit um seine Schulden auf dem Gut,
-    der bis 1832 andauerte.
+    Trąbczyn ist ein Dorf in Mittelpolen, im flachen Ackerland zwischen den
+    Städten Konin und Kalisch, wenige Kilometer von der kleinen Stadt Zagórów.
+    Von 1173 bis in die 1930er Jahre wurden der Besitz des Gutes Trąbczyn, die
+    Bewirtschaftung und Besiedlung seines Landes und die Prozesse darum in
+    lateinischen, polnischen, deutschen, französischen und russischen Dokumenten
+    festgehalten. Die Dokumente stehen hier in ihrer Originalsprache, jeweils
+    mit einer englischen Übersetzung daneben.
   fig_documents: Dokumente
   fig_span: Zeitraum
   fig_people: Personen bestimmt
   fig_places: Ausstellungsorte
   card_about: Über
-  home_h2: Über dieses Projekt
+  home_h2: Die Geschichte von Trąbczyn in Kürze
   home_p1: >-
-    Polen wurde zwischen 1772 und 1795 aufgeteilt und hörte auf zu bestehen.
-    Trąbczyn fiel an Preußen, und 1796 verschenkte der König es an Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, einen General, der es von Schlesien
-    aus verwaltete und zur Tilgung seiner Schulden brauchte. Er schickte den
-    Kriegs- und Forstrat Peter Friedrich von Triebenfeld, um Land in Geld zu
-    verwandeln.
+    Die meiste Zeit der sieben Jahrhunderte, die die Dokumente umfassen, war
+    Trąbczyn ein Gut: ein Herrenhaus mit eigenem Vorwerk, umgeben von Dörfern,
+    deren Bewohner dem Gutsherrn Zins und Dienste schuldeten. Im Mittelalter
+    hielten die Zisterziensermönche der Abtei Ląd einen großen Teil des Landes
+    um Trąbczyn, während eine Ritterfamilie Trąbczyn selbst hielt. Seit dem
+    sechzehnten Jahrhundert gehörte Trąbczyn der Familie Trąmpczyński, die es
+    1698 an Jan Prusimski aus Kolno verkaufte. Zweihundert Jahre lang stritten
+    die Besitzer von Trąbczyn – erst die Trąmpczyński, dann die Prusimski – vor
+    Gericht mit den Besitzern des Nachbarguts Łukom, ab dem siebzehnten
+    Jahrhundert der Familie Chełmski, darüber, wo die Grenze zwischen den beiden
+    Gütern verlief. Der Grenzstreit endete erst 1782, als das oberste Gericht
+    des polnischen Königreichs, das Krontribunal, entlang der von ihm
+    festgelegten Linie einundvierzig Grenzhügel aufschütten ließ. Seit den
+    1740er Jahren gaben die Besitzer von Trąbczyn außerdem das nasse, tief
+    gelegene Land des Gutes an Olęder-Kolonisten aus: evangelische Bauern, die
+    meisten deutschsprachig, die das Land rodeten und entwässerten und es auf
+    lange Pacht hielten, die auf ihre Kinder überging.
   home_p2: >-
-    Dazu musste das Gut zerschlagen werden. Das Land, das der Gutsherr selbst bewirtschaftete, wurde in Stellen geteilt und auf ewig ausgetan, an Bauern und an Holländer: Siedler, die nach
-    holländischem Recht saßen und in dieser Gegend seit Generationen Land urbar
-    machten und entwässerten. Die Verträge sind erhalten: was jeder zahlte, was er
-    jährlich schuldete und was er dafür aufgab.
-  home_p3_pre: >-
-    Preußen verlor den Krieg von 1806, und mit ihm ging das Gut. Die Briefe laufen
-    noch neun Jahre weiter, durch eine Verhaftung, einunddreißig Prozesse zugleich und einen Winter auf dem Wiener Kongress, und enden mit einem Liquidationsregister über Schulden Hohenlohe-Ingelfingens von
-  home_p3_sum: 1.414.377 Reichsthalern
+    Zwischen 1772 und 1795 teilten Polens drei Nachbarn – Preußen, Russland und
+    Österreich – Polen unter sich auf, bis das Land nicht mehr bestand, und
+    Trąbczyn fiel an Preußen. Der letzte polnische Besitzer von Trąbczyn, Antoni
+    Prusimski, kämpfte 1794 im Kościuszko-Aufstand gegen die drei Mächte, und
+    Preußen zog seine Güter ein. 1796 schenkte der König von Preußen die
+    eingezogenen Güter einem seiner Generäle, Fürst Friedrich Ludwig zu
+    Hohenlohe-Ingelfingen. Der Fürst war tief verschuldet. Um Geld für seine
+    Gläubiger aufzubringen, zerschlug sein Bevollmächtigter, Peter Friedrich von
+    Triebenfeld, die Vorwerke der Güter in Stellen und gab sie Siedlern in
+    Erbpacht aus. 1806 besiegte Napoleon Preußen, und 1807 gab das Herzogtum
+    Warschau, ein neuer polnischer Staat, den Napoleon geschaffen hatte, die
+    Güter Antoni Prusimskis Tochter Michalina zurück. Der Fürst versuchte die
+    folgenden neun Jahre lang, die Güter zurückzugewinnen. Um die Darlehen, die
+    der Fürst auf das Land aufgenommen hatte, wurde vor den Gerichten Preußens
+    und Polens und beim russischen Zaren bis 1834 gestritten.
+  home_p3: >-
+    1815, nach Napoleons Sturz, wurde Trąbczyn Teil eines neuen Königreichs
+    Polen unter dem russischen Zaren. Als Michalina 1851 starb, erbte ihr Sohn,
+    Graf Włodzimierz Miączyński, das Gut. Mit dem Gut erbte er auch die
+    Kolonisten. Die Rechte der Kolonisten, ihr Vieh im Wald des Gutes zu weiden
+    und dort Holz zu sammeln, beruhten auf Verträgen, die die Familie des Grafen
+    nie unterschrieben hatte, und 1859 verklagten die Kolonisten den Grafen um
+    diese Waldrechte. 1864 machte eine Reform des Zaren die Bauern des
+    Königreichs Polen zu Eigentümern des Landes, das sie bebauten. 1892 gaben
+    die Kolonisten von Trąbczyn ihre letzten Rechte am Wald gegen eigenes Land
+    auf. In den 1930er Jahren war das Gut aufgeteilt. 1935 und 1936 besuchte der
+    Historiker Albert Breyer zwei deutschsprachige Dörfer auf dem alten Gut –
+    Łazińsk, die älteste der Olęder-Kolonien, und Emilienheim, eine Kolonie, die
+    der Fürst gegründet hatte – und schrieb auf, woran sich die Dorfbewohner aus
+    ihrer Geschichte erinnerten, nur wenige Jahre bevor der Zweite Weltkrieg
+    ihre Gemeinschaft zerstörte.
+  home_p4: >-
+    Neben den Archivdokumenten stehen die Bücher und Aufsätze, die Historiker
+    über Trąbczyn geschrieben haben, Zeitungsberichte über das Gut und seine
+    Umgebung von 1754 bis 2015, Stammbäume der Besitzer des Gutes, alte Karten
+    des Gutes und seiner Kolonien und eine Aufnahme der evangelischen Friedhöfe
+    der Gegend.
   people_h1: Personen in den Dokumenten
   places_h1: Ausstellungsorte
   timeline_h1: Zeitleiste

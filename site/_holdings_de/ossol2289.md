@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Die Abschrift, in einer Hand des 19. Jahrhunderts, eines Briefs, den Tadeusz Kościuszko am 3. September 1798 auf Polnisch aus Paris schrieb. Die Abschrift steht in der Handschriftensammlung "Listy, dokumenty i wiersze z lat 1697-1798" des Ossolineums in Breslau (B. Ossol. rkp. 2289 II), auf Seite 145 des Sammelbands, und ist ein Dokument. Die Sammlung ist eine Zusammenstellung von Abschriften, überwiegend von Stanisław Przyłęcki (1805-1866) geschrieben, dem Lemberger Bibliografen und Autographensammler, dessen handschriftlichen Nachlass das Ossolineum 1869 kaufte. <!-- context -->
+Tadeusz Kościuszko, der Anführer des polnischen Aufstands von 1794, schrieb am 3. September 1798 aus Paris einen Brief an einen polnischen Emigranten, dessen Namen die erhaltene Abschrift nicht nennt. Die Abschrift des Briefes steht in einer Sammlung von Abschriften, „Listy, dokumenty i wiersze z lat 1697-1798“, die zumeist Stanisław Przyłęcki (1805-1866) anfertigte, der Lemberger Bibliograph und Autographensammler, dessen Handschriften das Ossolineum 1869 kaufte. Kościuszkos Brief ist das einzige bisher transkribierte Dokument der Sammlung Przyłęckis. <!-- context -->
 
 ### Der Brief
 
@@ -23,7 +23,7 @@ Der Brief nennt seinen Adressaten nirgends: "Obywatelu!" – Bürger! – ist al
 
 Eine Identifizierung wurde mit Antoni Prusimski, dem insurgenten Starosten von Niszczewice, vorgeschlagen, über Pachońskis Artikel über ihn im Polnischen Biografischen Wörterbuch (PSB, 1982), dessen Quellenverzeichnis diese Handschrift nennt, "B. Ossol.: rkp. 2289/II", und dessen Beschreibung der höflichen Antwort des Naczelnik der Abschrift in der Gestalt entspricht – der beantwortete Brief aus Dresden vom August, das Bedauern, den Schreiber nur aus der Korrespondenz zu kennen. **Der Herausgeber hat die Verbindung vorläufig verworfen** (2026-11-01), **bis etwas sie begründet**. Was dagegen spricht, sie als gelesen zu nehmen: <!-- context -->
 
-- der Verweis des Artikels auf die Handschrift steht in seinem allgemeinen Quellenverzeichnis, und dieses Verzeichnis ist das Ganze, was der Artikel über jede seiner Quellen gibt: ein PSB-Artikel trägt keinen auf Einzelbehauptungen bezogenen Fußnotenapparat, und die Datei, die die Edition hält, ist der ganze Artikel. Was Pachoński aus diesem Sammelband nahm, und für welche Behauptung, ist daher aus dem Gedruckten nicht zurückzugewinnen;
+- der Verweis des Artikels auf die Handschrift steht in seinem allgemeinen Quellenverzeichnis, und dieses Verzeichnis ist das Ganze, was der Artikel über jede seiner Quellen gibt: ein PSB-Artikel trägt keinen auf Einzelbehauptungen bezogenen Fußnotenapparat, und der Artikel ist vollständig gedruckt, ohne mehr. Was Pachoński aus diesem Sammelband nahm, und für welche Behauptung, ist daher aus dem Gedruckten nicht zurückzugewinnen;
 - die zwei Wendungen, die der Artikel für den Austausch zitiert («Lud i Wolność to dwa filary…», «nie zna go osobiście»), erscheinen in der Abschrift in keiner der Wortstellungen – hätte er diese Abschrift zitiert, wäre eine Übereinstimmung zu erwarten;
 - nichts sonst verbindet den Brief mit Prusimski: der eigene Briefindex des Sammelbands (Blätter 0033-0034) nennt keinen Adressaten dafür (die Lesung des Herausgebers), und der Brief selbst nennt niemanden. <!-- context -->
 
@@ -31,7 +31,7 @@ Die Beweislage ist mit dem, was zur Hand ist, ausgeschöpft. Die Aufzeichnung de
 
 ### Die Sammlung um sie
 
-Die dreißig Scans, die in der Sitzung des 1. November 2026 gelesen wurden (Blätter 0033-0062 des Sammelbands), zeigen, was Przyłęcki um den Brief versammelte: der eigene Briefindex des Sammelbands und die Personenlisten; ein Dossier des Julimonats 1794 des Aufstands – Briefe an den Naczelnik, eine Offiziersliste aus dem Lager bei Mokotów, das Protokoll der Warschauer Kriminaldeputation und der Anfang einer von Kościuszko am 25. Juli 1794 signierten Urkunde, deren Fortsetzung in den Scans fehlt; die Akte des Empfangsscheins und des Dienstattests des "Korpus Towarzystwa" von 1794; ein Namenstagsgedicht für Kościuszko von 1792; und ein Bischofsbrief von 1796. Keine dieser Seiten nennt Antoni Prusimski oder jemanden seines Kreises. Nur der Brief von Seite 145 ist bislang in der Edition; der Rest wartet auf die Entscheidungen des Herausgebers. <!-- context -->
+Die Blätter 0033-0062 des Sammelbands zeigen, was Przyłęcki um den Brief versammelte: der eigene Briefindex des Sammelbands und die Personenlisten; ein Dossier des Julimonats 1794 des Aufstands – Briefe an den Naczelnik, eine Offiziersliste aus dem Lager bei Mokotów, das Protokoll der Warschauer Kriminaldeputation und der Anfang einer von Kościuszko am 25. Juli 1794 signierten Urkunde, deren Fortsetzung in den Scans fehlt; die Akte des Empfangsscheins und des Dienstattests des "Korpus Towarzystwa" von 1794; ein Namenstagsgedicht für Kościuszko von 1792; und ein Bischofsbrief von 1796. Keine dieser Seiten nennt Antoni Prusimski oder jemanden seines Kreises. Nur der Brief von Seite 145 ist bislang transkribiert. <!-- context -->
 
 ### Verwandte Bestände
 

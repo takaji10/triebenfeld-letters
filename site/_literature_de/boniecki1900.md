@@ -47,7 +47,7 @@ excerpt_separator: ""
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
-<p>Boniecki bezweifelt den alten Stammbaum, der Jerzy Chełmski zum Vater von Krzysztof Ścibor und Andrzej Ścibor macht. Das Urteil von 1644 in der Edition zeigt einen Jerzy Chełmski, der in jenem Jahr Łukom besitzt — er verklagt die Brüder Trąmpczyński von Trąbczyn, weil sie in seinem eigenen Wald beim Dorf Łukom Grenzzeichen in die Bäume schlagen ließen —, aber es sagt nicht, wessen Vater er war.</p>
+<p>Boniecki bezweifelt den alten Stammbaum, der Jerzy Chełmski zum Vater von Krzysztof Ścibor und Andrzej Ścibor macht. Das Urteil des Koniner Landgerichts von 1644 zeigt einen Jerzy Chełmski, der in jenem Jahr Łukom besitzt — er verklagt die Brüder Trąmpczyński von Trąbczyn, weil sie in seinem eigenen Wald beim Dorf Łukom Grenzzeichen in die Bäume schlagen ließen —, aber es sagt nicht, wessen Vater er war.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/app536036/1/' | relative_url }}">53/6/0/-/36, Dokument 1 (1644)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, Dokument 1 (26. Januar 1728)</a></p>
 </aside>{% raw %}
 </section>

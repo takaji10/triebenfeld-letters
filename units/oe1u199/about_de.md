@@ -1,4 +1,4 @@
-Eine Urkunde Friedrich Wilhelms III., Königs von Preußen, ausgestellt zu Berlin am 19. Dezember 1805. Sie bestätigt das Familienmajorat, das Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), ein preußischer General, in seinem Testament vom 7. Oktober 1805 gestiftet hatte. Der Bestand besteht aus diesem einen Dokument auf fünfzehn Seiten und liegt im Hohenlohe-Zentralarchiv Neuenstein. <!-- context -->
+In seinem Testament vom 7. Oktober 1805 band Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen seine Güter in Schlesien und Südpreußen zu einem Familienfideikommiss zusammen, damit sie ungeteilt an einen Erben fielen. Die Urkunde, mit der Friedrich Wilhelm III., König von Preußen, das Fideikommiss am 19. Dezember 1805 bestätigte, legt die Erbfolge fest, zwei Jahre bevor der Fürst die Güter in Südpreußen verlor. <!-- context -->
 
 ### Historischer Hintergrund
 

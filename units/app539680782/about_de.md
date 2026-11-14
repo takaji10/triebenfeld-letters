@@ -1,4 +1,4 @@
-Ein fotografiertes Kontrakt von 1820 in deutscher Sprache, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu) unter den Papieren von Albert Breyer (1889-1939), Lehrer an der deutschen Schule in Sompolno und Erforscher der deutschen Siedlungen in Mittelpolen. Es ist ein Dokument von zwei Seiten: der Kontrakt der Dorfgemeinde mit dem Lehrer der Dorfschule. <!-- context -->
+1820 stellte der Dorfvorstand von Tropiczyner Holland, der alten Olęder-Kolonie auf dem Gut Trąbczyn, Samuel Adolph als Lehrer der eigenen Schule der Kolonie an. Der Vertrag zwischen Vorstand und Lehrer legt fest, was die Gemeinde ihm gab – Wohnung, Land und Getreide – und welche Gebühren er für den Unterricht der Kinder, für Konfirmationen und für Begräbnisse erhielt. Der Vertrag ist als Fotografie unter den Papieren des Historikers Albert Breyer erhalten. <!-- context -->
 
 ### Historischer Hintergrund
 

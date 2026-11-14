@@ -9,12 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Eine Seite eines Registers des Burggerichts und -amts Pyzdry, aufbewahrt im
-Staatsarchiv Posen (Archiwum Państwowe w Poznaniu) im Bestand „Księgi sądu i
-urzędu grodzkiego w Pyzdrach“, den Gerichtsbüchern des Burggerichts und
--amts von Pyzdry. Das Archiv nennt den Band „Relationes [protocollon]
-1791-1792“; die Seite hier ist die Seite 543 davon, auf des Herausgebers
-eigenem Zuschnitt der fotografierten Seite. <!-- context -->
+Ein Register des Burggerichtsamts in Pyzdry für 1791 und 1792 enthält eine Tabelle der bäuerlichen Haushalte (dymy rolne, „Rauchfänge“) der Pfarreien des Kreises. Die Seite hier ist der Kopf der Tabelle für die Pfarrei Trąbczyn, Dorf für Dorf – das Dorf Trąbczyn, das Pfarrgut, Nowa Wieś, Osiny, Łazy, die Schmiede von Maryantów und die Holländereien – mit der Zahl der Rauchfänge und zwei Zahlenspalten mit der Überschrift gara. <!-- context -->
 
 ### Der Bestand und sein Gericht
 

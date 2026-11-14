@@ -2211,7 +2211,7 @@ Datum in residentia nostra Kaszczorensi anno 1766 die 21 decembris. Johannes Szo
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
-<p>Guradze (1898) dates the end of hereditary subjection in the Duchy of Warsaw to the constitution of 22 July 1807 and the decree of King Friedrich August of 24 December 1807, which carried out the abolition of what the constitution's Article 4 had called esclavage — a decree the same passage of the book a few lines on calls one of 21 December. The hereditary lease of 1805/6 in the edition had freed its eighteen lessees of hereditary subjection two years before that, by its own paragraph 13 — the freedom the Duchy's decree then made general.</p>
+<p>Guradze (1898) dates the end of hereditary subjection in the Duchy of Warsaw to the constitution of 22 July 1807 and the decree of King Friedrich August of 24 December 1807, which carried out the abolition of what the constitution's Article 4 had called esclavage — a decree the same passage of the book a few lines on calls one of 21 December. The hereditary lease of 1805/6 for the Drzewce forest had freed its eighteen lessees of hereditary subjection two years before that, by its own paragraph 13 — the freedom the Duchy's decree then made general.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/app539680801/3/' | relative_url }}">53/968/0/-/801, document 3 (21 March 1806)</a></p>
 </aside>{% raw %}
 </section>

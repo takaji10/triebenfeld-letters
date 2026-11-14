@@ -6070,7 +6070,144 @@ sources-icon.html`).
 - Open: the spot sheet (seven readings), Łazińsk matching, Hohm/Холмъ,
   people, Russian place names, connections (NEEDS_CONFIRMATION).
 
-## 2026-11-14 - Świątniki in the gazetteer; the map viewer retries a failed load (branch `trampczynski-family`, not published)
+## 2026-11-13 (night) - AGAD 1/432/0/1/139: the English made readable (branch `claude/genealogy-navbar-link-order-uro98h`, not published)
+
+- At the editor's word ("easier to read while still following the
+  transcription ... keep it light"), the English of Pastor Erdmann's two
+  reports of 1882 rewritten: a word broken at the burnt edge whose sense the
+  legible part fixes is translated whole ("General Superintendent", not
+  "General-Superin[text lost]"); words from the twin report, the form or the
+  grammar in square brackets ("[To His] Reverence", "[collected]"); a lost
+  figure, name, place, date or negation stays "[text lost]". The German
+  transcription is unchanged. 104 marks in the German, 23 in the English;
+  the marker-check rows cleared in `reference/translation_rulings.json`.
+  The "How it was prepared" tab says so. Asked: whether the two lost
+  negations of 0322_a should read "[not]" (NEEDS_CONFIRMATION).
+- The Genealogy menu lists "Owners of Trąbczyn" before "The Zelmer family".
+
+## 2026-11-13 (night, later) - AGAD 1/432/0/1/139: the transcription completed in brackets (same branch, not published)
+
+- At the editor's word, the German of both reports completed where no fact is
+  added: 61 lines, supplied words in square brackets ("[Sei]ner [Hochwürden
+  dem] Herrn General-Superin[tendenten]"), the A and B rows of `supplied.yml`
+  and the procedural C rows; the two negations of 0322_a "[nich]t" and
+  "[nicht]" and the English "[not]" in both (the editor). A lost figure,
+  place or date stays `[...]`; 104 marks before, 40 after
+  (`units/agad14320139/intake/supply_text.py`).
+- Pipeline: a line ending in a bracketed hyphen ("fo[lgen-]") is a wrap and
+  joins to "fo[lgen]den" (`corpus_pages.py`, `resolve_linebreaks.py`,
+  `resolve_paragraphs.py`); no other corpus has such a line. Line-break and
+  paragraph decisions ruled by hand for the address blocks.
+- `docs/EDITORIAL_RULES.md`: the ruling, standing for this holding.
+
+## 2026-11-13 (night, last) - AGAD 1/432/0/1/139: the burn no longer described; published (published 2026-11-13 at the editor's word)
+
+- At the editor's word, the sentences on the leaves' fire damage taken out of
+  the holding's title, description, introduction, "How it was prepared", both
+  summaries, the timeline note and the era essay (English and German); the
+  account stays in `units/agad14320139/notes.md`.
+- Published with the readable English, the bracketed completions and the
+  Genealogy menu order.
+- The Zagórów report's summary (both languages) and the holding's
+  introduction now carry its vices and conversions lines (no special vices,
+  the reading uncertain; no conversions), resting on the editor's "[not]";
+  the claim check records the two statements. Published the same night.
+
+## 2026-11-13 (night) - the homepage rewritten (branch `claude/genealogy-navbar-link-order-uro98h`)
+
+- At the editor's word ("still only talk[s] about the prince ... should read as
+  if someone was encountering it for the first time"): the lede and the
+  section under it (now "The story in brief" / "Die Geschichte in Kürze") tell
+  the whole span, 1173 to the 1930s - the abbey of Ląd and the knights, the
+  Prusimskis and the Łukom boundary, the Olęder colonists, the partitions and
+  the uprising of 1794, the Hohenlohe-Ingelfingen years, Michalina's
+  restitution and the mortgage dispute to 1834, Count Włodzimierz Miączyński
+  and the colonists, the reform of 1864, Breyer in the 1930s - and name the
+  literature, newspapers, family trees, maps and cemeteries beside the
+  documents. Facts taken from the era essays (`reference/eras.yml`). The old
+  closing figure (1,414,377 Reichsthaler) dropped with its paragraph.
+
+## 2026-11-14 - name the subject: the homepage written again, and a new house-style rule
+
+- The editor: the writing leans on "this", "that", "those" and on the reader's
+  memory across figures and buttons. The homepage written again in both
+  languages: each paragraph names its subject, explains the Crown Tribunal,
+  the partitions, the Duchy of Warsaw and the colonists' forest rights, and
+  no paragraph points back across the figures and buttons.
+- The same fault fixed in the era pages: the Hohenlohe-Ingelfingen page's
+  opening note (it still said "one of three eras ... not yet published"; there
+  are seven) and its first paragraph, the insurgency page's "These are the
+  estates", the boundary page's "They were not ended", and the colonists era's
+  "They sue him" (both languages).
+- `docs/HOUSE_STYLE.md`: new section "Name the subject; do not point back";
+  "Concision" now defers to it.
+- `docs/HOUSE_STYLE.md`, "Name the subject": the editor's example of what not
+  to write ("this is its archive"), the sentence made only of pointers, with
+  two more from the holdings' pages; 15 of the 54 holdings' opening
+  paragraphs have the "... It is ..." pattern (offered to the editor).
+
+## 2026-11-14 (later) - the holdings' opening paragraphs rewritten; Trąbczyn's owners before 1698
+
+- At the editor's word ("I wouldn't open with these physical descriptions of
+  items"): the first paragraph of all 54 holdings' descriptions, in English
+  and German, now says what the documents are and why they matter, without
+  the counts, archive, volume and languages the page's header already shows,
+  and without "It is ..." sentences. The heading "# APP 53/20/0/-/Poznań
+  Gr.1181" that repeated the reference inside that holding's description is
+  gone. Facts kept from the old openings and the title lines; a few
+  corrected on the way (the court order of 1589 is no longer "the earliest
+  document in the collection" since the medieval charters came in; the
+  summons of 1860 is a counterclaim answering the colonists' suit of 1859).
+- The homepage and the boundary era's ownership line: Trąbczyn belonged to
+  the Trąmpczyński family until they sold it to Jan Prusimski of Kolno in
+  1698 (reference/genealogy.yml); both had said "the Prusimski family from
+  1589".
+- `docs/HOUSE_STYLE.md`, "A holding's own page": the description does not
+  open by repeating the header. The TODO item offered this morning is done.
+
+## 2026-11-14 (evening) - the pages no longer talk about themselves
+
+- At the editor's word ("don't talk about the site/edition/project"):
+  self-references removed from reader-facing text in both languages - the
+  homepage's lede and closing paragraph, the medieval and restitution era
+  pages, the About page (two sentences), the openings of app534062,
+  app536017 (and its title line), app53170koningr121, oe1bu9454, adwl85,
+  apl399801333 and ossol2289 (with its "session of 1 November" and "waits on
+  the editor's rulings"), eight of the literature's Related notes, the
+  timeline note of 1818, Dorow (1843)'s account and the Ostdeutscher
+  Beobachter's summary. The Licences and privacy page keeps "the website",
+  which it needs. `docs/HOUSE_STYLE.md`: new section "The pages do not talk
+  about themselves".
+
+## 2026-11-14 (night) - place descriptors checked; the homepage lede rewritten again
+
+- The editor: Konin and Kalisz are cities (the homepage said "towns"; fixed);
+  a place named with a descriptor is checked against its recorded kind. New
+  `pipeline/review/check_place_descriptors.py` (lists, changes nothing; 40
+  descriptors to read) and HOUSE_STYLE, "Check what a place is before you
+  call it something".
+- The homepage's second sentence no longer says that "people wrote down" who
+  owned the estate: the ownership, farming, settlement and lawsuits of the
+  estate "were documented" from 1173 to the 1930s. HOUSE_STYLE, "State the
+  facts, not the fact that they were written down".
+
+## 2026-11-14 (night, later) - the register's place classes corrected
+
+- At the editor's word ("correct any other issues relating to place names"):
+  `reference/places.yml` now says what `kind:` means (what the place is today;
+  city is about 50,000 inhabitants or more, or a regional or national
+  capital) and 13 places moved from town to city: Konin, Opole, Legnica,
+  Częstochowa, Głogów, Zielona Góra, Mysłowice, Włocławek, Jena, Weimar,
+  Bayreuth, Fürth, Memel. Open: Ostrów and Neusatz (which place?), Teplitz
+  and Emden (about 50,000), Charlottenburg (now a district of Berlin).
+- Found and fixed: the Places index and the place pages printed the raw word
+  "city" (lowercase, in English also on the German pages) for the 35 cities,
+  and "country" and "region" for the 15 of those; labels added in both
+  languages.
+- `check_place_descriptors.py` no longer lists a colony or settlement that is
+  also a village or hamlet.
+
+## 2026-11-14 - Świątniki in the gazetteer; the map viewer retries a failed load (branch `trampczynski-family`, published 2026-11-14 at the editor's word)
 
 - The editor, Mapa dróg 1890 finished: "you need to make a place entry for
   Świątniki". `reference/gazetteer/swiatniki.yml` written on the register's
@@ -6098,7 +6235,7 @@ sources-icon.html`).
 - Rebuilt: site data, place pages, map pages, Jekyll; `gazetteer.py --check`
   and `verify_site.py` pass (639 documents, 69 400 internal links).
 
-## 2026-11-14 (later) - Kolonia Wrąbczyn; the Prince's colonies under their first names on the maps (branch `trampczynski-family`, not published)
+## 2026-11-14 (later) - Kolonia Wrąbczyn; the Prince's colonies under their first names on the maps (branch `trampczynski-family`, published 2026-11-14 at the editor's word)
 
 - The editor: the roads map's Колонія Вромбчинъ "is a distinct place that
   is called Kolonia Wrąbczyn. It needs its own place entry." Label

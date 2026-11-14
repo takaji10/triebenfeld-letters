@@ -73,7 +73,7 @@ the older mounds of both sides levelled, and Martin Hunt delivered
 ([the decree]({{ '/documents/app53170koningr153/2/' | relative_url }})). Two centuries of
 dispute were decided.
 
-They were not ended. On the day the chamberlain's court opened, Chełmski's people felled
+The decree of 1782 settled the boundary in law, but the quarrels between the two estates did not end with it. On the day the chamberlain's court opened, Chełmski's people felled
 221 pines on Trąbczyn's side of the new line
 ([the protest]({{ '/documents/app53170koningr119/1/' | relative_url }})); suits and
 counter-suits followed through 1783. The last entry of the court books, of June 1788, is

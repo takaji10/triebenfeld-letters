@@ -195,7 +195,7 @@ Count Hoym had wished only 5 per cent more, and was very much surprised when the
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
-<p>Die Klassifikationsgeschichte der Denkschrift: Die Polen, von „einem ehrlichen Mann, dem Kriegsrat v. Triebenfeld" gewarnt, bieten 24 Prozent, wo Hoym fünf verlangte, und die Naturalsteuer fällt hinweg. Der ehrliche Mann der Denkschrift ist der Schreiber der Briefe der Edition; was dieselben Jahre ihm brachten, steht in eigener Hand — die Güter, die er verkaufte, mit über 700.000 rt taxiert (April 1799), gegen die 500.000, auf die er sie, wie er sagt, dem Käufer überließ.</p>
+<p>Die Klassifikationsgeschichte der Denkschrift: Die Polen, von „einem ehrlichen Mann, dem Kriegsrat v. Triebenfeld" gewarnt, bieten 24 Prozent, wo Hoym fünf verlangte, und die Naturalsteuer fällt hinweg. Der ehrliche Mann der Denkschrift ist der Schreiber der Briefe an Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen; was dieselben Jahre ihm brachten, steht in eigener Hand — die Güter, die er verkaufte, mit über 700.000 rt taxiert (April 1799), gegen die 500.000, auf die er sie, wie er sagt, dem Käufer überließ.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a></p>
 </aside>{% raw %}
 </section>

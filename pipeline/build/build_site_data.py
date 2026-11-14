@@ -1132,6 +1132,7 @@ def main():
     _t1_manifest = set(_tiers['tier1'])
     _t2_manifest = set(_tiers['tier2'])
     _KIND_EN = {'village': 'Village', 'estate': 'Estate', 'town': 'Town',
+                'city': 'City', 'country': 'Country', 'region': 'Region',
                 'settlement': 'Settlement', 'colony': 'Colony',
                 'hamlet': 'Hamlet', 'folwark': 'Folwark',
                 'oleder-settlement': 'Olęder settlement',
@@ -1143,6 +1144,7 @@ def main():
                 'field': 'Field', 'windmills': 'Windmills',
                 'unknown': 'Place'}
     _KIND_DE = {'village': 'Dorf', 'estate': 'Gut', 'town': 'Stadt',
+                'city': 'Stadt', 'country': 'Land', 'region': 'Region',
                 'settlement': 'Siedlung', 'colony': 'Kolonie',
                 'hamlet': 'Weiler', 'folwark': 'Vorwerk',
                 'oleder-settlement': 'Haulandsiedlung',

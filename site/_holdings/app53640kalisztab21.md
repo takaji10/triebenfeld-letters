@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Thirteen pages of a tax register of 1789, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu) in its collection of tax tables and surveys. The archive calls the volume "Podymne z woj. kaliskiego", the hearth tax of the Kalisz voivodeship. The pages are leaf 1, leaves 7 to 9 and leaves 18 to 20, and they are one document, a table. <!-- context -->
+In the summer of 1789 the Polish state collected a hearth tax in the Kalisz voivodeship, and its register records the sum paid by every town, village and part of a village of the Pyzdry, Kalisz and Konin districts. The thirteen pages chosen from the register cover Trąbczyn and its neighbours – its Olęder settlement, Łazy, Osiny, Nowa Wieś and Łukom – a few years before Prussia took the region. <!-- context -->
 
 ### Historical background
 

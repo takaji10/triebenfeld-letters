@@ -1,4 +1,4 @@
-Four papers from the files of the Governing Commission (Komisja Rządząca), kept in the Central Archives of Historical Records (Archiwum Główne Akt Dawnych) in Warsaw. The archive calls the file "Papers of the Governing Commission during its stay at Dresden". The four pieces published here were written at Dresden between 20 and 23 July 1807 and concern one matter: the return of the confiscated estates of the Starost Antoni Prusimski, Trąbczyn among them, to his daughter Michalina Dąbska. They are three petitions of hers and the commission's draft resolution, on five pages; three are in Polish and one in French. <!-- context -->
+In July 1807 the Governing Commission – the provisional Polish government set up under Napoleon – was sitting at Dresden, and Michalina Dąbska, the daughter of Antoni Prusimski, asked it there to give back her father's confiscated estates. The four papers chosen from the Commission's files are her three petitions and the Commission's draft of the resolution that granted them: the papers by which the Trąbczyn estates came back to the Prusimski family. <!-- context -->
 
 ### Historical background
 

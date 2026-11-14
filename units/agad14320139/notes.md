@@ -25,8 +25,10 @@ Two documents (the editor's word), each of two written sides, in German:
 
 The leaves were rescued from a fire. On the first page of each report the
 ends of the lines are burnt away (1-3 words per line), on the second the
-beginnings; top lines are worst. Every lost stretch is `[...]` in the
-transcription and nothing is completed there. The four sample scans the
+beginnings; top lines are worst. Every lost stretch was `[...]` in the
+transcription and nothing was completed there; since 2026-11-13 (the editor)
+the words that add no fact are supplied in square brackets ("The text
+completed", below). The four sample scans the
 editor supplied (`samples/`, Włocławek and Konstantynów, other parishes of the
 same file) are better kept and show the consistory's form (docs/CONSISTORY_1882_PLAN.md,
 section 4a); they were used for the form's headings only, never for words or
@@ -62,9 +64,20 @@ figures of Erdmann's.
   whose beginning and ending are both legible and whose whole word stands
   elsewhere in the four pages; the A rows are formulas whole in the other report.
 - **English.** Written by Claude in session (no paid run), `intake/translation/
-  build_docs.py` -> `doc1.yml`, `doc2.yml` -> `write_cache.py`; every `[...]`
-  is `[text lost]`, marker counts equal the German on every page. A broken word
-  is kept as written.
+  build_docs.py` -> `doc1.yml`, `doc2.yml` -> `write_cache.py`. First (2026-11-11)
+  every `[...]` was `[text lost]` and a broken word kept as written, half in
+  German ("Herrn General-Superin[text lost]", "vorzustel[text lost]"). **Rewritten
+  2026-11-13 at the editor's word** ("easier to read while still following the
+  transcription ... fill in minor pieces ... keep it light"): a broken word whose
+  sense the legible part fixes is translated whole; words from the twin report,
+  the form or the grammar in square brackets ("[To His] Reverence", "[Your
+  Reverence's] order", "[collected]", "[but]"); a lost figure, name, place, date
+  or negation stays `[text lost]` (the widows' fund roubles of 0345_a, the place
+  Boerner was sent to on 0322_a, the "not" of the vices and conversions lines of
+  0322_a, the year of the order). Marks: 104 in the German, 23 in the English;
+  the four marker-check rows are cleared in `reference/translation_rulings.json`.
+  The same day the transcription was completed in the same way (next section),
+  and the two negations became "[not]" at the editor's word.
 - **Summaries** (`intake/write_summaries.py`, both languages): written from
   what is legible; statements resting on a lost stretch left out (the "vices"
   and "conversions" lines of document 1). Claim check: `intake/claim_check.yml`.
@@ -130,3 +143,48 @@ translated version"): `show_supplied: false` in unit.yml, `supplied.yml` kept
 as data (44 A/B rows after the answers). The index (Erdmann, Manitius, Boerner:
 `only_in` these two documents), the timeline event of 1882 and a paragraph in
 the era essay (both languages) were added the same day.
+
+## The text completed (the editor, 2026-11-13)
+
+"Update the transcriptions to fill in the missing words that don't add facts
+by using the square brackets in the same manner which you did for the English."
+`intake/supply_text.py` (run once; it refuses a line not as recorded) wrote 61
+lines of the four pages and of `corpus.txt`: the A and B rows of
+`supplied.yml` (less "Kantor[en]", which the editor reads "Kantorat"), the C
+rows the English uses ("[Sei]ner", "Pastor-Administrat[or der Evan-]",
+"[Gemeinde]" for the sender's lost noun, "[Ho?][ch-]", "[feh-]", "Pastora[t
+als]", "[zur]", "ge-/[sammelt]", "[gesa]mmelt", "Unterstü-/[tzun]g", "[möch-]",
+"ein[richten]", "[aber]", "[ge]sammelt", "Unter-/[stüt]zung") and the two
+negations "[nich]t vorhanden" and "[nicht] statt" (0322_a ll. 10-11, the
+editor's "use [not]"). Left `[...]`: the year of the order, the comparison of
+the communicants on 0318_a/0322_a, what the colonies have (0322_a l. 3), the
+quantity before "in gutem Zustande", the gap before "4 Rubel 61" (a digit may
+be lost), the "[...]tor" of 0322_a l. 19, the place Boerner was sent to
+(0322_a), the filial's list of buildings, "gemie[...]ten", "Filial[...]",
+"Kantor[...]", "Kirchengan[?][...]", the turn of 0322_b/0345_a, the qualifier
+before "[...]olonien", the widows' fund roubles of 0345_a. Marks: 104 before,
+40 after. **The supplied-text layer is now mostly in the text**;
+`supplied.yml` stays as data (its witnesses say why each supply holds).
+
+- A supplied hyphen at a burnt line end is written inside the bracket,
+  "fo[lgen-]"; `corpus_pages._wrap_mark`, `resolve_linebreaks` and
+  `resolve_paragraphs` take a line ending "-]" as a wrap, and a join gives
+  "fo[lgen]den". Ten line breaks were set to `join` by hand (held); two stay
+  split ("Religi[ons-] Schulen", a compound; "Administra- [...]tor").
+- The paragraph step dropped seven breaks once the lines were no longer short
+  (they had split sentences); five more set to `run` by hand so that the
+  address and sender blocks read whole.
+
+## No word of the leaves' condition (the editor, 2026-11-13)
+
+"Remove the reference in this unit in the descriptions about burnt pages and
+whatnot; there's no need to describe the physical condition of the texts."
+Taken out: the title's "in leaves burnt at the edges", the description's and
+the introduction's sentence on the fire, the summaries' "the leaf is burnt
+...", the timeline note's and the era essay's last sentence (both languages);
+"How it was prepared" speaks of gaps and missing words, not of the burn. The
+summaries' bracketed notes on single lost words stay (they say what the text
+does not give, not what the paper looks like); "[the word before 'schools' is
+partly lost]" went, the word being supplied now. This file and the plan keep
+the account of the damage, for whoever works the text.
+

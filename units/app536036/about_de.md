@@ -1,4 +1,4 @@
-Zwei Einträge auf zwei Seiten eines Dekretbuchs des Landgerichts in Konin für die Jahre 1641 bis 1644, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Es sind Versäumnisurteile, die Jerzy Chełmski in der Sitzung des Gerichts von 1644 gegen die Familie Trąmpczyński von Trąbczyn erwirkte. Sie sind lateinisch und bilden zwei Dokumente. <!-- context -->
+1644, mehr als fünfzig Jahre nach der Klage um den Teich bei Łukom, standen die Besitzer von Łukom erneut vor Gericht gegen die Familie Trąmpczyński, der Trąbczyn damals gehörte. In der Sitzung des Landgerichts in Konin erwirkte Jerzy Chełmski aus Łukom zwei Versäumnisurteile gegen die vier Brüder Trąmpczyński und ihre verwitwete Mutter: eines wegen Kerben, die wie Grenzzeichen in seine Bäume geschlagen worden waren, das andere wegen in seinem Wald gefällten Holzes. <!-- context -->
 
 ### Historischer Hintergrund
 

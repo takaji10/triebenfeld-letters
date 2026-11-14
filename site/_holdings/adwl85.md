@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Nine pages from a volume in the Diocesan Archive in Włocławek (Archiwum Diecezjalne we Włocławku), signature 85, which the archive calls "Akta wizytacji dekanatu konińskiego 1790-1791", the records of the visitation of the Konin deanery in 1790 and 1791. The pages are leaves 23 verso to 25 verso and 28 verso to 29 verso, on the parish of Trąbczyn, and leaf 34a, a table of the parish of Zagórów. They are two documents. <!-- context -->
+In 1790 and 1791 the church authorities had every parish of the Konin deanery visited and described. The pages of the visitors' record chosen here describe the parish of Trąbczyn – its priest, its church, its people counted village by village, its books and its endowments – and give a table of the people of the neighbouring parish of Zagórów. The record of the visitation is the last account of the parish of Trąbczyn while the Prusimski family still owned the estate, a few years before Prussia took the region. <!-- context -->
 
 ### Historical background
 
@@ -17,7 +17,7 @@ A visitation was the inspection of a parish on behalf of its bishop. The record 
 
 In 1791 the village of Trąbczyn and the villages of its parish belonged to Antoni Prusimski, Starost of Niszczewice, who was also the patron of the church and had presented its priest <span class="cite">[<a href="{{ '/documents/adwl85/1/' | relative_url }}">1</a>]</span>.
 
-In 1793 Prussia took the region in the Second Partition of Poland, and in 1796 the King gave Prusimski's confiscated estate to the Prince of Hohenlohe-Ingelfingen. It is the edition's last account of the parish under the Prusimski family before the Prussian years. <!-- context -->
+In 1793 Prussia took the region in the Second Partition of Poland, and in 1796 the King gave Prusimski's confiscated estate to the Prince of Hohenlohe-Ingelfingen. The visitation of 1790 and 1791 is the last account of the parish of Trąbczyn while the Prusimski family still owned the estate. <!-- context -->
 
 ### Contents
 

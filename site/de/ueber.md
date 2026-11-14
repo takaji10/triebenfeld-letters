@@ -131,7 +131,7 @@ Die maschinelle Lesung von Handschrift liest einen Teil der Zeichen falsch. Ein
 Sprachmodell, das jedes Wort an seinem Zusammenhang misst, beseitigt in einem weiteren
 Durchgang viele dieser Fehler, aber nicht alle, und es kann plausibles Deutsch stehen
 lassen, das nicht auf der Seite steht. Eine gewisse Ungenauigkeit bleibt deshalb immer.
-Angesichts der Zahl der Dokumente hat der Herausgeber das für dieses Projekt in Kauf
+Angesichts der Zahl der Dokumente hat der Herausgeber das in Kauf
 genommen.
 
 **Was aus diesen Texten in eine wissenschaftliche Arbeit übernommen wird, sollte zuvor am
@@ -236,5 +236,5 @@ Jahre nach der Rückgabe der Güter an die Familie Prusimski 1807 stehen noch au
 
 ## Zitieren und Weiterverwenden
 
-[Lizenzen, Nachweise und Datenschutz]({{ '/de/rechte/' | relative_url }}) sagt, wer die
-Seite betreibt, wie ein Dokument zu zitieren ist und was weiterverwendet werden darf.
+[Lizenzen, Nachweise und Datenschutz]({{ '/de/rechte/' | relative_url }}) sagt, wer für die
+Transkriptionen und Übersetzungen verantwortlich ist, wie ein Dokument zu zitieren ist und was weiterverwendet werden darf.

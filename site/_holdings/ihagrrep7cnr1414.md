@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Four pages from a file of the Prussian central administration for South Prussia (I. HA Geheimer Rat, Rep. 7 C), kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. The archive's title for the file is "Aufenthalt des Anton v. Prusimski in Venedig" (the stay of Anton von Prusimski at Venice). The papers were written in and for the department of foreign affairs between December 1796 and March 1797. They are three documents: two in German and one in French. <!-- context -->
+After the uprising of 1794 failed, Antoni Prusimski, the last Polish owner of Trąbczyn, went abroad, and Prussia confiscated his estates. In December 1796 the Prussian resident at Venice reported that he had certified that Prusimski, ill and broken by his wife's death, could not travel home. The three papers of the Prussian department of foreign affairs here are that report and what Berlin did with it. <!-- context -->
 
 ### Historical background
 

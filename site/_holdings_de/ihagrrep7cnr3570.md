@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft die Urkunden vom 9. August 1796, mit denen Friedrich Wilhelm II., König von Preußen, konfiszierte und erledigte Güter in Südpreußen an Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), einen preußischen General, und an sechs Offiziere verlieh. Die Akte ist ein Dokument von 22 Seiten, von denen zwölf nicht transkribiert sind. <!-- context -->
+Im August 1796 schenkte Friedrich Wilhelm II., König von Preußen, nach dem polnischen Aufstand von 1794 eingezogene Güter Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen, einem preußischen General, und sechs anderen Offizieren. Die Akte der preußischen Verwaltung für Südpreußen – Preußens Anteil am geteilten Polen – über diese Urkunden zeigt, wie die Schenkung von Trąbczyn und seinen Nachbarn durch den König zustande kam. Zwölf Seiten der Akte sind nicht transkribiert. <!-- context -->
 
 ### Historischer Hintergrund
 

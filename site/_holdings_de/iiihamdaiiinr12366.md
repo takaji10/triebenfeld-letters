@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Eine Akte des preußischen Ministeriums der auswärtigen Angelegenheiten im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft die Schulden, die Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), ein preußischer General, auf die Güter um Trąbczyn in Mittelpolen hatte eintragen lassen, nachdem die Güter 1807 an Michalina Miączyńska, geborene Prusimska, die Tochter ihres früheren Besitzers, zurückgegeben worden waren. Der Umschlag bezeichnet sie als ersten Band und gibt als Laufzeit Dezember 1818 bis November 1827 an. Sie enthält sechs Dokumente auf 37 Seiten: fünf in französischer und eines in polnischer Sprache. <!-- context -->
+Als das Herzogtum Warschau die Güter um Trąbczyn 1807 Michalina Miączyńska, geb. Prusimska, zurückgab, blieben die Schulden, die Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen auf sie aufgenommen hatte, auf dem Land. Das preußische Ministerium der auswärtigen Angelegenheiten verfolgte ihren Anspruch, die Güter von den Schulden des Fürsten zu befreien, und die Urteile der polnischen Gerichte von 1819 bis 1827, die diese Schulden gegen seine preußischen Gläubiger löschten. Die Akte des Ministeriums ist der erste von zwei Bänden. <!-- context -->
 
 ### Historischer Hintergrund
 

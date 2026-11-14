@@ -1,4 +1,4 @@
-Twelve entries on thirteen pages of a register of the municipal court of Konin for the years 1775 to 1777, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They are what the register holds on the commission that fixed the boundary between Trąbczyn and Łukomia: the notices of its coming, the protests made while it sat, and the searches for a decree afterwards. They are in Latin, with signatures in Polish, and are twelve documents. <!-- context -->
+In 1775 a boundary commission sat on the disputed ground between Trąbczyn and Łukomia to fix the line once and for all. The twelve entries chosen from the register of the municipal court at Konin are everything that register holds on the commission: the notices of its coming, the protests made by the commissioners, by Antoni Prusimski and by Stanisław Chełmski while it sat, and the searches each side made afterwards for a decree that could not be found at Konin. <!-- context -->
 
 ### Historical background
 

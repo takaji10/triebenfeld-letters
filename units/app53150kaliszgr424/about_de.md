@@ -1,4 +1,4 @@
-Ein Eintrag auf zwei Seiten eines Buchs des Burggerichts Kalisz für das Jahr 1776, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Er ist die Bescheinigung des Amts vom 23. November 1776, dass das für Prusimski ergangene Grenzdekret in Kalisz nicht vorgelegt worden war. Er ist lateinisch und bildet ein einziges Dokument. <!-- context -->
+Ein Grenzdekret musste in die Gerichtsbücher eingetragen werden, bevor es vollstreckt werden konnte. Im November 1776 bescheinigte das Burggerichtsamt in Kalisch, auf Ersuchen von Antoni Leszczyc Mierzewski durchsucht, dass seine Bücher keinen Eintrag des Grenzdekrets von 1775 zwischen Trąbczyn und Łukom enthielten – eine von mehreren Suchen, die beide Seiten 1776 und 1777 nach diesem Dekret anstellten. <!-- context -->
 
 ### Historischer Hintergrund
 
