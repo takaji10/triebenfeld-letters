@@ -15,7 +15,7 @@ Kolno — schloss sich ihnen an. Der Aufstand scheiterte, und die preußische Kr
 Güter derer ein, die sich an ihm beteiligt hatten: Prusimski wurde von den preußischen
 Behörden als einer ihrer Anführer genannt, und er floh
 ([der Hypothekenschein, der es verzeichnet]({{ '/documents/oe1bu14525/12/' | relative_url }})).
-Diese sind die Güter, die ein preußischer Fürst zwei Jahre später erhalten wird.
+Trąbczyn, Kamionna und Kolno, die Güter, die Preußen Prusimski nahm, sind die Güter, die der König von Preußen zwei Jahre später einem seiner Generäle schenken wird, Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen.
 
 Der Staat, der sie nahm, war neu. Preußen hatte im April 1795 in Basel seinen
 Sonderfrieden geschlossen, und im Oktober teilten die drei Mächte den Rest Polens unter

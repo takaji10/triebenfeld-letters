@@ -3838,6 +3838,12 @@ styling**, and in any include use `include.<name>` for every parameter.
   edition to a first-time reader (the editor, 2026-11-13: it "still only
   talk[ed] about the prince"). When a new era or section is added, check that
   the homepage's short history still covers it.
+- **Write for a reader who meets the page in pieces** (the editor,
+  2026-11-14): no bare "this", "that", "these", "they" pointing back to an
+  earlier sentence, and every paragraph that follows a heading, figures or
+  buttons names its subject again. The rule and its examples are in
+  HOUSE_STYLE, "Name the subject; do not point back". Read every new
+  paragraph once as if the one before it were not there.
 
 ## The Trąmpczyński family pages (2026-11-12)
 

@@ -80,7 +80,7 @@ geschlagen, die älteren Hügel beider Seiten geschleift, und Martin Hunt überg
 ([das Dekret]({{ '/documents/app53170koningr153/2/' | relative_url }})). Zweihundert
 Jahre Streit waren entschieden.
 
-Sie waren nicht beendet. An dem Tag, an dem das Gericht des Kämmerers eröffnet wurde,
+Das Dekret von 1782 entschied die Grenze rechtlich, doch die Streitigkeiten zwischen den beiden Gütern endeten damit nicht. An dem Tag, an dem das Gericht des Kämmerers eröffnet wurde,
 fällten Chełmskis Leute 221 Kiefern auf der Trąbczyner Seite der neuen Linie
 ([der Protest]({{ '/documents/app53170koningr119/1/' | relative_url }})); Klagen und
 Gegenklagen folgten durch das Jahr 1783. Der letzte Eintrag der Gerichtsbücher, vom Juni

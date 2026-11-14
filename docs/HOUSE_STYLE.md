@@ -67,6 +67,57 @@ A short entry that leaves the reader asking is worse than a longer one that
 does not. Where an entry cannot be made clear without a paragraph, it belongs
 on the era page, and the timeline keeps the core of it.
 
+## Name the subject; do not point back
+
+The editor, 2026-11-14: "You have a tendency to write this, those, that when
+talking about things and forgetting to state the main topic. You also assume
+that a reader remembers things when they read one paragraph and then they're
+interrupted by a bunch of options or buttons and then a new paragraph
+starts ... Stop trying to be overly succinct and instead guide the reader and
+help them to understand."
+
+The fault has a name: **vague reference**, a pronoun or pointing word ("this",
+"that", "these", "those", "it", "they", "the estates", "the period") whose
+meaning sits in an earlier sentence, often one the reader has already left
+behind. It is made worse by **assumed continuity**: the writer treats a page
+as one unbroken text, when the reader meets it in pieces, with headings,
+figures, buttons and lists between the pieces.
+
+- **Every paragraph names its own subject.** A paragraph opens with the
+  person, place or thing it is about, in full: "Count Włodzimierz Miączyński",
+  "the colonists of Trąbczyn", "the estates Prussia confiscated", not "he",
+  "they", "these".
+- **A paragraph that follows anything other than prose starts again.** After a
+  heading, a row of figures, buttons, a list, a table or a picture, assume the
+  reader has forgotten the paragraph before; restate what the earlier
+  paragraph had established.
+- **"This", "that", "these" and "those" take a noun.** "This decree", "those
+  forest rights", never a bare "this" or "that" standing for a sentence. "It"
+  and "they" only where the noun is in the same sentence or the one directly
+  before it, and only one noun could be meant.
+- **Repeat the noun rather than vary it or drop it.** Saying "the Prince" a
+  third time is better than "he" where a reader could wonder who.
+- **Say what a thing is the first time, even when it costs words.** "The
+  Crown Tribunal, the highest court of the Polish kingdom", "the Duchy of
+  Warsaw, a new Polish state that Napoleon had created". Concision (below)
+  never outranks being understood.
+
+```
+NO   [after the figures and the buttons]  For most of those centuries
+     Trąbczyn was a manor.
+YES  For most of the seven centuries that the documents cover, Trąbczyn
+     was a manor.
+
+NO   These are the estates a Prussian prince will be given two years later.
+YES  Trąbczyn, Kamionna and Kolno, the estates that Prussia took from
+     Prusimski, are the estates that the King of Prussia will give to one
+     of his generals, Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, two
+     years later.
+
+NO   ... contracts his family never signed. They sue him in 1859.
+YES  ... contracts his family never signed. The colonists sue him in 1859.
+```
+
 ## The documents first
 
 The editor, 2026-10-20: "All facts must be first verified against
@@ -289,7 +340,8 @@ shows, and a fourth view that is not a view.
 
 ## Concision
 
-Do not over-describe. Cut the sentence that counts and classifies what the next
+Concision never outranks being understood ("Name the subject; do not point
+back", above). Do not over-describe. Cut the sentence that counts and classifies what the next
 sentence is about to say.
 
 ```

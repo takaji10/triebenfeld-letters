@@ -10,12 +10,14 @@ era: hohenlohe
 {%- assign era = site.data.eras | where: "slug", "hohenlohe" | first -%}
 {%- assign era_units = site.data.units | where: "era", "hohenlohe" -%}
 
-*Eine der sieben Epochen der [Zeitleiste]({{ '/de/zeitleiste/' | relative_url }}).*
+*Die Hohenlohe-Ingelfingener Jahre sind eine der sieben Epochen in der Geschichte von
+Trąbczyn; die [Zeitleiste]({{ '/de/zeitleiste/' | relative_url }}) zeigt alle sieben der Reihe nach.*
 
-Diese Epoche umfasst {{ era.count }} Dokumente aus den Jahren {{ era.first }} bis
-{{ era.last }}, aus {{ era_units | size }} Archivbeständen.
-Die meisten sind Briefe, die der Bevollmächtigte des Besitzers an diesen schrieb. Daneben
-stehen die Urkunden, mit denen der König von Preußen die Güter verlieh, die Verträge, mit
+Die Hohenlohe-Ingelfingener Jahre sind in {{ era.count }} Dokumenten aus den Jahren
+{{ era.first }} bis {{ era.last }} überliefert, aus {{ era_units | size }} Archivbeständen.
+Die meisten dieser Dokumente sind Briefe, die Peter Friedrich von Triebenfeld, der
+Bevollmächtigte des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen, dem Fürsten über
+die Güter schrieb. Neben den Briefen stehen die Urkunden, mit denen der König von Preußen die Güter verlieh, die Verträge, mit
 denen sie verkauft und ausgetan wurden, die Gerichtsakte über die Erbpacht eines Siedlers,
 die Bestätigung eines Familienmajorats und die Akten der preußischen Ministerien über die
 Angelegenheiten des Besitzers. Die Seite [Quellen]({{ '/de/quellen/' | relative_url }})

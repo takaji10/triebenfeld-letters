@@ -6127,3 +6127,18 @@ sources-icon.html`).
   documents. Facts taken from the era essays (`reference/eras.yml`). The old
   closing figure (1,414,377 Reichsthaler) dropped with its paragraph.
 
+## 2026-11-14 - name the subject: the homepage written again, and a new house-style rule
+
+- The editor: the writing leans on "this", "that", "those" and on the reader's
+  memory across figures and buttons. The homepage written again in both
+  languages: each paragraph names its subject, explains the Crown Tribunal,
+  the partitions, the Duchy of Warsaw and the colonists' forest rights, and
+  no paragraph points back across the figures and buttons.
+- The same fault fixed in the era pages: the Hohenlohe-Ingelfingen page's
+  opening note (it still said "one of three eras ... not yet published"; there
+  are seven) and its first paragraph, the insurgency page's "These are the
+  estates", the boundary page's "They were not ended", and the colonists era's
+  "They sue him" (both languages).
+- `docs/HOUSE_STYLE.md`: new section "Name the subject; do not point back";
+  "Concision" now defers to it.
+

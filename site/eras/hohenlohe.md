@@ -10,12 +10,14 @@ era: hohenlohe
 {%- assign era = site.data.eras | where: "slug", "hohenlohe" | first -%}
 {%- assign era_units = site.data.units | where: "era", "hohenlohe" -%}
 
-*This is one of three eras. See [the story]({{ '/the-story/' | relative_url }}) for the
-other two, which are not yet published.*
+*The Hohenlohe-Ingelfingen years are one of the seven eras in the history of Trąbczyn;
+[the story]({{ '/the-story/' | relative_url }}) tells all seven in order.*
 
-This era holds {{ era.count }} documents, dated between {{ era.first }} and {{ era.last }},
-from {{ era_units | size }} archival holdings. Most are
-letters written to the estates' owner by his agent. With them are the charters by which
+The Hohenlohe-Ingelfingen years are recorded in {{ era.count }} documents, dated between
+{{ era.first }} and {{ era.last }}, from {{ era_units | size }} archival holdings. Most of
+these documents are letters that Peter Friedrich von Triebenfeld, the agent of Prince
+Friedrich Ludwig of Hohenlohe-Ingelfingen, wrote to the Prince about the estates. With
+the letters are the charters by which
 the King of Prussia granted the estates, the deeds by which they were sold and let out,
 a court record of one settler's lease, the confirmation of a family entail, and the files
 of the Prussian ministries on the owner's affairs. The
