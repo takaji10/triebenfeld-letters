@@ -1,4 +1,4 @@
-Six pages of a statistical table of villages, kept in the Central Archives of Historical Records (Archiwum Główne Akt Dawnych) in Warsaw among the files of the South Prussian department of the Prussian General Directory. The archive calls the volume "Die neuesten topografischen Nachrichten von Südpreussen" (the latest topographical reports of South Prussia) and dates it 1797. The six pages are numbered 401 to 406 in pencil. They hold part of an alphabetical list of the villages of one district, with the houses, churches and inhabitants of each, and are published as one document, a table. <!-- context -->
+After Prussia took the country around Konin in 1793, its officials set about counting what they had gained. The table of villages chosen here was drawn up for the Prussian administration of South Prussia – the name Prussia gave its share of partitioned Poland – about 1797, and lists the villages of one district in alphabetical order with the houses, churches and Christian and Jewish inhabitants of each. Trąbczyn and its Hollander settlement are entry 291. <!-- context -->
 
 ### Historical background
 

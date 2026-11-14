@@ -1,4 +1,4 @@
-Acht Einträge auf acht Seiten des Registers des Burggerichts Konin für 1783 und 1784, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Sie stammen aus den ersten zwei Jahren, nachdem die Grenze zwischen Trąbczyn und Łukomia im Gelände bezeichnet worden war, und zeigen die beiden Besitzer sogleich wieder vor Gericht. Sie sind lateinisch und bilden acht Dokumente. <!-- context -->
+Die Absteckung der Grenze zwischen Trąbczyn und Łukomia im Gelände 1782 beendete den Streit der beiden Besitzer nicht. Die aus dem Konin-Register von 1783 und 1784 ausgewählten Einträge zeigen Stanisław Ścibor Chełmski und Antoni Prusimski sofort wieder vor Gericht – wegen eines entlang der neuen Linie geschlagenen Waldes, wegen eines Einfalls bei Łomowo und wegen der Leute, die Prusimski vor Gericht stellen sollte. <!-- context -->
 
 ### Historischer Hintergrund
 

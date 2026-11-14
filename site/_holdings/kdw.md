@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Twenty-one entries of the Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae), the edition of the medieval documents of Greater Poland, from eight of its volumes, published at Poznań from 1877 to 1999. Each entry is one document here, given whole: the Kodeks's number, the editors' heading, their summary and list of sources, the text of the medieval document and their notes. The entries were chosen by the editor for what they say of Trąbczyn and its neighbours; they run from 1173 to 1440, and are in order of date. The text is the electronic text of each volume in the [Wielkopolska Digital Library](https://www.wbc.poznan.pl/), from the copies of the Kórnik Library of the Polish Academy of Sciences; each document's page names its volume and number, linked to the volume. <!-- context -->
+Trąbczyn's history begins in the charters of the Middle Ages: gifts to the Cistercian abbey of Ląd from 1173, the gift of Trąbczyn itself to Count Mikołaj in 1276, the town charter of Zagórów in 1407. The Kodeks Dyplomatyczny Wielkopolski, the printed edition of the medieval documents of Greater Poland, publishes those charters, and the entries here are those that speak of Trąbczyn and its neighbours. Each entry is given whole: the Kodeks's number, its editors' heading, summary and list of sources, the medieval text, and the editors' notes. The text is the electronic text of each volume in the [Wielkopolska Digital Library](https://www.wbc.poznan.pl/). <!-- context -->
 
 ### Historical background
 

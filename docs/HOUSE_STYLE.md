@@ -293,6 +293,32 @@ which sheet is the original and which the copy, a spelling the copyist kept.
 The same test applies to every page: say what the reader needs to understand
 the source, not what it looks like.
 
+**The description does not open by repeating the header (the editor,
+2026-11-14).** "'One document of three pages in a book of the municipal court
+of Kalisz for 1771, kept in the State Archive in Poznań' is repeating
+information - this info is already stated above through the document's header
+and metadata. So I wouldn't open with these physical descriptions of items."
+The header of a holding's page already shows the reference, the archive, the
+archive's title, the number of documents and pages, the span and the
+languages, and the title line above them already summarises the contents. The
+description's first paragraph therefore says, in plain sentences, what the
+documents are and why they matter for Trąbczyn: who did what, when, and where
+it fits in the estate's story. It keeps only the facts a reader needs that the
+header does not give (a part not transcribed, a reading from microfilm, a
+copy made long after the original), and it names its subject in full rather
+than with "It is" (see "Name the subject; do not point back").
+
+```
+NO   One document of three pages in a book of the municipal court of Kalisz
+     for 1771, kept in the State Archive in Poznań (Archiwum Państwowe w
+     Poznaniu). It is the delivery of possession by which ... It is in
+     Latin, with the act of delivery itself in Polish.
+YES  The Lusnia wood, a pine wood with a small Olęder settlement on the
+     disputed ground between Trąbczyn and Łukom, was handed to Stanisław
+     Ścibor Chełmski of Łukomia in November 1771 on the strength of
+     judgments he had won against Antoni Prusimski of Trąbczyn.
+```
+
 ## The era essay
 
 An era's page (`site/hohenlohe.md`) is the one place where the edition tells a

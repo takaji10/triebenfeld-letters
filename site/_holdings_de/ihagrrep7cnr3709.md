@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft den Prozess der minderjährigen Michalina Prusimska gegen Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818) um die Güter Brzyce und reicht vom 18. Juni 1800 bis zum 29. Januar 1802. Sie enthält fünfzehn Dokumente auf 19 Seiten, in deutscher Sprache, dazu eine französische Bittschrift. <!-- context -->
+Michalina Prusimska, die Tochter Antoni Prusimskis, war noch minderjährig, als sie gegen Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen um die Güter von Brzyce prozessierte, einen Teil der eingezogenen Ländereien ihres Vaters. Die Akte der preußischen Verwaltung für Südpreußen verfolgt ihre Beschwerden von Juni 1800 bis Januar 1802, Jahre bevor das Herzogtum Warschau ihr die Güter zurückgab. <!-- context -->
 
 ### Historischer Hintergrund
 

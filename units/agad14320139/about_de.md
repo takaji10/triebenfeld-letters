@@ -1,4 +1,4 @@
-Zwei Jahresberichte für 1882 in deutscher Sprache, verwahrt im Hauptarchiv Alter Akten in Warschau (Archiwum Główne Akt Dawnych) unter den Papieren des Konsistoriums der Evangelisch-Augsburgischen Kirche in Warschau. Pastor E. Erdmann in Zagórów schrieb sie auf dem Formular, das das Konsistorium an jede Gemeinde seines Bezirks schickte: einen über die Gemeinde Zagórów, einen über ihr Filial Lissewo-Pyzdry. <!-- context -->
+Jedes Jahr beantworteten die Gemeinden der Evangelisch-Augsburgischen (lutherischen) Kirche im Königreich Polen einen Fragebogen des Konsistoriums der Kirche in Warschau. Die beiden Berichte hier sind die Antworten, die Pastor E. Erdmann aus Zagórów für 1882 gab, einer für die Gemeinde Zagórów und einer für ihre Filialgemeinde Lissewo-Pyzdry. Pastor Erdmanns Antworten beschreiben die Kirchen, Schulen, Friedhöfe und Gemeinden der deutschen Kolonisten um Trąbczyn. <!-- context -->
 
 ### Historischer Hintergrund
 

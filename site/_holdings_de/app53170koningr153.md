@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Zwei Originalurkunden vom Ende des Jahres 1782 auf sechsundzwanzig Seiten, eingeheftet in ein Buch des Burggerichts Konin, das im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu) verwahrt wird. Die erste ist das Dekret, das die Grenze zwischen Trąbczyn und Łukomia im Gelände bezeichnete und damit den Streit beendete; es enthält den vollen Wortlaut des Dekrets des Krontribunals, das dies anordnete. Die zweite weist Antoni Prusimski einen Olęder-Siedler zu. Sie sind lateinisch und bilden zwei Dokumente. <!-- context -->
+Ende 1782 wurde die Grenze zwischen Trąbczyn und Łukomia endlich im Gelände abgesteckt, und damit war ein Streit, der fast zweihundert Jahre gedauert hatte, rechtlich entschieden. Das erste der beiden in das Konin-Gerichtsbuch eingehefteten Stücke ist das Dekret des Grenzkämmerers von Gnesen, das das Urteil des Krontribunals abschreibt und die einundvierzig entlang der Linie aufgeschütteten Hügel verzeichnet. Das zweite weist einen Olęder-Siedler, Martin Hunt, in Antoni Prusimskis Besitz ein. <!-- context -->
 
 ### Historischer Hintergrund
 

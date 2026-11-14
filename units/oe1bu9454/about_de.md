@@ -1,4 +1,4 @@
-Ein Bestand mit Korrespondenz im Hohenlohe-Zentralarchiv Neuenstein. Er besteht überwiegend aus Briefen, die Peter Friedrich von Triebenfeld, preußischer Kriegs- und Forstrat, zwischen 1798 und 1816 an Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), einen preußischen General, schrieb, dessen Güter in Südpreußen er verwaltete. Der Bestand enthält 318 Dokumente auf 869 Seiten. Etwa 240 sind Briefe Triebenfelds; die übrigen sind Briefe anderer Personen, Entwürfe Hohenlohe-Ingelfingens und Beilagen. <!-- context -->
+Peter Friedrich von Triebenfeld, preußischer Kriegs- und Forstrat, verwaltete die Güter des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen in Südpreußen – Preußens Anteil am geteilten Polen – und schrieb dem Fürsten achtzehn Jahre lang darüber, von 1798 bis 1816. Triebenfelds Briefe, etwa 240, sind der Kern der Sammlung: die Verkäufe, Darlehen und Prozesse von Trąbczyn, Zagórów und den anderen Gütern des Fürsten, erzählt, während sie geschahen. Dazu kommen Briefe anderer Personen, Entwürfe des Fürsten und die den Briefen beigelegten Stücke. <!-- context -->
 
 ### Historischer Hintergrund
 

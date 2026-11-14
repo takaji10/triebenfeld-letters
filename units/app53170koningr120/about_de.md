@@ -1,4 +1,4 @@
-Zwei Einträge auf drei Seiten des Registers des Burggerichts Konin für 1785 und 1786, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Der eine hält die Verletzungen eines Trąbczyner Untertanen fest, der auf der Landstraße geschlagen wurde; der andere ist ein später Schritt in Stanisław Ścibor Chełmskis Prozess gegen Antoni Prusimski um die Forderung Tracholz. Sie sind lateinisch und bilden zwei Dokumente. <!-- context -->
+Der Streit zwischen Antoni Prusimski aus Trąbczyn und Stanisław Ścibor Chełmski aus Łukomia ging bis in die späten 1780er Jahre weiter. In einem der beiden aus dem Konin-Register von 1785 und 1786 ausgewählten Einträge zeigt ein Untertan des Gutes Trąbczyn dem Gericht die Verletzungen einer Prügelei auf der Straße; im anderen treibt Chełmski die neun Jahre zuvor begonnene Klage aus der Schuld voran, die er dem Kaufmann Tracholz abgekauft hatte. <!-- context -->
 
 ### Historischer Hintergrund
 

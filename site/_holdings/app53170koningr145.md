@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-One entry of 122 pages in a book of the municipal court of Konin for 1776, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). The entry is the decree of a boundary commission that sat in 1775 between the estates of Trąbczyn and Łukomia. It is in Polish, with the Latin formulas of the Polish courts, and is one document. <!-- context -->
+In 1774 the Polish parliament appointed a commission to settle, at last, the boundary between Antoni Prusimski's estate of Trąbczyn and the Chełmski brothers' estate of Łukomia. The commission sat on the disputed ground from September 1775, and its decree records what each side showed on the ground, how the commission ruled on the line, the new boundary mounds it had raised, and the penalties it laid on the Chełmskis. <!-- context -->
 
 ### Historical background
 

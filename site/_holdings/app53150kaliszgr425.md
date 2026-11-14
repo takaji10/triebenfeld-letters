@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-One document of three pages in a book of the municipal court of Kalisz for 1776, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is an adjournment made on 28 September 1776 by five commissioners in the boundary cause between Prusimski and Chełmski. It is in Polish, with a Latin record of entry. <!-- context -->
+The boundary cause between Antoni Prusimski of Trąbczyn and the Chełmskis of Łukomia did not end with the commission's decree of 1775, and commissioners were still meeting over it in 1776. On 28 September 1776 five commissioners, kept away by the parliament at Warsaw and the Tribunal at Piotrków, put their sitting on the ground of Łukom off to January 1777. None of the five had signed the commission's decree. <!-- context -->
 
 ### Historical background
 

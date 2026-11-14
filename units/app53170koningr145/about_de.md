@@ -1,4 +1,4 @@
-Ein Eintrag von 122 Seiten in einem Buch des Burggerichts Konin für das Jahr 1776, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Der Eintrag ist das Dekret einer Grenzkommission, die 1775 zwischen den Gütern Trąbczyn und Łukomia tagte. Er ist polnisch, mit den lateinischen Formeln der polnischen Gerichte, und bildet ein einziges Dokument. <!-- context -->
+1774 setzte der polnische Reichstag eine Kommission ein, um endlich die Grenze zwischen Antoni Prusimskis Gut Trąbczyn und dem Gut Łukomia der Brüder Chełmski festzulegen. Die Kommission tagte ab September 1775 auf dem strittigen Grund, und ihr Dekret hält fest, was jede Seite im Gelände vorwies, wie die Kommission über die Linie entschied, welche neuen Grenzhügel sie aufschütten ließ und welche Strafen sie den Chełmski auferlegte. <!-- context -->
 
 ### Historischer Hintergrund
 

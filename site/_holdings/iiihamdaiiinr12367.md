@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Fourteen scans from a file of the Prussian Ministry of Foreign Affairs, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. The file is the second volume on the claim of Michalina Miączyńska, born Prusimska, and continues <a href="{{ '/sources/iiihamdaiiinr12366/' | relative_url }}">III. HA MdA, III. Nr. 12366</a>; its cover gives its span as January 1828 to the end of November 1833. The pieces scanned run from February 1828 to March 1832 and concern one matter: the compensation of Weigel, a banker at Wrocław, whose mortgage on the Trąbczyn estates in central Poland the Polish courts had struck out. They are eleven documents on 15 pages: eight in French, two in Polish and one in German. <!-- context -->
+The Polish courts struck out the mortgage of 30,000 thalers that Weigel, a banker at Wrocław, had on the Trąbczyn estates for money lent to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen. The second volume of the Prussian Ministry of Foreign Affairs' file on Michalina Miączyńska's claim, which continues <a href="{{ '/sources/iiihamdaiiinr12366/' | relative_url }}">III. HA MdA, III. Nr. 12366</a>, deals with one matter from 1828 to 1832: what the authorities at Warsaw wrote to the Prussian consul general and to Weigel himself about compensating him. <!-- context -->
 
 ### Historical background
 

@@ -1,4 +1,4 @@
-Ein Band mit Verträgen, durch die Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818) die ihm 1796 und 1797 von der preußischen Krone verliehenen Güter in Südpreußen verkaufte oder in Erbpacht gab. Er enthält dreißig Dokumente auf 287 Seiten und liegt im Hohenlohe-Zentralarchiv Neuenstein. Jedes Dokument ist ein Vertrag mit den ihm beigelegten Schriftstücken. Die meisten stammen aus den Jahren 1798 bis 1806; eines gibt ein Privileg von 1766 wieder. <!-- context -->
+Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen brauchte Geld, und er beschaffte es, indem er seine Güter in Südpreußen – Preußens Anteil am geteilten Polen – verkaufte oder in Erbpacht ausgab. Der Band der Verträge des Fürsten verzeichnet diese Verkäufe und Erbpachten, jeden Vertrag mit den Vollmachten, königlichen Bestätigungen und Bescheinigungen, die mit ihm abgelegt wurden. Die meisten Verträge stammen aus den Jahren 1798 bis 1806; einer schreibt ein Privileg von 1766 ab. <!-- context -->
 
 ### Historischer Hintergrund
 

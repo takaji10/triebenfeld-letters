@@ -1,4 +1,4 @@
-Nine pages from a volume in the Diocesan Archive in Włocławek (Archiwum Diecezjalne we Włocławku), signature 85, which the archive calls "Akta wizytacji dekanatu konińskiego 1790-1791", the records of the visitation of the Konin deanery in 1790 and 1791. The pages are leaves 23 verso to 25 verso and 28 verso to 29 verso, on the parish of Trąbczyn, and leaf 34a, a table of the parish of Zagórów. They are two documents. <!-- context -->
+In 1790 and 1791 the church authorities had every parish of the Konin deanery visited and described. The pages of the visitors' record chosen here describe the parish of Trąbczyn – its priest, its church, its people counted village by village, its books and its endowments – and give a table of the people of the neighbouring parish of Zagórów. The record of the visitation is the last account of the parish of Trąbczyn while the Prusimski family still owned the estate, a few years before Prussia took the region. <!-- context -->
 
 ### Historical background
 

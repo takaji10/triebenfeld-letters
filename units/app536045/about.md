@@ -1,4 +1,4 @@
-One entry of two pages in a book of decrees of the land court at Konin for the years 1750 to 1765, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is a decree in a suit over potash between the widow Katarzyna Prusimska and Stanisław Ścibor Chełmski, given at the court's sitting of 1763. It is in Latin and is one document. <!-- context -->
+In 1761 Stanisław Ścibor Chełmski of Łukom stopped at Pyzdry a load of potash belonging to the widow Katarzyna Prusimska of Trąbczyn, on its way to Gdańsk. When Prusimska sued him, the land court at Konin heard witnesses in 1763 and then put the case off until the boundary between Trąbczyn and Łukom, then before the Crown Tribunal, should show on whose ground the potash had been made. <!-- context -->
 
 ### Historical background
 

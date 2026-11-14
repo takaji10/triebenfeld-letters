@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Thirteen entries on eighteen pages of the register of the municipal court of Konin for 1778 and 1779, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). Ten belong to the months after the land court's decrees of October 1777: Stanisław Ścibor Chełmski's suit against Antoni Prusimski on a debt he had bought, Prusimski's appeal to the Crown Tribunal, and Chełmski's protests against the boundary decree of 1775. Three concern trees cut at the boundaries of Trąbczyn. They are in Latin, two with a passage in Polish, and are thirteen documents. <!-- context -->
+The boundary decree of 1775 did not make peace between Antoni Prusimski of Trąbczyn and Stanisław Ścibor Chełmski of Łukomia. Ten of the entries chosen from the Konin register of 1778 and 1779 follow Chełmski's suit against Prusimski on a debt that Chełmski had bought from the townsman Jan Tracholz, Prusimski's appeal to the Crown Tribunal – the highest court of the Polish kingdom – and Chełmski's protests against the boundary decree. The other three concern trees cut at the boundaries of Trąbczyn. <!-- context -->
 
 ### Historical background
 

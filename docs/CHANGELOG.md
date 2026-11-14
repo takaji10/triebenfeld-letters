@@ -6146,3 +6146,22 @@ sources-icon.html`).
   two more from the holdings' pages; 15 of the 54 holdings' opening
   paragraphs have the "... It is ..." pattern (offered to the editor).
 
+## 2026-11-14 (later) - the holdings' opening paragraphs rewritten; Trąbczyn's owners before 1698
+
+- At the editor's word ("I wouldn't open with these physical descriptions of
+  items"): the first paragraph of all 54 holdings' descriptions, in English
+  and German, now says what the documents are and why they matter, without
+  the counts, archive, volume and languages the page's header already shows,
+  and without "It is ..." sentences. The heading "# APP 53/20/0/-/Poznań
+  Gr.1181" that repeated the reference inside that holding's description is
+  gone. Facts kept from the old openings and the title lines; a few
+  corrected on the way (the court order of 1589 is no longer "the earliest
+  document in the collection" since the medieval charters came in; the
+  summons of 1860 is a counterclaim answering the colonists' suit of 1859).
+- The homepage and the boundary era's ownership line: Trąbczyn belonged to
+  the Trąmpczyński family until they sold it to Jan Prusimski of Kolno in
+  1698 (reference/genealogy.yml); both had said "the Prusimski family from
+  1589".
+- `docs/HOUSE_STYLE.md`, "A holding's own page": the description does not
+  open by repeating the header. The TODO item offered this morning is done.
+

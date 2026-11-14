@@ -1,4 +1,4 @@
-Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft das Gut Oleśnica, das Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818) in Erbpacht gegeben hatte. Die Akte enthält ein Dokument, eine Bittschrift an den König vom 18. September 1805, auf siebzehn Doppelseiten. <!-- context -->
+Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen hatte sein Gut Oleśnica drei Bürgern in Erbpacht gegeben, und die Bürger hörten auf zu zahlen. Im September 1805 bat der Bevollmächtigte des Fürsten, Peter Friedrich von Triebenfeld, den König von Preußen, das Gut unter gerichtliche Verwaltung zu stellen; die Bittschrift zeigt, wie die Erbpachten des Fürsten scheitern konnten. <!-- context -->
 
 ### Historischer Hintergrund
 

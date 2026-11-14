@@ -1,4 +1,4 @@
-Ein Dokument von drei Seiten in einem Buch des Burggerichts Kalisz für das Jahr 1771, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Es ist die Besitzeinweisung, mit der im November 1771 der Wald Lusnia und die darin wohnenden Olęder-Siedler an Stanisław Ścibor Chełmski von Łukomia übergeben wurden. Es ist lateinisch, die Übergabe selbst ist polnisch geschrieben. <!-- context -->
+Der Wald Lusnia, ein Kiefernwald mit einer kleinen Olęder-Siedlung auf dem strittigen Grund zwischen Trąbczyn und Łukom, wurde im November 1771 aufgrund von Urteilen, die Stanisław Ścibor Chełmski aus Łukomia gegen Antoni Prusimski aus Trąbczyn erstritten hatte, an Chełmski übergeben. Das Protokoll der Übergabe nennt die zwölf Olęder-Siedler, die mit dem Wald an Chełmski übergingen, und zeigt, wie im Polen des achtzehnten Jahrhunderts eine Partei, die vor Gericht gewonnen hatte, durch einen Gerichtsbeamten in den Besitz eingewiesen wurde. <!-- context -->
 
 ### Historischer Hintergrund
 

@@ -1,4 +1,4 @@
-Two annual reports for 1882 in German, kept in the Central Archives of Historical Records in Warsaw (Archiwum Główne Akt Dawnych) among the papers of the consistory of the Evangelical-Augsburg Church in Warsaw. Pastor E. Erdmann of Zagórów wrote them on the form the consistory sent to every parish of its district: one on the parish of Zagórów, one on its filial Lissewo-Pyzdry. <!-- context -->
+Every year the parishes of the Evangelical-Augsburg (Lutheran) Church in the Kingdom of Poland answered a set of questions from the church's consistory in Warsaw. The two reports here are the answers that Pastor E. Erdmann of Zagórów gave for 1882, one for the parish of Zagórów and one for its filial congregation of Lissewo-Pyzdry. Pastor Erdmann's answers describe the churches, schools, cemeteries and congregations of the German colonists around Trąbczyn. <!-- context -->
 
 ### Historical background
 

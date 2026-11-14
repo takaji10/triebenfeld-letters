@@ -1591,12 +1591,3 @@ transcription; 108 readings settled in session before the first build
       39/98/0/-/1333", 3); the office's note on folio 88 stays as read
       unless you can read it.
 - [x] Published at your word (2026-11-13).
-
-## Rewrite the holdings' opening paragraphs that point back (offered 2026-11-14)
-
-15 of the 54 holdings' `about.md` open with a fragment ("One document of three
-pages in a book of ...") followed by "It is the ...", or say "It is the
-edition's ..." after a sentence about something else (adwl85). HOUSE_STYLE,
-"Name the subject; do not point back", has the rule and the before-and-after
-examples. Waiting on the editor's word to rewrite them (English and German).
-

@@ -1,4 +1,4 @@
-Ein Eintrag von vier Seiten in einem Buch des Burggerichts Konin für das Jahr 1754, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Er ist der Bericht über eine Besichtigung des Gutes Trąbczyn, die im Juli 1754 für dessen verwitwete Besitzerin vorgenommen wurde. Er ist polnisch, mit einem lateinischen Vermerk am Ende, und bildet ein einziges Dokument. Ein Teil des Eintrags ist nicht transkribiert. <!-- context -->
+Im Juli 1754 ließ die Witwe Katarzyna Prusimska das Gut Trąbczyn besichtigen, und ein Gerichtsbote meldete die Besichtigung dem Burggericht in Konin. Der Bericht geht die Gebäude des Vorwerks eines nach dem anderen durch, beschreibt die Olęder-Siedler von Nowa Wieś, zählt die fronpflichtigen Bauern in vier Dörfern und hält die Aussage zweier Adliger fest, dass das beste Holz der Wälder des Gutes gefällt worden sei. Ein Teil des Eintrags ist nicht transkribiert. <!-- context -->
 
 ### Historischer Hintergrund
 

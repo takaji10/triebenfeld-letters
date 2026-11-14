@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-The file was kept by the third section of the Prussian Ministry of Foreign Affairs from 1814 to 1820. It concerns the claim of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, to be compensated for the Trąbczyn estates in the former province of South Prussia, which were taken from him in 1807. It contains thirty documents: incoming petitions and reports, and the ministry's drafts of its replies and instructions. <!-- context -->
+Prince Friedrich Ludwig of Hohenlohe-Ingelfingen lost the Trąbczyn estates in 1807, when the region passed to the Duchy of Warsaw, and from 1814 he and, after his death in 1818, his heirs asked to be compensated. The Prussian Ministry of Foreign Affairs' file on the claim holds the petitions and reports that reached the ministry and its drafts of replies and instructions, until Russia, which ruled the region from 1815, refused the claim in 1816 and again in 1820. <!-- context -->
 
 ### Historical background
 

@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Die Abschrift, in einer Hand des 19. Jahrhunderts, eines Briefs, den Tadeusz Kościuszko am 3. September 1798 auf Polnisch aus Paris schrieb. Die Abschrift steht in der Handschriftensammlung "Listy, dokumenty i wiersze z lat 1697-1798" des Ossolineums in Breslau (B. Ossol. rkp. 2289 II), auf Seite 145 des Sammelbands, und ist ein Dokument. Die Sammlung ist eine Zusammenstellung von Abschriften, überwiegend von Stanisław Przyłęcki (1805-1866) geschrieben, dem Lemberger Bibliografen und Autographensammler, dessen handschriftlichen Nachlass das Ossolineum 1869 kaufte. <!-- context -->
+Tadeusz Kościuszko, der Anführer des polnischen Aufstands von 1794, schrieb am 3. September 1798 aus Paris einen Brief an einen polnischen Emigranten, dessen Namen die erhaltene Abschrift nicht nennt. Die Abschrift des Briefes steht in einer Sammlung von Abschriften, „Listy, dokumenty i wiersze z lat 1697-1798“, die zumeist Stanisław Przyłęcki (1805-1866) anfertigte, der Lemberger Bibliograph und Autographensammler, dessen Handschriften das Ossolineum 1869 kaufte. Kościuszkos Brief ist das einzige bisher transkribierte Dokument der Sammlung. <!-- context -->
 
 ### Der Brief
 

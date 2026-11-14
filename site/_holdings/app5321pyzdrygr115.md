@@ -9,12 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-One page of a register of the municipal court and office of Pyzdry, kept in the
-State Archive in Poznań (Archiwum Państwowe w Poznaniu) in the fond "Księgi
-sądu i urzędu grodzkiego w Pyzdrach", the court books of the municipal court
-and office of Pyzdry. The archive calls the volume "Relationes [protocollon]
-1791-1792"; the page here is page 543 of it, on the editor's own trim of the
-photographed page. <!-- context -->
+A register of the court office at Pyzdry for 1791 and 1792 contains a table of the farming households (dymy rolne, "hearths") of the parishes of the district. The page here is the head of the table for the parish of Trąbczyn, village by village – the village of Trąbczyn, the parsonage, Nowa Wieś, Osiny, Łazy, the smithy of Maryantów and the Hollander settlements – with the number of hearths and two columns of figures headed gara. <!-- context -->
 
 ### The fonds and its court
 

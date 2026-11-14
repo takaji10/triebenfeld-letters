@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Dreizehn Einträge auf achtzehn Seiten des Registers des Burggerichts Konin für 1778 und 1779, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Zehn gehören in die Monate nach den Dekreten des Landgerichts vom Oktober 1777: Stanisław Ścibor Chełmskis Klage gegen Antoni Prusimski wegen einer gekauften Forderung, Prusimskis Berufung an das Krontribunal und Chełmskis Proteste gegen das Grenzdekret von 1775. Drei betreffen Bäume, die an den Grenzen von Trąbczyn gefällt wurden. Sie sind lateinisch, zwei mit einer polnischen Stelle, und bilden dreizehn Dokumente. <!-- context -->
+Das Grenzdekret von 1775 brachte keinen Frieden zwischen Antoni Prusimski aus Trąbczyn und Stanisław Ścibor Chełmski aus Łukomia. Zehn der aus dem Konin-Register von 1778 und 1779 ausgewählten Einträge verfolgen Chełmskis Klage gegen Prusimski aus einer Schuld, die Chełmski dem Bürger Jan Tracholz abgekauft hatte, Prusimskis Berufung an das Krontribunal – das oberste Gericht des polnischen Königreichs – und Chełmskis Proteste gegen das Grenzdekret. Die drei übrigen betreffen an den Grenzen von Trąbczyn gefällte Bäume. <!-- context -->
 
 ### Historischer Hintergrund
 

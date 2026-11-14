@@ -1,4 +1,4 @@
-One entry on two pages of the register of the municipal court of Konin for 1787 and 1788, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). On 9 June 1788 a servant of Antoni Prusimski brought before the office the cart and animals of one of Stanisław Ścibor Chełmski's peasants, caught taking timber in the Trąbczyn wood. It is in Latin, with Polish glosses, and is one document. <!-- context -->
+The latest entry in the collection from the Konin court registers is of 9 June 1788. A servant of Antoni Prusimski brought before the court office the cart and animals of a peasant of Stanisław Ścibor Chełmski's, caught carting off a felled tree from the Trąbczyn pine wood – the quarrel between Trąbczyn and Łukomia still alive six years after the boundary was marked. <!-- context -->
 
 ### Historical background
 

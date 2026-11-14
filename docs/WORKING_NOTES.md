@@ -3844,6 +3844,18 @@ styling**, and in any include use `include.<name>` for every parameter.
   buttons names its subject again. The rule and its examples are in
   HOUSE_STYLE, "Name the subject; do not point back". Read every new
   paragraph once as if the one before it were not there.
+- **A holding's description opens with the story, not the header**
+  (the editor, 2026-11-14). All 54 opening paragraphs were rewritten that day
+  (English and German): no counts, archive, volume or languages, which the
+  page's header already shows; what the documents are and why they matter.
+  HOUSE_STYLE, "A holding's own page". A new holding's `about.md` starts the
+  same way.
+- **Trąbczyn's owners before 1698 were the Trąmpczyński family**, not the
+  Prusimskis: the court records of 1589 and 1644 name Trąmpczyńskis, and
+  `reference/genealogy.yml` has their sale of Trąbczyn to Jan na Kolno
+  Prusimski in 1698. The homepage and the boundary era's ownership line said
+  "Prusimski from 1589" until 2026-11-14; check the genealogy before writing
+  an ownership line.
 
 ## The Trąmpczyński family pages (2026-11-12)
 

@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-A file of the Prussian central administration for South Prussia, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. It concerns the lawsuit of Michalina Prusimska, a minor, against Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818) for the Brzyce estates, and runs from 18 June 1800 to 29 January 1802. It holds fifteen documents on 19 pages, in German, with one petition in French. <!-- context -->
+Michalina Prusimska, the daughter of Antoni Prusimski, was still a minor when she went to law against Prince Friedrich Ludwig of Hohenlohe-Ingelfingen over the Brzyce estates, part of her father's confiscated lands. The file of the Prussian administration for South Prussia follows her complaints from June 1800 to January 1802, years before the Duchy of Warsaw gave the estates back to her. <!-- context -->
 
 ### Historical background
 

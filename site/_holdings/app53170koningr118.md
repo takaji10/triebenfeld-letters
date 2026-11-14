@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Twenty-nine entries on thirty-seven pages of the register of the municipal court of Konin for 1780 to 1782, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They carry the quarrel between Antoni Prusimski of Trąbczyn and Stanisław Ścibor Chełmski of Łukomia to its decision by the Crown Tribunal and to the attempt to mark the boundary on the ground, and they show two other suits of Prusimski's in the same years. They are in Latin, three of them in Polish, and are twenty-nine documents. <!-- context -->
+In January 1782 the Crown Tribunal, the highest court of the Polish kingdom, decided the boundary between Trąbczyn and Łukomia. The entries chosen from the Konin register of 1780 to 1782 show the Tribunal's decree being carried out on the ground against Stanisław Ścibor Chełmski's resistance, and three other suits of the same years: Chełmski's claim on the Tracholz debt, the defence of the abbey of Ląd against a charge of collusion, and the claim of the Zakrzewskis and other heirs to the estate of Antoni Prusimski's uncles. <!-- context -->
 
 ### Historical background
 

@@ -1,4 +1,4 @@
-One entry on three pages of a book of decrees of the land court at Konin for the years 1781 to 1791, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is a decree of the sitting of autumn 1783 on an assault by men of Antoni Prusimski's household on a settler of Stanisław Chełmski's. It is in Latin and is one document. <!-- context -->
+In 1783, the year after the boundary between Trąbczyn and Łukom was marked, men of Antoni Prusimski's household beat an Olęder settler of Stanisław Chełmski's and a servant at Smoleniec. The decree of the land court at Konin on the assault finds only Prusimski's coachman and under-coachman accused, and puts Prusimski to an oath that he cannot produce them. <!-- context -->
 
 ### Historical background
 

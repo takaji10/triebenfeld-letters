@@ -1,4 +1,4 @@
-Neun Seiten aus einem Band des Diözesanarchivs Włocławek (Archiwum Diecezjalne we Włocławku), Signatur 85, den das Archiv „Akta wizytacji dekanatu konińskiego 1790-1791“ nennt, die Akten der Visitation des Dekanats Konin 1790 und 1791. Die Seiten sind Blatt 23 Rückseite bis 25 Rückseite und 28 Rückseite bis 29 Rückseite, über die Pfarrei Trąbczyn, und Blatt 34a, eine Tabelle der Pfarrei Zagórów. Sie bilden zwei Dokumente. <!-- context -->
+1790 und 1791 ließ die kirchliche Obrigkeit jede Pfarrei des Dekanats Konin visitieren und beschreiben. Die hier ausgewählten Seiten des Visitationsprotokolls beschreiben die Pfarrei Trąbczyn – ihren Pfarrer, ihre Kirche, ihre Seelen Dorf für Dorf gezählt, ihre Bücher und ihre Stiftungen – und geben eine Tabelle der Seelen der benachbarten Pfarrei Zagórów. Das Visitationsprotokoll ist der letzte Bericht über die Pfarrei Trąbczyn aus der Zeit, als die Familie Prusimski das Gut noch besaß, wenige Jahre bevor Preußen die Gegend nahm. <!-- context -->
 
 ### Historischer Hintergrund
 

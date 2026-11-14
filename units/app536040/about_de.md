@@ -1,4 +1,4 @@
-Ein Eintrag von fünf Seiten in einem Dekretbuch des Landgerichts in Konin für die Jahre 1722 bis 1780, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Er ist ein Dekret vom Januar 1728 in einer Klage der Brüder Chełmski von Łukom gegen Krzysztof Prusimski von Trąbczyn, das einen Kommissar auf den strittigen Grund schickt. Er ist lateinisch und bildet ein einziges Dokument. <!-- context -->
+Die Familie Trąmpczyński verkaufte Trąbczyn 1698 an die Prusimski, und der Streit mit Łukom ging auf die neuen Besitzer über. Im Januar 1728 schickte das Landgericht in Konin in der Klage der Brüder Franciszek und Józef Ścibor Chełmski aus Łukom gegen Krzysztof Prusimski aus Trąbczyn und seinen Sohn Antoni wegen verbrannter Schindeln, weggenommener Ochsen und eines bewaffneten Überfalls um Heu einen vereidigten Kommissar auf den strittigen Grund, um zu entscheiden, wem er gehörte. <!-- context -->
 
 ### Historischer Hintergrund
 

@@ -1,4 +1,4 @@
-One entry of five pages in a book of decrees of the land court at Konin for the years 1722 to 1780, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is a decree of January 1728 in a suit of the Chełmski brothers of Łukom against Krzysztof Prusimski of Trąbczyn, which sends a commissioner onto the disputed ground. It is in Latin and is one document. <!-- context -->
+The Trąmpczyński family sold Trąbczyn to the Prusimskis in 1698, and the quarrel with Łukom passed to the new owners. In January 1728 the land court at Konin, hearing the suit of the brothers Franciszek and Józef Ścibor Chełmski of Łukom against Krzysztof Prusimski of Trąbczyn and his son Antoni over burnt shingles, stolen oxen and an armed raid for hay, sent a sworn commissioner onto the disputed ground to decide who owned it. <!-- context -->
 
 ### Historical background
 

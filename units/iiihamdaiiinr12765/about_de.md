@@ -1,4 +1,4 @@
-Die Akte wurde von 1814 bis 1820 in der dritten Sektion des preußischen Ministeriums der auswärtigen Angelegenheiten geführt. Sie betrifft den Anspruch des Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), eines preußischen Generals, auf Entschädigung für die Trąbczyner Güter in der ehemaligen Provinz Südpreußen, die ihm 1807 genommen wurden. Sie enthält dreißig Dokumente: eingegangene Eingaben und Berichte sowie die Entwürfe der Antworten und Weisungen des Ministeriums. <!-- context -->
+Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen verlor die Güter um Trąbczyn 1807, als die Gegend an das Herzogtum Warschau fiel, und ab 1814 verlangten er und nach seinem Tod 1818 seine Erben eine Entschädigung. Die Akte des preußischen Ministeriums der auswärtigen Angelegenheiten über den Anspruch enthält die beim Ministerium eingegangenen Gesuche und Berichte und seine Entwürfe von Antworten und Weisungen, bis Russland, das die Gegend ab 1815 regierte, den Anspruch 1816 und erneut 1820 ablehnte. <!-- context -->
 
 ### Historischer Hintergrund
 

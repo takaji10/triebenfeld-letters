@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-A file of the Prussian Ministry of Foreign Affairs, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. It concerns the debts that Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, had secured on the Trąbczyn estates in central Poland, after the estates were returned in 1807 to Michalina Miączyńska, born Prusimska, the daughter of their former owner. Its cover calls it the first volume and gives its span as December 1818 to November 1827. It holds six documents on 37 pages: five in French and one in Polish. <!-- context -->
+When the Duchy of Warsaw gave the Trąbczyn estates back to Michalina Miączyńska, born Prusimska, in 1807, the debts that Prince Friedrich Ludwig of Hohenlohe-Ingelfingen had raised on them stayed on the land. The Prussian Ministry of Foreign Affairs followed her claim to have the estates freed of the Prince's debts, and the Polish courts' judgments of 1819 to 1827 that struck the debts out against his Prussian creditors. The ministry's file is the first of two volumes. <!-- context -->
 
 ### Historical background
 

@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-The copy, in a nineteenth-century hand, of a letter Tadeusz Kościuszko wrote in Polish from Paris on 3 September 1798. The copy stands in the manuscript collection "Listy, dokumenty i wiersze z lat 1697-1798" kept at the Ossolineum in Wrocław (B. Ossol. rkp. 2289 II), on page 145 of the codex, and it is one document. The collection is a gathering of copies made mostly by Stanisław Przyłęcki (1805-1866), the Lwów bibliographer and autograph collector whose manuscript legacy the Ossolineum bought in 1869. <!-- context -->
+Tadeusz Kościuszko, the commander of the Polish uprising of 1794, wrote a letter from Paris on 3 September 1798 to a Polish émigré whose name the surviving copy does not give. The copy of the letter stands in a collection of copies, "Listy, dokumenty i wiersze z lat 1697-1798", made mostly by Stanisław Przyłęcki (1805-1866), the Lwów bibliographer and autograph collector whose manuscripts the Ossolineum bought in 1869. Kościuszko's letter is the only document of the collection transcribed so far. <!-- context -->
 
 ### The letter
 

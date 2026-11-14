@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-One entry on two pages of a book of the municipal court of Kalisz for 1776, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the office's certificate, of 23 November 1776, that the boundary decree given for Prusimski had not been brought in at Kalisz. It is in Latin and is one document. <!-- context -->
+A boundary decree had to be entered in the court books before it could be enforced. In November 1776 the municipal court office at Kalisz, searched at the request of Antoni Leszczyc Mierzewski, certified that its books held no entry of the boundary decree of 1775 between Trąbczyn and Łukom – one of several searches that the two sides made for that decree in 1776 and 1777. <!-- context -->
 
 ### Historical background
 

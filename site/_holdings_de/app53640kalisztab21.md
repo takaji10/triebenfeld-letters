@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Dreizehn Seiten eines Steuerregisters von 1789, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu) in dessen Sammlung von Steuertabellen und Lustrationen. Das Archiv nennt den Band „Podymne z woj. kaliskiego“, die Rauchfangsteuer der Woiwodschaft Kalisch. Die Seiten sind Blatt 1, die Blätter 7 bis 9 und die Blätter 18 bis 20; sie bilden ein Dokument, eine Tabelle. <!-- context -->
+Im Sommer 1789 erhob der polnische Staat in der Wojewodschaft Kalisch eine Rauchfangsteuer, und ihr Register verzeichnet die Summe, die jede Stadt, jedes Dorf und jeder Dorfteil der Kreise Pyzdry, Kalisch und Konin zahlte. Die dreizehn ausgewählten Seiten des Registers umfassen Trąbczyn und seine Nachbarn – seine Olęder-Siedlung, Łazy, Osiny, Nowa Wieś und Łukom – wenige Jahre bevor Preußen die Gegend nahm. <!-- context -->
 
 ### Historischer Hintergrund
 
