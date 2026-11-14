@@ -4,6 +4,7 @@ register: augustinow
 status: extant
 kind: village
 kind_text: Village
+founded_as: Kolonia Augustinhof
 location:
   text: south of Zagórów
   relation: south-of

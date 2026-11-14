@@ -3790,6 +3790,23 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   edition's documents (the place's `places_docs` list), and say where a
   document's writer or date is uncertain (letter 24 has no writer; letter
   212 only a year).
+- **"Kolonia X" is not the Holendry of X (the editor, 2026-11-14).** The
+  roads map's Колонія Вромбчинъ had gone onto Wrąbczynkowskie Holendry,
+  the Olęder settlement of 1781; it is Kolonia Wrąbczyn, one of the
+  Prince's colonies, a place of its own. The same map also names the
+  Holendry separately (Вромбчинковские Голендры), which should have
+  given it away. After an import, read the label list for two labels on
+  one place, and for a "Kolonia"/"Holendry"/"Olędry" form on an entry of
+  another kind; put each to the editor before the map is called finished.
+- **Check a secondary work's quotation against the work it quotes.**
+  Seidel (2018) quotes Breyer (1938) with "Kolonweiler [Wrombczyn]" where
+  Breyer prints "Kolonie *Wrombczyn*": a name that exists only in a
+  misquotation. When a hidden work gives a new name, look for its source in
+  the edition first.
+- **The Prince's renamed colonies show both names on the maps** (the
+  editor, 2026-11-14): `founded_as` in the gazetteer entry
+  (GAZETTEER_PLAN, section 2); map_pages.py writes "Kolonia Adolfsberg
+  (Zalesie)". Give a new entry for such a colony the field.
 ## A Jekyll include reads its parameters as include.<name> (2026-11-11)
 
 The Sources page icons (`site/_includes/sources-icon.html`) rendered as empty

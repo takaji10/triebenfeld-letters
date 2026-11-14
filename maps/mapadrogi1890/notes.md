@@ -14,7 +14,12 @@ the re-save — and two new places, **Stara Huta** and **Świątniki**, whose
 entries wait on the editor's ruling, NEEDS_CONFIRMATION). Świątniki has
 its gazetteer entry since 2026-11-14 at the editor's word
 (`reference/gazetteer/swiatniki.yml`, label mapadrogi1890-060 linked);
-Stara Huta is still open. The map is
+Stara Huta is still open. Колонія Вромбчинъ (label mapadrogi1890-008),
+first linked to Wrąbczynkowskie Holendry, is Kolonia Wrąbczyn, a place of
+its own (the editor, 2026-11-14; `reference/gazetteer/kolonia-wrabczyn.yml`).
+The Prince's renamed colonies show their first name with today's in
+brackets on this map's page, "Kolonia Adolfsberg (Zalesie)" (`founded_as`
+in the gazetteer). The map is
 Russian, so this map is the batch's exception, agreed in advance: the editor
 marked each label with the **Polish standard form** in the form field and
 left the as-written form to Claude's OCR.

@@ -4,6 +4,7 @@ register: michalinow-olesnicki
 status: extant
 kind: village
 kind_text: Village
+founded_as: Emilienheim
 location:
   text: southwest of Trąbczyn
   relation: southwest-of

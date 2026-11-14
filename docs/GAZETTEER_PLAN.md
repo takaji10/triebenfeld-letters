@@ -72,6 +72,16 @@ words), `names`, `aliases` (the editor's "See" headings that point here),
 or none), `review` (what is still to settle). The German text (`text_de`)
 is added in step 3.
 
+**`founded_as`** (after `kind_text`, 2026-11-14): the first name of a colony
+the Prince of Hohenlohe-Ingelfingen founded and the Polish authorities later
+renamed, in the editor's form from the entry's own text ("Kolonia
+Adolfsberg"). On a map's page the label then reads "Kolonia Adolfsberg
+(Zalesie)", the original name first and today's in brackets, so a reader who
+sees the map's Колонія Адольфсбергъ knows why Zalesie is named (the editor's
+word). Carried by Anielewo, Augustynów, Chruściki, Michalinów Oleśnicki,
+Olchowo, Tarszewo, Zalesie and Mały Las (the Ludwigslust entry). A new
+entry for such a colony gets it too.
+
 **The editor's "See" lines are not kept as entries.** They become names of
 the place they point to, and the A–Z list on the site makes the cross-
 references from the names, so a new name never needs a "See" line by hand.

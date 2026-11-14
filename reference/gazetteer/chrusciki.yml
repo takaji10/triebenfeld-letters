@@ -4,6 +4,7 @@ register: null
 status: extant
 kind: village
 kind_text: Village
+founded_as: Kolonia Adelhof
 location:
   text: east of Kopojno
   relation: east-of

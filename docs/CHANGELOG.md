@@ -6097,3 +6097,27 @@ sources-icon.html`).
   (opens, 37 marks).
 - Rebuilt: site data, place pages, map pages, Jekyll; `gazetteer.py --check`
   and `verify_site.py` pass (639 documents, 69 400 internal links).
+
+## 2026-11-14 (later) - Kolonia Wrąbczyn; the Prince's colonies under their first names on the maps (branch `trampczynski-family`, not published)
+
+- The editor: the roads map's Колонія Вромбчинъ "is a distinct place that
+  is called Kolonia Wrąbczyn. It needs its own place entry." Label
+  mapadrogi1890-008 moved from Wrąbczynkowskie Holendry (whose map
+  appearance went with it) to the new `reference/gazetteer/kolonia-wrabczyn.yml`:
+  one of the Prince's colonies after the hereditary lease of 100 Hufen to
+  eighteen settlers (app539680801-3), named by Breyer 1938 p. 21 and Wąsicki
+  1953 p. 176, with Chodyła 2015 p. 147 on where its settlers came from;
+  placed from the map (`from_map`). Source keys `breyer1938` and
+  `wasicki1953` added. The literature index rules Wąsicki's and Chodyła's
+  passages away from the village Wrąbczyn (`except`). Seidel's
+  "Kolonweiler" is her misquotation of Breyer and is not used. Open: whether
+  it is today's Wrąbczyn Górski (NEEDS_CONFIRMATION).
+- The editor: a colony the Prince founded that was later renamed shows its
+  first name and today's in brackets, so Колонія Адольфсбергъ is not left
+  beside an unexplained "Zalesie". The gazetteer's new field `founded_as`
+  (GAZETTEER_PLAN) on the eight entries whose text gives the first name;
+  `pipeline/maps/map_pages.py` builds the label name from it: "Kolonia
+  Adolfsberg (Zalesie)", "Emilienheim (Michalinów Oleśnicki)", "Kolonia
+  Ludwigslust (Mały Las)" and so on, on every map's page.
+- Rebuilt; gazetteer --check, literature_index --check, verify_site pass
+  (69 458 internal links).

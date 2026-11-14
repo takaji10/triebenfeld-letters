@@ -12,7 +12,9 @@
 # 2026-11-14: the file had been written twice over (a stale copy of the
 # labels before the current one, and the `map:` key lost inside the comment
 # line above); the current copy kept alone. Label mapadrogi1890-060 linked
-# to the new gazetteer entry swiatniki (the editor's word).
+# to the new gazetteer entry swiatniki (the editor's word). Label
+# mapadrogi1890-008 (Колонія Вромбчинъ) moved from wrabczynkowskie-holendry
+# to the new entry kolonia-wrabczyn, a distinct place (the editor's word).
 map: mapadrogi1890
 width: 11009
 height: 14250
@@ -68,7 +70,7 @@ labels:
   form_standard: Wrąbczyn
 - id: mapadrogi1890-008
   role: place
-  place: wrabczynkowskie-holendry
+  place: kolonia-wrabczyn
   new_place: null
   form: Колонія Вромбчинъ
   point:

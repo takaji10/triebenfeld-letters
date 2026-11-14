@@ -130,6 +130,22 @@ sources:
     resolve: literature
     work: breyer1935gaue
 
+  breyer1938:
+    cite: >-
+      Albert Breyer, "Die deutschen ländlichen Siedlungen des mittelpolnischen
+      Warthebruchs" (1938)
+    kind: article
+    resolve: literature
+    work: breyer1938
+
+  wasicki1953:
+    cite: >-
+      Jan Wąsicki, "Kolonizacja niemiecka w okresie Prus Południowych 1793 -
+      1806" (1953)
+    kind: article
+    resolve: literature
+    work: wasicki1953
+
   chodyla2015:
     cite: >-
       Zbigniew Chodyła, Zarys najstarszych dziejów osad olęderskich w Puszczy

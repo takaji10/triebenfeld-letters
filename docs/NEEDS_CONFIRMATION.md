@@ -1388,6 +1388,28 @@ questions the batch leaves:
   editor's index has no entry for it, so no other map's form is recorded.
   **Stara Huta stays open**: which of the edition's Hutas (Huta
   Trąbczyńska, Huta Łukomska, or another) the roads map's Стара Гута is.
+- **Kolonia Wrąbczyn (2026-11-14, the editor's word)**: the roads map's
+  Колонія Вромбчинъ (label mapadrogi1890-008) had been linked to
+  Wrąbczynkowskie Holendry; it is a distinct place and now has its own entry
+  (`reference/gazetteer/kolonia-wrabczyn.yml`), the label moved. Its text
+  rests on Breyer (1938, p. 21) and Wąsicki (1953, p. 176), who list
+  "Kolonie Wrombczyn" / "kolonia Wrąbczyn" among the Prince's colonies, and
+  on Chodyła (2015, p. 147). Open for the editor:
+  - **Is it today's Wrąbczyn Górski?** The label's position on the map
+    (about 830 m error) is about 1 km from Wrąbczyn Górski, which the
+    editor's index first finds on Słupca 1957, and Breyer puts the colony
+    "on the upland" beside the Warta valley ("Górski"). Claude's guess
+    only; the entry is placed from the map and says nothing of it.
+  - **Chodyła's "Wrąbczyn"** (p. 147) stands in a list of colonies whose
+    settlers came from Silesia and the Neumark; Claude reads it as the
+    colony, and the literature index now rules that passage (and Wąsicki's)
+    away from the village. Breyer's table (p. 47) names the village,
+    "Wrąbczyn Holl." and "Wrąbczyn Kol." in one passage and stays with the
+    village.
+  - **Seidel (2018, p. 143)** prints "Kolonweiler [Wrombczyn]" in her
+    quotation of Breyer; Breyer's own text reads "Kolonie *Wrombczyn*", so
+    "Kolonweiler" is not taken as a name.
+  - The label keeps the type the editor gave it at the marking ("unsure").
 - **The OCR's readings** are Claude's read of the label crops (the method
   in maps/mapadrogi1890/notes.md): 25 high, 11 medium, **one low —
   mapadrogi1890-064, read as Скукумъ (the editor's Skokum)** — the

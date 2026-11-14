@@ -667,6 +667,21 @@ koczogowa:
     crop: null
     refs: []
   maps_on_site: []
+kolonia-wrabczyn:
+  appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Вромбчинъ
+    note: null
+    label: mapadrogi1890-008
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-008.jpg
+    refs: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-008
 kopojno:
   appearances:
   - map: vonpfau1770
@@ -2495,15 +2510,6 @@ wrabczynkowskie-holendry:
     cited_as: Mapa dróg 1890
     year: 1890
     in_project: true
-    form: Колонія Вромбчинъ
-    note: null
-    label: mapadrogi1890-008
-    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-008.jpg
-    refs: []
-  - map: mapadrogi1890
-    cited_as: Mapa dróg 1890
-    year: 1890
-    in_project: true
     form: Вромбчинковские Голендры
     note: null
     label: mapadrogi1890-074
@@ -2512,7 +2518,7 @@ wrabczynkowskie-holendry:
   maps_on_site:
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
-    label: mapadrogi1890-008
+    label: mapadrogi1890-074
 wygoda:
   appearances:
   - map: richter1843

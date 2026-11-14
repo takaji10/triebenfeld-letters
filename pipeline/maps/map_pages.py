@@ -124,7 +124,15 @@ def main():
         g = read_yaml(p)
         if isinstance(g, dict) and g.get('slug'):
             gaz[g.get('register') or g['slug']] = g
-    headings = {s: (g.get('heading') or s) for s, g in gaz.items()}
+    # A colony the Prince of Hohenlohe-Ingelfingen founded and the Polish
+    # authorities later renamed carries its first name in `founded_as`: the
+    # map shows that name first and today's in brackets, "Kolonia Adolfsberg
+    # (Zalesie)", so that a reader who sees the map's Колонія Адольфсбергъ
+    # knows why Zalesie is named beside it (the editor, 2026-11-14).
+    def map_heading(s, g):
+        h = g.get('heading') or s
+        return f"{g['founded_as']} ({h})" if g.get('founded_as') else h
+    headings = {s: map_heading(s, g) for s, g in gaz.items()}
 
     # The label refs: the gazetteer item of each label may carry the
     # documents the appearance belongs to (the inscription of Łukom 1766:

@@ -914,7 +914,7 @@ mapadrogi1890:
   height: 14250
   rms_m: 830.21
   n_labels: 37
-  n_places: 35
+  n_places: 36
   labels:
   - id: mapadrogi1890-002
     role: place
@@ -964,8 +964,8 @@ mapadrogi1890:
     skipped: false
   - id: mapadrogi1890-008
     role: place
-    place: wrabczynkowskie-holendry
-    place_name: Wrąbczynkowskie Holendry
+    place: kolonia-wrabczyn
+    place_name: Kolonia Wrąbczyn
     name: null
     form: Колонія Вромбчинъ
     shows: unsure
@@ -979,7 +979,7 @@ mapadrogi1890:
     lat: 52.179928
     lon: 17.827287
     refs: []
-    sort_name: Wrąbczynkowskie Holendry
+    sort_name: Kolonia Wrąbczyn
     letter: null
     from: null
     to: null
@@ -1057,7 +1057,7 @@ mapadrogi1890:
   - id: mapadrogi1890-016
     role: place
     place: augustinow
-    place_name: Augustynów
+    place_name: Kolonia Augustinhof (Augustynów)
     name: null
     form: Августинувъ
     shows: village
@@ -1071,7 +1071,7 @@ mapadrogi1890:
     lat: 52.135995
     lon: 17.878922
     refs: []
-    sort_name: Augustynów
+    sort_name: Kolonia Augustinhof (Augustynów)
     letter: null
     from: null
     to: null
@@ -1218,7 +1218,7 @@ mapadrogi1890:
   - id: mapadrogi1890-030
     role: place
     place: anielewo
-    place_name: Anielewo
+    place_name: Kolonia Ingelfingen (Anielewo)
     name: null
     form: Колонія Ингельфингенъ
     shows: oleder-settlement
@@ -1232,7 +1232,7 @@ mapadrogi1890:
     lat: 52.110365
     lon: 17.819378
     refs: []
-    sort_name: Anielewo
+    sort_name: Kolonia Ingelfingen (Anielewo)
     letter: null
     from: null
     to: null
@@ -1379,7 +1379,7 @@ mapadrogi1890:
   - id: mapadrogi1890-044
     role: place
     place: michalinow-olesnicki
-    place_name: Michalinów Oleśnicki
+    place_name: Emilienheim (Michalinów Oleśnicki)
     name: null
     form: Эмилиенгейм
     shows: oleder-settlement
@@ -1393,7 +1393,7 @@ mapadrogi1890:
     lat: 52.134163
     lon: 17.903569
     refs: []
-    sort_name: Michalinów Oleśnicki
+    sort_name: Emilienheim (Michalinów Oleśnicki)
     letter: null
     from: null
     to: null
@@ -1425,7 +1425,7 @@ mapadrogi1890:
   - id: mapadrogi1890-048
     role: place
     place: zalesie
-    place_name: Zalesie
+    place_name: Kolonia Adolfsberg (Zalesie)
     name: null
     form: Колонія Адольфсбергъ
     shows: oleder-settlement
@@ -1439,7 +1439,7 @@ mapadrogi1890:
     lat: 52.14601
     lon: 17.927238
     refs: []
-    sort_name: Zalesie
+    sort_name: Kolonia Adolfsberg (Zalesie)
     letter: null
     from: null
     to: null
@@ -1655,7 +1655,7 @@ mapadrogi1890:
   - id: mapadrogi1890-068
     role: place
     place: ludwigslust
-    place_name: Mały Las
+    place_name: Kolonia Ludwigslust (Mały Las)
     name: null
     form: Колонія Людвигслюстъ
     shows: oleder-settlement
@@ -1669,7 +1669,7 @@ mapadrogi1890:
     lat: 52.171967
     lon: 17.945326
     refs: []
-    sort_name: Mały Las
+    sort_name: Kolonia Ludwigslust (Mały Las)
     letter: null
     from: null
     to: null
@@ -1678,7 +1678,7 @@ mapadrogi1890:
   - id: mapadrogi1890-070
     role: place
     place: olchowo
-    place_name: Olchowo
+    place_name: Kolonia Sophienthal (Olchowo)
     name: null
     form: Колонія Софиенталь
     shows: oleder-settlement
@@ -1692,7 +1692,7 @@ mapadrogi1890:
     lat: 52.178261
     lon: 17.946342
     refs: []
-    sort_name: Olchowo
+    sort_name: Kolonia Sophienthal (Olchowo)
     letter: null
     from: null
     to: null
@@ -1701,7 +1701,7 @@ mapadrogi1890:
   - id: mapadrogi1890-072
     role: place
     place: tarszewo
-    place_name: Tarszewo
+    place_name: Kolonia Friedrichsfeld (Tarszewo)
     name: null
     form: Колонія Фридрихсфельдъ
     shows: oleder-settlement
@@ -1715,7 +1715,7 @@ mapadrogi1890:
     lat: 52.176004
     lon: 18.013786
     refs: []
-    sort_name: Tarszewo
+    sort_name: Kolonia Friedrichsfeld (Tarszewo)
     letter: null
     from: null
     to: null
