@@ -65,3 +65,20 @@ List D (Pyzdry, Konin), k.u.k. reprint, ca. 1880 (Mapster 1761425, Archiwum Map 
 - Habr, habr.com/en/articles/205310 (title "Трехверстная военно-топографическая карта
   Западной России" of 1845; Tuchkov, not Schubert): an article, not a catalogue.
 **Not found**: the sheet Râd XVII List D in any catalogue; a catalogue naming Schubert.
+
+### The Library of Congress record, read in full (2026-11-14, loc.gov/item/2017588176)
+
+*[Topograficheskie karty evropeĭskoĭ chasti Rossiĭskoĭ Imperii masstaba 1:126 000]*,
+LCCN 2017588176, call no. G7010 s126 .R8, about 2000 maps in seven digital sets
+(3 483 images), published "[Saint Petersburg?]: [General Staff of the Russian
+Army], [1865?-1917?]". The cartographers it names are the **General Staff's
+Cartographic Establishment** (Russia. Armiâ. Glavnyj štab. Kartografičeskoe
+zavedenie) and the **Prussian Landesaufnahme**; Schubert is not named. Its notes:
+sheets have row numbers (Râd / Reihe) and sheet numbers (List / Blatt) in the upper
+margin; "Various editions of some sheets"; "Some sheets have been reissued and
+reprinted by German ('Auflagedruck 1917') and Polish mapping agencies"; languages
+German, Polish, Russian; titles devised by the cataloguer. LC does not catalogue the
+sheets one by one, so Râd XVII List D is not itself listed there; its title says
+the series is "Topographic maps of the European part of the Russian Empire".
+The record uses the cataloguer's title, not the series' own (Военно-топографическая
+карта Европейской России, as the RGO geoportal has it).
