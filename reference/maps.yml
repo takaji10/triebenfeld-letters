@@ -506,21 +506,24 @@ maps:
     crop: null
     tiles: "https://takaji10.github.io/triebenfeld-maps/mapadrogi1890/info.json"
     in_project: true    # the editor's 37 marks imported 2026-11-06, the OCR's forms filled, the fit from the marks alone (RMS 830 m); maps/mapadrogi1890/notes.md
-  trojwiorstowki1914:
-    cited_as: "Trójwiorstówki 1914"
-    # Dated ca. 1880, Mapster's "rok wydania ±1880" (the editor, 2026-11-14: "the
-    # date needs to change, it's ca. 1880"). The short form keeps "1914" (the
-    # editor's, and the gazetteer's citations use it); renaming it would rename
-    # the key and touch the gazetteer - its own decision.
+  trojwiorstowki1880:
+    cited_as: "Trójwiorstówki 1880"
+    # Renamed from trojwiorstowki1914 / "Trójwiorstówki 1914" on 2026-11-14 (the
+    # editor): the sheet is dated ca. 1880 by Mapster ("rok wydania ±1880"). The
+    # old address /maps/trojwiorstowki1914/ redirects.
     year: 1880
     kind: military
-    # Brought in with the bulk batch of 2026-11-06. The sheet is scanned by
-    # Mapster (the folder's .url); the maker as the editor gives it - the
-    # three-verst survey associated with F. F. Schubert; the sheet ca. 1880 (Mapster).
-    title: "Trójwiorstówki (the three-verst map), arkusz Pyzdry-Konin"
-    title_en: "The three-verst map of the western Russian Empire, sheet Pyzdry-Konin"
-    maker: "the survey of F. F. Schubert (Фёдор Фёдорович Шуберт), the k.u.k. reprint, ca. 1880 (Mapster)"
-    reference: "sheet XVII-D (Mapster 1761425)"
+    # The series, as the library catalogues give it (maps/trojwiorstowki1880/
+    # notes.md): the Russian General Staff's *Военно-топографическая карта
+    # Европейской России* 1:126 000, the "three-verst map" (trójwiorstówka).
+    # "Schubert" is a popular name for it that no catalogue record carries and a
+    # Russian article calls a misnomer, so the maker is not given as Schubert.
+    # This copy is the k.u.k. reprint ("KuK" in the file's name), scanned by
+    # Mapster (Archiwum Map WIG).
+    title: "Военно-топографическая карта Европейской России, Ряд XVII Лист D (Pyzdry, Konin)"
+    title_en: "Military topographic map of European Russia (the three-verst map), 1:126 000, sheet Râd XVII List D, Pyzdry-Konin"
+    maker: "Voenno-topografičeskij otdel of the Russian General Staff (Военно-топографический отдел Главного штаба); this copy the k.u.k. reprint, ca. 1880 (Mapster)"
+    reference: "Râd XVII List D (Mapster 1761425, Archiwum Map WIG); the series: Library of Congress, LCCN 2017588176, G7010 s126 .R8"
     url: "https://igrek.amzp.pl/1761425"
     scale: "1:126 000"   # the three-verst scale, from the series' own name
     orientation: north-up
@@ -530,7 +533,7 @@ maps:
     height: 7173
     crop: null          # the sheet whole: the gazetteer's window nearly fills it
     mapwarper: 83432
-    tiles: "https://takaji10.github.io/triebenfeld-maps/trojwiorstowki1914/info.json"
+    tiles: "https://takaji10.github.io/triebenfeld-maps/trojwiorstowki1880/info.json"
     in_project: true    # shown without marks and with its abbreviations table (the editor, 2026-11-14); the marks follow
   wig1933:
     cited_as: "Wojskowy Instytut Geograficzny 1933"

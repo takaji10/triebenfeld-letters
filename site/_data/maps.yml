@@ -6914,23 +6914,26 @@ pelzucki1901:
     n: null
     skipped: false
   orig_lang: pl
-trojwiorstowki1914:
-  slug: trojwiorstowki1914
-  cited_as: Trójwiorstówki 1914
-  title: Trójwiorstówki (the three-verst map), arkusz Pyzdry-Konin
-  title_en: The three-verst map of the western Russian Empire, sheet Pyzdry-Konin
+trojwiorstowki1880:
+  slug: trojwiorstowki1880
+  cited_as: Trójwiorstówki 1880
+  title: Военно-топографическая карта Европейской России, Ряд XVII Лист D (Pyzdry, Konin)
+  title_en: Military topographic map of European Russia (the three-verst map), 1:126 000, sheet Râd XVII
+    List D, Pyzdry-Konin
   title_de: null
-  maker: the survey of F. F. Schubert (Фёдор Фёдорович Шуберт), the k.u.k. reprint, ca. 1880 (Mapster)
+  maker: Voenno-topografičeskij otdel of the Russian General Staff (Военно-топографический отдел Главного
+    штаба); this copy the k.u.k. reprint, ca. 1880 (Mapster)
   scale: 1:126 000
   year: 1880
   kind: military
   kind_en: Military map
   kind_de: Militärkarte
   holder: null
-  reference: sheet XVII-D (Mapster 1761425)
+  reference: 'Râd XVII List D (Mapster 1761425, Archiwum Map WIG); the series: Library of Congress, LCCN
+    2017588176, G7010 s126 .R8'
   url: https://igrek.amzp.pl/1761425
-  tiles: https://takaji10.github.io/triebenfeld-maps/trojwiorstowki1914/info.json
-  warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=trojwiorstowki1914
+  tiles: https://takaji10.github.io/triebenfeld-maps/trojwiorstowki1880/info.json
+  warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=trojwiorstowki1880
   sat_warp: null
   view_rotation: 0
   width: 9763

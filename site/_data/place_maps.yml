@@ -341,8 +341,8 @@ dziadolina:
     label: kozlowski1861-005
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-005.jpg
     refs: []
-  - map: trojwiorstowki1914
-    cited_as: Trójwiorstówki 1914
+  - map: trojwiorstowki1880
+    cited_as: Trójwiorstówki 1880
     year: 1880
     in_project: true
     form: osada
@@ -364,8 +364,8 @@ dziadolina:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-005
-  - map: trojwiorstowki1914
-    cited_as: Trójwiorstówki 1914
+  - map: trojwiorstowki1880
+    cited_as: Trójwiorstówki 1880
     label: null
   - map: pelzucki1896
     cited_as: Pełzucki 1896

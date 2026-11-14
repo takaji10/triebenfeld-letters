@@ -6,7 +6,7 @@
 # moved into the mosaic by its `mapwarper_fit`). Rows with `from: mapwarper`
 # are replaced on every fetch; any other rows are kept. `fit:` is written by
 # pipeline/maps/georef.py.
-map: trojwiorstowki1914
+map: trojwiorstowki1880
 mapwarper: 83432
 fetched: '2026-11-06'
 mapwarper_title: Pyzdry-Konin

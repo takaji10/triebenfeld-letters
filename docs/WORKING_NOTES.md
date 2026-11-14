@@ -3827,6 +3827,16 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   one place, and for a "Kolonia"/"Holendry"/"Olędry" form on an entry of
   another kind; put each to the editor before the map is called finished.
 - **A value set in code must be redrawn where it is shown (2026-11-14).** The labelling page set a label's type from the gazetteer correctly but did not redraw the panel when the Place field was filled in at step 3, so the editor saw "unsure" for Trąbczyn and Nowa Wieś. When a handler changes state, check the visible text and highlighted button, not only the data; I first told the editor Osiny was fine from the data alone and had to look again.
+- **Renaming a published map's slug (2026-11-14, Trójwiorstówki 1914 -> 1880).**
+  Touches: the register key and `tiles`; `maps/<key>/` (and `map:` inside its
+  georef.yml and labels.yml); the two page files in `site/_maps*/` (front matter
+  `map:`, `permalink`, `alt_url`); every gazetteer `maps:` item (grep the old key);
+  the thumbnail (`git mv`, then make_thumbs compares bytes); the label_index script's
+  comments; and **the tiles repository**: `git mv` the folder, rewrite the key in its
+  info.json, map.json and georef.json (the IIIF `id` carries it), then push it and
+  wait for Pages before `make_thumbs.py`, which fetches the new URL. Leave a
+  redirect page for each old address (`site/redirect-<old>.md`, layout `redirect`,
+  as hohenlohe.md). Do not rename the J: folder of the original.
 - **Do not name a map's maker or series from one catalogue line (2026-11-14).**
   The register called the Pyzdry-Konin sheet "the survey of F. F. Schubert, the
   1914 printing"; Mapster says ±1880, the sheet code (XVII D) belongs to the Russian

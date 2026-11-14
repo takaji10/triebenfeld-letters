@@ -1,4 +1,12 @@
-# Trójwiorstówki 1914 (`trojwiorstowki1914`)
+# Trójwiorstówki 1880 (`trojwiorstowki1880`)
+
+**Renamed 2026-11-14** (the editor) from `trojwiorstowki1914` / "Trójwiorstówki 1914":
+the sheet is dated ca. 1880 (Mapster). The old addresses /maps/trojwiorstowki1914/ and
+/de/karten/trojwiorstowki1914/ redirect; the tiles moved to
+triebenfeld-maps/trojwiorstowki1880/. The register's title, maker and reference now
+follow the library catalogues (see below): the Russian General Staff's *Военно-
+топографическая карта Европейской России*, Râd XVII List D, the k.u.k. reprint; the
+maker is no longer given as Schubert.
 
 The sheet XVII D "Pyzdry, Konin" of the three-verst map, in the editor's file
 `XVII-D_KuK_126K_Pyzdry-Konin.jpg` (Mapster 1761425, Archiwum Map WIG).
@@ -22,8 +30,7 @@ The sheet XVII D "Pyzdry, Konin" of the three-verst map, in the editor's file
   check: Glushkov; the *Zapiski VTD*; *Kartografia Królestwa Polskiego 1815-1915*
   (PAN 2000).
 - **The date is ca. 1880** (Mapster, "rok wydania ±1880"; the editor's ruling,
-  2026-11-14). The short form "Trójwiorstówki 1914" is kept, since the gazetteer
-  cites it; whether to rename it is the editor's call.
+  2026-11-14). The short form and the slug were renamed to 1880 the same day (the editor).
 
 ## The abbreviations (abbreviations.yml, shown under the map)
 
