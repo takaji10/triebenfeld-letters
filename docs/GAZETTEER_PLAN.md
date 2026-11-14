@@ -79,7 +79,8 @@ Adolfsberg"). On a map's page the label then reads "Kolonia Adolfsberg
 (Zalesie)", the original name first and today's in brackets, so a reader who
 sees the map's Колонія Адольфсбергъ knows why Zalesie is named (the editor's
 word). Carried by Anielewo, Augustynów, Chruściki, Michalinów Oleśnicki,
-Olchowo, Tarszewo, Zalesie and Mały Las (the Ludwigslust entry). A new
+Olchowo, Tarszewo, Zalesie, Mały Las (the Ludwigslust entry) and Wrąbczyn
+Górski (Kolonia Wrąbczyn). A new
 entry for such a colony gets it too.
 
 **The editor's "See" lines are not kept as entries.** They become names of

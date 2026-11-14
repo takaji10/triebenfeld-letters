@@ -3793,7 +3793,9 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
 - **"Kolonia X" is not the Holendry of X (the editor, 2026-11-14).** The
   roads map's Колонія Вромбчинъ had gone onto Wrąbczynkowskie Holendry,
   the Olęder settlement of 1781; it is Kolonia Wrąbczyn, one of the
-  Prince's colonies, a place of its own. The same map also names the
+  Prince's colonies, a place of its own - today's Wrąbczyn Górski (the
+  editor's word, which also merged the first, separate entry into that
+  one: look for the place's modern entry before writing a new one). The same map also names the
   Holendry separately (Вромбчинковские Голендры), which should have
   given it away. After an import, read the label list for two labels on
   one place, and for a "Kolonia"/"Holendry"/"Olędry" form on an entry of

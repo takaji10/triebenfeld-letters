@@ -1445,8 +1445,8 @@ places:
     Wieruszowa: "no: the arms Wieruszowa in the names of the Wierusz-Kowalski family, not the town"
   wrabczyn:
     # The colony of Kolonia Wrąbczyn, founded on the Prince's estates after
-    # 1805, is a place of its own (the editor, 2026-11-14; the gazetteer's
-    # kolonia-wrabczyn), not the old village: Wąsicki names "kolonia
+    # 1805, is a place of its own, today's Wrąbczyn Górski (the editor,
+    # 2026-11-14; the gazetteer's wrabczyn-gorski), not the old village: Wąsicki names "kolonia
     # Wrąbczyn" among the colonies, and Chodyła's "Wrąbczyn" stands in a list
     # of colonies (Claude's reading). Breyer 1938 p. 47 stays: the passage is
     # one table naming the village, "Wrąbczyn Holl." and "Wrąbczyn Kol."
@@ -1454,8 +1454,8 @@ places:
     Wrąbczyn:
       default: yes
       except:
-        wasicki1953/176: "kolonia Wrąbczyn, the Prince's colony (the gazetteer's kolonia-wrabczyn), not the village"
-        chodyla2015/147: "Wrąbczyn in a list of colonies whose settlers came from Silesia and the Neumark: the colony (the gazetteer's kolonia-wrabczyn), not the village"
+        wasicki1953/176: "kolonia Wrąbczyn, the Prince's colony (today's Wrąbczyn Górski, the gazetteer's wrabczyn-gorski), not the village"
+        chodyla2015/147: "Wrąbczyn in a list of colonies whose settlers came from Silesia and the Neumark: the colony (today's Wrąbczyn Górski, the gazetteer's wrabczyn-gorski), not the village"
     Wrąbczynkowskie: "no: Wrąbczynkowskie Holendry, the Olęder colony of Wrąbczynek, not Wrąbczyn (Szwiec 2009)"
     Wrąbczynkowskich: "no: Wrąbczynkowskie Holendry, the Olęder colony of Wrąbczynek, not Wrąbczyn (Szwiec 2009)"
     Wrąbczyn[kowskie]: "no: the Wrąbczynkowskie Olędry, the Olęder colony of Wrąbczynek (Chodyła 2015)"

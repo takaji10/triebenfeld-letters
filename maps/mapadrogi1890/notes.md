@@ -16,7 +16,9 @@ its gazetteer entry since 2026-11-14 at the editor's word
 (`reference/gazetteer/swiatniki.yml`, label mapadrogi1890-060 linked);
 Stara Huta is still open. Колонія Вромбчинъ (label mapadrogi1890-008),
 first linked to Wrąbczynkowskie Holendry, is Kolonia Wrąbczyn, a place of
-its own (the editor, 2026-11-14; `reference/gazetteer/kolonia-wrabczyn.yml`).
+its own and today's Wrąbczyn Górski (the editor, 2026-11-14;
+`reference/gazetteer/wrabczyn-gorski.yml`); its type changed from unsure to
+village at the editor's word.
 The Prince's renamed colonies show their first name with today's in
 brackets on this map's page, "Kolonia Adolfsberg (Zalesie)" (`founded_as`
 in the gazetteer). The map is

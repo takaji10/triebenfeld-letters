@@ -6121,3 +6121,10 @@ sources-icon.html`).
   Ludwigslust (Mały Las)" and so on, on every map's page.
 - Rebuilt; gazetteer --check, literature_index --check, verify_site pass
   (69 458 internal links).
+- The same day, the editor: "Kolonia Wrąbczyn is today's Wrąbczyn Górski.
+  Yes, change the label." The entry, never published, merged into
+  `wrabczyn-gorski` (the modern name heads, the editor's two sentences kept,
+  `founded_as: Kolonia Wrąbczyn`; the separate entry and its pages removed);
+  label mapadrogi1890-008 points there and reads "Kolonia Wrąbczyn
+  (Wrąbczyn Górski)", its type changed from unsure to village; the
+  literature index's comments follow.

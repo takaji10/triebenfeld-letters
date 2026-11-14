@@ -1391,15 +1391,15 @@ questions the batch leaves:
 - **Kolonia Wrąbczyn (2026-11-14, the editor's word)**: the roads map's
   Колонія Вромбчинъ (label mapadrogi1890-008) had been linked to
   Wrąbczynkowskie Holendry; it is a distinct place and now has its own entry
-  (`reference/gazetteer/kolonia-wrabczyn.yml`), the label moved. Its text
+  (merged the same day into `reference/gazetteer/wrabczyn-gorski.yml`), the
+  label moved. Its text
   rests on Breyer (1938, p. 21) and Wąsicki (1953, p. 176), who list
   "Kolonie Wrombczyn" / "kolonia Wrąbczyn" among the Prince's colonies, and
   on Chodyła (2015, p. 147). Open for the editor:
-  - **Is it today's Wrąbczyn Górski?** The label's position on the map
-    (about 830 m error) is about 1 km from Wrąbczyn Górski, which the
-    editor's index first finds on Słupca 1957, and Breyer puts the colony
-    "on the upland" beside the Warta valley ("Górski"). Claude's guess
-    only; the entry is placed from the map and says nothing of it.
+  - **SETTLED 2026-11-14 (the editor: "Yes, Kolonia Wrąbczyn is today's
+    Wrąbczyn Górski")**: the separate entry, never published, merged into
+    `wrabczyn-gorski` (the modern name heads, `founded_as: Kolonia
+    Wrąbczyn`); the map shows "Kolonia Wrąbczyn (Wrąbczyn Górski)".
   - **Chodyła's "Wrąbczyn"** (p. 147) stands in a list of colonies whose
     settlers came from Silesia and the Neumark; Claude reads it as the
     colony, and the literature index now rules that passage (and Wąsicki's)
@@ -1409,7 +1409,8 @@ questions the batch leaves:
   - **Seidel (2018, p. 143)** prints "Kolonweiler [Wrombczyn]" in her
     quotation of Breyer; Breyer's own text reads "Kolonie *Wrombczyn*", so
     "Kolonweiler" is not taken as a name.
-  - The label keeps the type the editor gave it at the marking ("unsure").
+  - **SETTLED 2026-11-14**: the label's type changed from "unsure" to
+    village (the editor: "Yes, change the label"), the entry's kind.
 - **The OCR's readings** are Claude's read of the label crops (the method
   in maps/mapadrogi1890/notes.md): 25 high, 11 medium, **one low —
   mapadrogi1890-064, read as Скукумъ (the editor's Skokum)** — the

@@ -667,21 +667,6 @@ koczogowa:
     crop: null
     refs: []
   maps_on_site: []
-kolonia-wrabczyn:
-  appearances:
-  - map: mapadrogi1890
-    cited_as: Mapa dróg 1890
-    year: 1890
-    in_project: true
-    form: Колонія Вромбчинъ
-    note: null
-    label: mapadrogi1890-008
-    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-008.jpg
-    refs: []
-  maps_on_site:
-  - map: mapadrogi1890
-    cited_as: Mapa dróg 1890
-    label: mapadrogi1890-008
 kopojno:
   appearances:
   - map: vonpfau1770
@@ -2452,6 +2437,15 @@ wrabczyn:
     label: mapadrogi1890-004
 wrabczyn-gorski:
   appearances:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    year: 1890
+    in_project: true
+    form: Колонія Вромбчинъ
+    note: null
+    label: mapadrogi1890-008
+    crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-008.jpg
+    refs: []
   - map: slupca1957
     cited_as: Słupca 1957
     year: 1957
@@ -2461,7 +2455,10 @@ wrabczyn-gorski:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: mapadrogi1890
+    cited_as: Mapa dróg 1890
+    label: mapadrogi1890-008
 wrabczynek:
   appearances:
   - map: vonpfau1770
