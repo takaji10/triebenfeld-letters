@@ -181,6 +181,56 @@ Licences and privacy page, which has to say what the website does with a
 reader's data. The docs in `docs/` and the notes may speak of the edition;
 they are not read by the reader.
 
+## Check what a place is before you call it something
+
+The editor, 2026-11-14, after the homepage called Konin and Kalisz "towns"
+when both are cities: "Should we implement a rule that place names, when
+mentioned with a descriptor, should always check against how the place is
+classed? That way when mentioning Emilienheim you'll know that it's not a
+city but an Olęder settlement, same with Ingelfingen (Anielewo)?"
+
+The fault was writing a descriptor ("towns", "village", "city") from
+impression. The classification is on record, so the descriptor is looked up
+first:
+
+- **Where it is recorded.** `reference/places.yml` (`kind:`) for the places of
+  the documents, and `reference/gazetteer/<slug>.yml` (`kind:`, `kind_text:`,
+  `aliases:`) for the places around Trąbczyn: Emilienheim is an Olęder
+  settlement, and Anielewo (once *Kolonia Ingelfingen*, renamed in 1891) is a
+  village that began as a German colony.
+- **Look it up for every descriptor**: "the city of", "the town of", "the
+  village of", "the hamlet of", "the colony of", "the settlement of". A
+  sentence that names several ("the cities of Konin and Kalisz") is checked
+  for each.
+- **The register can be wrong or can mean another time.** Its kinds are
+  uneven (in 2026 it still called Konin a town and Częstochowa a town). Where
+  it disagrees with what you know of the place today, say so to the editor
+  and write what is true; do not copy the register's word and do not guess.
+  A descriptor correct for the period written about stays: Zagórów was "its
+  village" before the town charter of 1407.
+- **`pipeline/review/check_place_descriptors.py`** lists every descriptor in
+  the authored prose that differs from the register. Run it before
+  publishing; it changes nothing, and each line is read against its sentence.
+  "Estate of X" is not checked: it names a landholding that carries the
+  place's name.
+
+## State the facts, not the fact that they were written down
+
+The editor, 2026-11-14, of "people wrote down who owned the estate of
+Trąbczyn": "sounds really boring. It's not important that people wrote it
+down, the ownership of the estate was simply documented during that period."
+A sentence about the documents says what the documents show, with the people
+and events as its subject. "People wrote down", "the records show that", "the
+documents tell us" and "it was recorded that" add the act of writing and leave
+the fact in second place.
+
+```
+NO   For more than seven hundred years people wrote down who owned the
+     estate of Trąbczyn.
+YES  From 1173 to the 1930s, the ownership of the estate of Trąbczyn ...
+     were documented in Latin, Polish, German, French and Russian.
+```
+
 ## The documents first
 
 The editor, 2026-10-20: "All facts must be first verified against

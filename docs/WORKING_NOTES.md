@@ -3872,6 +3872,15 @@ styling**, and in any include use `include.<name>` for every parameter.
   restored with `git checkout`. After running it, keep only the translation
   file it was run for and check `git diff site/_data/summaries.yml` before
   committing.
+- **Look a place up before giving it a descriptor** (the editor, 2026-11-14:
+  "towns" for Konin and Kalisz, both cities). HOUSE_STYLE, "Check what a place
+  is before you call it something"; run
+  `pipeline/review/check_place_descriptors.py` before publishing. Its first run
+  listed 40 descriptors to read; the register itself needs the editor's word
+  where it disagrees with the present day (Konin is `town`).
+- **Do not make the act of writing the news** ("people wrote down who owned
+  ..."): say what the documents show. HOUSE_STYLE, "State the facts, not the
+  fact that they were written down".
 
 ## The Trąmpczyński family pages (2026-11-12)
 

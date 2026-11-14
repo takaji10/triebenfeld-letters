@@ -6179,3 +6179,15 @@ sources-icon.html`).
   which it needs. `docs/HOUSE_STYLE.md`: new section "The pages do not talk
   about themselves".
 
+## 2026-11-14 (night) - place descriptors checked; the homepage lede rewritten again
+
+- The editor: Konin and Kalisz are cities (the homepage said "towns"; fixed);
+  a place named with a descriptor is checked against its recorded kind. New
+  `pipeline/review/check_place_descriptors.py` (lists, changes nothing; 40
+  descriptors to read) and HOUSE_STYLE, "Check what a place is before you
+  call it something".
+- The homepage's second sentence no longer says that "people wrote down" who
+  owned the estate: the ownership, farming, settlement and lawsuits of the
+  estate "were documented" from 1173 to the 1930s. HOUSE_STYLE, "State the
+  facts, not the fact that they were written down".
+
