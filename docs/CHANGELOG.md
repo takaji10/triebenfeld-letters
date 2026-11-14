@@ -6292,3 +6292,14 @@ sources-icon.html`).
   type keys (0-9, -, =, U) removed, with the help and status texts. All
   sheets rebuilt; tested on a separate port (8791) through the trace,
   the band key, "Other" and Create, the test's storage cleared.
+- Later the same afternoon, the editor: changing a saved label's form or
+  type needs a button that commits it, and the list should show the
+  change. The edits to a saved label (form, note, type, band) now wait for
+  a red **Save changes** beside **Cancel** (Enter in the form or note
+  field does the same), the type buttons sit in the panel and only choose,
+  Cancel or Esc puts the label back, and leaving it with changes not saved
+  asks; "Change what it shows" is gone. The "To find" list shows a found
+  item's saved form and type (before, the gazetteer's form, so an edit
+  never showed there); "Other labels" shows the type too. All sheets
+  rebuilt; tested on port 8791 (type, choose, save, cancel, leave), the
+  test storage cleared.

@@ -162,6 +162,7 @@ button:hover{background:#eee}
 button.on{background:#c0392b;color:#fff;border-color:#c0392b}
 button.danger{color:#a00}
 button.create{background:#c0392b;color:#fff;border-color:#c0392b;font-weight:600}
+button.create:disabled{opacity:.4;cursor:default}
 input,select{font:inherit;width:100%;padding:3px 5px;border:1px solid #999;border-radius:3px;margin:1px 0 4px}
 label.f{display:block;font-size:12px;color:#555}
 #status{margin:8px 0;padding:6px 8px;background:#fff8d8;border:1px solid #d9c96a;border-radius:3px;min-height:34px}
@@ -194,14 +195,14 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
   <input type="file" id="fileinput" accept=".json,application/json" style="display:none">
   <details id="help"><summary>How to use this page</summary>
     <p><b>1.</b> Click the place's symbol on the map (a quick click; dragging still moves the map). <kbd>N</kbd> means the map has no symbol there.</p>
-    <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
+    <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it, press <kbd>[</kbd> or <kbd>]</kbd>, then <b>Save changes</b>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
     <p><b>3.</b> After the trace the page pauses with no field selected, so <kbd>[</kbd> and <kbd>]</kbd> still change the height of the band. Check the band, click into <b>Form as written on the map</b> if the lettering differs from the place's name, and click a type button to say what the map shows here (when the place is one the gazetteer knows, the type is filled in for you from its entry: a village for a village, water for a stream). A type button only chooses the type; nothing is saved until you press the red <b>Create</b> (or <kbd>Enter</kbd>). The page then goes on to the next place on the list. <b>Cancel</b> drops the label.</p>
     <p><b>Changing the type of a saved label:</b> select it, press <b>Change what it shows</b>, and click the type. A type you chose by hand is never overwritten by the gazetteer's fill.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
     <p><b>The Place field matches without the Polish marks</b> (the editor's word, 2026-11-06): type <i>Trabczyn</i> and the page chooses <i>Trąbczyn</i> — the de-accented spellings are in the suggestions as you type, and a form written with its diacritics (<i>Wrąbczyn</i>) is filled in for you once the place is chosen. The form field takes whatever the map's lettering shows, diacritics included when the map has them.</p>
-    <p><b>Changing a label already made:</b> click it in the list or on the map, edit the <b>form</b> (or re-trace it, or change what it shows), then press <kbd>Enter</kbd> in the field &mdash; or click an empty spot on the map, or press <kbd>Esc</kbd>. The label is released and its name shows on the map again; every keystroke is kept by the browser as you type. (A label marked <b>N</b> with its trace skipped has no place on the map, so it draws no name &mdash; it lives in the lists; give it a point with <b>Redo point</b> if you want its name shown.)</p>
+    <p><b>Changing a label already made:</b> click it in the list or on the map; change the <b>form</b>, the note, the type of place (its buttons) or the band (<kbd>[</kbd> <kbd>]</kbd>); then press the red <b>Save changes</b> (or <kbd>Enter</kbd> in the form or note field). Nothing is kept until then: the list and the map show the change once it is saved. <b>Cancel</b> (or <kbd>Esc</kbd>) puts the label back as it was. If you click elsewhere with changes not saved, the page asks whether to keep them. <b>Redo point</b> and <b>Redo trace</b> are kept as soon as they are done. (A label marked <b>N</b> with its trace skipped has no place on the map, so it draws no name &mdash; it lives in the lists; give it a point with <b>Redo point</b> if you want its name shown.)</p>
     <p><b>The boundary walk</b> (where the map's texts carry the adjoining-lands list): <b>Mark the letters</b> — the letter to mark is shown in the box; click its stamp on the map, repeat (edit the letter in the box for a stamp the sequence doesn't name, <kbd>S</kbd> to leave one unmarked). <b>Walk the boundary</b> — each stretch of the list in order: trace the line from its first letter to its last (click the start, each bend, double-click the end), or <kbd>S</kbd> skips the stretch (a stretch drawn in the sub-map: skip it). Click a stretch in the list to draw it again.</p>
     <p>Your work is kept in this browser as you go. Press <b>Save</b> to download a file to bring into the edition.</p>
   </details>
@@ -246,6 +247,7 @@ var LSKEY = "maplabels:" + KEY;
 var labels = [];      // saved labels
 var cur = null;       // the label being worked on (a draft, or an existing label)
 var isDraft = false;
+var editOrig = null;  // a saved label as it was when selected: its edits wait for Save changes
 var step = null;      // 'point' | 'trace' | 'shows' | null
 var tmp = [];         // trace being drawn
 var tmpPx = [];       // screen positions of those clicks
@@ -313,6 +315,49 @@ function payload(){
 }
 function persist(){
   try{localStorage.setItem(LSKEY,JSON.stringify(payload()));}catch(e){}
+  // whatever was pending on the selected label is now saved too
+  if(cur && !isDraft) editOrig=editFields(cur);
+}
+// ---------- editing a saved label (the editor's report, 2026-11-14) ----------
+// Changes to a saved label's form, note, type or band wait for the red Save
+// changes button (or Enter in the form or note field), which saves them and
+// refreshes the list; Cancel or Esc puts the label back as it was; leaving
+// the label with changes not saved asks. Before, every keystroke was saved
+// silently and the list kept the old form until something else redrew it.
+function editFields(l){
+  return {form:l.form||"", note:l.note||null, shows:l.shows||null, height:l.height||null,
+          showsTouched:!!l.showsTouched, autoShows:!!l.autoShows};
+}
+function isDirty(){
+  if(!cur || isDraft || !editOrig) return false;
+  var n=editFields(cur), o=editOrig;
+  return n.form!==o.form || n.note!==o.note || n.shows!==o.shows || n.height!==o.height;
+}
+function updateDirty(){ var b=$("b-savechg"); if(b) b.disabled=!isDirty(); setStatus(stepText()); }
+function revertEdit(){
+  if(!cur || isDraft || !editOrig) return;
+  var o=editOrig;
+  cur.form=o.form; cur.note=o.note; cur.shows=o.shows; cur.height=o.height;
+  if(o.showsTouched) cur.showsTouched=true; else delete cur.showsTouched;
+  if(o.autoShows) cur.autoShows=true; else delete cur.autoShows;
+}
+function saveEdit(){
+  if(!cur || isDraft) return;
+  var name=cur.form||curHeading()||"label", was=isDirty();
+  persist();
+  cur=null; step=null; editOrig=null; render();
+  setStatus(was ? "Saved the changes to <b>"+esc(name)+"</b>. The browser keeps them; <b>Save</b> at the top downloads the file."
+                : "No changes to <b>"+esc(name)+"</b>.");
+}
+function leaveEdit(){
+  // before another label, list item or empty map takes over
+  if(!cur || isDraft) return;
+  if(isDirty()){
+    var name=cur.form||curHeading()||"this label";
+    if(confirm("Save the changes to \""+name+"\"? (Cancel puts the label back as it was.)")) persist();
+    else revertEdit();
+  }
+  editOrig=null;
 }
 function loadInitial(){
   var got=null;
@@ -460,7 +505,8 @@ function stepText(){
   if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips."+(cur.autoShows?" The type of place is filled in from the gazetteer (<b>"+esc(cur.shows)+"</b>).":"");
   if(step==="shows" && isDraft) return who+"Step 3 of 3. <kbd>[</kbd> <kbd>]</kbd> change the band's height ("+(cur.height||80)+"). Correct the form as written on the map if need be, choose the type of place ("+(cur.autoShows?"filled in from the gazetteer: ":"now: ")+"<b>"+esc(cur.shows)+"</b>), then press <b>Create</b>.";
   if(step==="shows") return who+"Click what the map shows here.";
-  return who+"Saved. Use the buttons below to change it.";
+  if(isDirty()) return who+"Changed, <b>not saved yet</b>: press <b>Save changes</b>, or <b>Cancel</b> to put it back.";
+  return who+"Change the form, the type or the band ([ ]), then press <b>Save changes</b>.";
 }
 function traceInfo(){
   var n=splitLines(tmp,tmpBreaks).length+(pendingBreak?1:0);
@@ -484,7 +530,11 @@ function render(){
     var li=document.createElement("li");
     var isSel=cur&&((x.label&&x.label===cur)||(!x.label&&isDraft&&cur.fromItem===x.index));
     li.className=(x.label?"done ":"")+(isSel?"sel":"");
-    li.innerHTML='<div class="t">'+esc(x.item.form||x.item.heading)+'</div><div class="h">'+esc(x.item.heading)+(x.item.note?" - "+esc(x.item.note):"")+'</div>';
+    // a found item shows its label as saved - the form and the type the
+    // editor gave it - so an edit shows in the list once saved (the editor,
+    // 2026-11-14); an item not found yet shows the gazetteer's form
+    var tl=x.label?(x.label.form||x.item.form||x.item.heading):(x.item.form||x.item.heading);
+    li.innerHTML='<div class="t">'+esc(tl)+'</div><div class="h">'+esc(x.item.heading)+(x.label&&x.label.shows?" · "+esc(x.label.shows):"")+(x.item.note?" - "+esc(x.item.note):"")+'</div>';
     li.onclick=function(){ x.label?selectLabel(x.label):startItem(x.index); };
     f.appendChild(li);
   });
@@ -492,7 +542,7 @@ function render(){
   if(!a.other.length){o.innerHTML='<li class="h" style="cursor:default">none yet</li>';}
   a.other.forEach(function(l){
     var li=document.createElement("li"); li.className="done"+(cur===l?" sel":"");
-    li.innerHTML='<div class="t">'+esc(l.form||"(no form)")+'</div><div class="h">'+esc(l.place?headingOf[l.place]:(l.new_place?"new place: "+l.new_place:"no place"))+'</div>';
+    li.innerHTML='<div class="t">'+esc(l.form||"(no form)")+'</div><div class="h">'+esc(l.place?headingOf[l.place]:(l.new_place?"new place: "+l.new_place:"no place"))+(l.shows?" · "+esc(l.shows):"")+'</div>';
     li.onclick=function(){selectLabel(l);};
     o.appendChild(li);
   });
@@ -571,8 +621,12 @@ function renderWork(){
       h+='<div class="small">'+(cur.skipped?'<b>Skipped</b>'+(cur.trace?'':' — no line drawn'):'Line drawn'+(cur.trace?' ('+cur.trace.length+' points)':''))+'</div>';
       h+='<div><button data-act="goto">Go to</button><button data-act="redotrace">'+(cur.skipped?'Draw the line':'Redo the line')+'</button><button data-act="delete" class="danger">Delete label</button></div>';
     } else {
-      h+='<div class="small">Shows: <b>'+esc(cur.shows)+'</b>'+(cur.place&&KIND2SHOWS[kindOf[cur.place]]===cur.shows?' <span class="small">(from the gazetteer)</span>':'')+'; height '+cur.height+'</div>';
-      h+='<div><button data-act="goto">Go to</button><button data-act="redopoint">Redo point</button><button data-act="redotrace">Redo trace</button><button data-act="redoshows">Change what it shows</button><button data-act="delete" class="danger">Delete label</button></div>';
+      h+='<div class="step">What the map shows here: <b>'+esc(cur.shows)+'</b>'+(cur.place&&KIND2SHOWS[kindOf[cur.place]]===cur.shows?' <span class="small">(from the gazetteer)</span>':'')+'; band height '+cur.height+'</div>';
+      h+='<div class="shows">';
+      SHOWS.forEach(function(s){ h+='<button data-act="setshows" data-code="'+s[1]+'" class="'+(cur.shows===s[1]?"on":"")+'">'+esc(s[2])+'</button>'; });
+      h+='</div>';
+      h+='<div><button data-act="goto">Go to</button><button data-act="redopoint">Redo point</button><button data-act="redotrace">Redo trace</button><button data-act="delete" class="danger">Delete label</button></div>';
+      h+='<div><button data-act="canceledit">Cancel</button><button id="b-savechg" data-act="savechg" class="create"'+(isDirty()?'':' disabled')+'>Save changes</button></div>';
     }
   } else if(isDraft){
     if(role==="boundary" && step==="trace"){
@@ -598,8 +652,8 @@ function renderWork(){
     };
   }
   var nn=$("f-newplace"); if(nn) nn.oninput=function(){cur.new_place=nn.value||null;};
-  var fm=$("f-form"); if(fm) fm.oninput=function(){cur.form=fm.value;fm.dataset.auto="";if(!isDraft)persist();};
-  var nt=$("f-note"); if(nt) nt.oninput=function(){cur.note=nt.value||null;if(!isDraft)persist();};
+  var fm=$("f-form"); if(fm) fm.oninput=function(){cur.form=fm.value;fm.dataset.auto="";if(!isDraft)updateDirty();};
+  var nt=$("f-note"); if(nt) nt.oninput=function(){cur.note=nt.value||null;if(!isDraft)updateDirty();};
   Array.prototype.forEach.call(w.querySelectorAll("button"),function(b){
     b.onclick=function(){
       b.blur();
@@ -621,16 +675,19 @@ function newDraft(base){
   resetTmp();
 }
 function startItem(i){
+  leaveEdit();
   var it=DATA.find[i];
   newDraft({place:it.place,form:it.form||it.heading,fromItem:i});
   autoShowsFor(it.place);
   render();
 }
 function startNew(){
+  leaveEdit();
   newDraft({}); cur.fromItem=null; render();
 }
 function selectLabel(l){
-  cur=l; isDraft=false; step=null; resetTmp(); render();
+  if(cur!==l) leaveEdit();
+  cur=l; isDraft=false; step=null; resetTmp(); editOrig=editFields(l); render();
 }
 function nextUndone(){
   var a=assign();
@@ -788,6 +845,8 @@ function cancelStep(){
 function act(a){
   if(a==="cancel") cancelStep();
   else if(a==="create"){ if(cur&&isDraft&&step==="shows") createLabel(); }
+  else if(a==="savechg") saveEdit();
+  else if(a==="canceledit"){ var was=isDirty(); revertEdit(); cur=null; step=null; editOrig=null; render(); if(was) setStatus("The changes were dropped; the label is as it was."); }
   else if(a==="skippair") skipPair();
   else if(a==="goto") goTo(cur);
   else if(a==="redopoint"){step="point";render();}
@@ -841,7 +900,7 @@ viewer.addHandler("canvas-click",function(e){
   } else if(!cur||step===null){
     var l=hit(e.position);
     if(l) selectLabel(l);
-    else if(cur){ cur=null; render(); }   // a click on empty map: done with this label
+    else if(cur){ leaveEdit(); cur=null; render(); }   // a click on empty map: done with this label (asks if changes are not saved)
   }
 });
 viewer.addHandler("canvas-double-click",function(e){
@@ -868,11 +927,8 @@ document.addEventListener("keydown",function(e){
     // (the editor's report, 2026-11-06: an edit seemed unsavable and the
     // name did not appear — a selected label draws no name, and nothing
     // deselected it).
-    if(e.key==="Enter" && cur && !isDraft && (t.id==="f-form"||t.id==="f-note")){
-      e.preventDefault();
-      cur=null; step=null; persist(); render();
-      setStatus("Saved. The label's name shows on the map now; the browser keeps the change, and <b>Save</b> downloads the file.");
-      return;
+    if(e.key==="Enter" && cur && !isDraft && step===null && (t.id==="f-form"||t.id==="f-note")){
+      e.preventDefault(); saveEdit(); return;
     }
     // Enter in a field of step 3 makes the label, as Create does. The type
     // keys are gone (the editor's word, 2026-11-14): the type is a button.
@@ -886,14 +942,15 @@ document.addEventListener("keydown",function(e){
   if(k===","){rotateBy(-90);return;}
   if(k==="."){rotateBy(90);return;}
   if(k==="Escape"){
-    if(cur && !isDraft && step===null){ cur=null; render(); }   // nothing in progress: release the label
+    if(cur && !isDraft && step===null){ act("canceledit"); }   // nothing in progress: the label put back as it was and released
     else cancelStep();
     return;
   }
   if(!cur) return;
   if(k==="["||k==="]"){
     cur.height=Math.max(10,(cur.height||80)+(k==="]"?20:-20));
-    if(!isDraft)persist(); setStatus(stepText()); draw(); return;
+    if(!isDraft){ render(); return; }   // the panel's height and the Save changes button follow
+    setStatus(stepText()); draw(); return;
   }
   if(step==="point"&&lk==="n"&&cur.role!=="letter"){setPoint(null);return;}
   if(step==="point"&&cur.role==="letter"&&lk==="s"){cancelStep();return;}

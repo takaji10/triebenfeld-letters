@@ -3778,6 +3778,12 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   did not click, where the step's keys are wanted. Test the page on port
   8791 (`map-labelling-test`), not 8780, so the editor's browser storage
   is not touched, and clear the test origin's storage afterwards.
+  The same holds for editing a saved label (the editor, the same day): its
+  edits used to be saved at every keystroke, silently, while the list kept
+  showing the gazetteer's form, so nothing told the editor the change had
+  taken. Now the edits wait for a red Save changes, the list shows the
+  label as saved, and leaving unsaved edits asks. A list that shows a
+  record must show the record, not the template it was made from.
 - **"The map tiles did not load (HTTP 503 ...)" is GitHub Pages, not the
   tiles (2026-11-14).** The editor saw it on the published Mapa dróg 1890;
   the same info.json answered 200 a few minutes later and the page opened.

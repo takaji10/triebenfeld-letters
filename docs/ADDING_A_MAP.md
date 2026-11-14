@@ -212,3 +212,10 @@ session (WORKING_NOTES, "Working with the editor").
   what it shows". A test of the page goes on another port (the
   `map-labelling-test` configuration, 8791), never on 8780, where the
   editor's unsaved marks live in the browser.
+  **Editing a saved label (2026-11-14, the editor's word):** changes to
+  its form, note, type (buttons in the panel) or band wait for the red
+  **Save changes** (or Enter in the form or note field), which saves them
+  and refreshes the list; Cancel or Esc puts the label back; leaving it
+  with changes not saved asks. The "To find" list shows a found item's
+  label as saved (its form and type), not the gazetteer's form. Redo
+  point and Redo trace still save when done.
