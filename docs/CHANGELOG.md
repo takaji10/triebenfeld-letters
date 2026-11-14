@@ -6265,3 +6265,15 @@ sources-icon.html`).
   label mapadrogi1890-008 points there and reads "Kolonia Wrąbczyn
   (Wrąbczyn Górski)", its type changed from unsure to village; the
   literature index's comments follow.
+
+## 2026-11-14 (afternoon) - the map-labelling to-do list keeps itself (branch `trampczynski-family`)
+
+- The editor: remove Pełzucki 1901 and Mapa dróg 1890 from the bulk
+  batch's labelling sheet, and the Mapa dróg warning at its top; "When I
+  finish with a map and it gets published to the site, let's remove it
+  from this to-do list." The sheet's script moved from scratch into the
+  pipeline (`pipeline/maps/label_index.py`) and leaves out every map whose
+  register entry on origin/main has `in_project: true`; the warning is
+  gone, Zagórów 1841's outdated note corrected (001.jpg as drawn), and
+  Łukom 1766, waiting for its re-marking, given a row. ADDING_A_MAP step 5
+  carries the rule. 19 maps on the list.
