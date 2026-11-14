@@ -6321,3 +6321,4 @@ sources-icon.html`).
 
 - The editor's six marks imported; mark-only fit over five points, RMS 376 m, `in_project: true`. Imielno, Wymysłów and Długa Górka confirmed by OSM's lookup (every written coordinate matched) and made surveyed so they join the fit.
 - New gazetteer entry **Lipowa Górka** (`lipowa-gorka`): a hill, placed from the label, the name explained (*lipa* + *górka*); no other record was found. Label type left "unsure" (no hill type). Not published.
+- The editor: Łukom 1766's card thumbnail still showed the old image. `make_thumbs.py` kept an existing map thumb whatever the tiles served; it now compares the served picture with the thumb and rewrites on a difference. Łukom 1766's thumb remade from the JPG, Zagórów 1841's made (it had none). Not published.

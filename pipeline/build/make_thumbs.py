@@ -209,9 +209,16 @@ def maps(expected):
         count += 1
         dst = os.path.join(THUMBS, f'map-{key}.jpg')
         expected.add(os.path.basename(dst))
-        if not FORCE and os.path.isfile(dst):
-            pass
-        else:
+        # The tiles are the source and can be cut again (a map re-backed onto
+        # another image, Lukom 1766 on 2026-11-06, kept its old face for eight
+        # days because "already there" was taken as current): the served
+        # picture is compared with the thumb's bytes and the thumb is written
+        # whenever they differ.
+        same = False
+        if os.path.isfile(dst):
+            with open(dst, 'rb') as fb:
+                same = fb.read() == r.content
+        if FORCE or not same:
             with open(dst, 'wb') as fb:
                 fb.write(r.content)
             made += 1

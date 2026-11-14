@@ -3784,6 +3784,13 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   taken. Now the edits wait for a red Save changes, the list shows the
   label as saved, and leaving unsaved edits asks. A list that shows a
   record must show the record, not the template it was made from.
+- **A map's card thumbnail follows its tiles (the editor, 2026-11-14).**
+  Łukom 1766's thumbnail kept the face of the old north-up PNG for eight days
+  after the map was re-backed onto the JPG: make_thumbs.py skipped any map
+  thumb that already existed. It now fetches the served whole-map picture and
+  rewrites the thumb when the bytes differ. When a map's image changes, run
+  `python pipeline/build/make_thumbs.py` and `map_pages.py`, and look at the
+  thumb.
 - **"The map tiles did not load (HTTP 503 ...)" is GitHub Pages, not the
   tiles (2026-11-14).** The editor saw it on the published Mapa dróg 1890;
   the same info.json answered 200 a few minutes later and the page opened.
