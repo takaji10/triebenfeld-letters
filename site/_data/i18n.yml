@@ -142,6 +142,9 @@ en:
   map_maker: Maker
   map_scale: Scale
   map_legend_h2: Legend
+  map_abbr_h2: Abbreviations on the sheet
+  map_abbr_col_abbr: Abbreviation
+  map_abbr_col_mean: Meaning
   map_legend_pl: On the map
   map_legend_tr: English
   map_kind: Kind
@@ -610,6 +613,9 @@ de:
   map_maker: Kartograf
   map_scale: Maßstab
   map_legend_h2: Legende
+  map_abbr_h2: Abkürzungen auf dem Blatt
+  map_abbr_col_abbr: Abkürzung
+  map_abbr_col_mean: Bedeutung
   map_legend_pl: Auf der Karte
   map_legend_tr: Deutsch
   map_kind: Art

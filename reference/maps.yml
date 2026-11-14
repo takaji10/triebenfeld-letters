@@ -527,7 +527,7 @@ maps:
     crop: null          # the sheet whole: the gazetteer's window nearly fills it
     mapwarper: 83432
     tiles: "https://takaji10.github.io/triebenfeld-maps/trojwiorstowki1914/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true    # shown without marks and with its abbreviations table (the editor, 2026-11-14); the marks follow
   wig1933:
     cited_as: "Wojskowy Instytut Geograficzny 1933"
     year: 1933

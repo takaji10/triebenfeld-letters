@@ -235,6 +235,10 @@ def main():
             out_maps[key]['orig_lang'] = legend.get('lang') or 'pl'
         else:
             out_maps[key]['orig_lang'] = 'pl'
+        # a plain table of the abbreviations the sheet uses (abbr, en, de)
+        abbr_p = os.path.join(MAPS_DIR, key, 'abbreviations.yml')
+        if os.path.isfile(abbr_p):
+            out_maps[key]['abbreviations'] = read_yaml(abbr_p)
         texts_p = os.path.join(MAPS_DIR, key, 'texts.yml')
         if os.path.isfile(texts_p):
             blocks = read_yaml(texts_p).get('blocks') or []

@@ -1,0 +1,32 @@
+# The abbreviations of the sheet whose meaning is known well enough to print
+# (the editor, 2026-11-14: "a table like M.H | Meierhof"; only the ones
+# Claude can read). The sheet's printed key has not been found: the readings
+# come from the sheet's German lettering and from where each stands (a
+# cemetery beside Zagórów and Kopojno, manor houses at Ratyń and Kopojno).
+# Not included, meaning unknown: G. (G. Imielno, G. Dziadolina), Bn. H.
+# (Bn. H. Kapczyk), Z.O., Tr. P., F.W., Chol.
+# Rendered under the map by pipeline/maps/map_pages.py and layout map.
+note_en: The meanings of M.H. and H.H. are probable.
+note_de: Die Bedeutungen von M.H. und H.H. sind wahrscheinlich.
+rows:
+- abbr: M.H.
+  en: Meierhof (a farm estate, a folwark)
+  de: Meierhof (ein Gutshof, ein Vorwerk)
+- abbr: H.H.
+  en: Herrenhof (a manor house)
+  de: Herrenhof (ein Herrenhaus)
+- abbr: Fr.
+  en: Friedhof (a cemetery)
+  de: Friedhof
+- abbr: Jsr. Fr.
+  en: Israelitischer Friedhof (a Jewish cemetery)
+  de: Israelitischer Friedhof
+- abbr: Kol.
+  en: Kolonie (a colony)
+  de: Kolonie
+- abbr: Hol.
+  en: Holendry (a Hauland or Olęder settlement)
+  de: Holendry (eine Haulandsiedlung)
+- abbr: Fähre
+  en: ferry
+  de: Fähre

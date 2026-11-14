@@ -6914,6 +6914,57 @@ pelzucki1901:
     n: null
     skipped: false
   orig_lang: pl
+trojwiorstowki1914:
+  slug: trojwiorstowki1914
+  cited_as: Trójwiorstówki 1914
+  title: Trójwiorstówki (the three-verst map), arkusz Pyzdry-Konin
+  title_en: The three-verst map of the western Russian Empire, sheet Pyzdry-Konin
+  title_de: null
+  maker: the survey of F. F. Schubert (Фёдор Фёдорович Шуберт), the 1914 printing
+  scale: 1:126 000
+  year: 1914
+  kind: military
+  kind_en: Military map
+  kind_de: Militärkarte
+  holder: null
+  reference: sheet XVII-D (Mapster 1761425)
+  url: https://igrek.amzp.pl/1761425
+  tiles: https://takaji10.github.io/triebenfeld-maps/trojwiorstowki1914/info.json
+  warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=trojwiorstowki1914
+  sat_warp: null
+  view_rotation: 0
+  width: 9763
+  height: 7173
+  rms_m: null
+  n_labels: 0
+  n_places: 0
+  labels: []
+  orig_lang: pl
+  abbreviations:
+    note_en: The meanings of M.H. and H.H. are probable.
+    note_de: Die Bedeutungen von M.H. und H.H. sind wahrscheinlich.
+    rows:
+    - abbr: M.H.
+      en: Meierhof (a farm estate, a folwark)
+      de: Meierhof (ein Gutshof, ein Vorwerk)
+    - abbr: H.H.
+      en: Herrenhof (a manor house)
+      de: Herrenhof (ein Herrenhaus)
+    - abbr: Fr.
+      en: Friedhof (a cemetery)
+      de: Friedhof
+    - abbr: Jsr. Fr.
+      en: Israelitischer Friedhof (a Jewish cemetery)
+      de: Israelitischer Friedhof
+    - abbr: Kol.
+      en: Kolonie (a colony)
+      de: Kolonie
+    - abbr: Hol.
+      en: Holendry (a Hauland or Olęder settlement)
+      de: Holendry (eine Haulandsiedlung)
+    - abbr: Fähre
+      en: ferry
+      de: Fähre
 zagorow1841:
   slug: zagorow1841
   cited_as: Zagórów 1841

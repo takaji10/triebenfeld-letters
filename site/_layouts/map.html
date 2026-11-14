@@ -169,6 +169,21 @@ layout: default
     </section>
     {%- endif %}
 
+    {%- if m.abbreviations %}
+    <section class="map-abbr">
+      <h2>{{ t.map_abbr_h2 }}</h2>
+      <table class="abbr-table">
+        <thead><tr><th scope="col">{{ t.map_abbr_col_abbr }}</th><th scope="col">{{ t.map_abbr_col_mean }}</th></tr></thead>
+        <tbody>
+        {%- for r in m.abbreviations.rows %}
+          <tr><th scope="row">{{ r.abbr }}</th><td>{% if lang == 'de' %}{{ r.de | default: r.en }}{% else %}{{ r.en }}{% endif %}</td></tr>
+        {%- endfor %}
+        </tbody>
+      </table>
+      {%- if lang == 'de' and m.abbreviations.note_de %}<p class="abbr-note">{{ m.abbreviations.note_de }}</p>{% elsif m.abbreviations.note_en %}<p class="abbr-note">{{ m.abbreviations.note_en }}</p>{% endif %}
+    </section>
+    {%- endif %}
+
   </div>
 
   <div class="map-stage">
@@ -352,6 +367,13 @@ layout: default
    thickness is uniform and only water's is built up (its `edge` colour, a
    thinner darker line on the remaining sides) */
 .map-legend { margin: 1.6rem 0 1.6rem; }
+.map-abbr { margin: 1.6rem 0; }
+.map-abbr h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
+.abbr-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+.abbr-table th, .abbr-table td { padding: .28rem .4rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule, rgba(128,128,128,.25)); }
+.abbr-table thead th { font-size: .75rem; text-transform: uppercase; letter-spacing: .04em; opacity: .7; }
+.abbr-table tbody th { white-space: nowrap; width: 6rem; font-weight: 600; }
+.abbr-note { font-size: .85rem; opacity: .75; margin: .4rem 0 0; }
 .map-legend h2 { margin: 0 0 .3rem; font-size: 1.1rem; }
 .legend-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .legend-table th, .legend-table td { padding: .28rem .4rem; text-align: left; vertical-align: middle; }

@@ -353,7 +353,7 @@ dziadolina:
   - map: trojwiorstowki1914
     cited_as: Trójwiorstówki 1914
     year: 1914
-    in_project: false
+    in_project: true
     form: osada
     note: Listed as a settlement (Pl. ) in the Geographical Dictionary of the Kingdom of Poland in 1881
       and shown on
@@ -367,6 +367,9 @@ dziadolina:
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     label: pelzucki1896-004
+  - map: trojwiorstowki1914
+    cited_as: Trójwiorstówki 1914
+    label: null
 garbin:
   appearances:
   - map: kozlowski1861
