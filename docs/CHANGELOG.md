@@ -6191,3 +6191,19 @@ sources-icon.html`).
   estate "were documented" from 1173 to the 1930s. HOUSE_STYLE, "State the
   facts, not the fact that they were written down".
 
+## 2026-11-14 (night, later) - the register's place classes corrected
+
+- At the editor's word ("correct any other issues relating to place names"):
+  `reference/places.yml` now says what `kind:` means (what the place is today;
+  city is about 50,000 inhabitants or more, or a regional or national
+  capital) and 13 places moved from town to city: Konin, Opole, Legnica,
+  Częstochowa, Głogów, Zielona Góra, Mysłowice, Włocławek, Jena, Weimar,
+  Bayreuth, Fürth, Memel. Open: Ostrów and Neusatz (which place?), Teplitz
+  and Emden (about 50,000), Charlottenburg (now a district of Berlin).
+- Found and fixed: the Places index and the place pages printed the raw word
+  "city" (lowercase, in English also on the German pages) for the 35 cities,
+  and "country" and "region" for the 15 of those; labels added in both
+  languages.
+- `check_place_descriptors.py` no longer lists a colony or settlement that is
+  also a village or hamlet.
+

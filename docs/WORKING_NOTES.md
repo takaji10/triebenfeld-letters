@@ -3877,7 +3877,17 @@ styling**, and in any include use `include.<name>` for every parameter.
   is before you call it something"; run
   `pipeline/review/check_place_descriptors.py` before publishing. Its first run
   listed 40 descriptors to read; the register itself needs the editor's word
-  where it disagrees with the present day (Konin is `town`).
+  where it disagrees with the present day (Konin was `town`).
+  **Corrected the same night** (editor: "correct any other issues relating to
+  place names"): `kind:` in `reference/places.yml` is what the place is today
+  (city: about 50,000 inhabitants or more, or a regional or national
+  capital); 13 towns became cities (Konin, Opole, Legnica, Częstochowa,
+  Głogów, Zielona Góra, Mysłowice, Włocławek, Jena, Weimar, Bayreuth, Fürth,
+  Memel); Ostrów and Neusatz stay open (which place?). **The Places index
+  printed "— city" in lowercase, in English even on the German page, because
+  `_KIND_EN`/`_KIND_DE` in build_site_data.py had no `city`, `country` or
+  `region`**; added. A new kind needs a label in both maps, or the raw word
+  shows.
 - **Do not make the act of writing the news** ("people wrote down who owned
   ..."): say what the documents show. HOUSE_STYLE, "State the facts, not the
   fact that they were written down".

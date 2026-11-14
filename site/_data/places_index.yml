@@ -183,8 +183,8 @@ tier1:
 - slug: kalisz
   name: Kalisz
   name_de: Kalisch
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: kirchol
   name: Kirchol
@@ -201,7 +201,7 @@ tier1:
 - slug: konin
   name: Konin
   name_de: Konin
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: kopojno
@@ -784,26 +784,26 @@ tier2:
 - slug: baden
   name: Baden
   name_de: Baden
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: bayern
   name: Bayern
   name_de: Bayern
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: bayreuth
   name: Bayreuth
   name_de: Bayreuth
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: berlin
   name: Berlin
   name_de: Berlin
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: bialobrzeg
   name: Białobrzeg
@@ -844,8 +844,8 @@ tier2:
 - slug: bologna
   name: Bologna
   name_de: Bologna
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: boronow
   name: Boronów
@@ -886,8 +886,8 @@ tier2:
 - slug: bruenn
   name: Brünn (Brno)
   name_de: Brünn (Brno)
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: bytkow
   name: Bytków
@@ -898,8 +898,8 @@ tier2:
 - slug: boehmen
   name: Böhmen
   name_de: Böhmen
-  kind_en: region
-  kind_de: region
+  kind_en: Region
+  kind_de: Region
   german: ''
 - slug: batkowo
   name: Bątkowo
@@ -928,14 +928,14 @@ tier2:
 - slug: czestochowa
   name: Częstochowa
   name_de: Czenstochau
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: teutschland
   name: Deutschland
   name_de: Deutschland
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: dolsk
   name: Dolsk
@@ -952,8 +952,8 @@ tier2:
 - slug: dresden
   name: Dresden
   name_de: Dresden
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: embden
   name: Emden
@@ -964,31 +964,31 @@ tier2:
 - slug: erfurt
   name: Erfurt
   name_de: Erfurt
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: frankfurt-am-main
   name: Frankfurt am Main
   name_de: Frankfurt am Main
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: frankfurt-an-der-oder
   name: Frankfurt an der Oder
   name_de: Frankfurt an der Oder
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: frankreich
   name: Frankreich
   name_de: Frankreich
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: fuerth
   name: Fürth
   name_de: Fürth
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: gostyszyn
@@ -1006,14 +1006,14 @@ tier2:
 - slug: graz
   name: Graz
   name_de: Graz
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: grenoble
   name: Grenoble
   name_de: Grenoble
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: grodziec
   name: Grodziec
@@ -1036,7 +1036,7 @@ tier2:
 - slug: glogau
   name: Głogów
   name_de: Glogau
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: leobschuetz
@@ -1054,20 +1054,20 @@ tier2:
 - slug: heidelberg
   name: Heidelberg
   name_de: Heidelberg
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: heilbronn
   name: Heilbronn
   name_de: Heilbronn
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: holland
   name: Holland
   name_de: Holland
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: ingelfingen
   name: Ingelfingen
@@ -1078,8 +1078,8 @@ tier2:
 - slug: italien
   name: Italien
   name_de: Italien
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: jaryszki
   name: Jaryszki
@@ -1090,7 +1090,7 @@ tier2:
 - slug: jena
   name: Jena
   name_de: Jena
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: kamionno
@@ -1120,20 +1120,20 @@ tier2:
 - slug: karlsruhe
   name: Karlsruhe
   name_de: Karlsruhe
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: kassel
   name: Kassel
   name_de: Kassel
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: kiew
   name: Kiew
   name_de: Kiew
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: kirchberg
   name: Kirchberg
@@ -1150,8 +1150,8 @@ tier2:
 - slug: coblenz
   name: Koblenz
   name_de: Koblenz
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: kolno
   name: Kolno
@@ -1210,8 +1210,8 @@ tier2:
 - slug: koenigsberg
   name: Königsberg
   name_de: Königsberg
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: kempen
   name: Kępno
@@ -1246,14 +1246,14 @@ tier2:
 - slug: liegnitz
   name: Legnica
   name_de: Liegnitz
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: lille
   name: Lille
   name_de: Lille
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: luebliniz
   name: Lubliniec
@@ -1264,8 +1264,8 @@ tier2:
 - slug: lyon
   name: Lyon
   name_de: Lyon
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: ladek
   name: Lądek
@@ -1276,14 +1276,14 @@ tier2:
 - slug: magdeburg
   name: Magdeburg
   name_de: Magdeburg
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: mecklenburg
   name: Mecklenburg
   name_de: Mecklenburg
-  kind_en: region
-  kind_de: region
+  kind_en: Region
+  kind_de: Region
   german: ''
 - slug: melun
   name: Melun
@@ -1294,7 +1294,7 @@ tier2:
 - slug: memel
   name: Memel
   name_de: Memel
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: miedzibor
@@ -1318,7 +1318,7 @@ tier2:
 - slug: myslowice
   name: Mysłowice
   name_de: Mysłowice
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: naumburg
@@ -1366,8 +1366,8 @@ tier2:
 - slug: ofen
   name: Ofen (Buda)
   name_de: Ofen (Buda)
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: olszyna
   name: Olszyna
@@ -1378,7 +1378,7 @@ tier2:
 - slug: oppeln
   name: Opole
   name_de: Oppeln
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: oporowo
@@ -1408,8 +1408,8 @@ tier2:
 - slug: paris
   name: Paris
   name_de: Paris
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: petersdorff
   name: Petersdorf
@@ -1432,8 +1432,8 @@ tier2:
 - slug: pommern
   name: Pommern
   name_de: Pommern
-  kind_en: region
-  kind_de: region
+  kind_en: Region
+  kind_de: Region
   german: ''
 - slug: popowo
   name: Popowo
@@ -1444,26 +1444,26 @@ tier2:
 - slug: potsdam
   name: Potsdam
   name_de: Potsdam
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: posen
   name: Poznań
   name_de: Posen
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: prag
   name: Prag
   name_de: Prag
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: pressburg
   name: Pressburg (Bratislava)
   name_de: Pressburg (Bratislava)
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: prusinowo
   name: Prusinowo
@@ -1492,8 +1492,8 @@ tier2:
 - slug: russland
   name: Russland
   name_de: Russland
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: rzgow
   name: Rzgów
@@ -1504,14 +1504,14 @@ tier2:
 - slug: sachsen
   name: Sachsen
   name_de: Sachsen
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: schlesien
   name: Schlesien
   name_de: Schlesien
-  kind_en: region
-  kind_de: region
+  kind_en: Region
+  kind_de: Region
   german: ''
 - slug: silna
   name: Silna
@@ -1534,8 +1534,8 @@ tier2:
 - slug: st-petersburg
   name: St Petersburg
   name_de: St Petersburg
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: stara-kuznia
   name: Stara Kuźnia
@@ -1582,8 +1582,8 @@ tier2:
 - slug: stettin
   name: Szczecin
   name_de: Stettin
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: szczytniki
   name: Szczytniki
@@ -1600,8 +1600,8 @@ tier2:
 - slug: suedpreussen
   name: Südpreußen
   name_de: Südpreußen
-  kind_en: region
-  kind_de: region
+  kind_en: Region
+  kind_de: Region
   german: ''
 - slug: schlawenschitz
   name: Sławięcice
@@ -1624,14 +1624,14 @@ tier2:
 - slug: torun
   name: Toruń
   name_de: Thorn
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: toulon
   name: Toulon
   name_de: Toulon
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: ujest
   name: Ujazd
@@ -1642,31 +1642,31 @@ tier2:
 - slug: ulm
   name: Ulm
   name_de: Ulm
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: ungarn
   name: Ungarn
   name_de: Ungarn
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: venedig
   name: Venice
   name_de: Venedig
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: warschau
   name: Warszawa
   name_de: Warschau
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: weimar
   name: Weimar
   name_de: Weimar
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: weissenfels
@@ -1690,8 +1690,8 @@ tier2:
 - slug: wien
   name: Wien
   name_de: Wien
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: wieniec
   name: Wieniec
@@ -1738,19 +1738,19 @@ tier2:
 - slug: breslau
   name: Wrocław
   name_de: Breslau
-  kind_en: city
-  kind_de: city
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: wuerttemberg
   name: Württemberg
   name_de: Württemberg
-  kind_en: country
-  kind_de: country
+  kind_en: Country
+  kind_de: Land
   german: ''
 - slug: wloclawek
   name: Włocławek
   name_de: Leslau
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: zielomysl
@@ -1762,7 +1762,7 @@ tier2:
 - slug: grueneberg
   name: Zielona Góra
   name_de: Grüneberg
-  kind_en: Town
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: frankenstein

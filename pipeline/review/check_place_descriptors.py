@@ -33,10 +33,11 @@ CLASS = {
     'city': {'city'}, 'cities': {'city'}, 'town': {'town'}, 'towns': {'town'},
     'village': {'village'}, 'villages': {'village'},
     'hamlet': {'hamlet'}, 'hamlets': {'hamlet'},
-    'colony': {'settlement', 'oleder-settlement', 'colony'},
-    'colonies': {'settlement', 'oleder-settlement', 'colony'},
-    'settlement': {'settlement', 'oleder-settlement', 'colony'},
-    'settlements': {'settlement', 'oleder-settlement', 'colony'},
+    # a colony or a settlement may be a village or a hamlet as well
+    'colony': {'settlement', 'oleder-settlement', 'colony', 'village', 'hamlet'},
+    'colonies': {'settlement', 'oleder-settlement', 'colony', 'village', 'hamlet'},
+    'settlement': {'settlement', 'oleder-settlement', 'colony', 'village', 'hamlet'},
+    'settlements': {'settlement', 'oleder-settlement', 'colony', 'village', 'hamlet'},
 }
 # German "Stadt" names a city or a town, so either record fits it
 DE = {'Stadt': {'city', 'town'}, 'Städte': {'city', 'town'}, 'Städten': {'city', 'town'},
