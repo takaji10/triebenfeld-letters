@@ -9,7 +9,7 @@ has_process: true
 about_lang: de
 process_lang: de
 ---
-Der jüngste Eintrag der Sammlung aus den Konin-Registern stammt vom 9. Juni 1788. Ein Diener Antoni Prusimskis brachte Wagen und Tiere eines Bauern Stanisław Ścibor Chełmskis vor das Gerichtsamt, der beim Abfahren eines gefällten Baumes aus dem Trąbczyner Kiefernwald ertappt worden war – der Streit zwischen Trąbczyn und Łukomia lebte sechs Jahre nach der Absteckung der Grenze noch. <!-- context -->
+Am 9. Juni 1788 brachte ein Diener Antoni Prusimskis Wagen und Tiere eines Bauern Stanisław Ścibor Chełmskis vor das Gerichtsamt, der beim Abfahren eines gefällten Baumes aus dem Trąbczyner Kiefernwald ertappt worden war – der Streit zwischen Trąbczyn und Łukomia lebte sechs Jahre nach der Absteckung der Grenze noch. <!-- context -->
 
 ### Historischer Hintergrund
 

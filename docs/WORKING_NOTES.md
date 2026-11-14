@@ -3856,6 +3856,22 @@ styling**, and in any include use `include.<name>` for every parameter.
   Prusimski in 1698. The homepage and the boundary era's ownership line said
   "Prusimski from 1589" until 2026-11-14; check the genealogy before writing
   an ownership line.
+- **No "the edition", "the project", "the site" or "the collection" on a
+  reader's page** (the editor, 2026-11-14; HOUSE_STYLE, "The pages do not
+  talk about themselves"). A sweep that day fixed the homepage, the era pages,
+  holding descriptions, the literature's Related notes, a timeline note, two
+  works' accounts and a newspaper summary. To find new ones, parse the YAML
+  and search only displayed values (a grep also hits comments and the
+  `translation_note` prompts, which no reader sees).
+- **`english_forms.py --apply` also rewrites the English summaries, and
+  damages them** (2026-11-14). Run to apply one page correction from
+  `reference/english_corrections.yml`, it changed 34 summaries in
+  `site/_data/summaries.yml`: years given digit groups ("1,173", "1,399" in
+  the kdw and app5314550221 summaries, "(2,026-11-01)"), écus turned into
+  Reichsthaler, the open "gl." made "Groschen". The summaries file was
+  restored with `git checkout`. After running it, keep only the translation
+  file it was run for and check `git diff site/_data/summaries.yml` before
+  committing.
 
 ## The Trąmpczyński family pages (2026-11-12)
 

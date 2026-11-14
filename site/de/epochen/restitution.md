@@ -62,8 +62,8 @@ gelte, und das Begehren sei als auf keinem Rechtssatz beruhend abzuweisen
 dort und zeigen nicht, ob Weigel je bezahlt wurde.
 
 Die Akten dieser Jahre liegen im Archiwum Główne Akt Dawnych in Warschau und in den
-Akten des preußischen Außenministeriums, heute im Geheimen Staatsarchiv in Berlin; die
-Ausgabe hat beide Seiten des Streits, in den Akten, die die beiden Staaten führten.
+Akten des preußischen Außenministeriums, heute im Geheimen Staatsarchiv in Berlin; zusammen
+geben die Akten der beiden Staaten beide Seiten des Streits.
 
 ## Ereignisse dieser Epoche
 

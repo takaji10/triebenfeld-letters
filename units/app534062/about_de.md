@@ -1,4 +1,4 @@
-1727 meldete der königliche Generalbote Sebastian Szetlewicz aus Szetlewek dem Landgericht in Kalisch, er habe auf dem Gut Szetlew eine Vorladung zugestellt und sie in der geheizten Stube des Hauses auf den Tisch gelegt. Der Bericht des Boten bezeugt die Familie Szetlewicz, die in den 1720er Jahren in Szetlewek lebte, und ist der erste Text der Sammlung, der die Dörfer Szetlew und Szetlewek auseinanderhält. <!-- context -->
+1727 meldete der königliche Generalbote Sebastian Szetlewicz aus Szetlewek dem Landgericht in Kalisch, er habe auf dem Gut Szetlew eine Vorladung zugestellt und sie in der geheizten Stube des Hauses auf den Tisch gelegt. Der Bericht des Boten bezeugt die Familie Szetlewicz, die in den 1720er Jahren in Szetlewek lebte, und hält die Dörfer Szetlew und Szetlewek auseinander, die andere Texte verwechseln. <!-- context -->
 
 ### Der Eintrag
 

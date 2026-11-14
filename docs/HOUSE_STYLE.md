@@ -148,6 +148,39 @@ The same goes for sentences that begin "It is", "This is", "These are",
 "Here is" or "That was" and only then say what they are about: begin with
 the thing.
 
+## The pages do not talk about themselves
+
+The editor, 2026-11-14: "I also don't want you referring to anything as
+'edition' - don't talk about the site/edition/project." No reader-facing
+sentence speaks of "the edition", "the project", "the site", "this website" or
+"the collection" (German: "die Edition", "diese Ausgabe", "das Projekt", "die
+Website", "die Sammlung") as the holder of the documents. Name the thing
+itself instead: the document, the court book, the file, the letters of
+Triebenfeld, the Kodeks.
+
+```
+NO   The edition's judgment of 1644 shows a Jerzy Chełmski holding Łukom.
+YES  The Konin land court's judgment of 1644 shows a Jerzy Chełmski
+     holding Łukom.
+
+NO   The earliest record of that quarrel in the collection is from 1589.
+YES  The earliest surviving record of that quarrel is from 1589.
+
+NO   Traces in the Sand is an archive of the documents written about
+     Trąbczyn.
+YES  For more than seven hundred years people wrote down who owned the
+     estate of Trąbczyn ... Each of those documents is shown in its
+     original language.
+```
+
+Untouched by the rule: "edition" in its ordinary sense (the Kodeks as "the
+printed edition of the medieval documents of Greater Poland", "the second
+edition of 1776", "the Zagórów edition of Echo Tureckie"), another site that
+is a source ("the website of the Lutheran parish of Konin"), and the
+Licences and privacy page, which has to say what the website does with a
+reader's data. The docs in `docs/` and the notes may speak of the edition;
+they are not read by the reader.
+
 ## The documents first
 
 The editor, 2026-10-20: "All facts must be first verified against

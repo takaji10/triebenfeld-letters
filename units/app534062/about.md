@@ -1,4 +1,4 @@
-In 1727 the general royal messenger Sebastian Szetlewicz of Szetlewek reported to the land court at Kalisz that he had served a citation at the estate of Szetlew, leaving it on the table in the heated room of the house. The messenger's report records the Szetlewicz family, who lived at Szetlewek in the 1720s, and it is the first text in the collection that tells the villages of Szetlew and Szetlewek apart. <!-- context -->
+In 1727 the general royal messenger Sebastian Szetlewicz of Szetlewek reported to the land court at Kalisz that he had served a citation at the estate of Szetlew, leaving it on the table in the heated room of the house. The messenger's report records the Szetlewicz family, who lived at Szetlewek in the 1720s, and it tells the villages of Szetlew and Szetlewek apart, which earlier texts confuse. <!-- context -->
 
 ### The entry
 

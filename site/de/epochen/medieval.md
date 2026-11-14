@@ -43,7 +43,7 @@ nicht Trąbczyn — ist, was die Herrschaft des Klosters der Karte hinterließ.
 
 Nichts davon hat sich als Archivalie erhalten: das Mittelalter dieses Landes kennt man
 aus der gedruckten Edition seiner Urkunden, dem Kodeks Dyplomatyczny Wielkopolski, und
-jeder Link oben öffnet den Eintrag der Edition, wie diese Ausgabe ihn überträgt. Die
+jeder Link oben öffnet den Eintrag einer Urkunde im Kodeks. Die
 Dokumente der Epoche enden in den vierziger Jahren des 15. Jahrhunderts; wenn die
 Überlieferung von Trąbczyn wiederaufnimmt, 1589, nimmt sie als Prozess wieder auf.
 

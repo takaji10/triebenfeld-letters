@@ -1,4 +1,4 @@
-The owners of Trąbczyn and of the neighbouring estate of Łukom quarrelled in the courts over water, woods and their common boundary for two hundred years. The earliest record of that quarrel in the collection is from 1589, when Albertus Trąmpczyński Otha of Trąbczyn sued Thomas Łukomski for building a pond at Łukom that flooded Trąbczyn's woods and meadows, and the land court at Konin ordered an inspection on the ground. <!-- context -->
+The owners of Trąbczyn and of the neighbouring estate of Łukom quarrelled in the courts over water, woods and their common boundary for two hundred years. The earliest surviving record of that quarrel is from 1589, when Albertus Trąmpczyński Otha of Trąbczyn sued Thomas Łukomski for building a pond at Łukom that flooded Trąbczyn's woods and meadows, and the land court at Konin ordered an inspection on the ground. <!-- context -->
 
 ### Historical background
 

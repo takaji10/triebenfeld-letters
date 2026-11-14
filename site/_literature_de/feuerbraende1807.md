@@ -5880,7 +5880,7 @@ Note. These estates, together with those designated under No. 8 in the Departmen
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
-<p>Der Eintrag ist der, den die Materialien nachdrucken: die Güter mit etwa 800.000 Talern Wert und 50.000 Ertrag, der Tausch gegen Krotoschin von Beyme verhindert, der verstorbene König nur einer Schenkung von 6.000 im Jahr zugestimmt habend. Die Edition hält beide Enden: die Akte vom Juli und August 1796 mit Hoyms Vorschlag (ein Ertrag von 4 bis 6.000 rt) und der Urkunde vom 9. August, und die Ablehnung des Königs vom 4. Dezember 1798 mit ihrem Ertrag von 40.500 gegen 8.650.</p>
+<p>Der Eintrag ist der, den die Materialien nachdrucken: die Güter mit etwa 800.000 Talern Wert und 50.000 Ertrag, der Tausch gegen Krotoschin von Beyme verhindert, der verstorbene König nur einer Schenkung von 6.000 im Jahr zugestimmt habend. Beide Enden sind erhalten: die Akte vom Juli und August 1796 mit Hoyms Vorschlag (ein Ertrag von 4 bis 6.000 rt) und der Urkunde vom 9. August, und die Ablehnung des Königs vom 4. Dezember 1798 mit ihrem Ertrag von 40.500 gegen 8.650.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, Dokument 1 (9. August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a></p>
 </aside>{% raw %}
 </section>

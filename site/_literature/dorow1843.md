@@ -195,7 +195,7 @@ Count Hoym had wished only 5 per cent more, and was very much surprised when the
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
-<p>The memoir's classification story: the Poles, warned by "an honest man, War Councillor v. Triebenfeld", volunteer 24 per cent where Hoym asked five, and the tax in kind is dropped. The memoir's honest man is the writer of the letters in the edition; what the same years brought him stands in his own hand — the estates he sold taxed at over 700,000 rt (April 1799) against the 500,000 he says he let the buyer have them on.</p>
+<p>The memoir's classification story: the Poles, warned by "an honest man, War Councillor v. Triebenfeld", volunteer 24 per cent where Hoym asked five, and the tax in kind is dropped. The memoir's honest man is the writer of the letters to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen; what the same years brought him stands in his own hand — the estates he sold taxed at over 700,000 rt (April 1799) against the 500,000 he says he let the buyer have them on.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a></p>
 </aside>{% raw %}
 </section>

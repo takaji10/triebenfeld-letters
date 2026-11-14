@@ -41,7 +41,7 @@ not Trąbczyn — is what the abbey's lordship left on the map.
 
 None of this survives as archived paper: the Middle Ages of this country are known from
 the printed edition of its charters, the Kodeks Dyplomatyczny Wielkopolski, and every
-link above opens the edition's entry as this site transcribes it. The era's documents
+link above opens a charter's entry in the Kodeks. The era's documents
 end in the 1430s; when the record of Trąbczyn resumes, in 1589, it resumes as a lawsuit.
 
 ## Events of this era

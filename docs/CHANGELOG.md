@@ -6165,3 +6165,17 @@ sources-icon.html`).
 - `docs/HOUSE_STYLE.md`, "A holding's own page": the description does not
   open by repeating the header. The TODO item offered this morning is done.
 
+## 2026-11-14 (evening) - the pages no longer talk about themselves
+
+- At the editor's word ("don't talk about the site/edition/project"):
+  self-references removed from reader-facing text in both languages - the
+  homepage's lede and closing paragraph, the medieval and restitution era
+  pages, the About page (two sentences), the openings of app534062,
+  app536017 (and its title line), app53170koningr121, oe1bu9454, adwl85,
+  apl399801333 and ossol2289 (with its "session of 1 November" and "waits on
+  the editor's rulings"), eight of the literature's Related notes, the
+  timeline note of 1818, Dorow (1843)'s account and the Ostdeutscher
+  Beobachter's summary. The Licences and privacy page keeps "the website",
+  which it needs. `docs/HOUSE_STYLE.md`: new section "The pages do not talk
+  about themselves".
+

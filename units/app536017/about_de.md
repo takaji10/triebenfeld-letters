@@ -1,4 +1,4 @@
-Die Besitzer von Trąbczyn und des Nachbarguts Łukom stritten zweihundert Jahre lang vor Gericht um Wasser, Wälder und ihre gemeinsame Grenze. Das früheste Zeugnis dieses Streits in der Sammlung stammt von 1589, als Albertus Trąmpczyński Otha aus Trąbczyn Thomas Łukomski verklagte, weil er bei Łukom einen Teich angelegt hatte, der Trąbczyns Wälder und Wiesen überschwemmte, und das Landgericht in Konin eine Besichtigung an Ort und Stelle anordnete. <!-- context -->
+Die Besitzer von Trąbczyn und des Nachbarguts Łukom stritten zweihundert Jahre lang vor Gericht um Wasser, Wälder und ihre gemeinsame Grenze. Das früheste erhaltene Zeugnis dieses Streits stammt von 1589, als Albertus Trąmpczyński Otha aus Trąbczyn Thomas Łukomski verklagte, weil er bei Łukom einen Teich angelegt hatte, der Trąbczyns Wälder und Wiesen überschwemmte, und das Landgericht in Konin eine Besichtigung an Ort und Stelle anordnete. <!-- context -->
 
 ### Historischer Hintergrund
 
