@@ -508,14 +508,18 @@ maps:
     in_project: true    # the editor's 37 marks imported 2026-11-06, the OCR's forms filled, the fit from the marks alone (RMS 830 m); maps/mapadrogi1890/notes.md
   trojwiorstowki1914:
     cited_as: "Trójwiorstówki 1914"
-    year: 1914
+    # Dated ca. 1880, Mapster's "rok wydania ±1880" (the editor, 2026-11-14: "the
+    # date needs to change, it's ca. 1880"). The short form keeps "1914" (the
+    # editor's, and the gazetteer's citations use it); renaming it would rename
+    # the key and touch the gazetteer - its own decision.
+    year: 1880
     kind: military
     # Brought in with the bulk batch of 2026-11-06. The sheet is scanned by
     # Mapster (the folder's .url); the maker as the editor gives it - the
-    # three-verst survey associated with F. F. Schubert, printed 1914.
+    # three-verst survey associated with F. F. Schubert; the sheet ca. 1880 (Mapster).
     title: "Trójwiorstówki (the three-verst map), arkusz Pyzdry-Konin"
     title_en: "The three-verst map of the western Russian Empire, sheet Pyzdry-Konin"
-    maker: "the survey of F. F. Schubert (Фёдор Фёдорович Шуберт), the 1914 printing"
+    maker: "the survey of F. F. Schubert (Фёдор Фёдорович Шуберт), the k.u.k. reprint, ca. 1880 (Mapster)"
     reference: "sheet XVII-D (Mapster 1761425)"
     url: "https://igrek.amzp.pl/1761425"
     scale: "1:126 000"   # the three-verst scale, from the series' own name

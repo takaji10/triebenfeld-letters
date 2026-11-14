@@ -341,6 +341,16 @@ dziadolina:
     label: kozlowski1861-005
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-005.jpg
     refs: []
+  - map: trojwiorstowki1914
+    cited_as: Trójwiorstówki 1914
+    year: 1880
+    in_project: true
+    form: osada
+    note: Listed as a settlement (Pl. ) in the Geographical Dictionary of the Kingdom of Poland in 1881
+      and shown on
+    label: null
+    crop: null
+    refs: []
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     year: 1896
@@ -350,26 +360,16 @@ dziadolina:
     label: pelzucki1896-004
     crop: /assets/maps/crops/pelzucki1896/pelzucki1896-004.jpg
     refs: []
-  - map: trojwiorstowki1914
-    cited_as: Trójwiorstówki 1914
-    year: 1914
-    in_project: true
-    form: osada
-    note: Listed as a settlement (Pl. ) in the Geographical Dictionary of the Kingdom of Poland in 1881
-      and shown on
-    label: null
-    crop: null
-    refs: []
   maps_on_site:
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-005
-  - map: pelzucki1896
-    cited_as: Pełzucki 1896
-    label: pelzucki1896-004
   - map: trojwiorstowki1914
     cited_as: Trójwiorstówki 1914
     label: null
+  - map: pelzucki1896
+    cited_as: Pełzucki 1896
+    label: pelzucki1896-004
 garbin:
   appearances:
   - map: kozlowski1861

@@ -13,8 +13,9 @@ The sheet XVII D "Pyzdry, Konin" of the three-verst map, in the editor's file
   Kol. I Sek. II (Mapster, ±1843 and ±1864); the legend ("objaśnienie znaków") is
   on Kol. II Sek. VIII Sławków. RCIN's "Voenno-topografičeskaâ karta Evropejskoj
   Rossìi" has no sheet of this area.
-- **The date is open.** Mapster says "rok wydania ±1880"; the register says 1914
-  ("the 1914 printing"). Neither is confirmed for this reprint.
+- **The date is ca. 1880** (Mapster, "rok wydania ±1880"; the editor's ruling,
+  2026-11-14). The short form "Trójwiorstówki 1914" is kept, since the gazetteer
+  cites it; whether to rename it is the editor's call.
 
 ## The abbreviations (abbreviations.yml, shown under the map)
 
