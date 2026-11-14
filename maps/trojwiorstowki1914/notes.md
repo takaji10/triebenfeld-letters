@@ -42,3 +42,26 @@ Georeferenced (MapWarper 83432, RMS 188 m). Shown with no marks (`labels: []`):
 the editor's labelling is still to come. Kolonia Wrąbczyn lies northwest of
 Wrąbczynek here, Wrąbczyn Górski on the road from Wrąbczyn to Wrąbczynek (the
 editor).
+
+## Catalogue records of the series (2026-11-14)
+
+None of these names Schubert; all give the series title as *Военно-топографическая
+карта Европейской России*, 1:126 000, by the General Staff's military topographic
+department. **A citable form (the sheet itself is in no catalogue found):**
+*Военно-топографическая карта Европейской России, 1:126 000* (Voenno-topografičeskaâ
+karta Evropejskoj Rossii), Voenno-topografičeskij otdel Glavnogo štaba, Râd XVII
+List D (Pyzdry, Konin), k.u.k. reprint, ca. 1880 (Mapster 1761425, Archiwum Map WIG).
+- Library of Congress, "Topograficheskie karty evropeĭskoĭ chasti Rossiĭskoĭ Imperii
+  masstaba 1:126 000" (Topographic maps of the European part of the Russian Empire),
+  LCCN 2017588176, call no. G7010 s126 .R8; made by the Imperial Russian Army General
+  Staff ca. 1865-1917, "some later editions ... by German and Polish mapping
+  agencies" (loc.gov/item/2017588176; guides.loc.gov/maps-genealogy-eastern-europe/
+  topographic-sets/russia).
+- Russian Geographical Society geoportal, series "Военно-топографическая карта
+  Европейской России (М 1:126 000)", e.g. Ряд XXI Лист 3 (Volhynia and Lublin),
+  dated 1915, Военно-топографический отдел (geoportal.rgo.ru/record/652).
+- RCIN (rcin.org.pl, IGiPZ PAN), the series with the Polish sheets lettered (Râd XVIII
+  List V "g. kališskoj, petrokovskoj i varšavskoj", 1911; no Râd XVII sheet).
+- Habr, habr.com/en/articles/205310 (title "Трехверстная военно-топографическая карта
+  Западной России" of 1845; Tuchkov, not Schubert): an article, not a catalogue.
+**Not found**: the sheet Râd XVII List D in any catalogue; a catalogue naming Schubert.
