@@ -35,7 +35,7 @@ ORDER = [
      "2026-11-06); the rotated image and the folder's 002 are left out. No "
      "control points: your marks georeference it."),
     ("pelzucki1901", "Image 001 only; 002 left out."),
-    ("trojwiorstowki1914", "Only a small section of the sheet bears on the "
+    ("trojwiorstowki1880", "Only a small section of the sheet bears on the "
      "edition; the sheet comes in whole."),
     ("reymann1834", "The Peisern sheet is the map of record; its file's own "
      "name says ca. 1850 — the year is open (NEEDS_CONFIRMATION). No control "
