@@ -14,8 +14,8 @@
 # line above); the current copy kept alone. Label mapadrogi1890-060 linked
 # to the new gazetteer entry swiatniki (the editor's word). Label
 # mapadrogi1890-008 (Колонія Вромбчинъ) moved from wrabczynkowskie-holendry
-# Kolonia Wrąbczyn, a distinct place, which is today's Wrąbczyn Górski
-# (wrabczyn-gorski); its type changed from unsure to village at the
+# Kolonia Wrąbczyn, a distinct place (it is NOT Wrąbczyn Górski: the editor,
+# 2026-11-14, from Trójwiorstówki 1914); its type changed from unsure to village at the
 # editor's word (both 2026-11-14).
 map: mapadrogi1890
 width: 11009
@@ -72,7 +72,7 @@ labels:
   form_standard: Wrąbczyn
 - id: mapadrogi1890-008
   role: place
-  place: wrabczyn-gorski
+  place: kolonia-wrabczyn
   new_place: null
   form: Колонія Вромбчинъ
   point:

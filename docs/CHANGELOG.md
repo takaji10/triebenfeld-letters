@@ -6323,3 +6323,7 @@ sources-icon.html`).
 - New gazetteer entry **Lipowa Górka** (`lipowa-gorka`): a hill, placed from the label, the name explained (*lipa* + *górka*); no other record was found. Label type left "unsure" (no hill type). Not published.
 - The editor: Łukom 1766's card thumbnail still showed the old image. `make_thumbs.py` kept an existing map thumb whatever the tiles served; it now compares the served picture with the thumb and rewrites on a difference. Łukom 1766's thumb remade from the JPG, Zagórów 1841's made (it had none). Not published.
 - The editor: places with no lettering to mark. In the trace step of a place label a **Submit** button beside Cancel makes the label from the point alone (no trace; the import already crops around a point). Tested on port 8791; all sheets rebuilt.
+
+## 2026-11-14 (late night) - Kolonia Wrąbczyn and Wrąbczyn Górski are two places (branch `trampczynski-family`)
+
+- The editor, from Trójwiorstówki 1914: Wrąbczyn Górski is on the road from Wrąbczyn to Wrąbczynek, the colony northwest of Wrąbczynek. The merge of the morning is undone: `wrabczyn-gorski` back to the editor's text (no `founded_as`), `kolonia-wrabczyn` restored (located northwest of Wrąbczynek, the text saying it is not Wrąbczyn Górski), label mapadrogi1890-008 relinked, the literature index's comments corrected. Pages rebuilt; gazetteer and literature-index checks pass.

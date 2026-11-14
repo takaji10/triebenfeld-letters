@@ -198,6 +198,12 @@ tier1:
   kind_en: Water mill
   kind_de: Wassermühle
   german: ''
+- slug: kolonia-wrabczyn
+  name: Kolonia Wrąbczyn
+  name_de: Kolonia Wrąbczyn
+  kind_en: Settlement
+  kind_de: Siedlung
+  german: ''
 - slug: konin
   name: Konin
   name_de: Konin

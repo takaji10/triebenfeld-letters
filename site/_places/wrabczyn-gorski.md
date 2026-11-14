@@ -18,21 +18,9 @@ hits_docs_count: 0
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 
-*Dated forms of the name:* *Wrąbczyn Górski*; *Kolonia Wrąbczyn*; *Kolonie Wrombczyn* [^2].
+*Dated forms of the name:* *Wrąbczyn Górski*.
 
-Village northwest of Wrąbczyn. First appeared on Słupca 1957. Originally the German colony *Kolonia Wrąbczyn*, not to be confused with Wrąbczynkowskie Holendry, the older Olęder settlement west of Wrąbczyn. It was one of the colonies founded on the estates of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, after his general agent Triebenfeld let 100 Hufen of forest to eighteen German settlers in hereditary lease.[^1] Breyer and Wąsicki name *Kolonie Wrombczyn* (*kolonia Wrąbczyn*) among the German villages that came about in this way, with Ingelfingen, Emilienheim, Augustinhof and Schwentz on the upland beside the Warta valley.[^2][^3] Chodyła counts Wrąbczyn among the colonies whose settlers came chiefly from Silesia and in smaller part from the Neumark.[^4] *Колонія Вромбчинъ* (Mapa dróg 1890).
-
-[^1]: APP 53/968/0/-/801, document 3 (the hereditary lease of 21 March 1806)
-    [The document.](/documents/app539680801/3/)
-
-[^2]: Breyer, Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs (1938), p. 21
-    [The document.](/literature/breyer1938/#p-21)
-
-[^3]: Wąsicki, Kolonizacja niemiecka w okresie Prus Południowych 1793-1806 (1953), p. 176
-    [The document.](/literature/wasicki1953/#p-176)
-
-[^4]: Chodyła, Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746-1793 (2015), p. 147
-    [The document.](/literature/chodyla2015/#p-147)
+Village northwest of Wrąbczyn. First appeared on Słupca 1957.
 
 </div>
 {% endraw %}

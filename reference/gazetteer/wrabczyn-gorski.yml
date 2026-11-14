@@ -1,16 +1,9 @@
-# The first two sentences of text_en are the editor's ("Place Names.md").
-# The rest is Claude's, added 2026-11-14 when the editor ruled that the roads
-# map's Колонія Вромбчинъ (label mapadrogi1890-008) is Kolonia Wrąbczyn, a
-# place of its own, and that Kolonia Wrąbczyn is today's Wrąbczyn Górski
-# (the separate entry kolonia-wrabczyn of the same day, never published, is
-# merged here).
 slug: wrabczyn-gorski
 heading: Wrąbczyn Górski
 register: null
 status: extant
 kind: village
 kind_text: Village
-founded_as: Kolonia Wrąbczyn
 location:
   text: northwest of Wrąbczyn
   relation: northwest-of
@@ -19,62 +12,16 @@ location:
   precision: identified
   lat: 52.175556
   lon: 17.839167
-text_en: Village northwest of Wrąbczyn. First appeared on Słupca 1957. Originally the German colony *Kolonia Wrąbczyn*, not to be confused with Wrąbczynkowskie Holendry, the older Olęder settlement west of Wrąbczyn. It was one of the colonies founded on the estates of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, after his general agent Triebenfeld let 100 Hufen of forest to eighteen German settlers in hereditary lease.[^1] Breyer and Wąsicki name *Kolonie Wrombczyn* (*kolonia Wrąbczyn*) among the German villages that came about in this way, with Ingelfingen, Emilienheim, Augustinhof and Schwentz on the upland beside the Warta valley.[^2][^3] Chodyła counts Wrąbczyn among the colonies whose settlers came chiefly from Silesia and in smaller part from the Neumark.[^4] *Колонія Вромбчинъ* (Mapa dróg 1890).
+text_en: Village northwest of Wrąbczyn. First appeared on Słupca 1957.
 names:
 - form: Wrąbczyn Górski
   year: null
   note: heading
   footnote: null
-- form: Kolonia Wrąbczyn
-  year: null
-  note: Originally named
-  footnote: null
-- form: Kolonie Wrombczyn
-  year: null
-  note: Breyer's form
-  footnote: 2
-aliases:
-- Kolonia Wrąbczyn
-- Kolonie Wrombczyn
+aliases: []
 maps:
-- map: mapadrogi1890
-  form: Колонія Вромбчинъ
-  note: null
-  label: mapadrogi1890-008
 - map: slupca1957
   form: null
   note: First appeared on
-footnotes:
-- n: 1
-  text: APP 53/968/0/-/801, document 3 (the hereditary lease of 21 March 1806)
-  refs:
-  - source: app539680801
-    locator: document 3
-    link: /documents/app539680801/3/
-    status: linked
-  note: the lease of 100 Hufen of the Drzewce forest; it does not name the colonies
-- n: 2
-  text: Breyer, Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs (1938), p. 21
-  refs:
-  - source: breyer1938
-    locator: p. 21
-    link: /literature/breyer1938/#p-21
-    status: linked
-  note: null
-- n: 3
-  text: Wąsicki, Kolonizacja niemiecka w okresie Prus Południowych 1793-1806 (1953), p. 176
-  refs:
-  - source: wasicki1953
-    locator: p. 176
-    link: /literature/wasicki1953/#p-176
-    status: linked
-  note: null
-- n: 4
-  text: Chodyła, Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746-1793 (2015), p. 147
-  refs:
-  - source: chodyla2015
-    locator: p. 147
-    link: /literature/chodyla2015/#p-147
-    status: linked
-  note: that Chodyła's "Wrąbczyn" in this list is the colony and not the village is Claude's reading (the list is of colonies)
+footnotes: []
 review: []

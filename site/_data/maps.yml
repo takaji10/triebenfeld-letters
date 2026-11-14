@@ -1251,8 +1251,8 @@ mapadrogi1890:
     skipped: false
   - id: mapadrogi1890-008
     role: place
-    place: wrabczyn-gorski
-    place_name: Kolonia Wrąbczyn (Wrąbczyn Górski)
+    place: kolonia-wrabczyn
+    place_name: Kolonia Wrąbczyn
     name: null
     form: Колонія Вромбчинъ
     shows: village
@@ -1266,7 +1266,7 @@ mapadrogi1890:
     lat: 52.179928
     lon: 17.827287
     refs: []
-    sort_name: Kolonia Wrąbczyn (Wrąbczyn Górski)
+    sort_name: Kolonia Wrąbczyn
     letter: null
     from: null
     to: null

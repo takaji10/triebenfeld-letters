@@ -3826,6 +3826,7 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   given it away. After an import, read the label list for two labels on
   one place, and for a "Kolonia"/"Holendry"/"Olędry" form on an entry of
   another kind; put each to the editor before the map is called finished.
+- **Do not merge two places on a guess from one map** (2026-11-14): Kolonia Wrąbczyn was merged into Wrąbczyn Górski at the editor's yes, and the editor undid it hours later after reading Trójwiorstówki 1914, where the two lie in different places. A later map can overturn an identification made on an earlier one; keep two entries until a map shows the same spot, and say in the text what the place is not.
 - **Check a secondary work's quotation against the work it quotes.**
   Seidel (2018) quotes Breyer (1938) with "Kolonweiler [Wrombczyn]" where
   Breyer prints "Kolonie *Wrombczyn*": a name that exists only in a

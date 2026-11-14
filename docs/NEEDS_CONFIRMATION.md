@@ -2196,3 +2196,5 @@ place" (Pyzdry: "finden nicht statt"). Should the English read "[not]" in both?
 **Settled 2026-11-13:** "[not]" in both, and the transcription completed in
 square brackets the same way (units/agad14320139/notes.md, "The text
 completed").
+
+- **Kolonia Wrąbczyn is NOT Wrąbczyn Górski (the editor, 2026-11-14, later; this reverses the merge of the same morning).** On Trójwiorstówki 1914 the colony lies northwest of Wrąbczynek and Wrąbczyn Górski on the road from Wrąbczyn to Wrąbczynek. Two entries again; the colony's label on Mapa dróg 1890 points to `kolonia-wrabczyn`. **For the editor**: Wrąbczyn Górski's entry still says "northwest of Wrąbczyn" (their text, kept; the editor's index first finds it on Słupca 1957) and the colony's coordinates are those of its Mapa dróg 1890 label (an 830 m fit); both will be placed better when Trójwiorstówki 1914 is marked.
