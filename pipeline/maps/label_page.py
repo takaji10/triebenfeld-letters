@@ -333,6 +333,15 @@ function isDirty(){
   var n=editFields(cur), o=editOrig;
   return n.form!==o.form || n.note!==o.note || n.shows!==o.shows || n.height!==o.height;
 }
+function refreshShowsDisplay(){
+  // the Place field can still be filled in at step 3 (a place picked after the
+  // trace): the type the gazetteer fills in must show at once, not only in the
+  // label (the editor's report, 2026-11-14: Trąbczyn and Nowa Wieś "unsure")
+  var n=$("shows-now"); if(!n||!cur) return;
+  n.innerHTML='What the map shows here: <b>'+esc(cur.shows)+'</b>'+(cur.autoShows?' <span class="small">(from the gazetteer)</span>':'');
+  var b=$("shows-btns"); if(b) Array.prototype.forEach.call(b.querySelectorAll("button"),function(x){ x.className=(x.dataset.code===cur.shows?"on":""); });
+  setStatus(stepText());
+}
 function updateDirty(){ var b=$("b-savechg"); if(b) b.disabled=!isDirty(); setStatus(stepText()); }
 function revertEdit(){
   if(!cur || isDraft || !editOrig) return;
@@ -602,8 +611,8 @@ function renderWork(){
       // choosing another type than the gazetteer's swapped in a second row
       // of buttons that saved the label at the next click and moved on to
       // the next place, so the label seemed to vanish.
-      h+='<div class="step">What the map shows here: <b>'+esc(cur.shows)+'</b>'+(cur.autoShows?' <span class="small">(from the gazetteer)</span>':'')+'</div>';
-      h+='<div class="shows">';
+      h+='<div class="step" id="shows-now">What the map shows here: <b>'+esc(cur.shows)+'</b>'+(cur.autoShows?' <span class="small">(from the gazetteer)</span>':'')+'</div>';
+      h+='<div class="shows" id="shows-btns">';
       SHOWS.forEach(function(s){ h+='<button data-act="setshows" data-code="'+s[1]+'" class="'+(cur.shows===s[1]?"on":"")+'">'+esc(s[2])+'</button>'; });
       h+='</div>';
     } else if(step==="shows"){
@@ -655,6 +664,7 @@ function renderWork(){
       $("f-placeinfo").innerHTML=slug?"Place chosen: <b>"+esc(headingOf[slug])+"</b>"+(v!==headingOf[slug]&&placeMap[v]!==slug?" <span class='small'>(matched from your spelling)</span>":""):"No gazetteer place chosen.";
       if(!slug && cur.autoShows){ cur.shows="unsure"; cur.autoShows=false; }
       if(slug){ var ff=$("f-form"); var m=/^(.*) → /.exec(fp.value); var v=m?m[1]:headingOf[slug]; if(!ff.value||ff.dataset.auto){ff.value=v;ff.dataset.auto="1";cur.form=v;} autoShowsFor(slug); }
+      refreshShowsDisplay();
     };
   }
   var nn=$("f-newplace"); if(nn) nn.oninput=function(){cur.new_place=nn.value||null;};
