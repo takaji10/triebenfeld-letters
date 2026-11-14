@@ -90,7 +90,13 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
 5. **The labelling page.** `python pipeline/maps/label_page.py <map>`, then
    serve it: `python -m http.server 8765 --directory review/maps` and give
    the editor http://localhost:8765/<map>/. The page lists the names the
-   gazetteer already records for this map ("To find").
+   gazetteer already records for this map ("To find"). **The to-do list of
+   maps to mark** is `python pipeline/maps/label_index.py`
+   (review/maps/index.html, served on port 8780 by the `map-labelling`
+   configuration of .claude/launch.json): a new map gets a row in its
+   `ORDER`, and a map leaves the list by itself once the register on
+   origin/main has `in_project: true` for it (the editor, 2026-11-14) -
+   run it after every publish that carries a map.
 6. **The marks.** `python pipeline/maps/import_labels.py <map>
    <saved file>`: checks the file, writes `maps/<map>/labels.yml`, cuts the
    crops of the lettering into `site/assets/maps/crops/<map>/`, and links

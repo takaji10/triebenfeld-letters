@@ -3758,13 +3758,15 @@ pages at 390, 360 and 320 px, served from `site/_site`, measuring
   (`review/` and `scratch/` are not committed), whose git link later broke,
   so the main checkout had only three sheets. To pick the marking up again:
   `python pipeline/maps/label_page.py <map>` for each map, then
-  `python scratch/maps_bulk/build_index.py` (copied into this checkout's
-  scratch), then serve `review/maps` on **port 8780**, the port the editor
+  `python pipeline/maps/label_index.py` (the to-do list; moved out of
+  scratch into the pipeline 2026-11-14), then serve `review/maps` on
+  **port 8780**, the port the editor
   marked on: the browser keeps unsaved work per site and port, so a
   different port shows empty sheets. `.claude/launch.json` has the
-  configuration `map-labelling`. The index does not yet mark which sheets
-  are imported (mapadrogi1890 and pelzucki1901 are), and Łukom 1766 is not
-  in it (its page is http://localhost:8780/lukom1766/).
+  configuration `map-labelling`. The to-do list leaves out every map
+  published with `in_project: true` (it reads the register on
+  origin/main), so run it again after each publish; Łukom 1766 has its row
+  since 2026-11-14.
 - **"The map tiles did not load (HTTP 503 ...)" is GitHub Pages, not the
   tiles (2026-11-14).** The editor saw it on the published Mapa dróg 1890;
   the same info.json answered 200 a few minutes later and the page opened.
