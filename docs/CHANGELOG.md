@@ -6141,4 +6141,8 @@ sources-icon.html`).
   "They sue him" (both languages).
 - `docs/HOUSE_STYLE.md`: new section "Name the subject; do not point back";
   "Concision" now defers to it.
+- `docs/HOUSE_STYLE.md`, "Name the subject": the editor's example of what not
+  to write ("this is its archive"), the sentence made only of pointers, with
+  two more from the holdings' pages; 15 of the 54 holdings' opening
+  paragraphs have the "... It is ..." pattern (offered to the editor).
 

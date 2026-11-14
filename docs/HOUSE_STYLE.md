@@ -118,6 +118,36 @@ NO   ... contracts his family never signed. They sue him in 1859.
 YES  ... contracts his family never signed. The colonists sue him in 1859.
 ```
 
+**The worst case: a sentence made only of pointers.** The editor, 2026-11-14,
+of the homepage's old second sentence: "'this is its archive' - a terrible
+sentence that requires the reader to do mental gymnastics to decipher the
+statement. Avoid these kinds of statements." In "This is its archive" every
+word that carries meaning is a pointer: "this" (the website? the page? the
+paragraph?), "its" (Trąbczyn, two sentences back) and "archive" (used in a
+sense the reader has to work out). A sentence whose subject, object and
+meaning all have to be fetched from elsewhere says nothing on its own. Write
+the things themselves:
+
+```
+NO   This is its archive.
+YES  Traces in the Sand is an archive of the documents written about
+     Trąbczyn and the land around it.
+
+NO   One document of three pages in a book of the municipal court of Kalisz
+     for 1771 ... It is the delivery of possession by which ...
+YES  A book of the municipal court of Kalisz for 1771 records, on three
+     pages, the delivery of possession by which ...
+
+NO   It is the edition's last account of the parish under the Prusimski
+     family.          [after a sentence about Prussia and the Prince]
+YES  The visitation of 1790-1791 is the last account of the parish of
+     Trąbczyn while the Prusimski family still owned it.
+```
+
+The same goes for sentences that begin "It is", "This is", "These are",
+"Here is" or "That was" and only then say what they are about: begin with
+the thing.
+
 ## The documents first
 
 The editor, 2026-10-20: "All facts must be first verified against
