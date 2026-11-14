@@ -891,6 +891,294 @@ kozlowski1861:
           pattern: wet
           ink: '#8499ae'
   orig_lang: pl
+lukom1766:
+  slug: lukom1766
+  cited_as: Łukom 1766
+  title: Plan dóbr Łukom
+  title_en: Plan of the Łukom estate
+  title_de: null
+  maker: null
+  scale: null
+  year: 1766
+  kind: estate
+  kind_en: Estate plan
+  kind_de: Gutsplan
+  holder: Archiwum Główne Akt Dawnych, Warsaw (AGAD)
+  reference: 1/407/0/-/283, sheet 29
+  url: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17930967
+  tiles: https://takaji10.github.io/triebenfeld-maps/lukom1766/info.json
+  warp: https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766
+  sat_warp: null
+  view_rotation: 0
+  width: 8808
+  height: 7052
+  rms_m: 251.11
+  n_labels: 11
+  n_places: 10
+  labels:
+  - id: lukom1766-002
+    role: place
+    place: budy
+    place_name: Budy
+    name: null
+    form: Budy do Huty
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 4534
+    - 3402
+    crop: /assets/maps/crops/lukom1766/lukom1766-002.jpg
+    lat: 52.118064
+    lon: 17.813468
+    refs: []
+    sort_name: Budy
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-004
+    role: place
+    place: gradzyn
+    place_name: Grądzeń
+    name: null
+    form: Grązien
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 4665
+    - 2332
+    crop: /assets/maps/crops/lukom1766/lukom1766-004.jpg
+    lat: 52.108183
+    lon: 17.810068
+    refs: []
+    sort_name: Grądzeń
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-006
+    role: place
+    place: huta-lukomska
+    place_name: Huta Łukomska
+    name: null
+    form: Huta
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 3776
+    - 3585
+    crop: /assets/maps/crops/lukom1766/lukom1766-006.jpg
+    lat: 52.119071
+    lon: 17.82388
+    refs: []
+    sort_name: Huta Łukomska
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-009
+    role: place
+    place: imielno
+    place_name: Imielno
+    name: null
+    form: Dezerta Jemielno
+    shows: other
+    shows_en: Other
+    shows_de: Sonstiges
+    note: null
+    point:
+    - 773
+    - 5389
+    crop: /assets/maps/crops/lukom1766/lukom1766-009.jpg
+    lat: 52.133148
+    lon: 17.866793
+    refs: []
+    sort_name: Imielno
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-012
+    role: place
+    place: lomow
+    place_name: Łomów
+    name: null
+    form: Łomaw
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 1567
+    - 3897
+    crop: /assets/maps/crops/lukom1766/lukom1766-012.jpg
+    lat: 52.119937
+    lon: 17.853882
+    refs: []
+    sort_name: Łomów
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-014
+    role: place
+    place: lukom
+    place_name: Łukom
+    name: null
+    form: Łukom
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 2623
+    - 4947
+    crop: /assets/maps/crops/lukom1766/lukom1766-014.jpg
+    lat: 52.130734
+    lon: 17.841388
+    refs: []
+    sort_name: Łukom
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-016
+    role: place
+    place: myszakow
+    place_name: Myszaków
+    name: null
+    form: Myszaków
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 5701
+    - 5586
+    crop: /assets/maps/crops/lukom1766/lukom1766-016.jpg
+    lat: 52.139565
+    lon: 17.801238
+    refs: []
+    sort_name: Myszaków
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-018
+    role: place
+    place: rosciszewo
+    place_name: Rosciszewo
+    name: null
+    form: Rosciszew
+    shows: folwark
+    shows_en: Folwark
+    shows_de: Vorwerk
+    note: null
+    point:
+    - 2141
+    - 580
+    crop: /assets/maps/crops/lukom1766/lukom1766-018.jpg
+    lat: 52.08946
+    lon: 17.841099
+    refs: []
+    sort_name: Rosciszewo
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-020
+    role: place
+    place: stawisko
+    place_name: Stawisko
+    name: null
+    form: Brod Kaliski
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 678
+    - 3582
+    crop: /assets/maps/crops/lukom1766/lukom1766-020.jpg
+    lat: 52.116166
+    lon: 17.865277
+    refs: []
+    sort_name: Stawisko
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-022
+    role: place
+    place: studzianka
+    place_name: Studzianka
+    name: null
+    form: Studzienka
+    shows: village
+    shows_en: Village
+    shows_de: Dorf
+    note: null
+    point:
+    - 392
+    - 886
+    crop: /assets/maps/crops/lukom1766/lukom1766-022.jpg
+    lat: 52.090697
+    lon: 17.864944
+    refs: []
+    sort_name: Studzianka
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  - id: lukom1766-024
+    role: place
+    place: null
+    place_name: null
+    name: Tres mansi Conventûs Landensis
+    form: Tres Mansi Conventûs Landensis
+    shows: field
+    shows_en: Field
+    shows_de: Flur
+    note: 'Three mansi of land at Łukom belonging to the Cistercian convent (abbey) of Ląd: the farms
+      the abbey held there, which the privileges of 1447 and 1461 (the Ląd copy-book) confirm.'
+    point:
+    - 476
+    - 4818
+    crop: /assets/maps/crops/lukom1766/lukom1766-024.jpg
+    lat: 52.127534
+    lon: 17.869882
+    refs:
+    - source: lad-copybook
+      locator: 14-15
+      link: /documents/app5314550221/3/#p1
+      quote: the king's confirmation of 1447 of the purchase of three mansi of Łukom
+    - source: lad-copybook
+      locator: 13-14
+      link: /documents/app5314550221/2/#p1
+      quote: the privilege of 1461, "Privilegium Gradziem"
+    sort_name: Tres Mansi Conventûs Landensis
+    letter: null
+    from: null
+    to: null
+    n: null
+    skipped: false
+  orig_lang: pl
 mapadrogi1890:
   slug: mapadrogi1890
   cited_as: Mapa dróg 1890

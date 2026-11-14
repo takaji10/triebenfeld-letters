@@ -1140,7 +1140,7 @@ The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
       Conventûs Landensis* added; two-line names handled).
 - [x] Your bands set and the marks imported again (2026-10-23): eleven
       labels, all crops whole.
-- [ ] **You:** re-mark Łukom 1766 on the archive's JPG (2026-11-06, your
+- [x] (done 2026-11-14: eleven marks imported, mark-only fit RMS 251 m, `in_project: true`) **You:** re-mark Łukom 1766 on the archive's JPG (2026-11-06, your
       word: the JPG as drawn is the map, "not the rotated image") - the
       labelling page http://localhost:8765/lukom1766/ serves it. The north-up
       PNG you georeferenced proved a different raster (no transform carries

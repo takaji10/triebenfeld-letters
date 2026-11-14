@@ -78,7 +78,7 @@ maps:
     height: 7052
     crop: null          # [left, top, width, height] in original pixels; null for the whole map
     tiles: "https://takaji10.github.io/triebenfeld-maps/lukom1766/info.json"
-    in_project: false   # the map of record changed to the JPG (2026-11-06); re-marking pending
+    in_project: true    # re-marked on the JPG by the editor, imported 2026-11-14
   vonpfau1770:
     cited_as: "von Pfau 1770"
     year: 1770

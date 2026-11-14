@@ -1235,7 +1235,14 @@ Twenty maps brought in at the editor's word in one sitting (the register's
 entries on the branch `maps-bulk-2026-11`; the labelling pages follow). The
 questions the batch leaves:
 
-- **Łukom 1766 re-backed onto the JPG — the editor's re-marking is the open
+- **Łukom 1766 marked on the JPG and imported (2026-11-14).** The inscription
+  *Tres mansi Conventûs Landensis* carries a note (the convent of Ląd's farms at
+  Łukom) and links the Ląd copy-book's charters of 1447 and 1461. **For the
+  editor**: the Kodeks decree they meant. The eight volumes on J: hold no entry
+  on three mansi at Łukom (searched for Łukom and Grądzień near mansi and Ląd);
+  the 21 entries of the edition's `kdw` do not either. Which entry (volume and
+  number), or is the copy-book's pair the right link?
+- **(Earlier, now done) Łukom 1766 re-backed onto the JPG — the editor's re-marking was the open
   piece (2026-11-06)**: the map of record changed to the archive's JPG as
   drawn (`1_407_0_0_283-29_0001.jpg`, the editor's word), which proved a
   DIFFERENT RASTER from the north-up PNG they had georeferenced — no

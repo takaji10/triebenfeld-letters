@@ -6303,3 +6303,15 @@ sources-icon.html`).
   never showed there); "Other labels" shows the type too. All sheets
   rebuilt; tested on port 8791 (type, choose, save, cancel, leave), the
   test storage cleared.
+
+## 2026-11-14 (evening) - Łukom 1766 marked on the JPG and imported (branch `trampczynski-family`, not published)
+
+- The editor's eleven marks (ten places and the inscription *Tres mansi
+  Conventûs Landensis*) imported; the inscription had no `new_place` in the saved
+  file, so a copy with it filled in was imported. Mark-only fit RMS 251 m over 4
+  points, 11 positions, `in_project: true`, map pages built, gazetteer check and
+  verify_site pass (69 562 links). The inscription's note says what it refers to
+  (the Ląd convent's farms at Łukom) and it links the 1447 and 1461 charters of
+  the Ląd copy-book; the Kodeks decree the editor mentioned was not found in the
+  volumes (NEEDS_CONFIRMATION). The mobile check could not start (Edge failed to
+  launch in the crawler).

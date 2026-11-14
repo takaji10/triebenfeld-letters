@@ -118,11 +118,11 @@ budy:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Budy do Huty
     note: null
-    label: null
-    crop: null
+    label: lukom1766-002
+    crop: /assets/maps/crops/lukom1766/lukom1766-002.jpg
     refs: []
   - map: hollring1804
     cited_as: Hollring 1804
@@ -161,6 +161,9 @@ budy:
     crop: null
     refs: []
   maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-002
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-028
@@ -447,11 +450,11 @@ gradzyn:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Grązien
     note: null
-    label: null
-    crop: null
+    label: lukom1766-004
+    crop: /assets/maps/crops/lukom1766/lukom1766-004.jpg
     refs: []
   - map: perthees1798
     cited_as: Perthées 1798
@@ -498,17 +501,20 @@ gradzyn:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-004
 huta-lukomska:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Huta
     note: null
-    label: null
-    crop: null
+    label: lukom1766-006
+    crop: /assets/maps/crops/lukom1766/lukom1766-006.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -537,7 +543,10 @@ huta-lukomska:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-006
 huta-trabczynska:
   appearances:
   - map: richter1843
@@ -606,11 +615,11 @@ imielno:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Dezerta Jemielno
     note: 'shown as deserted (the entry: "dezerta is Polish for an abandoned place")'
-    label: null
-    crop: null
+    label: lukom1766-009
+    crop: /assets/maps/crops/lukom1766/lukom1766-009.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -621,7 +630,10 @@ imielno:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-009
 jeziorko:
   appearances:
   - map: richter1843
@@ -963,11 +975,11 @@ lomow:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Lomaw
     note: null
-    label: null
-    crop: null
+    label: lukom1766-012
+    crop: /assets/maps/crops/lukom1766/lukom1766-012.jpg
     refs: []
   - map: vonpfau1770
     cited_as: von Pfau 1770
@@ -1015,6 +1027,9 @@ lomow:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-026.jpg
     refs: []
   maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-012
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-026
@@ -1047,11 +1062,11 @@ lukom:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Lukom
     note: null
-    label: null
-    crop: null
+    label: lukom1766-014
+    crop: /assets/maps/crops/lukom1766/lukom1766-014.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -1090,6 +1105,9 @@ lukom:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-020.jpg
     refs: []
   maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-014
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-020
@@ -1314,11 +1332,11 @@ myszakow:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Myszaków
     note: null
-    label: null
-    crop: null
+    label: lukom1766-016
+    crop: /assets/maps/crops/lukom1766/lukom1766-016.jpg
     refs: []
   - map: vonpfau1770
     cited_as: von Pfau 1770
@@ -1348,6 +1366,9 @@ myszakow:
     crop: null
     refs: []
   maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-016
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-022
@@ -1683,11 +1704,11 @@ rosciszewo:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Rosciszew
     note: null
-    label: null
-    crop: null
+    label: lukom1766-018
+    crop: /assets/maps/crops/lukom1766/lukom1766-018.jpg
     refs: []
   - map: vonpfau1770
     cited_as: von Pfau 1770
@@ -1725,7 +1746,10 @@ rosciszewo:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-018
 rydlowa-gora:
   appearances:
   - map: messtischblatt1940
@@ -1860,11 +1884,11 @@ stawisko:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Brod Kaliski
     note: the swamp crossing west of Stawisko, not Stawisko itself
-    label: null
-    crop: null
+    label: lukom1766-020
+    crop: /assets/maps/crops/lukom1766/lukom1766-020.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -1885,17 +1909,20 @@ stawisko:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-020
 studzianka:
   appearances:
   - map: lukom1766
     cited_as: Łukom 1766
     year: 1766
-    in_project: false
+    in_project: true
     form: Studzienka
     note: null
-    label: null
-    crop: null
+    label: lukom1766-022
+    crop: /assets/maps/crops/lukom1766/lukom1766-022.jpg
     refs: []
   - map: pelzucki1896
     cited_as: Pełzucki 1896
@@ -1907,6 +1934,9 @@ studzianka:
     crop: /assets/maps/crops/pelzucki1896/pelzucki1896-006.jpg
     refs: []
   maps_on_site:
+  - map: lukom1766
+    cited_as: Łukom 1766
+    label: lukom1766-022
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     label: pelzucki1896-006

@@ -12,3 +12,14 @@
 # docs/ADDING_A_MAP.md step 7), like zagorow1841.
 map: lukom1766
 gcps: []
+fit:
+  transformation: polynomial
+  order: 1
+  n: 4
+  rms_m: 251.11
+  inverse_rms_px: 244.1
+  residuals_m:
+    mk-lukom1766-002: 125.15
+    mk-lukom1766-012: 292.51
+    mk-lukom1766-014: 345.41
+    mk-lukom1766-016: 178.05

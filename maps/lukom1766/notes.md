@@ -150,3 +150,23 @@ The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Lomaw*, cor
 - The editor's next marks, and the next map at their choice, by
   `docs/ADDING_A_MAP.md`; each new map gets its card and its page from
   `pipeline/maps/map_pages.py`.
+
+## Re-marked on the JPG and imported (2026-11-14)
+
+The editor's eleven marks on the archive's JPG (`labels_lukom1766_20261114-1219.json`):
+ten places of the gazetteer and the inscription *Tres mansi Conventûs Landensis*.
+The saved file had no `new_place` on the inscription (label lukom1766-024), so the
+import was run from a copy with it filled in (the saved file in Downloads is
+untouched). Mark-only fit: four marks have coordinates and joined the fit (RMS
+251 m, the class of a 1766 estate plan); the other places are placed by their
+labels. `in_project: true`.
+
+**The inscription** is no place entry (the editor's word, 2026-11-14): it marks an
+area of farms the Cistercian convent of Ląd held at Łukom. Its note says so and it
+links the two charters it rests on, the king's confirmation of 1447 and the
+privilege of 1461 (the Ląd copy-book, `app5314550221` documents 3 and 2). The editor
+asked for a link to a decree of the Kodeks Dyplomatyczny Wielkopolski: the edition's
+Kodeks entries (21) do not carry the three mansi, and a search of the eight volumes
+on J: for Łukom and Grądzień with mansi or Ląd found no such entry (only the 1240
+tithes, kdw 2, which names Łukom without mansi). Asked of the editor
+(NEEDS_CONFIRMATION).
