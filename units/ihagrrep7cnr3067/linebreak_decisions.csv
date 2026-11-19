@@ -20,22 +20,3 @@
 1,2,80,81,¬,ent,blößte,entblößte,join,high,"joined form attested in DWDS (41,646 hits)",False,0,41646,0,,1,,mündige und von allem eignen Vermögen ent¬ || blößte Tochter aus den confiscirten Gütern
 1,2,84,85,¬,ge,meldet,gemeldet,join,high,"joined form attested in DWDS (6,055,570 hits)",False,0,6055570,0,,1,, auf die ergangenen Edictal-Citationen ge¬ || meldet haben.
 1,2,88,90,,die,die,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,die || die jetzt festgesetzten Principia Rücksich
-3,1,117,118,¬,lebenswie,rige,lebenswierige,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"gegen welche auf Todes-lebenswie¬ || rige, oder langwierige Vestungs¬"
-3,1,118,119,¬,Vestungs,Strafe,VestungsStrafe,join,high,head is not a word on its own,False,0,0,0,0,11,,"rige, oder langwierige Vestungs¬ || Strafe erkannt worden."
-3,2,130,131,¬,Domesti,ken,Domestiken,join,high,"joined form attested in DWDS (1,963 hits)",False,0,1963,0,,1,,Ueberfall der Stadt Wraclawec die Domesti¬ || ken der Domherren gegen das Militair angef
-3,2,139,140,¬,Wrac,lawek,Wraclawek,join,high,head is not a word on its own,False,0,0,0,11,1,,egnahme des Artillerie Transports in Wrac¬ || lawek vorzüglich thätig gewesen und mehrer
-3,2,151,152,¬,Krieg,Commission,KriegCommission,split,high,joined form unattested; both halves are real words,False,0,0,0,4769390,4,20306,Insurgentischen Ordnungs und Krieg¬ || Commission vorzüglich thätig erwiesen
-3,2,173,174,¬,Geist,lichen,Geistlichen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Wegen Mißbrauchs seines Geist¬ || lichen Amts zur Beförderung der
-3,2,188,189,¬,ver,übten,verübten,join,high,"joined form attested in DWDS (28,582 hits)",False,0,28582,0,,1,,nahme an der Insurrektion und ver¬ || übten Straßenraubes
-3,2,194,195,¬,Insur,genten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,,"Weil er bey der Flucht von den Insur¬ || genten, einen Husaren, der ihn exa¬"
-3,2,195,196,¬,exa,miniren,examiniren,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,8,0,4261,1,10,"genten, einen Husaren, der ihn exa¬ || miniren wollen, tödtlich verwundet"
-3,2,201,202,¬,Theil,nahme,Theilnahme,join,high,joined form occurs elsewhere in this corpus,False,5,,4,,3,,Wegen vorzüglich thätiger Theil¬ || nahme an der Insurrektion
-3,3,215,216,¬,Insurgen,ten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,5,,Stadt Rypin durch die Insurgen¬ || ten mit beygewohnt
-3,3,226,227,¬,Insur,rektion,Insurrektion,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,"Weil er nach Auflösung der Insur¬ || rektion, sich zu einer Räuberbande"
-3,3,228,229,¬,Räu,bereyen,Räubereyen,join,high,head is not a word on its own,False,0,6,0,206,1,,"geschlagen, und an verschiedenen Räu¬ || bereyen Theil genommen."
-3,3,251,252,¬,freywil,lig,freywillig,join,high,head is not a word on its own,False,0,80,0,0,1,,"Weil er, obwohl nicht ganz freywil¬ || lig, General der Lenczycschen"
-3,3,285,286,¬,Insur,rektion,Insurrektion,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,Wegen Theilnahme an der Insur¬ || rektion und verübter Plünderungen
-3,3,292,293,¬,Insur,genten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,,Amts zur Beförderung der Insur¬ || genten.
-3,3,298,299,¬,Con,foederation,Confoederation,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,13,0,96931,1,2210,Weil er Präsident bey der Con¬ || foederation von Wielun und
-3,3,305,306,¬,Insur,rektion,Insurrektion,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,Wegen Theilnahme an der Insur¬ || rektion und Verdacht der Ermor¬
-3,3,306,307,¬,Ermor,dung,Ermordung,join,high,"joined form attested in DWDS (216,348 hits)",False,0,216348,0,,1,,rektion und Verdacht der Ermor¬ || dung eines Juden

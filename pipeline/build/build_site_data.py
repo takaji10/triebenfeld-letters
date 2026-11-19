@@ -675,6 +675,15 @@ def main():
             # numbered entries only: a page's own total has no number
             _entries = [row[0].strip() for row in tbl['pages'].get(p['page'], [])
                         if row and row[0].strip()] if _table else []
+            # Entry numbers written with a stop ("12,", the list of the
+            # condemned, Nr. 3067, 3) are given without it; where such a
+            # page's numbering starts again (its sections A, B, C each count
+            # from 1) no range is given at all (None). Every other table
+            # keeps its label as it was.
+            _nums = [unitlib.entry_number(e) for e in _entries]
+            if any(n is not None and n != e for n, e in zip(_nums, _entries)):
+                _entries = (_nums if None not in _nums and _nums == sorted(_nums, key=int)
+                            and len(set(_nums)) == len(_nums) else None)
             body.append(f'<section class="ms-page" id="p{p["page"]}" '
                         f'data-page="{p["page"]}" '
                         f'data-lines="{p["doc_line_start"]}-{p["doc_line_end"]}">')
@@ -683,7 +692,7 @@ def main():
                 # manuscript; a paragraph transcription has no such lines, so a
                 # range there ("lines 4-4") says nothing (editor, 2026-10-29).
                 _where = (f'entries {_entries[0]}-{_entries[-1]}' if _entries else
-                          '' if p.get('by_paragraph') else
+                          '' if _entries is None or p.get('by_paragraph') else
                           f'lines {p["doc_line_start"]}-{p["doc_line_end"]}')
                 body.append(
                     f'<div class="page-rule"><span class="page-no">Page {p["page"]}</span>'

@@ -32,6 +32,13 @@ documents:
     "2": royal_resolution
     "3": register
 
+  # The list is a table since 2026-11-19, from the editor's spreadsheet
+  # (intake/table_from_xlsx.py, intake/table.csv, build_pages.py TABLE). Its
+  # offence, length and month columns are words, not figures.
+  tables: ["3"]
+  table_text_columns:
+    "3": [3, 4, 5]
+
   duplicate_of: {}
   split_note: {}
 

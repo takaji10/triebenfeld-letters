@@ -36,13 +36,25 @@ leaf; 0006 and 0008 are openings, cut at the fold on the binding thread by
   both languages), 0006_a2 from line 10: the King's decision, "Fr. Wilhelm / d 16
   Februariy 1797". A decision written on the paper it answers is its own
   document (NEW_UNIT, "A file the office wrote on").
-- **3, register**, 0007_a to 0008_a2: the list. Kept line by line as the
-  editor transcribed it, cell by cell (number, name, offence, length,
-  beginning), as a register; not made into a table, since `render_table`
-  sets every cell after the name as a figure. Its date is inferred from the
-  promemoria, whose enclosure it is ("nach der beyliegenden Liste"). Two other
-  registers (Oe 1 Bü 14525, documents 13 and 14) also keep their line-end "¬"
-  in the reading.
+- **3, register**, 0007_a to 0008_a2: the list, **a table since
+  2026-11-19**. At first it was kept line by line, as the editor's text file
+  has it, because `render_table` set every cell after the name as a figure;
+  the editor then pointed to their own table of it,
+  `Downloads\I_HA_Rep_7_C_Nr_3067_tables.xlsx` ("It should already be in
+  table format"), which the first session had not looked for. Now:
+  `intake/table_from_xlsx.py` turns the spreadsheet into `intake/table.csv`
+  (one sheet per block of 0008; A and B, written there as running text, split
+  into number, name and offence; C 20 and 21, one row there, two here), and
+  `build_pages.py` (TABLE) fills each cell with the corrected words of the
+  page, every word placed exactly once. In a cell the line ends are spaces and
+  a broken word keeps its "¬" joined ("Geist¬lichen"); the list's line-end
+  decisions lapsed. The braces of the page (A 1 and 2 share one offence; C 20
+  and 21 one offence and one month) are given once, in the first row. Columns
+  3 to 5 (offence, length, month) are text columns (`table_text_columns` in
+  rulings.yml), the short two kept on one line; the column heads repeated on
+  0008_a2 are shown once over each page. The English is the same table
+  (`intake/translation/doc3_table.py`). Its date is inferred from the
+  promemoria, whose enclosure it is ("nach der beyliegenden Liste").
 
 The promemoria counts 3 sentenced to death and 2 for life; the list has 2
 under A (death) and 3 under B (life), Nowicki among B with "zum Galgen

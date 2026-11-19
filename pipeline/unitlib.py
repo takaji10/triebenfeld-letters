@@ -363,8 +363,14 @@ def load_tables(unit):
     if not os.path.isfile(unit.rulings_path):
         return {}
     with open(unit.rulings_path, encoding='utf-8') as f:
-        wanted = ((yaml.safe_load(f) or {}).get('documents') or {}).get('tables') or []
-    wanted = {str(x) for x in wanted}
+        _docs = (yaml.safe_load(f) or {}).get('documents') or {}
+    wanted = {str(x) for x in (_docs.get('tables') or [])}
+    # Columns that hold words, not figures (documents: table_text_columns:
+    # {"3": [3, 4, 5]}, counted from 1): set left and wrapping, and the
+    # English table may translate them (the list of the condemned, I. HA GR,
+    # Rep. 7 C, Nr. 3067, 3: the offence, the length, the month; 2026-11-19).
+    text_cols = {str(k): {int(c) - 1 for c in v}
+                 for k, v in (_docs.get('table_text_columns') or {}).items()}
     if not wanted or not os.path.isfile(unit.corpus_path):
         return {}
 
@@ -389,8 +395,19 @@ def load_tables(unit):
         raise SystemExit(f'{unit.slug}: rulings list {missing} as tables, '
                          f'but corpus.txt has no such document')
 
-    return {lid: table_of({i: ls for i, ls in enumerate(plines, 1) if ls})
-            for lid, plines in doc_pages.items()}
+    out = {lid: table_of({i: ls for i, ls in enumerate(plines, 1) if ls})
+           for lid, plines in doc_pages.items()}
+    for lid, t in out.items():
+        if text_cols.get(lid):
+            t['text_cols'] = text_cols[lid]
+    return out
+
+
+def entry_number(cell):
+    """The entry number a table's first cell holds, or None: "12", and "12,"
+    or "12." where the clerk wrote it with a stop (Nr. 3067, 3)."""
+    m = re.fullmatch(r'(\d+)[,.]?', (cell or '').strip())
+    return m.group(1) if m else None
 
 
 def table_of(page_lines):
@@ -400,7 +417,7 @@ def table_of(page_lines):
     translation, which comes back from the translator in the same shape.
     """
     def is_entry(r):
-        return bool(r) and r[0].strip().isdigit()
+        return bool(r) and entry_number(r[0]) is not None
 
     pages = {pg: list(csv.reader(ls)) for pg, ls in page_lines.items() if ls}
     allrows = [(pg, r) for pg in sorted(pages) for r in pages[pg]]
@@ -439,7 +456,19 @@ def table_of(page_lines):
     head = [r for _, r in allrows[:first]]
     foot = [r for _, r in allrows[last + 1:]]
     body = {}
+    # A later page that repeats the column heads (the list of the condemned,
+    # Nr. 3067, 3, on its second side): the heads are shown over every page
+    # already, so the repeat is not set as a row of the body. Compared
+    # without a closing full stop, which the clerk gives one time and not the
+    # other.
+    def norm(r):
+        return [c.strip().rstrip('.') for c in r]
+    heads = [norm(r) for r in head if any(c.strip() for c in r[2:])]
+    repeated = {}
     for pg, r in allrows[first:last + 1]:
+        if heads and not is_entry(r) and norm(r) in heads:
+            repeated.setdefault(pg, []).append(r)
+            continue
         body.setdefault(pg, []).append(r)
     # Where the heading and the closing rows stand. In most tables the heading
     # opens the first page of entries and the closing rows end the last; in a
@@ -453,8 +482,11 @@ def table_of(page_lines):
         foot_pages.setdefault(pg, []).append(r)
     # The title sits in the first header row, over the name column.
     caption = head[0][1].strip() if head and len(head[0]) > 1 else ''
-    return {'caption': caption, 'head': head, 'pages': body, 'foot': foot,
-            'head_pages': head_pages, 'foot_pages': foot_pages}
+    out = {'caption': caption, 'head': head, 'pages': body, 'foot': foot,
+           'head_pages': head_pages, 'foot_pages': foot_pages}
+    if repeated:
+        out['repeated_head'] = repeated
+    return out
 
 
 def table_page_numbers(tbl):
@@ -495,7 +527,7 @@ def render_table(tbl, page_no):
     # whole, not page by page: a closing page of a numbered table carries no
     # numbers of its own (the Łazińsk table of apl399806603, caught by the
     # before-and-after check, 2026-10-26).
-    has_no_col = any(r[0].strip().isdigit()
+    has_no_col = any(entry_number(r[0]) is not None
                      for r in head + foot
                      + [r for rs in tbl['pages'].values() for r in rs])
     ncol = max(len(r) for r in head + foot + rows)
@@ -503,13 +535,22 @@ def render_table(tbl, page_no):
     def pad(r):
         return (list(r) + [''] * ncol)[:ncol]
 
+    # A text column whose every cell is short (the length of a sentence, a
+    # month) is kept on one line; the long ones (the offence) wrap.
+    _body = [pad(r) for rs in tbl['pages'].values() for r in rs]
+    short = {k for k in (tbl.get('text_cols') or ())
+             if max((len(r[k].strip()) for r in _body), default=0) <= 16}
+
     def cells(r, tag):
         r = pad(r)
         first = (f'<{tag} class="no">{html.escape(r[0].strip())}</{tag}>' if has_no_col else
                  f'<{tag} class="name">{html.escape(r[0].strip())}</{tag}>')
+        text = tbl.get('text_cols') or ()
         return (first +
                 f'<{tag} class="name">{html.escape(r[1].strip())}</{tag}>'
-                + ''.join(f'<{tag} class="num">{html.escape(c.strip())}</{tag}>' for c in r[2:]))
+                + ''.join(f'<{tag} class="{("text short" if k in short and tag == "td" else "text") if k in text else "num"}">'
+                          f'{html.escape(c.strip())}</{tag}>'
+                          for k, c in enumerate(r[2:], 2)))
 
     # The title: the first heading row's name cell, unless that row labels
     # the number column too (a row of column labels, "Jahr", "Wirte:",
@@ -547,7 +588,8 @@ def render_table(tbl, page_no):
                 if taken[i][j]:
                     j += 1
                 elif i == n - 1:
-                    ths.append(f'<th class="num">{html.escape(r[j].strip())}</th>')
+                    _cls = 'text' if j in (tbl.get('text_cols') or ()) else 'num'
+                    ths.append(f'<th class="{_cls}">{html.escape(r[j].strip())}</th>')
                     j += 1
                 else:
                     # A group reaches over the blanks after it, inside the

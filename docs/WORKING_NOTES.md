@@ -4253,3 +4253,23 @@ first and a fine pass at their word. The files are in
   them. Reading the strongest candidate whole oneself still pays: the
   reader cited the deed's signature "Hoym. Goldbeck." but missed that
   3570-1 has Goldbeck laying all seven deeds of gift before the King.
+- **Look for the editor's own table before keeping a list as lines**
+  (2026-11-19): the list of the condemned was kept line by line because the
+  table code could not set words in its columns, while the editor had a
+  spreadsheet of it in Downloads (`I_HA_Rep_7_C_Nr_3067_tables.xlsx`, not in
+  the holding's folder). When a document is a table, search the editor's
+  folders for a `*table*` file and ask before settling for lines.
+- **Filling a table's cells from a corrected transcription**: place each
+  cell's words on the page's uncorrected words (first unused occurrence,
+  every word used exactly once), then carry the corrections across with
+  `difflib` opcodes into the cell that holds the word
+  (`units/ihagrrep7cnr3067/intake/build_pages.py`, `to_table`). The
+  spreadsheet and the text file were checked against each other word for
+  word in the same pass.
+- **verify_table_of_diff.py covers table_of and render_table, not the page
+  around them**: a change to the page rule's "entries 32-48" label in
+  build_site_data.py altered three other holdings' pages and passed it; only
+  `git status site/_letters` after the rebuild showed it. After any change
+  to the shared table code, read that list: only the holding being worked on
+  may appear. (The script also skips Pyzdry Gr.115 since the numberless
+  extension, which HEAD now has; a copy without the skip ran clean.)

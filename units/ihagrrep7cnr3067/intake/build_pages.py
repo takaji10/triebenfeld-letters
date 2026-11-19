@@ -27,11 +27,25 @@ CORRECTIONS are the readings changed against the scans after two Sonnet
 readers and Claude checked every line (notes.md, "The transcription
 checked"). The script checks that every source line is used exactly once and
 that every correction finds its text exactly once.
+
+The list (document 3, pages 0007_a, 0008_a1, 0008_a2) is a table since
+2026-11-19 (the editor: "It should already be in table format ... as
+I_HA_Rep_7_C_Nr_3067_tables.xlsx"): intake/table.csv, made from the editor's
+spreadsheet by table_from_xlsx.py, gives its rows and cells; TABLE below fills
+each cell with the corrected words of the page. Each cell is placed on the
+page's own words (the editor's text file and the spreadsheet hold the same
+words; every word must be used exactly once, or nothing is written), and the
+corrections carried into the cell that holds the word. Inside a cell the
+page's line ends become spaces; a word broken at a line end keeps its "¬",
+joined ("Geist¬lichen"). The list's line-end decisions in
+linebreak_decisions.csv lapse with it: a table's row is not a line.
 """
 import csv
+import difflib
 import io
 import json
 import os
+import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -120,6 +134,59 @@ CORRECTIONS = [
 ]
 
 
+TABLE_PAGES = ('0007_a', '0008_a1', '0008_a2')
+
+
+def table_rows():
+    rows = list(csv.DictReader(io.open(os.path.join(HERE, 'table.csv'), encoding='utf-8')))
+    out = {}
+    for r in rows:
+        out.setdefault(r['page'], []).append(
+            [r['no'], r['name'], r['offence'], r['length'], r['begin']])
+    return out
+
+
+def to_table(pid, raw_lines, new_lines, rows, problems):
+    """The page's corrected words, cell by cell, as CSV lines."""
+    raw = ' '.join(raw_lines).split()
+    new = ' '.join(new_lines).split()
+    owner = [None] * len(raw)
+    for ri, row in enumerate(rows):
+        for ci, cell in enumerate(row):
+            toks = cell.split()
+            if not toks:
+                continue
+            for st in range(len(raw) - len(toks) + 1):
+                if raw[st:st + len(toks)] == toks and \
+                        all(o is None for o in owner[st:st + len(toks)]):
+                    break
+            else:
+                problems.append(f'{pid}: cell {cell!r} not found on the page')
+                return None
+            for k in range(st, st + len(toks)):
+                owner[k] = (ri, ci)
+    if None in owner:
+        left = [raw[k] for k, o in enumerate(owner) if o is None]
+        problems.append(f'{pid}: words of the page in no cell: {left}')
+        return None
+    got = {}
+    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, raw, new, autojunk=False).get_opcodes():
+        if op == 'equal':
+            for i, j in zip(range(i1, i2), range(j1, j2)):
+                got.setdefault(owner[i], []).append(new[j])
+        elif op in ('replace', 'insert'):
+            at = owner[i1] if op == 'replace' else owner[i1 - 1]
+            if op == 'replace' and len({owner[i] for i in range(i1, i2)}) > 1:
+                problems.append(f'{pid}: a correction runs across two cells: {raw[i1:i2]}')
+            got.setdefault(at, []).extend(new[j1:j2])
+    buf = io.StringIO()
+    w = csv.writer(buf, lineterminator='\n')
+    for ri, row in enumerate(rows):
+        w.writerow([re.sub('¬ ', '¬', ' '.join(got.get((ri, ci), [])))
+                    for ci in range(len(row))])
+    return buf.getvalue().rstrip('\n').split('\n')
+
+
 def source(raw_dir):
     out = {}
     for f in sorted(os.listdir(raw_dir)):
@@ -175,6 +242,7 @@ def main():
     if sorted(src) != sorted(used_by_scan):
         problems.append('the source files and SPEC do not name the same scans')
     by_pid = {p[0]: p for p in pages}
+    raw_by_pid = {pid: list(lines) for pid, lines in pages}
     for pid, old, new, why in CORRECTIONS:
         text = '\n'.join(by_pid[pid][1])
         n = text.count(old)
@@ -182,6 +250,12 @@ def main():
             problems.append(f'{pid}: {old!r} found {n} times')
             continue
         by_pid[pid][1] = text.replace(old, new).split('\n')
+    # TABLE: the list of the condemned, cell by cell
+    trows = table_rows()
+    for pid in TABLE_PAGES:
+        lines = to_table(pid, raw_by_pid[pid], by_pid[pid][1], trows[pid], problems)
+        if lines is not None:
+            by_pid[pid][1] = lines
     if problems:
         sys.exit('NOT WRITTEN\n' + '\n'.join(problems))
     print(f'{len(src)} source files -> {len(pages)} pages, {len(bounds)} documents, '

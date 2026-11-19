@@ -84,9 +84,16 @@ def english_table(tbl_de, segs):
     except (StopIteration, ValueError):
         return None
 
+    text = tbl_de.get('text_cols') or set()
+    if text:
+        tbl['text_cols'] = text
+
     def figures(t):
+        # the name column and any text column are translated; the rest must
+        # come back as they stand
         rows = [r for pg in sorted(t['pages']) for r in t['pages'][pg]] + t['foot']
-        return [[c.strip() for k, c in enumerate(r) if k != 1] for r in rows]
+        return [[c.strip() for k, c in enumerate(r) if k != 1 and k not in text]
+                for r in rows]
 
     def heading(t):
         # The words of a heading are translated (Christen, Christians); what

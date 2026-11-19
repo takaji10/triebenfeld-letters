@@ -146,6 +146,14 @@ Oe 1 Bü 9454, document 303, the older one.
   The heading rows open the first page, one row for each level of the
   heading (a label stands over the blanks that follow it). A row with no
   number between the entries is a page's own total.
+- **A table with words in it** (the list of the condemned, I. HA GR, Rep. 7
+  C, Nr. 3067, 3, 2026-11-19): list the columns that hold words under
+  `documents: table_text_columns:` (`{"3": [3, 4, 5]}`, counted from 1) - they
+  are set left, the long ones wrap, and the English may translate them. An
+  entry number may carry the clerk's stop ("12,"). A later page that repeats
+  the column heads is not given them as a row of the body. **Before making
+  a table, look for the editor's own**: they may have one in another file
+  (here a spreadsheet in Downloads) beside the line-by-line text.
 - **Keep the reading in one file** (`intake/table.csv`) and make the page
   files, the corpus, the English and the checking spreadsheet from it with
   the holding's script.
