@@ -341,6 +341,22 @@
   when_de: Dezember 1796
   title_de: Prusimski in Venedig
   note_de: Krank und durch den Tod seiner Frau gebrochen, erreicht der enteignete Besitzer den preußischen Residenten in Venedig, der ihm bescheinigt, dass er nicht reisen könne; nach der späteren Darstellung seiner Tochter war das Attest für die Behörden bestimmt, die ihn aufgefordert hatten, seine Ausreise zu rechtfertigen.
+- date: '1797-02-16'
+  when: 16 February 1797
+  era: insurgency
+  title: The King refuses the insurgents a further pardon
+  note: Grand Chancellor Goldbeck reports on the trials of the South Prussian insurgents and proposes milder sentences, but advises that the confiscation of the fled ringleaders' estates stand, since most of them have already been disposed of; he names Prusimski, written "Prudzinski", among those ringleaders. Friedrich Wilhelm II writes beneath it that he finds none of the condemned worthy of a reduction.
+  sources:
+  - text: Goldbeck's promemoria
+    url: /documents/ihagrrep7cnr3067/1/
+    text_de: Goldbecks Promemoria
+  - text: the King's decision
+    url: /documents/ihagrrep7cnr3067/2/
+    text_de: die Entscheidung des Königs
+  kind: political
+  when_de: 16. Februar 1797
+  title_de: Der König verweigert den Insurgenten eine weitere Begnadigung
+  note_de: Großkanzler Goldbeck berichtet über die Verfahren gegen die südpreußischen Insurgenten und schlägt mildere Strafen vor, rät aber, die Konfiskation der Güter der geflohenen Haupträdelsführer bestehen zu lassen, da über sie größtenteils schon verfügt sei; unter diesen nennt er Prusimski, geschrieben „Prudzinski“. Friedrich Wilhelm II. schreibt darunter, er finde keinen der Verurteilten einer Minderung der Strafe würdig.
 - date: '1798-09-03'
   when: 3 September 1798
   era: insurgency

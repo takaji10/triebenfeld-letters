@@ -127,8 +127,10 @@ so check them.
   `royal_resolution`), and the enclosed list of the 31 condemned (a register).
   The editor's transcription checked by four Sonnet readers and Claude (23
   corrections); translated, summarised and claim-checked in session; era
-  `hohenlohe`. The spot sheet answered and applied the same day. Open: the
-  questions in NEEDS_CONFIRMATION (the reference's GR, the era, person entries,
+  `hohenlohe`. The spot sheet answered and applied the same day, and the
+  editor's rulings: "Prudzinski" is Antoni Prusimski, no person entries,
+  three cross-holding connections and a timeline event. Open: the
+  questions left in NEEDS_CONFIRMATION (the reference's GR, the era, person entries,
   connections). Read `units/ihagrrep7cnr3067/notes.md` first, and
   WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 3067".
 

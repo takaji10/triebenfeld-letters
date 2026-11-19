@@ -1598,7 +1598,9 @@ transcription; 108 readings settled in session before the first build
       and Claude (23 corrections), built; English, summaries (claim-checked),
       holding page in both languages, index.
 - [x] The spot sheet answered and applied (2026-11-19).
-- [ ] You: the questions in
-      NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3067": the reference's GR,
-      the era, person entries, the connections, a timeline event).
+- [x] The editor's rulings of 2026-11-19 worked in: era, no person
+      entries, Prudzinski = Prusimski, three connections, a timeline event.
+- [ ] You: what is left in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr.
+      3067": the reference's GR, Wybicki and Niemoiewski, Ostrzewo, two
+      differences between the documents).
 - [ ] Publish at your word.

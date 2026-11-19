@@ -2141,32 +2141,34 @@ Read `units/ihagrrep7cnr3067/notes.md` first.
    doubtful (the editor could not tell either). Nothing left open here.
 2. **The reference**: given by the editor as "I. HA Rep. 7 C, Nr. 3067",
    written "I. HA GR, Rep. 7 C, Nr. 3067" like the series' other files
-   (Claude's choice). Say if it should stand without GR.
-3. **The era**: `hohenlohe`, with Nr. 1414 and as the insurgency era's blurb
-   prescribes for the Prussian files of these years; the subject (the
-   punishment of the insurgents of 1794) could put it in `insurgency`.
-4. **Wybicki and Niemojewski** of the promemoria's ringleaders are matched to
+   (Nr. 1414, 3570, 3705, 3709; GR is the GStA's Geheimer Rat, the tectonic
+   group Rep. 7 C stands in). Claude's choice; it stands unless the editor
+   says otherwise.
+3. **Wybicki and Niemoiewski** of the promemoria's ringleaders are matched to
    the existing entries, the men whose confiscated estates were returned in
-   1807 (III. HA MdA, III. Nr. 12366): Claude's identification.
-5. **No person entries** for the 31 men of the list (Wittwicki, Stockowski,
-   Nowicki, Thiele, the Psarskis ...) or the other ringleaders (Xaver
-   Dombrowski, Mniewski, Prudzinski, Krupecki, Jetzierski, Rokittnicki), as
-   for APŁ 39/98/0/-/1333. Wanted?
-6. **"Ostrzewo"** (list, entry 24, "Confoederation von Wielun und und
+   1807 (AGAD 1/174/0/1/6, 2; III. HA MdA, III. Nr. 12366, 2): Claude's
+   identification, on which the connection `fled-ringleaders-restitution-1807`
+   rests.
+4. **"Ostrzewo"** (list, entry 24, "Confoederation von Wielun und und
    Ostrzewo") is kept as written; Ostrzeszów, in the Wieluń land, is a thought
    only. No place entry.
-7. **Connections proposed** (docs/CONNECTIONS.md; Claude's reading, none
-   written into reference/connections.yml): the promemoria's advice that the
-   confiscation of the fugitives stand "da besonders über die eingezogenen
-   Güter größtentheils schon disponirt ist" against the donation of
-   Prusimski's estates in 1796 (I. HA GR, Rep. 7 C, Nr. 3570, 1; Oe 1 Bü
-   14525, 1); the same winter's papers on Prusimski at Venice, the draft of
-   11 January 1797 addressed also to Goldbeck (Nr. 1414, 1); Wybicki and
-   Niemojewski against the Warsaw report of 1818 that cites their
-   restitutions (III. HA MdA, III. Nr. 12366, 2).
-8. **A timeline event** was not added: the papers do not name Trąbczyn or
-   Zagórów (the timeline's rule). Offered, if the editor wants the King's
-   refusal of 16 February 1797 there.
+5. **Two differences between the documents**, found in the connections
+   sweep, recorded and not settled: the promemoria counts Prusimski among the
+   ringleaders who fled, the Warsaw report of 1818 (12366, 2) has him leave
+   for Italy in 1794 for his and his wife's health; and the mortgage
+   certificate for Kolno (Oe 1 Bü 14525, 12) dates the confiscation judgment
+   27 June 1796 ("rechtskräftige Confiscations Erkenntniß vom 27ten Juny
+   1796"), where the report has the government confiscate the estates on
+   24 March 1796, a month after its second summons.
+
+Settled by the editor, 2026-11-19: the spot sheet (above); the era, worked
+out from the date: `hohenlohe`, as the insurgency era's own text places the
+Prussian files of these years; **no person entries** for the men of the list
+or the ringleaders; **"Prudzinski" is Antoni Prusimski** (matched to
+`prusimski`, the English writes Prusimski); the connections, three written
+into reference/connections.yml (with Nr. 3570, 1; Nr. 1414, 1; AGAD
+1/174/0/1/6, 2 and 12366, 2); a timeline event of 16 February 1797
+(insurgency era).
 
 ## APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, branch `trampczynski-family`, published 2026-11-13)
 

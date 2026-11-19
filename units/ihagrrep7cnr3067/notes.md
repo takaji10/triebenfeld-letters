@@ -130,15 +130,44 @@ claim-checked by a Sonnet sub-agent (`intake/claim_check.yml`: 58 statements,
   and the existing "Wraclawek" of Oe 1 Bü 14525-28); Łęczyca matches
   "Lenczyc..."; Rypin added as a place. The broken "Wrac¬lawek" (B 2) is not
   found by the matcher.
-- No person entries for the 31 names of the list or the other ringleaders:
-  NEEDS_CONFIRMATION asks.
+- "Prudzinski" (document 1, among the fled ringleaders; the page plainly
+  has the d) is Antoni Prusimski: the editor's identification, 2026-11-19.
+  Matched to `prusimski` by its own alternative in the `match` (not a
+  `variants` entry, which would make check_translations demand the full
+  "Antoni Prusimski" in a list of surnames); the English writes "Prusimski"
+  (reference/english_forms.yml, name-prusimski), the transcription keeps
+  "Prudzinski".
+- No person entries for the 31 names of the list or the other ringleaders
+  (the editor, 2026-11-19).
+
+## Connections and the timeline
+
+Three cross-holding connections (reference/connections.yml, 2026-11-19, at
+the editor's word), the candidates (37 documents sharing a name or a term)
+read whole by a Sonnet reader and the quotes checked by Claude:
+`goldbeck-confiscated-estates-disposed` (with Nr. 3570, 1: the disposal of
+August 1796, whose deeds of gift Goldbeck laid before the King with Hoym),
+`prusimski-venice-goldbeck` (with Nr. 1414, 1: the Venice report sent to
+Goldbeck five weeks before), `fled-ringleaders-restitution-1807` (with AGAD
+1/174/0/1/6, 2 and III. HA MdA, III. Nr. 12366, 2: Wybicki, Niemoiewski and
+Prusimski's daughter regain their estates; rests on Claude's identification
+of Wybicki and Niemoiewski). Read and not connected (a shared name only):
+the Kalisz president Goldbeck of the Prince's letters, the other Dombrowskis,
+the later papers of 1809-1815 on the estates. Possible further members,
+not written: the gift of 19 June 1797 (Oe 1 Bü 14525, 10 and its copies),
+which adds the church estates because the confiscated Prusimski estates were
+heavily indebted; the Kalisz judgment of 1827 (12366, 6).
+
+Timeline: "The King refuses the insurgents a further pardon", 16 February
+1797, era `insurgency` (beside Prusimski at Venice), sources documents 1
+and 2.
 
 ## Era
 
 `hohenlohe`, as Nr. 1414: the insurgency era's own blurb says the Prussian
-files of these years stand in the era of the estate's Prussian years.
-NEEDS_CONFIRMATION asks whether the editor would rather have it in
-`insurgency`.
+files of these years stand in the era of the estate's Prussian years. The
+editor left it to Claude ("The date is 1797, so you figure out the era",
+2026-11-19).
 
 ## Damage
 

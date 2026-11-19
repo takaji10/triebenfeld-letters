@@ -4240,3 +4240,16 @@ first and a fine pass at their word. The files are in
   German from the dataset, not from `corpus.txt`, so `regenerate.py` must
   run before the English is re-cached. Otherwise `check_translations.py`
   counts the old marks of doubt and reports a missing one.
+- **A name's `variants` entry is also a translation rule**: a form listed
+  under `variants:` in people.yml makes check_translations demand the
+  entry's whole `render` ("Antoni Prusimski") wherever the form occurs.
+  For a variant that stands in a list of bare surnames ("Prudzinski"), put
+  it in the `match` alone and let reference/english_forms.yml carry the
+  English form.
+- **A connections sweep by a Sonnet reader works**: hand it the candidate
+  uids (found by grep for the shared names and terms), the rule "a shared
+  name alone is not a connection", and ask for exact quotes; then check the
+  quotes the connections will rest on against both texts before writing
+  them. Reading the strongest candidate whole oneself still pays: the
+  reader cited the deed's signature "Hoym. Goldbeck." but missed that
+  3570-1 has Goldbeck laying all seven deeds of gift before the King.

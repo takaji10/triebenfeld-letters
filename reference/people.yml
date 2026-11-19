@@ -775,7 +775,10 @@ people:
     # The summons of 1860 (APP 53/968/0/-/783) prints the family "Prusiński":
     # "Antoniego Prusińskiego Starosty", "Antoniemu Prusińskiemu".
     # Pachoński (1973), note 10, has "Antoni Prusiński de Nieszczewice" (the literature index).
-    match: "(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])|(?<=Antoniego )Prusińskiego|(?<=Antoniemu )Prusińskiemu|(?<=JWo Antoniego )Prusimskiego|(?<=JWo Mści Antoniego )Prusimskiego|Prusiński(?= Synowiec)|(?<=Antoni )Prusiński(?= de Nieszczewice)"
+    # "Prudzinski" among the fled ringleaders of Goldbeck's promemoria of
+    # 16 February 1797 (I. HA GR, Rep. 7 C, Nr. 3067, 1; the page plainly has
+    # the d) is he: the editor's identification, 2026-11-19.
+    match: "Prudzinski(?![a-zà-ÿ])|(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])|(?<=Antoniego )Prusińskiego|(?<=Antoniemu )Prusińskiemu|(?<=JWo Antoniego )Prusimskiego|(?<=JWo Mści Antoniego )Prusimskiego|Prusiński(?= Synowiec)|(?<=Antoni )Prusiński(?= de Nieszczewice)"
     # In the decree of 1728 (APP 53/6/0/-/40) "Prusimski" is Krzysztof, his
     # grandfather, and "Antonio Prusimski filio" the uncle of the same name:
     # prusimski-krzysztof.
@@ -788,7 +791,9 @@ people:
       granted them to the Prince of Hohenlohe-Ingelfingen (3570, 14525). The
       German documents call him Anton von Prusimski, the ehemalige or
       entwichene Starost; the French letter of 1815 writes Prussiemski and
-      Prussimski (12765, document 6). The adjectival Prusimskische(n) is
+      Prussimski (12765, document 6); Goldbeck's promemoria of 1797 names
+      him "Prudzinski" among the chief ringleaders who had fled (I. HA GR,
+      Rep. 7 C, Nr. 3067, document 1; the editor's identification). The adjectival Prusimskische(n) is
       matched to him: it names his estates, his heirs and his family. Named
       as a person in his own right at the editor's request (2026-10-02), as
       he becomes more prominent in the project; until then this was a family

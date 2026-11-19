@@ -4756,7 +4756,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 482,
+  "count": 484,
   "documents": [
    "adwl85-1",
    "agad118501169-1",
@@ -4840,6 +4840,7 @@
    "ihagrrep7cnr1414-1",
    "ihagrrep7cnr1414-2",
    "ihagrrep7cnr1414-3",
+   "ihagrrep7cnr3067-1",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3709-6",
    "iiihamdaiiinr12366-2",
@@ -8413,6 +8414,24 @@
     "scan": "I_HA_Rep_7_C_Nr_1414_0005_a2-L3_01.jpg",
     "line": 58,
     "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0005_a-L1_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Prudzinski",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0005_a-L1_01.jpg",
+    "line": 25,
+    "doc_line": 23
    },
    {
     "uid": "oe1bu14525-10",
