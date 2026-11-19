@@ -77,10 +77,11 @@ def english_table(tbl_de, segs):
     published as plain text, which looks wrong but puts no sum against the
     wrong entry.
     """
+    only = tbl_de.get('table_pages')      # a table on some pages only
     try:
         tbl = unitlib.table_of({int(s['page']): [ln for ln in s['en'].splitlines()
                                                  if ln.strip()]
-                                for s in segs})
+                                for s in segs if not only or int(s['page']) in only})
     except (StopIteration, ValueError):
         return None
 
@@ -222,7 +223,8 @@ def main():
             shown = english_table(tables[pad], segs) if not dropped else None
             if shown:
                 for seg in segs:
-                    seg['html'] = english_forms.apply(shown[int(seg['page'])], pad=pad)
+                    if int(seg['page']) in shown:
+                        seg['html'] = english_forms.apply(shown[int(seg['page'])], pad=pad)
             else:
                 print(f'  !! {pad}: the English did not keep the rows and figures '
                       f'of the table - published as plain text')

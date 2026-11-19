@@ -371,6 +371,13 @@ def load_tables(unit):
     # Rep. 7 C, Nr. 3067, 3: the offence, the length, the month; 2026-11-19).
     text_cols = {str(k): {int(c) - 1 for c in v}
                  for k, v in (_docs.get('table_text_columns') or {}).items()}
+    # A document that is a table on some of its pages only (documents:
+    # table_pages: {"1": [4, 5, 6]}, the document's own page numbers): the
+    # promemoria of I. HA GR, Rep. 7 C, Nr. 3067 and the list it encloses,
+    # one document at the editor's word (2026-11-19). Its other pages are
+    # text, built and checked line by line as any other document's.
+    table_pages = {str(k): {int(p) for p in v}
+                   for k, v in (_docs.get('table_pages') or {}).items()}
     if not wanted or not os.path.isfile(unit.corpus_path):
         return {}
 
@@ -395,11 +402,14 @@ def load_tables(unit):
         raise SystemExit(f'{unit.slug}: rulings list {missing} as tables, '
                          f'but corpus.txt has no such document')
 
-    out = {lid: table_of({i: ls for i, ls in enumerate(plines, 1) if ls})
+    out = {lid: table_of({i: ls for i, ls in enumerate(plines, 1)
+                          if ls and (lid not in table_pages or i in table_pages[lid])})
            for lid, plines in doc_pages.items()}
     for lid, t in out.items():
         if text_cols.get(lid):
             t['text_cols'] = text_cols[lid]
+        if lid in table_pages:
+            t['table_pages'] = table_pages[lid]
     return out
 
 

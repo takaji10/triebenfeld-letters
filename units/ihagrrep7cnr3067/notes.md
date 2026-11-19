@@ -1,11 +1,12 @@
 # I. HA GR, Rep. 7 C, Nr. 3067
 
-Three documents of 16 February 1797 on six pages: the Grand Chancellor
+One document of 16 February 1797 on six pages: the Grand Chancellor
 Goldbeck's promemoria to King Friedrich Wilhelm II on the outcome of the
 proceedings against the insurgents of 1794 in South Prussia and on a further
-pardon (1), the King's own-hand decision written beneath it, refusing any
-reduction (2), and the list the promemoria encloses, of the 31 rebels
-sentenced to death, to the fortress for life or for long terms (3). Added
+pardon (pages 1 to 3), the King's own-hand decision written beneath it,
+refusing any reduction (page 3), and the list the promemoria encloses, of the
+31 rebels sentenced to death, to the fortress for life or for long terms
+(pages 4 to 6). Added
 2026-11-19 at the editor's word, branch `trampczynski-family`.
 
 The archive's title, as the editor gave it: "Promemoria Goldbecks mit Angaben
@@ -27,17 +28,29 @@ leaf; 0006 and 0008 are openings, cut at the fold on the binding thread by
 `intake/build_pages.py --crop` (the boxes are in its CROPS). Page ids: 0005_a,
 0006_a1, 0006_a2, 0007_a, 0008_a1, 0008_a2.
 
-## Documents
+## The document
 
-- **1, memorandum**, 0005_a to 0006_a2: Goldbeck's promemoria, "Berlin den
+**One document, a memorandum** (the editor, 2026-11-19: "Do not split this
+into three documents - it is a single document"). It was first built as
+three: 1 the promemoria, 2 the King's decision (a new kind,
+`royal_resolution`, since withdrawn with its labels), 3 the list (a
+`register`, its date inferred from the promemoria). Made one the same day:
+the boundaries (`build_pages.py` SPEC), the rulings (one date, read; the
+relations "transmits" and "answers" gone), the English (`doc1.yml`, six
+pages; the King's note joins page 3), the summaries joined, the index's
+`not_in`/`issued_in` moved to document 1, the timeline's two sources made
+one; the paragraph ruling of the King's date ("d 16 Februariy / 1797",
+joined) carried over, and a break set by hand before his note. The old
+addresses /documents/ihagrrep7cnr3067/2/ and /3/ were never published.
+
+- **Pages 1 to 3** (0005_a to 0006_a2): Goldbeck's promemoria, "Berlin den
   16ten Februar 1797". The date "d. 16 Feb. 1797" at the head of the first page
-  is in another hand (a docket); kept where the editor put it.
-- **2, royal_resolution** (a new document kind, label added to i18n.yml in
-  both languages), 0006_a2 from line 10: the King's decision, "Fr. Wilhelm / d 16
-  Februariy 1797". A decision written on the paper it answers is its own
-  document (NEW_UNIT, "A file the office wrote on").
-- **3, register**, 0007_a to 0008_a2: the list, **a table since
-  2026-11-19**. At first it was kept line by line, as the editor's text file
+  is in another hand (a docket); kept where the editor put it. On page 3,
+  under Goldbeck's signature, the King's decision, "Fr. Wilhelm / d 16
+  Februariy 1797".
+- **Pages 4 to 6** (0007_a to 0008_a2): the list, **a table since
+  2026-11-19** (`documents: tables` with `table_pages: [4, 5, 6]`: the
+  document is a table on those pages only, its first three are text). At first it was kept line by line, as the editor's text file
   has it, because `render_table` set every cell after the name as a figure;
   the editor then pointed to their own table of it,
   `Downloads\I_HA_Rep_7_C_Nr_3067_tables.xlsx` ("It should already be in
@@ -132,8 +145,8 @@ claim-checked by a Sonnet sub-agent (`intake/claim_check.yml`: 58 statements,
 ## Index
 
 - Goldbeck: `only_in` extended to document 1. Friedrich Wilhelm II: his
-  signature "Fr. Wilhelm" added to his `issuer_match`, document 2 to
-  `issued_in`. Hoym matched.
+  signature "Fr. Wilhelm" added to his `issuer_match`, this document to
+  `issued_in` (which only says where that pattern may match). Hoym matched.
 - Wybicki and Niemojewski (document 1) are matched to the existing entries,
   whose confiscated estates were returned in 1807: Claude's identification,
   noted in both entries and in NEEDS_CONFIRMATION.
@@ -173,8 +186,8 @@ which adds the church estates because the confiscated Prusimski estates were
 heavily indebted; the Kalisz judgment of 1827 (12366, 6).
 
 Timeline: "The King refuses the insurgents a further pardon", 16 February
-1797, era `insurgency` (beside Prusimski at Venice), sources documents 1
-and 2.
+1797, era `insurgency` (beside Prusimski at Venice), its source the
+document.
 
 ## Era
 

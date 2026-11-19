@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/wloclawek/"
 alt_url: "/places/wloclawek/"
 excerpt_separator: ""
-hits_docs: [{"id": "3", "uid": "ihagrrep7cnr3067-3", "url": "/documents/ihagrrep7cnr3067/3/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3067", "n": 3}, {"id": "28", "uid": "oe1bu14525-28", "url": "/documents/oe1bu14525/28/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
+hits_docs: [{"id": "1", "uid": "ihagrrep7cnr3067-1", "url": "/documents/ihagrrep7cnr3067/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3067", "n": 3}, {"id": "28", "uid": "oe1bu14525-28", "url": "/documents/oe1bu14525/28/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 2
 ---
 

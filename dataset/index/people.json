@@ -38204,7 +38204,7 @@
     "surface": "Hoym",
     "page": 3,
     "page_id": "0006_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L1_03.jpg",
     "line": 94,
     "doc_line": 90
    },
@@ -43035,7 +43035,7 @@
   "display": "Friedrich Wilhelm II, King of Prussia",
   "count": 58,
   "documents": [
-   "ihagrrep7cnr3067-2",
+   "ihagrrep7cnr3067-1",
    "ihagrrep7cnr3570-1",
    "iharep162nr295-3",
    "oe1bu14525-1",
@@ -43094,22 +43094,22 @@
     "doc_line": 284
    },
    {
-    "uid": "ihagrrep7cnr3067-2",
+    "uid": "ihagrrep7cnr3067-1",
     "surface": "Fr. Wilhelm",
-    "page": 1,
+    "page": 3,
     "page_id": "0006_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L1_03.jpg",
     "line": 0,
     "language": "en"
    },
    {
-    "uid": "ihagrrep7cnr3067-2",
+    "uid": "ihagrrep7cnr3067-1",
     "surface": "Fr. Wilhelm",
-    "page": 1,
+    "page": 3,
     "page_id": "0006_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg",
-    "line": 110,
-    "doc_line": 10
+    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L1_03.jpg",
+    "line": 108,
+    "doc_line": 104
    },
    {
     "uid": "oe1bu14525-10",
@@ -51082,7 +51082,7 @@
     "surface": "Goldbeck",
     "page": 3,
     "page_id": "0006_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L1_03.jpg",
     "line": 0,
     "language": "en"
    },
@@ -51091,7 +51091,7 @@
     "surface": "Goldbeck",
     "page": 3,
     "page_id": "0006_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L1_03.jpg",
     "line": 98,
     "doc_line": 94
    },

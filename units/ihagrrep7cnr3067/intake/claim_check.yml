@@ -4,6 +4,13 @@
 # German, verdict supported / overstated / unsupported, the summary only
 # weakened or cut. Not a paid run.
 #
+# The keys -002 and -003 below are the King's decision and the list as they
+# were numbered when checked; the editor made the file one document the same
+# day, and the three summaries were joined into the one of -001, their
+# statements unchanged but for the two joining phrases ("Beneath it King
+# Friedrich Wilhelm II wrote his decision ...", "The list the promemoria
+# encloses follows").
+#
 # Result: 58 statements, 52 supported, 6 overstated, none unsupported. Applied
 # (intake/write_summaries.py, English and German): the short sentences "could"
 # be remitted (a proposal, and most were served already); "nine of them", not

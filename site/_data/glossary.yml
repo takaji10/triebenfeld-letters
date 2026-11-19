@@ -1423,7 +1423,7 @@
   initial_en: "P"
   sort_de: "pro memoria"
   initial_de: "P"
-  docs: 19
+  docs: 17
 - id: "notarius"
   kind: "law"
   lang: "la"
@@ -2126,7 +2126,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 98
+  docs: 97
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

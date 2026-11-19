@@ -127,7 +127,11 @@ letters with the office's own writing on them, photographed as openings:
   file per side, and the record of which source line went where is kept as a
   script in `units/<slug>/intake/`.
 - **A reply drafted on a petitioner's page is its own document**, starting
-  partway down that page (`first_line` in the boundaries sheet).
+  partway down that page (`first_line` in the boundaries sheet). Not always:
+  the King's decision beneath Goldbeck's promemoria, and the list it
+  encloses, are one document with it (the editor, I. HA GR, Rep. 7 C, Nr.
+  3067, 2026-11-19). Ask the editor how many documents such a paper is
+  before cutting the boundaries.
 - **Shorter marks by the receiving office** go to the end of that document's
   part of the page and are listed in `units/<slug>/office_notes.yml`, the same
   shape as `sideways.yml`. The site sets them apart under a label.
@@ -146,8 +150,10 @@ Oe 1 Bü 9454, document 303, the older one.
   The heading rows open the first page, one row for each level of the
   heading (a label stands over the blanks that follow it). A row with no
   number between the entries is a page's own total.
+- **A table on some pages of a document only**: `documents: table_pages:`
+  (`{"1": [4, 5, 6]}`), beside `tables:`; the other pages are text.
 - **A table with words in it** (the list of the condemned, I. HA GR, Rep. 7
-  C, Nr. 3067, 3, 2026-11-19): list the columns that hold words under
+  C, Nr. 3067, pages 4 to 6, 2026-11-19): list the columns that hold words under
   `documents: table_text_columns:` (`{"3": [3, 4, 5]}`, counted from 1) - they
   are set left, the long ones wrap, and the English may translate them. An
   entry number may carry the clerk's stop ("12,"). A later page that repeats

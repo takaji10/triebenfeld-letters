@@ -171,7 +171,18 @@ segments:
     Berlin, 16 February 1797.
 
 
-    Goldbeck'
+    Goldbeck
+
+
+    After close consideration of the crimes[?], I find none of the condemned[?] worthy of a reduction
+    of the punishments; rather, those who have been condemned to money fines must be held to the payment
+    of them, or, where[?] they are not able to pay it, be brought to an arrest in proportion to it.
+
+
+    Fr. Wilhelm
+
+
+    16 February 1797'
   names:
   - de: Grafen von Hoym
     en: Count von Hoym
@@ -182,3 +193,231 @@ segments:
   - de: Goldbeck
     en: Goldbeck
     kind: person
+  - de: Fr. Wilhelm
+    en: Fr. Wilhelm
+    kind: person
+- page: 4
+  en: ',List,,,
+
+    ,"of those South Prussian rebels against whom sentence of death, of lifelong or of long imprisonment
+    in a fortress has been pronounced.",,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <caption>List<br>of those South Prussian rebels against whom sentence of death, of lifelong or of
+    long imprisonment in a fortress has been pronounced.</caption>
+
+    <thead><tr><th rowspan="1" class="no">Number</th><th rowspan="1" class="name">Names</th><th class="text">Nature
+    of the crime</th><th class="text">Length of the sentence</th><th class="text">Its beginning</th></tr></thead>
+
+    </table></div>'
+- page: 5
+  en: 'Number,Names,Nature of the crime,Length of the sentence,Its beginning
+
+    ,A. Death sentence.,,,
+
+    "1,","Franz von Wittwicki,","Because at the attack on the town of Włocławek they led the canons''
+    servants against the military, and also murdered an officer and an excise official.",,
+
+    "2,","Andreas Retznowski,",,,
+
+    ,B. Lifelong fortress imprisonment.,,,
+
+    "1,","Joseph von Stockowski,","Because he was general of the insurgents of Wieluń, led them against
+    the royal troops, robbed magazines and plundered treasuries.",,
+
+    "2,","Joseph Nowicki,","Was sentenced to the gallows, because he was especially active in the seizure
+    of the artillery transport at Włocławek and mortally injured several people in it; but has been pardoned
+    by His Royal Majesty.",,
+
+    "3,","Joseph Sobolewski,",Because after the dissolution of the insurrection he joined a band of robbers
+    and helped in murders of soldiers and travellers.,,
+
+    ,C. Long fortress imprisonment,,,
+
+    "1,",Johann Thiele,Because he showed himself especially active as secretary at the insurgents'' Commission
+    of Order and War,4 years,February 1795
+
+    "2,",Nicolaus von Psarski,For especially active participation in the insurrection,8 years,March 1795
+
+    "3,",Johann von Pistrzkowski,The same,8 years,March 1795
+
+    "4,",Johann von Dobski,The same,10 years,March 1795
+
+    "5,",Provost von Chicomski,For abuse of his spiritual office to promote the insurrection,10 years,July
+    1795
+
+    "6,",Vincent von Magnuski,Because he probably finished off a dragoon who was already wounded.,4 years,August
+    1795
+
+    "7,",Casimir von Pratzmowski,For especially active participation in the insurrection and highway robbery
+    committed,15 years,August 1795
+
+    "8,",Johann von Dobrski,"Because, during his flight from the insurgents, he mortally wounded a hussar
+    who wanted to examine him",10 years,August 1795
+
+    "9,",Joseph von Psarski,For especially active participation in the insurrection,6 years,September
+    1795'
+  names:
+  - de: Wraclawec
+    en: Włocławek
+    kind: place
+  - de: Wraclawek
+    en: Włocławek
+    kind: place
+  - de: Wielunschen
+    en: Wieluń
+    kind: place
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="1" class="no">Number</th><th rowspan="1" class="name">Names</th><th class="text">Nature
+    of the crime</th><th class="text">Length of the sentence</th><th class="text">Its beginning</th></tr></thead>
+
+    <tbody><tr class="sum"><td class="no"></td><td class="name">A. Death sentence.</td><td class="text"></td><td
+    class="text short"></td><td class="text short"></td></tr><tr><td class="no">1,</td><td class="name">Franz
+    von Wittwicki,</td><td class="text">Because at the attack on the town of Włocławek they led the canons&#x27;
+    servants against the military, and also murdered an officer and an excise official.</td><td class="text
+    short"></td><td class="text short"></td></tr><tr><td class="no">2,</td><td class="name">Andreas Retznowski,</td><td
+    class="text"></td><td class="text short"></td><td class="text short"></td></tr><tr class="sum"><td
+    class="no"></td><td class="name">B. Lifelong fortress imprisonment.</td><td class="text"></td><td
+    class="text short"></td><td class="text short"></td></tr><tr><td class="no">1,</td><td class="name">Joseph
+    von Stockowski,</td><td class="text">Because he was general of the insurgents of Wieluń, led them
+    against the royal troops, robbed magazines and plundered treasuries.</td><td class="text short"></td><td
+    class="text short"></td></tr><tr><td class="no">2,</td><td class="name">Joseph Nowicki,</td><td class="text">Was
+    sentenced to the gallows, because he was especially active in the seizure of the artillery transport
+    at Włocławek and mortally injured several people in it; but has been pardoned by His Royal Majesty.</td><td
+    class="text short"></td><td class="text short"></td></tr><tr><td class="no">3,</td><td class="name">Joseph
+    Sobolewski,</td><td class="text">Because after the dissolution of the insurrection he joined a band
+    of robbers and helped in murders of soldiers and travellers.</td><td class="text short"></td><td class="text
+    short"></td></tr><tr class="sum"><td class="no"></td><td class="name">C. Long fortress imprisonment</td><td
+    class="text"></td><td class="text short"></td><td class="text short"></td></tr><tr><td class="no">1,</td><td
+    class="name">Johann Thiele</td><td class="text">Because he showed himself especially active as secretary
+    at the insurgents&#x27; Commission of Order and War</td><td class="text short">4 years</td><td class="text
+    short">February 1795</td></tr><tr><td class="no">2,</td><td class="name">Nicolaus von Psarski</td><td
+    class="text">For especially active participation in the insurrection</td><td class="text short">8
+    years</td><td class="text short">March 1795</td></tr><tr><td class="no">3,</td><td class="name">Johann
+    von Pistrzkowski</td><td class="text">The same</td><td class="text short">8 years</td><td class="text
+    short">March 1795</td></tr><tr><td class="no">4,</td><td class="name">Johann von Dobski</td><td class="text">The
+    same</td><td class="text short">10 years</td><td class="text short">March 1795</td></tr><tr><td class="no">5,</td><td
+    class="name">Provost von Chicomski</td><td class="text">For abuse of his spiritual office to promote
+    the insurrection</td><td class="text short">10 years</td><td class="text short">July 1795</td></tr><tr><td
+    class="no">6,</td><td class="name">Vincent von Magnuski</td><td class="text">Because he probably finished
+    off a dragoon who was already wounded.</td><td class="text short">4 years</td><td class="text short">August
+    1795</td></tr><tr><td class="no">7,</td><td class="name">Casimir von Pratzmowski</td><td class="text">For
+    especially active participation in the insurrection and highway robbery committed</td><td class="text
+    short">15 years</td><td class="text short">August 1795</td></tr><tr><td class="no">8,</td><td class="name">Johann
+    von Dobrski</td><td class="text">Because, during his flight from the insurgents, he mortally wounded
+    a hussar who wanted to examine him</td><td class="text short">10 years</td><td class="text short">August
+    1795</td></tr><tr><td class="no">9,</td><td class="name">Joseph von Psarski</td><td class="text">For
+    especially active participation in the insurrection</td><td class="text short">6 years</td><td class="text
+    short">September 1795</td></tr></tbody>
+
+    </table></div>'
+- page: 6
+  en: 'Number,Names,Nature of the crime,Length of the sentence,Its beginning.
+
+    "10,",Lorenz von Masowiecki,Because he took part in the attack on the town of Rypin by the insurgents,4
+    years,October 1795
+
+    "11,",Dominic v. Dziewanowski,For the same reason,4 years,October 1795
+
+    "12,",von Ryczewski,Because after the dissolution of the insurrection he joined a band of robbers
+    and took part in various robberies.,15 years,October 1795
+
+    "13,",von Maruczewski,For the same reason,8 years,October 1795
+
+    "14,",Komornick von Wardenski,Because he is strongly suspected of having known of the insurrection
+    beforehand.,4 years,December 1795
+
+    "15,",Casimir von Lenartowicz,For especially active participation,6 years,December 1795
+
+    "16,",Felix von Krettkowski,"Because, though not entirely of his own free will, he became general
+    of the insurgents of Łęczyca",6 years -,December 1795
+
+    "17,",Valentin von Zaburowski,For especially active participation,4 years,December 1795
+
+    "18,",Stephan von Pilchowski,"The same, and for plundering committed.",8 years,January 1796
+
+    "19,",Paul von Skorzewski,General of the insurgents of Kalisz,6 years,January 1796
+
+    "20,",Samuel Czimay,Because they took an active part in the attack on the garrison at Włocławek.,4
+    years,March 1796
+
+    "21,",Szekus Ruba,,4 years,
+
+    "22,",Johann Michalleck,For participation in the insurrection and plundering committed,4 years,May
+    1796
+
+    "23,",Cajetan von Smolinski,For abuse of his spiritual office to promote the insurgents.,4 years,May
+    1796
+
+    "24,",Friedrich Jacob v. Psarski,Because he was president of the confederation of Wieluń and and Ostrzewo.,10
+    years,May 1796
+
+    "25,",Constantin v. Mielewski,For participation in the insurrection and suspicion of the murder of
+    a Jew,7 years,June 1796
+
+    "26,",Chrisolog v. Rogoczynski,For particularly active participation in the insurrection,4 years,November
+    1796'
+  names:
+  - de: Rypin
+    en: Rypin
+    kind: place
+  - de: Lenczycschen
+    en: Łęczyca
+    kind: place
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Wraclawec
+    en: Włocławek
+    kind: place
+  - de: Wielun
+    en: Wieluń
+    kind: place
+  - de: Ostrzewo
+    en: Ostrzewo
+    kind: place
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="1" class="no">Number</th><th rowspan="1" class="name">Names</th><th class="text">Nature
+    of the crime</th><th class="text">Length of the sentence</th><th class="text">Its beginning</th></tr></thead>
+
+    <tbody><tr><td class="no">10,</td><td class="name">Lorenz von Masowiecki</td><td class="text">Because
+    he took part in the attack on the town of Rypin by the insurgents</td><td class="text short">4 years</td><td
+    class="text short">October 1795</td></tr><tr><td class="no">11,</td><td class="name">Dominic v. Dziewanowski</td><td
+    class="text">For the same reason</td><td class="text short">4 years</td><td class="text short">October
+    1795</td></tr><tr><td class="no">12,</td><td class="name">von Ryczewski</td><td class="text">Because
+    after the dissolution of the insurrection he joined a band of robbers and took part in various robberies.</td><td
+    class="text short">15 years</td><td class="text short">October 1795</td></tr><tr><td class="no">13,</td><td
+    class="name">von Maruczewski</td><td class="text">For the same reason</td><td class="text short">8
+    years</td><td class="text short">October 1795</td></tr><tr><td class="no">14,</td><td class="name">Komornick
+    von Wardenski</td><td class="text">Because he is strongly suspected of having known of the insurrection
+    beforehand.</td><td class="text short">4 years</td><td class="text short">December 1795</td></tr><tr><td
+    class="no">15,</td><td class="name">Casimir von Lenartowicz</td><td class="text">For especially active
+    participation</td><td class="text short">6 years</td><td class="text short">December 1795</td></tr><tr><td
+    class="no">16,</td><td class="name">Felix von Krettkowski</td><td class="text">Because, though not
+    entirely of his own free will, he became general of the insurgents of Łęczyca</td><td class="text
+    short">6 years -</td><td class="text short">December 1795</td></tr><tr><td class="no">17,</td><td
+    class="name">Valentin von Zaburowski</td><td class="text">For especially active participation</td><td
+    class="text short">4 years</td><td class="text short">December 1795</td></tr><tr><td class="no">18,</td><td
+    class="name">Stephan von Pilchowski</td><td class="text">The same, and for plundering committed.</td><td
+    class="text short">8 years</td><td class="text short">January 1796</td></tr><tr><td class="no">19,</td><td
+    class="name">Paul von Skorzewski</td><td class="text">General of the insurgents of Kalisz</td><td
+    class="text short">6 years</td><td class="text short">January 1796</td></tr><tr><td class="no">20,</td><td
+    class="name">Samuel Czimay</td><td class="text">Because they took an active part in the attack on
+    the garrison at Włocławek.</td><td class="text short">4 years</td><td class="text short">March 1796</td></tr><tr><td
+    class="no">21,</td><td class="name">Szekus Ruba</td><td class="text"></td><td class="text short">4
+    years</td><td class="text short"></td></tr><tr><td class="no">22,</td><td class="name">Johann Michalleck</td><td
+    class="text">For participation in the insurrection and plundering committed</td><td class="text short">4
+    years</td><td class="text short">May 1796</td></tr><tr><td class="no">23,</td><td class="name">Cajetan
+    von Smolinski</td><td class="text">For abuse of his spiritual office to promote the insurgents.</td><td
+    class="text short">4 years</td><td class="text short">May 1796</td></tr><tr><td class="no">24,</td><td
+    class="name">Friedrich Jacob v. Psarski</td><td class="text">Because he was president of the confederation
+    of Wieluń and and Ostrzewo.</td><td class="text short">10 years</td><td class="text short">May 1796</td></tr><tr><td
+    class="no">25,</td><td class="name">Constantin v. Mielewski</td><td class="text">For participation
+    in the insurrection and suspicion of the murder of a Jew</td><td class="text short">7 years</td><td
+    class="text short">June 1796</td></tr><tr><td class="no">26,</td><td class="name">Chrisolog v. Rogoczynski</td><td
+    class="text">For particularly active participation in the insurrection</td><td class="text short">4
+    years</td><td class="text short">November 1796</td></tr></tbody>
+
+    </table></div>'

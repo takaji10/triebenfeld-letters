@@ -4215,11 +4215,22 @@ first and a fine pass at their word. The files are in
   a script with string escapes through the Write tool, not a heredoc.
 - **`pattern_impact.py` dies on a Polish letter in this shell's cp1252
   console**: run it with `PYTHONIOENCODING=utf-8`.
-- **A decision written beneath the paper it answers** is a document of its
-  own with `first_line` in the boundaries; its kind here was new
-  (`royal_resolution`, i18n.yml both languages). A list the paper encloses
-  takes its date as `inferred` with the basis given, and the basis needs its
-  German in `reference/site_notes_de.yml`.
+- **Ask before splitting a file's papers into documents** (2026-11-19, the
+  editor: "Do not split this into three documents - it is a single
+  document"). The promemoria, the King's decision beneath it and the list
+  it encloses were built as three, by NEW_UNIT's rule for a reply written on
+  the page it answers; the editor ruled them one. Where a unit holds a paper
+  with a decision or an enclosure, ask how many documents it is before the
+  boundaries are cut: unmaking a split touches the rulings, the English,
+  the summaries, the index, the timeline, the scan labels and the
+  paragraph rulings keyed to the old numbers.
+- **A document can be a table on some pages only**: `documents: tables`
+  with `table_pages: {"1": [4, 5, 6]}` in rulings.yml (unitlib.load_tables;
+  the page build, both checks and publish_translations follow it). After
+  merging documents, delete the old `dataset/documents/` and `dataset/text/`
+  files of the numbers that are gone (the build does not), and the cache
+  and `site/_data/translations/` files of them (publish_translations works
+  from the cache files).
 - **The editor overruled a correction made on two readers' word**
   (2026-11-19, the spot sheet): the King's "Nach genauer Betrachtung" had
   been changed to "Untersuchung[?]" on reader 1 and Claude (reader 2 had a

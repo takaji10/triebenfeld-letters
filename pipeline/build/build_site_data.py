@@ -1388,7 +1388,9 @@ def verify(recs):
             if unitlib.table_rows_in_page(content) != unitlib.table_expected_rows(_tbl):
                 mismatch += 1
                 print(f'  MISMATCH {uid}: table differs from the corpus')
-            continue
+            if not _tbl.get('table_pages'):
+                continue
+        _tpages = (_tbl or {}).get('table_pages') or set()
         # The diplomatic view is one <li> per manuscript line, inside
         # <ol class="dip">. Scope the extraction to those lists: the page also
         # carries other <li> - the typed relations to other documents - and a
@@ -1400,7 +1402,7 @@ def verify(recs):
         # The rendered view is the transcription layer, which build_db.py has
         # already proven differs from the archival text only where a recorded
         # decision says so.
-        expected = [l for p in by_uid[uid]['pages']
+        expected = [l for p in by_uid[uid]['pages'] if p['page'] not in _tpages
                     for l in p.get('transcription', p['diplomatic']).split('\n')
                     if l.strip()]
         if recovered != expected:

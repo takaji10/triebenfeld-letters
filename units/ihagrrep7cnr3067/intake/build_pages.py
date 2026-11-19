@@ -20,8 +20,12 @@ The text. The editor's four files in <raw_dir>, one per scan, line by line.
 SPEC says, for each page, which source lines it takes. On 0006 the left side
 ends with the catchword "die", repeated at the head of the right side; the
 king's own hand begins on the right side below Goldbeck's date and
-signature (document 2, first_line 10). On 0008 the second side repeats the
-table's column heads.
+signature. On 0008 the second side repeats the table's column heads.
+
+One document (the editor, 2026-11-19: "Do not split this into three
+documents - it is a single document"): the promemoria, the King's decision
+beneath it and the list it encloses. First built as three (1 the promemoria,
+2 the King's decision from 0006_a2 line 10, 3 the list from 0007_a).
 
 CORRECTIONS are the readings changed against the scans after two Sonnet
 readers and Claude checked every line (notes.md, "The transcription
@@ -78,8 +82,8 @@ CROPS = [
 SPEC = [
     ('0005_a', 1, 1, [(1, 44)]),
     ('0006_a1', None, None, [(1, 41)]),
-    ('0006_a2', 2, 10, [(42, 62)]),
-    ('0007_a', 3, 1, [(1, 5)]),
+    ('0006_a2', None, None, [(42, 62)]),
+    ('0007_a', None, None, [(1, 5)]),
     ('0008_a1', None, None, [(1, 84)]),
     ('0008_a2', None, None, [(85, 194)]),
 ]

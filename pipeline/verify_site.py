@@ -102,7 +102,11 @@ def main():
             if ms != len(rec.get('pages') or []):
                 fail(f'letter {lid}: {ms} page sections built, '
                      f'{len(rec.get("pages") or [])} expected')
-            continue
+            if not tbl.get('table_pages'):
+                continue
+            # a document that is a table on some pages only: its other pages
+            # are checked line by line below
+            total_ms_pages -= ms
         # The diplomatic view is one <li> per manuscript line, inside
         # <ol class="dip">. Scope the extraction to those lists: the page also
         # carries other <li> - the typed relations to other documents - and a
@@ -115,7 +119,8 @@ def main():
                      for x in re.findall(r'<li>(.*?)</li>', blk, re.S)]
         # The rendered view is the transcription layer: the manuscript's own
         # lines, with line-end marks resolved per the recorded decisions.
-        expected = [l for p in rec['pages']
+        _tp = (tbl or {}).get('table_pages') or set()
+        expected = [l for p in rec['pages'] if p.get('page') not in _tp
                     for l in p.get('transcription', p['diplomatic']).split('\n')
                     if l.strip()]
         if not recovered:

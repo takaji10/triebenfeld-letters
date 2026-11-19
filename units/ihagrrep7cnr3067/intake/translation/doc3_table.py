@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-"""The English of the list of the condemned (document 3) as a table, row for
-row the shape of the German (intake/table.csv, build_pages.py TABLE), written
-into doc3.yml. 2026-11-19, when the list became a table; the words are those
+"""The English of the list of the condemned as a table, row for row the shape
+of the German (intake/table.csv, build_pages.py TABLE), written into pages 4
+to 6 of doc1.yml (the list was document 3 until the editor made the file one
+document, 2026-11-19; PAGES below keep the list's own page numbers 1 to 3). 2026-11-19, when the list became a table; the words are those
 of the line-by-line English it replaces.
 
     python units/ihagrrep7cnr3067/intake/translation/doc3_table.py
@@ -105,10 +106,12 @@ yaml.SafeDumper.add_representer(str, block)
 
 
 def main():
-    p = os.path.join(HERE, 'doc3.yml')
+    p = os.path.join(HERE, 'doc1.yml')
     d = yaml.safe_load(io.open(p, encoding='utf-8'))
     for pg in d['pages']:
-        pg['en'] = csv_text(PAGES[pg['page']])
+        if pg['page'] < 4:
+            continue
+        pg['en'] = csv_text(PAGES[pg['page'] - 3])
         for f in pg.get('flagged') or []:
             f['de'] = f['de'].replace('Krieg¬ Commission', 'Krieg¬Commission')
             f['de'] = f['de'].replace('Wielun und / und Ostrzewo', 'Wielun und und Ostrzewo')

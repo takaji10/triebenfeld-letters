@@ -24,25 +24,25 @@
 1,75,run,review,short_line,0.12,6,49,könnte,"in Ansehung des von Stockowski sub num: 1., der"
 1,83,break,high,short_line,0.27,13,49,statt finden.,Es schweben noch einige wenige Untersuchungen gegen Insurgenten
 1,86,break,high,short_line,0.27,13,49,meldet haben.,Gegen diese wäre nach den bisherigen Vorschriften zu erkennen
-1,93,break,high,rubric+short_line,0.62,31,50,"allergnädigst geruhen, so würde","1, ein Publicandum wegen der ad 3 et 4 bewilligten Amnestie"
-1,94,break,high,rubric,1.18,59,50,"1, ein Publicandum wegen der ad 3 et 4 bewilligten Amnestie","2, die nöthige Ordre an den Etats Ministre Grafen von Hoym"
-1,96,run,review,short_line,0.44,22,50,und an den GroßCanzler,zur Allerhöchsten Vollziehung vorzulegen seyn.
-1,98,break,high,short_line,0.6,30,50,Berlin den 16ten Februar 1797.,Goldbeck
-2,104,run,review,short_line,0.68,21,31,minderung der strafen,würdig vilmehr müßten die so zu guld
-2,110,break,high,short_line,0.52,16,31,gebracht werden.,Fr. Wilhelm
-2,111,break,high,short_line+column,0.35,11,31,Fr. Wilhelm,d 16 Februariy
-2,112,run,held,short_line+column,0.45,14,31,d 16 Februariy,1797
-3,119,break,high,short_line+column,0.56,67,120,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de",",A. Todes-Strafe.,,,"
-3,120,run,review,short_line,0.17,20,120,",A. Todes-Strafe.,,,","""1,"",""Franz von Wittwicki,"",Weil sie bey dem Ueberfall der Stadt Wracl"
-3,122,break,high,short_line+column,0.24,29,120,"""2,"",""Andreas Retznowski,"",,,",",B. Lebenswierige Festungsstrafe.,,,"
-3,123,run,review,short_line,0.3,36,120,",B. Lebenswierige Festungsstrafe.,,,","""1,"",""Joseph von Stockowski,"",""Weil er General der Wielunschen Insurge"
-3,127,run,review,short_line,0.28,33,120,",C. Langwierige Festungsstrafe,,,","""1,"",Johann Thiele,Weil er sich als Sekretair bey der Insurgentischen "
-3,130,break,high,short_line+column,0.48,58,120,"""3,"",Johann von Pistrzkowski,desgleichen,8 Jahre,März 1795","""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795"
-3,131,run,review,short_line,0.44,53,120,"""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795","""5,"",Probst von Chicomski,Wegen Mißbrauchs seines Geistlichen Amts zur"
-3,138,break,high,short_line,0.66,68,103,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de","""10,"",Lorenz von Masowiecki,Weil er dem Ueberfall der Stadt Rypin durc"
-3,140,run,review,short_line,0.68,70,103,"""11,"",Dominic v. Dziewanowski,Aus gleicher Ursach,4 Jahre,Ok","""12,"",von Ryczewski,""Weil er nach Auflösung der Insurrektion, sich zu "
-3,142,run,review,short_line,0.6,62,103,"""13,"",von Maruczewski,Aus gleicher Ursach,8 Jahre,Oktober 17","""14,"",Komornick von Wardenski,Weil er der Vorwissenschaft von der Insu"
-3,150,run,review,short_line,0.26,27,103,"""21,"",Szekus Ruba,,4 Jahre,","""22,"",Johann Michalleck,Wegen Theilnahme an der Insurrektion und verüb"
+1,93,break,high,rubric,0.93,31,34,"allergnädigst geruhen, so würde","1, ein Publicandum wegen der ad 3 et 4 bewilligten Amnestie"
+1,94,break,high,rubric,1.76,59,34,"1, ein Publicandum wegen der ad 3 et 4 bewilligten Amnestie","2, die nöthige Ordre an den Etats Ministre Grafen von Hoym"
+1,96,run,review,short_line,0.66,22,34,und an den GroßCanzler,zur Allerhöchsten Vollziehung vorzulegen seyn.
+1,99,break,held,short_line,0.24,8,34,Goldbeck,Nach genauer Betrachtung der verbrach[en?]
+1,102,run,review,short_line,0.63,21,34,minderung der strafen,würdig vilmehr müßten die so zu guld
+1,108,break,high,short_line,0.48,16,34,gebracht werden.,Fr. Wilhelm
+1,109,break,high,short_line+column,0.33,11,34,Fr. Wilhelm,d 16 Februariy
+1,110,run,held,short_line+column,0.42,14,34,d 16 Februariy,1797
+1,116,break,high,short_line+column,0.56,67,120,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de",",A. Todes-Strafe.,,,"
+1,117,run,review,short_line,0.17,20,120,",A. Todes-Strafe.,,,","""1,"",""Franz von Wittwicki,"",Weil sie bey dem Ueberfall der Stadt Wracl"
+1,119,break,high,short_line+column,0.24,29,120,"""2,"",""Andreas Retznowski,"",,,",",B. Lebenswierige Festungsstrafe.,,,"
+1,120,run,review,short_line,0.3,36,120,",B. Lebenswierige Festungsstrafe.,,,","""1,"",""Joseph von Stockowski,"",""Weil er General der Wielunschen Insurge"
+1,124,run,review,short_line,0.28,33,120,",C. Langwierige Festungsstrafe,,,","""1,"",Johann Thiele,Weil er sich als Sekretair bey der Insurgentischen "
+1,127,break,high,short_line+column,0.48,58,120,"""3,"",Johann von Pistrzkowski,desgleichen,8 Jahre,März 1795","""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795"
+1,128,run,review,short_line,0.44,53,120,"""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795","""5,"",Probst von Chicomski,Wegen Mißbrauchs seines Geistlichen Amts zur"
+1,135,break,high,short_line,0.66,68,103,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de","""10,"",Lorenz von Masowiecki,Weil er dem Ueberfall der Stadt Rypin durc"
+1,137,run,review,short_line,0.68,70,103,"""11,"",Dominic v. Dziewanowski,Aus gleicher Ursach,4 Jahre,Ok","""12,"",von Ryczewski,""Weil er nach Auflösung der Insurrektion, sich zu "
+1,139,run,review,short_line,0.6,62,103,"""13,"",von Maruczewski,Aus gleicher Ursach,8 Jahre,Oktober 17","""14,"",Komornick von Wardenski,Weil er der Vorwissenschaft von der Insu"
+1,147,run,review,short_line,0.26,27,103,"""21,"",Szekus Ruba,,4 Jahre,","""22,"",Johann Michalleck,Wegen Theilnahme an der Insurrektion und verüb"
 1,4,break,held,hand,0,0,0,d. 16 Feb. 1797,Promemoria
 1,22,break,held,hand,0,0,0,"gen könnten, auf zeitige Festungsstrafen erkannt werden soll","Bey allen diesen Verordnungen hat die Justiz gar nicht concurrirt, son"
 1,24,break,held,hand,0,0,0,es sind ihr dieselben blos zur Befolgung zugefertigt worden.,"Die Haupträdelsführer, Niemoiewski, Wybicki, Xaver Dombrowski,"
