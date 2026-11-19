@@ -251,3 +251,13 @@ The English was translated from the editor's transcription in a working
 session under the same rules as the other holdings. The summaries in both
 languages were written with it, and each of their statements was checked
 against the document.
+
+## The scans lost and restored (2026-11-19)
+
+From 2026-11-04 to 2026-11-19 the site showed this holding's text with no
+scans: a full rebuild run in a checkout without its pages in `pages/` wrote
+`page_scan_map.csv` with every image empty, and that was published. The
+editor noticed it; the map was restored from its last good version
+(26 October), the pairing unchanged, and `match_scans.py` and `verify_site.py`
+now guard against it (WORKING_NOTES, "A full rebuild blanks a holding's
+scan map").

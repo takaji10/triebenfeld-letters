@@ -161,7 +161,20 @@ def load_captures():
     """[(capture_no, [filename, ...]), ...] in physical order."""
     by_num = defaultdict(list)
     unparsed = []
-    for f in sorted(os.listdir(PAGES_DIR)):
+    # The full-size pages live in pages/ only on a machine that has staged
+    # them. Where none of this holding's are there, its web copies in
+    # site/assets/scans/ (the same names, committed) stand in, so that a run
+    # in a checkout without them does not write every page as having no scan
+    # (Poznań Gr.1181 and Ossolineum 2289 lost their images that way on
+    # 2026-11-04; WORKING_NOTES, "A full rebuild blanks a holding's scan map").
+    src_dir = PAGES_DIR
+    if not any(FN.match(f) for f in os.listdir(PAGES_DIR)):
+        derivs = os.path.join(ROOT, 'site', 'assets', 'scans')
+        if os.path.isdir(derivs) and any(FN.match(f) for f in os.listdir(derivs)):
+            print(f'  no {UNIT.ascii_prefix} pages in pages/: pairing from the '
+                  f'web copies in site/assets/scans/')
+            src_dir = derivs
+    for f in sorted(os.listdir(src_dir)):
         if not f.lower().endswith('.jpg'):
             continue
         m = FN.match(f)

@@ -11,7 +11,7 @@ Checks:
 
 Run after `jekyll build`. Exits non-zero on any failure.
 """
-import io, sys, os, re, json, html, collections
+import csv, io, sys, os, re, json, html, collections
 from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import unitlib
@@ -137,6 +137,47 @@ def main():
     print(f'  {len(seen)}/{len(by_uid)} documents built with exact text'
           + (f' ({n_tables} as tables, checked cell by cell)' if n_tables else ''))
     print(f'  {total_ms_pages} manuscript page sections')
+
+    # ---- 2b: every page of a holding with scans shows its scan ------------
+    # A holding with scans (a non-empty scan_rename_map.json) shows a scan
+    # beside every page, unless its page_scan_map.csv says in its note why
+    # that page has none (the four letters of Oe 1 Bü 9454 missing in the
+    # archive). Poznań Gr.1181 and Ossolineum 2289 lost all their scans on
+    # 2026-11-04, when a full rebuild in a checkout without their pages in
+    # pages/ wrote their maps empty, and the text checks passed it.
+    print('checking that the pages show their scans...')
+    no_scan = 0
+    for u in unitlib.load_units():
+        _udir = os.path.join(ROOT, 'units', u.slug)
+        _rm = os.path.join(_udir, 'scan_rename_map.json')
+        _pm = os.path.join(_udir, 'page_scan_map.csv')
+        if not os.path.isfile(_rm):
+            continue
+        with open(_rm, encoding='utf-8') as f:
+            if not json.load(f):
+                continue
+        excused = {}
+        if os.path.isfile(_pm):
+            with open(_pm, encoding='utf-8-sig', newline='') as f:
+                for row in csv.DictReader(f):
+                    if not row['image'].strip() and (row.get('note') or '').strip():
+                        excused[row['letter']] = excused.get(row['letter'], 0) + 1
+        for rec in recs:
+            if rec.get('unit') != u.slug:
+                continue
+            rel = rec.get('permalink', '').strip('/').replace('/', os.sep)
+            path = os.path.join(SITE, rel, 'index.html')
+            if not os.path.isfile(path):
+                continue
+            with open(path, encoding='utf-8') as f:
+                secs = re.findall(r'<section class="ms-page".*?</section>', f.read(), re.S)
+            bare = sum(1 for s in secs if '<img class="scan"' not in s)
+            if bare > excused.get(str(rec['letter_id']), 0):
+                no_scan += 1
+                fail(f'{rec["uid"]}: {bare} of {len(secs)} pages show no scan, though '
+                     f'the holding has scans (units/{u.slug}/page_scan_map.csv)')
+    if not no_scan:
+        print('  every page of a holding with scans shows one')
 
     # ---- 3: internal links -----------------------------------------------
     print('checking internal links...'

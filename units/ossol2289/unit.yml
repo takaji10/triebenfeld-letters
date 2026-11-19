@@ -63,7 +63,9 @@ repository: ossolineum-wroclaw
 # (scratch/ossolineum2289/index_transcription.md, uncommitted), not yet
 # brought into the edition.
 scans:
-  raw_dir: C:/Users/Tersnaus/Downloads/Ossolineum/Listy, dokumenty i wiersze Stanisława Przyłęckiego (2289.II)
+  # Moved from Downloads/Ossolineum/ to the editor's References folder
+  # (the editor, 2026-11-19).
+  raw_dir: J:/Documents/Archive/Genealogy/References/Ossolineum/Listy, dokumenty i wiersze Stanisława Przyłęckiego (2289.II)
   raw_glob: "NBO-2289--*.tif"
 
   # Web derivatives are copied into site/assets/scans/ under an ASCII-safe

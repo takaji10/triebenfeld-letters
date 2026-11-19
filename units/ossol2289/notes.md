@@ -155,3 +155,13 @@ None. The leaf is whole; the copyist's hand is firm.
 - the remaining 29 scans (sweep logged, uncommitted) and the missing
   continuation of the Patent of 25 lipca 1794 between leaves 0048 and 0054;
 - the recipient metadata stays empty while the attribution is ruled out.
+
+## The scans lost and restored (2026-11-19)
+
+From 2026-11-04 to 2026-11-19 the site showed this holding's text with no
+scans: a full rebuild run in a checkout without its pages in `pages/` wrote
+`page_scan_map.csv` with every image empty, and that was published. The
+editor noticed it; the map was restored from its last good version
+(1 November), the pairing unchanged, and `match_scans.py` and `verify_site.py`
+now guard against it (WORKING_NOTES, "A full rebuild blanks a holding's
+scan map"). The scans now live at `J:/Documents/Archive/Genealogy/References/Ossolineum/Listy, dokumenty i wiersze Stanisława Przyłęckiego (2289.II)` (the editor, 2026-11-19; `raw_dir` in unit.yml), no longer in Downloads.

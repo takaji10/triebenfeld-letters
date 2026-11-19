@@ -2748,6 +2748,14 @@ cloud branches").
   does not catch it. After a full run, look at `git diff units/*/page_scan_map.csv`
   and restore any map that lost its images (`git checkout -- <file>`), then
   run the merged steps again (`regenerate.MERGED`) and the site build.
+  **It happened again** (the faithfulness review's rebuild of 2026-11-04
+  blanked Gr.1181 and Ossolineum 2289, and the blank maps were published;
+  the editor found it 2026-11-19): a note is not a guard. Now
+  `match_scans.py` pairs from the web copies in `site/assets/scans/` when
+  `pages/` holds none of a holding's pages, and `verify_site.py` fails when
+  a page of a holding with scans shows none (unless its map row's note
+  says why, as Oe 1 Bü 9454's missing letters do). The maps were restored
+  from their last good commits; the line ranges were unchanged.
 - The committed `dataset/` had gone stale after the register's Grądzyń
   pattern was widened (the gazetteer's sources commit) and was rebuilt on
   2026-10-28; the literature index's three unruled pairs were ruled by the
