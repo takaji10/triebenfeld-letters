@@ -92,14 +92,15 @@ CORRECTIONS = [
     ('0006_a2', 'Grafen von Höym', 'Grafen von Hoym',
      'no umlaut on the page (readers 1 and 2), the minister\'s settled form'),
     # The King's decision (document 2)
-    ('0006_a2', 'Nach genauer Betrachtung', 'Nach genauer Untersuchung[?]',
-     'no B: the word opens with a looped capital and runs "-nter-s-uchung" (reader 1 and Claude; reader 2 "Erwegung"); kept doubtful'),
+    # "Nach genauer Betrachtung" stands as the editor transcribed it: their
+    # answer on the spot sheet (q2, 2026-11-19) against reader 1's and
+    # Claude's "Untersuchung[?]" and reader 2's "Erwegung".
     ('0006_a2', 'finde binnen der', 'finde keinen der',
      'the looped k of the hand; "finde keinen der Condemnirten einer Minderung der Strafe würdig" is the one reading of the sentence (Claude; reader 2 also no "binnen")'),
     ('0006_a2', 'der straffe strafen\n', 'der strafen\n',
      'two words on the line are struck through (readers 1 and 2); struck-out text is not transcribed (EDITORIAL_RULES, 2026-10-05)'),
-    ('0006_a2', 'zu erkennen[?]', 'zu erlegung[?]',
-     'the g with its descender; "zu erlegung derselben angehalten" is the one reading (Claude); kept doubtful'),
+    ('0006_a2', 'zu erkennen[?]', 'zu erlegung',
+     'the g with its descender; "zu erlegung derselben angehalten" (Claude), confirmed by the editor on the spot sheet (q4, 2026-11-19)'),
     ('0006_a2', 'mäßigen am[e?]st', 'mäßigen arest',
      'a-r-e-s-t (readers 1 and 2 and Claude): "zu dem Verhältniß mäßigen Arest gebracht"'),
     # The list (document 3)

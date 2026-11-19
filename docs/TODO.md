@@ -1595,9 +1595,10 @@ transcription; 108 readings settled in session before the first build
 ## 63. I. HA GR, Rep. 7 C, Nr. 3067: Goldbeck's promemoria on the insurgents, 1797 (added 2026-11-19, **not published**)
 
 - [x] Pages cut, the editor's transcription checked by four Sonnet readers
-      and Claude (24 corrections), built; English, summaries (claim-checked),
+      and Claude (23 corrections), built; English, summaries (claim-checked),
       holding page in both languages, index.
-- [ ] You: the spot sheet (eight readings); the questions in
+- [x] The spot sheet answered and applied (2026-11-19).
+- [ ] You: the questions in
       NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3067": the reference's GR,
       the era, person entries, the connections, a timeline event).
 - [ ] Publish at your word.

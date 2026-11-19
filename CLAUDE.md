@@ -125,10 +125,10 @@ so check them.
   to Friedrich Wilhelm II on the sentences passed on the insurgents of 1794
   and a further pardon, the King's own-hand refusal beneath it (new kind
   `royal_resolution`), and the enclosed list of the 31 condemned (a register).
-  The editor's transcription checked by four Sonnet readers and Claude (24
+  The editor's transcription checked by four Sonnet readers and Claude (23
   corrections); translated, summarised and claim-checked in session; era
-  `hohenlohe`. Open: the spot sheet (eight readings) and the questions in
-  NEEDS_CONFIRMATION (the reference's GR, the era, person entries,
+  `hohenlohe`. The spot sheet answered and applied the same day. Open: the
+  questions in NEEDS_CONFIRMATION (the reference's GR, the era, person entries,
   connections). Read `units/ihagrrep7cnr3067/notes.md` first, and
   WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 3067".
 

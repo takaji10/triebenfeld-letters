@@ -4220,3 +4220,23 @@ first and a fine pass at their word. The files are in
   (`royal_resolution`, i18n.yml both languages). A list the paper encloses
   takes its date as `inferred` with the basis given, and the basis needs its
   German in `reference/site_notes_de.yml`.
+- **The editor overruled a correction made on two readers' word**
+  (2026-11-19, the spot sheet): the King's "Nach genauer Betrachtung" had
+  been changed to "Untersuchung[?]" on reader 1 and Claude (reader 2 had a
+  third word, "Erwegung"). The editor's reading stood. In a hard hand,
+  where the readers do not agree among themselves and the editor's word is
+  not plainly impossible, leave the editor's word in the text and put the
+  alternatives on the spot sheet; do not change it first.
+- **A spot sheet as one HTML file, no server**
+  (`units/ihagrrep7cnr3067/intake/spot_sheet_html.py`, the editor asked for
+  "a html spot sheet"): the crops embedded as data URIs (a close crop and a
+  taller view of the lines around it), answers in localStorage, a "Copy
+  answers" button giving JSON in the shape of `query_answers.json` for the
+  editor to paste into the chat. Look at every crop before handing it over
+  (one here cut off the first letter of its word).
+- **After a change to a page file, the order of the rebuild matters**:
+  `import_pages.py --boundaries` needs the CSV's path
+  (`review/<slug>/document_boundaries.csv`), and `write_cache.py` takes the
+  German from the dataset, not from `corpus.txt`, so `regenerate.py` must
+  run before the English is re-cached. Otherwise `check_translations.py`
+  counts the old marks of doubt and reports a missing one.

@@ -2135,12 +2135,10 @@ The one finding that touches the edition:
 
 Read `units/ihagrrep7cnr3067/notes.md` first.
 
-1. **The spot sheet** (`review/ihagrrep7cnr3067/open_queries.csv`, eight
-   rows with a picture each): "befreyt" in the promemoria; in the King's hand
-   "Untersuchung[?]" (the editor's text had "Betrachtung"), "verbrach[en?]",
-   "erlegung[?]" (the editor's text had "erkennen[?]"), "da[?]"; in the list
-   "dererjenigen", "Pistrzkowski", entry 23's "Mißbrauch". Each stands as now
-   transcribed until answered.
+1. **The spot sheet: answered 2026-11-19.** "Betrachtung" (the editor's own
+   reading) and "erlegung" ruled in; "befreyt", "dererjenigen",
+   "Pistrzkowski", "Mißbrauch" stand; "verbrach[en?]" and "da[?]" stay
+   doubtful (the editor could not tell either). Nothing left open here.
 2. **The reference**: given by the editor as "I. HA Rep. 7 C, Nr. 3067",
    written "I. HA GR, Rep. 7 C, Nr. 3067" like the series' other files
    (Claude's choice). Say if it should stand without GR.

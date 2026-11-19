@@ -60,7 +60,7 @@ the list), each given the page in overlapping strips at full resolution and a
 list of suspect spots without the suspected answer; reader 2 read the King's
 lines from the image before opening the transcription, reader 4 the names and
 dates of 0008_a2. Claude then looked at every disputed word on an enlarged
-crop. 24 corrections, each with its witness, in `intake/build_pages.py`
+crop. 23 corrections, each with its witness, in `intake/build_pages.py`
 (CORRECTIONS): among them "zufürtzerer" → "zu kürtzerer", "größtintheils" →
 "größtentheils" (the same word six lines below), "ge¬ / geldet" →
 "ge¬ / meldet", "Straf E[w?][r?][m?]¬pel" → "Straf Exem¬pel" (the fixed
@@ -69,18 +69,19 @@ formula), "Mnewski" → "Mniewski", "Höym" → "Hoym", "Weiler" → "Weil er"
 "der", "December" → "Dezember" (entry 14), "4 Jahre" → "4 Jahr" (entry 26).
 In the King's hand: "binnen" → "keinen" (the one reading of the sentence:
 "finde keinen der Condemnirten einer Minderung der Strafe würdig"),
-"Betrachtung" → "Untersuchung[?]", "erkennen[?]" → "erlegung[?]",
+"erkennen[?]" → "erlegung" (confirmed by the editor),
 "am[e?]st" → "arest", and the struck word "straffe" taken out (struck-out text
 is not transcribed: EDITORIAL_RULES, 2026-10-05; two words on that line are
 struck, the editor had transcribed one of them).
 
-Left as transcribed, on the editor's spot sheet (`intake/spot_sheet.py`,
-`review/ihagrrep7cnr3067/open_queries.csv`, eight rows): "befreyt" (all three
-readings see "freyt", but the figures that follow are sentences, not
-releases; a thought, not a reading: "befragt"?), the King's "Untersuchung[?]",
-"verbrach[en?]", "erlegung[?]", "da[?]" (one reader: "die schon"),
-"dererjenigen" (one reader: "derjenigen"), "Pistrzkowski" (one reader:
-"Pistzkowski"), "Mißbrauch" of entry 23 (entry 5 has "Mißbrauchs").
+The editor's spot sheet (`intake/spot_sheet.py`; as one self-contained
+page, `intake/spot_sheet_html.py` -> `review/ihagrrep7cnr3067/spot_sheet.html`),
+eight rows, answered 2026-11-19: "befreyt", "dererjenigen", "Pistrzkowski" and
+entry 23's "Mißbrauch" stand as transcribed; **"Betrachtung" stands, the
+editor's own reading**, against reader 1's and Claude's "Untersuchung[?]" and
+reader 2's "Erwegung" (Claude's correction withdrawn; the English reads "After
+close consideration"); "erlegung" confirmed, its [?] removed; "verbrach[en?]"
+and "da[?]" the editor could not tell either, and they stay doubtful.
 
 Not transcribed, as in the editor's text: the "# #" marks above "Sollten Sr
 Königliche Majestät" (0005_a), above "Es schweben noch einige wenige

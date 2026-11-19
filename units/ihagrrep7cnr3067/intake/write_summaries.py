@@ -4,8 +4,8 @@ and site/_data/summaries_de.yml. Written in session 2026-11-19 from the
 corrected German; the claim check is intake/claim_check.yml. Run once; run
 again with --replace after a correction, which swaps the entries in place.
 
-A word the reading leaves doubtful (the King's "Untersuchung[?]", "erlegung[?]",
-the "befreyt" of the promemoria) carries no statement of its own.
+A word the reading leaves doubtful (the King's "verbrach[en?]", "da[?]")
+carries no statement of its own.
 """
 import io
 import sys
