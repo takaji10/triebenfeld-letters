@@ -47,7 +47,9 @@ leaf; 0006 and 0008 are openings, cut at the fold on the binding thread by
   into number, name and offence; C 20 and 21, one row there, two here), and
   `build_pages.py` (TABLE) fills each cell with the corrected words of the
   page, every word placed exactly once. In a cell the line ends are spaces and
-  a broken word keeps its "¬" joined ("Geist¬lichen"); the list's line-end
+  a word broken at a line end is joined without its "¬" ("Geistlichen"; the
+  editor: "you don't need to do this"), two words where the next part is
+  capitalised ("Krieg Commission", "Vestungs Strafe"); the list's line-end
   decisions lapsed. The braces of the page (A 1 and 2 share one offence; C 20
   and 21 one offence and one month) are given once, in the first row. Columns
   3 to 5 (offence, length, month) are text columns (`table_text_columns` in
@@ -140,8 +142,8 @@ claim-checked by a Sonnet sub-agent (`intake/claim_check.yml`: 58 statements,
   Magnuski of 1805 (not shown to be Vincent von Magnuski; `seed_not_in`).
 - Places: Włocławek now matches "Wraclawec" (the pattern hit only this list
   and the existing "Wraclawek" of Oe 1 Bü 14525-28); Łęczyca matches
-  "Lenczyc..."; Rypin added as a place. The broken "Wrac¬lawek" (B 2) is not
-  found by the matcher.
+  "Lenczyc..."; Rypin added as a place. B 2's "Wrac¬lawek", broken at a line
+  end, is "Wraclawek" in the table and matched since 2026-11-19.
 - "Prudzinski" (document 1, among the fled ringleaders; the page plainly
   has the d) is Antoni Prusimski: the editor's identification, 2026-11-19.
   Matched to `prusimski` by its own alternative in the `match` (not a

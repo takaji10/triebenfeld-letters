@@ -36,9 +36,12 @@ each cell with the corrected words of the page. Each cell is placed on the
 page's own words (the editor's text file and the spreadsheet hold the same
 words; every word must be used exactly once, or nothing is written), and the
 corrections carried into the cell that holds the word. Inside a cell the
-page's line ends become spaces; a word broken at a line end keeps its "¬",
-joined ("Geist¬lichen"). The list's line-end decisions in
-linebreak_decisions.csv lapse with it: a table's row is not a line.
+page's line ends become spaces, and a word broken at a line end is joined
+without its "¬" ("Geistlichen"; the editor, 2026-11-19: "you don't need to do
+this"), except where the next part is capitalised, which the reading keeps
+apart as two words ("Krieg Commission", "Vestungs Strafe"; corpus_pages.py,
+a split break). The list's line-end decisions in linebreak_decisions.csv lapse
+with it: a table's row is not a line.
 """
 import csv
 import difflib
@@ -182,7 +185,8 @@ def to_table(pid, raw_lines, new_lines, rows, problems):
     buf = io.StringIO()
     w = csv.writer(buf, lineterminator='\n')
     for ri, row in enumerate(rows):
-        w.writerow([re.sub('¬ ', '¬', ' '.join(got.get((ri, ci), [])))
+        w.writerow([re.sub(r'¬ (\S)', lambda m: (' ' if m.group(1).isupper() else '') + m.group(1),
+                           ' '.join(got.get((ri, ci), [])))
                     for ci in range(len(row))])
     return buf.getvalue().rstrip('\n').split('\n')
 

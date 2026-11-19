@@ -55063,6 +55063,62 @@
   ]
  },
  {
+  "entity": "wloclawek",
+  "display": "Włocławek (Leslau)",
+  "count": 5,
+  "documents": [
+   "ihagrrep7cnr3067-3",
+   "oe1bu14525-28"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wraclawec",
+    "page": 2,
+    "page_id": "0008_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L3_02.jpg",
+    "line": 120,
+    "doc_line": 5
+   },
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wraclawek",
+    "page": 2,
+    "page_id": "0008_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L3_02.jpg",
+    "line": 124,
+    "doc_line": 9
+   },
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wraclawec",
+    "page": 3,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg",
+    "line": 148,
+    "doc_line": 32
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Wraclawek",
+    "page": 1,
+    "page_id": "0121_b",
+    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
+    "line": 3449,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Wraclawek",
+    "page": 2,
+    "page_id": "0122_a1",
+    "scan": "Oe_1_Bu_14525_0122_a1-L28_02.jpg",
+    "line": 3473,
+    "doc_line": 35
+   }
+  ]
+ },
+ {
   "entity": "boehmen",
   "display": "Böhmen",
   "count": 5,
@@ -56185,53 +56241,6 @@
     "scan": "APP_53_21_0_Pyzdry_Gr_115_0543_a-L1_01.jpg",
     "line": 10,
     "doc_line": 8
-   }
-  ]
- },
- {
-  "entity": "wloclawek",
-  "display": "Włocławek (Leslau)",
-  "count": 4,
-  "documents": [
-   "ihagrrep7cnr3067-3",
-   "oe1bu14525-28"
-  ],
-  "mentions": [
-   {
-    "uid": "ihagrrep7cnr3067-3",
-    "surface": "Wraclawec",
-    "page": 2,
-    "page_id": "0008_a1",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L3_02.jpg",
-    "line": 120,
-    "doc_line": 5
-   },
-   {
-    "uid": "ihagrrep7cnr3067-3",
-    "surface": "Wraclawec",
-    "page": 3,
-    "page_id": "0008_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg",
-    "line": 148,
-    "doc_line": 32
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Wraclawek",
-    "page": 1,
-    "page_id": "0121_b",
-    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
-    "line": 3449,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Wraclawek",
-    "page": 2,
-    "page_id": "0122_a1",
-    "scan": "Oe_1_Bu_14525_0122_a1-L28_02.jpg",
-    "line": 3473,
-    "doc_line": 35
    }
   ]
  },

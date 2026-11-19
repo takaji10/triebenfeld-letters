@@ -1149,10 +1149,10 @@
   letters: [{id: "220", uid: "oe1bu9454-220", url: "/documents/oe1bu9454/220/", unit_label: "HZAN Oe 1 Bü 9454", n: 5}, {id: "221", uid: "oe1bu9454-221", url: "/documents/oe1bu9454/221/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}]
 - slug: "wloclawek"
   name: "Włocławek (Leslau)"
-  count: 3
+  count: 4
   docs: 2
   span: "1797–1802"
-  letters: [{id: "3", uid: "ihagrrep7cnr3067-3", url: "/documents/ihagrrep7cnr3067/3/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3067", n: 2}, {id: "28", uid: "oe1bu14525-28", url: "/documents/oe1bu14525/28/", unit_label: "Oe 1 Bü 14525", n: 1}]
+  letters: [{id: "3", uid: "ihagrrep7cnr3067-3", url: "/documents/ihagrrep7cnr3067/3/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3067", n: 3}, {id: "28", uid: "oe1bu14525-28", url: "/documents/oe1bu14525/28/", unit_label: "Oe 1 Bü 14525", n: 1}]
 - slug: "lenschitz"
   name: "Łęczyca (Lenschitz)"
   count: 2
