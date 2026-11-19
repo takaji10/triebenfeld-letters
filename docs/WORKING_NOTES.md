@@ -4184,3 +4184,39 @@ first and a fine pass at their word. The files are in
   changes says what they are and where they come from, keeps them out of its
   own commit, and commits them separately at the editor's word (done
   2026-11-13, 2025e0ff0).
+
+## I. HA GR, Rep. 7 C, Nr. 3067: checking the editor's transcription with four readers (2026-11-19)
+
+- **Four Sonnet readers, two per part, started at the same time**, worked
+  well for a short file (six pages). Each got the page in overlapping strips
+  at full resolution (about 650 px high, 130 px overlap; 520 px for the
+  table), the editor's text with line numbers, and a list of suspect spots
+  *without* the suspected answer; one reader of each pair read the hardest
+  part (the King's hand, the list's names and dates) from the image before
+  opening the transcription. They found the spacing slips the editor's
+  recognition model makes ("Weiler" for "Weil er", "Ausgleicher",
+  "zufürtzerer"), a wrong line start ("geldet" for "ge-/meldet"), case
+  endings ("des Insurrektion"), and struck-out words; they disagreed on the
+  King's words, which Claude settled on enlarged crops and sent the rest to
+  the spot sheet. Every correction was taken only with a witness or a plain
+  page (NEW_UNIT 3a), and recorded with it in `intake/build_pages.py`.
+- **A reader can say it wrote its report and not have written it**: reader 1
+  ended "Report written to .../report.md" and the folder held only its
+  crops. Its hand-back message carried the main findings; check the file
+  exists before relying on it.
+- **Readers report the filler dots and dashes of a table, the braces and
+  underlining**: not text, not transcribed; say so once in the notes.
+- **A claim checker flags what rests on the edition's own identification**
+  ("the Grand Chancellor Goldbeck" where the paper signs "Goldbeck"). Keep
+  such a statement when a person entry or the archive's title settles it,
+  and write the reason into the claim-check record's header.
+- **A Python script written through a bash heredoc can turn "\n" inside
+  its strings into real newlines** (the CORRECTIONS list broke twice). Write
+  a script with string escapes through the Write tool, not a heredoc.
+- **`pattern_impact.py` dies on a Polish letter in this shell's cp1252
+  console**: run it with `PYTHONIOENCODING=utf-8`.
+- **A decision written beneath the paper it answers** is a document of its
+  own with `first_line` in the boundaries; its kind here was new
+  (`royal_resolution`, i18n.yml both languages). A list the paper encloses
+  takes its date as `inferred` with the basis given, and the basis needs its
+  German in `reference/site_notes_de.yml`.

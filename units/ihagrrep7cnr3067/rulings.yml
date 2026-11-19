@@ -1,0 +1,52 @@
+# Editorial rulings for I. HA GR, Rep. 7 C, Nr. 3067 (GStA PK).
+#
+# Three documents, as they lie in the file: the Grand Chancellor Goldbeck's
+# promemoria of 16 February 1797 (1), the King's decision in his own hand
+# written beneath it on the same page (2), and the list of the condemned that
+# the promemoria encloses ("nach der beyliegenden Liste") (3). A decision
+# written on the paper it answers is its own document, starting partway down
+# that page (docs/NEW_UNIT.md, "A file the office wrote on"). Established
+# 2026-11-19.
+
+places:
+  overrides:
+    "1": Berlin     # "Berlin den 16ten Februar 1797."
+    "2": Berlin     # written on the promemoria, the same day
+    "3": Berlin     # the promemoria's enclosure
+
+dates:
+  # [year, month, day, precision]; read off each document.
+  read:
+    "1": [1797, 2, 16, "day"]      # "Berlin den 16ten Februar 1797."
+    "2": [1797, 2, 16, "day"]      # "d 16 Februariy 1797", in the King's hand
+  # [year, month, day, precision, basis]
+  inferred:
+    "3": [1797, 2, 16, "day", "The list is the enclosure of Goldbeck's promemoria of 16 February 1797, which refers to it as the list lying beside it; its own latest entry is of November 1796."]
+  supplied: {}
+  twin: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": memorandum
+    "2": royal_resolution
+    "3": register
+
+  duplicate_of: {}
+  split_note: {}
+
+  relations:
+    "1":
+      - kind: transmits
+        target: "3"
+        note: "'nach der beyliegenden Liste': the promemoria cites the list's entries by number (Pratzmowski no. 7, Ryczewski no. 12, Maruczewski no. 13; Stockowski, Nowicki and Sobolewski, nos. 1 to 3 of those condemned for life)."
+    "2":
+      - kind: answers
+        target: "1"
+        note: "The King's decision stands beneath Goldbeck's date and signature on the last page of the promemoria and refuses the reductions it proposes."
+
+damage:
+  letters: []
+
+rough:
+  letters: []

@@ -119,6 +119,19 @@ so check them.
 
 ## Where things stand (2026-11-01)
 
+- **I. HA GR, Rep. 7 C, Nr. 3067 - Goldbeck's promemoria on the insurgents**
+  (slug `ihagrrep7cnr3067`, added 2026-11-19, branch `trampczynski-family`,
+  **not published**): the Grand Chancellor's promemoria of 16 February 1797
+  to Friedrich Wilhelm II on the sentences passed on the insurgents of 1794
+  and a further pardon, the King's own-hand refusal beneath it (new kind
+  `royal_resolution`), and the enclosed list of the 31 condemned (a register).
+  The editor's transcription checked by four Sonnet readers and Claude (24
+  corrections); translated, summarised and claim-checked in session; era
+  `hohenlohe`. Open: the spot sheet (eight readings) and the questions in
+  NEEDS_CONFIRMATION (the reference's GR, the era, person entries,
+  connections). Read `units/ihagrrep7cnr3067/notes.md` first, and
+  WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 3067".
+
 - **APŁ 39/98/0/-/1333 - the liquidation-tables file of Trąbczyn, part I**
   (slug `apl399801333`, added 2026-11-13, branch `trampczynski-family`,
   **published 2026-11-13**): the file's Russian index of 145 papers (a table,

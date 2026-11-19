@@ -512,7 +512,7 @@ jeziorko:
   span: ''
   letters: []
 kalisz:
-  docs: 111
+  docs: 112
   span: 1280–1897
   letters:
   - id: '6'
@@ -540,6 +540,11 @@ kalisz:
     url: /documents/adwl85/1/
     unit_label: ADWł 85
     n: 4
+  - id: '3'
+    uid: ihagrrep7cnr3067-3
+    url: /documents/ihagrrep7cnr3067/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 1
   - id: '31'
     uid: oe1bu14525-31
     url: /documents/oe1bu14525/31/
@@ -5207,7 +5212,7 @@ bayreuth:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 berlin:
-  docs: 218
+  docs: 219
   span: 1794–1936
   letters:
   - id: '13'
@@ -5229,6 +5234,11 @@ berlin:
     uid: ihagrrep7cnr1414-3
     url: /documents/ihagrrep7cnr1414/3/
     unit_label: I. HA GR, Rep. 7 C, Nr. 1414
+    n: 1
+  - id: '1'
+    uid: ihagrrep7cnr3067-1
+    url: /documents/ihagrrep7cnr3067/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
     n: 1
   - id: '10'
     uid: oe1bu14525-10
@@ -10114,7 +10124,7 @@ potsdam:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 posen:
-  docs: 71
+  docs: 72
   span: 1794–1936
   letters:
   - id: '13'
@@ -10127,6 +10137,11 @@ posen:
     url: /documents/oe1bu14525/39/
     unit_label: Oe 1 Bü 14525
     n: 1
+  - id: '1'
+    uid: ihagrrep7cnr3067-1
+    url: /documents/ihagrrep7cnr3067/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 2
   - id: '40'
     uid: oe1bu14525-40
     url: /documents/oe1bu14525/40/
@@ -11065,6 +11080,15 @@ russland:
     url: /documents/app539680669/2/
     unit_label: APP 53/968/0/-/669
     n: 2
+rypin:
+  docs: 1
+  span: '1797'
+  letters:
+  - id: '3'
+    uid: ihagrrep7cnr3067-3
+    url: /documents/ihagrrep7cnr3067/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 1
 rzgow:
   docs: 7
   span: 1261–1803
@@ -13065,7 +13089,7 @@ welna:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 wielun:
-  docs: 4
+  docs: 5
   span: 1782–1805
   letters:
   - id: '1'
@@ -13078,6 +13102,11 @@ wielun:
     url: /documents/app5320pozgr1181/1/
     unit_label: 53/20/0/-/Poznań Gr.1181
     n: 3
+  - id: '3'
+    uid: ihagrrep7cnr3067-3
+    url: /documents/ihagrrep7cnr3067/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 2
   - id: '177'
     uid: oe1bu9454-177
     url: /documents/oe1bu9454/177/
@@ -14649,9 +14678,14 @@ wuerttemberg:
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
 wloclawek:
-  docs: 1
-  span: '1802'
+  docs: 2
+  span: 1797–1802
   letters:
+  - id: '3'
+    uid: ihagrrep7cnr3067-3
+    url: /documents/ihagrrep7cnr3067/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 2
   - id: '28'
     uid: oe1bu14525-28
     url: /documents/oe1bu14525/28/
@@ -15051,9 +15085,14 @@ lukomia:
     unit_label: 53/17/0/-/Konin Gr.119
     n: 1
 lenschitz:
-  docs: 1
-  span: '1805'
+  docs: 2
+  span: 1797–1805
   letters:
+  - id: '3'
+    uid: ihagrrep7cnr3067-3
+    url: /documents/ihagrrep7cnr3067/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 1
   - id: '177'
     uid: oe1bu9454-177
     url: /documents/oe1bu9454/177/

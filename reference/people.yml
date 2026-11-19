@@ -209,10 +209,10 @@ people:
     # Two men of the name, told apart by date (editor, 2026-10-04: one entry
     # per person): the Grand Chancellor in 1796-98, the president at Kalisz
     # from 1805.
-    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr1414-1, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14]
+    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr1414-1, ihagrrep7cnr3067-1, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14]
     tier: "Externally confirmed"
     variants: []
-    identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79). In 1800 the Prince petitioned him to take the Prusimska suit away from the government at Poznań, and he ordered it (I. HA GR, Rep. 7 C, Nr. 3709)."
+    identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79). In 1800 the Prince petitioned him to take the Prusimska suit away from the government at Poznań, and he ordered it (I. HA GR, Rep. 7 C, Nr. 3709). In February 1797 he laid before the King the outcome of the proceedings against the insurgents of 1794 and proposed a further pardon, which the King refused (I. HA GR, Rep. 7 C, Nr. 3067)."
   goldbeck-kalisz:
     display: "President von Goldbeck"
     match: "Goldbeck"
@@ -1190,6 +1190,8 @@ people:
   constantin:
     display: "Grand Duke Constantin"
     match: 'Constantin(?![a-zà-ÿ])|Konstantin(?![a-zà-ÿ])|C[ée]sar[ée]vitch'
+    # Not "Constantin v. Mielewski" of the list of 1797 (2026-11-19).
+    not_in: [ihagrrep7cnr3067-3]
     tier: "Context-inferred"
     variants:
       - "Konstantin"
@@ -1568,8 +1570,8 @@ people:
     # 1797 (-40), and the two undated copies of donation charters (-3, -4),
     # which follow the wording of the 1796 charter; only he issued donation
     # charters for these estates. He died on 16 November 1797.
-    issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?\s*$|Friedrich Wil{1,2}helm(?= etc\.)'
-    issued_in: [oe1bu14525-1, oe1bu14525-3, oe1bu14525-4, oe1bu14525-5, oe1bu14525-8, oe1bu14525-9, oe1bu14525-10, oe1bu14525-40, ihagrrep7cnr3570-1]   # the last: the draft of the 1796 charter itself (added 2026-09-30)
+    issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?\s*$|Friedrich Wil{1,2}helm(?= etc\.)|^Fr\. Wilhelm\s*$'
+    issued_in: [ihagrrep7cnr3067-2, oe1bu14525-1, oe1bu14525-3, oe1bu14525-4, oe1bu14525-5, oe1bu14525-8, oe1bu14525-9, oe1bu14525-10, oe1bu14525-40, ihagrrep7cnr3570-1]   # the last: the draft of the 1796 charter itself (added 2026-09-30)
     tier: "Established"
     variants: []
     identity: "Friedrich Wilhelm II (1744-1797), King of Prussia from 1786; granted the South Prussian estates to the Prince in 1796-97. Added 2026-09-30."
@@ -1778,6 +1780,9 @@ people:
   sobolewski:
     display: "Sobolewski"
     match: 'Sobol[eo]wski'
+    # Not Joseph Sobolewski, condemned for life after the rising of 1794
+    # (I. HA GR, Rep. 7 C, Nr. 3067, documents 1 and 3; 2026-11-19).
+    not_in: [ihagrrep7cnr3067-1, ihagrrep7cnr3067-3]
     tier: "Text-confirmed"
     variants:
       - "Sobolowski"
@@ -1856,7 +1861,7 @@ people:
     match: 'Wybick\w*'
     tier: "Text-confirmed"
     variants: []
-    identity: "The senator and voivode Wybicki, whose estate of Manieczki, confiscated by Prussia and given to General von Zastrow, was returned to him in 1807; the Warsaw report of 1818 cites his case (III. HA MdA, III. Nr. 12366, document 2). Józef Wybicki owned Manieczki. A Wybicki at Warsaw is written to in 1810 (9454). Added 2026-10-04."
+    identity: "The senator and voivode Wybicki, whose estate of Manieczki, confiscated by Prussia and given to General von Zastrow, was returned to him in 1807; the Warsaw report of 1818 cites his case (III. HA MdA, III. Nr. 12366, document 2). Józef Wybicki owned Manieczki. A Wybicki at Warsaw is written to in 1810 (9454). In February 1797 Goldbeck names a Wybicki among the chief ringleaders of the rising of 1794 who had fled and whose property was confiscated (I. HA GR, Rep. 7 C, Nr. 3067, document 1); taken to be the same man, whose confiscated estate the 1818 report cites - Claude's identification (2026-11-19). Added 2026-10-04."
   niemojewski:
     display: "Niemojewski"
     # Niemoiewskiego and Niemojewskiego in the Polish of 1807 (AGAD 1/174/0/2/73
@@ -1864,7 +1869,7 @@ people:
     match: 'Niemo[ji]ewsk\w*'
     tier: "Text-confirmed"
     variants: []
-    identity: "General Niemojewski, restored in 1807 to an estate that Prussia had confiscated and given away, free of debt; cited as a precedent in the Warsaw report of 1818 (III. HA MdA, III. Nr. 12366, document 2). Added 2026-10-04."
+    identity: "General Niemojewski, restored in 1807 to an estate that Prussia had confiscated and given away, free of debt; cited as a precedent in the Warsaw report of 1818 (III. HA MdA, III. Nr. 12366, document 2). In February 1797 Goldbeck names Niemoiewski first among the chief ringleaders of the rising of 1794 who had fled and whose property was confiscated (I. HA GR, Rep. 7 C, Nr. 3067, document 1); taken to be the same man - Claude's identification (2026-11-19). Added 2026-10-04."
   wichrowski:
     display: "Wichrowski"
     match: 'Wichrowsk[iy]'
@@ -2292,3 +2297,6 @@ golinski:
 seed_not_in:
   # Otto of Trąbczyn (otto-z-trabczyna), not the Otto of the correspondence.
   Otto: [kdw-19]
+  # Vincent von Magnuski, condemned in 1795 (I. HA GR, Rep. 7 C, Nr. 3067,
+  # document 3), is not shown to be the creditor Magnuski of 1805.
+  Magnuski: [ihagrrep7cnr3067-3]

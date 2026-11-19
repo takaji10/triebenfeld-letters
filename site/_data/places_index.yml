@@ -1513,6 +1513,12 @@ tier2:
   kind_en: Country
   kind_de: Land
   german: ''
+- slug: rypin
+  name: Rypin
+  name_de: Rypin
+  kind_en: Town
+  kind_de: Stadt
+  german: ''
 - slug: rzgow
   name: Rzgów
   name_de: Rzgów

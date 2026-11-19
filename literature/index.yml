@@ -771,6 +771,10 @@ places:
   popowo:
     # Teki Dworzaczka c10 (1720): "Popowo i Debrzno z 2-gich [działów] po ... Ludwika", in the district of Poznań: from the same second division as Kamionna and Kolno, so taken for the Popowo bordering Kolno (Claude's identification).
     Popowo: yes
+  # The town in the Dobrzyń land (added as a place 2026-11-19 for I. HA GR,
+  # Rep. 7 C, Nr. 3067): every hit is that town - Breyer (1935), Kneifel
+  # (1964), Muszyńska (1947), the Słownik geograficzny ("pow. rypiński").
+  rypin: {Rypin: yes}
   wierzbno:
     # Teki Dworzaczka c10 (1720): "Wierzbno i Brzezno w p. pozn." - the Prusimski estates of the decree of 1784; the regest puts them in the district of Poznań, which bears on the open question of which Wierzbno (reference/places.yml).
     Wierzbno: yes

@@ -6777,6 +6777,143 @@
   "permalink": "/documents/ihagrrep7cnr1414/3/"
  },
  {
+  "uid": "ihagrrep7cnr3067-1",
+  "unit": "ihagrrep7cnr3067",
+  "letter_id": "1",
+  "doc_type": "memorandum",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1797-02-16",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 94,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0005_a",
+    "image": "I_HA_Rep_7_C_Nr_3067_0005_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0006_a1",
+    "image": "I_HA_Rep_7_C_Nr_3067_0006_a1-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0006_a2",
+    "image": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 2,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "memorandum 1",
+  "path": "documents/ihagrrep7cnr3067-1.json",
+  "text_path": "text/ihagrrep7cnr3067-1.txt",
+  "permalink": "/documents/ihagrrep7cnr3067/1/"
+ },
+ {
+  "uid": "ihagrrep7cnr3067-2",
+  "unit": "ihagrrep7cnr3067",
+  "letter_id": "2",
+  "doc_type": "royal_resolution",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1797-02-16",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 12,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0006_a2",
+    "image": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 5,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 0,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "royal resolution 2",
+  "path": "documents/ihagrrep7cnr3067-2.json",
+  "text_path": "text/ihagrrep7cnr3067-2.txt",
+  "permalink": "/documents/ihagrrep7cnr3067/2/"
+ },
+ {
+  "uid": "ihagrrep7cnr3067-3",
+  "unit": "ihagrrep7cnr3067",
+  "letter_id": "3",
+  "doc_type": "register",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1797-02-16",
+  "date_precision": "day",
+  "date_source": "inferred",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 200,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0007_a",
+    "image": "I_HA_Rep_7_C_Nr_3067_0007_a-L3_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0008_a1",
+    "image": "I_HA_Rep_7_C_Nr_3067_0008_a1-L3_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0008_a2",
+    "image": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 5,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "register 3",
+  "path": "documents/ihagrrep7cnr3067-3.json",
+  "text_path": "text/ihagrrep7cnr3067-3.txt",
+  "permalink": "/documents/ihagrrep7cnr3067/3/"
+ },
+ {
   "uid": "oe1bu14525-10",
   "unit": "oe1bu14525",
   "letter_id": "10",

@@ -1836,7 +1836,15 @@ places:
     display: Łęczyca
     german: Lenschitz
     kind: town
-    match: Lenschitz
+    match: Lenschitz|Lenczyc\w*
+    tier: Established
+    variants: []
+  rypin:
+    # The attack on the town by the insurgents of 1794 (I. HA GR, Rep. 7 C,
+    # Nr. 3067, document 3). Added 2026-11-19.
+    display: Rypin
+    kind: town
+    match: Rypin\b
     tier: Established
     variants: []
   wielun:
@@ -1963,7 +1971,7 @@ places:
     display: Włocławek
     german: Leslau
     kind: city
-    match: Wroc[łl]awek\b|Wraclawek\b
+    match: Wroc[łl]awek\b|Wraclawe[kc]\b
     tier: Book-confirmed
     variants: []
   lukomin:

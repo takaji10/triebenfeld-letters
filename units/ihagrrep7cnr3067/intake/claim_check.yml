@@ -1,0 +1,87 @@
+# The claim check of the English summaries of I. HA GR, Rep. 7 C, Nr. 3067,
+# made in session on 2026-11-19 by a Sonnet sub-agent under the rules
+# read_letters.py --verify gives its checker: every statement held to the
+# German, verdict supported / overstated / unsupported, the summary only
+# weakened or cut. Not a paid run.
+#
+# Result: 58 statements, 52 supported, 6 overstated, none unsupported. Applied
+# (intake/write_summaries.py, English and German): the short sentences "could"
+# be remitted (a proposal, and most were served already); "nine of them", not
+# "most", for especially active participation; Masowiecki and Dziewanowski
+# "present at" the attack on Rypin; Czimay and Ruba "taking an active part" in
+# the attack at Włocławek. Kept, with the reason: "the Grand Chancellor
+# Goldbeck" (the edition's person entry identifies the Goldbeck who signs in
+# Berlin in 1796-1798 as the Grand Chancellor, and the archive's title calls
+# the paper "Promemoria Goldbecks"); "written in his own hand beneath it" (the
+# scan shows the King's hand below Goldbeck's signature, and the archive's
+# title says "eigenhändige ... Entscheidung des Königs").
+
+ihagrrep7cnr3067-001:
+- {claim: "The promemoria is Goldbeck's, written at Berlin on 16 February 1797, to the King", verdict: supported, where: "p. 1 head: d. 16 Feb. 1797; p. 3: Sr. Königliche Majestät ... Berlin den 16ten Februar 1797. Goldbeck"}
+- {claim: "Goldbeck is the Grand Chancellor", verdict: overstated, where: "p. 3: the signature is only Goldbeck; Großcanzler occurs only as the addressee of the orders (an den Etats Ministre Grafen von Hoym und an den GroßCanzler)", now: "The promemoria of Goldbeck (his office is not named in the text; drop 'Grand Chancellor' or give it as the editor's identification)"}
+- {claim: "King Friedrich Wilhelm II is the addressee", verdict: supported, where: "p. 3 Sr Königliche Majestät; the name from doc. 2's signature Fr. Wilhelm (inference, acceptable)"}
+- {claim: "It deals with what had become of the participants in the South Prussian rebellion and with extending the King's mercy", verdict: supported, where: "p. 1: Urhebern und Theilnehmern der Süd-Preußischen Rebellion; Sollten Sr Königliche Majestät geneigt seyn, Höchstdero Gnade ... zu extendiren"}
+- {claim: "By the laws many would have incurred death, the rest confiscation and fortress imprisonment for life", verdict: supported, where: "p. 1: viele den Tod, die übrigen aber Confiscation und lebens wierige Festungs-Strafe verwürkt haben"}
+- {claim: "Letters of pardon, the amnesty patents of 24 September and 10 December 1794 and the Immediate Instruction of 3 April 1795 softened this", verdict: supported, where: "p. 1: Pardonbriefe, Amnestie Patente, besonders die vom 24ten Septbr. und 10ten December 1794; Immediat-Instruction vom 3ten April 1795"}
+- {claim: "Only 6 or 8 chief ringleaders were to be punished by the rigour of the laws, though not with death", verdict: supported, where: "p. 1, point 1"}
+- {claim: "The rest were to pay fines assessed by a finance commission in Poznań", verdict: supported, where: "p. 1, point 2: durch eine Finanz-Commission in Posen zu arbitrirenden Geldbussen"}
+- {claim: "Only those who would not submit or could not pay were to be sentenced to the fortress for a time", verdict: supported, where: "p. 1, point 3"}
+- {claim: "The justice (judiciary) had no share in these ordinances and was only sent them to follow", verdict: supported, where: "p. 1: hat die Justiz gar nicht concurrirt, sondern ... blos zur Befolgung zugefertigt"}
+- {claim: "The chief ringleaders Niemoiewski, Wybicki, Xaver Dombrowski, Mniewski, Prudzinski, Krupecki, Jetzierski, Rokittnicki and others had fled", verdict: supported, where: "p. 1: ... Rokittnicki pp haben sich mit der Flucht gerettet"}
+- {claim: "So only the property they left behind could be confiscated, no example punished on their persons", verdict: supported, where: "p. 1: ihr hinterlassenes Vermögen zu confisciren, an ihren Personen hat kein Straf Exempel statuirt werden können"}
+- {claim: "Other promoters of the rebellion had settled with the commission by paying fines", verdict: supported, where: "p. 1: Andere Haupt Beförderer ... bey der Posenschen Finanz-Commission mit Geldbußen abzufinden"}
+- {claim: "Of 387 insurgents, 307 paid fines only", verdict: supported, where: "p. 1: von 387. Insurgenten ... 307 blos Geldbußen erlegt (the word befreyt in the lead-in is not used)"}
+- {claim: "49 were sentenced to the fortress for up to 3 years", verdict: supported, where: "p. 1: 49 zu kürtzerer, nicht über 3 Jahre gehender"}
+- {claim: "26 for long terms, 2 for life, 3 to death (387 in all)", verdict: supported, where: "p. 1: 26 zu langwieriger; 2 zu lebenswieriger; 3 zum Tode; = 387 (307+49+26+2+3 = 387)"}
+- {claim: "Of the three sentenced to death, one was pardoned under the gallows and one escaped by flight", verdict: supported, where: "p. 1: einer unter dem Galgen Pardon erhalten, und ein zweyter sich mit der Flucht gerettet"}
+- {claim: "Goldbeck advises that, should the King wish to extend his grace, the confiscation against the rebels who had left the country stand, since the confiscated estates were for the most part already disposed of", verdict: supported, where: "p. 1-2, point 1: gegen die ausgetretenen Rebellen ... lediglich zu belassen; größtentheils schon disponirt"}
+- {claim: "The fines still to be collected, even those in arrears, because the province's necessary expenses counted on them", verdict: supported, where: "p. 2, point 2"}
+- {claim: "Those sentenced to short terms who were still held be remitted the rest", verdict: overstated, where: "p. 2, point 3: Die ... auf kürtzere Zeit ... haben ihre Strafe größtentheils schon ausgestanden. Denjenigen, welche noch sitzen, könnte die übrige Arrest-Zeit gantz erlaßen werden", now: "that those sentenced to short terms, who had mostly served them already, could have the rest of the arrest remitted if still held (könnte, a possibility)"}
+- {claim: "Those on the enclosed list sentenced to long terms be remitted about half", verdict: supported, where: "p. 2, point 4: nach der beyliegenden Liste ... etwa die Hälfte der erkannten Strafe zu erlaßen"}
+- {claim: "Except Pratzmowski (no. 7), Ryczewski (no. 12) and Maruczewski (no. 13), who incurred their sentences chiefly as highway robbers", verdict: supported, where: "p. 2: von Pratzmowski sub num: 7., Ryczewski sub num: 12, Maruczewski sub num: 13 ... nicht blos als Insurgenten, sondern hauptsächlich als Straßen-Räuber; numbers agree with the list (doc. 3, p. 2-3)"}
+- {claim: "Nowicki (no. 2), already spared the death sentence, stays as sentenced", verdict: supported, where: "p. 2, point 5: Nowicki sub num: 2, weil diesem die schon erkannte Todes-Strafe erlaßen ist"}
+- {claim: "Sobolewski (no. 3), condemned chiefly for murders and highway robberies, stays as sentenced", verdict: supported, where: "p. 2: Sobolewski sub num: 3 ... hauptsächlich als Theilnehmer an verschiedenen Mordthaten und Straßenräubereyen"}
+- {claim: "Stockowski (no. 1) seemed to have sinned from simplicity and vanity rather than evil intent and might perhaps be pardoned down to 10 years", verdict: supported, where: "p. 2: Stockowski sub num: 1., mehr aus Einfalt und Eitelkeit, als aus bösem Vorsatze gesündigt zu haben scheint, vielleicht eine Begnadigung bis auf 10 Jahre"}
+- {claim: "With a pension or dowry out of the confiscated estates for his under-age daughter, who had no property of her own", verdict: supported, where: "p. 2: Pension oder Aussteuer ... unmündige und von allem eignen Vermögen entblößte Tochter aus den confiscirten Gütern"}
+- {claim: "A few investigations were pending against insurgents who had lately answered the public summonses", verdict: supported, where: "p. 2: einige wenige Untersuchungen ... erst kurtzem auf die ergangenen Edictal-Citationen gemeldet"}
+- {claim: "These are to be judged under the old rules, the new principles to be considered when the rescripts of confirmation are submitted", verdict: supported, where: "p. 2-3: nach den bisherigen Vorschriften zu erkennen ... bey Vorlegung der Confirmations Rescripte auf die jetzt festgesetzten Principia Rücksicht zu nehmen"}
+- {claim: "If the King agrees, a public notice of the amnesty under points 3 and 4 and the orders to Minister of State Count von Hoym and to the Grand Chancellor are to be laid before him for signature", verdict: supported, where: "p. 3: Publicandum wegen der ad 3 et 4 bewilligten Amnestie; Ordre an den Etats Ministre Grafen von Hoym und an den GroßCanzler zur Allerhöchsten Vollziehung vorzulegen"}
+ihagrrep7cnr3067-002:
+- {claim: "The note is the King's decision on Goldbeck's promemoria", verdict: supported, where: "p. 1: its content answers the promemoria's proposals (Minderung der Strafen, Geldstrafen); same date 16 Februariy 1797; inference from content"}
+- {claim: "It is written in his own hand beneath the promemoria", verdict: overstated, where: "the text does not say who wrote it or where it stands; only the signature Fr. Wilhelm and the date d 16 Februariy 1797", now: "a note signed Fr. Wilhelm and dated 16 February 1797, evidently the King's answer to the promemoria (hand and position are matters of the image, not of the text)"}
+- {claim: "Dated 16 February 1797 and signed Fr. Wilhelm", verdict: supported, where: "p. 1: Fr. Wilhelm / d 16 Februariy 1797"}
+- {claim: "He finds none of the condemned worthy of a reduction of their punishment", verdict: supported, where: "p. 1: finde keinen der Condemnirte[n?] einer minderung der strafen würdig (only the ending of Condemnirte[n?] is doubtful)"}
+- {claim: "Those condemned to money fines are rather to be held to pay them", verdict: supported, where: "p. 1: vilmehr müßten die so zu guld strafen condemnirt, seindt zu erlegung[?] derselben angehalten; erlegung[?] is doubtful but the sense is carried by angehalten and zu prestiren (weaken to 'held to the payment of the fines' if the doubtful word is to carry nothing)"}
+- {claim: "Those who cannot pay are to be put under arrest in proportion", verdict: supported, where: "p. 1: oder da[?] sie selbiges zu prestiren nicht vermögen zu dem Verhältniß mäßigen arest gebracht werden"}
+- {claim: "Several words of the King's hand are doubtful readings", verdict: supported, where: "p. 1: Untersuchung[?], verbrach[en?], Condemnirte[n?], erlegung[?], da[?]"}
+ihagrrep7cnr3067-003:
+- {claim: "The list was enclosed with Goldbeck's promemoria of 16 February 1797", verdict: supported, where: "the list itself bears no date; the promemoria's nos. 1-3 of the life sentences, nos. 7, 12, 13 of the long terms and the beiliegende Liste agree with it; date in the edition is bracketed"}
+- {claim: "It names the South Prussian rebels sentenced to death, to fortress imprisonment for life or to long fortress imprisonment, each with his offence and, for the long terms, the length of sentence and its starting month", verdict: supported, where: "p. 1 title; p. 2 columns Art des Verbrechens, Dauer der Strafe, Anfang derselben (death and life entries have no term)"}
+- {claim: "Franz von Wittwicki and Andreas Retznowski are sentenced to death", verdict: supported, where: "p. 2: A. Todes-Strafe 1, 2"}
+- {claim: "They led the canons' servants against the military at the attack on the town of Włocławek", verdict: supported, where: "p. 2: bey dem Ueberfall der Stadt Wraclawec die Domesti¬ken der Domherren gegen das Militair angeführt (Wraclawec = Włocławek is the edition's identification)"}
+- {claim: "They also murdered an officer and an excise official", verdict: supported, where: "p. 2: auch einen Offizier und einen Accise-Offizianten ermordet"}
+- {claim: "Joseph von Stockowski, life, was general of the insurgents of Wieluń, led them against the royal troops, robbed magazines and plundered treasuries", verdict: supported, where: "p. 2: B 1"}
+- {claim: "Joseph Nowicki, life, was sentenced to the gallows for his part in seizing the artillery transport at Włocławek and was pardoned by the King", verdict: supported, where: "p. 2: B 2: bey der Wegnahme des Artillerie Transports ... zum Galgen verurtheilt; ... pardonnirt"}
+- {claim: "Joseph Sobolewski, life, joined a band of robbers after the insurrection was dissolved and helped in murders of soldiers and travellers", verdict: supported, where: "p. 2: B 3"}
+- {claim: "For long terms there are 26 men", verdict: supported, where: "pp. 2-3: numbers 1 to 26, with nos. 20 and 21 two men (Czimay, Ruba) = 26 men"}
+- {claim: "The terms run from 4 to 15 years", verdict: supported, where: "shortest 4 years (e.g. nos. 1, 6, 10), longest 15 (nos. 7 and 12)"}
+- {claim: "The sentences begin between February 1795 and November 1796", verdict: supported, where: "no. 1 Februar 1795 (earliest); no. 26 November 1796 (latest)"}
+- {claim: "Most were sentenced for especially active participation in the insurrection", verdict: overstated, where: "counted: vorzüglich/besonders thätige Theilnahme only nos. 2, 3, 4, 7, 9, 15, 17, 18, 26 (nine; no. 1 Thiele is vorzüglich thätig as secretary = ten); 26 men in all", now: "nine of them for especially active participation in the insurrection"}
+- {claim: "Johann Thiele was secretary at the insurgents' commission of order and war", verdict: supported, where: "p. 2: C 1: Sekretair bey der Insurgentischen Ordnungs und Krieg-Commission vorzüglich thätig"}
+- {claim: "The provost von Chicomski and Cajetan von Smolinski were sentenced for abusing their spiritual office", verdict: supported, where: "p. 2 no. 5; p. 3 no. 23: Mißbrauch seines Geistlichen Amts zur Beförderung der Insurrektion"}
+- {claim: "Lorenz von Masowiecki and Dominic v. Dziewanowski were sentenced for the attack on the town of Rypin", verdict: overstated, where: "p. 3 nos. 10, 11: dem Ueberfall der Stadt Rypin durch die Insurgenten mit beygewohnt; Aus gleicher Ursach", now: "for having been present at the insurgents' attack on the town of Rypin"}
+- {claim: "Komornick von Wardenski was strongly suspected of having known of the insurrection beforehand", verdict: supported, where: "p. 3 no. 14: der Vorwissenschaft von der Insurrektion sehr verdächtig"}
+- {claim: "Felix von Krettkowski had become general of the insurgents of Łęczyca, though not entirely of his own free will", verdict: supported, where: "p. 3 no. 16: obwohl nicht ganz freywillig, General der Lenczycschen Insurgenten"}
+- {claim: "Paul von Skorzewski was general of the insurgents of Kalisz", verdict: supported, where: "p. 3 no. 19"}
+- {claim: "Samuel Czimay and Szekus Ruba were sentenced for the attack on the garrison at Włocławek", verdict: overstated, where: "p. 3 nos. 20, 21: Weil sie an dem Ueberfalle der Besetzung zu Wraclawec thätigen Antheil genommen (the text reads Besetzung, garrison is the editor's reading)", now: "for having taken an active part in the attack on the Besetzung (garrison) at Włocławek"}
+- {claim: "Friedrich Jacob v. Psarski was president of the confederation of Wieluń and Ostrzewo", verdict: supported, where: "p. 3 no. 24"}
+- {claim: "Constantin v. Mielewski was also sentenced on suspicion of the murder of a Jew", verdict: supported, where: "p. 3 no. 25: Theilnahme an der Insurrektion und Verdacht der Ermordung eines Juden"}
+- {claim: "The longest terms, 15 years, are those of Casimir von Pratzmowski, also for highway robbery, and von Ryczewski, who had joined a band of robbers", verdict: supported, where: "p. 2 no. 7 (15 Jahre, verübten Straßenraubes); p. 3 no. 12 (15 Jahre, Räuberbande); no others reach 15"}
+# DE versus EN: no difference in substance beyond what follows. Every change made to the EN above (Grand
+# Chancellor, own hand beneath, short terms 'könnte', most/nine, Rypin, Włocławek garrison) has to be made
+# the same way in the DE, which at present repeats each of those wordings:
+#  - DE 001: 'des Großkanzlers Goldbeck' (title not in the text); 'den noch einsitzenden kurzzeitig Verurteilten die übrige Haftzeit zu erlassen' (firmer than könnte).
+#  - DE 002: 'eigenhändig darunter geschrieben' (same as the EN own hand beneath).
+#  - DE 003: 'die meisten wegen vorzüglich tätiger Teilnahme' (EN 'most'); 'wegen des Überfalls der Stadt Rypin' (should be: wegen Anwesenheit beim Überfall); 'wegen des Überfalls der Besatzung zu Włocławek' (text Besetzung; add tätigen Anteil).
+#  - DE 003: the DE Wardenski, Krettkowski, Mielewski and the 15-year sentence agree with the EN and with the text.
+# DE and EN otherwise say the same (figures 307/49/26/2/3, nos. 7/12/13/2/3/1, 10 years, 26 men, 4 to 15 years, Feb 1795 to Nov 1796).

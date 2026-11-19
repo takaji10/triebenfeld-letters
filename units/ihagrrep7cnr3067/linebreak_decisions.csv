@@ -1,0 +1,41 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,5,6,¬,Preußi,schen,Preußischen,join,high,"joined form attested in DWDS (447,834 hits)",False,0,447834,0,,2,," Urhebern und Theilnehmern der Süd-Preußi¬ || schen Rebellion viele den Tod, die übrigen"
+1,1,6,7,¬,wie,rige,wierige,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,11,0,152403535,2,1549, übrigen aber Confiscation und lebens wie¬ || rige Festungs-Strafe verwürkt haben.
+1,1,8,9,¬,aus,nehmend,ausnehmend,join,high,"joined form attested in DWDS (509,075 hits)",False,0,509075,5,,1,,ch Specielle Allerhöchste Verfügungen aus¬ || nehmend gemildert worden.
+1,1,13,14,¬,fest,gesetzt,festgesetzt,join,high,"joined form attested in DWDS (407,506 hits)",False,0,407506,0,,1,,diat-Instruction vom 3ten April 1795 fest¬ || gesetzt:
+1,1,20,21,¬,aufbrin,gen,aufbringen,join,high,"joined form attested in DWDS (685,941 hits)",False,0,685941,0,,1,,"der die dictirten Geldbußen nicht aufbrin¬ || gen könnten, auf zeitige Festungsstrafen e"
+1,1,26,27,¬,hinterlas,senes,hinterlassenes,join,high,"joined form attested in DWDS (22,222 hits)",False,0,22222,0,,1,," sich also begnügen müssen, ihr hinterlas¬ || senes Vermögen zu confisciren, und an ihre"
+1,1,27,28,¬,Exem,pel,Exempel,join,high,"joined form attested in DWDS (57,802 hits)",False,0,57802,0,,1,,und an ihren Personen hat kein Straf Exem¬ || pel statuirt werden können.
+1,1,29,30,¬,Posen,schen,Posenschen,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,153,1,63308,2,33740,"ebellion haben geeilt, sich bey der Posen¬ || schen Finanz-Commission mit Geldbußen abzu"
+1,1,32,33,¬,be,freyt,befreyt,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,51,0,105863,1,25,"mmen, daß von 387. Insurgenten, welche be¬ || freyt worden"
+1,1,42,43,¬,exten,diren,extendiren,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,0,0,66983,1,2773," an der Insurrection noch weiter zu exten¬ || diren, so würde solches doch nur in folgen"
+1,1,44,45,¬,Confis,cation,Confiscation,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,, ausgetretenen Rebellen verhängten Confis¬ || cation wäre es lediglich zu belassen; da b
+1,1,46,48,,eingezognen,eingezogenen,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,eingezognen || eingezogenen Güter größtentheils schon dis
+1,2,54,55,¬,aus,gestanden,ausgestanden,join,high,"joined form attested in DWDS (119,812 hits)",False,0,119812,5,,1,,"haben ihre Strafe größtentheils schon aus¬ || gestanden. Denjenigen, welche noch sitzen,"
+1,2,58,59,¬,er,kannten,erkannten,join,high,joined form occurs elsewhere in this corpus,False,1,,12,,1,,"demnirt sind, wäre etwa die Hälfte der er¬ || kannten Strafe zu erlaßen."
+1,2,63,64,¬,haupt,sächlich,hauptsächlich,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,"nicht blos als Insurgenten, sondern haupt¬ || sächlich als Straßen-Räuber verwürkt haben"
+1,2,76,77,¬,Vor,satze,Vorsatze,join,high,"joined form attested in DWDS (350,017 hits)",False,0,350017,1,,1,," Einfalt und Eitelkeit, als aus bösem Vor¬ || satze gesündigt zu haben scheint, vielleic"
+1,2,78,79,¬,Aussetz,ung,Aussetzung,join,high,"joined form attested in DWDS (149,002 hits)",False,0,149002,0,,1,,"adigung bis auf 10 Jahre, und die Aussetz¬ || ung einer Pension oder Aussteuer für seine"
+1,2,79,80,¬,un,mündige,unmündige,join,high,"joined form attested in DWDS (17,433 hits)",False,0,17433,0,,1,,einer Pension oder Aussteuer für seine un¬ || mündige und von allem eignen Vermögen ent¬
+1,2,80,81,¬,ent,blößte,entblößte,join,high,"joined form attested in DWDS (41,646 hits)",False,0,41646,0,,1,,mündige und von allem eignen Vermögen ent¬ || blößte Tochter aus den confiscirten Gütern
+1,2,84,85,¬,ge,meldet,gemeldet,join,high,"joined form attested in DWDS (6,055,570 hits)",False,0,6055570,0,,1,, auf die ergangenen Edictal-Citationen ge¬ || meldet haben.
+1,2,88,90,,die,die,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,die || die jetzt festgesetzten Principia Rücksich
+3,1,117,118,¬,lebenswie,rige,lebenswierige,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"gegen welche auf Todes-lebenswie¬ || rige, oder langwierige Vestungs¬"
+3,1,118,119,¬,Vestungs,Strafe,VestungsStrafe,join,high,head is not a word on its own,False,0,0,0,0,11,,"rige, oder langwierige Vestungs¬ || Strafe erkannt worden."
+3,2,130,131,¬,Domesti,ken,Domestiken,join,high,"joined form attested in DWDS (1,963 hits)",False,0,1963,0,,1,,Ueberfall der Stadt Wraclawec die Domesti¬ || ken der Domherren gegen das Militair angef
+3,2,139,140,¬,Wrac,lawek,Wraclawek,join,high,head is not a word on its own,False,0,0,0,11,1,,egnahme des Artillerie Transports in Wrac¬ || lawek vorzüglich thätig gewesen und mehrer
+3,2,151,152,¬,Krieg,Commission,KriegCommission,split,high,joined form unattested; both halves are real words,False,0,0,0,4769390,4,20306,Insurgentischen Ordnungs und Krieg¬ || Commission vorzüglich thätig erwiesen
+3,2,173,174,¬,Geist,lichen,Geistlichen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Wegen Mißbrauchs seines Geist¬ || lichen Amts zur Beförderung der
+3,2,188,189,¬,ver,übten,verübten,join,high,"joined form attested in DWDS (28,582 hits)",False,0,28582,0,,1,,nahme an der Insurrektion und ver¬ || übten Straßenraubes
+3,2,194,195,¬,Insur,genten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,,"Weil er bey der Flucht von den Insur¬ || genten, einen Husaren, der ihn exa¬"
+3,2,195,196,¬,exa,miniren,examiniren,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,8,0,4261,1,10,"genten, einen Husaren, der ihn exa¬ || miniren wollen, tödtlich verwundet"
+3,2,201,202,¬,Theil,nahme,Theilnahme,join,high,joined form occurs elsewhere in this corpus,False,5,,4,,3,,Wegen vorzüglich thätiger Theil¬ || nahme an der Insurrektion
+3,3,215,216,¬,Insurgen,ten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,5,,Stadt Rypin durch die Insurgen¬ || ten mit beygewohnt
+3,3,226,227,¬,Insur,rektion,Insurrektion,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,"Weil er nach Auflösung der Insur¬ || rektion, sich zu einer Räuberbande"
+3,3,228,229,¬,Räu,bereyen,Räubereyen,join,high,head is not a word on its own,False,0,6,0,206,1,,"geschlagen, und an verschiedenen Räu¬ || bereyen Theil genommen."
+3,3,251,252,¬,freywil,lig,freywillig,join,high,head is not a word on its own,False,0,80,0,0,1,,"Weil er, obwohl nicht ganz freywil¬ || lig, General der Lenczycschen"
+3,3,285,286,¬,Insur,rektion,Insurrektion,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,Wegen Theilnahme an der Insur¬ || rektion und verübter Plünderungen
+3,3,292,293,¬,Insur,genten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,,Amts zur Beförderung der Insur¬ || genten.
+3,3,298,299,¬,Con,foederation,Confoederation,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,13,0,96931,1,2210,Weil er Präsident bey der Con¬ || foederation von Wielun und
+3,3,305,306,¬,Insur,rektion,Insurrektion,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,3,,Wegen Theilnahme an der Insur¬ || rektion und Verdacht der Ermor¬
+3,3,306,307,¬,Ermor,dung,Ermordung,join,high,"joined form attested in DWDS (216,348 hits)",False,0,216348,0,,1,,rektion und Verdacht der Ermor¬ || dung eines Juden

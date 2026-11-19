@@ -2131,6 +2131,45 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
+## I. HA GR, Rep. 7 C, Nr. 3067: Goldbeck's promemoria on the insurgents, 1797 (added 2026-11-19, branch `trampczynski-family`, not published)
+
+Read `units/ihagrrep7cnr3067/notes.md` first.
+
+1. **The spot sheet** (`review/ihagrrep7cnr3067/open_queries.csv`, eight
+   rows with a picture each): "befreyt" in the promemoria; in the King's hand
+   "Untersuchung[?]" (the editor's text had "Betrachtung"), "verbrach[en?]",
+   "erlegung[?]" (the editor's text had "erkennen[?]"), "da[?]"; in the list
+   "dererjenigen", "Pistrzkowski", entry 23's "Mißbrauch". Each stands as now
+   transcribed until answered.
+2. **The reference**: given by the editor as "I. HA Rep. 7 C, Nr. 3067",
+   written "I. HA GR, Rep. 7 C, Nr. 3067" like the series' other files
+   (Claude's choice). Say if it should stand without GR.
+3. **The era**: `hohenlohe`, with Nr. 1414 and as the insurgency era's blurb
+   prescribes for the Prussian files of these years; the subject (the
+   punishment of the insurgents of 1794) could put it in `insurgency`.
+4. **Wybicki and Niemojewski** of the promemoria's ringleaders are matched to
+   the existing entries, the men whose confiscated estates were returned in
+   1807 (III. HA MdA, III. Nr. 12366): Claude's identification.
+5. **No person entries** for the 31 men of the list (Wittwicki, Stockowski,
+   Nowicki, Thiele, the Psarskis ...) or the other ringleaders (Xaver
+   Dombrowski, Mniewski, Prudzinski, Krupecki, Jetzierski, Rokittnicki), as
+   for APŁ 39/98/0/-/1333. Wanted?
+6. **"Ostrzewo"** (list, entry 24, "Confoederation von Wielun und und
+   Ostrzewo") is kept as written; Ostrzeszów, in the Wieluń land, is a thought
+   only. No place entry.
+7. **Connections proposed** (docs/CONNECTIONS.md; Claude's reading, none
+   written into reference/connections.yml): the promemoria's advice that the
+   confiscation of the fugitives stand "da besonders über die eingezogenen
+   Güter größtentheils schon disponirt ist" against the donation of
+   Prusimski's estates in 1796 (I. HA GR, Rep. 7 C, Nr. 3570, 1; Oe 1 Bü
+   14525, 1); the same winter's papers on Prusimski at Venice, the draft of
+   11 January 1797 addressed also to Goldbeck (Nr. 1414, 1); Wybicki and
+   Niemojewski against the Warsaw report of 1818 that cites their
+   restitutions (III. HA MdA, III. Nr. 12366, 2).
+8. **A timeline event** was not added: the papers do not name Trąbczyn or
+   Zagórów (the timeline's rule). Offered, if the editor wants the King's
+   refusal of 16 February 1797 there.
+
 ## APŁ 39/98/0/-/1333: the liquidation-tables file of Trąbczyn, part I (added 2026-11-13, branch `trampczynski-family`, published 2026-11-13)
 
 Read `units/apl399801333/notes.md` first. The index's open entries are not

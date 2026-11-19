@@ -8259,12 +8259,13 @@
  {
   "entity": "berlin",
   "display": "Berlin",
-  "count": 353,
+  "count": 354,
   "documents": [
    "agad118501169-1",
    "app539680669-2",
    "ihagrrep7cnr1414-1",
    "ihagrrep7cnr1414-3",
+   "ihagrrep7cnr3067-1",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3709-10",
    "ihagrrep7cnr3709-11",
@@ -8592,6 +8593,15 @@
     "scan": "I_HA_Rep_7_C_Nr_1414_0005_a2-L3_01.jpg",
     "line": 60,
     "doc_line": 10
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Berlin",
+    "page": 3,
+    "page_id": "0006_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L2_01.jpg",
+    "line": 97,
+    "doc_line": 93
    },
    {
     "uid": "oe1bu14525-10",
@@ -18876,7 +18886,7 @@
  {
   "entity": "kalisz",
   "display": "Kalisz (Kalisch)",
-  "count": 210,
+  "count": 211,
   "documents": [
    "adwl85-1",
    "agad118501169-1",
@@ -18895,6 +18905,7 @@
    "app539680783-1",
    "app539680801-1",
    "app539680801-2",
+   "ihagrrep7cnr3067-3",
    "ihagrrep7cnr3705-1",
    "ihagrrep7cnr3709-11",
    "ihagrrep7cnr3709-5",
@@ -19126,6 +19137,15 @@
     "scan": "ADWl_85_0029_b-L1_08.jpg",
     "line": 54,
     "doc_line": 45
+   },
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Kalisch",
+    "page": 3,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg",
+    "line": 270,
+    "doc_line": 154
    },
    {
     "uid": "oe1bu14525-31",
@@ -28407,10 +28427,11 @@
  {
   "entity": "posen",
   "display": "Poznań (Posen)",
-  "count": 129,
+  "count": 131,
   "documents": [
    "agad118501169-1",
    "app539680669-2",
+   "ihagrrep7cnr3067-1",
    "ihagrrep7cnr3709-1",
    "ihagrrep7cnr3709-10",
    "ihagrrep7cnr3709-11",
@@ -28517,6 +28538,24 @@
     "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
     "line": 3824,
     "doc_line": 22
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0005_a-L1_01.jpg",
+    "line": 18,
+    "doc_line": 16
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0005_a-L1_01.jpg",
+    "line": 29,
+    "doc_line": 27
    },
    {
     "uid": "oe1bu14525-40",
@@ -53718,6 +53757,92 @@
   ]
  },
  {
+  "entity": "wielun",
+  "display": "Wieluń",
+  "count": 8,
+  "documents": [
+   "app53170koningr153-1",
+   "app5320pozgr1181-1",
+   "app539680545-7",
+   "ihagrrep7cnr3067-3",
+   "oe1bu9454-177"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Vielun",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 43,
+    "doc_line": 30
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Vielun",
+    "page": 1,
+    "page_id": "0161_a",
+    "scan": "",
+    "line": 34,
+    "doc_line": 32
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Wieluń",
+    "page": 1,
+    "page_id": "0161_a",
+    "scan": "",
+    "line": 34,
+    "doc_line": 32
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Vielun",
+    "page": 1,
+    "page_id": "0161_a",
+    "scan": "",
+    "line": 37,
+    "doc_line": 35
+   },
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wielun",
+    "page": 2,
+    "page_id": "0008_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L3_02.jpg",
+    "line": 135,
+    "doc_line": 20
+   },
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wielun",
+    "page": 3,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg",
+    "line": 299,
+    "doc_line": 183
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Wieluń",
+    "page": 7,
+    "page_id": "0334_a2",
+    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
+    "line": 12634,
+    "doc_line": 139
+   },
+   {
+    "uid": "app539680545-7",
+    "surface": "Wieluń",
+    "page": 1,
+    "page_id": "0032_a",
+    "scan": "APP_53_968_0_545_0032_a.jpg",
+    "line": 215,
+    "doc_line": 20
+   }
+  ]
+ },
+ {
   "entity": "prusinowo",
   "display": "Prusinowo",
   "count": 8,
@@ -54345,73 +54470,6 @@
   ]
  },
  {
-  "entity": "wielun",
-  "display": "Wieluń",
-  "count": 6,
-  "documents": [
-   "app53170koningr153-1",
-   "app5320pozgr1181-1",
-   "app539680545-7",
-   "oe1bu9454-177"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Vielun",
-    "page": 12,
-    "page_id": "1397_a1",
-    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
-    "line": 43,
-    "doc_line": 30
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Vielun",
-    "page": 1,
-    "page_id": "0161_a",
-    "scan": "",
-    "line": 34,
-    "doc_line": 32
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Wieluń",
-    "page": 1,
-    "page_id": "0161_a",
-    "scan": "",
-    "line": 34,
-    "doc_line": 32
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Vielun",
-    "page": 1,
-    "page_id": "0161_a",
-    "scan": "",
-    "line": 37,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Wieluń",
-    "page": 7,
-    "page_id": "0334_a2",
-    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
-    "line": 12634,
-    "doc_line": 139
-   },
-   {
-    "uid": "app539680545-7",
-    "surface": "Wieluń",
-    "page": 1,
-    "page_id": "0032_a",
-    "scan": "APP_53_968_0_545_0032_a.jpg",
-    "line": 215,
-    "doc_line": 20
-   }
-  ]
- },
- {
   "entity": "wierzbno",
   "display": "Wierzbno",
   "count": 6,
@@ -55001,6 +55059,62 @@
     "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
     "line": 43,
     "doc_line": 30
+   }
+  ]
+ },
+ {
+  "entity": "wloclawek",
+  "display": "Włocławek (Leslau)",
+  "count": 5,
+  "documents": [
+   "ihagrrep7cnr3067-3",
+   "oe1bu14525-28"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wraclawec",
+    "page": 2,
+    "page_id": "0008_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L3_02.jpg",
+    "line": 130,
+    "doc_line": 15
+   },
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wraclawek",
+    "page": 2,
+    "page_id": "0008_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L3_02.jpg",
+    "line": 139,
+    "doc_line": 24
+   },
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Wraclawec",
+    "page": 3,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg",
+    "line": 278,
+    "doc_line": 162
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Wraclawek",
+    "page": 1,
+    "page_id": "0121_b",
+    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
+    "line": 3449,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Wraclawek",
+    "page": 2,
+    "page_id": "0122_a1",
+    "scan": "Oe_1_Bu_14525_0122_a1-L28_02.jpg",
+    "line": 3473,
+    "doc_line": 35
    }
   ]
  },
@@ -57403,6 +57517,35 @@
   ]
  },
  {
+  "entity": "lenschitz",
+  "display": "Łęczyca (Lenschitz)",
+  "count": 2,
+  "documents": [
+   "ihagrrep7cnr3067-3",
+   "oe1bu9454-177"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Lenczycschen",
+    "page": 3,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg",
+    "line": 252,
+    "doc_line": 136
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Lenschitz",
+    "page": 7,
+    "page_id": "0334_a2",
+    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
+    "line": 12634,
+    "doc_line": 139
+   }
+  ]
+ },
+ {
   "entity": "havelberg",
   "display": "Havelberg",
   "count": 2,
@@ -57485,34 +57628,6 @@
     "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
     "line": 21540,
     "doc_line": 20
-   }
-  ]
- },
- {
-  "entity": "wloclawek",
-  "display": "Włocławek (Leslau)",
-  "count": 2,
-  "documents": [
-   "oe1bu14525-28"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Wraclawek",
-    "page": 1,
-    "page_id": "0121_b",
-    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
-    "line": 3449,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Wraclawek",
-    "page": 2,
-    "page_id": "0122_a1",
-    "scan": "Oe_1_Bu_14525_0122_a1-L28_02.jpg",
-    "line": 3473,
-    "doc_line": 35
    }
   ]
  },
@@ -57977,6 +58092,25 @@
   ]
  },
  {
+  "entity": "rypin",
+  "display": "Rypin",
+  "count": 1,
+  "documents": [
+   "ihagrrep7cnr3067-3"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr3067-3",
+    "surface": "Rypin",
+    "page": 3,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L3_03.jpg",
+    "line": 215,
+    "doc_line": 99
+   }
+  ]
+ },
+ {
   "entity": "orzeszkowo",
   "display": "Orzeszkowo",
   "count": 1,
@@ -58049,25 +58183,6 @@
     "scan": "Oe_1_Bu_9454_0326_a2-L174_03.jpg",
     "line": 12387,
     "doc_line": 59
-   }
-  ]
- },
- {
-  "entity": "lenschitz",
-  "display": "Łęczyca (Lenschitz)",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-177"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Lenschitz",
-    "page": 7,
-    "page_id": "0334_a2",
-    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
-    "line": 12634,
-    "doc_line": 139
    }
   ]
  },
