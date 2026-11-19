@@ -151,7 +151,11 @@ Oe 1 Bü 9454, document 303, the older one.
   `documents: table_text_columns:` (`{"3": [3, 4, 5]}`, counted from 1) - they
   are set left, the long ones wrap, and the English may translate them. An
   entry number may carry the clerk's stop ("12,"). A later page that repeats
-  the column heads is not given them as a row of the body. **Before making
+  the column heads is not given them as a row of the body. Where a cell
+  runs over several lines of the page, the line ends become spaces and a
+  word broken at a line end is joined **without its "¬"** (the editor,
+  2026-11-19: "you don't need to do this"); two words where the next part
+  is capitalised, as the reading keeps a split break. **Before making
   a table, look for the editor's own**: they may have one in another file
   (here a spreadsheet in Downloads) beside the line-by-line text.
 - **Keep the reading in one file** (`intake/table.csv`) and make the page
