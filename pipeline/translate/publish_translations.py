@@ -88,6 +88,8 @@ def english_table(tbl_de, segs):
     text = tbl_de.get('text_cols') or set()
     if text:
         tbl['text_cols'] = text
+    if tbl_de.get('merged'):
+        tbl['merged'] = tbl_de['merged']    # the English names the same rows
 
     def figures(t):
         # the name column and any text column are translated; the rest must

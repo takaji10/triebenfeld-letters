@@ -378,6 +378,14 @@ def load_tables(unit):
     # text, built and checked line by line as any other document's.
     table_pages = {str(k): {int(p) for p in v}
                    for k, v in (_docs.get('table_pages') or {}).items()}
+    # Cells the clerk joined across rows, by a brace or one entry written
+    # over two (documents: table_merged_cells: {"1": [{name: "Samuel Czimay",
+    # columns: [3, 5], rows: 2}]}): the cell in the named row's column,
+    # counted from 1, reaches down over the empty cells of the rows below
+    # (the list of the condemned, I. HA GR, Rep. 7 C, Nr. 3067; the editor,
+    # 2026-11-19).
+    merged = {str(k): [dict(m) for m in v]
+              for k, v in (_docs.get('table_merged_cells') or {}).items()}
     if not wanted or not os.path.isfile(unit.corpus_path):
         return {}
 
@@ -410,7 +418,37 @@ def load_tables(unit):
             t['text_cols'] = text_cols[lid]
         if lid in table_pages:
             t['table_pages'] = table_pages[lid]
+        if merged.get(lid):
+            t['merged'] = merged[lid]
+            for pg in t['pages']:
+                table_spans(t, pg)          # fails here on a ruling that does not fit
     return out
+
+
+def table_spans(tbl, page_no):
+    """The merged cells of one page of a table: ({(row, column): rows down},
+    {(row, column) covered}), row indices into tbl['pages'][page_no] and
+    columns counted from 0. A ruling whose row is on the page must find its
+    rows below on the same page and their cells empty, or it fails."""
+    rows = tbl['pages'].get(page_no) or []
+    span, covered = {}, set()
+    for m in tbl.get('merged') or ():
+        hit = [i for i, r in enumerate(rows) if len(r) > 1 and r[1].strip() == m['name']]
+        if not hit:
+            continue
+        i, n = hit[0], int(m.get('rows', 2))
+        if len(hit) > 1 or i + n > len(rows):
+            raise ValueError(f'table_merged_cells: {m["name"]!r} on page {page_no}: '
+                             f'{len(hit)} rows of that name, or fewer than {n} rows from it')
+        for c in m['columns']:
+            c = int(c) - 1
+            for d in range(1, n):
+                if c < len(rows[i + d]) and rows[i + d][c].strip():
+                    raise ValueError(f'table_merged_cells: {m["name"]!r}: the cell '
+                                     f'{d} row(s) below in column {c + 1} is not empty')
+                covered.add((i + d, c))
+            span[(i, c)] = n
+    return span, covered
 
 
 def entry_number(cell):
@@ -551,16 +589,20 @@ def render_table(tbl, page_no):
     short = {k for k in (tbl.get('text_cols') or ())
              if max((len(r[k].strip()) for r in _body), default=0) <= 16}
 
-    def cells(r, tag):
+    mspan, covered = table_spans(tbl, page_no)
+
+    def cells(r, tag, ri=None):
         r = pad(r)
         first = (f'<{tag} class="no">{html.escape(r[0].strip())}</{tag}>' if has_no_col else
                  f'<{tag} class="name">{html.escape(r[0].strip())}</{tag}>')
         text = tbl.get('text_cols') or ()
         return (first +
                 f'<{tag} class="name">{html.escape(r[1].strip())}</{tag}>'
-                + ''.join(f'<{tag} class="{("text short" if k in short and tag == "td" else "text") if k in text else "num"}">'
+                + ''.join(f'<{tag}'
+                          + (f' rowspan="{mspan[(ri, k)]}"' if (ri, k) in mspan else '')
+                          + f' class="{("text short" if k in short and tag == "td" else "text") if k in text else "num"}">'
                           f'{html.escape(c.strip())}</{tag}>'
-                          for k, c in enumerate(r[2:], 2)))
+                          for k, c in enumerate(r[2:], 2) if (ri, k) not in covered))
 
     # The title: the first heading row's name cell, unless that row labels
     # the number column too (a row of column labels, "Jahr", "Wirte:",
@@ -621,13 +663,13 @@ def render_table(tbl, page_no):
             out.append(('<thead>' if i == 0 else '') + '<tr>' + ''.join(ths) + '</tr>'
                        + ('</thead>' if i == n - 1 else ''))
 
-    def tr(r):
+    def tr(ri, r):
         # a row between the entries without a number: a page's own total -
         # only where a number column exists to be empty
-        return (f'<tr class="sum">{cells(r, "td")}</tr>'
-                if has_no_col and not pad(r)[0].strip() else f'<tr>{cells(r, "td")}</tr>')
+        return (f'<tr class="sum">{cells(r, "td", ri)}</tr>'
+                if has_no_col and not pad(r)[0].strip() else f'<tr>{cells(r, "td", ri)}</tr>')
     if rows:
-        out.append('<tbody>' + ''.join(tr(r) for r in rows) + '</tbody>')
+        out.append('<tbody>' + ''.join(tr(ri, r) for ri, r in enumerate(rows)) + '</tbody>')
     if foot_here:
         out.append('<tfoot>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in foot_here) + '</tfoot>')
     out.append('</table></div>')
@@ -643,9 +685,14 @@ def _table_cells(cells):
 
 
 def table_expected_rows(tbl):
-    """Every data row of a table, page by page, then the closing rows."""
-    rows = [r for pg in sorted(tbl['pages']) for r in tbl['pages'][pg]] + tbl['foot']
-    return [_table_cells(r) for r in rows]
+    """Every data row of a table, page by page, then the closing rows; a
+    cell a merged cell covers is not shown, and not expected."""
+    rows = []
+    for pg in sorted(tbl['pages']):
+        covered = table_spans(tbl, pg)[1] if tbl.get('merged') else set()
+        rows += [[c for k, c in enumerate(r) if (ri, k) not in covered]
+                 for ri, r in enumerate(tbl['pages'][pg])]
+    return [_table_cells(r) for r in rows + tbl['foot']]
 
 
 def table_rows_in_page(page_html):

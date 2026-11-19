@@ -34,6 +34,13 @@ documents:
     "1": [5, 6]
   table_text_columns:
     "1": [3, 4, 5]
+  # Cells joined on the page by a brace (the editor, 2026-11-19): A 1 and 2
+  # share one offence; C 20 and 21 one offence and one month of beginning
+  # (each has its own length).
+  table_merged_cells:
+    "1":
+      - {name: "Franz von Wittwicki,", columns: [3], rows: 2}
+      - {name: "Samuel Czimay", columns: [3, 5], rows: 2}
 
   duplicate_of: {}
   split_note: {}

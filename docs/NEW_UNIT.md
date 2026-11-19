@@ -150,6 +150,14 @@ Oe 1 Bü 9454, document 303, the older one.
   The heading rows open the first page, one row for each level of the
   heading (a label stands over the blanks that follow it). A row with no
   number between the entries is a page's own total.
+- **Cells joined across rows** (a brace over two entries): `documents:
+  table_merged_cells: {"1": [{name: "Samuel Czimay", columns: [3, 5], rows:
+  2}]}` - the cell of the row with that name cell, in those columns (counted
+  from 1), reaches down over the empty cells below (`rowspan`); the English
+  table and both checks follow, and a ruling that does not fit (the name
+  twice on a page, a cell below not empty) stops the build. Look for braces
+  when a table comes in (the editor, I. HA GR, Rep. 7 C, Nr. 3067,
+  2026-11-19).
 - **A table on some pages of a document only**: `documents: table_pages:`
   (`{"1": [5, 6]}`), beside `tables:`; the other pages are text. A title
   page of the table, with no rows of its own, is one of the text pages, not

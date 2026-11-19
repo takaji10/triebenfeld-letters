@@ -4241,6 +4241,15 @@ first and a fine pass at their word. The files are in
   of the table stays text (leave it out of `table_pages`); then set its
   reading by hand where a heading word ("Liste") would run on into the
   next line.
+- **A brace on the page is a merged cell** (2026-11-19, the editor: the
+  "Nature of the crime" cells of Wittwicki and Retznowski "need to be merged
+  into one", and Czimay's and Ruba's, with their "Its beginning"). The
+  spreadsheet gave the joined text in the first row and left the second
+  empty, and I built it so, as two cells. `table_merged_cells` in rulings.yml
+  now draws one cell over both rows (NEW_UNIT). When a table comes in, look
+  at the scan for braces and set them before showing it. Headless Edge with
+  a `#page` anchor in the address gives a blank screenshot; read the built
+  HTML instead.
 - **The editor overruled a correction made on two readers' word**
   (2026-11-19, the spot sheet): the King's "Nach genauer Betrachtung" had
   been changed to "Untersuchung[?]" on reader 1 and Claude (reader 2 had a

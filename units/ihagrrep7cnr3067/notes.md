@@ -59,7 +59,12 @@ addresses /documents/ihagrrep7cnr3067/2/ and /3/ were never published.
   held `split` in `linebreak_decisions.csv`, as the list's cells have it).
 - **Pages 5 and 6** (0008_a1, 0008_a2): the list, **a table since
   2026-11-19** (`documents: tables` with `table_pages: [5, 6]`: the
-  document is a table on those pages only, the others are text). At first it was kept line by line, as the editor's text file
+  document is a table on those pages only, the others are text). Where a
+  brace joins two entries on the page, their cell is one cell reaching over
+  both rows (`documents: table_merged_cells:`; the editor, 2026-11-19): the
+  offence of A 1 and 2 (Wittwicki, Retznowski), and the offence and the
+  month of beginning of C 20 and 21 (Czimay, Ruba), each of whom keeps his
+  own length; the English the same. At first it was kept line by line, as the editor's text file
   has it, because `render_table` set every cell after the name as a figure;
   the editor then pointed to their own table of it,
   `Downloads\I_HA_Rep_7_C_Nr_3067_tables.xlsx` ("It should already be in
