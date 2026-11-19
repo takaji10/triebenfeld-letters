@@ -32,17 +32,18 @@
 1,108,break,high,short_line,0.48,16,34,gebracht werden.,Fr. Wilhelm
 1,109,break,high,short_line+column,0.33,11,34,Fr. Wilhelm,d 16 Februariy
 1,110,run,held,short_line+column,0.42,14,34,d 16 Februariy,1797
-1,116,break,high,short_line+column,0.56,67,120,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de",",A. Todes-Strafe.,,,"
-1,117,run,review,short_line,0.17,20,120,",A. Todes-Strafe.,,,","""1,"",""Franz von Wittwicki,"",Weil sie bey dem Ueberfall der Stadt Wracl"
-1,119,break,high,short_line+column,0.24,29,120,"""2,"",""Andreas Retznowski,"",,,",",B. Lebenswierige Festungsstrafe.,,,"
-1,120,run,review,short_line,0.3,36,120,",B. Lebenswierige Festungsstrafe.,,,","""1,"",""Joseph von Stockowski,"",""Weil er General der Wielunschen Insurge"
-1,124,run,review,short_line,0.28,33,120,",C. Langwierige Festungsstrafe,,,","""1,"",Johann Thiele,Weil er sich als Sekretair bey der Insurgentischen "
-1,127,break,high,short_line+column,0.48,58,120,"""3,"",Johann von Pistrzkowski,desgleichen,8 Jahre,März 1795","""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795"
-1,128,run,review,short_line,0.44,53,120,"""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795","""5,"",Probst von Chicomski,Wegen Mißbrauchs seines Geistlichen Amts zur"
-1,135,break,high,short_line,0.66,68,103,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de","""10,"",Lorenz von Masowiecki,Weil er dem Ueberfall der Stadt Rypin durc"
-1,137,run,review,short_line,0.68,70,103,"""11,"",Dominic v. Dziewanowski,Aus gleicher Ursach,4 Jahre,Ok","""12,"",von Ryczewski,""Weil er nach Auflösung der Insurrektion, sich zu "
-1,139,run,review,short_line,0.6,62,103,"""13,"",von Maruczewski,Aus gleicher Ursach,8 Jahre,Oktober 17","""14,"",Komornick von Wardenski,Weil er der Vorwissenschaft von der Insu"
-1,147,run,review,short_line,0.26,27,103,"""21,"",Szekus Ruba,,4 Jahre,","""22,"",Johann Michalleck,Wegen Theilnahme an der Insurrektion und verüb"
+1,113,break,held,short_line,0.15,5,32,Liste,"dererjenigen Südpreußischen Rebellen,"
+1,119,break,high,short_line+column,0.56,67,120,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de",",A. Todes-Strafe.,,,"
+1,120,run,review,short_line,0.17,20,120,",A. Todes-Strafe.,,,","""1,"",""Franz von Wittwicki,"",Weil sie bey dem Ueberfall der Stadt Wracl"
+1,122,break,high,short_line+column,0.24,29,120,"""2,"",""Andreas Retznowski,"",,,",",B. Lebenswierige Festungsstrafe.,,,"
+1,123,run,review,short_line,0.3,36,120,",B. Lebenswierige Festungsstrafe.,,,","""1,"",""Joseph von Stockowski,"",""Weil er General der Wielunschen Insurge"
+1,127,run,review,short_line,0.28,33,120,",C. Langwierige Festungsstrafe,,,","""1,"",Johann Thiele,Weil er sich als Sekretair bey der Insurgentischen "
+1,130,break,high,short_line+column,0.48,58,120,"""3,"",Johann von Pistrzkowski,desgleichen,8 Jahre,März 1795","""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795"
+1,131,run,review,short_line,0.44,53,120,"""4,"",Johann von Dobski,desgleichen,10 Jahre,März 1795","""5,"",Probst von Chicomski,Wegen Mißbrauchs seines Geistlichen Amts zur"
+1,138,break,high,short_line,0.66,68,103,"Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang de","""10,"",Lorenz von Masowiecki,Weil er dem Ueberfall der Stadt Rypin durc"
+1,140,run,review,short_line,0.68,70,103,"""11,"",Dominic v. Dziewanowski,Aus gleicher Ursach,4 Jahre,Ok","""12,"",von Ryczewski,""Weil er nach Auflösung der Insurrektion, sich zu "
+1,142,run,review,short_line,0.6,62,103,"""13,"",von Maruczewski,Aus gleicher Ursach,8 Jahre,Oktober 17","""14,"",Komornick von Wardenski,Weil er der Vorwissenschaft von der Insu"
+1,150,run,review,short_line,0.26,27,103,"""21,"",Szekus Ruba,,4 Jahre,","""22,"",Johann Michalleck,Wegen Theilnahme an der Insurrektion und verüb"
 1,4,break,held,hand,0,0,0,d. 16 Feb. 1797,Promemoria
 1,22,break,held,hand,0,0,0,"gen könnten, auf zeitige Festungsstrafen erkannt werden soll","Bey allen diesen Verordnungen hat die Justiz gar nicht concurrirt, son"
 1,24,break,held,hand,0,0,0,es sind ihr dieselben blos zur Befolgung zugefertigt worden.,"Die Haupträdelsführer, Niemoiewski, Wybicki, Xaver Dombrowski,"
@@ -50,3 +51,4 @@
 1,40,break,held,hand,0,0,0,"Pardon erhalten, und ein zweyter sich mit der Flucht gerette",= 387.
 1,91,break,held,hand,0,0,0,die jetzt festgesetzten Principia Rücksicht zu nehmen.,Sollten Sr. Königliche Majestät auf obige Vorschläge zu entriren
 1,97,break,held,hand,0,0,0,zur Allerhöchsten Vollziehung vorzulegen seyn.,Berlin den 16ten Februar 1797.
+1,112,break,held,hand,0,0,0,1797,Liste

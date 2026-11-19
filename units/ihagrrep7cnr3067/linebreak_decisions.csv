@@ -1,6 +1,6 @@
 ﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
 1,1,5,6,¬,Preußi,schen,Preußischen,join,high,"joined form attested in DWDS (447,834 hits)",False,0,447834,0,,2,," Urhebern und Theilnehmern der Süd-Preußi¬ || schen Rebellion viele den Tod, die übrigen"
-1,1,6,7,¬,wie,rige,wierige,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,11,0,152403535,1,1549, übrigen aber Confiscation und lebens wie¬ || rige Festungs-Strafe verwürkt haben.
+1,1,6,7,¬,wie,rige,wierige,join,held,"hand: a word broken at the line end (Claude, 2026-11-19)",False,0,11,0,152403535,2,1549, übrigen aber Confiscation und lebens wie¬ || rige Festungs-Strafe verwürkt haben.
 1,1,8,9,¬,aus,nehmend,ausnehmend,join,high,"joined form attested in DWDS (509,075 hits)",False,0,509075,5,,1,,ch Specielle Allerhöchste Verfügungen aus¬ || nehmend gemildert worden.
 1,1,13,14,¬,fest,gesetzt,festgesetzt,join,high,"joined form attested in DWDS (407,506 hits)",False,0,407506,0,,1,,diat-Instruction vom 3ten April 1795 fest¬ || gesetzt:
 1,1,20,21,¬,aufbrin,gen,aufbringen,join,high,"joined form attested in DWDS (685,941 hits)",False,0,685941,0,,1,,"der die dictirten Geldbußen nicht aufbrin¬ || gen könnten, auf zeitige Festungsstrafen e"
@@ -18,3 +18,5 @@
 1,2,79,80,¬,un,mündige,unmündige,join,high,"joined form attested in DWDS (17,433 hits)",False,0,17433,0,,1,,einer Pension oder Aussteuer für seine un¬ || mündige und von allem eignen Vermögen ent¬
 1,2,80,81,¬,ent,blößte,entblößte,join,high,"joined form attested in DWDS (41,646 hits)",False,0,41646,0,,1,,mündige und von allem eignen Vermögen ent¬ || blößte Tochter aus den confiscirten Gütern
 1,2,84,85,¬,ge,meldet,gemeldet,join,high,"joined form attested in DWDS (6,055,570 hits)",False,0,6055570,0,,1,, auf die ergangenen Edictal-Citationen ge¬ || meldet haben.
+1,4,114,115,¬,lebenswie,rige,lebenswierige,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"gegen welche auf Todes-lebenswie¬ || rige, oder langwierige Vestungs¬"
+1,4,115,116,¬,Vestungs,Strafe,VestungsStrafe,split,held,"hand: the next part is capitalised, two words as in the list's cells (Claude, 2026-11-19)",False,0,0,0,0,11,,"rige, oder langwierige Vestungs¬ || Strafe erkannt worden."

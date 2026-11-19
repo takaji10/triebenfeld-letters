@@ -19,8 +19,8 @@ the offence below); the heading of C and C 1-9; the heads repeated and C
   offence cell is empty.
 - C 20 and 21 share one row of the sheet, one offence and one month, joined by
   braces: two rows, the offence and the month in 20's.
-- The title (page 0007_a), which the spreadsheet does not hold, is taken from
-  the editor's text file of 0007: "Liste" and the rest of it, two rows.
+- The title page (0007_a), which the spreadsheet does not hold, is not part of
+  the table: it is text, line by line (the editor, 2026-11-19).
 
 Columns: page, then the five of the list (Nummer, Nahmen, Art des
 Verbrechens, Dauer der Strafe, Anfang derselben).
@@ -35,7 +35,6 @@ import openpyxl
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 XLSX = sys.argv[1] if len(sys.argv) > 1 else r'C:\Users\Tersnaus\Downloads\I_HA_Rep_7_C_Nr_3067_tables.xlsx'
-TITLE = r'C:\Users\Tersnaus\Downloads\74344_Lacko\I_HA_Rep_7_C_Nr_3067\Process\0007_I_HA_Rep_7_C_Nr_3067_0007.txt'
 OUT = os.path.join(HERE, 'table.csv')
 
 
@@ -50,10 +49,6 @@ def main():
     wb = openpyxl.load_workbook(XLSX)
     s1, s2, s3, s4 = wb.worksheets
     out = []
-    title = io.open(TITLE, encoding='utf-8-sig').read().replace('\r\n', '\n').rstrip('\n').split('\n')
-    out.append(['0007_a', '', title[0], '', '', ''])
-    out.append(['0007_a', '', '\n'.join(title[1:]), '', '', ''])
-
     (head,) = cells(s1)
     out.append(['0008_a1'] + head)
     for (cell, *rest) in cells(s2):

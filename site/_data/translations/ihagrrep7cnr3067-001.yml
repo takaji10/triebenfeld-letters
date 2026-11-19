@@ -197,19 +197,11 @@ segments:
     en: Fr. Wilhelm
     kind: person
 - page: 4
-  en: ',List,,,
+  en: 'List
 
-    ,"of those South Prussian rebels against whom sentence of death, of lifelong or of long imprisonment
-    in a fortress has been pronounced.",,,'
-  html: '<div class="ledger-wrap"><table class="ledger">
 
-    <caption>List<br>of those South Prussian rebels against whom sentence of death, of lifelong or of
-    long imprisonment in a fortress has been pronounced.</caption>
-
-    <thead><tr><th rowspan="1" class="no">Number</th><th rowspan="1" class="name">Names</th><th class="text">Nature
-    of the crime</th><th class="text">Length of the sentence</th><th class="text">Its beginning</th></tr></thead>
-
-    </table></div>'
+    of those South Prussian rebels against whom sentence of death, of lifelong or of long imprisonment
+    in a fortress has been pronounced.'
 - page: 5
   en: 'Number,Names,Nature of the crime,Length of the sentence,Its beginning
 

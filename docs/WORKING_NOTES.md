@@ -4225,12 +4225,22 @@ first and a fine pass at their word. The files are in
   the summaries, the index, the timeline, the scan labels and the
   paragraph rulings keyed to the old numbers.
 - **A document can be a table on some pages only**: `documents: tables`
-  with `table_pages: {"1": [4, 5, 6]}` in rulings.yml (unitlib.load_tables;
+  with `table_pages: {"1": [5, 6]}` in rulings.yml (unitlib.load_tables;
   the page build, both checks and publish_translations follow it). After
   merging documents, delete the old `dataset/documents/` and `dataset/text/`
   files of the numbers that are gone (the build does not), and the cache
   and `site/_data/translations/` files of them (publish_translations works
   from the cache files).
+- **A table's title page is text, and look at every page of a table in the
+  browser** (2026-11-19). The list's title page (I. HA GR, Rep. 7 C, Nr.
+  3067, page 4) was first built as the table's first rows: `render_table`
+  drew it as a caption over column heads taken from the next page, the
+  title's line ends gone. The editor saw it on the local site ("weird
+  styling ... table headings that don't belong there"). The checks passed
+  it: they compare words, not what a page looks like. A page with no rows
+  of the table stays text (leave it out of `table_pages`); then set its
+  reading by hand where a heading word ("Liste") would run on into the
+  next line.
 - **The editor overruled a correction made on two readers' word**
   (2026-11-19, the spot sheet): the King's "Nach genauer Betrachtung" had
   been changed to "Untersuchung[?]" on reader 1 and Claude (reader 2 had a

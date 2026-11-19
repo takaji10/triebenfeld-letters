@@ -1,5 +1,5 @@
 ﻿unit,uid,pad,permalink,letter_id,seq_archival,parent_letter,doc_type,date_iso,date_precision,date_source,date_display,date_inferred_from,year,month,day,place,sender,recipient,line_start,line_end,uncertainty_count,has_damage,rough_transcription,duplicate_of,is_missing,n_lines,n_pages,era,text,text_reading
-ihagrrep7cnr3067,ihagrrep7cnr3067-1,ihagrrep7cnr3067-001,/documents/ihagrrep7cnr3067/1/,1,1,,memorandum,1797-02-16,day,dateline,1797-02-16,read from the document's own dateline,1797,2,16,Berlin,,,1,152,3,0,0,,0,145,6,hohenlohe,"d. 16 Feb. 1797
+ihagrrep7cnr3067,ihagrrep7cnr3067-1,ihagrrep7cnr3067-001,/documents/ihagrrep7cnr3067/1/,1,1,,memorandum,1797-02-16,day,dateline,1797-02-16,read from the document's own dateline,1797,2,16,Berlin,,,1,155,3,0,0,,0,148,6,hohenlohe,"d. 16 Feb. 1797
 Promemoria
 Nach den Gesetzen würden von den Urhebern und Theilnehmern der Süd-Preußi¬
 schen Rebellion viele den Tod, die übrigen aber Confiscation und lebens wie¬
@@ -105,8 +105,11 @@ gebracht werden.
 Fr. Wilhelm
 d 16 Februariy
 1797
-,Liste,,,
-,""dererjenigen Südpreußischen Rebellen, gegen welche auf Todes-lebenswierige, oder langwierige Vestungs Strafe erkannt worden."",,,
+Liste
+dererjenigen Südpreußischen Rebellen,
+gegen welche auf Todes-lebenswie¬
+rige, oder langwierige Vestungs¬
+Strafe erkannt worden.
 Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang derselben
 ,A. Todes-Strafe.,,,
 ""1,"",""Franz von Wittwicki,"",Weil sie bey dem Ueberfall der Stadt Wraclawec die Domestiken der Domherren gegen das Militair angeführt; auch einen Offizier und einen Accise-Offizianten ermordet.,,
@@ -214,7 +217,9 @@ Fr. Wilhelm
 
 d 16 Februariy 1797
 
-,Liste,,, ,""dererjenigen Südpreußischen Rebellen, gegen welche auf Todes-lebenswierige, oder langwierige Vestungs Strafe erkannt worden."",,,
+Liste
+
+dererjenigen Südpreußischen Rebellen, gegen welche auf Todes-lebenswierige, oder langwierige Vestungs Strafe erkannt worden.
 
 Nummer,Nahmen,Art des Verbrechens,Dauer der Strafe,Anfang derselben
 

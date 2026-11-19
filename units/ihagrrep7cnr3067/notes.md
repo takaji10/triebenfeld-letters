@@ -48,9 +48,18 @@ addresses /documents/ihagrrep7cnr3067/2/ and /3/ were never published.
   is in another hand (a docket); kept where the editor put it. On page 3,
   under Goldbeck's signature, the King's decision, "Fr. Wilhelm / d 16
   Februariy 1797".
-- **Pages 4 to 6** (0007_a to 0008_a2): the list, **a table since
-  2026-11-19** (`documents: tables` with `table_pages: [4, 5, 6]`: the
-  document is a table on those pages only, its first three are text). At first it was kept line by line, as the editor's text file
+- **Page 4** (0007_a): the list's title page, "Liste / dererjenigen
+  Südpreußischen Rebellen, ...", text line by line. It was first built as
+  the table's first rows, which drew it as a caption over the column heads
+  of page 5, with its line ends lost; the editor (2026-11-19): page 4 "has
+  weird styling on the text and is not showing the text separated by its
+  original lines. I also see table headings that don't belong there". In
+  the reading, "Liste" stands as its own paragraph (a hand row in
+  `paragraph_decisions.csv`), and "Vestungs¬ / Strafe" stays two words (a
+  held `split` in `linebreak_decisions.csv`, as the list's cells have it).
+- **Pages 5 and 6** (0008_a1, 0008_a2): the list, **a table since
+  2026-11-19** (`documents: tables` with `table_pages: [5, 6]`: the
+  document is a table on those pages only, the others are text). At first it was kept line by line, as the editor's text file
   has it, because `render_table` set every cell after the name as a figure;
   the editor then pointed to their own table of it,
   `Downloads\I_HA_Rep_7_C_Nr_3067_tables.xlsx` ("It should already be in

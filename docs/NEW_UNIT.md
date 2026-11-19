@@ -151,9 +151,12 @@ Oe 1 Bü 9454, document 303, the older one.
   heading (a label stands over the blanks that follow it). A row with no
   number between the entries is a page's own total.
 - **A table on some pages of a document only**: `documents: table_pages:`
-  (`{"1": [4, 5, 6]}`), beside `tables:`; the other pages are text.
+  (`{"1": [5, 6]}`), beside `tables:`; the other pages are text. A title
+  page of the table, with no rows of its own, is one of the text pages, not
+  the table's first rows: as rows it is drawn as a caption over column heads
+  that are not on it, and its line ends are lost (the editor, 2026-11-19).
 - **A table with words in it** (the list of the condemned, I. HA GR, Rep. 7
-  C, Nr. 3067, pages 4 to 6, 2026-11-19): list the columns that hold words under
+  C, Nr. 3067, pages 5 and 6, 2026-11-19): list the columns that hold words under
   `documents: table_text_columns:` (`{"3": [3, 4, 5]}`, counted from 1) - they
   are set left, the long ones wrap, and the English may translate them. An
   entry number may carry the clerk's stop ("12,"). A later page that repeats

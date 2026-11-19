@@ -32,7 +32,7 @@ readers and Claude checked every line (notes.md, "The transcription
 checked"). The script checks that every source line is used exactly once and
 that every correction finds its text exactly once.
 
-The list (document 3, pages 0007_a, 0008_a1, 0008_a2) is a table since
+The list (pages 0008_a1 and 0008_a2; its title page 0007_a is text) is a table since
 2026-11-19 (the editor: "It should already be in table format ... as
 I_HA_Rep_7_C_Nr_3067_tables.xlsx"): intake/table.csv, made from the editor's
 spreadsheet by table_from_xlsx.py, gives its rows and cells; TABLE below fills
@@ -141,7 +141,10 @@ CORRECTIONS = [
 ]
 
 
-TABLE_PAGES = ('0007_a', '0008_a1', '0008_a2')
+# The list's title page (0007_a) is text, line by line, not a row of the
+# table (the editor, 2026-11-19: page 4 "is not showing the text separated by
+# its original lines"); the table is the two pages of the list itself.
+TABLE_PAGES = ('0008_a1', '0008_a2')
 
 
 def table_rows():

@@ -173,8 +173,9 @@ pages:
   confidence: high
   marker_count: 0
   en: |-
-    ,List,,,
-    ,"of those South Prussian rebels against whom sentence of death, of lifelong or of long imprisonment in a fortress has been pronounced.",,,
+    List
+
+    of those South Prussian rebels against whom sentence of death, of lifelong or of long imprisonment in a fortress has been pronounced.
   names: []
 - page: 5
   confidence: high

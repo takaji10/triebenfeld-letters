@@ -125,7 +125,7 @@ so check them.
   Chancellor's promemoria of 16 February 1797 to Friedrich Wilhelm II on the
   sentences passed on the insurgents of 1794 and a further pardon, the King's
   own-hand refusal beneath it, and the enclosed list of the 31 condemned (a
-  table on pages 4 to 6).
+  table on pages 5 and 6 under its title page 4).
   The editor's transcription checked by four Sonnet readers and Claude (23
   corrections); translated, summarised and claim-checked in session; era
   `hohenlohe`. The spot sheet answered and applied the same day, and the

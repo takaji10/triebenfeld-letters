@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """The English of the list of the condemned as a table, row for row the shape
-of the German (intake/table.csv, build_pages.py TABLE), written into pages 4
-to 6 of doc1.yml (the list was document 3 until the editor made the file one
-document, 2026-11-19; PAGES below keep the list's own page numbers 1 to 3). 2026-11-19, when the list became a table; the words are those
+of the German (intake/table.csv, build_pages.py TABLE), written into pages 5
+and 6 of doc1.yml (the list was document 3 until the editor made the file one
+document, 2026-11-19; PAGES below keep the list's own page numbers 2 and 3; its title page,
+page 4 of the document, is text since the same day and not written here). 2026-11-19, when the list became a table; the words are those
 of the line-by-line English it replaces.
 
     python units/ihagrrep7cnr3067/intake/translation/doc3_table.py
@@ -18,11 +19,6 @@ HEAD = ['Number', 'Names', 'Nature of the crime', 'Length of the sentence', 'Its
 SAME = 'For especially active participation in the insurrection'
 
 PAGES = {
-    1: [
-        ['', 'List', '', '', ''],
-        ['', 'of those South Prussian rebels against whom sentence of death, of lifelong '
-             'or of long imprisonment in a fortress has been pronounced.', '', '', ''],
-    ],
     2: [
         HEAD,
         ['', 'A. Death sentence.', '', '', ''],
@@ -109,7 +105,7 @@ def main():
     p = os.path.join(HERE, 'doc1.yml')
     d = yaml.safe_load(io.open(p, encoding='utf-8'))
     for pg in d['pages']:
-        if pg['page'] < 4:
+        if pg['page'] < 5:
             continue
         pg['en'] = csv_text(PAGES[pg['page'] - 3])
         for f in pg.get('flagged') or []:
