@@ -107,14 +107,16 @@ rules:
 # now on; these bring the English already published into line.
 
 - id: name-prusimski
-  pattern: "\\b(?:Prussiemski|Prussimski|Prussimsky|Prusimsky|Prudzinski)\\b"
+  pattern: "\\b(?:Prussiemski|Prussimski|Prussimsky|Prusimsky)\\b"
   replace: "Prusimski"
   why: >-
     Antoni Prusimski, written Prussiemski, Prussimski, Prussimsky and Prusimsky
     in the French letter of 1815 and elsewhere, and carried over as written. The
     edition's form (editor, 2026-10-03; reference/people.yml, prusimski).
     "Prudzinski" among the fled ringleaders of Goldbeck's promemoria of 1797
-    (I. HA GR, Rep. 7 C, Nr. 3067, 1) is he (the editor, 2026-11-19).
+    (I. HA GR, Rep. 7 C, Nr. 3067, 1) is he (the editor, 2026-11-19), and is
+    not replaced here: the English there reads "Prudzinski [Prusimski]", the
+    clerk's form with the edition's after it (the editor, 2026-11-19).
 
 - id: name-miaczynska
   pattern: "\\b(?:Moscinska|Moszynska|Mi(?:a|ą|e|ę)czy(?:n|ń)ska)(?<!Miączyńska)\\b"

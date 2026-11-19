@@ -175,9 +175,11 @@ claim-checked by a Sonnet sub-agent (`intake/claim_check.yml`: 58 statements,
   has the d) is Antoni Prusimski: the editor's identification, 2026-11-19.
   Matched to `prusimski` by its own alternative in the `match` (not a
   `variants` entry, which would make check_translations demand the full
-  "Antoni Prusimski" in a list of surnames); the English writes "Prusimski"
-  (reference/english_forms.yml, name-prusimski), the transcription keeps
-  "Prudzinski".
+  "Antoni Prusimski" in a list of surnames); the English writes
+  "Prudzinski [Prusimski]" (the editor, 2026-11-19), so the English rule
+  name-prusimski (reference/english_forms.yml) no longer takes "Prudzinski",
+  which it would turn into "Prusimski" at every publish; the transcription
+  keeps "Prudzinski".
 - No person entries for the 31 names of the list or the other ringleaders
   (the editor, 2026-11-19).
 
