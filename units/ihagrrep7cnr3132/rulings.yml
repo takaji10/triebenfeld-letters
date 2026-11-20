@@ -1,6 +1,8 @@
 # Editorial rulings for I. HA GR, Rep. 7 C, Nr. 3132 (GStA PK).
 #
-# Eleven documents (the editor, 2026-11-20, asked before the cut): the
+# Nine documents (the editor, 2026-11-20: eleven asked before the cut, then
+# "Combine Document 7 + 8 into a single document. Combine documents 9+10
+# into a single document"; the old 11 is 9): the
 # ministers' letters, drafts and copies on the petition of Prusimski and
 # Jezierski, February to May 1803. The office's slip (fol. 9) is not a
 # document of its own: it stands with document 4, whose registry number
@@ -15,11 +17,9 @@ places:
     "4": Berlin     # "Berlin den 11ten May 1803"
     "5": Berlin     # "Berlin den 30ten April. 1803"
     "6": Potsdam    # "Potsdam, den 10ten May 1803."
-    "7": Berlin     # "Berlin, den 11ten May 1803."
-    "8": Berlin     # "Berlin, den 11ten May 1803."
-    "9": Berlin     # "Berlin den 30. May 1803"
-    "10": Berlin    # "Berlin den 30. May 1803"
-    "11": Berlin    # "Berlin den 30. May 1803."
+    "7": Berlin     # "Berlin, den 11ten May 1803." (the rescript and the resolution alike)
+    "8": Berlin     # "Berlin den 30. May 1803" (both drafts)
+    "9": Berlin     # "Berlin den 30. May 1803."
 
 dates:
   # [year, month, day, precision]; read off each document.
@@ -31,10 +31,8 @@ dates:
     "5": [1803, 4, 30, "day"]
     "6": [1803, 5, 10, "day"]
     "7": [1803, 5, 11, "day"]
-    "8": [1803, 5, 11, "day"]
+    "8": [1803, 5, 30, "day"]
     "9": [1803, 5, 30, "day"]
-    "10": [1803, 5, 30, "day"]
-    "11": [1803, 5, 30, "day"]
   # [year, month, day, precision, basis]
   inferred: {}
   supplied: {}
@@ -42,7 +40,7 @@ dates:
   no_date: []
 
 documents:
-  # Copies (5 to 8, "Copia", "Abschrift") keep the type of what they copy.
+  # Copies (5 to 7, "Copia", "Abschrift") keep the type of what they copy.
   # The King's cabinet order and the rescript and resolution issued in his
   # name are `royal_rescript`, as the cabinet orders of Nr. 3709 and the
   # resolution of Oe 1 Bü 14525, 43.
@@ -54,10 +52,8 @@ documents:
     "5": report
     "6": royal_rescript
     "7": royal_rescript
-    "8": royal_rescript
+    "8": draft
     "9": draft
-    "10": draft
-    "11": draft
 
   language: {}
   duplicate_of: {}
@@ -79,10 +75,10 @@ documents:
       - kind: answers
         target: "5"
         note: "The King grants the return 'in Rücksicht der aus Euerm Berichte von 30ten v. M. ersehenen Gründe'."
-    "10":
+    "8":
       - kind: answers
         target: "4"
-        note: "Haugwitz thanks Goldbeck for his letter 'vom 11. m. c.' and returns the cabinet order and the countersigned drafts."
+        note: "In the second draft Haugwitz thanks Goldbeck for his letter 'vom 11. m. c.' and returns the cabinet order and the countersigned drafts."
 
 damage:
   letters: []

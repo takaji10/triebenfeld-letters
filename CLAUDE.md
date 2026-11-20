@@ -123,8 +123,10 @@ so check them.
   return, 1803** (slug `ihagrrep7cnr3132`, added 2026-11-20, branch
   `trampczynski-family`, **not published**): the ministers' file on the
   petition of Antoni Prusimski and the canon Xaver Jezierski from Dresden;
-  eleven documents (the editor's word: the office's slip stands with
-  document 4, out of the file's order), the cover as front matter; era
+  nine documents (the editor's word: the office's slip stands with
+  document 4, out of the file's order; the pieces written one under the
+  other joined, 7 with 8 and 9 with 10, the same day), the cover as front
+  matter; era
   `hohenlohe`. The editor's transcription checked by four Sonnet readers and
   Claude (55 corrections); translated, summarised and claim-checked in
   session; a new person entry Jezierski; a timeline event (10 May 1803);

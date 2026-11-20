@@ -5222,7 +5222,7 @@ bayreuth:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 berlin:
-  docs: 229
+  docs: 227
   span: 1794–1936
   letters:
   - id: '13'
@@ -5569,25 +5569,15 @@ berlin:
     uid: ihagrrep7cnr3132-7
     url: /documents/ihagrrep7cnr3132/7/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
+    n: 2
   - id: '8'
     uid: ihagrrep7cnr3132-8
     url: /documents/ihagrrep7cnr3132/8/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
+    n: 3
   - id: '9'
     uid: ihagrrep7cnr3132-9
     url: /documents/ihagrrep7cnr3132/9/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 2
-  - id: '10'
-    uid: ihagrrep7cnr3132-10
-    url: /documents/ihagrrep7cnr3132/10/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
-  - id: '11'
-    uid: ihagrrep7cnr3132-11
-    url: /documents/ihagrrep7cnr3132/11/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 2
   - id: '25'
@@ -7085,9 +7075,9 @@ dresden:
     url: /documents/ihagrrep7cnr3132/5/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 2
-  - id: '8'
-    uid: ihagrrep7cnr3132-8
-    url: /documents/ihagrrep7cnr3132/8/
+  - id: '7'
+    uid: ihagrrep7cnr3132-7
+    url: /documents/ihagrrep7cnr3132/7/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 1
   - id: '178'
@@ -10204,7 +10194,7 @@ potsdam:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 posen:
-  docs: 81
+  docs: 79
   span: 1794–1936
   letters:
   - id: '13'
@@ -10416,25 +10406,15 @@ posen:
     uid: ihagrrep7cnr3132-7
     url: /documents/ihagrrep7cnr3132/7/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
+    n: 2
   - id: '8'
     uid: ihagrrep7cnr3132-8
     url: /documents/ihagrrep7cnr3132/8/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
+    n: 2
   - id: '9'
     uid: ihagrrep7cnr3132-9
     url: /documents/ihagrrep7cnr3132/9/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
-  - id: '10'
-    uid: ihagrrep7cnr3132-10
-    url: /documents/ihagrrep7cnr3132/10/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
-  - id: '11'
-    uid: ihagrrep7cnr3132-11
-    url: /documents/ihagrrep7cnr3132/11/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 1
   - id: '26'

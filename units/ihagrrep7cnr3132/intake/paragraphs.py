@@ -46,19 +46,34 @@ RULES = [
     ('5', 'Sr Königl: Majestät.', 'run'),
     ('6', 'die Staatsminister Großkanzler', 'run'),
     ('6', 'v. Goldbeck und Grafen', 'run'),
+    # 7 and 8: each two pieces one under the other (the editor joined them, 2026-11-20);
+    # the second piece begins a paragraph.
     ('7', 'Haugwitz', 'run'),
     ('7', 'die SüdPreußl. Regierung', 'run'),
     ('7', 'zu Posen', 'run'),
-    ('8', 'v. Prusiemski und dem Xaver', 'run'),
-    ('8', 'Haugwitz', 'run'),
-    ('8', 'v. Prusiemski und den Xaver', 'run'),
-    ('9', 'Da Sr. Königl. Majestät', 'break'),
-    ('11', 'die Kammer', 'run'),
-    ('11', 'zu Posen.', 'run'),
-    ('11', 'zur gefälligen Mitzeichnung', 'break'),
-    ('11', 'In der abschriftlichen Anlage', 'break'),
-    ('11', 'Berlin den 30. May 1803.', 'break'),
-    ('11', 'Haugwitz', 'run'),
+    ('7', 'Sr: Königl: Maj. von Preußen', 'break'),
+    ('7', 'v. Prusiemski und dem Xaver', 'run'),
+    ('7', 'v. Prusiemski und den Xaver', 'run'),
+    ('8', 'Da Sr. Königl. Majestät', 'break'),
+]
+
+# Breaks no cue of the resolver proposes, written into the sheet as new rows
+# (cue `hand`), which resolve_paragraphs.py carries over by the line's words,
+# and by the line before where the words stand twice in the document:
+# (doc, the whole line, the line before, decision). Document 8's second draft
+# (Haugwitz to Goldbeck) begins with its address and its body with "Ewr
+# Excellenz".
+NEW = [
+    ('8', 'An', 'Berlin den 30. May 1803', 'break'),
+    ('8', 'Ewr Excellenz danke ich ver¬', 'd. 6. ten Juny beides c. alltis ins.', 'break'),
+]
+RULES += [
+    ('9', 'die Kammer', 'run'),
+    ('9', 'zu Posen.', 'run'),
+    ('9', 'zur gefälligen Mitzeichnung', 'break'),
+    ('9', 'In der abschriftlichen Anlage', 'break'),
+    ('9', 'Berlin den 30. May 1803.', 'break'),
+    ('9', 'Haugwitz', 'run'),
 ]
 
 
@@ -72,6 +87,26 @@ def main():
             if r['letter'] == doc and r['context'].startswith(start):
                 r['decision'], r['confidence'], r['cue'] = dec, 'held', 'hand'
                 used.add(k)
+    docs, cur = {}, None
+    for i, raw in enumerate(io.open(os.path.join(UNIT_DIR, 'corpus.txt'), encoding='utf-8').read().split('\n')):
+        if raw.startswith('[DOC '):
+            cur = raw[5:-1]
+            docs[cur] = []
+        elif cur and not raw.startswith('[PAGE '):
+            docs[cur].append((i + 1, raw.strip()))
+    for doc, line, before, dec in NEW:
+        ls = docs[doc]
+        hit = [ls[k][0] for k in range(1, len(ls)) if ls[k][1][:70] == line and ls[k - 1][1][:60] == before[:60]]
+        assert len(hit) == 1, (doc, line, hit)
+        old = [r for r in rows if r['letter'] == doc and r['line'] == str(hit[0])]
+        if old:
+            old[0].update(decision=dec, confidence='held', cue='hand')
+        else:
+            row = dict.fromkeys(fields, '')
+            row.update(letter=doc, line=str(hit[0]), decision=dec, confidence='held', cue='hand',
+                       ratio='0', prev_len='0', page_measure='0', prev_line=before[:60], context=line[:70])
+            rows.append(row)
+    rows.sort(key=lambda r: (int(r['letter']), int(r['line'])))
     missing = [RULES[k] for k in range(len(RULES)) if k not in used]
     for m in missing:
         print('not found:', m)
@@ -79,7 +114,7 @@ def main():
         w = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
         w.writeheader()
         w.writerows(rows)
-    print(len(used), 'of', len(RULES), 'rules applied')
+    print(len(used), 'of', len(RULES), 'rules applied;', len(NEW), 'rows set by hand where no cue proposes one')
 
 
 if __name__ == '__main__':

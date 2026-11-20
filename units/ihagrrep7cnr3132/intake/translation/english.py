@@ -142,9 +142,9 @@ Auzl etc. special command.
 
 Goldbeck Haugwitz
 
-To the South Prussian Government at Poznań"""],
+To the South Prussian Government at Poznań
 
-    8: ["""His Royal Majesty of Prussia, our most gracious Lord, hereby lets Anton v. Prusimski and Xaver von Jezierski know, on their immediate representation of 27 Jan. of this year, that the leave they asked for to return to their fatherland has been granted, on the assumption that they will conduct themselves there in future as loyal[?] subjects; that the confiscation of property decreed against them with final effect remains, however, unalterably in force, and that von""",
+His Royal Majesty of Prussia, our most gracious Lord, hereby lets Anton v. Prusimski and Xaver von Jezierski know, on their immediate representation of 27 Jan. of this year, that the leave they asked for to return to their fatherland has been granted, on the assumption that they will conduct themselves there in future as loyal[?] subjects; that the confiscation of property decreed against them with final effect remains, however, unalterably in force, and that von""",
         """Jezierski must remain deprived of his clerical offices and benefices; but that otherwise they need fear no further inquiry or punishment for their part in the insurrection, on which the necessary has been ordered to the Government at Poznań this day.
 
 Berlin, 11 May 1803.
@@ -155,7 +155,7 @@ Goldbeck Haugwitz
 
 To the former Starost Anton v. Prusimski and Xaver von Jezierski at Dresden."""],
 
-    9: ["""Berlin, 30 May 1803
+    8: ["""Berlin, 30 May 1803
 
 To His Royal Minister of State etc. von Voss, Excellency.
 
@@ -163,9 +163,9 @@ To His Royal Minister of State etc. von Voss, Excellency.
 
 His Royal Majesty having been pleased, by cabinet order of the 10th of this month, most graciously to grant the former Starost von Prusimski and Xaver von Jezierski the leave they asked for to return to their fatherland, I do not fail to bring this to Your Excellency's closer knowledge through the copy enclosed, and leave it most obediently to you whether you will be pleased to countersign the notificatorium on this matter to the Chamber at Poznań, enclosed in draft and fair copy.
 
-Berlin, 30 May 1803"""],
+Berlin, 30 May 1803
 
-    10: ["""To His Royal Grand Chancellor, Minister of State, v. Goldbeck, Excellency.
+To His Royal Grand Chancellor, Minister of State, v. Goldbeck, Excellency.
 
 [Signature M?]
 
@@ -178,7 +178,7 @@ Berlin, 30 May 1803
 
 Haug[witz]"""],
 
-    11: ["""Berlin, 30 May 1803
+    9: ["""Berlin, 30 May 1803
 
 To the Chamber at Poznań.
 

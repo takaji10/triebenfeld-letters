@@ -910,7 +910,7 @@
   initial_en: "C"
   sort_de: "kammer"
   initial_de: "K"
-  docs: 81
+  docs: 80
 - id: "kriegsrath"
   kind: "law"
   lang: "de"
@@ -1119,7 +1119,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 103
+  docs: 102
 - id: "grod"
   kind: "law"
   lang: "pl"
@@ -1480,7 +1480,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 108
+  docs: 107
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1575,7 +1575,7 @@
   initial_en: "C"
   sort_de: "cabinets-ordre"
   initial_de: "C"
-  docs: 30
+  docs: 29
 - id: "landrath"
   kind: "law"
   lang: "de"
@@ -1860,7 +1860,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 361
+  docs: 360
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"

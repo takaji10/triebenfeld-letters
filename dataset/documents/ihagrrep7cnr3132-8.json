@@ -6,89 +6,100 @@
  "uid": "ihagrrep7cnr3132-8",
  "pad": "ihagrrep7cnr3132-008",
  "permalink": "/documents/ihagrrep7cnr3132/8/",
- "doc_type": "royal_rescript",
+ "doc_type": "draft",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1803-05-11",
+ "date_iso": "1803-05-30",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1803-05-11",
+ "date_display": "1803-05-30",
  "date_inferred_from": "read from the document's own dateline",
  "year": 1803,
  "month": 5,
- "day": 11,
+ "day": 30,
  "place": "Berlin",
  "sender": "",
  "recipient": "",
- "line_start": 295,
- "line_end": 318,
+ "line_start": 317,
+ "line_end": 375,
  "uncertainty_count": 2,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
- "relations": [],
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "4",
+   "note": "In the second draft Haugwitz thanks Goldbeck for his letter 'vom 11. m. c.' and returns the cabinet order and the countersigned drafts."
+  }
+ ],
  "estates": [],
  "is_missing": 0,
- "n_lines": 21,
+ "n_lines": 56,
  "n_pages": 2,
- "text": "Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton\nv. Prusiemski und dem Xaver von Jezierski auf ihre Imme¬\ndiat-Vorstellung vom 27. Jan: d. J. hierdurch bekannt machen\ndaß ihnen die gebetene Erlaubniß zur Rückkehr in ihr Vater¬\nland in der Voraussetzung, daß sie sich dort künftig als getreue[?]\nUnterthanen betragen werden, bewilliget worden; daß es zwar\nbei der gegen sie rechtskräftig erkannten Vermögens-Confis¬\ncation sein unabänderliches Bewenden behalten, auch an dem von\nJezierski seiner geistl: Ämter und Pfrunden verlustig bleiben\nmüße, daß sie aber sonst weiter keine Untersuchung und Bestra¬\nfung wegen ihrer Theilnahme an der Insurrection befürchten\ndürfen, wonach dato das Nötige an die Regierung zu Posen er¬\nlaßen worden.\nBerlin, den 11ten May 1803.\nAuzl.[?] p. Special-Befehl.\nGoldbeck\nHaugwitz\nAn\nden ehemaligen Starosten Anton\nv. Prusiemski und den Xaver\nvon Jezierski zu Dresden.",
- "text_reading": "Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton v. Prusiemski und dem Xaver von Jezierski auf ihre Immediat-Vorstellung vom 27. Jan: d. J. hierdurch bekannt machen daß ihnen die gebetene Erlaubniß zur Rückkehr in ihr Vaterland in der Voraussetzung, daß sie sich dort künftig als getreue[?] Unterthanen betragen werden, bewilliget worden; daß es zwar bei der gegen sie rechtskräftig erkannten Vermögens-Confiscation sein unabänderliches Bewenden behalten, auch an dem von\n\nJezierski seiner geistl: Ämter und Pfrunden verlustig bleiben müße, daß sie aber sonst weiter keine Untersuchung und Bestrafung wegen ihrer Theilnahme an der Insurrection befürchten dürfen, wonach dato das Nötige an die Regierung zu Posen erlaßen worden.\n\nBerlin, den 11ten May 1803. Auzl.[?] p. Special-Befehl. Goldbeck Haugwitz\n\nAn den ehemaligen Starosten Anton v. Prusiemski und den Xaver von Jezierski zu Dresden.",
+ "text": "Berlin den 30 May 1803\nAn\ndes König. Et. Min. p von\nVoss Excellenz.\n[H?]\nDa Sr. Königl. Majestät ver¬\nmittelst Cabinets Ordre\nvom 10t m. c. geruhet haben,\ndem vormaligen Starosten\nvon Prusiemski und dem Xa¬\nver von Jezierski die erbethe¬\nne Erlaubniß zur Rückkehr\nin ihr Vaterland allergnä¬\ndigst zu ertheilen; so ver¬\nfehle ich nicht solches durch\ndie abschriftliche Anlage\nzu Ew Excellenz näherer\nKenntniß zu bringen und\nstelle Dienst ergebenst anheim ob.\ndieselben das wegen\ndieser Angelegenheit an die\nKammer zu Posen erlaße¬\nne im Concept und Mundo\nseiner beigefügte Notifica¬\ntorium mit zuzeichnen belie¬\nben werden.\nBerlin den 30. May 1803\nAn\ndes Königl. Großkanzlers Et.\nMin. v Goldbeck Excellenz.\n[Signature M?]\nd. 6. ten Juny beides c. alltis ins.\nEwr Excellenz danke ich ver¬\nbindlichst für die mir mit¬\ntelst geehrtesten Zuschrift\nvom 11. m. c. von der\nRückkehr des v. Prusiemski und\ndes Xaver von Jezierski gegeben\nNachricht. Mit der mir geneig¬\ntest communicirten\noriginal Cabinets Ordre remittire ich De¬\nnen\nnenselben hierbei die\nvon mir mitgezeichneten\nConcepte und Mundo und\nfüge noch ergebenst hinzu,\ndaß ich unter Mitzeich¬\nnung des Königl. Et. Min.\np v Voss Excellenz auch bereits\nder Kammer zu Posen\naufgegeben habe diesen\nbei den Subjecten nunmehro\nden Huldigungseid ableisten\nzu laßen.\nBerlin den 30. May 1803\nHaug[witz]",
+ "text_reading": "Berlin den 30 May 1803 An des König. Et. Min. p von Voss Excellenz.\n\n[H?]\n\nDa Sr. Königl. Majestät vermittelst Cabinets Ordre vom 10t m. c. geruhet haben, dem vormaligen Starosten von Prusiemski und dem Xaver von Jezierski die erbethene Erlaubniß zur Rückkehr in ihr Vaterland allergnädigst zu ertheilen; so verfehle ich nicht solches durch die abschriftliche Anlage zu Ew Excellenz näherer Kenntniß zu bringen und stelle Dienst ergebenst anheim ob. dieselben das wegen dieser Angelegenheit an die Kammer zu Posen erlaßene im Concept und Mundo seiner beigefügte Notificatorium mit zuzeichnen belieben werden.\n\nBerlin den 30. May 1803\n\nAn des Königl. Großkanzlers Et. Min. v Goldbeck Excellenz. [Signature M?]\n\nd. 6. ten Juny beides c. alltis ins.\n\nEwr Excellenz danke ich verbindlichst für die mir mittelst geehrtesten Zuschrift vom 11. m. c. von der Rückkehr des v. Prusiemski und des Xaver von Jezierski gegeben Nachricht. Mit der mir geneigtest communicirten original Cabinets Ordre remittire ich Denen\n\nnenselben hierbei die von mir mitgezeichneten Concepte und Mundo und füge noch ergebenst hinzu, daß ich unter Mitzeichnung des Königl. Et. Min. p v Voss Excellenz auch bereits der Kammer zu Posen aufgegeben habe diesen bei den Subjecten nunmehro den Huldigungseid ableisten zu laßen.\n\nBerlin den 30. May 1803 Haug[witz]",
  "pages": [
   {
    "page": 1,
-   "page_id": "0012_a2",
-   "line_start": 297,
-   "line_end": 304,
-   "n_lines": 8,
-   "diplomatic": "Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton\nv. Prusiemski und dem Xaver von Jezierski auf ihre Imme¬\ndiat-Vorstellung vom 27. Jan: d. J. hierdurch bekannt machen\ndaß ihnen die gebetene Erlaubniß zur Rückkehr in ihr Vater¬\nland in der Voraussetzung, daß sie sich dort künftig als getreue[?]\nUnterthanen betragen werden, bewilliget worden; daß es zwar\nbei der gegen sie rechtskräftig erkannten Vermögens-Confis¬\ncation sein unabänderliches Bewenden behalten, auch an dem von",
-   "transcription": "Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton\nv. Prusiemski und dem Xaver von Jezierski auf ihre Imme-\ndiat-Vorstellung vom 27. Jan: d. J. hierdurch bekannt machen\ndaß ihnen die gebetene Erlaubniß zur Rückkehr in ihr Vater-\nland in der Voraussetzung, daß sie sich dort künftig als getreue[?]\nUnterthanen betragen werden, bewilliget worden; daß es zwar\nbei der gegen sie rechtskräftig erkannten Vermögens-Confis-\ncation sein unabänderliches Bewenden behalten, auch an dem von",
-   "reading": "Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton v. Prusiemski und dem Xaver von Jezierski auf ihre Immediat-Vorstellung vom 27. Jan: d. J. hierdurch bekannt machen daß ihnen die gebetene Erlaubniß zur Rückkehr in ihr Vaterland in der Voraussetzung, daß sie sich dort künftig als getreue[?] Unterthanen betragen werden, bewilliget worden; daß es zwar bei der gegen sie rechtskräftig erkannten Vermögens-Confiscation sein unabänderliches Bewenden behalten, auch an dem von",
+   "page_id": "0014_a2",
+   "line_start": 319,
+   "line_end": 360,
+   "n_lines": 42,
+   "diplomatic": "Berlin den 30 May 1803\nAn\ndes König. Et. Min. p von\nVoss Excellenz.\n[H?]\nDa Sr. Königl. Majestät ver¬\nmittelst Cabinets Ordre\nvom 10t m. c. geruhet haben,\ndem vormaligen Starosten\nvon Prusiemski und dem Xa¬\nver von Jezierski die erbethe¬\nne Erlaubniß zur Rückkehr\nin ihr Vaterland allergnä¬\ndigst zu ertheilen; so ver¬\nfehle ich nicht solches durch\ndie abschriftliche Anlage\nzu Ew Excellenz näherer\nKenntniß zu bringen und\nstelle Dienst ergebenst anheim ob.\ndieselben das wegen\ndieser Angelegenheit an die\nKammer zu Posen erlaße¬\nne im Concept und Mundo\nseiner beigefügte Notifica¬\ntorium mit zuzeichnen belie¬\nben werden.\nBerlin den 30. May 1803\nAn\ndes Königl. Großkanzlers Et.\nMin. v Goldbeck Excellenz.\n[Signature M?]\nd. 6. ten Juny beides c. alltis ins.\nEwr Excellenz danke ich ver¬\nbindlichst für die mir mit¬\ntelst geehrtesten Zuschrift\nvom 11. m. c. von der\nRückkehr des v. Prusiemski und\ndes Xaver von Jezierski gegeben\nNachricht. Mit der mir geneig¬\ntest communicirten\noriginal Cabinets Ordre remittire ich De¬\nnen",
+   "transcription": "Berlin den 30 May 1803\nAn\ndes König. Et. Min. p von\nVoss Excellenz.\n[H?]\nDa Sr. Königl. Majestät ver-\nmittelst Cabinets Ordre\nvom 10t m. c. geruhet haben,\ndem vormaligen Starosten\nvon Prusiemski und dem Xa-\nver von Jezierski die erbethe-\nne Erlaubniß zur Rückkehr\nin ihr Vaterland allergnä-\ndigst zu ertheilen; so ver-\nfehle ich nicht solches durch\ndie abschriftliche Anlage\nzu Ew Excellenz näherer\nKenntniß zu bringen und\nstelle Dienst ergebenst anheim ob.\ndieselben das wegen\ndieser Angelegenheit an die\nKammer zu Posen erlaße-\nne im Concept und Mundo\nseiner beigefügte Notifica-\ntorium mit zuzeichnen belie-\nben werden.\nBerlin den 30. May 1803\nAn\ndes Königl. Großkanzlers Et.\nMin. v Goldbeck Excellenz.\n[Signature M?]\nd. 6. ten Juny beides c. alltis ins.\nEwr Excellenz danke ich ver-\nbindlichst für die mir mit-\ntelst geehrtesten Zuschrift\nvom 11. m. c. von der\nRückkehr des v. Prusiemski und\ndes Xaver von Jezierski gegeben\nNachricht. Mit der mir geneig-\ntest communicirten\noriginal Cabinets Ordre remittire ich De-\nnen",
+   "reading": "Berlin den 30 May 1803 An des König. Et. Min. p von Voss Excellenz.\n\n[H?]\n\nDa Sr. Königl. Majestät vermittelst Cabinets Ordre vom 10t m. c. geruhet haben, dem vormaligen Starosten von Prusiemski und dem Xaver von Jezierski die erbethene Erlaubniß zur Rückkehr in ihr Vaterland allergnädigst zu ertheilen; so verfehle ich nicht solches durch die abschriftliche Anlage zu Ew Excellenz näherer Kenntniß zu bringen und stelle Dienst ergebenst anheim ob. dieselben das wegen dieser Angelegenheit an die Kammer zu Posen erlaßene im Concept und Mundo seiner beigefügte Notificatorium mit zuzeichnen belieben werden.\n\nBerlin den 30. May 1803\n\nAn des Königl. Großkanzlers Et. Min. v Goldbeck Excellenz. [Signature M?]\n\nd. 6. ten Juny beides c. alltis ins.\n\nEwr Excellenz danke ich verbindlichst für die mir mittelst geehrtesten Zuschrift vom 11. m. c. von der Rückkehr des v. Prusiemski und des Xaver von Jezierski gegeben Nachricht. Mit der mir geneigtest communicirten original Cabinets Ordre remittire ich Denen",
    "paragraphs": [
-    "Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton v. Prusiemski und dem Xaver von Jezierski auf ihre Immediat-Vorstellung vom 27. Jan: d. J. hierdurch bekannt machen daß ihnen die gebetene Erlaubniß zur Rückkehr in ihr Vaterland in der Voraussetzung, daß sie sich dort künftig als getreue[?] Unterthanen betragen werden, bewilliget worden; daß es zwar bei der gegen sie rechtskräftig erkannten Vermögens-Confiscation sein unabänderliches Bewenden behalten, auch an dem von"
+    "Berlin den 30 May 1803 An des König. Et. Min. p von Voss Excellenz.",
+    "[H?]",
+    "Da Sr. Königl. Majestät vermittelst Cabinets Ordre vom 10t m. c. geruhet haben, dem vormaligen Starosten von Prusiemski und dem Xaver von Jezierski die erbethene Erlaubniß zur Rückkehr in ihr Vaterland allergnädigst zu ertheilen; so verfehle ich nicht solches durch die abschriftliche Anlage zu Ew Excellenz näherer Kenntniß zu bringen und stelle Dienst ergebenst anheim ob. dieselben das wegen dieser Angelegenheit an die Kammer zu Posen erlaßene im Concept und Mundo seiner beigefügte Notificatorium mit zuzeichnen belieben werden.",
+    "Berlin den 30. May 1803",
+    "An des Königl. Großkanzlers Et. Min. v Goldbeck Excellenz. [Signature M?]",
+    "d. 6. ten Juny beides c. alltis ins.",
+    "Ewr Excellenz danke ich verbindlichst für die mir mittelst geehrtesten Zuschrift vom 11. m. c. von der Rückkehr des v. Prusiemski und des Xaver von Jezierski gegeben Nachricht. Mit der mir geneigtest communicirten original Cabinets Ordre remittire ich Denen"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 8
+   "doc_line_end": 42
   },
   {
    "page": 2,
-   "page_id": "0013_a1",
-   "line_start": 306,
-   "line_end": 318,
-   "n_lines": 13,
-   "diplomatic": "Jezierski seiner geistl: Ämter und Pfrunden verlustig bleiben\nmüße, daß sie aber sonst weiter keine Untersuchung und Bestra¬\nfung wegen ihrer Theilnahme an der Insurrection befürchten\ndürfen, wonach dato das Nötige an die Regierung zu Posen er¬\nlaßen worden.\nBerlin, den 11ten May 1803.\nAuzl.[?] p. Special-Befehl.\nGoldbeck\nHaugwitz\nAn\nden ehemaligen Starosten Anton\nv. Prusiemski und den Xaver\nvon Jezierski zu Dresden.",
-   "transcription": "Jezierski seiner geistl: Ämter und Pfrunden verlustig bleiben\nmüße, daß sie aber sonst weiter keine Untersuchung und Bestra-\nfung wegen ihrer Theilnahme an der Insurrection befürchten\ndürfen, wonach dato das Nötige an die Regierung zu Posen er-\nlaßen worden.\nBerlin, den 11ten May 1803.\nAuzl.[?] p. Special-Befehl.\nGoldbeck\nHaugwitz\nAn\nden ehemaligen Starosten Anton\nv. Prusiemski und den Xaver\nvon Jezierski zu Dresden.",
-   "reading": "Jezierski seiner geistl: Ämter und Pfrunden verlustig bleiben müße, daß sie aber sonst weiter keine Untersuchung und Bestrafung wegen ihrer Theilnahme an der Insurrection befürchten dürfen, wonach dato das Nötige an die Regierung zu Posen erlaßen worden.\n\nBerlin, den 11ten May 1803. Auzl.[?] p. Special-Befehl. Goldbeck Haugwitz\n\nAn den ehemaligen Starosten Anton v. Prusiemski und den Xaver von Jezierski zu Dresden.",
+   "page_id": "0015_a1",
+   "line_start": 362,
+   "line_end": 375,
+   "n_lines": 14,
+   "diplomatic": "nenselben hierbei die\nvon mir mitgezeichneten\nConcepte und Mundo und\nfüge noch ergebenst hinzu,\ndaß ich unter Mitzeich¬\nnung des Königl. Et. Min.\np v Voss Excellenz auch bereits\nder Kammer zu Posen\naufgegeben habe diesen\nbei den Subjecten nunmehro\nden Huldigungseid ableisten\nzu laßen.\nBerlin den 30. May 1803\nHaug[witz]",
+   "transcription": "nenselben hierbei die\nvon mir mitgezeichneten\nConcepte und Mundo und\nfüge noch ergebenst hinzu,\ndaß ich unter Mitzeich-\nnung des Königl. Et. Min.\np v Voss Excellenz auch bereits\nder Kammer zu Posen\naufgegeben habe diesen\nbei den Subjecten nunmehro\nden Huldigungseid ableisten\nzu laßen.\nBerlin den 30. May 1803\nHaug[witz]",
+   "reading": "nenselben hierbei die von mir mitgezeichneten Concepte und Mundo und füge noch ergebenst hinzu, daß ich unter Mitzeichnung des Königl. Et. Min. p v Voss Excellenz auch bereits der Kammer zu Posen aufgegeben habe diesen bei den Subjecten nunmehro den Huldigungseid ableisten zu laßen.\n\nBerlin den 30. May 1803 Haug[witz]",
    "paragraphs": [
-    "Jezierski seiner geistl: Ämter und Pfrunden verlustig bleiben müße, daß sie aber sonst weiter keine Untersuchung und Bestrafung wegen ihrer Theilnahme an der Insurrection befürchten dürfen, wonach dato das Nötige an die Regierung zu Posen erlaßen worden.",
-    "Berlin, den 11ten May 1803. Auzl.[?] p. Special-Befehl. Goldbeck Haugwitz",
-    "An den ehemaligen Starosten Anton v. Prusiemski und den Xaver von Jezierski zu Dresden."
+    "nenselben hierbei die von mir mitgezeichneten Concepte und Mundo und füge noch ergebenst hinzu, daß ich unter Mitzeichnung des Königl. Et. Min. p v Voss Excellenz auch bereits der Kammer zu Posen aufgegeben habe diesen bei den Subjecten nunmehro den Huldigungseid ableisten zu laßen.",
+    "Berlin den 30. May 1803 Haug[witz]"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "doc_line_start": 9,
-   "doc_line_end": 21
+   "scan": "I_HA_Rep_7_C_Nr_3132_0015_a1-L8_02.jpg",
+   "doc_line_start": 43,
+   "doc_line_end": 56
   }
  ],
  "mentions": [
   {
-   "entity": "jezierski",
-   "display": "Xaver Jezierski",
+   "entity": "voss",
+   "display": "Voss",
    "kind": "person",
-   "surface": "Jezierski",
+   "surface": "Voss",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg",
-   "line": 298,
-   "doc_line": 2
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 322,
+   "doc_line": 4
   },
   {
    "entity": "prusimski",
@@ -96,80 +107,124 @@
    "kind": "person",
    "surface": "Prusiemski",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg",
-   "line": 298,
-   "doc_line": 2
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 328,
+   "doc_line": 10
   },
   {
    "entity": "jezierski",
    "display": "Xaver Jezierski",
    "kind": "person",
    "surface": "Jezierski",
-   "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 306,
-   "doc_line": 9
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 329,
+   "doc_line": 11
   },
   {
    "entity": "goldbeck",
    "display": "Heinrich Julius von Goldbeck",
    "kind": "person",
    "surface": "Goldbeck",
-   "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 313,
-   "doc_line": 16
-  },
-  {
-   "entity": "haugwitz",
-   "display": "Christian von Haugwitz",
-   "kind": "person",
-   "surface": "Haugwitz",
-   "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 314,
-   "doc_line": 17
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 348,
+   "doc_line": 30
   },
   {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
    "surface": "Prusiemski",
-   "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 317,
-   "doc_line": 20
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 355,
+   "doc_line": 37
   },
   {
    "entity": "jezierski",
    "display": "Xaver Jezierski",
    "kind": "person",
    "surface": "Jezierski",
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 356,
+   "doc_line": 38
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface": "Voss",
    "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 318,
-   "doc_line": 21
+   "page_id": "0015_a1",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0015_a1-L8_02.jpg",
+   "line": 368,
+   "doc_line": 49
+  },
+  {
+   "entity": "haugwitz",
+   "display": "Christian von Haugwitz",
+   "kind": "person",
+   "surface": "Haug[witz]",
+   "page": 2,
+   "page_id": "0015_a1",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0015_a1-L8_02.jpg",
+   "line": 375,
+   "doc_line": 56
   }
  ],
  "mentions_english": [],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 319,
+   "doc_line": 1
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 340,
+   "doc_line": 22
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg",
+   "line": 345,
+   "doc_line": 27
+  },
+  {
    "entity": "posen",
    "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 309,
-   "doc_line": 12
+   "page_id": "0015_a1",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0015_a1-L8_02.jpg",
+   "line": 369,
+   "doc_line": 50
   },
   {
    "entity": "berlin",
@@ -177,36 +232,25 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 311,
-   "doc_line": 14
-  },
-  {
-   "entity": "dresden",
-   "display": "Dresden",
-   "kind": "place",
-   "surface": "Dresden",
-   "page": 2,
-   "page_id": "0013_a1",
-   "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-   "line": 318,
-   "doc_line": 21
+   "page_id": "0015_a1",
+   "scan": "I_HA_Rep_7_C_Nr_3132_0015_a1-L8_02.jpg",
+   "line": 374,
+   "doc_line": 55
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "His Royal Majesty of Prussia, our most gracious Lord, hereby lets Anton v. Prusimski and Xaver von Jezierski know, on their immediate representation of 27 Jan. of this year, that the leave they asked for to return to their fatherland has been granted, on the assumption that they will conduct themselves there in future as loyal[?] subjects; that the confiscation of property decreed against them with final effect remains, however, unalterably in force, and that von"
+   "en": "Berlin, 30 May 1803\n\nTo His Royal Minister of State etc. von Voss, Excellency.\n\n[H?]\n\nHis Royal Majesty having been pleased, by cabinet order of the 10th of this month, most graciously to grant the former Starost von Prusimski and Xaver von Jezierski the leave they asked for to return to their fatherland, I do not fail to bring this to Your Excellency's closer knowledge through the copy enclosed, and leave it most obediently to you whether you will be pleased to countersign the notificatorium on this matter to the Chamber at Poznań, enclosed in draft and fair copy.\n\nBerlin, 30 May 1803\n\nTo His Royal Grand Chancellor, Minister of State, v. Goldbeck, Excellency.\n\n[Signature M?]\n\nd. 6th June both c. alltis ins.\n\nI thank Your Excellency most kindly for the news given me in your most esteemed letter of the 11th of this month of the return of v. Prusimski and Xaver von Jezierski. With the original cabinet order kindly communicated to me I return to you"
   },
   {
    "page": 2,
-   "en": "Jezierski must remain deprived of his clerical offices and benefices; but that otherwise they need fear no further inquiry or punishment for their part in the insurrection, on which the necessary has been ordered to the Government at Poznań this day.\n\nBerlin, 11 May 1803.\n\nAuzl.[?] etc. special command.\n\nGoldbeck Haugwitz\n\nTo the former Starost Anton v. Prusimski and Xaver von Jezierski at Dresden."
+   "en": "herewith the drafts and fair copies countersigned by me, and add most obediently that, with the countersignature of His Royal Minister of State etc. v. Voss, Excellency, I have also already instructed the Chamber at Poznań to have these subjects now take the oath of allegiance.\n\nBerlin, 30 May 1803\n\nHaug[witz]"
   }
  ],
- "text_english": "His Royal Majesty of Prussia, our most gracious Lord, hereby lets Anton v. Prusimski and Xaver von Jezierski know, on their immediate representation of 27 Jan. of this year, that the leave they asked for to return to their fatherland has been granted, on the assumption that they will conduct themselves there in future as loyal[?] subjects; that the confiscation of property decreed against them with final effect remains, however, unalterably in force, and that von\n\nJezierski must remain deprived of his clerical offices and benefices; but that otherwise they need fear no further inquiry or punishment for their part in the insurrection, on which the necessary has been ordered to the Government at Poznań this day.\n\nBerlin, 11 May 1803.\n\nAuzl.[?] etc. special command.\n\nGoldbeck Haugwitz\n\nTo the former Starost Anton v. Prusimski and Xaver von Jezierski at Dresden.",
- "summary_en": "The resolution in the King's name, written below the copy of document 7 on the same page, to the former Starost Anton v. Prusimski and Xaver von Jezierski at Dresden, Berlin, 11 May 1803, signed Goldbeck and Haugwitz, answering their immediate representation of 27 January of that year. They are granted leave to return to their fatherland, on the assumption that they will conduct themselves there as [loyal?] subjects; the confiscation of their property decreed with final effect stands unalterably, and Jezierski remains deprived of his clerical offices and benefices; otherwise they need fear no further inquiry or punishment for their part in the insurrection. The necessary has been ordered to the Government at Poznań the same day.",
- "summary_de": "Die Resolution im Namen des Königs, unter der Abschrift von Dokument 7 auf derselben Seite, an den ehemaligen Starosten Anton v. Prusimski und Xaver von Jezierski zu Dresden, Berlin, 11. Mai 1803, unterzeichnet Goldbeck und Haugwitz, auf ihre Immediatvorstellung vom 27. Januar desselben Jahres. Ihnen wird die Rückkehr in ihr Vaterland bewilligt, in der Voraussetzung, dass sie sich dort als [getreue?] Untertanen betragen; die rechtskräftig erkannte Vermögenskonfiskation bleibt unabänderlich bestehen, und Jezierski bleibt seiner geistlichen Ämter und Pfründen verlustig; sonst haben sie keine weitere Untersuchung oder Bestrafung wegen ihrer Teilnahme an der Insurrektion zu befürchten. An die Regierung zu Posen ist am selben Tag das Nötige ergangen.",
+ "text_english": "Berlin, 30 May 1803\n\nTo His Royal Minister of State etc. von Voss, Excellency.\n\n[H?]\n\nHis Royal Majesty having been pleased, by cabinet order of the 10th of this month, most graciously to grant the former Starost von Prusimski and Xaver von Jezierski the leave they asked for to return to their fatherland, I do not fail to bring this to Your Excellency's closer knowledge through the copy enclosed, and leave it most obediently to you whether you will be pleased to countersign the notificatorium on this matter to the Chamber at Poznań, enclosed in draft and fair copy.\n\nBerlin, 30 May 1803\n\nTo His Royal Grand Chancellor, Minister of State, v. Goldbeck, Excellency.\n\n[Signature M?]\n\nd. 6th June both c. alltis ins.\n\nI thank Your Excellency most kindly for the news given me in your most esteemed letter of the 11th of this month of the return of v. Prusimski and Xaver von Jezierski. With the original cabinet order kindly communicated to me I return to you\n\nherewith the drafts and fair copies countersigned by me, and add most obediently that, with the countersignature of His Royal Minister of State etc. v. Voss, Excellency, I have also already instructed the Chamber at Poznań to have these subjects now take the oath of allegiance.\n\nBerlin, 30 May 1803\n\nHaug[witz]",
+ "summary_en": "Two drafts of 30 May 1803, Berlin, written one after the other. The first, to the minister of state von Voss, is unsigned, with a paraph read [H?]; its writer is evidently Haugwitz, who reports in the second that Voss has countersigned. The King having granted the former Starost von Prusimski and Xaver von Jezierski leave to return to their fatherland by the cabinet order of 10 May, the writer informs Voss of it by an enclosed copy, and asks whether Voss will countersign the notificatorium on the matter to the Chamber at Poznań, enclosed in draft and fair copy. The second is Haugwitz's reply to Goldbeck: he thanks Goldbeck for his letter of 11 May with the news of the return of Prusimski and Xaver von Jezierski, returns the original cabinet order with the drafts and fair copies he has countersigned, and adds that, with von Voss's countersignature, he has already instructed the Chamber at Poznań to have the two now take the oath of allegiance. Signed Haug[witz]. A note at the head of the reply reads \"d. 6. ten Juny\" (the rest not read).",
+ "summary_de": "Zwei Konzepte vom 30. Mai 1803, Berlin, nacheinander geschrieben. Das erste, an den Staatsminister von Voss, ist ohne Unterschrift, mit einer als [H?] gelesenen Paraphe; der Schreiber ist offenbar Haugwitz, der im zweiten berichtet, dass Voss mitgezeichnet hat. Da der König dem ehemaligen Starosten von Prusimski und Xaver von Jezierski mit der Kabinettsordre vom 10. Mai die Rückkehr in ihr Vaterland erlaubt hat, teilt der Schreiber dies Voss in beiliegender Abschrift mit und stellt ihm anheim, das in Konzept und Reinschrift beigefügte Notificatorium an die Kammer zu Posen in dieser Sache mitzuzeichnen. Das zweite ist Haugwitz' Antwort an Goldbeck: Er dankt Goldbeck für sein Schreiben vom 11. Mai mit der Nachricht von der Rückkehr Prusimskis und Xaver von Jezierskis, gibt die originale Kabinettsordre mit den von ihm mitgezeichneten Konzepten und Reinschriften zurück und fügt hinzu, dass er mit Voss' Mitzeichnung der Kammer zu Posen bereits aufgegeben hat, die beiden nunmehr den Huldigungseid ablegen zu lassen. Unterzeichnet Haug[witz]. Ein Vermerk am Kopf der Antwort lautet \"d. 6. ten Juny\" (der Rest nicht gelesen).",
  "reading": {}
 }

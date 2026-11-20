@@ -148,15 +148,16 @@ DOCS = [
     (5, [('0008_a2', 1, None), ('0009_a1', 1, None),    # copy of the joint report to the King, 30 Apr 1803
          ('0009_a2', 1, None), ('0010_a1', 1, None)]),
     (6, [('0011_a2', 1, None)]),                       # copy of the cabinet order, 10 May 1803
-    (7, [('0012_a2', 1, 19)]),                         # copy of the rescript to the Posen government, 11 May 1803
-    (8, [('0012_a2', 20, None), ('0013_a1', 1, None)]),  # copy of the resolution to the two, 11 May 1803
-    (9, [('0014_a2', 1, 27)]),                         # Haugwitz to Voss, draft, 30 May 1803
-    (10, [('0014_a2', 28, None), ('0015_a1', 1, None)]),  # Haugwitz to Goldbeck, draft, 30 May 1803
-    (11, [('0016_a2', 1, None)]),                      # the rescript to the Posen chamber, draft, 30 May 1803
+    # 7 and 8 are each two pieces written one under the other, one document at the editor's
+    # word (2026-11-20: "Combine Document 7 + 8 into a single document. Combine documents 9+10").
+    (7, [('0012_a2', 1, None), ('0013_a1', 1, None)]),  # copy of the rescript to the Posen government and the
+                                                        # resolution to the two below it, 11 May 1803
+    (8, [('0014_a2', 1, None), ('0015_a1', 1, None)]),  # drafts to Voss and to Goldbeck, 30 May 1803
+    (9, [('0016_a2', 1, None)]),                       # the rescript to the Posen chamber, draft, 30 May 1803
 ]
 # (scan, line, reason): source lines that are not text.
 OMIT = [
-    ('0012', 20, 'the "–" the editor put for the flourish between the two copies; not text'),
+    ('0012', 20, 'the "–" the editor put for the flourish between the rescript and the resolution; not text'),
 ]
 
 # (page id, old, new, reason). Filled from the check against the scans.

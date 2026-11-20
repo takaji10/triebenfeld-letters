@@ -12426,20 +12426,25 @@
   "place": "Berlin",
   "sender": "",
   "recipient": "",
-  "n_pages": 1,
-  "n_lines": 19,
+  "n_pages": 2,
+  "n_lines": 40,
   "scans": [
    {
     "page": 1,
     "page_id": "0012_a2",
-    "image": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg"
+    "image": "I_HA_Rep_7_C_Nr_3132_0012_a2-L7_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0013_a1",
+    "image": "I_HA_Rep_7_C_Nr_3132_0013_a1-L7_02.jpg"
    }
   ],
-  "uncertainty_count": 0,
+  "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 5,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [],
   "translation_status": "draft",
   "has_summary": true,
@@ -12454,42 +12459,42 @@
   "uid": "ihagrrep7cnr3132-8",
   "unit": "ihagrrep7cnr3132",
   "letter_id": "8",
-  "doc_type": "royal_rescript",
+  "doc_type": "draft",
   "language": "de",
   "era": "hohenlohe",
   "themes": [],
   "repository": "gstapk-berlin",
-  "date_iso": "1803-05-11",
+  "date_iso": "1803-05-30",
   "date_precision": "day",
   "date_source": "dateline",
   "place": "Berlin",
   "sender": "",
   "recipient": "",
   "n_pages": 2,
-  "n_lines": 21,
+  "n_lines": 56,
   "scans": [
    {
     "page": 1,
-    "page_id": "0012_a2",
-    "image": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg"
+    "page_id": "0014_a2",
+    "image": "I_HA_Rep_7_C_Nr_3132_0014_a2-L8_01.jpg"
    },
    {
     "page": 2,
-    "page_id": "0013_a1",
-    "image": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg"
+    "page_id": "0015_a1",
+    "image": "I_HA_Rep_7_C_Nr_3132_0015_a1-L8_02.jpg"
    }
   ],
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 3,
+  "mentions": 5,
+  "places_named": 2,
   "estates": [],
   "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "royal rescript 8",
+  "title": "draft 8",
   "path": "documents/ihagrrep7cnr3132-8.json",
   "text_path": "text/ihagrrep7cnr3132-8.txt",
   "permalink": "/documents/ihagrrep7cnr3132/8/"
@@ -12510,95 +12515,12 @@
   "sender": "",
   "recipient": "",
   "n_pages": 1,
-  "n_lines": 27,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0014_a2",
-    "image": "I_HA_Rep_7_C_Nr_3132_0014_a2-L10_01.jpg"
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 3,
-  "places_named": 2,
-  "estates": [],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "draft 9",
-  "path": "documents/ihagrrep7cnr3132-9.json",
-  "text_path": "text/ihagrrep7cnr3132-9.txt",
-  "permalink": "/documents/ihagrrep7cnr3132/9/"
- },
- {
-  "uid": "ihagrrep7cnr3132-10",
-  "unit": "ihagrrep7cnr3132",
-  "letter_id": "10",
-  "doc_type": "draft",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "gstapk-berlin",
-  "date_iso": "1803-05-30",
-  "date_precision": "day",
-  "date_source": "dateline",
-  "place": "Berlin",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 2,
-  "n_lines": 29,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0014_a2",
-    "image": "I_HA_Rep_7_C_Nr_3132_0014_a2-L10_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0015_a1",
-    "image": "I_HA_Rep_7_C_Nr_3132_0015_a1-L10_02.jpg"
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 5,
-  "places_named": 2,
-  "estates": [],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "draft 10",
-  "path": "documents/ihagrrep7cnr3132-10.json",
-  "text_path": "text/ihagrrep7cnr3132-10.txt",
-  "permalink": "/documents/ihagrrep7cnr3132/10/"
- },
- {
-  "uid": "ihagrrep7cnr3132-11",
-  "unit": "ihagrrep7cnr3132",
-  "letter_id": "11",
-  "doc_type": "draft",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "gstapk-berlin",
-  "date_iso": "1803-05-30",
-  "date_precision": "day",
-  "date_source": "dateline",
-  "place": "Berlin",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 1,
   "n_lines": 30,
   "scans": [
    {
     "page": 1,
     "page_id": "0016_a2",
-    "image": "I_HA_Rep_7_C_Nr_3132_0016_a2-L11_01.jpg"
+    "image": "I_HA_Rep_7_C_Nr_3132_0016_a2-L9_01.jpg"
    }
   ],
   "uncertainty_count": 2,
@@ -12611,10 +12533,10 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "draft 11",
-  "path": "documents/ihagrrep7cnr3132-11.json",
-  "text_path": "text/ihagrrep7cnr3132-11.txt",
-  "permalink": "/documents/ihagrrep7cnr3132/11/"
+  "title": "draft 9",
+  "path": "documents/ihagrrep7cnr3132-9.json",
+  "text_path": "text/ihagrrep7cnr3132-9.txt",
+  "permalink": "/documents/ihagrrep7cnr3132/9/"
  },
  {
   "uid": "oe1bu14525-26",

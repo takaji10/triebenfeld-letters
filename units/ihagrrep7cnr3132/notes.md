@@ -2,7 +2,7 @@
 
 The Prussian ministers' file of February to June 1803 on the petition of
 Antoni Prusimski, the former Starost, and the canon Xaver Jezierski, both at
-Dresden, to be allowed home to South Prussia: eleven documents, the cover as
+Dresden, to be allowed home to South Prussia: nine documents, the cover as
 front matter. Added 2026-11-20 at the editor's word, branch
 `trampczynski-family`; not yet published.
 
@@ -39,9 +39,17 @@ and 0014_a1 (the small slip bound in as fol. 9, recto and verso), 0014_a2
 
 ## The documents
 
-**Eleven** (the editor, 2026-11-20, asked before the cut, as WORKING_NOTES
-says since Nr. 3067; Claude had proposed twelve, the slip its own document;
-the editor: "11: slip with no. 4").
+**Nine.** Eleven at first (the editor, 2026-11-20, asked before the cut, as
+WORKING_NOTES says since Nr. 3067; Claude had proposed twelve, the slip its
+own document; the editor: "11: slip with no. 4"). Then the same day, after
+the spot sheet, the editor joined the pieces written one under the other:
+"Combine Document 7 + 8 into a single document. Combine documents 9+10 into
+a single document." The rescript to Poznań and the resolution to the two
+below it are document 7; the draft to Voss and the draft reply to Goldbeck,
+which follows on the same page, are document 8; the old 11 is 9. The site
+was never published with eleven, so no old address needs a redirect. The
+claim check (`intake/claim_check.yml`) and the spot sheet still number the
+documents as they were.
 
 | Doc | Pages | What it is | Date, place |
 |---|---|---|---|
@@ -51,11 +59,9 @@ the editor: "11: slip with no. 4").
 | 4 | 0007_a2, 0013_a2, 0014_a1 | Goldbeck to Haugwitz: the cabinet order, the drafts; with the office's slip | 11 May 1803, Berlin |
 | 5 | 0008_a2 to 0010_a1 | Copy of the joint report to the King | 30 Apr. 1803, Berlin |
 | 6 | 0011_a2 | Copy of the cabinet order | 10 May 1803, Potsdam |
-| 7 | 0012_a2 (lines 1-19) | Copy of the rescript to the South Prussian Government at Poznań | 11 May 1803, Berlin |
-| 8 | 0012_a2 (from line 20), 0013_a1 | The resolution to the two at Dresden, below the copy of 7 | 11 May 1803, Berlin |
-| 9 | 0014_a2 (lines 1-27) | Draft to Voss: the notificatorium to countersign | 30 May 1803, Berlin |
-| 10 | 0014_a2 (from line 28), 0015_a1 | Haugwitz's draft reply to Goldbeck | 30 May 1803, Berlin |
-| 11 | 0016_a2 | Draft rescript to the Chamber at Poznań: the oath of allegiance | 30 May 1803, Berlin |
+| 7 | 0012_a2, 0013_a1 | Copy of the rescript to the South Prussian Government at Poznań, and below it the resolution to the two at Dresden | 11 May 1803, Berlin |
+| 8 | 0014_a2, 0015_a1 | Draft to Voss (the notificatorium to countersign), then Haugwitz's draft reply to Goldbeck | 30 May 1803, Berlin |
+| 9 | 0016_a2 | Draft rescript to the Chamber at Poznań: the oath of allegiance | 30 May 1803, Berlin |
 
 **The slip is out of the file's order.** It stands bound between 8v and 10r;
 it carries "Cito / 1261", the registry number of document 4 ("B Nº 1261" at
@@ -66,11 +72,11 @@ gives match_scans the same reading order, without which its check "follows
 intended order" fails. Both sides are listed in `office_notes.yml`, with the
 note of 3 May at the foot of document 3.
 
-Types: letters 1, 2, 4; drafts 3, 9, 10, 11 (the layout: text down the right
+Types: letters 1, 2, 4; drafts 3, 8, 9 (the layout: text down the right
 half, address and dispatch notes in the left, GOVERNMENT_FILES); report 5;
-`royal_rescript` 6, 7, 8 (as the cabinet orders of Nr. 3709 and the
+`royal_rescript` 6, 7 (as the cabinet orders of Nr. 3709 and the
 resolution of Oe 1 Bü 14525, 43). Relations: 3 answers 2, 4 transmits 5 and
-6, 6 answers 5, 10 answers 4.
+6, 6 answers 5, 8 answers 4 (its second draft).
 
 ## The transcription checked
 
@@ -107,7 +113,7 @@ on Claude's witness alone, on the spot sheet for the editor's eye:
 "[U?]. A. B." -> "U. A. H." (the formula "Unser allergnädigster Herr").
 The signatures "[Haugwitz?]" are "Haug[witz]": "Haug" read, the rest from
 the writer (as "A[lvensleben]" in Nr. 1414). A line the editor wrote for the
-flourish between documents 7 and 8 ("–") is left out (OMIT).
+flourish between the rescript and the resolution ("–", document 7) is left out (OMIT).
 
 Moved: on 0005_a2 the office note "d. 3ten May. ins: cum 2 vol: Actor:
 pLch:" now stands before the catchword "eine" (the line-break pass looks at
@@ -147,9 +153,11 @@ nothing. Summaries in session (`intake/write_summaries.py`), claim-checked
 by a Sonnet reader (`intake/claim_check.yml`: 96 statements, 85 supported,
 10 overstated, 1 unsupported; all eleven taken: the slip's writer and the
 number 1261 not stated, "probably" for the misattached copy, "not closely
-examined", the resolution not headed "Abschrift", "[loyal?]", document 9
-unsigned, the office notes quoted not interpreted). "Draft" for 3, 9, 10, 11
-is kept: the edition's type, from the layout.
+examined", the resolution not headed "Abschrift", "[loyal?]", the draft to
+Voss unsigned, the office notes quoted not interpreted; the check's document
+numbers are the eleven of before). "Draft" for 3, 8, 9 is kept: the
+edition's type, from the layout. The summaries of the joined documents 7
+and 8 are the two checked summaries put together.
 
 The English writes Prusimski for the clerks' Prusiemski, Pawłów for
 "Pawlower Güter" (the form of the Sanitz entry, from Nr. 3570), Smiłowice,
@@ -157,9 +165,9 @@ Kuyavia, Włocławek; "Neustadt" (Jezierski's parish) stays as written.
 
 ## Index
 
-- Goldbeck: `only_in` extended to documents 1-8 and 10. Haugwitz, Voss,
+- Goldbeck: `only_in` extended to documents 1-8. Haugwitz, Voss,
   Hohenlohe, Sanitz matched as they were. Friedrich Wilhelm III: issuer of
-  6, 7 and 11 (`issued_in`; his `issuer_match` takes "Friedrich Wilhelm p.").
+  6, 7 and 9 (`issued_in`; his `issuer_match` takes "Friedrich Wilhelm p.").
 - Bischoffwerder: the report's one-f "Bischofswerder" matched only in "von
   Bischofswerder geschenkt": the one-f form stands 40 times in the
   literature, not ruled (NEEDS_CONFIRMATION); his identity now names this

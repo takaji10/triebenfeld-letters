@@ -1615,6 +1615,8 @@ transcription; 108 readings settled in session before the first build
 - [x] You: the fold page; your folds applied and the blank sides removed
       (2026-11-20).
 - [x] You: the spot sheet; applied 2026-11-20, Jezierski tagged in Nr. 3067.
+- [x] Documents 7 + 8 and 9 + 10 joined at your word (2026-11-20): nine
+      documents.
 - [ ] You: keep or drop the connection `prusimski-wife-italy` (spot sheet
       d2; explained in chat 2026-11-20).
 - [ ] You: the rest in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3132").

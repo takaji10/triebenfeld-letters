@@ -4366,6 +4366,23 @@ first and a fine pass at their word. The files are in
   `courtbook.cut(raw, scans, skip, keep_skipped=False)` leaves them unwritten
   and removes old copies; the default still keeps them, for the holdings
   built before.
+- **Joining documents after the build** (7 + 8, 9 + 10, the editor's word):
+  change DOCS, then everything keyed by document number - rulings.yml
+  (places, dates, types, relations), paragraphs.py, the English dict,
+  write_summaries.py, `only_in`/`issued_in` in people.yml, the `[[n]]`
+  citations of about.md and about_de.md - delete the old doc<N>.yml and
+  cache files, `git rm` the tracked outputs of the numbers that are gone
+  (dataset/documents, dataset/text, site/_data/translations, site/_letters,
+  site/redirects), and run `relabel_scans.py --apply`. **Then build twice**:
+  the database step reads page_scan_map.csv before the scan-mapping step
+  rewrites it with the new labels, so the first build links the old scan
+  names and verify_site fails on them; the second passes.
+- **A join of two pieces leaves the second one's opening without a
+  paragraph break** where the resolver proposes none (the reply's "An" after
+  the first draft's dateline). A hand row (cue `hand`) is carried over by
+  the line's words; where the words stand twice in the document,
+  resolve_paragraphs.py now tells them apart by `prev_line` (2026-11-20).
+  `intake/paragraphs.py` of Nr. 3132 writes such rows (NEW).
 - **A spot-sheet decision the editor cannot read is explained in chat,
   not decided**: d2 (a connection "Keep|Drop") came back "I need more
   explanation". Write a decision card so it says what the connection does on

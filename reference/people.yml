@@ -209,7 +209,7 @@ people:
     # Two men of the name, told apart by date (editor, 2026-10-04: one entry
     # per person): the Grand Chancellor in 1796-98, the president at Kalisz
     # from 1805.
-    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr1414-1, ihagrrep7cnr3067-1, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14, ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8, ihagrrep7cnr3132-10]
+    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr1414-1, ihagrrep7cnr3067-1, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14, ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8]
     tier: "Externally confirmed"
     variants: []
     identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79). In 1800 the Prince petitioned him to take the Prusimska suit away from the government at Poznań, and he ordered it (I. HA GR, Rep. 7 C, Nr. 3709). In February 1797 he laid before the King the outcome of the proceedings against the insurgents of 1794 and proposed a further pardon, which the King refused (I. HA GR, Rep. 7 C, Nr. 3067). In 1803 he and Haugwitz reported on the petition of Prusimski and Jezierski to return home, which the King granted (I. HA GR, Rep. 7 C, Nr. 3132)."
@@ -1596,7 +1596,7 @@ people:
     # French letter to the Prince of December 1798, signed "Friedrich Wilhelm."
     # (oe1bu9454-85).
     issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?(?: p\.)?\s*$|(?<=\) )Friedrich Wil{1,2}helm(?= K(?:ö|oe)nig)'
-    issued_in: [oe1bu14525-6, oe1bu14525-7, oe1bu14525-11, oe1bu14525-16, oe1bu14525-17, oe1bu14525-18, oe1bu14525-19, oe1bu14525-20, oe1bu14525-22, oe1bu14525-23, oe1bu14525-26, oe1bu14525-27, oe1bu14525-28, oe1bu14525-30, oe1bu14525-31, oe1bu14525-34, oe1bu14525-35, oe1bu14525-42, oe1bu14525-43, oe1bu14525-44, oe1bu14526-8, oe1bu14526-18, oe1bu14526-22, oe1bu14526-23, oe1bu14526-24, oe1u199-1, oe1bu9454-85, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-11]
+    issued_in: [oe1bu14525-6, oe1bu14525-7, oe1bu14525-11, oe1bu14525-16, oe1bu14525-17, oe1bu14525-18, oe1bu14525-19, oe1bu14525-20, oe1bu14525-22, oe1bu14525-23, oe1bu14525-26, oe1bu14525-27, oe1bu14525-28, oe1bu14525-30, oe1bu14525-31, oe1bu14525-34, oe1bu14525-35, oe1bu14525-42, oe1bu14525-43, oe1bu14525-44, oe1bu14526-8, oe1bu14526-18, oe1bu14526-22, oe1bu14526-23, oe1bu14526-24, oe1u199-1, oe1bu9454-85, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-9]
     tier: "Established"
     variants: []
     identity: "Friedrich Wilhelm III (1770-1840), King of Prussia from 16 November 1797; issued the supplementary grants of December 1797 and confirmed the Prince's family majorat in 1805. Added 2026-09-30."
@@ -1974,7 +1974,7 @@ people:
     # well"). An alternative of the match, not a variant, as "Prudzinski"
     # for prusimski.
     match: 'Jezierski(?![a-zà-ÿ])|Jetzierski(?![a-zà-ÿ])'
-    only_in: [ihagrrep7cnr3067-1, ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8, ihagrrep7cnr3132-9, ihagrrep7cnr3132-10, ihagrrep7cnr3132-11]
+    only_in: [ihagrrep7cnr3067-1, ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8, ihagrrep7cnr3132-9]
     tier: "Text-confirmed"
     variants: []
     identity: "Xaver von Jezierski, canon of Włocławek ('Canonicus in Wraclawek') and parish priest at Neustadt, who took part in the Kuyavian rising of 1794 with Antoni Prusimski at Smiłowice, drafted its proclamations and sat on its security commission; his small property and his benefices were confiscated. In February 1797 Grand Chancellor Goldbeck named him, as \"Jetzierski\", among the chief ringleaders who had saved themselves by flight, so that only the property they left behind could be confiscated and no punishment made on their persons (I. HA GR, Rep. 7 C, Nr. 3067, document 1; the identification is the editor's). Living at Dresden, he petitioned with Prusimski in January 1803 to be allowed home, which the King granted on 10 May 1803 (I. HA GR, Rep. 7 C, Nr. 3132). Added 2026-11-20."

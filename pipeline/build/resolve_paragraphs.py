@@ -320,7 +320,13 @@ def main():
         for (lid, ctx), old in prior.items():
             if old.get('cue') != 'hand' or (lid, ctx) in have:
                 continue
-            hit = [n for n, t in docs.get(lid, []) if ctx and t.strip()[:70] == ctx]
+            lines = docs.get(lid, [])
+            hit = [n for n, t in lines if ctx and t.strip()[:70] == ctx]
+            if len(hit) > 1 and old.get('prev_line'):
+                # the same words more than once (an "An" heading each of two
+                # pieces in one document): the line before tells them apart
+                prev = {lines[k][0]: lines[k - 1][1].strip()[:60] for k in range(1, len(lines))}
+                hit = [n for n in hit if prev.get(n) == old['prev_line'].strip()[:60]]
             if len(hit) != 1:
                 print(f'  hand-set row not found again: {lid} "{ctx}"')
                 continue
