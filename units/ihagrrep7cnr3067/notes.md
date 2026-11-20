@@ -181,7 +181,14 @@ claim-checked by a Sonnet sub-agent (`intake/claim_check.yml`: 58 statements,
   which it would turn into "Prusimski" at every publish; the transcription
   keeps "Prudzinski".
 - No person entries for the 31 names of the list or the other ringleaders
-  (the editor, 2026-11-19).
+  (the editor, 2026-11-19), with one exception: "Jetzierski" (document 1,
+  among the fled ringleaders) is Xaver Jezierski, the canon of Włocławek who
+  petitioned with Prusimski in 1803 (I. HA GR, Rep. 7 C, Nr. 3132), and is
+  matched to the entry `jezierski` built for that file (the editor,
+  2026-11-20, on the spot sheet of Nr. 3132: "Use info from 3067 to build
+  the person entry for Jezierski, tag him in 3067 as well"). Matched by an
+  alternative of the `match`, as "Prudzinski"; the English writes
+  "Jetzierski [Jezierski]", the summaries name him in brackets.
 
 ## Connections and the timeline
 

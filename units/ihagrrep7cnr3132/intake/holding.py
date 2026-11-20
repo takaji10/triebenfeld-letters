@@ -167,8 +167,13 @@ CORRECTIONS = [
     ('0002_a2', 'Finanz Ministre Herrn', 'Finanz Ministers Herrn',
      '"Ministers" (reader 1), the same address formula as documents 2 and 4'),
     ('0002_a2', 'solches gefälligst mitzuziehnen,', 'solches gefälligst mitzuzeichnen,',
-     'the formula of document 2, "solches gefälligst mitzuzeichnen"; "mitzuziehnen" is no word (Claude; spot sheet)'),
+     'the formula of document 2, "solches gefälligst mitzuzeichnen"; "mitzuziehnen" is no word (Claude; the editor confirmed, spot sheet q1)'),
     # Document 3 (Haugwitz's draft)
+    ('0005_a2', 'des tot[?] lit Herrn von', 'des [sub?] lit. Herrn von',
+     'the editor, spot sheet q3: "Could be sub. lit."'),
+    ('0005_a2', '[?]n Prusiemski &', 'An v Prusiemski &', 'the editor, spot sheet q4'),
+    ('0005_a2', 'hinzufügen in[?] müssen', 'hinzufügen zu müssen',
+     'no "in": a "zu" written above the line (readers 3 and 4; the editor, spot sheet q5)'),
     ('0005_a2', 'die Keinschrift,', 'die Reinschrift,',
      'R (readers 3 and 4); "Keinschrift" is no word, the fair copy is meant'),
     ('0005_a2', 'gens confiscation und,\nänderlich', 'gens confiscation unab¬\nänderlich',
@@ -185,14 +190,14 @@ CORRECTIONS = [
     ('0013_a2', 'Acta\n/26/', 'Cito\n1261',
      '"Cito" (readers 3 and 4, Claude), and the registry number 1261 of document 4 ("B No 1261" at its head)'),
     ('0013_a2', '1, An[?] munda sind zu Sie\nBal Unterschrift Koppe\nso ein das Concept.',
-     '1, Die munda sind zu Sr[?]\n[?] Unterschrift vorzulegen[?]\nso wie das Concept.',
-     '"Die" (Claude), "Unterschrift" sure, "so wie" (reader 3, Claude); the rest doubtful (spot sheet)'),
+     '1, Die munda sind zu Sr.\n[?] Unterschrift vorzulegen[?]\nso wie das Concept.',
+     '"Die" (Claude), "Sr." (the editor, spot sheet q10), "Unterschrift" sure, "so wie" (reader 3, Claude); the rest doubtful'),
     ('0013_a2', 'ret. Cop. der Lab. O.', 'act. Cop. der Cab. O.',
      '"act." (reader 3, Claude); "Cab." as "Cab Ordre" the line above (readers 3 and 4)'),
     ('0013_a2', 'Frf. v. Goldbeck depart', 'Sr Exc v. Goldbeck depart',
      '"Sr Exc" (readers 3 and 4, Claude)'),
     ('0013_a2', 'neml. einem hieb', 'neml. einem [?]',
-     'the word does not begin with h (readers 3 and 4); not read (spot sheet)'),
+     'the word does not begin with h (readers 3 and 4); not read (the editor could not tell either, spot sheet q11)'),
     ('0013_a2', 'an [?] Goldbeck aus dieses,', 'an Sr v. Goldbeck aus dieses[?],',
      'the margin note "an Sr v. Goldbeck" (readers 3 and 4); the next words doubtful'),
     ('0013_a2', 'notificatorium[?] an\nd[ie?] Cammer[?] cum mand\ndieses[?]',
@@ -201,10 +206,10 @@ CORRECTIONS = [
     ('0014_a1', 'Haldgass[?] und Leisten', 'Huldigungseid leisten',
      '"Huldigungseid leisten" (readers 3 and 4, Claude), the words of document 11 "den Huldigungseid leisten zu laßen"'),
     ('0014_a1', 'Erschehen sey anhero', 'geschehen sey anhero',
-     '"geschehen" (reader 4, Claude), as document 11 "wie solches geschehen anhero zu berichten" (spot sheet)'),
+     '"geschehen" (reader 4, Claude), as document 11 "wie solches geschehen anhero zu berichten" (the editor confirmed, spot sheet q12)'),
     ('0014_a1', 'zu[?]gejen\n4, Camm[?] Exp. 3[?] [?].\nWoll[?]heit[?]\nInus[?] Man\nv. Maj korden[?]',
-     'zeigen\n4, Camm. Exp. 3. [?]\nv. Voss zur Mit¬\n[?] Haug[witz]\n27 May [?]',
-     '"zeigen", "v. Voss zur Mit-" and the tailed "Haug" (readers 3 and 4, Claude); "27 Mai" (reader 3, Claude); the rest doubtful'),
+     'zeigen\n4, Camm. Exp. 3. [?]\nv. Voss zur Mit¬\nGraf Haug[witz]\n27 May [?]',
+     '"zeigen", "v. Voss zur Mit-" and the tailed "Haug" (readers 3 and 4, Claude); "Graf" (reader 4; the editor, spot sheet q13); "27 Mai" (reader 3, Claude); the rest doubtful'),
     # Document 5: the copy of the joint report
     ('0008_a2', 'bey ihm an¬\n21 Aug.', 'bey ihm am\n21 Aug:',
      '"am" written out, no break, and "Aug:" (reader 2, Claude)'),
@@ -221,7 +226,7 @@ CORRECTIONS = [
     ('0009_a2', 'nun nachher anderweitig', 'und nachher anderweitig', '"und" (reader 2)'),
     ('0009_a2', 'Des Aldels', 'Des Adels', 'no l (reader 2)'),
     ('0009_a2', 'Lebensstrafe\nsagen sie festgesetzt', 'Lebensstrafe\ngegen sie festgesetzt',
-     '"noch sonst eine Lebensstrafe gegen sie festgesetzt oder vorbehalten" is the one reading of the sentence (Claude; spot sheet)'),
+     '"noch sonst eine Lebensstrafe gegen sie festgesetzt oder vorbehalten" is the one reading of the sentence (Claude; the editor confirmed, spot sheet q7)'),
     ('0009_a2', 'ihrer Theilmann', 'ihrer Theilname',
      '"Theilname" (reader 2), the same word five lines below'),
     ('0009_a2', 'eine Gjährige[?]\nVerbauung', 'eine 9jährige\nVerbannung',
@@ -236,7 +241,7 @@ CORRECTIONS = [
     ('0012_a2', 'Vaterland urtheilt,', 'Vaterland ertheilt,',
      '"ertheilt" (reader 1); "die gebetene Erlaubniß ... ertheilt" is the one reading, as in document 6'),
     ('0012_a2', 'Preußen [U?]. A. B. laßen', 'Preußen U. A. H. laßen',
-     'the fixed formula "Se. Königl. Majestät von Preußen, Unser allergnädigster Herr, laßen ... bekannt machen"; B for H a Kurrent confusion (Claude; spot sheet)'),
+     'the fixed formula "Se. Königl. Majestät von Preußen, Unser allergnädigster Herr, laßen ... bekannt machen"; B for H a Kurrent confusion (Claude; the editor confirmed, spot sheet q8)'),
     ('0012_a2', 'Bewunden behalten, auch er der von', 'Bewenden behalten, auch an dem von',
      '"sein Bewenden behalten", the formula; "an dem" (reader 1, Claude)'),
     ('0013_a1', 'Starosten Antoni', 'Starosten Anton', '"Anton" (reader 1, Claude), as in documents 5 to 8'),
@@ -333,7 +338,7 @@ def main():
     arg = sys.argv[1:]
     scans = courtbook.placed(HERE, SCANS, EDGES)
     if '--crop' in arg:
-        courtbook.cut(RAW, scans, SKIP)
+        courtbook.cut(RAW, scans, SKIP, keep_skipped=False)   # the blank sides not kept (the editor, 2026-11-20)
     if '--sheet' in arg:
         courtbook.fold_sheet(ROOT, SLUG, REF, RAW, scans, SKIP, LEAF, note=FOLD_NOTE)
     if '--crop' in arg or '--sheet' in arg:

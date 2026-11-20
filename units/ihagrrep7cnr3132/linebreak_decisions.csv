@@ -21,7 +21,7 @@
 3,1,77,78,¬,Vermö,gens,Vermögens,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,daß es bey der Vermö¬ || gens confiscation unab¬
 3,1,78,79,¬,unab,änderlich,unabänderlich,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"gens confiscation unab¬ || änderlich bleiben müsse, habe"
 3,1,80,81,¬,ledig,lich,lediglich,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"ich, da dieser Punct ledig¬ || lich zu Dero Ressort ge¬"
-3,1,81,82,¬,ge,höret,gehöret,join,high,"joined form attested in DWDS (17,676,299 hits)",False,0,17676299,1,,1,,"lich zu Dero Ressort ge¬ || höret, hinzufügen in[?] müssen"
+3,1,81,82,¬,ge,höret,gehöret,join,high,"joined form attested in DWDS (17,676,299 hits)",False,0,17676299,1,,1,,"lich zu Dero Ressort ge¬ || höret, hinzufügen zu müssen"
 3,1,85,87,,eine,eine,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,eine || eine Meinung zu äußern
 3,2,94,95,¬,Dank,sagung,Danksagung,join,high,"joined form attested in DWDS (39,350 hits)",False,0,39350,0,,1,,mit Dank¬ || sagung hier wieder
 4,1,104,105,¬,Va,terland,Vaterland,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"ski und des Xaver von Jezierski in ihr Va¬ || terland betreffend, die originaliter sub v"
@@ -32,8 +32,8 @@
 4,1,113,114,¬,er,folgter,erfolgter,join,high,"joined form attested in DWDS (405,400 hits)",False,0,405400,8,,1,," Bitte, das Concept und die Munda nach er¬ || folgter Mitunterschrift, geneigt an mich z"
 4,1,118,119,-,Staats,Krieges,StaatsKrieges,split,high,joined form unattested; both halves are real words,False,0,0,0,7220537,2,4755134,des Königl. würkl. Geheimen Staats- || Krieges-Cabinets und dirigirenden Fi¬
 4,1,119,120,¬,Fi,nanz,Finanz,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,Krieges-Cabinets und dirigirenden Fi¬ || nanz Ministers Herrn Grafen von Haugwitz
-4,3,144,145,¬,an,zeigen,anzeigen,join,high,joined form occurs elsewhere in this corpus,False,1,,27,,1,,geschehen sey anhero an¬ || zeigen
-4,3,147,148,¬,Mit,Haug,MitHaug,split,high,joined form unattested; both halves are real words,False,0,0,9,437384648,3,93254,v. Voss zur Mit¬ || [?] Haug[witz]
+4,3,144,145,¬,an,zeigen,anzeigen,join,high,joined form occurs elsewhere in this corpus,False,1,,28,,1,,geschehen sey anhero an¬ || zeigen
+4,3,147,148,¬,Mit,Graf,MitGraf,split,high,joined form unattested; both halves are real words,False,0,21,9,437384648,3,1178593,v. Voss zur Mit¬ || Graf Haug[witz]
 5,1,155,156,¬,we,gen,wegen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"d des Xaver von Jezierski welche sich, we¬ || gen Teilname an der SüdPreußischen Insurre"
 5,1,160,161,¬,erforder,ten,erforderten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,15,,m die von der Regierung zu Posen erforder¬ || ten Acten eingegangen sind können wie nunm
 5,1,161,162,¬,fol,gendes,folgendes,join,high,"joined form attested in DWDS (8,217,138 hits)",False,0,8217138,0,,1,, eingegangen sind können wie nunmehro fol¬ || gendes allerunterthänigst anzeigen.
@@ -49,7 +49,7 @@
 5,2,188,189,¬,zurückge,kehrt,zurückgekehrt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,," allgemeinen Verordnungen nicht, zurückge¬ || kehrt war, den Confiscations Proceß, ein."
 5,2,194,195,¬,Con,fiscation,Confiscation,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,iner Rückkehr Hofnung gemacht und die Con¬ || fiscation abzuwenden gesucht; da er indeße
 5,2,197,198,¬,beschrit,ten,beschritten,join,high,"joined form attested in DWDS (195,147 hits)",False,0,195147,0,,15,,", und nachdem es die Rechtskraft beschrit¬ || ten hatte, wurden, seine Trampczyner Güter"
-5,2,211,212,¬,In,surrection,Insurrection,join,high,joined form occurs elsewhere in this corpus,False,6,,21,,1,,"thätigsten mitgewürckt haben, um diese In¬ || surrection zu Stande zu bringen. Er soll d"
+5,2,211,212,¬,In,surrection,Insurrection,join,high,joined form occurs elsewhere in this corpus,False,6,,20,,1,,"thätigsten mitgewürckt haben, um diese In¬ || surrection zu Stande zu bringen. Er soll d"
 5,2,212,213,¬,Procla,mationen,Proclamationen,join,high,head is not a word on its own,False,0,5,0,0,1,," zu Stande zu bringen. Er soll die Procla¬ || mationen von des Volk entworfen, Mannschaf"
 5,3,217,218,-,Sicherheits,Commission,SicherheitsCommission,split,high,joined form unattested; both halves are real words,False,0,0,0,5135,1,20306, den Insurgenten angeordneten Sicherheits- || Commission gewesen seyn.
 5,3,219,220,¬,zurück,kehrte,zurückkehrte,join,high,"joined form attested in DWDS (1,477,957 hits)",False,0,1477957,0,,1,,"n ihn, der von seiner Flucht nicht zurück¬ || kehrte wurde blos der Confiscations Proceß"
@@ -58,7 +58,7 @@
 5,3,229,230,¬,Insur,rection,Insurrection,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,ach Maasgabe ihrer Theilname an der Insur¬ || rection sind sie durch die Confiscation ih
 5,3,230,231,¬,Ver,mögens,Vermögens,join,high,joined form occurs elsewhere in this corpus,False,3,,1,,1,,"sind sie durch die Confiscation ihres Ver¬ || mögens, wobey es unabänderlich verbleiben "
 5,3,237,238,¬,unter,werfen,unterwerfen,join,high,"joined form attested in DWDS (330,481 hits)",False,0,330481,1,,1,,"mäßigen Geld oder Festungsstrafe unter¬ || werfen, bestraft worden. Ihre Theilname is"
-5,3,239,240,¬,an,dern,andern,join,high,"joined form attested in DWDS (358,953 hits)",False,0,358953,27,,1,,"nicht von der Art, daß sie dadurch vor an¬ || dern, die im Lande geblieben, oder nachher"
+5,3,239,240,¬,an,dern,andern,join,high,"joined form attested in DWDS (358,953 hits)",False,0,358953,28,,1,,"nicht von der Art, daß sie dadurch vor an¬ || dern, die im Lande geblieben, oder nachher"
 5,3,241,242,¬,cha,racterisirt,characterisirt,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,0,0,64522,1,0,"kgekehrt sind, als gefährliche Männer cha¬ || racterisirt würden und da ihr Gesuch nur"
 5,3,243,245,,auf,auf,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"auf || auf Erlaubniß zur Rückkehr gerichtet ist, "
 5,4,246,247,¬,dafürhal,tens,dafürhaltens,join,high,head is not a word on its own,False,0,12,0,0,1,,ind wir des allerunterthänigsten dafürhal¬ || tens:

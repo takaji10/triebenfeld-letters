@@ -23,11 +23,15 @@ transcription and are left out, unlooked-at (the editor: "leave them out. No
 need to look at them"). 0001 is the cover; the rest are openings of the
 file photographed whole, cut at the fold by `intake/holding.py --crop`
 (courtbook.cut), the folds found by courtbook.find_fold and the page edges
-set by eye to leave off the ruler; the editor checks them on the fold page
+set by eye to leave off the ruler; the editor checked them on the fold page
 (`holding.py --sheet` -> `review/ihagrrep7cnr3132/folds/index.html`; their
 saved file goes in with `python pipeline/intake/courtbook.py folds
-ihagrrep7cnr3132 <file>`). Eleven sides are blank or the archive's slip and
-are not staged (SKIP). Pages: 0001_a, 0002_a2 (fol. 1r), 0004_a2 (2r),
+ihagrrep7cnr3132 <file>`). The editor adjusted the folds of 0013 to 0016
+and saved them (2026-11-20; `intake/folds.json`, applied with that command).
+Eleven sides are blank or the archive's slip and are not staged (SKIP).
+Since 2026-11-20 they are not cut out at all (the editor: "remove the blank
+pages from the set"; `courtbook.cut(..., keep_skipped=False)`), and
+`processed/_not_staged/` is empty. Pages: 0001_a, 0002_a2 (fol. 1r), 0004_a2 (2r),
 0005_a2 (3r), 0006_a1 (3v), 0007_a2 (4r), 0008_a2 (5r), 0009_a1, 0009_a2
 (5v, 6r), 0010_a1 (6v), 0011_a2 (7r), 0012_a2 (8r), 0013_a1 (8v), 0013_a2
 and 0014_a1 (the small slip bound in as fol. 9, recto and verso), 0014_a2
@@ -120,7 +124,13 @@ large "Acto" in the middle of the page; struck words on 0005_a2 and 0014_a2.
 **The spot sheet** (`intake/spot_sheet_html.py` ->
 `review/ihagrrep7cnr3132/spot_sheet.html`, one self-contained page): 14
 readings and 4 decisions (the Jezierski entry, the three connections).
-Open until answered.
+Answered by the editor on 2026-11-20 and applied through CORRECTIONS (each
+reason names its question): confirmed "mitzuzeichnen" (q1), "gegen sie"
+(q7), "U. A. H." (q8) and "geschehen sey anhero" (q12); the editor's own
+readings kept in q2, q6, q9 and q14; given "des [sub?] lit." (q3), "An v
+Prusiemski" (q4), "hinzufügen zu müssen" (q5), "Sr." (q10) and "Graf
+Haug[witz]" (q13); q11 unread by both. The English and the summary of
+document 4 follow ("v. Voss for co- Count Haug[witz]").
 
 Line ends: eight words broken with "¬" that the resolver split set to
 `join` by hand (Prusimski, beigehend, meiner, Euwer, Officianten,
@@ -154,7 +164,11 @@ Kuyavia, Włocławek; "Neustadt" (Jezierski's parish) stays as written.
   Bischofswerder geschenkt": the one-f form stands 40 times in the
   literature, not ruled (NEEDS_CONFIRMATION); his identity now names this
   report among the donees.
-- Jezierski: a new entry `jezierski`, only in this holding (spot sheet d1).
+- Jezierski: a new entry `jezierski` (kept at the editor's word, spot sheet
+  d1), and matched in Nr. 3067 too: "Jetzierski" among Goldbeck's fled
+  ringleaders of 1797 (the editor: "Use info from 3067 to build the person
+  entry for Jezierski, tag him in 3067 as well"). The identity tells the
+  1797 mention; Nr. 3067's English reads "Jetzierski [Jezierski]".
 - Prusimski: a sentence on 1803 in his identity.
 - Places: Trąbczyn matches "Trampczyner" (a `match: true` variant; a broad
   Tr[ąa]mpczyn pattern would have caught the Trąmpczyński family). Neustadt
@@ -165,7 +179,8 @@ Kuyavia, Włocławek; "Neustadt" (Jezierski's parish) stays as written.
 
 ## Connections and the timeline
 
-Three cross-holding connections, proposed (spot sheet d2-d4):
+Three cross-holding connections (spot sheet d2-d4; d3 and d4 kept by the
+editor, d2 open: they asked what it means, explained in chat 2026-11-20):
 `prusimski-wife-italy` (1414-2, 12366-2), `prusimski-estates-three-donees`
 (agad11740273-2), `goldbeck-confiscation-stands` (3067-1). Timeline: "Prusimski
 allowed home", 10 May 1803, era `insurgency` (as the Venice event of the

@@ -149,11 +149,14 @@ def find_fold(path, lo=0.40, hi=0.60):
     return bx
 
 
-def cut(raw, scans, skip=()):
+def cut(raw, scans, skip=(), keep_skipped=True):
     """scans: [(file name, fold x or None, left page id, right page id)].
 
     A scan with fold None is one page; its id is the third field. Pages go to
-    raw/processed/; halves named in `skip` go to raw/processed/_not_staged/.
+    raw/processed/; halves named in `skip` go to raw/processed/_not_staged/,
+    or, with keep_skipped=False, are not written at all and any old copy there
+    is removed (the blank sides of I. HA GR, Rep. 7 C, Nr. 3132: the editor,
+    2026-11-20, "remove the blank pages from the set").
     Where the editor turned a sheet on the fold page (placed()), the scan is
     turned first, so that the cut runs along the fold. Where page edges are
     set (placed(); the green lines of the fold page), what lies outside them
@@ -178,6 +181,11 @@ def cut(raw, scans, skip=()):
             x = int(round(fold + dx))
             parts = [(left, (a, 0, x + OVERLAP, im.height)), (right, (x - OVERLAP, 0, b, im.height))]
         for pid, box in parts:
+            if pid in skip and not keep_skipped:
+                old = os.path.join(apart, pid + '.jpg')
+                if os.path.isfile(old):
+                    os.remove(old)
+                continue
             folder = apart if pid in skip else processed
             im.crop(box).save(os.path.join(folder, pid + '.jpg'), quality=92)
             n += 1

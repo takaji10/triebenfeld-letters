@@ -1968,11 +1968,16 @@ people:
   jezierski:
     display: "Xaver Jezierski"
     render: "Jezierski"
-    match: 'Jezierski(?![a-zà-ÿ])'
-    only_in: [ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8, ihagrrep7cnr3132-9, ihagrrep7cnr3132-10, ihagrrep7cnr3132-11]
+    # "Jetzierski" among the fled ringleaders of Goldbeck's promemoria of
+    # 16 February 1797 (I. HA GR, Rep. 7 C, Nr. 3067, 1) is he: the editor's
+    # word, 2026-11-20 (spot sheet of Nr. 3132, d1: "tag him in 3067 as
+    # well"). An alternative of the match, not a variant, as "Prudzinski"
+    # for prusimski.
+    match: 'Jezierski(?![a-zà-ÿ])|Jetzierski(?![a-zà-ÿ])'
+    only_in: [ihagrrep7cnr3067-1, ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8, ihagrrep7cnr3132-9, ihagrrep7cnr3132-10, ihagrrep7cnr3132-11]
     tier: "Text-confirmed"
     variants: []
-    identity: "Xaver von Jezierski, canon of Włocławek ('Canonicus in Wraclawek') and parish priest at Neustadt, who took part in the Kuyavian rising of 1794 with Antoni Prusimski at Smiłowice, drafted its proclamations and sat on its security commission; his small property and his benefices were confiscated. Living at Dresden, he petitioned with Prusimski in January 1803 to be allowed home, which the King granted on 10 May 1803 (I. HA GR, Rep. 7 C, Nr. 3132). Added 2026-11-20."
+    identity: "Xaver von Jezierski, canon of Włocławek ('Canonicus in Wraclawek') and parish priest at Neustadt, who took part in the Kuyavian rising of 1794 with Antoni Prusimski at Smiłowice, drafted its proclamations and sat on its security commission; his small property and his benefices were confiscated. In February 1797 Grand Chancellor Goldbeck named him, as \"Jetzierski\", among the chief ringleaders who had saved themselves by flight, so that only the property they left behind could be confiscated and no punishment made on their persons (I. HA GR, Rep. 7 C, Nr. 3067, document 1; the identification is the editor's). Living at Dresden, he petitioned with Prusimski in January 1803 to be allowed home, which the King granted on 10 May 1803 (I. HA GR, Rep. 7 C, Nr. 3132). Added 2026-11-20."
   # --- ADWł 85, the visitation of 1790-1791, added 2026-10-15 ----------------
   zurkowski:
     display: "Józef Zurkowski"

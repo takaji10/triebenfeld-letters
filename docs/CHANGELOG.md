@@ -6364,3 +6364,10 @@ sources-icon.html`).
 - Translated and summarised in session, no paid run; the summaries claim-checked by a Sonnet sub-agent (96 statements, 11 weakened or cut). Holding page in English and German. Era `hohenlohe`.
 - Index: Goldbeck and Friedrich Wilhelm III extended to the file; Bischoffwerder takes the report's "Bischofswerder" (only there: 40 literature hits of the form unruled); a new entry Jezierski; Trąbczyn matches "Trampczyner"; Neustadt shut out of document 5. Glossary: "May", "König.", "Et." ruled out.
 - Timeline: "Prusimski allowed home", 10 May 1803 (era `insurgency`). Paragraphs on the return added to the insurgency and Hohenlohe era pages, both languages. Three connections proposed (`prusimski-wife-italy`, `prusimski-estates-three-donees`, `goldbeck-confiscation-stands`).
+
+## 2026-11-20 - I. HA GR, Rep. 7 C, Nr. 3132: the editor's folds and spot sheet applied (not published)
+
+- The editor's folds (0013 to 0016 moved) applied with `courtbook.py folds`; the blank sides are no longer cut out (`courtbook.cut` learnt `keep_skipped=False`; the editor: "remove the blank pages from the set"). They were never pages of the edition.
+- The spot sheet's answers in the transcription (`intake/holding.py`, CORRECTIONS): "des [sub?] lit.", "An v Prusiemski", "hinzufügen zu müssen", "Sr.", "Graf Haug[witz]"; four of Claude's readings confirmed. English and summaries of documents 3 and 4 follow.
+- Jezierski: the entry kept, and "Jetzierski" in Goldbeck's promemoria of 1797 (I. HA GR, Rep. 7 C, Nr. 3067, 1) matched to him at the editor's word; the English there reads "Jetzierski [Jezierski]", the summaries and both holding pages name him, and Nr. 3067's page links Nr. 3132.
+- Connections `prusimski-estates-three-donees` and `goldbeck-confiscation-stands` kept; `prusimski-wife-italy` waits on the editor.

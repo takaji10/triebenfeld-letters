@@ -2135,12 +2135,21 @@ The one finding that touches the edition:
 
 Read `units/ihagrrep7cnr3132/notes.md` first.
 
-1. **The fold page and the spot sheet: open.** The page splits and edges
-   (`review/ihagrrep7cnr3132/folds/index.html`) and the spot sheet
-   (`review/ihagrrep7cnr3132/spot_sheet.html`: 14 readings, among them the
-   three corrections made on Claude's witness alone, "mitzuzeichnen",
-   "gegen sie", "U. A. H."; and 4 decisions, the Jezierski entry and the
-   three connections) wait on the editor.
+1. **The fold page and the spot sheet: answered 2026-11-20**, applied the
+   same day. The editor placed the folds (their file is
+   `intake/folds.json`) and had the blank sides removed. Of the 14
+   readings, the editor confirmed "mitzuzeichnen", "gegen sie", "U. A. H."
+   and "geschehen sey anhero", kept their own readings in q2, q6, q9 and q14,
+   and gave "des [sub?] lit." (q3, "Could be sub. lit."), "An v Prusiemski"
+   (q4), "hinzufügen zu müssen" (q5), "Sr." (q10) and "Graf Haug[witz]" (q13).
+   **Still unread:** the word after "einem" on the slip (q11; the editor
+   could not tell either) and the word after "Sr." (q10). Decisions: keep
+   the Jezierski entry and tag him in Nr. 3067 as well (done: "Jetzierski"
+   among Goldbeck's fled ringleaders); keep the connections
+   `prusimski-estates-three-donees` and `goldbeck-confiscation-stands`.
+   **Open: `prusimski-wife-italy`** (d2). The editor asked what the
+   decision means; it was explained in chat on 2026-11-20, and the
+   connection stays as built until they rule.
 2. **The reference**: given as "I. HA Rep. 7 C, Nr. 3132", written with GR,
    as Nr. 3067 (point 2 there).
 3. **Where Prusimski was in 1794, and when he died.** The ministers' report

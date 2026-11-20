@@ -129,8 +129,9 @@ so check them.
   Claude (55 corrections); translated, summarised and claim-checked in
   session; a new person entry Jezierski; a timeline event (10 May 1803);
   paragraphs in the insurgency and Hohenlohe era pages; three connections
-  proposed. Open: the fold page and the spot sheet (14 readings, 4
-  decisions), NEEDS_CONFIRMATION. Read `units/ihagrrep7cnr3132/notes.md`
+  proposed. The editor's folds and spot sheet applied 2026-11-20 (blank
+  sides removed; Jezierski also tagged in Nr. 3067). Open: the connection
+  `prusimski-wife-italy` (d2), NEEDS_CONFIRMATION. Read `units/ihagrrep7cnr3132/notes.md`
   first, and WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 3132".
 
 - **I. HA GR, Rep. 7 C, Nr. 3067 - Goldbeck's promemoria on the insurgents**

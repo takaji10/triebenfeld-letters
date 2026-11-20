@@ -4351,3 +4351,24 @@ first and a fine pass at their word. The files are in
   escapes through the Write or Edit tool, or use chr(10).
 - **A catchword above an office note** again (0005_a2): the note moved
   before the catchword in SPEC, as WORKING_NOTES says.
+- **The heredoc trap a fourth time**, the other way round: a search string
+  holding a literal backslash-n (to match the `\n` written in holding.py's
+  CORRECTIONS) found nothing when sent through `python - <<'EOF'`. Any
+  script with a backslash in it goes into a file in the scratchpad through
+  the Write tool and is run from there; build a backslash with chr(92).
+- **A `--site` rebuild after the holding's paragraphs.py resets the cues**:
+  regenerate keeps the held run/break decisions of paragraph_decisions.csv
+  but writes its own cue over "hand". The site does not change, but the
+  file in the repository does: run `intake/paragraphs.py` once more after
+  the last rebuild, before committing.
+- **Blank sides out of the set**: the editor does not want the blank halves
+  of the openings kept at all, not even in `processed/_not_staged/`.
+  `courtbook.cut(raw, scans, skip, keep_skipped=False)` leaves them unwritten
+  and removes old copies; the default still keeps them, for the holdings
+  built before.
+- **A spot-sheet decision the editor cannot read is explained in chat,
+  not decided**: d2 (a connection "Keep|Drop") came back "I need more
+  explanation". Write a decision card so it says what the connection does on
+  the site (a box on each document's page linking the others, with the
+  sentence shown) and what dropping it loses, not only what the documents
+  say.

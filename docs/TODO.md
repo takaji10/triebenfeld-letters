@@ -1612,9 +1612,10 @@ transcription; 108 readings settled in session before the first build
       (the editor's word); English, summaries (claim-checked), holding page
       in both languages, index, timeline event, era pages, three proposed
       connections.
-- [ ] You: the fold page (`review/ihagrrep7cnr3132/folds/index.html`); a
-      saved file goes in with `courtbook.py folds ihagrrep7cnr3132 <file>`.
-- [ ] You: the spot sheet (`review/ihagrrep7cnr3132/spot_sheet.html`), 14
-      readings and 4 decisions; then apply through `intake/holding.py`.
+- [x] You: the fold page; your folds applied and the blank sides removed
+      (2026-11-20).
+- [x] You: the spot sheet; applied 2026-11-20, Jezierski tagged in Nr. 3067.
+- [ ] You: keep or drop the connection `prusimski-wife-italy` (spot sheet
+      d2; explained in chat 2026-11-20).
 - [ ] You: the rest in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3132").
 - [ ] Publish at your word.

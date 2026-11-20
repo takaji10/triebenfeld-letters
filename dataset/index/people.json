@@ -61014,6 +61014,180 @@
   ]
  },
  {
+  "entity": "jezierski",
+  "display": "Xaver Jezierski",
+  "count": 17,
+  "documents": [
+   "ihagrrep7cnr3067-1",
+   "ihagrrep7cnr3132-1",
+   "ihagrrep7cnr3132-10",
+   "ihagrrep7cnr3132-11",
+   "ihagrrep7cnr3132-2",
+   "ihagrrep7cnr3132-3",
+   "ihagrrep7cnr3132-4",
+   "ihagrrep7cnr3132-5",
+   "ihagrrep7cnr3132-6",
+   "ihagrrep7cnr3132-7",
+   "ihagrrep7cnr3132-8",
+   "ihagrrep7cnr3132-9"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Jetzierski [Jezierski]",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0005_a-L1_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Jetzierski",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0005_a-L1_01.jpg",
+    "line": 25,
+    "doc_line": 23
+   },
+   {
+    "uid": "ihagrrep7cnr3132-1",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0002_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0002_a2-L1_01.jpg",
+    "line": 17,
+    "doc_line": 7
+   },
+   {
+    "uid": "ihagrrep7cnr3132-2",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0004_a2-L2_01.jpg",
+    "line": 39,
+    "doc_line": 3
+   },
+   {
+    "uid": "ihagrrep7cnr3132-3",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0005_a2-L3_01.jpg",
+    "line": 61,
+    "doc_line": 6
+   },
+   {
+    "uid": "ihagrrep7cnr3132-3",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0005_a2-L3_01.jpg",
+    "line": 65,
+    "doc_line": 10
+   },
+   {
+    "uid": "ihagrrep7cnr3132-5",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0008_a2-L5_01.jpg",
+    "line": 155,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr3132-5",
+    "surface": "Jezierski",
+    "page": 2,
+    "page_id": "0009_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0009_a1-L5_02.jpg",
+    "line": 204,
+    "doc_line": 52
+   },
+   {
+    "uid": "ihagrrep7cnr3132-6",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0011_a2-L6_01.jpg",
+    "line": 263,
+    "doc_line": 6
+   },
+   {
+    "uid": "ihagrrep7cnr3132-4",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0007_a2-L4_01.jpg",
+    "line": 104,
+    "doc_line": 3
+   },
+   {
+    "uid": "ihagrrep7cnr3132-7",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg",
+    "line": 281,
+    "doc_line": 6
+   },
+   {
+    "uid": "ihagrrep7cnr3132-8",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg",
+    "line": 298,
+    "doc_line": 2
+   },
+   {
+    "uid": "ihagrrep7cnr3132-8",
+    "surface": "Jezierski",
+    "page": 2,
+    "page_id": "0013_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
+    "line": 306,
+    "doc_line": 9
+   },
+   {
+    "uid": "ihagrrep7cnr3132-8",
+    "surface": "Jezierski",
+    "page": 2,
+    "page_id": "0013_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
+    "line": 318,
+    "doc_line": 21
+   },
+   {
+    "uid": "ihagrrep7cnr3132-9",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L10_01.jpg",
+    "line": 331,
+    "doc_line": 11
+   },
+   {
+    "uid": "ihagrrep7cnr3132-10",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L10_01.jpg",
+    "line": 360,
+    "doc_line": 11
+   },
+   {
+    "uid": "ihagrrep7cnr3132-11",
+    "surface": "Jezierski",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3132_0016_a2-L11_01.jpg",
+    "line": 399,
+    "doc_line": 18
+   }
+  ]
+ },
+ {
   "entity": "prinz-george",
   "display": "Prinz George",
   "count": 17,
@@ -62832,161 +63006,6 @@
     "scan": "Oe_1_Bu_9454_0516_a-L286_01.jpg",
     "line": 20297,
     "doc_line": 8
-   }
-  ]
- },
- {
-  "entity": "jezierski",
-  "display": "Xaver Jezierski",
-  "count": 15,
-  "documents": [
-   "ihagrrep7cnr3132-1",
-   "ihagrrep7cnr3132-10",
-   "ihagrrep7cnr3132-11",
-   "ihagrrep7cnr3132-2",
-   "ihagrrep7cnr3132-3",
-   "ihagrrep7cnr3132-4",
-   "ihagrrep7cnr3132-5",
-   "ihagrrep7cnr3132-6",
-   "ihagrrep7cnr3132-7",
-   "ihagrrep7cnr3132-8",
-   "ihagrrep7cnr3132-9"
-  ],
-  "mentions": [
-   {
-    "uid": "ihagrrep7cnr3132-1",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0002_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0002_a2-L1_01.jpg",
-    "line": 17,
-    "doc_line": 7
-   },
-   {
-    "uid": "ihagrrep7cnr3132-2",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0004_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0004_a2-L2_01.jpg",
-    "line": 39,
-    "doc_line": 3
-   },
-   {
-    "uid": "ihagrrep7cnr3132-3",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0005_a2-L3_01.jpg",
-    "line": 61,
-    "doc_line": 6
-   },
-   {
-    "uid": "ihagrrep7cnr3132-3",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0005_a2-L3_01.jpg",
-    "line": 65,
-    "doc_line": 10
-   },
-   {
-    "uid": "ihagrrep7cnr3132-5",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0008_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0008_a2-L5_01.jpg",
-    "line": 155,
-    "doc_line": 4
-   },
-   {
-    "uid": "ihagrrep7cnr3132-5",
-    "surface": "Jezierski",
-    "page": 2,
-    "page_id": "0009_a1",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0009_a1-L5_02.jpg",
-    "line": 204,
-    "doc_line": 52
-   },
-   {
-    "uid": "ihagrrep7cnr3132-6",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0011_a2-L6_01.jpg",
-    "line": 263,
-    "doc_line": 6
-   },
-   {
-    "uid": "ihagrrep7cnr3132-4",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0007_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0007_a2-L4_01.jpg",
-    "line": 104,
-    "doc_line": 3
-   },
-   {
-    "uid": "ihagrrep7cnr3132-7",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0012_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg",
-    "line": 281,
-    "doc_line": 6
-   },
-   {
-    "uid": "ihagrrep7cnr3132-8",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0012_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0012_a2-L8_01.jpg",
-    "line": 298,
-    "doc_line": 2
-   },
-   {
-    "uid": "ihagrrep7cnr3132-8",
-    "surface": "Jezierski",
-    "page": 2,
-    "page_id": "0013_a1",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-    "line": 306,
-    "doc_line": 9
-   },
-   {
-    "uid": "ihagrrep7cnr3132-8",
-    "surface": "Jezierski",
-    "page": 2,
-    "page_id": "0013_a1",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0013_a1-L8_02.jpg",
-    "line": 318,
-    "doc_line": 21
-   },
-   {
-    "uid": "ihagrrep7cnr3132-9",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0014_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L10_01.jpg",
-    "line": 331,
-    "doc_line": 11
-   },
-   {
-    "uid": "ihagrrep7cnr3132-10",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0014_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0014_a2-L10_01.jpg",
-    "line": 360,
-    "doc_line": 11
-   },
-   {
-    "uid": "ihagrrep7cnr3132-11",
-    "surface": "Jezierski",
-    "page": 1,
-    "page_id": "0016_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3132_0016_a2-L11_01.jpg",
-    "line": 399,
-    "doc_line": 18
    }
   ]
  },

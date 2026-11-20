@@ -45,11 +45,11 @@ To His Royal Actual Privy State, War and Cabinet Minister and directing Minister
 
     3: ["""An d 29 Apr. 1803
 
-To His tot[?] lit Lord von Goldbeck, Excellency
+To His [sub?] lit. Lord von Goldbeck, Excellency
 
-[?]n Prusimski & Jezierski
+An v Prusimski & Jezierski
 
-In full agreement with Your Excellency's enlightened opinion on Prusimski and Jezierski, I have signed the report Your Excellency kindly communicated to me, and had the fair copy made; and I have the honour to send you most obediently the fair copy, for your kind countersignature and dispatch, together with the draft. At the one place where it says that the confiscation of property must remain unalterable, I have believed, since this point belongs solely to your department, that I had to add in[?] that I
+In full agreement with Your Excellency's enlightened opinion on Prusimski and Jezierski, I have signed the report Your Excellency kindly communicated to me, and had the fair copy made; and I have the honour to send you most obediently the fair copy, for your kind countersignature and dispatch, together with the draft. At the one place where it says that the confiscation of property must remain unalterable, I have believed, since this point belongs solely to your department, that I had to add that I
 
 d. 3rd May. ins: cum 2 vol: Actor: pLch:""",
         """refrain from expressing an opinion, since this matter lies outside my sphere of business.
@@ -72,7 +72,7 @@ To His Royal Actual Privy State, War and Cabinet Minister and directing Minister
         """Urgent
 1261
 
-1, The fair copies are to be laid before His[?] [?] for signature[?], as is the draft. That done, they are to be delivered to His Excellency von Goldbeck's department with the cabinet order, act. copy of the cab. order and the expeditions,
+1, The fair copies are to be laid before His [?] for signature[?], as is the draft. That done, they are to be delivered to His Excellency von Goldbeck's department with the cabinet order, act. copy of the cab. order and the expeditions,
 
 and that with
 
@@ -85,7 +85,7 @@ and that with
 
 4, Chamb. Exp. 3. [?]
 
-v. Voss for co[?] Haug[witz]
+v. Voss for co- Count Haug[witz]
 
 27 May [?]"""],
 

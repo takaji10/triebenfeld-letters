@@ -3602,12 +3602,12 @@
   name: "Xaver Jezierski"
   heading: "Xaver Jezierski"
   heading_de: "Xaver Jezierski"
-  count: 14
-  docs: 11
-  life: "documented 1803"
-  life_de: "belegt 1803"
-  span: "1803"
-  letters: [{id: "1", uid: "ihagrrep7cnr3132-1", url: "/documents/ihagrrep7cnr3132/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "2", uid: "ihagrrep7cnr3132-2", url: "/documents/ihagrrep7cnr3132/2/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "3", uid: "ihagrrep7cnr3132-3", url: "/documents/ihagrrep7cnr3132/3/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "5", uid: "ihagrrep7cnr3132-5", url: "/documents/ihagrrep7cnr3132/5/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 2}, {id: "6", uid: "ihagrrep7cnr3132-6", url: "/documents/ihagrrep7cnr3132/6/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "4", uid: "ihagrrep7cnr3132-4", url: "/documents/ihagrrep7cnr3132/4/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "7", uid: "ihagrrep7cnr3132-7", url: "/documents/ihagrrep7cnr3132/7/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "8", uid: "ihagrrep7cnr3132-8", url: "/documents/ihagrrep7cnr3132/8/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 3}, {id: "9", uid: "ihagrrep7cnr3132-9", url: "/documents/ihagrrep7cnr3132/9/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "10", uid: "ihagrrep7cnr3132-10", url: "/documents/ihagrrep7cnr3132/10/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "11", uid: "ihagrrep7cnr3132-11", url: "/documents/ihagrrep7cnr3132/11/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}]
+  count: 15
+  docs: 12
+  life: "documented 1797-1803"
+  life_de: "belegt 1797-1803"
+  span: "1797–1803"
+  letters: [{id: "1", uid: "ihagrrep7cnr3067-1", url: "/documents/ihagrrep7cnr3067/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3067", n: 1}, {id: "1", uid: "ihagrrep7cnr3132-1", url: "/documents/ihagrrep7cnr3132/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "2", uid: "ihagrrep7cnr3132-2", url: "/documents/ihagrrep7cnr3132/2/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "3", uid: "ihagrrep7cnr3132-3", url: "/documents/ihagrrep7cnr3132/3/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "5", uid: "ihagrrep7cnr3132-5", url: "/documents/ihagrrep7cnr3132/5/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 2}, {id: "6", uid: "ihagrrep7cnr3132-6", url: "/documents/ihagrrep7cnr3132/6/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "4", uid: "ihagrrep7cnr3132-4", url: "/documents/ihagrrep7cnr3132/4/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "7", uid: "ihagrrep7cnr3132-7", url: "/documents/ihagrrep7cnr3132/7/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "8", uid: "ihagrrep7cnr3132-8", url: "/documents/ihagrrep7cnr3132/8/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 3}, {id: "9", uid: "ihagrrep7cnr3132-9", url: "/documents/ihagrrep7cnr3132/9/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "10", uid: "ihagrrep7cnr3132-10", url: "/documents/ihagrrep7cnr3132/10/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "11", uid: "ihagrrep7cnr3132-11", url: "/documents/ihagrrep7cnr3132/11/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}]
 - slug: "zajaczek"
   name: "Zajączek"
   heading: "Zajączek, Józef"
