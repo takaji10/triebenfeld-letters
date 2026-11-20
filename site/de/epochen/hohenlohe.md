@@ -69,7 +69,11 @@ eines Historikers von 1973 zählt „Antoni Prusiński“, Starost von Niszczewi
 zu den polnischen Emigranten in Venedig ([Pachoński]({{ '/de/literatur/pachonski1973/#p-240' | relative_url }}), Anm. 10). Das
 Departement der auswärtigen Angelegenheiten gab den Bericht des Residenten im Januar 1797 an die Minister
 für die neuen Provinzen weiter
-([Konzept]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).
+([Konzept]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})). Er lebte 1803 noch, in
+Dresden, als der König ihm und dem Domherrn Xaver Jezierski die Rückkehr nach Südpreußen
+erlaubte; der Bericht der Minister vom 30. April nennt, wohin seine eingezogenen Güter
+gegangen waren, Trąbczyn an Hohenlohe-Ingelfingen, und die Konfiskation blieb in Kraft
+([Bericht]({{ '/documents/ihagrrep7cnr3132/5/' | relative_url }}), [Kabinettsordre]({{ '/documents/ihagrrep7cnr3132/6/' | relative_url }})).
 
 Im Sommer 1796 schlug Graf Hoym, der für Schlesien und Südpreußen zuständige Minister, vor,
 einen Teil dieser Güter zusammen mit anderen, die frei geworden waren, an Offiziere zu

@@ -512,7 +512,7 @@ jeziorko:
   span: ''
   letters: []
 kalisz:
-  docs: 112
+  docs: 113
   span: 1280–1897
   letters:
   - id: '6'
@@ -629,6 +629,11 @@ kalisz:
     uid: oe1bu14526-2
     url: /documents/oe1bu14526/2/
     unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 1
   - id: '21'
     uid: oe1bu14525-21
@@ -2939,7 +2944,7 @@ trzcianne:
   span: ''
   letters: []
 trabczyn:
-  docs: 253
+  docs: 254
   span: 1240–1936
   letters:
   - id: '2'
@@ -3412,6 +3417,11 @@ trabczyn:
     url: /documents/oe1bu14525/23/
     unit_label: Oe 1 Bü 14525
     n: 3
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
   - id: '116'
     uid: oe1bu9454-116
     url: /documents/oe1bu9454/116/
@@ -5212,7 +5222,7 @@ bayreuth:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 berlin:
-  docs: 219
+  docs: 229
   span: 1794–1936
   letters:
   - id: '13'
@@ -5525,11 +5535,61 @@ berlin:
     url: /documents/oe1bu14525/18/
     unit_label: Oe 1 Bü 14525
     n: 2
+  - id: '1'
+    uid: ihagrrep7cnr3132-1
+    url: /documents/ihagrrep7cnr3132/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
   - id: '5'
     uid: oe1bu14525-5
     url: /documents/oe1bu14525/5/
     unit_label: Oe 1 Bü 14525
     n: 1
+  - id: '2'
+    uid: ihagrrep7cnr3132-2
+    url: /documents/ihagrrep7cnr3132/2/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '3'
+    uid: ihagrrep7cnr3132-3
+    url: /documents/ihagrrep7cnr3132/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '4'
+    uid: ihagrrep7cnr3132-4
+    url: /documents/ihagrrep7cnr3132/4/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '7'
+    uid: ihagrrep7cnr3132-7
+    url: /documents/ihagrrep7cnr3132/7/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '8'
+    uid: ihagrrep7cnr3132-8
+    url: /documents/ihagrrep7cnr3132/8/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '9'
+    uid: ihagrrep7cnr3132-9
+    url: /documents/ihagrrep7cnr3132/9/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 2
+  - id: '10'
+    uid: ihagrrep7cnr3132-10
+    url: /documents/ihagrrep7cnr3132/10/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '11'
+    uid: ihagrrep7cnr3132-11
+    url: /documents/ihagrrep7cnr3132/11/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 2
   - id: '25'
     uid: oe1bu14525-25
     url: /documents/oe1bu14525/25/
@@ -7007,7 +7067,7 @@ dormowo:
     unit_label: Oe 1 Bü 14525
     n: 1
 dresden:
-  docs: 22
+  docs: 24
   span: 1799–1827
   letters:
   - id: '97'
@@ -7019,6 +7079,16 @@ dresden:
     uid: ihagrrep7cnr3709-15
     url: /documents/ihagrrep7cnr3709/15/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 2
+  - id: '8'
+    uid: ihagrrep7cnr3132-8
+    url: /documents/ihagrrep7cnr3132/8/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 1
   - id: '178'
     uid: oe1bu9454-178
@@ -7706,9 +7776,14 @@ ingelfingen:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 italien:
-  docs: 11
-  span: '1815'
+  docs: 12
+  span: 1803–1815
   letters:
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
   - id: '281'
     uid: oe1bu9454-281
     url: /documents/oe1bu9454/281/
@@ -10080,7 +10155,7 @@ popowo:
     unit_label: Oe 1 Bü 14525
     n: 2
 potsdam:
-  docs: 8
+  docs: 9
   span: 1798–1810
   letters:
   - id: '77'
@@ -10097,6 +10172,11 @@ potsdam:
     uid: oe1bu9454-80
     url: /documents/oe1bu9454/80/
     unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '6'
+    uid: ihagrrep7cnr3132-6
+    url: /documents/ihagrrep7cnr3132/6/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 1
   - id: '134'
     uid: oe1bu9454-134
@@ -10124,7 +10204,7 @@ potsdam:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 posen:
-  docs: 72
+  docs: 81
   span: 1794–1936
   letters:
   - id: '13'
@@ -10307,11 +10387,56 @@ posen:
     url: /documents/oe1bu14525/18/
     unit_label: Oe 1 Bü 14525
     n: 4
+  - id: '1'
+    uid: ihagrrep7cnr3132-1
+    url: /documents/ihagrrep7cnr3132/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
   - id: '20'
     uid: oe1bu14526-20
     url: /documents/oe1bu14526/20/
     unit_label: Oe 1 Bü 14526
     n: 2
+  - id: '2'
+    uid: ihagrrep7cnr3132-2
+    url: /documents/ihagrrep7cnr3132/2/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 2
+  - id: '4'
+    uid: ihagrrep7cnr3132-4
+    url: /documents/ihagrrep7cnr3132/4/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '7'
+    uid: ihagrrep7cnr3132-7
+    url: /documents/ihagrrep7cnr3132/7/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '8'
+    uid: ihagrrep7cnr3132-8
+    url: /documents/ihagrrep7cnr3132/8/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '9'
+    uid: ihagrrep7cnr3132-9
+    url: /documents/ihagrrep7cnr3132/9/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '10'
+    uid: ihagrrep7cnr3132-10
+    url: /documents/ihagrrep7cnr3132/10/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
+  - id: '11'
+    uid: ihagrrep7cnr3132-11
+    url: /documents/ihagrrep7cnr3132/11/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
+    n: 1
   - id: '26'
     uid: oe1bu14525-26
     url: /documents/oe1bu14525/26/
@@ -14678,8 +14803,8 @@ wuerttemberg:
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
 wloclawek:
-  docs: 2
-  span: 1797–1802
+  docs: 3
+  span: 1797–1803
   letters:
   - id: '1'
     uid: ihagrrep7cnr3067-1
@@ -14690,6 +14815,11 @@ wloclawek:
     uid: oe1bu14525-28
     url: /documents/oe1bu14525/28/
     unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 1
 zielomysl:
   docs: 7

@@ -65,7 +65,11 @@ before he had an answer
 article of 1973 already counts "Antoni Prusiński", starost of Niszczewice, among the Polish
 emigrés at Venice at the end of 1794 ([Pachoński]({{ '/literature/pachonski1973/#p-240' | relative_url }}), note 10). The department of foreign
 affairs passed the resident's report to the ministers for the new provinces in January 1797
-([draft]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).
+([draft]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})). He was still living in 1803, at
+Dresden, when the King allowed him and the canon Xaver Jezierski to return to South Prussia;
+the ministers' report of 30 April lists where his confiscated estates had gone, Trąbczyn to
+Hohenlohe-Ingelfingen, and the confiscation was left in force
+([report]({{ '/documents/ihagrrep7cnr3132/5/' | relative_url }}), [cabinet order]({{ '/documents/ihagrrep7cnr3132/6/' | relative_url }})).
 
 In the summer of 1796 Count Hoym, the minister responsible for Silesia and South Prussia,
 proposed that some of these estates, with others that had fallen vacant, be granted to

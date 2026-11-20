@@ -2131,6 +2131,51 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
+## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, not published)
+
+Read `units/ihagrrep7cnr3132/notes.md` first.
+
+1. **The fold page and the spot sheet: open.** The page splits and edges
+   (`review/ihagrrep7cnr3132/folds/index.html`) and the spot sheet
+   (`review/ihagrrep7cnr3132/spot_sheet.html`: 14 readings, among them the
+   three corrections made on Claude's witness alone, "mitzuzeichnen",
+   "gegen sie", "U. A. H."; and 4 decisions, the Jezierski entry and the
+   three connections) wait on the editor.
+2. **The reference**: given as "I. HA Rep. 7 C, Nr. 3132", written with GR,
+   as Nr. 3067 (point 2 there).
+3. **Where Prusimski was in 1794, and when he died.** The ministers' report
+   of 30 April 1803 (document 5) has him go from his estates near Kalisz to
+   his Smiłowice estates in Kuyavia on 2 August 1794, the Kuyavian rising
+   "concluded with him" there on 21 August (accusations it says were not
+   closely examined), and him petitioning from Dresden in January 1803. His
+   daughter's claim of 1818 (III. HA MdA, III. Nr. 12366, 2) says he went to
+   Italy in 1794 for his and his wife's health, and survived her "peu de
+   tems". Both are documents; the edition states each as its document says
+   it, and the connection `prusimski-wife-italy` sets them side by side.
+   The 1803 file shows him alive in May 1803; it does not touch the
+   life-line's "ca 1806".
+4. **His wife died in Italy**, "auch dort verstorben" (document 5): in line
+   with the Venice dispatch of 1796 and with Żychliński's Padua (the date
+   already ruled, "Her mother's death" above).
+5. **Bischofswerder.** The report gives the Smiłowice estates to "dem General
+   Lieutenant von Bischofswerder". The entry `bischoffwerder` (Claude:
+   probably Johann Rudolf von Bischoffwerder, 1741-1803) now cites it; he
+   died on 30 April 1803, the day of the report, which the report does not
+   know. The one-f form "Bischofswerder" stands 40 times in the literature,
+   unruled: the pattern takes it only in this report. Rule those hits (a
+   pass of the literature index) if wanted.
+6. **Places not in the register**: Smiłowice (Kuyavia, Prusimski's estate
+   given to Bischofswerder) and Pawłów ("Pawlower Güter", given to Sanitz;
+   the form of the Sanitz entry, Nr. 3570 "Pawlow"). Jezierski's "Neustadt"
+   is a Nowe Miasto not identified, shut out of the register's Neustadt.
+   Add Smiłowice and Pawłów as places?
+7. **The insurgency era's ownership line** says "1794 to 1798"; this file
+   carries Prusimski's exile to 1803 (the timeline event of 10 May 1803 is in
+   that era). Change the span?
+8. **Context from outside the file** in the holding's page: Otto Karl
+   Friedrich von Voss named as the minister for South Prussia (Claude's
+   knowledge; the file has only "von Voss", "Et. Min.").
+
 ## I. HA GR, Rep. 7 C, Nr. 3067: Goldbeck's promemoria on the insurgents, 1797 (added 2026-11-19, branch `trampczynski-family`, not published)
 
 Read `units/ihagrrep7cnr3067/notes.md` first.

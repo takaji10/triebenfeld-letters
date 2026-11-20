@@ -1,7 +1,7 @@
 [
  {
   "place": "Berlin",
-  "count": 91,
+  "count": 101,
   "documents": [
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr1414-1",
@@ -40,6 +40,16 @@
    "oe1bu9454-110",
    "oe1bu9454-113",
    "oe1bu9454-114",
+   "ihagrrep7cnr3132-1",
+   "ihagrrep7cnr3132-2",
+   "ihagrrep7cnr3132-3",
+   "ihagrrep7cnr3132-5",
+   "ihagrrep7cnr3132-4",
+   "ihagrrep7cnr3132-7",
+   "ihagrrep7cnr3132-8",
+   "ihagrrep7cnr3132-9",
+   "ihagrrep7cnr3132-10",
+   "ihagrrep7cnr3132-11",
    "oe1bu9454-131",
    "oe1bu9454-135",
    "oe1bu9454-134",
@@ -832,6 +842,13 @@
   "count": 1,
   "documents": [
    "oe1bu14526-30"
+  ]
+ },
+ {
+  "place": "Potsdam",
+  "count": 1,
+  "documents": [
+   "ihagrrep7cnr3132-6"
   ]
  },
  {

@@ -1604,3 +1604,17 @@ transcription; 108 readings settled in session before the first build
       3067": the reference's GR, Wybicki and Niemoiewski, Ostrzewo, two
       differences between the documents).
 - [ ] Publish at your word.
+
+## 64. I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, **not published**)
+
+- [x] Pages cut at proposed folds, the editor's transcription checked by four
+      Sonnet readers and Claude (55 corrections), built as eleven documents
+      (the editor's word); English, summaries (claim-checked), holding page
+      in both languages, index, timeline event, era pages, three proposed
+      connections.
+- [ ] You: the fold page (`review/ihagrrep7cnr3132/folds/index.html`); a
+      saved file goes in with `courtbook.py folds ihagrrep7cnr3132 <file>`.
+- [ ] You: the spot sheet (`review/ihagrrep7cnr3132/spot_sheet.html`), 14
+      readings and 4 decisions; then apply through `intake/holding.py`.
+- [ ] You: the rest in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3132").
+- [ ] Publish at your word.

@@ -40,6 +40,15 @@ agad11740273-1:
     label_en: 1/174/0/1/6, document 2 (21 July 1807)
     permalink: /documents/agad1174016/2/
     uid: agad1174016-2
+agad11740273-2:
+- de: 'Die Bittschrift nennt die Güter „Oycu memu na rzecz Generałów Pruskich, Xięcia de Hohenlo[h]e, Bischoffswerder i Zanitz skonfiskowanych“. Der Bericht der preußischen Minister von 1803 sagt, welche an wen gingen: die Trąbczyner Güter an den Fürsten von Hohenlohe, die Pawłower an General von Sanitz, die Smiłowicer an General von Bischofswerder.'
+  en: 'The petition names the estates "Oycu memu na rzecz Generałów Pruskich, Xięcia de Hohenlo[h]e, Bischoffswerder i Zanitz skonfiskowanych". The Prussian ministers'' report of 1803 says which went to whom: the Trąbczyn estates to the Prince of Hohenlohe, the Pawłów estates to General von Sanitz, the Smiłowice estates to General von Bischofswerder.'
+  id: prusimski-estates-three-donees
+  others:
+  - label_de: I. HA GR, Rep. 7 C, Nr. 3132, Dokument 5 (30. April 1803)
+    label_en: I. HA GR, Rep. 7 C, Nr. 3132, document 5 (30 April 1803)
+    permalink: /documents/ihagrrep7cnr3132/5/
+    uid: ihagrrep7cnr3132-5
 app53170koningr145-1:
 - de: Das Grenzdekret bezeugt die Ansiedlung der Holländer auf den Trąbczyner Wäldern „wie die ihnen 1746 verliehenen Rechte bezeugen". Das Privileg selbst ist nicht erhalten; mit der Besichtigung von 1754 ist dieses Dekret der früheste erhaltene Zeuge davon.
   en: The boundary decree attests the Hollanders' settlement on the Trąbczyn woods "as the rights granted them in 1746 attest". The privilege itself does not survive; with the inspection of 1754 this decree is the earliest surviving witness of it.
@@ -76,6 +85,19 @@ ihagrrep7cnr1414-1:
     label_en: I. HA GR, Rep. 7 C, Nr. 3067, document 1 (16 February 1797)
     permalink: /documents/ihagrrep7cnr3067/1/
     uid: ihagrrep7cnr3067-1
+ihagrrep7cnr1414-2:
+- de: Der Resident berichtet, Prusimski sei „pour la mort de son epouse“ gebrochen. Der Bericht der Minister von 1803 sagt, seine Frau habe sich ihrer Gesundheit wegen in Italien aufhalten müssen und sei dort gestorben, und er habe von Italien aus vor der Konfiskation Hoffnung auf seine Rückkehr gemacht; 1803 lebte er in Dresden und durfte heimkehren.
+  en: The resident reports Prusimski broken "pour la mort de son epouse". The ministers' report of 1803 says that his wife had had to stay in Italy for her health and died there, and that he had held out hope of his return from Italy before the confiscation was decreed; in 1803 he was living at Dresden and was allowed home.
+  id: prusimski-wife-italy
+  others:
+  - label_de: I. HA GR, Rep. 7 C, Nr. 3132, Dokument 5 (30. April 1803)
+    label_en: I. HA GR, Rep. 7 C, Nr. 3132, document 5 (30 April 1803)
+    permalink: /documents/ihagrrep7cnr3132/5/
+    uid: ihagrrep7cnr3132-5
+  - label_de: III. HA MdA, III. Nr. 12366, Dokument 2 (29. April 1818)
+    label_en: III. HA MdA, III. Nr. 12366, document 2 (29 April 1818)
+    permalink: /documents/iiihamdaiiinr12366/2/
+    uid: iiihamdaiiinr12366-2
 ihagrrep7cnr3067-1:
 - de: Goldbeck rät dem König, bei jeder Begnadigung die Konfiskation gegen die ausgetretenen Rebellen zu belassen, „da besonders über die eingezogenen Güter größtentheils schon disponirt ist“. Ein halbes Jahr zuvor hatte er selbst mit Hoym dem König die Schenkungsurkunden für sieben Offiziere vorgelegt; die des Fürsten zu Hohenlohe-Ingelfingen bestand aus den Gütern Prusimskis, den die Promemoria, geschrieben „Prudzinski“, unter den geflohenen Rädelsführern nennt.
   en: Goldbeck advises the King that, whatever pardon is granted, the confiscation of the rebels who had left the country should stand, "da besonders über die eingezogenen Güter größtentheils schon disponirt ist" — most of the confiscated estates had already been disposed of. Half a year earlier he had himself, with Hoym, laid before the King the deeds granting such estates to seven officers; the Prince of Hohenlohe-Ingelfingen's grant was made up of the estates taken from Prusimski, whom the promemoria names, written "Prudzinski", among the ringleaders who fled.
@@ -105,6 +127,43 @@ ihagrrep7cnr3067-1:
     label_en: III. HA MdA, III. Nr. 12366, document 2 (29 April 1818)
     permalink: /documents/iiihamdaiiinr12366/2/
     uid: iiihamdaiiinr12366-2
+- de: Die Konfiskation gegen die geflohenen Rädelsführer, die Goldbeck hier bestehen lassen will, erklären er und Haugwitz 1803 für unabänderlich, als der König Prusimski, einem dieser Rädelsführer, die Heimkehr erlaubt.
+  en: The confiscation of the fled ringleaders, which Goldbeck advises here should stand, is the one he and Haugwitz declare unalterable in 1803, when the King allows Prusimski, one of those ringleaders, to return home.
+  id: goldbeck-confiscation-stands
+  others:
+  - label_de: I. HA GR, Rep. 7 C, Nr. 3132, Dokument 5 (30. April 1803)
+    label_en: I. HA GR, Rep. 7 C, Nr. 3132, document 5 (30 April 1803)
+    permalink: /documents/ihagrrep7cnr3132/5/
+    uid: ihagrrep7cnr3132-5
+ihagrrep7cnr3132-5:
+- de: Der Bericht der Minister von 1803 sagt, Prusimski habe „von Italien aus, wo sich damals angeblich seine auch dort verstorbene Ehegattin zur Herstellung ihrer Gesundheit, aufhalten mußte“, Hoffnung auf seine Rückkehr gemacht. Der preußische Resident in Venedig hatte im Dezember 1796 berichtet, er sei krank und durch ihren Tod gebrochen zu ihm gekommen; die Forderung seiner Tochter von 1818 sagt, er sei 1794 seiner und seiner Frau Gesundheit wegen nach Italien gegangen und habe sie nur kurz überlebt - während dieser Bericht ihn im Januar 1803 von Dresden aus bitten lässt.
+  en: The ministers' report of 1803 says that Prusimski held out hope of his return "von Italien aus, wo sich damals angeblich seine auch dort verstorbene Ehegattin zur Herstellung ihrer Gesundheit, aufhalten mußte". The Prussian resident at Venice had reported in December 1796 that he came to him ill and broken by her death; his daughter's claim of 1818 says he went to Italy in 1794 for his and his wife's health, and survived her only a short time - while this report has him petitioning from Dresden in January 1803.
+  id: prusimski-wife-italy
+  others:
+  - label_de: I. HA GR, Rep. 7 C, Nr. 1414, Dokument 2 (14. Dezember 1796)
+    label_en: I. HA GR, Rep. 7 C, Nr. 1414, document 2 (14 December 1796)
+    permalink: /documents/ihagrrep7cnr1414/2/
+    uid: ihagrrep7cnr1414-2
+  - label_de: III. HA MdA, III. Nr. 12366, Dokument 2 (29. April 1818)
+    label_en: III. HA MdA, III. Nr. 12366, document 2 (29 April 1818)
+    permalink: /documents/iiihamdaiiinr12366/2/
+    uid: iiihamdaiiinr12366-2
+- de: 'Der Bericht von 1803 nennt die drei Generäle, denen Prusimskis Güter geschenkt wurden: „seine Trampczyner Güter dem Herrn Fürsten von Hohenlohe, seine Pawlower Güter dem jetzigen General Major von Sanitz, und seine Smilowicer Güter dem General Lieutenant von Bischofswerder“. 1807 nennt seine Tochter dieselben drei, Hohenlohe, Bischoffswerder und Zanitz, als sie Trąbczyn, Kamionna, Kolno, Pawłów und Pawłówek zurückverlangt.'
+  en: 'The report of 1803 names the three generals who were given Prusimski''s estates: "seine Trampczyner Güter dem Herrn Fürsten von Hohenlohe, seine Pawlower Güter dem jetzigen General Major von Sanitz, und seine Smilowicer Güter dem General Lieutenant von Bischofswerder". In 1807 his daughter names the same three, Hohenlohe, Bischoffswerder and Zanitz, when she asks for Trąbczyn, Kamionna, Kolno, Pawłów and Pawłówek back.'
+  id: prusimski-estates-three-donees
+  others:
+  - label_de: 1/174/0/2/73, Dokument 2 (20. Juli 1807)
+    label_en: 1/174/0/2/73, document 2 (20 July 1807)
+    permalink: /documents/agad11740273/2/
+    uid: agad11740273-2
+- de: 'Sechs Jahre nach seiner Promemoria von 1797 rät Goldbeck erneut zur Gnade und hält die Konfiskation erneut heraus: Die beiden Supplikanten seien „durch die Confiscation ihres Vermögens, wobey es unabänderlich verbleiben muß“, bestraft und könnten heimkehren.'
+  en: 'Six years after his promemoria of 1797, Goldbeck again advises mercy and again keeps the confiscation out of it: the two petitioners have been punished "durch die Confiscation ihres Vermögens, wobey es unabänderlich verbleiben muß", and may be allowed home.'
+  id: goldbeck-confiscation-stands
+  others:
+  - label_de: I. HA GR, Rep. 7 C, Nr. 3067, Dokument 1 (16. Februar 1797)
+    label_en: I. HA GR, Rep. 7 C, Nr. 3067, document 1 (16 February 1797)
+    permalink: /documents/ihagrrep7cnr3067/1/
+    uid: ihagrrep7cnr3067-1
 ihagrrep7cnr3570-1:
 - de: 'Die Akte trägt die Zuweisung selbst: Hoyms Vorschlag vom 14. Juli 1796 legt dem König die von Prusimski konfiszierten Güter vor — Kamiono und Kulm, die Koniner Dörfer (Trąbczyn, Szetlewek, Nowa Wieś, Łazy, Osiny, die Laski und der Hauland von Trąbczyn unter ihnen) und Brzyce in Kujawien — auf einen Wert von 120.000 rt und einen erwarteten Ertrag von 4 bis 6.000 rt, und die Urkunde vom 9. August 1796 weist sie zu.'
   en: 'The dossier carries the grant itself: Hoym''s proposal of 14 July 1796 puts before the King the estates confiscated from Prusimski — Kamiono and Kulm, the Konin villages (Trąbczyn, Szetlewek, Nowa Wieś, Łazy, Osiny, the Laski and the Hauland of Trąbczyn among them) and Brzyce in Cujavia — at a value of 120,000 rt and an expected yield of 4 to 6,000 rt, and the deed of 9 August 1796 grants them.'
@@ -135,6 +194,18 @@ iiihamdaiiinr12366-2:
     label_en: 1/174/0/1/6, document 2 (21 July 1807)
     permalink: /documents/agad1174016/2/
     uid: agad1174016-2
+- de: Die Forderung sagt, Prusimski sei 1794 seiner und seiner Frau Gesundheit wegen nach Italien gegangen und habe sie „peu de tems“ überlebt. Der Bericht der preußischen Minister vom 30. April 1803 hat seine Frau ebenfalls ihrer Gesundheit wegen in Italien und dort gestorben, ihn aber im August 1794 auf seinen Smiłowicer Gütern in Kujawien, wo der kujawische Aufstand bei ihm zum Abschluss gekommen sein soll, und im Januar 1803 noch am Leben, mit einem Gesuch aus Dresden.
+  en: The claim says that Prusimski went to Italy in 1794 for his and his wife's health and survived her "peu de tems". The Prussian ministers' report of 30 April 1803 also has his wife in Italy for her health and dead there, but has him at his Smiłowice estates in Kuyavia in August 1794, where the Kuyavian rising was said to have been concluded with him, and still alive, petitioning from Dresden, in January 1803.
+  id: prusimski-wife-italy
+  others:
+  - label_de: I. HA GR, Rep. 7 C, Nr. 3132, Dokument 5 (30. April 1803)
+    label_en: I. HA GR, Rep. 7 C, Nr. 3132, document 5 (30 April 1803)
+    permalink: /documents/ihagrrep7cnr3132/5/
+    uid: ihagrrep7cnr3132-5
+  - label_de: I. HA GR, Rep. 7 C, Nr. 1414, Dokument 2 (14. Dezember 1796)
+    label_en: I. HA GR, Rep. 7 C, Nr. 1414, document 2 (14 December 1796)
+    permalink: /documents/ihagrrep7cnr1414/2/
+    uid: ihagrrep7cnr1414-2
 oe1bu9454-103:
 - de: 'Der Brief meldet, drei Jahre später, was dieselbe Schenkung brachte: Im März 1799 tragen Kamiono und Kulm 6.000 rt, Trąbczyn 8.400, Szetlewek 1.600 und Brzyce 4.000 — zusammen 20.000, wo der Vorschlag der Akte von 1796 von dem Ganzen 4 bis 6.000 erwartet hatte.'
   en: 'The letter reports, three years on, what the same gift brought: by March 1799 Kamiono and Kulm yield 6,000 rt, Trąbczyn 8,400, Szetlewek 1,600 and Brzyce 4,000 — 20,000 together, where the dossier''s proposal of 1796 had expected 4 to 6,000 from the whole.'

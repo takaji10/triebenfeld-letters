@@ -1,0 +1,21 @@
+# Text the office wrote, set apart on the site (the shape of
+# units/iiihamdaiiinr12765/office_notes.yml). The office's slip (fol. 9,
+# both sides) is not a document of its own (the editor, 2026-11-20) but the
+# registry's instructions on Goldbeck's letter of 11 May (document 4, whose
+# number "B No 1261" it carries as "Cito 1261"): how the fair copies are to be
+# signed and sent. Its two sides stand after the letter's page.
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+blocks:
+  - letter: '3'
+    page: '0005_a2'
+    first: 'd. 3ten May. ins: cum 2 vol: Actor: pLch:'
+    lines: 1
+  - letter: '4'
+    page: '0013_a2'
+    first: 'Cito'
+    lines: 17
+  - letter: '4'
+    page: '0014_a1'
+    first: 'diese subjecte den'
+    lines: 9

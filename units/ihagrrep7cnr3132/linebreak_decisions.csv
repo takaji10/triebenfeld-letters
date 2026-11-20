@@ -1,0 +1,91 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,15,16,¬,origina,liter,originaliter,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,en an Euer Excellenz und mich das origina¬ || liter anliegende Gesuch eines ehemaligen S
+1,1,16,17,¬,Pru,simski,Prusimski,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,0,0,1163,1,104,Gesuch eines ehemaligen Starossen von Pru¬ || simski und eines Xaver Jezierski um Gestat
+1,1,18,19,¬,remit,tiren,remittiren,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"aterland, zur Berichtserstattung zu remit¬ || tiren geruhet. Da ich zu unsrer vollständi"
+1,1,20,21,¬,ver,handelten,verhandelten,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,"r über ihre Vergehen und ihr Vermögen ver¬ || handelten Akten nothwendig halte, so habe "
+1,1,24,25,¬,Abgan,ge,Abgange,join,high,head is not a word on its own,False,0,278,0,10,1,,"ligst mitzuzeichnen, das mundum zum Abgan¬ || ge befördern, das Concept aber geneigt zur"
+2,1,39,40,¬,Con,fiscations,Confiscations,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,," Canonicus von Jezierski verhandelten Con¬ || fiscations-Acten eingeschickt hat, verfehl"
+2,1,40,41,¬,beige,hend,beigehend,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,454,0,119132,1,3897,"hle ich nicht, solche Ew. Excellenz beige¬ || hend in 6 Voluminibus, imgleichen das Conc"
+2,1,42,43,¬,er,gebenstem,ergebenstem,join,high,"joined form attested in DWDS (4,887,614 hits)",False,0,4887614,8,,1,,"erichte, zu communiciren, mit dem ganz er¬ || gebenstem Ersuchen, wenn dieselben gegen d"
+2,1,44,45,¬,mei,ner,meiner,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,0,0,64013,1,152600,"nen, das Mundum anfertigen, und es zu mei¬ || ner Mitunterschrift gelangen zu laßen, das"
+2,1,45,46,¬,ge,neigt,geneigt,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,," laßen, das Concept und die Acten aber ge¬ || neigt an mich zu remittiren."
+2,1,50,51,-,Staats,Krieges,StaatsKrieges,split,high,joined form unattested; both halves are real words,False,0,0,0,7220537,2,4755134,des Königln. würkl. Geheimen Staats- || Krieges-Cabinets- und dirigirenden
+3,1,63,64,¬,er,leuchteter,erleuchteter,join,high,"joined form attested in DWDS (44,171 hits)",False,0,44171,8,,1,,mit Eurer Excellenz er¬ || leuchteter Meinung wegen
+3,1,65,66,¬,Je,zierski,Jezierski,join,high,joined form occurs elsewhere in this corpus,False,14,,0,,1,,"des Prusiemski und des Je¬ || zierski, habe ich den von Eu¬"
+3,1,66,67,¬,Eu,wer,Euwer,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,41,0,66501,1,26528628,"zierski, habe ich den von Eu¬ || wer Excellenz mir geneigtest"
+3,1,68,69,¬,unter,zeichnet,unterzeichnet,join,high,"joined form attested in DWDS (827,463 hits)",False,0,827463,1,,1,,"mitgetheilten Bericht unter¬ || zeichnet, und mundiren las¬"
+3,1,69,70,¬,las,sen,lassen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"zeichnet, und mundiren las¬ || sen; und gebe mir die Ehre,"
+3,1,71,72,¬,gefälli,gen,gefälligen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,3,,"die Reinschrift, zur gefälli¬ || gen Mitzeichnung und Ab¬"
+3,1,72,73,¬,Ab,sendung,Absendung,join,high,"joined form attested in DWDS (27,933 hits)",False,0,27933,0,,1,,"gen Mitzeichnung und Ab¬ || sendung, nebst dem Concept"
+3,1,75,76,¬,ein,zigen,einzigen,join,high,"joined form attested in DWDS (8,219,887 hits)",False,0,8219887,2,,1,,"überſenden. An der ein¬ || zigen Stelle, so es heißt:"
+3,1,77,78,¬,Vermö,gens,Vermögens,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,daß es bey der Vermö¬ || gens confiscation unab¬
+3,1,78,79,¬,unab,änderlich,unabänderlich,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"gens confiscation unab¬ || änderlich bleiben müsse, habe"
+3,1,80,81,¬,ledig,lich,lediglich,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"ich, da dieser Punct ledig¬ || lich zu Dero Ressort ge¬"
+3,1,81,82,¬,ge,höret,gehöret,join,high,"joined form attested in DWDS (17,676,299 hits)",False,0,17676299,1,,1,,"lich zu Dero Ressort ge¬ || höret, hinzufügen in[?] müssen"
+3,1,85,87,,eine,eine,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,eine || eine Meinung zu äußern
+3,2,94,95,¬,Dank,sagung,Danksagung,join,high,"joined form attested in DWDS (39,350 hits)",False,0,39350,0,,1,,mit Dank¬ || sagung hier wieder
+4,1,104,105,¬,Va,terland,Vaterland,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"ski und des Xaver von Jezierski in ihr Va¬ || terland betreffend, die originaliter sub v"
+4,1,107,108,¬,Supplican,ten,Supplicanten,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,15,,cht und zugleich die den beiden Supplican¬ || ten zu ertheilende Resolution und die an d
+4,1,108,109,¬,er,forderliche,erforderliche,join,high,"joined form attested in DWDS (4,862,914 hits)",False,0,4862914,8,,1,,"tion und die an die Regierung zu Posen er¬ || forderliche Verfügung, im Concept und Mund"
+4,1,110,111,¬,Ver,sehen,Versehen,join,high,"joined form attested in DWDS (167,318 hits)",False,0,167318,1,,1,,e dero geehrtesten Schreiben wohl aus Ver¬ || sehen der Canzley beygefügte Abschrift des
+4,1,111,112,¬,wahr,scheinlich,wahrscheinlich,join,high,"joined form attested in DWDS (3,669,525 hits)",False,0,3669525,0,,1,,"te Abschrift des gemeinschaftlichen, wahr¬ || scheinlich zu Ew. Excellenz Acten bestimmt"
+4,1,113,114,¬,er,folgter,erfolgter,join,high,"joined form attested in DWDS (405,400 hits)",False,0,405400,8,,1,," Bitte, das Concept und die Munda nach er¬ || folgter Mitunterschrift, geneigt an mich z"
+4,1,118,119,-,Staats,Krieges,StaatsKrieges,split,high,joined form unattested; both halves are real words,False,0,0,0,7220537,2,4755134,des Königl. würkl. Geheimen Staats- || Krieges-Cabinets und dirigirenden Fi¬
+4,1,119,120,¬,Fi,nanz,Finanz,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,Krieges-Cabinets und dirigirenden Fi¬ || nanz Ministers Herrn Grafen von Haugwitz
+4,3,144,145,¬,an,zeigen,anzeigen,join,high,joined form occurs elsewhere in this corpus,False,1,,27,,1,,geschehen sey anhero an¬ || zeigen
+4,3,147,148,¬,Mit,Haug,MitHaug,split,high,joined form unattested; both halves are real words,False,0,0,9,437384648,3,93254,v. Voss zur Mit¬ || [?] Haug[witz]
+5,1,155,156,¬,we,gen,wegen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"d des Xaver von Jezierski welche sich, we¬ || gen Teilname an der SüdPreußischen Insurre"
+5,1,160,161,¬,erforder,ten,erforderten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,15,,m die von der Regierung zu Posen erforder¬ || ten Acten eingegangen sind können wie nunm
+5,1,161,162,¬,fol,gendes,folgendes,join,high,"joined form attested in DWDS (8,217,138 hits)",False,0,8217138,0,,1,, eingegangen sind können wie nunmehro fol¬ || gendes allerunterthänigst anzeigen.
+5,1,164,165,¬,Süd,preußischen,Südpreußischen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,en August. 1794 vor dem Ausbruche der Süd¬ || preußischen Insurrection von seinen bey Ka
+5,1,165,166,¬,belege,nen,belegenen,join,high,"joined form attested in DWDS (2,024 hits)",False,0,2024,0,,2,,nsurrection von seinen bey Kalisch belege¬ || nen Gütern nach seinen Smilowicer Gütern i
+5,1,171,172,¬,entwor,fen,entworfen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"gediehen, die Confoederations Acte entwor¬ || fen und vollzogen sey. Er soll auch zu den"
+5,1,172,173,¬,Süd,Preußischen,SüdPreußischen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,zogen sey. Er soll auch zu denjenigen Süd¬ || Preußischen von Adel gehören welche im Win
+5,1,173,174,¬,we,gen,wegen,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,, Adel gehören welche im Winter 1793/94 we¬ || gen der Polnischen Staatsveränderungen in 
+5,1,176,177,¬,soge,nannten,sogenannten,join,high,"joined form attested in DWDS (5,331,766 hits)",False,0,5331766,0,,1,,ch jedoch nur gröstentheils in einem soge¬ || nannten Memoire raisonne welches aus den A
+5,1,178,179,¬,Offi,cianten,Officianten,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,33,0,1186,1,0,icht benannten vertrauten Pohlen und Offi¬ || cianten angefertiget wurde und sind nicht 
+5,1,183,184,¬,Insur,genten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"er, wie es in Absicht einiger Haupt Insur¬ || genten"
+5,2,187,188,¬,ergan,genen,ergangenen,join,high,"joined form attested in DWDS (609,780 hits)",False,0,609780,0,,1,,"es Fiscals, deshalb weil er auf die ergan¬ || genen allgemeinen Verordnungen nicht, zurü"
+5,2,188,189,¬,zurückge,kehrt,zurückgekehrt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,," allgemeinen Verordnungen nicht, zurückge¬ || kehrt war, den Confiscations Proceß, ein."
+5,2,194,195,¬,Con,fiscation,Confiscation,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,iner Rückkehr Hofnung gemacht und die Con¬ || fiscation abzuwenden gesucht; da er indeße
+5,2,197,198,¬,beschrit,ten,beschritten,join,high,"joined form attested in DWDS (195,147 hits)",False,0,195147,0,,15,,", und nachdem es die Rechtskraft beschrit¬ || ten hatte, wurden, seine Trampczyner Güter"
+5,2,211,212,¬,In,surrection,Insurrection,join,high,joined form occurs elsewhere in this corpus,False,6,,21,,1,,"thätigsten mitgewürckt haben, um diese In¬ || surrection zu Stande zu bringen. Er soll d"
+5,2,212,213,¬,Procla,mationen,Proclamationen,join,high,head is not a word on its own,False,0,5,0,0,1,," zu Stande zu bringen. Er soll die Procla¬ || mationen von des Volk entworfen, Mannschaf"
+5,3,217,218,-,Sicherheits,Commission,SicherheitsCommission,split,high,joined form unattested; both halves are real words,False,0,0,0,5135,1,20306, den Insurgenten angeordneten Sicherheits- || Commission gewesen seyn.
+5,3,219,220,¬,zurück,kehrte,zurückkehrte,join,high,"joined form attested in DWDS (1,477,957 hits)",False,0,1477957,0,,1,,"n ihn, der von seiner Flucht nicht zurück¬ || kehrte wurde blos der Confiscations Proceß"
+5,3,222,223,¬,Ein,künften,Einkünften,join,high,"joined form attested in DWDS (306,561 hits)",False,0,306561,2,,1,,"ermögens erkannt, welches nur aus den Ein¬ || künften seiner in Sequestration genommenen"
+5,3,224,225,¬,be,stand,bestand,join,high,"joined form attested in DWDS (11,978,418 hits)",False,0,11978418,0,,1,,"nachher anderweitig besetzten Pfründen be¬ || stand, deren er auch durch das Urtel entse"
+5,3,229,230,¬,Insur,rection,Insurrection,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,ach Maasgabe ihrer Theilname an der Insur¬ || rection sind sie durch die Confiscation ih
+5,3,230,231,¬,Ver,mögens,Vermögens,join,high,joined form occurs elsewhere in this corpus,False,3,,1,,1,,"sind sie durch die Confiscation ihres Ver¬ || mögens, wobey es unabänderlich verbleiben "
+5,3,237,238,¬,unter,werfen,unterwerfen,join,high,"joined form attested in DWDS (330,481 hits)",False,0,330481,1,,1,,"mäßigen Geld oder Festungsstrafe unter¬ || werfen, bestraft worden. Ihre Theilname is"
+5,3,239,240,¬,an,dern,andern,join,high,"joined form attested in DWDS (358,953 hits)",False,0,358953,27,,1,,"nicht von der Art, daß sie dadurch vor an¬ || dern, die im Lande geblieben, oder nachher"
+5,3,241,242,¬,cha,racterisirt,characterisirt,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,0,0,64522,1,0,"kgekehrt sind, als gefährliche Männer cha¬ || racterisirt würden und da ihr Gesuch nur"
+5,3,243,245,,auf,auf,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"auf || auf Erlaubniß zur Rückkehr gerichtet ist, "
+5,4,246,247,¬,dafürhal,tens,dafürhaltens,join,high,head is not a word on its own,False,0,12,0,0,1,,ind wir des allerunterthänigsten dafürhal¬ || tens:
+5,4,250,251,¬,Aller,höchsten,Allerhöchsten,join,high,"joined form attested in DWDS (71,536 hits)",False,0,71536,0,,1,,ches wir jedoch lediglich Ew. K. M. Aller¬ || höchsten Beurtheilung devotest anheimstell
+6,1,261,262,¬,zurückge,hende,zurückgehende,join,high,"joined form attested in DWDS (40,649 hits)",False,0,40649,0,,1,,"ründe, über das hierneben wieder zurückge¬ || hende Gesuch des vormaligen Starosten von "
+6,1,266,267,¬,Vater,land,Vaterland,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,"etene Erlaubniß zur Rückkehr in ihr Vater¬ || land hierdurch ertheilen, und Euch darnach"
+6,1,267,268,¬,weite,ren,weiteren,join,high,"joined form attested in DWDS (47,703,136 hits)",False,0,47703136,0,,1,," und Euch darnach die Verfügung des weite¬ || ren überlaßen, als Euer wohlaffectionirter"
+7,1,278,279,¬,ein,geschafften,eingeschafften,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,20,2,0,1,13095,mittelst Berichts vom 24. ten März c. ein¬ || geschafften 6. Vol: Akten in der Untersuch
+7,1,279,280,¬,ehema,ligen,ehemaligen,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,n der Untersuchungs Sache wider den ehema¬ || ligen Starosten Anton v. Prusiemski und de
+7,1,281,282,¬,ab,schriftl,abschriftl,join,held,"hand: a word broken at the line end (Claude, 2026-11-20)",False,0,0,0,49097723,1,12305,"ttiren, laßen wir Euch zugleich in der ab¬ || schriftl: Anlage die unterm 10. v. M. erga"
+7,1,285,286,¬,jäh,rigen,jährigen,join,high,"joined form attested in DWDS (262,995 hits)",False,0,262995,0,,1,,"s-Confiscation, verbunden mit ihrer 9 jäh¬ || rigen Verbannung, für eine hinreichende Be"
+7,1,286,287,¬,Theil,nahme,Theilnahme,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,, eine hinreichende Bestrafung ihrer Theil¬ || nahme an der Insurrection geachtet worden.
+8,1,298,299,¬,Imme,diat,Immediat,join,high,"joined form attested in DWDS (11,037 hits)",False,0,11037,0,,1,,und dem Xaver von Jezierski auf ihre Imme¬ || diat-Vorstellung vom 27. Jan: d. J. hierdu
+8,1,300,301,¬,Vater,land,Vaterland,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,"etene Erlaubniß zur Rückkehr in ihr Vater¬ || land in der Voraussetzung, daß sie sich do"
+8,1,303,304,¬,Confis,cation,Confiscation,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,, rechtskräftig erkannten Vermögens-Confis¬ || cation sein unabänderliches Bewenden behal
+8,2,307,308,¬,Bestra,fung,Bestrafung,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,onst weiter keine Untersuchung und Bestra¬ || fung wegen ihrer Theilnahme an der Insurre
+8,2,309,310,¬,er,laßen,erlaßen,join,high,"joined form attested in DWDS (550,268 hits)",False,0,550268,8,,8,,o das Nötige an die Regierung zu Posen er¬ || laßen worden.
+9,1,326,327,¬,ver,mittelst,vermittelst,join,high,"joined form attested in DWDS (2,986,650 hits)",False,0,2986650,1,,2,,Da Sr. Königl. Majestät ver¬ || mittelst Cabinets Ordre
+9,1,330,331,¬,Xa,ver,Xaver,join,high,joined form occurs elsewhere in this corpus,False,10,,0,,1,,von Prusiemski und dem Xa¬ || ver von Jezierski die erbethe¬
+9,1,331,332,¬,erbethe,ne,erbethene,join,high,head is not a word on its own,False,0,0,0,0,2,,ver von Jezierski die erbethe¬ || ne Erlaubniß zur Rückkehr
+9,1,333,334,¬,allergnä,digst,allergnädigst,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,in ihr Vaterland allergnä¬ || digst zu ertheilen; so ver¬
+9,1,334,335,¬,ver,fehle,verfehle,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,,digst zu ertheilen; so ver¬ || fehle ich nicht solches durch
+9,1,342,343,¬,erlaße,ne,erlaßene,join,high,"joined form attested in DWDS (79,073 hits)",False,0,79073,0,,2,,Kammer zu Posen erlaße¬ || ne im Concept und Mundo
+9,1,344,345,¬,Notifica,torium,Notificatorium,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,seiner beigefügte Notifica¬ || torium mit zuzeichnen belie¬
+9,1,345,346,¬,belie,ben,belieben,join,high,"joined form attested in DWDS (203,885 hits)",False,0,203885,0,,1,,torium mit zuzeichnen belie¬ || ben werden.
+10,1,355,356,¬,ver,bindlichst,verbindlichst,join,high,"joined form attested in DWDS (744,158 hits)",False,0,744158,1,,1,,Ewr Excellenz danke ich ver¬ || bindlichst für die mir mit¬
+10,1,356,357,¬,mit,telst,mittelst,join,high,joined form occurs elsewhere in this corpus,False,2,,9,,1,,bindlichst für die mir mit¬ || telst geehrtesten Zuschrift
+10,1,361,362,¬,geneig,test,geneigtest,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,Nachricht. Mit der mir geneig¬ || test communicirten
+10,1,363,364,¬,De,nen,Denen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,original Cabinets Ordre remittire ich De¬ || nen
+10,2,370,371,¬,Mitzeich,nung,Mitzeichnung,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,daß ich unter Mitzeich¬ || nung des Königl. Et. Min.

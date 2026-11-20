@@ -63,6 +63,10 @@ places:
     - form: Prosrzyner
       seen_in:
       - Hohenlohe corpus
+    - form: Trampczyner
+      match: true
+      seen_in:
+      - ihagrrep7cnr3132-5
     - form: Drommin
       match: true
       seen_in:
@@ -1793,6 +1797,10 @@ places:
     display: Neustadt
     kind: town
     match: Neustadt?(?![a-zà-ÿ])
+    # Jezierski's parish 'Pfarrer zu Neustadt' (I. HA GR, Rep. 7 C, Nr. 3132, 5)
+    # is a Polish Nowe Miasto not identified, not this town.
+    not_in:
+    - ihagrrep7cnr3132-5
     tier: Established
     variants:
     - Neustad

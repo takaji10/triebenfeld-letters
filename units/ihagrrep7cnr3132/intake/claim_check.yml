@@ -1,0 +1,334 @@
+# Applied 2026-11-20 (intake/write_summaries.py): all ten OVERSTATED and the one
+# UNSUPPORTED statement weakened or cut as proposed. Kept, with the reason:
+# "draft" for documents 3, 9, 10 and 11 is the edition's document type, read
+# from the layout (text down the right half, address and dispatch notes in
+# the left; docs/GOVERNMENT_FILES.md), not a claim about the text.
+# Claim check of the summaries of I. HA GR, Rep. 7 C, Nr. 3132 (Sonnet sub-agent, 2026-11-20).
+documents:
+  "1":
+    statements:
+      - claim: "Goldbeck to Haugwitz, Berlin, 19 February 1803"
+        verdict: SUPPORTED
+        evidence: "Berlin, den 19ten Februar 1803. Goldbeck / An ... Grafen von Haugwitz"
+      - claim: "received 23 February"
+        verdict: SUPPORTED
+        evidence: "pr dem 23 Februar 1803"
+      - claim: "The King has sent them both, for a report, the original petition of a former Starost von Prusimski and of one Xaver Jezierski for leave to return"
+        verdict: SUPPORTED
+        evidence: "Des Königs Majestät haben an Euer Excellenz und mich das originaliter anliegende Gesuch ... um Gestattung ihrer Rükkehr in ihr Vaterland, zur Berichtserstattung zu remittiren geruhet"
+      - claim: "Goldbeck thinks it necessary to see the files on their offences and property"
+        verdict: SUPPORTED
+        evidence: "die Einsicht der über ihre Vergehen und ihr Vermögen verhandelten Akten nothwendig halte"
+      - claim: "he has had a rescript to the Government at Poznań dispatched, enclosed in draft and fair copy"
+        verdict: SUPPORTED
+        evidence: "das im Concept und mundo beigefügte Rescript an die Regierung zu Posen expediren lassen"
+      - claim: "asks Haugwitz to countersign it, forward the fair copy and return the draft to the Privy State Chancery"
+        verdict: SUPPORTED
+        evidence: "mitzuzeichnen, das mundum zum Abgange befördern, das Concept aber geneigt zur Geheimen Etats Kanzley retradiren zu laßen"
+      - claim: "Signed Goldbeck"
+        verdict: SUPPORTED
+        evidence: "Goldbeck"
+  "2":
+    statements:
+      - claim: "Goldbeck to Haugwitz, Berlin, 22 April 1803, received the same day"
+        verdict: SUPPORTED
+        evidence: "pr den 22t April 1803 ... Berlin den 22ten April 1803. Goldbeck"
+      - claim: "The Government at Poznań has sent in the files of the confiscation proceedings against Anton von Prusimski and the canon von Jezierski"
+        verdict: SUPPORTED
+        evidence: "Nachdem die Regierung zu Posen die wider den ehemaligen Starosten Anton von Prusiemski und den Canonicus von Jezierski verhandelten Confiscations-Acten eingeschickt hat"
+      - claim: "he passes them on in 6 volumes"
+        verdict: SUPPORTED
+        evidence: "solche Ew. Excellenz beigehend in 6 Voluminibus ... zu communiciren"
+      - claim: "with his draft of the joint report the King has asked for"
+        verdict: SUPPORTED
+        evidence: "das Concept zu dem, von des Königs Majestät erforderten, gemeinschaftlichem Berichte"
+      - claim: "if Haugwitz has no objection he is to countersign, have the fair copy made and sent to Goldbeck for co-signature, and return draft and files"
+        verdict: SUPPORTED
+        evidence: "wenn dieselben gegen das Letztere nichts zu erinnern haben sollten, solches gefälligst mitzuzeichnen, das Mundum anfertigen, und es zu meiner Mitunterschrift gelangen zu laßen, das Concept und die Acten aber geneigt an mich zu remittiren"
+      - claim: "Signed Goldbeck"
+        verdict: SUPPORTED
+        evidence: "Goldbeck"
+  "3":
+    statements:
+      - claim: "Haugwitz's draft of his reply to Goldbeck, Berlin, 29 April 1803"
+        verdict: SUPPORTED
+        evidence: "An ... Herrn von Goldbeck Exellenz ... Berlin d 29 Apr 1803. Haug[witz]; 'draft' is not stated in the text, only the form (marginal notes) suggests it"
+      - claim: "in full agreement with Goldbeck's opinion on Prusimski and Jezierski"
+        verdict: SUPPORTED
+        evidence: "Im völligen Einverständnis mit Eurer Excellenz erleuchteter Meinung wegen des Prusiemski und des Jezierski"
+      - claim: "he has signed the report Goldbeck sent him and had it engrossed"
+        verdict: SUPPORTED
+        evidence: "habe ich den von Euwer Excellenz mir geneigtest mitgetheilten Bericht unterzeichnet, und mundiren lassen"
+      - claim: "sends the fair copy for Goldbeck's countersignature and dispatch, with the draft"
+        verdict: SUPPORTED
+        evidence: "die Reinschrift, zur gefälligen Mitzeichnung und Absendung, nebst dem Concept Denenselben ergebenst zu überſenden"
+      - claim: "at the one place where the report says the confiscation must remain unalterable he has added that he refrains from expressing an opinion"
+        verdict: SUPPORTED
+        evidence: "An der einzigen Stelle, so es heißt: daß es bey der Vermögens confiscation unabänderlich bleiben müsse, habe ich ... hinzufügen in[?] müssen geglaubt, daß ich eine Meinung zu äußern mich enthalte (one doubtful word, 'in[?]', does not touch the sense)"
+      - claim: "because the point belongs to Goldbeck's department and lies outside his own"
+        verdict: SUPPORTED
+        evidence: "da dieser Punct lediglich zu Dero Ressort gehöret ... da dieser Umstand ausserhalb meines Geschäfts Kreises liegt"
+      - claim: "he returns the files with thanks"
+        verdict: SUPPORTED
+        evidence: "Die mir geneigtest Communicirten Acta füge ich mit Danksagung hier wieder bey"
+      - claim: "Signed Haug[witz]"
+        verdict: SUPPORTED
+        evidence: "Haug[witz]"
+      - claim: "A note of the office records 3 May with 2 volumes of files"
+        verdict: OVERSTATED
+        evidence: "d. 3ten May. ins: cum 2 vol: Actor: pLch: (the note is not attributed to an office, 'ins:' and 'pLch:' are not read, and what the date records is not stated; and 2 volumes sit oddly with the 6 volumes of document 2)"
+        fix: "A note below the text reads 'd. 3ten May. ins: cum 2 vol: Actor:' (3 May, 'with 2 volumes of files'; its other words not read)."
+  "4":
+    statements:
+      - claim: "Goldbeck to Haugwitz, Berlin, 11 May 1803, received 21 May"
+        verdict: SUPPORTED
+        evidence: "pr den 21. May 1803 ... Berlin den 11ten May 1803. Goldbeck"
+      - claim: "registry number 1261 (given as a feature of Goldbeck's letter)"
+        verdict: OVERSTATED
+        evidence: "the bare number '1261' stands only on the slip (page 0013_a2, under 'Cito'); the text nowhere calls it a Journalnummer or registry number, and it is not on Goldbeck's letter"
+        fix: "Drop 'registry number 1261' from the letter's opening; in the slip's sentence say 'the number 1261 stands at the head of the slip'."
+      - claim: "the King's cabinet order of the day before has answered their joint report on the return of Prusimski and Jezierski"
+        verdict: SUPPORTED
+        evidence: "Nachdem auf unsern gemeinschaftlichen Bericht, die Rückkehr des Anton von Prusiemski und des Xaver von Jezierski in ihr Vaterland betreffend, die ... Cabinets Ordre vom gestrigen dato eingegangen"
+      - claim: "he sends it in the original, to be returned"
+        verdict: SUPPORTED
+        evidence: "die originaliter sub voto remissionis anliegende Cabinets Ordre"
+      - claim: "with it, for countersignature, the drafts and fair copies of the resolution to the two petitioners and of the order to the Government at Poznań"
+        verdict: SUPPORTED
+        evidence: "die den beiden Supplicanten zu ertheilende Resolution und die an die Regierung zu Posen erforderliche Verfügung, im Concept und Mundo, zur gefälligen Mitzeichnung"
+      - claim: "a copy of the joint report which the chancery had attached by mistake to Haugwitz's letter and which was probably meant for Haugwitz's files"
+        verdict: OVERSTATED
+        evidence: "eine dero geehrtesten Schreiben wohl aus Versehen der Canzley beygefügte Abschrift des gemeinschaftlichen, wahrscheinlich zu Ew. Excellenz Acten bestimmten Berichtes (both 'wohl' and 'wahrscheinlich' hedge)"
+        fix: "a copy of the joint report which the chancery had probably attached by mistake to Haugwitz's letter and which was probably meant for his files."
+      - claim: "he asks for the drafts and fair copies back once co-signed"
+        verdict: SUPPORTED
+        evidence: "das Concept und die Munda nach erfolgter Mitunterschrift, geneigt an mich zu remittiren"
+      - claim: "Signed Goldbeck"
+        verdict: SUPPORTED
+        evidence: "Goldbeck"
+      - claim: "The slip is 'of Haugwitz's office'"
+        verdict: OVERSTATED
+        evidence: "the slip (0013_a2, 0014_a1) names no author or office; only its last line carries 'Haug[witz]' (as read)"
+        fix: "A slip follows (its writer is not named) that ends with a paraph read Haug[witz]."
+      - claim: "the slip is marked urgent"
+        verdict: SUPPORTED
+        evidence: "Cito"
+      - claim: "the slip's number 1261"
+        verdict: OVERSTATED
+        evidence: "1261 (bare number under 'Cito'; 'registry number' is an interpretation)"
+        fix: "with the number 1261 at its head."
+      - claim: "the fair copies are to be laid before someone for signature with the draft (the words naming him are not read)"
+        verdict: SUPPORTED
+        evidence: "1, Die munda sind zu Sr[?] [?] Unterschrift vorzulegen[?] so wie das Concept."
+      - claim: "then delivered to Goldbeck's department with the cabinet order"
+        verdict: SUPPORTED
+        evidence: "Quo facti sind sie mit der Cab Ordre act. Cop. der Cab. O. und der Expe. Sr Exc v. Goldbeck depart abzugeben (the copy of the cabinet order, which the slip also names, is left out, harmless)"
+      - claim: "the Chamber is to be sent a notificatorium telling it to have the two take the oath of allegiance and to report that it has been done"
+        verdict: SUPPORTED
+        evidence: "3, Exp. notificatorium an die Cammer cum mand. [?] diese subjecte den Huldigungseid leisten zulassen u wie es geschehen sey anhero anzeigen (the word after 'mand.' is not read)"
+      - claim: "to be countersigned by von Voss"
+        verdict: OVERSTATED
+        evidence: "4, Camm. Exp. 3. [?] v. Voss zur Mit¬ / [?] Haug[witz] (the verb is 'zur Mit...' with the rest lost between doubtful marks, and the item is not clearly tied to the notificatorium)"
+        fix: "Item 4 names 'v. Voss zur Mit...' (the words around it not read), apparently concerning the Chamber paper."
+      - claim: "the slip ends with a paraph read Haug[witz] and the date 27 May"
+        verdict: SUPPORTED
+        evidence: "[?] Haug[witz] / 27 May [?]"
+      - claim: "several words of the slip are not read"
+        verdict: SUPPORTED
+        evidence: "numerous [?] marks"
+  "5":
+    statements:
+      - claim: "A copy of the joint report of Goldbeck and Haugwitz to the King, Berlin, 30 April 1803"
+        verdict: SUPPORTED
+        evidence: "Copia ... Ew. Königl. Majestät ... Berlin den 30ten April. 1803 Goldbeck. Haugwitz"
+      - claim: "on the representation of the former Starost von Prusimski and Xaver von Jezierski, who had left the country because of their part in the South Prussian insurrection and had asked from Dresden for leave to return"
+        verdict: SUPPORTED
+        evidence: "welche sich, wegen Teilname an der SüdPreußischen Insurrection, ausser Landes begeben, und jetzt von Dresden um die Erlaubniß zur Rückkehr in ihr Vaterland gebeten haben"
+      - claim: "Prusimski was accused of having gone on 2 August 1794, before the outbreak, from his estates near Kalisz to his Smiłowice estates in Kuyavia"
+        verdict: SUPPORTED
+        evidence: "wurde beschuldiget, daß er sich am 2ten August. 1794 vor dem Ausbruche der Südpreußischen Insurrection von seinen bey Kalisch belegenen Gütern nach seinen Smilowicer Gütern in dem ... Districte von Cujavien begeben"
+      - claim: "of having received daily visits from the neighbouring nobility"
+        verdict: SUPPORTED
+        evidence: "dort tägliche Besuche von dem benachbarten Adel erhalten"
+      - claim: "and of the so-called Kuyavian insurrection having been concluded at his house on 21 August, the act of confederation drafted and executed"
+        verdict: SUPPORTED
+        evidence: "bey ihm am 21 Aug: die sogenannte Cujavische Insurrection zum Abschluße gediehen, die Confoederations Acte entworfen und vollzogen sey ('bey ihm' = with him; 'at his house' is a small narrowing, and the German summary says only 'bei ihm')"
+      - claim: "he is also said to have been among the South Prussian noblemen who met at Dresden in winter 1793/94 on account of the Polish changes of state"
+        verdict: SUPPORTED
+        evidence: "Er soll auch zu denjenigen SüdPreußischen von Adel gehören welche im Winter 1793/94 wegen der Polnischen Staatsveränderungen in Dresden zusammengetreten sind"
+      - claim: "these accusations rest mostly on a Memoire raisonné drawn up from statements of unnamed trusted Poles and officials"
+        verdict: SUPPORTED
+        evidence: "gründen sich jedoch nur gröstentheils in einem sogenannten Memoire raisonne welches aus den Angaben einiger nicht benannten vertrauten Pohlen und Officianten angefertiget wurde"
+      - claim: "and were never closely examined"
+        verdict: OVERSTATED
+        evidence: "sind nicht genau untersucht worden (not closely examined; 'never' goes beyond it)"
+        fix: "and were not closely examined."
+      - claim: "The Government did not think them sufficient for the criminal proceedings against absent offenders that were brought against some chief insurgents"
+        verdict: SUPPORTED
+        evidence: "Die Regierung hielt solche auch nicht dazu hinreichend wider ihn den Criminial Proceß gegen abwesende Verbrecher, wie es in Absicht einiger Haupt Insurgenten geschah, zu verfügen"
+      - claim: "at the instance of the fiscal it instituted only the confiscation proceedings, because he had not returned under the general ordinances"
+        verdict: SUPPORTED
+        evidence: "leitete nur auf Instanz des Fiscals, deshalb weil er auf die ergangenen allgemeinen Verordnungen nicht zurückgekehrt war, den Confiscations Proceß, ein"
+      - claim: "publicly summoned, he held out hope of return from Italy, where his wife, who also died there, was said to have had to stay for her health, and tried to avert the confiscation"
+        verdict: SUPPORTED
+        evidence: "gehörig öffentlich vorgeladen ... von Italien aus, wo sich damals angeblich seine auch dort verstorbene Ehegattin zur Herstellung ihrer Gesundheit, aufhalten mußte, zu seiner Rückkehr Hofnung gemacht und die Confiscation abzuwenden gesucht"
+      - claim: "as he did not appear the sentence of confiscation was passed, and when final his Trąbczyn estates were given to the Prince of Hohenlohe, Pawłowo to Major General von Sanitz, Smiłowice to Lieutenant General von Bischofswerder"
+        verdict: SUPPORTED
+        evidence: "da er indeßen doch nicht erschien; so wurde das Confiscations Urtel abgefaßt, und nachdem es die Rechtskraft beschritten hatte, wurden, seine Trampczyner Güter dem Herrn Fürsten von Hohenlohe, seine Pawlower Güter dem jetzigen General Major von Sanitz, und seine Smilowicer Güter dem General Lieutenant von Bischofswerder geschenkt"
+      - claim: "he held no other property in the country"
+        verdict: SUPPORTED
+        evidence: "Außer diesen hat er weiter kein Vermögen im Lande besessen"
+      - claim: "Jezierski, canon in Włocławek and parish priest at Neustadt"
+        verdict: SUPPORTED
+        evidence: "war Canonicus in Wraclawek und Pfarrer zu Neustadt"
+      - claim: "named in the Memoire and by named persons as one of those who stayed most often with Prusimski at Smiłowice before the insurrection and worked most actively to bring it about"
+        verdict: SUPPORTED
+        evidence: "theils durch das oben erwähnte Memoire, theils von namhaft gemachten Personen als einer von denen angegeben, die sich vor dem Ausbruche der Cujavischen Insurrection am häufigsten bey dem v Prusiemski zu Smilowice aufgehalten und am thätigsten mitgewürckt haben"
+      - claim: "he is said to have drafted the proclamations to the people, raised men and sat on the insurgents' security commission"
+        verdict: SUPPORTED
+        evidence: "Er soll die Proclamationen von des Volk entworfen, Mannschaften zusammengebracht haben, und Mitglied einer damals von den Insurgenten angeordneten Sicherheits-Commission gewesen seyn"
+      - claim: "against him too only the confiscation proceedings; his small property, the income of his benefices, confiscated, and he deprived of them"
+        verdict: SUPPORTED
+        evidence: "wurde blos der Confiscations Proceß eingeleitet und rechtskräftig auf Confiscation seines geringen vermögens erkannt, welches nur aus den Einkünften seiner in Sequestration genommenen und nachher anderweitig besetzten Pfründen bestand, deren er auch durch das Urtel entsetzt würde"
+      - claim: "neither has been declared to have forfeited his nobility, and no capital punishment fixed or reserved"
+        verdict: SUPPORTED
+        evidence: "Des Adels ist keiner von beiden Supplicanten verlustig erklärt, noch sonst eine Lebensstrafe gegen sie festgesetzt oder vorbehalten worden"
+      - claim: "the confiscation must stand, a point on which Haugwitz as outside his department expresses no opinion"
+        verdict: SUPPORTED
+        evidence: "wobey es unabänderlich verbleiben muß /: ein Punct über welchen ich der Graf v. Haugwitz eine Meinung zu äußern mich enthalte, da solcher nicht meines Ressorts ist :/"
+      - claim: "the two have been punished more harshly than many who returned and submitted to a moderate fine or fortress term"
+        verdict: SUPPORTED
+        evidence: "härter als viele andere welche zurückkehrten und sich einer mäßigen Geld oder Festungsstrafe unterwerfen, bestraft worden"
+      - claim: "their part does not mark them out as more dangerous than others who stayed or returned"
+        verdict: SUPPORTED
+        evidence: "Ihre Theilname ist auch nicht von der Art, daß sie dadurch vor andern, die im Lande geblieben, oder nachher dahin zurückgekehrt sind, als gefährliche Männer characterisirt würden"
+      - claim: "since they ask only for leave to return, the ministers advise that it might be granted, leaving it to the King's judgement"
+        verdict: SUPPORTED
+        evidence: "da ihr Gesuch nur auf Erlaubniß zur Rückkehr gerichtet ist ... daß demselben wohl zu deferiren seyn dürfte; welches wir jedoch lediglich Ew. K. M. Allerhöchsten Beurtheilung devotest anheimstellen"
+      - claim: "Signed Goldbeck, Haugwitz"
+        verdict: SUPPORTED
+        evidence: "Goldbeck. Haugwitz"
+  "6":
+    statements:
+      - claim: "A copy of the King's cabinet order to the ministers of state Grand Chancellor von Goldbeck and Count von Haugwitz, Potsdam, 10 May 1803"
+        verdict: SUPPORTED
+        evidence: "Abschrift. Meine lieben Staatsminister Großkanzler von Goldbeck und Graf von Haugwitz! ... Potsdam, den 10ten May 1803. Friedrich Wilhelm"
+      - claim: "in view of the reasons in their report of 30 April"
+        verdict: SUPPORTED
+        evidence: "In Rücksicht der aus Euerm Berichte von 30ten v. M. ersehenen Gründe"
+      - claim: "joining the Grand Chancellor in the view that they have been punished hard enough by the confiscation of their estates and nine years' banishment"
+        verdict: SUPPORTED
+        evidence: "da Ich Eurem des Großkanzlers Sentiment dahin beitrete, daß die Supplicanten durch die Confiscation ihrer Güter und eine neunjährige Verbannung, hart genug bestraft sind"
+      - claim: "the King grants them the leave to return"
+        verdict: SUPPORTED
+        evidence: "will ich denselben die erbetene Erlaubniß zur Rückkehr in ihr Vaterland hierdurch ertheilen"
+      - claim: "leaves the further dispositions to the ministers"
+        verdict: SUPPORTED
+        evidence: "und Euch darnach die Verfügung des weiteren überlaßen"
+      - claim: "He returns the petition"
+        verdict: SUPPORTED
+        evidence: "das hierneben wieder zurückgehende Gesuch"
+  "7":
+    statements:
+      - claim: "A copy of the rescript in the King's name to the South Prussian Government at Poznań, Berlin, 11 May 1803, signed Goldbeck and Haugwitz"
+        verdict: SUPPORTED
+        evidence: "Abschrift. Friedrich Wilhelm p. ... Berlin, den 11ten May 1803. ... Goldbeck Haugwitz / An die SüdPreußl. Regierung zu Posen"
+      - claim: "returns the 6 volumes of files in the inquiry against Prusimski and Jezierski, which the Government had sent with its report of 24 March"
+        verdict: SUPPORTED
+        evidence: "die mittelst Berichts vom 24. ten März c. eingeschafften 6. Vol: Akten in der Untersuchungs Sache wider den ehemaligen Starosten Anton v. Prusiemski und den ehemaligen Canonicum Xaver von Jezierski remittiren"
+      - claim: "sends a copy of the cabinet order of 10 May"
+        verdict: SUPPORTED
+        evidence: "in der abschriftl: Anlage die unterm 10. v. M. ergangene Cabinets-Ordre"
+      - claim: "by which both are granted leave to return"
+        verdict: SUPPORTED
+        evidence: "daß beiden die gebetene Erlaubniß zur Rückkehr in ihr Vaterland ertheilt"
+      - claim: "confiscation together with nine years' banishment deemed sufficient punishment for their part in the insurrection"
+        verdict: SUPPORTED
+        evidence: "die gegen sie erkannte Vermögens-Confiscation, verbunden mit ihrer 9 jährigen Verbannung, für eine hinreichende Bestrafung ihrer Theilnahme an der Insurrection geachtet worden"
+  "8":
+    statements:
+      - claim: "A copy of the resolution"
+        verdict: UNSUPPORTED
+        evidence: "this document has no heading 'Abschrift' (unlike documents 6 and 7); it begins 'Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton v. Prusiemski ...'"
+        fix: "The resolution in the King's name (the text does not say it is a copy)."
+      - claim: "in the King's name to the former Starost Anton v. Prusimski and Xaver von Jezierski at Dresden, Berlin, 11 May 1803, signed Goldbeck and Haugwitz"
+        verdict: SUPPORTED
+        evidence: "Berlin, den 11ten May 1803. ... Goldbeck Haugwitz / An den ehemaligen Starosten Anton v. Prusiemski und den Xaver von Jezierski zu Dresden"
+      - claim: "answering their immediate representation of 27 January of that year"
+        verdict: SUPPORTED
+        evidence: "auf ihre Immediat-Vorstellung vom 27. Jan: d. J."
+      - claim: "leave to return granted on the assumption that they will conduct themselves there as loyal subjects"
+        verdict: OVERSTATED
+        evidence: "in der Voraussetzung, daß sie sich dort künftig als getreue[?] Unterthanen betragen werden ('getreue' is a doubtful reading)"
+        fix: "on the assumption that they will conduct themselves there in future as [loyal?] subjects."
+      - claim: "the confiscation decreed with final effect stands unalterably, and Jezierski remains deprived of his clerical offices and benefices"
+        verdict: SUPPORTED
+        evidence: "daß es zwar bei der gegen sie rechtskräftig erkannten Vermögens-Confiscation sein unabänderliches Bewenden behalten, auch an dem von Jezierski seiner geistl: Ämter und Pfrunden verlustig bleiben müße"
+      - claim: "otherwise they need fear no further inquiry or punishment for their part in the insurrection"
+        verdict: SUPPORTED
+        evidence: "daß sie aber sonst weiter keine Untersuchung und Bestrafung wegen ihrer Theilnahme an der Insurrection befürchten dürfen"
+      - claim: "The necessary has been ordered to the Government at Poznań the same day"
+        verdict: SUPPORTED
+        evidence: "wonach dato das Nötige an die Regierung zu Posen erlaßen worden"
+  "9":
+    statements:
+      - claim: "Haugwitz's draft of his letter to the minister of state von Voss, Berlin, 30 May 1803"
+        verdict: OVERSTATED
+        evidence: "Berlin den 30 May 1803 / An des König. Et. Min. p von Voss Excellenz. ... ich ... (no signature; the writer is not named and 'Concept' is not said of this letter itself)"
+        fix: "A letter of 30 May 1803 to the minister of state von Voss, unsigned (the writer, speaking as 'ich', is not named; it is evidently Haugwitz, from documents 10 and 11)."
+      - claim: "the King having granted the former Starost von Prusimski and Xaver von Jezierski leave to return by the cabinet order of 10 May"
+        verdict: SUPPORTED
+        evidence: "Da Sr. Königl. Majestät vermittelst Cabinets Ordre vom 10t m. c. geruhet haben, dem vormaligen Starosten von Prusiemski und dem Xaver von Jezierski die erbethene Erlaubniß zur Rückkehr in ihr Vaterland allergnädigst zu ertheilen"
+      - claim: "informs Voss of it by an enclosed copy"
+        verdict: SUPPORTED
+        evidence: "so verfehle ich nicht solches durch die abschriftliche Anlage zu Ew Excellenz näherer Kenntniß zu bringen"
+      - claim: "asks whether Voss will countersign the notificatorium to the Chamber at Poznań, enclosed in draft and fair copy"
+        verdict: SUPPORTED
+        evidence: "stelle Dienst ergebenst anheim ob. dieselben das wegen dieser Angelegenheit an die Kammer zu Posen erlaßene im Concept und Mundo seiner beigefügte Notificatorium mit zuzeichnen belieben werden"
+  "10":
+    statements:
+      - claim: "Haugwitz's draft of his reply to Goldbeck, Berlin, 30 May 1803"
+        verdict: SUPPORTED
+        evidence: "An des Königl. Großkanzlers ... v Goldbeck Excellenz ... Berlin den 30. May 1803. Haug[witz] ('draft' is not stated, only the form suggests it)"
+      - claim: "he thanks Goldbeck for his letter of 11 May with the news of the return of Prusimski and Jezierski"
+        verdict: SUPPORTED
+        evidence: "Ewr Excellenz danke ich verbindlichst für die mir mittelst geehrtesten Zuschrift vom 11. m. c. von der Rückkehr des v. Prusiemski und des Xaver von Jezierski gegebene Nachricht"
+      - claim: "returns the original cabinet order with the drafts and fair copies he has countersigned"
+        verdict: SUPPORTED
+        evidence: "Mit der mir geneigtest communicirten original Cabinets Ordre remittire ich Denenselben hierbei die von mir mitgezeichneten Concepte und Mundo"
+      - claim: "with von Voss's countersignature he has already instructed the Chamber at Poznań to have the two now take the oath of allegiance"
+        verdict: SUPPORTED
+        evidence: "daß ich unter Mitzeichnung des Königl. Et. Min. p v Voss Excellenz auch bereits der Kammer zu Posen aufgegeben habe diesen bei den Subjecten nunmehro den Huldigungseid ableisten zu laßen"
+      - claim: "Signed Haug[witz]"
+        verdict: SUPPORTED
+        evidence: "Haug[witz]"
+      - claim: "A note of the office records 6 June"
+        verdict: OVERSTATED
+        evidence: "[Signature M?] d. 6. ten Juny beides c. alltis ins. (the note is not said to be the office's, and what it records is not read: 'beides c. alltis ins.')"
+        fix: "A note at the head reads 'd. 6ten Juny' (the rest of it not read)."
+  "11":
+    statements:
+      - claim: "The draft of the rescript in the King's name to the Chamber at Poznań, Berlin, 30 May 1803"
+        verdict: SUPPORTED
+        evidence: "Berlin den 30. May 1803 / An die Kammer zu Posen ... Friedrich Wilhelm ... ('draft' from the note 'zur Mitzeichnung ... im Concept und Mundo', not stated of this text itself)"
+      - claim: "signed by Haugwitz"
+        verdict: SUPPORTED
+        evidence: "Ad mand: [M?] Haugwitz"
+      - claim: "marked for the countersignature of von Voss in draft and fair copy"
+        verdict: SUPPORTED
+        evidence: "zur gefälligen Mitzeichnung des König. Et. Min: p von Voss Excellenz im Concept und Mundo"
+      - claim: "sent by post on 8 June"
+        verdict: SUPPORTED
+        evidence: "d 8. Juny c. abg. z Post."
+      - claim: "sends a copy of the cabinet order of 10 May granting Prusimski and Jezierski leave to return"
+        verdict: SUPPORTED
+        evidence: "In der abschriftlichen Anlage laßen Wir Euch die unterm 10t d. M. ergangene Cabinets Ordre zu fertigen wodurch dem ehemaligen Starosten Anton von Prusiemski und den ehemaligen Canonicum Xaver von Jezierski die Erlaubniß zur Rückkehr in ihr Vaterland ertheilt wird"
+      - claim: "commands the Chamber now to have both take the oath of allegiance and to report that it has been done"
+        verdict: SUPPORTED
+        evidence: "befehlen Euch beyden nunmehro den Huldigungseid leisten zu laßen, auch wie solches geschehen anhero zu berichten"
+summary:
+  statements: 96
+  supported: 85
+  overstated: 10
+  wrong: 0
+  unsupported: 1

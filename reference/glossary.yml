@@ -2686,6 +2686,10 @@ entries:
 # Words ruled out, with the reason. glossary_candidates.py does not raise them
 # again.
 excluded:
+  - {word: "Südpr.", reason: "short for Südpreußen (Südpr. General Domainen Departement; the docket Südpr. of I. HA GR, Rep. 7 C, Nr. 3132), rendered South Prussia, which the glossary entry south-prussia explains"}
+  - {word: May, reason: "the month written out in German datelines (pr den 21. May 1803, I. HA GR, Rep. 7 C, Nr. 3132), plain in English as May; not an abbreviation"}
+  - {word: "König.", reason: "König with a full stop at the end of a sentence (Euer wohlaffectionirter König., Nr. 3132) or cut short in an address (des König. Et. Min.); plain in English as King or Royal"}
+  - {word: "Et.", reason: "Etats in the address des König. Et. Min. (Royal State Minister; I. HA GR, Rep. 7 C, Nr. 3132), rendered in the English; an address formula, not a term"}
   - {word: Maja, reason: "the Polish genitive of the month May in datelines and dates (13/25 Maja 1865, APŁ 39/98/0/-/1333; 18 Maja 1805), plain in English as May; not an abbreviation"}
   - {word: Junii, reason: "the Latin genitive of the month in the date formulas (die 17 Mensis Junii, Poznań Gr.1181), plain in English as of June; the numbered month forms are the months-by-number entry's answer"}
   - {word: Jacobi, reason: "in 53/20/0/-/Poznań Gr.1181 the genitive of the man's name (Generosi Jacobi Rzechicki, p. 166), not the feast of St James the termbase offers; the holding has no feast-day Jacobi"}

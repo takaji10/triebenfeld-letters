@@ -209,10 +209,10 @@ people:
     # Two men of the name, told apart by date (editor, 2026-10-04: one entry
     # per person): the Grand Chancellor in 1796-98, the president at Kalisz
     # from 1805.
-    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr1414-1, ihagrrep7cnr3067-1, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14]
+    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr1414-1, ihagrrep7cnr3067-1, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14, ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8, ihagrrep7cnr3132-10]
     tier: "Externally confirmed"
     variants: []
-    identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79). In 1800 the Prince petitioned him to take the Prusimska suit away from the government at Poznań, and he ordered it (I. HA GR, Rep. 7 C, Nr. 3709). In February 1797 he laid before the King the outcome of the proceedings against the insurgents of 1794 and proposed a further pardon, which the King refused (I. HA GR, Rep. 7 C, Nr. 3067)."
+    identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79). In 1800 the Prince petitioned him to take the Prusimska suit away from the government at Poznań, and he ordered it (I. HA GR, Rep. 7 C, Nr. 3709). In February 1797 he laid before the King the outcome of the proceedings against the insurgents of 1794 and proposed a further pardon, which the King refused (I. HA GR, Rep. 7 C, Nr. 3067). In 1803 he and Haugwitz reported on the petition of Prusimski and Jezierski to return home, which the King granted (I. HA GR, Rep. 7 C, Nr. 3132)."
   goldbeck-kalisz:
     display: "President von Goldbeck"
     match: "Goldbeck"
@@ -797,7 +797,10 @@ people:
       matched to him: it names his estates, his heirs and his family. Named
       as a person in his own right at the editor's request (2026-10-02), as
       he becomes more prominent in the project; until then this was a family
-      entry.
+      entry. In January 1803, living at Dresden, he petitioned with the canon
+      Xaver Jezierski to be allowed home; the King granted it on 10 May 1803,
+      the confiscation standing (I. HA GR, Rep. 7 C, Nr. 3132, where the
+      clerks write Prusiemski).
     distinct_from: [prusimska]
     merge: false
     variants:
@@ -1592,8 +1595,8 @@ people:
     # -18, -22 to -24), the majorat confirmation of 1805 (oe1u199-1), and his
     # French letter to the Prince of December 1798, signed "Friedrich Wilhelm."
     # (oe1bu9454-85).
-    issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?\s*$|(?<=\) )Friedrich Wil{1,2}helm(?= K(?:ö|oe)nig)'
-    issued_in: [oe1bu14525-6, oe1bu14525-7, oe1bu14525-11, oe1bu14525-16, oe1bu14525-17, oe1bu14525-18, oe1bu14525-19, oe1bu14525-20, oe1bu14525-22, oe1bu14525-23, oe1bu14525-26, oe1bu14525-27, oe1bu14525-28, oe1bu14525-30, oe1bu14525-31, oe1bu14525-34, oe1bu14525-35, oe1bu14525-42, oe1bu14525-43, oe1bu14525-44, oe1bu14526-8, oe1bu14526-18, oe1bu14526-22, oe1bu14526-23, oe1bu14526-24, oe1u199-1, oe1bu9454-85]
+    issuer_match: '(?<=Wir )Fri?ede?rich Wil{1,2}helm|(?<=Gnaden )Fri?ede?rich Wil{1,2}helm|^Fri?ede?rich Wil{1,2}helm\.?(?: p\.)?\s*$|(?<=\) )Friedrich Wil{1,2}helm(?= K(?:ö|oe)nig)'
+    issued_in: [oe1bu14525-6, oe1bu14525-7, oe1bu14525-11, oe1bu14525-16, oe1bu14525-17, oe1bu14525-18, oe1bu14525-19, oe1bu14525-20, oe1bu14525-22, oe1bu14525-23, oe1bu14525-26, oe1bu14525-27, oe1bu14525-28, oe1bu14525-30, oe1bu14525-31, oe1bu14525-34, oe1bu14525-35, oe1bu14525-42, oe1bu14525-43, oe1bu14525-44, oe1bu14526-8, oe1bu14526-18, oe1bu14526-22, oe1bu14526-23, oe1bu14526-24, oe1u199-1, oe1bu9454-85, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-11]
     tier: "Established"
     variants: []
     identity: "Friedrich Wilhelm III (1770-1840), King of Prussia from 16 November 1797; issued the supplementary grants of December 1797 and confirmed the Prince's family majorat in 1805. Added 2026-09-30."
@@ -1955,10 +1958,21 @@ people:
     identity: "Jan Paweł Łuszczewski (1764-1812), secretary general of the Governing Commission in 1807, whose name stands under the register entries of 12 and 21 July 1807 ('Jan Łuszczewski, Sekretarz Generalny'; AGAD 1/174/0/1/6). Added 2026-10-04."
   bischoffwerder:
     display: "Bischoffwerder"
-    match: 'Bischoffs?werder\w*'
+    # "Bischofswerder" with one f only in the joint report of 1803 (I. HA GR,
+    # Rep. 7 C, Nr. 3132, 5: "von Bischofswerder geschenkt"): the one-f form
+    # also stands 40 times in the literature, not yet ruled (NEEDS_CONFIRMATION).
+    match: 'Bischoffs?werder\w*|Bischofswerder(?= geschenkt)'
     tier: "Context-inferred"
     variants: ["Bischoffswerder"]
-    identity: "A Prussian general 'Bischoffswerder' whom Michalina Dąbska names in July 1807, beside Hohenlohe-Ingelfingen and Sanitz, among those to whom her father's estates were given (AGAD 1/174/0/2/73, documents 2 and 3). Probably Johann Rudolf von Bischoffwerder (1741-1803), the favourite of King Friedrich Wilhelm II, of whom Triebenfeld also speaks (Oe 1 Bü 9454). No other holding names him among the donees. Added 2026-10-04."
+    identity: "A Prussian general 'Bischoffswerder' whom Michalina Dąbska names in July 1807, beside Hohenlohe-Ingelfingen and Sanitz, among those to whom her father's estates were given (AGAD 1/174/0/2/73, documents 2 and 3). Probably Johann Rudolf von Bischoffwerder (1741-1803), the favourite of King Friedrich Wilhelm II, of whom Triebenfeld also speaks (Oe 1 Bü 9454). The joint report of Goldbeck and Haugwitz of 30 April 1803 says that Prusimski's Smiłowice estates were given to 'dem General Lieutenant von Bischofswerder' (I. HA GR, Rep. 7 C, Nr. 3132, document 5). Added 2026-10-04."
+  jezierski:
+    display: "Xaver Jezierski"
+    render: "Jezierski"
+    match: 'Jezierski(?![a-zà-ÿ])'
+    only_in: [ihagrrep7cnr3132-1, ihagrrep7cnr3132-2, ihagrrep7cnr3132-3, ihagrrep7cnr3132-4, ihagrrep7cnr3132-5, ihagrrep7cnr3132-6, ihagrrep7cnr3132-7, ihagrrep7cnr3132-8, ihagrrep7cnr3132-9, ihagrrep7cnr3132-10, ihagrrep7cnr3132-11]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Xaver von Jezierski, canon of Włocławek ('Canonicus in Wraclawek') and parish priest at Neustadt, who took part in the Kuyavian rising of 1794 with Antoni Prusimski at Smiłowice, drafted its proclamations and sat on its security commission; his small property and his benefices were confiscated. Living at Dresden, he petitioned with Prusimski in January 1803 to be allowed home, which the King granted on 10 May 1803 (I. HA GR, Rep. 7 C, Nr. 3132). Added 2026-11-20."
   # --- ADWł 85, the visitation of 1790-1791, added 2026-10-15 ----------------
   zurkowski:
     display: "Józef Zurkowski"

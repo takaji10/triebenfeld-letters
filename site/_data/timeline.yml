@@ -367,6 +367,22 @@
   when_de: 3. September 1798
   title_de: Kościuszko schreibt aus Paris
   note_de: Im Exil nach der Niederlage des Aufstands schreibt sein Oberbefehlshaber an einen emigrierten Korrespondenten, der ihm im August aus Dresden geschrieben hatte. Der Brief ist in der Abschriftensammlung des Lemberger Bibliografen Przyłęcki erhalten — das erste Dokument dieser Epoche.
+- date: '1803-05-10'
+  when: 10 May 1803
+  era: insurgency
+  title: Prusimski allowed home
+  note: Living at Dresden, the dispossessed owner and the canon Xaver Jezierski had petitioned in January to be allowed back to South Prussia. On the report of Goldbeck and Haugwitz, who found them punished hard enough by the confiscation and nine years' banishment, Friedrich Wilhelm III grants the return; the confiscation stands, and they are to take the oath of allegiance.
+  sources:
+  - text: the ministers' report
+    url: /documents/ihagrrep7cnr3132/5/
+    text_de: der Bericht der Minister
+  - text: the cabinet order
+    url: /documents/ihagrrep7cnr3132/6/
+    text_de: die Kabinettsordre
+  kind: personal
+  when_de: 10. Mai 1803
+  title_de: Prusimski darf heimkehren
+  note_de: In Dresden lebend, hatten der enteignete Besitzer und der Domherr Xaver Jezierski im Januar um die Rückkehr nach Südpreußen gebeten. Auf den Bericht Goldbecks und Haugwitz', die sie durch die Konfiskation und neun Jahre Verbannung für hart genug bestraft hielten, gewährt Friedrich Wilhelm III. die Rückkehr; die Konfiskation bleibt bestehen, und sie sollen den Huldigungseid leisten.
 
 # --- The Hohenlohe-Ingelfingen years ---
 - date: '1796-08-09'

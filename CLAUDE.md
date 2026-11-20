@@ -119,6 +119,20 @@ so check them.
 
 ## Where things stand (2026-11-01)
 
+- **I. HA GR, Rep. 7 C, Nr. 3132 - Prusimski's and Jezierski's leave to
+  return, 1803** (slug `ihagrrep7cnr3132`, added 2026-11-20, branch
+  `trampczynski-family`, **not published**): the ministers' file on the
+  petition of Antoni Prusimski and the canon Xaver Jezierski from Dresden;
+  eleven documents (the editor's word: the office's slip stands with
+  document 4, out of the file's order), the cover as front matter; era
+  `hohenlohe`. The editor's transcription checked by four Sonnet readers and
+  Claude (55 corrections); translated, summarised and claim-checked in
+  session; a new person entry Jezierski; a timeline event (10 May 1803);
+  paragraphs in the insurgency and Hohenlohe era pages; three connections
+  proposed. Open: the fold page and the spot sheet (14 readings, 4
+  decisions), NEEDS_CONFIRMATION. Read `units/ihagrrep7cnr3132/notes.md`
+  first, and WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 3132".
+
 - **I. HA GR, Rep. 7 C, Nr. 3067 - Goldbeck's promemoria on the insurgents**
   (slug `ihagrrep7cnr3067`, added 2026-11-19, branch `trampczynski-family`,
   **published 2026-11-19**): one document (the editor's word): the Grand

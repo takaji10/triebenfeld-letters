@@ -31,6 +31,18 @@ reisen könne
 der späteren Darstellung seiner Tochter war das Attest für die preußischen Behörden
 bestimmt, die ihn aufgefordert hatten, seine Ausreise zu rechtfertigen.
 
+1803 war er noch im Ausland, und am Leben. Am 27. Januar dieses Jahres baten er und
+Xaver Jezierski, ein Domherr von Włocławek, der mit ihm am Aufstand in Kujawien gewirkt
+haben sollte, den König von Dresden aus um die Erlaubnis zur Heimkehr. Der Bericht der
+Minister fasste den Fall zusammen: Der kujawische Aufstand sei auf seinen Smiłowicer
+Gütern im August 1794 zum Abschluss gekommen, eine nicht genau untersuchte Beschuldigung;
+seine Frau sei in Italien gestorben; seine Trąbczyner Güter seien an Hohenlohe-Ingelfingen
+gegangen, seine Pawłower an General von Sanitz und seine Smiłowicer an General von
+Bischofswerder
+([der Bericht]({{ '/documents/ihagrrep7cnr3132/5/' | relative_url }})). Am 10. Mai 1803 ließ der König beide zurückkehren,
+die Konfiskation blieb bestehen ([die Kabinettsordre]({{ '/documents/ihagrrep7cnr3132/6/' | relative_url }})), und die Kammer
+zu Posen wurde angewiesen, ihnen den Huldigungseid abzunehmen.
+
 Das eine Dokument dieser Epoche bislang ist ein Brief des Mannes, nach dem der Aufstand
 benannt ist. In Paris, im Exil nach der Niederlage, schrieb Tadeusz Kościuszko im
 September 1798 an einen emigrierten Korrespondenten, der ihm im August aus Dresden

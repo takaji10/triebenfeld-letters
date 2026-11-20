@@ -4311,3 +4311,43 @@ first and a fine pass at their word. The files are in
   to the shared table code, read that list: only the holding being worked on
   may appear. (The script also skips Pyzdry Gr.115 since the numberless
   extension, which HEAD now has; a copy without the skip ran clean.)
+
+## I. HA GR, Rep. 7 C, Nr. 3132: a slip out of order, and the heredoc trap again (2026-11-20)
+
+- **A document's pages can stand out of the file's order.** The editor
+  ruled the office's slip (fol. 9, bound between 8v and 10r) part of
+  document 4 (Goldbeck's letter of 11 May, whose registry number it
+  carries). `import_pages.py` assembles the corpus in the order of the page
+  files, so the holding's script writes `corpus.txt` itself (DOCS: each
+  document's pages and line ranges, every line checked to be in exactly
+  one document), and `units/<slug>/scan_decisions.json` gives match_scans
+  the reading order (`image_order`, the staged file names); without it
+  match_scans stops with "mapping does not follow the intended image
+  sequence".
+- **Openings photographed whole go through courtbook's fold page** for any
+  holding: a `holding.py` with SCANS (file, fold x, left id, right id),
+  SKIP for blank sides, EDGES for the first page edges, and
+  `courtbook.placed/cut/fold_sheet`; `courtbook.find_fold` proposes the
+  folds. units/ihagrrep7cnr3132/intake/holding.py is a compact model.
+- **Four readers on fifteen pages**: one each for the clean chancery hands
+  and the clerk's copy, two independent readers on the drafts and the slip.
+  The clean-hand readers found real slips the editor's model makes ("Straßen"
+  for "Starosten", "Verbauung", "urtheilt", "Aldels"); on the drafts the two
+  readers disagreed often and one was plainly wrong once ("Entwurf" where
+  the page has "Bericht"), so a draft reading changes only where two agree
+  or the image settles it on a crop. The editor's "und" in "Huldigungs und
+  ableisten" was "eid" (Kurrent e-i-d with the i dotted looks like u-n-d):
+  look for the dot.
+- **A pattern widened for one spelling reached the literature**: adding the
+  one-f "Bischofswerder" to the person's match (and to `variants`, which
+  the literature index also matches) put 40 unruled hits into
+  `literature_index.py`, which stops the build. Count a widened pattern
+  against the literature too (mistake 7 of NEW_UNIT), or tie it to the
+  document's words (`Bischofswerder(?= geschenkt)`), and keep the form out
+  of `variants`.
+- **The heredoc trap bites with `python - <<'EOF'` as well**: a "\n" inside a
+  Python string in a quoted bash heredoc still came out as a real newline
+  in the file written (three times this session). Edit scripts with string
+  escapes through the Write or Edit tool, or use chr(10).
+- **A catchword above an office note** again (0005_a2): the note moved
+  before the catchword in SPEC, as WORKING_NOTES says.

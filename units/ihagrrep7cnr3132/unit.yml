@@ -1,0 +1,140 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: ihagrrep7cnr3132
+# The editor gave the reference as "I. HA Rep. 7 C, Nr. 3132" (2026-11-20);
+# written with the GR of the series (the archive's label on the cover:
+# "I. HA Geheimer Rat, Rep. 7 C Südpreußen"), as its siblings Nr. 1414, 3067,
+# 3570, 3705 and 3709 are.
+ref: I. HA GR, Rep. 7 C, Nr. 3132
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+title: >-
+  The Prussian ministers' file of 1803 on the petition of Antoni Prusimski,
+  the former starost whose estates had been confiscated after the rising of
+  1794, and of the canon Xaver Jezierski, both living at Dresden, to be
+  allowed home to South Prussia, which the King granted on 10 May 1803,
+  leaving the confiscation of their property in force.
+title_de: >-
+  Die Akte der preußischen Minister von 1803 über das Gesuch Antoni
+  Prusimskis, des ehemaligen Starosten, dessen Güter nach dem Aufstand von
+  1794 eingezogen worden waren, und des Kanonikus Xaver Jezierski, beide in
+  Dresden, in ihr Vaterland Südpreußen zurückkehren zu dürfen; der König
+  gewährte es am 10. Mai 1803 und ließ die Einziehung ihres Vermögens
+  bestehen.
+# The archive's title of the unit, as the editor gave it (2026-11-20).
+archive_title: >-
+  Gesuch des v. Prusinski und des Jesierski wegen Erlaubnis zur Rückkehr nach
+  Südpreußen
+original_title: >-
+  Gesuch des v. Prusinski und des Jesierski wegen Erlaubnis zur Rückkehr nach
+  Südpreußen
+original_title_card: "Gesuch des v. Prusinski und des Jesierski wegen Erlaubnis zur Rückkehr nach Südpreußen"
+card_title: "The petition of von Prusinski and Jesierski for leave to return to South Prussia"
+card_title_de: "Gesuch des v. Prusinski und des Jesierski wegen Erlaubnis zur Rückkehr nach Südpreußen"
+full_title: "The petition of von Prusinski and Jesierski for leave to return to South Prussia"
+full_title_de: "Gesuch des v. Prusinski und des Jesierski wegen Erlaubnis zur Rückkehr nach Südpreußen"
+short_title: "Prusimski's leave to return home, 1803"
+short_title_de: "Prusimskis Erlaubnis zur Heimkehr, 1803"
+# What kind of material the holding is: reference/unit_types.yml.
+types: [government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+languages: [de]
+date_span: 1803
+status: translated              # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. The Prussian files
+# of the estate's Prussian years stand in that era (the insurgency era's own
+# blurb says so), as Nr. 1414 and Nr. 3067 do.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# Translated in session into the untagged cache (cache/translation-raw), as
+# Nr. 3067 was: see notes.md.
+published_tag: ""
+
+# Eighteen scans as the editor gave them (2026-11-20); the fifteen with a
+# transcription are used (0003, 0017, 0018 left out at the editor's word).
+# 0001 is the cover; the others are openings of the file, cut at the fold by
+# intake/holding.py, which records the folds, the page edges and the blank
+# sides left out.
+scans:
+  raw_dir: C:/Users/Tersnaus/Downloads/74344_Lacko/I_HA_Rep_7_C_Nr_3132
+  raw_glob: I_HA_Rep_7_C_Nr_3132_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: I_HA_Rep_7_C_Nr_3132
+
+# One file per page, named I_HA_Rep_7_C_Nr_3132_<page id>.txt (0002_a2,
+# 0009_a1). Made from the editor's one-file-per-scan transcriptions by
+# intake/holding.py, which also writes corpus.txt (the office's slip, fol. 9,
+# stands with document 4, out of the file's order).
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: "I_HA_Rep_7_C_Nr_3132_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts.
+description: >-
+  A file of the Prussian cabinet ministers on South Prussia, February to June
+  1803. On 27 January 1803 Anton (Antoni) von Prusimski, a former starost, and
+  Xaver von Jezierski, a former canon of Włocławek and parish priest, both of
+  whom had left the country after taking part in the South Prussian (Kuyavian)
+  insurrection of 1794 and were living at Dresden, petitioned King Friedrich
+  Wilhelm III for leave to return home. The King sent the petition to the
+  Grand Chancellor von Goldbeck and the cabinet minister Count von Haugwitz
+  for a report. The file holds Goldbeck's covering letters to Haugwitz (19
+  February, 22 April, 11 May), Haugwitz's draft reply of 29 April, a copy of
+  their joint report of 30 April (Prusimski's part in the Kuyavian rising at
+  his Smiłowice estates in August 1794; the confiscation proceedings; his
+  Trąbczyn estates given to the Prince of Hohenlohe, his Pawłów estates to
+  General von Sanitz, his Smiłowice estates to General von Bischofswerder;
+  his wife dead in Italy; Jezierski's offices and benefices lost; both
+  punished hard enough by confiscation and nine years' exile), copies of the
+  King's cabinet order of 10 May granting the return, of the rescript to the
+  South Prussian government at Posen and of the resolution to the two
+  petitioners of 11 May (the confiscation stands; they must take the oath of
+  allegiance), and the drafts of 30 May to the minister von Voss, to Goldbeck
+  and to the Chamber at Posen, which is to take their oath.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Papers of the Prussian cabinet ministry. "Ew. Excellenz" is the form of
+  address between ministers; "Concept" and "Mundum" (plural "Munda") are the
+  draft and the fair copy of an outgoing paper, "mitzeichnen" to countersign,
+  "remittiren"/"retradiren" to send back; "pr." with a date is the day a
+  letter was received; "sub voto remissionis" means "to be returned";
+  "Supplicanten" are the petitioners, an "Immediat-Vorstellung" a petition
+  addressed to the King directly; "Cabinets-Ordre" is the King's order from
+  his cabinet; "Confiscations-Proceß" the proceedings for confiscation
+  against an absentee, "Confiscations Urtel" its sentence; "Huldigungseid"
+  the oath of allegiance; "Starost" a holder of a royal starostwo in the old
+  Polish state ("Straße" is not meant: the word is always the title). "Die
+  Regierung zu Posen" is the South Prussian government (the court and
+  administrative authority), "die Kammer zu Posen" the War and Domains
+  Chamber. Places: Kalisch is Kalisz, Posen Poznań, Wraclawek Włocławek,
+  Cujavien Kuyavia; the estates "Trampczyner", "Pawlower", "Smilowicer
+  Güter" are Trąbczyn, Pawłów and Smiłowice. The pages from the office's
+  slip (document 4, after the letter) are the registry's instructions for
+  dispatch, in abbreviations. A word followed by [?] is one the reading
+  leaves doubtful, and the English keeps the doubt. Names stay as the clerk
+  wrote them (Prusiemski, Prusimski) unless the edition has a settled form.
+
+# What the "Method" tab says (reference/prepared.yml).
+prepared:
+  transcription:
+  - t-editor
+  - en: Readings by Claude, made independently of each other, compared every line with the scans, and Claude settled each difference on the image. A word was changed only where the page is plain or a witness settles it, such as the same word elsewhere in the file or a fixed formula; words that remain doubtful are marked [?], and words struck out are not transcribed.
+    de: Voneinander unabhängige Lesungen von Claude verglichen jede Zeile mit den Scans, und Claude entschied jede Abweichung am Bild. Ein Wort wurde nur geändert, wo die Seite eindeutig ist oder ein Beleg es entscheidet, etwa dasselbe Wort an anderer Stelle der Akte oder eine feste Formel; zweifelhaft gebliebene Wörter sind mit [?] markiert, gestrichene Wörter sind nicht transkribiert.
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude

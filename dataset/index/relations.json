@@ -138,6 +138,36 @@
   "note": "Cites 'die Urkunde vom 19ten Junius d J. bereits verliehenen Gütern, Betschen, Zagórów, und Wienietz'."
  },
  {
+  "from": "ihagrrep7cnr3132-3",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3132-2",
+  "note": "Haugwitz returns the report Goldbeck sent him on 22 April, signed, with his one reservation."
+ },
+ {
+  "from": "ihagrrep7cnr3132-6",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3132-5",
+  "note": "The King grants the return 'in Rücksicht der aus Euerm Berichte von 30ten v. M. ersehenen Gründe'."
+ },
+ {
+  "from": "ihagrrep7cnr3132-4",
+  "kind": "transmits",
+  "to": "ihagrrep7cnr3132-5",
+  "note": "'eine ... wohl aus Versehen der Canzley beygefügte Abschrift des gemeinschaftlichen ... Berichtes': document 5 is a copy of that joint report."
+ },
+ {
+  "from": "ihagrrep7cnr3132-4",
+  "kind": "transmits",
+  "to": "ihagrrep7cnr3132-6",
+  "note": "'die originaliter sub voto remissionis anliegende Cabinets Ordre vom gestrigen dato': document 6 is the file's copy of the order."
+ },
+ {
+  "from": "ihagrrep7cnr3132-10",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3132-4",
+  "note": "Haugwitz thanks Goldbeck for his letter 'vom 11. m. c.' and returns the cabinet order and the countersigned drafts."
+ },
+ {
   "from": "oe1bu9454-118c",
   "kind": "duplicate_of",
   "to": "oe1bu9454-118b",

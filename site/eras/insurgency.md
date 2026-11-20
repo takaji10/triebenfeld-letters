@@ -29,6 +29,17 @@ of his wife, and had asked for a certificate that he could not travel
 his daughter's later account, the certificate was meant to excuse him to the Prussian
 authorities, who had summoned him to justify his leaving the country.
 
+He was still abroad, and alive, in 1803. On 27 January of that year he and Xaver Jezierski,
+a canon of Włocławek who was said to have worked with him in the rising in Kuyavia,
+petitioned the King from Dresden to be allowed home. The ministers' report summed up the
+case: the Kuyavian rising was said to have been concluded at his Smiłowice estates in
+August 1794, an accusation not closely examined; his wife had died in Italy; his
+Trąbczyn estates had gone to Hohenlohe-Ingelfingen, his Pawłów estates to General von
+Sanitz and his Smiłowice estates to General von Bischofswerder
+([the report]({{ '/documents/ihagrrep7cnr3132/5/' | relative_url }})). On 10 May 1803 the King let both men return, the
+confiscation standing ([the cabinet order]({{ '/documents/ihagrrep7cnr3132/6/' | relative_url }})), and the Chamber at Poznań
+was told to take their oath of allegiance.
+
 The era's one document so far is a letter of the man the rising is named for. In Paris in
 September 1798, in exile after the defeat, Tadeusz Kościuszko wrote to an émigré
 correspondent who had written to him from Dresden in August
