@@ -6376,3 +6376,7 @@ sources-icon.html`).
 
 - At the editor's word ("Combine Document 7 + 8 into a single document. Combine documents 9+10 into a single document"): the copy of the rescript to Poznań and the resolution to the two below it are document 7; the draft to Voss and Haugwitz's draft reply to Goldbeck are document 8; the old 11 is 9. Rulings, paragraphs, English, summaries (the two checked summaries put together), index (`only_in`, `issued_in`), holding pages and scan labels follow; the files of the old 10 and 11 removed. Never published with eleven, so no redirects.
 - `resolve_paragraphs.py`: a hand-set row whose words stand twice in a document ("An") is found again by the line before it.
+
+## 2026-11-20 - I. HA GR, Rep. 7 C, Nr. 3132 published
+
+- At the editor's word ("Please commit to main and publish"): main fast-forwarded to `trampczynski-family` and pushed. The connection `prusimski-wife-italy` goes out as built, still open (spot sheet d2).

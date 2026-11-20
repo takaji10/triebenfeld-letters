@@ -1605,7 +1605,7 @@ transcription; 108 readings settled in session before the first build
       differences between the documents).
 - [ ] Publish at your word.
 
-## 64. I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, **not published**)
+## 64. I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, **published 2026-11-20**)
 
 - [x] Pages cut at proposed folds, the editor's transcription checked by four
       Sonnet readers and Claude (55 corrections), built as eleven documents
@@ -1620,4 +1620,4 @@ transcription; 108 readings settled in session before the first build
 - [ ] You: keep or drop the connection `prusimski-wife-italy` (spot sheet
       d2; explained in chat 2026-11-20).
 - [ ] You: the rest in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3132").
-- [ ] Publish at your word.
+- [x] Published at your word (2026-11-20).

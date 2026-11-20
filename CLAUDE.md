@@ -121,7 +121,7 @@ so check them.
 
 - **I. HA GR, Rep. 7 C, Nr. 3132 - Prusimski's and Jezierski's leave to
   return, 1803** (slug `ihagrrep7cnr3132`, added 2026-11-20, branch
-  `trampczynski-family`, **not published**): the ministers' file on the
+  `trampczynski-family`, **published 2026-11-20**): the ministers' file on the
   petition of Antoni Prusimski and the canon Xaver Jezierski from Dresden;
   nine documents (the editor's word: the office's slip stands with
   document 4, out of the file's order; the pieces written one under the

@@ -4,7 +4,7 @@ The Prussian ministers' file of February to June 1803 on the petition of
 Antoni Prusimski, the former Starost, and the canon Xaver Jezierski, both at
 Dresden, to be allowed home to South Prussia: nine documents, the cover as
 front matter. Added 2026-11-20 at the editor's word, branch
-`trampczynski-family`; not yet published.
+`trampczynski-family`; published 2026-11-20 at the editor's word.
 
 The archive's title, as the editor gave it: "Gesuch des v. Prusinski und des
 Jesierski wegen Erlaubnis zur Rückkehr nach Südpreußen". The cover reads

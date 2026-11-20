@@ -2131,7 +2131,7 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
-## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, not published)
+## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, published 2026-11-20)
 
 Read `units/ihagrrep7cnr3132/notes.md` first.
 
