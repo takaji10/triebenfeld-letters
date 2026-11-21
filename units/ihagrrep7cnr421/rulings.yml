@@ -1,0 +1,87 @@
+# Editorial rulings for I. HA GR, Rep. 7 C, Nr. 421 (GStA PK).
+#
+# Seven documents (the editor, 2026-11-21, asked before the cut: "Seven: bond
+# with the suit"): Chełmski's petition of 8 October 1799 with the ministry's
+# decision in its margin (1); the copies of the Kalisz government's two decrees
+# it encloses (2, the second beginning on the same side as the first); the
+# draft of the King's answer (3); Mondio's petition of 7 December (4), with the
+# office's slip of 23 December, which is bound after the suit but decides this
+# petition, out of the file's order (office_notes.yml); a copy of the same
+# petition dated 1 December (5); the copy of Chełmski's suit of 19 March 1799
+# with the Polish copy of Prusimski's undertaking of 16 June 1794 that it
+# encloses (6); the draft to Mondio of 23 December (7). The cover (0001_a) is
+# front matter.
+
+places:
+  overrides:
+    "1": Kalisz     # "Kalisch den 8.ten Octobr 1799."
+    "2": Kalisz     # "Kalisch den 10. Septbr 1799." (and the second decree, 27 Sept.)
+    "3": Berlin     # "Berlin, den 21. October 1799."
+    "4": Kalisz     # "Kalisch den 7ten Decbr. 1799."
+    "5": Kalisz     # "Kalisch d. 1ten Decbr. 1799."
+    "6": Poznań     # "Posen den 19ten Maert 1799." (the bond it encloses: Łukom, 16 June 1794)
+    "7": Berlin     # "Berlin, den 23. December 1799"
+
+dates:
+  # [year, month, day, precision]; read off each document.
+  read:
+    "1": [1799, 10, 8, "day"]
+    "2": [1799, 9, 10, "day"]       # the first of the two decrees; the second is of 27 Sept.
+    "3": [1799, 10, 21, "day"]
+    "4": [1799, 12, 7, "day"]
+    "5": [1799, 12, 1, "day"]
+    "6": [1799, 3, 19, "day"]       # the suit; the bond it encloses is of 16 June 1794
+    "7": [1799, 12, 23, "day"]
+  # [year, month, day, precision, basis]
+  inferred: {}
+  supplied: {}
+  twin: {}
+  no_date: []
+
+documents:
+  # Copies (2, 5, 6: "Copia", "Abschrift") keep the type of what they copy.
+  # The drafts of the King's answers (3, 7) are `draft`, the layout of Nr. 3132's
+  # (text down the right half, address and registry notes in the left).
+  doc_type:
+    "1": petition
+    "2": decree
+    "3": draft
+    "4": petition
+    "5": petition
+    "6": petition
+    "7": draft
+
+  language: {}
+  duplicate_of: {}
+  split_note: {}
+
+  relations:
+    "1":
+      - kind: transmits
+        target: "2"
+        note: "Chełmski encloses the decree of 10 September 'in Abschrift' and that of 27 September 'abschriftlich'; document 2 holds the copies of both."
+    "3":
+      - kind: answers
+        target: "1"
+        note: "The King's answer to the petition 'unter dem 8. d. M. eingereicht': the government's resolution of 10 September stands."
+    "4":
+      - kind: supplements
+        target: "1"
+        note: "Mondio presses again the complaint Chełmski submitted 'Bereits unter den 9ten October', which had had no answer."
+      - kind: transmits
+        target: "6"
+        note: "'Ich füge eine Abschrift der Klage mit dem Schuld Schein ex quo ... bei': document 6 is that copy of the suit, with the bond."
+    "5":
+      - kind: copies
+        target: "4"
+        note: "The same petition word for word, headed 'Abschrift' and dated 1 December, six days before the original."
+    "7":
+      - kind: answers
+        target: "4"
+        note: "Mondio is sent a copy of the answer of 21 October to his petition 'unter dem 7. d. M. eingereicht'."
+
+damage:
+  letters: []
+
+rough:
+  letters: []

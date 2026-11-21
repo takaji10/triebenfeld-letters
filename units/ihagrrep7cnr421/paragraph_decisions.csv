@@ -1,0 +1,103 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,12,break,high,rubric,1.73,38,22,dis[p?]. (die ich in meiner v. T. Ets.,v. Goldbeck mir zugestellten Saml[?] nicht
+1,15,break,high,rubric,2.14,47,22,aus dem arctio[?] dH. Gu[?]. [Ets?] zu erbitten,d. [?] [Signature?]
+1,30,break,held,short_line,0.64,14,22,[?]llen[?][z?],Allerdurchläuchtigstr Großmächtigstr
+1,34,break,high,short_line,0.23,5,22,1799.,Ich habe dem Starosten
+1,43,run,held,short_line,0.68,15,22,"Termin eintrat,",werde der von Pru¬
+1,50,break,high,short_line,0.41,9,22,genommen.,"Nach der mit ihm,"
+1,73,break,high,short_line,0.56,10,18,verwiesen.,Ich klagte nunmehr
+1,90,break,high,short_line,0.22,4,18,ste.,Da durch das oben
+1,126,break,high,short_line,0.22,4,18,sen.,Da ich mich bei die¬
+1,129,run,held,short_line,0.61,11,18,Verfügungen,"nicht beruhigen kann,"
+1,158,run,held,short_line,0.68,13,19,"wird, aus dem",confiscirten Vermö¬
+1,171,break,high,short_line,0.5,9,18,zuweisen.,Das declaratorische
+1,190,break,high,short_line,0.33,6,18,rührt.,Allein auch das ge¬
+1,199,run,held,short_line,0.56,10,18,men werden,"sollen, daß jedoch"
+1,218,break,high,short_line,0.22,4,18,seÿ.,Ich will mir gerne
+1,228,break,high,short_line,0.67,12,18,terthänigst.,mir das rechtliche
+1,246,break,high,short_line+column,0.16,3,18,mpp,conc Mondo
+1,247,break,high,short_line+column,0.54,10,18,conc Mondo,N. 55.
+2,252,break,high,short_line,0.27,6,22,Copia.,Decretum
+2,253,break,held,short_line,0.36,8,22,Decretum,auf das Vorstellen des v Chełmski
+2,256,run,held,short_line,0.4,9,22,in Sachen,seiner ./. Prusimski:
+2,269,break,high,short_line+column,0.4,9,22,Mond[io?],hieselbst.
+2,270,break,high,short_line,0.44,10,22,hieselbst.,4980.
+2,271,break,high,short_line,0.22,5,22,4980.,praes. d 5. Octobr. 1799.
+2,273,break,high,short_line,0.27,6,22,Copia.,Decretum
+2,274,break,high,short_line+column,0.36,8,22,Decretum,in causa
+2,275,run,held,short_line,0.36,8,22,in causa,von Chełmski ./. Prusimski.
+2,289,run,held,short_line,0.5,13,26,Copia Decreti,dem[?] K[r?]. R. Mondio.
+2,291,break,high,short_line,0.38,10,26,hieselbst.,3459.
+3,296,run,held,short_line,0.28,10,36,Resolution,"für den Stanislaus von Chełmski,"
+3,298,break,high,short_line,0.31,11,36,zu Kalisch.,(wegen seiner Forderung an den Insurgenten
+3,299,run,held,rubric,1.17,42,36,(wegen seiner Forderung an den Insurgenten,v. Prusimski.)
+3,301,break,high,short_line+column,0.17,6,36,[Gr.?],acc. d. 21.
+3,302,break,high,short_line,0.31,11,36,acc. d. 21.,ad rev. d. 22.
+3,303,break,high,short_line,0.39,14,36,ad rev. d. 22.,Acta gen: das Schuldenwesen der
+3,305,break,high,rubric,0.72,26,36,Insurgenten betr: zur Reg:,d. 30ten zur Post.
+3,307,break,high,short_line,0.22,8,36,Süd. Pr.,Seine Königl: Majestaet von Preußen p p
+3,315,run,held,rubric,1.14,41,36,tion der dortigen Regierung vom 10. Sept:,"c. lediglich sein Bewenden behalten müsse,"
+3,324,break,high,short_line,0.67,24,36,genten weis übersteigen.,"Sign: Berlin, den 21. October 1799."
+3,326,break,high,short_line,0.33,12,36,Ad mandatum.,[Signature]
+3,327,break,high,short_line+column,0.31,11,36,[Signature],[?] d. 22.
+3,328,break,high,short_line,0.28,10,36,[?] d. 22.,3426.
+4,336,break,high,short_line,0.29,5,17,1799.,Der Criminal Rath
+4,343,run,held,short_line,0.18,3,17,./.,den Fiscum wegen
+4,349,break,high,short_line,0.65,11,17,beschwerde.,Anteriora
+4,350,run,held,short_line,0.53,9,17,Anteriora,M[?]. mit selbigen [?] Krb[?] 19. de[?]
+4,367,run,held,rubric,0.94,16,17,ne Forderung von,"12,000. ## einge¬"
+4,376,run,held,short_line,0.57,12,21,ste ich mich,Allerhöchst dieselben wie¬
+4,395,break,high,short_line,0.24,5,21,selt.,Daß gegen den Fürsten
+4,415,break,high,short_line,0.7,14,20,zu verfordern.,Wenn übrigens die Re¬
+4,434,run,held,short_line+column,0.7,14,20,erkannt werden,sollte.
+4,435,break,high,short_line,0.35,7,20,sollte.,Diesmuß meines Erme¬
+4,458,break,high,short_line,0.16,3,19,te.,Bei der Reaßumtion
+4,471,break,high,short_line,0.32,6,19,nigst:,ihn schleunigst vorbe¬
+4,478,break,high,short_line+column,0.32,6,19,Mondio,Criminalrath
+4,479,break,high,short_line+column,0.63,12,19,Criminalrath,N. 33.
+4,482,break,high,short_line,0.3,8,26,ad n: 9.,Es ist dem Capit[?]. cop. der sein
+4,487,break,high,short_line+column,0.64,17,26,de conclusi eodem,[Willen?]
+5,491,break,high,short_line+column,0.16,9,58,Abschrift,Kalisch d. 1ten Decbr. 1799.
+5,492,break,high,short_line,0.49,28,58,Kalisch d. 1ten Decbr. 1799.,Allerdurchlauchtigster p p
+5,493,break,held,short_line,0.45,26,58,Allerdurchlauchtigster p p,Bereits unter dem 9ten Octbr. d. J. hat mein Mandant der
+5,501,run,held,short_line,0.07,4,58,mich,Allerhöchstdieselben wiederholenlich die derhalb zu suppliciren.
+5,508,break,high,short_line,0.43,25,58,"richtet ist, verwechselt.",Daß gegen den Fürsten v Hohenlohe Ingelfingen die For¬
+5,515,break,high,short_line,0.3,17,58,cum zu erfordern.,Wenn übrigens die Regierung den Buchstaben des an sich un¬
+5,526,break,high,short_line,0.43,23,53,"zeugen kann, geschehen.",Ich füge eine Abschrift der Klage mit dem Schuldschein ex
+5,531,break,high,short_line,0.7,37,53,"kenntniß ergangen war, geklagt hatte.",Bei der Reassumtion des Processes gegen den fiscum ist wei¬
+5,537,break,high,rubric+short_line,0.21,11,53,der ich p p,E. K. M.
+5,539,break,high,short_line+column,0.09,5,53,p p p,Mondro
+5,540,break,high,short_line+column,0.11,6,53,Mondro,Criminal Rath.
+6,544,break,high,short_line,0.22,6,27,Copia.,Allerdurchleuchtigstr p p
+6,548,run,held,short_line+column,0.59,16,27,von Chełmski auf,Łukom bei Peysern
+6,549,run,held,short_line+column,0.63,17,27,Łukom bei Peysern,./.
+6,550,run,held,short_line,0.11,3,27,./.,den Starosten
+6,551,run,held,short_line+column,0.48,13,27,den Starosten,Anton v Prusimski
+6,552,run,held,short_line+column,0.63,17,27,Anton v Prusimski,auf Trąmpczyn
+6,553,run,held,short_line+column,0.48,13,27,auf Trąmpczyn,wegen 12000 #.
+6,554,run,held,short_line,0.52,14,27,wegen 12000 #.,ex Chirographo.
+6,555,break,high,short_line,0.56,15,27,ex Chirographo.,Unterm 16 Juny 1794. umste ich
+6,588,break,high,short_line,0.15,4,26,fen.,Von dem Fisco ist inzwi¬
+6,604,break,high,short_line,0.5,13,26,gekommen war.,Zwar hat hierauf der fiscus
+6,625,break,high,short_line,0.47,12,26,nehmen soll.,Bei E K M reiche ich daher meine
+6,630,run,held,short_line,0.2,5,26,Bitte,"Term. instr. anzusagen, und"
+6,639,break,high,short_line,0.63,16,26,teilen zu laßen.,Zum Beweise der Richtigkeit
+6,654,break,high,short_line+column,0.41,11,27,der ich p p,E K M
+6,655,break,high,short_line+column,0.19,5,27,E K M,p p p
+6,656,break,high,short_line+column,0.19,5,27,p p p,v Chełmski.
+6,659,break,held,short_line,0.14,5,36,Copia,Nizey wyrazony Blankiet Ręką własną moią
+6,686,break,high,short_line,0.44,16,36,Juny 1794 [R?]a.,Mazący WJM Pana Stanisławowi
+6,690,run,held,short_line+column,0.44,16,36,Antoni Prusimski,S. [N?]. Mpp
+6,691,break,high,short_line+column,0.33,12,36,S. [N?]. Mpp,Jakub Bieńkowski
+6,692,run,held,short_line+column,0.44,16,36,Jakub Bieńkowski,przytomny Przyiaciół
+6,693,break,high,short_line+column,0.56,20,36,przytomny Przyiaciół,Antoni Przeradzki przy¬
+7,700,break,high,short_line,0.39,11,28,zu Kalisch.,(v. Chełmski Beschwerden gegen die Kali¬
+7,702,run,held,rubric,1.39,39,28,scher Reg: wegen Abweisung seiner Klage,c. Fiscum betr:)
+7,704,break,high,short_line,0.39,11,28,acc. d. 23.,ad rev. d. 24.
+7,705,break,high,short_line,0.5,14,28,ad rev. d. 24.,Anl. liegen bey
+7,706,break,high,short_line+column,0.54,15,28,Anl. liegen bey,Gr.
+7,707,break,high,short_line,0.11,3,28,Gr.,d 31tn O. aus zur Post.
+7,709,break,high,short_line,0.29,8,28,Süd. Pr.,Auf die von dem Criminal-Rath Mon¬
+7,719,break,high,short_line,0.64,18,28,beschieden worden.,"Sign: Berlin, den 23. Dec: 1799"
+7,721,break,high,short_line,0.43,12,28,ad mandatum.,[Signature]
+7,722,break,high,rubric+short_line,0.39,11,28,[Signature],v. [?] 25.

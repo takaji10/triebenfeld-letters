@@ -2131,6 +2131,45 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
+## I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added 2026-11-21, branch `trampczynski-family`, not published)
+
+Read `units/ihagrrep7cnr421/notes.md` first.
+
+1. **The fold page and the spot sheet wait on the editor**
+   (`review/ihagrrep7cnr421/folds/index.html`,
+   `review/ihagrrep7cnr421/spot_sheet.html`): 22 readings and 3 decisions.
+   The readings that matter most: the cover's date (q1, 21 against the
+   editor's 24); the cabinet order's day in the copy (q8, 10 or 16); the
+   suit's year (q9); Mondio or Mondro (q22); in the Polish bond "Swiętey",
+   "wgystnie", "Zabryki" (q16-q18).
+2. **The suit's date (document 6).** The copy reads "Posen den 19ten Maert
+   1799", but the suit's own words fit 1796: the Fiscus's eviction suit of
+   7 December 1795, a hearing "27. Februar c." (of the current year), and
+   payment "zu Johanni v. J." (last year), where the bond had it due at
+   St John's Day 1795; and Mondio says Chełmski sued Prusimski before the
+   judgment of confiscation. The document stands under 19 March 1799, the
+   date it bears (the documents first), until the editor reads the digit.
+3. **12,000 or 36,000 ducats.** Chełmski's petition and suit and Prusimski's
+   bond give the loan as 12,000 ducats; Triebenfeld's memorandum of 1815
+   (Oe 1 Bü 9454, 286 a) says Trąbczyn was pledged "an den v. Chełmski für
+   36000 Ducaten". The edition keeps each document's figure; the 1815 one is
+   later and second-hand.
+4. **The cabinet order on the insurgents' debts.** Its day stands as the
+   14th of September 1796 in Chełmski's petition, the 16th in Mondio's
+   petition and the 10th in its copy (q8). The edition does not hold the
+   order or the rescript of 17 September 1796.
+5. **The connection `chelmski-suit-against-hohenlohe`** (proposed, d3):
+   built; keep or drop. Its notes do not equate Triebenfeld's "second
+   instance" (March 1799) with Chełmski's judgment of revision: in Prussian
+   procedure the revision was the third instance.
+6. **Person entries** (d1, d2): Stanisław Chełmski of Łukom, skarbnik,
+   stays in the family entry `chemski` until the editor rules; whether he is
+   the Stanisław of the boundary decree of 1775 and of Boniecki is open.
+   Mondro: the existing entry (Nr. 3705, the Prince's attorney in 1805) very
+   probably is Chełmski's lawyer of 1799 (Claude); it tags only "Mondro".
+7. **The glossary entry `fiscus`** (new, checked: false): to be read
+   against Krünitz when the dictionary hosts are reachable.
+
 ## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, published 2026-11-20)
 
 Read `units/ihagrrep7cnr3132/notes.md` first.

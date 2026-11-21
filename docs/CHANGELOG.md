@@ -6380,3 +6380,15 @@ sources-icon.html`).
 ## 2026-11-20 - I. HA GR, Rep. 7 C, Nr. 3132 published
 
 - At the editor's word ("Please commit to main and publish"): main fast-forwarded to `trampczynski-family` and pushed. The connection `prusimski-wife-italy` goes out as built, still open (spot sheet d2).
+
+## 2026-11-21 - I. HA GR, Rep. 7 C, Nr. 421 added (branch `trampczynski-family`, not published)
+
+- The editor: add I. HA Rep. 7 C Nr. 421 ("Beschwerden des v. Chelmski wegen seiner Forderung an den ehemaligen Starosten v. Prusinski"), leave out pages without a transcription, deliver spot sheets and page-splitting sheets as HTML with the site served locally, leave the blank sides out, and do not split documents too readily, least of all on one side.
+- Seventeen scans used; 0015, 0018, 0019 left out (no transcription); 0014 replaced by the editor's crops, named 0014_a1/a2 (match_scans takes a four-digit capture).
+- Pages cut at proposed folds and edges; blank sides and the archive's slips not cut out; the fold page written (`review/ihagrrep7cnr421/folds/index.html`).
+- Seven documents at the editor's word (the Polish bond with the suit); the office's slip of 23 Dec. read with Mondio's petition, out of the file's order.
+- The transcription checked by four Sonnet readers and Claude: 133 corrections with their witnesses (`intake/holding.py`); 19 line ends joined by hand (`intake/linebreaks.py`), 31 paragraph rows (`intake/paragraphs.py`).
+- English in session (check_translations clean), summaries in session, claim-checked (10 of 88 statements weakened); holding page in English and German; era `hohenlohe`.
+- Glossary: new entry `fiscus` (unchecked); "Dec", "Octbr.", "huj.", "praes." ruled out.
+- One proposed connection, `chelmski-suit-against-hohenlohe` (with Oe 1 Bü 9454, 75, 102, 103, 286).
+- Spot sheet: 22 readings and 3 decisions (`review/ihagrrep7cnr421/spot_sheet.html`). The site verifies clean (656 documents).

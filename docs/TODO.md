@@ -1621,3 +1621,20 @@ transcription; 108 readings settled in session before the first build
       d2; explained in chat 2026-11-20).
 - [ ] You: the rest in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3132").
 - [x] Published at your word (2026-11-20).
+
+## 65. I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added 2026-11-21, **not published**)
+
+- [x] Seventeen scans with transcriptions taken (0015, 0018, 0019 left out;
+      0014 replaced by your crops 0014a/0014b); pages cut at proposed folds,
+      blank sides not cut out; seven documents at your word (the bond with
+      the suit); your transcription checked by four Sonnet readers and
+      Claude (133 corrections); English and summaries in session
+      (claim-checked); holding page in both languages; one proposed
+      connection; the site built, verified and served locally.
+- [ ] You: the fold page (`review/ihagrrep7cnr421/folds/index.html`).
+- [ ] You: the spot sheet (`review/ihagrrep7cnr421/spot_sheet.html`), 22
+      readings and 3 decisions.
+- [ ] Then: apply both; a timeline event and a paragraph in the Hohenlohe
+      era page (offered, not built); the rest in NEEDS_CONFIRMATION ("I. HA
+      GR, Rep. 7 C, Nr. 421").
+- [ ] Publish at your word.

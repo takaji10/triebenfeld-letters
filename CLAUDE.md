@@ -119,6 +119,21 @@ so check them.
 
 ## Where things stand (2026-11-01)
 
+- **I. HA GR, Rep. 7 C, Nr. 421 - Chełmski's claim on Prusimski, 1799**
+  (slug `ihagrrep7cnr421`, added 2026-11-21, branch `trampczynski-family`,
+  **not published**): the ministry's file on Stanisław Chełmski of Łukom's
+  complaint that the Kalisz government would not hear his suit against the
+  Fiscus for the 12,000 ducats he lent Prusimski in 1794; seven documents
+  (the editor's word: the Polish copy of Prusimski's bond with the suit; the
+  office's slip with Mondio's petition, out of the file's order), the cover
+  as front matter; era `hohenlohe`. The editor's transcription checked by
+  four Sonnet readers and Claude (133 corrections); translated, summarised
+  and claim-checked in session; glossary entry `fiscus`; one proposed
+  connection (`chelmski-suit-against-hohenlohe`, with Oe 1 Bü 9454). **Waiting
+  on the editor: the fold page and the spot sheet** (22 readings, 3
+  decisions; `review/ihagrrep7cnr421/`). Read `units/ihagrrep7cnr421/notes.md`
+  first, and WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 421".
+
 - **I. HA GR, Rep. 7 C, Nr. 3132 - Prusimski's and Jezierski's leave to
   return, 1803** (slug `ihagrrep7cnr3132`, added 2026-11-20, branch
   `trampczynski-family`, **published 2026-11-20**): the ministers' file on the

@@ -8860,6 +8860,65 @@
   "permalink": "/documents/oe1bu9454/103/"
  },
  {
+  "uid": "ihagrrep7cnr421-6",
+  "unit": "ihagrrep7cnr421",
+  "letter_id": "6",
+  "doc_type": "petition",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1799-03-19",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Poznań",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 5,
+  "n_lines": 148,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0012_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0012_a2-L6_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0013_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0013_a1-L6_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0013_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0013_a2-L6_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0014_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0014_a1-L6_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0014_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0014_a2-L6_05.jpg"
+   }
+  ],
+  "uncertainty_count": 19,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 6,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "petition 6",
+  "path": "documents/ihagrrep7cnr421-6.json",
+  "text_path": "text/ihagrrep7cnr421-6.txt",
+  "permalink": "/documents/ihagrrep7cnr421/6/"
+ },
+ {
   "uid": "oe1bu9454-104",
   "unit": "oe1bu9454",
   "letter_id": "104",
@@ -9258,6 +9317,158 @@
   "permalink": "/documents/oe1bu14526/26/"
  },
  {
+  "uid": "ihagrrep7cnr421-2",
+  "unit": "ihagrrep7cnr421",
+  "letter_id": "2",
+  "doc_type": "decree",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1799-09-10",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 41,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0006_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0006_a2-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0007_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0007_a1-L2_02.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 1,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 2",
+  "path": "documents/ihagrrep7cnr421-2.json",
+  "text_path": "text/ihagrrep7cnr421-2.txt",
+  "permalink": "/documents/ihagrrep7cnr421/2/"
+ },
+ {
+  "uid": "ihagrrep7cnr421-1",
+  "unit": "ihagrrep7cnr421",
+  "letter_id": "1",
+  "doc_type": "petition",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1799-10-08",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 7,
+  "n_lines": 233,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0002_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0002_a2-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0003_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0003_a1-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0003_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0003_a2-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0004_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0004_a1-L1_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0004_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0004_a2-L1_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0005_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0005_a1-L1_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0005_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0005_a2-L1_07.jpg"
+   }
+  ],
+  "uncertainty_count": 21,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 3,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "petition 1",
+  "path": "documents/ihagrrep7cnr421-1.json",
+  "text_path": "text/ihagrrep7cnr421-1.txt",
+  "permalink": "/documents/ihagrrep7cnr421/1/"
+ },
+ {
+  "uid": "ihagrrep7cnr421-3",
+  "unit": "ihagrrep7cnr421",
+  "letter_id": "3",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1799-10-21",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 35,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0007_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0007_a2-L3_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 2,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 3",
+  "path": "documents/ihagrrep7cnr421-3.json",
+  "text_path": "text/ihagrrep7cnr421-3.txt",
+  "permalink": "/documents/ihagrrep7cnr421/3/"
+ },
+ {
   "uid": "oe1bu9454-107",
   "unit": "oe1bu9454",
   "letter_id": "107",
@@ -9361,6 +9572,148 @@
   "path": "documents/oe1bu14525-2.json",
   "text_path": "text/oe1bu14525-2.txt",
   "permalink": "/documents/oe1bu14525/2/"
+ },
+ {
+  "uid": "ihagrrep7cnr421-5",
+  "unit": "ihagrrep7cnr421",
+  "letter_id": "5",
+  "doc_type": "petition",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1799-12-01",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 50,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0011_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0011_a2-L5_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0012_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0012_a1-L5_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 2,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "petition 5",
+  "path": "documents/ihagrrep7cnr421-5.json",
+  "text_path": "text/ihagrrep7cnr421-5.txt",
+  "permalink": "/documents/ihagrrep7cnr421/5/"
+ },
+ {
+  "uid": "ihagrrep7cnr421-4",
+  "unit": "ihagrrep7cnr421",
+  "letter_id": "4",
+  "doc_type": "petition",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1799-12-07",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 5,
+  "n_lines": 153,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0008_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0008_a2-L4_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0009_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0009_a1-L4_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0009_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0009_a2-L4_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0010_a1",
+    "image": "I_HA_Rep_7_C_Nr_421_0010_a1-L4_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0016_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0016_a2-L4_05.jpg"
+   }
+  ],
+  "uncertainty_count": 10,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 4,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "petition 4",
+  "path": "documents/ihagrrep7cnr421-4.json",
+  "text_path": "text/ihagrrep7cnr421-4.txt",
+  "permalink": "/documents/ihagrrep7cnr421/4/"
+ },
+ {
+  "uid": "ihagrrep7cnr421-7",
+  "unit": "ihagrrep7cnr421",
+  "letter_id": "7",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1799-12-23",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 28,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0017_a2",
+    "image": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 7",
+  "path": "documents/ihagrrep7cnr421-7.json",
+  "text_path": "text/ihagrrep7cnr421-7.txt",
+  "permalink": "/documents/ihagrrep7cnr421/7/"
  },
  {
   "uid": "oe1bu14525-32",

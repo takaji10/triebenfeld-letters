@@ -1838,6 +1838,31 @@ entries:
   check_against: Acta Borussica; Allgemeine Gerichtsordnung 1793
   checked: false
 
+- id: fiscus
+  kind: law
+  lang: de
+  head_en: Fiscus
+  head_de: Fiskus
+  orig: Fiscus, Fisco, fiscum
+  # Added 2026-11-21 with I. HA GR, Rep. 7 C, Nr. 421, where Chełmski sues the
+  # Fiscus for Prusimski's debt; the Latin case forms stand in the German text.
+  match_de: '\b[Ff]isc(?:us|um|o|i)\b'
+  match_en: '\bFisc(?:us|um)\b'
+  short_en: >-
+    The Crown's treasury as a party at law. In the documents of the 1790s the
+    property confiscated from the insurgents of 1794 fell to the Fiscus, and
+    a creditor who wanted to be paid out of it had to sue the Fiscus before
+    the provincial Government. The German texts keep the Latin case forms,
+    "vom Fisco", "gegen den fiscum".
+  short_de: >-
+    Die Staatskasse als Partei vor Gericht. In den Dokumenten der 1790er Jahre
+    fiel das den Insurgenten von 1794 eingezogene Vermögen an den Fiskus, und
+    ein Gläubiger, der daraus bezahlt werden wollte, musste den Fiskus vor der
+    Regierung der Provinz verklagen. Die deutschen Texte behalten die
+    lateinischen Fälle, „vom Fisco“, „gegen den fiscum“.
+  check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
 - id: decret
   kind: law
   lang: de_la
@@ -2686,6 +2711,10 @@ entries:
 # Words ruled out, with the reason. glossary_candidates.py does not raise them
 # again.
 excluded:
+  - {word: "Dec", reason: "December after the day in a docket (pr. 15. Dec. 99, I. HA GR, Rep. 7 C, Nr. 421), plain in English as Dec.; a month"}
+  - {word: "Octbr.", reason: "October in datelines (Kalisch den 8.ten Octobr, d. 9ten Octbr. d. J.); a month, plain"}
+  - {word: "huj.", reason: "huius (mensis), of this month, after a day in the decrees (vom 10ten huj., per Cop. huj. Decr., Nr. 421); rendered in the English"}
+  - {word: "praes.", reason: "praesentatum, presented, the office's mark of the day a paper came in (praes. d 5. Octobr. 1799, Nr. 421); rendered presented in the English, as pr. is received"}
   - {word: "Südpr.", reason: "short for Südpreußen (Südpr. General Domainen Departement; the docket Südpr. of I. HA GR, Rep. 7 C, Nr. 3132), rendered South Prussia, which the glossary entry south-prussia explains"}
   - {word: May, reason: "the month written out in German datelines (pr den 21. May 1803, I. HA GR, Rep. 7 C, Nr. 3132), plain in English as May; not an abbreviation"}
   - {word: "König.", reason: "König with a full stop at the end of a sentence (Euer wohlaffectionirter König., Nr. 3132) or cut short in an address (des König. Et. Min.); plain in English as King or Royal"}

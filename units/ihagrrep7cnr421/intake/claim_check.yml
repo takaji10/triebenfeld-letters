@@ -1,0 +1,325 @@
+# Applied 2026-11-21 (intake/write_summaries.py): all ten OVERSTATED statements
+# weakened as proposed, the German alike. Kept, with the reason: "draft" for
+# documents 3 and 7 is the edition's document type, read from the layout; the
+# slip "bound later in the file" is the file's own order (the scans), not a
+# claim about its text; "ducats" for the sign # rests on the bond's
+# "Złocie Hollenderskim" (translation_note).
+# Claim check of the summaries of I. HA GR, Rep. 7 C, Nr. 421 (Sonnet sub-agent, 2026-11-21).
+# Totals: 88 statements; 78 SUPPORTED, 10 OVERSTATED, 0 UNSUPPORTED, 0 CONTRADICTED.
+# Notes that are not verdicts (for the editor):
+#  - The figure "12,000 #" in the text carries a sign (#), never the word "ducats"; "ducats" is the
+#    edition's reading. The Polish copy in document 6 ("12,000 # w Złocie Hollenderskim ważnym i
+#    obrączkowym") supports Dutch (ring) gold ducats.
+#  - "Instruction" / "Instructions Termin" (documents 1, 4, 6) is glossed in the English as "taking of
+#    evidence" / "hearing to take evidence", in the German as Instruktion(stermin). Both are accepted
+#    as the gloss of the procedural term; the English is a little more specific than the text.
+#  - The Cabinet Order is dated 14 September 1796 in document 1, the 16th in document 4, the 10th in
+#    document 5 (all as transcribed); the summaries reproduce each, document 5's with "here of the 10th".
+#  - Document 4 (and 5) give the complaint's date as 9 October; the complaint itself (document 1)
+#    is dated Kalisz, 8 October 1799.
+#  - Document 6 is dated "Posen den 19ten Maert 1799", but its own chronology ("zu Johanni v. J."
+#    for St John's 1795, "im Monat May v. J.", the hearing "27. Februar c.", the Fiscus's suit of
+#    7 December 1795) fits a year of 1796. The summary gives the date as written; the editor may wish to
+#    look at the year on the page image.
+documents:
+  "1":
+    statements:
+      - claim: "Stanisław von Chełmski to the King, Kalisz, 8 October 1799"
+        verdict: SUPPORTED
+        evidence: "Allergnädigster König und Herr! Kalisch den 8.ten Octobr 1799. ... Stanisl v. Chełmski"
+      - claim: "with the note conc Mondo"
+        verdict: SUPPORTED
+        evidence: "conc Mondo"
+      - claim: "In 1794 he lent the Starost von Prusimski 12,000 ducats in gold against a written undertaking, repayable at St John's Day 1795"
+        verdict: SUPPORTED
+        evidence: "Ich habe dem Starosten von Prusimski im Jahre 1794. ein Darlehn von 12000 #. in Golde gegen einen Revers gegeben, welches er zu Johanni 1795. zu bezalen versprach ('ducats' is the edition's reading of the sign #)"
+      - claim: "before then Prusimski became a fugitive, and by the sentence of confiscation his property was seized by the Fiscus"
+        verdict: SUPPORTED
+        evidence: "Ehe jedoch der Zalungs Termin eintrat, werde der von Prusimski flüchtig und durch das gegen ihn ergangene Confiscations Urtel sein Vermögen vom fisco in Beschlag genommen"
+      - claim: "After consulting him, Chełmski took possession of Prusimski's estates of Trąbczyn and Nowawies"
+        verdict: SUPPORTED
+        evidence: "Nach der mit ihm, dem von Prusimiski genommenen Rüksprache habe ich mich zwar in Besiz der ihm gehörigen Güter Trąmpczyn und Nowa Wieś gesezt"
+      - claim: "but after the judgment of revision had to give them up to the Prince of Hohenlohe-Ingelfingen, to whom the King had given them"
+        verdict: SUPPORTED
+        evidence: "ich müste jedoch solche an den Furst v Hohenlohe Ingelfingen welchem diese Güter von Königl: Majestät Allerhöchsten Person geschenkt worden wären, nach Eröfnung des Revisions Erkenntnißes räumen"
+      - claim: "and was referred with his claim to the Fiscus"
+        verdict: SUPPORTED
+        evidence: "und werde mit meiner gedachten förderung an den fiscum verwiesen"
+      - claim: "To his suit against the Fiscus of 6 September the Government at Kalisz answered on 10 September that he must first prove the claim to be a real one"
+        verdict: SUPPORTED
+        evidence: "Ich klagte nunmehr unter dem 6. Septbr. c. a. auf Bezalung derselben gegen den fiscum, werde aber per Decr. v. 10ten deßelben Monaths ... beschieden, daß bevor ihrer Klage zugelaßen werden könnte die real Qualität der gedachten Förderung zuvorderst nachgewiesen werden müste (the Government is named in document 2)"
+      - claim: "when he pressed for a hearing to take evidence, citing the cabinet order of 14 September 1796, it dismissed the suit on the 27th"
+        verdict: SUPPORTED
+        evidence: "Mit Bezugnehmung auf die Allerhöchste Cabinets Ordre vom 14ten Septbr. 1796. drang ich wiederholentlich auf Anberaumung eines Instructions Termins- wider mein Vermuthen werde ich aber nochmals mit der Klage pr. Decr. vom 27t. ej. ... abgewiesen (Instructions Termin glossed as 'hearing to take evidence')"
+      - claim: "He argues that under that cabinet order the Fiscus takes precedence over all the personal creditors of an insurgent for compensation but ranks after them with the penalty of confiscation"
+        verdict: SUPPORTED
+        evidence: "wird zwar verordnet, daß der Fiscus in Ansicht des Schadens Ersazes allen persönlichen Gläubigern eines Insurgenten vorgehe, und alsdann soll er mit der Confiscations Strafe demselben nachstehen"
+      - claim: "and so must satisfy from the confiscated property a personal claim proved otherwise than by his mere written undertaking"
+        verdict: OVERSTATED
+        evidence: "daß fiscus wegen persönlicher Forderung des Insurgenten wenn deren Richtigkeit aliunde[?], als aus meinem blosen Reverse nachgewiesen wird, aus dem confiscirten Vermögen gerecht werden muß. The word 'aliunde' is marked [?]; the sense stands on 'als aus meinem blosen Reverse nachgewiesen'."
+        proposed: "and so must satisfy from the confiscated property a personal claim whose correctness is shown otherwise than by his mere written undertaking (the word 'aliunde' is doubtful)"
+      - claim: "that the declaratory court rescript of 17 September 1796 interprets the cabinet order beyond its clear content"
+        verdict: OVERSTATED
+        evidence: "das declaratorische Hofrescript vom 17. Septbr 1796. ... die Cabinets Ordre als die Allerhöchste Willensmeinung Ew. Königl. Majestät selbst, ausdehnend und gegen den klaren Inhalt auslegt - the text says the rescript extends it and interprets it AGAINST its clear content, not merely beyond it"
+        proposed: "that the declaratory court rescript of 17 September 1796 extends the cabinet order and interprets it against its clear content"
+      - claim: "which belongs to the King alone and not to the Chief of Justice"
+        verdict: SUPPORTED
+        evidence: "welches blos Allerhöchst[e?] dero Person und nicht aber dem Chef der Justiz zustehet"
+      - claim: "and that even that rescript admits personal suits against the Fiscus, which may lay before the plaintiff a certified statement of the damage of the insurrection showing that the confiscated property does not cover it"
+        verdict: SUPPORTED
+        evidence: "auch das gedachte Rescript sezt fest, daß Personalklagen gegen fiscum auf verlangen der Parteyen schlechterdings angenommen werden sollen, daß jedoch eine beglaubte Designation der Insurrections Schaden ... einem solchem Kläger vom fisco vorgelegt werden dürfte, woraus sich ergeben solle, daß das confiscirte Vermögen der Insurgenten bei weiten zur ... Schäden nicht hinreichend seÿ"
+      - claim: "He accepts that procedure, reserving his objections to such a liquidation of damages"
+        verdict: SUPPORTED
+        evidence: "Ich will mir gerne das Verfahren gefallen laßen, behalte mir jedoch meine Erinnerungen gegen eine solche Schäden Liquidation vor"
+      - claim: "and asks for a hearing at law and that the Government at Kalisz be instructed to open the taking of evidence on his suit against the Fiscus"
+        verdict: SUPPORTED
+        evidence: "mir das rechtliche Gehör zu verstatten, und die Regierung zu Kalisch anzuweisen, die Instruction der von mir wider den fiscum eingereichten Klage einzuleiten ('Instruction' glossed as taking of evidence)"
+      - claim: "Signed Stanisl v. Chełmski"
+        verdict: SUPPORTED
+        evidence: "Stanisl v. Chełmski mpp"
+      - claim: "In the margin of the first page are an official's note, mostly not read, which names Goldbeck"
+        verdict: SUPPORTED
+        evidence: "v. T. Ets. v. Goldbeck mir zugestellten Saml[?] ... (the note is mostly [?]; its position in the margin is from the layout, not stated in the text)"
+      - claim: "and the decision, Berlin, 21 October 1799: the Government's resolution of 10 September stands"
+        verdict: SUPPORTED
+        evidence: "Resd. daß es bey der resol. der Regierung vom 10 Sept. c. lediglich sein Bewenden behalte ... B[erlin]. d 21 8br. [17]99"
+      - claim: "since every creditor with personal claims on an insurgent's property will understand of himself that the costs of the war far exceed the whole estate of such an insurgent"
+        verdict: SUPPORTED
+        evidence: "da jeder Gläubiger welcher an das ehemahlige Vermögen eines Insurgenten personal Anspruche anzugeben habe, sich von selbst bescheiden werden. daß die Kriegs Kosten die ganze Masse eines solchen Insurgenten weit übersteigen müß[?]. (the doubtful word is the verb 'müß[?]', not used in the summary)"
+  "2":
+    statements:
+      - claim: "Copies of two decrees of the South Prussian Government at Kalisz, through its chancery"
+        verdict: SUPPORTED
+        evidence: "Copia. Decretum ... Königl: SüdPr. Regierungs Canzley ... Copia. Decretum ... Königl. SüdPreußl. Reg. Kanzley"
+      - claim: "to von Chełmski in his matter against Prusimski, into the hands of the criminal councillor Mondio"
+        verdict: OVERSTATED
+        evidence: "An den von Chełmski ad Manus des Cr. Rath Mond[io?] hieselbst; second: dem[?] K[r?]. R. Mondio. The name's ending and the title are marked [?] here; the criminal councillor Mondio is plain in documents 4, 5 and 7."
+        proposed: "to von Chełmski in his matter against Prusimski, into the hands of the criminal councillor Mondio (the name and title doubtfully read in this document, plain in document 4)"
+      - claim: "The first, of 10 September 1799, presented on 18 September"
+        verdict: SUPPORTED
+        evidence: "praest. d. 18 Septbr 1799. ... Kalisch den 10. Septbr 1799."
+      - claim: "answers his representation of 6 September"
+        verdict: SUPPORTED
+        evidence: "auf das Vorstellen des v Chełmski vom 6 Septbr. 1799"
+      - claim: "before the suit he asks for can be admitted, he must first show the real character of the claim, and that he must for that reason be satisfied from the estates"
+        verdict: OVERSTATED
+        evidence: "ehe die nachgelaßene Klage statt finde, habe er erst die real Qualitæt der Forderung, und daß er deshalb aus den Gütern befriedigt werden müste, zu bescheinigen. The text has 'nachgelaßene Klage' (the suit allowed/admitted), not a suit he 'asks for'."
+        proposed: "before the suit that has been allowed can take place, he must first prove the real character of the claim, and that he must for that reason be satisfied from the estates"
+      - claim: "The second, of 27 September, presented on 5 October: on the ground of the entirely clear content of the judgment of revision the ruling of the 10th stands, all the more as he treats this claim as a personal one"
+        verdict: SUPPORTED
+        evidence: "praes. d 5. Octobr. 1799. ... es verbleibe auf den Grund des ganz klaren Inhalts des Revisions Erkenntnisses bei der Verfügung vom 10ten huj. umsomehr, da er sollnst diese Forderung als eine persönliche behandelt. Kalisch den 27 Septbr. 1799."
+      - claim: "Below them the numbers 4980 and 3459"
+        verdict: SUPPORTED
+        evidence: "4980. (after the first decree) ... 3459. (after the second)"
+  "3":
+    statements:
+      - claim: "Draft of the resolution in the King's name for Stanislaus von Chełmski at Kalisz, Berlin, 21 October 1799"
+        verdict: SUPPORTED
+        evidence: "Berlin, den 21. October 1799. Resolution für den Stanislaus von Chełmski, zu Kalisch. ... Seine Königl: Majestaet von Preußen p p unser allergnædigster Herr, laßen dem Stanislaus von Chełmski ... hierdurch zum Bescheid ertheilen; 'draft' is not stated in the text, only the form (registry notes in the margin) suggests it"
+      - claim: "concerning his claim on the insurgent Prusimski"
+        verdict: SUPPORTED
+        evidence: "(wegen seiner Forderung an den Insurgenten v. Prusimski.)"
+      - claim: "signed by command, the signature not read"
+        verdict: SUPPORTED
+        evidence: "Ad mandatum. [Signature]"
+      - claim: "In answer to his representation submitted on the 8th"
+        verdict: SUPPORTED
+        evidence: "auf die wegen seiner Forderung an den ehemaligen Starosten von Prusimski unter dem 8. d. M. eingereichte Vorstellung"
+      - claim: "the resolution of the Government at Kalisz of 10 September must simply stand"
+        verdict: SUPPORTED
+        evidence: "daß es bey der Resolution der dortigen Regierung vom 10. Sept: c. lediglich sein Bewenden behalten müsse"
+      - claim: "since every creditor with personal claims on the former property of an insurgent will understand of himself that the costs of war spent on putting down the unrest the insurgents raised, and the damage they caused, far exceed the whole estate of such an insurgent"
+        verdict: SUPPORTED
+        evidence: "da jeder Glæubiger, welcher an das ehemalige Vermögen eines Insurgenten Personal-Ansprüche anzugeben hat, sich von selbst bescheiden wird, daß die zur Dæmpfung der von den Insurgenten erregten Unruhen verwendete Kriegskosten und die von ihnen verursachten Schæden die ganze Maße eines solchen Insurgenten weis übersteigen (printed 'weis' read weit, as in document 1)"
+      - claim: "Registry notes in the left column: received on the 21st, revised on the 22nd"
+        verdict: SUPPORTED
+        evidence: "acc. d. 21. ad rev. d. 22. (position in the left column is from the layout; 'ad rev.' = to revision)"
+      - claim: "to the general files on the debts of the insurgents, sent by post on the 30th"
+        verdict: SUPPORTED
+        evidence: "Acta gen: das Schuldenwesen der Insurgenten betr: zur Reg: d. 30ten zur Post."
+  "4":
+    statements:
+      - claim: "The criminal councillor Mondio, as Chełmski's attorney, to the King, Kalisz, 7 December 1799"
+        verdict: SUPPORTED
+        evidence: "Allergnädigster König und Herr! Kalisch den 7ten Decbr. 1799. Der Criminal Rath Mondio bittet Namens des v Chełmski ... mein Mandant"
+      - claim: "he asks for a preliminary ruling on Chełmski's complaint against the Government at Kalisz over the dismissal of his suit against the Fiscus"
+        verdict: SUPPORTED
+        evidence: "bittet Namens des v Chełmski auf Łukom um Vorbescheidung, auf die in Sachen desselben ./. den Fiscum wegen Abweisung der Klage, gegen die Regierung zu Kalisch gerichteten beschwerde"
+      - claim: "Chełmski had submitted the complaint, concerning a claim of 12,000 ducats, on 9 October"
+        verdict: SUPPORTED
+        evidence: "Bereits unter dem 9ten October d. J. hat mein Mandant ... bei Ew. Königl: Majestät eine Beschwerde ... betreffend eine Forderung von 12,000. ## eingereicht (as Mondio writes; the complaint, document 1, is dated 8 October)"
+      - claim: "and had had no answer"
+        verdict: OVERSTATED
+        evidence: "Da jedoch bis jezt keine Vorbescheidung erfolgt ist - the text says no preliminary ruling (Vorbescheidung) has followed; the resolution of 21 October (document 3) was an answer"
+        proposed: "and had had no preliminary ruling"
+      - claim: "The Government's decrees, Mondio writes, confuse the suit Chełmski first brought against the Prince of Hohenlohe, as present owner of the Trąbczyn estates confiscated from Prusimski, with the present one, which is directed against the Fiscus alone"
+        verdict: SUPPORTED
+        evidence: "Es liegt offenbar den Decreten der Regierung ein Mißverständniß zu Gründe, indem sie die von dem von Chełmski gegen den Fürsten von Hohenlohe, als nunmehrigen Eigenthümer der dem Prusimski confiscirten Güter Trąmpczyn anfänglich angestellte Klage mit derjenigen, welche allein gegen den Fiscum gerichtet ist, verwechselt"
+      - claim: "Chełmski accepts that the claim cannot be sued for against the Prince"
+        verdict: SUPPORTED
+        evidence: "Daß gegen den Fürsten von Hohenlohe-Ingelfingen die Forderung von 12000 #. nicht eingeklagt werden kann, bescheidet sich mein Mandant von selbst"
+      - claim: "but the court rescript of 17 September 1796 does not prevent him from claiming the capital from the Fiscus under the cabinet order of the 16th of that month"
+        verdict: SUPPORTED
+        evidence: "hingegen hindert ihn das Hofrescript vom 17ten. Septbr. 1796. in keinem Wege, das gedachte Capital nach der so klaren Verordnung der Aller höch[?]sten Cabinets Ordre vom 16ten. deß. M. u. Jahres, gegen den fiscum zu verfordern"
+      - claim: "and the rescript itself requires the taking of evidence and a formal judgment where a party does not rest content with a dismissal by decree"
+        verdict: SUPPORTED
+        evidence: "da selbst dieses Rescript ausdrüklich vest sezt, daß wenn sich die Partei bei der per Decretum erfolgten Abweisung, nicht beruhiget, die Instruction eingeleitet und in der Sache förmlich erkannt werden sollte (Instruction glossed as taking of evidence)"
+      - claim: "He encloses a copy of the suit with the bond, which Chełmski had brought before the Government at Poznań"
+        verdict: SUPPORTED
+        evidence: "Ich füge eine Abschrift der Klage mit dem Schuld Schein ex quo, welche mein Mandant schon bei der Posener Regierung angebracht, bei"
+      - claim: "first against Prusimski, before the judgment of confiscation was passed"
+        verdict: SUPPORTED
+        evidence: "daß derselbe zuerst gegen den Prusimski ehe noch das Confiscations Erkenntniß ergangen war, geklagt hatte"
+      - claim: "when it was resumed against the Fiscus only the person was changed"
+        verdict: SUPPORTED
+        evidence: "Bei der Reaßumtion des Prozeßes gegen den fiscum, ist weiter nichts, als die Person geändert worden"
+      - claim: "He asks for a ruling without delay"
+        verdict: SUPPORTED
+        evidence: "ihn schleunigst vorbescheiden zu lassen"
+      - claim: "Signed Mondio, criminal councillor"
+        verdict: SUPPORTED
+        evidence: "Mondio Criminalrath"
+      - claim: "A note in the margin begins Anteriora (the rest not read)"
+        verdict: SUPPORTED
+        evidence: "Anteriora M[?]. mit selbigen [?] Krb[?] 19. de[?] (position in the margin from the layout)"
+      - claim: "With it, the office's slip of 23 December 1799, bound later in the file: a copy of the resolution of 21 October given to his principal is to be communicated to him"
+        verdict: OVERSTATED
+        evidence: "Es ist dem Capit[?]. cop. der sein principal geworden resol. vom 21 8br. u. zu communiciren. B[erlin] d. 23 Xbr [17]99. The addressee ('Capit[?].') is doubtful, so 'to him' (Mondio) rests on a doubtful word; 'bound later in the file' comes from the page numbering (0016), not the text."
+        proposed: "With it, the office's slip of 23 December 1799, bound later in the file: a copy of the resolution of 21 October, given to his principal, is to be communicated (the addressee's title is doubtfully read)"
+      - claim: "signed with a name not read"
+        verdict: SUPPORTED
+        evidence: "de conclusi eodem [Willen?]"
+  "5":
+    statements:
+      - claim: "A copy of Mondio's petition to the King, headed Abschrift and dated Kalisz, 1 December 1799"
+        verdict: SUPPORTED
+        evidence: "Abschrift Kalisch d. 1ten Decbr. 1799. Allerdurchlauchtigster p p ... E. K. M."
+      - claim: "six days before the original (document 4)"
+        verdict: SUPPORTED
+        evidence: "Kalisch d. 1ten Decbr. 1799 against Kalisch den 7ten Decbr. 1799 in document 4"
+      - claim: "in the same words"
+        verdict: SUPPORTED
+        evidence: "The text matches document 4 sentence for sentence ('Bereits unter dem 9ten Octbr. d. J. hat mein Mandant ...' through 'ihn schleunigst vorbescheiden zu laßen'); only spelling and the Cabinet Order's date differ (the summary says so)"
+      - claim: "the request for a preliminary ruling on Chełmski's complaint of 9 October over the dismissal of his suit against the Fiscus for 12,000 ducats"
+        verdict: SUPPORTED
+        evidence: "Bereits unter dem 9ten Octbr. d. J. hat mein Mandant der Guts Besitzer v Chełmski bei E. K. M. eine Beschwerde gegen die hiesige Regierung wegen der zur Ungebühr geschehenen Abweisung mit einer wider den fiscum angestellten Klage, betreffend eine Forderung von 12,000 # #. eingereicht ... keine Vorbescheidung erfolgt ... ihn schleunigst vorbescheiden zu laßen"
+      - claim: "the confusion of the suit against the Prince of Hohenlohe with the one against the Fiscus"
+        verdict: SUPPORTED
+        evidence: "Mißverständniß zu Grunde, indem sie die von dem v. Chełmski gegen den Fürsten v Hohenlohe ... angestellte Klage mit der jetzigen, welche allein gegen den Fiscum gerichtet ist, verwechselt"
+      - claim: "the court rescript of 17 September 1796 and the cabinet order, here of the 10th of that month"
+        verdict: SUPPORTED
+        evidence: "das HofRescript vom 17ten Septbr. 1796. ... Cabinets Ordre vom 10t dess. M. und Jahres"
+      - claim: "the enclosed copy of the suit with the bond"
+        verdict: SUPPORTED
+        evidence: "Ich füge eine Abschrift der Klage mit dem Schuldschein ex quo ... bei"
+      - claim: "Signed Mondro, criminal councillor"
+        verdict: SUPPORTED
+        evidence: "Mondro Criminal Rath"
+  "6":
+    statements:
+      - claim: "Copy of Chełmski's suit, addressed to the King and dated Poznań, 19 March 1799"
+        verdict: SUPPORTED
+        evidence: "Copia. Allerdurchleuchtigstr p p Posen den 19ten Maert 1799. Klage des Stanisl[aus]. von Chełmski ... Bei E K M reiche ich daher meine Klage ... (see the note at the top on the year)"
+      - claim: "against the Starost Anton von Prusimski of Trąbczyn for 12,000 ducats on a note of hand"
+        verdict: SUPPORTED
+        evidence: "./. den Starosten Anton v Prusimski auf Trąmpczyn wegen 12000 #. ex Chirographo"
+      - claim: "with the Polish copy of Prusimski's undertaking"
+        verdict: SUPPORTED
+        evidence: "Copia Nizey wyrazony Blankiet Ręką własną moią podpisany ... daię te niniejszą sponsyą"
+      - claim: "On 16 June 1794, he writes, he advanced Prusimski 12,000 ducats for one year, to St John's Day 1795"
+        verdict: SUPPORTED
+        evidence: "Unterm 16 Juny 1794. umste ich dem Starosten Anton von Prusimski ... 12000. #. auf ein Jahr nehmlich bis zu Joh. 1795. vorschücken ('umste' is an irregular form, read as an auxiliary of vorschücken)"
+      - claim: "and received a blank note for it in the presence of Jacob von Bieńkowski of Mierzewo near Gniezno and Antonius v Przeradzki"
+        verdict: SUPPORTED
+        evidence: "worüber er mir das in der Abschr. angebogenen Blanquet in Gegenwart des Jacob von Bienkowski auf Mierzewo bei Gnesen und des Antonius v Przeradzki behandigte"
+      - claim: "it was agreed that if the money was not repaid on the date he might treat the note as a contractus antichreticus and take possession of the estates as a pledge"
+        verdict: OVERSTATED
+        evidence: "vera[b?]redet, daß, wofern die Räth palung[?] dieser 12000. #. nicht in Termino solutionis praefixo erfolgen sollte, ich das in Rede stehende Blanquet als einen Contractum antichreticum ausfallen, und von den aufgeführten Gütern Pfand Basiz nehmen könnte. 'vera[b?]redet' and 'Räth palung[?]' (the word for the repayment) are doubtful; 'in Termino solutionis praefixo' carries the sense."
+        proposed: "it was agreed that if payment was not made at the fixed date he might treat the note as a contractus antichreticus and take possession of the estates as a pledge"
+      - claim: "Payment did not follow, and he took possession"
+        verdict: OVERSTATED
+        evidence: "Die Zalung[?] ist auch in dem eingestandenen Termine, re[?]ha[l?]lich zu Johanni v. J. wirklich nicht erfolgt, und ich habe daher zu der Zeit den Basiz von diesen Gütern ergriffen. The subject 'Zalung[?]' is doubtful, and the date clause is partly unread."
+        proposed: "It was not paid on the agreed date, he writes, and he then took possession of the estates (the word for payment is doubtfully read)"
+      - claim: "Meanwhile the Fiscus charged Prusimski with taking part in the insurrection of 1794"
+        verdict: SUPPORTED
+        evidence: "Von dem Fisco ist inzwischen mein Schuldner wegen Theilnahme an der im Jahr 1794. in hiesiger Provinz ausgebrochenen Insurrection angeklagt worden"
+      - claim: "as he had not returned, his property was to be seized in May, which Chełmski forestalled by taking possession in June"
+        verdict: SUPPORTED
+        evidence: "weil er bis jezt sogar noch nicht zurük gekommen ist, so hat deßen Vermögen im Monat May v. J. vom fisco in Beschlag genommen werden sollen, und dem ich blos durch meine Besiz Ergreifung gedachter Güter im Monat Juny zuvor gekommen war"
+      - claim: "The Fiscus brought a suit for eviction on 7 December 1795"
+        verdict: SUPPORTED
+        evidence: "Zwar hat hierauf der fiscus bei Ew. K. M. unterm 7. Xbr. 1795. die Exmiss. Klage angestrengt"
+      - claim: "at the hearing of 27 February a settlement was made"
+        verdict: SUPPORTED
+        evidence: "es hat auch dieserhalb ein Termin auf den 27. Februar c. auf Höchst dero Regierung angestanden, allein es ist in demselben zwischen mir und dem Fisco folgender Vergleich zu Stande gekommen"
+      - claim: "Chełmski was to sequestrate the estates, first deduct the interest for delay at 7 per cent from the income, then render account"
+        verdict: SUPPORTED
+        evidence: "daß ich mehrerwähnte Güter sequestriren von der Einnahme zuvorderst die Verzugs zinsen mit 7. pro[cent] abregern, alsdann aber Rechnung legen"
+      - claim: "and pursue his claims at law"
+        verdict: OVERSTATED
+        evidence: "dabei aber [?]a[i?]e[?] anforderen gen[?] noch gerichtlich wahr nehmen soll - the object and the verb 'anforderen' are largely unread"
+        proposed: "and, it seems, still pursue [his further claims?] at law (the clause is only partly read)"
+      - claim: "He asks for a hearing to take evidence and that Prusimski be condemned to pay the 12,000 ducats and interest for delay at 7 per cent, with costs"
+        verdict: SUPPORTED
+        evidence: "Bitte Term. instr. anzusagen, und den Bekl. nicht nur dazu vorfordern, sondern ihn auch sowohl in die Bezalung der schuldigen 12000 # als Entrichtung der Verzugs Zinsen mit 7. proC. refusis expensis verurteilen zu laßen (Term. instr. glossed as hearing to take evidence)"
+      - claim: "and refers to the witnesses"
+        verdict: SUPPORTED
+        evidence: "beziehe ich mich auch auf obige vorgeschlagenen Zeugen"
+      - claim: "Signed v Chełmski"
+        verdict: SUPPORTED
+        evidence: "v Chełmski."
+      - claim: "The Polish copy, Łukom, 16 June 1794"
+        verdict: SUPPORTED
+        evidence: "Dnii[?] w Łukomie dnia 16. Juny 1794"
+      - claim: "to secure to Stanisław Chełmski, skarbnik, payment on the eve of St John the Baptist 1795 of the 12,000 Dutch ducats in gold named in the blank note, without interest"
+        verdict: SUPPORTED
+        evidence: "chcąc tym bardziey Termin onegoż wypłacenia zapewnić ... WJPanu Chełmskiemu Skarbnikowi ... w zapłaceniu na wigilię Swiętego Jana Chrzciciela w roku 1795. ... 12,000 # w Złocie Hollenderskim ważnym i obrączkowym bez Prowizyi (ducats = edition's reading of #)"
+      - claim: "Antoni Prusimski gives his undertaking that if he does not pay, Chełmski may enter his estates - the villages of Trąbczyn, Nowawies, Osiny, a further village whose name is not read, Łazy and all the Hollanders of the estate"
+        verdict: SUPPORTED
+        evidence: "daię te niniejszą sponsyą ... wolne wnieyscie do Dobr ... pozwalam, to iest Wśi Trąmpczyna, Nowey wśi, Ośin, wśi Zaro[Zosob?]ney, Łazow tudzież Hollendrow wszystkich do tey Maiętnośći należących"
+      - claim: "with a few exceptions, among them a magazine and the stores of timber"
+        verdict: OVERSTATED
+        evidence: "żadney Wśi boru, Lasu nie exceptuiąc procz Zabryki Zelazney Magazynu y zborów Drzewa do teyże potrzebnego - nothing is excepted EXCEPT the iron works, a magazine and the stores of timber needed for it; the iron works, the chief exception, is left out"
+        proposed: "excepting no village or wood except the iron works, a magazine and the stores of timber needed for it"
+      - claim: "and hold them in lieu of interest, without account, until the sum is repaid"
+        verdict: SUPPORTED
+        evidence: "WJP Chełmski posiadać potąd w prowizyi będzie bez żadney kalkulacyi pokąd ta Summa ... wypłacona nie będzie"
+      - claim: "the undertaking is to have the force of one made before a court"
+        verdict: SUPPORTED
+        evidence: "y też sponsyą wieć[?] tego Waloru chąc iakoby przy, sądowey osobie moy miana była"
+      - claim: "Signed Antoni Prusimski; witnesses Jakub Bieńkowski and Antoni Przeradzki"
+        verdict: SUPPORTED
+        evidence: "Antoni Prusimski S. [N?]. Mpp Jakub Bieńkowski przytomny Przyiaciół Antoni Przeradzki przytomny Przyiaciół"
+  "7":
+    statements:
+      - claim: "Draft to the criminal councillor Mondio at Kalisz, Berlin, 23 December 1799"
+        verdict: SUPPORTED
+        evidence: "Berlin, den 23. December 1799 An den Criminal-Rath Mondio zu Kalisch; 'draft' is not stated in the text, only the form (registry notes) suggests it"
+      - claim: "concerning Chełmski's complaints against the Government at Kalisz over the dismissal of his suit against the Fiscus"
+        verdict: SUPPORTED
+        evidence: "(v. Chełmski Beschwerden gegen die Kalischer Reg: wegen Abweisung seiner Klage c. Fiscum betr:)"
+      - claim: "signed by command, the signature not read"
+        verdict: SUPPORTED
+        evidence: "ad mandatum. [Signature]"
+      - claim: "In answer to the representation Mondio submitted on the 7th as Chełmski's attorney"
+        verdict: SUPPORTED
+        evidence: "Auf die von dem Criminal-Rath Mondro, als Mandatario des von Chełmski auf Łukom, unter dem 7. d. M. eingereichte Vorstellung"
+      - claim: "he is shown from the enclosed copy how Chełmski was answered on 21 October on his complaints"
+        verdict: SUPPORTED
+        evidence: "wird demselben aus der copeylichen Anlage zu ersehen gegeben, in welcher Maaße der von Chełmski auf seine Beschwerden ... unter dem 21. October c. beschieden worden"
+      - claim: "Registry notes: received on the 23rd, revised on the 24th, enclosures attached, sent by post on the 31st"
+        verdict: SUPPORTED
+        evidence: "acc. d. 23. ad rev. d. 24. Anl. liegen bey ... d 31tn O. aus zur Post"
+german_differences:
+  - document: "1, 4, 6"
+    english: "hearing to take evidence / the taking of evidence"
+    german: "Instruktionstermin / Instruktion"
+    note: "The German keeps the procedural term of the document, the English glosses it; the two say the same thing, the English a little more specifically than the text."
+  - document: "6"
+    english: "note of hand (ex Chirographo); blank note"
+    german: "Schuldschein (ex Chirographo); Blankett"
+    note: "Terms differ in wording only; no difference of fact."
+  - document: "all others"
+    english: "-"
+    german: "-"
+    note: "No other difference found: the dates, names, figures, the places where the reading is not certain (signatures not read, the village in document 6, the rest of the Anteriora note) and the structure agree in both languages."

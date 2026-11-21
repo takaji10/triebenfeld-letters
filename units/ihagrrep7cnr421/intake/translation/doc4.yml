@@ -1,0 +1,74 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 7
+  en: '[r?]. [1?]5 Dec. 99. Most Serene, Most Mighty, Most Gracious King and Lord! Kalisz, 7 December 1799.
+
+
+    The criminal-court councillor Mondio asks, in the name of v Chełmski of Łukom, for a preliminary ruling on the complaint against the Government at Kalisz in his matter ./.
+
+
+    the Fiscus, over the dismissal of the suit.
+
+
+    Anteriora M[?]. with the same [?] Krb[?] 19. de[?]
+
+
+    As early as 9 October this year my client, the landowner von Chełmski, submitted to Your Royal Majesty a complaint against the Government here over the improper dismissal[?] of a suit brought against the Fiscus concerning a claim of
+
+
+    12,000 ducats,'
+  flagged:
+  - &id001
+    de: Abweisung
+    rendered_as: dismissal
+    alt: instruction (Anweisung)
+    why: Abweisung, the dismissal of the suit by the Government; not Anweisung, an instruction.
+- page: 2
+  confidence: high
+  marker_count: 1
+  en: 'and most humbly asked for a hearing at law. As no preliminary ruling has followed yet, I make bold to petition Your Most High Majesty again on this matter. The decrees of the Government plainly rest on a misunderstanding, in that they confuse the suit that von Chełmski first brought against the Prince of Hohenlohe, as present owner of the Trąbczyn estates confiscated from Prusimski, with the one that is directed against the Fiscus alone.
+
+
+    That the claim of 12,000 ducats cannot be sued for against the Prince of Hohenlohe-Ingelfingen, my client understands of himself. On the other hand, the Court Rescript of 17 September 1796 in no way prevents him from claiming the said capital, under the clear provision of the Most High[?] Cabinet Order of the 16th of the same month and year,'
+  flagged: []
+- page: 3
+  confidence: high
+  marker_count: 0
+  en: 'from the Fiscus.
+
+
+    If, moreover, the Government follows the letter of the Court Rescript, which is not binding in itself, it nonetheless cannot refuse von Chełmski a hearing at law in this matter, since this very Rescript expressly lays down that if the party does not rest content with a dismissal by decree, the taking of evidence is to be opened and the matter formally adjudged.
+
+
+    This, in my opinion, must happen in every legal matter where the party cannot be convinced that the dismissal was lawful. I enclose a copy of the suit with the bond ex quo, which my client had already brought before the Government at Poznań; only I must remark that he had first sued Prusimski before the judgment of confiscation'
+  flagged:
+  - *id001
+- page: 4
+  confidence: high
+  marker_count: 0
+  en: 'had been passed.
+
+
+    On the resumption of the proceedings against the Fiscus nothing was changed but the person. So that the matter may not be delayed any longer and the plaintiff may at last be satisfied, I most humbly ask Your Royal Majesty
+
+
+    to have a preliminary ruling given him without delay. I who remain, until death, in deepest reverence Your Royal Majesty''s most humble Mondio
+
+
+    criminal-court councillor
+
+
+    No. 33.'
+  flagged: []
+- page: 5
+  confidence: high
+  marker_count: 2
+  en: 'ad no. 9.
+
+
+    A copy of the resolution of 21 Oct. given to his principal is to be communicated to the Capit[?]. B[erlin], 23 Dec. [17]99. de conclusi eodem
+
+
+    [Willen?]'
+  flagged: []

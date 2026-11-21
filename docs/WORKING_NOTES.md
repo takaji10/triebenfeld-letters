@@ -4389,3 +4389,49 @@ first and a fine pass at their word. The files are in
   the site (a box on each document's page linking the others, with the
   sentence shown) and what dropping it loses, not only what the documents
   say.
+
+## I. HA GR, Rep. 7 C, Nr. 421: crops, a catchword under a margin, the instances (2026-11-21)
+
+- **The editor's own crops of a scan need four-digit page ids.** The editor
+  sent 0014a and 0014b (the two sides of opening 0014, cropped by them) with
+  transcriptions named after them. match_scans and relabel_scans take a
+  capture of four digits (`_(\d{4})_([a-h])`), so a page `0014a_a` would
+  break the pairing: name the crops `0014_a1` and `0014_a2`, leave out the
+  uncut 0014, and say in the holding script which source file each page
+  reads (`SOURCE_OF` in units/ihagrrep7cnr421/intake/holding.py).
+- **A margin block beside a column that ends in a broken word and a
+  catchword goes first on the page.** On 0002_a2 the column ends "von Kö¬"
+  with the catchword "nigl:" at its foot; the notes in the margin, put
+  before the catchword as WORKING_NOTES says for an office note, split the
+  word in the reading text ("Kö¬ || Es [sind?]"). Put the block before the
+  column's first line instead: the line-break pass then joins "Kö¬" to the
+  catchword and drops the catchword as usual. The block is set apart on the
+  site wherever it stands.
+- **Read every "split" the line-break resolver proposes.** It splits a
+  "¬"-broken word whose joined form neither the corpus nor DWDS knows: here
+  19 of 21 were one word (Ur¬tel, Perso¬nalklagen, Re¬visions, Mier¬zewo,
+  the Polish wy¬rażone). Keep the joins in a holding script that writes
+  `held` rows (units/ihagrrep7cnr421/intake/linebreaks.py); resolve_linebreaks
+  carries held rows over.
+- **Run make_scan_derivatives.py after relabel_scans.py --apply.** The
+  relabelling prunes the old web copies and says so; the regenerate wrapper
+  does not make new ones, and verify_site.py then fails on broken scan links
+  for every page of the holding.
+- **"Second instance" is not "revision".** In Prussian procedure of the 1790s
+  the appeal was the second instance and the revision the third: when one
+  document says a suit was lost "in der 2ten Instanz" and another speaks of
+  the "Revisions Erkenntniß", do not equate them in a connection note.
+- **A copy's date can be checked against its own chronology.** The suit
+  copied in document 6 is dated 1799, but its "27. Februar c." and "Johanni
+  v. J." fit 1796; put the digit on the spot sheet, keep the date the page
+  bears, and write the doubt into the holding page without a year the
+  documents do not state (check_unit_text fails on one).
+- **An existing person entry may already hold a new holding's man.** Mondro,
+  the Prince's attorney in Nr. 3705 (1805), is Chełmski's lawyer in Nr. 421
+  (1799); the index found him only because the entry's one form matched two
+  of the editor's readings. Look through people.yml for the names of a new
+  holding before proposing entries.
+- **Sub-agents as readers, again**: two of four left strips unopened and said
+  so; read those strips yourself before settling. A brief that names the
+  file's internal witnesses (two copies of one petition, a decision and its
+  clean draft) lets the readers settle many readings on their own.

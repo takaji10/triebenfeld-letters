@@ -24,6 +24,42 @@
   "note": "Cites 'die Urkunde vom 19. Juny d. J. bereits verliehenen Gütern: Betschen, Zagórów und Wienietz'. Dated 1 December 1797, so 'd. J.' is 1797."
  },
  {
+  "from": "ihagrrep7cnr421-1",
+  "kind": "transmits",
+  "to": "ihagrrep7cnr421-2",
+  "note": "Chełmski encloses the decree of 10 September 'in Abschrift' and that of 27 September 'abschriftlich'; document 2 holds the copies of both."
+ },
+ {
+  "from": "ihagrrep7cnr421-3",
+  "kind": "answers",
+  "to": "ihagrrep7cnr421-1",
+  "note": "The King's answer to the petition 'unter dem 8. d. M. eingereicht': the government's resolution of 10 September stands."
+ },
+ {
+  "from": "ihagrrep7cnr421-5",
+  "kind": "copies",
+  "to": "ihagrrep7cnr421-4",
+  "note": "The same petition word for word, headed 'Abschrift' and dated 1 December, six days before the original."
+ },
+ {
+  "from": "ihagrrep7cnr421-4",
+  "kind": "supplements",
+  "to": "ihagrrep7cnr421-1",
+  "note": "Mondio presses again the complaint Chełmski submitted 'Bereits unter den 9ten October', which had had no answer."
+ },
+ {
+  "from": "ihagrrep7cnr421-4",
+  "kind": "transmits",
+  "to": "ihagrrep7cnr421-6",
+  "note": "'Ich füge eine Abschrift der Klage mit dem Schuld Schein ex quo ... bei': document 6 is that copy of the suit, with the bond."
+ },
+ {
+  "from": "ihagrrep7cnr421-7",
+  "kind": "answers",
+  "to": "ihagrrep7cnr421-4",
+  "note": "Mondio is sent a copy of the answer of 21 October to his petition 'unter dem 7. d. M. eingereicht'."
+ },
+ {
   "from": "ihagrrep7cnr3709-1",
   "kind": "transmits",
   "to": "ihagrrep7cnr3709-2",

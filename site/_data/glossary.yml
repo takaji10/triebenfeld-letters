@@ -36,7 +36,7 @@
   initial_en: "C"
   sort_de: "courant"
   initial_de: "C"
-  docs: 63
+  docs: 65
 - id: "groschen"
   kind: "money"
   lang: "de"
@@ -112,7 +112,7 @@
   initial_en: "D"
   sort_de: "dukaten"
   initial_de: "D"
-  docs: 17
+  docs: 21
 - id: "gulden"
   kind: "money"
   lang: "de"
@@ -416,7 +416,7 @@
   initial_en: "L"
   sort_de: "herrschaft"
   initial_de: "H"
-  docs: 42
+  docs: 43
 - id: "unterthanen"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 51
+  docs: 52
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -758,7 +758,7 @@
   initial_en: "S"
   sort_de: "sequestration"
   initial_de: "S"
-  docs: 40
+  docs: 41
 - id: "execution"
   kind: "law"
   lang: "de_la"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 66
+  docs: 68
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1119,7 +1119,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 102
+  docs: 105
 - id: "grod"
   kind: "law"
   lang: "pl"
@@ -1252,7 +1252,7 @@
   initial_en: "W"
   sort_de: "revers"
   initial_de: "R"
-  docs: 18
+  docs: 19
 - id: "transact"
   kind: "law"
   lang: "de_la"
@@ -1480,7 +1480,26 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 107
+  docs: 114
+- id: "fiscus"
+  kind: "law"
+  lang: "de"
+  head_en: "Fiscus"
+  head_de: "Fiskus"
+  orig: "Fiscus, Fisco, fiscum"
+  short_en: "The Crown's treasury as a party at law. In the documents of the 1790s the property confiscated from the insurgents of 1794 fell to the Fiscus, and a creditor who wanted to be paid out of it had to sue the Fiscus before the provincial Government. The German texts keep the Latin case forms, \"vom Fisco\", \"gegen den fiscum\"."
+  short_de: "Die Staatskasse als Partei vor Gericht. In den Dokumenten der 1790er Jahre fiel das den Insurgenten von 1794 eingezogene Vermögen an den Fiskus, und ein Gläubiger, der daraus bezahlt werden wollte, musste den Fiskus vor der Regierung der Provinz verklagen. Die deutschen Texte behalten die lateinischen Fälle, „vom Fisco“, „gegen den fiscum“."
+  long_en: ""
+  long_de: ""
+  source: ""
+  check_against: "Krünitz, Oekonomische Encyklopädie"
+  source_html: ""
+  checked: false
+  sort_en: "fiscus"
+  initial_en: "F"
+  sort_de: "fiskus"
+  initial_de: "F"
+  docs: 34
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1499,7 +1518,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 88
+  docs: 91
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1575,7 +1594,7 @@
   initial_en: "C"
   sort_de: "cabinets-ordre"
   initial_de: "C"
-  docs: 29
+  docs: 32
 - id: "landrath"
   kind: "law"
   lang: "de"
@@ -1746,7 +1765,7 @@
   initial_en: "I"
   sort_de: "in solidum"
   initial_de: "I"
-  docs: 3
+  docs: 4
 - id: "kreis-justiz-commission"
   kind: "law"
   lang: "de"
@@ -1803,7 +1822,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 358
+  docs: 362
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1860,7 +1879,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 360
+  docs: 363
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1879,7 +1898,7 @@
   initial_en: "H"
   sort_de: "h., dh., hl."
   initial_de: "H"
-  docs: 172
+  docs: 173
 - id: "closing-formulas"
   kind: "phrase"
   lang: "de"
@@ -1917,7 +1936,7 @@
   initial_en: "I"
   sort_de: "ersterbe"
   initial_de: "E"
-  docs: 175
+  docs: 177
 - id: "term-days"
   kind: "phrase"
   lang: "de"
@@ -1936,7 +1955,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 71
+  docs: 73
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -2069,7 +2088,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 48
+  docs: 51
 - id: "d-j"
   kind: "phrase"
   lang: "de"
@@ -2088,7 +2107,7 @@
   initial_en: "D"
   sort_de: "d. j., a. c., ej. a."
   initial_de: "D"
-  docs: 38
+  docs: 41
 - id: "pct"
   kind: "phrase"
   lang: "la"
@@ -2126,7 +2145,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 100
+  docs: 101
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

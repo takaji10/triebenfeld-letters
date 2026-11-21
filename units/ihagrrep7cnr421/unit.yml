@@ -1,0 +1,147 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: ihagrrep7cnr421
+# The editor gave the reference as "I. HA Rep. 7 C Nr. 421" (2026-11-21);
+# written with the GR of the series (the archive's label on the cover:
+# "I. HA Geheimer Rat, Rep. 7 C Südpreußen"), as its siblings Nr. 1414, 3067,
+# 3132, 3570, 3705 and 3709 are.
+ref: I. HA GR, Rep. 7 C, Nr. 421
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+title: >-
+  The Prussian ministry's file of 1799 on the complaint of Stanisław Chełmski
+  of Łukom, who in 1794 had lent the starost Antoni Prusimski 12,000 ducats
+  against a pledge of Trąbczyn and its villages, that the South Prussian
+  government at Kalisz would not hear his suit against the Fiscus once
+  Prusimski's estates had been confiscated and given to the Prince of
+  Hohenlohe; the King's answer of 21 October 1799 refused him.
+title_de: >-
+  Die Akte des preußischen Ministeriums von 1799 über die Beschwerde des
+  Stanisław Chełmski auf Łukom, der dem Starosten Antoni Prusimski 1794
+  12.000 Dukaten gegen ein Pfand auf Trąbczyn und seine Dörfer geliehen
+  hatte, dass die südpreußische Regierung zu Kalisch seine Klage gegen den
+  Fiskus nicht annahm, nachdem Prusimskis Güter eingezogen und dem Fürsten
+  von Hohenlohe gegeben worden waren; der Bescheid des Königs vom
+  21. Oktober 1799 wies ihn ab.
+# The archive's title of the unit, as the editor gave it (2026-11-21).
+archive_title: >-
+  Beschwerden des v. Chelmski wegen seiner Forderung an den ehemaligen
+  Starosten v. Prusinski
+original_title: >-
+  Beschwerden des v. Chelmski wegen seiner Forderung an den ehemaligen
+  Starosten v. Prusinski
+original_title_card: "Beschwerden des v. Chelmski wegen seiner Forderung an den ehemaligen Starosten v. Prusinski"
+card_title: "The complaints of von Chelmski concerning his claim on the former starost von Prusinski"
+card_title_de: "Beschwerden des v. Chelmski wegen seiner Forderung an den ehemaligen Starosten v. Prusinski"
+full_title: "The complaints of von Chelmski concerning his claim on the former starost von Prusinski"
+full_title_de: "Beschwerden des v. Chelmski wegen seiner Forderung an den ehemaligen Starosten v. Prusinski"
+short_title: "Chełmski's claim on Prusimski, 1799"
+short_title_de: "Chełmskis Forderung an Prusimski, 1799"
+# What kind of material the holding is: reference/unit_types.yml.
+types: [government-files]
+# The languages of the documents, the main one first - reference/languages.yml.
+# The copy of Prusimski's bond (document 6, last page) is Polish.
+languages: [de, pl]
+date_span: 1799
+status: translated              # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. The Prussian files
+# of the estate's Prussian years stand in that era, as Nr. 1414, 3067 and 3132 do.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# Translated in session into the untagged cache (cache/translation-raw), as
+# Nr. 3067 and 3132 were.
+published_tag: ""
+
+# Twenty-one scans as the editor gave them (2026-11-21); the seventeen with a
+# transcription are used (0015, 0018, 0019 left out at the editor's word; 0014
+# replaced by the editor's crops 0014a and 0014b). 0001 is the cover; the
+# others are openings of the file, cut at the fold by intake/holding.py, which
+# records the folds, the page edges and the blank sides left out.
+scans:
+  raw_dir: C:/Users/Tersnaus/Downloads/74344_Lacko/I_HA_Rep_7_C_Nr_421
+  raw_glob: I_HA_Rep_7_C_Nr_421_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: I_HA_Rep_7_C_Nr_421
+
+# One file per page, named I_HA_Rep_7_C_Nr_421_<page id>.txt (0002_a2,
+# 0014_a1). Made from the editor's one-file-per-scan transcriptions by
+# intake/holding.py, which also writes corpus.txt (the office's slip of
+# 23 Dec. 1799 stands with document 4, out of the file's order).
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: "I_HA_Rep_7_C_Nr_421_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts.
+description: >-
+  A file of the Prussian ministry (the Geheimer Rat, department of South
+  Prussia), October to December 1799. In June 1794 Stanisław von Chełmski of
+  Łukom, a landowner near Pyzdry, lent the starost Anton (Antoni) von
+  Prusimski of Trąbczyn 12,000 ducats in gold for one year, against a blank
+  note and a written undertaking that if the money was not repaid by St John's
+  Day 1795 Chełmski might take possession of Trąbczyn, Nowa Wieś, Osiny, Łazy
+  and the Hauländer and hold them until repaid. Prusimski joined the
+  insurrection of 1794, fled, and was condemned; his property was confiscated
+  by the Fiscus, and the Trąbczyn estates were given to the Prince of
+  Hohenlohe-Ingelfingen. Chełmski, who had entered on the estates in June
+  1795, had to give them up and sued the Fiscus instead; the South Prussian
+  government at Kalisz refused his suit (decrees of 10 and 27 September 1799)
+  because his claim was a personal one. The file holds his petition to the King
+  of 8 October 1799 (with the ministry's decision in its margin), copies of the
+  two decrees, the draft of the King's answer of 21 October refusing him, the
+  petition of his lawyer, the criminal councillor Mondio, of 7 December (with
+  the office's slip ordering the answer) and a copy of it dated 1 December,
+  the copy of Chełmski's suit of 19 March 1799 against Prusimski before the
+  government at Posen with the Polish copy of Prusimski's undertaking of
+  16 June 1794, and the draft of 23 December sending Mondio a copy of the
+  answer of 21 October.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Papers of the Prussian ministry and petitions to the King. "#" after a sum is
+  the ducat (the bond: "Hollenderskich Obrączkowych", Dutch ducats in gold).
+  "Fiscus" (Fisco, fiscum) is the Crown's treasury as a party at law; "die
+  Regierung zu Kalisch" is the South Prussian government, the court; "Decret"
+  and "Resolution" are its and the King's rulings on a petition; "Revers" and
+  "Blanquet" (Polish "Blankiet") are the note of hand Prusimski gave;
+  "Confiscations Urtel" and "Revisions Erkenntniß" are the sentence of
+  confiscation and the judgment on appeal; "Cabinets Ordre" is the King's order
+  from his cabinet, "Hofrescript" a rescript of the ministry of justice;
+  "Personal-Anspruch", "persönliche Forderung" a claim against the person, not
+  secured on land; "Contractus antichreticus" the pledge of land whose
+  revenues stand for the interest; "Term. instr." (Terminus instructionis) a
+  hearing to take evidence; "ex Chirographo" on a note of hand; "refusis
+  expensis" with costs; "Mandant", "Mandatarius" the client and his lawyer.
+  "Starost" is a holder of a royal starostwo in the old Polish state.
+  "Criminal Rath" Mondio of Kalisz is Chełmski's lawyer. Places: Kalisch is
+  Kalisz, Posen Poznań, Peysern Pyzdry; "Trąmpczyn" is Trąbczyn, "Nowa Wieś"
+  (Nowey wśi), Osiny (Ośin), "Łazy" (Łazow) and the "Hauländer"/"Holendrzy" the
+  estate's villages and colonists; Łukom (Łukomie) Chełmski's estate, Mierzewo
+  near Gniezno. The last page of document 6 is a copy in POLISH of Prusimski's
+  undertaking: translate it from the Polish. A word followed by [?] is one the
+  reading leaves doubtful, and the English keeps the doubt. Names stay as the
+  clerk wrote them (Prusimski, Prusimeki, Prusinski) unless the edition has a
+  settled form.
+
+# What the "Method" tab says (reference/prepared.yml).
+prepared:
+  transcription:
+  - t-editor
+  - en: Readings by Claude, made independently of each other, compared every line with the scans, and Claude settled each difference on the image. A word was changed only where the page is plain or a witness settles it, such as the same text in the file's second copy of a petition or a fixed formula; words that remain doubtful are marked [?], and words struck out are not transcribed.
+    de: Voneinander unabhängige Lesungen von Claude verglichen jede Zeile mit den Scans, und Claude entschied jede Abweichung am Bild. Ein Wort wurde nur geändert, wo die Seite eindeutig ist oder ein Beleg es entscheidet, etwa derselbe Text in der zweiten Abschrift einer Eingabe in der Akte oder eine feste Formel; zweifelhaft gebliebene Wörter sind mit [?] markiert, gestrichene Wörter sind nicht transkribiert.
+  translation:
+  - l-claude
+  - l-auto-check
+  - s-claude

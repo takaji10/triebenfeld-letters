@@ -2,7 +2,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 499,
+  "count": 514,
   "documents": [
    "adwl85-1",
    "agad118501169-1",
@@ -98,6 +98,12 @@
    "ihagrrep7cnr3132-9",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3709-6",
+   "ihagrrep7cnr421-1",
+   "ihagrrep7cnr421-2",
+   "ihagrrep7cnr421-3",
+   "ihagrrep7cnr421-4",
+   "ihagrrep7cnr421-5",
+   "ihagrrep7cnr421-6",
    "iiihamdaiiinr12366-2",
    "iiihamdaiiinr12366-3",
    "iiihamdaiiinr12366-5",
@@ -3851,6 +3857,42 @@
     "doc_line": 51
    },
    {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0012_a2-L6_01.jpg",
+    "line": 551,
+    "doc_line": 9
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0012_a2-L6_01.jpg",
+    "line": 557,
+    "doc_line": 15
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Prusimski",
+    "page": 3,
+    "page_id": "0013_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0013_a2-L6_03.jpg",
+    "line": 627,
+    "doc_line": 83
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Prusimski",
+    "page": 5,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0014_a2-L6_05.jpg",
+    "line": 689,
+    "doc_line": 143
+   },
+   {
     "uid": "oe1bu9454-105",
     "surface": "Prusimski",
     "page": 3,
@@ -3878,6 +3920,69 @@
     "doc_line": 31
    },
    {
+    "uid": "ihagrrep7cnr421-2",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0006_a2-L2_01.jpg",
+    "line": 256,
+    "doc_line": 7
+   },
+   {
+    "uid": "ihagrrep7cnr421-2",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0006_a2-L2_01.jpg",
+    "line": 275,
+    "doc_line": 26
+   },
+   {
+    "uid": "ihagrrep7cnr421-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0002_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0002_a2-L1_01.jpg",
+    "line": 35,
+    "doc_line": 27
+   },
+   {
+    "uid": "ihagrrep7cnr421-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0002_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0002_a2-L1_01.jpg",
+    "line": 43,
+    "doc_line": 35
+   },
+   {
+    "uid": "ihagrrep7cnr421-1",
+    "surface": "Prusimskischen",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0003_a2-L1_03.jpg",
+    "line": 102,
+    "doc_line": 92
+   },
+   {
+    "uid": "ihagrrep7cnr421-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0007_a2-L3_01.jpg",
+    "line": 299,
+    "doc_line": 6
+   },
+   {
+    "uid": "ihagrrep7cnr421-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0007_a2-L3_01.jpg",
+    "line": 311,
+    "doc_line": 18
+   },
+   {
     "uid": "oe1bu14525-2",
     "surface": "Prusimski",
     "page": 2,
@@ -3885,6 +3990,42 @@
     "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
     "line": 234,
     "doc_line": 46
+   },
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0011_a2-L5_01.jpg",
+    "line": 505,
+    "doc_line": 16
+   },
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0012_a1",
+    "scan": "I_HA_Rep_7_C_Nr_421_0012_a1-L5_02.jpg",
+    "line": 529,
+    "doc_line": 39
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0009_a1",
+    "scan": "I_HA_Rep_7_C_Nr_421_0009_a1-L4_02.jpg",
+    "line": 387,
+    "doc_line": 56
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Prusimski",
+    "page": 3,
+    "page_id": "0009_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0009_a2-L4_03.jpg",
+    "line": 451,
+    "doc_line": 119
    },
    {
     "uid": "ihagrrep7cnr3709-6",
@@ -9383,7 +9524,7 @@
  {
   "entity": "hohenlohe",
   "display": "Hohenlohe",
-  "count": 482,
+  "count": 488,
   "documents": [
    "agad11740273-2",
    "agad11740273-3",
@@ -9412,6 +9553,9 @@
    "ihagrrep7cnr3709-7",
    "ihagrrep7cnr3709-8",
    "ihagrrep7cnr3709-9",
+   "ihagrrep7cnr421-1",
+   "ihagrrep7cnr421-4",
+   "ihagrrep7cnr421-5",
    "iharep162nr295-1",
    "iharep162nr295-3",
    "iiihamdaiiinr12366-2",
@@ -9984,6 +10128,24 @@
     "doc_line": 70
    },
    {
+    "uid": "ihagrrep7cnr421-1",
+    "surface": "Hohenlohe",
+    "page": 1,
+    "page_id": "0002_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0002_a2-L1_01.jpg",
+    "line": 59,
+    "doc_line": 51
+   },
+   {
+    "uid": "ihagrrep7cnr421-1",
+    "surface": "Hohenlohe",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0003_a2-L1_03.jpg",
+    "line": 99,
+    "doc_line": 89
+   },
+   {
     "uid": "oe1bu14525-2",
     "surface": "Hohenlohe",
     "page": 1,
@@ -10009,6 +10171,42 @@
     "scan": "Oe_1_Bu_14525_0007_a2-L2_03.jpg",
     "line": 260,
     "doc_line": 71
+   },
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Hohenlohe",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0011_a2-L5_01.jpg",
+    "line": 504,
+    "doc_line": 15
+   },
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Hohenlohe",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0011_a2-L5_01.jpg",
+    "line": 508,
+    "doc_line": 19
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Hohenlohe",
+    "page": 2,
+    "page_id": "0009_a1",
+    "scan": "I_HA_Rep_7_C_Nr_421_0009_a1-L4_02.jpg",
+    "line": 385,
+    "doc_line": 54
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Hohenlohe",
+    "page": 2,
+    "page_id": "0009_a1",
+    "scan": "I_HA_Rep_7_C_Nr_421_0009_a1-L4_02.jpg",
+    "line": 396,
+    "doc_line": 65
    },
    {
     "uid": "oe1bu14525-32",
@@ -13894,7 +14092,7 @@
  {
   "entity": "chemski",
   "display": "Chełmski",
-  "count": 403,
+  "count": 424,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -13964,6 +14162,13 @@
    "app536046-1",
    "app536046-2",
    "app536047-1",
+   "ihagrrep7cnr421-1",
+   "ihagrrep7cnr421-2",
+   "ihagrrep7cnr421-3",
+   "ihagrrep7cnr421-4",
+   "ihagrrep7cnr421-5",
+   "ihagrrep7cnr421-6",
+   "ihagrrep7cnr421-7",
    "oe1bu9454-102",
    "oe1bu9454-286",
    "oe1bu9454-75"
@@ -17586,6 +17791,195 @@
     "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
     "line": 8020,
     "doc_line": 10
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0012_a2-L6_01.jpg",
+    "line": 547,
+    "doc_line": 5
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Chełmski",
+    "page": 4,
+    "page_id": "0014_a1",
+    "scan": "I_HA_Rep_7_C_Nr_421_0014_a1-L6_04.jpg",
+    "line": 656,
+    "doc_line": 111
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Chełmskiemu",
+    "page": 5,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0014_a2-L6_05.jpg",
+    "line": 662,
+    "doc_line": 116
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Chełmski",
+    "page": 5,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0014_a2-L6_05.jpg",
+    "line": 676,
+    "doc_line": 130
+   },
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Chełmskiemu",
+    "page": 5,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0014_a2-L6_05.jpg",
+    "line": 687,
+    "doc_line": 141
+   },
+   {
+    "uid": "ihagrrep7cnr421-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0006_a2-L2_01.jpg",
+    "line": 253,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr421-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0006_a2-L2_01.jpg",
+    "line": 266,
+    "doc_line": 17
+   },
+   {
+    "uid": "ihagrrep7cnr421-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0006_a2-L2_01.jpg",
+    "line": 275,
+    "doc_line": 26
+   },
+   {
+    "uid": "ihagrrep7cnr421-1",
+    "surface": "Chełmski",
+    "page": 7,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0005_a2-L1_07.jpg",
+    "line": 244,
+    "doc_line": 230
+   },
+   {
+    "uid": "ihagrrep7cnr421-3",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0007_a2-L3_01.jpg",
+    "line": 296,
+    "doc_line": 3
+   },
+   {
+    "uid": "ihagrrep7cnr421-3",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0007_a2-L3_01.jpg",
+    "line": 309,
+    "doc_line": 16
+   },
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0011_a2-L5_01.jpg",
+    "line": 494,
+    "doc_line": 5
+   },
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0011_a2-L5_01.jpg",
+    "line": 503,
+    "doc_line": 14
+   },
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0011_a2-L5_01.jpg",
+    "line": 517,
+    "doc_line": 28
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0008_a2-L4_01.jpg",
+    "line": 338,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0008_a2-L4_01.jpg",
+    "line": 355,
+    "doc_line": 25
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0009_a1",
+    "scan": "I_HA_Rep_7_C_Nr_421_0009_a1-L4_02.jpg",
+    "line": 383,
+    "doc_line": 52
+   },
+   {
+    "uid": "ihagrrep7cnr421-4",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0009_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0009_a2-L4_03.jpg",
+    "line": 421,
+    "doc_line": 89
+   },
+   {
+    "uid": "ihagrrep7cnr421-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
+    "line": 700,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr421-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
+    "line": 710,
+    "doc_line": 14
+   },
+   {
+    "uid": "ihagrrep7cnr421-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
+    "line": 714,
+    "doc_line": 18
    },
    {
     "uid": "oe1bu9454-286",
@@ -72576,6 +72970,54 @@
   ]
  },
  {
+  "entity": "mondro",
+  "display": "Mondro",
+  "count": 4,
+  "documents": [
+   "ihagrrep7cnr3705-1",
+   "ihagrrep7cnr421-5",
+   "ihagrrep7cnr421-7"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr421-5",
+    "surface": "Mondro",
+    "page": 2,
+    "page_id": "0012_a1",
+    "scan": "I_HA_Rep_7_C_Nr_421_0012_a1-L5_02.jpg",
+    "line": 539,
+    "doc_line": 49
+   },
+   {
+    "uid": "ihagrrep7cnr421-7",
+    "surface": "Mondro",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
+    "line": 709,
+    "doc_line": 13
+   },
+   {
+    "uid": "ihagrrep7cnr3705-1",
+    "surface": "Mondro",
+    "page": 4,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3705_0005_a-L1_04.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "ihagrrep7cnr3705-1",
+    "surface": "Mondro",
+    "page": 4,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3705_0005_a-L1_04.jpg",
+    "line": 125,
+    "doc_line": 115
+   }
+  ]
+ },
+ {
   "entity": "schuckmann",
   "display": "Schuckmann",
   "count": 4,
@@ -74303,34 +74745,6 @@
     "scan": "I_HA_Rep_7_C_Nr_3705_0004_a-L1_03.jpg",
     "line": 83,
     "doc_line": 74
-   }
-  ]
- },
- {
-  "entity": "mondro",
-  "display": "Mondro",
-  "count": 2,
-  "documents": [
-   "ihagrrep7cnr3705-1"
-  ],
-  "mentions": [
-   {
-    "uid": "ihagrrep7cnr3705-1",
-    "surface": "Mondro",
-    "page": 4,
-    "page_id": "0005_a",
-    "scan": "I_HA_Rep_7_C_Nr_3705_0005_a-L1_04.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "ihagrrep7cnr3705-1",
-    "surface": "Mondro",
-    "page": 4,
-    "page_id": "0005_a",
-    "scan": "I_HA_Rep_7_C_Nr_3705_0005_a-L1_04.jpg",
-    "line": 125,
-    "doc_line": 115
    }
   ]
  },

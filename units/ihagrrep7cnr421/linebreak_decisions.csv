@@ -1,0 +1,193 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,43,44,¬,Pru,simski,Prusimski,join,high,joined form occurs elsewhere in this corpus,False,13,,0,,1,,werde der von Pru¬ || simski flüchtig und durch
+1,1,45,46,¬,ergan,gene,ergangene,join,high,"joined form attested in DWDS (610,565 hits)",False,0,610565,0,,1,,das gegen ihn ergan¬ || gene Confiscations Ur¬
+1,1,46,47,¬,Ur,tel,Urtel,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,571,0,92520,1,1173964,gene Confiscations Ur¬ || tel sein Vermögen
+1,1,48,49,¬,Beschla,genommen,Beschlagenommen,join,high,head is not a word on its own,False,0,0,0,17,2,,vom fisco in Beschla¬ || genommen.
+1,1,52,53,¬,Rük,sprache,Rüksprache,join,high,head is not a word on its own,False,0,0,0,231,1,,genommenen Rük¬ || sprache habe ich mich
+1,1,59,60,¬,In,gelfingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,1,,34,,1,,Furst v Hohenlohe In¬ || gelfingen welchem die¬
+1,1,60,61,¬,die,se,diese,join,high,joined form occurs elsewhere in this corpus,False,1,,50,,3,,gelfingen welchem die¬ || se Güter von Kö¬
+1,1,61,62,¬,Kö,nigl,Königl,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,3,,se Güter von Kö¬ || nigl:
+1,1,62,64,,nigl,nigl,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,nigl: || nigl: Majestät Allerhöch¬
+1,2,64,65,¬,Allerhöch,sten,Allerhöchsten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,nigl: Majestät Allerhöch¬ || sten Person geschenkt
+1,2,67,68,¬,Reviri,ons,Revirions,join,high,head is not a word on its own,False,0,0,0,0,4,,Eröfnung des Reviri¬ || ons Erkenntnißes räu¬
+1,2,68,69,¬,räu,men,räumen,join,high,"joined form attested in DWDS (1,687,330 hits)",False,0,1687330,0,,2,,"ons Erkenntnißes räu¬ || men, und werde mit"
+1,2,70,71,¬,för,derung,förderung,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,meiner gedachten för¬ || derung an den fiscum
+1,2,75,76,¬,dersel,ben,derselben,join,high,"joined form attested in DWDS (1,724,019 hits)",False,0,1724019,0,,3,,auf Bezalung dersel¬ || ben gegen den fis¬
+1,2,76,77,¬,fis,cum,fiscum,join,high,joined form occurs elsewhere in this corpus,False,13,,0,,2,,"ben gegen den fis¬ || cum, werde aber"
+1,2,78,79,¬,deßel,ben,deßelben,join,high,head is not a word on its own,False,0,23,0,5,3,,per Decr. v. 10ten deßel¬ || ben Monaths welches
+1,2,80,81,¬,beifü,ge,beifüge,join,high,"joined form attested in DWDS (126,343 hits)",False,0,126343,0,,5,,"ich in Abschrift beifü¬ || ge, beschieden, daß"
+1,2,84,85,¬,Qua,litæt,Qualitæt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,könnte die real Qua¬ || litæt der gedachten
+1,2,87,88,¬,nachgewie,sen,nachgewiesen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,derst nachgewie¬ || sen werden mü¬
+1,2,88,89,¬,mü,ste,müste,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,3,,sen werden mü¬ || ste.
+1,2,91,92,¬,Reviri,ons,Revirions,join,high,head is not a word on its own,False,0,0,0,0,4,,erwähnte Reviri¬ || ons Erkenntniß das
+1,2,95,96,¬,Befriedi,gung,Befriedigung,join,high,"joined form attested in DWDS (131,511 hits)",False,0,131511,0,,1,,meine Befriedi¬ || gung nicht von dem
+1,2,97,99,,Fürst,Fürst,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"Fürst || Fürst von Hohenlohe, son¬"
+1,3,99,100,¬,son,dern,sondern,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Fürst von Hohenlohe, son¬ || dern vom Fisco als"
+1,3,101,102,¬,sämtli,chen,sämtlichen,join,high,head is not a word on its own,False,0,0,0,55,1,,Besizer des sämtli¬ || chen von Prusimskischen
+1,3,104,105,¬,dies,fällige,diesfällige,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,34,1,0,1,834088,so war die dies¬ || fällige Klage aus
+1,3,119,120,¬,noch,mals,nochmals,join,high,"joined form attested in DWDS (1,650,490 hits)",False,0,1650490,5,,1,,werde ich aber noch¬ || mals mit der Kla¬
+1,3,120,121,¬,Kla,ge,Klage,join,high,joined form occurs elsewhere in this corpus,False,16,,0,,5,,mals mit der Kla¬ || ge pr. Decr. vom 27t.
+1,3,123,124,¬,über,reiche,überreiche,join,high,"joined form attested in DWDS (9,532 hits)",False,0,9532,1,,2,,abschriftlich über¬ || reiche abgewie¬
+1,3,124,125,¬,abgewie,sen,abgewiesen,join,high,"joined form attested in DWDS (501,294 hits)",False,0,501294,0,,3,,reiche abgewie¬ || sen.
+1,3,126,127,¬,die,sen,diesen,join,high,joined form occurs elsewhere in this corpus,False,1,,50,,3,,Da ich mich bei die¬ || sen nachteiligen
+1,4,133,134,¬,Grün,den,Gründen,join,high,"joined form attested in DWDS (14,974,164 hits)",False,0,14974164,0,,55,,"aus nachstehenden Grün¬ || den, an Allerhöchst"
+1,4,137,138,¬,er,wähnten,erwähnten,join,high,"joined form attested in DWDS (556,679 hits)",False,0,556679,8,,1,,Nach der eben er¬ || wähnten Cabinets Ordre
+1,4,139,140,¬,ver,ordnet,verordnet,join,high,"joined form attested in DWDS (223,722 hits)",False,0,223722,0,,1,,"N. 2. wird zwar ver¬ || ordnet, daß der Fis¬"
+1,4,140,141,¬,Fis,cus,Fiscus,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"ordnet, daß der Fis¬ || cus in Ansicht des Scha¬"
+1,4,141,142,¬,Scha,dens,Schadens,join,high,"joined form attested in DWDS (4,160,122 hits)",False,0,4160122,0,,1,,cus in Ansicht des Scha¬ || dens Ersazes allen¬
+1,4,142,143,¬,allen,persönlichen,allenpersönlichen,split,high,joined form unattested; both halves are real words,False,0,0,0,125477951,1,9739955,dens Ersazes allen¬ || persönlichen Gläubi¬
+1,4,143,144,¬,Gläubi,gern,Gläubigern,join,high,"joined form attested in DWDS (400,415 hits)",False,0,400415,0,,1,,persönlichen Gläubi¬ || gern eines Insurgen¬
+1,4,144,145,¬,Insurgen,ten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,17,,"gern eines Insurgen¬ || ten vorgehe, und alsdann"
+1,4,146,147,¬,Con,fiscations,Confiscations,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,soll er mit der Con¬ || fiscations Strafe
+1,4,151,152,¬,Forde,rung,Forderung,join,high,joined form occurs elsewhere in this corpus,False,9,,0,,3,,persönlicher Forde¬ || rung des Insurgenten
+1,4,153,154,¬,Richtig,keit,Richtigkeit,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"wenn deren Richtig¬ || keit aliunde[?], als aus"
+1,4,155,156,¬,Rever,se,Reverse,join,high,"joined form attested in DWDS (60,007 hits)",False,0,60007,0,,3,,meinem blosen Rever¬ || se nachgewiesen
+1,4,158,159,¬,Vermö,gen,Vermögen,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,5,,confiscirten Vermö¬ || gen gerecht werden
+1,4,160,161,¬,da,her,daher,join,high,joined form occurs elsewhere in this corpus,False,1,,10,,2,,muß: und daß da¬ || her kein hinlängli¬
+1,4,161,162,¬,hinlängli,cher,hinlänglicher,join,high,"joined form attested in DWDS (60,551 hits)",False,0,60551,0,,1,,her kein hinlängli¬ || cher Grund im vor¬
+1,4,162,163,¬,vor,liegenden,vorliegenden,join,high,"joined form attested in DWDS (1,082,418 hits)",False,0,1082418,1,,1,,cher Grund im vor¬ || liegenden Fall vor¬
+1,4,163,164,¬,vor,handen,vorhanden,join,high,"joined form attested in DWDS (4,428,143 hits)",False,0,4428143,1,,1,,liegenden Fall vor¬ || handen ist auch mit
+1,4,166,168,,weil,weil,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,weil || weil die Forderung
+1,5,169,170,¬,ab,zuweisen,abzuweisen,join,high,"joined form attested in DWDS (501,294 hits)",False,0,501294,0,,1,,"blos persönlich ist, ab¬ || zuweisen."
+1,5,175,176,¬,ei,nes,eines,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,"finden, da solches ei¬ || nes theils die Cabinets"
+1,5,177,178,¬,Allerhöch,ste,Allerhöchste,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,Ordre als die Allerhöch¬ || ste Willensmeinung
+1,5,181,182,¬,kla,ren,klaren,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,und gegen den kla¬ || ren Inhalt auslegt
+1,5,188,189,¬,be,rührt,berührt,join,high,"joined form attested in DWDS (1,026,677 hits)",False,0,1026677,0,,1,,Materialia be¬ || rührt.
+1,5,190,191,¬,ge,dachte,gedachte,join,high,"joined form attested in DWDS (2,888,395 hits)",False,0,2888395,5,,3,,Allein auch das ge¬ || dachte Rescript sezt
+1,5,192,193,¬,Perso,nalklagen,Personalklagen,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,8,0,8639,1,0,"fest, daß Perso¬ || nalklagen gegen"
+1,5,194,195,¬,ver,langen,verlangen,join,high,"joined form attested in DWDS (3,273,251 hits)",False,0,3273251,0,,1,,fiscum auf ver¬ || langen der Par¬
+1,5,195,196,¬,Par,teyen,Parteyen,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,42,0,77361,1,5,langen der Par¬ || teyen schlechter¬
+1,5,196,197,¬,schlechter,dings,schlechterdings,join,high,"joined form attested in DWDS (13,933 hits)",False,0,13933,0,,1,,teyen schlechter¬ || dings angenom¬
+1,5,197,198,¬,angenom,men,angenommen,join,high,"joined form attested in DWDS (3,578,768 hits)",False,0,3578768,0,,2,,dings angenom¬ || men werden
+1,5,200,201,¬,De,signa,Designa,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,135,2,7610982,0,9729,eine beglaubte De¬ || signa¬
+1,5,201,203,¬,signa,signation,signasignation,catchword,high,fragment repeats the next page opening,True,0,,0,,1,,signa¬ || signation der Insurrec¬
+1,6,203,204,¬,Insurrec,tions,Insurrections,join,high,head is not a word on its own,False,0,8,0,0,1,,"signation der Insurrec¬ || tions Schaden, wofür"
+1,6,205,206,¬,Prin,zipien,Prinzipien,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,803,0,1052,1,155,nach rechtlichen Prin¬ || zipien die Insurgenten
+1,6,209,210,¬,wer,den,werden,join,high,joined form occurs elsewhere in this corpus,False,12,,0,,55,,"fisco vorgelegt wer¬ || den dürfte, wor¬"
+1,6,210,211,¬,wor,aus,woraus,join,high,"joined form attested in DWDS (117,744 hits)",False,0,117744,0,,11,,"den dürfte, wor¬ || aus sich ergeben solle,"
+1,6,213,214,¬,Insur,genten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,,Vermögen der Insur¬ || genten bei weiten zur
+1,6,219,220,¬,ge,fallen,gefallen,join,high,"joined form attested in DWDS (6,642,003 hits)",False,0,6642003,5,,1,,"das Verfahren ge¬ || fallen laßen, be¬"
+1,6,220,221,¬,be,halte,behalte,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"fallen laßen, be¬ || halte mir jedoch mei¬"
+1,6,221,222,¬,mei,ne,meine,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,halte mir jedoch mei¬ || ne Erinnerungen
+1,6,223,224,¬,Schä,den,Schäden,join,high,"joined form attested in DWDS (4,150,895 hits)",False,0,4150895,1,,55,,"gegen eine solche Schä¬ || den Liquidation vor,"
+1,6,226,227,¬,allerun,terthänigst,allerunterthänigst,join,high,head is not a word on its own,False,0,79,0,0,1,,Majestät allerun¬ || terthänigst.
+1,6,229,230,¬,verstat,ten,verstatten,join,high,head is not a word on its own,False,0,531,0,11,17,,"Gehör zu verstat¬ || ten, und die Re¬"
+1,6,230,231,¬,Re,gierung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,10,,1,,2,,"ten, und die Re¬ || gierung zu Kalisch"
+1,6,235,236,¬,ein,gereichten,eingereichten,join,high,"joined form attested in DWDS (231,121 hits)",False,0,231121,6,,1,,den fiscum ein¬ || gereichten Kla¬
+1,6,236,237,¬,Kla,ge,Klage,join,high,joined form occurs elsewhere in this corpus,False,16,,0,,5,,gereichten Kla¬ || ge
+2,1,261,262,¬,Gü,tern,Gütern,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,daß er deshalb aus den Gü¬ || tern befriedigt werden
+2,1,278,280,,des,des,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,des || des ganz klaren Inhalts des Re¬
+2,2,280,281,¬,Re,visions,Revisions,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,876,1,906113,1,9801,des ganz klaren Inhalts des Re¬ || visions Erkenntnisses bei
+2,2,283,284,¬,die,se,diese,join,high,joined form occurs elsewhere in this corpus,False,1,,50,,3,,"umsomehr, da er sollnst die¬ || se Forderung als eine per¬"
+2,2,284,285,¬,per,sönliche,persönliche,join,high,"joined form attested in DWDS (9,739,955 hits)",False,0,9739955,5,,1,,se Forderung als eine per¬ || sönliche behandelt.
+3,1,310,311,¬,Sta,rosten,Starosten,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,seiner Forderung an den ehemaligen Sta¬ || rosten von Prusimski unter dem 8. d. M.
+3,1,313,314,¬,Resolu,tion,Resolution,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"Bescheid ertheilen, daß es bey der Resolu¬ || tion der dortigen Regierung vom 10. Sept:"
+3,1,317,318,¬,An,sprüche,Ansprüche,join,high,"joined form attested in DWDS (4,994,950 hits)",False,0,4994950,13,,1,,"Vermögen eines Insurgenten Personal-An¬ || sprüche anzugeben hat, sich von selbst"
+3,1,320,321,¬,Unru,hen,Unruhen,join,high,"joined form attested in DWDS (209,245 hits)",False,0,209245,0,,1,,der von den Insurgenten erregten Unru¬ || hen verwendete Kriegskosten und die von ih
+3,1,321,322,¬,Schæ,den,Schæden,join,high,head is not a word on its own,False,0,0,0,0,55,,osten und die von ihnen verursachten Schæ¬ || den die ganze Maße eines solchen Insur¬
+3,1,322,323,¬,Insur,genten,Insurgenten,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,2,,den die ganze Maße eines solchen Insur¬ || genten weis übersteigen.
+4,1,339,340,¬,Vorbe,scheidung,Vorbescheidung,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"Łukom um Vorbe¬ || scheidung, auf die"
+4,1,346,347,¬,Ka,lisch,Kalisch,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,1,,Regierung zu Ka¬ || lisch gerichteten
+4,1,355,356,¬,Kö,nigl,Königl,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,3,,Chełmski bei Ew. Kö¬ || nigl: Majestät eine
+4,1,358,359,¬,Regie,rung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,10,,0,,3,,die hiesige Regie¬ || rung wegen der
+4,1,360,361,¬,ge,schehenen,geschehenen,join,high,"joined form attested in DWDS (3,028,440 hits)",False,0,3028440,5,,1,,zur Ungebühr ge¬ || schehenen Abwei¬
+4,1,361,362,¬,Abwei,sung,Abweisung,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,2,,schehenen Abwei¬ || sung[?] mit einer¬
+4,1,362,363,¬,einer,wider,einerwider,split,high,joined form unattested; both halves are real words,False,0,0,1,942668787,4,0,sung[?] mit einer¬ || wider den Fiscum
+4,1,364,365,¬,Kla,ge,Klage,join,high,joined form occurs elsewhere in this corpus,False,16,,0,,5,,"angestellten Kla¬ || ge, betreffend ei¬"
+4,1,365,366,¬,ei,ne,eine,join,high,joined form occurs elsewhere in this corpus,False,8,,0,,3,,"ge, betreffend ei¬ || ne Forderung von"
+4,1,367,368,¬,einge,reicht,eingereicht,join,high,"joined form attested in DWDS (1,118,002 hits)",False,0,1118002,0,,3,,"12,000. ## einge¬ || reicht,"
+4,1,368,370,,reicht,reicht,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"reicht, || reicht, und um rechtliches"
+4,2,374,375,¬,erdreu,ste,erdreuste,join,high,head is not a word on its own,False,0,0,0,0,3,,"erfolgt ist, so erdreu¬ || ste ich mich"
+4,2,376,377,¬,wie,der,wieder,join,high,"joined form attested in DWDS (58,799,421 hits)",False,0,58799421,2,,73,,Allerhöchst dieselben wie¬ || der holentlich dieser¬
+4,2,377,378,¬,dieser,halb,dieserhalb,join,high,"joined form attested in DWDS (1,430 hits)",False,0,1430,6,,1,,der holentlich dieser¬ || halb zu suppliciren.
+4,2,383,384,¬,Chełm,ski,Chełmski,join,high,joined form occurs elsewhere in this corpus,False,18,,0,,1,,die von dem von Chełm¬ || ski gegen den Fürsten
+4,2,385,386,¬,nun,mehrigen,nunmehrigen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"von Hohenlohe, als nun¬ || mehrigen Eigenthümer"
+4,2,388,389,¬,Trąmp,czyn,Trąmpczyn,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,confiscirten Güter Trąmp¬ || czyn anfänglich ange¬
+4,2,389,390,¬,ange,stellte,angestellte,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,czyn anfänglich ange¬ || stellte Klage mit der¬
+4,2,390,391,¬,der,jenigen,derjenigen,join,high,"joined form attested in DWDS (2,436,968 hits)",False,0,2436968,73,,1,,"stellte Klage mit der¬ || jenigen, welche allein"
+4,2,392,393,¬,ge,richtet,gerichtet,join,high,"joined form attested in DWDS (4,086,920 hits)",False,0,4086920,5,,2,,"gegen den Fiscum ge¬ || richtet ist, verwech¬"
+4,2,393,394,¬,verwech,selt,verwechselt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"richtet ist, verwech¬ || selt."
+4,2,396,397,¬,Ingelfin,gen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,5,,von Hohenlohe-Ingelfin¬ || gen die Forderung von
+4,2,399,400,¬,be,scheidet,bescheidet,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"werden kann, be¬ || scheidet sich mein Man¬"
+4,2,400,401,¬,Man,dant,Mandant,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,scheidet sich mein Man¬ || dant von selbst.
+4,2,405,406,¬,ge,dachte,gedachte,join,high,"joined form attested in DWDS (2,888,395 hits)",False,0,2888395,5,,3,,"keinem Wege, das ge¬ || dachte Capital nach"
+4,2,407,408,¬,Ver,ordnung,Verordnung,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,der so klaren Ver¬ || ordnung der Aller¬
+4,2,408,409,¬,Aller,höch,Allerhöch,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,11,0,36120,1,10487,ordnung der Aller¬ || höch[?]sten Cabinets Ordre
+4,2,410,411,¬,Jah,res,Jahres,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,vom 16ten. deß. M. u. Jah¬ || res
+4,2,411,413,,res,res,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"res || res, gegen den fiscum"
+4,3,415,416,¬,Re,gierung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,10,,1,,2,,Wenn übrigens die Re¬ || gierung den Buchstaben
+4,3,417,418,¬,unverbind,lichen,unverbindlichen,join,high,"joined form attested in DWDS (724,485 hits)",False,0,724485,0,,1,,des an sich unverbind¬ || lichen HofRescripts be¬
+4,3,418,419,¬,be,folgt,befolgt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,lichen HofRescripts be¬ || folgt; so kann sie dem
+4,3,422,423,¬,Sa,che,Sache,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,"gehör in dieser Sa¬ || che nicht verweigern,"
+4,3,424,425,¬,Re,script,Rescript,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,,da selbst dieses Re¬ || script ausdrüklich vest
+4,3,428,429,¬,erfolg,ten,erfolgten,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,17,,"per Decretum erfolg¬ || ten Abweisung, nicht"
+4,3,430,431,¬,Instruc,tion,Instruction,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"beruhiget, die Instruc¬ || tion eingeleitet und"
+4,3,435,436,¬,Erme,ssens,Ermessens,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Diesmuß meines Erme¬ || ssens in jeder Rechts
+4,3,437,438,¬,Par,tey,Partey,join,high,"joined form attested in DWDS (1,758 hits)",False,0,1758,0,,2,,"Sache, wo sich die Par¬ || tey von der Rechtmä¬"
+4,3,438,439,¬,Rechtmä,ßigkeit,Rechtmäßigkeit,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,tey von der Rechtmä¬ || ßigkeit der Abwei¬
+4,3,439,440,¬,Abwei,sung,Abweisung,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,2,,ßigkeit der Abwei¬ || sung nicht überzeugen
+4,3,442,443,¬,Ab,schrift,Abschrift,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,Ich füge eine Ab¬ || schrift der Klage
+4,3,452,453,¬,Confiscati,ons,Confiscations,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,4,,ehe noch das Confiscati¬ || ons
+4,3,453,455,,ons,ons,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,ons || ons Erkenntniß ergan¬
+4,4,455,456,¬,ergan,gen,ergangen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,5,,"ons Erkenntniß ergan¬ || gen war, geklagt hat¬"
+4,4,456,457,¬,hat,te,hatte,join,high,joined form occurs elsewhere in this corpus,False,1,,8,,2,,"gen war, geklagt hat¬ || te."
+4,4,465,466,¬,ein,mal,einmal,join,high,joined form occurs elsewhere in this corpus,False,1,,6,,1,,und der Kläger ein¬ || mal beruhiget wer¬
+4,4,466,467,¬,wer,den,werden,join,high,joined form occurs elsewhere in this corpus,False,12,,0,,55,,"mal beruhiget wer¬ || den möchte, so bitte"
+4,4,468,469,¬,Maje,stät,Majestät,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,ich Ew. Königl: Maje¬ || stät alleruntertä¬
+4,4,469,470,¬,alleruntertä,nigst,alleruntertänigst,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,stät alleruntertä¬ || nigst:
+4,4,471,472,¬,vorbe,scheiden,vorbescheiden,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,ihn schleunigst vorbe¬ || scheiden zu lassen.
+4,4,473,474,¬,Ehr,furcht,Ehrfurcht,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Der ich in tiefster Ehr¬ || furcht ersterbe
+5,1,495,496,¬,gesche,henen,geschehenen,join,high,"joined form attested in DWDS (3,028,440 hits)",False,0,3028440,0,,1,,e Regierung wegen der zur Ungebühr gesche¬ || henen Abweisung mit einer wider den fiscum
+5,1,497,498,¬,einge,reicht,eingereicht,join,high,"joined form attested in DWDS (1,118,002 hits)",False,0,1118002,0,,3,,"fend eine Forderung von 12,000 # #. einge¬ || reicht, und um rechtliches Gehör allerunte"
+5,1,502,503,¬,Mißverständ,niß,Mißverständniß,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"en Decreten der Regierung ein Mißverständ¬ || niß zu Grunde, indem sie die von dem v. Ch"
+5,1,506,507,¬,ge,richtet,gerichtet,join,high,"joined form attested in DWDS (4,086,920 hits)",False,0,4086920,5,,2,,"tzigen, welche allein gegen den Fiscum ge¬ || richtet ist, verwechselt."
+5,1,508,509,¬,For,derung,Forderung,join,high,joined form occurs elsewhere in this corpus,False,9,,0,,3,,n Fürsten v Hohenlohe Ingelfingen die For¬ || derung von 12000 #. nicht eingeklagt werde
+5,1,511,512,¬,ge,dachte,gedachte,join,high,"joined form attested in DWDS (2,888,395 hits)",False,0,2888395,5,,3,,"7ten Septbr. 1796. in keinem Wege, das ge¬ || dachte Capital nach der so klaren Verordnu"
+5,1,513,514,¬,Fis,cum,Fiscum,join,high,joined form occurs elsewhere in this corpus,False,13,,0,,2,,"om 10t dess. M. und Jahres, gegen den Fis¬ || cum zu erfordern."
+5,1,515,516,¬,un,verbindlichen,unverbindlichen,join,high,"joined form attested in DWDS (724,485 hits)",False,0,724485,0,,1,,e Regierung den Buchstaben des an sich un¬ || verbindlichen HofRescripts befolgt; so kan
+5,1,516,517,¬,ungeach,tet,ungeachtet,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,escripts befolgt; so kann sie dem ungeach¬ || tet dem v. Chełmski das rechtliche Gehör i
+5,2,528,529,¬,zu,erst,zuerst,join,high,joined form occurs elsewhere in this corpus,False,1,,26,,2,,", - nur muß ich bemerken, daß derselbe zu¬ || erst gegen den v Prusimski ehe noch das Co"
+5,2,529,530,¬,Er,kenntniß,Erkenntniß,join,high,joined form occurs elsewhere in this corpus,False,2,,8,,1,,"v Prusimski ehe noch das Confiscations Er¬ || kenntniß ergangen war, geklagt hatte."
+5,2,531,532,¬,wei,ter,weiter,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,"on des Processes gegen den fiscum ist wei¬ || ter nichts, als die Person geändert worden"
+5,2,533,534,¬,wer,den,werden,join,high,joined form occurs elsewhere in this corpus,False,12,,0,,55,,"gert, und der Kläger einmal beruhiget wer¬ || den möchte, so bitte ich E. K. M. allerunt"
+6,1,558,559,¬,Hau,länder,Hauländer,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,334,0,97487,1,5970,"wieś, Osiny und Trąmpczyner Hau¬ || länder 12000. #. auf ein Jahr"
+6,1,560,561,¬,vorschü,cken,vorschücken,join,high,head is not a word on its own,False,0,0,0,69,1,,"nehmlich bis zu Joh. 1795. vorschü¬ || cken, und worüber er mir"
+6,1,564,565,¬,Mier,zewo,Mierzewo,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,0,0,6019,1,1560,Jacob von Bienkowski auf Mier¬ || zewo bei Gnesen und des Anto¬
+6,1,565,566,¬,Anto,nius,Antonius,join,high,"joined form attested in DWDS (108,009 hits)",False,0,108009,0,,1,,zewo bei Gnesen und des Anto¬ || nius v Przeradzki behandigte.
+6,1,569,570,¬,Anwe,senheit,Anwesenheit,join,high,"joined form attested in DWDS (382,495 hits)",False,0,382495,0,,1,,"Bekl. Schuldner, in der Anwe¬ || senheit jener Zeugen vera[b?]¬"
+6,1,570,571,¬,b,redet,bredet,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,0,2,4900878,1,3038645,"senheit jener Zeugen vera[b?]¬ || redet, daß, wofern die Räth"
+6,1,572,573,¬,Ter,mino,Termino,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,64,3,138845,1,18953,palung[?] dieser 12000. #. nicht in Ter¬ || mino solutionis praefixo erfolgen
+6,1,575,577,¬,Blan,Blanquet,BlanBlanquet,catchword,high,fragment repeats the next page opening,True,0,,0,,2,,Blan¬ || Blanquet als einen Contractum an
+6,2,581,582,¬,ein,gestandenen,eingestandenen,join,high,"joined form attested in DWDS (219,004 hits)",False,0,219004,6,,1,,"Die Zalung[?] ist auch in dem ein¬ || gestandenen Termine, re[?]ha[l?]¬"
+6,2,582,583,¬,l,lich,llich,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,19,0,1600378,1,61677,"gestandenen Termine, re[?]ha[l?]¬ || lich zu Johanni v. J. wirklich"
+6,2,584,585,¬,da,her,daher,join,high,joined form occurs elsewhere in this corpus,False,1,,10,,2,,"nicht erfolgt, und ich habe da¬ || her zu der Zeit den Basiz"
+6,2,586,587,¬,ergrif,fen,ergriffen,join,high,"joined form attested in DWDS (983,438 hits)",False,0,983438,0,,1,,von diesen Gütern ergrif¬ || fen.
+6,2,588,589,¬,inzwi,schen,inzwischen,join,high,"joined form attested in DWDS (6,521,347 hits)",False,0,6521347,0,,1,,Von dem Fisco ist inzwi¬ || schen mein Schuldner wegen
+6,2,601,602,¬,Gü,ter,Güter,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,3,,Ergreifung gedachter Gü¬ || ter im Monat Juny zuvor
+6,2,606,607,¬,ange,strengt,angestrengt,join,high,"joined form attested in DWDS (214,450 hits)",False,0,214450,0,,1,,"1795. die Exmiss. Klage ange¬ || strengt, u es hat auch die¬"
+6,2,607,608,¬,die,serhalb,dieserhalb,join,high,"joined form attested in DWDS (1,430 hits)",False,0,1430,50,,1,,"strengt, u es hat auch die¬ || serhalb ein Termin auf den"
+6,3,611,612,¬,Regie,rung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,10,,0,,3,,"27. Februar c. auf Höchst dero Regie¬ || rung angestanden, allein es"
+6,3,614,615,¬,Ver,gleich,Vergleich,join,high,"joined form attested in DWDS (5,648,077 hits)",False,0,5648077,0,,1,,und dem Fisco folgender Ver¬ || gleich zu Stande gekommen:
+6,3,616,617,¬,Gü,ter,Güter,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,3,,daß ich mehrerwähnte Gü¬ || ter sequestriren von der
+6,3,633,634,¬,Be,zalung,Bezalung,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,ihn auch sowohl in die Be¬ || zalung der schuldigen 12000 #
+6,3,635,636,¬,Ver,zugs,Verzugs,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,als Entrichtung der Ver¬ || zugs Zinsen mit 7. proC.
+6,3,637,638,¬,verur,teilen,verurteilen,join,high,"joined form attested in DWDS (2,072,985 hits)",False,0,2072985,0,,1,,refusis expensis verur¬ || teilen zu laßen.
+6,4,643,644,¬,be,stimmten,bestimmten,join,high,"joined form attested in DWDS (6,909,956 hits)",False,0,6909956,0,,1,,in Nichtzalungs Fall im be¬ || stimmten Terminen den Pfand
+6,4,646,647,¬,vorgeschla,genen,vorgeschlagenen,join,high,"joined form attested in DWDS (298,633 hits)",False,0,298633,0,,1,,ich mich auch auf obige vorgeschla¬ || genen Zeugen u. die u[?]hab¬
+6,4,647,648,¬,hab,h,habh,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,7,0,394873491,1,2078414,genen Zeugen u. die u[?]hab¬ || [h?]ören zu laßen zugleich
+6,4,649,650,¬,mei,ne,meine,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"noch, so wie daß diese mei¬ || ne Klage für gehörig sub¬"
+6,4,650,651,¬,sub,stantiirt,substantiirt,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,0,0,103540,1,0,ne Klage für gehörig sub¬ || stantiirt erachtet werden
+6,5,660,661,¬,one,goż,onegoż,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,0,0,563440,1,227105,"podpisany chcąc tym bardziey Termin one¬ || goż wypłacenia zapewnić, i Troskliwość"
+6,5,662,663,¬,za,latwi,zalatwi,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,0,0,10022,1,0,WJPanu Chełmskiemu Skarbnikowi za¬ || latwić w zapłaceniu na wigilię Swiętego
+6,5,664,665,¬,niniey,szą,ninieyszą,join,high,head is not a word on its own,False,0,0,0,0,1,,a Chrzciciela w roku 1795. daię te niniey¬ || szą sponsyą z dobrey woli i na wgystnie iż
+6,5,667,668,¬,obrącko,wym,obrąckowym,join,high,head is not a word on its own,False,0,0,0,0,1,,# w Złocie Hollenderskim ważnym i obrącko¬ || wym bez Prowizyi nie zapłaćił wolne
+6,5,670,671,¬,Zosob,ney,Zosobney,join,high,head is not a word on its own,False,0,0,0,0,1,,"pczyna, Nowey wśi, Ośin, wśi Zaro[Zosob?]¬ || ney, Łazow tudzież Hollendrow wszystkich d"
+6,5,675,676,¬,wy,rażone,wyrażone,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,0,0,2679,1,0,do teyże potrzebnego ktoreto wyżey wy¬ || rażone Dobra WJP Chełmski posiadać
+6,5,677,678,¬,kal,kulacyi,kalkulacyi,join,held,"hand: a word broken at the line end (Claude, 2026-11-21)",False,0,0,0,13357,1,0,"potąd w prowizyi będzie bez żadney kal¬ || kulacyi pokąd ta Summa, w tym Blan¬"
+6,5,678,679,¬,Blan,kieóic,Blankieóic,join,high,head is not a word on its own,False,0,0,0,925,1,,"kulacyi pokąd ta Summa, w tym Blan¬ || kieóic[?] wyrażona a na uzytek moy"
+6,5,680,681,¬,Świad,kach,Świadkach,join,high,head is not a word on its own,False,0,0,0,0,1,,"obrócona, i w gotowiźnie przy Świad¬ || kach wziąta, wypłacona nie będzie"
+6,5,693,694,¬,przy,tomny,przytomny,join,high,joined form occurs elsewhere in this corpus,False,1,,2,,1,,Antoni Przeradzki przy¬ || tomny Przyiaciół.
+7,1,700,701,¬,Kali,scher,Kalischer,join,high,"joined form attested in DWDS (1,692 hits)",False,0,1692,0,,1,,(v. Chełmski Beschwerden gegen die Kali¬ || scher Reg: wegen Abweisung seiner Klage
+7,1,709,710,¬,Mon,dro,Mondro,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Auf die von dem Criminal-Rath Mon¬ || dro, als Mandatario des von Chełmski"
+7,1,711,712,¬,einge,reichte,eingereichte,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"auf Łukom, unter dem 7. d. M. einge¬ || reichte Vorstellung, wird demselben aus"
+7,1,713,714,¬,gege,ben,gegeben,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,"der copeylichen Anlage zu ersehen gege¬ || ben, in welcher Maaße der von Chełmski"
