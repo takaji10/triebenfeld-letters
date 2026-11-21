@@ -4648,3 +4648,19 @@ Słownik's gmina and parish tables, is still to do.
   headwords and facts right where checked; the two entries whose head was
   on the previous page were left empty, as the brief asked, not guessed.
   The identifications against the edition stay Claude's.
+- **Search Nazwy miejscowe by headword, not by nearby local words.** Its
+  entry names the district before the attestations ("Goździków (1), wś,
+  koniń., gm. Rzgów, 8 km na płd.-wsch. od Zagorowa: Gozdzików ... 1827"),
+  so a search that wanted "Zagór" or "słup" in the text after the name
+  missed Goździków, and Claude told the editor the remaining candidates were
+  "too small" for the work - a guess stated as a finding. Find the
+  headword line ("Name (n), wś|os.|kol.|cz. wsi ...") and read its district;
+  say plainly what is not covered (T-Ż not yet published; streams and hills
+  are not its subject) rather than explain an absence.
+- **The editor's scope for the candidates, widened 2026-11-21:** "Yes, read
+  the Słownik around the others as well" - the parishes of Rzgów, Pyzdry,
+  Stawiszyn and Zbiersk and the gmina of Grodziec, beside Trąbczyn and
+  Zagórów. Filter by powiat (słupecki, koniński, kaliski) after the mark:
+  another Rzgów lies in powiat łódzki, and the OCR writes "powiat", "pow,"
+  and "koniu Hki" for the district.
+
