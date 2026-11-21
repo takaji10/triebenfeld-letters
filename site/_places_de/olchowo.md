@@ -20,7 +20,7 @@ hits_docs_count: 0
 
 *Dated forms of the name:* *Olchowo*; *Kolonia Sophienthal*; *Kolonia Sophienthal*; *Olchowo* 1891.
 
-Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Olchowo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Sophienthal* (Reymann 1834). The Słownik geograficzny records it as a colony, in gmina Kołki, powiat słupecki, with 141 houses and 776 inhabitants at the time of the Słownik.[^1] The Słownik geograficzny records it as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 35 houses and 348 inhabitants at the time of the Słownik.[^2] Nazwy miejscowe Polski records the modern form from 1921, from *olcha* 'alder' with the suffix -owo.[^3]
+Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Olchowo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Sophienthal* (Reymann 1834). The supplement to the Słownik geograficzny confirms that it was called Sophienthal until 1891.[^1] The Słownik geograficzny records it as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 35 houses and 348 inhabitants at the time of the Słownik.[^2] Nazwy miejscowe Polski records the modern form from 1921, from *olcha* 'alder' with the suffix -owo.[^3]
 
 [^1]: Słownik geograficzny, t. XVI, p. 405
 

@@ -6461,3 +6461,9 @@ sources-icon.html`).
 - The Słownik geograficzny's converted text fetched again (a sparse clone of Igor's repository, `sources/sg`, `nmpol`, `kdw`, into Downloads; the old copy was gone).
 - Every entry naming the parish or gmina of Trąbczyn or Zagórów found (78 marks, 65 entries), read by two Sonnet readers to a brief (headword, facts, the estates' parts, a summary, OCR doubts), checked by Claude against the text; every name looked up in the gazetteer's 123 entries and the register.
 - The sheet (`pipeline/gazetteer/candidates_sheet.py` -> `review/place_name_sources/candidates.html`): 14 candidates (Głogowo, Janowska kolonia, Odpadki, Tumidaj, Wielki Las, Jarmuszewek, Wrąbczyńskie Holendry, Białobrzeg; the stream Biały and Czarna Góra; Goździków, Goździkówka, Gęsiłoża and Stawiska of the Kopojno estate) and two decisions (the outlying parishes; a correction to Olchowo, whose Kołki sentence belongs to Olejniki). Nothing on the site changed.
+
+## 2026-11-21 - The gazetteer's Olchowo entry corrected
+
+- The editor: "Please correct the Olchowo one."
+- The sentence "in gmina Kołki ... 141 houses and 776 inhabitants" (Olejniki's figures, the next entry on the Słownik's page) replaced by "The supplement to the Słownik geograficzny confirms that it was called Sophienthal until 1891"; the footnote's note records the correction. The site verifies clean.
+

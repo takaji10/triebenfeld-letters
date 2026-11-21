@@ -14,7 +14,7 @@ location:
   lat: 52.183333
   lon: 17.95
   check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Olchowo, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
-text_en: Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Olchowo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Sophienthal* (Reymann 1834). The Słownik geograficzny records it as a colony, in gmina Kołki, powiat słupecki, with 141 houses and 776 inhabitants at the time of the Słownik.[^1] The Słownik geograficzny records it as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 35 houses and 348 inhabitants at the time of the Słownik.[^2] Nazwy miejscowe Polski records the modern form from 1921, from *olcha* 'alder' with the suffix -owo.[^3]
+text_en: Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Olchowo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Sophienthal* (Reymann 1834). The supplement to the Słownik geograficzny confirms that it was called Sophienthal until 1891.[^1] The Słownik geograficzny records it as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 35 houses and 348 inhabitants at the time of the Słownik.[^2] Nazwy miejscowe Polski records the modern form from 1921, from *olcha* 'alder' with the suffix -owo.[^3]
 names:
 - form: Olchowo
   year: null
@@ -49,7 +49,7 @@ footnotes:
   - source: slownik
     locator: t. XVI, p. 405
     status: missing
-  note: null
+  note: "Corrected 2026-11-21 at the editor's word: the sentence of 2026-10-26 gave gmina Kołki, 141 houses and 776 inhabitants, which belong to Olejniki, the next entry on the page; the entry for Olechowo says only that it was called Sophienthal until 1891."
 - n: 2
   text: Słownik geograficzny, t. XI, p. 8
   refs:

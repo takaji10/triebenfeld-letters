@@ -10,8 +10,9 @@ in Igor's repository, sources/sg/), read by two Sonnet readers and checked by
 Claude against the text - and every name in them checked against the
 gazetteer's 123 entries and the register's places. What is left is put to the
 editor here, one row each, to accept or refuse. Nazwy miejscowe Polski was
-searched for every candidate; it has entries for Białobrzeg and a Stawiska
-only. Nothing on the site changes until the editor has answered.
+searched for every candidate; it has entries for Białobrzeg and Goździków
+only (it has not reached T-Ż, and it holds settlements only, not streams or
+hills). Nothing on the site changes until the editor has answered.
 
     python pipeline/gazetteer/candidates_sheet.py
       -> review/place_name_sources/candidates.html  (not committed: review/)
@@ -74,8 +75,8 @@ ROWS = [
     # ---- C. Parts of the Kopojno estate
     ('c11', 'C', 'Goździków (Goździkowo)', 'a manor farm and village of the Kopojno estate; its own entry puts it in the gmina of Emilienheim but the parish of Rzgów; enfranchised with 11 holdings in 1866',
      'Kopojno ... składają się z folwarków Kopojno, Goździków; przyległości Stawiska, Chruszczyki, Goździkówka, Gęsiłoża; wsi Kopojno, Swiątniki, Skoków i Goździków. — Goździkowo, folw. , pow. słupecki, gm. Emilienheim, par. Rzgów.',
-     'Słownik geograficzny, t. IV, p. 383 (Kopojno); t. II, p. 765 (Goździkowo)',
-     'Outside the two parishes (Rzgów), like Świątniki, which you placed with the area on 2026-10-24. Listed because it belonged to the Kopojno estate.', ADD),
+     'Słownik geograficzny, t. IV, p. 383 (Kopojno); t. II, p. 765 (Goździkowo); Nazwy miejscowe Polski, t. 3, p. 289-290 (Goździków 1)',
+     'Outside the two parishes (Rzgów), like Świątniki, which you placed with the area on 2026-10-24. Listed because it belonged to the Kopojno estate. Still a village: Nazwy miejscowe gives it as Goździków, gmina Rzgów, 8 km south-east of Zagórów, recorded as "Gozdzików" in 1827, "Fol. Goździkow" in 1839, "Goździkowo" in 1881 and 1921, and Goździków in 1980; the name is from the personal name Goździk with the suffix -ów.', ADD),
     ('c12', 'C', 'Goździkówka', 'an appurtenance (przyległość) of the Kopojno estate; no entry of its own, no figures',
      'przyległości Stawiska, Chruszczyki, Goździkówka, Gęsiłoża', 'Słownik geograficzny, t. IV, p. 383 (Kopojno)',
      'Named only in the list of the estate\'s parts. Of the four appurtenances one is known: Chruszczyki is your Chruściki (Adelhof).', ADD),

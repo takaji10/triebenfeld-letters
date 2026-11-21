@@ -2143,8 +2143,9 @@ The one finding that touches the edition:
    sentence "in gmina Kołki ... 141 houses and 776 inhabitants" (footnote 1,
    Słownik t. XVI, p. 405) belongs to Olejniki, the next entry on that page;
    the Słownik says there only that Olechowo was called Sophienthal until
-   1891. Added by Claude on 2026-10-26; on the sheet (d2) for the editor's
-   word before it is corrected.
+   1891. Added by Claude on 2026-10-26; **corrected 2026-11-21 at the
+   editor's word** (the sentence now says the supplement confirms the name
+   Sophienthal until 1891; the footnote's note records the change).
 
 ## I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added and published 2026-11-21)
 
