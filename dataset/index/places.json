@@ -108,8 +108,10 @@
  },
  {
   "place": "Konin",
-  "count": 86,
+  "count": 88,
   "documents": [
+   "kdw-27",
+   "kdw-28",
    "app536017-1",
    "app536036-1",
    "app536036-2",
@@ -379,9 +381,10 @@
  },
  {
   "place": "Kalisz",
-  "count": 25,
+  "count": 26,
   "documents": [
    "kdw-6",
+   "kdw-23",
    "kdw-8",
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -547,6 +550,34 @@
   ]
  },
  {
+  "place": "Pyzdry",
+  "count": 8,
+  "documents": [
+   "kdw-24",
+   "kdw-25",
+   "kdw-26",
+   "kdw-9",
+   "kdw-10",
+   "app5314550221-4",
+   "app5314550221-2",
+   "oe1bu9454-28"
+  ]
+ },
+ {
+  "place": "Ląd",
+  "count": 8,
+  "documents": [
+   "kdw-29",
+   "kdw-30",
+   "kdw-31",
+   "app5314550221-1",
+   "kdw-13",
+   "kdw-15",
+   "kdw-16",
+   "kdw-18"
+  ]
+ },
+ {
   "place": "Dresden",
   "count": 7,
   "documents": [
@@ -609,25 +640,14 @@
   ]
  },
  {
-  "place": "Pyzdry",
+  "place": "Kopojno",
   "count": 5,
   "documents": [
-   "kdw-9",
-   "kdw-10",
-   "app5314550221-4",
-   "app5314550221-2",
-   "oe1bu9454-28"
-  ]
- },
- {
-  "place": "Ląd",
-  "count": 5,
-  "documents": [
-   "app5314550221-1",
-   "kdw-13",
-   "kdw-15",
-   "kdw-16",
-   "kdw-18"
+   "kdw-22",
+   "oe1bu9454-72a",
+   "oe1bu9454-72f",
+   "oe1bu9454-232",
+   "app539680716-1"
   ]
  },
  {
@@ -639,16 +659,6 @@
    "oe1bu14526-28",
    "oe1bu14526-26",
    "oe1bu14526-17"
-  ]
- },
- {
-  "place": "Kopojno",
-  "count": 4,
-  "documents": [
-   "oe1bu9454-72a",
-   "oe1bu9454-72f",
-   "oe1bu9454-232",
-   "app539680716-1"
   ]
  },
  {

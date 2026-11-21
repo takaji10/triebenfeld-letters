@@ -30,6 +30,16 @@ places:
     "19": "Trąbczyn"
     "20": "Buda"
     "21": "Buda"
+    "22": "Kopojno"
+    "23": "Kalisz"
+    "24": "Pyzdry"
+    "25": "Pyzdry"
+    "26": "Pyzdry"
+    "27": "Konin"
+    "28": "Konin"
+    "29": "Ląd"
+    "30": "Ląd"
+    "31": "Ląd"
 
 dates:
   # [year, month, day, precision]: the document's own date, as the editors'
@@ -38,7 +48,7 @@ dates:
     "1": [1173, 8, 31, "day"]   # Mieszko gives 'parvum Vronchin', Wrąbczynek, to the Cisterci, vol. 1 no. 20
     "2": [1240, 9, 30, "day"]   # the tithes of Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Ł, vol. 1 no. 222
     "3": [1243, 5, 4, "day"]   # the hospital of Gniezno given to the Holy Sepulchre of Miech, vol. 1 no. 238
-    "4": [1261, 12, 10, "day"]   # the possessions of Ląd confirmed: Szethowo (Szetlew), the Sa, vol. 1 no. 393
+    "4": [1261, 12, 10, "day"]   # the possessions of Ląd confirmed: Szethowo (Szetlew), Rzgowo, vol. 1 no. 393
     "5": [1276, 3, 27, "day"]   # Trąbczyn given to Count Nicholas, treasurer of Ląd, vol. 1 no. 460
     "6": [1280, 10, 18, "day"]   # the possessions of Ląd confirmed: Szechouo (probably Szetlew, vol. 6 no. 27
     "7": [1291, 10, 21, "day"]   # Kopojno exchanged to Ląd for Głowiew, Sławsk and Chocicza, vol. 2 no. 678
@@ -56,6 +66,16 @@ dates:
     "19": [1434, 5, 15, "day"]   # Wojciech of Trąbczyn, canon of Kruszwica, empowers his broth, vol. 11 no. 2000
     "20": [1440, 8, 10, "day"]   # the King charges 300 marks on Wrąbczynek, Adamierz and Borzy, vol. 10 no. 1520
     "21": [1440, 11, 22, "day"]   # the King charges 200 marks on Adamierz, Borzykowo and Wrąbcz, vol. 10 no. 1532
+    "22": [1241, 6, 17, "day"]   # Kazimierz, duke of Kujawy and Ląd, exchanges his estates of , vol. 1 no. 228
+    "23": [1284, 2, 18, "day"]   # Przemysł II allows Count Mikołaj, treasurer of Ląd, to locat, vol. 1 no. 535
+    "24": [1291, 8, 1, "day"]   # Przemysł II gives his village Wrąbczyn (Wronchino), held und, vol. 2 no. 672
+    "25": [1298, 9, 9, "day"]   # Władysław, duke of the kingdom of Poland, grants Count Wojsł, vol. 2 no. 795
+    "26": [1324, 8, 9, "day"]   # King Władysław gives the abbey of Ląd the site of a water mi, vol. 2 no. 1044
+    "27": [1357, 8, 14, "day"]   # Wyrzbenta, the general captain of Poland, attests the exchan, vol. 3 no. 1363
+    "28": [1362, 5, 31, "day"]   # Wyrzbenta, castellan of Poznań and general captain of Poland, vol. 3 no. 1478
+    "29": [1363, 3, 16, "day"]   # Wyrzbenta attests that Stasco with his consort the lady Iach, vol. 3 no. 1490
+    "30": [1363, 3, 16, "day"]   # Wyrzbenta attests that Mikołaj, subdapifer of the bishop of , vol. 3 no. 1491
+    "31": [1364, 4, 27, "day"]   # Wyrzbenta attests that Dobrocha, heiress of great Wrąbczyn, , vol. 3 no. 1519
   supplied: {}
   twin: {}
   inferred: {}
@@ -85,6 +105,16 @@ documents:
     "19": power_of_attorney
     "20": donation
     "21": donation
+    "22": contract
+    "23": privilege
+    "24": privilege
+    "25": privilege
+    "26": donation
+    "27": attestation
+    "28": contract
+    "29": contract
+    "30": contract
+    "31": attestation
   language:
     "1": "la"
     "2": "la"
@@ -107,6 +137,16 @@ documents:
     "19": "la"
     "20": "la"
     "21": "la"
+    "22": "la"
+    "23": "la"
+    "24": "la"
+    "25": "la"
+    "26": "la"
+    "27": "la"
+    "28": "la"
+    "29": "la"
+    "30": "la"
+    "31": "la"
   duplicate_of: {}
   split_note: {}
   relations: {}
@@ -116,7 +156,7 @@ documents:
     "3": [imielno]
     "4": [lad, szetlew, swiatniki, rzgow, zagorowo, skokum, olesnica, kopojno]
     "5": [trabczyn]
-    "6": [lad, szetlew, swiatniki, rzgow]
+    "6": [lad, szetlew, rzgow, swiatniki]
     "7": [kopojno, lad]
     "8": [wrabczyn]
     "9": [trabczyn]
@@ -132,6 +172,16 @@ documents:
     "19": [trabczyn]
     "20": [wrabczynek, adamierz]
     "21": [adamierz, wrabczynek]
+    "22": [wrabczyn, lad]
+    "23": [trabczyn]
+    "24": [wrabczyn]
+    "25": [wrabczyn]
+    "26": [wrabczyn, lad]
+    "27": [wrabczyn]
+    "28": [wrabczyn, lad]
+    "29": [wrabczyn, lad]
+    "30": [wrabczyn, lad]
+    "31": [wrabczyn, lad]
 
   # Where each document stands in the Kodeks: {work, volume, number}.
   citation:
@@ -156,10 +206,20 @@ documents:
     "19": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 11, number: "2000", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20119"}
     "20": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 10, number: "1520", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20117"}
     "21": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 10, number: "1532", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20117"}
+    "22": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 1, number: "228", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20061"}
+    "23": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 1, number: "535", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20061"}
+    "24": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 2, number: "672", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20067"}
+    "25": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 2, number: "795", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20067"}
+    "26": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 2, number: "1044", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20067"}
+    "27": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 3, number: "1363", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20085"}
+    "28": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 3, number: "1478", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20085"}
+    "29": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 3, number: "1490", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20085"}
+    "30": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 3, number: "1491", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20085"}
+    "31": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 3, number: "1519", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20085"}
 
 pages:
   # Every page is given by paragraph (one line, one paragraph of the entry).
-  by_paragraph: ["0001_a", "0002_a", "0003_a", "0004_a", "0005_a", "0006_a", "0007_a", "0008_a", "0009_a", "0010_a", "0011_a", "0012_a", "0013_a", "0014_a", "0015_a", "0016_a", "0017_a", "0018_a", "0019_a", "0020_a", "0021_a"]
+  by_paragraph: ["0001_a", "0002_a", "0003_a", "0004_a", "0005_a", "0006_a", "0007_a", "0008_a", "0009_a", "0010_a", "0011_a", "0012_a", "0013_a", "0014_a", "0015_a", "0016_a", "0017_a", "0018_a", "0019_a", "0020_a", "0021_a", "0022_a", "0023_a", "0024_a", "0025_a", "0026_a", "0027_a", "0028_a", "0029_a", "0030_a", "0031_a"]
 
 damage:
   letters: []

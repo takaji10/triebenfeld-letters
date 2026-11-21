@@ -106,20 +106,10 @@ Wanted: 1727, p. 222: Sebastjan Szetlewicz of Szetlewko
 
 ### Kodeks Dyplomatyczny Wielkopolski, vols. 1-3 ed. Ignacy Zakrzewski (1877-1879), vol. 5 ed. Franciszek Piekosiński (1908), vols. 6, 7, 10 ed. Antoni Gąsiorowski with Tomasz Jasiński, Ryszard Walczak and Wojciech Kowalewicz (1982-1993)
 
-In the edition: 21 entries, the holding kdw; the volumes as HTML on the editor's J: drive
+In the edition: 31 entries, the holding kdw; the volumes as HTML on the editor's J: drive
 
 Wanted: the entries cited and not yet in the holding (the volumes are on the editor's drive: kdw_source.py reads them)
 
-- vol. 1, no. 228 - Wrąbczyn
-- vol. 1, no. 535 (1284) - Trąbczyn
-- vol. 2, no. 672 (1291) - Wrąbczyn
-- vol. 2, no. 795 (1298) - Wrąbczyn
-- vol. 2, no. 1044 (1324) - Wrąbczyn
-- vol. 3, no. 1363 (1357) - Wrąbczyn
-- vol. 3, no. 1478 (1362) - Wrąbczyn
-- vol. 3, no. 1490 (1362) - Wrąbczyn
-- vol. 3, no. 1491 (1362) - Wrąbczyn
-- vol. 3, no. 1519 (1362) - Wrąbczyn
 - vol. 2, no. None (1341) - Pyzdry
 
 ### Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775
@@ -172,28 +162,28 @@ Wanted: the entries cited (1920 nos. 12-13, 1921 no. 25)
 
 Wanted: the entries cited (vols 1-6 from the clean transcription; 7-18 from RCIN)
 
-- t. 1, p. 248 - Biskupice
-- t. 1, p. 45 - Adamierz
-- t. 1, p. 492 - Bukowe
-- t. 1, p. 67 - Anielewo
-- t. 1, p. 85 - Augustynów
-- t. 2, p. 197 - Czarnybród
-- t. 2, p. 348 - Długa Górka
-- t. 2, p. 444 - Drzewce
-- t. 2, p. 93 - Chruściki
-- t. 3, p. 363 - Grądzeń
-- t. 3, p. 530 - Imielno
-- t. 5, p. 128 - Kopojno
-- t. 6, p. 359 - Łomów
-- t. 6, p. 524 - Mariantów
-- t. 7, p. 310 - Myszaków, Myszakówek
-- t. 8, p. 179 - Osiny
-- t. 8, p. 77 - Olchowo
-- t. 8, p. 84 - Oleśnica
-- t. 9, p. 17 - Podbiel
-- t. 14, p. 177 - Smoleniec
-- t. 15, p. 140 - Stanisławów
-- t. 15, p. 224 - Stawisko
+- t. 1, p. 247 - Biskupice
+- t. 1, p. 44 - Adamierz
+- t. 1, p. 491 - Bukowe
+- t. 1, p. 66 - Anielewo
+- t. 1, p. 84 - Augustynów
+- t. 2, p. 196 - Czarnybród
+- t. 2, p. 347 - Długa Górka
+- t. 2, p. 443 - Drzewce
+- t. 2, p. 92 - Chruściki
+- t. 3, p. 362 - Grądzeń
+- t. 3, p. 529 - Imielno
+- t. 5, p. 127 - Kopojno
+- t. 6, p. 358 - Łomów
+- t. 6, p. 523 - Mariantów
+- t. 7, p. 309 - Myszaków, Myszakówek
+- t. 8, p. 178 - Osiny
+- t. 8, p. 76 - Olchowo
+- t. 8, p. 83 - Oleśnica
+- t. 9, p. 16 - Podbiel
+- t. 14, p. 176 - Smoleniec
+- t. 15, p. 139 - Stanisławów
+- t. 15, p. 223 - Stawisko
 
 ### Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich (Warsaw 1880-1902)
 
@@ -256,12 +246,9 @@ The maps the gazetteer cites and the edition does not hold. They are not all wan
 | Hollring 1804 | 2 | Budy, Grądzeń |
 | Colberg 1827 | 1 | Michalinów Trąbczyński |
 | Reymann 1834 | 13 | Augustynów, Drzęzgi, Kościołków, Łazińskie Olędry, Łomów, Łukom, Maly, Michalinów Oleśnicki, Olchowo, Ryjew, Skokamskie Olędry, Tarczewo, Zagórów |
-| Zagórów 1841 | 1 | Kościołków |
 | Richter 1843 | 29 | Beźsług, Bieganszczyzna, Osada, Budy, Czarnybród, Długa Górka, Grabina, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Imielanka, Imielno, Jeziorko, Koszelewska Łąka, Łazińskie Olędry, Łukom, Łutow, Małgorzatów, Michalinów Trąbczyński, Oleśnica, Przybysław, Rosciszewo, Skokamskie Olędry, Stawisko, Tarszew, Trąbczyn Dworski, Włodzimirów, Wrąbczyn, Wygoda, Zagórów |
 | Chrzanowski 1858 | 6 | Biskupice, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Kopojno, Koszelewska Łąka |
-| Pełzucki 1901 | 5 | Przybysław, Trąbczyn F, Trąbczyn G, Trąbczyn, Włodzimirów |
 | Wreschen 1901 | 5 | Kopojno, Myszaków, Podbiel, Stanisławów, Wrąbczynek |
-| Trójwiorstówki 1914 | 1 | Dziadolina |
 | Wojskowy Instytut Geograficzny 1933 | 1 | Wincentowo |
 | Messtischblatt 1940 | 11 | Grądzeń-Las, Huta Trąbczyńska, Imielanka, Kirchol, Łazińskie Olędry, Mały Las, Maradz, Michalinów Trąbczyński, Rydlowa Góra, Stanisławów, Wincentowo |
 | Hohensalza 1942 | 3 | Oleśnica, Trąbczyn, Zagórów |

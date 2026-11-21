@@ -1,0 +1,171 @@
+{
+ "letter_id": "28",
+ "seq_archival": 28,
+ "parent_letter": "",
+ "unit": "kdw",
+ "uid": "kdw-28",
+ "pad": "kdw-028",
+ "permalink": "/documents/kdw/28/",
+ "doc_type": "contract",
+ "era": "medieval",
+ "themes": [],
+ "date_iso": "1362-05-31",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1362-05-31",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1362,
+ "month": 5,
+ "day": 31,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 303,
+ "line_end": 309,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "wrabczyn",
+  "lad"
+ ],
+ "is_missing": 0,
+ "n_lines": 5,
+ "n_pages": 1,
+ "text": "Dokument Nr 1478\nWyrzbenta castellanus Poznaniens. n. n. capitaneus Polonie general. 1362 Mai. 31, in Konin; protestatur, Laurentium heredem de Królikowo castellanum Lendensem, tertiam partem hereditatis Wrąbczyn monasterio de Ląd vendidisse.\nPoznań. Königl. Staats Arch. Ląd, Lib. privil. B, Nr. 20.\nNos Wyrzbenta castellanus Poznaniensis nec non capitaneus Polonie generalis, noticie presencium memorieque futurorum presentibus cupimus commendare, quod accedens ad nostram aliorumque terre Polonie nobilium presenciam strenuus miles dominus Laurencius heres de Krolikowo castellanusque Landensis, non compulsus, non coactus nec aliqua specie fraudis seu dolositatis seductus, sed maturo consilio suorum amicorum super eo habito, religioso viro domino Iohanni divina miseracione abbati et suo monasterio in Land Ordinis Cisterciensis terciam partem hereditatis Magnum Wronchyno vulgariter nuncupate, cum omnibus et singulis utilitatibus redditibusque universis ad eandem terciam partem eiusdem hereditatis Magnum Wronchyno, quam idem dominus Laurencius castellanus Landensis per triennium pacifice et quiete tenuit, pro quinquaginta sex marcis grossorum paratorum, viginti quatuor scotos pro marca qualibet, et duos grossos pro scoto computando, vendidit, contulit et perpetuis temporibus resignavit iure hereditario tituloque proprietatis quiete et pacifice possidendam, tenendam, habendam, vendendam, commutandam, resignandam et ad usus beneplacitos convertendam, secundum quod predicto domino Iohanni abbati et suo cenobio de Land melius aut utilius videbitur expedire. In cuius rei testimonium, signaculum nostri sigilli presentibus est appensum. Actum et datum in Konin tercia feria infra octavas Ascensionis Domini, anno Nativitatis eiusdem M.CCC. sexagesimo secundo, presentibus hys testibus et dominis: Venceslao thesaurario, Presprawo vexillifero Kalisiensibus, Lasczone subvenatore, Martino burgrabio Koninensibus, Iascone dicto Menczyc et aliis multis fidedignis.\nKrolikowo, Królikowo. Landensis, de Ląd. Magnum Wronchyno, Wrąbczyn.",
+ "text_reading": "Dokument Nr 1478\n\nWyrzbenta castellanus Poznaniens. n. n. capitaneus Polonie general. 1362 Mai. 31, in Konin; protestatur, Laurentium heredem de Królikowo castellanum Lendensem, tertiam partem hereditatis Wrąbczyn monasterio de Ląd vendidisse.\n\nPoznań. Königl. Staats Arch. Ląd, Lib. privil. B, Nr. 20.\n\nNos Wyrzbenta castellanus Poznaniensis nec non capitaneus Polonie generalis, noticie presencium memorieque futurorum presentibus cupimus commendare, quod accedens ad nostram aliorumque terre Polonie nobilium presenciam strenuus miles dominus Laurencius heres de Krolikowo castellanusque Landensis, non compulsus, non coactus nec aliqua specie fraudis seu dolositatis seductus, sed maturo consilio suorum amicorum super eo habito, religioso viro domino Iohanni divina miseracione abbati et suo monasterio in Land Ordinis Cisterciensis terciam partem hereditatis Magnum Wronchyno vulgariter nuncupate, cum omnibus et singulis utilitatibus redditibusque universis ad eandem terciam partem eiusdem hereditatis Magnum Wronchyno, quam idem dominus Laurencius castellanus Landensis per triennium pacifice et quiete tenuit, pro quinquaginta sex marcis grossorum paratorum, viginti quatuor scotos pro marca qualibet, et duos grossos pro scoto computando, vendidit, contulit et perpetuis temporibus resignavit iure hereditario tituloque proprietatis quiete et pacifice possidendam, tenendam, habendam, vendendam, commutandam, resignandam et ad usus beneplacitos convertendam, secundum quod predicto domino Iohanni abbati et suo cenobio de Land melius aut utilius videbitur expedire. In cuius rei testimonium, signaculum nostri sigilli presentibus est appensum. Actum et datum in Konin tercia feria infra octavas Ascensionis Domini, anno Nativitatis eiusdem M.CCC. sexagesimo secundo, presentibus hys testibus et dominis: Venceslao thesaurario, Presprawo vexillifero Kalisiensibus, Lasczone subvenatore, Martino burgrabio Koninensibus, Iascone dicto Menczyc et aliis multis fidedignis.\n\nKrolikowo, Królikowo. Landensis, de Ląd. Magnum Wronchyno, Wrąbczyn.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0028_a",
+   "line_start": 305,
+   "line_end": 309,
+   "n_lines": 5,
+   "diplomatic": "Dokument Nr 1478\nWyrzbenta castellanus Poznaniens. n. n. capitaneus Polonie general. 1362 Mai. 31, in Konin; protestatur, Laurentium heredem de Królikowo castellanum Lendensem, tertiam partem hereditatis Wrąbczyn monasterio de Ląd vendidisse.\nPoznań. Königl. Staats Arch. Ląd, Lib. privil. B, Nr. 20.\nNos Wyrzbenta castellanus Poznaniensis nec non capitaneus Polonie generalis, noticie presencium memorieque futurorum presentibus cupimus commendare, quod accedens ad nostram aliorumque terre Polonie nobilium presenciam strenuus miles dominus Laurencius heres de Krolikowo castellanusque Landensis, non compulsus, non coactus nec aliqua specie fraudis seu dolositatis seductus, sed maturo consilio suorum amicorum super eo habito, religioso viro domino Iohanni divina miseracione abbati et suo monasterio in Land Ordinis Cisterciensis terciam partem hereditatis Magnum Wronchyno vulgariter nuncupate, cum omnibus et singulis utilitatibus redditibusque universis ad eandem terciam partem eiusdem hereditatis Magnum Wronchyno, quam idem dominus Laurencius castellanus Landensis per triennium pacifice et quiete tenuit, pro quinquaginta sex marcis grossorum paratorum, viginti quatuor scotos pro marca qualibet, et duos grossos pro scoto computando, vendidit, contulit et perpetuis temporibus resignavit iure hereditario tituloque proprietatis quiete et pacifice possidendam, tenendam, habendam, vendendam, commutandam, resignandam et ad usus beneplacitos convertendam, secundum quod predicto domino Iohanni abbati et suo cenobio de Land melius aut utilius videbitur expedire. In cuius rei testimonium, signaculum nostri sigilli presentibus est appensum. Actum et datum in Konin tercia feria infra octavas Ascensionis Domini, anno Nativitatis eiusdem M.CCC. sexagesimo secundo, presentibus hys testibus et dominis: Venceslao thesaurario, Presprawo vexillifero Kalisiensibus, Lasczone subvenatore, Martino burgrabio Koninensibus, Iascone dicto Menczyc et aliis multis fidedignis.\nKrolikowo, Królikowo. Landensis, de Ląd. Magnum Wronchyno, Wrąbczyn.",
+   "transcription": "Dokument Nr 1478\nWyrzbenta castellanus Poznaniens. n. n. capitaneus Polonie general. 1362 Mai. 31, in Konin; protestatur, Laurentium heredem de Królikowo castellanum Lendensem, tertiam partem hereditatis Wrąbczyn monasterio de Ląd vendidisse.\nPoznań. Königl. Staats Arch. Ląd, Lib. privil. B, Nr. 20.\nNos Wyrzbenta castellanus Poznaniensis nec non capitaneus Polonie generalis, noticie presencium memorieque futurorum presentibus cupimus commendare, quod accedens ad nostram aliorumque terre Polonie nobilium presenciam strenuus miles dominus Laurencius heres de Krolikowo castellanusque Landensis, non compulsus, non coactus nec aliqua specie fraudis seu dolositatis seductus, sed maturo consilio suorum amicorum super eo habito, religioso viro domino Iohanni divina miseracione abbati et suo monasterio in Land Ordinis Cisterciensis terciam partem hereditatis Magnum Wronchyno vulgariter nuncupate, cum omnibus et singulis utilitatibus redditibusque universis ad eandem terciam partem eiusdem hereditatis Magnum Wronchyno, quam idem dominus Laurencius castellanus Landensis per triennium pacifice et quiete tenuit, pro quinquaginta sex marcis grossorum paratorum, viginti quatuor scotos pro marca qualibet, et duos grossos pro scoto computando, vendidit, contulit et perpetuis temporibus resignavit iure hereditario tituloque proprietatis quiete et pacifice possidendam, tenendam, habendam, vendendam, commutandam, resignandam et ad usus beneplacitos convertendam, secundum quod predicto domino Iohanni abbati et suo cenobio de Land melius aut utilius videbitur expedire. In cuius rei testimonium, signaculum nostri sigilli presentibus est appensum. Actum et datum in Konin tercia feria infra octavas Ascensionis Domini, anno Nativitatis eiusdem M.CCC. sexagesimo secundo, presentibus hys testibus et dominis: Venceslao thesaurario, Presprawo vexillifero Kalisiensibus, Lasczone subvenatore, Martino burgrabio Koninensibus, Iascone dicto Menczyc et aliis multis fidedignis.\nKrolikowo, Królikowo. Landensis, de Ląd. Magnum Wronchyno, Wrąbczyn.",
+   "reading": "Dokument Nr 1478\n\nWyrzbenta castellanus Poznaniens. n. n. capitaneus Polonie general. 1362 Mai. 31, in Konin; protestatur, Laurentium heredem de Królikowo castellanum Lendensem, tertiam partem hereditatis Wrąbczyn monasterio de Ląd vendidisse.\n\nPoznań. Königl. Staats Arch. Ląd, Lib. privil. B, Nr. 20.\n\nNos Wyrzbenta castellanus Poznaniensis nec non capitaneus Polonie generalis, noticie presencium memorieque futurorum presentibus cupimus commendare, quod accedens ad nostram aliorumque terre Polonie nobilium presenciam strenuus miles dominus Laurencius heres de Krolikowo castellanusque Landensis, non compulsus, non coactus nec aliqua specie fraudis seu dolositatis seductus, sed maturo consilio suorum amicorum super eo habito, religioso viro domino Iohanni divina miseracione abbati et suo monasterio in Land Ordinis Cisterciensis terciam partem hereditatis Magnum Wronchyno vulgariter nuncupate, cum omnibus et singulis utilitatibus redditibusque universis ad eandem terciam partem eiusdem hereditatis Magnum Wronchyno, quam idem dominus Laurencius castellanus Landensis per triennium pacifice et quiete tenuit, pro quinquaginta sex marcis grossorum paratorum, viginti quatuor scotos pro marca qualibet, et duos grossos pro scoto computando, vendidit, contulit et perpetuis temporibus resignavit iure hereditario tituloque proprietatis quiete et pacifice possidendam, tenendam, habendam, vendendam, commutandam, resignandam et ad usus beneplacitos convertendam, secundum quod predicto domino Iohanni abbati et suo cenobio de Land melius aut utilius videbitur expedire. In cuius rei testimonium, signaculum nostri sigilli presentibus est appensum. Actum et datum in Konin tercia feria infra octavas Ascensionis Domini, anno Nativitatis eiusdem M.CCC. sexagesimo secundo, presentibus hys testibus et dominis: Venceslao thesaurario, Presprawo vexillifero Kalisiensibus, Lasczone subvenatore, Martino burgrabio Koninensibus, Iascone dicto Menczyc et aliis multis fidedignis.\n\nKrolikowo, Królikowo. Landensis, de Ląd. Magnum Wronchyno, Wrąbczyn.",
+   "paragraphs": [
+    "Dokument Nr 1478",
+    "Wyrzbenta castellanus Poznaniens. n. n. capitaneus Polonie general. 1362 Mai. 31, in Konin; protestatur, Laurentium heredem de Królikowo castellanum Lendensem, tertiam partem hereditatis Wrąbczyn monasterio de Ląd vendidisse.",
+    "Poznań. Königl. Staats Arch. Ląd, Lib. privil. B, Nr. 20.",
+    "Nos Wyrzbenta castellanus Poznaniensis nec non capitaneus Polonie generalis, noticie presencium memorieque futurorum presentibus cupimus commendare, quod accedens ad nostram aliorumque terre Polonie nobilium presenciam strenuus miles dominus Laurencius heres de Krolikowo castellanusque Landensis, non compulsus, non coactus nec aliqua specie fraudis seu dolositatis seductus, sed maturo consilio suorum amicorum super eo habito, religioso viro domino Iohanni divina miseracione abbati et suo monasterio in Land Ordinis Cisterciensis terciam partem hereditatis Magnum Wronchyno vulgariter nuncupate, cum omnibus et singulis utilitatibus redditibusque universis ad eandem terciam partem eiusdem hereditatis Magnum Wronchyno, quam idem dominus Laurencius castellanus Landensis per triennium pacifice et quiete tenuit, pro quinquaginta sex marcis grossorum paratorum, viginti quatuor scotos pro marca qualibet, et duos grossos pro scoto computando, vendidit, contulit et perpetuis temporibus resignavit iure hereditario tituloque proprietatis quiete et pacifice possidendam, tenendam, habendam, vendendam, commutandam, resignandam et ad usus beneplacitos convertendam, secundum quod predicto domino Iohanni abbati et suo cenobio de Land melius aut utilius videbitur expedire. In cuius rei testimonium, signaculum nostri sigilli presentibus est appensum. Actum et datum in Konin tercia feria infra octavas Ascensionis Domini, anno Nativitatis eiusdem M.CCC. sexagesimo secundo, presentibus hys testibus et dominis: Venceslao thesaurario, Presprawo vexillifero Kalisiensibus, Lasczone subvenatore, Martino burgrabio Koninensibus, Iascone dicto Menczyc et aliis multis fidedignis.",
+    "Krolikowo, Królikowo. Landensis, de Ląd. Magnum Wronchyno, Wrąbczyn."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 5,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Konin",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 306,
+   "doc_line": 2
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Ląd",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 306,
+   "doc_line": 2
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyn",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 306,
+   "doc_line": 2
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Ląd",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 307,
+   "doc_line": 3
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Konin",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 308,
+   "doc_line": 4
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Koninensibus",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 308,
+   "doc_line": 4
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Ląd",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 309,
+   "doc_line": 5
+  },
+  {
+   "entity": "wrabczyn",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface": "Wrąbczyn",
+   "page": 1,
+   "page_id": "0028_a",
+   "scan": "",
+   "line": 309,
+   "doc_line": 5
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Document no. 1478\n\nWyrzbenta, castellan of Poznań and the same general captain of Poland, 31 May 1362, at Konin; attests that Laurentius, heir of Królikowo, castellan of Ląd, sold the third part of the estate of Wrąbczyn to the monastery of Ląd.\n\nPoznań. Royal State Archive. Ląd, Liber privilegiorum B, no. 20.\n\nWe, Wyrzbenta, castellan of Poznań and also general captain of Poland, wish to commend to the notice of the present and to the memory of the future, in these presents, that there came before us and the other nobles of the land of Poland the valiant knight Lord Laurentius, heir of Królikowo and castellan of Ląd; not compelled, not forced, nor led astray by any kind of fraud or deceit, but by the mature counsel of his friends had over this, to the religious man Lord Jan, by divine mercy abbot, and to his monastery in Ląd of the Cistercian Order, he sold, gave and resigned for all time the third part of the estate commonly called Magnum Wronchyno, with all and singular the uses and all the revenues belonging to the same third part of the same estate, which the said Lord Laurentius, castellan of Ląd, had held peaceably and quietly for three years, for fifty-six marks of ready groschen, counting twenty-four scotos for each mark and two groschen for the scotus, by hereditary right and the title of ownership, to be possessed, held, had, sold, exchanged, resigned and turned to such uses as shall seem good, quietly and peaceably, as it shall seem better or more useful to the said Lord Jan, abbot, and his abbey of Ląd. In testimony of this matter the impress of our seal is hung upon these presents. Done and given at Konin on the third day within the octave of the Lord's Ascension, in the year of his birth 1362, in the presence of these witnesses and lords: Wacław the treasurer, Presprawo, banner-bearer of Kalisz, Lasczone the under-huntsman, Marcin, burgrave of Konin, Jaszko called Menczyc, and many others worthy of trust.\n\nKrolikowo, Królikowo. Landensis, of Ląd. Magnum Wronchyno, Wrąbczyn."
+  }
+ ],
+ "text_english": "Document no. 1478\n\nWyrzbenta, castellan of Poznań and the same general captain of Poland, 31 May 1362, at Konin; attests that Laurentius, heir of Królikowo, castellan of Ląd, sold the third part of the estate of Wrąbczyn to the monastery of Ląd.\n\nPoznań. Royal State Archive. Ląd, Liber privilegiorum B, no. 20.\n\nWe, Wyrzbenta, castellan of Poznań and also general captain of Poland, wish to commend to the notice of the present and to the memory of the future, in these presents, that there came before us and the other nobles of the land of Poland the valiant knight Lord Laurentius, heir of Królikowo and castellan of Ląd; not compelled, not forced, nor led astray by any kind of fraud or deceit, but by the mature counsel of his friends had over this, to the religious man Lord Jan, by divine mercy abbot, and to his monastery in Ląd of the Cistercian Order, he sold, gave and resigned for all time the third part of the estate commonly called Magnum Wronchyno, with all and singular the uses and all the revenues belonging to the same third part of the same estate, which the said Lord Laurentius, castellan of Ląd, had held peaceably and quietly for three years, for fifty-six marks of ready groschen, counting twenty-four scotos for each mark and two groschen for the scotus, by hereditary right and the title of ownership, to be possessed, held, had, sold, exchanged, resigned and turned to such uses as shall seem good, quietly and peaceably, as it shall seem better or more useful to the said Lord Jan, abbot, and his abbey of Ląd. In testimony of this matter the impress of our seal is hung upon these presents. Done and given at Konin on the third day within the octave of the Lord's Ascension, in the year of his birth 1362, in the presence of these witnesses and lords: Wacław the treasurer, Presprawo, banner-bearer of Kalisz, Lasczone the under-huntsman, Marcin, burgrave of Konin, Jaszko called Menczyc, and many others worthy of trust.\n\nKrolikowo, Królikowo. Landensis, of Ląd. Magnum Wronchyno, Wrąbczyn.",
+ "summary_en": "Wyrzbenta, castellan of Poznań and general captain of Poland, attests that the knight Laurentius, heir of Królikowo and castellan of Ląd, of his free will sold to Abbot Jan and the monastery of Ląd the third part of the estate of Magnum Wronchyno (great Wrąbczyn), which he had held peaceably for three years, with all its uses and revenues, for 56 marks of ready groschen, counting 24 scotos to the mark and 2 groschen to the scotus, hereditarily and for the free use of the abbey. Konin, 31 May 1362, within the octave of the Ascension. Kodeks Dyplomatyczny Wielkopolski III, no. 1478, from the Liber privilegiorum B of Ląd.",
+ "summary_de": "Wyrzbenta, Kastellan von Posen und Generalkapitän von Polen, beurkundet, dass der Ritter Laurentius, Erbe von Królikowo und Kastellan von Ląd, aus freiem Willen dem Abt Jan und dem Kloster Ląd den dritten Teil des Gutes Magnum Wronchyno (Groß-Wrąbczyn), den er drei Jahre lang friedlich innegehabt hatte, mit allen Nutzungen und Einkünften für 56 Mark fertiger Groschen verkauft hat, je 24 Skoten zur Mark und 2 Groschen zum Skoten gerechnet, erblich und zum freien Gebrauch der Abtei. Konin, 31. Mai 1362, innerhalb der Oktav der Himmelfahrt. Kodeks Dyplomatyczny Wielkopolski III, Nr. 1478, aus dem Privilegienbuch B von Ląd.",
+ "reading": {}
+}

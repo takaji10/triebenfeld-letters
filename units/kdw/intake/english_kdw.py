@@ -9,12 +9,13 @@ that keep the summaries. Claim-checked in intake/claim_check.yml.
 import english_kdw_a
 import english_kdw_b
 import english_kdw_c
+import english_kdw_missing
 
 ENGLISH = {}
-for part in (english_kdw_a, english_kdw_b, english_kdw_c):
+for part in (english_kdw_a, english_kdw_b, english_kdw_c, english_kdw_missing):
     assert not set(ENGLISH) & set(part.E)
     ENGLISH.update(part.E)
-assert sorted(ENGLISH) == list(range(1, 22)), sorted(ENGLISH)
+assert sorted(ENGLISH) == list(range(1, 32)), sorted(ENGLISH)
 
 S = {
     1: ('Herzog Mieszko von Polen schenkt dem Zisterzienserkloster Ląd, seiner Gründung, auf Bitten des Abtes Bertold das Gut „parvum Vronchin“, heute Wrąbczynek, mit Salz, Seen, Fischerei und Jagd, frei von allen polnischen Rechten, zu erblichem Besitz. Gnesen, 31. August 1173. Kodeks Dyplomatyczny Wielkopolski I, Nr. 20, nach dem Original im Besitz der Fürsten Czartoryski; die Schrift scheint nach den Herausgebern aus der ersten Hälfte des 13. Jahrhunderts zu sein.',
@@ -62,5 +63,13 @@ S = {
 }
 assert sorted(S) == list(range(1, 22))
 
+S.update(english_kdw_missing.S)
+assert sorted(S) == list(range(1, 32)), sorted(S)
+
 HOW = ('written in the working session from the Latin text and the editors\' Polish of\n'
-       '# each whole entry of the Kodeks (intake/english_kdw.py, 2026-10-16).')
+       '# each whole entry of the Kodeks (intake/english_kdw.py, 2026-10-16);\n'
+       '# entries 22 to 31 written the same way in the session of 2026-10-24, from\n'
+       '# the staged file kodeks_missing.txt, checked against Igor\'s independent\n'
+       '# conversion of the same WBC HTML (intake/stage_missing.py), their\n'
+       '# summaries in intake/english_kdw_missing.py and held to the document in\n'
+       '# intake/claim_check.yml.')

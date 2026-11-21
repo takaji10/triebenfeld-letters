@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 305,
+  "count": 306,
   "documents": [
    "adwl85-1",
    "agad1169011745-1",
@@ -177,6 +177,7 @@
    "kdw-13",
    "kdw-19",
    "kdw-2",
+   "kdw-23",
    "kdw-5",
    "kdw-9",
    "oe1bu14525-1",
@@ -951,11 +952,20 @@
  {
   "entity": "wrabczyn",
   "display": "Wrąbczyn",
-  "count": 36,
+  "count": 45,
   "documents": [
    "kdw-12",
    "kdw-18",
    "kdw-2",
+   "kdw-22",
+   "kdw-24",
+   "kdw-25",
+   "kdw-26",
+   "kdw-27",
+   "kdw-28",
+   "kdw-29",
+   "kdw-30",
+   "kdw-31",
    "kdw-8",
    "oe1bu14525-10",
    "oe1bu14525-17",
@@ -1168,6 +1178,38 @@
   ]
  },
  {
+  "entity": "lad",
+  "display": "Ląd",
+  "count": 25,
+  "documents": [
+   "app5314550221-1",
+   "app5314550221-2",
+   "app5314550221-3",
+   "app5314550221-4",
+   "app5314550221-5",
+   "app5314550221-6",
+   "kdw-1",
+   "kdw-11",
+   "kdw-12",
+   "kdw-13",
+   "kdw-14",
+   "kdw-15",
+   "kdw-16",
+   "kdw-17",
+   "kdw-18",
+   "kdw-2",
+   "kdw-22",
+   "kdw-26",
+   "kdw-28",
+   "kdw-29",
+   "kdw-30",
+   "kdw-31",
+   "kdw-4",
+   "kdw-6",
+   "kdw-7"
+  ]
+ },
+ {
   "entity": "kolno",
   "display": "Kolno (Kulm)",
   "count": 22,
@@ -1279,32 +1321,6 @@
    "oe1bu9454-96",
    "oe1bu9454-97",
    "oe1bu9454-99"
-  ]
- },
- {
-  "entity": "lad",
-  "display": "Ląd",
-  "count": 19,
-  "documents": [
-   "app5314550221-1",
-   "app5314550221-2",
-   "app5314550221-3",
-   "app5314550221-4",
-   "app5314550221-5",
-   "app5314550221-6",
-   "kdw-1",
-   "kdw-11",
-   "kdw-12",
-   "kdw-13",
-   "kdw-14",
-   "kdw-15",
-   "kdw-16",
-   "kdw-17",
-   "kdw-18",
-   "kdw-2",
-   "kdw-4",
-   "kdw-6",
-   "kdw-7"
   ]
  },
  {

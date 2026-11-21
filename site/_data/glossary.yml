@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 96
+  docs: 99
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -169,7 +169,7 @@
   initial_en: "H"
   sort_de: "hufe"
   initial_de: "H"
-  docs: 49
+  docs: 50
 - id: "ruthe"
   kind: "money"
   lang: "de"
@@ -226,7 +226,7 @@
   initial_en: "C"
   sort_de: "klafter"
   initial_de: "K"
-  docs: 8
+  docs: 9
 - id: "scheffel"
   kind: "money"
   lang: "de"
@@ -245,7 +245,7 @@
   initial_en: "B"
   sort_de: "scheffel"
   initial_de: "S"
-  docs: 5
+  docs: 6
 - id: "vorwerk"
   kind: "land"
   lang: "de"
@@ -302,7 +302,7 @@
   initial_en: "C"
   sort_de: "canon"
   initial_de: "C"
-  docs: 47
+  docs: 48
 - id: "erbzins"
   kind: "land"
   lang: "de"
@@ -416,7 +416,7 @@
   initial_en: "L"
   sort_de: "herrschaft"
   initial_de: "H"
-  docs: 43
+  docs: 44
 - id: "unterthanen"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 75
+  docs: 77
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -1081,7 +1081,7 @@
   initial_en: "W"
   sort_de: "wozny (gerichtsbote)"
   initial_de: "W"
-  docs: 45
+  docs: 46
 - id: "matura"
   kind: "law"
   lang: "de"
@@ -1955,7 +1955,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 73
+  docs: 74
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -2031,7 +2031,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 72
+  docs: 78
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

@@ -99,6 +99,42 @@ one string per document, and holds S and HOW). Then `check_translations.py
 - **The "@" marks** in document 6 ("@M CC L XXX@") are in the editor's
   text and are kept in the English ("@1280@").
 
+## Entries 22 to 31 (2026-10-24)
+
+The ten entries the gazetteer cited and the holding lacked, brought in at the
+editor's word ("add them to the site like the other ones"): the whole of the
+holding's Wrąbczyn medieval papers (Kazimierz's exchange of 1241; the location
+privileges of 1291 and 1298; the King's gift and confirmation of 1324; the
+exchange of 1357 and the sales of 1362, 1363 and 1364), and Trąbczyn's
+location privilege of 1284, which the gazetteer's footnote 83 had cited
+without a document.
+
+- **The text** is `intake/kodeks_missing.txt`, read from the WBC's HTML by
+  `intake/kdw_source.py` in the shape of `kodeks.txt` (marker line, then the
+  regest, the sources, the text and the editors' note, one line each) and
+  written by `intake/stage_missing.py`. Two things about the WBC's HTML,
+  found and handled there: the editors' note div is repeated after the
+  entry (the printed entry has it once, as `kodeks.txt` shows), and the blue
+  text div ends with a copy of the note's content, which is stripped. The
+  staged text was then checked against Igor's independent conversion of the
+  same WBC HTML (`C:\Users\Tersnaus\Downloads\polish-place-name-sources\sources\kdw\`):
+  **all ten agree character for character** once spaces are ignored.
+- **Ids 22 to 31** follow the holding's 21 in date order; the published
+  addresses of documents 1 to 21 do not move. The volume and number of each
+  is in `rulings.yml` as before.
+- **Volumes 1 to 3 have no footnote markers**, so nothing is added to
+  `footnotes.yml`.
+- **The English** (`intake/english_kdw_missing.py`) and the German and
+  English summaries follow the conventions of the first 21; the summaries
+  are claim-checked in `intake/claim_check.yml` (kdw-022 to kdw-031, 38
+  statements, all supported).
+- **The document's own slip** in no. 1519: the dateline calls the heiress
+  Dobrocha throughout, but the operative sentence reads "Dobroslawe" — kept
+  as it stands, and named in the summary.
+- **The gazetteer's ten footnotes** (trabczyn.yml n. 83; wrabczyn.yml
+  nn. 99 to 106) now link to /documents/kdw/23/ and 22, 24 to 31; the
+  Kodeks section has left `docs/MISSING_SOURCES.md`.
+
 ## Open
 
 - The name of the era (working name `medieval`).

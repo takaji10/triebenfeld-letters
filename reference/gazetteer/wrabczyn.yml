@@ -58,8 +58,8 @@ footnotes:
   refs:
   - source: kdw
     locator: vol. 1, no. 228
-    link: null
-    status: missing
+    link: /documents/kdw/22/
+    status: linked
   note: null
 - n: 100
   text: Zakrzewski, vol. 2, No, 685
@@ -74,24 +74,24 @@ footnotes:
   refs:
   - source: kdw
     locator: vol. 2, no. 672
-    link: null
-    status: missing
+    link: /documents/kdw/24/
+    status: linked
   note: The village of *Sal* is unknown, but the Diplomatic Code of Greater Poland notes that in the area around Zagórów, salt production was common in ancient times.
 - n: 102
   text: Ibid No. 795
   refs:
   - source: kdw
     locator: vol. 2, no. 795
-    link: null
-    status: missing
+    link: /documents/kdw/25/
+    status: linked
   note: null
 - n: 103
   text: Ibid No. 1044
   refs:
   - source: kdw
     locator: vol. 2, no. 1044
-    link: null
-    status: missing
+    link: /documents/kdw/26/
+    status: linked
   note: null
 - n: 104
   text: Zakrzewski, vol. 3, No. 1739
@@ -106,28 +106,28 @@ footnotes:
   refs:
   - source: kdw
     locator: vol. 3, no. 1363
-    link: null
-    status: missing
+    link: /documents/kdw/27/
+    status: linked
   note: null
 - n: 106
   text: Ibid Nos. 1478, 1490, 1491 & 1519
   refs:
   - source: kdw
     locator: vol. 3, no. 1478
-    link: null
-    status: missing
+    link: /documents/kdw/28/
+    status: linked
   - source: kdw
     locator: vol. 3, no. 1490
-    link: null
-    status: missing
+    link: /documents/kdw/29/
+    status: linked
   - source: kdw
     locator: vol. 3, no. 1491
-    link: null
-    status: missing
+    link: /documents/kdw/30/
+    status: linked
   - source: kdw
     locator: vol. 3, no. 1519
-    link: null
-    status: missing
+    link: /documents/kdw/31/
+    status: linked
   note: null
 - n: 107
   text: Gąsiorowski and Kowalewicz, vol. 6, No. 283. This source states that the place in question may also have been Wrąbczynek.

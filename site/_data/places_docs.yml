@@ -1123,7 +1123,7 @@ kolonia-wrabczyn:
   span: ''
   letters: []
 konin:
-  docs: 42
+  docs: 45
   span: 1280–1936
   letters:
   - id: '6'
@@ -1131,6 +1131,21 @@ konin:
     url: /documents/kdw/6/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 3
+  - id: '27'
+    uid: kdw-27
+    url: /documents/kdw/27/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 3
+  - id: '28'
+    uid: kdw-28
+    url: /documents/kdw/28/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 3
+  - id: '31'
+    uid: kdw-31
+    url: /documents/kdw/31/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
   - id: '17'
     uid: kdw-17
     url: /documents/kdw/17/
@@ -1337,12 +1352,17 @@ konin:
     unit_label: APP 53/968/0/-/669
     n: 1
 kopojno:
-  docs: 39
+  docs: 40
   span: 1240–1858
   letters:
   - id: '2'
     uid: kdw-2
     url: /documents/kdw/2/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '22'
+    uid: kdw-22
+    url: /documents/kdw/22/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
   - id: '4'
@@ -1576,7 +1596,7 @@ lusnie-oledry:
   span: ''
   letters: []
 lad:
-  docs: 20
+  docs: 28
   span: 1173–1806
   letters:
   - id: '1'
@@ -1589,6 +1609,11 @@ lad:
     url: /documents/kdw/2/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 3
+  - id: '22'
+    uid: kdw-22
+    url: /documents/kdw/22/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
   - id: '4'
     uid: kdw-4
     url: /documents/kdw/4/
@@ -1597,6 +1622,11 @@ lad:
   - id: '5'
     uid: kdw-5
     url: /documents/kdw/5/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '23'
+    uid: kdw-23
+    url: /documents/kdw/23/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 2
   - id: '7'
@@ -1609,6 +1639,36 @@ lad:
     url: /documents/kdw/8/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
+  - id: '26'
+    uid: kdw-26
+    url: /documents/kdw/26/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '27'
+    uid: kdw-27
+    url: /documents/kdw/27/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '28'
+    uid: kdw-28
+    url: /documents/kdw/28/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 3
+  - id: '29'
+    uid: kdw-29
+    url: /documents/kdw/29/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '30'
+    uid: kdw-30
+    url: /documents/kdw/30/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '31'
+    uid: kdw-31
+    url: /documents/kdw/31/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
   - id: '11'
     uid: kdw-11
     url: /documents/kdw/11/
@@ -2400,9 +2460,24 @@ przycierz:
   span: ''
   letters: []
 pyzdry:
-  docs: 20
-  span: 1362–1936
+  docs: 23
+  span: 1291–1936
   letters:
+  - id: '24'
+    uid: kdw-24
+    url: /documents/kdw/24/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '25'
+    uid: kdw-25
+    url: /documents/kdw/25/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '26'
+    uid: kdw-26
+    url: /documents/kdw/26/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
   - id: '4'
     uid: app5314550221-4
     url: /documents/app5314550221/4/
@@ -2984,7 +3059,7 @@ trzcianne:
   span: ''
   letters: []
 trabczyn:
-  docs: 257
+  docs: 258
   span: 1240–1936
   letters:
   - id: '2'
@@ -2995,6 +3070,11 @@ trabczyn:
   - id: '5'
     uid: kdw-5
     url: /documents/kdw/5/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '23'
+    uid: kdw-23
+    url: /documents/kdw/23/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 2
   - id: '9'
@@ -4407,7 +4487,7 @@ wincentowo:
   span: ''
   letters: []
 wrabczyn:
-  docs: 39
+  docs: 48
   span: 1240–1812
   letters:
   - id: '2'
@@ -4415,11 +4495,56 @@ wrabczyn:
     url: /documents/kdw/2/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
+  - id: '22'
+    uid: kdw-22
+    url: /documents/kdw/22/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '24'
+    uid: kdw-24
+    url: /documents/kdw/24/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
   - id: '8'
     uid: kdw-8
     url: /documents/kdw/8/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
+  - id: '25'
+    uid: kdw-25
+    url: /documents/kdw/25/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '26'
+    uid: kdw-26
+    url: /documents/kdw/26/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '27'
+    uid: kdw-27
+    url: /documents/kdw/27/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '28'
+    uid: kdw-28
+    url: /documents/kdw/28/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '29'
+    uid: kdw-29
+    url: /documents/kdw/29/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '30'
+    uid: kdw-30
+    url: /documents/kdw/30/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '31'
+    uid: kdw-31
+    url: /documents/kdw/31/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
   - id: '12'
     uid: kdw-12
     url: /documents/kdw/12/
@@ -11280,9 +11405,14 @@ rypin:
     unit_label: I. HA GR, Rep. 7 C, Nr. 3067
     n: 1
 rzgow:
-  docs: 7
-  span: 1261–1803
+  docs: 8
+  span: 1241–1803
   letters:
+  - id: '22'
+    uid: kdw-22
+    url: /documents/kdw/22/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
   - id: '4'
     uid: kdw-4
     url: /documents/kdw/4/
@@ -12868,12 +12998,52 @@ venedig:
     unit_label: III. HA MdA, III. Nr. 12366
     n: 3
 warschau:
-  docs: 74
-  span: 1292–1882
+  docs: 82
+  span: 1241–1882
   letters:
+  - id: '22'
+    uid: kdw-22
+    url: /documents/kdw/22/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '23'
+    uid: kdw-23
+    url: /documents/kdw/23/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
   - id: '8'
     uid: kdw-8
     url: /documents/kdw/8/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '25'
+    uid: kdw-25
+    url: /documents/kdw/25/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '26'
+    uid: kdw-26
+    url: /documents/kdw/26/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '27'
+    uid: kdw-27
+    url: /documents/kdw/27/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '29'
+    uid: kdw-29
+    url: /documents/kdw/29/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '30'
+    uid: kdw-30
+    url: /documents/kdw/30/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '31'
+    uid: kdw-31
+    url: /documents/kdw/31/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
   - id: '11'
