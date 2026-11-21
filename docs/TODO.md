@@ -1622,7 +1622,7 @@ transcription; 108 readings settled in session before the first build
 - [ ] You: the rest in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr. 3132").
 - [x] Published at your word (2026-11-20).
 
-## 65. I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added 2026-11-21, **not published**)
+## 65. I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added and **published 2026-11-21**)
 
 - [x] Seventeen scans with transcriptions taken (0015, 0018, 0019 left out;
       0014 replaced by your crops 0014a/0014b); pages cut at proposed folds,
@@ -1642,7 +1642,7 @@ transcription; 108 readings settled in session before the first build
 - [ ] Then: apply both; a timeline event and a paragraph in the Hohenlohe
       era page (offered, not built); the rest in NEEDS_CONFIRMATION ("I. HA
       GR, Rep. 7 C, Nr. 421").
-- [ ] Publish at your word.
+- [x] Published at your word (2026-11-21).
 
 ## 66. The literature: Kneifel (1964), two pages added (made 2026-10-23 on the branch kneifel1964-pages, merged into main 2026-11-21)
 

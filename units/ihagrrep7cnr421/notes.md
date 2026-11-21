@@ -3,8 +3,7 @@
 The Prussian ministry's file of October to December 1799 on the complaints of
 Stanisław von Chełmski of Łukom over his claim of 12,000 ducats on the former
 Starost Antoni Prusimski: seven documents on 23 pages, the cover as front
-matter. Added 2026-11-21 at the editor's word, branch `trampczynski-family`;
-**not published**.
+matter. Added 2026-11-21 at the editor's word; **published 2026-11-21**.
 
 The archive's title, as the editor gave it: "Beschwerden des v. Chelmski wegen
 seiner Forderung an den ehemaligen Starosten v. Prusinski". The cover reads

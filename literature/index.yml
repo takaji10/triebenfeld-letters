@@ -198,6 +198,7 @@ people:
   goetzen:
     Götzen: "no: the word for idols (Feuerbrände 1-17)"
     Götzendorf: "no: the Polish noble family Götzendorf-Grabowski in a list of names (Materialien p. 7)"
+    Goetzendort: "no: Goetzendorf-Grabowska, owner of the Wełna estate in 1796 (Rusiński 1947, p. 102), the Götzendorf-Grabowski family, not Count Götzen"
   grevenitz:
     # The government councillor (Regierungsrath) von Grevenitz at Posen in the
     # 1790s, Triebenfeld's fellow go-between in the Gurowski affair, stands: he
@@ -570,6 +571,11 @@ people:
     # Unruhstadt are one town, Kargowa
     Stenger: yes
     Stengers: yes
+    # Rusiński (1947) p. 101: "ówczesnego sędziego pruskiego Stengera", a
+    # Prussian judge of the 1790s on the Olęders' tenure. Possibly the
+    # Justizkommissarius Stenger of Karge (Kargowa, in the Olęder country),
+    # but a judge, not a lawyer, and the book gives no place: not shown.
+    Stengera: "no: a Prussian judge Stenger of the 1790s (Rusiński 1947, p. 101); not shown to be the Criminal Rath Stenger of Karge"
   sobolewski:
     # Karwowski (1900): "minister Sobolewski" informed the Prussian
     # government, from Warsaw on 23 October 1828, that the Cistercian Nuns'
@@ -683,6 +689,8 @@ people:
     # (1418, raised to sovereign territorial supremacy), in the house's
     # medieval history — not the edition's Rath Albrecht of Berlin.
     Albrecht: "no: count Albrecht von Hohenlohe of 1418, in the house's medieval history (Kraus 2001), not the edition's Rath Albrecht of Berlin"
+    Albrechta: "no: Duke Albrecht of Prussia, sixteenth century (Rusiński 1947, pp. 5 and 7), not the edition's Rath Albrecht of Berlin"
+    Albrechts: "no: Duke Albrecht of Prussia in a book title (Rusiński 1947, bibliography) and a brother-in-law in a Hohenlohe family letter (Seidel 2018, p. 189), not the edition's Rath Albrecht of Berlin"
   baildon:
     # Kraus (2001): John Baildon throughout — the engineer from Carron near
     # Edinburgh engaged for the Prince's Upper Silesian undertakings (pp. 38,
@@ -795,7 +803,17 @@ places:
   # und Winiec weit unter Wert wieder verkauft" — the lordships the prince
   # sold; the edition's documents write the village's name Botkowo as well.
   batkowo: {Botkowo: yes}
-  betsche: {Betsche: yes}
+  betsche:
+    Betsche: yes
+    # Rusiński (1947), the annex table (p. 123): Pszczew as the estate of the
+    # Nowosileńskie and Pącheńskie Olędry - the edition's Betsche.
+    Pszczew: yes
+  oporowo:
+    # Rusiński (1947), the annex table (p. 123): Krzemieniewo in the estate of
+    # Oporowo - the Oporowo of gmina Krzemieniewo, the edition's place.
+    Oporowo: yes
+  silna:
+    Silna: "no: Nowa Silna, the Olęder settlement of the Pszczew estate (Rusiński 1947, p. 123), not the village of Silna itself"
   adamierz:
     # Kneifel (1937) p. 266: Adamierz, a village of the commune of Dłusk in
     # the list of the localities of the filial of Lissewo-Pyzdry - the
@@ -1231,6 +1249,7 @@ places:
   koenigsberg: {Königsberg: yes, Königsberger: yes, Königsbergischen: yes}
   konin:
     Konin: yes
+    Koninko: "no: Koninko Olędry, a settlement near Poznań that did not exist (Rusiński 1947, p. 15), not Konin"
     # Encyclopedia of Camps and Ghettos (2012), in titles it cites: "Konińska
     # relacja" (the Konin account), "Ziemi Konińskiej" (the Konin land).
     Konińska: yes
@@ -1396,7 +1415,7 @@ places:
     # edition's own note on the "sanctuarii" of 1261 takes it
     Swiątniki: yes
     Świątniki: yes
-  teutschland: {Deutschland: yes, Deutschlande: yes, Deutschlands: yes}
+  teutschland: {Deutschland: yes, Deutschlande: yes, Deutschlands: yes, Teutschlande: yes}
   torun: {Thorn: yes}
   ulm:
     Ulm:

@@ -585,9 +585,11 @@ In the first decade of the 20th century the church and tower alteration was carr
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-180">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-180">S. 180</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
@@ -699,9 +701,11 @@ Pastor Adolf Doberstein wrote in the "Luthererbe in Polen" of 13. March 1938 on 
 […]
 
 </div>
+</div>
 </section>
 
 <section class="lit-passage" id="p-257">
+<div class="lit-main">
 <h2 class="lit-loc"><a href="#p-257">S. 257</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 

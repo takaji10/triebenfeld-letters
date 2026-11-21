@@ -6438,3 +6438,12 @@ sources-icon.html`).
 - A new person entry and page, `stanislaw-chelmski` (the editor: the Stanisław of the boundary decree of 1775): Stanisław Ścibor Chełmski, Treasurer of Wschowa, 67 documents 1763-1815; bio in both languages; his page with his parents, wife and son from Boniecki and the database; his mother's page links to it; four literature hits ruled.
 - Mondro of 1799 is the Mondro of 1805 (the editor): his identity and bio say so. The connection `chelmski-suit-against-hohenlohe` kept.
 - The site verifies clean (656 documents).
+
+## 2026-11-21 - Work moves to main; the old branches deleted; Rusiński (1947) and two Kneifel pages merged; published
+
+- The editor: "You can push and publish and work on main. Delete old branches. Commit rusinski1947, kneifel1964-pages, and merge into main. If agad143201139 has been superseded by a newer entry, then we don't need it."
+- `main` fast-forwarded to `trampczynski-family` (I. HA GR, Rep. 7 C, Nr. 421 and the Nr. 3132 work).
+- `kneifel1964-pages` cherry-picked (Kneifel 1964, pp. 180 and 257; TODO section 66); `rusinski1947` merged (Rusiński 1947, the whole book, shown at the editor's word of 2026-11-05).
+- `agad143201139` dropped: the same unit (AGAD 1/432/0/1/139) is the published `agad14320139`.
+- The merged branches deleted, here and on GitHub; `place-name-sources` kept (unmerged, not named).
+- CLAUDE.md, "Branch and publishing": work on `main`; pushing `main` publishes.

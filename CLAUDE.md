@@ -87,11 +87,18 @@ so check them.
 
 ## How this project is worked
 
-- **Branch and publishing.** Develop on the session's branch. The live site
+- **Branch and publishing.** Work on `main` (the editor, 2026-11-21: "You can
+  push and publish and work on main"; no more per-holding branches, and the
+  old ones were deleted that day). The live site
   (https://takaji10.github.io/triebenfeld-letters/) is built from `main` by
-  `.github/workflows/pages.yml`, which runs `pipeline/verify_site.py` as a gate. To
-  publish, fast-forward `main` to the branch and push, then confirm the
-  "Build and deploy" run succeeded. Publish only when the editor says so.
+  `.github/workflows/pages.yml`, which runs `pipeline/verify_site.py` as a gate,
+  so **pushing `main` publishes**: commit as the work goes, push when the
+  editor says publish, then confirm the "Build and deploy" run succeeded.
+  Until then the commits stay on this machine, and a cloud session does not
+  see them (nor their lessons): say so when a session ends with unpushed
+  work. A cloud session works on the branch the harness gives it and merges
+  into `main` at the editor's publish word. Two sessions in one working copy:
+  use a worktree (WORKING_NOTES, "Two sessions, one working copy").
 - **Line endings.** Every text file is LF, on the desktop and in the cloud
   (`.gitattributes`, editor 2026-10-19). A script that writes a file to be
   committed uses `newline='\n'` (and `lineterminator='\n'` for `csv`).
@@ -120,8 +127,7 @@ so check them.
 ## Where things stand (2026-11-01)
 
 - **I. HA GR, Rep. 7 C, Nr. 421 - Chełmski's claim on Prusimski, 1799**
-  (slug `ihagrrep7cnr421`, added 2026-11-21, branch `trampczynski-family`,
-  **not published**): the ministry's file on Stanisław Chełmski of Łukom's
+  (slug `ihagrrep7cnr421`, added 2026-11-21, **published 2026-11-21**): the ministry's file on Stanisław Chełmski of Łukom's
   complaint that the Kalisz government would not hear his suit against the
   Fiscus for the 12,000 ducats he lent Prusimski in 1794; seven documents
   (the editor's word: the Polish copy of Prusimski's bond with the suit; the

@@ -405,7 +405,7 @@
   title_card: null
   title_en_card: null
   thumb: null
-  pages: 21
+  pages: 23
 - slug: ostensacken2001
   kind: history
   title: 'Christiane Fürstin von der Osten-Sacken: Eine frühkapitalistische Unternehmerin und ihre Erben während der Frühindustrialisierung im 18./19. Jahrhundert'
@@ -757,6 +757,29 @@
   title_en_card: null
   thumb: null
   pages: 9
+- slug: rusinski1947
+  kind: book
+  title: Osady tzw. „olędrów” w dawnym województwie poznańskim
+  title_en: The settlements of the so-called Olęders in the former voivodeship of Poznań
+  cite: Rusiński (1947)
+  author: Władysław Rusiński
+  author_sort: Rusiński, Władysław
+  published: Prace Komisji Atlasu Historycznego Polski, zeszyt V, Poznań 1939 – Kraków 1947 (Nakładem Polskiej Akademii Umiejętności; printed by the Jagiellonian University press, Kraków; wydano z zasiłku Wydziału Nauki Ministerstwa Oświaty)
+  year: 1947
+  language: pl
+  english_by: Claude
+  scan: ''
+  note_en: ''
+  note_de: ''
+  account_en: 'Władysław Rusiński''s monograph of 1939 (printed at Kraków in 1947, the war holding the sheets) on the settlements of the so-called Olęders - the Hauländer villages settled under Dutch law - across the whole former voivodeship of Poznań, from their origins through their demography, their legal standing and their economy to the partition years. Its chapter on the founding of the settlements and its annex tables of every settlement with its privilege, hearths and population bear directly on the edition''s own colonies: Łazińsk (the Trąbczyńskie Stare Olędry, founded 1746 by the Trąbczyn estate''s owners), the Łukomskie Olędry and the rest of the Zagórów-Trąbczyn ring in the Pyzdry Forest. The book is the study the edition''s own literature (Chodyła 2015, Szwiec 2009, Słowiński and Połom 2024) cites as the foundation of the subject.'
+  account_de: 'Władysław Rusińskis Monografie von 1939 (in Krakau 1947 gedruckt, der Krieg hielt die Bogen zurück) über die Siedlungen der sogenannten Olęder - der Hauländer-Dörfer nach hollandischem Recht - in der ganzen Woiwodschaft Posen, von ihren Anfängen über Demographie, Rechtsstellung und Wirtschaft bis zu den Teilungsjahren. Ihr Kapitel über die Gründung der Siedlungen und ihre Anhangstabellen jeder Siedlung mit Privileg, Rauchfang und Bevölkerung tragen unmittelbar auf die Kolonien der Ausgabe selbst: Łazińsk (die Trąbczyńskie Stare Olędry, 1746 von den Besitzern des Gutes Trąbczyn gegründet), die Łukomskie Olędry und der übrige Kranz von Zagórów-Trąbczyn in der Puszcza Pyzdrska. Das Buch ist die Studie, die die Literatur der Ausgabe (Chodyła 2015, Szwiec 2009, Słowiński und Połom 2024) als Grundlage des Gegenstands nennt.'
+  brief_en: 'Rusiński''s monograph of the Olęder settlements of the former voivodeship of Poznań: their origins, demography, law and economy, with annex tables of every settlement - the foundation study of the subject, and of the edition''s own colonies.'
+  brief_de: 'Rusińskis Monografie der Olęder-Siedlungen der ehemaligen Woiwodschaft Posen: ihre Anfänge, Demographie, ihr Recht und ihre Wirtschaft, mit Anhangstabellen jeder Siedlung - die Grundlagenstudie des Gegenstands und der eigenen Kolonien der Ausgabe.'
+  published_card: null
+  title_card: null
+  title_en_card: null
+  thumb: null
+  pages: 144
 - slug: nmpol
   kind: reference
   title: Nazwy miejscowe Polski — cytowane hasła

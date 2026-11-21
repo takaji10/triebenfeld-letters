@@ -2131,7 +2131,7 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
-## I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added 2026-11-21, branch `trampczynski-family`, not published)
+## I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added and published 2026-11-21)
 
 Read `units/ihagrrep7cnr421/notes.md` first.
 

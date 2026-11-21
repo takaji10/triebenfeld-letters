@@ -3256,7 +3256,6 @@ Lessons:
   selection sheet's choices live in the editor's browser and the exported
   JSON, not in the repository.
 
-<<<<<<< HEAD
 ## The Pełzucki 1896 map: labels, plots and proper names on the site (2026-11-06)
 
 - **A selected label draws no name on the labelling page, and the editor
@@ -4469,7 +4468,7 @@ first and a fine pass at their word. The files are in
   so; read those strips yourself before settling. A brief that names the
   file's internal witnesses (two copies of one petition, a decision and its
   clean draft) lets the readers settle many readings on their own.
-=======
+
 
 ## OCR of a ruled Polish table (2026-11-05)
 
@@ -4546,4 +4545,24 @@ The Rusinski 1947 sitting's lessons, for the next ruled-table scan:
 - **The hyphen-join must REPLACE the fragment, not append the joined
   word after it** - the append duplicates every broken word ('zna-
   znanej'); ~70 kB of duplication hid inside a 415 kB draft.
->>>>>>> rusinski1947
+
+## Working on main; merging the old branches (2026-11-21)
+
+- **The editor's word: work on `main`, push and publish.** The per-holding
+  branches are gone (38 merged ones deleted, the superseded
+  `agad143201139` with them); `rusinski1947` merged and `kneifel1964-pages`
+  cherry-picked into `main`; `place-name-sources` kept (unmerged work the
+  editor did not name). Pushing `main` is publishing (CLAUDE.md, "Branch and
+  publishing").
+- **A conflict resolver's check must look for marker lines, not marker
+  text, and nothing may be committed after it fails.** WORKING_NOTES itself
+  quotes "<<<<<<<" in prose, so `assert '<<<<<<<' not in s` failed after the
+  markers were gone; the shell's `&&` chain then ran `git add` and `git
+  commit` on the next line regardless (the failing Python was not the
+  chain's first link), and the merge commit carried the markers until a
+  fix commit. Check with `grep -n '^<<<<<<< \|^=======$\|^>>>>>>> '`, run
+  the commit as a separate step after reading that it is empty.
+- **Cherry-picking an old branch's one commit beats merging it** when the
+  branch is hundreds of commits behind: the generated files conflict
+  (take `main`'s and rebuild), and its TODO section number is already
+  taken on `main` (give it the next free number).

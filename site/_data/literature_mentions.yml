@@ -70,6 +70,18 @@ person:
     - key: c06
       en: 2.976.226-240
       de: 2.976.226-240
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: '47'
+      en: p. 47
+      de: S. 47
+    - key: '88'
+      en: p. 88
+      de: S. 88
+    - key: '102'
+      en: p. 102
+      de: S. 102
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -1899,6 +1911,12 @@ person:
     - key: '124'
       en: p. 124
       de: S. 124
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: '2'
+      en: p. 2
+      de: S. 2
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -2230,6 +2248,12 @@ person:
     - key: '219'
       en: p. 219
       de: S. 219
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: VI
+      en: p. VI
+      de: S. VI
   - work: wasicki1953
     cite: Wąsicki (1953)
     pages:
@@ -2385,6 +2409,45 @@ person:
     - key: c08
       en: VI. Kapitel.
       de: VI. Kapitel.
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: X
+      en: p. X
+      de: S. X
+    - key: '7'
+      en: p. 7
+      de: S. 7
+    - key: '78'
+      en: p. 78
+      de: S. 78
+    - key: '95'
+      en: p. 95
+      de: S. 95
+    - key: '101'
+      en: p. 101
+      de: S. 101
+    - key: '103'
+      en: p. 103
+      de: S. 103
+    - key: '109'
+      en: p. 109
+      de: S. 109
+    - key: '111'
+      en: p. 111
+      de: S. 111
+    - key: '114'
+      en: p. 114
+      de: S. 114
+    - key: '115'
+      en: p. 115
+      de: S. 115
+    - key: '116'
+      en: p. 116
+      de: S. 116
+    - key: '119'
+      en: p. 119
+      de: S. 119
   stoessel:
   - work: materialien1861
     cite: Materialien (1861)
@@ -3084,6 +3147,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: '19'
+      en: p. 19
+      de: S. 19
   - work: pachonski1973
     cite: Pachoński (1973)
     pages:
@@ -3290,6 +3359,12 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: '123'
+      en: p. 123
+      de: S. 123
   - work: ostensacken2001
     cite: Kraus (2001)
     pages:
@@ -3325,6 +3400,21 @@ place:
     - key: '47'
       en: p. 47
       de: S. 47
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: '75'
+      en: p. 75
+      de: S. 75
+    - key: '100'
+      en: p. 100
+      de: S. 100
+    - key: '114'
+      en: p. 114
+      de: S. 114
+    - key: '123'
+      en: p. 123
+      de: S. 123
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -3419,6 +3509,12 @@ place:
     - key: '219'
       en: p. 219
       de: S. 219
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: '123'
+      en: p. 123
+      de: S. 123
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -4145,6 +4241,12 @@ place:
     - key: '119'
       en: p. 119
       de: S. 119
+  - work: rusinski1947
+    cite: Rusiński (1947)
+    pages:
+    - key: '13'
+      en: p. 13
+      de: S. 13
   - work: kneifel1964
     cite: Kneifel (1964)
     pages:
