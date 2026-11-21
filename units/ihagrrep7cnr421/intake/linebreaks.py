@@ -3,7 +3,7 @@
 joined by hand (2026-11-21): words broken at the line end with "¬" whose joined
 form the resolver found in neither the corpus nor DWDS (old spellings, Latin,
 Polish, a name). Two stay split, being two words with a stray mark: "allen¬ /
-persönlichen" and "einer¬ / wider" (Mondio's "mit einer wider den Fiscum
+persönlichen" and "einer¬ / wider" (Mondro's "mit einer wider den Fiscum
 angestellten Klage", as the clean copy writes it).
 
     python units/ihagrrep7cnr421/intake/linebreaks.py

@@ -38,7 +38,7 @@ RULES = [
     ('2', 'auf das Vorstellen des v Chełmski', 'break'),
     ('2', 'seiner ./. Prusimski:', 'run'),
     ('2', 'von Chełmski ./. Prusimski.', 'run'),
-    ('2', 'dem[?] K[r?]. R. Mondio.', 'run'),
+    ('2', 'dem[?] K[r?]. R. Mondro.', 'run'),
     ('3', 'für den Stanislaus von Chełmski,', 'run'),
     ('3', 'v. Prusimski.)', 'run'),
     ('3', 'c. lediglich sein Bewenden', 'run'),

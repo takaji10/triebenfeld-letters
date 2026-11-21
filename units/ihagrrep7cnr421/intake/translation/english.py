@@ -8,7 +8,7 @@ the Polish) page by page, under the rules translate.py gives its translator
 (reference/translation_glossary.yml: Regierung is Government, Revers "written
 undertaking"; the edition's names: Prusimski for the clerks' Prusimiski,
 Poznań for Posen, Kalisz for Kalisch, Pyzdry for Peysern, Trąbczyn for
-Trąmpczyn, Gniezno for Gnesen; Mondio and Mondro as the page writes them).
+Trąmpczyn, Gniezno for Gnesen; Mondro, the name as he signs it; "Mondo" in the note under document 1 as written).
 "#" after a sum is rendered "ducats" (the bond: Dutch ring ducats in gold).
 Marks of doubt ([?], [H?]) are kept where the original has them, on the
 word that renders the doubtful one; a word the transcription leaves
@@ -64,7 +64,7 @@ No. 55.""",
     2: [
         """presented 18 Sept. 1799. Copy.
 
-Decree on the representation of v Chełmski of 6 Sept. 1799 in the matter of himself ./. Prusimski: For resolution, by copy of this decree: before the suit he asks for can be admitted, he must first show the real character of the claim, and that he must for that reason be satisfied from the estates. Kalisz, 10 Sept. 1799. Royal South Prussian Government Chancery. To von Chełmski, into the hands of Cr. Councillor Mond[io?]
+Decree on the representation of v Chełmski of 6 Sept. 1799 in the matter of himself ./. Prusimski: For resolution, by copy of this decree: before the suit he asks for can be admitted, he must first show the real character of the claim, and that he must for that reason be satisfied from the estates. Kalisz, 10 Sept. 1799. Royal South Prussian Government Chancery. To von Chełmski, into the hands of Cr. Councillor Mondro
 
 here.
 
@@ -75,7 +75,7 @@ presented 5 October 1799. Copy.
 Decree
 
 in the case of von Chełmski ./. Prusimski. By copy of the decree, for resolution: it remains, on the ground""",
-        """of the entirely clear content of the judgment of revision, by the ruling of the 10th of this month, all the more as he otherwise treats this claim as a personal one. Kalisz, 27 Sept. 1799. Royal South Prussian Government Chancery. Copy of the decree to[?] K[r?]. R. Mondio, here.
+        """of the entirely clear content of the judgment of revision, by the ruling of the 10th of this month, all the more as he otherwise treats this claim as a personal one. Kalisz, 27 Sept. 1799. Royal South Prussian Government Chancery. Copy of the decree to[?] K[r?]. R. Mondro, here.
 
 3459.""",
     ],
@@ -111,7 +111,7 @@ Signed: Berlin, 21 October 1799. By command.
     4: [
         """[r?]. [1?]5 Dec. 99. Most Serene, Most Mighty, Most Gracious King and Lord! Kalisz, 7 December 1799.
 
-The criminal-court councillor Mondio asks, in the name of v Chełmski of Łukom, for a preliminary ruling on the complaint against the Government at Kalisz in his matter ./.
+The criminal-court councillor Mondro asks, in the name of v Chełmski of Łukom, for a preliminary ruling on the complaint against the Government at Kalisz in his matter ./.
 
 the Fiscus, over the dismissal of the suit.
 
@@ -132,7 +132,7 @@ This, in my opinion, must happen in every legal matter where the party cannot be
 
 On the resumption of the proceedings against the Fiscus nothing was changed but the person. So that the matter may not be delayed any longer and the plaintiff may at last be satisfied, I most humbly ask Your Royal Majesty
 
-to have a preliminary ruling given him without delay. I who remain, until death, in deepest reverence Your Royal Majesty's most humble Mondio
+to have a preliminary ruling given him without delay. I who remain, until death, in deepest reverence Your Royal Majesty's most humble Mondro
 
 criminal-court councillor
 
@@ -204,7 +204,7 @@ Antoni Przeradzki, friend present.""",
     ],
 
     7: [
-        """Berlin, 23 December 1799. To the criminal-court councillor Mondio at Kalisz.
+        """Berlin, 23 December 1799. To the criminal-court councillor Mondro at Kalisz.
 
 (concerning v. Chełmski's complaints against the Kalisz Gov[ernment] over the dismissal of his suit
 

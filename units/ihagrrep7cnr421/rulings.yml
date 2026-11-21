@@ -4,12 +4,12 @@
 # with the suit"): Chełmski's petition of 8 October 1799 with the ministry's
 # decision in its margin (1); the copies of the Kalisz government's two decrees
 # it encloses (2, the second beginning on the same side as the first); the
-# draft of the King's answer (3); Mondio's petition of 7 December (4), with the
+# draft of the King's answer (3); Mondro's petition of 7 December (4), with the
 # office's slip of 23 December, which is bound after the suit but decides this
 # petition, out of the file's order (office_notes.yml); a copy of the same
 # petition dated 1 December (5); the copy of Chełmski's suit of 19 March 1799
 # with the Polish copy of Prusimski's undertaking of 16 June 1794 that it
-# encloses (6); the draft to Mondio of 23 December (7). The cover (0001_a) is
+# encloses (6); the draft to Mondro of 23 December (7). The cover (0001_a) is
 # front matter.
 
 places:
@@ -67,7 +67,7 @@ documents:
     "4":
       - kind: supplements
         target: "1"
-        note: "Mondio presses again the complaint Chełmski submitted 'Bereits unter den 9ten October', which had had no answer."
+        note: "Mondro presses again the complaint Chełmski submitted 'Bereits unter den 9ten October', which had had no answer."
       - kind: transmits
         target: "6"
         note: "'Ich füge eine Abschrift der Klage mit dem Schuld Schein ex quo ... bei': document 6 is that copy of the suit, with the bond."
@@ -78,7 +78,7 @@ documents:
     "7":
       - kind: answers
         target: "4"
-        note: "Mondio is sent a copy of the answer of 21 October to his petition 'unter dem 7. d. M. eingereicht'."
+        note: "Mondro is sent a copy of the answer of 21 October to his petition 'unter dem 7. d. M. eingereicht'."
 
 damage:
   letters: []

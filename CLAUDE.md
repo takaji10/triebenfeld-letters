@@ -125,12 +125,12 @@ so check them.
   complaint that the Kalisz government would not hear his suit against the
   Fiscus for the 12,000 ducats he lent Prusimski in 1794; seven documents
   (the editor's word: the Polish copy of Prusimski's bond with the suit; the
-  office's slip with Mondio's petition, out of the file's order), the cover
+  office's slip with Mondro's petition, out of the file's order), the cover
   as front matter; era `hohenlohe`. The editor's transcription checked by
   four Sonnet readers and Claude (133 corrections); translated, summarised
   and claim-checked in session; glossary entry `fiscus`; one proposed
   connection (`chelmski-suit-against-hohenlohe`, with Oe 1 Bü 9454). **Waiting
-  on the editor: the fold page and the spot sheet** (22 readings, 3
+  on the editor: the fold page and the spot sheet** (21 readings, 3
   decisions; `review/ihagrrep7cnr421/`). Read `units/ihagrrep7cnr421/notes.md`
   first, and WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 421".
 

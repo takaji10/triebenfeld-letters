@@ -2210,14 +2210,14 @@
   name: "Mondro"
   heading: "Mondro"
   heading_de: "Mondro"
-  count: 2
-  docs: 2
+  count: 7
+  docs: 5
   life: "documented 1799-1805"
   life_de: "belegt 1799-1805"
   bio: "Criminal councillor and legal representative of Hohenlohe-Ingelfingen, who brought the three suits against the lessees of Oleśnica in 1805."
   bio_de: "Kriminalrat und Rechtsvertreter Hohenlohe-Ingelfingens, der 1805 die drei Klagen gegen die Pächter von Oleśnica erhob."
   span: "1799–1805"
-  letters: [{id: "5", uid: "ihagrrep7cnr421-5", url: "/documents/ihagrrep7cnr421/5/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 1}, {id: "1", uid: "ihagrrep7cnr3705-1", url: "/documents/ihagrrep7cnr3705/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3705", n: 1}]
+  letters: [{id: "2", uid: "ihagrrep7cnr421-2", url: "/documents/ihagrrep7cnr421/2/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 2}, {id: "5", uid: "ihagrrep7cnr421-5", url: "/documents/ihagrrep7cnr421/5/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 1}, {id: "4", uid: "ihagrrep7cnr421-4", url: "/documents/ihagrrep7cnr421/4/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 2}, {id: "7", uid: "ihagrrep7cnr421-7", url: "/documents/ihagrrep7cnr421/7/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 1}, {id: "1", uid: "ihagrrep7cnr3705-1", url: "/documents/ihagrrep7cnr3705/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3705", n: 1}]
 - slug: "mscichna-z-trabczyna"
   name: "Mścichna, wife of Otto of Trąbczyn"
   heading: "Mścichna (wife of Otto of Trąbczyn)"

@@ -4431,6 +4431,14 @@ first and a fine pass at their word. The files are in
   (1799); the index found him only because the entry's one form matched two
   of the editor's readings. Look through people.yml for the names of a new
   holding before proposing entries.
+- **A name the editor reads several ways is settled from the man's own
+  signature, then corrected everywhere at once.** The editor wrote "Mondio" in
+  five places and "Mondro" in two; his signature reads Mondro plainly, the
+  Kurrent n written like u ("Moudro" to the eye). Do not leave such a name on
+  the spot sheet when the scans settle it: correct every place in CORRECTIONS
+  and grep the hand-written files for both forms *and* for the editor's
+  bracketed form (here "Mond[io?]", which a plain search for "Mondio" misses
+  and which stood on in the English).
 - **Sub-agents as readers, again**: two of four left strips unopened and said
   so; read those strips yourself before settling. A brief that names the
   file's internal witnesses (two copies of one petition, a decision and its

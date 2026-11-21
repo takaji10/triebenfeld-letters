@@ -109,15 +109,15 @@ LEAF = {_p(k): v for k, v in {
     '0005_a1': 'petition, side 6', '0005_a2': 'petition, side 7 (signature)',
     '0006_a1': 'blank side', '0006_a2': 'copies of the two decrees, side 1',
     '0007_a1': 'copies of the two decrees, side 2', '0007_a2': 'draft resolution of 21 Oct. 1799',
-    '0008_a1': 'blank side', '0008_a2': 'Mondio\'s petition, side 1',
-    '0009_a1': 'Mondio\'s petition, side 2', '0009_a2': 'Mondio\'s petition, side 3',
-    '0010_a1': 'Mondio\'s petition, side 4', '0010_a2': 'the archive\'s slip',
+    '0008_a1': 'blank side', '0008_a2': 'Mondro\'s petition, side 1',
+    '0009_a1': 'Mondro\'s petition, side 2', '0009_a2': 'Mondro\'s petition, side 3',
+    '0010_a1': 'Mondro\'s petition, side 4', '0010_a2': 'the archive\'s slip',
     '0011_a1': 'blank side', '0011_a2': 'copy dated 1 Dec. 1799, side 1',
     '0012_a1': 'copy dated 1 Dec. 1799, side 2', '0012_a2': 'copy of the suit of 19 March 1799, side 1',
     '0013_a1': 'the suit, side 2', '0013_a2': 'the suit, side 3',
     '0014_a1': 'the suit, side 4 (the editor\'s crop)', '0014_a2': 'copy of the Polish bond (the editor\'s crop)',
     '0016_a1': 'blank sheet', '0016_a2': 'the office\'s slip',
-    '0017_a1': 'blank side', '0017_a2': 'draft to Mondio, 23 Dec. 1799'}.items()}
+    '0017_a1': 'blank side', '0017_a2': 'draft to Mondro, 23 Dec. 1799'}.items()}
 FOLD_NOTE = 'A blank side is left out; the green lines are the page edges kept.'
 
 # page id -> [(first line, last line), ...] of the source file of its scan.
@@ -158,7 +158,7 @@ SOURCE_OF = {'0014_a1': '0014a', '0014_a2': '0014b'}
 # Seven documents (the editor, 2026-11-21, asked before the cut: "Seven: bond
 # with the suit"). The decision in the margin of the petition's first side stays
 # with the petition; the office's slip of 23 Dec. (0016, bound after the suit)
-# stands with Mondio's petition, the paper it decides, out of the file's order,
+# stands with Mondro's petition, the paper it decides, out of the file's order,
 # as the slip of Nr. 3132; the Polish copy of the bond is the enclosure of the
 # copy of the suit and one document with it.
 # Each: (number, [(page, first line, last line or None), ...]).
@@ -168,22 +168,22 @@ DOCS = [
     (2, [('0006_a2', 1, None), ('0007_a1', 1, None)]),     # copies of the decrees of 10 and 27 Sept 1799
     (3, [('0007_a2', 1, None)]),                           # draft resolution to Chełmski, 21 Oct 1799
     (4, [('0008_a2', 1, None), ('0009_a1', 1, None), ('0009_a2', 1, None), ('0010_a1', 1, None),
-         ('0016_a2', 1, None)]),                           # Mondio's petition, 7 Dec 1799, with the office's slip
+         ('0016_a2', 1, None)]),                           # Mondro's petition, 7 Dec 1799, with the office's slip
     (5, [('0011_a2', 1, None), ('0012_a1', 1, None)]),     # copy of the petition, dated 1 Dec 1799
     (6, [('0012_a2', 1, None), ('0013_a1', 1, None), ('0013_a2', 1, None),
          ('0014_a1', 1, None),                             # copy of the suit, Posen, 19 March 1799,
          ('0014_a2', 1, None)]),                           # with the copy of Prusimski's bond, Łukom, 16 June 1794 (Polish)
-    (7, [('0017_a2', 1, None)]),                           # draft to Mondio, 23 Dec 1799
+    (7, [('0017_a2', 1, None)]),                           # draft to Mondro, 23 Dec 1799
 ]
 # (scan, line, reason): source lines that are not text.
 OMIT = []
 
 # (page id, old, new, reason). From the check against the scans (2026-11-21): four
-# Sonnet readers (1: the clean hands and copies; 2: Chełmski's petition; 3: Mondio's
+# Sonnet readers (1: the clean hands and copies; 2: Chełmski's petition; 3: Mondro's
 # petition and the suit; 4, independently, image first: the Polish bond, the margin
 # of the petition, the slip, the registry notes), and Claude, who read the pages the
 # readers left unopened (0009_a2, 0010_a1, 0005_a2) and settled the rest. A reading
-# is changed only on a plain page, a witness in the file (Mondio's petition and its
+# is changed only on a plain page, a witness in the file (Mondro's petition and its
 # clean copy, 0008-0010 and 0011-0012; the margin decision of 0002_a2 and the clean
 # draft of 0007_a2; the suit and the bond it describes) or the one possible sense;
 # where the readers disagree and the editor's word is possible it stands, and the
@@ -221,7 +221,7 @@ CORRECTIONS = [
     ('0003_a2', 'forderung[?]', 'forderung', 'plain (reader 2)'),
     ('0003_a2', 'umstatthaft', 'unstatthaft', '"nicht unstatthaft" (reader 2); "umstatthaft" is no word'),
     ('0003_a2', '14ten Septbr. 1746.', '14ten Septbr. 1796.',
-     '1796 (reader 2): the 9 is that of "1796" on 0004_a2; the cabinet order on the insurgents\' debts, Mondio\'s petition "vom 16ten deß. M. u. Jahres" after the rescript of 17 Sept. 1796'),
+     '1796 (reader 2): the 9 is that of "1796" on 0004_a2; the cabinet order on the insurgents\' debts, Mondro\'s petition "vom 16ten deß. M. u. Jahres" after the rescript of 17 Sept. 1796'),
     ('0003_a2', 'dran[g?]', 'drang', 'plain (reader 2)'),
     ('0003_a2', 'noch¬\nnals', 'noch¬\nmals', '"nochmals" (reader 2)'),
     ('0003_a2', 's[en?].', 'sen.', '"abgewie-/sen" (reader 2)'),
@@ -233,13 +233,13 @@ CORRECTIONS = [
      '"meinem blosen Reverse" (reader 2), the bond (0002_a2 "gegen einen Revers")'),
     ('0004_a1', 'der Plage deshalb', 'der Klage deshalb', 'K, the suit (reader 2, sure)'),
     ('0004_a2', '[H/G?]ufko[sc/z?]ript', 'Hofrescript',
-     'Mondio\'s petition, the witness: "das HofRescript vom 17ten Septbr. 1796" (0011_a2; reader 2)'),
+     'Mondro\'s petition, the witness: "das HofRescript vom 17ten Septbr. 1796" (0011_a2; reader 2)'),
     ('0004_a2', 'Allershöch¬', 'Allerhöch¬', '"Allerhöchste" (reader 2)'),
     ('0004_a2', 'Willensweinung', 'Willensmeinung', 'm (reader 2)'),
     ('0004_a2', 'Pla¬\nvon[?] Inhalt', 'kla¬\nren Inhalt', '"gegen den klaren Inhalt" (reader 2), the one sense'),
     ('0004_a2', 'dem Chett[?]\nder Justiz gestöhet', 'dem Chef\nder Justiz zustehet',
      '"nicht aber dem Chef der Justiz zustehet" (reader 2), the one sense: the Grand Chancellor'),
-    ('0004_a2', 'sezt\nrest,', 'sezt\nfest,', '"festsezt" (reader 2, sure), as "vest sezt" in Mondio\'s petition'),
+    ('0004_a2', 'sezt\nrest,', 'sezt\nfest,', '"festsezt" (reader 2, sure), as "vest sezt" in Mondro\'s petition'),
     ('0005_a1', 'haften[fachten?]', 'haften', '"in solidum haften" (reader 2), the editor\'s alternative not on the page'),
     ('0005_a1', 'Vermögender', 'Vermögen der', 'two words (reader 2)'),
     ('0005_a1', 'höreichend', 'hinreichend', '"hinreichend" (reader 2)'),
@@ -248,7 +248,7 @@ CORRECTIONS = [
     # Document 2: the copies of the decrees
     ('0006_a2', 'auch das Vorstellen des p Chełmski', 'auf das Vorstellen des v Chełmski',
      '"auf das Vorstellen des v Chełmski" (reader 1): the decree answers his petition; "p" is the writer\'s v'),
-    ('0006_a2', 'Ca. Rath', 'Cr. Rath', '"Cr. Rath", Criminal Rath (reader 1), as Mondio is called throughout'),
+    ('0006_a2', 'Ca. Rath', 'Cr. Rath', '"Cr. Rath", Criminal Rath (reader 1), as Mondro is called throughout'),
     ('0007_a1', '[k?]laren', 'klaren', 'plain (reader 1)'),
     ('0007_a1', 'Re¬\nmissions', 'Re¬\nvisions', '"Revisions Erkenntnisses" (reader 1, the strokes v-i-s), the judgment of revision the petition names'),
     ('0007_a1', 'nach [e?]mehr,', 'umsomehr,', '"umsomehr" (reader 1), the one sense'),
@@ -261,7 +261,7 @@ CORRECTIONS = [
     ('0007_a2', 'Glaubiger', 'Glæubiger', 'the clerk\'s æ, as "Dæmpfung", "Schæden" (reader 1)'),
     ('0007_a2', 'vermögen eines', 'Vermögen eines', 'capital V (reader 1)'),
     ('0007_a2', 'Personal-Anß\nsprüche', 'Personal-An¬\nsprüche', 'a line-end hyphen (reader 1, sure)'),
-    # Document 4: Mondio's petition
+    # Document 4: Mondro's petition
     ('0008_a2', 'unter den\n9ten', 'unter dem\n9ten', '"unter dem" (reader 3), the clean copy 0011_a2'),
     ('0008_a2', 'per Ungeliehr', 'zur Ungebühr', '"zur Ungebühr" (reader 3), the clean copy'),
     ('0008_a2', '[P/K?]la¬', 'Kla¬', 'K (reader 3), the clean copy "Klage"'),
@@ -347,11 +347,23 @@ CORRECTIONS = [
     ('0014_a2', 'przytomny Przyiacioł[?', 'przytomny Przyiaciół', '"Przyiaciół" (reader 4); the editor\'s bracket was not closed'),
     ('0014_a2', 'Antonii Przeradzki', 'Antoni Przeradzki', 'one i (reader 4, sure)'),
     ('0014_a2', 'tomny Przyiacioł.', 'tomny Przyiaciół.', '"Przyiaciół" (reader 4)'),
-    # Document 7: the draft to Mondio
+    # Document 7: the draft to Mondro
     ('0017_a2', 'e. Fiscum', 'c. Fiscum', '"c." = contra (reader 1, sure), as "contra Fiscum" below'),
     ('0017_a2', 'A[u?] liegen', 'Anl. liegen', '"Anl." (readers 1 and 4), the enclosure'),
     ('0017_a2', '[Gs?].', 'Gr.', '"Gr." (readers 1 and 4), the mark of 0007_a2'),
     ('0017_a2', 'Criminae-Rath', 'Criminal-Rath', 'plain (reader 1, sure)'),
+    # The lawyer's name (the editor, 2026-11-21: "In some places I thought it was
+    # Mondro, and others Mondio. Can you please fix my mistakes?"). Claude read every
+    # place against the scans: his own signature under the petition (0010_a1) and the
+    # clean copy's (0012_a1) read "Mondro", the second-last letter an r joined to the
+    # o, the Kurrent n written like u ("Moudro"); so do the decree copies and both
+    # places in the draft. The registry's "conc Mondo" under document 1 (0005_a2)
+    # shows no r and stands as written.
+    ('0006_a2', 'Mond[io?]', 'Mondro', 'Mondro, as he signs (Claude, the scan: M-o-n-d-r-o)'),
+    ('0007_a1', 'R. Mondio.', 'R. Mondro.', 'Mondro, as he signs (Claude, the scan)'),
+    ('0008_a2', 'Mondio bittet', 'Mondro bittet', 'Mondro, as he signs on 0010_a1 (Claude, the scan)'),
+    ('0010_a1', 'Mondio', 'Mondro', 'his signature, plainly Mondro (Claude), as in the clean copy, 0012_a1'),
+    ('0017_a2', 'Rath Mondio', 'Rath Mondro', 'Mondro, as in the same draft\'s "Mon¬ / dro" (Claude, the scan)'),
 ]
 
 

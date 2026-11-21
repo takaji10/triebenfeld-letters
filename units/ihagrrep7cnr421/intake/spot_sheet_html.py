@@ -60,7 +60,7 @@ ROWS = [
      'umsomehr, da er sollnst die¬|umsomehr, da er selbst die¬|umsomehr, da er sonst die¬',
      '"... da er ... diese Forderung als eine persönliche behandelt" (since he ... treats this claim as a personal one). A reader sees "sonst" (otherwise); Claude sees "selbst" (himself), which gives the better sense.',
      ('0007_a1', (300, 620, 2528, 800))),
-    ('q8', 'document 5 (the copy of Mondio\'s petition), the cabinet order\'s date', 'vom 10t dess. M.',
+    ('q8', 'document 5 (the copy of Mondro\'s petition), the cabinet order\'s date', 'vom 10t dess. M.',
      'vom 10t dess. M.|vom 16t dess. M.',
      'The original petition (document 4) plainly has "vom 16ten deß. M." (16 September 1796). Does the copy have 10 or 16?',
      ('0011_a2', (80, 2560, 2467, 2740))),
@@ -106,7 +106,7 @@ ROWS = [
      ('0014_a2', (1300, 1580, 2570, 1730))),
     ('q19', 'document 4, the office\'s slip, line 2', 'Es ist dem Capit[?]. cop.',
      'Es ist dem Capit[?]. cop.|Es ist dem Crim. R. cop.',
-     'The addressee of the copy, Mondio. Both readers see an abbreviation beginning with C, probably "Crim." (Criminalrath); not "Capit".',
+     'The addressee of the copy, Mondro. Both readers see an abbreviation beginning with C, probably "Crim." (Criminalrath); not "Capit".',
      ('0016_a2', (0, 950, 1350, 1110))),
     ('q20', 'document 4, the office\'s slip, line 3', 'principal geworden resol.',
      'principal geworden resol.|principal gewordenen resol.|principal ertheilten resol.',
@@ -116,10 +116,6 @@ ROWS = [
      'de conclusi eodem / [Willen?]|ita conclus. eod. / [Willen?]',
      'One reader sees "ita conclus. eod.", the formula under the decision in the margin of document 1 ("ita conclusum eodem"), signed with the same name.',
      ('0016_a2', (0, 1440, 1350, 1740))),
-    ('q22', 'document 4 (Mondio\'s petition), the signature', 'Mondio',
-     'Mondio|Mondro',
-     'His name: you read "Mondio" here and in documents 2 and 7, "Mondro" in documents 5 and 7, "Mondo" under document 1. The readers think several of them look like "Mondro", the form of his entry from Nr. 3705. Which is his name here?',
-     ('0010_a1', (1200, 3840, 2450, 4130))),
 ]
 
 DECISIONS = [
@@ -129,12 +125,12 @@ DECISIONS = [
      '12,000 ducats in 1794. A person entry would give him his own page; whether he is the Stanisław of the boundary decree of 1775 '
      'and of Boniecki would be noted as open. Built now: the family entry only.',
      'Keep the family entry only|Make a person entry'),
-    ('d2', 'Mondio or Mondro: the entry that exists',
-     'The edition already has an entry "Mondro": the criminal councillor who was the Prince\'s attorney in the Olesnica suits of 1805 '
-     '(I. HA GR, Rep. 7 C, Nr. 3705). Chełmski\'s lawyer here is a criminal councillor at Kalisz of the same name, so very probably the same man, '
-     'working against the Prince in 1799. The entry now tags only the two places here written "Mondro"; tagging all his forms (Mondio, Mondro, Mondo) '
-     'puts this file on his page. Built now: only "Mondro".',
-     'Tag all his forms here|Only where "Mondro" is written'),
+    ('d2', 'Mondro: the same man as the entry from Nr. 3705',
+     'His name here is settled as Mondro, as he signs it (you asked me to fix the readings). The edition already has an entry "Mondro": '
+     'the criminal councillor who was the Prince\'s attorney in the Olesnica suits of 1805 (I. HA GR, Rep. 7 C, Nr. 3705). '
+     'Chełmski\'s lawyer here is a criminal councillor at Kalisz of the same name, so very probably the same man, working against '
+     'the Prince in 1799. Built now: the entry tags him here too, so this file is on his page.',
+     'Same man: keep|Another man: a separate entry'),
     ('d3', 'Connection: Chełmski\'s suit against the Prince (this file and the Prince\'s letters)',
      'On the site this puts a box on each document\'s page linking the others, each with a sentence. Triebenfeld\'s letters to the Prince '
      'of 1 April 1798 and 6 and 13 March 1799 follow "Chełmski\'s process" against the Prince (not yet appealed; lost in the second instance). '

@@ -54,13 +54,13 @@ where two stand on the same side.
 | 1 | 0002_a2 to 0005_a2 | Chełmski's petition to the King, with the official's note and the decision of 21 Oct. in the margin of its first side | 8 Oct. 1799, Kalisz |
 | 2 | 0006_a2, 0007_a1 | Copies of the Kalisz government's two decrees (the second begins on the same side) | 10 and 27 Sept. 1799, Kalisz |
 | 3 | 0007_a2 | Draft of the King's answer to Chełmski | 21 Oct. 1799, Berlin |
-| 4 | 0008_a2 to 0010_a1, 0016_a2 | Mondio's petition for Chełmski, with the office's slip of 23 Dec. | 7 Dec. 1799, Kalisz |
+| 4 | 0008_a2 to 0010_a1, 0016_a2 | Mondro's petition for Chełmski, with the office's slip of 23 Dec. | 7 Dec. 1799, Kalisz |
 | 5 | 0011_a2, 0012_a1 | A copy of the same petition, headed "Abschrift" | 1 Dec. 1799, Kalisz |
 | 6 | 0012_a2 to 0014_a2 | Copy of Chełmski's suit against Prusimski, with the copy of Prusimski's undertaking in Polish (0014_a2) | 19 March 1799, Poznań (the bond 16 June 1794, Łukom) |
-| 7 | 0017_a2 | Draft to Mondio | 23 Dec. 1799, Berlin |
+| 7 | 0017_a2 | Draft to Mondro | 23 Dec. 1799, Berlin |
 
 **The slip stands out of the file's order**: bound after the suit (0016), it
-decides Mondio's petition ("ad n: 9", the petition's folio), so it is read with
+decides Mondro's petition ("ad n: 9", the petition's folio), so it is read with
 document 4, as Nr. 3132's slip was. `holding.py` writes corpus.txt itself (DOCS);
 `scan_decisions.json` (`image_order`) gives match_scans the same order. The
 official's note, the decision of 21 Oct., the note "Anteriora ..." on 0008_a2 and
@@ -82,11 +82,11 @@ Relations: 1 transmits 2; 3 answers 1; 4 supplements 1 and transmits 6; 5 copies
 The editor's transcription (a recognition model's reading, corrected, with [?])
 was checked at their word ("the Nr. 3132 method") by four Sonnet readers in
 strips at full resolution: reader 1 the clean hands and copies (cover, 2, 3, 5,
-the slip, 7); reader 2 Chełmski's petition; reader 3 Mondio's petition and the
+the slip, 7); reader 2 Chełmski's petition; reader 3 Mondro's petition and the
 suit; reader 4, independently and image first, the Polish bond, the margin of
 0002_a2, the slip and the registry notes. Readers 2 and 3 left strips unopened
 (0005_a2's foot, 0009_a2, 0010_a1); Claude read those against the clean copy.
-**The witnesses inside the file**: Mondio's petition and its clean copy (4 and
+**The witnesses inside the file**: Mondro's petition and its clean copy (4 and
 5), the decision in the margin and the clean draft (1 and 3), the suit and the
 bond it describes (6). 133 corrections, each with its witness, in
 `intake/holding.py` (CORRECTIONS). Among them: "Plage" -> "Klage", "rest" ->
@@ -106,12 +106,21 @@ the editor wrote, red crayon strokes, a short word struck out in the margin
 decision, a struck word in the bond (line 25), paraphs.
 
 **The spot sheet** (`intake/spot_sheet_html.py` ->
-`review/ihagrrep7cnr421/spot_sheet.html`, one self-contained page): 22 readings
+`review/ihagrrep7cnr421/spot_sheet.html`, one self-contained page): 21 readings
 and 3 decisions (a person entry for Stanisław Chełmski, the Mondro entry, the
 connection). Waiting on the editor. Among the readings: **the suit's date**
 (q9): "Posen den 19ten Maert 1799", but its own words (the eviction suit of
 7 Dec. 1795, a hearing "27. Februar c.", payment due "zu Johanni v. J.") fit
-1796; **Mondio or Mondro** (q22): the editor wrote both.
+1796.
+
+**The lawyer's name is Mondro** (the editor, 2026-11-21: "In some places I
+thought it was Mondro, and others Mondio. Can you please fix my mistakes?").
+Claude read every place against the scans: his own signature under the
+petition (0010_a1) and the clean copy's (0012_a1), the decree copies (0006_a2,
+0007_a1), the petition's docket (0008_a2) and both places in the draft
+(0017_a2) read "Mondro", the Kurrent n written like u ("Moudro"). Five readings
+corrected in CORRECTIONS; q22 taken off the spot sheet. The registry's "conc
+Mondo" under document 1 (0005_a2) shows no r and stands as written.
 
 ## Line ends and paragraphs
 
@@ -142,8 +151,9 @@ all ten taken).
 No new person entries (spot sheet d1). Chełmski is the family entry `chemski`
 (21 mentions), Prusimski and Hohenlohe as before. **Mondro has an entry** (`mondro`,
 the criminal councillor who was the Prince's attorney in the Olesnica suits of
-1805, Nr. 3705): it matches only "Mondro", so it tags the two places here so
-written, not "Mondio" (spot sheet d2, q22). Places: Kalisz, Trąbczyn, Berlin,
+1805, Nr. 3705): with the name settled it tags him in documents 2, 4, 5 and 7
+(not the registry's "Mondo"); that he is the same man is Claude's, very
+probable (spot sheet d2). Places: Kalisz, Trąbczyn, Berlin,
 Łukom, Łukomia, Poznań, Pyzdry, Osiny; Nowa Wieś (the estate's Nowawies, matched
 narrowly on purpose), Łazy and Mierzewo are not matched here. New glossary entry `fiscus` (checked: false,
 Krünitz to check against; 122 marks across the edition); "Dec", "Octbr.",
