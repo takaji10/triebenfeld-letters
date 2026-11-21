@@ -2139,6 +2139,11 @@ The one finding that touches the edition:
    Claude's identifications on it, to confirm: Wrąbczyńskie Holendry is
    very probably the gazetteer's Kolonia Wrąbczyn; Smokiliec is the OCR of
    Smoleniec; the Łukom estate's "Łoniewo" is very probably Łomowo.
+   Section E (2026-11-21, at the editor's word) adds 64 places of the
+   parishes of Rzgów, Pyzdry, Stawiszyn and Zbiersk and the gmina of
+   Grodziec. Open from it: the gazetteer's Orlina Duża and Czarnybród have
+   no Słownik entries; "Orliny, kol. nad strum. Białą, pow. koniński, gm.
+   Rzgów, par. Królików, 54 dm." (t. VII, p. 587) may be Orlina Duża.
 2. **An error in the gazetteer's Olchowo entry** (found 2026-11-21): its
    sentence "in gmina Kołki ... 141 houses and 776 inhabitants" (footnote 1,
    Słownik t. XVI, p. 405) belongs to Olejniki, the next entry on that page;

@@ -1674,11 +1674,15 @@ transcription; 108 readings settled in session before the first build
       that puts a place in the parish or gmina of Trąbczyn or Zagórów read
       (65 entries, two Sonnet readers, checked by Claude) and every name
       checked against the gazetteer and the register.
+- [x] Your two decisions (2026-11-21): the Olchowo entry corrected and
+      published; the Słownik read around your places in other parishes too
+      (the parishes of Rzgów, Pyzdry, Stawiszyn and Zbiersk, the gmina of
+      Grodziec: 72 entries, three Sonnet readers, checked by Claude).
 - [ ] **You:** the candidate sheet (`review/place_name_sources/candidates.html`,
       made by `pipeline/gazetteer/candidates_sheet.py`): 14 places and
-      features to add or leave out, and two decisions (whether to read the
-      parish of Rzgów and the other outlying places too; the correction of
-      your Olchowo entry). "Copy answers" and paste them into the chat.
+      features of the two parishes (sections A-C) and 64 places around
+      your others (section E), each to add or leave out. "Copy answers"
+      and paste them into the chat.
 - [ ] Still wanted: the Kodeks entry of 1341 the Pyzdry footnote cites
       (its number not given; docs/MISSING_SOURCES.md).
 

@@ -6467,3 +6467,8 @@ sources-icon.html`).
 - The editor: "Please correct the Olchowo one."
 - The sentence "in gmina Kołki ... 141 houses and 776 inhabitants" (Olejniki's figures, the next entry on the Słownik's page) replaced by "The supplement to the Słownik geograficzny confirms that it was called Sophienthal until 1891"; the footnote's note records the correction. The site verifies clean.
 
+## 2026-11-21 - The candidate places: the parishes around the gazetteer's other places
+
+- The editor: "Yes, read the Słownik around the others as well."
+- The parishes of Rzgów, Pyzdry, Stawiszyn and Zbiersk and the gmina of Grodziec searched (72 entries in powiat słupecki, koniński or kaliski), read by three Sonnet readers, checked by Claude (two headwords supplied from their runs: Modła 7, Janów 32; false matches against the register set aside: the Pyzdry Winnica is not the Wieniec estate, the Grodziec Lądek not the town); 64 places new to the gazetteer, section E of the candidate sheet (`pipeline/gazetteer/candidates_outlying.json`).
+- The sheet's Goździków row carries Nazwy miejscowe's entry (t. 3, pp. 289-290), which the first search had missed.

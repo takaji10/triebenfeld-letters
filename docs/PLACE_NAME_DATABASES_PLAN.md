@@ -21,7 +21,13 @@ Trąbczyn or Zagórów (an OCR-tolerant search of all 16 volumes: 78 marks in
 65 entries), read by two Sonnet readers and checked by Claude, with the
 estates' own lists of their parts (Trąbczyn, Łukom, Kopojno, Oleśnica).
 14 places and features are new to the gazetteer; the rest are its places
-under other spellings, recorded on the sheet. The decision page and the
+under other spellings, recorded on the sheet. The editor then widened the
+scope (2026-11-21: "Yes, read the Słownik around the others as well"): the
+parishes of Rzgów, Pyzdry, Stawiszyn and Zbiersk and the gmina of Grodziec,
+around the gazetteer's places that lie outside the two parishes - 72 more
+entries (powiat słupecki, koniński or kaliski; the Rzgów of powiat łódzki
+left out), 64 places new to the gazetteer, section E of the same sheet
+(`pipeline/gazetteer/candidates_outlying.json`). The decision page and the
 translations of the snippets stay out of the repository
 (`review/place_name_sources/`, two of the three works in copyright).
 

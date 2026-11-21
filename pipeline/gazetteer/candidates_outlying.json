@@ -1,0 +1,578 @@
+[
+ {
+  "key": "e101",
+  "group": "E6",
+  "name": "Biała Królikowska",
+  "what": "A village in the gmina of Grodziec and parish of Królików, with manor and peasant land, 15 houses and 140 inhabitants in 1827 and 334 inhabitants later.",
+  "cite": "Słownik geograficzny, t. I, p. 180",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e102",
+  "group": "E6",
+  "name": "Białobłoty",
+  "what": "Sub-entry 1 of Białobłoty: a colony in the gmina of Grodziec and parish of Królików, 1896 morgi, 100 houses and 788 inhabitants in 1827, 1314 inhabitants later.",
+  "cite": "Słownik geograficzny, t. I, p. 186",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e103",
+  "group": "E6",
+  "name": "Borowiec",
+  "what": "Two colonies, Old and New Borowiec, in the gmina of Grodziec and parish of Królików, with 1463 and 662 morgi of peasant land and 782 and 222 inhabitants; 61 houses and 590 inhabitants together in 1827.",
+  "cite": "Słownik geograficzny, t. I, p. 320",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e104",
+  "group": "E6",
+  "name": "Ciżwica",
+  "what": "Two villages, Ciżwica Nowa and Stara (also called Great and Little), in the gmina of Grodziec and parish of Królików, with 120 and 430 inhabitants and 327 and 596 morgi of peasant land.",
+  "cite": "Słownik geograficzny, t. I, p. 710",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e105",
+  "group": "E1",
+  "name": "Dąbrowa",
+  "what": "Sub-entry 3 of Dąbrowa: a village in powiat koniński, gmina and parish of Rzgów; no figures given.",
+  "cite": "Słownik geograficzny, t. I, p. 935",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e106",
+  "group": "E4",
+  "name": "Defekt",
+  "what": "A settlement in powiat kaliski, gmina and parish of Zbiersk; no figures given.",
+  "cite": "Słownik geograficzny, t. I, p. 949",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e107",
+  "group": "E3",
+  "name": "Długa Wieś",
+  "what": "A village and colony in powiat kaliski, gmina Zbiersk (printed Zbierak), parish Stawiszyn, forming an estate of 101 włók with five nomenklatury, with 28 houses and 255 inhabitants in 1827.",
+  "cite": "Słownik geograficzny, t. II, p. 34",
+  "note": "Its estate (once the starostwo of Stawiszyn) also listed Magdalenów, Czerwieniec, Wirginia, Pólko and Kionczyn (Kiączyn).",
+  "register": false
+ },
+ {
+  "key": "e108",
+  "group": "E2",
+  "name": "Dłuska",
+  "what": "A village in the gmina of Dłusk and parish of Pyzdry, 15 houses and 186 inhabitants in 1827; the entry adds that the gmina's court district seat and post office are at Pyzdry.",
+  "cite": "Słownik geograficzny, t. II, p. 40",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e109",
+  "group": "E6",
+  "name": "Dziewin",
+  "what": "A village in the gmina of Grodziec and parish of Królików; no figures given.",
+  "cite": "Słownik geograficzny, t. II, p. 293",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e110",
+  "group": "E2",
+  "name": "Gorazdówka",
+  "what": "A village in the gmina of Dłusk and parish of Pyzdry; no figures given.",
+  "cite": "Słownik geograficzny, t. II, p. 703",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e111",
+  "group": "E1",
+  "name": "Górki",
+  "what": "Sub-entry 17 of Górki: a village on the Warta in powiat koniński, gmina and parish of Rzgów, 10 versts from Konin, 139 morgi and 27 inhabitants.",
+  "cite": "Słownik geograficzny, t. II, p. 719",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e113",
+  "group": "E1",
+  "name": "Grądy",
+  "what": "Sub-entry 7 of Grądy: a manor farm near the Warta in powiat koniński, gmina and parish of Rzgów, 12 versts from Konin, 435 morgi and 8 inhabitants, formerly part of the estate of Rzgów.",
+  "cite": "Słownik geograficzny, t. II, p. 805",
+  "note": "Powiat koniński; not the Grądy of the Grodziec gmina (next row but one).",
+  "register": false
+ },
+ {
+  "key": "e114",
+  "group": "E5",
+  "name": "Grądy",
+  "what": "Sub-entry 9 of Grądy: the colonies New and Old Grądy in powiat słupecki, gmina and parish of Grodziec, with 43 and 37 houses and 360 and 267 inhabitants in 1827.",
+  "cite": "Słownik geograficzny, t. II, p. 805",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e115",
+  "group": "E2",
+  "name": "Groby żydowskie",
+  "what": "A place named Groby żydowskie in powiat słupecki, gmina Dłusk, parish Pyzdry; no kind or figures given.",
+  "cite": "Słownik geograficzny, t. II, p. 815",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e116",
+  "group": "E2",
+  "name": "Holendry Pyzdrskie",
+  "what": "Sub-entry 24 of the Holendry run: Holendry pyzdrskie in powiat słupecki, gmina Dłusk, parish Pyzdry; no figures given.",
+  "cite": "Słownik geograficzny, t. III, p. 100",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e117",
+  "group": "E6",
+  "name": "Huta Stara and Huta Nowa",
+  "what": "Sub-entry 91: Huta stara and Huta nowa in powiat słupecki, gmina Grodziec (with a cross-reference 'ob.'), parish Królików; no figures given.",
+  "cite": "Słownik geograficzny, t. III, p. 232",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e118",
+  "group": "E5",
+  "name": "Janów",
+  "what": "Sub-entry 32 of a run of J. entries: a manor farm in powiat słupecki, gmina and parish of Grodziec, 32 versts from Słupca, 1 house and 16 inhabitants; compare Grodziec.",
+  "cite": "Słownik geograficzny, t. III, p. 420",
+  "note": "Headword from its numbered run (Janów 32); \"Por. Grodziec\".",
+  "register": false
+ },
+ {
+  "key": "e119",
+  "group": "E5",
+  "name": "Janowo",
+  "what": "Sub-entry 5 of Janowo: a village in powiat słupecki, gmina and parish of Grodziec, 32 versts from Słupca, belonging to the village of Grodziec, 6 houses.",
+  "cite": "Słownik geograficzny, t. III, p. 433",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e120",
+  "group": "E3",
+  "name": "Jezierki",
+  "what": "A settlement in powiat kaliski, gmina Zbiersk, parish Stawiszyn, 18 versts from Kalisz, 2 houses.",
+  "cite": "Słownik geograficzny, t. III, p. 570",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e121",
+  "group": "E3",
+  "name": "Józefów",
+  "what": "Sub-entry 18 of Józefów: a colony in powiat kaliski, gmina Chocz, parish Stawiszyn, 30 versts from Kalisz, 61 houses and 647 inhabitants.",
+  "cite": "Słownik geograficzny, t. III, p. 610",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e122",
+  "group": "E5",
+  "name": "Junno",
+  "what": "A village on the Bawół in powiat słupecki, gmina and parish of Grodziec, 33 versts from Słupca, with Mokre and Huta nowa 45 houses and 279 inhabitants; 12 houses and 125 inhabitants in 1827.",
+  "cite": "Słownik geograficzny, t. III, p. 627",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e123",
+  "group": "E3",
+  "name": "Kiączyn",
+  "what": "A village, colony and manor farm in powiat kaliski, gmina Zbiersk, parish Stawiszyn, 16 versts from Kalisz, 22 houses and 216 inhabitants in 1827.",
+  "cite": "Słownik geograficzny, t. IV, p. 9",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e124",
+  "group": "E6",
+  "name": "Królików",
+  "what": "A village and manor farm on the Zwiernik, gmina Grodziec, parish Królików, 28 versts from Słupca, with a brick parish church 'of the 12th century', belonging to the Grodziec estate; the parish had 2899 souls.",
+  "cite": "Słownik geograficzny, t. IV, p. 693",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e125",
+  "group": "E6",
+  "name": "Lądek",
+  "what": "A village and manor farm on the Bawół brook, gmina Grodziec, parish Królików, 30 versts from Słupca, village 24 houses and 226 inhabitants, folwark 2 houses and 20 inhabitants; see Grodziec.",
+  "cite": "Słownik geograficzny, t. V, p. 107",
+  "note": "Not the town of Lądek (gmina Ciążeń), which the register has: a village of the Grodziec estate.",
+  "register": false
+ },
+ {
+  "key": "e126",
+  "group": "E2",
+  "name": "Lesiaki",
+  "what": "Sub-entry 1 of Lesiaki: a settlement in powiat słupecki, gmina Dłusk, parish Pyzdry, 24 versts from Słupca, 1 house.",
+  "cite": "Słownik geograficzny, t. V, p. 152",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e127",
+  "group": "E6",
+  "name": "Lipice",
+  "what": "A village and manor farm on the Bawół brook, gmina Grodziec, parish Królików, 30.5 versts from Słupca, village 5 houses and 120 inhabitants, folwark 1 house and 15 inhabitants; see Grodziec.",
+  "cite": "Słownik geograficzny, t. V, p. 252",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e128",
+  "group": "E1",
+  "name": "Lisieniec",
+  "what": "Sub-entry 1 of Lisieniec: a village in powiat koniński, gmina and parish of Rzgów, 14.5 versts west of Konin, 2 versts from the Warta, 121 morgi and 61 inhabitants.",
+  "cite": "Słownik geograficzny, t. V, p. 310",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e129",
+  "group": "E4",
+  "name": "Lubiny",
+  "what": "Sub-entry 2 of Lubiny: a colony in powiat koniński, gmina Dąbroszyn, parish Zbiersk, 24 versts south of Konin, 353 morgi and 322 mixed Polish-German inhabitants.",
+  "cite": "Słownik geograficzny, t. V, p. 416",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e130",
+  "group": "E6",
+  "name": "Łagiewniki",
+  "what": "Sub-entry 5 of Łagiewniki: a village and manor farm in powiat słupecki, gmina Grodziec, parish Królików, 27 versts from Słupca, village 19 houses and 245 inhabitants, folwark 2 houses and 17 inhabitants.",
+  "cite": "Słownik geograficzny, t. V, p. 571",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e131",
+  "group": "E3",
+  "name": "Magdalenów",
+  "what": "A manor farm in the gmina of Zbiersk and parish of Stawiszyn, 18 versts from Kalisz, with 2 houses and 14 inhabitants, belonging to the estate of Długa Wieś.",
+  "cite": "Słownik geograficzny, t. V, p. 893",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e132",
+  "group": "E2",
+  "name": "Modlica",
+  "what": "A village on the Prosna with a border-guard post, in the gmina of Dłusk and parish of Pyzdry, 22 versts from Słupca, 6 houses and 62 inhabitants in the village and 1 house at the post.",
+  "cite": "Słownik geograficzny, t. VI, p. 567",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e133",
+  "group": "E1",
+  "name": "Modła (al. Wydyrka)",
+  "what": "A village (also called Wydyrka) in powiat koniński, gmina and parish of Rzgów, 15 versts west-southwest of Konin, with 28 houses and 229 inhabitants; formerly a manor farm of the Rzgów estate, now broken up.",
+  "cite": "Słownik geograficzny, t. VI, p. 570",
+  "note": "Headword from its numbered run (Modła 7); once a farm of the Rzgów estate.",
+  "register": false
+ },
+ {
+  "key": "e134",
+  "group": "E6",
+  "name": "Orlina Mała",
+  "what": "A colony in the gmina of Grodziec and parish of Królików, 24 versts from Słupca, with 28 houses, 189 inhabitants and 403 morgi, once part of the Grodziec estate.",
+  "cite": "Słownik geograficzny, t. VII, p. 587",
+  "note": "Not your Orlina Duża, which has no entry of its own. But \"Orliny, kol. nad strum. Białą, pow. koniński, gm. Rzgów, par. Królików, 24 versts from Konin, 54 houses, 546 inhabitants\", on the same page, may be it.",
+  "register": false
+ },
+ {
+  "key": "e135",
+  "group": "E3",
+  "name": "Piskory",
+  "what": "A colony with a forest settlement on the Bawół, in the gmina of Brudzew Kaliski and parish of Stawiszyn, 24 versts from Kalisz, 395 morgi, formerly part of the Lipe estate.",
+  "cite": "Słownik geograficzny, t. VIII, p. 229",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e137",
+  "group": "E5",
+  "name": "Podlesie",
+  "what": "A forest settlement in the gmina and parish of Grodziec, 32 versts from Słupca, with 1 house and 4 inhabitants.",
+  "cite": "Słownik geograficzny, t. VIII, p. 419",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e138",
+  "group": "E2",
+  "name": "Podmłynek",
+  "what": "A forest settlement in the gmina of Dłusk and parish of Pyzdry, 25 versts from Słupca, with 1 house.",
+  "cite": "Słownik geograficzny, t. VIII, p. 437",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e139",
+  "group": "E3",
+  "name": "Pólko",
+  "what": "A manor farm in the gmina of Zbiersk and parish of Stawiszyn, 17 versts from Kalisz, with 1 house and 9 inhabitants, belonging to the Długa Wieś estate.",
+  "cite": "Słownik geograficzny, t. VIII, p. 597",
+  "note": "Belonged to the Wirginki estate, split off from Długa Wieś in 1879.",
+  "register": false
+ },
+ {
+  "key": "e140",
+  "group": "E2",
+  "name": "Przewóz",
+  "what": "A settlement on the Warta in the gmina of Dłusk and parish of Pyzdry, 22 versts from Słupca, with 1 house.",
+  "cite": "Słownik geograficzny, t. IX, p. 186",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e142",
+  "group": "E3",
+  "name": "Rodzany",
+  "what": "A colony with a road guard post in the gmina of Ceków and parish of Stawiszyn, 23 versts from Kalisz; the colony has 29 houses and 232 inhabitants, the guard post 1 house and 5 inhabitants.",
+  "cite": "Słownik geograficzny, t. IX, p. 653",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e143",
+  "group": "E2",
+  "name": "Ruda",
+  "what": "A village and settlement on the Prosna on the border of the grand duchy of Poznań, in the gmina of Dłusk and parish of Pyzdry, 23 versts from Słupca, with 25 houses and 188 inhabitants.",
+  "cite": "Słownik geograficzny, t. IX, p. 886",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e144",
+  "group": "E1",
+  "name": "Rzgów",
+  "what": "The village, manor farm and estate of Rzgów on the Warta in powiat koniński, 19 versts from Konin, seat of the gmina and parish, with a wooden parish church; a ducal village given to the monastery at Ląd in 1145.",
+  "cite": "Słownik geograficzny, t. X, p. 169",
+  "note": "The parish seat. Already in the edition's register (the Kodeks charters of 1261 and 1280), not in your gazetteer.",
+  "register": true
+ },
+ {
+  "key": "e145",
+  "group": "E2",
+  "name": "Spławie",
+  "what": "A border-guard settlement on the Warta in the gmina of Dłusk and parish of Pyzdry, 23 versts from Słupca, with 1 house, a part of a village Spławie in powiat wrzesiński.",
+  "cite": "Słownik geograficzny, t. XI, p. 143",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e150",
+  "group": "E2",
+  "name": "Szyba",
+  "what": "A manor farm and border-guard settlement on the Szyba stream (a tributary of the Prosna), in the gmina and parish of Pyzdry, 20.5 versts from Słupca, the farm with 2 houses and the guard post with 1.",
+  "cite": "Słownik geograficzny, t. XII, p. 92",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e151",
+  "group": "E2",
+  "name": "Tarnowa",
+  "what": "A village and manor farm on the Warta near the mouth of the Prosna, on the border of the grand duchy of Poznań, in the gmina of Dłusk and parish of Pyzdry, 20 versts from Słupca, with 21 houses and 276 inhabitants, a windmill and limestone and ore deposits; the Tarnowa estate also held the manor farm of Zamość and the village of Modlica.",
+  "cite": "Słownik geograficzny, t. XII, p. 205",
+  "note": "Its estate listed the farm Zamość and the village Modlica (both on this list).",
+  "register": false
+ },
+ {
+  "key": "e152",
+  "group": "E2",
+  "name": "Walga",
+  "what": "A manor farm and village in the gmina of Dłusk and parish of Pyzdry, 12 versts from Słupca, separated from the Rataje estate, with 380 morgi; the village has 5 settlements and 38 morgi.",
+  "cite": "Słownik geograficzny, t. XII, p. 909",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e153",
+  "group": "E2",
+  "name": "Wałga",
+  "what": "Two manor farms on the Warta in the gmina of Dłusk and parish of Pyzdry, 19 versts from Słupca, the first with 1 house and 13 inhabitants and the second with 1 house and 8 inhabitants.",
+  "cite": "Słownik geograficzny, t. XII, p. 929",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e154",
+  "group": "E2",
+  "name": "Winnica",
+  "what": "A settlement on the Warta in the gmina and parish of Pyzdry, 18 versts from Słupca, with 1 house and 2 inhabitants.",
+  "cite": "Słownik geograficzny, t. XIII, p. 552",
+  "note": "Not the Hohenlohe lordship Wieniec, which the documents sometimes spell \"Winnica\".",
+  "register": false
+ },
+ {
+  "key": "e155",
+  "group": "E5",
+  "name": "Wiory",
+  "what": "A forest settlement in the gmina and parish of Grodziec, 35 versts from Słupca, referring the reader to Grodziec 2.",
+  "cite": "Słownik geograficzny, t. XIII, p. 563",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e156",
+  "group": "E3",
+  "name": "Wirginki",
+  "what": "A manor farm in the gmina of Zbiersk and parish of Stawiszyn, 18 versts from Kalisz, with 2 houses and 28 inhabitants; the Wirginki estate, split off in 1879 from Długa Wieś (also called Stawiszyn), comprised the farms Wirginki and Pólko, 925 morgi in all.",
+  "cite": "Słownik geograficzny, t. XIII, p. 566",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e157",
+  "group": "E1",
+  "name": "Wiry",
+  "what": "A place in powiat koniński, gmina and parish of Rzgów, with no other information given.",
+  "cite": "Słownik geograficzny, t. XIII, p. 568",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e158",
+  "group": "E2",
+  "name": "Wójtowstwo (Pyzdrskie)",
+  "what": "Two manor farms on the Warta in the gmina of Dłusk and parish of Pyzdry, 20 versts from Słupca, with 9 houses and 83 inhabitants; the farm Wójtowstwo Pyzdrskie, separated in 1882 from the Rataje estate, has 240 morgi, a water mill and peat deposits.",
+  "cite": "Słownik geograficzny, t. XIII, p. 773",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e159",
+  "group": "E2",
+  "name": "Wymysł",
+  "what": "A manor farm on the Warta in the gmina of Dłusk and parish of Pyzdry, 18 versts from Słupca, with 1 house and 10 inhabitants.",
+  "cite": "Słownik geograficzny, t. XIV, p. 98",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e160",
+  "group": "E3",
+  "name": "Wyrów",
+  "what": "A settlement and village (Wyrów Szpitalny) in the gmina of Zbiersk and parish of Stawiszyn, 16 versts from Kalisz, near Stawiszyn, once with a small church of the Holy Spirit and a sixteenth-century hospital, part of the Stawiszyn starosty.",
+  "cite": "Słownik geograficzny, t. XIV, p. 104",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e161",
+  "group": "E6",
+  "name": "Zagórznica (Zagóźnica)",
+  "what": "A colony in the gmina of Grodziec and parish of Królików, 31 versts from Słupca, with 16 houses and 100 inhabitants.",
+  "cite": "Słownik geograficzny, t. XIV, p. 270",
+  "note": "The Słownik prints it twice, as Zagórznica (t. XIV, p. 270) and Zagóźnica (p. 273), with the same figures.",
+  "register": false
+ },
+ {
+  "key": "e163",
+  "group": "E2",
+  "name": "Zamość",
+  "what": "A manor farm on the Prosna in the gmina of Dłusk and parish of Pyzdry, 24 versts from Słupca, with 1 house and 8 inhabitants.",
+  "cite": "Słownik geograficzny, t. XIV, p. 382",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e164",
+  "group": "E2",
+  "name": "Zapowiednia",
+  "what": "A forest settlement in the gmina of Dłusk and parish of Pyzdry, 24 versts from Słupca; no figures given.",
+  "cite": "Słownik geograficzny, t. XIV, p. 412",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e165",
+  "group": "E1",
+  "name": "Zastruże",
+  "what": "A village, manor farm and mill in the gmina and parish of Rzgów, powiat koniński, 12 1/2 versts from Konin; the manor farm was separated from the estate of Rzgów in 1868.",
+  "cite": "Słownik geograficzny, t. XIV, p. 453",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e166",
+  "group": "E4",
+  "name": "Zbiersk",
+  "what": "A village, colony, manor farm and settlement in the gmina and parish of Zbiersk, 21 versts from Kalisz, with 1298 inhabitants in all, a sugar factory and an estate of 3621 morgi owned by Wilhelm Repphan.",
+  "cite": "Słownik geograficzny, t. XIV, p. 516",
+  "note": "Its estate listed the farm Miedza and the nomenclatures Leśnictwo and Defet (Defekt).",
+  "register": false
+ },
+ {
+  "key": "e167",
+  "group": "E3",
+  "name": "Zielona",
+  "what": "A settlement in the gmina of Zbiersk and parish of Stawiszyn, 18 versts from Kalisz, with 1 house.",
+  "cite": "Słownik geograficzny, t. XIV, p. 596",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e168",
+  "group": "E4",
+  "name": "Zielona Karczma",
+  "what": "A 'Zielona Karczma' (inn) in powiat kaliski, gmina and parish of Zbiersk; no figures given.",
+  "cite": "Słownik geograficzny, t. XIV, p. 600",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e169",
+  "group": "E2",
+  "name": "Żdżary",
+  "what": "A forest settlement in the gmina of Dłusk and parish of Pyzdry, 19 versts from Słupca, with 3 houses.",
+  "cite": "Słownik geograficzny, t. XIV, p. 751",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e170",
+  "group": "E2",
+  "name": "Żyłka",
+  "what": "A mill settlement on the Warta in the gmina of Dłusk and parish of Pyzdry, 17 versts from Słupca; no figures given.",
+  "cite": "Słownik geograficzny, t. XIV, p. 892",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e171",
+  "group": "E6",
+  "name": "Biała Grodziecka",
+  "what": "A village and manor farm (with a forest settlement) in the gmina of Grodziec and parish of Królików, 26 versts from Słupca, with 28 houses and 246 inhabitants in the village.",
+  "cite": "Słownik geograficzny, t. XV, p. 120",
+  "note": "",
+  "register": false
+ },
+ {
+  "key": "e172",
+  "group": "E2",
+  "name": "Biały dąb",
+  "what": "A settlement in the gmina of Dłusk and parish of Pyzdry, with 2 houses and 13 inhabitants.",
+  "cite": "Słownik geograficzny, t. XV, p. 132",
+  "note": "",
+  "register": false
+ }
+]

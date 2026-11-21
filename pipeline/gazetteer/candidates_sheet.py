@@ -88,22 +88,22 @@ ROWS = [
      'Not your Stawisko (the village of the Łukom estate, gmina Trąbczyn): this one belonged to the Kopojno estate. The name means "ponds". Nazwy miejscowe\'s Stawiska entries are other places (by Sompolno and Chodów).', ADD),
 ]
 
-DECISIONS = [
-    ('d1', 'Your places in other parishes: gather candidates around them too?',
-     'The plan\'s scope (your word, 2026-10-24) is the parishes of Trąbczyn and Zagórów, with "any names in your own list which fall outside '
-     'those areas" carried into the review. By the Słownik these of your places lie outside the two parishes: Szetlew (gmina and parish Rzgów, '
-     'powiat koniński), Szetlewek (gmina Trąbczyn, but parish Rzgów), Świątniki (gmina Emilienheim, parish Rzgów), Pyzdry and Stawiszyn '
-     '(towns with parishes of their own), Zbiersk Kolonia (gmina Zbiersk, powiat kaliski), Orlina Duża and Czarnybród (gmina Grodziec). '
-     'They stay in your gazetteer as they are. The question is whether the Słownik should also be read for the places around them '
-     '(the parish of Rzgów first), as was done here for Trąbczyn and Zagórów.',
-     'No: the two parishes are enough|Yes: the parish of Rzgów too|Yes: all of them'),
-    ('d2', 'A correction to your Olchowo entry',
-     'The entry\'s sentence "The Słownik geograficzny records it as a colony, in gmina Kołki, powiat słupecki, with 141 houses and 776 '
-     'inhabitants at the time of the Słownik" (footnote 1, t. XVI, p. 405) is wrong: on that page the Słownik says only "Olechowo, kol. , '
-     'pow. słupecki. Do r. 1891 nosiła nazwę Sophienthal" (until 1891 it was called Sophienthal); "gm. Kołki ... 141 dm. , 776 mk." belong '
-     'to Olejniki, the next entry, a village in Volhynia. The sentence was added by Claude in October from a misread line. The second sentence '
-     '(gmina Emilienheim, 35 houses, 348 inhabitants, t. XI, p. 8) is right.',
-     'Correct it: the sentence says it was called Sophienthal until 1891|Leave it'),
+# The two decisions of the first sheet, answered by the editor 2026-11-21: "Yes, read
+# the Słownik around the others as well. Please correct the Olchowo one." Olchowo is
+# corrected; the outlying parishes are section E, read from
+# candidates_outlying.json (the parishes of Rzgów, Pyzdry, Stawiszyn and Zbiersk and
+# the gmina of Grodziec: 72 entries in powiat słupecki, koniński or kaliski, read by
+# three Sonnet readers, checked by Claude; the readers' English summaries kept,
+# spot-checked against the Polish).
+DECISIONS = []
+OUTLYING = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'candidates_outlying.json')
+E_TITLES = [
+    ('E1', 'E. Around your other places: the parish of Rzgów (Szetlew, Szetlewek, Świątniki)'),
+    ('E2', 'E. The parish of Pyzdry'),
+    ('E3', 'E. The parish of Stawiszyn'),
+    ('E4', 'E. The parish of Zbiersk (Zbiersk Kolonia)'),
+    ('E5', 'E. The gmina of Grodziec (Orlina Duża, Czarnybród): the parish of Grodziec'),
+    ('E6', 'E. The gmina of Grodziec: the parish of Królików'),
 ]
 
 KNOWN = [
@@ -136,6 +136,16 @@ def row_html(key, section, name, what, pl, cite, note, opts):
         key, key, esc(name), esc(what), esc(pl), esc(cite), esc(note), radios, key)
 
 
+def compact_html(e, opts=ADD):
+    radios = ''.join(
+        '<label class="opt"><input type="radio" name="%s" value="%s"> %s</label>' % (e['key'], esc(o), esc(o))
+        for o in opts.split('|'))
+    note = '<p class="note">%s</p>' % esc(e['note']) if e.get('note') else ''
+    return ('<section class="row compact" id="%s"><h3>%s</h3><p class="what">%s</p><p class="cite">%s</p>%s'
+            '<div class="opts">%s</div><textarea data-note="%s" placeholder="Note (optional)"></textarea></section>') % (
+        e['key'], esc(e['name']), esc(e['what']), esc(e['cite']), note, radios, e['key'])
+
+
 def main():
     sec_title = {'A': 'A. Places of the two parishes not in your gazetteer',
                  'B': 'B. Features (streams, hills)',
@@ -144,17 +154,24 @@ def main():
     for s in 'ABC':
         body.append('<h2>%s</h2>' % sec_title[s])
         body += [row_html(*r) for r in ROWS if r[1] == s]
-    body.append('<h2>D. Two decisions</h2>')
-    for key, title, text, opts in DECISIONS:
-        body.append(row_html(key, 'D', title, text, '', '', '', opts).replace(
-            '<details><summary>The Słownik\'s words</summary><p class="pl" lang="pl"></p></details>', ''))
+    outlying = json.load(io.open(OUTLYING, encoding='utf-8'))
+    body.append('<h2 class="part">E. Around your places in other parishes</h2>'
+                '<p>At your word ("read the Słownik around the others as well"): every place the Słownik puts in the parishes of '
+                'Rzgów, Pyzdry, Stawiszyn and Zbiersk, or in the gmina of Grodziec, that is not in your gazetteer. These lie outside '
+                'the Trąbczyn and Zagórów area proper; Czarnybród and Orlina Duża have no entries of their own. The English is a '
+                'summary of each entry.</p>')
+    for g, title in E_TITLES:
+        rows = sorted((e for e in outlying if e['group'] == g), key=lambda e: e['name'])
+        if rows:
+            body.append('<h2>%s <span class="k">(%d)</span></h2>' % (title, len(rows)))
+            body += [compact_html(e) for e in rows]
     known = ''.join('<tr><td>%s</td><td>%s</td></tr>' % (esc(a), esc(b)) for a, b in KNOWN)
-    keys = [r[0] for r in ROWS] + [d[0] for d in DECISIONS]
+    keys = [r[0] for r in ROWS] + [e['key'] for e in outlying]
     page = TEMPLATE.replace('__BODY__', '\n'.join(body)).replace('__KNOWN__', known) \
-        .replace('__KEYS__', json.dumps(keys)).replace('__N__', str(len(ROWS))).replace('__D__', str(len(DECISIONS)))
+        .replace('__KEYS__', json.dumps(keys)).replace('__N__', str(len(ROWS))).replace('__E__', str(len(outlying)))
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     io.open(OUT, 'w', encoding='utf-8', newline='\n').write(page)
-    print('%d candidates and %d decisions -> %s' % (len(ROWS), len(DECISIONS), OUT))
+    print('%d candidates of the two parishes and %d around the others -> %s' % (len(ROWS), len(outlying), OUT))
 
 
 TEMPLATE = '''<!doctype html>
@@ -173,12 +190,13 @@ h1 { font-size:1.6rem; margin:.5rem 0; } h2 { font-size:1.2rem; margin:2rem 0 .5
 .opts { display:flex; flex-wrap:wrap; gap:.4rem 1rem; margin:.5rem 0; } .opt { white-space:nowrap; }
 textarea { width:100%; box-sizing:border-box; min-height:2.2rem; background:var(--bg); color:var(--fg); border:1px solid var(--line); border-radius:4px; font:inherit; font-size:.92rem; }
 table { border-collapse:collapse; width:100%; font-size:.92rem; } td { border-top:1px solid var(--line); padding:.3rem .4rem; vertical-align:top; }
+.compact h3 { font-size:1rem; } .part { margin-top:3rem; }
 .bar { position:sticky; bottom:0; background:var(--bg); border-top:1px solid var(--line); padding:.6rem 0; display:flex; gap:1rem; align-items:center; flex-wrap:wrap; }
 button { font:inherit; padding:.35rem .9rem; border:1px solid var(--acc); background:var(--card); color:var(--fg); border-radius:4px; cursor:pointer; }
 #out { width:100%; min-height:6rem; display:none; }
 </style></head><body>
 <h1>Candidate places</h1>
-<p>From the <i>Słownik geograficzny Królestwa Polskiego</i> (1880–1902): every place it puts in the parish or gmina of Trąbczyn or Zagórów, checked against your gazetteer and the edition's register of places. __N__ places and features are not in your gazetteer; two decisions follow. For each, say whether it should be added. "Versts" are Russian versts from Słupca (one verst is about 1.07 km). Nothing on the site changes until you answer.</p>
+<p>From the <i>Słownik geograficzny Królestwa Polskiego</i> (1880–1902): every place it puts in the parish or gmina of Trąbczyn or Zagórów, checked against your gazetteer and the edition's register of places. __N__ places and features of the two parishes are not in your gazetteer (sections A to C), and __E__ places around your places in other parishes (section E). Your two answers of the first sheet are worked in: the Olchowo entry is corrected, and section E is new. For each, say whether it should be added. "Versts" are Russian versts from Słupca (one verst is about 1.07 km). Nothing on the site changes until you answer.</p>
 __BODY__
 <h2>Not new: names the Słownik spells otherwise</h2>
 <p class="note">For reference only; no answer needed. Of the 65 entries read, these turned out to be your places under another name or spelling.</p>

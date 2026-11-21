@@ -4663,4 +4663,9 @@ Słownik's gmina and parish tables, is still to do.
   Zagórów. Filter by powiat (słupecki, koniński, kaliski) after the mark:
   another Rzgów lies in powiat łódzki, and the OCR writes "powiat", "pow,"
   and "koniu Hki" for the district.
-
+- **The heredoc trap, twice more this sitting (2026-11-21).** A Python
+  script passed through a Bash heredoc to rewrite another Python file had
+  its `'\\n'` turned into a real line break, and a sed-style replacement
+  of a line with backslashes and quotes silently failed to match. Write
+  such a script with the Write tool and run it, or make the change with
+  Edit; check the edited file compiles before moving on.
