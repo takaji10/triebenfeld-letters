@@ -3256,6 +3256,7 @@ Lessons:
   selection sheet's choices live in the editor's browser and the exported
   JSON, not in the repository.
 
+<<<<<<< HEAD
 ## The Pełzucki 1896 map: labels, plots and proper names on the site (2026-11-06)
 
 - **A selected label draws no name on the labelling page, and the editor
@@ -4468,3 +4469,81 @@ first and a fine pass at their word. The files are in
   so; read those strips yourself before settling. A brief that names the
   file's internal witnesses (two copies of one petition, a decision and its
   clean draft) lets the readers settle many readings on their own.
+=======
+
+## OCR of a ruled Polish table (2026-11-05)
+
+The Rusinski 1947 sitting's lessons, for the next ruled-table scan:
+
+- **A ruled table defeats full-page psm 3**: Tesseract segments the grid
+  by its columns (column-major output) or mangles the rows. The row-major
+  reading comes from psm 4 ('single column of text of variable sizes'),
+  the geometry from the word boxes. Neither alone suffices: psm 4's row
+  parse drops rows whose leading number misreads, so the numbers anchor
+  targeted strip re-reads (the row's y from the number column's token
+  tops, x 650-1300 in these sheets) and the missing rows are recovered
+  band by band.
+- **Tesseract conf 0.0 is a quirk, not a badness signal** (psm 3): words
+  read perfectly carry 0.000000 confidence. The doubtful set is conf
+  1..threshold plus the pass-vs-pass disagreements (difflib over the
+  token sequences, the Dorow method); conf 0 counts as unknown.
+- **Superscript footnote markers in a print of this kind are lost by the
+  page passes** (they glue to the host word or vanish; the box-height
+  signal does not separate them). They resurface in 2.5x single-line
+  re-reads (psm 7) as glued digit tails and standalone 1-2 digit tokens;
+  context rules (a digit after a letter-word, not between numerics)
+  filter the false positives; the page's own note count (the footnotes'
+  leading numbers, parsed from the page foot) is the assignment check.
+- **A footnote parse that requires note 1 to read as "1" silently drops
+  whole note blocks** (2026-11-05, the editor's "are you sure you didn't
+  miss any footnotes?" caught it: 336 -> 549 notes). Parse the note
+  block by GEOMETRY (the body-to-notes whitespace gap, candidate blocks
+  scored by which yields a proper 1..k chain), and recover a note start
+  whose printed number the page pass mangled from the 2.5x line pass
+  ('ty Schmidt' -> '% Schmidt' -> note 2). Verify the inventory with an
+  independent bottom-of-page scan, not by re-reading the parser's own
+  output. Beware a printed source's own numbered clauses (the wilkierz's
+  1.-44.) parsing as notes: they are the text, not apparatus.
+- **Strip-band reads settle orientation empirically**: probe each sheet
+  in four orientations with a middle band at 1.5x and score the plausible
+  Polish words; do not assume scan parity decides.
+- **A footnote parse built on one witness cannot see its own boundary**
+  (2026-11-05, Rusinski 1947, second sitting of the problem): the
+  largest-gap block parse under-counted (0103: 17 notes in the print,
+  5 found - the printed numbers 8..17 sat unread in the note texts)
+  and swallowed body (0075: the section heading '2. Sklad spoleczny',
+  digit-led with a big gap above, parsed as a note). The parse that
+  held: the page's own lines are 1:1 with the print's lines when the
+  TSV words are grouped in READING ORDER (a top-sort orphans the first
+  word of lines on warped baselines); a 3x strip of the whole foot is
+  read with **psm 4** (psm 6 reflows dense note blocks into one
+  paragraph and loses the note boundaries) and its lines are ALIGNED
+  to the page's lines; a strip line matching a page line's prefix
+  starts a note iff its leading token is a small digit (requiring
+  footnote-size type - a section heading is body-size type), a strong
+  artifact glyph, or a digit-1 lookalike; a strip line inside a page
+  line is a psm-4 split artifact; every alignment pair must earn its
+  ratio (debris strip lines otherwise consume page lines and leave
+  real note lines homeless); the strip is trusted only within its own
+  y-coverage. A note block is re-segmented, not re-read: per-note crops
+  polish texts afterwards, and a marker-less note (the OCR dropped the
+  glyph) is recovered from the psm4 paragraph break + sentence end +
+  citation opener.
+- **An abbreviation period is not a sentence end** ('C.', 'fol.',
+  'AW. A. 1-4.' end mid-citation lines; writing the abbreviation list
+  as a character class [fol|s|nr] matches ONE character and never
+  works - alternation, not a class).
+- **A page's last body line often ends mid-sentence** (the paragraph
+  runs over the leaf): a body/notes boundary check demanding
+  sentence-final punctuation flags dozens of innocent pages.
+- **A script named after a stdlib module shadows it**: fractions.py
+  broke PIL's TIFF plugin (UnidentifiedImageError on every open, only
+  inside that process) because PIL imports Fraction from 'fractions'.
+- **Witness chains must be re-verified after any upstream boundary
+  change**: marker tops from the old lineation never equal-matched the
+  rebuilt line tops and label placement silently collapsed (469 -> 45);
+  match by proximity, not equality, when the lineation changes.
+- **The hyphen-join must REPLACE the fragment, not append the joined
+  word after it** - the append duplicates every broken word ('zna-
+  znanej'); ~70 kB of duplication hid inside a 415 kB draft.
+>>>>>>> rusinski1947

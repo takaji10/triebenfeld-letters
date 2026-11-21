@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<title>Spot sheet — Rusiński 1947</title>
+<style>
+  body { font: 16px/1.55 Georgia, 'Times New Roman', serif;
+         max-width: 60em; margin: 2em auto; padding: 0 1.5em;
+         color: #222; background: #faf8f4; }
+  h1 { font-size: 1.6em; border-bottom: 2px solid #8b6f47;
+       padding-bottom: .3em; }
+  h2 { font-size: 1.25em; margin-top: 2em; color: #5a4632;
+       border-bottom: 1px solid #d8c9b4; padding-bottom: .2em; }
+  .nav { position: sticky; top: 0; background: #faf8f4; padding: .5em 0;
+         border-bottom: 1px solid #d8c9b4; z-index: 5; }
+  .nav a { margin-right: .5em; font-family: sans-serif; font-size: .85em;
+           color: #5a4632; text-decoration: none; }
+  .nav a:hover { text-decoration: underline; }
+  .item { background: #fff; border: 1px solid #d8c9b4;
+          border-radius: 6px; padding: 1em 1.2em; margin: 1.2em 0; }
+  .tag { background: #8b6f47; color: #fff; font-family: sans-serif;
+         font-weight: bold; font-size: .8em; padding: .15em .5em;
+         border-radius: 4px; }
+  .page { font-family: sans-serif; font-size: .85em; color: #776; }
+  .crop { max-width: 100%; border: 1px solid #b7a78e; margin: .8em 0;
+          display: block; background: #fff; }
+  .answer { margin-top: .6em; font-family: sans-serif; font-size: .9em; }
+  .answer label { margin-right: 1.2em; }
+  .othertext { width: 22em; font-family: inherit; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0;
+          font-size: .88em; background: #fff; }
+  th, td { border: 1px solid #d8c9b4; padding: .35em .6em;
+           text-align: left; vertical-align: top; }
+  th { background: #efe6d8; font-family: sans-serif; font-size: .85em; }
+  .note { background: #f3eee4; padding: .8em 1em; border-radius: 6px;
+          font-size: .92em; }
+  .collect { position: sticky; bottom: 0; background: #5a4632; color: #fff;
+             padding: .8em 1.2em; border-radius: 6px 6px 0 0; margin-top: 2em;
+             font-family: sans-serif; }
+  .collect button { font-size: 1em; padding: .4em 1em; cursor: pointer; }
+  #out { width: 100%; height: 9em; margin-top: .6em; font-family: monospace;
+         font-size: .8em; }
+  .miss { color: #a33; }
+  .done { outline: 2px solid #7a9a6a; }
+</style>
+</head>
+<body>
+<h1>Spot sheet — Rusiński 1947 <span style="font-weight:normal;font-size:.6em">(OCR draft review)</span></h1>
+<div class="nav">@@NAV@@</div>
+<p class="note"><b>No open items.</b> Every spot item (S01—S23) has been
+resolved and applied; the sheet is kept as the review harness for the
+next round. The tables below are the standing audit state.</p>
+
+<h2>A. Boundaries / note structure</h2>
+@@SECA@@
+
+<h2>B. Numbers — each could change a figure</h2>
+@@SECB@@
+
+<h2>E. The German petition, p. 97</h2>
+@@SECE@@
+
+<h2>F. Degraded lines the scan will not give up</h2>
+<p class="note">Six short zones where 1-3 body lines are physically
+degraded in the print; the sentences break where the lines are missing.
+Every setting (3-8x, thresholding, autocontrast, median filter) was
+tried. If you have access to a cleaner copy, the readings would close
+these; otherwise the breaks stand.</p>
+@@SECF@@
+
+<h2>C. Footnote-marker audit — my work, listed for transparency</h2>
+<p class="note">Your spot answers exposed the systemic issue: the print
+sets its footnote markers as inline digits, and OCR fuses them to the
+neighbouring token ("60⁶ morgów" → "608", "70²" → "70?", "⁴" → "*").
+What I changed since your answers: the marker detector now also reads
+the lines it had skipped and recognises artifact-glyph markers; both
+OCR models' duplicate detections are removed; markers you identified
+(pp. 43, 68, 78, 86, 98) are placed at their print-verified anchors,
+and the false ones (table digits, dates) removed. Label count went
+543 → 577 with def-pairing restored on ~40 pages. The audit continues
+page by page; what remains is below — <b>no action needed from you
+here</b>. Pages whose recovered markers still fall short of the print's
+note count (the residual audit list):</p>
+@@SHORTS@@
+<p>For the ANEKS I sheets please use <b>LINES_SHEET.html</b> (in the
+same folder): drag horizontal red lines across each sheet's row
+separators, then press <i>Collect lines</i> and paste the JSON back —
+that gives me the row geometry directly.</p>
+
+<h2>D. ANEKS I tables</h2>
+<p class="note">Column splitting is a separate open task — the row
+geometry comes from your lines in <b>LINES_SHEET.html</b>. What also
+needs your eyes is row <b>identity</b> — duplicated rows, merged rows,
+broken numbering. The full-sheet crops are embedded below (click to
+open).</p>
+@@ANNEX@@
+<details><summary>Sheet 0142 — rows 48–61 (S20)</summary>
+<img class="crop" loading="lazy" src="@@S20@@" alt="sheet 0142"></details>
+<details><summary>Sheet 0144 — rows 75–86 doubled (S21)</summary>
+<img class="crop" loading="lazy" src="@@S21@@" alt="sheet 0144"></details>
+<details><summary>Sheet 0146 — totals row merged into row 111 (S22)</summary>
+<img class="crop" loading="lazy" src="@@S22@@" alt="sheet 0146"></details>
+
+<div class="collect">
+  <button onclick="collect()">Collect answers</button>
+  <span id="progress"></span>
+  <textarea id="out" placeholder="…your summary appears here; copy it into the chat"></textarea>
+</div>
+<script>
+const IDS = @@IDS@@;
+const META = @@META@@;
+function restore() {
+  const saved = JSON.parse(localStorage.getItem('spot_answers') || '{}');
+  for (const id of IDS) {
+    const v = saved[id];
+    if (!v) continue;
+    const el = document.querySelector('input[name="' + id + '"][value="' + v + '"]');
+    if (el) el.checked = true;
+    if (saved[id + '_txt'])
+      document.getElementById(id + '_txt').value = saved[id + '_txt'];
+  }
+  progress();
+}
+function save() {
+  const out = {};
+  for (const id of IDS) {
+    const sel = document.querySelector('input[name="' + id + '"]:checked');
+    if (sel) out[id] = sel.value;
+    const t = document.getElementById(id + '_txt').value.trim();
+    if (t) out[id + '_txt'] = t;
+  }
+  localStorage.setItem('spot_answers', JSON.stringify(out));
+  return out;
+}
+function progress() {
+  const done = IDS.filter(id =>
+     document.querySelector('input[name="' + id + '"]:checked')).length;
+  document.getElementById('progress').textContent =
+     done + ' / ' + IDS.length + ' answered';
+}
+function collect() {
+  const a = save();
+  const lines = ['SPOT ANSWERS:'];
+  for (const it of META) {
+    const id = it[0];
+    const sel = a[id] || 'UNANSWERED';
+    const t = a[id + '_txt'] || '';
+    lines.push(it[1] + ' (' + id + '): ' + sel + (t ? ' — ' + t : ''));
+  }
+  document.getElementById('out').value = lines.join('\n');
+  document.getElementById('out').select();
+}
+document.querySelectorAll('input').forEach(el =>
+  el.addEventListener('change', () => {
+    save(); progress();
+    const item = el.closest('.item');
+    if (item) item.classList.add('done');
+  }));
+restore();
+</script>
+</body>
+</html>
