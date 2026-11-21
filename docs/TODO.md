@@ -1661,3 +1661,20 @@ transcription; 108 readings settled in session before the first build
 - [ ] **You:** the two added pages on the work's page — say if the cuts
       should take in more or less.
 
+## 67. The place-name databases: the branch place-name-sources merged (2026-11-21)
+
+- [x] The ten Kodeks entries the gazetteer cited (vol. 1, nos. 228, 535;
+      vol. 2, nos. 672, 795, 1044; vol. 3, nos. 1363, 1478, 1490, 1491,
+      1519) are documents 22 to 31 of the Kodeks holding, published; the
+      gazetteer's footnotes link them. Made on the branch 2026-10-24 at your
+      word ("added to the site like the other ones").
+- [x] The plan (`docs/PLACE_NAME_DATABASES_PLAN.md`) and the match script
+      (`pipeline/gazetteer/match_sources.py`) in main; the branch deleted.
+- [ ] Claude: step 6 of the plan, the candidates - the Słownik's gmina and
+      parish tables of Trąbczyn and Zagórów read whole, and the villages,
+      hamlets and colonies the edition does not yet carry put to you as a
+      list to accept or refuse (with any names of your own list outside
+      those parishes).
+- [ ] Still wanted: the Kodeks entry of 1341 the Pyzdry footnote cites
+      (its number not given; docs/MISSING_SOURCES.md).
+

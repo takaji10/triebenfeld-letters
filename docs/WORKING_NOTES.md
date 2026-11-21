@@ -4566,3 +4566,57 @@ The Rusinski 1947 sitting's lessons, for the next ruled-table scan:
   branch is hundreds of commits behind: the generated files conflict
   (take `main`'s and rebuild), and its TODO section number is already
   taken on `main` (give it the next free number).
+
+## The place-name databases (from the branch place-name-sources, 2026-10-24; merged 2026-11-21)
+
+These lessons were written on the branch and reached main only when its
+work was picked over (the Kodeks entries 22 to 31, the plan and the match
+script; the branch then deleted). The plan is
+`docs/PLACE_NAME_DATABASES_PLAN.md`; step 6, the candidates from the
+Słownik's gmina and parish tables, is still to do.
+
+- **The place-name databases and PowerShell's console** (2026-10-24): the
+  converted text of the three Polish reference works (Nazwy miejscowe
+  Polski, Kodeks dyplomatyczny Wielkopolski, Słownik geograficzny
+  Królestwa Polskiego) is now committed in Igor's repository
+  (`C:\Users\Tersnaus\Downloads\polish-place-name-sources`, cloned beside
+  this one; its `RIGHTS.md` permits reading, searching and citing).
+  PowerShell's console garbles Polish diacritics in `Select-String` and
+  `Get-Content` output and cannot take a path with "Trąbczyn" as typed —
+  the text is UTF-8 and clean; read it through Python with
+  `io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')`, and match
+  files by glob, not by typed name. SGKP's page anchors (`<!-- p.NNN -->`)
+  give printed pages (Trąbczyn's entry sits at p. 448 of t. XII, as the
+  gazetteer cites; Łukom's is in t. V, not t. XII); the Kodeks files have
+  no page anchors — cite by charter number. NMPol is alphabetical and
+  stops at Ś (t. 18, 2025): names from T to Ż have no entry yet. The
+  Słownik's homonyms are real: its Łukom search returns the Łukomski
+  estate near Orsha before ours — match on name plus
+  powiat/gmina/parish context, never the bare name. Plan:
+  `docs/PLACE_NAME_DATABASES_PLAN.md`.
+- **Add-Content mangles more than diacritics** (2026-10-24). A PowerShell
+  here-string appended with `Add-Content -Encoding UTF8` garbled Polish
+  letters ("S\latwo" for Słownik) and ate backslashes in code spans
+  ("`rzgow`" became a newline plus "zgow"; "\build_site_data" became a
+  backspace plus "uild_site_data") — the console layer, not the file. Write
+  any content with diacritics or backticks through the edit tool or a
+  Python script file; never `Add-Content` for prose. (Extends "The
+  place-name databases and PowerShell's console" above.)
+- **YAML reads a bare yes or no as a boolean** (2026-10-24). A decision
+  written unquoted into the match log's flow mapping
+  (`{ decision: no }`) round-tripped as `False`, and the restore of the
+  editor's decisions silently skipped every `no` (`False` is falsy). Quote
+  every string value that is a bare yes/no/on/off/true/false in a
+  hand-rolled YAML line — or better, quote all of them
+  (`pipeline/gazetteer/match_sources.py`, `_log_row`). Found because a
+  test decision did not survive a rebuild.
+- **Hand-written JSON with OCR text inside: scan for invalid escapes
+  before parsing** (2026-10-25). Three of 2,306 translations carried a
+  stray backslash copied from the OCR (e.g. "Bisch\i'itz",
+  "Czieln iro\vo"), each of which broke `json.loads` on the whole
+  per-batch file. A one-line scan for `\x` where x is not a valid JSON
+  escape (`\\[^"\\/bfnrtu]`) found all of them; the merge script now runs
+  after it. Same day: the merge script checks every batch line's id
+  against the per-batch translation file, which caught four pieces
+  skipped while writing the batches — always merge with a coverage
+  check, never assume the per-batch files are complete.

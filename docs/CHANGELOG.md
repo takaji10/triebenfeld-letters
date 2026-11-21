@@ -6447,3 +6447,11 @@ sources-icon.html`).
 - `agad143201139` dropped: the same unit (AGAD 1/432/0/1/139) is the published `agad14320139`.
 - The merged branches deleted, here and on GitHub; `place-name-sources` kept (unmerged, not named).
 - CLAUDE.md, "Branch and publishing": work on `main`; pushing `main` publishes.
+
+## 2026-11-21 - The branch place-name-sources brought into main and deleted
+
+- The editor: "Yes, go ahead" (to: bring the Kodeks entries and the plan and script into main, publish, delete the branch).
+- The ten Kodeks entries 22 to 31 (made 2026-10-24 on the branch) picked into main; main's holding-page opening kept, the branch's new sentences on the charters of 1241-1362 merged; the generated files rebuilt; `docs/MISSING_SOURCES.md` regenerated (only the Pyzdry entry of 1341 still wanted). The site verifies clean (666 documents).
+- `docs/PLACE_NAME_DATABASES_PLAN.md` (its status brought up to date) and `pipeline/gazetteer/match_sources.py` copied in; four of the branch's five lessons appended to WORKING_NOTES (the fifth was already there). The branch's Places-page grouping was already in main.
+- Open: step 6, the candidates (TODO section 67).
+
