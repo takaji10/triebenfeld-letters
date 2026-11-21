@@ -1670,11 +1670,15 @@ transcription; 108 readings settled in session before the first build
       word ("added to the site like the other ones").
 - [x] The plan (`docs/PLACE_NAME_DATABASES_PLAN.md`) and the match script
       (`pipeline/gazetteer/match_sources.py`) in main; the branch deleted.
-- [ ] Claude: step 6 of the plan, the candidates - the Słownik's gmina and
-      parish tables of Trąbczyn and Zagórów read whole, and the villages,
-      hamlets and colonies the edition does not yet carry put to you as a
-      list to accept or refuse (with any names of your own list outside
-      those parishes).
+- [x] Step 6 of the plan, the candidates (2026-11-21): every Słownik entry
+      that puts a place in the parish or gmina of Trąbczyn or Zagórów read
+      (65 entries, two Sonnet readers, checked by Claude) and every name
+      checked against the gazetteer and the register.
+- [ ] **You:** the candidate sheet (`review/place_name_sources/candidates.html`,
+      made by `pipeline/gazetteer/candidates_sheet.py`): 14 places and
+      features to add or leave out, and two decisions (whether to read the
+      parish of Rzgów and the other outlying places too; the correction of
+      your Olchowo entry). "Copy answers" and paste them into the chat.
 - [ ] Still wanted: the Kodeks entry of 1341 the Pyzdry footnote cites
       (its number not given; docs/MISSING_SOURCES.md).
 

@@ -2131,6 +2131,21 @@ The one finding that touches the edition:
   (year-token "179‑"ᵘ), 0059 a money/IOU note, 0060 a letter
   continuation — the last three provisional until 0061 is read.
 
+## The gazetteer's candidate places (2026-11-21)
+
+1. **The candidate sheet** (`review/place_name_sources/candidates.html`):
+   14 places and features of the parishes of Trąbczyn and Zagórów that the
+   Słownik geograficzny names and the gazetteer lacks, and two decisions.
+   Claude's identifications on it, to confirm: Wrąbczyńskie Holendry is
+   very probably the gazetteer's Kolonia Wrąbczyn; Smokiliec is the OCR of
+   Smoleniec; the Łukom estate's "Łoniewo" is very probably Łomowo.
+2. **An error in the gazetteer's Olchowo entry** (found 2026-11-21): its
+   sentence "in gmina Kołki ... 141 houses and 776 inhabitants" (footnote 1,
+   Słownik t. XVI, p. 405) belongs to Olejniki, the next entry on that page;
+   the Słownik says there only that Olechowo was called Sophienthal until
+   1891. Added by Claude on 2026-10-26; on the sheet (d2) for the editor's
+   word before it is corrected.
+
 ## I. HA GR, Rep. 7 C, Nr. 421: Chełmski's claim on Prusimski, 1799 (added and published 2026-11-21)
 
 Read `units/ihagrrep7cnr421/notes.md` first.

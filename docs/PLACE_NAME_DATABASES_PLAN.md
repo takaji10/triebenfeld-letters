@@ -11,9 +11,17 @@ log committed. The branch's own work reached `main` on 2026-11-21 at the
 editor's word: the ten Kodeks entries (documents 22 to 31 of `kdw`), this
 plan and `pipeline/gazetteer/match_sources.py`; its Places-page grouping (Ląd
 and Świątniki with the area) had already been carried over by the tiered
-Places index. The branch was then deleted. **Still to do: step 6**, the
-candidates from the Słownik's gmina and parish tables of Trąbczyn and
-Zagórów, for the editor to accept or refuse. The decision page and the
+Places index. The branch was then deleted. **Step 6** (2026-11-21): the
+candidate sheet is built and waits on the editor
+(`pipeline/gazetteer/candidates_sheet.py` ->
+`review/place_name_sources/candidates.html`). The Słownik's gmina
+paragraphs give area and population only, not the gminas' villages, so the
+candidates came from every entry that names the parish or gmina of
+Trąbczyn or Zagórów (an OCR-tolerant search of all 16 volumes: 78 marks in
+65 entries), read by two Sonnet readers and checked by Claude, with the
+estates' own lists of their parts (Trąbczyn, Łukom, Kopojno, Oleśnica).
+14 places and features are new to the gazetteer; the rest are its places
+under other spellings, recorded on the sheet. The decision page and the
 translations of the snippets stay out of the repository
 (`review/place_name_sources/`, two of the three works in copyright).
 

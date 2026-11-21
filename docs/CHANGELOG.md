@@ -6455,3 +6455,9 @@ sources-icon.html`).
 - `docs/PLACE_NAME_DATABASES_PLAN.md` (its status brought up to date) and `pipeline/gazetteer/match_sources.py` copied in; four of the branch's five lessons appended to WORKING_NOTES (the fifth was already there). The branch's Places-page grouping was already in main.
 - Open: step 6, the candidates (TODO section 67).
 
+## 2026-11-21 - The gazetteer's candidate places: the sheet for the editor
+
+- The editor: "Let's do 'The candidate places' task. Try to use Sonnet agents where possible if it doesn't disrupt the quality of the work."
+- The Słownik geograficzny's converted text fetched again (a sparse clone of Igor's repository, `sources/sg`, `nmpol`, `kdw`, into Downloads; the old copy was gone).
+- Every entry naming the parish or gmina of Trąbczyn or Zagórów found (78 marks, 65 entries), read by two Sonnet readers to a brief (headword, facts, the estates' parts, a summary, OCR doubts), checked by Claude against the text; every name looked up in the gazetteer's 123 entries and the register.
+- The sheet (`pipeline/gazetteer/candidates_sheet.py` -> `review/place_name_sources/candidates.html`): 14 candidates (Głogowo, Janowska kolonia, Odpadki, Tumidaj, Wielki Las, Jarmuszewek, Wrąbczyńskie Holendry, Białobrzeg; the stream Biały and Czarna Góra; Goździków, Goździkówka, Gęsiłoża and Stawiska of the Kopojno estate) and two decisions (the outlying parishes; a correction to Olchowo, whose Kołki sentence belongs to Olejniki). Nothing on the site changed.

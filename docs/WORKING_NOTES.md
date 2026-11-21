@@ -4620,3 +4620,31 @@ Słownik's gmina and parish tables, is still to do.
   against the per-batch translation file, which caught four pieces
   skipped while writing the batches — always merge with a coverage
   check, never assume the per-batch files are complete.
+
+## The candidate places (2026-11-21)
+
+- **The dictionaries' converted text is in Igor's private repository**
+  (`igor/polish-place-name-sources` on GitHub; the editor is a
+  collaborator). The copy in Downloads that `match_sources.py` reads had
+  gone; fetch only the folders wanted: `git clone --filter=blob:none
+  --no-checkout`, then `git sparse-checkout set --cone sources/sg` (75 MB;
+  `sources/nmpol` 29 MB, `sources/kdw` 19 MB) - the whole repository is
+  about 500 MB.
+- **The Słownik's gmina paragraphs do not list the gmina's villages** in
+  powiat słupecki (they give the court, the post office, the area and the
+  population). The places of a parish are found from the other side: every
+  entry that names "par. X" or "gm. X", with an OCR-tolerant pattern
+  (Trąbczyu, Zagorów, "gm. i par."), and the estates' own lists of their
+  parts inside the big entries.
+- **A page's next entry is not the entry.** The Olchowo footnote of
+  2026-10-26 took "gm. Kołki ... 141 dm., 776 mk." from the line after
+  "Olechowo ... Do r. 1891 nosiła nazwę Sophienthal"; they are Olejniki's,
+  in Volhynia. The Słownik's entries run on without breaks in the converted
+  text: read a cited fact back to its own headword before writing it.
+- **Sonnet readers for the Słownik's entries worked** with a brief that
+  told them how numbered runs abbreviate the headword ("3. B. , wś"), to
+  give the full headword and the printed one, to list an estate's parts,
+  and to put every doubt in a note: 65 entries in two batches, the
+  headwords and facts right where checked; the two entries whose head was
+  on the previous page were left empty, as the brief asked, not guessed.
+  The identifications against the edition stay Claude's.
