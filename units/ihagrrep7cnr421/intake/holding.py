@@ -364,6 +364,28 @@ CORRECTIONS = [
     ('0008_a2', 'Mondio bittet', 'Mondro bittet', 'Mondro, as he signs on 0010_a1 (Claude, the scan)'),
     ('0010_a1', 'Mondio', 'Mondro', 'his signature, plainly Mondro (Claude), as in the clean copy, 0012_a1'),
     ('0017_a2', 'Rath Mondio', 'Rath Mondro', 'Mondro, as in the same draft\'s "Mon¬ / dro" (Claude, the scan)'),
+    # The editor's spot sheet, answered 2026-11-21 (review/ihagrrep7cnr421/spot_sheet.html).
+    # Kept as they stood, at the editor's word: q1 (21), q2, q3 (habe), q9 (1799),
+    # q16 (Swiętego), q20 (geworden).
+    ('0002_a2', 'bescheiden werden.', 'bescheiden werde.', 'the editor, spot sheet q4 ("werde"); the full stop kept'),
+    ('0004_a1', 'dero Aufläger der', 'dero Hoflager den', 'the editor, spot sheet q5'),
+    ('0005_a1', 'derung dieser Schä', 'Deckung dieser Schä', 'the editor, spot sheet q6'),
+    ('0007_a1', 'da er sollnst die¬', 'da er selbst die¬', 'the editor, spot sheet q7'),
+    ('0011_a2', 'vom 10t dess. M.', 'vom 16t dess. M.', 'the editor, spot sheet q8, as the original petition (document 4)'),
+    ('0012_a2', 'umste ich', 'muste ich', 'the editor, spot sheet q10'),
+    ('0012_a2', 'die Räth\npalung[?]', 'die Rük¬\nzalung',
+     'the editor, spot sheet q11 ("Rük / zalung"); the word broken with the copyist\'s line-end mark, so "¬" as everywhere'),
+    ('0013_a1', 're[?]ha[l?]¬', 'nehm¬', 'the editor, spot sheet q12 ("nehm¬ / lich"), the spelling of "nehmlich" on 0012_a2'),
+    ('0013_a2', 'abregern, alsdann', 'abrechnen, alsdann', 'the editor, spot sheet q13'),
+    ('0013_a2', '[?]a[i?]e[?] anforderen\ngen[?]', 'meine Anforderun¬\ngen', 'the editor, spot sheet q14'),
+    ('0014_a1', 'die u[?]hab¬\n[h?]ören', 'die ich ab¬\nhören', 'the editor, spot sheet q15 ("die ich ab¬ / hören")'),
+    ('0014_a2', 'na wgystnie', 'na umyslnie',
+     'spot sheet q17, the editor unsure ("could be myslnie, wyslnie, ucystnie"; take more time): Claude at 2x, '
+     'u-m-y, the long s with its head looped high, l-n-i-e: "na umyslnie", naumyślnie, deliberately, after "z dobrey woli" '
+     '(of free will), the formula of a voluntary bond'),
+    ('0014_a2', 'procz Zabryki', 'procz Fabryki', 'the editor, spot sheet q18 (Fabryki Żelazney, the ironworks)'),
+    ('0016_a2', 'dem Capit[?]. cop.', 'dem Crim. R. cop.', 'the editor, spot sheet q19'),
+    ('0016_a2', 'de conclusi eodem', 'ita conclus. eod.', 'the editor, spot sheet q21, the formula under the decision on 0002_a2'),
 ]
 
 

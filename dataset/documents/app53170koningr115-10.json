@@ -74,6 +74,17 @@
    "doc_line": 1
   },
   {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0245_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "line": 49,
+   "doc_line": 1
+  },
+  {
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
@@ -87,6 +98,39 @@
   {
    "entity": "chemski",
    "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 1,
+   "page_id": "0245_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "line": 50,
+   "doc_line": 2
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0245_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "line": 50,
+   "doc_line": 2
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0245_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "line": 50,
+   "doc_line": 2
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
    "surface": "Chełmskiego",
    "page": 1,

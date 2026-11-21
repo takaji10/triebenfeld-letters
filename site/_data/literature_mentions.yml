@@ -2352,6 +2352,19 @@ person:
     - key: '303'
       en: p. 303
       de: S. 303
+  stanislaw-chelmski:
+  - work: boniecki1900
+    cite: Boniecki (1900)
+    pages:
+    - key: c03
+      en: 2.976.183, 196-198, 209-210
+      de: 2.976.183, 196-198, 209-210
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '28'
+      en: p. 28
+      de: S. 28
   stein:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)

@@ -186,6 +186,7 @@ people:
         source: "minakowska2026zielonacka/c02"
         note_source: "app53170koningr145-1"
       - name: Stanisław
+        link: stanislaw-chelmski
         note: "Treasurer of Wschowa: the page and Boniecki give the title under 1779, a document of April 1778 already gives it; at law with Katarzyna Prusimska in 1761-1763, and from 1766 heir of Łukomia, Łomowo, Imielno and Bukowo"
         source: "minakowska2026zielonacka/c02"
         note_source: "app53170koningr117-4; app536045-1"
@@ -227,6 +228,30 @@ people:
     literature_passages:
       - "boniecki1900/c04"
       - "minakowska2026zielonacka/c02"
+
+
+  stanislaw-chelmski:
+    # Stanisław Ścibor Chełmski, Treasurer of Wschowa (the editor, 2026-11-21:
+    # the Stanisław of the boundary decree of 1775 and of I. HA GR, Rep. 7 C,
+    # Nr. 421; a person entry). Neither the documents nor the two works give
+    # him a date of birth or death, so the page has none. His brother Heliodor
+    # and his sisters are on his mother's page.
+    parents:
+      - name: "Józef Ścibor-Chełmski of Chełm and Wola, arms Ostoja"
+        note: "heir of Łukomia and Łomowo, named with his brother Franciszek in the decree of 1728"
+        source: "boniecki1900/c05; minakowska2026zielonacka/c02"
+        note_source: "app536040-1"
+      - name: "Helena née Zielonacka"
+        link: helena-zielonacka
+        source: "minakowska2026zielonacka/c02"
+    marriages:
+      - name: "Dorota née Skórzewska"
+        source: "boniecki1900/c06"
+    children:
+      - name: "Franciszek Ksawery"
+        note: "married Małgorzata Mielęcka, daughter of the general Andrzej Mielęcki; their son Stanisław (d. 1877) and grandson Władysław held Łukomia. The database's page puts a Franciszek Ksawery among the children of Stanisław's brother Tomasz instead"
+        source: "boniecki1900/c06"
+        note_source: "boniecki1900/c06; minakowska2026zielonacka/c02"
 
   miaczynski:
     # Stanisław Adam Miączyński, Stanisław Miączyński. The

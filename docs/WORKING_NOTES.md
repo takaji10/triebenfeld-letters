@@ -4439,6 +4439,21 @@ first and a fine pass at their word. The files are in
   and grep the hand-written files for both forms *and* for the editor's
   bracketed form (here "Mond[io?]", which a plain search for "Mondio" misses
   and which stood on in the English).
+- **A person entry carved out of a family entry.** For Stanisław Chełmski
+  (2026-11-21) the family entry stays whole and the person entry is added
+  beside it: `match` takes the surname after his forename forms (one fixed-
+  width lookbehind per forename and middle word: Python's re takes no
+  variable-width lookbehind) or before his title; `issuer_match` with
+  `issued_in` takes the bare surname only in the documents that already name
+  him so, computed once and written out; lookbehinds shut out his forebears'
+  forenames. Three more files want the entry: `reference/people_bios.yml`
+  (verify_site fails a person page with no bio), `reference/genealogy.yml`
+  (no block, no page) and `literature/index.yml` (every literature hit of a
+  new entry must be ruled, or literature_index.py stops the build).
+- **The editor's own spot-sheet options carry no line-end mark.** "die Rük /
+  zalung" was written so on the sheet; the scan has the copyist's line-end
+  mark, so the correction writes "Rük¬", as the editor's own answers ("nehm¬
+  / lich", "ab¬ / hören") do. Write "¬" into the options next time.
 - **Sub-agents as readers, again**: two of four left strips unopened and said
   so; read those strips yourself before settling. A brief that names the
   file's internal witnesses (two copies of one petition, a decision and its

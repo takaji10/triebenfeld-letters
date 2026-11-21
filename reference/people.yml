@@ -325,7 +325,54 @@ people:
     match: 'Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: ["Chełmsky", "Chelmski"]
-    identity: "The family that owned Łukomia, the estate next to Trąbczyn: Jerzy Chełmski in 1644 (APP 53/6/0/-/36), Stanisław Ścibor Chełmski in 1763 (APP 53/6/0/-/45), the brothers Heliodor and Stanisław in the boundary decree of 1775 (APP 53/17/0/-/Konin Gr.145), and a Chełmski at law over the South Prussian estates in 1798 and 1799. A family entry: the documents name several men, who are not yet told apart in the index."
+    identity: "The family that owned Łukomia, the estate next to Trąbczyn: Jerzy Chełmski in 1644 (APP 53/6/0/-/36), Stanisław Ścibor Chełmski in 1763 (APP 53/6/0/-/45), the brothers Heliodor and Stanisław in the boundary decree of 1775 (APP 53/17/0/-/Konin Gr.145), and a Chełmski at law over the South Prussian estates in 1798 and 1799. A family entry: the documents name several men. Stanisław, Treasurer of Wschowa, the Stanisław of 1775 and of 1799, has his own entry since 2026-11-21 (stanislaw-chelmski, the editor's word); this entry still lists every Chełmski the documents name."
+    merge: false
+  stanislaw-chelmski:
+    display: "Stanisław Chełmski, Treasurer of Wschowa"
+    render: "Stanisław Chełmski"
+    # A person entry at the editor's word (2026-11-21, spot sheet of
+    # I. HA GR, Rep. 7 C, Nr. 421, d1): "he is the Stanisław of the boundary
+    # decree of 1775 - make a person entry for this person". The family
+    # entry (chemski) stays for the rest of the family and for every
+    # mention that is not shown to be his.
+    # match: the surname after his forename (Stanislaus, Stanislai,
+    # Stanisława, Stanisl[aus]. von ...; with or without Ścibor), or before
+    # his title (Thes., Thaes., Skarbnik): his wherever it stands.
+    match: '(?:(?<=Stanislaus )|(?<=Stanislaus Scibor\ )|(?<=Stanislaus Ścibor\ )|(?<=Stanislaus Scibór\ )|(?<=Stanislaus Ścibór\ )|(?<=Stanislaus Sciborż\ )|(?<=Stanislaus v\.\ )|(?<=Stanislaus v\ )|(?<=Stanislaus von\ )|(?<=Stanislai )|(?<=Stanislai Scibor\ )|(?<=Stanislai Ścibor\ )|(?<=Stanislai Scibór\ )|(?<=Stanislai Ścibór\ )|(?<=Stanislai Sciborż\ )|(?<=Stanislai v\.\ )|(?<=Stanislai v\ )|(?<=Stanislai von\ )|(?<=Stanislao )|(?<=Stanislao Scibor\ )|(?<=Stanislao Ścibor\ )|(?<=Stanislao Scibór\ )|(?<=Stanislao Ścibór\ )|(?<=Stanislao Sciborż\ )|(?<=Stanislao v\.\ )|(?<=Stanislao v\ )|(?<=Stanislao von\ )|(?<=Stanislaum )|(?<=Stanislaum Scibor\ )|(?<=Stanislaum Ścibor\ )|(?<=Stanislaum Scibór\ )|(?<=Stanislaum Ścibór\ )|(?<=Stanislaum Sciborż\ )|(?<=Stanislaum v\.\ )|(?<=Stanislaum v\ )|(?<=Stanislaum von\ )|(?<=Stanisław )|(?<=Stanisław Scibor\ )|(?<=Stanisław Ścibor\ )|(?<=Stanisław Scibór\ )|(?<=Stanisław Ścibór\ )|(?<=Stanisław Sciborż\ )|(?<=Stanisław v\.\ )|(?<=Stanisław v\ )|(?<=Stanisław von\ )|(?<=Stanisława )|(?<=Stanisława Scibor\ )|(?<=Stanisława Ścibor\ )|(?<=Stanisława Scibór\ )|(?<=Stanisława Ścibór\ )|(?<=Stanisława Sciborż\ )|(?<=Stanisława v\.\ )|(?<=Stanisława v\ )|(?<=Stanisława von\ )|(?<=Stanisławem )|(?<=Stanisławem Scibor\ )|(?<=Stanisławem Ścibor\ )|(?<=Stanisławem Scibór\ )|(?<=Stanisławem Ścibór\ )|(?<=Stanisławem Sciborż\ )|(?<=Stanisławem v\.\ )|(?<=Stanisławem v\ )|(?<=Stanisławem von\ )|(?<=Stanisławowi )|(?<=Stanisławowi Scibor\ )|(?<=Stanisławowi Ścibor\ )|(?<=Stanisławowi Scibór\ )|(?<=Stanisławowi Ścibór\ )|(?<=Stanisławowi Sciborż\ )|(?<=Stanisławowi v\.\ )|(?<=Stanisławowi v\ )|(?<=Stanisławowi von\ )|(?<=Stanisl )|(?<=Stanisl Scibor\ )|(?<=Stanisl Ścibor\ )|(?<=Stanisl Scibór\ )|(?<=Stanisl Ścibór\ )|(?<=Stanisl Sciborż\ )|(?<=Stanisl v\.\ )|(?<=Stanisl v\ )|(?<=Stanisl von\ )|(?<=Stanisl\. )|(?<=Stanisl\. Scibor\ )|(?<=Stanisl\. Ścibor\ )|(?<=Stanisl\. Scibór\ )|(?<=Stanisl\. Ścibór\ )|(?<=Stanisl\. Sciborż\ )|(?<=Stanisl\. v\.\ )|(?<=Stanisl\. v\ )|(?<=Stanisl\. von\ )|(?<=Stanisl\[aus\]\. )|(?<=Stanisl\[aus\]\. Scibor\ )|(?<=Stanisl\[aus\]\. Ścibor\ )|(?<=Stanisl\[aus\]\. Scibór\ )|(?<=Stanisl\[aus\]\. Ścibór\ )|(?<=Stanisl\[aus\]\. Sciborż\ )|(?<=Stanisl\[aus\]\. v\.\ )|(?<=Stanisl\[aus\]\. v\ )|(?<=Stanisl\[aus\]\. von\ ))Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])|Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])(?=,?\s*(?:Th(?:a|ae)?es|Skarb))'
+    # issuer_match: the bare surname, singular, in the documents that name
+    # him so (computed 2026-11-21 from the pattern above), in the whole of
+    # Nr. 421, and in Triebenfeld's letters on his suit against the Prince
+    # and the memorandum of 1815 on his pledge (Claude's identification,
+    # by the connection the editor kept, chelmski-suit-against-hohenlohe).
+    # Not after "Jerzym", "Jerzemu", "Józefowi" (his forebears in the decree
+    # of 1775) nor "rodzonym" (the two brothers together).
+    issuer_match: '(?<!Jerzym )(?<!Jerzemu )(?<!Józefowi )(?<!rodzonym )Che[lł]ms(?:k(?:iego|iemu|im|i|y))(?![a-zà-ÿ])'
+    issued_in: [app53150kaliszgr414-1, app53150kaliszgr425-1, app53170koningr115-1, app53170koningr115-10, app53170koningr115-2, app53170koningr115-4, app53170koningr115-5, app53170koningr115-6, app53170koningr115-7, app53170koningr115-9, app53170koningr116-10, app53170koningr116-12, app53170koningr116-4, app53170koningr116-7, app53170koningr117-1, app53170koningr117-2, app53170koningr117-3, app53170koningr117-4, app53170koningr117-5, app53170koningr117-7, app53170koningr117-8, app53170koningr117-9, app53170koningr118-1, app53170koningr118-11, app53170koningr118-14, app53170koningr118-15, app53170koningr118-16, app53170koningr118-17, app53170koningr118-19, app53170koningr118-20, app53170koningr118-21, app53170koningr118-22, app53170koningr118-25, app53170koningr118-26, app53170koningr118-27, app53170koningr118-28, app53170koningr118-3, app53170koningr118-5, app53170koningr118-7, app53170koningr118-9, app53170koningr119-1, app53170koningr119-2, app53170koningr119-3, app53170koningr119-4, app53170koningr119-5, app53170koningr119-6, app53170koningr119-7, app53170koningr119-8, app53170koningr120-2, app53170koningr121-1, app53170koningr145-1, app53170koningr153-1, app53170koningr153-2, app536045-1, app536046-1, app536046-2, app536047-1, ihagrrep7cnr421-1, ihagrrep7cnr421-3, ihagrrep7cnr421-6, ihagrrep7cnr421-2, ihagrrep7cnr421-4, ihagrrep7cnr421-5, ihagrrep7cnr421-7, oe1bu9454-75, oe1bu9454-102, oe1bu9454-103, oe1bu9454-286]
+    tier: "Text-confirmed"
+    variants: []
+    identity: >-
+      Stanisław Ścibor Chełmski of Łukom, Treasurer of Wschowa (skarbnik
+      wschowski), heir of Łukomia, Łomowo, Imielno and Bukowo, the estates
+      next to Trąbczyn, son of Józef Ścibor-Chełmski and Helena Zielonacka.
+      In 1763 he was at law before the land court at Konin with Katarzyna
+      Prusimska, Paweł Prusimski's widow, over potash stopped at Pyzdry in
+      1761 (APP 53/6/0/-/45), and from 1766, when he bought his cousin Ignacy's share
+      of Łukomia, he is Antoni Prusimski's neighbour and opponent in the
+      court books of Konin and Kalisz to 1788, which call him Treasurer of
+      Wschowa from April 1778 (APP 53/17/0/-/Konin Gr.117, document 4). With
+      his brother, the canon Heliodor, he is the party against whom the
+      boundary between Trąbczyn and Łukomia was fixed in 1775 (APP
+      53/17/0/-/Konin Gr.145). In June 1794 he lent Prusimski 12,000 ducats
+      in gold, with leave to hold Trąbczyn and its villages until repaid;
+      after the confiscation he held the estate, had to give it up to the
+      Prince of Hohenlohe-Ingelfingen after a judgment of revision, sued the
+      Fiscus, and was refused by the King in October and December 1799 (I.
+      HA GR, Rep. 7 C, Nr. 421, where his lawyer is the criminal councillor
+      Mondro). That the Stanisław of 1799 is the Stanisław of the decree of
+      1775 is the editor's identification (2026-11-21). Triebenfeld's
+      letters of 1798 and 1799 follow his suit against the Prince, and the
+      memorandum of 1815 names the pledge of Trąbczyn to him (Oe 1 Bü 9454,
+      letters 75, 102, 103, 286; Claude's identification). Added 2026-11-21.
     merge: false
   szepczynski:
     display: "Bartłomiej Szepczyński, court messenger"
@@ -1632,7 +1679,7 @@ people:
     match: 'Mondro(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: []
-    identity: "Criminal-Rath, the Prince's mandatary who brought the three Olesnica suits (I. HA GR, Rep. 7 C, Nr. 3705, 1805). Added 2026-09-30."
+    identity: "Criminal-Rath at Kalisz, the Prince's mandatary who brought the three Olesnica suits (I. HA GR, Rep. 7 C, Nr. 3705, 1805). In 1799 he was the lawyer of Stanisław Chełmski against the Prince's side, pressing Chełmski's complaint on 7 December and answered on 23 December (I. HA GR, Rep. 7 C, Nr. 421, where he signs Mondro and the registry once writes Mondo; the same man, the editor's word, 2026-11-21). Added 2026-09-30."
   winitzki:
     display: "Winitzki"
     match: 'Winitzki(?![a-zà-ÿ])'

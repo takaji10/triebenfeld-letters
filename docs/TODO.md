@@ -1631,9 +1631,12 @@ transcription; 108 readings settled in session before the first build
       Claude (133 corrections); English and summaries in session
       (claim-checked); holding page in both languages; one proposed
       connection; the site built, verified and served locally.
-- [ ] You: the fold page (`review/ihagrrep7cnr421/folds/index.html`).
-- [ ] You: the spot sheet (`review/ihagrrep7cnr421/spot_sheet.html`), 21
-      readings and 3 decisions.
+- [x] You: the fold page (`review/ihagrrep7cnr421/folds/index.html`):
+      applied 2026-11-21.
+- [x] You: the spot sheet (`review/ihagrrep7cnr421/spot_sheet.html`), 21
+      readings and 3 decisions: applied 2026-11-21 (a person entry and page
+      for Stanisław Chełmski; the connection kept; q17 read by Claude as "na
+      umyslnie", to confirm).
 - [x] The lawyer's name settled as Mondro (your word: fix the Mondio/Mondro
       readings; read against his signature).
 - [ ] Then: apply both; a timeline event and a paragraph in the Hohenlohe

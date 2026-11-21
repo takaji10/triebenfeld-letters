@@ -34,8 +34,10 @@ the archive's slips are not cut out at all (the editor: "don't include the blank
 sides"; `keep_skipped=False`): the left sides of 0002 (the archive's user sheet),
 0006, 0008, 0011, 0016 (a large blank sheet; the page is the small slip beside
 it) and 0017, and the right of 0010. **The fold page** (`holding.py --sheet` ->
-`review/ihagrrep7cnr421/folds/index.html`) waits on the editor; their saved file
-goes in with `python pipeline/intake/courtbook.py folds ihagrrep7cnr421 <file>`.
+`review/ihagrrep7cnr421/folds/index.html`): **the editor's folds and edges
+applied 2026-11-21** (their `folds_ihagrrep7cnr421.json`, now `intake/folds.json`,
+put in with `python pipeline/intake/courtbook.py folds ihagrrep7cnr421 <file>`;
+the fold moved on eight scans (0003, 0005, 0007-0012, by 1 to 56 pixels), the edges set on every scan, none turned). The text is not touched by it.
 
 Pages: 0001_a (cover), 0002_a2, 0003_a1, 0003_a2, 0004_a1, 0004_a2, 0005_a1,
 0005_a2, 0006_a2, 0007_a1, 0007_a2, 0008_a2, 0009_a1, 0009_a2, 0010_a1,
@@ -108,10 +110,31 @@ decision, a struck word in the bond (line 25), paraphs.
 **The spot sheet** (`intake/spot_sheet_html.py` ->
 `review/ihagrrep7cnr421/spot_sheet.html`, one self-contained page): 21 readings
 and 3 decisions (a person entry for Stanisław Chełmski, the Mondro entry, the
-connection). Waiting on the editor. Among the readings: **the suit's date**
-(q9): "Posen den 19ten Maert 1799", but its own words (the eviction suit of
-7 Dec. 1795, a hearing "27. Februar c.", payment due "zu Johanni v. J.") fit
-1796.
+connection). **Answered by the editor 2026-11-21** and applied through
+CORRECTIONS (the block "The editor's spot sheet"):
+
+- Kept as they stood: q1 (the cover's 21), q2 (the official's note as the
+  editor read it), q3 ("habe"), q9 (the suit's **1799**: the digit is read so,
+  though the suit's own words, the eviction suit of 7 Dec. 1795, "27. Februar
+  c." and "zu Johanni v. J.", fit 1796; the document stays under 1799 and the
+  difference stays in NEEDS_CONFIRMATION), q16 ("Swiętego"), q20 ("geworden").
+- Changed: q4 "werde", q5 "Hoflager den", q6 "Deckung", q7 "selbst", q8 "16t"
+  (the copy agrees with the original), q10 "muste ich", q11 "Rük¬ / zalung"
+  (the copyist's line-end mark, so "¬"), q12 "nehm¬ / lich" (the editor's
+  own), q13 "abrechnen", q14 "meine Anforderun¬ / gen", q15 "die ich ab¬ /
+  hören" (the editor's own), q18 "Fabryki", q19 "Crim. R.", q21 "ita conclus.
+  eod.".
+- q17, the editor unsure ("could be myslnie, wyslnie, ucystnie... take some
+  more time"): Claude at twice the size reads u-m-y, the long s with its head
+  looped high, l-n-i-e: "na umyslnie", that is naumyślnie, deliberately,
+  after "z dobrey woli" (of free will), the formula of a voluntary bond.
+  Written "na umyslnie" without the accent, as the copyist writes
+  "Swiętego".
+- q20, the editor's question whether "gewordenen" fits better: yes, the
+  grammar wants it ("der seinem principal gewordenen resol.", the resolution
+  given to his principal), and the word ends in a rising stroke after "den"
+  that may be the clerk's shorthand for the ending. The letters on the page
+  are "geworden", so the transcription keeps them; the English says "given".
 
 **The lawyer's name is Mondro** (the editor, 2026-11-21: "In some places I
 thought it was Mondro, and others Mondio. Can you please fix my mistakes?").
@@ -125,8 +148,9 @@ Mondo" under document 1 (0005_a2) shows no r and stands as written.
 ## Line ends and paragraphs
 
 The resolver split 21 words broken with "¬" whose joined form it found nowhere
-(old spellings, Latin, Polish, names); 19 are joined by hand
-(`intake/linebreaks.py`), "allen¬ / persönlichen" and "einer¬ / wider" stay two
+(old spellings, Latin, Polish, names); 17 are joined by hand
+(`intake/linebreaks.py`; two more, "u[?]hab¬" and "re[?]ha[l?]¬", became
+"ab¬ / hören" and "nehm¬ / lich" on the spot sheet and join by themselves), "allen¬ / persönlichen" and "einer¬ / wider" stay two
 words. Paragraphs set by `intake/paragraphs.py` on stated principles (31 rows
 held). Run both after a rebuild.
 
@@ -137,10 +161,11 @@ writes doc1-7.yml, `write_cache.py` caches them. check_translations raised 23
 rows, all cleared (the termbase's "criminal-court councillor", "Hollander",
 "Nowawies", "I remain, until death,"; "the Prince of Hohenlohe"; the rare pair
 Abweisung flagged on its five pages; a date set on its own page); none since.
-The Polish page translated from the Polish. A word the transcription leaves
-unexplained but the passage fixes is rendered by its sense ("Aufläger" court,
-"derung" to cover, "abregern" deduct, "umste ich ... vorschücken" I advanced,
-"Zabryki Zelazney" the iron works); words still unread are kept as written.
+The Polish page translated from the Polish. The English follows the spot
+sheet's readings (2026-11-21: "selbst" himself, "16th", "muste ich" I had to
+advance, "nehmlich" namely, "meine Anforderungen" my claims, "die ich abhören
+zu laßen" whom I ask to have examined, "na umyslnie" deliberately, "Crim. R."
+the criminal-court councillor); words still unread are kept as written.
 
 Summaries in session (`intake/write_summaries.py`), claim-checked by a Sonnet
 reader (`intake/claim_check.yml`: 88 statements, 78 supported, 10 overstated;
@@ -148,12 +173,21 @@ all ten taken).
 
 ## Index
 
-No new person entries (spot sheet d1). Chełmski is the family entry `chemski`
-(21 mentions), Prusimski and Hohenlohe as before. **Mondro has an entry** (`mondro`,
-the criminal councillor who was the Prince's attorney in the Olesnica suits of
-1805, Nr. 3705): with the name settled it tags him in documents 2, 4, 5 and 7
-(not the registry's "Mondo"); that he is the same man is Claude's, very
-probable (spot sheet d2). Places: Kalisz, Trąbczyn, Berlin,
+**A new person entry, `stanislaw-chelmski`** (the editor, spot sheet d1:
+"he is the Stanisław of the boundary decree of 1775 - make a person entry for
+this person"), with a page (`reference/genealogy.yml`: parents from Boniecki
+and the database, his wife Dorota Skórzewska and son Franciszek Ksawery from
+Boniecki) and a bio (`reference/people_bios.yml`). His pattern takes the
+surname after his forename or before his title (Thes., Skarbnik) anywhere,
+and the bare surname in the documents that so name him, in all of Nr. 421,
+and in Oe 1 Bü 9454, 75, 102, 103, 286 (Claude's, by the connection kept);
+not after "Jerzym", "Jerzemu", "Józefowi" or "rodzonym". 67 documents, 1763
+to 1815. The family entry `chemski` keeps every Chełmski as before.
+**Mondro has an entry** (`mondro`, the criminal councillor who was the
+Prince's attorney in the Olesnica suits of 1805, Nr. 3705): with the name
+settled it tags him in documents 2, 4, 5 and 7 (not the registry's "Mondo");
+the same man, the editor's word (spot sheet d2), now in his identity and
+bio. Places: Kalisz, Trąbczyn, Berlin,
 Łukom, Łukomia, Poznań, Pyzdry, Osiny; Nowa Wieś (the estate's Nowawies, matched
 narrowly on purpose), Łazy and Mierzewo are not matched here. New glossary entry `fiscus` (checked: false,
 Krünitz to check against; 122 marks across the edition); "Dec", "Octbr.",
@@ -161,7 +195,7 @@ Krünitz to check against; 122 marks across the edition); "Dec", "Octbr.",
 
 ## Connections
 
-One proposed (spot sheet d3): `chelmski-suit-against-hohenlohe`, documents 1 and
+One, kept at the editor's word (spot sheet d3): `chelmski-suit-against-hohenlohe`, documents 1 and
 4 with Oe 1 Bü 9454, letters 75, 102, 103 (Triebenfeld on "Chełmski's process"
 against the Prince, 1798-1799) and 286 (the memorandum of 1815: the pledge "für
 36000 Ducaten"; this file: 12,000). The letters' "second instance" is not

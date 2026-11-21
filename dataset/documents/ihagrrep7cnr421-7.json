@@ -95,6 +95,17 @@
    "doc_line": 4
   },
   {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
+   "line": 700,
+   "doc_line": 4
+  },
+  {
    "entity": "mondro",
    "display": "Mondro",
    "kind": "person",
@@ -117,8 +128,30 @@
    "doc_line": 14
   },
   {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
+   "line": 710,
+   "doc_line": 14
+  },
+  {
    "entity": "chemski",
    "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
+   "line": 714,
+   "doc_line": 18
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
    "surface": "Chełmski",
    "page": 1,

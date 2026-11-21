@@ -75,6 +75,17 @@
    "doc_line": 2
   },
   {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0187_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+   "line": 24,
+   "doc_line": 2
+  },
+  {
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
@@ -101,6 +112,39 @@
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
    "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0187_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+   "line": 25,
+   "doc_line": 3
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0187_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+   "line": 25,
+   "doc_line": 3
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0187_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+   "line": 25,
+   "doc_line": 3
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
    "page": 1,
    "page_id": "0187_a1",
    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",

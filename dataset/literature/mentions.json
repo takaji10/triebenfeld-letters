@@ -40,6 +40,16 @@
   "context": "Ignacy część swoją na dobrach ojczystych Łukomia, Łomowa, Mielna i Bukowa sprzedał w 1766 r. bratu swemu ze stryjecznych, Stanisławowi Chełmskiemu."
  },
  {
+  "kind": "person",
+  "entity": "stanislaw-chelmski",
+  "display": "Stanisław Chełmski, Treasurer of Wschowa",
+  "surface": "Chełmskiemu",
+  "work": "boniecki1900",
+  "passage": "c03",
+  "line": 7,
+  "context": "Ignacy część swoją na dobrach ojczystych Łukomia, Łomowa, Mielna i Bukowa sprzedał w 1766 r. bratu swemu ze stryjecznych, Stanisławowi Chełmskiemu."
+ },
+ {
   "kind": "place",
   "entity": "lukomia",
   "display": "Łukomia",
@@ -4831,6 +4841,26 @@
  },
  {
   "kind": "person",
+  "entity": "stanislaw-chelmski",
+  "display": "Stanisław Chełmski, Treasurer of Wschowa",
+  "surface": "Chełmskiemu",
+  "work": "chodyla2015",
+  "passage": "28",
+  "line": 3,
+  "context": "Najstarszymi osadami olęderskimi w Puszczy Pyzdrskiej, założonymi w 1746 r. w powiecie konińskim, w parafii i dobrach Trąbczyn, były Trąbczyńskie Stare Ol. i Luśnie Ol. Fundowali je na połowie lasu Ostrowiec, połowie lasu albo raczej błota Stawisko i na lasach Miąsykąt, Dziadulin i Luśnie, ciągnących się od Stawiska ku Czarnemu Brodowi małżonkowie Paweł i Katarzyna z Rozdrażewskich Prusimscy, ówcześni właściciele tych dóbr swym nie zachowanym przywilejem. Wiadomo o tym z dekretu sądu komisarskiego granicznego z 1776 r. w sprawie ustalenia granic między dobrami Trąbczyn i Łukom. Według niego część dóbr Trąbczyn razem z wsiami olęderskimi w 1771 r. niesłusznie zasądzona przez sąd graniczny komisarski i tradowana, czyli urzędowo przekazana Stanisławowi Chełmskiemu, dziedzicowi dóbr Łukomia albo Łomowa, powinna zostać przywrócona (wraz z bezprawnie czerpanymi z nich dochodami za 4 lata) bratankowi i spadkobiercy założyciela – Antoniemu Prusimskiemu, dziedzicowi Trąbczyna Małego albo Nowej Wsi, staroście niszczewickiemu [nazywanemu tak od wsi Niszczewice, ośrodka niegrodowego starostwa w pow. i woj. inowrocławskim]. Na podstawie podanych w tym źródle informacji dotyczących nazwisk, szkoły luterańskiej i cmentarza, można stwierdzić, że lokowani w tych olędrach osadnicy byli niemieckimi chłopami wyznania luterańskiego, ewangelicko-augsburskiego[^34] (Il. 4). W związku z osadzeniem na gruntach leśnych i błotnych, wymagających karczunku i melioracji, otrzymali oni zapewne 7-8 lat wolnizny na przysposobienie gruntów do uprawy i wzniesienie budynków. W późniejszej o osiem lat wizji [opisie] dóbr Trąbczyn z 1754 r. podano, że w osadach tych mieszkało 15 olędrów. Z nich 12 olędrów oraz karczma znajdowało się w lesie Lusina, czyli w Luśniach Ol.[^35], traktowanych jako większa część szerzej rozumianych Trąbczyńskich Starych Ol., ale później nazywanych także Łukomskimi Ol. Według wspomnianego aktu tradycji (sądowego przekazania) części dóbr Trąbczyn z 1771 r. Stanisławowi Chełmskiemu dziedzicowi dóbr Łukomia i Łomowa przez Antoniego Prusimskiego"
+ },
+ {
+  "kind": "person",
+  "entity": "stanislaw-chelmski",
+  "display": "Stanisław Chełmski, Treasurer of Wschowa",
+  "surface": "Chełmskiemu",
+  "work": "chodyla2015",
+  "passage": "28",
+  "line": 3,
+  "context": "Najstarszymi osadami olęderskimi w Puszczy Pyzdrskiej, założonymi w 1746 r. w powiecie konińskim, w parafii i dobrach Trąbczyn, były Trąbczyńskie Stare Ol. i Luśnie Ol. Fundowali je na połowie lasu Ostrowiec, połowie lasu albo raczej błota Stawisko i na lasach Miąsykąt, Dziadulin i Luśnie, ciągnących się od Stawiska ku Czarnemu Brodowi małżonkowie Paweł i Katarzyna z Rozdrażewskich Prusimscy, ówcześni właściciele tych dóbr swym nie zachowanym przywilejem. Wiadomo o tym z dekretu sądu komisarskiego granicznego z 1776 r. w sprawie ustalenia granic między dobrami Trąbczyn i Łukom. Według niego część dóbr Trąbczyn razem z wsiami olęderskimi w 1771 r. niesłusznie zasądzona przez sąd graniczny komisarski i tradowana, czyli urzędowo przekazana Stanisławowi Chełmskiemu, dziedzicowi dóbr Łukomia albo Łomowa, powinna zostać przywrócona (wraz z bezprawnie czerpanymi z nich dochodami za 4 lata) bratankowi i spadkobiercy założyciela – Antoniemu Prusimskiemu, dziedzicowi Trąbczyna Małego albo Nowej Wsi, staroście niszczewickiemu [nazywanemu tak od wsi Niszczewice, ośrodka niegrodowego starostwa w pow. i woj. inowrocławskim]. Na podstawie podanych w tym źródle informacji dotyczących nazwisk, szkoły luterańskiej i cmentarza, można stwierdzić, że lokowani w tych olędrach osadnicy byli niemieckimi chłopami wyznania luterańskiego, ewangelicko-augsburskiego[^34] (Il. 4). W związku z osadzeniem na gruntach leśnych i błotnych, wymagających karczunku i melioracji, otrzymali oni zapewne 7-8 lat wolnizny na przysposobienie gruntów do uprawy i wzniesienie budynków. W późniejszej o osiem lat wizji [opisie] dóbr Trąbczyn z 1754 r. podano, że w osadach tych mieszkało 15 olędrów. Z nich 12 olędrów oraz karczma znajdowało się w lesie Lusina, czyli w Luśniach Ol.[^35], traktowanych jako większa część szerzej rozumianych Trąbczyńskich Starych Ol., ale później nazywanych także Łukomskimi Ol. Według wspomnianego aktu tradycji (sądowego przekazania) części dóbr Trąbczyn z 1771 r. Stanisławowi Chełmskiemu dziedzicowi dóbr Łukomia i Łomowa przez Antoniego Prusimskiego"
+ },
+ {
+  "kind": "person",
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
   "surface": "Prusimskiemu",
@@ -4853,6 +4883,16 @@
   "kind": "person",
   "entity": "chemski",
   "display": "Chełmski",
+  "surface": "Chełmskim",
+  "work": "chodyla2015",
+  "passage": "28",
+  "line": 5,
+  "context": "[^34]: APP, Księgi sądów i urzędów grodzkich. Konin. Gr. 145 (r. 1776), k. 654-715(a zwłaszcza 692-693). Zob. też: Konin Gr. 114(l. 1765-1767), k. 297-297(wiz. pól i granic dóbr Trąbczyn); Konin. Gr. 153 (r. 1782), k. 1404-1404 v(dekret sądu komisarskiego w sprawie między Antonim Prusimskim starostą niszczewickim i Stanisławem Chełmskim skarbnikiem wschowskim, odbytego 17 X 1782 r. w domu olędra Marcina Hunta w Trąmpczyńskich Ol., nakazujący włączenie gospodarstwa tegoż olędra do dóbr Trąbczyn Prusimskiego). O przywieju lokacyjnym z 1746 r. wspomina też pozew dla Karoliny Fridenberg z Kolonii Starołazińskiej przed Trybunał Cywilny w Kaliszu z 7(19) X 1860 celem złożenia zeznań w sporze między właścicielem dób Trąbczyn hr. Władysławem Miączyńskim a kolonistami z Kolonii Staro – i Nowołazińskiej, APP, SAB 783."
+ },
+ {
+  "kind": "person",
+  "entity": "stanislaw-chelmski",
+  "display": "Stanisław Chełmski, Treasurer of Wschowa",
   "surface": "Chełmskim",
   "work": "chodyla2015",
   "passage": "28",

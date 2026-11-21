@@ -105,6 +105,28 @@
    "doc_line": 1
   },
   {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0673_a1",
+   "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0673_a1",
+   "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
@@ -120,6 +142,17 @@
    "display": "Katarzyna Prusimska, born Rozdrażewska",
    "kind": "person",
    "surface": "Prusimska",
+   "page": 2,
+   "page_id": "0673_a2",
+   "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
    "page": 2,
    "page_id": "0673_a2",
    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",

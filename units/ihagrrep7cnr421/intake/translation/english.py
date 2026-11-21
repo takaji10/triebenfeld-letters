@@ -13,9 +13,9 @@ Trąmpczyn, Gniezno for Gnesen; Mondro, the name as he signs it; "Mondo" in the 
 Marks of doubt ([?], [H?]) are kept where the original has them, on the
 word that renders the doubtful one; a word the transcription leaves
 unexplained but whose sense the passage fixes is rendered by that sense, as
-the translator's rules ask ("Aufläger" Your Majesty's court, "derung" to
-cover, "abregern" deduct, "umste ich ... vorschücken" I advanced, "Zabryki
-Zelazney" the iron works); words that stay unread are kept as written.
+the translator's rules ask; the editor's spot sheet (2026-11-21) has since
+settled most of them ("Hoflager", "Deckung", "abrechnen", "muste ich",
+"Fabryki"); words that stay unread are kept as written.
 write_cache.py puts the files into the translation cache.
 """
 import os
@@ -75,7 +75,7 @@ presented 5 October 1799. Copy.
 Decree
 
 in the case of von Chełmski ./. Prusimski. By copy of the decree, for resolution: it remains, on the ground""",
-        """of the entirely clear content of the judgment of revision, by the ruling of the 10th of this month, all the more as he otherwise treats this claim as a personal one. Kalisz, 27 Sept. 1799. Royal South Prussian Government Chancery. Copy of the decree to[?] K[r?]. R. Mondro, here.
+        """of the entirely clear content of the judgment of revision, by the ruling of the 10th of this month, all the more as he himself treats this claim as a personal one. Kalisz, 27 Sept. 1799. Royal South Prussian Government Chancery. Copy of the decree to[?] K[r?]. R. Mondro, here.
 
 3459.""",
     ],
@@ -139,7 +139,7 @@ criminal-court councillor
 No. 33.""",
         """ad no. 9.
 
-A copy of the resolution of 21 Oct. given to his principal is to be communicated to the Capit[?]. B[erlin], 23 Dec. [17]99. de conclusi eodem
+A copy of the resolution of 21 Oct. given to his principal is to be communicated to the criminal-court councillor. B[erlin], 23 Dec. [17]99. ita conclus. eod.
 
 [Willen?]""",
     ],
@@ -151,7 +151,7 @@ Kalisz, 1 December 1799.
 
 Most Serene etc. As early as 9 October this year my client, the landowner v Chełmski, submitted to Your Royal Majesty a complaint against the Government here over the improper dismissal of a suit brought against the Fiscus concerning a claim of 12,000 ducats, and most humbly asked for a hearing at law. As no preliminary ruling has followed yet, I make bold to petition Your Most High Majesty again on this matter. The decrees of the Government plainly rest on a misunderstanding, in that they confuse the suit that v. Chełmski first brought against the Prince of Hohenlohe, as present owner of the Trąbczyn estates confiscated from Prusimski, with the present one, which is directed against the Fiscus alone.
 
-That the claim of 12,000 ducats cannot be sued for against the Prince of Hohenlohe-Ingelfingen, my client understands of himself. On the other hand the Court Rescript of 17 September 1796 in no way prevents him from claiming the said capital from the Fiscus, under the clear provision of the Most High Cabinet Order of the 10th of the same month and year.
+That the claim of 12,000 ducats cannot be sued for against the Prince of Hohenlohe-Ingelfingen, my client understands of himself. On the other hand the Court Rescript of 17 September 1796 in no way prevents him from claiming the said capital from the Fiscus, under the clear provision of the Most High Cabinet Order of the 16th of the same month and year.
 
 If, moreover, the Government follows the letter of the Court Rescript, which is not binding in itself, it nonetheless cannot refuse v. Chełmski a hearing at law in this matter, since this very Rescript expressly lays down that if the party does not rest content with the dismissal by decree, the taking of evidence is to be opened and the matter formally adjudged. This, in my opinion, must happen in every legal matter where""",
         """the party cannot be convinced that the dismissal was lawful.
@@ -172,25 +172,25 @@ criminal-court councillor.""",
 
 Most Serene etc. Poznań, 19 March 1799. Suit of Stanisl[aus] von Chełmski of Łukom near Pyzdry ./. the Starost Anton v Prusimski of Trąbczyn, concerning 12,000 ducats ex Chirographo.
 
-On 16 June 1794 I advanced to the Starost Anton von Prusimski of Trąbczyn, Nowawies, Osiny and the Trąbczyn Hollanders 12,000 ducats for one year, namely until St John's Day 1795, for which he handed me the blank note enclosed in copy, in the presence of Jacob von Bieńkowski of Mierzewo near Gniezno and of Antonius v Przeradzki. At the loan itself it was agreed[?] between me and the defendant debtor, in the presence of those witnesses, that if the repayment[?] of these 12,000 ducats did not follow on the date fixed for payment, I might treat the said""",
-        """blank note as a contractus antichreticus and take possession of the estates listed as a pledge. Payment[?] did not in fact follow on the date agreed, re[?]ha[l?]lich at St John's Day last year, and I therefore took possession of these estates at that time.
+On 16 June 1794 I had to advance to the Starost Anton von Prusimski of Trąbczyn, Nowawies, Osiny and the Trąbczyn Hollanders 12,000 ducats for one year, namely until St John's Day 1795, for which he handed me the blank note enclosed in copy, in the presence of Jacob von Bieńkowski of Mierzewo near Gniezno and of Antonius v Przeradzki. At the loan itself it was agreed[?] between me and the defendant debtor, in the presence of those witnesses, that if the repayment of these 12,000 ducats did not follow on the date fixed for payment, I might treat the said""",
+        """blank note as a contractus antichreticus and take possession of the estates listed as a pledge. Payment[?] did not in fact follow on the date agreed, namely at St John's Day last year, and I therefore took possession of these estates at that time.
 
 Meanwhile my debtor was charged by the Fiscus with taking part in the insurrection that broke out in this province in 1794, and because he has not even yet returned, his property was to be seized by the Fiscus in the month of May last year, which I had forestalled only by taking possession of the said estates in the month of June.
 
 The Fiscus did then bring a suit for eviction before Your Royal Majesty on 7 December 1795, and a hearing on it was set for the 27th""",
-        """27 February this year before Your Most High Government; but at it the following settlement was reached between me and the Fiscus: that I am to sequestrate the oft-mentioned estates, first deduct the interest for delay at 7 per cent from the income, but then render account, while still pursuing [?]a[i?]e[?] claims[?] at law.
+        """27 February this year before Your Most High Government; but at it the following settlement was reached between me and the Fiscus: that I am to sequestrate the oft-mentioned estates, first deduct the interest for delay at 7 per cent from the income, but then render account, while still pursuing my claims at law.
 
 Before Your Royal Majesty I therefore bring my suit against the Starost Anton von Prusimski for these 12,000 ducats, with the request that a hearing to take evidence be appointed, and that the defendant be not only summoned to it but also condemned both to pay the 12,000 ducats owed and to pay interest for delay at 7 per cent, with costs.
 
 In proof of the correctness of the loan, and that he stipulated taking possession of the pledge in""",
-        """case of non-payment on the fixed date, I refer also to the witnesses proposed above, and at the same time most humbly[?] ask that they[?] be heard[?], and that this my suit be deemed sufficiently substantiated. who am etc.
+        """case of non-payment on the fixed date, I refer also to the witnesses proposed above, whom I at the same time most humbly[?] ask to have examined, and that this my suit be deemed sufficiently substantiated. who am etc.
 
 Your Royal Majesty
 
 etc.
 
 v Chełmski.""",
-        """Copy. The blank note named below, signed with my own hand, wishing all the more to secure the date of its payment and to set at rest the concern of the Honourable Lord Chełmski, the Skarbnik, about being paid on the eve of St John the Baptist in the year 1795, I give this present undertaking of my free will and na wgystnie, that if on the date I do not pay the 12,000 ducats named below in good Dutch gold ring ducats, without interest, I permit free entry into my[?] estates, that is the villages of Trąbczyn, Nowawies, Osiny, the village of Zaro[Zosob?]ney, Łazy and all the Hollanders belonging to this estate, excepting no village, forest or wood, except the iron works, the magazine and the stores of timber needed for them; which estates named above the Honourable Lord Chełmski shall hold in lieu of interest, without any account, until this sum, expressed in this blank note[?], turned to my use and taken in cash before witnesses, is repaid; and I wish this undertaking to have[?] such force as though it had been made before a court of my own. Given[?] at Łukom, 16 June 1794 [R?]a.
+        """Copy. The blank note named below, signed with my own hand, wishing all the more to secure the date of its payment and to set at rest the concern of the Honourable Lord Chełmski, the Skarbnik, about being paid on the eve of St John the Baptist in the year 1795, I give this present undertaking of my free will and deliberately, that if on the date I do not pay the 12,000 ducats named below in good Dutch gold ring ducats, without interest, I permit free entry into my[?] estates, that is the villages of Trąbczyn, Nowawies, Osiny, the village of Zaro[Zosob?]ney, Łazy and all the Hollanders belonging to this estate, excepting no village, forest or wood, except the iron works, the magazine and the stores of timber needed for them; which estates named above the Honourable Lord Chełmski shall hold in lieu of interest, without any account, until this sum, expressed in this blank note[?], turned to my use and taken in cash before witnesses, is repaid; and I wish this undertaking to have[?] such force as though it had been made before a court of my own. Given[?] at Łukom, 16 June 1794 [R?]a.
 
 Mazący to the Honourable Lord Stanisław Chełmski S. W. a blank note for 12,000 Dutch ring ducats. Antoni Prusimski
 

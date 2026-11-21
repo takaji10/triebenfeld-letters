@@ -6398,3 +6398,12 @@ sources-icon.html`).
 - The editor: "In some places I thought it was Mondro, and others Mondio. Can you please fix my mistakes?"
 - Every place read against the scans: his signature (0010_a1, 0012_a1), the decree copies, the petition's docket and the draft all read "Mondro". Five readings corrected (`intake/holding.py`, CORRECTIONS); the registry's "conc Mondo" under document 1 stands as written.
 - The English, the summaries, the holding page, the notes, the connection note and the docs follow; the person entry `mondro` now tags him in documents 2, 4, 5 and 7. Spot sheet: q22 removed (21 readings), d2 asks only whether he is the man of Nr. 3705. The site verifies clean.
+
+## 2026-11-21 - I. HA GR, Rep. 7 C, Nr. 421: the editor's folds and spot sheet applied
+
+- The folds and edges the editor saved (`folds_ihagrrep7cnr421.json`) applied: the 24 pages cut again, staged, web images remade.
+- The spot sheet's 21 readings applied through `intake/holding.py` (CORRECTIONS): fourteen changed (among them "Hoflager", "Deckung", "selbst", the copy's "16t", "Rük¬ / zalung", "Fabryki", "Crim. R.", "ita conclus. eod."), six kept (the cover's 21, the suit's 1799 among them); q17, which the editor could not read, read by Claude as "na umyslnie" (naumyślnie, deliberately), to be confirmed.
+- The English and two summaries follow; one old doubt mark kept where the German keeps it.
+- A new person entry and page, `stanislaw-chelmski` (the editor: the Stanisław of the boundary decree of 1775): Stanisław Ścibor Chełmski, Treasurer of Wschowa, 67 documents 1763-1815; bio in both languages; his page with his parents, wife and son from Boniecki and the database; his mother's page links to it; four literature hits ruled.
+- Mondro of 1799 is the Mondro of 1805 (the editor): his identity and bio say so. The connection `chelmski-suit-against-hohenlohe` kept.
+- The site verifies clean (656 documents).

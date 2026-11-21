@@ -2135,20 +2135,20 @@ The one finding that touches the edition:
 
 Read `units/ihagrrep7cnr421/notes.md` first.
 
-1. **The fold page and the spot sheet wait on the editor**
-   (`review/ihagrrep7cnr421/folds/index.html`,
-   `review/ihagrrep7cnr421/spot_sheet.html`): 21 readings and 3 decisions.
-   The readings that matter most: the cover's date (q1, 21 against the
-   editor's 24); the cabinet order's day in the copy (q8, 10 or 16); the
-   suit's year (q9); in the Polish bond "Swiętey",
-   "wgystnie", "Zabryki" (q16-q18).
+1. **The fold page and the spot sheet: answered and applied 2026-11-21.**
+   Open from them: q17, the word in the Polish bond the editor could not
+   read, is Claude's "na umyslnie" (naumyślnie, deliberately), to be
+   confirmed; q20, "geworden" kept as the letters stand though the grammar
+   wants "gewordenen" (the ending perhaps a clerk's stroke).
 2. **The suit's date (document 6).** The copy reads "Posen den 19ten Maert
    1799", but the suit's own words fit 1796: the Fiscus's eviction suit of
    7 December 1795, a hearing "27. Februar c." (of the current year), and
    payment "zu Johanni v. J." (last year), where the bond had it due at
    St John's Day 1795; and Mondro says Chełmski sued Prusimski before the
-   judgment of confiscation. The document stands under 19 March 1799, the
-   date it bears (the documents first), until the editor reads the digit.
+   judgment of confiscation. The editor reads the digit as 9 (spot sheet
+   q9, 2026-11-21): the document stands under 19 March 1799, and the
+   difference with its own chronology stays open (a copy misdated, or the
+   suit brought again in 1799).
 3. **12,000 or 36,000 ducats.** Chełmski's petition and suit and Prusimski's
    bond give the loan as 12,000 ducats; Triebenfeld's memorandum of 1815
    (Oe 1 Bü 9454, 286 a) says Trąbczyn was pledged "an den v. Chełmski für
@@ -2156,19 +2156,22 @@ Read `units/ihagrrep7cnr421/notes.md` first.
    later and second-hand.
 4. **The cabinet order on the insurgents' debts.** Its day stands as the
    14th of September 1796 in Chełmski's petition, the 16th in Mondro's
-   petition and the 10th in its copy (q8). The edition does not hold the
+   petition and in its copy (the editor, q8). The edition does not hold the
    order or the rescript of 17 September 1796.
-5. **The connection `chelmski-suit-against-hohenlohe`** (proposed, d3):
-   built; keep or drop. Its notes do not equate Triebenfeld's "second
+5. **The connection `chelmski-suit-against-hohenlohe`**: kept (the editor,
+   d3). Its notes do not equate Triebenfeld's "second
    instance" (March 1799) with Chełmski's judgment of revision: in Prussian
    procedure the revision was the third instance.
-6. **Person entries** (d1, d2): Stanisław Chełmski of Łukom, skarbnik,
-   stays in the family entry `chemski` until the editor rules; whether he is
-   the Stanisław of the boundary decree of 1775 and of Boniecki is open.
-   Mondro: the existing entry (Nr. 3705, the Prince's attorney in 1805) very
-   probably is Chełmski's lawyer of 1799 (Claude). His name is settled as
-   Mondro (the editor asked Claude to fix the readings; his signature), so
-   the entry tags him in documents 2, 4, 5 and 7.
+6. **Person entries** (d1, d2, ruled 2026-11-21): Stanisław Chełmski is the
+   Stanisław of the boundary decree of 1775 (the editor) and has his own
+   entry and page, `stanislaw-chelmski`. Open, Claude's: that the Chełmski of
+   Triebenfeld's letters 75, 102, 103 and of the memorandum of 1815 (Oe 1 Bü
+   9454, 286) is he, which the entry takes from the connection; and the bare
+   surname in the court books of 1766-1788, which the entry tags as his in
+   every document that names him by forename or title. Boniecki gives him a
+   son Franciszek Ksawery, the database a Franciszek Ksawery son of his
+   brother Tomasz: both on his page. Mondro of 1799 is the Mondro of 1805
+   (the editor); his name settled from his signature.
 7. **The glossary entry `fiscus`** (new, checked: false): to be read
    against Krünitz when the dictionary hosts are reachable.
 

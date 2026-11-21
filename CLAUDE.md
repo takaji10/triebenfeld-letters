@@ -129,10 +129,13 @@ so check them.
   as front matter; era `hohenlohe`. The editor's transcription checked by
   four Sonnet readers and Claude (133 corrections); translated, summarised
   and claim-checked in session; glossary entry `fiscus`; one proposed
-  connection (`chelmski-suit-against-hohenlohe`, with Oe 1 Bü 9454). **Waiting
-  on the editor: the fold page and the spot sheet** (21 readings, 3
-  decisions; `review/ihagrrep7cnr421/`). Read `units/ihagrrep7cnr421/notes.md`
-  first, and WORKING_NOTES, "I. HA GR, Rep. 7 C, Nr. 421".
+  connection (`chelmski-suit-against-hohenlohe`, with Oe 1 Bü 9454), kept. The
+  lawyer's name settled as Mondro. The editor's folds and spot sheet applied
+  2026-11-21: a new person entry and page, `stanislaw-chelmski` (the
+  Stanisław of 1775 and 1799, Treasurer of Wschowa, 67 documents). Open: q17
+  ("na umyslnie", Claude's), NEEDS_CONFIRMATION. Read
+  `units/ihagrrep7cnr421/notes.md` first, and WORKING_NOTES, "I. HA GR, Rep. 7
+  C, Nr. 421".
 
 - **I. HA GR, Rep. 7 C, Nr. 3132 - Prusimski's and Jezierski's leave to
   return, 1803** (slug `ihagrrep7cnr3132`, added 2026-11-20, branch

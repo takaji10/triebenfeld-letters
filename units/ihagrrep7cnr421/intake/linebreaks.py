@@ -24,7 +24,7 @@ JOIN = {
     ('Ur', 'tel'), ('dies', 'fällige'), ('Perso', 'nalklagen'), ('Par', 'teyen'),
     ('De', 'signa'), ('Prin', 'zipien'), ('Re', 'visions'), ('Aller', 'höch'),
     ('Hau', 'länder'), ('Mier', 'zewo'), ('b', 'redet'), ('Ter', 'mino'),
-    ('l', 'lich'), ('hab', 'h'), ('sub', 'stantiirt'), ('one', 'goż'),
+    ('sub', 'stantiirt'), ('one', 'goż'),
     ('za', 'latwi'), ('wy', 'rażone'), ('kal', 'kulacyi'),
 }
 REASON = 'hand: a word broken at the line end (Claude, 2026-11-21)'
