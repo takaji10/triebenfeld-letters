@@ -1,7 +1,7 @@
 ---
 layout: place
 place: "anielewo"
-title: "Anielewo (Ingelfingen)"
+title: "Ingelfingen, Kolonia (Ingelfingen)"
 lang: de
 permalink: "/de/orte/anielewo/"
 alt_url: "/places/anielewo/"
@@ -29,7 +29,7 @@ Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded 
 
 <div class="place-map">
 <div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78693%2C52.084109%2C17.82693%2C52.124109000000004&amp;layer=mapnik&amp;marker=52.104109%2C17.80693" title="Anielewo (Ingelfingen)" loading="lazy"></iframe>
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.78693%2C52.084109%2C17.82693%2C52.124109000000004&amp;layer=mapnik&amp;marker=52.104109%2C17.80693" title="Ingelfingen, Kolonia (Ingelfingen)" loading="lazy"></iframe>
 </div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.104109&amp;mlon=17.80693#map=15/52.104109/17.80693" rel="noopener">{{ t.map_link }}</a></p>
 </div>

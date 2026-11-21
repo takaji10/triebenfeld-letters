@@ -1,6 +1,6 @@
 # Plan: the place-name databases against the gazetteer
 
-Status (2026-11-21): **steps 1 to 5 done, step 6 open.** Agreed with the
+Status (2026-11-21): **all six steps done** (step 6, the candidates, answered by the editor and applied 2026-11-21). Agreed with the
 editor 2026-10-24, the rulings of section 8 in the same day. Steps 1, 2 and
 4 were made on the branch `place-name-sources` (24-25 October); steps 3 and
 5 were done on `main` on 26-27 October: the editor answered the match sheet

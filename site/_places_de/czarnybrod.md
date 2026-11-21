@@ -20,7 +20,7 @@ hits_docs_count: 0
 
 *Dated forms of the name:* *Czarnybród*; *Stary Młyn* [^10]; *Czarny Bród* 1921 [^11]; *Czarnybród Czarnegobrodu* 1980 [^11].
 
-Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an Olęder settlement which likely belonged to the Biskupice estate. Notes on the Grodziec Catholic parish taken by geographer Karól Perthées mentioned a possible alternative name of Czarnybród as *Stary Młyn*.[^10] *Czarnybrod Hol.* (Gilly 1802); *Kol. Czarnybrod* (Richter 1843). Nazwy miejscowe Polski records the name as *Czarny Brod* by 1802, later as *Czarnybród Czarnegobrodu* (1980).[^11]
+Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an Olęder settlement which likely belonged to the Biskupice estate. Notes on the Grodziec Catholic parish taken by geographer Karól Perthées mentioned a possible alternative name of Czarnybród as *Stary Młyn*.[^10] *Czarnybrod Hol.* (Gilly 1802); *Kol. Czarnybrod* (Richter 1843). Nazwy miejscowe Polski records it as *Czarny Brod* in 1802 and *Czarnybród* (genitive *Czarnegobrodu*) in 1980.[^11]
 
 [^10]: *Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w roku 1796,"* 127 (Image 255)
 

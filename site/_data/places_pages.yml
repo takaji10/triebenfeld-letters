@@ -27,10 +27,10 @@ altenburg:
   intro_de: ''
   sources: []
 anielewo:
-  heading: Anielewo (Ingelfingen)
-  heading_de: Anielewo (Ingelfingen)
-  standfirst_en: Village southwest of Łukom, once named Ingelfingen.
-  standfirst_de: Dorf, früher Ingelfingen genannt.
+  heading: Ingelfingen, Kolonia (Ingelfingen)
+  heading_de: Ingelfingen, Kolonia (Ingelfingen)
+  standfirst_en: Place southwest of Łukom, once named Ingelfingen.
+  standfirst_de: Ort, früher Ingelfingen genannt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -275,10 +275,10 @@ budy:
   intro_de: ''
   sources: []
 bukowe:
-  heading: Bukowe
-  heading_de: Bukowe
-  standfirst_en: Village east of Łukom.
-  standfirst_de: Dorf.
+  heading: Łomówskie Olędry
+  heading_de: Łomówskie Olędry
+  standfirst_en: Place east of Łukom.
+  standfirst_de: Ort.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -387,10 +387,10 @@ czestochowa:
   intro_de: ''
   sources: []
 dluga-gorka:
-  heading: Długa Górka
-  heading_de: Długa Górka
-  standfirst_en: Isolated dwellings south of and belonging to Wrąbczyn.
-  standfirst_de: Einzelsiedlung.
+  heading: Siodmagorka
+  heading_de: Siodmagorka
+  standfirst_en: Place south of and belonging to Wrąbczyn.
+  standfirst_de: Ort.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -659,18 +659,18 @@ holland:
   intro_de: ''
   sources: []
 huta-lukomska:
-  heading: Huta Łukomska
-  heading_de: Huta Łukomska
-  standfirst_en: Village south of Łukom.
-  standfirst_de: Dorf.
+  heading: Stara Huta Olędry
+  heading_de: Stara Huta Olędry
+  standfirst_en: Place south of Łukom.
+  standfirst_de: Ort.
   intro_en: ''
   intro_de: ''
   sources: []
 huta-trabczynska:
-  heading: Huta Trąbczyńska
-  heading_de: Huta Trąbczyńska
-  standfirst_en: Hamlet west of and belonging to Łazińsk Drugi.
-  standfirst_de: Weiler.
+  heading: Stara Huta Olędry
+  heading_de: Stara Huta Olędry
+  standfirst_en: Place west of and belonging to Łazińsk Drugi.
+  standfirst_de: Ort.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -683,10 +683,10 @@ imielanka:
   intro_de: ''
   sources: []
 imielno:
-  heading: Imielno
-  heading_de: Imielno
-  standfirst_en: Village north of Łukom.
-  standfirst_de: Dorf.
+  heading: Imielno Olędry
+  heading_de: Imielno Olędry
+  standfirst_en: Place north of Łukom.
+  standfirst_de: Ort.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -843,10 +843,10 @@ kolno:
   intro_de: ''
   sources: []
 kolonia-wrabczyn:
-  heading: Kolonia Wrąbczyn
-  heading_de: Kolonia Wrąbczyn
-  standfirst_en: Settlement northwest of Wrąbczynek.
-  standfirst_de: Siedlung.
+  heading: Kolonie Wrombczyn
+  heading_de: Kolonie Wrombczyn
+  standfirst_en: Place northwest of Wrąbczynek.
+  standfirst_de: Ort.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1403,10 +1403,18 @@ noga:
   intro_de: ''
   sources: []
 nowawies-trabczyn:
-  heading: Nowa Wieś
-  heading_de: Nowa Wieś
-  standfirst_en: Village west of Trąbczyn.
-  standfirst_de: Dorf.
+  heading: Trąbczyn Mały
+  heading_de: Trąbczyn Mały
+  standfirst_en: Place west of Trąbczyn.
+  standfirst_de: Ort.
+  intro_en: ''
+  intro_de: ''
+  sources: []
+odpadki:
+  heading: Odpadki
+  heading_de: Odpadki
+  standfirst_en: Settlement.
+  standfirst_de: Siedlung.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -1427,10 +1435,10 @@ ofen:
   intro_de: ''
   sources: []
 olchowo:
-  heading: Olchowo (Sophienthal)
-  heading_de: Olchowo (Sophienthal)
-  standfirst_en: Village northeast of Zagórów, once named Sophienthal.
-  standfirst_de: Dorf, früher Sophienthal genannt.
+  heading: Sophienthal, Kolonia (Sophienthal)
+  heading_de: Sophienthal, Kolonia (Sophienthal)
+  standfirst_en: Place northeast of Zagórów, once named Sophienthal.
+  standfirst_de: Ort, früher Sophienthal genannt.
   intro_en: ''
   intro_de: ''
   sources: []
@@ -2154,6 +2162,14 @@ trzcianne:
   intro_en: ''
   intro_de: ''
   sources: []
+tumidaj:
+  heading: Tumidaj
+  heading_de: Tumidaj
+  standfirst_en: Tavern.
+  standfirst_de: Kretscham.
+  intro_en: ''
+  intro_de: ''
+  sources: []
 ujest:
   heading: Ujazd
   heading_de: Ujest
@@ -2247,6 +2263,14 @@ wielki-bor-obreb:
   heading_de: Wielki-Bór Obręb
   standfirst_en: Forest precinct southwest of Łazińsk Pierwszy.
   standfirst_de: Forstrevier.
+  intro_en: ''
+  intro_de: ''
+  sources: []
+wielki-las:
+  heading: Wielki Las
+  heading_de: Wielki Las
+  standfirst_en: Settlement.
+  standfirst_de: Siedlung.
   intro_en: ''
   intro_de: ''
   sources: []

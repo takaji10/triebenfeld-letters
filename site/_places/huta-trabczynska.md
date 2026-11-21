@@ -1,7 +1,7 @@
 ---
 layout: place
 place: "huta-trabczynska"
-title: "Huta Trąbczyńska"
+title: "Stara Huta Olędry"
 lang: en
 permalink: "/places/huta-trabczynska/"
 alt_url: "/de/orte/huta-trabczynska/"

@@ -1207,6 +1207,25 @@ def main():
         if _rec.get('area') == 'trabczyn-zagorow' and _slug not in _seen:
             _tier1.append(_row(_slug, _rec.get('display') or _slug))
             _seen.add(_slug)
+    # The editor's cross-references ("Ingelfingen, Kolonia - see Anielewo"):
+    # the gazetteer keeps them as `aliases` (the import of 2026-10-23 and the
+    # editor's ruling of 2026-11-21, "with cross-references to these
+    # entries"); each stands in tier 1 as a line pointing to its entry. An
+    # alias that is now an entry's own heading, or only the target's heading
+    # without its marks (Swiatniki), is left out.
+    def _fold(_s):
+        _s = (_s or '').replace('ł', 'l').replace('Ł', 'L')
+        return ''.join(_c for _c in unicodedata.normalize('NFKD', _s)
+                       if not unicodedata.combining(_c)).casefold().strip()
+    _headings = {_fold(_g.get('heading')) for _g in _gaz.values()}
+    for _gslug, _g in _gaz.items():
+        _target = _g.get('register') or _gslug
+        for _alias in _g.get('aliases') or []:
+            if _fold(_alias) in _headings:
+                continue
+            _tier1.append({'slug': _target, 'name': _alias, 'name_de': _alias,
+                           'see': _g.get('heading') or _gslug, 'kind_en': '', 'kind_de': '',
+                           'german': ''})
     _tier1.sort(key=lambda x: x['name'].lower())
     _tier2 = []
     for _slug, _rec in _place_recs.items():

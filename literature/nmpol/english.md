@@ -10,7 +10,7 @@ The entry records it as a village, gmina Zagórów, powiat koniński; the forms 
 
 ## Bukowe [Nazwy miejscowe Polski, t. 1, p. 491]
 
-The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Bukowo* (1827) to *Bukowe* (1967)
+Village, gm. Zagórów. Forms: Bukowe 1802; Bukowo 1827, 1880, 1921; Bukowe 1839, 1967, 1980. From buk, beech
 
 ## Anielewo [Nazwy miejscowe Polski, t. 1, p. 66]
 
@@ -22,7 +22,7 @@ The entry records it as a village, gmina Zagórów, powiat koniński; the forms 
 
 ## Smoleniec [Nazwy miejscowe Polski, t. 14, p. 176]
 
-The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Łukomiem a Myszkowem* (1578) to *ńca* (1982). Etymology, in English summary: see the Polish (formulaic; not rendered here)
+Part of Koszelewska Łąka, gm. Zagórów. Forms: Smoliniec 1783-84; Smoleniec 1802 onwards. Taken from a meadow, Smolieniecz (1578); from smolany, tarry
 
 ## Stanisławów [Nazwy miejscowe Polski, t. 15, p. 139]
 
@@ -30,11 +30,11 @@ The entry records it as a village, gmina Zagórów, powiat koniński; the forms 
 
 ## Stawisko [Nazwy miejscowe Polski, t. 15, p. 223]
 
-The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Stawisku* (1834) to *Stawisko* (1877)
+Settlement, formerly a village, gm. Zagórów. Forms: Stawisko 1834 (na Stawisku), Fol. Stawisko 1839, to 1982
 
 ## Czarnybród [Nazwy miejscowe Polski, t. 2, p. 196]
 
-The entry records it as a village, gmina Grodziec, powiat koniński; the forms run from *Czarny Brod* (1802) to *Czarnybród Czarnegobrodu* (1980)
+Village, gm. Grodziec. Forms: Czarny Brod 1802 to Czarnybród (gen. Czarnegobrodu) 1980
 
 ## Długa Górka [Nazwy miejscowe Polski, t. 2, p. 347]
 
@@ -46,7 +46,7 @@ The entry records it as a village, gmina Zagórów, powiat koniński; the forms 
 
 ## Chruściki [Nazwy miejscowe Polski, t. 2, p. 92]
 
-The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Crosczino* (1386) to *ściński* (1970)
+Village, gm. Zagórów. Forms: Adelhof 1802; Chruściki 1900, 1980. German name from Adela, daughter of the Prince of Hohenlohe-Ingelfingen; Polish name official from 1891
 
 ## Grądzeń [Nazwy miejscowe Polski, t. 3, p. 362]
 
@@ -54,7 +54,7 @@ The entry records it as a settlement; the forms run from *Grzandzen* (1365) to *
 
 ## Imielno [Nazwy miejscowe Polski, t. 3, p. 529]
 
-The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Imielna* (1859) to *Imielno* (1882)
+Village, gm. Zagórów. Forms: Gemelne 1461-82; Imielno Łukomskich 1559-61; Imielna 1859; Imielno 1877, 1980
 
 ## Kopojno [Nazwy miejscowe Polski, t. 5, p. 127]
 
@@ -66,7 +66,7 @@ The entry records it as a village, gmina Zagórów, powiat koniński; the forms 
 
 ## Mariantów [Nazwy miejscowe Polski, t. 6, p. 523]
 
-The entry records it as a village, gmina Zagórów, powiat koniński; the forms run from *Marjantów* (1877) to *Marjantów tów* (1921)
+Village, gm. Zagórów. Forms: Marjantów 1877, Maryantów 1885, Marjantów 1921, Mariantów 1981
 
 ## Myszaków [Nazwy miejscowe Polski, t. 7, p. 309]
 
@@ -91,3 +91,7 @@ The entry records it as a village, gmina Zagórów; the forms run from *Olieszny
 ## Podbiel [Nazwy miejscowe Polski, t. 9, p. 16]
 
 The entry records it as a village, gmina Zagórów, powiat koniński. Etymology, in English summary: see the Polish (formulaic; not rendered here)
+
+## Białobrzeg [Nazwy miejscowe Polski, t. 1, p. 192]
+
+Village with the settlement B. Ratajski, gm. Pyzdry, 10 km W of Zagórów. Forms: the mill Biało-Brzeski 1547 to Bialobrzeg 1980. From biały brzeg, white bank; Pietrzykowski, Ratajski from Pietrzyków and Rataje

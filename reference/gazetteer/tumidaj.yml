@@ -1,0 +1,29 @@
+slug: tumidaj
+heading: Tumidaj
+register: null
+status: historical
+kind: tavern
+kind_text: Tavern
+location:
+  text: "an inn in the Słownik era, gmina Trąbczyn, parish of Zagórów, powiat słupecki"
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+text_en: "Tavern in the gmina of Trąbczyn at the time of the Słownik. The Słownik geograficzny records it as an inn settlement (Pl. *osada karczemna*), gmina Trąbczyn, parish of Zagórów, powiat słupecki, 22 versts from Słupca, with 1 house and 1 inhabitant.[^1]"
+names:
+- form: "Tumidaj"
+  year: null
+  note: "heading"
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XII, p. 623
+  refs:
+  - source: slownik
+    locator: t. XII, p. 623
+    status: missing
+  note: null
+review: []

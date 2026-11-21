@@ -1,7 +1,7 @@
 ---
 layout: place
 place: "kolonia-wrabczyn"
-title: "Kolonia Wrąbczyn"
+title: "Kolonie Wrombczyn"
 lang: de
 permalink: "/de/orte/kolonia-wrabczyn/"
 alt_url: "/places/kolonia-wrabczyn/"
@@ -18,9 +18,9 @@ hits_docs_count: 0
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 
-*Dated forms of the name:* *Kolonia Wrąbczyn*; *Kolonie Wrombczyn* [^2].
+*Dated forms of the name:* *Kolonia Wrąbczyn*; *Kolonie Wrombczyn* [^2]; *Wrąbczyńskie Holendry* [^5].
 
-German colony northwest of Wrąbczynek, not to be confused with Wrąbczynkowskie Holendry, the older Olęder settlement west of Wrąbczyn, or with Wrąbczyn Górski on the road from Wrąbczyn to Wrąbczynek. It was one of the colonies founded on the estates of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, after his general agent Triebenfeld let 100 Hufen of forest to eighteen German settlers in hereditary lease.[^1] Breyer and Wąsicki name *Kolonie Wrombczyn* (*kolonia Wrąbczyn*) among the German villages that came about in this way, with Ingelfingen, Emilienheim, Augustinhof and Schwentz on the upland beside the Warta valley.[^2][^3] Chodyła counts Wrąbczyn among the colonies whose settlers came chiefly from Silesia and in smaller part from the Neumark.[^4] *Колонія Вромбчинъ* (Mapa dróg 1890).
+German colony northwest of Wrąbczynek, not to be confused with Wrąbczynkowskie Holendry, the older Olęder settlement west of Wrąbczyn, or with Wrąbczyn Górski on the road from Wrąbczyn to Wrąbczynek. It was one of the colonies founded on the estates of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, after his general agent Triebenfeld let 100 Hufen of forest to eighteen German settlers in hereditary lease.[^1] Breyer and Wąsicki name *Kolonie Wrombczyn* (*kolonia Wrąbczyn*) among the German villages that came about in this way, with Ingelfingen, Emilienheim, Augustinhof and Schwentz on the upland beside the Warta valley.[^2][^3] Chodyła counts Wrąbczyn among the colonies whose settlers came chiefly from Silesia and in smaller part from the Neumark.[^4] *Колонія Вромбчинъ* (Mapa dróg 1890). The Słownik geograficzny records it as *Wrąbczyńskie Holendry*, a colony, gmina Emilienheim, parish of Zagórów, powiat słupecki, 17 versts from Słupca, with 8 houses and 61 inhabitants.[^5]
 
 [^1]: APP 53/968/0/-/801, document 3 (the hereditary lease of 21 March 1806)
     [The document.](/documents/app539680801/3/)
@@ -34,12 +34,14 @@ German colony northwest of Wrąbczynek, not to be confused with Wrąbczynkowskie
 [^4]: Chodyła, Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746-1793 (2015), p. 147
     [The document.](/literature/chodyla2015/#p-147)
 
+[^5]: Słownik geograficzny, t. XIV, p. 16
+
 </div>
 {% endraw %}
 
 <div class="place-map">
 <div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.807287%2C52.159927999999994%2C17.847286999999998%2C52.199928&amp;layer=mapnik&amp;marker=52.179928%2C17.827287" title="Kolonia Wrąbczyn" loading="lazy"></iframe>
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.807287%2C52.159927999999994%2C17.847286999999998%2C52.199928&amp;layer=mapnik&amp;marker=52.179928%2C17.827287" title="Kolonie Wrombczyn" loading="lazy"></iframe>
 </div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.179928&amp;mlon=17.827287#map=15/52.179928/17.827287" rel="noopener">{{ t.map_link }}</a></p>
 </div>

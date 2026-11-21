@@ -1,0 +1,29 @@
+slug: wielki-las
+heading: Wielki Las
+register: null
+status: historical
+kind: settlement
+kind_text: Forestry settlement
+location:
+  text: "a forestry settlement in the Słownik era, gmina and parish of Trąbczyn, powiat słupecki"
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+text_en: "Forestry settlement in the gmina of Trąbczyn at the time of the Słownik, one house. The Słownik geograficzny records it as a forestry settlement, gmina and parish of Trąbczyn, powiat słupecki, 19 versts from Słupca, with 1 house and 6 inhabitants.[^1]"
+names:
+- form: "Wielki Las"
+  year: null
+  note: "heading"
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XIII, p. 340
+  refs:
+  - source: slownik
+    locator: t. XIII, p. 340
+    status: missing
+  note: null
+review: []

@@ -8,9 +8,9 @@ Dziadolina, os. , pow. słupecki, gm. Trąbczyn, par. Zagórów.
 
 Garbin, wś, pow. słupecki, gm. i par. Trąbczyn. Garbnick niem. , folw. , pow. rastemborski, st. p. Doenhofstaedt. Garbnicken niem. . folw. , pow. frylądzki, st. p. Domnau.
 
-## Wymysłów [Słownik geograficzny, t. II, p. 765]
+## Wymysłów [Słownik geograficzny, t. XIV, p. 98, sub 13]
 
-Wymysłów, Zawada, Zielonka i Zychorzyn. W. M. Goździkowo, folw. , pow. słupecki, gm. milienheim par. Rzgów. Goździkowo, ob.
+13. W. , os. nad rz. Wartą, pow. słupecki, gm. i par. Zagórów, odl. od Słupcy 12 w. , ma 3 dm. , 23 mk. W 1827 r. 2 dm. , 13 mk.
 
 ## Grabina [Słownik geograficzny, t. II, p. 771, sub 10]
 
@@ -151,3 +151,39 @@ Tarszewo, fol, pow. słupecki. Do r. 1891 miało nazwę Friedrichsfeld. Ob. Emil
 ## Zalesie [Słownik geograficzny, t. XVI, p. 711, sub 1]
 
 Zalesie 1. kol. , pow. słupecki, gm. Oleśnica, ma 5 dm. , 59 mk. Do r. 1891 nosiła nazwę Adolfberg, ob. Emilienheim. 2. Z. wś, pow. mławski, par. Sarnowo, ob. Łążek.
+
+## Odpadki [Słownik geograficzny, t. VII, p. 386, sub 1]
+
+Odpadki 1. os, pow. słupecki, gm. Emilienhajm, par. Zagórów, odl. od Słupcy 15 1/2 w.
+
+## Tumidaj [Słownik geograficzny, t. XII, p. 623, sub 5]
+
+5. T. , os. karcz, , pow. słupecki, gm. Trąbczyn, par. Zagórów, odl. od Słupcy 22 w. , 1 dm. , 1 mk.
+
+## Wielki Las [Słownik geograficzny, t. XIII, p. 340, sub 2]
+
+2. W. L. , leś. , pow. słupecki, gm. i par. Trąbczyn, odl. od Słupcy w. 19; ma 1 dm. , 6 mk.
+
+## Białobrzeg [Słownik geograficzny, t. XV, p. 125, sub 3]
+
+3. B. pietrzykowski, wś i B. ratajski, os. nad rz. Wartą, pow. słupecki, gm. Dłusk, par. Zagórów. B. pietrz, ma 6 dm. , 112 mk. ; B. rat. 1 dm. , 5 mk.
+
+## Wrąbczyn (Jarmuszewek) [Słownik geograficzny, t. III, p. 451]
+
+Jarmuszewek lub Wrąbczyn, folw. , powiat słupecki, gm. Emilienheim, par. Zagórów, odl. od Słupcy 15 i pół w. , dm. 3, mk. 46.
+
+## Wrąbczyn (Wójtowstwo Jarmużówka) [Słownik geograficzny, t. XIII, p. 773, sub 11]
+
+11. W. Jarmużówka al. Jarmuszewek, fol, pow. słupecki, gm. Emilienheim par. Zagórów, ob. Jarmuszewek. Wr. 1886 fol. W. Jarmużówka rozl. mr. 171 gr. or. i ogr. mr. 106, łąk mr. 36, past. mr. 19, lasu mr. 7, nieuż. mr. 3; bud. mur. 7, drew. 3, pokłady torfu.
+
+## Kolonia Wrąbczyn (Wrąbczyńskie Holendry) [Słownik geograficzny, t. XIV, p. 16]
+
+Wrąbczyńskie Holendry, kol, pow. słupecki, gm. Emilienheim, par. Zagórów, odl. o 17 w. od Słupcy, ma 8 dm. , 61 mk.
+
+## Mariantów [Słownik geograficzny, t. VI, p. 153, sub 2]
+
+2 M. , wś nad strum. Białym, pow. słupecki, gm. i par. Trąbczyn, odl. od Słupcy w. 19, ob. Trąbczyn.
+
+## Zbiersk Kolonia (Zbiersk) [Słownik geograficzny, t. XIV, p. 516]
+
+Zbiersk, w dok. z 1103 r. Sebersco, wś, kol, fol. i os. , pow. kaliski, gm. i par. Zbiersk, odl. 21 w. od Kalisza, 3 w. od Stawiszyna, posiada kościół par. drewniany, dwie szkoły początkowe we wsi i w kolonii, ... Wś ma 83 dm. , 881 mk. ; kol. 30 dm. , 336 mk. ; fol i os. 10 dm. , 81 mk, ogółem 1298 mk. W r. 1827 było 62 dm. , 587 mk. a w kol. Holendry 22 dm. , 117 mk. ... Wś Z. os. 70, mr. 664; kol Z. os. 23, mr. 420.

@@ -20,7 +20,7 @@ hits_docs_count: 16
 
 *Dated forms of the name:* *Mariantów*; *Marjantów* 1877 [^1]; *Marjantów tów* 1921 [^1].
 
-Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]
+Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records it as *Marjantów* in 1877, *Maryantów* in 1885, *Marjantów* in 1921 and *Mariantów* in 1981.[^1]
 
 [^1]: Nazwy miejscowe Polski, t. 6, p. 523
 

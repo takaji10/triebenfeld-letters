@@ -1678,11 +1678,21 @@ transcription; 108 readings settled in session before the first build
       published; the Słownik read around your places in other parishes too
       (the parishes of Rzgów, Pyzdry, Stawiszyn and Zbiersk, the gmina of
       Grodziec: 72 entries, three Sonnet readers, checked by Claude).
-- [ ] **You:** the candidate sheet (`review/place_name_sources/candidates.html`,
-      made by `pipeline/gazetteer/candidates_sheet.py`): 14 places and
-      features of the two parishes (sections A-C) and 64 places around
-      your others (section E), each to add or leave out. "Copy answers"
-      and paste them into the chat.
+- [x] The candidate sheet answered and applied (2026-11-21): Odpadki,
+      Tumidaj, Wielki Las and Białobrzeg added; Jarmuszewek a name of
+      Wrąbczyn; Wrąbczyńskie Holendry is Kolonia Wrąbczyn; the stream Biały
+      (and Bawół, its name on OpenStreetMap) under Czarna Struga, with
+      cross-references; the Słownik's colony of Zbiersk added to Zbiersk
+      Kolonia; the rest left out. The Places index now shows your
+      cross-references (the gazetteer's aliases) as "X - see Y".
+- [x] The dictionary sentences of 2026-10-26 audited (53 citations, two
+      Sonnet readers, every finding checked by Claude): 15 corrected
+      (Wymysłów, Tarszewo, Zalesie, Grądzeń, Kopojno, Imielno twice,
+      Stawisko twice, Chruściki, Bukowe, Smoleniec, Mariantów, Mały Las,
+      Czarnybród), each footnote noting the change.
+- [ ] **You:** Czarna Góra by Wrąbczynek (you answered "unsure"); Orliny
+      (Słownik t. VII, p. 587) as your Orlina Duża; Augustynów's 358 or 368
+      inhabitants (NEEDS_CONFIRMATION, "The gazetteer's candidate places").
 - [ ] Still wanted: the Kodeks entry of 1341 the Pyzdry footnote cites
       (its number not given; docs/MISSING_SOURCES.md).
 

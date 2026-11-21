@@ -21147,7 +21147,7 @@
     },
     "en": {
      "line": 11,
-     "chars": 170
+     "chars": 157
     }
    },
    {
@@ -21189,7 +21189,7 @@
     },
     "en": {
      "line": 23,
-     "chars": 263
+     "chars": 203
     }
    },
    {
@@ -21217,21 +21217,21 @@
     },
     "en": {
      "line": 31,
-     "chars": 177
+     "chars": 161
     }
    },
    {
     "key": "c09",
     "part": null,
     "page": null,
-    "title": "Czarnybród [Nazwy miejscowe Polski, t. 2, p. 195]",
+    "title": "Czarnybród [Nazwy miejscowe Polski, t. 2, p. 196]",
     "pl": {
      "line": 35,
      "chars": 477
     },
     "en": {
      "line": 35,
-     "chars": 198
+     "chars": 140
     }
    },
    {
@@ -21269,11 +21269,11 @@
     "title": "Chruściki [Nazwy miejscowe Polski, t. 2, p. 92]",
     "pl": {
      "line": 49,
-     "chars": 847
+     "chars": 441
     },
     "en": {
      "line": 47,
-     "chars": 176
+     "chars": 220
     }
    },
    {
@@ -21282,7 +21282,7 @@
     "page": null,
     "title": "Grądzeń [Nazwy miejscowe Polski, t. 3, p. 362]",
     "pl": {
-     "line": 53,
+     "line": 52,
      "chars": 855
     },
     "en": {
@@ -21296,12 +21296,12 @@
     "page": null,
     "title": "Imielno [Nazwy miejscowe Polski, t. 3, p. 529]",
     "pl": {
-     "line": 57,
+     "line": 56,
      "chars": 552
     },
     "en": {
      "line": 55,
-     "chars": 173
+     "chars": 157
     }
    },
    {
@@ -21310,7 +21310,7 @@
     "page": null,
     "title": "Kopojno [Nazwy miejscowe Polski, t. 5, p. 127]",
     "pl": {
-     "line": 61,
+     "line": 60,
      "chars": 798
     },
     "en": {
@@ -21324,7 +21324,7 @@
     "page": null,
     "title": "Łomów [Nazwy miejscowe Polski, t. 6, p. 358]",
     "pl": {
-     "line": 65,
+     "line": 64,
      "chars": 682
     },
     "en": {
@@ -21338,12 +21338,12 @@
     "page": null,
     "title": "Mariantów [Nazwy miejscowe Polski, t. 6, p. 523]",
     "pl": {
-     "line": 69,
+     "line": 68,
      "chars": 278
     },
     "en": {
      "line": 67,
-     "chars": 183
+     "chars": 144
     }
    },
    {
@@ -21352,7 +21352,7 @@
     "page": null,
     "title": "Myszaków [Nazwy miejscowe Polski, t. 7, p. 309]",
     "pl": {
-     "line": 73,
+     "line": 72,
      "chars": 374
     },
     "en": {
@@ -21366,7 +21366,7 @@
     "page": null,
     "title": "Myszakówek [Nazwy miejscowe Polski, t. 7, p. 309]",
     "pl": {
-     "line": 77,
+     "line": 76,
      "chars": 333
     },
     "en": {
@@ -21380,7 +21380,7 @@
     "page": null,
     "title": "Osiny [Nazwy miejscowe Polski, t. 8, p. 178]",
     "pl": {
-     "line": 81,
+     "line": 80,
      "chars": 710
     },
     "en": {
@@ -21394,7 +21394,7 @@
     "page": null,
     "title": "Olchowo [Nazwy miejscowe Polski, t. 8, p. 76]",
     "pl": {
-     "line": 85,
+     "line": 84,
      "chars": 243
     },
     "en": {
@@ -21408,7 +21408,7 @@
     "page": null,
     "title": "Oleśnica [Nazwy miejscowe Polski, t. 8, p. 83]",
     "pl": {
-     "line": 89,
+     "line": 88,
      "chars": 391
     },
     "en": {
@@ -21422,12 +21422,26 @@
     "page": null,
     "title": "Podbiel [Nazwy miejscowe Polski, t. 9, p. 16]",
     "pl": {
-     "line": 93,
+     "line": 92,
      "chars": 865
     },
     "en": {
      "line": 91,
      "chars": 193
+    }
+   },
+   {
+    "key": "c24",
+    "part": null,
+    "page": null,
+    "title": "Białobrzeg [Nazwy miejscowe Polski, t. 1, p. 192]",
+    "pl": {
+     "line": 96,
+     "chars": 783
+    },
+    "en": {
+     "line": 95,
+     "chars": 262
     }
    }
   ]
@@ -35515,14 +35529,14 @@
     "key": "c03",
     "part": null,
     "page": null,
-    "title": "Wymysłów [Słownik geograficzny, t. II, p. 765]",
+    "title": "Wymysłów [Słownik geograficzny, t. XIV, p. 98, sub 13]",
     "pl": {
      "line": 11,
-     "chars": 174
+     "chars": 187
     },
     "en": {
      "line": 11,
-     "chars": 121
+     "chars": 158
     }
    },
    {
@@ -35550,7 +35564,7 @@
     },
     "en": {
      "line": 19,
-     "chars": 196
+     "chars": 124
     }
    },
    {
@@ -35564,7 +35578,7 @@
     },
     "en": {
      "line": 23,
-     "chars": 200
+     "chars": 184
     }
    },
    {
@@ -35578,7 +35592,7 @@
     },
     "en": {
      "line": 27,
-     "chars": 178
+     "chars": 233
     }
    },
    {
@@ -35746,7 +35760,7 @@
     },
     "en": {
      "line": 75,
-     "chars": 201
+     "chars": 230
     }
    },
    {
@@ -35956,7 +35970,7 @@
     },
     "en": {
      "line": 135,
-     "chars": 104
+     "chars": 113
     }
    },
    {
@@ -35998,7 +36012,7 @@
     },
     "en": {
      "line": 147,
-     "chars": 175
+     "chars": 103
     }
    },
    {
@@ -36012,7 +36026,133 @@
     },
     "en": {
      "line": 151,
-     "chars": 199
+     "chars": 127
+    }
+   },
+   {
+    "key": "c39",
+    "part": null,
+    "page": null,
+    "title": "Odpadki [Słownik geograficzny, t. VII, p. 386, sub 1]",
+    "pl": {
+     "line": 155,
+     "chars": 143
+    },
+    "en": {
+     "line": 155,
+     "chars": 111
+    }
+   },
+   {
+    "key": "c40",
+    "part": null,
+    "page": null,
+    "title": "Tumidaj [Słownik geograficzny, t. XII, p. 623, sub 5]",
+    "pl": {
+     "line": 159,
+     "chars": 158
+    },
+    "en": {
+     "line": 159,
+     "chars": 135
+    }
+   },
+   {
+    "key": "c41",
+    "part": null,
+    "page": null,
+    "title": "Wielki Las [Słownik geograficzny, t. XIII, p. 340, sub 2]",
+    "pl": {
+     "line": 163,
+     "chars": 154
+    },
+    "en": {
+     "line": 163,
+     "chars": 140
+    }
+   },
+   {
+    "key": "c42",
+    "part": null,
+    "page": null,
+    "title": "Białobrzeg [Słownik geograficzny, t. XV, p. 125, sub 3]",
+    "pl": {
+     "line": 167,
+     "chars": 211
+    },
+    "en": {
+     "line": 167,
+     "chars": 191
+    }
+   },
+   {
+    "key": "c43",
+    "part": null,
+    "page": null,
+    "title": "Wrąbczyn (Jarmuszewek) [Słownik geograficzny, t. III, p. 451]",
+    "pl": {
+     "line": 171,
+     "chars": 191
+    },
+    "en": {
+     "line": 171,
+     "chars": 170
+    }
+   },
+   {
+    "key": "c44",
+    "part": null,
+    "page": null,
+    "title": "Wrąbczyn (Wójtowstwo Jarmużówka) [Słownik geograficzny, t. XIII, p. 773, sub 11]",
+    "pl": {
+     "line": 175,
+     "chars": 341
+    },
+    "en": {
+     "line": 175,
+     "chars": 215
+    }
+   },
+   {
+    "key": "c45",
+    "part": null,
+    "page": null,
+    "title": "Kolonia Wrąbczyn (Wrąbczyńskie Holendry) [Słownik geograficzny, t. XIV, p. 16]",
+    "pl": {
+     "line": 179,
+     "chars": 198
+    },
+    "en": {
+     "line": 179,
+     "chars": 181
+    }
+   },
+   {
+    "key": "c46",
+    "part": null,
+    "page": null,
+    "title": "Mariantów [Słownik geograficzny, t. VI, p. 153, sub 2]",
+    "pl": {
+     "line": 183,
+     "chars": 159
+    },
+    "en": {
+     "line": 183,
+     "chars": 120
+    }
+   },
+   {
+    "key": "c47",
+    "part": null,
+    "page": null,
+    "title": "Zbiersk Kolonia (Zbiersk) [Słownik geograficzny, t. XIV, p. 516]",
+    "pl": {
+     "line": 187,
+     "chars": 491
+    },
+    "en": {
+     "line": 187,
+     "chars": 267
     }
    }
   ]

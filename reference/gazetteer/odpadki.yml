@@ -1,0 +1,29 @@
+slug: odpadki
+heading: Odpadki
+register: null
+status: historical
+kind: settlement
+kind_text: Settlement
+location:
+  text: "a settlement in the Słownik era, gmina Emilienheim, parish of Zagórów, powiat słupecki"
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+text_en: "Settlement in the gmina of Emilienheim at the time of the Słownik. The Słownik geograficzny records it as a settlement, gmina Emilienheim, parish of Zagórów, powiat słupecki, 15½ versts from Słupca.[^1]"
+names:
+- form: "Odpadki"
+  year: null
+  note: "heading"
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. VII, p. 386
+  refs:
+  - source: slownik
+    locator: t. VII, p. 386
+    status: missing
+  note: null
+review: []

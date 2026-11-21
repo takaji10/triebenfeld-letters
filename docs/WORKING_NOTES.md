@@ -4669,3 +4669,32 @@ Słownik's gmina and parish tables, is still to do.
   of a line with backslashes and quotes silently failed to match. Write
   such a script with the Write tool and run it, or make the change with
   Edit; check the edited file compiles before moving on.
+- **The dictionary sentences of 2026-10-26 had systematic errors (audit of
+  2026-11-21: 15 of 53).** The generated pattern "records it as KIND, gmina
+  G, parish P, with N houses and M inhabitants at the time of the
+  Słownik" took the first figures and names it met: the next entry's
+  (Olchowo, Tarszewo), another sub-entry's parish (Zalesie), the 1827
+  figures (Grądzeń, Kopojno), the village's figures for the folwark
+  (Imielno). The Nazwy miejscowe pattern "records the name as X by YEAR"
+  took a locative (na Stawisku), a location (między Łukomiem a
+  Myszkowem), a genitive (Czarnegobrodu) or the next entry's form
+  (Crosczino) for a name. Write such sentences by hand from the entry's
+  own bounds, and say which year a figure belongs to.
+- **Auditing citations with Sonnet readers works if Claude checks every
+  finding.** Of 22 flags, 14 were real; the rest came from what the
+  readers could not know: Nazwy miejscowe's printed page is the converted
+  text's page mark minus one (Adamierz: mark 45, printed 44); the edition's
+  corrected excerpts (`literature/slownik`, three OCR witnesses on the
+  page image) outrank the raw converted text (Augustynów 358 against 368);
+  and an entry outside the snippet given is not a missing entry.
+- **verify_site's leak check for works kept off the site** takes 60
+  characters from the middle of each excerpt's longest line, in both
+  languages. An English summary written in the same words as the
+  gazetteer's sentence trips it on the place page: keep the summaries of
+  `literature/slownik` and `literature/nmpol` in clipped note form ("Colony;
+  gm. Emilienheim, par. Zagórów; 17 versts; 8 houses / 61 inhabitants").
+- **The gazetteer's `aliases` are the editor's cross-reference headings**
+  (the import of 2026-10-23 made them from "X, see Y" lines). Since
+  2026-11-21 the Places index shows each as "X - see Y", leaving out an
+  alias that is now an entry's own heading. A new "see" name goes into
+  `aliases` (the editor, 2026-11-21: Biały and Bawół under Czarna Struga).

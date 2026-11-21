@@ -12,17 +12,35 @@ location:
   precision: identified
   lat: 51.949747
   lon: 18.16407
-text_en: Settlement east of Stawiszyn, on the northern edge of a forest complex a
-  few square kilometres in area. Its Evangelical cemetery is approximately 25 kilometres
-  southeast of the Trąbczyn area; it is in the survey of the Evangelical cemeteries
-  because some Zelmers from the Trąbczyn area moved to Zbiersk Kolonia and the nearby
-  settlement of Łyczyn.
+text_en: Settlement east of Stawiszyn, on the northern edge of a forest complex a few square
+  kilometres in area. Its Evangelical cemetery is approximately 25 kilometres southeast of the
+  Trąbczyn area; it is in the survey of the Evangelical cemeteries because some Zelmers from
+  the Trąbczyn area moved to Zbiersk Kolonia and the nearby settlement of Łyczyn. The Słownik
+  geograficzny records the colony of Zbiersk, gmina and parish of Zbiersk, powiat kaliski, 3
+  versts from Stawiszyn, with 30 houses, 336 inhabitants and a school of its own; in 1827 the
+  colony *Holendry* had 22 houses and 117 inhabitants, and in 1886 the colony had 23 holdings
+  and 420 morgi.[^1]
 names:
 - form: Zbiersk Kolonia
   year: null
   note: heading
   footnote: null
+- form: Kolonia Zbiersk
+  year: null
+  note: null
+  footnote: 1
+- form: Holendry
+  year: 1827
+  note: null
+  footnote: 1
 aliases: []
 maps: []
-footnotes: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XIV, p. 516
+  refs:
+  - source: slownik
+    locator: t. XIV, p. 516
+    status: missing
+  note: null
 review: []

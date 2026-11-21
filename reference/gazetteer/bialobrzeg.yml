@@ -1,0 +1,61 @@
+slug: bialobrzeg
+heading: Białobrzeg
+register: bialobrzeg
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: "on the Warta River, 10 kilometres west of Zagórów, in the gmina of Pyzdry"
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+text_en: "Village on the Warta River, 10 kilometres west of Zagórów, today in the gmina of Pyzdry, with the settlement of Białobrzeg Ratajski beside it. First mentioned in 1547 for its mill on the Warta (*molendino ... vulgo Biało-Brzeski*); the name means \"white bank\", and the second parts of *Białobrzeg Pietrzykowski* and *Białobrzeg Ratajski* come from the neighbouring villages of Pietrzyków and Rataje.[^1] In 1798 the miller Samuel Lucke of the mill *Białobrzeg bey Wrąbczynek* contracted to buy 1,000 Morgen of the home farm of Szetlewek from the Prince of Hohenlohe-Ingelfingen's agent.[^2] The Słownik geograficzny records Białobrzeg Pietrzykowski as a village and Białobrzeg Ratajski as a settlement on the Warta, gmina Dłusk, parish of Zagórów, powiat słupecki, the first with 6 houses and 112 inhabitants, the second with 1 house and 5 inhabitants.[^3]"
+names:
+- form: "Białobrzeg"
+  year: null
+  note: "heading"
+  footnote: null
+- form: "Biało-Brzeski"
+  year: 1547
+  note: "the mill"
+  footnote: 1
+- form: "Białobrzeg"
+  year: 1798
+  note: null
+  footnote: 2
+- form: "Białobrzeg Pietrzykowski"
+  year: null
+  note: null
+  footnote: 3
+- form: "Białobrzeg Ratajski"
+  year: null
+  note: null
+  footnote: 3
+aliases: []
+maps: []
+footnotes:
+- n: 1
+  text: Nazwy miejscowe Polski, t. 1, p. 192
+  refs:
+  - source: nmpol
+    locator: t. 1, p. 192
+    status: missing
+  note: null
+- n: 2
+  text: HZAN Oe 1 Bü 14526, document 25
+  refs:
+  - source: oe1bu14526
+    locator: document 25
+    link: /documents/oe1bu14526/25/
+    status: linked
+    quote: Mahl Mühle Białobrzeg bey Wrąbczynek
+  note: null
+- n: 3
+  text: Słownik geograficzny, t. XV, p. 125
+  refs:
+  - source: slownik
+    locator: t. XV, p. 125
+    status: missing
+  note: null
+review: []

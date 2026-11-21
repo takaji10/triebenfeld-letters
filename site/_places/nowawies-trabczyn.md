@@ -1,7 +1,7 @@
 ---
 layout: place
 place: "nowawies-trabczyn"
-title: "Nowa Wieś"
+title: "Trąbczyn Mały"
 lang: en
 permalink: "/places/nowawies-trabczyn/"
 alt_url: "/de/orte/nowawies-trabczyn/"
@@ -32,7 +32,7 @@ Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical recor
 
 <div class="place-map">
 <div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.91662%2C52.12177%2C17.95662%2C52.161770000000004&amp;layer=mapnik&amp;marker=52.14177%2C17.93662" title="Nowa Wieś" loading="lazy"></iframe>
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.91662%2C52.12177%2C17.95662%2C52.161770000000004&amp;layer=mapnik&amp;marker=52.14177%2C17.93662" title="Trąbczyn Mały" loading="lazy"></iframe>
 </div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.14177&amp;mlon=17.93662#map=15/52.14177/17.93662" rel="noopener">{{ t.map_link }}</a></p>
 </div>

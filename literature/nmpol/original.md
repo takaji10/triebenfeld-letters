@@ -32,7 +32,7 @@ PS Stanisławów (7), wś, koniń., gm. Zagórów, 8 km na płd.-wsch. od Zagór
 
 PS Stawisko (2), os., dawniej wś, koniń., gm. Zagórów, 6 km na płd. od Zagórowa: Stawisko, na Stawisku 1834 APPozn, sygn. 54/830/0/6.1/35 (k. 177); Fol. Stawisko 1839 MpKwat I 3; Stawisko 1877 Zin II 178; Stawisko, wś i os. leśn. 1890 SG XI 295; Stawisko, wś 1921 Sk II 40; Stawisko, wś 1933 SkBy 1619; Stawisko, -ka 1982
 
-## Czarnybród [Nazwy miejscowe Polski, t. 2, p. 195]
+## Czarnybród [Nazwy miejscowe Polski, t. 2, p. 196]
 
 Czarnybród, wś, koniń., gm. Grodziec, 10 km na płd.-wsch. od Zagórowa: Czarny Brod 1802 Koz IV 137; Czarnybrod 1802–03 MpGillyPr; Czarny bród 1827 Tabella I 82; Czarny brod 1880 SG I 765; Czarny Bród 1921 Sk II 36; Czarnybród, Czarnegobrodu 1980 WUN I 274; gw. čorny brut, -ygo -du, čornobrocḱi. — Od wyrażenia czarny bród, początkowo w formie złożenia, później zrostu. Ok. 4 km na wsch. od wsi płynie rz. Czarna Struga. ZZ
 
@@ -48,8 +48,7 @@ ZZ Drzewce (6), WŚ, leszcz., gm. Poniec, 5 km na płn.-wsch. od Pońca: Dzrewec
 
 ## Chruściki [Nazwy miejscowe Polski, t. 2, p. 92]
 
-Chruściki, wś, koniń., gm. Zagórów, 8 km na wsch. od Zagórowa: Adellzof(1802) (1802) SG XV/l, 471; Chnlścźki 1900 SG XV/l, 328; Cl1nlściki, -ków, wś 1980 WUN I 240; gw. xnlśćiJ(i, -kuf. - Dawna n. niem. od im. córki księcia Hohenlohe Ingel- fingen, Adela + -hof W 1891 f. urzędowo wprowadzono dzono n. pol. Cl1nLŚdki. Do n. por. cJlnlścik 'wiklina, gąszcz' SW 1 301. Lit.: SG XV/l, 328. ZZ Chruścin (1) wś, koniń., gm. Dąbie, 2,5 km na płd.-zach. od Dąbia: Croslillo (!) 1339 KW II 521; Crosczino 1386 Hb 59; Chrosczy"o 1511-23 ŁLB I 358; Chrosczyn 1511-23 ŁLB II 443-4; CIosczyn 1511 1, Chrosczyn 1518 ŹDz XIII 190; Chruścill 1827 Tabella I 71; Chruścin 1880 SG I 648; Chruścin -Ila, chruściński 1970 UN 82, 13. - Od n. os. Cl1rost SSNO I 340 lub od ap. chrust, z suf -il1. Lit.: SHC;Łęcz I 48.
-
+Chruściki, wś, koniń., gm. Zagórów, 8 km na wsch. od Zagórowa: Adellzof(1802) (1802) SG XV/l, 471; Chnlścźki 1900 SG XV/l, 328; Cl1nlściki, -ków, wś 1980 WUN I 240; gw. xnlśćiJ(i, -kuf. - Dawna n. niem. od im. córki księcia Hohenlohe Ingel- fingen, Adela + -hof W 1891 f. urzędowo wprowadzono dzono n. pol. Cl1nLŚdki. Do n. por. cJlnlścik 'wiklina, gąszcz' SW 1 301. Lit.: SG XV/l, 328. ZZ
 ## Grądzeń [Nazwy miejscowe Polski, t. 3, p. 362]
 
 Grzandzen 1365 KW III 268; Grzęden 1404, ⟦Grzadzelbl|Grzadzem⟧ ... Grzadzyem ... Grandzem 1464, Gradzym ... z Grądzymyem 1557-86, Praed. Grządzin Grądzym 1613-19, Grądzym,⟧ do ⟦Grądzynlia,|Grądzymia,⟧ z Gra- żymem (!) 1658, Grądzyn 1784-85 Koz IV 267; Grądzeń 1827 Tabella I 148; Grądzeń, wś 1881 SG II 803; Grądzeń, -nia 1980 WUN I 544; gw. ⟦gron yń, -(ja, grollJYisKi. -|gronzyń, -ńa, grongyiski. —⟧ N. niezbyt jasna; może od n. os. *Grządza Grządza, por. n. os. ⟦Grąza//Gręza|Grązal/Gręza⟧ SSNO II 199 (Grąd + -ja) lub od ap. grzęda albo grąd, z suf. -en, -in. Formy z wygłosowym ⟦-111|-m⟧ (lub ⟦ńl)|m)⟧ są zapewne wynikiem dysymilacji dz-n > dz-m ZZ|dz-m.⟧ 362 Grądzie zob. Grądy (14) Grądzik, wś, wroc., gm. Źmigród 2 km na płd.-wsch. od Żmigrodu: Hermenau 1787 Z VII 401; Hermenau, Szaicnowo (?) 18
@@ -93,3 +92,7 @@ IN Oleśnica (2a), wś, konin., gm. Zagórów, 2 km na wsch. od Zagórowa: Olies
 ## Podbiel [Nazwy miejscowe Polski, t. 9, p. 16]
 
 Podbiel (1), wś, koniń., gm. Zagórów, 8 km na pld.-wsch. od Zagórowa: w Polyebyele 1445 SHGKI(PG 2, 88v); in Podbiele, in Podlyebyelye 1449 SHGK|(PG 3, 76v-77); de Podlebyel ... Podlyebyelye .. ... Polebyele 1461 Koz V 167; de Podbyele byele 1470 SHGKI(PG 8, 62); Podbyelye 1511-23 LLB I 284; Podbiele 1579 ZDz XII 237; Podbiele le 1618 PKal 128; Podbiele 1674 MK|(ASK 74, 165); ku Podbielu 1782 Koz V 167; Podbiele 1802-03 MpGillyPr; Podbiel 1839 MpKwat I 2; Podbiele 1859 MpChiz; Podbiel, folw. 1887 SG VIII 360; Podbiel, kol. 1921 Sk II 37; Podbiel, -la 1981 WUN II 775; gw. podbel, -la, podbelski. — Od wyrażenia przyimkowego: podle Bialy albo Bialej, por. n. rz. Biala (dziś Czarna Struga, ga, Wolnicz-Pawłowska, Warta 40) lub od podle biele albo bieli (: biel, biela 'mokradło, bagno, podmokła łąka' SW I 150)
+
+## Białobrzeg [Nazwy miejscowe Polski, t. 1, p. 192]
+
+Białobrzeg (1), dziś Bialobrzeg, wś, i Bialobrzeg Ratajski, os., koniń., gm. Pyzdry, 10 km na zach. od Zagórowa: Wrambiczino ac molendino ... parte fluvii Warta sito vulgo Biało-Brzeski dicto 1547 Matr IV/3, nr 22619; Młyn Bialobrzeg nazwany... na Warcie 1628-32 Luwlkp I 178; Bialobrzeg 1674 MKl(ASK 74, 194); Białobrzeg, folw. 1827 Tabella I 18; Biatobrzeg, Ratajski Bialobrzeg 1877 Zin I 27, II 102; Bialobrzeg pietrzykowski, wś, Bialobrzeg ratajski, os. 1900 SG XV II, 125; Bialobrzeg, wś, Bialobrzeg Pietrzykowski, WŚ, Bialobrzeg Ratajski, kol. 1967 SM 52-3; Bialobrzeg, wś, Bialobrzeg Ratajski, os. 1980 WUN I 73. - Od bialy brzeg. Człony odróżniające Pietrzykowski i Ratajski od nazw sąsiednich wsi Pietrzyków i Rataje. ZZ

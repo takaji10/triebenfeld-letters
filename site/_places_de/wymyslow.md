@@ -20,9 +20,9 @@ hits_docs_count: 0
 
 *Dated forms of the name:* *Wymysłów*.
 
-Isolated dwellings north of Zagórów. *Stary Przewoz Wymysław* (Perthées 1798) (may have been an old river crossing point); as a tavern *Wimislaw* (Zagorowo 1799); with a tavern and folwark (Gilly 1802). The Słownik geograficzny records it as a folwark.[^1]
+Isolated dwellings north of Zagórów. *Stary Przewoz Wymysław* (Perthées 1798) (may have been an old river crossing point); as a tavern *Wimislaw* (Zagorowo 1799); with a tavern and folwark (Gilly 1802). The Słownik geograficzny records it as a settlement on the Warta River, gmina and parish of Zagórów, powiat słupecki, 12 versts from Słupca, with 3 houses and 23 inhabitants (2 houses and 13 inhabitants in 1827).[^1]
 
-[^1]: Słownik geograficzny, t. II, p. 765
+[^1]: Słownik geograficzny, t. XIV, p. 98
 
 </div>
 {% endraw %}

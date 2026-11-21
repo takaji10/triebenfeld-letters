@@ -12,8 +12,19 @@ location:
   precision: surveyed
   lat: 52.16667
   lon: 17.98333
-  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Kopojno, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
-text_en: Village east of Zagórów. First mentioned as *Kopanino* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^32] Mentioned in a 1291 privilege document from Ląd Abbey which stated that Count Sendivogius traded Kopojno (*Copaino*) to the abbey in exchange for Główiew, Sławsk, and Chocz.[^33] *Kopaino* (von Pfau 1770); *Kopanie* (Perthées 1798); with a windmill (Gilly 1802); *Kopiec* (Chrzanowski 1858); with a manor house (Wreschen 1901). The Słownik geograficzny records it as a folwark, parish of Zagórów, powiat słupecki, with 52 houses and 480 inhabitants at the time of the Słownik.[^34] The Słownik geograficzny records it as a village, powiat słupecki.[^35] Nazwy miejscowe Polski records the name as *Kopanino* by 1240, later as *Kopoyno* (1827).[^36]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Kopojno, gmina Zagórów, powiat
+    słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village east of Zagórów. First mentioned as *Kopanino* in a 1240 document where Archbishop
+  Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^32] Mentioned in
+  a 1291 privilege document from Ląd Abbey which stated that Count Sendivogius traded Kopojno
+  (*Copaino*) to the abbey in exchange for Główiew, Sławsk, and Chocz.[^33] *Kopaino* (von Pfau
+  1770); *Kopanie* (Perthées 1798); with a windmill (Gilly 1802); *Kopiec* (Chrzanowski 1858);
+  with a manor house (Wreschen 1901). The Słownik geograficzny records it as a village on the
+  Czarna Struga and a folwark on the Warta, gmina Emilienheim, parish of Zagórów, powiat słupecki,
+  20 versts from Słupca, the village with 65 houses and 791 inhabitants and the folwark with
+  9 houses and 102 inhabitants (52 houses and 480 inhabitants in 1827).[^34] The Słownik geograficzny
+  records it as a village, powiat słupecki.[^35] Nazwy miejscowe Polski records the name as
+  *Kopanino* by 1240, later as *Kopoyno* (1827).[^36]
 names:
 - form: Kopojno
   year: null
@@ -79,7 +90,8 @@ footnotes:
   - source: slownik
     locator: t. IV, p. 382
     status: missing
-  note: null
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): 52 houses and 480 inhabitants
+    are the figures for 1827; the entry is a village and a folwark.'
 - n: 35
   text: Słownik geograficzny, t. XVI, p. 120
   refs:

@@ -13,8 +13,13 @@ location:
   precision: surveyed
   lat: 52.177447
   lon: 18.0195
-  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Tarszewo, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
-text_en: Village northeast of Kopojno. Originally named *Kolonia Friedrichsfeld* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Tarszewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a folwark, in gmina Cudnów, powiat słupecki, with 18 houses and 126 inhabitants at the time of the Słownik.[^1]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Tarszewo, gmina Zagórów, powiat
+    słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village northeast of Kopojno. Originally named *Kolonia Friedrichsfeld* and founded
+  as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818)
+  who named it after one of his children. Renamed to Tarszewo in 1891 as part of efforts by
+  the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny
+  records it as a folwark, powiat słupecki, called *Friedrichsfeld* until 1891.[^1]
 names:
 - form: Tarszewo
   year: null
@@ -46,6 +51,7 @@ footnotes:
   - source: slownik
     locator: t. XVI, p. 653
     status: missing
-  note: null
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): gmina Cudnów, 18 houses
+    and 126 inhabitants belong to Tartaczek, the next entry on the page, in powiat żytomierski.'
 review: []
 german: Friedrichsfeld

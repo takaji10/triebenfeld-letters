@@ -18,9 +18,17 @@ hits_docs_count: 0
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 
-*Dated forms of the name:* *Czarna Struga*.
+*Dated forms of the name:* *Czarna Struga*; *Biały* [^1]; *Bawół* [^4].
 
-River flowing into the Warta River and running approximately from north of Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south to Grodziec. A hammer mill (Ger. *Frischfeuer*) existed along the Czarna Struga river south of Mariantów and was depicted on Gilly 1802.
+River flowing into the Warta River and running approximately from north of Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south to Grodziec. A hammer mill (Ger. *Frischfeuer*) existed along the Czarna Struga river south of Mariantów and was depicted on Gilly 1802. The Słownik geograficzny calls the stream at Trąbczyn, Maryantów and Szetlewek the *Biały*;[^1][^2][^3] today it is named *Bawół* on OpenStreetMap.[^4]
+
+[^1]: Słownik geograficzny, t. XII, p. 448
+
+[^2]: Słownik geograficzny, t. VI, p. 153
+
+[^3]: Słownik geograficzny, t. XI, p. 911
+
+[^4]: OpenStreetMap
 
 </div>
 {% endraw %}

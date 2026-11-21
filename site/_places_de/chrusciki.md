@@ -20,7 +20,7 @@ hits_docs_count: 0
 
 *Dated forms of the name:* *Chruściki*; *Kolonia Adelhof*; *Kolonia Adelów*; *Kolonia Adelhof*; *Chruściki* 1891; *Crosczino* 1386 [^2]; *Chrosczyn* 1518 [^2]; *Adellzof* 1802 [^2]; *Chruścill* 1827 [^2].
 
-Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica, powiat słupecki, with 242 inhabitants at the time of the Słownik.[^1] Nazwy miejscowe Polski records the name as *Crosczino* by 1386.[^2]
+Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica, powiat słupecki, with 242 inhabitants at the time of the Słownik.[^1] Nazwy miejscowe Polski records it as *Adelhof* in 1802 and *Chruściki* from 1900; the German name was from Adela, a daughter of the Prince of Hohenlohe-Ingelfingen, and the Polish name was introduced officially in 1891.[^2]
 
 [^1]: Słownik geograficzny, t. XV, p. 328
 

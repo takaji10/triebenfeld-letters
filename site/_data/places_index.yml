@@ -12,12 +12,33 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: ''
+- slug: chrusciki
+  name: Adelhof/Adelów, Kolonia
+  name_de: Adelhof/Adelów, Kolonia
+  see: Chruściki
+  kind_en: ''
+  kind_de: ''
+  german: ''
+- slug: zalesie
+  name: Adolfsberg, Kolonia
+  name_de: Adolfsberg, Kolonia
+  see: Zalesie
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: anielewo
   name: Anielewo
   name_de: Anielewo
   kind_en: Village
   kind_de: Dorf
   german: Ingelfingen
+- slug: augustinow
+  name: Augustinhof, Kolonia
+  name_de: Augustinhof, Kolonia
+  see: Augustynów
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: augustinow
   name: Augustynów
   name_de: Augustynów
@@ -30,11 +51,31 @@ tier1:
   kind_en: Stream
   kind_de: Bach
   german: ''
+- slug: czarna-struga
+  name: Bawół
+  name_de: Bawół
+  see: Czarna Struga
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: bezslug
   name: Beźsług
   name_de: Beźsług
   kind_en: Tavern
   kind_de: Kretscham
+  german: ''
+- slug: bialobrzeg
+  name: Białobrzeg
+  name_de: Białobrzeg
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: czarna-struga
+  name: Biały
+  name_de: Biały
+  see: Czarna Struga
+  kind_en: ''
+  kind_de: ''
   german: ''
 - slug: bieganszczyzna
   name: Bieganszczyzna, Osada
@@ -59,6 +100,13 @@ tier1:
   name_de: Bukowe
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: lusnie-oledry
+  name: Chełmskie Olędry
+  name_de: Chełmskie Olędry
+  see: Lusnie Olędry
+  kind_en: ''
+  kind_de: ''
   german: ''
 - slug: chrusciki
   name: Chruściki
@@ -90,6 +138,13 @@ tier1:
   kind_en: Hamlet
   kind_de: Weiler
   german: ''
+- slug: trabczyn
+  name: Drommin
+  name_de: Drommin
+  see: Trąbczyn
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: drzewce
   name: Drzewce
   name_de: Drzewce
@@ -113,6 +168,20 @@ tier1:
   name_de: Długa Górka
   kind_en: Isolated dwellings
   kind_de: Einzelsiedlung
+  german: ''
+- slug: michalinow-olesnicki
+  name: Emilienheim/Emilienhain, Kolonia
+  name_de: Emilienheim/Emilienhain, Kolonia
+  see: Michalinów Oleśnicki
+  kind_en: ''
+  kind_de: ''
+  german: ''
+- slug: tarszewo
+  name: Friedrichsfeld, Kolonia
+  name_de: Friedrichsfeld, Kolonia
+  see: Tarszewo
+  kind_en: ''
+  kind_de: ''
   german: ''
 - slug: garbin
   name: Garbin
@@ -150,6 +219,13 @@ tier1:
   kind_en: Place
   kind_de: Ort
   german: ''
+- slug: zagorowo
+  name: Hinterberg
+  name_de: Hinterberg
+  see: Zagórów
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: huta-trabczynska
   name: Huta Trąbczyńska
   name_de: Huta Trąbczyńska
@@ -173,6 +249,20 @@ tier1:
   name_de: Imielno
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: imielno
+  name: Imielno Olędry
+  name_de: Imielno Olędry
+  see: Imielno
+  kind_en: ''
+  kind_de: ''
+  german: ''
+- slug: anielewo
+  name: Ingelfingen, Kolonia
+  name_de: Ingelfingen, Kolonia
+  see: Anielewo
+  kind_en: ''
+  kind_de: ''
   german: ''
 - slug: jeziorko
   name: Jeziorko
@@ -203,6 +293,13 @@ tier1:
   name_de: Kolonia Wrąbczyn
   kind_en: Settlement
   kind_de: Siedlung
+  german: ''
+- slug: kolonia-wrabczyn
+  name: Kolonie Wrombczyn
+  name_de: Kolonie Wrombczyn
+  see: Kolonia Wrąbczyn
+  kind_en: ''
+  kind_de: ''
   german: ''
 - slug: konin
   name: Konin
@@ -258,6 +355,13 @@ tier1:
   kind_en: Folwark
   kind_de: Vorwerk
   german: ''
+- slug: lazinsk-pierwszy
+  name: Lazinsk
+  name_de: Lazinsk
+  see: Łazińsk Pierwszy
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: lipowa-gorka
   name: Lipowa Górka
   name_de: Lipowa Górka
@@ -269,6 +373,13 @@ tier1:
   name_de: Lisewska Kolonia
   kind_en: Settlement
   kind_de: Siedlung
+  german: ''
+- slug: ludwigslust
+  name: Ludwigslust, Kolonia
+  name_de: Ludwigslust, Kolonia
+  see: Mały Las
+  kind_en: ''
+  kind_de: ''
   german: ''
 - slug: lusnie-oledry
   name: Lusnie Olędry
@@ -325,6 +436,13 @@ tier1:
   kind_de: Dorf
   german: ''
 - slug: michalinow-oledry
+  name: Michalinów Olędry
+  name_de: Michalinów Olędry
+  see: Michalinów Trąbczyński
+  kind_en: ''
+  kind_de: ''
+  german: ''
+- slug: michalinow-oledry
   name: Michalinów Trąbczyński
   name_de: Michalinów Trąbczyński
   kind_en: Village
@@ -359,6 +477,12 @@ tier1:
   name_de: Nowa Wieś
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: odpadki
+  name: Odpadki
+  name_de: Odpadki
+  kind_en: Settlement
+  kind_de: Siedlung
   german: ''
 - slug: olchowo
   name: Olchowo
@@ -468,6 +592,20 @@ tier1:
   kind_en: Place
   kind_de: Ort
   german: ''
+- slug: wincentowo
+  name: Siergiejewo
+  name_de: Siergiejewo
+  see: Wincentowo
+  kind_en: ''
+  kind_de: ''
+  german: ''
+- slug: dluga-gorka
+  name: Siodmagorka
+  name_de: Siodmagorka
+  see: Długa Górka
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: sklanna-huta
   name: Sklanna Huta
   name_de: Sklanna Huta
@@ -492,11 +630,39 @@ tier1:
   kind_en: Hamlet
   kind_de: Weiler
   german: ''
+- slug: olchowo
+  name: Sophienthal, Kolonia
+  name_de: Sophienthal, Kolonia
+  see: Olchowo
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: stanislawow
   name: Stanisławów
   name_de: Stanisławów
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: huta-lukomska
+  name: Stara Huta
+  name_de: Stara Huta
+  see: Huta Łukomska
+  kind_en: ''
+  kind_de: ''
+  german: ''
+- slug: huta-lukomska
+  name: Stara Huta Olędry
+  name_de: Stara Huta Olędry
+  see: Huta Łukomska
+  kind_en: ''
+  kind_de: ''
+  german: ''
+- slug: huta-trabczynska
+  name: Stara Huta Olędry
+  name_de: Stara Huta Olędry
+  see: Huta Trąbczyńska
+  kind_en: ''
+  kind_de: ''
   german: ''
 - slug: stawisko
   name: Stawisko
@@ -600,6 +766,13 @@ tier1:
   kind_en: Locale
   kind_de: Örtlichkeit
   german: ''
+- slug: nowawies-trabczyn
+  name: Trąbczyn Mały
+  name_de: Trąbczyn Mały
+  see: Nowa Wieś
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: trabczynskie-nowe-oledry
   name: Trąbczyńskie Nowe Olędry
   name_de: Trąbczyńskie Nowe Olędry
@@ -612,11 +785,23 @@ tier1:
   kind_en: Olęder settlement
   kind_de: Haulandsiedlung
   german: ''
+- slug: tumidaj
+  name: Tumidaj
+  name_de: Tumidaj
+  kind_en: Tavern
+  kind_de: Kretscham
+  german: ''
 - slug: warta
   name: Warta River
   name_de: Warta River
   kind_en: River
   kind_de: Fluss
+  german: ''
+- slug: wielki-las
+  name: Wielki Las
+  name_de: Wielki Las
+  kind_en: Settlement
+  kind_de: Siedlung
   german: ''
 - slug: wielki-bor-obreb
   name: Wielki-Bór Obręb
@@ -738,6 +923,13 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: ''
+- slug: bukowe
+  name: Łomówskie Olędry
+  name_de: Łomówskie Olędry
+  see: Bukowe
+  kind_en: ''
+  kind_de: ''
+  german: ''
 - slug: lukom
   name: Łukom
   name_de: Łukom
@@ -822,12 +1014,6 @@ tier2:
   name_de: Berlin
   kind_en: City
   kind_de: Stadt
-  german: ''
-- slug: bialobrzeg
-  name: Białobrzeg
-  name_de: Białobrzeg
-  kind_en: Village
-  kind_de: Dorf
   german: ''
 - slug: birawa
   name: Birawa

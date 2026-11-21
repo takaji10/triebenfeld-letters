@@ -20,7 +20,7 @@ hits_docs_count: 0
 
 *Dated forms of the name:* *Smoleniec*; *Łukomiem a Myszkowem* 1578 [^68]; *ńca* 1982 [^68].
 
-Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records the name as *Łukomiem a Myszkowem* by 1578.[^68]
+Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records it as *Smoliniec* in 1783-84 and *Smoleniec* from 1802; the name was taken over from a meadow called *Smolieniecz* "between Łukom and Myszków" (1578), from *smolany*, tarry, and probably first named a forest of which the meadow remained.[^68]
 
 [^67]: Szwiec 11
     [The document.](/literature/szwiec2009/#p-11)

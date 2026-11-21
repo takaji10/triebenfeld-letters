@@ -1,7 +1,7 @@
 ---
 layout: place
 place: "huta-lukomska"
-title: "Huta Łukomska"
+title: "Stara Huta Olędry"
 lang: de
 permalink: "/de/orte/huta-lukomska/"
 alt_url: "/places/huta-lukomska/"
@@ -33,7 +33,7 @@ Village south of Łukom. Mentioned as *Huta* in a 1761 compromise decree from L�
 
 <div class="place-map">
 <div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.81022%2C52.091637999999996%2C17.85022%2C52.131638&amp;layer=mapnik&amp;marker=52.111638%2C17.83022" title="Huta Łukomska" loading="lazy"></iframe>
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.81022%2C52.091637999999996%2C17.85022%2C52.131638&amp;layer=mapnik&amp;marker=52.111638%2C17.83022" title="Stara Huta Olędry" loading="lazy"></iframe>
 </div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.111638&amp;mlon=17.83022#map=15/52.111638/17.83022" rel="noopener">{{ t.map_link }}</a></p>
 </div>

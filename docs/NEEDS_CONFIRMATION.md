@@ -2133,6 +2133,22 @@ The one finding that touches the edition:
 
 ## The gazetteer's candidate places (2026-11-21)
 
+**Answered and applied 2026-11-21.** Still open:
+
+- **Czarna Góra**, the hill by Wrąbczynek ("folw. pod Czarną górą", Słownik
+  t. XIV, p. 16): the editor answered "unsure"; not added.
+- **Orliny**, "kol. nad strum. Białą, pow. koniński, gm. Rzgów, par.
+  Królików, 24 w. from Konin, 54 dm., 546 mk." (t. VII, p. 587): perhaps the
+  gazetteer's Orlina Duża, which has no entry of its own. Not added.
+- **Augustynów's inhabitants**: the gazetteer gives 358 (the corrected
+  citation text of 2026-10-27, read on the page image); the converted text
+  of the Słownik (t. XV, p. 51) reads 368. Left at 358; the page image
+  settles it.
+- **The audit of 2026-11-21** corrected 15 of the dictionary sentences of
+  2026-10-26 (CHANGELOG, same day); the readers' "ok" verdicts on the other
+  38 were not each re-read by Claude, and the editor's own 11 citations
+  without volume and page were not checked.
+
 1. **The candidate sheet** (`review/place_name_sources/candidates.html`):
    14 places and features of the parishes of Trąbczyn and Zagórów that the
    Słownik geograficzny names and the gazetteer lacks, and two decisions.

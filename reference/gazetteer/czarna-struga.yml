@@ -5,29 +5,70 @@ status: extant
 kind: river
 kind_text: River
 location:
-  text: flowing into the Warta River and running approximately from north of Zagórów,
-    east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek,
-    and continuing south to Grodziec
+  text: flowing into the Warta River and running approximately from north of Zagórów, east to
+    Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south
+    to Grodziec
   relation: null
   relative_to: null
   belongs_to: null
   precision: described
   lat: null
   lon: null
-text_en: River flowing into the Warta River and running approximately from north of
-  Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek,
-  and continuing south to Grodziec. A hammer mill (Ger. *Frischfeuer*) existed along
-  the Czarna Struga river south of Mariantów and was depicted on Gilly 1802.
+text_en: River flowing into the Warta River and running approximately from north of Zagórów,
+  east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing
+  south to Grodziec. A hammer mill (Ger. *Frischfeuer*) existed along the Czarna Struga river
+  south of Mariantów and was depicted on Gilly 1802. The Słownik geograficzny calls the stream
+  at Trąbczyn, Maryantów and Szetlewek the *Biały*;[^1][^2][^3] today it is named *Bawół* on
+  OpenStreetMap.[^4]
 names:
 - form: Czarna Struga
   year: null
   note: heading
   footnote: null
-aliases: []
+- form: Biały
+  year: null
+  note: at Trąbczyn, Maryantów and Szetlewek
+  footnote: 1
+- form: Bawół
+  year: null
+  note: today
+  footnote: 4
+aliases:
+- Biały
+- Bawół
 maps:
 - map: gilly1802
   form: Frischfeuer
-  note: A hammer mill (Ger. ) existed along the Czarna Struga river south of Mariantów
-    and was depicted on
-footnotes: []
+  note: A hammer mill (Ger. ) existed along the Czarna Struga river south of Mariantów and was
+    depicted on
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XII, p. 448
+  refs:
+  - source: slownik
+    locator: t. XII, p. 448
+    status: missing
+  note: null
+- n: 2
+  text: Słownik geograficzny, t. VI, p. 153
+  refs:
+  - source: slownik
+    locator: t. VI, p. 153
+    status: missing
+  note: null
+- n: 3
+  text: Słownik geograficzny, t. XI, p. 911
+  refs:
+  - source: slownik
+    locator: t. XI, p. 911
+    status: missing
+  note: null
+- n: 4
+  text: OpenStreetMap
+  refs:
+  - source: openstreetmap
+    locator: Bawół
+    link: null
+    status: missing
+  note: null
 review: []

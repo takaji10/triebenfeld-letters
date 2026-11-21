@@ -1,7 +1,7 @@
 ---
 layout: place
 place: "imielno"
-title: "Imielno"
+title: "Imielno Olędry"
 lang: en
 permalink: "/places/imielno/"
 alt_url: "/de/orte/imielno/"
@@ -20,7 +20,7 @@ hits_docs_count: 5
 
 *Dated forms of the name:* *Imielno*; *Imielno Olędry*; *Chemelino* 1243 [^27]; *Imielna* 1859 [^32].
 
-Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Jemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843). The Słownik geograficzny records it as a folwark, in gmina Trąbczyn, parish of Zagórów, powiat słupecki, with 4 houses and 42 inhabitants at the time of the Słownik.[^31] Nazwy miejscowe Polski records the name as *Imielna* by 1859, later as *Imielno* (1877).[^32]
+Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Jemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843). The Słownik geograficzny records it as a village and folwark, gmina Trąbczyn, parish of Zagórów, powiat słupecki, 17 versts from Słupca, the village with 4 houses and the folwark, part of the Łukom estate, with 2 houses and 42 inhabitants.[^31] Nazwy miejscowe Polski records it as *Gemelne* in 1461-82 and *Imielno Łukomskich* in 1559-61, as *Imielna* in 1859 and *Imielno* from 1877.[^32]
 
 [^27]: Zakrzewski, vol. 1, No. 238
     [The document.](/documents/kdw/3/)
@@ -43,7 +43,7 @@ Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where
 
 <div class="place-map">
 <div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.835218%2C52.122251999999996%2C17.875218%2C52.162252&amp;layer=mapnik&amp;marker=52.142252%2C17.855218" title="Imielno" loading="lazy"></iframe>
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.835218%2C52.122251999999996%2C17.875218%2C52.162252&amp;layer=mapnik&amp;marker=52.142252%2C17.855218" title="Imielno Olędry" loading="lazy"></iframe>
 </div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.142252&amp;mlon=17.855218#map=15/52.142252/17.855218" rel="noopener">{{ t.map_link }}</a></p>
 </div>
