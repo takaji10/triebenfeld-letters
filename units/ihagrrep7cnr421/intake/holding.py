@@ -47,7 +47,8 @@ import courtbook  # noqa: E402
 SLUG = 'ihagrrep7cnr421'
 REF = 'I. HA GR, Rep. 7 C, Nr. 421'
 PREFIX = 'I_HA_Rep_7_C_Nr_421_'
-RAW = r'C:\Users\Tersnaus\Downloads\74344_Lacko\I_HA_Rep_7_C_Nr_421'
+# moved by the editor from Downloads\74344_Lacko to J: (found 2026-11-22)
+RAW = r'J:\Documents\Archive\Genealogy\References\Secret State Archives Prussian Cultural Heritage Foundation\I_HA_Rep_7_C_Nr_421'
 TXT = os.path.join(RAW, 'txt')
 
 

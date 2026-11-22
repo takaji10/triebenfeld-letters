@@ -50,7 +50,7 @@ RULES = [
     ('5', 'Bereits unter dem 9ten Oct[o]br.', 'break'),
     ('5', 'Allerhöchstdieselben wiederholenlich', 'run'),
     ('6', 'Łukom bei Peysern', 'run'),
-    ('6', './.', 'run'),
+    ('6', '·/·', 'run'),
     ('6', 'den Starosten', 'run'),
     ('6', 'Anton v[on] Prusimski', 'run'),
     # ('6', 'auf Trąmpczyn', 'run') and ('7', 'c. Fiscum betr:)', 'run'): no longer candidates

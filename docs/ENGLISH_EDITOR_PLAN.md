@@ -146,3 +146,15 @@ Paid runs: none.
    text's paragraphs) come with the first?
 4. Indentation in three steps enough, or do you also want centred lines (for
    headings and addresses centred on the page)?
+
+## The editor's answers (2026-11-22)
+
+1. No markup in the finished translation; the Tab key indents in the editor.
+   (The stored layout is the machine's affair; its form is free.)
+2. On the live site.
+3. Yes: setting voices apart, and the German reading text's paragraphs, in
+   the first version.
+4. Yes: alignment left, right and centre.
+5. (Massow: no person entry.)
+
+Next session: build it in the plan's steps with these answers.

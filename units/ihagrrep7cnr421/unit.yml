@@ -62,7 +62,7 @@ published_tag: ""
 # others are openings of the file, cut at the fold by intake/holding.py, which
 # records the folds, the page edges and the blank sides left out.
 scans:
-  raw_dir: C:/Users/Tersnaus/Downloads/74344_Lacko/I_HA_Rep_7_C_Nr_421
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/I_HA_Rep_7_C_Nr_421
   raw_glob: I_HA_Rep_7_C_Nr_421_*.jpg
 
   # Web derivatives are copied into site/assets/scans/ under an ASCII-safe

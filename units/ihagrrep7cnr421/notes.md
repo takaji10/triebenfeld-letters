@@ -331,3 +331,11 @@ real gaps in the reading.
 handwritten bond, checked against Krünitz's "Chirographarius"), `antichresis`
 (checked: false; Krünitz has no entry under the name, its "Hypothek" could
 not be read).
+
+**2026-11-22, last**: expansions of several words take spaces ("W[ielmożnemu]
+J[egomości] Panu", "pro C[ent]."); the versus sign is written "·/·" in this
+unit (the editor), the English keeping "v."; "#" is "ducats" in the English
+throughout. The raw folder moved to J: (Secret State Archives Prussian Cultural
+Heritage Foundation\I_HA_Rep_7_C_Nr_421); `holding.py` and unit.yml follow.
+Two paragraph rows left for review after this change (paragraphs.py).
+Massow gets no person entry (the editor).

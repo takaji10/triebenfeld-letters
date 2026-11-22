@@ -141,15 +141,15 @@ page	line	form	expansion	occurrence	confidence	note
 0013_a2	1	c.	c[urrentis].	1	likely	27. Februar c.
 0013_a2	15	E K M	E[urer] K[öniglichen] M[ajestät]	1	likely	formula, no stops
 0013_a2	20	Term.	Term[inum].	1	likely	Termin; German Termin written 0003_a2 L19
-0013_a2	26	proC.	proC[ent].	1	ruled	
+0013_a2	26	proC.	pro C[ent].	1	ruled	
 0014_a1	5	u.	u[nd].	1	sure	und
 0014_a1	11	p p	p[erge] p[erge]	1	likely	et cetera
 0014_a1	12	E K M	E[urer] K[öniglichen] M[ajestät]	1	likely	formula
 0014_a1	13	p p p	p[erge] p[erge] p[erge]	1	likely	et cetera
 0014_a1	14	v	v[on]	1	sure	von before name
-0014_a2	5	WJPanu	W[ielmożnemu]J[egomości]Panu	1	ruled	"Wielmożnemu Jegomości Panu, the fixed form of address (dative, with ""Chełmskiemu"")"
-0014_a2	19	WJP	W[ielmożny]J[egomość]P[an]	1	ruled	Wielmożny Jegomość Pan, the same form (nominative)
-0014_a2	29	WJM	W[ielmożnego]J[ego]M[ości]	1	ruled	"Wielmożnego Jego Mości, the same form, with ""Pana"""
+0014_a2	5	WJPanu	W[ielmożnemu] J[egomości] Panu	1	ruled	"Wielmożnemu Jegomości Panu, the fixed form of address (dative, with ""Chełmskiemu"")"
+0014_a2	19	WJP	W[ielmożny] J[egomość] P[an]	1	ruled	Wielmożny Jegomość Pan, the same form (nominative)
+0014_a2	29	WJM	W[ielmożnego] J[ego] M[ości]	1	ruled	"Wielmożnego Jego Mości, the same form, with ""Pana"""
 0014_a2	33	Mpp	M[anu] p[ro]p[ria]	1	sure	manu propria, signature formula; letters M p p in order
 0016_a2	1	n:	n[umero]:	1	likely	ad n[umerum]/n[umero]; ad n: 9 = to number 9; ending uncertain
 0016_a2	2	Crim.	Crim[inal].	1	sure	Criminal Rath written 0008_a2 L6
@@ -177,3 +177,7 @@ page	line	form	expansion	occurrence	confidence	note
 0017_a2	23	Sign:	Sign[atum]:	1	sure	Signatum
 0017_a2	23	Dec:	Dec[ember]:	1	sure	December written L1
 0007_a2	9	d.	d[en].	1	likely	office date note
+0006_a2	7	./.	·/·	1	ruled	the versus sign written ·/· in this unit (the editor, 2026-11-22: "In this unit please change ./. to ·/·")
+0006_a2	26	./.	·/·	1	ruled	the versus sign written ·/· in this unit (the editor, 2026-11-22: "In this unit please change ./. to ·/·")
+0008_a2	12	./.	·/·	1	ruled	the versus sign written ·/· in this unit (the editor, 2026-11-22: "In this unit please change ./. to ·/·")
+0012_a2	7	./.	·/·	1	ruled	the versus sign written ·/· in this unit (the editor, 2026-11-22: "In this unit please change ./. to ·/·")

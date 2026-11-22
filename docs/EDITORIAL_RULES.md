@@ -188,6 +188,11 @@ than where it sits.
   `S[eine]r.`, each as the grammar and the document's own written-out forms
   require. A sign that is not letters (`#`, `./.`) stays as it is; the
   English gives the word. Ordinals ("8.ten", "16t") are not abbreviations.
+  **An abbreviation of several words is expanded with a space between the
+  words**, though the page writes the letters together (the editor,
+  2026-11-22: "W[ielmożnemu]J[egomości]Panu - remember that this is three
+  words, so there should be a space"): `W[ielmożnemu] J[egomości] Panu`,
+  `pro C[ent].`.
 - **An initial that is read, with the name supplied**, is written with the
   supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
   `A[lvensleben]`), and only where the name follows from something other
