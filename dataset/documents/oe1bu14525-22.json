@@ -69,6 +69,9 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    1
+   ],
    "scan": "Oe_1_Bu_14525_0085_a2-L22_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 33
@@ -90,6 +93,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    30
+   ],
    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
    "doc_line_start": 34,
    "doc_line_end": 64
@@ -112,6 +118,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    4,
+    11
+   ],
    "scan": "Oe_1_Bu_14525_0086_a2-L22_03.jpg",
    "doc_line_start": 65,
    "doc_line_end": 92
@@ -132,6 +142,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [],
    "scan": "Oe_1_Bu_14525_0087_a1-L22_04.jpg",
    "doc_line_start": 93,
    "doc_line_end": 118
@@ -153,6 +164,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    11
+   ],
    "scan": "Oe_1_Bu_14525_0087_a2-L22_05.jpg",
    "doc_line_start": 119,
    "doc_line_end": 147
@@ -173,6 +187,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [],
    "scan": "Oe_1_Bu_14525_0088_a1-L22_06.jpg",
    "doc_line_start": 148,
    "doc_line_end": 174
@@ -194,6 +209,10 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    0,
+    10
+   ],
    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
    "doc_line_start": 175,
    "doc_line_end": 200
@@ -216,6 +235,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    10,
+    13
+   ],
    "scan": "Oe_1_Bu_14525_0089_a1-L22_08.jpg",
    "doc_line_start": 201,
    "doc_line_end": 223
@@ -242,6 +265,14 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    4,
+    5,
+    8,
+    18,
+    21,
+    22
+   ],
    "scan": "Oe_1_Bu_14525_0089_a2-L22_09.jpg",
    "doc_line_start": 224,
    "doc_line_end": 249
@@ -266,6 +297,12 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    16,
+    26,
+    31,
+    33
+   ],
    "scan": "Oe_1_Bu_14525_0090_a1-L22_10.jpg",
    "doc_line_start": 250,
    "doc_line_end": 284

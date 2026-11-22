@@ -70,6 +70,20 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
    "scan": "APL_39_98_0_1333_0088_a-L3_01.jpg",
    "office_lines": [
     8,
@@ -107,6 +121,13 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
    "scan": "APL_39_98_0_1333_0088_b-L3_02.jpg",
    "doc_line_start": 14,
    "doc_line_end": 19,
@@ -128,6 +149,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1
+   ],
    "scan": "APL_39_98_0_1333_0089_a-L3_03.jpg",
    "doc_line_start": 20,
    "doc_line_end": 21,
@@ -158,6 +182,17 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
    "scan": "APL_39_98_0_1333_0089_b-L3_04.jpg",
    "doc_line_start": 22,
    "doc_line_end": 31,

@@ -54,6 +54,18 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
     "scan": "APL_39_98_0_1333_0001_a-L1_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 12
@@ -74,6 +86,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0002_a-L1_02.jpg",
     "doc_line_start": 13,
     "doc_line_end": 22
@@ -94,6 +117,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0003_a-L1_03.jpg",
     "doc_line_start": 23,
     "doc_line_end": 32
@@ -114,6 +148,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0004_a-L1_04.jpg",
     "doc_line_start": 33,
     "doc_line_end": 42
@@ -134,6 +179,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0005_a-L1_05.jpg",
     "doc_line_start": 43,
     "doc_line_end": 52
@@ -154,6 +210,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0006_a-L1_06.jpg",
     "doc_line_start": 53,
     "doc_line_end": 62
@@ -174,6 +241,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0007_a-L1_07.jpg",
     "doc_line_start": 63,
     "doc_line_end": 72
@@ -194,6 +272,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0008_a-L1_08.jpg",
     "doc_line_start": 73,
     "doc_line_end": 82
@@ -214,6 +303,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0009_a-L1_09.jpg",
     "doc_line_start": 83,
     "doc_line_end": 92
@@ -234,6 +334,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0010_a-L1_10.jpg",
     "doc_line_start": 93,
     "doc_line_end": 102
@@ -254,6 +365,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0011_a-L1_11.jpg",
     "doc_line_start": 103,
     "doc_line_end": 112
@@ -274,6 +396,22 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
     "scan": "APL_39_98_0_1333_0012_a-L1_12.jpg",
     "doc_line_start": 113,
     "doc_line_end": 127
@@ -294,6 +432,23 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
     "scan": "APL_39_98_0_1333_0013_a-L1_13.jpg",
     "doc_line_start": 128,
     "doc_line_end": 143
@@ -314,6 +469,11 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3
+    ],
     "scan": "APL_39_98_0_1333_0014_a-L1_14.jpg",
     "doc_line_start": 144,
     "doc_line_end": 148
@@ -381,6 +541,7 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APL_39_98_0_1333_0041_a-L2_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 1
@@ -459,6 +620,20 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
     "scan": "APL_39_98_0_1333_0088_a-L3_01.jpg",
     "office_lines": [
      8,
@@ -496,6 +671,13 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
     "scan": "APL_39_98_0_1333_0088_b-L3_02.jpg",
     "doc_line_start": 14,
     "doc_line_end": 19,
@@ -517,6 +699,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APL_39_98_0_1333_0089_a-L3_03.jpg",
     "doc_line_start": 20,
     "doc_line_end": 21,
@@ -547,6 +732,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APL_39_98_0_1333_0089_b-L3_04.jpg",
     "doc_line_start": 22,
     "doc_line_end": 31,
@@ -617,6 +813,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APL_39_98_0_1333_0113_a-L4_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -640,6 +840,10 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APL_39_98_0_1333_0113_b-L4_02.jpg",
     "doc_line_start": 4,
     "doc_line_end": 6,
@@ -662,6 +866,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APL_39_98_0_1333_0114_a-L4_03.jpg",
     "doc_line_start": 7,
     "doc_line_end": 8,
@@ -685,6 +892,10 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APL_39_98_0_1333_0114_b-L4_04.jpg",
     "doc_line_start": 9,
     "doc_line_end": 11,
@@ -708,6 +919,10 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APL_39_98_0_1333_0115_a-L4_05.jpg",
     "doc_line_start": 12,
     "doc_line_end": 14,
@@ -732,6 +947,11 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3
+    ],
     "scan": "APL_39_98_0_1333_0115_b-L4_06.jpg",
     "doc_line_start": 15,
     "doc_line_end": 18,
@@ -810,6 +1030,18 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
     "scan": "APL_39_98_0_1333_0163_a-L5_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 11,
@@ -882,6 +1114,12 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4
+    ],
     "scan": "APL_39_98_0_1333_0176_a-L6_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 5,
@@ -904,6 +1142,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APL_39_98_0_1333_0176_b-L6_02.jpg",
     "doc_line_start": 6,
     "doc_line_end": 7,
@@ -927,6 +1168,10 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APL_39_98_0_1333_0177_a-L6_03.jpg",
     "doc_line_start": 8,
     "doc_line_end": 10,
@@ -956,6 +1201,16 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
     "scan": "APL_39_98_0_1333_0177_b-L6_04.jpg",
     "doc_line_start": 11,
     "doc_line_end": 19,

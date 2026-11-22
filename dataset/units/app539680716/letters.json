@@ -52,6 +52,32 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24
+    ],
     "scan": "APP_53_968_0_716_5160_a-L1_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 27
@@ -72,6 +98,14 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
     "scan": "APP_53_968_0_716_5161_a-L1_02.jpg",
     "doc_line_start": 28,
     "doc_line_end": 38
@@ -131,6 +165,18 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
     "scan": "APP_53_968_0_716_5163_a2-L2_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 13
@@ -151,6 +197,22 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
     "scan": "APP_53_968_0_716_5164_a1-L2_02.jpg",
     "doc_line_start": 14,
     "doc_line_end": 28
@@ -171,6 +233,18 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     13
+    ],
     "scan": "APP_53_968_0_716_5164_a2-L2_03.jpg",
     "doc_line_start": 29,
     "doc_line_end": 45
@@ -231,6 +305,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 9
@@ -292,6 +369,7 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2
@@ -312,6 +390,23 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
     "scan": "APP_53_968_0_716_5165_a2-L4_02.jpg",
     "doc_line_start": 3,
     "doc_line_end": 18
@@ -332,6 +427,22 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
     "scan": "APP_53_968_0_716_5166_a1-L4_03.jpg",
     "doc_line_start": 19,
     "doc_line_end": 33
@@ -352,6 +463,22 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
     "scan": "APP_53_968_0_716_5166_a2-L4_04.jpg",
     "doc_line_start": 34,
     "doc_line_end": 48
@@ -372,6 +499,22 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
     "scan": "APP_53_968_0_716_5167_a1-L4_05.jpg",
     "doc_line_start": 49,
     "doc_line_end": 63
@@ -392,6 +535,22 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
     "scan": "APP_53_968_0_716_5167_a2-L4_06.jpg",
     "doc_line_start": 64,
     "doc_line_end": 78
@@ -412,6 +571,23 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
     "scan": "APP_53_968_0_716_5169_a1-L4_07.jpg",
     "doc_line_start": 79,
     "doc_line_end": 97
@@ -432,6 +608,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5169_a2-L5_01.jpg",
     "doc_line_start": 98,
     "doc_line_end": 105
@@ -495,6 +672,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     2,
+     4
+    ],
     "scan": "APP_53_968_0_716_5169_a2-L5_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 6
@@ -516,6 +697,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     6
+    ],
     "scan": "APP_53_968_0_716_5170_a1-L6_01.jpg",
     "doc_line_start": 7,
     "doc_line_end": 13
@@ -579,6 +763,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     3,
+     6
+    ],
     "scan": "APP_53_968_0_716_5170_a1-L6_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 9
@@ -599,6 +787,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5170_a2-L7_01.jpg",
     "doc_line_start": 10,
     "doc_line_end": 13
@@ -660,6 +849,7 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5170_a2-L7_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 10
@@ -719,6 +909,7 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5171_a1-L8_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2
@@ -739,6 +930,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5171_a2-L8_02.jpg",
     "doc_line_start": 3,
     "doc_line_end": 4
@@ -761,6 +953,10 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     2,
+     14
+    ],
     "scan": "APP_53_968_0_716_5172_a1-L8_03.jpg",
     "doc_line_start": 5,
     "doc_line_end": 19
@@ -783,6 +979,10 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     8,
+     11
+    ],
     "scan": "APP_53_968_0_716_5172_a2-L8_04.jpg",
     "doc_line_start": 20,
     "doc_line_end": 33
@@ -804,6 +1004,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     4
+    ],
     "scan": "APP_53_968_0_716_5173_a1-L8_05.jpg",
     "doc_line_start": 34,
     "doc_line_end": 42
@@ -824,6 +1027,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5173_a2-L8_06.jpg",
     "doc_line_start": 43,
     "doc_line_end": 54
@@ -845,6 +1049,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     9
+    ],
     "scan": "APP_53_968_0_716_5174_a1-L8_07.jpg",
     "doc_line_start": 55,
     "doc_line_end": 76
@@ -866,6 +1073,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     6
+    ],
     "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
     "doc_line_start": 77,
     "doc_line_end": 87
@@ -925,6 +1135,18 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
     "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 12
@@ -945,6 +1167,22 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
     "scan": "APP_53_968_0_716_5175_a1-L9_02.jpg",
     "doc_line_start": 13,
     "doc_line_end": 27
@@ -965,6 +1203,20 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     13,
+     14
+    ],
     "scan": "APP_53_968_0_716_5175_a2-L9_03.jpg",
     "doc_line_start": 28,
     "doc_line_end": 42
@@ -985,6 +1237,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5176_a1-L10_01.jpg",
     "doc_line_start": 43,
     "doc_line_end": 49
@@ -1045,6 +1298,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     7
+    ],
     "scan": "APP_53_968_0_716_5176_a1-L10_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 8
@@ -1069,6 +1325,12 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4
+    ],
     "scan": "APP_53_968_0_716_5176_a2-L10_02.jpg",
     "doc_line_start": 9,
     "doc_line_end": 16
@@ -1128,6 +1390,20 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
     "scan": "APP_53_968_0_716_5177_a1-L11_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 13
@@ -1148,6 +1424,23 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
     "scan": "APP_53_968_0_716_5177_a2-L11_02.jpg",
     "doc_line_start": 14,
     "doc_line_end": 29
@@ -1168,6 +1461,23 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
     "scan": "APP_53_968_0_716_5178_a1-L11_03.jpg",
     "doc_line_start": 30,
     "doc_line_end": 45
@@ -1188,6 +1498,17 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
     "scan": "APP_53_968_0_716_5178_a2-L11_04.jpg",
     "doc_line_start": 46,
     "doc_line_end": 55
@@ -1208,6 +1529,11 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3
+    ],
     "scan": "APP_53_968_0_716_5179_a1-L12_01.jpg",
     "doc_line_start": 56,
     "doc_line_end": 62
@@ -1268,6 +1594,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     2
+    ],
     "scan": "APP_53_968_0_716_5179_a1-L12_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 7
@@ -1288,6 +1617,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5179_a2-L13_01.jpg",
     "doc_line_start": 8,
     "doc_line_end": 8
@@ -1347,6 +1677,7 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5179_a2-L13_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 16
@@ -1367,6 +1698,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_968_0_716_5180_a-L13_02.jpg",
     "doc_line_start": 17,
     "doc_line_end": 31

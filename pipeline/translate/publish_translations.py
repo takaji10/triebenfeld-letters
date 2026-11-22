@@ -33,6 +33,7 @@ _sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.dir
 
 import unitlib
 import english_forms
+import english_layout
 import io, os, re, sys, csv, json, argparse
 
 import yaml
@@ -237,6 +238,11 @@ def main():
             published += 1
             continue
 
+        # the editor's layout of the English (english_layout.py, 2026-11-22)
+        _lp = []
+        english_layout.attach(pad, segs, _lp)
+        for _x in _lp:
+            print('  !!', _x)
         with open(dest, 'w', encoding='utf-8', newline='\n') as f:
             yaml.safe_dump({'status': 'draft', 'segments': segs}, f,
                            allow_unicode=True, sort_keys=False, width=100)

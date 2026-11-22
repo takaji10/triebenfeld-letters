@@ -5,80 +5,80 @@
 1,15,break,high,short_line,0.36,14,39,19 Febr. 1803.,Des Königs Majestät haben an Euer Excellenz und mich das origina¬
 1,29,break,high,short_line+column,0.21,8,39,Goldbeck,An
 1,30,run,review,short_line,0.05,2,39,An,des Königlichen Wirklich Geheimen Etats
-1,34,run,held,hand,0.31,12,39,von Haugwitz,Excellenz
-2,38,break,held,hand,0.39,21,54,pr den 22t April 1803,Nachdem die Regierung zu Posen die wider den ehemaligen Starosten
+1,34,run,held,short_line+column,0.31,12,39,von Haugwitz,Excellenz
+2,38,break,held,short_line,0.39,21,54,pr den 22t April 1803,Nachdem die Regierung zu Posen die wider den ehemaligen Starosten
 2,47,break,high,short_line,0.52,28,54,neigt an mich zu remittiren.,Berlin den 22ten April 1803.
 2,48,break,high,short_line,0.52,28,54,Berlin den 22ten April 1803.,Goldbeck
 2,49,break,high,short_line+column,0.15,8,54,Goldbeck,An
-2,50,run,held,hand,0.04,2,54,An,des Königln. würkl. Geheimen Staats-
+2,50,run,held,short_line+column,0.04,2,54,An,des Königln. würkl. Geheimen Staats-
 2,52,run,review,short_line,0.63,34,54,Krieges-Cabinets- und dirigirenden,"Finanz-Ministers Herrn Grafen von Haugwitz,"
 3,57,break,high,short_line+column,0.68,17,25,An d 29 Apr. 1803,An
 3,58,run,review,short_line,0.08,2,25,An,des [sub?] lit. Herrn von
 3,60,break,high,short_line+column,0.68,17,25,Goldbeck Exellenz,An v Prusiemski &
-3,61,run,held,hand,0.68,17,25,An v Prusiemski &,Jezierski
-3,62,break,held,hand,0.36,9,25,Jezierski,Im völligen Einverständnis
+3,61,run,held,short_line+column,0.68,17,25,An v Prusiemski &,Jezierski
+3,62,break,held,short_line,0.36,9,25,Jezierski,Im völligen Einverständnis
 3,84,break,high,rubric+short_line,0.68,17,25,"geglaubt, daß ich",d. 3ten May. ins: cum 2 vol: Actor: pLch:
-3,97,break,held,hand,0.18,3,16,bey,Berlin d 29 Apr
+3,97,break,held,short_line,0.18,3,16,bey,Berlin d 29 Apr
 3,99,break,high,short_line,0.3,5,16,1803.,Haug[witz]
-4,103,break,held,hand,0.32,19,59,pr den 21. May 1803,"Nachdem auf unsern gemeinschaftlichen Bericht, die Rückkehr"
+4,103,break,held,short_line,0.32,19,59,pr den 21. May 1803,"Nachdem auf unsern gemeinschaftlichen Bericht, die Rückkehr"
 4,116,break,high,short_line+column,0.42,25,59,Berlin den 11ten May 1803,Goldbeck
 4,117,break,high,short_line+column,0.14,8,59,Goldbeck,An
-4,118,run,held,hand,0.03,2,59,An,des Königl. würkl. Geheimen Staats-
-4,121,run,held,hand,0.68,40,59,nanz Ministers Herrn Grafen von Haugwitz,Excellenz
+4,118,run,held,short_line+column,0.03,2,59,An,des Königl. würkl. Geheimen Staats-
+4,121,run,held,short_line+column,0.68,40,59,nanz Ministers Herrn Grafen von Haugwitz,Excellenz
 4,124,break,high,short_line+column,0.2,4,20,Cito,1261
 4,125,break,high,rubric+short_line,0.2,4,20,1261,"1, Die munda sind zu Sr."
 4,130,run,review,short_line,0.63,13,20,der Cab Ordre,act. Cop. der Cab. O.
-4,132,run,held,hand,0.63,13,20,und der Expe.,Sr Exc v. Goldbeck depart
+4,132,run,held,short_line,0.63,13,20,und der Expe.,Sr Exc v. Goldbeck depart
 4,134,break,high,rubric,0.98,20,20,abzugeben u zwar mit,"2, Exp. 2. neml. einem [?]"
-4,136,run,held,hand,2.0,41,20,"an Sr v. Goldbeck aus dieses[?], und Exp.",3. 4. notificirt
+4,136,run,held,rubric,2.0,41,20,"an Sr v. Goldbeck aus dieses[?], und Exp.",3. 4. notificirt
 4,137,break,high,rubric,0.78,16,20,3. 4. notificirt,"3, Exp. notificatorium an"
 4,146,break,high,rubric+short_line,0.34,6,18,zeigen,"4, Camm. Exp. 3. [?]"
-4,147,run,held,hand,1.14,20,18,"4, Camm. Exp. 3. [?]",v. Voss zur Mit¬
-5,153,break,held,hand,0.1,5,52,Copia,"Ew. Königl. Majestät haben allergnädigst geruht, uns die"
+4,147,run,held,rubric,1.14,20,18,"4, Camm. Exp. 3. [?]",v. Voss zur Mit¬
+5,153,break,held,short_line,0.1,5,52,Copia,"Ew. Königl. Majestät haben allergnädigst geruht, uns die"
 5,160,break,high,short_line,0.47,24,52,erstattung zuzufertigen.,Nachdem die von der Regierung zu Posen erforder¬
 5,163,break,high,rubric+short_line,0.68,35,52,gendes allerunterthänigst anzeigen.,"1., der Anton von Prusiemski wurde beschuldiget, daß er"
 5,181,break,high,short_line,0.35,18,52,untersucht worden.,Die Regierung hielt solche auch nicht dazu hinreichend
 5,204,break,high,rubric,0.82,39,48,weiter kein Vermögen im Lande besessen.,"2., der zweite Supplicanten Xaver von Jezierski, war"
 5,219,break,high,short_line,0.52,24,46,Commission gewesen seyn.,"Auch gegen ihn, der von seiner Flucht nicht zurück¬"
 5,248,break,high,short_line,0.16,5,32,tens:,daß demselben wohl zu deferiren seyn
-5,250,break,held,hand,0.22,7,32,dürfte;,welches wir jedoch lediglich Ew. K. M. Aller¬
+5,250,break,held,short_line,0.22,7,32,dürfte;,welches wir jedoch lediglich Ew. K. M. Aller¬
 5,254,break,high,short_line+column,0.56,18,32,Goldbeck. Haugwitz,An
-5,255,run,held,hand,0.06,2,32,An,Sr Königl: Majestät.
+5,255,run,held,short_line+column,0.06,2,32,An,Sr Königl: Majestät.
 6,259,break,high,short_line,0.17,10,58,Abschrift.,Meine lieben Staatsminister Großkanzler von Goldbeck und Graf
 6,270,break,high,short_line,0.48,28,58,"Potsdam, den 10ten May 1803.",Friedrich Wilhelm
 6,271,break,high,short_line+column,0.29,17,58,Friedrich Wilhelm,An
-6,272,run,held,hand,0.03,2,58,An,die Staatsminister Großkanzler
-6,273,run,held,hand,0.52,30,58,die Staatsminister Großkanzler,v. Goldbeck und Grafen v. Haugwitz.
+6,272,run,held,short_line+column,0.03,2,58,An,die Staatsminister Großkanzler
+6,273,run,held,rubric+short_line,0.52,30,58,die Staatsminister Großkanzler,v. Goldbeck und Grafen v. Haugwitz.
 7,277,break,high,short_line,0.17,10,59,Abschrift.,Friedrich Wilhelm p.
 7,278,break,high,short_line,0.34,20,59,Friedrich Wilhelm p.,Unsern p. Indem wir Euch die mittelst Berichts vom 24. ten März c. ein
 7,289,break,high,short_line,0.32,19,59,den 11ten May 1803.,Auzl p. Special-Befehl.
 7,290,break,high,short_line,0.39,23,59,Auzl p. Special-Befehl.,Goldbeck
-7,291,run,held,hand,0.14,8,59,Goldbeck,Haugwitz
+7,291,run,held,short_line+column,0.14,8,59,Goldbeck,Haugwitz
 7,292,break,high,short_line+column,0.14,8,59,Haugwitz,An
-7,293,run,held,hand,0.03,2,59,An,die SüdPreußl. Regierung
-7,294,run,held,hand,0.41,24,59,die SüdPreußl. Regierung,zu Posen
-7,295,break,held,hand,0.14,8,59,zu Posen,Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton
-7,296,run,held,hand,0.9,53,59,Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton,v. Prusiemski und dem Xaver von Jezierski auf ihre Imme¬
+7,293,run,held,short_line+column,0.03,2,59,An,die SüdPreußl. Regierung
+7,294,run,held,short_line+column,0.41,24,59,die SüdPreußl. Regierung,zu Posen
+7,295,break,held,short_line,0.14,8,59,zu Posen,Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton
+7,296,run,held,rubric,0.9,53,59,Sr: Königl: Maj. von Preußen U. A. H. laßen dem Anton,v. Prusiemski und dem Xaver von Jezierski auf ihre Imme¬
 7,309,break,high,short_line,0.48,13,27,laßen worden.,"Berlin, den 11ten May 1803."
-7,312,run,held,hand,0.3,8,27,Goldbeck,Haugwitz
+7,312,run,held,short_line+column,0.3,8,27,Goldbeck,Haugwitz
 7,313,break,high,short_line+column,0.3,8,27,Haugwitz,An
 7,314,run,review,short_line,0.07,2,27,An,den ehemaligen Starosten Anton
-7,315,run,held,hand,1.11,30,27,den ehemaligen Starosten Anton,v. Prusiemski und den Xaver
+7,315,run,held,rubric,1.11,30,27,den ehemaligen Starosten Anton,v. Prusiemski und den Xaver
 8,321,run,review,short_line,0.08,2,26,An,des König. Et. Min. p von
 8,323,break,high,short_line,0.58,15,26,Voss Excellenz.,[H?]
-8,324,break,held,hand,0.15,4,26,[H?],Da Sr. Königl. Majestät ver¬
+8,324,break,held,short_line,0.15,4,26,[H?],Da Sr. Königl. Majestät ver¬
 8,345,break,high,short_line,0.42,11,26,ben werden.,Berlin den 30. May 1803
-8,346,break,held,hand,0,0,0,Berlin den 30. May 1803,An
 8,347,run,review,short_line,0.08,2,26,An,des Königl. Großkanzlers Et.
 8,350,break,high,rubric+short_line,0.54,14,26,[Signature M?],d. 6. ten Juny beides c. alltis ins.
-8,351,break,held,hand,0,0,0,d. 6. ten Juny beides c. alltis ins.,Ewr Excellenz danke ich ver¬
 8,359,run,review,short_line,0.69,18,26,test communicirten,original Cabinets Ordre remittire ich De¬
 8,374,break,high,short_line,0.39,9,23,zu laßen.,Berlin den 30. May 1803
-9,380,run,held,hand,0.08,2,24,An,die Kammer
-9,381,run,held,hand,0.41,10,24,die Kammer,zu Posen.
+9,380,run,held,short_line+column,0.08,2,24,An,die Kammer
+9,381,run,held,short_line+column,0.41,10,24,die Kammer,zu Posen.
 9,382,break,high,short_line,0.37,9,24,zu Posen.,[H.?]
-9,383,break,held,hand,0.2,5,24,[H.?],zur gefälligen Mitzeichnung
-9,388,break,held,hand,0.69,17,24,Friedrich Wilhelm,In der abschriftlichen Anlage
-9,403,break,held,hand,0.24,6,24,Sind p,Berlin den 30. May 1803.
+9,383,break,held,short_line,0.2,5,24,[H.?],zur gefälligen Mitzeichnung
+9,388,break,held,short_line,0.69,17,24,Friedrich Wilhelm,In der abschriftlichen Anlage
+9,403,break,held,short_line,0.24,6,24,Sind p,Berlin den 30. May 1803.
 9,405,break,high,short_line,0.33,8,24,Ad mand:,[M?]
-9,406,run,held,hand,0.16,4,24,[M?],Haugwitz
+9,406,run,held,short_line+column,0.16,4,24,[M?],Haugwitz
+8,346,break,held,hand,0,0,0,Berlin den 30. May 1803,An
+8,351,break,held,hand,0,0,0,d. 6. ten Juny beides c. alltis ins.,Ewr Excellenz danke ich ver¬

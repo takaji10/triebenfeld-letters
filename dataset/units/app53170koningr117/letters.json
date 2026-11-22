@@ -57,6 +57,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0035_a2-L1_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -122,6 +126,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -187,6 +195,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -209,6 +221,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
     "doc_line_start": 4,
     "doc_line_end": 5,
@@ -230,6 +245,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_17_0_Konin_Gr_117_0056_a1-L3_03.jpg",
     "doc_line_start": 6,
     "doc_line_end": 6,
@@ -294,6 +310,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -359,6 +378,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -422,6 +445,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0059_a1-L6_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -488,6 +514,11 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1,
+     2,
+     3
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 4,
@@ -510,6 +541,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
     "doc_line_start": 5,
     "doc_line_end": 6,
@@ -574,6 +608,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -595,6 +632,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_17_0_Konin_Gr_117_0073_a1-L8_02.jpg",
     "doc_line_start": 3,
     "doc_line_end": 3,
@@ -659,6 +697,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0078_a2-L9_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -680,6 +721,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_17_0_Konin_Gr_117_0079_a1-L9_02.jpg",
     "doc_line_start": 3,
     "doc_line_end": 3,
@@ -744,6 +786,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0083_a1-L10_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -809,6 +854,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -873,6 +922,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0359_a2-L12_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -895,6 +947,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0360_a1-L12_02.jpg",
     "doc_line_start": 3,
     "doc_line_end": 4,
@@ -958,6 +1013,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_117_0508_a1-L13_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,

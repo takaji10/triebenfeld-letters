@@ -230,3 +230,9 @@ corrections:
 - {pad: oe1bu9454-072a, page: 3, find: "Commission Rządząca took", replace: "Governing Commission took", why: "Die Commission [Rządząca]: Governing Commission (the Commission of 1807); \"Rządząca\" = Governing"}
 - {pad: app53170koningr136-001, page: 4, find: "before czarny bród and", replace: "before Czarny Bród and", why: "czarny bród: place name Czarny Bród (Black Ford) as in the other uses"}
 - {pad: kdw-017, page: 1, find: "burgrave and żupca at Gniezno", replace: "burgrave and salt-mine administrator (żupca) at Gniezno", why: "burgrabia i żupca w Gnieźnie: żupca = administrator of a royal salt-mine (żupa)"}
+
+# Oe 1 Bü 9454: three words read again on the scans by two readers (2026-11-22;
+# units/oe1bu9454/intake/scripts/four_words_2026_11_22.py).
+- {pad: oe1bu9454-021, page: 1, find: "express courier to the Genuenſter Fürſt", replace: "express courier to the [...] Prince", why: "an die Genuenſter Fürſt: \"Fürſt\" read by both readers, the word before by neither; never the original's letters in the English"}
+- {pad: oe1bu9454-039, page: 1, find: "unhindered to Königl. To raise", replace: "unhindered to Königsberg[?]. To raise", why: "nach Königs: reisen: the scan reads Königs:, Königsberg abbreviated (two readers)"}
+- {pad: oe1bu9454-170, page: 2, find: "the Wüsten go off", replace: "the crates go off", why: "die Kisten mit der fahrenden Poß: the scan reads Kisten, not Wüsten (two readers)"}

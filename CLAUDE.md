@@ -92,6 +92,18 @@ so check them.
    `python3 pipeline/verify_site.py`. Commit, and update `docs/NEEDS_CONFIRMATION.md`
    (Glossary section) and the changelog.
 
+## "Apply my layout file"
+
+The editor lays out the English (and the German reading text's paragraphs and
+voices) on the site with `?edit` and exports a file
+(`english_layout_<date>.json`; docs/ENGLISH_EDITOR_PLAN.md, "Built"). When
+they hand it over: run `python pipeline/translate/import_layout.py <file>`
+(check), report what it refuses (pages whose words have changed since), then
+`--write`; rebuild each holding named (`regenerate.py --unit <slug>`, then the
+holding's own `intake/paragraphs.py` if it has one, whose rules may restate a
+decision), the site, `verify_site.py`; commit, and publish at the editor's
+word. Never edit `reference/english_layout/` by hand.
+
 ## How this project is worked
 
 - **Branch and publishing.** Work on `main` (the editor, 2026-11-21: "You can

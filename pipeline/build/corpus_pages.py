@@ -440,6 +440,9 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
             'sideways_paragraphs': [k for k, f in enumerate(flags) if f == 'sideways'],
             'continues_previous': cont_prev,
             'continues_next': cont_next,
+            # The page's lines (0-based) that begin a paragraph, for the layout
+            # editor's German side (docs/ENGLISH_EDITOR_PLAN.md, 2026-11-22).
+            'para_lines': [k for k, (ln, _) in enumerate(page) if ln in (paras or set())],
             'scan': '',
         })
         # Text the receiving office wrote on the letter (office_notes.yml), in

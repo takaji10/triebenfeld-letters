@@ -56,6 +56,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -77,6 +80,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
     "doc_line_start": 3,
     "doc_line_end": 3,
@@ -140,6 +144,7 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 1,

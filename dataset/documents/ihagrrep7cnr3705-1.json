@@ -56,6 +56,9 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    16
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0002_a-L1_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 19
@@ -78,6 +81,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    6,
+    9
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0003_a-L1_02.jpg",
    "doc_line_start": 20,
    "doc_line_end": 62
@@ -100,6 +107,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    5,
+    35
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0004_a-L1_03.jpg",
    "doc_line_start": 63,
    "doc_line_end": 105
@@ -122,6 +133,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    13,
+    25
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0005_a-L1_04.jpg",
    "doc_line_start": 106,
    "doc_line_end": 147
@@ -143,6 +158,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    34
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0006_a-L1_05.jpg",
    "doc_line_start": 148,
    "doc_line_end": 192
@@ -166,6 +184,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    22,
+    24,
+    29
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0007_a-L1_06.jpg",
    "doc_line_start": 193,
    "doc_line_end": 237
@@ -191,6 +214,13 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    27,
+    29,
+    30,
+    32
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0008_a-L1_07.jpg",
    "doc_line_start": 238,
    "doc_line_end": 279
@@ -212,6 +242,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    29
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0009_a-L1_08.jpg",
    "doc_line_start": 280,
    "doc_line_end": 321
@@ -232,6 +265,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [],
    "scan": "I_HA_Rep_7_C_Nr_3705_0010_a-L1_09.jpg",
    "doc_line_start": 322,
    "doc_line_end": 363
@@ -253,6 +287,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    10
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0011_a-L1_10.jpg",
    "doc_line_start": 364,
    "doc_line_end": 403
@@ -275,6 +312,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    8,
+    24
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0012_a-L1_11.jpg",
    "doc_line_start": 404,
    "doc_line_end": 443
@@ -295,6 +336,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [],
    "scan": "I_HA_Rep_7_C_Nr_3705_0013_a-L1_12.jpg",
    "doc_line_start": 444,
    "doc_line_end": 485
@@ -319,6 +361,12 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    12,
+    18,
+    34
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0014_a-L1_13.jpg",
    "doc_line_start": 486,
    "doc_line_end": 527
@@ -339,6 +387,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [],
    "scan": "I_HA_Rep_7_C_Nr_3705_0015_a-L1_14.jpg",
    "doc_line_start": 528,
    "doc_line_end": 568
@@ -359,6 +408,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [],
    "scan": "I_HA_Rep_7_C_Nr_3705_0016_a-L1_15.jpg",
    "doc_line_start": 569,
    "doc_line_end": 610
@@ -382,6 +432,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    8,
+    9,
+    28
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0017_a-L1_16.jpg",
    "doc_line_start": 611,
    "doc_line_end": 649
@@ -406,6 +461,12 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    11,
+    12,
+    13,
+    14
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3705_0018_a-L1_17.jpg",
    "doc_line_start": 650,
    "doc_line_end": 665

@@ -961,3 +961,37 @@ details.supplied table { border-collapse: collapse; width: 100%; }
 details.supplied th, details.supplied td { text-align: left; vertical-align: top; padding: .3rem .5rem .3rem 0; border-top: 1px solid var(--rule); }
 details.supplied th { font-weight: 600; color: var(--ink-faint); }
 details.supplied .sup { font-style: italic; color: var(--accent); }
+
+/* The editor's layout of the English (docs/ENGLISH_EDITOR_PLAN.md, 2026-11-22):
+   indentation in three steps, alignment, and the layout editor (?edit). */
+.text-view[data-view="translation"] p.indent-1 { margin-left: 2em; }
+.text-view[data-view="translation"] p.indent-2 { margin-left: 4em; }
+.text-view[data-view="translation"] p.indent-3 { margin-left: 6em; }
+.text-view[data-view="translation"] p.align-c { text-align: center; text-indent: 0; }
+.text-view[data-view="translation"] p.align-r { text-align: right; text-indent: 0; }
+.text-view[data-view="translation"] p[class*="indent-"] { text-indent: 0; }
+.tf-editing { outline: 1px dashed var(--rule); outline-offset: .4em; caret-color: currentColor; }
+.tf-editing p { min-height: 1em; }
+.tf-editing p:focus-within { background: var(--paper-2); }
+body.tf-edit { padding-bottom: 4.5em; }
+.tf-editbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 50; display: flex;
+  flex-wrap: wrap; gap: .35em; align-items: center; padding: .45em 16px; background: var(--paper-2);
+  border-top: 1px solid var(--rule); font-family: var(--sans); font-size: .85em; }
+.tf-editbar button, .tf-editbar select { font: inherit; padding: .2em .55em; border: 1px solid var(--rule);
+  background: var(--paper); color: inherit; border-radius: 3px; cursor: pointer; }
+.tf-editbar .tf-title { font-weight: 600; margin-right: .4em; }
+.tf-editbar .tf-group { display: inline-flex; flex-wrap: wrap; gap: .35em; }
+.tf-editbar .tf-de { display: none; }
+body.tf-german .tf-editbar .tf-de { display: inline-flex; }
+body.tf-german .tf-editbar .tf-en { display: none; }
+.tf-editbar .tf-status { color: var(--ink-soft); margin-left: auto; }
+.tf-pmark { display: none; }
+body.tf-german .tf-pmark { display: inline-block; width: 1.4em; margin-right: .3em; padding: 0;
+  border: 0; background: none; color: var(--rule); cursor: pointer; font: inherit; }
+body.tf-german li.tf-start .tf-pmark { color: var(--ink-soft); font-weight: 700; }
+body.tf-german li.tf-changed .tf-pmark { color: #b5562a; }
+body.tf-german li[data-ln] { cursor: pointer; }
+body.tf-german li.tf-chosen { background: var(--paper-2); }
+body.tf-german li.tf-v-office, body.tf-german li.tf-v-margin, body.tf-german li.tf-v-hand {
+  box-shadow: inset 3px 0 0 #b5562a; }
+body.tf-german li.tf-v-none { box-shadow: inset 3px 0 0 var(--ink-soft); }

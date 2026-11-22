@@ -4624,6 +4624,35 @@ first and a fine pass at their word. The files are in
   to the model), `site/assets/letter.js` (the English labels) and
   `site/_data/i18n.yml`: a new kind touches all seven.
 
+### The layout editor and its tests (2026-11-22, late)
+
+- **A page script can be tested in headless Edge without installing
+  anything**: Edge is on the machine (`C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe`),
+  Node 24 has `fetch` and `WebSocket` built in. Start Edge with
+  `--headless=new --remote-debugging-port=9333 --user-data-dir=<scratch>`,
+  open the page with `PUT http://127.0.0.1:9333/json/new?<url>`, and drive it
+  with `Runtime.evaluate` over the target's WebSocket: set a selection with a
+  Range, dispatch `InputEvent('beforeinput', {inputType, cancelable: true})`
+  and `KeyboardEvent('keydown')`, read the DOM back. Serve the built site
+  with `python -m http.server` in `site/_site` (the baseurl is empty). The
+  Claude in Chrome extension was not connected this session; this did the job.
+- **Pure logic first in Node**: the editor exposes its operations
+  (`window.tfLayoutEditor`); a stand-in `window`/`document` of a few lines
+  was enough to run them, and found a real bug (a run list passed where a
+  paragraph was expected) before the browser test.
+- **`english_forms.py --apply` must never be left to rewrite
+  `site/_data/summaries.yml`**: its summaries pass groups digits with no
+  document's year range ("Corpus Christi 1,399", "articles 1,302"),
+  changes "écus" to "Reichsthaler" and so on (44 summaries). Restore the file
+  from HEAD after every `--apply` until the pass is fixed or removed.
+- **An import that maps lines by number must check the text too**: the test
+  export's guessed line was the wrong line, and the first version of
+  import_layout.py "took it by the line number". It now refuses a line whose
+  text does not match.
+- **A rewrite that removes and adds one block keeps the count**: the import's
+  "write if the number of blocks changed" missed a cut block; track the
+  change itself.
+
 ## OCR of a ruled Polish table (2026-11-05)
 
 The Rusinski 1947 sitting's lessons, for the next ruled-table scan:

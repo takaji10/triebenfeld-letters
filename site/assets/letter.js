@@ -7,6 +7,8 @@
    Both the chosen tab and the hide-scans preference are remembered between
    letters. */
 (function () {
+  // where this script was loaded from: the editor loads beside it (?edit)
+  var SELF = (document.currentScript && document.currentScript.src) || '';
   'use strict';
   var VIEW_KEY = 'tf-view';
   // The summary: clamped to a few lines, with a button for the rest. The button
@@ -116,11 +118,55 @@
       });
     } catch (e) { /* malformed translation file - leave panes empty */ }
   }
+  // The editor's layout of a page (docs/ENGLISH_EDITOR_PLAN.md): paragraphs with
+  // their indentation, alignment, italic runs and line breaks, and the voices in
+  // their boxes. Built from DOM nodes, never as HTML. Exposed for the editor.
+  function layoutPara(p) {
+    var el = document.createElement('p');
+    if (p.i) el.className = 'indent-' + p.i;
+    if (p.a === 'c' || p.a === 'r') el.className = (el.className ? el.className + ' ' : '') +
+                                                     (p.a === 'c' ? 'align-c' : 'align-r');
+    (p.r || []).forEach(function (run) {
+      var parts = String(run[0]).split('\n');
+      parts.forEach(function (t, k) {
+        if (k) el.appendChild(document.createElement('br'));
+        if (!t) return;
+        var node = document.createTextNode(t);
+        if (run[1] === 'i') { var em = document.createElement('em'); em.appendChild(node); node = em; }
+        el.appendChild(node);
+      });
+    });
+    return el;
+  }
+  function boxFor(kind) {
+    var k = { office: KINDS['[Written by the receiving office:]'],
+              margin: KINDS['[Written in the margin:]'],
+              hand: KINDS['[Written in another hand:]'] }[kind];
+    var box = document.createElement('div');
+    box.className = 'sideways ' + k[1];
+    var note = document.createElement('div');
+    note.className = 'sideways-note';
+    note.setAttribute('data-i18n', k[0]);
+    note.textContent = label(k[0], k[2]);
+    box.appendChild(note);
+    return box;
+  }
+  function fillLayout(el, layout) {
+    (layout || []).forEach(function (item) {
+      if (item.p) { el.appendChild(layoutPara(item.p)); return; }
+      var box = boxFor(item.box);
+      (item.ps || []).forEach(function (p) { box.appendChild(layoutPara(p)); });
+      el.appendChild(box);
+    });
+  }
+  window.tfLayout = { para: layoutPara, box: boxFor, fill: fillLayout, KINDS: KINDS, CONTINUES: CONTINUES };
+
   document.querySelectorAll('.text-view[data-view="translation"]').forEach(function (el) {
     var seg = byPage[el.getAttribute('data-seg')];
     // A tabulated document's English arrives as a built table, from our own
     // data file.
     if (seg && seg.html) { el.innerHTML = seg.html; return; }
+    if (seg && seg.layout) { fillLayout(el, seg.layout); return; }
     if (seg) { fillTranslation(el, seg.en); return; }
     var p = document.createElement('p');
     p.className = 'muted';
@@ -169,5 +215,12 @@
     try { savedScans = localStorage.getItem(SCAN_KEY); } catch (e) { savedScans = null; }
     applyScans(savedScans === '1');
     box.addEventListener('change', function () { applyScans(box.checked); });
+  }
+  // ---- the layout editor (docs/ENGLISH_EDITOR_PLAN.md): `?edit` in the address ----
+  window.tfShowView = apply;
+  if (/[?&]edit(?:[=&]|$)/.test(location.search) && SELF) {
+    var ed = document.createElement('script');
+    ed.src = SELF.replace(/letter\.js(\?.*)?$/, 'layout-editor.js');
+    document.body.appendChild(ed);
   }
 })();

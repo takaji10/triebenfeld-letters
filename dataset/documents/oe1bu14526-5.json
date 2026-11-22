@@ -57,6 +57,11 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    7,
+    12,
+    13
+   ],
    "scan": "Oe_1_Bu_14526_0019_b-L5_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 29
@@ -80,6 +85,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    8,
+    21,
+    26
+   ],
    "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
    "doc_line_start": 30,
    "doc_line_end": 59
@@ -102,6 +112,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    12,
+    21
+   ],
    "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
    "doc_line_start": 60,
    "doc_line_end": 90
@@ -126,6 +140,12 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    7,
+    15,
+    22,
+    28
+   ],
    "scan": "Oe_1_Bu_14526_0021_a1-L5_04.jpg",
    "doc_line_start": 91,
    "doc_line_end": 120
@@ -149,6 +169,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    9,
+    16,
+    28
+   ],
    "scan": "Oe_1_Bu_14526_0021_a2-L5_05.jpg",
    "doc_line_start": 121,
    "doc_line_end": 152
@@ -179,6 +204,18 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    2,
+    6,
+    16,
+    18,
+    19,
+    20,
+    22,
+    23,
+    27,
+    29
+   ],
    "scan": "Oe_1_Bu_14526_0022_a1-L5_06.jpg",
    "doc_line_start": 153,
    "doc_line_end": 188
@@ -204,6 +241,14 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    5,
+    8,
+    12,
+    20,
+    26,
+    35
+   ],
    "scan": "Oe_1_Bu_14526_0022_a2-L5_07.jpg",
    "doc_line_start": 189,
    "doc_line_end": 224
@@ -224,6 +269,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [],
    "scan": "Oe_1_Bu_14526_0023_a-L5_08.jpg",
    "doc_line_start": 225,
    "doc_line_end": 230

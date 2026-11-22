@@ -740,6 +740,9 @@ def main():
                 office = set(p.get('office_lines') or [])
                 margin = set(p.get('margin_lines') or [])
                 hand = set(p.get('hand_lines') or [])
+                # the lines that begin a paragraph of the reading text, marked for
+                # the layout editor's German side (2026-11-22)
+                pstart = set(p.get('para_lines') or [])
                 # A paragraph transcription has no manuscript lines to number:
                 # its list is set without numbers (editor, 2026-10-29).
                 _para = ' data-para="1"' if p.get('by_paragraph') else ''
@@ -755,7 +758,8 @@ def main():
                         if _run:
                             body.append(SET_APART_OPEN[_run])
                         body.append('<ol class="dip"' + _para + ' start="' + str(p['doc_line_start'] + k) + '">')
-                    body.append('<li>' + footnote_html(r['unit'], lid, ln) + '</li>')
+                    body.append(('<li class="pstart">' if k in pstart else '<li>')
+                                + footnote_html(r['unit'], lid, ln) + '</li>')
                 body.append('</ol>' + ('</div>' if _run else ''))
             body.append('</div>')
             # view 2 - reading
@@ -1423,7 +1427,7 @@ def verify(recs):
         # read through the footnote markup of a printed edition (footnote_html)
         recovered = [html.unescape(re.sub(r'<sup class="fn">|</sup>|<span class="fn-note">|</span>', '', x))
                      for blk in re.findall(r'<ol class="dip"[^>]*>(.*?)</ol>', content, re.S)
-                     for x in re.findall(r'<li>(.*?)</li>', blk, re.S)]
+                     for x in re.findall(r'<li(?: class="pstart")?>(.*?)</li>', blk, re.S)]
         # The rendered view is the transcription layer, which build_db.py has
         # already proven differs from the archival text only where a recorded
         # decision says so.

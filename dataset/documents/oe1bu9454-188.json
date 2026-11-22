@@ -64,6 +64,14 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3,
+    9,
+    13,
+    16
+   ],
    "scan": "Oe_1_Bu_9454_0354_b-L188_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 20
@@ -85,6 +93,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    19
+   ],
    "scan": "Oe_1_Bu_9454_0355_a1-L188_02.jpg",
    "doc_line_start": 21,
    "doc_line_end": 40
@@ -111,6 +122,14 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    9,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
    "scan": "Oe_1_Bu_9454_0355_a2-L188_03.jpg",
    "doc_line_start": 41,
    "doc_line_end": 56

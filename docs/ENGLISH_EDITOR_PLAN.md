@@ -158,3 +158,57 @@ Paid runs: none.
 5. (Massow: no person entry.)
 
 Next session: build it in the plan's steps with these answers.
+
+## Built (2026-11-22)
+
+**Using it.** Add `?edit` to a document's address, on the live site or a local
+build (`/documents/<slug>/<n>/?edit`). A bar appears at the foot of the page;
+the English shows with a dashed outline and can be laid out but not changed:
+
+- Enter splits a paragraph at the cursor; Backspace at a paragraph's start (or
+  Delete at its end) joins it to the one before (after).
+- Shift+Enter: a line break inside a paragraph; Backspace just after one
+  takes it out.
+- Tab / Shift+Tab: indent / outdent (three steps), also for several
+  paragraphs selected together; the bar's arrows do the same.
+- The bar: align left, centre, right; italic (or Ctrl+I) on a selection inside
+  one paragraph; *Voice…* sets the chosen paragraphs apart (receiving office,
+  margin, another hand) or back into the main text; *New box* starts a second
+  box of the same kind (two notes by two hands); *Undo* (or Ctrl+Z); *Reset
+  page* back to the published layout.
+- *German*: the transcription view with a ¶ before every line; a dark ¶ marks
+  a line where a paragraph of the reading text begins; click it to change
+  (changed marks turn orange). Click a line, shift-click another, and choose
+  *Lines…* to set those lines apart as a voice (or back to the main text).
+- *Export* downloads `english_layout_<date>.json` with every change in every
+  document laid out in this browser; the work stays in the browser (local
+  storage) until it is cleared, so a reload or a closed tab loses nothing.
+
+Typing, pasting, cutting and dropping are refused, and after every operation
+the page's letters are compared with the published English; an operation that
+would change them is undone.
+
+**Bringing it home.** `python pipeline/translate/import_layout.py <file>`
+(check), then `--write`: English pages whose words are still the published
+ones go into `reference/english_layout/<pad>.yml` and onto the site data at
+once; German paragraph starts become held rows of the holding's
+`paragraph_decisions.csv` (cue `hand` where no cue proposed one), German voices
+blocks of its `office_notes.yml` / `margin_notes.yml` / `hand_notes.yml` (an
+overlapping block is cut to what lies outside the new range). A German line
+whose text has moved since the export is refused. Then rebuild the holdings
+named, the site, verify, commit (CLAUDE.md, "Apply my layout file").
+
+**What it does not do (yet).** A voice set apart in the English layout shows on
+the page, but the plain `en` keeps its own label lines (the dataset and search
+read `en`). A holding's own `intake/paragraphs.py` may restate a paragraph
+decision the editor changed: read its rules after an import. Tables are not
+editable.
+
+**Built from**: `site/assets/layout-editor.js` (the editor), `site/assets/letter.js`
+(showing a layout; loads the editor), `pipeline/translate/english_layout.py`
+(the format, attaching at every publish), `pipeline/translate/import_layout.py`,
+`para_lines` in corpus_pages.py and `li.pstart` in build_site_data.py (the
+German marks). Tested in Node (the operations, `scratch/editor_test.js`, not
+kept) and in headless Edge through its debugging protocol (17 checks: split,
+join, Tab, italic, line break, alignment, typing refused, saving, the German
+marks).

@@ -61,6 +61,15 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    13,
+    14,
+    21,
+    22,
+    23,
+    32,
+    33
+   ],
    "scan": "III_HA_MdA_III_Nr_12765_0026_a2-L19_01.jpg",
    "office_lines": [
     11,
@@ -116,6 +125,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [],
    "scan": "III_HA_MdA_III_Nr_12765_0027_a1-L19_02.jpg",
    "doc_line_start": 35,
    "doc_line_end": 49
@@ -141,6 +151,13 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    9,
+    11,
+    12,
+    14,
+    15
+   ],
    "scan": "III_HA_MdA_III_Nr_12765_0027_a2-L19_03.jpg",
    "doc_line_start": 50,
    "doc_line_end": 65

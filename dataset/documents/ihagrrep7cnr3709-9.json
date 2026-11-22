@@ -56,6 +56,11 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    2,
+    4,
+    6
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 15
@@ -80,6 +85,12 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    11,
+    12,
+    15,
+    17
+   ],
    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
    "doc_line_start": 16,
    "doc_line_end": 33

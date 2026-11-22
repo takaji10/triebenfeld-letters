@@ -58,6 +58,13 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
    "scan": "III_HA_MdA_III_Nr_12366_0013_a-L5_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 6,
@@ -82,6 +89,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3
+   ],
    "scan": "III_HA_MdA_III_Nr_12366_0014_a1-L5_02.jpg",
    "doc_line_start": 7,
    "doc_line_end": 10,
@@ -108,6 +120,13 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
    "scan": "III_HA_MdA_III_Nr_12366_0014_a2-L5_03.jpg",
    "doc_line_start": 11,
    "doc_line_end": 16,
@@ -132,6 +151,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3
+   ],
    "scan": "III_HA_MdA_III_Nr_12366_0015_a1-L5_04.jpg",
    "doc_line_start": 17,
    "doc_line_end": 20,
@@ -155,6 +179,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2
+   ],
    "scan": "III_HA_MdA_III_Nr_12366_0015_a2-L5_05.jpg",
    "doc_line_start": 21,
    "doc_line_end": 23,
@@ -179,6 +207,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3
+   ],
    "scan": "III_HA_MdA_III_Nr_12366_0016_a1-L5_06.jpg",
    "doc_line_start": 24,
    "doc_line_end": 27,
@@ -205,6 +238,13 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
    "scan": "III_HA_MdA_III_Nr_12366_0016_a2-L5_07.jpg",
    "doc_line_start": 28,
    "doc_line_end": 33,

@@ -20,6 +20,7 @@ import os, re, sys, argparse, collections
 import yaml
 
 from numerals import group_digits
+import english_layout
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 _RULES = None
@@ -135,6 +136,11 @@ def main():
                             samples.append(f'{fn[:-4]}: ...{seg[k][max(0, i-30):i+25]!r} -> {new[max(0, i-30):i+30]!r}')
                         seg[k] = new
                         changed = True
+        # the editor's layout (reference/english_layout/), attached where its words
+        # are still the page's (english_layout.py, 2026-11-22)
+        if english_layout.attach(fn[:-4], d.get('segments') or [], problems):
+            changed = True
+            counts['layouts'] += 1
         if changed:
             files += 1
             if a.apply:

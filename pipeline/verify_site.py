@@ -116,7 +116,7 @@ def main():
         # is what is checked.
         recovered = [html.unescape(FN_MARKUP.sub('', x))
                      for blk in re.findall(r'<ol class="dip"[^>]*>(.*?)</ol>', page, re.S)
-                     for x in re.findall(r'<li>(.*?)</li>', blk, re.S)]
+                     for x in re.findall(r'<li(?: class="pstart")?>(.*?)</li>', blk, re.S)]
         # The rendered view is the transcription layer: the manuscript's own
         # lines, with line-end marks resolved per the recorded decisions.
         _tp = (tbl or {}).get('table_pages') or set()

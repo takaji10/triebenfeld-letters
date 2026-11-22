@@ -6502,3 +6502,10 @@ sources-icon.html`).
 - Glossary: skarbnik (Gloger), chirograph (Krünitz), antichresis (unchecked).
 - `docs/ENGLISH_EDITOR_PLAN.md`: a layout editor for the English on the site, with export to the editor's machine (planned, not built).
 - The site verifies clean.
+
+## 2026-11-22 (night) - The layout editor built; Oe 1 Bü 9454's words read on the scans
+
+- The layout editor (docs/ENGLISH_EDITOR_PLAN.md, "Built"): `?edit` on a document's address lays out the English - paragraph and line breaks, Tab indentation, alignment left/centre/right, italic, voices set apart - and marks the German reading text's paragraph starts and voices line by line; nothing changes a word; Export downloads a file that `pipeline/translate/import_layout.py` brings home into `reference/english_layout/` and the holding's paragraph and set-apart files. Every publish attaches a layout whose words are still the page's (`pipeline/translate/english_layout.py`). Tested in Node and in headless Edge.
+- The transcription view marks the lines where a reading-text paragraph begins (`para_lines`, `li.pstart`); verify_site and build_site_data read them.
+- Oe 1 Bü 9454, read on the scans by two readers: 39 "Königs:" (Königsberg[?]), 170 "Kisten" (crates), 303 "Dem p Über"; 21 "Genuenſter" still unread ("the [...] Prince").
+- Nr. 421: the paragraph rules follow the "·/·".

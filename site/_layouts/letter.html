@@ -285,6 +285,8 @@ layout: default
   {% if tr and tr.segments %}
   <script type="application/json" id="translation-data">{{ tr.segments | jsonify }}</script>
   {% endif %}
+  {% comment %} The document's ids, for the layout editor (?edit; docs/ENGLISH_EDITOR_PLAN.md). {% endcomment %}
+  <div id="tf-doc" hidden data-pad="{{ page.pad }}" data-unit="{{ page.unit }}" data-letter="{{ page.letter_id }}"></div>
   {% assign gh = site.data.glossary_hits[page.pad] %}
   {% if gh %}
   <script type="application/json" id="glossary-hits">{{ gh | jsonify }}</script>

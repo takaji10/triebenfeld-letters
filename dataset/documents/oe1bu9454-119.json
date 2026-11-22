@@ -56,6 +56,9 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    21
+   ],
    "scan": "Oe_1_Bu_9454_0239_a-L119_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 24
@@ -80,6 +83,12 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    9,
+    14,
+    22,
+    23
+   ],
    "scan": "Oe_1_Bu_9454_0240_a1-L119_02.jpg",
    "doc_line_start": 25,
    "doc_line_end": 48

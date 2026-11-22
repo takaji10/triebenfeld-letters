@@ -65,6 +65,15 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    6,
+    12,
+    24,
+    31,
+    38
+   ],
    "scan": "Oe_1_Bu_9454_0401_b-L215_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 45
@@ -87,6 +96,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    3,
+    33
+   ],
    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
    "doc_line_start": 46,
    "doc_line_end": 80
@@ -109,6 +122,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    19,
+    26
+   ],
    "scan": "Oe_1_Bu_9454_0402_a2-L215_03.jpg",
    "doc_line_start": 81,
    "doc_line_end": 118
@@ -132,6 +149,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    10,
+    11,
+    23
+   ],
    "scan": "Oe_1_Bu_9454_0403_a1-L215_04.jpg",
    "doc_line_start": 119,
    "doc_line_end": 154
@@ -153,6 +175,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    18
+   ],
    "scan": "Oe_1_Bu_9454_0403_a2-L215_05.jpg",
    "doc_line_start": 155,
    "doc_line_end": 192
@@ -177,6 +202,12 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    6,
+    21,
+    25,
+    26
+   ],
    "scan": "Oe_1_Bu_9454_0404_a1-L215_06.jpg",
    "doc_line_start": 193,
    "doc_line_end": 225
@@ -199,6 +230,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    13,
+    18
+   ],
    "scan": "Oe_1_Bu_9454_0404_a2-L215_07.jpg",
    "doc_line_start": 226,
    "doc_line_end": 256
@@ -220,6 +255,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    31
+   ],
    "scan": "Oe_1_Bu_9454_0405_a-L215_08.jpg",
    "doc_line_start": 257,
    "doc_line_end": 288

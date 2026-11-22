@@ -56,6 +56,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -77,6 +80,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_17_0_Konin_Gr_119_0063_a1-L2_01.jpg",
     "doc_line_start": 3,
     "doc_line_end": 3,
@@ -141,6 +145,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": true,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0063_a1-L2_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -162,6 +169,7 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
+    "para_lines": [],
     "scan": "APP_53_17_0_Konin_Gr_119_0063_a2-L2_02.jpg",
     "doc_line_start": 3,
     "doc_line_end": 3,
@@ -228,6 +236,11 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0073_a2-L4_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 4,
@@ -292,6 +305,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0073_a2-L4_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -357,6 +373,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -421,6 +441,9 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0131_a2-L6_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 2,
@@ -486,6 +509,10 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0305_a1-L7_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 3,
@@ -552,6 +579,11 @@
     "sideways_paragraphs": [],
     "continues_previous": false,
     "continues_next": false,
+    "para_lines": [
+     1,
+     2,
+     3
+    ],
     "scan": "APP_53_17_0_Konin_Gr_119_0685_a2-L8_01.jpg",
     "doc_line_start": 1,
     "doc_line_end": 4,

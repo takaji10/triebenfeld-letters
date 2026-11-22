@@ -61,6 +61,10 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2
+   ],
    "scan": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 3,
@@ -83,6 +87,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    1
+   ],
    "scan": "III_HA_MdA_III_Nr_12367_0010_a-L8_02.jpg",
    "doc_line_start": 4,
    "doc_line_end": 5,

@@ -1664,9 +1664,13 @@ transcription; 108 readings settled in session before the first build
 
 ## 68. The layout editor for the English (planned 2026-11-22)
 
-- [ ] **You**: the four questions at the foot of `docs/ENGLISH_EDITOR_PLAN.md`
-      (the markup, where the editor is reachable, a second phase, centred
-      lines). Then build it in the plan's steps.
+- [x] Your answers (2026-11-22): no visible markup, Tab indents, the live
+      site, voices and the German paragraphs in the first version,
+      left/right/centre. **Built the same day** (`?edit` on a document's
+      address; the plan's "Built" section says how to use it), tested in
+      headless Edge.
+- [ ] **You**: try it (it goes live with the next publish), and send the
+      export file when you have laid something out ("Apply my layout file").
 
 ## 66. The literature: Kneifel (1964), two pages added (made 2026-10-23 on the branch kneifel1964-pages, merged into main 2026-11-21)
 

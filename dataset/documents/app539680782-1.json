@@ -64,6 +64,19 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    9,
+    10,
+    14,
+    17,
+    19,
+    20,
+    22,
+    23,
+    25,
+    28,
+    30
+   ],
    "scan": "APP_53_968_0_782_0002_a-L1_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 33
@@ -86,6 +99,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    2,
+    7
+   ],
    "scan": "APP_53_968_0_782_0003_a-L1_02.jpg",
    "doc_line_start": 34,
    "doc_line_end": 43

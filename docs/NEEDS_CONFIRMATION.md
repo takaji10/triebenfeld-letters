@@ -2237,10 +2237,12 @@ Read `units/ihagrrep7cnr421/notes.md` first.
    not being certain: "Resd.", "acc.", "qu:", "Gr.", "O.", "Ra.", "cop.",
    "instr.", "SüdPreußl.", "v. T. Ets.", "Gen. D. Etc." (the English "[...]"
    for "acc." and "Ra.").
-11. **The sweep's words not changed** (docs/NR421_ENGLISH_PLAN.md, step 5),
-   each needing the scan: Oe 1 Bü 9454, 21 ("the Genuenſter Fürſt": a
-   "Genoese Prince"?), 170 ("the Wüsten go off today"), 39 ("to Königl.":
-   Königsberg?), 303 (the table's "Über": "carried over"?).
+11. **The sweep's words read on the scans** (Oe 1 Bü 9454, two readers,
+   2026-11-22; `units/oe1bu9454/intake/scripts/four_words_2026_11_22.py`):
+   39 "nach Königs: reisen" (Königsberg[?] in the English), 170 "die
+   Kisten" (crates), 303 "Dem p Über" (a surname) - settled. Open: 21, "an
+   die Genuenſter Fürſt": both readers read "Fürſt", neither the word
+   before; the English "the [...] Prince".
 
 ## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, published 2026-11-20)
 

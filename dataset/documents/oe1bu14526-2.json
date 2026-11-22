@@ -54,6 +54,9 @@
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
+   "para_lines": [
+    17
+   ],
    "scan": "Oe_1_Bu_14526_0003_b-L2_01.jpg",
    "doc_line_start": 1,
    "doc_line_end": 33
@@ -75,6 +78,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    27
+   ],
    "scan": "Oe_1_Bu_14526_0004_a1-L2_02.jpg",
    "doc_line_start": 34,
    "doc_line_end": 65
@@ -97,6 +103,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    18,
+    27
+   ],
    "scan": "Oe_1_Bu_14526_0004_a2-L2_03.jpg",
    "doc_line_start": 66,
    "doc_line_end": 97
@@ -119,6 +129,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    12,
+    19
+   ],
    "scan": "Oe_1_Bu_14526_0005_a1-L2_04.jpg",
    "doc_line_start": 98,
    "doc_line_end": 126
@@ -139,6 +153,7 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [],
    "scan": "Oe_1_Bu_14526_0005_a2-L2_05.jpg",
    "doc_line_start": 127,
    "doc_line_end": 157
@@ -161,6 +176,11 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    13,
+    21,
+    26
+   ],
    "scan": "Oe_1_Bu_14526_0006_a1-L2_06.jpg",
    "doc_line_start": 158,
    "doc_line_end": 184
@@ -183,6 +203,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    17,
+    23
+   ],
    "scan": "Oe_1_Bu_14526_0006_a2-L2_07.jpg",
    "doc_line_start": 185,
    "doc_line_end": 214
@@ -211,6 +235,16 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3,
+    13,
+    16,
+    17,
+    18,
+    19
+   ],
    "scan": "Oe_1_Bu_14526_0007_a1-L2_08.jpg",
    "doc_line_start": 215,
    "doc_line_end": 240
@@ -232,6 +266,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": true,
+   "para_lines": [
+    10
+   ],
    "scan": "Oe_1_Bu_14526_0007_a2-L2_09.jpg",
    "doc_line_start": 241,
    "doc_line_end": 268
@@ -254,6 +291,10 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
+   "para_lines": [
+    21,
+    22
+   ],
    "scan": "Oe_1_Bu_14526_0008_a1-L2_10.jpg",
    "doc_line_start": 269,
    "doc_line_end": 291
