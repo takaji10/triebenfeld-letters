@@ -1655,8 +1655,18 @@ transcription; 108 readings settled in session before the first build
       signatures against the state handbook (step 2), the faithfulness
       reading (step 3), the edition-wide sweep (step 5), the termbase and
       glossary entries (step 6).
-- [ ] **You**: how far abbreviations are expanded (NEEDS_CONFIRMATION, Nr.
-      421, item 10).
+- [x] How far abbreviations are expanded: the routine forms too (you,
+      2026-11-22); done for Nr. 421. The plan's steps 2, 3, 5 and 6 done
+      the same evening (docs/NR421_ENGLISH_PLAN.md).
+- [ ] **You**: a person entry for Julius Eberhard von Massow, and the four
+      words of the sweep that need the scans (NEEDS_CONFIRMATION, Nr. 421,
+      items 9 and 11).
+
+## 68. The layout editor for the English (planned 2026-11-22)
+
+- [ ] **You**: the four questions at the foot of `docs/ENGLISH_EDITOR_PLAN.md`
+      (the markup, where the editor is reachable, a second phase, centred
+      lines). Then build it in the plan's steps.
 
 ## 66. The literature: Kneifel (1964), two pages added (made 2026-10-23 on the branch kneifel1964-pages, merged into main 2026-11-21)
 

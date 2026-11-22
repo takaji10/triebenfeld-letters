@@ -2218,22 +2218,29 @@ Read `units/ihagrrep7cnr421/notes.md` first.
    1830 ("Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna") give b. Open: where it
    lay and what became of it; no source the session could reach names it
    after 1830 (the holding's notes list what was searched). "S. N." and
-   "S. W." are plain and expanded. **"[Służący?]"** stands for "Mazący":
-   the capital is an S, the rest only partly read; Claude's word, doubtful.
-9. **The signatures**: under the official's note of 18 Oct. 1799, "Massow"
-   (plain; who he is waits on the state handbook, the plan's step 2:
-   Julius Eberhard von Massow, minister of justice from 1798, the obvious
-   candidate, not written as the identification; the edition's name entry
-   `massow` of 1809-1810 does not say which Massow it is either). Under the
-   decision of 21 Oct. and on the slip of 23 Dec., "Willenz", read so by two
-   readers independently: not identified. Under the two drafts and the
-   clerks' "v. [?]": unread.
-10. **Abbreviations, how far** (the editor's rule of 2026-11-22,
-   EDITORIAL_RULES): are the chancery's routine forms expanded too (`d.`
-   den, `v.` von, `c.` currentis, `Mpp` manu propria, `#` ducats, `pr.`
-   praesentatum), or only names, titles, offices, places and words a reader
-   cannot resolve? Until answered, the second; in Nr. 421 only "S. W." and
-   "S. N." were expanded.
+   "S. W." are plain and expanded. "Słuzący" for "Mazący": settled by the
+   editor (2026-11-22).
+9. **The signatures**: under the official's note of 18 Oct. 1799, "Massow",
+   plain. The state handbook of 1799-1801 makes v. Massow the minister of
+   justice with the special department for South and New East Prussia
+   (`reference/sources/handbuch_1799_1801_justizdepartement.md`): Julius
+   Eberhard von Massow is very probably the signer (Claude). **For the
+   editor**: a person entry of his own (the name entry `massow` of the
+   letters of 1809-1810 does not say which Massow it is), and the
+   identification in the text as "Massow" or with a note. Under the decision
+   of 21 Oct. and on the slip of 23 Dec., "Willenz", read so by two readers
+   independently: in no volume of the handbook; by office the councillor for
+   South Prussian justice was v. Scheibler, whose name the letters do not
+   fit. Under the two drafts and the clerks' "v. [?]": unread.
+10. **Abbreviations**: the routine forms are expanded too (the editor,
+   2026-11-22); 176 in Nr. 421 (`intake/abbreviations.tsv`). Left as written,
+   not being certain: "Resd.", "acc.", "qu:", "Gr.", "O.", "Ra.", "cop.",
+   "instr.", "SüdPreußl.", "v. T. Ets.", "Gen. D. Etc." (the English "[...]"
+   for "acc." and "Ra.").
+11. **The sweep's words not changed** (docs/NR421_ENGLISH_PLAN.md, step 5),
+   each needing the scan: Oe 1 Bü 9454, 21 ("the Genuenſter Fürſt": a
+   "Genoese Prince"?), 170 ("the Wüsten go off today"), 39 ("to Königl.":
+   Königsberg?), 303 (the table's "Über": "carried over"?).
 
 ## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, published 2026-11-20)
 

@@ -4586,6 +4586,44 @@ first and a fine pass at their word. The files are in
   Zarobna in seconds, where the web reader was turned away by the ICM
   site's bot check.
 
+### The same evening: abbreviations, voices, the sweep (2026-11-22)
+
+- **Expanding abbreviations moves the paragraph machinery.** resolve_paragraphs
+  carries held decisions over by the line's text, and a holding's
+  `paragraphs.py` rules match by the line's start: after the expansions four
+  held decisions were lost and five rules found nothing (two lines no longer
+  short enough to be candidates). Run the holding's paragraph script after
+  any text change, restate lost decisions as rules, and drop the rules whose
+  candidate has gone. A break no cue proposes is a row with cue `hand`
+  appended to paragraph_decisions.csv (letter, decision, the line's first
+  words in `context`).
+- **A per-line table is safer than CORRECTIONS for many small changes to the
+  same words**: CORRECTIONS needs each find to be unique on its page, which
+  "d." and "v." never are. Nr. 421's `intake/abbreviations.tsv` is applied by
+  page, line and occurrence, the form matched as a word, and the build stops
+  on a miss.
+- **A Sonnet reader drops trailing punctuation when told to insert, not
+  replace**: a dozen of its expansions lost the page's full stop ("v." to
+  "v[on]"). Check the shape of every proposed rewrite mechanically before
+  applying it.
+- **A sweep reader does not know the edition's deliberate terms**: it
+  proposed to translate Actum, ex officio, Pro Memoria and in solidum, which
+  have glossary entries and stay in the English. Grep `reference/glossary.yml`
+  (match_en) and `translation_glossary.yml` for a term before changing it
+  across the edition.
+- **The house forms run before the one-page corrections**: a correction's
+  `find` must be the text as the forms leave it (the registry number "3681"
+  mid-line is regrouped "3,681" before the correction sees it).
+- **`english_forms.py --apply` reports a correction "not applied" where an
+  earlier publish already applied it and a later correction changed the
+  words**: harmless when a fresh publish would apply both in order; read the
+  row before acting on it.
+- **The set-apart kinds** live in `pipeline/build/corpus_pages.py`
+  (SET_APART), `build_site_data.py` (SET_APART_OPEN and the two view loops),
+  `build_db.py`, `build_dataset.py`, `translate.py` (the marks and the notes
+  to the model), `site/assets/letter.js` (the English labels) and
+  `site/_data/i18n.yml`: a new kind touches all seven.
+
 ## OCR of a ruled Polish table (2026-11-05)
 
 The Rusinski 1947 sitting's lessons, for the next ruled-table scan:

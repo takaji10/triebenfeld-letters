@@ -330,6 +330,9 @@ SET_APART_OPEN = {
               'data-i18n="office_note">Written by the receiving office</div>',
     'margin': '<div class="sideways margin-note"><div class="sideways-note" '
               'data-i18n="margin_note">Written in the margin</div>',
+    # a second voice in another hand (hand_notes.yml, 2026-11-22)
+    'hand': '<div class="sideways hand-note"><div class="sideways-note" '
+            'data-i18n="hand_note">Written in another hand</div>',
 }
 
 
@@ -736,6 +739,7 @@ def main():
                 side = set(p.get('sideways_lines') or [])
                 office = set(p.get('office_lines') or [])
                 margin = set(p.get('margin_lines') or [])
+                hand = set(p.get('hand_lines') or [])
                 # A paragraph transcription has no manuscript lines to number:
                 # its list is set without numbers (editor, 2026-10-29).
                 _para = ' data-para="1"' if p.get('by_paragraph') else ''
@@ -743,7 +747,7 @@ def main():
                 _run = None
                 for k, ln in enumerate(_lines):
                     _kind = ('sideways' if k in side else 'office' if k in office
-                             else 'margin' if k in margin else False)
+                             else 'margin' if k in margin else 'hand' if k in hand else False)
                     if _kind != _run:
                         if _run is not None:
                             body.append('</ol>' + ('</div>' if _run else ''))
@@ -770,14 +774,16 @@ def main():
                 side = set(p.get('sideways_paragraphs') or [])
                 office = set(p.get('office_paragraphs') or [])
                 margin = set(p.get('margin_paragraphs') or [])
+                hand = set(p.get('hand_paragraphs') or [])
                 for _i, _para in enumerate(paras):
                     if not _para.strip():
                         continue
                     _cls = ' class="runs-on"' if (_i == 0
                                                   and p.get('continues_previous')) else ''
-                    if _i in side or _i in office or _i in margin:
+                    if _i in side or _i in office or _i in margin or _i in hand:
                         body.append(SET_APART_OPEN['sideways' if _i in side else
-                                                   'office' if _i in office else 'margin']
+                                                   'office' if _i in office else
+                                                   'margin' if _i in margin else 'hand']
                                     + '<p>' + html.escape(_para) + '</p></div>')
                     else:
                         body.append(f'<p{_cls}>' + footnote_html(r['unit'], lid, _para) + '</p>')

@@ -126,6 +126,25 @@
     "continues_previous": true,
     "continues_next": false,
     "scan": "I_HA_Rep_7_C_Nr_3067_0006_a2-L1_03.jpg",
+    "hand_lines": [
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ],
+    "hand_paragraphs": [
+     5,
+     6,
+     7
+    ],
     "doc_line_start": 86,
     "doc_line_end": 106
    },

@@ -386,6 +386,11 @@ def already(letter_id, tag=None):
 
 OFFICE_MARK = '[Vermerk der empfangenden Behörde:]'
 MARGIN_MARK = '[Am Rand geschrieben:]'   # margin_notes.yml (2026-10-21)
+HAND_MARK = '[Von anderer Hand geschrieben:]'   # hand_notes.yml (2026-11-22)
+# Closes a set-apart block that the document's own text follows on the same page
+# (2026-11-22); the English renders it `[The document continues:]`, which the
+# site does not show (site/assets/letter.js).
+END_MARK = '[Das Dokument fährt fort:]'
 
 
 def german_for(rec):
@@ -406,19 +411,25 @@ def german_for(rec):
         # Text the receiving office wrote on the letter (office_notes.yml) is
         # announced by a line of its own, so the English can set it apart as the
         # German page does instead of running it on as the writer's words.
+        # A note in the margin (margin_notes.yml) and a second voice in another
+        # hand (hand_notes.yml) are announced the same way; where the document's
+        # own text follows a block on the same page, END_MARK says so (2026-11-22).
         office = set(p.get('office_paragraphs') or [])
         margin = set(p.get('margin_paragraphs') or [])
-        paras, announced, in_margin = [], False, False
+        hand = set(p.get('hand_paragraphs') or [])
+        marks = {'office': OFFICE_MARK, 'margin': MARGIN_MARK, 'hand': HAND_MARK}
+        paras, cur = [], None
         for k, x in enumerate(p.get('paragraphs') or []):
             if not x.strip():
                 continue
-            if k in office and not announced:
-                paras.append(OFFICE_MARK)
-                announced = True
-            # A note in the margin (margin_notes.yml) is announced the same way.
-            if k in margin and not in_margin:
-                paras.append(MARGIN_MARK)
-            in_margin = k in margin
+            kind = ('office' if k in office else 'margin' if k in margin
+                    else 'hand' if k in hand else None)
+            if kind != cur:
+                if kind:
+                    paras.append(marks[kind])
+                elif cur:
+                    paras.append(END_MARK)
+                cur = kind
             paras.append(x.strip())
         body = ('\n\n'.join(paras)
                 or (p.get('reading') or p.get('diplomatic') or '')).strip()
@@ -524,6 +535,19 @@ def user_block(rec, corr, g=None):
                     "the margin beside the text. Render the label as a paragraph of its "
                     "own, exactly `[Written in the margin:]`, and translate the note. "
                     "Do not count the label among your markers.")
+    if any(p.get('hand_paragraphs') for p in rec['pages']):
+        meta.append(f"NOTE: the line `{HAND_MARK}` is the edition's own label, not "
+                    "manuscript text. What follows it on that page is a second voice "
+                    "written in another hand on the same sheet, such as a reply or a "
+                    "decision beneath the text. Render the label as a paragraph of its "
+                    "own, exactly `[Written in another hand:]`, and translate what "
+                    "follows. Do not count the label among your markers.")
+    if any(p.get('office_paragraphs') or p.get('margin_paragraphs') or p.get('hand_paragraphs')
+           for p in rec['pages']):
+        meta.append(f"NOTE: the line `{END_MARK}` is the edition's own marker: the "
+                    "set-apart block above it has ended and the document's own text "
+                    "resumes. Render it as a paragraph of its own, exactly `[The "
+                    "document continues:]`. Do not count it among your markers.")
     if lid in unitlib.load_tables(UNIT):
         # The site shows such a document as a table in every view, and builds
         # the English one from the rows that come back, so the shape has to

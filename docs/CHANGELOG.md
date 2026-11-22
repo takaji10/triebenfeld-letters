@@ -6491,3 +6491,14 @@ sources-icon.html`).
 - Registry numbers keep the page's figures (`pipeline/numerals.py`; `pipeline/review/verify_numerals_diff.py`): 4980, 3459, 3426, 4168 in Nr. 421, and in Nr. 3132, 3709, 295, 12765; four the translator had grouped corrected in `reference/english_corrections.yml`.
 - check_translations counts "[...]" as a mark of doubt. The name entry `massow` names the note of 1799 in its bio. "Oct." ruled out of the glossary candidates.
 - The site verifies clean (666 documents).
+
+## 2026-11-22 (evening) - Nr. 421's abbreviations expanded; voices set apart; the English swept; the layout editor planned
+
+- The editor's rulings: the chancery's routine abbreviations are expanded too; "Słuzący" not doubtful; documents with more than one voice set apart (EDITORIAL_RULES).
+- Nr. 421: 176 abbreviations expanded in square brackets (`units/ihagrrep7cnr421/intake/abbreviations.tsv`, listed by a Sonnet reader, ruled by Claude); "Słuzący"; Massow's note and the decision set apart as two voices in the English and the reading view; the faithfulness reading's findings taken; "./." given as "v.".
+- A fourth set-apart kind, `hand_notes.yml` (a second voice in another hand), and "[The document continues:]" to end a block in mid-page; first used for the King's own-hand decision in Nr. 3067.
+- The state handbook of 1799-1801 (`reference/sources/handbuch_1799_1801_justizdepartement.md`): v. Massow the minister of justice with the department for South Prussia; Willenz not found.
+- The edition-wide sweep of the English (`pipeline/review/foreign_in_english.py`): 131 one-page corrections (Latin formulas in English, unread original letters made "[...]", German words left in the English translated); the glossary terms the edition keeps stay.
+- Glossary: skarbnik (Gloger), chirograph (Krünitz), antichresis (unchecked).
+- `docs/ENGLISH_EDITOR_PLAN.md`: a layout editor for the English on the site, with export to the editor's machine (planned, not built).
+- The site verifies clean.

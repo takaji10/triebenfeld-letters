@@ -150,6 +150,25 @@ than where it sits.
   the few words that are read. Names are the exception: a name stays in the
   form the transcription reads, with its marks of doubt. This withdraws the
   in-session translators' rule "words still unread are kept as written".
+- **More than one voice on a sheet is set apart, never run on** (the editor,
+  2026-11-22: "In documents where there's more than one voice (like a reply
+  to a letter on the same page as the letter), we need to find a way to make
+  this clear"). The edition already had the way, and now has four kinds, each
+  listed in its own file in the holding's folder and shown in a labelled box
+  in every view: `office_notes.yml` (written by the receiving office: received
+  marks, the official's notes, the decision taken on the paper),
+  `margin_notes.yml` (a note in the margin), `sideways.yml` (written
+  sideways), and since 2026-11-22 `hand_notes.yml` (a second voice in another
+  hand on the same sheet: a reply or decision written beneath, such as the
+  King's own-hand refusal under Goldbeck's promemoria, Nr. 3067). Each block in
+  the English begins with its label line ("[Written by the receiving
+  office:]", "[Written in the margin:]", "[Written in another hand:]"), one per
+  voice (two notes by two hands are two blocks: Massow's note and the decision
+  in the margin of Nr. 421, doc. 1); where the document's own text follows on
+  the same page, "[The document continues:]" ends the block (not shown on the
+  site). A voice that is merely a signature or a date under the writer's own
+  text is not a second voice. Italic is not used for voices: it is free for
+  what the documents underline.
 - **Abbreviations are expanded in square brackets** (the editor, 2026-11-22:
   "Expand S.W. and S.N. in the transcription as well, using square
   brackets. In general, when finding abbreviations, they should be expanded
@@ -163,10 +182,12 @@ than where it sits.
   written and the possibility goes in `intake/unresolved.md`. The English
   gives the expanded sense ("Treasurer of Wschowa"). Applied first to Nr.
   421; it holds for every holding worked on from now, and for the older ones
-  when they are next worked on. Asked of the editor (NEEDS_CONFIRMATION):
-  whether the chancery's routine forms too (`d.` den, `v.` von, `c.`
-  currentis, `Mpp` manu propria, `#` ducats), or names, titles, offices,
-  places and words a reader cannot resolve; until answered, the second.
+  when they are next worked on. **The chancery's routine forms too** (the
+  editor, 2026-11-22: "The chancery's routine forms should be expanded"):
+  `d[en].`, `v[on]`, `c[urrentis].`, `M[anu] p[ro]p[ria]`, `pr[aesentatum].`,
+  `S[eine]r.`, each as the grammar and the document's own written-out forms
+  require. A sign that is not letters (`#`, `./.`) stays as it is; the
+  English gives the word. Ordinals ("8.ten", "16t") are not abbreviations.
 - **An initial that is read, with the name supplied**, is written with the
   supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
   `A[lvensleben]`), and only where the name follows from something other

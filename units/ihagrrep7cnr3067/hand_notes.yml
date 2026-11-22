@@ -1,0 +1,13 @@
+# A second voice on the same sheet, in another hand (pipeline/build/corpus_pages.py,
+# SET_APART; the shape of office_notes.yml). Added 2026-11-22 at the editor's word:
+# "In documents where there's more than one voice (like a reply to a letter on the
+# same page as the letter), we need a way to make this clear."
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# Document 1: King Friedrich Wilhelm II's own-hand decision written beneath
+# Goldbeck's promemoria, with his signature and date.
+blocks:
+  - letter: '1'
+    page: '0006_a2'
+    first: 'Nach genauer Betrachtung der verbrach[en?]'
+    lines: 12

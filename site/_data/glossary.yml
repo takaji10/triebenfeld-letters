@@ -815,7 +815,7 @@
   initial_en: "R"
   sort_de: "resignation"
   initial_de: "R"
-  docs: 15
+  docs: 16
 - id: "vollmacht"
   kind: "law"
   lang: "de"
@@ -891,7 +891,7 @@
   initial_en: "I"
   sort_de: "intabulation"
   initial_de: "I"
-  docs: 16
+  docs: 15
 - id: "kammer"
   kind: "law"
   lang: "de"
@@ -1500,6 +1500,63 @@
   sort_de: "fiskus"
   initial_de: "F"
   docs: 34
+- id: "skarbnik"
+  kind: "title"
+  lang: "pl"
+  head_en: "Treasurer (skarbnik)"
+  head_de: "Schatzmeister (Skarbnik)"
+  orig: "Skarbnik, Skarbnikowi, S[karbnikowi]. W[schowskiemu]."
+  short_en: "In the old Polish Commonwealth a land office (urząd ziemski) of a district, the treasurer, by the eighteenth century a title of honour without duties, the lowest in rank of the land offices. Stanisław Chełmski of Łukom was Treasurer of the land of Wschowa, and the documents name him by it."
+  short_de: "In der alten polnischen Adelsrepublik ein Landamt (urząd ziemski) eines Bezirks, der Schatzmeister, im 18. Jahrhundert ein Ehrentitel ohne Amtsgeschäfte, der letzte im Rang der Landämter. Stanisław Chełmski auf Łukom war Schatzmeister des Landes Wschowa und wird in den Dokumenten so genannt."
+  long_en: ""
+  long_de: ""
+  source: "Gloger, Encyklopedia staropolska, s.v. Skarbnik, vol. IV, pp. 242-243 (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Skarbnik)"
+  check_against: "Gloger, Encyklopedia staropolska"
+  source_html: "Gloger, Encyklopedia staropolska, s.v. <a href=\"https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Skarbnik\">Skarbnik, vol. IV, pp. 242-243</a>"
+  checked: true
+  sort_en: "treasurer (skarbnik)"
+  initial_en: "T"
+  sort_de: "schatzmeister (skarbnik)"
+  initial_de: "S"
+  docs: 34
+- id: "chirograph"
+  kind: "law"
+  lang: "la"
+  head_en: "handwritten bond (chirographum)"
+  head_de: "Handschrift (Chirographum)"
+  orig: "ex Chirographo, Chirographum"
+  short_en: "A debtor's acknowledgement of a debt written and signed in his own hand, not confirmed by a notary or a court. A creditor who held only such a bond had no right of pledge in the debtor's goods and ranked behind those whose claims were entered in the mortgage books. To sue \"ex chirographo\" was to sue on the strength of such a bond."
+  short_de: "Die vom Schuldner eigenhändig geschriebene und unterschriebene Anerkennung einer Schuld, weder notariell noch gerichtlich bestätigt. Ein Gläubiger, der nur eine solche Handschrift besaß, hatte kein Pfandrecht an den Gütern des Schuldners und stand hinter den im Hypothekenbuch eingetragenen Gläubigern. „Ex chirographo“ klagen hieß, aus einer solchen Handschrift klagen."
+  long_en: ""
+  long_de: ""
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Chirographarius (https://www.kruenitz1.uni-trier.de/xxx/c/kc01197.htm)"
+  check_against: "Krünitz, Oekonomische Encyklopädie"
+  source_html: "Krünitz, Oekonomische Encyklopädie, s.v. <a href=\"https://www.kruenitz1.uni-trier.de/xxx/c/kc01197.htm\">Chirographarius</a>"
+  checked: true
+  sort_en: "handwritten bond (chirographum)"
+  initial_en: "H"
+  sort_de: "handschrift (chirographum)"
+  initial_de: "H"
+  docs: 1
+- id: "antichresis"
+  kind: "law"
+  lang: "la"
+  head_en: "antichresis"
+  head_de: "Antichresis"
+  orig: "contractus antichreticus, antichretisch"
+  short_en: "A pledge by which the creditor holds the debtor's land and takes its income in place of interest until the debt is repaid. Prusimski's bond of 1794 gave Chełmski the Trąbczyn estates on these terms, \"without any account\", and Chełmski's suit calls the bond an antichretic contract."
+  short_de: "Eine Verpfändung, bei der der Gläubiger das Land des Schuldners besitzt und dessen Einkünfte statt der Zinsen zieht, bis die Schuld bezahlt ist. Prusimskis Verschreibung von 1794 gab Chełmski die Güter von Trąbczyn auf diese Weise, „ohne alle Abrechnung“, und Chełmskis Klage nennt sie einen antichretischen Vertrag."
+  long_en: ""
+  long_de: ""
+  source: ""
+  check_against: "Krünitz, Oekonomische Encyklopädie (s.v. Hypothek)"
+  source_html: ""
+  checked: false
+  sort_en: "antichresis"
+  initial_en: "A"
+  sort_de: "antichresis"
+  initial_de: "A"
+  docs: 2
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1879,7 +1936,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 363
+  docs: 360
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -2050,7 +2107,7 @@
   initial_en: "I"
   sort_de: "in fidem"
   initial_de: "I"
-  docs: 21
+  docs: 20
 - id: "de-dato"
   kind: "phrase"
   lang: "la"
@@ -2107,7 +2164,7 @@
   initial_en: "D"
   sort_de: "d. j., a. c., ej. a."
   initial_de: "D"
-  docs: 41
+  docs: 38
 - id: "pct"
   kind: "phrase"
   lang: "la"

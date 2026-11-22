@@ -26,7 +26,24 @@ abbreviations expanded in square brackets (EDITORIAL_RULES).
 - Steps 5 (the sweep) and 6 (termbase, glossary entries skarbnik and
   antichresis) **not begun**. The rule of step 6 for unread words is
   written (EDITORIAL_RULES, "An unread word in the English") and
-  check_translations now counts "[...]" as a mark of doubt. The holding's notes are
+  check_translations now counts "[...]" as a mark of doubt.
+
+**Later the same evening** (the editor: "Continue with the rest of the
+to-dos"; routine abbreviations expanded; "Słuzący" not doubtful): all
+abbreviations of Nr. 421 expanded (176); step 2 done as far as the sources go
+(Massow very probably the minister of justice for South Prussia; Willenz not
+found); step 3's faithfulness reading done (14 findings, the substantive ones
+taken); **step 5 done**: `pipeline/review/foreign_in_english.py` over all 662
+English files, two Sonnet readers (proposals for every Latin, fragment, sign
+and German-function-word row; names sorted from words among 1,166 tokens),
+Claude's rulings: 131 one-page corrections in `reference/english_corrections.yml`
+(Latin formulas in English, "[uncertain: <original letters>]" made "[...]",
+"in Pausch und Bogen" "as a whole", "wójt" and the glossary terms kept),
+four left for the scans (NEEDS_CONFIRMATION); **step 6 done**: glossary
+entries skarbnik, chirograph, antichresis. The voices: EDITORIAL_RULES, "More
+than one voice on a sheet", and a fourth set-apart kind `hand_notes.yml`,
+first used for the King's decision in Nr. 3067. The layout editor is planned
+separately (`docs/ENGLISH_EDITOR_PLAN.md`). The holding's notes are
 `units/ihagrrep7cnr421/notes.md`; its English is written by
 `units/ihagrrep7cnr421/intake/translation/english.py`.
 

@@ -165,8 +165,13 @@ def load_sideways(path, lines, bounds):
 #             marks, directions for the reply, paraphs (III. HA MdA, III Nr. 12765)
 #   margin    a note written in the margin beside the text, in the same hand or
 #             another (APP 53/1455/0/2/21, 2026-10-21)
+#   hand      a second voice on the same sheet, in another hand: a reply or a
+#             decision written beneath the text by its recipient, such as the
+#             King's own-hand refusal under Goldbeck's promemoria (Nr. 3067); the
+#             editor, 2026-11-22: "In documents where there's more than one
+#             voice ... we need a way to make this clear"
 SET_APART = (('sideways', 'sideways.yml'), ('office', 'office_notes.yml'),
-             ('margin', 'margin_notes.yml'))
+             ('margin', 'margin_notes.yml'), ('hand', 'hand_notes.yml'))
 
 
 def load_set_apart(unit_dir, lines, bounds):
@@ -449,6 +454,11 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
             out[-1]['margin_lines'] = [k for k, (ln, _) in enumerate(page)
                                        if sideways.get(ln) == 'margin']
             out[-1]['margin_paragraphs'] = [k for k, f in enumerate(flags) if f == 'margin']
+        # A second voice in another hand (hand_notes.yml), the same way.
+        if any(sideways.get(ln) == 'hand' for ln, _ in page):
+            out[-1]['hand_lines'] = [k for k, (ln, _) in enumerate(page)
+                                     if sideways.get(ln) == 'hand']
+            out[-1]['hand_paragraphs'] = [k for k, f in enumerate(flags) if f == 'hand']
     # A second, reader-facing line number that restarts at 1 in every document.
     #
     # `line_start` and `line_end` count from the top of the unit's corpus.txt,

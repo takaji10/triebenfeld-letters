@@ -1,0 +1,179 @@
+# Abbreviations expanded in square brackets (the editor, 2026-11-22). Listed by a Sonnet reader
+# (scratch, not kept), ruled by Claude; applied by holding.py after CORRECTIONS, by page and line.
+page	line	form	expansion	occurrence	confidence	note
+0001_a	2	d.	d[en].	1	sure	date formula
+0001_a	2	Octobr	Octob[e]r	1	sure	month; October spelled out 0007_a2 L1
+0001_a	5	betr.	betr[effend].	1	sure	betreffend written in full 0008_a2 L35
+0002_a2	2	Vorstellg.	Vorstell[un]g.	1	sure	Vorstellung written in full 0007_a2 L19
+0002_a2	3	dess.	dess[elben].	1	likely	dess. M. = desselben Monats 0011_a2 L24; here the referent is uncertain
+0002_a2	4	v.	v[on].	1	sure	von Goldbeck; von written in full 0007_a2 L4
+0002_a2	4	Saml.	Saml[ung].	1	likely	Sammlung (zugestellten Saml.)
+0002_a2	5	u.	u[nd].	1	sure	und
+0002_a2	7	d.	d[en].	1	sure	date formula
+0002_a2	7	Oct.	Oct[ober].	1	sure	October written 0007_a2 L1
+0002_a2	8	resol.	resol[ution].	1	sure	Resolution written 0007_a2 L20-21
+0002_a2	9	Sept.	Sept[ember].	1	sure	month
+0002_a2	9	c.	c[urrentis].	1	likely	c. after a date = currentis; cf. 0003_a1 L11 c. a. = currentis anni
+0002_a2	19	d	d[en]	1	sure	date formula (no stop on the page)
+0002_a2	19	8br.	8br[is].	1	likely	special; 8br. = Octobris (octo); Octobr written 0002_a2 L24
+0002_a2	22	Allerdurchläuchtigstr	Allerdurchläuchtigst[e]r	1	sure	address formula, written out 0011_a2 L3
+0002_a2	22	Großmächtigstr	Großmächtigst[e]r	1	sure	address formula
+0002_a2	24	Octobr	Octob[e]r	1	sure	month
+0002_a2	51	v	v[on]	1	sure	von before name Furst v Hohenlohe
+0002_a2	54	nigl:	nigl[icher]:	1	likely	Kö-nigl: Majestät, dative fem. after von (Königlicher Majestät)
+0003_a1	1	nigl:	nigl[icher]:	1	likely	same word as 0002_a2 L53-54, dative after von
+0003_a1	11	Septbr.	Sept[em]br.	1	sure	September
+0003_a1	11	c.	c[urrentis].	1	sure	formula c. a. = currentis anni
+0003_a1	11	a.	a[nni].	1	sure	formula c. a. = currentis anni
+0003_a1	15	Decr.	Decr[etum].	1	sure	Decretum written 0006_a2 L3; per Decretum 0009_a2 L16
+0003_a1	15	v.	v[om].	1	sure	Decr. v. 10ten = vom (cf. Decr. vom 27t. 0003_a2 L23)
+0003_a2	15	Septbr.	Sept[em]br.	1	sure	September
+0003_a2	23	pr.	p[e]r.	1	sure	pr. Decr. = per Decr.; per written 0003_a1 L15
+0003_a2	23	Decr.	Decr[etum].	1	sure	per Decretum 0009_a2 L16
+0003_a2	24	ej.	ej[usdem].	1	sure	27t. ej. = ejusdem (mensis)
+0004_a1	8	N.	N[umero].	1	ruled	Numero, before a number
+0004_a2	6	Septbr	Sept[em]br	1	sure	September
+0004_a2	12	Ew.	Ew[er].	1	sure	Ew. Königl. Majestät formula
+0004_a2	12	Königl.	Königl[ichen].	1	sure	after Ew[er]
+0005_a1	23	Ew.	Ew[er].	1	sure	formula
+0005_a1	23	Königl.	Königl[ichen].	1	sure	formula
+0005_a2	4	Ew.	Ew[er].	1	sure	formula
+0005_a2	4	Königl.	Königl[ichen].	1	sure	formula
+0005_a2	6	Stanisl	Stanisl[aus]	1	sure	Stanislaus written 0007_a2 L4
+0005_a2	6	v.	v[on].	1	sure	von before name
+0005_a2	7	mpp	m[anu] p[ro]p[ria]	1	sure	manu propria, signature formula
+0005_a2	8	conc	conc[ipirt]	1	ruled	concipirt, drafted by (the draft's maker)
+0005_a2	9	N.	N[umero].	1	ruled	Numero, before a number
+0006_a2	1	praest.	praes[en]t[atum].	1	likely	praesentatum, receipt note; cf. praes. L22
+0006_a2	1	d.	d[en].	1	sure	date formula
+0006_a2	1	Septbr	Sept[em]br	1	sure	September
+0006_a2	4	v	v[on]	1	sure	von before name
+0006_a2	5	Septbr.	Sept[em]br.	1	sure	September
+0006_a2	8	resol:	resol[ution]:	1	ruled	"German ""Zur resol[ution]"""
+0006_a2	8	Cop.	Cop[iam].	1	sure	per Copiam written 0006_a2 L27
+0006_a2	8	huj.	huj[us].	1	sure	huius; spelling huj. as 0007_a1 L3
+0006_a2	8	Decr.	Decr[eti].	1	likely	huius Decreti, genitive; cf. Copia Decreti 0007_a1 L9
+0006_a2	15	Septbr	Sept[em]br	1	sure	September
+0006_a2	16	Königl:	Königl[iche]:	1	likely	nominative: Königliche Süd-Preußische Regierungs Canzley (heading)
+0006_a2	16	SüdPr.	SüdPr[eußische].	1	likely	SüdPreußen written 0001_a L1; adjective agreeing with Regierungs Canzley
+0006_a2	18	Cr.	Cr[iminal].	1	likely	Cr. Rath = Criminal Rath, written 0008_a2 L6
+0006_a2	22	praes.	praes[entatum].	1	sure	praesentatum, receipt note
+0006_a2	22	d	d[en]	1	sure	date formula
+0006_a2	22	Octobr.	Octob[e]r.	1	sure	October
+0006_a2	27	Decr.	Decr[eti].	1	likely	Per Copiam Decreti, genitive
+0007_a1	3	huj.	huj[us].	1	sure	huius, vom 10ten huj. = of this month
+0007_a1	7	Septbr.	Sept[em]br.	1	sure	September
+0007_a1	8	Königl.	Königl[iche].	1	likely	nominative heading: Königlich Südpreußische Regierungs-Kanzlei
+0007_a1	8	Reg.	Reg[ierungs].	1	likely	Regierungs Canzley written 0006_a2 L16
+0007_a2	8	d.	d[en].	1	likely	office date note
+0007_a2	9	rev.	rev[idendum].	1	likely	ad rev. d. 22 = ad revidendum
+0007_a2	10	gen:	gen[eralia]:	1	likely	Acta generalia
+0007_a2	11	betr:	betr[effend]:	1	sure	betreffend written 0008_a2 L35
+0007_a2	11	Reg:	Reg[istratur]:	1	ruled	
+0007_a2	12	d.	d[en].	1	likely	office note date
+0007_a2	13	Pr.	Pr[eußen].	1	likely	Süd. Pr. = Süd Preußen (0001_a SüdPreussen)
+0007_a2	14	Königl:	Königl[iche]:	1	sure	Seine Königliche Majestät, nominative
+0007_a2	14	p p	p[erge] p[erge]	1	likely	et cetera formula
+0007_a2	18	d.	d[ieses].	1	sure	d. M. = dieses Monats; cf. 0011_a2 L4 d. J.
+0007_a2	18	M.	M[onats].	1	sure	dieses Monats (genitive)
+0007_a2	21	Sept:	Sept[ember]:	1	sure	month
+0007_a2	22	c.	c[urrentis].	1	sure	10. Sept: c. = of this year
+0007_a2	31	Sign:	Sign[atum]:	1	sure	Signatum before place and date
+0007_a2	34	d.	d[en].	1	likely	office note date
+0008_a2	1	pr.	pr[aesentatum].	1	likely	praesentatum; receipt note
+0008_a2	1	Dec.	Dec[ember].	1	sure	December written 0017_a2 L1
+0008_a2	1	99.	[17]99.	1	sure	editor's pattern for abbreviated year
+0008_a2	2	Allerderchlauchtigstr	Allerderchlauchtigst[e]r	1	sure	address formula
+0008_a2	2	Großmächtigstr	Großmächtigst[e]r	1	sure	address formula
+0008_a2	4	Decbr.	Dec[em]br.	1	sure	December
+0008_a2	8	v	v[on]	1	sure	von before name
+0008_a2	22	d.	d[ieses].	1	sure	d. J. = dieses Jahres
+0008_a2	22	J.	J[ahres].	1	sure	dieses Jahres
+0008_a2	25	Ew.	Ew[er].	1	sure	Ew. Königl. Majestät
+0008_a2	26	nigl:	nigl[ichen]:	1	likely	Kö-nigl: Majestät after Ew[er]
+0009_a1	35	Septbr.	Sept[em]br.	1	sure	September
+0009_a1	41	deß.	deß[elben].	1	sure	deß. M. = desselben Monats, cf. 0011_a2 L24
+0009_a1	41	M.	M[onats].	1	sure	desselben Monats
+0009_a1	41	u.	u[nd].	1	sure	und
+0010_a1	14	Ew.	Ew[er].	1	sure	formula
+0010_a1	14	Königl:	Königl[ichen]:	1	sure	Ew. Königl: Majestät
+0010_a1	21	Ew.	Ew[er].	1	sure	formula
+0010_a1	21	Königl.	Königl[ichen].	1	sure	formula
+0010_a1	25	N.	N[umero].	1	ruled	Numero, before a number
+0011_a2	2	d.	d[en].	1	sure	date formula
+0011_a2	2	Decbr.	Dec[em]br.	1	sure	December
+0011_a2	3	p p	p[erge] p[erge]	1	likely	et cetera formula
+0011_a2	4	Octbr.	Oct[o]br.	1	sure	October
+0011_a2	4	d.	d[ieses].	1	sure	d. J. = dieses Jahres
+0011_a2	4	J.	J[ahres].	1	sure	dieses Jahres
+0011_a2	5	v	v[on]	1	sure	von before name
+0011_a2	5	E. K. M.	E[urer]. K[öniglichen]. M[ajestät].	1	likely	bei E. K. M. = bei Ew. Königl. Majestät; dative
+0011_a2	9	allerunterthgst	allerunterth[äni]gst	1	sure	allerunterthänigst written 0005_a1 L24-25
+0011_a2	14	v.	v[on].	1	sure	von before name
+0011_a2	15	v	v[on]	1	sure	von before Hohenlohe
+0011_a2	19	v	v[on]	1	sure	von before Hohenlohe
+0011_a2	22	Septbr.	Sept[em]br.	1	sure	September
+0011_a2	24	dess.	dess[elben].	1	sure	dess. M. = desselben Monats
+0011_a2	24	M.	M[onats].	1	sure	desselben Monats
+0011_a2	29	ausdrückl.	ausdrückl[ich].	1	sure	ausdrüklich written 0009_a2 L13
+0012_a1	6	v	v[on]	1	sure	von before name
+0012_a1	11	E. K. M.	E[urer]. K[öniglichen]. M[ajestät].	1	likely	cf. 0011_a2 L4
+0012_a1	11	allerunterthgst:	allerunterth[äni]gst:	1	sure	allerunterthänigst
+0012_a1	13	p p	p[erge] p[erge]	1	likely	et cetera
+0012_a1	14	E. K. M.	E[urer]. K[öniglichen]. M[ajestät].	1	likely	formula
+0012_a1	15	p p p	p[erge] p[erge] p[erge]	1	likely	et cetera
+0012_a2	2	Allerdurchleuchtigstr	Allerdurchleuchtigst[e]r	1	sure	address formula
+0012_a2	2	p p	p[erge] p[erge]	1	likely	et cetera
+0012_a2	9	v	v[on]	1	sure	von before name; Anton von Prusimski 0012_a2 L15
+0012_a2	18	Joh.	Joh[anni].	1	sure	Johanni written 0013_a1 L7
+0012_a2	20	Abschr.	Abschr[ift].	1	sure	Abschrift written 0011_a2 L1
+0012_a2	24	v	v[on]	1	sure	von before name Przeradzki
+0013_a1	7	v.	v[origen].	1	sure	zu Johanni v. J. = vorigen Jahres
+0013_a1	7	J.	J[ahres].	1	sure	vorigen Jahres
+0013_a1	21	v.	v[origen].	1	sure	im Monat May v. J. = vorigen Jahres
+0013_a1	21	J.	J[ahres].	1	sure	vorigen Jahres
+0013_a1	29	Ew.	Ew[er].	1	sure	formula
+0013_a1	29	K.	K[öniglichen].	1	sure	Ew. K. M.
+0013_a1	29	M.	M[ajestät].	1	sure	Ew. K. M.
+0013_a1	29	Xbr.	Xbr[is].	1	likely	special; Xbr. = Decembris (X = decem); December spelled 0017_a2 L1
+0013_a1	30	Exmiss.	Exmiss[ions].	1	likely	Exmissions-Klage; compound
+0013_a1	31	u	u[nd]	1	sure	und
+0013_a2	1	c.	c[urrentis].	1	likely	27. Februar c.
+0013_a2	15	E K M	E[urer] K[öniglichen] M[ajestät]	1	likely	formula, no stops
+0013_a2	20	Term.	Term[inum].	1	likely	Termin; German Termin written 0003_a2 L19
+0013_a2	26	proC.	proC[ent].	1	ruled	
+0014_a1	5	u.	u[nd].	1	sure	und
+0014_a1	11	p p	p[erge] p[erge]	1	likely	et cetera
+0014_a1	12	E K M	E[urer] K[öniglichen] M[ajestät]	1	likely	formula
+0014_a1	13	p p p	p[erge] p[erge] p[erge]	1	likely	et cetera
+0014_a1	14	v	v[on]	1	sure	von before name
+0014_a2	5	WJPanu	W[ielmożnemu]J[egomości]Panu	1	ruled	"Wielmożnemu Jegomości Panu, the fixed form of address (dative, with ""Chełmskiemu"")"
+0014_a2	19	WJP	W[ielmożny]J[egomość]P[an]	1	ruled	Wielmożny Jegomość Pan, the same form (nominative)
+0014_a2	29	WJM	W[ielmożnego]J[ego]M[ości]	1	ruled	"Wielmożnego Jego Mości, the same form, with ""Pana"""
+0014_a2	33	Mpp	M[anu] p[ro]p[ria]	1	sure	manu propria, signature formula; letters M p p in order
+0016_a2	1	n:	n[umero]:	1	likely	ad n[umerum]/n[umero]; ad n: 9 = to number 9; ending uncertain
+0016_a2	2	Crim.	Crim[inal].	1	sure	Criminal Rath written 0008_a2 L6
+0016_a2	2	R.	R[ath].	1	sure	Criminal Rath
+0016_a2	3	resol.	resol[ution].	1	sure	Resolution written 0007_a2 L20-21
+0016_a2	4	8br.	8br[is].	1	likely	special; Octobris
+0016_a2	4	u.	u[nd].	1	sure	und
+0016_a2	5	d.	d[en].	1	sure	date formula
+0016_a2	5	Xbr	Xbr[is]	1	likely	special; Decembris; December written 0017_a2 L1
+0016_a2	6	conclus.	conclus[um].	1	sure	conclusum written 0002_a2 L20
+0016_a2	6	eod.	eod[em].	1	sure	eodem written 0002_a2 L20
+0017_a2	4	v.	v[on].	1	sure	von before name
+0017_a2	5	Reg:	Reg[ierung]:	1	sure	Regierung written 0017_a2 L19-20
+0017_a2	6	c.	c[ontra].	1	sure	c. Fiscum = contra Fiscum written L21
+0017_a2	6	betr:	betr[effend]:	1	sure	betreffend
+0017_a2	7	d.	d[en].	1	likely	office date note
+0017_a2	8	rev.	rev[idendum].	1	likely	ad rev. = ad revidendum
+0017_a2	8	d.	d[en].	1	likely	office date note
+0017_a2	9	Anl.	Anl[age].	1	ruled	one enclosure, the copy of the resolution
+0017_a2	11	d	d[en]	1	likely	office note d 31tn O.
+0017_a2	12	Pr.	Pr[eußen].	1	likely	Süd. Pr. = Süd Preußen
+0017_a2	15	d.	d[ieses].	1	sure	7. d. M. dieses Monats
+0017_a2	15	M.	M[onats].	1	sure	dieses Monats
+0017_a2	21	c.	c[urrentis].	1	sure	21. October c.
+0017_a2	23	Sign:	Sign[atum]:	1	sure	Signatum
+0017_a2	23	Dec:	Dec[ember]:	1	sure	December written L1
+0007_a2	9	d.	d[en].	1	likely	office date note

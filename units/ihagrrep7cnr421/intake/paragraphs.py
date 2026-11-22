@@ -30,37 +30,37 @@ PATH = os.path.join(UNIT_DIR, 'paragraph_decisions.csv')
 
 # (document, start of the line, decision)
 RULES = [
-    ('1', 'Allerdurchläuchtigstr Großmächtigstr', 'break'),   # after the office's block
+    ('1', 'Allerdurchläuchtigst[e]r Großmächtigst[e]r', 'break'),   # after the office's block
     ('1', 'werde der von Pru', 'run'),
     ('1', 'nicht beruhigen kann,', 'run'),
     ('1', 'confiscirten Vermö', 'run'),
     ('1', 'sollen, daß jedoch', 'run'),
-    ('2', 'auf das Vorstellen des v Chełmski', 'break'),
+    ('2', 'auf das Vorstellen des v[on] Chełmski', 'break'),
     ('2', 'seiner ./. Prusimski:', 'run'),
     ('2', 'von Chełmski ./. Prusimski.', 'run'),
     ('2', 'dem[?] K[r?]. R. Mondro.', 'run'),
     ('3', 'für den Stanislaus von Chełmski,', 'run'),
     ('3', 'v. Prusimski.)', 'run'),
-    ('3', 'c. lediglich sein Bewenden', 'run'),
+    # ('3', 'c. lediglich sein Bewenden', 'run'): no longer a candidate since 2026-11-22.
     ('4', 'den Fiscum wegen', 'run'),
     ('4', 'M[?]. mit selbigen', 'run'),
     ('4', '12,000. ## einge', 'run'),
     ('4', 'Allerhöchst dieselben wie', 'run'),
     ('4', 'sollte.', 'run'),
-    ('5', 'Bereits unter dem 9ten Octbr.', 'break'),
+    ('5', 'Bereits unter dem 9ten Oct[o]br.', 'break'),
     ('5', 'Allerhöchstdieselben wiederholenlich', 'run'),
     ('6', 'Łukom bei Peysern', 'run'),
     ('6', './.', 'run'),
     ('6', 'den Starosten', 'run'),
-    ('6', 'Anton v Prusimski', 'run'),
-    ('6', 'auf Trąmpczyn', 'run'),
+    ('6', 'Anton v[on] Prusimski', 'run'),
+    # ('6', 'auf Trąmpczyn', 'run') and ('7', 'c. Fiscum betr:)', 'run'): no longer candidates
+    # since the abbreviations were expanded (2026-11-22: the lines before are no longer short).
     ('6', 'wegen 12000 #.', 'run'),
     ('6', 'ex Chirographo.', 'run'),
-    ('6', 'Term. instr. anzusagen', 'run'),
+    ('6', 'Term[inum]. instr. anzusagen', 'run'),
     ('6', 'Nizey wyrazony Blankiet', 'break'),
-    ('6', 'S[tarosta]. N[ieszczewicki]. Mpp', 'run'),
+    ('6', 'S[tarosta]. N[ieszczewicki]. M[anu] p[ro]p[ria]', 'run'),
     ('6', 'przytomny Przyiaciół', 'run'),
-    ('7', 'c. Fiscum betr:)', 'run'),
 ]
 
 

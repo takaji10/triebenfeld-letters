@@ -63,24 +63,34 @@
   // The translator returns each page in the paragraphs of the German reading
   // text, separated by a blank line. They used to be poured into one <p>, where
   // the breaks vanished and a page read as a single slab.
-  var OFFICE = '[Written by the receiving office:]';
-  var MARGIN = '[Written in the margin:]';
+  // The edition's own label lines in the English, one paragraph each. A label
+  // opens a box of its kind, which holds what follows until the next label or
+  // the end marker; the end marker itself is not shown (2026-11-22: a set-apart
+  // block in mid-page, such as the notes in the margin of Nr. 421's petition,
+  // used to swallow the rest of the page).
+  var KINDS = {
+    '[Written by the receiving office:]': ['office_note', 'office-note', 'Written by the receiving office'],
+    '[Written in the margin:]': ['margin_note', 'margin-note', 'Written in the margin'],
+    '[Written in another hand:]': ['hand_note', 'hand-note', 'Written in another hand']
+  };
+  var CONTINUES = '[The document continues:]';
   function fillTranslation(el, en) {
     var box = el;
     en.split(/\n\s*\n/).forEach(function (para) {
       para = para.replace(/^\s+|\s+$/g, '');
       if (!para) return;
-      if (para === OFFICE || para === MARGIN) {
-        // What the receiving office wrote on the letter, or a note in the
-        // margin, is set apart under the same label as in the other views.
-        var key = para === OFFICE ? 'office_note' : 'margin_note';
+      if (para === CONTINUES) { box = el; return; }
+      var kind = KINDS[para];
+      if (kind) {
+        // What the receiving office wrote on the letter, a note in the margin,
+        // or a second voice in another hand, set apart under the same label as
+        // in the other views.
         box = document.createElement('div');
-        box.className = 'sideways ' + (para === OFFICE ? 'office-note' : 'margin-note');
+        box.className = 'sideways ' + kind[1];
         var note = document.createElement('div');
         note.className = 'sideways-note';
-        note.setAttribute('data-i18n', key);
-        note.textContent = label(key, para === OFFICE ? 'Written by the receiving office'
-                                                      : 'Written in the margin');
+        note.setAttribute('data-i18n', kind[0]);
+        note.textContent = label(kind[0], kind[2]);
         box.appendChild(note);
         el.appendChild(box);
         return;

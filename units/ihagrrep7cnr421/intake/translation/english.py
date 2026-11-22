@@ -34,9 +34,15 @@ MARK = re.compile(r'\[[^\]]*\?\]|\[\.\.\.\]')
 
 EN = {
     1: [
-        """The files in which[?] [...] the [...] underlined in red in this petition are to be found (which I do not find in the collection sent to me by His Excellency[?] v. Goldbeck) are to be attached for me, and if need be requested from the archive of the General D[...] etc. 18 Oct. Massow
+        """[Written by the receiving office:]
+
+The files in which[?] [...] the [...] underlined in red in this petition are to be found (which I do not find in the collection sent to me by His Excellency[?] v. Goldbeck) are to be attached for me, and if need be requested from the archive of the General D[...] etc. 18 Oct. Massow
+
+[Written by the receiving office:]
 
 Resolved: that the resolution of the Government of 10 Sept. this year must simply stand, since every creditor who has personal claims to make on the former property of an insurgent will understand of himself that the costs of the war must[?] far exceed the whole estate of such an insurgent. B[erlin], 21 Oct. [17]99. So resolved the same day. Willenz
+
+[The document continues:]
 
 Most Serene, Most Mighty, Most Gracious King and Lord! Kalisz, 8 October 1799.
 
@@ -72,7 +78,7 @@ No. 55.""",
     2: [
         """presented 18 Sept. 1799. Copy.
 
-Decree on the representation of v Chełmski of 6 Sept. 1799 in the matter of himself ./. Prusimski: For resolution, by copy of this decree: before the suit he asks for can be admitted, he must first show the real character of the claim, and that he must for that reason be satisfied from the estates. Kalisz, 10 Sept. 1799. Royal South Prussian Government Chancery. To von Chełmski, into the hands of Cr. Councillor Mondro
+Decree on the representation of v Chełmski of 6 Sept. 1799 in the matter of himself v. Prusimski: For resolution, by copy of this decree: before the suit he asks for can be admitted, he must first show the real character of the claim, and that he must for that reason be satisfied from the estates. Kalisz, 10 Sept. 1799. Royal South Prussian Government Chancery. To von Chełmski, into the hands of criminal-court councillor Mondro
 
 here.
 
@@ -82,7 +88,7 @@ presented 5 October 1799. Copy.
 
 Decree
 
-in the case of von Chełmski ./. Prusimski. By copy of the decree, for resolution: it remains, on the ground""",
+in the case of von Chełmski v. Prusimski. By copy of the decree, for resolution: it remains, on the ground""",
         """of the entirely clear content of the judgment of revision, by the ruling of the 10th of this month, all the more as he himself treats this claim as a personal one. Kalisz, 27 Sept. 1799. Royal South Prussian Government Chancery. Copy of the decree to[?] the criminal-court councillor[?] Mondro, here.
 
 3459.""",
@@ -95,9 +101,9 @@ in the case of von Chełmski ./. Prusimski. By copy of the decree, for resolutio
 
 v. Prusimski.) Gr.
 
-acc. on the 21st.
+[...] on the 21st.
 
-ad rev. on the 22nd.
+For revision on the 22nd.
 
 Files general: concerning the debts of the insurgents, to the Reg[istry]:
 
@@ -117,13 +123,17 @@ Signed: Berlin, 21 October 1799. By command.
     ],
 
     4: [
-        """Presented 15 Dec. 99. Most Serene, Most Mighty, Most Gracious King and Lord! Kalisz, 7 December 1799.
+        """Presented 15 Dec. [17]99. Most Serene, Most Mighty, Most Gracious King and Lord! Kalisz, 7 December 1799.
 
-The criminal-court councillor Mondro asks, in the name of v Chełmski of Łukom, for a preliminary ruling on the complaint against the Government at Kalisz in his matter ./.
+The criminal-court councillor Mondro asks, in the name of v Chełmski of Łukom, for a preliminary ruling on the complaint against the Government at Kalisz in his matter v.
 
 the Fiscus, over the dismissal of the suit.
 
+[Written by the receiving office:]
+
 Earlier papers (Anteriora). [...] with the same [...] [...] 19 [...]
+
+[The document continues:]
 
 As early as 9 October this year my client, the landowner von Chełmski, submitted to Your Royal Majesty a complaint against the Government here over the improper dismissal of a suit brought against the Fiscus concerning a claim of
 
@@ -145,7 +155,9 @@ to have a preliminary ruling given him without delay. I who remain, until death,
 criminal-court councillor
 
 No. 33.""",
-        """ad no. 9.
+        """[Written by the receiving office:]
+
+On no. 9.
 
 A copy of the resolution of 21 Oct. given to his principal is to be communicated to the criminal-court councillor. B[erlin], 23 Dec. [17]99. So resolved the same day.
 
@@ -178,10 +190,10 @@ criminal-court councillor.""",
     6: [
         """Copy.
 
-Most Serene etc. Poznań, 19 March 1799. Suit of Stanisl[aus] von Chełmski of Łukom near Pyzdry ./. the Starost Anton v Prusimski of Trąbczyn, concerning 12,000 ducats on the strength of a handwritten bond (ex chirographo).
+Most Serene etc. Poznań, 19 March 1799. Suit of Stanisl[aus] von Chełmski of Łukom near Pyzdry v. the Starost Anton v Prusimski of Trąbczyn, concerning 12,000 ducats on the strength of a handwritten bond (ex chirographo).
 
 On 16 June 1794 I had to advance to the Starost Anton von Prusimski of Trąbczyn, Nowawies, Osiny and the Trąbczyn Hollanders 12,000 ducats for one year, namely until St John's Day 1795, for which he handed me the blank note enclosed in copy, in the presence of Jacob von Bieńkowski of Mierzewo near Gniezno and of Antonius v Przeradzki. At the loan itself it was agreed between me and the defendant debtor, in the presence of those witnesses, that if the repayment of these 12,000 ducats did not follow on the date fixed for payment, I might treat the said""",
-        """blank note as a contract of antichresis (contractus antichreticus: the creditor takes the income of the pledge in place of interest) and take possession of the estates listed as a pledge. Payment did not in fact follow on the date agreed, namely at St John's Day last year, and I therefore took possession of these estates at that time.
+        """blank note as a contract of antichresis (contractus antichreticus) and take possession of the estates listed as a pledge. Payment did not in fact follow on the date agreed, namely at St John's Day last year, and I therefore took possession of these estates at that time.
 
 Meanwhile my debtor was charged by the Fiscus with taking part in the insurrection that broke out in this province in 1794, and because he has not even yet returned, his property was to be seized by the Fiscus in the month of May last year, which I had forestalled only by taking possession of the said estates in the month of June.
 
@@ -198,9 +210,9 @@ Your Royal Majesty
 etc.
 
 v Chełmski.""",
-        """Copy. The blank note named below, signed with my own hand, wishing all the more to secure the date of its payment and to set at rest the concern of the Honourable Lord Chełmski, Treasurer, about being paid on the eve of St John the Baptist in the year 1795, I give this present undertaking of my free will and deliberately, that if on the date I do not pay the 12,000 ducats named below in good Dutch gold ring ducats, without interest, I permit free entry into my[?] estates, that is the villages of Trąbczyn, Nowawies, Osiny, the village of Zarobna[?], Łazy and all the Hollanders belonging to this estate, excepting no village, forest or wood, except the iron works, the magazine and the stores of timber needed for them; which estates named above the Honourable Lord Chełmski shall hold in lieu of interest, without any account, until this sum, expressed in this blank note, turned to my use and taken in cash before witnesses, is repaid; and I wish this undertaking to have[?] such force as though it had been made before a court of my own. Given at Łukom, 16 June 1794 [...].
+        """Copy. The blank note named below, signed with my own hand, wishing all the more to secure the date of its payment and to set at rest the concern of the Honourable Lord Chełmski, Treasurer, about being paid on the eve of St John the Baptist in the year 1795, I give this present undertaking of my free will and deliberately, that if on the date I do not pay the 12,000 ducats named below in Dutch gold ring ducats of full weight, without interest, I permit free entry into the [...] estates, that is the villages of Trąbczyn, Nowawies, Osiny, the village of Zarobna[?], Łazy and all the Hollanders belonging to this estate, excepting no village, forest or wood, except the iron works, the magazine and the stores of timber needed for them; which estates named above the Honourable Lord Chełmski shall hold in lieu of interest, without any account, until this sum, expressed in this blank note, turned to my use and taken in cash before witnesses, is repaid; and I wish this undertaking to have[?] such force as though it had been made in person before a court[?]. Given at Łukom, 16 June 1794 [...].
 
-Belonging[?] to the Honourable Lord Stanisław Chełmski, Treasurer of Wschowa: a blank note for 12,000 Dutch ring ducats. Antoni Prusimski
+Belonging to the Honourable Lord Stanisław Chełmski, Treasurer of Wschowa: a blank note for 12,000 Dutch ring ducats. Antoni Prusimski
 
 Starost of Nieszczewice, in his own hand
 
@@ -216,9 +228,9 @@ Antoni Przeradzki, friend present.""",
 
 (concerning v. Chełmski's complaints against the Kalisz Gov[ernment] over the dismissal of his suit
 
-against the Fiscus) acc. on the 23rd.
+against the Fiscus) [...] on the 23rd.
 
-ad rev. on the 24th.
+For revision on the 24th.
 
 Encl. attached
 

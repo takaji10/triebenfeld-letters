@@ -90,7 +90,143 @@ corrections:
 # Registry numbers given a thousands comma by the translator (the editor's report on
 # Nr. 421, 2026-11-22): a registry number is an identifier, not a sum, and stands as
 # the page writes it (pipeline/numerals.py now leaves the ungrouped ones alone).
-- {pad: ihagrrep7cnr3709-003, page: 1, find: "B. 3,681. 6,027.", replace: "B. 3681. 6027.", why: "B. 3681. 6027.: the receiving office's registry numbers at the foot"}
+- {pad: ihagrrep7cnr3709-003, page: 1, find: "B. 3,681. 6027.", replace: "B. 3681. 6027.", why: "B. 3681. 6027.: the receiving office's registry numbers at the foot (the find is the text after the house forms, which group the first)"}
 - {pad: ihagrrep7cnr3709-012, page: 1, find: "No. 6,334.", replace: "No. 6334.", why: "Nro. 6334.: a registry number"}
 - {pad: iiihamdaiiinr12765-016, page: 1, find: "ad no: c. 2,278.", replace: "ad no: c. 2278.", why: "ad nr: c. 2278: the registry number the draft answers"}
 - {pad: iiihamdaiiinr12765-017, page: 1, find: "ad no. c. 2,278.", replace: "ad no. c. 2278.", why: "ad nr: c. 2278.: the registry number the draft answers"}
+
+# The sweep for words left in Latin, German or Polish, or carried in the original's
+# letters (docs/NR421_ENGLISH_PLAN.md, step 5; 2026-11-22): proposed by a Sonnet reader
+# against each page and its original, ruled by Claude. The glossary terms the edition
+# keeps in the English (Actum, ex officio, Pro Memoria, in solidum) stay.
+- {pad: adwl85-001, page: 8, find: "Item", replace: "Likewise", why: "Item: Latin \"item\" (likewise) at the head of a clause"}
+- {pad: app5314550221-001, page: 1, find: "[uncertain: gadibus]", replace: "[...]", why: "[uncertain: gadibus]: unread word not carried in the original letters; sense not fixed by the passage"}
+- {pad: app53170koningr117-001, page: 1, find: "et cetera", replace: "etc.", why: "et cetera: \"et cetera\" given as the ordinary English \"etc.\""}
+- {pad: app53170koningr117-002, page: 1, find: "et cetera", replace: "etc.", why: "et cetera: \"et cetera\" given as the ordinary English \"etc.\""}
+- {pad: app53170koningr117-009, page: 1, find: "et cetera", replace: "etc.", why: "et cetera: \"et cetera\" given as the ordinary English \"etc.\""}
+- {pad: app53170koningr118-014, page: 1, find: "[Austacorum]", replace: "[...]", why: "[Austacorum]: unread Latin word not carried in its original letters; sense not fixed"}
+- {pad: app53170koningr145-001, page: 9, find: "interveniente die Dominico", replace: "the Sunday that intervened", why: "interveniente die Dominico: Latin phrase quoted in a note without gloss; replaced by its sense (when the Lord's day intervened)"}
+- {pad: app5371057-001, page: 19, find: "testante protocollo de hodierno in fidem publicam", replace: "as today's protocol testifies, in attestation", why: "testante protocollo de hodierno in fidem publicam: Latin formula given in English"}
+- {pad: app5371057-001, page: 19, find: "praevia collatione", replace: "after prior collation", why: "praevia collatione: Latin phrase given in English"}
+- {pad: app5371057-001, page: 19, find: "in fidem publ.", replace: "in attestation.", why: "in fidem publ.: Latin formula (in fidem publicam) given in English"}
+- {pad: app539680669-001, page: 7, find: "[uncertain: annähre…den]", replace: "[...]", why: "[uncertain: annähre…den]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: app539680801-001, page: 3, find: "testante Protocollo de hodierno in fidem publicam", replace: "as today's protocol testifies, in attestation", why: "testante Protocollo de hodierno in fidem publicam: Latin formula given in English"}
+- {pad: ihagrrep7cnr1414-001, page: 1, find: "et in simili", replace: "And likewise", why: "et in simili: Latin phrase given in English"}
+- {pad: ihagrrep7cnr3132-004, page: 2, find: "aus dieses[?]", replace: "from here[?]", why: "aus dieses[?]: German words left in the English (aus dieses = from this [place])"}
+- {pad: ihagrrep7cnr3132-007, page: 1, find: "Sind etc.", replace: "[We] are etc.", why: "Sind etc.: German word left in the English (formula \"Sind etc.\")"}
+- {pad: ihagrrep7cnr3132-009, page: 1, find: "Sind etc.", replace: "[We] are etc.", why: "Sind etc.: German word left in the English (formula \"Sind etc.\")"}
+- {pad: ihagrrep7cnr3570-001, page: 1, find: "conclusum eodem", replace: "resolved on the same date", why: "conclusum eodem: Latin phrase given in English"}
+- {pad: ihagrrep7cnr3570-001, page: 7, find: "Inseratur der Charakter des Fürsten im Königl. Dienst", replace: "the character of the Prince in the Royal service to be inserted", why: "Inseratur der Charakter des Fürsten im Königl. Dienst: German left in the English"}
+- {pad: ihagrrep7cnr3705-001, page: 6, find: "contra jus in thesi", replace: "contrary to law in principle", why: "contra jus in thesi: Latin phrase given in English"}
+- {pad: ihagrrep7cnr3705-001, page: 7, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: ihagrrep7cnr3705-001, page: 8, find: "in via executionis secund:", replace: "by way of execution, according to", why: "in via executionis secund:: Latin phrase given in English"}
+- {pad: ihagrrep7cnr3705-001, page: 12, find: "declared ad Acta", replace: "declared on the record", why: "declared ad Acta: Latin given in English"}
+- {pad: ihagrrep7cnr3705-001, page: 14, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: ihagrrep7cnr3709-015, page: 1, find: "[uncertain: ist]", replace: "is [?]", why: "[uncertain: ist]: unread German word carried in its letters; sense (ist = is) given with [?]"}
+- {pad: iharep162nr295-003, page: 5, find: "in vim recognitionis", replace: "by way of acknowledgement", why: "in vim recognitionis: Latin formula given in English"}
+- {pad: iiihamdaiiinr12765-005, page: 1, find: "[uncertain: bauen Beständen der Buch]", replace: "[...]", why: "[uncertain: bauen Beständen der Buch]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: iiihamdaiiinr12765-017, page: 2, find: "[uncertain: geworden werden ist]", replace: "[...]", why: "[uncertain: geworden werden ist]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: iiihamdaiiinr12765-017, page: 2, find: "[uncertain: gefall ist]", replace: "[...]", why: "[uncertain: gefall ist]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: iiihamdaiiinr12765-023, page: 1, find: "[uncertain: tione]", replace: "[...]", why: "[uncertain: tione]: unread Latin fragment not carried in its original letters"}
+- {pad: iiihamdaiiinr12765-030, page: 1, find: "Ad acta", replace: "To the file.", why: "Ad acta: Latin docket note given in English"}
+- {pad: kdw-007, page: 1, find: "in die XI millium Virginum.", replace: "on the day of the Eleven Thousand Virgins.", why: "in die XI millium Virginum.: Latin quoted in an English note without gloss; gloss added"}
+- {pad: kdw-015, page: 1, find: "Item", replace: "Likewise", why: "Item: Latin \"item\" (likewise) at the head of a clause"}
+- {pad: oe1bu14525-002, page: 2, find: "ex inscriptione", replace: "on the strength of the entry", why: "ex inscriptione: Latin phrase given in English"}
+- {pad: oe1bu14525-002, page: 3, find: "in vim recognitionis", replace: "by way of acknowledgement", why: "in vim recognitionis: Latin formula given in English"}
+- {pad: oe1bu14525-002, page: 3, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-003, page: 3, find: "in fidem publicam", replace: "in attestation", why: "in fidem publicam: Latin formula (in fidem publicam) given in English"}
+- {pad: oe1bu14525-006, page: 4, find: "sub sigillo judiciali in fidem", replace: "under the judicial seal in attestation", why: "sub sigillo judiciali in fidem: Latin formula given in English"}
+- {pad: oe1bu14525-007, page: 6, find: "the entry of the Titulus", replace: "the entry of the title", why: "Titulus: Latin legal term given in English; the word runs on to page 7 (\"possessionis\"), see the next row"}
+- {pad: oe1bu14525-007, page: 7, find: "possessionis, in copy", replace: "of possession, in copy", why: "possessionis, in copy: continues \"Titulus\" at the end of page 6 (see the companion row): Latin legal term given in English"}
+- {pad: oe1bu14525-007, page: 7, find: "Titulus possessionis", replace: "Title of possession", why: "Titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-007, page: 8, find: "Titulus Possessionis", replace: "title of possession", why: "Titulus Possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-007, page: 9, find: "in vim recognitionis", replace: "by way of acknowledgement", why: "in vim recognitionis: Latin formula given in English"}
+- {pad: oe1bu14525-007, page: 9, find: "Titulus Possessionis", replace: "title of possession", why: "Titulus Possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-007, page: 9, find: "sub sigillo judiciali, attested in fidem", replace: "under the judicial seal, attested in attestation", why: "sub sigillo judiciali, attested in fidem: Latin formula given in English"}
+- {pad: oe1bu14525-008, page: 3, find: "hereby, in fidem,", replace: "hereby, in attestation,", why: "hereby, in fidem,: Latin formula given in English"}
+- {pad: oe1bu14525-009, page: 3, find: "sub sigillo judiciali, in fidem", replace: "under the judicial seal, in attestation", why: "sub sigillo judiciali, in fidem: Latin formula given in English"}
+- {pad: oe1bu14525-010, page: 3, find: "in fidem publicam", replace: "in attestation", why: "in fidem publicam: Latin formula (in fidem publicam) given in English"}
+- {pad: oe1bu14525-015, page: 1, find: "Titulus Possessionis", replace: "title of possession", why: "Titulus Possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-015, page: 2, find: " the Titulus Possessionis in h", replace: " the title of possession in h", why: "Titulus Possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-015, page: 2, find: " the Titulus Possessionis in t", replace: " the title of possession in t", why: "Titulus Possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-015, page: 3, find: "in vim recognitionis", replace: "by way of acknowledgement", why: "in vim recognitionis: Latin formula given in English"}
+- {pad: oe1bu14525-015, page: 3, find: "Titulus Possessionis", replace: "title of possession", why: "Titulus Possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-017, page: 8, find: "notae intabulationis tituli possessionis", replace: "notes of entry in the mortgage book of the title of possession", why: "notae intabulationis tituli possessionis: Latin legal phrase given in English"}
+- {pad: oe1bu14525-017, page: 10, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-023, page: 1, find: "Instrumentum taxationis", replace: "Instrument of valuation", why: "Instrumentum taxationis: Latin phrase given in English"}
+- {pad: oe1bu14525-026, page: 1, find: "in vim recognitionis", replace: "by way of acknowledgement", why: "in vim recognitionis: Latin formula given in English"}
+- {pad: oe1bu14525-036, page: 1, find: " titulus possessionis ", replace: " title of possession ", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-036, page: 1, find: " titulus possessionis,", replace: " title of possession,", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14525-041, page: 4, find: "attested in fidem", replace: "attested in attestation", why: "attested in fidem: Latin formula (in fidem [publicam]) given in English"}
+- {pad: oe1bu14526-002, page: 7, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14526-003, page: 6, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14526-003, page: 8, find: "sub eodem dato", replace: "under the same date", why: "sub eodem dato: Latin phrase given in English"}
+- {pad: oe1bu14526-003, page: 9, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14526-004, page: 3, find: "in Pausch und Bogen", replace: "as a whole", why: "in Pausch und Bogen: German phrase left in the English (\"in a lump sum, without measuring\")"}
+- {pad: oe1bu14526-005, page: 2, find: "in Pausch und Bogen", replace: "as a whole", why: "in Pausch und Bogen: German phrase left in the English (\"in a lump sum, without measuring\")"}
+- {pad: oe1bu14526-006, page: 13, find: "testande Protocolli de hodierno in fidem publicam", replace: "as today's protocol testifies, in attestation", why: "testande Protocolli de hodierno in fidem publicam: Latin formula given in English"}
+- {pad: oe1bu14526-008, page: 16, find: "testando Protocolli de hodierno in fidem publicam", replace: "as today's protocol testifies, in attestation", why: "testando Protocolli de hodierno in fidem publicam: Latin formula given in English"}
+- {pad: oe1bu14526-008, page: 21, find: "praevia Collatione", replace: "after prior collation", why: "praevia Collatione: Latin phrase given in English"}
+- {pad: oe1bu14526-009, page: 3, find: "in Pausch und Bogen", replace: "as a whole", why: "in Pausch und Bogen: German phrase left in the English (\"in a lump sum, without measuring\")"}
+- {pad: oe1bu14526-010, page: 15, find: "facta prael. et ratibus", replace: "after reading over and ratification,", why: "facta prael. et ratibus: Latin abbreviation (facta praelectione et ratihabitione) given in English"}
+- {pad: oe1bu14526-015, page: 5, find: "mpp.", replace: "(own hand).", why: "mpp.: Latin abbreviation (manu propria) given in English"}
+- {pad: oe1bu14526-017, page: 9, find: "titulus possessionis", replace: "title of possession", why: "titulus possessionis: Latin legal term given in English (title of possession); the Latin is bracketed only on first use"}
+- {pad: oe1bu14526-018, page: 6, find: "in Pausch und Bogen", replace: "as a whole", why: "in Pausch und Bogen: German phrase left in the English (\"in a lump sum, without measuring\")"}
+- {pad: oe1bu14526-018, page: 19, find: "sub poena executionis", replace: "on pain of execution", why: "sub poena executionis: Latin given in English"}
+- {pad: oe1bu14526-019, page: 4, find: "in Pausch und Bogen", replace: "as a whole", why: "in Pausch und Bogen: German phrase left in the English (\"in a lump sum, without measuring\")"}
+- {pad: oe1bu14526-019, page: 14, find: "Status Passivorum", replace: "statement of liabilities", why: "Status Passivorum: Latin phrase given in English"}
+- {pad: oe1bu14526-021, page: 1, find: "in Pausch und Bogen", replace: "as a whole", why: "in Pausch und Bogen: German phrase left in the English (\"in a lump sum, without measuring\")"}
+- {pad: oe1bu14526-023, page: 1, find: "hereto ad Acta", replace: "hereto on the record", why: "hereto ad Acta: Latin given in English"}
+- {pad: oe1bu14526-023, page: 5, find: "in Pausch und Bogen", replace: "as a whole", why: "in Pausch und Bogen: German phrase left in the English (\"in a lump sum, without measuring\")"}
+- {pad: oe1bu14526-023, page: 20, find: "resignationem bonorum", replace: "resignation of the estates", why: "resignationem bonorum: Latin phrase given in English"}
+- {pad: oe1bu14526-023, page: 24, find: "resignationem bonorum", replace: "resignation of the estates", why: "resignationem bonorum: Latin phrase given in English"}
+- {pad: oe1bu14526-023, page: 25, find: "praevia de super partium stipulatione", replace: "after prior stipulation of the parties thereon", why: "praevia de super partium stipulatione: Latin phrase given in English"}
+- {pad: oe1bu14526-026, page: 4, find: "mpp", replace: "(own hand)", why: "mpp: Latin abbreviation (manu propria) given in English"}
+- {pad: oe1bu14526-030, page: 5, find: "mpp.", replace: "(own hand).", why: "mpp.: Latin abbreviation (manu propria) given in English"}
+- {pad: oe1bu9454-001, page: 1, find: "[uncertain: bey]", replace: "[...]", why: "[uncertain: bey]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-027, page: 2, find: "[uncertain: Bei]", replace: "[...]", why: "[uncertain: Bei]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-032, page: 2, find: "to Ein dem Flauche Eröhn", replace: "to [...]", why: "to Ein dem Flauche Eröhn: garbled German words carried in the original letters; sense not fixed"}
+- {pad: oe1bu9454-032, page: 2, find: "from die Haaren", replace: "from [...]", why: "from die Haaren: German words carried in the original letters; sense not fixed"}
+- {pad: oe1bu9454-057, page: 3, find: "[uncertain: mit]", replace: "with [?]", why: "[uncertain: mit]: unread German word carried in its letters; sense (mit = with) given with [?]"}
+- {pad: oe1bu9454-067, page: 2, find: "[text lost: der Teutsch ein pohleisch Bau]", replace: "[...]", why: "[text lost: der Teutsch ein pohleisch Bau]: German words carried inside a \"text lost\" mark (the original has them unbracketed: editor may prefer \"the German, a Polish peasant\")"}
+- {pad: oe1bu9454-067, page: 3, find: "[uncertain: ein Approbirt]", replace: "[...]", why: "[uncertain: ein Approbirt]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-067, page: 3, find: "[uncertain: eine hinnen]", replace: "[...]", why: "[uncertain: eine hinnen]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-067, page: 3, find: "[text lost: B — und Lecht Meyer Wolff]", replace: "[text lost: B — and Lecht Meyer Wolff]", why: "[text lost: B — und Lecht Meyer Wolff]: German \"und\" left in the English between names"}
+- {pad: oe1bu9454-070, page: 2, find: "[text uncertain: Nachhandelt mann Sie zu und ankbar]", replace: "[...]", why: "[text uncertain: Nachhandelt mann Sie zu und ankbar]: unread German words carried in the original letters; sense not fixed"}
+- {pad: oe1bu9454-074a, page: 1, find: "sub petito retraditionis", replace: "subject to a request for return", why: "sub petito retraditionis: Latin phrase given in English"}
+- {pad: oe1bu9454-074a, page: 2, find: "sub petito retraditionis", replace: "subject to a request for return", why: "sub petito retraditionis: Latin phrase given in English"}
+- {pad: oe1bu9454-077, page: 3, find: "[uncertain: sich]", replace: "[...]", why: "[uncertain: sich]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-082, page: 2, find: "[uncertain: tief der]", replace: "[...]", why: "[uncertain: tief der]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-085, page: 2, find: "[uncertain: durch ich nicht]", replace: "[...]", why: "[uncertain: durch ich nicht]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-098, page: 1, find: "[uncertain: Wannvoller und Cabewesen]", replace: "[...]", why: "[uncertain: Wannvoller und Cabewesen]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-099, page: 3, find: "[uncertain: den]", replace: "[...]", why: "[uncertain: den]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-115, page: 1, find: "[uncertain: daß]", replace: "[...]", why: "[uncertain: daß]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-135, page: 1, find: "[uncertain: Ein Hahn]", replace: "[...]", why: "[uncertain: Ein Hahn]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-145, page: 2, find: "[uncertain: einen denen]", replace: "[...]", why: "[uncertain: einen denen]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-148, page: 1, find: "[uncertain: zu künfig]", replace: "[...]", why: "[uncertain: zu künfig]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-163, page: 4, find: "[uncertain: weme bei]", replace: "[...]", why: "[uncertain: weme bei]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-168, page: 1, find: "[uncertain: gegen für]", replace: "[...]", why: "[uncertain: gegen für]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-169, page: 1, find: "[uncertain: an ist]", replace: "[...]", why: "[uncertain: an ist]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-179a, page: 3, find: "[uncertain: der oder in]", replace: "[...]", why: "[uncertain: der oder in]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-199, page: 1, find: "[uncertain: der]", replace: "[...]", why: "[uncertain: der]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-200, page: 2, find: "[uncertain: der Königl.]", replace: "the Royal [?]", why: "[uncertain: der Königl.]: unread German words carried in their letters; sense given with [?]"}
+- {pad: oe1bu9454-217, page: 1, find: "[uncertain: bei in]", replace: "[...]", why: "[uncertain: bei in]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-217, page: 3, find: "[uncertain: mit fielen]", replace: "[...]", why: "[uncertain: mit fielen]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-229, page: 2, find: "true wegen", replace: "true [...]", why: "true wegen: German word left in the English; the idiom (erst wahre wegen bringen) does not fix the sense"}
+- {pad: oe1bu9454-233, page: 4, find: "[uncertain: um den Welt]", replace: "[...]", why: "[uncertain: um den Welt]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-239, page: 1, find: "[uncertain: eodem]", replace: "[...]", why: "[uncertain: eodem]: unread Latin word not carried in its original letters; sense not fixed"}
+- {pad: oe1bu9454-246, page: 2, find: "[illegible: Spannen und vom]", replace: "[illegible]", why: "[illegible: Spannen und vom]: German words carried inside an \"illegible\" mark"}
+- {pad: oe1bu9454-256, page: 1, find: "[uncertain: die dich]", replace: "[...]", why: "[uncertain: die dich]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-263, page: 1, find: "[uncertain: Ein]", replace: "[...]", why: "[uncertain: Ein]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-274, page: 1, find: "[uncertain: muß das eiligsten]", replace: "[...]", why: "[uncertain: muß das eiligsten]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-274, page: 1, find: "[uncertain: dar sich zudrung]", replace: "[...]", why: "[uncertain: dar sich zudrung]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1bu9454-292, page: 1, find: "[uncertain: Wesben nebst zu stürben]", replace: "[...]", why: "[uncertain: Wesben nebst zu stürben]: unread German word(s) carried in the original letters; the passage does not fix the sense"}
+- {pad: oe1u199-001, page: 13, find: "in Fidem publicam", replace: "in attestation", why: "in Fidem publicam: Latin formula (in fidem publicam) given in English"}
+- {pad: oe1bu9454-274, page: 1, find: "warn Fürst August", replace: "warn Prince August", why: "dem Fürsten August muß das eiligsten: Fürst is the title; the glossed name Fürst August stays"}
+- {pad: oe1bu9454-040, page: 2, find: "borrowed 4,000 Rthl in Münze in order", replace: "borrowed 4,000 Rthl in coin in order", why: "4000 rt. im Münze geborgt: Münze = coin, not a place"}
+- {pad: oe1bu9454-040, page: 2, find: "For the 4,000 Rthl Münze I have", replace: "For the 4,000 Rthl in coin I have", why: "Für die 4000 rt. Münze: same"}
+- {pad: ihagrrep7cnr3132-007, page: 1, find: "Sind etc. Berlin, 11 May 1803.", replace: "[We] are etc. Berlin, 11 May 1803.", why: "Sind p. Berlin,: opening word of the standard closing formula (We are ... well disposed to you), cut off by \"etc.\""}
+- {pad: oe1bu9454-178, page: 2, find: "gracious Fräulein von Triebenfeld", replace: "gracious Miss von Triebenfeld", why: "Fräulein von Triebenfeld: Fräulein = Miss"}
+- {pad: oe1bu9454-072a, page: 3, find: "Commission Rządząca took", replace: "Governing Commission took", why: "Die Commission [Rządząca]: Governing Commission (the Commission of 1807); \"Rządząca\" = Governing"}
+- {pad: app53170koningr136-001, page: 4, find: "before czarny bród and", replace: "before Czarny Bród and", why: "czarny bród: place name Czarny Bród (Black Ford) as in the other uses"}
+- {pad: kdw-017, page: 1, find: "burgrave and żupca at Gniezno", replace: "burgrave and salt-mine administrator (żupca) at Gniezno", why: "burgrabia i żupca w Gnieźnie: żupca = administrator of a royal salt-mine (żupa)"}

@@ -420,10 +420,11 @@ CORRECTIONS = [
     ('0014_a2', 'kieóic[?] wyrażona', 'kiecie wyrażona', '"Blan¬ / kiecie" (A, B), in this blank note'),
     ('0014_a2', 'Dnii[?] w Łukomie', 'Dan w Łukomie', '"Dan", given (A, B)'),
     ('0014_a2', 'Juny 1794 [R?]a.', 'Juny 1794 Ra.', 'A and B'),
-    ('0014_a2', 'Mazący WJM', '[Służący?] WJM',
+    ('0014_a2', 'Mazący WJM', 'Słuzący WJM',
      'the capital is the copyist\'s S, as in "Stanisławowi" (A, B, Claude), not M; seven letters, the second '
-     'cross-stroked (t or ł); A blind "Star[?]oy", B first "Starey[?]", no Polish word; "Służący" (belonging, with the '
-     'dative "Stanisławowi Chełmskiemu"), Claude\'s, fits the letters and the grammar: doubtful'),
+     'cross-stroked ł; "Słuzący" (belonging, with the dative "Stanisławowi Chełmskiemu"): Claude proposed it as '
+     'doubtful, the editor (2026-11-22): "Mazący should be Słuzący - it\'s not doubtful"; the z without its dot, as '
+     'the copyist writes "uzytek"'),
     # Abbreviations expanded in square brackets (the editor, 2026-11-22: "Expand S.W. and
     # S.N. in the transcription as well, using square brackets"; EDITORIAL_RULES).
     ('0014_a2', 'Chełmskiemu S. W. Blankiet', 'Chełmskiemu S[karbnikowi]. W[schowskiemu]. Blankiet',
@@ -475,6 +476,24 @@ def build():
         if len(after) != len(pages[pid]):
             problems.append(f'{pid}: the correction {old!r} changes the number of lines')
         pages[pid] = after
+    # Abbreviations expanded in square brackets (the editor, 2026-11-22; EDITORIAL_RULES):
+    # intake/abbreviations.tsv, by page and line, after the corrections. The form must
+    # stand as a word (no letter or digit on either side) at the given occurrence.
+    import csv
+    import re as _re
+    with io.open(os.path.join(HERE, 'abbreviations.tsv'), encoding='utf-8') as fh:
+        abbr = [r for r in csv.DictReader((l for l in fh if not l.startswith('#')), delimiter='\t')]
+    for r in abbr:
+        pid, k = r['page'], int(r['line']) - 1
+        line = pages[pid][k]
+        rx = _re.compile(r'(?<![\w\[])' + _re.escape(r['form']) + r'(?![\w\]])')
+        hits = list(rx.finditer(line))
+        n = int(r['occurrence'] or 1)
+        if len(hits) < n:
+            problems.append(f'{pid} line {k + 1}: abbreviation {r["form"]!r} not found ({len(hits)} hits)')
+            continue
+        m = hits[n - 1]
+        pages[pid][k] = line[:m.start()] + r['expansion'] + line[m.end():]
     # every line of every page in exactly one document (or the front matter)
     out, seen = [], {}
     for pid in FRONT:

@@ -225,6 +225,15 @@ def main():
                               f'-{p["doc_line_start"] + ks[-1]}')
         if margin:
             body.append('\n--- WRITTEN IN THE MARGIN ---\n' + '\n'.join(margin))
+        # And for a second voice in another hand (hand_notes.yml).
+        hand = []
+        for p in (r.get('pages') or []):
+            ks = p.get('hand_lines') or []
+            if ks:
+                hand.append(f'page {p["page"]}, lines {p["doc_line_start"] + ks[0]}'
+                            f'-{p["doc_line_start"] + ks[-1]}')
+        if hand:
+            body.append('\n--- WRITTEN IN ANOTHER HAND ---\n' + '\n'.join(hand))
         if sum_de:
             body.append('\n--- SUMMARY (German) ---\n' + sum_de)
         if sum_en:

@@ -277,3 +277,57 @@ Wschowa", "Starost of Nieszczewice", "Zarobna[?]", "Belonging[?]". The
 summaries of documents 1, 4 and 6 follow (Massow's note, Willenz, Zarobna,
 the ironworks, antichresis), claim-checked by a Sonnet reader. Registry
 numbers lose their comma by the new rule in `pipeline/numerals.py`.
+
+## Abbreviations, voices and the rest of the plan (2026-11-22, evening)
+
+**Every abbreviation expanded** (the editor: "The chancery's routine forms
+should be expanded"): a Sonnet reader listed 201 occurrences with proposals,
+Claude ruled them (`scratch/nr421_abbrev/rule.py`, not kept): 176 expanded,
+listed in **`intake/abbreviations.tsv`** (page, line, form, expansion, the
+grounds), which `holding.py` applies after CORRECTIONS, by page and line, and
+stops on a form it cannot find. The page's full stop stays ("v[on].",
+"Cr[iminal]."); "8br[is]." and "Xbr[is]." for the months; "W[ielmożnemu]
+J[egomości]Panu" and its cases in the bond; "conc[ipirt]" (drafted by);
+"N[umero]."; "Reg[istratur]:" in the draft. Not expanded, not being certain:
+"Resd.", "acc.", "qu:", "Gr.", "O.", "Ra.", "cop.", "instr.", "SüdPreußl.",
+"v. T. Ets.", "Gen. D. Etc."; the signs "#" and "./." stay (EDITORIAL_RULES).
+Three paragraph rules and the slip's `first:` in office_notes.yml follow the
+new text; four held paragraph decisions, carried by their line's text, were
+restated in `intake/paragraphs.py`; a hand-set break (paragraph_decisions,
+cue `hand`) now parts Massow's note from the decision.
+
+**"Słuzący"** (the editor: "Mazący should be Słuzący - it's not doubtful"),
+written so, the z without its dot as the copyist writes "uzytek".
+
+**The voices** (the editor: make clear where a document has more than one
+voice; EDITORIAL_RULES, "More than one voice on a sheet"): in document 1 the
+English sets Massow's note and the decision of 21 Oct. apart as two blocks
+"[Written by the receiving office:]", and "[The document continues:]"
+returns to the petition; in document 4 the note "Anteriora" and the slip.
+The reading view gives the note and the decision a box each.
+
+**Massow** (the state handbook, `reference/sources/handbuch_1799_1801_justizdepartement.md`,
+read by a Sonnet reader from the machine text of 1799-1801): v. Massow,
+wirklicher Geheimer Staats- und Justizminister, "hat das Special-Departement
+von den Provinzen Südpreußen und Neu-Ostpreußen"; Goldbeck's own department
+was East and West Prussia and the Marks. The note's "collection His Excellency
+v. Goldbeck sent me" fits a minister who had taken over South Prussia's
+justice from the Grand Chancellor. Julius Eberhard von Massow is very
+probably the signer (Claude); not written into the text or a person entry
+until the editor rules (NEEDS_CONFIRMATION). **Willenz** is in no volume; the
+councillor reporting on South Prussian justice to Massow was v. Scheibler,
+whose name the letters do not fit.
+
+**The faithfulness reading** of the whole English (a Sonnet reader, 14
+findings, no wrong figure, date, person or negation): taken: "my[?] estates"
+(the word is unread: "the [...] estates"), "ważnym" (of full weight), the
+antichresis gloss moved out of the text (glossary entry `antichresis`),
+"Cr. Councillor" written out, "ad n: 9" "On no. 9", "ad rev." "For revision",
+"acc." "[...]" (not read with certainty). Kept: the doubts the English marks
+where the transcription does not ("v. T. Ets.", "Gen. D.", "Ra."), which mark
+real gaps in the reading.
+
+**Glossary**: `skarbnik` (checked against Gloger), `chirograph` (the
+handwritten bond, checked against Krünitz's "Chirographarius"), `antichresis`
+(checked: false; Krünitz has no entry under the name, its "Hypothek" could
+not be read).
