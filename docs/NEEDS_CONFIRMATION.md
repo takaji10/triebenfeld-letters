@@ -2211,6 +2211,17 @@ Read `units/ihagrrep7cnr421/notes.md` first.
    (the editor); his name settled from his signature.
 7. **The glossary entry `fiscus`** (new, checked: false): to be read
    against Krünitz when the dictionary hosts are reachable.
+8. **"Zaro[Zosob?]ney" in the bond (document 6) is very probably Zarobna**
+   (Claude, 2026-11-22; the editor reads "F[a/o]ro[b?]ney"): Nr. 12367 lists
+   the estate as "Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna, Trąbczyner
+   Hauländer" (1830), the bond's villages in nearly its order. To be read
+   again on the image (`docs/NR421_ENGLISH_PLAN.md`, step 1); Zarobna is in
+   neither the register nor the gazetteer. In the same bond "S. [N?]." is
+   S. N., Starosta Nieszczewicki (Konin Gr.145), and "S. W." Skarbnik
+   Wschowski (Konin Gr.118); "Mazący" is unread (perhaps "Należący").
+9. **The signatures** ("[?]llen[?][z?]" under the decision of 21 Oct.,
+   "[Willen?]" on the slip, "[Signature]" under the two drafts): not yet
+   identified; the plan's step 2.
 
 ## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, published 2026-11-20)
 

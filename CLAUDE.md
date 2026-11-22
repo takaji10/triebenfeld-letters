@@ -28,6 +28,13 @@ files it points to.
   once, and the traps in the tools. **Read it.**
 - No paid model run without the editor's agreement to that run; free checks
   need none (WORKING_NOTES, "Working with the editor").
+- **Sub-agents first** (the editor, 2026-11-22): every step is first offered
+  to a script, then to a Sonnet sub-agent (Haiku for purely mechanical work
+  with a machine check), to save the main session's tokens, never at the
+  cost of quality: two independent readers for anything read from an
+  image, Claude settles and checks every finding it acts on, and keeps the
+  identifications, the rulings and the prose readers see (WORKING_NOTES,
+  "Sub-agents and token use").
 
 ## Lessons go into the repository (the editor's rule, 2026-10-05)
 

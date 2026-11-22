@@ -140,14 +140,80 @@ Where the rest is:
   it is if a new sample does not say.
 - **Simple steps go to a Sonnet sub-agent** (the editor, 2026-10-23: "For
   the simple steps, use a sub-agent with the Sonnet model. Save the tough
-  stuff for Opus."). Mechanical work (parsing a file into data, a script
-  to a precise spec, running checks, generating a list) is handed to an
-  agent with `model: sonnet` and a written spec: the files it may write,
-  the schema, the rules, what it must not touch, no commits. The main
-  session keeps the design, the identifications, the comparison with the
-  documents and the prose, works on them while the agent runs, and reads
-  the agent's output before anything is committed. The gazetteer import
-  was the first (`docs/GAZETTEER_PLAN.md`, step 1).
+  stuff for Opus."), and since 2026-11-22 **every step is first offered to
+  a sub-agent**: the next section, "Sub-agents and token use", is the rule.
+  The gazetteer import was the first (`docs/GAZETTEER_PLAN.md`, step 1).
+
+### Sub-agents and token use (the editor, 2026-11-22)
+
+The editor: "always try and use Sonnet sub-agents (or even Haiku if it makes
+sense) to reduce token use - but obviously to not reduce quality in any way.
+You'll need to be careful and strategic with this." The main session's
+tokens are the dear ones; a sub-agent's reading is cheaper, and its pages
+of output never enter the main context if it writes them to a file. But a
+sub-agent's error that reaches the site costs more than it saved. So:
+
+1. **Before each step, ask in this order.** Can a script do it (free)?
+   Can a sub-agent do it from a written brief, with an output Claude can
+   check quickly? Only then does the main session do it itself. A plan
+   names the model for each step (`docs/NR421_ENGLISH_PLAN.md` is the
+   pattern).
+2. **Which model.**
+   - **Haiku**: purely mechanical work with a machine check behind it:
+     running scripts and reporting the result, moving or renaming files
+     from a list, filling a schema from structured data where a validator
+     runs after, counting, collecting grep hits into a table, laying out a
+     spot sheet from rows already decided. Never reading handwriting or
+     print from an image, never judging a language, a name or a sense,
+     never writing words a reader of the site sees.
+   - **Sonnet**: reading from images (transcription checks, independent
+     second readings, table cells, signatures cropped onto a sheet); claim
+     checks of summaries; faithfulness checks of a translation against its
+     original; sorting a diff or a candidate list into kinds; citation
+     audits; connections sweeps; fetching a web source and copying it
+     verbatim; writing a script to a precise spec; building review sheets.
+   - **The main session (Opus)** keeps: the plan and the rules; settling
+     where readers disagree (by looking at the crop, not the whole page);
+     identifications of people, places and signatures; the English and
+     German prose readers see (translations, summaries, holding and era
+     pages); every ruling put to the editor; and anything told to the
+     editor as fact.
+3. **Quality is held by the method, not by trust.** These are the lessons
+   already learnt with sub-agents, gathered:
+   - Anything read from an image is read by **two readers independently**
+     (one of them blind, when the brief's witnesses could lead it); Claude
+     settles the differences. A reading only the led reader gives stays a
+     question.
+   - A reader **says which strips it did not open**; Claude reads those
+     itself (Nr. 3067, Nr. 421: two of four readers left strips unread).
+   - **Figures** a reader gives are checked digit by digit against a second
+     reader (the 1882 reports: a reader cut digits off a figure).
+   - The brief **quotes the plan's rule word for word**, not a stricter or
+     looser paraphrase, and names the file's internal witnesses (two copies,
+     a decision and its draft).
+   - **Every finding Claude acts on is checked** by Claude (the citation
+     audit: 14 of 22 flags were real). Claude need not re-read what an agent
+     found in order; it reads what will change the text.
+   - A sub-agent **writes only where the brief says** (`scratch/`,
+     `review/`, a named script), never the editor's files (`folds.json`,
+     answers, transcriptions they supplied), and **never commits**.
+4. **Spending fewer tokens without losing anything.**
+   - Give **paths, not pasted text**, in a brief; the agent reads the files.
+   - Ask for the result **in a file** (TSV or YAML) and a **short reply**:
+     counts, what was not done, the doubtful items. The main session then
+     reads only the rows it needs.
+   - Start **independent agents together** in one message; work on
+     something else while they run.
+   - For a follow-up, **message the agent that already has the files
+     read** (SendMessage) rather than briefing a new one.
+   - When the main session must look at an image, look at a **crop** of the
+     line or the signature, not the page.
+   - **Do not delegate** what is smaller than its brief (one grep, a
+     one-line fix), or what needs so much of the conversation that the brief
+     would be as long as the work.
+5. **Say who did what.** A holding's notes say which steps went to which
+   model, and the report to the editor names them; `prepared:` in unit.yml
+   (the holding page's "How it was prepared") names the models truly.
 - **The editor chooses which maps come in** (2026-10-23: "I don't want to
   add all of these maps - I will be selective with them"). A map cited by
   the gazetteer, or lying in their Maps folder, is not thereby wanted; ask

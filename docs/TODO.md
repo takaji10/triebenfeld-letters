@@ -1643,6 +1643,12 @@ transcription; 108 readings settled in session before the first build
       era page (offered, not built); the rest in NEEDS_CONFIRMATION ("I. HA
       GR, Rep. 7 C, Nr. 421").
 - [x] Published at your word (2026-11-21).
+- [ ] **The English repaired** (your report, 2026-11-22: "Mazący" and
+      "Skarbnik" left in Polish, "Zaro[Zosob?]ney", the Latin not given in
+      English, registry numbers with commas, the margin note of document 1
+      translated as fragments, the signatures unread). Plan:
+      `docs/NR421_ENGLISH_PLAN.md`, seven steps, with the same faults swept
+      across the edition. **You first**: the three questions at its foot.
 
 ## 66. The literature: Kneifel (1964), two pages added (made 2026-10-23 on the branch kneifel1964-pages, merged into main 2026-11-21)
 
