@@ -1648,7 +1648,15 @@ transcription; 108 readings settled in session before the first build
       English, registry numbers with commas, the margin note of document 1
       translated as fragments, the signatures unread). Plan:
       `docs/NR421_ENGLISH_PLAN.md`, seven steps, with the same faults swept
-      across the edition. **You first**: the three questions at its foot.
+      across the edition. Your answers (2026-11-22) worked in: the rule for
+      unread words, Zarobna a place (made), abbreviations expanded in square
+      brackets. Done: the re-reading (23 corrections), the English and
+      summaries of the pages it changed, registry numbers. Next: the
+      signatures against the state handbook (step 2), the faithfulness
+      reading (step 3), the edition-wide sweep (step 5), the termbase and
+      glossary entries (step 6).
+- [ ] **You**: how far abbreviations are expanded (NEEDS_CONFIRMATION, Nr.
+      421, item 10).
 
 ## 66. The literature: Kneifel (1964), two pages added (made 2026-10-23 on the branch kneifel1964-pages, merged into main 2026-11-21)
 

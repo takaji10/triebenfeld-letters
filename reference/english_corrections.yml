@@ -86,3 +86,11 @@ corrections:
 # No talk of "the project" on a reader's page (editor, 2026-11-14).
 - {pad: app53150kaliszgr414-001, page: 1, find: "the Gr. 114 and Gr. 115 documents in this project were filed", replace: "the entries of the Konin registers Gr. 114 and Gr. 115 were filed", why: "a translator's note; the reader's pages do not speak of the project"}
 
+
+# Registry numbers given a thousands comma by the translator (the editor's report on
+# Nr. 421, 2026-11-22): a registry number is an identifier, not a sum, and stands as
+# the page writes it (pipeline/numerals.py now leaves the ungrouped ones alone).
+- {pad: ihagrrep7cnr3709-003, page: 1, find: "B. 3,681. 6,027.", replace: "B. 3681. 6027.", why: "B. 3681. 6027.: the receiving office's registry numbers at the foot"}
+- {pad: ihagrrep7cnr3709-012, page: 1, find: "No. 6,334.", replace: "No. 6334.", why: "Nro. 6334.: a registry number"}
+- {pad: iiihamdaiiinr12765-016, page: 1, find: "ad no: c. 2,278.", replace: "ad no: c. 2278.", why: "ad nr: c. 2278: the registry number the draft answers"}
+- {pad: iiihamdaiiinr12765-017, page: 1, find: "ad no. c. 2,278.", replace: "ad no. c. 2278.", why: "ad nr: c. 2278.: the registry number the draft answers"}

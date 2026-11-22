@@ -58771,6 +58771,35 @@
   ]
  },
  {
+  "entity": "zarobna",
+  "display": "Zarobna",
+  "count": 2,
+  "documents": [
+   "ihagrrep7cnr421-6",
+   "iiihamdaiiinr12367-7"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr421-6",
+    "surface": "Zaro[b?]ney",
+    "page": 5,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_421_0014_a2-L6_05.jpg",
+    "line": 670,
+    "doc_line": 124
+   },
+   {
+    "uid": "iiihamdaiiinr12367-7",
+    "surface": "Zarobna",
+    "page": 1,
+    "page_id": "0009_a1",
+    "scan": "III_HA_MdA_III_Nr_12367_0009_a1-L7_01.jpg",
+    "line": 68,
+    "doc_line": 8
+   }
+  ]
+ },
+ {
   "entity": "stara-kuznia",
   "display": "Stara Kuźnia (Klein Althammer)",
   "count": 2,

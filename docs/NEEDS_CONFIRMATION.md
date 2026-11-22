@@ -2211,17 +2211,29 @@ Read `units/ihagrrep7cnr421/notes.md` first.
    (the editor); his name settled from his signature.
 7. **The glossary entry `fiscus`** (new, checked: false): to be read
    against Krünitz when the dictionary hosts are reachable.
-8. **"Zaro[Zosob?]ney" in the bond (document 6) is very probably Zarobna**
-   (Claude, 2026-11-22; the editor reads "F[a/o]ro[b?]ney"): Nr. 12367 lists
-   the estate as "Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna, Trąbczyner
-   Hauländer" (1830), the bond's villages in nearly its order. To be read
-   again on the image (`docs/NR421_ENGLISH_PLAN.md`, step 1); Zarobna is in
-   neither the register nor the gazetteer. In the same bond "S. [N?]." is
-   S. N., Starosta Nieszczewicki (Konin Gr.145), and "S. W." Skarbnik
-   Wschowski (Konin Gr.118); "Mazący" is unread (perhaps "Należący").
-9. **The signatures** ("[?]llen[?][z?]" under the decision of 21 Oct.,
-   "[Willen?]" on the slip, "[Signature]" under the two drafts): not yet
-   identified; the plan's step 2.
+8. **Zarobna** (read again 2026-11-22; a place of the register at the
+   editor's word): the bond reads "wśi Zaro[b?]¬ / ney". The last letter
+   has the long s's stroke below the line (the blind reader: "Zaros-"); the
+   other reader, the editor ("F[a/o]ro[b?]ney") and Nr. 12367's list of
+   1830 ("Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna") give b. Open: where it
+   lay and what became of it; no source the session could reach names it
+   after 1830 (the holding's notes list what was searched). "S. N." and
+   "S. W." are plain and expanded. **"[Służący?]"** stands for "Mazący":
+   the capital is an S, the rest only partly read; Claude's word, doubtful.
+9. **The signatures**: under the official's note of 18 Oct. 1799, "Massow"
+   (plain; who he is waits on the state handbook, the plan's step 2:
+   Julius Eberhard von Massow, minister of justice from 1798, the obvious
+   candidate, not written as the identification; the edition's name entry
+   `massow` of 1809-1810 does not say which Massow it is either). Under the
+   decision of 21 Oct. and on the slip of 23 Dec., "Willenz", read so by two
+   readers independently: not identified. Under the two drafts and the
+   clerks' "v. [?]": unread.
+10. **Abbreviations, how far** (the editor's rule of 2026-11-22,
+   EDITORIAL_RULES): are the chancery's routine forms expanded too (`d.`
+   den, `v.` von, `c.` currentis, `Mpp` manu propria, `#` ducats, `pr.`
+   praesentatum), or only names, titles, offices, places and words a reader
+   cannot resolve? Until answered, the second; in Nr. 421 only "S. W." and
+   "S. N." were expanded.
 
 ## I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, branch `trampczynski-family`, published 2026-11-20)
 

@@ -4536,6 +4536,56 @@ first and a fine pass at their word. The files are in
   clean draft) lets the readers settle many readings on their own.
 
 
+## Nr. 421 read again, the English repaired, registry numbers (2026-11-22)
+
+- **The in-session translator's rule "words still unread are kept as
+  written" produced English such as "Es [sind?] [wir?] Acta [t?]orm[?] has
+  the two in this Storstell[s?] ..."**; the editor called it "a horrible
+  attempt at an English translation". Withdrawn (EDITORIAL_RULES, "An
+  unread word in the English"): read the passage again first; then the
+  sense with "[?]", or "[...]". A page of German fragments in the English
+  means the reading was never finished, not that the translation is
+  faithful. check_translations now counts "[...]" as a mark of doubt, and a
+  holding's english.py should count marks with the same pattern (Nr. 421's
+  `MARK`).
+- **Two readers on the doubtful lines, one blind, worked as the new rule
+  says**: they agreed on 16 of 46 lines outright, and both read the same
+  signature ("Willenz") in two places. The blind reader also caught what
+  the led one and Claude had passed over: the bond's "Zaro?" ends in a
+  letter shaped like the long s, not b; the witness of 1830 decides the
+  place, the letter stays "[b?]". **Check that the rows file holds every
+  line asked about**: the endorsement's line (the "Mazący" word) was left
+  out of `rows.tsv` by an off-by-one, and the blind reader had to be sent
+  back for it.
+- **A place's `match` must also match the line-by-line text.** The place
+  pages (build_site_data's "named here") search `r['text']`, where a word
+  broken at the line end stands as "Zaro[b?]¬\nney"; the dataset's tagger
+  reads the reading text, where it is joined. A pattern for a broken word
+  needs `¬?\s*` at the break, or the page lists one document fewer than
+  the dataset tags.
+- **A margin block in `office_notes.yml` is found by its first line**: a
+  correction to that line must change `first:` too, or build_db stops.
+- **The registry-number rule was narrowed twice on the diff**: first it
+  also took "Seehausen. 5000" and "... 7720" (a figure after a word or an
+  ellipsis), then a column's total ("= 800 rt" / "3631."). Measure such a
+  rule on the text as the pipeline groups it (a reading-text paragraph, an
+  English page), not line by line: the first diff script fed lines, so the
+  total looked changed when the paragraph keeps it grouped.
+- **publish_translations refuses a holding whose review sheet is older than
+  its cache**: run check_translations for it first. Nr. 12765 publishes
+  only with `--tag v2`. Nr. 3709's English is not published from the cache
+  (0 letters): fix it through `reference/english_corrections.yml`.
+- **`english_forms.py --apply` rewrites `site/_data/summaries.yml`**
+  (re-wrapped, 46 entries "changed"): restore it from HEAD and let the
+  build write it.
+- **The heredoc trap a third time**: a Python string with `\n` inside a
+  replacement written through Bash put a real line break into
+  numerals.py. Use the Edit tool for code.
+- **The Słownik's converted text is searchable locally**: the sparse clone
+  of `sources/sg` (WORKING_NOTES, "The candidate places") answered for
+  Zarobna in seconds, where the web reader was turned away by the ICM
+  site's bot check.
+
 ## OCR of a ruled Polish table (2026-11-05)
 
 The Rusinski 1947 sitting's lessons, for the next ruled-table scan:

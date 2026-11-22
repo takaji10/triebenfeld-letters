@@ -62,8 +62,10 @@ sentence, which is an editorial act.
   schedule says otherwise. A figure reached by calculation — "five per half-year
   implies ten annually" — is a finding, not a correction.
 - **Abbreviations.** `Mund: 22 gg.` in a fee table, `JJWW`, `Rzplity`, `c. a.`
-  are the scribe's own. Expanding one is reading something off the page that
-  nobody read.
+  are the scribe's own. They are never expanded silently: the page's letters
+  stay, and an expansion is added only in square brackets where it is
+  certain (the ruling of 2026-11-22 below, "Abbreviations are expanded in
+  square brackets").
 - **Diacritics and orthography in Polish and Latin.** `Rzadkowski` without its
   nasal may be exactly what the page carries; `sub paena executiones` is
   chancery Latin as written.
@@ -136,9 +138,35 @@ than where it sits.
   text: translate them, do not treat them as corrupt German.
 - **A word that cannot be read is not completed with a guess** (editor,
   2026-10-05: "better leave it as uncertain"). The text gives only the
-  letters that are read, as `[Rev…?]`, or `[?]`; the same in the English.
-  A thought about what the word might be goes into the holding's
-  `intake/unresolved.md`, and never into a summary.
+  letters that are read, as `[Rev…?]`, or `[?]`. A thought about what the
+  word might be goes into the holding's `intake/unresolved.md`, and never
+  into a summary.
+- **An unread word in the English** (the editor, 2026-11-22, on the margin
+  note of Nr. 421, whose English came out as "Es [sind?] [wir?] Acta
+  [t?]orm[?] has the two in this Storstell[s?] rohl[?] ..."): the English
+  never carries the original's letters. Where the passage fixes the sense,
+  the English gives the sense with `[?]` after it ("the petition[?]");
+  where it does not, `[...]`. A line that is mostly unread is `[...]` with
+  the few words that are read. Names are the exception: a name stays in the
+  form the transcription reads, with its marks of doubt. This withdraws the
+  in-session translators' rule "words still unread are kept as written".
+- **Abbreviations are expanded in square brackets** (the editor, 2026-11-22:
+  "Expand S.W. and S.N. in the transcription as well, using square
+  brackets. In general, when finding abbreviations, they should be expanded
+  like this"). The letters on the page stay, and the supplied ones follow
+  in brackets with no mark of doubt, in the transcription and the reading
+  text alike: `S[karbnikowi] W[schowskiemu]`, `S[tarosta] N[ieszczewicki]`,
+  as `B[erlin]` and `G[oldbeck]` already were. Only where the expansion is
+  certain: from the document itself, a witness (another copy, the person's
+  titles in other documents), or the one possible sense; the grounds go in
+  the holding's notes. Where it is not certain, the abbreviation stands as
+  written and the possibility goes in `intake/unresolved.md`. The English
+  gives the expanded sense ("Treasurer of Wschowa"). Applied first to Nr.
+  421; it holds for every holding worked on from now, and for the older ones
+  when they are next worked on. Asked of the editor (NEEDS_CONFIRMATION):
+  whether the chancery's routine forms too (`d.` den, `v.` von, `c.`
+  currentis, `Mpp` manu propria, `#` ducats), or names, titles, offices,
+  places and words a reader cannot resolve; until answered, the second.
 - **An initial that is read, with the name supplied**, is written with the
   supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
   `A[lvensleben]`), and only where the name follows from something other

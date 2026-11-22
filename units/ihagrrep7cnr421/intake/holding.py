@@ -386,6 +386,50 @@ CORRECTIONS = [
     ('0014_a2', 'procz Zabryki', 'procz Fabryki', 'the editor, spot sheet q18 (Fabryki Żelazney, the ironworks)'),
     ('0016_a2', 'dem Capit[?]. cop.', 'dem Crim. R. cop.', 'the editor, spot sheet q19'),
     ('0016_a2', 'de conclusi eodem', 'ita conclus. eod.', 'the editor, spot sheet q21, the formula under the decision on 0002_a2'),
+    # The re-reading of 2026-11-22 (docs/NR421_ENGLISH_PLAN.md, step 1): every line with a
+    # mark of doubt read again by two Sonnet readers, A blind and B told the witnesses
+    # (scratch/nr421_reread/reader_A.tsv, reader_B.tsv), and Claude on crops where they differ.
+    # A reading both give, or one gives and Claude sees on the crop, is taken; where they
+    # differ and the crop does not settle it, the mark of doubt stays.
+    ('0002_a2', 'Es [sind?] [wir?] Acta [t?]orm[?] hat die', 'Es sind mir Acta [worin?] hat die',
+     '"sind mir" (A; B "[sind?] mir"; Claude); the fifth word A "worin", B "[e?]orum[?]": doubtful'),
+    ('0002_a2', 'beide in dieser Storstell[s?] rohl[?] unterstrichen', '[durch?] in dieser Vorstellg. roth unterstrichen',
+     '"Vorstellg." (B; A "Vorstellung"), the petition; "roth" (B, Claude; A "wohl"): the red crayon strokes beside the '
+     'petition\'s text; the first word B and Claude "durch", A "beyde": doubtful'),
+    ('0002_a2', 'dis[p?]. (die ich', 'dess. (die ich', '"dess." (A, Claude; B "dest.")'),
+    ('0002_a2', 'zugestellten Saml[?] nicht', 'zugestellten Saml. nicht', '"Saml." (A; B "Samml[?]"), Sammlung abbreviated'),
+    ('0002_a2', 'finde) beforsen[?] begelegen u. allauflei[?]', 'finde) befindlichen beyzulegen u. allenfalls',
+     'A, and Claude on the crop; B "allenfalls[?]" and a "Beylage" shape'),
+    ('0002_a2', 'aus dem arctio[?] dH. Gu[?]. [Ets?] zu erbitten', 'aus dem Archiv des Gen. D. Etc. zu erbitten',
+     '"Archiv" (A, B, Claude); "des Gen. D. Etc." (A; B "d. Gen. D. Ets.")'),
+    ('0002_a2', 'd. [?] [Signature?]', 'd. 18 Oct. Massow',
+     '"18 Oct." (A, B); the signature "Massow", plain on the crop (Claude; B "Massow?", A "Masson/Mason")'),
+    ('0002_a2', '[?]llen[?][z?]', 'Willenz', 'W-i-l-l-e-n-z (A and B independently), the hand of the slip 0016_a2'),
+    ('0016_a2', '[Willen?]', 'Willenz', 'W-i-l-l-e-n-z (A and B independently), as under the decision on 0002_a2'),
+    ('0004_a1', 'keit aliunde[?], als aus', 'keit aliunde, als aus', 'A and B'),
+    ('0007_a2', '[Gr.?]', 'Gr.', 'A and B'),
+    ('0008_a2', '[r?]. [1?]5. Dec. 99.', 'pr. 15. Dec. 99.',
+     '"15" (A, B); "pr." (B; A "pf."), praesentatum, the docket of a petition received (as "praes." in document 2)'),
+    ('0008_a2', 'sung[?] mit einer¬', 'sung mit einer¬', 'A and B'),
+    ('0012_a2', 'Zeugen vera[b?]¬', 'Zeugen verab¬', 'A and B'),
+    ('0013_a1', 'Die Zalung[?] ist', 'Die Zalung ist', 'A and B'),
+    ('0014_a2', 'wśi Zaro[Zosob?]¬', 'wśi Zaro[b?]¬',
+     '"Zaro" (A, B, Claude); the last letter has a loop above and a stroke below, like the long s (A "Zaros-"), where '
+     'the copyist\'s b in "Dobr" (line 12) has none below; B, the editor ("F[a/o]ro[b?]ney") and the estate\'s list of '
+     '1830 (Nr. 12367, "Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna") give b: the place is Zarobna, the letter stays doubtful'),
+    ('0014_a2', 'kieóic[?] wyrażona', 'kiecie wyrażona', '"Blan¬ / kiecie" (A, B), in this blank note'),
+    ('0014_a2', 'Dnii[?] w Łukomie', 'Dan w Łukomie', '"Dan", given (A, B)'),
+    ('0014_a2', 'Juny 1794 [R?]a.', 'Juny 1794 Ra.', 'A and B'),
+    ('0014_a2', 'Mazący WJM', '[Służący?] WJM',
+     'the capital is the copyist\'s S, as in "Stanisławowi" (A, B, Claude), not M; seven letters, the second '
+     'cross-stroked (t or ł); A blind "Star[?]oy", B first "Starey[?]", no Polish word; "Służący" (belonging, with the '
+     'dative "Stanisławowi Chełmskiemu"), Claude\'s, fits the letters and the grammar: doubtful'),
+    # Abbreviations expanded in square brackets (the editor, 2026-11-22: "Expand S.W. and
+    # S.N. in the transcription as well, using square brackets"; EDITORIAL_RULES).
+    ('0014_a2', 'Chełmskiemu S. W. Blankiet', 'Chełmskiemu S[karbnikowi]. W[schowskiemu]. Blankiet',
+     'Skarbnik Wschowski, Treasurer of Wschowa: "Skarbnikowi ziemi Wschowskiey" (Konin Gr.118), dative as "Chełmskiemu"'),
+    ('0014_a2', 'S. [N?]. Mpp', 'S[tarosta]. N[ieszczewicki]. Mpp',
+     '"S. N." (A, B, Claude); Starosta Nieszczewicki, Prusimski\'s office ("staroście nieszczewickiemu", Konin Gr.145)'),
 ]
 
 

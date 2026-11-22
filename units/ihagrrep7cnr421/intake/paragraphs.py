@@ -58,7 +58,7 @@ RULES = [
     ('6', 'ex Chirographo.', 'run'),
     ('6', 'Term. instr. anzusagen', 'run'),
     ('6', 'Nizey wyrazony Blankiet', 'break'),
-    ('6', 'S. [N?]. Mpp', 'run'),
+    ('6', 'S[tarosta]. N[ieszczewicki]. Mpp', 'run'),
     ('6', 'przytomny Przyiaciół', 'run'),
     ('7', 'c. Fiscum betr:)', 'run'),
 ]

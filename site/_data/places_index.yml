@@ -881,6 +881,12 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: Adolfsberg
+- slug: zarobna
+  name: Zarobna
+  name_de: Zarobna
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
 - slug: zbiersk-kolonia
   name: Zbiersk Kolonia
   name_de: Zbiersk Kolonia

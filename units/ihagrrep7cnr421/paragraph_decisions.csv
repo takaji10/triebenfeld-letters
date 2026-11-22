@@ -1,7 +1,7 @@
 ﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
-1,12,break,high,rubric,1.73,38,22,dis[p?]. (die ich in meiner v. T. Ets.,v. Goldbeck mir zugestellten Saml[?] nicht
-1,15,break,high,rubric,2.14,47,22,aus dem arctio[?] dH. Gu[?]. [Ets?] zu erbitten,d. [?] [Signature?]
-1,30,break,held,short_line,0.64,14,22,[?]llen[?][z?],Allerdurchläuchtigstr Großmächtigstr
+1,12,break,high,rubric,1.59,35,22,dess. (die ich in meiner v. T. Ets.,v. Goldbeck mir zugestellten Saml. nicht
+1,15,break,high,rubric,1.95,43,22,aus dem Archiv des Gen. D. Etc. zu erbitten,d. 18 Oct. Massow
+1,30,break,held,short_line,0.32,7,22,Willenz,Allerdurchläuchtigstr Großmächtigstr
 1,34,break,high,short_line,0.23,5,22,1799.,Ich habe dem Starosten
 1,43,run,held,short_line,0.68,15,22,"Termin eintrat,",werde der von Pru¬
 1,50,break,high,short_line,0.41,9,22,genommen.,"Nach der mit ihm,"
@@ -31,7 +31,7 @@
 3,296,run,held,short_line,0.28,10,36,Resolution,"für den Stanislaus von Chełmski,"
 3,298,break,high,short_line,0.31,11,36,zu Kalisch.,(wegen seiner Forderung an den Insurgenten
 3,299,run,held,rubric,1.17,42,36,(wegen seiner Forderung an den Insurgenten,v. Prusimski.)
-3,301,break,high,short_line+column,0.17,6,36,[Gr.?],acc. d. 21.
+3,301,break,high,short_line,0.08,3,36,Gr.,acc. d. 21.
 3,302,break,high,short_line,0.31,11,36,acc. d. 21.,ad rev. d. 22.
 3,303,break,high,short_line,0.39,14,36,ad rev. d. 22.,Acta gen: das Schuldenwesen der
 3,305,break,high,rubric,0.72,26,36,Insurgenten betr: zur Reg:,d. 30ten zur Post.
@@ -41,11 +41,11 @@
 3,326,break,high,short_line,0.33,12,36,Ad mandatum.,[Signature]
 3,327,break,high,short_line+column,0.31,11,36,[Signature],[?] d. 22.
 3,328,break,high,short_line,0.28,10,36,[?] d. 22.,3426.
-4,336,break,high,short_line,0.29,5,17,1799.,Der Criminal Rath
-4,343,run,held,short_line,0.18,3,17,./.,den Fiscum wegen
-4,349,break,high,short_line,0.65,11,17,beschwerde.,Anteriora
-4,350,run,held,short_line,0.53,9,17,Anteriora,M[?]. mit selbigen [?] Krb[?] 19. de[?]
-4,367,run,held,rubric,0.94,16,17,ne Forderung von,"12,000. ## einge¬"
+4,336,break,high,short_line,0.31,5,16,1799.,Der Criminal Rath
+4,343,run,held,short_line,0.19,3,16,./.,den Fiscum wegen
+4,349,break,high,short_line,0.69,11,16,beschwerde.,Anteriora
+4,350,run,held,short_line,0.56,9,16,Anteriora,M[?]. mit selbigen [?] Krb[?] 19. de[?]
+4,367,run,held,rubric,1.0,16,16,ne Forderung von,"12,000. ## einge¬"
 4,376,run,held,short_line,0.57,12,21,ste ich mich,Allerhöchst dieselben wie¬
 4,395,break,high,short_line,0.24,5,21,selt.,Daß gegen den Fürsten
 4,415,break,high,short_line,0.7,14,20,zu verfordern.,Wenn übrigens die Re¬
@@ -56,7 +56,7 @@
 4,478,break,high,short_line+column,0.32,6,19,Mondro,Criminalrath
 4,479,break,high,short_line+column,0.63,12,19,Criminalrath,N. 33.
 4,482,break,high,short_line,0.3,8,26,ad n: 9.,Es ist dem Crim. R. cop. der sein
-4,487,break,high,short_line,0.64,17,26,ita conclus. eod.,[Willen?]
+4,487,break,high,short_line,0.64,17,26,ita conclus. eod.,Willenz
 5,491,break,high,short_line+column,0.16,9,58,Abschrift,Kalisch d. 1ten Decbr. 1799.
 5,492,break,high,short_line,0.49,28,58,Kalisch d. 1ten Decbr. 1799.,Allerdurchlauchtigster p p
 5,493,break,held,short_line,0.45,26,58,Allerdurchlauchtigster p p,Bereits unter dem 9ten Octbr. d. J. hat mein Mandant der
@@ -86,10 +86,9 @@
 6,655,break,high,short_line+column,0.19,5,27,E K M,p p p
 6,656,break,high,short_line+column,0.19,5,27,p p p,v Chełmski.
 6,659,break,held,short_line,0.14,5,36,Copia,Nizey wyrazony Blankiet Ręką własną moią
-6,686,break,high,short_line,0.44,16,36,Juny 1794 [R?]a.,Mazący WJM Pana Stanisławowi
-6,690,run,held,short_line+column,0.44,16,36,Antoni Prusimski,S. [N?]. Mpp
-6,691,break,high,short_line+column,0.33,12,36,S. [N?]. Mpp,Jakub Bieńkowski
-6,692,run,held,short_line+column,0.44,16,36,Jakub Bieńkowski,przytomny Przyiaciół
+6,686,break,high,short_line,0.37,13,36,Juny 1794 Ra.,[Służący?] WJM Pana Stanisławowi
+6,690,run,held,short_line,0.45,16,36,Antoni Prusimski,S[tarosta]. N[ieszczewicki]. Mpp
+6,692,run,held,short_line+column,0.45,16,36,Jakub Bieńkowski,przytomny Przyiaciół
 6,693,break,high,short_line+column,0.56,20,36,przytomny Przyiaciół,Antoni Przeradzki przy¬
 7,700,break,high,short_line,0.39,11,28,zu Kalisch.,(v. Chełmski Beschwerden gegen die Kali¬
 7,702,run,held,rubric,1.39,39,28,scher Reg: wegen Abweisung seiner Klage,c. Fiscum betr:)

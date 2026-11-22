@@ -2712,6 +2712,7 @@ entries:
 # again.
 excluded:
   - {word: "Dec", reason: "December after the day in a docket (pr. 15. Dec. 99, I. HA GR, Rep. 7 C, Nr. 421), plain in English as Dec.; a month"}
+  - {word: "Oct.", reason: "October after the day in an official's note (d. 18 Oct., Massow, I. HA GR, Rep. 7 C, Nr. 421); a month, plain"}
   - {word: "Octbr.", reason: "October in datelines (Kalisch den 8.ten Octobr, d. 9ten Octbr. d. J.); a month, plain"}
   - {word: "huj.", reason: "huius (mensis), of this month, after a day in the decrees (vom 10ten huj., per Cop. huj. Decr., Nr. 421); rendered in the English"}
   - {word: "praes.", reason: "praesentatum, presented, the office's mark of the day a paper came in (praes. d 5. Octobr. 1799, Nr. 421); rendered presented in the English, as pr. is received"}

@@ -23,7 +23,9 @@ CSV = os.path.join(os.path.dirname(HERE), 'linebreak_decisions.csv')
 JOIN = {
     ('Ur', 'tel'), ('dies', 'fällige'), ('Perso', 'nalklagen'), ('Par', 'teyen'),
     ('De', 'signa'), ('Prin', 'zipien'), ('Re', 'visions'), ('Aller', 'höch'),
-    ('Hau', 'länder'), ('Mier', 'zewo'), ('b', 'redet'), ('Ter', 'mino'),
+    # ('b', 'ney'): "Zaro[b?]¬ / ney", the village Zarobna in the bond (2026-11-22; until then
+    # ('b', 'redet') joined "vera[b?]¬ / redet", now read "verab¬" and joined by the resolver)
+    ('Hau', 'länder'), ('Mier', 'zewo'), ('b', 'ney'), ('Ter', 'mino'),
     ('sub', 'stantiirt'), ('one', 'goż'),
     ('za', 'latwi'), ('wy', 'rażone'), ('kal', 'kulacyi'),
 }

@@ -74,8 +74,11 @@ DE_MARKER = re.compile(r'\[[^\]]*\?\]|\[\.\.\.\]')
 # sitting there in plain sight. Bare `[uncertain]` and a `[?]` carried straight
 # across were missed the same way. Widening this only ever finds marks that are
 # really there: a hole is still a hole when nothing in the English brackets it.
+# `[...]` too, since 2026-11-22: an unread word whose sense the passage does not
+# fix is "[...]" in the English, never the original's letters (EDITORIAL_RULES,
+# "An unread word in the English").
 EN_MARKER = re.compile(r'\[illegible\]|\[uncertain(?::[^\]]*)?\]|\[text lost\]'
-                       r'|\[[^\]]*\?\]')
+                       r'|\[[^\]]*\?\]|\[\.\.\.\]')
 # German function words surviving into the English in a run - the model lapsing
 # into copying rather than translating.
 DE_RUN = re.compile(r'\b(?:der|die|das|und|nicht|werden|worden|wegen|welche|'

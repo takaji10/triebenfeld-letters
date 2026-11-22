@@ -1,9 +1,32 @@
 # The English of I. HA GR, Rep. 7 C, Nr. 421, and the same faults elsewhere
 
 Plan written 2026-11-22 at the editor's word ("Make a plan for how to do this,
-using Sonnet sub-agents where possible to reduce token use"). Nothing below is
-done yet; each step says which model does it, under the rules in
-WORKING_NOTES, "Sub-agents and token use". The holding's notes are
+using Sonnet sub-agents where possible to reduce token use"); each step says
+which model does it, under the rules in WORKING_NOTES, "Sub-agents and token
+use". The editor's answers the same day: the rule for unread words yes
+(recorded in EDITORIAL_RULES), Zarobna a place, Nr. 421 first; and
+abbreviations expanded in square brackets (EDITORIAL_RULES).
+
+**Where it stands (2026-11-22, evening):**
+
+- Step 1 **done**: 46 lines read again by two Sonnet readers, 23 corrections
+  (the holding's notes, "The re-reading of 2026-11-22").
+- Step 2 **begun**: the signatures read as letters ("Massow", "Willenz");
+  the sheet and the state handbook not yet made.
+- Step 3 **done** for the pages the readings changed (the margin note, the
+  bond, the Latin, the abbreviations) and the summaries of documents 1, 4
+  and 6 (claim-checked). The faithfulness reading of the whole holding's
+  English by a Sonnet reader not yet run.
+- Step 4 **done**: `pipeline/numerals.py` leaves registry numbers alone
+  (alone on their line, or after a short abbreviation or a day; not the
+  total under a column of sums); `pipeline/review/verify_numerals_diff.py`
+  lists the 11 numbers in the reading text and 8 in the English it changes,
+  all registry numbers; four the translator had written with a comma are in
+  `reference/english_corrections.yml`.
+- Steps 5 (the sweep) and 6 (termbase, glossary entries skarbnik and
+  antichresis) **not begun**. The rule of step 6 for unread words is
+  written (EDITORIAL_RULES, "An unread word in the English") and
+  check_translations now counts "[...]" as a mark of doubt. The holding's notes are
 `units/ihagrrep7cnr421/notes.md`; its English is written by
 `units/ihagrrep7cnr421/intake/translation/english.py`.
 

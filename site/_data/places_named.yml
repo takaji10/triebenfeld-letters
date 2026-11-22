@@ -1153,6 +1153,12 @@
   docs: 2
   span: "1811"
   letters: [{id: "220", uid: "oe1bu9454-220", url: "/documents/oe1bu9454/220/", unit_label: "HZAN Oe 1 Bü 9454", n: 5}, {id: "221", uid: "oe1bu9454-221", url: "/documents/oe1bu9454/221/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}]
+- slug: "zarobna"
+  name: "Zarobna"
+  count: 2
+  docs: 2
+  span: "1799–1830"
+  letters: [{id: "6", uid: "ihagrrep7cnr421-6", url: "/documents/ihagrrep7cnr421/6/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 1}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", unit_label: "III. HA MdA, III. Nr. 12367", n: 1}]
 - slug: "lenschitz"
   name: "Łęczyca (Lenschitz)"
   count: 2

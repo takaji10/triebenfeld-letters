@@ -17,6 +17,11 @@ What is not:
   - a four-digit year standing alone ("1797", "in 1805");
   - a number already grouped, a decimal, a fraction or the "/m" thousands
     ("25/m"), and any number joined to another digit, full stop or comma;
+  - a four-digit registry (journal) number at the foot of a line, outside the
+    year range and with no unit after it: alone on its line or after a full
+    stop and a space, followed by nothing but an optional full stop and closing
+    quotes ("4980.", "on the 25th. 4168.") (the editor's report, 2026-11-22:
+    registry numbers in Nr. 421); five digits and more keep the rule above;
   - an identifier: after No., Nr., N°, §, Bü, Rep., p., pag., fol., Litt., Kal.,
     line, page, letter, scan or document ("Nr. 12765", "Oe 1 Bü 9454").
 """
@@ -29,6 +34,15 @@ _UNIT = (r'(?:[Rr]\b|[Rr](?:eichs)?t(?:h|t)?(?:a?l)?(?:e?r)?s?\b|[Rr]thl|Thaler\
          r'souls|Stück|Klafter|Scheffel|Gr\b|Reichsthaler\w*|Rthaler\w*)')
 _ID = re.compile(r'(?:\b(?:No|Nr|Num|N°|Rep|pag|fol|Litt|p|pp)\.?|\bKal\.|§|\bBü|\b(?:line|lines|page|pages|'
                  r'letter|letters|scan|document|documents|Nro)\b)\s*$', re.I)
+# Alone on its line, or after a full stop whose word is a short abbreviation
+# ("B.", "N.", "c.") or holds a digit (a day, "25." / "25th."): not after a
+# word ("Seehausen. 5000", a sum) or an ellipsis ("... 7720"), checked 2026-11-22
+# with pipeline/review/verify_numerals_diff.py.
+_REG_BEFORE = re.compile(r'(?:^|\n)[ \t]*$|(?:^|[\s(])(?:[A-Za-z]{1,3}|[^\s.]*\d[^\s.]*)\. $')
+# ... but not the total under a column of sums: the line above ends in a figure and a
+# unit ("zu Gerathe = 800 rt" / "3631.", Oe 1 Bü 14525, doc. 23).
+_SUM_ABOVE = re.compile(r'\d\s*' + _UNIT + r'[ .]*\n[ \t]*$')
+_REG_AFTER = re.compile(r'\.?["\'’”»]*[ \t]*(?:\r?\n|$)')
 _NUM = re.compile(r'(?<![\d.,/])(\d{4,})(?![\d/]|[.,]\d)')
 
 
@@ -65,6 +79,10 @@ def group_digits(text, doc=None):
             v = int(num)
             unit = re.match(r'\s*' + _UNIT, text[m.end():])
             if first_year <= v <= 1999 and not unit:
+                return num
+            before = text[max(0, m.start() - 400):m.start()]
+            if (not unit and _REG_AFTER.match(text, m.end())
+                    and _REG_BEFORE.search(before) and not _SUM_ABOVE.search(before)):
                 return num
         return _group(num)
     return _NUM.sub(f, text)

@@ -866,6 +866,29 @@ places:
       letter (Oe 1 Bü 9454, 177), do not agree which old ground the colony sat on:
       the naming list pairs ''Friedrichsfeld, Ludwigslust'' with Grądzyń, the register
       lists Ludwigslust under ''bey Kopojno''. Which is right is not settled here.'
+  # Zarobna (the editor, 2026-11-22: "Make a place entry for Zarobna"): a village of the
+  # Trąbczyn estate, named in Prusimski's bond of 16 June 1794 ("wśi Zaro[b?]¬ / ney",
+  # I. HA GR, Rep. 7 C, Nr. 421, doc. 6) and in the estate's list of 1830, taken from the
+  # mortgage certificate of 1803 ("Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna", III. HA MdA,
+  # III. Nr. 12367, doc. 7). Not identified today: no Zarob- name in the gazetteer, the
+  # Słownik geograficzny (vol. XIV runs Zarobczanka, Zarocznia; its Trąbczyn entry of 1885
+  # lists no such part), the tables of 1789-1797 or the official list of gmina Zagórów.
+  # `kind:` is what it is today; with no place found, the kind it has in the documents.
+  zarobna:
+    display: Zarobna
+    kind: village
+    area: trabczyn-zagorow
+    # the bond's word broken at the line end in the line-by-line text ("Zaro[b?]¬ / ney")
+    match: Zarobn\w*|Zaro\[b\?\]¬?\s*ney
+    tier: Text-confirmed
+    variants:
+    - Zarobney
+    open_questions:
+    - 'Where Zarobna lay, and what became of it: the documents of 1794 and 1803 name it
+      among the estate''s villages, between Osiny and Łazy, but the tables of 1789-1797
+      and the Słownik do not, and no Zarob- name stands in gmina Zagórów today. In the
+      bond the last letter of "Zaro[b?]" is shaped like the copyist''s long s; the list
+      of 1830 gives b.'
   olesnica:
     display: Oleśnica
     german: Olesnice

@@ -208,3 +208,72 @@ appeal was the second instance and the revision the third.
 ## Damage
 
 None recorded.
+
+## The re-reading of 2026-11-22, and the English repaired
+
+The editor's report (2026-11-22) on the English: "Mazący" and "Skarbnik" left
+in Polish, "Zaro[Zosob?]ney", the Latin not given in English, registry
+numbers given a comma ("4,980"), the margin note of document 1 translated as
+German fragments, the signatures unread. Plan: `docs/NR421_ENGLISH_PLAN.md`.
+
+**Every line with a mark of doubt read again** (46 lines) by two Sonnet
+readers, A blind, B told the witnesses (`scratch/nr421_reread/`, not kept),
+and settled by Claude on crops where they differ: 23 changes in CORRECTIONS
+(the block "The re-reading of 2026-11-22"). Among them:
+
+- **The margin note of 0002_a2** now reads: "Es sind mir Acta [worin?] hat
+  die / [durch?] in dieser Vorstellg. roth unterstrichen / dess. (die ich in
+  meiner v. T. Ets. / v. Goldbeck mir zugestellten Saml. nicht / finde)
+  befindlichen beyzulegen u. allenfalls / aus dem Archiv des Gen. D. Etc. zu
+  erbitten / d. 18 Oct. Massow": the official asks for the files that hold
+  the pieces underlined in red in the petition (the red strokes are on the
+  page), which he does not find in the collection Goldbeck sent him. **The
+  signature is "Massow"**, plain (Claude; B "Massow?"). Who he is waits on
+  the plan's step 2 (the state handbook for 1799): Julius Eberhard von
+  Massow, minister of justice from 1798, is the obvious candidate and is not
+  written anywhere as the identification. The name tags the existing entry
+  `massow` (a name entry that does not say which bearer is meant; its bio
+  now names this note).
+- **"Willenz"** under the decision of 21 Oct. (0002_a2) and on the slip
+  (0016_a2): read W-i-l-l-e-n-z by both readers independently, the same
+  hand. Not identified; step 2.
+- **The bond (0014_a2)**: "Zaro[b?]¬ / ney" is **Zarobna** (below); "Dan w
+  Łukomie" (given at Łukom); "Blan¬ / kiecie"; "Ra." after the date (unread
+  abbreviation); **"[Służący?]"** for "Mazący": the capital is the
+  copyist's S, as in "Stanisławowi", the second letter cross-stroked (t or
+  ł); A blind "Star[?]oy", B first "Starey[?]", no Polish word; "Służący"
+  (belonging, with the dative) is Claude's and fits letters and grammar, so
+  it stands doubtful. **"S. N."** and **"S. W."** plain, and expanded at the
+  editor's word (EDITORIAL_RULES, "Abbreviations are expanded in square
+  brackets"): "S[karbnikowi]. W[schowskiemu].", Treasurer of Wschowa
+  (Konin Gr.118: "Skarbnikowi ziemi Wschowskiey"), and "S[tarosta].
+  N[ieszczewicki].", Starost of Nieszczewice (Konin Gr.145).
+- "pr. 15. Dec. 99." on Mondro's petition (praesentatum); "aliunde",
+  "Gr.", "sung", "verab¬", "Zalung" confirmed. Still doubtful, the readers
+  disagreeing: "wysk[?]" and "wieć[?]" in the bond, the pencil note on
+  0008_a2 (line 20), "dem[?] K[r?]. R." (0007_a1), the signatures under the
+  two drafts (0007_a2, 0017_a2) and the clerks' "v. [?]".
+
+**Zarobna** (the editor, 2026-11-22: "Make a place entry for Zarobna"): a
+new place of the register (`reference/places.yml`, `zarobna`), matched in
+the bond and in the estate's list of 1830 (III. HA MdA, III. Nr. 12367,
+doc. 7: "Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna, Trąbczyner Hauländer",
+from the mortgage certificate of 1803). Not in the gazetteer; not in the
+Słownik geograficzny (vol. XIV runs Zarobczanka, Zarocznia; its Trąbczyn
+entry lists the estate's parts of 1885 without it; the only Zarobna there
+is in the estate of N., in powiat chełmski); not in the tables of 1789-1797
+(app5321pyzdrygr115, app53640kalisztab21, agad1169011745); not in the
+official list of gmina Zagórów; Nazwy miejscowe Polski has not reached Z.
+Arct's Słownik staropolski gives "zarobny", worked, cultivable (of a
+field): a name of the same root, nothing more.
+
+**The English** (`intake/translation/english.py`, by a script kept in
+scratch): the margin note in English with "[...]" for what is not read;
+the Latin given in English, the Latin in brackets where the document turns
+on it (ex chirographo, ex quo, aliunde, in solidum, contractus
+antichreticus); "contra Fiscum" "against the Fiscus"; "ita conclusum
+eodem" "so resolved the same day"; "mpp" "in his own hand"; "Treasurer of
+Wschowa", "Starost of Nieszczewice", "Zarobna[?]", "Belonging[?]". The
+summaries of documents 1, 4 and 6 follow (Massow's note, Willenz, Zarobna,
+the ironworks, antichresis), claim-checked by a Sonnet reader. Registry
+numbers lose their comma by the new rule in `pipeline/numerals.py`.
