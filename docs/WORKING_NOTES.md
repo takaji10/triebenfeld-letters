@@ -4714,6 +4714,25 @@ tool is `pipeline/review/date_order.py` (scan, `--move`, `--snapshot` /
   could always build them from the website view." `courtbook.py` no longer
   writes them; NEW_UNIT.md says to delete them once `import_pages.py` has
   assembled a new holding's corpus.
+- **The full-size originals of the Neuenstein files** (Oe 1 Bü 9454, 14525,
+  14526, Oe 1 U 199) are on the editor's J: drive:
+  `J:\Documents\Archive\Genealogy\References\Hohenlohe-Zentralarchiv
+  Neuenstein\<file>\` (an opening per image, about 2,760 px wide). The site's
+  copies (`site/assets/scans/`, 1,100 px) are too small to settle a doubtful
+  word: letter 85's closing was read four ways from them. Crop the original,
+  open it for the editor (`Start-Process <png>`), and look for the same
+  word elsewhere in the document: the King's salutation "Freundlich lieber
+  Oheim!" settled "gutwilliger Oheim" (the editor confirmed it on the image).
+- **Letters from officials** (the editor's two answers of 2026-11-23 taken
+  together): a date that breaks a closing (between the salutation or the
+  closing formula and the signature) moves, whoever wrote the letter; a date
+  directly before a bare signature stays in an official paper (a minister's
+  or office's letter, a rescript), and moves in a private person's note or
+  petition.
+- **A change to `pipeline/numerals.py` is proved over the whole edition**:
+  run the HEAD version and the new one over every corpus line and English
+  line and read every line that differs (the Polish "1865 r." fix changed
+  nine lines, all dates). The pattern is in `verify_numerals_diff.py`.
 - **Moving a postscript to the end can change a letter's place**: the build
   reads the place from a letter's last lines, and letter 104's moved
   postscript ("Etwann den 16ten April gehn ich…") gave "Etwann". The
