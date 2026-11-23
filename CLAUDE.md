@@ -104,6 +104,12 @@ holding's own `intake/paragraphs.py` if it has one, whose rules may restate a
 decision), the site, `verify_site.py`; commit, and publish at the editor's
 word. Never edit `reference/english_layout/` by hand.
 
+**The German reading text follows** (the editor, 2026-11-23): for each document
+in the export, read its German reading text against the new English and add
+the paragraph breaks (or joins) that make the two match, by hand, as `cue hand`
+rows of `paragraph_decisions.csv`, before the rebuild (WORKING_NOTES, "The
+German follows the editor's English layout").
+
 ## How this project is worked
 
 - **Branch and publishing.** Work on `main` (the editor, 2026-11-21: "You can

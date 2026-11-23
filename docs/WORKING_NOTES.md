@@ -4653,6 +4653,28 @@ first and a fine pass at their word. The files are in
   "write if the number of blocks changed" missed a cut block; track the
   change itself.
 
+### The German follows the editor's English layout (2026-11-23)
+
+- **The editor's rule** (2026-11-23, on app539680782): when they lay out a
+  document's English and hand over the export, the session reads the German
+  reading text against it and makes the reading text's paragraphs match the
+  English, by hand, for the documents in that export only. They don't touch
+  the German view themselves (they don't read German), so the export's
+  `german` list is usually empty and the work falls to Claude. No machine
+  for this was wanted: the session proposed a mirroring script and the
+  editor declined it ("I only am talking about this one document").
+- **How**: for each English paragraph that now begins where no German one
+  does, find the German line where the same text begins and add a row to
+  the holding's `paragraph_decisions.csv`: `decision break`, `confidence
+  held`, **`cue hand`** (any other cue is dropped by `resolve_paragraphs.py`
+  on the next run), `prev_line` the line before, `context` the line's first
+  70 characters. For a join, `decision join` on the second paragraph's first
+  line. A split that falls mid-way through a German line can't be shown in
+  the reading text (breaks are by line): report it to the editor.
+- On app539680782 the published English had followed the German paragraph
+  for paragraph; the editor's layout split off the dateline and the last two
+  signatures, and three breaks were added (corpus lines 4, 45, 46).
+
 ## OCR of a ruled Polish table (2026-11-05)
 
 The Rusinski 1947 sitting's lessons, for the next ruled-table scan:
