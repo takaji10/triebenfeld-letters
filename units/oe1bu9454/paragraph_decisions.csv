@@ -551,10 +551,10 @@
 39,2909,break,high,short_line,0.34,26,77,Gnädigster Fürst und Herr!,Diesen Augenblick retournire ich von W: wo ich alles nach Wunsch abgem
 39,2915,break,high,short_line,0.66,51,77,"die Kosten zu berichtigen, und reise Geld zu haben.","6125 rt waren es die berichtiget werden müßten, 3000 rt haben Ewr Durc"
 39,2931,break,high,short_line,0.36,28,77,Herrn Empich zu addresseren.,das große Anlehn vergeßen Ewr Durchlaucht nicht. — Ich sorge von einer
-39,2934,break,high,short_line+column,0.19,15,77,Ewr Durchlaucht,Berlin den 2ten July
-39,2935,break,high,short_line+column,0.26,20,77,Berlin den 2ten July,1808
-39,2936,break,high,short_line+column,0.05,4,77,1808,treu unterthänigster Diener
-39,2937,break,high,short_line+column,0.35,27,77,treu unterthänigster Diener,v Triebenfeld
+39,2934,break,held,short_line+column,0.19,15,77,Ewr Durchlaucht,treu unterthänigster Diener
+39,2935,break,high,short_line+column,0.35,27,77,treu unterthänigster Diener,v Triebenfeld
+39,2936,break,held,short_line+column,0.17,13,77,v Triebenfeld,Berlin den 2ten July
+39,2937,run,held,short_line+column,0.26,20,77,Berlin den 2ten July,1808
 40,2941,break,high,short_line+column,0.03,2,76,40,Durchlauchtigſter Fürſt.
 40,2942,break,high,salutation+short_line,0.32,24,76,Durchlauchtigſter Fürſt.,Gnädigster Fürst und Herr!
 40,2943,break,high,short_line,0.34,26,76,Gnädigster Fürst und Herr!,Ewr Hochfürstliche Durchlaucht habe ich nur auf jedem höchst dero Schr
@@ -1149,6 +1149,7 @@
 76,6344,break,high,short_line+column,0.62,23,37,Durchlauchtigster Fürst,Gnädigster Herr!
 76,6345,break,high,short_line,0.43,16,37,Gnädigster Herr!,Der gewiße Güter Tausch ist jezt im Gange und vieleicht
 76,6354,break,high,short_line,0.43,16,37,abſtatten werde.,In tiefster Ehrfurcht ersterbe
+76,6358,break,held,short_line,0.35,13,37,v Triebenfeld,Breslau den 23ten Aug. 1798.
 77,6362,break,high,short_line+column,0.04,2,50,77,Durchlauchtigſter Fürſt
 77,6363,break,high,short_line+column,0.46,23,50,Durchlauchtigſter Fürſt,Gnädigster Herr!
 77,6364,break,high,short_line,0.32,16,50,Gnädigster Herr!,"Daß alles nach Wunsch geht, werde Ewr Hochfürstliche Durchlaucht"
@@ -2206,11 +2207,11 @@
 168,11981,run,review,short_line,0.29,17,58,zu viel schaden —,Schenck besteht absolut auf 4 Herren Land und auf die Frey
 168,11984,break,high,short_line,0.7,41,58,laucht darüber mündlichen Vortrag machen.,Mit unbegränzter Treue ersterbe als
 168,11985,break,high,short_line+column,0.6,35,58,Mit unbegränzter Treue ersterbe als,Ewr Durchlaucht
-168,11986,break,high,short_line+column,0.26,15,58,Ewr Durchlaucht,Trąbczyn
-168,11987,break,high,short_line+column,0.14,8,58,Trąbczyn,den 31ten März 1805
-168,11988,break,high,short_line+column,0.32,19,58,den 31ten März 1805,unterthäniger Diener
-168,11989,break,high,short_line+column,0.34,20,58,unterthäniger Diener,v Triebenfeld
-168,11990,break,held,short_line,0.22,13,58,v Triebenfeld,die Swięcier Alten Unterthanen habe ich vor eine Bagatelle ausgekauft
+168,11986,break,held,short_line+column,0.26,15,58,Ewr Durchlaucht,unterthäniger Diener
+168,11987,break,high,short_line+column,0.34,20,58,unterthäniger Diener,v Triebenfeld
+168,11988,break,held,short_line+column,0.22,13,58,v Triebenfeld,Trąbczyn
+168,11989,run,held,short_line+column,0.14,8,58,Trąbczyn,den 31ten März 1805
+168,11990,break,held,short_line,0.32,19,58,den 31ten März 1805,die Swięcier Alten Unterthanen habe ich vor eine Bagatelle ausgekauft
 169,11998,break,high,short_line+column,0.05,3,58,169,Durchlauchtigster Fürst
 169,11999,break,high,short_line+column,0.4,23,58,Durchlauchtigster Fürst,Gnädiger Herr
 169,12000,run,review,short_line,0.22,13,58,Gnädiger Herr,Der Minister v Voss hat in dem despotischensten Ausdrücken alle Revidi
@@ -2460,9 +2461,9 @@
 182,13189,break,high,short_line,0.67,35,52,ſogerühm Sie ihm nur kurz zu ſagen.,"daß er sich wegen seines Gehalts, wenn er was zu fordern"
 182,13202,break,high,short_line,0.38,20,52,terkommen zu suchen.,"Ich ſtehe dafür daß, wenn Ewr Durchlaucht aus einem solchen Tone"
 182,13205,break,high,short_line+column,0.54,28,52,In tiefsten Respect ersterbe,Ewr Durchlaucht
-182,13206,run,review,short_line,0.29,15,52,Ewr Durchlaucht,Berlin d. 16 t. May morgendt zu [3?] uhr
-182,13208,break,high,short_line+column,0.08,4,52,1806,treu gehorsamster diener
-182,13209,break,high,short_line+column,0.46,24,52,treu gehorsamster diener,v Triebenfeld
+182,13206,run,held,short_line+column,0.29,15,52,Ewr Durchlaucht,treu gehorsamster diener
+182,13207,break,high,short_line+column,0.46,24,52,treu gehorsamster diener,v Triebenfeld
+182,13208,break,held,short_line,0.25,13,52,v Triebenfeld,Berlin d. 16 t. May morgendt zu [3?] uhr
 183,13213,run,review,short_line,0.05,3,66,183,Es ist hier ein Pasquill unter den Titel Preußischer Charaktüre erschi
 183,13216,run,review,short_line,0.5,33,66,keit komt in Ihrer Geschichte vor,Es heißt der Fürst braucht viel Geld er hat einen Geschäfts von in der
 183,13221,run,review,short_line,0.26,17,66,gearbeitet hat. —,"Ich hatte daß Buch mitgeschickt, aber selbst die Französische Behörde"
@@ -4144,3 +4145,5 @@
 303,21669,break,high,rubric,0.82,30,36,"139,Der Wittwe Lordemann,,,,,,","140,verehelichten Herzog,,,,,,"
 303,21670,break,high,rubric,0.82,30,36,"140,verehelichten Herzog,,,,,,","141,Der Glaser Stark,,,,,,"
 303,21671,break,high,rubric,0.71,26,36,"141,Der Glaser Stark,,,,,,","142,der Handlung Ziepult & Sohn,,,,,,"
+76,6356,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,treu unterthänigster Diener
+182,13209,run,held,hand,0,0,0,Berlin d. 16 t. May morgendt zu [3?] uhr,1806

@@ -4653,6 +4653,36 @@ first and a fine pass at their word. The files are in
   "write if the number of blocks changed" missed a cut block; track the
   change itself.
 
+### The date after the signature (2026-11-23)
+
+The editor's rulings and the method are in `docs/DATE_ORDER_PLAN.md`; the
+tool is `pipeline/review/date_order.py` (scan, `--move`, `--snapshot` /
+`--compare`, `--restamp`). Traps met in the pilot:
+
+- **The page files under `transcriptions/` and `corpus.txt` already
+  differ** in places: letter 182 of Oe 1 Bü 9454 has "zu" in the corpus and
+  "z[u?]" in its page file (the correction "z[u] -> zu" was made in one
+  only). The move takes the page file's own lines where every line is nearly
+  the same and reports the difference; it does not mend it.
+- **`transcription_decisions.csv`'s "@n" line numbers go stale**: three of
+  them pointed at lines of other documents. The sheet is a record keyed by
+  `pad`, read by no build step; never use its numbers to find a line.
+- **`resolve_paragraphs.py` carries a decision over by the line's text even
+  when it is not held**: a moved line keeps its old break ("1814." stayed a
+  paragraph of its own) unless its row is set. Set a row for every line whose
+  neighbour changed.
+- **`regenerate.py` shows only lines matching its KEEP list**, so
+  `resolve_paragraphs.py`'s "hand-set row not found again" is hidden: after
+  writing hand rows, run the step directly and read its output.
+- **Moving German lines changes the translation cache's `source_hash`**, and
+  `translate.py --stale` then asks for a paid re-run of words that did not
+  change: `date_order.py --restamp <letters> --unit <slug>`. (Before this
+  work 199 letters of Oe 1 Bü 9454 and 13 of Nr. 12765 were already listed as
+  stale: their German was corrected after translation and the English
+  mended by corrections. Not this work's; reported to the editor.)
+- `english_forms.py --apply` rewrote `site/_data/summaries.yml` again (46
+  changes): restored from HEAD, as the note above says.
+
 ### The German follows the editor's English layout (2026-11-23)
 
 - **The editor's rule** (2026-11-23, on app539680782): when they lay out a

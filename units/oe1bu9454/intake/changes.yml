@@ -1,0 +1,25 @@
+# What changed in the transcription, for the page of changes
+# (pipeline/review/changes_page.py). importance: significant | fact | wording.
+
+unit: "Letters written from 1798 to 1816 by Peter Friedrich von Triebenfeld, the agent who managed the estates of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in South Prussia, Prussia's share of partitioned Poland, to Hohenlohe-Ingelfingen: on the sales, loans and lawsuits of Trąbczyn, Zagórów and his other estates there."
+changes:
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 39, page 0072_b: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ewr Durchlaucht / Berlin den 2ten July / 1808 / treu unterthänigster Diener / v Triebenfeld
+  now: Ewr Durchlaucht / treu unterthänigster Diener / v Triebenfeld / Berlin den 2ten July / 1808
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 76, page 0161_b: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ewr Hochfürstliche Durchlaucht / Breslau den 23ten Aug. 1798. / treu unterthänigster Diener / v Triebenfeld
+  now: Ewr Hochfürstliche Durchlaucht / treu unterthänigster Diener / v Triebenfeld / Breslau den 23ten Aug. 1798.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 168, page 0317_a: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ewr Durchlaucht / Trąbczyn / den 31ten März 1805 / unterthäniger Diener / v Triebenfeld
+  now: Ewr Durchlaucht / unterthäniger Diener / v Triebenfeld / Trąbczyn / den 31ten März 1805
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 182, page 0349_a: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ewr Durchlaucht / Berlin d. 16 t. May morgendt zu [3?] uhr / 1806 / treu gehorsamster diener / v Triebenfeld
+  now: Ewr Durchlaucht / treu gehorsamster diener / v Triebenfeld / Berlin d. 16 t. May morgendt zu [3?] uhr / 1806

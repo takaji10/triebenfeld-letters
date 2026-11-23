@@ -1,9 +1,9 @@
 ﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
 1,12,run,review,short_line,0.66,23,35,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
-1,22,break,high,short_line,0.63,22,35,Wien den 25ten Octobr.,1814.
-1,23,break,high,short_line,0.14,5,35,1814.,treu gehorsamster Knecht
-1,24,break,high,short_line+column,0.69,24,35,treu gehorsamster Knecht,v Triebenfeld
-1,25,run,review,short_line,0.37,13,35,v Triebenfeld,An des Gen. Geh. St. R. Stägemann hochw.
+1,22,break,high,short_line+column,0.69,24,35,treu gehorsamster Knecht,v Triebenfeld
+1,23,break,held,short_line+column,0.37,13,35,v Triebenfeld,Wien den 25ten Octobr.
+1,24,run,held,short_line,0.63,22,35,Wien den 25ten Octobr.,1814.
+1,25,run,held,short_line,0.14,5,35,1814.,An des Gen. Geh. St. R. Stägemann hochw.
 2,31,break,high,short_line+column,0.2,7,34,No. 569,Wien d. 25 Nov [18]14
 2,32,break,high,short_line+column,0.61,21,34,Wien d. 25 Nov [18]14,An
 2,33,break,high,rubric+short_line,0.06,2,34,An,d. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.
@@ -250,3 +250,4 @@
 30,1055,break,high,short_line,0.43,31,72,Nr. 3053. 13. pr. 28. May 1820.,Ad acta
 30,1056,break,high,short_line+column,0.1,7,72,Ad acta,Hoffm[ann] 30/5
 30,1057,break,high,short_line+column,0.21,15,72,Hoffm[ann] 30/5,B[erlin]. 29/5 [18]20
+1,21,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,treu gehorsamster Knecht

@@ -1,0 +1,8 @@
+# The date moved after the signature (docs/DATE_ORDER_PLAN.md; the editor,
+# 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
+# an entry already carried out is skipped. Lines exactly as in corpus.txt.
+moves:
+- letter: '1'
+  date: ['Wien den 25ten Octobr.', '1814.']
+  after: 'v Triebenfeld'
+  note: 'pilot; the office note of receipt (office_notes.yml) follows the signature and is not moved'

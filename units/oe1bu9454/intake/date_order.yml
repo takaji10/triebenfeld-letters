@@ -1,0 +1,20 @@
+# The date moved after the signature (docs/DATE_ORDER_PLAN.md; the editor,
+# 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
+# an entry already carried out is skipped. Lines exactly as in corpus.txt.
+moves:
+- letter: '39'
+  date: ['Berlin den 2ten July', '1808']
+  after: 'v Triebenfeld'
+  note: pilot
+- letter: '76'
+  date: ['Breslau den 23ten Aug. 1798.']
+  after: 'v Triebenfeld'
+  note: pilot
+- letter: '168'
+  date: ['Trąbczyn', 'den 31ten März 1805']
+  after: 'v Triebenfeld'
+  note: 'pilot; a postscript of five lines follows the signature and stays after the date'
+- letter: '182'
+  date: ['Berlin d. 16 t. May morgendt zu [3?] uhr', '1806']
+  after: 'v Triebenfeld'
+  note: 'pilot; the date line carries the hour, kept whole'

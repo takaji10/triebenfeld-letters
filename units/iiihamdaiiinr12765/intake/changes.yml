@@ -1,0 +1,10 @@
+# What changed in the transcription, for the page of changes
+# (pipeline/review/changes_page.py). importance: significant | fact | wording.
+
+unit: "A file of the Prussian Ministry of Foreign Affairs on the attempts of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, and after his death in 1818 of his heirs, to be compensated for his Trąbczyn estates in former Prussian Poland, taken from him in 1807 when the region passed to the Duchy of Warsaw; Russia, which ruled it from 1815, refused in 1816 and again in 1820."
+changes:
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 1, page 0003_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ewr Hochfürstliche Durchlaucht / Wien den 25ten Octobr. / 1814. / treu gehorsamster Knecht / v Triebenfeld
+  now: Ewr Hochfürstliche Durchlaucht / treu gehorsamster Knecht / v Triebenfeld / Wien den 25ten Octobr. / 1814.
