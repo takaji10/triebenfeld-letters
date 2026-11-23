@@ -126,6 +126,11 @@
     if (p.i) el.className = 'indent-' + p.i;
     if (p.a === 'c' || p.a === 'r') el.className = (el.className ? el.className + ' ' : '') +
                                                      (p.a === 'c' ? 'align-c' : 'align-r');
+    // A paragraph broken into lines (Shift+Enter) is a block - a dateline, an
+    // address, a signature - not prose: no first-line indent (the editor,
+    // 2026-11-23: "Vienna, the 25th of October // 1814.").
+    if ((p.r || []).some(function (run) { return String(run[0]).indexOf('\n') >= 0; }))
+      el.className = (el.className ? el.className + ' ' : '') + 'lines';
     (p.r || []).forEach(function (run) {
       var parts = String(run[0]).split('\n');
       parts.forEach(function (t, k) {

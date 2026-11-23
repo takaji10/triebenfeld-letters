@@ -970,6 +970,8 @@ details.supplied .sup { font-style: italic; color: var(--accent); }
 .text-view[data-view="translation"] p.align-c { text-align: center; text-indent: 0; }
 .text-view[data-view="translation"] p.align-r { text-align: right; text-indent: 0; }
 .text-view[data-view="translation"] p[class*="indent-"] { text-indent: 0; }
+/* a paragraph broken into lines with Shift+Enter (a dateline, an address) */
+.text-view[data-view="translation"] p.lines { text-indent: 0; }
 .tf-editing { outline: 1px dashed var(--rule); outline-offset: .4em; caret-color: currentColor; }
 .tf-editing p { min-height: 1em; }
 .tf-editing p:focus-within { background: var(--paper-2); }

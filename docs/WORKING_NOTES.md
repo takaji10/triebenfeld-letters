@@ -4674,6 +4674,12 @@ first and a fine pass at their word. The files are in
 - On app539680782 the published English had followed the German paragraph
   for paragraph; the editor's layout split off the dateline and the last two
   signatures, and three breaks were added (corpus lines 4, 45, 46).
+- **A paragraph with a Shift+Enter line break has no first-line indent**
+  (the editor, 2026-11-23: "Vienna, the 25th of October // 1814." showed its
+  first line indented, the second flush). The English indents every `p + p`
+  by 1.4em; `layoutPara` in letter.js now gives a paragraph with a line
+  break the class `lines`, and style.css sets it flush. The editor draws
+  with the same function, so it shows there too.
 
 ## OCR of a ruled Polish table (2026-11-05)
 
