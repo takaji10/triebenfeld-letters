@@ -20,13 +20,11 @@ editor's answers of 2026-11-23 (below, 1 and 2). Still open:
 - **Letter 85, the King's letter**: the closing's word is settled,
   "gutwilliger Oheim" (the editor, 2026-11-23, on the full-size original:
   "It's definitely gutwilliger Oheim"; was "Grün"; English "well-disposed
-  Uncle"). **Still open, the date** (full-size original: J:\...\Hohenlohe-
-  Zentralarchiv Neuenstein\Oe 1_Bü 9454\Oe 1_Bü 9454_0178.jpg, the left of
-  the closing): the month read "Dcbr." by Claude (a Kurrent D, as
-  transcribed), "Octbr." by four Sonnet readings; the day 4 (as transcribed)
-  or 7. All agree the date reads "Berlin / d… …br. / 1798." top to bottom
-  (the transcription has "1798." before the day). When it is settled, the
-  date's lines are put in that order and moved after "Friedrich Wilhelm."
+  Uncle"). The day is 4 (the editor, 2026-11-23); the date's lines put in
+  their page order and moved after the signature: "Berlin die 4te Decbr.
+  1798." The month stands as transcribed, December (Claude reads a Kurrent
+  D; four Sonnet readings had "Octbr."); the editor, shown the image, did not
+  change it. Open only if the editor reads October.
 - ~~The page files under `transcriptions/`~~: removed from every holding at
   the editor's word (2026-11-23).
 
