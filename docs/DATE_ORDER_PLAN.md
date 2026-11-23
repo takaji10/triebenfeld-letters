@@ -114,6 +114,14 @@ proper order:
   `date_order_compare.py` / `date_order_oneline.py` (settling),
   `date_order_entries.py`, `date_order_english.py`, `date_order_add_english.py`,
   `date_order_verify.py`, `date_order_unstamp.py`.
+- **The editor's answers on Oe 1 Bü 9454** (2026-11-23): a postscript
+  written beside the closing moves too, after the signature and the date
+  (41 letters; `ps:` in the entry, `plan_move_ps`, which moves any blocks and
+  sets a row wherever a line's neighbour changed); the dates before a bare
+  signature in Triebenfeld's notes move (17), the official papers stay (74a,
+  74c, 74d, 252, 264). Letter 217's date and address moved together. Letter
+  179 left (a line mixes postscript and closing). Letter 104 needed a place
+  override. English: a Sonnet drafter, 54 and 292 by hand, every one read.
 - Next: the other holdings (the scan's counts: Oe 1 Bü 14525 52 cases,
   Nr. 12765 28, Nr. 3709 19, Oe 1 Bü 14526 19, and fewer elsewhere), after
   the editor's answer on the postscripts.

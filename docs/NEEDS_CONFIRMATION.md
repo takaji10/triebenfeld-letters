@@ -11,10 +11,28 @@ repository; they are on the working machine.
 
 ## The date after the signature (2026-11-23, docs/DATE_ORDER_PLAN.md)
 
-Oe 1 Bü 9454: 181 letters moved (the pilot's 4 and 177). Left as they are,
-for the editor:
+Oe 1 Bü 9454: 181 letters moved (the pilot's 4 and 177), then 58 more at the
+editor's answers of 2026-11-23 (below, 1 and 2). Still open:
 
-1. **A postscript inside the closing** (42 letters): lines written beside
+- **Letter 179**: one line runs the postscript's words and the closing's
+  together ("…zu sehen, mit / ergebenster den / ganz ergebener Der /"); not
+  moved, since a line cannot be split without changing it.
+- **Letter 85, the King's letter** (question 3 below): the second word of the
+  closing, transcribed "Grün", read on the site's copy of the page (1100 px)
+  by Claude as "Vetter" (the address reads "Mon Cousin"), by two Sonnet
+  readers as "Ohm" and "Freun[d]"; the day "4te" read as 7 by both readers,
+  the month "Decbr." as "Octbr." by both. Not settled: the full-size scan of
+  0178_a1 is needed (the raw folder is no longer in Downloads). All three agree
+  that the date reads "Berlin / d… …br. / 1798." top to bottom, so the
+  transcription's "1798." before the day is out of order.
+- **The page files under `transcriptions/`**: the editor asked why there are
+  two; see WORKING_NOTES, "The date after the signature". A decision on what
+  becomes of them is open.
+
+Answered by the editor (2026-11-23):
+
+1. **A postscript inside the closing** (42 letters) — *moved: the date and
+   then the postscript after the signature; 41 done, 179 left (above)*: lines written beside
    the closing stand between the salutation and the date (or the closing
    formula and the date), e.g. letter 49: "Ewr Hochfürstliche Durchlaucht /
    Es heißt daß ein Rußisches Corps … Wolte nur Gott dies! / Kontop den 20ten
@@ -33,6 +51,8 @@ for the editor:
    127, 129, 148, 228, 241, 243, 298; and official papers whose form this is
    (the court's orders 74c and 74d, the copy 74a, Hardenberg's letter 252, the
    Prince's bond 264 with its seal). No closing is broken; move or leave?
+   *Answered: the official papers left; the 17 notes moved. Letter 217's date
+   and the writer's address moved together.*
 3. **Odd, left as they are**: 4 ("Nun komm nach Eberhard" between the date
    and the signature); 20 (the closing stops at "Ewr", then the date, then
    "wie in Blanquet zu Ho."); 21 (the date line also holds "geben.", the end

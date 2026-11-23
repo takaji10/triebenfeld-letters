@@ -28,6 +28,8 @@ places:
     "301": "Blizanow"
     "72c": "Kalisz"
     "72e": "Warschau"
+    "104": "Breslau"  # dateline "Breslau den 3ten April / 1799"; since the postscript moved after it
+                      # (2026-11-23), its "Etwann den 16ten April" was taken for the place
     "150": ""
     "155": "Breslau"
     "188": "Breslau"

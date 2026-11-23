@@ -44,6 +44,8 @@ def main():
         ent = {'letter': L, 'date': [text[n] for n in s['date_lines']], 'after': text[s['after_line']]}
         if s.get('join'):
             ent['join'] = [text[n] for n in s['join']]
+        if s.get('ps_lines'):
+            ent['ps'] = [text[n] for n in s['ps_lines']]
         ent['note'] = s.get('note', '')
         entries.append(ent)
         added += 1

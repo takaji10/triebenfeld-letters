@@ -34,13 +34,13 @@
 2,211,break,high,short_line,0.61,39,64,und ihm den C. jeden Ausweg versperren.,Nur um Gottes willen senden Sie auch so schenk als möglich die 200 Duc
 2,214,break,high,short_line,0.47,30,64,mit gehöriger Kraft zu würken.,Ehrfurchts voll verharre
 2,215,break,high,short_line+column,0.38,24,64,Ehrfurchts voll verharre,Ewr Durchlaucht
-2,216,break,high,short_line+column,0.24,15,64,Ewr Durchlaucht,P S die Nachgebrachte Correspondence
-2,217,break,high,short_line+column,0.57,36,64,P S die Nachgebrachte Correspondence,mit den H. H[?] M. hat mit meiner Eingabe
-2,218,break,high,short_line+column,0.65,41,64,mit den H. H[?] M. hat mit meiner Eingabe,einen sehr guten Effect gemacht
-2,219,break,high,short_line+column,0.49,31,64,einen sehr guten Effect gemacht,Wien den 9ten Febr.
-2,220,break,high,short_line,0.3,19,64,Wien den 9ten Febr.,1815
-2,221,break,high,short_line+column,0.06,4,64,1815,treu gehorſamſter Diener
-2,222,break,high,short_line+column,0.38,24,64,treu gehorſamſter Diener,v Triebenfeld
+2,216,break,held,short_line+column,0.24,15,64,Ewr Durchlaucht,treu gehorſamſter Diener
+2,217,break,high,short_line+column,0.38,24,64,treu gehorſamſter Diener,v Triebenfeld
+2,218,break,held,short_line+column,0.2,13,64,v Triebenfeld,Wien den 9ten Febr.
+2,219,run,held,short_line,0.3,19,64,Wien den 9ten Febr.,1815
+2,220,break,held,short_line+column,0.06,4,64,1815,P S die Nachgebrachte Correspondence
+2,221,break,high,short_line+column,0.57,36,64,P S die Nachgebrachte Correspondence,mit den H. H[?] M. hat mit meiner Eingabe
+2,222,break,high,short_line+column,0.65,41,64,mit den H. H[?] M. hat mit meiner Eingabe,einen sehr guten Effect gemacht
 3,226,run,review,short_line,0.01,1,74,3,Zwey Briefe vom 19ten und 28ten Januar habe ich erhalten mehr nicht.
 3,240,run,review,short_line,0.66,49,74,hernehmen soll um den Lehn Kutschen zu bezahlen —,Kurz erhalte ich nicht balde Hülfe und schaffen Sie nicht sehr sehr sc
 3,243,break,high,short_line,0.63,47,74,und Spott belastet von hier heimlich entfernen.,"Ich habe hier für Sie viel bewürkt, und wolte eben noch das bewürken d"
@@ -87,16 +87,16 @@
 6,461,run,review,short_line,0.3,18,61,Schande umkommen —,"F[ürst]. August ist ein armseeliger elender Mensch, dies Beweise Ihnen"
 6,466,break,high,short_line,0.08,5,61,wird.,Der Kopf thut mich fürchterlich wehe so daß ich unmöglich weiter schre
 6,468,break,high,short_line+column,0.59,36,61,In tiefer Ehrfurcht verharre ich als,Ewr Durchlaucht
-6,469,break,high,short_line+column,0.25,15,61,Ewr Durchlaucht,Beguelin empfiehlt ſich zu Gnaden
-6,470,break,high,short_line+column,0.54,33,61,Beguelin empfiehlt ſich zu Gnaden,so auch Barbe
-6,471,break,high,short_line+column,0.21,13,61,so auch Barbe,die Piece an Albrecht bitte
-6,472,break,high,short_line+column,0.44,27,61,die Piece an Albrecht bitte,ich noch wieder aus den ich habe
-6,473,break,high,short_line+column,0.52,32,61,ich noch wieder aus den ich habe,keine Abschrift pr. Estaffette und Geld
-6,474,break,high,short_line+column,0.64,39,61,keine Abschrift pr. Estaffette und Geld,Wien d. 6ten May
-6,475,break,high,short_line+column,0.26,16,61,Wien d. 6ten May,1815.
-6,476,break,high,short_line,0.08,5,61,1815.,treu gehorſamer Diener
-6,477,break,high,short_line+column,0.36,22,61,treu gehorſamer Diener,v Triebenfeld
-6,478,break,held,short_line,0.21,13,61,v Triebenfeld,Es wäre wohl sehr gescheid wenn P. Adolph über Berlin giengen
+6,469,break,held,short_line+column,0.25,15,61,Ewr Durchlaucht,treu gehorſamer Diener
+6,470,break,high,short_line+column,0.36,22,61,treu gehorſamer Diener,v Triebenfeld
+6,471,break,held,short_line+column,0.21,13,61,v Triebenfeld,Wien d. 6ten May
+6,472,run,held,short_line+column,0.26,16,61,Wien d. 6ten May,1815.
+6,473,break,held,short_line,0.08,5,61,1815.,Beguelin empfiehlt ſich zu Gnaden
+6,474,break,high,short_line+column,0.54,33,61,Beguelin empfiehlt ſich zu Gnaden,so auch Barbe
+6,475,break,high,short_line+column,0.21,13,61,so auch Barbe,die Piece an Albrecht bitte
+6,476,break,high,short_line+column,0.44,27,61,die Piece an Albrecht bitte,ich noch wieder aus den ich habe
+6,477,break,high,short_line+column,0.52,32,61,ich noch wieder aus den ich habe,keine Abschrift pr. Estaffette und Geld
+6,478,break,held,short_line,0.64,39,61,keine Abschrift pr. Estaffette und Geld,Es wäre wohl sehr gescheid wenn P. Adolph über Berlin giengen
 7,484,break,high,short_line+column,0.02,1,53,7,Durchlauchtigſter Fürſt!
 7,485,break,high,salutation+short_line,0.45,24,53,Durchlauchtigſter Fürſt!,Gnädigster Fürst und Herr!
 7,486,break,high,short_line,0.49,26,53,Gnädigster Fürst und Herr!,Aufs neue durch einen Brief meines Vaters an Eur Durch
@@ -464,11 +464,10 @@
 33,2299,break,high,short_line,0.68,53,78,"nicht, ob wohl sehr brauch und schwach) zu bewircken.","Der Achtschreiber Kopey ist noch nicht zurük, und aus diesem Grunde hä"
 33,2306,break,high,short_line,0.68,53,78,"in Anspruch genommen, und den wäre ich total ruinirt.",bar durchlaucht und mein brauchen muß jezt sein das Geld zusammen zu s
 33,2360,break,high,short_line,0.66,47,71,gleich darüber der Staat zu Grunde gehen solte.,Ewr Durchlaucht zu sprechen wünsche auch ich sehr sehnlich — Es solte 
-33,2377,run,review,short_line,0.21,15,71,Ewr Durchlaucht,die alte Fürst S — soll so gesund sind als an[?] die
-33,2379,break,high,short_line,0.28,20,71,enig[?] leben wolte.,Berlin den 7ten Aprill 1808.
-33,2380,break,high,short_line,0.39,28,71,Berlin den 7ten Aprill 1808.,treuster Nahrungen verafr[?]
-33,2381,break,high,short_line+column,0.39,28,71,treuster Nahrungen verafr[?],und unterthäniger knecht
-33,2382,break,high,rubric+short_line,0.34,24,71,und unterthäniger knecht,v. Triebenfeld
+33,2377,run,held,short_line+column,0.21,15,71,Ewr Durchlaucht,treuster Nahrungen verafr[?]
+33,2378,break,high,short_line+column,0.39,28,71,treuster Nahrungen verafr[?],und unterthäniger knecht
+33,2379,break,high,rubric+short_line,0.34,24,71,und unterthäniger knecht,v. Triebenfeld
+33,2381,break,held,short_line,0.39,28,71,Berlin den 7ten Aprill 1808.,die alte Fürst S — soll so gesund sind als an[?] die
 34,2386,break,high,short_line+column,0.02,2,89,34,Durchlauchtigster Fürst
 34,2387,break,high,short_line+column,0.26,23,89,Durchlauchtigster Fürst,Gnädigster Fürst und Herr
 34,2388,run,review,short_line,0.28,25,89,Gnädigster Fürst und Herr,Ew. hochfürstliche Durchlaucht höchstverehrtes Schreiben vom 7 ten der
@@ -486,11 +485,12 @@
 35,2471,break,high,short_line,0.7,57,82,"pfändet, und meinen Wechsel gegeben auszahlen laßen soll.",das ist doch wahrlich mehr als unerhöhrt — Ich werde von Marcul in den
 35,2478,run,review,short_line,0.61,50,82,ernähren muß — Ich soll vor yre mal gre bezahlen —,"die mir aufgetragenen Geschäfte, durfte und konte ich unter einer solc"
 35,2499,break,high,short_line,0.71,53,75,Sie dürfte selbst Ewer Durchlaucht nachteilig werden.,"Mit redlichen Herzen war ich bemüht Rath zu schaffen, ich hofte auf et"
-35,2526,break,high,short_line+column,0.2,15,75,Ewr Durchlaucht,Ich bemerke daß der Zahlungs Termin an von der Laar
-35,2527,run,review,short_line,0.68,51,75,Ich bemerke daß der Zahlungs Termin an von der Laar,"den 14ten May ansteht, und daß es nur noch netto 22 Tage"
-35,2530,break,high,short_line+column,0.31,23,75,Berlin den 25ten Aprill,1808
-35,2531,break,high,short_line+column,0.05,4,75,1808,treu gehorsamster Diener
-35,2532,break,high,short_line+column,0.32,24,75,treu gehorsamster Diener,v Triebenfeld
+35,2526,break,held,short_line+column,0.2,15,75,Ewr Durchlaucht,treu gehorsamster Diener
+35,2527,break,high,short_line+column,0.32,24,75,treu gehorsamster Diener,v Triebenfeld
+35,2528,break,held,short_line+column,0.17,13,75,v Triebenfeld,Berlin den 25ten Aprill
+35,2529,run,held,short_line+column,0.31,23,75,Berlin den 25ten Aprill,1808
+35,2530,break,held,short_line+column,0.05,4,75,1808,Ich bemerke daß der Zahlungs Termin an von der Laar
+35,2531,run,review,short_line,0.68,51,75,Ich bemerke daß der Zahlungs Termin an von der Laar,"den 14ten May ansteht, und daß es nur noch netto 22 Tage"
 36,2536,run,review,short_line,0.07,2,27,36,Cococe[?]t Schreibens an des Herrn
 36,2539,run,review,short_line,0.7,19,27,Ehefrau gegebohrner,Reichts hat mir seit langer Zeit
 36,2558,run,review,short_line,0.63,17,27,wie festgegründet,meine Hochachtung u. Freundsch
@@ -527,10 +527,11 @@
 37,2828,run,review,short_line,0.32,25,78,Gnädigster Fürst und Herr,Ewr Durchlaucht gnädiges Schreiben von 23ten Aprill habe ich so eben e
 37,2837,break,high,short_line,0.47,37,78,daß darauf ein Groschen gezogen wird.,"Die Assignation liegt bey dem Geheimen Rath Amelang, diesem dürfen Ewr"
 37,2840,break,high,short_line,0.29,23,78,weit befriedigen würde.,"Solte dies nicht geschehen, so muß ich sie in allen öffentlichen Blätt"
-37,2857,run,review,short_line,0.38,15,39,Ewr Durchlaucht,Mit meiner Genesung geht es sehr Schnekenartig
-37,2860,break,high,short_line+column,0.46,18,39,Berlin d. 2ten May,1808
-37,2861,break,high,short_line+column,0.1,4,39,1808,Unterthäniger Diener
-37,2862,break,high,short_line+column,0.51,20,39,Unterthäniger Diener,v Triebenfeld
+37,2857,run,held,short_line+column,0.47,15,32,Ewr Durchlaucht,Unterthäniger Diener
+37,2858,break,high,short_line+column,0.62,20,32,Unterthäniger Diener,v Triebenfeld
+37,2859,break,held,short_line+column,0.41,13,32,v Triebenfeld,Berlin d. 2ten May
+37,2860,run,held,short_line+column,0.56,18,32,Berlin d. 2ten May,1808
+37,2861,break,held,short_line,0.12,4,32,1808,Mit meiner Genesung geht es sehr Schnekenartig
 38,2866,break,high,short_line+column,0.03,2,80,38,Gnädigster Fürst und Herr
 38,2867,run,review,short_line,0.31,25,80,Gnädigster Fürst und Herr,"Ich liege nach den vielen Ärger, der meine Gesundheit ganz unter grabe"
 38,2869,run,review,short_line,0.52,41,80,kunde nicht viel schreiben. Nur jezt dies,die 3000 rt habe ich von den Banquier Veit erhalten auch nur gestern A
@@ -692,13 +693,13 @@
 49,3725,run,review,short_line,0.53,25,47,Gnädigster Fürst und Herr,Wie froh war ich als man mir meldete daß ein Bothe aus Ewer Durchlauch
 49,3733,break,high,short_line,0.47,22,47,aus Neufallen[?] habe.,Ich sehne auch so herzlich mich Ewr Hochfürstliche Durchlaucht persönl
 49,3747,break,high,short_line+column,0.64,30,47,In tiefster Verehrung ersterbe,Ewr Hochfürstliche Durchlaucht
-49,3748,break,high,short_line+column,0.64,30,47,Ewr Hochfürstliche Durchlaucht,Es heißt daß ein Rußisches Corps
-49,3749,run,review,short_line,0.68,32,47,Es heißt daß ein Rußisches Corps,an der po[hl]. und Schlesischen Gränze zu
-49,3752,break,high,short_line+column,0.13,6,47,Kontop,den 20ten Marz
-49,3753,break,high,short_line+column,0.3,14,47,den 20ten Marz,1809.
-49,3754,break,high,short_line,0.11,5,47,1809.,treu unterthäniger Diener
-49,3755,break,high,short_line+column,0.53,25,47,treu unterthäniger Diener,v Triebenfeld
-49,3756,break,held,short_line,0.28,13,47,v Triebenfeld,"Van der Lahr wünscht, daß er nur Scheinen"
+49,3748,break,held,short_line+column,0.64,30,47,Ewr Hochfürstliche Durchlaucht,treu unterthäniger Diener
+49,3749,break,high,short_line+column,0.53,25,47,treu unterthäniger Diener,v Triebenfeld
+49,3750,break,held,short_line+column,0.28,13,47,v Triebenfeld,Kontop
+49,3751,run,held,short_line+column,0.13,6,47,Kontop,den 20ten Marz
+49,3752,run,held,short_line+column,0.3,14,47,den 20ten Marz,1809.
+49,3753,break,held,short_line,0.11,5,47,1809.,Es heißt daß ein Rußisches Corps
+49,3754,run,review,short_line,0.68,32,47,Es heißt daß ein Rußisches Corps,an der po[hl]. und Schlesischen Gränze zu
 49,3759,run,review,short_line,0.66,31,47,im Gebunde von halben Centner —,Erbarmen sich Ewr Durchlaucht und laßen
 50,3764,run,review,short_line,0.05,2,39,50,Ich war im Jahr 1808 bis zum 14ten Febr
 50,3787,break,high,short_line,0.62,24,39,haben wolle / aufnehmen.,Die Papiere standen sehr niedrig indes zwang dem
@@ -761,16 +762,16 @@
 54,4061,run,review,short_line,0.43,23,54,1000 Cente Eysen wieder,Sie geruhen es aber bis Boyadel bey Grüneberg zu Schiffern
 54,4067,break,high,short_line,0.22,12,54,bis Boyadel.,In tiefsten Respect ersterbe.
 54,4068,break,high,short_line,0.54,29,54,In tiefsten Respect ersterbe.,Ewer Hochfürstliche Durchlaucht
-54,4069,break,high,short_line+column,0.57,31,54,Ewer Hochfürstliche Durchlaucht,Die Antwort von v. d. Lahr ist mit
-54,4070,break,high,short_line+column,0.63,34,54,Die Antwort von v. d. Lahr ist mit,Amelangs Bruch in Kontop bey
-54,4071,break,high,short_line+column,0.52,28,54,Amelangs Bruch in Kontop bey,"geblieben, ich werde selbigen mit"
-54,4072,break,high,short_line+column,0.61,33,54,"geblieben, ich werde selbigen mit",erster Post unterthänigst übermachen
-54,4073,break,high,short_line+column,0.67,36,54,erster Post unterthänigst übermachen,Glogau
-54,4074,break,high,short_line+column,0.11,6,54,Glogau,den 21ten März
-54,4075,break,high,short_line+column,0.26,14,54,den 21ten März,1809.
-54,4076,break,high,short_line,0.09,5,54,1809.,treu gehorsamster Diener
-54,4077,break,high,short_line+column,0.44,24,54,treu gehorsamster Diener,v Triebenfeld
-54,4078,break,held,short_line,0.24,13,54,v Triebenfeld,"laßen Ewr durchlaucht, ist ja nicht lange auf Antwort warten, den aben"
+54,4069,break,held,short_line+column,0.57,31,54,Ewer Hochfürstliche Durchlaucht,treu gehorsamster Diener
+54,4070,break,high,short_line+column,0.44,24,54,treu gehorsamster Diener,v Triebenfeld
+54,4071,break,held,short_line+column,0.24,13,54,v Triebenfeld,Glogau
+54,4072,run,held,short_line+column,0.11,6,54,Glogau,den 21ten März
+54,4073,run,held,short_line+column,0.26,14,54,den 21ten März,1809.
+54,4074,break,held,short_line,0.09,5,54,1809.,Die Antwort von v. d. Lahr ist mit
+54,4075,break,high,short_line+column,0.63,34,54,Die Antwort von v. d. Lahr ist mit,Amelangs Bruch in Kontop bey
+54,4076,break,high,short_line+column,0.52,28,54,Amelangs Bruch in Kontop bey,"geblieben, ich werde selbigen mit"
+54,4077,break,high,short_line+column,0.61,33,54,"geblieben, ich werde selbigen mit",erster Post unterthänigst übermachen
+54,4078,break,held,short_line,0.67,36,54,erster Post unterthänigst übermachen,"laßen Ewr durchlaucht, ist ja nicht lange auf Antwort warten, den aben"
 55,4085,break,high,short_line+column,0.03,2,80,55,"Durchlauchtigster Fürst,"
 55,4086,break,high,short_line+column,0.3,24,80,"Durchlauchtigster Fürst,",gnädigſter Fürſt und Herr!
 55,4087,break,high,short_line,0.33,26,80,gnädigſter Fürſt und Herr!,In diesem Augenblick als ich von Glatz retournire finde ich Ewer Hochf
@@ -828,9 +829,10 @@
 58,4457,break,high,short_line,0.49,29,59,daß ich mit einsenden können.,zu läufftens 10 Tagen lege ich Höchst denenselbe mich persönlich
 58,4463,break,high,short_line+column,0.66,39,59,und alles gewinnt eine andern Gestalt —,Ehrfurchtsvoll ersterbe als
 58,4464,break,high,short_line+column,0.46,27,59,Ehrfurchtsvoll ersterbe als,Ewr Hochfürstliche Durchlaucht
-58,4465,run,review,short_line,0.51,30,59,Ewr Hochfürstliche Durchlaucht,In Sudpreußen wird Ewr Durchlaucht von Mühe und
-58,4470,break,high,short_line,0.46,27,59,Breslau den 3ten Juny 1809.,treu gehorsamster Diener
-58,4471,break,high,short_line+column,0.41,24,59,treu gehorsamster Diener,v Triebenfeld
+58,4465,run,held,short_line+column,0.51,30,59,Ewr Hochfürstliche Durchlaucht,treu gehorsamster Diener
+58,4466,break,high,short_line+column,0.41,24,59,treu gehorsamster Diener,v Triebenfeld
+58,4467,break,held,short_line+column,0.22,13,59,v Triebenfeld,Breslau den 3ten Juny 1809.
+58,4468,break,held,short_line,0.46,27,59,Breslau den 3ten Juny 1809.,In Sudpreußen wird Ewr Durchlaucht von Mühe und
 59,4475,break,high,short_line+column,0.03,2,73,59,Durchlauchtigster Fürst
 59,4476,break,high,short_line+column,0.32,23,73,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 59,4477,break,high,short_line,0.36,26,73,Gnädigster Fürst und Herr!,Seit meiner Rückkunft aus Königsberg habe ich noch keine ruhige Stunde
@@ -941,15 +943,15 @@
 65,5102,break,high,short_line,0.57,35,61,bey Gott rufen — Hau zu Freund Ham.,"Für die Zukunft will ich mich für ein Recidio dieser Art hüthen, und d"
 65,5111,break,high,rubric,1.08,66,61,wohl beendigt sind wornach ich dann sofort von hier über Gla,f. w nach Schlawenschitz abreisen kan. Nur gerne möchte ich Ewr
 65,5116,break,high,short_line+column,0.46,28,61,In tiefsten Respect ersterbe,Ewr Hochfürstliche Durchlaucht
-65,5117,break,high,short_line+column,0.49,30,61,Ewr Hochfürstliche Durchlaucht,Ein gewißer Margraff aus Berlin schreibt
-65,5118,break,high,short_line+column,0.66,40,61,Ein gewißer Margraff aus Berlin schreibt,heute die Fürsten Sacken sey sehr schwach
-65,5119,break,high,short_line+column,0.67,41,61,heute die Fürsten Sacken sey sehr schwach,"Ich weiß nicht was daran ist — Es ist,"
-65,5120,break,high,short_line+column,0.62,38,61,"Ich weiß nicht was daran ist — Es ist,",dies ho[?]t nie[?] ehrlicher Mann —
-65,5121,break,high,short_line+column,0.57,35,61,dies ho[?]t nie[?] ehrlicher Mann —,Kontop
-65,5122,break,high,short_line+column,0.1,6,61,Kontop,d 9tn Octobr
-65,5123,break,high,short_line+column,0.2,12,61,d 9tn Octobr,1809.
-65,5124,break,high,short_line,0.08,5,61,1809.,treu unterthänigster Diener
-65,5125,break,high,short_line+column,0.44,27,61,treu unterthänigster Diener,v Triebenfeld
+65,5117,break,held,short_line+column,0.49,30,61,Ewr Hochfürstliche Durchlaucht,treu unterthänigster Diener
+65,5118,break,high,short_line+column,0.44,27,61,treu unterthänigster Diener,v Triebenfeld
+65,5119,break,held,short_line+column,0.21,13,61,v Triebenfeld,Kontop
+65,5120,run,held,short_line+column,0.1,6,61,Kontop,d 9tn Octobr
+65,5121,run,held,short_line+column,0.2,12,61,d 9tn Octobr,1809.
+65,5122,break,held,short_line,0.08,5,61,1809.,Ein gewißer Margraff aus Berlin schreibt
+65,5123,break,high,short_line+column,0.66,40,61,Ein gewißer Margraff aus Berlin schreibt,heute die Fürsten Sacken sey sehr schwach
+65,5124,break,high,short_line+column,0.67,41,61,heute die Fürsten Sacken sey sehr schwach,"Ich weiß nicht was daran ist — Es ist,"
+65,5125,break,high,short_line+column,0.62,38,61,"Ich weiß nicht was daran ist — Es ist,",dies ho[?]t nie[?] ehrlicher Mann —
 66,5129,run,review,short_line,0.03,2,61,66,Das Urteil wird nun wohl dahin / wie man mir schreibt / ausfallen
 66,5133,break,high,short_line,0.54,33,61,ausgestänzt und Landes verwiesen.,"Wegen Hecker werde ich dennoch um seines Vaters willen, der Ober"
 66,5142,run,review,short_line,0.52,32,61,ſo muß man darauf nicht höhren —,"Haben die Kerls nichts, so kan man ihnen vor der Hand nichtes nehmen."
@@ -964,9 +966,9 @@
 66,5202,break,high,short_line+column,0.27,17,64,Es liegen hier an,Kontop den 16ten Decbr
 66,5203,break,high,short_line+column,0.34,22,64,Kontop den 16ten Decbr,1809.
 66,5204,break,high,short_line,0.08,5,64,1809.,treuester Knecht
-66,5205,break,high,short_line+column,0.25,16,64,treuester Knecht,v Triebenfeld
+66,5205,break,held,short_line+column,0.25,16,64,treuester Knecht,v Triebenfeld
 66,5239,break,high,short_line,0.72,43,60,8000 rt in klingend Courant bezahlt werden.,der General Lieferant Coste würde die Gelder sogleich anweisen.
-66,5247,break,high,rubric,0.9,54,60,zurük — Coste mit dafür aus Pohlen wohlfeiles Getraide,16. Xbr. 1809
+66,5248,break,held,rubric+short_line,0.22,13,60,v Triebenfeld,16. Xbr. 1809
 67,5252,break,high,short_line+column,0.03,2,63,67,Durchlauchtigſter Fürſt
 67,5253,break,high,short_line+column,0.37,23,63,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
 67,5254,break,high,short_line,0.41,26,63,Gnädigster Fürst und Herr!,Ewer Durchlaucht höchst gnädiges Schreiben von 24 ten erhielt ich heut
@@ -1033,9 +1035,10 @@
 71,5550,break,high,short_line+column,0.35,23,66,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 71,5551,break,high,short_line,0.39,26,66,Gnädigster Fürst und Herr!,Die Rochlitzsche Sache ist wie die Beilage zeigt nun eingeleitet und E
 71,5564,break,high,short_line,0.55,36,66,"zu geben weigerte, abgefordert habe.",Geruhen Ewr Durchlaucht mir auf das allerbaldigste zwey bis drey
-71,5578,break,high,short_line+column,0.22,6,27,Kontop,d 30ten Merz
-71,5579,break,high,short_line+column,0.44,12,27,d 30ten Merz,1810
-71,5580,run,review,short_line,0.15,4,27,1810,treu gehorſamſter Knecht
+71,5577,break,held,short_line+column,0.48,13,27,v Triebenfeld,Kontop
+71,5578,run,held,short_line+column,0.22,6,27,Kontop,d 30ten Merz
+71,5579,run,held,short_line+column,0.44,12,27,d 30ten Merz,1810
+71,5580,break,held,short_line,0.15,4,27,1810,Die Pohlinische Sachen werden sehr an¬
 72,5585,break,high,short_line+column,0.04,2,55,72,"Hochwohlgebohrner Herr,"
 72,5586,run,review,short_line,0.42,23,55,"Hochwohlgebohrner Herr,",Hochgeehrtester Herr Krieges und Forst Rath!
 72,5593,break,high,rubric,1.04,57,55,"rechnet, daß ich darüber das ganze Tausch Projekt mit dem",H. General v Schimmelpfennig Ew. Hochwohlgebohren Willens
@@ -1158,9 +1161,9 @@
 77,6414,break,high,short_line+column,0.68,28,41,und dreiber ergebenster dier,— H.
 77,6415,break,high,short_line,0.1,4,41,— H.,Ich werde solche nur etwan in allerdringendeste Falle
 77,6422,break,high,short_line,0.71,29,41,ſchon die Sache gediehen iſt.,In tiefſter Hochachtung erſterbe
-77,6424,break,high,rubric,0.73,30,41,Ewr Hochfürstliche Durchlaucht,H. v Buerensprung ist aber Land Forst
-77,6430,break,high,short_line+column,0.61,25,41,Berlin d 6ten Octobr 1798,unterthänigſter treuer Knecht
-77,6431,break,high,short_line+column,0.71,29,41,unterthänigſter treuer Knecht,v Triebenfeld
+77,6425,break,high,short_line+column,0.71,29,41,unterthänigſter treuer Knecht,v Triebenfeld
+77,6426,break,held,short_line+column,0.32,13,41,v Triebenfeld,Berlin d 6ten Octobr 1798
+77,6427,break,held,rubric+short_line,0.61,25,41,Berlin d 6ten Octobr 1798,H. v Buerensprung ist aber Land Forst
 78,6435,break,high,short_line+column,0.04,2,51,78,"Durchlauchtigster Fürst,"
 78,6436,break,high,short_line+column,0.47,24,51,"Durchlauchtigster Fürst,",Gnädigster Fürst und Herr!
 78,6437,break,high,short_line,0.51,26,51,Gnädigster Fürst und Herr!,Euer hochfürstl. durchl. Gnädigem befehl habe ich genügt
@@ -1301,9 +1304,10 @@
 90,7296,break,high,short_line,0.34,16,47,Gnädigster Herr!,Jezt gilt die Sache — nun ist der Kampf groß — ich hoffe zu
 90,7303,run,review,short_line,0.55,26,47,würde. Es kan wohl so sein,Allen wie gesagt Gott wird helfen — Es ist wahrlich
 90,7305,break,high,short_line,0.62,29,47,ſchräcklich wie es hier geht.,Der Monarch ist gut — nur die Mini — o Gott das
-90,7313,run,review,short_line,0.64,30,47,Ewr Hochfürstliche Durchlaucht,"Ich gebe alles wegen es erfordert sei, und habe ich nichts mehr"
-90,7317,break,high,short_line,0.53,25,47,Berlin d. 14ten Xbr 1798.,treu unterthänigsten Knecht
-90,7318,break,high,short_line+column,0.57,27,47,treu unterthänigsten Knecht,v Triebenfeld
+90,7313,run,held,short_line+column,0.64,30,47,Ewr Hochfürstliche Durchlaucht,treu unterthänigsten Knecht
+90,7314,break,high,short_line+column,0.57,27,47,treu unterthänigsten Knecht,v Triebenfeld
+90,7315,break,held,short_line+column,0.28,13,47,v Triebenfeld,Berlin d. 14ten Xbr 1798.
+90,7316,break,held,short_line,0.53,25,47,Berlin d. 14ten Xbr 1798.,"Ich gebe alles wegen es erfordert sei, und habe ich nichts mehr"
 91,7322,break,high,short_line+column,0.05,2,38,91,Durchläuchtigſter Fürſt.
 91,7323,break,high,salutation+short_line,0.63,24,38,Durchläuchtigſter Fürſt.,Gnädigster Herr.
 91,7324,break,high,short_line,0.42,16,38,Gnädigster Herr.,Ew Hochfürstlichen Durchlaucht danke ich
@@ -1345,8 +1349,9 @@
 95,7484,break,high,short_line,0.33,16,48,Gnädigster Herr!,Der würdige Obrist v. Köckritz hatt mir aufgetragen
 95,7509,run,review,short_line,0.7,33,47,schaden der wahrhaft gute Monarch,ist unpaß daher ist jezt kein Vortrag sonsten
 95,7523,run,review,short_line,0.16,6,37,soll —,Man glaubt an einen Frieden mit dem Kayser
-95,7531,break,high,short_line+column,0.68,25,37,Berlin den 29ten Xbr 1798,treu untertänigster Diener
-95,7532,break,high,short_line+column,0.7,26,37,treu untertänigster Diener,v Triebenfeld
+95,7528,break,high,short_line+column,0.7,26,37,treu untertänigster Diener,v Triebenfeld
+95,7529,break,held,short_line+column,0.35,13,37,v Triebenfeld,Berlin den 29ten Xbr 1798
+95,7530,break,held,short_line,0.68,25,37,Berlin den 29ten Xbr 1798,Ehe ich komme erhalte Ewr Durchlaucht
 96,7536,break,high,short_line+column,0.04,2,54,96,Durchlauchtigſter Fürſt
 96,7537,break,high,short_line+column,0.42,23,54,Durchlauchtigſter Fürſt,Gnädigster Herr!
 96,7538,break,high,short_line,0.29,16,54,Gnädigster Herr!,Der wahrhaft verehrungswürdige Obrist v Köckritz hatt
@@ -1357,12 +1362,12 @@
 96,7597,break,high,short_line,0.68,40,59,Sachen in Cab[inet]: selbst lesen laßen.,"behalten und es Ewr Durchlaucht alles Gehirn, und glauben jeden aus"
 96,7599,break,high,short_line,0.69,41,59,Politique was er zu lügen vor gut findet.,In tiefsten Respect ersterbe.
 96,7600,break,high,short_line,0.49,29,59,In tiefsten Respect ersterbe.,Ewr Hochfürstliche Durchlaucht
-96,7601,break,high,short_line+column,0.51,30,59,Ewr Hochfürstliche Durchlaucht,Soll etwa das Urlaubs Gesuch
-96,7602,break,high,short_line+column,0.47,28,59,Soll etwa das Urlaubs Gesuch,von G geschrieben worden damit es
-96,7603,break,high,short_line+column,0.56,33,59,von G geschrieben worden damit es,mir Hand bleibt?
-96,7604,break,high,short_line,0.27,16,59,mir Hand bleibt?,Berlin d 1ten Januar 1799
-96,7605,break,high,short_line+column,0.42,25,59,Berlin d 1ten Januar 1799,untertänigster treuer Diener
-96,7606,break,high,short_line+column,0.47,28,59,untertänigster treuer Diener,v Triebenfeld
+96,7601,break,held,short_line+column,0.51,30,59,Ewr Hochfürstliche Durchlaucht,untertänigster treuer Diener
+96,7602,break,high,short_line+column,0.47,28,59,untertänigster treuer Diener,v Triebenfeld
+96,7603,break,held,short_line+column,0.22,13,59,v Triebenfeld,Berlin d 1ten Januar 1799
+96,7604,break,held,short_line+column,0.42,25,59,Berlin d 1ten Januar 1799,Soll etwa das Urlaubs Gesuch
+96,7605,break,high,short_line+column,0.47,28,59,Soll etwa das Urlaubs Gesuch,von G geschrieben worden damit es
+96,7606,break,high,short_line+column,0.56,33,59,von G geschrieben worden damit es,mir Hand bleibt?
 97,7610,break,high,short_line+column,0.04,2,52,97,Durchlauchtigſter Fürſt
 97,7611,break,high,short_line+column,0.44,23,52,Durchlauchtigſter Fürſt,Gnädigster Herr!
 97,7612,break,high,short_line,0.31,16,52,Gnädigster Herr!,Des Königs Majestät wünschen daß Ewr Hochfürstliche Durchlaucht
@@ -1491,15 +1496,14 @@
 104,8222,run,review,short_line,0.25,14,56,sche gelange —,Der Monarch will Ewr Hochfürstliche Durchlaucht wohl und
 104,8234,break,high,short_line,0.57,32,56,ihm um dies Geschäft abzumachen.,Alles andere werde ich bestens besorgen. Übrigens
 104,8240,run,review,short_line,0.26,12,46,gesagt — Als,"""Mein Gott Sie durchlaucht quälen mich, ich soll mich die"
-104,8255,break,high,short_line+column,0.65,30,46,Ewr Hochfürstliche Durchlaucht,Etwann den 16ten April gehn ich
-104,8256,break,high,short_line+column,0.67,31,46,Etwann den 16ten April gehn ich,von hier nach Berlin wo ich
-104,8257,break,high,short_line+column,0.59,27,46,von hier nach Berlin wo ich,bis Ende May bleibe
-104,8258,run,review,short_line,0.41,19,46,bis Ende May bleibe,Die Güter welche ich dem Prinzen George verkauft fallen jezt
-104,8262,run,review,short_line,0.57,26,46,bei ich ein zu gutwilliger,Tropf und Thun öfters eine und einen
-104,8264,break,high,short_line+column,0.3,14,46,Kindern Schade,Breslau den 3ten April
-104,8265,break,high,short_line+column,0.48,22,46,Breslau den 3ten April,1799
-104,8266,break,high,short_line+column,0.09,4,46,1799,treu unterthänigster Knecht
-104,8267,break,high,rubric+short_line,0.59,27,46,treu unterthänigster Knecht,v. Triebenfeld
+104,8255,break,held,short_line+column,0.65,30,46,Ewr Hochfürstliche Durchlaucht,treu unterthänigster Knecht
+104,8256,break,high,rubric+short_line,0.59,27,46,treu unterthänigster Knecht,v. Triebenfeld
+104,8258,run,held,short_line+column,0.48,22,46,Breslau den 3ten April,1799
+104,8259,break,held,short_line+column,0.09,4,46,1799,Etwann den 16ten April gehn ich
+104,8260,break,high,short_line+column,0.67,31,46,Etwann den 16ten April gehn ich,von hier nach Berlin wo ich
+104,8261,break,high,short_line+column,0.59,27,46,von hier nach Berlin wo ich,bis Ende May bleibe
+104,8262,run,review,short_line,0.41,19,46,bis Ende May bleibe,Die Güter welche ich dem Prinzen George verkauft fallen jezt
+104,8266,run,review,short_line,0.57,26,46,bei ich ein zu gutwilliger,Tropf und Thun öfters eine und einen
 105,8271,break,high,short_line+column,0.05,3,55,105,Durchlauchtigſter Fürſt
 105,8272,break,high,short_line+column,0.42,23,55,Durchlauchtigſter Fürſt,Höchst gnädigster Herr!
 105,8273,break,high,short_line,0.42,23,55,Höchst gnädigster Herr!,Dem Grafen Schlabrendorff habe ich befriediget und die
@@ -1558,11 +1562,11 @@
 110,8558,break,high,short_line+column,0.06,3,54,110,Durchlauchtigster Fürst
 110,8559,break,high,short_line+column,0.43,23,54,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 110,8560,break,high,short_line,0.48,26,54,Gnädigster Fürst und Herr!,Das Geschäft wegen der Urkunden über sämtliche Geistliche Güter glaube
-110,8579,break,high,short_line+column,0.56,30,54,Ewr Hochfürstliche Durchlaucht,NB. statt 14175 — und 1500 —
-110,8580,break,high,short_line+column,0.52,28,54,NB. statt 14175 — und 1500 —,Berlin den 7ten Febr.
-110,8581,break,high,short_line,0.39,21,54,Berlin den 7ten Febr.,1801.
-110,8582,break,high,short_line,0.09,5,54,1801.,treuer Knecht
-110,8583,break,high,short_line+column,0.24,13,54,treuer Knecht,v Triebenfeld
+110,8579,break,held,short_line+column,0.56,30,54,Ewr Hochfürstliche Durchlaucht,treuer Knecht
+110,8580,break,high,short_line+column,0.24,13,54,treuer Knecht,v Triebenfeld
+110,8581,break,held,short_line+column,0.24,13,54,v Triebenfeld,Berlin den 7ten Febr.
+110,8582,run,held,short_line,0.39,21,54,Berlin den 7ten Febr.,1801.
+110,8583,break,held,short_line,0.09,5,54,1801.,NB. statt 14175 — und 1500 —
 111,8587,break,high,short_line+column,0.06,3,52,111,Durchlauchtigster Fürst
 111,8588,break,high,short_line+column,0.45,23,52,Durchlauchtigster Fürst,Gnädigster Herr!
 111,8589,break,high,short_line,0.31,16,52,Gnädigster Herr!,Ich habe das Geld zur Auslösung der Urkunde nicht aufbringen
@@ -1650,50 +1654,51 @@
 118b,8975,run,review,short_line,0.41,19,46,1805 warten solte —,Ist dem so daß Ewer durchlaucht bis dahin keine Interessen zahlen
 118b,8983,break,high,short_line,0.43,20,46,heraus bekommen kan.,Der Conducteur Cabanis ist abgegangen
 118b,8989,break,high,short_line+column,0.72,33,46,noch auf Entter und Gott weis was,eine Beihülfe —
-118b,8990,break,high,short_line+column,0.33,15,46,eine Beihülfe —,Breslau den 29ten Marz 1804.
-118b,8991,break,high,short_line,0.61,28,46,Breslau den 29ten Marz 1804.,v Triebenfeld
+118b,8990,break,held,short_line+column,0.33,15,46,eine Beihülfe —,v Triebenfeld
+118b,8991,break,held,short_line+column,0.28,13,46,v Triebenfeld,Breslau den 29ten Marz 1804.
 118c,9002,run,review,short_line,0.43,19,44,1805 warten solte —,Ist dem so daß Ewr Durchlaucht bis dahin keine Intressen zahlen
 118c,9010,break,high,short_line,0.45,20,44,heraus bekommen kan.,Der Conducteur Cabanis ist abgegangen
-118c,9017,break,high,short_line+column,0.29,13,44,eine Beihülfe,Breslau den 29ten Marz 1804.
-118c,9018,break,high,short_line,0.63,28,44,Breslau den 29ten Marz 1804.,v Triebenfeld
+118c,9017,break,held,short_line+column,0.29,13,44,eine Beihülfe,v Triebenfeld
+118c,9018,break,held,short_line+column,0.29,13,44,v Triebenfeld,Breslau den 29ten Marz 1804.
 119,9022,run,review,short_line,0.05,3,62,119,Der Prinz Biron hatt gestern sagen laßen — Uminski fände
 119,9032,run,review,short_line,0.5,31,62,desfals meine Meinung eröffenen,Der Bote von Zagorowo ist zurück und hat beifolgende Piecen
 119,9042,break,high,short_line,0.11,7,62,wollen.,Der Geometer Cabanis hat vor 3 Jahre das Gütchen Betsche unter
 119,9055,break,high,short_line,0.37,15,41,gezogen werden.,Die Rapackische Kauf lustige Taugen nicht
 119,9060,break,high,short_line,0.61,25,41,ist damit zurük gekommen.,"Lieber sind mir die Husiten, den ich werde"
-119,9068,break,high,short_line,0.24,10,41,überlaßen.,Breslau den 29ten Marz 1804
-119,9069,break,high,short_line+column,0.66,27,41,Breslau den 29ten Marz 1804,v Triebenfeld
+119,9068,break,held,short_line,0.24,10,41,überlaßen.,v Triebenfeld
+119,9069,break,held,short_line+column,0.32,13,41,v Triebenfeld,Breslau den 29ten Marz 1804
 120,9073,run,review,short_line,0.05,3,56,120,Cabanis ist gestern mit der guten Nachricht zurück gekommen
 120,9075,break,high,short_line,0.54,30,56,daß die Husiten kaufen wollen.,"Es sind in Husinich, Rentsch und in der Gegend schon eine ziemliche"
-120,9107,break,high,short_line,0.58,34,59,diesen theuren Zeiten zu erhalten.,Breslau d 2ten Aprill 1804.
-120,9108,break,high,short_line,0.46,27,59,Breslau d 2ten Aprill 1804.,v Triebenfeld
+120,9107,break,held,short_line,0.58,34,59,diesen theuren Zeiten zu erhalten.,v Triebenfeld
+120,9108,break,held,short_line+column,0.22,13,59,v Triebenfeld,Breslau d 2ten Aprill 1804.
 122,9114,run,review,short_line,0.06,3,46,122,Beigehendes Billet habe ich heute früh erhalten — Es war
-122,9125,break,high,short_line,0.32,15,46,Sylbe erhalten.,Breslau d 6ten April
-122,9126,break,high,short_line+column,0.43,20,46,Breslau d 6ten April,1804.
-122,9127,break,high,short_line,0.11,5,46,1804.,v Triebenfeld
+122,9125,break,held,short_line,0.32,15,46,Sylbe erhalten.,v Triebenfeld
+122,9126,break,held,short_line+column,0.28,13,46,v Triebenfeld,Breslau d 6ten April
+122,9127,run,held,short_line+column,0.43,20,46,Breslau d 6ten April,1804.
 123,9131,run,review,short_line,0.05,3,62,123,Gestern Abend spät erhielt ich per Estaffette beigehende Schrei¬
 123,9140,break,high,short_line,0.55,34,62,zum Vergleich gegeben werden soll.,daß übrigens der Kunckel und Jentsch sich so entgegen zu handeln
 123,9146,break,high,short_line,0.55,34,62,und in ihren Schrancken zu weisen.,Glenck ist gestern nicht mehr zu mich gekommen und hatt so
-123,9149,break,high,short_line,0.62,38,62,in dieser Sache einen Aufschlus gaben.,Breslau den 23ten April 1804
-123,9150,break,high,short_line+column,0.46,28,62,Breslau den 23ten April 1804,v Triebenfeld
+123,9149,break,held,short_line,0.62,38,62,in dieser Sache einen Aufschlus gaben.,v Triebenfeld
+123,9150,break,held,short_line+column,0.21,13,62,v Triebenfeld,Breslau den 23ten April 1804
 124,9154,break,high,short_line+column,0.06,3,47,124,Ewr Hochfürstliche Durchlaucht
 124,9155,run,review,short_line,0.64,30,47,Ewr Hochfürstliche Durchlaucht,überreiche ich anliegend die Beantwortung
 124,9162,break,high,short_line,0.53,25,47,meinen Schwager retirirt.,"In meinen Schreiben so ich Kunckel mit sende, werde ich"
-124,9167,break,high,short_line+column,0.55,26,47,Breslau d 24ten April 1804,v Triebenfeld
+124,9167,break,held,short_line+column,0.28,13,47,v Triebenfeld,Breslau d 24ten April 1804
 125,9171,run,review,short_line,0.1,3,29,125,Seiner Hochfürstliche
 125,9173,run,review,short_line,0.38,11,29,Durchlaucht,Die Leute aus Olesnica sind mit die Gelder an
+125,9181,break,held,short_line,0.45,13,29,v Triebenfeld,Breslau den 28ten April 1804
 126,9185,break,high,short_line+column,0.07,3,42,126,Seiner Hochfürstliche
 126,9186,break,high,short_line+column,0.5,21,42,Seiner Hochfürstliche,Durchlaucht
 126,9187,run,review,short_line,0.26,11,42,Durchlaucht,Cabanis ist mit den Hussiten zurück — Es hat
 126,9196,break,high,short_line,0.26,11,42,zu bringen.,Ich arbeite hier mit die Olesnicer Leute —
-126,9202,break,high,short_line,0.62,26,42,weiter gethan werden soll.,Breslau den 30ten April 1804
-126,9203,break,high,short_line+column,0.67,28,42,Breslau den 30ten April 1804,v Triebenfeld
+126,9202,break,held,short_line,0.62,26,42,weiter gethan werden soll.,v Triebenfeld
+126,9203,break,held,short_line+column,0.31,13,42,v Triebenfeld,Breslau den 30ten April 1804
 127,9207,run,review,short_line,0.07,3,45,127,"Alles bitten hilft nichts, ich soll um muß zahlen"
 127,9210,break,high,short_line,0.62,28,45,Groſchen Zinsen berichtiget.,Ich muß also die von Prinzen fürs Inventarium unter
 127,9214,break,high,short_line,0.62,28,45,desgl Prozeß Kosten = 35 rt.,zu sammen = 910 rt.
 127,9215,break,high,short_line,0.42,19,45,zu sammen = 910 rt.,"bezahlen. Meine Casse ist erschöpft, den ich habe"
-127,9226,break,high,short_line+column,0.53,24,45,Durchlaucht unterstüzzen,Breslau den 2ten May 1804
-127,9227,break,high,short_line+column,0.56,25,45,Breslau den 2ten May 1804,v Triebenfeld
+127,9226,break,held,short_line+column,0.53,24,45,Durchlaucht unterstüzzen,v Triebenfeld
+127,9227,break,held,short_line+column,0.29,13,45,v Triebenfeld,Breslau den 2ten May 1804
 128,9231,break,high,short_line+column,0.05,3,59,128,Durchlauchtigster Fürst
 128,9232,break,high,short_line+column,0.39,23,59,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 128,9233,break,high,short_line,0.44,26,59,Gnädigster Fürst und Herr!,Wann gleich meine treue Anhänglichkeit an Ewr Hochfürstliche Durchlauc
@@ -1714,7 +1719,7 @@
 129,9340,break,high,rubric+short_line,0.56,28,50,Menschen komt vieles an. Dem,1. könte ſelch Wesen um in Pacht ſicher zu bleiben den
 129,9343,break,high,rubric+short_line,0.38,19,50,könte so ein Mensch,"2. Aus Gewinn ſolcht, ſich leicht erkaufen laßen, und dem"
 129,9350,break,high,short_line,0.54,27,50,der Beſten Seite ſchildert.,Nachmittag bringe ich das was nach Südpreußen zu
-129,9354,break,high,short_line,0.52,26,50,Breslau d. 15ten May 1804.,v Triebenfeld
+129,9354,break,held,short_line+column,0.26,13,50,v Triebenfeld,Breslau d. 15ten May 1804.
 130,9358,break,high,short_line+column,0.07,3,44,130,Durchlauchtigster Fürſt
 130,9359,break,high,short_line+column,0.52,23,44,Durchlauchtigster Fürſt,Gnädigster Fürst und Herr
 130,9360,run,review,short_line,0.57,25,44,Gnädigster Fürst und Herr,Vor etwan 2 Stunden bey ich hier angekommen und hörte zu
@@ -1944,11 +1949,12 @@
 146,10681,break,high,rubric+short_line,0.21,12,56,nuski cedirt,2. hat Szczucki solche mit Arrest belegt
 146,10682,break,high,rubric,0.71,40,56,2. hat Szczucki solche mit Arrest belegt,3. Ist das Document verlohren gegangen es kan nichts ge¬
 146,10687,break,high,short_line+column,0.66,37,56,cediren? In tiefsten Respect ersterbe,Ewr Hochfürstliche Durchlaucht
-146,10688,run,review,short_line,0.54,30,56,Ewr Hochfürstliche Durchlaucht,"Wegen Radzinski ist alles besorgt, die Regis¬"
-146,10693,break,high,short_line+column,0.14,8,56,Trąbczyn,den 17ten 9br
-146,10694,break,high,short_line+column,0.23,13,56,den 17ten 9br,1804
-146,10695,break,high,short_line+column,0.07,4,56,1804,unterthänigster Diener
-146,10696,break,high,short_line+column,0.39,22,56,unterthänigster Diener,v Triebenfeld
+146,10688,run,held,short_line+column,0.54,30,56,Ewr Hochfürstliche Durchlaucht,unterthänigster Diener
+146,10689,break,high,short_line+column,0.39,22,56,unterthänigster Diener,v Triebenfeld
+146,10690,break,held,short_line+column,0.23,13,56,v Triebenfeld,Trąbczyn
+146,10691,run,held,short_line+column,0.14,8,56,Trąbczyn,den 17ten 9br
+146,10692,run,held,short_line+column,0.23,13,56,den 17ten 9br,1804
+146,10693,break,held,short_line,0.07,4,56,1804,"Wegen Radzinski ist alles besorgt, die Regis¬"
 147,10700,break,high,short_line+column,0.04,3,67,147,Durchlauchtigſter Fürſt
 147,10701,break,high,short_line+column,0.34,23,67,Durchlauchtigſter Fürſt,Gnädigster Herr!
 147,10702,break,high,short_line,0.24,16,67,Gnädigster Herr!,"Ich habe die mühseeligste Reise, die ich in meinen Lebe gemacht, nach "
@@ -1965,8 +1971,8 @@
 148,10767,break,high,short_line+column,0.06,3,53,148,P[ro]. M[emoria].
 148,10768,break,high,short_line,0.32,17,53,P[ro]. M[emoria].,In dem Tableaux was Glenck Ewr Hochfürstliche Durchlaucht eben
 148,10779,break,high,short_line,0.3,16,53,laucht erwächſt.,Wann hierzu der Olesnicer Verlust mit 48000 rt gegen den
-148,10784,break,high,short_line+column,0.15,8,53,Trąbczyn,den 2ten Xbr 1804.
-148,10785,break,high,short_line,0.34,18,53,den 2ten Xbr 1804.,v Triebenfeld
+148,10784,break,held,short_line+column,0.25,13,53,v Triebenfeld,Trąbczyn
+148,10785,run,held,short_line+column,0.15,8,53,Trąbczyn,den 2ten Xbr 1804.
 149,10789,break,high,short_line+column,0.05,3,59,149,Durchlauchtigster Fürst
 149,10790,break,high,short_line+column,0.39,23,59,Durchlauchtigster Fürst,Gnädigster Herr!
 149,10791,break,high,short_line,0.27,16,59,Gnädigster Herr!,Noch immer sehe ich die Ankunft der Oder und Nezzbrücher Leute
@@ -2081,8 +2087,9 @@
 159,11330,break,high,short_line+column,0.53,23,43,Durchlauchtigster Fürst,Gnädigster Fürst und Herr
 159,11331,run,review,short_line,0.58,25,43,Gnädigster Fürst und Herr,Mitt der unsäglichsten Mühe hat endlich der redliche Ame¬
 159,11345,run,review,short_line,0.7,30,43,Ewr Hochfürstliche Durchlaucht,den Brief an die Herren Kuh geruhe
-159,11348,run,review,short_line,0.49,21,43,treu gehorsamster Dir,"Wie war ist wohl, in Stande die Dismembration"
-159,11351,break,high,short_line,0.67,29,43,Berlin den 31ten Januar 1805.,v Triebenfeld
+159,11348,run,held,short_line+column,0.49,21,43,treu gehorsamster Dir,v Triebenfeld
+159,11349,break,held,short_line+column,0.3,13,43,v Triebenfeld,Berlin den 31ten Januar 1805.
+159,11350,break,held,short_line,0.67,29,43,Berlin den 31ten Januar 1805.,"Wie war ist wohl, in Stande die Dismembration"
 160,11355,break,high,short_line+column,0.05,3,62,160,Durchlauchtigſter Fürſt
 160,11356,break,high,short_line+column,0.37,23,62,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
 160,11357,break,high,short_line,0.42,26,62,Gnädigster Fürst und Herr!,Es ist gränzenlos arg wie jezt alle Geschäfte hier erschwert werden.
@@ -2110,9 +2117,10 @@
 162,11485,run,review,short_line,0.47,26,55,und wir einigte uns wieder,"Er wünscht sehr baldigst drey branzirte Büsten, die er"
 162,11493,break,high,short_line,0.45,25,55,in die Tischler Magazine.,Ich mögte dem guten Mann gerne rechtschnell damit überaschun
 162,11506,break,high,short_line+column,0.58,32,55,In tiefster Hochachtung ersterbe,Ewr Hochfürstliche Durchlaucht
-162,11507,run,review,short_line,0.55,30,55,Ewr Hochfürstliche Durchlaucht,Wann ich nur bald die 3 franzirte Büſte und das Lavoir
-162,11510,break,high,short_line,0.51,28,55,Kalisz den 24ten Febr. 1805.,treu unterthäniger Diener
-162,11511,break,high,short_line+column,0.45,25,55,treu unterthäniger Diener,v Triebenfeld
+162,11507,run,held,short_line+column,0.55,30,55,Ewr Hochfürstliche Durchlaucht,treu unterthäniger Diener
+162,11508,break,high,short_line+column,0.45,25,55,treu unterthäniger Diener,v Triebenfeld
+162,11509,break,held,short_line+column,0.24,13,55,v Triebenfeld,Kalisz den 24ten Febr. 1805.
+162,11510,break,held,short_line,0.51,28,55,Kalisz den 24ten Febr. 1805.,Wann ich nur bald die 3 franzirte Büſte und das Lavoir
 163,11515,break,high,short_line+column,0.04,3,76,163,Durchlauchtigster Fürst
 163,11516,break,high,short_line+column,0.3,23,76,Durchlauchtigster Fürst,Gnädigſter Herr!
 163,11517,break,high,short_line,0.21,16,76,Gnädigſter Herr!,Ewr Hochfürstliche Durchlaucht gnädiges Schreiben habe ich per Estaffe
@@ -2346,9 +2354,10 @@
 177,12653,run,held,short_line,0.6,22,36,Berlin den 24ten Sept.,1805
 178,12657,break,high,short_line+column,0.07,3,44,178,Hochwohlgebohrner Herr
 178,12658,run,review,short_line,0.51,22,44,Hochwohlgebohrner Herr,Hochzuverehrender Herr Krieges und Forst Rath!
-178,12674,break,high,salutation,0.82,21,26,Triebenfeld geſchikt.,Ich habe die Ehre mit vollkommenster Verehrung
-178,12676,break,high,short_line,0.47,12,26,zu beharren.,Euer Hochwohlgebohren
-178,12681,break,high,short_line,0.2,5,26,1805.,unterthäniger Diener
+178,12674,break,high,salutation,1.0,21,21,Triebenfeld geſchikt.,Ich habe die Ehre mit vollkommenster Verehrung
+178,12676,break,high,short_line,0.57,12,21,zu beharren.,Euer Hochwohlgebohren
+178,12679,break,held,short_line,0.33,7,21,A: Hahn,Dresden d 8ten Nov:
+178,12681,break,held,short_line,0.24,5,21,1805.,N.S. Sr. Durchl. haben mich noch vor der Abreiße
 179,12686,break,high,short_line+column,0.05,3,65,179,Durchlauchtigster Fürst
 179,12687,break,high,short_line+column,0.35,23,65,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 179,12688,break,high,short_line,0.4,26,65,Gnädigster Fürst und Herr!,Ewr Hochfürstliche Durchlaucht höchst gnädige Schreibe von 19 und 27te
@@ -2567,14 +2576,14 @@
 191,13877,break,high,short_line,0.37,21,57,Voigten verkauft hat.,"Nun hat Ihnen der Kerl so garstig indigirt, daß Sie ihm für"
 191,13882,break,high,short_line,0.6,34,57,4000 geben und ihren laufen laßen.,Mitt die Olesnicer Kerls hat der Menschherr Durchlaucht
 191,13894,break,high,short_line,0.41,15,36,zufrieden sein.,Da übrigens der fäule Schenck wie er sagt crepiren
-191,13908,run,review,short_line,0.44,16,36,Euer Durchlaucht,Den Augenblick erhalte ich voraus
-191,13912,run,review,short_line,0.71,26,36,360000 rt zu erhalten sind,o wenn ich doch erst reisen
-191,13914,break,high,short_line+column,0.71,26,36,könte. Ich bin heut wieder,sehr krank —
-191,13915,break,high,short_line+column,0.33,12,36,sehr krank —,d 7ten Aug.
-191,13916,break,high,short_line,0.3,11,36,d 7ten Aug.,Trąbczyn
-191,13917,break,high,rubric+short_line,0.22,8,36,Trąbczyn,d. 6ten Aug
-191,13919,break,high,short_line,0.14,5,36,1806.,treu gehorsamster Diener
-191,13920,break,high,short_line+column,0.66,24,36,treu gehorsamster Diener,v Triebenfeld
+191,13908,run,held,short_line+column,0.44,16,36,Euer Durchlaucht,treu gehorsamster Diener
+191,13909,break,high,short_line+column,0.66,24,36,treu gehorsamster Diener,v Triebenfeld
+191,13910,break,held,short_line+column,0.36,13,36,v Triebenfeld,Trąbczyn
+191,13911,run,held,rubric+short_line,0.22,8,36,Trąbczyn,d. 6ten Aug
+191,13913,break,held,short_line,0.14,5,36,1806.,Den Augenblick erhalte ich voraus
+191,13917,run,review,short_line,0.71,26,36,360000 rt zu erhalten sind,o wenn ich doch erst reisen
+191,13919,break,high,short_line+column,0.71,26,36,könte. Ich bin heut wieder,sehr krank —
+191,13920,break,high,short_line+column,0.33,12,36,sehr krank —,d 7ten Aug.
 192,13924,break,high,short_line+column,0.05,3,64,192,Mein lieber Freund
 192,13925,run,review,short_line,0.28,18,64,Mein lieber Freund,Es liegen in Berlin 360000 rt die mir zugesagt sind. Nur liege ich hie
 192,13932,run,review,short_line,0.7,45,64,crepiren muß den hört alle herrlichkeit auf —,Glenck seyt hier hatt sich mit die Olesnicer Hollenbrände zusammen
@@ -2632,12 +2641,12 @@
 195,14128,break,high,short_line+column,0.55,36,65,werde ich höhren woher er dies hat —,Alle Briefe und Sachen habe ich abgegeben.
 195,14129,break,high,short_line,0.65,42,65,Alle Briefe und Sachen habe ich abgegeben.,In tiefster Hochachtung ersterbe.
 195,14130,break,high,short_line,0.51,33,65,In tiefster Hochachtung ersterbe.,Ewr Hochfürstliche Durchlaucht
-195,14131,break,high,short_line+column,0.46,30,65,Ewr Hochfürstliche Durchlaucht,das Moratorium ist auf 2 Jahre
-195,14132,break,high,short_line+column,0.46,30,65,das Moratorium ist auf 2 Jahre,verlängert
-195,14133,break,high,short_line+column,0.15,10,65,verlängert,Breslau d 22t May
-195,14134,break,high,short_line+column,0.26,17,65,Breslau d 22t May,1810.
-195,14135,break,high,short_line,0.08,5,65,1810.,treu unterthänigster Dier
-195,14136,break,high,short_line+column,0.38,25,65,treu unterthänigster Dier,v Triebenfeld
+195,14131,break,held,short_line+column,0.46,30,65,Ewr Hochfürstliche Durchlaucht,treu unterthänigster Dier
+195,14132,break,high,short_line+column,0.38,25,65,treu unterthänigster Dier,v Triebenfeld
+195,14133,break,held,short_line+column,0.2,13,65,v Triebenfeld,Breslau d 22t May
+195,14134,run,held,short_line+column,0.26,17,65,Breslau d 22t May,1810.
+195,14135,break,held,short_line,0.08,5,65,1810.,das Moratorium ist auf 2 Jahre
+195,14136,break,high,short_line+column,0.46,30,65,das Moratorium ist auf 2 Jahre,verlängert
 196,14140,break,high,short_line+column,0.06,3,51,196,Durchlauchtigster Fürst
 196,14141,break,high,short_line+column,0.45,23,51,Durchlauchtigster Fürst,"Gnädigster Fürst und Herr,"
 196,14142,run,review,short_line,0.51,26,51,"Gnädigster Fürst und Herr,",Um nicht wie ein Dieb heute aufs Rath haus geführt und eingesperrt
@@ -2646,11 +2655,11 @@
 196,14190,break,high,short_line,0.53,26,49,und unser Haus vernichten.,Die Holländische Anleihe ist auseinander gegangen weil
 196,14193,break,high,short_line,0.08,4,49,kan.,Wegen die 35000 rt Geschäfte wird der Profeßor
 196,14201,break,high,short_line+column,0.53,26,49,Respects woll ersterbe ich,Ewr durchlaucht
-196,14202,break,high,short_line+column,0.31,15,49,Ewr durchlaucht,Morgen gehe ich zum Leus Praefat[?]
-196,14203,break,high,short_line+column,0.71,35,49,Morgen gehe ich zum Leus Praefat[?],Zychlinski —
-196,14204,break,high,short_line+column,0.24,12,49,Zychlinski —,Schwarzwald bey Miedzibor[?]
-196,14205,break,high,rubric+short_line,0.57,28,49,Schwarzwald bey Miedzibor[?],d. 25ten May 1810.
-196,14207,break,high,short_line+column,0.41,20,49,unterthäniger Diener,v Triebenfeld
+196,14202,break,held,short_line+column,0.31,15,49,Ewr durchlaucht,unterthäniger Diener
+196,14203,break,high,short_line+column,0.41,20,49,unterthäniger Diener,v Triebenfeld
+196,14204,break,held,short_line+column,0.27,13,49,v Triebenfeld,Schwarzwald bey Miedzibor[?]
+196,14205,run,held,rubric+short_line,0.57,28,49,Schwarzwald bey Miedzibor[?],d. 25ten May 1810.
+196,14207,break,high,short_line+column,0.71,35,49,Morgen gehe ich zum Leus Praefat[?],Zychlinski —
 197,14211,break,high,short_line+column,0.05,3,63,197,Durchlauchtigſter Fürſt
 197,14212,break,high,short_line+column,0.37,23,63,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
 197,14213,break,high,short_line,0.41,26,63,Gnädigster Fürst und Herr!,Mein Richter kömt so eben von Berlin mit der frohen Nachricht zurück
@@ -2680,12 +2689,13 @@
 198,14334,run,review,short_line,0.14,9,65,hindert —,von Rhoden werden Ewer durchlaucht wohl schon wegen die 35000 rt.
 198,14336,break,high,short_line,0.68,44,65,"völlige Nachricht haben, und beruhiget sein.",Grevenitz muß Ewr Durchlaucht auch geschrieben haben. Er wird gewis
 198,14341,break,high,short_line+column,0.35,23,65,Ehrfurchtsvoll ersterbe,Ewr Hochfürstliche Durchlaucht
-198,14342,break,high,short_line+column,0.46,30,65,Ewr Hochfürstliche Durchlaucht,Zwey Divisionen marschiren von uns gegen die
-198,14343,break,high,short_line+column,0.68,44,65,Zwey Divisionen marschiren von uns gegen die,Türkken — wer wird die Comandiren?
-198,14344,break,high,short_line,0.52,34,65,Türkken — wer wird die Comandiren?,Morgen eile ich nach Kontop d 12ten gehn ich noch Streiten und von da 
-198,14346,break,high,short_line+column,0.17,11,65,Kąntwicz[?],8tn Juny 1810.
-198,14347,break,high,short_line,0.22,14,65,8tn Juny 1810.,treuester Knecht
-198,14348,break,high,short_line+column,0.25,16,65,treuester Knecht,v Triebenfeld
+198,14342,break,held,short_line+column,0.46,30,65,Ewr Hochfürstliche Durchlaucht,treuester Knecht
+198,14343,break,high,short_line+column,0.25,16,65,treuester Knecht,v Triebenfeld
+198,14344,break,held,short_line+column,0.2,13,65,v Triebenfeld,Kąntwicz[?]
+198,14345,run,held,short_line+column,0.17,11,65,Kąntwicz[?],8tn Juny 1810.
+198,14346,break,held,short_line,0.22,14,65,8tn Juny 1810.,Zwey Divisionen marschiren von uns gegen die
+198,14347,break,high,short_line+column,0.68,44,65,Zwey Divisionen marschiren von uns gegen die,Türkken — wer wird die Comandiren?
+198,14348,break,high,short_line,0.52,34,65,Türkken — wer wird die Comandiren?,Morgen eile ich nach Kontop d 12ten gehn ich noch Streiten und von da 
 199,14352,break,high,short_line+column,0.03,3,88,199,"Durchlauchtigster Fürst,"
 199,14353,break,high,short_line+column,0.27,24,88,"Durchlauchtigster Fürst,",Gnädigster Fürst und Herr!
 199,14354,break,high,short_line,0.3,26,88,Gnädigster Fürst und Herr!,Vor etwan eine Stunde bin ich hier angelangt. Meines erhobenen Durchla
@@ -2723,16 +2733,17 @@
 201,14468,break,high,short_line+column,0.3,27,89,Unterthäniger treuer Diener,v Triebenfeld
 201,14469,break,held,short_line+column,0.15,13,89,v Triebenfeld,Breslau d 29tn August
 201,14470,run,held,short_line+column,0.24,21,89,Breslau d 29tn August,1810.
-202,14474,break,high,short_line+column,0.05,3,66,202,Lieber Freund
-202,14475,run,review,short_line,0.2,13,66,Lieber Freund,Vater Weigel ist sehr zu frieden von mich gegangen. Er hat die ganze S
-202,14483,run,review,short_line,0.53,35,66,Er gefiel sich sehr hier — Er sagte,"""Ach Herr v T[riebenfeld]. Sie werden von vielen verkannt, und es blei"
-202,14496,break,high,short_line,0.52,34,66,wird ſie aber auch dafür ſeegenen.,Lebte meine gute Frau die würde Ihnen erst danken — Inzwischen
-202,14499,run,review,short_line,0.64,42,66,"ein bieder Mann und der Ort wunder schön.""","Ich weis daß Sie Lieber Freund sich freuen, wan die Sache glücklich ge"
-202,14503,break,high,short_line,0.18,12,66,gethan wird.,Ihr
-202,14504,break,high,short_line+column,0.05,3,66,Ihr,"Gebe nur Gott, daß ich eilig die 2 Freystelle"
-202,14505,run,review,short_line,0.68,45,66,"Gebe nur Gott, daß ich eilig die 2 Freystelle","verkaufe den geht es gleich nach kohlen, und das er sich zu verkauffen"
-202,14507,break,high,short_line+column,0.44,29,66,d 20ten Aug 10 von Schweinern,aufruchtiger Freund und der
-202,14508,break,high,short_line+column,0.41,27,66,aufruchtiger Freund und der,v Triebenfeld
+202,14474,break,high,short_line+column,0.05,3,65,202,Lieber Freund
+202,14475,run,review,short_line,0.2,13,65,Lieber Freund,Vater Weigel ist sehr zu frieden von mich gegangen. Er hat die ganze S
+202,14483,run,review,short_line,0.54,35,65,Er gefiel sich sehr hier — Er sagte,"""Ach Herr v T[riebenfeld]. Sie werden von vielen verkannt, und es blei"
+202,14496,break,high,short_line,0.52,34,65,wird ſie aber auch dafür ſeegenen.,Lebte meine gute Frau die würde Ihnen erst danken — Inzwischen
+202,14499,run,review,short_line,0.65,42,65,"ein bieder Mann und der Ort wunder schön.""","Ich weis daß Sie Lieber Freund sich freuen, wan die Sache glücklich ge"
+202,14503,break,high,short_line,0.18,12,65,gethan wird.,Ihr
+202,14504,break,held,short_line+column,0.05,3,65,Ihr,aufruchtiger Freund und der
+202,14505,break,high,short_line+column,0.42,27,65,aufruchtiger Freund und der,v Triebenfeld
+202,14506,break,held,short_line+column,0.2,13,65,v Triebenfeld,d 20ten Aug 10 von Schweinern
+202,14507,break,held,short_line+column,0.45,29,65,d 20ten Aug 10 von Schweinern,"Gebe nur Gott, daß ich eilig die 2 Freystelle"
+202,14508,run,review,short_line,0.69,45,65,"Gebe nur Gott, daß ich eilig die 2 Freystelle","verkaufe den geht es gleich nach kohlen, und das er sich zu verkauffen"
 203,14512,break,high,short_line+column,0.05,3,57,203,Durchlauchtigſter Fürſt
 203,14513,break,high,short_line+column,0.4,23,57,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
 203,14514,break,high,short_line,0.46,26,57,Gnädigster Fürst und Herr!,Ewr Hochfürstliche Durchlaucht übermache ich angebogen daß Exposée
@@ -2939,9 +2950,9 @@
 216,15638,break,high,short_line,0.36,24,68,conservirt wißen wollen.,"Solte dies der Fall sein, so dringe ich, da die jezzigen Gesezze für d"
 216,15643,run,review,short_line,0.49,33,68,die Wrąbczyner entschieden sein —,"Wegen die Reste ſchweben eine Menge Prozeße, ich zweifle aber daß"
 216,15647,run,review,short_line,0.09,6,68,mein —,Das Mehreste habe ich jezt zu schaffen mit Hecker und diese ganze Brut
-216,15667,break,high,short_line+column,0.3,9,30,gegeben —,Blizanow
-216,15668,break,high,short_line+column,0.27,8,30,Blizanow,d 29ten July 1811.
-216,15669,break,high,short_line,0.6,18,30,d 29ten July 1811.,unterthänigster Diener
+216,15665,break,held,short_line+column,0.43,13,30,v Triebenfeld,Blizanow
+216,15666,run,held,short_line+column,0.27,8,30,Blizanow,d 29ten July 1811.
+216,15667,break,held,short_line,0.6,18,30,d 29ten July 1811.,den Bothen laßen Euer Durchlaucht
 217,15674,break,high,short_line+column,0.07,3,44,217,Hochwohlgebohrner Herr
 217,15675,run,review,short_line,0.49,22,44,Hochwohlgebohrner Herr,Insonders Hochzuehrender Herr Lieutenant!
 217,15682,break,high,short_line,0.63,28,44,gegenwärtigen zu belästigen.,"daß ich Schleßen und Brau verlassen müßen,"
@@ -2949,11 +2960,11 @@
 217,15727,break,high,short_line,0.17,7,42,könten.,Wie werde die Wohltaten vergeßen so ich durch
 217,15730,break,high,short_line,0.62,26,42,kann und wird nie sterben.,Ist denn noch keine Sententz aus den ersten
 217,15737,break,high,short_line,0.5,21,42,triebonal besagt hat?,Neues wolle Ihnen gerne mit fielen allein
-217,15753,break,high,short_line+column,0.63,19,30,Ew Hochwohlgebohren,Berlin
-217,15754,break,high,rubric+short_line,0.2,6,30,Berlin,g. 15ten August
-217,15756,break,high,short_line+column,0.13,4,30,1811,Stalauer Str:
-217,15757,break,high,short_line,0.43,13,30,Stalauer Str:,Nr 13
-217,15758,run,review,short_line,0.17,5,30,Nr 13,gantz gehorsamtreuer Sud[?] a[?] dien
+217,15753,break,held,short_line,0.63,19,30,Ew Hochwohlgebohren,gantz gehorsamtreuer Sud[?] a[?] dien
+217,15755,break,held,short_line+column,0.27,8,30,v Sanitz,Berlin
+217,15756,run,held,rubric+short_line,0.2,6,30,Berlin,g. 15ten August
+217,15758,run,held,short_line+column,0.13,4,30,1811,Stalauer Str:
+217,15759,run,held,short_line,0.43,13,30,Stalauer Str:,Nr 13
 218,15763,break,high,short_line+column,0.04,3,68,218,Durchlauchtigſter Fürſt
 218,15764,break,high,short_line+column,0.34,23,68,Durchlauchtigſter Fürſt,Gnädigſter Fürſt und Herr!
 218,15765,break,high,short_line,0.38,26,68,Gnädigſter Fürſt und Herr!,"Was hier in Ewr Durchlaucht Güter gethan, und in der Folge zu erwarten"
@@ -2967,12 +2978,12 @@
 218,15827,run,review,short_line,0.14,10,72,zur Sachen,"In Betſchen iſt auch viel zu thun, dorten ſtehen an 20000 rt in Reſs d"
 218,15845,run,review,short_line,0.58,36,62,mein schönes Kontop zum Teufel ist —,"Niemanden habe ich der eifschilft, was ich anwerbe, daß arbeiten soll["
 218,15850,break,high,short_line+column,0.69,43,62,Anhänglichkeit und der tiefsten Hochachtung,Ewr Hochfürstliche Durchlau
-218,15851,break,high,short_line+column,0.43,27,62,Ewr Hochfürstliche Durchlau,der Stern aus Norden leuchtet
-218,15852,break,high,short_line+column,0.46,29,62,der Stern aus Norden leuchtet,mündlich das mehrere
-218,15853,break,high,short_line+column,0.32,20,62,mündlich das mehrere,Blizanow
-218,15854,break,high,short_line+column,0.13,8,62,Blizanow,d 21tn 7br 1811
-218,15855,break,high,short_line+column,0.24,15,62,d 21tn 7br 1811,treu unterthäniger Diener
-218,15856,break,high,short_line+column,0.4,25,62,treu unterthäniger Diener,v Triebenfeld
+218,15851,break,held,short_line+column,0.43,27,62,Ewr Hochfürstliche Durchlau,treu unterthäniger Diener
+218,15852,break,high,short_line+column,0.4,25,62,treu unterthäniger Diener,v Triebenfeld
+218,15853,break,held,short_line+column,0.21,13,62,v Triebenfeld,Blizanow
+218,15854,run,held,short_line+column,0.13,8,62,Blizanow,d 21tn 7br 1811
+218,15855,break,held,short_line+column,0.24,15,62,d 21tn 7br 1811,der Stern aus Norden leuchtet
+218,15856,break,high,short_line+column,0.46,29,62,der Stern aus Norden leuchtet,mündlich das mehrere
 219,15860,break,high,short_line+column,0.04,3,71,219,Durchlauchtigſter Fürſt
 219,15861,break,high,short_line+column,0.32,23,71,Durchlauchtigſter Fürſt,Gnädigſter Fürſt und Herr!
 219,15862,break,high,short_line,0.37,26,71,Gnädigſter Fürſt und Herr!,"Wann Ewr Durchlaucht den eingeſandten Plan genehmigen ſolten, ſo bitte"
@@ -3081,9 +3092,9 @@
 228,16677,break,high,short_line,0.67,35,52,Bericht unterthänigſt abzuſstatten.,"Der Herr General ist allerdings noch geneigt, den projectirten"
 228,16683,break,high,short_line,0.29,15,52,mann in Berlin.,"Was den erſten anbetrift, ſo befindet ſich der Herr Ge¬"
 228,16699,break,high,short_line,0.37,17,46,abgemacht werden.,"Wenn hiezu noch der Umstand tritt, daß wegen"
-228,16708,break,high,short_line,0.7,32,46,Ew Durchleucht Mißbilligung hat.,Schlawenschitz den 17 Januar
-228,16709,break,high,short_line+column,0.61,28,46,Schlawenschitz den 17 Januar,1812.
-228,16710,break,high,short_line,0.11,5,46,1812.,Sommer
+228,16708,break,held,short_line,0.7,32,46,Ew Durchleucht Mißbilligung hat.,Sommer
+228,16709,break,held,short_line+column,0.13,6,46,Sommer,Schlawenschitz den 17 Januar
+228,16710,run,held,short_line+column,0.61,28,46,Schlawenschitz den 17 Januar,1812.
 229,16714,break,high,short_line+column,0.04,3,67,229,Durchlauchtigſter Fürſt
 229,16715,break,high,short_line+column,0.34,23,67,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
 229,16716,break,high,short_line,0.39,26,67,Gnädigster Fürst und Herr!,"Ewr Hochfürstliche Durchlaucht kan ich an den wichtigen Tag, der ein"
@@ -3197,22 +3208,23 @@
 241,17526,break,high,short_line,0.49,28,57,und Sch Militair Gouverneur.,Gen[eral] L[ieutenant] v Köck[ritz] hat d. v. Z[astrow]. auf einmahl s
 241,17529,run,review,short_line,0.54,31,57,und es läst sich alles hoffen —,M Hard[enberg]: ist mit dem R[ussischen]. Kayser in Böhmen von wie der
 241,17541,break,high,short_line+column,0.38,20,53,in Fall und Schwartz,meine Gicht martirt mich
-241,17542,break,high,short_line+column,0.45,24,53,meine Gicht martirt mich,Neisse den 22ten Juny
-241,17543,break,high,short_line+column,0.4,21,53,Neisse den 22ten Juny,1813
-241,17544,break,high,short_line+column,0.08,4,53,1813,v Triebenfeld
+241,17542,break,held,short_line+column,0.45,24,53,meine Gicht martirt mich,v Triebenfeld
+241,17543,break,held,short_line+column,0.25,13,53,v Triebenfeld,Neisse den 22ten Juny
+241,17544,run,held,short_line+column,0.4,21,53,Neisse den 22ten Juny,1813
 242,17548,break,high,short_line+column,0.04,3,73,242,Durchlauchtigster Fürst
 242,17549,break,high,short_line+column,0.32,23,73,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 242,17550,break,high,short_line,0.36,26,73,Gnädigster Fürst und Herr!,"Nach einer mühseeligen Reise, worauf ich 3 Tage und 2 Nächte zugebrach"
 242,17556,run,review,short_line,0.6,44,73,ehrliche Mann darf nicht ohne Calcul leben —,Mein Text mit dem ich hierher ging war würken und schaffen.
 242,17568,run,review,short_line,0.52,38,73,Jezt über die verschiedene Geschäfte —,Die Würtembergsche Angelegenheiten gehen gut — der König von W[ürtembe
-242,17583,run,review,short_line,0.57,43,76,mit erster Post übermache ich deren mehrere,Mit B[arbe]: und A: habe ich über die Schlaw[enschitz]: Angelegenheite
-242,17587,run,review,short_line,0.4,30,76,will deßen Gelingen Garantiren,wegen Koschentin kan ich noch nichts anbringen — die erforderlichen Ge
-242,17597,break,high,short_line+column,0.68,51,76,zusenden können — doch werde ich nichts versäumen —,Ehrfurchtsvoll ersterbe
-242,17598,break,high,short_line+column,0.3,23,76,Ehrfurchtsvoll ersterbe,Ewr Durchlaucht
-242,17599,break,high,short_line+column,0.2,15,76,Ewr Durchlaucht,"N.S. den Augenblick erfahre ich, daß alle¬"
-242,17601,run,review,short_line,0.54,41,76,r fürsten welche nicht 12000 Mann stellen,"können für immer mediatisirt werden sollen, da werde mann auch [...] o"
-242,17603,break,high,short_line+column,0.3,23,76,Wien den 12ten 8br 1814,treu unterthänigsten Diener
-242,17604,break,high,short_line+column,0.36,27,76,treu unterthänigsten Diener,v Triebenfeld
+242,17583,run,review,short_line,0.57,43,75,mit erster Post übermache ich deren mehrere,Mit B[arbe]: und A: habe ich über die Schlaw[enschitz]: Angelegenheite
+242,17587,run,review,short_line,0.4,30,75,will deßen Gelingen Garantiren,wegen Koschentin kan ich noch nichts anbringen — die erforderlichen Ge
+242,17597,break,high,short_line+column,0.68,51,75,zusenden können — doch werde ich nichts versäumen —,Ehrfurchtsvoll ersterbe
+242,17598,break,high,short_line+column,0.31,23,75,Ehrfurchtsvoll ersterbe,Ewr Durchlaucht
+242,17599,break,held,short_line+column,0.2,15,75,Ewr Durchlaucht,treu unterthänigsten Diener
+242,17600,break,high,short_line+column,0.36,27,75,treu unterthänigsten Diener,v Triebenfeld
+242,17601,break,held,short_line+column,0.17,13,75,v Triebenfeld,Wien den 12ten 8br 1814
+242,17602,break,held,short_line+column,0.31,23,75,Wien den 12ten 8br 1814,"N.S. den Augenblick erfahre ich, daß alle¬"
+242,17604,run,review,short_line,0.55,41,75,r fürsten welche nicht 12000 Mann stellen,"können für immer mediatisirt werden sollen, da werde mann auch [...] o"
 243,17608,break,high,short_line+column,0.05,3,60,243,P[ro]. M[emoria].
 243,17609,break,high,salutation+short_line,0.28,17,60,P[ro]. M[emoria].,Gnädigster Fürst und Herr!
 243,17610,break,high,short_line,0.43,26,60,Gnädigster Fürst und Herr!,"Die Theuerung ist hier so schrecklich, daß ich, wenn Ewr Durchlaucht m"
@@ -3224,7 +3236,7 @@
 243,17622,break,high,short_line,0.37,22,60,für meinen Kerl: 1 fl.,für den Vieh Acker noch nicht zu Erste gehen kan im Durchschnittstag 3
 243,17624,break,high,short_line,0.43,26,60,theil täglich 45 fl. 30 x.,Ich kan also füglich mit extra Ausgaben täglich 50 fl. W. W rechnen. o
 243,17625,break,high,rubric,1.33,80,60,Ich kan also füglich mit extra Ausgaben täglich 50 fl. W. W ,"260. fl. muß ich auf den Rückweg rechnen da bleiben nur 540 fl., der W"
-243,17635,break,high,short_line,0.4,24,60,[Wien] d 13ten 8br 1814.,v Triebenfeld
+243,17635,break,held,short_line+column,0.22,13,60,v Triebenfeld,[Wien] d 13ten 8br 1814.
 244,17639,break,high,short_line+column,0.04,3,73,244,Durchlauchtigster Fürst
 244,17640,break,high,short_line+column,0.32,23,73,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 244,17641,break,high,short_line,0.36,26,73,Gnädigster Fürst und Herr!,Die Monarchen sind hier geblieben und das große Maneuvre hat hier in W
@@ -3234,11 +3246,9 @@
 244,17675,break,high,short_line,0.36,27,76,gefaßte Beschlüßen bleiben.,"Wegen Pohlen ist noch nichts bestimmt, indes versichert der Binderste "
 244,17683,run,review,short_line,0.58,44,76,ist — der schönste Morgen aber dämmert schon,Der gute Geh[eime]. Rath v Gärtner der sich Ewer Durchlaucht ehr erbie
 244,17686,run,review,short_line,0.36,27,76,sentliche Nachrichten mit —,"Fägelnitzet ist alles, ich muß wegen den vielen Geschäften sehr wachsa"
-244,17698,break,high,short_line+column,0.55,31,56,"In tiefster Verehrung ersterbe,",Ewr Hochfürstliche Durchlaucht
-244,17699,run,review,short_line,0.54,30,56,Ewr Hochfürstliche Durchlaucht,Der Souveraine Prinz von Holland nimt der Königs Titell an —
-244,17701,break,high,short_line+column,0.38,21,56,Wien den 18ten Octobr,1814.
-244,17702,break,high,short_line,0.09,5,56,1814.,treu unterthänigster Diener
-244,17703,break,high,short_line+column,0.48,27,56,treu unterthänigster Diener,v Triebenfeld
+244,17701,break,held,short_line+column,0.42,13,31,v Triebenfeld,Wien den 18ten Octobr
+244,17702,run,held,short_line+column,0.68,21,31,Wien den 18ten Octobr,1814.
+244,17703,break,held,short_line,0.16,5,31,1814.,Der Souveraine Prinz von Holland nimt der Königs Titell an —
 245,17707,break,high,short_line+column,0.03,3,114,245,(des Fürsten Staats Kanzler v. Hardenberg)
 245,17708,break,high,short_line+column,0.37,42,114,(des Fürsten Staats Kanzler v. Hardenberg),Durchlauchtigster Fürst
 245,17709,break,high,short_line+column,0.2,23,114,Durchlauchtigster Fürst,Gnädigster Fürst und Herr
@@ -3398,21 +3408,21 @@
 258,18423,break,high,short_line,0.15,10,67,haben muß.,Die Kurz Erben / die Herzogin von Sagen pp / bedürfen jezt Geld. Die
 258,18431,break,high,short_line,0.18,12,67,sezzen darf.,In tiefster Ehrerbietigkeit ersterbe
 258,18432,break,high,short_line+column,0.54,36,67,In tiefster Ehrerbietigkeit ersterbe,Ewr Hochfürstl. Durchlaucht
-258,18433,break,high,short_line+column,0.4,27,67,Ewr Hochfürstl. Durchlaucht,dies gleich mit zurück zu senden
-258,18434,break,high,short_line+column,0.48,32,67,dies gleich mit zurück zu senden,[...] keine Abschrift und die Post geht eben.
-258,18435,break,high,short_line,0.67,45,67,[...] keine Abschrift und die Post geht eben.,Wien den 7ten Decbr. 1814
-258,18436,break,high,short_line+column,0.37,25,67,Wien den 7ten Decbr. 1814,unterthänigster Diener
-258,18437,break,high,short_line+column,0.33,22,67,unterthänigster Diener,v Triebenfeld
+258,18433,break,held,short_line+column,0.4,27,67,Ewr Hochfürstl. Durchlaucht,unterthänigster Diener
+258,18434,break,high,short_line+column,0.33,22,67,unterthänigster Diener,v Triebenfeld
+258,18435,break,held,short_line+column,0.19,13,67,v Triebenfeld,Wien den 7ten Decbr. 1814
+258,18436,break,held,short_line+column,0.37,25,67,Wien den 7ten Decbr. 1814,dies gleich mit zurück zu senden
+258,18437,break,high,short_line+column,0.48,32,67,dies gleich mit zurück zu senden,[...] keine Abschrift und die Post geht eben.
 259,18441,break,high,short_line+column,0.04,3,77,259,Durchlauchtigster Fürst
 259,18442,break,high,short_line+column,0.3,23,77,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 259,18443,break,high,short_line,0.34,26,77,Gnädigster Fürst und Herr!,Nun kan ich Ewr Hochfürstliche Durchlaucht mit den höchsten Beweisen d
 259,18478,break,high,short_line,0.5,37,74,"Sache werk zur Sprache kömt, pfeifen.","Zeit ist nicht zu verloren, ich nun also Ihnen beßer Fürst dies alles,"
 259,18488,break,high,short_line,0.65,48,74,Die gröste Verehrung ist es in der ich ersterbe.,Ewr Hochfürstliche Durchlaucht
-259,18489,break,high,short_line+column,0.41,30,74,Ewr Hochfürstliche Durchlaucht,des Kongreßes Ende ist noch
-259,18490,break,high,short_line+column,0.37,27,74,des Kongreßes Ende ist noch,nicht abzusehen und vieleicht noch weit entfernte
-259,18491,break,high,short_line+column,0.67,49,74,nicht abzusehen und vieleicht noch weit entfernte,Wien d. 8tn. Xbr 1814.
-259,18492,break,high,short_line,0.3,22,74,Wien d. 8tn. Xbr 1814.,treu gehorsamer Diener
-259,18493,break,high,short_line+column,0.3,22,74,treu gehorsamer Diener,v Triebenfeld
+259,18489,break,held,short_line+column,0.41,30,74,Ewr Hochfürstliche Durchlaucht,treu gehorsamer Diener
+259,18490,break,high,short_line+column,0.3,22,74,treu gehorsamer Diener,v Triebenfeld
+259,18491,break,held,short_line+column,0.18,13,74,v Triebenfeld,Wien d. 8tn. Xbr 1814.
+259,18492,break,held,short_line,0.3,22,74,Wien d. 8tn. Xbr 1814.,des Kongreßes Ende ist noch
+259,18493,break,high,short_line+column,0.37,27,74,des Kongreßes Ende ist noch,nicht abzusehen und vieleicht noch weit entfernte
 260,18497,break,high,short_line+column,0.04,3,79,260,Ewr Hochfürstliche Durchlaucht
 260,18498,run,review,short_line,0.38,30,79,Ewr Hochfürstliche Durchlaucht,hatte ich gestern die Ehren die nur von des Herrn Fürsten Staats Kanzl
 260,18512,run,review,short_line,0.51,40,79,zu betrügen — daß eben aus diesem Gründe,"3tens die die sogenannte Curische Summa allein zu bezahlen, übernommen"
@@ -3505,13 +3515,13 @@
 266,18968,run,review,short_line,0.54,43,80,Leuten für ihre treue Hülfe wohl thun kan —,Wegen Ihre an mir gesandte Briefen laßen Sie gnädigster Herr Laufzedde
 266,18970,break,high,short_line+column,0.62,50,80,"gehen, damit ich die Briefe und das Geld erhalte —",Hochachtungsvoll ersterbe
 266,18971,break,high,short_line+column,0.31,25,80,Hochachtungsvoll ersterbe,Ewr Durchlaucht
-266,18972,break,high,short_line+column,0.19,15,80,Ewr Durchlaucht,Meine Arme Kinder vergeßen
-266,18973,break,high,short_line+column,0.33,26,80,Meine Arme Kinder vergeßen,Sie auch ja nicht —
-266,18974,break,high,short_line+column,0.24,19,80,Sie auch ja nicht —,J. Mutter: heißt es wird abgesetzt.
-266,18975,break,high,short_line,0.44,35,80,J. Mutter: heißt es wird abgesetzt.,Wien d 10ten Januar
-266,18976,break,high,short_line+column,0.24,19,80,Wien d 10ten Januar,1815.
-266,18977,break,high,short_line,0.06,5,80,1815.,treu unterthänigster Diener
-266,18978,break,high,short_line+column,0.34,27,80,treu unterthänigster Diener,v Triebenfeld
+266,18972,break,held,short_line+column,0.19,15,80,Ewr Durchlaucht,treu unterthänigster Diener
+266,18973,break,high,short_line+column,0.34,27,80,treu unterthänigster Diener,v Triebenfeld
+266,18974,break,held,short_line+column,0.16,13,80,v Triebenfeld,Wien d 10ten Januar
+266,18975,run,held,short_line+column,0.24,19,80,Wien d 10ten Januar,1815.
+266,18976,break,held,short_line,0.06,5,80,1815.,Meine Arme Kinder vergeßen
+266,18977,break,high,short_line+column,0.33,26,80,Meine Arme Kinder vergeßen,Sie auch ja nicht —
+266,18978,break,high,short_line+column,0.24,19,80,Sie auch ja nicht —,J. Mutter: heißt es wird abgesetzt.
 267,18982,break,high,short_line+column,0.03,3,95,267,Durchlauchtigſter Fürſt
 267,18983,break,high,short_line+column,0.24,23,95,Durchlauchtigſter Fürſt,Gnädigſter Fürſt und Herr!
 267,18984,break,high,short_line,0.27,26,95,Gnädigſter Fürſt und Herr!,"Heute ist es der 27 ste Tag, als Ewr Durchlaucht das lezterere Schreib"
@@ -3612,11 +3622,12 @@
 275,19596,break,high,short_line,0.25,16,64,Gnädigster Herr!,Noch immer hat der Geh[eime]. Staats Rath Stägemann dem H. Fürsten Sta
 275,19608,run,review,short_line,0.19,12,64,gethan ist —,Jezt ist meine größte Sorge die Acten und Documente bey der Comission
 275,19615,run,review,short_line,0.53,34,64,und reiben mich an Ende ganz auf —,Allgemeine Neuigkeiten sind mancherley die sich nicht schreiben laßen
-275,19621,break,high,short_line+column,0.23,15,64,Ewr Durchlaucht,senden Ewr Durchlaucht wann auch nur
-275,19622,run,review,short_line,0.56,36,64,senden Ewr Durchlaucht wann auch nur,etwas Geld voraus den sonsten bleibt alles liegen —
-275,19624,break,high,short_line+column,0.38,24,64,ganz gehorsamster Diener,Wien d. 28ten Febr.
-275,19625,break,high,short_line,0.3,19,64,Wien d. 28ten Febr.,1815
-275,19626,break,high,short_line+column,0.06,4,64,1815,v Triebenfeld
+275,19621,break,held,short_line+column,0.23,15,64,Ewr Durchlaucht,ganz gehorsamster Diener
+275,19622,break,held,short_line+column,0.38,24,64,ganz gehorsamster Diener,v Triebenfeld
+275,19623,break,held,short_line+column,0.2,13,64,v Triebenfeld,Wien d. 28ten Febr.
+275,19624,run,held,short_line,0.3,19,64,Wien d. 28ten Febr.,1815
+275,19625,break,held,short_line+column,0.06,4,64,1815,senden Ewr Durchlaucht wann auch nur
+275,19626,run,review,short_line,0.56,36,64,senden Ewr Durchlaucht wann auch nur,etwas Geld voraus den sonsten bleibt alles liegen —
 276,19630,break,high,short_line+column,0.04,3,80,276,Durchlauchtigster Fürst
 276,19631,break,high,short_line+column,0.29,23,80,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 276,19632,break,high,short_line,0.33,26,80,Gnädigster Fürst und Herr!,"Der Herr Minister v Humboldt hatte mir eine Sache übertragen, in welch"
@@ -3663,11 +3674,11 @@
 279,19860,run,review,short_line,0.42,29,69,ſolchen Anhang finden ſolte —,Der Augenblick ist wieder wegen die Pohln[ischen] Güter eine Resolutio
 279,19865,run,review,short_line,0.33,23,69,das alles hinſchleppt —,"O wäre nur H p Eberhard herkommen könnte, damit wir die Sache mit den "
 279,19869,break,high,short_line,0.42,29,69,In tiefer Ehrfurcht erſterbe.,Ewr Durchlaucht
-279,19870,break,high,short_line+column,0.22,15,69,Ewr Durchlaucht,Ich liege heute in Eichen Krank.
-279,19871,break,high,short_line,0.46,32,69,Ich liege heute in Eichen Krank.,Wien den 18ten März
-279,19872,break,high,short_line+column,0.28,19,69,Wien den 18ten März,1815
-279,19873,break,high,short_line+column,0.06,4,69,1815,unterthänigster diener
-279,19874,break,high,short_line+column,0.32,22,69,unterthänigster diener,v Triebenfeld
+279,19870,break,held,short_line+column,0.22,15,69,Ewr Durchlaucht,unterthänigster diener
+279,19871,break,high,short_line+column,0.32,22,69,unterthänigster diener,v Triebenfeld
+279,19872,break,held,short_line+column,0.19,13,69,v Triebenfeld,Wien den 18ten März
+279,19873,run,held,short_line+column,0.28,19,69,Wien den 18ten März,1815
+279,19874,break,held,short_line+column,0.06,4,69,1815,Ich liege heute in Eichen Krank.
 280,19878,break,high,short_line+column,0.04,3,82,280,Durchlauchtigster Fürst
 280,19879,break,high,short_line+column,0.28,23,82,Durchlauchtigster Fürst,Gnädigster Herr!
 280,19880,break,high,short_line,0.19,16,82,Gnädigster Herr!,Da dieser Stunde erhielte ich Ewr Durchlaucht verehrte beide Schreiben
@@ -3678,9 +3689,8 @@
 280,19922,break,high,short_line,0.61,44,72,in Paris sein wird — O Temp[ora]: o Mor[es]:,Wellington ist heute zur Armee abgegangen — und in wenig Tagen heiß es
 280,19928,run,review,short_line,0.64,46,72,dafür Gott dareinst verantwortlich sein müße —,von allem Seiten wird marſchirt und wie ſah es kriegeriſcher aus als j
 280,19930,run,review,short_line,0.71,51,72,wettet man daß kein allgemeiner Krieg werden wird —,dem kleinen König von Rom hat man von hier wegstohlen wollen
-280,19941,break,high,short_line+column,0.55,12,22,Ich ersterbe,Ewr Durchlaucht
-280,19942,run,review,short_line,0.68,15,22,Ewr Durchlaucht,Ist es möglich so schicke
-280,19946,run,review,short_line,0.18,4,22,1815,treu gehorsamster
+280,19941,break,held,short_line,0.62,12,20,Ich ersterbe,Ewr Durchlaucht
+280,19946,break,held,short_line,0.21,4,20,1815,Ist es möglich so schicke
 281,19951,break,high,short_line+column,0.04,3,68,281,Durchlauchtigſter Fürſt
 281,19952,break,high,short_line+column,0.34,23,68,Durchlauchtigſter Fürſt,Gnädigster Herr!
 281,19953,break,high,short_line,0.23,16,68,Gnädigster Herr!,Überbringer dieses Briefes iſt der Bediente von dem Herrn Hoffrath Bar
@@ -3698,13 +3708,13 @@
 282,20044,run,review,short_line,0.36,26,72,Gott wird und kan helfen —,"Daß F August die Presidentenstelle, die alle Edlen abgelehnt haben, an"
 282,20059,run,review,short_line,0.26,19,72,zurücknehmen wird —,Auf alles andere sage ich weiter nichts als daß ich mich auf die seit 
 282,20074,break,high,short_line+column,0.29,21,72,Respectsvoll ersterbe,Ewr Durchlaucht
-282,20075,break,high,short_line+column,0.21,15,72,Ewr Durchlaucht,"Glenck habe ich heute aufgefunden, er empfehle"
-282,20076,run,review,short_line,0.63,46,72,"Glenck habe ich heute aufgefunden, er empfehle","sich zu Gnaden, und will Ewr durchlaucht im Op[...]urg gleich"
-282,20078,break,high,short_line+column,0.63,46,72,200000 rt baar in sche[?]er Geld schasten[?] —,Wien den 26ten März
-282,20079,break,high,short_line+column,0.26,19,72,Wien den 26ten März,1815.
-282,20080,break,high,short_line,0.07,5,72,1815.,treuester Diener
-282,20081,break,high,short_line+column,0.22,16,72,treuester Diener,v Triebenfeld
-282,20082,break,held,short_line,0.18,13,72,v Triebenfeld,"N. S. Ich werde morgen noch einen Vorsuch machen, Ob Muß Humboldt nich"
+282,20075,break,held,short_line+column,0.21,15,72,Ewr Durchlaucht,treuester Diener
+282,20076,break,high,short_line+column,0.22,16,72,treuester Diener,v Triebenfeld
+282,20077,break,held,short_line+column,0.18,13,72,v Triebenfeld,Wien den 26ten März
+282,20078,run,held,short_line+column,0.26,19,72,Wien den 26ten März,1815.
+282,20079,break,held,short_line,0.07,5,72,1815.,"Glenck habe ich heute aufgefunden, er empfehle"
+282,20080,run,review,short_line,0.63,46,72,"Glenck habe ich heute aufgefunden, er empfehle","sich zu Gnaden, und will Ewr durchlaucht im Op[...]urg gleich"
+282,20082,break,held,short_line,0.63,46,72,200000 rt baar in sche[?]er Geld schasten[?] —,"N. S. Ich werde morgen noch einen Vorsuch machen, Ob Muß Humboldt nich"
 283,20090,break,high,short_line+column,0.04,3,72,283,Monseigneur
 283,20091,run,review,short_line,0.15,11,72,Monseigneur,"Il suffit que Votre Altesse Serenissime daigne me donner des ordres, p"
 283,20109,run,review,short_line,0.36,11,30,Monseigneur,de Votre Altesse Serenissime
@@ -3726,12 +3736,12 @@
 284,20162,run,review,short_line,0.59,42,71,war in Paris um seine Gelder einzuziehen —,"dh. Napoleon soll nun wirklich bereits in Paris sein, d. den 18ten war"
 284,20204,break,high,short_line+column,0.52,34,66,einzusenden. In Ehrfurcht ersterbe,um kehren
 284,20205,break,high,short_line+column,0.14,9,66,um kehren,Ewr Durchlaucht
-284,20206,break,high,short_line+column,0.23,15,66,Ewr Durchlaucht,von Teutſchen und Französische Blanquets bitte
-284,20207,run,review,short_line,0.7,46,66,von Teutſchen und Französische Blanquets bitte,ich sehr — ach und wäre es möglich Eberhard hier
-284,20210,break,high,short_line+column,0.11,7,66,befaßen,Wien d 27ten März
-284,20211,break,high,short_line+column,0.26,17,66,Wien d 27ten März,1815
-284,20212,break,high,short_line+column,0.06,4,66,1815,bey gehorſamſter Diener
-284,20213,break,high,short_line+column,0.35,23,66,bey gehorſamſter Diener,v Triebenfeld
+284,20206,break,held,short_line+column,0.23,15,66,Ewr Durchlaucht,bey gehorſamſter Diener
+284,20207,break,high,short_line+column,0.35,23,66,bey gehorſamſter Diener,v Triebenfeld
+284,20208,break,held,short_line+column,0.2,13,66,v Triebenfeld,Wien d 27ten März
+284,20209,run,held,short_line+column,0.26,17,66,Wien d 27ten März,1815
+284,20210,break,held,short_line+column,0.06,4,66,1815,von Teutſchen und Französische Blanquets bitte
+284,20211,run,review,short_line,0.7,46,66,von Teutſchen und Französische Blanquets bitte,ich sehr — ach und wäre es möglich Eberhard hier
 284,20225,run,review,short_line,0.1,7,71,müßen —,In Berlin ſoll alles was geſchieht und alles was gehöhe iſt ſehr perhi
 285,20230,break,high,short_line+column,0.08,3,36,285,P[ro]. M[emoria].
 285,20231,break,high,short_line,0.47,17,36,P[ro]. M[emoria].,Der König verlich 1796 dem Fürsten Hohenlohe die Kaemener
@@ -3866,13 +3876,13 @@
 292,20894,break,high,short_line,0.13,7,54,reitet.,Der Fürst Kanzler wird wohl erst den 5ten Juny von hier abgehn — Er
 292,20900,break,high,short_line,0.46,25,54,die Rache schnell erwitt.,Ehrfurchtsvoll verharre.
 292,20901,break,high,short_line,0.44,24,54,Ehrfurchtsvoll verharre.,Ewr Durchl.
-292,20902,break,high,short_line,0.2,11,54,Ewr Durchl.,Der König ist gestern in
-292,20903,break,high,short_line+column,0.44,24,54,Der König ist gestern in,Der Nacht von der Gräfin Zichy
-292,20904,break,high,short_line+column,0.55,30,54,Der Nacht von der Gräfin Zichy,abgereiſt.
-292,20905,break,high,short_line,0.18,10,54,abgereiſt.,Wien den 27ten May.
-292,20906,break,high,short_line,0.35,19,54,Wien den 27ten May.,1815
-292,20907,break,high,short_line+column,0.07,4,54,1815,treu gehorsamster Diener
-292,20908,break,high,short_line+column,0.44,24,54,treu gehorsamster Diener,v Triebenfeld
+292,20902,break,held,short_line,0.2,11,54,Ewr Durchl.,treu gehorsamster Diener
+292,20903,break,high,short_line+column,0.44,24,54,treu gehorsamster Diener,v Triebenfeld
+292,20904,break,held,short_line+column,0.24,13,54,v Triebenfeld,Wien den 27ten May.
+292,20905,run,held,short_line,0.35,19,54,Wien den 27ten May.,1815
+292,20906,break,held,short_line+column,0.07,4,54,1815,Der König ist gestern in
+292,20907,break,high,short_line+column,0.44,24,54,Der König ist gestern in,Der Nacht von der Gräfin Zichy
+292,20908,break,high,short_line+column,0.55,30,54,Der Nacht von der Gräfin Zichy,abgereiſt.
 294,20914,break,high,short_line+column,0.06,3,52,294,Hochwohlgebohrner Herr!
 294,20915,break,high,short_line,0.45,23,52,Hochwohlgebohrner Herr!,p. p.
 294,20916,break,high,short_line,0.1,5,52,p. p.,"Ew Hochwohlgeb. wißen, daß ich mit"
@@ -3935,9 +3945,9 @@
 298,21230,run,review,short_line,0.44,26,59,Gränz zoll Amt weg nimmt —,Gestern iſt in Kalisz das Preußen Geld verrufen nur Vert und
 298,21237,break,high,short_line,0.12,7,59,beoßer.,Gostyszyn liegt auf der großen
 298,21238,break,high,short_line+column,0.51,30,59,Gostyszyn liegt auf der großen,Straße von Kempen nach Kalisz
-298,21239,break,high,short_line+column,0.49,29,59,Straße von Kempen nach Kalisz,Blizanow d 22 ten Xbr
-298,21240,break,high,short_line+column,0.36,21,59,Blizanow d 22 ten Xbr,1815
-298,21241,break,high,short_line+column,0.07,4,59,1815,v Triebenfeld
+298,21239,break,held,short_line+column,0.49,29,59,Straße von Kempen nach Kalisz,v Triebenfeld
+298,21240,break,held,short_line+column,0.22,13,59,v Triebenfeld,Blizanow d 22 ten Xbr
+298,21241,run,held,short_line+column,0.36,21,59,Blizanow d 22 ten Xbr,1815
 299,21245,break,high,short_line+column,0.04,3,68,299,Durchlauchtigster Fürst
 299,21246,break,high,short_line+column,0.34,23,68,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
 299,21247,break,high,short_line,0.38,26,68,Gnädigster Fürst und Herr!,Meine Krankheit hat aufgehöhrt nur die große Schwäche verstattet mich 
@@ -3959,14 +3969,14 @@
 299,21340,run,review,short_line,0.38,23,60,es von Nutzen gewesen —,Mein Pächter geht mit mir nach Posen — Er steht selbst mit H. Z[erboni
 299,21343,run,review,short_line,0.28,17,60,dienste leisten —,Sobald ich Ewr Durchlaucht Antwort erhalte reise ich nach Posen und Be
 299,21345,break,high,short_line+column,0.4,24,60,Ehrfurchts voll ersterbe,Ewr Durchlaucht
-299,21346,break,high,short_line+column,0.25,15,60,Ewr Durchlaucht,der Bothen erhält pro Meile 3 gg Cour
-299,21347,break,high,short_line+column,0.61,37,60,der Bothen erhält pro Meile 3 gg Cour,1 rt habe ich ihm hier gegeben geruhen.
-299,21348,break,high,short_line,0.64,39,60,1 rt habe ich ihm hier gegeben geruhen.,Ewr Durchlaucht dorten den Rest aus
-299,21349,break,high,short_line+column,0.58,35,60,Ewr Durchlaucht dorten den Rest aus,zahlen zu laßen.
-299,21350,break,high,short_line,0.26,16,60,zahlen zu laßen.,Blizanow
-299,21351,break,high,rubric+short_line,0.13,8,60,Blizanow,d. 16ten Januar
-299,21353,break,high,short_line,0.08,5,60,1816.,unterthänigster diener
-299,21354,break,high,short_line+column,0.36,22,60,unterthänigster diener,v Triebenfeld
+299,21346,break,held,short_line+column,0.25,15,60,Ewr Durchlaucht,unterthänigster diener
+299,21347,break,high,short_line+column,0.36,22,60,unterthänigster diener,v Triebenfeld
+299,21348,break,held,short_line+column,0.21,13,60,v Triebenfeld,Blizanow
+299,21349,run,held,rubric+short_line,0.13,8,60,Blizanow,d. 16ten Januar
+299,21351,break,held,short_line,0.08,5,60,1816.,der Bothen erhält pro Meile 3 gg Cour
+299,21352,break,high,short_line+column,0.61,37,60,der Bothen erhält pro Meile 3 gg Cour,1 rt habe ich ihm hier gegeben geruhen.
+299,21353,break,high,short_line,0.64,39,60,1 rt habe ich ihm hier gegeben geruhen.,Ewr Durchlaucht dorten den Rest aus
+299,21354,break,high,short_line+column,0.58,35,60,Ewr Durchlaucht dorten den Rest aus,zahlen zu laßen.
 300,21358,break,high,short_line+column,0.05,3,56,300,[Durchlauch]tigster Fürst
 300,21359,break,high,short_line+column,0.45,25,56,[Durchlauch]tigster Fürst,[Gnädigster] Fürst und Herr!
 300,21360,break,high,short_line,0.5,28,56,[Gnädigster] Fürst und Herr!,[...]halte ich die Nachricht daß in Gosztiszyn ein
@@ -3986,9 +3996,10 @@
 301,21416,break,high,short_line,0.64,46,72,Kummer und glaubte der Mensch ſey verunglückt.,doppelt angenehm iſt es mir jezt durch den Andern Lombardini Ewr Hochf
 301,21426,run,review,short_line,0.67,48,72,"Weisen Entschlüße, und Benehmen wißen zu laßen —",der redliche Lombardini wird Ewr Durchlaucht über alles den treuesten
 301,21431,run,review,short_line,0.5,36,72,der Gift=Blume ihren Honig sammlet —,dermalen erwarte ich Sehnsuchts voll meinen Sohn und einen Pächter
-301,21446,break,high,short_line+column,0.27,8,30,Blizanow,den 31ten Januar
-301,21447,break,high,short_line+column,0.53,16,30,den 31ten Januar,1816.
-301,21448,break,high,short_line,0.17,5,30,1816.,ganz gehorſamſter Diener
+301,21445,break,held,short_line+column,0.43,13,30,v Triebenfeld,Blizanow
+301,21446,run,held,short_line+column,0.27,8,30,Blizanow,den 31ten Januar
+301,21447,run,held,short_line+column,0.53,16,30,den 31ten Januar,1816.
+301,21448,break,held,short_line,0.17,5,30,1816.,Dem guten Bider Prinzen Adolph
 302,21453,break,high,short_line+column,0.3,23,77,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
 302,21454,break,high,short_line,0.34,26,77,Gnädigster Fürst und Herr!,Ich habe den Justiz Bürgermeister Hawich aus Zagorowo der alswirkl. He
 302,21460,break,high,short_line,0.51,39,77,dazu Vollmacht und Instruction gegeben.,Zweitens zur gänzlichen Aufhebung der Sequestration die Vollmacht gege
@@ -4135,6 +4146,22 @@
 303,21669,break,high,rubric,0.82,30,36,"139,Der Wittwe Lordemann,,,,,,","140,verehelichten Herzog,,,,,,"
 303,21670,break,high,rubric,0.82,30,36,"140,verehelichten Herzog,,,,,,","141,Der Glaser Stark,,,,,,"
 303,21671,break,high,rubric,0.71,26,36,"141,Der Glaser Stark,,,,,,","142,der Handlung Ziepult & Sohn,,,,,,"
+33,2380,break,held,hand,0,0,0,v. Triebenfeld,Berlin den 7ten Aprill 1808.
+49,3756,break,held,hand,0,0,0,stehen können soll — Wolte nur Gott dies!,"Van der Lahr wünscht, daß er nur Scheinen"
+71,5575,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,treu gehorſamſter Knecht
+77,6424,break,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,unterthänigſter treuer Knecht
+95,7527,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,treu untertänigster Diener
+104,8257,break,held,hand,0,0,0,v. Triebenfeld,Breslau den 3ten April
+124,9166,run,held,hand,0,0,0,"Kopojno, Skokum und Swiątniki habe ich hier",v Triebenfeld
+129,9353,run,held,hand,0,0,0,dern ich viel vorgefunden habe — erſt arangirt,v Triebenfeld
+148,10783,run,held,hand,0,0,0,solcher Ausfall entsteht jezt bey der Taxe.,v Triebenfeld
+178,12677,run,held,hand,0,0,0,Euer Hochwohlgebohren,unterthäniger Diener
+196,14206,break,held,hand,0,0,0,d. 25ten May 1810.,Morgen gehe ich zum Leus Praefat[?]
+216,15663,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,unterthänigster Diener
+243,17634,run,held,hand,0,0,0,Ich wohne hier in der Goldenen Ente in der Schulerstraße No.,v Triebenfeld
+244,17699,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,treu unterthänigster Diener
+280,19942,run,held,hand,0,0,0,Ewr Durchlaucht,treu gehorsamster
+301,21443,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,ganz gehorſamſter Diener
 28,1943,run,held,hand,0,0,0,Ew. Hochfürstlicher Durchlaucht,unterthänigster.
 30,2054,run,held,hand,0,0,0,E. Durchl.,unterthäniger Diener
 38,2896,run,held,hand,0,0,0,und alles Zeugs bezahlt. Es erfordert aber Eile die Papiere ,treuer Knecht
@@ -4217,3 +4244,10 @@
 237,17316,run,held,hand,0,0,0,d. 29ten April,1813
 283,20110,run,held,hand,0,0,0,de Votre Altesse Serenissime,le très humble & tres soumis
 50,3830,run,held,hand,0,0,0,d. 8. April,1809.
+178,12680,run,held,hand,0,0,0,Dresden d 8ten Nov:,1805.
+191,13912,run,held,hand,0,0,0,d. 6ten Aug,1806.
+280,19944,break,held,hand,0,0,0,Diener v Triebenfeld,Wien den 21ten Merz
+280,19945,run,held,hand,0,0,0,Wien den 21ten Merz,1815
+299,21350,run,held,hand,0,0,0,d. 16ten Januar,1816.
+217,15757,run,held,hand,0,0,0,g. 15ten August,1811
+125,9180,run,held,hand,0,0,0,Durchlaucht nicht unlieb sein,v Triebenfeld

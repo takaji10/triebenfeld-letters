@@ -308,6 +308,164 @@ def plan_move(unit, letter, lines, entry, corpus):
                  'abs': (lines[s][0], lines[a][0]), 'notes': notes}
 
 
+# ---- the date and a postscript inside the closing (the editor, 2026-11-23) ----
+#
+# An entry with `ps:` (the postscript's lines, written beside the closing and
+# transcribed between the salutation and the date): the date and then the
+# postscript go after the anchor; every other line of the span keeps its order.
+
+def _find_block(texts, block):
+    hits = [i for i in range(len(texts) - len(block) + 1) if texts[i:i + len(block)] == block]
+    return hits
+
+
+def plan_move_ps(unit, letter, lines, entry, corpus):
+    date = [str(x) for x in entry['date']]
+    ps = [str(x) for x in entry['ps']]
+    after = str(entry['after'])
+    texts = [t for _, _, t in lines]
+    hd, hp = _find_block(texts, date), _find_block(texts, ps)
+    if len(hd) != 1 or len(hp) != 1:
+        return None, 'the date (%d) or the postscript (%d) is not found exactly once' % (len(hd), len(hp))
+    s, p = hd[0], hp[0]
+    e, q = s + len(date) - 1, p + len(ps) - 1
+    if not (q < s or e < p):
+        return None, 'the date and the postscript overlap'
+    if s > 0 and texts[s - 1] == after and p == e + 1:
+        return None, 'already moved'
+    s0 = min(s, p)
+    if s0 == 0:
+        return None, 'the moved lines begin the document'
+    anchor = [j for j in range(max(e, q) + 1, min(len(texts), max(e, q) + 7)) if texts[j] == after]
+    if not anchor:
+        return None, 'the anchor "%s" is not within six lines after the moved lines' % after
+    a = anchor[0]
+    if lines[a][0] - lines[s0 - 1][0] != a - (s0 - 1):
+        return None, 'a blank line among the moved lines'
+    if len({lines[j][1] for j in range(s0 - 1, a + 1)}) != 1:
+        return None, 'a page break between the salutation and the anchor'
+    group = {}
+    for j in range(s0, a + 1):
+        group[j] = 'date' if s <= j <= e else ('ps' if p <= j <= q else 'kept')
+    group[s0 - 1] = 'before'
+    # a split word may stay split only inside one group (both halves move together)
+    for j in range(s0 - 1, a + 1):
+        if texts[j].rstrip().endswith(HYPHEN) and not (j + 1 <= a and group.get(j) == group.get(j + 1)
+                                                         and group.get(j) != 'before'):
+            return None, 'a hyphenated line whose halves would part ("%s")' % texts[j].strip()[:40]
+    abs_of = {j: lines[j][0] for j in range(s0 - 1, a + 1)}
+    j_of = {v: k for k, v in abs_of.items()}
+    for r in _csv(os.path.join(unit.dir, 'linebreak_decisions.csv')):
+        if r.get('letter') == letter and int(r['line']) in j_of:
+            j = j_of[int(r['line'])]
+            if not (j + 1 <= a and group.get(j) == group.get(j + 1) and group.get(j) != 'before'):
+                return None, 'a line-break decision on line %s ("%s")' % (r['line'], r.get('context', '')[:40])
+    cw = _yaml(os.path.join(unit.dir, 'catchwords.yml'))
+    for r in (cw if isinstance(cw, list) else cw.get('catchwords') or []):
+        if str(r.get('letter')) == letter and abs_of[s0 - 1] <= int(r.get('line', 0)) + 1 \
+                and int(r.get('line', 0)) <= abs_of[a]:
+            return None, 'a catchword at line %s' % r.get('line')
+    for fn in SET_APART:
+        for b in _yaml(os.path.join(unit.dir, fn)).get('blocks') or []:
+            if str(b.get('letter')) != letter:
+                continue
+            for k in [k for k, t in enumerate(texts) if t.strip() == str(b['first']).strip()]:
+                if set(range(k, k + int(b['lines']))) & set(range(s0 - 1, a + 1)):
+                    return None, 'a block of %s covers the moved lines' % fn
+    kept = [j for j in range(s0, a + 1) if group[j] == 'kept']
+    order = kept + list(range(s, e + 1)) + list(range(p, q + 1))
+    new = corpus[:]
+    for k, src in zip(range(s0, a + 1), order):
+        new[lines[k][0] - 1] = corpus[lines[src][0] - 1]
+    if sorted(corpus[lines[s0][0] - 1:lines[a][0]]) != sorted(new[lines[s0][0] - 1:lines[a][0]]) \
+            or len(new) != len(corpus):
+        return None, 'not a pure reordering (internal error)'
+    return new, {'s0': s0, 'a': a, 'order': order, 'group': group, 'page': lines[s0][1], 'date': date,
+                 'ps': ps, 'texts': texts, 'abs': (lines[s0][0], lines[a][0]), 'notes': [],
+                 'salutation': texts[s0 - 1], 'between': [texts[j] for j in kept]}
+
+
+def page_file_permute(unit, info):
+    """The same reordering in the page's own file (found by its page id)."""
+    d = os.path.join(unit.dir, 'transcriptions')
+    names = sorted(os.listdir(d)) if os.path.isdir(d) else []
+    own = [fn for fn in names if fn == info['page'] + '.txt' or fn.endswith('_' + info['page'] + '.txt')]
+    if len(own) != 1:
+        return None, 'no single page file for %s' % info['page']
+    s0, a, texts = info['s0'], info['a'], info['texts']
+    old = [texts[j] for j in range(s0 - 1, a + 1)]
+    path = os.path.join(d, own[0])
+    ls = io.open(path, encoding='utf-8', newline='').read().split(NL)
+    strip = [l.rstrip('\r').strip() for l in ls]
+    scored = []
+    for i in range(len(strip) - len(old) + 1):
+        rs = [difflib.SequenceMatcher(None, strip[i + k], old[k].strip()).ratio() for k in range(len(old))]
+        scored.append((sum(rs) / len(rs), min(rs), i))
+    scored.sort(reverse=True)
+    if not scored or scored[0][0] < 0.75 or scored[0][1] < 0.4 or \
+            (len(scored) > 1 and scored[0][0] - scored[1][0] < 0.15):
+        return None, 'the page file %s does not clearly hold these lines' % own[0]
+    i = scored[0][2]
+    for k in range(len(old)):
+        if ls[i + k].strip() != old[k].strip():
+            info['notes'].append('the page file %s differs from corpus.txt: "%s" / corpus "%s"'
+                                 % (own[0], ls[i + k].strip(), old[k].strip()))
+    seg = ls[i + 1:i + 1 + (a - s0 + 1)]
+    ls[i + 1:i + 1 + (a - s0 + 1)] = [seg[j - s0] for j in info['order']]
+    return path, NL.join(ls)
+
+
+def para_rows_ps(letter, info, rows, lines_after):
+    """Held rows wherever a line's neighbour changed (DATE_ORDER_PLAN, the postscripts)."""
+    lo, hi = info['abs'][0] - 1, info['abs'][1] + 1
+    s0, a, order, group, texts = info['s0'], info['a'], info['order'], info['group'], info['texts']
+
+    def find(ctx):
+        hit = [r for r in rows if r['letter'] == letter and r['context'] == ctx]
+        if len(hit) > 1:
+            hit = [r for r in hit if str(r.get('line', '')).isdigit() and lo <= int(r['line']) <= hi]
+        return hit
+
+    def old_dec(j):
+        h = find(texts[j].strip()[:70])
+        return h[0]['decision'] if len(h) == 1 else 'run'
+    want = []
+    first_of = {}
+    for pos, j in enumerate(order):
+        idx = s0 + pos
+        newpred = order[pos - 1] if pos else s0 - 1
+        g = group[j]
+        if g in ('date', 'ps'):
+            if g not in first_of:
+                first_of[g] = j
+                want.append((idx, 'break'))
+            elif g == 'date':
+                want.append((idx, 'run'))
+            continue
+        if newpred == j - 1:
+            continue
+        # a kept line whose old neighbour was a moved line: it takes over the
+        # link that the moved run before it had to what preceded that run
+        m = j - 1
+        while m >= s0 and group[m] in ('date', 'ps'):
+            m -= 1
+        want.append((idx, old_dec(m + 1)))
+    if a + 1 < len(lines_after) and lines_after[a + 1][1] == lines_after[a][1]:
+        want.append((a + 1, 'break'))
+    for idx, dec in want:
+        n, _, t = lines_after[idx]
+        ctx, prev = t.strip()[:70], lines_after[idx - 1][2].strip()[:60]
+        hit = find(ctx)
+        if len(hit) > 1:
+            return 'the line "%s" has %d rows in the paragraph sheet' % (ctx, len(hit))
+        if hit:
+            hit[0].update({'decision': dec, 'confidence': 'held', 'cue': 'hand', 'line': str(n), 'prev_line': prev})
+        else:
+            rows.append({'letter': letter, 'line': str(n), 'decision': dec, 'confidence': 'held', 'cue': 'hand',
+                         'ratio': '0', 'prev_len': '0', 'page_measure': '0', 'prev_line': prev, 'context': ctx})
+    return None
+
+
 def page_file_move(unit, info):
     """Find the same lines in exactly one page file; return (path, new text) or (None, reason)."""
     d = os.path.join(unit.dir, 'transcriptions')
@@ -455,19 +613,28 @@ def move(unit, write):
         if letter not in docs:
             print('  !! %s: no document %s' % (unit.slug, letter))
             continue
-        new, info = plan_move(unit, letter, docs[letter], ent, corpus)
+        with_ps = bool(ent.get('ps'))
+        new, info = (plan_move_ps if with_ps else plan_move)(unit, letter, docs[letter], ent, corpus)
         if new is not None:
             info['join'] = [str(x) for x in ent.get('join') or []]
         if new is None:
             print('  %s %s: %s' % ('--' if info == 'already moved' else '!!', letter, info))
             continue
-        pf = page_file_move(unit, info) if os.path.isdir(os.path.join(unit.dir, 'transcriptions')) else (None, 'no page files')
+        has_pages = os.path.isdir(os.path.join(unit.dir, 'transcriptions'))
+        pf = ((page_file_permute if with_ps else page_file_move)(unit, info) if has_pages
+              else (None, 'no page files'))
         if pf[0] is None and pf[1] != 'no page files':
             print('  !! %s: %s' % (letter, pf[1]))
             continue
+        if pf[0] and pf[0] in page_writes:
+            # the file on disk is read for each entry: a second move in the
+            # same page file would undo the first
+            print('  !! %s: a second move in the page file %s; run again for it' % (letter, os.path.basename(pf[0])))
+            continue
         after_docs = dict(documents_from(new))
         trial = [dict(r) for r in prows]
-        bad = para_rows(unit, letter, info, trial, after_docs[letter])
+        bad = (para_rows_ps(letter, info, trial, after_docs[letter]) if with_ps
+               else para_rows(unit, letter, info, trial, after_docs[letter]))
         if bad:
             print('  !! %s: %s' % (letter, bad))
             continue
@@ -475,12 +642,21 @@ def move(unit, write):
         if pf[0]:
             page_writes[pf[0]] = pf[1]
         done.append(letter)
-        changes.append({'importance': 'wording', 'new': '2026-11-23',
-                        'what': 'Document %s, page %s: the date moved from between the closing\'s salutation and the '
-                                'rest of the closing to after the signature (the editor, 2026-11-23: the date goes '
-                                'after the signature). No word changed.' % (letter, info['page']),
-                        'was': ' / '.join([info['salutation']] + info['date'] + info['between']),
-                        'now': ' / '.join([info['salutation']] + info['between'] + info['date'])})
+        if with_ps:
+            tx = info['texts']
+            changes.append({'importance': 'wording', 'new': '2026-11-23',
+                            'what': 'Document %s, page %s: the date and the postscript written beside the closing '
+                                    'moved to after the signature, the date first (the editor, 2026-11-23). No word '
+                                    'changed.' % (letter, info['page']),
+                            'was': ' / '.join(tx[j] for j in range(info['s0'] - 1, info['a'] + 1)),
+                            'now': ' / '.join([tx[info['s0'] - 1]] + [tx[j] for j in info['order']])})
+        else:
+            changes.append({'importance': 'wording', 'new': '2026-11-23',
+                            'what': 'Document %s, page %s: the date moved from between the closing\'s salutation and '
+                                    'the rest of the closing to after the signature (the editor, 2026-11-23: the date '
+                                    'goes after the signature). No word changed.' % (letter, info['page']),
+                            'was': ' / '.join([info['salutation']] + info['date'] + info['between']),
+                            'now': ' / '.join([info['salutation']] + info['between'] + info['date'])})
         print('  ok %s (%s): "%s" now after "%s"' % (letter, info['page'], ' / '.join(info['date']), ent['after']))
         for n in info['notes']:
             print('     note: ' + n)

@@ -4698,6 +4698,20 @@ tool is `pipeline/review/date_order.py` (scan, `--move`, `--snapshot` /
   `--stale` list BEFORE moving, and restamp only letters that were not on it.
   The pilot's four were found stale by diffing their German at the v2
   translation (commit af752fb55) against the German before the pilot.
+- **What the page files are** (asked by the editor, 2026-11-23): the
+  transcription as first delivered, one file per page;
+  `pipeline/intake/import_pages.py` assembles `corpus.txt` from them once,
+  when a holding comes in, and refuses to overwrite a non-empty corpus without
+  `--force`. From then on `corpus.txt` is the text: the site, the dataset and
+  every check are built from it, and corrections are made there. Keeping the
+  page files in step by hand (the rule under "A changed line of
+  transcription") was often not done, so they lag. Never rebuild a corpus from
+  them.
+- **Moving a postscript to the end can change a letter's place**: the build
+  reads the place from a letter's last lines, and letter 104's moved
+  postscript ("Etwann den 16ten April gehn ich…") gave "Etwann". The
+  before/after compare caught it; a place override in `rulings.yml` (the
+  letter's own dateline) put it right.
 - **The page files are older than corpus.txt in many places**: word
   corrections made in the corpus only ("Wein" for Wien, "E h[?] d" for the
   expanded salutation). Find a page's own file by the page id at the end of
