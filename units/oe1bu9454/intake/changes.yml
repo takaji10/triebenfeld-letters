@@ -1198,3 +1198,8 @@ changes:
   what: 'Document 298, page 0535_a1: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
   was: Straße von Kempen nach Kalisz / Blizanow d 22 ten Xbr / 1815 / v Triebenfeld
   now: Straße von Kempen nach Kalisz / v Triebenfeld / Blizanow d 22 ten Xbr / 1815
+- importance: wording
+  new: '2026-11-23'
+  what: 'Letter 85 (the King''s letter, page 2): the closing''s second word, read "Grün", is "Oheim" (the editor, on the full-size original; the letter''s own salutation is "Freundlich lieber Oheim!").'
+  was: gutwilliger Grün
+  now: gutwilliger Oheim
